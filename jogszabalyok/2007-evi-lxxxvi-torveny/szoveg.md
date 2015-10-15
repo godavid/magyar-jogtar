@@ -1459,11 +1459,18 @@ működtetésére vonatkozó engedély
 
 90. § (1) Az egyetemes szolgáltatásra vonatkozó engedélyt a Hivatal az engedély iránti kérelemben megjelölt szolgáltatási területre adja ki. Az egyetemes szolgáltatásra vonatkozó engedélyek kiadása során a Hivatal biztosítja, hogy Magyarország teljes területe egyetemes szolgáltatással lefedett legyen.
 
-(2) A Hivatal egyetemes szolgáltatásra vonatkozó engedélyt kizárólag a 88. § (2) bekezdése szerinti villamosenergia-kereskedőnek adhat. Az egyetemes szolgáltató villamosenergia-kereskedelemre vonatkozó engedély alapján folytatott tevékenysége az egyetemes szolgáltatás ellátását nem veszélyeztetheti.
+(2) A Hivatal egyetemes szolgáltatásra vonatkozó engedélyt – a (3) bekezdésben foglalt kivétellel – kizárólag a 88. § (2) bekezdése szerinti villamosenergia-kereskedőnek adhat.
 
-(3)
+(3) Ha a kérelmező egyetemes szolgáltatásra vonatkozó engedély iránti kérelmet és a 88. § (2) bekezdése szerinti villamosenergia-kereskedelemre vonatkozó engedély iránti kérelmet is benyújt, a Hivatal az egyetemes szolgáltatásra vonatkozó engedélyt a villamosenergia-kereskedelemre vonatkozó engedély kiadásakor is kiadhatja.
 
-(4) Ha az egyetemes szolgáltatás bármely okból nem biztosított Magyarország teljes területén, a Hivatal – az (1) bekezdésre figyelemmel – kötelezheti a kiskereskedelmi piacon jelentős piaci erővel rendelkező villamosenergia-kereskedőket, hogy nyújtsanak be kérelmet az egyetemes szolgáltatásra vonatkozó engedélyek megszerzése érdekében.
+(4) Az egyetemes szolgáltató villamosenergia-kereskedelemre vonatkozó engedély alapján folytatott tevékenysége az egyetemes szolgáltatás ellátását nem veszélyeztetheti.
+
+90/A. § (1) A Hivatal az egyetemes szolgáltatásra vonatkozó engedélyt az engedélyes kérelmére kizárólag abban az esetben vonhatja vissza, ha az engedély visszavonását kezdeményező egyetemes szolgáltató (a továbbiakban: átadó) által ellátott, egyetemes szolgáltatásra jogosult felhasználók egyetemes szolgáltatás keretében történő ellátása egy másik egyetemes szolgáltató által (a továbbiakban: átvevő) az engedély visszavonását követően biztosított.
+
+(2) Az átadó egyetemes szolgáltatói engedélyének visszavonására irányuló kérelemhez, annak részeként legalább az alábbi információkat kell megadni, valamint a következő dokumentumokat kell csatolni:
+
+- a) az átadó által ellátott felhasználók száma,
+- b) az átadó által ellátott felhasználókat érintő olyan körülmények és kockázatok bemutatása, amelyek az átadás-átvétel következtében merülhetnek fel.
 
 ### Az engedély módosítása
 
@@ -1628,6 +1635,121 @@ biztosítása érdekében
 - b) szükség esetén a közvilágítási berendezés tartószerkezeteken és létesítményekben történő elhelyezéséről azok tulajdonosával
 
 megállapodni.
+
+### Átvevő egyetemes szolgáltató kijelölése
+
+99/B. § (1) A Hivatal az egyetemes szolgáltatásra vonatkozó engedély visszavonására irányuló kérelem beérkezésétől számított 20 napon belül nyilvános felhívást intéz az engedéllyel rendelkező egyetemes szolgáltatókhoz, külön írásbeli megkeresés mellett, hogy a közzétételt követő 30 napon belül tegyenek nyilatkozatot (a továbbiakban: ajánlat) arra, hogy az átadó felhasználóit (a továbbiakban: átvétellel érintett felhasználók) milyen feltételekkel és időponttól vállalják ellátni. Az egyetemes szolgáltató jogosult a működési engedélyében meghatározott szolgáltatási területén kívül eső felhasználási hellyel rendelkező egyetemes szolgáltatásra jogosult felhasználók ellátására vonatkozóan is ajánlatot tenni.
+
+(2) Az (1) bekezdés szerinti ajánlathoz az ajánlattevőnek csatolnia kell működési engedélyének területi hatályát módosító kérelmét, amennyiben az átvétellel a működési engedélyében meghatározott ellátási területén kívül felhasználási hellyel rendelkező egyetemes szolgáltatásra jogosult felhasználók ellátására kerülne sor.
+
+(3) A Hivatal a felhívásra beérkező ajánlatokat értékeli, és az ellátásbiztonság szempontjai alapján választja ki a legkedvezőbbet. A Hivatal a mérlegelés során előnyben részesítheti az átadó teljes ellátási területének ellátására adott ajánlatot, illetve az olyan egyetemes szolgáltató ajánlatát, amelynek a működési engedélyében meghatározott szolgáltatási területe kiterjed az átadó szolgáltatási területére.
+
+(4) Ha a Hivatal (1) bekezdés szerinti felhívására egyetlen egyetemes szolgáltató sem ad ajánlatot vagy a beérkező ajánlatok vizsgálata alapján a Hivatal azt valószínűsíti, hogy az ajánlattevők egyike sem tudja biztosítani az átadó felhasználói részére a villamosenergia-ellátást, a Hivatal a körülmények mérlegelésével az összes egyetemes szolgáltatói engedélyes közül az ellátásbiztonság és az ügyfélkiszolgálás legmagasabb szintjére törekedve jelöli ki az átvevő egyetemes szolgáltatót.
+
+(5) Az (1)–(4) bekezdés rendelkezései nem alkalmazhatóak, amennyiben
+
+- a) az átadó még az egyetemes szolgáltatói engedély visszavonása iránti kérelme benyújtása előtt megállapodik az egyetemes szolgáltatásra jogosult fogyasztói ellátásáról egy arra alkalmas egyetemes szolgáltatóval,
+- b) a megállapodás tartalma megfelel a jogszabályi követelményeknek,
+- c) az átadó és az átvevő közös kérelmet nyújt be a Hivatalhoz, amelyben megjelölik az átvétel tervezett időpontját,
+- d) az átvevő hitelt érdemlő módon bemutatja az átvétellel érintett felhasználók ellátásához szükséges források rendelkezésre állását, valamint az ellátásbiztonság követelményeinek való megfelelőséget, és
+- e) az átadó az egyetemes szolgáltatói engedélyének visszavonására irányuló, míg az átvevő az átvétellel érintett felhasználók átvételére vonatkozó kérelmével együtt a felek benyújtják a megállapodást a Hivatal részére.
+
+(6) Az (5) bekezdés szerinti megállapodás megfelelőségének vizsgálatára a Hivatalnak 20 nap áll rendelkezésére. Amennyiben a megállapodás részben vagy egészben nem felel meg a jogszabályban foglalt feltételeknek, az ellátásbiztonság követelményének vagy a Hivatal kockázatokat tár fel az átadás-átvétellel összefüggésben, akkor a Hivatal 8 napos határidő megadásával felhívja az átadót és az átvevőt a megállapodás módosítására. A további ismételt vizsgálatokra a Hivatalnak esetenként 15 nap áll rendelkezésére. Amennyiben a megállapodás megfelel a jogszabályokban foglalt követelményeknek, az ellátásbiztonságnak, a Hivatal meghozza a 99/C. § szerinti határozatokat, amelyekben az átadó egyetemes szolgáltató engedélyét visszavonja, míg a megállapodás szerinti átvevőt jelöli ki átvevő egyetemes szolgáltatóként az átadó és az átvevő által megjelölt átvételi időponttal.
+
+99/C. § (1) A Hivatal a 99/B. § (1) és (6) bekezdésében foglalt határidők elteltét követően a 168. § (4) bekezdés j) pontja szerinti ügyintézési határidőn belül egyidejűleg átadó egyetemes szolgáltató engedélyét visszavonó határozatot (a továbbiakban: visszavonó határozat) és átvevő egyetemes szolgáltatót kijelölő határozatot (a továbbiakban: kijelölő határozat) hoz, amelyekben legalább a következőkről rendelkezik:
+
+- a) az engedély visszavonásának időpontja, adott hónap 1. nap 0 óra 0 percben meghatározva (a továbbiakban: átvétel időpontja),
+- b) a 99/B. § szerint kiválasztott vagy kijelölt átvevő személye,
+- c) a 99/B. § szerint kiválasztott vagy kijelölt átvevő engedélyének módosítása,
+- d) az átadó és az átvevő átvétellel kapcsolatos jogai és kötelezettségei.
+
+(2) Az (1) bekezdés d) pontja alapján meghatározott jog, illetve kötelezettség előírására kizárólag közvetlenül az átvétellel érintett felhasználók egyetemes szolgáltatás keretében történő folyamatos ellátásának biztosítása érdekében kerülhet sor, úgy hogy az nem okozhat indokolatlan vagy aránytalan többletterhet az átadó vagy az átvevő részére.
+
+(3) Az átvétel időpontját úgy kell meghatározni, hogy az (1) bekezdés szerinti határozatok kelte és az átvétel időpontja között legfeljebb 18 hónap teljen el, és az ne legyen korábbi, mint az átvevő által a 99/B. § (1) bekezdése szerinti ajánlatában megjelölt időpont. Indokolt esetben az átadó és az átvevő közös kérelemben kérheti a Hivataltól az átvétel időpontjának módosítását.
+
+(4) Az átvevő, az átadó, a területileg illetékes elosztók és a felhasználók kötelesek egymással – különösen az adategyeztetés, a tájékoztatás és a fogyasztásmérő berendezés leolvasása tekintetében – együttműködni. Az átadó és az átvevő kötelesek az átvétellel kapcsolatban az átvétellel érintett felhasználókat az (5) bekezdés szerinti tájékoztatási ütemtervnek megfelelően tájékoztatni.
+
+(5) Az átadó és az átvevő kötelesek a Hivatal által meghatározott határidőn belül az átvétellel érintett felhasználók tájékoztatására vonatkozóan ütemtervet készíteni, és azt a Hivatal részére megküldeni.
+
+(6) Az átadó köteles az átvevőnek az észszerű és indokolt tájékoztatást és informatikai-műszaki támogatást megadni annak érdekében, hogy az átvevő az informatikai rendszerét az átvételre felkészíthesse. Az átadó köteles az átvétellel érintett felhasználók reprezentatív köre tekintetében a (7) bekezdés szerinti adatokkal az informatikai rendszer tesztelésére alkalmas mintát átadni az átvevőnek a visszavonó határozat kézhezvételét követő 20 napon belül.
+
+(7) Az átadó köteles az átvétel időpontját megelőző 30. napig és az átvétel napján az átvétellel érintett felhasználókra vonatkozó nyilvántartást az átvevő részére elektronikus adathordozón, automatizált gépi feldolgozásra alkalmas formátumban átadni. A nyilvántartás legalább az alábbi naprakész adatokat tartalmazza:
+
+- a) a villamosenergia-vásárlási szerződésre vonatkozó adatok:
+  - aa) a szerződés azonosító száma vagy kódja,
+  - ab) a felhasználó jogállása (természetes vagy jogi személy),
+  - ac) a felhasználó neve,
+  - ad) a 151. § (1) bekezdés alapján a felhasználó nyilvántartott személyes adatai vagy cégadatai
+  - ae) a felhasználó kézbesítési címe (irányítószám, település, közterület neve és típusa, házszám, cím további része, helyrajzi szám),
+- b) a fogyasztás jellegének megjelölése:
+  - ba) lakossági fogyasztó vagy nem lakossági fogyasztó-e,
+  - bb) előre fizető mérőn keresztül történő felhasználás (igen vagy nem),
+  - bc) mértékadó éves és várható havi fogyasztás,
+  - bd) háztartási méretű kiserőmű a csatlakozási ponton táplál be villamos energiát (igen vagy nem), ha igen, a szaldó elszámolás időszaka (havi, féléves, éves),
+- c) a felhasználási hely adatai:
+  - ca) felhasználási hely egyedi azonosítója,
+  - cb) a felhasználási hely címe (irányítószám, település, közterület neve és típusa, házszám, cím további része, helyrajzi szám),
+- d) a csatlakozási ponthoz rendelt elszámolási pont és mérési pont adatai (POD),
+- e) a fizető adatai, ha a fizető nem azonos a felhasználóval:
+  - ea) a fizető neve,
+  - eb) a 151. § (1c) bekezdésére figyelemmel a 151. § (1) bekezdése alapján a fizető nyilvántartott személyes vagy cégadatai,
+  - ec) a fizető címe (irányítószám, település, közterület neve és típusa, házszám, cím további része, helyrajzi szám),
+  - ed) a fizető kézbesítési címe (irányítószám, település, közterület neve és típusa, házszám, cím további része, helyrajzi szám),
+- f) elszámolással kapcsolatos adatok:
+  - fa) az elszámolás alapját képező fogyasztásmérő berendezés azonosítója,
+  - fb) az utolsó fogyasztásmérő-leolvasás időpontja, a fogyasztásmérő állása ebben az időpontban, háztartási méretű kiserőmű esetén az elosztó hálózatból vételezett és az elosztó hálózatba táplált villamos energia mennyiségének külön-külön megjelölésével,
+  - fc) a rendelkezésre álló utolsó diktált fogyasztásmérő-állás, ennek időpontja,
+  - fd) a szerződött árszabás csatlakozási pontonként, „A1” árszabás esetén az adott elszámolási időszakban már felhasznált villamos energia mennyisége az elszámolási időszakon belül kiállított számlák alapján,
+  - fe) az elszámolási és a számlázási időszakok,
+  - ff) csoportos beszedési megbízással történő fizetési kötelezettség teljesítése esetén a felhasználó vagy a fizető bankszámlaszáma, a 99/D. § (7) bekezdés szerinti engedményezés esetén a lejárt követelések, a lejárat időpontja, a lejárt tartozással kapcsolatos kezdeményezések (polgári peres vagy fizetési meghagyásos eljárás útján történő érvényesítés, villamosenergia-ellátásból történő kikapcsolás) és azok állása,
+- g) a védendő fogyasztói státusz megjelölése, az ezen a jogcímen érvényesített kedvezmény,
+- h) a 63/B. §-ban meghatározott minimális szolgáltatás igénybevételére vonatkozó jogosultság megjelölése (igen vagy nem),
+- i) 147. § (1) bekezdés b) pontja szerinti támogatásra való jogosultság és – annak megléte esetén – a jogosultság kezdőnapja és időtartama, valamint az adott naptári évben már igénybevett kedvezményes fogyasztás mértéke,
+- j) minden olyan egyéb – nem személyes – adat, amelyet kormányrendelet vagy a Hivatal átadni rendel.
+
+(8) Az átvevő a Hivatalnál kérheti a kijelölő határozat módosítását, ha az átadó az e §-ban vagy a 99/D. §-ban foglalt valamely kötelezettségét megszegi vagy annak teljesítésével indokolatlanul késlekedik.
+
+(9) A Hivatal az (1) bekezdés szerinti határozatokat legkésőbb az átvétel napjáig hivatalból módosíthatja, ha az ellátásbiztonság, a fogyasztók folyamatos ellátásának biztosítása, jogszabályi megfelelés vagy a visszavonó és a kijelölő határozat közötti összhang megteremtése azt szükségessé teszi.
+
+(10) Az átadó kiszervezett tevékenységére vonatkozó, átvétel időpontjában hatályos szerződését a Hivatal előzetes jóváhagyásával az átvevőre átruházhatja.
+
+99/D. § (1) Az átadó az átvétel időpontjáig köteles teljesíteni a működési engedélyének megfelelő kötelezettségeit.
+
+(2) Az átvétel időpontjában az átadó és az átvétellel érintett felhasználók közötti villamosenergia-vásárlási szerződés – a felek elszámolási kötelezettségének fennmaradása mellett – e törvény erejénél fogva megszűnik. Az átadó a 151. § (1c) bekezdése szerinti adatokat az elszámolás lezártáig az elszámolás céljából kezelheti. Az átvétel időpontjában az átvétellel érintett felhasználók és az átvevő között e törvény erejénél fogva az átadóval kötött villamosenergia-vásárlási szerződés időbeli hatályával megegyező hatályú egyetemes szolgáltatási szerződés jön létre az egyetemes szolgáltatás biztosítására az e törvényben, a Vhr.-ben, valamint az átvevő üzletszabályzatában meghatározott feltételek szerint.
+
+(3) Ha az átadó által megkötött egyetemes szolgáltatási szerződéshez kapcsolódóan az átadó a villamosenergia-vásárlási szerződésből eredő fizetési kötelezettség tekintetében fizetővel áll jogviszonyban, akkor az átvétel időpontjában az átadó és a fizető közötti fizetési megállapodás – az átadó és a fizető elszámolási kötelezettségének fennmaradása mellett – e törvény erejénél fogva megszűnik. Az átvétel időpontjában az átvevő és a fizető között a (2) bekezdés alapján létrejött egyetemes szolgáltatási szerződéshez kapcsolódóan a villamosenergia-vásárlási szerződésből eredő fizetési kötelezettségek tekintetében e törvény erejénél fogva az átadó és a fizető közötti fizetési megállapodás időbeli hatályával megegyező hatályú fizetési megállapodás jön létre az e törvényben, a Vhr.-ben, valamint az átvevő üzletszabályzatában meghatározott feltételek szerint.
+
+(4) Az átvétellel érintett felhasználó és az átvevő között létrejött villamosenergia-vásárlási szerződésből eredő fizetési kötelezettség körében a felhasználó vagy a fizető (a felhasználó és a fizető a továbbiakban együtt: fizető fél) által az átadó mint kedvezményezett javára csoportos beszedési megbízás teljesítésére adott felhatalmazást az átvétel napjától e törvény erejénél fogva az átvevő mint kedvezményezett javára megadott felhatalmazásnak kell tekinteni. Az átvevő a fizető fél pénzforgalmi szolgáltatója részére az átvétel napját legalább 15 nappal megelőzően megküldi az átvétel napját igazoló kijelölő határozatot. A fizető fél pénzforgalmi szolgáltatója az átvevő által adott csoportos beszedési megbízást az átvétel napját követően az átvevő javára köteles teljesíteni, amennyiben az átvevő 15 nappal korábban a kedvezményezett és a fizető fél megváltozott azonosítóját közölte.
+
+(5) Az átvétel időpontjában az átadó köteles a 63. § (1) bekezdése alapján a megbízottként, összevont kezelésében lévő hálózati csatlakozási és hálózathasználati szerződéseket az átvevő részére kezelésre átadni.
+
+(6) Az átadó és az átvevő köteles az átvétellel érintett felhasználók vonatkozásában az elosztó felé kezdeményezni a (8) bekezdés szerinti elszámolási adatok meghatározását az átvétel időpontját legalább 21 nappal megelőzően.
+
+(7) Az átvétel időpontjában a villamosenergia-ellátásból fizetési késedelem miatt kikapcsolt felhasználó visszakapcsolására, valamint a vele való szerződéskötésre az átvevő üzletszabályzata irányadó azzal, hogy a visszakapcsolás feltétele – a követelés engedményezése hiányában – az átadó egyetemes szolgáltató hozzájáruló nyilatkozata. Az átadó a hozzájáruló nyilatkozatot azzal egyidejűleg köteles kiadni és 3 napon belül az átvevő részére átadni, hogy a felhasználó tartozása az átadó felé megszűnik vagy a felhasználóval megállapodott a tartozása átütemezéséről.
+
+(8) Amennyiben az átadó az átvétel időpontját megelőzően fennálló egyetemes szolgáltatási jogviszonyból eredő követeléseit az átvevőre engedményezi, az ilyen követelés meg nem fizetése esetén az átvevő ugyanolyan feltételekkel kezdeményezheti a felhasználó villamosenergia-ellátásból való kikapcsolását, mintha a követelés nála keletkezett volna.
+
+(9) Az átvétel időpontjára vonatkozó záró mérőállásokat a területileg illetékes elosztó távlehívható fogyasztásmérő esetén leolvasással, nem távlehívható fogyasztásmérő esetén az átvétel napját megelőző legutolsó mérőleolvasásból kiindulva, becsléssel állapítja meg. A területileg illetékes elosztó az elszámoláshoz szükséges adatokat azok rendelkezésre állását követően haladéktalanul, de legkésőbb az átvétel időpontját követő 20 napon belül közli az átadóval és az átvevővel.
+
+(10) Az átadó köteles végszámlát kibocsátani az elszámoláshoz szükséges adatok kézhezvételét követő 20 napon belül. Az átvevő által kiállított első számla kezdő mérőállásának, valamint az átadó által kiállított végszámla záró mérőállásának meg kell egyeznie egymással, valamint a területileg illetékes elosztó által megállapított elszámolási mérőállással.
+
+(11) Nem távlehívható fogyasztásmérő esetén, ha az átvétel időpontját megelőzően az átadó egyetemes szolgáltató és az átvevő egyetemes szolgáltató az átvétel időpontjára vonatkozóan a záró mérőállásoknak a (9) bekezdéstől eltérő módon történő meghatározásában állapodik meg, a megállapodás szerint meghatározott mérőállás az irányadó. Az átadó egyetemes szolgáltató és az átvevő egyetemes szolgáltató a záró mérőállások megállapodásuk szerinti meghatározásáról legkésőbb az átvétel időpontját 21 nappal megelőzően kötelesek együttesen tájékoztatni az elosztót, amely köteles azt, valamint az annak alapján meghatározott elszámolási adatokat elfogadni és az iparági elszámolások során alkalmazni.
+
+(12) Az átadóval, az átvevővel és a területileg illetékes elosztóval (e bekezdés alkalmazásában a továbbiakban együtt: érintett engedélyesek) szemben az átvétel időpontját megelőző 2 hónapban végzett tevékenysége miatt, valamint az átvétel időpontját követő 6 hónapban végzett tevékenysége miatt a fogyasztóvédelmi hatóság és a Hivatal nem szabhat ki bírságot, továbbá a Hivatal nem alkalmazhatja a 96. § (1) bekezdésében foglalt jogkövetkezményeket, valamint az érintett engedélyesek mentesülnek kötbérfizetési kötelezettségük alól, amennyiben az átvétellel érintett felhasználók ellátásához kapcsolódóan az érintett engedélyesek
+
+- a) a Hivatal garantált szolgáltatásra vonatkozó határozatában előírt határidőket nem vagy nem megfelelően teljesítik,
+- b) a Hivatal ügyfélkapcsolati szolgáltatásminőség elvárt színvonalának és minőségi követelményének meghatározásáról szóló határozatában rögzített határidőket, illetve elvárt értékeket nem tartják be, vagy
+- c) az ügyfélszolgálatuk felé indított hívás sikeres felépülésének időpontjától számított öt percen belül nem biztosítják az élőhangos bejelentkezést.
+
+99/E. § A Hivatal átvevő egyetemes szolgáltató 99/B. § (3) és (4) bekezdése szerinti kijelölése esetén a 99. § (2) bekezdésében foglaltak megfelelően alkalmazandók.
+
+### Egyetemes szolgáltatás folyamatosságának biztosítása az engedély időbeli hatályának megszűnésével kapcsolatosan
+
+99/F. § (1) Ha az egyetemes szolgáltatásra jogosult felhasználók egyetemes szolgáltatás keretében történő ellátása az egyetemes szolgáltatásra vonatkozó engedély időbeli hatályának megszűnése miatt kerül veszélybe, a 99/B–99/E. § rendelkezései megfelelően alkalmazandók, azzal hogy ez esetben a Hivatal az egyetemes szolgáltatásra vonatkozó engedély időbeli hatályának megszűnését 18 hónappal megelőzőn intézi az egyetemes szolgáltatókhoz a 99/B. § (1) bekezdése szerinti nyilvános felhívást. Az átvétel időpontja az egyetemes szolgáltatásra vonatkozó engedély időbeli hatályának megszűnését követő nap és az nem módosítható.
+
+(2) Ha az egyetemes szolgáltató az (1) bekezdés szerinti eljárás megindítását követően a Hivatalhoz az eljárással érintett egyetemes szolgáltatásra vonatkozó engedély visszavonására irányuló kérelmet nyújt be, a visszavonásra az (1) bekezdés szerint megindított eljárás alapján történő átvétellel egyidejűleg kerülhet sor. Ez esetben – figyelemmel a 99/C. § (2) bekezdésében foglaltakra – az átvétel időpontja az (1) bekezdésben meghatározott időpontnál korábbi időpontban is meghatározható és legfeljebb az (1) bekezdésben meghatározott időpontra módosítható.
+
+(3) Ha az egyetemes szolgáltató az (1) bekezdés szerinti eljárás megindítását követően a Hivatalhoz az eljárással érintett egyetemes szolgáltatásra vonatkozó engedély tekintetében az engedély időbeli hatályának meghosszabbítására irányuló kérelmet nyújt be, a Hivatal – a jogszabályi feltételek fennállása esetén – az egyetemes szolgáltatásra vonatkozó engedély időbeli hatályát a kérelemben foglaltaknak megfelelően meghosszabbítja és az (1) bekezdés szerinti eljárást megszünteti.
 
 ### XII. Fejezet — A TEVÉKENYSÉGEK SZÉTVÁLASZTÁSA
 
@@ -2477,20 +2599,23 @@ villamos energia képezi.
 
 (1b) Az elosztó a védendő fogyasztókat megillető kedvezmény biztosítása céljából kezelheti a védendő fogyasztók nyilvántartásának vezetéséhez szükséges személyes és különleges személyes adatokat, így a védendő fogyasztó nevét, lakcímét, születési helyét és idejét, anyja nevét, valamint a védendő fogyasztói státuszt megalapozó adatokat.
 
+(1c) Az átvevő egyetemes szolgáltató az átadó egyetemes szolgáltató egyetemes szolgáltatói engedélye visszavonásának 90/A. § szerinti kezdeményezése esetén a 99/C. § (1) bekezdése szerinti határozat kézhezvételének napjától az érintett felhasználók átvétele, villamosenergia-ellátásuk biztosításához szükséges teendők elvégzése céljából kezelheti az érintett felhasználó, valamint a fizető azonosításához szükséges és elégséges, az (1) bekezdésben, valamint törvényben meghatározott személyes adatokat.
+
 (2) A hálózati engedélyes, a felhasználónak közvetlenül értékesítő termelői engedélyes, a villamosenergia-kereskedő és a megfelelési ellenőr (a továbbiakban együtt: adatkezelő) a kezelt személyes adatot haladéktalanul törli, ha nem az (1)–(1b) bekezdésben meghatározott célból történt az adatkezelés, vagy az (1)–(1b) bekezdésben meghatározott adatkezelési cél megszűnt, különösen az engedélyesi tevékenység keretében létrejött jogviszony megszűnik, vagy az ahhoz kapcsolódó követelések érvényesítése megtörtént, illetve a követelés érvényesíthetősége megszűnt.
 
 (3) A felhasználó, valamint a külön jogszabályban meghatározott fizető adatkezelővel történő szerződéskötése nem tehető függővé valamely, az (1)–(1b) bekezdésben nem szabályozott célból történő adatkezeléshez való hozzájárulástól.
 
-(4) Az (1)–(1b) bekezdésben meghatározott adatok közül az adatkezelés céljához szükséges adatok átadhatóak
+(4) Az (1)–(1c) bekezdésben meghatározott adatok közül az adatkezelés céljához szükséges adatok átadhatóak
 
 - a) az adatkezelő megbízása alapján a szerződés megkötését, a leolvasást, a számlázást, a kézbesítést, a díjfizetések és követelések kezelését, a forgalmazás kezelését, a felhasználási helyek műszaki kivitelezését, felülvizsgálatát, ellenőrzését, kikapcsolását, illetőleg az ügyfélszolgálati tevékenységet végző természetes személynek és gazdálkodó szervezetnek,
 - b) a számlázási és forgalmazási jogviták rendezésére jogszabály alapján jogosult szervezetek részére,
 - c) a Hivatalnak,
 - d) a nemzetbiztonság, a honvédelem és a közbiztonság védelme, a közvádas bűncselekmények üldözése céljából az arra hatáskörrel rendelkező nemzetbiztonsági szerveknek, nyomozó hatóságoknak, az ügyésznek, valamint a bíróságnak,
-- e) a bírósági végrehajtásról szóló 1994. évi LIII. törvény előírásai szerint a bírósági végrehajtónak,
+- e) a bírósági végrehajtásról szóló törvény előírásai szerint a bírósági végrehajtónak,
 - f) a Nemzeti Fogyasztóvédelmi Hatóságnak,
-- g) a védendő fogyasztó esetében az egy felhasználási helyen való igénybevételének ellenőrzése céljából az elosztónak és a védendő fogyasztót megillető kedvezménynek vagy különleges bánásmódnak a biztosítása érdekében a villamosenergia-kereskedőnek, és
-- h) a villamosenergia-iparban fennálló, vagy eltöltött munkaviszonnyal összefüggésben az egyetemes szolgáltató üzletszabályzatában meghatározott kedvezményes villamosenergia-áron történő vásárlásra jogosult személyeket illetően, a kedvezményes villamosenergia-áron történő vásárlás elszámolása céljából az átviteli rendszerirányítónak.
+- g) a védendő fogyasztó esetében az egy felhasználási helyen való igénybevételének ellenőrzése céljából az elosztónak és a védendő fogyasztót megillető kedvezménynek vagy különleges bánásmódnak a biztosítása érdekében a villamosenergia-kereskedőnek,
+- h) a villamosenergia-iparban fennálló vagy eltöltött munkaviszonnyal összefüggésben az egyetemes szolgáltató üzletszabályzatában meghatározott kedvezményes villamosenergia-áron történő vásárlásra jogosult személyeket illetően, a kedvezményes villamosenergia-áron történő vásárlás elszámolása céljából az átviteli rendszerirányítónak, és
+- i) az (1c) bekezdésben meghatározott időponttól az átvevő egyetemes szolgáltatónak.
 
 (5) Az átadott adatokkal kapcsolatban a (4) bekezdés a)–c) és f)–h) pontjában meghatározott adatokat átvevőket az engedélyessel azonos titoktartási kötelezettség terheli. Az adatkezelő köteles a (4) bekezdés a)–c), valamint e)–h) pontja esetén az adatátadással egyidejűleg az érintettet értesíteni.
 
@@ -2787,7 +2912,8 @@ együttműködik. A Hivatal és a Felügyelet az együttműködésük részletes
 - f) amennyiben a Hivatal a 39/E. § (2) bekezdése alapján jár el, 30 nap, és
 - g) a XIII/A. Fejezetben szabályozott eljárások esetében tizenkét hónap, amely egy alkalommal három hónappal meghosszabbítható,
 - h) a harmadik országokkal kapcsolatos 160/A. § szerinti tanúsítási eljárásban a határozat meghozatalára és azzal egyidejűleg az eljárás felfüggesztésére 4 hónap, az eljárás felfüggesztésére és a határozat közzétételére vagy módosítására az Európai Bizottság véleményének kézhezvételét vagy az Európai Bizottság 2009/72/EK rendelet 11. cikk (6) bekezdése szerinti eljárási határidejének lejártát követő 2 hónap,
-- i) a kábelcsere-ütemezési tervvel kapcsolatos ügyekben 45 nap.
+- i) a kábelcsere-ütemezési tervvel kapcsolatos ügyekben 45 nap,
+- j) az átadó egyetemes szolgáltató engedélyét visszavonó határozat és az átvevőt kijelölő határozat meghozatalához szükséges eljárás során 20 nap.
 
 (4a) Az elnök a Hivatal (4) bekezdés ba) és bc) pontja szerinti ügyintézési határidejét annak lejárta előtt indokolt esetben – a Ket. általános eljárásjogi szabályaitól eltérően – egy alkalommal 2 hónappal, valamint a panaszt benyújtó ügyfél beleegyezésével további 2 hónappal meghosszabbíthatja.
 
@@ -2902,7 +3028,7 @@ együttműködik. A Hivatal és a Felügyelet az együttműködésük részletes
 - 14. a villamosenergia-kereskedő villamos energia értékesítésére vonatkozó szerződése megkötésének feltételeit, kötelező tartalmi és formai elemeit,
 - 15. a közvetlen vezeték, a termelői vezeték vagy a magánvezeték átminősítésének vagy közcélúvá nyilvánításának szabályait,
 - 16. az egyetemes szolgáltatásra vonatkozó engedélykérelemben feltüntethető legkisebb szolgáltatási terület szabályait, valamint az egyetemes szolgáltatás bármely villamosenergia-kereskedő általi végzését lehetővé tevő részletes szabályokat,
-- 17. a folyamatos ellátás, a folyamatos közvilágítás biztosítása érdekében, valamint az átviteli rendszerirányító ismételt súlyos kötelezettségszegése esetén más engedélyes kijelölésére, a más engedélyes jogaira és kötelezettségeire vonatkozó részletes szabályokat, valamint a korábbi engedélyes működési engedélyében meghatározott jogai és kötelezettségeinek gyakorlásának korlátozására vonatkozó részletes szabályokat,
+- 17. a folyamatos ellátás, a folyamatos közvilágítás biztosítása érdekében, valamint az átviteli rendszerirányító ismételt súlyos kötelezettségszegése esetén más engedélyes kijelölésére, a más engedélyes jogaira és kötelezettségeire vonatkozó részletes szabályokat, valamint a korábbi engedélyes működési engedélyében meghatározott jogai és kötelezettségeinek gyakorlásának korlátozására vonatkozó részletes szabályokat, továbbá átvevő egyetemes szolgáltató kijelölése esetén az átadó egyetemes szolgáltató által átadandó adatok körét a személyes adatok kivételével,
 - 18. a jelentős piaci erő megállapítása szempontjából releváns piacok területi meghatározására, a piaci verseny hatékonyságának elemzésére, a nem kellően hatékony piacokon a jelentős piaci erővel rendelkező engedélyesek azonosítására és a 110–111. §-ok szerinti kötelezettségek tartalmára, alkalmazási feltételeire,
 - 19. az okos mérés bevezetésével kapcsolatos mintaprojektek megvalósításával összefüggő szabályokat, ennek keretében az okos mérőkre és felszerelésükre, a mintaprojektben résztvevők jogaira és kötelezettségeire, az adatkezeléssel és adatfeldolgozással kapcsolatos előírásokra, a mintaprojekttel összefüggő, és azok eredményeiről való adatszolgáltatásra, tájékoztatásra vonatkozó szabályokat,
 - 20. a szervezett villamosenergia-piac működésére, engedélyezésére, a szervezett villamosenergia-piaci engedélyesnek az energiakereskedelem fizikai teljesítésű ügyleteivel összefüggő feladataira, jogaira és kötelezettségeire vonatkozó részletes szabályokat, továbbá a szervezett villamosenergia-piaci szabályzat elkészítésének, közzétételének rendjét, a szervezett villamosenergia-piac engedélyese és az átviteli rendszerirányító együttműködésének szabályait,
@@ -3068,22 +3194,7 @@ e törvény, valamint a villamosenergia-ipari építésügyi hatósági engedél
 
 (2) A Hivatal a jelen törvény 107–112. §-ai szerint elvégzett piacelemzési és piacszabályozási eljárásokban hozott határozatokat követő második évben, de legkésőbb 2010. december 31. napjáig elemzést készít a villamosenergia-piac helyzetéről, különös tekintettel a lefolytatott piacszabályozási eljárásokra, az eljárások eredményére és a kiszabott kötelezettségekre, valamint azoknak a piaci versenyre gyakorolt hatására. A Hivatal a lefolytatott vizsgálat eredményeit jelentésében összefoglalva megküldi a Kormány számára, amely alapján a Kormány megvizsgálja a villamosenergia-piacon a hatékony verseny megteremtéséhez szükséges további jogalkotási feladatokat.
 
-176. § (1) Az egyetemes szolgáltatásra jogosult felhasználók közüzemi szerződéseiben a közüzemi szolgáltató helyébe a 178. § (1) bekezdése c) pontjának megfelelően beadott kérelmek alapján – az e törvény 90. §-a szerinti egyetemes szolgáltatói engedély megszerzésének feltételével – a villamos energiáról szóló 2001. évi CX. törvény szerinti közüzemi szolgáltatói engedélyes működési engedélyében meghatározott szolgáltatási területével azonos területen történő egyetemes szolgáltatás nyújtására köteles egyetemes szolgáltató lép.
-
-(2) A villamos energiáról szóló 2001. évi CX. törvény szerinti közüzemi szolgáltatásra jogosult, de az e törvény szerinti egyetemes szolgáltatásra nem jogosult felhasználók közüzemi szerződéseiben a közüzemi szolgáltató helyébe a villamos energiáról szóló 2001. évi CX. törvény szerinti közüzemi szolgáltatói engedélyes működési engedélyében meghatározott szolgáltatási területével azonos területen villamos energiát értékesítő villamosenergia-kereskedő lép, amennyiben
-
-- a) az ugyanezen területen egyetemes szolgáltatás nyújtására köteles egyetemes szolgáltatóval egy gazdasági társaság,
-- b) az egyetemes szolgáltatói engedélyen felül villamos energia kereskedelemre vonatkozó működési engedéllyel is rendelkezik.
-
-(3)
-
-(3a)
-
-(4) Amennyiben e törvény hatálybalépését követően érvényben lévő közüzemi szerződések egyes rendelkezései a jelen törvény rendelkezéseivel ellentétesek, úgy a közüzemi szerződés ezzel érintett rendelkezései helyett a jelen törvény és kapcsolódó jogszabályai, a villamosenergia-ellátási szabályzatok és az érintett engedélyesek üzletszabályzatainak rendelkezései megfelelően alkalmazandók.
-
-(5) E § alkalmazásában közüzemi szerződés a villamos energiáról szóló 2001. évi CX. törvény szerinti közüzemi szolgáltatásra jogosult, valamint a villamos energiáról szóló 2001. évi CX. törvény szerinti közüzemi szolgáltatói engedélyes közötti, a villamos energiáról szóló 2001. évi CX. törvény szerint közüzemi szolgáltatásnak minősülő villamosenergia-szolgáltatásra vonatkozó szerződés.
-
-(6)
+#### 176. §
 
 176/A. § A hálózati engedélyes az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel módosított 43. § (1) bekezdése szerinti, a villamosenergia-fogyasztásra vonatkozó számlázás alapjául szolgáló mérési adatok gyűjtésének és az elszámolás alapját képező mennyiségek egyezőségének, valamint az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel módosított 44. § szerinti kezdő és záró merőállásra vonatkozó tájékoztatási kötelezettségének legkésőbb 2011. október 1-jétől köteles eleget tenni.
 
@@ -3216,6 +3327,8 @@ e törvény, valamint a villamosenergia-ipari építésügyi hatósági engedél
 (2) E törvény 182. §-a kihirdetését követő 8. napon lép hatályba.
 
 (3) E törvény 1–105. §-a, 107–177. §-a, 178. §-ának (4) és (6) bekezdése, 181. §-a, valamint 183. §-a 2008. január 1-jén lép hatályba.
+
+### Záró rendelkezések
 
 ### XXII. Fejezet — MÓDOSULÓ JOGSZABÁLYOK
 
