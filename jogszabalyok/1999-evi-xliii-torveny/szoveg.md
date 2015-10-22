@@ -78,7 +78,7 @@ Az Országgyűlés az elhunyt személyek emlékének méltó megőrzése és áp
 
 ### Temető létesítése, lezárása, megszüntetése, újra-használatbavétele
 
-8. § (1) A temető beépítési előírásait a helyi építési szabályzatban kell meghatározni.
+8. § (1) A temető beépítési előírásait a helyi építési szabályzatban kell meghatározni. A települési (a fővárosban a kerületi) önkormányzat képviselő-testülete a helyi építési szabályzat tervezetének a vallási közösségek tulajdonában lévő temetőre vonatkozó beépítési előírásaival kapcsolatban kikéri az érintett vallási közösség véleményét.
 
 (2) A temető és a temetkezési emlékhely építményei, közművei, egyéb infrastrukturális létesítményei építéséhez, létesítéséhez, bővítéséhez, továbbá a kegyeleti emlékhely létesítéséhez külön jogszabályban előírtak szerint a tulajdonosnak engedélyt kell kérnie.
 
@@ -97,7 +97,7 @@ Az Országgyűlés az elhunyt személyek emlékének méltó megőrzése és áp
 
 a kormányrendeletben meghatározottak szerint köteles biztosítani.
 
-(2) Lezárt temetőben az (1) bekezdés e), f) és h) pontjában meghatározott temetői létesítményeket kell biztosítani.
+(2) Amennyiben e törvény eltérően nem rendelkezik, lezárt temetőben az (1) bekezdés e), f) és h) pontjában meghatározott temetői létesítményeket kell biztosítani.
 
 10. § (1) Ha a temető, temetőrész, sírhelytábla, temetési hely betelt, azt a temető fenntartója jogosult lezárni, és ott a további temetkezést megtiltani.
 
@@ -160,7 +160,7 @@ a kormányrendeletben meghatározottak szerint köteles biztosítani.
 
 (2) Az üzemeltető a temetkezési szolgáltatók tekintetében köteles megtartani az egyenlő bánásmód követelményét.
 
-18. § (1) A temetőben – a kegyeleti jogok gyakorlása céljából – a temetési helyekről, befogadó nyilatkozat alapján az elhunytak más temetőbe, temetkezési emlékhelyre történő elhelyezéséről, valamint temetőn, temetkezési emlékhelyen kívüli urnaelhelyezés esetén az eltemetésre kötelezett személy nyilatkozatának tartalma alapján az üzemeltető nyilvántartást vezet. A sírboltokról szóló nyilvántartás vezetésére a sírbolt könyv, az egyéb temetési helyek nyilvántartására a nyilvántartó könyv szolgál.
+18. § (1) Amennyiben e törvény eltérően nem rendelkezik, a temetőben – a kegyeleti jogok gyakorlása céljából – a temetési helyekről, befogadó nyilatkozat alapján az elhunytak más temetőbe, temetkezési emlékhelyre történő elhelyezéséről, valamint temetőn, temetkezési emlékhelyen kívüli urnaelhelyezés esetén az eltemetésre kötelezett személy nyilatkozatának tartalma alapján az üzemeltető nyilvántartást vezet. A sírboltokról szóló nyilvántartás vezetésére a sírbolt könyv, az egyéb temetési helyek nyilvántartására a nyilvántartó könyv szolgál.
 
 (1a) A más temetőbe, temetkezési emlékhelyre történő elhelyezésről szóló befogadó nyilatkozat alapján vezetett nyilvántartás és a temetőn, temetkezési emlékhelyen kívüli urnaelhelyezés esetén az eltemetésre kötelezett személy nyilatkozatáról vezetett nyilvántartás a következő adatokat tartalmazza: az elhalt természetes személyazonosító adatai, legutolsó lakóhelyének címe, az elhalálozás időpontja, az eltemetés helye vagy a hamvak elhelyezésének helye, valamint a nyilatkozatot tevő személy neve, lakcíme.
 
@@ -216,7 +216,7 @@ alapján kell kiadni.
 
 (6) Ha az elhunyt végrendelete a hamvak sorsáról nem rendelkezett vagy nincs végrendelet, a hamvak szétszórása esetén az eltemetésre köteles személy nyilatkozatának tartalmaznia kell azon kijelentést, hogy az elhunyt közeli hozzátartozói egyetértenek a hamvak szétszórásának helye, ideje és módja tekintetében.
 
-22. § (1) A temetési hely felett – a nemzeti sírkertbe tartozó temetési hely, valamint a hősi temetési hely kivételével – az rendelkezik, aki megváltotta. Több azonos jogállású örökös esetén – ellenkező megállapodásuk hiányában – a rendelkezési jog kizárólag együttesen gyakorolható.
+22. § (1) A temetési hely felett – a nemzeti sírkertbe tartozó temetési hely, a hősi temetési hely, valamint a 40/I. § (5) bekezdése alapján a vallási közösség rendelkezése alá tartozó temetési hely kivételével – az rendelkezik, aki megváltotta. Több azonos jogállású örökös esetén – ellenkező megállapodásuk hiányában – a rendelkezési jog kizárólag együttesen gyakorolható.
 
 (2) A rendelkezési jog gyakorlása a temetési helyre helyezhető személyek körének meghatározására, síremlék, sírjel állítására és mindezek gondozására terjed ki.
 
@@ -472,6 +472,18 @@ csak temetkezési szolgáltatói telephelyen végezheti.
 
 (2) A betegjogi képviselő az elhunyt hozzátartójának megbízása alapján, a hozzátartozó által adott meghatalmazás keretei között segíti a kegyeleti jogok érvényesülését.
 
+### Egyes lezárt temetőkre vonatkozó különös szabályok
+
+40/I. § (1) Ha a temető lezárásától vagy az utolsó temetkezéstől számítva több mint 50 év eltelt, ezen alcím rendelkezéseit kell alkalmazni.
+
+(2) A temetőben a 9. § (1) bekezdés e) és h) pontjában meghatározott temetői létesítményeket kell biztosítani.
+
+(3) Nem áll fenn a 18. § (1)–(4) bekezdése szerinti nyilvántartási kötelezettség, ha a temető tulajdonosának, fenntartójának vagy üzemeltetőjének fel nem róható okból a temetkezésekről vezetett korábbi nyilvántartások megsemmisültek.
+
+(4) A temetőszabályzatnak – a temetőhasználat általános szabályain, a kegyeletgyakorlás rendjének a temetőlátogatók tájékoztatásához szükséges mértékű ismertetésén és a temetőben végzett egyéb vállalkozási tevékenységek ellátásának temetői rendjén túlmenően – csak a temető jellege és a vallási előírások alapján szükséges előírásokat kell tartalmaznia.
+
+(5) Amennyiben a temetési hely szerinti temető, temetőrész, sírhelytábla jelenlegi tulajdonosa, illetve 1920. június 4-én vagy azt követő időpontban a tulajdonos, fenntartó vagy üzemeltető olyan vallási közösség volt, amelynek belső szabálya tiltja a temető vagy a temetési hely megszüntetését, és a temető tulajdonosának rendelkezésére álló nyilvántartások alapján az eltemettető vagy az eltemettető közeli hozzátartozójának személye nem állapítható meg, tartózkodási helye ismeretlen vagy az eltemettető és az eltemettető közeli hozzátartozója elhunyt, a temetési hely felett a vallási közösség rendelkezik. A rendelkezési jog időtartama ebben az esetben nem korlátozható.
+
 ### Felhatalmazások
 
 41. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
@@ -524,5 +536,7 @@ csak temetkezési szolgáltatói telephelyen végezheti.
 - b) ha a temetkezési szolgáltató a székhelyül, telephelyül szolgáló ingatlan hasznosítására más jogcímen jogosult, 2014. február 1-jétől
 
 kell alkalmazni.
+
+44/A. § E törvénynek a temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény módosításáról szóló 2015. évi CLV. törvénnyel (a továbbiakban: Módtv.) megállapított szabályait a Módtv. hatálybalépésekor folyamatban lévő hatósági ellenőrzések során is alkalmazni kell.
 
 45. § Ez a törvény a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
