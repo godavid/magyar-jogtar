@@ -1040,6 +1040,20 @@ látja el.
 
 (4) A (2) bekezdés b) és f)–h) pontjai alapján hozott határozatot az élelmiszerlánc-felügyeleti szervvel is közölni kell.
 
+74/A. § (1) Az országos tisztifőorvos tömeges bevándorlás okozta válsághelyzetben vagy más, e törvény szerinti egészségügyi válsághelyzet esetén kötelezően elvégzendő szűrővizsgálatokat rendelhet el a menedékjogról szóló törvény szerinti elismerés iránti kérelmet benyújtó személyek (a továbbiakban: elismerést kérő személy) számára.
+
+(2) Az (1) bekezdés szerinti kötelező szűrővizsgálat elvégzéséről a menekültügyi hatóság által kijelölt helyen kell gondoskodni. A szűrővizsgálat elvégzéséhez szükséges vizsgálati minták levételének tényéről a vizsgálatot végző szerv igazolást állít ki.
+
+(3) Ha az elismerést kérő személy kérelme benyújtásakor az államhatárról szóló törvény szerinti tranzitzónában tartózkodik, az (1) bekezdés szerinti szűrővizsgálatot a Magyarországra történő, már engedélyezett belépést megelőzően kell elvégezni. Ebben az esetben a vizsgálatot végző szerv által kiállított, a szűrővizsgálat elvégzéséhez szükséges vizsgálati minták levételének tényéről szóló igazolás megléte a tranzitzóna Magyarországra történő belépés céljából történő elhagyásának a feltétele.
+
+(4) A menedékjogról szóló törvény szerinti különleges bánásmódot igénylő elismerést kérő személy esetében az (1) bekezdés szerinti szűrővizsgálatot soron kívül, más elismerést kérő személyt megelőzően kell elvégezni.
+
+(5) A szűrővizsgálat eredményét a fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala közli a menekültügyi hatósággal.
+
+(6) A fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala az e törvény szerinti egészségügyi válsághelyzet, vagy az egészségügyi válsághelyzetre vonatkozó szabályok alkalmazása esetén az illetékes rendőrkapitányságnál kezdeményezheti az egészségügyi szolgáltatók fokozottabb őrzéséről való intézkedést.
+
+(7) Az (1)–(6) bekezdésben foglaltakat nem kell alkalmazni a Magyarország területére más hatósági vagy bírósági eljárásban való kötelező megjelenés céljából történő belépés esetén.
+
 ### IV. Fejezet — AZ EGÉSZSÉGÜGYI ELLÁTÁSOK RENDSZERE
 
 ### 1. CÍM — Működési elvek
@@ -3354,7 +3368,9 @@ megítéléséhez szükséges.
 
 (3) Különleges jogrend bevezetésekor az egészségügyi válsághelyzeti ellátásra vonatkozó rendelkezéseket kell alkalmazni az egész országra kiterjedően, azonban ez esetben nem szükséges az egészségügyi válsághelyzet kihirdetése.
 
-(4) Különleges jogrenden kívüli eseményt
+(3a) Ha a tömeges bevándorlás okozta válsághelyzet elrendelésére a menedékjogról szóló 2007. évi LXXX. törvény 80/A. § (1) bekezdés a) vagy b) pontja alapján, illetve c) pontjában meghatározott közegészségügyi okból kerül sor, az egészségügyi válsághelyzeti ellátásra vonatkozó rendelkezéseket kell alkalmazni azzal, hogy ilyenkor nem szükséges az egészségügyi válsághelyzet kihirdetése.
+
+(4) A (3) és (3a) bekezdésen kívüli eseményt
 
 - a) ha a (2) bekezdés a) pontja szerinti egészségügyi válsághelyzet
   - aa) egy megye területét érinti – az egészségügyi államigazgatási szerv javaslatára a megyei vagy fővárosi védelmi bizottság elnöke,
@@ -3400,16 +3416,16 @@ minősíthet egészségügyi válsághelyzetnek.
 - d) a betegek egészségügyi ellátására,
 - e) időszakosan működő gyógyintézetek működtetésére,
 - f) pótlólagos kapacitások és készletek bevonására,
-- g) gyógyintézet időszakos működtetésére, valamint a gyógyintézet működtetését szolgáló ingó és ingatlan vagyontárgy igénybevételére,
+- g) egészségügyi szolgáltató időszakos működtetésére, valamint az egészségügyi szolgáltató működtetését szolgáló ingó és ingatlan vagyontárgy igénybevételére,
 - h) az egészségügyi válsághelyzet felszámolásához szükséges intézkedések meghozatalára.
 
-(5) Az egészségügyi válsághelyzeti ellátásban részt vevő egészségügyi szolgáltatóknak az egészségbiztosítás által fedezett összegen felül felmerülő költségeit a központi költségvetés téríti meg.
+(5) Az egészségügyi válsághelyzeti ellátásban részt vevőknek az egészségbiztosítás által fedezett összegen felül felmerülő költségeit a központi költségvetés téríti meg.
 
 231. § (1) Az egészségügyi válsághelyzeti ellátáshoz szükséges, az egészségügyi szolgáltatók, valamint az együttműködő szervezetek készleteit meghaladó eszközöket és anyagokat az Állami Egészségügyi Tartalékból kell biztosítani.
 
 (2) Egészségügyi válsághelyzet idején a Kormány gondoskodik az Állami Egészségügyi Tartalék folyamatos pótlásának költségvetési fedezetéről, amelyhez szükséges forrásokról utólag el kell számolni. Ez esetben az eszközök és anyagok beszerzése nem tartozik a közbeszerzésekre vonatkozó rendelkezések hatálya alá.
 
-(3) Egészségügyi válsághelyzet esetén a szükségessé váló készletek beszerzéséről az Állami Egészségügyi Tartalék kezelője gondoskodik.
+(3) Egészségügyi válsághelyzet esetén a szükségessé váló készletek soron kívüli beszerzéséről az Állami Egészségügyi Tartalék kezelője gondoskodik.
 
 232. § (1) A miniszter köteles gondoskodni arról, hogy a kizárólag az egészségügyi válsághelyzet idején hatályba léptethető egészségügyi jogszabályok kihirdetésre alkalmas állapotban rendelkezésre álljanak.
 
