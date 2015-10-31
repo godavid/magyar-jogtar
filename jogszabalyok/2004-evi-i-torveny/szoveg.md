@@ -1556,7 +1556,9 @@ adatokat továbbítja.
 | 9 | Budapest, 38821/4 | Magyar Testgyakorlók Köre (székhely: Budapest 1073, Erzsébet krt. 24. I. emelet) |
 | 10 | Budapest, 26085/1123 | Vasas Sport Club (székhely: Budapest 1139, Fáy utca 58.) |
 | 11 | Budapest, 29834/8 (7953/10944 tulajdoni hányad arányában) | Budapesti Vasutas Sport Club – Zugló Közhasznú Egyesület (székhely: Budapest 1142, Szőnyi út 2.) |
-| 12 | Budapest, 27913/1 | Budapesti Honvéd Sportegyesület (székhely: Budapest 1134, Dózsa György út 53.) |
-| 13 | Budapest, 27999 (48065/57386 tulajdoni hányad arányában) | Budapesti Honvéd Sportegyesület (székhely: Budapest 1134, Dózsa György út 53.) |
-| 14 | Budapest, 27950/6 (12884/16684 tulajdoni hányad arányában) | Budapesti Honvéd Sportegyesület (székhely: Budapest 1134, Dózsa György út 53.) |
-| 15 | Budapest, 23796/29 | Budapesti Honvéd Sportegyesület (székhely: Budapest 1134, Dózsa György út 53.) |
+| 12 | Budapest, 29834/12 | Budapesti Vasutas Sport Club – Zugló Közhasznú Egyesület (székhely: Budapest 1142, Szőnyi út 2.) |
+| 13 | Budapest, 29834/15 (81751/83751 tulajdoni hányad arányában) | Budapesti Vasutas Sport Club – Zugló Közhasznú Egyesület (székhely: Budapest 1142, Szőnyi út 2.) |
+| 14 | Budapest, 27913/1 | Budapesti Honvéd Sportegyesület (székhely: Budapest 1134, Dózsa György út 53.) |
+| 15 | Budapest, 27999 (48065/57386 tulajdoni hányad arányában) | Budapesti Honvéd Sportegyesület (székhely: Budapest 1134, Dózsa György út 53.) |
+| 16 | Budapest, 27950/6 (12884/16684 tulajdoni hányad arányában) | Budapesti Honvéd Sportegyesület (székhely: Budapest 1134, Dózsa György út 53.) |
+| 17 | Budapest, 23796/29 | Budapesti Honvéd Sportegyesület (székhely: Budapest 1134, Dózsa György út 53.) |
