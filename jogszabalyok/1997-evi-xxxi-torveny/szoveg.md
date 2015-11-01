@@ -3546,6 +3546,13 @@ vonatkozó adatokat kezelhet.
 - c) a fiatalkorú és a vele együttesen elhelyezett gyermeke ügyében eljáró gyámhatóságnak, és
 - d) a Kormány által kijelölt szerv részére, a finanszírozásának ellenőrzése céljából.
 
+(3a) A bíróság vagy az ügyész értesítése alapján a javítóintézet nyilvántartja a sértettnek, illetve a büntetőeljárásról szóló 1998. évi XIX. törvény 51. § (3) vagy (3a) bekezdése alapján a sértett jogait gyakorló személynek a sértettet érintő bűncselekménnyel összefüggésben, a javítóintézetben ellátott fiatalkorú szabadulásáról vagy szökéséről történő értesítésre vonatkozó kérelmével kapcsolatos adatokat.
+
+(3b) A (3a) bekezdés alapján a következő személyes adatokat kell nyilvántartani:
+
+- a) a kérelmező családi és utónevét, és
+- b) a kérelmező által megadott lakcímet.
+
 (4) Az (1) bekezdés szerinti nyilvántartásból a fiatalkorú és a vele együttesen elhelyezett gyermekének adatait a javítóintézetből való elbocsátás időpontjától számított tíz év elteltével törölni kell.
 
 140. § (1) A gyámhatóság nyilvántartást vezet
@@ -4275,5 +4282,6 @@ hogy a fenntartó működési engedéllyel rendelkezik.
 - a) a Tanács 94/33/EK irányelve (1994. június 22.) a fiatalok munkahelyi védelméről, az Mt. irányadó rendelkezéseivel együtt;
 - b) a Tanács 2003/109/EK tanácsi irányelve (2003. november 25.) a harmadik országok huzamos tartózkodási engedéllyel rendelkező állampolgárainak jogállásáról, 11. cikk (1) bekezdés d) pont és 21. cikk;
 - c) az Európai Parlament és a Tanács 2004/38/EK irányelve (2004. április 29.) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről, 24. cikk.
+- d) a bűncselekmények áldozatainak jogaira, támogatására és védelmére vonatkozó minimumszabályok megállapításáról és a 2001/220/IB tanácsi kerethatározat felváltásáról szóló, 2012. október 25-i 2012/29/EU európai parlamenti és tanácsi irányelv 6. cikk (5) és (6) bekezdése.
 
 190. § E törvény a munkavállalók Közösségen belüli szabad mozgásáról szóló, 1968. október 15-i 1612/68/EGK tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.

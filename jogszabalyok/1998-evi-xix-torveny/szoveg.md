@@ -562,9 +562,18 @@ bírálja el.
 - c) a büntetőeljárási jogairól és kötelességeiről a bíróságtól, az ügyésztől és a nyomozó hatóságtól felvilágosítást kapjon,
 - d) e törvényben meghatározott esetekben jogorvoslattal éljen.
 
-(3) Ha a sértett akár a büntetőeljárás megindítása előtt, akár azt követően meghalt, helyébe egyenesági rokona, házastársa, élettársa vagy törvényes képviselője léphet, és gyakorolhatja a (2) bekezdésben meghatározott jogokat. Ha a sértett egyházi személy vagy vallási tevékenységet végző szervezet vallásos szertartást hivatásszerűen végző tagja volt, aki az olyan egyházi jogi személy vagy vallási tevékenységet végző szervezet belső szabálya szerint, amelyhez életében tartozott, egyházi rend vagy fogadalom okából házasságot nem köthetett, halála után – hozzátartozó vagy örökös hiányában – az egyenesági rokon jogai az egyházi jogi személy vagy vallási tevékenységet végző szervezet elöljáróját illetik meg.
+(3) Ha a sértett akár a büntetőeljárás megindítása előtt, akár azt követően meghalt, helyébe egyenesági rokona, házastársa, élettársa, testvére, törvényes képviselője vagy jogszabály, illetve szerződés alapján a sértett által eltartott személy léphet, és gyakorolhatja a (2) bekezdésben meghatározott jogokat. Több fellépésre jogosult személy esetén az érintettek kijelölhetik maguk közül a sértetti jogokat gyakorló személyt. Megegyezés hiányában az a személy gyakorolhatja a sértett jogait, aki az eljárásban elsőként fellépett.
 
-(4) Az élet, a testi épség és az egészség elleni szándékos, ötévi vagy azt meghaladó szabadságvesztéssel büntetendő bűncselekmények (Btk. XV. Fejezet), valamint a nemi élet szabadsága és a nemi erkölcs elleni bűncselekmények (Btk. XIX. Fejezet) sértettje jogosult arra, hogy kérelmére értesítsék az előzetesen letartóztatott szabadon bocsátásáról vagy szökéséről, az elítélt véglegesen vagy feltételesen történő szabadon bocsátásáról és a szabadságvesztés végrehajtásának félbeszakításáról, továbbá szökéséről, valamint a javítóintézeti nevelés esetén a fiatalkorú végleges vagy ideiglenes elbocsátásáról, vagy a javítóintézet engedély nélküli elhagyásáról.
+(3a) Ha a sértett egyházi személy vagy vallási tevékenységet végző szervezet vallásos szertartást hivatásszerűen végző tagja volt, aki az olyan egyházi jogi személy vagy vallási tevékenységet végző szervezet belső szabálya szerint, amelyhez életében tartozott, egyházi rend vagy fogadalom okából házasságot nem köthetett, a (3) bekezdés alkalmazásában halála esetén – egyenesági rokon, testvér, törvényes képviselő vagy jogszabály, illetve szerződés alapján a sértett által eltartott személy hiányában – a sértett jogait gyakorló személyként az egyházi jogi személy vagy vallási tevékenységet végző szervezet elöljárója léphet fel.
+
+(4) A sértett, illetve a (3) vagy a (3a) bekezdés alapján a sértett jogait gyakorló személy jogosult arra, hogy kérelmére értesítsék a sértettet érintő bűncselekménnyel összefüggésben
+
+- a) az előzetesen letartóztatott szabadon bocsátásáról vagy szökéséről,
+- b) a végrehajtandó szabadságvesztésre ítélt feltételesen vagy véglegesen történő szabadon bocsátásáról vagy szökéséről, illetve a szabadságvesztés végrehajtásának félbeszakításáról,
+- c) az elzárásra ítélt szabadon bocsátásáról vagy szökéséről, illetve az elzárás végrehajtásának félbeszakításáról,
+- d) az ideiglenes kényszergyógykezelt elbocsátásáról vagy szökéséről,
+- e) a kényszergyógykezelt elbocsátásáról, engedély nélküli eltávozásáról, illetve adaptációs szabadságra bocsátásáról, valamint
+- f) javítóintézeti nevelés esetén a fiatalkorú ideiglenes vagy végleges elbocsátásáról, a javítóintézet engedély nélküli elhagyásáról, illetve a javítóintézeti nevelés félbeszakításáról.
 
 ### A magánvádló
 
@@ -586,7 +595,7 @@ bírálja el.
 - d) az ügyész a nyomozás eredményeként közvádra üldözendő bűncselekményt nem állapított meg, ezért nem emelt vádat, illetőleg a vád képviseletét – magánvádas eljárásban elrendelt nyomozás eredményeként – nem vette át,
 - e) az ügyész a tárgyaláson a vádat azért ejtette el, mert megítélése szerint a bűncselekmény nem közvádra üldözendő.
 
-(2) A pótmagánvádló halála esetén helyébe – harminc napon belül – egyenesági rokona, házastársa, élettársa vagy törvényes képviselője léphet.
+(2) A pótmagánvádló halála esetén helyébe – harminc napon belül – egyenesági rokona, házastársa, élettársa, testvére, törvényes képviselője vagy jogszabály, illetve szerződés alapján a pótmagánvádló által eltartott személy léphet.
 
 (3) Nem természetes személy pótmagánvádló megszűnése esetén helyébe – a jogutódlás bekövetkeztétől számított harminc napon belül – a jogutódja léphet.
 
@@ -636,7 +645,7 @@ bírálja el.
 
 (2) A meghatalmazást írásba kell foglalni, és azt a képviselő első eljárási cselekménye előtt kell benyújtani. Ha a képviselő a meghatalmazás benyújtását elmulasztja, ennek pótlására egy alkalommal, legfeljebb nyolc napos határidő kitűzésével fel lehet hívni. Ez a határidő a magánindítvány határidejének lejártát követő időre is átnyúlhat.
 
-(3) A sértett, magánvádló, magánfél vagy egyéb érdekelt kérelmére – ha annak a jogi segítségnyújtásról szóló törvényben foglalt feltételei fennállnak – a törvényben meghatározott szervezet engedélyezi a pártfogó ügyvédi képviseletet. Ha a bíróság észleli, hogy a pártfogó ügyvédi képviselet engedélyezésének feltételei a felsoroltak valamelyikénél fennállnak, e személyt tájékoztatja arról, hogy pártfogó ügyvédi képviselet engedélyezését kérheti, ha pedig az ügyész a Polgári perrendtartásban meghatározottak szerint perindításra jogosult, erre az ügyész figyelmét felhívhatja.
+(3) A sértett, a magánvádló, a magánfél vagy az egyéb érdekelt kérelmére – ha annak a jogi segítségnyújtásról szóló törvényben foglalt feltételei fennállnak – a törvényben meghatározott szervezet engedélyezi a pártfogó ügyvédi képviseletet. Ha a nyomozó hatóság, az ügyész vagy a bíróság észleli, hogy a pártfogó ügyvédi képviselet engedélyezésének feltételei a felsoroltak valamelyikénél fennállnak, e személyt tájékoztatja arról, hogy pártfogó ügyvédi képviselet engedélyezését kérheti. Ha az ügyész a Polgári perrendtartásban meghatározottak szerint perindításra jogosult, erre a bíróság az ügyész figyelmét felhívhatja.
 
 58. § (1) Ha a bűncselekménynek több sértettje van, maguk közül kijelölhetik a sértetti jogokat gyakorló természetes, illetőleg jogi személyt.
 
@@ -666,9 +675,34 @@ bírálja el.
 
 62. § A bíróság, az ügyész és a nyomozó hatóság az eljárási cselekmény elvégzése előtt a cselekménnyel érintett személyt a jogairól tájékoztatja, és a kötelezettségeire figyelmezteti.
 
-62/A. § (1) Ha az érintett személy kihallgatásakor a tizennyolcadik életévét még nem haladta meg, a bíróság, az ügyész és a nyomozó hatóság a jogokról való tájékoztatást és a kötelezettségekre való figyelmeztetést az érintett személy számára érthető módon, a korára és érettségére figyelemmel fogalmazza meg.
+62/A. § (1) A bíróság, az ügyész és a nyomozó hatóság törekszik arra, hogy a büntetőeljárásban részt vevő személyekkel történő írásbeli és szóbeli kommunikáció során egyszerű és közérthető módon fogalmazzon. A jogokról való tájékoztatást és a kötelezettségekre való figyelmeztetést az érintett személy számára érthető módon, az érintett személy állapotára, személyes jellemzőire figyelemmel kell megfogalmazni.
 
-(2) Ha az érintett személy hallássérült, siketvak, vak, beszédképtelen vagy – beszámítási képességre tekintet nélkül – kóros elmeállapotú, a bíróság, az ügyész és a nyomozó hatóság a jogokról való tájékoztatást és a kötelezettségekre való figyelmeztetést az állapotára figyelemmel fogalmazza meg és a számára érthető módon közli.
+(2) A bíróság, az ügyész és a nyomozó hatóság a szóbeli kommunikáció során meggyőződik arról, hogy az elmondottakat az érintett személy megértette-e, ennek hiányában a tájékoztatást, illetve a figyelmeztetést megmagyarázza.
+
+(3) Az (1) és a (2) bekezdés alkalmazásakor, ha az érintett személy
+
+- a) a tizennyolcadik életévét nem haladta meg, életkorára és érettségére figyelemmel,
+- b) hallássérült, siketvak, vak, beszédképtelen, illetve – beszámítási képességre tekintet nélkül – kóros elmeállapotú, az állapotára figyelemmel,
+
+fokozott körültekintéssel kell eljárni.
+
+### A sértettre vonatkozó különös rendelkezések
+
+62/B. § (1) A bíróságnak, az ügyésznek és a nyomozó hatóságnak az eljárási cselekmények előkészítése és végrehajtása során figyelemmel kell lennie arra, hogy az eljárási cselekményt megelőzően, annak során, illetve az eljárási cselekményt követően a sértett és a terhelt szükségtelenül ne találkozzon egymással.
+
+(2) Az olyan eljárási cselekményt, amelynél a sértett jelenléte kötelező, lehetőség szerint úgy kell előkészíteni és végrehajtani, hogy annak megismétlésére indokolatlanul ne kerüljön sor.
+
+62/C. § (1) A bíróság, az ügyész és a nyomozó hatóság az eljárás során folyamatosan vizsgálja, hogy a sértett a személyiségét és életviszonyait jellemző tényekre és körülményekre, a bűncselekmény jellegére vagy az elkövetés körülményeire tekintettel olyan különleges bánásmódot igénylő személy-e, akiről megállapítható, hogy a büntetőeljárásban sajátos szükségletekkel rendelkezik (a továbbiakban: különleges bánásmódot igénylő sértett).
+
+(2) Ha a sértett a büntetőeljárás megindításakor a tizennyolcadik életévét nem töltötte be, különleges bánásmódot igénylő sértettnek kell tekinteni.
+
+(3) Ha a büntetőeljárásban különleges bánásmódot igénylő sértett vesz részt, akkor a bíróságnak, az ügyésznek és a nyomozó hatóságnak az eljárás során a különleges bánásmódot igénylő sértett lehető legnagyobb kíméletével kell eljárnia. Ennek során a sértett igényeinek a figyelembevételével különösen a 167. § (1) bekezdésében, a 207. § (5) bekezdésében, a 211. § (4a) bekezdésében, a 213. § (4) bekezdésében, a 244/A. § (2) bekezdésében, a 292. § (2) bekezdésében, a 293. § (2) bekezdésében meghatározott intézkedések alkalmazására kell törekedni.
+
+(4) A különleges bánásmódot igénylő sértettet érintő eljárási cselekményeket, ha az az eljárás érdekeit nem sérti, a sértett kíméletével, lehetőség szerint az igényeinek a figyelembevételével kell előkészíteni és végrehajtani.
+
+(5) A különleges bánásmódot igénylő sértetti minőség megállapításának kezdeményezésével, illetve annak vizsgálatával kapcsolatos iratokat a bíróság, az ügyész, illetve a nyomozó hatóság az iratok között elkülönítve, zártan kezeli.
+
+### A büntetőeljárás során a személyes adatok kezelésére vonatkozó általános szabályok
 
 63. § (1) Az eljárásban részt vevő személyek személyes adatainak megismerésére és kezelésére a bíróság, az ügyész, a nyomozó hatóság, a szakértő, valamint a bíróság vagy az ügyész által megkeresett hatóság az e törvényben meghatározott feladatainak teljesítése érdekében jogosult. A terhelt bűnügyi nyilvántartás céljára szolgáló személyes adatainak körét és a személyes adatok kezelésének szabályait külön törvény állapítja meg.
 
@@ -765,7 +799,7 @@ bírálja el.
 
 (6) Az írásbeli idézést vagy értesítést zárt iratban kell megküldeni. Sajtóhirdetményben az értesítettek neve nem közölhető.
 
-(7) A kiskorú idézésében, illetve értesítésében egyidejűleg a kiskorú korára, érettségére figyelemmel, számára érthető módon tájékoztatást kell adni az idézés, illetve értesítés tartalmáról.
+(7) A kiskorú idézésében, illetve értesítésében – figyelemmel a 62/A. §-ban foglaltakra – a kiskorú korára, érettségére figyelemmel, számára érthető módon tájékoztatást kell adni az idézés, illetve értesítés tartalmáról.
 
 67/A. §
 
@@ -906,7 +940,7 @@ bírálja el.
 
 (2) A nyomozás befejezéséig a gyanúsított, a védő, a fiatalkorú törvényes képviselője, a sértett és képviselője másolatot kaphat a szakvéleményről, valamint az olyan nyomozási cselekményről készült iratról, amelyeknél jelenlétüket e törvény lehetővé teszi; az egyéb iratról pedig akkor, ha ez a nyomozás érdekeit nem sérti. A sértett a nyomozás során keletkezett más iratokról a tanúkénti kihallgatását követően kaphat másolatot.
 
-(3) A feljelentő részére – ha nem a (2) bekezdésben felsoroltak valamelyike – csak a feljelentésről adható másolat.
+(3) A feljelentő részére – ha nem a (2) bekezdésben felsoroltak valamelyike – csak a szóban tett feljelentésről készített jegyzőkönyvről, illetve az írásban tett feljelentés megtételét igazoló iratról adható másolat. Ha a feljelentő a magyar nyelvet nem ismeri, kérelmére a nyomozó hatóság vagy az ügyész a feljelentés megtételéről igazolást állít ki. Az igazolást a feljelentő részére kézbesíteni kell.
 
 (4) Ha a terheltnek a 179. § (1) bekezdése szerinti kihallgatására, a védő kirendelésére, illetőleg meghatalmazására az irat keletkezését követően került sor, a (2) bekezdés szerinti iratról másolat kiadására a terhelt az első kihallgatására történő idézés kézbesítésétől, a védő a kirendelésről szóló határozat kézbesítésétől, illetőleg a meghatalmazás benyújtásától fogva jogosult.
 
@@ -1176,6 +1210,8 @@ bírálja el.
 (3a)
 
 (4) Ha a tanú és a törvényes képviselő vagy a gondozó, illetve a támogató vagy a tanú által megjelölt hozzátartozó között érdekellentét van, vagy a nyomozás érdekei miatt szükséges, a (2) és (3) bekezdésben meghatározott jogokat a gyámhatóság gyakorolja.
+
+86/A. § Ha a nyomozó hatóság, illetve az ügyészség által végzett nyomozás során az ügyész a nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény (Btk. XIX. Fejezet) vagy a hozzátartozó sérelmére elkövetett személy elleni bűncselekmény miatt folytatott eljárásban különleges bánásmódot igénylő sértettet kíván tanúként kihallgatni, akkor a sértettet csak vele azonos nemű személy hallgathatja ki, feltéve hogy ezt a sértett kéri és az eljárás érdekeit nem sérti.
 
 87. § A tárgyalást megelőzően a tanú bíróság előtti kihallgatásának akkor van helye, ha
 
@@ -2175,7 +2211,7 @@ ruházott át, úgyszintén arra a dologra, vagyoni értékű jogra, követelés
 - a) az eljáró hatóság megnevezését,
 - b) az eljárás alapjául szolgáló bűncselekmény megnevezését és a gyanúsított nevét,
 - c) a nyomozási cselekmény helyét és idejét,
-- d) a jelen lévő ügyész, nyomozó hatóság tagja, eljárásban részt vevő személy és képviselője, védő, tanú, tanú érdekében eljáró ügyvéd, hatósági tanú és jegyzőkönyvvezető nevét,
+- d) az eljárási cselekményen jelen lévő személyek nevét és azt, hogy az eljárási cselekményen milyen minőségben vettek részt,
 - e) a kihallgatott terhelt és tanú, a meghallgatott szakértő nevét, valamint az e törvényben meghatározott más személyi adatokat.
 
 (3) A jegyzőkönyvben röviden le kell írni a nyomozási cselekmény menetét akként, hogy a jegyzőkönyv alapján az eljárási szabályok megtartását is ellenőrizni lehessen. A gyanúsított és a tanú vallomását, valamint a nyomozási cselekmény során tett indítványokat és észrevételeket a jegyzőkönyvnek a szükséges részletességgel kell tartalmaznia. A kihallgatott indítványozhatja a vallomásának szó szerinti jegyzőkönyvbe foglalását. Ha az ügyész vagy a nyomozó hatóság az indítványt nem tartja indokoltnak, azt elutasítja, és egyidejűleg a kihallgatottat tájékoztatja a 85. § (5) és (6) bekezdésében foglaltakról; az indítvány elutasítását és a tájékoztatást jegyzőkönyvbe foglalja.
@@ -2188,7 +2224,7 @@ ruházott át, úgyszintén arra a dologra, vagyoni értékű jogra, követelés
 
 (7) A jegyzőkönyvet az ügyész vagy a nyomozó hatóság eljáró tagja szükség esetén kijavítja vagy kiegészíti, a kijavítást és a kiegészítést aláírja, és arról az érdekelteket értesíti. A nyomozási cselekményen jelen voltak a jegyzőkönyv általuk történt megismerését követően a jegyzőkönyv kijavítását vagy kiegészítését indítványozhatják. A kijavítást a jegyzőkönyvben a kijavítás dátumának megjelölésével fel kell jegyezni, vagy az indítvány elutasítását az iratokban fel kell tüntetni.
 
-167. § (1) Az ügyész, valamint a nyomozó hatóság elrendelheti a nyomozási cselekménynek gyorsírással, kép- vagy hangfelvevővel vagy egyéb berendezéssel történő rögzítését; elrendeli, ha a gyanúsított, a védő vagy a sértett ezt a költségek egyidejű előlegezésével indítványozza. A rögzítés ilyen módja a jegyzőkönyvet nem pótolja, de az ügyész vagy a nyomozó hatóság által készített, a képet és a hangot egyidejűleg rögzítő felvétel esetében a jegyzőkönyvben mindössze a jelenlevőket, az elkészítés helyét, idejét és egyéb körülményeit kell feltüntetni.
+167. § (1) Az ügyész, valamint a nyomozó hatóság elrendelheti a nyomozási cselekménynek gyorsírással, kép- vagy hangfelvevővel vagy egyéb berendezéssel történő rögzítését; elrendeli, ha a gyanúsított, a védő vagy a sértett ezt a költségek egyidejű előlegezésével indítványozza. A tizennegyedik életévét be nem töltött tanú kihallgatását kép- vagy hangfelvevővel vagy egyéb berendezéssel kell rögzíteni. A rögzítés ilyen módja a jegyzőkönyvet nem pótolja, de az ügyész vagy a nyomozó hatóság által készített, a képet és a hangot egyidejűleg rögzítő felvétel esetében a jegyzőkönyvben mindössze a jelenlevőket, az elkészítés helyét, idejét és egyéb körülményeit kell feltüntetni.
 
 (2) A gyorsírói feljegyzést, a kép- vagy hangfelvételt vagy a nyomozási cselekménynek egyéb módon történő rögzítésével létrejött felvételt külön jogszabály rendelkezései szerint kell megőrizni.
 
@@ -2245,6 +2281,8 @@ ruházott át, úgyszintén arra a dologra, vagyoni értékű jogra, követelés
 
 172. § (1) A feljelentést rendszerint az ügyésznél vagy a nyomozó hatóságnál kell írásban vagy szóban megtenni. A szóban tett feljelentést jegyzőkönyvbe kell foglalni. A feljelentést nyomban nyilvántartásba kell venni.
 
+(1a) Ha a feljelentő a feljelentést szóban teszi, támogatása érdekében – ideértve a nyelvi segítséget is – a meghallgatásán jelen lehet egy általa megjelölt nagykorú személy, feltéve hogy e személy jelenléte az eljárás érdekeit nem sérti.
+
 (2) A feljelentést más hatóság és a bíróság is elfogadhatja, de köteles azt a nyomozó hatóságnak megküldeni. Ha a feljelentés azonnali intézkedést kíván, azt el kell fogadni.
 
 (3) Ha a feljelentést nem a hatáskörrel és illetékességgel rendelkező ügyésznél, illetve nyomozó hatóságnál tették, a feljelentést ez is köteles átvenni, illetőleg jegyzőkönyvbe foglalni, és az eljárásra jogosultnak megküldeni.
@@ -2256,6 +2294,8 @@ ruházott át, úgyszintén arra a dologra, vagyoni értékű jogra, követelés
 172/A. § (1) Ha a feljelentés alapján a nyomozás elrendeléséről, illetőleg a feljelentés elutasításáról megnyugtatóan nem lehet állást foglalni, a feljelentés kiegészítésének van helye.
 
 (2) A feljelentés kiegészítése során a feljelentéskiegészítést végző hatóság a 178. § (1) bekezdésében meghatározott adatszerző tevékenységet folytathat, illetve a feljelentőt meghallgathatja, a feljelentés kiegészítése során tett megállapításait jelentésbe foglalja. A feljelentéskiegészítés határideje tizenöt nap. Ezt a határidőt a feljelentéskiegészítést végző hatóság vezetője indokolt esetben tizenöt nappal meghosszabbíthatja.
+
+(2a) A feljelentő vagy a sértett meghallgatásán a támogatása érdekében – ideértve a nyelvi segítséget is – jelen lehet egy általa megjelölt nagykorú személy, feltéve hogy e személy jelenléte az eljárás érdekeit nem sérti.
 
 (3) Ha a feljelentés kiegészítését követően a nyomozást elrendelik, a nyomozás határidejét a feljelentéskiegészítés elrendelése napjától kell számítani.
 
@@ -2380,6 +2420,8 @@ ruházott át, úgyszintén arra a dologra, vagyoni értékű jogra, követelés
 
 (3) A feljelentő tanúként kihallgatható. Ha a feljelentés tartalmazza a feljelentő előadását, a tanúkénti kihallgatása mellőzhető.
 
+(3a) Ha a sértett tanúkénti kihallgatása szükséges, akkor a sértettet lehetőség szerint soron kívül kell kihallgatni.
+
 (4) A tanú vallomása – a tizennyolcadik életévét meg nem haladott tanú kivételével – beleegyezése esetén poligráf alkalmazásával vizsgálható.
 
 ### Szaktanácsadó közreműködése
@@ -2435,9 +2477,9 @@ indult eljárás során lehetővé kell tenni, hogy a nyomozási cselekményen a
 
 (8) Ha törvényben meghatározott feladataik ellátása érdekében ez szükséges, a szemlén más hivatalos személyek is jelen lehetnek.
 
-(9)
+(9) Azoknál a nyomozási cselekményeknél, amelyeknél a sértett jelenléte kötelező, vagy amelyeknél jelen lehet, a sértett mellett képviselője, támogatója és – ha ez az eljárás érdekeit nem sérti – egy általa megjelölt nagykorú személy is jelen lehet. A sértett tanúkénti kihallgatásánál a 85. § (4) bekezdésében, illetve a 86. § (3) bekezdésében meghatározott személyek mellett – ha ez az eljárás érdekeit nem sérti – a sértett által megjelölt nagykorú személy is jelen lehet.
 
-185. § (1) A gyanúsított, a védő, a sértett és a sértett támogatója jelen lehet a szakértő meghallgatásánál, a szemlénél, a bizonyítási kísérletnél és a felismerésre bemutatásnál, a sértett támogatója kivételével indítványt terjeszthet elő és észrevételt tehet, a szakértőhöz kérdéseket intézhet. A felsoroltaknak a nyomozási cselekményről való értesítése kivételesen mellőzhető, ha ezt a nyomozási cselekmény sürgőssége indokolja. Az értesítést mellőzni kell, ha ennek következtében a tanú zártan kezelt adatai a gyanúsított, a védő, a sértett és a sértett támogatója előtt ismertté válnának.
+185. § (1) A gyanúsított, a védő és a sértett jelen lehet a szakértő meghallgatásánál, a szemlénél, a bizonyítási kísérletnél és a felismerésre bemutatásnál, továbbá indítványt terjeszthet elő, észrevételt tehet, valamint a szakértőhöz kérdéseket intézhet. A felsoroltaknak a nyomozási cselekményről való értesítése kivételesen mellőzhető, ha ezt a nyomozási cselekmény sürgőssége indokolja. Az értesítést mellőzni kell, ha ennek következtében a tanú zártan kezelt adatai a gyanúsított, a védő és a sértett előtt ismertté válnának.
 
 (2) A gyanúsított a szemlére és a bizonyítási kísérletre idézhető, ebben az esetben a nyomozási cselekmény a gyanúsított távollétében nem tartható meg.
 
@@ -2843,7 +2885,7 @@ indult eljárás során lehetővé kell tenni, hogy a nyomozási cselekményen a
 
 (3) A tizennegyedik életévét be nem töltött tanú kihallgatásánál a (2) bekezdésben felsoroltakon kívül a tanú törvényes képviselője és gondozója is jelen lehet. A tanú kihallgatásáról a gyanúsítottat és a védőt utólag kell értesíteni azzal, hogy a kihallgatásról készült jegyzőkönyvet az ügyésznél megtekinthetik.
 
-(4) A nyomozási bíró – indítványra – elrendelheti a tanú kihallgatásának kép- vagy hangfelvevővel, illetve egyéb berendezéssel történő rögzítését. A felvétel a jegyzőkönyvet nem pótolja. A felvételről készült másolaton a tanú személyazonosságának megállapítására alkalmas egyedi tulajdonságai (pl. arckép, hang) technikai úton torzíthatók. Ha a felvétel különösen védett, vagy olyan tanú kihallgatásáról készült, akinek a személyi adatait zártan kezelik, a zárt kezelésre vonatkozó rendelkezéseket az ilyen felvételre is alkalmazni kell.
+(4) A nyomozási bíró – indítványra, illetve különleges bánásmódot igénylő sértett esetén hivatalból is – elrendelheti a tanú kihallgatásának kép- vagy hangfelvevővel, illetve egyéb berendezéssel történő rögzítését. A tizennegyedik életévét be nem töltött tanú kihallgatását kép- vagy hangfelvevővel, illetve egyéb berendezéssel kell rögzíteni. A felvétel a jegyzőkönyvet nem pótolja. A felvételről készült másolaton a tanú személyazonosságának megállapítására alkalmas egyedi tulajdonságai – például arcképe, hangja – technikai úton torzíthatók. Ha a felvétel különösen védett vagy olyan tanú kihallgatásáról készült, akinek a személyi adatait zártan kezelik, a zárt kezelésre vonatkozó rendelkezéseket az ilyen felvételre is alkalmazni kell.
 
 ### A határozat
 
@@ -2855,7 +2897,7 @@ indult eljárás során lehetővé kell tenni, hogy a nyomozási cselekményen a
 
 (3) A határozatot az ülésen kihirdetés útján kell közölni. Ha a nyomozási bíró az iratok alapján döntött, a határozatot az írásba foglalást követően nyomban kézbesíteni kell. A 207. § (2) bekezdésének b) pontja és (3) bekezdése esetén a kézbesítésre a 70. § (1) bekezdésének d) pontja az irányadó.
 
-(4) Az előzetes letartóztatást elrendelő határozat (2)–(3) bekezdés szerinti közlésével egyidejűleg az 51. § (4) bekezdésében foglalt jogáról a sértettet tájékoztatni kell.
+(4) Az előzetes letartóztatást elrendelő határozat (2)–(3) bekezdés szerinti közlésével egyidejűleg az 51. § (4) bekezdésében foglalt jogáról a sértettet, illetve az 51. § (3) vagy (3a) bekezdése alapján a sértett jogait gyakorló személyt tájékoztatni kell.
 
 ### Jogorvoslat
 
@@ -3154,7 +3196,7 @@ ellen.
 
 - a) erkölcsi okból,
 - b) az eljárásban részt vevő kiskorú védelme érdekében,
-- c) az eljárásban részt vevő személyek (V. Fejezet) vagy a tanú védelme érdekében,
+- c) az eljárásban részt vevő személyek (V. Fejezet), így különösen a különleges bánásmódot igénylő sértett, továbbá a tanú védelme érdekében,
 - d) a minősített adat védelme végett.
 
 (3a) Ha a bíróság a nyilvánosságot a nyilvános ülésről kizárja, zárt ülést tart.
@@ -3224,9 +3266,10 @@ ellen.
 
 - a) a tizennegyedik életévét be nem töltött tanúnak,
 - b) annak a tanúnak, akinek sérelmére az élet, a testi épség és az egészség elleni bűncselekmények (Btk. XV. Fejezet), a nemi élet szabadsága és a nemi erkölcs elleni bűncselekmények (Btk. XIX. Fejezet) vagy a gyermekek érdekét sértő és a család elleni bűncselekmények (Btk. XX. Fejezet) körébe tartozó vagy más, személy elleni erőszakos bűncselekményt követtek el,
-- c) annak a tanúnak, akinek a tárgyaláson való megjelenése egészségi állapotára vagy más körülményre tekintettel aránytalan nehézséggel járna,
-- d) annak a tanúnak vagy vádlottnak, aki a külön jogszabályban meghatározott tanúvédelmi programban vesz részt, vagy a védelme ezt egyébként indokolttá teszi,
-- e) annak a fogva lévő vádlottnak vagy tanúnak, akinek a tárgyaláson való megjelenése a közbiztonság veszélyeztetésével járna.
+- c) a különleges bánásmódot igénylő sértettnek,
+- d) annak a tanúnak, akinek a tárgyaláson való megjelenése egészségi állapotára vagy más körülményre tekintettel aránytalan nehézséggel járna,
+- e) annak a tanúnak vagy vádlottnak, aki jogszabályban meghatározott tanúvédelmi programban vesz részt, vagy a védelme ezt egyébként indokolttá teszi,
+- f) annak a fogva lévő vádlottnak vagy tanúnak, akinek a tárgyaláson való megjelenése a közbiztonság veszélyeztetésével járna.
 
 (3) A zártcélú távközlő hálózat útján történő kihallgatást a tanács elnöke indokolt végzéssel rendeli el. A zártcélú távközlő hálózat útján történő kihallgatás tárgyában hozott végzés ellen külön fellebbezésnek nincs helye, azt az ügydöntő határozatban lehet sérelmezni.
 
@@ -3422,7 +3465,7 @@ ellen.
 
 (2) A kijavítást a határozatra és a kiadmányaira fel kell jegyezni. Ha a határozat kijavítását megelőzően a hibás kiadmányt már kézbesítették, a kijavító végzést azoknak kell kézbesíteni, akiknek a részére a bíróság a hibás kiadmányt megküldte.
 
-262. § (1) A határozatot azzal kell közölni, akire rendelkezése vonatkozik; a vádlottal közölt határozatot a védővel is, az ügydöntő határozatot a sértettel is közölni kell. Az ügydöntő határozat közlésével egyidejűleg az 51. § (4) bekezdésében foglalt jogáról a sértettet tájékoztatni kell. A tárgyalás vezetése és rendjének fenntartása körében hozott határozat kivételével a határozatot közölni kell az ügyésszel, a pótmagánvádlóval, az ügy áttételéről, a bíróság kijelöléséről és az eljárás felfüggesztéséről hozott határozatot közölni kell a sértettel is.
+262. § (1) A határozatot azzal kell közölni, akire rendelkezése vonatkozik; a vádlottal közölt határozatot a védővel is, az ügydöntő határozatot a sértettel is közölni kell. Az ügydöntő határozat közlésével egyidejűleg az 51. § (4) bekezdésében foglalt jogáról a sértettet, illetve az 51. § (3) vagy (3a) bekezdése alapján a sértett jogait gyakorló személyt tájékoztatni kell. A tárgyalás vezetése és rendjének fenntartása körében hozott határozat kivételével a határozatot közölni kell az ügyésszel, a pótmagánvádlóval, az ügy áttételéről, a bíróság kijelöléséről és az eljárás felfüggesztéséről hozott határozatot közölni kell a sértettel is.
 
 (2) A határozatot a jelenlevőkkel szóban, egyébként kézbesítés útján kell közölni.
 
@@ -3814,7 +3857,7 @@ ellen.
 
 292. § (1) A tanú kihallgatása alatt a még ki nem hallgatott tanúk nem lehetnek jelen. Ettől a rendelkezéstől a tanúként kihallgatandó sértett esetében el lehet térni.
 
-(2) A tanács elnöke az ügyész, a vádlott vagy a védő indítványára, illetőleg hivatalból a tanú kihallgatásának tartamára a tárgyalóteremből eltávolíttatja azt a vádlottat, akinek jelenléte a tanút a kihallgatása során zavarná.
+(2) A tanács elnöke az ügyész, a vádlott vagy a védő indítványára, illetve hivatalból a tanú kihallgatásának tartamára a tárgyalóteremből eltávolíttatja azt a vádlottat, akinek jelenléte a tanút a kihallgatása során zavarná. A különleges bánásmódot igénylő sértett tanúkénti kihallgatása esetén a kihallgatandó sértett vagy képviselője is indítványozhatja a vádlott tárgyalóteremből történő eltávolíttatását.
 
 293. § (1) A tanú kihallgatásának kezdetén a tanács elnöke a 85. § (2) és (3) bekezdése szerint jár el, majd ezt követően, ha a tanú vallomástételének nincs akadálya, a tanács elnöke a tanút – a 88. § rendelkezéseire figyelemmel – kihallgatja. A tanúként kihallgatandó sértett a kihallgatás kezdetén, ha korábban erről nem nyilatkozott, a 284. § (2) bekezdésének b) pontja szerinti nyilatkozatot is megteheti.
 
@@ -4089,7 +4132,7 @@ ellen.
 
 (2) Az (1) bekezdés esetén az előzetes letartóztatás a 129. § (2) bekezdésének a), b) vagy d) pontjában meghatározott okokon kívül akkor is elrendelhető, ha az ítéletben kiszabott szabadságvesztés tartamára figyelemmel a vádlott szökésétől vagy elrejtőzésétől kell tartani.
 
-(2a) Az előzetes letartóztatás elrendelése esetén az 51. § (4) bekezdésében foglalt jogáról a sértettet tájékoztatni kell.
+(2a) Az előzetes letartóztatás elrendelése esetén az 51. § (4) bekezdésében foglalt jogáról a sértettet, illetve az 51. § (3) vagy (3a) bekezdése alapján a sértett jogait gyakorló személyt tájékoztatni kell.
 
 (3) A vádlott felmentése, próbára bocsátása, számára jóvátételi munka végzésének előírása, az eljárás megszüntetése esetén, vagy ha a bíróság nem szabott ki végrehajtandó vagy részben felfüggesztett szabadságvesztést, nem rendelt el javítóintézeti nevelést, illetve ha a felmentés esetén nem rendelt el kényszergyógykezelést, az előzetes letartóztatást, a lakhelyelhagyási tilalmat, a házi őrizetet, a távoltartást, illetve az ideiglenes kényszergyógykezelést megszünteti, és nyomban intézkedik a vádlott szabadlábra helyezéséről.
 
@@ -6751,7 +6794,7 @@ felterjeszti. A kegyelmi kérelemnek az eljárás folytatására nincs halasztó
 - p) a fogvatartásban lévő terhelt elmeállapota megfigyelésének és az ideiglenes kényszergyógykezelés végrehajtásának szabályait,
 - q) az elektronikus bírósági iratkezelés részletes szabályait rendeletben állapítsa meg,
 - r) az ügyészség és a Rendőrség szerveinek az ügyészségi nyomozásban való együttműködése, és az ennek kapcsán felmerült költségek viselése részletes szabályait,
-- s) a tizennegyedik életévét be nem töltött személy meghallgatására szolgáló rendőrségi helyiség kialakítására és ellenőrzésére vonatkozó szabályokat a rendészetért felelős miniszter egyetértésével kiadott
+- s) a tizennegyedik életévét be nem töltött személy, valamint a különleges bánásmódot igénylő sértett meghallgatására szolgáló rendőrségi helyiség kialakítására és ellenőrzésére vonatkozó szabályokat a rendészetért felelős miniszter egyetértésével kiadott
 
 rendeletben szabályozza.
 

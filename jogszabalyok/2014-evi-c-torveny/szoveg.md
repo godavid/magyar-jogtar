@@ -632,7 +632,7 @@ alakulását, továbbá javaslatot tesz a (3) bekezdés szerinti kiadási előir
 
 69. § A mozgóképről szóló 2004. évi II. törvény 13. § (5) bekezdésében meghatározott gyártási költségvetési értékhatár a 2015. évben magyar filmalkotás esetén 330,3 millió forint, magyar részvételű koprodukciós filmalkotás esetén 584,8 millió forint.
 
-70. § (1) A közbeszerzésekről szóló 2011. évi CVIII. törvény (a továbbiakban: Kbt.) 10. § (1) bekezdés b) pontja szerinti nemzeti közbeszerzési értékhatár – kivéve a Kbt. szerinti közszolgáltatói szerződésekre vonatkozó értékhatárt – 2015. január 1-jétől 2015. december 31-éig
+70. § (1) A közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) 15. § (1) bekezdés b) pontja szerinti nemzeti közbeszerzési értékhatár – kivéve a közszolgáltatói szerződésekre vonatkozó értékhatárt – 2015. november 1-jétől 2015. december 31-éig
 
 - a) árubeszerzés esetében 8,0 millió forint,
 - b) építési beruházás esetében 15,0 millió forint,
@@ -640,38 +640,36 @@ alakulását, továbbá javaslatot tesz a (3) bekezdés szerinti kiadási előir
 - d) szolgáltatás megrendelése esetében 8,0 millió forint,
 - e) szolgáltatási koncesszió esetében 25,0 millió forint.
 
-(2) Az (1) bekezdéstől eltérően a Kbt. szerinti közszolgáltatói szerződésekre vonatkozó nemzeti közbeszerzési értékhatár 2015. január 1-jétől 2015. december 31-éig
+(2) Az (1) bekezdéstől eltérően a közszolgáltatói szerződésekre vonatkozó nemzeti közbeszerzési értékhatár 2015. november 1-jétől 2015. december 31-éig
 
 - a) árubeszerzés esetében 50,0 millió forint,
 - b) építési beruházás esetében 100,0 millió forint,
-- c) szolgáltatás megrendelése esetében 50,0 millió forint.
+- c) szolgáltatás megrendelése esetében 50,0 millió forint,
+- d) építési koncesszió esetében 200,0 millió forint,
+- e) szolgáltatási koncesszió esetében 100 millió forint.
 
-71. § (1) A Kbt. 10. § (1) bekezdés a) pontja szerinti, az árubeszerzésre vonatkozó uniós közbeszerzési értékhatár – kivéve a Kbt. XIV. Fejezete alkalmazásakor a közszolgáltatói szerződésekre vonatkozó értékhatárt – 2015. január 1-jétől 2015. december 31-éig
+71. § (1) A Kbt. 15. § (1) bekezdés a) pontja szerinti, az árubeszerzésre és szolgáltatás megrendelésre vonatkozó uniós közbeszerzési értékhatár – kivéve a közszolgáltatói szerződésekre vonatkozó értékhatárt – 2015. november 1-jétől 2015. december 31-éig
 
-- a) a Kbt. 6. § (1) bekezdés a) pontjában meghatározott ajánlatkérők esetében, valamint ezen ajánlatkérők esetében a védelem terén beszerzendő árukra akkor, ha a védelem terén a beszerzendő áru a Kbt. 2. mellékletében szerepel 134 000 euró,
-- b) a Kbt. 6. § (1) bekezdése szerinti egyéb ajánlatkérő esetében, valamint a 6. § (1) bekezdés a) pontjában meghatározott ajánlatkérők esetében, ha a védelem terén a beszerzendő áru a Kbt. 2. mellékletében nem szerepel 207 000 euró.
+- a) a Kbt. 5. § (1) bekezdés a)–b) pontjában meghatározott ajánlatkérők esetében, valamint ezen ajánlatkérők esetében a védelem terén beszerzendő árukra akkor, ha a védelem terén a beszerzendő áru a Kbt. 2. mellékletében szerepel 134 000 euró,
+- b) a Kbt. 5. §-a szerinti egyéb ajánlatkérő esetében, valamint az 5. § (1) bekezdés a)–b) pontjában meghatározott ajánlatkérők esetében, ha a védelem terén a beszerzendő áru a Kbt. 2. mellékletében nem szerepel 207 000 euró,
+- c) a Kbt. 5. §-a szerinti valamennyi ajánlatkérő esetében, ha a beszerzés tárgya a Kbt. 3. mellékletében szereplő szociális és egyéb szolgáltatás 750 000 euró.
 
-(2) A Kbt. 10. § (1) bekezdés a) pontjában meghatározott, az építési beruházásra vonatkozó uniós közbeszerzési értékhatár – kivéve a Kbt. XIV. Fejezete alkalmazásakor a közszolgáltatói szerződésekre vonatkozó értékhatárt – 2015. január 1-jétől 2015. december 31-éig 5 186 000 euró.
+(2) A Kbt. 15. § (1) bekezdés a) pontjában meghatározott, az építési beruházásra vonatkozó uniós közbeszerzési értékhatár – kivéve a közszolgáltatói szerződésekre vonatkozó értékhatárt – 2015. november 1-jétől 2015. december 31-éig 5 186 000 euró.
 
-(3) A Kbt. 10. § (1) bekezdés a) pontja szerinti, az építési koncesszióra vonatkozó uniós közbeszerzési értékhatár 2015. január 1-jétől 2015. december 31-éig 5 186 000 euró.
+(3) A Kbt. 15. § (1) bekezdés a) pontja szerinti, az építési koncesszióra és a szolgáltatási koncesszióra vonatkozó uniós közbeszerzési értékhatár 2015. november 1-jétől 2015. december 31-éig 5 186 000 euró.
 
-(4) A Kbt. 10. § (1) bekezdés a) pontjában meghatározott, a szolgáltatás megrendelésére vonatkozó uniós közbeszerzési értékhatár – kivéve a Kbt. XIV. Fejezete alkalmazásakor a közszolgáltatói szerződésekre vonatkozó értékhatárt – 2015. január 1-jétől 2015. december 31-éig
+(4) A Kbt. 15. § (1) bekezdés a) pontjában meghatározott, a tervpályázati eljárás lefolytatására vonatkozó uniós közbeszerzési értékhatár – kivéve a közszolgáltatói szerződésekre vonatkozó értékhatárt – 2015. november 1-jétől 2015. december 31-éig
 
-- a) a Kbt. 6. § (1) bekezdés a) pontjában meghatározott ajánlatkérők esetében, ha a szolgáltatás a Kbt. 3. mellékletében szerepel, kivéve a 8. csoportba tartozó kutatási és fejlesztési szolgáltatásokat és az 5. csoportba tartozó 7524, 7525, 7526 számú távközlési szolgáltatásokat 134 000 euró,
-- b) a Kbt. 6. § (1) bekezdésében meghatározott egyéb ajánlatkérő esetében, ha a szolgáltatás a Kbt. 3. mellékletében szerepel, kivéve a 8. csoportba tartozó kutatási és fejlesztési szolgáltatásokat és az 5. csoportba tartozó 7524, 7525, 7526 számú távközlési szolgáltatásokat 207 000 euró,
-- c) a Kbt. 3. mellékletében a 8. csoportba tartozó kutatási és fejlesztési szolgáltatások és az 5. csoportba tartozó 7524, 7525, 7526 számú távközlési szolgáltatások, valamint a Kbt. 4. melléklete szerinti szolgáltatások esetében 207 000 euró.
+- a) az (1) bekezdés a)–b) pontjában meghatározott értékhatárok, ha a tervpályázati eljárás eredményeként szolgáltatás megrendelésére kerül sor,
+- b) az (1) bekezdés a)–b) pontjában meghatározott értékhatárok minden olyan tervpályázati eljárás esetében, amelynek pályázati díja és a pályázóknak fizetendő díjak együttes teljes összege eléri vagy meghaladja ezeket az értékhatárokat.
 
-(5) A Kbt. 10. § (1) bekezdés a) pontjában meghatározott, a tervpályázati eljárás lefolytatására vonatkozó uniós közbeszerzési értékhatár – kivéve a Kbt. XIV. Fejezete alkalmazásakor a közszolgáltatói szerződésekre vonatkozó értékhatárt – 2015. január 1-jétől 2015. december 31-éig
-
-- a) a (4) bekezdés a)–c) pontjában meghatározott értékhatárok, ha a tervpályázati eljárás eredményeként szolgáltatás megrendelésére kerül sor,
-- b) a (4) bekezdés a)–c) pontjában meghatározott értékhatárok minden olyan tervpályázati eljárás esetében, amelynek pályázati díja és a pályázóknak fizetendő díjak együttes teljes összege eléri vagy meghaladja ezeket az értékhatárokat.
-
-72. § (1) A 71. §-tól eltérően a Kbt. XIV. Fejezete alkalmazásakor a közszolgáltatói szerződések esetén irányadó, a Kbt. 10. § (1) bekezdés a) pontjában meghatározott uniós közbeszerzési értékhatár 2015. január 1-jétől 2015. december 31-éig
+72. § (1) A 71. § (1)–(2) és (4) bekezdésétől eltérően a közszolgáltatói szerződések esetén irányadó, a Kbt. 15. § (1) bekezdés a) pontjában meghatározott uniós közbeszerzési értékhatár 2015. november 1-jétől 2015. december 31-éig
 
 - a) árubeszerzésre, valamint a szolgáltatás megrendelésére 414 000 euró,
-- b) építési beruházásra 5 186 000 euró.
+- b) építési beruházásra 5 186 000 euró,
+- c) a Kbt. 3. mellékletében szereplő szociális és egyéb szolgáltatásra 1 000 000 euró.
 
-(2) A Kbt. XIV. Fejezete alkalmazásakor a közszolgáltatói szerződések esetén irányadó, a Kbt. 10. § (1) bekezdés a) pontja szerinti, a tervpályázati eljárás lefolytatására vonatkozó uniós közbeszerzési értékhatár 2015. január 1-jétől 2015. december 31-éig
+(2) A közszolgáltatói szerződések esetén irányadó, a Kbt. 15. § (1) bekezdés a) pontja szerinti, a tervpályázati eljárás lefolytatására vonatkozó uniós közbeszerzési értékhatár 2015. november 1-jétől 2015. december 31-éig
 
 - a) 414 000 euró, ha a tervpályázati eljárás eredményeként szolgáltatás megrendelésére kerül sor,
 - b) 414 000 euró, ha a tervpályázati eljárás pályázati díja és a pályázóknak fizetendő díjak együttes teljes összege eléri vagy meghaladja ezt az értékhatárt.
@@ -719,6 +717,12 @@ alakulását, továbbá javaslatot tesz a (3) bekezdés szerinti kiadási előir
 77. § Ez a törvény 2015. január 1-jén lép hatályba, és 2018. december 31-én hatályát veszti.
 
 78. § A 2. melléklet Kiegészítő szabályok 5. pont i) alpontjának a Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvény módosításáról szóló 2015. évi LXXIII. törvény 10. § m) és n) pontjával és 2. melléklet 3. pontjával megállapított rendelkezéseit 2015. január 1-jétől kell alkalmazni.
+
+#### 24. Átmeneti rendelkezések
+
+78. § (1) A 70–72. §-ban meghatározott, 2015. október 31-éig hatályos értékhatárok a 2015. november 1-jét megelőzően megkezdett közbeszerzési eljárások vagy a 2015. november 1-jét megelőzően megkötött szerződések tekintetében irányadóak.
+
+(2) A 70–72. §-ban meghatározott, 2015. november 1-jétől hatályos értékhatárok a 2015. november 1-jét követően megkezdett közbeszerzési eljárások vagy – ha közbeszerzési eljárás lefolytatására nem került sor – a 2015. november 1-jét követően megkötött szerződések tekintetében irányadóak.
 
 ### 1. melléklet a 2014. évi C. törvényhez
 

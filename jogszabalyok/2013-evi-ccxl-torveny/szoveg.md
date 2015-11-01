@@ -197,15 +197,22 @@ során kell alkalmazni.
 
 ### A sértett jogainak és érdekeinek védelme
 
-13. § (1) Az élet, a testi épség és az egészség elleni szándékos, ötévi vagy azt meghaladó szabadságvesztéssel büntetendő bűncselekmények (Btk. XV. Fejezet), valamint a nemi élet szabadsága és a nemi erkölcs elleni bűncselekmények (Btk. XIX. Fejezet) sértettjét kérelmére értesíteni kell az előzetesen letartóztatott szabadon bocsátásáról vagy szökéséről, az elítélt véglegesen vagy feltételesen történő szabadon bocsátásáról és a szabadságvesztés végrehajtásának félbeszakításáról, továbbá szökéséről, illetve javítóintézeti nevelés esetén a fiatalkorú végleges vagy ideiglenes elbocsátásáról, valamint a javítóintézet engedély nélküli elhagyásáról.
+13. § (1) A sértettet, illetve a Be. 51. § (3) vagy (3a) bekezdése alapján a sértett jogait gyakorló személyt kérelmére értesíteni kell a sértettet érintő bűncselekménnyel összefüggésben
 
-(2) A kérelmet a büntetőügyben eljáró bíróságnál, előzetesen letartóztatott esetén a büntetőügyben eljáró ügyésznél kell benyújtani, és abban meg kell jelölni, hogy milyen lakcímre kéri a sértett az értesítést. A sértett a kérelmét a bírósághoz, vagy az ügyészhez történő bejelentésével visszavonhatja.
+- a) az előzetesen letartóztatott szabadon bocsátásáról vagy szökéséről,
+- b) a végrehajtandó szabadságvesztésre ítélt feltételesen vagy véglegesen történő szabadon bocsátásáról vagy szökéséről, illetve a szabadságvesztés végrehajtásának félbeszakításáról,
+- c) az elzárásra ítélt szabadon bocsátásáról vagy szökéséről, illetve az elzárás végrehajtásának félbeszakításáról,
+- d) az ideiglenes kényszergyógykezelt elbocsátásáról vagy szökéséről,
+- e) a kényszergyógykezelt elbocsátásáról, engedély nélküli eltávozásáról, illetve adaptációs szabadságra bocsátásáról, valamint
+- f) javítóintézeti nevelés esetén a fiatalkorú ideiglenes vagy végleges elbocsátásáról, a javítóintézet engedély nélküli elhagyásáról, illetve a javítóintézeti nevelés félbeszakításáról.
 
-(3) A szabadságvesztést foganatosító bv. intézet, illetve a javítóintézet a bíróság értesítése alapján a sértetti kérelmet a fogvatartotti nyilvántartásban rögzíti, és a szabadulás, illetve az elbocsátás előtt egy hónappal, félbeszakítás engedélyezése, valamint szökés, illetve a javítóintézet engedély nélküli elhagyása esetén haladéktalanul tájékoztatja a sértett által megadott lakcím szerint illetékes rendőri szervet, amely haladéktalanul értesítést küld a sértett részére az elítélt szabadon bocsátásának időpontjáról.
+(2) A kérelmet a büntetőügyben eljáró bíróságnál, előzetesen letartóztatott, illetve ideiglenes kényszergyógykezelt esetén a büntetőügyben eljáró ügyésznél kell benyújtani, és abban meg kell jelölni, hogy milyen lakcímre kéri a kérelmező az értesítést. A kérelem a bírósághoz vagy az ügyészhez történő bejelentéssel visszavonható.
 
-(3a) A (3) bekezdés az előzetesen letartóztatottra is irányadó azzal, hogy az előzetesen letartóztatott szabadulása vagy szökése esetén a sértett által megadott lakcím szerint illetékes rendőri szervet haladéktalanul értesíteni kell.
+(3) Az előzetes letartóztatást, az ideiglenes kényszergyógykezelést, a végrehajtandó szabadságvesztést, az elzárást vagy a kényszergyógykezelést foganatosító bv. intézet a bíróság vagy az ügyész értesítése alapján a kérelmet a fogvatartotti nyilvántartásban rögzíti, és a végrehajtandó szabadságvesztésre ítélt végleges szabadon bocsátásáról a szabadulás előtt egy hónappal, minden más esetben az értesítési kötelezettséget megalapozó esemény bekövetkezését követően haladéktalanul tájékoztatja a Büntetés-végrehajtás Országos Parancsnokságát (a továbbiakban: BVOP), amely haladéktalanul értesítést küld a sértett, illetve a Be. 51. § (3) vagy (3a) bekezdése alapján a sértett jogait gyakorló személy részére az elítélt vagy az egyéb jogcímen fogvatartott szabadon bocsátásának időpontjáról vagy szökéséről.
 
-(4) A bíróság, a bv. intézet és a javítóintézet a sértett kérelmét, a sértett nevét és lakcímét zártan kezeli, és biztosítja, hogy ezek az adatok ne jussanak az elítélt tudomására.
+(4) A fiatalkorú előzetes letartóztatását foganatosító, illetve a javítóintézeti nevelést végrehajtó javítóintézet a bíróság vagy az ügyész értesítése alapján a kérelmet a fiatalkorúak nyilvántartásában rögzíti, és a fiatalkorú végleges elbocsátásáról az elbocsátás előtt egy hónappal, minden más esetben az értesítési kötelezettséget megalapozó esemény bekövetkezését követően haladéktalanul tájékoztatja a sértett által megadott lakcím szerint illetékes rendőri szervet, amely haladéktalanul értesítést küld a sértett, illetve a Be. 51. § (3) vagy (3a) bekezdése alapján a sértett jogait gyakorló személy részére a fiatalkorú szabadon bocsátásának időpontjáról vagy szökéséről.
+
+(5) A bíróság, az ügyész, a BVOP, a bv. intézet és a javítóintézet a kérelmező kérelmét, nevét és lakcímét zártan kezeli és biztosítja, hogy ezek az adatok ne jussanak az elítélt vagy az egyéb jogcímen fogvatartott tudomására.
 
 ### A végrehajtás rendje
 
@@ -250,7 +257,7 @@ során kell alkalmazni.
 
 nem jelenik meg, elővezetése rendelhető el.
 
-(2) A büntetés és az intézkedés esetén az elővezetésre a Be. 162. §-át kell alkalmazni azzal, hogy – e törvény eltérő rendelkezése hiányában – az elővezetés elrendelésére a bíróság, a Büntetés-végrehajtás Országos Parancsnoksága (a továbbiakban: BVOP), a vádemelés elhalasztása esetén az ügyész jogosult.
+(2) A büntetés és az intézkedés esetén az elővezetésre a Be. 162. §-át kell alkalmazni azzal, hogy – e törvény eltérő rendelkezése hiányában – az elővezetés elrendelésére a bíróság, a BVOP, a vádemelés elhalasztása esetén az ügyész jogosult.
 
 ### Intézkedés ismeretlen helyen tartózkodó elítélt és kényszergyógykezelt felkutatására és az elfogatóparancs
 

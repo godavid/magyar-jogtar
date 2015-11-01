@@ -8,7 +8,7 @@ Annak érdekében, hogy a bűncselekményt elszenvedett és emiatt életminősé
 
 ### A törvény hatálya
 
-1. § (1) E törvény alkalmazásában áldozat a Magyarország területén elkövetett bűncselekmény és a Magyarország területén elkövetett tulajdon elleni szabálysértés természetes személy sértettje, valamint az a természetes személy, aki a Magyarország területén elkövetett bűncselekmény vagy a Magyarország területén elkövetett tulajdon elleni szabálysértés közvetlen következményeként sérelmet, így különösen testi vagy lelki sérülést, érzelmi megrázkódtatást, illetve vagyoni kárt szenvedett el, ha
+1. § (1) E törvény alkalmazásában áldozat a Magyarország területén elkövetett bűncselekmény és a Magyarország területén elkövetett tulajdon elleni szabálysértés természetes személy sértettje, valamint az a természetes személy, aki a Magyarország területén elkövetett bűncselekmény vagy a Magyarország területén elkövetett tulajdon elleni szabálysértés közvetlen következményeként hátrányt, így különösen testi vagy lelki sérülést, érzelmi megrázkódtatást, illetve vagyoni kárt szenvedett el, ha
 
 - a) magyar állampolgár,
 - b) az Európai Unió bármely tagállamának állampolgára,
@@ -28,7 +28,9 @@ Annak érdekében, hogy a bűncselekményt elszenvedett és emiatt életminősé
 
 miatt került sor.
 
-2. § (1) E törvény szerinti áldozatsegítő szolgáltatás (a továbbiakban: szolgáltatás) igénybevételére jogosult az a Magyarországon életvitelszerűen élő magyar állampolgár is, aki jogszerű külföldi tartózkodása alatt szándékos, személy elleni erőszakos bűncselekmény áldozatává vált, és ezt megfelelő módon igazolja.
+2. § (1) E törvény szerinti áldozatsegítő szolgáltatás (a továbbiakban: szolgáltatás) igénybevételére – az (1a) bekezdésben foglalt eltéréssel – jogosult az Európai Unió bármely tagállamának Magyarországon életvitelszerűen élő állampolgára vagy az a Magyarországon életvitelszerűen élő magyar állampolgár is, aki jogszerű külföldi tartózkodása alatt bűncselekmény áldozatává vált.
+
+(1a) Az (1) bekezdésben meghatározott személyek esetén azonnali pénzügyi segély kizárólag akkor adható, ha az elszenvedett bűncselekmény szándékos, személy elleni erőszakos jellegű.
 
 (2) E törvény szerinti állami kárenyhítésre (a továbbiakban: kárenyhítés) az áldozat az 1. § (1) bekezdésének c) pontja alapján akkor jogosult, ha az Európai Unió valamely tagállamában lakóhellyel vagy szokásos és jogszerű tartózkodási hellyel rendelkezik. Kárenyhítésben részesíthető az áldozat akkor is, ha Magyarországon tartózkodási vagy bevándorlási engedéllyel rendelkezik.
 
@@ -40,23 +42,40 @@ miatt került sor.
 
 ### A szolgáltatások fajtái
 
-4. § (1) Az állam áldozatsegítő szolgáltatásként elősegíti az áldozat érdekeinek érvényesítését, azonnali pénzügyi segélyt ad, jogi segítségnyújtást, illetve szükség szerint védett szálláshelyet biztosít.
+4. § (1) Az állam az áldozat számára, szükségleteinek felmérését követően, azokhoz igazodóan szolgáltatást nyújt. E törvény alapján a szolgáltatások az alábbiak:
 
-(2) Az érdekérvényesítés elősegítése keretében az áldozatsegítő szolgálat az áldozatot a szükségletének megfelelő módon és mértékben hozzásegíti alapvető jogai érvényesítéséhez, az egészségügyi, egészségbiztosítási ellátások és a szociális ellátások igénybevételéhez.
+- a) érdekérvényesítés elősegítése,
+- b) azonnali pénzügyi segély,
+- c) áldozati státusz igazolása,
+- d) tanúgondozás,
+- e) védett szálláshely biztosítása.
+
+(2) Az érdekérvényesítés elősegítése keretében az áldozatsegítő szolgálat az áldozatot a szükségletének megfelelő módon és mértékben hozzásegíti alapvető jogai érvényesítéséhez, az egészségügyi, egészségbiztosítási ellátások és a szociális ellátások, valamint más állami támogatások igénybevételéhez, ennek érdekében különösen:
+
+- a) tájékoztatást,
+- b) jogi tanácsot,
+- c) érzelmi segítséget és
+- d) egyéb segítséget
+
+nyújt a sérelem rendezéséhez.
 
 (3) Azonnali pénzügyi segélyként az áldozatsegítő szolgálat fedezi az áldozat lakhatással, ruházkodással, élelmezéssel és utazással kapcsolatos, valamint a gyógyászati és kegyeleti jellegű rendkívüli kiadásait akkor, ha a bűncselekmény vagy a tulajdon elleni szabálysértés következtében az áldozat ezen kiadások megfizetésére nem képes. A segély legmagasabb összege az alapösszeggel egyezik meg. Az alapösszeg mértéke a tárgyévet megelőző második év – a Központi Statisztikai Hivatal által közzétett – nemzetgazdasági bruttó havi átlagkeresetének 43 százaléka.
 
-(4) A jogi segítségnyújtás keretében az állam az áldozatok részére a jogi segítségnyújtásról szóló 2003. évi LXXX. törvényben (a továbbiakban: Jst.) meghatározott támogatásokat biztosítja.
+(4) Ha valamely hatóság vagy más szerv az általa nyújtott ellátás, szolgáltatás vagy támogatás igénybevételét attól teszi függővé, hogy az ellátást, szolgáltatást vagy támogatást igénylő személy az e törvény hatálya alá tartozó áldozat, továbbá ha ez egyéb okból szükséges, az áldozatsegítő szolgálat e tény igazolására az áldozat kérelmére vagy hivatalból hatósági bizonyítványt állít ki (a továbbiakban: áldozati státusz igazolása).
 
-(5) Az érdekérvényesítés elősegítése és az azonnali pénzügyi segély a rászorultság vizsgálata nélkül térítésmentesen jár az áldozatnak. A jogi segítségnyújtásra a Jst.-ben meghatározott feltételek esetén jogosult az áldozat.
+(5) A bírósági tárgyalásra idézett tanú a megfelelő tájékoztatás érdekében bírósági tanúgondozóhoz fordulhat. A bírósági tanúgondozó a bíróság olyan ügyintézője, aki a tanú részére külön jogszabályban meghatározott módon felvilágosítást ad a tanúvallomás megtétele, az ehhez szükséges bírósági megjelenés elősegítése érdekében. A tanúgondozás nem terjed ki az ügyről való tájékoztatásra, és nem járhat a tanú befolyásolásával.
 
 (6) Az állam az emberkereskedelem áldozataként azonosított, magyar állampolgárságú vagy a szabad mozgás és tartózkodás jogával rendelkező személy számára tekintet nélkül arra, hogy az 1. § (1) bekezdésében és a 2. §-ban meghatározott bűncselekmény miatt büntetőeljárás indult-e, szükség szerint védett szálláshelyet biztosít. Védett szálláshely az emberkereskedelem áldozataként azonosított személyt befogadó és számára jogszabályban meghatározott ellátásokat nyújtó létesítmény.
+
+(7) A szolgáltatások a rászorultság vizsgálata nélkül, térítésmentesen járnak az áldozatnak.
+
+(8) Amennyiben az áldozat az (1) bekezdés a) vagy e) pontjában foglalt szolgáltatás iránt fordul az áldozatsegítő szolgálathoz, az áldozatsegítő szolgálat nevében eljáró hivatalos személy mentesül a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 171. § (2) bekezdésében foglalt kötelezettség alól.
 
 ### A szolgáltatásokból kizárt áldozat
 
 5. § Nem kaphat szolgáltatást az az áldozat, aki
 
-- a) a kért támogatást az ügyben korábban már megkapta, kivéve a védett szálláshelyet,
+- a) a kért támogatást az ügyben korábban már megkapta, kivéve a tanúgondozást és a védett szálláshelyet,
 - b) korábbi támogatás iránti ügyében valótlan adatot szolgáltatott, az ezt megállapító határozat jogerőre emelkedésétől számított 2 évig,
 - c) a támogatás iránti ügyében akadályozza az ellenőrzésre irányuló vizsgálat elvégzését,
 - d) a korábbi támogatás iránti ügyében megakadályozta az ellenőrzésre irányuló vizsgálatot, az ezt megállapító határozat jogerőre emelkedéséről számított 2 évig,
@@ -127,41 +146,33 @@ miatt került sor.
 
 ### IV. Fejezet — ÁLTALÁNOS ELJÁRÁSI SZABÁLYOK
 
-### Tájékoztatás
+9. §
 
-9. § (1) Az áldozatsegítő szolgálat a hozzá forduló ügyfelet tájékoztatja
-
-- a) a büntető-, illetve szabálysértési eljárásbeli jogairól és kötelezettségeiről,
-- b) a számára elérhető támogatások fajtáiról és az igénylés feltételeiről,
-- c) az e törvényben biztosított támogatásokon kívül igénybe vehető egyéb ellátásokról, juttatásokról, jogérvényesítési lehetőségekről,
-- d) az áldozatsegítésben részt vevő állami, önkormányzati, civil szervezetek és a vallási közösségek elérhetőségéről,
-- e) a bűncselekmény, illetve tulajdon elleni szabálysértés típusára figyelemmel az ismételt áldozattá válás elkerülésének lehetőségeiről.
-
-(2) Ha az áldozatsegítő szolgálat más hatóságtól, szervtől vagy szervezettől, illetve az áldozatsegítő szolgálathoz benyújtott támogatás iránti kérelemből természetes személy áldozattá válásáról szerez tudomást, soron kívül írásban tájékoztatja az ügyfelet – az (1) bekezdésben foglaltakon túl – arról, hogy áldozatsegítő támogatás jogosultja lehet és jogosultsága esetén a támogatások iránt kérelmet terjeszthet elő.
-
-(3) Az áldozatsegítő szolgálat a tájékoztatás megtörténtéről – a (2) bekezdésben meghatározott eset kivételével – feljegyzést készít.
-
-9/A. § Amennyiben az áldozatsegítő szolgálat megállapítja, hogy a hozzá forduló harmadik országbeli állampolgár emberkereskedelem áldozata, – a 9. § (1) bekezdésében foglaltakon túl – tájékoztatja arról is, hogy
-
-- a) egy hónap gondolkodási idő áll rendelkezésére annak eldöntésére, hogy a bűncselekmény felderítésében a hatóságokkal együttműködik-e;
-- b) a gondolkodási idő tartamára ideiglenes tartózkodásra jogosító igazolásra, a hatóságokkal való együttműködés időtartamára pedig tartózkodási engedélyre jogosult.
+9/A. §
 
 ### Az engedélyezés iránti kérelem
 
-10. § (1) Az ügyfél tájékoztatásért, az áldozat tájékoztatásért és érdekérvényesítése elősegítéséért bármely áldozatsegítő szolgálathoz fordulhat. Az áldozat azonnali pénzügyi segély, jogi segítségnyújtás és kárenyhítés iránti kérelmét bármely áldozatsegítő szolgálatnál előterjesztheti.
+10. § (1) Az áldozat érdekérvényesítése elősegítéséért bármely áldozatsegítő szolgálathoz fordulhat.
 
-(2) Az azonnali pénzügyi segély, a jogi segítségnyújtás és a kárenyhítés iránti kérelmet egy példányban, az erre a célra rendszeresített nyomtatvány (a továbbiakban: nyomtatvány) kitöltésével kell benyújtani. A nyomtatvány kitöltéséhez az áldozatsegítő szolgálat segítséget nyújt.
+(1a) Az áldozat azonnali pénzügyi segély, áldozati státusz igazolása és kárenyhítés iránti kérelmét bármely áldozatsegítő szolgálatnál előterjesztheti.
+
+(2) Az azonnali pénzügyi segély, az áldozati státusz igazolása és a kárenyhítés iránti kérelmet egy példányban, az erre a célra rendszeresített nyomtatvány (a továbbiakban: nyomtatvány) kitöltésével kell benyújtani. A nyomtatvány kitöltéséhez az áldozatsegítő szolgálat segítséget nyújt.
 
 (3) A kérelemben meg kell jelölni
 
 - a) az áldozat természetes személyazonosító adatait, lakcímét és állampolgárságát,
-- b) a kérelem benyújtásának alapjául szolgáló bűncselekményre, illetve szabálysértésre vonatkozó adatokat (a bűncselekmény, illetve a szabálysértés megnevezése, a bűncselekmény, illetve a szabálysértés elkövetésének helye, időpontja és lényeges körülményei),
-- c) azt, hogy a b) pontban megjelölt bűncselekmény, illetve szabálysértés az áldozat számára milyen sérelemmel, így különösen testi vagy lelki sérüléssel, érzelmi megrázkódtatással, illetve vagyoni kárral járt,
+- b) a kérelem benyújtásának alapjául szolgáló bűncselekményre, illetve szabálysértésre vonatkozó adatokat (a bűncselekmény, illetve a szabálysértés megnevezése, elkövetésének helye, időpontja és lényeges körülményei),
+- c) azt, hogy a b) pontban megjelölt bűncselekmény, illetve szabálysértés az áldozat számára milyen hátránnyal, így különösen testi vagy lelki sérüléssel, érzelmi megrázkódtatással, illetve vagyoni kárral járt,
 - d) az igényelt támogatás fajtáját,
 - e) azt, hogy a korábban igénybe vett támogatásokkal kapcsolatban terheli-e az áldozatot az állammal szemben visszafizetési kötelezettség,
-- f) azt, hogy az áldozattal szemben az igényelt támogatás nyújtását kizáró ok fennáll-e.
+- f) azt, hogy az áldozattal szemben az igényelt támogatás nyújtását kizáró ok fennáll-e, és
+- g) az áldozat szükségleteihez igazodó támogatás nyújtásához szükséges személyes adatot.
 
-(4) A 11. § szerinti igazolást az áldozat a kérelemhez csatolhatja, ha azzal rendelkezik. Ha az áldozat a kérelméhez nem csatolja a 11. § szerinti igazolást, azt az áldozatsegítő szolgálat a kérelem benyújtását követően haladéktalanul beszerzi. A 2. § (1) bekezdése esetén az áldozatnak kérelméhez a megfelelő dokumentumokat csatolnia kell.
+(4) A kárenyhítés iránti kérelemben a (3) bekezdés g) pontja, az áldozati státusz igazolása iránti kérelemben a (3) bekezdés c) és g) pontja szerinti adatot nem kell megjelölni.
+
+(5) A feljelentés, illetve a feljelentés megtételét igazoló irat másolatát, a 11. § szerinti igazolást, az 1. § (3) bekezdésében meghatározott okból a feljelentést elutasító, a nyomozást megszüntető vagy az eljárást megszüntető döntés másolatát, továbbá az ítéletet az áldozat a kérelemhez csatolhatja, ha azzal rendelkezik.
+
+(6) Kárenyhítés iránti kérelem esetén a 11. § szerinti igazolás hiányában minden esetben, az azonnali pénzügyi segély vagy az áldozati státusz igazolása iránti kérelem esetén pedig akkor, ha az áldozat a kérelméhez nem csatolja az (5) bekezdésben felsorolt iratok valamelyikét, illetve ha azokból nem állapítható meg, hogy a kérelmező az 1. § szerint áldozatnak minősül-e, az áldozatsegítő szolgálat a kérelem benyújtását követően haladéktalanul beszerzi a 11. § szerinti igazolást. A 2. § (1) és (1a) bekezdése esetén az azonnali pénzügyi segély vagy az áldozati státusz igazolása iránt benyújtott kérelemben az áldozatnak – a megfelelő dokumentumokat csatolva – igazolnia kell azt, hogy bűncselekmény áldozatává vált.
 
 ### Igazolás
 
@@ -191,7 +202,7 @@ miatt került sor.
 - b) a támogatás igénybevételéhez kiállított igazolás számát és az abban szereplő áldozat 10. § (3) bekezdés a) pontja szerinti adatait,
 - c) a büntetőeljárásra vonatkozó adatok közül
   - ca) a büntetőeljárás befejezésének az eredményét (büntetőeljárás megszüntetése, felmentés vagy büntetőjogi felelősség megállapítása),
-  - cb) a büntetőeljárás megszüntetése esetén a megszüntetés a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 190. § (1) bekezdésében, 192. § (1)–(2) bekezdésében, 192/A. § (1) bekezdésében vagy 267. § (1) bekezdésében meghatározott indokát a törvényhely pontos megjelölésével,
+  - cb) a büntetőeljárás megszüntetése esetén a megszüntetés a Be. 190. § (1) bekezdésében, 192. § (1)–(2) bekezdésében, 192/A. § (1) bekezdésében vagy 267. § (1) bekezdésében meghatározott indokát a törvényhely pontos megjelölésével,
   - cc) ítélet és tárgyalás mellőzésével hozott végzés esetén a bűncselekménynek a Be. 258. § (2) bekezdés d) pontja szerinti megjelölését, felmentő ítélet esetén továbbá azt, ha a vádlott kényszergyógykezelését a bíróság elrendelte,
   - cd) az áldozat eljárásjogi helyzetének megjelölését, vagy azt, hogy nem vett részt a büntetőeljárásban,
   - ce) ha az áldozat magánfélként polgári jogi igényt terjesztett elő, az arról szóló döntést,
@@ -243,7 +254,7 @@ meghatározott feltételek vizsgálatát kell érteni.
 
 (2a) A biztosító a támogatás iránti kérelmet érdemben elbíráló határozat jogerőre emelkedését követő 3 éven belül, az (1) bekezdés c) pontjában meghatározott feltétel meglétének vizsgálata érdekében megküldött megkeresésre tájékoztatja az áldozatsegítő szolgálatot a biztosítási titokról.
 
-(3) Az áldozat köteles a támogatást egy összegben, a visszafizetésre kötelező jogerős határozat kézhezvételétől számított 30 napon belül az „áldozatsegítés” elnevezésű célelőirányzat javára megfizetni.
+(3) Az áldozat köteles a támogatást egy összegben, a visszafizetésre kötelező jogerős határozat kézhezvételétől számított 30 napon belül a felülről nyitott „bűncselekmények áldozatainak kárenyhítése” elnevezésű célelőirányzat (a továbbiakban: célelőirányzat) javára megfizetni.
 
 (4) Az áldozatsegítő szolgálat a visszatérítendő összeg megfizetésére kérelemre, indokolt esetben egy alkalommal legfeljebb hat hónap halasztást vagy részletfizetést engedélyezhet.
 
@@ -259,7 +270,7 @@ meghatározott feltételek vizsgálatát kell érteni.
 
 ### Nyilvántartás
 
-16. § (1) Az áldozatsegítő szolgálat a tájékoztatásokról és a támogatásokról – a kérelmek elbírálása, a visszatérítési kötelezettség teljesítésének ellenőrzése, valamint megyei és országos statisztikai adatgyűjtés érdekében – nyilvántartást vezet.
+16. § (1) Az áldozatsegítő szolgálat a támogatásokról – a kérelmek elbírálása, a visszatérítési kötelezettség teljesítésének ellenőrzése, valamint megyei és országos statisztikai adatgyűjtés érdekében – nyilvántartást vezet.
 
 (2) A nyilvántartás tartalmazza
 
@@ -268,7 +279,7 @@ meghatározott feltételek vizsgálatát kell érteni.
 - c) a 11. § (1) bekezdésének c) pontja szerinti adatokat,
 - d) a támogatásra vonatkozó adatokat: 1. az eljáró áldozatsegítő szolgálat neve, 2. az igényelt támogatás formája, 3. a határozat tartalma, 4. a határozathozatal helye és időpontja, 5. a jogorvoslati kérelem elbírálása, jogerőre emelkedés időpontja, 6. a megismételt eljárás adatai, 7. a támogatás ellenőrzésére vonatkozó adatok, 8. a közreműködő szervezetek nevei.
 
-(3) Az áldozatsegítő szolgálat a nyilvántartásban rögzített adatokat a tájékoztatás napjától vagy a kérelem előterjesztésétől számított 10 évig tartja nyilván és kezeli.
+(3) Az áldozatsegítő szolgálat a nyilvántartásban rögzített adatokat az áldozatsegítő szolgálathoz fordulás napjától vagy a kérelem előterjesztésétől számított 10 évig tartja nyilván és kezeli.
 
 (4) Az áldozatsegítő szolgálat a nyilvántartás adatairól megkeresésre tájékoztatást ad a büntető-, szabálysértési vagy polgári ügyben eljáró bíróság, a büntetőügyben eljáró ügyész vagy nyomozó hatóság, a szabálysértési ügyben eljáró szabálysértési hatóság, valamint a jogi segítő számára.
 
@@ -278,21 +289,21 @@ meghatározott feltételek vizsgálatát kell érteni.
 
 ### Illeték-, díj- és költségmentesség
 
-17. § Az áldozatsegítő eljárások illeték- és díjmentesek. A magyar nyelvet nem ismerő ügyfél helyett a fordítás és tolmácsolás költségét a célelőirányzat terhére az áldozatsegítő szolgálat viseli.
+17. § Az áldozatsegítő eljárások illeték- és díjmentesek. A magyar nyelvet nem ismerő vagy fogyatékossága miatt jelnyelvi tolmácsolásra szoruló ügyfél helyett a fordítás és tolmácsolás költségét a célelőirányzat terhére az áldozatsegítő szolgálat viseli.
 
-18. §
+18. § Az áldozatsegítő szolgálat 40. § szerinti eljárása során, a nyomtatvány kitöltésével kapcsolatban felmerülő fordítás költségét az adott tagállam döntő hatósága előtti eljárásban használható nyelvet nem ismerő ügyfél helyett a célelőirányzat terhére az áldozatsegítő szolgálat viseli.
 
 ### A pénzbeli támogatás fedezete
 
-19. § Az áldozat részére az azonnali pénzügyi segélyt, illetve a kárenyhítést az „áldozatsegítés” elnevezésű, felülről nyitott célelőirányzat terhére kell kifizetni.
+19. § Az áldozat részére az azonnali pénzügyi segélyt, illetve a kárenyhítést a célelőirányzat terhére kell kifizetni.
 
 ### Egyéb eljárási szabályok
 
-20. § (1) Az áldozatsegítő szolgálat a tájékoztatásról és az érdekérvényesítés elősegítéséről nem hoz döntést.
+20. § (1) Az áldozatsegítő szolgálat az érdekérvényesítés elősegítéséről nem hoz döntést.
 
 (2) Az eljárás irataiba a 16. § (4) és (5) bekezdésében megjelölt személyek és hatóságok is betekinthetnek.
 
-(3) Az áldozatsegítő szolgálat eljárásában a hatóság nem tart elektronikus úton írásban kapcsolatot az ügyféllel.
+(3) Az áldozatsegítő szolgálat eljárásában írásbelinek nem minősíthető elektronikus úton nem tart kapcsolatot az ügyféllel.
 
 ### V. Fejezet — A SZOLGÁLTATÁSOKRA VONATKOZÓ KÜLÖNÖS SZABÁLYOK
 
@@ -306,13 +317,28 @@ meghatározott feltételek vizsgálatát kell érteni.
 
 ### Elintézési határidő
 
-23. § Az áldozatsegítő szolgálat a kérelemről – ha a támogatás igénybevételének feltételei annak alapján megállapíthatóak – az igazolás beérkezését követő naptól számított nyolc napon belül dönt. Ha az áldozat a személyesen benyújtott kérelméhez az igazolást csatolja, az áldozatsegítő szolgálat a kérelemről soron kívül dönt.
+23. § (1) Az áldozatsegítő szolgálat a kérelemről – ha a támogatás igénybevételének feltételei annak alapján megállapíthatóak – a 10. § (5) bekezdésében felsorolt iratok beérkezését követő naptól számított nyolc napon belül dönt. Ha az áldozat a személyesen benyújtott kérelméhez a 10. § (5) bekezdésében foglalt iratok valamelyikét csatolja és a 10. § (6) bekezdése alkalmazására nincsen ok, az áldozatsegítő szolgálat a kérelemről soron kívül dönt.
+
+(2) Az áldozatsegítő szolgálat az érdekérvényesítés elősegítése esetén az áldozatnak az áldozatsegítő szolgálathoz fordulását követően haladéktalanul felméri az áldozat szükségleteit és felajánlja az ahhoz igazodó szolgáltatásokat. A szükségletek felmérése érdekében a személyesen jelen lévő ügyfelet szóban, a távollévő ügyfelet a leggyorsabb válaszadást lehetővé tevő módon – különösen telefonon, e-mailben – nyilatkoztatja. A szükségletek felmérésében közérdekű önkéntes segítő közreműködése vehető igénybe. A felajánlott szolgáltatások közül az áldozat által kiválasztott szolgáltatás nyújtásához szükséges első intézkedést az áldozatsegítő szolgálat soron kívül megteszi.
 
 ### Az érdekérvényesítés elősegítése
 
-24. § (1) Az áldozatsegítő szolgálat az eset összes körülményeinek mérlegelése után a bűncselekmény, illetve a tulajdon elleni szabálysértés következtében jogaiban sérelmet szenvedett áldozatnak jogi tanácsot és segítséget ad a sérelem rendezéséhez.
+24. § (1) Tájékoztatás keretében az áldozatsegítő szolgálat a hozzá forduló áldozatot a szükségletei felmérését követően tájékoztatja
 
-(2) Ha a körülmények alapján bebizonyosodik, hogy a rászoruló áldozat sérelmének rendezéséhez a Jst.-ben meghatározott jogi segítségnyújtásra van szükség, az áldozatsegítő szolgálat továbbítja a kérelmet a jogi segítségnyújtó szolgálatnak, amely a döntéséről és a megtett intézkedésekről haladéktalanul értesíti az áldozatsegítő szolgálatot.
+- a) a büntető-, illetve szabálysértési eljárásbeli jogairól és kötelezettségeiről,
+- b) a számára elérhető támogatások fajtáiról és az igénylés feltételeiről,
+- c) az e törvényben biztosított támogatásokon kívül igénybe vehető egyéb ellátásokról, juttatásokról, jogérvényesítési lehetőségekről,
+- d) az áldozatsegítésben részt vevő állami, önkormányzati, civil szervezetek és a vallási közösségek elérhetőségéről,
+- e) a bűncselekmény, illetve tulajdon elleni szabálysértés típusára figyelemmel az ismételt áldozattá válás elkerülésének lehetőségeiről.
+
+(2) Ha az áldozatsegítő szolgálat más hatóságtól, szervtől vagy szervezettől, illetve az áldozatsegítő szolgálathoz benyújtott támogatás iránti kérelemből természetes személy áldozattá válásáról szerez tudomást, soron kívül (az áldozat szükségleteire vonatkozóan a rendelkezésére álló adatok alapján, azokhoz igazodóan) írásban tájékoztatja az ügyfelet arról, hogy támogatás jogosultja lehet és jogosultsága esetén a támogatások iránt kérelmet terjeszthet elő.
+
+(3) Ha az áldozatsegítő szolgálat megállapítja, hogy a hozzá forduló harmadik országbeli állampolgár emberkereskedelem áldozata, – az (1) bekezdésében foglaltakon túl – tájékoztatja arról is, hogy
+
+- a) egy hónap gondolkodási idő áll rendelkezésére annak eldöntésére, hogy a bűncselekmény felderítésében a hatóságokkal együttműködik-e;
+- b) a gondolkodási idő tartamára ideiglenes tartózkodásra jogosító igazolásra, a hatóságokkal való együttműködés időtartamára pedig tartózkodási engedélyre jogosult.
+
+(4) Az (1) és (3) bekezdésben foglaltakat az áldozatsegítő szolgálat telefonon megszakítás nélkül, folyamatosan biztosítja.
 
 25. § (1) Az áldozatsegítő szolgálat az eset összes körülményeinek mérlegelése után köteles az áldozatot tájékoztatni:
 
@@ -348,13 +374,25 @@ formáiról, a jogosultság feltételeiről, az igénylés módjáról, valamint
 - a) az ellátások, szolgáltatások igénybevételéhez,
 - b) az ellátásokkal, szolgáltatásokkal kapcsolatos panaszjog érvényesítéséhez.
 
+26/A. § Az áldozatsegítő szolgálat az eset összes körülményének mérlegelése után az azt igénylő áldozatnak – a 28. § (2) bekezdésében meghatározott kivétellel – jogi tanácsot és segítséget ad a sérelem rendezéséhez.
+
+26/B. § (1) Az áldozatsegítő szolgálat az áldozat szükségleteinek felmérését követően érzelmi segítséget nyújt az azt igénylő áldozat számára.
+
+(2) Az érzelmi segítség célja az áldozat lelki egyensúlyi állapotának kialakítása. Kiterjed a bűncselekmény, illetve a tulajdon elleni szabálysértés következményeként kialakult feszültség csökkentésére, az érzelmi biztonság légkörének megteremtésére, a jelentkező feszültség vagy negatív érzelmek kiadásának, levezetésének biztosítására, a probléma tárgyilagos megfogalmazására, a valóság elfogadtatására, a megoldáshoz vezető lépések közös megkeresésére és az áldozat ezek irányába történő elmozdítására.
+
+(3) Érzelmi segítség egyéni és csoportos formában is nyújtható.
+
 ### Azonnali pénzügyi segély
 
 27. § (1) Az áldozatsegítő szolgálat az áldozati státus elbírálását követően, kérelemre, méltányossági döntés alapján, az áldozatnak a bűncselekmény, illetve a tulajdon elleni szabálysértés következtében kialakult helyzetére figyelemmel, az eset összes körülményeit vizsgálva és mérlegelve azonnali pénzügyi segélyt adhat.
 
 (2) Az áldozatsegítő szolgálatnak az azonnali pénzügyi segély iránti kérelemről szóló döntése ellen nincs helye fellebbezésnek.
 
-28. §
+### Áldozati státusz igazolása
+
+28. § (1) Ha az áldozat nem rendelkezik a 11. § (1) bekezdésében meghatározott igazolással, azonban a 10. § (5) bekezdésében meghatározott egyéb iratok valamelyikét az áldozatsegítő szolgálathoz benyújtott kérelméhez csatolja, és abból a hatósági bizonyítvány kiállításának feltételei megállapíthatóak, az áldozati státusz igazolása ez alapján is kiállítható.
+
+(2) Ha a körülmények alapján bebizonyosodik, hogy a rászoruló áldozat sérelmének rendezéséhez a jogi segítségnyújtásról szóló 2003. évi LXXX. törvényben (a továbbiakban: Jst.) meghatározott jogi segítségnyújtásra van szükség, az áldozatsegítő szolgálat igazolja az ügyfél áldozati státuszát, és ezen igazolást, valamint – ha rendelkezésre áll – a kérelmet továbbítja a jogi segítségnyújtó szolgálatnak, amely a döntéséről és a megtett intézkedésekről haladéktalanul értesíti az áldozatsegítő szolgálatot. A jogi segítségnyújtásra az áldozat a Jst.-ben meghatározott feltételek esetén jogosult.
 
 ### VI. Fejezet — A KÁRENYHÍTÉSRE VONATKOZÓ KÜLÖNÖS SZABÁLYOK
 
@@ -420,7 +458,7 @@ formáiról, a jogosultság feltételeiről, az igénylés módjáról, valamint
 
 35. § (1) A döntő hatóság a kérelem beérkezését követő naptól számított nyolc napon belül dönt arról, hogy a kérelem érdemi elbírálásához szükség van-e arra, hogy a támogató hatóság a kérelmezőt vagy más személyt meghallgasson.
 
-(2) A döntő hatóság az eljárás megindítására irányuló kérelmet benyújtó áldozatot is értesíti az eljárás megindításáról.
+(2)
 
 36. §
 
@@ -474,7 +512,7 @@ formáiról, a jogosultság feltételeiről, az igénylés módjáról, valamint
 
 (2) Az áldozatsegítő szolgálat abban az esetben, ha munkája során kiskorú veszélyeztetettségéről szerez tudomást, haladéktalanul jelzi azt a kiskorú tényleges tartózkodási helye szerint illetékes gyermekjóléti szolgálatnak. Ha a feltárt körülmény a kiskorú életét, testi épségét súlyosan veszélyezteti, a jelzéssel egyidejűleg gyámhatósági eljárást kezdeményez.
 
-(3) Az áldozatsegítő hatóság a 9/A. § szerinti tájékoztatás megtörténtét követően – a büntetőeljárás adott szakaszában eljáró nyomozó hatóság, ügyész vagy bíróság egyidejű értesítése mellett – haladéktalanul kezdeményezi az idegenrendészeti hatóságnál a harmadik országbeli állampolgár ideiglenes tartózkodásra jogosító igazolással történő ellátását.
+(3) Az áldozatsegítő szolgálat a 24. § (3) bekezdése szerinti tájékoztatás megtörténtét követően – a büntetőeljárás adott szakaszában eljáró nyomozó hatóság, ügyész vagy bíróság egyidejű értesítése mellett – haladéktalanul kezdeményezi az idegenrendészeti hatóságnál a harmadik országbeli állampolgár ideiglenes tartózkodásra jogosító igazolással történő ellátását.
 
 ### VIII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -500,21 +538,25 @@ formáiról, a jogosultság feltételeiről, az igénylés módjáról, valamint
 - b) az áldozatsegítő szolgálatnál foglalkoztatottak képesítési feltételeire vonatkozó szabályokat,
 - c)
 
-(2) Felhatalmazást kap az áldozatsegítésért felelős miniszter, hogy rendelettel állapítsa meg az irányítása alá tartozó szervek áldozatsegítő feladatait, azok civil szervezetekkel való együttműködésének formáit.
+(2) Felhatalmazást kap az áldozatsegítésért felelős miniszter, hogy az irányítása alá tartozó szervek áldozatsegítő feladatait, azok civil szervezetekkel való együttműködésének formáit, valamint az áldozatsegítő szolgálat által készített, az áldozatok jogairól szóló tájékoztató részletes tartalmi követelményeit rendeletben állapítsa meg.
 
 (3) Felhatalmazást kap a Kormány, hogy az áldozatsegítő szolgálatot vagy szolgálatokat, ezen belül a támogató hatóságot vagy hatóságokat és a döntő hatóságot vagy hatóságokat rendeletben jelölje ki.
 
 (4) Felhatalmazást kap a Kormány, hogy az emberkereskedelem magyar állampolgárságú áldozatai és a szabad mozgás és tartózkodás jogával rendelkező áldozatai azonosításának rendjét, valamint az azonosításra jogosult és jelzésre kötelezett szerveket és szervezeteket, valamint a védett szálláshelyen nyújtott ellátások feltételeit és részletes szabályait rendeletben állapítsa meg.
 
+(5) Felhatalmazást kap az igazságügyért felelős miniszter, hogy a bírósági ügyintézők tanúgondozással kapcsolatos feladatait, valamint a tanúgondozás részletes szabályait rendeletben állapítsa meg.
+
+(6) Felhatalmazást kap a rendészetért felelős miniszter, hogy az irányítása alá tartozó szervek áldozatsegítő feladataira vonatkozó részletes szabályokat – az áldozatsegítésért felelős miniszter egyetértésével – rendeletben állapítsa meg.
+
 ### Az Európai Unió jogának való megfelelés
 
 47. § (1) E törvény a bűncselekmények áldozatainak kárenyhítéséről szóló, 2004. április 29-i 2004/80/EK tanácsi irányelvnek való megfelelést szolgálja.
 
-(2) E törvény 9. § (1) bekezdése a büntetőeljárásban a sértett jogállásáról szóló, 2001. március 15-i 2001/220/IB tanácsi kerethatározat 4. cikkének való megfelelést szolgálja.
+(2) E törvény a bűncselekmények áldozatainak jogaira, támogatására és védelmére vonatkozó minimumszabályok megállapításáról és a 2001/220/IB tanácsi kerethatározat felváltásáról szóló, 2012. október 25-i 2012/29/EU parlamenti és tanácsi irányelv 8. és 9. cikkének való megfelelést szolgálja.
 
-(3) E törvény 9/A. §-a és 43. § (3) bekezdése a harmadik országok emberkereskedelem áldozatává vált vagy az illegális bevándorlás megkönnyítésére irányuló cselekményektől érintett, a hatáskörrel rendelkező hatóságokkal együttműködő állampolgárai részére kiállított tartózkodási engedélyről szóló, 2004. április 29-i 2004/81/EK tanácsi irányelv 5. és 6. cikkének való megfelelést szolgálja.
+(3) E törvény 24. § (3) bekezdése és 43. § (3) bekezdése a harmadik országok emberkereskedelem áldozatává vált vagy az illegális bevándorlás megkönnyítésére irányuló cselekményektől érintett, a hatáskörrel rendelkező hatóságokkal együttműködő állampolgárai részére kiállított tartózkodási engedélyről szóló, 2004. április 29-i 2004/81/EK tanácsi irányelv 5. és 6. cikkének való megfelelést szolgálja.
 
-(4) E törvény 9. § (2) bekezdése és 46. § (4) bekezdése az emberkereskedelem megelőzéséről, és az ellene folytatott küzdelemről, az áldozatok védelméről, valamint a 2002/629/IB tanácsi kerethatározat felváltásáról szóló 2011. április 5-i 2011/36/EU európai parlamenti és tanácsi irányelv 11. cikkének történő megfelelést szolgálja.
+(4) E törvény 24. § (2) bekezdése és 46. § (4) bekezdése az emberkereskedelem megelőzéséről, és az ellene folytatott küzdelemről, az áldozatok védelméről, valamint a 2002/629/IB tanácsi kerethatározat felváltásáról szóló 2011. április 5-i 2011/36/EU európai parlamenti és tanácsi irányelv 11. cikkének történő megfelelést szolgálja.
 
 48. § (1)–(6)
 
