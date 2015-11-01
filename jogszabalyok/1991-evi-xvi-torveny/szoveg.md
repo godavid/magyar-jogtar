@@ -16,9 +16,7 @@ A kizárólagos állami, önkormányzati vagy önkormányzati társulási tulajd
 
 (2) A devizajogszabályok szerint külföldinek minősülő természetes és jogi személyek, valamint ezek jogi személyiséggel nem rendelkező társaságai a belföldiekkel azonos feltételekkel és eséllyel köthetnek koncessziós szerződést.
 
-3/A. § (1) Ha a közbeszerzésekről szóló törvény (Kbt.) szerinti építési koncesszió egyben e törvény hatálya alá is tartozik, e törvényt a Kbt.-ben meghatározott eltérésekkel kell alkalmazni.
-
-(2) Ha a Kbt. szerinti szolgáltatási koncesszió egyben e törvény hatálya alá is tartozik, e törvény szerint kell eljárni azzal, hogy a Kbt. nemzeti elbánásra vonatkozó követelményét az e törvény szerinti eljárás során is alkalmazni kell.
+3/A. § Ha a koncessziós szerződés egyúttal a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) hatálya alá is tartozik, e törvényt a Kbt.-ben foglalt eltérésekkel kell alkalmazni. Koncessziós pályázat kiírása helyett – a Kbt.-ben meghatározottak szerint – közbeszerzési vagy koncessziós beszerzési eljárást kell lefolytatni. Ebben az esetben a koncessziós szerződés megkötésére nem alkalmazandó a 4. §, a 8. § (1) bekezdése, és a 9. §. A koncessziós pályázatra e törvényben előírt további rendelkezések a közbeszerzési vagy koncessziós beszerzési eljárásban megfelelően alkalmazandóak azzal, hogy az 5. § (1) bekezdésében és a 6. §-ban a pályázatok elbírálása alatt az eljárás eredményéről szóló döntés meghozatalát kell érteni. A 9/A. §-ban foglaltakat a Kbt. szerint az ajánlatokról készített összegezésnek kell tartalmaznia, amelyhez az ajánlatkérő utólag csatolja a nyertes ajánlattevő részéről a 9/A. § (1) bekezdés f) pontja szerinti nyilatkozatot.
 
 ### A koncessziós pályázat
 

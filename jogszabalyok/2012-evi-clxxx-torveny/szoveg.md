@@ -944,6 +944,18 @@ kibocsátott határozatot (a továbbiakban e fejezet alkalmazásában: biztosít
 
 (4) A 106. és 107. §-ban foglaltakat akkor is alkalmazni kell, ha a legfőbb ügyész nem a 104. és 105. §-ban meghatározott információcsere alapján, hanem más forrásból szerzett tudomást a másik tagállamban párhuzamosan folyó büntetőeljárásról.
 
+### VII/A. Fejezet — A FELJELENTÉS TOVÁBBÍTÁSA ÉS FOGADÁSA
+
+#### 43/A. A feljelentés továbbítása másik tagállamnak
+
+107/A. § (1) Ha magyar hatóságnál más tagállam területén elkövetett bűncselekmény miatt tesznek feljelentést, és ez alapján a magyar hatóság a büntetőeljárást joghatóság hiányában nem folytatja le, az ügyész a sértett által tett feljelentést haladéktalanul a bűncselekmény elkövetésének helye szerint illetékes tagállami igazságügyi hatósághoz továbbítja és erről a sértettet értesíti.
+
+(2) Ha a rendelkezésre álló adatok alapján nem állapítható meg, hogy a bűncselekmény elkövetésének helye szerint illetékes tagállamban a feljelentés fogadására melyik tagállami igazságügyi hatóság rendelkezik hatáskörrel és illetékességgel, a továbbításhoz szükséges adatokat az Európai Igazságügyi Hálózat kapcsolattartó pontjain keresztül kell beszerezni.
+
+#### 43/B. A feljelentés fogadása másik tagállamtól
+
+107/B. § Ha a tagállami igazságügyi hatóság a Magyarországon elkövetett bűncselekménnyel kapcsolatban a sértett által tett feljelentést a magyar hatóság részére továbbítja, a magyar hatóság a feljelentést a magyar jogszabályok alapján bírálja el.
+
 ## NEGYEDIK RÉSZ — VÉGREHAJTÁSI JOGSEGÉLYEK
 
 ### VIII. Fejezet — A BÜNTETŐÜGYEKBEN HOZOTT, SZABADSÁGVESZTÉS BÜNTETÉST KISZABÓ VAGY SZABADSÁGELVONÁSSAL JÁRÓ INTÉZKEDÉST ALKALMAZÓ ÍTÉLETEK VÉGREHAJTÁSÁRA IRÁNYULÓ JOGSEGÉLY
@@ -1894,7 +1906,8 @@ a bíróság vagy az ügyész az európai védelmi határozatot megfelelően mó
 - 18. az Eurojust megerősítéséről és az Eurojust létrehozásáról a bűnözés súlyos formái elleni fokozott küzdelem céljából a 2002/187/IB határozat módosításról szóló 2008. december 16-i 2009/426/IB tanácsi határozatnak;
 - 19. a kölcsönös elismerés elvének az Európai Unió tagállamai közötti, az előzetes letartóztatás alternatívájaként felügyeleti intézkedéseket elrendelő határozatokra történő alkalmazásáról szóló, 2009. október 23-i 2009/829/IB tanácsi kerethatározatnak,
 - 20. a joghatóság gyakorlásával kapcsolatos, büntetőeljárások során felmerülő összeütközések megelőzéséről és rendezéséről szóló, 2009. november 30-i 2009/948/IB tanácsi kerethatározatnak,
-- 21. az európai védelmi határozatról szóló, 2011. december 13-i 2011/99/EU európai parlamenti és tanácsi irányelvnek
+- 21. az európai védelmi határozatról szóló, 2011. december 13-i 2011/99/EU európai parlamenti és tanácsi irányelvnek,
+- 22. a bűncselekmények áldozatainak jogaira, támogatására és védelmére vonatkozó minimumszabályok megállapításáról és a 2001/220/IB tanácsi kerethatározat felváltásáról szóló, 2012. október 25-i 2012/29/EU európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 

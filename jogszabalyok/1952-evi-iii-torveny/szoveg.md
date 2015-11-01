@@ -3110,7 +3110,7 @@ a közjegyző felhívásának kézbesítésétől számított tizenöt napon bel
 
 (6) A Magyarország területére történő beutazásra és az ott való tartózkodásra vonatkozó ügyekben hozott közigazgatási határozatok felülvizsgálata iránti perekben az illetékességet az első fokon eljárt közigazgatási szerv székhelye alapozza meg. Ha az eljárt hatóság székhelye alapján az illetékesség nem állapítható meg, a perre a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
 
-(7) Ha az első fokon eljárt közigazgatási szerv illetékessége az egész országra kiterjed – a (12)–(13) bekezdésben foglalt kivétellel – a perre a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
+(7) Ha az első fokon eljárt közigazgatási szerv illetékessége az egész országra kiterjed – a (12)–(14) bekezdésben foglalt kivétellel – a perre a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
 
 (8) Ha ugyanazon közigazgatási határozat felülvizsgálata iránt több bíróság előtt indítanak pert, az az illetékes bíróság jár el, amelyhez a keresetlevelet elsőként továbbították. A közigazgatási szerv az utóbb továbbított keresetlevélre a 330. § (2) bekezdése szerint megtett nyilatkozatában felhívja a bíróság figyelmét arra, hogy korábban az adott határozat ellen másik keresetlevelet nyújtottak be, és azt az abban megjelölt másik illetékes bírósághoz továbbították. Az a bíróság, amelynek a közigazgatási szerv utóbb továbbított keresetlevelet, a 129. § szerint jár el.
 
@@ -3142,7 +3142,7 @@ a közjegyző felhívásának kézbesítésétől számított tizenöt napon bel
 - o) a szomszédos államokban élő magyarokról szóló törvény,
 - p) a bírósági végrehajtásról szóló törvény,
 - q) a közúti közlekedésről szóló törvény,
-- r) a közbeszerzésekről szóló törvény, ha a közbeszerzési eljárásban az ajánlatkérő nem a törvényben meghatározott központi költségvetési szerv,
+- r)
 - s) a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló törvény.
 
 (13) A menedékjogról szóló törvény, valamint a végrehajtásáról szóló kormányrendelet alapján indult felülvizsgálati eljárásokban – a (14) bekezdésben foglalt kivétellel – a felperes belföldi lakóhelye, ha lakóhelye nincs, tartózkodási helye, ezek hiányában – a menekültügyi nyilvántartás szerinti – szálláshelye szerint illetékes ítélőtábla székhelye szerinti közigazgatási és munkaügyi bíróság – a Fővárosi Ítélőtábla esetében a Fővárosi Közigazgatási és Munkaügyi Bíróság – jár el. Ha a felperesnek – a (14) bekezdésben foglalt kivétellel – nincs belföldi lakóhelye, tartózkodási helye, illetve szálláshelye, az utolsó belföldi lakóhelye, ha lakóhelye nem volt, utolsó tartózkodási helye, ennek hiányában – a menekültügyi nyilvántartás szerinti – utolsó szálláshelye szerint illetékes ítélőtábla székhelye szerinti közigazgatási és munkaügyi bíróság – a Fővárosi Ítélőtábla esetében a Fővárosi Közigazgatási és Munkaügyi Bíróság – jár el.
@@ -3155,6 +3155,11 @@ a közjegyző felhívásának kézbesítésétől számított tizenöt napon bel
 
 illetékes.
 
+(14) A közbeszerzésekről szóló törvény alapján indult közigazgatási perekben kizárólagosan illetékes
+
+- a) a Kecskeméti Közigazgatási és Munkaügyi Bíróság, ha az ajánlatkérő székhelye Bács-Kiskun megye, Békés megye, Borsod-Abaúj-Zemplén megye, Csongrád megye, Hajdú-Bihar megye, Heves megye, Jász-Nagykun-Szolnok megye, Nógrád megye vagy Szabolcs-Szatmár-Bereg megye területén; illetve
+- b) a Székesfehérvári Közigazgatási és Munkaügyi Bíróság, ha az ajánlatkérő székhelye Budapesten, valamint Baranya megye, Fejér megye, Győr-Moson-Sopron megye, Komárom-Esztergom megye, Pest megye, Somogy megye, Tolna megye, Vas megye, Veszprém megye vagy Zala megye területén található.
+
 ### Felek
 
 327. § (1) A közigazgatási per indítására jogosult:
@@ -3162,7 +3167,7 @@ illetékes.
 - a) az ügyfél,
 - b) a kifejezetten rá vonatkozó rendelkezés tekintetében az eljárás egyéb résztvevője.
 
-(2) A keresetet az ellen a közigazgatási szerv ellen kell indítani, amelyik a felülvizsgálni kért határozatot hozta. Ha a közigazgatási szerv által hozott határozattal elbírált ügyben a közbeszerzési és közérdekvédelmi feladatok ellátására külön törvényben kijelölt vizsgálati eljárást indított, a perben beavatkozóként részt vehet.
+(2) A keresetet az ellen a közigazgatási szerv ellen kell indítani, amelyik a felülvizsgálni kért határozatot hozta.
 
 (3) Ha a fél a pert nem a felülvizsgálni kért határozatot hozó másodfokú, hanem az első fokú közigazgatási szerv ellen indította, a per során a másodfokú közigazgatási szervet perbe vonhatja.
 
@@ -3232,7 +3237,7 @@ illetékes.
 
 (4) A végrehajtás felfüggesztése tárgyában hozott végzés ellen külön fellebbezésnek van helye. Ha a fél a végrehajtás felfüggesztése iránti kérelme elutasítását követően ismételten – azonos ténybeli és jogi alapon – nyújt be végrehajtás felfüggesztése iránti kérelmet, a végrehajtás felfüggesztését megtagadó végzés ellen külön fellebbezésnek nincs helye. A bíróságnak a végrehajtás felfüggesztését elrendelő végzése fellebbezésre tekintet nélkül végrehajtható.
 
-(5) Ha a közigazgatási eljárásban ellenérdekű ügyfél vagy a közbeszerzési és közérdekvédelmi feladatok ellátására külön törvényben kijelölt szerv ügyfélként szerepelt, a bíróság értesíti őt a beavatkozás lehetőségéről.
+(5) Ha a közigazgatási eljárásban ellenérdekű ügyfél szerepelt, a bíróság értesíti őt a beavatkozás lehetőségéről.
 
 (6) Ha a közigazgatási határozat meghozatalára szakhatósági állásfoglalás alapulvételével került sor, az alperes a szakhatóságot perbe hívhatja, amely a perbehívást nem utasíthatja vissza.
 
@@ -3283,7 +3288,7 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 335/B. § (1) A közigazgatási perekben az azonos hatáskörű bíróságok előtt folyamatban lévő perek egyesítésének is helye van. Ha az egyesítést több, azonos hatáskörű bíróság is elrendelte, a továbbiakban az jár el, amely az egyesítésről korábban határozott.
 
-(2) Az azonos hatáskörű bíróságok előtt folyamatban lévő pereket egyesíteni kell, ha a közigazgatási szerv által hozott határozattal elbírált ügyben a közbeszerzési és közérdekvédelmi feladatok ellátására külön törvényben kijelölt szerv is eljárt, és a közigazgatási szerv, valamint a közbeszerzési és közérdekvédelmi feladatok ellátására külön törvényben kijelölt szerv által elbírált ügyben hozott határozatok bírósági felülvizsgálata folyamatban van.
+(2)
 
 ### Viszontkereset
 
@@ -4278,6 +4283,8 @@ vonatkozó, a Módosító Törvénnyel megállapított rendelkezéseit a 2014. m
 (4) E törvénynek a Módosító Törvénnyel megállapított 80. § (6) bekezdését, 121/A. § (1) bekezdését, 285. § (5) bekezdését, valamint 394/C. § a) és b) pontját a 2014. március 15. napját követően indult ügyekben kell alkalmazni.
 
 (5) Ha 2014. március 15. napján folyamatban lévő gondnokság alá helyezési per folyamán az alperes előzetes jognyilatkozatot tesz, ennek tényét haladéktalanul be kell jelentenie az eljáró bíróság részére.
+
+397/G. § E törvénynek a közbeszerzésekről szóló 2015. évi CXLIII. törvénnyel megállapított 326. § (7) bekezdését, 326. § (14) bekezdését a hatálybalépését követően, a közbeszerzésekről szóló törvény alapján indult közigazgatási perekre kell alkalmazni. E törvénynek a közbeszerzésekről szóló 2015. évi CXLIII. törvénnyel hatályon kívül helyezett 326. § (12) bekezdés r) pontját a hatályon kívül helyezését megelőzően, a közbeszerzésekről szóló törvény alapján indult közigazgatási perekre alkalmazni kell.
 
 398. § E törvény 313–323. §-a összeegyeztethető szabályozást tartalmaz az Európai Parlament és a Tanács a kereskedelmi ügyletekhez kapcsolódó késedelmes fizetések elleni fellépésről szóló 2011/7/EU irányelvének 10. cikkével.
 

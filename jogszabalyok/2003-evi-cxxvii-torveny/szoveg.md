@@ -2790,7 +2790,7 @@ jövedéki biztosítékot nyújtania.
 
 (2) A jövedéki engedélyes kereskedőnek a beszerzéseiről és értékesítéséről, valamint a napi zárókészletéről – telephelyenként és összesítve – folyamatosan mennyiségi nyilvántartást (a továbbiakban: jövedéki nyilvántartás) kell vezetnie. A jövedéki nyilvántartást a vámhatóság által elfogadott és hitelesített külön nyomtatványon (űrlapon) kell vezetni, és a beszerzés, az értékesítés adatait havonta, a tárgyhó végén összesíteni. A jövedéki engedélyes kereskedő mentesülhet a külön nyomtatványon (űrlapon) történő nyilvántartás-vezetés alól, ha bizonylati rendjét, hagyományos vagy számítógépes nyilvántartását úgy alakítja ki, hogy annak alapján az előírt számbavétel teljesül. A jövedéki nyilvántartás adatai számítógépes adathordozón tárolhatók. A vámhatóság kérésére a jövedéki nyilvántartás adatait rendelkezésre kell bocsátani.
 
-(3) A jövedéki engedélyes kereskedő dohánygyártmány, alkoholtermék, bor, pezsgő, köztes alkoholtermék, sör és palackba töltött cseppfolyósított szénhidrogén árukészletének továbbforgalmazók, továbbá a tüzelőolajnak, a gázolajnak, a palackba töltött cseppfolyósított szénhidrogénnek és a légi járművek üzemanyagának végfelhasználók részére, gépjárműről történő helyszíni értékesítése, kiszolgálása (a továbbiakban: terítőjárat) a külön jogszabályban meghatározott rendelkezések szerint megengedett.
+(3) A jövedéki engedélyes kereskedő alkoholtermék, bor, pezsgő, köztes alkoholtermék, sör és palackba töltött cseppfolyósított szénhidrogén árukészletének továbbforgalmazók, továbbá a tüzelőolajnak, a gázolajnak, a palackba töltött cseppfolyósított szénhidrogénnek és a légi járművek üzemanyagának végfelhasználók részére, gépjárműről történő helyszíni értékesítése, kiszolgálása (a továbbiakban: terítőjárat), valamint a dohánygyártmánynak a dohánygyártmányt értékesítő nem jövedéki engedélyes kereskedő részére történő kiszállítása a külön jogszabályban meghatározott rendelkezések szerint megengedett.
 
 (4) A jövedéki engedélyes kereskedő jövedéki terméket
 
@@ -2812,9 +2812,11 @@ jövedéki biztosítékot nyújtania.
 
 (7) A jövedéki engedélyes kereskedőnek a belföldön értékesített jövedéki termékről vevőnként olyan nyilvántartással kell rendelkeznie, amely tartalmazza
 
-- a) az értékesített termék megnevezését és KN-kódját, számla szerinti mennyiségi egységét, mennyiségét és értékét, a számla számát,
+- a) az értékesített termék megnevezését és KN-kódját, számla szerinti mennyiségi egységét, mennyiségét és értékét, továbbá – a fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvényben (a továbbiakban: Dohánytörvény) meghatározott dohány-kiskereskedelmi ellátó (a továbbiakban: dohány-kiskereskedelmi ellátó) részére történő értékesítést kivéve – a számla számát,
 - b) a vevő nevét, székhelye (telephelye) címét, adóazonosító számát,
-- c) a vásárlás és a teljesítés (kiszállítás) időpontját. A jövedéki engedélyes kereskedő a nyilvántartás adatait számítógépes adathordozón köteles tárolni, melyeket – kérésre – köteles elektronikus úton, ügyfélkapun keresztül a vámhatóság rendelkezésére bocsátani.]
+- c) a vásárlás és a teljesítés (kiszállítás) – dohány-kiskereskedelmi ellátó részére történő áruátadás esetén, a dohányáru átadásának – időpontját.
+
+A jövedéki engedélyes kereskedő a nyilvántartás adatait számítógépes adathordozón köteles tárolni, melyeket – kérésre – köteles elektronikus úton, ügyfélkapun keresztül a vámhatóság rendelkezésére bocsátani.
 
 (8) A jövedéki engedélyes kereskedő a 103. § (1) bekezdésében megjelölt ásványolajterméket készpénzfizetéssel nem szerezhet be és – kivéve a 0 adómérték alá tartozó terméknek természetes személy részére történő értékesítését – nem értékesíthet, a nem jövedéki engedélyes kereskedő nem vásárolhat, illetve a fűtőolajat a jövedéki engedélyes kereskedő kizárólag olyan vevőnek értékesíthet – a (10) bekezdés szerinti eset kivételével –, aki az ellenértéket a saját nevére szóló fizetési számlájáról egyenlíti ki.
 
@@ -2848,13 +2850,13 @@ jövedéki biztosítékot nyújtania.
 
 - a) a tüzelőolaj és a propán vagy az 52. § (1) bekezdés f) pontja szerinti cseppfolyósított szénhidrogén – ide nem értve a palackba töltött cseppfolyósított szénhidrogént –, továbbá – kizárólag a hivatalosan meghirdetett technikai sportversenyeken (motor-, autó-, repülő-, motorcsónakversenyeken), a versenyen részt vevő gépjárművek használatára – az üzemanyag csak a felhasználás helyszínén, olyan tartállyal felszerelt, forgalmi rendszámmal ellátott közúti gépjárműből (tankautó) értékesíthető, amely a mérésügyi szerv által hitelesített, ólomzárral ellátott mérőműszeren (átfolyásmérőn), kiszolgálótömlőn és pillanatelzárón keresztül méri ki a terméket,
 - b) az alkoholtermék, a bor, a sör, a pezsgő és a köztes alkoholtermék kizárólag kiszerelve, olyan forgalmi rendszámmal ellátott tehergépjárműből (autóbusz) értékesíthető, amely szilárd alapanyagú térelemekkel körülhatárolt, zárt légtérrel rendelkezik,
-- c) dohányterméket csak a fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény (a továbbiakban: Dohánytörvény) 11. § (3) bekezdése alapján, és csak a Dohánytörvény 4. § (2) bekezdésében meghatározott részvénytársaság, vagy e részvénytársaság által külön feljogosított nem jövedéki engedélyes kereskedő útján lehet értékesíteni.
+- c) dohányterméket csak a Dohánytörvény 11. § (3) bekezdése alapján, és csak a Dohánytörvény 4. § (2) bekezdésében meghatározott részvénytársaság, vagy e részvénytársaság által külön feljogosított nem jövedéki engedélyes kereskedő útján lehet értékesíteni.
 
 (7) Az (5) bekezdés szerinti bejelentésben meg kell adni a mozgóboltként üzemelő közúti gépjármű típusát, forgalmi rendszámát, az ellátott települések, értékesítési megállóhelyek megnevezését és helyét, azok megközelítésének útvonalát, a településenként, megállóhelyenként előre meghatározott nyitvatartási időt, valamint a jövedéki termék raktározására használt épület, épületrész címét (helyrajzi számát).
 
 110. § (1) A nem jövedéki engedélyes kereskedő dohánygyártmány beszerzésekor a Dohánytörvény szerinti dohánytermék-kiskereskedelmi engedélyét vagy a dohánytermékek kiskereskedelmére vonatkozó jogosultságát igazoló okiratot (kijelölési okirat), egyéb jövedéki termék beszerzésekor – ideértve a Dohánytörvény hatálya alá nem tartozó területen létesített, dohánygyártmányt forgalmazó üzletek üzemeltetői által végzett dohánygyártmány beszerzését is – a működési engedélyét vagy a működési engedélyről szóló igazolást, illetve a Kertv. szerinti bejelentésről kapott igazolást vagy ezek másolatát az eladó kérésére köteles bemutatni.
 
-(2) A nem jövedéki engedélyes kereskedő jövedéki terméket csak adóraktárból, jövedéki engedéllyel rendelkező kereskedőtől és importálótól, felhasználói engedélyestől, továbbá – kizárólag a 103. § (3) bekezdés szerinti esetben – nem jövedéki engedélyes kereskedőtől szerezhet be. A nem jövedéki engedélyes kereskedő beszerzései esetén alkalmazni kell – értelemszerűen – a 105. § (2)–(4) bekezdésének rendelkezéseit is.
+(2) A nem jövedéki engedélyes kereskedő jövedéki terméket csak adóraktárból, jövedéki engedéllyel rendelkező kereskedőtől és importálótól, felhasználói engedélyestől, továbbá – kizárólag a 103. § (3) bekezdése szerinti esetben – nem jövedéki engedélyes kereskedőtől szerezhet be. Ettől eltérően, a dohánygyártmányt értékesítő nem jövedéki engedélyes kereskedő dohánygyártmányt csak a Dohánytörvényben meghatározott személytől szerezhet be. A nem jövedéki engedélyes kereskedő beszerzései esetén alkalmazni kell – értelemszerűen – a 105. § (2)–(4) bekezdésének rendelkezéseit is.
 
 (3) A nem jövedéki engedélyes kereskedő köteles a beszerzett, az értékesített és a készleten lévő jövedéki termék eredetét, származását hitelt érdemlően igazolni.
 
@@ -2918,6 +2920,8 @@ meghaladó mennyisége minősül.
 110/B. § (1) Cigarettapapír-lapot, cigarettapapír-hüvelyt, illetve dohánylevél-töltőt kizárólag a Dohánytörvény 11. §-ában meghatározott elárusító helyen lehet Magyarországon forgalmazni.
 
 (2) Az e §-ban foglalt rendelkezések teljesítése, annak ellenőrzése és felügyelete, továbbá az ezzel kapcsolatos hatósági eljárás jövedéki ügynek minősül.
+
+110/C. § A dohányárut a szabadforgalomból a dohány-kiskereskedelmi ellátó raktárába is be lehet szállítani úgy, hogy a dohányáru értékesítése – és a kapcsolódó számla kiállítása – a Dohánytörvényben meghatározottak szerint történik. E törvény rendelkezéseit dohányáru értékesítése kapcsán a Dohánytörvényben meghatározott különös rendelkezésekre figyelemmel kell megfelelően alkalmazni. E törvény alkalmazása során a dohány-kiskereskedelmi ellátóra a jövedéki engedélyes kereskedőre vonatkozó szabályokat kell – a Dohánytörvényben, illetve az e törvényben meghatározott különös rendelkezésekre figyelemmel – megfelelően alkalmazni.
 
 ## NEGYEDIK RÉSZ
 

@@ -544,16 +544,16 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 
 ### A támogatás engedélyezésére és igénybevételére vonatkozó eltérő szabályok
 
-63. § (1) A személyes költségmentesség és a pártfogó ügyvédi képviselet (e §-ban a továbbiakban együtt: támogatás) engedélyezésére, igénybevételére és a támogatás folyósítására a VI. Fejezetben foglalt szabályokat az e §-ban foglalt eltérésekkel kell alkalmazni.
+63. § (1) A személyes költségmentesség és a pártfogó ügyvédi képviselet (e §-ban a továbbiakban együtt: támogatás) engedélyezésére, igénybevételére és a támogatás folyósítására a VI. Fejezetben foglalt szabályokat az e §-ban és a 63/A. §-ban foglalt eltérésekkel kell alkalmazni.
 
-(2) A támogatás iránti kérelmet a büntetőeljárás bírósági szakaszában – ha a büntetőeljárásról szóló törvény másként nem rendelkezik – legkésőbb a bíróság ügydöntő határozata meghozatalának céljából tartott tanácsüléséig lehet előterjeszteni a jogi segítségnyújtó szolgálathoz. A támogatás hatálya
+(2) A támogatás iránti kérelmet a büntetőeljárásban – ha a büntetőeljárásról szóló törvény másként nem rendelkezik – legkésőbb a bíróság ügydöntő határozata meghozatalának céljából tartott tanácsüléséig lehet előterjeszteni a jogi segítségnyújtó szolgálathoz. A támogatás hatálya
 
-- a) az elsőfokú, másodfokú és harmadfokú bírósági eljárásban a kérelem előterjesztésétől a per jogerős befejezéséig,
+- a) a támogatás iránti kérelem előterjesztésétől a büntetőeljárás megszüntetéséig, a vádemelés részbeni mellőzéséig vagy az eljárás jogerős befejezéséig,
 - b) a rendkívüli jogorvoslati eljárásokban és a különleges eljárásokban a kérelem előterjesztésétől az eljárás jogerős befejezéséig
 
 tart.
 
-(3) A kérelemben a félnek meg kell jelölnie
+(3) A támogatás iránti kérelemben a félnek meg kell jelölnie
 
 - a) a kért támogatást (pártfogó ügyvédi képviselet, személyes költségmentesség),
 - b) a büntetőeljárást lefolytató hatóságot és az ügyszámot.
@@ -562,11 +562,31 @@ tart.
 
 (5) A támogatást engedélyező határozatnak tartalmaznia kell a következőket is:
 
-- a) a büntetőeljárásra vonatkozó adatokat (büntetőeljárást lefolytató hatóság, büntetőügy száma, vádlott neve, bűncselekmény);
+- a) a büntetőeljárásra vonatkozó adatokat (büntetőeljárást lefolytató hatóság, büntetőügy száma, terhelt neve, bűncselekmény);
 - b) a támogatás formáját (pártfogó ügyvédi képviselet, pótmagánvádló személyes költségmentessége);
 - c) a támogatás hatályát.
 
-(6) A pártfogó ügyvéd díjának megfizetésére kötelezés és a díj kifizetése tekintetében a 62. §-ban foglaltak megfelelő alkalmazásával kell eljárni.
+(6) A fél adatváltozás-bejelentési kötelezettsége a büntetőeljárás megszüntetéséig, a vádemelés részbeni mellőzéséig vagy az eljárás jogerős befejezéséig áll fenn, ezt követően a támogatás visszatérítésére köteles fél a lakóhelyében, tartózkodási helyében, szálláshelyében és munkavégzésének helyében bekövetkezett változást köteles öt napon belül bejelenteni a visszatérítési kötelezettségének fennállásáig.
+
+(7) A jogi segítségnyújtó szolgálat a támogatás jogerős megvonásáról értesíti a büntetőeljárást lefolytató hatóságot és a pártfogó ügyvédet.
+
+(8) A támogatás nyilvántartása a következő adatokat is tartalmazza:
+
+- a) a büntetőeljárást lefolytató hatóság megnevezése, a büntetőeljárás ügyszáma, a felek neve és a bűncselekmény, amely miatt a büntetőeljárás folyik,
+- b) a fél helyett előlegezett pártfogó ügyvédi díj, illetve pártfogó ügyvédi díj eljárási előlegének összege,
+- c) a visszatérítésre köteles terhelt adatai (név, anyja neve, születési időpont, lakóhely; szervezet esetében elnevezés, székhely, nyilvántartást vezető szerv, nyilvántartási szám).
+
+63/A. § (1) A támogatás engedélyezésének ügyében eljárt jogi segítségnyújtó szolgálat a pártfogó ügyvéd kérelmére, ha annak jogszabályban foglalt feltételei fennállnak, megállapítja a pártfogó ügyvéd részére fizetendő pártfogó ügyvédi díj eljárási előlegének összegét.
+
+(2) A pártfogó ügyvéd a pártfogó ügyvédi díj eljárási előlegének megállapítása iránti kérelmét a vádemelést követő 60 napon belül terjesztheti elő, ezt követően pedig akkor, ha igazolja, hogy a vádemelésről szóló értesítést 60 napon belül vette kézhez. Ha a büntetőeljárásban a vádemelésig a sértett képviseletét több pártfogó ügyvéd látta el, a korábban eljárt pártfogó ügyvéd a jogi segítségnyújtó szolgálat felhívására a pártfogó ügyvédi díja eljárási előlegének megállapítására irányuló kérelmét a felhívás kézhezvételétől számított 30 napos jogvesztő határidővel terjesztheti elő.
+
+(3) A pártfogó ügyvédi díj eljárási előlegének megállapítására irányuló eljárásról a támogatott felet és a terheltet értesíteni nem kell.
+
+(4) A pártfogó ügyvédi díj eljárási előlegéről rendelkező határozat jogerőre emelkedését követően a jogi segítségnyújtó szolgálat intézkedik a pártfogó ügyvédi díj eljárási előlegének kifizetése iránt; az eljárási előleg kifizetése a célelőirányzat terhére történik.
+
+(5) A pártfogó ügyvéd a díjának megállapítása iránti kérelmét a büntetőeljárás megszüntetését, a vádemelés részbeni mellőzését vagy az eljárás jogerős befejezését követő 6 hónapon belül terjesztheti elő, ezt követően pedig akkor, ha igazolja, hogy a pártfogó ügyvédi díj viseléséről szóló határozatot 6 hónapon belül vette kézhez. Ha a perben a fél képviseletét több pártfogó ügyvéd látta el, a korábban eljárt pártfogó ügyvéd a jogi segítségnyújtó szolgálat felhívására díjának megállapítására irányuló kérelmét a felhívás kézhezvételétől számított 30 napos jogvesztő határidővel terjesztheti elő.
+
+(6) A jogi segítségnyújtó szolgálat a pártfogó ügyvédi díj visszatérítésére kötelező döntésében a pártfogó ügyvédi díj eljárási előlegének visszatérítéséről is rendelkezik a díj visszafizetésére kötelezett terhelt vagy támogatott fél terhére.
 
 ### VIII. Fejezet — A JOGI SEGÍTŐ
 
@@ -761,6 +781,7 @@ tart.
 
 - a) a Tanács 2003/109/EK tanácsi irányelve (2003. november 25.) a harmadik országok huzamos tartózkodási engedéllyel rendelkező állampolgárainak jogállásáról, 12. cikk (5) bekezdése;
 - b) az Európai Parlament és a Tanács 2004/38/EK irányelve (2004. április 29.) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről, 24. cikk;
-- c) a harmadik országok illegálisan tartózkodó állampolgárainak visszatérésével kapcsolatban a tagállamokban használt közös normákról és eljárásokról szóló, 2008. december 16-i 2008/115/EK európai parlamenti és tanácsi irányelv 13. cikk (3) és (4) bekezdése.
+- c) a harmadik országok illegálisan tartózkodó állampolgárainak visszatérésével kapcsolatban a tagállamokban használt közös normákról és eljárásokról szóló, 2008. december 16-i 2008/115/EK európai parlamenti és tanácsi irányelv 13. cikk (3) és (4) bekezdése;
+- d) a bűncselekmények áldozatainak jogaira, támogatására és védelmére vonatkozó minimumszabályok megállapításáról és a 2001/220/IB tanácsi kerethatározat felváltásáról szóló, 2012. október 25-i 2012/29/EU európai parlamenti és tanácsi irányelv.
 
 90. § E törvény 5. § (2) bekezdés g) pontja a tartással kapcsolatos ügyekben a joghatóságról, az alkalmazandó jogról, a határozatok elismeréséről és végrehajtásáról, valamint az e területen folytatott együttműködésről szóló, 2008. december 18-ai 4/2009/EK tanácsi rendelet 46. cikkének végrehajtásához szükséges rendelkezést állapít meg.
