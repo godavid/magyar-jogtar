@@ -994,7 +994,7 @@ esetében.
 - c) az 54. § (2) bekezdésében említett kérelem, ha azt a terhelt, a törvényes képviselője vagy a védő nyújtotta be;
 - d) a személyes költségmentesség engedélyezése iránti eljárás;
 - e) a terhelt, a védő és a fiatalkorú terhelt törvényes képviselője részére a büntetőeljárásról szóló 1998. évi XIX. törvény 70/B. §-a (2) bekezdésében, (5) bekezdésének a) pontjában, (6) bekezdésében, valamint (10) bekezdésében meghatározott iratokból a másolat egyszeri kiadása;
-- f) a feljelentő részére a feljelentésről készített jegyzőkönyv másolata.
+- f) a feljelentő részére a szóban tett feljelentésről készített jegyzőkönyv másolata, illetve az írásban tett feljelentés megtételét igazoló irat másolata.
 
 ### Mérsékelt illeték
 
@@ -1604,6 +1604,8 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 (3) Az 57. § (1) bekezdés u) pontja a polgári és kereskedelmi ügyekben a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról szóló, 2012. december 12-i 1215/2012/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezést állapít meg.
 
 (4) Az 57. § (1) bekezdés z) pontja a polgári ügyekben hozott védelmi intézkedések kölcsönös elismeréséről szóló, 2013. június 12-i 606/2013/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+(5) Az 57. § (2) bekezdés f) pontja a bűncselekmények áldozatainak jogaira, támogatására és védelmére vonatkozó minimumszabályok megállapításáról és a 2001/220/IB tanácsi kerethatározat felváltásáról szóló, 2012. október 25-i 2012/29/EU európai parlamenti és tanácsi irányelv 5. cikk (3) bekezdésének végrehajtásához szükséges rendelkezést állapít meg.
 
 ### Melléklet
 
