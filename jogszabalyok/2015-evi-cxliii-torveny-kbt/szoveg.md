@@ -3237,44 +3237,11 @@ rendelkezik.
 
 ### Módosuló rendelkezések
 
-199. § (1) A polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) 326. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) Ha az első fokon eljárt közigazgatási szerv illetékessége az egész országra kiterjed – a (12)–(14) bekezdésben foglalt kivétellel – a perre a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.”
-
-(2) A Pp. 326. §-a a következő (14) bekezdéssel egészül ki:
-
-„(14) A közbeszerzésekről szóló törvény alapján indult közigazgatási perekben kizárólagosan illetékes
-
-a) a Kecskeméti Közigazgatási és Munkaügyi Bíróság, ha az ajánlatkérő székhelye Bács-Kiskun megye, Békés megye, Borsod-Abaúj-Zemplén megye, Csongrád megye, Hajdú-Bihar megye, Heves megye, Jász-Nagykun-Szolnok megye, Nógrád megye vagy Szabolcs-Szatmár-Bereg megye területén; illetve
-
-b) a Székesfehérvári Közigazgatási és Munkaügyi Bíróság, ha az ajánlatkérő székhelye Budapesten, valamint Baranya megye, Fejér megye, Győr-Moson-Sopron megye, Komárom-Esztergom megye, Pest megye, Somogy megye, Tolna megye, Vas megye, Veszprém megye vagy Zala megye területén
-
-található.”
-
-(3) A Pp. 327. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A keresetet az ellen a közigazgatási szerv ellen kell indítani, amelyik a felülvizsgálni kért határozatot hozta.”
-
-(4) A Pp. 332. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Ha a közigazgatási eljárásban ellenérdekű ügyfél szerepelt, a bíróság értesíti őt a beavatkozás lehetőségéről.”
-
-(5) A Pp. a következő 397/G. §-sal egészül ki:
-
-„397/G. § E törvénynek a közbeszerzésekről szóló 2015. évi CXLIII. törvénnyel megállapított 326. § (7) bekezdését, 326. § (14) bekezdését a hatálybalépését követően, a közbeszerzésekről szóló törvény alapján indult közigazgatási perekre kell alkalmazni. E törvénynek a közbeszerzésekről szóló 2015. évi CXLIII. törvénnyel hatályon kívül helyezett 326. § (12) bekezdés r) pontját a hatályon kívül helyezését megelőzően, a közbeszerzésekről szóló törvény alapján indult közigazgatási perekre alkalmazni kell.”
-
-(6) A koncesszióról szóló 1991. évi XVI. törvény 3/A. §-a helyébe a következő rendelkezés lép:
-
-„3/A. § Ha a koncessziós szerződés egyúttal a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) hatálya alá is tartozik, e törvényt a Kbt.-ben foglalt eltérésekkel kell alkalmazni. Koncessziós pályázat kiírása helyett – a Kbt.-ben meghatározottak szerint – közbeszerzési vagy koncessziós beszerzési eljárást kell lefolytatni. Ebben az esetben a koncessziós szerződés megkötésére nem alkalmazandó a 4. §, a 8. § (1) bekezdése, és a 9. §. A koncessziós pályázatra e törvényben előírt további rendelkezések a közbeszerzési vagy koncessziós beszerzési eljárásban megfelelően alkalmazandóak azzal, hogy az 5. § (1) bekezdésében és a 6. §-ban a pályázatok elbírálása alatt az eljárás eredményéről szóló döntés meghozatalát kell érteni. A 9/A. §-ban foglaltakat a Kbt. szerint az ajánlatokról készített összegezésnek kell tartalmaznia, amelyhez az ajánlatkérő utólag csatolja a nyertes ajánlattevő részéről a 9/A. § (1) bekezdés f) pontja szerinti nyilatkozatot.”
+#### 199. §
 
 ### Hatályukat vesztő rendelkezések
 
-200. § (1) Hatályát veszti a polgári perrendtartásról szóló 1952. évi III. törvény
-
-- a) 326. § (12) bekezdés r) pontja,
-- b) 335/B. § (2) bekezdése.
-
-(2) Hatályát veszti a közbeszerzésekről szóló 2011. évi CVIII. törvény.
+#### 200. §
 
 ### Az Európai Unió jogának való megfelelés
 
@@ -3302,7 +3269,7 @@ Amennyiben a CPV és a NACE értelmezésében különbség áll fenn, a CPV-nóm
 
 5K20155_0
 
-| NACE Rev. 12 |  |  |  |  | CPV kód |
+| NACE Rev. 12 |  |  |  |  | CPVkód |
 | --- | --- | --- | --- | --- | --- |
 | F. ÁGAZAT |  |  | ÉPÍTŐIPAR |  |
 | Osztály | Csoport | Alcsoport | Tárgy | Megjegyzések |
@@ -3323,7 +3290,7 @@ Amennyiben a CPV és a NACE értelmezésében különbség áll fenn, a CPV-nóm
 |  |  | 45,34 | Egyéb épületgépészeti szerelés | Ez az alcsoport az alábbiakat foglalja magában: – utak, vasutak, repülőterek és kikötők világítási és jelzőrendszerének szerelése, – máshová be nem sorolt szerelvények és berendezési tárgyak beszerelése épületekbe vagy egyéb építményekbe. | 45234115 45316000 45340000 |
 |  | 45,4 |  | Befejező építés |  | 45400000 |
 |  |  | 45,41 | Vakolás | Ez az alcsoport az alábbiakat foglalja magában: – külső és belső vakolat vagy stukkó alkalmazása épületekben vagy egyéb építményekben, beleértve az ehhez szükséges vakolattartó anyagokat. | 45410000 |
-|  |  | 45,42 | Épületasztalos- munka | Ez az alcsoport az alábbiakat foglalja magában: – fából vagy egyéb anyagból készült, nem saját gyártású ajtók, ablakok, ajtó- és ablakkeretek, beépített konyhák, lépcsők, üzletberendezések és hasonlók beszerelése, – belső befejező munkálatok, például mennyezetek, fából készült falburkolatok, mozgatható térelválasztók, stb. Ez az alcsoport nem tartalmazza az alábbiakat: – parketta és egyéb, fából készült padlóburkoló anyagok lefektetése, lásd 45.43. | 45420000 |
+|  |  | 45,42 | Épületasztalos-munka | Ez az alcsoport az alábbiakat foglalja magában: – fából vagy egyéb anyagból készült, nem saját gyártású ajtók, ablakok, ajtó- és ablakkeretek, beépített konyhák, lépcsők, üzletberendezések és hasonlók beszerelése, – belső befejező munkálatok, például mennyezetek, fából készült falburkolatok, mozgatható térelválasztók, stb. Ez az alcsoport nem tartalmazza az alábbiakat: – parketta és egyéb, fából készült padlóburkoló anyagok lefektetése, lásd 45.43. | 45420000 |
 |  |  | 45,43 | Padló- és falburkolás | Ez az alcsoport az alábbiakat foglalja magában: a következők lefektetése, burkolóanyagként való alkalmazása, felfüggesztése vagy rögzítése épületekben vagy egyéb építményekben: – kerámiából, betonból vagy csiszolt kőből készült fal-, illetve padlóburkoló lapok, – parketta és egyéb, fából készült padlóburkolat, – szőnyegek és linóleumból készült padlóburkoló anyagok, a gumit és a műanyagot is beleértve, – mozaik, márvány, gránit vagy pala padló- vagy falburkolatok, – tapéta. | 45430000 |
 |  |  | 45,44 | Festés és üvegezés | Ez az alcsoport az alábbiakat foglalja magában: – az épületek belső és külső festése, – mélyépítési szerkezetek festése, – üveg, tükör stb. szerelése. Ez az alcsoport nem tartalmazza az alábbiakat: – ablakok beillesztése, lásd 45.42. | 45440000 |
 |  |  | 45,45 | Egyéb befejező építés | Ez az alcsoport az alábbiakat foglalja magában: – magán-úszómedencék építése, – tisztítás gőzsugárral, homoksugár-fúvatás és hasonló kültéri munkák, – egyéb, máshová be nem sorolt befejező építési munkák. Ez az alcsoport nem tartalmazza az alábbiakat: – épületek és egyéb építmények belső tisztítása, lásd 74.70. | 45212212 és DA04 45450000 |
