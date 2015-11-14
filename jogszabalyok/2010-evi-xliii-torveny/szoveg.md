@@ -315,13 +315,13 @@ jogosult.
 
 (2) A miniszterelnök az (1) bekezdés b) pontja szerinti rezidenciát köteles igénybe venni.
 
-(3) Ha az (1) bekezdés e) pontja szerinti külföldre utazás menetrendszerű repülőgéppel vagy vonattal történik, a miniszterelnök első osztályt vagy ennek megfelelő utazási komfortfokozatot vehet igénybe. Az ezen juttatások és szolgáltatások biztosításával kapcsolatos feladatokat a kormányzati tevékenység összehangolásáért felelős miniszter látja el.
+(3) Ha az (1) bekezdés e) pontja szerinti külföldre utazás menetrendszerű repülőgéppel vagy vonattal történik, a miniszterelnök első osztályt vagy ennek megfelelő utazási komfortfokozatot vehet igénybe. Az ezen juttatások és szolgáltatások biztosításával kapcsolatos feladatokat az általános politikai koordinációért felelős miniszter látja el.
 
 (4)
 
 25/C. § A miniszterelnök a részére járó juttatások és szolgáltatások igénybevételéhez szükséges adatokat, valamint az adatok megváltozását haladéktalanul közli az érintett szervvel.
 
-25/D. § (1) A miniszterelnök közcélú felajánlásai, adományai költségeinek fedezetéül a központi költségvetésről szóló törvényben a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium költségvetési fejezetén belül külön előirányzat szolgál, amely felett a miniszterelnök rendelkezik.
+25/D. § (1) A miniszterelnök közcélú felajánlásai, adományai költségeinek fedezetéül a központi költségvetésről szóló törvényben a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium és az általános politikai koordinációért felelős miniszter által vezetett minisztérium költségvetési fejezetén belül külön előirányzat szolgálhat, amely felett a miniszterelnök rendelkezik.
 
 (2) Az (1) bekezdés szerinti előirányzatból pályázat útján vagy pályáztatás nélkül, egyedi döntés alapján nyújtható közcélú felajánlás, adomány.
 
@@ -329,7 +329,7 @@ jogosult.
 
 (4) Az (1) bekezdés szerinti előirányzat a miniszterelnök előzetes írásos kötelezettségvállalása alapján, a kedvezményezettel kötött külön szerződés nélkül felhasználható.
 
-(5) A kormányzati tevékenység összehangolásáért felelős miniszter az általa vezetett minisztérium honlapján a miniszterelnök (4) bekezdés szerinti kötelezettségvállalásától számított tizenöt napon belül közzéteszi az (1) bekezdés szerinti előirányzatból nyújtott közcélú felajánlás, adomány kedvezményezettjének nevét, a közcélú felajánlás, adomány célját és összegét.
+(5) Az (1) bekezdés szerinti miniszter az általa vezetett minisztérium honlapján a miniszterelnök (4) bekezdés szerinti kötelezettségvállalásától számított tizenöt napon belül közzéteszi az (1) bekezdés szerinti előirányzatból nyújtott közcélú felajánlás, adomány kedvezményezettjének nevét, a közcélú felajánlás, adomány célját és összegét.
 
 ### Az ügyvezető miniszterelnök
 
@@ -418,13 +418,13 @@ jogosult.
 
 (5) A miniszterelnöki biztos tevékenységét a miniszterelnök irányítja.
 
-(6) A miniszterelnöki biztost tevékenységének ellátásában a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztériumban működő titkárság segíti, amelyre az államtitkár titkárságának szabályai az irányadóak.
+(6) A miniszterelnöki biztost tevékenységének ellátásában – a miniszterelnök normatív utasításában foglaltak szerint – a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztériumban vagy az általános politikai koordinációért felelős miniszter által vezetett minisztériumban működő titkárság segíti. A miniszterelnöki biztost tevékenységének ellátásában segítő titkárságra az államtitkár titkárságának szabályai az irányadóak.
 
 33. § (1) Ha a kormánybiztost vagy a miniszterelnöki biztost megbízatási ideje alatt állami vezetőnek is kinevezik, juttatásaira az állami vezetőre vonatkozó szabályok alkalmazandók azzal, hogy kormánybiztosi vagy miniszterelnöki biztosi megbízatására tekintettel akkor kaphat díjazást, ha e tevékenysége állami vezetői feladatkörével nem függ össze.
 
 (2) E törvényben nem szereplő megbízatás kormányzati feladatok teljesítésére nem adható.
 
-(3) A (2) bekezdésben meghatározott tilalom nem akadálya annak, hogy a miniszterelnök diplomáciai, személyes tanácsadói vagy egyéb eseti jellegű feladat miniszterelnöki megbízottként történő ellátására megbízást adjon. A megbízás díjazásaként a miniszterelnöki megbízott részére legfeljebb az államtitkári illetménynek megfelelő összegű díjazás, valamint kormányrendeletben meghatározott juttatás köthető ki.
+(3) A (2) bekezdésben meghatározott tilalom nem akadálya annak, hogy a miniszterelnök diplomáciai, személyes tanácsadói vagy egyéb eseti jellegű feladat miniszterelnöki megbízottként történő ellátására megbízást adjon. A megbízás díjazásaként a miniszterelnöki megbízott részére legfeljebb az államtitkári illetménynek megfelelő összegű díjazás, valamint kormányrendeletben meghatározott juttatás köthető ki. A miniszterelnök a miniszterelnöki megbízottat feljogosíthatja a miniszterelnöki főtanácsadói megnevezés használatára.
 
 ### III. Fejezet — A MINISZTER ÉS MUNKASZERVE
 
