@@ -10,8 +10,8 @@ Az Országgyűlés az Alaptörvény 36. cikk (1) bekezdése alapján Magyarorsz�
 
 1. § Az Országgyűlés az államháztartás központi alrendszerének (a továbbiakban: központi alrendszer) 2015. évi
 
-- a) bevételi főösszegét 16 359 724,5 millió forintban,
-- b) kiadási főösszegét 17 252 128,6 millió forintban,
+- a) bevételi főösszegét 16 445 724,5 millió forintban,
+- b) kiadási főösszegét 17 338 128,6 millió forintban,
 - c) hiányát 892 404,1 millió forintban
 
 állapítja meg.
@@ -696,6 +696,8 @@ alakulását, továbbá javaslatot tesz a (3) bekezdés szerinti kiadási előir
 
 (3) Az állam legkésőbb 2015. június 30-ai hatállyal ellenérték nélkül átvállalja a Budapesti Közlekedési Zártkörűen Működő Részvénytársaság (a továbbiakban: BKV Zrt.) legfeljebb 52 290,0 millió forint tőkeösszegű, a Gst. 3. § (1) bekezdés a) pontja szerinti adósságelemeinek az átvállalás időpontjában fennálló összegét és azok járulékait. Az átvállalás nem érinti az átvállalásra kerülő adósságelemek alapján fennálló, fizetési jogokon és kötelezettségeken kívüli egyéb jogokat és kötelezettségeket. A BKV Zrt.-t e tartozásátvállalás tekintetében nem terheli illetékkötelezettség. Az államot az átvállalás során az államháztartásért felelős miniszter képviseli. Az államháztartásért felelős miniszter az Államadósság Kezelő Központ Zrt. útján az e bekezdés szerinti adósság átvállalásáról legkésőbb 2015. június 30-áig megállapodást köt az átvállalással érintett BKV Zrt.-vel és annak hitelezőivel.
 
+(4) Az állam legkésőbb 2015. december 15-ei hatállyal ellenérték nélkül átvállalja a Médiaszolgáltatás-támogató és Vagyonkezelő Alap (a továbbiakban: MTVA) legfeljebb 47 149,1 millió forint tőkeösszegű, a Gst. 3. § (1) bekezdés a) pontja szerinti adósságelemeinek az átvállalás időpontjában fennálló összegét és azok járulékait. Az átvállalás nem érinti az átvállalásra kerülő adósságelemek alapján fennálló, fizetési jogokon és kötelezettségeken kívüli egyéb jogokat és kötelezettségeket. Az államot az átvállalás során az államháztartásért felelős miniszter képviseli. Az államháztartásért felelős miniszter az Államadósság Kezelő Központ Zrt. útján az e bekezdés szerinti adósság átvállalásáról legkésőbb 2015. december 15-éig megállapodást köt az átvállalással érintett MTVA-val és annak hitelezőivel.
+
 75. § Az Országgyűlés elengedi a Budapest Főváros Önkormányzatának az állammal szemben fennálló, a Magyar Köztársaság 2013. évi költségvetéséről szóló 2012. évi CCIV. törvény 1. melléklete IX. Helyi önkormányzatok támogatásai fejezet, 29. Pannon Park projekt előkészítése címen kapott támogatás jogtalan igénybevételéhez kapcsolódó igénybevételi és késedelmi kamatfizetési kötelezettségét.
 
 ### VIII. Fejezet — ZÁRÓ RENDELKEZÉSEK
@@ -726,7 +728,7 @@ alakulását, továbbá javaslatot tesz a (3) bekezdés szerinti kiadási előir
 
 ### 1. melléklet a 2014. évi C. törvényhez
 
-5k20311M.pdf
+5k21604M.pdf
 
 ### 2. melléklet a 2014. évi C. törvényhez
 
@@ -3050,6 +3052,7 @@ A központi alrendszer azon előirányzatai, melyek teljesülése módosítás n
 | 104 |  |  |  | NATO és EU felajánlás alapján kialakításra kerülő készenléti alegységek alkalmazásának kiadásai (NRF, Battle Group és DCM) (8. cím, 2. alcím, 1. jogcímcsoport) |
 | 105 |  |  | XIV. BELÜGYMINISZTÉRIUM fejezetben |  |
 | 106 |  |  |  | Víz-, környezeti és természeti katasztrófa kárelhárítás (20. cím, 1. alcím, 50. jogcímcsoport) |
+| 106a |  |  |  | Tömeges bevándorlás kezeléséhez kapcsolódó kiadások (20. cím, 21. alcím) |
 | 107 |  |  | XVII. NEMZETI FEJLESZTÉSI MINISZTÉRIUM fejezetben |  |
 | 108 |  |  |  | Autópálya rendelkezésre állási díj (20. cím, 36. alcím, 1. jogcímcsoport) |
 | 109 |  |  |  | A vasúti pályahálózat működtetésének költségtérítése (21. cím, 1. alcím, 5. jogcímcsoport) |
