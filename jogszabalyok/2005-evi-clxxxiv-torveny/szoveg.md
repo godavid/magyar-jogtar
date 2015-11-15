@@ -8,7 +8,7 @@ Az Országgyűlés a légi-, a vasúti és a víziközlekedés biztonságának j
 
 ### A törvény hatálya
 
-1. § (1) A törvény hatálya a Magyarország területén, illetőleg légterében (belföldön) bekövetkezett közlekedési baleset és egyéb közlekedési esemény szakmai vizsgálatára terjed ki.
+1. § (1) A törvény hatálya a Magyarország területén, illetve légterében bekövetkezett közlekedési baleset és egyéb közlekedési esemény bejelentésére és vizsgálatára terjed ki.
 
 (2) Amennyiben nemzetközi szerződés eltérően nem rendelkezik, e törvény rendelkezéseit kell alkalmazni a Magyarország területén, légterén kívül (külföldön) magyar lajstromba vett légijárművel és úszólétesítménnyel, valamint magyar nyilvántartásba vett légijárművel és vasúti járművel bekövetkezett közlekedési baleset és egyéb közlekedési esemény vizsgálatára is.
 
@@ -17,18 +17,25 @@ Az Országgyűlés a légi-, a vasúti és a víziközlekedés biztonságának j
 - a)
 - b) a kizárólag a honvédség, a rendvédelmi szervek, valamint a vámhatóság úszólétesítményeivel való közlekedés során bekövetkezett közlekedési balesetek és egyéb közlekedési események szakmai vizsgálatára.
 
-1/A. § (1) Az e törvény 3. § (4) bekezdésében, 7. § (3) és (4) bekezdésében, 14. §-ában, valamint 16. § (7) bekezdésében foglaltakat a kizárólag állami légijárművel bekövetkezett légiközlekedési balesettel, repülőeseménnyel és légiközlekedési rendellenességgel összefüggésben nem kell alkalmazni.
+1/A. § (1) Az e törvény 3. § (4) bekezdésében, 7. § (3) és (4) bekezdésében, 14. §-ában, valamint 16. § (7) bekezdésében foglaltakat a kizárólag állami légijárművel bekövetkezett légiközlekedési balesettel, repülőeseménnyel összefüggésben nem kell alkalmazni.
 
-(2) A polgári légiközlekedési balesetek és repülőesemények vizsgálatáról és megelőzéséről és a 94/56/EK irányelv hatályon kívül helyezéséről szóló, 2010. október 20-i 996/2010/EU európai parlamenti és tanácsi rendelet (a továbbiakban: EU-rendelet) 1. cikkét, 2. cikkének 1–9. és 11–17. pontját, 4. cikkét, 6. cikkét, 9. cikk (1) bekezdését, 11–14. cikkét, 15. cikkének (1) bekezdését, 16. cikkének (1)–(5) bekezdését, 17. cikkét, 18. cikkének (1)–(4) bekezdését és a Mellékletét a kizárólag állami légijárművel bekövetkezett légiközlekedési balesettel, súlyos repülőeseménnyel, repülőeseménnyel és légiközlekedési rendellenességgel összefüggésben megfelelően kell alkalmazni azzal, hogy az Európai Repülésbiztonsági Ügynökség (EASA) részére teljesítendő értesítési és tájékoztatási kötelezettséget nem kell teljesíteni.
+(2) A polgári légiközlekedési balesetek és repülőesemények vizsgálatáról és megelőzéséről és a 94/56/EK irányelv hatályon kívül helyezéséről szóló, 2010. október 20-i 996/2010/EU európai parlamenti és tanácsi rendelet (a továbbiakban: EU-rendelet) 1. cikkét, 2. cikkének 1–9. és 11–17. pontját, 4. cikkét, 6. cikkét, 9. cikk (1) bekezdését, 11–14. cikkét, 15. cikkének (1) bekezdését, 16. cikkének (1)–(5) bekezdését, 17. cikkét, 18. cikkének (1)–(4) bekezdését és a Mellékletét a kizárólag állami légijárművel bekövetkezett légiközlekedési balesettel, súlyos repülőeseménnyel, repülőeseménnyel összefüggésben megfelelően kell alkalmazni azzal, hogy az Európai Repülésbiztonsági Ügynökség (EASA) részére teljesítendő értesítési és tájékoztatási kötelezettséget nem kell teljesíteni.
 
-(3) Amennyiben a közlekedésbiztonsági szerv szakmai vizsgálatot indít, repülőesemény és a légiközlekedési rendellenesség vizsgálatára az EU rendelet rendelkezéseit kell megfelelően alkalmazni.
+(3) Az EU-rendelet 1. cikkét, 2. cikkét, 4. cikkét, 6. cikkét, 9. cikk (1) bekezdését, 11–14. cikkét, 15. cikk (1) bekezdését, 16. cikk (1)–(7) bekezdését és 16. cikk (8) bekezdés b) pontját, 17. cikkét, 18. cikk (1)–(4) bekezdését és a Mellékletét a polgári repülés területén közös szabályokról és az Európai Repülésbiztonsági Ügynökség létrehozásáról, valamint a 91/670/EK tanácsi rendelet, 1592/2002/EK rendelet és a 2004/36/EK irányelv hatályon kívül helyezéséről szóló, 2008. február 20-i 216/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 216/2008/EK európai parlamenti és tanácsi rendelet)
+
+- a) II. mellékletében meghatározottaktól eltérő légijárművel bekövetkezett repülőeseménnyel,
+- b) II. mellékletében szereplő légijárművel bekövetkezett légiközlekedési balesettel, súlyos repülőeseménnyel, repülőeseménnyel
+
+összefüggésben megfelelően kell alkalmazni.
+
+(4) A polgári légi közlekedési események jelentéséről, elemzéséről és nyomon követéséről, valamint a 996/2010/EU európai parlamenti és tanácsi rendelet módosításáról és a 2003/42/EK európai parlamenti és tanácsi irányelv, valamint az 1321/2007/EK bizottsági rendelet és az 1330/2007/EK bizottsági rendelet hatályon kívül helyezéséről szóló, 2014. április 3-i 376/2014/EU rendelet (a továbbiakban: 376/2014/EU európai parlamenti és tanácsi rendelet) 2. cikk 1–7, 9, 12, pontját, 4. cikk (1) bekezdését, (5) bekezdését, 15–16. cikkét és I. mellékletét a 216/2008/EK európai parlamenti és tanácsi rendelet II. mellékletében szereplő légijárművel, valamint állami légijárművel bekövetkezett eseményekkel összefüggésben megfelelően kell alkalmazni.
 
 ### Értelmező rendelkezések
 
 2. § E törvény alkalmazásában:
 
 - a) közlekedési baleset: a légiközlekedési baleset, a súlyos vasúti baleset és a nagyon súlyos víziközlekedési baleset;
-- b) egyéb közlekedési esemény: a súlyos repülőesemény, a repülőesemény, a légiközlekedési rendellenesség, a vasúti baleset, a váratlan vasúti esemény, a súlyos víziközlekedési baleset és a víziközlekedési esemény;
+- b) egyéb közlekedési esemény: a súlyos repülőesemény, a repülőesemény, a vasúti baleset, a váratlan vasúti esemény, a víziközlekedési baleset és a víziközlekedési esemény;
 - c) halálos baleset: olyan baleset, amelynek következtében a balesetet szenvedő személy halálos sérülést szenved;
 - d) halálos sérülés: olyan súlyos sérülés, amelyet valaki baleset során szenved el, és amelynek következtében a balesetet követő 30 napon belül elhalálozik;
 - e) súlyos sérülés: olyan sérülés, amelyet valaki légiközlekedési baleset kivételével baleset során szenved el, és amely
@@ -42,7 +49,7 @@ Az Országgyűlés a légi-, a vasúti és a víziközlekedés biztonságának j
 - f) légiközlekedési baleset: az EU-rendelet 2. cikkének 1. pontjában megfogalmazott baleset;
 - g) súlyos repülőesemény: az EU-rendelet 2. cikkének 16. pontjában megfogalmazott súlyos repülőesemény;
 - h) repülőesemény: az EU-rendelet 2. cikkének 7. pontjában megfogalmazott repülőesemény;
-- i) légiközlekedési rendellenesség: olyan – nem a repülés tartama alatt bekövetkezett – működési zavar, hiba, hiányosság vagy más szabálytalan körülmény, amely a repülésbiztonságot befolyásolhatja vagy befolyásolhatta, de amely nem okozott balesetet vagy súlyos repülőeseményt;
+- i)
 - j) súlyos vasúti baleset: vonatok összeütközése vagy kisiklása, amely legalább egy halálos áldozattal, öt vagy több személy súlyos sérülésével, illetve a járművek, az infrastruktúra vagy a környezet jelentős (a helyszínen megállapíthatóan legalább 500 millió forintos) károsodásával jár, valamint más vasúti baleset, amelynek nyilvánvaló hatása van a vasútbiztonsági szabályozásra vagy a biztonság irányítására;
 - k) vasúti baleset: a vasutat érintő, a vasúti közlekedés során bekövetkező, káros következményekkel járó nem szándékos esemény vagy események láncolata, amelynek kategóriái:
   - ka) ütközés,
@@ -52,15 +59,15 @@ Az Országgyűlés a légi-, a vasúti és a víziközlekedés biztonságának j
   - ke) tűzeset,
   - kf) egyéb vasúti baleset;
 - l) váratlan vasúti esemény: a súlyos vasúti baleseten és a vasúti baleseten kívül minden olyan esemény, amely a vonatok üzemeltetését és az üzemeltetés biztonságát károsan érinti;
-- m) víziközlekedési baleset: a víziközlekedési tevékenység folytatása során bekövetkezett olyan esemény, amely során
-  - ma) halál vagy súlyos személyi sérülés történik, és ez kapcsolatban vagy okozati összefüggésben áll az úszólétesítmény működésével,
-  - mb) személy úszólétesítményről eltűnik, és ez kapcsolatban vagy okozati összefüggésben áll az úszólétesítmény működésével,
-  - mc) az úszólétesítmény ténylegesen vagy feltételezhetően eltűnik, vagy az úszólétesítményen tartózkodók az úszólétesítmény elhagyására kényszerülnek,
-  - md) az úszólétesítményben anyagi kár keletkezik,
-  - me) az úszólétesítmény megfeneklik, üzemképtelenné vagy ütközés részesévé válik,
-  - mf) olyan anyagi kár keletkezik, amely az úszólétesítmény működésével kapcsolatba vagy okozati összefüggésbe hozható, vagy
-  - mg) olyan környezetszennyezés keletkezik, amely az úszólétesítmény működésével kapcsolatba vagy okozati összefüggésbe hozható;
-- n) víziközlekedési esemény: víziközlekedési balesetnek nem minősülő, az úszólétesítmény működésével kapcsolatba vagy okozati összefüggésbe hozható, az úszólétesítményt vagy bármely személy életét veszélyeztető, továbbá az úszólétesítményt, a víziút műtárgyát, vagy a környezetet súlyos kár bekövetkezésével fenyegető esemény;
+- m) víziközlekedési baleset: nagyon súlyos víziközlekedési balesetnek nem minősülő, az úszólétesítmény működésével kapcsolatban lévő, olyan bekövetkezett – nem szándékos emberi magatartásra visszavezethető – esemény vagy eseménysorozat, amely során
+  - ma) halál vagy súlyos személyi sérülés történik,
+  - mb) személy úszólétesítményről eltűnik,
+  - mc) az úszólétesítmény ténylegesen vagy feltételezhetően eltűnik, az úszólétesítmény elsüllyed vagy az úszólétesítményen tartózkodó személyek az életük megóvása érdekében az úszólétesítmény elhagyására kényszerülnek,
+  - md) az úszólétesítményben olyan kár keletkezik, amely jelentős hatással van az úszólétesítmény fő szerkezeti elemeire, teljesítményére vagy működési jellemzőire, és a kár fő komponens vagy komponensek nagyjavítását vagy cseréjét teszi szükségessé vagy az úszólétesítmény megsemmisülésével jár,
+  - me) az úszólétesítmény hajóútban megfeneklik, üzemképtelenné vagy ütközés részesévé válik,
+  - mf) olyan kár keletkezik az úszólétesítményen kívüli víziközlekedési infrastruktúrában, amely súlyosan veszélyeztetheti a balesetben érintett úszólétesítmény vagy más úszólétesítmény biztonságát, vagy bármely személy életét, és amely a víziközlekedési infrastruktúra megsemmisülésével jár, vagy jelentős hatással van a víziközlekedési infrastruktúra fő szerkezeti elemeire, teljesítményére vagy működési jellemzőire, és a kár fő komponens vagy komponensek nagyjavítását vagy cseréjét teszi szükségessé, vagy
+  - mg) az úszólétesítményt vagy úszólétesítményeket ért kár következtében az érintett állam vagy államok, illetve a lajstromozó állam megítélése szerint jelentős környezeti kár, valamint Magyarország területén a természetben okozott károsodás mértékének megállapításáról, valamint a kármentesítés szabályairól szóló kormányrendelet szerinti természetben okozott károsodás keletkezik,
+- n) víziközlekedési esemény: víziközlekedési balesetnek nem minősülő, az úszólétesítmény működésével kapcsolatban lévő, olyan – nem szándékos emberi magatartásra visszavezethető – esemény vagy eseménysorozat, amely veszélyezteti vagy veszélyeztetheti az úszólétesítmény biztonságát vagy bármely személy életét, illetve a környezetet;
 - o) vizsgálóbizottság: a közlekedési baleset vagy egyéb közlekedési esemény vizsgálatára kijelölt bizottság vagy szakmai kivizsgáló;
 - p) repülés tartama:
   - pa) ejtőernyős ugrás, ballonnal, vagy lábról induló légijárművel történő repülés kivételével az az időtartam, amely akkor kezdődik, amikor az első személy a repülés szándékával a légijármű fedélzetére lép és akkor végződik, amikor a légijármű fedélzetét az utolsó ilyen személy elhagyta,
@@ -68,26 +75,31 @@ Az Országgyűlés a légi-, a vasúti és a víziközlekedés biztonságának j
   - pc) ballonnal történő repülés esetén a ballon gázzal vagy meleg levegővel történő feltöltésének megkezdésével kezdődik, és akkor végződik, amikor a földet érést követő megállás után az utolsó személy is elhagyta annak kosarát vagy gondoláját,
   - pd) lábról induló repülés esetén akkor kezdődik, amikor a légijármű vezetője a repülés szándékával a felfüggesztő rendszert magára csatolja és addig tart, amíg a légijármű vezetője a légijármű repülésre kész állapotát megszünteti,
   - pe) vezető nélküli repülésre alkalmas légijármű esetén az irányítórendszer repültetés szándékával történő üzembe helyezésétől annak a tervezett feladat teljesítését követő szándékos üzemen kívül helyezéséig;
-- q) biztonsági ajánlás: a közlekedésbiztonsági szerv által a szakmai vizsgálat során szerzett adatok alapján, a súlyos vasúti baleset, a vasúti baleset, a váratlan vasúti esemény, a nagyon súlyos víziközlekedési baleset, a súlyos víziközlekedési baleset, a víziközlekedési esemény (a továbbiakban együtt: vasúti és víziközlekedési balesetek és események) megelőzése céljából tett javaslat, biztonsági ajánlás, továbbá az Európai Bizottság által kiadott biztonsági ajánlás és az EU-rendelet szerinti biztonsági ajánlás is;
+- q) biztonsági ajánlás: a közlekedésbiztonsági szerv által a szakmai vizsgálat során szerzett adatok alapján, a súlyos vasúti baleset, a vasúti baleset, a váratlan vasúti esemény, a nagyon súlyos víziközlekedési baleset, a víziközlekedési baleset, a víziközlekedési esemény (a továbbiakban együtt: vasúti és víziközlekedési balesetek és események) megelőzése céljából tett javaslat, biztonsági ajánlás, továbbá az Európai Bizottság által kiadott biztonsági ajánlás és az EU-rendelet szerinti biztonsági ajánlás is;
 - r) üzemben tartó: a jármű, illetve az infrastruktúra működését szervező, fenntartó természetes vagy jogi személy, honvédelmi légijármű esetében a légijármű üzemeltetéséért felelős szervezet közvetlen szolgálati elöljárója. E törvény alkalmazásában az üzemben tartóra vonatkozó rendelkezéseket kell alkalmazni azon személy tekintetében is, akinek tevékenysége üzemben tartói engedélyhez nem kötött, illetve üzemben tartói engedélyének érvényessége lejárt, jogsértő módon vagy engedély nélkül folytatta tevékenységét.
 - s) adatrögzítő: az úszólétesítményeken vagy vasúti járműveken lévő vagy az infrastruktúrához kapcsolódó minden olyan berendezés, amely kiolvasás után információt szolgáltathat a bekövetkezett közlekedési balesetről vagy egyéb közlekedési eseményről;
-- t) súlyos víziközlekedési baleset: nagyon súlyos víziközlekedési balesetnek nem minősülő víziközlekedési baleset, így különösen a tűz, robbanás, ütközés, zátonyra futás, műtárggyal ütközés, időjárás okozta súlyos károsodás, jég okozta kár, az úszólétesítmény testének repedése, az úszólétesítmény testének feltételezett károsodása, amelynek eredményeként
-  - ta) főgép működésképtelenné válik, a lakótér jelentősen megrongálódik, vagy az úszólétesítmény szerkezete súlyosan károsodik (különösen az úszólétesítmény testének víz alatti része beszakad), és ez az úszólétesítményt üzemképtelenné teszi,
-  - tb) környezetszennyezés történik,
-  - tc) olyan meghibásodás keletkezik, amely parti segítséget vagy vontatást tesz szükségessé;
-- u) nagyon súlyos víziközlekedési baleset: olyan víziközlekedési baleset, amelynek során
+- t)
+- u) nagyon súlyos víziközlekedési baleset: olyan víziközlekedési baleset, amely során
   - ua) legalább egy személy életét veszti,
-  - ub) az úszólétesítmény eltűnik vagy megsemmisül,
-  - uc) jelentős környezetszennyezés következik be,
-  - ud) a hajóút teljesen vagy a víziközlekedést akadályozó módon részlegesen elzáródik,
-  - ue) az úszólétesítmény a víziút műtárgyait vagy a víziutat keresztező műtárgyakat megrongálja, vagy azok üzemképességüket részlegesen vagy teljesen elvesztik;
+  - ub) az úszólétesítmény eltűnik vagy megsemmisül, vagy hajóútban elsüllyed,
+  - uc) az érintett állam vagy államok, illetve a lajstromozó állam megítélése szerint jelentős környezeti kár keletkezik, valamint Magyarország területén a természetben okozott károsodás mértékének megállapításáról, valamint a kármentesítés szabályairól szóló kormányrendelet szerinti természetben okozott károsodás következik be, vagy
+  - ud) a víziút műtárgyainak megrongálódásával kapcsolatban részleges vagy teljes hajózási zárlatot rendeltek el;
 - v) gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
 
 ### II. Fejezet — KÖZLEKEDÉSBIZTONSÁGI SZERV
 
 ### A közlekedésbiztonsági szerv jogállása és szervezete
 
-3. § (1) A közlekedésbiztonsági szerv – e törvényben meghatározottak szerint – a balesetek megelőzése érdekében hatósági jogkörben eljárva elvégzi a közlekedési balesetek és az egyéb közlekedési események független szakmai vizsgálatát, gyűjti, elemzi a közlekedési balesetekkel és az egyéb közlekedési eseményekkel kapcsolatos információkat, biztonsági ajánlásokat dolgoz ki.
+3. § (1) A közlekedésbiztonsági szerv – e törvényben meghatározottak szerint – a balesetek megelőzése érdekében
+
+- a) elvégzi
+  - aa) a vasúti balesettel és súlyos vasúti balesettel, a váratlan vasúti eseménnyel, valamint a nagyon súlyos víziközlekedési balesettel és víziközlekedési balesettel, valamint a víziközlekedési eseménnyel,
+  - ab) a 376/2014/EU európai parlamenti és tanácsi rendeletben meghatározott eseménnyel,
+  - ac) a 216/2008/EK európai parlamenti és tanácsi rendelet II. mellékletében szereplő légijárművel bekövetkezett, jelentős légiközlekedés-biztonsági kockázatot magába hordozó eseménnyel,
+  - ad) az állami légijárművel bekövetkezett, jelentős légiközlekedés-biztonsági kockázatot magába hordozó eseménnyel kapcsolatos bejelentések gyűjtését és elemzését,
+- b) a légiközlekedési hatósággal együttműködve elvégzi az EU rendelet 13. cikk (1) bekezdésében meghatározott elemzések nyomon követését;
+- c) lefolytatja a közlekedési balesetek és az egyéb közlekedési események független szakmai és tematikus vizsgálatát és
+- d) biztonsági ajánlásokat dolgozhat ki.
 
 (2) A közlekedésbiztonsági szerv irányítását a közlekedésért felelős miniszter (a továbbiakban: miniszter) látja el. A közlekedésbiztonsági szerv döntéseit felügyeleti jogkörben megváltoztatni vagy megsemmisíteni nem lehet. A miniszter a közlekedésbiztonsági szervnek feladat elvégzésére vagy mulasztás pótlására egyedi utasítást nem adhat ki.
 
@@ -113,18 +125,18 @@ Az Országgyűlés a légi-, a vasúti és a víziközlekedés biztonságának j
 
 (8) A közlekedésbiztonsági szervvel közszolgálati jogviszonyban álló személy (a továbbiakban: kormánytisztviselő) a (7) bekezdésben meghatározott szervekkel, vagy gazdálkodó szervezetekkel, a közszolgálati tisztviselőkről szóló törvényben meghatározottak figyelembevételével
 
-- a) további jogviszonyt a jártasságának, tapasztalatának, gyakorlatának fenntartásához szükséges mértékben vagy vizsgáztatói tevékenység kivételével oktatói tevékenység végzésére,
+- a) további jogviszonyt a jártasságának, tapasztalatának, gyakorlatának fenntartásához szükséges mértékben vagy hatósági vizsgáztatói tevékenység kivételével oktatói tevékenység végzésére,
 - b) gyakorolható tevékenység végzésére irányuló jogviszonyt a munkáltatói jogkör gyakorlójának előzetes engedélyével létesíthet.
 
 (9) A (8) bekezdésben foglaltakon túl a közlekedésbiztonsági szerv vezetője, valamint a vezetőjének helyettesítésére jogosult személy nem lehet a (7) bekezdésben meghatározott szervek és gazdálkodó szervezetek kormánytisztviselőjének, vezető tisztségviselőjének, tulajdonosának, alkalmazottjának vagy egyéb munkavállalójának közeli hozzátartozója [Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:1. § (1) bekezdés 1. pont].
 
-4. § (1) A közlekedésbiztonsági szerv 24 órás folyamatos baleseti ügyeleti szolgálatot tart fenn a közlekedési balesetekről, és az egyéb közlekedési eseményekről szóló bejelentések fogadására, a szükséges jelentések és intézkedések megtételére.
+4. § (1) A közlekedésbiztonsági szerv 24 órás folyamatos baleseti ügyeleti szolgálatot tart fenn a közlekedési balesetekről, és az egyéb közlekedési eseményekről szóló bejelentések, továbbá a 376/2014/EU európai parlamenti és tanácsi rendeletben meghatározott kötelező és önkéntes bejelentések fogadására, és a szükséges jelentések és intézkedések megtételére.
 
 (2) Amennyiben az esemény kapcsán hatósági, szabálysértési vagy büntetőeljárás is indul, a vizsgálati cselekmények ezen eljárásokkal párhuzamosan is lefolytathatók. Szabálysértési és közigazgatási hatósági eljárás a szakmai vizsgálatot nem akadályozhatja.
 
 (3) A szakmai vizsgálat a büntetőeljárás lefolytatását nem akadályozhatja.
 
-(4) A közlekedési balesettel és az egyéb közlekedési eseménnyel kapcsolatban indult szakmai vizsgálat, valamint más közigazgatási hatósági eljárás, szabálysértési és büntetőeljárás során a közlekedésbiztonsági szerv, a hatóságok és az eljáró szervek az együttműködés érdekében egymást megkereshetik.
+(4) A közlekedési balesettel és az egyéb közlekedési eseménnyel kapcsolatban indult szakmai és tematikus vizsgálat, továbbá a szakmai vizsgálattól függetlenül indult közigazgatási hatósági eljárás, szabálysértési és büntetőeljárás során a közlekedésbiztonsági szerv, valamint a hatóságok és egyéb eljáró szervek az együttműködés érdekében, a szakmai vizsgálat szabályainak figyelembevételével, az eseménnyel összefüggő tényekre vonatkozó adatok vagy a közigazgatási hatósági, szabálysértési, illetve büntetőeljárás során keletkezett adatok, dokumentumok beszerzése érdekében egymást megkereshetik.
 
 5. § (1) E törvény eltérő rendelkezésének hiányában a közigazgatási hatósági ügynek nem minősülő szakmai vizsgálatra a közigazgatási hatósági eljárás általános szabályairól szóló törvényt megfelelően kell alkalmazni.
 
@@ -143,52 +155,59 @@ Az Országgyűlés a légi-, a vasúti és a víziközlekedés biztonságának j
 7. § (1) A közlekedésbiztonsági szerv:
 
 - a) kivizsgálja
-  - aa) a polgári repülés területén közös szabályokról és az Európai Repülésbiztonsági Ügynökség létrehozásáról, valamint a 91/670/EK tanácsi rendelet, 1592/2002/EK rendelet és a 2004/36/EK irányelv hatályon kívül helyezéséről szóló, 2008. február 20-i 216/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: EK-rendelet) II. melléklete hatálya alá nem tartozó polgári és állami légijárművel belföldön bekövetkezett légiközlekedési balesteket és súlyos repülőeseményeket,
+  - aa) a 216/2008/EK európai parlamenti és tanácsi rendelet II. melléklete hatálya alá nem tartozó polgári és állami légijárművel belföldön bekövetkezett légiközlekedési balesteket és súlyos repülőeseményeket,
   - ab) a lajstromozásra kötelezett úszólétesítményekkel bekövetkezett nagyon súlyos víziközlekedési baleseteket és a lajstromozásra nem kötelezett úszólétesítményekkel bekövetkezett halált okozó nagyon súlyos víziközlekedési baleseteket,
   - ac) a súlyos vasúti baleseteket,
-  - ad) az 1. § (2) bekezdésben meghatározott, az EK-rendelet II. melléklete hatálya alá nem tartozó polgári és állami légijárművel bekövetkezett légiközlekedési baleseteket és súlyos repülőeseményeket, ha a légiközlekedési baleset, súlyos repülőesemény helyszíne szerint illetékes kivizsgáló szerv nem folytat vizsgálatot;
-- b) kivizsgálhatja azokat az EK-rendelet II. melléklete hatálya alá tartozó légijárművekkel bekövetkezett légiközlekedési baleseteket és súlyos repülőeseményeket, a lajstromozásra nem kötelezett úszólétesítménnyel bekövetkezett – az (1) bekezdés a) pont ab) alpontjában nem szereplő – nagyon súlyos víziközlekedési baleseteket, és az egyéb közlekedési eseményeket, amelyek megítélése szerint
+  - ad) az 1. § (2) bekezdésben meghatározott, a 216/2008/EK európai parlamenti és tanácsi rendelet II. melléklete hatálya alá nem tartozó polgári és állami légijárművel bekövetkezett légiközlekedési baleseteket és súlyos repülőeseményeket, ha a légiközlekedési baleset, súlyos repülőesemény helyszíne szerint illetékes kivizsgáló szerv nem folytat vizsgálatot;
+- b) kivizsgálhatja azokat a 216/2008/EK európai parlamenti és tanácsi rendelet II. melléklete hatálya alá tartozó légijárművekkel bekövetkezett légiközlekedési baleseteket és súlyos repülőeseményeket, a lajstromozásra nem kötelezett úszólétesítménnyel bekövetkezett – az (1) bekezdés a) pont ab) alpontjában nem szereplő – nagyon súlyos víziközlekedési baleseteket, és az egyéb közlekedési eseményeket, amelyek megítélése szerint
   - ba) más körülmények között közlekedési balesethez vezethettek volna,
   - bb) a közlekedési rendszer egésze szempontjából jelentőséggel bíró eseménysorozat részét képezik,
   - bc) a közlekedésbiztonságra európai közösségi szinten gyakorolnak hatást,
   - bd) a biztonsággal kapcsolatos tanulságokkal szolgálhatnak;
 - c) kivizsgálhatja azokat az a) pontban meg nem határozott eseteket is, amelyekkel kapcsolatban a vizsgálatot az infrastruktúra üzemeltetői, a közlekedési társaságok, a biztonsági hatóságok, továbbá nemzetközi együttműködés keretében az Európai Unió más tagállamának balesetvizsgáló szervezetei kérik;
-- d) figyelembe véve a víziközlekedési baleset vagy víziközlekedési esemény súlyosságát, az érintett úszólétesítmény vagy rakomány típusát, valamint azt a mértéket, amellyel a szakmai vizsgálat megállapításai hozzájárulhatnak a jövőbeli balesetek és események megelőzéséhez a súlyos víziközlekedési baleset és víziközlekedési esemény esetén a közlekedésbiztonsági szerv előzetes vizsgálatot végez és értékelést készít annak meghatározása érdekében, hogy folytasson-e szakmai vizsgálatot; ha a közlekedésbiztonsági szerv a súlyos víziközlekedési baleset kapcsán nem indít vizsgálatot, ennek indokait rögzíti;
+- d) figyelembe véve a víziközlekedési baleset vagy víziközlekedési esemény súlyosságát, az érintett úszólétesítmény vagy rakomány típusát, valamint azt a mértéket, amellyel a szakmai vizsgálat megállapításai hozzájárulhatnak a jövőbeli balesetek és események megelőzéséhez a víziközlekedési baleset és víziközlekedési esemény esetén a közlekedésbiztonsági szerv előzetes vizsgálatot végez és értékelést készít annak meghatározása érdekében, hogy folytasson-e szakmai vizsgálatot; ha a közlekedésbiztonsági szerv a víziközlekedési baleset kapcsán nem indít vizsgálatot, ennek indokait rögzíti;
 - e) a közlekedési balesetek és az egyéb közlekedési események megelőzése érdekében javaslatot tesz a jogszabály előkészítőjének;
 - f) a közlekedési balesetek és az egyéb közlekedési események megelőzése érdekében biztonsági ajánlást tesz
   - fa) a közlekedési társaságnak,
   - fb) a közlekedési infrastruktúra üzemeltetőinek, a járművet üzemeltetőnek, állami légijármű esetében az üzemeltetésért felelős állományilletékes parancsnoknak (a továbbiakban együtt: üzemeltető),
   - fc) állami légijármű esetén a légi jármű üzemben tartójának, továbbá a katonai állami légijármű esetén a honvédelemért felelős miniszternek,
   - fd) a közlekedési hatóságnak, és az eljárásban érintett más hatóságnak;
-- g) a légiközlekedési balesetek, súlyos repülőesemények, repülőesemények és légiközlekedési rendellenességek nyilvántartására, értékelésére, feldolgozására adatbázist hoz létre és működtet;
+- g) a 376/2014/EU európai parlamenti és tanácsi rendeletben meghatározott eseményjelentések, elemzések, és a légiközlekedési balesetekre, súlyos repülőeseményekre, repülőeseményekre vonatkozó adatok, információk nyilvántartására, nyomon követésére és feldolgozására adatbázist hoz létre és működtet;
 - h) folyamatos vélemény- és tapasztalatcserét folytat más országok szervezeteivel, a nemzetközi szervezetekkel a műszaki és tudományos fejlődéssel összhangban lévő közös vizsgálati módszerek kidolgozása, a biztonsági ajánlások végrehajtásának figyelemmel kísérésére szolgáló közös elvek megfogalmazása céljából;
 - i) az e törvény végrehajtására kiadott jogszabályban meghatározott adattartalommal értesíti az Európai Bizottságot a víziközlekedési balesetekről és a rendkívüli víziközlekedési eseményekről;
 - j) a víziközlekedési balesetekre és víziközlekedési eseményekre vonatkozó adatokat a Bizottság által létrehozott, az Európai Tengeri Balesetek Információs Platformja (EMCIP) elnevezésű európai elektronikus adatbázisban tárolja;
-- k) a közlekedési baleset és az egyéb közlekedési esemény súlyosságának és jellegének megfelelő formában zárójelentést készít.
+- k) a közlekedési baleset és az egyéb közlekedési esemény súlyosságának és jellegének megfelelő formában zárójelentést készít;
+- l) a 376/2014/EU európai parlamenti és tanácsi rendelet 6. cikk (3) bekezdésében meghatározottak szerint a bejelentett adatokat gyűjti, feldolgozza, tárolja;
+- m) ellátja a 376/2014/EU európai parlamenti és tanácsi rendelet 6. cikk (3) bekezdésében meghatározott kapcsolattartási pont feladatait;
+- n) a közlekedési balesetek és egyéb közlekedési események bejelentése, vagy a szakmai vizsgálat során tudomására jutott információk alapján tematikus vizsgálatot végezhet és a vizsgálat alapján biztonsági ajánlást adhat ki.
 
-(2) A közlekedésbiztonsági szerv az (1) bekezdés g) pontjában megjelölt adatbázisban tartja nyilván a légiközlekedési balesetre, a súlyos repülőeseményre és a légiközlekedési rendellenességre vonatkozó bejelentések alapján indított szakmai vizsgálat során az e törvénnyel összhangban birtokába került adatokat. Az adatbázisban tárolja továbbá a légiközlekedési hatóság által összegyűjtött, értékelt, a légiközlekedés biztonságát veszélyeztető, a külön jogszabályban meghatározott légiközlekedés védelmi jellegű eseményekre vonatkozó adatokat is. Az adatbázisban rögzített adatok kizárólag az e törvényben, valamint az 1321/2007/EK bizottsági rendeletben és az 1330/2007/EK bizottsági rendeletben meghatározott célokra használhatók fel.
+(2) A közlekedésbiztonsági szerv az (1) bekezdés g) pontjában megjelölt adatbázisban tartja nyilván az e törvényben meghatározott légiközlekedési balesettel, súlyos repülőeseménnyel és repülőeseménnyel összefüggő bejelentéseket és a 376/2014/EU európai parlamenti és tanácsi rendeletben meghatározott adatokat, információkat, továbbá a szakmai vizsgálat során az e törvénnyel és a 376/2014/EU európai parlamenti és tanácsi rendelettel összhangban birtokába került adatokat. Az adatbázisban tárolja továbbá a légiközlekedési hatóság által összegyűjtött, értékelt, a légiközlekedés biztonságát veszélyeztető, a polgári légiközlekedés védelmének szabályairól és a Légiközlekedés Védelmi Bizottság jogköréről, feladatairól és működésének rendjéről szóló kormányrendeletben meghatározott légiközlekedés védelmi jellegű eseményekre vonatkozó adatokat is. Az adatbázisban rögzített adatok kizárólag az e törvényben, az EU-rendeletben és a 376/2014/EU európai parlamenti és tanácsi rendeletben meghatározott célokra használhatók fel.
 
-(3) A (2) bekezdésben meghatározott adatbázisból a közlekedésbiztonsági szerv személyes és különleges adatokat nem tartalmazó adatbázist hoz létre, az Európai Bizottság és az Európai Gazdasági Térségről szóló megállapodásban részes államok (a továbbiakban: EGT-államok) közötti, továbbá nemzetközi szerződésben előírt adatcseréhez szükséges mértékben.
+(3)
 
-(4) A közlekedésbiztonsági szerv a (3) bekezdésben megjelölt adatbázisban rögzített adatokat az Európai Bizottság és az EGT-államok rendelkezésére bocsátja, illetve teljesíti az egyéb nemzetközi adatszolgáltatási kötelezettségeket.
+(4) A közlekedésbiztonsági szerv a (2) bekezdésben megjelölt adatbázisban rögzített adatok alapján teljesíti a 376/2014/EU európai parlamenti és tanácsi rendelet 8. cikk (2) bekezdésében, valamint a 9. cikk (1) bekezdésében meghatározott, továbbá az egyéb nemzetközi adatszolgáltatási kötelezettséget.
+
+(5) A közlekedésbiztonsági szerv nyilvántartást vezet a súlyos vasúti balesetek, a vasúti balesetek és a váratlan vasúti események szakmai vizsgálatának, valamint az üzembentartói vizsgálat részletes szabályairól szóló miniszteri rendeletben meghatározott balesetvizsgáló képzést végző szervezetekről.
 
 ### III. Fejezet — A BALESETEK VIZSGÁLATA
 
 ### A szakmai vizsgálat alapelvei
 
-8. § (1) A szakmai vizsgálat a közlekedési baleset és az egyéb közlekedési esemény okának megállapítására irányul, a jövőbeni közlekedési balesetek és egyéb közlekedési események megelőzése érdekében. A szakmai vizsgálat nem irányulhat a vétkesség vagy felelősség, illetve jog vagy kötelezettség megállapítására.
+8. § (1) A szakmai vizsgálat a közlekedési baleset és az egyéb közlekedési esemény okának megállapítására irányul, a jövőbeni közlekedési balesetek és egyéb közlekedési események megelőzése érdekében. A szakmai vizsgálat kiterjed a biztonságirányítási rendszer működésének vizsgálatára is.
+
+(1a) A szakmai vizsgálat nem irányulhat a vétkesség vagy felelősség, illetve jog vagy kötelezettség megállapítására.
 
 (2) A szakmai vizsgálat nem érinti a közlekedési baleset és az egyéb közlekedési esemény vizsgálatában részt vevő más hatóság feladat- és hatáskörét.
 
 ### A szakmai vizsgálatra vonatkozó általános szabályok
 
-9. § (1) A közlekedésbiztonsági szerv a vasúti és víziközlekedési balesetek és események tényállásának megállapítása keretében – szükség esetén a többi közigazgatási hatósággal egyeztetett módon, a büntetőeljárást nem akadályozva – jogosult különösen arra, hogy
+9. § (1) A közlekedésbiztonsági szerv a vasúti és víziközlekedési balesetek és események tényállásának megállapítása keretében – szükség esetén a közigazgatási hatósággal egyeztetett módon, a büntetőeljárást nem akadályozva – jogosult különösen arra, hogy
 
-- a) a közigazgatási hatósági eljárás általános szabályairól szóló törvény szemlére vonatkozó szabályai szerint haladéktalanul és akadálytalanul – az esemény vizsgálatára külön jogszabály alapján jogosult más hatóságokkal egyidejűleg is – hozzáférhessen a közlekedési baleset és az egyéb közlekedési esemény, a repülőesemény, a légiközlekedési rendellenesség és a váratlan vasúti esemény helyszínéhez, a járműhöz, annak rakományához vagy roncsához, a közlekedési járműhöz kapcsolódó infrastruktúrához, a forgalomirányító és jelzőberendezésekhez;
+- a) a közigazgatási hatósági eljárás általános szabályairól szóló törvény szemlére vonatkozó szabályai szerint haladéktalanul és akadálytalanul, előzetes értesítés nélkül – az esemény vizsgálatára külön jogszabály alapján jogosult más hatóságokkal egyidejűleg is – hozzáférhessen a közlekedési baleset és az egyéb közlekedési esemény helyszínéhez, az eseménnyel érintett járműhöz, az eseménnyel érintett jármű rakományához vagy roncsához, az eseménnyel érintett infrastruktúrához, a forgalomirányító és jelzőberendezésekhez;
 - b) azonnal megkezdhesse a helyszínen található bizonyítékok rögzítése mellett a maradványok és a roncsdarabok vagy alkatrészek, infrastruktúra elemek ellenőrzött eltávolítását vizsgálati vagy elemzési célokra;
 - c) azonnal hozzáférhessen a fedélzeti és egyéb adatrögzítők, valamint más felvételek tartalmához, és szakmai vizsgálatához azokat, azok tartalmát felhasználhassa, hozzáférhessen a szóbeli üzeneteket és a forgalomirányító és jelzőrendszer működését rögzítő berendezésekhez és használhassa azokat;
 - d) hozzáférhessen az áldozatok testének vizsgálatából származó eredményekhez, illetve az azokból vett mintákhoz;
-- e) azonnal hozzáférhessen a jármű üzemeltetésében részt vevő személyek egészségügyi vizsgálati eredményeihez, illetve a tőlük vett mintákhoz;
+- e) haladéktalanul megismerje a jármű üzemeltetésében, karbantartásában, közlekedésének előkészítésében, továbbá a forgalom lebonyolításában, tájékoztatásában, illetve irányításában részt vevő személyek egészségügyi vizsgálati eredményeit, illetve a tőlük vett mintákat;
 - f) akadálytalanul hozzájusson az ügyre vonatkozó minden olyan információhoz vagy rögzített adathoz, amely a jármű tulajdonosának, üzemeltetőjének vagy gyártójának, valamint a közlekedést vagy az infrastruktúra üzemeltetését felügyelő hatóságok rendelkezésére áll;
 - g) hozzáférhessen a közlekedési infrastruktúra működtetője, az érintett közlekedési társaságok és az üzemben tartó biztonsági szervezetének és a közlekedési hatóságok birtokában lévő lényeges információhoz vagy feljegyzéshez;
 - h) a tanúkat a vizsgálat bármely szakaszában – a helyszínen lévő tanúkat azonnal – meghallgassa;
@@ -200,56 +219,54 @@ Az Országgyűlés a légi-, a vasúti és a víziközlekedés biztonságának j
 
 (4) A vizsgálóbizottság javaslatára a közlekedésbiztonsági szerv vezetője a szakmai vizsgálat bármely szakaszában jogosult biztonsági ajánlás kiadására.
 
+(5) A vasúti baleset és súlyos vasúti baleset, a váratlan vasúti esemény, valamint a nagyon súlyos víziközlekedési baleset és víziközlekedési baleset, valamint a víziközlekedési esemény vizsgálata során a közlekedésbiztonsági szerv – a büntetőeljárást lefolytató hatóságtól szerzett információk kivételével – jogosult információkat közölni az áldozatokkal és azok hozzátartozóival vagy azok képviselőivel, továbbá nyilvánosságra hozni az eseményvizsgálat során feltárt tényekkel és az eseményvizsgálat során követett eljárással kapcsolatos információkat, jogosult továbbá előzetes jelentések kiadására, feltéve, hogy az nem veszélyezteti a szakmai vizsgálat követelményeit, alapvető honvédelmi érdeket és megfelel a személyes adatok kezelésére vonatkozó szabályoknak.
+
 ### A szakmai vizsgálat megindítása
 
 10. § (1) Aki közlekedési balesetet észlel, köteles azt haladéktalanul a rendőrségnek bejelenteni. A rendőrség haladéktalanul értesíti azokat a szerveket, amelyek feladatkörébe tartozik a közlekedési baleset következtében veszélybe került személyek részére segítség nyújtása, az élet- és vagyonbiztonság védelme, a közlekedési baleset szakmai vizsgálata.
 
-(2) A vasúti vagy víziközlekedési balesetben vagy eseményben részt vevő jármű személyzete, a járművek üzemben tartói, az érintett közlekedési infrastruktúra üzemben tartói, a közlekedési hatóság, továbbá a vasúti és víziközlekedési baleset vagy esemény kivizsgálását végző más hatóságok haladéktalanul kötelesek jelenteni a közlekedésbiztonsági szervnek a bekövetkezett vasúti és víziközlekedési balesetet vagy eseményt az e törvény végrehajtására kiadott jogszabályban meghatározott adattartalommal. A bejelentési kötelezettség kiterjed a magyar úszólétesítményt külföldön ért balesetre is.
+(2) A vasúti vagy víziközlekedési balesetben vagy eseménnyel érintett jármű személyzete, a járművek üzemben tartói, az érintett közlekedési infrastruktúra üzemben tartói, a közlekedési hatóság, továbbá a vasúti és víziközlekedési baleset vagy esemény kivizsgálását végző más hatóságok haladéktalanul kötelesek jelenteni a közlekedésbiztonsági szervnek a bekövetkezett vasúti és víziközlekedési balesetet vagy eseményt az e törvény végrehajtására kiadott miniszteri rendeletben meghatározott adattartalommal. A bejelentési kötelezettség kiterjed a magyar úszólétesítmény üzemben tartójára is az úszólétesítményt külföldön ért baleset esetén is.
 
-(3) A szakmai vizsgálat kizárólag hivatalból indul meg. A bejelentés nem minősül kérelemnek. A bejelentő – abban az esetben is, ha hatóság a bejelentő – az eljárás egyéb résztvevőjének minősül.
+(3) A 376/2014/EU európai parlamenti és tanácsi rendelet 4. cikk (1) bekezdésében meghatározott eseményeket
 
-(4) Amennyiben
+- a) a 216/2008/EK európai parlamenti és tanácsi rendelet II. mellékletében meghatározott légijármű és az állami légijármű parancsnoka, vagy amennyiben a parancsnoknak nem áll módjában, a személyzet egyéb tagja,
+- b) a 216/2008/EK európai parlamenti és tanácsi rendelet II. mellékletében meghatározott légijármű és az állami légijármű, vagy annak alkatrésze, berendezése tervezésében, gyártásában, karbantartásában, üzembe helyezésében, üzemben tartásában, üzemeltetésében, műszaki alkalmasságának megállapításában részt vevő személy,
+- c) az a személy, aki állami repülések céljára szolgáló repülőtér üzemben tartásával kapcsolatos feladatokat lát el,
+- d) az a személy, aki olyan állami léginavigációs szolgáltatásokkal kapcsolatos feladatot lát el, amelyhez szakszolgálati engedély szükséges,
+- e) az a személy, aki állami léginavigációs berendezések telepítésével, módosításával, karbantartásával, javításával, nagyjavításával, repülési próbájával vagy ellenőrzésével kapcsolatos feladatot lát el,
+- f) az a személy, aki állami légijármű földi kiszolgálásával, beleértve a tüzelőanyag-feltöltést, a terhelési adatlap-kitöltést, a berakodást, a jégtelenítést és a légijármű vontatást, valamint egyéb földi üzemeltetésével kapcsolatos feladatot lát el, köteles a tudomásszerzést követően haladéktalanul személyesen vagy a légiközlekedésről szóló törvényben meghatározott baleseti ügyeleti szolgálat útján jelenteni a közlekedésbiztonsági szervnek a 376/2014/EU európai parlamenti és tanácsi rendelet I. mellékletében meghatározott adattartalommal.
 
-- a) a légi jármű üzemeltetője vagy üzemben tartója,
-- b) a repülőtér üzemben tartója,
-- c) a kivizsgálást végző más hatóság,
-- d) a légiforgalmi szolgálatot, vagy a földi kiszolgálással kapcsolatos feladatot ellátó személy,
-- e) a légi jármű személyzete,
-- f) a légi jármű vagy annak bármely felszerelése vagy alkatrésze tervezésével, gyártásával, karbantartásával vagy módosításával foglalkozó személy,
-- g) a légi jármű vagy annak bármely felszerelése, vagy alkatrésze karbantartási célú átvizsgálásáról vagy üzembe helyezéséről szóló igazolást aláíró személy,
-- h) a légi navigációs berendezések telepítésével, módosításával, karbantartásával, javításával, nagyjavításával, repülési próbájával vagy ellenőrzésével kapcsolatos feladatot ellátó személy a feladata ellátása során repülőeseményről vagy légiközlekedési rendellenességről szerez tudomást, köteles azt repülőesemény esetében haladéktalanul, légiközlekedési rendellenesség esetében 24 órán belül bejelenteni.
+(4) A 376/2014/EU európai parlamenti és tanácsi rendelet 5. cikk (1) bekezdése szerint összegyűjtött eseményekre vonatkozó adatokat és biztonsági vonatkozású egyéb információkat az 5. cikk (6) bekezdésében meghatározott letelepedett szervezet köteles haladéktalanul jelenteni a közlekedésbiztonsági szervnek.
 
-(4a) A (4) bekezdésben meghatározott bejelentési kötelezettség kiterjed a magyar légijárművel külföldön bekövetkezett repülőeseményre és légiközlekedési rendellenességre is.
+10/A. § (1) A szakmai vizsgálat megindításáról a közlekedésbiztonsági szerv dönt.
 
-(4b) A (2) és a (4) bekezdés szerinti, a légiközlekedési balesetről, súlyos repülőeseményről, repülőeseményről vagy légiközlekedési rendellenességről szóló bejelentést személyesen vagy a légiközlekedésről szóló törvényben meghatározott baleseti ügyeleti szolgálat útján kell megtenni, a 22. § (1) bekezdés b) és d) pontja, és (2) bekezdése alapján kiadott jogszabályban meghatározott adattartalommal.
+(2) A bejelentőt – bejelentése miatt – munkáltatója vagy megbízója részéről nem érheti hátrány.
 
-(4c) A (4) és a (4a) bekezdésben meghatározott bejelentési kötelezettség nem terjed ki az állami légijárművel bekövetkezett légiközlekedési rendellenességre.
+(3) A baleseti ügyeleti szolgálat a bejelentéseket telefonon, elektronikus úton, valamint levélben fogadja a közlekedésbiztonsági szerv honlapján és Magyarország Légiforgalmi Tájékoztató Kiadványában (AIP) közzétett elérhetőségeken. A közlekedésbiztonsági szerv nyilvántartásba veszi a bejelentést, és a baleseti ügyeleti szolgálat segítségével haladéktalanul megteszi a szükséges intézkedéseket. Amennyiben a bejelentés nem az üzemben tartótól származik, a közlekedésbiztonsági szerv az üzemben tartót értesíti. Légiközlekedési baleset, súlyos repülőesemény és repülőesemény esetében a közlekedésbiztonsági szerv a bejelentés 10/C. § (4) bekezdésében meghatározott eredeti adattartalmával haladéktalanul értesíti a légiközlekedési hatóságot.
 
-(5) A légiközlekedésben előforduló jelentési kötelezettség alá eső események tájékoztató jellegű felsorolását a 22. § (1) bekezdés b) és d) pontjában és a (2) bekezdésében foglalt felhatalmazás alapján kiadott jogszabály állapítja meg.
+10/B. § (1) A bejelentést követően a közlekedésbiztonsági szerv a vizsgálati kötelezettségére figyelemmel dönt a szakmai vizsgálat megindításáról. A közlekedésbiztonsági szerv vezetője a bejelentést követően a vizsgálóbizottság tagjainak kijelölésével megindítja a szakmai vizsgálatot.
 
-(5a) A bejelentőt – bejelentése miatt – munkáltatója részéről nem érheti hátrány.
+(2) A vizsgálóbizottság legalább két tagból áll. A vizsgálóbizottság tagjait a közlekedésbiztonsági szerv vezetője írásban jelöli ki a szakmai vizsgálat lefolytatására, egyidejűleg kijelöli a szakmai vizsgálat megszervezésével, végrehajtásával és felügyeletével megbízott vizsgálóbizottság vezetőjét.
 
-(6) A baleseti ügyeleti szolgálat a bejelentéseket telefonon, elektronikus úton, valamint levélben fogadja a közlekedésbiztonsági szerv honlapján és Magyarország Légiforgalmi Tájékoztató Kiadványában (AIP) közzétett címen és telefonszámon. A közlekedésbiztonsági szerv nyilvántartásba veszi a bejelentést, és a baleseti ügyeleti szolgálat segítségével haladéktalanul megteszi a vizsgálat megkezdéséhez szükséges intézkedéseket. Amennyiben a bejelentés nem az üzemben tartótól származik, a közlekedésbiztonsági szerv az üzemben tartót haladéktalanul értesíti. Légiközlekedési balesetek, súlyos repülőesemények és repülőesemények esetében a közlekedésbiztonsági szerv haladéktalanul értesíti a légiközlekedési hatóságot.
+(3) A vizsgálóbizottság munkájában való részvételre a közlekedésbiztonsági szerv kormánytisztviselőin kívül más, a szakmai vizsgálat lefolytatására – a 22. § (1) bekezdés a)–c) pontja szerinti felhatalmazás alapján kiadott miniszteri rendeletben meghatározott – szakértelemmel rendelkező személy is igénybe vehető.
 
-(7) Amennyiben a közlekedési baleset, illetve a vasúti baleset szomszédos állam területét érinti, a közlekedésbiztonsági szerv haladéktalanul értesíti a rendőrség területileg illetékes szervét.
+(4) A szakmai vizsgálat vezetője a közlekedésbiztonsági szerv kormánytisztviselője. A súlyos repülőesemény kivételével az egyéb közlekedési esemény vizsgálatára a közlekedésbiztonsági szerv kormánytisztviselői közül – vizsgálóbizottság helyett – szakmai kivizsgáló is kijelölhető. A szakmai kivizsgáló a vizsgálóbizottság feladatait látja el és gyakorolja jogait.
 
-(8) A vizsgálóbizottság legalább két tagból áll. A bizottság tagjait a közlekedésbiztonsági szerv vezetője írásban jelöli ki a vizsgálat lefolytatására, egyidejűleg kijelöli a szakmai vizsgálat megszervezésével, végrehajtásával és felügyeletével megbízott vizsgálatvezetőt. A bizottság munkájában való részvételre a közlekedésbiztonsági szerv kormánytisztviselőin kívül más, a szakmai vizsgálat lefolytatására – a 22. § (1) bekezdés a–c) pontjában kapott felhatalmazás alapján kiadott rendeletben meghatározott – szakértelemmel rendelkező személy is igénybe vehető. A vizsgálat vezetője a közlekedésbiztonsági szerv kormánytisztviselője. A súlyos repülőesemény kivételével az egyéb közlekedési esemény vizsgálatára a közlekedésbiztonsági szerv kormánytisztviselői közül – vizsgálóbizottság helyett – szakmai kivizsgáló is kijelölhető. A szakmai kivizsgáló a vizsgálóbizottság feladatait látja el és gyakorolja jogait.
+(5) A vizsgálóbizottság a kijelölést követően a szakmai vizsgálat 8. §-ban rögzített alapelvei szerint, a szakmai vizsgálatra vonatkozó általános szabályok figyelembevételével határozza meg a vizsgálat körét és a vizsgálatok során követendő eljárást, valamint haladéktalanul megkezdi a szakmai vizsgálatot. Amennyiben a közlekedési balesetben és egyéb közlekedési eseményben több jármű érintett, azt egy esetnek kell tekinteni. Az esetet a legsúlyosabb következménye alapján kell minősíteni.
 
-(9) A közlekedésbiztonsági szerv vezetője a bejelentést követően haladéktalanul írásban kijelöli a vizsgálóbizottság tagjait, és ezzel megindítja a szakmai vizsgálatot. A vizsgálóbizottság a kijelölést követően a szakmai vizsgálat 8. §-ban rögzített alapelvei szerint, a szakmai vizsgálatra vonatkozó általános szabályok figyelembevételével határozza meg a vizsgálat körét és a vizsgálatok során követendő eljárást, valamint haladéktalanul megkezdi a szakmai vizsgálatot. Amennyiben a közlekedési balesetben és egyéb közlekedési eseményben több jármű érintett, azt egy esetnek kell tekinteni. Az esetet a legsúlyosabb következménye alapján kell minősíteni.
+(6) Ha a közlekedési baleset, illetve az egyéb közlekedési esemény katonai szállítmányt érint, a szakmai vizsgálatban a Magyar Honvédség képviselője megfigyelőként részt vehet. A megfigyelő a vizsgálóbizottsággal, illetve a szakmai kivizsgálóval együtt lehet jelen az eljárásban érintett személy meghallgatásának kivételével a vizsgálati cselekményeknél, és a személyes adatok kivételével gyakorolhatja iratbetekintési jogát, jogosult továbbá arra, hogy indítványozza kérdés feltételét tanúhoz, illetve szakértőhöz, továbbá jogosult nyilatkozatot tenni.
 
-(10) Súlyos vasúti baleset esetén – illetve, amennyiben a közlekedésbiztonsági szerv úgy dönt, hogy vasúti balesettel vagy váratlan vasúti eseménnyel kapcsolatban vizsgálatot indít – a közlekedésbiztonsági szerv vezetője a szakmai vizsgálat megindításáról egy héten belül tájékoztatja az Európai Vasúti Ügynökséget. A tájékoztatás tartalmazza a baleset dátumát, idejét és helyét, valamint annak jellegét és következményeit a halálos áldozatok, személyi sérülések és anyagi károk tekintetében.
+10/C. § (1) Súlyos vasúti baleset esetén – illetve, amennyiben a közlekedésbiztonsági szerv úgy dönt, hogy vasúti balesettel vagy váratlan vasúti eseménnyel kapcsolatban szakmai vizsgálatot indít – a közlekedésbiztonsági szerv vezetője a szakmai vizsgálat megindításáról egy héten belül tájékoztatja az Európai Vasúti Ügynökséget. A tájékoztatás tartalmazza a baleset dátumát, idejét és helyét, valamint annak jellegét és következményeit a halálos áldozatok, személyi sérülések és anyagi károk tekintetében.
 
-(11) Amennyiben a közlekedési baleset, illetve az egyéb közlekedési esemény katonai szállítmányt érint, a közlekedésbiztonsági szerv vezetője a Magyar Honvédséget értesíti. A szakmai vizsgálatban a Magyar Honvédség képviselője megfigyelőként részt vehet.
+(2) Ha a közlekedési baleset, illetve az egyéb közlekedési esemény katonai szállítmányt érint, a közlekedésbiztonsági szerv vezetője a Magyar Honvédséget értesíti.
 
-(12) A helyszíni szemle vezetőjének jelentése alapján a közlekedésbiztonsági szerv vezetője az állami légijárművel bekövetkezett légiközlekedési baleset bejelentésétől számított 24 órán belül tájékoztatást ad a balesetről a honvédelemért felelős miniszter és a Magyar Honvédség vezérkari főnöke, illetve a rendvédelmi szervek, valamint a vámhatóság érintettsége esetén az illetékes miniszter részére.
+(3) A közlekedésbiztonsági szerv vezetője az állami légijárművel bekövetkezett légiközlekedési balesetről a lehető legrövidebb időn belül tájékoztatást ad a honvédelemért felelős miniszter és a Magyar Honvédség vezérkari főnöke, illetve a rendvédelmi szervek, valamint a vámhatóság érintettsége esetén az illetékes miniszter részére.
 
-(13) A (11) bekezdés szerinti megfigyelő a vizsgálóbizottsággal, illetve a szakmai kivizsgálóval együtt lehet jelen a vizsgálati cselekményeknél, és gyakorolhatja iratbetekintési jogát, jogosult továbbá arra, hogy indítványozza kérdés feltételét tanúhoz, illetve szakértőhöz, továbbá jogosult nyilatkozatot tenni.
-
-(14) A belföldön külföldi járművel bekövetkezett közlekedési baleset és egyéb közlekedési esemény bekövetkezésekor a közlekedésbiztonsági szerv a lehető legkisebb késedelemmel értesíti a járművet lajstromozó (nyilvántartó), üzemben tartó (üzemeltető), tervező, gyártó, valamint nemzetközi szerződésben meghatározott érintettségű állam balesetkivizsgáló szervét. Az értesítést a nemzetközi szerződésekben meghatározott hivatalos munkanyelven kell megküldeni. Az értesítés tartalmát külön jogszabály határozza meg. Az értesítés az adott időpontban rendelkezésre álló információkat tartalmazza, az egyes információk hiánya miatt az értesítés nem szenvedhet késedelmet. A hiányzó adatokat és az egyéb kapcsolódó információkat azok beszerzését követően haladéktalanul pótolni kell.
+(4) A belföldön külföldi járművel bekövetkezett közlekedési baleset és egyéb közlekedési esemény bekövetkezésekor a közlekedésbiztonsági szerv a lehető legkisebb késedelemmel értesíti a járművet lajstromozó (nyilvántartó), üzemben tartó (üzemeltető), tervező, gyártó, valamint nemzetközi szerződésben meghatározott érintettségű állam eseményvizsgáló szervét. Az értesítést a nemzetközi szerződésekben meghatározott hivatalos munkanyelven kell megküldeni. Az értesítés az adott időpontban rendelkezésre álló információkat tartalmazza, az egyes információk hiánya miatt az értesítés nem szenvedhet késedelmet. A hiányzó adatokat és az egyéb kapcsolódó információkat azok beszerzését követően haladéktalanul pótolni kell.
 
 ### A helyszín biztosítása
 
-11. § (1) A helyszín biztosításáról és a (7) bekezdés szerinti változatlanul hagyásáról
+11. § (1) Az esemény helyszínének biztosításáról és a (7) bekezdés szerinti változatlanul hagyásáról
 
 - a) légiközlekedési baleset esetében a rendőrség, súlyos repülőesemény és repülőesemény esetében a légijármű parancsnoka, akadályoztatása esetén a légijármű személyzete, illetve a légijármű üzemben tartója,
 - b) víziközlekedési baleset esetében az úszólétesítmény vezetője, akadályoztatása esetén a személyzet, illetve a baleset helyszínére érkezését követően a rendőrség,
@@ -257,9 +274,9 @@ Az Országgyűlés a légi-, a vasúti és a víziközlekedés biztonságának j
 
 gondoskodik.
 
-(2) A közlekedésbiztonsági szerv baleseti ügyeleti szolgálata a tudomására jutott közlekedési balesettel vagy egyéb közlekedési eseménnyel kapcsolatban – a helyszínen már megtett intézkedések figyelembevételével, amennyiben ez szükséges – kezdeményezi a helyszín biztosítását.
+(2) A közlekedésbiztonsági szerv baleseti ügyeleti szolgálata a tudomására jutott közlekedési balesettel vagy egyéb közlekedési eseménnyel kapcsolatban – az esemény helyszínén már megtett intézkedések figyelembevételével, amennyiben ez szükséges – kezdeményezi a helyszín biztosítását.
 
-(3) A helyszín biztosítását – ha ebben sérülése nem akadályozza – az illetékes szervek helyszínre érkezéséig
+(3) Az esemény helyszínének biztosítását – ha ebben sérülése nem akadályozza – az illetékes szervek helyszínre érkezéséig
 
 - a) a légijármű parancsnoka vagy személyzete, illetve a repülőtéri szolgálatok vezetője,
 - b) vasúti baleset esetén a balesettel érintett terület tulajdonosa (kezelője, használója) vagy annak alkalmazottja, valamint a vonat személyzete,
@@ -273,31 +290,33 @@ látja el.
 
 (6) A légiközlekedési baleset és a súlyos repülőesemény helyszínét a vizsgálóbizottság vezetőjének megérkezéséig a rendőrséggel kötött megállapodásban meghatározott időtartamig, de legalább a rendőrség helyszínre érkezésétől számított négy óra időtartamig a rendőrség biztosítja.
 
-(7) A helyszín változatlanul hagyása és a nyomok, valamint a roncsok megőrzése érdekében a rendelkezésre álló eszközökkel mindent meg kell tenni azért, hogy az időjárás vagy más körülmény ne okozzon károsodást, továbbá távol kell tartani az illetékteleneket. A helyszín eredeti állapotban való megőrzésétől kizárólag akkor lehet eltekinteni, ha azt személyek életének, testi épségének védelme, katasztrófahelyzet felszámolásához nélkülözhetetlen azonnali intézkedések, valamint halaszthatatlan eljárási cselekmények indokolják; ilyen esetekben is kizárólag az ezen intézkedésekkel vagy cselekményekkel közvetlenül összefüggő változtatásokat szabad végrehajtani. A helyszín változtatásáról a nyomokat rögzítő bizottságot a helyszínre érkezésekor haladéktalanul tájékoztatni kell, amennyiben arra lehetőség van, a végrehajtott változtatásokat jegyzőkönyvben vagy képi úton rögzíteni kell.
+(7) Az esemény helyszínének változatlanul hagyása és a nyomok, valamint a roncsok megőrzése érdekében a rendelkezésre álló eszközökkel mindent meg kell tenni azért, hogy az időjárás vagy más körülmény ne okozzon károsodást, továbbá távol kell tartani az illetékteleneket. Az esemény helyszínének eredeti állapotban való megőrzésétől kizárólag akkor lehet eltekinteni, ha azt személyek életének, testi épségének védelme, katasztrófahelyzet felszámolásához nélkülözhetetlen azonnali intézkedések, valamint halaszthatatlan eljárási cselekmények indokolják; ilyen esetekben is kizárólag az ezen intézkedésekkel vagy cselekményekkel közvetlenül összefüggő változtatásokat szabad végrehajtani. Az esemény helyszínének változtatásáról a nyomokat rögzítő bizottságot a helyszínre érkezésekor haladéktalanul tájékoztatni kell, amennyiben arra lehetőség van, a végrehajtott változtatásokat jegyzőkönyvben vagy képi úton rögzíteni kell.
 
-(8) Amennyiben a helyszín katonai vagy rendészeti létesítmény területe, vagy őrzött szállítmány, a helyszín, illetve a szállítmány őrzéséről és változatlanul hagyásáról az illetékes katonai, illetve rendészeti szerv gondoskodik.
+(8) Amennyiben az esemény helyszínének katonai vagy rendészeti létesítmény területe, vagy őrzött szállítmány, az esemény helyszínének, illetve a szállítmány őrzéséről és változatlanul hagyásáról az illetékes katonai, illetve rendészeti szerv gondoskodik.
 
-(9) A helyszín őrzését és annak időtartamát a szakmai vizsgálat vezetőjének az illetékes rendőri, katonai szervekkel egyeztetni kell.
+(9) Az esemény helyszínének őrzését és annak időtartamát a szakmai vizsgálat vezetőjének az illetékes rendőri, katonai szervekkel egyeztetni kell.
 
-(10) A közlekedésbiztonsági szerv, illetve a vizsgálóbizottság a lehető legrövidebb időn belül befejezi a helyszíni szemlét a közlekedés zavartalanságának mielőbbi helyreállítása érdekében.
+(10) A közlekedésbiztonsági szerv, illetve a vizsgálóbizottság a lehető legrövidebb időn belül befejezi az esemény helyszíni szemléjét a közlekedés zavartalanságának mielőbbi helyreállítása érdekében.
 
-(11) A közlekedési baleset és egyéb közlekedési esemény esetén a személyzet és az utasok tulajdonának, továbbá a speciális eszközöknek és tartozékoknak, valamint a rakománynak a begyűjtése, nyilvántartásba vétele az üzemben tartó vagy az üzemeltető feladata, azok helyszínről történő elszállítására – az érintett hatóságokkal történt egyeztetést követően – a vizsgálóbizottság vezetője ad engedélyt.
+(11) A közlekedési baleset és egyéb közlekedési esemény esetén a személyzet és az utasok tulajdonának, továbbá a speciális eszközöknek és tartozékoknak, valamint a rakománynak a begyűjtése, nyilvántartásba vétele az üzemben tartó vagy az üzemeltető feladata, azok helyszínről történő elszállítására – az érintett hatóságokkal történt egyeztetést követően – a vizsgálóbizottság vezetője ad engedélyt. A jármű vagy tartozékai elszállításakor és megőrzésekor, az esetleges későbbi vizsgálatok lefolytatása érdekében úgy kell eljárni, hogy azok további sérülést vagy elváltozást a lehető legkisebb mértékben szenvedjenek.
 
-11/A. § (1) A vizsgálóbizottság a helyszínen szemlét folytat le, amelyről helyszíni szemlejegyzőkönyvet vesz fel.
+11/A. § (1) A vizsgálóbizottság az esemény helyszínén szemlét folytat le, amelyről helyszíni szemlejegyzőkönyvet vesz fel.
 
-(2) A közlekedésbiztonsági szerv vizsgálóbizottsága szakmai vizsgálatához felhasználhatja más hatóság, illetve az üzemben tartó vagy üzemeltető által készített helyszíni szemlejegyzőkönyvet is.
+(2) A közlekedésbiztonsági szerv vizsgálóbizottsága szakmai vizsgálatához felhasználhatja más hatóság, illetve az üzemben tartó, üzemeltető vagy a 376/2014/EU európai parlamenti és tanácsi rendeletben meghatározott letelepedett szervezet által készített helyszíni szemlejegyzőkönyvet is.
 
 (3) A mentés vezetője köteles a szükséges segítséget megadni a rendelkezésére álló eszközökkel a bizonyítékok begyűjtéséhez, a nyomok rögzítéséhez és minden olyan mérés elvégzéséhez, amelyek a kárelhárítás során megváltozhatnak.
 
-(4) Amennyiben törvény eltérően nem rendelkezik, a vizsgálóbizottság vezetője a helyszíni vizsgálattal összefüggésben, a vizsgálat idejére jogosult – az esemény vizsgálatában érintett hatóságokkal egyeztetve – a helyszín környezetében lévő infrastruktúrán zajló forgalom, illetve tevékenység szükséges mértékű és időtartamú korlátozására vagy szüneteltetésére.
+(4) Ha törvény eltérően nem rendelkezik, a vizsgálóbizottság vezetője a helyszíni szemlével összefüggésben, a szemle idejére jogosult – az esemény vizsgálatában érintett hatóságokkal egyeztetve – az esemény helyszínének környezetében lévő infrastruktúrán zajló forgalom, illetve tevékenység szükséges mértékű és időtartamú korlátozásának vagy szüneteltetésének elrendelésére.
 
-(5) A helyszíni vizsgálat befejezését követően a le nem foglalt járművek, berendezések eltávolításáról az üzemben tartó (üzemeltető), annak hiányában a tulajdonos gondoskodik.
+(5) Az esemény helyszínére belépő, az esemény vizsgálatában érintett hatóságok és a mentésben részt vevő szervezetek kivételével valamennyi személynek rendelkeznie kell az általa végezhető tevékenység megnevezését tartalmazó irattal, továbbá jól látható helyen viselt, a nevét, funkcióját tartalmazó azonosítóval.
 
-(6) A helyszíni vizsgálatban részt vevő személyeket megfelelő védőruházattal, külön jogszabályban meghatározott kötelező védőoltásokkal és az azonosítást megkönnyítő jelzéssel, valamint a helyszíni szemle lefolytatásához megfelelő technikai felszereléssel kell ellátni.
+(6) A helyszíni szemle befejezését követően a le nem foglalt járművek, berendezések eltávolításáról az üzemben tartó, üzemeltető, annak hiányában a tulajdonos gondoskodik.
 
-(7) Az érintett üzemben tartó (üzemeltető) felelős vezetője a közlekedésbiztonsági szerv kérésére gondoskodik a közlekedési tevékenységgel kapcsolatos dokumentumok, okmányok összegyűjtéséről és elismervény ellenében azoknak a nyomokat rögzítő bizottság rendelkezésére bocsátásáról.
+(7) A helyszíni szemlén a közlekedésbiztonsági szerv részéről részt vevő személyeket megfelelő védőruházattal, a szükséges védőoltásokkal és az azonosítást megkönnyítő jelzéssel, valamint a helyszíni szemle lefolytatásához megfelelő technikai felszereléssel kell ellátni.
 
-(8) A meghatalmazott képviselők helyszínre történő érkezése nem késleltetheti a helyszíni szemle megkezdését és lefolytatását.
+(8) Az érintett üzemben tartó, üzemeltető vagy a 376/2014/EU európai parlamenti és tanácsi rendeletben meghatározott letelepedett szervezet felelős vezetője a közlekedésbiztonsági szerv felhívására gondoskodik a közlekedési tevékenységgel kapcsolatos dokumentumok, okmányok összegyűjtéséről és elismervény ellenében azoknak a vizsgálóbizottság rendelkezésére bocsátásáról.
+
+(9) A meghatalmazott képviselőknek az esemény helyszínére történő érkezése nem késleltetheti a helyszíni szemle megkezdését és lefolytatását.
 
 ### Adatrögzítők
 
@@ -317,7 +336,12 @@ látja el.
 
 (3) A nyomozó hatóság és a szabálysértési hatóság által lefoglalt bizonyítékoknak a vizsgálóbizottság által szükségesnek ítélt vizsgálata iránt – az érintett hatóságokkal egyeztetett módon – a vizsgálóbizottság vezetője intézkedik.
 
-(4) A közlekedési esemény szakmai vizsgálata során átvett vagy lefoglalt bármely járművet, berendezést és egyéb dolgot – ha arra a vizsgálat lefolytatásához már nincs szükség – az érintett hatóságokkal történt egyeztetést követően át kell adni a tulajdonosának, üzemben tartójának vagy az általuk kijelölt szerv, személy részére. Ha a jogosult a dolgot megfelelő határidő alatt felszólításra nem szállítja el, a közlekedésbiztonsági szerv – állami légijármű, honvédelmi és rendvédelmi célú vasúti jármű vagy úszólétesítmény kivételével – értékesítés és felhasználás tekintetében a jogalap nélküli birtoklás szabályai szerint jár el (Ptk. 5:12. §). Állami légijármű, honvédelmi és rendvédelmi célú vasúti jármű vagy úszólétesítmény tekintetében az üzemben tartó a jármű, berendezés és egyéb dolog átvételéről köteles intézkedni.
+(4) A közlekedési esemény szakmai vizsgálata során átvett vagy lefoglalt bármely járművet, berendezést és egyéb dolgot, ha arra a vizsgálat lefolytatásához már nincs szükség, át kell adni
+
+- a) a további vizsgálatot végző nyomozó vagy más hatóság részére, ha e hatóság azt szükségesnek tartja,
+- b) egyéb esetben a tulajdonosának, üzemben tartójának vagy az általuk kijelölt szervezet, személy részére, illetve amennyiben ezek nem ismertek, annak, akitől az lefoglalásra került.
+
+(5) Ha a jogosult a dolgot megfelelő határidő alatt felszólításra nem szállítja el, a közlekedésbiztonsági szerv – állami légijármű, honvédelmi és rendvédelmi célú vasúti jármű vagy úszólétesítmény kivételével – értékesítés és felhasználás tekintetében a jogalap nélküli birtoklás szabályai szerint jár el (Ptk. 5:12. §). Állami légijármű, honvédelmi és rendvédelmi célú vasúti jármű vagy úszólétesítmény tekintetében az üzemben tartó a jármű, berendezés és egyéb dolog átvételéről köteles intézkedni.
 
 ### A szakmai vizsgálatban részt vevő személyek
 
@@ -331,7 +355,7 @@ látja el.
 
 (2) A vizsgálóbizottság vezetőjének és kormánytisztviselő tagjainak a következő végzettséggel és képesítéssel kell rendelkezniük:
 
-- a) szakirányú felsőfokú iskolai végzettség és az érintett jármű szerinti szakterületen legalább öt év szakmai gyakorlat, valamint
+- a) szakirányú felsőfokú iskolai végzettség és az érintett szakterületen legalább öt év szakmai gyakorlat, valamint
 - b) a közlekedésbiztonsági szervnél elvégzett, vagy más közlekedésbiztonsági szervnél, képző szervnél, illetve nemzetközi szervezetnél elvégzett és a közlekedésbiztonsági szerv által elfogadott közlekedési balesetvizsgáló tanfolyam elvégzését igazoló irat.
 
 14. § A vasúti és víziközlekedési balesetekben vagy esemény során elhalálozott személyek hozzátartozóit, valamint sérültjeit a vizsgálatról és annak folyamatáról tájékoztatni kell, és lehetőséget kell biztosítani arra, hogy a vizsgálattal kapcsolatos álláspontjukat kifejthessék és a zárójelentés tervezetében szereplő adatokhoz megjegyzést fűzzenek.
@@ -376,9 +400,11 @@ látja el.
 
 (7) A meghatalmazott képviselő és a tanácsadó a vizsgálóbizottság vezetőjének hozzájárulása nélkül a szakmai vizsgálat előrehaladásáról és a feltárt adatokról információt senki részére nem adhat.
 
-(8) A kizárólag állami légijárművel bekövetkezett légiközlekedési balesettel, súlyos repülőeseménnyel, repülőeseménnyel vagy légiközlekedési rendellenességgel érintett járművet, infrastruktúrát tervező, gyártó, üzemben tartó, üzemeltető, lajstromozó állam katonai szakmai kivizsgáló szerve a közlekedésbiztonsági szerv felhívására a vizsgálóbizottság mellé, vagy amennyiben a közlekedésbiztonsági szerv meghatalmazott képviselő küldésére jogosult, az ő munkájának segítésére, tanácsadót delegálhat.
+(8) A kizárólag állami légijárművel bekövetkezett légiközlekedési balesettel, súlyos repülőeseménnyel, repülőeseménnyel érintett járművet, infrastruktúrát tervező, gyártó, üzemben tartó, üzemeltető, lajstromozó állam katonai szakmai kivizsgáló szerve a közlekedésbiztonsági szerv felhívására a vizsgálóbizottság mellé, vagy amennyiben a közlekedésbiztonsági szerv meghatalmazott képviselő küldésére jogosult, az ő munkájának segítésére, tanácsadót delegálhat.
 
 (9) A (8) bekezdésben megjelölt tanácsadó az EU-rendelet 8. cikk (2) bekezdésében meghatározott jogokat gyakorolhatja, továbbá biztosítja a vizsgálóbizottság által kért információkat, adatokat és felszereléseket, valamint köteles betartani az EU rendelet 14. cikkének érzékeny biztonsági információk védelmére vonatkozó rendelkezéseit.
+
+(10) A szakmai vizsgálat során, a közlekedésbiztonsági szerv megkeresése alapján az érintettek kötelesek a vizsgálóbizottsággal együttműködni. Az együttműködésre különösen a közlekedési és más hatóság, a jármű, az infrastruktúra, üzemben tartója, üzemeltetője, a járművet, annak tartozékait, vagy az infrastruktúrát gyártó, karbantartó, javító szervezet, továbbá a forgalom irányítását, tájékoztatását végző szervezet köteles. Az együttműködés keretében a szervezetek az esemény okainak felderítése érdekében szükséges adatokkal, vizsgálati eredményekkel, szakmai állásfoglalásokkal kötelesek segíteni a vizsgálóbizottság munkáját.
 
 15/A. § Az állami légijármű fegyverzeti, titkosító, felderítő berendezéseinek, valamint ezek okmányainak vizsgálatát a vizsgálóbizottság vezetője által kijelölt, arra jogosult személy végzi.
 
@@ -386,15 +412,16 @@ látja el.
 
 15/B. § (1) A vizsgálóbizottság vezetője a szakmai vizsgálat alapján elkészíti a zárójelentés tervezetét, és – amennyiben szükséges – annak részeként kidolgozza a javasolt biztonsági ajánlásokat és benyújtja a közlekedésbiztonsági szerv vezetőjének.
 
-(2) A vasúti és víziközlekedési balesetek és események kapcsán készült zárójelentés tervezetét a közlekedésbiztonsági szerv vezetője megküldi
+(2) A zárójelentés tervezetét a közlekedésbiztonsági szerv vezetője megküldi
 
-- a) a közlekedési hatóságoknak, a közlekedési balesetben vagy egyéb közlekedési eseményben érintett szakszemélyzetnek, az érintett szervezet vezetőjének,
-- b) a biztonsági ajánlások címzettjeinek és
-- c) a vizsgálatban részt vett államok balesetkivizsgáló szerveinek amelyre azok – a kézhezvételtől számított 60 napon belül – észrevételt tehetnek.
+- a) a közlekedési hatóságoknak, a közlekedési balesetben vagy egyéb közlekedési eseményben érintett szervezet vezetőjének és a közrehatása miatt érintett szakszemélyzetnek,
+- b) a biztonsági ajánlások címzettjének, és
+- c) a vizsgálatban részt vett állam, államok eseményvizsgáló szerveinek,
+- d) amennyiben a veszélyes áru jelenléte a baleset bekövetkeztében szerepet játszott, a hivatásos katasztrófavédelmi szervnek, amelyekre azok annak kézhezvételétől számított 60 napon belül észrevételt tehetnek.
 
 (2a) A (2) bekezdésben meghatározott határidőt kell alkalmazni a légiközlekedési baleset, a súlyos repülőesemény, a repülőesemény és a légiközlekedési rendellenesség kapcsán megküldött zárójelentés-tervezet esetében is.
 
-(3) Amennyiben a szakmai vizsgálatban részt vett államok balesetkivizsgáló szervei észrevételt tettek, a zárójelentés tervezetét át kell dolgozni. Ha az észrevételeiket nem veszik figyelembe, azokat mellékletként csatolni kell a zárójelentéshez a figyelmen kívül hagyás indokolásával együtt.
+(3) Amennyiben a szakmai vizsgálatban részt vett államok eseményvizsgáló szervei észrevételt tettek, a zárójelentés tervezetét át kell dolgozni. Ha az észrevételeiket nem veszik figyelembe, azokat mellékletként csatolni kell a zárójelentéshez a figyelmen kívül hagyás indokolásával együtt.
 
 (4) A közlekedésbiztonsági szerv vezetője a szakmai vizsgálat iratai és a rendelkezésre álló adatok alapján felülvizsgálja a zárójelentés tervezetét, amelynek során ellenőrzi, hogy a vizsgálatot az előírásoknak megfelelően folytatták-e le.
 
@@ -416,7 +443,7 @@ látja el.
 
 (6) A vasúti és víziközlekedési balesetek és események, valamint a kizárólag állami légijárművel bekövetkezett légiközlekedési balesetek, súlyos repülőesemények vagy repülőesemények kapcsán készült zárójelentést a közlekedésbiztonsági szerv köteles megküldeni a közlekedési balesetben vagy egyéb közlekedési eseményben érintetteknek, a biztonsági ajánlás címzettjeinek, valamint minden olyan szervezetnek, amely abból biztonsági szempontból hasznos következtetéseket vonhat le. A zárójelentést meg kell küldeni az e törvény végrehajtására kiadott miniszteri rendeletben meghatározott nemzetközi szervezeteknek, az Európai Bizottságnak és az Európai Vasúti Ügynökségnek.
 
-(7) A közlekedésbiztonsági szerv a zárójelentést – a légiközlekedési rendellenesség vizsgálatával kapcsolatban készített zárójelentés kivételével – honlapján közzéteszi.
+(7) A közlekedésbiztonsági szerv a zárójelentést a honlapján közzéteszi.
 
 (8) A vasúti vagy víziközlekedési balesetek és események kapcsán kibocsátott biztonsági ajánlások címzettjei a biztonsági ajánlás kézhezvételétől számított 90 napon belül írásban tájékoztatást adnak a közlekedésbiztonsági szervnek az ajánlások elfogadásáról, az ajánlás alapján tervezett, vagy megtett intézkedésükről bevezetésük határidejének megjelölésével, vagy egyet nem értésük esetén indoklással ellátva.
 
@@ -434,6 +461,10 @@ látja el.
 
 (15) Amennyiben a közlekedési baleset vagy az egyéb közlekedési esemény tárgyában indított szakmai vizsgálat lefolytatása a vizsgálat során felmerült objektív akadály miatt ellehetetlenül, a közlekedésbiztonsági szerv vezetője a zárójelentést zárójelentés-tervezet készítése nélkül adja ki.
 
+### Tematikus vizsgálat
+
+16/A. § A közlekedésbiztonsági szerv a közlekedésbiztonság javítása és a balesetek megelőzése érdekében, a közlekedési balesetek vagy egyéb közlekedési események bejelentése, vagy a szakmai vizsgálat, vizsgálatok során tudomására jutott információk alapján, egy témakör alaposabb vizsgálatára kiterjedő tematikus vizsgálatot indíthat. A tematikus vizsgálat zárójelentése biztonsági ajánlást tartalmazhat. A tematikus vizsgálat kizárólag hivatalból indulhat meg és egyebekben a szakmai vizsgálat szabályai vonatkoznak rá.
+
 ### IV. Fejezet — A KÖZLEKEDÉSBIZTONSÁGI SZERV ADATKEZELÉSE
 
 17. § A közlekedésbiztonsági szerv a 7. § (1) bekezdésében és az EU-rendeletben foglalt feladatának ellátása céljából a közlekedési baleset és az egyéb közlekedési esemény szakmai vizsgálatához elengedhetetlenül szükséges mértékben az alábbi adatok kezelésére jogosult:
@@ -441,7 +472,7 @@ látja el.
 - a) a közlekedési balesetben vagy egyéb közlekedési eseményben érintett jármű személyzete tagjainak, az érintett jármű, infrastruktúra üzemeltetésében, karbantartásában, kiszolgálásában részt vevő vagy forgalmi irányítását, tájékoztatását ellátó személy
   - aa) családi és utóneve, születési családi és utóneve, állampolgársága, születési helye, ideje, lakcíme, értesítési címe,
   - ab) képzettsége, szakmai gyakorlata, szakmai jogosultsága, az esemény idején betöltött szolgálati beosztása,
-  - ac) egészségi állapotára vonatkozó különleges adat,
+  - ac) egészségi állapotára vonatkozó, valamint feladatainak ellátásával összefüggő egészségügyi vizsgálatával kapcsolatos különleges adat,
   - ad) az eseménnyel összefüggésbe hozható, kóros szenvedélyére vonatkozó adatok,
   - ae) egyéb olyan, fizikális vagy mentális jellemzői, amelyek a vizsgált közlekedési baleset, illetve egyéb közlekedési esemény bekövetkezéséhez hozzájárulhattak,
   - af) az esemény bekövetkeztekor, illetve azt közvetlenül megelőzően folytatott telefonforgalmának ténye;
@@ -463,9 +494,9 @@ látja el.
 
 (6) A közlekedésbiztonsági szerv kormánytisztviselője és a vizsgálóbizottság más tagja köteles megőrizni és más hatóság számára nem köteles hozzáférhetővé tenni a szakmai vizsgálat során tudomására jutott adatot, amely tekintetében az adat birtokosa az adatközlést jogszabály alapján megtagadhatta volna.
 
-18/A. § Az állami légijárművel bekövetkezett légiközlekedési baleset, súlyos repülőesemény, repülőesemény vagy légiközlekedési rendellenesség tekintetében a közlekedésbiztonsági szerv a nemzetbiztonsági és a honvédelmi érdekekre figyelemmel ad tájékoztatást a sajtó részére.
+18/A. § Az állami légijárművel bekövetkezett légiközlekedési baleset, súlyos repülőesemény, repülőesemény tekintetében a közlekedésbiztonsági szerv a nemzetbiztonsági és a honvédelmi érdekekre figyelemmel ad tájékoztatást a sajtó részére.
 
-18/B. § A közlekedésbiztonsági szerv vezetője az állami légijárművel bekövetkezett légiközlekedési balesettel, súlyos repülőeseménnyel, repülőeseménnyel vagy légiközlekedési rendellenességgel összefüggésben feladat- és hatáskörében minősítésre jogosult.
+18/B. § A közlekedésbiztonsági szerv vezetője az állami légijárművel bekövetkezett légiközlekedési balesettel, súlyos repülőeseménnyel, repülőeseménnyel összefüggésben feladat- és hatáskörében minősítésre jogosult.
 
 ### V. Fejezet — NEMZETKÖZI EGYÜTTMŰKÖDÉS
 
@@ -484,7 +515,7 @@ látja el.
 
 (3) Amennyiben a közlekedési balesetben vagy az egyéb közlekedési eseményben külföldi úszólétesítmény, vagy vasúti jármű érintett, a közlekedésbiztonsági szerv az érintett állam közlekedési baleseteket vizsgáló szervezetét a vizsgálatba a 15. § rendelkezései szerint bevonja, kivéve, ha a szervezet a vizsgálatban nem kíván részt venni. Ez utóbbi esetben a közlekedésbiztonsági szerv a vizsgálat eredményéről az érintett állam baleseteket vizsgáló szervezetét a zárójelentés megküldésével tájékoztatja.
 
-(4) Nemzetközi szerződésben foglaltak alapján a közlekedésbiztonsági szerv a külföldön történt légiközlekedési balesetek kivizsgálásával megbízhatja egy másik állam balesetkivizsgáló szervét is.
+(4) Nemzetközi szerződésben foglaltak alapján a közlekedésbiztonsági szerv a külföldön történt légiközlekedési balesetek kivizsgálásával megbízhatja egy másik állam eseményvizsgáló szervét is.
 
 (5) Az 1. § (2) bekezdésében meghatározott esetben a légiközlekedési baleset és a súlyos repülőesemény szakmai vizsgálatát, a szakmai vizsgálat valamely részét a közlekedésbiztonsági szerv vezetője indokolt esetben a Nemzetközi Polgári Repülési Szervezetnek (ICAO) átadhatja.
 
@@ -530,7 +561,7 @@ látja el.
 - b) 15 méternél rövidebb halászhajó;
 - c) rögzített nyílt tengeri fúróberendezés.
 
-(3) Ha a közlekedésbiztonsági szerv a 7. § (1) bekezdés d) pontja alapján a tengeri súlyos víziközlekedési baleset kapcsán nem indít vizsgálatot, ennek indokairól az EMCIP adatbázison keresztül értesíti az Európai Bizottságot.
+(3) Ha a közlekedésbiztonsági szerv a 7. § (1) bekezdés d) pontja alapján a tengeri víziközlekedési baleset kapcsán nem indít vizsgálatot, ennek indokairól az EMCIP adatbázison keresztül értesíti az Európai Bizottságot.
 
 (4) A szakmai vizsgálatot a tengeri víziközlekedési baleset vagy tengeri víziközlekedési esemény bekövetkezése után a kivitelezhetőség függvényében haladéktalanul – de legkésőbb a bekövetkezését követő két hónapon belül – meg kell kezdeni.
 
@@ -566,12 +597,13 @@ látja el.
 
 ### VI/A. Fejezet — BÍRSÁG
 
-20/A. § (1) Aki az EU-rendelet, valamint e törvény rendelkezéseit megszegve – a katonai célú állami légiközlekedés kivételével –
+20/A. § (1) Aki az EU-rendelet, a 376/2014/EU európai parlamenti és tanácsi rendelet, valamint e törvény rendelkezéseit megszegve – a katonai célú állami légiközlekedés kivételével –
 
 - a) az EU-rendelet 14. cikke szerinti védelem alatt álló információt közzétesz,
 - b) a vizsgálatot végzők munkáját akadályozza,
 - c) bizonyítékok, lényeges információk vagy dokumentumok átadását megtagadja, azokat elrejti, megváltoztatja vagy megsemmisíti, vagy
-- d) a közlekedési baleset vagy egyéb közlekedési esemény bejelentésére vonatkozó kötelezettségét elmulasztja természetes személy esetén 1 000 000 Ft-ig, jogi személy vagy jogi személyiséggel nem rendelkező szervezet esetén 20 000 000 Ft-ig terjedő bírság szabható ki.
+- d) a közlekedési baleset vagy egyéb közlekedési esemény bejelentésére vonatkozó kötelezettségét elmulasztja,
+- e) a 376/2014/EU európai parlamenti és tanácsi rendelet 4. cikk (2) bekezdésében a jelentéstételi rendszer létrehozására, a 6. cikk (1) és (5) bekezdésében a jelentések kezelésére, a 13. cikk (1)–(4) bekezdésében az események elemzésére, a 16. cikk (2) és (11) bekezdésében az információk védelmére vonatkozó kötelezettségét elmulasztja azzal szemben természetes személy esetén 1 000 000 Ft-ig, jogi személy vagy jogi személyiséggel nem rendelkező szervezet esetén 20 000 000 Ft-ig terjedő bírság szabható ki.
 
 (1a) Az (1) bekezdésben meghatározott jogsértő magatartások elkövetésekor víziközlekedési esemény és víziközlekedési baleset esetén természetes személlyel szemben legfeljebb 50 000 forintig, jogi személlyel és jogi személyiséggel nem rendelkező szervezettel szemben legfeljebb 200 000 forintig terjedő bírság szabható ki.
 
@@ -585,11 +617,15 @@ látja el.
 
 (3) A szakmai vizsgálat során a bírság ismételten is kiszabható.
 
-(4) A bírság összegét a bírságot kiszabó határozat közlésétől számított 30 napon belül a közlekedésbiztonsági szerv által rendelkezésre bocsátott postai feladóvevényen vagy átutalással kell közlekedésbiztonsági szerv Magyar Államkincstárnál vezetett előirányzat-felhasználási keretszámlájára igazoltan befizetni.
+(4)–(6)
 
-(5) A bírságból befolyt összeget a közlekedésbiztonsági szerv elkülönítetten kezeli és a beszedett bírságokról nyilvántartást vezet.
+20/B. § (1) A bírságot a 20/A. § (1)–(1a) bekezdésében meghatározott legmagasabb összegre, valamint a 20/A. § (2) bekezdésében foglalt szempontokra tekintettel, ezer forintra kerekítéssel kell megállapítani.
 
-(6) A bírság kiszabására és végrehajtására egyebekben a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
+(2) A bírság kiszabásáról rendelkező határozatnak a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben foglaltakon túl tartalmaznia kell annak az előirányzat-felhasználási keretszámlának a számát, amelyre a fizetést teljesíteni kell.
+
+(3) A bírság összegét a bírságot kiszabó határozat közlésétől számított 30 napon belül kell megfizetni.
+
+(4) A bírság kiszabására és végrehajtására egyebekben a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
 
 ### VII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -610,28 +646,28 @@ látja el.
 22. § (1) Felhatalmazást kap a miniszter, hogy
 
 - a) súlyos vasúti balesetek, a vasúti balesetek és váratlan vasúti események szakmai vizsgálatának, a vizsgálatban résztvevők szakmai képzettségére, az oktatásra és vizsgáztatásra vonatkozó részletes szabályait,
-- b) a légiközlekedési balesetek, a repülőesemények és légiközlekedési rendellenességek szakmai vizsgálatának, a vizsgálatban résztvevők szakmai képzettségére, az oktatásra és vizsgáztatásra vonatkozó részletes szabályait,
+- b) a légiközlekedési balesetek, a repülőesemények szakmai vizsgálatának, a vizsgálatban résztvevők szakmai képzettségére, az oktatásra és vizsgáztatásra vonatkozó részletes szabályait,
 - c) a víziközlekedési balesetek és a víziközlekedési események vizsgálatának, a vizsgálatban résztvevők szakmai képzettségére, az oktatásra és vizsgáztatásra vonatkozó részletes szabályait,
 - d) az üzembentartói vizsgálat részletes szabályait
 
 rendeletben állapítsa meg.
 
-(2) Felhatalmazást kap a miniszter, hogy a honvédelemért felelős miniszter és a rendészetért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a kizárólag állami légijárművel bekövetkezett légiközlekedési balesetek, repülőesemények és légiközlekedési rendellenességek szakmai vizsgálatának részletes szabályait, valamint a kizárólag állami légijárművel összefüggő üzembentartói vizsgálat szabályait.
+(2) Felhatalmazást kap a miniszter, hogy a honvédelemért felelős miniszter és a rendészetért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a kizárólag állami légijárművel bekövetkezett légiközlekedési balesetek, repülőesemények szakmai vizsgálatának részletes szabályait, valamint a kizárólag állami légijárművel összefüggő üzembentartói vizsgálat szabályait.
 
-(3) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a miniszter, a rendészetért felelős miniszter és a Nemzeti Adó- és Vámhivatal felügyeletét ellátó miniszter egyetértésével kiadott rendeletben állapítsa meg a kizárólag a honvédség, illetve a rendvédelmi szervek, valamint a vámhatóság úszólétesítményeivel való közlekedés során bekövetkezett súlyos víziközlekedési balesetek és rendkívüli hajózási események szakmai vizsgálatának részletes szabályait.
+(3) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a miniszter, a rendészetért felelős miniszter és a Nemzeti Adó- és Vámhivatal felügyeletét ellátó miniszter egyetértésével kiadott rendeletben állapítsa meg a kizárólag a honvédség, illetve a rendvédelmi szervek, valamint a vámhatóság úszólétesítményeivel való közlekedés során bekövetkezett víziközlekedési balesetek és rendkívüli hajózási események szakmai vizsgálatának részletes szabályait.
 
 (4) Felhatalmazást kap a Kormány, hogy a közlekedésbiztonsági szervet vagy szerveket rendeletben jelölje ki.
 
 23. § (1) Ez a törvény a következő uniós aktusoknak való megfelelést szolgálja:
 
 - a)
-- b) az Európai Parlament és a Tanács 2003/42/EK irányelve (2003. június 13.) a polgári repülésben előforduló események jelentéséről, az I. és II. melléklet kivételével;
+- b)
 - c) az Európai Parlament és a Tanács 2004/49/EK irányelve (2004. április 29.) a közösségi vasutak biztonságáról, valamint a vasúttársaságok engedélyezéséről szóló 95/18/EK tanácsi irányelv és a vasúti infrastruktúra-kapacitás elosztásáról, továbbá a vasúti infrastruktúra használati díjának felszámításáról és a biztonsági tanúsítványról szóló 2001/14/EK irányelv módosításáról, 3. cikk j)–o) pont, 19–25. cikk;
 - d) a víziközlekedésről szóló 2000. évi XLII. törvénnyel együtt, a tengeri szállítási ágazatban bekövetkező balesetek kivizsgálására irányadó alapelvek megállapításáról, valamint az 1999/35/EK tanácsi és a 2002/59/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2009. április 23-i 2009/18/EK európai parlamenti és tanácsi irányelv, az I. és II. melléklet kivételével.
 
 (2) Ez a törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg:
 
-- a) a Bizottság 1321/2007/EK rendelete (2007. november 12.) a polgári légiközlekedési eseményekre vonatkozó, a 2003/42/EK európai parlamenti és tanácsi irányelv szerint cserélt információk központi adattárba történő rendezésével kapcsolatos végrehajtási szabályok meghatározásáról;
-- b) a Bizottság 1330/2007/EK rendelete (2007. szeptember 24.) a polgári légiközlekedési eseményekre vonatkozó információnak az érdekelt felekkel történő, a 2003/42/EK irányelv 7. cikkének (2) bekezdése szerinti terjesztésére vonatkozó végrehajtási szabályok meghatározásáról.
+- a) Az Európai Parlament és a Tanács 376/2014/EU rendelete (2014. április 3.) a polgári légi közlekedési események jelentéséről, elemzéséről és nyomon követéséről, valamint a 996/2010/EU európai parlamenti és tanácsi rendelet módosításáról és a 2003/42/EK európai parlamenti és tanácsi irányelv, valamint az 1321/2007/EK bizottsági rendelet és az 1330/2007/EK bizottsági rendelet hatályon kívül helyezéséről;
+- b)
 - c) a légiközlekedésről szóló 1995. évi XCVII. törvénnyel együtt, a polgári légiközlekedési balesetek és repülőesemények vizsgálatáról és megelőzéséről és a 94/56/EK irányelv hatályon kívül helyezéséről szóló, 2010. október 20-i 996/2010/EU európai parlamenti és tanácsi rendelet;
 - d) a tengeri balesetek és események kivizsgálására szolgáló, a 2009/18/EK európai parlamenti és tanácsi rendelet 5. cikkének (4) bekezdése szerint kidolgozott közös módszertan elfogadásáról szóló, 2011. december 9-i 1286/2011/EU bizottsági rendelet.
