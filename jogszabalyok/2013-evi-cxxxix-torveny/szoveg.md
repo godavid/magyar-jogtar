@@ -607,6 +607,8 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 
 (17) Az MNB a 39. § (1) bekezdés m) pontjában meghatározott feladatai során ellátja a hatáskörrel rendelkező hatóságok által az Európai Értékpapír-piaci Hatóság számára a 2011/61/EU európai parlamenti és tanácsi irányelv 67. cikkének (3) bekezdése alkalmazásában a benyújtandó információkról szóló, 2014. december 18-i a Bizottság (EU) 2015/514 felhatalmazáson alapuló rendelete végrehajtásából eredő feladatokat.
 
+(18) Az MNB a 39. § (1) bekezdés m) pontjában meghatározott feladatai során ellátja az európai hosszú távú befektetési alapokról szóló, 2015. április 29-i 760/2015/EU parlamenti és tanácsi rendelet végrehajtását.
+
 41. § (1) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló, 2004. október 27-i 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtását
 
 - a) a fogyasztói hitelmegállapodásokról és a 87/102/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2008 április 23-i. 2008/48/EK európai parlamenti és tanácsi irányelvet,
@@ -790,7 +792,7 @@ folytat le.
 - b) a hatósági eljárásban érintett – nem természetes személy – ügyfél nevét és székhelyét, és
 - c) a döntés rendelkező részét, ide nem értve jogerős döntés esetén a jogorvoslatról szóló tájékoztatást.
 
-(1a) Az (1) bekezdésben meghatározottakat meghaladóan az MNB a Hpt. 185. § és 189–192. § és a Bszt. 164. § alapján hozott, (1) bekezdés szerint közzétett, jogerős határozatában megjelöli a jogsértő természetes személy nevét is.
+(1a) Az (1) bekezdésben meghatározottakat meghaladóan az MNB a Hpt. 185. § és 189–192. §, a Tpt. 400. § (1) bekezdés o) pont 2. alpont, a Tpt. 400. § (1) bekezdés w) pont és a Bszt. 164. § alapján hozott, (1) bekezdés szerint közzétett, jogerős határozatában megjelöli a jogsértő természetes személy nevét is.
 
 (2) Az MNB az (1) bekezdés szerinti közzététel során tisztség betöltését engedélyező határozat esetén az (1) bekezdésben meghatározottakon túl a tisztségviselő családi- és utónevét is közzéteszi honlapján.
 
@@ -798,15 +800,15 @@ folytat le.
 
 (3a) Az (1) bekezdésében meghatározott közzétételi kötelezettség a fogyasztóvédelmi ellenőrzési eljárásban hozott döntések közül kizárólag a hivatalból indított fogyasztóvédelmi eljárásokban hozott, intézkedést tartalmazó határozatokra, a piacfelügyeleti eljárásban hozott döntések közül kizárólag az intézkedést tartalmazó határozatokra terjed ki.
 
-(4) Az MNB anonim módon teszi közzé a Hpt.-ben és Bszt.-ben meghatározott intézkedésről vagy kivételes intézkedésről, valamint a pénzbírságról hozott határozatát, ha a nyilvánosságra hozatal
+(4) Az MNB anonim módon teszi közzé a Hpt.-ben, a Tpt.-ben és a Bszt.-ben meghatározott intézkedésről vagy kivételes intézkedésről, valamint a pénzbírságról hozott határozatát, ha a nyilvánosságra hozatal
 
 - a) aránytalan a természetes személy által elkövetett jogsértéshez képest,
-- b) aránytalan veszteséget okoz a természetes és jogi személyekre nézve, vagy
-- c) veszélyezteti valamely folyamatban lévő bűnügyi nyomozás sikerességét.
+- b) aránytalan hátrányt okoz a természetes és jogi személyekre nézve, vagy
+- c) veszélyezteti valamely folyamatban lévő büntetőeljárás sikerességét.
 
-(5) Az MNB mérlegelése alapján a Hpt.-ben és a Bszt.-ben meghatározott intézkedésről vagy kivételes intézkedésről, pénzbírságról hozott határozat közzététele elhalasztható, ha a jogsértő magatartás várhatóan rövid időn (legfeljebb 30 napon) belül megszűnik, és a jogsértés nem veszélyezteti a jogi személy biztonságos működését, ügyfeleinek védelmét, valamint a pénzügyi közvetítőrendszer stabilitását.
+(5) Az MNB mérlegelése alapján a Hpt.-ben, a Tpt.-ben és a Bszt.-ben meghatározott intézkedésről vagy kivételes intézkedésről, pénzbírságról hozott határozat közzététele legfeljebb 30 napra elhalasztható, ha a jogsértő magatartás várhatóan rövid időn (legfeljebb 30 napon) belül megszűnik, és a jogsértés nem veszélyezteti a jogi személy biztonságos működését, ügyfeleinek védelmét, valamint a pénzügyi közvetítőrendszer stabilitását.
 
-(6) Az MNB a Hpt.-ben és a Bszt.-ben meghatározott intézkedésekről és kivételes intézkedésekről, pénzbírságról hozott határozatát legalább 5 évig és legfeljebb 10 évig nyilvántartja a honlapján.
+(6) Az MNB a Hpt.-ben, a Tpt.-ben és a Bszt.-ben meghatározott intézkedésekről és kivételes intézkedésekről, pénzbírságról hozott határozatát legalább 5 évig és legfeljebb 10 évig elérhetővé teszi a honlapján.
 
 53/A. § (1) A Ket. hatósági jogkörben hozott döntés hivatalból való módosítására és visszavonására vonatkozó rendelkezéseit a (2) bekezdésben meghatározott eltéréssel kell alkalmazni.
 
@@ -1029,7 +1031,7 @@ végez.
 
 70. § (1) Az MNB a 69. § (4) bekezdése alapján megtett észrevétel kézhezvételétől vagy a határidő eredménytelen elteltétől számított hatvan napon belül hoz döntést. Ez a határidő indokolt esetben, egy alkalommal, legfeljebb harminc nappal meghosszabbítható.
 
-(2) Az MNB a 69. § (4) bekezdése alapján megtett észrevétel kézhezvételétől vagy a határidő eredménytelen elteltétől számított tizenöt napon belül hoz döntést. Ez a határidő indokolt esetben, egy alkalommal, legfeljebb nyolc nappal meghosszabbítható.
+(2)
 
 (3) Rendkívüli célvizsgálat esetén – különösen indokolt esetben – az MNB a 69. § (4) bekezdésben meghatározott észrevétel beérkezését megelőzően is hozhat döntést, feltéve, ha ezt a rendkívüli célvizsgálat alapjául szolgáló jogsértés hatásainak enyhítésére vagy kiküszöbölésére szolgáló halaszthatatlan intézkedés megtétele indokolja.
 
@@ -1110,6 +1112,17 @@ rendelhet ki.
 (6) A kiszabható bírság mértéke a Hpt. 184. §-ában és a Bszt. 164. §-ában meghatározott szabálysértés esetén az engedély nélkül befolyásoló részesedést szerző természetes személy, valamint betétgyűjtést vagy más visszafizetendő pénzeszköz gyűjtését végző természetes személy esetében 1 467 550 000 Ft, de legfeljebb a jogsértésből származó haszon vagy elkerült veszteség – ha meghatározható – kétszereséig terjed.
 
 (7) A pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény 14/A. §-ában, 36/A. § (1)–(3) bekezdésében és 36/B. §-ában a pénzforgalmi szolgáltató számára előírt kötelezettség megszegése, elkerülése, elmulasztása, késedelmes vagy hiányos teljesítése esetén az MNB a 88. §-ban meghatározott jogkövetkezményeket alkalmazza.
+
+(8) A Tpt. 400. § (1) bekezdés w) pont 3. alpontjában foglalt bírság mértéke
+
+- a) vállalkozás esetében
+  - aa) legfeljebb 2 984 800 000 forint vagy a döntéshozó szerv által legutoljára jóváhagyott éves beszámoló szerinti éves árbevétel legfeljebb 5%-a azzal, hogy ha a vállalkozás anyavállalat vagy anyavállalat olyan leányvállalata, amelyik a számviteli jogszabályok alapján konszolidált beszámoló készítésére kötelezett, akkor a figyelembe veendő éves árbevétel a legutolsó, az anyavállalat döntéshozó szerve által jóváhagyott konszolidált beszámoló szerinti éves árbevétel vagy a számviteli jogszabályok szerinti, annak megfelelő bevétel vagy
+  - ab) a jogsértésből származó nyereség vagy az amiatt elkerült veszteség összegének legfeljebb kétszerese,
+- b) természetes személy esetében
+  - ba) legfeljebb 596 960 000 forint vagy
+  - bb) a jogsértésből származó nyereség vagy az amiatt elkerült veszteség összegének legfeljebb kétszerese.
+
+(9) A (8) bekezdésben foglalt összegek közül minden esetben a magasabb összeget kell alkalmazni.
 
 77. § (1) A bírságot a kiszabásáról hozott döntés jogerőre emelkedésétől számított harminc napon belül kell a döntésben megjelölt számlára befizetni.
 
@@ -2609,7 +2622,8 @@ azzal, hogy 2019. január 1-jétől az anticiklikus tőkepufferrátát a 33. §-
 - u) a Bizottság 447/2013/EU végrehajtási rendelete (2013. május 15.) a 2011/61/EU európai parlamenti és tanácsi irányelv önkéntes alkalmazását választó ABAK-okra vonatkozó eljárás létrehozásáról,
 - v) a Bizottság 448/2013/EU végrehajtási rendelete (2013. május 15.) a nem uniós ABAK-ok referencia-tagállamának a 2011/61/EU európai parlamenti és tanácsi irányelv szerinti meghatározását szolgáló eljárás létrehozásáról,
 - x) az Európai Parlament és a Tanács 2009. november 25-i 2009/138/EK irányelve a biztosítási és viszontbiztosítási üzleti tevékenység megkezdéséről és gyakorlásáról (Szolvencia II),
-- y) az Európai Parlament és a Tanács 2014. április 16-i 2014/51/EU irányelve a 2003/71/EK és a 2009/138/EK irányelvnek, valamint az 1060/2009/EK, az 1094/2010/EU és az 1095/2010/EU rendeletnek az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíjhatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról.
+- y) az Európai Parlament és a Tanács 2014. április 16-i 2014/51/EU irányelve a 2003/71/EK és a 2009/138/EK irányelvnek, valamint az 1060/2009/EK, az 1094/2010/EU és az 1095/2010/EU rendeletnek az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíjhatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról,
+- z) az Európai Parlament és a Tanács 760/2015/EU rendelete (2015. április 29.) az európai hosszú távú befektetési alapokról.
 
 186. § (1) A 24. § (1) bekezdés a) pontja a hamispénz-figyelő rendszerhez (CMS) való csatlakozás egyes feltételeiről szóló, 2001. november 8-i EKB/2001/11 európai központi banki határozatnak való megfelelést szolgálja.
 

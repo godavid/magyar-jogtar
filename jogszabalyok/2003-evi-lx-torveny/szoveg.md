@@ -3686,11 +3686,11 @@ szükséges engedélyezési eljárásokkal kapcsolatos feladatokat.
 
 (2) A teljes vagy részleges belső modell alkalmazására vonatkozó kérelem elbírálására az ügyintézési határidő hat hónap.
 
-(3) A Felügyelet az (1) bekezdésben meghatározott engedélyezési eljárások lefolytatása során a biztosítók és a viszontbiztosítók szavatolótőkéjéről és biztosítástechnikai tartalékairól szóló kormányrendeletben meghatározott szabályok alapján, a Bizottságnak a Szolvencia 2 irányelv 86. cikk (1) bekezdés a)–d) pontjában és az f)–i) pontjában, a 99. cikkében, a 111. cikk (1) bekezdés a)–q) pontjában és a 127. cikkében meghatározott tárgykörben kiadott rendeletében megállapított szabályokkal együtt alkalmazva jár el.
+(3) A Felügyelet az (1) bekezdésben meghatározott engedélyezési eljárások lefolytatása során a biztosítók és a viszontbiztosítók szavatolótőkéjéről és biztosítástechnikai tartalékairól szóló kormányrendeletben meghatározott szabályok alapján, a Bizottságnak a Szolvencia 2 irányelv 86. cikk (1) bekezdés a)–d) pontjában, a 99. cikkében, a 111. cikk (1) bekezdés a)–q) pontjában és a 127. cikkében meghatározott tárgykörben kiadott rendeletében megállapított szabályokkal együtt alkalmazva jár el.
 
 231/I. § (1) A Felügyelet 2015. április 1-jétől ellátja a különleges célú gazdasági egység létrehozásához szükséges engedélyezési eljárásokkal kapcsolatos feladatokat.
 
-(2) A Felügyelet az (1) bekezdésben meghatározott engedélyezési eljárások lefolytatása során – a Bizottságnak a Szolvencia 2 irányelv 211. cikk (2) bekezdés a)–g) pontjában meghatározott tárgykörben kiadott rendeletében megállapított szabályokkal együtt alkalmazva – a különleges célú gazdasági egységek létrehozásáról és működéséről szóló kormányrendeletben meghatározott szabályok alapján jár el.
+(2) A Felügyelet az (1) bekezdésben meghatározott engedélyezési eljárások lefolytatása során – a Bizottságnak a Szolvencia 2 irányelv 211. cikk (2) bekezdés a)–g) pontjában meghatározott tárgykörben kiadott rendeletében megállapított szabályok alapján jár el.
 
 (3) E § alkalmazásában különleges célú gazdasági egység: olyan biztosítónak vagy viszontbiztosítónak nem minősülő vállalkozás, amely jogosult átvállalni a kockázatot a biztosítóktól és viszontbiztosítóktól, és amely teljes mértékben viseli a kockázat költségterheit egy hitelviszonyt megtestesítő értékpapír kibocsátásból származó bevételből vagy valamilyen más finanszírozási mechanizmus által.
 
@@ -3718,6 +3718,17 @@ vonatkozó felügyeleti feladatokat.
 kapcsolatos feladatokat.
 
 (3) Az (1)–(2) bekezdésben meghatározott felügyeleti feladatok és eljárások során a Felügyelet a csoportfelügyelettel kapcsolatos átmeneti felügyeleti feladatokról szóló kormányrendeletben meghatározott szabályok alapján jár el.
+
+231/K. § (1) A Felügyelet ellátja
+
+- a) az időtartam-alapú részvénypiaci kockázati részmodul használatához,
+- b) a releváns kockázatmentes hozamgörbéhez történő illeszkedési korrekció használatához,
+- c) a kockázatmentes hozamgörbére vonatkozó átmeneti intézkedések használatához,
+- d) a biztosítástechnikai tartalékokra vonatkozó átmeneti intézkedések használatához
+
+szükséges engedélyezési eljárásokkal kapcsolatos feladatokat.
+
+(2) A Felügyelet az (1) bekezdésben meghatározott engedélyezési eljárások lefolytatása során a biztosítók és a viszontbiztosítók szavatolótőkéjéről és biztosítástechnikai tartalékairól szóló kormányrendeletben meghatározott szabályok alapján, a Bizottságnak a Szolvencia 2 irányelv 86. cikk (1) bekezdés f)–i) pontjában meghatározott tárgykörben kiadott rendeletében megállapított szabályokkal együtt alkalmazva jár el.
 
 ### Módosuló jogszabályok
 
