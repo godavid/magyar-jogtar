@@ -86,6 +86,7 @@ a kollektív befektetési formákról és kezelőikről, valamint egyes pénzüg
 - 26. cél-ÁÉKBV: olyan ÁÉKBV vagy annak egy olyan részalapja, amely legalább egy gyűjtő-ÁÉKBV befektetővel rendelkezik, míg ő maga nem gyűjtő-ÁÉKBV és nem rendelkezik a gyűjtő-ÁÉKBV kollektív befektetési értékpapírjaival;
 - 27. dotációs tőke: a fióktelep létesítéséhez és működéséhez az alapító által tartósan, korlátlanul, tehermentesen a fióktelep szabad rendelkezésére bocsátott tőke;
 - 28. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam;
+- 28a. EHTBA: az európai hosszú távú befektetési alapokról szóló, 2015. április 29-i 760/2015/EU parlamenti és tanácsi rendelettel összhangban engedélyezett ABA;
 - 29. ellenőrző befolyás: a Hpt.-ben meghatározott fogalom;
 - 30. ESZVA: minősített szociális vállalkozási alap;
 - 31. EuVECA: minősített kockázatitőke-alap;
@@ -2883,7 +2884,8 @@ van összefüggésben.
 - d) az Európai Parlament és Tanács 2013. április 17-i az európai kockázatitőke-alapokról szóló 345/2013/EU rendeletének,
 - e) az Európai Parlament és Tanács 2013. április 17-i az európai szociális vállalkozási alapokról szóló 346/2013/EU rendeletének,
 - f) a Bizottság 2013. május 15-i a 2011/61/EU európai parlamenti és tanácsi irányelv önkéntes alkalmazását választó ABAK-okra vonatkozó eljárás létrehozásáról szóló 447/2013/EU végrehajtási rendeletének,
-- g) a Bizottság 2013. május 15-i a nem uniós ABAK-ok referencia-tagállamának a 2011/61/EU európai parlamenti és tanácsi irányelv szerinti meghatározását szolgáló eljárás létrehozásáról szóló 448/2013/EU végrehajtási rendeletének végrehajtásához szükséges rendelkezéseket állapít meg.
+- g) a Bizottság 2013. május 15-i a nem uniós ABAK-ok referencia-tagállamának a 2011/61/EU európai parlamenti és tanácsi irányelv szerinti meghatározását szolgáló eljárás létrehozásáról szóló 448/2013/EU végrehajtási rendeletének,
+- h) az Európai Parlament és Tanács 2015. április 29-i az európai hosszú távú befektetési alapokról szóló 760/2015/EU rendeletének végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### Módosító rendelkezések
 
