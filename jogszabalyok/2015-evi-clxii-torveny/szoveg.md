@@ -4,263 +4,40 @@ egyes tőkepiaci és biztosítási tárgyú törvények módosításáról
 
 #### 1. A tőkepiacról szóló 2001. évi CXX. törvény módosítása
 
-1. § A tőkepiacról szóló 2001. évi CXX. törvény (a továbbiakban: Tpt.) 5. § (1) bekezdés 140. pontja helyébe a következő rendelkezés lép:
+1–4. §
 
-(E törvény és az e törvény felhatalmazása alapján kiadott jogszabályok alkalmazásában)
-
-„140. székhely szerinti tagállam:
-
-a) szabályozott piac esetében az a tagállam, amelyben a szabályozott piac létesítő okirat szerinti székhelye található, vagy ha a nemzeti jog szerint nem rendelkezik létesítő okirat szerinti székhellyel, az a tagállam, amelyben a központi irodája található,
-
-b) az V. Fejezetben foglaltak alkalmazásában
-
-ba) az 1000 eurónál, illetve a forgalomba hozatal napján az MNB által közzétett hivatalos devizaárfolyamon számítva ennek megfelelő összegnél kisebb egységnyi névértékű hitelviszonyt megtestesítő értékpapírok kibocsátója vagy részvények kibocsátója esetében:
-
-baa) az a tagállam, amelyben a kibocsátó létesítő okirat szerinti székhelye van, vagy
-
-bab) ha a kibocsátó egy harmadik országban székhellyel rendelkező vállalkozás, a kibocsátó által azon tagállamok közül kiválasztott tagállam, amelyekben értékpapírjait szabályozott piacra bevezették,
-
-bb) a ba) alpont hatálya alá nem tartozó bármely kibocsátó esetében a kibocsátó által azon tagállamok közül kiválasztott tagállam, amelyben a kibocsátónak a létesítő okirat szerinti székhelye van, vagy amelyekben értékpapírjait szabályozott piacra bevezették,
-
-bc) ha a kibocsátó értékpapírjaival a bab) alpont vagy a bb) alpont szerint meghatározott székhely szerinti tagállamában már nem, egy vagy több másik tagállamban viszont kereskednek, azon új székhely szerinti tagállam, amelyet a kibocsátó azon tagállamok közül választhat, amelyekben a kibocsátó értékpapírjai szabályozott piacon be vannak vezetve, vagy azon tagállam, amelyben a kibocsátó létesítő okirat szerinti székhelye van,”
-
-2. § (1) A Tpt. 27. § (1a) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(A kiemelt információ tartalmazza:)
-
-„a) a kibocsátóra, az értékpapírban foglalt kötelezettség teljesítéséért kezességet (garanciát) vállaló személyre vonatkozó alapvető adatokat, kockázatainak, pénzügyi helyzetének megítéléséhez szükséges adatokat, beleértve az eszközöket és forrásokat,”
-
-(2) A Tpt. 27. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) Amennyiben a forgalomba hozatal végleges feltételeit (amelyek csak az értékpapírjegyzékkel kapcsolatos információkat tartalmazzák, így különösen: a forgalomba hozatal össznévértékét, az értékpapír futamidejét, lejáratát, kamatát vagy egyéb járulékait, a forgalomba hozatal módját és helyét, továbbá az új értékpapír-sorozat értékpapírkódját) sem az alaptájékoztató, sem a 32. § szerinti kiegészítés nem tartalmazza, az egyes nyilvános részkibocsátásokra vonatkozóan a kibocsátó a forgalomba hozatal kezdő napját megelőzően a forgalomba hozatal végleges feltételeit közzéteszi, és azokról tájékoztatja a Felügyeletet. A Felügyelet a fogadó tagállam hatáskörrel rendelkező hatóságát és az Európai Értékpapír-piaci Hatóságot ezt követően tájékoztatja a forgalomba hozatal végleges feltételeiről.”
-
-3. § A Tpt. 34. § (4) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(A közzététel helye:)
-
-„b) a kibocsátó vagy – ha van – a forgalmazó honlapja,”
-
-4. § (1) A Tpt. 45. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Hitelviszonyt megtestesítő értékpapír hitelintézet által kibocsátási program keretében történő nyilvános forgalomba hozatalára, illetve szabályozott piacra történő bevezetéséhez, ha a forgalomba hozatalára, illetve a szabályozott piacra történő bevezetésére kizárólag Magyarországon kerül sor, valamint ha az értékpapír
-
-1. nem alárendelt kölcsönt testesít meg, nem konvertálható és nem átcserélhető,
-
-2. nem ad jogot más értékpapír megszerzésére és nem kapcsolódik származtatott termékhez, és
-
-3. betétgyűjtést testesít meg,
-
-akkor a hitelintézet a 26–27. §-ban meghatározott tájékoztató helyett a 7. számú melléklet szerint összeállított, a Felügyelet által engedélyezett ismertetőt tehet közzé a 34. §-ban meghatározott módon azzal, hogy a 7. számú melléklet 3–14. és 17–19. pontjában meghatározott adatokat a 27. § (6) bekezdésében meghatározottak szerint jelenti be a Felügyeletnek és teszi közzé.”
-
-(2) A Tpt. 45. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) Hitelviszonyt megtestesítő értékpapír hitelintézet által kibocsátási program keretében történő nyilvános forgalomba hozatalára, illetve szabályozott piacra történő bevezetéséhez, ha az összes forgalomba hozott értékpapír kibocsátási értéke uniós szinten az első forgalomba hozataltól számított tizenkét hónapos időtartamon belül nem éri el a hetvenötmillió eurót, vagy a forgalomba hozatalra vonatkozó döntés napján érvényes, az MNB által közzétett hivatalos devizaárfolyamon számítva annak megfelelő összeget, valamint ha az értékpapír
-
-1. nem alárendelt kölcsönt testesít meg, nem konvertálható és nem átcserélhető, és
-
-2. nem ad jogot más értékpapír megszerzésére és nem kapcsolódik származtatott termékhez,
-
-akkor a hitelintézet a 26–27. §-ban meghatározott tájékoztató helyett a 7. számú melléklet szerint összeállított, a Felügyelet által engedélyezett ismertetőt tehet közzé a 34. §-ban meghatározott módon azzal, hogy a 7. számú melléklet 3–14. és 17–19. pontjában meghatározott adatokat a 27. § (6) bekezdésében meghatározottak szerint jelenti be a Felügyeletnek és teszi közzé.”
-
-5. § (1) A Tpt. 52. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) E fejezetben foglaltakat kell alkalmazni a nyilvánosan forgalomba hozott értékpapírokkal kapcsolatos tájékoztatási kötelezettség teljesítésekor, ha a kibocsátó 5. § (1) bekezdés 140. pont b) alpontja szerinti székhely szerint tagállama Magyarország.”
+5. § (1)
 
 (2)
 
-(3) A Tpt. 52. § (3) bekezdése helyébe a következő rendelkezés lép:
+(3)
 
-„(3) Az e fejezetben foglaltakat nem kell alkalmazni az államra, az olyan nemzetközi testületre, amelynek legalább egy tagállam a tagja, az EKB-ra, a tagállamok nemzeti központi bankjaira, az Európai Pénzügyi Stabilitási Eszközre és bármely egyéb, az európai monetáris unió stabilitásának megőrzése céljából létrehozott mechanizmusra.”
-
-6. § (1) A Tpt. 54. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A nyilvánosan forgalomba hozott értékpapír kibocsátója a nyilvánosságot rendszeresen tájékoztatja vagyoni, jövedelmi helyzetének, működésének főbb adatairól. A kibocsátó a közzététellel egyidejűleg köteles a Felügyeletet tájékoztatni és gondoskodik arról, hogy az egyes tájékoztatások legalább tíz évig nyilvánosan hozzáférhetőek maradjanak.”
-
-(2) A Tpt. 54. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Nem köteles éves és féléves jelentést készíteni a helyi önkormányzat, továbbá azon kibocsátó, amely kizárólag olyan, szabályozott piacra bevezetett hitelviszonyt megtestesítő értékpapírt bocsát ki, amelynek névértéke legalább százezer euró, illetve a forgalomba hozatal napján az MNB által közzétett hivatalos devizaárfolyamon számítva ennek megfelelő összeg.”
-
-(3) A Tpt. 54. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A részvény, illetve a hitelviszonyt megtestesítő értékpapír kibocsátója az adott időszak végét követően mielőbb, de legkésőbb három hónapon belül a pénzügyi év első hat hónapjára vonatkozóan féléves jelentést tesz közzé.”
-
-7. § (1) A Tpt. 61. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A szavazati jog kiszámítása – a szavazati jog gyakorlásának korlátozására vonatkozó előírásoktól függetlenül – mindazon részvények alapján történik, amelyhez a kibocsátó létesítő okiratának rendelkezése alapján szavazati jog kapcsolódik. Az (1) bekezdés szerinti arány meghatározásakor a részvényes részesedésén kívül az (5), (6) és (9) bekezdés szerinti szavazati jogot is figyelembe kell venni.”
-
-(2) A Tpt. 61. §-a a következő (6a) bekezdéssel egészül ki:
-
-„(6a) A szavazati jogok mértékét a pénzügyi eszköz alapjául szolgáló részvények össznévértékére vonatkoztatva kell kiszámítani, kivéve a kizárólag készpénzben kiegyenlíthető pénzügyi eszközöket, amelyek esetében a szavazati jogok számát a Bizottság 2015/761/EU rendeletében foglaltakra figyelemmel kell kiszámítani. A birtokos az ugyanazon mögöttes kibocsátóhoz tartozó összes pénzügyi eszközt összesíti és bejelenti. A szavazati jogok kiszámításakor csak a hosszú pozíciókat kell figyelembe venni, és ezek nem nettósíthatóak.”
-
-(3) A Tpt. 61. § (9) bekezdése helyébe a következő rendelkezés lép:
-
-„(9) Az (1) bekezdés szerinti tájékoztatási kötelezettség terheli azt a személyt is, aki közvetlenül vagy közvetve olyan pénzügyi eszköznek van a birtokában, amely lejáratkor a birtokos számára – szerződés alapján – feltétel nélkül, illetve a birtokos döntésétől függően a kibocsátó szavazati jogot biztosító részvényének és szavazati jogának megszerzését teszi lehetővé. A tájékoztatási kötelezettség teljesítése során különbséget kell tenni a fizikai leszállítással teljesíthető és a készpénzben kiegyenlíthető pénzügyi eszközök között.”
-
-(4) A Tpt. 61. §-a a következő (9a) és (9b) bekezdéssel egészül ki:
-
-„(9a) A (9) bekezdés alkalmazásában az alábbiak tekintendők pénzügyi eszköznek:
-
-a) átruházható értékpapír,
-
-b) opció,
-
-c) határidős ügylet,
-
-d) csereügylet,
-
-e) tőzsdén kívüli határidős kamatláb-megállapodás,
-
-f) különbözetre vonatkozó pénzügyi megállapodás vagy
-
-g) az a)–f) pontban meghatározott pénzügyi eszközökkel hasonló gazdasági hatást eredményező szerződés.
-
-(9b) A pénzügyi eszközökhöz kapcsolódó, a (9) bekezdés szerint már bejelentett szavazati jogokat ismét be kell jelenteni, ha a természetes személy vagy vállalkozás megszerezte az alapul szolgáló részvényeket, és a tulajdonszerzés eredményeként az ugyanazon kibocsátó által kibocsátott részvényekhez kapcsolódó szavazati jogok mértéke eléri vagy meghaladja a (3) bekezdésben foglalt küszöbértéket.”
-
-(5) A Tpt. 61. §-a a következő (11a) bekezdéssel egészül ki:
-
-„(11a) A részvényes mentesül az (1) bekezdés szerinti tájékoztatási kötelezettség alól, ha a szavazati jogok a 203. § (3) bekezdésében említett rendelettel összhangban stabilizálási célból szerzett részvényekhez kapcsolódnak, feltéve ha a kibocsátó biztosítja, hogy a részesedéshez kapcsolódó szavazati jog
-
-a) nem gyakorolható, és
-
-b) a döntéshozó, ügyvezető szervei, felügyelőbizottsága vagy ezek testületi tagjainak kinevezésére, felmentésére vonatkozó döntések meghozatalában nem vesz részt.”
-
-(6) A Tpt. 61. § (12) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-[(Az árjegyző mentesül az (1) bekezdés szerinti tájékoztatási kötelezettség alól, ha)]
-
-„a) biztosítja, hogy a részesedéséhez kapcsolódó szavazati jogot senki se gyakorolhassa,”
-
-8. § (1) A Tpt. 400. § (1) bekezdés o) pontja helyébe a következő rendelkezés lép:
-
-(A Felügyelet az alábbi intézkedéseket, szankciókat alkalmazhatja:)
-
-„o) elrendelheti a tagsági jogok gyakorlásának felfüggesztését:
-
-1. ha törvény alapján a részvényes a részvénytársasággal szemben tagsági jogait nem gyakorolhatja, és ezt a tényt a Felügyelet határozatban megállapítja,
-
-2. a 61. §-ban foglalt kötelezettségek megsértése esetében a nyilvánosan működő részvénytársaság részvényesével vagy a szavazati jog birtokosával szemben;”
-
-(2) A Tpt. 400. § (1) bekezdése a következő w) ponttal egészül ki:
-
-(A Felügyelet az alábbi intézkedéseket, szankciókat alkalmazhatja:)
-
-„w) az V. Fejezetben foglalt tájékoztatási kötelezettségek megsértése esetén a tájékoztatásra kötelezettel szemben
-
-1. a jogsértés megállapítását követően a honlapján nyilvános közleményt tehet közzé a felelős tájékoztatásra kötelezett és a jogsértés jellegének megjelölésével,
-
-2. megtilthatja a felelős tájékoztatásra kötelezett számára a jogsértést megvalósító magatartás folytatását vagy megismétlését, illetve
-
-3. bírságot szabhat ki.”
-
-9. § A Tpt. 405. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A Felügyelet a kibocsátót, az ajánlattevőt, a nyilvánosan működő részvénytársaságban történő befolyásszerzés szabályait megsértő személyt, a tőzsdét, az elszámolóházi tevékenységet végző szervezetet, a központi értéktárat, a központi szerződő felet, illetve ezek vezető állású személyét és alkalmazottját, a bennfentes kereskedelmet és a piacbefolyásolást elkövető személyt, a bennfentes személyre vonatkozó bejelentési és közzétételi kötelezettségre vonatkozó szabályokat megsértő személyt és a 61. §-ban foglalt kötelezettséget megsértő részvényest vagy a szavazati jog birtokosát az e törvényben és az e törvény felhatalmazása alapján kiadott jogszabályban, a Pmt.-ben, valamint a Felügyelet határozatában foglalt kötelezettsége, továbbá a saját szabályzatában foglaltak megszegése, kijátszása, elmulasztása vagy késedelmes teljesítése esetén, továbbá ha azt külföldi felügyeleti hatóság a 399. § (2) bekezdése szerint kezdeményezi, bírság megfizetésére kötelezheti.”
-
-10. § A Tpt. 25. számú melléklete az 1. melléklet szerint módosul.
+6–10. §
 
 11. § A Tpt.
 
 - a)
-- b) 58. § (3) bekezdésében a „Felügyeleti hatóságai” szövegrész helyébe a „felügyeleti hatóságai” szöveg,
-- c) 61. § (11) bekezdés a) pontjában a „biztosítja, hogy a részesedéshez kapcsolódó szavazati jogot senki se gyakorolhassa,” szövegrész helyébe az „a szavazati jog nem gyakorolható” szöveg,
-- d) 61. § (11) bekezdés b) pontjában az „ügyvezető, felügyelő szervei vagy testületi tagjainak” szövegrész helyébe az „ügyvezető szervei, felügyelőbizottsága vagy ezek testületi tagjainak” szöveg
+- b)–d)
 
 lép.
 
-12. § Hatályát veszti a Tpt. 5. § (1) bekezdésének 28. pontja.
+12. §
 
 #### 2. A biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény módosítása
 
-13. § (1) A biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény a következő 231/K. §-sal egészül ki:
-
-„231/K. § (1) A Felügyelet ellátja
-
-a) az időtartam-alapú részvénypiaci kockázati részmodul használatához,
-
-b) a releváns kockázatmentes hozamgörbéhez történő illeszkedési korrekció használatához,
-
-c) a kockázatmentes hozamgörbére vonatkozó átmeneti intézkedések használatához,
-
-d) a biztosítástechnikai tartalékokra vonatkozó átmeneti intézkedések használatához
-
-szükséges engedélyezési eljárásokkal kapcsolatos feladatokat.
-
-(2) A Felügyelet az (1) bekezdésben meghatározott engedélyezési eljárások lefolytatása során a biztosítók és a viszontbiztosítók szavatolótőkéjéről és biztosítástechnikai tartalékairól szóló kormányrendeletben meghatározott szabályok alapján, a Bizottságnak a Szolvencia 2 irányelv 86. cikk (1) bekezdés f)–i) pontjában meghatározott tárgykörben kiadott rendeletében megállapított szabályokkal együtt alkalmazva jár el.”
-
-(2) Hatályát veszti a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény
-
-- a) 231/H. § (3) bekezdésében az „és az f)–i) pontjában”,
-- b) 231/I. § (2) bekezdésében a „szabályokkal együtt alkalmazva – a különleges célú gazdasági egységek létrehozásáról és működéséről szóló kormányrendeletben meghatározott”
-
-szövegrész.
+13. §
 
 #### 3. A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény módosítása
 
-14. § A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény (a továbbiakban: MNBtv.) 40. §-a a következő (18) bekezdéssel egészül ki:
-
-„(18) Az MNB a 39. § (1) bekezdés m) pontjában meghatározott feladatai során ellátja az európai hosszú távú befektetési alapokról szóló, 2015. április 29-i 760/2015/EU parlamenti és tanácsi rendelet végrehajtását.”
-
-15. § (1) Az MNBtv. 53. § (1a) bekezdése helyébe a következő rendelkezés lép:
-
-„(1a) Az (1) bekezdésben meghatározottakat meghaladóan az MNB a Hpt. 185. § és 189–192. §, a Tpt. 400. § (1) bekezdés o) pont 2. alpont, a Tpt. 400. § (1) bekezdés w) pont és a Bszt. 164. § alapján hozott, (1) bekezdés szerint közzétett, jogerős határozatában megjelöli a jogsértő természetes személy nevét is.”
-
-(2) Az MNBtv. 53. § (4)–(6) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Az MNB anonim módon teszi közzé a Hpt.-ben, a Tpt.-ben és a Bszt.-ben meghatározott intézkedésről vagy kivételes intézkedésről, valamint a pénzbírságról hozott határozatát, ha a nyilvánosságra hozatal
-
-a) aránytalan a természetes személy által elkövetett jogsértéshez képest,
-
-b) aránytalan hátrányt okoz a természetes és jogi személyekre nézve, vagy
-
-c) veszélyezteti valamely folyamatban lévő büntetőeljárás sikerességét.
-
-(5) Az MNB mérlegelése alapján a Hpt.-ben, a Tpt.-ben és a Bszt.-ben meghatározott intézkedésről vagy kivételes intézkedésről, pénzbírságról hozott határozat közzététele legfeljebb 30 napra elhalasztható, ha a jogsértő magatartás várhatóan rövid időn (legfeljebb 30 napon) belül megszűnik, és a jogsértés nem veszélyezteti a jogi személy biztonságos működését, ügyfeleinek védelmét, valamint a pénzügyi közvetítőrendszer stabilitását.
-
-(6) Az MNB a Hpt.-ben, a Tpt.-ben és a Bszt.-ben meghatározott intézkedésekről és kivételes intézkedésekről, pénzbírságról hozott határozatát legalább 5 évig és legfeljebb 10 évig elérhetővé teszi a honlapján.”
-
-16. § Az MNBtv. 76. §-a a következő (8)–(9) bekezdéssel egészül ki:
-
-„(8) A Tpt. 400. § (1) bekezdés w) pont 3. alpontjában foglalt bírság mértéke
-
-a) vállalkozás esetében
-
-aa) legfeljebb 2 984 800 000 forint vagy a döntéshozó szerv által legutoljára jóváhagyott éves beszámoló szerinti éves árbevétel legfeljebb 5%-a azzal, hogy ha a vállalkozás anyavállalat vagy anyavállalat olyan leányvállalata, amelyik a számviteli jogszabályok alapján konszolidált beszámoló készítésére kötelezett, akkor a figyelembe veendő éves árbevétel a legutolsó, az anyavállalat döntéshozó szerve által jóváhagyott konszolidált beszámoló szerinti éves árbevétel vagy a számviteli jogszabályok szerinti, annak megfelelő bevétel vagy
-
-ab) a jogsértésből származó nyereség vagy az amiatt elkerült veszteség összegének legfeljebb kétszerese,
-
-b) természetes személy esetében
-
-ba) legfeljebb 596 960 000 forint vagy
-
-bb) a jogsértésből származó nyereség vagy az amiatt elkerült veszteség összegének legfeljebb kétszerese.
-
-(9) A (8) bekezdésben foglalt összegek közül minden esetben a magasabb összeget kell alkalmazni.”
+14–16. §
 
 17. §
 
-18. § Az MNBtv. 185. §-a a következő z) ponttal egészül ki:
-
-(Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:)
-
-„z) az Európai Parlament és a Tanács 760/2015/EU rendelete (2015. április 29.) az európai hosszú távú befektetési alapokról.”
-
-19. § Hatályát veszti az MNBtv. 70. § (2) bekezdése.
+18–19. §
 
 #### 4. A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény módosítása
 
-20. § A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény (a továbbiakban: Kbftv.) 4. § (1) bekezdése a következő 28a. ponttal egészül ki:
-
-(E törvény és az e törvény felhatalmazása alapján kiadott jogszabályok alkalmazásában:)
-
-„28a. EHTBA: az európai hosszú távú befektetési alapokról szóló, 2015. április 29-i 760/2015/EU parlamenti és tanácsi rendelettel összhangban engedélyezett ABA;”
-
-21. § A Kbftv. 205. § (2) bekezdése a következő h) ponttal egészül ki:
-
-(E törvény)
-
-„h) az Európai Parlament és Tanács 2015. április 29-i az európai hosszú távú befektetési alapokról szóló 760/2015/EU rendeletének”
-
-(végrehajtásához szükséges rendelkezéseket állapít meg.)
+20–21. §
 
 #### 5. A biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény módosítása
 
@@ -719,12 +496,6 @@ lép hatályba.
 (2) Nem lép hatályba az egyes törvényeknek a pénzügyi közvetítőrendszer fejlesztésének előmozdítása érdekében történő módosításáról szóló 2015. évi LXXXV. törvény 172. § (2) bekezdése.
 
 ### 1. melléklet a 2015. évi CLXII. törvényhez
-
-A Tpt. 25. számú melléklete a következő 30. ponttal egészül ki:
-
-„30. Az Európai Parlament és a Tanács 2013/50/EU irányelve (2013. október 22.)
-
-a szabályozott piacra bevezetett értékpapírok kibocsátóival kapcsolatos információkra vonatkozó átláthatósági követelmények harmonizációjáról szóló 2004/109/EK európai parlamenti és tanácsi irányelv, az értékpapírok nyilvános kibocsátásakor vagy piaci bevezetésekor közzéteendő tájékoztatóról szóló 2003/71/EK európai parlamenti és tanácsi irányelv, valamint a 2004/109/EK irányelv egyes rendelkezéseinek végrehajtására irányadó részletes szabályok megállapításáról szóló 2007/14/EK bizottsági irányelv módosításáról.”
 
 ### 2. melléklet a 2015. évi CLXII. törvényhez
 

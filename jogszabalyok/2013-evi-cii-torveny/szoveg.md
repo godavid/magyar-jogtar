@@ -230,7 +230,8 @@ különleges rendeltetésűvé nyilvánítható.
 - a) a halgazdálkodási jog haszonbérbe adása esetén a haszonbérlő,
 - b) a halgazdálkodási jog vagyonkezelésbe adása esetén a vagyonkezelő,
 - c) a halgazdálkodási jog haszonbérbe vagy vagyonkezelésbe adására irányuló érvényes szerződés hiányában az állam,
-- d) a földtulajdonosi haszonbérletben álló halgazdálkodási jog alhaszonbérbe adásának esetében az alhaszonbérlő.
+- d) a földtulajdonosi haszonbérletben álló halgazdálkodási jog alhaszonbérbe adásának esetében az alhaszonbérlő,
+- e) a kijelölés útján történő haszonbérletben álló halgazdálkodási jog alhaszonbérbe adásának esetében az alhaszonbérlő.
 
 (4) A halgazdálkodási jog gyakorlója köteles
 
@@ -254,12 +255,18 @@ különleges rendeltetésűvé nyilvánítható.
 
 #### 8. A halgazdálkodási jog átengedése
 
-24. § Az államot megillető halgazdálkodási jog átengedhető
+24. § (1) Az államot megillető halgazdálkodási jog átengedhető
 
-- a) a 16. § (6) bekezdése szerinti halgazdálkodási vízterületek esetén vagyonkezelési szerződéssel
+- a) a 16. § (6) bekezdése szerint nyilvántartott halgazdálkodási vízterület esetén vagyonkezelési szerződéssel
   - aa) költségvetési szerv részére,
-  - ab) az állam 100%-os tulajdonában álló olyan gazdálkodó szervezet részére, amely alapító okiratában vagy jogszabályban meghatározott alapfeladata teljesítése érdekében kívánja azt hasznosítani, vagy
-- b) haszonbérleti szerződéssel természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet részére.
+  - ab) az állam 100%-os tulajdonában álló olyan gazdálkodó szervezet részére, amely alapító okiratában vagy jogszabályban meghatározott alapfeladata teljesítése érdekében kívánja azt hasznosítani vagy
+- b) az a) pontba nem tartozó nyilvántartott halgazdálkodási vízterület esetén haszonbérleti szerződéssel
+  - ba) a miniszter általi kijelölés útján a horgászok és a horgász egyesületek országos érdekképviseletét és koordinációját ellátó, bírósági nyilvántartásba vett szervezet részére,
+  - bb) nyilvános pályáztatás útján természetes személy vagy jogi személy részére.
+
+(2) Az (1) bekezdés b) pont ba) alpontjában meghatározott szervezet a halgazdálkodási jogot tagszervezete, tagszervezetei, tagszervezetének vagy tagszervezeteinek tagegyesülete, tagegyesületei részére alhaszonbérbe adhatja. Az alhaszonbérbe adás nem érinti az (1) bekezdés b) pont ba) alpontjában meghatározott szervezetnek a haszonbérbe adóval szemben fennálló kötelezettségeit.
+
+(3) A miniszter az állam nevében eljárva jogosult az új haszonbérleti vagy vagyonkezelési szerződés hatálybalépéséig, de legfeljebb egy évig terjedő időre meghosszabbítani a nyilvántartott halgazdálkodási vízterületre létrejött haszonbérleti vagy vagyonkezelési szerződés hatályát, amennyiben a haszonbérlő vagy a vagyonkezelő a haszonbérleti vagy vagyonkezelői szerződés megszűnése előtt legalább 15 nappal nem kezdeményezi a haszonbérleti vagy vagyonkezelői szerződés megszüntetését.
 
 25. § (1) Központi költségvetési szervvel az azt irányító vagy felügyelő szerv egyetértésével köthető vagyonkezelési szerződés.
 
@@ -269,7 +276,7 @@ különleges rendeltetésűvé nyilvánítható.
 
 (4) A vagyonkezelési szerződés egy példányát a vagyonkezelő köteles benyújtani a halgazdálkodási hatóság részére.
 
-26. § (1) A halgazdálkodási jog haszonbérbe adása – a (2) bekezdésben szereplő kivétellel – nyilvános pályázat útján történik.
+26. § (1) A halgazdálkodási jog haszonbérbe adása – a 24. § (1) bekezdés b) pont ba) alpontjában, valamint a (2) bekezdésben szereplő kivétellel – nyilvános pályázat útján történik.
 
 (2) A halgazdálkodási vízterület fekvése szerinti ingatlan 1/1 tulajdoni hányadú tulajdonosa igényelheti a halgazdálkodási jog haszonbérleti jogát (a továbbiakban: földtulajdonosi haszonbérlet). Földtulajdonosi haszonbérleti szerződés csak akkor köthető, ha a halgazdálkodási jog nincs harmadik személynek haszonbérbe vagy vagyonkezelésbe adva. Ha a halgazdálkodási jog harmadik személy haszonbérletében vagy vagyonkezelésében áll, a földtulajdonosi haszonbérleti szerződés csak ennek megszűnését követően léphet hatályba. A földtulajdonosi haszonbérletben álló halgazdálkodási jog alhaszonbérbe adható.
 
@@ -1016,7 +1023,8 @@ veszi figyelembe.
 - 33. az egyes víztípusok halgazdálkodási értéke alapján a halgazdálkodási jog haszonbérletéért fizetendő haszonbérleti díj, a vagyonkezelésbe adható halgazdálkodási jog esetében a vagyonkezelési díj mértékét, valamint e díjak megfizetése alóli felmentés és az e díjakra vonatkozó díjkedvezmény szabályait;
 - 34. a halgazdálkodási kíméleti terület kijelölésére irányuló eljárás részletes szakmai és eljárási szabályait;
 - 35. az országhatárral metszett halgazdálkodási vízterületre a horgászat és a halászat rendjét; és
-- 36. a Balaton vízgyűjtőjén lévő és a Balatonnal lefolyási viszonyban álló haltermelési létesítményeket, valamint ezeken a haltermelési létesítményeken az idegenhonos halfajok telepítésére és felhasználására vonatkozó különös szabályokat.
+- 36. a Balaton vízgyűjtőjén lévő és a Balatonnal lefolyási viszonyban álló haltermelési létesítményeket, valamint ezeken a haltermelési létesítményeken az idegenhonos halfajok telepítésére és felhasználására vonatkozó különös szabályokat;
+- 37. az államot megillető halgazdálkodási jog kijelöléssel történő átengedésének, valamint alhaszonbérbe adásának részletes feltételeit.
 
 (2) Felhatalmazást kap a miniszter arra, hogy
 
@@ -1049,7 +1057,7 @@ veszi figyelembe.
 
 (8) Kereskedelmi célú halászati engedély a 2016-os naptári évre, valamint az azt követő naptári évekre nem adható ki.
 
-(9) A miniszter az állam nevében eljárva jogosult az új haszonbérleti vagy vagyonkezelési szerződés hatályba lépéséig, de legfeljebb egy évig terjedő időre meghosszabbítani az állammal nyilvántartott halgazdálkodási vízterületre létrejött haszonbérleti szerződés hatályát.
+(9) Azon nyilvántartott halgazdálkodási vízterület esetében, melyen a haszonbérleti szerződés 2015. december 31-ig megszűnik és az államot megillető halgazdálkodási jog kijelöléssel történő haszonbérbe adása, vagy vagyonkezelési szerződés útján történő átengedése nem valósul meg, – amennyiben a haszonbérlő legkésőbb 2015. december 31-ig nem kezdeményezi a haszonbérleti szerződés megszüntetését, illetve a halgazdálkodási jog gyakorlásáról nem mond le – a haszonbérleti szerződés időtartamának meghosszabbított hatálya 2016. december 31. A meghosszabbítás időtartamára vonatkozóan a haszonbérlő halgazdálkodási terv készítésére kötelezett.
 
 #### 25. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
