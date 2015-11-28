@@ -217,12 +217,16 @@ adóköteles termék mennyisége termékenkénti bontásban.
 
 (2) A biztosítási díjjal le nem fedett időtartam azon napjaira, amelyekre a biztosító a 11/C. § (1) vagy (2) bekezdése alapján az adót nem szedte be, az adó alanya az adó összegét önadózással állapítja meg a gépjármű forgalomból való kivonását vagy az üzemben tartó személyében bekövetkezett változás esetén, a változást követő hónap 15. napjáig. A biztosító a kockázatviselése megszűnésétől számított 15 napon belül igazolást ad az adóalany számára arról, hogy az adó a 11/E. § alapján mely napig van megfizetve.
 
-11/G. § Ha a biztosítási díj az adóalany számára visszajár
+11/G. § (1) Ha a biztosítási díj az adóalany számára visszajár
 
-- a) a beszedéssel megfizetett adó esetén a visszajáró díj alapulvételével számított adót a biztosító köteles az adóalanynak a visszajáró díj visszafizetésével egyidejűleg visszafizetni. A díj visszafizetésének hónapját követő 15. napig benyújtott bevallásában a biztosító jogosult a visszafizetett adóval az általa beszedett, bevallott adót csökkenteni,
-- b) önadózással megfizetett adó esetén az adó alanya a visszajáró díj alapulvételével számított adót az adózás rendjéről szóló törvény szabályai szerint a díj visszafizetését követő hónap első napjától kezdődően az állami adóhatóság által rendszeresített nyomtatványon visszaigényelheti.
+- a) beszedés esetén a visszajáró díj alapulvételével számított adót a biztosító köteles az adóalanynak legkésőbb a visszajáró díj visszafizetésének napjáig visszafizetni. Az adó visszafizetésének hónapját követő 15. napig benyújtott bevallásában a biztosító jogosult a visszafizetett adóval az általa beszedett, bevallott adót csökkenteni,
+- b) önadózás esetén az adó alanya a visszajáró díj alapulvételével számított adót az adózás rendjéről szóló törvény szabályai szerint a díj visszafizetését követő hónap első napjától kezdődően az állami adóhatóság által rendszeresített nyomtatványon visszaigényelheti.
 
-#### 4. Eljárási rendelkezések
+(2) Ha a biztosító tevékenységi engedélyét a felügyeleti szerv visszavonta és az adóalannyal kötött kötelező gépjármű-felelősségbiztosításról szóló szerződés megszűnik, akkor a visszavont tevékenységi engedélyű biztosító kockázatviselése napjának megszűnését követő időszakra jutó, a visszajáró díj alapulvételével számított, korábban beszedett adót – az adóalany kérelmére – az állami adóhatóság az adózás rendjéről szóló törvény adó-visszatérítésre vonatkozó szabályai szerint visszatéríti. A visszatérítés iránti kérelemben az adóalany megadja az azonosító adatait, az adóazonosító számát, a visszavont tevékenységi engedélyű biztosító nevét, a megszűnt biztosítási szerződés kötvényszámát, valamint azt a bankszámlaszámot vagy postai címet, amelyre a visszajáró adó kifizetését kéri.
+
+(3) A biztosító a tevékenységi engedélye visszavonását követő időszakról – első ízben az engedélye visszavonását követő hónap, azt követően minden hónap utolsó napjáig – havonta – az adatszolgáltatással le nem fedett időszakra vonatkozóan megszűnt szerződések kapcsán – adatot szolgáltat az állami adóhatóság részére a (2) bekezdésben említett adóalany nevéről, adóazonosító számáról, a megszűnt biztosítási szerződése kötvényszámáról, továbbá a szerződés megszűnése miatt a biztosító kockázatvállalásával már nem fedezett biztosítási díj és az annak alapján számított, beszedett adó összegéről.
+
+4. Eljárási rendelkezések
 
 11/H. § (1) Az adóval kapcsolatos adóhatósági feladatokat az állami adóhatóság látja el.
 
@@ -233,6 +237,12 @@ adóköteles termék mennyisége termékenkénti bontásban.
 11/I. § (1) Ha a biztosítási időszak 2012. január 1-jét megelőzően kezdődött, akkor az adókötelezettség a biztosítási időszaknak a 2011. december 31-ét követő részére áll fenn.
 
 (2) Ha az adóalany 2011. december 31-ét követő időszakra vonatkozó díjfizetési kötelezettségének esedékessége 2012. január 1-jét megelőzte akkor a 2011. december 31-ét követő időszakra – napi időarányosítással számított – biztosítási díj, egyszeri biztosítási díj, továbbá a biztosítással le nem fedett időtartamra megállapított adóalap utáni adót a beszedésre kötelezett vagy – önadózás esetén – az adó alanya 2012. február 15-ig állapítja meg, vallja be és fizeti meg az állami adóhatósághoz.
+
+11/J. § (1) Az adózás rendjéről szóló 2003. évi XCII. törvény és egyes adótörvények módosításáról szóló 2015. évi CLXXXVII. törvénnyel (a továbbiakban: Mód törvény) megállapított 11/G. § (2)–(3) bekezdését alkalmazni kell a Mód törvénnyel megállapított 11/G. § hatálybalépését megelőzően visszavont tevékenységi engedélyű biztosítóval kötött kötelező gépjármű-felelősségbiztosítási szerződés megszűnése esetén is, ha a biztosító a visszatérítendő biztosítási díj után beszedett adót az adóalanynak nem térítette vissza.
+
+(2) Az (1) bekezdés szerinti biztosítónak a Mód törvénnyel megállapított 11/G. § (3) bekezdése szerinti adatszolgáltatást első ízben a Mód törvénnyel megállapított 11/G. § hatálybalépése napját követő 8 napon belül kell teljesítenie.
+
+(3) Az (1) bekezdés szerinti esetben az adóalany a visszatérítés iránti kérelmében – a Mód törvénnyel megállapított 11/G. § (2) bekezdésében foglalt adatokon túlmenően – megadja az adó-visszatérítéshez szükséges adatokat, így különösen a megszűnt biztosítási szerződés szerinti biztosítási díj és az abból megfizetett biztosítási díj, díjrészlet összegét, valamint a biztosítási szerződés megszűnésének időpontját.
 
 ### III. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

@@ -277,7 +277,7 @@ fémkereskedelmi engedélyköteles anyag hasznosítását, ha az így keletkezet
 
 (12) A (11) bekezdés a) pontja nem alkalmazható, ha két egymást követő bírság kiszabása között 8 év eltelt.
 
-(13) A kiszabott bírságot a kötelezett a határozat jogerőre emelkedését követő naptári naptól számított 15 napon belül köteles megfizetni.
+(13) A kiszabott bírságot a kötelezett a határozat jogerőre emelkedését követő naptári naptól számított 15 napon belül köteles megfizetni. A bírság megfizetésének módjára, elszámolására, valamint a bírság késedelmes megfizetése miatt a késedelmi pótlék megállapítására az adózás rendjéről szóló törvény rendelkezései az irányadóak.
 
 (14) Ha a hatósági ellenőrzés során a fémkereskedelmi hatóság a fémkereskedő nyilvántartása, készletbevallása és a tényleges készlet között 5%-ot meghaladó eltérést tapasztal, a fémkereskedő az ellenőrzéstől számított 15 napon belül köteles mindazon bizonyítékok, okmányok benyújtására, amelyek az eltérést alátámasztják. Ha az okmányok, bizonyítékok nem kerülnek benyújtásra, vagy azok az eltérés okát nem tisztázzák, úgy az (5) bekezdés a) pontjában meghatározottakat kell alkalmazni.
 
@@ -348,7 +348,7 @@ fémkereskedelmi engedélyköteles anyag hasznosítását, ha az így keletkezet
 
 (3) Az e törvény hatálya alá tartozó személyek nyilvántartásba vételével és nyilvántartásával kapcsolatos ügyben a fémkereskedelmi hatóság jár el. A nyilvántartásba vételre és nyilvántartásra vonatkozó részletes szabályokat az adózás rendjéről szóló törvény tartalmazza.
 
-(4) Az e törvényben meghatározott bírságot és egyéb költséget az állami adóhatóság adók módjára hajtja be.
+(4) Az e törvényben meghatározott bírság és egyéb költség végrehajtására az adózás rendjéről szóló törvény rendelkezései az irányadóak.
 
 #### 7. Záró rendelkezések
 

@@ -376,7 +376,7 @@ fogadhatja el.
 
 (3) A fogyasztóvédelmi hatóság a dohánytermék-kereskedelmi tevékenységgel összefüggő szabályok megsértése miatt hozott jogerős határozatát megküldi a vámhatóságnak.
 
-18. § (1) A vámhatóság dohánytermék-kiskereskedelmi ügyben – az e törvényben meghatározott eltérésekkel – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) szerint jár el azzal, hogy újrafelvételi eljárásnak, valamint fizetési kedvezmény engedélyezésének nincs helye. A bírság végrehajtására az adózás rendjéről szóló jogszabályok az irányadóak azzal, hogy fizetési halasztásnak, részletfizetés engedélyezésének, valamint méltányosság alapján mérséklésnek, illetve elengedésnek nincs helye.
+18. § (1) A vámhatóság dohánytermék-kiskereskedelmi ügyben – az e törvényben meghatározott eltérésekkel – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) szerint jár el azzal, hogy újrafelvételi eljárásnak, valamint fizetési kedvezmény engedélyezésének nincs helye. A bírság végrehajtására az adózás rendjéről szóló törvény (a továbbiakban: Art.) rendelkezései az irányadóak azzal, hogy fizetési halasztásnak, részletfizetés engedélyezésének, valamint méltányosság alapján mérséklésnek, illetve elengedésnek nincs helye.
 
 (2)
 
@@ -405,6 +405,8 @@ fogadhatja el.
 (3) Ha valaki az e törvényben foglaltak ellenére dohánytermék-kiskereskedelmi jogosultság, vagy engedély nélkül folytat dohányáru üzletszerű értékesítésére vonatkozó tevékenységet, úgy őt a vámhatóság 5 milliótól 500 millió forintig terjedő bírsággal sújthatja.
 
 (4) A bírság együttesen, illetve a 23. § rendelkezései szerint hozott intézkedés mellett is kiszabható.
+
+(5) A bírság megfizetésének módjára, elszámolására, valamint a bírság késedelmes megfizetése miatt a késedelmi pótlék megállapítására az Art. rendelkezései az irányadóak.
 
 23. § A vámhatóság a dohánytermék-kiskereskedelmi tevékenység folytatására vonatkozó engedélyt visszavonhatja, ha
 
