@@ -413,20 +413,28 @@ azzal, hogy az e pontban foglaltakat a jótállási időn belül cserére vissza
 
 9. § (1) Az alapítvány, a közalapítvány, az egyesület, a köztestület, az egyházi jogi személy, ha az adóév utolsó napján ilyen jogalanynak minősül, a lakásszövetkezet és az önkéntes kölcsönös biztosítópénztár, valamint a közhasznú szervezetként besorolt felsőoktatási intézmény adóalapja a vállalkozási tevékenység adózás előtti eredménye, módosítva a (2)–(5) bekezdésben foglaltakkal és figyelemmel a (6)–(9) bekezdés rendelkezéseire.
 
+(1a) Az alapítvány, a közalapítvány és az egyesület esetében a vállalkozási tevékenység adózás előtti eredményét az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény rendelkezéseit figyelembe véve, a gazdasági-vállalkozási tevékenység adózás előtti eredményének megfelelően kell megállapítani, azzal, hogy e törvény alkalmazásában nem minősül vállalkozási tevékenységnek az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerint gazdasági-vállalkozási tevékenységnek nem minősülő – alapcél szerinti (közhasznú) – tevékenység.
+
+(1b) A köztestület az (1) és az (1a) bekezdésben foglaltakat a működésére irányadó törvényben foglalt eltérések figyelembevételével alkalmazza.
+
 (2) Csökkenteni kell az adózás előtti eredményt
 
 - a)
 - b) a közhasznú szervezetként besorolt alapítványnak, közalapítványnak, egyesületnek, köztestületnek és felsőoktatási intézménynek vállalkozási tevékenysége adózás előtti nyereségének 20 százalékával;
 - c) a 7. § (1) bekezdésének a), b), cs), d), g), gy), i), j),, n), o), r), t), u) és v) pontja, továbbá a 7. § (3), (10) és (18) bekezdése alapján megállapított értékből a vállalkozási tevékenységhez közvetlenül hozzárendelhető összeggel, illetőleg közvetett kapcsolat esetén a vállalkozási tevékenység bevételével arányos összeggel;
-- d)
-- e) a munkáltatói és munkavállalói érdekképviseleti szervezetnél a vállalkozási tevékenység adóévi adózás előtti nyereségének azzal a részével, amelyet az adóévben, az adóévet követő adóévben a szervezet alapítói okiratában, alapszabályában nevesített célszerinti tevékenysége bevételét meghaladó költsége, ráfordítása fedezetére használ fel.
+- d) a c) ponttól eltérően az alapítványnál, a közalapítványnál, az egyesületnél, a köztestületnél a 7. § (1) bekezdés a), b), cs), d), i), j), n), o), r), t), u) és v) pontja, valamint a 7. § (3) és (18) bekezdése alapján megállapított értékből a vállalkozási tevékenységhez közvetlenül hozzárendelhető összeggel, közvetett kapcsolat esetén a vállalkozási tevékenység bevételével arányos összeggel;
+- e) a munkáltatói és munkavállalói érdekképviseleti szervezetnél a vállalkozási tevékenység adóévi adózás előtti nyereségének azzal a részével, amelyet az adóévben, az adóévet követő adóévben a szervezet alapítói okiratában, alapszabályában nevesített célszerinti tevékenysége bevételét meghaladó költsége, ráfordítása fedezetére használ fel;
+- f) az alapítványnál, a közalapítványnál, az egyesületnél, a köztestületnél az ingatlanhoz kapcsolódóan a 7. § (1) bekezdés d) pontja szerint az adóévre kiszámított összeggel, továbbá az ingatlan megszerzésére, használatának átengedésére vagy átruházására tekintettel, azzal közvetlen összefüggésben az alapcél szerinti (közhasznú) tevékenység költségeként, ráfordításaként az adóévben elszámolt összeggel.
 
 (3) Növelni kell az adózás előtti eredményt
 
 - a) a 8. § (1) bekezdés a), b), d), e), gy), h), j), m), p) és r) pontja, továbbá a 8. § (5) bekezdése alapján megállapított értékből a vállalkozási tevékenységhez közvetlenül hozzárendelhető összeggel, illetőleg közvetett kapcsolat esetén a vállalkozási tevékenység bevételével arányos összeggel;
-- b) az alapítványnak, a közalapítványnak, az egyesületnek, a köztestületnek és a közhasznú szervezetként besorolt felsőoktatási intézménynek a nem a vállalkozási tevékenységéhez kapott támogatás, juttatás
-  - ba) teljes összegével, ha az adóév utolsó napján az állami vagy önkormányzati adóhatóságnál nyilvántartott adótartozása van,
-  - bb) a közhasznú szervezet a (7) bekezdésben előírt aránnyal számított részével, ha nincs az adóév utolsó napján az állami vagy önkormányzati adóhatóságnál nyilvántartott adótartozása, de a vállalkozási tevékenységből származó bevétele meghaladja a kedvezményezett mértéket.
+- b) a nem a vállalkozási tevékenységéhez kapott támogatás, juttatás
+  - ba) teljes összegével az alapítványnak, a közalapítványnak, az egyesületnek, a köztestületnek, a közhasznú szervezetként besorolt felsőoktatási intézménynek, ha az adóév utolsó napján az állami vagy önkormányzati adóhatóságnál nyilvántartott adótartozása van,
+  - bb) (7) bekezdésben előírt aránnyal számított részével a közhasznú szervezetnek minősülő alapítványnál, közalapítványnál, egyesületnél, köztestületnél, ha nincs az adóév utolsó napján az állami vagy önkormányzati adóhatóságnál nyilvántartott adótartozása, de a vállalkozási tevékenységből származó, a c) pont szerinti összeggel növelt bevétele meghaladja a kedvezményezett mértéket,
+  - bc) (7) bekezdésben előírt aránnyal számított részével a közhasznú szervezetként besorolt felsőoktatási intézménynek, ha nincs az adóév utolsó napján az állami vagy önkormányzati adóhatóságnál nyilvántartott adótartozása, de a vállalkozási tevékenységből származó bevétele meghaladja a kedvezményezett mértéket;
+- c) az alapítványnál, a közalapítványnál, az egyesületnél, a köztestületnél az ingatlan megszerzésére, használatának átengedésére vagy átruházására tekintettel, azzal közvetlen összefüggésben az alapcél szerinti (közhasznú) tevékenység bevételeként az adóévben elszámolt összeggel;
+- d) az alapítványnál, a közalapítványnál, az egyesületnél, a köztestületnél az ingatlanhoz kapcsolódóan a 8. § (1) bekezdés b) pontja szerint az adóévre kiszámított összeggel.
 
 (4) A (2) és (3) bekezdésben foglaltakat figyelembe véve kell alkalmazni a 16., a 18. és a 28. §-ok,valamint a VII. fejezet rendelkezéseit.
 
@@ -434,13 +442,15 @@ azzal, hogy az e pontban foglaltakat a jótállási időn belül cserére vissza
 
 (6) A közhasznú szervezetként besorolt alapítvány, közalapítvány, egyesület, köztestület és felsőoktatási intézmény adóalapja az (1)–(4) bekezdés alapján meghatározott összegnek a (7) bekezdésben előírt aránnyal számított része.
 
-(7) A kedvezményezett vállalkozási tevékenység mértéke közhasznú szervezet esetében az összes bevétele 15 százaléka. A (3) bekezdés b) pontjában és a (6) bekezdésben foglaltak meghatározásához az arányt a kedvezményezett vállalkozási tevékenység mértékét meghaladóan elért vállalkozási bevétel és a vállalkozási tevékenység összes bevételének hányadosaként (két tizedesjegy pontossággal) kell számítani.
+(7) A kedvezményezett bevételi mérték közhasznú szervezet esetében az összes bevétele 15 százaléka. A (3) bekezdés b) pontjában és a (6) bekezdésben foglaltak meghatározásához az arányt a kedvezményezett bevételi mértéket meghaladóan elért vállalkozási tevékenységből származó, a (3) bekezdés c) pontja szerinti összeggel növelt bevétel és a vállalkozási tevékenységből származó, a (3) bekezdés c) pontja szerinti összeggel növelt összes bevételének hányadosaként (két tizedesjegy pontossággal) kell számítani.
 
 (8) Az országos érdek-képviseleti szervezet az adóalapot az (1)–(7) bekezdések szerint, a közhasznú szervezetre vonatkozó rendelkezések megfelelő alkalmazásával állapítja meg.
 
-(9) Az egyházi jogi személy vállalkozási tevékenysége adózás előtti eredményét a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény és az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló törvény rendelkezéseinek figyelembevételével, az adóalapot az (1)–(7) bekezdéseknek a közhasznú szervezetekre vonatkozó rendelkezései megfelelő alkalmazásával állapítja meg,
+(9) Az egyházi jogi személy vállalkozási tevékenysége adózás előtti eredményét a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény és az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló törvény rendelkezéseinek figyelembevételével, az adóalapot az (1)–(7) bekezdéseknek a közhasznú szervezetre vonatkozó rendelkezései megfelelő alkalmazásával állapítja meg,
 
 (10) Az európai területi társulás, és a foglalkoztatói nyugdíjszolgáltató intézmény az adóalapot az (1)–(7) bekezdések megfelelő alkalmazásával állapítja meg.
+
+(10a) A (8), a (9) és a (10) bekezdés hatálya alá tartozó adózó az adóalap megállapítása során figyelmen kívül hagyja a (2) bekezdés d) és f) pontja, a (3) bekezdés b) pont bb) alpontja, a (3) bekezdés c) és d) pontja szerinti rendelkezéseket.
 
 (11) Abban az adóévben, amelyben az alapítvány, a közalapítvány, az egyesület, a köztestület az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerint elsődlegesen gazdasági-vállalkozási tevékenységű szervezetnek minősül, a társasági adó alapja – az (1)–(10) bekezdéstől eltérően – az adózás előtti eredmény, módosítva a 7–8. §-ban, a 16. §-ban, a 18. §-ban és a 28. §-ban, valamint a VII. Fejezetben foglaltakkal.
 
@@ -473,9 +483,13 @@ azzal, hogy az e pontban foglaltakat a jótállási időn belül cserére vissza
 (2) Az adózás előtti eredményt csökkenti:
 
 - a) a 7. § (1) bekezdésének a), b), cs), d), g), gy), j), n), o), r) és u) pontjai, valamint a 7. § (3) és (10) bekezdése szerinti összeg,
-- b) a saját erő címén a résztvevők által befizetett összeg, a résztvevőket foglalkoztató társaság által átutalt összeg, a résztvevők egyéb befizetései, valamint a más természetes és jogi személyek befizetései.
+- b) a saját erő címén a résztvevők által befizetett összeg, a résztvevőket foglalkoztató társaság által átutalt összeg (a javadalmazási politika keretében megszerezhető pénzügyi eszközök kezelését szolgáló MRP szervezetnél ide nem értve az MRP indításával, valamint az MRP szervezet megalakulásával, működésével és megszűnésével összefüggő költségei, ráfordításai fedezetére az alapító által az adóévben átutalt összeget), a résztvevők egyéb befizetései, valamint a más természetes és jogi személyek befizetései,
+- c) a javadalmazási politika keretében megszerezhető pénzügyi eszközök kezelését szolgáló MRP szervezetnél a javadalmazási politika keretében átvett értékpapír vagy értékpapírhoz kapcsolódó jog értékeléséből, pénzre történő átváltásából eredő adóévi bevétel, továbbá a tagi részesedés bevonásához kapcsolódó elszámolásokból eredő adóévi bevétel.
 
-(3) Az adózás előtti eredményt növeli a 8. § (1) bekezdésének a), b), d), e), gy), h), j), m), p) és r) pontjai, valamint a 8. § (5) bekezdése szerinti összeg.
+(3) Az adózás előtti eredményt növeli:
+
+- a) a 8. § (1) bekezdésének a), b), d), e), gy), h), j), m), p) és r) pontjai, valamint a 8. § (5) bekezdése szerinti összeg;
+- b) a javadalmazási politika keretében megszerezhető pénzügyi eszközök kezelését szolgáló MRP szervezetnél a javadalmazási politika keretében átvett értékpapír vagy értékpapírhoz kapcsolódó jog értékeléséből, pénzre történő átváltásából eredő adóévi ráfordítás, továbbá a tagi részesedés bevonásához kapcsolódó elszámolásokból eredő adóévi ráfordítás.
 
 (4) Az MRP a (2) és (3) bekezdésben foglaltakat figyelembe véve alkalmazza a 16., 18. és a 28. §-ok, valamint a VII. fejezet rendelkezéseit .
 
@@ -727,7 +741,7 @@ azzal, hogy az e pontban foglaltakat a jótállási időn belül cserére vissza
 
 20. § (1) Nem kell az adót megfizetnie
 
-- a) a közhasznú szervezetnek nem minősülő alapítványnak, közalapítványnak, egyesületnek – kivéve az országos érdekképviseleti szervezetet –, köztestületnek, továbbá a lakásszövetkezetnek, ha – a gazdálkodására vonatkozó külön jogszabályok előírása szerint és a 6. számú mellékletben foglaltakat figyelembe véve nyilvántartott – vállalkozási tevékenységéből elért bevétele legfeljebb 10 millió forint, de nem haladja meg az adóévben elért összes bevételének 10 százalékát,
+- a) a közhasznú szervezetnek nem minősülő alapítványnak, közalapítványnak, egyesületnek (ide nem értve az országos érdekképviseleti szervezetet), köztestületnek, továbbá a lakásszövetkezetnek, ha – a gazdálkodására vonatkozó külön jogszabályok előírása szerint és a 9. § (1a)–(1b) bekezdésében, továbbá a 6. számú mellékletben foglaltakat figyelembe véve nyilvántartott – vállalkozási tevékenységből származó, a 9. § (3) bekezdés c) pontja szerinti összeggel növelt bevétele legfeljebb 10 millió forint, de nem haladja meg az adóévben elért összes bevételének 10 százalékát,
 - b)
 - c) az önkéntes kölcsönös biztosító pénztárnak, amennyiben a pénztár kiegészítő vállalkozási tevékenységből származó bevétele nem haladja meg a pénztár összes bevételének a 20 százalékát,
 - d) a vízitársulatnak az (5) bekezdésben – 2009. július 1-jétől a (6) bekezdésben – foglaltak szerinti adóalapra számított adónak olyan része után, amelyet a közfeladatként végzett tevékenységből elért bevétele képvisel az összes bevételen belül,
@@ -960,7 +974,7 @@ a támogatás adóévében megfizetni.
 - b) versenyeztetéssel összefüggő igazolt költségeinek 90 százalékát,
 - c) személyi jellegű ráfordítása 50 százalékát,
 - d) képzési feladataival összefüggő kiadásainak
-  - da) általános képzés esetén 50 százalékát, ami a 651/2014/EU bizottsági rendelet 31. cikk (4) bekezdésében foglaltaknak megfelelően legfeljebb 70%-os mértékig növelhető,
+  - da) általános képzés esetén 50 százalékát, amely a 651/2014/EU bizottsági rendelet 31. cikk (4) bekezdésében foglaltaknak megfelelően legfeljebb 70%-os mértékig növelhető,
   - db) szakképzés esetén 25 százalékát,
 - e) tárgyi eszköz beruházás, felújítás beruházási, felújítási értéke – ideértve a biztonsági követelmények teljesülését szolgáló infrastruktúra-fejlesztést is –
   - ea) (6) bekezdés ba) alpontjában foglaltak teljesülése esetén 70,
@@ -1191,25 +1205,27 @@ a felajánlás fogadására jogosult szervezetnek átutalja, feltéve, hogy telj
 - c) az adóévi adózás előtti eredményének a megelőző adóévi adózás előtti eredményét meghaladó része (a továbbiakban: növekedési adóhitel) eléri vagy meghaladja az adózó megelőző adóévi adózás előtti eredménye abszolút értékének az ötszörösét, valamint
 - d) az adóelőleg-kiegészítési kötelezettség teljesítésére nyitva álló határidőig az adóhatóság részére nyilatkozik arról, hogy a növekedési adóhitelre vonatkozó rendelkezéseket kívánja alkalmazni, akkor a növekedési adóhitel összegének vonatkozásában az adóévi adóelőleg-kiegészítési, adóbevallási és adófizetési kötelezettségének az adóévben és az adóévet követő két adóévben – az általános szabályoktól eltérően – e § rendelkezései alapján tehet eleget azzal, hogy a növekedési adóhitel összegének számításakor a kapott (járó) osztalék, a kapott (esedékes) kamat összegét, valamint az adóévben az adózó kapcsolt vállalkozásától visszafizetési kötelezettség nélkül kapott támogatás, juttatás, véglegesen átvett pénzeszköz összegét, és térítés nélkül átvett eszköz értékét, továbbá az adózó kapcsolt vállalkozása által ellenérték nélkül átvállalt kötelezettségnek adóévi bevételként elszámolt összegét nem lehet figyelembe venni.
 
-(2) Az (1) bekezdés szerinti feltételeknek megfelelő adózónak az adóévben az adóelőleg adóévi várható fizetendő adó összegére történő kiegészítésekor a növekedési adóhitel összegére jutó adóelőleg összegét (ide nem értve az adóévet megelőző adóév negatív adózás előtti eredményére jutó adóelőleget) nem kell megfizetnie.
+(2) Az (1) bekezdés szerinti feltételeknek megfelelő adózónak az adóévben az adóelőleg adóévi várható fizetendő adó összegére történő kiegészítésekor a növekedési adóhitel összegére jutó adóelőleg összegét (ide nem értve az adóévet megelőző adóév negatív adózás előtti eredményére jutó adóelőleget), de legfeljebb az adóelőleg-kiegészítésként megfizetendő összeget nem kell megfizetnie.
 
 (3) Az (1) bekezdés szerinti feltételeknek megfelelő adózó az adóévi társasági adóelőleg-kiegészítési kötelezettségről szóló bevallás benyújtására nyitva álló határidő utolsó napjáig a társasági adóelőleg-kiegészítési kötelezettségről szóló bevallásban, vagy – ha adóelőleg-kiegészítésre nem köteles – az adóhatóság által rendszeresített külön nyomtatványon, elektronikus úton a növekedési adóhitel várható összege vonatkozásában az adóelőleget megállapítja, bevallja, valamint az adóévet követő adóév első és második negyedévében, a negyedév második hónapjának 20. napjáig a növekedési adóhitel vonatkozásában megállapított és bevallott adóelőleg 25 százalékát két egyenlő részletben megfizeti.
 
-(4) Az (1) bekezdés szerinti feltételeknek megfelelő adózó az adóévi társasági adóbevallásában a növekedési adóhitel összegére jutó fizetendő adót megállapítja, bevallja és a növekedési adóhitel összegére jutó adó (3) bekezdés alapján megfizetett adóelőlegre tekintettel megállapított összegét (ide nem értve az adóévet megelőző adóév negatív adózás előtti eredményére jutó adó összegét) az adóévet követő adóév harmadik és negyedik negyedévében, valamint az adóévet követő második adóévben negyedévenként, a negyedév második hónapjának 20. napjáig hat egyenlő részletben megfizeti.
+(4) Az (1) bekezdés szerinti feltételeknek megfelelő adózó az adóévi társasági adóbevallásában a növekedési adóhitel összegére jutó fizetendő adót megállapítja, bevallja és a növekedési adóhitel összegére jutó adó, de legfeljebb az adóévre fizetendő adó (3) bekezdés alapján megfizetett adóelőlegre tekintettel megállapított összegét (ide nem értve az adóévet megelőző adóév negatív adózás előtti eredményére jutó adó összegét) az adóévet követő adóév harmadik és negyedik negyedévében, valamint az adóévet követő második adóévben negyedévenként, a negyedév második hónapjának 20. napjáig hat egyenlő részletben megfizeti.
 
-(5) Az (1) bekezdés szerinti feltételeknek megfelelő adózó a növekedési adóhitel vonatkozásában a fizetendő adóelőleget és adót a 6. §-ban foglaltak szerint a 19. § szerinti mértékkel állapítja meg.
+(5) Az (1) bekezdés szerinti feltételeknek megfelelő adózó a növekedési adóhitel vonatkozásában a fizetendő adóelőleget és adót a 6. § (1)–(4) bekezdésében foglaltak szerint a 19. § szerinti mértékkel állapítja meg. Az (1) bekezdés szerinti feltételeknek megfelelő adózó a növekedési adóhitel vonatkozásában a fizetendő adóelőleg és adó megállapításakor az e törvény szerinti adóévi adóalap-csökkentő és adóalap-növelő jogcímeken figyelembe vett összeget arányosan (a növekedési adóhitelnek az adóévi, az (1) bekezdés szerint számított adózás előtti eredményhez viszonyított részarányával számítva) veszi számításba, azzal, hogy amennyiben az arányszám elérné vagy meghaladná a száz százalékot, akkor az adóalap-módosító tételeket teljes összegükben kell figyelembe venni.
 
-(6) Ha a növekedési adóhitelre vonatkozó rendelkezéseket alkalmazó adózó bármely okból kikerül e törvény hatálya alól, akkor a kikerülés napjával a növekedési adóhitel korábban meg nem fizetett összege egy összegben esedékessé válik.
+(6) Ha a növekedési adóhitelre vonatkozó rendelkezéseket alkalmazó adózó – az átalakulás, egyesülés, szétválás miatti megszűnést kivéve – bármely okból kikerül e törvény hatálya alól, akkor a kikerülés napjával a növekedési adóhitel összegére jutó adóelőleg, adó korábban meg nem fizetett összege egy összegben esedékessé válik.
+
+(6a) Az átalakulás, egyesülés, szétválás napjától számított 30 napon belül a jogutód köteles a növekedési adóhitel korábban meg nem fizetett (az átalakulás, egyesülés, szétválás formájától függően azzal egyező, összesített, megosztott) összegét bevallani és a jogelődre vonatkozó határidő figyelembe vételével megfizetni. Kiválás esetén a fennmaradó gazdasági társaság e rendelkezés alkalmazásában jogutódnak is minősül.
 
 (7) Nem alkalmazhatja az (1) bekezdés szerinti rendelkezéseket az adózó a végelszámolás, a felszámolás kezdő napját megelőző nappal lezáruló adóévben és a végelszámolás időszaka alatt, vagy – ha végelszámolás, felszámolás nélkül szűnik meg jogutód nélkül – utolsó adóévében.
 
-(8) A növekedési adóhitelt igénybe vevő adózó az (1) bekezdés d) pontja szerinti nyilatkozat megtételének adóévét követő két adóévben megvalósult beruházása kapcsán a növekedési adóhitel összegére jutó adó még esedékessé nem vált összegét választása szerint csökkentheti a (9) bekezdés szerinti kedvezményezett beruházási érték 19%-ával, legfeljebb a növekedési adóhitelre jutó adó még esedékessé nem vált összegének 70%-ával a (9)–(11) bekezdésekben foglalt feltételek teljesülése esetén. A csökkentés elsőként a növekedési adóhitelre jutó legközelebbi esedékességű adóból érvényesíthető.
+(8) A növekedési adóhitelt igénybe vevő adózó az (1) bekezdés d) pontja szerinti nyilatkozat megtételének adóévét követő két adóévben megvalósult beruházása kapcsán a növekedési adóhitel összegére jutó adó még esedékessé nem vált összegét választása szerint csökkentheti a (9) bekezdés szerinti kedvezményezett beruházási érték 19%-ával, legfeljebb a növekedési adóhitelre jutó adó még esedékessé nem vált összegének 90%-ával a (9)–(11) bekezdésekben foglalt feltételek teljesülése esetén. A csökkentés elsőként a növekedési adóhitelre jutó legközelebbi esedékességű adóból érvényesíthető.
 
-(9) Kedvezményezett beruházási érték az (1) bekezdés d) pontja szerinti nyilatkozat adóévét követő két adóévben az adózó (ide nem értve az adózó külföldi telephelyét) által beszerzett, előállított, korábban még használatba nem vett tárgyi eszköz bekerülési értéke, de legfeljebb a foglalkoztatottak átlagos állományi létszáma (1) bekezdés d) pontja szerinti nyilatkozat adóévét követő adóévben, majd pedig a második adóévben bekövetkezett, a külföldi telephelyen foglalkozatott létszám figyelmen kívül hagyásával számított növekményének és 10 millió forintnak a szorzata, azzal, hogy a (8) bekezdés szerinti kedvezmény nem érvényesíthető olyan tárgyi eszközzel kapcsolatban elszámolt beruházásra, amely tárgyi eszközre nem számolható el vagy nem szabad elszámolni terv szerinti értékcsökkenést. A létszámnövekményt az adóév utolsó napján a megelőző adóév utolsó napján fennálló állapothoz képest kell meghatározni, azzal, hogy a várható létszámnövekményt év közben is figyelembe lehet venni a (8) bekezdés szerinti csökkentés számításakor. Ha az adózó a (8) bekezdés szerinti csökkentést a várható létszámnövekményre tekintettel alkalmazza, azonban az adóév utolsó napján a foglalkoztatottak átlagos állományi létszáma nem haladja meg a megelőző adóév utolsó napján fennálló létszámot, akkor az adózó a (8) bekezdés szerinti kedvezmény érvényesítésének adóévét követő 30 napon belül köteles – társasági adóként – visszafizetni a nem teljesített létszámnövekmény és 10 millió forint szorzata 19%-ának megfelelő összeget.
+(9) Kedvezményezett beruházási érték az (1) bekezdés d) pontja szerinti nyilatkozat adóévét követő két adóévben az adózó (ide nem értve az adózó külföldi telephelyét) által beszerzett, előállított, korábban még használatba nem vett tárgyi eszköz bekerülési értéke, de legfeljebb a foglalkoztatottak átlagos állományi létszáma az (1) bekezdés d) pontja szerinti nyilatkozat adóévét követő adóévben, majd pedig a második adóévben bekövetkezett, a külföldi telephelyen foglalkozatott létszám figyelmen kívül hagyásával számított növekményének és 10 millió forintnak a szorzata, azzal, hogy a (8) bekezdés szerinti kedvezmény nem érvényesíthető olyan tárgyi eszközzel kapcsolatban elszámolt beruházásra, amely tárgyi eszközre nem számolható el vagy nem szabad elszámolni terv szerinti értékcsökkenést. A létszámnövekményt az adóév utolsó napjára megállapított átlagos állományi létszámnak a megelőző adóév utolsó napjára megállapított átlagos állományi létszámhoz fennálló állapothoz képest kell meghatározni, azzal, hogy a várható létszámnövekményt év közben is figyelembe lehet venni a (8) bekezdés szerinti csökkentés számításakor. Amennyiben az adózó tényleges létszámnövekménye kisebb, mint amit az adózó év közben várható létszámnövekményként figyelembe vett és emiatt több kedvezményt (adócsökkentést) vett igénybe, mint amennyi a tényleges létszámnövekménye alapján elérhető, akkor a kedvezmény többletet a kedvezmény érvényesítésének adóévére vonatkozó társaságiadó-bevallásában köteles bevallani és az e bevallásra előírt határidőig – társasági adóként – visszafizetni.
 
-(10) A (9) bekezdésben meghatározott tárgyi eszköz vonatkozásában a (8) bekezdés szerint érvényesített összeget az adóalapnál elszámolt értékcsökkenési leírásnak kell tekinteni.
+(10) A (9) bekezdésben meghatározott tárgyi eszköz vonatkozásában a (8) bekezdés szerint érvényesített összegre jutó adóalapot az adóalapnál elszámolt értékcsökkenési leírásnak kell tekinteni.
 
-(11) A (9) bekezdésben meghatározott beruházás esetén a kedvezmény igénybevételének feltétele, hogy az adózó a foglalkoztatottak átlagos állományi létszámát növelje és azokat az új munkahelyeket, amelyeket a foglalkoztatottak átlagos állományi létszáma növekményénél figyelembe vett az első alkalommal történő betöltésük időpontját követően legalább két éven keresztül az érintett régióban fenntartja. Amennyiben a (9) bekezdés szerint figyelembe vett foglalkoztatottak átlagos állományi létszáma csökken, az adózó a (8) bekezdés szerinti kedvezmény érvényesítésének adóévét követő 30 napon belül köteles – társasági adóként – visszafizetni a nem teljesített létszámnövekmény és 10 millió forint szorzata 19%-ának megfelelő összeget.
+(11) A (9) bekezdésben meghatározott beruházás esetén a kedvezmény igénybevételének feltétele, hogy az adózó a foglalkoztatottak átlagos állományi létszámát növelje és azokat az új munkahelyeket, amelyeket a foglalkoztatottak átlagos állományi létszáma növekményénél figyelembe vett az első alkalommal történő betöltésük időpontját követően legalább két éven keresztül az érintett régióban fenntartja. Amennyiben a (9) bekezdés szerint figyelembe vett foglalkoztatottak átlagos állományi létszáma csökken, az adózó a létszámcsökkenés adóévére vonatkozó társaságiadó-bevallásban köteles bevallani és e bevallásra előírt határidőig – társasági adóként – visszafizetni a nem teljesített létszámnövekmény és 10 millió forint szorzata 19%-ának megfelelő összeget.
 
 (12) A növekedési adóhitelt igénybe vevő azon adózó, amely az adóbevallás megtételét követően alkalmazza a (8) bekezdést, a (4) bekezdés szerint megállapított növekedési adóhitelre jutó adót az adóhatósághoz benyújtott önellenőrzéssel pótlékmentesen módosíthatja.
 
@@ -1305,6 +1321,10 @@ a felajánlás fogadására jogosult szervezetnek átutalja, feltéve, hogy telj
 (12) A Budapesti Közlekedési Zártkörűen Működő Részvénytársaság adózás előtti eredményét csökkenti a jogszabály vagy kormányhatározat alapján a Magyar Állam részéről átvállalt vagy elengedett kötelezettség elszámolásából adódó bevétel összege.
 
 (13) E törvénynek az egyes adótörvények módosításáról szóló 2015. évi LXXXI. törvénnyel megállapított 29/A. § (12) bekezdését a Budapesti Közlekedési Zártkörűen Működő Részvénytársaság a 2015. évi adókötelezettségének megállapítása során is alkalmazhatja.
+
+(14) Az alapítvány, a közalapítvány, az egyesület és a köztestület a 2015. évben kezdődő adóévi adókötelezettsége megállapítása során választása szerint vagy az e törvénynek az adózás rendjéről szóló 2003. évi XCII. törvény és egyes adótörvények módosításáról szóló 2015. évi CLXXXVII. törvénnyel megállapított 9. §-át és 20. §-át, vagy az e törvény 2015. január 1-jén hatályos 9. §-át, 20. §-át és a 6. számú melléklet A) részét veszi figyelembe.
+
+(15) E törvénynek az adózás rendjéről szóló 2003. évi XCII. törvény és egyes adótörvények módosításáról szóló 2015. évi CLXXXVII. törvénnyel megállapított, növekedési adóhitelre vonatkozó rendelkezéseit az adózó első alkalommal a 2015. adóévi adókötelezettsége megállapítása során alkalmazhatja.
 
 29/B. § (1) A Quaestor károsultak kárrendezését biztosító követeléskezelő alap létrehozásáról szóló 2015. évi XXXIX. törvény (a továbbiakban: Kárrendezési Törvény) alapján a Quaestor Károsultak Kárrendezési Alapja (a továbbiakban: Alap) részére az Alap záró beszámolójának elfogadásáig a Kárrendezési Törvény 4. §-a alapján előleget befizető adózó által megelőlegezett, de meg nem térült követelés összege (a továbbiakban e §-ban: visszajáró összeg) csökkenti az Alap záró beszámolója elfogadásának adóévére az előleget befizető adózó által fizetendő társasági adót, majd a fizetendő pénzügyi szervezetek különadóját vagy a fizetendő hitelintézeti különadót, majd a fizetendő pénzügyi tranzakciós illetéket.
 
@@ -1618,7 +1638,7 @@ az e törvény 2009. december 31-én hatályos 7. §-a (1) bekezdése ly) alpont
 
 (11) Felhatalmazást kap a kultúráért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben a 22. § (1) bekezdése és a 24/A. § alapján az előadó-művészeti szervezeteknek nyújtott támogatásra vonatkozóan
 
-- a) a támogatás felhasználásának időtartamát, elszámolható költségeinek körét, a támogatás felhasználásáról készült beszámoló formai és tartalmi követelményeit, továbbá a beszámoló benyújtásával és elfogadásával kapcsolatos részletes szabályokat;
+- a) a támogatás felhasználásának időtartamát, a támogatás elszámolható költségeinek körét, a támogatás felhasználásáról készült beszámoló formai és tartalmi követelményeit, továbbá a beszámoló benyújtásával és elfogadásával kapcsolatos részletes szabályokat;
 - b) a 22. § (4) bekezdése szerinti támogatási igazolás és a 24/A. §-a szerinti igazolás iránti kérelem tartalmát, a támogatási igazolás, a 24/A. § szerinti igazolás kiállítására irányuló eljárás szabályait, a támogatási igazolás, a 24/A. § szerinti igazolás tartalmát, valamint a támogatási igazolással, a 24/A. § szerinti igazolással kapcsolatos adatszolgáltatás és ellenőrzés, továbbá a 22. § (1) bekezdése szerinti kiegészítő támogatás megfizetésének részletes szabályait
 
 meghatározza.
@@ -1945,16 +1965,6 @@ A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenys
 Alapítvány, közalapítvány, egyesület, köztestület, lakásszövetkezet, közhasznú nonprofit gazdasági társaság, szociális szövetkezet és felsőoktatási intézmény által végzett kedvezményezett tevékenységek
 
 A)
-
-Alapítvány, közalapítvány, egyesület és köztestület által végzett kedvezményezett tevékenységek
-
-Az alapítvány, a közalapítvány, az egyesület és a köztestület 1. § (1) bekezdése szerinti jövedelem- és vagyonszerzésre irányuló vagy ezt eredményező gazdasági tevékenységéből e törvény alkalmazásában nem minősül vállalkozási tevékenységnek:
-
-1. a közhasznú tevékenység és az alapító okiratában, alapszabályában nevesített cél szerinti tevékenység, ideértve mindkét esetben az e tevékenységhez kapott támogatást, juttatást és a tagdíjat is;
-
-2. a kizárólag a közhasznú tevékenységet vagy a cél szerinti tevékenységet szolgáló immateriális javak, tárgyi eszközök, készletek értékesítésének ellenértéke, bevétele;
-
-3. a szabad pénzeszközök betétbe, értékpapírba való elhelyezése után a hitelintézettől, az értékpapír kibocsátójától kapott kamatnak, illetve az állam által kibocsátott értékpapír hozamának olyan része, amelyet a közhasznú tevékenység és a cél szerinti tevékenység bevétele az összes bevételben képvisel, azzal, hogy a bevételt mindkét esetben e kamat és hozam nélkül kell számításba venni.
 
 B)
 

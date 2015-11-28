@@ -262,6 +262,7 @@ váltja ki, feltéve, hogy a nyugdíjbiztosítási szerződés létrejöttétől
 - 97. Nem csökkenő összegű járadékszolgáltatás: a biztosító olyan szolgáltatása, amikor a biztosító rendszeres teljesítései közül a mindenkori utolsó teljesítés – pénzben vagy más egységben kifejezett – összege nagyobb vagy egyenlő a mindenkori utolsó teljesítést közvetlenül megelőző biztosítói teljesítés összegénél, ideértve azt az esetet is, amikor a biztosítói teljesítés összege igazolhatóan kizárólag a biztosítói teljesítés gyakoriságának és/vagy a folyósítás tartamának módosulása miatt változik.
 - 98. Biztosító teljesítése: a biztosító által a biztosítási jogviszonyra tekintettel bármilyen jogcímen kifizetett összeg, juttatott vagyoni érték, tekintettel az 1. számú melléklet rendelkezéseire is.
 - 99. Kiegészítő biztosítás: a nyugdíjbiztosításra vonatkozó rendelkezések alkalmazása során kiegészítő biztosítás az olyan biztosítás – függetlenül attól, hogy az milyen kockázatra nyújt fedezetet –, amelynek saját különös szerződési feltétele van és díja a nyugdíjbiztosítás díjától a számviteli jogszabályok szerint elkülönített (ideértve a szerződéses feltételek szerint rögzített módon meghatározott, levonással érvényesített díjat is).
+- 100. Pénzügyi intézmény: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti hitelintézet és pénzügyi vállalkozás, továbbá a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvény szerinti befektetési vállalkozás.
 
 3/A. §
 
@@ -394,6 +395,8 @@ alapján illeti meg.
 (1c) A 9. § (3a) bekezdésében említett esetet kivéve nem szerez bevételt a biztosított magánszemély, ha a más személy által kötött biztosítási jogviszonyba a szerződő helyébe lép, és a szerződő által korábban megfizetett biztosítási díjat a szerződőnek nem téríti meg.
 
 (1d) A magánszemély részére nem eredményez adókötelezettséget – bármely adóévre vonatkozóan –, ha a magánszemély pénzügyi intézménnyel szemben fennálló követelését eredményező jogviszonya a pénzügyi intézmény felszámolása miatt szűnik meg, ideértve az adó feletti rendelkezés esetére meghatározott visszafizetési kötelezettséget is. A pénzügyi intézmény felszámolásával összefüggésben kárrendezés címén a magánszemélyt megillető összeg után adókötelezettség megállapításának nincs helye.
+
+(1e) Nem szerez bevételt a magánszemély a javadalmazási politika keretében megszerezhető pénzügyi eszközök kezelését szolgáló MRP szervezet résztvevőjeként az MRP szervezet tagi részesedésének és a szervezet által kezelt pénzügyi eszköz megszerzésével összefüggő kedvezmény révén.
 
 (2) Nem számít költségnek az a kiadás, amely alacsony adókulcsú államban székhellyel, állandó lakóhellyel rendelkező személy vagy egyébként ellenőrzött külföldi társaság részére juttatott ellenérték következtében merült fel, kivéve, ha a magánszemély bizonyítja, hogy a kiadás a bevételszerző tevékenységgel közvetlen összefüggésben, kizárólag a bevétel megszerzése, a tevékenység folytatása érdekében merült fel. Szintén nem számít költségnek az a kiadás, amely
 
@@ -2088,7 +2091,7 @@ kell figyelembe venni.
 
 (5) Az MRP szervezet megszűnése esetén a részt vevő magánszemély által a szervezet vagyonából megszerzett bevételnek az a része, amely meghaladja a magánszemély részére még járó, de a tulajdonába korábban nem került, a szervezet analitikájában a számvitelről szóló törvény felhatalmazása alapján kiadott kormányrendelet szerint elkülönítetten, a megszerzett részvények, üzletrészek között kimutatott értékpapírok (ide nem értve a visszavásárolt vagyonrésznek minősülő értékpapírokat) együttes könyv szerinti értékét, a magánszemély jövedelmének minősül. A bevételt és az értékpapírok könyv szerinti értékét a szervezet utolsó üzleti évéről elkészített beszámolót alátámasztó nyilvántartások szerint kell megállapítani. Az MRP szervezet az adózás rendjéről szóló törvényben az adóbevallás benyújtására előírt határidőig résztvevőnként adatot szolgáltat az adóhatóság részére a jövedelem megállapításakor a bevétel csökkentéseként elszámolt értékpapírok együttes könyv szerinti értékéről.
 
-(6)
+(6) A javadalmazási politika keretében megszerezhető pénzügyi eszközök kezelését szolgáló MRP szervezet vagyonából a résztvevő által tagi részesedése bevonása következtében, arra tekintettel megszerzett bevétel a résztvevő jövedelmének minősül. Ha az MRP alapjául szolgáló javadalmazási politika arról rendelkezett, hogy a bevont tagi részesedéshez kapcsolódóan az MRP szervezet által vagyoni hozzájárulásként átvett pénzügyi eszközök ellenérték fejében illetik meg a résztvevőt, akkor a jövedelem megállapításánál (legfeljebb a bevétel összegéig) a résztvevő bevételét csökkentő tételként kell számításba venni az általa a pénzügyi eszköz ellenértékeként a tagi részesedése bevonásáig megfizetett összeget. Ha azonban a résztvevőt terhelő ellenérték teljesítése úgy történik, hogy az ellenértéket az MRP szervezet levonja a résztvevőt tagi részesedése bevonására tekintettel megillető igény összegéből, akkor az így levont összeget sem a résztvevő által megszerzett bevételként, sem az általa megfizetett ellenértékként nem lehet számításba venni. A résztvevő halála esetén örököse, vagy az általa a tagi részesedés kedvezményezettjeként megjelölt magánszemély a vállalkozásból kivont jövedelem megállapításakor a résztvevővel esik egy tekintet alá.
 
 (7) Ha az (1)–(3) és (5) bekezdés rendelkezései szerint a bevétel megállapításánál irányadó érték nem éri el az alapjául szolgáló eszköznek a jövedelemszerzés időpontjára vonatkozó szokásos piaci értékét, a jövedelem meghatározásakor a szokásos piaci értéket kell bevételnek tekinteni.
 
@@ -2358,7 +2361,8 @@ révén szerezte;
 - e) a névre szóló részvényt átváltoztatható kötvény átalakításával szerezte;
 - f) a kárpótlási jegyet az állami tulajdon privatizációja során értékesítésre kerülő vagyontárgy, részvény, üzletrész megvásárlására használja fel; ilyenkor a kárpótlási jegy felhasználásával megszerzett eszköz megszerzésére fordított érték meghatározásánál az eredeti jogosult magánszemélynél vagy – ha a kárpótlási jegy a hagyaték tárgyát képezte – örökösénél a kárpótlási jegy kamattal növelt értékét, míg más magánszemélynél a kárpótlási jegy megszerzésére fordított értéket is figyelembe kell venni;
 - g) részvényét, üzletrészét házastársi közös vagyon (vagyonközösség) megosztása révén, adásvételi szerződésen kívüli jogcímen szerezte; az így megszerzett részvény, üzletrész megszerzésre fordított értékeként azt az értéket lehet figyelembe venni, amelyet a házastárs megszerzésre fordított értékként figyelembe vehetett volna (üzletrész esetében a megszerzett üzletrész névértékének a megosztást megelőző üzletrész névértékéhez viszonyított arányával számított részt);
-- h) az értékpapírt visszterhes jogügylet keretében más magánszemélytől szerezte, feltéve, hogy az ellenérték összege (értéke) az értékpapír névértékét (névérték hiányában az értékpapír kibocsátójának jegyzett tőkéjéből az értékpapírra arányosan jutó rész összegét) eléri; e rendelkezés nem érinti e törvény adómentességet megállapító egyéb rendelkezéseinek alkalmazhatóságát.
+- h) az értékpapírt visszterhes jogügylet keretében más magánszemélytől szerezte, feltéve, hogy az ellenérték összege (értéke) az értékpapír névértékét (névérték hiányában az értékpapír kibocsátójának jegyzett tőkéjéből az értékpapírra arányosan jutó rész összegét) eléri; e rendelkezés nem érinti e törvény adómentességet megállapító egyéb rendelkezéseinek alkalmazhatóságát;
+- i) az értékpapírt a javadalmazási politika keretében megszerezhető pénzügyi eszközök kezelését szolgáló MRP szervezet résztvevőjeként szerezte; az MRP szervezet résztvevőnként, az adóévet követő év január 31-ig adatot szolgáltat az adóhatóság részére a résztvevőnek a tagi részesedése bevonása következtében, arra tekintettel átadott összes részvénynek az átadásuk napjára megállapított együttes szokásos piaci értékéről, valamint – ha az MRP alapjául szolgáló javadalmazási politika az átadott részvény ellenértékének megfizetéséről rendelkezett – a részvények ellenértékének a résztvevő által már megfizetett összegéről.
 
 (3) A (2) bekezdés alkalmazásában társas vállalkozás az a külföldi székhelyű jogi személy és egyéb szervezet is, amely a székhelye szerinti államban (kivéve az alacsony adókulcsú államot) a társasági adónak megfelelő adó alanya.
 
@@ -2903,6 +2907,18 @@ a magánszemély tartós befektetési szerződése lekötési nyilvántartásáb
 
 (6) A 2014-ben kezdődő adóév utolsó napjáig keletkezett, még nem érvényesített elhatárolt veszteség a 2014. december 31-én hatályos rendelkezések szerint írható le azzal, hogy az így elhatárolt veszteséget legkésőbb a 2025. adóévben lehet érvényesíteni.
 
+85. §
+
+86. § (1) A 2015. december 31-én hatályos 11/A. § szerinti adónyilatkozat és a 2015. december 31-én hatályos 12. § szerinti egyszerűsített bevallás utoljára a 2015. évre vonatkozóan nyújtható be.
+
+(2) Az adózás rendjéről szóló 2003. évi XCII. törvény és egyes adótörvények módosításáról szóló 2015. évi CLXXXVII. törvénnyel megállapított 12/A. § szerinti bevallási nyilatkozat első alkalommal a 2015. évben megszerzett jövedelmek vonatkozásában nyújtható be.
+
+(3) Az adózás rendjéről szóló 2003. évi XCII. törvény és egyes adótörvények módosításáról szóló 2015. évi CLXXXVII. törvénnyel megállapított 12/B. § szerinti adóbevallási tervezetet az állami adóhatóság első alkalommal a 2016. évi jövedelmekről készít.
+
+87. § E törvénynek az egyes törvényeknek a pénzügyi közvetítőrendszer fejlesztésének előmozdítása érdekében történő módosításáról szóló 2015. évi LXXXV. törvénnyel megállapított 7. § (1d) bekezdése a 2015. évi felszámolások esetén is alkalmazható.
+
+88. § E törvénynek az adózás rendjéről szóló 2003. évi XCII. törvény és egyes adótörvények módosításáról szóló 2015. évi CLXXXVII. törvénnyel megállapított 1. számú melléklet 7. pont 7.21. alpontja a 2014. évre vonatkozó adókötelezettség megállapításától alkalmazható.
+
 ### 1. számú melléklet az 1995. évi CXVII. törvényhez
 
 #### Az adómentes bevételekről
@@ -3261,7 +3277,7 @@ d) a c) pontban említett opciós jog érvényesítésekor a magánszemély ált
 
 7.20. lakóingatlanon alapított zálogjog fedezetével kötött, deviza alapú kölcsön (ideértve a deviza alapú, lakóingatlanra vonatkozó pénzügyi lízingszerződésből származó követelést is) adósa által teljesített, törvényben rögzített árfolyamon történő végtörlesztés miatt megszűnő kötelezettség;
 
-7.21. a pénzügyi intézmény által elengedett, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti pénzkölcsön nyújtásából származó követelés (akkor is, ha az elengedés egyezség keretében történik) feltéve, hogy a követelés elengedésére a pénzügyi intézmény belső szabályzatában foglaltak alapján, az azonos helyzetben lévőket egyenlő elbánásban részesítő elv betartásával – független felek között – kerül sor;
+7.21. a pénzügyi intézmény által elengedett, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti pénzkölcsön nyújtásából, pénzügyi lízingszerződésből származó követelés (akkor is, ha az elengedés egyezség keretében történik) feltéve, hogy a követelés elengedésére a pénzügyi intézmény belső szabályzatában foglaltak alapján, az azonos helyzetben lévőket egyenlő elbánásban részesítő elv betartásával – független felek között – kerül sor;
 
 7.22. az az összeg, amelyet az otthonteremtési kamattámogatásról szóló kormányrendelet szerint a hátralékos adós magánszemély javára a hitelintézet elenged, feltéve, hogy a magánszemély a késedelmes jelzáloghitellel terhelt átruházott ingatlanának a vonatkozó adásvételi szerződés szerinti vételárát teljes egészében hátraléka törlesztésére fordítja.
 
@@ -3286,6 +3302,8 @@ b) az a követelés, amelyet az adósnak a bírósági adósságrendezési eljá
 c) a hitelezőkkel kötött megállapodásban, egyezségben, a bíróság által hozott adósságtörlesztési határozatban az adós számára meghatározott adósságrendezési kötelezettség teljesítése érdekében települési önkormányzattól, munkáltatótól, közhasznú szervezettől vagy egyházi jogi személytől kapott támogatás vagy adomány, ha annak egy naptári évben egy adományozótól juttatott összege havi átlagban nem éri el az öregségi nyugdíj legkisebb összegének másfélszeresét.
 
 7.30. az egyes fogyasztói kölcsönszerződésekből eredő követelések forintra átváltásával kapcsolatos kérdések rendezéséről szóló törvény rendelkezéseinek végrehajtásával összefüggésben megszűnt kötelezettség.
+
+7.31. a magyarországi Holokauszt Emlékévhez kapcsolódó kezdeményezések támogatását célzó Civil Alap – 2014. pályázati program keretében magánszemély részére pályázat alapján elnyert támogatások, függetlenül a kifizetés időpontjától.
 
 8. A nem pénzben kapott juttatások közül adómentes:
 
@@ -3389,7 +3407,7 @@ b) a kifizető által ugyanazon magánszemélynek az adóévben legfeljebb 50 ez
 
 8.30.
 
-8.31. az MRP szervezet analitikájában a számvitelről szóló törvény felhatalmazása alapján kiadott kormányrendelet szerint elkülönítetten, a megszerzett részvények, üzletrészek között kimutatott, a résztvevő tulajdonába adott értékpapír (ide nem értve a visszavásárolt vagyonrésznek minősülő értékpapírt) ráfordításként elszámolt beszerzési (nyilvántartási) értékéből az a rész, amely meghaladja a tulajdonba adás időpontjáig a résztvevő által saját erő címen befizetett összeg alapján az MRP szervezet által elszámolt bevételt; az adómentes természetbeni juttatás összegéről az MRP szervezet résztvevőnként az adóévet követő január 31-éig adatot szolgáltat az adóhatóság számára;
+8.31. az MRP szervezet analitikájában a számvitelről szóló törvény felhatalmazása alapján kiadott kormányrendelet szerint elkülönítetten, a megszerzett részvények, üzletrészek között kimutatott, a résztvevő tulajdonába adott értékpapír (ide nem értve a visszavásárolt vagyonrésznek minősülő értékpapírt) ráfordításként elszámolt beszerzési (nyilvántartási) értékéből az a rész, amely meghaladja a tulajdonba adás időpontjáig a résztvevő által saját erő címen befizetett összeg alapján az MRP szervezet által elszámolt bevételt; az adómentes természetbeni juttatás összegéről az MRP szervezet résztvevőnként az adóévet követő január 31-éig adatot szolgáltat az adóhatóság számára, azzal, hogy e rendelkezést nem lehet alkalmazni a javadalmazási politika keretében megszerezhető pénzügyi eszközök kezelését szolgáló MRP szervezet résztvevője által megszerzett értékpapírra;
 
 8.32. a villamos energiáról szóló törvényben szabályozott szociális villamosenergia-ellátás keretében – a törvény felhatalmazása alapján kiadott jogszabályban meghatározott körben – nyújtott kedvezmény vagy támogatás, valamint a közüzemi szolgáltató által a közüzemi fogyasztói kör egészét vagy széles körét érintő, közvetlenül vagy közvetve juttatott támogatás (visszatérítés), ideértve a közüzemi díjtartozás elengedését is;
 

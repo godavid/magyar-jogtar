@@ -41,7 +41,11 @@ közérdekű, illetve közhasznú tevékenységük támogatása
 - 8. feladatfinanszírozást szolgáló költségvetési támogatás: valamely közfeladat államháztartáson kívüli szervezet által történő ellátását, valamint e feladat ellátásához közvetlenül kapcsolódó, arányos működési költségeket finanszírozó költségvetési támogatás;
 - 9. felelős személy: a civil szervezet vezető tisztségviselője, létesítő okiratában és belső szabályzataiban vezető tisztségviselőként megjelölt vagy egyébként érdemi döntési jogkörrel rendelkező személy, valamint az a személy, aki a létesítő okirat felhatalmazása, a civil szervezet döntéshozó szervének határozata vagy szerződés alapján a civil szervezet képviseletére vagy pénzforgalmi számlája feletti rendelkezésre jogosult;
 - 10. gazdálkodó tevékenység: azon tevékenységek összessége, amelyek a civil szervezet vagyoni, pénzügyi, jövedelmi helyzetére kiható gazdasági eseményt eredményeznek;
-- 11. gazdasági-vállalkozási tevékenység: a jövedelem- és vagyonszerzésre irányuló vagy azt eredményező, üzletszerűen végzett gazdasági tevékenység, ide nem értve az adomány (ajándék) elfogadását, továbbá a bevétellel járó, létesítő okiratban meghatározott cél szerinti, valamint a közhasznú tevékenységet;
+- 11. gazdasági-vállalkozási tevékenység: a jövedelem- és vagyonszerzésre irányuló vagy azt eredményező, üzletszerűen végzett gazdasági tevékenység, kivéve
+  - a) az adomány (ajándék) elfogadását,
+  - b) a létesítő okiratban meghatározott cél szerinti tevékenységet (ideértve a közhasznú tevékenységet is),
+  - c) a pénzeszközök betétbe, értékpapírba, társasági részesedésbe történő elhelyezését,
+  - d) az ingatlan megszerzését, használatának átengedését és átruházását;
 - 12. határon túli civil szervezet: határon túli magyarságnak a szülőföldjén való – egyéni és közösségi – boldogulása, anyagi és szellemi gyarapodása, nyelvének és kultúrájának megőrzése és továbbfejlesztése, az anyaországgal való és egymás közötti sokoldalú kapcsolatának fenntartása és erősítése érdekében tevékenykedő, más állam területén működő nonprofit egyesület és alapítvány;
 - 13. hatókör: civil szervezet működésének földrajzi kiterjedése, amely lehet:
   - a) helyi: a működés területe a székhely (illetve telephelyek) településére vagy annak egy részére korlátozódik;
@@ -55,7 +59,7 @@ közérdekű, illetve közhasznú tevékenységük támogatása
   - c) az Európai Unió költségvetéséből vagy más államtól, nemzetközi szervezettől származó támogatás,
   - d) a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerint felajánlott összege;
 - 16. közcélú tevékenység: személyek csoportja által, valamely a csoportnál tágabb közösség érdekében – más, e közösségbe nem tartozó személyek érdekeinek sérelme nélkül – végzett tevékenység.
-- 17. közeli hozzátartozó: a Ptk.-ban pontjában meghatározott közeli hozzátartozó, valamint az élettárs;
+- 17. közeli hozzátartozó: a Ptk.-ban meghatározott közeli hozzátartozó, valamint az élettárs;
 - 18. közérdekű kötelezettségvállalás: a Ptk. 6:589–6:592. §-ában meghatározott kötelezettségvállalás;
 - 19.
 - 20. közhasznú tevékenység: minden olyan tevékenység, amely a létesítő okiratban megjelölt közfeladat teljesítését közvetlenül vagy közvetve szolgálja, ezzel hozzájárulva a társadalom és az egyén közös szükségleteinek kielégítéséhez;
@@ -533,30 +537,40 @@ tevékenységet folytathat.
 
 (2) A civil szervezet vagyonát a 17. § (3) bekezdése szerint folytatott gazdasági-vállalkozási tevékenység eredménye is gyarapíthatja.
 
-19. § (1) A civil szervezet bevételei:
+19. § A civil szervezet számviteli nyilvántartásait úgy vezeti, hogy azok alapján az alapcél szerinti (közhasznú) tevékenységének és gazdasági-vállalkozási tevékenységének bevételei, költségei, ráfordításai és eredménye (nyeresége, vesztesége) egymástól elkülönítve megállapíthatók legyenek.
 
-- a) egyesület esetében tagdíj, alapítvány esetében alapítótól kapott befizetés, valamint az alapító által az alapítvány rendelkezésére bocsátott vagyon;
-- b) gazdasági-vállalkozási tevékenységből (szolgáltatás nyújtásából) származó bevétel;
-- c) a költségvetési támogatás:
-  - ca) a pályázat útján, valamint egyedi döntéssel kapott költségvetési támogatás;
-  - cb) az Európai Unió strukturális alapjaiból, illetve a Kohéziós Alapból származó, a költségvetésből juttatott támogatás;
-  - cc) az Európai Unió költségvetéséből vagy más államtól, nemzetközi szervezettől származó támogatás;
-  - cd) a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerint kiutalt összege;
-- d) az államháztartás alrendszereiből közszolgáltatási szerződés ellenértékeként szerzett bevétel;
-- e) más szervezettől, illetve magánszemélytől kapott adomány;
-- f) befektetési tevékenységből származó bevétel;
-- g) az a)–f) pontok alá nem tartozó egyéb bevétel.
+20. § A civil szervezet az alapcél szerinti (közhasznú) tevékenysége tekintetében elkülönítve mutatja ki legalább a következő bevételeket:
 
-(2) A civil szervezet költségei, ráfordításai (kiadásai):
+- a) egyesület esetében a tagdíjat, alapítvány esetében az alapítótól nem vagyoni hozzájárulásként kapott adományt;
+- b) a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerint kiutalt összegét;
+- c) az alapcél szerinti (közhasznú) tevékenysége költségei, ráfordításai ellentételezésére visszafizetési kötelezettség nélkül kapott támogatást, ideértve az alapcél szerinti (közhasznú) tevékenysége keretében megvalósuló fejlesztés céljára kapott támogatást is, figyelemmel a (2) bekezdésben foglaltakra;
+- d) az a)–c) pont hatálya alá nem tartozó, az alapcél szerinti (közhasznú) tevékenységéhez kapott adományt, figyelemmel a (2) bekezdésben foglaltakra;
+- e) az alapcél szerinti (közhasznú) tevékenysége keretében nyújtott szolgáltatás,teljesített termékértékesítés bevételét, ideértve különösen
+  - ea) a kizárólag az alapcél szerinti (közhasznú) tevékenységet szolgáló dolog, jogátruházásának, illetve átengedésének ellenértékét, valamint
+  - eb) a részben az alapcél szerinti (közhasznú) tevékenységet szolgáló dolog, jogátruházásának, illetve átengedésének ellenértékéből a dolog, illetve a jog korábbi alapcél szerinti (közhasznú) használatával arányos részt;
+- f) az a)–e) pont hatálya alá nem tartozó, gazdasági-vállalkozási tevékenységnek nem minősülő tevékenysége révén megszerzett bevételt, így különösen
+  - fa) a pénzeszköz betétbe, értékpapírba, társasági részesedésbe történő elhelyezése révén megszerzett (elért) kamatot, osztalékot, árfolyamnyereséget és más bevételt,
+  - fb) az ingatlan megszerzése, használatának átengedése és átruházása révén megszerzett bevételt.
 
-- a) alapcél szerinti (közhasznú) tevékenységhez közvetlenül kapcsolódó költségek;
-- b) gazdasági vállalkozási tevékenységhez (szolgáltatás nyújtásához) közvetlenül kapcsolódó költségek;
-- c) a civil szervezet szerveinek, szervezetének működési költségei (ideértve az adminisztráció költségeit és az egyéb felmerült közvetett költségeket), valamint a több tevékenységhez használt immateriális javak és tárgyi eszközök értékcsökkenési leírása;
-- d) az a)–c) pontok alá nem tartozó egyéb költség.
+(2) A civil szervezet az alapcél szerinti (közhasznú) tevékenysége költségei, ráfordításai ellentételezésére visszafizetési kötelezettség nélkül kapott támogatásokat, valamint az alapcél szerinti (közhasznú) tevékenységéhez kapott adományokat a következő részletezésben mutatja ki:
 
-20. § A civil szervezet bevételeit a 19. § (1) bekezdés szerinti részletezésben, költségeit ráfordításait (kiadásait) a 19. § (2) bekezdés szerinti részletezésben elkülönítetten, a számviteli előírások szerint tartja nyilván.
+- a) az államháztartási forrásból kapott támogatás, illetve adomány, a (3) bekezdésben foglaltak szerinti bontásban;
+- b) az Európai Unió költségvetéséből, külföldi állam államháztartásából, nemzetközi szervezettől, vagy nemzetközi szerződés rendelkezése alapján kapott támogatás, illetve adomány;
+- c) más civil szervezettől kapott támogatás, illetve adomány.
 
-21. § A civil szervezet 19. § (2) bekezdés c) és d) pontja szerinti költségeit, ráfordításait (kiadásait) alapcél szerinti (közhasznú) tevékenység és a gazdasági-vállalkozási tevékenység között, az előzőekben felsorolt tevékenységek árbevételének (bevételének) arányában kell évente megosztani.
+(3) A civil szervezet az államháztartási forrásból kapott támogatást, illetve adományt (az Európai Unió strukturális alapjaiból vagy a Kohéziós Alapból származó támogatást, illetve adományt minden esetben külön kiemelve) a következő részletezésben mutatja ki:
+
+- a) a központi költségvetésből kapott támogatás, illetve adomány;
+- b) az elkülönített állami pénzalapokból kapott támogatás, illetve adomány;
+- c) a helyi önkormányzatoktól, kisebbségi önkormányzatoktól, önkormányzati társulástól kapott támogatás, illetve adomány.
+
+(4) A civil szervezet az alapcél szerinti (közhasznú) tevékenysége költségei, ráfordításai ellentételezésére kapott támogatásokról olyan elkülönített számviteli nyilvántartást vezet, amelynek alapján támogatásonként megállapítható és ellenőrizhető a kapott támogatás felhasználása.
+
+21. § (1) A gazdasági-vállalkozási tevékenységet is folytató civil szervezet azokat a költségeket, ráfordításokat, amelyek sem az alapcél szerinti (közhasznú) tevékenységéhez, sem a gazdasági-vállalkozási tevékenységéhez nem rendelhetők közvetlenül hozzá, a bevételek (ide nem értve az ilyen költséget, ráfordítást ellentételező bevételt) összege arányában osztja meg a két tevékenység között.
+
+(2) Az (1) bekezdés szerinti költségnek, ráfordításnak minősül különösen a civilszervezet vezető tisztségviselőjét megillető tiszteletdíj és más juttatás, valamint az azokhoz kapcsolódó közteher (kivéve, ha a vezető tisztségviselők közötti munkamegosztás alapján egyértelműen megállapítható, hogy ezek a költségek, ráfordítások mely tevékenységhez kapcsolódnak), továbbá a székhely fenntartásával, a nem kizárólag meghatározott tevékenységhez kapcsolódóan fenntartott pénzforgalmi számla vezetésével kapcsolatban felmerült költség, ráfordítás.
+
+(3) A civil szervezet az (1) bekezdés szerinti költséget, ráfordítást ellentételező bevételt (így különösen az ilyen költség, ráfordítás fedezetére kapott támogatást és a fedezetére képzett céltartalék feloldott összegét) az alapjául szolgáló költségeknek, ráfordításoknak megfelelően osztja meg az alapcél szerinti (közhasznú) tevékenysége és gazdasági-vállalkozási tevékenysége bevételei között.
 
 22. § (1) A civil szervezet a gazdasági-vállalkozási tevékenységgel összefüggő immateriális javak és a tárgyi eszközök értékcsökkenési leírását társasági adó alapjának meghatározásakor a társasági adóról és az osztalékadóról szóló törvény szerint veheti figyelembe.
 
@@ -1200,6 +1214,8 @@ rendeletben szabályozza.
 (17) E törvény 2013. december 31-én hatályos 29. § (3) bekezdésének rendelkezését a 2013. üzleti évről készített beszámolóra alkalmazni kell.
 
 (18) E törvénynek az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény, valamint a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény módosításáról szóló 2015. évi CXXXIV. törvénnyel (a továbbiakban: Módtv2.) megállapított 41/A. §-át azon közhasznú jogállású alapítványra is alkalmazni kell, amelyben – a 41/A. § szerinti okból – a Módtv2. hatálybalépésekor már a kuratórium (kurátor) vagy a bíróság gyakorolja az alapítói jogokat. A 41/A. §-ban foglalt határidőt a Módtv2. hatálybalépésének napjától kell számítani. E rendelkezéseket alkalmazni kell abban az esetben is, ha a Módtv2. hatálybalépését követően az alapítvány közhasznú jogállása vagy közhasznú tevékenységei körében változásbejegyzési eljárást kezdeményeznek.
+
+(19) A civil szervezet a 2. § 11. pontjának, valamint 19–21. §-ának az adózás rendjéről szóló 2003. évi XCII. törvény és egyes adótörvények módosításáról szóló 2015. évi törvénnyel módosított rendelkezését 2015. január 1-jétől kezdődően veheti figyelembe.
 
 #### 26. Az Európai Unió jogának való megfelelés
 
