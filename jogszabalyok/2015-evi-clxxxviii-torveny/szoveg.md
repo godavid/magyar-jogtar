@@ -82,14 +82,6 @@ az arcképelemzési nyilvántartásról és az arcképelemző rendszerről
 
 #### 23–24. §
 
-25. § (1) Az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.) 156. §-a a következő (18) bekezdéssel egészül ki:
-
-„(18) Az elektronikus hírközlési szolgáltató a (16)–(17) bekezdés szerinti helymeghatározási adatok szolgáltatását a hálózatában, a Nemzetbiztonsági Szakszolgálat által meghatározott követelményrendszer szerint rendelkezésre álló helymeghatározási adatoknak a Nemzetbiztonsági Szakszolgálat által előírt technikai szempontok szerinti továbbításával köteles teljesíteni.”
-
-(2) Az Eht. 188. § 1. pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában)
-
-„1. Alapkiépítésű monitoring alrendszer: olyan, a Nemzetbiztonsági Szakszolgálat által meghatározott műszaki alapkövetelmények szerint Magyarország területén létesített és működtetett rendszer, amely lehetővé teszi az elektronikus hírközlési feladatokat ellátó szervezet előfizetői, illetve felhasználói köréből tetszőlegesen kiválasztható, az előfizetők (felhasználók) összlétszámának legalább 0,1–0,6%-át kitevő, 150 000 előfizetői létszám alatt 0,6%, de legalább 60, 150 000–1 000 000 előfizetői létszám között 0,3%, de legalább 900, 1 000 000 előfizetői létszám felett 0,1%, de legalább 3000 (a teljes előfizetői körből egy előfizetőre számított átlagforgalom legfeljebb kétszeresével forgalmazó) előfizető vagy felhasználó kommunikációjának egyidejű ellenőrizhetőségét és azok kísérőadatainak késedelem nélküli, teljes körű, folyamatos, egyidejű kiválasztását és kiadását a kilépési pontra.”
+#### 25. §
 
 #### 26–29. §
