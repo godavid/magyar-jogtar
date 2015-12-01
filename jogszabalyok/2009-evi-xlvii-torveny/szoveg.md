@@ -696,7 +696,7 @@ kezelt DNS-profillal állapítja meg.
 - b) üzletszerűen vagy bűnszövetségben elkövetett, három évig terjedő szabadságvesztéssel büntetendő bűncselekmény,
 - c) három évig terjedő szabadságvesztéssel büntetendő
   - ca) 2013. június 30-ig hatályban volt emberkereskedelem (1978. évi IV. törvény 175/B. §), megrontás (1978. évi IV. törvény 201. §), tiltott pornográf felvétellel visszaélés (1978. évi IV. törvény 204. §), kitartottság (1978. évi IV. törvény 206. §), kerítés (1978. évi IV. törvény 207. §), embercsempészés (1978. évi IV. törvény 218. §),
-  - cb) emberkereskedelem (Btk. 192. §), szexuális visszaélés (Btk. 198. §), kerítés (Btk. 200. §), kitartottság (Btk. 202. §), gyermekprostitúció kihasználása (Btk. 203. §), gyermekpornográfia (Btk. 204. §), embercsempészés (Btk. 353. §),
+  - cb) emberkereskedelem (Btk. 192. §), szexuális erőszak [Btk. 197. § (5) bekezdés], szexuális visszaélés (Btk. 198. §), kerítés (Btk. 200. §), prostitúció elősegítése [Btk. 201. § (1) bekezdés c) pont], kitartottság (Btk. 202. §), gyermekprostitúció kihasználása (Btk. 203. §), gyermekpornográfia (Btk. 204. §), szeméremsértés [Btk. 205. § (2) bekezdés], embercsempészés (Btk. 353. §),
 - d) 2013. június 30-ig hatályban volt kábítószerrel vagy kábítószernek minősülő anyaggal való visszaélés (1978. évi IV. törvény 282. §),
 - e) kábítószer birtoklása (Btk. 178. §), kábítószer készítésének elősegítése (Btk. 182. §),
 - f) fegyveres elkövetéssel megvalósuló bűncselekmény vagy
