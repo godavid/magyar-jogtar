@@ -1250,19 +1250,7 @@ Készült Lanzarotében, 2007. október 25-én, angol és francia nyelven, a ké
 
 „Magyarország fenntartja a jogot, hogy az Egyezmény 25. cikk 1.e. bekezdését nem alkalmazza az Egyezmény 25. cikk 3. bekezdése alapján.”
 
-5. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 59. § c) pont cb) alpontja helyébe a következő rendelkezés lép:
-
-(A büntetőeljárás alá vont személyek DNS-profiljainak nyilvántartásában annak az adatait kell nyilvántartani, akivel szemben
-
-három évig terjedő szabadságvesztéssel büntetendő)
-
-„cb) emberkereskedelem (Btk. 192. §), szexuális erőszak [Btk. 197. § (5) bekezdés], szexuális visszaélés (Btk. 198. §), kerítés (Btk. 200. §), prostitúció elősegítése [Btk. 201. § (1) bekezdés c) pont], kitartottság (Btk. 202. §), gyermekprostitúció kihasználása (Btk. 203. §), gyermekpornográfia (Btk. 204. §), szeméremsértés [Btk. 205. § (2) bekezdés], embercsempészés (Btk. 353. §),”
-
-(miatt indítottak büntetőeljárást.)
-
-6. § § A Büntető Törvénykönyvről szóló 2012. évi C. törvény 52. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény elkövetője, ha a bűncselekményt tizennyolcadik életévét be nem töltött személy sérelmére követte el, valamint a kiskorú veszélyeztetése bűncselekmény elkövetője eltiltható bármely olyan foglalkozás gyakorlásától vagy egyéb tevékenységtől, amelynek keretében tizennyolcadik életévét be nem töltött személy nevelését, felügyeletét, gondozását, gyógykezelését végzi, illetve ilyen személlyel egyéb hatalmi vagy befolyási viszonyban áll.”
+5–6. §
 
 7. § (1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
 
