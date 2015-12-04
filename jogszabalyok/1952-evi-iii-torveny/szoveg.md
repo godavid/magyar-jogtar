@@ -197,7 +197,7 @@ a polgári perrendtartásról
 23. § (1) A törvényszék hatáskörébe tartoznak:
 
 - a) azok a vagyonjogi perek, amelyek tárgyának értéke a harmincmillió forintot meghaladja, kivéve a házassági vagyonjogi pert, ha azt a házassági perrel együtt vagy annak folyamán indítják meg;
-- b) azok a perek, amelyeket a közhatalom gyakorlásával okozott károk megtérítése iránt indítanak;
+- b) azok a perek, amelyeket a közhatalom gyakorlásával okozott károk megtérítése, valamint a közhatalom gyakorlása során okozott személyiségi jogsértések miatti sérelemdíj megfizetése iránt indítanak;
 - c) a szerzői és a szomszédos jogi perek – ideértve a közös jogkezelés körébe tartozó jogok és díjigények érvényesítése iránt indított pereket is –, valamint az iparjogvédelmi perek;
 - d) a nemzetközi árufuvarozási vagy szállítmányozási szerződéssel kapcsolatos perek;
 - e) a cégekkel kapcsolatos perek közül:
@@ -1442,7 +1442,10 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 
 (3) A (2) bekezdés alapján az ügy érdemi tárgyalásának nincs helye, ha az alperes a per megszüntetését a felperes mulasztása, illetőleg elállása folytán vagy közös megállapodásra hivatkozással kéri [157. § d)–f) pontja].
 
-141. § (1) Ha a bíróság a pert nem szünteti meg, az ügyet érdemben tárgyalja, s ha a tényállás már az első tárgyaláson kideríthető, nyomban érdemben határoz. A bíróság a jelen lévő felek meghallgatása alapján megállapítja azokat az adatokat is, amelyek a végrehajtási eljárásban az érdekelt azonosságának megállapításához szükségesek (természetes személy esetében születési hely, idő, anyja neve, lakóhely, munkahely, adóazonosító jel; gazdálkodó szervezet esetében székhely, nyilvántartási szám, adószám, a fizetési számla száma és a számlát vezető pénzforgalmi szolgáltató neve).
+141. § (1) Ha a bíróság a pert nem szünteti meg, az ügyet érdemben tárgyalja, s ha a tényállás már az első tárgyaláson kideríthető, nyomban érdemben határoz. A bíróság a jelen lévő felek meghallgatása alapján megállapítja azokat az adatokat is, amelyek a végrehajtási eljárásban az érdekelt azonosságának megállapításához szükségesek (természetes személy esetében születési hely, idő, anyja neve, lakóhely, munkahely, adóazonosító jel; gazdálkodó szervezet esetében székhely, nyilvántartási szám, adószám, a fizetési számla száma és a számlát vezető pénzforgalmi szolgáltató neve). Ha a bíróságnak a személyazonosság tekintetében kétsége merül fel, a fél által
+
+- a) a személyazonosságának és lakcímének igazolása érdekében a rendelkezésre bocsátott adatai nyilvántartási adatokkal való egyezőségéről, és
+- b) a személyazonosságának igazolására alkalmas, bemutatott hatósági igazolványa és tartózkodásra jogosító okmánya nyilvántartási adatokkal való egyezőségéről és érvényességéről elektronikus úton vagy az adatbázisok közvetlen elérésével is meggyőződhet.
 
 (1a) A perbeli cselekvőképességgel nem rendelkező tizennegyedik életévét betöltött kiskorú felet, továbbá a tizennegyedik életévét be nem töltött, de ítélőképessége birtokában lévő kiskorú felet a bíróság szükség esetén – kizárólag ténykérdésekre vonatkozóan – meghallgathatja.
 
@@ -1597,9 +1600,9 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 
 155/A. § (1) A bíróság az Európai Bíróság előzetes döntéshozatali eljárását az Európai Közösséget létrehozó Szerződésben foglalt szabályok szerint kezdeményezheti.
 
-(2) Az Európai Bíróság előzetes döntéshozatali eljárásának kezdeményezéséről a bíróság végzéssel határoz, egyidejűleg a per tárgyalását felfüggeszti. A bíróság a végzésben meghatározza azt a kérdést, amely az Európai Bíróság előzetes döntését igényli, valamint – a feltett kérdés megválaszolásához szükséges mértékben – ismerteti a tényállást és az érintett magyar jogszabályokat. A bíróság végzését az Európai Bíróság számára való kézbesítéssel egyidejűleg tájékoztatásul megküldi az igazságügyért felelős miniszter részére is.
+(2) Az Európai Bíróság előzetes döntéshozatali eljárásának kezdeményezéséről a bíróság végzéssel határoz, egyidejűleg a per tárgyalását felfüggeszti. A bíróság a végzésben meghatározza azt a kérdést, amely az Európai Bíróság előzetes döntését igényli, valamint – a feltett kérdés megválaszolásához szükséges mértékben – ismerteti a tényállást és az érintett magyar jogszabályokat. A bíróság végzését az Európai Bíróság számára való kézbesítéssel egyidejűleg tájékoztatásul megküldi az igazságügyért felelős miniszter részére is. Ha a bíróság az előzetes döntéshozatali eljárás kezdeményezésére irányuló kérelmet elutasítja, erről végzéssel határoz. A bíróság az elutasító döntését legkésőbb az eljárást befejező érdemi határozatában megindokolni köteles.
 
-(3) Az előzetes döntéshozatali eljárást kezdeményező végzés és az előzetes döntéshozatali eljárás kezdeményezésére irányuló kérelem elutasítása ellen nincs helye külön fellebbezésnek.
+(3) Az előzetes döntéshozatali eljárást kezdeményező végzés és az előzetes döntéshozatali eljárás kezdeményezésére irányuló kérelem elutasításáról rendelkező végzés ellen nincs helye külön fellebbezésnek.
 
 ### Az Alkotmánybíróság eljárásának kezdeményezése, továbbá a Kúria eljárásának kezdeményezése önkormányzati rendelet felülvizsgálata iránt
 
@@ -1810,7 +1813,12 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 
 (6) A tanú személyi adatai zártan történő kezelése tárgyában a kihallgatást foganatosító bíróság a felek meghallgatása nélkül dönt, külön határozatot hoznia azonban nem kell, a jegyzőkönyvben elegendő a (3)–(5) bekezdésben foglaltak megtörténtére utalni.
 
-173. § (1) A kihallgatás kezdetén a tanútól meg kell kérdezni a nevét, születési helyét, idejét, anyja nevét, lakóhelyét, valamint azt, hogy a felekkel milyen viszonyban van, s hogy ennek folytán vagy más okból nem elfogult-e. Ezekre a kérdésekre a tanú akkor is köteles válaszolni, ha egyébként a vallomástétel megtagadására jogosult. Ha a bíróság a tanú személyi adatainak zártan kezelését nem szüntette meg, vagy a tanú kérelmére azokat zártan kezeli, a tanú személyi adatait a személyazonosításra alkalmas iratok megtekintésével állapítja meg, írásban rögzíti és zártan kezeli.
+173. § (1) A kihallgatás kezdetén a tanútól meg kell kérdezni a nevét, születési helyét, idejét, anyja nevét, lakóhelyét, valamint azt, hogy a felekkel milyen viszonyban van, s hogy ennek folytán vagy más okból nem elfogult-e. Ezekre a kérdésekre a tanú akkor is köteles válaszolni, ha egyébként a vallomástétel megtagadására jogosult. Ha a bíróság a tanú személyi adatainak zártan kezelését nem szüntette meg, vagy a tanú kérelmére azokat zártan kezeli, a tanú személyi adatait a személyazonosításra alkalmas iratok megtekintésével állapítja meg, írásban rögzíti és zártan kezeli. Ha a bíróságnak a személyazonosság tekintetében kétsége merül fel, a tanú által
+
+- a) a személyazonosságának és lakcímének igazolása érdekében a rendelkezésre bocsátott adatai nyilvántartási adatokkal való egyezőségéről, és
+- b) a személyazonosságának igazolására alkalmas, bemutatott hatósági igazolványa, és tartózkodásra jogosító okmánya nyilvántartási adatokkal való egyezőségéről és érvényességéről
+
+elektronikus úton vagy az adatbázisok közvetlen elérésével is meggyőződhet.
 
 (1a) Ha a perben a bírót tanúként a hivatali működése vagy azzal összefüggő ok miatt hallgatja ki a bíróság, a meghallgatása előtt személyazonosságát a nevének, feladatkörének, munkakörének, vezetői megbízásának, a szolgálati helye szerinti bíróság nevének és címének a rögzítésével kell megállapítani. A bíró személyazonosságának megállapítását követően a kihallgatására az (1) bekezdésében foglaltak megfelelően irányadóak. Ha a bíró szolgálati viszonya a per alatt megszűnik, a válaszadási kötelezettségére vonatkozóan az általános szabályok az irányadók.
 
@@ -3041,6 +3049,16 @@ a közjegyző felhívásának kézbesítésétől számított tizenöt napon bel
 
 (2) A 157/A. § alkalmazása során nem tekinthető írásbeli védekezésnek a fizetési meghagyással szemben előterjesztett ellentmondás.
 
+321/A. § (1) A XXVIII. Fejezet rendelkezéseit a fizetési meghagyásos eljárást követő peres eljárásban 2016. január 1. napjától ezen §-ban foglalt eltérésekkel kell alkalmazni.
+
+(2) A kötelezett ellentmondását követően
+
+- a) az elektronikus kommunikációt választó jogosult vagy képviselője,
+- b) a belföldi székhellyel rendelkező gazdálkodó szervezet jogosult,
+- c) jogi képviselővel eljáró jogosult esetén, a jogi képviselő az ügyre vonatkozó részletes tényállításait és bizonyítékait, továbbá minden egyéb beadványt, okirati bizonyítékot kizárólag elektronikusan, a XXVIII. Fejezetben meghatározottak szerint terjeszthet elő.
+
+(3) Ha a fizetési meghagyásos eljárást követő peres eljárásban a kapcsolattartás a jogosult részéről elektronikus úton történik, és a jogosult az ellentmondás előterjesztését követően az ügyre vonatkozó részletes tényállításait és bizonyítékait a bíróság részére nem elektronikus úton terjeszti elő, a bíróság a pert megszünteti.
+
 322. § (1) A jogerős fizetési meghagyás ellen a XIII. Fejezet szabályai szerint perújításnak van helye. A perújítási eljárás lefolytatására az a bíróság rendelkezik hatáskörrel és illetékességgel, amelyik – ellentmondás esetén – elsőfokú bíróságként a perré alakult eljárás lefolytatására hatáskörrel és illetékességgel rendelkezett volna.
 
 (2) A 260. § (1) bekezdésének d) pontját a jogerős fizetési meghagyással szemben előterjesztett perújítás esetén úgy kell alkalmazni, hogy perújításnak akkor van helye, ha törvény ellenére a kötelezettnek a meghagyást hirdetményi úton kézbesítették. A 260. § (4) bekezdése ebben az esetben is megfelelően irányadó.
@@ -3404,6 +3422,29 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 (5) A perújítás, illetve a felülvizsgálati kérelem elbírálását követően, ha a bíróság a határozatot megváltoztatta, a közigazgatási szerv a határozatnak megfelelően a közigazgatási eljárást tovább folytatja, vagy megszünteti.
 
+### Az elektronikus kapcsolattartás szabályai
+
+340/B. § (1) A XXVIII. Fejezet rendelkezéseit a közigazgatási határozat bírósági felülvizsgálata iránti perekben 2016. január 1. napjától ezen alcímben foglalt eltérésekkel kell alkalmazni.
+
+(2) A jogi képviselővel eljáró fél a jogi képviselő teljes körű azonosítását biztosító és általános nyomtatványkitöltő (a továbbiakban: ÁNYK) űrlap benyújtás támogatási szolgáltatás igénybevételével, a belföldi székhellyel rendelkező gazdálkodó szervezet a képviselő teljes körű azonosítását biztosító és ÁNYK űrlap benyújtás támogatási szolgáltatás igénybevételével köteles benyújtani a keresetlevelet a 330. § (2) bekezdésében foglaltak szerint az elsőfokú közigazgatási határozatot hozó szervnél. A gazdálkodó szervezet – ha nem ügyvédi képviselettel jár el – az elektronikus benyújtás során a képviselő személyének teljes körű azonosítását biztosító és ÁNYK űrlap benyújtás támogatási szolgáltatás igénybevétele helyett, a gazdálkodó szervezet azonosítását biztosító és ÁNYK űrlap benyújtás támogatási szolgáltatás igénybevételével is eljárhat, ha azzal rendelkezik; ez esetben a per folyamatban léte alatt, az elektronikus kapcsolattartás során ezt kell alkalmaznia.
+
+(3) A közigazgatási perben a közigazgatási szerv a 330. § (2) bekezdése szerinti iratokat, továbbá minden egyéb beadványt, okirati bizonyítékot kizárólag elektronikusan nyújthat be a bírósághoz, és a bíróság is valamennyi hivatalos iratot elektronikusan kézbesíti a közigazgatási szervnek. A közigazgatási szerv – ha nem ügyvédi képviselettel jár el – az elektronikus benyújtás során a képviselő személyének teljes körű azonosítását biztosító és ÁNYK űrlap benyújtás támogatási szolgáltatás igénybevétele helyett, a közigazgatási szerv azonosítását biztosító és ÁNYK űrlap benyújtás támogatási szolgáltatás igénybevételével is eljárhat, ha azzal rendelkezik; ez esetben a per folyamatban léte alatt, az elektronikus kapcsolattartás során ezt kell alkalmaznia.
+
+(4) Az elsőfokú közigazgatási határozatot hozó szerv köteles gondoskodni
+
+- a) a felülvizsgálni kért határozat alapjául szolgáló ügy iratainak digitalizálásáról, ha a keresetlevél elektronikusan került előterjesztésre,
+- b) a hozzá benyújtott keresetlevél és a mellékleteit képező papír alapú okiratok digitalizálásáról, valamint a papír alapú okiratok megőrzéséről, továbbá a felülvizsgálni kért határozat alapjául szolgáló ügy iratainak digitalizálásáról, ha a keresetlevél papír alapon került előterjesztésre.
+
+(5) A bíróság a felperessel való első kapcsolatfelvétel során papír alapon kézbesít. A kézbesítéssel egyidejűleg a bíróság felhívja a felperest arra, hogy ha elektronikus útra kötelezett, beadványait, okirati bizonyítékait kizárólag elektronikus úton nyújthatja be, és tájékoztatja a nem elektronikus úton történő benyújtás jogkövetkezményeiről.
+
+(6) A közigazgatási határozat bírósági felülvizsgálata iránti eljárás során a közigazgatási szerv a 330. § (2) bekezdése szerinti iratokat, továbbá minden egyéb beadványt, okirati bizonyítékot megküldés helyett elektronikusan hozzáférhetővé teszi a bíróság számára, ha az ehhez szükséges informatikai feltételek rendelkezésre állnak.
+
+### A zártcélú távközlő hálózat útján történő meghallgatás szabályai
+
+340/C. § (1) A XXVIII/A. Fejezet rendelkezéseit a menedékjogról szóló törvény, valamint a végrehajtásáról szóló kormányrendelet alapján indult bírósági felülvizsgálati eljárásokban ezen alcímben foglalt eltérésekkel kell alkalmazni.
+
+(2) Ha az ügy sajátos körülményeire tekintettel a meghallgatásra kerülő félnek a személyazonossága igazolására alkalmas hatósági igazolványa vagy tartózkodásra jogosító okmánya nincs, a tárgyalás kitűzött helyszínén tartózkodó, tárgyalást vezető elnök (bíró), illetve személyes meghallgatást lefolytató elnök (bíró), illetve bírósági titkár a meghallgatás kezdetén és a meghallgatás befejezésekor rögzíti a zártcélú távközlő hálózat útján meghallgatásra kerülő fél személyazonosságának igazolása érdekében közölt nevét, születési helyét, születési idejét és anyja nevét. A személyazonosítás részeként a közölt adatokat a bíróság összeveti a hatósági eljárásban közölt adatokkal.
+
 ### Társadalombiztosítási határozat bírósági felülvizsgálata
 
 341. § A társadalombiztosítási határozat felülvizsgálata iránt indított perekre ennek a fejezetnek a rendelkezéseit a következő eltérésekkel kell alkalmazni:
@@ -3467,6 +3508,19 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 341/I. § (1) Ha a birtokvédelmi határozat érdemben helyes, a bíróság a keresetet elutasítja, ellenkező esetben a birtokvédelmi határozatot egészben vagy részben megváltoztatja.
 
 (2) Ha a bíróság a birtokvédelmi határozatot megváltoztatja, a birtokvédelmi határozattal elbírált hasznok, károk és költségek tekintetében akkor is határoznia kell, ha az érdekelt fél csak a birtoklás kérdésében terjeszt elő keresetet.
+
+341/J. § (1) A XXVIII. Fejezet rendelkezéseit a birtokvédelmi határozat megváltoztatása iránti perben 2016. január 1. napjától az e §-ban foglalt eltérésekkel kell alkalmazni.
+
+(2) Ha a jogi képviselővel eljáró fél, illetve a belföldi székhellyel rendelkező gazdálkodó szervezet a 341/F. § (2) bekezdése szerint jár el, a jogi képviselővel eljáró fél a jogi képviselő teljes körű azonosítását biztosító és ÁNYK űrlap benyújtás támogatási szolgáltatás igénybevételével, a belföldi székhellyel rendelkező gazdálkodó szervezet a képviselő teljes körű azonosítását biztosító és ÁNYK űrlap benyújtás támogatási szolgáltatás igénybevételével köteles benyújtani a keresetlevelet a jegyzőnél. A gazdálkodó szervezet – ha nem ügyvédi képviselettel jár el – az elektronikus benyújtás során a képviselő személyének teljes körű azonosítását biztosító és ÁNYK űrlap benyújtás támogatási szolgáltatás igénybevétele helyett, a gazdálkodó szervezet azonosítását biztosító és ÁNYK űrlap benyújtás támogatási szolgáltatás igénybevételével is eljárhat, ha azzal rendelkezik; ez esetben a per folyamatban léte alatt, az elektronikus kapcsolattartás során ezt kell alkalmaznia.
+
+(3) Ha a felperes a keresetlevelet a 341/F. § (2) bekezdése szerint a birtokvédelmi határozatot hozó jegyzőnél terjeszti elő, a birtokvédelmi határozatot hozó jegyző köteles gondoskodni
+
+- a) a határozat alapjául szolgáló ügy iratainak digitalizálásáról, ha a keresetlevél elektronikusan került előterjesztésre, és
+- b) a hozzá benyújtott keresetlevél és a mellékleteit képező papír alapú okiratok digitalizálásáról, valamint a papír alapú okiratok megőrzéséről, továbbá a határozat alapjául szolgáló ügy iratainak digitalizálásáról, ha a keresetlevél papír alapon került előterjesztésre.
+
+(4) Ha a felperes a keresetlevelet a perre hatáskörrel és illetékességgel rendelkező bírósághoz nyújtja be, a bíróság a 341/F. § (4) bekezdésében foglaltak szerinti eljárása során hívja fel a birtokvédelmi határozatot hozó jegyzőt, hogy az iratokat digitalizált formában terjessze fel.
+
+(5) A (3) bekezdésben meghatározott esetben a bíróság a felperessel való első kapcsolatfelvétel során papír alapon kézbesít. A kézbesítéssel egyidejűleg a bíróság felhívja a felperest arra, hogy ha elektronikus útra kötelezett, beadványait, okirati bizonyítékait kizárólag elektronikus úton nyújthatja be, és tájékoztatja a nem elektronikus úton történő benyújtás jogkövetkezményeiről.
 
 ### XXI. Fejezet — A sajtó-helyreigazítási eljárás
 
@@ -4085,17 +4139,19 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 394/A. § A 392–394. § rendelkezései nem alkalmazhatók a végzés elleni fellebbezés esetében. A 392–394. § rendelkezései nem alkalmazhatók az ítélet elleni fellebbezés esetén sem, ha a per tárgya tartási vagy egyéb járadék jellegű követelés.
 
-## HETEDIK RÉSZ — ELEKTRONIKUS KOMMUNIKÁCIÓ A POLGÁRI PERBEN
+## HETEDIK RÉSZ — Az elektronikus kapcsolattartás alkalmazása és zártcélú távközlő hálózat igénybevétele a polgári perben
 
-### XXVIII. Fejezet
+### XXVIII. Fejezet — Az elektronikus kapcsolattartás szabályai
+
+### Elektronikus kapcsolattartás a féllel
 
 394/B. § (1) A polgári perben – és ha törvény más polgári eljárás vonatkozásában előírja, ezen eljárásokban is – a fél vagy a képviselője – a (3) és (4) bekezdésben foglalt kivétellel – a keresetlevelet, továbbá minden egyéb beadványt, okirati bizonyítékot és ezek mellékletét (e fejezet alkalmazásában a továbbiakban együtt: beadvány) választása szerint elektronikus úton is benyújthatja.
 
 (2) Az (1) bekezdés szerinti elektronikus út választása esetében az eljárás folyamán – ideértve az eljárás minden szakaszát és a rendkívüli perorvoslatot is – a félnek vagy képviselőjének a bírósággal a kapcsolatot elektronikus úton kell tartania és a bíróság is valamennyi bírósági iratot elektronikusan kézbesít a részére. A beadvány elektronikus úton történő benyújtását az (1) bekezdés szerinti elektronikus út vállalásának kell tekintetni. Az elektronikus úton történő kapcsolattartásra vonatkozó bejelentést a fél vagy a jogi képviselő az eljárás bármely szakaszában megteheti az eljáró bíróságnál.
 
-(3) A bíróság a fél részére papír alapon kézbesíti a bírósági iratot, ha a fél az eljárásban képviselője útján jár el és az iratot nem a képviselő, hanem a fél részére kell kézbesíteni, vagy a képviselő részére nem lehet kézbesíteni. A bíróság a felet tájékoztatja arról, hogy a bírósággal a kapcsolatot elektronikus úton is tarthatja. Ha a fél nem vállalja az elektronikus kézbesítést, de az elektronikus kézbesítés a másik fél számára kötelező vagy azt vállalta, akkor a bíróság a papír alapú okiratot benyújtó fél hivatalos iratait papír alapon kézbesíti a másik fél számára.
+(3) A bíróság a fél részére papír alapon kézbesíti a bírósági iratot, ha a fél az eljárásban képviselője útján jár el és az iratot nem a képviselő, hanem a fél részére kell kézbesíteni, vagy a képviselő részére nem lehet kézbesíteni. A bíróság a felet tájékoztatja arról, hogy a bírósággal a kapcsolatot elektronikus úton is tarthatja. Ha a fél nem vállalja az elektronikus kézbesítést, de az elektronikus kézbesítés a másik fél számára kötelező vagy azt vállalta, akkor a bíróság a papír alapú okiratot benyújtó fél hivatalos iratait digitalizálja és elektronikusan kézbesíti a másik fél számára.
 
-(4) A fél nem nyújthatja be beadványát elektronikus úton a fizetési meghagyást követő perben (315. §), és a 27. § (1) bekezdése alapján a járásbíróságról a törvényszékre áttett (129. §) perekben.
+(4)
 
 (5) A bíróság az elektronikus úton benyújtott keresetlevél jogszabályban meghatározott módon készített papír alapú másolatát kézbesíti az alperes részére. A bíróság az alperest tájékoztatja arról, hogy védekezését, nyilatkozatát elektronikus úton is benyújthatja.
 
@@ -4109,19 +4165,41 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 (10) A jogi képviselő nélkül eljáró jogutód félre nem vonatkozik az, hogy a jogelőd az elektronikus kézbesítést vállalta, vagy a papír alapú kézbesítésre való áttérés megtörtént.
 
-394/C. § A polgári perben – és ha törvény más polgári eljárás vonatkozásában előírja – 2016. január 1. napjától a következő rendelkezéseket kell alkalmazni:
+394/C. § (1) A polgári perben – és ha törvény más polgári eljárás vonatkozásában előírja – 2016. január 1. napjától a következő rendelkezéseket kell alkalmazni.
 
-- a) a gazdálkodó szervezet a keresetlevelet, továbbá minden egyéb beadványát, okirati bizonyítékát kizárólag elektronikusan nyújtja be a bírósághoz, és a bíróság is valamennyi hivatalos iratot elektronikusan kézbesíti;
-- b) ha a gazdálkodó szervezet az eljárásban alperesként (illetve kötelezettként, adósként) vesz részt, részére a bíróság elektronikusan kézbesít, és a gazdálkodó szervezet a beadványait, okirati bizonyítékait kizárólag elektronikusan nyújthatja be;
-- c) ha a fél jogi képviselővel jár el, akkor a jogi képviselő a keresetlevelet, továbbá minden egyéb beadványt, okirati bizonyítékot kizárólag elektronikusan, hivatali kapuján keresztül nyújthatja be a bírósághoz, és a bíróság is valamennyi hivatalos iratot elektronikusan kézbesíti a jogi képviselő részére;
-- d) az eredetileg papír alapú okirati bizonyítékok elektronikus benyújtása alóli kivételt jelenti, ha a bizonyítási eljárásban az okirat papír alapú bemutatása, megtekintése szükséges; erre különösen akkor kerülhet sor, ha az eredetileg papír alapú bizonyítékok nagy mennyisége miatt azok digitalizálása aránytalan nehézséggel járna, vagy ha a papír alapú okirat valódisága vitás; a papír alapú benyújtást a bíróság hivatalból és a fél indítványára is elrendelheti;
-- e)–g)
+(2) A (10)–(12) bekezdésben foglalt kivétellel
 
-### Elektronikus kommunikáció a szakértővel
+- a) a belföldi székhellyel rendelkező gazdálkodó szervezet (e fejezet alkalmazásában a továbbiakban: gazdálkodó szervezet) a keresetlevelet, továbbá minden egyéb beadványát, okirati bizonyítékát kizárólag elektronikusan, a képviselő személyének teljes körű azonosítását biztosító és ÁNYK űrlap benyújtás támogatási szolgáltatás igénybevételével nyújthatja be a bírósághoz, és a képviselő részére a bíróság is elektronikusan kézbesít;
+- b) ha a gazdálkodó szervezet az eljárásban alperesként vesz részt, részére a bíróság elektronikusan kézbesít, és a gazdálkodó szervezet a beadványait, okirati bizonyítékait kizárólag elektronikusan, a képviselő személyének teljes körű azonosítását biztosító és ÁNYK űrlap benyújtás támogatási szolgáltatás igénybevételével nyújthatja be;
+- c) ha a fél jogi képviselővel jár el, a jogi képviselő a keresetlevelet, továbbá minden egyéb beadványt, okirati bizonyítékot kizárólag elektronikusan a jogi képviselő személyének teljes körű azonosítását biztosító és ÁNYK űrlap benyújtás támogatási szolgáltatás igénybevételével nyújthatja be a bírósághoz, és a bíróság is elektronikusan kézbesít a jogi képviselő részére.
+
+(3) A gazdálkodó szervezet – ha nem ügyvédi képviselettel jár el – a keresetlevelet, továbbá minden egyéb beadványt, okirati bizonyítékot a képviselő személyének teljes körű azonosítását biztosító és ÁNYK űrlap benyújtás támogatási szolgáltatás igénybevétele helyett, a szervezet azonosítását biztosító és ÁNYK űrlap benyújtás támogatási szolgáltatás igénybevételével is benyújthatja, ha azzal rendelkezik. Ebben az esetben a per folyamatban léte alatt, az elektronikus kapcsolattartás során ezt kell alkalmaznia.
+
+(4) A közigazgatási szerv akkor is, ha nem minősül gazdálkodó szervezetnek és ha nem közigazgatási perben jár el, a keresetlevelet, továbbá minden egyéb beadványt, okirati bizonyítékot kizárólag elektronikusan nyújthat be a bírósághoz, és a bíróság is valamennyi hivatalos iratot elektronikusan kézbesíti a közigazgatási szervnek. A közigazgatási szerv – ha nem ügyvédi képviselettel jár el – az elektronikus benyújtás során a képviselő személyének teljes körű azonosítását biztosító és ÁNYK űrlap benyújtás támogatási szolgáltatás igénybevétele helyett, a közigazgatási szerv azonosítását biztosító és ÁNYK űrlap benyújtás támogatási szolgáltatás igénybevételével is eljárhat; ez esetben a per folyamatban léte alatt, az elektronikus kapcsolattartás során ezt kell alkalmaznia.
+
+(5) Az ügyész az e törvény szerinti, valamint azokban a perekben, amelyeket külön törvény alapján indít, vagy ellene indítanak, a keresetlevelet, továbbá minden egyéb beadványt, okirati bizonyítékot a Legfőbb Ügyészség azonosítását biztosító és ÁNYK űrlap benyújtás támogatási szolgáltatás igénybevételével nyújtja be a bírósághoz, és a bíróság is elektronikusan kézbesít az ügyész részére.
+
+(6) E fejezet alkalmazásában jogi képviselőnek kell tekinteni a 73/C. § (1) és (2) bekezdésében meghatározott személyeket.
+
+(7) E fejezet alkalmazásában a gazdálkodó szervezet képviselője a jogi képviselő. Ha a gazdálkodó szervezet nem jogi képviselővel jár el, a képviselő a törvényes vagy a szervezeti képviselő, egyéni vállalkozó esetében képviselőnek kell tekinteni magát az egyéni vállalkozót.
+
+(8) Ha a gazdálkodó szervezet képviselőjének képviseleti joga megszűnik, a gazdálkodó szervezet új képviselője az első beadványa benyújtásával egyidejűleg igazolja képviseleti jogosultságát.
+
+(9) A fél, aki egyébként saját személyében elektronikus útra nem köteles a jogi képviselet visszavonására irányuló nyilatkozatát elektronikusan és papír alapon is bejelentheti. Ha a fél a jogi képviselet visszavonását elektronikus úton jelenti be, úgy kell tekinteni, hogy a fél a 394/B. § (1) bekezdése szerinti elektronikus kapcsolattartást vállalja, akkor is, ha a továbbiakban nem kíván jogi képviselővel eljárni.
+
+(10) A jogi képviselővel eljáró, de egyébként saját személyében elektronikus útra nem köteles fél a jogi képviselet visszavonására irányuló nyilatkozatát papír alapon is benyújthatja. A jogi képviselet visszavonásával egyidejűleg a fél nyilatkozik arról, hogy a nyilatkozat benyújtását követően jogi képviselő igénybevételével vagy jogi képviselő nélkül jár el. Ha a fél a jogi képviselet visszavonását követően jogi képviselő igénybevételével jár el, a jogi képviselet visszavonásával egyidejűleg a fél a nyilatkozat benyújtását követően eljáró új jogi képviselő meghatalmazását csatolja. Az új jogi képviselő elektronikus elérhetőségének biztosítása érdekében – a fél nyilatkozatának a bírósághoz érkezését követő tizenöt napon belül – köteles a bírósággal a kapcsolatot elektronikus úton felvenni, amelynek során digitalizált meghatalmazását csatolja. A kapcsolatfelvétel elmulasztása esetén a bíróság az új jogi képviselőt pénzbírsággal sújtja.
+
+(11) A bíróság a keresetlevelet az alperesnek papír alapon kézbesíti. A keresetlevél kézbesítésével egyidejűleg a bíróság felhívja az alperest arra, hogy ha elektronikus útra kötelezett, beadványait, okirati bizonyítékait kizárólag elektronikus úton nyújthatja be, és tájékoztatja a nem elektronikus úton történő benyújtás jogkövetkezményeiről. Az 58. § (1) bekezdésében szabályozott esetben a fenti kötelezettségről való tájékoztatás a perbehívót terheli a perbehívott irányába.
+
+(12) Az eredetileg papír alapú okirati bizonyítékok elektronikus benyújtása alól kivételt jelent, ha a bizonyítási eljárásban az okirat papír alapú bemutatása, megtekintése szükséges. Erre különösen akkor kerülhet sor, ha az eredetileg papír alapú bizonyítékok nagy mennyisége vagy sajátos alakja miatt azok digitalizálása aránytalan nehézséggel járna, vagy ha a papír alapú okirat valódisága vitás. A papír alapú benyújtást a bíróság hivatalból és a fél indítványára is elrendelheti.
+
+### Elektronikus kapcsolattartás a szakértővel
 
 394/D. § (1) E § rendelkezéseit 2015. június 30-ig csak a törvényszékek első fokú hatáskörébe tartozó, 2013. január 1. napját követően indult polgári perekben kell alkalmazni. A § rendelkezéseit 2015. július 1. napjától az ezen időpont után indult, a járásbíróságok előtti polgári perekben is alkalmazni kell.
 
 (2) Ha a szakértő az igazságügyi szakértői névjegyzékbe bejelentette, hogy az elektronikus kapcsolattartást vállalja, erre szolgáló elérhetőségét az Országos Bírósági Hivatal részére meg kell küldenie, és arról is értesítenie kell az Országos Bírósági Hivatalt, hogy a továbbiakban nem vállalja az elektronikus kapcsolattartást.
+
+(2a) Az igazságügyi szakértői névjegyzékben nem szereplő, szakértői tevékenységre külön jogszabályban feljogosított állami szerv, intézmény vagy szervezet az elektronikus kapcsolattartást vállalhatja az erre szolgáló elérhetőségének az Országos Bírósági Hivatal részére történő megküldésével. Ha a névjegyzékben nem szereplő, szakértői tevékenységre külön jogszabályban feljogosított állami szerv, intézmény, szervezet az elektronikus kapcsolattartást vállalja, elektronikus kapcsolattartása során az e fejezet szakértőkre vonatkozó rendelkezéseit kell alkalmazni.
 
 (3) Ha a szakértő az elektronikus kapcsolattartást vállalta, a polgári perben a beadványokat, ide értve a szakvéleményt, az előzetes munkatervet és a díjjegyzéket is, – a (4) bekezdésben foglalt kivétellel – elektronikusan küldi meg a bíróság részére. A szakértőnek, ha az elektronikus kapcsolattartást vállalta és ennek technikai lehetőségei adottak, a szakvélemény részévé tett mellékleteket digitalizálnia kell. A szakértő ebben az esetben nem kötelezhető arra, hogy a bírósághoz benyújtott beadványt a felek és más perbeli személyek számára papír alapon megküldje.
 
@@ -4133,18 +4211,18 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 (7) A bíróság felhívhatja a papír alapú kapcsolattartással eljáró szakértőt arra, hogy a szakvéleményt elektronikus adathordozón is benyújtsa, ha azt elektronikus kapcsolattartással eljáró fél részére kell kézbesítenie. A szakértő felel azért, hogy a papír alapú szakvélemény tartalma megegyezik az elektronikus adathordozón benyújtott dokumentum tartalmával.
 
-### A bíróságok egymás közötti és a közigazgatási szervekkel, illetve más hatóságokkal történő elektronikus kommunikációja
+### A bíróságok egymás közötti és a közigazgatási szervekkel, illetve más hatóságokkal történő elektronikus kapcsolattartása
 
 394/E. § (1) A bíróságok egymás közötti és a közigazgatási szervekkel, illetve más hatóságokkal történő elektronikus kapcsolattartására 2011. január 1. napja és 2015. december 31. napja között a következő rendelkezéseket kell alkalmazni:
 
 - a) a bíróság a hivatalos iratait másik bíróság, közigazgatási szerv vagy más hatóság részére elektronikus úton is kézbesíttetheti,
 - b) az elektronikus úton megkeresett másik bíróság, közigazgatási szerv vagy hatóság a megkereső bíróságnak elektronikus úton válaszolhat a megkeresésre.
 
-(2) A bíróságok egymás közötti és a közigazgatási szervekkel, illetve más hatóságokkal történő elektronikus kapcsolattartása során 2016. január 1. napját követően úgy kell eljárni, hogy a bíróság a hivatalos iratait másik bíróság, közigazgatási szerv vagy más hatóság részére kizárólag elektronikus úton kézbesíttetheti. Az elektronikus kézbesíttetés alóli kivételt jelenti, ha a bíróság által kézbesíttetni rendelt okirat papír alapú bemutatása, megtekintése szükséges; erre különösen akkor kerülhet sor, ha az eredetileg papír alapú bizonyítékok nagy mennyisége miatt azok digitalizálása aránytalan nehézséggel járna, vagy ha a papír alapú okirat valódisága vitás.
+(2) A bíróságok egymás közötti és a közigazgatási szervekkel, illetve más hatóságokkal történő elektronikus kapcsolattartása során 2016. január 1. napjától úgy kell eljárni, hogy a bíróság a hivatalos iratait másik bíróság, közigazgatási szerv vagy más hatóság részére kizárólag elektronikus úton kézbesíttetheti és a másik bíróság, a közigazgatási szerv és más hatóság is elektronikusan kézbesít az azonosítását biztosító és ÁNYK űrlap benyújtás támogatási szolgáltatás igénybevételével. Az elektronikus kézbesíttetés alóli kivételt jelenti, ha a bíróság által kézbesíttetni rendelt okirat papír alapú bemutatása, megtekintése szükséges; erre különösen akkor kerülhet sor, ha az eredetileg papír alapú bizonyítékok nagy mennyisége miatt azok digitalizálása aránytalan nehézséggel járna, vagy ha a papír alapú okirat valódisága vitás.
 
-### Az elektronikus kommunikáció szabályai
+### Az elektronikus kapcsolattartás szabályai
 
-394/F. § (1) Ahol e törvény elektronikus kommunikációt rendel, ott a (2) bekezdésben meghatározottak szerint a Ket. elektronikus kapcsolattartásra vonatkozó rendelkezéseit kell megfelelően alkalmazni.
+394/F. § (1) Ahol e törvény elektronikus kapcsolattartást rendel, ott a (2) bekezdésben meghatározottak szerint a Ket. elektronikus kapcsolattartásra vonatkozó rendelkezéseit kell megfelelően alkalmazni.
 
 (2) A bíróság a következő, a Ket. szerinti szabályozott elektronikus ügyintézési szolgáltatásokat nyújthatja az ott meghatározott szabályok szerint, illetve az alábbi szabályozott elektronikus ügyintézési szolgáltatásokat veheti igénybe az ott meghatározott, az elektronikus ügyintézési felügyelet által nyilvántartásba vett szolgáltatótól:
 
@@ -4158,19 +4236,24 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 - h) központi azonosítási ügynök,
 - i) összerendelési nyilvántartás.
 
-394/G. § (1) Ha a polgári perben a kapcsolattartás elektronikus úton történik (394/B–394/E. §), úgy arra a (2)–(10) bekezdésben és a 394/H. §-ban foglalt szabályokat is alkalmazni kell.
+394/G. § (1) Ha a polgári perben a kapcsolattartás elektronikus úton történik (321/A. §, 340/B. §, 341/J. §, 394/B–394/E. §), úgy arra a (2)–(10) bekezdésben és a 394/H–394/M. §-ban foglalt szabályokat is alkalmazni kell.
 
-(2) Az Országos Bírósági Hivatal az erre szolgáló informatikai rendszer (a továbbiakban: az Országos Bírósági Hivatal rendszere) alkalmazásával biztosítja, hogy a bírósággal kézbesítési szolgáltatást nyújtó rendszer (a továbbiakban: kézbesítési rendszer) útján folyamatosan lehessen kapcsolatot tartani, és a bíróság és a fél közötti kapcsolattartás biztosítása céljából jogosult a hozzá érkezett adatok kezelésére.
+(2) Az Országos Bírósági Hivatal az erre szolgáló informatikai rendszer (a továbbiakban: az Országos Bírósági Hivatal rendszere) alkalmazásával biztosítja, hogy a bírósággal kézbesítési szolgáltatást nyújtó rendszer (a továbbiakban: kézbesítési rendszer) útján folyamatosan lehessen kapcsolatot tartani, és a bíróság, valamint
 
-(3) A bírósági iratot a bíróság az Országos Bírósági Hivatalon keresztül, a kézbesítési rendszer útján kézbesíti a félnek.
+- a) ha az elektronikus kapcsolattartás kötelező, a jogi képviselő, a gazdálkodó szervezet, a közigazgatási szerv, az ügyész, továbbá a jegyző,
+- b) ha az elektronikus kapcsolattartás választható és azt a fél, annak képviselője vagy a szakértő választja, a fél vagy képviselője, valamint a szakértő
+
+[az a) és b) pont a továbbiakban együtt: elektronikus úton kapcsolatot tartó] közötti kapcsolattartás biztosítása céljából az Országos Bírósági Hivatal és a bíróság jogosult a hozzá érkezett adatok kezelésére.
+
+(3) A bírósági iratot a bíróság az Országos Bírósági Hivatalon keresztül, a kézbesítési rendszer útján kézbesíti az elektronikus úton kapcsolatot tartó részére.
 
 (4) A bíróságnak a kézbesítési rendszer útján megküldött bírósági iratot szervezeti elektronikus aláírásával kell ellátnia. A bíróság által készített, szervezeti elektronikus aláírásával ellátott irat közokirat.
 
-(5) A bíróság részére a beadványt és mellékletét a kézbesítési rendszer alkalmazásával az Országos Bírósági Hivatal útján kell benyújtani. A félnek a beadványt és mellékletét legalább fokozott biztonságú elektronikus aláírással ellátva kell a kézbesítési rendszer útján megküldenie a bíróság részére. A fél beadványát a bíróság elektronikus aláírása nyilvános kulcsával titkosítva küldheti meg a bíróság részére. A fél beadványa részeként a bíróság részére megküldheti elektronikus aláírása nyilvános kulcsát, ebben az esetben a bíróság a bírósági iratot a fél nyilvános kulcsával titkosítva kézbesíti a fél részére.
+(5) A bíróság részére a beadványt és mellékletét a kézbesítési rendszer alkalmazásával az Országos Bírósági Hivatal útján kell benyújtani. Az elektronikus úton kapcsolatot tartónak a beadványt és mellékletét legalább fokozott biztonságú elektronikus aláírással ellátva, vagy az azonosításra visszavezetett dokumentumhitelesítés szolgáltatás igénybevételével kell a kézbesítési rendszer útján megküldenie a bíróság részére. Az elektronikus úton kapcsolatot tartó beadványát a bíróság elektronikus aláírása nyilvános kulcsával titkosítva küldheti meg a bíróság részére. Az elektronikus úton kapcsolatot tartó beadványa részeként a bíróság részére megküldheti elektronikus aláírása nyilvános kulcsát, ebben az esetben a bíróság a bírósági iratot az elektronikus úton kapcsolatot tartó nyilvános kulcsával titkosítva kézbesíti a fél részére.
 
-(6) A félnek a beadványt – ha a beadvány előterjesztésére az Országos Bírósági Hivatal elnöke űrlapot rendszeresít – űrlapon kell előterjesztenie. Ha a beadvány vagy a melléklete előterjesztésére űrlap nem kerül rendszeresítésre, a félnek a beadványt és mellékletét az Országos Bírósági Hivatal elnöke által elfogadott dokumentumformátumok valamelyikén kell benyújtania. Az Országos Bírósági Hivatal elnöke a honlapon közzéteszi az elfogadott dokumentumformátumokat.
+(6) Az elektronikus úton kapcsolatot tartónak a beadványt – ha a beadvány előterjesztésére az Országos Bírósági Hivatal elnöke űrlapot rendszeresít – űrlapon kell előterjesztenie. Ha a beadvány vagy a melléklete előterjesztésére űrlap nem kerül rendszeresítésre, az elektronikus úton kapcsolatot tartónak a beadványt és mellékletét az Országos Bírósági Hivatal elnöke által elfogadott dokumentumformátumok valamelyikén kell benyújtania. Az Országos Bírósági Hivatal elnöke a honlapon közzéteszi az elfogadott dokumentumformátumokat.
 
-(7) A fél, illetve a képviselője az elektronikus úton benyújtott beadványokat az arra rendszeresített űrlapon terjeszti elő.
+(7)
 
 (8) Az Országos Bírósági Hivatal az űrlapokat a honlapon közzéteszi. A honlapon fel kell tüntetni az űrlapok közzétételének időpontját. A közzététel időpontjától az űrlap alkalmazása kötelező.
 
@@ -4180,7 +4263,7 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 394/H. § (1) Elektronikus kapcsolattartás esetén a kézbesítésre e § rendelkezéseit kell alkalmazni.
 
-(2) A kézbesítési rendszer útján a fél beadványa informatikai szempontból ellenőrzésre kerül. Ha a beadvány nem felel meg az informatikai követelményeknek, a fél erről a benyújtási folyamat részeként közvetlenül értesítést kap. Ha fél beadványa megfelel az informatikai követelményeknek, erről a fél a kézbesítési rendszer útján értesítést (a továbbiakban: befogadás-visszaigazolás) kap. A befogadás-visszaigazolás a következő adatokat tartalmazza:
+(2) A kézbesítési rendszer útján az elektronikus úton kapcsolatot tartó beadványa informatikai szempontból ellenőrzésre kerül. Ha a beadvány nem felel meg az informatikai követelményeknek, az elektronikus úton kapcsolatot tartó erről a benyújtási folyamat részeként közvetlenül értesítést kap. Ha az elektronikus úton kapcsolatot tartó beadványa megfelel az informatikai követelményeknek, erről az elektronikus úton kapcsolatot tartó a kézbesítési rendszer útján értesítést (a továbbiakban: befogadás-visszaigazolás) kap. A befogadás-visszaigazolás a következő adatokat tartalmazza:
 
 - a) a feladó neve,
 - b) a beadvány kézbesítési rendszer útján kapott érkeztetési száma,
@@ -4189,7 +4272,7 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 (3) A befogadás-visszaigazolásban megjelölt időpontban a beadványt a bírósághoz megérkezettnek kell tekinteni.
 
-(4) A bíróság a hozzá érkezett beadványról a fél részére – automatizáltan – a kézbesítési rendszer útján érkeztetési igazolást küld, amely tartalmazza:
+(4) A bíróság a hozzá érkezett beadványról az elektronikus úton kapcsolatot tartó részére – automatizáltan – a kézbesítési rendszer útján érkeztetési igazolást küld, amely tartalmazza:
 
 - a) a beadvány kézbesítési rendszer útján kapott érkeztetési számát,
 - b) a beadvány fél általi megnevezését,
@@ -4197,19 +4280,91 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 - d) a beadványt érkeztető bíróság elnevezését,
 - e) azt a figyelmeztetést, hogy az értesítés nem igazolja a beadvány lajstromozását,
 - f) azt a tájékoztatást, hogy az illetéket hogyan kell megfizetni,
-- g) – ha a beadványnak másik bíróságon előzménye van és a beadvány adatai alapján megállapítható, hogy abban a bíróság tévesen került megnevezésre, azonban a beadvány egyéb adataiból megállapítható, hogy a fél a beadványt mely bírósághoz kívánta benyújtani – az arról való tájékoztatást, hogy az ügyben eljáró bíróság mikor érkeztette a beadványt, továbbá az új érkeztetési azonosítót.
+- g) – ha a beadványnak másik bíróságon előzménye van és a beadvány adatai alapján megállapítható, hogy abban a bíróság tévesen került megnevezésre, azonban a beadvány egyéb adataiból megállapítható, hogy az elektronikus úton kapcsolatot tartó a beadványt mely bírósághoz kívánta benyújtani – az arról való tájékoztatást, hogy az ügyben eljáró bíróság mikor érkeztette a beadványt, továbbá az új érkeztetési azonosítót.
 
 (5) A beadvány elektronikus úton való benyújtása esetén az illetéket jogszabályban foglalt módon kell megfizetni, a 95. § (3) bekezdése és a 124. § (2) bekezdés c) pontja alkalmazásának pedig a beadvány érkeztetését követő három munkanapon belül helye nincs.
 
-(6) A fél a bírósági irat kézbesítéséről, annak az elektronikus kézbesítési tárhelyén történő elhelyezéséről a kézbesítési rendszer útján az általa megadott elektronikus levélcímére – az érkezést követően haladéktalanul, majd három nap elteltével ismételten – értesítést kap.
+(6) Az elektronikus úton kapcsolatot tartó a bírósági irat kézbesítéséről, annak az elektronikus kézbesítési tárhelyén történő elhelyezéséről a kézbesítési rendszer útján az általa megadott elektronikus levélcímére – az érkezést követően haladéktalanul, majd három nap elteltével ismételten – értesítést kap.
 
-(7) A fél az iratot az iratra mutató internetes hivatkozás megnyitásával veheti át. Az internetes hivatkozás megnyitásával elektronikus tértivevény jön létre, amely automatikusan megküldésre kerül a bíróság és a fél részére; az elektronikus tértivevény igazolja, hogy az iratot átvették. Az internetes hivatkozás megnyitását megelőzően a kézbesítési rendszer útján a fél számára megismerhetővé kell tenni legalább a bíróság nevét, a bírósági irat érkezésének időpontját, és az ügy számát.
+(7) Az elektronikus úton kapcsolatot tartó az iratot az iratra mutató internetes hivatkozás megnyitásával veheti át. Az internetes hivatkozás megnyitásával elektronikus tértivevény jön létre, amely automatikusan megküldésre kerül a bíróság és az elektronikus úton kapcsolatot tartó részére; az elektronikus tértivevény igazolja, hogy az iratot átvették. Az internetes hivatkozás megnyitását megelőzően a kézbesítési rendszer útján az elektronikus úton kapcsolatot tartó számára megismerhetővé kell tenni legalább a bíróság nevét, a bírósági irat érkezésének időpontját, és az ügy számát.
 
-(8) Ha a fél a bíróság által megküldött bírósági iratot az elektronikus kézbesítési tárhelyén történő elhelyezését követő ötödik munkanapon sem veszi át, akkor a bírósági iratot az ezt követő munkanapon kézbesítettnek kell tekinteni (kézbesítési vélelem). Ha a kézbesítési vélelem beállta megállapításának van helye, a bíróság és a fél a kézbesítési rendszer útján automatikus tájékoztatást kap.
+(8) Ha az elektronikus úton kapcsolatot tartó a bíróság által megküldött bírósági iratot az elektronikus kézbesítési tárhelyén történő elhelyezését követő ötödik munkanapon sem veszi át, akkor a bírósági iratot az ezt követő munkanapon kézbesítettnek kell tekinteni (kézbesítési vélelem). Ha a kézbesítési vélelem beállta megállapításának van helye, a bíróság és az elektronikus úton kapcsolatot tartó a kézbesítési rendszer útján automatikus tájékoztatást kap.
 
-(9) Ha az iratot azért nem lehetett kézbesíteni, mert a fél vagy képviselője a kézbesítési rendszer azon szolgáltatását megszüntette, melyen keresztül a részére a bírósági iratok kézbesítésre kerülhetnek, a felet vagy képviselőjét a bíróság pénzbírsággal (120. §) sújtja és a bírósági iratot papír alapon kézbesíti.
+(8a) A (8) bekezdésben szabályozott kézbesítési vélelem megdöntésére irányuló kérelem a 99/A. § (1) bekezdésében meghatározott határidőkön belül arra hivatkozással terjeszthető elő, hogy a kérelmező a kézbesítési tárhelyhez való kizárólagos hozzáférési jogosultságát önhibáján kívüli okból nem tudta gyakorolni.
+
+(9) Ha az iratot azért nem lehetett kézbesíteni, mert az elektronikus úton kapcsolatot tartó a kézbesítési rendszer azon szolgáltatását nem hozta létre vagy megszüntette, melyen keresztül a részére a bírósági iratok kézbesítésre kerülhetnek, az elektronikus úton kapcsolatot tartót a bíróság pénzbírsággal (120. §) sújtja és a bírósági iratot papír alapon kézbesíti.
 
 (10) A kézbesítésre a 99. § (5) bekezdését nem lehet alkalmazni.
+
+394/I. § (1) Ha a polgári perben a kapcsolattartás valamely fél részéről elektronikus úton történik, és az elektronikus úton kapcsolatot tartó beadványát nem elektronikus úton terjeszti elő, amennyiben e törvény másként nem rendelkezik,
+
+- a) a bíróság a keresetlevelet idézés kibocsátása nélkül elutasítja,
+- b) az egyéb beadványban foglalt nyilatkozat hatálytalan és úgy kell tekinteni, hogy az elektronikus úton kapcsolatot tartó nyilatkozatot egyáltalán nem tesz.
+
+(2) Ha a perben a kapcsolattartás elektronikus úton történik és az elektronikus úton kapcsolatot tartó a beadványát nem elektronikus úton terjeszti elő, az (1) bekezdés b) pontjában foglalt jogkövetkezményen felül a bíróság az elektronikus úton kapcsolatot tartót pénzbírsággal sújtja és számára a bírósági iratot papír alapon kézbesíti.
+
+394/J. § (1) Az elektronikus úton kapcsolatot tartó köteles gondoskodni a keresetlevél és a beadvány mellékleteit képező papír alapú okiratok digitalizálásáról és a papír alapú okiratok megőrzéséről.
+
+(2) A jogi képviselő elektronikus kapcsolattartás esetén a keresetlevél vagy az első, a bírósághoz benyújtott beadvány mellékleteként csatolja az általa elektronikus formába átalakított meghatalmazást. A bíróság az eredeti meghatalmazás bemutatására hívja fel a jogi képviselőt az egyezőség megállapítása érdekében, ha e tekintetben alapos kétsége merül fel.
+
+(3) E § alkalmazásában az okirat akkor tekinthető elektronikus okirati formába átalakítottnak, ha az okirat elektronikus másolatának képe megegyezik a papír alapú okiratéval.
+
+(4) Azt, hogy a keresetlevél és a beadvány elektronikus benyújtására szolgáló, e törvényben és külön jogszabályban meghatározott módokat és technikai eszközöket jogszerűen alkalmazzák, vélelmezni kell.
+
+(5) Ha a perben a kapcsolattartás elektronikus úton történik, a határidő elmulasztásának következményeit nem lehet alkalmazni, ha a bírósághoz intézett beadványt legkésőbb a határidő utolsó napján elektronikus úton az informatikai követelményeknek megfelelően előterjesztették.
+
+394/K. § A papír alapú okiratok – jogszabályban meghatározott módon történő – digitalizálására a bíróságnak öt munkanap áll rendelkezésére. Az iratok digitalizálásához szükséges időt – legfeljebb azonban öt munkanapot – a határidő számítása szempontjából figyelmen kívül kell hagyni.
+
+394/L. § Ha a képviselet ellátására jogszabály szerint több személy is jogosult – és az elektronikus kapcsolattartás nem a gazdálkodó szervezet, illetve közigazgatási szerv azonosítását biztosító és ÁNYK űrlap benyújtás támogatási szolgáltatás igénybevételével történik – a keresetlevélhez, illetve az első elektronikus úton benyújtott beadványhoz csatolni kell valamennyi személy közös nyilatkozatát arról, hogy
+
+- a) hozzájárul, hogy a keresetlevelet, illetve a beadványt a benyújtó személy teljes körű azonosítását biztosító és ÁNYK űrlap benyújtás támogatási szolgáltatás igénybevételével nyújtják be,
+- b) tudomásul veszi, hogy szabályszerű kézbesítésnek minősül a bírósági iratnak a benyújtó személy kézbesítési tárhelyére történő kézbesítése.
+
+394/M. § (1) A keresetlevelet, a beadványt, valamint az okirati bizonyítékot a kézbesítési rendszer által befogadható méretben kell benyújtani. A befogadható méretre vonatkozó adatokat az Országos Bírósági Hivatal a honlapon közzéteszi.
+
+(2) Ha a keresetlevél, a beadvány vagy az okirat, illetve ezek együttes mérete a kézbesítési rendszer által befogadható méretet meghaladja, a beadványt több, a kézbesítési rendszer által befogadható méretű részletben kell benyújtani. Az egyes részletekhez tartozó űrlapokon meg kell jelölni, hogy a beadvány összesen hány részletből áll, továbbá az adott részlet sorszámát. Az űrlapokból a részletek összetartozásának egyértelműen ki kell tűnnie.
+
+(3) A keresetlevél vagy a beadvány (2) bekezdés szerinti valamennyi részletének feltöltése esetén az utolsó részlethez kapott befogadás-visszaigazolásban megjelölt időpontban kell a keresetlevelet vagy a beadványt a bírósághoz megérkezettnek tekinteni.
+
+### XXVIII/A. Fejezet — A ZÁRTCÉLÚ TÁVKÖZLŐ HÁLÓZAT IGÉNYBEVÉTELÉNEK SZABÁLYAI
+
+394/N. § (1) A bíróság a fél indítványára vagy hivatalból végzéssel elrendelheti, hogy a fél és más perbeli személy, valamint a szakértő meghallgatására, illetve a tanú kihallgatására zártcélú távközlő hálózat útján kerüljön sor, ha célszerűnek látszik – különösen, ha az az eljárás lefolytatását meggyorsítja –, vagy a meghallgatás, illetve a kihallgatás (e fejezetben a továbbiakban együtt: meghallgatás) a tárgyalás, illetve a személyes meghallgatás kitűzött helyszínén jelentős nehézséggel vagy aránytalanul nagy költségtöbblettel járna.
+
+(2) A zártcélú távközlő hálózat útján történő meghallgatás során a tárgyalás, illetve a személyes meghallgatás kitűzött helyszíne és a zártcélú távközlő hálózat útján történő meghallgatás helyszíne között az összeköttetés közvetlenségét a mozgóképet és a hangot egyidejűleg továbbító készülék biztosítja. A zártcélú távközlő hálózat útján történő meghallgatásra sor kerülhet a tárgyalás, illetve a személyes meghallgatás kitűzött helyszíne és több egyéb zártcélú távközlő hálózat útján történő meghallgatási helyszín igénybevételével is, ha azok közvetlen összeköttetése biztosítható. A zártcélú távközlő hálózat útján történő meghallgatáshoz a helyiséget bíróság vagy egyéb – a zártcélú távközlő hálózat működésének biztosításához szükséges feltételekkel rendelkező – szerv bocsátja rendelkezésre.
+
+(3) A zártcélú távközlő hálózat útján történő meghallgatás iránti kérelem tárgyában hozott végzéssel szemben nincs helye fellebbezésnek. A zártcélú távközlő hálózat útján történő meghallgatást elrendelő végzést a bíróság a tárgyalásra, illetve a személyes meghallgatásra szóló idézéssel együtt kézbesíti azoknak, akik a tárgyalásra, illetve a személyes meghallgatásra megidézésre kerülnek. A zártcélú távközlő hálózat útján történő meghallgatást elrendelő végzést a bíróság haladéktalanul megküldi a zártcélú távközlő hálózat útján történő meghallgatáshoz elkülönített helyiséget biztosító bíróságnak, illetve egyéb szervnek.
+
+394/O. § (1) A zártcélú távközlő hálózat útján meghallgatásra kerülő személynek – a bíróság vagy az egyéb szerv épületében – az erre a célra kialakított helyiségben kell megjelennie és a meghallgatás ideje alatt jelen lennie.
+
+(2) A zártcélú távközlő hálózat útján történő meghallgatás esetén a tárgyalás nyilvánosságára vonatkozó rendelkezéseket azzal kell alkalmazni, hogy a nyilvánosságot a tárgyalás kitűzött helyszínén kell biztosítani. A zártcélú távközlő hálózat útján történő meghallgatásra kialakított helyiségben
+
+- a) a meghallgatásra kerülő személy,
+- b) az, akinek a jelenlétét a meghallgatott személyéhez kapcsolódóan a tárgyaláson, illetve a személyes meghallgatáson a törvény lehetővé, illetve kötelezővé teszi (különösen a képviselő, az ügygondnok, a törvényes képviselő, a tolmács),
+- c) a zártcélú távközlő hálózat útján történő meghallgatást biztosító technikai eszközök működését biztosító, kezelő személy
+
+lehet jelen.
+
+(3) A zártcélú távközlő hálózat útján meghallgatásra kerülő személy személyazonosságát a tárgyalást vezető elnök (bíró), illetve a személyes meghallgatást lefolytató elnök (bíró) – ha a személyes meghallgatást bírósági titkár folytatja le, úgy a bírósági titkár – állapítja meg. Az elnök (bíró), illetve bírósági titkár állapítja meg azt is, hogy a zártcélú távközlő hálózat útján történő meghallgatásra kialakított helyiségben csak olyan személyek tartózkodnak, akiknek a jelenlétét a törvény lehetővé teszi, továbbá, hogy a meghallgatott személy nincs korlátozva eljárási jogainak gyakorlásában.
+
+(4) A zártcélú távközlő hálózat útján meghallgatásra kerülő személy személyazonosságának igazolása az általa
+
+- a) a személyazonosságának és lakcímének igazolása érdekében rendelkezésre bocsátott adatai alapján és
+- b) a személyazonosságának igazolására alkalmas hatósági igazolványa vagy tartózkodásra jogosító okmánya képi adatátvitellel történő bemutatásával
+
+történik.
+
+(5) A bíróság a zártcélú távközlő hálózat útján meghallgatásra kerülő személy által
+
+- a) a személyazonosságának és lakcímének igazolása érdekében a rendelkezésre bocsátott adatai nyilvántartási adatokkal való egyezőségéről, és
+- b) a személyazonosságának igazolására alkalmas, bemutatott hatósági igazolványa és tartózkodásra jogosító okmánya nyilvántartási adatokkal való egyezőségéről és érvényességéről
+
+elektronikus úton, vagy az adatbázisok közvetlen elérésével is meggyőződik.
+
+(6) A meghallgatás megkezdésekor az elnök (bíró), illetve ha a személyes meghallgatást bírósági titkár folytatja le, a bírósági titkár tájékoztatja a zártcélú távközlő hálózat útján meghallgatott személyt, hogy a meghallgatására zártcélú távközlő hálózat útján kerül sor.
+
+(7) A zártcélú távközlő hálózat útján történő meghallgatás során biztosítani kell, hogy a tárgyalás, illetve a személyes meghallgatás kitűzött helyszínén jelen lévő résztvevők láthassák a zártcélú távközlő hálózat útján történő meghallgatásra kialakított helyiségben a meghallgatott személyt, valamint a meghallgatott személlyel egyidejűleg ott-tartózkodó valamennyi személyt. Biztosítani kell továbbá, hogy a zártcélú távközlő hálózat útján történő meghallgatásra kialakított helyiségnek minden pontja látható legyen a tárgyalás, illetve a személyes meghallgatás kitűzött helyszínén jelenlévő elnök (bíró), illetve bírósági titkár számára. A zártcélú távközlő hálózat útján történő meghallgatásra kialakított helyiségben tartózkodó meghallgatott személy részére is biztosítani kell, hogy követhesse a tárgyalás menetét.
+
+394/P. § A zártcélú távközlő hálózat útján történő meghallgatás esetén a tárgyalásról, illetve személyes meghallgatásról készült jegyzőkönyvnek ki kell terjednie a zártcélú távközlő hálózat útján történt meghallgatás lefolytatásának körülményei rögzítésére, feltüntetve a zártcélú távközlő hálózat útján történő meghallgatásra kialakított helyiségben jelen lévő személyeket.
 
 ## NYOLCADIK RÉSZ — VEGYES RENDELKEZÉSEK
 
@@ -4234,7 +4389,7 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 - i) a 185. § szerinti elővezetés végrehajtásával felmerült költség mértékét, valamint megtérítésének részletes szabályait az államháztartásért felelős miniszterrel egyetértésben;
 - j) a munkavállalói költségkedvezmény vonatkozásában a 359/A. §-ban meghatározott mértéket, valamint a költségkedvezmény érvényesítésének eljárási szabályait az államháztartásért felelős miniszterrel, valamint a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg,
 - j) a polgári peres eljárás elektronikus beadványai formanyomtatványának tartalmát – az informatikáért felelős miniszterrel egyetértésben – rendeletben szabályozza,
-- k) a polgári perben alkalmazható videókonferencia technikai szabályait – az informatikáért felelős miniszterrel egyetértésben – rendeletben szabályozza.
+- k) a polgári eljárásban a tárgyalás (meghallgatás, kihallgatás) zártcélú távközlő hálózat útján történő megtartásának részletes szabályait – az informatikáért felelős miniszterrel egyetértésben és az Országos Bírósági Hivatal elnöke véleményének kikérésével – rendeletben határozza meg,
 - l) a polgári peres eljárás elektronikus beadványai űrlapjának adatait, tartalmi és formai kellékeit, valamint az űrlaphoz csatolható mellékleteket rendeletben szabályozza,
 - m) az ügyész polgári eljárásbeli részvételével kapcsolatos költség előlegezésének és viselésének részletes szabályait az államháztartásért és az állami vagyon felügyeletéért felelős miniszterrel egyetértésben rendeletben szabályozza,
 - n) a bíróságokkal való elektronikus kapcsolattartás és az elektronikus bírósági iratkezelés részletes szabályait rendeletben állapítsa meg.
@@ -4285,6 +4440,19 @@ vonatkozó, a Módosító Törvénnyel megállapított rendelkezéseit a 2014. m
 (5) Ha 2014. március 15. napján folyamatban lévő gondnokság alá helyezési per folyamán az alperes előzetes jognyilatkozatot tesz, ennek tényét haladéktalanul be kell jelentenie az eljáró bíróság részére.
 
 397/G. § E törvénynek a közbeszerzésekről szóló 2015. évi CXLIII. törvénnyel megállapított 326. § (7) bekezdését, 326. § (14) bekezdését a hatálybalépését követően, a közbeszerzésekről szóló törvény alapján indult közigazgatási perekre kell alkalmazni. E törvénynek a közbeszerzésekről szóló 2015. évi CXLIII. törvénnyel hatályon kívül helyezett 326. § (12) bekezdés r) pontját a hatályon kívül helyezését megelőzően, a közbeszerzésekről szóló törvény alapján indult közigazgatási perekre alkalmazni kell.
+
+397/H. § (1) E törvénynek a polgári perrendtartásról szóló 1952. évi III. törvény, valamint egyéb eljárásjogi és igazságügyi törvények módosításáról szóló 2015. évi CLXXX. törvénnyel megállapított rendelkezéseit – a (2) bekezdésben foglalt kivétellel – a folyamatban lévő ügyekben is alkalmazni kell.
+
+(2) E törvénynek a polgári perrendtartásról szóló 1952. évi III. törvény, valamint egyéb eljárásjogi és igazságügyi törvények módosításáról szóló 2015. évi CLXXX. törvénnyel megállapított
+
+- a) 23. § (1) bekezdés b) pontját, a polgári perrendtartásról szóló 1952. évi III. törvény, valamint egyéb eljárásjogi és igazságügyi törvények módosításáról szóló 2015. évi CLXXX. törvény 23. § a) pontjának hatálybalépését követően indult perekben,
+- b) 321/A. §-át a 2016. január 1. napján és az azt követően indult fizetési meghagyásos eljárást követően perré alakult eljárásban,
+- c) 340/B. §-át a 2016. január 1. napján és az azt követően indult közigazgatási eljárás során hozott határozat bírósági felülvizsgálata iránti perekben,
+- d) 341/J. §-át a 2016. január 1. napján és az azt követően indult jegyző előtti birtokvédelmi eljárás során hozott birtokvédelmi határozat megváltoztatása iránti perekben,
+- e) 386/U. §-át a 2016. január 1. napján és az azt követően indult perekben,
+- f) 394/C. §-át a 2016. január 1. napján és az azt követően indult perekben
+
+kell alkalmazni.
 
 398. § E törvény 313–323. §-a összeegyeztethető szabályozást tartalmaz az Európai Parlament és a Tanács a kereskedelmi ügyletekhez kapcsolódó késedelmes fizetések elleni fellépésről szóló 2011/7/EU irányelvének 10. cikkével.
 

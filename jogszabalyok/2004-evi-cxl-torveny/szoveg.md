@@ -453,7 +453,7 @@ tart kapcsolatot az ügyféllel.
 
 (2) Az ügyfél akkor köteles elektronikus úton kapcsolatot tartani a hatósággal, ha azt törvény az adott ügyben vagy eljárási cselekmény vonatkozásában előírja.
 
-(3) Törvény eltérő rendelkezése hiányában nem alkalmazható elektronikus út a 20. § (6) bekezdése és a 24. § (1) bekezdése szerinti kérelem vonatkozásában, valamint a hatóság döntésének bírósági felülvizsgálatával kapcsolatos eljárásban.
+(3) Törvény eltérő rendelkezése hiányában nem alkalmazható elektronikus út a 20. § (6) bekezdése és a 24. § (1) bekezdése szerinti kérelem vonatkozásában.
 
 (4) A hatóság elektronikus úton tartja a kapcsolatot az ügyféllel, ha az ügyfél azt igényli, továbbá ha az ügyfél a kérelmet elektronikus úton nyújtotta be, és az alkalmazandó kapcsolattartási formáról másként nem rendelkezett.
 
@@ -2912,7 +2912,8 @@ kell érteni.
 - c) az állam által kötelezően nyújtandó szabályozott elektronikus ügyintézési szolgáltatások szolgáltatóit.
 - d) az ügyfélkapu regisztrációs szervet vagy szerveket,
 - e) az ügyfélkapu regisztrációs adatbázist kezelő szervet vagy szerveket,
-- f) az elektronikus ügyintézést igénybe vevő, külföldön élő természetes személyek személyi nyilvántartásának adatkezelőjét.
+- f) az elektronikus ügyintézést igénybe vevő, külföldön élő természetes személyek személyi nyilvántartásának adatkezelőjét,
+- g) a Központi Ügyfél-regisztrációs Nyilvántartást vezető szervet.
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza
 
