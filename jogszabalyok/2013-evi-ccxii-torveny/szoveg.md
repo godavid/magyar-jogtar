@@ -365,6 +365,12 @@ kell érteni.
 
 (2) A haszonbért időszakonként utólag, de legkésőbb a naptári év végéig kell teljesíteni. Ha a hatósági jóváhagyáshoz nem kötött haszonbérleti szerződés a naptári év végét megelőzően 6 hónapon belül jött létre vagy a hatósági jóváhagyáshoz kötött haszonbérleti szerződést a mezőgazdasági igazgatási szerv a naptári év végét megelőző 90 napon belül hagyta jóvá, az első esedékes haszonbért a szerződés létrejöttét követő évre vonatkozó haszonbérrel együtt kell teljesíteni, kivéve, ha a felek más határidőben állapodnak meg.
 
+50/A. § (1) A haszonbérbe adó személyében bekövetkező változás esetén – ide nem értve a Ptk. szerinti hozzátartozók közötti ügyleteket – a haszonbérbe adó jogutódja a haszonbérbe adó személyében bekövetkező változást követő 90 napon belül és ezt követően pedig további három évenként – kivéve, ha a szerződés lejártáig három évnél kevesebb időtartam van hátra – az e §-ban foglaltak szerint kezdeményezheti a haszonbérleti szerződés módosítását a haszonbérnek a kezdeményezéskor irányadó piaci haszonbérleti díj összegére való emelése érdekében.
+
+(2) Ha a haszonbérlő a haszonbérbe adó kezdeményezésével nem ért egyet, a kezdeményezés kézhezvételétől számított 30 napos jogvesztő határidőn belül a bíróságtól kérheti a piaci haszonbérleti díj meghatározását, ellenkező esetben a haszonbérleti díjat a kezdeményezésben megjelölt mértékben módosítottnak kell tekinteni.
+
+(3) E § rendelkezéseitől a felek érvényesen nem térhetnek el.
+
 51. § Ha a haszonbérlő a haszonbérleti jogosultságot jogszabályban foglalt módon, támogatás feltételeként a haszonbérbeadó írásbeli hozzájárulásával az általa kijelölt földműves vagy mezőgazdasági termelőszervezet részére adja át, akkor a kijelölt földműves, illetve mezőgazdasági termelőszervezet a szerződésben a haszonbérlő helyébe lép és a haszonbérleti jogviszonyt változatlan feltételekkel folytatja.
 
 #### 13. A haszonbérleti szerződésnek az előhaszonbérletre jogosultakkal való közlése
