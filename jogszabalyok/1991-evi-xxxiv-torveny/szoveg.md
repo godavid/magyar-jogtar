@@ -62,10 +62,10 @@ Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával k
 
 (2) Szerencsejáték-szervező tevékenység folytatásához – az e törvényben meghatározott kivétellel – az állami adóhatóság engedélye szükséges. Az állami adóhatóság az engedélyesekről – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartást vezet.
 
-(2a) Távszerencsejáték szolgáltatás nyújtásához az állami adóhatóság engedélye szükséges. A távszerencsejáték szolgáltatásokra e törvény hatálya abban az esetben terjed ki, ha
+(2a) A távszerencsejáték és online kaszinójáték szolgáltatásokra e törvény hatálya abban az esetben terjed ki, ha
 
-- a) a távszerencsejátékot Magyarország területén szervezik, vagy
-- b) a szolgáltatás igénybe vevője Magyarország területén vesz részt a távszerencsejátékban, vagy
+- a) a szerencsejátékot Magyarország területén szervezik,
+- b) a szolgáltatás igénybe vevője Magyarország területén vesz részt a szerencsejátékban, vagy
 - c) a szolgáltatás Magyarország területén lévő igénybe vevők felé irányul, különösen olyan esetekben, amikor a szolgáltatás magyarul hozzáférhető, vagy azt Magyarország területén reklámozzák.
 
 (3) Az állami adóhatóság az engedélyt annak adja ki, aki a szerencsejáték biztonságos, szakszerű lebonyosításához szükséges személyi, tárgyi és gazdasági feltételekkel rendelkezik.
@@ -243,9 +243,9 @@ végezheti.
 (3) A bírság
 
 - a) 50 ezer forinttól 500 ezer forintig terjedhet az 1. § (8) bekezdésébe, 9. § (3) bekezdésébe, a 16. § (2) bekezdésébe, a 17. § (1) bekezdésébe, a 18. § (1) bekezdésébe, az ajándéksorsolást szervezővel szemben a 23. §-ba és a 36. § (3) bekezdésébe, 36/C–E. §-ba,
-- b) 100 ezer forinttól 10 millió forintig terjedhet az 1. § (5a)–(6d) bekezdésébe, a 9. § (2) bekezdésébe, a 11. § (7a)–(10) bekezdésébe, a 17. § (4) bekezdésébe,, a 26. § (4) bekezdésébe, a 26/B. § (5) bekezdésébe, a 27. § (9) és (11) bekezdéseibe, a 29/A. § (3) bekezdésébe, 29/B. § (2), (5)–(8) bekezdéseibe, valamint a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény, továbbá az egyes szerencsejátékok engedélyezésével, lebonyolításával és ellenőrzésével kapcsolatos feladatok végrehajtásáról szóló rendelet, valamint a helyhez kötött szerver alapú pénznyerő automatákat és a nem helyhez kötött szerver alapú pénznyerő rendszereket üzemeltető központi szerver, működtetésének részletes személyi, pénzügyi műszaki és informatikai feltételeit meghatározó rendelet rendelkezéseibe.
-- c) 200 ezer forinttól 3 millió forintig terjedhet az 1. § (5a) vagy (5b) bekezdéseibe, a 9. § (1) bekezdésébe, az ellenőrzési díj meg nem fizetése esetén a 11. § (1) bekezdésébe, a 13. § (1) bekezdésének b)–d) pontjaiba, a 18. § (2) bekezdésébe, a 19. § (1) bekezdésébe, a 28. § (1)–(2) bekezdéseibe, 29/B. § (9) bekezdésébe, a 30. § (4) bekezdésébe és a 30/B. §-ba,
-- d) 500 ezer forinttól 100 millió forintig terjedhet az 1. § (4)–(5) bekezdésébe, a 2. § (2) és (7) bekezdéseibe, a 26. § (3) bekezdésébe, 29/B. § (3) bekezdésébe, 29/C. § (1)–(7), (9) bekezdésébe és a 30. § (3) bekezdésébe ütköző tevékenység vagy mulasztás esetén.
+- b) 100 ezer forinttól 10 millió forintig terjedhet az 1. § (5a)–(6d) bekezdésébe, a 9. § (2) bekezdésébe, a 11. § (7a)–(10) bekezdésébe, a 17. § (4) bekezdésébe, a 26. § (4) bekezdésébe, a 26/B. § (5) bekezdésébe, a 27. § (9) és (11) bekezdéseibe, a 29/A. § (3) bekezdésébe, 29/B. § (2), (5)–(8) bekezdéseibe, valamint a felelős játékszervezés részletes szabályairól szóló kormányrendelet, továbbá az egyes szerencsejátékok engedélyezésével, lebonyolításával és ellenőrzésével kapcsolatos feladatok végrehajtásáról szóló rendelet rendelkezéseibe,
+- c) 200 ezer forinttól 3 millió forintig terjedhet az 1. § (7a) bekezdésébe, a 9. § (1) bekezdésébe, az ellenőrzési díj meg nem fizetése esetén a 11. § (1) bekezdésébe, a 13. § (1) bekezdésének b)–d) pontjaiba, a 18. § (2) bekezdésébe, a 19. § (1) bekezdésébe, a 28. § (1)–(2) bekezdéseibe, 29/B. § (9) bekezdésébe, a 30. § (4) bekezdésébe és a 30/B. §-ba,
+- d) 500 ezer forinttól 100 millió forintig terjedhet az 1. § (4)–(5) bekezdésébe, a 2. § (2) és (7) bekezdéseibe, a 26. § (3) bekezdésébe, 29/B. § (3) bekezdésébe, 29/C–V. §-ba és a 30. § (3) bekezdésébe ütköző tevékenység vagy mulasztás esetén.
 
 (4)
 
@@ -274,7 +274,7 @@ végezheti.
 
 (2a) Az eltiltás pénznyerő automaták és kártyaterem üzemeltetése esetén meghatározott játékkaszinóban, illetve kártyateremben folytatott szerencsejáték-szervezői tevékenységre vonatkozóan is alkalmazható.
 
-(3) Az állami adóhatóság a játékkaszinó és a kártyaterem működtetőjével, valamint a távszerencsejáték-szervezővel szemben a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben foglalt rendelkezések megsértése esetén az e §-ban meghatározott intézkedést alkalmazhat.
+(3) Az állami adóhatóság a játékkaszinó és a kártyaterem működtetőjével, valamint a távszerencsejáték és online kaszinójáték szervezővel szemben a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben foglalt rendelkezések megsértése esetén az e §-ban meghatározott intézkedést alkalmazhat.
 
 (4) Ha a szerencsejáték szervező a működését az engedély megadásától számított hat hónapon belül nem kezdi meg, továbbá ha azt engedély nélkül szünetelteti, az engedély visszavonható.
 
@@ -552,7 +552,7 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 
 29/E. § (1)–(2)
 
-(3) A koncesszió időtartama legfeljebb 5 év.
+(3)
 
 29/F. § (1) A szervező a távszerencsejáték-szervezés engedélyezése iránti kérelmet az e törvényben és a külön jogszabályban meghatározott tartalommal kell előterjeszteni a külön jogszabályban meghatározott igazgatási szolgáltatási díj megfizetését igazoló okirattal egyidejűleg.
 
@@ -572,17 +572,17 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 
 29/H. § (1) A szervező a játékost a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény 7–11. §-ában meghatározott ügyfél-átvilágítási intézkedések elvégzése érdekében a következő adatok rögzítésével nyilvántartásba veszi:
 
-- a) családi és utónév, születési családi és utónév,
-- b) lakcím,
+- a) családi és utónév, születési családi és utónév, anyja neve,
+- b) lakcím, külföldi esetében a magyarországi tartózkodási hely,,
 - c) állampolgárság,
 - d) azonosító okmány típusa, száma,
 - e) születési hely és idő.
 
-(2) A szervező az (1) bekezdésben meghatározott természetes személy személyazonosságának igazoló ellenőrzése érdekében megkeresheti a személyiadat- és lakcímnyilvántartást. Az ellenőrzés elektronikus úton, egyedi informatikai alkalmazás igénybevételével történő adatszolgáltatás útján valósul meg. Ha az ellenőrzés eredménye az egyezőséget nem támasztja alá, a szervező az ügyfél-azonosítást a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény 14. § (2) bekezdése szerint végzi el.
+(2) A szervező az (1) bekezdésben meghatározott természetes személy személyazonosságának igazoló ellenőrzése érdekében megkeresheti a személyiadat- és lakcímnyilvántartást. Az ellenőrzés elektronikus úton, egyedi informatikai alkalmazás igénybevételével történő adatszolgáltatás útján valósul meg. Ha az ellenőrzés eredménye az egyezőséget nem támasztja alá, vagy a személy a nyilvántartásban nem szerepel, a szervező az ügyfél-azonosítást a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény 14. § (2) bekezdése szerint végzi el.
 
 (3) A szervező a személyiadat- és lakcímnyilvántartást a (2) bekezdés szerinti személyazonosságot igazoló ellenőrzés keretében az alábbi adatokkal kapcsolatban keresheti meg:
 
-- a) családi és utónév, születési családi és utónév,
+- a) családi és utónév, születési családi és utónév, anyja neve,
 - b) lakcím,
 - c) állampolgárság,
 - d) személyazonosító igazolvány száma,
@@ -590,7 +590,7 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 
 (4) Játékosként kizárólag természetes személy vehető nyilvántartásba. Ha a játékos életkora nem állapítható meg, vagy a 18. életév betöltése egyébként kétséges, a szervező a játékos nyilvántartásba vételét megtagadja.
 
-(5) A szervező a játékos nyilvántartásba vétele keretében a játékos részére játékosi egyenleget hoz létre. Egy játékos részére egy szervezőnél egy játékosi egyenleg nyitható. A játékosi egyenleget a szervező a felelős játékszervezés elvének tiszteletben tartásával, az e törvényben és külön jogszabályban meghatározottak szerint vezeti. A játékosi egyenlegen a szervező az engedély felfüggesztésének időtartama alatt csak a felfüggesztés napját megelőző játékügyletek elszámolásával kapcsolatos terheléseket, jóváírásokat vezetheti át és csak ilyen játékügyletekkel kapcsolatos kifizetéseket teljesíthet. A játékosi egyenleg megszüntetése esetén a szervező a játékügyletekkel kapcsolatban a játékossal a külön jogszabályban meghatározottak szerint elszámol.
+(5) A szervező a játékos nyilvántartásba vétele keretében a játékos részére játékosi egyenleget hoz létre. Egy játékos részére egy szervezőnél egy játékosi egyenleg nyitható. A játékosi egyenleget a szervező a felelős játékszervezés elvének tiszteletben tartásával, az e törvényben és külön jogszabályban meghatározottak szerint vezeti. A szervező a játékosi egyenlegeket egy minden egyéb pénzügyi eszköztől elkülönített magyarországi bankszámlán köteles tartani. Az elkülönített bankszámlán elhelyezett összegnek fedeznie kell a játékosi egyenlegek összegét. Ha a játékosi egyenlegek összege meghaladja az elkülönített bankszámlán található összeget, a szervező 30 napon belül köteles a különbözet pótlására. A játékosi egyenlegen a szervező az engedély felfüggesztésének időtartama alatt csak a felfüggesztés napját megelőző játékügyletek elszámolásával kapcsolatos terheléseket, jóváírásokat vezetheti át és csak ilyen játékügyletekkel kapcsolatos kifizetéseket teljesíthet. A játékosi egyenleg megszüntetése esetén a szervező a játékügyletekkel kapcsolatban a játékossal a külön jogszabályban meghatározottak szerint elszámol.
 
 29/I. § (1) A szervező távszerencsejáték-szervezéssel kapcsolatban használt honlapján az e törvény szerint nyújtott szerencsejáték-szolgáltatással kapcsolatban magyar nyelven kell feltüntetni legalább a következő információkat:
 
@@ -623,11 +623,11 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 
 (2) Az állami adóhatóság az (1) bekezdés szerinti közzététel adatait legkésőbb a változást követő munkanapon módosítja.
 
-29/K. § (1) A szervező a távszerencsejáték szervezői tevékenységéről e tevékenység hatékony hatósági felügyelete érdekében a kéthetente, a tárgyidőszakot tartalmazó hónap 15. és utolsó naptári napján elektronikus úton – az állami adóhatóság által rendszeresített űrlapon vagy az állami adóhatóság által jóváhagyott adathordozó eszköz felhasználásával – adatszolgáltatást teljesít az állami adóhatóságoz.
+29/K. § (1) A szervező a távszerencsejáték szervezői tevékenységéről e tevékenység hatékony hatósági felügyelete érdekében a tárgyhónapot követő hónap 20. napjáig elektronikus úton – az állami adóhatóság által rendszeresített űrlapon vagy az állami adóhatóság által jóváhagyott adathordozó eszköz felhasználásával – adatszolgáltatást teljesít az állami adóhatóságoz.
 
 (2) Az adatszolgáltatásban a szervező a játékügyletek és a játékosi egyenlegen vezetett ügyletek alakulásával kapcsolatos, külön jogszabályban meghatározott adatokat tünteti fel.
 
-(3) A szervező a távszerencsejátékkal kapcsolatos adatokat az adat keletkezésétől számított 6 évig köteles megőrizni és kérésre az állami adóhatóság részére – papír alapon, elektronikusan vagy adathordozó eszközön – hozzáférhetővé tenni.
+(3)
 
 ### 6. CÍM — Online kaszinójáték
 
@@ -666,15 +666,15 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 
 (2) Az ajándék bónusz és a speciális bónusz nem növeli a bevételt.
 
-29/S. § (1) Az online kaszinójáték szervezője a játékosi egyenlegeket egy minden egyéb pénzügyi eszköztől elkülönített magyarországi bankszámlán köteles tartani. Az elkülönített bankszámlán elhelyezett összegnek minden esetben fedeznie kell a játékosi egyenlegek összegét. Ha a játékosi egyenlegek összege meghaladja az elkülönített bankszámlán található összeget, akkor a játékszervező 30 napon belül köteles a különbözet pótlására.
+29/S. § (1)
 
 (2) Az online kaszinóban elnyert nyereményt abban a pénznemben kell kifizetni, amelyben az keletkezett.
 
 29/T. § Azonos koncessziós társaság által üzemeltetett játékkaszinók és online kaszinók esetében a koncessziós társaság egységes beléptető- és azonosító rendszer alkalmazására jogosult.
 
-29/U. § Online kaszinó üzemeltetése esetén a 29/H–J. §-ban foglaltakat megfelelően alkalmazni kell.
+29/U. § Online kaszinó üzemeltetése esetén a 29/F. §, 29/G. § (1) bekezdésében, 29/H–J. §, (1)–(3) bekezdésében, 29/K. § (1) és (2) bekezdésében, foglaltakat megfelelően alkalmazni kell.
 
-29/V. § Kétszázmillió forintot vagy ennek megfelelő összegű devizaösszeget meghaladó nyeremény esetén az online kaszinó szervezője a nyereményt 30 napon belül köteles a játékosi egyenlegen jóváírni.
+29/V. § Kétszázmillió forintot vagy – a nyeremény keletkezése napján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos árfolyam szerint – ennek megfelelő összegű devizaösszeget meghaladó nyeremény esetén az online kaszinó szervezője a nyereményt 30 napon belül köteles a játékosi egyenlegen jóváírni.
 
 ### II. Fejezet — A sorsolásos játékok és a totalizatőri rendszerű fogadások nyereményalapja
 
@@ -865,7 +865,7 @@ fizeti meg az állami adóhatósághoz a felügyeleti díj megfizetéséről sz�
 
 (3) Az állami adóhatóság 100 ezer forinttól 500 ezer forintig terjedő bírsággal sújthatja azt az elektronikus hírközlési szolgáltatót, amely a 36/G. § és e § szerinti kötelezettségének nem tesz eleget. A bírság a kötelezettség nemteljesítésének időtartama alatt ismételten is kiszabható.
 
-36/I. § (1) Az ideiglenes hozzáférhetetlenné tételre vonatkozó kötelezettség az elrendelést követő 90 nap elteltével megszűnik.
+36/I. § (1) Az ideiglenes hozzáférhetetlenné tételre vonatkozó kötelezettség az elrendelést követő 365 nap elteltével megszűnik.
 
 (2) Az ideiglenes hozzáférhetetlenné tételt az állami adóhatóság annak megszűnése előtt megszünteti, ha
 
@@ -941,7 +941,7 @@ fizeti meg az állami adóhatósághoz a felügyeleti díj megfizetéséről sz�
 - c) a játéktervvel,
 - d) a sorsolásos játékokkal és a fogadásokkal,
 - e) a pénznyerő automaták, a játékautomaták, a kártyatermek és a játékkaszinók üzemeltetésével,
-- f)
+- f) a gazdátlan, szerencsejáték keretében használt játékeszköznek a Polgári Törvénykönyvben foglaltaktól eltérő tulajdonszerzésével
 - g) a szerencsejátékok szervezésének engedélyezéséért, ellenőrzéséért, illetve az állami adóhatóság által végzett egyes igazgatási szolgáltatások igénybevételéért fizetendő igazgatási-szolgáltatási díjakkal,
 - h)
 - i) a távszerencsejáték és az online kaszinójáték szervezésének engedélyezésével, ellenőrzésével, a szervezés személyi, tárgyi-műszaki és gazdasági feltételeivel és lebonyolításával, távszerencsejátékban és az online kaszinójátékban való részvétel feltételeivel, az engedély nélküli szerencsejátékok szolgáltatásában való közreműködők kötelezettségeivel és az állami adóhatóság feladataival,

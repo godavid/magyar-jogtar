@@ -206,7 +206,7 @@ Az Országgyűlés a magyar gazdaság döntő részét kitevő, a foglalkoztatot
 - 2. egyéni vállalkozó: az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény szerinti egyéni vállalkozó;
 - 3. közvetett tulajdon: a tőkepiacról szóló 2001. évi CXX. törvény 5. § (1) bekezdésének 84. pontja szerint meghatározott közvetett tulajdon;
 - 4. szomszédos piac: az adott terméknek vagy szolgáltatásnak az a piaca, amely a termék vagy szolgáltatás végső fogyasztóhoz való eljuttatására létrehozott termelési, értékesítési folyamatban vertikálisan az adott piacot megelőző vagy követő szinten helyezkedik el;
-- 5. vállalkozás: az egyéni vállalkozó, az egyéni cég, a gazdasági társaság, az ügyvédi iroda, a szövetkezet, a vízi társulat, a víziközmű társulat, az erdőbirtokossági társulat, továbbá a Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról szóló 2008. augusztus 6-i 800/2008/EK bizottsági rendelet 1. mellékletében meghatározott KKV kritériumoknak megfelelő mezőgazdasági termeléssel, halgazdálkodással, mezőgazdasági feldolgozással és forgalmazással, erdőgazdálkodással és vadgazdálkodással foglalkozó vállalkozás és természetes személyek;
+- 5. vállalkozás: az egyéni vállalkozó, az egyéni cég, a gazdasági társaság, az ügyvédi iroda, a szövetkezet, a vízi társulat, a víziközmű társulat, az erdőbirtokossági társulat, továbbá a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet I. mellékletében meghatározott KKV kritériumoknak megfelelő mezőgazdasági termeléssel, halgazdálkodással, mezőgazdasági feldolgozással és forgalmazással, erdőgazdálkodással és vadgazdálkodással foglalkozó vállalkozás és természetes személyek.
 
 ### V. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -218,11 +218,7 @@ Az Országgyűlés a magyar gazdaság döntő részét kitevő, a foglalkoztatot
 
 (6)
 
-(7) E törvény a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás tárgykörében, a megállapodást kihirdető 1994. évi I. törvény 3. §-ával összhangban az Európai Közösségek következő jogszabályaival összeegyeztethető szabályozást tartalmaz:
-
-– a Bizottság 96/280/EK ajánlása a mikro-, kis- és középvállalkozások meghatározásáról,
-
-– a Bizottság 2003/361/EK ajánlása a mikro-, kis- és középvállalkozások meghatározásáról.
+(7) Ez a törvény a mikro-, kis- és középvállalkozások meghatározásáról szóló 2003. május 6-i 2003/361/EK bizottsági ajánlásnak való megfelelést szolgálja.
 
 (8) A 7. § (2) bekezdés u) pontja az energiahatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módosításáról, valamint a 2004/8/EK és a 2006/32/EK irányelv hatályon kívül helyezéséről szóló, 2012. október 25-i 2012/27/EU európai parlamenti és tanácsi irányelv 8. cikk (2) bekezdésének való megfelelést szolgálja.
 

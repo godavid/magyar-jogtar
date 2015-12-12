@@ -44,6 +44,7 @@ Az Országgyűlés abból kiindulva, hogy a kereskedelem a nemzetgazdaság megha
 - 26. utazásközvetítői tevékenység: üzletszerű gazdasági tevékenység keretében utazási szolgáltatás nyújtására az utazásszervező megbízása alapján, annak nevében szerződések kötése;
 - 27. üzlet: kereskedelmi tevékenység folytatása céljából létesített vagy használt épület, illetve önálló rendeltetési egységet képező épületrész, helyiség, ideértve az elsődlegesen raktározás, tárolás célját szolgáló olyan épületet vagy épületrészt is, amelyben kereskedelmi tevékenységet folytatnak;
 - 28. üzleten kívüli kereskedés: a kereskedő vagy a nevében, illetve javára eljáró személy által a termék forgalmazása céljából a vásárlónak – annak kifejezett kérése nélkül – a lakásán, munkahelyén vagy más tartózkodási helyén való felkeresésével vagy az e célból szervezett utazás vagy rendezvény alkalmával folytatott kiskereskedelmi tevékenység;
+- 28a. árubemutatóval egybekötött termékértékesítés: a kereskedő vagy a nevében, illetve javára eljáró személy által a termék bemutatása, illetve forgalmazása céljából szervezett utazás vagy rendezvény alkalmával folytatott kiskereskedelmi tevékenység;
 - 29. vásár: olyan épület, épületegyüttes vagy terület, ahol rendszerint többen folytatnak idényjellegű vagy meghatározott eseményekhez, naptári napokhoz kötődő eseti jellegű kiskereskedelmi tevékenységet;
 - 30. vendéglátás: kész- vagy helyben készített ételek, italok jellemzően helyben fogyasztás céljából történő forgalmazása, ideértve az azzal összefüggő szórakoztató és egyéb szolgáltató tevékenységet is.
 - 31. üzlet működésével összefüggésben elkövetett jogellenes cselekmény: az üzlet területén, illetve az üzlet bejáratától számított 5 méteres távolságon belül az üzlet működésével közvetlen összefüggésben elkövetett bűncselekmény vagy szabálysértés,
@@ -52,7 +53,8 @@ Az Országgyűlés abból kiindulva, hogy a kereskedelem a nemzetgazdaság megha
 - 32. hipermarket: kiskereskedelmi tevékenységet, vagy kis- és nagykereskedelmi tevékenységet azonos helyen és időben folytató 5000 négyzetméternél nagyobb bruttó alapterülettel rendelkező, napi fogyasztási cikket értékesítő üzlet;
 - 33. nagyméretű szupermarket: kiskereskedelmi tevékenységet, vagy kis- és nagykereskedelmi tevékenységet azonos helyen és időben folytató 2500–5000 négyzetméter közötti bruttó alapterülettel rendelkező, napi fogyasztási cikket értékesítő üzlet;
 - 34. szupermarket: kiskereskedelmi tevékenységet, vagy kis- és nagykereskedelmi tevékenységet azonos helyen és időben folytató 400–2500 négyzetméter közötti bruttó alapterülettel rendelkező, napi fogyasztási cikket értékesítő üzlet;
-- 35. diszkont: kiskereskedelmi tevékenységet, vagy kis- és nagykereskedelmi tevékenységet azonos helyen és időben folytató 400 négyzetméternél nagyobb bruttó alapterülettel rendelkező, napi fogyasztási cikket értékesítő üzlet, amely nem rendelkezik friss hús, húskészítmény és tejtermékek kimérésére szolgáló pulttal.
+- 35. diszkont: kiskereskedelmi tevékenységet, vagy kis- és nagykereskedelmi tevékenységet azonos helyen és időben folytató 400 négyzetméternél nagyobb bruttó alapterülettel rendelkező, napi fogyasztási cikket értékesítő üzlet, amely nem rendelkezik friss hús, húskészítmény és tejtermékek kimérésére szolgáló pulttal;
+- 36. fogyasztó: a fogyasztóvédelemről szóló törvény szerinti fogyasztó.
 
 ### A kereskedelmi tevékenységek folytatásának általános feltételei
 

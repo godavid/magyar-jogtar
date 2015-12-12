@@ -36,7 +36,7 @@ jelleggel.
 
 1/A. § (1) Fegyveres biztonsági őrség létrehozására
 
-- a) a honvédelemért felelős miniszter a Magyar Honvédség fokozott védelmet igénylő létesítményei,
+- a) a honvédelemért felelős miniszter a Magyar Honvédség fokozott védelmet igénylő létesítményei, a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ) létesítményei, valamint a honvédelemért felelős miniszter tulajdonosi joggyakorlása alá tartozó gazdasági társaság létesítményei (e törvény alkalmazásában a továbbiakban együtt: a Magyar Honvédség létesítményei)
 - b) a polgári hírszerzési tevékenység irányításáért felelős miniszter az Információs Hivatal létesítményei,
 - c) a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter az irányítása alatt álló polgári nemzetbiztonsági szolgálatok létesítményei vonatkozásában jogosult.
 
@@ -133,6 +133,14 @@ nem tesz eleget, a fegyveres biztonsági őrzést – a kötelezett vagy a fegyv
 - a) megfelel az e törvényben meghatározott feltételeknek, és
 - b) a rendőrség, valamint a kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet képviselőiből álló bizottság előtt e törvény, a végrehajtására kiadott jogszabályok és a szolgálati helye őrszolgálati okmányainak ismeretéből, a lőfegyver használatához szükséges szakismeretből és gyakorlati jártasságból eredményes vizsgát tett, valamint – a nukleáris és más radioaktív anyag, nukleáris létesítmény őrzését ellátó fegyveres biztonsági őrök esetében – teljesíti a jogszabályban meghatározott fizikai állóképességi és szakképesítésre vonatkozó követelményeket.
 
+(1a) A honvédelemért felelős miniszter által létrehozott fegyveres biztonsági őrségben – a KNBSZ létesítményei vonatkozásában létrehozott fegyveres biztonsági őrség kivételével – fegyveres biztonsági őr jogviszony létesíthető azzal is, aki
+
+- a) az (1) bekezdés a) pontjában meghatározott feltételeknek megfelel,
+- b) a honvédelemért felelős miniszter által létrehozott fegyveres biztonsági őrséget működtető szervezet által szervezett nem iskolai rendszerű, egyéb más szakközépiskolai ágazatba nem sorolható, a honvédelemért felelős miniszter által létrehozott fegyveres biztonsági őrséget működtető szervezetben munkavállalásra jogosító belső képzés keretében eredményes vizsgát tett,
+- c) megfelel a honvédelemért felelős miniszter által rendeletben az önkéntes védelmi tartalékos katonákra megállapított egészségi, pszichikai és fizikai követelményeknek,
+- d) a Magyar Honvédséggel önkéntes tartalékos katonai szolgálati viszony létrehozására irányuló szerződést köt, és
+- e) a Magyar Honvédség állománytáblájában az adott beosztáshoz előírt rendfokozathoz tartozó iskolai végzettséggel rendelkezik.
+
 (2) A fegyveres biztonsági őr elméleti és gyakorlati felkészültségét, valamint – a nukleáris és más radioaktív anyag, nukleáris létesítmény őrzését ellátó fegyveres biztonsági őrök esetében, jogszabályban meghatározott – fizikai állóképességét kétévente, a rendőrség képviselőiből, valamint a kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet képviselőiből álló bizottságnak ellenőrizni kell.
 
 (3) A fegyveres biztonsági őr részére a hatósági szolgálati igazolványt a rendőrség a kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet kezdeményezésére hivatalból állítja ki. A kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet haladéktalanul értesíti a rendőrséget arról, ha a fegyveres biztonsági őr hatósági szolgálati igazolványának visszavonására vagy bevonására okot adó körülmény bekövetkezett.
@@ -170,7 +178,7 @@ nem tesz eleget, a fegyveres biztonsági őrzést – a kötelezett vagy a fegyv
 
 8. § (1) A fegyveres biztonsági őröket formaruhával és szolgálati jelvénnyel kell ellátni.
 
-(2) A formaruhának egyértelműen különböznie kell a Magyar Honvédség, illetve a rendvédelmi szervek egyenruhájától, valamint a Nemzeti Adó- és Vámhivatal hivatásos állományának egyenruhájától. E rendelkezés nem alkalmazható a Magyar Honvédség objektumait őrző fegyveres biztonsági őrség önkéntes tartalékos tagjaira.
+(2) A formaruhának egyértelműen különböznie kell a Magyar Honvédség, illetve a rendvédelmi szervek egyenruhájától, valamint a Nemzeti Adó- és Vámhivatal hivatásos állományának egyenruhájától. E rendelkezés nem alkalmazható a Magyar Honvédség létesítményeit őrző fegyveres biztonsági őrség önkéntes tartalékos tagjaira.
 
 (3) A fegyveres biztonsági őrt az őrség működési területén, szolgálati úton, szállítmánykísérés során szolgálati igazolványa és jelvénye igazolja. A formaruhán ,,fegyveres biztonsági őr'' felirat helyezhető el. A munkáltatói hovatartozás a ruházat karrészén jelezhető.
 
@@ -187,7 +195,7 @@ nem tesz eleget, a fegyveres biztonsági őrzést – a kötelezett vagy a fegyv
 
 9. § (1) A fegyveres biztonsági őrség lőfegyverrel, lőszerrel és más kényszerítő eszközzel való ellátását a rendőrség engedélyezi.
 
-(2) A fegyveres biztonsági őrség számára – az engedélyben meghatározott mennyiségben és minőségben – a rendőrségnél –, illetve a Magyar Honvédség objektumait őrző fegyveres biztonsági őrség esetén a Magyar Honvédségnél – rendszeresített és a 10. § (2) bekezdésben felsorolt kényszerítő eszköz, továbbá lőfegyver és lőszer vásárlása, illetve tartása engedélyezhető. A szolgálati tevékenységhez csak a rendőrség központi szerv Kutyavezetőképző Iskolája által minősített (vizsgáztatott) kutya alkalmazható.
+(2) A fegyveres biztonsági őrség számára – az engedélyben meghatározott mennyiségben és minőségben – a rendőrségnél –, illetve a Magyar Honvédség létesítményeit őrző fegyveres biztonsági őrség esetén a Magyar Honvédségnél – rendszeresített és a 10. § (2) bekezdésben felsorolt kényszerítő eszköz, továbbá lőfegyver és lőszer vásárlása, illetve tartása engedélyezhető. A szolgálati tevékenységhez csak a rendőrség központi szerv Kutyavezetőképző Iskolája által minősített (vizsgáztatott) kutya alkalmazható.
 
 (3) A fegyveres biztonsági őrség lőfegyvere és lőszere csak szolgálati és képzési tevékenységhez használható.
 
@@ -272,7 +280,7 @@ alkalmazhat, illetve használhat.
 
 10/B. § A fegyveres biztonsági őrség tevékenysége során együttműködik a katasztrófavédelemmel, a Nemzeti Adó- és Vámhivatal vámszerveivel, a hivatásos állami és önkormányzati tűzoltósággal, a természetvédelmi őrszolgálattal, az erdészeti hatósággal, a vadászati hatósággal, a halászati hatósággal, az önkormányzati szervekkel, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalával (továbbiakban: járási hivatal), valamint az egyesületekkel.
 
-10/C. § A munka törvénykönyvéről szóló 2012. évi I. törvény 86. § (1) bekezdésében foglalt rendelkezéstől eltérően a honvédelemért felelős miniszter által a Magyar Honvédség fokozott védelmet igénylő létesítményeinél létrehozott fegyveres biztonsági őrségnél működő fegyveres biztonsági őr munkaidejéhez nem kell hozzászámítani az előírt formaruha fel-, és levételének, valamint a fegyver átvételének és leadásának időtartamát.
+10/C. § A munka törvénykönyvéről szóló 2012. évi I. törvény 86. § (1) bekezdésében foglalt rendelkezéstől eltérően a honvédelemért felelős miniszter által létrehozott fegyveres biztonsági őrségnél foglalkoztatott fegyveres biztonsági őr munkaidejéhez nem kell hozzászámítani az előírt formaruha fel- és levételének, valamint a fegyver átvételének és leadásának időtartamát.
 
 ### II. Fejezet — A természetvédelmi őrszolgálat
 

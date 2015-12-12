@@ -866,7 +866,7 @@ saját fogyasztására földgázt vásárolni.
 - e) földgázminőség mérhető és ellenőrizhető jellemzői, valamint
 - f) az egyes engedélyesek által végzett alaptevékenységhez kapcsolódó egyéb jellemző szolgáltatások ellátásának minősége.
 
-(3) A Hivatal jogosult a felhasználók teljes körére vonatkozó, valamint az egyedi felhasználókkal szemben teljesítendő követelményeket külön-külön, továbbá a követelmények elmulasztása esetén alkalmazandó szankciókat meghatározni.
+(3) A Hivatal jogosult a felhasználók teljes körére vonatkozó, valamint az egyedi felhasználókkal szemben teljesítendő követelményeket külön-külön, továbbá a követelmények elmulasztása esetén alkalmazandó szankciókat meghatározni. Az egyedi felhasználókkal szemben teljesítendő követelmények elmulasztása esetére a Hivatal jogosult automatikus, a felhasználó igényérvényesítése hiányában is teljesítendő szankciók meghatározására.
 
 (4) Az (1) bekezdés szerinti határozat tartalmazza
 
@@ -1317,8 +1317,7 @@ földgázrendszerhez való hozzáférés
 - e) a földgáztárolói engedélyes,
 - f) a földgázelosztó,
 - g) az együttműködő földgázrendszerhez közvetlenül kapcsolódó, külföldi székhelyű szállítási rendszerüzemeltető,
-- h) az átszállítást végző és
-- i) a bértároltató,
+- h)–i)
 
 ha megfelel a kereskedési platform szabályzatában meghatározott követelményeknek.
 
@@ -1326,13 +1325,13 @@ ha megfelel a kereskedési platform szabályzatában meghatározott követelmén
 
 (5) A kereskedési platformhoz történő hozzáférésre és az ügyletek lebonyolítására az erre jogosult piaci szereplő a szállítási rendszerüzemeltetővel, az ügyletek pénzügyi elszámolására központi szerződő féllel vagy elszámolóházi tevékenységet végző szervezettel szerződést köt. A piaci szereplők közötti adásvétel a központi szerződő fél vagy elszámolóházi tevékenységet végző szervezet közbeiktatásával, az eladó és a vevő közötti anonimitás elve alapján, szabványosított ügyletek formájában történik.
 
-(6) A kereskedési platformot működtető köteles együttműködni a szervezett földgázpiaci engedélyessel.
+(6) A szállítási rendszerüzemeltető és a szervezett földgázpiaci engedélyes köteles együttműködni a kereskedési platform működtetése érdekében.
 
 (7) A kereskedési platformot működtető köteles a napi gázforgalmazásra, azon belül az egyensúlyozásra vonatkozó európai uniós előírások változása esetén megfelelően módosítani a kereskedési platform informatikai, működési feltételeit és szabályzatát.
 
 (8) Földgázellátási üzemzavar és válsághelyzet esetén a szállítási rendszerüzemeltető javaslatot tesz a Hivatalnak a kereskedési platformon, valamint a szervezett piacon történő kereskedés felfüggesztésére.
 
-(9) A kereskedési platformot működtető köteles biztosítani a rendszerhasználók számára a gáznapon belüli kiegyensúlyozó földgáz kereskedelmének, valamint a gáznap zárásakor kialakult egyensúlytalansági pozíciók feloldására irányuló kereskedelemnek a lehetőségét a kereskedési platform szabályzata szerint.
+(9) A kereskedési platformot működtető köteles biztosítani a rendszerhasználók számára a kereskedelmi egyensúlytalanságuk feloldására irányuló földgáz kereskedelemnek a lehetőségét a 312/2014/EU bizottsági rendelet és a kereskedési platform szabályzata szerint.
 
 (10) A 312/2014/EU bizottsági rendelet 10. cikk (2) bekezdése szerint létrehozott egyensúlyozó platformra a (2)–(9) bekezdésben foglalt előírásokat megfelelően kell alkalmazni.
 
@@ -1616,7 +1615,7 @@ foglalt árat köteles megfizetni.
 
 (9)
 
-104/A. § (1) A rendszerhasználati díj, a 106. § szerinti külön díj, a csatlakozási díj és az egyetemes szolgáltatás ára miniszteri rendeletben meghatározott elemeinek szabályozása legalább kétéves legfeljebb hatéves árszabályozási ciklusokkal történik, amelynek kezdő időpontját és időtartamát a Hivatal elnöke rendeletben állapítja meg. A Hivatal az árszabályozási ciklus indulását megelőzően, az árszabályozási ciklus kezdő időpontját és időtartamát meghatározó rendelet kihirdetését követően költség-felülvizsgálatot végez,.
+104/A. § (1) A rendszerhasználati díj, a 106. § szerinti külön díj és az egyetemes szolgáltatás ára miniszteri rendeletben, valamint a csatlakozási díjnak a Hivatal elnöke által kiadott rendeletben meghatározott elemeinek szabályozása legalább kétéves legfeljebb hatéves árszabályozási ciklusokkal történik, amelynek kezdő időpontját és időtartamát a Hivatal elnöke rendeletben állapítja meg. A Hivatal az árszabályozási ciklus indulását megelőzően, az árszabályozási ciklus kezdő időpontját és időtartamát meghatározó rendelet kihirdetését követően költség-felülvizsgálatot végez,.
 
 (2) Az árszabályozási ciklusra érvényes szabályokat az árszabályozási ciklus indulását megelőzően a miniszter
 
@@ -1664,7 +1663,8 @@ foglalt árat köteles megfizetni.
 
 - a) a rendszerüzemeltető és az egyetemes szolgáltató által a felhasználó vagy a rendszerhasználó igénye alapján külön díj ellenében végezhető szolgáltatások körét és díjait,
 - b) a rendszerüzemeltető és az egyetemes szolgáltató által a felhasználó vagy a rendszerhasználó igénye alapján ingyenesen biztosítandó szolgáltatások legszűkebb körét, valamint
-- c) a rendszerüzemeltető és az egyetemes szolgáltató által a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások körét és díjait, a tárgyalásos földgáztárolói hozzáféréshez kapcsolódó, külön díj ellenében nyújtott szolgáltatások kivételével.
+- c) a rendszerüzemeltető és az egyetemes szolgáltató által a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások körét és díjait, a tárgyalásos földgáztárolói hozzáféréshez kapcsolódó, külön díj ellenében nyújtott szolgáltatások kivételével,
+- d) a szállítási rendszerüzemeltető által egy másik szállítási rendszerüzemeltető igénye alapján külön díj ellenében végezhető szolgáltatások körét és díjait, ideértve a határon átnyúló, de belföldi teljesítési helyű szolgáltatások körét.
 
 (2) A földgázelosztó és az egyetemes szolgáltató az (1) bekezdés b) pontja szerinti szolgáltatásokat ingyenesen köteles biztosítani. Az (1) bekezdés b) pontja szerinti ingyenesen biztosítandó szolgáltatások költsége az árszabályozás során indokolt költségként nem vehető figyelembe.
 
@@ -1844,11 +1844,7 @@ foglalt árat köteles megfizetni.
 
 114/A. § (1) Az engedély kiadásának feltétele, hogy a 114. § (6) bekezdésében és a 117. § (1)–(5) bekezdésében meghatározott előírásoknak – az e törvény szerinti engedélyköteles tevékenység végzéséhez szükséges további feltételek mellett – a kérelmező megfeleljen.
 
-(2) A Hivatal, ha a kérelmező az e törvény szerinti engedélyköteles tevékenység végzéséhez szükséges további feltételek mellett hitelt érdemlően igazolja, hogy a kérelem benyújtásának időpontjában a 114. § (6) bekezdésében és a 117. § (1)–(5) bekezdésében meghatározott előírásoknak történő megfelelés érdekében kezdeményezett cégbírósági vagy egyéb, ehhez szükséges eljárás folyamatban van, elvi engedélyt ad ki.
-
-(3) Az elvi engedély az e törvény szerinti engedélyköteles tevékenységek végzésére nem jogosít. Az elvi engedéllyel a Hivatal arra kötelezi magát, hogy ha a kérelmező a 114. § (6) bekezdésében és a 117. § (1)–(5) bekezdésében foglaltak teljesítését igazoló dokumentumot a Hivatal számára az elvi engedély kézhezvételétől számított 90 napon belül benyújtja, a kérelemben megjelölt tevékenység végzésére jogosító engedélyt a benyújtástól számított 2 munkanapon belül a kérelmező számára megadja.
-
-(4) A (2) és (3) bekezdésben meghatározott elvi engedély kizárólag korlátozott földgáz-kereskedelmi engedély iránti kérelem alapján indult eljárásban adható ki.
+(2)–(4)
 
 115. § (1) Az engedélyben foglaltakat – a körülmények jelentős megváltozása esetén – az engedélyes kérelmére módosítani lehet.
 
@@ -1918,6 +1914,8 @@ foglalt árat köteles megfizetni.
 
 (8) A Hivatal az (1) bekezdés szerinti határozatokat legkésőbb az átvétel napjáig hivatalból módosíthatja, ha az ellátásbiztonság, a fogyasztók folyamatos ellátásának biztosítása, jogszabályi megfelelés vagy a visszavonó és a kijelölő határozat közötti összhang megteremtése azt szükségessé teszi.
 
+(9) A Hivatal az (1) bekezdés szerinti határozatokat legkésőbb a felhasználók átvételének időpontjáig visszavonhatja, ha a határozatok meghozatalának időpontját követően az átadó és az átvevő egyetemes szolgáltató körülményeiben olyan lényeges változás következett be, amely alapján a határozatok rendelkezései okafogyottá váltak, valamint az átadó és az átvevő egyetemes szolgáltató közös kérelmükben kérik a Hivataltól a határozatok visszavonását.
+
 115/C. § (1) Az átadó egyetemes szolgáltató az átvétel időpontjáig köteles teljesíteni a működési engedélyének megfelelő kötelezettségeit.
 
 (2) Az átvétel időpontjában az átadó egyetemes szolgáltató és az átvétellel érintett felhasználók közötti egyetemes szolgáltatási szerződés – a felek elszámolási kötelezettségének fennmaradása mellett – e törvény erejénél fogva megszűnik. Az átvétel időpontjában az átvétellel érintett felhasználók és az átvevő egyetemes szolgáltató között e törvény erejénél fogva egyetemes szolgáltatási szerződés jön létre határozatlan időre a földgáz egyetemes szolgáltatás biztosítására az e törvényben, az e törvény végrehajtásáról szóló kormányrendeletben, valamint az átvevő egyetemes szolgáltató üzletszabályzatában meghatározott feltételek szerint.
@@ -1928,7 +1926,7 @@ foglalt árat köteles megfizetni.
 
 (3b) Az átadó egyetemes szolgáltató által az átvétellel érintett felhasználók ellátása érdekében betárolt földgázkészletet az átadó egyetemes szolgáltató köteles az átvevő egyetemes szolgáltató, illetve az őt ellátó földgázkereskedő részére értékesíteni. Az értékesítési ár a földgázpiaci egyetemes szolgáltatáshoz kapcsolódó árak képzéséről szóló miniszteri rendelet szerinti elismert tárolói készletérték, figyelembe véve a betárolt hazai termelésű földgáz árát.
 
-(3c) Az átvétellel érintett felhasználó és az átvevő között létrejött egyetemes szolgáltatási szerződésből eredő fizetési kötelezettség körében a felhasználó vagy a fizető (a felhasználó és a fizető a továbbiakban együtt: fizető fél) által az átadó mint kedvezményezett javára csoportos beszedési megbízás teljesítésére adott felhatalmazást az átvétel napjától e törvény erejénél fogva az átvevő mint kedvezményezett javára megadott felhatalmazásnak kell tekinteni. Az átvevő a fizető fél pénzforgalmi szolgáltatója részére az átvétel napját legalább 15 nappal megelőzően megküldi az átvétel napját igazoló kijelölő határozatot. A fizető fél pénzforgalmi szolgáltatója az átvevő által adott csoportos beszedési megbízást az átvétel napját követően az átvevő javára köteles teljesíteni, amennyiben az átvevő 15 nappal korábban a kedvezményezett és a fizető fél megváltozott azonosítóját közölte.
+(3c) Az átvétellel érintett felhasználó és az átvevő között létrejött egyetemes szolgáltatási szerződésből eredő fizetési kötelezettség körében a felhasználó vagy a fizető (e § alkalmazásában a továbbiakban együtt: fizető fél) által az átadó mint kedvezményezett javára csoportos beszedési megbízás teljesítésére adott felhatalmazást az átvétel napjától számított 46. napon e törvény erejénél fogva az átvevő mint kedvezményezett javára megadott felhatalmazásnak kell tekinteni. Az átvevő a felhatalmazást kezelő pénzforgalmi szolgáltatója részére az átvétel napját követő 15 napon belül megküldi az átvétel napját igazoló kijelölő határozatot, amelyről a felhatalmazást kezelő pénzforgalmi szolgáltató 5 napon belül köteles tájékoztatni a fizető fél pénzforgalmi szolgáltatóját. A fizető fél pénzforgalmi szolgáltatója az átvevő által indított csoportos beszedési megbízást az átvétel napját követő 46. naptól az átvevő javára köteles teljesíteni, ha az átvevő pénzforgalmi szolgáltatójától 15 nappal korábban megkapta a kedvezményezett és a fizető fél megváltozott azonosítóját.
 
 (4) Az átadó egyetemes szolgáltató és az átvevő egyetemes szolgáltató köteles az átvétellel érintett felhasználók vonatkozásában a rendszerüzemeltetők felé kezdeményezni a kapacitáslekötési szerződéseik módosítását vagy megkötését az átvétel időpontját legalább 21 nappal megelőzően. Ebben az esetben az Üzemi és Kereskedelmi Szabályzatnak kereskedőváltás esetén a rendszerhasználati szerződésekre és a kapacitások átadás-átvételére vonatkozó szabályai a rendszerhasználati szerződések módosítására vagy megkötésére megfelelően alkalmazandóak.
 
@@ -2331,18 +2329,20 @@ bármilyen módon való elidegenítése vagy átruházása esetén.
 
 (3) Az adatkezelő rendszerhasználóval történő szerződéskötése nem tehető függővé a rendszerhasználónak valamely, az (1) bekezdésben nem szabályozott célból történő adatkezeléshez való hozzájárulásától.
 
-(4) Az (1)–(1c) bekezdésben meghatározott adatok közül az adatkezelés céljához szükséges adatok – az a)–c) és e) pontok esetében az érintett egyidejű értesítése mellett – átadhatók:
+(4) Az (1)–(1c) bekezdésben meghatározott adatok közül az adatkezelés céljához szükséges adatok – az a), b) és e) pontok esetében az érintett egyidejű értesítése mellett – átadhatók:
 
 - a) az adatkezelő megbízása alapján a szerződés megkötését, a leolvasást, a számlázást, a kézbesítést, a díjfizetések és követelések kezelését, a forgalmazás kezelését, a felhasználási helyek műszaki kivitelezését, felülvizsgálatát, ellenőrzését, kikapcsolását vagy az ügyfélszolgálati tevékenységet végző természetes személynek és gazdálkodó szervezetnek,
 - b) a számlázási és forgalmazási jogviták rendezésére jogszabály vagy a szerződő felek megállapodása alapján jogosult szervezetek részére,
-- c) a Hivatalnak,
+- c)
 - d) a nemzetbiztonság, a honvédelem és a közbiztonság védelme, továbbá a közvádas bűncselekmények üldözése céljából az arra hatáskörrel rendelkező nemzetbiztonsági szerveknek, nyomozó hatóságoknak, az ügyésznek, valamint a bíróságnak,
 - e) a bírósági végrehajtásról szóló 1994. évi LIII. törvény előírásai szerint a végrehajtónak,
 - f) a Nemzeti Fogyasztóvédelmi Hatóságnak,
 - g) a védendő fogyasztók esetében az őt megillető kedvezménynek vagy különleges bánásmódnak az egy felhasználási helyen való igénybevételének ellenőrzése céljából a földgázelosztónak és az őt megillető kedvezménynek vagy különleges bánásmódnak a biztosítása érdekében a földgázkereskedőnek, valamint
 - h) az (1c) bekezdésben meghatározott időponttól az átvevő egyetemes szolgáltatónak.
 
-(5) A (4) bekezdés a)–c) és e) pontjaiban meghatározott szervezeteket az átadott adatokkal kapcsolatban az adatkezelővel azonos titoktartási kötelezettség terheli.
+(4a) Az (1)–(1c) bekezdésben meghatározott adatok közül az adatkezelés céljához szükséges adatok a Hivatal részére átadhatók, amelyeket a Hivatal köteles a Ket. adatkezelésre vonatkozó szabályai szerint kezelni.
+
+(5) A (4) bekezdés a), b) és e) pontjaiban meghatározott szervezeteket az átadott adatokkal kapcsolatban az adatkezelővel azonos titoktartási kötelezettség terheli.
 
 (6) Az engedélyesek és a földgáztermelő kötelesek biztosítani, hogy a tevékenységgel kapcsolatos információk és adatok megőrzése, kezelése, továbbítása, más módon hozzáférhetővé tétele, valamint nyilvánosságra hozatala megfeleljen:
 
@@ -2516,8 +2516,8 @@ bármilyen módon való elidegenítése vagy átruházása esetén.
 - a) a 64. § (2) bekezdése, a 67. § (3) bekezdése, valamint a 127. § m) és n) pontjai szerinti eljárásokban két hónap,
 - b) a 82. § (5) bekezdés szerinti eljárásban hat hónap,
 - c) a korlátozott földgáz-kereskedelmi engedély kiadására irányuló eljárásban 30 nap,
-- d) a 128. § (1) bekezdés a)–c) és e) pontja szerinti eljárásokban négy hónap,
-- e) a 128/A. § (5) bekezdése szerinti eljárásban két hónap.
+- d) a 128. § (1) bekezdés a)–c) és e) pontja, valamint a 128/A. § (5) bekezdése szerinti eljárásokban négy hónap,
+- e) a 128/A. § (6) bekezdése szerinti eljárásban két hónap.
 
 (3) A közigazgatási ügyekben eljáró bíróság a Hivatal határozatának bírósági felülvizsgálata során – a földgázellátási üzemzavar vagy válsághelyzet esetén a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet alapján meghozott döntés, valamint a tanúsítási eljárás eredményeképpen hozott és a rendszerhasználati vagy csatlakozási díjakat megállapító határozat kivételével – a határozatot jogosult megváltoztatni.
 
@@ -2693,7 +2693,7 @@ tartalmazza.
 
 (6) Az átmeneti időszakra vonatkozóan a havi és napi kapacitáslekötés részletszabályait az e törvény végrehajtásáráról szóló kormányrendelet, a Hivatal elnökének rendelete, valamint az Üzemi és Kereskedelmi Szabályzat tartalmazza.
 
-(7) Ha a (3) bekezdés szerinti időpontig az érintett szállítási rendszerüzemeltetők nem állapodtak meg a rendszer-összekötési pont kapcsolt kapacitásának kialakítása érdekében meghozandó intézkedésekről és nem kerül meghatározásra a kapacitásértékesítés során közösen, kapcsolt termékként felajánlott kapacitásmennyiség, úgy a (3) bekezdés szerinti, a rendszer-összekötési pontra vonatkozó kapacitásaukción a szállítási rendszerüzemeltető kizárólag a soron következő gázévre értékesíthet éves kapacitásterméket.
+(7)
 
 (8) A kapacitáslekötés a földgázszállító rendszer valamennyi betáplálási-kiadási pontján a kapacitáslekötési platformon történik az Üzemi és Kereskedelmi Szabályzatban, valamint a kapacitáslekötési platform szabályzatban foglaltaknak megfelelően.
 
@@ -3051,6 +3051,8 @@ köteles annak létrejöttét követő 7 munkanapon belül megküldeni a Hivatal
 146/I. § (1) A Hivatal elnöke által kiadott rendeletben meghatározott, 104/A. § szerinti árszabályozási ciklus kezdő időpontjáig az egységes közszolgáltatói számlaképről szóló 2013. évi CLXXXVIII. törvény hatálybalépésekor folyamatban lévő árszabályozási ciklus meghosszabbodik.
 
 (2) Ha a Hivatal elnöke által kiadott rendeletben meghatározott, 104/A. § szerinti árszabályozási ciklus kezdőidőpontja nem későbbi, mint 2016. január 1., akkor a Hivatal ezen árszabályozási ciklus tekintetében a 2013. év során elvégzett költség-felülvizsgálat eredményeit is felhasználhatja.
+
+146/J. § E törvénynek az egyes energetikai tárgyú törvények módosításáról szóló 2015. évi CXCVI. törvénnyel megállapított 115/B. § (9) bekezdése szerinti rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
 
 ### XIX. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
