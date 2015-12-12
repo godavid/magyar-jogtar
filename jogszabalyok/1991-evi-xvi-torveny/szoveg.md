@@ -107,11 +107,7 @@ A kizárólagos állami, önkormányzati vagy önkormányzati társulási tulajd
 
 (3) A szerencsejáték szervezésére irányuló tevékenység végzésére a megbízható szerencsejáték-szervező ajánlatot tesz. Az ajánlattevő ajánlatában megjelöli az üzemeltetni kívánt – a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvényben (a továbbiakban: Szjtv.) meghatározott – egységek település szerinti helyszínét és vállalja, hogy egységenként a mindenkori központi költségvetésről szóló törvényben meghatározott koncessziós díj összege legalább kétszeresének megfelelő összegű éves koncessziós díjat fizet.
 
-(3a) Távszerencsejáték szervezés tárgyú ajánlat tételére a (3) bekezdés rendelkezéseit a következő eltérésekkel kell alkalmazni:
-
-- a) ajánlat tételére kizárólag az Szjtv. 37. § 31. pontja szerinti megbízható szervező jogosult,
-- b) az ajánlatban legalább a központi költségvetésről szóló törvényben meghatározott, játéktípusonként irányadó koncessziós díj összegének megfelelő éves koncessziós díjat kell megjelölni játéktípusonként, és
-- c)
+(3a)
 
 (4) Az ágazati miniszter az ajánlat elfogadásáról a megbízható szerencsejáték-szervező írásbeli ajánlatának átvételét követő 30 napon belül dönt. Az ajánlat elfogadása esetén 30 napon belül megköti a koncessziós szerződést az ajánlattevővel.
 

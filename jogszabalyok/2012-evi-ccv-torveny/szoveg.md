@@ -524,7 +524,7 @@ vezényelhető.
 
 (2) Az azonos vagy az alacsonyabb beosztásba áthelyezés kérelemre is történhet.
 
-(2a) A miniszter az állomány ezredes, tábornok rendfokozattal rendszeresített, vezetői beosztást betöltő tagját beosztásából indokolás nélkül rendelkezési állományba helyezheti.
+(2a) A miniszter az állomány ezredes vagy tábornoki rendfokozattal rendszeresített, vezetői beosztást betöltő tagját beosztásából indokolás nélkül rendelkezési állományba helyezheti.
 
 (3) Az alacsonyabb beosztásba áthelyezéshez az állomány tagjának beleegyezése szükséges.
 
@@ -568,7 +568,7 @@ vezényelhető.
 - r) a hivatásos tiszti állomány legalább százados és a hivatásos altiszti állomány legalább főtörzsőrmesteri rendfokozattal rendelkező tagja, akinek szolgálati beosztása létszámcsökkentés vagy átszervezés következtében megszűnt, vagy maximális várakozási ideje letelt és annak meghosszabbítására a 86. § (3) bekezdése szerint nem került sor, a kormányzati szolgálati, a közszolgálati vagy a közalkalmazotti jogviszonyba történő áthelyezéséig, de legfeljebb a 47. § (1) bekezdésében meghatározott időtartamra,
 - s) a hivatásos állomány legalább 25 év tényleges szolgálati viszonyban töltött idővel rendelkező tagja, aki egészségi, vagy pszichikai okból katonai szolgálatra alkalmatlan, a kormányzati szolgálati, a közszolgálati vagy a közalkalmazotti jogviszonyba történő áthelyezéséig, de legfeljebb a 47. § (1) bekezdésében meghatározott időtartamra,
 - t) a hivatásos állomány azon tagja, aki legalább 30 év tényleges szolgálati viszonyban töltött idővel rendelkezik, a szolgálat felső korhatárának elérése előtt 5 évvel, de legfeljebb a szolgálat felső korhatáráig (a továbbiakban: nyugdíj előtti rendelkezési állomány),
-- u) a 43. § (2a) bekezdése szerinti esetben az állomány ezredes, tábornok rendfokozattal rendszeresített beosztást betöltő tagja megfelelő szolgálati beosztásba helyezéséig, de legfeljebb egy évig.
+- u) a 43. § (2a) bekezdése szerinti esetben az állomány ezredes vagy tábornoki rendfokozattal rendszeresített beosztást betöltő tagja megfelelő szolgálati beosztásba helyezéséig, de legfeljebb egy évig.
 
 (2) Meg kell szüntetni az (1) bekezdés f)–i), k)–m), p) és u) pontja szerinti rendelkezési állományt, ha az állomány tagjának megfelelő szolgálati beosztásba helyezésére nincs lehetőség.
 
@@ -1806,7 +1806,7 @@ kell megállapítani.
 
 szerinti mértékben kerül megállapításra.
 
-(3) A fokozott igénybevételi illetménypótlék – a miniszter által rendeletben meghatározott jogcímenként – a honvédelmi illetményalap százalékában meghatározva
+(3) A fokozott igénybevételi illetménypótlék – a miniszter által rendeletben meghatározott jogcímenként – a honvédelmi illetményalap, vagy – a Hvt. 36. § (1) bekezdés h) pontja, valamint (2) bekezdés a) pontja szerinti szolgálati feladat ellátása esetén – a távolléti díj százalékában meghatározva
 
 - a) havonta 20–270%,
 - b) naponként 5–10% vagy
@@ -2876,7 +2876,7 @@ különbözetének megtérítése iránti igényt.
 
 (4) A beosztására történő felkészítésen kívül az önkéntes tartalékos katona 3 évente összesen legfeljebb 6 hónap tényleges szolgálatteljesítésre behívható. Ez az időtartam az önkéntes tartalékos katona beleegyezésével meghosszabbítható.
 
-217. § (1) Az önkéntes tartalékos katona meghatározott honvédségi szervezetben, vagy ennek állományából létrehozott ideiglenes kötelékben, valamint egyéni beosztásban teljesíthet szolgálatot.
+217. § (1) Az önkéntes tartalékos katona meghatározott honvédségi szervezetben, vagy ennek állományából létrehozott ideiglenes kötelékben, a KNBSZ-nél, valamint egyéni beosztásban teljesíthet szolgálatot.
 
 (2) Az önkéntes tartalékos katona előmenetelére a szerződésben foglaltakat kell alkalmazni.
 
@@ -3084,6 +3084,12 @@ jogosult.
 
 (2) Az elévülésre a nemzeti köznevelésről szóló törvényt kell alkalmazni.
 
+### XXI/A. Fejezet — A HVT. 36. § (1) BEKEZDÉS H) PONTJA, VALAMINT (2) BEKEZDÉS A) PONTJA SZERINTI FELADATBAN RÉSZTVEVŐ ÁLLOMÁNYRA VONATKOZÓ KÜLÖN SZABÁLYOK
+
+237/A. § (1) A Honvédség Hvt. 36. § (1) bekezdés h) pontja, valamint (2) bekezdés a) pontja szerinti feladatban résztvevő állománya vonatkozásában a 49. §, a 95. §, a 96. § (1)–(2) bekezdése, a 100–107. §, a 218. § (1) bekezdése, valamint a 247/H. § alkalmazása a (2) bekezdés szerint felfüggeszthető.
+
+(2) Az (1) bekezdés szerinti állomány tagjának e szolgálatteljesítésére vonatkozó szabályokat a Hvt. szerinti belső rendelkezésben a szolgálat megszervezéséért felelős elöljáró állapítja meg a szolgálati érdekre, különösen a szolgálatteljesítés biztonságos ellátására, valamint a szükségességi és arányossági követelményekre figyelemmel.
+
 ### XXII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
 #### 139. Felhatalmazó rendelkezések
@@ -3246,7 +3252,7 @@ jogosult.
 
 247/C. § E törvénynek az egyes jogállási tárgyú törvények módosításáról szóló 2015. évi XXXII. törvénnyel megállapított rendelkezéseit az állomány tagjával az egyes jogállási tárgyú törvények módosításáról szóló 2015. évi XXXII. törvény hatálybalépése után közölt megalapozott gyanú esetében kell alkalmazni.
 
-247/C. § A 2015. június 30-án hatályos 55. § szerinti, 2015. június 30-án folyamatban lévő megbízások e törvény erejénél fogva 2015. június 30-ával megszűnnek. A megbízás megszűnéséről az állomány tagját értesíteni kell.
+247/C. §
 
 247/D. § A honvédek jogállásáról szóló 2012. évi CCV. törvény, valamint az azzal összefüggő egyes törvények módosításáról szóló 2015. évi XLIII. törvénnyel (a továbbiakban: Módtv.) megállapított 38. § (7) és (8) bekezdését a 2015. július 1-jét megelőzően állományba kerültek esetén 2016. július 1-jétől kell alkalmazni.
 

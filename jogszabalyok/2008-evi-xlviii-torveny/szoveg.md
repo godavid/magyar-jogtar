@@ -137,7 +137,7 @@ közvetlenül vagy közvetetetten tulajdoni részesedéssel rendelkezik.
 
 11. § Tilos a tudatosan nem észlelhető reklám.
 
-12. §
+12. § Tilos a kereskedelemről szóló törvényben meghatározott, árubemutatóval egybekötött termékértékesítéshez kapcsolódóan ajándék juttatás, árengedmény, kedvezmény, vagyoni előny és ajándéksorsolás reklámja.
 
 13. §
 

@@ -18,7 +18,7 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 - f) ingatlanügylettel kapcsolatos tevékenységet folytat;
 - g) könyvvizsgálói tevékenységet folytat;
 - h) könyvviteli (könyvelői), adószakértői, okleveles adószakértői, adótanácsadói tevékenységet megbízási, illetve vállalkozási jogviszony alapján folytat;
-- i) játékkaszinót, kártyatermet működtet vagy távszerencsejátékot szervez;
+- i) játékkaszinót, kártyatermet működtet vagy távszerencsejátékot, online kaszinójátékot szervez;
 - j) nemesfémmel vagy az ezekből készült tárgyakkal kereskedik;
 - k) árukereskedelmi tevékenysége folytatása során hárommillió-hatszázezer forintot elérő vagy meghaladó összegű készpénzfizetést fogad el;
 - l) önkéntes kölcsönös biztosítópénztárként működik;
@@ -82,12 +82,12 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
   - sb) az 1. § (1) bekezdés f) pontjában meghatározott tevékenységet végző szolgáltató vonatkozásában, aki az ingatlan eladása és vétele céljából ajánlatot kér;
 - t) ügyfél-átvilágítás:
   - ta) a 6. §-ban meghatározott esetben a 7–10. §-ban meghatározott ügyfél-átvilágítási intézkedések elvégzése,
-  - tb) a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 29/H. § (1) és (2) bekezdésében meghatározott játékos nyilvántartásba vétele.
+  - tb) az (1) bekezdés i) pontjában meghatározott tevékenységet végző szolgáltató által a játékos nyilvántartásba vételekor (az üzleti kapcsolat létrejöttekor) elvégzett ügyfél-átvilágítási intézkedések,
 - u) ügyleti megbízás: az ügyfél és a szolgáltató között a szolgáltató tevékenységi körébe tartozó szolgáltatás igénybevételére vonatkozó szerződéssel létrejött eseti jogviszony;
 - v) üzleti kapcsolat:
   - va) az ügyfél és a szolgáltató között az 1. § (1) bekezdés a)–e), g)–h) és j)–m) pontjában megjelölt tevékenységi körbe tartozó szolgáltatás igénybevételére vonatkozó szerződéssel létrejött tartós jogviszony,
   - vb) a 36. § (2) bekezdésében meghatározott közjegyzői tevékenységet folytató szolgáltató tekintetében az eljárás lefolytatása,
-  - vc) az 1. § (1) bekezdés i) pontjában meghatározott tevékenységet végző szolgáltató vonatkozásában a játékkaszinó vagy kártyaterem területére történő első belépéssel létrejött tartós jogviszony, illetve a távszerencsejáték szervezőjénél a játékos nyilvántartásba vétele.
+  - vc) az 1. § (1) bekezdés i) pontjában meghatározott tevékenységet végző szolgáltató vonatkozásában a játékkaszinó vagy kártyaterem területére történő első belépéssel létrejött tartós jogviszony, illetve a távszerencsejáték és az online kaszinójáték szervezőjénél a játékos nyilvántartásba vétele.
   - vd) az 1. § (1) bekezdés f) pontjában meghatározott tevékenységet végző szolgáltató vonatkozásában az ügyfél és a szolgáltató között a szolgáltató tevékenységi körébe tartozó szolgáltatás igénybevételére vonatkozó jogviszony.
 - w) pénzmosás: a 2013. június 30-ig hatályos, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) 303–303/A. §-ában, illetve a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 399–400. §-ában meghatározott elkövetési magatartások;
 - x) terrorizmus finanszírozása: az 1978. évi IV. törvény 261. § (1) és (2) bekezdése szerinti bűncselekmény elkövetéséhez szükséges anyagi eszköz szolgáltatása vagy gyűjtése, illetve a Btk. 318. §-ában meghatározott elkövetési magatartások;
@@ -573,7 +573,7 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 
 34. § (1) Az 5. § a)–c) és f)–h) pontjában meghatározott felügyeletet ellátó szerv a felügyeleti tevékenység gyakorlása során biztosítja a szolgáltató e törvény rendelkezéseinek való megfelelését.
 
-(2) A felügyelet ellátása során – az e törvényben meghatározott eltérésekkel – az 5. § c) és f)–h) pontjában meghatározott felügyeletet ellátó szerv a közigazgatási hatósági eljárás általános szabályairól szóló törvény, az 5. § a) pontjában meghatározott felügyeletet ellátó szerv a közigazgatási hatósági eljárás általános szabályairól szóló törvény és az MNBtv. rendelkezései szerint jár el.
+(2) A felügyelet ellátása során – az e törvényben meghatározott eltérésekkel – az 5. § f)–h) pontjában meghatározott felügyeletet ellátó szerv a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény, az 5. § a) pontjában meghatározott felügyeletet ellátó szerv a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény és az MNBtv., az 5. § c) pontjában meghatározott felügyeletet ellátó szerv a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól és a szerencsejáték szervezéséről szóló törvény rendelkezései szerint jár el.
 
 (3) A felügyelet ellátása során az 5. § d) pontjában meghatározott felügyeletet ellátó szerv a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény (a továbbiakban: könyvvizsgálói törvény) rendelkezései szerint jár el.
 
