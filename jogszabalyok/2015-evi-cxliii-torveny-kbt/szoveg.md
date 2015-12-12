@@ -481,27 +481,27 @@ Az e bekezdés szerinti választás nem irányulhat e törvény alkalmazásának
 - b) az a szervezet, amelynek
   - ba) vezető tisztségviselőjét vagy felügyelőbizottságának tagját,
   - bb) tulajdonosát,
-  - bc) a ba)–bb) pont szerinti személy Ptk. 8:1. § (1) bekezdés 1. pontja szerinti közeli hozzátartozóját az ajánlatkérő az eljárással vagy annak előkészítésével kapcsolatos tevékenységbe bevonta,
+  - bc) a ba)–bb) pont szerinti személy közös háztartásban élő hozzátartozóját az ajánlatkérő az eljárással vagy annak előkészítésével kapcsolatos tevékenységbe bevonta,
 
 ha közreműködése az eljárásban a verseny tisztaságának sérelmét eredményezheti.
 
 (4) A (3) bekezdésben foglaltak mellett – a nyilvánosan működő részvénytársaság kivételével – összeférhetetlen és nem vehet részt az eljárásban ajánlattevőként, részvételre jelentkezőként, alvállalkozóként vagy az alkalmasság igazolásában részt vevő szervezetként
 
 - a) a köztársasági elnök,
-- b) a miniszterelnök,
-- c) a miniszterelnök-helyettes,
-- d) az Országgyűlés elnöke vagy alelnöke,
-- e) a miniszter,
-- f) a Kúria elnöke,
-- g) a legfőbb ügyész,
-- h) az Alkotmánybíróság elnöke,
-- i) az Állami Számvevőszék elnöke,
-- j) a Közbeszerzési Hatóság elnöke,
-- k) a Gazdasági Versenyhivatal elnöke,
-- l) a Nemzeti Adó- és Vámhivatal elnöke, vagy
-- m) a Központi Statisztikai Hivatal elnöke
+- b) az Országgyűlés elnöke, alelnöke,
+- c) a Kormány tagja,
+- d) a Kúria elnöke, az Országos Bírósági Hivatal elnöke,
+- e) a legfőbb ügyész,
+- f) az Alkotmánybíróság elnöke,
+- g) az Állami Számvevőszék elnöke,
+- h) a Közbeszerzési Hatóság, az Egyenlő Bánásmód Hatóság, a Gazdasági Versenyhivatal, a Nemzeti Adatvédelmi és Információszabadság Hatóság, a Nemzeti Választási Iroda, a Központi Statisztikai Hivatal, az Országos Atomenergia Hivatal, a Szellemi Tulajdon Nemzeti Hivatala, a Nemzeti Adó- és Vámhivatal, a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal, a Nemzeti Média- és Hírközlési Hatóság, a Magyar Energetikai és Közmű-szabályozási Hivatal vezetője, vagy
+- i) a Magyar Nemzeti Bank elnöke
+- j)
+- k)
+- l)
+- m)
 
-tulajdonában, vagy az a)–m) pont szerinti személy Ptk. 8:1. § (1) bekezdés 2. pontja szerinti hozzátartozója tulajdonában álló szervezet.
+tulajdonában, vagy az a)–i) pont szerinti személlyel közös háztartásban élő hozzátartozója tulajdonában álló szervezet.
 
 (5) Az ajánlatkérő köteles felhívni az eljárás előkészítésébe bevont személy vagy szervezet figyelmét arra, ha a (3)–(4) bekezdés alapján – különösen az általa megszerzett többlet-információkra tekintettel – a közbeszerzési eljárásban történő részvétele összeférhetetlenséget eredményezne.
 
@@ -2438,7 +2438,7 @@ valamint a módosítás nem változtatja meg a szerződés általános jellegét
 - b) olyan szervezetben rendelkezik tulajdoni részesedéssel vagy 50%-ot meghaladó mértékű közvetett tulajdoni részesedéssel, amely az ügyfélszervezettel rendszeres üzleti kapcsolatban áll;
 - c) a jogorvoslati eljárás megindításának időpontját megelőző két évben az ügyfélszervezettel munkaviszonyban, egyéb foglalkoztatási jogviszonyban vagy tagsági viszonyban állt, vagy annak vezető tisztségviselője vagy felügyelőbizottságának tagja volt, vagy az ügyfélszervezetben tulajdoni részesedéssel vagy 50%-ot meghaladó mértékű közvetett tulajdoni részesedéssel rendelkezett.
 
-(2) A közbeszerzési ügyben nem járhat el az a közbeszerzési biztos, akinek a Ptk. 8:1. § (1) bekezdés 2. pontja szerinti hozzátartozója
+(2) A közbeszerzési ügyben nem járhat el az a közbeszerzési biztos, akinek a közös háztartásban élő hozzátartozója
 
 - a) az ügyfélszervezettel munkaviszonyban, egyéb foglalkoztatási jogviszonyban vagy tagsági viszonyban áll, vagy annak vezető tisztségviselője vagy felügyelőbizottságának tagja;
 - b) az ügyfélszervezetben tulajdoni részesedéssel vagy 50%-ot meghaladó mértékű közvetett tulajdoni részesedéssel rendelkezik;
@@ -2988,7 +2988,7 @@ valamint a módosítás nem változtatja meg a szerződés általános jellegét
 
 (3) A Tanács határozatait – az e törvényben foglalt kivételektől eltekintve – egyszerű szótöbbséggel hozza.
 
-(4) A Tanácsnak a 183. § b) pontja tárgyában hozott határozata előkészítésében és eldöntésében nem vehet részt a Tanács azon tagja, aki az üggyel érintett személy Ptk. 8:1. § (1) bekezdés 2. pontja szerinti hozzátartozója.
+(4) A Tanácsnak a 183. § b) pontja tárgyában hozott határozata előkészítésében és eldöntésében nem vehet részt a Tanács azon tagja, aki az üggyel érintett személy közös háztartásban élő hozzátartozója.
 
 (5) A Tanács tagja az elnöknek köteles bejelenteni, ha személyére nézve a (4) bekezdés szerinti összeférhetetlenségi ok áll fenn vagy keletkezett, és köteles a folyamatban levő eljárásban való részvételét azonnal megszüntetni.
 
@@ -3201,6 +3201,13 @@ rendelkezik.
 197. § (1) E törvény rendelkezéseit a hatálybalépése után megkezdett beszerzésekre, közbeszerzési eljárások alapján megkötött szerződésekre, tervpályázati eljárásokra és az azokkal kapcsolatban kérelmezett, kezdeményezett vagy hivatalból indított jogorvoslati eljárásokra és előzetes vitarendezési eljárásokra kell alkalmazni. A 139. §, a 142. § (1)–(2) és (4)–(5) bekezdése, a 153. § (1) bekezdés c) pontja és a 175. § rendelkezéseit alkalmazni kell e törvény hatálybalépését megelőzően megkezdett beszerzések vagy közbeszerzési eljárások eredményeként kötött szerződések új közbeszerzési eljárás lefolytatása nélkül történő módosításának lehetőségére, valamint a módosítás és teljesítés ellenőrzésére.
 
 (2) A közbeszerzésekről szóló 2011. évi CVIII. törvény rendelkezéseit a 2015. november 1. napját megelőzően megkezdett beszerzésekre, – az (1) bekezdés második mondatában foglalt kivétellel – közbeszerzési eljárások alapján megkötött szerződésekre, tervpályázati eljárásokra és az azokkal kapcsolatban kérelmezett, kezdeményezett vagy hivatalból indított jogorvoslati eljárásokra és előzetes vitarendezési eljárásokra alkalmazni kell.
+
+197/A. § Az egyes törvényeknek a Nemzeti Adó- és Vámhivatal átalakításával, valamint a költségvetési tervezéssel és gazdálkodással kapcsolatos módosításáról szóló 2015. évi CXCI. törvénnyel megállapított
+
+- a) 25. § (3) és (4) bekezdésének a közös háztartásban élő hozzátartozóra vonatkozó rendelkezését a 2015. november 1-jét követően,
+- b) 25. § (4) bekezdését – az a) pontban meghatározott kivétellel – az egyes törvényeknek a Nemzeti Adó- és Vámhivatal átalakításával, valamint a költségvetési tervezéssel és gazdálkodással kapcsolatos módosításáról szóló 2015. évi CXCI. törvény hatálybalépését követően
+
+indult eljárásban kell alkalmazni.
 
 ### Felhatalmazás
 

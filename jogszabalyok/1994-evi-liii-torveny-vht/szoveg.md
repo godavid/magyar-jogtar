@@ -826,6 +826,12 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 (3) A (2) bekezdésben foglalt esetben az eljárást az alapügyben eljáró végrehajtó az alapügy keretében foganatosítja (visszvégrehajtás).
 
+56/A. § (1) § A végrehajtást elrendelő bíróság az adós kérelmére vagy hivatalból a végrehajtást soron kívül meghozott végzésével megszünteti, ha a végrehajtandó követelést egy másik követelés biztosítására büntetőeljárásban elrendelt zár alá vétel foganatosítása során lefoglalták és a lefoglalás eredményeként annak összegét a végrehajtói letéti számlára befizették.
+
+(2) Ha az adós a követelés összegének a végrehajtói letéti számlára történt (1) bekezdés szerinti megfizetését a bíróságnál igazolja, a bíróság az igazolás bírósághoz történő megérkezésétől számított 3 munkanapon belül felfüggeszti a végrehajtást.
+
+(3) A bíróság a végrehajtást megszüntető végzésében arról is rendelkezik, hogy ki viseli a végrehajtási költséget, valamint az adós kérelmére végzéssel arra kötelezheti a végrehajtást kérőt, hogy térítse vissza az adósnak a végrehajtás során kapott összeget (vagyontárgyat) és a végrehajtási költséget. Visszatérítésre kötelezés esetén a végrehajtó az 56. § (3) bekezdése szerint jár el.
+
 ### A végrehajtási jog elévülése
 
 57. § (1) A végrehajtási jog a végrehajtandó követeléssel együtt évül el.
@@ -1094,11 +1100,13 @@ eredő követelések fejében vonható végrehajtás alá.
 
 (3) A bíróság az átutalási végzést a pénzforgalmi szolgáltatónál vezetett, a végrehajtási kérelemben megjelölt fizetési számlára hozza meg, és a végzést a pénzforgalmi szolgáltatónak, valamint a feleknek kézbesítteti. Ha a végrehajtási kérelemben az adós több pénzforgalmi szolgáltatónál vezetett fizetési számlát jelöl meg, a bíróság az elsőként feltüntetett fizetési számlára hozza meg az átutalási végzést; másik pénzforgalmi szolgáltatónál vezetett további számlára a 81. § (5) bekezdése szerint van helye a végzés meghozatalának.
 
-81. § (1) A végrehajtási lap kiállítására jogosult bíróság az átutalási végzést a pénzforgalmi szolgáltatónak azzal a rendelkezéssel küldi meg, hogy a végzésben feltüntetett követelés összegét a végzés jogerőre emelkedésének bevárása nélkül utalja ki, vagy utalja át a végrehajtást kérőnek; a végzés elleni fellebbezésnek a végzés végrehajtására nincs halasztó hatálya.
+(4) Nem hozható átutalási végzés, ha a behajtandó követelést egy másik követelés biztosítására büntetőeljárásban elrendelt zár alá vétel foganatosítása során lefoglalták és a lefoglalás eredményeként annak összegét a végrehajtói letéti számlára befizették.
 
-(2) Az okirat végrehajtási záradékolására jogosult bíróság az átutalási végzést a pénzforgalmi szolgáltatónak azzal a rendelkezéssel küldi meg, hogy a végzésben feltüntetett követelés összegét tartsa vissza, és – ha a végzés kézbesítésétől számított 45 napon belül a bíróságtól nem kap más értesítést – azt a végrehajtást kérőnek utalja ki, vagy utalja át. A végzés elleni fellebbezésről a bíróság a pénzforgalmi szolgáltatót haladéktalanul értesíti, és felhívja arra, hogy az összeg visszatartását folytassa, de kiutalást, átutalást újabb értesítésig ne teljesítsen. A bíróság az átutalási végzés jogerőre emelkedéséről a pénzforgalmi szolgáltatót ugyancsak haladéktalanul és azzal a rendelkezéssel értesíti, hogy a visszatartott összeget – az átutalási végzésben foglalt felhívásnak megfelelően – utalja ki, vagy utalja át a végrehajtást kérőnek.
+81. § (1)
 
-(3) Az (1) és (2) bekezdésben foglaltak megfelelő alkalmazásával kell értesíteni a pénzforgalmi szolgáltatót az átutalási végzés megváltoztatásáról és hatályon kívül helyezéséről is.
+(2) A bíróság az átutalási végzést a pénzforgalmi szolgáltatónak azzal a rendelkezéssel küldi meg, hogy a végzésben feltüntetett követelés összegét tartsa vissza, és – ha a végzés kézbesítésétől számított 45 napon belül a bíróságtól nem kap más értesítést – azt a végrehajtást kérőnek utalja ki, vagy utalja át. A végzés elleni fellebbezésről a bíróság a pénzforgalmi szolgáltatót haladéktalanul értesíti, és felhívja arra, hogy az összeg visszatartását folytassa, de kiutalást, átutalást újabb értesítésig ne teljesítsen. A bíróság az átutalási végzés jogerőre emelkedéséről a pénzforgalmi szolgáltatót ugyancsak haladéktalanul és azzal a rendelkezéssel értesíti, hogy a visszatartott összeget – az átutalási végzésben foglalt felhívásnak megfelelően – utalja ki, vagy utalja át a végrehajtást kérőnek.
+
+(3) A (2) bekezdésben foglaltak megfelelő alkalmazásával kell értesíteni a pénzforgalmi szolgáltatót az átutalási végzés megváltoztatásáról és hatályon kívül helyezéséről is.
 
 (4) Ha az átutalási végzés kibocsátása fedezet hiánya miatt nem vagy csak részben vezetett eredményre, egyéb végrehajtható okirat kiállításának akkor van helye, ha a végrehajtást kérő igazolja, hogy az adós pénzforgalmi szolgáltatója az átutalási végzést milyen összegben teljesítette. Ha a kérelmet a függőben tartási határidő lejárta előtt terjesztik elő, a bíróság a végrehajtható okirat kiállításával egyidejűleg értesíti az adós pénzforgalmi szolgáltatóját arról, hogy nem kéri az átutalási végzés további függőben tartását.
 
@@ -4342,6 +4350,8 @@ a lakóingatlan kiürítését – a (3) bekezdésben foglalt kivétellel – a 
 (5) A Kar hivatali szerve a biztosíték összegét erre elkülönített számlán kezeli. A számla megterhelésére csak a Kar szervezeti és működési szabályzatában meghatározott személy adhat megbízást.
 
 (6) Ha a biztosíték összegéből a Kar hivatali szerve kifizetést teljesít, a kifizetett összegnek megfelelő összeget a végrehajtónak 30 napon belül be kell fizetnie a Kar számlájára, amiről a Kar hivatali szerve igazolást állít ki. A végrehajtó szolgálatának megszűnését követő 30. napig a biztosíték fel nem használt összegét a végrehajtó részére vissza kell fizetni, kivéve, ha vele szemben kártérítés megfizetésére irányuló eljárás vagy per van folyamatban, ebben az esetben az eljárás befejezését követő 30 napon belül kell a biztosíték megmaradt összegét visszafizetni részére.
+
+306/S. § (1) E törvénynek a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény, valamint a bírósági végrehajtásról szóló 1994. évi LIII. törvény módosításáról szóló 2015. évi CXCIII. törvénnyel (a továbbiakban: Módtv.5.) megállapított 80. és 81. §-át azokban a Módtv.5. hatálybalépésekor folyamatban lévő végrehajtási eljárásokban is alkalmazni kell, amelyben a Módtv.5. hatálybalépését megelőzően a bíróság még nem hozott átutalási végzést vagy az átutalási végzéssel szemben előterjesztett jogorvoslati kérelem elbírálására még nem került sor. Ha az átutalási végzést már kibocsátották és azzal szemben végrehajtás elrendelésével kapcsolatos jogorvoslatnak már nincs helye, az adós kérelmére a bíróság az átutalási végzést visszavonja és – kérelemre – végzéssel arra kötelezi a végrehajtást kérőt, hogy térítse vissza az adósnak az átutalási végzés végrehajtása során kapott összeget. A Módtv.5-tel megállapított 56/A. §-t a Módtv.5. hatálybalépésekor folyamatban lévő végrehajtási eljárásokban is alkalmazni kell.
 
 ### Felhatalmazás
 
