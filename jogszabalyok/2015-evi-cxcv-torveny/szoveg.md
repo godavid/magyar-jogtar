@@ -4,31 +4,17 @@ az árubemutatóval egybekötött termékértékesítés során a fogyasztók v�
 
 #### 1. A kereskedelemről szóló 2005. évi CLXIV. törvény módosítása
 
-1. § (1) A kereskedelemről szóló 2005. évi CLXIV. törvény (a továbbiakban: Kertv.) 2. §-a a következő 28a. ponttal egészül ki:
-
-(E törvény alkalmazásában:)
-
-„28a. árubemutatóval egybekötött termékértékesítés: a kereskedő vagy a nevében, illetve javára eljáró személy által a termék bemutatása, illetve forgalmazása céljából szervezett utazás vagy rendezvény alkalmával folytatott kiskereskedelmi tevékenység;”
-
-(2) A Kertv. 2. §-a a következő 36. ponttal egészül ki:
-
-(E törvény alkalmazásában:)
-
-„36. fogyasztó: a fogyasztóvédelemről szóló törvény szerinti fogyasztó.”
+1. §
 
 2–4. §
 
 #### 2. A gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény módosítása
 
-5. § A gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény Általános reklámtilalmak és reklámkorlátozások alcíme a következő 12. §-sal egészül ki:
-
-„12. § Tilos a kereskedelemről szóló törvényben meghatározott, árubemutatóval egybekötött termékértékesítéshez kapcsolódóan ajándék juttatás, árengedmény, kedvezmény, vagyoni előny és ajándéksorsolás reklámja.”
+5. §
 
 #### 3. A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény módosítása
 
-6. § A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 115. alcíme a következő 265. §-sal egészül ki:
-
-„265. § Tilos a kereskedelemről szóló törvényben meghatározott, árubemutatóval egybekötött termékértékesítés során pénzügyi szolgáltatás nyújtása, a készpénz-helyettesítő fizetési eszköz használatával összefüggésben nyújtott pénzügyi szolgáltatás kivételével.”
+6. §
 
 #### 4. Záró rendelkezések
 

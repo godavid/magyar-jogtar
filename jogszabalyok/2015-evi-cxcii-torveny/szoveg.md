@@ -34,60 +34,27 @@ az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együt
 
 #### 7. A koncesszióról szóló 1991. évi XVI. törvény módosítása
 
-24. § Hatályát veszti a koncesszióról szóló 1991. évi XVI. törvény 10/C. § (3a) bekezdése.
+24. §
 
 #### 8. A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény módosítása
 
 25. §
 
-26. § Az Szjtv. 2. § (2a) bekezdése helyébe a következő rendelkezés lép:
-
-„(2a) A távszerencsejáték és online kaszinójáték szolgáltatásokra e törvény hatálya abban az esetben terjed ki, ha
-
-a) a szerencsejátékot Magyarország területén szervezik,
-
-b) a szolgáltatás igénybe vevője Magyarország területén vesz részt a szerencsejátékban, vagy
-
-c) a szolgáltatás Magyarország területén lévő igénybe vevők felé irányul, különösen olyan esetekben, amikor a szolgáltatás magyarul hozzáférhető, vagy azt Magyarország területén reklámozzák.”
-
-27. § Az Szjtv. 12. § (3) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(A bírság)
-
-„b) 100 ezer forinttól 10 millió forintig terjedhet az 1. § (5a)–(6d) bekezdésébe, a 9. § (2) bekezdésébe, a 11. § (7a)–(10) bekezdésébe, a 17. § (4) bekezdésébe, a 26. § (4) bekezdésébe, a 26/B. § (5) bekezdésébe, a 27. § (9) és (11) bekezdéseibe, a 29/A. § (3) bekezdésébe, 29/B. § (2), (5)–(8) bekezdéseibe, valamint a felelős játékszervezés részletes szabályairól szóló kormányrendelet, továbbá az egyes szerencsejátékok engedélyezésével, lebonyolításával és ellenőrzésével kapcsolatos feladatok végrehajtásáról szóló rendelet rendelkezéseibe,”
+26–27. §
 
 28. §
 
-29. § Az Szjtv. 38. § (2) bekezdése a következő f) ponttal egészül ki:
-
-(Felhatalmazást kap a miniszter, hogy)
-
-„f) a gazdátlan, szerencsejáték keretében használt játékeszköznek a Polgári Törvénykönyvben foglaltaktól eltérő tulajdonszerzésével”
-
-(kapcsolatos részletes szabályokat rendeletben határozza meg.)
+29. §
 
 30. § Az Szjtv.
 
-- a) 13. § (3) bekezdésben a „távszerencsejáték-szervezővel” szövegrész helyébe a „távszerencsejáték és online kaszinójáték szervezővel” szöveg,
-- b) 12. § (3) bekezdés c) pontjában az „1. § (5a) vagy (5b) bekezdéseibe,” szövegrész helyébe az „1. § (7a) bekezdésébe,” szöveg,
-- c) 12. § (3) bekezdés d) pontjában a „29/C. § (1)–(7), (9) bekezdésébe” szövegrész helyébe a „29/C–V. §-ba” szöveg,
-- d) 29/H. § (1) bekezdés a) pontjában és 29/H. § (3) bekezdés a) pontjában a „születési családi és utónév,” szövegrész helyébe a „születési családi és utónév, anyja neve,” szöveg,
-- e) 29/H. § (1) bekezdés b) pontjában a „lakcím” szövegrész helyébe a „lakcím, külföldi esetében a magyarországi tartózkodási hely,” szöveg,
-- f) 29/H. § (2) bekezdésében a „nem támasztja alá” szövegrész helyébe a „nem támasztja alá, vagy a személy a nyilvántartásban nem szerepel” szöveg,
-- g) 29/H. § (5) bekezdésében a „szerint vezeti. A játékosi” szövegrész helyébe a „szerint vezeti. A szervező a játékosi egyenlegeket egy minden egyéb pénzügyi eszköztől elkülönített magyarországi bankszámlán köteles tartani. Az elkülönített bankszámlán elhelyezett összegnek fedeznie kell a játékosi egyenlegek összegét. Ha a játékosi egyenlegek összege meghaladja az elkülönített bankszámlán található összeget, a szervező 30 napon belül köteles a különbözet pótlására. A játékosi” szöveg,
-- h) 29/K. § (1) bekezdésében a „kéthetente, a tárgyidőszakot tartalmazó hónap 15. és utolsó naptári napján” szövegrész helyébe a „tárgyhónapot követő hónap 20. napjáig” szöveg,
-- i) 29/U. §-ában a „29/H–J. §-ban” szövegrész helyébe a „29/F. §, 29/G. § (1) bekezdésében, 29/H–J. §, (1)–(3) bekezdésében, 29/K. § (1) és (2) bekezdésében,” szöveg,
-- j) 29/V. §-ában a „vagy ennek megfelelő összegű” szövegrész helyébe a „vagy – a nyeremény keletkezése napján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos árfolyam szerint – ennek megfelelő összegű” szöveg,
+- a) –j
 - k)
-- l) 36/I. § (1) bekezdésében a „90” szöveg helyébe a „365” szöveg
+- l)
 
 lép.
 
-31. § Hatályát veszti az Szjtv.
-
-- a) 29/E. § (3) bekezdése,
-- b) 29/K. § (3) bekezdése,
-- c) 29/S. § (1) bekezdése.
+31. §
 
 #### 9. A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása
 
@@ -95,42 +62,15 @@ lép.
 
 #### 10. A kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény módosítása
 
-33. § A kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény (a továbbiakban: Kkv. tv.) 19. § 5. pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában:)
-
-„5. vállalkozás: az egyéni vállalkozó, az egyéni cég, a gazdasági társaság, az ügyvédi iroda, a szövetkezet, a vízi társulat, a víziközmű társulat, az erdőbirtokossági társulat, továbbá a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet I. mellékletében meghatározott KKV kritériumoknak megfelelő mezőgazdasági termeléssel, halgazdálkodással, mezőgazdasági feldolgozással és forgalmazással, erdőgazdálkodással és vadgazdálkodással foglalkozó vállalkozás és természetes személyek.”
-
-34. § A Kkv. tv. 20. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) Ez a törvény a mikro-, kis- és középvállalkozások meghatározásáról szóló 2003. május 6-i 2003/361/EK bizottsági ajánlásnak való megfelelést szolgálja.”
+33–34. §
 
 #### 11. A Közösség területére belépő, illetve a Közösség területét elhagyó készpénz ellenőrzéséről szóló, 2005. október 26-i 1889/2005/EK európai parlamenti és tanácsi rendelet végrehajtásáról szóló 2007. évi XLVIII. törvény módosítása
 
-35. § A Közösség területére belépő, illetve a Közösség területét elhagyó készpénz ellenőrzéséről szóló, 2005. október 26-i 1889/2005/EK európai parlamenti és tanácsi rendelet végrehajtásáról szóló 2007. évi XLVIII. törvény (a továbbiakban: Készpénztörvény) 5/A. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-[Az Európai Unió területére belépő vagy azt elhagyó természetes személynek, aki a nála lévő, a Rendelet 2. cikk 2. pontja szerinti készpénz vonatkozásában a Rendelet 3. cikk (1) bekezdése szerinti nyilatkozattételi kötelezettségét tévesen, hiányosan vagy egyáltalán nem teljesíti, a Rendelet 9. cikkének megfelelően]
-
-„c) 50 000 eurót meghaladó összegű készpénz esetén a birtokában lévő összeg 50%-ának megfelelő, forintban meghatározott összegű bírságot kell a helyszínen fizetnie.”
+35. §
 
 #### 12. A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény módosítása
 
-36. § A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény (a továbbiakban: Pmt.) 3. § tb) pontja helyébe a következő rendelkezés lép:
-
-[t) ügyfél-átvilágítás]
-
-„tb) az (1) bekezdés i) pontjában meghatározott tevékenységet végző szolgáltató által a játékos nyilvántartásba vételekor (az üzleti kapcsolat létrejöttekor) elvégzett ügyfél-átvilágítási intézkedések,”
-
-37. § A Pmt. 34. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A felügyelet ellátása során – az e törvényben meghatározott eltérésekkel – az 5. § f)–h) pontjában meghatározott felügyeletet ellátó szerv a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény, az 5. § a) pontjában meghatározott felügyeletet ellátó szerv a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény és az MNBtv., az 5. § c) pontjában meghatározott felügyeletet ellátó szerv a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól és a szerencsejáték szervezéséről szóló törvény rendelkezései szerint jár el.”
-
-38. § A Pmt.
-
-- a) 1. § (1) bekezdés i) pontjában a „vagy távszerencsejátékot szervez;” szövegrész helyébe a „vagy távszerencsejátékot, online kaszinójátékot szervez;” szöveg,
-- b) 3. § v) pont vc) alpontjában az „illetve a távszerencsejáték szervezőjénél” szövegrész helyébe az „illetve a távszerencsejáték és az online kaszinójáték szervezőjénél” szöveg
-
-lép.
+36–38. §
 
 ### IV. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
