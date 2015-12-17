@@ -1073,6 +1073,8 @@ nem haladhatja meg.
 
 (4) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvénnyel módosított 31/D. § (4) bekezdését és 31/D. § (6) bekezdését az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvény hatálybalépésekor folyamatban lévő záró elszámolásokban is alkalmazni kell.
 
+36/F. § A Kormány erre irányuló döntése alapján a központi költségvetés a 31/D. § (7) bekezdés c) pontjában meghatározott keretösszeg és a 2015. év során a Tao. tv. 22. § (3) bekezdése és 24/A. § (3) bekezdés a) pontja alapján a letéti számlán összegyűjtött közvetett támogatás pozitív különbözetének megfelelő összeget 2015-ben a letéti számlára teljesítheti. A Kormány döntésével ily módon megtérített különbözet a 31/D. § (7) bekezdés c) pontja szerinti összeghatáron felül is teljesíthető.
+
 ### 2. CÍM — Felhatalmazó rendelkezések
 
 37. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a települési önkormányzat tulajdonában álló közterület filmforgatási célú használata kapcsán a filmforgatáshoz kapcsolódó eljárások lefolytatásának és a hatósági bejelentések, kérelmek továbbításának a rendjét, valamint fővárosi és megyei kormányhivatal eljárásához kapcsolódó nyilvántartásokkal kapcsolatos részletes szabályokat.
