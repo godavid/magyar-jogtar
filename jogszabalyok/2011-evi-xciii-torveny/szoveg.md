@@ -57,7 +57,7 @@ hazai és határon túli magyar képviselőinek részvételével működik.
   - c) a Magyar Tudományos Akadémia által kijelölt, a határon túli magyar tudományos élet képviselője;
 - 5. a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 11/A. § (1) bekezdése szerinti tevékenységgel összefüggésben foglalkoztatott személyek számát tekintve legjelentősebb gazdasági súlyt képviselő négy bevett egyház képviselői.
 
-(2) A Tanács tagjai az őket delegáló szervezet megbízásából tagjai a tanácsnak. A Tanács tagjainak megbízatása négy évre szól.
+(2) A Tanács tagjai az őket delegáló szervezet megbízásából tagjai a Tanácsnak. A Tanács tagjainak megbízatása – a (12) bekezdésben meghatározottak figyelembevételével – négy évre szól.
 
 (3) A tagok a Tanácsban végzett munkájukért díjazásban nem részesülnek.
 
@@ -94,6 +94,8 @@ hazai és határon túli magyar képviselőinek részvételével működik.
 (10) A Tanács (1) bekezdés 1. a) és 2. pontja szerinti tagjainak kell tekinteni a törvény hatálybalépésének időpontjában az Országos Érdekegyeztető Tanácsról szóló törvény szerinti, Országos Részvételt Megállapító Bizottság által kiállított hatósági bizonyítvánnyal rendelkező szervezeteket.
 
 (11) A tanácsi tagsághoz szükséges (5)–(9) bekezdésekben meghatározott feltételek fennállását a hatósági bizonyítványok lejárta után, illetve azt követően négyévenként az érdekképviseletek felülvizsgálják. A felülvizsgálat eredményéről a Tanácsot haladéktalanul tájékoztatni kell.
+
+(12) A Tanács tagjainak megbízatása az érdekképviseletek (11) bekezdés szerinti felülvizsgálata eredményéről, illetve a tagokat delegáló szervezetek új tagok megbízatásáról szóló, a Titkárság felé közölt tájékoztatása időpontjáig áll fenn.
 
 #### 5. A Tanács állandó meghívottjai
 
@@ -161,4 +163,6 @@ rendelkezések tekintetében.
 
 (2) Ahol jogszabály az Országos Érdekegyeztető Tanácsot említi, azon a Nemzeti Gazdasági és Társadalmi Tanácsot, ahol az Országos Érdekegyeztető Tanács Munkavédelmi Bizottságát említi, azon az Mvt. 78. §-a szerinti Munkavédelmi Bizottságot kell érteni.
 
-#### 12–13. §
+12. § E törvénynek az egyes törvényeknek a gazdasági növekedéssel összefüggésben történő módosításáról szóló 2015. évi CCXII. törvénnyel megállapított 4. § (2) és (12) bekezdését a 2015. január 1-jén a Tanácsban tagsággal rendelkező tagok megbízatására is alkalmazni kell.
+
+#### 13. §

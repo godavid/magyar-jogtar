@@ -4454,6 +4454,18 @@ vonatkozó, a Módosító Törvénnyel megállapított rendelkezéseit a 2014. m
 
 kell alkalmazni.
 
+397/I. § (1) 2016. június 30. napjáig e törvény azon rendelkezéseit, amelyek kötelező, illetve kizárólagos elektronikus kapcsolattartásról rendelkeznek, akkor kell alkalmazni, ha a fél vagy képviselője, illetve az elektronikus kapcsolattartással egyébként érintett az elektronikus kapcsolattartást választja.
+
+(2) 2016. július 1-jétől a kötelező elektronikus kapcsolattartás tekintetében e törvénynek a polgári perrendtartásról szóló 1952. évi III. törvény, valamint egyéb eljárásjogi és igazságügyi törvények módosításáról szóló 2015. évi CLXXX. törvénnyel megállapított
+
+- a) 321/A. §-át a 2016. július 1. napján és az azt követően indult fizetési meghagyásos eljárást követően perré alakult eljárásban,
+- b) 340/B. §-át a 2016. július 1. napján és az azt követően indult közigazgatási eljárás során hozott határozat bírósági felülvizsgálata iránti perekben,
+- c) 341/J. §-át a 2016. július 1. napján és az azt követően indult jegyző előtti birtokvédelmi eljárás során hozott birtokvédelmi határozat megváltoztatása iránti perekben,
+- d) 386/U. §-át a 2016. július 1. napján és az azt követően indult perekben,
+- e) 394/C. §-át a 2016. július 1. napján és az azt követően indult perekben
+
+kell alkalmazni.
+
 398. § E törvény 313–323. §-a összeegyeztethető szabályozást tartalmaz az Európai Parlament és a Tanács a kereskedelmi ügyletekhez kapcsolódó késedelmes fizetések elleni fellépésről szóló 2011/7/EU irányelvének 10. cikkével.
 
 399. § E törvény 323. §-a az európai fizetési meghagyásos eljárás létrehozásáról szóló 2006. december 12-i 1896/2006/EK európai parlamenti és tanácsi rendelet végrehajtását szolgálja.

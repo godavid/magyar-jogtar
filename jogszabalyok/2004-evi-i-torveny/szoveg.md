@@ -355,13 +355,13 @@ szabható ki.
 - g) sportágában elláthatja a sportág fogyatékosok sportjával összefüggő feladatait, amit az állami sportcélú támogatás elosztásáról szóló döntés során figyelembe kell venni,
 - h) sportágában elláthat szabadidős sporttevékenységgel összefüggő feladatokat is, amit az állami sportcélú támogatás elosztásáról szóló döntés során figyelembe kell venni.
 
-(3) A látvány-csapatsportban működő szakszövetség a (2) bekezdés f) pontjában meghatározott feladatok ellátása során közigazgatási hatósági jogkörben jár el a közigazgatási hatóság eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény rendelkezései alapján.
+(3) A látvány-csapatsportban működő szakszövetség a (2) bekezdés f) pont fa) és fb) alpontjában meghatározott feladatok ellátása során közigazgatási hatósági jogkörben jár el a közigazgatási hatóság eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény rendelkezései alapján.
 
 (3a) A szakszövetség gazdálkodásával összefüggő, az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény szerinti közérdekű vagy közérdekből nyilvános adatok megismerésére vonatkozó igények a nem állami, nem önkormányzati támogatások tekintetében összesített adattartalom szolgáltatásával is teljesíthetőek.
 
 (4) A látvány-csapatsportban működő szakszövetség által a (2) bekezdés f) pont fa) és fb) alpontja szerinti közigazgatási hatósági eljárásban hozott döntés ellen közigazgatási eljárás keretében fellebbezésnek helye nincs.
 
-(5) A (2) bekezdés f) pontja alapján végzett közigazgatási hatósági feladatokért jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
+(5) A (2) bekezdés f) pont fa) és fb) alpontja alapján végzett közigazgatási hatósági eljárásokért és igazgatási jellegű szolgáltatások igénybevételéért jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
 
 (6) A sportág céljainak elérése érdekében – összhangban a sportág stratégiai fejlesztési koncepciójában foglaltakkal – a szakszövetség szponzorálási és más kereskedelmi szerződéseket köthet, ideértve – e törvény 36–37. §-ában meghatározott módon – a versenyrendszer (bajnokság) kiírásával, szervezésével, lebonyolításával, valamint a versenyrendszerben (bajnokságban) szervezett sportági sportrendezvényekkel kapcsolatos vagyoni értékű jogok hasznosítását is.
 
@@ -517,10 +517,10 @@ versenyrendszert működtethet (bajnokságot írhat ki).
 
 (2) A versenyrendszerben (bajnokságban) való indulás (nevezés) joga nem ruházható át, az erre irányuló szerződés semmis. E rendelkezés alól kivételt képez, ha:
 
-- a) a sportegyesület versenyrendszerben (bajnokságban) való részvétel céljából gazdasági társaságot alapít (abban tagként részt vesz), és az indulási jogot erre a társaságra ruházza át,
-- b) a sportvállalkozás az amatőr versenyrendszerbe (bajnokságba) kerül, köztartozása nincs, és az indulási jogát a tagjaként működő sportegyesületre ruházza át,
-- c) a sportvállalkozás azonos sportszövetség által kiírt és szervezett versenyrendszer (bajnokság) több bajnoki osztályában rendelkezik indulási (nevezési) joggal, köztartozása nincs, és az alacsonyabb bajnoki osztályban meglévő indulási (nevezési) jogát átadja a vele jogviszonyban lévő sportszervezetnek vagy a sportszervezet által erre a célra alapított sportvállalkozásnak,
-- d) az indulási (nevezési) joggal rendelkező sportvállalkozásnak olyan sportegyesület is tagja, mely a sportvállalkozásba tagként belépése és az indulás (nevezés) jogának sportvállalkozásra történő átruházása előtt maga rendelkezett az azonos versenyrendszer azonos bajnoki osztályában az indulási (nevezési) joggal, a sportvállalkozásnak lejárt köztartozása nincs, és a sportvállalkozás legfőbb szerve határozatával az indulási (nevezési) jogot az indulás (nevezés) jogával korábban rendelkező sportegyesület tagra az országos sportági szakszövetség elnöksége előzetes jóváhagyásával átruházza.
+- a) a sportegyesület versenyrendszerben (bajnokságban) való részvétel céljából gazdasági társaságot alapít (abban tagként részt vesz), és az indulási (nevezési) jogot erre a társaságra ruházza át,
+- b) a sportvállalkozás az amatőr versenyrendszerbe (bajnokságba) kerül, köztartozása nincs, és az indulási (nevezési) jogát a tagjaként működő sportegyesületre ruházza át,
+- c) a sportvállalkozás azonos sportszövetség által kiírt és szervezett versenyrendszer (bajnokság) több bajnoki osztályában rendelkezik indulási (nevezési) joggal, köztartozása nincs, és az alacsonyabb bajnoki osztályban meglévő indulási (nevezési) jogát átruházza a vele jogviszonyban lévő sportszervezetnek vagy a sportszervezet által erre a célra alapított sportvállalkozásnak,
+- d) az indulási (nevezési) joggal rendelkező sportvállalkozásnak olyan sportegyesület is tagja, mely a sportvállalkozásba tagként belépése és az indulás (nevezés) jogának sportvállalkozásra történő átruházása előtt maga rendelkezett az azonos versenyrendszer (bajnokság) azonos bajnoki osztályában az indulási (nevezési) joggal, a sportvállalkozásnak lejárt köztartozása nincs, és a sportvállalkozás legfőbb szerve határozatával az indulási (nevezési) jogot az indulás (nevezés) jogával korábban rendelkező sportegyesület tagra a sportszövetség elnöksége előzetes jóváhagyásával átruházza.
 
 (2a) Az országos sportági szakszövetség elnöksége a (2) bekezdés d) pontja szerinti átruházás előzetes jóváhagyását megtagadja, ha az átruházás feltételei nem felelnek meg a jogszabályi előírásoknak és az országos sportági szakszövetség szabályzatában meghatározott feltételeknek.
 
@@ -556,7 +556,7 @@ versenyrendszert működtethet (bajnokságot írhat ki).
 
 (6)
 
-36. § (1) A sporttevékenység, illetve a sportversenyek (mérkőzések) televíziós, rádiós, valamint egyéb elektronikus-digitális technikákkal (pl. internet) történő közvetítésének, rögzítésének és ezek kereskedelmi célú hasznosításának engedélyezése, továbbá a versenyrendszer (bajnokság) kiírása, szervezése, lebonyolítása vagyoni értékű jogot képez.
+36. § (1) A sporttevékenység, illetve a sportversenyek (mérkőzések) televíziós, rádiós, valamint egyéb elektronikus-digitális technikákkal (pl. internet) történő közvetítésének, rögzítésének és ezek kereskedelmi célú hasznosításának – beleértve a reklám és marketingjogokat is – engedélyezése, továbbá a versenyrendszer kiírása, szervezése, lebonyolítása vagyoni értékű jogot képez.
 
 (2) A közvetítések engedélyezésének vagyoni értékű jogaival kapcsolatos szabályokat megfelelően alkalmazni kell a sporttevékenységgel kapcsolatos más vagyoni értékű jogokra is.
 
