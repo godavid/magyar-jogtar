@@ -4,23 +4,7 @@ egyes törvényeknek a gazdasági növekedéssel összefüggésben történő m�
 
 #### 1. A polgári perrendtartásról szóló 1952. évi III. törvény módosítása
 
-1. § A polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) a következő 397/I. §-sal egészül ki:
-
-„397/I. § (1) 2016. június 30. napjáig e törvény azon rendelkezéseit, amelyek kötelező, illetve kizárólagos elektronikus kapcsolattartásról rendelkeznek, akkor kell alkalmazni, ha a fél vagy képviselője, illetve az elektronikus kapcsolattartással egyébként érintett az elektronikus kapcsolattartást választja.
-
-(2) 2016. július 1-jétől a kötelező elektronikus kapcsolattartás tekintetében e törvénynek a polgári perrendtartásról szóló 1952. évi III. törvény, valamint egyéb eljárásjogi és igazságügyi törvények módosításáról szóló 2015. évi CLXXX. törvénnyel megállapított
-
-a) 321/A. §-át a 2016. július 1. napján és az azt követően indult fizetési meghagyásos eljárást követően perré alakult eljárásban,
-
-b) 340/B. §-át a 2016. július 1. napján és az azt követően indult közigazgatási eljárás során hozott határozat bírósági felülvizsgálata iránti perekben,
-
-c) 341/J. §-át a 2016. július 1. napján és az azt követően indult jegyző előtti birtokvédelmi eljárás során hozott birtokvédelmi határozat megváltoztatása iránti perekben,
-
-d) 386/U. §-át a 2016. július 1. napján és az azt követően indult perekben,
-
-e) 394/C. §-át a 2016. július 1. napján és az azt követően indult perekben
-
-kell alkalmazni.”
+1. §
 
 #### 2. A helyi adókról szóló 1990. évi C. törvény módosítása
 
@@ -40,9 +24,7 @@ kell alkalmazni.”
 
 9–17. §
 
-18. § Az Mktv. V. Fejezet 1. Címe a következő 36/F. §-sal egészül ki:
-
-„36/F. § A Kormány erre irányuló döntése alapján a központi költségvetés a 31/D. § (7) bekezdés c) pontjában meghatározott keretösszeg és a 2015. év során a Tao. tv. 22. § (3) bekezdése és 24/A. § (3) bekezdés a) pontja alapján a letéti számlán összegyűjtött közvetett támogatás pozitív különbözetének megfelelő összeget 2015-ben a letéti számlára teljesítheti. A Kormány döntésével ily módon megtérített különbözet a 31/D. § (7) bekezdés c) pontja szerinti összeghatáron felül is teljesíthető.”
+18. §
 
 19. §
 
@@ -77,30 +59,11 @@ lép.
 
 #### 8. A Nemzeti Gazdasági és Társadalmi Tanácsról szóló 2011. évi XCIII. törvény módosítása
 
-27. § A Nemzeti Gazdasági és Társadalmi Tanácsról szóló 2011. évi XCIII. törvény (a továbbiakban: NGTT tv.) 4. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A Tanács tagjai az őket delegáló szervezet megbízásából tagjai a Tanácsnak. A Tanács tagjainak megbízatása – a (12) bekezdésben meghatározottak figyelembevételével – négy évre szól.”
-
-28. § Az NGTT tv. 4. §-a a következő (12) bekezdéssel egészül ki:
-
-„(12) A Tanács tagjainak megbízatása az érdekképviseletek (11) bekezdés szerinti felülvizsgálata eredményéről, illetve a tagokat delegáló szervezetek új tagok megbízatásáról szóló, a Titkárság felé közölt tájékoztatása időpontjáig áll fenn.”
-
-29. § Az NGTT tv. a következő 12. §-sal egészül ki:
-
-„12. § E törvénynek az egyes törvényeknek a gazdasági növekedéssel összefüggésben történő módosításáról szóló 2015. évi CCXII. törvénnyel megállapított 4. § (2) és (12) bekezdését a 2015. január 1-jén a Tanácsban tagsággal rendelkező tagok megbízatására is alkalmazni kell.”
+27–29. §
 
 #### 9. A polgári perrendtartásról szóló 1952. évi III. törvény, valamint egyéb eljárásjogi és igazságügyi törvények módosításáról szóló 2015. évi CLXXX. törvény módosítása
 
-30. § (1) A polgári perrendtartásról szóló 1952. évi III. törvény, valamint egyéb eljárásjogi és igazságügyi törvények módosításáról szóló 2015. évi CLXXX. törvény 30. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) A 26. § és a 27. § 2016. július 1-jén lép hatályba.”
-
-(2) A polgári perrendtartásról szóló 1952. évi III. törvény, valamint egyéb eljárásjogi és igazságügyi törvények módosításáról szóló 2015. évi CLXXX. törvény 30. §
-
-- a) (1) bekezdésében a „(2) és (3) bekezdésben” szövegrész helyébe a „(2)–(4) bekezdésben” szöveg,
-- b) (3) bekezdésében a „7. § és a 26–29. §” szövegrész helyébe a „7. §, a 28. § és a 29. §” szöveg
-
-lép.
+30. §
 
 31. § A polgári perrendtartásról szóló 1952. évi III. törvény, valamint egyéb eljárásjogi és igazságügyi törvények módosításáról szóló 2015. évi CLXXX. törvény 27. §-ának a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 14. §-át megállapító rendelkezése a „január” szövegrész helyett a „július” szöveggel lép hatályba.
 
