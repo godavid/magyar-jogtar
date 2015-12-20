@@ -109,7 +109,8 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 - i) felelős a Tanács döntéseinek végrehajtásáért;
 - j) felelős a Nemzeti Földalapba tartozó földrészletek naprakész nyilvántartásáért;
 - k) felelős a Nemzeti Földalapba tartozó földrészletek törvényes, szakszerű, hatékony és gazdaságos hasznosításáért;
-- l) meghatározza a rábízott földvagyon számviteli politikáját.
+- l) meghatározza a rábízott földvagyon számviteli politikáját;
+- m) a Tanács titkára.
 
 (2) Az NFA elnöke ellátja továbbá az (1) bekezdésben meghatározottak körében a szervezeti és működési szabályzatban részére meghatározott feladatokat.
 
@@ -120,9 +121,10 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 - c) véleményezi – a középtávú stratégiában és Nemzeti Vidékfejlesztési Tervben megfogalmazott célkitűzések alapján – az NFA által készített, a Nemzeti Földalapba tartozó földrészletek hasznosításával kapcsolatos éves tervet;
 - d) dönt a Nemzeti Földalapba tartozó földrészletek hasznosításával kapcsolatos egyedi ügyekben, ha az annak tárgyát képező földrészlet vagy földrészletek együttes értéke eléri a 100 millió forintot;
 - e) dönt 100 millió forintot, vagy 100 hektár térmértéket elérő földrészlet vagy földrészletek tulajdonjogának az állam javára történő megszerzésével kapcsolatos ügyekben;
-- f) dönt a 21. § (2)–(6) bekezdése szerinti jogügyletekről, ha az annak tárgyát képező földrészlet vagy földrészletek együttes értéke eléri az 1 millió forintot;
+- f) dönt a 20. § (1) és (2) bekezdése, és a 21. § (2), (3), (3a) és (3d), valamint a (4) és (5) bekezdése szerinti jogügyletekről, ha az annak tárgyát képező földrészlet vagy földrészletek együttes ingatlanforgalmi értéke eléri az 1 millió forintot;
 - g) véleményezi Nemzeti Földalap helyzetéről és az NFA tevékenységéről készült éves országgyűlési beszámoló tervezetét.
 - h) az MNV Zrt.-vel közösen dönt a 3. § (3) bekezdés a) és b) pontjában meghatározott ingatlanok hasznosításának módjáról az e törvény végrehajtására kiadott jogszabály szerint.
+- i) javaslatot tesz az NFA elnöke által előterjesztett és a d)–f) és h) pontokba foglalt esetek alá nem tartozó, a földrészletek hasznosításával kapcsolatos kérdésekben.
 
 (2) A Tanács ellátja továbbá az (1) bekezdésben meghatározottak körében a szervezeti és működési szabályzatban részére meghatározott feladatokat.
 
@@ -144,7 +146,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 (2) A Tanács elnöke és tagja (a továbbiakban együtt: tag) magyar állampolgár lehet. A Tanács tagja nem lehet:
 
-- a) országgyűlési, európai parlamenti vagy helyi, nemzetiségi önkormányzati képviselő, nemzetiségi szószóló, megyei közgyűlés tagja, miniszter, polgármester, főpolgármester, alpolgármester, főpolgármester-helyettes;
+- a) országgyűlési, európai parlamenti vagy helyi, nemzetiségi önkormányzati képviselő, nemzetiségi szószóló, miniszter, polgármester, főpolgármester, alpolgármester, főpolgármester-helyettes;
 - b) az ellenőrző bizottságának tagja;
 - c) olyan gazdálkodó szervezet tagja vagy vezető tisztségviselője, illetve olyan magánszemély, vagy ezek jogi képviselője, aki az NFA-val a Nemzeti Földalapba tartozó földrészletet érintően szerződéses viszonyban áll.
 
@@ -194,7 +196,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 (3) Az ellenőrző bizottság tagja magyar állampolgár lehet. Az ellenőrző bizottság tagja nem lehet:
 
-- a) országgyűlési, európai parlamenti vagy helyi, nemzetiségi önkormányzati képviselő, megyei közgyűlés tagja, állami vezető, polgármester, főpolgármester, alpolgármester, főpolgármester-helyettes;
+- a) országgyűlési, európai parlamenti vagy helyi, nemzetiségi önkormányzati képviselő, állami vezető, polgármester, főpolgármester, alpolgármester, főpolgármester-helyettes;
 - b) az NFA elnöke, elnökhelyettese, alkalmazottja;
 - c) a Tanács tagja;
 - d) olyan gazdálkodó szervezet tagja vagy vezető tisztségviselője, vagy olyan magánszemély, illetve ezek jogi képviselője, aki az NFA-val szerződéses viszonyban áll.
@@ -244,6 +246,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 - q) szociális földprogram és közfoglalkoztatási program támogatása;
 - r) pályakezdő agrárvállalkozók és mezőgazdasági vagy erdészeti szakirányú végzettséggel rendelkezők támogatása;
 - s) különleges rendeltetésű (különösen oktatás, kutatás, büntetés-végrehajtás) gazdaságok működéséhez kedvezményes föld biztosítás.
+- t) a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény 4/A. §-a alapján létrehozott szociális szövetkezet részére föld kedvezményes biztosítása.
 
 (4) A földrészletre vonatkozó szabályokat kell alkalmazni a mezőgazdasági termelés célját szolgáló földre, ha
 
@@ -520,7 +523,7 @@ követő napon.
 
 36. § E törvénynek a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény és az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény módosításáról szóló 2013. évi LIX. törvény (a továbbiakban: Módtv.) 1. §-ával megállapított 18. § (1c) bekezdését, 2. §-ával módosított 20. § (2) és (7) bekezdését, 3. § (2) bekezdésével módosított 21. § (6) bekezdését, 5. §-ával módosított 31. §-át a Módtv. hatálybalépésekor fennálló szerződések esetében is alkalmazni kell.
 
-37. §
+37. § Az állami földvagyon kezelésével összefüggő egyes törvények módosításáról szóló 2015. évi CCIV. törvény (a továbbiakban: Mód2tv.) hatálybalépése előtt megkötött és a Mód2tv. hatálybalépésekor fennálló, a Nemzeti Földalapba tartozó földre vonatkozó haszonbérleti szerződésnek hatályát veszti az a szerződési kikötése, amely szerint az állam nevében eljáró szerv a haszonbérlő javára előhaszonbérleti jogot alapít.
 
 38. §
 
