@@ -25,8 +25,10 @@ Az Országgyűlés — eleget téve a honvédelemről szóló 1993. évi CX. tö
 - b) hadifogság: a szolgálat teljesítése közben bekövetkező fogságba ejtés és fogságban tartás, beleértve az idegen haderő által nem katonai szolgálatot teljesítők fogságba ejtését, illetőleg polgári személyek elhurcolását is, valamint ezek időtartamát;
 - c) munkaszolgálat: közérdekű vagy kisegítő munkaszolgálat (beleértve a kényszerű munkaszolgálatot is), továbbá hadi vagy közérdekű munkára, illetőleg légoltalmi szolgálatra történő igénybevétel;
 - d) kötelező katonai előképzés: leventekötelezettség teljesítése;
-- e) légitámadás és hadművelet: az ország területén vagy azon kívül lezajló légitámadás (beleértve a levegőből vagy a levegőben bekövetkező bármely légicsapást), illetőleg a következményeinek felszámolásával kapcsolatos tevékenység, továbbá bármely hadművelet (harci cselekmény);
-- f) visszamaradt robbanóanyag felrobbanása: a háborúból, megszállásból, fegyveres konfliktusokból vagy ezekkel összefüggésben egyéb módon visszamaradt, illetőleg akár a megszállók, akár a magyar fegyveres alakulatok által elhagyott robbanóanyag vagy robbanó szerkezet felrobbanása, kivéve, ha a robbanás hivatásszerűen (tűzszerész) végzett mentesítés során történt;
+- e) légitámadás és hadművelet: Magyarország területét érintő, illetve Magyarország mint hadviselő fél részvételével bekövetkezett
+  - ea) légitámadás, illetve annak következményei felszámolásával kapcsolatos tevékenység vagy
+  - eb) hadművelet – ide értve a hadműveletnek nem minősülő bármely harci cselekményt is –;
+- f) visszamaradt robbanóanyag felrobbanása: Magyarország területét érintő, illetve Magyarország mint hadviselő fél részvételével bekövetkezett háborúból, megszállásból, fegyveres konfliktusokból vagy ezekkel összefüggésben egyéb módon visszamaradt, illetve akár a megszállók, akár a magyar fegyveres alakulatok által elhagyott robbanóanyag vagy robbanó szerkezet felrobbanása, kivéve, ha a robbanás hivatásszerűen (tűzszerész) végzett mentesítés során történt;
 - g) hadieredetű fogyatkozás (hadirokkantak esetében): a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló törvény szerinti egészségkárosodás (a továbbiakban: egészségkárosodás), valamint a szolgálattal össze nem függő egészségkárosodásnak a szolgálat folytán bekövetkező súlyosbodása;
 - h) veszteség: a hadigondozásra való jogosultságot megalapozó bármely hátrány.
 
@@ -167,7 +169,14 @@ V. járadékosztályba sorolt hadirokkant esetén 110%.
 
 ### Volt hadiárva járadéka
 
-14/A. § Azon volt hadiárva, akit 1949. január 1-jét megelőzően nyilvántartásba vettek, de pénzellátását nagykorúvá válása miatt, vagy politikai okból megszüntették vagy szüneteltették, illetve ilyen ellátás iránti kérelmét politikai okból elutasították, továbbá aki ez irányú kérelmét politikai okból elő sem terjesztette egyéb ellátásától függetlenül havi rendszeres járadék illeti meg, amelynek összege az öregségi nyugdíj mindenkori legkisebb összegének 30%-a.
+14/A. § Azon volt hadiárva, akinek igénye 1949. január 1-je előtt bekövetkezett veszteségen alapul, de
+
+- a) a pénzellátását a hadirokkantak és más hadigondozottak ellátásáról szóló 1933. évi VII. törvénycikk 6. § (1) bekezdés h) és i) pontja alapján megszüntették,
+- b) a pénzellátását politikai okból megszüntették vagy szüneteltették,
+- c) a pénzellátás iránti kérelmét politikai okból elutasították vagy
+- d) a pénzellátás iránti kérelmét politikai okból elő sem terjesztette
+
+egyéb ellátásától függetlenül havi rendszeres járadékra jogosult, amelynek összege az öregségi nyugdíj mindenkori legkisebb összegének 30%-a.
 
 ### Hadigondozott családtag járadéka
 
@@ -179,7 +188,14 @@ V. járadékosztályba sorolt hadirokkant esetén 110%.
 
 ### Volt hadigondozott családtag és volt hadigyámolt járadéka
 
-15/A. § Azon volt hadigondozott családtag és volt hadigyámolt, akit 1949. január 1-jét megelőzően nyilvántartásba vettek, de pénzellátását nagykorúvá válása miatt, vagy politikai okból megszüntették vagy szüneteltették, illetve ilyen ellátás iránti kérelmét politikai okból elutasították, továbbá aki ez irányú kérelmét politikai okból elő sem terjesztette egyéb ellátásától függetlenül havi rendszeres járadék illeti meg, amelynek összege az öregségi nyugdíj mindenkori legkisebb összegének 30%-a.
+15/A. § Azon volt hadigondozott családtag és volt hadigyámolt, akinek igénye 1949. január 1-je előtt bekövetkezett veszteségen alapul, de
+
+- a) a pénzellátását a hadirokkantak és más hadigondozottak ellátásáról szóló 1933. évi VII. törvénycikk 6. § (1) bekezdés h) és i) pontja alapján megszüntették,
+- b) a pénzellátását politikai okból megszüntették vagy szüneteltették,
+- c) a pénzellátás iránti kérelmét politikai okból elutasították vagy
+- d) a pénzellátás iránti kérelmét politikai okból elő sem terjesztette
+
+egyéb ellátásától függetlenül havi rendszeres járadékra jogosult, amelynek összege az öregségi nyugdíj mindenkori legkisebb összegének 30%-a.
 
 ### Temetési hozzájárulás
 
@@ -218,9 +234,9 @@ V. járadékosztályba sorolt hadirokkant esetén 110%.
 
 20. § (1) Ha a hadigondozott a részére megállapított és folyósított járadékot önhibájából nem vette fel, visszamenőleges igénye 1 év elteltével elévül.
 
-(2) A hadigondozott haláláig esedékessé vált, fel nem vett és el nem évült járadék, továbbá egyösszegű térítés felvétele tekintetében a társadalombiztosításról szóló 1975. évi II. törvény 102. §-ának (2) bekezdésében foglaltak az irányadók.
+(2) A hadigondozott haláláig esedékessé vált, fel nem vett és el nem évült járadék, továbbá egyösszegű térítés felvételére az elhunyt jogosult által fel nem vett társadalombiztosítási nyugellátásra vonatkozó szabályokat kell alkalmazni.
 
-(3) Szünetelési ok fennállása, illetőleg a jogosultság megszűnése esetén a járadékot az utolsó felvétellel kell szüneteltetni, illetőleg megszüntetni. Ha azonban a hadigondozott részére tévesen fizettek ki járadékot és a kifizetés alaptalanságáról tudomása volt, vagy a téves kifizetést maga idézte elő (rosszhiszeműség), köteles az összeget — legfeljebb azonban háromhavi járadék erejéig — visszafizetni.
+(3) Szünetelési ok fennállása vagy a jogosultság megszűnése esetén a járadékot az utolsó felvétellel kell szüneteltetni vagy megszüntetni. Ha a hadigondozott részére tévesen fizettek ki járadékot és a kifizetés alaptalanságáról tudomása volt, vagy a téves kifizetést maga idézte elő, köteles az összeget visszafizetni.
 
 ### A járadék folyósításának szünetelése, újbóli folyósítása
 
@@ -262,14 +278,18 @@ V. járadékosztályba sorolt hadirokkant esetén 110%.
 
 26. § (1) A hadigondozás iránti kérelem határidő-korlátozás nélkül bármikor előterjeszthető.
 
-(2) A hadigondozotti ügyekben első fokon eljáró hadigondozási hatóság a hadigondozott lakóhelye szerint illetékes fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal), külföldön élő, Magyarországon lakóhellyel, tartózkodási hellyel nem rendelkező magyar állampolgár kérelmező esetében Budapest Főváros Kormányhivatala. A járási hivatal vezetője határozatban dönt:
+(2) A hadigondozotti ügyekben az elsőfokú hadigondozási hatóság a hadigondozott lakóhelye vagy tartózkodási helye szerint illetékes fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala.
 
-- a) a hadigondozási igényjogosultságról, a hadirokkant járadékosztályba sorolásáról és az orvosszakértői szerv szakvéleményében megjelölt gyógyászati segédeszköz, valamint a hadieredetű fogyatkozás megnevezéséről;
-- b) a pénzellátások — beleértve az egyösszegű térítést és a temetési hozzájárulást is — megállapításáról és összegszerűségéről;
-- c) a hadigondozott közgyógyellátásra jogosító igazolványa és a hadigondozotti igazolvány kiadásáról;
+(2a) A (2) bekezdésben foglaltaktól eltérően a külföldön élő, Magyarországon lakóhellyel vagy tartózkodási hellyel nem rendelkező magyar állampolgár kérelmező esetében az elsőfokú hadigondozási hatóság Budapest Főváros Kormányhivatala, a másodfokú hadigondozási hatóság a honvédelemért felelős miniszter.
+
+(2b) Az elsőfokú hadigondozási hatóság határozatban dönt:
+
+- a) a hadigondozási igényjogosultságról, a hadirokkant járadékosztályba sorolásáról és az orvosszakértői szerv szakvéleményében megjelölt gyógyászati segédeszköz, valamint a hadieredetű fogyatkozás megnevezéséről,
+- b) a pénzellátások – beleértve az egyösszegű térítést és a temetési hozzájárulást is – megállapításáról és összegszerűségéről,
+- c) a hadigondozott közgyógyellátásra jogosító igazolványa és a hadigondozotti igazolvány kiadásáról,
 - d) a pénzellátás szüneteltetéséről, megszüntetéséről, valamint a jogalap nélkül felvett pénzellátás visszafizetéséről.
 
-(3) A járási hivatal a hadigondozásba vett személyről a következő nyilvántartást vezeti:
+(3) Az elsőfokú hadigondozási hatóság a hadigondozásba vett személyről a következő nyilvántartást vezeti:
 
 - a) a hadigondozott gondozási minősítését (hadirokkant, hadiözvegy, hadiárva, hadigyámolt, hadigondozott családtag);
 - b) a megállapított ellátást;
@@ -282,9 +302,9 @@ V. járadékosztályba sorolt hadirokkant esetén 110%.
 
 (6) Az e törvény hatálybalépéséig megállapított hadigondozotti minősítések — a jogosultságra kiható változás esetét kivéve — érvényben maradnak, azok felülvizsgálatát csak a jogosult kérésére kell elvégezni.
 
-(7) A járási hivatal határozatát a bíróság megváltoztathatja.
+(7) A másodfokú hadigondozási hatóság határozatát a bíróság megváltoztathatja.
 
-(8) A járási hivatal az egyösszegű térítésre, a hadigondozási járadékra és az egyéb pénzellátásokra való jogosultságot jogerősen megállapító, módosító, megszüntető határozatát megküldi a nyugdíjfolyósító szervnek, amely intézkedik az egyösszegű térítés, illetve a pénzellátás folyósítása iránt.
+(8) Az eljáró hadigondozási hatóság az egyösszegű térítésre, a hadigondozási járadékra és az egyéb pénzellátásokra való jogosultságot jogerősen megállapító, módosító, megszüntető határozatát megküldi a nyugdíjfolyósító szervnek, amely intézkedik az egyösszegű térítés, illetve a pénzellátás folyósítása iránt.
 
 (9) A hadigondozotti járadékot, valamint a temetési hozzájárulást a nyugdíjfolyósító szerv az esedékesség hónapjában a nyugdíjjal egyidejűleg — ennek hiányában önállóan — folyósítja, de a nyugdíjtól elkülönítetten kezeli. A járadéknak a nyugdíjjal kapcsolatos értékhatárokra kihatása nincs.
 
