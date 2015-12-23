@@ -79,6 +79,12 @@ elrendelt – cselekvőképességet kizáró gondnokság alá helyezésről szó
 
 (2) Ha az (1) bekezdés szerinti eljárásban a jogi személy törlésére nem került sor, és az e fejezetben rá irányadó határidő már eltelt, a jogi személy a továbbműködésével összefüggő kötelezettségeit a megszűnési eljárás jogerős befejezésétől számított harminc napon belül köteles teljesíteni.
 
+10/A. § (1) A Ptk. 3:35. §-a alkalmazásában a jogi személy szervei által hozott határozat ellen a Ptk. hatálybalépését követően is csak az a tag vagy alapító kérheti a bíróságtól a határozat hatályon kívül helyezését, aki a határozathozatal során szavazati joggal rendelkezett vagy a határozathozatal tekintetében alapítói jogokat gyakorolhatott. A különleges jogállású, illetve a tagsági, alapítói jogokkal csak részben rendelkező személyek csak az érintettségük esetén és csak annyiban kérhetik a sérelmezett határozat hatályon kívül helyezését, amennyiben az rájuk nézve jogot vagy kötelezettséget állapít meg, ezeket kiterjeszti vagy korlátozza, illetve megszünteti.
+
+(2) A Ptk. 3:35. §-a alkalmazásában a keresetindításra, vagy a jogi személy határozata ellen benyújtott kereset tárgyában meghozott ítélet elleni felülvizsgálat kezdeményezésére való jogosultságnak, kereshetőségi jognak, illetve perbeli legitimációnak (a továbbiakban: keresetindítási jog) a per során folyamatosan, a per befejezéséig – ideértve e rendkívüli jogorvoslatot is – fenn kell állnia. Ha a keresetindítási jogot megalapozó jogviszonyban bekövetkezett változás folytán – a jogutódlás esetét kivéve – a keresetindítási jog megszűnik, a bíróság a pert megszünteti. Ha a pert a másodfokú bíróság vagy a felülvizsgálat során a Kúria szünteti meg, a másodfokú bíróság, illetve a Kúria az elsőfokú bíróság ítéletét, illetve a jogerős ítéletet végzéssel teljes egészében vagy abban a részében, amelyre a megszüntetés oka fennáll, hatályon kívül helyezi.
+
+(3) A Ptk. 3:37. §-ának alkalmazásában a határozat hatályon kívül helyezését kimondó bírósági ítélet hatálya annak jogerőre emelkedésével áll be. A jogi személy szervei által hozott határozat hatályon kívül helyezésének azok meghozatalára visszamenőleges hatállyal történő hatályon kívül helyezésére a Ptk. hatálybalépését követően csak akkor van lehetőség, ha jogszabály a bíróság számára ilyen hatályú határozat meghozatalát lehetővé teszi.
+
 #### 4. Az egyesület és az alapítvány
 
 ### (A Ptk. 3:1–3:48. §-ához, 3:63–3:87. §-ához és 3:378–3:404. §-ához)

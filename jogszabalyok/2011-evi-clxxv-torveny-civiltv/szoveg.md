@@ -438,7 +438,7 @@ kell érteni.
 
 (3) Ha a civil szervezet működésének törvényessége másképpen nem biztosítható, az ügyész törvényességi ellenőrzési jogkörében eljárva keresettel a bírósághoz fordulhat. A bíróság a keresetet megvizsgálja és szükség esetén
 
-- a) megsemmisíti a civil szervezet bármely szervének törvénysértő határozatát, és szükség szerint új határozat meghozatalát rendeli el,
+- a) hatályon kívül helyezi a civil szervezet bármely szervének törvénysértő határozatát, és szükség szerint új határozat meghozatalát rendeli el,
 - b) a működés törvényességének helyreállítása érdekében összehívja a döntéshozó szervet, vagy határidő tűzésével a törvényes működés helyreállítására kötelezi a döntéshozó szervet, és minderről értesíti a civil szervezetnél választott felügyelő szervet is,
 - c) ha a törvényes működés nem állítható helyre vagy a b) pont szerinti határidő eredménytelenül telt el, a civil szervezetet megszünteti.
 
@@ -464,7 +464,7 @@ kell érteni.
 
 (6) A civil szervezet – feloszlatása, megszüntetése vagy megszűnésének megállapítása esetén – a nyilvántartásból való törlésről rendelkező bírósági határozat jogerőre emelkedésének napjával szűnik meg.
 
-(7) Az ügyész a civil szervezet szervének törvénysértő határozatának megsemmisítésére a (3) bekezdés a) pontja szerinti keresetlevelet a határozat meghozatalától számított egy éven belül nyújthatja be.
+(7) Az ügyész a civil szervezet szervének törvénysértő határozatának hatályon kívül helyezésére a (3) bekezdés a) pontja szerinti keresetlevelet a határozat meghozatalától számított egy éven belül nyújthatja be.
 
 #### 4.
 
@@ -1188,6 +1188,10 @@ rendeletben szabályozza.
 (4) E törvény 27–29. §-ait először a 2012. évben kezdődő üzleti évről készített beszámolóra kell alkalmazni.
 
 (5) Az e törvény hatálybalépése előtt nyilvántartásba vett közhasznú, illetve kiemelkedően közhasznú jogállás esetében a számviteli beszámolót letétbe helyezett szervezet 2014. május 31. napjáig továbbra is igénybe veheti az e törvény hatálybalépése előtt megszerzett, valamint a jogszabályok által számára biztosított kedvezményeket, jogállása közhasznú. Az e törvény hatálybalépése előtt nyilvántartásba vett közhasznú, illetve kiemelkedően közhasznú jogállású szervezet az e törvény szerinti feltételeknek való megfelelése esetén 2014. május 31. napjáig kezdeményezheti az e törvénynek megfelelő közhasznúsági nyilvántartásba vételét. 2014. június 1. napjától csak az e törvény szerint közhasznúsági nyilvántartásba vett szervezet jogosult a közhasznú megjelölés használatára és a közhasznú jogálláshoz kapcsolódó kedvezmények igénybevételére. 2014. június 1. napjától a szervezet nyilvántartására illetékes szerv törli az e törvény hatálybalépése előtt nyilvántartásba vett közhasznú, illetve kiemelkedően közhasznú jogállású szervezetek közhasznú jogállását, kivéve ha a szervezet igazolja, hogy az e törvény szerinti közhasznúsági nyilvántartásba vétel iránt kérelmét benyújtotta, és a bíróság megállapítja, hogy a szervezet a törvényi feltételeknek megfelel.
+
+(5a) Az (5) bekezdés szerint benyújtott, az egyes közjogi jogi személyekkel összefüggő törvények módosításáról szóló 2015. évi CCXVIII. törvény hatálybalépését követően elutasított közhasznúsági nyilvántartásba vételi kérelem esetén a szervezet közhasznú jogállása a határozat jogerőre emelkedése napjával szűnik meg, és a szervezet, valamint a szervezet által támogatásban részesített személyek ennek az adóévnek az utolsó napjáig jogosultak a megszerzett, valamint a jogszabályok által a közhasznú jogállású szervezetekkel összefüggő kedvezmények igénybevételére.
+
+(5b) Azon szervezet esetében, amelynek az (5) bekezdés szerinti közhasznúsági nyilvántartásba vételi kérelmét a bíróság az egyes közjogi jogi személyekkel összefüggő törvények módosításáról szóló 2015. évi CCXVIII. törvény hatálybalépésének napját megelőzően jogerősen elutasította, a közhasznú jogállású szervezetek, valamint az általuk nyújtott támogatások kedvezményezettjei számára biztosított kedvezmények igénybevételével összefüggő rendelkezéseket úgy kell értelmezni, mintha a szervezet közhasznú jogállása a bírósági határozat jogerőre emelkedésének napjával, illetve adójogszabályok esetében a szervezet közhasznú jogállása a bírósági határozat jogerőre emelkedése évének utolsó napján szűnt volna meg.
 
 (6) A 2012. január 1. napja előtt indított és folyamatban lévő közhasznúsági nyilvántartásba vétel iránti eljárásokra a 2011. december 31. napján hatályos szabályok irányadóak azzal, hogy kiemelkedően közhasznú jogállás nem állapítható meg, az eljárást úgy kell lefolytatni, hogy annak eredményeként közhasznú jogállás vehető nyilvántartásba. E rendelkezés miatt módosuló eljárások változásáról a nyilvántartásba vételre illetékes szerv értesíti a kérelmezőt.
 
