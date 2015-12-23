@@ -674,7 +674,7 @@ folytatja le.
 
 (4) Ha a kamara működésének törvényessége másképpen nem állítható helyre, a miniszter bírósághoz fordul. A bíróság
 
-- a) megsemmisítheti a kamara testületi szervének jogsértő határozatát, és új határozat hozatalát rendelheti el,
+- a) hatályon kívül helyezheti a kamara testületi szervének jogsértő határozatát, és új határozat hozatalát rendelheti el,
 - b) felfüggesztheti a kamara testületi szerveinek és tisztségviselőinek működését, és a kamara irányítására – a felfüggesztés tartamára – felügyelő biztost rendelhet ki.
 
 (5) A felügyelő biztos köteles a működés törvényességének helyreállítása céljából haladéktalanul összehívni a kamara küldöttgyűlését. Ha a küldöttgyűlés a működés törvényességét helyreállítja, a kamara más testületi szervének és tisztségviselőinek működése sem függeszthető fel tovább.

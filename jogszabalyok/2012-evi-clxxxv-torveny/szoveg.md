@@ -64,6 +64,8 @@ Az Országgyűlés a környezet és az emberi egészség védelme, a környezett
 - 25. hulladékfajta: az az anyagfajta – így különösen fa, fém, papír, üveg, kompozit, műanyag, biológiailag lebomló –, amelyből az adott hulladék képződik;
 - 26. hulladékgazdálkodás: a hulladék gyűjtése, szállítása, kezelése, az ilyen műveletek felügyelete, a kereskedőként, közvetítőként vagy közvetítő szervezetként végzett tevékenység, a hulladékgazdálkodási létesítmények és berendezések üzemeltetése, valamint a hulladékkezelő létesítmények utógondozása;
 - 27. hulladékgazdálkodási közszolgáltatás: a közszolgáltatás körébe tartozó hulladék átvételét, gyűjtését, elszállítását, kezelését, valamint a hulladékgazdálkodási közszolgáltatással érintett hulladékgazdálkodási létesítmény fenntartását, üzemeltetését biztosító, kötelező jelleggel igénybe veendő szolgáltatás;
+- 27a. önkormányzati hulladékgazdálkodási közfeladat: a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 13. § (1) bekezdés 19. pontja szerinti közfeladat az önkormányzat közigazgatási területén a hulladékgazdálkodási közszolgáltatás helyi szintű részletszabályainak meghatározása, valamint a hulladékgazdálkodási közszolgáltató kiválasztása, a közszolgáltatási szerződés megkötése;
+- 27b. állami hulladékgazdálkodási közfeladat: a hulladékgazdálkodási közszolgáltatás országos szintű megszervezése.
 - 28. hulladékgazdálkodási létesítmény: a hulladékgazdálkodási tevékenységek végzését biztosító telephely, ingatlan, továbbá a telephelyen, ingatlanon belül vagy közterületen kialakított elkülönített terület, amely magában foglalja a hulladékgazdálkodás végzéséhez szükséges építményeket, így különösen a környezet biztonságát szolgáló építményeket, kiszolgáló helyiségeket, gyűjtőhelyeket, valamint a hulladékkezelő létesítményeket;
 - 29. hulladékjelleg: a hulladék veszélyes vagy nem veszélyes jellemzője;
 - 30. hulladékolaj: bármely ásványi vagy szintetikus kenőolaj vagy ipari olaj, amely az eredeti rendeltetési célra tovább nem használható, így különösen a használt motorolaj és sebességváltó-olaj, kenőolaj, turbinaolaj és hidraulikaolaj;
@@ -422,6 +424,33 @@ kötheti.
 
 ### V. Fejezet — A HULLADÉKGAZDÁLKODÁSI KÖZSZOLGÁLTATÁSRA VONATKOZÓ ÁLTALÁNOS SZABÁLYOK
 
+#### 17/A. Az állami hulladékgazdálkodási közfeladatra vonatkozó rendelkezések
+
+32/A. § (1) Az állami hulladékgazdálkodási közfeladat keretében az állam
+
+- a) meghatározza a hulladékgazdálkodás országos céljait, melyek a 73. § (1) bekezdése szerinti e törvényben megállapított céloknak minősülnek,
+- b) meghatározza a hulladékgazdálkodás fejlesztésének irányait,
+- c) ellátja az önkormányzatok közötti és a regionális koordinációt,
+- d) elkészíti az Országos Hulladékgazdálkodási Közszolgáltatási Tervet, amely többek között meghatározza a közszolgáltatás ellátásának optimális területi lehatárolását és az adott területen minimálisan ellátandó közszolgáltatási feladatokat,
+- e) megállapítja, hogy a hulladékgazdálkodási közszolgáltatási rendszerelem fejlesztése megfelel-e az Országos Hulladékgazdálkodási Közszolgáltatási Tervnek,
+- f) megállapítja, hogy a közszolgáltató tevékenysége megfelel-e az Országos Hulladékgazdálkodási Közszolgáltatási Tervben foglaltaknak, és arról véleményt állít ki (a továbbiakban: megfelelőségi vélemény).
+
+(2) Az állam az (1) bekezdés szerinti feladatainak ellátására koordináló szervezetet (a továbbiakban: Koordináló szerv) hoz létre.
+
+(3) A Koordináló szerv az érintett közigazgatási szervezetnek javaslatot tesz a hulladékgazdálkodási közszolgáltatás
+
+- a) állami támogatásainak felhasználására,
+- b) közszolgáltatási területek szerinti lehatárolására, és
+- c) szabályozására.
+
+(4) A helyi közszolgáltató, a települési önkormányzat, valamint a hulladékgazdálkodási létesítmény tulajdonosa megad minden adatot és információt, ami a Koordináló szerv feladatkörének gyakorlásához szükséges. A Koordináló szerv kezelheti és részére átadhatók az e bekezdésben és a 38. § (3) bekezdésében meghatározott adatok.
+
+(5) A (4) bekezdésben meghatározott adatok közül a személyes adatokat a Koordináló szerv az állami hulladékgazdálkodási közfeladat ellátása érdekében kezelheti, nyilvántarthatja. A Koordináló szerv jogosult a számlázási, díjbeszedési, valamint a díjhátralék-kezelési feladatkörében a személyes adatok körére vonatkozó csoportos adatszolgáltatást kérni a járási hivatal illetékes szervétől. Az ennek alapján átvett személyes adatokat a Koordináló szerv az érintettnek a közszolgáltatás igénybevételére vonatkozó kötelezettsége megszűnéséig, a közszolgáltatással összefüggő díjhátralék esetén annak kifizetéséig (behajtásáig) vagy törléséig kezelheti.
+
+(6) A Koordináló szervvel kapcsolatos állami irányítási és tulajdonosi feladatokat a hulladékgazdálkodási közszolgáltatási díj megállapításáért felelős miniszter látja el.
+
+(7) A Koordináló szerv kijelöléséről, részletes feladatairól, valamint a (4) bekezdésben meghatározott adatszolgáltatás – személyes adatokat nem tartalmazó – tartalmáról és rendjéről e törvény felhatalmazása alapján kiadott kormányrendelet rendelkezik. A közszolgáltató, a települési önkormányzat, valamint a hulladékgazdálkodási létesítmény tulajdonosa az e törvény végrehajtására kiadott rendeletben foglaltak szerint a Koordináló szerv által megjelölt tartalommal, formában és határidőn belül eleget tesz adatszolgáltatási kötelezettségének. Ha a közszolgáltató a szolgáltatási díj meghatározásához szükséges adatszolgáltatási kötelezettséget nem vagy nem megfelelően teljesíti, a Koordináló szerv a szolgáltatási díjat a megfelelő adatszolgáltatásig nem fizeti ki.
+
 #### 18. A települési önkormányzatra vonatkozó szabályok
 
 33. § (1) A települési önkormányzat a hulladékgazdálkodási közszolgáltatás ellátását a közszolgáltatóval kötött hulladékgazdálkodási közszolgáltatási szerződés útján biztosítja.
@@ -596,9 +625,11 @@ kötheti.
 
 (5) Ha a közszolgáltató a Hivatal által kiadott határozatban vagy az e törvény végrehajtására kiadott miniszteri rendeletben foglalt határidőn belül nem nyújt tájékoztatást vagy szolgáltat adatot, a Hivatal a tájékoztatás, adatszolgáltatás hiányában is javaslatot tehet a miniszter részére.
 
-(6)–(8)
+(6) A miniszter rendeletben állapítja meg a beszedett közszolgáltatási díj felosztásának elvét. A miniszter a Koordináló szerv javaslatának figyelembevételével rendeletben állapítja meg a Koordináló szerv által fizetendő szolgáltatási díjat.
 
-47/B. § (1) Az a közszolgáltató, amely működését a 47/A. § (1) bekezdése szerinti miniszteri rendelet hatálybalépését követően kezdi meg, a Hivatal által határozatban megállapított hulladékgazdálkodási közszolgáltatási díjat alkalmazhatja.
+(7)–(8)
+
+47/B. § (1) Azon közszolgáltató tekintetében, amely működését a 47/A. § (1) bekezdése szerinti miniszteri rendelet hatálybalépését követően kezdi meg, a Hivatal által határozatban megállapított hulladékgazdálkodási közszolgáltatási díjat szedi be a Koordináló szerv. Az ilyen közszolgáltató tekintetében a miniszteri rendeletben az adott közszolgáltatási területre vonatkozó szolgáltatási díjat kell alkalmazni.
 
 (2) A közszolgáltató a Hivatalhoz benyújtott kérelmében részletesen és teljeskörűen alátámasztja, hogy mely körülmények és mely tényezők milyen mértékben indokolják az alkalmazandó hulladékgazdálkodási közszolgáltatási díj nagyságát, figyelemmel az adott településen korábban alkalmazott hulladékgazdálkodási közszolgáltatási díjra.
 
@@ -1182,7 +1213,10 @@ jogsértés esetén nem mérsékelhető.
 - 29. a hulladékstátusz megszűnésének megállapítására vonatkozó részletes kritériumokat, valamint a hulladékstátusz megszűnésével kapcsolatos tanúsítás rendjét, a tanúsításra jogosult szervezetekre vonatkozó szabályokat;
 - 30. a hulladéklerakási járulékból befolyt összeg felhasználásának céljait és szabályait;
 - 31. az elkülönített hulladékgyűjtésre vonatkozó részletes szabályokat;
-- 32. az egyes hulladékgazdálkodási létesítmények kialakításának és üzemeltetésének részletes szabályait, valamint az üzemnapló vezetésével kapcsolatos részletes szabályokat.
+- 32. az egyes hulladékgazdálkodási létesítmények kialakításának és üzemeltetésének részletes szabályait, valamint az üzemnapló vezetésével kapcsolatos részletes szabályokat;
+- 33. a Koordináló szerv kijelölésének módját, részletes feladatkörét, a koordinációjával és az erőforrás-gazdálkodásával összefüggő szabályokat;
+- 34. az Országos Hulladékgazdálkodási Közszolgáltatási Tervre vonatkozó részletes szabályokat, e körben a közszolgáltatási területek lehatárolásának részletes szabályait;
+- 35. a Koordináló szerv adatkezelésének részletes szabályait, továbbá a közszolgáltató, a települési önkormányzat, valamint a hulladékgazdálkodási létesítmény tulajdonosa adatszolgáltatási kötelezettségének részletes szabályait.
 
 (2) Felhatalmazást kap a környezetvédelemért felelős miniszter, hogy rendeletben állapítsa meg:
 
@@ -1209,6 +1243,9 @@ jogsértés esetén nem mérsékelhető.
   - bc) a Hivatal miniszter részére történő adatszolgáltatási kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat,
   - bd)
   - be) a Hivatal hulladékgazdálkodási közszolgáltatási díjra vonatkozó javaslattételi kötelezettségének időpontjára, rendjére, módjára, tartalmára vonatkozó részletes szabályokat,
+  - bf) a Koordináló szerv részére történő adatszolgáltatás tartalmát és rendjét,
+  - bg) a díjhátralék kezelésére vonatkozó részletszabályokat,
+  - bh) a szolgáltatási díjat, a díjalkalmazási feltételeket, a díjmegfizetés rendjét, a közszolgáltatási díj felosztásának elvét,
 
 rendeletben állapítsa meg.
 
@@ -1335,6 +1372,8 @@ esetében, ha a szolgáltatás után a fenntartó a központi költségvetésrő
 (4) Az OMP-t első alkalommal 2013. december 12-ig kell kidolgozni, amelyben meg kell határozni a hulladékképződés megelőzése, továbbá a gazdasági növekedés és az ebből eredő hulladékképződés által okozott környezeti hatások megszüntetésének érdekében a 2020. évre elérendő célokat, valamint az intézkedések és az eredmények nyomon követését, értékelését szolgáló minőségi és mennyiségi referenciaszinteket, illetve mutatókat.
 
 92/A. § Azon közszolgáltató, amely az egyes közszolgáltatási tárgyú törvények módosításáról szóló 2014. évi XLI. törvény hatálybalépéséig három hónapnál ritkábban állított ki számlát, az egyes közszolgáltatási tárgyú törvények módosításáról szóló 2014. évi XLI. törvény hatálybalépését követő két hónapon belül a díjfizetéssel nem rendezett időszak vonatkozásában számla kibocsátására köteles.
+
+92/B. § Az Országos Hulladékgazdálkodási Közszolgáltatási Tervben, amelyet első alkalommal 2016. március 31-ig kell kidolgozni, meg kell határozni a hulladékgazdálkodási közszolgáltatás országos céljait, a hulladékgazdálkodási közszolgáltatás fejlesztésének irányait; a hulladékgazdálkodási közszolgáltatás ellátásának optimális területi lehatárolását és az adott területen minimálisan ellátandó közszolgáltatási feladatokat; az infrastrukturális erőforrások optimális használatának rendszerét.
 
 #### 41. Az Európai Unió jogának való megfelelés
 

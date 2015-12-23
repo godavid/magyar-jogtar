@@ -763,7 +763,7 @@ illetékességi területén.
 
 (5) Ha a bíróság a (3) bekezdés alapján indított eljárás eredményeként a jogszabálysértést megállapítja,
 
-- a) az iránymutatást, szervezeti és működési szabályzatot, illetőleg az önkormányzati szerv határozatát megsemmisítheti,
+- a) az iránymutatást, szervezeti és működési szabályzatot, illetőleg az önkormányzati szerv határozatát hatályon kívül helyezheti,
 - b) a törvényes működés helyreállítása érdekében elrendelheti a jogszabálysértően működő önkormányzati szerv választására jogosult önkormányzati szerv, illetve a kamarai tagok összehívását,
 - c) a jogszabálysértő önkormányzati szerv működését felfüggesztheti, és ellenőrzésére – a kamarai tagok közül – felügyelőbiztost rendelhet ki, feltéve, hogy a kamara működésének törvényessége másképpen nem biztosítható.
 

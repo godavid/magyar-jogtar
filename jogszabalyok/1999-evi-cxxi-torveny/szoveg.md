@@ -425,7 +425,7 @@ Az állam gazdasági szerepvállalásának csökkentéséhez szükség van a gaz
 
 (3) Ha a gazdasági kamara működésének törvényessége másképpen nem biztosítható, az ügyészség törvényességi ellenőrzési jogkörében eljárva keresettel bírósághoz fordulhat. A bíróság
 
-- a) megsemmisíti a kamara törvénysértő határozatát, és szükség szerint új határozat meghozatalát rendeli el;
+- a) hatályon kívül helyezi a kamara törvénysértő határozatát, és szükség szerint új határozat meghozatalát rendeli el;
 - b) a működés törvényességének helyreállítása érdekében összehívja a kamara küldöttgyűlését;
 - c) ismételt vagy súlyos törvénysértés esetén a kamarának vagy a kamara egyes szerveinek működését felfüggeszti, egyidejűleg – a törvénysértő állapot megszüntetésének időtartamára – felügyelőbiztost jelöl ki. A bíróság meghatározza a felügyelőbiztos feladatát, a törvényes állapot helyreállítására határidőt állapít meg, szükség szerint új felügyelőbiztost nevezhet ki a korábbi felügyelőbiztos felmentése mellett. A felügyelőbiztos tevékenységével okozott kárért a polgári jog szabályai szerint felel;
 - d) amennyiben a törvényes működés másként nem biztosítható, a kamarát – az országos gazdasági kamara kivételével – feloszlatja.

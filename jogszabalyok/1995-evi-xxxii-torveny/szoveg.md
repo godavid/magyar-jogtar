@@ -757,7 +757,7 @@ a szabadalmi ügyvivőkről
 
 (3) A bíróság a Szellemi Tulajdon Nemzeti Hivatala elnökének keresete alapján
 
-- a) megsemmisítheti a Kamara jogszabálysértő szabályzatát, illetve jogszabályba vagy saját szabályzatába ütköző határozatát, és szükség szerint új szabályzat kiadását vagy új határozat meghozatalát rendelheti el;
+- a) hatályon kívül helyezheti a Kamara jogszabálysértő szabályzatát, illetve jogszabályba vagy saját szabályzatába ütköző határozatát, és szükség szerint új szabályzat kiadását vagy új határozat meghozatalát rendelheti el;
 - b) a működés törvényességének helyreállítása céljából összehívhatja a Kamara közgyűlését.
 
 ### Záró rendelkezések
