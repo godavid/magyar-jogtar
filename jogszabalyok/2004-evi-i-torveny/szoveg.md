@@ -788,7 +788,7 @@ felelős szakmai tagozatok működnek.
 
 (2) Ha a működés törvényessége másképpen nem biztosítható, az ügyész keresettel a bírósághoz fordulhat. Az ügyész által indított perek a Fővárosi Törvényszék hatáskörébe tartoznak. A Fővárosi Törvényszék az ügyész keresete alapján szükség esetén:
 
-- a) megsemmisítheti a MOB bármely szervének törvénysértő határozatát, és szükség szerint új határozat meghozatalát rendelheti el,
+- a) hatályon kívül helyezheti a MOB bármely szervének törvénysértő határozatát, és szükség szerint új határozat meghozatalát rendelheti el,
 - b) a működés törvényességének helyreállítása céljából összehívhatja a MOB közgyűlését, vagy határidő tűzésével a törvényes működés helyreállítására kötelezheti a közgyűlést, és minderről értesíti a MOB-nál választott felügyelőbizottságot is,
 - c) ismételt vagy súlyos törvénysértés esetén, vagy ha a MOB-nak nincs szabályosan megválasztott ügyintéző és képviseleti szerve, vagy az a törvénysértő állapot megszüntetéséhez szükséges intézkedéseket nem teszi meg, a MOB-nak vagy egyes szerveinek működését felfüggeszti, egyidejűleg – a törvénysértő állapot megszüntetésének időtartamára, de legfeljebb a kijelöléstől számított kilencven napra – felügyelő biztost jelöl ki.
 

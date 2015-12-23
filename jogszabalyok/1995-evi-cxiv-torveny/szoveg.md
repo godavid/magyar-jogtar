@@ -746,7 +746,7 @@ területén.
 
 (4) Ha bíróság a (3) bekezdés alapján indított eljárás során a jogsértést megállapítja,
 
-- a) a jogsértő alapszabályt, szabályzatot, iránymutatást vagy meghozott egyéb döntést megsemmisíti és új döntés meghozatalát rendeli el,
+- a) a jogsértő alapszabályt, szabályzatot, iránymutatást vagy meghozott egyéb döntést hatályon kívül helyezi és új döntés meghozatalát rendeli el,
 - b) a működés törvényességének helyreállítása céljából elrendeli a jogsértés orvoslására vagy a jogsértően működő kamarai szerv, tisztségviselő választására jogosult kamarai szerv összehívását, vagy
 - c) felfüggeszti a kamara jogsértően működő szervének, tisztségviselőjének működését, a felfüggesztés időtartamára felügyelőbiztost rendel ki és annak a törvényesség helyreállításához szükséges feladatait előírja.
 

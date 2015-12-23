@@ -541,7 +541,7 @@ Az MKK Országos Közgyűlésének és Területi tisztségviselők és bizottsá
 
 (5) Ha az MKK működésének törvényessége másképpen nem biztosítható, az ügyész törvényességi ellenőrzési jogkörében eljárva keresettel bírósághoz fordulhat. A bíróság
 
-- a) megsemmisíti az MKK törvénysértő határozatát, és szükség szerint új határozat meghozatalát rendeli el;
+- a) hatályon kívül helyezi az MKK törvénysértő határozatát, és szükség szerint új határozat meghozatalát rendeli el;
 - b) a működés törvényességének helyreállítása érdekében összehívja az Országos Közgyűlést és a Területi Közgyűlést;
 - c) ismételt vagy súlyos törvénysértés esetén az MKK egyes szerveinek működését felfüggeszti.
 

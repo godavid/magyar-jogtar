@@ -268,7 +268,7 @@ Az ügyvezető igazgató feladatait az MSZT elnökének irányításával, a kö
 
 A bíróság
 
-- a) megsemmisíti az MSZT testületi szervének jogsértő határozatát és új határozat hozatalát rendeli el,
+- a) hatályon kívül helyezi az MSZT testületi szervének jogsértő határozatát és új határozat hozatalát rendeli el,
 - b) felfüggesztheti az MSZT testületi szerveinek és tisztségviselőinek működését, és irányítására — a felfüggesztés tartamára — felügyelő biztost rendelhet ki.
 
 (5) A felügyelő biztos köteles a működés törvényességének helyreállítása céljából haladéktalanul összehívni az MSZT közgyűlését. Ha a közgyűlés a működés törvényességét helyreállítja, az MSZT más testületi szerveinek és tisztségviselőinek működése sem függeszthető fel tovább.

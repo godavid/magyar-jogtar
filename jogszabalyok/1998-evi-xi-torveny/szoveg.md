@@ -1869,7 +1869,7 @@ kell érteni.
 
 (3) A kérelemről a bíróság legkésőbb a kérelem beérkezésétől számított 8 napon belül végzéssel határoz, a végzés ellen annak közlésétől számított 3 napon belül fellebbezésnek van helye. A bíróság a fellebbezést 8 napon belül bírálja el.
 
-(4) Ha a Magyar Ügyvédi Kamara határozata közzétételének feltételei nem állnak fenn, a bíróság végzésében a határozatot megsemmisíti, ez azonban nem érinti az addig megtett határozatok, intézkedések és okiratok érvényességét és hatályosságát.
+(4) Ha a Magyar Ügyvédi Kamara határozata közzétételének feltételei nem állnak fenn, a bíróság végzésében a határozatot hatályon kívül helyezi, ez azonban nem érinti az addig megtett határozatok, intézkedések és okiratok érvényességét és hatályosságát.
 
 ### XVIII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

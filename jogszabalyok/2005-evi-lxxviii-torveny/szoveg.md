@@ -658,7 +658,7 @@ választ 5 éves időtartamra.
 
 (3) A bíróság nemperes eljárásban dönt. A bíróság
 
-- a) megsemmisíti a Testület testületi szervének jogsértő határozatát és szükség esetén új eljárás lefolytatását rendeli el, vagy
+- a) hatályon kívül helyezi a Testület testületi szervének jogsértő határozatát és szükség esetén új eljárás lefolytatását rendeli el, vagy
 - b) a jogsértés megszüntetéséig felfüggeszti a Testület egyes testületi szerveinek és tisztségviselőinek működését, és egyidejűleg a Testület irányítására felügyelőbiztost rendel ki.
 
 (4) A felügyelőbiztos köteles a működés törvényességének helyreállítása céljából haladéktalanul összehívni a Testület közgyűlését.
