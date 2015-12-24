@@ -43,7 +43,7 @@ az ügyvédekről
 - g) külön törvényben szabályozott közvetítői eljárásban, illetve büntető ügyekben folytatott közvetítői tevékenység,
 - h) a cég – általa készített – létesítő okiratának és e cég bejegyzési (változásbejegyzési) kérelme további mellékleteinek elektronikus okirati formába alakítása,
 - h)
-- i) külön törvényben szabályozott közbeszerzési békéltetői tevékenység, valamint hivatalos közbeszerzési tanácsadói tevékenység,
+- i) felelős akkreditált közbeszerzési szaktanácsadói tevékenység,
 - j) bejelentővédelmi ügyvédi tevékenység.
 - k)
 

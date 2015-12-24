@@ -287,7 +287,7 @@ vonatkozó feltételek.
 16. § (1) Gazdálkodó szervezet
 
 - a) a „Bizalmas!” vagy annál magasabb minősítési szintű adat felhasználásával járó, és
-- b) a közbeszerzésekről szóló törvény szerinti, a minősített adatot, illetőleg az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy különleges biztonsági intézkedést igénylő beszerzési eljáráson csak akkor vehet részt, ha az iparbiztonsági ellenőrzését végrehajtották és a Nemzeti Biztonsági Felügyelet a megfelelő szintű telephely biztonsági tanúsítványt részére kiállította. Az iparbiztonsági ellenőrzés végrehajtását a minősített adatot kezelő szerv vagy a gazdálkodó szervezet a Nemzeti Biztonsági Felügyeletnél kezdeményezi.
+- b) a közbeszerzésekről szóló 2015. évi CXLIII. törvény 9. § (1) bekezdés a)–b) pontja szerinti, minősített adat átadásával járó beszerzési eljáráson csak akkor vehet részt, ha az iparbiztonsági ellenőrzését végrehajtották és a Nemzeti Biztonsági Felügyelet a megfelelő szintű telephely biztonsági tanúsítványt részére kiállította. Az iparbiztonsági ellenőrzés végrehajtását a minősített adatot kezelő szerv vagy a gazdálkodó szervezet a Nemzeti Biztonsági Felügyeletnél kezdeményezi.
 
 (2) Az iparbiztonsági ellenőrzés
 
