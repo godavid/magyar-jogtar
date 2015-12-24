@@ -16,7 +16,7 @@ Az Országgyűlés a gazdasági, társadalmi és területi kohézió megerősít
 
 #### 2. Tagság
 
-2. § A Rendelet 3. cikk (1) bekezdése alkalmazásában Magyarország tekintetében európai területi társulásban tagként a közbeszerzésekről szóló 2011. évi CVIII. törvény (a továbbiakban: Kbt.) 6. § (1) bekezdés a)–f) pontja szerinti, jogi személyiséggel rendelkező szervezet vehet részt.
+2. § A Rendelet 3. cikk (1) bekezdése alkalmazásában Magyarország tekintetében európai területi társulásban tagként a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) 5. § (1) bekezdése szerinti, jogi személyiséggel rendelkező szervezet vehet részt.
 
 #### 3. Tevékenység
 
@@ -40,7 +40,7 @@ Az Országgyűlés a gazdasági, társadalmi és területi kohézió megerősít
 
 (2) A jóváhagyás a Rendelet 4. cikk (3) bekezdésében szabályozott eseteken túl akkor tagadható meg, ha
 
-- a) a Kbt. 6. § (1) bekezdés a) és b) pontja szerinti kérelmező – ide nem értve az államot és a b) és c) pontban meghatározott kérelmezőt – nem rendelkezik felettes szervi hozzájárulással arra vonatkozóan, hogy az egyezménytervezet szerinti európai területi társulásban tagként részt vehet,
+- a) a Kbt. 5. § (1) bekezdés a)–c) pontja szerinti kérelmező – ide nem értve az államot és a jelen bekezdés b) és c) pontjában meghatározott kérelmezőt – nem rendelkezik felettes szervi hozzájárulással arra vonatkozóan, hogy az egyezménytervezet szerinti európai területi társulásban tagként részt vehet,
 - b) a kérelmező országos nemzetiségi önkormányzati költségvetési szerv, helyi önkormányzati költségvetési szerv, helyi nemzetiségi önkormányzati költségvetési szerv és nem rendelkezik a képviselő-testület vagy a közgyűlés hozzájárulásával arra vonatkozóan, hogy az egyezménytervezet szerinti európai területi társulásban tagként részt vehet, vagy
 - c) a kérelmező helyi vagy nemzetiségi önkormányzat és nem rendelkezik az egyezménytervezet szerinti európai területi társulásban való részvételről szóló képviselő-testületi, közgyűlési döntéssel.
 

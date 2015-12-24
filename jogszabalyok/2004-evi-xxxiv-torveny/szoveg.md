@@ -146,7 +146,7 @@ Az Országgyűlés a magyar gazdaság döntő részét kitevő, a foglalkoztatot
 - d) a jogsértésre a személyeknek koruk, hiszékenységük, szellemi vagy fizikai fogyatkozásuk miatt különösen kiszolgáltatott, egyértelműen azonosítható csoportjához tartozó személlyel szemben került sor,
 - e) a vállalkozás megsérti a békéltető testületi eljárásban fennálló, a fogyasztóvédelemről szóló 1997. évi CLV. törvény 29. § (11) bekezdésében meghatározott együttműködési kötelezettségét.
 
-13. § Az elkülönített állami pénzalap és a központi költségvetésben meghatározott célelőirányzat kezelője, a Magyar Nemzeti Bank elnöke, valamint a Közbeszerzések Tanácsának elnöke minden év június 30-áig – az előző év adatai alapján – összesített adatokat szolgáltat a miniszter részére a KKV-k részesedéséről a támogatásokból, a vállalkozói hitelekből és a közbeszerzésekből.
+13. § Az elkülönített állami pénzalap és a központi költségvetésben meghatározott célelőirányzat kezelője, a Magyar Nemzeti Bank elnöke, valamint a Közbeszerzési Hatóság elnöke minden év június 30-ig – az előző év adatai alapján – összesített adatokat szolgáltat a miniszter részére a KKV-k részesedéséről a támogatásokból, a vállalkozói hitelekből és a közbeszerzésekből.
 
 14. § A Központi Statisztikai Hivatal (a továbbiakban: KSH) elnöke, az állami adóhatóság minden év szeptember 30-áig – az előző év adatai alapján – adatot szolgáltat a miniszter részére a KKV szektor helyzetéről és gazdálkodásáról a foglalkoztatottak létszáma szerinti alábbi bontásban:
 

@@ -98,7 +98,12 @@ Az országos közúthálózat üzemeltetése, fenntartása és fejlesztése, a f
 
 (5) Az útdíjszolgáltató az útdíj beszedésével kapcsolatos műveletek során a szerződött díjfizetővel az UD rendszerhez való hozzáférésre vonatkozó szerződésben meghatározott, az e törvény hatálya alá tartozó gépjárművek útdíjköteles elemi útszakaszokon történő közlekedésére vonatkozóan az útdíjszedő részére az útdíjszedővel fennálló szerződésének megfelelő módon és gyakorisággal bevallást nyújt be, továbbá az útdíjszedő által a (4) bekezdés alapján megállapított útdíjat az útdíjszedőnek megfizeti. Az útdíjszolgáltató jogosult az útdíjat a szerződött díjfizetővel kötött, hatályos szerződés rendelkezéseinek és a jogszabályoknak megfelelően a díjfizetésre kötelezettől beszedni, vagy a díjfizetésre kötelezett által előre megfizetett útdíjegyenleg terhére elszámolni. Az útdíjszedő a beszedett útdíjnak az e törvény felhatalmazása alapján kiadott rendeletben meghatározott hányadával egyező mértékű átalány-költségtérítést fizet az útdíjszolgáltatóknak.
 
-(6) A díjszedő köteles olyan szervezeti egységet vagy a kizárólagos tulajdonában álló gazdasági társaságot létrehozni és fenntartani, amely útdíjszolgáltatói feladatokat lát el.
+(6) Az útdíjszedő köteles
+
+- a) olyan szervezeti egységet vagy a kizárólagos tulajdonában álló gazdasági társaságot létrehozni és fenntartani, amely útdíjszolgáltatói, valamint
+- b) olyan szervezeti egységet létrehozni és fenntartani, amely útdíj-ellenőrzési
+
+feladatokat lát el.
 
 (7) Az egyetemes útdíjszolgáltatót az útdíjszolgáltató által nyújtandó alapvető szolgáltatások tekintetében, így különösen az UD rendszer szabályszerű használatához szükséges szolgáltatásokra vonatkozóan szerződéskötési kötelezettség terheli a díjfizetésre kötelezettel szemben, amennyiben ilyen irányú szándékát az egyetemes útdíjszolgáltatónak írásban bejelenti. Az egyetemes útdíjszolgáltató e szerződéskötési kötelezettségét viszonteladóin keresztül is teljesítheti. Az egyetemes útdíjszolgáltató a beszedett útdíjnak az e törvény felhatalmazása alapján kiadott rendeletben meghatározott hányadával egyező mértékű átalány-költségtérítést fizet a viszonteladóknak.
 
@@ -223,27 +228,49 @@ Az országos közúthálózat üzemeltetése, fenntartása és fejlesztése, a f
 
 16. § Az e törvény szerinti jogosulatlan úthasználat szabályszegés, amelynek észlelése esetén a közúti közlekedésről szóló törvény alapján bírság szabható ki.
 
-17. § (1) Az útdíjszedő az útdíjellenőrzési feladatokat ellátó általános rendőrségi feladatokat ellátó szerv (a továbbiakban: Rendőrség) útdíjellenőrzési tevékenységének támogatása érdekében:
+17. § (1) Az útdíj-ellenőrzési feladatokat
 
-- a) az adatgyűjtést végez a díjköteles útszakaszon közlekedő gépjárművekről, telepített fix vagy mobil eszközök felhasználásával,
-- b) az a) pont szerinti eszközök útján felvételezett, azonosításra alkalmas adatokat és a rendszám adatokat összeveti az úthasználati jogosultsággal rendelkezőkről rendelkezésére álló adatokkal, valamint az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartásában szereplő adatokkal,
-- c) a b) pont szerinti összevetés alapján összeállított adatállományt – kivéve a jogosult úthasználatra vonatkozó adatokat – átadja az útdíjellenőrzésre jogosult hatóság számára.
+- a) az általános rendőrségi feladatokat ellátó szerv (a továbbiakban: Rendőrség)
+- b) a közlekedési hatóság és
+- c) a 6. § (6) bekezdés b) pontja szerint létrehozott szervezeti egység
 
-(2) A Rendőrség az (1) bekezdés c) pontja szerinti adatokat összeveti az útdíjköteles elemi útszakaszok térítésmentes használatára jogosultak adataival, majd az összevetés eredményeként előállított, a vélelmezett szabályszegések esetében hivatalból megindítja a külön törvényben meghatározott hatósági eljárást.
+látja el (a továbbiakban együtt: útdíj-ellenőrzésre jogosult szervezetek).
 
-(3) A Rendőrség az útdíjellenőrzési tevékenysége keretében jogosult közvetlenül adathozzáféréssel a rögzített rendszám adat alapján az ellenőrzéshez szükséges gépjárműre vonatkozó adatokat átvenni az úthasználati jogosultsággal rendelkezőkről az útdíjszedő által vezetett nyilvántartásból (úthasználati jogosultsággal rendelkezők nyilvántartása).
+(2) Az útdíjszedő az útdíj-ellenőrzésre jogosult szervezetek útdíj-ellenőrzési tevékenységének támogatása érdekében:
 
-(4) Az UD rendszerben kezelt adatok teljes körét egyedi informatikai alkalmazás igénybevételével közvetlen adathozzáféréssel (a továbbiakban: közvetlen hozzáférés) jogosult átvenni
+- a) adatgyűjtést végez a díjköteles útszakaszon közlekedő gépjárművekről, telepített fix vagy mobil eszközök felhasználásával,
+- b) az a) pont szerinti eszközök útján felvételezett, valamint az útdíjszolgáltató, továbbá az útdíj-ellenőrzésre jogosult szervezetek észlelése alapján tudomására jutott, azonosításra alkalmas adatokat és – amennyiben rendelkezésre áll – a rendszámadatokat összeveti az úthasználati jogosultsággal rendelkezőkről rendelkezésére álló adatokkal, az érvénytelenített fedélzeti eszközök nyilvántartásával, valamint az útdíj köteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartásában szereplő adatokkal,
+- c) a b) pont szerinti összevetés alapján összeállított adatállományt – az úthasználatra jogosultakra vonatkozó adatokat kivéve – átadja az útdíj-ellenőrzésre jogosult szervezetek számára.
+
+(3) Az (1) bekezdés a) és b) pontjában meghatározott útdíj-ellenőrzésre jogosult szervezet a (2) bekezdés c) pontja szerinti adatállomány alapján a vélelmezett szabályszegések esetében – feladatkörébe tartozóan – hivatalból megindítja a külön törvényben meghatározott hatósági eljárást.
+
+(4) Az útdíj-ellenőrzésre jogosult szervezetek az útdíj-ellenőrzési tevékenységük keretében jogosultak közvetlen adathozzáféréssel a rögzített rendszámadat alapján az ellenőrzéshez szükséges gépjárműre vonatkozó adatokat átvenni az úthasználati jogosultsággal rendelkezőkről az útdíjszedő által vezetett nyilvántartásból (úthasználati jogosultsággal rendelkezők nyilvántartása).
+
+(5) Az UD rendszerben kezelt adatok teljes körét egyedi informatikai alkalmazás igénybevételével közvetlen adathozzáféréssel jogosult átvenni
 
 - a) a bíróság, a közigazgatási bírság bírósági felülvizsgálatával kapcsolatos eljárás lefolytatása céljából,
 - b) az ügyészség, az ügyész közigazgatási eljárásban történő részvételével összefüggő feladatok ellátása érdekében,
 - c) a nyomozó hatóságok, a hatáskörükbe tartozó bűncselekmények nyomozásával összefüggő feladatok ellátása érdekében,
 - d) a nemzetbiztonsági szolgálatok törvényben meghatározott feladataik ellátása érdekében,
 - e) a szervezett bűnözés elleni fellépés koordinációjáért felelős szerv az elemző-értékelő tevékenysége céljából,
-- f) a Nemzeti Adó- és Vámhivatal a Nemzeti Adó- és Vámhivatalról szóló törvényben meghatározott állami adó- és vámhatósági feladataihoz kapcsolódó ellenőrző tevékenysége, az adózók ellenőrzésre történő kiválasztása céljából,
-- g) a közlekedési hatóság törvényben meghatározott ellenőrzési tevékenysége céljából.
+- f) a Nemzeti Adó- és Vámhivatal a Nemzeti Adó- és Vámhivatalról szóló törvényben meghatározott állami adó- és vámhatósági feladataihoz kapcsolódó ellenőrző tevékenysége, az adózók ellenőrzésre történő kiválasztása céljából.
 
-(5) Az (4) bekezdésben felsoroltakon kívül az elektronikus ellenőrző rendszerből adatigénylésre jogosult az is, akit a hatáskörébe tartozó feladat ellátása érdekében törvény feljogosít az elektronikus díjellenőrző rendszer adatainak megismerésére.
+(6) Az (5) bekezdésben felsoroltakon kívül az elektronikus ellenőrző rendszerből adatigénylésre jogosult az is, akit a hatáskörébe tartozó feladat ellátása érdekében törvény feljogosít az elektronikus díjellenőrző rendszer adatainak megismerésére.
+
+(7) Az (1) bekezdés c) pontjában meghatározott útdíj-ellenőrzésre jogosult szervezet a díjköteles útszakaszok használatáért fizetendő, megtett úttal arányos útdíjra vonatkozó szabályok helyszíni ellenőrzése alkalmával hatósági ellenőrzés keretében eljárva jogosult:
+
+- a) a gépjárművet megállítani, a gépjármű helyzetét és állapotát dokumentálni, a gépjármű okmányait átvenni,
+- b) a feladat ellátása céljából az úthasználó személyazonosító okmányait és a gépjármű azonosító okmányait megvizsgálni, dokumentálni,
+- c) a Rendőrség intézkedését kérni, és annak megérkezéséig – de legfeljebb két óra időtartamra – feltartóztatni azt, aki a gépjármű okmányait nem adja át, vagy személyazonosságát nem igazolja, vagy az intézkedést más módon akadályozza,
+- d) a jogosulatlan úthasználat tényének megállapítása esetén az ellenőrzésről jegyzőkönyvet felvenni és az (1) bekezdés a) és b) pontban meghatározott díjellenőrzésre jogosult szerv intézkedését kérni, és annak megérkezéséig – de legfeljebb két óra időtartamra – a gépjárművet feltartóztatni.
+
+(8) Az (1) bekezdés c) pontja szerinti útdíj-ellenőrzésre jogosult szervezet tekintetében a díjellenőrzést végző személyekre a közúti közlekedésről szóló törvény kezelői ellenőrökre vonatkozó szabályait megfelelően alkalmazni kell azzal, hogy kezelői ellenőrön a díjellenőrzést végző személyt kell érteni.
+
+(9) Az (1) bekezdés c) pontban meghatározott útdíj-ellenőrzésre jogosult szervezet ellenőrzési feladatkörében nem utasítható.
+
+(10) Az (1) bekezdés c) pontban meghatározott útdíj-ellenőrzésre jogosult szervezet eljárásával kapcsolatos jogorvoslat elbírálására – a (11) bekezdésben foglalt kivétellel – a közlekedési hatóság jogosult.
+
+(11) Ha az (1) bekezdés c) pontban meghatározott útdíj-ellenőrzésre jogosult szervezet intézkedése alapján közigazgatási hatósági eljárás indul, a (10) bekezdés szerint bejelentett jogorvoslatot – az ügy érdemében hozott döntésében – az eljárás lefolytatására jogosult hatóság bírálja el.
 
 #### 9. Az útdíjszedő és az útdíjszolgáltatók tevékenységének felügyelete
 
@@ -366,7 +393,7 @@ Az országos közúthálózat üzemeltetése, fenntartása és fejlesztése, a f
 
 (8) Az útdíjszolgáltató köteles az általa vezetett, az úthasználatra vonatkozó szolgáltatási szerződés hatálya alá tartózó személyek és gépjárművek útdíjszedéshez és útdíjellenőrzéshez szükséges adatait – az e §-ban meghatározott adatkezelési jogosultságok figyelembevételével – az útdíjszedő, az útdíjellenőrzésre feljogosított szervezet, valamint a felügyeleti szerv számára átadni.
 
-(9) Az útdíjszedő és az útdíjszolgáltató köteles – az útdíjszedő, az útdíjszolgáltató és a felügyeleti szerv közötti együttműködési megállapodásban rögzített módon – együttműködni a titkos információgyűjtésre, illetve titkos adatszerzésre a nemzetbiztonsági szolgálatokról szóló törvény, továbbá a büntetőeljárásban részt vevők, az igazságszolgáltatást segítők Védelmi Programjáról szóló törvény szerint felhatalmazott szervezetekkel. Az útdíjszedő és az útdíjszolgáltató, valamint az útdíjellenőrzésre feljogosított szervezet az e törvény alapján folytatott tevékenységét olyan módon köteles végezni, amely nem zárja ki, nem lehetetleníti el a titkos információgyűjtést, illetve a titkos adatszerzést.
+(9) Az útdíjszedő és az útdíjszolgáltató köteles – az útdíjszedő, az útdíjszolgáltató és a felügyeleti szerv közötti együttműködési megállapodásban rögzített módon – együttműködni a titkos információgyűjtésre, illetve titkos adatszerzésre a nemzetbiztonsági szolgálatokról szóló törvény, továbbá a büntetőeljárásban részt vevők, az igazságszolgáltatást segítők Védelmi Programjáról szóló törvény szerint felhatalmazott szervezetekkel. Az útdíjszedő és az útdíjszolgáltató, valamint az útdíj-ellenőrzésre jogosult szervezetek az e törvény alapján folytatott tevékenységét olyan módon köteles végezni, amely nem zárja ki, nem lehetetleníti el a titkos információgyűjtést, illetve a titkos adatszerzést.
 
 (10) A büntetőeljárásról szóló törvény szerinti nyomozó hatóságok és a Rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szerv, a nemzetbiztonsági szolgálatok a törvényben foglaltak szerint, továbbá a Nemzeti Adó- és Vámhivatal törvényben foglalt feladatai ellátása érdekében az útdíjköteles elemi útszakaszon közlekedő járművek díjszedési jellemzőit (így különösen az úthasználat helyét, idejét, a gépjármű vagy gépjárműszerelvény forgalmi rendszámát és a díj mértékének megállapítása során jelentőséggel bíró jellemzőit) az UD rendszer igénybevétele útján megfigyelhetik, az onnan származó adatokat tárolhatják.
 

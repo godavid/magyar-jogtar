@@ -370,7 +370,7 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 
 (3) A reorganizációs hitel forint, euró vagy svájci frank devizanemekben nyújtható, amelyek árfolyama a költségvetési törvényben rögzített devizaárfolyam alapján kerül megállapításra. A reorganizációs hitel euróban vagy svájci frankban annak a helyi önkormányzatnak nyújtható, amelynek a korábban felvett hitele vagy az általa kibocsátott kötvény is euróban vagy svájci frankban van nyilvántartva. A forinttól eltérő reorganizációs hitel devizaneme arányaiban is meg kell, hogy egyezzen a korábbi hitel vagy kötvény devizanem arányával.
 
-34/A. § A közbeszerzésekről szóló 2003. évi CXXIX. törvény (a továbbiakban: Kbt.) alkalmazása során az adósságrendezés elrendelése a felek által előre nem látható és elháríthatatlan oknak minősül, melyre a Kbt.-ben meghatározott jogkövetkezményeket lehet alkalmazni.
+34/A. §
 
 34/B. § Az adósságrendezés megindításának időpontjától kezdődően az eljárás lezárásáig az államháztartásról szóló törvényben a költségvetési szervek átalakítására, megszüntetésére vonatkozó döntés kihirdetésére, közzétételére előírt határidő mellőzhető.
 

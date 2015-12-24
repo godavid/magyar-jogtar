@@ -893,7 +893,7 @@ lép hatályba.
 
 (9) A 95. § (1) bekezdése, 99. §, a 104. §, a 107. §, a 109. §, a 259. §, a 260. §, a 261. § (2) bekezdése 2015. szeptember 1-jén lép hatályba.
 
-(10) A 151. § 1. és 2. pontja, a 155. §, a 157. § (3) bekezdése, a 158. § (1) bekezdése és (2) bekezdés 2. pontja, a 258. §, a 47. alcím, az 54. alcím, a 418. §, a 420. § (2) bekezdése, a 421. § és a 422. § (2) bekezdése 2016. január 1-jén lép hatályba.
+(10) A 151. § 1. és 2. pontja, a 258. §, a 47. alcím, az 54. alcím, a 418. §, a 420. § (2) bekezdése, a 421. § és a 422. § (2) bekezdése 2016. január 1-jén lép hatályba.
 
 #### 110. Átmeneti rendelkezések
 

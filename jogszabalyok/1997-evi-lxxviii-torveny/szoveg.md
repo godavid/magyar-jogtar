@@ -793,7 +793,7 @@ helyszíni szemle alapján hatósági bizonyítványt állít ki.
 
 (5) Vállalkozó kivitelezői tevékenység keretében a kivitelező az építőipari kivitelezési tevékenységet csak akkor vállalhatja, ha az építési (szerelési) szerződésben vállalt kivitelezési munkák elvégzésének a megrendelt minőségben saját költségén történő teljesítéséhez szükséges fedezettel rendelkezik (beleértve az igénybevett alvállalkozók díjazását is). Ha a szerződésben részteljesítésben állapodtak meg, a kivitelezőnek a szerződés szerinti teljesítési feltételeknek megfelelően, de legalább a megrendelő építtető első teljesítéséig meghatározott munkarészre kell fedezettel rendelkeznie.
 
-(6) Építési tevékenység végzésére az építtető a vállalkozó kivitelezővel (alvállalkozói szerződés esetén a vállalkozó kivitelező az alvállalkozó kivitelezővel) kivitelezési szerződést köt. A kivitelezési szerződés teljesítésében részt vevő alvállalkozó kivitelező kivitelezési szerződésében rögzített fizetési határideje nem haladhatja meg az építtető és a vállalkozó kivitelező által megkötött kivitelezési szerződésben meghatározott fizetési határidejét. Az építtetővel szerződéses viszonyban álló vállalkozó kivitelező a kivitelezési szerződésben foglalt kötelezettsége maradéktalan teljesítéséről benyújtott végszámla teljes körű kiegyenlítésére csak akkor jogosult, ha a kötelezettsége teljesítésében részt vevő alvállalkozó kivitelezők követelésének kiegyenlítését hiánytalanul igazolja, függetlenül azok fizetési határidejétől.
+(6) Építési tevékenység végzésére az építtető a vállalkozó kivitelezővel (alvállalkozói szerződés esetén a vállalkozó kivitelező az alvállalkozó kivitelezővel) kivitelezési szerződést köt. A kivitelezési szerződés teljesítésében részt vevő alvállalkozó kivitelező kivitelezési szerződésében rögzített fizetési határideje nem haladhatja meg az építtető és a vállalkozó kivitelező által megkötött kivitelezési szerződésben meghatározott fizetési határidejét. Az építtetővel szerződéses viszonyban álló vállalkozó kivitelező – a közbeszerzésekről szóló törvény hatálya alá tartozó, 2015. november 1-jét követően megindított építési beruházásokra irányadó kifizetési szabályok alkalmazása kivételével – a kivitelezési szerződésben foglalt kötelezettsége maradéktalan teljesítéséről benyújtott végszámla teljes körű kiegyenlítésére csak akkor jogosult, ha a kötelezettsége teljesítésében részt vevő alvállalkozó kivitelezők követelésének kiegyenlítését hiánytalanul igazolja, függetlenül azok fizetési határidejétől.
 
 ### Építtetői fedezetkezelés
 
@@ -1361,6 +1361,8 @@ tartalmazza.
 (8) A Nyilvántartásból az adatszolgáltatás teljesítését követően haladéktalanul törölni kell az igénybevevőnek az igénybevétellel összefüggésben kezelt adatait. A (6) és (7) bekezdésben meghatározott határidőt követően a nyilvántartásból törölni kell az adatokat a bejegyzés alapjául szolgáló dokumentummal együtt, függetlenül az adatrögzítő szervtől, személytől.
 
 (9) A dokumentáció- és adatbeszerzés céljából megkeresett levéltárak és egyéb szervezetek a kért dokumentációkat, adatokat kormányrendeletben meghatározottak szerint szolgáltatják a Dokumentációs Központ számára.
+
+(10) Az 58. § szerinti nyilvántartásban kezelt adatok a Központi Statisztikai Hivatal részére statisztikai célra egyedi azonosításra alkalmas módon térítésmentesen átadhatók és felhasználhatók.
 
 ### A törvény hatálybalépése és átmeneti rendelkezések
 

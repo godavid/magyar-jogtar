@@ -192,7 +192,7 @@ a szolgáltatás felügyeletét ellátó hatóság vagy a bíróság a szolgált
 
 - a) a külföldi bizonyítványok és oklevelek elismeréséről szóló törvény alapján a valamely szabályozott szakma gyakorlására való jogosultság igazolásával összefüggésben előírt iratokra, ideértve a határon átnyúló szolgáltatást nyújtó bejelentését és az ahhoz csatolandó iratokat is,
 - b) a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény szerinti eljárásokra,
-- c) a közbeszerzésekről szóló törvény alkalmazásában az ajánlattevővel, az alvállalkozóval vagy az erőforrást nyújtó szervezettel szembeni kizáró okok hiányának, valamint a minőségbiztosítási szabványoknak és a környezetvédelmi vezetési rendszereknek való megfelelés igazolására,
+- c) a közbeszerzésekről szóló törvény alkalmazásában az ajánlattevővel, az alvállalkozóval vagy a kapacitásait rendelkezésre bocsátó szervezettel szembeni kizáró okok hiányának, valamint a minőségbiztosítási szabványoknak és a környezetvédelmi vezetési rendszereknek való megfelelés igazolására,
 - d) az ügyvédekről szóló törvény szerinti európai közösségi jogásznak a saját tagállamában az ügyvédi tevékenység folytatására való jogosultsága igazolására.
 
 ### Szakmai biztosítékok kölcsönös elismerése
@@ -325,6 +325,8 @@ a szolgáltatás felügyeletét ellátó hatóság vagy a bíróság a szolgált
 30. § (1) A 26. §, a 27. §, valamint a 29. § szerinti nyilvántartás a szolgáltatási tevékenység folytatásának hatósági ellenőrzését és a szolgáltatás igénybe vevőinek tájékoztatását szolgálja.
 
 (2) A szolgáltatás felügyeletét ellátó hatóság a szolgáltatókról általa vezetett nyilvántartás alapján a Kormány rendeletében meghatározottak szerint az interneten, bárki számára ingyenesen és korlátozásmentesen hozzáférhető módon, naprakészen közzéteszi a 26. § (2) bekezdés a)–c) pontjában, a 27. § (2) bekezdésében, valamint a 29. § a)–d) pontjában meghatározott adatokat. Ezek az adatok közérdekből nyilvánosak.
+
+(3) A 26. §, a 27. §, valamint a 29. § szerinti nyilvántartásban kezelt adatok a Központi Statisztikai Hivatal részére statisztikai célra egyedi azonosításra alkalmas módon térítésmentesen átadhatók és felhasználhatók.
 
 ### Integrált ügyintézési és tájékoztatási pont
 

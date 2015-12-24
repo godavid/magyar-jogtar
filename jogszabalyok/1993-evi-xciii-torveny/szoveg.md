@@ -567,7 +567,7 @@ AZ EGÉSZSÉGET NEM VESZÉLYEZTETŐ
 
 81. § (1) A munkavédelemre vonatkozó szabályok megtartásának elősegítését, valamint ellenőrzését a munkavédelmi hatóság látja el.
 
-(2) A munkavédelmi hatóság tájékoztatást ad a közbeszerzési jogszabályban meghatározott ajánlattevő részére a munkavállalók egészségére és biztonságára vonatkozó kötelezettségekről.
+(2)
 
 (3) A munkavédelmi hatóság tájékoztatással és tanácsadással segíti a munkáltatókat és munkavállalókat, a munkavédelmi képviselőket, továbbá az érdekképviseleteket, hogy azok a munkavédelemmel kapcsolatos jogaikat gyakorolhassák, és kötelezettségeiket teljesíthessék.
 
@@ -679,6 +679,8 @@ AZ EGÉSZSÉGET NEM VESZÉLYEZTETŐ
 
 - a) a (2) bekezdésben foglalt adatokat a bíróság jogerős és végrehajtható határozatában foglalt döntésre figyelemmel teszi közzé,
 - b) – ha az (5) bekezdés szerinti adatok nyilvánosságra hozatalára már sor került – intézkedik a honlapon nyilvánosságra hozott adatok törléséről.
+
+(8) A hatósági nyilvántartásban kezelt adatok a Központi Statisztikai Hivatal részére statisztikai célra egyedi azonosításra alkalmas módon térítésmentesen átadhatók és felhasználhatók.
 
 83/C. § (1) A munkavédelmi hatóság a hatósági eljárás lefolytatásához szükséges okból és mértékben megismerheti és kezelheti az érintett munkavállalók – az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvényben meghatározott – egészségügyi adatait, betekinthet a munkavállaló hatósági eljárás lefolytatásával kapcsolatos irataiba, kérheti azok bemutatását, azokról másolatot készíthet, továbbá a munkáltatót, illetve a munkavállalót adatközlésre hívhatja fel.
 

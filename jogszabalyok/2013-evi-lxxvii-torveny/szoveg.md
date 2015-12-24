@@ -53,7 +53,8 @@ lehet.
 - i) az állami felnőttképzési intézmény jogszabályban meghatározott kötelező állami feladatai ellátásának keretében – a 3. § (1a) bekezdésében foglaltaknak megfelelően – szervezett képzéseire,
 - j) a Magyar Igazságügyi Akadémia által bírák, igazságügyi alkalmazottak, valamint az igazságszolgáltatásban közreműködő más személyek részére szervezett jogi tárgyú és az ítélkezési tevékenységhez közvetlenül kapcsolódó nem jogi tárgyú szakmai képzésekre,
 - k) a személyes gondoskodást végző személyek továbbképzéséről és a szociális szakvizsgáról szóló miniszteri rendeletben, az egyes szociális szolgáltatásokat végzők képzéséről és vizsgakövetelményeiről szóló miniszteri rendeletben, a hivatásos gondnoki feladatot ellátó személyek képesítési előírásairól szóló miniszteri rendeletben, továbbá a helyettes szülők, a nevelőszülők, a családi napközit működtetők képzésének szakmai és vizsgakövetelményeiről, valamint az örökbefogadás előtti tanácsadásról és felkészítő tanfolyamról szóló miniszteri rendeletben meghatározott képzésekre,
-- l) az igazságügyi szolgálatok jogakadémiája működtetéséért felelős szerv által az igazságügyi szolgálatok, valamint az igazságszolgáltatásban közreműködő, illetve ahhoz szakmai tevékenységükkel közvetlenül kapcsolódó más személyek részére szervezett jogi tárgyú és az igazságszolgáltatási tevékenységhez közvetlenül kapcsolódó nem jogi tárgyú szakmai képzésekre.
+- l) az igazságügyi szolgálatok jogakadémiája működtetéséért felelős szerv által az igazságügyi szolgálatok, valamint az igazságszolgáltatásban közreműködő, illetve ahhoz szakmai tevékenységükkel közvetlenül kapcsolódó más személyek részére szervezett jogi tárgyú és az igazságszolgáltatási tevékenységhez közvetlenül kapcsolódó nem jogi tárgyú szakmai képzésekre,
+- m) a közbeszerzési tárgyú képzésekre, így különösen a felelős akkreditált közbeszerzési szaktanácsadói tevékenység végzéséhez, illetve az akkreditáció megszerzéséhez szükséges képzésekre.
 
 (6) E törvény hatálya – a 13. § (1)–(2) bekezdésében, a 13. § (3) bekezdés b), c), e)–g) és j) pontjában, a 16. § a) és f) pontjában, a 21. § (4) bekezdésében, valamint a 23. § (1) bekezdésében foglaltak kivételével – nem terjed ki a 2. § 2. pontjában meghatározott belső képzésekre azzal, hogy e képzési tevékenységet végzők képzéseiket kötelesek a 12. § b), d)–g) és i) pontjában foglalt tartalmú képzési program alapján végezni.
 
@@ -171,6 +172,8 @@ tartalmazza.
 tartalmazza.
 
 (2) A felnőttképzési szakértők és a felnőttképzési programszakértők (1) bekezdés szerinti nyilvántartása – a természetes személyazonosító, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül. A nyilvántartásokból az e törvény szerint nyilvános adatokon felül adat kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható.
+
+(2a) Az (1) bekezdés szerinti nyilvántartásban kezelt adatok a Központi Statisztikai Hivatal részére statisztikai célra egyedi azonosításra alkalmas módon térítésmentesen átadhatók és felhasználhatók.
 
 (3) Az (1) bekezdés szerinti nyilvántartásban szereplő adatokból a hatóság és a kamara a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározottakon túl honlapján közzéteszi a felnőttképzési szakértő és a felnőttképzési programszakértő (1) bekezdés a)–f) pontjában foglalt adatait.
 
@@ -347,6 +350,8 @@ vonatkozó adatokat.
 
 (8) Az (1)–(5) és (7) bekezdésben foglalt adatok statisztikai célra felhasználhatók és statisztikai célú felhasználásra – személyazonosításra alkalmatlan módon – átadhatók.
 
+(9) Az (1)–(5) és (7) bekezdésben foglalt adatok a Központi Statisztikai Hivatal részére statisztikai célra egyedi azonosításra alkalmas módon térítésmentesen átadhatók és felhasználhatók.
+
 16. § A felnőttképzést folytató intézménynek az alábbi dokumentumokat kell vezetnie, nyilvántartania és – a hatóság ellenőrzési jogköre gyakorlásának biztosítása érdekében – öt évig megőriznie:
 
 - a) az elméleti tanórán, gyakorlati foglalkozáson, konzultáción vezetett, a képzésben részt vevő felnőtt által aláírt jelenléti íveket, valamint a képzésben résztvevővel elektronikus úton folytatott szakmai felkészítést, ellenőrzést igazoló dokumentumokat,
@@ -485,6 +490,8 @@ kapcsolatosak,
 - c) a képzésben részt vevő társadalombiztosítási azonosító jelét.
 
 (2) Az (1) bekezdésben foglalt adatok statisztikai célra felhasználhatók és statisztikai célú felhasználásra személyazonosításra alkalmatlan módon átadhatók.
+
+(2a) Az (1) bekezdésben foglalt adatok a Központi Statisztikai Hivatal részére statisztikai célra egyedi azonosításra alkalmas módon térítésmentesen átadhatók és felhasználhatók.
 
 (3) Az (1) bekezdésben foglalt adatokat államháztartási vagy európai uniós források igénybevételének és felhasználásának ellenőrzése céljából az e támogatásokat ellenőrző szervek számára továbbítani kell.
 
