@@ -29,19 +29,20 @@ Az Országgyűlés a nemzeti energiahatékonysági célkitűzés teljesítéséh
 - 17. hatékony távfűtés: olyan távfűtési rendszer, amely legalább 50%-ban megújuló energia, 50%-ban hulladékhő, 75%-ban kapcsolt energiatermelésből származó hő vagy 50%-ban ilyen energiák és hők kombinációjának felhasználásával működik;
 - 18. hatékony távhűtés: olyan távhűtési rendszer, amely legalább 50%-ban megújuló energia, 50%-ban hulladékhő, 75%-ban kapcsolt energiatermelésből származó hő vagy 50%-ban ilyen energiák és hők kombinációjának felhasználásával működik;
 - 19. jelentős korszerűsítés: olyan korszerűsítés, amelynek költsége meghaladja egy hasonló új egység beruházási költségének 50%-át azzal, hogy nem tekinthető jelentős korszerűsítésnek, ha a tüzelőberendezést az általa kibocsátott szén-dioxid leválasztására alkalmas berendezéssel szerelik fel azzal a céllal, hogy gondoskodjanak a szén-dioxidnak a geológiai tárolásáról;
-- 20. kis- és középvállalkozás: a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvényben meghatározottak alapján mikro-, kis- és középvállalkozásnak minősülő vállalkozás;
+- 20. kis- és középvállalkozás: a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény (a továbbiakban: Kkvtv.) 3. § (4) bekezdésének kivételével a Kkvtv. alapján mikro-, kis- és középvállalkozásnak minősülő vállalkozás;
 - 21. kiskereskedelmi energiaértékesítő vállalat: az a gazdálkodó szervezet, amely villamos energiát, földgázt értékesít, valamint távhőt szolgáltat a végső felhasználó számára;
 - 22. komplex korszerűsítés: az épülethatároló szerkezetek és az épületgépészeti rendszerek többségét érintő korszerűsítés, amely a korszerűsítés előtti szinthez képest jelentős energiahatékonyság-javulást eredményez;
 - 23. közintézmény: a közbeszerzésekről szóló törvényben meghatározott ajánlatkérő szervezet;
 - 24. központi kormányzat: a minisztérium, a kormányhivatal országos hatáskörrel rendelkező szervezeti egységei, a központi hivatal – a fővárosi és megyei kormányhivatalok kivételével – országos hatáskörrel rendelkező szervezeti egységei, a Közbeszerzési és Ellátási Főigazgatóság, valamint a Katonai Nemzetbiztonsági Szolgálat országos hatáskörrel rendelkező szervezeti egységei, az országos hatáskörrel rendelkező rendvédelmi szervek és honvédségi szervezetek; továbbá ha e szervezetek körében egy adott hatáskör vonatkozásában nem létezik országos hatáskörű szervezeti egység, akkor azok a szervezeti egységek vagy szervezetek, amelyek illetékessége együttesen terjed ki az ország területére;
 - 25. nagy hatásfokú kapcsolt energiatermelés: a nagy hatásfokú, hasznos hőenergiával kapcsoltan termelt villamos energia és a hasznos hő mennyisége megállapításának számítási módjáról szóló rendelet szerint nagy hatásfokúnak minősülő kapcsolt energiatermelés;
-- 26. nagyvállalat: a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény alapján mikro-, kis- és középvállalkozásnak nem minősülő vállalkozás;
+- 26. nagyvállalat: a kis- és középvállalkozásnak nem minősülő vállalkozás;
 - 27. névleges bemenő hőteljesítmény: az adott energiaátalakító berendezésre vonatkozó hatósági határozatban vagy a berendezés gépkönyvében vagy gyártói nyilatkozatában rögzített névleges teljesítményen történő üzemeltetéséhez szükséges, az energiaátalakító berendezésbe bevitt hőteljesítmény megawattban (MWth) kifejezve;
 - 28. primerenergia-fogyasztás: a nem energiacélú felhasználással csökkentett bruttó belföldi energiafogyasztás;
 - 29. teljes bemenő hőteljesítmény: az összes olyan műszaki egység névleges bemenő hőteljesítményének összege, amely a létesítmény részét képezi;
 - 30. végrehajtási időszak: az energiahatékonysági célkitűzés végrehajtására rendelkezésre álló, 2014. január 1-jétől 2020. december 31-ig terjedő időszak;
 - 31. végső felhasználó: az a természetes személy vagy szervezet, aki vagy amely saját felhasználására vásárol energiát;
-- 32. végsőenergia-fogyasztás: az ipar, a közlekedés, a háztartások, a szolgáltatások és a mezőgazdaság számára szolgáltatott energia, az energiaátalakítási ágazatnak és az energetikai iparnak szolgáltatott energiaszállítás kivételével.
+- 32. végsőenergia-fogyasztás: az ipar, a közlekedés, a háztartások, a szolgáltatások és a mezőgazdaság számára szolgáltatott energia, az energiaátalakítási ágazatnak és az energetikai iparnak szolgáltatott energiaszállítás kivételével;
+- 33. vállalkozáscsoport: azon vállalkozások összessége, amelyek egymással a Kkvtv. szerinti kapcsolódó vállalkozási vagy partnervállalkozási kapcsolatban állnak.
 
 ### II. Fejezet — AZ ENERGIAHATÉKONYSÁGI CÉLKITŰZÉS MEGVALÓSÍTÁSÁNAK KÖZPONTI FELADATAIÉS STRATÉGIAI DOKUMENTUMAI
 
@@ -247,11 +248,37 @@ kell elérni.
 
 22. § (1) A nagyvállalat tevékenysége energetikai jellemzőinek megismerése céljából köteles négyévente energetikai auditálást végeztetni (a továbbiakban: kötelező energetikai auditálás).
 
-(2) Mentesül a kötelező energetikai auditálás alól az a nagyvállalat, amely az EN ISO 50001 szabványnak megfelelő, akkreditált tanúsító szervezet által tanúsított energiagazdálkodási rendszert működtet. Ebben az esetben a nagyvállalat köteles négyévente megküldeni a Hivatal részére az érvényes tanúsítványt. A kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény szerinti kapcsolódó és partnervállalkozásnak nem kell külön tanúsítványt megküldeni a Hivatal részére, amennyiben a nagyvállalat egészére vonatkozó tanúsítvány már megküldésre került.
+(2) Mentesül a kötelező energetikai auditálás alól az a nagyvállalat, amely az EN ISO 50001 szabványnak megfelelő, akkreditált tanúsító szervezet által tanúsított energiagazdálkodási rendszert működtet. Ebben az esetben a nagyvállalat köteles négyévente megküldeni a Hivatal részére az érvényes tanúsítványt.
+
+(2a) Nem kell külön tanúsítványt szereznie annak a nagyvállalatnak, amely vállalkozáscsoport tagja és a vállalkozáscsoport egészére vagy egy részére vonatkozó tanúsítvány ezen nagyvállalatra is kiterjed. Ha a vállalkozáscsoport egészére vagy egy részére vonatkozó tanúsítványt a vállalkozáscsoport valamely tagja a Hivatal részére megküldte, a tanúsítványon szereplő további nagyvállalatnak ugyanazt a tanúsítványt már nem kell megküldenie a Hivatal részére.
 
 (3) Ha egy vállalkozás az Európai Gazdasági Térségről szóló megállapodásban részes valamely államon (a továbbiakban: EGT-tagállam) kívüli harmadik országban bejegyzett kapcsolódó vállalkozása vagy partnervállalkozása figyelembevételével esik az (1) bekezdésben meghatározott kötelezettség hatálya alá, a kötelező energetikai auditálást az EGT-tagállam területén bejegyzett vállalkozások tekintetében kell elvégezni.
 
-(4) Annak a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény szerinti kapcsolódó vagy partnervállalkozásnak, amelynek végsőenergia-fogyasztása nem éri el a nagyvállalat végsőenergia-fogyasztásának 5%-át, nem kell az (1) bekezdés szerinti energetikai auditálást lefolytatni vagy a (2) bekezdés szerinti energiagazdálkodási rendszert működtetni.
+(4) A vállalkozáscsoport azon tagja, amely önmagában kis- és középvállalkozásnak minősülne és végsőenergia-fogyasztása nem éri el a vállalkozáscsoport legnagyobb fogyasztású vállalkozása végsőenergia-fogyasztásának 5%-át, nem köteles kötelező energetikai auditálást lefolytatni vagy a (2) bekezdés szerinti energiagazdálkodási rendszert működtetni.
+
+(5) Nem kell külön energetikai auditálást lefolytatnia annak a nagyvállalatnak, amely egy vállalkozáscsoport tagja és a vállalkozáscsoport egészére vagy egy részére vonatkozó energetikai audit ezen nagyvállalatra is kiterjed.
+
+22/A. § (1) A nagyvállalatnak minősülő tulajdonos köteles elvégeztetni a kötelező energetikai auditálás keretében a tulajdonában álló épület vonatkozásában az energetikai auditot.
+
+(2) A nagyvállalatnak minősülő bérlő abban az esetben köteles épületre vonatkozó energetikai auditálást végeztetni, ha a bérlemény alapterülete meghaladja a teljes épület alapterületének 50%-át.
+
+(3) A kötelező energetikai auditálás keretében ugyanazon épületre vonatkozó energetikai auditálás elvégeztetésére a nagyvállalatnak minősülő tulajdonos és a (2) bekezdésben foglalt feltételeknek megfelelő és nagyvállalatnak minősülő bérlő egyetemlegesen kötelezett.
+
+(4) Az energetikai auditálás elvégeztetése során az épület tulajdonosa és a bérlő köteles együttműködni.
+
+22/B. § (1) A nagyvállalat köteles minden év június 30-áig a Hivatal honlapján erre a célra kialakított felületen regisztrálni.
+
+(2) A Hivatal a regisztráció nem teljesítése, vagy késedelmes teljesítése esetén egymillió forintig terjedő bírsággal sújtja a nagyvállalatot és elvégzi a regisztrációját.
+
+(3) A Hivatal a bírság összegének megállapítása során figyelembe veszi a nagyvállalat utolsó összevont (konszolidált) beszámolója szerinti, ennek hiányában a nagyvállalat nyilvántartása szerinti nettó árbevételét vagy mérlegfőösszegét.
+
+22/C. § (1) A nagyvállalat köteles a Hivatal részére adatszolgáltatást teljesíteni a tárgyévet megelőző évben megvalósított energiahatékonysági intézkedésekről, a tárgyévet megelőző évi energiafelhasználási adatairól, valamint a tervezett energiahatékonysági intézkedésekről és megvalósulásuk tervezett időpontjáról.
+
+(2) Az (1) bekezdés szerinti kötelezettség nem teljesítése, vagy késedelmes teljesítése esetén a Hivatal a nagyvállalatot egymillió forintig terjedő pénzbírsággal sújtja. A bírság ismételten kiszabható.
+
+(3) A Hivatal a bírság összegének megállapítása során figyelembe veszi a nagyvállalat utolsó összevont (konszolidált) beszámolója szerinti, ennek hiányában a nagyvállalat nyilvántartása szerinti nettó árbevételét vagy mérlegfőösszegét.
+
+(4) Az adatszolgáltatási kötelezettség tartalmát és formáját, valamint teljesítésének határidejét a Hivatal elnöke rendeletben állapítja meg.
 
 #### 19. Az energetikai auditálás elvégzésére vonatkozó adatszolgáltatás
 
@@ -373,7 +400,7 @@ kell elérni.
 
 (2) A névjegyzék az (1) bekezdés f) és g) pontja tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
-(3) Az energetikai auditáló szervezet (2) bekezdésben foglalt adatai nyilvánosak, azokat a Hivatal az energiahatékonysági tájékoztató honlapon közzéteszi.
+(3) Az energetikai auditáló szervezet (1) bekezdésben foglalt adatai nyilvánosak, azokat a Hivatal az energiahatékonysági tájékoztató honlapon közzéteszi.
 
 (4) Az energetikai auditáló szervezet a bekövetkezéstől számított 8 napon belül köteles bejelenteni a regisztráló szervezetnek a névjegyzékben nyilvántartott adataiban bekövetkezett változást.
 
@@ -401,11 +428,13 @@ kell elérni.
 
 35. § (1) Az EGT-tagállamban letelepedett és ott jogszerűen energetikai auditálási tevékenység végzésére jogosult energetikai auditor vagy energetikai auditáló szervezet az energetikai auditálás határon átnyúló szolgáltatásnyújtás keretében történő folytatására irányuló szándékát köteles valamely regisztráló szervezet útján a Hivatalnak bejelenteni.
 
-(2) EGT-tagállamban letelepedett és ott jogszerűen energetikai auditálási tevékenység végzésére jogosult energetikai auditor Magyarország területén történő letelepedés nélkül, szabad szolgáltatásnyújtás keretében akkor folytathatja az energetikai auditálási tevékenységet, ha az e törvény végrehajtására kiadott kormányrendeletben az energetikai auditorokra előírt végzettséggel és szakmai gyakorlattal rendelkezik.
+(2) EGT-tagállamban letelepedett és ott jogszerűen energetikai auditálási tevékenység végzésére jogosult energetikai auditor Magyarország területén letelepedés nélkül, szabad szolgáltatásnyújtás keretében történő energetikai auditálási tevékenységet akkor folytathat, ha a szakmai vizsga teljesítésének kivételével megfelel a 28. § (1) bekezdésében foglalt követelményeknek.
 
 (3) EGT-tagállamban letelepedett és ott jogszerűen energetikai auditálási tevékenység végzésére jogosult energetikai auditáló szervezet Magyarország területén történő letelepedés nélkül, szabad szolgáltatásnyújtás keretében energetikai auditálási tevékenységet az energetikai auditorok névjegyzékében szereplő vagy Magyarország területén energetikai auditálásra a (2) bekezdés szerint jogosult tagja vagy alkalmazottja útján folytathatja.
 
 (4) A határon átnyúló szolgáltatásnyújtás keretében Magyarország területén energetikai auditálási tevékenységet végző személy és szervezet a működése során köteles betartani az energetikai auditálási tevékenység folytatására e törvényben és a végrehajtására kiadott rendeletekben meghatározott szabályokat.
+
+(4a) A határon átnyúló szolgáltatás keretében energetikai auditálási tevékenység folytatására jogosult személyekre és szervezetekre megfelelően alkalmazni kell az e törvényben és a végrehajtására kiadott rendeletekben az energetikai auditorokra és energetikai auditáló szervezetekre meghatározott szabályokat.
 
 (5) A Hivatal a határon átnyúló szolgáltatás nyújtását bejelentő személyekről és szervezetekről névjegyzéket vezet a 32. § (1) bekezdése, valamint a 33. § (1) bekezdése szerinti adattartalommal, amelynek a következő adatait az energiahatékonysági tájékoztató honlapon közzéteszi:
 
@@ -535,7 +564,8 @@ kell elérni.
 
 - a) a 7. § f) pontja szerinti költség-haszon elemzés módszertanát és a költség-haszon elemzés elkészítésének követelményeit,
 - b) a nem kötelező energetikai audit ellenőrzéséért fizetendő igazgatási szolgáltatási díj mértékét, valamint a beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat,
-- c) az energetikai auditorok és energetikai auditáló szervezetek által fizetendő regisztrációs és nyilvántartási díj összegére, megfizetésének módjára és visszatérítésére vonatkozó szabályokat rendeletben állapítsa meg.
+- c) az energetikai auditorok és energetikai auditáló szervezetek által fizetendő regisztrációs és nyilvántartási díj összegére, megfizetésének módjára és visszatérítésére vonatkozó szabályokat,
+- d) a 22/C. § (1) bekezdésében meghatározott adatszolgáltatásra kötelezettek által szolgáltatandó – személyes adatnak nem minősülő – adatok körét, a teljesítés módjára vonatkozó követelményeket, valamint az adatszolgáltatási kötelezettség teljesítésének határidejét rendeletben állapítsa meg.
 
 #### 27. Hatályba léptető rendelkezések
 
@@ -552,6 +582,8 @@ kell elérni.
 (3) A Hivatal 2016. december 31-ig nem szab ki bírságot a kötelező energetikai auditálás teljesítésének elmaradása miatt.
 
 (4) A Hivatal a 7. § e) pont szerinti értékelést 2015. június 30-áig készíti el.
+
+(5) A nagyvállalat a 22/B. § szerinti regisztrációt első alkalommal 2016. január 20-áig köteles teljesíteni.
 
 #### 29. Jogharmonizációs záradék
 
