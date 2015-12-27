@@ -946,25 +946,14 @@ határozatát a miniszter által vezetett minisztérium hivatalos lapjában, hon
 - j) e törvény végrehajtására kiadott jogszabály szerint nyilvántartott vagy engedélyezett laboratóriumot üzemeltet,
 - k) az állatok jelölésére szolgáló eszközt forgalomba hoz.
 
-(3) A felügyeleti díj mértéke – a (3a)–(6) bekezdésben foglalt eltéréssel – a felügyeleti díj fizetésére kötelezett (2) bekezdés szerinti tevékenységből származó, jövedéki adó, illetve népegészségügyi termékadó nélkül számított előző évi értékesítési nettó árbevételének 0,1%-a.
+(3) A felügyeleti díj mértéke – a (4)–(6) bekezdésben foglalt eltéréssel – a felügyeleti díj fizetésére kötelezett (2) bekezdés szerinti tevékenységből származó, jövedéki adó, illetve népegészségügyi termékadó nélkül számított
 
-(3a) A felügyeleti díj mértéke a kereskedelmi törvény szerinti napi fogyasztási cikket értékesítő üzlet esetében a felügyeleti díj fizetésére kötelezett (2) bekezdés szerinti tevékenységből származó jövedéki adó és népegészségügyi termékadó nélkül számított előző évi nettó árbevételének
+- a) előző naptári évi értékesítési nettó árbevételének, vagy
+- b) – személyi jövedelemadó-bevallásra köteles természetes személy – előző naptári évi bevételének
 
-– 500 millió forintot meg nem haladó része után 0%,
+0,1%-a.
 
-– az 500 millió forintot meghaladó, de 50 milliárd forintot meg nem haladó része után 0,1%,
-
-– az 50 milliárd forintot meghaladó, de 100 milliárd forintot meg nem haladó része után 1%,
-
-– a 100 milliárd forintot meghaladó, de 150 milliárd forintot meg nem haladó része után 2%,
-
-– a 150 milliárd forintot meghaladó, de 200 milliárd forintot meg nem haladó része után 3%,
-
-– a 200 milliárd forintot meghaladó, de 250 milliárd forintot meg nem haladó része után 4%,
-
-– a 250 milliárd forintot meghaladó, de 300 milliárd forintot meg nem haladó része után 5%,
-
-– a 300 milliárd forintot meghaladó része után 6%.
+(3a)
 
 (4) A termelői szerveződésen vagy a termelői szerveződés, valamint annak tagjai kizárólagos tulajdonában lévő vállalkozáson keresztül történő forgalomba-hozatal után fizetendő felügyeleti díj mértéke a termelői szerveződés vagy a termelői szerveződés és annak tagjai kizárólagos tulajdonában lévő vállalkozás előző évi nettó árbevételéből, a (2) bekezdés szerinti tevékenységhez kapcsolódó rész 0,1%-a, amennyiben a felügyeleti díjfizetési kötelezettséget a termelői szerveződés vagy a termelői szerveződés és annak tagjai kizárólagos tulajdonában lévő vállalkozás szerződésben átvállalta a fizetésre kötelezett termelői szerveződés tagjától.
 
@@ -973,7 +962,7 @@ határozatát a miniszter által vezetett minisztérium hivatalos lapjában, hon
 - a) mikrovállalkozás és e törvény végrehajtására kiadott rendeletben meghatározott kistermelő esetén évi húszezer forint;
 - b) kisvállalkozás esetén évi hétszázezer forint.
 
-(6) Az (5) bekezdés szerinti felügyeleti díj fizetésére kötelezett az ott meghatározott összegű felügyeleti díj megfizetése helyett választása alapján a (3)–(3a) bekezdés szerint számított felügyeleti díjat a (8) és (9) bekezdés szerint vallja be és fizeti meg.
+(6) Az (5) bekezdés szerinti felügyeleti díj fizetésére kötelezett az ott meghatározott összegű felügyeleti díj megfizetése helyett választása alapján a (3) bekezdés szerint számított felügyeleti díjat a (8) és (9) bekezdés szerint vallja be és fizeti meg.
 
 (7) Mentesül a felügyeleti díj bevallási és fizetési kötelezettség alól a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 3. § 19. pontja szerinti mezőgazdasági kistermelő kizárólag az őstermelői tevékenysége vonatkozásában.
 
@@ -989,7 +978,7 @@ határozatát a miniszter által vezetett minisztérium hivatalos lapjában, hon
 
 (13) A felügyeleti díj bevallására kötelezettnek olyan nyilvántartást kell vezetnie, amelyből a felügyeleti díj alapjának, mértékének számítása egyértelműen megállapítható. Nem vonatkozik az előírás azon fizetésre kötelezettekre, akik az (5) bekezdés szerinti fizetési módot választják.
 
-(14) A felügyeleti díj bevallása, nyilvántartása, befizetése, kezelése, ellenőrzése és önellenőrzése kapcsán e törvényben, illetve az annak végrehajtására kiadott jogszabályban nem szabályozott kérdésekben az Art. képviseletre, önellenőrzési jogra, bevallásra, bevallás kijavítására, a megfizetésre, a bizonylatokra, könyvvezetésre, nyilvántartásra, bizonylatok megőrzésére, önellenőrzésre, az önellenőrzés bevallása és megfizetése, utólagos megállapításra, fizetési halasztásra, részletfizetés engedélyezésére, elévülésre, késedelmi pótlékra, önellenőrzési pótlékra, valamint az eljárás költségeire vonatkozó rendelkezései az irányadóak.
+(14) A felügyeleti díj bevallása, nyilvántartása, befizetése, kezelése, ellenőrzése és önellenőrzése kapcsán e törvényben, illetve az annak végrehajtására kiadott jogszabályban nem szabályozott kérdésekben az Art. képviseletre, önellenőrzési jogra, bevallásra, bevallás kijavítására, a megfizetésre, a bizonylatokra, könyvvezetésre, nyilvántartásra, bizonylatok megőrzésére, önellenőrzésre, az önellenőrzés bevallása és megfizetése, a becslésre, az utólagos megállapításra, fizetési halasztásra, részletfizetés engedélyezésére, elévülésre, késedelmi pótlékra, önellenőrzési pótlékra, valamint az eljárás költségeire vonatkozó rendelkezései az irányadóak.
 
 ### Jelentések
 
@@ -1305,7 +1294,7 @@ vonatkozó, a 60–62. §-okban meghatározottaktól eltérő egyéb előíráso
 
 ### Mulasztási bírság
 
-63/A. § (1) Mulasztási bírság szabható ki, ha a felügyeleti díj bevallására kötelezett a bevallási, illetve a 38/B § szerinti adatszolgáltatási, nyilvántartásba vételi, változásbejelentési kötelezettségét nem teljesíti, késedelmesen, valótlan adattartalommal vagy hiányosan teljesíti.
+63/A. § (1) Mulasztási bírság szabható ki, ha a felügyeleti díj bevallására kötelezett a bevallási, illetve a 38/B § szerinti adatszolgáltatási, nyilvántartásba vételi, változásbejelentési és felügyeleti díj fizetési kötelezettségét nem teljesíti, késedelmesen, valótlan adattartalommal vagy hiányosan teljesíti.
 
 (2) A mulasztási bírság legkisebb összege tízezer forint, legmagasabb összege ötszázmillió forint, de legfeljebb a megelőző üzleti évben elért, a felügyeleti díj alapját képező nettó árbevétel (jövedelem) tíz százaléka.
 
@@ -1530,6 +1519,8 @@ vonatkozó előírásokat.
 ### Átmeneti rendelkezések
 
 76/A. § Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény módosításáról szóló 2015. évi XLVI. törvény 15. § a) pontjának hatálybalépését megelőzően tanúsított, a 10. § (2)–(4) bekezdésében foglalt rendelkezésekbe ütköző magatartás esetén az eljárás lefolytatására az Fttv.-ben meghatározott hatóság jogosult az ott meghatározott szabályok szerint azzal, hogy a végső fogyasztó az Fttv. alkalmazásában fogyasztónak minősül akkor is, ha nem természetes személy.
+
+76/B. § A 47/B. § 2015. május 31-én hatályos (3a) bekezdésének hatálya alá tartozó és a 47/B. §-nak az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény módosításáról szóló 2015. évi CLXXXII. törvénnyel megállapított (3) bekezdése alapján felügyeleti díj további összegű fizetésére kötelezettnek a 2014. naptári évi árbevétele alapján 2015. december 30-ig bevallást vagy helyesbítő bevallást kell tennie és a felügyeleti díjat 2016. január 31-ig egy összegben, késedelmi pótlék alkalmazása nélkül kell megfizetnie.
 
 ### Az Európai Unió jogának való megfelelés
 
