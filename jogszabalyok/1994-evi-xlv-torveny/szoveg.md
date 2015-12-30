@@ -89,7 +89,7 @@ Az Országgyűlés — eleget téve a honvédelemről szóló 1993. évi CX. tö
 
 (3) Megszűnik a hadigondozásra jogosultság, ha
 
-- a) a hadiözvegy újból megházasodik, kivéve, ha hadirokkanttal köt házasságot. A szolgálat következtében meghalt, illetve hadirokkantként elhunyt házastársára tekintettel feléled a hadigondozásra jogosultság, ha a özvegy újabb házasságában is megözvegyül;
+- a) a hadiözvegy újból megházasodik, kivéve, ha hadirokkanttal köt házasságot. A szolgálat következtében meghalt, illetve hadirokkantként elhunyt házastársára tekintettel feléled a hadigondozásra jogosultság, ha az özvegy újabb házasságában is megözvegyül;
 - b) a hadiárva, hadigyámolt betölti a 4. §-ban meghatározott életkor;
 - c) a hadigondozott meghal;
 - d) a hadirokkant egészségkárosodása megszűnt, vagy egészségkárosodása 20%-nál kisebb mértékűvé vált;

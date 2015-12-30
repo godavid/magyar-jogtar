@@ -54,8 +54,8 @@ Magyarország Alaptörvénye rögzíti, hogy az állam és a helyi önkormányza
 - 17. tulajdonosi joggyakorló: aki a nemzeti vagyon felett az államot vagy a helyi önkormányzatot megillető tulajdonosi jogok és kötelezettségek összességének gyakorlására jogosult;
 - 18. üzleti vagyon: a nemzeti vagyon azon része, amely nem tartozik az állami vagyon esetén a kincstári vagyonba, az önkormányzati vagyon esetén a törzsvagyonba;
 - 19. vagyonkezelő:
-  - a) az állam tulajdonában álló nemzeti vagyon tekintetében: aa) költségvetési szerv, ab) helyi önkormányzat, önkormányzati társulás, ac) önkormányzati intézmény, ad) köztestület, ae) az állam, az aa)–ac) alpontban meghatározott személyek együtt vagy külön-külön 100%-os tulajdonában álló gazdálkodó szervezet, af) az ae) alpont szerinti gazdálkodó szervezet 100%-os tulajdonában álló gazdálkodó szervezet, ag) a törvény által kijelölt egyedileg meghatározott jogi személy.
-  - b) a helyi önkormányzat tulajdonában álló nemzeti vagyon tekintetében: ba) önkormányzati társulás, bb) költségvetési szerv vagy önkormányzati intézmény, bc) köztestület, bd) az állam, a helyi önkormányzat, a ba)–bb) alpontban meghatározott személyek együtt vagy külön-külön 100%-os tulajdonában álló gazdálkodó szervezet, be) a bd) alpont szerinti gazdálkodó szervezet 100%-os tulajdonában álló gazdálkodó szervezet.
+  - a) az állam tulajdonában álló nemzeti vagyon tekintetében: aa) költségvetési szerv, ab) helyi önkormányzat, nemzetiségi önkormányzat, valamint ezek társulásai, ac) az ab) alpontban felsoroltak fenntartása vagy irányítása alá tartozó intézmény, ad) köztestület, ae) az állam, az aa)–ac) alpontban meghatározott személyek együtt vagy külön-külön 100%-os tulajdonában álló gazdálkodó szervezet, af) az ae) alpont szerinti gazdálkodó szervezet 100%-os tulajdonában álló gazdálkodó szervezet, ag) a törvény által kijelölt egyedileg meghatározott jogi személy.
+  - b) a helyi önkormányzat tulajdonában álló nemzeti vagyon tekintetében: ba) nemzetiségi önkormányzat, helyi vagy nemzetiségi önkormányzati társulás, valamint ezek fenntartása vagy irányítása alá tartozó intézmény, bb) költségvetési szerv, bc) köztestület, bd) az állam, a helyi önkormányzat, a ba) alpontban meghatározott személyek együtt vagy külön-külön 100%-os tulajdonában álló gazdálkodó szervezet, be) a bd) alpont szerinti gazdálkodó szervezet 100%-os tulajdonában álló gazdálkodó szervezet.
   - c) az egyházi jogi személy a tevékenysége ellátásához szükséges nemzeti vagyon tekintetében.
 
 (2) Az (1) bekezdés 1. pont b) és c) alpontjában foglalt feltételeknek való megfelelésről a szerződő félnek cégszerűen aláírt módon nyilatkoznia kell. A valótlan tartalmú nyilatkozat alapján kötött szerződés semmis.
@@ -484,6 +484,8 @@ elővásárlási jogát követi, kivéve a kulturális örökség védelméről 
 (11) A Módtv. által megállapított 5. § (7) bekezdését a Módtv. hatálybalépésekor folyamatban lévő hitelfelvételi és kötvénykibocsátási ügyekben nem kell alkalmazni.
 
 (12) A Módtv. által megállapított 5. § (5)–(7) bekezdésében foglaltaknak megfelelően a helyi önkormányzat képviselő-testülete köteles 2012. október 31-ig módosítani rendeletét.
+
+(13) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény módosításáról szóló 2015. évi CCXVI. törvény rendelkezései a hatálybalépését megelőzően jogszerűen és jóhiszeműen szerzett jogokat és kötelezettségeket nem érintik.
 
 18/A. § A 4. § (1) bekezdés l) pontja és 12. § (1) bekezdés k) pontja szerinti rendelkezést a földgáz biztonsági készletezéssel összefüggésben egyes törvények módosításáról szóló 2012. évi CCXVIII. törvény hatálybalépését követően létrehozott vagy a földgázellátásról szóló 2008. évi XL. törvénynek a földgáz biztonsági készletezéssel összefüggésben egyes törvények módosításáról szóló 2012. évi CCXVIII. törvénnyel megállapított 124/A. §-a szerint megvásárolt biztonsági földgáztárolókra kell alkalmazni.
 
