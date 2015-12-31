@@ -18,7 +18,7 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 2. § E törvény alkalmazásában:
 
-- a) fogyasztó: az önálló foglalkozásán és gazdasági tevékenységi körén kívül eső célok érdekében eljáró természetes személy, továbbá a békéltető testületre vonatkozó szabályok alkalmazásában az önálló foglalkozásán és gazdasági tevékenységi körén kívül eső célok érdekében eljáró, külön törvény szerinti civil szervezet, egyházi jogi személy, társasház, lakásszövetkezet, mikro-, kis- és középvállalkozás is, aki, illetve amely árut vesz, rendel, kap, használ, igénybe vesz vagy az áruval kapcsolatos kereskedelmi kommunikáció, ajánlat címzettje,
+- a) fogyasztó: az önálló foglalkozásán és gazdasági tevékenységén kívül eső célok érdekében eljáró természetes személy, aki árut vesz, rendel, kap, használ, igénybe vesz vagy az áruval kapcsolatos kereskedelmi kommunikáció, ajánlat címzettje. A békéltető testületre vonatkozó szabályok alkalmazásában – a fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról szóló, 2013. május 21-i 524/2013/EU európai parlamenti és tanácsi rendelet alkalmazásának kivételével – fogyasztónak minősül a fentieken túlmenően az önálló foglalkozásán és gazdasági tevékenységi körén kívül eső célok érdekében eljáró, külön törvény szerinti civil szervezet, egyházi jogi személy, társasház, lakásszövetkezet, mikro, kis- és középvállalkozás is, amely árut vesz, rendel, kap, használ, igénybe vesz vagy az áruval kapcsolatos kereskedelmi kommunikáció, ajánlat címzettje.
 - b) vállalkozás: aki az 1. § szerinti tevékenységet önálló foglalkozásával vagy gazdasági tevékenységével összefüggő célok érdekében végzi,
 - c) gyártó:
   - ca) a terméknek az Európai Gazdasági Térségben letelepedett üzletszerű előállítója, termelője, helyreállítója vagy felújítója, illetve aki a terméken elhelyezett nevével, védjegyével vagy egyéb megkülönböztető jelzés alkalmazásával önmagát a termék gyártójaként tünteti fel; vagy
@@ -295,6 +295,8 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 (7) A békéltető testületek együttműködnek a fogyasztói jogviták alternatív rendezésére irányuló eljárások joggyakorlatának fejlesztése, a döntések egyöntetűsége, a szakmaiság javítása, valamint a legjobb gyakorlatok átvétele érdekében.
 
+(8) Ha a békéltető testület az (5) bekezdés sérelme nélkül beleegyezett, hogy az online vitarendezési platformon keresztül továbbított jogvita kapcsán alternatív vitarendezési eljárást folytat, a fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról szóló, 2013. május 21-i 524/2013/EU európai parlamenti és tanácsi rendeletben, és a fogyasztói jogviták online rendezéséről szóló 524/2013/EU európai parlamenti és tanácsi rendeletben előírt online vitarendezési platform feladatai ellátásának módjáról és a panaszok bejelentésére szolgáló elektronikus űrlap kitöltésének módjáról, és az online vitarendezési kapcsolattartó pontok közötti együttműködés módjáról szóló, a Bizottság 2015/1051 számú végrehajtási rendeletében foglaltak figyelembe vételével köteles eljárni.
+
 19. § A fővárosi kereskedelmi és iparkamara mellett működő békéltető testület látja el a fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról szóló, 2013. május 21-i 524/2013/EU európai parlamenti és tanácsi rendelet szerinti tagállami online vitarendezési kapcsolattartó pont feladatait.
 
 20. § (1) Az eljárásra a fogyasztó lakóhelye vagy tartózkodási helye szerinti békéltető testület illetékes.
@@ -479,7 +481,7 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 (10) Ha a vállalkozás válasziratát nem terjeszti elő, a tanács köteles az eljárást folytatni, anélkül, hogy a mulasztást a kérelmező állításai elismerésének tekintené.
 
-(11) A vállalkozást a békéltető testületi eljárásban együttműködési kötelezettség terheli. Ennek keretében köteles a (8) bekezdésben rögzített tartalommal, az ott említett határidőn belül válasziratát megküldeni a békéltető testület számára és a meghallgatáson egyezség létrehozatalára feljogosított személy részvételét biztosítani. Amennyiben a vállalkozás székhelye vagy telephelye nem a területileg illetékes békéltető testületet működtető kamara szerinti megyébe van bejegyezve, a vállalkozás együttműködési kötelezettsége a fogyasztó igényének megfelelő írásbeli egyezségkötés lehetőségének felajánlására terjed ki.
+(11) A vállalkozást a békéltető testületi eljárásban együttműködési kötelezettség terheli, ennek keretében köteles a (8) bekezdésben rögzített tartalommal, az ott említett határidőn belül válasziratát megküldeni a békéltető testület számára. A fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról szóló, 2013. május 21-i 524/2013/EU európai parlamenti és tanácsi rendelet alkalmazásának kivételével a vállalkozás a meghallgatáson egyezség létrehozatalára feljogosított személy részvételét biztosítani köteles. Amennyiben a vállalkozás székhelye vagy telephelye nem a területileg illetékes békéltető testületet működtető kamara szerinti megyébe van bejegyezve, a vállalkozás együttműködési kötelezettsége a fogyasztó igényének megfelelő írásbeli egyezségkötés lehetőségének felajánlására terjed ki.
 
 (12) A (11) bekezdésben meghatározott együttműködési kötelezettségét megsértő vállalkozásról a békéltető testület értesíti a székhelye szerint illetékes fogyasztóvédelmi hatóságot.
 
@@ -1046,7 +1048,8 @@ vonatkozó részletes szabályokat rendelettel meghatározza.
 
 - a) az Európai Parlament és a Tanács 2006/2004/EK rendelete (2004. október 27.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről, 4. cikk (1) és (6) bekezdés, 5. cikk (1) bekezdés, 16. cikk (1) bekezdés, 17. cikk (1) bekezdés, 21. cikk (2) bekezdés [a 43/A. §, a 43/B. §, a 47. § (6) bek., a 47. § (14) bek., valamint az 51. § (2)–(4) bek.];
 - b) a Bizottság 2007/76/EK határozata (2006. december 22.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról [a 43/A. § (4) bek.];
-- c) a Bizottság 2008/282/EK határozata (2008. március 17.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról szóló 2007/76/EK határozat módosításáról [a 43/A. § (4) bek.].
+- c) a Bizottság 2008/282/EK határozata (2008. március 17.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról szóló 2007/76/EK határozat módosításáról [a 43/A. § (4) bek.];
+- d) az Európai Parlament és Tanács 2013. május 21-i 524/2013/EU rendelete a fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról (fogyasztói online vitarendezési irányelv) [2. § a),18. § (8) bekezdés, 29. § (11) bekezdés];
 
 (3)
 

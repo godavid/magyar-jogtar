@@ -4598,6 +4598,8 @@ azzal, hogy 2019. január 1-jétől a 87. §-ban meghatározott mérték szerint
 
 (2) Az e törvény egyes törvényeknek a pénzügyi közvetítőrendszer fejlesztésének előmozdítása érdekében történő módosításáról szóló 2015. évi LXXXV. törvénnyel megállapított 166/B. §-át a folyamatban lévő hatósági eljárások esetében is alkalmazni kell.
 
+(3) Az e törvény egyes törvényeknek a pénzügyi közvetítőrendszer fejlesztésének előmozdítása érdekében történő módosításáról szóló 2015. évi LXXXV. törvénnyel megállapított 260. § (7) bekezdését a hatálybalépésének napját magában foglaló üzleti év éves beszámolójára, összevont (konszolidált) éves beszámolójára vonatkozó jogszabályi kötelezettségen alapuló könyvvizsgálói feladatok teljesítéséig, de legkésőbb 2016. december 31-ig nem kell alkalmazni.
+
 303. § (1) A hitelintézet nyilvánosságra hozza a 123. § (1) bekezdés a)–c) pontjában meghatározott információkat 2014. július 1-jétől, valamint a 123. § (1) bekezdés d)–f) pontjában meghatározott információkat 2015. január 1-jétől.
 
 (2) A globálisan rendszerszinten jelentős hitelintézet tájékoztatja 2014. július 1-jétől az Európai Bizottságot a 123. § (1) bekezdés d)–f) pontjában meghatározott információkról.
