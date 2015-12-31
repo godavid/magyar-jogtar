@@ -173,7 +173,7 @@ feladatokat lát el.
 
 10. § A 9. § (1) bekezdés h) és i) pontjában meghatározott járművek a nemzetközi kapcsolattartásra jogosult hatósághoz, az f) pontban meghatározott járművek a katasztrófavédelmi hatósághoz történő bejelentés alapján, annak tudomásulvételét és a mentességi nyilvántartásba történő bejegyzést követően jogosultak a díjmentesség igénybevételére.
 
-10/A. § A 9. § (1) bekezdés k) pontjában meghatározott járművek a szállítási feladat elrendelésére jogosult szerv – 11. § (1) bekezdésben meghatározott módon – mentességi nyilvántartásba történő bejegyzését követően mentesülnek a bevallási kötelezettség alól és válnak jogosulttá a díjmentesség igénybevételére.
+10/A. § A 9. § (1) bekezdés k) pontjában meghatározott járművek a szállítási feladat elrendelésére jogosult szerv – közúti közlekedési nyilvántartásról szóló törvényben meghatározott módon – mentességi nyilvántartásba történő bejegyzését követően mentesülnek a bevallási kötelezettség alól és válnak jogosulttá a díjmentesség igénybevételére.
 
 11. § (1) A nyilvántartót elektronikus úton értesíti a 9. § (1) bekezdés alapján mentességet élvező szervezet a díjköteles útszakaszok díjmentes használatára jogosultak nyilvántartásába felvenni kért járművek 9. § (5) bekezdésben meghatározott adatairól, valamint – a változástól számított 30 napon belül – azok változásáról.
 

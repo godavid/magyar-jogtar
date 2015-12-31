@@ -2273,7 +2273,7 @@ a megállapodás biztosítja, hogy az adatot átvevő szerv az átadott adatokat
 
 (4) Az Alap a vagyonértékesítési eszköz alkalmazása során a (3) bekezdés a)–d) pontban említett intézkedésekhez az átvevő tekintetében is igénybe vehető.
 
-127. § Az Alap közvetlenül nem használható az intézmény, pénzügyi vállalkozás, pénzügyi holding társaság, vegyes pénzügyi holding társaság és vegyes tevékenységű holding társaság veszteségeinek a fedezésére, illetve feltőkésítésére.
+127. § Az Alap közvetlenül nem használható az intézmény, pénzügyi vállalkozás, pénzügyi holding társaság, vegyes pénzügyi holding társaság és vegyes tevékenységű holding társaság veszteségeinek a fedezésére, illetve feltőkésítésére. Amennyiben az Alap forrásainak a 126. § (3) bekezdésében rögzített célokra történő felhasználása közvetve azt eredményezi, hogy az intézmény vagy az 1. § (1) bekezdés b)–d) pontjaiban meghatározott szervezet veszteségeinek egy része az Alapra hárul, az Alap forrásainak felhasználására a 60. §-ban meghatározott elveket kell alkalmazni.
 
 #### 66. A fiskális semlegesség elve
 

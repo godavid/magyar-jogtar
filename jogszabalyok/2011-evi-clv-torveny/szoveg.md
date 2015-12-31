@@ -26,7 +26,7 @@ támogatása,
 
 2. § (1) Szakképzési hozzájárulásra kötelezett – a (3)–(4) bekezdésben foglaltak figyelembevételével – a belföldi székhelyű
 
-- a) gazdasági társaság, kivéve a szakképzésről szóló törvény szerinti, szakképzési feladatot ellátó nonprofit gazdasági társaságot,
+- a) gazdasági társaság,
 - b) szövetkezet, kivéve a lakásszövetkezetet, a szociális szövetkezetet, valamint az iskolaszövetkezetet,
 - c) állami vállalat, tröszt, tröszti vállalat, közös vállalat, erdőbirtokossági társulat, vízgazdálkodási társulat – kivéve a víziközmű-társulatot –, egyes jogi személyek vállalata és a leányvállalat,
 - d) ügyvédi iroda, végrehajtó iroda és szabadalmi ügyvivő iroda,
@@ -89,7 +89,7 @@ a foglalkoztatás első két évében, a d) pont szerinti esetben a foglalkoztat
 5. § A szakképzési hozzájárulás teljesíthető
 
 - a) a szakképzésről szóló törvényben foglaltak szerint azon iskolai rendszerű képzések esetében, amelyek állami fenntartású szakképző iskolában vagy szakképzési megállapodás alapján, költségvetési hozzájárulással nem állami szakképző iskolában kerülnek megszervezésre
-  - aa) a szakképzésről szóló törvényben meghatározott szakképző iskola (a továbbiakban: szakképző iskola) és a hozzájárulásra kötelezett között létrejött együttműködési megállapodás alapján, az iskolai rendszerű szakképzésben a nappali rendszerű oktatásban és a nappali oktatás munkarendje szerint szervezett felnőttoktatásban, vagy
+  - aa) a szakképzésről szóló törvényben meghatározott szakképző iskola (a továbbiakban: szakképző iskola) és a hozzájárulásra kötelezett között létrejött együttműködési megállapodás alapján, az iskolai rendszerű szakképzésben a nappali rendszerű oktatásban és a felnőttoktatásban, vagy
   - ab) a szakképző iskola tanulója és a hozzájárulásra kötelezett között létrejött tanulószerződés alapján
 
 folytatott gyakorlati képzés – ideértve a szorgalmi idő befejezését követő összefüggő szakmai gyakorlatot is – szervezésével,
@@ -121,14 +121,7 @@ keretében szervezett szakmai gyakorlattal, ha a szakmai gyakorlatra külső ké
 
 (2) Az a hozzájárulásra kötelezett, aki hozzájárulási kötelezettségét kizárólag az 5. § a) pontja alapján gyakorlati képzés szervezésével teljesíti, és a csökkentő tételek összege meghaladja a bruttó kötelezettsége mértékét, az azt meghaladó részt a (2a) és (2b) bekezdésben meghatározottak szerint – a (2a) bekezdés b) pont ba) alpontja kivételével –, a 9. § (1) és (3) bekezdése szerinti eljárás során az állami adóhatóságtól visszaigényelheti.
 
-(2a) Ha az 5. § a) pont aa) és ab) alpontja alapján számított csökkentő tételek összege a bruttó kötelezettség mértékét meghaladja, és
-
-- a) az 5. § a) pont aa) alpontja alapján számított csökkentő tétel összege nagyobb vagy egyenlő, mint a bruttó kötelezettség mértéke, akkor kizárólag az 5. § a) pont ab) alpontja szerint számított csökkentő tétel vehető figyelembe a visszaigénylésnél;
-- b) az 5. § a) pont aa) alpontja alapján számított csökkentő tétel összege kisebb, mint a bruttó kötelezettség mértéke, és
-  - ba) az 5. § a) pont aa) alpontja alapján számított csökkentő tétel összege nagyobb vagy egyenlő, mint az 5. § a) pont ab) alpontja alapján számított csökkentő tétel, akkor a csökkentő tételek legfeljebb a bruttó kötelezettség mértékéig vehetők figyelembe;
-  - bb) az 5. § a) pont aa) alpontja alapján számított csökkentő tétel összege kisebb, mint az 5. § a) pont ab) alpontja alapján számított csökkentő tétel, akkor a csökkentő tételeknek a bruttó kötelezettség mértékét meghaladó összege visszaigényelhető.
-
-(2b) Ha a hozzájárulásra kötelezett bruttó kötelezettsége nulla, kizárólag az 5. § a) pont ab) alpontja alapján számított csökkentő tétel vehető figyelembe a visszaigénylésnél.
+(2a)–(2b)
 
 (3) A gyakorlati képzést szervező átalányadózó hozzájárulásra kötelezettet nem illeti meg a (2)–(2b) bekezdés szerinti visszatérítés.
 
@@ -200,7 +193,7 @@ keretében szervezett szakmai gyakorlattal, ha a szakmai gyakorlatra külső ké
 - g) az állami fenntartású szakképző iskolák felnőttoktatási tevékenységének támogatására szolgáló keretösszeget,
 - h) a központi keretösszeget,
 - i) a 19/A. § (2) bekezdés b) pontja és (3) bekezdése szerinti feladatokra elkülönített keretösszeget,
-- j) a hozzájárulásra nem kötelezett, a szakképzésről szóló törvény szerint tanulószerződés kötésére jogosult egyéb szerv, szervezet normatív támogatását szolgáló keretösszeget.
+- j)
 
 13. § (1) Az alaprész feletti rendelkezési jogot a szakképzésért és felnőttképzésért felelős miniszter gyakorolja.
 
@@ -223,7 +216,7 @@ keretében szervezett szakmai gyakorlattal, ha a szakmai gyakorlatra külső ké
 - b) támogatás nyújtható saját tulajdonában álló olyan tanműhely létesítéséhez, amelyben az iskolai rendszerű szakképzés keretében az 5. § a) pont ab) alpontjában meghatározottak szerint gyakorlati képzés folytatását tervezi,
 - c) támogatás nyújtható tanműhelyben az 5. § a) pont ab) alpontjában meghatározottak szerint folytatott gyakorlati képzés tárgyi feltételeinek fejlesztésére irányuló beruházáshoz, valamint a vagyoni értékű jogok közé sorolható szoftverfelhasználási jogának a megszerzéséhez, és a szellemi jogvédelem alatt álló szoftvertermék beszerzéséhez.
 
-15. § Az alaprész pénzeszközeiből támogatás nyújtható a szakképzésről szóló törvényben meghatározott tanulószerződés kötésére jogosult egyéb szerv, szervezet részére, az általa kötött tanulószerződés alapján, az általa folytatott gyakorlati képzésre a 12. § j) pontjában meghatározott keretösszeg mértékéig.
+15. §
 
 16. § Az állam az alaprész pénzeszközeiből a szakiskola szakképzési évfolyamán, az első szakképesítésre felkészítő, nappali rendszerű iskolai oktatásban részt vevő, tanulói jogviszonyban lévő, hiány-szakképesítést tanulók részére szakiskolai tanulmányi ösztöndíj biztosításával a 12. § c) pontja szerint rendelkezésre álló költségvetési évre megállapított keretösszeg mértékéig támogatást nyújthat. A szakiskolai tanulmányi ösztöndíj folyósításával összefüggő feladatokat az iskola látja el.
 
