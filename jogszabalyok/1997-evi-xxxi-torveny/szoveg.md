@@ -4266,7 +4266,7 @@ hogy a fenntartó működési engedéllyel rendelkezik.
 
 (3) A fenntartó 2016. február 1-jéig köteles kérelmezni a 2015. december 31-én működő Gyerekházának bejegyzését a szolgáltatói nyilvántartásba. Ha a fenntartó a kérelmet határidőben benyújtja, a Gyerekházat az eljárás befejezéséig úgy kell tekinteni, mintha jogerősen be lenne jegyezve a szolgáltatói nyilvántartásba.
 
-(4) Gyermekjóléti szolgáltatás és családsegítés 2016. január 1-jétől kizárólag egy szolgáltató keretében működtethető. A gyermekjóléti központ feladatainak ellátására 2016. január 1-jétől a települési önkormányzat egyházi fenntartóval és nem állami fenntartóval ellátási szerződést nem köthet.
+(4) Gyermekjóléti szolgáltatás és családsegítés 2016. január 1-jétől kizárólag egy szolgáltató keretében működtethető.
 
 (5) A települési önkormányzat 2015. október 31-éig felülvizsgálja a családsegítés, illetve a gyermekjóléti szolgáltatási feladatok ellátásának módját, szervezeti kereteit és az e feladatok biztosítására kötött ellátási szerződést. A települési önkormányzat 2015. november 30-áig dönt a családsegítés, illetve a gyermekjóléti szolgáltatási feladatok ellátásának a 2016. január 1-jétől hatályos rendelkezéseknek megfelelő biztosítása módjáról. A fenntartó a szolgáltatói nyilvántartásba bejegyzett adatoknak a (4) bekezdésben foglaltak biztosításához szükséges módosítását 2015. november 30-áig kérelmezi. Ha a fenntartó a kérelmet határidőben benyújtja, az eljárás befejezéséig úgy kell tekinteni, mintha a kérelmezett adatmódosítás jogerősen be lenne jegyezve a szolgáltatói nyilvántartásba.
 
