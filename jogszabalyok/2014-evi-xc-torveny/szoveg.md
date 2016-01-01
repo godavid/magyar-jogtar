@@ -27,25 +27,25 @@ Az Országgyűlés, Magyarország globális kihívások iránti elkötelezettsé
 
 #### 2. Tervezés
 
-6. § A nemzetközi fejlesztési együttműködési tevékenység tervezése és a szakpolitikák fejlesztési célú összhangja érdekében a külgazdasági ügyekért felelős miniszter – az érintett minisztériumokkal együttműködve és a civil társadalommal konzultálva – legalább négyéves időtávra szakpolitikai stratégiát készít. A szakpolitikai stratégia meghatározza a kedvezményezett partnerországok körét és kijelöli az ágazati prioritásokat.
+6. § A nemzetközi fejlesztési együttműködési tevékenység tervezése és a szakpolitikák fejlesztési célú összhangja érdekében a külpolitikáért felelős miniszter – az érintett minisztériumokkal együttműködve és a civil társadalommal konzultálva – legalább négyéves időtávra szakpolitikai stratégiát készít, amely meghatározza a földrajzi és ágazati prioritásokat.
 
-7. § A szakpolitikai stratégia alapján a külgazdasági ügyekért felelős miniszter az államháztartásért felelős miniszterrel együttműködve éves cselekvési tervet készít, amely az adott költségvetési évre vonatkozóan tartalmazza a nemzetközi fejlesztési együttműködési tevékenység végrehajtásának ütemezését és pénzügyi tervezését, valamint a jövőbeni tevékenység hatékonyságának növelésére vonatkozó javaslatot.
+7. § A szakpolitikai stratégia alapján a külpolitikáért felelős miniszter az államháztartásért felelős miniszterrel együttműködve éves cselekvési tervet készít, amely az adott költségvetési évre vonatkozóan tartalmazza a nemzetközi fejlesztési együttműködési tevékenység végrehajtásának ütemezését és pénzügyi tervezését, valamint a jövőbeni tevékenység hatékonyságának növelésére vonatkozó javaslatot.
 
 #### 3. Végrehajtás és koordináció
 
-8. § (1) A központi államigazgatási szervek a feladat- és hatáskörükbe tartozó területeken nemzetközi fejlesztési együttműködési tevékenységet folytatnak, amelyet a külgazdasági ügyekért felelős miniszter koordinál.
+8. § (1) A központi államigazgatási szervek a feladat- és hatáskörükbe tartozó területeken nemzetközi fejlesztési együttműködési tevékenységet folytatnak, amelyet a külpolitikáért felelős miniszter koordinál.
 
 (2) E tevékenységük végrehajtása során a központi államigazgatási szervek – a társadalmi részvétel alapelvével összhangban – együttműködnek a civil szervezetekkel és más társadalmi partnerekkel, különösen a tudomány, a kultúra, az érdek-képviseleti szervek és a parlamenti pártok képviselőivel. Az együttműködés rendszeres tájékoztatás és konzultáció formájában valósul meg a szakpolitikához kapcsolódó jogalkotás, tervezés, végrehajtás és ellenőrzés folyamán.
 
 (3) A központi államigazgatási szervek a nemzetközi fejlesztési együttműködési tevékenység végrehajtásába bevonnak olyan gazdasági szereplőket, amelyek fenntartható, környezeti és társadalmi szempontból a nemzetközi normáknak megfelelő gyakorlatot folytatnak, és a nemzetközi fejlesztési hatékonysági elveknek, különösen az átláthatóság elvének megfelelően működnek.
 
-(4) A nemzetközi fejlesztési együttműködési tevékenység pénzügyi és tárgyi támogatás, technikai segítségnyújtás, illetve a Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló törvényben meghatározott eszközök útján valósul meg.
+(4) A nemzetközi fejlesztési együttműködési tevékenység pénzügyi és tárgyi támogatás, adomány, felajánlás, valamint technikai segítségnyújtás, illetve a Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló törvényben meghatározott eszközök útján valósul meg.
 
 9. § (1) A nemzetközi humanitárius segítségnyújtás kormányzati koordinációját a külpolitikáért felelős miniszter látja el. Ennek során kiemelt figyelmet fordít a Kormány által elfogadott nemzetközi humanitárius segítségnyújtási stratégiák és szakpolitikai koncepciók megvalósítására.
 
 (2) A nemzetközi humanitárius segítségnyújtási felajánlással kapcsolatos döntéseket a külpolitikáért felelős miniszter hozza meg, figyelembe véve a nemzetközi szervezetek, valamint a Nemzetközi Vöröskereszt és Vörösfélhold Mozgalom által készített felhívásokat.
 
-(3) A nemzetközi humanitárius segítségnyújtás pénzügyi és tárgyi felajánlás révén egyaránt megvalósulhat.
+(3) A nemzetközi humanitárius segítségnyújtás pénzügyi és tárgyi felajánlás, így különösen segély, adomány révén egyaránt megvalósulhat.
 
 10. § (1) A nemzetközi humanitárius segítségnyújtásban az alábbi szervezetek működhetnek közre:
 
@@ -61,45 +61,48 @@ Az Országgyűlés, Magyarország globális kihívások iránti elkötelezettsé
 
 11. § (1) A Kormány a nemzetközi fejlesztési együttműködési és humanitárius segítségnyújtási tevékenység koordinációja és a szakpolitikák fejlesztési célú összhangja érdekében tárcaközi bizottságot működtet.
 
-(2) A külgazdasági ügyekért felelős miniszter és a külpolitikáért felelős miniszter a nemzetközi fejlesztési együttműködési és humanitárius segítségnyújtási tevékenység hatékonyságának növelése érdekében a projektalapú tevékenység ellátását elősegítő ügynökséget működtet.
+(2) A külpolitikáért felelős miniszter a nemzetközi fejlesztési együttműködési és humanitárius segítségnyújtási tevékenység hatékonyságának növelése érdekében a projektalapú tevékenység ellátását elősegítő ügynökséget működtet.
 
 #### 4. Nemzetközi fejlesztési tudatosság növelése
 
-12. § A külgazdasági ügyekért felelős miniszter, a külpolitikáért felelős miniszter és az oktatásért felelős miniszter közreműködik a nemzetközi fejlesztési együttműködési és nemzetközi humanitárius segítségnyújtási tevékenység hazai társadalmi támogatottságának növelésében, a fiatal generáció szemléletformálásában és az önkéntesség szerepének erősítésében.
+12. § A külpolitikáért felelős miniszter és az oktatásért felelős miniszter együttműködik a nemzetközi fejlesztési együttműködési és nemzetközi humanitárius segítségnyújtási tevékenység hazai társadalmi támogatottságának növelésében, és ennek részeként a fiatal generáció szemléletformálásában, az önkéntesség szerepének erősítésében és a globális felelősségvállalásra nevelés előmozdításában.
 
 #### 5. Finanszírozás
 
-13. § (1) A nemzetközi fejlesztési együttműködési és nemzetközi humanitárius segítségnyújtási tevékenység összkormányzati költségigényét a külgazdasági ügyekért felelős miniszter és a külpolitikáért felelős miniszter terjeszti elő, és az a központi költségvetésben fejezeti kezelésű előirányzatként kell megtervezni.
-
-(2) Az (1) bekezdés szerinti fejezeti kezelésű előirányzat felhasználását a külgazdasági ügyekért felelős miniszter és a külpolitikáért felelős miniszter irányítja.
+13. § A nemzetközi fejlesztési együttműködési és nemzetközi humanitárius segítségnyújtási tevékenység költségigényét Magyarország nemzetközi és európai uniós vállalásainak figyelembe vételével a külpolitikáért felelős miniszter terjeszti elő.
 
 #### 6. Átláthatóság
 
-14. § A költségvetési támogatással megvalósuló projektekről a külgazdasági ügyekért felelős miniszter és a külpolitikáért felelős miniszter nyilvánosan hozzáférhető adatbázist vezet, amelynek részletes szabályait az e törvény végrehajtására kiadott miniszteri rendelet tartalmazza.
+14. § A költségvetési támogatással megvalósuló projektekről a külpolitikáért felelős miniszter nyilvánosan hozzáférhető adatbázist vezet, amelynek részletes szabályait az e törvény végrehajtására kiadott miniszteri rendelet tartalmazza.
 
-15. § A külgazdasági ügyekért felelős miniszter és a külpolitikáért felelős miniszter minden év július 31-ig jelentést készít a Kormány részére az előző évi nemzetközi fejlesztési együttműködési és nemzetközi humanitárius segítségnyújtási tevékenységről. A jelentést, annak Kormány általi elfogadását követően, a külgazdasági ügyekért felelős miniszter és a külpolitikáért felelős miniszter az általa vezetett minisztérium honlapján nyilvánosságra hozza.
+15. § A külpolitikáért felelős miniszter minden év augusztus 31-ig jelentést készít a Kormány részére az előző évi nemzetközi fejlesztési együttműködési és nemzetközi humanitárius segítségnyújtási tevékenységről. A jelentést, annak Kormány általi elfogadását követően, a külpolitikáért felelős miniszter az általa vezetett minisztérium honlapján nyilvánosságra hozza.
 
 #### 7. Záró rendelkezések
 
 16. § (1) Felhatalmazást kap a Kormány, hogy a nemzetközi fejlesztési együttműködés végrehajtásában részt vevő ügynökség feladatait ellátó szervezetet kijelölje.
 
-(2) Felhatalmazást kap a külgazdasági ügyekért felelős miniszter és a külpolitikáért felelős miniszter, hogy feladatkörében:
+(2) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy feladatkörében:
 
-- a) a kedvezményezett partnerországok és az ágazati prioritások kijelölési szempontjait,
-- b) a nemzetközi fejlesztési együttműködési tevékenység formáit,
-- c) az adatbázis vezetésének részletes szabályait és az adatbázis tartalmát
+- a) a nemzetközi fejlesztési együttműködési és a nemzetközi humanitárius segítségnyújtási tevékenység formáit,
+- b) a 14. § szerinti adatbázis vezetésének részletes szabályait és az adatbázis tartalmát,
+- c) a szakpolitikák végrehajtásában közreműködő civil szervezetek előminősítésének szempontjait és eljárását
 
 rendeletben állapítsa meg.
 
-17. § A nemzetközi fejlesztési együttműködéshez és humanitárius segítségnyújtáshoz nyújtott költségvetési támogatás vonatkozásában
+17. § (1) A nemzetközi fejlesztési együttműködéshez és humanitárius segítségnyújtáshoz nyújtott költségvetési támogatás vonatkozásában
 
-- a)
-- b) az államháztartásról szóló 2011. évi CXCV. törvény 50. § (5) bekezdését és 51. §-át,
-- c) az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet
-  - ca) 67. § (1) bekezdés f) pontját, ha a pályázó az általános forgalmi adóról szóló törvény alapján alanyi adómentes adóalanynak minősül,
-  - cb) 72. §-át és a 76. § (1) bekezdés f) pontját az előminősítő rendszerről szóló miniszteri rendelet alapján előminősített civil szervezetek esetében,
-  - cc) 73. § (3) bekezdését, 78. § (3) bekezdését és a 80. § (4) bekezdését nem kell alkalmazni,
-  - cd) 88/A. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a beszámolót a kedvezményezett bizonylatok helyett könyvvizsgálói jelentéssel is alátámaszthatja.
+- a) nem kell alkalmazni
+  - aa) az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 50/A. §-át és 52. §-át,
+  - ab) az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 69. § (1) bekezdés f) pontját, ha a pályázó az általános forgalmi adóról szóló törvény alapján alanyi adómentes adóalanynak minősül,
+  - ac) külföldi kedvezményezett esetén az Áht. 50. § (1) bekezdés a) pontját, valamint 55. és 56. §-át,
+- b) az Ávr. 102/B. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a beszámolót a kedvezményezett bizonylatok helyett könyvvizsgálói jelentéssel is alátámaszthatja.
+
+(2) A humanitárius segítségnyújtáshoz nyújtott költségvetési támogatás vonatkozásában – az (1) bekezdésen túl – az Ávr.
+
+- a) 75. §-át és a 81. § e) pontját az előminősítő rendszerről szóló miniszteri rendelet alapján előminősített civil szervezetek esetében,
+- b) 76. § (2) bekezdését
+
+nem kell alkalmazni.
 
 18. § Ez a törvény 2015. július 1-jén lép hatályba.
 

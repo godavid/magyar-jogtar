@@ -31,6 +31,7 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
 - 13. Történeti állomány: a járműnyilvántartás történeti állománya tartalmazza a járműnyilvántartás hatálya alá tartozó járműtulajdonos (üzembentartó) és a jármű minden eddigi, e törvény hatálya alá tartozó adatát és adatváltozását.
 - 14. Automatizált keresés: egy másik szerv automatizált állományaihoz való közvetlen hozzáférés, amely eljárás során a válasz is teljesen automatizált módon érkezik.
 - 15. Parkolási igazolvány nyilvántartása: az igazolvány használatára a mozgásában korlátozott személy parkolási igazolványáról szóló kormányrendeletben meghatározott jogosultak, valamint az igazolvány adatait tartalmazó közhiteles hatósági nyilvántartás.
+- 16. Útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartása: az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvény, valamint az autópályák, autóutak és főutak használati díjáról szóló miniszteri rendelet alapján mentességet élvező szervezetekről és járművekről vezetett nyilvántartás.
 
 ### II. Fejezet — A KÖZÚTI KÖZLEKEDÉSI NYILVÁNTARTÁS SZERVEZETE ÉS AZ ADATSZOLGÁLTATÁSI HATÁSKÖRÖK
 
@@ -49,11 +50,11 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
   - gb) jogosult, az Európai Unión kívüli országok részére nemzetközi szerződés, viszonosság alapján, illetve az Európai Unió tagállamának közlekedési nyilvántartása felé a 9. § (1) és (2) bekezdésében meghatározott adatokat továbbítani,
   - gc) a ga) pontban meghatározott adatigénylés lehetőségének hiányában, illetve annak kiegészítése céljából jogosult a jármű- és okmányazonosító, valamint műszaki adatok átadásával technikai adatok beszerzésére, illetőleg a körözés tényének a nemzeti nyilvántartásokban történő ellenőrzésére külön jogszabály szerint közreműködő igénybevételére.
 
-(2) A nyilvántartó a Schengeni Információs Rendszerben (a továbbiakban: SIS II) elhelyezendő figyelmeztető jelzés (a továbbiakban: figyelmeztető jelzés) elhelyezése céljából az N.SIS II Hivatalnak elektronikus úton továbbítja annak a forgalmi engedélynek, vezetői engedélynek, illetve a jármű hatósági jelzésének az adatait, amelynek elvesztését, eltulajdonítását vagy egyéb jogszabályban meghatározott okból történő érvénytelenítését az engedély-, illetve járműnyilvántartásba bejegyezték.
+(2) A nyilvántartó a jogszabályban meghatározott, lefoglalásra vagy – a körözési nyilvántartási rendszert vezető szerv által az okmány adatainak a körözési nyilvántartási rendszerbe rögzítéséről küldött elektronikus értesítés alapján – büntetőeljárásban bizonyítékként való felhasználásra irányuló figyelmeztető jelzés (a továbbiakban: figyelmeztető jelzés) elhelyezése céljából haladéktalanul a Schengeni Információs Rendszerbe (a továbbiakban: SIS II) továbbítja annak a forgalmi engedélynek, vezetői engedélynek, illetve a jármű hatósági jelzésének a törvényben meghatározott adatait, amelynek elvesztését, eltulajdonítását vagy az egyéb jogszabályban meghatározott okból történő érvénytelenítését az engedély-, illetve a járműnyilvántartásba bejegyezték, ha az okmány, illetve a hatósági jelzés nincs a hatóság birtokában.
 
-(3) Ha a (2) bekezdés szerinti okmány időközben megkerült és megkerülésének tényét az engedély-, illetve járműnyilvántartásba bejegyezték, a nyilvántartó a (2) bekezdés szerinti módon gondoskodik a figyelmeztető jelzés törléséről.
+(3) Ha a (2) bekezdés szerinti okmány, illetve hatósági jelzés időközben megkerült és az okmány, illetve a hatósági jelzés megkerülésének tényét az engedély-, illetve a járműnyilvántartásba bejegyezték, vagy a körözési nyilvántartási rendszert vezető szerv által az okmánykörözés visszavonásáról, törléséről elektronikus úton küldött értesítést, a nyilvántartó a (2) bekezdés szerinti módon gondoskodik a schengeni figyelmeztető jelzés törléséről.
 
-(4) Ha a vezetői engedély megszemélyesítését végző adatfeldolgozó szerv kitöltetlen vezetői engedély eltűnéséről (elvesztéséről, eltulajdonításáról, megsemmisüléséről), illetve az eltűnt kitöltetlen okmány megkerüléséről értesíti a nyilvántartót, az a jogszabály szerinti felhasználói felületen keresztül gondoskodik a figyelmeztető jelzés beviteléről, illetve törléséről.
+(4) Ha a vezetői engedély megszemélyesítését végző adatfeldolgozó szerv kitöltetlen vezetői engedély eltűnéséről (elvesztéséről, eltulajdonításáról) vagy az eltűnt kitöltetlen okmány megkerüléséről értesíti a nyilvántartót, a nyilvántartó a jogszabályban meghatározott NS.CP Portál felületen keresztül gondoskodik a schengeni figyelmeztető jelzés beviteléről, illetve törléséről.
 
 ### Az okmányellátás rendszere
 
@@ -67,7 +68,7 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
 - f) továbbítja az okmánytár részére a nyilvántartásba történő bejegyzés és az okmányok kitöltésének alapját képező, a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló jogszabály mellékletében csatolandóként meghatározott iratokat;
 - g)
 - h) visszavonja (bevonja) az engedélyt, a parkolási igazolványt, a járművet forgalomból kivonja, és gondoskodik az ezekkel összefüggő adatok nyilvántartásba történő bevezetéséről;
-- i) illetékmentes eljárás keretében ellátja a parkolási igazolvány kiadásával, meghosszabbításával, cseréjével, díj ellenében a parkolási igazolvány pótlásával összefüggő feladatokat, gondoskodik a parkolási igazolvány kiállításáról és az ügyfél részére történő átadásáról;
+- i)
 - j) a vezetői engedélyt – ha a járművezető nyilvántartott pontjainak száma a nyilvántartó értesítése szerint elérte vagy meghaladta a 18-at – az értesítéstől számított nyolc napon belül határozattal visszavonja, és a határozat jogerőre emelkedésekor nyilvántartott pontokat törli;
 - k) jogosult a törvényben meghatározottak szerint a SIS II-ből adatot igényelni.
 
@@ -87,7 +88,8 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
 - c) a származás-ellenőrzési nyilvántartásból;
 - d) az okmánytárból;
 - e) a parkolási igazolvány nyilvántartásból;
-- f) az előzetes eredetiségvizsgálati nyilvántartásból.
+- f) az előzetes eredetiségvizsgálati nyilvántartásból;
+- g) az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartásából.
 
 8. § (1) Az engedély-nyilvántartás tartalmazza
 
@@ -99,7 +101,8 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
   - ae) egészségi és pályaalkalmassági, valamint az utánképzésére vonatkozó adatait,
   - af) elhalálozásának idejét,
   - ag) állampolgárságát,
-  - ah) közúti közlekedési előéleti pontrendszer adatait, továbbá
+  - ah) közúti közlekedési előéleti pontrendszer adatait,
+  - ai) „Gépjármű-vezetői képesítési igazolvány” sorszámára, kategóriájára, kiadásának dátumára és érvényességi idejére vonatkozó adatokat, továbbá
 - b) az engedély
   - ba) típusára, okmányazonosító jelére, kiadására, érvényességére (idejére, kategóriájára), cseréjére és visszavonására vagy bevonására (leadására, elvételére, visszaadására) vonatkozó adatokat,
   - bb) elvesztésére, eltulajdonítására, megsemmisülésére, egyéb okból történő érvénytelenségére, megtalálására és megkerülésére vonatkozó adatokat,
@@ -108,7 +111,7 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
 
 (2) Az engedély-nyilvántartás az (1) bekezdésben meghatározott adatokon kívül tartalmazza a figyelmeztető jelzés kezelésével kapcsolatos, törvényben, személyes adatoknak nem minősülő adatok esetében jogszabályban meghatározott adatokat is.
 
-(3) Az engedély-nyilvántartás az (1) és (2) bekezdésben meghatározott adatok tekintetében – a természetes személyazonosító, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(3) Az engedély-nyilvántartás az (1) és (2) bekezdésben meghatározott adatok tekintetében – a természetes személyazonosító, a lakcím-azonosító adatok, valamint a „Gépjármű-vezetői képesítési igazolvány” adatai kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 8/A. § (1) A parkolási igazolvány nyilvántartása tartalmazza
 
@@ -157,9 +160,11 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
 (5) A 3,5 tonna megengedett legnagyobb össztömeget meghaladó tehergépkocsiból, vontatóból, pótkocsiból és autóbuszból
 
 - a) 10-nél többet üzemeltető üzemben tartó az (1) bekezdés b) pontja és d) pont db) alpontja szerinti székhely, telephely címként olyan települési cím bejegyzését kérheti, amelyet a cégjegyzék vagy a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatal általa vezetett egyéni vállalkozók nyilvántartása tartalmaz,
-- b) legfeljebb 10-et üzemeltető üzemben tartó az (1) bekezdés b) pontja és d) pont db) alpontja székhely, telephely címként olyan települési cím bejegyzését is kérheti, amelyet a külön jogszabály szerint tárolási helyül a közlekedési hatóságnak bejelentett, és a bejelentés megtörténtét a közlekedési hatóság igazolása tanúsítja, feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolgál. Azt a tényt, hogy a települési cím szerinti ingatlan alkalmas a járművek tárolására, a települési önkormányzat jegyzője igazolja.
+- b) legfeljebb 10-et üzemeltető üzemben tartó az (1) bekezdés b) pontja és d) pont db) alpontja szerinti székhely, telephely címként olyan települési cím bejegyzését is kérheti, amely alkalmasságát a települési önkormányzat jegyzője igazolja,
 
-(6) Az (1) bekezdés b) pontja és d) pont db) alpontja szerinti telephely alatt a legfeljebb 10 járművet üzemeltető üzemben tartó által a külön jogszabály szerint bejelentett tárolóhely is értendő.
+feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolgál. Azt a tényt, hogy a települési cím szerinti ingatlan alkalmas a járművek tárolására, a települési önkormányzat jegyzője igazolja.
+
+(6) Az (1) bekezdés b) pontja és d) pont db) alpontja szerinti telephely alatt a legfeljebb 10 járművet üzemeltető üzemben tartó által a külön jogszabályban megnevezett tárolóhely is értendő.
 
 (6a) A járműnyilvántartás tartalmazza a természetes személlyel szemben megindított bírósági adósságrendezési eljárás tényét.
 
@@ -198,6 +203,15 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
 
 (5) Az előzetes eredetiségvizsgálati nyilvántartás az (1) bekezdés b)–g) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
+9/C. § (1) Az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartása tartalmazza
+
+- a) a jármű forgalmi rendszámát,
+- b) a jármű azonosító és műszaki adatait,
+- c) a díjmentes használat jogcímének megjelölését, továbbá
+- d) a díjmentes használati jogosultság kezdőidőpontját és annak időtartamát.
+
+(2) A nyilvántartó az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára való jogosultság ellenőrzése céljából a nyilvántartásba vételt megelőzően az érintett gépjármű rendszámadatát összeveti a járműnyilvántartás 9. § (1) bekezdés szerinti adataival.
+
 10. § A nyilvántartó a nyilvántartási eljárásban, az érintett személy és a hatóság kapcsolattartása céljából kezeli a nyilvántartásban szereplő személyek személyi azonosítóját, amelyet az érintett személy az eljárás során köteles közölni a hatósággal. A nyilvántartó a személyi azonosítót csak belső azonosítóként használhatja.
 
 11. § Az engedély – típusától függően – tartalmazza a járművezető
@@ -229,12 +243,17 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
 
 (2) A nyilvántartót értesíti:
 
-- a) a járműokmányt kiadó, érvényesítő, cserélő, visszavonó, visszaadó, a járműokmányba bejegyzést tevő hatóság a jogerős határozatáról, a járműokmány adatairól, illetve az adatváltozásról;
+- a) a járműokmányt kiadó, érvényesítő, cserélő, visszavonó, visszaadó, a járműokmányba bejegyzést tevő hatóság a jogerős határozatáról, a járműokmány adatairól vagy az adatváltozásról;
 - b) a személyiadat- és lakcímnyilvántartás szerve a polgár nyilvántartásba bejegyzett adatai megváltozásáról, illetve elhalálozásának idejéről;
 - c) a jogszabályban meghatározott hatóság a 8. § (1) bekezdés h) pontjában megjelölt adatokról;
 - d) a parkolási igazolványt kiállító hatóság a 8/A. §-ban meghatározott adatokról;
-- e) a közlekedési hatóság a járművezetőnek a 8. § (1) bekezdés a) pont aa)–ad) és ae) pontjában meghatározott pályaalkalmasságára és utánképzésére vonatkozó, továbbá k) és l) pontjában, valamint a jármű forgalomba helyezés előtti és időszakos vizsgálata során, továbbá a járműhonosítási eljárásban megállapított, a 9. § (2) bekezdés a), b), d) és g) pontjában meghatározott adatairól;
-- f) a biztosító a külön jogszabályban meghatározott kötelező gépjármű-felelősségbiztosítási kötvény adatairól.
+- e) a közlekedési hatóság elektronikus úton
+  - ea) a járművezetőnek a 8. § (1) bekezdés a) pont aa)–ae) alpontjában meghatározott pályaalkalmasságára és utánképzésére vonatkozó adatairól,
+  - eb) az engedélynek a 8. § (1) bekezdés b) pont bd) alpontjában meghatározott adatairól,
+  - ec) a jármű forgalomba helyezés előtti és időszakos vizsgálata során, továbbá a jármű-honosítási eljárásban megállapított, a 9. § (2) bekezdés a), b), d) és g) pontjában meghatározott adatairól,
+  - ed) a „Gépjármű-vezetői képesítési igazolvány” sorszámáról, kategóriájáról, kiadásának dátumáról és érvényességi idejéről;
+- f) a biztosító a külön jogszabályban meghatározott kötelező gépjármű-felelősségbiztosítási kötvény adatairól;
+- g) a díjmentes úthasználatra jogosult az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartásába felvenni kért járművek 9/C. § (1) bekezdésben meghatározott adatairól, valamint – a változástól számított 30 napon belül – azok változásáról.
 
 14/A. § A közlekedési igazgatási hatóságot értesíti
 
@@ -246,11 +265,12 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
 
 15. § (1) A nyilvántartó kezeli:
 
-- a) a 8. §-ban megjelölt adatokat – a (3) bekezdésben foglalt kivétellel – az engedély érvényessége megszűnésétől, visszavonásától, illetve a járművezető elhalálozásától számított tíz évig;
+- a) a 8. §-ban megjelölt adatokat – a (3) bekezdésben foglalt kivétellel – az engedély érvényessége megszűnésétől, visszavonásától vagy a járművezető elhalálozásától számított tíz évig;
 - b) a 9. § (1) bekezdésében, valamint a 9. § (2) bekezdés a)–e) és g) pontjában meghatározott adatokat a jármű forgalomból történő végleges kivonásától számított tíz évig; a 9. § (2) bekezdés f) pontja szerinti adatokat a törvényben meghatározott időtartamig;
 - c) a 9/A. § (1) bekezdésében megjelölt adatokat a nyilvántartásba vételt követő tíz évig;
 - d) a 8/A. §-ban megjelölt adatokat a parkolási igazolványra való jogosultság megszűnésétől számított öt évig;
-- e) a 9/B. § (1) bekezdésében megjelölt adatokat a jármű forgalomból történő végleges kivonásától számított öt évig.
+- e) a 9/B. § (1) bekezdésében megjelölt adatokat a jármű forgalomból történő végleges kivonásától számított öt évig;
+- f) a 9/C. §-ban megjelölt adatokat az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára való jogosultság megszűnését követő 2 évig.
 
 (2) Az okmánytár iratait a nyilvántartó az (1) bekezdésben megjelölt határidőt követő öt évig kezeli.
 
@@ -308,13 +328,14 @@ igényelhető.
 - m) az Országgyűlési Őrség a személyvédelmi és létesítménybiztosítási feladatai ellátásához szükséges adatokat;
 - n) a helyi önkormányzat, illetve a várakozásdíj-fizetési kötelezettség teljesítésének ellenőrzésére, a várakozási díj és a pótdíj beszedésére általa megbízott, a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 16/A. §-ában meghatározott szolgáltató a várakozási díj meg nem fizetése esetén a jogszerű parkolás megállapítása érdekében a 8/A. § (1) bekezdés g), h) és k) pontjaiban, valamint a díj és a pótdíj behajtása érdekében a 9. § (1)–(1a) bekezdésében, (2) bekezdés a), b), d) és e) pontjaiban, továbbá a (3) bekezdésében megjelölt adatokat.
 - o) a Központi Statisztikai Hivatal törvényben meghatározott feladatai ellátásához szükséges statisztikai adatokat;
-- p) a díjköteles országos közutak díjfizetés ellenében történő használatának ellenőrzésére jogosult szervezetek törvényben meghatározott feladataik ellátásához a 9. § (1)–(1a) bekezdésében, (2) bekezdés a)–b), d)–e) pontjában, (3) bekezdésében foglalt adatokat;
+- p) az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjfizetés ellenében történő használatának ellenőrzésére, valamint a díjszedésre jogosult szervezetek törvényben meghatározott feladataik ellátásához a 9. § (1) és (1a) bekezdésében, (2) bekezdés a), b), d) és e) pontjában, (3) bekezdésében és a 9/C. §-ban foglalt adatokat;
 - q) az országos közutak kezelői a közúti közlekedésről szóló 1988. évi I. törvény 14/A. §-ában meghatározott feladatuk ellátásához a 9. § (1)–(1a) és (3)–(4) bekezdése szerinti adatokat;
 - r) az országos közutak kezelői a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek ellenőrzésére vonatkozó feladataik ellátásához a 9. § (1)–(1a) bekezdésben, a (2) bekezdés a)–b) és d)–e) pontjában, valamint a (3) bekezdésében foglalt adatokat,
 - s) a Kkt. 9/D. § (2) bekezdésében meghatározott közfeladat ellátására jogosult, valamint a közfeladat ellátására jogosulttal a Kkt. 9/D. § (4) bekezdése alapján szerződött szervezet feladatai ellátásához a 9. § (1)–(1a) és (3) bekezdésben foglalt adatokat,
 - t) az anyakönyvvezető a személyazonosság ellenőrzése és az elhunyt személy személyazonosság igazolására alkalmas okmányának bevonása céljából a 8. § (1) bekezdés a) pont aa), ab), af) és ag) alpontjában, valamint b) pont ba) és bb) alpontjában foglalt adatokat,
 - u) a szociális hatáskört gyakorló szerv a szociális ellátásra való jogosultság megállapítása, ellenőrzése céljából a 9. § (1) bekezdés a) és b) pontjában, valamint (2) bekezdés a)–c) pontjaiban megjelölt adatokat;
 - v) a környezetvédelmi és természetvédelmi hatóság az engedély nélküli hulladéklerakással összefüggő feladatai ellátásához a 9. § (1) és (1a) bekezdésben megjelölt adatokat;
+- w) a büntetés-végrehajtási intézet a befogadás során az elítélt személyazonosságának ellenőrzése érdekében a 8. § (1) bekezdés a) pont aa)–ad), af) és ag) alpontjában, valamint a b) pont ba) és bb) alpontjában foglalt adatokat;
 - z) a Családi Csődvédelmi Szolgálat és a családi vagyonfelügyelő a természetes személyek adósságrendezéséről szóló törvény szerinti feladataik ellátásához a járműtulajdonos (üzembentartó) 9. § (1), (1a) és (3) bekezdésében meghatározott adatait és a tulajdonosváltozásra vonatkozó adatokat, és csoportos adatszolgáltatást a természetes személy mint járműtulajdonos járműveire a 9. § (2) bekezdésben felsorolt adatokat.
 
 (2) A nyilvántartásból adatot igényelhetnek:
@@ -322,11 +343,14 @@ igényelhető.
 - a) a 8. § (1) bekezdés a) pont ac)–ad) alpontjában meghatározott adatok kivételével
   - aa) a szabálysértési ügyekben eljáró hatóság a szabálysértési eljárás lefolytatásához,
   - ab) a közúti közlekedés ellenőrzésére jogosult hatóságok a közúti közlekedési ellenőrzéssel kapcsolatos feladataik ellátásához;
-- b) a hivatásos katasztrófavédelmi szerv, a megyei, fővárosi védelmi bizottság elnöke és a polgármester törvényben meghatározott polgári védelmi feladatai ellátásához a 8. § (1) bekezdés a) pont ac), ad), ag), ah) alpontjában és a 9. § (1) bekezdés c) pontjában, és d) pont dc) alpontjában meghatározott adatok kivételével.
+- b) a hivatásos katasztrófavédelmi szerv, a megyei, fővárosi védelmi bizottság elnöke és a polgármester törvényben meghatározott polgári védelmi feladatai ellátásához a 8. § (1) bekezdés a) pont ac), ad), ag), ah) alpontjában és a 9. § (1) bekezdés c) pontjában, és d) pont dc) alpontjában meghatározott adatok kivételével;
+- c) a közlekedési hatóság a 9/A–9/C. §-ban meghatározott nyilvántartási adatok kivételével
+  - ca) a pályaalkalmassági, képzési, utánképzési és vizsgáztatási feladatai ellátásához a 8. §-ban meghatározott adatokat,
+  - cb) a jármű műszaki adatainak és alkalmasságának megállapításával kapcsolatos feladataik ellátásához a 9. §-ban meghatározott adatokat.
 
 (3) A külpolitikáért felelős miniszter által vezetett minisztérium konzuli szolgálata adatszolgáltatást igényelhet az érintett személy által közölt és a nyilvántartásban szereplő adatok egyezőségéről.
 
-(4) A Rendőrség az útdíjköteles elemi útszakaszok díjmentes használatára való jogosultság ellenőrzése céljából a nyilvántartásba vételt megelőzően az érintett gépjármű rendszámadata alapján történő lekérdezéssel jogosult a járműnyilvántartás 9. § (1) bekezdés szerinti adatait megismerni.
+(4)
 
 20. § A 19. §-ban megjelölt szervek a célt és a jogalapot az adat megismerésére jogosító jogszabályi rendelkezés megjelölésével igazolják.
 
@@ -373,7 +397,12 @@ továbbítására jogosult.
 
 (7) A nyilvántartó a vezetői engedély kiadásáról szóló döntését követően a vezetői engedély okmány megszemélyesítésével egyidejűleg a vezetői engedély okmányazonosítója alapján kapcsolati kódot képez, majd a titkosított kapcsolati kódot annak típusmegjelölésével a külön törvény szerinti összerendelési nyilvántartásnak az összerendelési bejegyzés újabb kapcsolati kóddal történő kiegészítése céljából átadja.
 
-25. § A nyilvántartó a nyilvántartás adatait statisztikai célra feldolgozhatja és nyilvánosságra hozhatja, illetőleg az adatokat személyazonosításra alkalmatlan módon statisztikai célra továbbíthatja.
+25. § (1) A nyilvántartó a nyilvántartás adatait statisztikai célra feldolgozhatja és nyilvánosságra hozhatja, valamint az adatokat
+
+- a) a Központi Statisztikai Hivatal részére egyedi azonosításra alkalmas módon,
+- b) egyéb esetekben személyazonosításra alkalmatlan módon statisztikai célra továbbíthatja.
+
+(2) A 9. § (2) bekezdés a) pontjában meghatározott adatok közül a jármű gyártmánya, típusa, színe, a 9. § (2) bekezdés g) pontjában meghatározott adatok, a forgalomból kivont állapot ténye, valamint a körözés ténye az adatszolgáltatás céljának és jogalapjának igazolása nélkül nyilvánosan, közvetlenül elektronikus úton is lekérdezhető.
 
 26. § (1) A nyilvántartás adatai összekapcsolhatók a körözött járművek és okmányok nyilvántartásával, valamint a kötelező gépjármű-felelősségbiztosítási kötvény nyilvántartással.
 

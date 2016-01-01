@@ -218,7 +218,7 @@ díjmentesen kell szolgáltatni, függetlenül az egyes nyilvántartásokra vona
 
 (3) A mezőgazdasági igazgatási szerv az átvett és az adatlekérdezés, illetve adatfeldolgozás során keletkezett adatokat nem továbbíthatja.
 
-30. § (1) Az eljárás ügyintézési határideje 60 nap, amely kivételesen indokolt esetben, egy alkalommal, legfeljebb 30 nappal hosszabbítható meg.
+30. § (1) Az eljárás ügyintézési határideje 60 nap.
 
 (2) A Ket.-ben meghatározott eseteken túl az ügyintézési határidőbe nem számít be:
 
@@ -278,7 +278,7 @@ díjmentesen kell szolgáltatni, függetlenül az egyes nyilvántartásokra vona
 
 36. § (1) Az eljárás felfüggesztésének nincs helye:
 
-- a) az ügyfél erre irányuló kérelme alapján,
+- a)
 - b) ha a jogügyletben résztvevő természetes személy, gazdálkodó szervezet jogutódjának kiléte vitás.
 
 (2) Az (1) bekezdés b) pontjában meghatározott esetben az eljárást meg kell szüntetni.
@@ -316,7 +316,7 @@ díjmentesen kell szolgáltatni, függetlenül az egyes nyilvántartásokra vona
 
 (2) Az eljárás a bíróság, vagy közjegyző megkeresésének a mezőgazdasági igazgatási szervhez való beérkezését követő napon kezdődik.
 
-(3) Az eljárás ügyintézési határideje 30 nap, amely kivételesen indokolt esetben, egy alkalommal, legfeljebb 30 nappal hosszabbítható meg.
+(3) Az eljárás ügyintézési határideje 30 nap.
 
 #### 9/A. A biztonsági okmánnyal összefüggő kötelezettségek ellenőrzése
 
@@ -798,7 +798,7 @@ kezeli a mezőgazdasági igazgatási szerv.
 
 (5) A földhasználó a 94. § (1) bekezdés b) és c) pontjában meghatározott adataiban, valamint a használatban bekövetkezett, az e törvény végrehajtására kiadott rendeletben meghatározott változásokat – ideértve a használat megszűnését is – 30 napon belül köteles az ingatlanügyi hatósághoz bejelenteni az e törvény végrehajtására kiadott rendeletben meghatározott formanyomtatványon (a továbbiakban: változás-bejelentési adatlap).
 
-(6) A földhasználati nyilvántartási eljárás a (2) és az (5) bekezdésben meghatározott földhasználati bejelentési és a változás-bejelentési (a továbbiakban együtt: bejelentési) adatlapnak, valamint a (3) bekezdésben meghatározott okiratoknak az ingatlanügyi hatósághoz való benyújtásával indul meg. A földhasználati nyilvántartási eljárásban az ügyintézési határidő 30 nap.
+(6) A földhasználati nyilvántartási eljárás a (2) és az (5) bekezdésben meghatározott földhasználati bejelentési és a változás-bejelentési (a továbbiakban együtt: bejelentési) adatlapnak, valamint a (3) bekezdésben meghatározott okiratoknak az ingatlanügyi hatósághoz való benyújtásával indul meg.
 
 (7) A Ket.-ben meghatározott közreműködő hatóság az eljárásban nem vehet részt.
 

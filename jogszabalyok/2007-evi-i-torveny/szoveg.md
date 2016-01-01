@@ -280,7 +280,7 @@ rendelkező családtag száznyolcvan napon belül kilencven napot meghaladó tar
 
 (3) A tartózkodási kártya kiadása iránti kérelmet az eljáró hatóság a tartózkodási kártya kiadásával teljesíti, vagy azt határozattal utasítja el.
 
-(4) A tartózkodási kártya iránti kérelem tárgyában indult eljárásban az eljáró hatóság az érdemi döntést a kérelem benyújtásától számított három hónapon belül hozza meg.
+(4) A tartózkodási kártya iránti kérelem tárgyában indult eljárásban az eljáró hatóság az érdemi döntést a kérelem benyújtásától számított hetven napon belül hozza meg.
 
 (5) A tartózkodási kártya az érvényességi ideje alatt igazolja a tartózkodási jog fennállását.
 
@@ -298,7 +298,7 @@ tartózkodási jogát igazoló okmány
 
 (2) Az állandó tartózkodási kártya kiadása iránti kérelmet az eljáró hatóság az állandó tartózkodási kártya kiadásával teljesíti, vagy azt határozattal utasítja el.
 
-(3) Az állandó tartózkodási kártya iránti kérelem tárgyában indult eljárásban az eljáró hatóság az érdemi döntést a kérelem benyújtásától számított három hónapon belül hozza meg.
+(3) Az állandó tartózkodási kártya iránti kérelem tárgyában indult eljárásban az eljáró hatóság az érdemi döntést a kérelem benyújtásától számított hetven napon belül hozza meg.
 
 25. § (1) A harmadik ország állampolgárságával rendelkező családtag köteles az állandó tartózkodási kártya kiállítása iránti kérelmet a tartózkodási kártya érvényességének lejárta előtt benyújtani. Ha a kérelmező a tartózkodási kártya érvényességének lejárta után nyújtja be a kérelmet, és magát kimenteni nem tudja, az állandó tartózkodás jogának fennállását igazolnia kell.
 
@@ -697,6 +697,12 @@ meghosszabbítása
 
 (3) Azokban az eljárási cselekményekben, ahol az ügyfél személyes megjelenése kötelező, az ügyfél nem jogosult elektronikus kapcsolatot tartani a hatósággal.
 
+(4) Az e törvény alapján lefolytatott eljárásokban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+
+(5) Ha az ügy érdemi eldöntése olyan, az EGT-állampolgár vagy a családtag magyarországi tartózkodási jogosultsága vonatkozásában felmerülő kérdés előzetes elbírálásától függ, amely eljárás más szerv hatáskörébe tartozik, vagy ugyanannak a hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül magalapozottan nem dönthető el, az eljáró idegenrendészeti hatóság az eljárást felfüggesztheti.
+
+(6) Ha az eljáró hatóság döntésével szemben e törvény alapján fellebbezésnek van helye és a másodfokú döntés meghozatalához nincs elég adat, vagy az első fokú döntés meghozatalát követően új tény merül fel, vagy egyébként a tényállás további tisztázása szükséges, a másodfokú döntést hozó hatóság a döntés megsemmisítése mellett az ügyben első fokú döntést hozó hatóságot végzésben új eljárásra utasíthatja, vagy a kiegészítő bizonyítási eljárás lefolytatását maga végzi el, és ennek alapján dönt.
+
 71. § (1) Az e törvényben szabályozott eljárásokban hozott döntéseket – a (2)–(4) bekezdésben foglalt eltérésekkel – kézbesítés útján kell közölni.
 
 (2) A jelen levő ügyféllel anyanyelvén vagy az általa értett más idegen nyelven szóban is közölni kell
@@ -827,6 +833,8 @@ meghosszabbítása
 (2a) Az eljáró hatóság a 75. § (1) bekezdésében meghatározott résznyilvántartásokból a szervezett bűnözés elleni koordinációs központnak az utasadatok kockázatelemzéséhez szolgáltathat adatot.
 
 (2b) Az eljáró hatóság a kegyelmi eljárás során a legfőbb ügyész, illetve az igazságügyért felelős miniszter részére a 75. § (1) bekezdés d) és e) pontjában foglalt résznyilvántartásokból szolgáltathat adatot.
+
+(2c) Az eljáró hatóság a 75. § (1) bekezdésében meghatározott résznyilvántartásokból a büntetés-végrehajtási intézetnek a befogadás során az elítélt személyazonosságának ellenőrzése érdekében szolgáltathat adatot.
 
 (3) Nemzetközi szerződés vagy az Európai Unió közvetlenül alkalmazandó európai közösségi jogi aktusa alapján az abban meghatározott adatátvételre jogosult szerv részére szolgáltatható adat.
 

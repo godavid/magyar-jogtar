@@ -34,17 +34,26 @@ az egészségügyi hatósági és igazgatási tevékenységről
 - c) tudományosan megalapozza az egészségügyi követelményeket, az egészségügyi szempontból megengedhető értékeket, határértékeket, az egészségkárosító kockázat csökkentésének módozatait (a továbbiakban: közegészségügyi követelmények), amelyek betartása, illetve érvényesülése lehetővé teszi a környezeti ártalmak és az egészségkárosodások kialakulásának megelőzését, fokozza az emberi szervezet teljesítő- és védekezőképességét, biztosítja az egyén, a közösség és az utód nemzedék zavartalan testi, szellemi és pszichoszociális fejlődésének környezeti feltételeit;
 - d) ösztönzi és szakmailag támogatja a közegészségügyi ártalmak megelőzését szolgáló – az állampolgárok önálló döntését segítő közegészségügyi információn alapuló – tudatos és aktív magatartás társadalmi méretű kialakítását.
 
-4. § (1) Az egészségügyi államigazgatási szerv környezet- és településegészségügyi feladata különösen
+4. § (1) Az egészségügyi államigazgatási szerv környezet- és településegészségügyi feladata
 
-- a) A kémiai és biológiai légszennyezettség (immisszió) egészségügyi határértékeinek kimunkálásában való közreműködés, a kémiai és biológiai légszennyezettség rendszeres közegészségügyi értékelése, valamint a zárt terek légszennyezettségi határértékeinek kimunkálása és a zárt terek légszennyezettségének közegészségügyi vizsgálata;
-- b) az emberi használatra (üdülés, fürdés, vízi sport, ivóvízkivétel) szolgáló felszíni vizekre, valamint medencés fürdőkre vonatkozó közegészségügyi követelmények, valamint az ivóvíz és fürdésre használt vizek higiénés határértékeinek kimunkálása, az ivóvíz, ásvány- és gyógyvizek, palackozott vizek minőségének, a közegészségügyi követelmények betartásának, illetve érvényesülésének a rendszeres ellenőrzése;
-- c) a talajjal, a közszolgáltatás körébe tartozó hulladékokkal, szennyvizekkel és szennyvíziszapokkal, valamint a veszélyes hulladékokkal kapcsolatos közegészségügyi követelmények, normák kimunkálása, érvényesülésének ellenőrzése;
-- d) a belső terekben érvényesülő zaj és rezgés határértékek kimunkálása és ellenőrzése, illetőleg a környezeti immissziós zaj és rezgés határértékek kimunkálásában és ellenőrzésében való közreműködés;
-- e) az oktató, nevelő és gondozó intézmények és tevékenységek közegészségügyi követelményeinek kimunkálása és érvényesítése;
-- f) klíma-egészségügyi intézkedések megtétele, a hőségriasztás országos rendszerének működtetése,
-- g) az építmények tervezése, létesítése és üzemeltetése közegészségügyi és egészségvédelmi követelményeinek kimunkálása, érvényesülésének ellenőrzése,
-- h) az egészségügyi kockázattal járó, nem egészségügyi tevékenységek egészségügyi kockázatainak csökkentésére irányuló szakmai szabályok kimunkálása, érvényesülésének ellenőrzése,
-- i) a környezeti eredetű kórokozók által okozott fertőzési kockázat csökkentésére, illetve megelőzésére irányuló előírások kimunkálása, érvényesülésének ellenőrzése.
+- a) a kémiai és biológiai légszennyezettség (immisszió) egészségügyi határértékeinek kimunkálásában való közreműködés, a kémiai és biológiai légszennyezettség rendszeres közegészségügyi értékelése, valamint a zárt terek légszennyezettségi határértékeinek kimunkálása,
+- b) a zárt terek légszennyezettségének közegészségügyi vizsgálata,
+- c) az emberi használatra (üdülés, fürdés, vízi sport, ivóvízkivétel) szolgáló felszíni vizekre, valamint medencés fürdőkre vonatkozó közegészségügyi követelmények, valamint az ivóvíz és fürdésre használt vizek higiénés határértékeinek kimunkálása,
+- d) az emberi használatra (üdülés, fürdés, vízi sport, ivóvízkivétel) szolgáló felszíni vizekre, valamint medencés fürdőkre vonatkozó közegészségügyi követelményeknek, valamint az ivóvíz, ásvány- és gyógyvizek, palackozott vizek minőségének, a közegészségügyi követelmények betartásának, illetve érvényesülésének rendszeres ellenőrzése,
+- e) a talajjal, a közszolgáltatás körébe tartozó hulladékokkal, szennyvizekkel és szennyvíziszapokkal, valamint a veszélyes hulladékokkal kapcsolatos közegészségügyi követelmények, normák kimunkálása,
+- f) a talajjal, a közszolgáltatás körébe tartozó hulladékokkal, szennyvizekkel és szennyvíziszapokkal, valamint a veszélyes hulladékokkal kapcsolatos közegészségügyi követelmények, normák érvényesülésének ellenőrzése,
+- g) a belső terekben érvényesülő zaj és rezgés határértékek, valamint a környezeti immissziós zaj és rezgés határértékek kimunkálása,
+- h) a belső terekben érvényesülő zaj és rezgés határértékek ellenőrzése, valamint a környezeti immissziós zaj és rezgés határértékek ellenőrzésében való közreműködés,
+- i) az oktató, nevelő és gondozó intézmények és tevékenységek közegészségügyi követelményeinek kimunkálása,
+- j) az oktató, nevelő és gondozó intézmények és tevékenységek közegészségügyi követelményeinek érvényesítése,
+- k) klíma-egészségügyi intézkedések megalapozása,
+- l) klíma-egészségügyi intézkedések megtétele, a hőségriasztás országos rendszerének működtetése,
+- m) az építmények tervezése, létesítése és üzemeltetése közegészségügyi és egészségvédelmi követelményeinek kimunkálása,
+- n) az építmények tervezése, létesítése és üzemeltetése közegészségügyi és egészségvédelmi követelményeinek érvényesülésének ellenőrzése,
+- o) az egészségügyi kockázattal járó, nem egészségügyi tevékenységek egészségügyi kockázatainak csökkentésére irányuló szakmai szabályok kimunkálása,
+- p) az egészségügyi kockázattal járó, nem egészségügyi tevékenységek egészségügyi kockázatainak csökkentésére irányuló szakmai szabályok érvényesülésének ellenőrzése,
+- q) a környezeti eredetű kórokozók által okozott fertőzési kockázat csökkentésére, illetve megelőzésére irányuló előírások kimunkálása,
+- r) a környezeti eredetű kórokozók által okozott fertőzési kockázat csökkentésére, illetve megelőzésére irányuló előírások érvényesülésének ellenőrzése.
 
 (2) Az egészségügyi államigazgatási szerv sugáregészségügyi tevékenysége keretében kimunkálja, ellenőrzi és érvényesíti a sugárzó anyagokkal, a sugárzást kibocsátó berendezésekkel, a nem ionizáló sugárzással, valamint az elektromos és mágneses erőterekkel kapcsolatos munkahelyi és környezeti sugárvédelmi normákat, közegészségügyi követelményeket.
 
@@ -68,7 +77,7 @@ az egészségügyi hatósági és igazgatási tevékenységről
   - bc) a ba) és a bb) alpont szerinti területeken közreműködik a táplálkozás-egészségügyi előírások kidolgozásában,
   - bd) a ba)–bc) alpont szerinti feladatok végrehajtásával összefüggő eredményekről tájékoztatja az élelmiszerlánc-biztonsági tudományos szervet;
 - c) egyes élelmiszerekkel kapcsolatosan
-  - ca) külön jogszabály szerint végzi a különleges táplálkozási célú élelmiszerekkel, az étrend-kiegészítőkkel, a vitaminokkal, ásványi anyagokkal és bizonyos egyéb anyagokkal dúsított élelmiszerekkel, az élelmiszerekkel kapcsolatos tápanyag-összetételre és egészségre vonatkozó állításokkal, az élelmiszerek tápértékjelölésével kapcsolatos nyilvántartási, bejelentési eljárásokkal összefüggő szakértői feladatokat, külön jogszabály szerint az Európai Unió közvetlenül alkalmazandó jogi előírása szerinti egyes eljárásokban ellátja a tagállami feladatokat, továbbá szakmai kapcsolatot tart az Európai Unió táplálkozás-egészségügyi és táplálkozás-tudományi szakterületen illetékes szervével,
+  - ca) külön jogszabály szerint végzi az anyatej-helyettesítő és anyatej-kiegészítő tápszerekkel, a feldolgozott gabonaalapú élelmiszerekkel és bébiételekkel, a speciális gyógyászati célra szánt élelmiszerekkel és testtömeg-szabályozás céljára szolgáló, teljes napi étrendet helyettesítő élelmiszerekkel, az étrend-kiegészítőkkel, a vitaminokkal, ásványi anyagokkal és bizonyos egyéb anyagokkal dúsított élelmiszerekkel, az élelmiszerekkel kapcsolatos tápanyag-összetételre és egészségre vonatkozó állításokkal, az élelmiszerek tápértékjelölésével kapcsolatos nyilvántartási, bejelentési eljárásokkal összefüggő szakértői feladatokat, külön jogszabály szerint az Európai Unió közvetlenül alkalmazandó jogi előírása szerinti egyes eljárásokban ellátja a tagállami feladatokat, továbbá szakmai kapcsolatot tart az Európai Unió táplálkozás-egészségügyi és táplálkozás-tudományi szakterületen illetékes szervével,
   - cb) ellenőrzi a ca) alpont szerinti élelmiszerek meghatározott táplálkozási céloknak való megfelelését, és egészségi ártalom vagy annak gyanúja, illetve az emberi egészség veszélyeztetése esetén intézkedik,
   - cc) ellátja az új élelmiszerek engedélyezésével összefüggő, külön jogszabály szerinti feladatokat,
   - cd) ellátja a technológiai segédanyagokkal, az élelmiszeriparban felhasznált mosó- és fertőtlenítőszerekkel, az élelmiszert előállító, feldolgozó-, csomagoló-, tároló- és forgalomba hozó helyek engedélyezésével összefüggő, jogszabályban meghatározott feladatokat;
@@ -322,7 +331,7 @@ az egészségügyi hatósági és igazgatási tevékenységről
 - h) a fertőző betegségek és járványok megelőzése vagy a járványveszély elhárítása érdekében szükséges járványügyi előírásokra,
 - i) a munkavállalók fizikai tényezők – mesterséges optikai sugárzás és elektromágneses terek – hatásának való expozíciójára vonatkozó egészségügyi és biztonsági követelményekre,
 - j) a kórházakban és más egészségügyi szolgáltatóknál előforduló, éles vagy hegyes eszközök által okozott sérülések megelőzésére,
-- k) a különleges táplálkozási célú élelmiszerek, az étrend-kiegészítők, a vitaminokkal, ásványi anyagokkal és bizonyos egyéb anyagokkal dúsított élelmiszerek, a tápanyag-összetételre és egészségre vonatkozó állításokkal ellátott élelmiszerek meghatározott táplálkozási célnak való megfelelésre, táplálkozási-élettani hatású összetevőjének egészségkárosítás nélküli fogyaszthatóságára, alkalmazhatóságára, forgalomba hozatalára, forgalmazására,
+- k) az anyatej-helyettesítő és anyatej-kiegészítő tápszerek, a feldolgozott gabonaalapú élelmiszerek és bébiételek, a speciális gyógyászati célra szánt élelmiszerek és testtömeg-szabályozás céljára szolgáló, teljes napi étrendet helyettesítő élelmiszerek, az étrend-kiegészítők, a vitaminokkal, ásványi anyagokkal és bizonyos egyéb anyagokkal dúsított élelmiszerek, a tápanyag-összetételre és egészségre vonatkozó állításokkal ellátott élelmiszerek meghatározott táplálkozási célnak való megfelelésre, táplálkozási-élettani hatású összetevőjének egészségkárosítás nélküli fogyaszthatóságára, alkalmazhatóságára, forgalomba hozatalára, forgalmazására,
 - l) az építmények tervezésének, létesítésének és üzemeltetésének közegészségügyi és egészségvédelmi követelményeire,
 - m) az egészségügyi kockázattal járó, nem egészségügyi tevékenységek egészségügyi kockázatainak megelőzésére irányuló szakmai szabályokra,
 - n) a környezeti eredetű kórokozók által a lakosságra nézve fertőzési kockázatot jelentő közegekre vagy létesítményekre
@@ -406,6 +415,12 @@ körében a kérelemre lefolytatott közigazgatási eljárásáért – ideértv
 - b) természetes ásványvíz elnevezésének engedélyezése,
 - c) gyógyvíz természetes gyógyhatásra utaló elnevezésének engedélyezése.
 
+(6) Az ivóvíz-biztonsági terv felülvizsgálatára, illetve jóváhagyására irányuló eljárás ügyintézési határideje 45 nap.
+
+(6) Az egészségügyi államigazgatási szerv a környezeti eredetű kórokozók által a lakosságra nézve fertőzési kockázatot jelentő közegekre vagy létesítményekre vonatkozó eljárásaira a Ket. 94. § (1) bekezdés a) pontjában foglaltak az irányadóak azzal, hogy a Legionella által okozott fertőzési kockázatot jelentő közegekre, illetve létesítményekre vonatkozó közegészségügyi előírásokról szóló rendeletbe ütköző cselekményekkel összefüggésben a Ket. 94. § (2) bekezdés d) pontja nem alkalmazható.
+
+(7) Az e törvény alapján lefolytatott eljárásokban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+
 14/C. § Az egészségügyi szolgáltató által a beteg részére nyújtott egészségügyi ellátással kapcsolatban tett, a panaszokról és a közérdekű bejelentésekről szóló törvény szerinti panasszal kapcsolatban az az egészségügyi államigazgatási szerv jár el, amely a panasszal érintett egészségügyi szolgáltató részére működési engedély kiadására jogosult.
 
 14/D. § (1) A kijelölt természetes fürdőhely üzemeltetője éves felügyeleti díjat fizet tárgyév június 30-ig.
@@ -473,6 +488,8 @@ rendeletben határozza meg.
 vonatkozó szabályokat.
 
 (13) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a kereskedelemért felelős miniszterrel, valamint az élelmiszerlánc-felügyeletért felelős miniszterrel egyetértésben az energiaitalok megengedett térfogatértékeit és azok ellenőrzési módszereit rendeletben határozza meg.
+
+(14) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az élelmiszerlánc-felügyeletért felelős miniszterrel egyetértésben a közétkeztetők minősítésének táplálkozás-egészségügyi feltételeit és azok ellenőrzési módszereit rendeletben határozza meg.
 
 15/A. § (1) Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2013. évi CCXLIV. törvénnyel (a továbbiakban: Módtv.) megállapított 6/A. § szerinti bejelentést első alkalommal 2014. július 1-jéig kell megtenni.
 

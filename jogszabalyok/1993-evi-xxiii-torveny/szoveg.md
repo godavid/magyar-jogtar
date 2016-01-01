@@ -6,15 +6,19 @@ a Nemzeti Kulturális Alapról
 
 (2) Az Alap elnöke a miniszter. Az Alap elnöki tisztsége nem ruházható át.
 
-(3) Az Alap alelnökét a miniszter nevezi ki legfeljebb négyévi időtartamra.
+(3) Az Alap alelnökét a miniszter – a Magyar Művészeti Akadémia elnöke (a továbbiakban: az MMA elnöke) véleményének kikérésével – nevezi ki legfeljebb négyévi időtartamra.
 
-2. § (1) Az Alap céljainak megvalósítása érdekében a miniszter az elvi, irányító és koordináló döntések meghozatalára Nemzeti Kulturális Alap Bizottságot (a továbbiakban: Bizottság) létesít. A Bizottság az Alap elnökéből, az Alap alelnökéből és tagokból áll. A Bizottság tagjainak felét a miniszter saját hatáskörében, másik felét pedig az érintett szakmai szervezetek javaslata alapján bízza meg.
+2. § (1) Az Alap céljainak megvalósulása érdekében a miniszter elvi, irányító és koordináló döntések meghozatalára Nemzeti Kulturális Alap Bizottságot (a továbbiakban: Bizottság) létesít. A Bizottság az Alap elnökéből, az Alap alelnökéből és tagokból áll. A Bizottság tagjainak egyharmadát a miniszter saját hatáskörében, egyharmadát a Magyar Művészeti Akadémia (a továbbiakban: MMA), további egyharmadát pedig az érintett szakmai szervezetek javaslata alapján nevezi ki.
 
-(2) A Bizottság a miniszter által jóváhagyott éves munkaterv alapján látja el feladatát.
+(2) A Bizottság a miniszter és az MMA elnöke által jóváhagyott éves munkaterv alapján látja el feladatát.
 
-(3) A miniszter az Alap forrásainak felhasználására állandó szakmai kollégiumokat hoz létre és kinevezi azok vezetőit. Az állandó szakmai kollégiumok hatáskörébe nem tartozó igények elbírálására a miniszter ideiglenes szakmai kollégiumot is létrehozhat.
+(3) A miniszter az Alap forrásainak felhasználására állandó szakmai kollégiumokat hoz létre és kinevezi azok tagjait és vezetőit. Az irodalmi, a zenei, a képző- az ipar- és tervezőművészeti, valamint az építészeti, továbbá a fotó-, a film- az előadó-, a népművészeti főtematikájú (a továbbiakban: művészeti főtematikájú) állandó szakmai kollégiumokat a miniszter – az MMA elnöke véleményének kikérése után – rendelettel hozza létre, és az MMA elnökének egyetértésével nevezi ki azok vezetőit. Az állandó szakmai kollégiumok hatáskörébe nem tartozó igények elbírálására a miniszter ideiglenes szakmai kollégiumot is létrehozhat.
 
-(4) A miniszter az állandó szakmai kollégiumok tagjainak felét saját hatáskörben kéri fel az érintett szakmai szervezetek véleményének meghallgatása után, másik felét pedig az érintett szakmai szervezetek delegálják. Az ideiglenes szakmai kollégium tagjainak kinevezésénél a miniszter – külön jogszabályban meghatározottak szerint – ezektől a feltételektől eltérhet.
+(4) A miniszter a művészeti főtematikájú állandó szakmai kollégiumok tagjainak egyharmadát saját hatáskörben kéri fel az érintett szakmai szervezetek véleményének meghallgatása után, egyharmadát az MMA, további egyharmadát pedig az érintett szakmai szervezetek delegálják.
+
+(4a) A (4) bekezdésben meghatározott állandó szakmai kollégiumokon túli további állandó szakmai kollégiumok összetételének meghatározása során az MMA részvételét biztosítani kell. A miniszter ezen állandó szakmai kollégiumok tagjainak felét saját hatáskörben kéri fel az érintett szakmai szervezetek véleményének meghallgatása után, másik felét pedig az érintett szakmai szervezetek delegálják.
+
+(4b) Az ideiglenes szakmai kollégium tagjainak és vezetőinek kinevezésénél a miniszter a Nemzeti Kulturális Alapról szóló 1993. évi XXIII. törvény végrehajtásáról szóló miniszteri rendelet alapján jár el.
 
 (5) Az állandó és az ideiglenes szakmai kollégium (a továbbiakban együtt: kollégium) – a miniszteri keret kivételével – a Bizottság által meghatározott támogatási célok alapján, az Alap alelnökének egyetértésével dönt a pályázatok kiírásáról. Az Alap alelnökének egyetértése hiányában a pályázat kiírásáról a Bizottság dönt.
 
@@ -26,9 +30,11 @@ a Nemzeti Kulturális Alapról
 
 (9) A Bizottság döntései a kollégiumok számára kötelezőek.
 
+(10) Az Alap alelnöke, a Bizottság és a kollégiumok tagjainak díjazását és költségtérítését a miniszter mint az Alap elnöke állapítja meg.
+
 2/A. § (1) A kollégium döntéseiben nem vehet részt a miniszter, az Alap alelnöke, valamint a Bizottság tagja.
 
-(2) A miniszternek, az Alap alelnökének, a Bizottság tagjainak, a kollégium vezetőinek és tagjainak, valamint ezek, a Polgári Törvénykönyv (a továbbiakban: Ptk.) szerinti közeli hozzátartozóinak, továbbá bejegyzett élettársának pályázatát érdemi vizsgálat nélkül el kell utasítani.
+(2) A miniszternek, az Alap alelnökének, a Bizottság tagjainak, a kollégium vezetőinek és tagjainak, valamint ezek, a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) szerinti közeli hozzátartozóinak, továbbá bejegyzett élettársának pályázatát érdemi vizsgálat nélkül el kell utasítani tekintet nélkül arra, hogy a pályázó milyen keretre – beleértve a 7/C. § szerinti keretet is –, vagy melyik kollégiumhoz nyújtotta be pályázatát.
 
 (3) A miniszter, az Alap alelnöke, a Bizottság tagja, a kollégium vezetője és tagja nem vehet részt olyan pályázat elbírálásában, amelynek megítélésénél tőle elfogulatlan állásfoglalás nem várható.
 
@@ -59,9 +65,11 @@ a Nemzeti Kulturális Alapról
 
 (5) Az Alap, valamint a kezelő szervének bevétele és év végi maradványa nem vonható el. Az év végi maradvány a tárgyévi bevételi terv teljesülése előtt igénybe vehető a kiadási és bevételi előirányzat egyidejű módosításával. Az Alap költségvetésének tervezésére, végrehajtására és zárszámadására egyebekben az Áht. és az éves költségvetési törvény vonatkozó rendelkezéseit kell alkalmazni.
 
-(6) A miniszter jogosult – a pályázati döntések függvényében – az Alap 7. § (1) bekezdése szerinti kiadási jogcímei között átcsoportosítást végrehajtani. A kiadási jogcímek közötti átcsoportosítás jogát – az előirányzaton belül – a kezelő szerv vezetőjére átruházhatja.
+(6)
 
-5. §
+5. § (1) Az Alap működtetésének szervezeti és eljárási részletszabályait e törvény és a Nemzeti Kulturális Alapról szóló 1993. évi XXIII. törvény végrehajtásáról szóló miniszteri rendelet előírásainak keretei között a miniszter mint az Alap elnöke Ügyrendben állapítja meg.
+
+(2) A pályázatkezelés ügyviteli részletszabályait a kezelő szerv vezetője szabályzatban állapítja meg.
 
 5/A. §
 
@@ -104,7 +112,7 @@ a Nemzeti Kulturális Alapról
 
 (2) A támogatások nyílt vagy meghívásos pályázatok útján, illetve – a miniszteri keret felhasználása során vagy kivételesen indokolt esetben – egyedi pályázatok elbírálása alapján – gazdálkodási formától függetlenül – adhatók.
 
-(3) Az (1)–(2) bekezdések szerinti megosztás arányairól – ideértve a támogatás összegének a kollégiumok közötti felosztását is – a Bizottság a miniszter egyetértésével dönt.
+(3) Az (1) és (2) bekezdések szerinti megosztás, valamint a 2. § (4) és (4a) bekezdése szerinti kollégiumok támogatási arányairól a Bizottság az MMA elnöke és a miniszter egyetértésével dönt. A támogatás összegének a művészeti főtematikájú állandó szakmai kollégiumok közötti felosztásáról a Bizottság a miniszter és az MMA elnöke egyetértésével dönt.
 
 (4) Az Alapból támogatás kizárólag az Alap kezelőjénél rendszeresített pályázati adatlap kitöltésével igényelhető.
 
@@ -112,28 +120,31 @@ a Nemzeti Kulturális Alapról
 
 (6) Költségvetési szervek esetén az Alapból származó támogatás és azok év végi kötelezettségvállalással terhelt maradványa nem vonható el és évek között átcsoportosítható, valamint a támogatási szerződésben meghatározott elszámolási határidőig felhasználható.
 
-(7) A támogatott program lezárásaként a szakmai és pénzügyi teljesítésről a támogatottnak írásban be kell számolnia. Ha a támogatott a támogatást részben vagy egészben nem a támogatási szerződésben meghatározott célra fordítja, vagy egyéb módon eltér a szerződésben foglaltaktól, azt a támogatás folyósításától a mindenkori jegybanki alapkamat kétszeresével növelt összegben az Alap számlájára haladéktalanul vissza kell fizetni.
+(7)
 
 (8) Az Alap kezelője gondoskodik az Alap terhére juttatott támogatásokra vonatkozó döntések folyamatos nyilvánosságra hozataláról.
 
-9/A. §
+9/A. § Az MMA elnökének e törvény szerinti jogai és kötelezettségei nem ruházhatók át és nem delegálhatók tovább.
 
 10. § (1) Ez a törvény 1993. április 1-jén lép hatályba.
 
-(2) Felhatalmazást kap a kultúráért felelős miniszter, hogy az Alap kezelésének és felhasználásának részletes szabályait, az ellenőrzés és beszámolás rendjét, valamint a pályázati rendszerre vonatkozó további előírásokat rendeletben szabályozza.
-
-(3) Felhatalmazást kap a kultúráért felelős miniszter, hogy
+(2) Felhatalmazást kap a kultúráért felelős miniszter, hogy
 
 - a) az Alap elnöke és alelnöke feladataira vonatkozó részletes szabályokat,
-- b) a nevezési díjak megállapításának elveit,
-- c) a Bizottság és a kollégiumok létesítésére, működésére, valamint az összeférhetetlenségre és a nyilvánosságra vonatkozó részletes eljárási szabályokat
+- b) az alelnöki tisztség megszűnésére, valamint a bizottsági és kollégiumi tagok kinevezésre, jogállásukra és jogviszonyuk megszűnésére vonatkozó részletes szabályokat,
+- c) a nevezési díjak megállapításának elveit, valamint
+- d) a Bizottság és a kollégiumok létesítésére, működésére, valamint az összeférhetetlenségre és a nyilvánosságra vonatkozó részletes eljárási szabályokat, továbbá az ideiglenes szakmai kollégiumok tagjai és vezetői kinevezésére vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
+
+(3) Felhatalmazást kap a kultúráért felelős miniszter, hogy az állandó szakmai kollégiumokat rendeletével létrehozza.
 
 10/A. § (1) Az e törvénynek a Nemzeti Kulturális Alapról szóló 1993. évi XXIII. törvény és a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény módosításáról szóló 2012. évi CVII. törvénnyel (a továbbiakban: Módtv.) megállapított 4. § (1) bekezdés h) pontjában foglaltakat a Nemzeti Kulturális Alap Igazgatóságához a 2012. évben befolyt nevezési díjak tekintetében is alkalmazni kell.
 
 (2) A Módtv.-nyel megállapított 4. § (5) és (6) bekezdésben foglaltakat a 2012. évi bevételekkel, valamint a kiadási jogcímek közötti 2012. évi átcsoportosításokkal kapcsolatban is alkalmazni kell.
 
 (3) A Módtv.-nyel megállapított 7. § (2) bekezdésében foglaltakat a 2012. évben folyamatban levő pályázatokkal kapcsolatban is alkalmazni kell.
+
+10/B. § (1) Az e törvénynek a Nemzeti Kulturális Alapról szóló 1993. évi XXIII. törvény és a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény módosításáról szóló 2015. évi CCVII. törvénnyel (a továbbiakban: Módtv.) megállapított 2. § (3) bekezdésében, 2. § (4) bekezdésében és 2. § (4a) bekezdésében meghatározott kollégiumi struktúrát 2016. január 1-ig kell létrehozni.
 
 ### Melléklet az 1993. évi XXIII. törvényhez

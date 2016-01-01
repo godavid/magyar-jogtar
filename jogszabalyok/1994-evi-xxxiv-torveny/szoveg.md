@@ -1315,6 +1315,8 @@ adatok köre
 - g) a jogszerűen, nyilvánosságra hozatal céljából készített és nyilvánosságra hozott adatállományban, név- és címjegyzékben – így különösen telefonkönyv, szaknévsor, statisztikai névjegyzék – szereplő adat,
 - h) az általa lefolyatott büntető-, szabálysértési vagy közigazgatási eljárásban gyűjtött adat.
 
+83/A. § A rendőrség az erre vonatkozó törvényi rendelkezéseknek megfelelően a Nemzetközi Bűnügyi Rendőrség Szervezetének az INTERPOL FIND hálózati adatbázis által elérhető nyilvántartásaiban szereplő, az e törvény alapján kezelhető adatok körébe tartozó személyes adatokat átveheti és kezelheti.
+
 84. § (1) A rendőrség szervei az e törvényben meghatározott adatkezelési célból más rendőri, bűnüldöző, nemzetbiztonsági, igazságszolgáltatási és közigazgatási szervtől, valamint – törvény rendelkezése alapján – az adattal rendelkező más szervtől, a felhasználás céljának és jogalapjának megjelölésével adatokat vehetnek át. Az adatátvétel tényét mind az adatátadó, mind az adatátvevő szervnél dokumentálni kell.
 
 (2) A rendőrség a törvényben meghatározott feladatai teljesítése érdekében térítés nélkül adatot kérhet az alábbi nyilvántartásokból:
@@ -1553,11 +1555,12 @@ részére.
 - f) személyazonosító igazolványokra vonatkozó nyilvántartás,
 - g) közúti közlekedési nyilvántartás, járműnyilvántartás,
 - h) Schengeni Információs Rendszer,
-- i) a szabálysértésekről vezetett nyilvántartás.
+- i) a szabálysértésekről vezetett nyilvántartás, valamint
+- j) az INTERPOL FIND hálózati adatbázis által elérhető nyilvántartások.
 
 (2) A szabad mozgás és tartózkodás jogával rendelkező személyek államhatáron történő átlépésekor az (1) bekezdésben felsorolt nyilvántartásokban történő ellenőrzést szúrópróbaszerűen alkalmazzák.
 
-(2) A Rendőrség a határforgalom ellenőrzése során az államhatáron átlépő vízumkötelezett harmadik országbeli állampolgár által bemutatott okmányok adatait és e személy ujjnyomatát összeveti a Vízuminformációs Rendszerrel.
+(3) A Rendőrség a határforgalom ellenőrzése során az államhatáron átlépő vízumkötelezett harmadik országbeli állampolgár által bemutatott okmányok adatait és e személy ujjnyomatát összeveti a Vízuminformációs Rendszerrel.
 
 91/L. § (1) A rendőrség a jogszerű tartózkodás időtartamának ellenőrzése céljából a határátlépéstől számított öt évig a határrendészeti adatállományban kezeli a határon átlépő, külön törvény szerinti harmadik országbeli állampolgárok
 
@@ -1851,7 +1854,8 @@ bírálja el.
 - p) az Európai Unió tagállamainak különleges intervenciós egységei közötti együttműködés javításáról válsághelyzetekben szóló, 2008. június 23-i 2008/617/IB tanácsi határozat 2–4. cikke,
 - q) a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló, 2008. június 23-i 2008/615/IB tanácsi határozat 12. és 17–23. cikkei, valamint e határozat végrehajtásáról szóló, 2008/616/IB tanácsi határozat 17. cikke,
 - r) a Tanács határozata (2009. szeptember 21.) egyrészről az Európai Unió, másrészről Izland és Norvégia között a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló, 2008/615/IB tanácsi határozat, valamint a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló, 2008/615/IB tanácsi határozat végrehajtásáról szóló 2008/616/IB tanácsi határozat és melléklete egyes rendelkezéseinek alkalmazásáról szóló megállapodásnak az Európai Unió nevében történő aláírásáról és a megállapodás egyes rendelkezéseinek ideiglenes alkalmazásáról,
-- s) a büntetőügyekben folytatott rendőrségi és igazságügyi együttműködés keretében feldolgozott személyes adatok védelméről szóló, 2008. november 27-i 2008/977/IB tanácsi kerethatározat.
+- s) a büntetőügyekben folytatott rendőrségi és igazságügyi együttműködés keretében feldolgozott személyes adatok védelméről szóló, 2008. november 27-i 2008/977/IB tanácsi kerethatározat,
+- t) az egyes adatoknak az Interpollal történő cseréjéről szóló, 2005. január 24-i, 2005/69/IB tanácsi közös álláspont.
 
 #### 105. §
 

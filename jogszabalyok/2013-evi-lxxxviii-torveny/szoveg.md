@@ -10,7 +10,7 @@ a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatás
 
 - a) dolog: a számokból, betűkből, írásjelekből, matematikai műveleti jelekből, ezek kombinációjából, valamint elektronikus azonosítóból álló jelsorozattal megjelölt vagy egyéb egyedi ismérvei alapján ezek hiányában is kétséget kizáróan azonosítható tárgy, állat, növény,
 - b) európai elfogatóparancs: olyan igazságügyi hatósági határozat, amelyet az Európai Unió egy tagállamában bocsátanak ki, és azt a célt szolgálja, hogy egy másik európai uniós tagállam büntetőeljárás, szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtása céljából a keresett személyt elfogja és átadja, vagy a keresett tárgyat felkutassa, lefoglalja és átadja,
-- c) kapcsolatba hozható személy: a körözési eljárás során a körözési eljárást lefolytató szerv által megjelölt, a körözött személy felkutatását elősegítő információval rendelkező személy,
+- c) kapcsolatba hozható személy: a körözési eljárás során a körözést elrendelő vagy a körözési eljárást lefolytató szerv által megjelölt, a körözött személy felkutatását elősegítő információval rendelkező személy, személyazonossággal visszaélés esetén a személyazonossággal visszaélés áldozata,
 - d) körözés: személy esetén törvényben, holttest és dolog esetén jogszabályban meghatározottak szerinti döntés, valamint az elfogató parancs, európai elfogató parancs és a nemzetközi körözés,
 - e) körözési eljárás: az ismeretlen helyen lévő személyek és dolgok hollétének megállapítására, ismeretlen személyek, holttestek, valamint ismeretlen eredetű dolgok azonosítására irányuló eljárás,
 - f) nemzetközi körözés: nemzetközi szerződés, valamint viszonossági gyakorlat alapján büntető-, polgári vagy közigazgatási ügyben magyar hatóság kezdeményezésére más állam hatósága által az adott állam területén, illetve külföldi állam hatósága kezdeményezésére magyar hatóság által Magyarország területén végzett körözési eljárás, kivéve az európai elfogatóparancs alapján végzett körözési eljárást.
@@ -277,6 +277,8 @@ meghatározott adat.
 
 (5) Az (1)–(3) bekezdés szerinti közérdekből nyilvános adatokat a nyilvántartó a honlapján közzéteszi.
 
+(6) A Nemzetbiztonsági Szakszolgálat (a továbbiakban: NBSZ) jogosult rendszer-rendszer kapcsolat útján átvenni az (1) bekezdésben meghatározott közérdekből nyilvános adatokat és a személyazonosítást elősegítő informatikai rendszer alkalmazása során egyedi ügyhöz kapcsolódóan felhasználni. Az NBSZ az így átvett adatokat a körözés visszavonásáig kezeli.
+
 #### 9. A nyilvántartásból adatigénylés alapján, valamint a közvetlen hozzáférés útján történő adattovábbítás biztosításának általános követelményei
 
 9. § (1) A nyilvántartó a nyilvántartásból az e törvényben meghatározottak szerint
@@ -317,11 +319,15 @@ meghatározott adat.
 
 (4) Az Országgyűlési Őrség az Országgyűlésről szóló törvényben meghatározott személy- és létesítményvédelmi feladatainak ellátása céljából közvetlen hozzáféréssel jogosult átvenni adatot a körözött személyek nyilvántartásából.
 
+(4a) A rendőrségről szóló törvényben meghatározott, az általános rendőrségi feladatok ellátására létrehozott szerv a törvényben meghatározott személy- és létesítménybiztosítási feladatainak ellátása céljából közvetlen hozzáféréssel jogosult átvenni adatot a körözött személyek nyilvántartásából.
+
 (5) A bíróság a holttá nyilvánítási eljárása során közvetlen hozzáféréssel jogosult átvenni adatot a körözött személyek nyilvántartásából.
 
 (6) A polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv, az útlevélhatóság és a központi közúti közlekedési nyilvántartó szerv okmány kiadásával kapcsolatos eljárása során az e törvény szerinti azonosítási tevékenység céljából közvetlen hozzáféréssel jogosult adatot átvenni a körözött személyek nyilvántartásából és a körözött dolgok nyilvántartásából.
 
 (7) A bűnügyi nyilvántartó szerv a hatósági bizonyítvány kiadására irányuló eljárása vagy a bűnügyi nyilvántartási rendszerben kezelt adatokra vonatkozó tájékoztatás iránti kérelmek teljesítése során az e törvény szerinti azonosítási tevékenység céljából közvetlen hozzáféréssel jogosult adatot átvenni a körözött személyek nyilvántartásából.
+
+(8) Az NBSZ a személyazonosítást elősegítő eszköz üzemeltetése során közvetlen hozzáféréssel jogosult átvenni a 8. § (1) bekezdésben meghatározott közérdekből nyilvános adatokat a körözött személy tartózkodási helyének meghatározása érdekében.
 
 #### 11. A nyilvántartásba történő adatrögzítés, a közvetlen hozzáféréssel történő adatátvétel, valamint a nyilvántartásból elektronikus úton, egyedi informatikai alkalmazás igénybevételével történő adatigénylés feltételei
 
@@ -400,6 +406,25 @@ előírja.
 - d) az adatokkal való visszaélésre utaló bűncselekmények megelőzése, felderítése, valamint büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, a nyomozó hatóság, továbbá
 - e) külön törvény szerinti felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból a nemzetbiztonsági szolgálatok.
 
+#### 14/A. Az érintettek jogai és ezek érvényesítése
+
+14/A. § (1) Az érintett az e törvény hatálya alá tartozó nyilvántartásban szereplő adatai kezelésére vonatkozó, az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti tájékoztatásra, valamint az adatok törlésére, helyesbítésére irányuló kérelmét bármely rendőri szervnél előterjesztheti. A rendőri szerv a kérelmet a nyilvántartóhoz továbbítja.
+
+(2) A nyilvántartó az érintettet az információs önrendelkezési jogról és az információszabadságról szóló törvény szerint megillető tájékoztatásból az adatai továbbítására vonatkozó tájékoztatását mellőzi, ha az e törvény szerint az adatok átvételére jogosult az adatok átvételével egyidejűleg jelzi, hogy az adattovábbításra vonatkozó adatok közlésének teljesítése
+
+- a) a bűncselekmények megelőzésének, felderítésének, a büntetőeljárás lefolytatásának, büntetés és intézkedés végrehajtásának eredményességét veszélyezteti vagy e tevékenységek folytatását akadályozza, vagy
+- b) a nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési feladatok ellátását, azok eredményességét veszélyezteti.
+
+(3) A tájékoztatás nem mellőzhető, ha a mellőzés (2) bekezdés a) vagy b) pontja szerinti oka időközben megszűnt, és az érintett a tájékoztatásra vonatkozó kérelmét az erről való tudomásszerzését követően fenntartja.
+
+(4) A tájékoztatás (2) bekezdés szerinti mellőzését írásban kell indokolni, annak megjelölésével, hogy a tájékoztatás mellőzésére az információs önrendelkezési jogról és az információszabadságról szóló törvény mely rendelkezése alapján került sor, valamint tájékoztatni kell az érintettet a rendelkezésére álló jogorvoslati lehetőségekről.
+
+(5) Ha a nyilvántartó megállapítja, hogy a nyilvántartott adatok helytelenek vagy pontatlanok, az adatokat helyesbíti.
+
+(6) A nyilvántartó a személyes adatok kezelésére vonatkozó törvényi rendelkezések betartásának ellenőrzésére vonatkozó jogkörében eljáró Nemzeti Adatvédelmi és Információszabadság Hatóság, valamint az e törvény hatálya alá tartozó nyilvántartások feletti törvényességi felügyeleti jogkörében eljáró ügyész részére a nyilvántartásokba való betekintést biztosítja.
+
+(7) A (6) bekezdés szerinti betekintés tényéről, valamint a betekintés eredményeként tett megállapításokról jegyzőkönyvet kell felvenni.
+
 ### III. Fejezet — A KÖRÖZÉSI ELJÁRÁS
 
 #### 15. A körözési eljárásra vonatkozó általános szabályok
@@ -409,6 +434,8 @@ előírja.
 (2) A körözési eljárást az általános rendőrségi feladatok ellátására létrehozott szerv (a továbbiakban: rendőrség) folytatja le.
 
 (3) Ha hatóság tagja olyan körözött személyről szerez tudomást, akinek a körözését elrendelték, erről a rendőrséget értesíti. Ha hatóság tagja olyan körözött dolog fellelési helyéről szerez tudomást, amelynek a körözését rendelték el, erről a rendőrséget értesíti.
+
+(3a) Ha az NBSZ a személyazonosítást elősegítő informatikai rendszere üzemeltetése során olyan találatot észlel, amely olyan körözött személy azonosítását segíti elő, akinek az adatai közérdekből nyilvánosak és a találat jelzése a 8. § (6) bekezdése szerinti egyedi ügy érdekeit nem sérti, a rendszer értesíti a körözési eljárást lefolytató szervet a találatról.
 
 (4) A polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv, az útlevélhatóság és a központi közúti közlekedési nyilvántartó szerv okmány kiadásával kapcsolatos eljárása során ellenőrzi a körözött személyek nyilvántartását. Ha a szerv az ügyfelet a körözött személyek nyilvántartásában azonosítja, e tényről a rendőrséget értesíti.
 
@@ -505,6 +532,86 @@ felelős.
 
 haladéktalanul tájékoztatni kell a körözés elrendeléséről a körözést elrendelő illetékessége szerinti ügyészséget, valamint az f) pontban meghatározott esetben a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet a bűnüldözési feladatai céljából, a g) pontban meghatározott esetben a Katonai Nemzetbiztonsági Szolgálatot a nemzetbiztonsági tevékenysége ellátása céljából.
 
+20/A. § (1) A 20. § szerint folytatott körözési eljárás során a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvénynek (a továbbiakban: Ket.)
+
+- a) a lefoglalásra,
+- b) a tanúra és a hatósági tanúra,
+- c) a szemlére,
+- d) a szakértőre,
+- e) a tolmácsra,
+- f) a jegyzőkönyvre,
+- g) az eljárás akadályozásának következményeire,
+- h) a határidő számítására, valamint
+- i) az igazolási kérelemre
+
+vonatkozó rendelkezéseit megfelelően alkalmazni kell.
+
+(2) Akinek az (1) bekezdés szerinti eljárási cselekmény végrehajtása alapvető jogát sértette, a végrehajtástól számított nyolc napon belül panasszal fordulhat a végrehajtást elrendelő rendőri szerv vezetőjéhez.
+
+(3) A körözési eljárást lefolytató szerv az eltűnt személy felkutatása céljából – a tizennyolcadik életévét meg nem haladott tanú kivételével – a tanúként kihallgatott személy által elmondottak valóságtartalmának ellenőrzése érdekében az érintett előzetes, írásos hozzájárulásával poligráfot alkalmazhat.
+
+20/B. § (1) A 20. § szerint folytatott körözési eljárás során a hatóság határozatot hoz
+
+- a) lefoglalás elrendeléséről, illetve a lefoglalás megszüntetéséről,
+- b) a szakértő, illetve a tolmács kirendeléséről,
+- c) a szakértő, illetve a tolmács díjának megállapításáról,
+- d) a szakértő kizárásáról,
+- e) az eljárási bírság kiszabásáról, valamint
+- f) az eltűntté nyilvánításról.
+
+(2) A határozatnak tartalmaznia kell
+
+- a) az eljáró hatóság megnevezését, az ügy számát és az ügyintéző nevét,
+- b) a rendelkező részben
+  - ba) a hatóság döntését, továbbá azokat a jogszabályhelyeket, amelyek alapján a hatóság a határozatot meghozta,
+  - bb) a jogorvoslat lehetőségéről, a jogorvoslati kérelem benyújtásának helyéről és határidejéről, valamint a jogorvoslati eljárásról való tájékoztatást,
+  - bc) a kötelezettség teljesítésének határnapját vagy határidejét és az önkéntes teljesítés elmaradásának jogkövetkezményeit, továbbá
+  - bd) a határozatban megállapított fizetési kötelezettség lerovásának módjairól szóló tájékoztatást,
+- c) az indokolásban
+  - ca) a határozat rendelkezéseire okot adó tényeket,
+  - cb) a döntéshozatal helyét és idejét, a döntés kiadmányozójának a nevét, hivatali beosztását, valamint
+  - cc) a döntés kiadmányozójának aláírását és a hatóság bélyegzőlenyomatát.
+
+(3) A határozatot írásba kell foglalni, és azzal kell közölni, akire a rendelkezése vonatkozik, továbbá azzal is, akinek az eljárási jogait érinti. A határozatot a jelenlevőknek át kell adni és szóban is közölni kell, egyéb esetben pedig kézbesítés útján kell közölni.
+
+(4) Ha névcsere, szám- vagy számítási hiba és más hasonló elírás történt, a hatóság a határozat kijavítását elrendelheti. A kijavítást a határozatra fel kell jegyezni.
+
+20/C. § (1) A körözési eljárást lefolytató szerv azt idézi, akinek a jelenléte az eljárási cselekménynél kötelező, illetve azt értesíti, akinek a jelenléte nem kötelező, de azt a törvény lehetővé teszi. Akit megidéztek, köteles az őt megidéző körözési eljárást lefolytató szerv előtt megjelenni.
+
+(2) Az idézés és az értesítés írásban, illetve más alkalmas módon vagy eszközzel – különösen távbeszélő, telefax, számítógép útján – a körözési eljárást lefolytató szerv előtti személyes megjelenés alkalmával szóban történik. Az idézésnek, illetve az értesítésnek tartalmaznia kell
+
+- a) a kibocsátó hatóság megnevezését,
+- b) azt, hogy a megidézettnek hol, mikor, milyen minőségben kell megjelennie,
+- c) azt, hogy az értesített hol, mikor, milyen minőségben jelenhet meg,
+- d) az idézés, illetve az értesítés alapjául szolgáló eljárási cselekmény órákban meghatározott várható időtartamát, valamint
+- e) a távolmaradás következményeire való figyelmeztetést.
+
+(3) Az idézés, illetve az értesítés tényét az ügy irataiban rögzíteni kell.
+
+(4) Az idézett személy felhívható arra, hogy az ügyre vonatkozó iratain kívül a bizonyításnál felhasználható feljegyzéseit vagy egyéb tárgyait hozza magával.
+
+(5) Az írásbeli idézést vagy értesítést zárt iratban kell megküldeni.
+
+(6) A kiskorú idézésében, illetve értesítésében egyidejűleg – a kiskorú korára, érettségére figyelemmel – számára érthető módon tájékoztatást kell adni az idézés, illetve értesítés tartalmáról.
+
+(7) A kiskorú idézéséről az őt gondozó törvényes képviselőt vagy más személyt azzal a felhívással kell értesíteni, hogy a megjelenéséről gondoskodjék. Ha a kiskorú a tizennegyedik életévét nem töltötte be, a törvényes képviselője útján kell idézni, illetve értesíteni. A kiskorú idézését, illetve értesítését a törvényes képviselőjével is közölni kell.
+
+(8) Ha a (7) bekezdés szerint idézett személy nem jelenik meg, és törvényes képviselője nem igazolja, hogy ez neki nem róható fel, a törvényes képviselő a Ket. szerinti eljárási bírsággal (a továbbiakban: bírság) sújtható.
+
+20/D. § (1) Az idézett személy köteles az idézésnek eleget tenni.
+
+(2) Ha az idézett személy az idézésnek nem tesz eleget, vagy meghallgatása előtt az eljárás helyéről engedély nélkül eltávozik, és távolmaradását előzetesen alapos okkal nem menti ki vagy nyolc napon belül megfelelően nem igazolja, továbbá ha az idézésre meghallgatásra nem alkalmas állapotban jelenik meg, és ezt a körülményt nem menti ki, bírsággal sújtható. Nem sújtható bírsággal az idézett személy, ha az idézés nem volt szabályszerű.
+
+(3) Ha az idézett személy ismételt idézésre sem jelenik meg, és távolmaradását nem menti ki, elővezettethető. Az elővezetés foganatosítását a körözési eljárást lefolytató szerv vezetője rendelheti el.
+
+(4) Ha a hatóságnak tudomása van arról, hogy az elővezetni kívánt személy a Magyar Honvédség, a rendvédelmi szervek vagy a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja, az elővezetés céljából az állományilletékes parancsnokot kell megkeresni.
+
+(5) Ha az idézett személy igazolja a távolmaradásának vagy eltávozásának menthető indokát, vissza kell vonni a bírságot megállapító és az elővezetést elrendelő végzést.
+
+(6) Az elővezetés elrendelése ellen nincs helye önálló jogorvoslatnak.
+
+20/E. § Az e törvény rendelkezései szerint kiszabott bírságot adók módjára kell behajtani.
+
 21. § (1) A rendőrség arról a kiskorúról, akinek eltűnését bejelentették, valamint arról, aki a szülői felügyelet vagy a gyámság, illetve a nevelőszülőknél vagy gyermekotthonban történő elhelyezése alól engedély nélkül kivonta magát, haladéktalanul tájékoztatja a gyámhatóságot.
 
 (2) Ha a rendőrség olyan tartalmú bejelentést kap, hogy a gyermekjóléti alapellátást, illetve gyermekvédelmi szakellátást nyújtó személy vagy intézmény által gondozott, vagy egyéb okból ellátásra befogadott gyermek engedély nélkül eltávozott a gondozási helyéről vagy oda a számára előírt időpontban nem tért vissza, a rendőrség a körözés elrendelésével egyidejűleg áttekinti a gyermek részére ellátást nyújtó intézmény és a törvényes képviselő által a felkutatás érdekében jogszabályban előírtak szerint megtett intézkedéseit.
@@ -568,7 +675,7 @@ alkalmazhatja.
 
 (2) A körözési eljárást lefolytató szerv a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 73. § (6) bekezdése, a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény 19. §-a, valamint a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény (a továbbiakban: Szabs. tv.) 117. és 139. §-a alapján elrendelt körözés végrehajtása során
 
-- a) az Rtv. 29. §, 30. §, 32. §, 35/A. §, 35/B. §, 40. §, 41. §, 42. § (1) bekezdése, valamint 91/C. § (1) és (2) bekezdése,
+- a) az Rtv. 29. §, 30. §, 32. §, 33. §, 35/A. §, 35/B. §, 40. §, 41. §, 42. § (1) bekezdése, valamint 91/C. § (1) és (2) bekezdése,
 - b) a 26. § (1) bekezdés b) pontja
 
 szerinti intézkedést alkalmazhatja.
@@ -631,6 +738,8 @@ szerinti intézkedést alkalmazhatja.
 
 szerinti intézkedést alkalmazhatja.
 
+29/A. § A körözési eljárást lefolytató szerv jogosult az általa kezelt arcképmás adat felhasználásával a 8. § (1) bekezdésében meghatározott körözött személyek azonosítása és az eltűnt személyek felkutatása érdekében az arckép profil nyilvántartást kezelő szerv arcképelemző tevékenységét igénybe venni.
+
 ### IV. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
 #### 23. Felhatalmazó rendelkezések
@@ -640,7 +749,8 @@ szerinti intézkedést alkalmazhatja.
 (2) Felhatalmazást kap a rendészetért felelős miniszter, hogy rendeletben állapítsa meg
 
 - a) a körözési nyilvántartási rendszer egyes nyilvántartásai részére történő adatközlés formájára és módjára vonatkozó szabályokat,
-- b) a körözési eljárás lefolytatásának részletes eljárási szabályait.
+- b) a körözési eljárás lefolytatásának részletes eljárási szabályait,
+- c) – az államháztartásért felelős miniszter egyetértésével – a körözési eljárásban elrendelt elővezetés végrehajtásával felmerült költség megtérítésének szabályait.
 
 #### 24. Hatályba léptető és átmeneti rendelkezések
 

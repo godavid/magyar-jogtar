@@ -6,27 +6,174 @@ Az Országgyűlés annak érdekében, hogy biztosítsa az európai és a nemzetk
 
 #### 1. Értelmező rendelkezések
 
-#### 1. §
+1. § E törvény alkalmazásában:
+
+- 1. akkreditálás: a termékek forgalmazása tekintetében az akkreditálás és piacfelügyelet előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 765/2008/EK európai parlamenti és tanácsi rendelet) 2. cikk 10. pontjában meghatározott fogalom és az üvegházhatású gázok kibocsátására vonatkozó adatokat tartalmazó jelentések és a tonnakilométer-adatokat tartalmazó jelentések tekintetében a 2003/87/EK európai parlamenti és tanácsi irányelv értelmében az üvegházhatású gázok kibocsátására vonatkozó adatokat tartalmazó jelentések és a tonnakilométer-adatokat tartalmazó jelentések hitelesítéséről, valamint a hitelesítők akkreditációjáról szóló 2012. június 21-i 600/2012/EU bizottsági rendelet (a továbbiakban: 600/2012/EU bizottsági rendelet) 3. cikk 2. pontjában meghatározott fogalom,
+- 2. megfelelőségértékelés: a 765/2008/EK európai parlamenti és tanácsi rendelet 2. cikk 12. pontjában meghatározott eljárás.
 
 #### 2. Az akkreditáló szerv feladata
 
-#### 2. §
+2. § (1) Az akkreditáló szerv akkreditálással kapcsolatos feladatai:
+
+- a) akkreditálási eljárás lefolytatása, az akkreditált szervezetek és természetes személyek tevékenységének és alkalmasságának felügyeleti vizsgálata az akkreditált státusz fenntartása, felfüggesztése vagy visszavonása céljából, valamint a külföldi akkreditált státusz elismerése,
+- b) részvétel és képviselet az európai és a nemzetközi akkreditálási szervezetekben,
+- c) két- és többoldalú együttműködési és kölcsönös elismerési megállapodások kezdeményezése és megkötése az akkreditálás területén,
+- d) közreműködés az akkreditálással összefüggő nemzeti, európai és nemzetközi szabványosítási tevékenységben,
+- e) részvétel az akkreditálással kapcsolatos iskolarendszerű és az iskolarendszeren kívüli képzés tartalmi követelményeinek kidolgozásában, továbbá az iskolarendszeren kívüli képzés szervezésében,
+- f) tájékoztatás akkreditálási kérdésekben, így különösen az akkreditálással összefüggő szabványokról, jogszabályokról, útmutatókról és egyéb hazai és nemzetközi dokumentumokról, az akkreditálással összefüggő nemzetközi gyakorlatról és eseményekről,
+- g) az akkreditálással kapcsolatos hazai és nemzetközi dokumentáció gyűjtése és tárolása, valamint az azokhoz történő hozzáférés biztosítása.
+
+(2) Az akkreditáló szerv együttműködik a 765/2008/EK európai parlamenti és tanácsi rendelet 14. cikke szerinti elismert testület által végzett szakértői értékelés során az elismert testülettel, valamint annak szakértőivel, és rendelkezésre bocsátja az értékeléshez szükséges adatokat, dokumentumokat.
 
 #### 3. Az akkreditálási eljárás
 
-#### 3–7. §
+3. § (1) Az akkreditálási eljárásra, a felügyeleti vizsgálati eljárásra, az akkreditált szervezet, illetve természetes személy akkreditált tevékenységével kapcsolatos panasz intézésére a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) rendelkezéseit az e törvényben és a felhatalmazása alapján kiadott kormányrendeletben meghatározott eltérésekkel kell alkalmazni.
+
+(2) Az akkreditáló szerv által hozott határozattal szemben fellebbezésnek nincs helye. Az akkreditálási eljárásban újrafelvételi eljárásnak nincs helye.
+
+4. § Az akkreditáló szerv által lefolytatott eljárásokban a következő alapelveket kell érvényesíteni:
+
+- a) pártatlanság,
+- b) gyors, egyszerű és hatékony eljárás,
+- c) függetlenség a különböző érdekcsoportok túlsúlyától és az akkreditálásban érdekeltek kiegyensúlyozott képviselete,
+- d) szakszerűség és az objektivitás,
+- e) az igénybevétel önkéntessége,
+- f) az eljárás átláthatósága és nyilvánossága,
+- g) a kérelmező által az akkreditált státusz megszerzése érdekében elfogadott szabványoknak, valamint a jogszabályoknak és az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusainak való megfelelés,
+- h) az akkreditálás európai és nemzetközi eljárási rendjével való összhangja.
+
+5. § (1) Akkreditálás iránti kérelmet
+
+- a) vizsgálólaboratórium,
+- b) mintavevő szervezet,
+- c) kalibrálólaboratórium,
+- d) jártassági vizsgálatot szervező szervezet,
+- e) terméktanúsító szervezet,
+- f) irányítási rendszereket tanúsító szervezet,
+- g) személyzettanúsító szervezet,
+- h) ellenőrző szervezet, a hatóságok kivételével,
+- i) referenciaanyag-gyártó szervezet,
+- j) a környezetvédelmi vezetési és hitelesítési rendszert hitelesítő szervezet vagy természetes személy,
+- k) az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló törvény szerinti hitelesítő szervezet
+
+nyújthat be az akkreditáló szervhez.
+
+(2) Az akkreditálást – a (3) bekezdésben meghatározott eltéréssel – az a szervezet és természetes személy kérheti, amely vagy aki a kérelem benyújtását megelőzően legalább három hónapig az adott szervezet vagy természetes személy tevékenységére vonatkozó jogszabályok, az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusai, nemzeti szabványként közzétett európai és nemzetközi szabványok és a rá vonatkozó szakmai szabályok szerint működik.
+
+(3) Az akkreditálást az (1) bekezdés k) pontja szerinti azon hitelesítő szervezet kérheti, amely megfelel a tevékenységére vonatkozó jogszabályoknak és az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusainak, különösen az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló törvényben, a 600/2012/EU bizottsági rendelet III. fejezetében és a Kormány e törvény végrehajtására kiadott rendeletében meghatározott szervezeti, pénzügyi biztosítékra vonatkozó és személyi követelményeknek.
+
+6. § (1) Az akkreditálási eljárás értékelési és döntéshozatali szakaszból áll.
+
+(2) Az értékelési szakasz során az akkreditáló szerv szakértőként minősítőkből és az akkreditálási kérelemmel érintett területen szakértelemmel rendelkező személyekből álló értékelő csoportot rendel ki.
+
+(3) Az akkreditáló szerv az akkreditálási eljárás és a felügyeleti vizsgálat döntéshozatali szakaszában a nemzeti akkreditálás rendszerébe tartozó szakterületeken szakértőként az akkreditáló bizottságot rendeli ki.
+
+(4) Az értékelő csoport tagja nem lehet olyan személy, aki az akkreditáló bizottság tagja.
+
+(5) Az értékelési szakasz ügyintézési határideje száz nap.
+
+(6) A döntéshozatali szakasz ügyintézési határideje harminc nap.
+
+(7) A döntéshozatali szakaszban az akkreditáló szerv határoz az akkreditálásról vagy az akkreditálás iránti kérelem elutasításáról. Az akkreditált státusz öt évre szól.
+
+(8) Az akkreditáló szervnek az akkreditált státuszra vonatkozó határozata elismeri és igazolja, hogy egy szervezet vagy természetes személy alkalmas meghatározott megfelelőségértékelési feladat elvégzésére.
+
+7. § Az akkreditálási eljárásáért, az akkreditált státusz területének bővítési eljárásáért, a kérelemre indult felügyeleti vizsgálati eljárásért, továbbá a külföldi akkreditált státusz elismerési eljárásáért igazgatási szolgáltatási díjat kell fizetni.
 
 #### 4. Az akkreditált szervezet és természetes személy felügyeleti vizsgálata
 
-#### 8–10. §
+8. § (1) Az akkreditált státusz alapjául szolgáló körülmények fennállását, valamint az akkreditált szervezet, illetve természetes személy alkalmasságát felügyeleti vizsgálat keretében, indokolt esetben rendkívüli felügyeleti vizsgálat keretében ellenőrizni kell.
+
+(2) A felügyeleti vizsgálat az akkreditált szervezet vagy természetes személy kérelmére indul. Rendkívüli felügyeleti vizsgálatra panaszbejelentés, az akkreditálás alapjául szolgáló körülmények megváltozása, valamint – az 5. § (1) bekezdés k) pontja szerinti hitelesítő szervezetek esetében – a 600/2012/EU bizottsági rendelet 51. cikke szerint kerülhet sor. A rendkívüli felügyeleti vizsgálatra a felügyeleti vizsgálatra vonatkozó szabályokat kell alkalmazni.
+
+(3) A rendkívüli felügyeleti vizsgálat hivatalból indul.
+
+(4) Az akkreditált szervezet az első felügyeleti vizsgálat iránti kérelmet az akkreditált státusz első megadásától számított egy éven belül, azt követően legfeljebb kétévente köteles benyújtani úgy, hogy a helyszíni szemlék között két évnél hosszabb idő nem telhet el.
+
+(5) Az 5. § (1) bekezdés k) pontja szerinti hitelesítő szervezet az akkreditált státusz megadásától számított egy éven belül, azt követően legfeljebb évente nyújtja be a felügyeleti vizsgálat iránti kérelmet.
+
+(6) A felügyeleti vizsgálati eljárás értékelési és döntéshozatali szakaszból áll. Az értékelési szakasz ügyintézési határideje hatvanöt nap. A döntéshozatali szakasz ügyintézési határideje tizenöt nap.
+
+(7) A felügyeleti vizsgálati eljárás esedékességéről a (4) bekezdésben szabályozott esetben a legutolsó helyszíni szemle után tizenkilenc hónappal, az (5) bekezdésben szabályozott esetben a legutolsó helyszíni szemle után hét hónappal az akkreditáló szerv értesíti az akkreditált szervezetet vagy természetes személyt a felügyeleti vizsgálati eljárás kezdeményezésének kötelezettségéről és a kérelem benyújtásának határidejéről.
+
+(8) Az akkreditáló szerv a felügyeleti vizsgálat eredményétől függően az akkreditált státuszt
+
+- a) legfeljebb a 6. § (7) bekezdésében meghatározott időtartamig fenntartja,
+- b) részlegesen vagy teljeskörűen felfüggeszti, vagy
+- c) részlegesen vagy teljeskörűen visszavonja.
+
+(9) A felügyeleti vizsgálat jogerős lezárásáig az akkreditált státusz érvényes.
+
+(10) Ha az akkreditáló szerv az akkreditált státuszt részlegesen vagy teljeskörűen felfüggeszti, részlegesen vagy teljeskörűen visszavonja, vagy az akkreditált szervezet vagy természetes személy kérelmére az akkreditált területet szűkíti, erről a megfelelőségértékelő szervezetek tevékenységéről szóló törvényben meghatározott, feladatkörrel rendelkező kijelölő hatóságot értesíti. A felügyeleti vizsgálat, illetve a rendkívüli felügyeleti vizsgálat eredményeit az akkreditáló szerv a feladatkörrel rendelkező kijelölő hatóságnak megküldi.
+
+(11) Az 5. § (1) bekezdés k) pontja szerinti hitelesítő szervezet akkreditált státuszának időtartama alatt az akkreditáló szerv a felügyeleti vizsgálatok során – a bűnügyi nyilvántartó szerv bevonásával – ellenőrzi, hogy a hitelesítő szervezet vezető tisztségviselője, munkavállalóként vagy egyéb foglalkoztatásra irányuló jogviszony keretében foglalkoztatott hitelesítő szakértője (a továbbiakban: hitelesítő szakértő), vezető hitelesítő szakértője büntetlen előéletű-e, nem áll-e a hitelesítési vagy hitelesítői szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A felügyeleti vizsgálat lefolytatása céljából az akkreditáló szerv adatot kér annak igazolására, hogy a vezető tisztségviselő vagy a hitelesítő szakértőként, vezető hitelesítő szakértőként foglalkoztatott személy büntetlen előéletű és nem áll a hitelesítési vagy hitelesítő szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A bűnügyi nyilvántartó szervtől kapott adatot az akkreditáló szerv addig kezelheti, amíg az érintett személy a hitelesítő szervezettel vezető tisztségviselői, munkavállalói vagy egyéb foglalkoztatásra irányuló jogviszonyban áll.
+
+(12) A (11) bekezdés szerinti adatkérés céljából az akkreditált szervezet az akkreditáló szerv rendelkezésére bocsátja a vezető tisztségviselő, a hitelesítő szakértő és a vezető hitelesítő szakértő a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 69. § (2) bekezdés a) pontja szerinti adatait. Az adatokat az akkreditáló szerv addig kezelheti, amíg az akkreditált hitelesítő szervezet szerepel a 12. § szerinti nyilvántartásban.
+
+9. § (1) Az akkreditáló szerv az akkreditált szervezet vagy természetes személy akkreditált státuszát részlegesen vagy teljes körűen felfüggeszti, ha
+
+- a) az akkreditált szervezet vagy természetes személy tevékenységével kapcsolatban megalapozott kifogás merül fel, de annak súlyossága a vonatkozó európai, illetve nemzetközi szabványok szerint nem indokolja az akkreditált státusz visszavonását,
+- b) az akkreditált szervezet vagy természetes személy a felügyeleti vizsgálathoz szükséges dokumentumokat határidőben nem bocsátja az akkreditáló szerv rendelkezésére,
+- c) a felügyeleti vizsgálat felfüggesztést indokoló eredménnyel zárul,
+- d) az akkreditált szervezet vagy természetes személy a felfüggesztést maga kéri,
+- e) az 5. § (1) bekezdés k) pontja szerinti hitelesítő szervezet vonatkozásában a 600/2012/EU bizottsági rendelet 53. cikk (2) bekezdésében meghatározott körülmények fennállnak, vagy ha a 8. § (12) bekezdése szerinti adatszolgáltatás alapján megállapítható, hogy a hitelesítő szervezet vezető tisztségviselője, hitelesítő szakértőként, vezető hitelesítő szakértőként foglalkoztatottja büntetett előéletű vagy a hitelesítési vagy hitelesítő szakértői tevékenység folytatását kizáró foglalkoztatástól eltiltás hatálya alatt áll.
+
+(2) Az akkreditáló szerv az akkreditált szervezet vagy természetes személy akkreditált státuszát részlegesen vagy teljeskörűen felfüggesztheti, ha az akkreditált szervezet vagy természetes személy a jelentős változás bejelentését elmulasztja. Jelentős változásnak minősül:
+
+- a) az akkreditált szervezet jogi, tulajdonosi vagy szervezeti formájában, felépítésében, vezetésében,
+- b) az akkreditált tevékenységet ellátó személyek létszámában, fél éven belül, 30%-ot elérő vagy meghaladó mértékben,
+- c) az akkreditált szervezeti egység vezetőjének, minőségirányítási vezetőjének vagy olyan munkatársának személyében, aki az adott akkreditálási tevékenységet kizárólagosan végezte,
+- d) az akkreditált szervezet székhelyében, telephelyében, az akkreditált természetes személy lakcímében, valamint
+- e) az akkreditált területben
+
+bekövetkezett változás.
+
+(3) Az akkreditáló szerv az akkreditált szervezet vagy természetes személy akkreditált státuszát részlegesen vagy teljes körűen felfüggesztheti, ha a felügyeleti vizsgálat során megállapítja, hogy az akkreditált státusz alapjául szolgáló körülményekben olyan változás következett be, amelynek következtében az akkreditálás alapvető követelményei csak részben teljesülnek.
+
+(4) Az akkreditáló szerv a felfüggesztő határozatban a felfüggesztés megszüntetésének feltételeiről és a feltételek teljesítésének határidejéről is dönt. Ha az akkreditált szervezet vagy természetes személy az előírt feltételeknek határidőben eleget tesz, az akkreditáló szerv a felfüggesztő határozatot visszavonja.
+
+10. § Az akkreditáló szerv az akkreditált szervezet vagy természetes személy akkreditált státuszát részlegesen vagy teljes körűen visszavonja, ha
+
+- a) az akkreditált szervezet vagy természetes személy tevékenységével kapcsolatban megalapozottan, a vonatkozó európai, illetve nemzetközi szabványok szerinti súlyos kifogás merül fel,
+- b) az akkreditált szervezet vagy természetes személy az esedékes felügyeleti vizsgálatot nem teszi lehetővé vagy akadályozza,
+- c) az akkreditálás alapjául szolgáló körülményekben olyan változás következett be, amelynek következtében az akkreditálás alapvető követelményei nem teljesülnek,
+- d) az akkreditált szervezet vagy természetes személy akkreditált státuszát felfüggesztették és a felfüggesztés megszüntetése feltételeinek határidőben nem tett eleget,
+- e) az akkreditált szervezet jogutód nélkül megszűnik, illetve az akkreditált természetes személy meghal,
+- f) az akkreditált státusz visszavonását a szervezet vagy természetes személy maga kéri,
+- g) az akkreditált szervezet vagy természetes személy az akkreditáló szerv értesítését követő 2 hónapon belül nem kérelmezi felügyeleti vizsgálatát,
+- h) az 5. § (1) bekezdés k) pontja szerinti hitelesítő szervezet a 600/2012/EU bizottsági rendelet 53. cikk (3) bekezdésében meghatározottak szerint járt el.
 
 #### 5. A külföldi akkreditált státusz elismerése
 
-#### 11. §
+11. § (1) Az akkreditáló szerv a külföldi akkreditált szervezet kérelme alapján a külföldi akkreditált státuszt a (2) bekezdésben meghatározott esetben elismeri. Az elismeréssel a saját akkreditálási eljárásával egyenértékűnek minősíti a külföldi akkreditáló szervezet által lefolytatott akkreditálási eljárást és az annak alapján odaítélt akkreditált státuszt.
+
+(2) Az akkreditáló szerv a külföldi akkreditált státuszt a megfelelőségértékelési tevékenység területén elismeri, ha azt a következő feltételek valamelyikének megfelelő akkreditáló szervezet ítélte oda:
+
+- a) az Európai Gazdasági Térségről szóló megállapodásban részes állam nemzeti akkreditáló testülete, amely a 765/2008/EK európai parlamenti és tanácsi rendelet 10. cikke szerinti szakértői értékelésen megfelelt,
+- b) az Európai Akkreditálási Együttműködés Kölcsönös Elismerési Megállapodásának tagja, illetve az Európai Akkreditálási Együttműködéssel Kétoldalú Elismerési megállapodást kötött a megfelelőségértékelés tevékenység területén,
+- c) a Nemzetközi Laboratóriumakkreditálási Együttműködés vagy a Nemzetközi Akkreditálási Fórum Kölcsönös Elismerési Megállapodásának tagja a megfelelőségértékelés tevékenység területén, vagy
+- d) az akkreditáló szerv kétoldalú elismerési megállapodást kötött, amelynek feltételeit a megállapodás tartalmazza.
+
+(3) A (2) bekezdés a) pontja szerinti nemzeti akkreditáló testület által lefolytatott akkreditálási eljárás és odaítélt akkreditált státusz tekintetében az egyenértékűség hatóságok általi elismeréséhez nincs szükség az e § szerinti eljárás lefolytatására.
 
 #### 6. Az akkreditált szervezetek és természetes személyek nyilvántartása
 
-#### 12. §
+12. § (1) Az akkreditáló szerv nyilvántartást vezet az akkreditált szervezetekről és természetes személyekről, amely tartalmazza
+
+- a) az akkreditált szervezetek és természetes személyek nyilvántartási számát,
+- b) az akkreditált szervezetek, szervezeti egységek cégnevét és természetes személyek nevét,
+- c) az akkreditált szervezetek, szervezeti egységek székhelyét, telephelyeit és természetes személyek lakóhelyét,
+- d) az akkreditált tevékenységet és tevékenységi területet,
+- e) az akkreditált státusz kezdeti és lejárati időpontját,
+- f) az 5. § (1) bekezdés k) pontja szerinti hitelesítő szervezet akkreditált státuszának részleges vagy teljes felfüggesztésére, részleges vagy teljes körű visszavonására vonatkozó információkat,
+- g) az 5. § (1) bekezdés k) pontja szerinti hitelesítő szervezetek tekintetében azokat a tagállamokat, amelyekben a hitelesítő szervezet hitelesítést végez és
+- h) az 5. § (1) bekezdés k) pontja szerinti hitelesítő szervezetek által foglalkoztatott hitelesítő szakértők nevét, lakcímét, nyilvántartási számát, szaktudását, minősítését, jogosultságának korlátozottságára vonatkozó adatokat.
+
+(2) Az (1) bekezdés szerinti nyilvántartás az (1) bekezdés a) és d)–h) pontjában meghatározott adatok tekintetében közhiteles nyilvántartásnak minősül. A nyilvántartást az akkreditáló szerv a honlapján közzéteszi.
+
+(3) Az (1) bekezdés szerinti adatok a Központi Statisztikai Hivatal részére statisztikai célra egyedi azonosításra alkalmas módon térítésmentesen átadhatók és a Központi Statisztikai Hivatal által statisztikai célra felhasználhatóak.
+
+(4) Az (1) bekezdésben meghatározott adatokat az akkreditáló szerv az akkreditált státusz visszavonását követő 10. év utolsó napjáig kezeli. Ezt követően a nyilvántartásból az adatokat az akkreditáló szerv visszaállíthatatlanul törli.
 
 #### 7. Záró rendelkezések
 
@@ -67,4 +214,20 @@ rendeletben határozza meg.
 
 (10) A 2016. január 1-jét megelőzően kiadott, az akkreditálás odaítéléséről szóló határozatok a bennük foglalt időpontig, illetve az e törvény szerinti visszavonásukig érvényesek.
 
-#### 17–20. §
+17. § (1) Ez a törvény az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről szóló, 2004. április 29-i 2004/38/EK európai parlamenti és tanácsi irányelv 24. cikkének való megfelelést szolgálja.
+
+(2) Az 1. §, a 2. § (2) bekezdése, az 5. §, a 11. § (2) bekezdés a) pontja és (3) bekezdése a 765/2008/EK európai parlamenti és tanácsi rendelet 2. cikk 10. és 12. pontja, 4. cikk (8) bekezdése, 6. cikk (1) bekezdése, 9. cikk (2) bekezdése, 10. cikk (1) bekezdése, 11. cikk (2) bekezdése és 12. cikk (3) bekezdése végrehajtásához szükséges rendelkezéseket állapít meg.
+
+(3) Ez a törvény – a végrehajtására kiadott jogszabályokkal együtt – a 2003/87/EK európai parlamenti és tanácsi irányelv értelmében a 600/2012/EU bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+18. § A mérésügyről szóló 1991. évi XLV. törvény 11. §-a helyébe a következő rendelkezés lép:
+
+„11. § A mérésügyi szerv az akkreditáló szervvel együttműködve – a nemzeti akkreditálásról szóló jogszabályok rendelkezéseivel összhangban – részt vesz a kalibráló és a vizsgáló laboratóriumok akkreditálásában.”
+
+19. § A polgári perrendtartásról szóló 1952. évi III. törvény 326. § (12) bekezdés k) pontja helyébe a következő rendelkezés lép:
+
+[Az illetékesség megállapításánál a (2) és (5) bekezdés szabályait kell alkalmazni a következő törvények alapján indult felülvizsgálati eljárásokban:]
+
+„k) a nemzeti akkreditálásról szóló törvény,”
+
+20. § Hatályát veszti a Nemzeti Akkreditáló Testület szervezetéről, feladat- és hatásköréről, valamint eljárásáról szóló 2005. évi LXXVIII. törvény.

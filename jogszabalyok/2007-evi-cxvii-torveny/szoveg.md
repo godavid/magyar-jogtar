@@ -23,7 +23,7 @@ Az Országgyűlés a foglalkoztatók nyugdíjcélú megtakarítások terén tör
 - a) a társadalombiztosítási tevékenységre,
 - b) a biztosítás azon módszerére, amelyben a veszélyközösség tagjai arra vállalnak kötelezettséget, hogy ha a veszélyközösség tagjának meghatározott káresemény folytán anyagi szükséglete keletkezik, azt egymás között utólag felosztják, és a tagokra kiróják a rájuk eső részt (felosztó-kirovó rendszer),
 - c) az önkéntes kölcsönös biztosító pénztárak és a magánnyugdíjpénztárak tevékenységére,
-- d) a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvényben szabályozott biztosítási tevékenységre.
+- d) a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvényben (a továbbiakban: Bit.) szabályozott biztosítási és viszontbiztosítási tevékenységre.
 
 ### Fogalmak
 
@@ -223,7 +223,7 @@ mellékelni kell:
 
 szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított tizenkét évig, szándékos bűncselekmény miatt kiszabott, öt évet el nem érő végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított tíz évig, szándékos bűncselekmény miatt kiszabott közérdekű munka vagy pénzbüntetés esetén a mentesítéstől számított öt évig, szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett szabadságvesztés esetén a mentesítés beálltától számított nyolc évig, szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett pénzbüntetés esetén a mentesítés beálltától számított három évig,
 
-- c) a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény (a továbbiakban: Bit.) 91. §-a szerinti szakmai alkalmassággal és üzleti megbízhatósággal nem rendelkezik,
+- c) A Bit. 69. §-a, 253. §-a és 254. §-a szerinti szakmai alkalmassággal és üzleti megbízhatósággal nem rendelkezik,
 - d) legalább ötéves biztosítási, pénztári vagy vállalatgazdálkodási, illetve az államigazgatás pénzügyi és gazdasági területén szerzett vezetői gyakorlattal nem rendelkezik, azzal, hogy az előírt vezetői gyakorlat befejezése nem eshet az engedély iránti kérelem benyújtását 10 évvel megelőző időpontnál korábbi időpontra,
 - e) felsőfokú iskolai végzettséggel nem rendelkezik, vagy
 - f) könyvvizsgálói tevékenységet folytat.
@@ -237,9 +237,7 @@ szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végreh
 
 (7) A vezető állású személyek mindenkor az ilyen tisztséget betöltő személytől általában elvárható gondossággal, a tagok, a járadékosok és a foglalkoztatói nyugdíjszolgáltató intézmény érdekeinek elsődlegessége alapján kötelesek eljárni. A vezető állású személyek a polgári jog általános szabályai szerint felelnek a foglalkoztatói nyugdíjszolgáltató intézménnyel szemben a jogszabályok, az alapszabály, a közgyűlés által hozott határozatok, belső szabályzatok, illetve kötelezettségeik felróható megszegésével a foglalkoztatói nyugdíjszolgáltató intézménynek okozott károkért.
 
-10/A. § (1) A 10. § (1) bekezdésében meghatározott vezető állás betöltésének engedélyezése iránti kérelem benyújtásával egyidejűleg a vezető állást betölteni szándékozó személy hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, nem áll fenn vele szemben a 10. § (4) bekezdésében, valamint a 10. § (6) bekezdés a) és b) pontjában meghatározott kizáró ok (a továbbiakban: kizáró ok), vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a Felügyelet részére – annak a vezető állás betöltésének engedélyezése iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a Felügyelet a (2) bekezdésben meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől.
-
-(2) A Felügyelet a vezető állás betöltésének időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a vezető állású személlyel szemben nem áll fenn kizáró ok. A hatósági ellenőrzés céljából a Felügyelet adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a vezető állású személlyel szemben nem áll-e fenn kizáró ok.
+10/A. § A Felügyelet a vezető állás betöltésének időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a vezető állású személlyel szemben nem áll fenn a 10. § (4) bekezdésében, valamint a 10. § (6) bekezdés a) és b) pontjában meghatározott kizáró ok (a továbbiakban: kizáró ok). A hatósági ellenőrzés céljából a Felügyelet adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a vezető állású személlyel szemben nem áll-e fenn kizáró ok.
 
 ### Egyéb vezetők
 
@@ -265,29 +263,35 @@ szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végreh
 
 ### A foglalkoztatói nyugdíjszolgáltató intézményvezető biztosításmatematikusa (aktuárius)
 
-12. § (1) A foglalkoztatói nyugdíjszolgáltató intézmény vezető biztosításmatematikusaként a Bit. 86. § (1) bekezdésének a)–d) pontjában meghatározott követelményeknek megfelelő személy alkalmazható.
+12. § (1) A foglalkoztatói nyugdíjszolgáltató intézmény vezető biztosításmatematikusaként a Bit. 57. § (1) bekezdésének a)–d) pontjában, valamint a Bit. 57. § (2) és (3) bekezdésében meghatározott követelményeknek megfelelő személy alkalmazható azzal, hogy a szakmai gyakorlat megszerezhető magánnyugdíjpénztárnál vagy önkéntes kölcsönös biztosító pénztárnál is.
 
-(2) A foglalkoztatói nyugdíjszolgáltató intézmény vezető biztosításmatematikusa a Bit. 86. § (2) bekezdés a), b) és d) pontjában, valamint a (3) és (4) bekezdésében meghatározott feladatokat látja el, valamint aláírásával igazolja a tartalékok helytállóságát.
+(2) A foglalkoztatói nyugdíjszolgáltató intézmény vezető biztosításmatematikusa aláírásával igazolja:
+
+- a) az éves beszámolóban szereplő tartalékok képzésének és mértékének helyességét;
+- b) a szavatoló tőke szükséglet számításának helyességét; és
+- c) a díjkalkulációk szakmai helyességét.
 
 (3) A vezető biztosításmatematikus készíti el a szolgáltatással meghatározott nyugdíjkonstrukció esetén a jogosultság tőkeértékének megállapítására vonatkozó módszertant. A módszertant a vezető biztosításmatematikus évente felülvizsgálja.
 
-(4) A foglalkoztatói nyugdíjszolgáltató intézmény vezető biztosításmatematikusa a Bit. 86. § (4) bekezdésében foglaltaknak megfelelő aktuáriusi jelentésben teljesíti beszámolási kötelezettségét.
+(4) A (2) bekezdésben foglaltakkal kapcsolatban a biztosító vezető biztosításmatematikusa azt is igazolja, hogy a rendelkezésre álló adatok elégségesek, teljesek és összehangoltak voltak, és az alkalmazott módszerek a kockázatok természetének megfeleltek.
+
+(5) A foglalkoztatói nyugdíjszolgáltató intézmény vezető biztosításmatematikusa az éves beszámolóval együtt, ahhoz kapcsolódóan – a felügyeleti ellenőrzés elősegítése céljából – benyújtja a Felügyeletnek a foglalkoztatói nyugdíjszolgáltató intézmény Bit. 211. § (3) és (5) bekezdésében foglaltaknak megfelelő aktuáriusi jelentését.
 
 ### A foglalkoztatói nyugdíjszolgáltató intézményszámviteli rendjéért felelős vezetője
 
-13. § (1) A foglalkoztatói nyugdíjszolgáltató intézmény számviteli rendjéért felelős vezetőként kizárólag a Bit. 88. § (1) bekezdés a)–e) pontjában meghatározott követelményeknek megfelelő személy alkalmazható.
+13. § (1) A foglalkoztatói nyugdíjszolgáltató intézmény számviteli rendjéért felelős vezetőként kizárólag a Bit. 61. § (1) bekezdés a)–e) pontjában és a 61. § (2) bekezdésében meghatározott követelményeknek megfelelő személy alkalmazható azzal, hogy a szakmai gyakorlat megszerezhető magánnyugdíjpénztárnál, önkéntes kölcsönös biztosító pénztárnál, ezek érdekvédelmi szervénél vagy könyvvizsgálójánál is.
 
-(2) A foglalkoztatói nyugdíjszolgáltató intézmény számviteli rendjéért felelős vezető ellenőrzi és a foglalkoztatói nyugdíjszolgáltató intézmény első számú vezetője mellett aláírásával igazolja a Felügyeletnek megküldött éves beszámoló, éves és negyedéves jelentés helytállóságát.
+(2) A foglalkoztatói nyugdíjszolgáltató intézmény számviteli rendjéért felelős vezető ellenőrzi és a foglalkoztatói nyugdíjszolgáltató intézmény első számú vezetője mellett aláírásával igazolja a Felügyeletnek megküldött éves beszámoló, éves és negyedéves jelentés helytállóságát. A számviteli rendért felelős vezető köteles haladéktalanul értesíteni az első számú vezetőt és a felügyelőbizottságot, ha az eszköznyilvántartásában feltüntetett eszközök értéke alacsonyabb a nyugdíjtechnikai tartalékok előírt mértékénél.
 
 ### A belső ellenőr
 
-14. § (1) A foglalkoztatói nyugdíjszolgáltató intézmény köteles a belső ellenőrzés vezetésével a felügyelőbizottság szakmai irányítása alá tartozó belső ellenőrt megbízni.
+14. § (1) A foglalkoztatói nyugdíjszolgáltató intézmény köteles a belső ellenőrzés vezetésével a felügyelőbizottság szakmai irányítása alá tartozó belső ellenőrt alkalmazni.
 
-(2) Belső ellenőrként kizárólag a Bit. 89. § (2) bekezdés a)–d) pontjaiban meghatározott követelményeknek megfelelő személy alkalmazható.
+(2) Belső ellenőrként kizárólag a Bit. 63. § (2) bekezdés a)–d) pontjaiban és (4) bekezdésében meghatározott követelményeknek megfelelő személy alkalmazható azzal, hogy a szakmai gyakorlat megszerezhető magánnyugdíjpénztárnál, önkéntes kölcsönös biztosító pénztárnál, ezek érdekvédelmi szervénél vagy könyvvizsgálójánál is.
 
-(3) A belső ellenőr a Bit. 89. § (3), (4) és (5) bekezdésében meghatározott feladatokat látja el.
+(3) A belső ellenőr ellátja, illetve irányítja a belső ellenőrzés Bit. 85. § (1)–(3) bekezdésében meghatározott feladatköréhez tartozó feladatok teljesítését. A belső ellenőr felett a munkáltatói jogokat közvetlenül az első számú vezető gyakorolja.
 
-(4) A foglalkoztatói nyugdíjszolgáltató intézmény működésének ellenőrzésével kapcsolatban a felügyelőbizottság a Bit. 89. § (6) bekezdésben meghatározott feladatokat látja el.
+(4) A foglalkoztatói nyugdíjszolgáltató intézmény működésének ellenőrzésével kapcsolatban a felügyelőbizottság a Bit. 85. § (4) bekezdésében meghatározott feladatokat látja el.
 
 (5) Ahol a Bit. biztosítót említ, ott e törvény alkalmazásában foglalkoztatói nyugdíjszolgáltató intézményt kell érteni.
 
@@ -638,7 +642,7 @@ szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végreh
 
 (3) A nyugdíjkonstrukció leírásának tartalmaznia kell a cégvezető, a vezető jogtanácsos, és a vezető biztosításmatematikus aláírását.
 
-(4) A hozzájárulások mértékének kalkulációjánál, a tartalékolásnál és a járadékszámításoknál alkalmazható technikai kamatláb maximális mértéke megegyezik a Bit. 99. § (1) bekezdése szerint kiadott miniszteri rendeletben megállapított értékkel.
+(4) A hozzájárulások mértékének kalkulációjánál, a tartalékolásnál és a járadékszámításoknál alkalmazható technikai kamatláb maximális mértéke megegyezik a Bit. 133. § (1) bekezdése szerint kiadott miniszteri rendeletben megállapított értékkel.
 
 (5) A más államban székhellyel rendelkező foglalkoztatói nyugdíjszolgáltató intézmény fióktelepe útján vagy határon átnyúló szolgáltatás keretében nyújtott nyugdíjkonstrukcióira a technikai kamatláb maximális mértékének tekintetében a székhely szerinti állam szabályozása az irányadó.
 
@@ -738,7 +742,7 @@ szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végreh
 
 (3) A matematikai tartalék év végére várható értékének eszközfedezetét folyamatosan, de legalább negyedévenként az előre látható kötelezettségeket figyelembe véve meg kell teremteni, és folyamatosan fenn kell tartani annak érdekében, hogy az év végére a szükséges tartalékkal azonos nagyságú, a befektetési előírásoknak megfelelő eszközfedezet a foglalkoztatói nyugdíjszolgáltató intézmény rendelkezésére álljon.
 
-(4) A nyugdíjtechnikai tartalékok tartalmát, képzésének és felhasználásának rendjét a Bit. 119. § (3) bekezdés szerint kiadott jogszabályban foglaltak szerint kell meghatározni azzal, hogy
+(4) A nyugdíjtechnikai tartalékok tartalmát, képzésének és felhasználásának rendjét a 437. § b) pontja szerint kiadott jogszabályban foglaltak szerint kell meghatározni azzal, hogy
 
 - a) a meg nem szolgált hozzájárulások és tagi kiegészítések tartaléka tekintetében a meg nem szolgált díjak tartalékára vonatkozó előírásokat,
 - b) a matematikai tartalékokon belül az életbiztosítási díjtartalék, valamint – megrokkanási kockázatot is kezelő nyugdíjkonstrukció esetén – a baleset-, illetve egészségbiztosítási díjtartalékra vonatkozó előírásokat,
@@ -755,11 +759,7 @@ kell megfelelően alkalmazni.
 
 (2) A foglalkoztatói nyugdíjszolgáltató intézménynek a csatlakozásra vonatkozó szerződésből eredő kötelezettségei mindenkori teljesíthetősége érdekében folyamatosan legalább a minimális szavatoló tőke szükségletnek megfelelő nagyságú szavatoló tőkével kell rendelkeznie.
 
-(3) A foglalkoztatói nyugdíjszolgáltató intézmény minimális szavatoló tőke szükségletének számítását a Bit. 8. számú mellékletének minimális szavatoló tőke szükségletre előírt szabályai szerint kell elvégezni azzal, hogy az életbiztosítási kockázatokra előírt szabályokat az alábbi eltérésekkel kell megfelelően alkalmazni:
-
-- a) az életbiztosítási kockázatok minimális szavatoló tőke szükséglete cím alatt az R1 eredmény V értékébe a teljes matematikai tartalék beleszámít;
-- b) az életbiztosítási szerződésekhez kapcsolódó kiegészítő nem életbiztosítási kockázatok minimális szavatoló tőke szükséglete cím alatt az a értéke alatt a megrokkanási kockázatot is tartalmazó nyugdíjkonstrukciók nyújtása esetén a hozzájárulásokból ezen kockázatokra becsülhető kockázati hozzájárulási rész értendő; a b értéke alatt a kockázatból a rendes nyugdíjszolgáltatáson felüli kifizetések értendők;
-- c) a befektetéshez kötött életbiztosításokhoz és a kezelt nyugdíjalapokhoz kapcsolódó minimális szavatoló tőke szükséglet cím alatt V1 és V2, illetve C3 értékébe a teljes a befektetési egységekhez kötött (unit-linked) nyugdíjkonstrukciók tartaléka, illetve a teljes fedezeti tartalék, továbbá a C3 értékébe az előbbi tartalékokkal érintett portfólió megfelelő igazgatási költsége beleszámít.
+(3) A foglalkoztatói nyugdíjszolgáltató intézmény minimális szavatoló tőke szükségletének kiszámítására vonatkozó szabályokat a törvény végrehajtására kiadott kormányrendelet állapítja meg.
 
 ### A szavatoló tőke elemei
 
@@ -772,25 +772,27 @@ kell megfelelően alkalmazni.
 - c) a lekötött tartalék;
 - d) az értékelési tartalék húsz százaléka;
 - e) az eredménytartalék;
-- f) a mérleg szerinti eredmény; és
+- f) az adózott eredmény; és
 - g) az osztalékelsőbbségi, a nyereséges évben az elmúlt év(ek) elmaradt hozamkifizetésére is feljogosító, jegyzett és befizetett részvények.
 
 (3) A (2) bekezdés g) pontja szerinti osztalékelsőbbségi részvény összege a rendelkezésre álló és a szükséges szavatoló tőke közül a kisebbik érték ötven százalékáig számítható be a szavatoló tőkébe.
 
-(4) A Felügyelet a Bit. 124. § (1) bekezdése alapján a foglalkoztatói nyugdíjszolgáltató intézmény szavatoló tőkéjének értékelését felülbírálhatja, különösen akkor, ha az ennek fedezetét képező befektetések piaci értéke az előző üzleti év vége óta jelentősen csökkent.
+(4) A Felügyelet a foglalkoztatói nyugdíjszolgáltató intézmény szavatoló tőkéjének értékelését felülbírálhatja, különösen akkor, ha az ennek fedezetét képező befektetések piaci értéke az előző üzleti év vége óta jelentősen csökkent.
 
 (5) A szavatoló tőke számítása során a (2)–(3) bekezdésekben foglalt tőkeelemek együttes összegéből le kell vonni:
 
 - a) az immateriális javak könyv szerinti értékét,
 - b) a visszavásárolt saját részvények értékét.
 
-(6) A Bit. 8. számú mellékletében meghatározott minimális szavatoló tőke szükséglet számítását és fedezetének kimutatását az éves beszámolóval egyidejűleg kell elkészíteni és a Felügyelet részére megküldeni. A foglalkoztatói nyugdíjszolgáltató intézmény a negyedéves adatszolgáltatás keretében tájékoztatja a Felügyeletet a minimális szavatoló tőke szükséglete, valamint a rendelkezésre álló szavatoló tőkéje becsült értékéről.
+(6) A foglalkoztatói nyugdíjszolgáltató intézmények szavatoló tőke szükségletének kiszámításáról szóló kormányrendeletben meghatározott minimális szavatoló tőke szükséglet számítását és fedezetének kimutatását az éves beszámolóval egyidejűleg kell elkészíteni és a Felügyelet részére megküldeni. A foglalkoztatói nyugdíjszolgáltató intézmény a negyedéves adatszolgáltatás keretében tájékoztatja a Felügyeletet a minimális szavatoló tőke szükséglete, valamint a rendelkezésre álló szavatoló tőkéje becsült értékéről.
 
 (7) Ha a foglalkoztatói nyugdíjszolgáltató intézmény szavatoló tőkéje nem éri el a minimális szavatoló tőke szükséglet nagyságát, akkor a részvényesek és a tagok nem nyugdíjszolgáltatásból származó igényeinek kielégítését megelőzi a szavatoló tőke hiányának megszüntetése.
 
 ### Biztonsági tőke
 
-41. § A minimális szavatoló tőke szükséglet egyharmada képezi a foglalkoztatói nyugdíjszolgáltató intézmény biztonsági tőkéjét akkor, ha ez nagyobb, mint a Bit. 126. § (1) bekezdésének a) pontjában meghatározott minimális biztonsági tőke értéke. Egyéb esetekben a foglalkoztatói nyugdíjszolgáltató intézmény biztonsági tőkéje megegyezik a Bit. 126. § (1) bekezdésének a) pontjában meghatározott összeggel.
+41. § (1) A minimális szavatoló tőke szükséglet egyharmada képezi a foglalkoztatói nyugdíjszolgáltató intézmény biztonsági tőkéjét akkor, ha ez nagyobb, mint 3 millió euró. Egyéb esetekben a foglalkoztatói nyugdíjszolgáltató intézmény biztonsági tőkéje 3 millió euró.
+
+(2) Az euróban megadott összegek forintban történő meghatározásakor a Bit. 5. § rendelkezéseinek megfelelően kell eljárni.
 
 ### A pénzügyi terv
 
@@ -807,7 +809,7 @@ kell megfelelően alkalmazni.
 
 ### A szanálási terv
 
-43. § (1) Ha a foglalkoztatói nyugdíjszolgáltató intézmény szavatoló tőkéje kevesebb, mint a Bit. 8. számú mellékletében meghatározott minimális szavatoló tőke szükséglet, és a közgyűlés nem döntött a feltöltés egy évet meg nem haladó ütemezéséről, akkor a Felügyelet a foglalkoztatói nyugdíjszolgáltató intézményt a szükséges minimális szavatoló tőke fedezetének pótlására vonatkozó szanálási terv készítésére kötelezi.
+43. § (1) Ha a foglalkoztatói nyugdíjszolgáltató intézmény szavatoló tőkéje kevesebb, mint a foglalkoztatói nyugdíjszolgáltató intézmények szavatoló tőke szükségletének kiszámításáról szóló kormányrendeletben meghatározott minimális szavatoló tőke szükséglet, és a közgyűlés nem döntött a feltöltés egy évet meg nem haladó ütemezéséről, akkor a Felügyelet a foglalkoztatói nyugdíjszolgáltató intézményt a szükséges minimális szavatoló tőke fedezetének pótlására vonatkozó szanálási terv készítésére kötelezi.
 
 (2) A legfeljebb egyéves időtartamra terjedő szanálási tervnek tartalmaznia kell a hiány megszüntetésének módját és ütemét. A szanálási tervet a Felügyelet határozatának közlésétől számított kilencven napon belül a foglalkoztatói nyugdíjszolgáltató intézménynek a Felügyelethez jóváhagyásra be kell nyújtania. Ez a határidő különösen indokolt esetben harminc nappal meghosszabbítható.
 
@@ -830,7 +832,7 @@ kell megfelelően alkalmazni.
 
 (4) A Felügyelet a pénzügyi helyreállítási terv megérkezését követő naptól számított két hónapon belül köteles elbírálni, hogy a pénzügyi helyreállítási terv alkalmas-e a foglalkoztatói nyugdíjszolgáltató intézmény biztonságos működésének helyreállítására.
 
-(5) Ha a foglalkoztatói nyugdíjszolgáltató intézmény rosszabbodó pénzügyi helyzete a tagok érdekeit veszélyezteti, akkor a foglalkoztatói nyugdíjszolgáltató intézmény rövid távú fizetőképességének biztosítása érdekében – a pénzügyi helyreállítási terv alapján – a Felügyelet a foglalkoztatói nyugdíjszolgáltató intézmény számára a Bit. 8. számú melléklete szerint számított minimális szavatoló tőke szükségletnél magasabb szavatoló tőke szükségletet is előírhat.
+(5) Ha a foglalkoztatói nyugdíjszolgáltató intézmény rosszabbodó pénzügyi helyzete a tagok érdekeit veszélyezteti, akkor a foglalkoztatói nyugdíjszolgáltató intézmény rövid távú fizetőképességének biztosítása érdekében – a pénzügyi helyreállítási terv alapján – a Felügyelet a foglalkoztatói nyugdíjszolgáltató intézmény számára a foglalkoztatói nyugdíjszolgáltató intézmények szavatoló tőke szükségletének kiszámításáról szóló kormányrendelet szerint számított minimális szavatoló tőke szükségletnél magasabb szavatoló tőke szükségletet is előírhat.
 
 (6) A pénzügyi helyreállítási terv elutasítása vagy megvalósulásának meghiúsulása esetén a Felügyelet a 65. §-ban foglalt intézkedések megtételére jogosult.
 
@@ -967,7 +969,7 @@ kell megfelelően alkalmazni.
 
 54. § (1) A foglalkoztatói nyugdíjszolgáltató intézmény üzemgazdasági szemléletű kettős könyvvitelt vezet. A foglalkoztatói nyugdíjszolgáltató intézmény könyvviteli nyilvántartása tartalmazza az eszközöket, az eszközök értékében bekövetkezett változásokat, a forrásokat és az azok értékében bekövetkező változásokat.
 
-(2) A foglalkoztatói nyugdíjszolgáltató intézmény fedezeti tartalékának és biztosítástechnikai tartalékának piaci értéken történő értékelését munkanaponként kell elvégezni. Az eszközök piaci értéken történő értékelésekor megállapított értékelési különbözetet a könyvviteli nyilvántartásokban csak az üzleti év mérleg fordulónapjára, illetve a negyedév utolsó napjára kell kimutatni.
+(2) A foglalkoztatói nyugdíjszolgáltató intézmény fedezeti tartalékának és nyugdíjtechnikai tartalékának piaci értéken történő értékelését munkanaponként kell elvégezni. Az eszközök piaci értéken történő értékelésekor megállapított értékelési különbözetet a könyvviteli nyilvántartásokban csak az üzleti év mérleg fordulónapjára, illetve a negyedév utolsó napjára kell kimutatni.
 
 (3) A fedezeti tartalék piaci értéken történő értékelése a könyvviteli nyilvántartásokban az eszközöknél értékelési különbözetként, illetve a forrásoknál értékelési különbözet tartalékaként jelenik meg. A piaci értéket felhalmozott kamattal együttes értéken kell bemutatni.
 
@@ -1031,7 +1033,7 @@ a Felügyelet részére megküldeni.
 
 - a) a foglalkoztatói nyugdíjszolgáltató intézmény tevékenységének megkezdéséhez;
 - b) a foglalkoztatói nyugdíjszolgáltató intézmény ideiglenes tagfelvétel szüneteltetéséhez, tevékenységének szüneteltetéséhez;
-- c) a foglalkoztatói nyugdíjszolgáltató intézmény – a Bit. 93–95. § szerinti – állomány-átruházásához;
+- c) a foglalkoztatói nyugdíjszolgáltató intézmény – a Bit. 256. és 257. § szerinti – állomány-átruházásához;
 - d) a foglalkoztatói nyugdíjszolgáltató intézmény átalakulásához, egyesüléséhez, szétválásához;
 - e) a foglalkoztatói nyugdíjszolgáltató intézmény által más EGT-államban történő foglalkoztatói nyugdíjszolgáltató intézmény alapításához, vagy más EGT-államban székhellyel rendelkező foglalkoztatói nyugdíjszolgáltató intézményben részesedés megszerzéséhez.
 
@@ -1056,7 +1058,9 @@ a Felügyelet részére megküldeni.
 
 ### A Felügyelet együttműködése az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatósággal
 
-62/A. § Foglalkoztatói nyugdíjintézmény tevékenységi engedélyének kiadása, visszavonása esetén a Felügyelet a határozat meghozataláról tájékoztatja az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóságot.
+62/A. § (1) A foglalkoztatói nyugdíjszolgáltató intézmény tevékenységi engedélyének kiadásáról, visszavonásáról, valamint azon tagállamok megnevezéséről, amelyek területén az intézmény a 22. § alapján határon átnyúló tevékenységet végez, a Felügyelet tájékoztatja az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóságot.
+
+(2) Nem jelenti az üzleti titok sérelmét a Felügyelet által az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság felé történő adatszolgáltatás, az európai felügyeleti hatóság (az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) létrehozásáról, valamint a 716/2009/EK határozat módosításáról és a 2009/79/EK bizottsági határozat hatályon kívül helyezéséről szóló 2010. november 24-i 1094/2010/EU európai parlamenti és tanácsi rendeletnek megfelelően.
 
 ### A Felügyelet eljárása külföldi kérelmező esetén
 
@@ -1230,7 +1234,7 @@ a Felügyelet a felszámolás elkerülése, valamint a tagok és a járadékosok
 
 77. § (1) A foglalkoztatói nyugdíjszolgáltató intézmény felszámolójának vagy végelszámolójának kizárólag a Felügyelet által létrehozott közhasznú társaság jelölhető ki.
 
-(2) A felszámolót, végelszámolót titoktartási kötelezettség terheli. A titoktartási kötelezettségre vonatkozóan a Bit. 153–165. §-aiban foglaltakat kell alkalmazni.
+(2) A felszámolót, végelszámolót titoktartási kötelezettség terheli. A titoktartási kötelezettségre vonatkozóan a Bit. 135–148. §-aiban foglaltakat kell alkalmazni.
 
 (3) A végelszámoló vagy a felszámoló jogosult valamennyi államban e törvény és a Cstv. rendelkezései által meghatározott jogkörök ellátására, de ennek során köteles betartani azon állam jogát, amelynek területén eljárását foganatosítja.
 
@@ -1333,6 +1337,8 @@ a Felügyelet a felszámolás elkerülése, valamint a tagok és a járadékosok
 
 vonatkozó részletes szabályokat.
 
+86/A. § Felhatalmazást kap a Kormány, hogy a foglalkoztatói nyugdíjszolgáltató intézmények szavatoló tőke szükségletének kiszámítására vonatkozó részletes szabályokat rendeletben állapítsa meg.
+
 ### Záró és átmeneti rendelkezések
 
 87. § (1) Ez a törvény a kihirdetését követő 15. napon lép hatályba.
@@ -1353,3 +1359,4 @@ vonatkozó részletes szabályokat.
 - d) az Európai Parlament és a Tanács 2010/78/EU irányelve (2010. november 24.) a 98/26/EK, 2002/87/EK, 2003/6/EK, 2003/41/EK, 2003/71/EK, 2004/39/EK, 2004/109/EK, 2005/60/EK, 2006/48/EK, 2006/49/EK és 2009/65/EK irányelvnek az európai felügyeleti hatóság (Európai Bankhatóság), az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról,
 - e) a Tanács 2004. december 13-án kelt 2004/113/EK irányelve a nők és férfiak közötti egyenlő bánásmód elvének az árukhoz és szolgáltatásokhoz való hozzáférés, valamint azok értékesítése, illetve nyújtása tekintetében történő végrehajtásáról,
 - f) az Európai Parlament és a Tanács 2013/14/EU irányelve (2013. május 21.) a foglalkoztatói nyugellátást szolgáltató intézmények tevékenységéről és felügyeletéről szóló 2003/41/EK irányelvnek, az átruházható értékpapírokkal foglalkozó kollektív befektetési vállalkozásokra (ÁÉKBV) vonatkozó törvényi, rendeleti és közigazgatási rendelkezések összehangolásáról szóló 2009/65/EK irányelvnek és az alternatív befektetésialap-kezelőkről szóló 2011/61/EU irányelvnek a hitelminősítések túlzott figyelembevétele tekintetében történő módosításáról.
+- g) az Európai Parlament és a Tanács 2009/138/EK irányelve (2009. november 25.) a biztosítási és viszontbiztosítási üzleti tevékenység megkezdéséről és gyakorlásáról (Szolvencia II.).

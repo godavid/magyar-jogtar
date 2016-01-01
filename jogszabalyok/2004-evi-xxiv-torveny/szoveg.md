@@ -117,14 +117,14 @@ a lőfegyverekről és lőszerekről
 - d) szabálysértési felelősségét polgári felhasználású robbanóanyaggal és pirotechnikai termékkel kapcsolatos szabálysértés, lőfegyverrel kapcsolatos szabálysértés, a közbiztonságra különösen veszélyes eszközzel kapcsolatos szabálysértés, a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 169. § (2) bekezdés a) pontja szerinti rendzavarás, közbiztonsági tevékenység jogosulatlan végzése, számszeríj, szigonypuska jogellenes használata, veszélyes fenyegetés vagy jogosulatlan vadászat elkövetése miatt a szabálysértési hatóság jogerősen megállapította, a határozat jogerőre emelkedését követő hat hónapig,
 - e) az engedély kiadására vonatkozó kérelmében valótlan adatot közöl, a kérelemmel összefüggő valós adatot elhallgat vagy a fegyverre, lőszerre (töltényre) lőszerelemre, lőtérre vonatkozó, jogszabályban meghatározott kötelezettségét súlyosan megszegi, a kérelem benyújtását vagy – ha ezen ok miatt az engedély visszavonása iránt eljárás indul – az engedélyt visszavonó határozat jogerőre emelkedését követő hat hónapig.
 
-(3) A 3. § (1) bekezdésében meghatározott engedély iránti kérelem elbírására irányuló eljárásban a kérelmező hatósági bizonyítvánnyal igazolja, hogy vele szemben a (2) bekezdés a)–c) pontjában meghatározott körülmény nem áll fenn, vagy kéri, hogy az e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a rendőrség részére – annak az engedély iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa.
+(3)
 
 (4) A rendőrség hatósági ellenőrzése során a (2) bekezdésben meghatározott körülmények fennállását legalább évente egy alkalommal vizsgálja. A hatósági ellenőrzés során a rendőrség
 
 - a) a (2) bekezdés a)–c) pontjában meghatározott körülmény vizsgálata céljából a bűnügyi nyilvántartási rendszerről szóló törvényben meghatározottak szerinti közvetlen adathozzáférési jogosultsága útján a (2) bekezdés a)–c) pontjában,
 - b) a (2) bekezdés d) pontjában meghatározott körülmény vizsgálata céljából a szabálysértési nyilvántartásból a (2) bekezdés d) pontjában meghatározott körülményre vonatkozó adatokat átveszi és kezeli.
 
-(5) A (3) és (4) bekezdésben foglaltak alapján megismert személyes adatokat a rendőrség
+(5) A (4) bekezdésben foglaltak alapján megismert személyes adatokat a rendőrség
 
 - a) a 3. §-ban meghatározott engedély megadása iránti eljárás jogerős befejezéséig,
 - b) a 3. §-ban meghatározott engedély megadása esetén a hatósági ellenőrzés időtartamára vagy az engedély visszavonására irányuló eljárásban az eljárás jogerős befejezéséig
@@ -153,7 +153,7 @@ kezeli.
 
 (4) Az (1) és (3) bekezdésben meghatározott engedély kiadására irányuló eljárásban
 
-- a) a 3/A. § (2) bekezdés a)–c) pontjában meghatározott körülménnyel kapcsolatos igazolásra a 3/A. § (3) és (5) bekezdésében,
+- a) a 3/A. § (2) bekezdés a)–c) pontjában meghatározott körülménnyel kapcsolatos igazolásra a 3/A. § (5) bekezdésében,
 - b) a hatósági ellenőrzésre a 3/A. § (4) és (5) bekezdésében
 
 foglaltakat kell alkalmazni.
@@ -170,16 +170,11 @@ személy lehet.
 
 (3) A színházi fegyverek kezeléséért és tárolásáért felelősnek jelölt személyt az (1) bekezdésben meghatározott engedély iránti kérelem benyújtásával egyidejűleg – ha az engedéllyel rendelkező a színházi fegyverek kezeléséért és tárolásáért felelős új személyt kíván megbízni, e megbízásra irányuló jogviszony létesítését harminc nappal megelőzően – a rendőrségnek be kell jelenteni.
 
-(4) A (3) bekezdésben meghatározott bejelentéssel egyidejűleg a színházi fegyverek kezeléséért és tárolásáért felelősnek jelölt – az (1) bekezdésben meghatározott engedéllyel nem rendelkező – személy hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, vagy kéri, hogy az e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a rendőrség részére – annak az engedély iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa.
+(4)
 
 (5) A rendőrség hatósági ellenőrzés során legalább évente egy alkalommal vizsgálja azt is, hogy a színházi fegyverek kezeléséért és tárolásáért felelős személy büntetlen előéletű-e. A hatósági ellenőrzés során a rendőrség a büntetlen előélet ellenőrzése céljából a bűnügyi nyilvántartási rendszerről szóló törvényben meghatározottak szerinti közvetlen adathozzáférési jogosultsága útján adatot vesz át és kezel.
 
-(6) A rendőrség a (4) és (5) bekezdés alapján megismert személyes adatokat
-
-- a) a színházi fegyver tartásának engedélyezése iránti eljárás jogerős befejezéséig,
-- b) a színházi fegyver tartásának engedélyezése esetén a hatósági ellenőrzés időtartamára vagy az engedély visszavonására irányuló eljárásban az eljárás jogerős befejezéséig
-
-kezeli.
+(6)
 
 (7) Ha az (5) bekezdés szerinti hatósági ellenőrzés során a rendőrség megállapítja, hogy a színházi fegyverek kezeléséért és tárolásáért felelős személy büntetett előéletű, erről a tényről haladéktalanul értesíti a színházi fegyver tartására engedéllyel rendelkezőt, és ezzel egyidejűleg felhívja, hogy az értesítés kézbesítésétől számított tizenöt napon belül a színházi fegyverek kezeléséért és tárolásáért felelős személy e megbízatására irányuló jogviszonyát szüntesse meg, és a megszüntetés tényéről – a színházi fegyverek kezeléséért és tárolásáért felelősnek jelölt, e törvényben meghatározott feltételeknek megfelelő személy bejelentésével egyidejűleg – a rendőrséget értesítse.
 
@@ -202,6 +197,8 @@ tartása, valamint lézeres célzókészülék és éjszakai irányzék lőfegyv
 (2) A 3. § (1) bekezdését az „A”, „B”, „C” vagy „D” kategóriába tartozó tűzfegyvernek, a lőfegyverdarabnak, az e törvény alapján lőfegyvernek minősülő légfegyvernek, a lőszernek és a hangtompítónak a szolgáltatási kerettörvény szerint a szabad szolgáltatásnyújtás jogával rendelkező szolgáltató határon átnyúló szolgáltatásnyújtás keretében történő exportjára, importjára, transzferére is alkalmazni kell.
 
 (3) A 3. § (1) bekezdését a szolgáltatási kerettörvény szerint a szabad szolgáltatásnyújtás jogával rendelkező szolgáltató határon átnyúló szolgáltatásnyújtás keretében történő lövészet-vezetői tevékenységére is alkalmazni kell.
+
+4/B. § A 3. § szerinti közigazgatási hatósági eljárásban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
 
 ### AZ ADATKEZELÉS SZABÁLYAI
 
@@ -359,7 +356,7 @@ tartása, valamint lézeres célzókészülék és éjszakai irányzék lőfegyv
   - bc) olyan bűntett miatt, amelyet bűnszervezet keretében követett el, szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított hét évig, szándékos bűncselekmény miatt kiszabott, öt évet el nem érő végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított öt évig, szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett szabadságvesztés esetén a mentesítés beálltától számított három évig, szándékos bűncselekmény miatt kiszabott közérdekű munka vagy pénzbüntetés esetén a mentesítés beálltától számított két évig,
 - c) a b) pontban meghatározott bűncselekmény elkövetésének megalapozott gyanúja miatt büntetőeljárás hatálya alatt áll, a büntetőeljárás jogerős befejezéséig.
 
-(3) A 18/B. § (1) bekezdésében meghatározott engedélyezési eljárásokban a kérelmező hatósági bizonyítvánnyal igazolja, hogy vele és az általa foglalkoztatott pirotechnikussal, valamint az általa foglalkoztatott, a polgári célú pirotechnikai tevékenységet irányító személlyel szemben az (1) bekezdés a) és c), valamint a (2) bekezdés a)–c) pontjában meghatározott körülmény nem áll fenn, vagy kéri, hogy az e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a rendőrség részére – annak az engedély iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa.
+(3)
 
 (4) A rendőrség a hatósági ellenőrzéskor az (1) és (2) bekezdésben meghatározott feltételek fennállását vizsgálja. A rendőrség a hatósági ellenőrzés során az (1) és a (2) bekezdésben meghatározott feltételek fennállásának ellenőrzése céljából jogosult a bűntettesek nyilvántartásából, a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásából, a büntetőeljárás hatálya alatt állók nyilvántartásából, a bírósági cégnyilvántartásból, a rendőrség által a felügyeleti bírsággal sújtott vállalkozásokról vezetett nyilvántartásból, valamint a központi szabálysértési nyilvántartásból az (1) és (2) bekezdésben meghatározott feltételekre vonatkozó adatokat közvetlen hozzáféréssel átvenni.
 

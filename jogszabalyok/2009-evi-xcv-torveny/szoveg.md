@@ -95,7 +95,7 @@ díj – bármilyen jogcímen történő – felszámítása a beszállító fel
 
 4. § (1) A tisztességtelen forgalmazói magatartás tilalmának megsértése miatt kérelemre vagy hivatalból a mezőgazdasági igazgatási szerv jár el. Nincs helye az e törvény szerinti eljárás lefolytatásának, a folyamatban levő eljárást meg kell szüntetni, illetve az e törvény szerint alkalmazott jogkövetkezményt tartalmazó döntést vissza kell vonni, ha az adott magatartás miatt a kereskedővel szemben a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 21. §-a szerinti visszaélés miatt eljárás indult, és abban marasztaló döntés született vagy kötelezettségvállalásra került sor. Az e törvény alapján folyamatban levő eljárást fel kell függeszteni a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 21. §-a szerinti visszaélés miatt az adott magatartásra vonatkozóan folyamatban levő eljárás idejére.
 
-(2) A mezőgazdasági igazgatási szerv eljárására a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni. Az ügyintézési határidő két hónap, amely indokolt esetben a szerv vezetője által – az ügyfél egyidejű tájékoztatásával – egy alkalommal legfeljebb két hónappal meghosszabbítható.
+(2) A mezőgazdasági igazgatási szerv eljárására a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni azzal az eltéréssel, hogy az ügyintézési határidő negyvenöt nap.
 
 (3) Az eljáró hatóság helyszíni ellenőrzésre feljogosított kormánytisztviselője az e törvényben foglaltak ellenőrzése, valamint a tényállás tisztázásához szükséges bizonyíték fellelése érdekében jogosult
 

@@ -251,13 +251,13 @@ Az Országgyűlés – felismerve és követve az egyetemes fejlődésnek az inf
 
 (2) Ha az aláíró elmulasztotta teljesíteni az (1) bekezdés szerinti kötelezettségét, az ebből eredő kárért felel.
 
-(3) Az aláíró, illetve a 10. § szerinti képviselt személy, szervezet kérheti a tanúsítvány felfüggesztését, illetve visszavonását.
+(3) Az aláíró, illetve a 10. § szerinti képviselt személy, szervezet kérheti a tanúsítvány visszavonását, illetve ha a hitelesítésszolgáltató ennek lehetőségét biztosítja, a tanúsítvány felfüggesztését.
 
 (4) Az aláíró az aláírás-létrehozó adatot kizárólag az aláírás létrehozására használhatja, betartva a tanúsítványban jelzett esetleges egyéb korlátozásokat is. A minősített tanúsítvány felhasználható fokozott biztonságú elektronikus aláírás létrehozására is.
 
 ### A tanúsítvány érvényességének felfüggesztése, illetve visszavonása a szolgáltató részéről
 
-14. § (1) A hitelesítés-szolgáltató felfüggeszti a tanúsítvány érvényességét és ezt nyilvántartásában haladéktalanul közzéteszi, ha
+14. § (1) Ha a hitelesítésszolgáltató a szolgáltatás kapcsán biztosítja a tanúsítvány felfüggesztésének lehetőségét, a tanúsítvány érvényességét felfüggeszti és ezt nyilvántartásában haladéktalanul közzéteszi, ha
 
 - a) az aláíró, illetve a képviselt személy (szervezet) kéri;
 - b) a szolgáltatással kapcsolatos – jogszabályban, a szolgáltatási szabályzatban vagy az általános szerződési feltételekben meghatározott – rendellenességről szerez tudomást;
@@ -394,7 +394,7 @@ Az Országgyűlés – felismerve és követve az egyetemes fejlődésnek az inf
 
 (3)
 
-(4) A Hatóság ügyintézési határideje két hónap.
+(4) A Hatóság ügyintézési határideje negyvenöt nap.
 
 (5) A Hatóság Hivatalának első fokú határozata ellen a Hatóság elnökéhez lehet fellebbezni.
 

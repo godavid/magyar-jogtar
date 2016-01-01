@@ -95,7 +95,7 @@ a más kártyakibocsátó által kibocsátott elsődleges kártyát a saját kib
 (2) Az elsődleges kártya
 
 - a) – ha ágazati törvény így rendelkezik – a kártyán megjelenített módon tartalmazhatja
-  - aa) a kártyafelhasználó születési helyét és idejét, lakó- vagy tartózkodási helyének településnevét, 14. életévét betöltött kártyafelhasználó esetében az aláírását,
+  - aa) a kártyafelhasználó születési helyét és idejét, lakó- vagy tartózkodási helyének településnevét, 12. életévét betöltött kártyafelhasználó esetében az aláírását,
   - ab) – ha a kártyakibocsátót ágazati törvény, vagy ágazati törvény felhatalmazása alapján jogszabály jelöli ki – az ágazati törvény által meghatározott kibocsátási célra vonatkozó jogosultsági vagy tényadatokat,
   - ac) az ágazati törvényben meghatározott egyéb személyes adatot,
 - b) a kártyakibocsátó döntése alapján a kártyán megjelenített módon tartalmazhatja
@@ -125,11 +125,11 @@ a más kártyakibocsátó által kibocsátott elsődleges kártyát a saját kib
 
 (4) Az 1. § (3) bekezdés a) pontja szerinti kérelmező esetén a kártyafelhasználói regisztráció érvényessége öt év. A kártyafelhasználói regisztráció érvényessége az Nytv. szerinti egységes arcképmás- és aláírás-felvételezéssel esetenként öt évvel meghosszabbodik.
 
-(5) Az 1. § (3) bekezdés b) pontja szerinti kérelmezőt a kártyafelhasználói regisztráció során a regisztrációs szerv a személyesen megjelent kártyafelhasználó kártyafelhasználói regisztráció iránti kérelmére az általa bemutatott útlevélben vagy az Európai Gazdasági Térségről szóló Egyezményben részes tagállam állampolgára esetén a tagállam által kibocsátott személyazonosításra alkalmas okmányban szereplő adatok alapján azonosítja. Sikeres azonosítás esetén a regisztrációs szerv a kérelmező arcképmását és – ha a kérelmező a 14. életévét betöltötte – aláírását rögzíti, és azokat, valamint a bemutatott személyazonosításra alkalmas okmányban foglalt természetes személyazonosító adatokat, a bemutatott okmány számát, típusát és érvényességi idejét bejegyzi a 8. § (3) bekezdés a) pontja szerinti adatbázisba.
+(5) Az 1. § (3) bekezdés b) pontja szerinti kérelmezőt a kártyafelhasználói regisztráció során a regisztrációs szerv a személyesen megjelent kártyafelhasználó kártyafelhasználói regisztráció iránti kérelmére az általa bemutatott útlevélben vagy az Európai Gazdasági Térségről szóló Egyezményben részes tagállam állampolgára esetén a tagállam által kibocsátott személyazonosításra alkalmas okmányban szereplő adatok alapján azonosítja. Sikeres azonosítás esetén a regisztrációs szerv a kérelmező arcképmását és – ha a kérelmező a 12. életévét betöltötte – aláírását rögzíti, és azokat, valamint a bemutatott személyazonosításra alkalmas okmányban foglalt természetes személyazonosító adatokat, a bemutatott okmány számát, típusát és érvényességi idejét bejegyzi a 8. § (3) bekezdés a) pontja szerinti adatbázisba.
 
 (6) Az 1. § (3) bekezdés b) pontja szerinti kérelmező esetén a kártyafelhasználói regisztráció érvényessége az (5) bekezdés szerinti, a regisztráció alapjául szolgáló okmány érvényességének időpontjáig terjedő idő, de legfeljebb öt év.
 
-7. § (1) Az 1. § (3) bekezdés a) pontja szerinti kérelmező esetén a személyiadat- és lakcímnyilvántartás adatkezelője a kérelmező személyi adat- és lakcímnyilvántartásban kezelt természetes személyazonosító adatait, lakcímét, egységes arcképmás- és aláírás-felvételezés során rögzített arcképmását és – ha a 14. életévét betöltötte – aláírását kártyakibocsátás céljából a működtető részére átadja.
+7. § (1) Az 1. § (3) bekezdés a) pontja szerinti kérelmező esetén a személyiadat- és lakcímnyilvántartás adatkezelője a kérelmező személyi adat- és lakcímnyilvántartásban kezelt természetes személyazonosító adatait, lakcímét, egységes arcképmás- és aláírás-felvételezés során rögzített arcképmását és – ha a 12. életévét betöltötte – aláírását kártyakibocsátás céljából a működtető részére átadja.
 
 (2) Amennyiben a személyiadat- és lakcímnyilvántartás a kártyafelhasználó egységes arcképmás- és aláírás-felvételezés során rögzített, egy évnél nem régebbi arcképmását és aláírását tartalmazza, a kártyafelhasználói regisztráció során az arcképmás és aláírás felvétele kérelemre mellőzhető.
 
@@ -172,7 +172,7 @@ központi nyilvántartást (a továbbiakban: NEK központi nyilvántartás) veze
   - aa) a kártyafelhasználó természetes személyazonosító adatait,
   - ab) a személyazonosításra alkalmas, bemutatott okmány számát, típusát és érvényességi idejét,
   - ac) arcképmását,
-  - ad) – ha 14. életévét betöltötte – aláírását,
+  - ad) – ha 12. életévét betöltötte – aláírását,
 - b) kártyával rendelkező kártyafelhasználó esetében – az a) pontban meghatározottakon túl – elsődleges kártyák tekintetében kártyánként elkülönítetten
   - ba) a kártyafelhasználó kártyán szereplő, 5. § (1) bekezdés a) pont aa) és ab) alpontja, 5. § (2) bekezdés a) pont aa) és ac) alpontja, valamint 5. § (2) bekezdés c) pontja szerinti adatait,
   - bb) a kártya kibocsátójának megnevezését, székhelyét és egyedi azonosítóját,
@@ -268,7 +268,7 @@ alapján veheti igénybe a NEK szolgáltatásait, és teljesíthet szolgáltatá
 
 (3) Ágazati törvény vagy ágazati törvény felhatalmazása alapján jogszabály az (1) bekezdés szerinti szerződés vagy hatósági szerződés egyes tartalmi elemeit meghatározhatja.
 
-(4) A kártyakibocsátót az (1) bekezdésben foglalt szolgáltatások igénybevételéért díjfizetési kötelezettség terheli. A működtető köteles közzétenni a hatósági szerződésben foglalt szolgáltatások igénybevételéért fizetendő díj kiszámításának alapját. A díjazás megállapítása során a működtető nem alkalmazhat önkényes megkülönböztetést a kártyakibocsátók között. A díj megállapítása során az árak megállapításáról szóló 1990. évi LXXXVII. törvény rendelkezései nem alkalmazhatóak.
+(4) Az 1. § (4) bekezdés b) pontja szerinti kártyakibocsátót az (1) bekezdésben foglalt szolgáltatások igénybevételéért díjfizetési kötelezettség terheli. A működtető köteles közzétenni a hatósági szerződésben foglalt szolgáltatások igénybevételéért fizetendő díj kiszámításának alapját. A díjazás megállapítása során a működtető nem alkalmazhat önkényes megkülönböztetést a kártyakibocsátók között. A díj megállapítása során az árak megállapításáról szóló 1990. évi LXXXVII. törvény rendelkezései nem alkalmazhatóak.
 
 (5) A kártyakibocsátókról a működtető nyilvántartást vezet, mely tartalmazza a kártyakibocsátó
 
@@ -389,23 +389,12 @@ meghatározott műszaki, technológiai, biztonsági előírásoknak,
 
 (2) Az (1) bekezdés szerinti kártya tekintetében kártyakibocsátónak a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nktv.) szerinti, a köznevelési információs rendszer adatkezelőjét, illetve a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) szerinti, a felsőoktatási információs rendszer működtetéséért felelős szervet, e törvény szerinti kártyafelhasználói regisztráció időpontjának a fényképnek és az aláírásnak a Rendelet szerinti felvételezése időpontját kell tekinteni.
 
-(3) Azoknak az 1. § (3) bekezdés a) pontja szerinti személyeknek, akik számára e törvény hatálybalépése előtt a Rendelet alapján oktatási igazolvány kiállítására került sor,
-
-- a) az Nktv.-ben meghatározott oktatási igazolványon szereplő adatait a köznevelési információs rendszer adatkezelője, az Nftv.-ben meghatározott oktatási igazolványon szereplő adatait a felsőoktatási információs rendszer működtetéséért felelős szerv, továbbá
-- b) az oktatási igazolvány adattartalmát képező fényképet és aláírást, valamint a fényképnek és az aláírásnak a Rendelet szerinti felvételezése időpontját a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala
-
-átadja a működtető részére a NEK központi nyilvántartásba történő bejegyzés céljából. A működtető a kártyafelhasználó természetes személyazonosító adatait továbbítja a személyiadat- és lakcímnyilvántartás adatkezelőjének a személyiadat- és lakcímnyilvántartásban kapcsolati kód – 7. § (3) és (4) bekezdésében foglaltaknak megfelelő – képzése céljából. A személyiadat- és lakcímnyilvántartás adatkezelője a kapcsolati kódot átadja a működtetőnek a NEK központi nyilvántartásba történő bejegyzés céljából.
-
-(4) Azoknak az 1. § (3) bekezdés b) pontja szerinti személyeknek, akik számára e törvény hatálybalépése előtt a Rendelet alapján oktatási igazolvány kiállítására került sor, az oktatási igazolványon szereplő adatait a köznevelési információs rendszer adatkezelője, illetve a felsőoktatási információs rendszer működtetéséért felelős szerv, az oktatási igazolvány adattartalmát képező fényképet és aláírást, valamint a fényképnek és az aláírásnak a Rendelet szerinti felvételezése időpontját a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala átadja a működtető részére a NEK központi nyilvántartásba történő bejegyzés céljából.
-
-(5) A (3)–(4) bekezdésben foglalt feladatokat 2015. december 31-ig kell elvégezni.
-
-(6) A működtető a (2) bekezdés szerinti kártyakibocsátókkal az e törvény hatálybalépését követő 90 napon belül megköti a 13. § (1) bekezdés a) pontja szerinti szerződést.
+(3)–(6)
 
 #### 24–25. §
 
 #### 26. §
 
-#### 27. §
+27. § Hatályát veszti a 23. § (3)–(6) bekezdése.
 
 28. § A 25. § az Alaptörvény 46. cikk (6) bekezdése alapján sarkalatosnak minősül.

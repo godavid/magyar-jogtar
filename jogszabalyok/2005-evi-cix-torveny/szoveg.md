@@ -70,9 +70,9 @@ A haditechnikai termékek gyártásának és a haditechnikai szolgáltatások ny
 - c) a kérelemben megjelölt tevékenység irányítására kijelölt felelős vezetője a külön jogszabályban megjelölt szakirányú végzettséggel és gyakorlattal rendelkezik;
 - d) megfelel az e törvény vagy a felhatalmazása alapján kiadott jogszabályban meghatározott egyéb feltételeknek.
 
-(5)
+(5) Az engedélyezési eljárásban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
 
-(6) Az engedélyezési eljárás ügyintézési határideje hatvan nap.
+(6) Az engedélyezési eljárás ügyintézési határideje negyvenöt nap.
 
 4. § (1) Az engedélykérelmet el kell utasítani, ha
 
@@ -129,7 +129,7 @@ A haditechnikai termékek gyártásának és a haditechnikai szolgáltatások ny
 - c) bűntett vagy háromévi vagy ennél súlyosabb szabadságvesztés büntetéssel büntetendő vétség elkövetésének megalapozott gyanúja miatt büntetőeljárás alatt áll, a büntetőeljárás jogerős befejezéséig,
 - d) ellen a tervezett alkalmazását megelőző két évben ipari robbantóanyaggal és pirotechnikai termékekkel, lőfegyverrel, közbiztonságra különösen veszélyes eszközzel kapcsolatos szabálysértés, rendzavarás, számszeríj vagy szigonypuska jogellenes használata, veszélyes fenyegetés, jogosulatlan vadászat, természetvédelmi szabálysértés elkövetése miatt büntetést szabtak ki vagy intézkedést alkalmaztak.
 
-(3) Az (1) bekezdés b) pontjában meghatározott személy azt a tényt, hogy büntetlen előéletű, az (1) bekezdés a) pontjában meghatározott személy azt a tényt, hogy a (2) bekezdés a)–c) pontja szerinti biztonsági feltételeknek megfelel, a 2. §-ban meghatározott engedély iránti kérelem benyújtásával egyidejűleg vagy – ha a munkavégzésre irányuló jogviszony létesítésére az engedély kiadását követően kerül sor, a jogviszony létesítését megelőzően – hatósági bizonyítvánnyal igazolja.
+(3) Az (1) bekezdés b) pontjában meghatározott személy azt a tényt, hogy büntetlen előéletű, az (1) bekezdés a) pontjában meghatározott személy azt a tényt, hogy a (2) bekezdés a)–c) pontja szerinti biztonsági feltételeknek megfelel hatósági bizonyítvánnyal igazolja, ha a munkavégzésre irányuló jogviszony létesítésére a 2. §-ban meghatározott engedély kiadását követően kerül sor.
 
 (4) A hadiipari gyártás- és szolgáltatásfelügyelet a hadiipari tevékenység folytatásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy az (1) bekezdés b) pontjában meghatározott személy büntetlen előéletű, valamint, hogy az (1) bekezdés a) pontjában meghatározott személy a (2) bekezdés a)–c) pontja szerinti biztonsági feltételeknek megfelel. A hatósági ellenőrzés céljából a hadiipari gyártás- és szolgáltatásfelügyelet adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag annak megállapítására irányulhat, hogy az (1) bekezdés b) pontjában meghatározott személy büntetlen előéletű-e, illetve, hogy az (1) bekezdés a) pontjában meghatározott személy a (2) bekezdés a)–c) pontja szerinti biztonsági feltételeknek megfelel-e.
 

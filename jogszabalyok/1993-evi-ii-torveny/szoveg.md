@@ -271,7 +271,7 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 (2) Az (1) bekezdés szerinti javaslat elkészítésénél az érintett bizottság az ideiglenes birtokba helyezési határozatokat, a kárpótlásra jogosultak és tanyatulajdonosok által tett vételi nyilatkozatokat, valamint a 9. § szerint meghatározott részarány-földtulajdonokat veszi figyelembe.
 
-(3) Az érintett bizottság a javaslatot egyezteti a jegyzővel, a közúti igazgatásért felelős szervvel és a közlekedési hatósággal, valamint a kárpótlási hatósággal. A bizottság az egyeztetett javaslatot az önkormányzati képviselő-testület elé terjeszti jóváhagyásra. A jóváhagyást követően az ingatlanügyi hatóság elvégzi a tervezést és a helyszíni kitűzést.
+(3) Az érintett bizottság a javaslatot egyezteti a jegyzővel, a közúti igazgatásért felelős szervvel, valamint a kárpótlási hatósággal. A bizottság az egyeztetett javaslatot az önkormányzati képviselő-testület elé terjeszti jóváhagyásra. A jóváhagyást követően az ingatlanügyi hatóság elvégzi a tervezést és a helyszíni kitűzést.
 
 (4) A kialakítandó földrészletek megközelíthetősége érdekében kitűzött helyi közutak a települési önkormányzat tulajdonába kerülnek, azokat az ingatlanügyi hatóság önálló földrészletként jegyzi be az ingatlan-nyilvántartásba. A fölrészletek megközelítésére szolgáló közutak kialakításához szükséges terület AK értékével a kiadásra kerülő részarány-földtulajdonokat kártalanítás nélkül arányosan csökkenteni kell.
 

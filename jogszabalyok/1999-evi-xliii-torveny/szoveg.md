@@ -212,7 +212,7 @@ alapján kell kiadni.
 
 (4) Az eltemetésre köteles személy nyilatkozata tartalmazza az eltemetésre köteles személy nevét, születési helyét és idejét, anyja születési nevét, nyilatkozattételkori bejelentett lakcímét és a hamvak elhelyezése tervezett helyének címét.
 
-(5) A hamvakat tartalmazó urna temetőn, temetkezési emlékhelyen kívüli elhelyezése esetén az eltemetésre köteles személy nyilatkozatában vállalja, hogy az urnát kegyeleti igényeknek megfelelő körülmények között tárolja és az elhunyt közeli hozzátartozói részére a kegyeleti jog gyakorlásának lehetőségét biztosítja, valamint az elhunyt közeli hozzátartozóit az urna elhelyezésére szolgáló hely címének változásáról tájékoztatja.
+(5) A hamvakat tartalmazó urna temetőn, temetkezési emlékhelyen kívüli elhelyezése esetén az eltemetésre köteles személy nyilatkozatában vállalja, hogy az urnát kegyeleti igényeknek megfelelő körülmények között tárolja és az elhunytnak a Polgári Törvénykönyv szerinti hozzátartozói, valamint a végrendeleti juttatásban részesített személyek részére a kegyeleti jog gyakorlásának lehetőségét biztosítja, valamint az elhunyt közeli hozzátartozóit az urna elhelyezésére szolgáló hely címének változásáról tájékoztatja.
 
 (6) Ha az elhunyt végrendelete a hamvak sorsáról nem rendelkezett vagy nincs végrendelet, a hamvak szétszórása esetén az eltemetésre köteles személy nyilatkozatának tartalmaznia kell azon kijelentést, hogy az elhunyt közeli hozzátartozói egyetértenek a hamvak szétszórásának helye, ideje és módja tekintetében.
 
@@ -297,9 +297,9 @@ csak temetkezési szolgáltatói telephelyen végezheti.
 (2) A temetkezési szolgáltatási tevékenység folytatását a temetkezési szolgáltatást engedélyező hatóság annak engedélyezi,
 
 - a) aki büntetlen előéletű, és nem áll a temetkezési szolgáltatási tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt,
-- b) aki igazolja az e törvény végrehajtásáról kiadott kormányrendelet szerinti vagyoni biztosíték rendelkezésre állását,
+- b) aki rendelkezik e törvény szerinti megfelelő pénzügyi teljesítőképességgel, valamint a törvény végrehajtására kiadott kormányrendelet szerinti vagyoni biztosítékkal,
 - c) aki rendelkezik az alapvető kegyeleti feltételeknek, valamint a munkavégzésre vonatkozó előírásoknak megfelelő, a tevékenység méltóságát nem sértő, a környezetben élők egészségét és a környezetet nem veszélyeztető telephellyel,
-- d) aki írásbeli nyilatkozatot tesz arról, hogy vele szemben összeférhetetlenség nem áll fenn, és
+- d) akivel szemben összeférhetetlenség nem áll fenn, és
 - e) aki saját maga, vagy legalább egy, a temetkezési szolgáltatási tevékenységben személyesen közreműködő alkalmazottja rendelkezik a kormányrendeletben meghatározott szakmai képesítéssel és megfelel az ott meghatározott feltételeknek.
 
 (3) A (2) bekezdésben meghatározott követelményeket – a (4) bekezdésben meghatározottakra figyelemmel –
@@ -308,11 +308,11 @@ csak temetkezési szolgáltatói telephelyen végezheti.
 - b) a gazdasági társaság vezetőjének,
 - c) az egyéni cég tagjának kell igazolnia.
 
-(4) A temetkezési szolgáltatási tevékenység engedélyezése iránti kérelem benyújtásával egyidejűleg a kérelmező hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, valamint nem áll a temetkezési szolgáltatási tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a temetkezési szolgáltatást engedélyező hatóság részére – annak a temetkezési szolgáltatási tevékenység engedélyezése iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a temetkezési szolgáltatásokat engedélyező hatóság a (6) bekezdésben meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől.
+(4)
 
 (5) A temetkezési szolgáltatásokat engedélyező hatóság az engedéllyel rendelkező szolgáltatókról nyilvántartást vezet.
 
-(6) A temetkezési szolgáltatásokat engedélyező hatóság a temetkezési szolgáltatási tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a nyilvántartásba vett temetkezési szolgáltatást végző személy büntetlen előéletű, és nem áll a temetkezési szolgáltatási tevékenységet kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából a temetkezési szolgáltatásokat engedélyező hatóság adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag arra irányulhat, hogy a temetkezési szolgáltatási tevékenységet folytató személy büntetlen előéletű-e, valamint, hogy a temetkezési szolgáltatási tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
+(6)
 
 (7) A (4) és (6) bekezdés alapján megismert személyes adatokat a temetkezési szolgáltatásokat engedélyező hatóság
 
@@ -345,7 +345,7 @@ csak temetkezési szolgáltatói telephelyen végezheti.
 
 (3) Holttestet temető, temetkezési emlékhely és hamvasztóüzem ingatlanán kívül halottszállító autóban március 1. és szeptember 30. között vagy 90 percnél hosszabb idejű szállítás esetében legfeljebb +18 °C-on lehet szállítani.
 
-36. § (1) Holttest, urna külföldre történő szállításához – ha nemzetközi szerződés másként nem rendelkezik – a rendeltetési hely szerinti ország hatóságának, valamint az elhalálozás helye szerint egészségügyi államigazgatási szervnek az engedélye szükséges.
+36. § (1) Holttest külföldre történő szállításához – ha nemzetközi szerződés másként nem rendelkezik – a rendeltetési hely szerinti ország hatóságának, valamint az elhalálozás helye szerint egészségügyi államigazgatási szervnek az engedélye szükséges.
 
 (2) Holttest külföldről Magyarországra való szállításához be kell szerezni a magyar külképviselet hatósági engedélyét, valamint az indító ország közegészségügyi hatóságának szállítási engedélyét, továbbá a befogadó temető, illetve temetkezési hely nyilatkozatát.
 

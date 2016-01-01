@@ -44,7 +44,7 @@ terjed ki.
 
 (2) A minősítő a kérelmezőt csak a kérelemben megjelölt minősítési osztályba sorolhatja.
 
-(3) Az e törvényben foglalt eljárásokban – az adatváltozás bejelentésére vonatkozó kérelem elbírálása kivételével – az ügyintézési határidő 90 nap.
+(3) Az e törvényben foglalt eljárásokban – az adatváltozás bejelentésére vonatkozó kérelem elbírálása kivételével – az ügyintézési határidő 70 nap.
 
 (4) A minősítő, ha a kérelmező kezdeményezi – igazgatási szolgáltatásként – az eljárás megindítását megelőzően szakmai konzultációs lehetőséget biztosít. A szakmai konzultáció az egyes minősítési osztályok eléréséhez szükséges követelményekre, valamint az e követelményeknek való megfelelést igazoló dokumentumokra terjedhet ki.
 

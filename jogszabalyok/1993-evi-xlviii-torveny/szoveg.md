@@ -101,7 +101,7 @@ felszíni előkutatás
 - g) a geotermikus energia kinyerését és hasznosítását, valamint az ehhez szükséges – külön jogszabályban meghatározott – földalatti és felszíni létesítmények megépítését és használatba vételét, ha a tevékenység nem vízjogi engedély köteles,
 - h) a bányászati hulladék kezelését,
 - i) a polgári robbantási tevékenységet és a polgári felhasználású robbanóanyag forgalmazását,
-- j) a bányafelügyelet hatáskörébe tartozó nyomástartó berendezések és rendszerek engedélyköteles létesítését, javítását, átalakítását, használatbavételét, továbbá a nyomástartó berendezést vizsgáló szakértői és felügyeleti tevékenység folytatását,
+- j) a bányafelügyelet hatáskörébe tartozó nyomástartó berendezések és rendszerek engedélyköteles létesítését, javítását, átalakítását, használatbavételét,
 - k) a földtani kutatást,
 - l) a vizek kártételei elleni védelem és védekezés célját szolgáló közcélú vízilétesítmények létesítéséhez szükséges ásványinyersanyag-kinyerő helyek létesítését, üzemeltetését, megszüntetését,
 - m) az ásványvagyon-gazdálkodási célokat szolgáló, a szénhidrogén kutatása és kitermelése során alkalmazott rétegrepesztést, rétegsavazást, gázbesajtolást, rétegenergia-pótlást, valamint a rétegrepesztési technológia és rétegenergia-pótlás céljából alkalmazott vízbesajtolást.
@@ -456,7 +456,7 @@ különbözőségének figyelembevételével kitermelési helyenként állapítj
 
 (3) A földtani kutatási engedély alapján a földtani kutatásra jogosult a földtani kutatási engedélyben lehatárolt térrészben jogosult az engedélyben meghatározott célból a földkéreg anyagi, szerkezeti és fejlődéstörténeti sajátosságainak megismerésére szolgáló műszeres mérések, vizsgálatok, fúrások elvégzésére, mintavételezésre, valamint bányászati kutatóépítmények kivitelezésére.
 
-(4) Földtani kutatást csak földtani szakértői engedéllyel rendelkező személy vezethet.
+(4) Földtani kutatást csak a bányafelügyelet részére a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelentett személy vezethet.
 
 (5) A földtani kutatásról összefoglaló földtani jelentést kell készíteni, amelyet a kutatás befejezésétől számított 6 hónapon belül kell a bányafelügyeletnek benyújtani. Az összefoglaló földtani jelentés benyújtását megelőzően, vagy a benyújtás elmulasztása esetén, vagy ha az összefoglaló földtani jelentést a bányafelügyelet jogerős és végrehajtható határozatában elutasította, a kutatás során megismert földtani adatokat a földtani kutatásra jogosult nem használhatja fel, és nem hasznosíthatja.
 
@@ -643,9 +643,9 @@ vonatkozó információ.
 
 (2) A bányavállalkozó a bányaüzembe felelős műszaki vezetőt és helyettest (a továbbiakban együtt: bányaüzemi felelős műszaki vezető) köteles megbízni. Szénhidrogén-bányaüzemben egyes speciális bányászati tevékenységek tekintetében külön bányaüzemi felelős műszaki vezető is megbízható. A bányaüzemi felelős műszaki vezetőt a bányafelügyelethez be kell jelenteni.
 
-(3) Bányaüzemi felelős műszaki vezetői tevékenységet csak az folytathat, aki rendelkezik a bányafelügyelet engedélyével. A bányafelügyelet annak engedélyezi a bányaüzemi felelős műszaki vezetői tevékenység folytatását, aki büntetlen előéletű, és megfelel a bányaüzem felelős műszaki vezetőjének kijelöléséről szóló rendeletben meghatározott feltételeknek.
+(3) Aki bányaüzemi felelős műszaki vezetői tevékenységet kíván folytatni, köteles az erre irányuló szándékát a bányafelügyelet részére a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelenteni. Bányaüzemi felelős műszaki vezetői tevékenységet az folytathat, aki büntetlen előéletű, és megfelel a bányaüzem felelős műszaki vezetőjének kijelöléséről szóló rendeletben meghatározott feltételeknek.
 
-(4) A bányafelügyelet a (3) bekezdés szerinti engedély kiadásával egyidejűleg nyilvántartásba veszi a bányaüzemi felelős műszaki vezetői tevékenység végzésére engedéllyel rendelkező személyeket. A nyilvántartás tartalmazza a tevékenység végzésére jogosult személy természetes személyazonosító adatait, iskolai végzettségének megnevezését és oklevelének számát.
+(4) A bányafelügyelet által a bányaüzemi felelős műszaki vezetői tevékenység végzésére jogosult személyekről vezetett nyilvántartás tartalmazza a tevékenység végzésére jogosult személy természetes személyazonosító adatait, iskolai végzettségének megnevezését és oklevelének számát.
 
 (4a) A (4) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
@@ -1296,7 +1296,7 @@ gyakorolja.
 
 (9b) A bányafelügyelet eljárásáért igazgatási szolgáltatási díjat kell fizetni.
 
-(9c) Az igazgatási szolgáltatási díjat – legfeljebb a tárgyévre megállapított felügyeleti díj fizetési kötelezettség mértékéig – a felügyeleti díj fedezi.
+(9c) A (9) bekezdés szerint felügyeleti díjat fizető bányavállalkozónak, illetve engedélyesnek a tárgyévben befizetendő felügyeleti díjból – a tárgyévre megállapított felügyeleti díj fizetési kötelezettség mértékéig – visszajár a tárgyévet megelőző évben az általa a bányafelügyelet eljárásaiért megfizetett igazgatási szolgáltatási díjak összege.
 
 (10) A bányászati igazgatási feladatokat ellátó személyek részére igazolványt, a hatósági feladatokat ellátó személyek részére az igazolvánnyal azonos sorszámú szolgálati jelvényt kell biztosítani.
 
@@ -1306,7 +1306,7 @@ gyakorolja.
 
 (1a) A bányatelek megállapításra indított eljárásban a megyei területrendezési tervekkel való összhang vonatkozásában a megyei önkormányzat ügyfélnek minősül.
 
-(2) A bányafelügyelet az eljárás megindításáról az ügyfelet tíz napon belül értesíti.
+(2)
 
 (2a) A bányafelügyelet által folytatott eljárásokban az eljárás megindításáról szabályszerűen értesített ügyfél ügyféli jogait csak akkor gyakorolhatja, ha az elsőfokú eljárásban nyilatkozatot tett vagy kérelmet nyújtott be.
 
@@ -1326,7 +1326,15 @@ gyakorolja.
 
 (9) A bányafelügyelet eljárásaiban szakhatóságként kijelölt hatóság az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére előzetes szakhatósági állásfoglalást ad ki, amely a kiadásától számított egy évig használható fel.
 
-43/B. § (1) A bányatelek megállapítására indított eljárás során az ügyintézés határideje három hónap, a kutatás engedélyezésére vonatkozó eljárás ügyintézési határideje húsz nap.
+43/B. § (1) A bányafelügyelet eljárása során az ügyintézés határideje
+
+- a) a szén-dioxid geológiai tárolásával kapcsolatban
+  - aa) a tárolás engedélyezésére vonatkozó eljárás során 70 nap,
+  - ab) a bezárást követő időszakra vonatkozó terv elbírálására 45 nap,
+- b) a bányatelek megállapítására indított eljárás során 60 nap,
+- c) a kutatás engedélyezésére vonatkozó eljárás során 20 nap.
+
+(1a) A bányafelügyelet hatósági eljárásaiban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
 
 (2) Ha az ügyfél a kérelmet hiányosan nyújtotta be, a bányafelügyelet a kérelem beérkezésétől számított tizenöt napon belül hiánypótlásra hívja fel.
 
@@ -1388,46 +1396,29 @@ fellebbezésre tekintet nélkül végrehajthatóvá nyilváníthatja.
 
 (3) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató határon átnyúló szolgáltatásnyújtás keretében történő polgári felhasználású robbanóanyag-forgalmazási tevékenység folytatására irányuló szándékát köteles a bányafelügyeletnek bejelenteni.
 
-(4) A nyomástartó berendezést vizsgáló szakértői vagy felügyeleti tevékenység folytatását a bányafelügyelet annak engedélyezi, aki büntetlen előéletű, rendelkezik a Kormány rendeletében meghatározott szakmai képesítéssel, gyakorlati idővel, és megfelel az ott meghatározott egyéb feltételeknek. A bányafelügyelet a tevékenység folytatására engedéllyel rendelkezőkről nyilvántartást vezet, amely tartalmazza a tevékenység folytatására engedéllyel rendelkező személy természetes személyazonosító adatait, iskolai végzettségének megnevezését és oklevelének számát, engedélyének sorszámát, az engedélyezett tevékenység megnevezését, valamint a nyilvántartásból törlés időpontját és iktatási számát.
+(4) A nyomástartó berendezést vizsgáló szakértői vagy felügyeleti tevékenységet az folytathat, aki büntetlen előéletű, rendelkezik a Kormány rendeletében meghatározott szakmai képesítéssel, gyakorlati idővel, megfelel az ott meghatározott egyéb feltételeknek, és a tevékenység folytatásáról a bányafelügyeletnél a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelentést tett. A tevékenységet folytató személyekről a bányafelügyelet által vezetett nyilvántartás tartalmazza a tevékenységet folytató személy természetes személyazonosító adatait, iskolai végzettségének megnevezését és oklevelének számát, bejelentésének sorszámát, a bejelentett tevékenység megnevezését, valamint a nyilvántartásból törlés időpontját és iktatási számát.
 
-(4a) A (4) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül. A nyilvántartás alapján a bányafelügyelet a honlapján naprakészen közzéteszi a tevékenység folytatására engedéllyel rendelkező személyek jegyzékét, amely tartalmazza az engedéllyel rendelkező személy nevét és címét, engedélyének számát, és az engedélyezett tevékenység betűkódját.
+(4a) A (4) bekezdés szerinti nyilvántartás alapján a bányafelügyelet a honlapján naprakészen közzéteszi a tevékenységet folytató személyek jegyzékét, amely tartalmazza a tevékenységet folytató személy nevét és címét, a tevékenység folytatásáról szóló bejelentés számát, és a bejelentett tevékenység betűkódját.
 
 (5) A bányafelügyelet – tudomására jutását követően – haladéktalanul köteles intézkedni a hatósági felügyelete alá tartozó tevékenységek gyakorlásával kapcsolatban a 2. §-ban meghatározott közérdek sérelmének megelőzésére, illetve megszüntetésére, továbbá a felügyelt tevékenység jogszerű folytatásának biztosítására.
 
 (6) Az 1. § (7) bekezdése szerinti tevékenységek jogszerűségének vizsgálata a bányafelügyelet hatáskörébe tartozik.
 
-44/A. § (1) Ha e törvény vagy a felhatalmazása alapján kiadott jogszabály földtani szakkérdésben szakértő igénybevételét írja elő, vagy szakértő igénybevételéhez jogkövetkezményt állapít meg, – az igazságügyi szakértőkről szóló törvény szerint igazságügyi szakértői tevékenység végzésére jogosult szakértő kivételével – szakértőként kizárólag a bányafelügyelet engedélyével rendelkező személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak az ilyen személy igénybevételéhez fűződnek.
+(7) Polgári felhasználású robbanóanyag forgalmazását és polgári robbantási tevékenység végzését érintő eljárásokban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
 
-(2) Az (1) bekezdés szerinti szakértői tevékenység folytatását a bányafelügyelet annak engedélyezi, aki büntetlen előéletű, rendelkezik az e törvény felhatalmazása alapján a miniszter rendeletében meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
+44/A. § (1) Ha e törvény vagy a felhatalmazása alapján kiadott jogszabály földtani szakkérdésben szakértő igénybevételét írja elő, vagy szakértő igénybevételéhez jogkövetkezményt állapít meg, – az igazságügyi szakértőkről szóló törvény szerint igazságügyi szakértői tevékenység végzésére jogosult szakértő kivételével – szakértőként kizárólag az a személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak annak a személynek az igénybevételéhez fűződnek, aki a bányafelügyeletnél a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelentést tett.
 
-(3) A bányafelügyelet a szakértői tevékenység folytatására engedéllyel rendelkező személyekről nyilvántartást vezet, amely tartalmazza a szakértői tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
+(2) Az (1) bekezdés szerinti szakértői tevékenységet az a személy folytathat, aki büntetlen előéletű, rendelkezik az e törvény felhatalmazása alapján a miniszter rendeletében meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
 
-44/B. § (1) Hites bányamérői tevékenységet csak az folytathat, aki rendelkezik a bányafelügyelet engedélyével. A kérelemben meg kell jelölni a kérelmező természetes személyazonosító adatait.
+(3) A bányafelügyelet által a szakértői tevékenység folytatására jogosult személyekről vezetett nyilvántartás tartalmazza a szakértői tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 
-(2) A bányafelügyelet annak engedélyezi hites bányamérői tevékenység folytatását, aki büntetlen előéletű, és megfelel az e törvény felhatalmazása alapján kiadott rendeletben meghatározott egyéb feltételeknek. A bányafelügyelet az engedély kiadásával egyidejűleg nyilvántartásba veszi a szolgáltatót.
+44/B. § (1) Aki hites bányamérői tevékenységet kíván folytatni, köteles az erre irányuló szándékát a bányafelügyeletnek a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelenteni. A bejelentésben meg kell jelölni a bejelentő természetes személyazonosító adatait.
 
-(3) A bányafelügyelet a hites bányamérői tevékenység folytatására engedéllyel rendelkező személyekről nyilvántartást vezet, amely tartalmazza a tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból kizárólag a hites bányamérői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
+(2) Hites bányamérői tevékenységet az folytathat, aki büntetlen előéletű, és megfelel az e törvény felhatalmazása alapján kiadott rendeletben meghatározott egyéb feltételeknek.
 
-44/C. § (1) A nyomástartó berendezést vizsgáló szakember vagy felügyeleti személy, a földtani szakértő, a hites bányamérő és a bányaüzemi felelős műszaki vezető a tevékenységi engedély megszerzése céljából a bányafelügyelet részére
+(3) A hites bányamérői tevékenységet folytató személyekről a bányafelügyelet által vezetett nyilvántartás tartalmazza a tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból kizárólag a hites bányamérői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 
-- a) hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, vagy
-- b) kéri, hogy az arra vonatkozó adatokat, amely szerint büntetlen előéletű, a bűnügyi nyilvántartó szerv a bányafelügyelet részére – annak az engedély kiadásának elbírálása céljából benyújtott adatigénylése alapján – továbbítsa.
-
-(2) Az (1) bekezdésben meghatározott adatigénylés során a bányafelügyelet arra vonatkozóan igényelhet adatot a bűnügyi nyilvántartó szervtől, hogy a tevékenységi engedély iránti kérelmet benyújtó személy büntetlen előéletű.
-
-(3) A bányafelügyelet hatósági ellenőrzés keretében ellenőrzi azt is, hogy a tevékenységi engedéllyel rendelkező személy büntetlen előéletű.
-
-(4) A bányafelügyelet az (1)–(3) bekezdésben meghatározott körülmény igazolása céljából kezeli
-
-- a) a tevékenységi engedély iránti kérelmet benyújtó,
-- b) tevékenységi engedéllyel rendelkező nyomástartó berendezést vizsgáló szakember vagy felügyeleti személy, a földtani szakértő, a hites bányamérő és a bányaüzemi felelős műszaki vezető azon adatait, amelyeket az e célból a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalmaz.
-
-(5) A (4) bekezdésben meghatározott személyes adatokat a bányafelügyelet
-
-- a) a tevékenységi engedély iránti eljárás jogerős befejezéséig,
-- b) a tevékenységi engedély kiadása esetén a hatósági ellenőrzés időtartamára vagy a tevékenységi engedély visszavonására irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
-
-(6) A nyilvántartásba vett személy a nyilvántartott adataiban történt változást köteles a bányafelügyeletnek 8 napon belül bejelenteni.
+#### 44/C. §
 
 ### A mélységi vizek felszínre hozatalának
 
@@ -1620,6 +1611,13 @@ bányahatósági felügyelete
 
 49/D. § A szénjárandóságra jogosult nyugdíjas bányász kérheti szénjárandóságának pénzbeli megváltását.
 
+49/E. § (1) A kormányrendeletben meghatározott bányászati keresetkiegészítés megállapítása és felülvizsgálata iránti elsőfokú eljárásban az ügyintézési határidő negyven nap, ha az eljárásban a kérelmező egészségkárosodásának mértékét és a föld alatti bányamunkára való alkalmatlanságát szakkérdésként vizsgálni kell.
+
+(2) A bányászok – kormányrendeletben meghatározott – egészségkárosodási járadékának megállapítása és felülvizsgálata iránti elsőfokú eljárásban az ügyintézési határidő harmincöt munkanap, ha az eljárásban a kérelmező egészségkárosodásának mértékét szakkérdésként vizsgálni kell. Az ügyintézési határidő tizenhét munkanap
+
+- a) az elsőfokú eljárásban, ha a kérelmező egészségkárosodásának mértékét nem kell megvizsgálni, és
+- b) a másodfokú eljárásban.
+
 ## VII. RÉSZ — HATÁLYBALÉPTETŐ ÉS ÁTMENETI RENDELKEZÉSEK
 
 50. § (1) E törvény a kihirdetését követő 30. napon lép hatályba.
@@ -1670,6 +1668,8 @@ bányahatósági felügyelete
 
 (22) E törvénynek a Módtv2.-vel megállapított 26/A. § (6b) bekezdése szerinti egyéves határidőt a Módtv2. hatálybalépése előtt kijelölt új jogosítottak esetében a Módtv2. hatálybalépésének napját követő naptól kell számítani.
 
+(23) Az egyes energetikai tárgyú törvények módosításáról szóló 2015. évi CXCVI. törvénnyel megállapított 43. § (9c) bekezdése szerinti visszafizetést a Hivatal elsőként 2017. január 1-jét követően alkalmazza.
+
 50/A. § (1) Felhatalmazást kap a Kormány
 
 - 1. a földtani kutatásra és a bejelentés alapján végezhető felszíni előkutatásra,
@@ -1682,7 +1682,7 @@ bányahatósági felügyelete
 - 8. a bányászati és gázipari tevékenység biztonságára és üzemi felügyeletére,
 - 9. a felszíni ingatlantulajdon korlátozására,
 - 10. az intézkedésekre, biztosítékokra, a bírság felső határára, a bírság mértéke megállapításánál mérlegelendő szempontokra,
-- 11. az e törvény szerinti polgári robbantási, polgári felhasználású robbanóanyag forgalmazási, a nyomástartó berendezést vizsgáló szakértői és felügyeleti tevékenységek folytatásának részletes feltételeire, az e tevékenységekre jogosító engedély kiadásának rendjére, az e tevékenységeket végzőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmára, valamint a nyilvántartás vezetésére, továbbá a tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményekre, a robbanóanyag forgalmazására és e tevékenységek hatósági felügyeletére,
+- 11. az e törvény szerinti polgári robbantási, polgári felhasználású robbanóanyag forgalmazási, a nyomástartó berendezést vizsgáló szakértői és felügyeleti tevékenységek folytatásának részletes feltételeire, az e tevékenységekre jogosító eljárás rendjére, az e tevékenységeket végzőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmára, valamint a nyilvántartás vezetésére, továbbá a tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményekre, a robbanóanyag forgalmazására és e tevékenységek hatósági felügyeletére,
 - 12. az ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás módjának meghatározására,
 - 13. az ásványvagyon-gazdálkodás részletes követelményeire,
 - 14. a vízgazdálkodásról szóló törvény rendelkezéseinek figyelembevételével a bányászat befejezését követően fennmaradó vagy keletkező, a felszín alatti vízkészletet érintő tóval kapcsolatos jogokra és kötelezettségekre,
@@ -1690,7 +1690,7 @@ bányahatósági felügyelete
 - 16. a szolgáltatásra köteles földtani adatok körére és az adatszolgáltatás rendjére,
 - 17. a 26/A. § (7) bekezdése szerinti pályázat tartalmi követelményeire,
 - 18. a geotermikus védőidom meghatározására és kijelölésére, valamint a geotermikusenergia-hasznosító létesítmények, a kitermelt és hasznosított geotermikus energia mennyiségének, és a megállapított geotermikus védőidomok nyilvántartására,
-- 19. az ásványi nyersanyag és a geotermikus energia természetes előfordulási területén elvégzendő érzékenységi és terhelhetőségi vizsgálat lefolytatására, valamint a vizsgálatban részt vevő hatóság közreműködésére,
+- 19. az ásványi nyersanyag és a geotermikus energia természetes előfordulási területén elvégzendő érzékenységi és terhelhetőségi vizsgálat lefolytatására, valamint a vizsgálatban részt vevő közigazgatási és egyéb szervek közreműködésére,
 - 20. a bányafelügyelet hatáskörébe tartozó egyes nyomástartó berendezések engedélyezésére, hatósági felügyeletére és a szabálytalan építési tevékenység esetén alkalmazandó bírság mértékére,
 - 21. az energetikai és ipari eredetű szén-dioxid tárolására alkalmas földtani szerkezetek vonatkozásában
   - a) a potenciális tárolóhely felmérésére,
@@ -1727,13 +1727,13 @@ bányahatósági felügyelete
 - g) a bányászok erkölcsi és anyagi megbecsülésére, így különösen a szakmai utánpótlásra, a hagyományőrzésre és az egyéb sajátos juttatásokra vonatkozó rendelkezéseknek, a juttatások körének, jogosultjainak és mértékének, valamint
 - h) a bányászati és gázipari biztonsági szabályzatoknak, ezzel összefüggésben a súlyos üzemzavar körének és az arról szóló jelentéstételi kötelezettségnek,
 - i) az Európai Unió irányelveiben előírt, az ásványi nyersanyagkutatásról, feltárásról és termelésről szóló, valamint az ásványvagyon-gazdálkodással, továbbá a bányászati tevékenység során keletkező hulladékkal kapcsolatos jelentés elkészítésének, az Európai Bizottsághoz történő továbbítás és a közzététel rendjének,
-- j) az e törvény szerinti földtani szakértői tevékenység folytatásának részletes feltételei, az e tevékenységre jogosító engedély kiadásának rendje, a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalma, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályok, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezmények,
+- j) az e törvény szerinti földtani szakértői tevékenység folytatásának részletes feltételei, az e tevékenységre jogosító eljárás rendje, a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalma, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályok, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezmények,
 - k) a bányászati és gázipari biztonságtechnikai és munkabiztonsági vizsgák tematikájára és rendjére vonatkozó szabályok,
-- l) a hites bányamérői tevékenység folytatásának részletes feltételei, az e tevékenységre jogosító engedély kiadásának rendje, a nyilvántartás személyes adatot nem tartalmazó adattartalma, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályok, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezmények,
+- l) a hites bányamérői tevékenység folytatásának részletes feltételei, az e tevékenységre jogosító eljárás rendje, a nyilvántartás személyes adatot nem tartalmazó adattartalma, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályok, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezmények,
 - m) a bányászati hulladékok kezelésére vonatkozó részletes szabályok,
 - n) a szén-dioxid-szállítóvezetékek biztonsági követelményeit és a szén-dioxid szállítóvezetékek biztonsági szabályzatára vonatkozó rendelkezések,
 - o) a koncessziós pályázat kiírásával, elbírálásával, lebonyolításával, és a koncessziós pályázaton való részvétel díjával kapcsolatos eljárási és a minősítő bizottság működésére vonatkozó részletes szabályok
-- p) a bányaüzemi felelős műszaki vezetői tevékenység folytatásának részletes feltételei, az e tevékenységre jogosító engedély kiadásának rendje, a nyilvántartás személyes adatot nem tartalmazó adattartalma, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályok, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezmények
+- p) a bányaüzemi felelős műszaki vezetői tevékenység folytatásának részletes feltételei, az e tevékenységre jogosító eljárás rendje, a nyilvántartás személyes adatot nem tartalmazó adattartalma, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályok, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezmények
 
 rendeletben történő megállapítására.
 

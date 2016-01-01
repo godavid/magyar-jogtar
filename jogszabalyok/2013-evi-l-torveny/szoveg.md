@@ -45,7 +45,7 @@ A nemzet érdekében kiemelten fontos – napjaink információs társadalmát �
 - 31. kockázatokkal arányos védelem: az elektronikus információs rendszer olyan védelme, amelynek során a védelem költségei arányosak a fenyegetések által okozható károk értékével;
 - 32. korai figyelmeztetés: valamely fenyegetés várható bekövetkezésének jelzése a fenyegetés bekövetkezése előtt annyi idővel, hogy hatékony védelmi intézkedéseket lehessen hozni;
 - 32a. kritikus adat: az Infotv. szerinti személyes adat, különleges adat vagy valamely jogszabállyal védett adat;
-- 33. létfontosságú információs rendszerelem: az európai létfontosságú rendszerelemmé és a nemzeti létfontosságú rendszerelemmé törvény alapján kijelölt létfontosságú rendszerelemek azon elektronikus információs létesítményei, eszközei vagy szolgáltatásai, amelyek működésképtelenné válása vagy megsemmisülése az európai létfontosságú rendszerelemmé és a nemzeti létfontosságú rendszerelemmé törvény alapján kijelölt létfontosságú rendszerelemeket vagy azok részeit elérhetetlenné tenné, vagy működőképességüket jelentősen csökkentené;
+- 33. létfontosságú információs rendszerelem: az európai vagy nemzeti létfontosságú rendszerelemmé a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény alapján kijelölt létfontosságú rendszerelemek azon elektronikus információs létesítményei, eszközei vagy szolgáltatásai, amelyek működésképtelenné válása vagy megsemmisülése az európai vagy nemzeti létfontosságú rendszerelemmé kijelölt rendszerelemeket vagy azok részeit elérhetetlenné tenné, vagy működőképességüket jelentősen csökkentené;
 - 34. logikai védelem: az elektronikus információs rendszerben információtechnológiai eszközökkel és eljárásokkal (programokkal, protokollokkal) kialakított védelem;
 - 35. magyar kibertér: a globális kibertér elektronikus információs rendszereinek azon része, amelyek Magyarországon találhatóak, valamint a globális kibertér elektronikus rendszerein keresztül adatok és információk formájában megjelenő társadalmi és gazdasági folyamatok közül azok, amelyek Magyarországon történnek vagy Magyarországra irányulnak, illetve Magyarország érintett benne;
 - 36. megelőzés: a fenyegetés hatása bekövetkezésének elkerülése;
@@ -88,7 +88,7 @@ A nemzet érdekében kiemelten fontos – napjaink információs társadalmát �
 
 - a) az (1) bekezdésben meghatározott szervek és ezen szervek számára adatkezelést végzők,
 - b) a jogszabályban meghatározott, a nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozói,
-- c) az európai létfontosságú rendszerelemmé és a nemzeti létfontosságú rendszerelemmé törvény alapján kijelölt rendszerelemek elektronikus információs rendszereinek védelmére.
+- c) az európai vagy nemzeti létfontosságú rendszerelemmé a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény alapján kijelölt rendszerelemek elektronikus információs rendszereinek védelmére.
 
 (3) A Kormány rendeletében meghatározott egyes zárt célú elektronikus információs rendszerek esetében, az e törvény szerinti hatósági feladatokat, a biztonsági felügyeletet a Kormány által kijelölt szerv kormányrendeletben meghatározottak szerint látja el.
 
@@ -96,7 +96,7 @@ A nemzet érdekében kiemelten fontos – napjaink információs társadalmát �
 
 (5) A honvédelmi célú elektronikus információs rendszerek esetében, az e törvény szerinti hatósági feladatokat, a biztonsági felügyeletet a honvédelmi ágazaton belül működő, a Kormány által kijelölt szerv kormányrendeletben meghatározottak szerint látja el.
 
-(6) Az európai vagy nemzeti létfontosságú létesítménnyé, rendszerré törvény alapján kijelölt létesítmények, rendszerek elektronikus információs rendszerei esetében az e törvény szerinti hatósági feladatokat, a biztonsági felügyeletet a katasztrófavédelem szervezetrendszerén belül működő, a Kormány által kijelölt szerv kormányrendeletben meghatározottak szerint látja el.
+(6) Az (1) bekezdés szerinti állami és önkormányzati szervek kivételével, az európai vagy nemzeti létfontosságú rendszerelemmé a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény alapján kijelölt rendszerelemek elektronikus információs rendszerei esetében az e törvény szerinti hatósági feladatokat, a biztonsági felügyeletet a hivatásos katasztrófavédelem szervezetrendszerén belül működő, a Kormány által kijelölt szerv kormányrendeletben meghatározottak szerint látja el.
 
 (7) E törvény rendelkezéseit
 
@@ -143,7 +143,9 @@ zárt, teljes körű, folytonos és kockázatokkal arányos védelmét.
 
 (4) Az elektronikus információs rendszer bizalmasság, sértetlenség és rendelkezésre állás szerinti biztonsági osztálya alapján kell megvalósítani az 5. és 6. §-ban előírt védelmi intézkedéseket az adott elektronikus információs rendszerre vonatkozóan.
 
-(5) A szervezet vezetője az e törvényben meghatározott feltételeknek megfelelő, az elektronikus információs rendszerre irányadó biztonsági osztálynál magasabb, kivételes esetben indoklással ellátva alacsonyabb biztonsági osztályt is megállapíthat az elektronikus információs rendszerre vonatkozóan.
+(5) A szervezet vezetője az e törvényben meghatározott feltételeknek megfelelő, az elektronikus információs rendszerre irányadó biztonsági osztálynál magasabb, kivételes esetben a hatóság előzetes engedélyével, kockázatokra kiterjedő indoklással ellátva alacsonyabb biztonsági osztályt is megállapíthat az elektronikus információs rendszerre vonatkozóan.
+
+(6) Az európai vagy nemzeti létfontosságú rendszerelemmé a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény alapján kijelölt rendszerelemek elektronikus információs rendszerei tekintetében az e törvényben meghatározott feltételeknek megfelelő, az elektronikus információs rendszerre irányadó biztonsági osztálynál magasabb, a hatóság előzetes engedélyével, kockázatokra kiterjedő indoklással ellátva alacsonyabb biztonsági osztály is megállapítható.
 
 8. § (1) A biztonsági osztályba sorolást legalább háromévenként vagy szükség esetén soron kívül, dokumentált módon felül kell vizsgálni.
 
@@ -177,6 +179,8 @@ szervezeti egységeket az elektronikus információs rendszerek védelmére val�
 (4) A szervezet vagy szervezeti egységek biztonsági szintjének meghatározását az elektronikus információs rendszer felhasználásának módja határozza meg, jogszabályban meghatározott szempontok szerint.
 
 (5) A szervezet vagy szervezeti egység az e törvényben meghatározott feltételeknek megfelelő, az adott szervezetre irányadó besorolási szintnél magasabb szintű besorolást is megállapíthat.
+
+(6) Az európai vagy nemzeti létfontosságú rendszerelemmé a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény alapján kijelölt rendszerelemek szervezetei tekintetében az e törvényben meghatározott feltételeknek megfelelő, az adott szervezetre irányadó besorolási szintnél magasabb, a hatóság előzetes engedélyével, kockázatokra kiterjedő indoklással ellátva alacsonyabb szintű besorolás is megállapítható.
 
 10. § (1) A szervezet vagy szervezeti egység jogszabályban meghatározott szempontok alapján meghatározza, hogy a vizsgálat elvégzésekor melyik biztonsági szintnek felel meg.
 
@@ -284,7 +288,9 @@ a hatóság részére.
 - j) kapcsolattartás a 19. § (1)–(4) bekezdésében meghatározott eseménykezelő központokkal,
 - k)–n)
 
-(3)
+(3) A hatóság eljárásainak általános ügyintézési határideje – a (3a) bekezdésben meghatározott kivétellel – 30 nap.
+
+(3a) A hatóság által lefolytatott hatósági eljárás ügyintézési határideje a logikai védelmi kötelezettség teljesítésére irányuló vizsgálat esetén százhúsz nap.
 
 (4) A (2) bekezdés a) és b) pontjában foglalt feladatok ellátása körében a hatóság javaslatára az e-közigazgatásért felelős miniszter az informatikáért felelős miniszter egyetértésével, valamint a minősített adatok védelmének szakmai felügyeletéért felelős miniszter és a katasztrófák elleni védekezésért felelős miniszter javaslatainak figyelembevételével éves ellenőrzési tervet (a továbbiakban: éves ellenőrzési terv) készít.
 
@@ -359,27 +365,27 @@ amely a rendszert működtető szervezet működéséhez szükséges alapvető i
 (3) A sérülékenységvizsgálatot, illetve a biztonsági esemény vizsgálatát – az (5) bekezdésben foglalt szervek és elektronikus információs rendszerek kivételével –
 
 - a) a Kormány rendeletében meghatározott állami szerv, vagy
-- b) telephely biztonsági tanúsítvánnyal, továbbá a feladat ellátásához szükséges – jogszabályban meghatározott – szakértelemmel és infrastrukturális feltételekkel rendelkező gazdasági társaság
+- b) telephely biztonsági tanúsítvánnyal, továbbá a feladat ellátásához szükséges – jogszabályban meghatározott – szakértelemmel és infrastrukturális feltételekkel rendelkező gazdálkodó szervezet
 
 végezhet.
 
-(4) A (3) bekezdés b) pontja szerinti gazdasági társaság nevében és alkalmazásában kizárólag olyan személy végezheti a vizsgálatot, akinek a nemzetbiztonsági ellenőrzését elvégezték és a nemzetbiztonsági ellenőrzés során nemzetbiztonsági kockázatot nem állapítottak meg.
+(4) A (3) bekezdés b) pontja szerinti gazdálkodó szervezet nevében és alkalmazásában kizárólag olyan személy végezheti a vizsgálatot, akinek a nemzetbiztonsági ellenőrzését elvégezték és a nemzetbiztonsági ellenőrzés során nemzetbiztonsági kockázatot nem állapítottak meg.
 
 (5) A sérülékenységvizsgálatot, illetve a biztonsági esemény vizsgálatát
 
 - a) a zárt célú elektronikus információs rendszerek,
-- b) a 2. § (1) bekezdése szerinti állami és önkormányzati szervek európai létfontosságú rendszerelemmé és a nemzeti létfontosságú rendszerelemmé törvény alapján kijelölt rendszerelemei elektronikus információs rendszerei, valamint
-- c) a nemzetbiztonsági védelem alá eső szervek
+- b) a 2. § (1) bekezdése szerinti állami és önkormányzati szervek európai vagy nemzeti létfontosságú rendszerelemmé a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény alapján kijelölt rendszerelemei elektronikus információs rendszerei, valamint
+- c) a 2. § (1) bekezdése szerinti, nemzetbiztonsági védelem alá eső állami és önkormányzati szervek
 
 vonatkozásában – a (8) bekezdésben foglaltak kivételével – a Kormány rendeletében meghatározott állami szerv végzi el.
 
-(6) Az (1) bekezdés szerinti vizsgálatok eredményét a vizsgálatot végző szerv vagy gazdasági társaság a hatóság és az érintett szervezet részére a vizsgálatok befejezését követően haladéktalanul megküldi.
+(6) Az (1) bekezdés szerinti vizsgálatok eredményét a vizsgálatot végző szerv vagy gazdálkodó szervezet a hatóság és az érintett szervezet részére a vizsgálatok befejezését követően haladéktalanul megküldi.
 
 (7) Az érintett szervezet a feltárt hiányosságokról, a sérülékenységek megszüntetésére vonatkozó intézkedési tervről a vizsgálatok lezárását követően tájékoztatja az érintett hatóságot.
 
 (8) A 19. § (3) bekezdése szerinti eseménykezelő központ a honvédelmi célú elektronikus információs rendszerek vonatkozásában, a 19. § (4) bekezdése szerinti eseménykezelő központ a polgári hírszerző tevékenységet végző nemzetbiztonsági szolgálat elektronikus információs rendszerei vonatkozásában elvégzi a sérülékenységvizsgálatot, illetve a biztonsági esemény vizsgálatát.
 
-(9) A sérülékenységvizsgálatot, illetve a biztonsági esemény vizsgálatát az (5) bekezdés szerinti állami szerv végzi el, ha az (5) bekezdés b) pontja szerinti elektronikus információs rendszereken kívüli, európai létfontosságú rendszerelemmé és a nemzeti létfontosságú rendszerelemmé törvény alapján kijelölt rendszerelemek elektronikus információs rendszerei tekintetében nincs a sérülékenységvizsgálat, illetve a biztonságiesemény-vizsgálat elvégzésére a jogszabályban meghatározott feltételeknek megfelelő gazdasági társaság.
+(9) A sérülékenységvizsgálatot, illetve a biztonsági esemény vizsgálatát az (5) bekezdés szerinti állami szerv végzi el, ha az (5) bekezdés b) pontja szerinti elektronikus információs rendszereken kívüli, európai vagy nemzeti létfontosságú rendszerelemmé a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény alapján kijelölt rendszerelemek elektronikus információs rendszerei tekintetében nincs a sérülékenységvizsgálat, illetve a biztonságiesemény-vizsgálat elvégzésére a jogszabályban meghatározott feltételeknek megfelelő gazdálkodó szervezet.
 
 #### 10. A kormányzati eseménykezelő központ
 
@@ -435,9 +441,9 @@ vonatkozásában – a (8) bekezdésben foglaltak kivételével – a Kormány r
 
 #### 12. Adatvédelmi rendelkezések
 
-22. § (1) A hatóság, a 2. § (3)–(6) bekezdése szerinti szerv, a 18. § (3) bekezdése szerinti szerv vagy gazdasági társaság, a 18. § (5) bekezdése szerinti szerv, valamint a 19. § (1)–(4) bekezdése szerinti eseménykezelő központ munkatársai az e törvényben meghatározott, az elektronikus információs rendszerek védelmével összefüggő feladataik ellátása során megismert minősített adatot, személyes adatot vagy különleges adatot, üzleti titkot, banktitkot, fizetési titkot, biztosítási titkot, értékpapírtitkot, pénztártitkot, orvosi titkot és más hivatás gyakorlásához kötött titkot kizárólag a feladat ellátásának időtartama alatt, a célhoz kötöttség elvének figyelembevételével jogosultak kezelni. A feladatellátás befejezését követően a feladatellátáshoz kapcsolódóan rögzített adatokat kötelesek az elektronikus információs rendszereikből és adathordozóikról törölni.
+22. § (1) A hatóság, a 2. § (3)–(6) bekezdése szerinti szerv, a 18. § (3) bekezdése szerinti szerv vagy gazdálkodó szervezet, a 18. § (5) bekezdése szerinti szerv, valamint a 19. § (1)–(4) bekezdése szerinti eseménykezelő központ munkatársai az e törvényben meghatározott, az elektronikus információs rendszerek védelmével összefüggő feladataik ellátása során megismert minősített adatot, személyes adatot vagy különleges adatot, üzleti titkot, banktitkot, fizetési titkot, biztosítási titkot, értékpapírtitkot, pénztártitkot, orvosi titkot és más hivatás gyakorlásához kötött titkot kizárólag a feladat ellátásának időtartama alatt, a célhoz kötöttség elvének figyelembevételével jogosultak kezelni. A feladatellátás befejezését követően a feladatellátáshoz kapcsolódóan rögzített adatokat kötelesek az elektronikus információs rendszereikből és adathordozóikról törölni.
 
-(2) A hatóság, a 2. § (3)–(6) bekezdése szerinti szerv, a 18. § (3) bekezdése szerinti szerv vagy gazdasági társaság, a 18. § (5) bekezdése szerinti szerv, valamint a 19. § (1)–(4) bekezdése szerinti eseménykezelő központ munkatársait az (1) bekezdés szerint megismert adatok tekintetében írásba foglalt titoktartási kötelezettség terheli, amely a foglalkoztatásra irányuló jogviszony megszűnését követő 5 évig fennmarad.
+(2) A hatóság, a 2. § (3)–(6) bekezdése szerinti szerv, a 18. § (3) bekezdése szerinti szerv vagy gazdálkodó szervezet, a 18. § (5) bekezdése szerinti szerv, valamint a 19. § (1)–(4) bekezdése szerinti eseménykezelő központ munkatársait az (1) bekezdés szerint megismert adatok tekintetében írásba foglalt titoktartási kötelezettség terheli, amely a foglalkoztatásra irányuló jogviszony megszűnését követő 5 évig fennmarad.
 
 (3) A hatóság eljárása során keletkezett adatok nem nyilvánosak.
 
@@ -474,7 +480,7 @@ vonatkozásában – a (8) bekezdésben foglaltak kivételével – a Kormány r
 - g) a jogszabály által kijelölt központosított informatikai és elektronikus hírközlési szolgáltató e törvény alapján ellátandó feladataira vonatkozó részletes szabályokat,
 - h) a 2. § (3) bekezdése szerinti elektronikus információs rendszereket, valamint e rendszerek tekintetében a hatósági feladatokat ellátó szerveket és a feladatellátás részletes szabályait,
 - i) a 2. § (4)–(6) bekezdése szerinti hatóságot és a feladatellátás részletes szabályait,
-- j) a sérülékenységvizsgálatra, biztonsági esemény kivizsgálására feljogosított állami szerveket, a 18. § (3) bekezdés b) pontja szerinti gazdasági társasággal szemben támasztott szakmai követelményeket, a sérülékenységvizsgálatra, biztonsági esemény kivizsgálására vonatkozó eljárási szabályokat, és
+- j) a sérülékenységvizsgálatra, biztonsági esemény kivizsgálására feljogosított állami szerveket, a 18. § (3) bekezdés b) pontja szerinti gazdálkodó szervezettel szemben támasztott szakmai követelményeket, a sérülékenységvizsgálatra, biztonsági esemény kivizsgálására vonatkozó eljárási szabályokat, és
 - k) a 19. § (2)–(4) bekezdése szerinti eseménykezelő központot, feladat- és hatáskörét.
 
 (1a) Felhatalmazást kap a Kormány, hogy rendeletben kijelölje a hatóságot.
@@ -483,7 +489,7 @@ vonatkozásában – a (8) bekezdésben foglaltak kivételével – a Kormány r
 
 - a) az e-közigazgatásért felelős miniszter, hogy az informatikáért felelős miniszterrel és a minősített adatok védelmének szakmai felügyeletéért felelős miniszterrel egyetértésben meghatározza az 5. § és 6. §-ban előírt technológiai biztonsági, valamint a biztonságos információs eszközökre, termékekre vonatkozó követelményeket, továbbá a 7–8. § szerinti biztonsági osztályba sorolás és a szervezetek 9–10. § szerinti biztonsági szintbe sorolásának követelményeit,
 - b) a közigazgatás-fejlesztésért felelős miniszter, hogy az e-közigazgatásért felelős miniszterrel egyetértésben az e törvényben meghatározott vezetői, az elektronikus információs rendszer biztonságáért felelős személyek képzésének és továbbképzésének tartalmát,
-- c) az e-közigazgatásért felelős miniszter, hogy a szervezetek hatósági nyilvántartásba vételének, a biztonsági események jelentésének és közzétételének rendjét rendeletben határozza meg.
+- c) az e-közigazgatásért felelős miniszter, hogy a szervezetek hatósági nyilvántartásba vételének rendjét rendeletben határozza meg.
 
 (3)
 

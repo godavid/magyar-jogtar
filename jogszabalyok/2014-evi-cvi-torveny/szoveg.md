@@ -20,7 +20,7 @@ a kulturális örökség védelméről szóló 2001. évi LXIV. törvény és az
 
 81. § (1)
 
-(2)
+(2) Hatályát veszti a Kötv. 92. § (3)–(4) bekezdése.
 
 #### 5. Az egyes kulturális tárgyú törvények módosításáról szóló 2013. évi CCXVII. törvény módosítása
 

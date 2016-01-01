@@ -8,18 +8,18 @@ A társadalmi közös kiadások fedezete, valamint a biztosításokkal összefü
 
 1. § E törvény alkalmazásában:
 
-- 1. biztosító: a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény (a továbbiakban: Bit.) szerinti biztosító;
+- 1. biztosító: a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény (a továbbiakban: Bit.) szerinti biztosító;
 - 2. biztosítási szolgáltatás: a casco biztosítás, a vagyon- és balesetbiztosítás nyújtása;
 - 3. kötelező gépjármű-felelősségbiztosítás: a kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény (Kgfb. tv.) szerinti biztosítás;
-- 4. casco biztosítás: a Bit. 1. számú melléklete A) részének 3–6. pontja szerinti biztosítási ágazatok;
-- 5. betegségbiztosítás: a Bit. 1. számú melléklete A) részének 2. pontja szerinti biztosítási ágazat;
-- 6. vagyon- és balesetbiztosítás: a Bit. 1. számú melléklete A) része szerinti biztosítási ágazatok, ideértve az életbiztosításhoz kapcsolódó kiegészítő balesetbiztosítást, de ide nem értve ezen § 3–5. pontjában említett biztosításokat;
+- 4. casco biztosítás: a Bit. 1. melléklete A) részének 3–6. pontja szerinti biztosítási ágazatok;
+- 5. betegségbiztosítás: a Bit. 1. melléklete A) részének 2. pontja szerinti biztosítási ágazat;
+- 6. vagyon- és balesetbiztosítás: a Bit. 1. melléklete A) része szerinti biztosítási ágazatok, ideértve az életbiztosításhoz kapcsolódó kiegészítő balesetbiztosítást, de ide nem értve ezen § 3–5. pontjában említett biztosításokat;
 - 7. biztosítási díj: a biztosító által a biztosítási szolgáltatások körébe tartozó biztosítások után a számviteli jogszabályok alapján elszámolt bruttó díj, ide értve a számviteli jogszabályok alapján nem bruttó díjként elszámolt, de a biztosítási szolgáltatás fedezeteként a biztosítási szolgáltatás ellenértékének minősülő értéket, de ide nem értve a mezőgazdasági biztosítás bruttó díját, valamint a más biztosító társaságtól viszontbiztosításba vett biztosítások állományából kapott – bruttó díjbevételként elszámolt – díjbevételt. Amennyiben a biztosító egy biztosítási jogviszony keretében több, 2. pont szerinti biztosítási szolgáltatást nyújt vagy a 2. pont szerinti biztosítási szolgáltatást és más biztosítási szolgáltatást együttesen nyújt, akkor a biztosítási díj a 2. pont szerinti biztosítási szolgáltatásonként elkülönítetten megállapított díj;
 - 8. mezőgazdasági biztosítás: a mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló törvény szerinti mezőgazdasági biztosítás.
 
 ### Adókötelezettség, adóalany
 
-2. § Adóköteles a biztosítási szolgáltatás nyújtása, ha a kockázat felmerülésének helye a Bit. 3. § (1) bekezdés 36. pont b) alpontja alapján Magyarország.
+2. § Adóköteles a biztosítási szolgáltatás nyújtása, ha a kockázat felmerülésének helye a Bit. 4. § (1) bekezdés 62. pont b) alpontja alapján Magyarország.
 
 3. § Az adó alanya a biztosító. Adóalany az Európai Gazdasági Térség tagállamában székhellyel rendelkező vagy a Bit. szerinti harmadik országbeli biztosító magyarországi fióktelepe, továbbá a határon átnyúló biztosítási szolgáltatást nyújtó is a 2. § szerinti tevékenysége tekintetében.
 

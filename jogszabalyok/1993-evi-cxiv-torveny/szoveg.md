@@ -278,7 +278,7 @@ Az Országgyűlés annak érdekében, hogy a gazdasági célú állattenyészté
 - e) a tenyészállatokat egyedenként, a 8. §-ban foglaltak szerint tartósan úgy jelölik meg, vagy a kisállatfajok meghatározott körénél úgy írják le, hogy azonosságuk megállapítható;
 - f) a törzskönyvet vagy tenyésztési főkönyvet a tenyésztési program előírásainak megfelelően vezetik.
 
-(3) A tenyésztő szervezet elismerésére irányuló eljárás során az ügyintézési határidő 6 hónap, amely egy alkalommal 6 hónappal meghosszabbítható.
+(3) A tenyésztő szervezet elismerésére irányuló eljárás során az ügyintézési határidő 4 hónap.
 
 21. § (1) Az elismerés a tenyésztési célra, a tenyésztési programra, valamint a szakmai és térbeni tevékenységi területre, a törzskönyvi, illetve a tenyésztési főkönyvi szabályzatra, fajtafenntartásra vonatkozik és ezek végrehajtására jogosít.
 

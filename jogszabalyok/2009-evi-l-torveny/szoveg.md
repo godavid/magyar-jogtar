@@ -388,6 +388,11 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 (4) A közjegyző a felhívást azzal a figyelmeztetéssel látja el, hogy az abban foglaltak elmulasztása esetében a bíróság a pert megszünteti. Ha a jogosult a kérelemben a Pp. 167. §-ának (3) bekezdése alkalmazásával jelölt meg tanút, az ellentmondásról szóló értesítés kézbesítésével egyidejűleg a közjegyző arra is felhívja a jogosultat, hogy a tanú nevét és idézhető címét – amennyiben az szükséges, egyéb személyi adatait – az ott meghatározott módon a bíróságnak jelentse be. A bírósághoz intézett beadványban a fizetési meghagyásos eljárásban kapott ügyszámra hivatkozni kell.
 
+(4a) A közjegyző a felhívást azzal a figyelmeztetéssel is ellátja, hogy ha a jogosult a Pp. alapján elektronikus kapcsolattartásra köteles vagy a Pp. alapján az elektronikus kapcsolattartást választja, az ügyre vonatkozó részletes tényállításait, bizonyítékait, és minden további beadványát és okirati bizonyítékát kizárólag elektronikus úton nyújthatja be, továbbá az illetéket elektronikusan vagy a Magyar Államkincstár illeték-bevételi számlájára köteles megfizetni. A közjegyző a felhívásban tájékoztatja a jogosultat, hogy ha a kapcsolattartás a részéről a peres eljárásban elektronikusan történik, és
+
+- a) az ügyre vonatkozó részletes tényállításait és bizonyítékait nem elektronikus úton terjeszti elő, a bíróság a pert megszünteti,
+- b) az egyéb beadványait nem elektronikus úton terjeszti elő, az egyéb beadványban foglalt nyilatkozat hatálytalan és úgy kell tekinteni, hogy nyilatkozatot egyáltalán nem tesz.
+
 (5) Ha a 30. § alkalmazásának helye van, az ott meghatározott felhívást az ellentmondásról szóló értesítéssel és a (3) bekezdés szerinti felhívással egyidejűleg kell kézbesíteni a jogosultnak; egyúttal figyelmeztetni kell a jogosultat, hogy a (3) bekezdésben meghatározott felhívásnak csak akkor tegyen eleget, ha a kötelezett állítását vitatja.
 
 38. § (1) A közjegyző az ellentmondásról szóló értesítésnek a jogosult részére történő kézbesítését követően a fizetési meghagyásos eljárás MOKK rendszerében rögzített iratainak, a MOKK rendszerén keresztül kinyomtatott példányát (a továbbiakban: aktanyomat) megküldi a fizetési meghagyás iránti kérelemben a jogosult által megjelölt bíróságnak.
@@ -645,6 +650,10 @@ rendeletben állapítsa meg.
 (9) E törvénynek a bírósági végrehajtással kapcsolatos és egyéb, igazságügyi tárgyú törvények módosításáról szóló 2011. évi CLXXX. törvénnyel megállapított rendelkezéseit a 2012. március 14-ét követően előterjesztett fizetési meghagyás kibocsátása, végrehajtás elrendelése vagy biztosítási intézkedés elrendelése iránti kérelem alapján indult eljárásokban kell alkalmazni.
 
 (10) E törvénynek az egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2013. évi CCLII. törvénnyel megállapított rendelkezéseit a 2014. március 15. napját követően indult ügyekben kell alkalmazni.
+
+(11) E törvénynek a polgári perrendtartásról szóló 1952. évi III. törvény, valamint egyéb eljárásjogi és igazságügyi törvények módosításáról szóló 2015. évi CLXXX. törvénnyel megállapított 37. § (4a) bekezdését a 2016. január 1. napján és az azt követően indult ügyekben kell alkalmazni.
+
+(12) E törvénynek a polgári perrendtartásról szóló 1952. évi III. törvény, valamint egyéb eljárásjogi és igazságügyi törvények módosításáról szóló 2015. évi CLXXX. törvénnyel megállapított 37. § (4a) bekezdését 2016. június 30. napjáig akkor kell alkalmazni, ha a jogosult vagy képviselője az elektronikus kapcsolattartást választja. 2016. július 1-jétől ugyanezen bekezdésnek a kötelező elektronikus kapcsolattartásra vonatkozó rendelkezését a 2016. július 1. napján és az azt követően indult ügyekben kell alkalmazni.
 
 ### Módosuló jogszabályok
 

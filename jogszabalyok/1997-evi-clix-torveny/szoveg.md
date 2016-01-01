@@ -32,7 +32,7 @@ Az Országgyűlés az állam működése, illetőleg a lakosság ellátása szem
 
 jelleggel.
 
-(6) Fegyveres biztonsági őrség létrehozható és működtethető a Magyar Honvédség, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, az idegenrendészeti hatóság, illetve a menekültügyi hatóság szervezetében (a továbbiakban: fegyveres biztonsági őrséget működtető szervezet) is olyan – az adott szerv tevékenységi körébe tartozó – objektum-, illetve személyőrzési vagy kísérési feladatok ellátására, amelyekhez az e törvényben meghatározott képesítési követelmények, intézkedési és kényszerítőeszköz-használati jogosultságok elegendők.
+(6) Fegyveres biztonsági őrség létrehozható és működtethető a Magyar Honvédség, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, az idegenrendészeti hatóság, illetve a menekültügyi hatóság szervezetében (a továbbiakban: fegyveres biztonsági őrséget működtető szervezet) is olyan – az adott szerv tevékenységi körébe tartozó – objektum-, illetve személyőrzési vagy kísérési feladatok ellátására, amelyekhez az e törvényben, valamint a végrehajtására kiadott rendeletben meghatározott képesítési követelmények, intézkedési és kényszerítőeszköz-használati jogosultságok elegendők.
 
 1/A. § (1) Fegyveres biztonsági őrség létrehozására
 
@@ -83,7 +83,7 @@ nem tesz eleget, a fegyveres biztonsági őrzést – a kötelezett vagy a fegyv
 5. § (1) A kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet a szervezetében létrehozott fegyveres biztonsági őrség esetén:
 
 - a) beszerzi, kiadja, nyilvántartja és bevonja a szolgálati fegyverzetet, a lőszert és egyéb felszerelést, a ruházatot;
-- b) gondoskodik a fegyveres biztonsági őrök elméleti képzéséről, továbbképzéséről, valamint az atomenergia alkalmazása körében elrendelt fegyveres biztonsági őrök esetében a fizikai állóképességre vonatkozó követelmények jogszabályban meghatározott módon történő biztosításáról.
+- b) gondoskodik a fegyveres biztonsági őrök elméleti és gyakorlati képzéséről, továbbképzéséről, valamint az atomenergia alkalmazása körében elrendelt fegyveres biztonsági őrök esetében a fizikai állóképességre vonatkozó követelmények jogszabályban meghatározott módon történő biztosításáról.
 
 (2) A kötelezett, illetve a fegyveres biztonsági őrséget működtető szervezet vezetője
 
@@ -131,7 +131,7 @@ nem tesz eleget, a fegyveres biztonsági őrzést – a kötelezett vagy a fegyv
 7. § (1) A fegyveres biztonsági őrrel akkor létesíthető jogviszony, ha
 
 - a) megfelel az e törvényben meghatározott feltételeknek, és
-- b) a rendőrség, valamint a kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet képviselőiből álló bizottság előtt e törvény, a végrehajtására kiadott jogszabályok és a szolgálati helye őrszolgálati okmányainak ismeretéből, a lőfegyver használatához szükséges szakismeretből és gyakorlati jártasságból eredményes vizsgát tett, valamint – a nukleáris és más radioaktív anyag, nukleáris létesítmény őrzését ellátó fegyveres biztonsági őrök esetében – teljesíti a jogszabályban meghatározott fizikai állóképességi és szakképesítésre vonatkozó követelményeket.
+- b) rendelkezik az Országos Képzési Jegyzékben a fegyveres biztonsági őrök számára meghatározott szakképesítéssel vagy a rendőrség, valamint a kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet képviselőiből álló bizottság előtt e törvény, a végrehajtására kiadott jogszabályok és a szolgálati helye őrszolgálati okmányainak ismeretéből, a lőfegyver használatához szükséges szakismeretből és gyakorlati jártasságból eredményes vizsgát tett, valamint – a nukleáris és más radioaktív anyag, nukleáris létesítmény őrzését ellátó fegyveres biztonsági őrök esetében – teljesíti a jogszabályban meghatározott fizikai állóképességi és szakképesítésre vonatkozó követelményeket.
 
 (1a) A honvédelemért felelős miniszter által létrehozott fegyveres biztonsági őrségben – a KNBSZ létesítményei vonatkozásában létrehozott fegyveres biztonsági őrség kivételével – fegyveres biztonsági őr jogviszony létesíthető azzal is, aki
 
@@ -150,7 +150,7 @@ nem tesz eleget, a fegyveres biztonsági őrzést – a kötelezett vagy a fegyv
 - a) visszavonja, ha
   - aa) a fegyveres biztonsági őr foglalkoztatási jogviszonya megszűnt,
   - ab) a hatósági szolgálati igazolvány kiadásának feltételei megszűntek,
-  - ac) – a nukleáris és más radioaktív anyag, nukleáris létesítmény őrzését ellátó fegyveres biztonsági őrök esetében – a fegyveres biztonsági őr nem teljesíti a fizikai állóképességi követelményeket, vagy
+  - ac) a fegyveres biztonsági őr a továbbképzési kötelezettségének nem tesz eleget, valamint a nukleáris és más radioaktív anyag, nukleáris létesítmény őrzését ellátó fegyveres biztonsági őr nem teljesíti a fizikai állóképességi követelményeket, vagy
   - ad) a hatósági szolgálati igazolványban szereplő adatok megváltoztak;
 - b) bevonja, ha a fegyveres biztonsági őrt a szolgálatellátás alól ideiglenesen felfüggesztették.
 
@@ -199,7 +199,7 @@ nem tesz eleget, a fegyveres biztonsági őrzést – a kötelezett vagy a fegyv
 
 (3) A fegyveres biztonsági őrség lőfegyvere és lőszere csak szolgálati és képzési tevékenységhez használható.
 
-9/A. § (1) A fegyveres biztonsági őr elektronikus megfigyelőrendszer működtetése (a továbbiakban: elektronikus megfigyelőrendszer) útján kép-, hang-, valamint kép- és hangfelvételt a fegyveres biztonsági őrzésből adódó kötelezettségei teljesítése, így a létesítmény telephelyének védelme, a radioaktív és veszélyes anyagok őrzése, a rendkívüli események megelőzése, következményeinek elhárítása, kivizsgálásának segítése, a jogsértések észlelése, az elkövető tettenérése, valamint a jogsértő cselekmények megelőzése céljából, a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény (a továbbiakban: Avtv.) szerinti adatvédelmi jogok érvényesítése mellett készíthet, illetve kezelhet. E tevékenysége során a fegyveres biztonsági őr adatkezelőnek minősül.
+9/A. § (1) A fegyveres biztonsági őr elektronikus megfigyelőrendszer működtetése (a továbbiakban: elektronikus megfigyelőrendszer) útján kép-, hang-, valamint kép- és hangfelvételt a fegyveres biztonsági őrzésből adódó kötelezettségei teljesítése, így a létesítmény telephelyének védelme, a radioaktív és veszélyes anyagok őrzése, a rendkívüli események megelőzése, következményeinek elhárítása, kivizsgálásának segítése, a jogsértések észlelése, az elkövető tettenérése, valamint a jogsértő cselekmények megelőzése céljából, az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény (a továbbiakban: Info tv.) szerinti adatvédelmi jogok érvényesítése mellett készíthet, illetve kezelhet. E tevékenysége során a fegyveres biztonsági őr adatkezelőnek minősül.
 
 (2) A fegyveres biztonsági őr elektronikus megfigyelőrendszert a védett létesítmény területe és annak környezete megfigyelésére alkalmazhat.
 
@@ -225,7 +225,7 @@ nem tesz eleget, a fegyveres biztonsági őrzést – a kötelezett vagy a fegyv
 
 - a) a területre bevinni tilos tárgyakról, azok jellegéről;
 - b) arról a tényről, hogy az adott területen elektronikus megfigyelőrendszert alkalmaznak;
-- c) az elektronikus megfigyelőrendszer által folytatott megfigyelés, valamint a rendszer által rögzített, személyes adatokat tartalmazó kép- és hangfelvétel készítésének, tárolásának céljáról, az adatkezelés jogalapjáról, a felvétel tárolásának helyéről, a tárolás időtartamáról, a rendszert alkalmazó (üzemeltető) személyéről, az adatok megismerésére jogosult személyek köréről, továbbá az Avtv.-nek az érintettek jogaira és érvényesítésük rendjére vonatkozó rendelkezéseiről; valamint
+- c) az elektronikus megfigyelőrendszer által folytatott megfigyelés, valamint a rendszer által rögzített, személyes adatokat tartalmazó kép- és hangfelvétel készítésének, tárolásának céljáról, az adatkezelés jogalapjáról, a felvétel tárolásának helyéről, a tárolás időtartamáról, a rendszert alkalmazó (üzemeltető) személyéről, az adatok megismerésére jogosult személyek köréről, továbbá az Info tv.-nek az érintettek jogaira és érvényesítésük rendjére vonatkozó rendelkezéseiről; valamint
 - d) a fegyveres biztonsági őr intézkedései által okozott jogsérelem esetén igénybe vehető eljárásokról.
 
 (10) Nem alkalmazható a létesítményt figyelő elektronikus megfigyelőrendszer olyan helyen, ahol a megfigyelés az emberi méltóságot sértheti, így különösen öltözőben, orvosi rendelőben, mosdóban és fürdőben, illemhelyen.
@@ -237,6 +237,8 @@ nem tesz eleget, a fegyveres biztonsági őrzést – a kötelezett vagy a fegyv
 - a) a biztonságot sértő vagy veszélyeztető személyt tevékenysége abbahagyására felszólítani és igazoltatni;
 - b) az intézkedésének tettlegesen ellenszegülő vagy a bűncselekmény elkövetésén tetten ért személyt a rendőrség megérkezéséig visszatartani vagy a rendőrségre előállítani;
 - c) az a)–b) pont szerint igazoltatott, visszatartott vagy előállított személytől a bűncselekményből származó vagy annak elkövetéséhez használt dolgot, illetve támadásra alkalmas eszközt elvenni, ennek érdekében ruházatát, csomagját átvizsgálni.
+
+(1a) A ruházat átvizsgálását – halaszthatatlan eset kivételével – az intézkedés alá vonttal azonos nemű személy végezheti. Az intézkedés nem történhet szeméremsértő módon.
 
 (2) A fegyveres biztonsági őr a biztonságot veszélyeztető tevékenység megszakítása érdekében, az azt elkövető személlyel szemben az arányosság követelményének betartásával:
 
@@ -440,7 +442,7 @@ az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valami
 
 (4) Felhatalmazást kap a Kormány, hogy az atomenergia alkalmazása körében elrendelt fegyveres biztonsági őrség tekintetében a fizikai állóképességre és az iskolai végzettségre vonatkozó követelményeket meghatározza.
 
-(5) Felhatalmazást kap a rendészetért felelős miniszter, hogy a honvédelemért felelős miniszterrel, a polgári hírszerzési tevékenység irányításáért felelős miniszterrel és a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel egyetértésben rendelettel adja ki a fegyveres biztonsági őrség működési és szolgálati szabályzatát. A szabályzat tartalmazza a szolgálatra vonatkozó irányítási, szervezési, tervezési, ellenőrzési, képzési és továbbképzési, szolgálatellátási renddel, a kényszerítő eszközök – különös tekintettel a lőfegyver – alkalmazásával kapcsolatos részletes szabályokat, valamint a 7. §-ban előírt vizsga követelményeit.
+(5) Felhatalmazást kap a rendészetért felelős miniszter, hogy a honvédelemért felelős miniszterrel, a polgári hírszerzési tevékenység irányításáért felelős miniszterrel és a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel egyetértésben rendeletben meghatározza a fegyveres biztonsági őrség működési és szolgálati szabályzatát, ennek keretében különösen a fegyveres biztonsági őrség keretében végzett szolgálat irányítási, szervezési, tervezési és ellenőrzési szabályait, a szolgálat ellátásához kapcsolódó képesítési feltételeket, a képzési és a továbbképzési renddel összefüggő szabályokat, a 7. §-ban előírt vizsga követelményeit és a vizsgáztatás rendjét, a szolgálatellátási renddel összefüggő szabályokat, a kényszerítő eszközök – különös tekintettel a lőfegyverre – alkalmazásával kapcsolatos részletes szabályokat.
 
 (6) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy a rendészetért felelős miniszterrel – a közúton a jármű megállításával és ellenőrzésével kapcsolatban a közlekedésért felelős miniszterrel – egyetértésben rendelettel adja ki a mezőőr és a hegyőr működésének, szolgálati viszonyának, valamint vizsgáztatási rendjének szabályzatát.
 

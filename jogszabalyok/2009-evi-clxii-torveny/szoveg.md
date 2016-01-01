@@ -33,6 +33,8 @@ a fogyasztónak nyújtott hitelről
 
 (5) E törvény rendelkezéseit az állami kamattámogatással nyújtott hitelekre külön jogszabályban meghatározott eltérésekkel kell alkalmazni.
 
+(6) Kézizálog fedezete mellett nyújtott hitelre a 4. § (3) bekezdését, az 5–17. §-t, a 17/A. § (1) és (3) bekezdését, a 17/B–26. §-t, a 28. § (1)–(4) és (6) bekezdését, a 29. § (2) bekezdését és a 29/A. §-t nem kell alkalmazni.
+
 ### Értelmező rendelkezések
 
 3. § E törvény alkalmazásában:
@@ -149,12 +151,14 @@ a fogyasztónak nyújtott hitelről
 
 (3) Ha hitelező megbízásából eljáró hitelközvetítő részére a fogyasztót terheli díj-, költség- vagy egyéb fizetési kötelezettség, a hitelközvetítő a teljes hiteldíj mutató számítása érdekében köteles e fizetési kötelezettség mértékéről a hitelezőt tájékoztatni.
 
-8. § (1) A fogyasztó a hitelszerződés megkötését megelőző tájékoztatást tartalmazó formanyomtatvány másolatán aláírásával igazolja annak átvételét és azt, hogy az 5–7. §-ban szabályozott tájékoztatást megkapta.
+8. § (1) A fogyasztó – az elektronikus úton történő tájékoztatás kivételével – a hitelszerződés megkötését megelőző tájékoztatást tartalmazó formanyomtatvány másolatán aláírásával igazolja annak átvételét és azt, hogy az 5–7. §-ban szabályozott tájékoztatást megkapta.
 
 (2) Ha a hitelszerződést a felek azonosított elektronikus úton vagy elektronikus okirati formában kötik meg, akkor az (1) bekezdés szerinti külön aláírásra igazolásként nincs szükség. Ebben az esetben
 
 - a) a költség és díj módosulására vonatkozó tájékoztatás elektronikus úton is teljesíthető,
 - b) a kamatváltozásra vonatkozó tájékoztatást papíron vagy más tartós adathordozón kell teljesíteni.
+
+(3) Az 5–7. §-ban meghatározott tájékoztatás elektronikus úton is teljesíthető azzal, hogy a hitelszerződés megkötését követően a 6. § és a 7. § szerint tájékoztatási kötelezettség papíron vagy más tartós adathordozón teljesítésre kerül.
 
 9. § Ha a hitelező a tájékoztatást tartalmazó formanyomtatványban foglaltaknak megfelelően a fogyasztóval szerződést kíván kötni, úgy a fogyasztó kérésére a hitelszerződés tervezetét díj-, költség- és egyéb fizetési kötelezettségmentesen a rendelkezésére kell bocsátani.
 

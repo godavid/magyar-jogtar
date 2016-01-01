@@ -78,7 +78,7 @@ Az Országgyűlés a hatékonyan működő földgáz-versenypiac kialakítása, 
 - 27. Földgáz-nagykereskedelem: a III. Fejezet vonatkozásában az a tevékenység, amelynek során a földgázkereskedő a földgázt más földgázkereskedőnek értékesíti.
 - 27a. Földgáz-kereskedelmi szerződés: a földgázkereskedő és a felhasználó között létrejött, földgáz adás-vételére irányuló szerződés.
 - 28. Földgáz-kiskereskedelem: e törvény III. Fejezete vonatkozásában az a tevékenység, amelynek során a földgázkereskedő a földgázt közvetlenül a felhasználónak adja el.
-- 29. Földgázipari tevékenység: e törvényben szabályozott engedélyköteles tevékenység.
+- 29. Földgázipari tevékenység: e törvényben szabályozott engedély- vagy bejelentésköteles tevékenység.
 - 30. Földgázipari vállalkozás: gazdálkodó szervezet, valamint az Európai Unió tagállamában, illetve az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban bejegyzett külföldi vállalkozás és annak belföldön bejegyzett fióktelepe, amely legalább egy földgázipari tevékenységet folytat.
 - 31. Földgáztárolás: a földgáz engedély alapján végzett tárolása.
 - 32. Földgáztároló: az a besajtoló és kitermelő technológiai létesítménnyel ellátott földalatti természetes földtani szerkezet, mesterségesen kialakított földalatti üreg, vagy a földfelszínen létesített építmény, amely földgáz tárolására alkalmas.
@@ -93,7 +93,7 @@ Az Országgyűlés a hatékonyan működő földgáz-versenypiac kialakítása, 
 - 40. Hidraulikai egyensúly: az együttműködő földgázrendszer azon állapota, amikor minden ponton biztosított a működéshez szükséges nyomásérték.
 - 41. Integrált földgázipari vállalkozás:
   - a) Vertikálisan integrált vállalkozás: olyan földgázipari vállalkozás vagy vállalkozások csoportja, amelyek irányítására közvetlenül vagy közvetve ugyanazon személy vagy személyek jogosultak, és ahol a földgázipari vállalkozás vagy vállalkozáscsoport a földgázszállítás, a földgázelosztás vagy a földgáztárolás mellett egyidejűleg a földgáztermelés és a földgáz-kereskedelem közül legalább az egyik tevékenységet végzi, vagy arra engedéllyel rendelkezik. A vertikálisan integrált vállalkozás részének minősül az említett vállalkozás vagy vállalkozások csoportja felett közvetlen irányítást gyakorló személy vagy személyek is.
-  - b) Horizontálisan integrált vállalkozás: olyan földgázipari vállalkozás, amely a földgáztermelést, vagy az e törvény szerinti engedélyköteles tevékenységek közül legalább az egyik tevékenységet végzi, valamint egyéb nem földgázipari tevékenységet is folytat.
+  - b) Horizontálisan integrált vállalkozás: olyan földgázipari vállalkozás, amely a földgáztermelést, vagy az e törvény szerinti engedély- vagy bejelentésköteles tevékenységek közül legalább az egyik tevékenységet végzi, valamint egyéb nem földgázipari tevékenységet is folytat.
 - 41a. Irányítás: a vállalkozások közötti összefonódások ellenőrzéséről szóló, 2004. január 20-i 139/2004/EK tanácsi rendelet 3. cikk (2) bekezdésében meghatározott kapcsolat.
 - 42. Kapacitás: a szállítóvezeték és az elosztóvezeték adott pontjának, a földgáztároló betáplálási-kiadási pontjának időegységre vonatkoztatott teljesítőképessége, valamint a földgáztároló tárolási képessége.
 - 43. Kapacitáslekötési platform: olyan, interneten keresztül elérhető elektronikus felület, amelyen a rendszerhasználó a betáplálási-kiadási pont szabad kapacitását kötheti le.
@@ -1236,9 +1236,11 @@ földgázrendszerhez való hozzáférés
 
 88. § (1) A csatlakozóvezeték és a felhasználói berendezés létesítése az ingatlantulajdonos kötelezettsége. Az elkészült csatlakozóvezeték és a felhasználói berendezés az ingatlantulajdonos tulajdonát képezi. A csatlakozóvezeték és a felhasználói berendezés üzemeltetése a felhasználó kötelezettsége.
 
-(2) A csatlakozóvezeték- és a felhasználóiberendezés-létesítési, a biztonsági előírást érintő felszerelési és időszaki ellenőrzési tevékenység folytatásához a műszaki-biztonsági hatóság által kiadott engedély szükséges. A tevékenység folytatását a műszaki-biztonsági hatóság annak engedélyezi, aki rendelkezik a külön jogszabályban meghatározott szakmai képesítéssel és megfelel az ott meghatározott egyéb feltételeknek. A műszaki-biztonsági hatóság az engedély megadásával egyidejűleg hivatalból igazolványt állít ki. A jogosultságot a földgázelosztónál és az ingatlantulajdonosnál vagy a felhasználónál a létesítés előtt igazolni kell.
+(2) A csatlakozóvezeték- és a felhasználóiberendezés-létesítési, a biztonsági előírást érintő felszerelési és időszaki ellenőrzési tevékenység folytatására irányuló szándékot a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint be kell jelenteni a területi műszaki biztonsági hatósághoz. A tevékenységet az folytathatja, aki rendelkezik a külön jogszabályban meghatározott szakmai képesítéssel és megfelel az ott meghatározott egyéb feltételeknek. A bejelentés alapján műszaki biztonsági hatóság a nyilvántartásba vétellel egyidejűleg hivatalból igazolványt állít ki a jogosult számára. A jogosultságot a földgázelosztónál és az ingatlantulajdonosnál vagy a felhasználónál a létesítés előtt igazolni kell.
 
-(3) Az engedéllyel rendelkező gázszerelőkről és gázkészülék-javítókról (a továbbiakban: gázszerelő) a műszaki-biztonsági hatóság közhitelű hatósági nyilvántartást vezet. A nyilvántartás – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – tartalmazza a gázszerelő nevét, születésének helyét és időpontját, a gázszerelő képesítésének megnevezését, az általa végezhető tevékenységek meghatározását, valamint az igazolvány számát.
+(3) A bejelentett és jogosult gázszerelőkről és gázkészülék-javítókról (a továbbiakban: gázszerelő) a műszaki biztonsági hatóság által vezetett nyilvántartás – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – tartalmazza a gázszerelő nevét, születésének helyét és időpontját, a gázszerelő képesítésének megnevezését, az általa végezhető tevékenységek meghatározását, valamint az igazolvány számát.
+
+(3a) A műszaki biztonsági hatóság törli a gázszerelőt a nyilvántartásból, ha a gázszerelő megsértette a gázszerelésre vonatkozó – jogszabályban előírt – szakmai szabályokat és ezt a műszaki-biztonsági hatóság megállapította.
 
 (4) A nyilvántartást vezető hatóság a gázszerelők jegyzékét honlapján közzéteszi, mely tartalmazza a gázszerelő nevét és igazolvány számát. A gázszerelő hozzájárulása esetén a jegyzékben feltüntetésre kerül a gázszerelő értesítési címe, telefonszáma, faxszáma, elektronikus postacíme.
 
@@ -1265,7 +1267,7 @@ földgázrendszerhez való hozzáférés
 (6d) A hatósági nyilvántartásban az a gázszerelő szerepelhet, aki:
 
 - a) a nyilvántartásba való felvételi kérelmét a hatóság részére benyújtja,
-- b) a gázszerelők engedélyezéséről és nyilvántartásáról szóló jogszabály szerinti, a gáz csatlakozóvezeték és felhasználói berendezés műszaki biztonsági felülvizsgálatára jogosító engedéllyel rendelkezik,
+- b) a gáz csatlakozóvezeték és felhasználói berendezés műszaki biztonsági felülvizsgálatára jogosultak nyilvántartásában szerepel,
 - c) az engedély megszerzésétől számított legalább egy éves szakmai gyakorlattal rendelkezik, és
 - d) a b)–c) pont szerinti feltételek meglétét igazolja.
 
@@ -2513,11 +2515,13 @@ bármilyen módon való elidegenítése vagy átruházása esetén.
 
 (2) A Hivatal eljárására a VET.-nek a Hivatal eljárására vonatkozó általános szabályait kell alkalmazni azzal az eltéréssel, hogy az ügyintézési határidő
 
-- a) a 64. § (2) bekezdése, a 67. § (3) bekezdése, valamint a 127. § m) és n) pontjai szerinti eljárásokban két hónap,
-- b) a 82. § (5) bekezdés szerinti eljárásban hat hónap,
-- c) a korlátozott földgáz-kereskedelmi engedély kiadására irányuló eljárásban 30 nap,
+- a) a 64. § (2) bekezdése, a 67. § (3) bekezdése, valamint a 127. § m) és n) pontjai szerinti eljárásokban 45 nap,
+- b) a 82. § (5) bekezdés szerinti eljárásban négy hónap,
+- c) a korlátozott földgáz-kereskedelmi engedély kiadására irányuló eljárásban 25 nap,
 - d) a 128. § (1) bekezdés a)–c) és e) pontja, valamint a 128/A. § (5) bekezdése szerinti eljárásokban négy hónap,
 - e) a 128/A. § (6) bekezdése szerinti eljárásban két hónap.
+
+(2a) A (2) bekezdés a), c) és e) pontjában meghatározott eljárásokban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
 
 (3) A közigazgatási ügyekben eljáró bíróság a Hivatal határozatának bírósági felülvizsgálata során – a földgázellátási üzemzavar vagy válsághelyzet esetén a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet alapján meghozott döntés, valamint a tanúsítási eljárás eredményeképpen hozott és a rendszerhasználati vagy csatlakozási díjakat megállapító határozat kivételével – a határozatot jogosult megváltoztatni.
 
@@ -2652,11 +2656,11 @@ tartalmazza.
 (2) Felhatalmazást kap az iparügyekért felelős miniszter, hogy rendeletben állapítsa meg
 
 - 1. a műszaki-biztonsági szempontból jelentős munkakörök betöltéséhez szükséges szakmai képesítést és gyakorlatot, valamint az ilyen munkakörben foglalkoztatottak időszakos továbbképzésével kapcsolatos szabályokat,
-- 2. a gázszerelők és gázkészülék-javítók tevékenysége folytatásának részletes feltételeit, az e tevékenységekre jogosító engedély kiadásának rendjét, az e tevékenységet végzőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá az e tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
+- 2. a gázszerelők és gázkészülék-javítók tevékenysége folytatásának részletes feltételeit, az e tevékenységek bejelentésének rendjét, az e tevékenységet végzőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá az e tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 - 3. a csatlakozóvezeték és a felhasználói berendezés, valamint a telephelyi vezeték létesítésének, üzembe helyezésének és üzemeltetésének műszaki-biztonsági feltételeit és az ehhez kapcsolódó műszaki biztonsági hatósági feladatokat, a műszaki biztonsági felülvizsgálatot – beleértve annak gyakoriságát is,
 - 4. a gázfogyasztó készülékek forgalomba hozatalára, üzembe helyezésére, üzemeltetésére, valamint megfelelőségük tanúsítására vonatkozó részletes szabályokat,
 - 5.
-- 6. az adópolitikáért felelős miniszterrel egyetértésben a műszaki biztonsági hatóság részére a kérelemre indult eljárásokért fizetendő igazgatási szolgáltatási díjak és a gázszerelők engedélyének kiadásáért fizetendő díj – ideértve a jogorvoslati díjat is – mértékét és a díjak beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat.
+- 6. az adópolitikáért felelős miniszterrel egyetértésben a műszaki biztonsági hatóság részére a kérelemre indult eljárásokért fizetendő igazgatási szolgáltatási díjak és a gázszerelők bejelentése esetén fizetendő díj – ideértve a jogorvoslati díjat is – mértékét és a díjak beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat.
 
 (3) Felhatalmazást kap a katasztrófák elleni védekezésért felelős miniszter, hogy rendeletben állapítsa meg a gáz csatlakozóvezetékek és felhasználói berendezések műszaki-biztonsági felülvizsgálata során feltárt hibák kijavítására kötelezésre, a gáz csatlakozóvezetékek és felhasználói berendezések műszaki javításával kapcsolatos mulasztások bejelentésének kezelésére vonatkozó részletes eljárási szabályokat, valamint az eljárás során kirendelt szakértő tevékenysége folytatásának részletes feltételeit.
 
@@ -2972,7 +2976,7 @@ köteles annak létrejöttét követő 7 munkanapon belül megküldeni a Hivatal
 
 143/A. § (1)–(2)
 
-(3) A szervezett földgázpiac első pozitív mérleg szerinti eredménnyel lezárt üzleti évét követően a Hivatal évente megvizsgálja az engedélyes szervezett földgázpiac létrehozásával összefüggő befektetései megtérülésének alakulását. Ha a Hivatal megállapítja a befektetések megtérülését, határozatban kötelezi az engedélyest a részvényeinek, vagy a részvények egy részének elidegenítésére. Ez esetben a 48. § rendelkezéseit kell alkalmazni.
+(3) A szervezett földgázpiac első pozitív adózott eredménnyel lezárt üzleti évét követően a Hivatal évente megvizsgálja az engedélyes szervezett földgázpiac létrehozásával összefüggő befektetései megtérülésének alakulását. Ha a Hivatal megállapítja a befektetések megtérülését, határozatban kötelezi az engedélyest a részvényeinek, vagy a részvények egy részének elidegenítésére. Ez esetben a 48. § rendelkezéseit kell alkalmazni.
 
 (4)–(7)
 

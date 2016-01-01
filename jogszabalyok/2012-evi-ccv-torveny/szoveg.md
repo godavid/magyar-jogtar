@@ -1645,7 +1645,7 @@ munkanap pótszabadság jár. A pótszabadság fogyatékos gyermekenként 2 munk
 
 (3) A (2) bekezdés a) pontjában megjelölt esetben a szabadság időtartama – a szülést követően – 6 hétnél rövidebb nem lehet.
 
-117. § (1) Az állomány tagjának gyermeke személyes gondozása érdekében – a 116. § (1) bekezdésén túl – illetmény nélküli szabadság jár a gyermek 10. életéve betöltéséig a gyermekgondozási segély folyósításának időtartama alatt.
+117. § (1) Az állomány tagjának gyermeke személyes gondozása érdekében – a 116. § (1) bekezdésén túl – illetmény nélküli szabadság jár a gyermek 10. életéve betöltéséig a gyermekgondozást segítő ellátás folyósításának időtartama alatt.
 
 (2) Az állomány tagjának közeli hozzátartozója vagy élettársa tartós – előreláthatólag 30 napot meghaladó – személyes ápolása céljából, az ápolás idejére, de legfeljebb 2 évre illetmény nélküli szabadság jár. A tartós ápolást és annak indokoltságát az ápolásra szoruló személy kezelőorvosa igazolja.
 

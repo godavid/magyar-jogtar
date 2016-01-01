@@ -6,25 +6,225 @@ az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együt
 
 #### 1. Az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény módosítása
 
-1–6. §
+1. § Az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény (a továbbiakban: Aktv.) 4. §-a a következő (6) bekezdéssel egészül ki:
+
+„(6) Az V/B. Fejezet alkalmazásában
+
+1. adóév: a naptári év;
+
+2. automatikus információcsere: az Európai Unió más tagállamában (a továbbiakban: tagállam) vagy a Pénzügyi Számlákkal kapcsolatos információk automatikus cseréjéről szóló, illetékes hatóságok közötti többoldalú Megállapodást kihirdető törvény (a továbbiakban: Megállapodást kihirdető törvény) 1. mellékletében felsorolt államban (a továbbiakban: más állam) illetőséggel rendelkező személyekre vonatkozó, előre meghatározott információk előzetes megkeresés nélküli, előre meghatározott időszakonként történő rendszeres közlése e személy illetősége szerinti állam hatáskörrel rendelkező hatóságával;
+
+3. Betéti Számla: az 1. melléklet VIII/C/2. pontja szerinti Pénzügyi Számla;
+
+4. Ellenőrzést gyakorló személy: az 1. melléklet VIII/D/5. pontja szerinti ellenőrzést gyakorló személy;
+
+5. hatáskörrel rendelkező hatóság: az Európai Unió tagállamának vagy más államnak hatáskörrel rendelkező hatóságként kijelölt hatósága;
+
+6. Járadékbiztosítási Szerződés: az 1. melléklet VIII/C/6. pontja szerinti Járadékbiztosítási Szerződés;
+
+7. Jelentendő Pénzügyi Számla: az 1. melléklet VIII/D. pontja szerinti Pénzügyi Számla;
+
+8. Jelentő Magyar Pénzügyi Intézmény: az 1. melléklet VIII/A. pontja szerinti jelentő magyar Pénzügyi Intézmény;
+
+9. Kizárt Pénzügyi Számla: az 1. melléklet VIII/C/17. pontja szerinti Pénzügyi Számla;
+
+10. Letétkezelői Számla: az 1. melléklet VIII/C/3. pontja szerinti Pénzügyi Számla;
+
+11. Nem dokumentált Pénzügyi Számla: az 1. melléklet III/B/5. és III/C/5. c) pontja szerinti nem dokumentált Pénzügyi Számla;
+
+12. Nem Jelentő Magyar Pénzügyi Intézmény: az 1. melléklet VIII/B. pontja szerinti Nem Jelentő Magyar Pénzügyi Intézmény;
+
+13. Pénzügyi Számla: az 1. melléklet VIII/C. pontja szerinti Pénzügyi Számla;
+
+14. Visszavásárlási Érték: az 1. melléklet VIII/C/8. pontja szerinti visszavásárlási érték;
+
+15. Visszavásárlási értékkel rendelkező Biztosítási Szerződés: az 1. melléklet VIII/C/7. pontja szerinti visszavásárlási értékkel rendelkező biztosítási szerződés.”
+
+2. § Az Aktv. 20. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A magyar központi kapcsolattartó iroda tájékoztathatja a más tagállam hatáskörrel rendelkező hatóságát, ha a 19/A. § (2) bekezdés a)–e) pontjában felsorolt jövedelemtípusok tekintetében nem kíván információkat kapni. A magyar központi kapcsolattartó iroda erről az értesítésről tájékoztatja az Európai Bizottságot.”
+
+3. § Az Aktv. a következő V/B. fejezettel egészül ki:
+
+„V/B. FEJEZET
+
+A PÉNZÜGYI SZÁMLÁKKAL KAPCSOLATOS ADATSZOLGÁLTATÁS, ÁTVILÁGÍTÁS ÉS AUTOMATIKUS INFORMÁCIÓCSERE EGYES SZABÁLYAIRÓL
+
+43/G. § (1) A Jelentő Magyar Pénzügyi Intézmény e minőségét az annak keletkezését követő 15 napon belül bejelenti az állami adóhatóságnak.
+
+(2) A Nem Jelentő Magyar Pénzügyi Intézmény e minőségét az annak keletkezését követő 15 napon belül jelenti be az állami adóhatóságnak. A Nem Jelentő Magyar Pénzügyi Intézmény a bejelentésben megjelöli e minőségének – az 1. melléklet VIII/B. pontja szerinti – jogcímét.
+
+(3) Az (1) és (2) bekezdés szerint bejelentett adatok változását a Jelentő Magyar Pénzügyi Intézmény és a Nem Jelentő Magyar Pénzügyi Intézmény a változást követő 15 napon belül jelenti be az állami adóhatósághoz.
+
+(4) Az állami adóhatóság az adókötelezettségek jogszerű teljesítéséhez honlapján közzéteszi
+
+a) az (1)–(3) bekezdés szerinti bejelentés alapján a Jelentő Magyar Pénzügyi Intézmények és a Nem Jelentő Magyar Pénzügyi Intézmények elnevezését, székhelyét és adószámát (ha az ilyennel rendelkezik),
+
+b) az 1. melléklet VIII/C/17. g) pontja szerinti Kizárt Pénzügyi Számlák listáját, és
+
+c) a Megállapodást kihirdető törvény 1. mellékletében felsorolt államok listáját.
+
+(5) A Jelentő Magyar Pénzügyi Intézmény az 1. melléklet III/B/5. és III/C/5. c) pontja szerinti Nem dokumentált Pénzügyi Számláról a Számlatulajdonos nevének és számlaszámának feltüntetésével a dokumentáció hiánya megállapításának adóévét követő év június 30. napjáig – bejelentést tesz az állami adóhatósághoz.
+
+(6) Ha a Jelentő Magyar Pénzügyi Intézménynek a 43/H. § alapján nem keletkezik adatszolgáltatási kötelezettsége, erről a tényről az azonosító adatainak feltüntetésével a 43/H. §-ban előírt határidőig bejelentést tesz az állami adóhatósághoz.
+
+43/H. § A Jelentő Magyar Pénzügyi Intézmény az 1. melléklet II-VII. pontjában meghatározott átvilágítási szabályoknak megfelelően megszerzett adatok kapcsán fennálló adatszolgáltatási kötelezettségét az adóévet követő év június 30. napjáig az 1. melléklet I. pontja szerinti adattartalommal teljesíti az állami adóhatósághoz.
+
+43/I. § (1) Az állami adóhatóság automatikus információcsere keretében, a 2016. január 1-jétől kezdődő adatszolgáltatás alapjául szolgáló időszakokat illetően, az adóévet követő év szeptember 30-ig közli az Európai Unió tagállama vagy más állam hatáskörrel rendelkező hatóságával a Jelentendő Pénzügyi Számlákra vonatkozóan a (2) bekezdésben meghatározott információkat. Más állam tekintetében e bekezdés szerinti első információközlésre kizárólag azon adatszolgáltatás alapjául szolgáló időszak adatai vonatkozásában kerülhet sor, amely időszak bármely napján a Pénzügyi Számlákkal kapcsolatos információk automatikus cseréjéről szóló, illetékes hatóságok közötti többoldalú Megállapodás hatályba lép. Az állami adóhatóság az e bekezdés szabályai szerint nem továbbítható adatokat az információközlés adóévének utolsó napjáig törli a nyilvántartásából.
+
+(2) Az (1) bekezdés szerinti információk a következők:
+
+1. a Jelentendő Pénzügyi Számla tulajdonosának neve, címe, adóazonosító száma (ha ilyennel rendelkezik), magánszemély esetében születési helye, ideje;
+
+2. a Jelentendő Ellenőrzést gyakorló személy neve, lakcíme adóazonosító száma, születési helye és ideje;
+
+3. a Jelentendő Pénzügyi Számla száma (vagy annak megfelelő egyéb azonosító);
+
+4. a Jelentő Magyar Pénzügyi Intézmény neve és azonosító száma;
+
+5. a számlának az adóév utolsó napján fennálló egyenlege, továbbá a Visszavásárlási Értékkel rendelkező Biztosítási Szerződés vagy Járadékbiztosítási Szerződés esetén – ideértve a készpénz-egyenértéket vagy Visszavásárlási Értéket – annak értéke. Ha a számlát az adóév folyamán lezárták, akkor a lezárás időpontját megelőző nap és az ebben az időpontban fennálló egyenleg vagy érték;
+
+6. a Letétkezelői Számla esetében
+
+a) az adóévben a számlára befizetett vagy jóváírt kamat, osztalék, továbbá a számlán tartott eszközökhöz kapcsolódóan keletkező egyéb bevétel bruttó összege;
+
+b) az adóévben a számlára befizetett vagy jóváírt, a pénzügyi eszközök értékesítéséből vagy visszaváltásából származó bevétel bruttó összege, amely tekintetében a Jelentő Magyar Pénzügyi Intézmény letétkezelőként, befektetési vállalkozásként, meghatalmazottként vagy más módon a Számlatulajdonos megbízottjaként járt el;
+
+7. a Betéti Számla esetében az adóévben a számlára befizetett vagy jóváírt kamat bruttó összege;
+
+8. a 6–7. pontban nem szereplő számlák esetében az adóévben a Számlatulajdonos részére a számlával kapcsolatban kifizetett vagy jóváírt bruttó összeg (ideértve az adóévben a visszaváltásokból származó, a Számlatulajdonos részére teljesített kifizetések összevont összegét), melynek a Jelentő Magyar Pénzügyi Intézmény a kötelezettje vagy az adósa.
+
+(3) Az állami adóhatóság az Európai Unió tagállamától vagy más államtól automatikus információcsere keretében beérkezett adatokat fogadja, nyilvántartja és azokat adóügyben bizonyítékként felhasználhatja.
+
+(4) Az e fejezet szerinti, adatszolgáltatásra és automatikus információcserére irányuló együttműködés során az állami adóhatóság vagy az adópolitikáért felelős miniszter által közölt, szerzett vagy továbbított információ adótitoknak minősül.
+
+(5) Nem jelenti az adótitok, illetve a tőkepiacról szóló törvény szerinti értékpapírtitok, a biztosítási tevékenységről szóló törvény szerinti biztosítási titok, a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvény szerinti értékpapírtitok, az egyes fizetési szolgáltatókról szóló törvény szerinti fizetési titok, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti banktitok, továbbá a Polgári Törvénykönyvről szóló 2013. évi V. törvény szerinti üzleti titok sérelmét, ha az információk átadására, átvételére és felhasználására az e fejezetben foglaltaknak megfelelő átvilágítás, adatszolgáltatás, valamint automatikus információcsere és együttműködés keretében kerül sor.
+
+43/J. § (1) A Jelentő Magyar Pénzügyi Intézmény a 43/G. § (1), (3), (5) és (6) bekezdése szerinti bejelentési, továbbá a 43/H. § szerinti adatszolgáltatási kötelezettségét elektronikus úton, a Nem Jelentő Magyar Pénzügyi Intézmény a 43/G. § (2) és (3) bekezdése szerinti bejelentési kötelezettségét – ha az lehetséges – elektronikus úton, az állami adóhatóság által erre a célra rendszeresített elektronikus űrlapon teljesíti az állami adóhatósághoz.
+
+(2) Az állami adóhatóság a 43/I. §-ban meghatározott, automatikus információcsere keretében az Európai Unió tagállamába továbbított információt a 16. § (5) bekezdésének megfelelő formátumban továbbítja.
+
+43/K. § A 43/G. § (1)–(3), (5) és (6) bekezdése, valamint a 43/H. § szerinti bejelentési és adatszolgáltatási kötelezettség késedelmes, hibás, valótlan tartalmú vagy hiányos teljesítése esetén az állami adóhatóság a bejelentésre, adatszolgáltatásra kötelezettet 2 millió forintig terjedő mulasztási bírsággal sújthatja.
+
+43/L. § (1) Az állami adóhatóság a 43/I. § szerinti automatikus információcsere teljesítéséről – az információ felhasználásának statisztikai adatai kivételével – az adóévet követő év december 31-ig jelentést készít az adópolitikáért felelős miniszter részére. A jelentésben az állami adóhatóság az adóévre vonatkozó automatikus információcsere statisztikai adatait, valamint az e fejezet alapján folytatott automatikus információcsere értékelését és hatékonyságának növelésére tett javaslatait szerepelteti.
+
+(2) A 43/I. § (3) bekezdése szerinti információ felhasználásának statisztikai adatairól az állami adóhatóság az adóévet követő második év december 31-ig tesz jelentést az adópolitikáért felelős miniszter részére.”
+
+4. § Az Aktv. a következő 45/C. §-sal egészül ki:
+
+„45/C. § (1) A Jelentő Magyar Pénzügyi Intézmény, valamint a Nem Jelentő Magyar Pénzügyi Intézmény az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény és egyes törvények módosításáról szóló 2015. évi CXCII. törvénnyel (a továbbiakban: Módtv.) megállapított 43/G. § (1)–(3) és (5) bekezdése szerinti bejelentési kötelezettségét először a 43/G. § (1)–(3) és (5) bekezdésének hatálybalépését követő 45. napig teljesíti az állami adóhatósághoz.
+
+(2) A Jelentő Magyar Pénzügyi Intézmény a Módtv.-nyel megállapított 43/H. §-a szerinti adatszolgáltatási kötelezettségét először 2017. június 30-ig teljesíti az állami adóhatósághoz.”
+
+5. § Az Aktv. 46. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) A 4. § (6) bekezdése, az V/B. fejezet, valamint az 1. és 2. melléklet a 2011/16/EU tanácsi irányelvnek az adózás területére vonatkozó kötelező automatikus információcsere tekintetében történő módosításáról szóló, 2014. december 9-i 2014/107/EU tanácsi irányelvnek való megfelelést szolgálja.”
+
+6. § Az Aktv. az 1. és 2. melléklet szerinti 1. és 2. melléklettel egészül ki.
 
 ### II. Fejezet — AZ AUTOMATIKUS INFORMÁCIÓCSERÉVEL ÉS EURÓPAI UNIÓS JOGBÓL FAKADÓ MÁS KÖTELEZETTSÉGGEL ÖSSZEFÜGGŐ TOVÁBBI TÖRVÉNYMÓDOSÍTÁSOK
 
 #### 2. A tőkepiacról szóló 2001. évi CXX. törvény módosítása
 
-7–9. §
+7. § A tőkepiacról szóló 2001. évi CXX. törvény (a továbbiakban: Tpt.) XIII. fejezete a következő alcímmel egészül ki:
+
+„A Pénzügyi Számlákkal kapcsolatos adatszolgáltatás és átvilágítás alapján fennálló kötelezettségek
+
+146/C. § Az Aktv. szerinti, e törvény hatálya alá tartozó Jelentő Magyar Pénzügyi Intézmény (ezen alcím alkalmazásában a továbbiakban: intézmény) az általa kezelt, az Aktv. 1. melléklet VIII/C. pontja szerinti Pénzügyi Számla vonatkozásában elvégzi az Aktv. szerinti Számlatulajdonos és Jogalany (ezen alcím alkalmazásában a továbbiakban együtt: Számlatulajdonos) illetőségének az Aktv 1. melléklet II–VII. pontja szerinti megállapítására irányuló vizsgálatot (a továbbiakban: illetőségvizsgálat).
+
+146/D. § (1) Az intézmény a Számlatulajdonost az illetőségvizsgálat elvégzésével egyidejűleg az ügyfélfogadásra nyitva álló helyiségeiben kifüggesztett hirdetmény útján vagy – ha az lehetséges – elektronikus úton tájékoztatja
+
+a) az illetőségvizsgálat elvégzéséről,
+
+b) az Aktv. 43/H. §-a alapján az adóhatóság felé fennálló adatszolgáltatási kötelezettségéről.
+
+(2) Az Aktv. 43/H. §-a szerinti adatszolgáltatásról az intézmény a Számlatulajdonost az adatszolgáltatás teljesítésétől számított 30 napon belül írásban – ha az lehetséges elektronikus úton – tájékoztatja.”
+
+8. § A Tpt. „Értékpapírtitok” fejezete a következő 374/A. §-sal egészül ki:
+
+„374/A. § Nem jelenti az értékpapírtitok és az üzleti titok sérelmét az Aktv. 43/H. §-ában foglalt kötelezettség teljesítéséhez az adóhatóság felé szükséges adatszolgáltatás.”
+
+9. § A Tpt. 25. számú melléklete a 3. melléklet szerint módosul.
 
 #### 3. A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény módosítása
 
-10–12. §
+10. § A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) 118. § (4) bekezdése a következő h) ponttal egészül ki:
+
+[Az (1) bekezdésben meghatározott titoktartási kötelezettség nem áll fenn abban az esetben sem, ha]
+
+„h) a befektetési szolgáltatási tevékenységet végző, kiegészítő befektetési szolgáltatást vagy árutőzsdei szolgáltatást nyújtó az Aktv. 43/H. §-ában foglalt kötelezettség teljesítése céljából az állami adóhatóság felé szolgáltat adatot.”
+
+11. § A Bszt. XXI. fejezete a következő alcímmel egészül ki:
+
+„A Pénzügyi Számlákkal kapcsolatos adatszolgáltatás és átvilágítás alapján fennálló kötelezettségek
+
+123/D. § Az Aktv. szerinti, e törvény hatálya alá tartozó Jelentő Magyar Pénzügyi Intézmény (ezen alcím alkalmazásában a továbbiakban: intézmény) az általa kezelt, az Aktv. 1. melléklet VIII/C. pontja szerinti Pénzügyi Számla vonatkozásában elvégzi az Aktv. szerinti Számlatulajdonos és Jogalany (ezen alcím alkalmazásában a továbbiakban együtt: Számlatulajdonos) illetőségének az Aktv. 1. melléklet II–VII. pontja szerinti megállapítására irányuló vizsgálatot (ezen alcím alkalmazásában a továbbiakban: illetőségvizsgálat).
+
+123/E. § (1) Az intézmény a Számlatulajdonost az illetőségvizsgálat elvégzésével egyidejűleg az ügyfélfogadásra nyitva álló helyiségeiben kifüggesztett hirdetmény útján vagy – ha az lehetséges – elektronikus úton tájékoztatja
+
+a) az illetőségvizsgálat elvégzéséről,
+
+b) az Aktv. 43/H. §-a alapján az adóhatóság felé fennálló adatszolgáltatási kötelezettségéről.
+
+(2) Az Aktv. 43/H. §-a szerinti adatszolgáltatásról az intézmény a Számlatulajdonost az adatszolgáltatás teljesítésétől számított 30 napon belül írásban – ha az lehetséges elektronikus úton – tájékoztatja.”
+
+12. § A Bszt. 183. § (1) bekezdése a következő h) ponttal egészül ki:
+
+(E törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:)
+
+„h) A Tanács 2014/107/EU irányelve (2014. december 9.) a 2011/16/EU tanácsi irányelvnek az adózás területére vonatkozó kötelező automatikus információcsere tekintetében történő módosításáról.”
 
 #### 4. Az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény módosítása
 
-13–15. §
+13. § Az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény (a továbbiakban: Fsztv.) 63. §-a a következő (6) bekezdéssel egészül ki:
+
+„(6) Az adóhatóság az Aktv. 43/H. §-a szerinti adatszolgáltatás során is jogosult fizetési titokhoz jutni.”
+
+14. § Az Fsztv. a következő 16/B. alcímmel egészül ki:
+
+„16/B. A Pénzügyi Számlákkal kapcsolatos adatszolgáltatás és átvilágítás alapján fennálló kötelezettségek
+
+86/C. § Az Aktv. szerinti, e törvény hatálya alá tartozó Jelentő Magyar Pénzügyi Intézmény (ezen alcím alkalmazásában a továbbiakban: intézmény) az általa kezelt, az Aktv. 1. melléklet VIII/C. pontja szerinti Pénzügyi Számla (a továbbiakban: Pénzügyi Számla) vonatkozásában elvégzi az Aktv. szerinti Számlatulajdonos és Jogalany (a továbbiakban együtt: Számlatulajdonos) illetőségének az Aktv. 1. melléklet II–VII. pontja szerinti megállapítására irányuló vizsgálatot (a továbbiakban: illetőségvizsgálat).
+
+86/D. § (1) Az intézmény a Számlatulajdonost az illetőségvizsgálat elvégzésével egyidejűleg az ügyfélfogadásra nyitva álló helyiségeiben kifüggesztett hirdetmény útján vagy – ha az lehetséges – elektronikus úton tájékoztatja
+
+a) az illetőségvizsgálat elvégzéséről,
+
+b) az Aktv. 43/H. §-a alapján az adóhatóság felé fennálló adatszolgáltatási kötelezettségéről.
+
+(2) Az Aktv. 43/H. §-a szerinti adatszolgáltatásról az intézmény a Számlatulajdonost az adatszolgáltatás teljesítésétől számított 30 napon belül írásban – ha az lehetséges elektronikus úton – tájékoztatja.”
+
+15. § Az Fsztv. 90. § (1) bekezdése a következő c) ponttal egészül ki:
+
+(Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:)
+
+„c) A Tanács 2014/107/EU irányelve (2014. december 9.) a 2011/16/EU tanácsi irányelvnek az adózás területére vonatkozó kötelező automatikus információcsere tekintetében történő módosításáról.”
 
 #### 5. A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény módosítása
 
-16–19. §
+16. § A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 159. §-a a következő (8a) bekezdéssel egészül ki:
+
+„(8a) Nem jelenti az üzleti titok sérelmét, ha a pénzügyi intézmény az Aktv. 43/H. §-a szerinti adatszolgáltatási kötelezettséget teljesíti az adóhatóság felé.”
+
+17. § A Hpt. 161. § (9) bekezdése helyébe a következő rendelkezés lép:
+
+„(9) Az adóhatóság a FATCA-törvényből, valamint a pénzügyi számlákkal kapcsolatos egyéb adatszolgáltatási kötelezettség teljesítése céljából az Aktv. 43/B. és 43/C., továbbá 43/H. §-a szerinti adatszolgáltatás során is jogosult banktitokhoz jutni.”
+
+18. § A Hpt. XIII. Fejezete a következő 126/B. alcímmel egészül ki:
+
+„126/B. A Pénzügyi Számlákkal kapcsolatos adatszolgáltatás és átvilágítás alapján fennálló kötelezettségek
+
+288/C. § Az Aktv. szerinti, e törvény hatálya alá tartozó Jelentő Magyar Pénzügyi Intézmény (a továbbiakban ezen alcím tekintetében: intézmény) az általa kezelt, az Aktv. 1. melléklet VIII/C. pontja szerinti Pénzügyi Számla (a továbbiakban: Pénzügyi Számla) vonatkozásában elvégzi az Aktv. szerinti Számlatulajdonos és Jogalany (a továbbiakban együtt: Számlatulajdonos) illetőségének az Aktv. 1. melléklet II–VII. pontja szerinti megállapítására irányuló vizsgálatot (a továbbiakban: illetőségvizsgálat).
+
+288/D. § (1) Az intézmény a Számlatulajdonost az illetőségvizsgálat elvégzésével egyidejűleg az ügyfélfogadásra nyitva álló helyiségeiben kifüggesztett hirdetmény útján vagy – ha az lehetséges – elektronikus úton tájékoztatja
+
+a) az illetőségvizsgálat elvégzéséről,
+
+b) az Aktv. 43/H. §-a alapján az adóhatóság felé fennálló adatszolgáltatási kötelezettségéről.
+
+(2) Az Aktv. 43/H. §-a szerinti adatszolgáltatásról az intézmény a Számlatulajdonost az adatszolgáltatás teljesítésétől számított 30 napon belül írásban – ha az lehetséges elektronikus úton – tájékoztatja.”
+
+19. § A Hpt. 5. melléklete a 4. melléklet szerint módosul.
 
 #### 6. A biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény módosítása
 
@@ -38,7 +238,31 @@ az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együt
 
 #### 8. A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény módosítása
 
-25. §
+25. § (1) A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény (a továbbiakban: Szjtv.) 1. §-a a következő (5c) bekezdéssel egészül ki:
+
+„(5c) A szervező a szerencsejátékban való részvételre létrejött szerződést súlyosan megszegő játékossal szemben a belépés, online bejelentkezés és a szerencsejátékban való részvétel megtagadása (a továbbiakban: kitiltás) hatékony végrehajtása céljából nyilvántartást vezet. A nyilvántartásban a szervező a játékos 29/H. § (1) bekezdés szerinti adatait, a kitiltás tényét, indokát, elrendelésének időpontját, továbbá eseti jellegét vagy határozott, legfeljebb 5 éves időtartamát tünteti fel. A szervező a nyilvántartás adatait a kitiltás elrendelésétől számított 6 évig kezelheti. A kitiltással kapcsolatos nyilvántartásba a kitiltott játékos a játékost érintő kitiltás adatai vonatkozásában tekinthet be. A játékos a betekintéssel egyidejűleg a nyilvántartott adatokról okirat kiállítását igényelheti, amelyet a szervező a betekintéssel egyidejűleg, de legfeljebb az azt követő munkanapon térítésmentesen köteles teljesíteni.”
+
+(2) Az Szjtv. 1. § (6)–(6b) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(6) Játékkaszinóban és kártyateremben szervezett szerencsejátékban, valamint online kaszinójátékban és távszerencsejátékban nem vehet részt az a személy, akit a bíróság a cselekvőképességét teljesen korlátozó gondnokság alá helyezett, vagy akinek cselekvőképességét a bíróság a szerencsejátékokkal összefüggő jognyilatkozatai tekintetében részlegesen korlátozta. E követelményt a szerencsejáték-szervező a felelős játékszervezés elvének megfelelően, külön jogszabályban meghatározott módon köteles biztosítani.
+
+(6a) Ha a bíróság a személyt cselekvőképességet teljesen korlátozó vagy a szerencsejátékokkal összefüggő jognyilatkozatai tekintetében részlegesen korlátozó gondnokság alá helyezi, az elsőfokú határozatot hozó bíróság e tényről, valamint a határozat jogerőre emelkedésének időpontjáról a jogerő beálltától – másodfokú eljárás esetén az iratoknak az elsőfokú bírósághoz való érkezésétől – számított 8 napon belül értesíti az állami adóhatóságot.
+
+(6b) Az állami adóhatóság a jelentős önkorlátozó nyilatkozatot adó személyekről és a (6) bekezdés szerinti személyekről a külön jogszabályban meghatározottak szerint nyilvántartást vezet (a továbbiakban: játékosvédelmi nyilvántartás). A nyilvántartás célja az e bekezdés szerinti személyek szerencsejátékban történő részvételének korlátozása. A (6) bekezdés szerinti szervező a játékosvédelmi nyilvántartás adatait kizárólag az e bekezdés szerinti személyek szerencsejátékban történő részvételének korlátozása érdekében szerezheti meg, kezelheti és használhatja fel.”
+
+(3) Az Szjtv. 1. § (6d) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+(A játékosvédelmi nyilvántartás tartalmazza)
+
+„a) elkülönítve a jelentős önkorlátozó nyilatkozatot adó személyek, valamint a (6) bekezdés szerinti személyek személyes azonosító adatait (családi és utónév, születési családi és utónév, anyja neve, születési hely és idő, azonosító okmány típusa és száma, lakcím),”
+
+(4) Az Szjtv. 1. §-a a következő (7a)–(7c) bekezdéssel egészül ki:
+
+„(7a) Ha jogszabály eltérően nem rendelkezik, a szervező a szerencsejáték-szervezéssel összefüggő, az e törvény, a felelős játékszervezés részletes szabályairól szóló kormányrendelet, valamint az egyes szerencsejátékok engedélyezésével, lebonyolításával és ellenőrzésével kapcsolatos feladatok végrehajtásáról szóló miniszteri rendelet alapján rendelkezésére álló adatokat az adat keletkezésétől számított 6 évig köteles megőrizni és kérésre az állami adóhatóság részére – papír alapon, elektronikusan vagy adathordozó eszközön – hozzáférhetővé tenni.
+
+(7b) Az (5a) bekezdés b) pontjához kapcsolódó jelentős önkorlátozó nyilatkozat tételével és annak hatósági nyilvántartásával kapcsolatban a sérülékeny személyt igazgatási szolgáltatási díjfizetési kötelezettség nem terheli.
+
+(7c) A felelős játékszervezés részletes szabályairól szóló 329/2015. (XI. 10.) Korm. rendelet 22. § (1) bekezdés b) pont bb) alpontja szerinti feltételt a szerencsejáték szervező a törvény 29/J. § (1) bekezdés b) pontja szerinti szervezet támogatásával is teljesítheti.”
 
 26–27. §
 

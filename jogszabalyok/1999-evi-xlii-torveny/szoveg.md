@@ -12,10 +12,11 @@ Az Országgyűlés– tekintettel a magyar lakosság kedvezőtlen népegészség
 - b) dohányzás: a dohánytermék füstképződéssel járó elégetése;
 - c) közforgalmú intézmény: az érintettek számára közfeladatot, illetőleg közérdekű vagy egyéb szolgáltatást, ellátást (a továbbiakban együtt: szolgáltatás) végző természetes vagy jogi személynek, illetőleg jogi személyiség nélküli szervezetnek a szolgáltatás, illetve az azzal összefüggő tevékenység biztosítására szolgáló létesítménye vagy egyéb eszköze, függetlenül attól, hogy az oda történő belépés a nyilvánosság számára teljesen szabad vagy valamely feltétel teljesítéséhez kötött;
 - d) rendezvény: a gyülekezési jogról szóló 1989. évi III. törvény 2. §-ának (1) bekezdésében meghatározott, valamint gazdasági, kulturális, – nem szabadidős jellegű – sport, vallási, érdekvédelmi céllal, legalább három személy egyidejű jelenlétével létrejött szervezett összejövetel, illetve esemény;
-- e) zárt légterű helyiség: valamely műszaki megoldással környezetétől fizikailag lehatárolt létesítmény, eszköz, amelynek a külső környezetből történő folyamatos légcseréje nem, vagy kizárólag nyílászárók, illetőleg egyéb műszaki berendezés útján biztosított;
+- e) zárt légterű helyiség: valamely műszaki megoldással környezetétől fizikailag lehatárolt létesítmény, eszköz, amelynek a külső környezetből történő folyamatos légcseréje nem, vagy egy oldalának egészét vagy tetejének legfeljebb 1/2-ét kitevő nyílásokkal, nyílászárókkal, vagy mesterséges szellőztető berendezés útján biztosított,
 - f) kombinált figyelmeztetés: az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározottak szerint fényképből vagy egyéb illusztrációból és kiegészítő figyelmeztetés megfelelő szövegéből álló figyelmeztetés;
 - g) egészségvédelmi érdekek képviseletét ellátó társadalmi szervezet: az egyesülési jogról szóló törvény alapján létrehozott egyesület, ha az alapszabályában meghatározott célja dohányzás visszaszorítása, e célnak megfelelően legalább két éve működik, továbbá az ilyen egyesületek szövetsége;
 - h) gyűjtőcsomag: több fogyasztói csomagolási egységet tartalmazó, kiskereskedelmi forgalomban értékesített nagyobb csomagolási egység.
+- i) szállásszolgáltatást nyújtó intézmény: a kereskedelemről szóló 2005. évi CLXIV. törvény 2. § 22. pontja szerinti szálláshely, valamint a munkásszállók, továbbá a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 57. § (2) bekezdés d) pontjában meghatározott bentlakásos intézmény, és az f) pontjában meghatározott egyéb speciális szociális intézmény.
 
 ### A dohánytermékek fogyasztásának alapvető szabályai
 
@@ -41,9 +42,9 @@ Az Országgyűlés– tekintettel a magyar lakosság kedvezőtlen népegészség
 
 (4) A (2) bekezdés a) és b) pontjában foglaltakon túlmenően nyílt légtérben sem jelölhető ki dohányzóhely
 
-- a) közoktatási intézményben,
+- a) köznevelési intézményben,
 - b) gyermekjóléti, gyermekvédelmi intézményben,
-- c) az (5) bekezdésben foglalt kivétellel az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 3. § f) pontja szerinti egészségügyi szolgáltatónál,.
+- c)
 
 (5) A (7)–(9) bekezdésben foglaltak szerint zárt légterű dohányzóhely is kijelölhető
 
@@ -57,6 +58,8 @@ Az Országgyűlés– tekintettel a magyar lakosság kedvezőtlen népegészség
   - ec) a folytatott tevékenység jellegével
 
 összeegyeztethető dohányzóhelyet nem, vagy csak az élet- és vagyonbiztonságot, valamint a nemzetgazdasági érdekeket jelentősen veszélyeztetve lehetne kijelölni.
+
+(5a) Az Eütv. 3. § f) pontja szerinti egészségügyi szolgáltatónál nyílt légtérben csak az egészségügyi szolgáltató területén belül, az egészségügyi szolgáltatást igénybevevők szokásos vagy szükségszerű útvonalától megfelelően elkülönülő, az útvonaltól legalább 10 méter távolságon kívül lehet dohányzóhelyet kialakítani.
 
 (6) A kijelölt dohányzóhelyek e törvényben előírt rendelkezéseknek való megfelelőségét az egészségügyi államigazgatási szerv, tűzvédelmi szempontoknak való megfelelőségét a tűzvédelmi hatóság ellenőrzi.
 
@@ -93,9 +96,9 @@ Az Országgyűlés– tekintettel a magyar lakosság kedvezőtlen népegészség
 
 (7)
 
-(8) A 2. § (4) bekezdés c) pontjában foglaltaktól eltérően, olyan többcélú intézmény esetében, amelyben vagy amelynek területén egészségügyi szolgáltatást is nyújtanak, az (1) bekezdés megfelelően alkalmazandó, azzal, hogy dohányzóhely nyílt légtérben is csak úgy jelölhető ki, ha az az egészségügyi szolgáltatást igénybevevők szokásos vagy szükségszerű útvonalától megfelelően elkülönül.
+(8) Olyan többcélú intézmény esetében, amelyben vagy amelynek területén egészségügyi szolgáltatást is nyújtanak, az (1) bekezdés megfelelően alkalmazandó, azzal, hogy dohányzóhely nyílt légtérben is csak úgy jelölhető ki, ha az az egészségügyi szolgáltatást igénybevevők szokásos vagy szükségszerű útvonalától legalább 10 méterre elkülönül. Az (1) bekezdésben foglaltaktól eltérően ezekben az intézményekben dohányzóhely a közforgalom számára nyitva álló bejárattól számított 10 méteres távolságon belül nem jelölhető ki.
 
-(9) Az (1)–(8) bekezdésben, valamint a 4/A. §-ban meghatározott feltételek biztosításáról a közforgalmú intézmény belső szabályzatában meghatározott személy, ennek hiányában az intézmény vezetője, üzemeltetője, a rendezvény szervezője, a közösségi közlekedési eszköz üzembentartója, a közoktatási intézmény vezetője, illetőleg a munkáltató gondoskodik.
+(9) Az (1)–(8) bekezdésben, valamint a 4/A. §-ban meghatározott feltételek biztosításáról a közforgalmú intézmény belső szabályzatában meghatározott személy, ennek hiányában az intézmény vezetője, üzemeltetője, a rendezvény szervezője, a közösségi közlekedési eszköz üzembentartója, a köznevelési intézmény vezetője, illetőleg a munkáltató gondoskodik.
 
 4/A. § (1) A munkáltató a munkahelyet – külön telephely esetén telephelyenként – a (2)–(3) bekezdésben foglaltak szerint nemdohányzó munkahellyé nyilváníthatja. Ebben az esetben a munkáltató kizárólagos rendelkezése alatt álló létesítményekben, illetve helyiségekben dohányzóhelyet kijelölni nem lehet. A nemdohányzó munkahellyé minősítés tényét jól látható és egyértelmű felirat vagy jelzés alkalmazásával, a munkahelynek a személyforgalom számára nyitva álló valamennyi bejáratánál, valamint a nem kizárólag a munkavállalók által igénybe vett valamennyi helyiségben vagy az ezekhez vezető közlekedőfolyosókon – valamennyi igénybevevő által jól látható módon – fel kell tüntetni.
 
@@ -171,7 +174,7 @@ hozható meg.
 
 (12) Az egészségvédelmi bírság kiszabása nem érinti a jogsértésnek megfelelő, külön jogszabály szerinti jogkövetkezmények alkalmazhatóságát.
 
-(13) A közoktatási intézménynek az e törvény szerint elrendelt dohányzási tilalmat – a tanulói jogviszonyból származó kötelezettség teljesítése, vagy az azzal összefüggő bármely tevékenység során, a közoktatási intézmény, vagy annak feladatkörében működő más intézmény területén – megsértő, 14. életévét betöltött tanulójával szemben a 3. § (1) bekezdése szerinti személy kezdeményezi a külön jogszabály szerinti fegyelmi eljárás lefolytatását.
+(13) A köznevelési intézménynek az e törvény szerint elrendelt dohányzási tilalmat – a tanulói jogviszonyból származó kötelezettség teljesítése, vagy az azzal összefüggő bármely tevékenység során, a köznevelési intézmény, vagy annak feladatkörében működő más intézmény területén – megsértő, 14. életévét betöltött tanulójával szemben a 3. § (1) bekezdése szerinti személy kezdeményezi a külön jogszabály szerinti fegyelmi eljárás lefolytatását.
 
 7/A. § (1) Az 5. és 6. §-ban foglalt rendelkezések betartását a fogyasztóvédelmi hatóság ellenőrzi, és – a fogyasztóvédelemről szóló 1997. évi CLV. törvény (a továbbiakban: Fgytv.) alkalmazásával – eljár azok megsértése esetén.
 

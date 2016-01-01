@@ -99,7 +99,7 @@ Mindezek érdekében – különös tekintettel a jogszabályi feltételeknek me
 - a) a munkahelyen tartózkodó személyek személyazonosságának igazoltatással történő megállapítására,
 - b) a Társadalombiztosítási Azonosító Jel (a továbbiakban: TAJ) használatára.
 
-4/A. § A munkaügyi hatóság kormánytisztviselője hatósági ellenőrzést erre jogosító igazolvány birtokában végezhet. Az igazolvány tartalmazza a munkaügyi hatóság kormánytisztviselőjének nevét, az igazolvány sorszámát és az eljárásra illetékes munkaügyi hatóság megnevezését.
+4/A. §
 
 5. § (1)
 
@@ -228,7 +228,7 @@ jogerős és végrehajtható közigazgatási határozattal megállapította.
 
 (8) A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 57/A. § (2) bekezdése alapján kezelt adatokból a 2. §-ban meghatározott munkaügyi ellenőrzést végző személy – az ellenőrzési tevékenysége keretében – hatósági hozzáférést biztosító kód alkalmazásával, elektronikusan kérhet tájékoztatást.
 
-8/A. § (1) A munkaügyi eljárás határideje az eljárás megindításától számított két hónap a 3. § (1) bekezdésének a), f), g) és k) pontjában meghatározott szabályok megsértése miatt folytatott eljárásokban.
+8/A. § (1) A munkaügyi eljárás határideje az eljárás megindításától számított negyvenöt nap a 3. § (1) bekezdésének a), f), g) és k) pontjában meghatározott szabályok megsértése miatt folytatott eljárásokban.
 
 (2) A munkaügyi ellenőrzés alapján indult eljárásokban vélelmezni kell a tanúnak a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek az adatok zárt kezelésére vonatkozó szabályai szerinti olyan helyzetét, amely alapján őt tanúvallomása miatt súlyosan hátrányos következmény érheti. E rendelkezés megfelelően irányadó arra a természetes személyre is, akinek bejelentése alapján a hatóság az eljárást hivatalból megindította.
 

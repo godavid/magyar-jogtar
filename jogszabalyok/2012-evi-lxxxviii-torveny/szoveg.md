@@ -212,13 +212,15 @@ Az Országgyűlés annak biztosítása érdekében, hogy a forgalomba hozatalra 
 - c) a termék forgalomba hozatalát, reklámozását korlátozni vagy megtiltani, és a tilalom betartásához szükséges kísérő intézkedéseket bevezetni,
 - d) a már forgalomba hozott termék forgalomból való kivonását elrendelni, és előírni az erről való tájékoztatást a b) pontban meghatározott módon,
 - e) elrendelni a termék visszahívását, vagy – ha ez indokolt – a gazdasági szereplőkkel együttműködve megszervezni a termék fogyasztóktól vagy felhasználóktól történő visszahívását és környezetvédelmi szempontok figyelembevételével történő megsemmisítését, valamint ellenőrizni ezek végrehajtását,
-- f) határidő tűzésével a feltárt hibák, hiányosságok megszüntetésére kötelezni a gazdasági szereplőt azzal, hogy a gazdasági szereplő a hibák, hiányosságok megszüntetése érdekében tett intézkedéséről köteles értesíteni a piacfelügyeleti hatóságot,
+- f) határidő tűzésével a feltárt hibák, hiányosságok megszüntetésére kötelezni a gazdasági szereplőt,
 - g) a jogszerű állapot helyreállításáig feltételhez kötni vagy megtiltani a termék forgalmazását, értékesítését,
 - h) bírságot kiszabni.
 
 (3) Jogszabály az abban meghatározott rendelkezés megsértése esetére további jogkövetkezményeket állapíthat meg.
 
 (4) A (2) és (3) bekezdés szerinti jogkövetkezmények együttesen is megállapíthatóak.
+
+(5) A (2) bekezdésben foglalt jogkövetkezmények alkalmazása esetén a piacfelügyeleti hatóság – amennyiben azt az eset körülményeire tekintettel szükségesnek tartja – határidő tűzésével kötelezheti a jogsértő vállalkozást, hogy a hibák, hiányosságok, illetve a jogsértés megszüntetése érdekében tett intézkedésekről a hatóságot értesítse.
 
 16. § (1) A piacfelügyeleti hatóság által alkalmazott jogkövetkezményeknek hatékonynak, arányosnak és kellően visszatartó erejűnek kell lenniük. A bírság összegének meghatározásakor figyelembe kell venni, ha a gazdasági szereplő 3 éven belül megsértette e törvény, valamint más jogszabályok ugyanazon rendelkezéseit.
 
@@ -230,6 +232,8 @@ Az Országgyűlés annak biztosítása érdekében, hogy a forgalomba hozatalra 
 (3) A (2) bekezdés b) pontjában meghatározott esetben a piacfelügyeleti hatóság minden esetben bírságot szab ki, ha a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény eltérően nem rendelkezik.
 
 (4) Ha a laboratóriumi vizsgálat, a megfelelőségértékelő szervezet általi vizsgálat vagy hatóság mérése céljából mintavételezett termék nem megfelelőnek bizonyul, akkor a vizsgálat költségeit a gyártó, az importőr vagy az a forgalmazó, amelynél a terméket vizsgálat alá vonták, köteles megfizetni.
+
+(4a) A (4) bekezdés szerinti eljárási költséget a jogsértésért felelős vállalkozás viseli, ha a minta az előírt követelményeknek nem felel meg.
 
 (5) A piacfelügyeleti hatóság együttműködik a gazdasági szereplőkkel annak érdekében, hogy megakadályozzák a veszélyes termékek használatából eredő károk bekövetkezését, valamint csökkentsék annak mértékét. A piacfelügyeleti hatóság hivatalból köteles minden olyan, a fogyasztók és felhasználók tájékoztatására és védelmére irányuló ideiglenes intézkedést megtenni, amely a fogyasztók és felhasználók életének, egészségének és biztonságának megóvásához szükséges.
 
@@ -254,7 +258,7 @@ Az Országgyűlés annak biztosítása érdekében, hogy a forgalomba hozatalra 
 
 (3) A piacfelügyeleti hatóság az (1) bekezdés alapján közzétett kivonatot a közzétételtől számított hat hónap elteltével vagy annak okafogyottá válásakor honlapjáról eltávolítja.
 
-(4) A piacfelügyeleti hatóság piacfelügyeleti eljárásában az ügyintézési határidő 90 nap, amelyet az eljáró hatóság vezetője annak letelte előtt indokolt esetben egy alkalommal, legfeljebb harminc nappal meghosszabbíthat. Az ügyintézési határidőbe nem számít bele a 18. § szerinti tárgyalás időtartama.
+(4) A piacfelügyeleti hatóság piacfelügyeleti eljárásában az ügyintézési határidő 70 nap. Az ügyintézési határidőbe nem számít bele a 18. § szerinti tárgyalás időtartama.
 
 (5) A piacfelügyeleti hatóság eljárása során – e törvény eltérő rendelkezése hiányában – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
 
@@ -396,7 +400,8 @@ Az Országgyűlés annak biztosítása érdekében, hogy a forgalomba hozatalra 
 - a) a piacfelügyeleti hatóságok körét, valamint a termékek piacfelügyeleti ellenőrzésére vonatkozó részletes szabályokat;
 - b) az importtermékek ellenőrzésével kapcsolatos részletes szabályokat;
 - c) a megjelenésükben másnak látszó és ezáltal a fogyasztó egészségét vagy biztonságát veszélyeztető termékek forgalmazására és ellenőrzésére, továbbá az alkalmazható jogkövetkezményekre vonatkozó részletes szabályokat, valamint
-- d) a felvonók és mozgólépcsők létesítésével összefüggő engedélyezésre, üzemeltetésére, ellenőrzésére, az eljáró hatóság kijelölésére, feladataira és eljárására, a felvonó szakértői, tervezői és ellenőri tevékenységre, a felvonók és mozgólépcsők (mozgójárdák), valamint az ezekhez kapcsolódó intézkedések nyilvántartására vonatkozó részletes szabályokat
+- d) a felvonók és mozgólépcsők létesítésével összefüggő engedélyezésre, üzemeltetésére, ellenőrzésére, az eljáró hatóság kijelölésére, feladataira és eljárására, a felvonó szakértői, tervezői és ellenőri tevékenységre, a felvonók és mozgólépcsők (mozgójárdák), valamint az ezekhez kapcsolódó intézkedések nyilvántartására vonatkozó részletes szabályokat,
+- e) a műszaki-biztonsági hatósági felügyelet alatt álló berendezések létesítésének tervezésére, létesítésére, üzembe helyezésére, üzemeltetésére, átalakítására, javítására, időszakos ellenőrzésére és megszüntetésére vonatkozó műszaki-biztonsági irányítási rendszer követelményeit és a hatósági jóváhagyás és felügyelet feltételeit
 
 rendeletben határozza meg.
 

@@ -98,7 +98,7 @@ meghatalmazottként eljárhat, de az adós személyesen köteles megtenni az e t
   - b) az adós mint kötelezett vagy az adós kötelezettségéért más személy óvadékot nyújtott,
   - c) az adós mint kötelezett vagyontárgyán vagy vagyoni értékű jogán biztosítéki célú vételi jogot, biztosítéki célú engedményezést kötöttek ki.
 - 13. bírósági adósságrendezés időtartama: a bírósági adósságrendezés kezdő időpontjától a bírósági adósságrendezés záró időpontjáig tartó időszak, e két időpontot is beleértve,
-- 14. Családi Csődvédelmi Szolgálat: az Igazságügyi Hivatalnál és a kormányhivatalnál az e törvényben és végrehajtási rendeleteiben meghatározott feladatok ellátására felállításra kerülő szervezeti egység,
+- 14. Családi Csődvédelmi Szolgálat: az Igazságügyi Hivatalnál és a fővárosi és megyei kormányhivataloknál (a továbbiakban: kormányhivatal) az e törvényben és végrehajtási rendeleteiben meghatározott feladatokat ellátó szervezeti egység,
 - 15. családi vagyonfelügyelő: az adósságrendezési eljárásban közreműködő fizetésképtelenségi szakértő, aki a Családi Csődvédelmi Szolgálatot magában foglaló kormányhivatallal áll munkavégzésre irányuló tartós jogviszonyban,
 - 16. egyedül élő: egyszemélyes háztartásban élő személy,
 - 17. egyéb hitelező: aki
@@ -285,7 +285,7 @@ részt vett, és a megállapodás megkötésére, illetve a bírósági adóssá
 
 #### 6. Családi Csődvédelmi Szolgálat, családi vagyonfelügyelő
 
-11. § (1) A Családi Csődvédelmi Szolgálat központi szerve az Igazságügyi Hivatal szervezeti egysége, a Családi Csődvédelmi Szolgálat területi szervei a kormányhivatalokban felállításra kerülő szervezeti egységek.
+11. § (1) A Családi Csődvédelmi Szolgálat központi szerve az Igazságügyi Hivatal szervezeti egysége, a Családi Csődvédelmi Szolgálat területi szervei a kormányhivatalok.
 
 (2) A Családi Csődvédelmi Szolgálat
 

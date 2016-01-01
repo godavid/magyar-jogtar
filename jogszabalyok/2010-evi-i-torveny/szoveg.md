@@ -145,7 +145,7 @@ töröl.
 
 11. § (1) Ha nem állapítható meg, hogy az anyakönyvi esemény bekövetkezésének időpontjában melyik anyakönyvvezető lett volna illetékes, vagy az eredetileg vezetett anyakönyvek külföldön vannak, az anyakönyvi bejegyzés teljesítésére a hazai anyakönyvezést végző hatóság az illetékes.
 
-(2) A házassági névviselési forma módosítására irányuló eljárás lefolytatására a házasságkötést nyilvántartó anyakönyvvezető illetékes.
+(2) A házassági névviselési forma módosítására irányuló eljárás lefolytatására – amennyiben a házassági anyakönyvi bejegyzés adatai az elektronikus anyakönyvben korábban már rögzítésre kerültek – bármely anyakönyvvezető, egyéb esetben a házasságkötést nyilvántartó anyakönyvvezető illetékes.
 
 (3) A családi név korrekciójára irányuló eljárás lefolytatására bármelyik anyakönyvvezető illetékes.
 
@@ -184,13 +184,17 @@ rögzíti az apai elismerő nyilatkozatok nyilvántartásában.
 
 14. § (1) Az anyakönyvi eljárásban a bejegyzendő adatokat, illetve a házasság megkötésének, valamint a bejegyzett élettársi kapcsolat létesítésének törvényes feltételeit közokirattal vagy teljes bizonyító erejű magánokirattal kell bizonyítani.
 
+(1a) Az anyakönyvi eljárásban a hivatásos konzuli tisztviselő által jogszabályban meghatározott elektronikus úton az anyakönyvbe bejegyzésre jogosult részére továbbított, e törvény rendelkezéseinek megfelelő okiratot az ellenkező bizonyításáig az eredeti papír alapú okirattal mindenben megegyezőnek kell tekinteni.
+
 (2) Okirat bemutatása helyett személyes nyilatkozat tehető, ha az okirat a központi anyakönyvi szerv által kiadott írásbeli nyilatkozat szerint nem szerezhető be külföldről. A központi anyakönyvi szerv a nyilatkozat megtétele előtt a külpolitikáért felelős miniszternek vagy az okiratot kiállító állam Magyarországra akkreditált külképviseletének az állásfoglalását kérheti.
 
-(3) A (3a) és (3b) bekezdésben meghatározott kivétellel a külföldön kiállított okirat – ha nemzetközi szerződésből, illetve viszonossági gyakorlatból más nem következik – a magyar törvény szerinti bizonyító erővel csak akkor rendelkezik, ha azt a hivatásos konzuli tisztviselő diplomáciai felülhitelesítéssel látta el. A nem magyar nyelven kiállított okirat – ha az ügyfajtára vonatkozó jogszabály másként nem rendelkezik – csak hiteles magyar fordítással ellátva fogadható el.
+(3) A (3a) és (3b) bekezdésben meghatározott kivétellel, valamint az (1a) bekezdésben meghatározott okirat kivételével a külföldön kiállított okirat – ha nemzetközi szerződésből, illetve viszonossági gyakorlatból más nem következik – a magyar törvény szerinti bizonyító erővel csak akkor rendelkezik, ha azt a hivatásos konzuli tisztviselő diplomáciai felülhitelesítéssel látta el.
 
-(3a) Ha az okirat kiállításának helye szerinti államban nem működik magyar külképviselet, vagy a magyar külképviselet diplomáciai felülhitelesítési tevékenységet nem végez, a külföldi okirat diplomáciai felülhitelesítés nélkül is elfogadható.
+(3a) Ha az okirat kiállításának helye szerinti államban nem működik magyar külképviselet, vagy a magyar külképviselet diplomáciai felülhitelesítési tevékenységet vagy az (1a) bekezdésben meghatározott tevékenységet nem végez, a külföldi okirat diplomáciai felülhitelesítés nélkül is elfogadható.
 
 (3b) A külföldi állam Magyarországon működő külképviselete által kiállított anyakönyvi okirat diplomáciai felülhitelesítés nélkül is elfogadható.
+
+(3c) A nem magyar nyelven kiállított okirat – ha az ügyfajtára vonatkozó jogszabály másként nem rendelkezik – csak hiteles magyar fordítással ellátva fogadható el. Az (1a) bekezdésben meghatározott esetben a hivatásos konzuli tisztviselő által jogszabályban meghatározott elektronikus úton a hazai anyakönyvezést végző hatóság részére továbbított okirathoz nem szükséges fordítás, ha az okiratot az angol, a német vagy a francia nyelvek valamelyikén állították ki. Az (1a) bekezdésben meghatározott más esetben a hivatásos konzuli tisztviselő hiteles magyar fordítás helyett hivatalos, kivonatolt fordítást továbbít jogszabályban meghatározott elektronikus úton az anyakönyvbe bejegyzésre jogosult részére a külföldi okirat anyakönyvezés szempontjából lényegi tartalmáról.
 
 (4) Ha a bemutatott okirat adatainak helyessége iránt alapos kétség merül fel, az ügyfél adatait az anyakönyvben ellenőrizni kell. Ha a bemutatott okiratokban valamely adat eltér, az anyakönyvi bejegyzés kijavításáig az anyakönyvi eljárásban az anyakönyvben szereplő adat az irányadó.
 
@@ -229,6 +233,10 @@ a hazai anyakönyvezést végző hatóság az igazságügyért felelős miniszte
 (5) Ha valakinek több állampolgársága van, és ezek közül az egyik állampolgársága magyar, ezt a személyt az anyakönyvi eljárás tekintetében magyar állampolgárnak kell tekinteni.
 
 (6) Ha valakinek több nem magyar állampolgársága van, ezek közül csak az az állampolgársága anyakönyvezhető, amely állam területén a lakóhelye van, ha több állam területén van lakóhelye, az az állampolgárság, amely állammal a kapcsolata a legszorosabb.
+
+### Az eljárás felfüggesztése
+
+16/A. § Ha az anyakönyvi bejegyzés teljesítése, illetve a névváltoztatási eljárásban hozott döntés olyan, különösen az adatok megállapítása, elektronikus anyakönyvben történő rögzítése, családi jogállás rendezése, szülői felügyeleti jog megvonása, korlátozása, magyar állampolgárság fennállásának megállapítása, külföldön történt anyakönyvi események hazai anyakönyvezése vonatkozásában felmerülő kérdés előzetes elbírálásától függ – amelyben az eljárás más szerv hatáskörébe tartozik, vagy ugyanannak a hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem dönthető el – a hatóság az eljárást felfüggeszti.
 
 ### II. Fejezet — A HÁZASSÁGKÖTÉS
 
@@ -500,7 +508,7 @@ a hazai anyakönyvezést végző hatóság az igazságügyért felelős miniszte
 
 48. § (1) A házassági névviselési forma az érintett kérelmére módosítható.
 
-(2) A házassági névviselési forma módosítása iránti kérelmet bármely anyakönyvvezetőnél vagy bármely hivatásos konzuli tisztviselőnél személyesen lehet előterjeszteni. A hivatásos konzuli tisztviselő az első diplomáciai futárral köteles megküldeni a kérelmet a házasságkötést nyilvántartó anyakönyvvezetőnek vagy a hazai anyakönyvezést végző hatóságnak. Ha a házassági névviselési forma módosítása iránti kérelem elbírálása a hazai anyakönyvezést végző hatóság hatáskörébe tartozik, az anyakönyvvezető a kérelmet haladéktalanul megküldi a hazai anyakönyvezést végző hatóságnak.
+(2) A házassági névviselési forma módosítása iránti kérelmet bármely anyakönyvvezetőnél vagy bármely hivatásos konzuli tisztviselőnél személyesen lehet előterjeszteni. A hivatásos konzuli tisztviselő köteles továbbítani a kérelmet az illetékes anyakönyvvezetőnek vagy a hazai anyakönyvezést végző hatóságnak. Ha a házassági névviselési forma módosítása iránti kérelem elbírálása a hazai anyakönyvezést végző hatóság hatáskörébe tartozik, az anyakönyvvezető a kérelmet haladéktalanul megküldi a hazai anyakönyvezést végző hatóságnak.
 
 (3) Ha a kérelmező a házassági névviselési forma módosításával érintett házasságát külföldön kötötte, a kérelem elbírálásának feltétele a házasság hazai anyakönyvezése.
 
@@ -617,7 +625,7 @@ a hazai anyakönyvezést végző hatóság az igazságügyért felelős miniszte
 
 (2) Ha a korrekcióval érintett anyakönyvi esemény külföldön történt, az eljárás feltétele a hazai anyakönyvezés.
 
-(3) Az eljárás lefolytatásához a kérelmezőnek igazolnia kell, hogy a saját vagy felmenőjének születési anyakönyvi bejegyzése a betűjeles névalakot tartalmazta.
+(3) Az eljárás lefolytatásához a kérelmezőnek igazolnia kell, hogy a saját vagy felmenőjének születési anyakönyvi bejegyzése a betűjeles névalakot tartalmazta. Ha a kérelmező nem rendelkezik a szükséges anyakönyvi okirattal, annak beszerzéséről – az ahhoz szükséges adatok közlése esetén – az anyakönyvvezető gondoskodik.
 
 (4) A szülő családi nevének korrekciója a szülők erre irányuló kérelmére kiterjed a szülő családi nevét viselő cselekvőképtelen kiskorú gyermek családi nevére is. A szülő családi nevének korrekciója a szülők erre irányuló kérelmére és korlátozottan cselekvőképes kiskorú hozzájárulása esetén terjed ki a szülő családi nevét viselő korlátozottan cselekvőképes kiskorú gyermek családi nevére is.
 
@@ -679,7 +687,7 @@ a hazai anyakönyvezést végző hatóság az igazságügyért felelős miniszte
 
 ### Bejelentés
 
-61. § (1) A születést és a halálesetet anyakönyvezés céljából – legkésőbb az azt követő első munkanapon – az illetékes anyakönyvvezetőnél be kell jelenteni. A bejelentéssel egyidejűleg a bejelentő közli és igazolja mindazokat az adatokat, amelyek az anyakönyvezéshez szükségesek. A bejelentésről az 1. melléklet szerinti adattartalommal jegyzőkönyvet kell felvenni.
+61. § (1) A születést és a halálesetet anyakönyvezés céljából – legkésőbb az azt követő első munkanapon – az illetékes anyakönyvvezetőnél be kell jelenteni. A bejelentéssel egyidejűleg a bejelentő közli és igazolja – az anyakönyvvezető által beszerzendő okiratok kivételével – mindazokat az adatokat, amelyek az anyakönyvezéshez szükségesek. A bejelentésről az 1. melléklet szerinti adattartalommal jegyzőkönyvet kell felvenni.
 
 (2) A születés tényét és időpontját szülész-nőgyógyász szakorvos, a haláleset tényét és időpontját orvos által kiállított bizonyítvány igazolja. A születés tényét tervezett intézeten kívüli szülés esetén az intézeten kívüli szülésről szóló kormányrendeletben meghatározott felelős személy igazolja.
 
@@ -748,9 +756,14 @@ megismerni.
 
 (1b) Magyar állampolgár külföldön történt születésének, házasságkötésének, bejegyzett élettársi kapcsolata létesítésének hazai anyakönyvezésére irányuló kérelemhez csatolni kell – ha a kérelmező a személyiadat- és lakcímnyilvántartásban nem szerepel – a személyiadat- és lakcímnyilvántartásba vételhez szükséges iratokat. Az anyakönyvvezető vagy a hivatásos konzuli tisztviselő ellenőrzi, hogy a kérelmező a személyiadat- és lakcímnyilvántartásban szerepel-e.
 
-(2) A hazai anyakönyvezési eljárás ügyintézési határideje két hónap.
+(2) A hazai anyakönyvezési eljárás ügyintézési határideje 40 nap. A hazai anyakönyvezési eljárás ügyintézési határideje 8 nap, ha a szükséges okiratok hiánytalanul rendelkezésre állnak, és a 14/A. § alapján az igazságügyért felelős miniszter véleményének kérése nem szükséges, valamint
 
-(3) Ha a kérelem hiányosan érkezik, a hiánypótlási felhívást a kérelem beérkezésétől számított tizenöt napon belül kell kibocsátani.
+- a) születés anyakönyvezése esetén mindkét szülő magyar állampolgár, a gyermek a házasságukból származik, és a szülők születésének és házasságuknak az anyakönyvezésére korábban sor került,
+- b) születés anyakönyvezése esetén az anya magyar állampolgár és születésének az anyakönyvezésére korábban sor került, továbbá az apa személye nem ismert,
+- c) házasságkötés anyakönyvezése esetén a házasuló felek magyar állampolgárok és születésüknek az anyakönyvezésére korábban sor került, vagy
+- d) külföldön történt haláleset hazai anyakönyvezésére kerül sor.
+
+(3)
 
 (4) A hazai anyakönyvezés iránti kérelemhez csatolni kell a külföldi anyakönyvi okiratot. Ha a hazai anyakönyvezést végző hatóságnak hivatalos tudomása van arról, hogy az okirat külföldről nem szerezhető be, vagy az anyakönyvezés külföldön nem történt meg, az anyakönyvi esemény tanúsítására alkalmas egyéb okiratot kell csatolni. Kétség esetén az eljáró hatóság a központi anyakönyvi szerv útján a külpolitikáért felelős miniszternek vagy az adott állam Magyarországra akkreditált külképviseletének állásfoglalását kéri arról, hogy az okirat külföldről nem szerezhető be, vagy az anyakönyvezés külföldön nem történt meg.
 
@@ -1282,6 +1295,8 @@ foglalt adatait tartja nyilván.
 (2) Ha az (1) bekezdésben meghatározott szervek nem ismerik az adatigényléssel érintett személynek a 84. § (2) bekezdés a) pontjában foglalt adatait, részükre adatigénylés alapján a 84. § (2) bekezdés a) pontjában foglalt feltételek hiányában is továbbítható adat az (1) bekezdésben foglalt nyilvántartásokból.
 
 (3) Az okirat-nyilvántartásban kezelt adatok teljes körét jogosult közvetlen hozzáféréssel átvenni a személyazonosság igazolására alkalmas hatósági igazolvány kiadása iránti eljárás lefolytatása céljából a személyazonosság igazolására alkalmas hatósági igazolványt kiállító hatóság.
+
+(4) A személyazonosító igazolványt kiállító hatóság a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény 16. § (3) bekezdése alapján kérelmezett személyazonosító igazolvány kiadása céljából, az elektronikus anyakönyvből közvetlen hozzáféréssel jogosult átvenni a nemzetiséghez tartozó személy nevét nemzetiségi nyelven.
 
 81/E. § (1) A 81/B. § (1) bekezdés a) pontjában meghatározott célból a külpolitikáért felelős miniszter, a 81/C. § (1) bekezdés d) pontjában meghatározott célokból – a hagyatéki eljárás lefolytatása kivételével – a közjegyző, és a 81/D. § (1) bekezdésében meghatározott célokból az ott felsorolt szervek az örökbefogadott személynek csak az örökbefogadás következtében változatlan, valamint az örökbefogadás tényére utaló adatok kivételével az örökbefogadás következtében megváltozott adatait ismerhetik meg.
 

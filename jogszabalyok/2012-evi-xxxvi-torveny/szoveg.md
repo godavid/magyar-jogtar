@@ -1176,7 +1176,7 @@ az országgyűlési bizottság javasolhatja a képviselő kizárását a bizotts
 - b) a honvédelemmel foglalkozó állandó bizottság tagja a bizottság döntése alapján, személyi biztonsági tanúsítvány, titoktartási nyilatkozat és felhasználói engedély nélkül jogosult a bizottságnak az Alaptörvényben, a honvédelemről szóló törvényben és a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott feladatai ellátása érdekében elengedhetetlenül szükséges minősített adat felhasználására,
 - c) a nemzetbiztonsággal foglalkozó állandó bizottság tagja a bizottság döntése alapján, felhasználói engedély nélkül jogosult a bizottságnak a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott feladatai ellátása érdekében elengedhetetlenül szükséges minősített adat felhasználására.
 
-(4) A képviselői igazolvány valamennyi közigazgatási szervhez, valamint a közintézetekhez és közintézményekhez belépésre jogosít. A képviselő – a feladat- és hatáskörrel rendelkező miniszter által szabályozott módon – jogosult a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, a rendvédelmi szervek és a Nemzeti Adó- és Vámhivatal vámszerve működésére szolgáló területre is belépni. E jogosultság gyakorlása nem eredményezheti az érintett szervek rendeltetésszerű működésének aránytalan sérelmét.
+(4) A képviselői igazolvány valamennyi közigazgatási szervhez, valamint a közintézetekhez és közintézményekhez belépésre jogosít. A képviselő – a feladat- és hatáskörrel rendelkező miniszter által szabályozott módon – jogosult a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, a rendvédelmi szervek és a vámhatóság működésére szolgáló területre is belépni. E jogosultság gyakorlása nem eredményezheti az érintett szervek rendeltetésszerű működésének aránytalan sérelmét.
 
 ### XI. Fejezet — A KÉPVISELŐI MEGBÍZATÁS MEGSZŰNÉSE
 
@@ -1670,7 +1670,7 @@ szerinti, illetménykiegészítéssel növelt és a töredékszámításokat is 
 
 (3) Felhatalmazást kap a rendvédelmi szervet irányító miniszter, hogy az irányítása alá tartozó rendvédelmi szervek működésére szolgáló területre a képviselők belépésének szabályait rendeletben állapítsa meg.
 
-(4) Felhatalmazást kap a Nemzeti Adó- és Vámhivatal felügyeletére kijelölt miniszter, hogy a Nemzeti Adó- és Vámhivatal vámszerve működésére szolgáló területre a képviselők belépésének szabályait rendeletben állapítsa meg.
+(4) Felhatalmazást kap a Nemzeti Adó- és Vámhivatalt irányító miniszter, hogy a vámhatóság működésére szolgáló területre a képviselők belépésének szabályait rendeletben állapítsa meg.
 
 (5) Felhatalmazást kap a rendészetért felelős miniszter, hogy a házelnök véleményének kikérésével rendeletben szabályozza
 

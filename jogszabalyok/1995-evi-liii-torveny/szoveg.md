@@ -925,7 +925,7 @@ tarthatók nyilván.
 
 (4) Törvény a gyorsforgalmi utak, valamint a Vásárhelyi-terv továbbfejlesztése keretében megvalósuló árvízvédelmi létesítmények tervezésével, építésével összefüggő környezethasználat esetében a hatósági engedélyezésre eltérő szabályokat állapíthat meg.
 
-(5) Ha az (1) bekezdés a) és b) pontjának hatálya alá tartozó környezethasználathoz más jogszabály által meghatározott létesítési, illetve működési engedélyezési eljárás is szükséges, az engedély akkor adható meg, ha a környezethasználó környezetvédelmi, illetve egységes környezethasználati engedéllyel rendelkezik. A létesítési (építési), illetve működési (használatbavételi) engedély a környezetvédelmi, illetve egységes környezethasználati engedélyben foglaltaktól nem térhet el.
+(5) Ha az (1) bekezdés a) és b) pontjának hatálya alá tartozó környezethasználathoz más jogszabály által meghatározott létesítési, illetve működési engedélyezési eljárás is szükséges, az engedély akkor adható meg, ha a környezethasználó környezetvédelmi, illetve egységes környezethasználati engedéllyel rendelkezik. A környezetvédelmi, illetve egységes környezethasználati engedély megszerzéséig a környezethasználathoz más jogszabály által meghatározott létesítési, illetve működési engedélyezési eljárást fel kell függeszteni. A létesítési (építési), illetve működési (használatbavételi) engedély a környezetvédelmi, illetve egységes környezethasználati engedélyben foglaltaktól nem térhet el.
 
 (6) Ha jogszabály a környezethasználattal összefüggő elvi engedélyezési eljárás lefolytatását írja elő, akkor az ügyfél kérelme alapján az elvi engedélyezési eljárás – külön eljárás lefolytatása nélkül – az (1) bekezdés a), illetve b) pontja szerinti eljárás keretében is lefolytatható.
 
@@ -937,7 +937,7 @@ tarthatók nyilván.
 
 67. § (1) Előzetes vizsgálatot kell lefolytatni, ha a tervezett tevékenység a környezetvédelmi hatóság döntésétől függően környezeti hatásvizsgálat köteles, továbbá ha az előzetes vizsgálatot törvény írja elő.
 
-(2) A környezetvédelmi hatóság az előzetes vizsgálat alapján hozott határozatát az előzetes vizsgálati eljárás iránti kérelem hatósághoz történő megérkezését követő naptól számított negyvenöt napon belül hozza meg, ha az ügyben közmeghallgatás tartása szükséges, az ügyintézési határidő két hónap. Országhatáron átterjedő jelentős környezeti hatással kapcsolatos, jogszabályban meghatározott nemzetközi eljárás időtartama az ügyintézési határidőbe nem számít be.
+(2) A környezetvédelmi hatóság az előzetes vizsgálat alapján hozott határozatát az előzetes vizsgálati eljárás iránti kérelem hatósághoz történő megérkezését követő naptól számított harminc napon belül hozza meg, ha az ügyben közmeghallgatás tartása szükséges, az ügyintézési határidő negyvenöt nap. Országhatáron átterjedő jelentős környezeti hatással kapcsolatos, jogszabályban meghatározott nemzetközi eljárás időtartama az ügyintézési határidőbe nem számít be.
 
 (3) A környezethasználó előzetes konzultációt kezdeményezhet a környezetvédelmi hatóságnál, ha a tervezett tevékenység nem a környezetvédelmi hatóság döntésétől függően környezeti hatásvizsgálat köteles, vagy ha kizárólag egységes környezethasználati engedélyezési eljárás köteles.
 
@@ -1162,9 +1162,27 @@ közös szabályai
 
 (3) A környezetvédelmi hatóság részére a környezetvédelmi engedély és az egységes környezethasználati engedély iránti kérelmet, illetve azoknak a 69. § (2) bekezdés és a 70. § (2) bekezdés szerinti jogszabályban meghatározott mellékletét egy példányban elektronikus adathordozón is be kell nyújtani, amelyet a környezetvédelmi hatóság elektronikus úton közzétesz.
 
-91. § (1) A környezetvédelmi engedély megszerzésére, továbbá a működési engedély kiadására irányuló eljárásban az ügyintézési határidő legfeljebb három hónap.
+91. § (1) A környezetvédelmi engedély megszerzésére, továbbá a működési engedély kiadására irányuló eljárásban az ügyintézési határidő hetven nap.
 
-(2) Ha a környezetvédelmi, valamint a vízvédelmi hatóság eljárásában környezetvédelmi, természetvédelmi vagy tájvédelmi szakkérdésben szakértő kirendelése szükséges, a 92. § szerinti szakértőt kell kirendelni.
+(2) Az egységes környezethasználati engedély megszerzésére irányuló eljárásban – a (3) bekezdésben meghatározott kivétellel – az ügyintézési határidő hetven nap.
+
+(3) Az egységes környezethasználati engedély kormányrendeletben meghatározott határidőn belül történő felülvizsgálatára irányuló eljárásban az ügyintézési határidő negyvenöt nap.
+
+(4) A Kormány rendeletében meghatározott összevont eljárásban az ügyintézési határidő három hónap.
+
+(5) A környezetvédelmi szakhatóság a szakhatósági állásfoglalását a megkeresés beérkezését követő naptól számított huszonegy napon belül köteles megadni. A szakhatósági állásfoglalás megadására tizenöt nap áll rendelkezésre, ha az eljáró hatóság a sürgősséget megkeresésében megindokolja.
+
+(6) A környezetvédelmi hatóság által az előzetes vizsgálati eljárásban és a (3) bekezdésben meghatározott eljárásban a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+
+91/A. § (1) A külön jogszabály szerinti kármentesítési eljárás során a kivizsgálást – a kockázat mérlegelése alapján – a lehető leghamarabb meg kell kezdeni és hetven napon belül le kell folytatni.
+
+(2) A külön jogszabály szerinti kármentesítési eljárás során a környezetvédelmi hatóság negyvenöt napon belül dönt és határozatot hoz
+
+- a) a tényfeltárási záródokumentáció elbírálásáról, valamint a szennyezettséggel, károsodással kapcsolatos további feladatokról,
+- b) a kármentesítési beavatkozás záródokumentációjának elfogadásáról,
+- c) a kármentesítési monitoring záródokumentációjának elfogadásáról és a kármentesítési intézkedések befejezéséről.
+
+(3) A (2) bekezdés szerinti eljárásban a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
 
 ### Szakértői tevékenység
 
@@ -1185,14 +1203,7 @@ adja ki.
 
 (4a) A (4) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-(5) A környezetvédelmi, természetvédelmi és tájvédelmi szakértői tevékenység engedélyezése iránti kérelem benyújtásával egyidejűleg a kérelmező hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, és nem áll a környezetvédelmi, természetvédelmi és tájvédelmi szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a (2) bekezdés szerinti hatóság vagy kamara részére – annak a környezetvédelmi, természetvédelmi és tájvédelmi szakértői tevékenység engedélyezése iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a (2) bekezdés szerinti hatóság vagy a kamara a (6) bekezdésben meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől.
-
-(6) A (2) bekezdés szerinti hatóság vagy a kamara a környezetvédelmi, természetvédelmi és tájvédelmi szakértői tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a környezetvédelmi, természetvédelmi és tájvédelmi szakértő büntetlen előéletű-e, és nem áll-e a környezetvédelmi, természetvédelmi és tájvédelmi szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából a (2) bekezdés szerinti hatóság vagy a kamara adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a környezetvédelmi, természetvédelmi és tájvédelmi szakértő büntetlen előéletű-e, valamint, hogy a környezetvédelmi, természetvédelmi és tájvédelmi szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
-
-(7) Az (5) és (6) bekezdés alapján megismert személyes adatokat a (2) bekezdés szerinti hatóság vagy a kamara
-
-- a) a környezetvédelmi, természetvédelmi és tájvédelmi szakértői tevékenység engedélyezése iránti eljárás jogerős befejezéséig,
-- b) a környezetvédelmi, természetvédelmi és tájvédelmi szakértő nyilvántartásba vétele esetén a hatósági ellenőrzés időtartamára vagy a nyilvántartásból való törlésre irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
+(5)–(7)
 
 ### Közmeghallgatás
 

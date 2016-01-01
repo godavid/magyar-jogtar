@@ -251,7 +251,7 @@ Az Országgyűlés – az Európai Unió interoperabilitási stratégiai céljai
 
 (4) Azok a nyilvántartók, akik a törvény hatálybalépésekor nyilvántartással rendelkeznek, a 10. § szerinti bejelentést legkésőbb az e törvény hatálybalépését követő tizenkettedik hónap első napjáig kötelesek megtenni.
 
-18/A. § A számítógépes ingatlan-nyilvántartási rendszer kezelésére, működtetésére feladat- és hatáskörrel rendelkező földmérési és térinformatikai államigazgatási szerv a központi címregiszter felállítása érdekében az ahhoz szükséges 2014. december 31. napján hatályos ingatlanadatok, az ingatlan-nyilvántartási azonosító kód és a címkoordináták egyszeri – szükség szerint ütemezetten történő – ingyenes átadására köteles a központi címregiszter működtetéséért felelős szerv részére. Az adatátadásnak legkésőbb 2015. december 31. napjáig kell megtörténnie.
+18/A. §
 
 #### 15. Hatályon kívül helyező rendelkezések
 

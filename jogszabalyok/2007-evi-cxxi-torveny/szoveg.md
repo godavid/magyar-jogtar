@@ -16,7 +16,7 @@ egyes szociális tárgyú törvények módosításáról
 
 81. § (1) Az e törvény hatálybalépésekor működő megyei, egyházi, regionális és országos módszertani intézmények kijelölése 2008. június 30-áig marad érvényben, a 2008. január 1-je és június 30-a között lejáró kijelölések 2008. június 30-áig meghosszabbodnak. 2008. január 1-je és június 30-a közötti időtartamra új módszertani intézmény nem jelölhető ki, ebben az időszakban a módszertani intézmények működésére a 2007. december 31-én hatályos jogszabályi rendelkezéseket kell alkalmazni.
 
-(2) Az Szt. 37/B. § (1) bekezdésének – e törvény 12. §-ának (2) bekezdésével megállapított – bd) alpontját csak a törvény hatálybalépését követően született gyermekekre tekintettel fennálló gyermekgondozási segélyre való jogosultság esetében kell alkalmazni.
+(2)
 
 (3) Az e törvény hatálybalépésekor jelzőrendszeres házi segítségnyújtásra működési engedéllyel rendelkező szociális szolgáltatóknak, intézményeknek az Szt. – e törvény 27. §-ával megállapított – 65. §-ának (1) bekezdésében foglalt feltételnek 2008. december 31-éig kell megfelelniük.
 

@@ -204,7 +204,7 @@ kell sorolni.
 
 (2) Az (1) bekezdés szerinti rezidens felett a közalkalmazotti jogviszony létesítésére és megszüntetésére, az illetmény és a munkakör megállapítására, valamint a munkarend meghatározására irányuló munkáltatói jogköröket a szakorvosképzésért felelős egészségügyi államigazgatási szerv vezetője gyakorolja. A rezidens felett az egyéb munkáltatói jogokat – e törvény vagy a felek eltérő rendelkezése hiányában – a szakorvosképzésért felelős egészségügyi államigazgatási szerv által a rezidens részére a munkavégzés helyeként kijelölt egészségügyi szolgáltató vezetője gyakorolja a (3) bekezdésben foglaltakra figyelemmel.
 
-(3) Ahol a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) vagy a Kjt. munkáltatóról rendelkezik, azon a (2) bekezdés szerinti egészségügyi szolgáltatót is érteni kell, figyelembe véve az intézményvezető munkáltatói jogainak e törvény szerinti korlátozását.
+(3) Ahol jogszabály munkáltatóról rendelkezik, azon a (2) bekezdés szerinti egészségügyi szolgáltatót is érteni kell, figyelembe véve az intézményvezető munkáltatói jogainak e törvény szerinti korlátozását.
 
 (4) A Kormány a rezidensek foglalkoztatása tekintetében a III. Fejezetben foglaltaktól a rezidensek számára kedvezőbb szabályokat rendeletben megállapíthat. Ebben az esetben e törvénytől eltérően a Kormány rendeletében megállapított kedvezőbb rendelkezést kell alkalmazni.
 
@@ -428,10 +428,12 @@ minősül.
 
 (4) Az (1)–(2) bekezdés szerinti jogviszonyban álló egészségügyi dolgozó által végzett egészségügyi tevékenységre a 4. § e) pontjában, valamint a 12–13. §-ban foglaltakat, illetve továbbképzésére a 15. §-ban foglaltakat, továbbá a 15/B–15/C. §-t értelemszerűen alkalmazni kell.
 
-(5) A 11/A. § alkalmazásában a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény (a továbbiakban: Hjt.) hatálya alá tartozók esetében, ahol e törvény
+(5) A 11/A. § alkalmazásában a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) hatálya alá tartozók esetében, ahol e törvény
 
-- a) „Kjt. szerinti besorolási illetményt” vagy „alapbért (illetményt)” említ, ott „távolléti díjat”,
-- b) ahol „egyösszegű illetmény- vagy bérnövelést” említ, ott „egészségügyi dolgozók kiegészítő illetményét” kell érteni.
+- a) „a Kjt. szerinti besorolási illetményt” vagy „alapbért (illetményt)” említ, ott a 11/A. § (4) és (5) bekezdése alkalmazásában „a távolléti díjba tartozó illetményelemek együttes összegét”, a 11/A. § (6) és (6a) bekezdése alkalmazásában „a távolléti díjba tartozó illetményelemek egészségügyi dolgozók kiegészítő illetménye nélkül számított együttes összegét”, valamint
+- b) ahol „egyösszegű illetmény- vagy bérnövelést” említ, ott „egészségügyi dolgozók kiegészítő illetményét”
+
+kell érteni.
 
 (6) A Hjt. hatálya alá tartozók esetében a 11/A. § (5) bekezdésében foglaltak végrehajtásához az érintett egészségügyi szakdolgozók esetében meg kell állapítani, hogy amennyiben közalkalmazotti jogviszonyban állnának, akkor iskolai végzettségüknek és közalkalmazotti jogviszonyban figyelembe vehető szolgálati idejüknek megfelelően mely Kjt. szerinti besorolási osztályba és fizetési fokozatba tartoznának.
 
@@ -622,14 +624,7 @@ részt vehet.
 
 (13)–(15)
 
-(16) Az Mt. 139. § (2) bekezdésétől és a 14. §-tól eltérően az ügyeleti díj, a 14/B. § szerinti pótlék, a készenléti díj, valamint a rendkívüli munkavégzés bérpótlékának alapja:
-
-- a) a közalkalmazotti jogviszonyban foglalkoztatott egészségügyi dolgozó, egészségügyben dolgozó esetén,
-  - aa) ha közalkalmazotti jogviszonya 2012. június 30-án, valamint 2012. július 1-jén fennállt, a 2012. június 30-án hatályos kinevezésében meghatározott illetménnyel azonos összeg,
-  - ab) a 2012. június 30. után létesített közalkalmazotti jogviszony esetén a Kjt. 2012. június 30-án hatályos szabályainak alapulvételével meghatározott besorolási osztályához és fokozatához tartozó garantált illetménnyel, vagy – ha az magasabb – a kormányrendeletben megállapított minimálbérrel, garantált bérminimummal azonos összeg,
-- b) a munkaviszonyban foglalkoztatott egészségügyi dolgozó esetén,
-  - ba) ha munkaviszonya 2012. június 30-án, valamint 2012. július 1-jén is fennállt, a 2012. június 30-án hatályos munkaszerződésében meghatározott személyi alapbérével azonos összeg,
-  - bb) a 2012. június 30. után létesített munkaviszony esetén a munkáltatónál azonos munkakörben, azonos gyakorlati idővel 2012. június 30-án foglalkoztatott munkavállalók munkaszerződés szerinti személyi alapbére – több ilyen munkavállaló esetén alapbérük átlaga –, ilyen munkavállalók hiányában a Kjt. 2012. június 30-án hatályos szabályainak alapulvételével meghatározott besorolási osztályhoz és fokozathoz tartozó garantált illetménnyel azonos összeg.
+(16)
 
 (17)–(18)
 
@@ -647,16 +642,11 @@ részt vehet.
 
 30. § Az egészségügyi szolgáltató a 11/A. § és a 29/B. § szerint meghatározott illetmény- vagy bérnöveléssel járó többlet személyi juttatások és az azokhoz kapcsolódó, a munkaadókat terhelő járulékok és szociális hozzájárulási adó kifizetéséhez az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló kormányrendeletben meghatározottak szerint, ott meghatározott összegű – működési célú, támogatásértékű bevételként – támogatásban részesül.
 
-31. § A Hjt. hatálya alá tartozók esetében, ahol a 29–30. §
-
-- a) „alapbért (illetményt)” említ, ott „távolléti díjat”, ahol „illetmény- vagy bérnövelést” említ, ott „egészségügyi dolgozók kiegészítő illetményét”,
-- b) „különösen az illetménykiegészítés”-t említ, ott „különösen a Hjt. 123. § (3) bekezdése szerinti beosztási illetménykiemelés”-t
-
-kell érteni.
+31. § A Hjt. hatálya alá tartozók esetében, ahol a 29/A–30. § „illetmény- vagy bérnövelést” említ, ott „egészségügyi dolgozók kiegészítő illetményét” kell érteni.
 
 32. § Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2014. évi CXI. törvénnyel megállapított 11/A. § (2) bekezdés c) pontját és a 11/B. §-t a 2015. július 1-jét követően megkezdett szakképzések ideje alatt történő foglalkoztatásra kell alkalmazni.
 
-#### 33. §
+33. § Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2015. évi CCXXIV. törvénnyel megállapított 11/B. § (3) bekezdésében foglaltakat a 2015. július 1-jét követően a 11/B. § (1) bekezdése szerinti, a szakorvosképzésért felelős egészségügyi államigazgatási szerv által létesített közalkalmazotti jogviszonyok esetében is alkalmazni kell.
 
 #### 34. §
 

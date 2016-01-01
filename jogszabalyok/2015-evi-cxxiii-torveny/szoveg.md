@@ -94,7 +94,7 @@ Az Országgyűlés felismerve, hogy az egészségügyi alapellátás az egészs�
 
 (8) A kormányrendeletben meghatározott bejelentkezett biztosítotti létszám feletti, területi ellátási kötelezettség nélküli háziorvosi és házi gyermekorvosi körzetben ellátást nyújtó egészségügyi szolgáltatók kormányrendeletben foglaltak szerinti kiegészítő díjazásra jogosultak, valamint a területi ellátási kötelezettséggel összefüggésbe nem hozható teljesítményük alapján jogszabályban meghatározott módon finanszírozásban részesülnek, illetve jogszabályban meghatározott módon ugyanolyan kedvezményekre és pályázati lehetőségekre jogosultak, mint a területi ellátási kötelezettséggel rendelkező háziorvosi, házi gyermekorvosi ellátást nyújtó egészségügyi szolgáltatók.
 
-9. §
+9. § Ha a háziorvos, házi gyermekorvos, alapellátást nyújtó fogorvos az adott egészségügyi alapellátás nyújtásához szükséges szakképesítésén kívül egyéb szakorvosi szakképesítéssel is rendelkezik, a vonatkozó egészségügyi szakma finanszírozására az egészségbiztosítási szerv – jogszabályban meghatározott feltételek szerint – az érintett háziorvosi szolgáltatást nyújtó egészségügyi szolgáltatóval finanszírozási szerződést köt, ha azt az egészségügyi szolgáltató kezdeményezi.
 
 10. § (1) Az alapellátáshoz kapcsolódóan – e feladatok rendelési időn kívüli ellátására – háziorvosi, házi gyermekorvosi és fogorvosi ügyeleti ellátásról kell gondoskodni.
 
@@ -104,7 +104,19 @@ Az Országgyűlés felismerve, hogy az egészségügyi alapellátás az egészs�
 
 (2) A praxisközösségek és csoportpraxisok kialakításának szempontjait a Kormány rendeletben állapítja meg.
 
-12. §
+12. § (1) A háziorvosi, házi gyermekorvosi, alapellátást nyújtó fogorvosi ellátás egységes színvonalú ellátása érdekében járásokhoz igazítottan, megyénként, valamint országos szinten kollegiális szakmai vezető háziorvos, házi gyermekorvos, fogorvos működik.
+
+(2) Az (1) bekezdés szerinti vezető háziorvos, házi gyermekorvos, fogorvos feladatai:
+
+- a) figyelemmel kíséri a gyógyító-megelőző munka színvonalát,
+- b) a szakmai munka minőségbiztosítása, amelynek kapcsán felvilágosítást kérhet a háziorvostól, házi gyermekorvostól, fogorvostól tapasztalatairól, és amennyiben intézkedés indokolt, értesíti a fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalát,
+- c) az illetékes önkormányzat felkérésére részt vesz a háziorvosok, házi gyermekorvosok, fogorvosok helyettesítésének megszervezésében,
+- d) az illetékes önkormányzat felkérésére részt vesz az ügyeleti szolgálatok megszervezésében,
+- e) összehangolja a háziorvosi, házi gyermekorvosi, fogorvosi szolgálattal kapcsolatos oktatási, továbbképzési feladatokat.
+
+(3) Az országos kollegiális szakmai vezető háziorvos, házi gyermekorvos, fogorvos az alapellátásért felelős országos módszertani intézet keretein belül végzi tevékenységét.
+
+(4) Az (1) bekezdés szerinti kollegiális szakmai vezető háziorvos, házi gyermekorvos, fogorvos választására, jogállására, feladataira, juttatásaira vonatkozó részletes szabályokat a miniszter rendeletben állapítja meg.
 
 #### 6. A védőnői ellátás
 
@@ -136,7 +148,7 @@ Az Országgyűlés felismerve, hogy az egészségügyi alapellátás az egészs�
 
 (6) A védőnői ellátás részletes szakmai szabályait a miniszter rendeletben határozza meg.
 
-14. §
+14. § A védőnői ellátás egységes színvonalú ellátása érdekében járási, megyei, valamint a védőnői ellátás szakmai irányításáért felelős országos egészségügyi államigazgatási szerv keretében országos szakmai vezető védőnő működik. A szakmai vezető védőnők választására, jogállására, feladataira és juttatásaira vonatkozó részletes szabályokat a miniszter rendeletben állapítja meg.
 
 #### 7. Az iskola-egészségügyi ellátás
 
@@ -194,7 +206,7 @@ Az Országgyűlés felismerve, hogy az egészségügyi alapellátás az egészs�
 - d) a védőnői ellátás részletes szakmai szabályait,
 - e) az iskola-egészségügyi ellátás részletes szakmai szabályait,
 - f) a foglalkozás-egészségügyi alapellátás körében végezhető megelőző ellátásokat,
-- g)
+- g) a kollegiális szakmai vezető háziorvos, házi gyermekorvos, fogorvos, valamint a szakmai vezető védőnők választására, jogállására, feladataira, juttatásaira vonatkozó részletes szabályokat,
 - h) az otthoni szakápolás és otthoni hospice ellátás részletes szakmai szabályait
 
 rendeletben állapítsa meg.
@@ -215,12 +227,20 @@ rendeletben állapítsa meg.
 
 30. § (1)
 
-(2)
+(2) Az Öotv. 2. §-a a következő (11) bekezdéssel egészül ki:
+
+„(11) A praxisjog megszerzéséhez felvett hitelhez, illetve kölcsönhöz az állam – kormányrendeletben meghatározott módon – kamattámogatást biztosít.”
 
 31. §
 
 32. § (1)
 
-(2)
+(2) Az Öotv. 3. § (9) bekezdés a) pontja a következő ae) alponttal egészül ki:
+
+(Felhatalmazást kap
+
+a Kormány, hogy)
+
+„ae) a praxisjog megszerzéséhez felvett hitelhez, illetve kölcsönhöz az állam által biztosított kamattámogatásra vonatkozó részletes szabályokat meghatározza,”
 
 33. §

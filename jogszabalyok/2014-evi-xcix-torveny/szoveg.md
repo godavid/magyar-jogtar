@@ -314,7 +314,8 @@ lép.
 
 151. § Hatályát veszti az egyes közszolgáltatások ellátásáról és az ezzel összefüggő törvénymódosításokról szóló 2013. évi CXXXIV. törvény
 
-- 1–2.
+- 1. 1. § (3) bekezdésében és 1. § (9) bekezdés a) pontjában a „hulladékgazdálkodási közszolgáltatási engedéllyel vagy” szövegrész,
+- 2. 1. § (8) bekezdésében a „hulladékgazdálkodási közszolgáltatási engedélyében vagy” szövegrész,
 - 3.
 
 ### VI. Fejezet — A KÖZPONTI KÖLTSÉGVETÉSRŐL SZÓLÓ TÖRVÉNY VÉGREHAJTÁSÁHOZ KAPCSOLÓDÓ TOVÁBBI TÖRVÉNYMÓDOSÍTÁSOK
@@ -466,7 +467,13 @@ lép.
 
 #### 46. A családok támogatásáról szóló 1998. évi LXXXIV. törvény módosítása
 
-258. §
+258. § A családok támogatásáról szóló 1998. évi LXXXIV. törvény 7. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+(Nevelési ellátásra jogosult)
+
+„a) a vér szerinti vagy örökbe fogadó szülő; a szülővel együtt élő házastárs; az a személy, aki a saját háztartásában nevelt gyermeket örökbe kívánja fogadni és az erre irányuló eljárás már folyamatban van; a szülővel együtt élő élettárs, ha az ellátással érintett gyermekkel közös lakó vagy tartózkodási hellyel rendelkezik és a szülővel élettársként legalább egy éve szerepel az Élettársi Nyilatkozatok Nyilvántartásában, vagy a szülővel fennálló élettársi kapcsolatát az ellátás megállapítására irányuló kérelmet legalább egy évvel megelőzően kiállított közokirattal igazolja (a továbbiakban együtt: szülő); a nevelőszülő; a gyám; továbbá az a személy, akihez a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 72. § (1) bekezdése alapján a gyermeket ideiglenes hatállyal elhelyezték, a saját háztartásában nevelt,”
+
+(még nem tanköteles gyermekre tekintettel, a gyermek tankötelessé válása évének október 31-éig.)
 
 259–260. §
 
@@ -474,13 +481,57 @@ lép.
 
 (2)
 
-#### 47.
+#### 47. A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény módosítása
 
-262–267. §
+262. § A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 2. §-a a következő 16. ponttal egészül ki:
+
+(E törvény alkalmazása során)
+
+„16. Útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartása: az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvény, valamint az autópályák, autóutak és főutak használati díjáról szóló miniszteri rendelet alapján mentességet élvező szervezetekről és járművekről vezetett nyilvántartás.”
+
+263. § A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 7. §-a a következő g) ponttal egészül ki:
+
+(A nyilvántartás áll:)
+
+„g) az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartásából.”
+
+264. § A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 9/C. §-sal egészül ki:
+
+„9/C. § (1) Az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartása tartalmazza
+
+a) a jármű forgalmi rendszámát,
+
+b) a jármű azonosító és műszaki adatait,
+
+c) a díjmentes használat jogcímének megjelölését, továbbá
+
+d) a díjmentes használati jogosultság kezdőidőpontját és annak időtartamát.
+
+(2) A nyilvántartó az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára való jogosultság ellenőrzése céljából a nyilvántartásba vételt megelőzően az érintett gépjármű rendszámadatát összeveti a járműnyilvántartás 9. § (1) bekezdés szerinti adataival.”
+
+265. § A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 14. § (2) bekezdése a következő g) ponttal egészül ki:
+
+(A nyilvántartót értesíti:)
+
+„g) a díjmentes úthasználatra jogosult az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartásába felvenni kért járművek 9/C. § (1) bekezdésben meghatározott adatairól, valamint – a változástól számított 30 napon belül – azok változásáról.”
+
+266. § A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 15. § (1) bekezdése a következő f) ponttal egészül ki:
+
+(A nyilvántartó kezeli:)
+
+„f) a 9/C. §-ban megjelölt adatokat az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára való jogosultság megszűnését követő 2 évig.”
+
+267. § A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 19. § (1) bekezdés p) pontja helyébe a következő rendelkezés lép:
+
+[A nyilvántartásból igényelheti(k):]
+
+„p) az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjfizetés ellenében történő használatának ellenőrzésére, valamint a díjszedésre jogosult szervezetek törvényben meghatározott feladataik ellátásához a 9. § (1) és (1a) bekezdésében, (2) bekezdés a), b), d) és e) pontjában, (3) bekezdésében és a 9/C. §-ban foglalt adatokat;”
 
 268. §
 
-269–270. §
+269. § A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 14. § (2) bekezdés a) pontjában és 15. § (1) bekezdés a) pontjában az „ , illetve” szövegrész helyébe a „vagy” szöveg lép.
+
+270. § Hatályát veszti a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 19. § (4) bekezdése.
 
 #### 48. A gazdasági kamarákról szóló 1999. évi CXXI. törvény módosítása
 
@@ -728,19 +779,33 @@ lép.
 
 #### 100. Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény módosítása
 
-418. §
+418. § Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény 2. §-a a következő 31. ponttal egészül ki:
+
+(E törvény alkalmazásában)
+
+„31. útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartása: a közúti közlekedési nyilvántartásról szóló törvény szerinti közúti közlekedési nyilvántartás.”
 
 419. §
 
 420. § (1)
 
-(2)
+(2) Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény 17. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-421. §
+„(2) A Rendőrség az (1) bekezdés c) pontja szerinti adatok alapján a vélelmezett szabályszegések esetében hivatalból megindítja a külön törvényben meghatározott hatósági eljárást.”
+
+421. § Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény 26. § (5) és (6) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(5) A Rendőrség jogosult az úthasználati jogosultsággal rendelkezőkről és az érvénytelenített fedélzeti eszközökről az útdíjszedő által vezetett nyilvántartással, valamint az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartásában kezelt adataival összevetni a (4) bekezdés szerinti adatokat. Az útdíjellenőrzési feladatok ellátása során a Rendőrség jogosult a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 9. § (1) és (1a) bekezdésében, (2) bekezdés a), b), d) és e) pontjában, továbbá (3) bekezdésében meghatározott adatokat, a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 17. § (2) bekezdés b) pontja és (6) bekezdése szerinti adatokat, a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény III. fejezet 1. Címében meghatározott adatokat, valamint a közúti közlekedésről szóló 1988. évi I. törvény 21/D. § (1) bekezdésében foglalt adatokat, továbbá az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartásában szereplő adatokat átvenni.
+
+(6) Az útdíjszedő jogosult a külföldi hatósági jelzéssel ellátott jármű rendszámát, ha a jármű fedélzeti eszközzel felszerelt, annak azonosító adatait; a vélelmezett szabályszegés elkövetésének helyét és idejét, valamint a helymeghatározás egyéb jellemző adatait, az ellenőrzés képi felvételeit az ellenőrzés időpontjától számított 2 évig megőrizni, ha helyszíni ellenőrzésre nem került sor, illetve a jármű üzembentartó személyének automatizált lekérdezés útján történő megállapítására nincsen mód.”
 
 422. § (1)
 
-(2)
+(2) Hatályát veszti az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény
+
+- 1. 9. § (4)–(6) bekezdése,
+- 2. 11. § (1) bekezdése,
+- 3. 12. §-a.
 
 #### 101. A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény módosítása
 

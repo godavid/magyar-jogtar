@@ -374,7 +374,7 @@ kapcsolatos feladatok ellátása.
 
 - a) segíti a hegyközségek és a hegyközségi tanácsok tevékenységét;
 - b) összegzi és elemzi a hegyközségek adatszolgáltatását, és ennek alapján javaslatokat dolgoz ki az esetleges agrárpiaci beavatkozásra;
-- c) vezeti az újratelepítési jogok központi nyilvántartását;
+- c) vezeti az újratelepítési jogok, az átváltott telepítési engedélyek, az új telepítési engedélyek és az újratelepítési engedélyek (a továbbiakban együtt: telepítési engedélyek) központi nyilvántartását;
 - d) termékek piacra jutását elősegítő szolgáltatásokat szervez;
 - e) képviselheti a hegyközséget a származás-, minőség- és eredetvédelemmel kapcsolatos ügyekben;
 - f) elbírálja a hegybíró közigazgatási hatósági ügyben hozott elsőfokú határozata ellen benyújtott fellebbezést;

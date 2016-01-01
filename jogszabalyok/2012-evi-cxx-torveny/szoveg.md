@@ -382,7 +382,7 @@ fordulhat panasszal.
 
 (5) A (4) bekezdés szerint a panasz elbírálására jogosultnál a panaszt a kényszerítő eszköz alkalmazásától, ha pedig a panasz előterjesztője az őt ért jogsérelemről később szerzett tudomást, a tudomásszerzéstől számított nyolc napon, de legkésőbb a kényszerítő eszköz alkalmazásának időpontjától számított három hónapon belül lehet előterjeszteni.
 
-(6) A (4) bekezdés szerint a panasz elbírálására jogosult a panaszról a beérkezését követő naptól számított harminc napon belül – a közigazgatási hatósági eljárás szabályai szerint – dönt.
+(6) A (4) bekezdés szerint a panasz elbírálására jogosult a panaszról a beérkezését követő naptól számított huszonegy napon belül – a közigazgatási hatósági eljárás szabályai szerint – dönt.
 
 (7) A (6) bekezdésben meghatározott döntéssel szemben a rendészeti feladatokat ellátó személy, valamint az (4) bekezdésben meghatározott személy – a közigazgatási hatósági eljárás szabályai szerint – jogorvoslattal élhet.
 

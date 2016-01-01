@@ -340,7 +340,7 @@ kezeli.
 
 (2) Az az állatorvos, aki több területi szervezet illetékességi területén kíván folytatni állat-egészségügyi szolgáltató tevékenységet, a székhelye szerint illetékes területi szervezet vezetőségénél kérheti tagfelvételét.
 
-(3) A vezetőség a tagfelvétel és a praxisengedély engedély iránti kérelemről a beérkezését követő ülésén, de legkésőbb a beérkezésétől számított harminc napon belül dönt. Ha a kérelmezőt a Kamara a tagjai közé felveszi, bejegyzi az állatorvosi névjegyzékbe és kiadja számára a tagsági igazolványt és a kamarai bélyegzőt.
+(3) A vezetőség a tagfelvétel és a praxisengedély engedély iránti kérelemről a beérkezését követő ülésén, de legkésőbb a beérkezésétől számított huszonegy napon belül dönt. Ha a kérelmezőt a Kamara a tagjai közé felveszi, bejegyzi az állatorvosi névjegyzékbe és kiadja számára a tagsági igazolványt és a kamarai bélyegzőt.
 
 (4) A tagfelvételt és a praxisengedély iránti kérelmet elutasító döntést határozatba kell foglalni, és a kérelmező részére meg kell küldeni. A kérelmező az elutasító határozat ellen annak kézhezvételétől számított harminc napon belül az elnökséghez fellebbezhet.
 
@@ -625,7 +625,7 @@ fedezi.
 
 (2)
 
-(3) A vezetőség az állat-egészségügyi szolgáltató praxisengedély kiadása iránti kérelméről a beérkezését követő első ülésén, de legkésőbb a kérelem beérkezésétől számított harminc napon belül dönt. Ha a vezetőség a kérelemnek helyt ad, kiadja a praxisengedélyt. Ha az állat-egészségügyi szolgáltató gazdasági társaság vagy szövetkezet, a praxisengedély iránti kérelemben meg kell jelölni az állat-egészségügyi szolgáltató szakmai munkáját irányító felelős állatorvost, valamint azt az állatorvost, aki megfelel a (2) bekezdésben leírt feltételeknek, akiknek vonatkozásában a praxisengedélyben fel kell tüntetni az 5. § (1) bekezdés a)–d) pontja szerinti adatokat.
+(3) A vezetőség az állat-egészségügyi szolgáltató praxisengedély kiadása iránti kérelméről a beérkezését követő első ülésén, de legkésőbb a kérelem beérkezésétől számított huszonegy napon belül dönt. Ha a vezetőség a kérelemnek helyt ad, kiadja a praxisengedélyt. Ha az állat-egészségügyi szolgáltató gazdasági társaság vagy szövetkezet, a praxisengedély iránti kérelemben meg kell jelölni az állat-egészségügyi szolgáltató szakmai munkáját irányító felelős állatorvost, valamint azt az állatorvost, aki megfelel a (2) bekezdésben leírt feltételeknek, akiknek vonatkozásában a praxisengedélyben fel kell tüntetni az 5. § (1) bekezdés a)–d) pontja szerinti adatokat.
 
 (4) A praxisengedély kiadása iránti kérelmet elutasító döntést határozatba kell foglalni, és a kérelmező részére meg kell küldeni. A kérelmező az elutasító határozat ellen az elnökséghez fellebbezhet.
 
@@ -647,7 +647,7 @@ fedezi.
 
 (2) A szüneteltetés engedélyezését a Kamara abban az esetben tagadhatja meg, ha az állat-egészségügyi szolgáltató a szüneteltetés időtartamára nem gondoskodott megfelelően feladatainak ellátásában más állat-egészségügyi szolgáltató általi helyettesítéséről.
 
-(3) A vezetőség a szüneteltetés iránti kérelemről a beérkezését követő első ülésén, de legkésőbb a kérelem beérkezését követő harminc napon belül dönt.
+(3) A vezetőség a szüneteltetés iránti kérelemről a beérkezését követő első ülésén, de legkésőbb a kérelem beérkezését követő huszonegy napon belül dönt.
 
 (4) Ha az állat-egészségügyi szolgáltató a tevékenységét a szüneteltetés iránti kérelemben megjelölt határidő lejárta előtt folytatni kívánja, ezt köteles a Kamarának bejelenteni. A Kamara a tevékenység szüneteltetésének tényére és időtartamára vonatkozó adatot törli a praxisnyilvántartásból.
 

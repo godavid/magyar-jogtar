@@ -3153,7 +3153,7 @@ a közjegyző felhívásának kézbesítésétől számított tizenöt napon bel
 - h) az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény,
 - i) az árak megállapításáról szóló törvény,
 - j) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény,
-- k) a Nemzeti Akkreditáló Testület szervezetéről, feladat- és hatásköréről, valamint eljárásáról szóló törvény,
+- k) a nemzeti akkreditálásról szóló törvény,
 - l) a Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló törvény,
 - m) a külföldre utazásról szóló törvény,
 - n) a nemzeti köznevelés tankönyvellátásáról szóló törvény,
@@ -3239,7 +3239,7 @@ illetékes.
 
 (2) Ha a keresettel felülvizsgálni kért határozatot a közigazgatási szerv ügyészi felhívás folytán hozta, a bíróság a perről az ügyészt értesíti.
 
-(2a) A keresetlevél benyújtásának a végrehajtásra nincs halasztó hatálya, a felperes azonban a keresetlevélben a végrehajtás felfüggesztését kérheti. A végrehajtás a kérelemnek a végrehajtást foganatosító szerv tudomására jutásától annak elbírálásáig nem foganatosítható, kivéve, ha a hatóság a határozatot végrehajtás felfüggesztése iránti kérelemre tekintet nélkül végrehajthatónak nyilvánította.
+(2a) A keresetlevél benyújtásának a végrehajtásra nincs halasztó hatálya, a felperes azonban a keresetlevélben a végrehajtás felfüggesztését kérheti. A kérelemben valószínűsíteni kell a (3) bekezdés utolsó mondata szerinti feltételeket, és az ezt alátámasztó bizonyítékokat a keresetlevélhez csatolni kell. E kötelezettség elmulasztása esetén a bíróság a végrehajtás felfüggesztése iránti kérelmet – hiánypótlási felhívás kiadását mellőzve – hivatalból elutasítja. A végrehajtás a kérelemnek a végrehajtást foganatosító szerv tudomására jutásától annak elbírálásáig, de legkésőbb az elbírálásra nyitva álló határidő elteltéig nem foganatosítható, kivéve, ha a hatóság a határozatot végrehajtás felfüggesztése iránti kérelemre tekintet nélkül végrehajthatónak nyilvánította.
 
 (2b) A végrehajtás felfüggesztésének hatálya kiterjed a határozaton alapuló jogok gyakorlására is.
 
@@ -4011,13 +4011,13 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 386/T. § Az ítéletet fellebbezésre tekintet nélkül végrehajthatónak kell nyilvánítani a tervezési, építési, kivitelezési szerződés teljesítéséből eredő díjkövetelés megfizetésére kötelező – 400 millió forintot meg nem haladó összegű – részében, ha az a Teljesítésigazolási Szakértői Szerv szakvéleményében meghatározott összeget (részben vagy egészben) mint pénzbeli marasztalást tartalmazza.
 
-### Elektronikus kommunikáció
+### Elektronikus kapcsolattartás
 
-386/U. § (1) A törvényszék elsőfokú hatáskörébe tartozó perben a beadványokat és azok mellékletét elektronikus úton kell benyújtani. A nem elektronikus úton benyújtott beadványban foglalt nyilatkozat hatálytalan.
+386/U. § (1) A perben a beadványokat és azok mellékletét elektronikus úton kell benyújtani. A nem elektronikus úton benyújtott beadványban foglalt nyilatkozat hatálytalan.
 
-(2) Az elektronikus kapcsolattartásra a 394/B. § (5) bekezdését azzal az eltéréssel kell alkalmazni, hogy a bíróság az alperest arról tájékoztatja, hogy védekezését, nyilatkozatát elektronikus úton kell benyújtania. Egyebekben az elektronikus kapcsolattartásra a 394/B. § (6) bekezdését és a 394/D–394/H. §-t kell alkalmazni.
+(2) A perben az elektronikus kapcsolattartásra a 394/C–394/M. §-t kell alkalmazni.
 
-(3) Ha a pert a 386/P. § (4) bekezdése alapján az általános szabályok szerint kell lefolytatni, a felperes a továbbiakban választása szerint elektronikus úton vagy papír alapon járhat el. Ha a felperes a beadványát elektronikus úton nyújtja be, azt az elektronikus kapcsolattartás vállalásának kell tekinteni [394/B. § (2) bekezdés].
+(3) Ha a pert a 386/P. § (4) bekezdése alapján az általános szabályok szerint kell lefolytatni, az elektronikus kapcsolattartásra a XXVIII. Fejezet rendelkezéseit kell alkalmazni.
 
 ## HATODIK RÉSZ — KISÉRTÉKŰ PEREK
 
@@ -4224,17 +4224,7 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 394/F. § (1) Ahol e törvény elektronikus kapcsolattartást rendel, ott a (2) bekezdésben meghatározottak szerint a Ket. elektronikus kapcsolattartásra vonatkozó rendelkezéseit kell megfelelően alkalmazni.
 
-(2) A bíróság a következő, a Ket. szerinti szabályozott elektronikus ügyintézési szolgáltatásokat nyújthatja az ott meghatározott szabályok szerint, illetve az alábbi szabályozott elektronikus ügyintézési szolgáltatásokat veheti igénybe az ott meghatározott, az elektronikus ügyintézési felügyelet által nyilvántartásba vett szolgáltatótól:
-
-- a) az ügyfél ügyintézési rendelkezésének nyilvántartása, ideértve a meghatalmazások kezelését is,
-- b) azonosítási szolgáltatás,
-- c) kézbesítési szolgáltatás, ideértve a biztonságos kézbesítési szolgáltatást is,
-- d) elektronikus irat hiteles papír alapú irattá alakítása,
-- e) papír alapú irat átalakítása hiteles elektronikus irattá,
-- f) elektronikus iratról hiteles elektronikus másolat készítése,
-- g) elektronikus iratról hiteles, más formátumú elektronikus másolat készítése,
-- h) központi azonosítási ügynök,
-- i) összerendelési nyilvántartás.
+(2) A bíróság a Ket. és a végrehajtására kiadott kormányrendelet szerinti szabályozott elektronikus ügyintézési szolgáltatásokat nyújthatja az ott meghatározott szabályok szerint, valamint a Ket. és a végrehajtására kiadott kormányrendelet szerinti szabályozott elektronikus ügyintézési szolgáltatásokat veheti igénybe az ott meghatározott, az elektronikus ügyintézési felügyelet által nyilvántartásba vett szolgáltatótól.
 
 394/G. § (1) Ha a polgári perben a kapcsolattartás elektronikus úton történik (321/A. §, 340/B. §, 341/J. §, 394/B–394/E. §), úgy arra a (2)–(10) bekezdésben és a 394/H–394/M. §-ban foglalt szabályokat is alkalmazni kell.
 

@@ -35,9 +35,9 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 (4) Nem tartozik e törvény hatálya alá
 
 - a) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 6. § (1) bekezdésében meghatározott ügynöki tevékenység;
-- b) a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény (a továbbiakban: Bit.) 33. § (4) bekezdésében meghatározott függő biztosításközvetítő;
-- c) a Bit. 33. § (4) bekezdésében meghatározott független biztosításközvetítő a Bit. 1. számú mellékletének A. része szerinti nem-életbiztosítási ágba tartozó szerződésekkel kapcsolatos tevékenysége során;
-- d) a biztosító, amennyiben kizárólag a Bit. 1. számú mellékletének A. része szerinti nem-életbiztosítási ágba tartozó tevékenység végzésére rendelkezik engedéllyel, továbbá a Bit. 1. számú mellékletének A. része szerinti nem-életbiztosítási ágba tartozó és 2. számú melléklete szerinti életbiztosítási ágba tartozó tevékenység egyidejű végzésére engedéllyel rendelkező biztosító a nem-életbiztosítási tevékenysége tekintetében;
+- b) a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvényben (a továbbiakban: Bit.) meghatározott ügynök és kiegészítő biztosításközvetítői tevékenységet folytató személy;
+- c) a Bit.-ben meghatározott többes ügynök és alkusz a Bit. 1. melléklet A) része szerinti nem-életbiztosítási ágba tartozó szerződésekkel kapcsolatos tevékenysége során;
+- d) a biztosító, amennyiben kizárólag a Bit. 1. melléklet A) része szerinti nem-életbiztosítási ágba tartozó tevékenység végzésére rendelkezik engedéllyel, továbbá a Bit. 1. melléklet A) része szerinti nem-életbiztosítási ágba tartozó és a 2. melléklete szerinti életbiztosítási ágba tartozó tevékenység egyidejű végzésére engedéllyel rendelkező biztosító a nem-életbiztosítási tevékenysége tekintetében;
 - e) a bizalmi vagyonkezelőkről és tevékenységük szabályairól szóló törvényben meghatározott nem üzletszerűen eljáró bizalmi vagyonkezelő.
 
 (5) Nem tartozik e törvény hatálya alá az (1) bekezdés a) pontjában meghatározott tevékenység, ha azt a Magyar Nemzeti Bank (a továbbiakban: MNB) végzi, kivéve a 2. § és 22. § rendelkezései alapján végzett pénzátutalási szolgáltatás nyújtását.
@@ -227,7 +227,7 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 
 (2) A szolgáltató az ügyfél és a tényleges tulajdonos személyazonosságának igazoló ellenőrzését az üzleti kapcsolat létesítése során is lefolytathatja, ha ez a rendes üzletmenet megszakításának elkerülése érdekében szükséges és ha a pénzmosás vagy a terrorizmus finanszírozásának valószínűsége csekély. Ebben az esetben a személyazonosság igazoló ellenőrzését az első ügyleti megbízás teljesítéséig be kell fejezni.
 
-(3) Az 1. § (1) bekezdés c) pontjában meghatározott tevékenységet végző szolgáltató a Bit. 2. számú melléklete szerinti életbiztosítási ágba tartozó biztosítások esetén a kedvezményezett, illetve mindazok tekintetében, akik a biztosítási szerződés alapján a biztosító szolgáltatására jogosultak és személyük a szerződés megkötésekor nem volt ismert, a személyazonosság igazoló ellenőrzését az üzleti kapcsolat létesítését követően is lefolytathatja. Ebben az esetben a személyazonosság igazoló ellenőrzésének a kifizetéssel egyidejűleg vagy azt megelőzően kell megtörténnie, illetve azzal egyidejűleg vagy azt megelőzően, hogy a jogosult a szerződésből (kötvényből) eredő jogait érvényesíti.
+(3) Az 1. § (1) bekezdés c) pontjában meghatározott tevékenységet végző szolgáltató a Bit. 2. melléklete szerinti életbiztosítási ágba tartozó biztosítások esetén a kedvezményezett, illetve mindazok tekintetében, akik a biztosítási szerződés alapján a biztosító szolgáltatására jogosultak és személyük a szerződés megkötésekor nem volt ismert, a személyazonosság igazoló ellenőrzését az üzleti kapcsolat létesítését követően is lefolytathatja. Ebben az esetben a személyazonosság igazoló ellenőrzésének a kifizetéssel egyidejűleg vagy azt megelőzően kell megtörténnie, illetve azzal egyidejűleg vagy azt megelőzően, hogy a jogosult a szerződésből (kötvényből) eredő jogait érvényesíti.
 
 (4) Az 1. § (1) bekezdés a) pontjában meghatározott tevékenységet végző és fizetési számlanyitásra jogosult szolgáltató jogosult a fizetési számla megnyitására, feltéve hogy biztosítja, hogy az ügyfél és a tényleges tulajdonos személyazonossága igazoló ellenőrzésének lefolytatásáig az ügyfél, a meghatalmazott, a rendelkezésre jogosult és a képviselő nem végezhet műveletet.
 
@@ -245,7 +245,7 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 
 11/A. § (1) A szolgáltató a 6. § (2) bekezdésében meghatározott kötelezettség végrehajtása érdekében a háromszázezer forintot elérő vagy meghaladó összegű ügyleti megbízás teljesítésekor a 7. § (2) bekezdésében és a 9. § (1) bekezdés b) pontjában meghatározott adatokat köteles rögzíteni.
 
-(2) Az 1. § (1) bekezdés a) pontjában meghatározott tevékenységet végző szolgáltató – a háromszázezer forintot el nem érő összegű, belföldön kezdeményezett és belföldön teljesítendő készpénzátutalás kivételével – a készpénzátutalás és a fizetési számlára történő közvetlen – pénzforgalmi szolgáltató igénybevétele nélküli – készpénzbefizetés teljesítésekor, valamint az 1. § (1) bekezdés c) pontjában meghatározott tevékenységet végző szolgáltató a Bit. 2. számú melléklete szerinti életbiztosítási ágba tartozó biztosítások esetén – a megtakarítási elemet nem tartalmazó, tisztán kockázati életbiztosításokat ide nem értve – a szerződés szerint elvárt díjon felül történő készpénzbefizetés teljesítésekor a 7. § (2) bekezdésében és a 9. § (1) bekezdés b) pontjában meghatározott adatokat köteles rögzíteni.
+(2) Az 1. § (1) bekezdés a) pontjában meghatározott tevékenységet végző szolgáltató – a háromszázezer forintot el nem érő összegű, belföldön kezdeményezett és belföldön teljesítendő készpénzátutalás kivételével – a készpénzátutalás és a fizetési számlára történő közvetlen – pénzforgalmi szolgáltató igénybevétele nélküli – készpénzbefizetés teljesítésekor, valamint az 1. § (1) bekezdés c) pontjában meghatározott tevékenységet végző szolgáltató a Bit. 2. melléklete szerinti életbiztosítási ágba tartozó biztosítások esetén – a megtakarítási elemet nem tartalmazó, tisztán kockázati életbiztosításokat ide nem értve – a szerződés szerint elvárt díjon felül történő készpénzbefizetés teljesítésekor a 7. § (2) bekezdésében és a 9. § (1) bekezdés b) pontjában meghatározott adatokat köteles rögzíteni.
 
 ### Egyszerűsített ügyfél-átvilágítás
 
@@ -263,7 +263,7 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 
 13. § (1) A szolgáltató a 6. § (1) bekezdés a), b) és d) pontjában meghatározott esetben a 10. § (1) bekezdésében meghatározott ügyfél-átvilágítási intézkedést köteles elvégezni, és – ha erre az ügyfél vagy az üzleti kapcsolat, ügyleti megbízás azonosításához a pénzmosás és a terrorizmus finanszírozása megelőzése és megakadályozása érdekében szükség van – a 7. § (2) bekezdésében meghatározott adatokat rögzítheti, és a 7. § (4) bekezdésében meghatározott okiratok bemutatását kérheti
 
-- a) a Bit. 2. számú melléklete szerinti életbiztosítási ágba tartozó biztosítások esetén, ha az éves biztosítási díj nem haladja meg a kettőszázhatvanezer forintot, vagy ha az egyszeri biztosítási díj nem haladja meg a hatszázötvenezer forintot;
+- a) a Bit. 2. melléklete szerinti életbiztosítási ágba tartozó biztosítások esetén, ha az éves biztosítási díj nem haladja meg a kettőszázhatvanezer forintot, vagy ha az egyszeri biztosítási díj nem haladja meg a hatszázötvenezer forintot;
 - b) az olyan nyugdíjbiztosításokra, amelyeknél a biztosítási szerződés nem vásárolható vissza, illetve a biztosító szolgáltatására jogosult személyt megillető összeg hitel vagy kölcsön fedezeteként nem fogadható el;
 - c) a Hpt. 6. § (1) bekezdésében meghatározott elektronikus pénz esetén, ha az elektronikus pénz kibocsátója által az elektronikuspénz-birtokos részére kibocsátott összeg: 1. a nem újra feltölthető elektronikus pénzen nem haladja meg a hatvanötezer forintot; 2. az adott naptári évben az újra feltölthető elektronikus pénzen nem haladja meg a hatszázötvenezer forintot, kivéve ha az elektronikus pénz kibocsátója az elektronikuspénz-birtokos kérésére az adott naptári évben legalább kettőszázhatvanezer forint értékben elektronikus pénzt vált vissza.
 
@@ -619,7 +619,7 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 - b) ingatlan vétele, eladása,
 - c) gazdasági társaság vagy egyéb gazdálkodó szervezet alapítása, működtetése, megszűnése.
 
-(2) Az e törvényben meghatározott ügyfél-átvilágítási és bejelentési kötelezettség a közjegyzőt – a (4) bekezdésben foglalt kivétellel – akkor terheli, ha bizalmi őrzést végez, vagy a Kjt.-ben meghatározott közjegyzői tevékenységet végez a következő jogügyletek előkészítésével és végrehajtásával kapcsolatban:
+(2) Az e törvényben meghatározott ügyfél-átvilágítási és bejelentési kötelezettség a közjegyzőt – a (4) bekezdésben foglalt kivétellel – akkor terheli, ha bizalmi őrzést végez, vagy a Kjt.-ben meghatározott polgári nemperes eljárást folytat le a következő jogügyletek előkészítésével és végrehajtásával kapcsolatban:
 
 - a) gazdasági társaságban vagy egyéb gazdálkodó szervezetben lévő vagyonrész (részesedés) vétele, eladása,
 - b) ingatlan vétele, eladása,
@@ -633,7 +633,7 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 (4) Az e törvényben előírt kötelezettség a közjegyzőt nem terheli, ha
 
 - a) a pénzmosásra vagy a terrorizmus finanszírozására utaló adat, tény vagy körülmény az eljárás megindításának a szükségességével összefüggésben végzett jogi tanácsadás során jutott a tudomására,
-- b) a közjegyző nemperes eljárást folytat le.
+- b) a közjegyző – a Kjt.-ben szabályozott polgári nemperes eljárásokon kívüli – nemperes eljárást folytat le.
 
 37. § (1) A 23. §-ban meghatározott bejelentést az ügyvéd és a közjegyző a területi kamaránál köteles teljesíteni. Az ügyvéd és a közjegyző alkalmazottja – ideértve az alkalmazott ügyvédet is – a bejelentést a munkáltatói jogokat gyakorló ügyvédnél vagy közjegyzőnél teszi meg. A munkáltatói jogokat gyakorló ügyvéd vagy közjegyző a bejelentést haladéktalanul továbbítja a területi kamarának. Az ügyvédi iroda alkalmazottja a taggyűlés által kijelölt személynek tesz bejelentést, aki a bejelentést haladéktalanul továbbítja annak a kamarának, amely az irodát nyilvántartásba vette.
 

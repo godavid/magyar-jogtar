@@ -123,7 +123,7 @@ a kollektív befektetési formákról és kezelőikről, valamint egyes pénzüg
 - 52. hozzátartozó: a Ptk.-ban meghatározott fogalom;
 - 53. induló tőke: a vállalkozás alapításkori jegyzett tőkéjének, a tőketartalékának és az eredménytartalékának összege;
 - 54. jogi képviselő: az a természetes személy, akinek lakóhelye az Európai Unióban van, illetve az a jogi személy, amelynek székhelye az Európai Unióban van, és akit vagy amelyet egy nem uniós ABAK jelölt ki arra, hogy a hatóságok, ügyfelek, szervezetek és nem uniós ABAK üzletfelei felé az Európai Unióban a nevében eljárjon ezen törvény szerinti kötelezettségei tekintetében;
-- 54a. jó üzleti hírnév: a befektetési alapkezelő vezető állású személyeinek, minősített befolyással rendelkező tagjainak a befektetési alapkezelő irányítására vagy tulajdonlására való alkalmasságát igazoló feltételek megléte;
+- 54a. jó üzleti hírnév: a befektetési alapkezelő vezető állású személyeinek, teljes tevékenységet irányító személyének, a befektetés-kezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személyének, minősített befolyással rendelkező tagjainak a befektetési alapkezelő irányítására vagy tulajdonlására való alkalmasságát igazoló feltételek megléte;
 - 55. kereskedelmi kommunikáció: a tájékoztató, a kezelési szabályzat, a kiemelt befektetői információ és a hirdetmény kivételével minden, a befektetők tájékoztatását szolgáló, a kollektív befektetési értékpapír nyilvános forgalomba hozatalával és forgalmazásával összefüggésbe hozható, reklámban vagy egyéb módon közölt információ;
 - 56. kibocsátó: a Tpt.-ben meghatározott fogalom;
 - 57. kibocsátási program: a Tpt.-ben meghatározott fogalom;
@@ -434,7 +434,7 @@ alá.
 (8) A (2) és (5)–(7) bekezdés esetében
 
 - a) a befektetési alapkezelőnél, kollektív befektetési formánál, befektetési vállalkozásnál, pénzügyi intézménynél, biztosítónál, önkéntes, kölcsönös biztosító pénztárnál, magánnyugdíjpénztárnál, foglalkoztatói nyugdíj szolgáltató intézménynél,
-- b) az MNB-nél, a minisztériumban, szabályozott piacnál, tőzsdénél, a központi értéktárnál, az elszámolóháznál, központi szerződő félnél, az Államadósság Kezelő Központ Zrt.-nél, a Magyar Államkincstárnál,
+- b) az MNB-nél, a minisztériumban, szabályozott piacnál, tőzsdénél, a központi értéktárnál, központi szerződő félnél, az Államadósság Kezelő Központ Zrt.-nél, a Magyar Államkincstárnál,
 - c) ingatlanalapot kezelő befektetési alapkezelő ingatlanbefektetési tevékenységét irányító személye esetében ingatlanforgalmazónál, ingatlanalapot kezelő alapkezelőnél,
 - d) kockázatitőkealap-kezelő, magántőkealap-kezelő vezető állású személye esetén üzletviteli tanácsadással foglalkozó gazdasági társaságnál, valamint
 - e) az a)–d) pontban felsoroltak külföldi megfelelőinél szakirányú területen munkavégzésre irányuló jogviszonyban eltöltött idő számít szakmai gyakorlatnak.
@@ -452,7 +452,7 @@ alá.
 
 (11) A (10) bekezdés szerinti kizáró okokat a kérelmező külföldi tevékenysége tekintetében is vizsgálni kell.
 
-(12) A befektetési alapkezelő az (1) és (5)–(7) bekezdésben meghatározott személyek kinevezését, a személyükben bekövetkezett változást a kinevezést vagy a változást követően haladéktalanul, de legkésőbb a kinevezést vagy a változást követő 5 napon belül a Felügyeletnek köteles bejelenteni.
+(12) A befektetési alapkezelő az (1) és (2), valamint az (5)–(7) bekezdésben meghatározott személyek kinevezését, a személyükben bekövetkezett változást a kinevezést vagy a változást követően haladéktalanul, de legkésőbb a kinevezést vagy a változást követő 5 napon belül a Felügyeletnek köteles bejelenteni.
 
 (13) A 2. § (2) bekezdés szerinti kockázati tőkealap-kezelő felügyelő-bizottságának elnökére és tagjára a (2) bekezdés c) pontja nem alkalmazandó.
 
@@ -465,7 +465,7 @@ alá.
 - a) aki mentes a befektetési alapkezelő óvatos, körültekintő és megbízható (a továbbiakban együtt: prudens) működését veszélyeztető befolyástól, jó üzleti hírnévvel rendelkezik, valamint biztosítani képes a befektetési alapkezelő megbízható, gondos tulajdonosi irányítását és ellenőrzését, valamint
 - b) akinek üzleti kapcsolatrendszere és tulajdonosi szerkezete átlátható és ezáltal nem zárja ki a befektetési alapkezelő feletti hatékony felügyelet gyakorlását.
 
-(2) A befektetési alapkezelő vezető tisztségviselőjének, teljes tevékenységet irányító személyének, a befektetés-kezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személyének, üzleti tevékenységét irányító személyeinek jó üzleti hírnévvel kell rendelkezniük.
+(2) A befektetési alapkezelő vezető állású személyeinek, teljes tevékenységet irányító személyének, a befektetés-kezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személyének, üzleti tevékenységét irányító személyeinek jó üzleti hírnévvel kell rendelkezniük.
 
 (3) A jó üzleti hírnevet a kérelmezőnek, illetve annak kell bizonyítania, akinek érdekében áll, hogy azt a Felügyelet elfogadja. A jó üzleti hírnév igazolásának módját a kérelmező megválaszthatja, azonban a Felügyelet egyéb, pontosan meghatározott iratok (okmányok) benyújtását írhatja elő. A Felügyelet a jó üzleti hírnév fennállásának megállapítása érdekében az illetékes külföldi hatóságot közvetlenül megkeresheti.
 
@@ -2495,7 +2495,7 @@ kapja meg; valamint
 
 180. § (1) A Felügyelet nyilvánosságra hozhat bármely, általa alkalmazott intézkedést vagy szankciót, kivéve, ha a közzététel súlyosan veszélyeztetné az EGT pénzügyi piacait, sértené a befektetők érdekeit, vagy aránytalan kárt okozna a szankcióval vagy intézkedéssel érintett feleknek.
 
-(2) A befektetési alapkezelő köteles honlapján közzétenni a Felügyelet által vele szemben hozott határozat rendelkező részét.
+(2) A befektetési alapkezelő köteles a Felügyelet által a vele szemben hozott határozat rendelkező részét – az MNBtv. 53. §-ában meghatározott rendelkezések figyelembevételével – az adott határozat közlésétől számított 15 napon belül a honlapján közzétenni.
 
 (3) A (2) bekezdésben meghatározott közzétételi kötelezettség az adott határozat közlésétől számított öt évig áll fenn.
 
@@ -2688,15 +2688,15 @@ szavazati jogai.
 
 (2) A befektetési alap természetes személy könyvvizsgálójának megbízatása legfeljebb 5 üzleti évig tarthat, és a megbízatás lejártát követő harmadik üzleti év után lehet újabb megbízási szerződést kötni ugyanazon könyvvizsgálóval. A könyvvizsgáló cég nevében könyvvizsgálói tevékenységet ellátó kamarai tag könyvvizsgáló legfeljebb 5 üzleti évig láthat el könyvvizsgálói feladatokat ugyanannál a befektetési alapnál, és a megbízatás lejártát követő 2 üzleti éven belül nem láthat el újra – ugyanannál a befektetési alapnál – könyvvizsgálói feladatot.
 
-(3) Az (1) bekezdésben előírtakon túlmenően további követelmény a természetes személy könyvvizsgálóval szemben, hogy egyidejűleg legfeljebb tíz befektetési alapnál láthat el könyvvizsgálói feladatot, és az egy befektetési alapkezelőtől és az általa kezelt befektetési alapoktól származó jövedelme (bevétele) nem haladhatja meg az éves jövedelmének (bevételének) 30%-át.
+(3) Az (1) bekezdésben előírtakon túlmenően további követelmény a természetes személy könyvvizsgálóval szemben, hogy egyidejűleg legfeljebb húsz befektetési alapnál láthat el könyvvizsgálói feladatot, és az egy befektetési alapkezelőtől és az általa kezelt befektetési alapoktól származó jövedelme (bevétele) nem haladhatja meg az éves jövedelmének (bevételének) 30%-át.
 
-(4) Az (1) bekezdésben előírtakon túlmenően további követelmény a könyvvizsgáló cégekkel szemben, hogy a könyvvizsgáló cégen belül az (1) bekezdésben foglalt követelményeknek megfelelő könyvvizsgáló egyidejűleg legfeljebb tíz befektetési alapnál láthat el könyvvizsgálói feladatot, és a könyvvizsgáló cég egy befektetési alapkezelőtől és az általa kezelt befektetési alap(ok)tól származó bevétele nem haladhatja meg az éves nettó árbevételének 10%-át.
+(4) Az (1) bekezdésben előírtakon túlmenően további követelmény a könyvvizsgáló cégekkel szemben, hogy a könyvvizsgáló cégen belül az (1) bekezdésben foglalt követelményeknek megfelelő könyvvizsgáló egyidejűleg legfeljebb húsz befektetési alapnál láthat el könyvvizsgálói feladatot, és a könyvvizsgáló cég egy befektetési alapkezelőtől és az általa kezelt befektetési alap(ok)tól származó bevétele nem haladhatja meg az éves nettó árbevételének 10%-át.
 
 194. § (1) A befektetési alap könyvvizsgálatával megbízott könyvvizsgáló a felülvizsgálatának eredményéről a befektetési alapot kezelő befektetési alapkezelővel egyidejűleg a Felügyeletet – írásban – haladéktalanul tájékoztatja, ha olyan tényeket állapított meg, amelynek alapján
 
 - a) korlátozott vagy elutasító könyvvizsgálói záradék, illetve a záradék megadásának elutasítása válhat szükségessé;
 - b) bűncselekmény elkövetésére vagy a befektetési alap kezelési szabályzatának súlyos megsértésére, illetve az előzőekben említettek súlyos veszélyére utaló körülményeket észlel;
-- c) e törvény vagy más jogszabályok, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár szabályzataiban foglalt előírások súlyos megsértésére utaló körülményeket észlel;
+- c) e törvény vagy más jogszabályok, a tőzsde, a központi szerződő fél, illetve a központi értéktár szabályzataiban foglalt előírások súlyos megsértésére utaló körülményeket észlel;
 - d) úgy ítéli meg, hogy a befektetési alapot kezelő befektetési alapkezelő tevékenysége folytán a befektetők érdekei veszélyben forognak;
 - e) jelentős véleménykülönbség alakult ki közte és a befektetési alapkezelő vezetése között a befektetési alapkezelő által kezelt befektetési alap fizetőképességét, jövedelmét, adatszolgáltatását vagy könyvvezetését érintő, a működés szempontjából lényeges kérdésekben.
 
@@ -2762,7 +2762,7 @@ szemben.
 199. § (1) A 198. § (1) bekezdésében meghatározott titoktartási kötelezettség nem áll fenn
 
 - a) az MNB-vel, a Befektető-védelmi Alappal, az Országos Betétbiztosítási Alappal, az Állami Számvevőszékkel, a Gazdasági Versenyhivatallal,
-- b) a jogszabályban meghatározott tevékenységi körében eljáró szabályozott piaccal, multilaterális kereskedési rendszer működtetőjével, az elszámolóházi tevékenységet végző szervezettel, a központi értéktárral, a Kormány által kijelölt kormányzati ellenőrzési szervvel, valamint az európai uniós támogatások felhasználásának szabályszerűségét ellenőrző OLAF-fal,
+- b) a jogszabályban meghatározott tevékenységi körében eljáró szabályozott piaccal, multilaterális kereskedési rendszer működtetőjével, a központi szerződő féllel, a központi értéktárral, a Kormány által kijelölt kormányzati ellenőrzési szervvel, valamint az európai uniós támogatások felhasználásának szabályszerűségét ellenőrző OLAF-fal,
 - c) a hagyatéki ügyben eljáró közjegyzővel, valamint a hatáskörében eljáró gyámhatósággal,
 - d) a csődeljárás, felszámolási eljárás, önkormányzatok adósságrendezési eljárása, bírósági végrehajtási eljárás, illetve végelszámolás ügyében eljáró vagyonfelügyelővel, felszámolóval, pénzügyi gondnokkal, végrehajtóval, illetve végelszámolóval,
 - e) a folyamatban lévő büntetőeljárás keretében eljáró, valamint a feljelentés kiegészítését folytató nyomozó hatósággal, valamint a hatáskörében eljáró ügyészséggel,

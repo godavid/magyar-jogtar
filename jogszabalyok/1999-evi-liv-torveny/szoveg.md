@@ -8,13 +8,22 @@ Az Országgyűlés a bűnüldözés hatékonyságának növelése érdekében a 
 
 1. § (1) E törvény célja az Európai Unió bűnüldözési, határellenőrzési és a külföldiek beutazásának és tartózkodásának ellenőrzését szolgáló információs rendszereivel megvalósuló adat- és információcsere szabályainak megállapítása, valamint a Nemzetközi Bűnügyi Rendőrség Szervezete (INTERPOL) keretében megvalósuló együttműködés megerősítése.
 
-(2) E törvény hatálya kiterjed az Európai Rendőrségi Hivatal (EUROPOL), a Nemzetközi Bűnügyi Rendőrség Szervezete (INTERPOL), a Schengeni Információs Rendszer (SIS), a Vízuminformációs Rendszer (VIS), az Európai Csalásellenes Hivatal (OLAF), valamint a bűnüldöző szervek együttműködését szabályozó két- és többoldalú nemzetközi szerződések keretében, illetőleg az európai közösségi jogi normák alapján megvalósuló együttműködésre és információcserére.
+(2) E törvény hatálya kiterjed az Európai Rendőrségi Hivatal (EUROPOL), a Nemzetközi Bűnügyi Rendőrség Szervezete (INTERPOL), a Schengeni Információs Rendszer (SIS), a Vízuminformációs Rendszer (VIS), az EURODAC, az Európai Csalásellenes Hivatal (OLAF), valamint a bűnüldöző szervek együttműködését szabályozó két- és többoldalú nemzetközi szerződések keretében, továbbá az európai közösségi jogi normák alapján megvalósuló együttműködésre és információcserére.
 
 2. § E törvény alkalmazásában
 
 - a) nemzetközi bűnügyi együttműködés céljából létrehozott szervezet: az Európai Rendőrségi Hivatal (EUROPOL), az Európai Csalásellenes Hivatal (OLAF), a Nemzetközi Bűnügyi Rendőrség Szervezete (INTERPOL), a Schengeni Információs Rendszer (SIS) központja, valamint a bűnüldöző szervek együttműködését szabályozó egyéb többoldalú nemzetközi szerződésen alapuló regionális bűnüldözési szervezetek központja;
-- b) magyar együttműködő szerv: törvény alapján nyomozó hatósági jogkörrel rendelkező szerv; valamint külön törvény, illetőleg az Európai Unió jogi aktusa alapján a Schengeni Információs Rendszerben figyelmeztető jelzés elhelyezése céljából adattovábbításra köteles, illetőleg kiegészítő információt szolgáltató szerv;
-- c) bűnüldözési adat: a Rendőrségről szóló 1994. évi XXXIV. törvény VIII. fejezetében meghatározott bűnüldözési adatkezelés körébe tartozó adat.
+- b) magyar együttműködő szerv:
+  - ba) a törvény alapján nyomozó hatósági jogkörrel rendelkező szerv,
+  - bb) a törvény vagy az Európai Unió jogi aktusa alapján a Schengeni Információs Rendszerben figyelmeztető jelzés elhelyezése céljából adattovábbításra köteles vagy kiegészítő információt szolgáltató szerv, valamint
+  - bc) az INTERPOL FIND rendszerhez hozzáférési jogosultsággal rendelkező szerv;
+- c) bűnüldözési adat: a Rendőrségről szóló 1994. évi XXXIV. törvény VIII. fejezetében meghatározott bűnüldözési adatkezelés körébe tartozó adat;
+- d) INTERPOL FIND rendszer: a bűnmegelőzési, a bűnüldözési, valamint a határrendészeti tevékenységi körben az Interpolnak
+  - da) a személykörözési adatbázisában (Nominal Database) tárolt, az érintett körözési státuszára (körözött, gyanúsított, tanú, áldozat, fenyegetett, eltűnt, azonosítatlan), a körözés elrendelésének céljára (letartóztatás, tartózkodási hely megállapítása, további információ beszerzése, azonosítás, figyelmeztetés), valamint az új bűnelkövetési módszerek leírására vonatkozó adattartalmakhoz az elfogatóparancs alapján történő elfogás, a bűnügyi tevékenységre, személyazonosságra vonatkozó kiegészítő adat beszerzése érdekében a tartózkodási hely megállapítása, az eltűnt személyek tartózkodási helyének megállapítása, illetve az önmagukat azonosítani képtelen személyek azonosítása, felkutatása érdekében, továbbá a más országban bűncselekményt elkövetett személyekre, illetve a bűncselekmény jövőbeni elkövetésében valószínűsített érintettségre vonatkozó figyelmeztetéssel, a közbiztonságot veszélyeztető cselekményekben, eseményekben, illetve a terrorizmusban való érintettségre vagy a nemzetközi jogi szankciók hatálya alá tartozásra vonatkozó figyelmeztetéssel összefüggésben szükséges, avagy az ismeretlen holttestek azonosítását szolgáló intézkedések megtétele céljából,
+  - db) az elveszett, eltulajdonított úti okmányok adatbázisában (SLTD) tárolt adatokhoz a megtalálásuk, a jogellenes felhasználásuk, illetve a hatósági kézre kerülésük esetén a szükséges intézkedések megtétele céljából, valamint
+  - dc) az eltulajdonított gépjárművek adatbázisában (SMV) tárolt adatokhoz az egyes gépjárművek tekintetében egyedileg meghatározott intézkedések megtétele céljából
+
+történő hozzáférést lehetővé tevő hálózati adatbázis.
 
 ### A Nemzetközi Bűnügyi Együttműködési Központ
 
@@ -124,9 +133,49 @@ Az Országgyűlés a bűnüldözés hatékonyságának növelése érdekében a 
 
 (7) A NEBEK – a betekintés céljából történő hozzáférés követhetősége céljából – a hozzáférési jogosultság időtartama alatt nyilvántartást köteles vezetni a keresés végrehajtására felhatalmazott és a betekintés céljából történő hozzáférés kezdeményezésére felhatalmazott személyek nevéről és azonosító kódjáról.
 
-### II. Fejezet
+11. § Az általános rendőrségi feladatok ellátására létrehozott szerv, a belső bűnmegelőzési és bűnüldözési feladatokat ellátó szerv, a terrorizmust elhárító szerv, valamint a Nemzeti Adó- és Vámhivatal tekintetében az országos rendőrfőkapitány által kijelölt szervezeti egység ellátja az EURODAC-hoz a tagállamok kijelölt hatóságai, valamint az Europol számára a 603/2013/EU európai parlamenti és tanácsi rendelet 6. cikke alapján kijelölt ellenőrző hatóság feladatait.
 
-11–15. §
+### II. Fejezet — AZ INTERPOL FIND RENDSZER HASZNÁLATA
+
+### Az INTERPOL FIND rendszer körözési adatbázisaiban elért találatot követő eljárásrend
+
+12. § (1) Az INTERPOL FIND rendszer körözési adatbázisaiban elért találat esetén a hozzáférési jogosultsággal rendelkező szerv a NEBEK útján, találati értesítő megküldésével, késedelem nélkül kezdeményezi a körözés érvényességének az INTERPOL külföldi központi hatóság (a továbbiakban: külföldi központi hatóság) általi megerősítését.
+
+(2) E § alkalmazásában találat az INTERPOL FIND rendszer körözési adatbázisaiban kezelt adatokhoz hozzáférési jogosultsággal rendelkező szerv által végzett lekérdezés során bevitt adatnak megfelelő, az INTERPOL körözési adatbázisában fellelhető körözés, amely alapján további intézkedésnek van helye.
+
+(3) A NEBEK a hozzáférési jogosultsággal rendelkező szervtől kapott találati értesítőt haladéktalanul továbbítja a válaszadásra jogosult külföldi központi hatósághoz, 8 órán belüli megerősítést kérve.
+
+(4) Ha a hozzáférési jogosultsággal rendelkező szerv az INTERPOL FIND rendszer körözési adatbázisaiban lekérdezést végez és megállapítja, hogy van olyan körözés, amelynek adattartalma megfelel a lekérdezés alapjául szolgáló személyről vagy dologról bevitt adatoknak, de az azonosság nem egyértelmű, a NEBEK-et keresi meg az azonosság megállapítása, kiegészítő információk szolgáltatása érdekében.
+
+(5) A NEBEK az egyeztetés során azonosítási anyagot és egyéb kiegészítő információkat szerez be a külföldi központi hatóságtól, és ezeket az információkat haladéktalanul továbbítja a hozzáférési jogosultsággal rendelkező szervhez.
+
+(6) Ha a külföldi központi hatóság megerősíti a körözés érvényességét, és az esetlegesen kért kiegészítő információk is az azonosságot támasztják alá, a hozzáférési jogosultsággal rendelkező szerv foganatosítja a jogszabályban meghatározott intézkedéseket. Amennyiben a hozzáférési jogosultsággal rendelkező szerv nem jogosult a jogszabályban meghatározott intézkedések foganatosítására, a találattal érintett személyt vagy dolgot haladéktalanul átadja az intézkedések végrehajtására hatáskörrel és illetékességgel rendelkező szervnek.
+
+(7) Ha a külföldi központi hatóság tájékoztatása szerint a körözés már nem érvényes, a kiegészítő információk nem alapozzák meg az azonosságot, vagy a jogszabályban meghatározott intézkedések foganatosítására nyitva álló határidőn belül a megkeresésre nem érkezik válasz, az alkalmazott intézkedéseket haladéktalanul meg kell szüntetni.
+
+### Az INTERPOL FIND rendszer személykörözési adatbázisában rögzített adatok megfelelőségének vizsgálata
+
+13. § (1) A NEBEK jogosult az INTERPOL FIND rendszer által hozzáférhetővé tett személykörözések vonatkozásában a körözés teljesíthetőségéhez szükséges feltételek meglétét ellenőrizni általános jelleggel és egyedi ügyekben is.
+
+(2) Az INTERPOL FIND rendszer személykörözési adatbázisában kért intézkedés nem teljesíthető, ha
+
+- a) a magyar jog szabályaival ellentétes,
+- b) veszélyezteti Magyarország biztonságát, sérti közrendjét, vagy
+- c) bűnüldözési érdeket sért.
+
+(3) A NEBEK előterjesztésére a (2) bekezdés a) és b) pontjában foglalt kérdésben a rendészetért felelős miniszter, a (2) bekezdés c) pontjában foglalt kérdésben az általános rendőrségi feladatok ellátására létrehozott szerv vezetője, a Nemzeti Adó- és Vámhivatal feladat- és hatáskörét érintően annak elnöke dönt.
+
+(4) A (3) bekezdésben meghatározott személyek döntése alapján a NEBEK jogosult technikai úton kizárni a körözés teljesítésére irányuló kérést a lekérdezhető személykörözési adatok köréből, illetve találat elérése esetén a kért intézkedéseket visszautasítani.
+
+### A több adatbázisban elért találatot követően foganatosítandó intézkedések sorrendjének meghatározása
+
+14. § Ha a hozzáférési jogosultsággal rendelkező szerv megállapítja, hogy az ellenőrzés alá vont ugyanazon személy vagy dolog vonatkozásában az INTERPOL FIND rendszer több körözési adatbázisában is találatot jelez, a foganatosítandó intézkedéseket az alábbi sorrendben kell végrehajtani:
+
+- a) a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény,
+- b) a Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény, majd
+- c) az e törvény
+
+szerinti intézkedések.
 
 ### III. Fejezet — Záró rendelkezések
 
@@ -147,7 +196,11 @@ Az Országgyűlés a bűnüldözés hatékonyságának növelése érdekében a 
 
 való megfelelést szolgálja.
 
-(2) E törvény 9/A.§-a a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2006. december 20-i 1987/2006/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+(2) E törvény
+
+- a) 9/A. §-a a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2006. december 20-i, 1987/2006/EK európai parlamenti és tanácsi rendelet,
+- b) 11. §-a a harmadik országbeli állampolgár vagy hontalan személy által a tagállamok egyikében benyújtott nemzetközi védelem iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló 604/2013/EU rendelet hatékony alkalmazása érdekében az ujjlenyomatok összehasonlítását szolgáló Eurodac létrehozásáról, továbbá a tagállamok bűnüldöző hatóságai és az Europol által az Eurodac-adatokkal való, bűnüldözési célú összehasonlítások kérelmezéséről, valamint a szabadságon, a biztonságon és a jog érvényesülésén alapuló térség nagyméretű IT-rendszereinek üzemeltetési igazgatását végző ügynökség létrehozásáról szóló 1077/2011/EU rendelet módosításáról szóló, 2013. június 26-i, 603/2013/EU európai parlamenti és tanácsi rendelet 6. cikkének, valamint
+- c) 12. §-a az egyes adatoknak az Interpollal történő cseréjéről szóló, 2005. január 24-i, 2005/69/IB tanácsi közös álláspont végrehajtásához szükséges rendelkezéseket állapít meg.
 
 19. § Ez a törvény az Európai Rendőrségi Hivatal (Europol) létrehozásáról szóló, 2009. április 9-i 2009/371/IB tanácsi határozatnak való megfelelést szolgálja.
 

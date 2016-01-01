@@ -194,7 +194,7 @@ fedezetére vehető igénybe a végrehajtás szabályai szerint, ha az engedély
 
 (4) A követelés érvényesítésére külön végzés nélkül – a harmadik személyeknek a fémkereskedelmi tevékenység során okozott kár tekintetében jogerős bírósági ítélet alapján, ennek hiányában az engedélyes által írásban elismert kárösszeg erejéig – a fémkereskedelmi hatóság jogosult. A tevékenységi biztosítékot annak részben vagy egészben történő felhasználása esetén a fémkereskedő – a fémkereskedelmi hatóság erre vonatkozó felhívásának kézhezvételétől számított 15 napon belül – az engedélyben meghatározott összegig kiegészíteni köteles.
 
-(5) Az engedélykérelemhez csatolni kell az előírt feltételek teljesítését igazoló, közigazgatási hatóság, bíróság vagy a Magyar Országos Közjegyzői Kamara nyilvántartásában nem szereplő eredeti okmányokat, iratokat, nyilatkozatokat, dokumentációkat vagy azok hitelesített másolatát.
+(5) Az engedélykérelemhez a fémkereskedelmi tevékenységről szóló kormányrendeletben meghatározottak szerint csatolni kell az előírt feltételek teljesítését igazoló közigazgatási hatóság, bíróság vagy a Magyar Országos Közjegyzői Kamara nyilvántartásában nem szereplő eredeti okmányokat, iratokat, nyilatkozatokat, dokumentációkat vagy azok hitelesített másolatát.
 
 (6) Ha az engedélykérelem az e törvényben foglaltaknak megfelel, a fémkereskedelmi hatóság az engedélyt a tevékenységi biztosíték nyújtásának igazolását követő tíz munkanapon belül kiadja.
 
@@ -340,7 +340,7 @@ fémkereskedelmi engedélyköteles anyag hasznosítását, ha az így keletkezet
 - b) az elkobzott fémkereskedelmi engedélyköteles anyagok, eszközök árverés útján történt értékesítésével összefüggő költségek, továbbá
 - c) minden egyéb költség, amely az adott fémkereskedelmi jogsértési eljárással összefüggésben a fémkereskedelmi hatóságnál mint kiadás merült fel, és amelynek kiadásként történő elszámolását jogszabály nem tiltja.
 
-(13) Az értékesítésből, illetve a költségtérítés címén befolyt bevételeket a Nemzeti Adó- és Vámhivatal illetékes regionális vám- és pénzügyőri főigazgatósága előirányzat-felhasználási keretszámlájára kell megfizetni.
+(13) Az értékesítésből, illetve a költségtérítés címén befolyt bevételeket a Nemzeti Adó- és Vámhivatal fizetési számlájára kell megfizetni.
 
 14. § (1) A fémkereskedelmi hatóság nyilvántartást vezet az eltulajdonított fémkereskedelmi engedélyköteles anyagok azonosításához szükséges adatokról, amelyet honlapján közzétesz. A nyilvántartásba az általános rendőrségi feladatok ellátására létrehozott rendőrségi szerv közvetlenül adatot szolgáltat.
 

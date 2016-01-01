@@ -331,7 +331,7 @@ részletes szabályait rendeletben meghatározza.
 - a) az egészségügyért felelős miniszter, hogy
   - aa) a veszélyes anyagok, illetve a veszélyes keverékek osztályba sorolásához szükséges R és S mondatok, R és S számok, továbbá a veszélyszimbólumok és jelek körét;
   - ab) az e törvényben meghatározott eljárások során használt bejelentőlap, mérgezési eset bejelentő lap tartalmi és formai követelményeit,
-  - ac) az egészségügyi kártevőirtó tevékenység folytatásának részletes feltételeit, az e tevékenységre jogosító engedély kiadásának rendjét, a nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket, valamint az egészségügyi kártevőirtó tevékenységet végző természetes személyek szakmai továbbképzésére vonatkozó szabályokat,
+  - ac) az egészségügyi kártevőirtó szerekkel, valamint gázosítószerekkel végzett tevékenység folytatásának részletes feltételeit, az e tevékenységre jogosító engedély kiadásának rendjét, a nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket, valamint az egészségügyi kártevőirtó szerekkel, valamint gázosítószerekkel tevékenységet végző természetes személyek szakmai továbbképzésére vonatkozó szabályokat,
   - ad) a csomagolás, a feliratozás (címkézés) részletes szabályait,
   - ae)
   - af) a vegyi anyagok okozta mérgezési esetek kötelező bejelentésének szabályait,

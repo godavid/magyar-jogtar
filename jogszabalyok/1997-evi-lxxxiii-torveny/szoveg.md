@@ -26,6 +26,8 @@ terjed ki.
 
 (2) Az egészségbiztosítási ellátások – az e törvényben foglalt kivételekkel – a pénzbeli egészségbiztosítási járulékfizetési kötelezettséggel arányosan vehetők igénybe.
 
+(3) Az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályokban meghatározott engedélyezési eljárásokban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+
 3. § (1) Az egészségügyi szolgáltatások azonos szakmai tartalommal illetik meg az egészségbiztosítás egészségügyi szolgáltatásaira jogosult személyeket.
 
 (2) Az egészségügyi szolgáltatásra hajléktalanként jogosult személyt az egészségbiztosítás egészségügyi szolgáltatásai külön jogszabályban meghatározott feltételek szerint illetik meg.
@@ -282,7 +284,7 @@ amennyiben Magyarországon egészségügyi szolgáltatást nem az uniós rendele
 - h) a nem egészségügyi indokból végzett művi meddővé tétel,
 - i) az egészségi állapotot pozitív irányban alapvetően nem befolyásoló, szakmailag nem bizonyítottan hatásos ellátás,
 - j) a g)–i) pontban meghatározott ellátások következményeinek elhárítására, illetve az eredeti állapot visszaállítására irányuló egészségügyi szolgáltatások,
-- k) a méltányosságból igénybe vehető egészségügyi szolgáltatások kivételével a Magyarországon szakmailag elfogadott, de a finanszírozásba még be nem fogadott eljárás, gyógyszer, gyógyászati segédeszköz alkalmazása, illetve a befogadott egészségügyi szolgáltatás befogadástól eltérő alkalmazása,
+- k) a méltányosságból igénybe vehető egészségügyi szolgáltatások kivételével a Magyarországon szakmailag elfogadott, de a finanszírozásba még be nem fogadott eljárás, gyógyszer, gyógyászati segédeszköz alkalmazása, illetve a befogadott egészségügyi szolgáltatás befogadástól eltérő alkalmazása, valamint az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 25/C. §-a szerinti engedélyezés előtti gyógyszeralkalmazás,
 - l) a kizárólag orvostudományi kutatás keretében nyújtott ellátások,
 - m) a biztosított kísérőjének részére az egészségügyi szolgáltató által biztosított szállás és étkezés, kivéve, ha a biztosított a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény szerint fogyatékos személynek minősül,
 - n) a járművezetői alkalmassági vizsgálatok,
@@ -317,7 +319,11 @@ amennyiben Magyarországon egészségügyi szolgáltatást nem az uniós rendele
 
 (13)–(14)
 
-#### 18/A. §
+18/A. § (1) Az egészségügyi és hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvény (a továbbiakban: Eüak.) szerinti, Elektronikus Egészségügyi Szolgáltatási Tér (a továbbiakban: EESZT) működtetője (a továbbiakban: működtető) biztosítja, hogy a beutaló elektronikus úton is kiállítható, valamint az EESZT útján továbbítható legyen.
+
+(2) A működtető biztosítja, hogy a beutalásra jogosult, valamint a biztosított a beutaló szerinti egészségügyi szolgáltatás konkrét egészségügyi szolgáltatónál és időpontban történő igénybevételére vonatkozó igényét az EESZT útján terjessze elő, valamint ennek sikerességéről vagy sikertelenségéről az egészségügyi szolgáltató az EESZT útján tájékoztassa a beutalásra jogosultat, illetve a biztosítottat.
+
+(3) A működtető az (1) és (2) bekezdésben foglaltakról nyilvántartást vezet. A nyilvántartás adatait a működtető az (1) bekezdés szerinti beutaló visszavonásától, felhasználásától vagy felhasználási idejének lejártától számított 5 év, illetve a (2) bekezdés szerinti foglalások időpontjától számított 5 év elteltével törli.
 
 19. § (1) Az egészségügyi ellátás keretében a biztosított a kezelőorvos által gyógyító céllal rendelt, az egészségbiztosításért felelős miniszter által az adott ellátásra meghatározott finanszírozási eljárásrend, vizsgálati és terápiás eljárási rend, valamint rehabilitációs ellátási program szerinti szolgáltatásokra jogosult. Ha a biztosított állapota és a gyógyítás szempontjai azt szükségessé teszik, a kezelőorvos a finanszírozási eljárásrendben, a vizsgálati és terápiás eljárási rendben, valamint a rehabilitációs ellátási programokban foglaltaktól eltérhet.
 
@@ -330,6 +336,8 @@ amennyiben Magyarországon egészségügyi szolgáltatást nem az uniós rendele
 19/A. § (1) A gyógyító-megelőző eljárások során alkalmazott egészségügyi technológiák egészségbiztosítási finanszírozásba történő befogadása külön jogszabály szerinti eljárásban történik.
 
 (1a) Az (1) bekezdés szerinti eljárásban a kérelmet – az egészségügyi technológiák egészségbiztosítási finanszírozásba történő befogadásának alapelveiről, feltételrendszeréről és részletes szabályairól, valamint a már befogadott technológiák körének felülvizsgálatáról és módosításáról szóló kormányrendeletben meghatározott adattartalmú nyomtatvány vagy elektronikus űrlap kitöltésével – papír alapon és elektronikus adathordozón is be kell nyújtani.
+
+(1b) Ha a gyógyító-megelőző eljárások során alkalmazott egészségügyi technológiák egészségbiztosítási finanszírozásba történő előzetes befogadása iránti kérelem új eszközt nem igénylő új orvosi eljárásra irányul, az ügyintézési határidő hatvan nap.
 
 (2) A gyógyító-megelőző eljárások során alkalmazott egészségügyi technológiák egészségbiztosítási finanszírozásba történő befogadásához kapcsolódó egyes eljárásokért – az egészségbiztosításért felelős miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott – igazgatási szolgáltatási díjat kell fizetni.
 
@@ -407,7 +415,7 @@ lehet. Az eltérés lehetőségének feltételeit és szabályait az egészségb
 
 (2) A központi várólistát kormányrendeletben kijelölt szerv működteti. A kormányrendeletben kijelölt szerv a működtetéshez a külön jogszabályban meghatározott közreműködőt vehet igénybe. Az intézményi várólistát az adott ellátást nyújtó egészségügyi szolgáltató szervezeti és működési szabályzatában e feladatra kijelölt személy vezeti.
 
-(3) A várólista adatai – kizárólag személyazonosításra alkalmatlan módon – intézményi várólista esetében az ellátást nyújtó egészségügyi szolgáltató honlapján, központi várólista esetén a kormányrendeletben kijelölt szerv honlapján megtekinthetőek, ebben a formájukban nyilvánosak. A transzplantációs várólista kivételével az ellátás igénybevételének várható időpontját is közzé kell tenni. Az egészségbiztosító honlapjáról a kormányrendeletben kijelölt szerv honlapjának, az országos várólista-nyilvántartás vezető szerv honlapjáról pedig a várólista alapján ellátást nyújtó egészségügyi szolgáltatók honlapjainak is közvetlenül elérhetőeknek kell lenniük.
+(3) A várólista adatai – kizárólag személyazonosításra alkalmatlan módon – intézményi várólista esetében az ellátást nyújtó egészségügyi szolgáltató honlapján, központi várólista esetén a kormányrendeletben kijelölt szerv honlapján megtekinthetőek, ebben a formájukban nyilvánosak. A transzplantációs várólista kivételével az ellátás igénybevételének várható időpontját is közzé kell tenni. Az egészségbiztosító honlapjáról a kormányrendeletben kijelölt szerv honlapjának közvetlenül elérhetőnek kell lennie.
 
 (4) A várólista adatait a honlapon – folyamatosan, de legkésőbb a változást követő 3 napon belül – úgy kell közzétenni, hogy abból egyértelműen megállapítható legyen az adott biztosított számára a várólistán elfoglalt helye. A közzétételre vonatkozó részletes szabályokat az egészségbiztosításért felelős miniszter rendeletben határozza meg.
 
@@ -576,6 +584,41 @@ kivéve azon gyógyszereket, melyekre vonatkozó azonos indikációs területre 
 - a) gyógyszerhez az E. Alap gyógyszertámogatás jogcímcsoport előirányzatának a különös méltánylást érdemlő körülmények esetén felhasználható összeg időarányos részének terhére,
 - b) gyógyászati segédeszközhöz az E. Alap Gyógyászati segédeszköz támogatás jogcímcsoport előirányzatának a különös méltánylást érdemlő körülmények esetén felhasználható összeg időarányos részének terhére nyújtható. Amennyiben a méltányosságból megítélt támogatás adott hónapban meghaladja az a), illetve b) pontban meghatározott keretet, az a következő havi időarányos részt terheli.
 
+26/A. § (1) A Magyarországon, vagy az Európai Bizottság által forgalomba hozatalra engedélyezett, korábban még nem kérelmezett hatóanyagú vagy indikációjú gyógyszer
+
+- a) amellyel kezelendő betegek száma várhatóan évente meghaladja a 15 főt, vagy
+- b) amelynek napi terápiás költsége meghaladja termelői vagy import beszerzési áron számítva a 15 000 Ft-ot,
+
+méltányosságból a (2)–(7) bekezdésben foglaltaknak megfelelően támogatható.
+
+(2) Az Országos Egészségbiztosítási Pénztár (a továbbiakban: OEP) az (1) bekezdés szerinti gyógyszer méltányosságból történő támogatására irányuló, a 26. § (1) bekezdés c) pontja szerinti kérelem beérkezését követően kikéri az Országos Gyógyszerterápiás Tanács (a továbbiakban: OGYTT) véleményét. Az OGYTT vizsgálja az adott gyógyszeres terápiától várható egészségnyereséget, a várható betegek összes számát, az egy főre és egy terápiás ciklusra jutó kezelés költségét, a rendelkezésre álló támogatási keretet és javaslatot tesz arra, hogy indokoltnak tartja-e egyedi méltányossági regiszter indítását az adott gyógyszerrel kezelendő betegek számára és javaslatot tesz az egyedi méltányossági regiszter működtetésének alábbi feltételeire:
+
+- a) a betegbeválasztás feltételei,
+- b) a terápia eredményességének értékeléséhez szükséges betegszám, a regiszter vezetésének időtartama,
+- c) a diagnózis felállításához, a kezelés végzéséhez, a terápiaeredményesség vizsgálatához szükséges személyi és tárgyi feltételek,
+- d) a regiszterben rögzítendő adatok köre, valamint
+- e) a terápia eredményesség időbeni követésének feltételei.
+
+(3) Ha az OGYTT egyedi méltányossági regiszter indítását tartja indokoltnak, az OEP az OGYTT által tett javaslatok alapján indítja el az egyedi méltányossági regisztert.
+
+(4) Az (1) bekezdés szerinti korábban még nem kérelmezett hatóanyagú vagy indikációjú gyógyszerre kizárólag az egyedi méltányossági regiszter felállításáig nyújtható méltányosságból támogatás a 26. § szerint. Ezt követően az adott gyógyszer kizárólag a meghatározott időtartamra létrehozott egyedi méltányossági regiszterbe történő bevonással támogatható, oly módon, hogy az egyedi méltányossági regiszterbe vont gyógyszerek forgalombahozatali engedély jogosultja támogatásvolumen-szerződést köt az OEP-pel.
+
+(5) A (3) bekezdés szerinti esetben az OEP tájékoztatja az adott gyógyszer forgalomba hozatali engedélyének jogosultját arról, hogy a gyógyszeres terápia tekintetében egyedi méltányossági regisztert indít.
+
+(6) Az OEP értesíti a beteg kezelőorvosát arról, hogy a beteg az egyedi méltányossági regiszterbe felvételre került. A kezelőorvos a kezelés során, valamint a kezelés lezárultakor az OEP által meghatározott időközönként kiértékelő jelentést küld az OEP-nek az adott beteg állapotáról, illetve a kezelés eredményességéről.
+
+(7) Az OEP az egyedi méltányossági regiszterbe rögzített adatok alapján a gyógyszeres terápiák eredményességét értékeli, amely értékelést figyelembe veszi az adott gyógyszer későbbiekben beérkező egyedi méltányossági vagy támogatási kérelmeinek elbírálása során. Ha az OEP az értékelés alapján az egyedi méltányossági regiszterbe vont gyógyszer eredményes és hatékony alkalmazhatóságát állapítja meg, úgy az egészségbiztosításért felelős miniszternek javaslatot tehet a gyógyszer támogatásba való befogadásához szükséges rendeletmódosításra.
+
+(8) Az OEP a (7) bekezdés szerinti értékelést megküldi az OGYTT-nek és a gyógyszer forgalomba hozatali engedély jogosultjának.
+
+26/B. § (1) Az OEP – a 26/A. § alapján támogatott gyógyszerek kivételével – minden év január 31-ig felülvizsgálja a 26. § (1) bekezdés c) pontja alapján egyedi méltányosságból támogatott gyógyszerek körét, az egyes gyógyszerekkel kezelt betegek számát, a kifizetett társadalombiztosítási támogatás összegét.
+
+(2) Azon Magyarországon, vagy az Európai Bizottság által forgalomba hozatalra engedélyezett gyógyszerek vonatkozásában, melyek esetében az (1) bekezdés szerinti felülvizsgálatot megelőző naptári évben több, mint 15 beteg méltányossági támogatásban részesült, vagy melyek napi terápiás költsége meghaladja a 15 000 Ft-ot, az OEP a 26/A. § (2) bekezdésében foglaltaknak megfelelően kikérheti az OGYTT véleményét egyedi méltányossági regiszter indításának szükségességét illetően.
+
+(3) Ha az OGYTT egyedi méltányossági regiszter indítását tartja indokoltnak, az OEP az OGYTT által tett javaslatok alapján indítja el az egyedi méltányossági regisztert. Ebben az esetben az adott gyógyszerre méltányosságból támogatás a 26/A. § (4) bekezdésében foglaltak alapján nyújtható.
+
+(4) Az e § alapján indított egyedi méltányossági regiszterre vonatkozóan alkalmazni kell a 26/A. § (2)–(8) bekezdését.
+
 ### 5. CÍM — Külföldön történő gyógykezelés
 
 27. § (1) Amennyiben a biztosított – ide nem értve a megállapodás alapján egészségügyi ellátásra jogosultakat – EGT tagállam területén kívüli állam (a továbbiakban: harmadik állam) területén átmenetileg tartózkodik munkavállalás, tanulmányok folytatása vagy egyéb jogcímen és a 12–14. §-okban, továbbá a 15. § (1) bekezdésében meghatározott valamely egészségügyi szolgáltatást – a feltétlenül szükséges mértékig –, továbbá sürgősségi betegszállítást azért vesz igénybe harmadik állam területén lévő tartózkodási helyén, mert annak elmaradása az életét vagy testi épségét súlyosan veszélyezteti, illetve maradandó egészségkárosodáshoz vezetne, az egészségbiztosító a felmerült és igazolt költségeket az igénybevétel idején érvényes belföldi költség mértékének megfelelő összegben, sürgősségi betegszállítás esetén a számla szerinti összegnek a Magyar Nemzeti Bank által közzétett, az igénybevételkor érvényes középárfolyamon számított forint összegben megtéríti.
@@ -632,7 +675,7 @@ igazolja.
 
 (3) Az 5/B. § s) pont sa) alpontja szerinti határon átnyúló egészségügyi ellátást igénybevevő személy jogosultságát az e törvény végrehajtására kiadott kormányrendeletben meghatározott dokumentummal igazolja.
 
-(4) A biztosított az egészségügyi szolgáltatás igénybevételéhez – ha jogszabály eltérően nem rendelkezik – a Társadalombiztosítási Azonosító Jelet (a továbbiakban: TAJ-szám) igazoló hatósági igazolványát és – amennyiben a biztosított a 14. életévét betöltötte – érvényes, a személyazonosság megállapítására alkalmas igazolványát köteles bemutatni. A biztosított a TAJ-számát a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény szerinti összerendelési nyilvántartásra vonatkozó rendelkezések szerint is igazolhatja.
+(4) A biztosított az egészségügyi szolgáltatás igénybevételéhez – ha jogszabály eltérően nem rendelkezik – a társadalombiztosítási azonosító jelet (a továbbiakban: taj-szám) igazoló hatósági igazolványát és – amennyiben a biztosított a 14. életévét betöltötte – érvényes, a személyazonosság megállapítására alkalmas igazolványát köteles bemutatni. A biztosított a taj-számát a tároló elemmel rendelkező állandó személyazonosító igazolványával – a technikai feltételek megléte esetén – elektronikusan is igazolhatja, amennyiben a külön törvényben meghatározottak szerint a tároló elem azt tartalmazza. A biztosított a taj-számát a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény szerinti összerendelési nyilvántartásra vonatkozó rendelkezések szerint is igazolhatja.
 
 (5) A 27. § (1) és (2) bekezdése szerinti ellátások költségeinek megtérítése iránti igényt legkésőbb a hazaérkezést követő harminc napon belül, a 27. § (6) bekezdése szerinti ellátások költségeinek megtérítése iránti igényt pedig a hazaérkezést követő tizenöt napon belül kell az egészségbiztosítónál bejelenteni.
 
@@ -988,11 +1031,11 @@ PÉNZBELI ELLÁTÁSAI
 
 39. § (1) Az, aki ugyanazon biztosítási jogviszony alapján egyidejűleg táppénzre vagy baleseti táppénzre, csecsemőgondozási díjra, illetve gyermekgondozási díjra is jogosult, választása szerint – az e törvényben foglalt kivételekkel – csak az egyik ellátást veheti igénybe.
 
-(2) Az, aki ugyanazon gyermek jogán egyidejűleg gyermekgondozási segélyre, gyermeknevelési támogatásra (a továbbiakban együtt: gyermekgondozási támogatás) és az (1) bekezdés szerinti ellátásokra is jogosult, választása szerint csak az egyik ellátást veheti igénybe, kivéve azt a személyt, aki gyermekgondozási támogatás, illetve gyermekgondozási díj igénybevétele mellett munkát vállal és keresőképtelenségére tekintettel táppénzre vagy baleseti táppénzre jogosult.
+(2) Az, aki ugyanazon gyermek jogán egyidejűleg gyermekgondozást segítő ellátásra, gyermeknevelési támogatásra (a továbbiakban együtt: gyermekgondozási támogatás) és az (1) bekezdés szerinti ellátásokra is jogosult, választása szerint csak az egyik ellátást veheti igénybe, kivéve azt a személyt, aki gyermekgondozási támogatás, illetve gyermekgondozási díj igénybevétele mellett munkát vállal és keresőképtelenségére tekintettel táppénzre vagy baleseti táppénzre jogosult.
 
 (3) Ha a szülők a közös háztartásukban élő gyermekük után egyidejűleg jogosultak táppénzre, csecsemőgondozási díjra, gyermekgondozási díjra, valamint gyermekgondozási támogatásra, választásuk szerint – a (7) bekezdésben foglaltakat kivéve – az ellátást csak az egyik szülő veheti igénybe.
 
-(4) A szülő a különböző korú gyermekei jogán a gyermekgondozási segélyt és az (1) bekezdés szerinti ellátásokat egyidejűleg is igénybe veheti.
+(4) A szülő a különböző korú gyermekei jogán a gyermekgondozást segítő ellátást és az (1) bekezdés szerinti ellátásokat egyidejűleg is igénybe veheti.
 
 (5) Ha a szülő különböző korú gyermekeire tekintettel az egyik gyermeke után jogosult csecsemőgondozási díjra vagy gyermekgondozási díjra, akkor a másik gyermeke jogán járó csecsemőgondozási díjat vagy gyermekgondozási díjat egyidejűleg is igénybe veheti.
 
@@ -1076,7 +1119,7 @@ ha az (1) bekezdésben foglalt feltételek fennállnak.
 
 (4) Ha a biztosított naptári napi jövedelme a minimálbér kétszeresének harmincad részét nem éri el, a csecsemőgondozási díj összegének megállapításánál a biztosított tényleges jövedelmét kell figyelembe venni. Tényleges jövedelem hiányában a szerződés szerinti jövedelmet kell figyelembe venni azzal, hogy a naptári napi alap a jogosultság kezdő napján érvényes minimálbér kétszeresének harmincad részét nem haladhatja meg.
 
-(4a) Ha a gyermek gyermekgondozási díj vagy gyermekgondozási segély igénybevétele alatt, vagy annak megszűnését követő egy éven belül születik, és az újabb gyermek születését megelőzően utolsóként született gyermek jogán megállapított csecsemőgondozási díj naptári napi alapja magasabb összegű, mint a (2)–(4) bekezdés alapján számított csecsemőgondozási díj naptári napi alapja, akkor a magasabb naptári napi alap alapján kell az ellátást megállapítani.
+(4a) Ha a gyermek gyermekgondozási díj vagy gyermekgondozást segítő ellátás igénybevétele alatt, vagy annak megszűnését követő egy éven belül születik, és az újabb gyermek születését megelőzően utolsóként született gyermek jogán megállapított csecsemőgondozási díj naptári napi alapja magasabb összegű, mint a (2)–(4) bekezdés alapján számított csecsemőgondozási díj naptári napi alapja, akkor a magasabb naptári napi alap alapján kell az ellátást megállapítani.
 
 (4b) A (4a) bekezdés csak akkor alkalmazható, ha az utolsóként megállapított ellátás alapja kizárólag a jogosultság kezdő napján fennálló jogviszonyban elért jövedelem figyelembevételével került megállapításra.
 
@@ -1111,15 +1154,11 @@ ha az (1) bekezdésben foglalt feltételek fennállnak.
 - b) a közép- vagy felsőfokú oktatási intézmény nappali tagozatán egy évnél hosszabb ideig folytatott tanulmány idejéből 180 napot,
 - c) a rehabilitációs járadék, rehabilitációs ellátás folyósításának idejét.
 
-42/B. § (1) A gyermekgondozási díj legkorábban a csecsemőgondozási díj, illetőleg az annak megfelelő időtartam lejártát követő naptól a gyermeket szülő anya esetében a szülést, egyéb esetben a jogosultságot megelőző 2 éven belül megszerzett biztosításban töltött napoknak megfelelő időtartamra, de legfeljebb a gyermek 2. életévének betöltéséig jár.
+42/B. § (1) A gyermekgondozási díj legkorábban a csecsemőgondozási díj, illetőleg az annak megfelelő időtartam lejártát követő naptól a gyermek 2. életévének betöltéséig jár.
 
 (1a) Ikergyermekek esetén a gyermekgondozási díj a csecsemőgondozási díj, illetőleg az annak megfelelő időtartam lejártát követő naptól az (1) bekezdésben meghatározott időtartamot követően további 1 évig jár.
 
-(2) Ha a gyermekgondozási díjra jogosult a jogosultság megszerzésekor vagy azt megelőző 2 éven belül másik – különböző korú – gyermekére tekintettel jogosult volt gyermekgondozási díjra, a gyermekgondozási díj folyósításának időtartama
-
-- a) nem lehet rövidebb az utoljára folyósított gyermekgondozási díj (1) bekezdés alapján megállapított időtartamánál,
-- b) nem hosszabbodik meg az új gyermekgondozási díj megállapítására jogosító gyermek jogán megállapított csecsemőgondozási díj jogosultsági idejével, és
-- c) nem hosszabbodik meg az utolsóként született gyermek jogán megállapított gyermekgondozási díj, gyermekgondozási segély jogosultsági idejével.
+(2) A gyermekgondozási díj iránti kérelem benyújtható a csecsemőgondozási díj iránti kérelemmel együtt is.
 
 (3)
 
@@ -1127,18 +1166,18 @@ ha az (1) bekezdésben foglalt feltételek fennállnak.
 
 42/C. § (1) Nem jár a gyermekgondozási díj, ha
 
-- a) a jogosult a gyermek 1 éves kora előtt bármilyen jogviszonyban – ide nem értve a nevelőszülői foglalkoztatási jogviszonyban végzett tevékenységet – keresőtevékenységet folytat;
+- a)
 - b) a jogosult a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 4. § (1) bekezdés i) pontjában meghatározott egyéb rendszeres pénzellátásban részesül, ide nem értve a táppénzt, a baleseti táppénzt, a csecsemőgondozási díjat, a gyermekgondozási díjat, a gyermekgondozási támogatást, az álláskeresési járadékot és segélyt, a vállalkozói és a munkanélküli járadékot, valamint az álláskeresést ösztönző juttatást, vagy ha a jogosult rendszeres pénzellátásban részesül és a csecsemőgondozási díjra vagy a gyermekgondozási díjra való jogosultság kezdő napján pénzbeli egészségbiztosítási járulék fizetésére kötelezett;
 - c) a gyermeket ideiglenes hatállyal elhelyezték, nevelésbe vették, továbbá ha harminc napot meghaladóan bentlakásos szociális intézményben helyezték el;
-- d) a gyermeket napközbeni ellátást biztosító intézményben (bölcsőde, családi napközi, házi gyermekfelügyelet) helyezték el, kivéve ha a gyermek 1 éves kora után a jogosult keresőtevékenységet folytat, továbbá ide nem értve a rehabilitációs, habilitációs foglalkozást nyújtó intézményi elhelyezést;
+- d) a gyermeket napközbeni ellátást biztosító intézményben (bölcsőde, családi napközi, házi gyermekfelügyelet) helyezték el, kivéve ha a jogosult keresőtevékenységet folytat, továbbá ide nem értve a rehabilitációs, habilitációs foglalkozást nyújtó intézményi elhelyezést;
 - e) a jogosult előzetes letartóztatásban van vagy szabadságvesztés-, elzárásbüntetését tölti;
-- f) a gyermekgondozási díj első igénybevétele a gyermek egy éves kora után kezdődik, az első igénybevétel első napjától számított 60 napig, ha a jogosult bármilyen jogviszonyban – ide nem értve a nevelőszülői foglalkoztatási jogviszonyban végzett tevékenységet – keresőtevékenységet folytat, kivéve ha az igénylő a gyermekre tekintettel csecsemőgondozási díjat vett igénybe, vagy a gyermekgondozási díjban részesülő meghal;
+- f)
 - g) a gyermek a gyermekgondozási díjra való jogosultság ideje alatt meghal, az elhalálozás időpontját követő hónap első napjától, vagy ha addig a halál időpontjától számítva 15 napnál kevesebb van hátra, akkor az elhalálozást követő 16. naptól;
 - h) ikergyermekek esetében valamelyik gyermek
   - ha) a gyermekgondozási díjra való jogosultság ideje alatt meghal, azonos várandósságból született egynél több testvér hiányában a 42/B. § (1) bekezdésében meghatározott időpontot követően,
   - hb) a 42/B. § (1) bekezdésében meghatározott időtartamot követő 1 éven belül meghal, azonos várandósságból született egynél több testvér hiányában az elhalálozás időpontját követő hónap első napjától, vagy ha addig a halál időpontjától számítva 15 napnál kevesebb van hátra, akkor az elhalálozást követő 16. naptól.
 
-(2) Az (1) bekezdés a) és f) pontja alkalmazásában nem minősül keresőtevékenységnek az ellátásra való jogosultság kezdőnapját megelőzően végzett tevékenységből származó jövedelem – ideértve a szerzői jog védelme alatt álló alkotásért járó díjazást és a személyi jövedelemadó-mentes tiszteletdíjat is –, ha az az ellátás folyósításának ideje alatt kerül kifizetésre.
+(2) A 42/E. § (4a) bekezdése alkalmazásában nem minősül keresőtevékenységnek az ellátásra való jogosultság kezdőnapját megelőzően végzett tevékenységből származó jövedelem – ideértve a szerzői jog védelme alatt álló alkotásért járó díjazást és a személyi jövedelemadó-mentes tiszteletdíjat is –, ha az az ellátás folyósításának ideje alatt kerül kifizetésre.
 
 (3) A gyermekgondozási díj az (1) bekezdés g) pontja szerinti esetben legfeljebb a 42/B. § (1) bekezdésében meghatározott időpontig, az (1) bekezdés h) pontja szerinti esetben pedig legfeljebb a 42/B. § (1a) bekezdésében meghatározott időpontig jár.
 
@@ -1153,11 +1192,11 @@ de legfeljebb havonta a mindenkori minimálbér kétszeresének 70%-a.
 
 (3) Ha a naptári napi alap nem állapítható meg a (2) bekezdésben foglaltak szerint, akkor a naptári napi alap a jogosultság kezdő napján érvényes minimálbér kétszeresének harmincad része azzal, hogy ha a biztosított naptári napi jövedelme a minimálbér kétszeresének harmincad részét nem éri el, a gyermekgondozási díj összegének megállapításánál a biztosított tényleges jövedelmét kell figyelembe venni. Tényleges jövedelem hiányában a szerződés szerinti jövedelmet kell figyelembe venni.
 
-(4) A (2) bekezdés alapján maximális összegben megállapított gyermekgondozási díj összegét minden év január 15-éig hivatalból felül kell vizsgálni, és a tárgyévre érvényes összeghatár figyelembevételével január 1-jei időponttól újra meg kell állapítani.
+(4) A maximális összegben megállapított gyermekgondozási díj összegét minden év január 15-éig hivatalból felül kell vizsgálni, és a tárgyévre érvényes összeghatár figyelembevételével január 1-jei időponttól újra meg kell állapítani.
 
-(5) Ha a gyermek gyermekgondozási díj vagy gyermekgondozási segély igénybevétele alatt, vagy annak megszűnését követő egy éven belül születik, és az újabb gyermek születését megelőzően utolsóként született gyermek jogán megállapított csecsemőgondozási díj naptári napi alapja magasabb összegű, mint a (2) és (3) bekezdés alapján számított gyermekgondozási díj naptári napi alapja, akkor a magasabb naptári napi alap alapján kell az ellátást megállapítani.
+(5) Ha a gyermek gyermekgondozási díj vagy gyermekgondozást segítő ellátás igénybevétele alatt, vagy annak megszűnését követő egy éven belül születik, és az újabb gyermek születését megelőzően utolsóként született gyermek jogán megállapított csecsemőgondozási díj naptári napi alapja magasabb összegű, mint a (2) és (3) bekezdés alapján számított gyermekgondozási díj naptári napi alapja, akkor a magasabb naptári napi alap alapján kell az ellátást megállapítani.
 
-(6) Az (5) bekezdés csak akkor alkalmazható, ha az utolsóként megállapított csecsemőgondozási díj alapja kizárólag a jogosultság kezdő napján fennálló jogviszonyban elért jövedelem figyelembevételével került megállapításra.
+(6) Az (5) bekezdés csak akkor alkalmazható, ha az utolsóként született gyermeket közvetlenül megelőzően született gyermekre tekintettel megállapított csecsemőgondozási díj alapja kizárólag a jogosultság kezdő napján fennálló jogviszonyban elért jövedelem figyelembevételével került megállapításra.
 
 (7) A gyermekgondozási díj megállapításakor határozatban kell rendelkezni az ellátás folyósításának időtartamáról és naptári napi összegéről.
 
@@ -1185,6 +1224,8 @@ de legfeljebb havonta a mindenkori minimálbér kétszeresének 70%-a.
 
 (4) A vér szerinti apa részére a gyermekgondozási díj a (2) bekezdésben meghatározott jogosultsági időből igénybe nem vett időszakra jár, de legfeljebb a gyermek 1 éves koráig.
 
+(4a) A gyermek születését követő 169. napot megelőzően nem jár gyermekgondozási díj az (1) és (3) bekezdés alapján jogosult részére arra az időszakra, amikor bármilyen jogviszonyban – ide nem értve a nevelőszülői foglalkoztatási jogviszonyban végzett tevékenységet – keresőtevékenységet folytat.
+
 (5) Az (1), illetve a (3) bekezdés alapján megállapított gyermekgondozási díj havi összege
 
 - a) a felsőfokú alapképzésben, felsőfokú szakképzésben vagy felsőoktatási szakképzésben, valamint a szakirányú továbbképzésben részt vevő hallgató esetén a jogosultság kezdő napján érvényes kötelező legkisebb munkabér,
@@ -1194,13 +1235,15 @@ de legfeljebb havonta a mindenkori minimálbér kétszeresének 70%-a.
 
 (6) Ha az (1), illetve a (3) bekezdés alapján gyermekgondozási díjra jogosult személy a szülés napján biztosított és a számítási időszakban rendelkezik legalább 120 naptári napi jövedelemmel, az ellátás összegét a 48. § (1) és (2) bekezdése alapján kell kiszámítani azzal, hogy az ellátás összege nem lehet kevesebb az (5) bekezdés a), illetve b) pontjában meghatározott összegnél, valamint nem lehet magasabb havonta a minimálbér kétszeresének 70 százalékánál.
 
-(7) Ha az (1), illetve a (3) bekezdés alapján gyermekgondozási díjra jogosult biztosított nem rendelkezik legalább 180 naptári napi jövedelemmel, az ellátás összegét az (5) bekezdés szerint kell megállapítani.
+(7) Ha az (1), illetve a (3) bekezdés alapján gyermekgondozási díjra jogosult biztosított a számítási időszakban nem rendelkezik legalább 120 naptári napi jövedelemmel, az ellátás naptári napi alapját a jogosultság kezdő napján érvényes minimálbér kétszeresének harmincad része alapján kell megállapítani azzal, hogy ha a biztosított naptári napi jövedelme a minimálbér kétszeresének harmincad részét nem éri el, a gyermekgondozási díj összegének megállapításánál a biztosított tényleges jövedelmét kell figyelembe venni. Tényleges jövedelem hiányában a szerződés szerinti jövedelmet kell figyelembe venni. Az így megállapított gyermekgondozási díj összege nem lehet alacsonyabb az (5) bekezdésben meghatározott összegnél.
 
 (8) Ha az (1) vagy a (3) bekezdés alapján gyermekgondozási díjra jogosult személy az (1) bekezdés b) pontja szerinti hallgatói jogviszony megszűnését követő 1 éven belül válik jogosulttá az ellátásra és az ellátás összege nem állapítható meg a (6) bekezdés alapján, a gyermekgondozási díj összegét az (5) bekezdés a) vagy b) pontja szerint kell megállapítani.
 
 (9) Az (5) és a (6) bekezdés alapján megállapított gyermekgondozási díj összegét minden év január 15-éig hivatalból felül kell vizsgálni és a tárgyévre érvényes kötelező legkisebb munkabér, illetve garantált bérminimum figyelembevételével január 1-jei időponttól újra meg kell állapítani.
 
 (10) Az (1)–(9) bekezdés szerint megállapított gyermekgondozási díjra a 42/B–42/D. § rendelkezései közül azokat kell alkalmazni, amelyektől eltérő rendelkezést az (1)–(9) bekezdés nem tartalmaz.
+
+42/F. § A 42/A. § (1) bekezdése és a 42/E. § (1) bekezdése alkalmazásában akkor állapítható meg, hogy a szülő a gyermeket a saját háztartásában neveli, ha a gyermek a szülővel közös háztartásban életvitelszerűen együtt él és a gyermeket a szülő neveli, illetve gondozza.
 
 ### Táppénz
 
@@ -1266,7 +1309,7 @@ de legfeljebb havonta a mindenkori minimálbér kétszeresének 70%-a.
 
 - a) a keresőképtelenségnek arra az időtartamára, amely alatt a biztosítás szünetel, munkavégzési kötelezettség hiányában keresetveszteség nincs, továbbá a betegszabadság lejártát követő szabadnapra és heti pihenőnapra, ha az azt követő munkanapon (munkaszüneti napon) a keresőképtelenség már nem áll fenn,
 - b) a keresőképtelenségnek arra a tartamára, amelyre a biztosított a teljes keresetét megkapja, illetve, ha a keresetét részben kapja meg, a részben megkapott kereset után,
-- c) a gyermekgondozási segély folyósításának az idejére, ide nem értve a segély mellett végzett munka alapján járó táppénzt,
+- c) a gyermekgondozást segítő ellátás folyósításának az idejére, ide nem értve a segély mellett végzett munka alapján járó táppénzt,
 - d) az előzetes letartóztatás és a szabadságvesztés tartamára.
 - e) a saját jogú nyugdíj folyósításának időtartamára.
 - f) a korhatár előtti ellátás, a szolgálati járandóság, a balettművészeti életjáradék és az átmeneti bányászjáradék folyósításának az idejére, ide nem értve a korhatár előtti ellátás, a szolgálati járandóság, a balettművészeti életjáradék, illetve az átmeneti bányászjáradék mellett végzett munka alapján járó táppénzt.
@@ -1291,7 +1334,7 @@ de legfeljebb havonta a mindenkori minimálbér kétszeresének 70%-a.
 
 (8) Az (5) bekezdés csak akkor alkalmazható, ha az utolsóként megállapított ellátás alapja kizárólag a jogosultság kezdő napján fennálló jogviszonyban elért jövedelem figyelembevételével került megállapításra.
 
-48/A. § (1) A biztosításban töltött idő akkor folyamatos, ha abban 30 napnál hosszabb megszakítás nincs. A 30 napi megszakítás időtartamába nem számít be a táppénz, a baleseti táppénz, a csecsemőgondozási díj, a gyermekgondozási díj – kivéve a 42/E. § alapján megállapított gyermekgondozási díj – és a gyermekgondozási segély folyósításának az ideje.
+48/A. § (1) A biztosításban töltött idő akkor folyamatos, ha abban 30 napnál hosszabb megszakítás nincs. A 30 napi megszakítás időtartamába nem számít be a táppénz, a baleseti táppénz, a csecsemőgondozási díj, a gyermekgondozási díj – kivéve a 42/E. § alapján megállapított gyermekgondozási díj – és a gyermekgondozást segítő ellátás folyósításának az ideje.
 
 (2) A 48. § (2)–(4) bekezdése szerinti naptári napi átlag megállapításánál 180 napi folyamatos biztosításban töltött időként a Tbj. 5. §-ában meghatározott biztosításban töltött napokat lehet figyelembe venni. E szabály alkalmazásában a biztosítás akkor tekinthető folyamatosnak, ha abban 30 napnál hosszabb megszakítás nincs.
 
@@ -1543,6 +1586,8 @@ bírálja el és utólag folyósítja.
 
 (1a) Az, aki az egészségbiztosítás pénzbeli ellátását vagy baleseti táppénzt azért vett fel jogalap nélkül, mert az ellátásban részesülő biztosítottra vonatkozóan a korábban bevallott jövedelemadatok az állami adóhatóságnál módosításra kerültek, felróhatóságra való tekintet nélkül köteles azt visszafizetni.
 
+(1b) Ha a szülők egyike jogalap nélkül vette fel a gyermekük után járó pénzbeli ellátást vagy gyermekgondozási támogatást, mindkét szülő erre irányuló egybehangzó nyilatkozata alapján a jogalap nélkül felvett ellátás a másik szülőnek – a közös háztartásban nevelt gyermekükre tekintettel – megállapított pénzbeli ellátás összegéből levonható. Ha a szülők nem járulnak hozzá egybehangzó nyilatkozattal a levonáshoz, a jogalap nélkül felvett ellátást – felróhatóságra tekintet nélkül – az a szülő köteles visszafizetni, aki az ellátást felvette.
+
 (2) Az (1) bekezdésben meghatározott idő elteltével a jogalap nélkül felvett ellátást attól lehet visszakövetelni, akinek az ellátás felvétele felróható.
 
 (3) A foglalkoztató és egyéb szerv, valamint az egészségügyi szolgáltató köteles megtéríteni a jogalap nélkül felvett ellátást, ha az ellátás jogalap nélküli megállapítása, illetőleg folyósítása mulasztásának vagy a valóságtól eltérő adatszolgáltatásának a következménye és az ellátást az (1) bekezdés alapján visszakövetelni nem lehet.
@@ -1675,7 +1720,7 @@ bírálja el és utólag folyósítja.
 
 (2) Az egészségügyi szolgáltató az (1) bekezdésében meghatározott adatok kezelését, az egészségbiztosító felé történő továbbítását a külön jogszabályban és a szerződésében előírt formában és módon teljesíti.
 
-(3) Az egészségbiztosító a pénzbeli ellátásokkal kapcsolatos kimutatások készítése céljából kezelheti a gyermekgondozási segélyre vonatkozó – az egységes szociális nyilvántartással kapcsolatos adatfeldolgozási feladatokat ellátó szerv, szervezet által szolgáltatott – alábbi adatokat:
+(3) Az egészségbiztosító a pénzbeli ellátásokkal kapcsolatos kimutatások készítése céljából kezelheti a gyermekgondozást segítő ellátásra vonatkozó – az egységes szociális nyilvántartással kapcsolatos adatfeldolgozási feladatokat ellátó szerv, szervezet által szolgáltatott – alábbi adatokat:
 
 - a) az ellátást igénybevevő TAJ száma,
 - b) azon gyermek TAJ száma, aki után az ellátás igénybevételére sor kerül vagy került, és
@@ -1786,6 +1831,16 @@ bírálja el és utólag folyósítja.
 
 - a) az egyes törvényeknek a gyermekgondozási ellátások átalakításával, valamint a szociális hozzájárulási adó megfizetése alóli kedvezmény bővítésével összefüggő módosításáról szóló 2013. évi CCXXIV. törvény által megállapított 39. § (2) bekezdésében meghatározott esetet, vagy
 - b) ha az adott gyermek jogán igénybe vehető ellátás tekintetében a (3) vagy (4) bekezdésben foglaltak szerint kell eljárni.
+
+82/I. § (1) A 42/B. § (1) és (2) bekezdésének az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2015. évi LXXVII. törvény általi módosítását a 2015. december 31-ét követően gyermekgondozási díjra jogosulttá váló biztosítottak gyermekgondozási díjának megállapítása során kell alkalmazni.
+
+(2) A 42/C. § (1) bekezdés f) pontjának az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2015. évi LXXVII. törvény általi módosítását azon gyermekekre tekintettel kell alkalmazni, akik 2015. december 31-ét követően töltik be az első életévüket.
+
+82/J. § (1) Ha az utolsóként született gyermeket közvetlenül megelőzően született gyermekre tekintettel megállapított csecsemőgondozási díj, valamint gyermekgondozási díj összegének megállapításakor alkalmazásra került a 82/F. §, és az ellátás összege a 2013. július 14-én hatályos szabályok alapján került folyósításra, a 42. § (4b) bekezdése és a 42/D. § (6) bekezdése alkalmazása során azon megállapított csecsemőgondozási díj összegét is figyelembe kell venni, amelynek a biztosított részére történő folyósítására nem került sor.
+
+(2) Az (1) bekezdést az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2015. évi LXXVII. törvénnyel megállapított 42. § (4a) és (4b) bekezdése, valamint 42/D. § (5) és (6) bekezdése alkalmazásával megállapított valamennyi csecsemőgondozási díjra és gyermekgondozási díjra alkalmazni kell.
+
+82/K. § Ahol e törvény gyermekgondozást segítő ellátást említ, azon gyermekgondozási segélyt kell érteni, ha az ellátásra való jogosultság 2016. január 1-jét megelőzően nyílt meg.
 
 ### Záró rendelkezések
 

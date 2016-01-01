@@ -76,7 +76,7 @@ eltérő szabályozást állapíthat meg.
 
 (3) A fióktelep útján folytatott tevékenységgel összefüggésben keletkezett tartozások végrehajtása során a külföldi vállalkozás valamennyi belföldön található vagyonára végrehajtás vezethető.
 
-12. § (1) A fióktelep könyvvezetésére, beszámoló készítésére, a beszámoló nyilvánosságra hozatalára és közzétételére vonatkozó előírásokat, valamint az ezekkel összefüggő sajátos szabályokat és mentességeket a számviteli törvény, illetve az annak felhatalmazása alapján kiadott kormányrendelet tartalmazza.
+12. § (1) A fióktelep könyvvezetésére, beszámoló készítésére, a beszámoló nyilvánosságra hozatalára és közzétételére vonatkozó előírásokat, valamint az ezekkel összefüggő sajátos szabályokat és mentességeket a számviteli jogszabályok tartalmazzák.
 
 (2) A fióktelep a külföldi vállalkozás számviteli beszámolóját a beszámoló elfogadásától számított 60 napon belül a külön törvényben foglaltak alapján, letétbe helyezés és közzététel céljából a céginformációs szolgálat részére megküldi.
 

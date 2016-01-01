@@ -313,7 +313,7 @@ feltéve, hogy az üzlet egyébként megfelel a dohánytermékek értékesítés
 
 fogadhatja el.
 
-15/D. § (1) A dohánytermék-kiskereskedő köteles valamennyi általa forgalmazott dohánytermékből típusonként, márkajelzésenként, illetve – ha ilyen van – a márkajelzések minden alfajtája után egyet-egyet a dohányboltban a pultvonal felett, illetve az elkülönített helyen belül a fogyasztók számára jól láthatóan, a csomagolás előlapjával megjeleníteni.
+15/D. § (1) A dohánytermék-kiskereskedő köteles valamennyi általa forgalmazott dohánytermékből – a szivarokat kivéve – típusonként, márkajelzésenként, illetve – ha ilyen van – a márkajelzések minden alfajtája után egyet-egyet a dohányboltban a pultvonal felett, illetve az elkülönített helyen belül a fogyasztók számára jól láthatóan – amennyiben a csomagoláson ilyen van – a képpel kombinált figyelmeztetést tartalmazó oldalával, egyébként pedig a csomagolás előlapjával megjeleníteni.
 
 (2) Amennyiben a dohánytermék-nagykereskedő az általa gyártott, vagy forgalmazott (szabadforgalomba bocsátott) dohánytermék(ek), vagy termékcsoport(ok) kedvezőbb (így különösen nagyobb felületen, vagy kiemeléssel történő) megjelenítését kívánja a dohányboltban, úgy erről a dohánytermék-kiskereskedővel határozott időre – írásban – polckép-szerződést köthet. A polckép-szerződésnek tartalmaznia kell legalább
 

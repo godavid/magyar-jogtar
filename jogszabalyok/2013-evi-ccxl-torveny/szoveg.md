@@ -621,7 +621,7 @@ szabadságvesztés végrehajthatósága.
 (6) A büntetés végrehajtását haladéktalanul meg kell kezdeni, ha
 
 - a) az elítélt gyermeke halva született, utóbb meghalt, vagy a gyermek véglegesen vagy tartósan kikerült az elítélt gondozásából, és azt a nő szülés utáni egészségi állapota lehetővé teszi,
-- b) az elítélt részére a gyermekgondozási díj, gyermekgondozási segély vagy gyermeknevelési támogatás folyósítását egy év eltelte előtt megszüntetik,
+- b) az elítélt részére a gyermekgondozási díj, gyermekgondozást segítő ellátás vagy gyermeknevelési támogatás folyósítását egy év eltelte előtt megszüntetik,
 - c) az elítélt fogvatartása vagy házi őrizete megszűnik, kivéve ha a közérdekű munka végrehajtásának e törvény szerinti végrehajtási akadálya áll fenn.
 
 (7) A (6) bekezdés a) pontja szerinti szülés utáni egészségi állapotról az igazságügyi orvos-szakértő vagy a szülést levezető egészségügyi intézmény főorvosa nyilatkozik.
@@ -1355,18 +1355,29 @@ végrehajtásához szükséges adatokat ismerheti meg és kezelheti.
 
 alapján fogadja be.
 
-### Az elítélt személy azonosságának megállapítása
+### Az elítélt személyazonosságának megállapítása
 
-89. § (1) Ha a befogadás során az elítélt személyazonossága iránt kétség merül fel és az a személyazonosító okmánya alapján nem tisztázható, a bv. intézet ellenőrzi, hogy az elítélt
+89. § (1) A befogadás során a bv. intézet az elítélt személyazonosságát ellenőrzi.
 
-- a) arcképmása szerepel-e a bűnügyi nyilvántartási rendszerben,
-- b) ujj- és tenyérnyomata szerepel-e a daktiloszkópiai nyilvántartásban.
+(2) A bv. intézet az ellenőrzés során a befogadás alapjául szolgáló iratokban szereplő adatok alapján átveszi az elítéltnek a bűnügyi nyilvántartási rendszer személyazonosító adatok és fényképek nyilvántartásában kezelt adatait és azokat összeveti a befogadás alapjául szolgáló iratokban szereplő adatokkal.
 
-(2) Ha az elítélt arcképmása szerepel a bűnügyi nyilvántartási rendszerben, a bv. intézet a befogadás során rögzíti az elítélt arcképmását és azt összehasonlítja a bűnügyi nyilvántartási rendszerben szereplő arcképmással.
+(3) Ha az átvett adatok tartalmaznak az elítélt ujj- és tenyérnyomatához tartozó szakrendszeri azonosító kódot, a bv. intézet az elítélt azonosítása érdekében rögzíti az elítélt ujjnyomatát és kezdeményezi a szakértői nyilvántartó szervnél a Bnytv. 82. § (5) bekezdés b) pontja szerinti összehasonlítást. Az összehasonlítást elektronikus úton, az erre a célra szolgáló elektronikus berendezés révén történő beolvasással kell elvégezni. Az ujjnyomat kezelése az összehasonlítás elvégzéséig tarthat.
 
-(3) Ha az elítélt ujj- és tenyérnyomata szerepel a daktiloszkópiai nyilvántartásban, a bv. intézet az elítélt azonosítása érdekében a Bnytv. 82. § (5) bekezdés b) pontja szerint kezdeményezi a szakértői nyilvántartó szervnél az elítélt ujj- és tenyérnyomatának összehasonlítását a daktiloszkópiai nyilvántartásban szereplő ujj- és tenyérnyomattal.
+(4) A személyazonosságának megállapítása érdekében a bv. intézet az elítéltről képfelvételt készíthet, amelyet jogosult az arcképelemző tevékenység igénybevétele céljából az arcképprofil nyilvántartás részére megküldeni.
 
-(4) Ha az (1)–(3) bekezdésben foglalt intézkedések nem jártak eredménnyel az elítélt személyazonosságának megállapítása érdekében a bv. intézet a székhelye szerint illetékes rendőri szervhez fordul.
+(5) Ha a (2)–(4) bekezdés alapján elvégzett ellenőrzés eredményeként az elítélt személyazonosságával kapcsolatban kétség merült fel, a bv. intézet a személyazonosság ellenőrzése céljából az elítélt személyazonosság igazolására alkalmas hatósági igazolványában vagy tartózkodásra jogosító okmányában, ezek hiányában a befogadás alapjául szolgáló iratokban szereplő adatok alapján elektronikus úton, egyedi informatikai alkalmazás igénybevételével adatot igényel a személyiadat- és lakcímnyilvántartásból, a közúti közlekedési nyilvántartás engedély-nyilvántartásából, az útiokmány-nyilvántartásból vagy az idegenrendészeti nyilvántartásokból.
+
+(6) Az (5) bekezdés alapján a bv. intézet az idegenrendészeti nyilvántartásokból az érintett következő adatait veheti át:
+
+- a) természetes személyazonosító adatait,
+- b) állampolgárságára vonatkozó adatokat,
+- c) arcképmását,
+- d) aláírását, valamint
+- e) a személyazonosság igazolására alkalmas hatósági igazolványa vagy tartózkodásra jogosító okmánya okmányazonosítóját és az érvényességére vonatkozó adatokat.
+
+(7) Ha a (2)–(5) bekezdésben foglalt intézkedések nem jártak eredménnyel, az érintett személyazonosságának megállapítása érdekében a bv. intézet a székhelye szerint illetékes rendőri szervet keresi meg.
+
+(8) A (2)–(3) és (5) bekezdés alapján átvett személyes adatokat a személyazonosság tisztázását követően haladéktalanul törölni kell.
 
 ### A befogadás megtagadása
 
@@ -1385,13 +1396,46 @@ alapján fogadja be.
 
 (4) Az ideiglenes befogadás az arra okot adó körülmény megszűnéséig, de legfeljebb harminc napig tarthat.
 
-#### 92–94. §
+### Központi Kivizsgáló és Módszertani Intézet és a Kockázatelemzési és Kezelési Rendszer
+
+92. § (1) A Központi Kivizsgáló és Módszertani Intézet (a továbbiakban: KKMI) a Kockázatelemzési és Kezelési Rendszer alapján elvégzi az e törvényben meghatározott elítéltek kockázatelemző, valamint az egyéb reintegrációs programokat és döntéseket elősegítő vizsgálatát.
+
+(2) Az egy év hat hónapot meghaladó tartamú szabadságvesztésre ítélt személyt a KKMI-ben kell elhelyezni, ha várható szabadulásáig több mint egy év van hátra. A KKMI-ben az elítélt elhelyezése legfeljebb harminc napig tarthat, amit a KKMI főigazgatója indokolt esetben további harminc nappal meghosszabbíthat.
+
+(3) A KKMI-ben eltöltött időszak kockázatértékelési összefoglaló jelentéssel zárul, amely tartalmazza az elítélt befogadásakor mért általános – visszaesési és fogvatartási – kockázatát, meghatározza a kockázat csökkentéséhez szükséges egészségügyi, pszichológiai, biztonsági és reintegrációs feladatokat, amelyet a bv. intézetnek a reintegrációs tevékenysége során figyelembe kell vennie. Az elítéltet tájékoztatni kell a kockázatértékelési összefoglaló jelentés tartalmáról, valamint a javasolt visszaesési és fogvatartási kockázatot csökkentő reintegrációs programok igénybevételéről.
+
+93. § (1) A KKMI elvégzi az elítélt újbóli kockázati csoportba sorolását a kiemelkedően magas kockázattal bíró elítéltek rezsimváltását megelőzően és a fogvatartásra különös veszélyt jelentő események bekövetkezésében részt vevő elítéltek esetében.
+
+(2) E törvény eltérő rendelkezése hiányában az elítéltet szabadulása előtt legalább hat hónapon belül záró kockázatelemzési vizsgálatnak kell alávetni a KKMI-ben, amelynek időtartama húsz napig terjedhet, amelyet a KKMI főigazgatója további tíz nappal meghosszabbíthat. A záró kockázatértékelési jelentésben kell rögzíteni az elítélt szabadulásakor mért visszaesési kockázatát.
+
+(3) A bv. intézeti szakterületi véleményezést megelőzően az (1) bekezdésben foglaltak szerint kell eljárni a feltételes szabadságra és reintegrációs őrizetre bocsátáshoz készítendő előterjesztés megalapozása érdekében azzal, hogy a vizsgálatot az előterjesztés benyújtásának esedékességét megelőző két hónapon belül meg kell kezdeni.
+
+(4) Nem kell elvégezni annak az elítéltnek a záró kockázatértékelését,
+
+- a) aki nem tartozik a 92. § (2) bekezdés alá,
+- b) aki az anya-gyermek részlegen van elhelyezve,
+- c) aki a társadalmi kötődés programban vesz részt,
+- d) aki a reintegrációs őrizetben van, vagy
+- e) akinél a fogva tartó bv. intézet ezt nem javasolja.
+
+94. § (1) A KKMI a tevékenysége során keletkező fogvatartotti kockázatelemzéshez szükséges adatokat rendszerezi, elemzi, értékeli, indokolt esetben adatot szolgáltat a büntetés-végrehajtási ügyben döntésre jogosultak részére. Az elítéltről készült kockázatelemzési jelentéseket a fogvatartotti nyilvántartásban rögzíteni kell és a bv. intézet által az elítélttel kapcsolatban kezelt iratok között kell elhelyezni.
+
+(2) A KKMI új szakmai módszerek és eljárások kidolgozását is elvégzi.
 
 ### Befogadási és Fogvatartási Bizottság
 
 95. § (1) A bv. intézetek Befogadási és Fogvatartási Bizottságot (a továbbiakban: BFB) működtetnek.
 
-(2)–(4)
+(2) Az elítéltet
+
+- a) a befogadást követően, vagy
+- b) a 92. § (2) bekezdésében meghatározott kivizsgálást követően a kijelölt bv. intézetben
+
+a befogadó részlegen kell elhelyezni, ahol legfeljebb tizenöt napig tartózkodhat. A befogadó részlegen való elhelyezés időtartamába nem számít be az IMEI-ben, a Központi Kórházban vagy a más bv. intézetben megőrzésen töltött idő.
+
+(3) A bv. intézeti befogadást követően a kockázatértékelési összefoglaló jelentés alapján a befogadó részleg vezetője az elítélt együttműködésével kialakítja és rögzíti az egyéniesített fogvatartási programtervet, majd a BFB az elítélt személyes meghallgatását követő nyolc napon belül dönt az elítélt rezsimbe sorolásáról és a bv. intézetben működő reintegrációs programokon való részvételéről.
+
+(4) Ha az elítélt KKMI-ben elvégzett vizsgálatára és értékelésére e törvény szerint nem kerül sor, az elítéltet a KKMI által kiadott módszertan alapján a BFB sorolja be az adott fokozathoz tartozó megfelelő rezsimszabály alá.
 
 (5) Az elítélt egyéniesítéséhez igazodó rezsimbe sorolásáról és annak megváltoztatásáról, valamint a magas szintű biztonsági kockázati besorolásáról – a 26. § (4) bekezdésében foglaltak figyelembevételével – a BFB határozattal dönt.
 
@@ -1426,6 +1470,8 @@ alapján fogadja be.
 (4) A BFB részletes feladatait, tagjait, eljárásrendjét az országos parancsnok határozza meg.
 
 (5) A bv. intézet parancsnokának hatáskörei kapcsán a BFB véleményezési, illetve javaslattételi feladatokat is elláthat.
+
+(6) A BFB a KKMI részére az elítélt záró kockázatelemzési vizsgálatához véleményt készít.
 
 ### A szabadságvesztés végrehajtásának rendje
 
@@ -3482,12 +3528,12 @@ illeti meg.
 (3) A bv. intézet parancsnoka az elzárást hivatalból vagy az elítélt kérelmére félbeszakítja, ha az elzárásra ítélt
 
 - a) a tizenkettedik hetet meghaladóan várandós, a gyermek egy éves koráig, feltéve, hogy gyermekét a saját háztartásában gondozza,
-- b) gyermekgondozási díjban vagy gyermekgondozási segélyben részesül, annak hátralévő idejére, de legfeljebb egy évre.
+- b) gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesül, annak hátralévő idejére, de legfeljebb egy évre.
 
 (4) A (3) bekezdés alkalmazása esetén a büntetés végrehajtását haladéktalanul folytatni kell, ha
 
 - a) a gyermek nem az elzárásra ítélt gondozásában van,
-- b) a gyermekgondozási díj vagy a gyermekgondozási segély folyósítását egy év eltelte előtt megszüntetik.
+- b) a gyermekgondozási díj vagy a gyermekgondozást segítő ellátás folyósítását egy év eltelte előtt megszüntetik.
 
 (5) A félbeszakítás tartama az elzárás tartamába nem számít be. A félbeszakítás alatt az elzárás elévülése nyugszik.
 
@@ -3496,7 +3542,7 @@ illeti meg.
 278. § Az elzárás vagy annak hátralevő része nem hajtható végre, ha az ítélet jogerőre emelkedését követően az elzárásra ítélt
 
 - a) a szülést követően gyermekének gondozásáról egy éven át saját háztartásában gondoskodott,
-- b) legalább egy évig gyermekgondozási díjban vagy gyermekgondozási segélyben részesült,
+- b) legalább egy évig gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesült,
 - c) öt évet vagy azt meghaladó időt töltött szabadságvesztésben vagy előzetes letartóztatásban, vagy két évet vagy azt meghaladó időt töltött javítóintézetben.
 
 ### Katona elzárására vonatkozó szabályok
@@ -3681,13 +3727,13 @@ más munkahelyen célszerű,
 (2) A büntetés-végrehajtási bíró a közérdekű munka végrehajtását hivatalból vagy az elítélt kérelmére félbeszakítja, ha az elítélt
 
 - a) a tizenkettedik hetet meghaladóan várandós, a gyermek egy éves koráig, feltéve, hogy gyermekét a saját háztartásában gondozza,
-- b) gyermekgondozási díjban vagy gyermekgondozási segélyben részesül, annak hátralévő idejére, de legfeljebb egy évre,
+- b) gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesül, annak hátralévő idejére, de legfeljebb egy évre,
 - c) egészségi állapotában olyan tartós változás következett be, amely a közérdekű munka végrehajtását ideiglenesen nem teszi lehetővé, vagy a foglalkoztathatósági szakvélemény alapján, vagy a foglalkoztatási korlátozásokra és a kijelölhető munkahelyekre figyelemmel az elítélt ideiglenesen nem foglalkoztatható, legfeljebb egy évre.
 
 (3) A (2) bekezdés alkalmazása esetén a büntetés végrehajtását haladéktalanul folytatni kell, ha
 
 - a) a gyermek nem az elítélt gondozásában van,
-- b) a gyermekgondozási díj vagy a gyermekgondozási segély folyósítását egy év eltelte előtt megszüntetik,
+- b) a gyermekgondozási díj vagy a gyermekgondozást segítő ellátás folyósítását egy év eltelte előtt megszüntetik,
 - c) az elítélt egészségi állapota a közérdekű munka elvégzését lehetővé teszi, illetve a megismételt vizsgálat szerinti foglalkoztathatósági szakvélemény alapján az elítélt foglalkoztatható.
 
 (4) A félbeszakítás tartama a közérdekű munka tartamába nem számít be. A félbeszakítás alatt az elévülés nyugszik.
@@ -3697,7 +3743,7 @@ más munkahelyen célszerű,
 289. § A közérdekű munka vagy annak hátralévő része nem hajtható végre, ha az ítélet jogerőre emelkedése után az elítélt
 
 - a) a szülést követően gyermekének gondozásáról egy éven át saját háztartásában gondoskodott,
-- b) legalább egy évig gyermekgondozási díjban vagy gyermekgondozási segélyben részesült,
+- b) legalább egy évig gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesült,
 - c) egészségi állapotában olyan tartós változás következett be, amely a közérdekű munka végrehajtását nem teszi lehetővé, vagy a foglalkoztathatósági szakvélemény, vagy a megismételt vizsgálat szerinti foglalkoztathatósági szakvélemény alapján a közérdekű munka végzésére az elítélt nem alkalmas,
 - d) öt évet vagy azt meghaladó időt töltött szabadságvesztésben vagy előzetes letartóztatásban.
 
@@ -4183,6 +4229,10 @@ terhelik.
 
 (2) Ha a kényszergyógykezelés elrendelésekor a beteg szabadlábon van, a bíróság az Országos Mentőszolgálat útján intézkedik a beteg IMEI-be történő beszállítása iránt. A beteg ellenállása esetén a beszállításhoz a rendőrség közreműködése igénybe vehető.
 
+(2a) A befogadás során az IMEI a kényszergyógykezelt személyazonosságát ellenőrzi.
+
+(2b) Ha a személyazonossággal kapcsolatban kétség merült fel, az érintett személyazonosságának megállapítása érdekében az IMEI a székhelye szerint illetékes rendőri szervet keresi meg.
+
 (3) A befogadással egyidejűleg a beteget – egészségi állapotának megfelelően – tájékoztatni kell jogairól és kötelezettségeiről.
 
 (4) A kényszergyógykezelés végrehajtása alatt a beteg nem tarthat magánál olyan tárgyakat,
@@ -4358,14 +4408,18 @@ terhelik.
 
 (4) A javítóintézet rendjének fenntartása érdekében gondoskodni kell – az ébresztőtől a takarodóig – a fiatalkorú folyamatos felügyeletéről, tevékenysége irányításáról, valamint éjszakai nyugalma biztosítása érdekében a hálótermek rendszeres ellenőrzéséről.
 
-347. § (1) A javítóintézet a befogadáskor
+347. § (1) A befogadás során a javítóintézet a fiatalkorú személyazonosságát ellenőrzi.
 
-- a) a fiatalkorú adatait a gyermekek védelméről szóló törvény rendelkezései szerint nyilvántartásba veszi (a továbbiakban: fiatalkorúak nyilvántartása), és személyi adatlapot állít ki róla,
+(2) Ha a személyazonossággal kapcsolatban kétség merült fel, az érintett személyazonosságának megállapítása érdekében a javítóintézet a székhelye szerint illetékes rendőri szervet keresi meg.
+
+(3) A javítóintézet a befogadáskor
+
+- a) a fiatalkorú adatait a gyermekek védelméről szóló törvény rendelkezései szerint nyilvántartásba veszi (a továbbiakban: fiatalkorúak nyilvántartása) és személyi adatlapot állít ki róla,
 - b) a fiatalkorúról arcképmást készít, ami a ki- és belépés ellenőrzése érdekében kiállítandó javítóintézeti azonosító kártyán használható.
 
-(2) A javítóintézeti kártya igazolja a fiatalkorú személyazonosságát.
+(4) A javítóintézeti azonosító kártya igazolja a fiatalkorú személyazonosságát.
 
-(3) A fiatalkorú a javítóintézetben nem tarthat magánál olyan tárgyat,
+(5) A fiatalkorú a javítóintézetben nem tarthat magánál olyan tárgyat,
 
 - a) amelynek birtoklása a közbiztonságot veszélyezteti vagy jogszabályba ütközik,
 - b) amely a javítóintézet rendjét, biztonságát, valamint ezek fenntartását és ellenőrzését, saját vagy mások életét, testi épségét és egészségét veszélyezteti,
@@ -4862,6 +4916,10 @@ a javítóintézet utógondozó részleget működtet.
 (2) Az előzetes letartóztatást a bíróságnak a tárgyalás előkészítése során hozott határozatáig az ügyész, ezt követően a bíróság (a továbbiakban: rendelkezési jogkör gyakorlója) rendelkezésének megfelelően kell végrehajtani.
 
 (3) A végrehajtásért felelős szerv az előzetesen letartóztatottat a bíróság végzése szerint kiállított értesítőlap alapján fogadja be.
+
+(4) A befogadás során a végrehajtásért felelős szerv az előzetesen letartóztatott személyazonosságát ellenőrzi.
+
+(5) Ha a személyazonossággal kapcsolatban kétség merült fel, erről a végrehajtásért felelős szerv a rendelkezési jogkör gyakorlóját értesíti.
 
 ### Az előzetes letartóztatás végrehajtásának helye
 
@@ -5375,7 +5433,11 @@ felelős.
 
 ### XXXII. Fejezet — A RENDBÍRSÁG HELYÉBE LÉPŐ ELZÁRÁS VÉGREHAJTÁSA
 
-432. § (1) A rendbírság helyébe lépő elzárás végrehajtására a VII. Fejezetben foglaltakat a (2) és (3) bekezdésben meghatározott eltérésekkel kell alkalmazni.
+432. § (1) A rendbírság helyébe lépő elzárás végrehajtására a VII. Fejezetben foglaltakat az (1a)–(3) bekezdésben meghatározott eltérésekkel kell alkalmazni.
+
+(1a) A befogadás során a bv. intézet a rendbírság helyébe lépő elzárásra kötelezett személyazonosságát ellenőrzi.
+
+(1b) Ha a személyazonossággal kapcsolatban kétség merült fel, az érintett személyazonosságának megállapítása érdekében a bv. intézet a székhelye szerint illetékes rendőri szervet keresi meg.
 
 (2) A rendbírság helyébe lépő elzárásra kötelezett
 
@@ -5401,6 +5463,10 @@ felelős.
 
 (1a) A szabálysértési elzárást a Szabs. tv. 139. § (1) és (1a) bekezdésében meghatározott helyen kell végrehajtani.
 
+(1b) A befogadás során az elkövető személyazonosságát ellenőrizni kell.
+
+(1c) Ha a személyazonossággal kapcsolatban kétség merült fel, az érintett személyazonosságának megállapítása érdekében a bv. intézet a székhelye szerint illetékes rendőri szervet keresi meg.
+
 (2) A szabálysértési elzárás végrehajtásának elévülését félbeszakítja, ha az elkövetővel szemben elzárást vesznek foganatba. Ennek a körülménynek a megszűnéséig az elévülés nyugszik.
 
 (3) A szabálysértési elzárás nem hajtható végre, ha
@@ -5423,7 +5489,7 @@ felelős.
 
 - a) a szabadságvesztés, az elzárás, az előzetes letartóztatás és a rendbírság helyébe lépő elzárás végrehajtásának részletes szabályait a büntetés-végrehajtásért felelős miniszterrel, a katonák vonatkozásában a honvédelemért felelős miniszterrel egyetértésben, a legfőbb ügyész véleményének kikérésével,
 - b) a Pártfogó Felügyelői Szolgálat és a pártfogó felügyelők tevékenységének szabályait, a büntetés-végrehajtási pártfogó felügyelők tevékenységének vonatkozásában a büntetés-végrehajtásért felelős miniszterrel, a katonák pártfogó felügyeletének vonatkozásában a honvédelemért felelős miniszterrel egyetértésben,
-- c) az elkobzás végrehajtásának szabályait a Nemzeti Adó- és Vámhivatal felügyeletét ellátó miniszterrel és a rendészetért felelős miniszterrel egyetértésben,
+- c) az elkobzás végrehajtásának szabályait a Nemzeti Adó- és Vámhivatalt irányító miniszterrel és a rendészetért felelős miniszterrel egyetértésben,
 - d) a kényszergyógykezelés és az ideiglenes kényszergyógykezelés végrehajtására, valamint az IMEI feladataira vonatkozó szabályokat a büntetés-végrehajtásért felelős miniszterrel egyetértésben,
 - e) a büntetőügyekben hozott határozatok végrehajtása során a bíróságokra és egyéb szervekre háruló feladatokra vonatkozó szabályokat,
 - f) a szabadságvesztés kezdő és utolsó napjának megállapítására vonatkozó szabályokat a büntetés-végrehajtásért felelős miniszterrel egyetértésben,
@@ -5476,13 +5542,13 @@ felelős.
 
 (9) A 205., a 206., a 279., a 302–303., a 306. és a 316. §-t arra az elítéltre is alkalmazni kell, akit a 1978. évi IV. törvény alkalmazásával katonai büntetőeljárásban katonaként ítéltek el.
 
-(10) Az elítéltet a befogadást követően a befogadó részlegen kell elhelyezni, ahol legfeljebb tizenöt napig tartózkodhat. Az országos parancsnok által kiadott módszertani útmutató alapján lefolytatott kockázatelemzési vizsgálat lefolytatását követően a BFB kockázatértékelési összefoglaló jelentésben rögzíti az elítélt befogadásakor mért általános – visszaesési és fogvatartási – kockázatát, valamint meghatározza a kockázat csökkentéséhez szükséges egészségügyi, pszichológiai, biztonsági és reintegrációs feladatokat, amelyet a bv. intézetnek a reintegrációs tevékenysége során figyelembe kell vennie. A kockázatértékelési összefoglaló jelentés alapján a befogadó részleg vezetője az elítélt együttműködésével kialakítja és rögzíti az egyéniesített fogvatartási programtervet, majd a BFB az elítélt személyes meghallgatását követő nyolc napon belül dönt az elítélt rezsimbe sorolásáról és a bv. intézetben működő reintegrációs programokban történő részvételéről.
+(10)
 
 ### Hatályon kívül helyező rendelkezés
 
 437. § (1)
 
-(2)
+(2) Hatályát veszti a 436. § (10) bekezdése.
 
 ### Az Európai Unió jogának való megfelelés
 

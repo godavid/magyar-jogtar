@@ -136,7 +136,7 @@ az egyes fizetési szolgáltatókról
 
 (4) A forgatható utalvány által megtestesített pénzkövetelés az utalványforgalmazó igénybevétele esetében is az utalványkibocsátóval szemben áll fenn.
 
-10. § (1) Pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmény részvénytársaságként, korlátolt felelősségű társaságként, szövetkezetként vagy másik EGT-államban székhellyel rendelkező pénzforgalmi intézmény fióktelepeként működhet.
+10. § (1) Pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmény részvénytársaságként, korlátolt felelősségű társaságként, szövetkezetként vagy másik EGT-államban székhellyel rendelkező pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény fióktelepeként működhet.
 
 (2) Utalványkibocsátó részvénytársaságként, korlátolt felelősségű társaságként vagy szövetkezetként működhet.
 
@@ -174,6 +174,12 @@ az egyes fizetési szolgáltatókról
 (2) Az (1) bekezdésben foglaltakat székhely-, telephelyváltozás esetén, valamint a pénzügyi szolgáltatási tevékenység, kiegészítő pénzügyi szolgáltatási tevékenység módosításakor is biztosítani kell.
 
 (3) A pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény által működtetett informatikai rendszernek meg kell felelnie a jogszabályban meghatározott biztonsági követelményeknek.
+
+12/A. § (1) A fizetési számlavezetésre engedéllyel rendelkező pénzforgalmi intézménynek és elektronikuspénz-kibocsátó intézménynek a tevékenysége végzésére csak olyan informatikai rendszer felhasználásával kerülhet sor, amely biztosítja a rendszerelemek zártságát, és megakadályozza az informatikai rendszerhez történő jogosulatlan hozzáférést, valamint észrevétlen módosítását. Az informatikai rendszernek meg kell felelnie az általános információbiztonsági zártsági követelményeknek is. Ennek érdekében a pénzforgalmi intézménynek és elektronikuspénz-kibocsátó intézménynek adminisztratív, fizikai és logikai intézkedésekkel biztosítani kell az általános információbiztonsági zártsági követelmények teljesülését.
+
+(2) Az (1) bekezdésben meghatározott követelményeknek való megfelelést külső szakértő (a továbbiakban: tanúsító szervezet) által kiadott, az informatikai rendszerre vonatkozó tanúsítással kell igazolni. A tanúsító szervezettel és a tanúsítással szemben támasztott követelményeket külön jogszabály határozza meg.
+
+(3) A (2) bekezdés szerinti tanúsító szervezet írásban haladéktalanul tájékoztatja a Felügyeletet, ha a pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmény informatikai rendszerével kapcsolatosan olyan tényt állapít meg, amely a pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmény folyamatos működését kedvezőtlenül érinti, vagy bűncselekmény elkövetésére, jogszabály megsértésére vagy a pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmény belső szabályzatának súlyos megsértésére vagy ezek veszélyére utaló körülményeket észlel.
 
 13. § A pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény befolyásoló részesedéssel rendelkező tulajdonosa csak olyan személy lehet,
 
@@ -295,7 +301,7 @@ az egyes fizetési szolgáltatókról
 
 22. § Pénzforgalmi intézmény, elektronikuspénz-kibocsátási intézmény a pénzügyi szolgáltatási tevékenységi, kiegészítő pénzügyi szolgáltatási tevékenységi engedélyét a Felügyeletnek akkor adhatja vissza, ha bizonyítja, hogy a pénzügyi szolgáltatási tevékenységéből, kiegészítő pénzügyi szolgáltatási tevékenységéből származó semmilyen kötelezettsége nincs.
 
-23. § (1) A pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, ha a tevékenységre jogosító engedély megadását követően bármilyen változás hatással van az engedély iránti kérelemben foglaltak teljesítésére, a változás bekövetkezésétől vagy a változásról történő tudomásszerzéstől számított három napon belül a Felügyeletet erről írásban tájékoztatja.
+23. § (1) A pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, ha a tevékenységre jogosító engedély megadását követően bármilyen változás hatással van az engedély iránti kérelemben foglaltak teljesítésére, a változás bekövetkezésétől vagy a változásról történő tudomásszerzéstől számított három napon belül a Felügyeletet erről írásban tájékoztatja. A pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény az írásbeli tájékoztatáshoz csatolja a változás igazolására vonatkozó dokumentumot, valamint azt a hitelt érdemlő bizonyító dokumentumot vagy arra vonatkozó nyilatkozatot, hogy a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény továbbra is megfelel az engedélyezési feltételeknek.
 
 (2) A Felügyelet az 5. §-ban és 7. §-ban meghatározott tevékenységen kívüli egyéb üzleti tevékenységet is végző pénzforgalmi intézménynek, elektronikuspénz-kibocsátó intézménynek előírhatja, hogy az egyéb üzleti tevékenységét a pénzügyi szolgáltatási tevékenységétől, kiegészítő pénzügyi szolgáltatási tevékenységétől elkülönítetten, külön szervezet keretében végezze, ha ezen egyéb üzleti tevékenység mértéke, jellege, vagy a Felügyelet részére történő átláthatóságának hiánya hátrányosan befolyásolja
 
@@ -877,7 +883,7 @@ van összefüggésben.
 - g) a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény által a külföldi pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény számára történő adattovábbítás, abban az esetben, ha a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény ügyfele (adatalany) ahhoz írásban hozzájárult és a külföldi pénzforgalmi intézménynél, elektronikuspénz-kibocsátó intézménynél (adatkezelőnél) a magyar jogszabályok által támasztott követelményeket kielégítő adatkezelés feltételei minden egyes adatra nézve teljesülnek, valamint a külföldi pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény székhelye szerinti állam rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő adatvédelmi jogszabállyal,
 - h) a külföldi pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény székhelye szerinti illetékes felügyeleti hatóság számára a felügyeleti tevékenységéhez szükséges, és az illetékes külföldi felügyeleti hatóság és a Felügyelet között együttműködési megállapodásban rögzített módon történő adattovábbítás, ha a megállapodás tartalmazza az adatok bizalmas kezelésére, illetőleg felhasználására vonatkozó rendelkezést, továbbá a Felügyelet hozzájárulását az illetékes külföldi felügyeleti hatóságnak átadott adatok külföldi illetékes bűnüldöző szervnek történő továbbításához,
 - i) a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény által kiszervezett tevékenység végzéséhez szükséges adatátadás a kiszervezett tevékenységet végző részére,
-- j) a Hpt. összevont alapú felügyeletre vonatkozó, a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvény összevont alapú felügyeletre vonatkozó, a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény Nyolcadik rész III. fejezetében és a pénzügyi konglomerátumok kiegészítő felügyeletéről szóló törvényben foglalt rendelkezések teljesítése érdekében történő adatátadás,
+- j) a Hpt. összevont alapú felügyeletre vonatkozó, a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvény összevont alapú felügyeletre vonatkozó, a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény XXV. fejezetében és a pénzügyi konglomerátumok kiegészítő felügyeletéről szóló törvényben foglalt rendelkezések teljesítése érdekében történő adatátadás,
 - k) a Felügyelet által a pénzforgalmi intézményről, elektronikuspénz-kibocsátó intézményről egyedi azonosításra alkalmas adatok szolgáltatása a feladatkörében eljáró Gazdasági Versenyhivatal részére,
 - l) a pénzátutalásokat kísérő megbízói adatokról szóló, 2006. november 15-i, 1781/2006/EK európai parlamenti és tanácsi rendelet 4. cikkében meghatározott adatoknak a rendelet hatálya alá tartozó kedvezményezett fizetési szolgáltatója és közvetítő fizetési szolgáltató számára a rendelet által meghatározott esetekben történő továbbítása,
 - m) a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény által a pénzforgalmi intézménnyel, elektronikuspénz-kibocsátó intézménnyel szerződéses kapcsolatban levő pénzforgalmi közvetítő részére a pénzforgalmi közvetítő által közvetített pénzügyi szolgáltatásra vonatkozó szerződés teljesítéséhez kapcsolódó adatszolgáltatás,
@@ -895,6 +901,8 @@ van összefüggésben.
 (4) A fizetési rendszert működtető pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény a pénzforgalmi szolgáltató és az ügyfél közötti pénzforgalmi szolgáltatási keretszerződés szerint rendelkezésére álló, személyes adatnak minősülő fizetési titkot legfeljebb a fizetési műveletből eredő követelés elévüléséig jogosult kezelni a fizetéssel kapcsolatos csalások, valamint a készpénz-helyettesítő fizetési eszközzel történő visszaélések megelőzése, vizsgálata és felderítés céljából.
 
 (5) Az adóhatóság a FATCA-törvényből fakadó kötelezettségek teljesítése céljából az Aktv. 43/B–43/C. §-a szerinti adatszolgáltatás során is jogosult fizetési titokhoz jutni.
+
+(6) Az adóhatóság az Aktv. 43/H. §-a szerinti adatszolgáltatás során is jogosult fizetési titokhoz jutni.
 
 64. § Nem lehet üzleti titokra hivatkozással visszatartani az információt a közérdekű adatok nyilvánosságára és a közérdekből nyilvános adatra vonatkozó, külön törvényben meghatározott adatszolgáltatási és tájékoztatási kötelezettség esetén.
 
@@ -1082,7 +1090,7 @@ rögzített követelmény hatvan százalékát,
 - c) működése során nem tud megfelelni az e törvényben meghatározott engedélyezési feltételeknek,
 - d) az átvett ügyfélpénzekkel sajátjaként rendelkezik vagy azt e törvény rendelkezéseibe ütköző módon használja fel,
 - e) a szükséges számviteli, vezetői információs vagy belső ellenőrzési rendszer nélkül működik vagy e rendszerek nem teszik lehetővé a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény tényleges pénzügyi helyzetének megállapítását,
-- f) tiltott vagy színlelt szerződéseket köt vagyoni előny szerzése, vagy a mérleg szerinti eredmény vagy a tőkekövetelmény módosítása céljából,
+- f) tiltott vagy színlelt szerződéseket köt vagyoni előny szerzése, vagy az adózott eredmény vagy a tőkekövetelmény módosítása céljából,
 - g) az (1) bekezdésben említett előírásokat – a Felügyelet által a (2) bekezdés alapján alkalmazott intézkedést, vagy bírságot megállapító határozat jogerőre emelkedését követő öt éven belül – ismételten megsérti, vagy
 - h) az előírások jelentős megsértése miatt alkalmazott felügyeleti intézkedésben foglaltakat nem teljesíti.
 
@@ -1264,6 +1272,17 @@ végzését.
 
 (2) Az Aktv. 43/B–43/C. §-a szerinti adatszolgáltatás esetén az adatszolgáltatás tényéről az intézmény a számlatulajdonost az adatszolgáltatás teljesítésétől számított 30 napon belül írásban tájékoztatja.
 
+#### 16/B. A Pénzügyi Számlákkal kapcsolatos adatszolgáltatás és átvilágítás alapján fennálló kötelezettségek
+
+86/C. § Az Aktv. szerinti, e törvény hatálya alá tartozó Jelentő Magyar Pénzügyi Intézmény (ezen alcím alkalmazásában a továbbiakban: intézmény) az általa kezelt, az Aktv. 1. melléklet VIII/C. pontja szerinti Pénzügyi Számla (a továbbiakban: Pénzügyi Számla) vonatkozásában elvégzi az Aktv. szerinti Számlatulajdonos és Jogalany (a továbbiakban együtt: Számlatulajdonos) illetőségének az Aktv. 1. melléklet II–VII. pontja szerinti megállapítására irányuló vizsgálatot (a továbbiakban: illetőségvizsgálat).
+
+86/D. § (1) Az intézmény a Számlatulajdonost az illetőségvizsgálat elvégzésével egyidejűleg az ügyfélfogadásra nyitva álló helyiségeiben kifüggesztett hirdetmény útján vagy – ha az lehetséges – elektronikus úton tájékoztatja
+
+- a) az illetőségvizsgálat elvégzéséről,
+- b) az Aktv. 43/H. §-a alapján az adóhatóság felé fennálló adatszolgáltatási kötelezettségéről.
+
+(2) Az Aktv. 43/H. §-a szerinti adatszolgáltatásról az intézmény a Számlatulajdonost az adatszolgáltatás teljesítésétől számított 30 napon belül írásban – ha az lehetséges elektronikus úton – tájékoztatja.
+
 #### 17. Eljárás a fogyasztókkal szembeni kereskedelmi gyakorlatra vonatkozó rendelkezések megsértése esetén
 
 87. § E törvény, valamint a végrehajtására kiadott jogszabályok a fogyasztókkal szembeni kereskedelmi gyakorlatra, így különösen az ügyfelek tájékoztatásra vonatkozó rendelkezéseinek megsértése esetén a Felügyelet a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvényben meghatározott szabályok szerint jár el, ha a jogsértés fogyasztót érint.
@@ -1282,7 +1301,8 @@ végzését.
 90. § (1) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 - a) az Európai Parlament és a Tanács 2007/64/EK irányelve (2007. november 13.) a belső piaci pénzforgalmi szolgáltatásokról és a 97/7/EK, a 2002/65/EK, a 2005/60/EK és a 2006/48/EK irányelv módosításáról és a 97/5/EK irányelv hatályon kívül helyezéséről,
-- b) az Európai Parlament és a Tanács 2009/110/EK irányelve (2009. szeptember 16.) az elektronikuspénz-kibocsátó intézmények tevékenységének megkezdéséről, folytatásáról és prudenciális felügyeletéről, a 2005/60/EK és a 2006/48/EK irányelv módosításáról, valamint a 2000/46/EK irányelv hatályon kívül helyezéséről.
+- b) az Európai Parlament és a Tanács 2009/110/EK irányelve (2009. szeptember 16.) az elektronikuspénz-kibocsátó intézmények tevékenységének megkezdéséről, folytatásáról és prudenciális felügyeletéről, a 2005/60/EK és a 2006/48/EK irányelv módosításáról, valamint a 2000/46/EK irányelv hatályon kívül helyezéséről,
+- c) A Tanács 2014/107/EU irányelve (2014. december 9.) a 2011/16/EU tanácsi irányelvnek az adózás területére vonatkozó kötelező automatikus információcsere tekintetében történő módosításáról.
 
 (2) Ez a törvény a következő uniós jogi aktus végrehajtásához szükséges rendelkezéseket állapít meg a Felügyelet eljárásában:
 

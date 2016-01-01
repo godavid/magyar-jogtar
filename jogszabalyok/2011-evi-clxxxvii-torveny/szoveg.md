@@ -53,7 +53,7 @@ Magyarországon a munkaerőpiac és a gazdaság által keresett és elismert sza
 - 25. mesterképzés: olyan képzési forma, amelynek során meghatározott szakképesítéssel és szakmai gyakorlattal rendelkező szakembereket mestervizsgára készítenek fel a szakmai tevékenység mester szintű gyakorlásához szükséges szakmai elméleti és gyakorlati, a vállalkozás vezetéséhez szükséges gazdasági, jogi és munkaügyi, továbbá a tanulók képzéséhez szükséges alapvető pedagógiai ismeretek elsajátításával;
 - 26. mestervizsga követelményei: a szakképesítés szakmai és vizsgakövetelményei meghatározására a Kormány által rendeletben kijelölt miniszter (a továbbiakban: szakképesítésért felelős miniszter) által – a pedagógiai tartalom tekintetében az oktatásért felelős miniszter egyetértésével – rendeletben kiadott dokumentum, amely a mestervizsgának az országos gazdasági kamara (a továbbiakban: gazdasági kamara) által – az országos gazdasági érdekképviseleti szervezetekkel együttműködve – meghatározott követelményeit, valamint a vizsgáztatással kapcsolatos követelményeket tartalmazza;
 - 27. modultérkép: az egyes szakképesítések – szakmai és vizsgakövetelményeiben meghatározott – szakmai modulját vagy moduljait, valamint azok egymáshoz történő kapcsolódásait tartalmazó dokumentum;
-- 28. modulzáró vizsga: az iskolarendszeren kívüli képzésben a komplex szakmai vizsgára bocsátás feltételeként a szakképzést folytató intézmény által megszervezett vizsga, olyan kompetenciamérés, amellyel az intézmény meggyőződik arról, hogy a képzésben részt vevő elsajátította a szakmai és vizsgakövetelmény egyes követelménymoduljaiban előírtakat;
+- 28. modulzáró vizsga: az iskolarendszeren kívüli képzésben a komplex szakmai vizsgára bocsátás feltételeként a szakképzést folytató intézmény, az állami szakképzési és felnőttképzési szerv vagy a szakképesítésért felelős miniszter által jogszabályban kijelölt, az irányítása alá tartozó intézmény vagy a felügyelete alá tartozó szerv irányítása alatt álló intézmény által megszervezett olyan vizsga, kompetenciamérés, amely annak megállapítására irányul, hogy a vizsgára jelentkező a szakmai és vizsgakövetelmény egyes követelménymoduljaiban előírt szakmai kompetenciákat elsajátította-e;
 - 29. munkahelyi gyakorlat: a szakképesítés megszerzése keretében folyó gyakorlati képzésnek a munkahelyen (a munkavégzéshez hasonló feltételek között, életszerű szituációban) megvalósuló része, amelynek feltételeit a gyakorlati képzés szervezője biztosítja, és amelynek során a szakképzésben részt vevő elsajátítja a munkaerőpiac által is igényelt gyakorlati tudáselemeket, kompetenciákat;
 - 30. országos gazdasági érdekképviseleti szervezet: a gazdasági kamarákról szóló törvényben meghatározott szervezet;
 - 31. pályaalkalmassági követelmény: a szakképzésbe történő bekapcsolódás – szakmai és vizsgakövetelményben meghatározott – azon feltétele, amely alapján megállapítható, hogy a szakképzésben részt venni szándékozó személy képességei, készségei alapján sikeresen fel tud készülni a választott szakképesítés komplex szakmai vizsgájára és a választott tevékenység, foglalkozás ellátására;
@@ -264,9 +264,14 @@ irányul.
 
 #### 7. A modulzáró vizsga
 
-10. § (1) Az iskolarendszeren kívüli szakképzésben a szakképzést folytató intézmény a képzési szakaszok lezárásaként a szakmai és vizsgakövetelményben meghatározott moduloknak megfelelő modulzáró vizsgát szervez. A modulzáró vizsga a szakmai és vizsgakövetelményben meghatározottak szerint összevontan is megszervezhető.
+10. § (1) Az iskolarendszeren kívüli szakképzésben a szakképzést folytató intézmény a képzési szakaszok lezárásaként a szakmai és vizsgakövetelményben meghatározott moduloknak megfelelő modulzáró vizsgát szervez. A szakképzést folytató intézmény a modulzáró vizsgát akkor szervezi, ha a modulzáró vizsgára jelentkező kizárólag az intézményben vett részt az érintett szakképesítés megszerzésére irányuló képzésben. A modulzáró vizsgát minden egyéb esetben a 12. § (2) bekezdés b) és c) pontjában megjelölt intézmény szervezi. A modulzáró vizsga a szakmai és vizsgakövetelményben meghatározottak szerint összevontan is megszervezhető.
 
-(1a) Az iskolarendszeren kívüli szakképzésben a szakképzést folytató intézmény biztosítja a modulzáró vizsga vizsgafeladatait a szakmai és vizsgakövetelményekben, valamint a képzési programban foglaltaknak megfelelően.
+(1a) Az iskolarendszeren kívüli szakképzésben a modulzáró vizsga vizsgafeladatait
+
+- a) a szakképzést folytató intézmény a szakmai és vizsgakövetelményekben, valamint a képzési programban,
+- b) a 12. § (2) bekezdés b) és c) pontjában megjelölt intézmény, szerv a szakmai és vizsgakövetelményekben
+
+foglaltaknak megfelelően biztosítja.
 
 (2) Az iskolarendszeren kívüli szakképzésben a komplex szakmai vizsgára bocsátás feltétele a szakmai és vizsgakövetelményben előírt modulzáró vizsga eredményes letétele.
 
@@ -1311,7 +1316,7 @@ vonatkozóan.
 82. § A bizottság
 
 - a) kidolgozza az iskolai rendszerű szakképzés fejlesztésének az adott megyére vonatkozó, a szakképzés irányainak és a beiskolázási arányok rövid és középtávú tervét tartalmazó koncepcióját (szakképzés-fejlesztési koncepció), amely a megye, illetve a fővárosi területfejlesztési koncepció és területfejlesztési program részét képezi,
-- b) javaslatot tesz az adott megyében a szakiskolai tanulmányi ösztöndíjról szóló kormányrendeletben meghatározott ösztöndíjra jogosító szakképesítésre (hiányszakképesítés),
+- b) javaslatot tesz az adott megyében a Szabóky Adolf Szakképzési Ösztöndíjról szóló kormányrendeletben meghatározott ösztöndíjra jogosító szakképesítésre (hiányszakképesítés),
 - c) közreműködik az iskolai rendszerű szakképzés és az iskolarendszeren kívüli szakképzés, valamint a köznevelésben és a felsőoktatásban folyó szakképzés összhangjának megteremtésében,
 - d) kezdeményezi az arra hatáskörrel rendelkező szervezetek és intézmények felé – a c) pontban meghatározott feladat érvényesülése érdekében – a bizottság által indokolt változtatások megtételét,
 - e)
@@ -1407,9 +1412,17 @@ vonatkozóan.
 
 (7) Ha a volt tanuló vagy az iskolarendszeren kívüli szakképzésben részt vett felnőtt foglalkoztatási jogviszonyt létesített, a foglalkoztató szolgáltat adatot a pályakövetési rendszer részére. Az adatszolgáltatás keretében közölni kell, hogy a volt tanulót milyen munkakörben foglalkoztatják, illetve milyen tevékenységet lát el.
 
-(8) Az Országos Egészségbiztosítási Pénztár és a Nemzeti Adó- és Vámhivatal – a pályakövetésről szóló kormányrendeletben meghatározottak szerint – a pályakövetési rendszer működtetéséhez szükséges adatokat szolgáltat a foglalkoztatottakról a pályakövetési rendszer működtetéséért felelős szervnek. A pályakövetési rendszer működtetéséért felelős szerv az adatokat kezelheti, feldolgozhatja és konkrét személyhez kapcsolás nélkül összekapcsolhatja a komplex szakmai vizsgákról kiadott bizonyítványok és az oktatási azonosítók adatbázisával.
+(8) A foglalkoztatottakról a pályakövetési rendszer működtetéséhez – a pályakövetésről szóló kormányrendeletben meghatározottak szerint – a pályakövetési rendszer működtetéséért felelős szervnek adatot szolgáltat
+
+- a) a Nemzeti Adó- és Vámhivatal az adózás rendjéről szóló 2003. évi XCII. törvény 16. § (5a) bekezdésében,
+- b) a nyugdíjbiztosítási igazgatási szerv a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 96. § (2) bekezdés d) pontjában,
+- c) az oktatásért felelős miniszter köznevelési feladatkörébe tartozó egyes feladatainak ellátására kijelölt szerv a köznevelési információs rendszerben
+
+meghatározott adatokról. A pályakövetési rendszer működtetéséért felelős szerv az adatokat kezelheti, feldolgozhatja és konkrét személyhez kapcsolás nélkül összekapcsolhatja a komplex szakmai vizsgákról kiadott bizonyítványok és az oktatási azonosítók adatbázisával.
 
 (9) A pályakövetési rendszer működésére, az adatszolgáltatás rendjére, továbbá a pályakövetési rendszer működtetéséért felelős szerv feladataira vonatkozó részletes szabályokat kormányrendelet állapítja meg.
+
+(10) A pályakövetési rendszer működtetéséért felelős szerv a 4/A. § (2) bekezdése szerinti miniszter részére a felelősségi körébe tartozó szakképesítésekre és ezeket megalapozó ágazati szakközépiskolai képzésekre vonatkozóan a szakképesítésért felelős miniszter megkeresését követő 15 napon belül személyazonosításra alkalmatlan pályakövetési adatokat szolgáltat.
 
 #### 52. A szakképzést folytató intézményekben nyilvántartott és kezelt adatok
 

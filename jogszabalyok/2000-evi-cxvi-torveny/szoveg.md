@@ -26,30 +26,13 @@ az egészségügyi közvetítői eljárásról
 
 5. § (1) A MISZK a névjegyzékbe kérelmére azt veszi fel, aki jogi, orvosi vagy egyéb felsőfokú egészségügyi végzettséggel, továbbá szociológusi vagy klinikai szakpszichológusi végzettséggel rendelkezik, legalább 8 éves szakmai gyakorlata van, és a külön jogszabályban meghatározott közvetítői tanfolyamot elvégezte.
 
-(2) A névjegyzékbe kizárólag olyan személy vehető fel, aki cselekvőképes, büntetlen előéletű, és nem áll foglalkozástól eltiltás hatálya alatt. Nem vehető fel a névjegyzékbe a bíró, az ügyész, továbbá az a személy, aki köztisztviselői jogviszonyban áll, a jogviszonya fennállása alatt, továbbá az sem, aki az 5/A. § (1) bekezdés a) pontja alapján nem igazolja, vagy az 5/A. § (1) bekezdés b) pontja alapján nem kéri annak igazolását, hogy büntetlen előéletű, és nem áll foglalkozástól eltiltás hatálya alatt.
+(2) A névjegyzékbe kizárólag olyan személy vehető fel, aki cselekvőképes, büntetlen előéletű, és nem áll foglalkozástól eltiltás hatálya alatt. Nem vehető fel a névjegyzékbe a bíró, az ügyész, továbbá az a személy, aki köztisztviselői jogviszonyban áll, a jogviszonya fennállása alatt.
 
 (3) Törölni kell a névjegyzékből azt, aki nem cselekvőképes, büntetett előéletű, vagy foglalkozástól eltiltás hatálya alatt áll.
 
 (4) A névjegyzékben szereplő személy a névjegyzékben vezetett adataiban bekövetkezett változásokat, illetve az időközben bekövetkezett kizáró okot a változástól számított 30 napon belül köteles bejelenteni a MISZK-nek.
 
-5/A. § (1) A kérelmező a névjegyzékbe való felvételt megelőzően
-
-- a) hatósági bizonyítvánnyal igazolja, hogy büntetlen előéletű, és nem áll foglalkozástól eltiltás hatálya alatt, vagy
-- b) kéri, hogy az arra vonatkozó adatokat, amely szerint büntetlen előéletű, és nem áll foglalkozástól eltiltás hatálya alatt, a bűnügyi nyilvántartó szerv a MISZK részére – annak a névjegyzékbe való felvétel elbírálása céljából benyújtott adatigénylése alapján – továbbítsa.
-
-(2) Az (1) bekezdés b) pontjában meghatározott adatigénylés során a MISZK arra vonatkozóan igényelhet adatot a bűnügyi nyilvántartó szervtől, hogy a névjegyzékbe való felvételét kérelmező személy büntetlen előéletű, és nem áll foglalkozástól eltiltás hatálya alatt.
-
-5/B. § (1) A MISZK hatósági ellenőrzés keretében ellenőrzi azt is, hogy a közvetítő büntetlen előéletű, és nem áll foglalkozástól eltiltás hatálya alatt.
-
-(2) A MISZK az (1) bekezdésében meghatározott körülmény igazolása céljából kezeli
-
-- a) a kérelmező,
-- b) a közvetítő azon személyes adatait, amelyeket az e célból a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalmaz.
-
-(3) A (2) bekezdésben meghatározott személyes adatokat a MISZK
-
-- a) a névjegyzékbe való felvétel iránti eljárás jogerős befejezéséig,
-- b) a névjegyzékbe való felvétel esetén a hatósági ellenőrzés időtartamára vagy a névjegyzékből való törlésre irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
+5/A–5/B. §
 
 6. § (1) A közvetítői eljárás megindulása esetén a szolgáltató értesíti az eljárásról azt a biztosítót, akivel felelősségbiztosítást kötött (a továbbiakban: biztosító) és a biztosító nevéről és székhelyéről tájékoztatja a kamarát. A tanács üléseire a biztosítót is meg kell hívni, és részére észrevételezési jogot kell biztosítani. A szolgáltató úgy is nyilatkozhat, hogy a közvetítői eljárásban a biztosítója részvételének mellőzését kéri.
 

@@ -137,7 +137,7 @@ a beadványokat kizárólag elektronikus úton terjesztheti elő, e rendelkezés
 
 16. § (1) A bíróság az ügyész részére elektronikus úton küldi meg az iratokat.
 
-(2) A bíróság az állami adóhatósággal és a Központi Statisztikai Hivatallal a kapcsolatot az informatikai rendszer alkalmazásával elektronikus úton tartja.
+(2) A bíróság az állami adóhatósággal, a Központi Statisztikai Hivatallal, más hatósággal és a cégbírósággal a kapcsolatot az informatikai rendszer alkalmazásával elektronikus úton tartja.
 
 17. § (1) Ha a belföldi idézési címmel és belföldi idézési című képviselővel sem rendelkező kérelmező a szervezet nyilvántartásba vételére irányuló kérelem benyújtásával egyidejűleg nem jelöl meg belföldi idézési című kézbesítési megbízottat (Pp. 100/A. §) vagy az irat a kézbesítési megbízott részére nem volt kézbesíthető, a bíróság felhívja, hogy a felhívás kézhezvételétől számított harminc napon belül a kézbesítési megbízott nevét és címét jelentse be, és – szükség szerint – egyidejűleg a kézbesítési megbízottal kötött és teljes bizonyítóerejű magánokiratba vagy közokiratba foglalt megbízási szerződését nyújtsa be. A felhívás a (2) bekezdésben írt jogkövetkezményekre való tájékoztatást tartalmaz.
 
@@ -162,7 +162,7 @@ a beadványokat kizárólag elektronikus úton terjesztheti elő, e rendelkezés
 
 #### 6. Egyéb általános szabályok
 
-19. § (1) Ha e törvény vagy az igazságügyért felelős miniszter rendelete másként nem rendelkezik, a bíróság a határozatait és más iratait az informatikai rendszer alkalmazásával is előállíthatja.
+19. § (1) Ha e törvény vagy az igazságügyért felelős miniszter rendelete másként nem rendelkezik, a bíróság a határozatait és más iratait az informatikai rendszer alkalmazásával állítja elő.
 
 (2) E törvény, valamint az e törvény felhatalmazása alapján kiadott rendeletek alapján a bíróság által az informatikai rendszer útján előállított jegyzőkönyv (igazolás), határozat (értesítés), és az ezekről kiállított papír alapú másolat (kiadmány) közokirat. Ugyanilyen bizonyító erővel bizonyítja a kérelmezők beadványairól, valamint a kézbesítési bizonyítványról (tértivevényről) a bíróság vagy az informatikai rendszer által készített másolat, illetve ezen iratokról a rendszerbe bevitt adatok, valamint ezen adatok alapján készített okirat azt, hogy annak tartalma az eredeti okiratéval megegyezik.
 
@@ -211,7 +211,7 @@ a beadványokat kizárólag elektronikus úton terjesztheti elő, e rendelkezés
 - a) a szervezet létesítő okiratát és
 - b) a székhelyhasználat jogcímét igazoló okirat másolatát.
 
-(2) Ha a szervezet alapításában jogi személy vesz részt, a kérelemhez csatolni kell a jogi személy alapító jogi személyiségét igazoló okiratot és a szervezet nevében eljáró képviselő képviseleti jogát igazoló okiratot is.
+(2) Ha a szervezet alapításában a nyilvántartásban vagy a cégnyilvántartásban szerepelő jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság vesz részt, a bíróság az informatikai rendszer alkalmazásával ellenőrzi, hogy a szervezet a kérelemben megjelölt adatokkal szerepel-e a nyilvántartásban vagy a cégnyilvántartásban.
 
 (3) Ha a szervezet neve jogi személy, más szervezet vagy természetes személy nevét tartalmazza, a kérelemhez csatolni kell a jogosultnak, illetve örökösének vagy jogutódjának a névhasználathoz hozzájáruló nyilatkozatát.
 
@@ -293,7 +293,7 @@ a beadványokat kizárólag elektronikus úton terjesztheti elő, e rendelkezés
 - b) a kérelem hivatalból történő elutasításának vagy
 - c) hiánypótlásnak és a szükséges intézkedéseket megteszi.
 
-(2)
+(2) Ha az ügy áttételének azért van helye, mert az e törvény szerinti eljárás lefolytatására másik bíróság illetékes, a bíróság az iratokat az informatikai rendszer alkalmazásával adja át, egyúttal a papír alapon érkezett iratokat megküldi az eljárás lefolytatására illetékes bíróságnak.
 
 #### 11. A kérelem elutasítása
 
@@ -441,7 +441,7 @@ sem.
 
 43. § (1) A bíróság a szervezetet hivatalból törli a nyilvántartásból
 
-- a) a felszámolási eljárást lefolytató bíróságnak a szervezet megszüntetéséről szóló jogerős végzése vagy
+- a) a felszámolási eljárást lefolytató bíróságnak a szervezet megszüntetéséről szóló, elektronikus úton megküldött jogerős végzése vagy
 - b) a szervezet feloszlatásáról, megszüntetésről vagy megszűnése megállapításáról rendelkező jogerős ítélet vagy
 - c) az egyszerűsített törlési eljárás befejezését követően. alapján.
 
@@ -518,7 +518,9 @@ is.
 
 (2) A nem az ügy érdemében hozott fellebbezhető végzések elleni fellebbezést és az ahhoz csatolt mellékleteket az elektronikus útra kötelezett és az elektronikus utat választó kérelmezőnek elektronikus úton kell a bíróság részére megküldenie.
 
-(3)–(4)
+(3) Az első fokon eljárt bíróság az iratokat az informatikai rendszeren keresztül, közvetlenül terjeszti fel a másodfokú bíróság részére.
+
+(4) A másodfokú bíróság az ügy iratait és a másodfokú határozatot az informatikai rendszeren keresztül küldi meg az elsőfokú bíróságnak. A másodfokú bíróság határozatának papír alapú kiadmányát is megküldi az első fokon eljárt bíróság részére, ha a kérelmező az első fokon eljáró bírósághoz beadványát papír alapon nyújtotta be.
 
 (5) Az ügyész a fellebbezést elektronikus úton küldi meg a bíróság részére.
 
@@ -751,7 +753,7 @@ is.
 
 69. § A párt, a sportról szóló törvény alapján működő szervezet, a kölcsönös biztosító egyesület, a szakszervezet, a köztestület, a magánnyugdíjpénztár, az önkéntes kölcsönös biztosító pénztár, a hitelintézetek önkéntes betétbiztosítási, illetve intézményvédelmi alapja, a Munkavállalói Résztulajdonosi Program szervezet és az európai területi együttműködési csoportosulásról szóló törvény szerint alapított európai területi társulás esetében e törvény rendelkezéseit akkor kell alkalmazni, ha a szervezetre irányadó törvény eltérően nem rendelkezik.
 
-70. § A köztestületet a bíróságnak nem kell nyilvántartania akkor, ha a létrehozását rendelő törvény így rendelkezik.
+#### 70. §
 
 71. § (1) Ha az egyházakkal való kapcsolattartásért felelős miniszter arról értesíti a bíróságot, hogy az Országgyűlés a vallási tevékenységet végző szervezetet egyházként ismerte el, a bíróság a vallási tevékenységet végző szervezetet a bírósági nyilvántartásból törli.
 
@@ -815,7 +817,15 @@ is.
 
 (2) E törvény alkalmazása során üzemzavarnak kell tekinteni az informatikai rendszerben végzett olyan karbantartásokat, tervezett leállításokat is, melyek az informatikai rendszer szolgáltatásainak igénybevételét korlátozzák vagy megakadályozzák. Az üzemzavar számítása szempontjából az informatikai rendszer részének kell tekinteni azokat a kormányzati informatikai szolgáltatásokat, amelyek szükségesek az informatikai rendszer ügyfelek általi elérhetőségéhez.
 
-#### 79–80. §
+79. § (1) Az informatikai rendszert úgy kell kialakítani, hogy alkalmas legyen az elektronikus úton érkezett űrlapok adattartamát automatizáltan feldolgozni és a rendszerben rögzíteni. Az informatikai rendszernek alkalmasnak kell lennie arra, hogy az űrlapok mellé csatolt mellékleteket oly módon tárolja, hogy abból kitűnjön, hogy a melléklet melyik űrlaphoz tartozik.
+
+(2) Az informatikai rendszert úgy kell kialakítani, hogy alkalmas legyen jogszabályban meghatározott statisztikai adatok szolgáltatására.
+
+(3) Az informatikai rendszert úgy kell kialakítani, hogy a beszámoló országos névjegyzékben való közzétételét követően elektronikus üzenetben tájékoztatást adjon a bíróság részére a nyilvántartásában szereplő közhasznú szervezetek beszámolójának közzétételéről.
+
+(4) Az informatikai rendszert úgy kell kialakítani, hogy az Ectv.-ben meghatározott határidő elteltét követően elektronikus üzenetben tájékoztatást adjon a bíróság számára azokról, a nyilvántartásában szereplő szervezetekről, melyek a beszámoló letétbe helyezési kötelezettségüknek nem tettek eleget, s a bíróságnak törvényességi ellenőrzési eljárás lefolytatása érdekében meg kell keresnie az ügyészséget.
+
+80. § Az e törvény alapján lefolytatott eljárásokban keletkezett papír alapú vagy elektronikus iratokat, az űrlapok adattartamát, valamint az egyes eljárási cselekmények megtételének tényét a bíróság az informatikai rendszerben rögzíti. Az informatikai rendszerben rögzített adatokat – a felek eljárási jogainak érvényesülése és az eljárások párhuzamos lefolytatásának megelőzése érdekében – a nyilvántartást vezető bíróság kezeli.
 
 81. § (1) Az OBH felelős az informatikai rendszernek e törvényben és külön jogszabályban meghatározott informatikai biztonsági és szervezet szervezési követelményeinek teljesítéséért.
 
@@ -1206,15 +1216,21 @@ d) a kedvezmény igénybevevője legkésőbb az ellenőrzés megállapításair�
 
 124. § (1)
 
-(2)
+(2) E törvény 21. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Ha a szervezet alapításában a nyilvántartásban vagy a cégnyilvántartásban szerepelő jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság vesz részt, a bíróság az informatikai rendszer alkalmazásával ellenőrzi, hogy a szervezet a kérelemben megjelölt adatokkal szerepel-e a nyilvántartásban vagy a cégnyilvántartásban.”
 
 (3)
 
-(4)
+(4) E törvény 43. § (1) bekezdésének a) pontja helyébe a következő rendelkezés lép:
+
+[A bíróság a szervezetet hivatalból törli a nyilvántartásból]
+
+„a) a felszámolási eljárást lefolytató bíróságnak a szervezet megszüntetéséről szóló, elektronikus úton megküldött jogerős végzése vagy
 
 (5)–(9)
 
-#### 48. Hatályukat vesztő rendelkezések
+48. Hatályukat vesztő rendelkezések”
 
 125. § (1)
 

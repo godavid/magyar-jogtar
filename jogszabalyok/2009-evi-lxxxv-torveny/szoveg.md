@@ -267,6 +267,18 @@ FIZETÉSI SZÁMLA FELETTI RENDELKEZÉS
 
 (3) A fizetési számlaszerződésre a Polgári Törvénykönyvben foglalt szabályokat kell alkalmazni azzal, hogy a hitelintézetnek nem minősülő pénzforgalmi szolgáltató a fizetési számlára befolyó pénzeszközöket nem használhatja, betétként nem kezelheti.
 
+21/A. § (1) Amennyiben a csoportos beszedési megbízás teljesítésére szóló felhatalmazásban (a továbbiakban: felhatalmazás) a fizető fél által megjelölt kedvezményezett személyét, azonosító adatait vagy a kedvezményezettel szerződött fogyasztók azonosító adatait érintően (a továbbiakban együtt: adatok) – cégjogi, jogszabály által elrendelt, hatósági határozatban meghatározott jogutódlás vagy szerződéses állomány átruházás (e § alkalmazásában a továbbiakban együtt: jogutódlás) miatt – változás következik be, a felhatalmazásban rögzített adatok módosítására e törvény erejénél fogva, a fizető fél külön hozzájárulása nélkül kerül sor, a (2)–(6) bekezdésben meghatározott módon és feltételekkel.
+
+(2) A jogutód kedvezményezett – az adatok módosulása hatályba lépésének napját legalább 25 munkanappal megelőzően – értesíti az adatok változásáról a számára csoportos beszedést biztosító ügyfeleit és rajtuk keresztül a fizető feleket. Ezzel egyidejűleg írásban kéri a felhatalmazásait közvetítő pénzforgalmi szolgáltatót – a jogutódlást igazoló dokumentumok benyújtásával – az adatváltozás átvezetésére és nyilatkozik az e bekezdés szerinti értesítés teljesítéséről.
+
+(3) A pénzforgalmi szolgáltató 5 munkanap alatt megvizsgálja a jogutód kedvezményezettnek a (2) bekezdéssel összhangban hozzá benyújtott kérelmét és annak elfogadásáról 5 munkanapon belül értesíti a jogutód kedvezményezettet, valamint – a jogutód kedvezményezett kérelmével összhangban – értesíti az adatváltozásról a jogutód kedvezményezett által megjelölt fizető felek fizetési számláit vezető pénzforgalmi szolgáltatókat. Az értesítésnek a módosítandó és a módosított adatokat, a fizető fél fizetési számlaszámát, továbbá az adatok módosulása hatályba lépésének napját kell tartalmaznia. Az adatok módosulása hatályba lépésének napja nem lehet korábbi, mint a (4) bekezdésben hivatkozott átvezetés határidejének lejártát követő munkanap.
+
+(4) Az adatváltozásról értesített pénzforgalmi szolgáltatók az értesítésben rögzített és a náluk nyilvántartott adatok (a fizető fél számlaszáma, valamint a szerződő fél vagy a szerződés és a fogyasztó azonosítója) megegyezése esetén 15 munkanapon belül átvezetik a módosult adatokat az érintett felhatalmazásokra vonatkozó nyilvántartásukban a fizető felek hozzájárulása nélkül.
+
+(5) Sem a jogelőd, sem a jogutód nem kezdeményezhet olyan csoportos beszedési megbízást, amelynek teljesítési napja a (4) bekezdés szerinti adatátvezetés időtartamán belüli. A jogelőd, a jogutód továbbá a (2) és (4) bekezdésben hivatkozott pénzforgalmi szolgáltatók közösen ettől eltérően írásban megállapodhatnak.
+
+(6) E paragrafus rendelkezéseit egyetemes szolgáltatói engedély visszavonása és egyidejűleg más egyetemes szolgáltató kijelölése (a továbbiakban: átvétel) miatt a felhatalmazás kedvezményezettje személyében törvény erejénél fogva bekövetkező módosulások esetén csak akkor lehet alkalmazni, ha az átvételt szabályozó jogszabály a felhatalmazás kedvezményezettje személyében bekövetkező módosulás szabályait nem rendezi.
+
 ### V. Fejezet — KERETSZERZŐDÉSEN ALAPULÓ FIZETÉSI MEGBÍZÁS
 
 ### Előzetes tájékoztatás
@@ -388,12 +400,7 @@ FIZETÉSI SZÁMLA FELETTI RENDELKEZÉS
 
 (3)
 
-35/A. § (1) Készpénz-helyettesítő fizetési eszköz – ide nem értve a csekket és az elektronikus pénzt – használatával kezdeményezett belföldi fizetési műveletek után a kedvezményezett fizetési művelet lebonyolításában részt vevő pénzforgalmi szolgáltatója által a fizető fél fizetési művelet lebonyolításában részt vevő pénzforgalmi szolgáltatója részére – közvetlenül vagy közvetve – megfizetett díjaknak és jutalékoknak a mértéke nem haladhatja meg
-
-- a) a fizetési számla terhére kibocsátott készpénz-helyettesítő fizetési eszköz – ide nem értve a csekket és az elektronikus pénzt – használatával kezdeményezett fizetési művelet esetében a díj- és jutalékfizetés alapját képező fizetési művelet értékének 0,2 százalékát,
-- b) a fizető fél rendelkezésére álló hitelkeret terhére kibocsátott készpénz-helyettesítő fizetési eszköz – ide nem értve a csekket és az elektronikus pénzt – használatával kezdeményezett fizetési művelet esetében a díj- és jutalékfizetés alapját képező fizetési művelet értékének 0,3 százalékát.
-
-(2) Az (1) bekezdés alkalmazásában belföldi fizetési művelet az olyan fizetési művelet, amelynél mind a fizető fél fizetési művelet lebonyolításában részt vevő pénzforgalmi szolgáltatójának, mind pedig a kedvezményezettnek a székhelye vagy fióktelepe Magyarországon van.
+#### 35/A. §
 
 36. § (1) A fizetési műveletet a felek által megállapított devizanemben kell teljesíteni.
 
@@ -558,7 +565,7 @@ A FELELŐSSÉGI ÉS KÁRVISELÉSI SZABÁLYOK
 
 (3) Az (1) bekezdésben foglalt feltételek fennállása tekintetében a bizonyítás a fizető felet terheli.
 
-(4) A fizető fél nem hivatkozhat az (1) bekezdés b) pontjára a pénznemek közötti átváltással kapcsolatosan, ha az átváltás során a 31. § (1) bekezdésének d) pontjában vagy a 10. § (2) bekezdése c) pontjának cb) alpontjában foglaltak szerint referencia-árfolyam alkalmazására került sor.
+(4) A fizető fél nem hivatkozhat az (1) bekezdés b) pontjára a pénznemek közötti átváltással kapcsolatosan, ha az átváltás során a 31. § (1) bekezdésének d) pontjában vagy a 10. § (1) bekezdés c) pontjának cb) alpontjában foglaltak szerint referencia-árfolyam alkalmazására került sor.
 
 (5) A felek a keretszerződésben megállapodhatnak arról, hogy a beszedés visszatérítése esetében az (1) bekezdésben meghatározott feltételeknek nem kell fennállniuk. Ilyen megállapodás esetén a pénzforgalmi szolgáltató a fizető fél visszatérítésre vonatkozó igényét nem utasíthatja vissza.
 
@@ -852,7 +859,7 @@ haladéktalanul, de legkésőbb két munkanapon belül.
 
 (14) Ha a törvény hatálybalépése előtt követelés érvényesítésére kormányrendelet azonnali beszedési megbízás (jogszabályi azonnali beszedési megbízás) benyújtását tette lehetővé, a törvény hatálybalépését megelőzően keletkezett jogviszonyokban, a követelés jogosultja beszedési megbízást nyújthat be a követelés kötelezettjének fizetési számlája terhére a kötelezett erre vonatkozó felhatalmazása hiányában is, ha annak egyéb, a kormányrendeletben a törvény hatálybalépését megelőzően meghatározott feltételei fennállnak.
 
-66/A. § Az egyes törvényeknek a Magyar Nemzeti Bankról szóló törvénnyel összefüggő, valamint egyéb célú módosításáról szóló 2013. évi CXLIII. törvénnyel megállapított 35/A. §-ban foglalt követelményeknek a 2014. január 1-jén és ezt követően kezdeményezett belföldi fizetési műveletek tekintetében kell megfelelni.
+#### 66/A. §
 
 66/B. § (1) A pénzügyi rezsicsökkentéssel összefüggésben a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény módosításáról szóló 2013. évi CLXXXIX. törvénnyel megállapított 36/A. §-t – a (2) bekezdésben meghatározott kivétellel – a pénzügyi rezsicsökkentéssel összefüggésben a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény módosításáról szóló 2013. évi CLXXXIX. törvény hatálybalépésekor fennálló szerződésekre is alkalmazni kell.
 
@@ -872,9 +879,10 @@ haladéktalanul, de legkésőbb két munkanapon belül.
 
 ### Jogharmonizációs záradék
 
-67. § E törvény a következő uniós jogi aktusnak való megfelelést szolgálja:
+67. § E törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-Az Európai Parlament és a Tanács 2007. november 13-i 2007/64/EK irányelve a belső piaci pénzforgalmi szolgáltatásokról és a 97/7/EK, a 2002/65/EK, a 2005/60/EK és a 2006/48/EK irányelv módosításáról és a 97/5/EK irányelv hatályon kívül helyezéséről.
+- a) Az Európai Parlament és a Tanács 2007. november 13-i 2007/64/EK irányelve a belső piaci pénzforgalmi szolgáltatásokról és a 97/7/EK, a 2002/65/EK, a 2005/60/EK és a 2006/48/EK irányelv módosításáról és a 97/5/EK irányelv hatályon kívül helyezéséről,
+- b) az Európai Parlament és a Tanács 2015. április 29-i a 2015/751/EU rendelete a kártyaalapú fizetési műveletek bankközi jutalékairól.
 
 ### XV. Fejezet
 
