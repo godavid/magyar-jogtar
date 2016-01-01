@@ -1423,7 +1423,7 @@ munkanap pótszabadság jár.
 
 (2) Az (1) bekezdésben megjelölt esetben a szabadság tartama – a szülést követően – hat hétnél rövidebb nem lehet.
 
-130. § A munkavállalónak gyermeke személyes gondozása érdekében – a 128. §-ban foglaltakon túl – fizetés nélküli szabadság jár a gyermek tizedik életéve betöltéséig a gyermekgondozási segély folyósításának tartama alatt.
+130. § A munkavállalónak gyermeke személyes gondozása érdekében – a 128. §-ban foglaltakon túl – fizetés nélküli szabadság jár a gyermek tizedik életéve betöltéséig a gyermekgondozási segély, gyermekgondozást segítő ellátás folyósításának tartama alatt.
 
 131. § (1) A munkavállalónak hozzátartozója tartós – előreláthatólag harminc napot meghaladó – személyes ápolása céljából, az ápolás idejére, de legfeljebb két évre fizetés nélküli szabadság jár.
 
@@ -3116,7 +3116,7 @@ kapcsolatos igény az elévülési időn belül érvényesíthető.
 - i) gyermekét egyedül nevelő munkavállaló: aki gyermekét saját háztartásában neveli és hajadon, nőtlen, özvegy, elvált, házastársától külön él és nincs élettársa,
 - j) levonásmentes munkabérrész: a bírósági végrehajtásról szóló jogszabály alapján teljesíthető levonások után fennmaradó munkabérrész,
 - k) három vagy több gyermeket nevelő munkavállaló: aki, a családok támogatásáról szóló törvény szerint szülőként legalább három gyermekre tekintettel
-  - ka) családi pótlékra jogosult és gyermekgondozási díjban vagy gyermekgondozási segélyben részesült vagy részesül, vagy
+  - ka) családi pótlékra jogosult és gyermekgondozási díjban vagy gyermekgondozási segélyben, gyermekgondozást segítő ellátásban részesült vagy részesül, vagy
   - kb) gyermeknevelési támogatásban részesült vagy részesül.
 
 (2) A munkavállaló akkor részesül az (1) bekezdés g) pont gb) vagy gc) alpontja szerinti ellátásban, ha az ellátást jogerősen megállapították.

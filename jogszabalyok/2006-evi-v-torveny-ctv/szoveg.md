@@ -214,7 +214,7 @@ feltéve hogy a vele szembeni végrehajtás eredménytelen volt.
 
 11/A. § A cégbíróság és a céginformációs szolgálat a cégnyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
 
-11/B. § Az e törvény szerint a cégeljárásban fizetendő közzétételi költségtérítés, a számviteli beszámoló közzétételéért és a céginformációért fizetendő költségtérítés együttesen – a cégeljárás, az e törvény szerinti nemperes eljárások és szolgáltatások során az elektronikus eljárást és ügyintézést támogató rendszer üzemeltetésével és fejlesztésével, az adatok feldolgozásával, továbbá a Cégközlöny szerkesztésével, kiadásával összefüggésben felmerült szükséges és igazolt költségek levonását követően – a központi költségvetés bevételét képezi.
+11/B. § Az e törvény szerint a cégeljárásban fizetendő közzétételi költségtérítés és a céginformációért fizetendő költségtérítés együttesen – a cégeljárás, az e törvény szerinti nemperes eljárások és szolgáltatások során az elektronikus eljárást és ügyintézést támogató rendszer üzemeltetésével és fejlesztésével, az adatok feldolgozásával, továbbá a Cégközlöny szerkesztésével, kiadásával összefüggésben felmerült szükséges és igazolt költségek levonását követően – a központi költségvetés bevételét képezi.
 
 ### 2. CÍM — A papír alapú, valamint az elektronikus
 
@@ -299,7 +299,7 @@ megismerhetők.
 
 (8) A beszámoló közzétételére a céginformációs szolgálat honlapján, napi feltöltéssel kerül sor.
 
-(9) A közzétételi költségtérítést külön jogszabályban meghatározott módon kell megfizetni az igazságügyért felelős miniszter által vezetett minisztériumnak a kincstárnál vezetett számlájára. A közzétételi költségtérítés befizetését a céginformációs szolgálat ellenőrzi. Ha a közzétételi költségtérítés befizetése nem történt meg, vagy a befizetési igazolás nem megfelelően került az elektronikus űrlaphoz csatolásra, a céginformációs szolgálat haladéktalanul elektronikus értesítést küld a beszámolót benyújtó személy részére. Ebben az esetben a céget úgy kell tekinteni, mint amely a letétbe helyezési és a közzétételi kötelezettségnek nem tett eleget.
+(9)
 
 19. § (1) A kormányzati portál a beszámoló közzétételre történő megküldésének teljesítéséről az időpont megjelölésével elektronikus igazolást küld a beszámolót benyújtó személynek. A beszámoló megküldésére vonatkozó határidők tekintetében a céginformációs szolgálathoz történő – az informatikai szempontból szabályszerű – érkezés időpontja irányadó.
 
@@ -423,7 +423,7 @@ megismerhetők.
 
 (3) Az (1) bekezdés f) pontjában szereplő jegyzett tőkeként kell feltüntetni az európai gazdasági egyesülés, a külföldiek magyarországi fióktelepe vagy kereskedelmi képviselete esetén a tulajdonos, illetve a külföldi vállalkozás által a működéshez rendelkezésre bocsátott összeget. A jegyzett tőkét – a számviteli törvény felhatalmazása alapján devizakönyvvezetést alkalmazó társaság, az európai részvénytársaság, az európai gazdasági egyesülés kivételével – forintban kell meghatározni. Az európai szövetkezet a jegyzett tőkéjét euróban is meghatározhatja.
 
-(4) Szövetkezet, európai szövetkezet, európai gazdasági egyesülés, külföldi vállalkozás magyarországi fióktelepe és külföldiek magyarországi kereskedelmi képviselete esetében a jegyzett tőke (illetve a jegyzett tőkeként bejegyzett összeg) változását – a változások számától függetlenül – évente legalább egy alkalommal kötelező a cégbíróságnak bejegyzés és közzététel végett bejelenteni.
+(4) Európai gazdasági egyesülés, külföldi vállalkozás magyarországi fióktelepe és külföldiek magyarországi kereskedelmi képviselete esetében a jegyzett tőke (illetve a jegyzett tőkeként bejegyzett összeg) változását – a változások számától függetlenül – évente legalább egy alkalommal kötelező a cégbíróságnak bejegyzés és közzététel végett bejelenteni. A szövetkezet, európai szövetkezet esetében a jegyzett tőke változását nem kell bejelenteni.
 
 (4a) A bejegyzési kérelem benyújtásakor a cég köteles megjelölni főtevékenységét és további tevékenységi köreit azok mindenkor hatályos TEÁOR nómenklatúra szerinti megjelölésével. A cégbíróság a cég bejegyzésekor elektronikus úton értesíti az állami adóhatóságot a cég főtevékenységéről és további tevékenységi köreiről.
 
@@ -1793,7 +1793,7 @@ módosuló jogszabályok
 - g) az e-közigazgatásért felelős miniszterrel egyetértésben a cég honlapján történő közzétételre,
 - h) az e-közigazgatásért felelős miniszterrel és a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszterrel egyetértésben az automatikus és a hivatalbóli bejegyzési eljárásra, az automatikus és a hivatalbóli bejegyzésekre,
 - i) az e-közigazgatásért felelős miniszterrel egyetértésben a cégjegyzésre jogosultak képviseleti jogának igazolására szolgáló kártyára,
-- j) a számviteli szabályozásért felelős miniszterrel egyetértésben a számviteli törvény szerinti beszámoló elektronikus úton történő megküldése során csatolandó űrlap formai és tartalmi elemeire, a beszámoló elektronikus úton történő megküldésével kapcsolatos eljárásra, valamint az elektronikus úton megküldött beszámoló közzétételi díjának megfizetésével összefüggésben a számlakibocsátásra
+- j) a számviteli szabályozásért felelős miniszterrel egyetértésben a számviteli törvény szerinti beszámoló elektronikus úton történő megküldése során csatolandó űrlap formai és tartalmi elemeire, a beszámoló elektronikus úton történő megküldésével kapcsolatos eljárásra,
 - k) az államháztartásért felelős miniszterrel egyetértésben a céginformációs szolgálattal kapcsolatos bevételek beszedésére
 - l) a bűnügyi nyilvántartó szervtől történő adatigénylésre és ezzel összefüggésben a bűnügyi nyilvántartó szerv és a cégbíróság közötti kapcsolattartásra
 - m) a cégbejegyzési (változásbejegyzési) kérelem céginformációs szolgálat által végzett informatikai és formai szempontú vizsgálatára

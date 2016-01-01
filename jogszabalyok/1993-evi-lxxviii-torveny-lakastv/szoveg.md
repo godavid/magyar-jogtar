@@ -18,7 +18,7 @@ Az Országgyűlés a lakások és helyiségek bérletére vonatkozó szabályok 
 
 (2a) Az ingatlan tulajdonjogának az (1) bekezdés szerinti megszerzése nem engedélyezhető, ha az a közérdeket sértené. A közérdek sérelmének minősül, ha a kérelmező külföldi természetes személy büntetett előéletű. Külföldi jogi személy kérelmező esetén a közérdek sérelme akkor valósul meg, ha a fióktelep vagy kereskedelmi képviselet a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvény szerint alkalmazott tevékenység korlátozására vonatkozó intézkedés hatálya alatt áll. Az e törvény végrehajtására kiadott kormányrendelet a közérdek sérelmének a tulajdonjog megszerzése engedélyezését kizáró további eseteit állapíthatja meg.
 
-(2b) A külföldi természetes személy kérelmező a tulajdonjog megszerzésének engedélyezése iránti kérelem benyújtásával egyidejűleg a fővárosi és megyei kormányhivatal részére hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, vagy kéri, hogy e tény fennállására vonatkozó adatokat a fővárosi és megyei kormányhivatal részére – a kérelem elbírálása céljából benyújtott adatigénylése alapján – a bűnügyi nyilvántartó szerv továbbítsa. Az adatigénylés során a fővárosi és megyei kormányhivatal a (2a) bekezdésben meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől. Az ennek alapján megismert személyes adatokat a fővárosi és megyei kormányhivatal a kérelem elbírálása iránti eljárás jogerős befejezéséig kezeli.
+(2b)
 
 (3) Diplomáciai, konzuli képviselet, valamint ezekkel egy tekintet alá eső nemzetközi szervezetek ingatlanszerzéséhez az engedélyt az ingatlan fekvése szerint illetékes fővárosi és megyei kormányhivatal nemzetközi szerződés vagy viszonosság fennállása alapján adja meg. A nemzetközi szerződésről, illetve a viszonosság fennállásáról a külpolitikáért felelős miniszter nyilatkozatát be kell szerezni.
 
@@ -532,7 +532,7 @@ használhatja fel. A felhasználás részletes szabályait önkormányzati rende
 
 ### Ingatlanközvetítés,ingatlanvagyon-értékelés és közvetítés
 
-64/A. § (1) Az üzletszerű ingatlanközvetítői tevékenység folytatásához az ingatlanvállalkozás-felügyeleti hatóság engedélye szükséges.
+64/A. § (1) Az üzletszerű ingatlanközvetítői tevékenység az ingatlanvállalkozás-felügyeleti hatósághoz benyújtott, a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti bejelentés alapján folytatható.
 
 (2) Az ingatlanközvetítő a tevékenységi körén belül:
 
@@ -543,7 +543,7 @@ használhatja fel. A felhasználás részletes szabályait önkormányzati rende
 
 összefüggő feladatokat látja el.
 
-64/B. § (1) Az üzletszerű ingatlanvagyon-értékelő és közvetítői tevékenység folytatásához az ingatlanvállalkozás-felügyeleti hatóság engedélye szükséges.
+64/B. § (1) Az üzletszerű ingatlanvagyon-értékelő és -közvetítői tevékenység az ingatlanvállalkozás-felügyeleti hatósághoz benyújtott, a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti bejelentés alapján folytatható.
 
 (2) Az ingatlanvagyon-értékelő és közvetítő a tevékenységi körén belül:
 
@@ -556,27 +556,21 @@ használhatja fel. A felhasználás részletes szabályait önkormányzati rende
 
 összefüggő feladatokat látja el.
 
-64/C. § (1) Az üzletszerű ingatlanközvetítői, illetőleg üzletszerű ingatlanvagyon-értékelő és közvetítői tevékenység folytatását az ingatlanvállalkozás-felügyeleti hatóság annak engedélyezi, aki rendelkezik az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott szakmai képesítéssel és megfelel az e törvényben vagy a felhatalmazása alapján kiadott jogszabályban meghatározott egyéb feltételeknek.
+64/C. § (1) Üzletszerű ingatlanközvetítői, vagy üzletszerű ingatlanvagyon-értékelő és -közvetítői tevékenységet az végezhet, aki rendelkezik az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott szakmai képesítéssel és megfelel az e törvényben vagy a felhatalmazása alapján kiadott jogszabályban meghatározott egyéb feltételeknek, továbbá az üzletszerű ingatlanközvetítői, vagy üzletszerű ingatlanvagyon-értékelő és -közvetítői tevékenység folytatására irányuló szándékát az ingatlanvállalkozás-felügyeleti hatóságnak a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelentette.
 
-(2) Nem adható ingatlanközvetítői vagy ingatlanvagyon-értékelő és közvetítői engedély annak,
+(2) Nem végezhet ingatlanközvetítői vagy ingatlanvagyon-értékelő és -közvetítői tevékenységet az, aki
 
-- a) aki büntetett előéletű,
-- b) aki az ilyen tevékenységtől eltiltó jogerős bírói ítélet hatálya alatt áll,
-- c) aki gazdasági társaság vezető tisztségviselője nem lehet.
+- a) büntetett előéletű,
+- b) az ilyen tevékenységtől eltiltó jogerős bírói ítélet hatálya alatt áll, vagy
+- c) gazdasági társaság vezető tisztségviselője nem lehet.
 
-(3) Az engedély iránti kérelem tartalmazza a kérelmező természetes személyazonosító adatait, lakcímét, értesítési címét, a szakképzettségét tanúsító bizonyítvány (oklevél) számát, és ahhoz csatolni kell a szakképesítést tanúsító bizonyítványt.
+(3) Az ingatlanközvetítői vagy ingatlanvagyon-értékelő és -közvetítői tevékenység bejelentése tartalmazza a bejelentő természetes személyazonosító adatait, lakcímét, értesítési címét, a szakképzettségét tanúsító bizonyítvány (oklevél) számát, és ahhoz csatolni kell a szakképesítést tanúsító bizonyítványt.
 
-(4) Az üzletszerű ingatlanközvetítői, illetőleg az üzletszerű ingatlanvagyon-értékelő és közvetítői tevékenységet olyan gazdálkodó szervezet folytathatja, amelynek legalább egy személyesen közreműködő tagja vagy alkalmazottja – egyéni vállalkozó esetén, ha a tevékenységet nem maga látja el, legalább egy foglalkoztatottja – rendelkezik a 64/A. § (1) bekezdésében, illetve a 64/B. § (1) bekezdésében előírt engedéllyel, valamint az ilyen tevékenységével összefüggésben keletkezett, jogerősen megállapított köztartozásának eleget tett, továbbá megfelel az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott egyéb feltételeknek.
+(4) Az üzletszerű ingatlanközvetítői, vagy az üzletszerű ingatlanvagyon-értékelő és -közvetítői tevékenységet – a bejelentést követően – olyan gazdálkodó szervezet folytathatja, amelynek legalább egy személyesen közreműködő tagja vagy alkalmazottja – egyéni vállalkozó esetén, ha a tevékenységet nem maga látja el, legalább egy foglalkoztatottja – az üzletszerű ingatlanközvetítői, vagy az üzletszerű ingatlanvagyon-értékelő és -közvetítői tevékenység folytatására irányuló szándékát az ingatlanvállalkozás-felügyeleti hatóságnak a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelentette, valamint az ilyen tevékenységével összefüggésben keletkezett, jogerősen megállapított köztartozásának eleget tett, továbbá megfelel az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott egyéb feltételeknek.
 
-(5) A gazdálkodó szervezet köteles az üzletszerű ingatlanközvetítői vagy üzletszerű ingatlanvagyon-értékelő és közvetítői tevékenység folytatására irányuló szándékát az ingatlanvállalkozás-felügyeleti hatóságnak bejelenteni. A bejelentéshez csatolni kell a (4) bekezdés szerinti nemleges köztartozásról szóló igazolást. Az állami adóhatóságtól beszerezhető adóigazolással egyenértékű, ha az adózó szerepel a köztartozásmentes adózói adatbázisban.
+(5) Ingatlanközvetítői tevékenység végzésére és a hozzá kapcsolódó ügyleti okiratok elkészítésére – a forgalmi értékbecslés és az ingatlanvagyon-értékelés kivételével – az ügyvéd, feladatkörében a jogtanácsos az (1) bekezdésben említett szakképesítés nélkül is jogosult.
 
-(6) Ingatlanközvetítői tevékenység végzésére és a hozzá kapcsolódó ügyleti okiratok elkészítésére – a forgalmi értékbecslés, illetőleg az ingatlanvagyon-értékelés kivételével – az ügyvéd, feladatkörében a jogtanácsos az (1) bekezdésben említett szakképesítés nélkül is jogosult.
-
-(7) Ha a gazdálkodó szervezet a bejelentéshez nem csatolja a nemleges köztartozásról szóló igazolást, az ingatlanvállalkozás-felügyeleti hatóság – a bejelentés feltételeinek megállapításához – adatszolgáltatási kérelemmel fordul a köztartozásokról nyilvántartást vezető hatósághoz. A megkeresett hatóság az adatszolgáltatása körében arról ad tájékoztatást, hogy az alapítónak van-e meg nem fizetett, lejárt köztartozása.
-
-(8) Ingatlanközvetítői, ingatlanvagyon-értékelő és -közvetítői tevékenységet folytatni kívánó személy e tevékenység engedélyezése iránti kérelem benyújtásával egyidejűleg hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, valamint nem áll e tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv az ingatlanvállalkozás-felügyeleti hatóság részére – annak az ingatlanközvetítői, az ingatlanvagyon-értékelő és -közvetítői tevékenység engedélyezése iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során az ingatlanvállalkozás-felügyeleti hatóság a 64/D. § (5) bekezdésében meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől.
-
-64/D. § (1) Az ingatlanvállalkozás-felügyeleti hatóság az üzletszerű ingatlanközvetítői vagy az üzletszerű ingatlanvagyon-értékelő és -közvetítői tevékenység folytatására engedéllyel rendelkező természetes személyekről és az arra jogosult, 64/C. § (5) bekezdése szerinti bejelentést tevő gazdálkodó szervezetekről nyilvántartást vezet. A nyilvántartás – az (1a) bekezdés a)–f) pontjában meghatározottak kivételével – közhiteles hatósági nyilvántartásnak minősül. A nyilvántartásba való bejegyzésre és törlésre irányuló eljárás során okirati bizonyításnak van helye.
+64/D. § (1) Az ingatlanvállalkozás-felügyeleti hatóság által az üzletszerű ingatlanközvetítői vagy az üzletszerű ingatlanvagyon-értékelő és -közvetítői tevékenységet végző természetes személyekről és gazdálkodó szervezetekről vezetett nyilvántartásba való bejegyzésre és törlésre irányuló eljárás során okirati bizonyításnak van helye.
 
 (1a) Az (1) bekezdés szerinti nyilvántartás – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – tartalmazza:
 
@@ -603,12 +597,7 @@ használhatja fel. A felhasználás részletes szabályait önkormányzati rende
 
 (4) A nyilvántartásban szereplő személy köteles az (1) bekezdésben foglalt adatok megváltozásáról az eljáró hatóságot a változástól számított tíz napon belül tájékoztatni.
 
-(5) Az ingatlanvállalkozás-felügyeleti hatóság az ingatlanközvetítői, valamint az ingatlanvagyon-értékelő és -közvetítői tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a nyilvántartásba vett ingatlanközvetítői, ingatlanvagyon-értékelő és -közvetítői tevékenységet végző személy büntetlen előéletű, és nem áll a tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából az ingatlanvállalkozás-felügyeleti hatóság adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy az ingatlanközvetítő, illetve az ingatlanvagyon-értékelő és ingatlanvagyon-közvetítő büntetlen előéletű-e, valamint, hogy a tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
-
-(6) A 64/C. § (8) bekezdése és a 64/D. § (5) bekezdés alapján megismert személyes adatokat az ingatlanvállalkozás-felügyeleti hatóság
-
-- a) az ingatlanközvetítői, az ingatlanvagyon-értékelő és -közvetítői tevékenység engedélyezése iránti eljárás jogerős befejezéséig,
-- b) az ingatlanközvetítői, az ingatlanvagyon-értékelő és -közvetítői tevékenységet végző személy nyilvántartásba vétele esetén a hatósági ellenőrzés időtartamára vagy a nyilvántartásból való törlésre irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
+(5)–(6)
 
 ## ÖTÖDIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
@@ -749,7 +738,7 @@ használhatja fel. A felhasználás részletes szabályait önkormányzati rende
 
 87/B. § Felhatalmazást kap a lakásgazdálkodásért és lakáspolitikáért felelős miniszter, hogy
 
-- a) az e törvény szerinti üzletszerű ingatlanközvetítői, illetőleg üzletszerű ingatlanvagyon-értékelő és közvetítői tevékenység folytatásának részletes feltételeit, az e tevékenységre jogosító engedély kiadásának rendjét, az engedéllyel rendelkezőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket, valamint
+- a) az e törvény szerinti üzletszerű ingatlanközvetítői, illetve üzletszerű ingatlanvagyon-értékelő és -közvetítői tevékenység folytatásának részletes feltételeit, az e tevékenység bejelentésének rendjét, a bejelentés alapján vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket, valamint
 - b) a 64/C. § (5) bekezdése szerinti bejelentést tevő gazdálkodó szervezetek tevékenysége folytatásának részletes feltételeit, a tevékenység bejelentésének és e gazdálkodó szervezetekről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket rendeletben szabályozza.
 
 87/C. §

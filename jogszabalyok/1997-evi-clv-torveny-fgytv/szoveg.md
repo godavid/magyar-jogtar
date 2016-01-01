@@ -219,7 +219,7 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 17/D. § (1) A számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.) hatálya alá tartozó, a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény hatálya alá nem tartozó vállalkozás köteles fogyasztóvédelmi referenst foglalkoztatni.
 
-(2) A fogyasztóvédelmi referens feladata a vállalkozás fogyasztókat érintő tevékenységének figyelemmel kísérése, a vállalkozás alkalmazottai részére fogyasztóvédelmi tárgyú oktatás, képzés szervezése. A fogyasztóvédelmi referens kapcsolatot tart a fogyasztóvédelmi hatósággal, békéltető testületekkel, valamint egyéb, fogyasztóvédelmi feladatokat is ellátó állami szervekkel.
+(2) A fogyasztóvédelmi referens feladata a vállalkozás fogyasztókat érintő tevékenységének figyelemmel kísérése, a vállalkozás alkalmazottai részére a fogyasztóvédelmi szemlélet erősítését, valamint a fogyasztóvédelmi szabályok ismeretének elmélyítését elősegítő fogyasztóvédelmi tárgyú oktatás, képzés rendszeres szervezése. A fogyasztóvédelmi referens kapcsolatot tart a fogyasztóvédelmi hatósággal, békéltető testületekkel, valamint egyéb, fogyasztóvédelmi feladatokat is ellátó állami szervekkel.
 
 (3) Fogyasztóvédelmi referens az a magyar állampolgár vagy az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam állampolgára lehet, aki
 
@@ -237,11 +237,16 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 (6) A fogyasztóvédelmi referensi tevékenység megbízási szerződés keretében is ellátható.
 
-(7) A fogyasztóvédelmi referens képzéssel és vizsgáztatással (a továbbiakban: képzés) kapcsolatos tevékenység szakmai felügyeletét a fogyasztóvédelmi hatóság látja el.
+(6a) A fogyasztóvédelmi referens köteles tájékoztatni a fogyasztóvédelmi hatóságot a foglalkoztatásával kapcsolatos adatokról (név, a képesítési bizonyítvány kiállításának dátuma és sorszáma, a foglalkoztatás kezdő időpontja), valamint az adatokban beállt változásról, 8 napon belül.
 
-(8) A (3) bekezdés b) pontja szerinti képzést olyan gazdasági társaság vagy egyéni cég szervezhet (a továbbiakban: szervező), amely a képzés céljának megfelelő oktatási anyaggal, tanulmányi és vizsgaszabályzattal, továbbá szükséges létszámú oktatóval, illetve infrastruktúrával rendelkezik.
+(7)
 
-(9) A fogyasztóvédelmi referens képzésre vonatkozó tevékenységet be kell jelenteni a fogyasztóvédelmi hatóság felé. Fogyasztóvédelmi referens foglalkoztatására köteles vállalkozás a (3) bekezdés b) pontja szerinti képzést nem szervezhet.
+(8) A (3) bekezdés b) pontja szerinti képzést olyan gazdasági társaság vagy egyéni cég szervezhet (a továbbiakban: szervező), amely tevékenységének folytatását a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint a fogyasztóvédelmi hatóságnak bejelentette, és
+
+- a) ellene sem csőd-, sem felszámolási eljárást nem indítottak, továbbá
+- b) a képzési tevékenység bejelentését megelőző 5 évben nem szerepelt az adóhiányosok, hátralékosok vagy végrehajtási eljárás alatt álló adózók listáján, és adószáma nem került felfüggesztésre vagy törlésre.
+
+(9) Fogyasztóvédelmi referens foglalkoztatására köteles vállalkozás a (3) bekezdés b) pontja szerinti képzést nem szervezhet.
 
 (10) A (9) bekezdés szerinti bejelentésnek tartalmaznia kell:
 
@@ -252,30 +257,26 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 - e) annak igazolását, hogy valamennyi szakirány, illetve a fogyasztóvédelmi alapismeretek esetén rendelkezésre áll legalább három, az e törvényben meghatározott feltételeknek megfelelő oktató és vizsgáztató,
 - f) annak igazolását, hogy a szervező mind a négy szakirány oktatásához szükséges feltételekkel rendelkezik,
 - g) annak igazolását, mely szerint a szervező a fogyasztóvédelem vagy a fogyasztóvédelmi oktatás területén szerzett szakmai tapasztalattal rendelkezik,
-- h) annak igazolását, hogy a szervező köztartozásmentes adózói minőségű, melyet évente a fogyasztóvédelmi hatóság felé igazol.
+- h) annak igazolását, hogy a szervező szerepel a köztartozásmentes adózói adatbázisban.
 
-(10a) A (10) bekezdés szerinti feltételekben történő változást a szervező köteles a fogyasztóvédelmi hatóság számára a változást követő 15 napon belül bejelenteni.
+(10a)
 
-(11) A (3) bekezdés b) pontja szerinti képzés tantervét és felkészítő anyagát az oktatás és vizsgáztatás módját, valamint a vizsgafeladatokat a fogyasztóvédelmi hatóság hagyja jóvá.
+(11)–(12)
 
-(12) A fogyasztóvédelmi hatóság ellenőrzi:
+(12a) A szervező a képzés folytatása során folyamatosan meg kell feleljen az e törvényben meghatározott feltételeknek.
 
-- a) a tanterv és a felkészítő anyag vizsgálata során, hogy az abban foglaltak alkalmassá teszik-e a képzésben részt vevőt a (2) bekezdés szerinti feladatok ellátására, az tartalmazza-e valamennyi tárgykört, továbbá megfelel-e a hatályos jogszabályi előírásoknak,
-- b) a tanulmányi és vizsgaszabályzat vizsgálata során, hogy az megfelelően tartalmazza-e a képzés és a vizsga feltételeit,
-- c) az oktatók és vizsgáztatók e törvényben meghatározott feltételeknek való megfelelését.
+(13) A fogyasztóvédelmi hatóság országos nyilvántartást vezet a szervezőkről, és ellenőrzi a szervezők e törvénynek és a benyújtott dokumentumoknak megfelelő működését, és a képzés feltételeit. Amennyiben a
 
-(12a) A képzés folytatására kizárólag a fogyasztóvédelmi hatóság által jóváhagyott szervező jogosult. A fogyasztóvédelmi hatóság a (8)–(12) bekezdés szerinti feltételek teljesülése esetén adhat jóváhagyást a képzés folytatására. A szervező a képzés folytatása során folyamatosan meg kell feleljen a (8)–(12) bekezdés szerinti feltételeknek.
+fogyasztóvédelmi hatóság a szervező nem megfelelő működését állapítja meg, törli a nyilvántartásból.
 
-(13) A fogyasztóvédelmi hatóság országos nyilvántartást vezet a szervezőkről, és ellenőrzi a szervezők e törvénynek és a benyújtott dokumentumoknak megfelelő működését, és a képzés feltételeit. Amennyiben a fogyasztóvédelmi hatóság a szervező nem megfelelő működését állapítja meg, törli a nyilvántartásból.
-
-(14) Eredményes vizsgát követően a fogyasztóvédelmi hatóság képesítési bizonyítványt ad ki, a kiadott képesítési bizonyítványokat nyilvántartja.
+(14) A vizsga eredményes teljesítéséről a szervező képesítési bizonyítványt állít ki, amely tartalmazza a képzésben részt vevő által elvégzett szakirányt. A szervező a képesítési bizonyítványokról nyilvántartást vezet.
 
 (15) A (3) bekezdés b) pontja szerinti képzésre az vehető fel, aki legalább középfokú végzettséggel rendelkezik, valamint a képzés megkezdéséhez szükséges feltételeket teljesítette. A képzés megkezdéséhez szükséges, hogy a jelentkező
 
 - a) a képzésre a meghatározott formában jelentkezzen, és
 - b) a képzés díját megfizesse.
 
-(16) A fogyasztóvédelmi hatóság minden év január 31. napjáig közzéteszi a fogyasztóvédelmi referens vizsga tematikai követelményét.
+(16)
 
 (17) A (3) bekezdés b) pontja szerinti képzés szakmai követelményeit az 1. melléklet tartalmazza.
 
@@ -315,7 +316,7 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 (2) A békéltető testületi tagokat – a Kormány rendeletében meghatározottak szerint – egyrészről a kamara és a megyei (fővárosi) agrárkamarák, másrészről a fogyasztói érdekek képviseletét ellátó egyesületek egyenlő arányban jelölik ki.
 
-(3) A testületi tagok száma testületenként legalább tíz fő.
+(3) A testületi tagok száma testületenként legalább tíz fő. A békéltető testület megalakulásakor legfeljebb a testületi tagok fele lehet olyan személy, aki az általános öregségi nyugdíjkorhatárt betöltötte.
 
 (4) A kijelölés során biztosítani kell, hogy a testületnek mind a kamara, megyei (fővárosi) agrárkamarák, mind a fogyasztói érdekek képviseletét ellátó egyesületek által jelölt személyek között legyen olyan tagja, aki megfelel a 25. § (3) és (5) bekezdésében meghatározott követelményeknek.
 
@@ -346,15 +347,20 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 - a) a békéltető testületi tagsági kijelölés feltételeként,
 - b) megbízatásának tartama alatt a békéltető testület elnöke, a békéltető testület elnöke tekintetében a fogyasztóvédelemért felelős miniszter írásbeli felhívására a felhívástól számított tizenöt munkanapon belül, vagy ha ez e határidőn belül az érintetten kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul.
 
+(5) A 21. § (3) bekezdésében foglalt feltétel teljesülésének vizsgálata érdekében a békéltető testületi tagok kijelölése során a tagnak jelölt személy életkorát hatósági igazolvánnyal igazolja.
+
 22/A. § (1) A békéltető testület elnöke a békéltető testület tagját, a fogyasztóvédelemért felelős miniszter a békéltető testület elnökét írásban, a mulasztás jogkövetkezményének ismertetésével felhívhatja annak igazolására, hogy az igazolásra felhívottal szemben nem áll fenn a 22. § (2) bekezdés b)–d) pontjában meghatározott kizáró ok.
 
 (2) Ha az (1) bekezdésben meghatározott felhívásra a békéltető testületi tag, illetve a békéltető testület elnöke igazolja, hogy vele szemben nem áll fenn a 22. § (2) bekezdés b)–d) pontjában meghatározott kizáró ok, az igazolás céljából a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat a békéltető testület a tag, a fogyasztóvédelemért felelős miniszter a testület elnöke részére megtéríti.
 
-22/B. § (1) Az alkalmassági feltételek teljesülése és a kizáró okok vizsgálata céljából a békéltető testület elnöke kezeli a békéltető testületi tagnak jelölt személy
+22/B. § (1) Az alkalmassági feltételek teljesülése, a kizáró okok, valamint a 21. § (3) bekezdésében foglalt feltétel vizsgálata céljából a békéltető testület elnöke kezeli a békéltető testületi tagnak jelölt személy
 
-- a) 22. § (1) bekezdés szerinti végzettséget és szakmai gyakorlatot igazoló dokumentumokban,
-- b) 22. § (2) bekezdés a) pontjában meghatározott kizáró ok fenn nem állásának megállapítása céljából történt adatszolgáltatásban, valamint
-- c) a 22. § (2) bekezdés b)–d) pontjában meghatározott kizáró okok fenn nem állásának megállapítása céljából kiállított hatósági bizonyítványban foglalt személyes adatait.
+- a) 21. § (3) bekezdésében foglalt feltétel teljesülésének vizsgálata céljából történt adatszolgáltatásban,
+- b) 22. § (1) bekezdés szerinti végzettséget és szakmai gyakorlatot igazoló dokumentumokban,
+- c) 22. § (2) bekezdés a) pontjában meghatározott kizáró ok fenn nem állásának megállapítása céljából történt adatszolgáltatásban, valamint
+- d) a 22. § (2) bekezdés b)–d) pontjában meghatározott kizáró okok fenn nem állásának megállapítása céljából kiállított hatósági bizonyítványban
+
+foglalt személyes adatait.
 
 (2) Az (1) bekezdésben meghatározott személyes adatokat
 
@@ -808,7 +814,7 @@ vonatkozó rendelkezések betartását, és eljár azok megsértése esetén.
 
 45/B. § A fogyasztóvédelmi hatóság ellenőrzi a fogyasztói szerződés megkötésénél alkalmazott vagy e célból nyilvánosan megismerhetővé tett általános szerződési feltételeket abban a tekintetben, hogy azok nem tartalmaznak-e a jóhiszeműség és tisztesség követelményébe ütközően a szerződéses jogokat és kötelezettségeket egyoldalúan és indokolatlanul a fogyasztó hátrányára megállapító feltételt.
 
-46. § (1) A fogyasztóvédelmi hatóság eljárása során – e törvény eltérő rendelkezése hiányában – a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
+46. § (1)
 
 (2) A fogyasztóvédelmi hatóság eljárásában az általuk védett fogyasztói érdekek védelme körében az ügyfél jogai illetik meg
 
@@ -817,18 +823,24 @@ vonatkozó rendelkezések betartását, és eljár azok megsértése esetén.
 
 (2a) A (2) bekezdés a) pontjától eltérően a fogyasztói érdekek képviseletét ellátó egyesületeket a más által kezdeményezett eljárásban az ügyfél jogai csak akkor illetik meg, ha az eljárásban vizsgált jogsértés a fogyasztók széles körét érinti.
 
+(2b) A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény (a továbbiakban: Ket.) 93. § (2) bekezdésében foglalt rendelkezések alkalmazása során az ügyfél részéről a helyszínen eljáró személyt, akivel a hatóság a döntését a helyszínen közli, – az ellenkező bizonyításáig – az ügyfél képviseletére jogosultnak kell tekinteni, amennyiben erre irányuló nyilatkozatot tesz, illetve egyéb, ezt igazoló iratot csatol.
+
+(2c) A (2b) bekezdésben foglalt vélelem megdöntése iránti kérelmet a döntéssel szembeni fellebbezéssel egyidejűleg terjeszthet elő az ügyfél. A kérelemben elő kell adni azokat a tényeket, illetve körülményeket, amelyek a képviseleti jogosultság hiányát valószínűsítik.
+
 (3) A fogyasztóvédelmi hatóság eljárása a jogsértés bekövetkezését követő három éven túl nem indítható meg. Ha a jogsértő magatartás folyamatos, a határidő a magatartás abbahagyásakor kezdődik. Ha a jogsértő magatartás azzal valósul meg, hogy valamely helyzetet vagy állapotot nem szüntetnek meg, a határidő mindaddig nem kezdődik el, amíg ez a helyzet vagy állapot fennáll.
 
 (4) A fogyasztóvédelmi hatóság a termék biztonságosságával és megfelelőségével kapcsolatos piacfelügyeleti feladat- és hatáskörét e törvény, a termékek piacfelügyeletéről szóló törvény, valamint külön jogszabály alapján gyakorolja.
 
-(5) A fogyasztóvédelmi hatóság közszolgáltatással kapcsolatos eljárásában az ügyintézési határidő 90 nap.
+(5) A fogyasztóvédelmi hatóság közszolgáltatással kapcsolatos eljárásában az ügyintézési határidő 60 nap.
 
-46/A. § A fogyasztó fogyasztóvédelmi hatóság részére benyújtott kérelmének – a közigazgatási hatósági eljárás általános szabályairól szóló törvényben előírtakon túl – tartalmaznia kell
+(6) A fogyasztóvédelmi hatóság eljárása során megvizsgálhatja a Ket. 94. § (1) bekezdés a) és b) pontjában szabályozott eljárás alkalmazásának lehetőségét e törvény 14. § (1) bekezdése és a 14. § (5) bekezdése esetében a termék eladási ára és egységára vonatkozásában, továbbá a kereskedelemről szóló 2005. évi CLXIV. törvény 5. § (4) bekezdésének első mondata és a 6. § (2) bekezdés b) pontja esetében. Ezen esetek kivételével a fogyasztóvédelmi hatóság eljárása során nem vizsgálhatja a Ket. 94. §-ában szabályozott eljárások alkalmazásának lehetőségét, kivéve, ha a hatósági ellenőrzés alá vont ügyfél a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény szerint kis- és középvállalkozásnak minősül.
+
+46/A. § A fogyasztó fogyasztóvédelmi hatóság részére benyújtott kérelmének – a Ket.-ben előírtakon túl – tartalmaznia kell
 
 - a) a kérelemmel érintett vállalkozás nevét, valamint ha a fogyasztó rendelkezésére áll, székhelyének címét,
 - b) a feltételezett jogsértéssel érintett üzlet címét vagy a kifogásolt magatartás elkövetésének helyét,
 - c) a beadvány tárgyának rövid leírását a rendelkezésre álló dokumentumokkal alátámasztva, ideértve különösen a vállalkozásnak a fogyasztó megkeresésére adott válaszlevelét, a szóbeli panaszról felvett jegyzőkönyvet, vagy postai úton benyújtott panasz esetében a feladás igazolását szolgáló dokumentumot, továbbá
-- d) a kérelmező aláírását.
+- d)
 
 47. § (1) Ha a fogyasztóvédelmi hatóság eljárása során megállapítja a 45/A. § (1)–(3) bekezdésében meghatározott fogyasztóvédelmi rendelkezések megsértését, az eset lényeges körülményeinek – így különösen a jogsértés súlyának, a jogsértő állapot időtartamának, a jogsértő magatartás ismételt tanúsításának, illetve a jogsértéssel elért előny – figyelembevételével és az arányosság követelményének szem előtt tartásával az alábbi jogkövetkezményeket állapíthatja meg:
 
@@ -994,9 +1006,9 @@ terjedhet.
 
 (2) E törvény 18–37. §-ában foglalt rendelkezéseket 1999. január 1-jétől kell alkalmazni.
 
-53. § A 2016. január 1-jét követően felálló békéltető testületek tagjainak kijelölése során figyelemmel kell lenni arra, hogy a testületi tagok legfeljebb fele lehet olyan személy, aki az általános öregségi nyugdíjkorhatárt betöltötte. A békéltető testületi tagnak jelölt személy életkorát hatósági igazolvánnyal igazolja. A békéltető testület elnöke az életkor vizsgálata céljából történt adatszolgáltatásban foglalt személyes adatokat a kijelölési eljárás befejezéséig kezeli.
+53. §
 
-54. § A 17/D. § (3) bekezdésében előírt képzettség nélkül fogyasztóvédelmi referens legkésőbb 2014. július 31-éig foglalkoztatható.
+54. §
 
 ### Felhatalmazás
 
@@ -1061,7 +1073,7 @@ vonatkozó részletes szabályokat rendelettel meghatározza.
 
 #### A fogyasztóvédelmi referens hatósági jellegű képzés szakmai követelményei
 
-A képzés célja, hogy a vizsgázó birtokában legyen az alapvető és a területspecifikus fogyasztóvédelmi ismereteknek, valamint alkalmassá váljon az e törvény 17/D. §-ában meghatározott fogyasztóvédelmi referensi feladatok ellátására.
+A képzés célja, hogy a vizsgázó birtokában legyen az alapvető és a területspecifikus fogyasztóvédelmi ismereteknek, valamint alkalmassá váljon az e törvény 17/D. §-ában meghatározott fogyasztóvédelmi referensi feladatok ellátására, amellyel elősegíti a vállalkozás fogyasztóvédelmi szemléletének erősítését, illetve segíteni tudja az alkalmazottak fogyasztóvédelmi szabályokra vonatkozó ismereteinek elmélyítését.
 
 - 1. A képzés témakörei
 - 1.1. A képzés tárgykörei:
@@ -1105,13 +1117,12 @@ A képzés célja, hogy a vizsgázó birtokában legyen az alapvető és a terü
 - 2.5. A kereskedelmi szakirány képzésének időtartama 50 óra, amely 90% elméleti, 10% gyakorlati részből áll.
 - 2.6. Az órákon való részvétel kötelező, a teljes óraszám 10%-ánál magasabb arányú hiányzás esetén a képzést meg kell ismételni.
 - 3. A vizsga
-- 3.1. A képzés és a vizsga részletes szabályait a képzést szervezőnek tanulmányi és vizsgaszabályzatban kell rögzítenie. A szervező gondoskodik a vizsga követelményeihez igazodó felkészítő anyag elkészítéséről, a vizsga lebonyolítását meghatározó módszertani útmutató készítéséről, az ellenőrző kérdések összeállításáról és azok közzétételéről, valamint az írásbeli és szóbeli vizsgakérdések összeállításáról.
+- 3.1. A képzés és a vizsga részletes szabályait a képzést szervezőnek tanulmányi és vizsgaszabályzatban kell rögzítenie. A képzés kizárólag jelenléti képzés keretében végezhető. A szervező gondoskodik a vizsga követelményeihez igazodó felkészítő anyag elkészítéséről, a vizsga lebonyolítását meghatározó módszertani útmutató készítéséről, az ellenőrző kérdések összeállításáról és azok közzétételéről, valamint az írásbeli és szóbeli vizsgakérdések összeállításáról.
 - 3.2. A fogyasztóvédelmi referens képzésen oktató, valamint vizsgán vizsgáztató lehet, aki
   - a) szakirányú felsőfokú végzettséggel, és 3 éves valamely fogyasztóvédelmi hatáskörrel rendelkező hatóságnál eltöltött gyakorlattal rendelkezik, vagy
   - b) legalább 5 éves, fogyasztóvédelmi hatóságnál eltöltött gyakorlattal rendelkezik.
 - 3.3. A képzési idő lejártát követően a résztvevő vizsgát köteles tenni. A képzés elvégzését, valamint a vizsga letételét követően fogyasztóvédelmi referens megnevezésű képesítés megszerzésére kerül sor.
-- 3.4. A fogyasztóvédelmi referens vizsgát 3 tagú vizsgabizottság bírálja el. A vizsgabizottságot elnök vezeti. Az elnököt a fogyasztóvédelmi hatóság főigazgatója jelöli ki.
-- 3.5. A vizsga írásbeli és szóbeli részből áll. A vizsgafeladatokat a fogyasztóvédelmi hatóság hagyja jóvá. Az írásbeli vizsga megoldására 180 perc áll rendelkezésre. A szóbeli vizsgán a szóbeli vizsgakérdésekből szükséges ismertetnie tudását a vizsgázónak.
-- 3.6. A vizsga eredményét a pontérték alapján, %-ban kell meghatározni és azt kiválóan megfelelt, megfelelt vagy eredménytelen minősítéssel kell ellátni. A megfelelt minősítéshez legalább 60%-os, a kiválóan megfelelt minősítéshez legalább 90%-os eredmény szükséges.
-- 3.7. A képzést szervező a vizsgáról jegyzőkönyvet köteles vezetni. A vizsga jegyzőkönyvét és az eredmények összesítését a szervező 5 napon belül megküldi a fogyasztóvédelmi hatóságnak.
-- 3.8. A vizsga eredményes teljesítéséről a fogyasztóvédelmi hatóság képesítési bizonyítványt állít ki, mely tartalmazza a képzésben részt vevő által elvégzett szakirányt.
+- 3.4. A fogyasztóvédelmi referens vizsgát 3 tagú vizsgabizottság bírálja el. A vizsgabizottságot elnök vezeti. Az elnököt a szervező jelöli ki.
+- 3.5. A vizsga írásbeli és szóbeli részből áll. A szervező az írásbeli és a szóbeli vizsgakérdéseket bejelenti a fogyasztóvédelmi hatósághoz. A bejelentett írásbeli vizsgakérdésekből összeállított írásbeli vizsga megoldására 180 perc áll rendelkezésre. A szóbeli vizsgán a vizsgázó a tematikához kapcsolódó, bejelentett szóbeli vizsgakérdésekből ismerteti tudását.
+- 3.6. A vizsga eredményét a pontérték alapján, százalékban kell meghatározni és azt kiválóan megfelelt, megfelelt vagy eredménytelen minősítéssel ellátni. A megfelelt minősítéshez legalább 60%-os, a kiválóan megfelelt minősítéshez legalább 90%-os eredmény szükséges.
+- 3.7. A szervező a vizsgáról jegyzőkönyvet köteles vezetni. A vizsga jegyzőkönyvét és az eredmények összesítését a szervező 5 évig köteles megőrizni és az ellenőrzés során a fogyasztóvédelmi hatóság számára bemutatni.

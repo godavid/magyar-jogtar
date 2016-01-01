@@ -144,6 +144,10 @@ meghatározott feltételek teljesítését.
 
 (12) A (11) bekezdésben említett állami adóhatósági engedély visszavonásának jogerőre emelkedésének napjával, mint fordulónappal a csoportos adóalanyiságban részt vevő valamennyi tag együttesen köteles úgy eleget tenni az e törvény szerinti kötelezettségének, mintha jogutódlással szűnne meg, kivéve azt az esetet, ha a csoportos adóalanyiságban részt vevő valamennyi tag jogutód nélkül szűnik meg.
 
+8/A. § (1) A 8. § alkalmazásában nem kell együttesen kapcsolt vállalkozásoknak tekinteni azokat az adóalanyokat, akik (amelyek) kizárólag azért minősülnek kapcsolt vállalkozásnak, mert a Magyar Állam vagy helyi önkormányzat a Polgári Törvénykönyvről szóló törvény (a továbbiakban: Ptk.) megfelelő alkalmazásával harmadik személyként közvetlenül vagy közvetve többségi befolyással rendelkezik bennük.
+
+(2) A 8. § alkalmazásában nem lehet együttesen kapcsolt vállalkozásnak tekinteni a helyi önkormányzatot és azt a vállalkozást, amelyben a helyi önkormányzat a Ptk. megfelelő alkalmazásával közvetlenül vagy közvetve többségi befolyással rendelkezik.
+
 ### Termék értékesítése
 
 9. § (1) Termék értékesítése: birtokba vehető dolog átengedése, amely az átvevőt tulajdonosként való rendelkezésre jogosítja, vagy bármely más, a birtokba vehető dolog szerzése szempontjából ilyen joghatást eredményező ügylet.
@@ -229,7 +233,7 @@ termék felhasználása gazdasági tevékenységének folytatásához, feltéve,
 
 (3) A (2) bekezdésben említett jogutódlással történő megszűnésnek kell tekinteni e törvény alkalmazásában:
 
-- a) jogi személynek a Polgári Törvénykönyv (a továbbiakban: Ptk.) jogi személyekre vonatkozó rendelkezései szerinti átalakulását, egyesülését és szétválását;
+- a) jogi személynek a Ptk. jogi személyekre vonatkozó rendelkezései szerinti átalakulását, egyesülését és szétválását;
 - b)
 - c) szövetkezet gazdasági társasággá való átalakulása vagy jogutód nélküli megszűnése esetében a közösségi alap Ptk. szerinti átadását az alapszabály rendelkezése szerinti szervezet részére;
 - d) az egyéni vállalkozóról és az egyéni cégről szóló törvény (a továbbiakban: Evtv.) szerinti egyéni vállalkozói tevékenység folytatására való jogosultság – egyéni cég alapítására tekintettel történő – megszűnését, valamint egyéni cégnek az Evtv. szerinti átalakulását;
@@ -585,25 +589,23 @@ a termék importjának teljesítési helye a Közösség azon tagállama, ahol a
 
 (2) Bírósági vagy más hatósági eljárás keretében bíróságnak vagy más hatóságnak nyújtott szolgáltatás esetében, ha az ennek fejében járó ellenértéket a bíróság vagy más hatóság határozattal (végzéssel) állapítja meg, teljesítés az ellenértéket megállapító jogerős határozatnak (végzésnek) a szolgáltatás nyújtójával történő közlése.
 
-58. § (1) Termék értékesítése, szolgáltatás nyújtása esetében, ha a felek részletfizetésben vagy határozott időre szóló elszámolásban állapodtak meg, teljesítés az ellenérték megtérítésének esedékessége, amelyre az adott részlet vagy elszámolás vonatkozik.
+58. § (1) Amennyiben a felek a termékértékesítés, szolgáltatásnyújtás során időszakonkénti elszámolásban vagy fizetésben állapodnak meg, vagy a termékértékesítés, szolgáltatásnyújtás ellenértékét meghatározott időszakra állapítják meg, teljesítés az elszámolással vagy fizetéssel érintett időszak utolsó napja.
 
-(1a)
+(1a) Az (1) bekezdéstől eltérően teljesítés
+
+- a) a számla vagy a nyugta kibocsátásának időpontja, amennyiben az elszámolással vagy fizetéssel érintett időszakra vonatkozó ellenérték megtérítésének esedékessége és a számla vagy a nyugta kibocsátása az elszámolással vagy fizetéssel érintett időszak utolsó napját megelőzi,
+- b) az elszámolással vagy fizetéssel érintett időszakra vonatkozó ellenérték megtérítésének esedékessége, de legfeljebb az elszámolással vagy fizetéssel érintett időszak utolsó napját követő hatvanadik nap, amennyiben az ellenérték megtérítésének esedékessége az elszámolással vagy fizetéssel érintett időszak utolsó napját követő időpontra esik.
 
 (2) Abban az esetben, ha az az időszak, amelyre az adott részlet vagy elszámolás vonatkozik, tartamában meghaladja az egy naptári hónapot, az (1) bekezdéstől függetlenül – időarányos részteljesítésként – teljesítés történik a naptári hónap utolsó napján is, feltéve, hogy a termékértékesítésre a 89. § alkalmazandó.
 
-(3) Abban az esetben, ha az az időszak, amelyre az adott részlet vagy elszámolás vonatkozik, tartamában meghaladja a 12 hónapot, az (1) bekezdéstől és az 58/A. §-tól függetlenül – időarányos részteljesítésként – teljesítés történik
+(3) Abban az esetben, ha az az időszak, amelyre az adott részlet vagy elszámolás vonatkozik, tartamában meghaladja a 12 hónapot, az (1) és (1a) bekezdéstől függetlenül – időarányos részteljesítésként – teljesítés történik
 
 - a) a naptári év utolsó napján is, feltéve, hogy az adót a 140. § a) pontja szerint a szolgáltatás igénybevevője fizeti, vagy
 - b) egyéb, a (2) bekezdés és az a) pont alá nem tartozó esetekben pedig a tizenkettedik hónap utolsó napján is.
 
 (4) E § nem alkalmazható a termék 10. § a) pontja szerinti értékesítésére.
 
-58/A. § (1) Az 58. § (1) bekezdésében foglaltaktól eltérően, ha a felek a könyvviteli, könyvvizsgálati, adótanácsadási szolgáltatásról időszakonkénti elszámolásban vagy fizetésben állapodnak meg, vagy a szolgáltatásnyújtás ellenértékét meghatározott időszakra állapítják meg, teljesítés az elszámolással vagy fizetéssel érintett időszak utolsó napja.
-
-(2) Az (1) bekezdéstől eltérően teljesítés
-
-- a) a számla vagy a nyugta kibocsátásának időpontja, amennyiben az elszámolással vagy fizetéssel érintett időszakra vonatkozó ellenérték megtérítésének esedékessége és a számla vagy a nyugta kibocsátása az elszámolással vagy fizetéssel érintett időszak utolsó napját megelőzi,
-- b) az elszámolással vagy fizetéssel érintett időszakra vonatkozó ellenérték megtérítésének esedékessége, de legfeljebb az elszámolással vagy fizetéssel érintett időszak utolsó napját követő harmincadik nap, amennyiben az ellenérték megtérítésének esedékessége az elszámolással vagy fizetéssel érintett időszak utolsó napját követő időpontra esik.
+58/A. §
 
 59. § (1) Termék értékesítése, szolgáltatás nyújtása esetében, ha a teljesítést megelőzően ellenértékbe beszámítható vagyoni előnyt juttatnak (a továbbiakban: előleg), a fizetendő adót pénz vagy készpénz-helyettesítő fizetési eszköz formájában juttatott előleg esetében annak jóváírásakor, kézhezvételekor, egyéb esetben annak megszerzésekor kell megállapítani.
 
@@ -1761,12 +1763,17 @@ legyenek.
 
 ### A levonási jog gyakorlásának módja
 
-153/A. § (1) A belföldön nyilvántartásba vett adóalany az adómegállapítási időszakban megállapított fizetendő adó együttes összegét csökkentheti az ugyanezen vagy az Art. szerinti elévülési időn belüli korábbi adómegállapítási időszakban (időszakokban) keletkezett levonható előzetesen felszámított adó összegével.
+153/A. § (1) A belföldön nyilvántartásba vett adóalany az adómegállapítási időszakban megállapított fizetendő adó együttes összegét csökkentheti
+
+- a) a 120. § b) pontja, c) pont cb) alpontja szerinti, az ugyanezen adómegállapítási időszakban keletkezett levonható előzetesen felszámított adó,
+- b) az a) pont alá nem tartozó, az ugyanezen adómegállapítási időszakban vagy ezt megelőzően, de legfeljebb ezen adómegállapítási időszakot magában foglaló naptári évet megelőző egy naptári éven belül keletkezett levonható előzetesen felszámított adó összegével.
 
 (2) Ha az (1) bekezdés szerint megállapított különbözet előjele negatív, a különbözetet a belföldön nyilvántartásba vett adóalany
 
-- a) az (1) bekezdés szerinti elévülési időre figyelemmel a soron következő adómegállapítási időszakban veheti figyelembe úgy, mint az akkori adómegállapítási időszakban az (1) bekezdés szerint megállapított fizetendő adó együttes összegét csökkentő tételt, vagy
+- a) az Art. szerinti elévülési időre figyelemmel a soron következő adómegállapítási időszakban veheti figyelembe úgy, mint az akkori adómegállapítási időszakban az (1) bekezdés szerint megállapított fizetendő adó együttes összegét csökkentő tételt, vagy
 - b) a 186. §-ban meghatározott feltételek szerint és módon az állami adóhatóságtól visszaigényelheti.
+
+(3) Az Art. szerint el nem évült, az (1) bekezdés szerint nem érvényesített levonható előzetesen felszámított adó összegét a belföldön nyilvántartásba vett adóalany abban az adómegállapítási időszakban jogosult figyelembe venni az előzetesen felszámított adó összegét növelő tételként, amelyben az adólevonási jog keletkezett.
 
 ### Az adóalap és a fizetendő adó utólagos csökkenésének elszámolása
 
@@ -1941,8 +1948,9 @@ számlakibocsátási kötelezettséget jelent.
 
 165. § (1) Mentesül a számlakibocsátási kötelezettség alól az adóalany abban az esetben, ha
 
-- a) termék értékesítése, szolgáltatás nyújtása a 85. § (1) bekezdése és 86. § (1) bekezdése szerint mentes az adó alól, feltéve, hogy gondoskodik olyan, az ügylet teljesítését tanúsító okirat kibocsátásáról, amely a Számv. tv. rendelkezései szerint számviteli bizonylatnak minősül;
-- b) a termék beszerzője, szolgáltatás igénybevevője az ellenérték adót is tartalmazó összegét legkésőbb a 163. § (1) bekezdésének a) pontjában, illetőleg a 164. § (1) bekezdésének a) pontjában említett időpontig készpénzzel, készpénz-helyettesítő fizetési eszközzel vagy pénzhelyettesítő eszközzel maradéktalanul megtéríti, és számla kibocsátását az adóalanytól nem kéri.
+- a) termék értékesítése, szolgáltatás nyújtása a 85. § (1) bekezdése és 86. § (1) bekezdése szerint mentes az adó alól, feltéve, hogy gondoskodik olyan, az ügylet teljesítését tanúsító okirat kibocsátásáról, amely a számvitelről szóló törvény (a továbbiakban: Számv. tv.) rendelkezései szerint számviteli bizonylatnak minősül;
+- b) a termék beszerzője, szolgáltatás igénybevevője az ellenérték adót is tartalmazó összegét legkésőbb a 163. § (1) bekezdésének a) pontjában, illetőleg a 164. § (1) bekezdésének a) pontjában említett időpontig készpénzzel, készpénz-helyettesítő fizetési eszközzel vagy pénzhelyettesítő eszközzel maradéktalanul megtéríti, és számla kibocsátását az adóalanytól nem kéri;
+- c) a légi személyszállítás nyújtása a 105. § szerint mentes az adó alól, feltéve, hogy gondoskodik olyan, az ügylet teljesítését tanúsító okirat kibocsátásáról, amely a Számv. tv. rendelkezései szerint számviteli bizonylatnak minősül.
 
 (2) Az (1) bekezdés b) pontja nem alkalmazható a 6. § (4) bekezdésében, valamint a 29. és 89. §-ban meghatározott esetekben.
 
@@ -1951,9 +1959,15 @@ számlakibocsátási kötelezettséget jelent.
 - a) egy másik adóalany vagy nem adóalany jogi személy részére történik;
 - b) az a) pont alá nem tartozó személy, szervezet részére történik, és az ellenérték adót is tartalmazó összege eléri vagy meghaladja a 900 000 forintnak megfelelő pénzösszeget.
 
+(4) Az (1) bekezdés c) pontja nem alkalmazható abban az esetben, ha a légi személyszállítás igénybevevője az adóalanytól számla kibocsátását kéri.
+
+165/A. § (1) Mentesül a 45/A. § szerinti szolgáltatásnyújtás tekintetében a számlakibocsátási kötelezettség alól az az adóalany, aki (amely) belföldön gazdasági céllal nem telepedett le, gazdasági célú letelepedés hiányában pedig nem rendelkezik lakóhellyel vagy szokásos tartózkodási hellyel belföldön, és aki (amely) a 45/A. § szerinti szolgáltatás nyújtása utáni adófizetési kötelezettséget azon tagállami szabályozás alapján teljesíti, amely tartalmában megfelel a Héa-irányelv 358–369k. cikkében foglaltaknak.
+
+(2) Az (1) bekezdés nem alkalmazható abban az esetben, ha a szolgáltatás igénybevevője az adóalanytól számla kibocsátását kéri. Számla kibocsátása esetén az (1) bekezdés szerinti adóalany mentesül a 172. §-ban foglalt rendelkezés alól.
+
 ### Nyugtakibocsátási kötelezettség
 
-166. § (1) Abban az esetben, ha az adóalany a 165. § (1) bekezdésének b) pontja szerint mentesül a számlakibocsátási kötelezettség alól, köteles a termék beszerzője, szolgáltatás igénybevevője részére nyugta kibocsátásáról gondoskodni.
+166. § (1) Abban az esetben, ha az adóalany a 165. § (1) bekezdésének b) pontja vagy a 165/A. § szerint mentesül a számlakibocsátási kötelezettség alól, köteles a termék beszerzője, szolgáltatás igénybevevője részére nyugta kibocsátásáról gondoskodni.
 
 (2) Nyugta helyett az adóalany számla kibocsátásáról is gondoskodhat. Ebben az esetben mentesül a külön jogszabályban előírt gépi kiállítású nyugtakibocsátási kötelezettség alól [178. § (1) bekezdése].
 
@@ -3052,11 +3066,10 @@ jogosult az adó e fejezet szerinti visszatéríttetésére.
   - a) telek, amely beépítésre szánt területen fekszik, az építési szabályoknak megfelelően kialakított, a közterületnek gépjármű-közlekedésre alkalmas részéről az adott közterületre vonatkozó jogszabályi előírások szerint, vagy önálló helyrajzi számon útként nyilvántartott magánútról gépjárművel közvetlenül, zöldfelület, illetve termőföld sérelme nélkül megközelíthető, és amelynek a közterülettel vagy magánúttal közös határvonala legalább 3,00 m, továbbá amely egyúttal nem minősül beépített ingatlannak,
   - b) telek vagy telkek csoportja, amely a nyomvonal jellegű építmények elhelyezésére szolgál (építési terület) és amely egyúttal nem minősül beépített ingatlannak. 7/A. halottszállító személygépkocsi: az olyan személygépkocsi, amelyet a közúti járművek műszaki megvizsgálásáról szóló rendelet szerinti halottszállító kocsiként tüntetnek fel a járműnyilvántartásban.
 - 8. készpénz-helyettesítő fizetési eszköz: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben meghatározott készpénz-helyettesítő fizetési eszköz; 8/A. kísérleti fejlesztés: a meglévő tudományos, technológiai, üzleti és egyéb, vonatkozó ismeretek és szakértelem megszerzése, összesítése, megosztása és felhasználása új, módosított vagy javított termékek, eljárások vagy szolgáltatások terveinek és szabályainak létrehozása vagy megtervezése céljából;
-- 9. kis érték: a juttatott vagyoni előny értéke nem haladja meg az 5000 forintnak megfelelő pénzösszeget, amelyet a termék átengedéskori – adót is tartalmazó – szokásos piaci árának alapulvételével kell megállapítani;
-- 9/a. közcélú adomány: a közhasznú szervezet részére törvényben meghatározott közhasznú tevékenysége támogatására, valamint az egyházi jogi személy részére törvényben meghatározott tevékenysége támogatására fordított termék, szolgáltatás, feltéve hogy
-  - a) az ügyletre vonatkozó okirat, egyéb körülmény valós tartalma alapján nem állapítható meg, hogy az nem vagy csak látszólag szolgálja a közhasznú, a közérdekű, továbbá az egyházi jogi személy esetében törvényben meghatározott tevékenységét,
+- 9. kis érték: a juttatott vagyoni előny értéke nem haladja meg az 5000 forintnak megfelelő pénzösszeget, amelyet a termék átengedéskori – adót is tartalmazó – szokásos piaci árának alapulvételével kell megállapítani; 9/A. közcélú adomány: a közhasznú szervezet részére törvényben meghatározott közhasznú tevékenysége támogatására, az oktatási intézmény részére az alapító okiratában meghatározott tevékenysége támogatására, valamint az egyházi jogi személy részére törvényben meghatározott tevékenysége támogatására fordított termék, szolgáltatás, feltéve hogy
+  - a) az ügyletre vonatkozó okirat, egyéb körülmény valós tartalma alapján nem állapítható meg, hogy az nem vagy csak látszólag szolgálja a közhasznú, a közérdekű, az oktatási intézmény esetében az alapító okiratában meghatározott, továbbá az egyházi jogi személy esetében törvényben meghatározott tevékenységét,
   - b) az nem jelent vagyoni előnyt az adományozónak, az adományozó tagjának vagy részvényesének, vezető tisztségviselőjének, felügyelőbizottsága vagy igazgatósága tagjának, könyvvizsgálójának, illetve ezen személyek vagy a természetes személy tag vagy részvényes közeli hozzátartozójának azzal, hogy nem minősül vagyoni előnynek az adományozó nevére, tevékenységére történő utalás, és
-  - c) az adományozó rendelkezik a közhasznú szervezet, illetve az egyházi jogi személy által kiállított olyan igazolással, amely tartalmazza az adományozó és az adományozott nevét, székhelyét vagy állandó lakóhelyét, adószámát, adószám hiányában egyedi azonosítására szolgáló jelét és a támogatott célt;
+  - c) az adományozó rendelkezik a közhasznú szervezet, az oktatási intézmény, illetve az egyházi jogi személy által kiállított olyan igazolással, amely tartalmazza az adományozó és az adományozott nevét, székhelyét vagy állandó lakóhelyét, adószámát, adószám hiányában egyedi azonosítására szolgáló jelét és a támogatott célt;
 - 10. külföldi utas: az a természetes személy, aki Közösség egyetlen tagállamának sem állampolgára, és nem jogosult a Közösség egyetlen tagállamában sem állandó tartózkodásra, továbbá az, aki a Közösség valamely tagállamának állampolgára ugyan, de lakóhelye a Közösség területén kívül van;
 - 11. lakóhely: tartós ottlakásra szolgáló hely, amellyel a természetes személy személyes és gazdasági kapcsolatai a legszorosabbak (létérdekek központja), kivéve, ha az Európai Unió kötelező jogi aktusa ettől eltérően rendelkezik;
 - 12. lakóingatlan: lakás céljára létesített és az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott vagy ilyenként feltüntetésre váró ingatlan. Nem minősül lakóingatlannak a lakás rendeltetésszerű használatához nem szükséges helyiség még akkor sem, ha az a lakóépülettel egybeépült, így különösen: a garázs, a műhely, az üzlet, a gazdasági épület;
@@ -3378,7 +3391,17 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
 
 295. § A 3. számú melléklet I. részének a Mód5 törvénnyel megállapított 25-48. pontjait azokban az esetekben kell alkalmazni először, amelyekben a 84. § szerint megállapított időpont 2015. január 1-jére vagy azt követő napra esik.
 
-296. § E törvénynek a Mód5 törvénnyel megállapított 58/A. §-át az olyan 2015. június 30-át követően kezdődő elszámolással vagy fizetéssel érintett időszakokra kell először alkalmazni, amely tekintetében a fizetés esedékessége 2015. június 30-át követő időpont.
+296. §
+
+297. § E törvénynek a Mód5 törvénnyel megállapított 58. § (1) és (1a) bekezdését az olyan 2015. december 31-ét követően kezdődő elszámolással vagy fizetéssel érintett időszakokra kell először alkalmazni, amelyek tekintetében a fizetés esedékessége, valamint a számla vagy a nyugta kibocsátásának időpontja 2015. december 31-ét követő időpont.
+
+298. § A 3. számú melléklet I. részének az adózással összefüggő egyes törvények módosításáról szóló 2015. évi LXXXI. törvénnyel megállapított 49. pontját azokban az esetekben kell alkalmazni először, amelyekben a 84. § szerint megállapított időpont 2016. január 1-jére vagy azt követő napra esik.
+
+299. § (1) E törvénynek az adózás rendjéről szóló 2003. évi XCII. törvény és egyes adótörvények módosításáról szóló 2015. évi CLXXXVII. törvénnyel megállapított 165. § (1) bekezdés c) pontját és (4) bekezdését, valamint 165/A. §-át és 166. § (1) bekezdését azon ügyletek esetén kell először alkalmazni, amelyek teljesítési időpontja 2016. január 1. napjára esik vagy azt követi.
+
+(2) E törvénynek az adózás rendjéről szóló 2003. évi XCII. törvény és egyes adótörvények módosításáról szóló 2015. évi CLXXXVII. törvénnyel megállapított 153/A. §-át azon ügyletek esetén kell először alkalmazni, amikor a levonási jog 2016. január 1. napján vagy azt követően keletkezik.
+
+300. § A 3. számú melléklet I. részében foglalt táblázatnak az egyes törvényeknek a gazdasági növekedéssel összefüggésben történő módosításáról szóló 2015. évi CCXII. törvénnyel megállapított 50. és 51. sorát azokban az esetekben kell alkalmazni először, amelyekben a 84. § szerint megállapított időpont 2016. január 1-jére vagy azt követő napra esik.
 
 ### 1. számú melléklet a 2007. évi CXXVII. törvényhez
 
@@ -3479,6 +3502,9 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
 | 46. | Háziasított kecskehús, frissen vagy hűtve, rövid elülső negyed | 0204 50 13-ból |
 | 47. | Háziasított kecskehús, fagyasztva, egész vagy fél | 0204 50 51-ből |
 | 48. | Háziasított kecskehús, fagyasztva, rövid elülső negyed | 0204 50 53-ból |
+| 49. | Házi sertéshús frissen, hűtve vagy fagyasztva | 0203-ból (kivéve: 0203 1110, 0203 2110) |
+| 50. | A 86. § (1) bekezdés j) pont ja) vagy jb) alpontja alá tartozó olyan, többlakásos lakóingatlanban kialakítandó vagy kialakított lakás, amelynek összes hasznos alapterülete nem haladja meg a 150 négyzetmétert |  |
+| 51. | A 86. § (1) bekezdés j) pont ja) vagy jb) alpontja alá tartozó olyan egylakásos lakóingatlan, amelynek összes hasznos alapterülete nem haladja meg a 300 négyzetmétert |  |
 
 #### I/A. rész: termékek a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló 14/2007. (III. 14.) EüM rendelet 2012. január 1. napján hatályos 10. számú mellékletében meghatározott gyógyászati segédeszközök közül
 

@@ -161,6 +161,8 @@ tagozat,
 - d) idegen nyelv – a nemzetiségi nevelés-oktatásban részt vevők számára anyanyelv és irodalom,
 - e) kötelezően választandó vizsgatárgy.
 
+(2a) Aki szakiskolában államilag elismert szakképesítést szerzett és a szakközépiskolában érettségi vizsgát kíván tenni, annak a (2) bekezdés e) pontjában foglalt tantárgyból nem kell számot adnia a tudásáról.
+
 (3) A kötelező és a kötelezően választandó mellett további vizsgatárgyakból is tehető érettségi vizsga.
 
 (4) A középiskola elvégzését közvetlenül követő érettségi vizsgaidőszakban az érettségi vizsgák megkezdésének feltétele ötven óra közösségi szolgálat elvégzésének igazolása, kivéve
@@ -745,7 +747,7 @@ rendkívüli szünetet rendel el.
 - f) nem kell alkalmazni az osztály-, csoportlétszámokat meghatározó rendelkezéseket, a maximális létszámra vonatkozó rendelkezések kivételével,
 - g) a tanulói jogviszony és a kollégiumi tagsági viszony megszüntetésével kapcsolatosan a rendvédelemért felelős miniszter által fenntartott nevelési-oktatási intézmény esetén írásbeli megállapodásban, a honvédelemért felelős miniszter által fenntartott nevelési-oktatási intézmény esetén jogszabályban e törvény szabályaitól el lehet térni,
 - h) országos feladatot ellátó intézménynek minősül,
-- i) a 60. § (2) bekezdés b) pontja szerinti életkori határ a katonai szakképesítések esetén huszonnégy év.
+- i)
 
 (5) A honvédelemért felelős miniszter által fenntartott nevelési-oktatási intézménnyel altiszt-jelölti szolgálati viszonyban álló tanulók és a szolgálati viszonyban álló pedagógusok jogviszonyára, az intézményvezető megbízására, valamint a fenntartói irányítási jog gyakorlására a honvédek jogállásáról szóló törvény, valamint felhatalmazása alapján miniszteri rendelet e törvénytől eltérő rendelkezéseket állapíthat meg.
 
@@ -783,7 +785,7 @@ tekintetében.
 
 (6) A jogerős döntés végrehajtható, kivéve, ha bírósági felülvizsgálatát kérték. A másodfokú döntés azonnali végrehajtását rendelheti el a döntéshozó, ha azt a nevelési-oktatási intézménybe járó többi tanuló nyomós érdeke indokolja.
 
-(7) A független vizsgabizottság, az érettségi vizsga és a szakmai vizsga vizsgabizottságának döntése, intézkedése vagy intézkedésének elmulasztása (a továbbiakban együtt: döntés) ellen a szülő, a tanuló a kormányhivatalhoz, a kormányhivatal által működtetett vizsgabizottság esetén a hivatalhoz – a döntést követő öt napon belül – jogszabálysértésre hivatkozással fellebbezést nyújthat be. A fellebbezést a kormányhivatal, a hivatal három munkanapon belül bírálja el. Eljárására az (1) és (3)–(6) bekezdést, valamint a 39. § (4) bekezdését kell alkalmazni, azzal az eltéréssel, hogy a fellebbezés benyújtására meghatározott határidő elmulasztása jogvesztő, igazolásnak helye nincs.
+(7) Az érettségi vizsga vizsgabizottságának döntése, intézkedése vagy intézkedésének elmulasztása (a továbbiakban együtt: döntés) ellen a szülő, a tanuló – a döntést követő öt napon belül – jogszabálysértésre hivatkozással fellebbezést nyújthat be a kormányhivatalhoz. A kormányhivatal által működtetett érettségi vizsga vizsgabizottság, továbbá független vizsgabizottság döntése ellen jogszabálysértésre hivatkozással a fellebbezés – a döntést követő öt napon belül – a hivatalhoz nyújtható be. A fellebbezést a kormányhivatal, a hivatal három munkanapon belül bírálja el. Eljárására az (1) és (3)–(6) bekezdést, valamint a 39. § (4) bekezdését kell alkalmazni, azzal az eltéréssel, hogy a fellebbezés benyújtására meghatározott határidő elmulasztása jogvesztő, igazolásnak helye nincs.
 
 39. § (1) A köznevelés rendszerében intézkedésre jogosult személy vagy szervezet – a diákönkormányzat, a nevelőtestület, az iskolaszék, szülői szervezet, közösség (a továbbiakban: szülői szervezet) javaslatára – tizenöt napon belül, a települési önkormányzat képviselő-testülete legkésőbb a tizenötödik napot követő első ülésen érdemi választ köteles adni.
 
@@ -898,6 +900,8 @@ továbbítható.
 44. § (1) A KIR központi nyilvántartás keretében a nemzetgazdasági szintű tervezéshez szükséges fenntartói, intézményi, foglalkoztatási, gyermek- és tanulói adatokat tartalmazza. A KIR keretében folyó adatkezelés tekintetében az adatkezelő a hivatal.
 
 (2) A köznevelési feladatokat ellátó intézmény, a jegyző, a közneveléssel összefüggő igazgatási, ellenőrzési tevékenységet végző közigazgatási szerv és az e törvényben meghatározott feladatok végrehajtásában közreműködő intézményfenntartók, az intézmények és az intézményi tanácsok adatokat szolgáltatnak a KIR-be.
+
+(2a) A KIR központi nyilvántartás adataihoz a hivatal a kormányhivatal, valamint a járási hivatal részére – feladatellátásához szükséges adatok tekintetében – közvetlen hozzáférést biztosít.
 
 (3) A KIR adatkezelője oktatási azonosító számot ad ki annak,
 
@@ -1109,7 +1113,35 @@ dönt.
 
 (12) A (9) és (11) bekezdésben foglaltak – a szakképzésben részt vevő tanulókat megillető juttatások tekintetében – nem alkalmazhatók arra a tanulóra, aki a szakképzésben tanulószerződés alapján vesz részt.
 
-(13) Az iskola a tanuló kérelmére diákigazolvány kiadását kezdeményezi a KIR adatkezelőjénél. A diákigazolvány elkészítéséről a KIR adatkezelője gondoskodik. A diákigazolvány közokirat. A diákigazolvány elkészítésére irányuló eljárásban – ha jogszabály másként nem rendelkezik – a köznevelési intézmény a központi adatszolgáltatásra alkalmas rendszeren keresztül, elektronikus úton terjeszti elő a diákigazolvány elkészítésére irányuló kérelmet, és tesz jogszabályban meghatározott más eljárási cselekményeket. A köznevelési intézmény az eljárás során – ha jogszabály másként nem rendelkezik – a központi adatszolgáltatásra alkalmas rendszeren keresztül, elektronikus úton tart kapcsolatot a KIR adatkezelőjével. A KIR adatkezelője a köznevelési intézmény útján közli a tanulóval a diákigazolvány kiállítására irányuló eljárás során hozott döntéseket. A KIR adatkezelője a diákigazolvány igényléséhez és előállításához szükséges személyes adatokat, a köznevelési intézmény adatait, a diákigazolvány egyedi azonosítóját, a kiadott érvényesítő matrica sorszámát, valamint a jogosultság ellenőrzéséhez és nyilvántartásához szükséges további, személyes adatnak nem minősülő adatot tartalmazó nyilvántartást vezet. A KIR adatkezelője, valamint a diákigazolvány elkészítésében közreműködők a diákigazolvány elkészítése körében tudomásukra jutott személyes adatot a diákigazolvány érvényességének megszűnését követő öt évig kezelhetik.
+(13) Az iskola a tanuló kérelmére diákigazolvány kiadását kezdeményezi a KIR adatkezelőjénél. A diákigazolvány elkészítéséről a KIR adatkezelője mint a diákigazolvány az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. LXXXIII. évi törvény (a továbbiakban: Nektv.) szerinti kártyakibocsátója gondoskodik. A diákigazolvány a Nektv. 2. § 3. pontja szerinti kártya, amely közokirat. A diákigazolvány birtokosa az elektronikus kártyakibocsátó rendszerhez (a továbbiakban: NEK) kártyafelhasználóként csatlakozik. A NEK működtetője és a diákigazolvány megszemélyesítője a diákigazolvány kiállítása céljából kezeli a Nektv. 16. § (2) bekezdés a)–b) pontja szerinti adatokat, valamint a kártya kézbesítéséhez szükséges adatokat.
+
+(14) A diákigazolvány kiadására irányuló kérelem a Nektv. 16. §-ában előírt adatokon túl tartalmazza
+
+- a) azon legfeljebb két köznevelési intézmény rövidített nevét, amellyel a tanuló jogviszonyban áll, valamint a település nevét, ahol az intézmény székhelye vagy telephelye található,
+- b) a tanuló lakcímtípusát, amelyhez tartozó lakcím települése a diákigazolványon megjelenítésre kerül,
+- c) a tanuló oktatási azonosító számát,
+- d) a tanuló oktatásának munkarendjét, továbbá
+- e) az igazolvány kézbesítéséhez szükséges, a tanuló által megadott kézbesítési lakcímtípust vagy a kézbesítési címet.
+
+(15) A diákigazolványt a kártyakibocsátó a megszemélyesítő útján küldi meg a jogosult részére.
+
+(16) A diákigazolvány a Nektv. 5. § (1) bekezdése és (2) bekezdés a) pont aa) alpontja szerinti adatokon túl az alábbi adatokat tartalmazza:
+
+- a) a tanuló oktatási azonosító számát,
+- b) azon legfeljebb két köznevelési intézmény nevét, székhelye vagy telephelye címének települését, amellyel a tanuló jogviszonyban áll,
+- c) a diákigazolvány kiállításának, lejáratának időpontját,
+- d) az érvényességre vonatkozó adatot és
+- e) a diákigazolvány típusának megjelölését.
+
+(17) A kizárólag külföldi lakcímmel rendelkező tanulók esetében a diákigazolvány a „külföldi cím” feliratot tartalmazza.
+
+(18) A nem magyar oktatási intézménnyel tanulói jogviszonyban álló tanuló diákigazolványa a „külföldi intézmény” megjelölést tartalmazza.
+
+(19) A diákigazolványhoz a Nektv. 2. § 9. pontja szerinti másodlagos kártya rendelhető.
+
+(20) A diákigazolvány elkészítésére irányuló eljárásban – ha jogszabály másként nem rendelkezik – a köznevelési intézmény a központi adatszolgáltatásra alkalmas rendszeren keresztül, elektronikus úton terjeszti elő a diákigazolvány elkészítésére irányuló kérelmet, és tesz jogszabályban meghatározott más eljárási cselekményeket. A köznevelési intézmény az eljárás során – ha jogszabály másként nem rendelkezik – a központi adatszolgáltatásra alkalmas rendszeren keresztül, elektronikus úton tart kapcsolatot a KIR adatkezelőjével. A KIR adatkezelője a köznevelési intézmény útján közli a tanulóval a diákigazolvány kiállítására irányuló eljárás során hozott döntéseket. A KIR adatkezelője a diákigazolvány igényléséhez és előállításához szükséges személyes adatokat, a köznevelési intézmény adatait, a diákigazolvány egyedi azonosítóját, a kiadott érvényesítő matrica sorszámát, valamint a jogosultság ellenőrzéséhez és nyilvántartásához szükséges további, személyes adatnak nem minősülő adatot tartalmazó nyilvántartást vezet. A KIR adatkezelője, valamint a diákigazolvány elkészítésében közreműködők a diákigazolvány elkészítése körében tudomásukra jutott személyes adatot a diákigazolvány érvényességének megszűnését követő öt évig kezelhetik.
+
+(21) Az iskola a tanuló kérelmét a kérelem benyújtásától számított nyolc napon belül továbbítja a KIR adatkezelője részére. A diákigazolvány előállításának határideje az igénylésnek a KIR adatkezelőjéhez történő beérkezéstől számított negyvenöt nap.
 
 #### 28. Sajátos nevelési igényű és beilleszkedési, tanulási, magatartási nehézséggel küzdő gyermekek, tanulók nevelése, oktatása
 
@@ -1507,9 +1539,31 @@ fegyelmi büntetés szabható ki.
 
 (2) Az (1) bekezdés j) pontjában meghatározott jog megilleti azt is, akit pedagógus-munkakörből helyeztek nyugállományba.
 
-(3) A munkáltató a pedagógus-munkakörben, a pedagógiai előadó és pedagógiai szakértői munkakörben, továbbá a szabadidő-szervező munkakörökben foglalkoztatottak részére – kérelemre – pedagógusigazolvány kiadását kezdeményezi, a központi adatszolgáltatásra alkalmas rendszeren keresztül, a KIR adatkezelőjénél. Annak részére, akit az első mondatban meghatározott munkakörből helyeztek nyugállományba, az utolsó munkáltató kezdeményezi a pedagógusigazolvány kiadását. A pedagógusigazolvány elkészítéséről a KIR adatkezelője gondoskodik.
+(3) A munkáltató a pedagógus-munkakörben, a pedagógiai előadó és pedagógiai szakértői munkakörben, továbbá a szabadidő-szervező munkakörökben foglalkoztatottak részére – kérelemre – pedagógusigazolvány kiadását kezdeményezi a központi adatszolgáltatásra alkalmas rendszeren keresztül a KIR adatkezelőjénél. Az e munkakörökből nyugállományba vagy korhatár előtti ellátásba helyezett személyek részére az utolsó munkáltató kezdeményezi a pedagógusigazolvány kiadását. A pedagógusigazolvány elkészítéséről a KIR adatkezelője mint a pedagógusigazolvány Nektv. szerinti kártyakibocsátója gondoskodik. A pedagógusigazolvány a Nektv. 2. § 3. pontja szerinti kártya, amely közokirat. A pedagógusigazolvány birtokosa a NEK-hez kártyafelhasználóként csatlakozik. A NEK működtetője és a diákigazolvány megszemélyesítője a diákigazolvány kiállítása céljából kezeli a Nektv. 16. § (2) bekezdés a)–b) pontja szerinti, valamint a kártya kézbesítéséhez szükséges adatokat.
+
+(3a) A pedagógusigazolvány kiadására irányuló kérelem a Nektv. 16. §-ában előírt adatokon túl tartalmazza
+
+- a) azon legfeljebb két köznevelési intézmény rövidített nevét, székhelye vagy telephelye címének települését, amellyel a pedagógus jogviszonyban áll,
+- b) a pedagógus lakcímtípusát, amelyhez tartozó lakcím települése a pedagógusigazolványon megjelenítésre kerül,
+- c) a pedagógus oktatási azonosító számát,
+- d) a kibocsátóhoz történő közvetlen befizetés választása esetén a pedagógus email címét, és
+- e) az igazolvány kézbesítéséhez szükséges, a pedagógus által megadott kézbesítési lakcímtípust vagy a kézbesítési címet.
+
+(3b) A pedagógusigazolványt a KIR adatkezelője a megszemélyesítő útján küldi meg a jogosult részére.
+
+(3c) A pedagógusigazolvány a Nektv. 5. § (1) bekezdése és (2) bekezdés a) pont aa) alpontja szerinti adatokon túl az alábbi adatokat tartalmazza:
+
+- a) a pedagógus oktatási azonosító számát,
+- b) azon legfeljebb két köznevelési intézmény nevét, székhelye vagy telephelye címének települését, amellyel a pedagógus jogviszonyban áll,
+- c) a pedagógusigazolvány kiállításának, lejáratának időpontját.
+
+(3d) A kizárólag külföldi lakcímmel rendelkező pedagógusok esetében a pedagógusigazolvány a „külföldi cím” feliratot tartalmazza. A nem magyar oktatási intézménnyel jogviszonyban álló pedagógus pedagógusigazolványa a „külföldi intézmény” megjelölést tartalmazza.
+
+(3e) A pedagógusigazolványhoz a Nektv. szerinti másodlagos kártya rendelhető.
 
 (4) A pedagógusigazolvány elkészítésére irányuló eljárásban a munkáltató – ha jogszabály másként nem rendelkezik – a központi adatszolgáltatásra alkalmas rendszerrel, elektronikus úton terjeszti elő a pedagógusigazolvány elkészítésére irányuló kérelmet, és tesz jogszabályban meghatározott más eljárási cselekményeket. A munkáltató az eljárás során – ha jogszabály másként nem rendelkezik – a központi adatszolgáltatásra alkalmas rendszerrel elektronikus úton tart kapcsolatot a KIR adatkezelőjével. A pedagógusigazolvány igénylésének további szabályait jogszabály határozza meg. A KIR adatkezelője a pedagógusigazolvány igényléséhez és előállításához szükséges személyes adatokat, a pedagógusigazolvány egyedi azonosítóját, a kiadott érvényesítő matrica sorszámát, valamint a jogosultság ellenőrzéséhez és nyilvántartásához szükséges további, személyes adatnak nem minősülő adatot tartalmazó nyilvántartást vezet. A KIR adatkezelője és a pedagógusigazolvány elkészítésében közreműködők a pedagógusigazolvány elkészítése körében tudomásukra jutott személyes adatot a pedagógusigazolvány érvényességének megszűnését követő öt évig kezelhetik.
+
+(5) A munkáltató a pedagógus kérelmét a kérelem benyújtásától számított nyolc napon belül továbbítja a KIR adatkezelője részére. A pedagógusigazolvány előállításának határideje az igénylésnek a KIR adatkezelőjéhez történő beérkezéstől számított negyvenöt nap.
 
 #### 35/A. A Nemzeti Pedagógus Kar
 
@@ -1784,9 +1838,20 @@ vonatkozó szabályok szerint kell figyelembe venni.
 
 - a) a pedagógiai-szakmai szolgáltatatást nyújtó intézményben pedagógiai szakértő, pedagógiai előadó munkakörben,
 - b) a nevelési-oktatási intézményben nevelő- és oktatómunkát közvetlenül segítő munkakörben pedagógus szakképzettséggel rendelkező,
-- c) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény hatálya alá tartozó intézményben pedagógus-munkakörben
+- c) – a (9a) bekezdésben foglalt eltéréssel – a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény hatálya alá tartozó intézményben pedagógus-munkakörben
 
 foglalkoztatott tekintetében is.
+
+(9a) A gyermekek védelméről és a gyámügyi igazgatásról szóló törvény hatálya alá tartozó intézményben pedagógus-munkakörben foglalkoztatott tekintetében
+
+- a) a 64. § (2) bekezdésében foglaltaktól eltérően a közalkalmazottak jogállásáról szóló törvény előmeneteli és illetményrendszerre vonatkozó szabályai közül – a jubileumi jutalomra vonatkozó 78. §-án túlmenően – alkalmazni kell a 66. § (2) bekezdését, a 67. §-át, a 69. §-át, a 70. §-át, a 72. §-át, a 74. §-át, a 75. §-át, a 77. § (1) és (2) bekezdését, a 78/A. §-át, a 79. §-át, valamint a 79/A. §-át is;
+- b) a 64. § (2a) bekezdésben foglaltakon túlmenően a fizetési fokozat alapján járó pótszabadság nem illeti meg a közalkalmazottak jogállásáról szóló törvény 57. § (3a) bekezdése szerinti pótszabadságra jogosult pedagógus-munkakörben foglalkoztatottat;
+- c) a 65. § (3) bekezdésében hivatkozott, a 8. melléklet szerinti illetménypótlék nem állapítható meg;
+- d) a 65. § (5) bekezdése szerinti intézményvezetői keresetkiegészítés nem állapítható meg;
+- e) a távolléti díj tekintetében a 65. § (8a) bekezdésében foglaltaktól eltérően a közalkalmazottak jogállásáról szóló törvény 80. § (2)–(4) bekezdését kell alkalmazni; továbbá
+- f) a 65. § (10) és (11) bekezdését nem kell alkalmazni.
+
+(9b) Pedagógus-munkakörben foglalkoztatottnak minősülnek az egységes óvoda-bölcsődében felsőfokú végzettséggel kisgyermeknevelő munkakörben foglalkoztatottak is, és rájuk a 65. § (9) bekezdés c) pontjában és (9a) bekezdésében foglaltakat, továbbá a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben a bölcsődében pedagógus-munkakörben foglalkoztatott személyekre meghatározott rendelkezéseket kell alkalmazni.
 
 (10) Az egyházi köznevelési intézmény és a magán köznevelési intézmény munkaviszony keretében foglalkoztatott pedagógusainak rendkívüli munkavégzése díjazására, pótszabadságára a közalkalmazottakra vonatkozó rendelkezéseket kell alkalmazni. A pedagógiai asszisztens, szabadidő-szervező, gyermek- és ifjúságvédelmi felügyelő, gyógypedagógiai asszisztens, pszichopedagógus, gyógytornász pótszabadságának meghatározására a pedagógus-munkakörben foglalkoztatott közalkalmazottakra vonatkozó rendelkezéseket kell alkalmazni.
 
@@ -2190,16 +2255,7 @@ figyelembe veszi.
 
 (9) A hivatal – az (1) bekezdés b) pontja szerinti esetben az engedély visszavonásával egyidejűleg – eltiltja a köznevelési szakértői tevékenység folytatásától vagy a vizsgaelnöki feladatok ellátásától és törli az Országos szakértői névjegyzékből, az Országos érettségi vizsgaelnöki névjegyzékből azt, aki a tevékenységére vonatkozó, e törvényben vagy a felhatalmazására kiadott jogszabályban meghatározott szabályokat súlyosan megszegi.
 
-(10) A köznevelési szakértői tevékenység (1) bekezdés b) pontja szerinti engedélyezése iránti kérelem benyújtásával egyidejűleg a kérelmező hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, és nem áll a köznevelési szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a hivatal részére – annak a köznevelési szakértői tevékenység engedélyezése iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a hivatal a (11) bekezdésben meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől.
-
-(11) A hivatal az (1) bekezdés szerinti köznevelési szakértői tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a köznevelési szakértő büntetlen előéletű-e, és nem áll-e a köznevelési szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából a hivatal adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a köznevelési szakértő büntetlen előéletű-e, valamint a köznevelési szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
-
-(12) A (10) és (11) bekezdés alapján megismert személyes adatokat a hivatal
-
-- a) az (1) bekezdés b) pontja szerinti köznevelési szakértői tevékenység engedélyezése iránti eljárás jogerős befejezéséig, vagy
-- b) a (11) bekezdés szerinti hatósági ellenőrzés időtartamára vagy a névjegyzékből való törlésre irányuló eljárásban az eljárás jogerős befejezéséig
-
-kezeli.
+(10)–(12)
 
 #### 48. A fenntartó kötelezettségei és jogai
 
@@ -2433,7 +2489,7 @@ ellenőrzés.
 - h) az iskolai felvételi eljárás rendjét, az iskolai vizsgáztatás rendjét, a pedagógiai szakszolgálat megszervezését, a pedagógiai szakszolgálat igénybevételének rendjét, a pedagógiai szakszolgálatot ellátó intézmény működését; a nevelési-oktatási intézmények részvételét és feladatait a pedagógiai szakszolgálatok ellátásában, az érintett gyermekek, tanulók nevelésében és oktatásában, a szakvélemény elkészítését, az ellenőrzés rendjét, a pedagógiai szakszolgálattal kapcsolatos kormányhivatali eljárás indításával összefüggő kérdéseket, az eljárás indítására jogosultak körét, azokat a feltételeket, amikor a pedagógiai szakszolgálat igénybevételéért ellenszolgáltatás kérhető, a pedagógiai szakszolgálatot ellátó intézmények és a pedagógiai-szakmai szolgáltatásokat ellátó intézményekben történő foglalkoztatáshoz és a vezetői megbízáshoz szükséges képesítési követelményeket, a kormányhivatalnak a nem az állami intézményfenntartó központ által fenntartott intézmények működési engedélyezési eljárásával összefüggő, valamint a törvényességi ellenőrzésükkel kapcsolatos szakmai szabályokat, az egyes szolgáltatásokkal összefüggő igazgatási szolgáltatási díj megállapításának rendjét, mértékét, a megállapított összeg befizetésének szabályait, a befolyt összeg felhasználásának kérdéseit, továbbá a vizsgáztatással, a szakértői és más szolgáltató tevékenységgel kapcsolatos díjazás megállapításának kérdéseit,
 - i) az érettségi vizsga kivételével a vizsgák rendjét, továbbá az érettségi vizsga vizsgakövetelményeinek kiadását,
 - j) a tankönyvvé nyilvánítás feltételeit és rendjét, valamint eljárását, a tankönyvjegyzék elkészítését és kiadását, a tankönyvjegyzékre való felkerülés feltételeit és eljárását, a tankönyvjegyzékre kerüléssel kapcsolatos árkorlátot, a tankönyvjegyzékből való törlés rendjét és eljárását, a tankönyvtámogatás rendjét, a nem üzletszerű tankönyvforgalmazást, a kötelező eszköz- és felszerelési jegyzék kiadását, a kerettantervek, nevelési-oktatási program jóváhagyásának rendjét, a digitális tananyaggá nyilvánítás feltételeit és rendjét, valamint eljárását, a digitális tananyagok jegyzéke elkészítésének és kiadásának szabályait, a digitális tananyagok jegyzékére való felkerülés feltételeit és eljárását, a digitális tananyagok jegyzékére kerüléssel kapcsolatos árkorlátot, a digitális tananyagok jegyzékéről való törlés rendjét és eljárását, valamint az e pontban felsorolt eljárásokkal összefüggő igazgatási szolgáltatási díj megállapításának rendjét, mértékét, a megállapított összeg befizetésének szabályait, a befolyt összeg felhasználásának kérdéseit,
-- k) az oktatási jogok biztosa hivatalának feladatait és működésének szabályait,
+- k) az oktatási jogok biztosa hivatalának feladatait, szervezetének és működésének szabályait, a hivatal vezetőjének juttatásait, tevékenységének irányítását,
 - l) a 82. § szerinti köznevelési szakértői és érettségi vizsgaelnöki tevékenység folytatásának részletes feltételeit, a köznevelési szakértői tevékenység 82. § (1) bekezdés a) pontja szerinti bejelentésének, illetve a 82. § (1) bekezdés b) pontja szerinti engedély kiadásának, valamint az Országos szakértői névjegyzékbe, az Országos érettségi vizsgaelnöki névjegyzékbe történő felvétel részletes eljárási szabályait és a köznevelési szakértői, az érettségi vizsgaelnöki tevékenység folytatásának szakmai feltételeit, a köznevelési szakértők és a vizsgaelnökök továbbképzését és a továbbképzési kötelezettség elmulasztásának következményeit, valamint az Országos szakértői névjegyzék és az Országos érettségi vizsgaelnöki névjegyzék személyes adatot nem tartalmazó adattartalmát és a névjegyzékek vezetésére vonatkozó részletes eljárási szabályokat, az e pontban felsorolt eljárásokkal összefüggő igazgatási szolgáltatási díj megállapításának rendjét, mértékét, a megállapított összeg befizetésének szabályait, a befolyt összeg felhasználásának kérdéseit,
 - m) a közneveléssel összefüggő feladatok ellátását szolgáló képzéseket,
 - n) az országos szaktanácsadói tevékenység keretében megszervezett, továbbá nem tantárgyhoz, nem szakterülethez kötődő szaktanácsadói feladatokat, azok megszervezését, valamint az országos szaktanácsadói tevékenységhez kapcsolódó további szakmai követelményeket, a nem tantárgyhoz, nem szakterülethez kötődő országos pedagógiai-szakmai szolgáltatások körét, területeit, megszervezését, az állami köznevelési közfeladat-ellátás keretében biztosított pedagógiai-szakmai szolgáltatásban való részvétel feltételeit, a nevelési-oktatási intézmény által nyújtható pedagógiai-szakmai szolgáltatások körét, a pedagógiai-szakmai szolgáltatást nyújtó és köznevelési intézménynek nem minősülő szervezetek pedagógiai-szakmai szolgáltatásokban történő közreműködéséhez szükséges engedély kiadásának feltételeit és eljárásrendjét, valamint a térítésmentesen biztosított pedagógiai-szakmai szolgáltatások ellátási szintjét,
@@ -2474,7 +2530,7 @@ egyetértésben gyakorolja.
 - j) a köznevelési közfeladatot ellátó intézményt fenntartó nemzetiségi önkormányzatot, egyházi jogi személyt, vallási tevékenységet végző szervezetet és a 2. § (3) bekezdés b) pont bd) alpontja szerinti fenntartót a központi költségvetésről szóló törvény alapján megillető támogatás megállapításának, folyósításának, elszámolásának rendjét, az igényléssel, elszámolással, felhasználással összefüggő adatszolgáltatás és ellenőrzés rendjét,
 - k) kijelölje a hivatalt és a 79. § (1) bekezdése szerint átruházható feladatokat,
 - l) a kormányhivatalok hatósági ellenőrzésének tárgyköreit, a köznevelés-fejlesztési terv részletes tartalmát és elkészítésének eljárásrendjét,
-- m) az érettségiben részt vevő pedagógusok díjazásával kapcsolatos kérdéseket, az érettségi vizsgán való részvétellel összefüggő – a hivatal által megállapítható – vizsgadíj megállapításának elveit, a diákigazolvány, a pedagógusigazolvány kiállításával összefüggő igazgatási szolgáltatási díj megállapításának, befizetésének és felhasználásának kérdéseit, a köznevelés információs rendszerével összefüggő igazgatási szolgáltatási díj megállapításának és befizetésének rendjét, a befolyt összeg felhasználásának rendjét, a pedagógusigazolvány igénylésével kapcsolatos igazgatási szolgáltatási díj megállapításának és beszedésének, befizetésének rendjét, valamint a befolyt összeg felhasználásának rendjét, a pedagógus-továbbképzéssel kapcsolatos akkreditációs eljárással összefüggő igazgatási szolgáltatási díj, egyes szolgáltató tevékenységgel összefüggő díjazás megállapításának rendjét, a befolyt összeg felhasználását, illetőleg a befizetés rendjét, a pedagógus-ösztöndíj alapítását,
+- m) az érettségiben részt vevő pedagógusok díjazásával kapcsolatos kérdéseket, az érettségi vizsgán való részvétellel összefüggő – a hivatal által megállapítható – vizsgadíj megállapításának elveit, a pedagógusigazolvány igénylésével kapcsolatos igazgatási szolgáltatási díj megállapításának és beszedésének, befizetésének rendjét, valamint a befolyt összeg felhasználásának rendjét, a köznevelés információs rendszerével összefüggő igazgatási szolgáltatási díj megállapításának és befizetésének rendjét, a befolyt összeg felhasználásának rendjét, a pedagógusigazolvány igénylésével kapcsolatos igazgatási szolgáltatási díj megállapításának és beszedésének, befizetésének rendjét, valamint a befolyt összeg felhasználásának rendjét, a pedagógus-továbbképzéssel kapcsolatos akkreditációs eljárással összefüggő igazgatási szolgáltatási díj, egyes szolgáltató tevékenységgel összefüggő díjazás megállapításának rendjét, a befolyt összeg felhasználását, illetőleg a befizetés rendjét, a pedagógus-ösztöndíj alapítását,
 - n) az állami köznevelési közfeladat ellátásában fenntartóként részt vevő szerv kijelölését, a települési önkormányzati fenntartású köznevelési intézmények fenntartói joga állam általi átvételének, az állami fenntartással összefüggő adatváltozások KIR-ben történő átvezetésének részletes szabályait,
 - o) a 74. § (4) bekezdés szerinti mentesülés iránti kérelem és a 74. § (5) bekezdés szerinti vállalásra vonatkozó kérelem benyújtásának és elbírálásának szabályait,
 - p) a térítésmentes, a térítési díj, valamint tandíj ellenében igénybe vehető szolgáltatások körét,
@@ -2523,7 +2579,9 @@ rendeletben állapítsa meg.
 
 (2) Az (1) bekezdés szerinti intézményekben folyó nevelő-oktató munka során – a nevelő-oktató munka pedagógiai szakaszait, követelményrendszerét, az állami vizsgák rendszerét meghatározó rendelkezések kivételével – e törvény rendelkezéseitől el lehet térni.
 
-(3) A működés megkezdéséhez szükséges engedély kiadására vonatkozó eljárásban a kerettanterv jóváhagyásával összefüggő eljárásokban, a pedagógus-továbbképzési programokkal összefüggő eljárásokban, a költségvetési támogatásokkal kapcsolatos első- és másodfokú eljárásokban, valamint a törvényességi és hatósági ellenőrzések során az ügyintézési határidő két hónap, a tankönyvvé nyilvánítási eljárásoknál négy hónap. A nevelési-oktatási programok akkreditálásával összefüggő eljárások esetében az ügyintézési határidő hat hónap.
+(3) A működés megkezdéséhez szükséges engedély kiadására vonatkozó eljárásban a kerettanterv jóváhagyásával összefüggő eljárásokban, a pedagógus-továbbképzési programokkal összefüggő eljárásokban, a költségvetési támogatásokkal kapcsolatos első- és másodfokú eljárásokban, valamint a törvényességi és hatósági ellenőrzések során az ügyintézési határidő negyvenöt nap, a tankönyvvé nyilvánítási eljárásoknál három hónap. A nevelési-oktatási programok akkreditálásával összefüggő eljárások esetében az ügyintézési határidő négy hónap.
+
+(3a) Az eljáró hatóság az e törvény szerinti hatósági eljárásokat a büntetőeljárás jogerős befejezéséig felfüggeszti, ha az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ, amellyel kapcsolatban büntetőeljárás indult.
 
 (4) Köznevelési intézmény tekintetében felügyeleti és irányító szerven a fenntartót, felügyeleten és irányításon a fenntartói jogok és kötelességek gyakorlását, szakmai és gazdasági felügyeleten a szakmai és gazdasági ellenőrzést, nevelési-oktatási intézménynél az illetékességi és működési körön a működési (felvételi) körzetet kell érteni.
 
@@ -2593,6 +2651,21 @@ alapozza meg, azon a gyermek, a tanuló következő felülvizsgálatáig, de leg
 (20b) E törvény 64. § (5) bekezdésének és 97. § (20) bekezdésének alkalmazásakor a közalkalmazottak jogállásáról szóló törvény közoktatási, valamint köznevelési intézményekben történő végrehajtásáról rendelkező kormányrendelet várakozási idő csökkentésre vonatkozó rendelkezéseit is figyelembe kell venni. Ha a 2013. szeptember 1-jei hatályú besoroláskor a munkáltató a várakozási idő csökkentésre vonatkozó rendelkezésre tekintet nélkül állapította meg a fizetési kategóriát, a besorolást 2014. január 31-ig ennek figyelembevételével módosítani kell, az ebből eredő illetménykülönbözetet a 2014. januári illetménnyel egyidejűleg kell a pedagógus számára kifizetni.
 
 (21) Nem vonatkozik a minősítési kötelezettség arra a pedagógus-munkakörben, valamint pedagógiai szakértő, pedagógiai előadó munkakörben foglalkoztatottra, aki a 2013. szeptember 1-jétől számított tizedik tanév végéig eléri a rá vonatkozó öregségi nyugdíjkorhatárt.
+
+(21a) A 2016. január 1-jével a pedagógusok előmeneteli rendszerének hatálya alá kerülő
+
+- a) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti bölcsődében pedagógus-munkakörben foglalkoztatott,
+- b) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti gyermekvédelmi szakellátást nyújtó intézményben örökbefogadási tanácsadó munkakörben foglalkoztatott, továbbá
+- c) az e törvény szerinti egységes óvoda-bölcsődében felsőfokú végzettséggel kisgyermeknevelő munkakörben foglalkoztatott
+
+közalkalmazott illetménye, munkavállaló munkabére az átsorolás eredményeként nem lehet kevesebb, mint a 2015. december hónapra járó – illetménykiegészítéssel, illetménynövekedéssel és rendszeres illetménypótlékokkal összeszámolt – kinevezésben rögzített illetménye, illetve munkaszerződésben rögzített munkabére.
+
+(21b) A 65. § (9a) bekezdésében foglaltakat a 2016. január 1-jét megelőzően keletkezett foglalkoztatási jogviszonyok esetében is alkalmazni kell azzal, hogy a 2016. január 1-jén
+
+- a) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti gyermekvédelmi szakellátást nyújtó intézményekben – az örökbefogadási tanácsadók kivételével – pedagógus-munkakörben foglalkoztatott, továbbá
+- b) javítóintézeti nevelést nyújtó intézményekben pedagógus-munkakörben foglalkoztatott
+
+közalkalmazott illetménye, munkavállaló munkabére a 65. § (9a) bekezdésének alkalmazása következtében nem lehet kevesebb, mint a 2015. december hónapra járó – illetménykiegészítéssel, illetménynövekedéssel és rendszeres illetménypótlékokkal összeszámolt – kinevezésben rögzített illetménye, illetve munkaszerződésben rögzített munkabére.
 
 (22) A 46. § (5) bekezdés szerinti térítésmentes tankönyvellátást első alkalommal a 2013/2014. tanévben az első évfolyamra beiratkozott tanulók számára, ezt követően felmenő rendszerben kell biztosítani.
 
@@ -2750,6 +2823,8 @@ kell 2016. szeptember 1-jétől kifutó jelleggel megszervezni.
 (5) Középfokú végzettséget tanúsít a 2016. szeptember 1-jét megelőzően megkezdett szakiskolai tanulmányok keretében szerzett államilag elismert szakképesítést igazoló bizonyítvány.
 
 (6) Ha a szakközépiskolai vagy szakiskolai nevelési-oktatási alapfeladatot ellátó köznevelési intézmény, többcélú intézmény fenntartói jogának az állami intézményfenntartó központtól a szakképzésért és felnőttképzésért felelős miniszter számára 2015. július 1-jével történő átadása miatt az állami intézményfenntartó központ fenntartásában maradó köznevelési intézményt, többcélú intézményt át kell szervezni, és az átszervezés miatt vagy azért, mert az intézményvezetői megbízás lejár, új intézményvezető megbízása válik szükségessé, az oktatásért felelős miniszter pályázat nélkül adhat legfeljebb egy évre szóló intézményvezetői megbízást az e törvényben az intézményvezetői megbízásra előírt feltételeknek megfelelő személynek az állami intézményfenntartó központ fenntartásában maradó, átszervezett köznevelési intézmény, többcélú intézmény vezetésére.
+
+99/E. § 2017. szeptember 1-jétől egységes óvoda-bölcsőde nem működhet. Az egységes óvoda-bölcsődében ellátott gyermekek 2017. szeptember 1-jétől – az életkoruknak megfelelően – óvodában, vagy a gyermekjóléti alapellátás keretében megszervezett gyermekek napközbeni ellátását biztosító intézményben vagy ilyen feladatot ellátó többcélú intézményben láthatók el.
 
 #### 55. Az Európai Unió jogának való megfelelés
 

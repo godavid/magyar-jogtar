@@ -47,7 +47,7 @@ A piacgazdaság működéséhez nélkülözhetetlen, hogy a piac szereplői szá
   - i) a Munkavállalói Résztulajdonosi Program keretében létrejött szervezet,
   - j) a víziközmű társulat,
   - k) a befektetési alap, az egyéb alapok,
-  - l) a tőzsde, az elszámolóházi tevékenységet végző szervezet,
+  - l) a tőzsde, a központi értéktári, a központi szerződő fél tevékenységet végző szervezet,
   - m) a magánnyugdíjpénztár,
   - n) az önkéntes nyugdíjpénztár,
   - o) az önkéntes kölcsönös egészség- és önsegélyező pénztár,
@@ -126,7 +126,7 @@ A piacgazdaság működéséhez nélkülözhetetlen, hogy a piac szereplői szá
 
 (8) E törvény alkalmazásában
 
-- 1. tőzsde, tőzsdei határidős, opciós és azonnali ügylet, elszámolóház, elszámolóházi tevékenységet végző szervezet, központi értékpapírszámla, értékpapírszámla, ügyfélszámla, dematerializált értékpapír, másodlagos értékpapír, értékpapír kölcsönzés: a tőkepiacról szóló törvényben meghatározott fogalom;
+- 1. tőzsde, tőzsdei határidős, opciós és azonnali ügylet, elszámolóház, központi értéktár, központi szerződő fél, központi értéktári tevékenység, központi szerződő fél tevékenység, központi értékpapírszámla, értékpapírszámla, ügyfélszámla, dematerializált értékpapír, másodlagos értékpapír, értékpapír kölcsönzés: a tőkepiacról szóló törvényben meghatározott fogalom;
 - 2. repó-, fordított repóügylet: minden olyan megállapodás, amely értékpapír tulajdonjogának átruházásáról rendelkezik a szerződéskötéssel egyidejűleg meghatározott vagy meghatározandó jövőbeli időpontban történő visszavásárlási kötelezettség mellett, meghatározott visszavásárlási áron, függetlenül attól, hogy az ügylet futamideje alatt a vevő az ügylet tárgyát képező értékpapírt megszerzi és azzal szabadon rendelkezhet (szállításos repóügylet) vagy nem szerzi meg az értékpapírt, azzal szabadon nem rendelkezhet, hanem óvadékként kerül elhelyezésre a vevő javára a futamidő alatt (óvadéki repóügylet). Az óvadéki repóügylet a valódi penziós ügyletek szabályai szerint, a szállításos repóügylet a nem valódi penziós ügyletek szabályai szerint kerül elszámolásra, melynek során értelemszerűen alkalmazhatók a törvény felhatalmazása alapján kiadott, a hitelintézetek és a pénzügyi vállalkozások éves beszámolókészítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet ezen ügyletekre vonatkozó előírásai;
 - 3. pénzügyi instrumentum: olyan szerződéses megállapodás, amelynek eredményeként az egyik félnél pénzügyi eszköz, a másik félnél pénzügyi kötelezettség vagy saját tőke (tőkeinstrumentum) keletkezik. Így különösen: a szerződéses megállapodáson alapuló követelés és kötelezettség, a pénzeszköz, az értékpapír (hitelviszonyt megtestesítő értékpapír és tulajdoni részesedést jelentő befektetés), a származékos ügylet;
 - 4. elszámoló ár: a tőzsde által a határidős ügyletek tárgyát képező tőzsdetermékre kereskedési naponként megállapított és kihirdetett árfolyam (piaci érték), amely a befektetési szolgáltató napi árfolyamalakulásból adódó pénzügyi kötelezettségei és követelései kiszámításának alapjául szolgál;
@@ -185,9 +185,11 @@ A piacgazdaság működéséhez nélkülözhetetlen, hogy a piac szereplői szá
   - c) a fedezeti ügylet és a fedezett ügylet (tétel) fő feltételei azonosak (így különösen az ügylet jellegétől függően: az ügylet tárgya, annak mennyisége és névértéke, a lejárati idő, a kamatfeltételek, az átárazási, a kamatfizetési, a tőketörlesztési időpontok, a kamatok mérésének alapja, a devizanem, a szerződéskötés időpontja és helye stb.),
   - d) a fedezeti ügylet lejárati ideje ugyanolyan vagy legfeljebb olyan hosszú, mint a fedezett ügylet (tétel) lejárati ideje. A fedezeti hatékonyság mérésének (vizsgálatának) módszerét és időpontjait a kockázatkezelési és fedezeti politikával összhangban a számviteli politika részeként rögzíteni kell.
 
-(10) E törvény alkalmazásában
+(10) E törvény alkalmazásában:
 
-nemzetközi számviteli standardok: a Nemzetközi Számviteli Standardok Testülete [International Accounting Standards Board (IASB)] által elfogadott vagy kibocsátott Nemzetközi Számviteli Standardok [International Accounting Standards (IAS)], Nemzetközi Pénzügyi Beszámolási Standardok [International Financial Reporting Standards (IFRS)] és a kapcsolódó Értelmezések (SIC, IFRIC interpretations), ezen standardok módosításai és az azokhoz kapcsolódó értelmezések.
+- 1. nemzetközi számviteli standardok: a Nemzetközi Számviteli Standardok Testülete [International Accounting Standards Board (IASB)] által elfogadott vagy kibocsátott Keretelvek (Framework for the Preparation and Presentation of Financial Statements), Nemzetközi Számviteli Standardok [International Accounting Standards (IAS)], Nemzetközi Pénzügyi Beszámolási Standardok [International Financial Reporting Standards (IFRS)], és a kapcsolódó Értelmezések (SIC, IFRIC interpretations), ezen standardok módosításai és az azokhoz kapcsolódó értelmezések.
+- 2. IFRS-ek: a nemzetközi számviteli standardok alkalmazásáról szóló, 2002. július 19-i 1606/2002/EK európai parlamenti és tanácsi rendeletben foglalt eljárás alapján az Európai Unió Hivatalos Lapjában rendeleti formában kihirdetett nemzetközi számviteli standardok.
+- 3. kisebb méretű hitelintézet: az a hitelintézet, amelynek a 2015. évben induló üzleti évről készített, könyvvizsgáló által felülvizsgált éves beszámolója mérlegének mérlegfőösszege nem éri el az 5 milliárd forintot, kivéve a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény alapján összevont alapú felügyelet alá tartozó csoportba tartozó hitelintézetet.
 
 (11) E törvény exportra, importra vonatkozó rendelkezéseinek alkalmazásában:
 
@@ -242,6 +244,8 @@ Európai Gazdasági Térség állama: az Európai Unió tagállama és az Európ
 
 (5) A mikrogazdálkodói egyszerűsített éves beszámoló készítésének sajátosságait e törvény alapján kormányrendelet szabályozza.
 
+(6) Az (1)–(2) bekezdés szerinti kormányrendeletek előírásait az éves beszámolóját az IFRS-ek szerint összeállító gazdálkodónak nem kell alkalmaznia.
+
 7. § Az 5. § és a 6. § szerinti kormányrendelet az e törvényben meghatározott szabályoktól eltérő rendelkezéseket állapíthat meg. E törvény kormányrendeletben meghatározott eltéréssel nem érintett rendelkezéseit – a kormányrendeletben meghatározott sajátosságokon túlmenően – az 5. §-ban és a 6. §-ban meghatározott szervezeteknél is alkalmazni kell.
 
 7/A. § A külföldi székhelyű vállalkozás magyarországi fióktelepe alapítására, működésére és megszűnésére – ha e törvény, illetve más jogszabály eltérően nem rendelkezik – e törvény vállalkozóra vonatkozó szabályait kell megfelelően alkalmazni.
@@ -261,7 +265,7 @@ Európai Gazdasági Térség állama: az Európai Unió tagállama és az Európ
 
 (4) Egyszeres könyvvitellel alátámasztott – a (2) bekezdés d) pontja szerinti – egyszerűsített beszámolót készíthet a gazdálkodó, ha azt e törvény vagy az 5–6. §-okban hivatkozott kormányrendelet lehetővé teszi.
 
-(5) A gazdálkodó legfőbb irányító (vezető) szervén, ügyvezető szervén és felügyelő testületén belül a tagok együttes kötelezettsége – a külön jogszabályban meghatározott hatáskörükben eljárva – annak biztosítása, hogy az éves beszámoló, az egyszerűsített éves beszámoló és az összevont (konszolidált) éves beszámoló [ideértve a 10. § (2) és (3) bekezdése alapján a nemzetközi számviteli standardok szerint elkészített összevont (konszolidált) éves beszámolót is], valamint a kapcsolódó üzleti jelentés összeállítása és nyilvánosságra hozatala e törvény előírásainak megfelelően történjen.
+(5) A gazdálkodó legfőbb irányító (vezető) szervén, ügyvezető szervén és felügyelő testületén belül a tagok együttes kötelezettsége – a jogszabályban meghatározott hatáskörükben eljárva – annak biztosítása, hogy az éves beszámoló, az egyszerűsített éves beszámoló és az összevont (konszolidált) éves beszámoló (ideértve a 9/A. § és a 10. § (2) és (3) bekezdés alapján az IFRS-ek szerint elkészített éves beszámolót és összevont (konszolidált) éves beszámolót is), valamint a kapcsolódó üzleti jelentés összeállítása és nyilvánosságra hozatala e törvény előírásainak megfelelően történjen.
 
 9. § (1) Éves beszámolót és üzleti jelentést köteles készíteni a kettős könyvvitelt vezető vállalkozó, a (2) bekezdésben foglaltak kivételével.
 
@@ -296,17 +300,33 @@ Európai Gazdasági Térség állama: az Európai Unió tagállama és az Európ
 
 (10) Ha a vállalkozó a következő üzleti évtől már nem készít mikrogazdálkodói egyszerűsített éves beszámolót, akkor a következő üzleti év nyitó adatai azonosak lesznek az előző üzleti év megfelelő záró adataival.
 
+9/A. § (1) Éves beszámolóját az IFRS-ek szerint állíthatja össze
+
+- a) az a vállalkozó, amelynek értékpapírjait az Európai Gazdasági Térség bármely államának szabályozott piacán forgalmazzák,
+- b) az a vállalkozó, amelynek közvetlen vagy közvetett anyavállalata az összevont (konszolidált) éves beszámolóját az IFRS-ek szerint készíti el,
+- c) az a vállalkozó, amely a koncesszióról szóló 1991. évi XVI. törvény (a továbbiakban: Koncessziós tv.) alapján koncesszióköteles tevékenység végzésére, illetve koncessziós szerződés megkötésére jogosult, vagy amely a Koncessziós tv. 20. §-a szerinti koncessziós társaságnak minősül.
+
+(2) Az (1) bekezdésben foglaltakat nem alkalmazhatja
+
+- a) a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank felügyelete alá tartozó vállalkozó,
+- b) az állami vagy önkormányzati vagyonkezelést végző vállalkozó,
+- c) a nonprofit gazdasági társaság.
+
+(3) A vállalkozó az IFRS-ekben nem szabályozott kérdések tekintetében – az IFRS-ekkel összhangban – e törvény előírásait köteles alkalmazni.
+
+(4) Amennyiben jogszabály speciális bemutatási, közzétételi kötelezettséget ír elő a vállalkozó számára, úgy azt az éves beszámolóját az IFRS-ek szerint összeállító vállalkozó is megfelelően köteles alkalmazni.
+
 10. § (1) Összevont (konszolidált) éves beszámolót és összevont (konszolidált) üzleti jelentést is köteles készíteni – a 116–117. §-ban foglaltak kivételével – az a vállalkozó, amely egy vagy több vállalkozóhoz fűződő viszonyában a 3. § (2) bekezdésének 1. pontja értelmében anyavállalatnak minősül.
 
-(2) A nemzetközi számviteli standardok alkalmazásáról szóló 1606/2002/EK rendelet 4. cikke hatálya alá tartozó vállalkozó az (1) bekezdés szerinti kötelezettségének azzal tesz eleget, hogy a rendeletben foglalt eljárás alapján az Európai Unió Hivatalos Lapjában rendeleti formában kihirdetett nemzetközi számviteli standardoknak megfelelően állítja össze az összevont (konszolidált) éves beszámolóját. A vállalkozó a kihirdetett nemzetközi számviteli standardokban nem szabályozott kérdések tekintetében e törvény előírásait köteles alkalmazni, a kihirdetett nemzetközi számviteli standardokkal összhangban.
+(2) A nemzetközi számviteli standardok alkalmazásáról szóló, 2002. július 19-i 1606/2002/EK európai parlamenti és tanácsi rendelet 4. cikke hatálya alá tartozó vállalkozó az (1) bekezdés szerinti kötelezettségének azzal tesz eleget, hogy az IFRS-ek szerint állítja össze az összevont (konszolidált) éves beszámolóját. A vállalkozó az IFRS-ekben nem szabályozott kérdések tekintetében – az IFRS-ekkel összhangban – e törvény előírásait köteles alkalmazni.
 
-(3) A (2) bekezdés hatálya alá nem tartozó vállalkozó az (1) bekezdés szerinti kötelezettségének azzal is eleget tehet, ha a (2) bekezdés szerint kihirdetett nemzetközi számviteli standardoknak megfelelően állítja össze az összevont (konszolidált) éves beszámolóját azzal, hogy a kihirdetett nemzetközi számviteli standardokban nem szabályozott kérdések tekintetében e törvény előírásait köteles alkalmazni, a kihirdetett nemzetközi számviteli standardokkal összhangban.]
+(3) A (2) bekezdés hatálya alá nem tartozó vállalkozó az (1) bekezdés szerinti kötelezettségének azzal is eleget tehet, ha az IFRS-ek szerint állítja össze az összevont (konszolidált) éves beszámolóját azzal, hogy az IFRS-ekben nem szabályozott kérdések tekintetében – az IFRS-ekkel összhangban – e törvény előírásait köteles alkalmazni.
 
 (4) Ahol e törvény, illetve más jogszabály összevont (konszolidált) éves beszámoló kifejezést használ, ott azon a (2) és (3) bekezdés szerinti, az Európai Parlament és a Tanács a nemzetközi számviteli standardok alkalmazásáról szóló 2002. július 19-i 1606/2002/EK rendelete előírásainak megfelelően összeállított összevont (konszolidált) éves beszámoló is értendő.
 
-(5) Azon vállalkozó esetében, amely a (2) és (3) bekezdés alapján a nemzetközi számviteli standardok szerint állítja össze az összevont (konszolidált) éves beszámolóját – e törvény, valamint a külön jogszabályok könyvvizsgálatra vonatkozóan meghatározott feltételein túlmenően – jogszabályi kötelezettségen alapuló könyvvizsgálói feladatok ellátására csak akkor adható kamarai tag könyvvizsgáló (könyvvizsgáló cég) részére megbízás, ha a kamarai tag könyvvizsgáló (könyvvizsgáló cég) rendelkezik IFRS minősítéssel.
+(5) Azon gazdálkodó esetében, amely a 9/A. §, valamint a (2) és (3) bekezdés alapján az IFRS-ek szerint állítja össze éves beszámolóját, összevont (konszolidált) éves beszámolóját, – e törvény, valamint a külön jogszabályok könyvvizsgálatra vonatkozóan meghatározott feltételein túlmenően – a jogszabályi kötelezettségen alapuló könyvvizsgálói feladatok ellátására csak akkor adható kamarai tag könyvvizsgáló, könyvvizsgáló cég részére megbízás, ha a kamarai tag könyvvizsgáló, könyvvizsgáló cég rendelkezik IFRS minősítéssel.
 
-(6) Az (5) bekezdés szerinti vállalkozó a 151. § (1) bekezdésének alkalmazása során köteles gondoskodni arról, hogy a könyvviteli szolgáltatás körébe tartozó feladatok irányítását, vezetését, az éves beszámoló, az összevont (konszolidált) éves beszámoló elkészítését olyan személy végezze, aki
+(6) Az (5) bekezdés szerinti gazdálkodó a 151. § (1) bekezdésének alkalmazása során köteles gondoskodni arról, hogy a könyvviteli szolgáltatás körébe tartozó feladatok irányítását, vezetését, az éves beszámoló, az összevont (konszolidált) éves beszámoló elkészítését olyan személy végezze, aki
 
 - a) IFRS regisztrálási szakterületen szerepel a könyvviteli szolgáltatást végzők nyilvántartásában, vagy
 - b) IFRS minősítéssel rendelkező kamarai tag könyvvizsgáló.
@@ -705,7 +725,7 @@ a cégbejegyzést követően, az eszköz átvételekor az (1) bekezdés a)–b) 
 - a) az előző üzleti év adózott eredményét (veszteségét), ideértve az ellenőrzés előző év(ek) adózott eredményét csökkentő módosítását (veszteségét) is,
 - b) a jegyzett tőke emelését a rendelkezésre álló szabad eredménytartalékból,
 - c) az eredménytartalék lekötött tartalékba átvezetett összegét,
-- d) az osztalékra, részesedésre, kamatozó részvény kamatára, továbbá az eredménytartalékot terhelő adóra igénybe vett összeget,
+- d) az osztalékra, részesedésre, a kamatozó részvény kamatára (ide értve az azt terhelő adót is) felhasznált összeget,
 - e) a gazdasági társaság tulajdonosánál (tagjánál) a gazdasági társaság veszteségének fedezetére teljesített – törvényi előíráson alapuló – pótbefizetés összegét a pénzmozgással, az eszközmozgással egyidejűleg,
 - f) a tőkekivonással megvalósított jegyzett tőke leszállításához kapcsolódó – a jegyzett tőke leszállításával arányos – eredménytartalék-kivonás összegét,
 - g) a pénzmozgással, illetve az eszközmozgással egyidejűleg a jogszabály alapján eredménytartalékkal szemben átadott pénzeszközök, eszközök értékét, ide értve a gazdasági társaság, szövetkezet tagsági jogviszony megszűnésének időpontjában fennálló vagyonának a megszűnt tagsági jogviszonyra jutó része a jegyzett tőke, a tőketartalék és az eredménytartalék arányos részét meghaladó összegét is.
@@ -1525,7 +1545,7 @@ amennyiben az a tárgyévhez vagy a tárgyévet megelőző üzleti év(ek)hez ka
 - b) a költségek (a ráfordítások) ellentételezésére – visszafizetési kötelezettség nélkül – az adóhatóságtól, jogszabály által meghatározott szervezettől megkapott, illetve az üzleti évhez kapcsolódóan a mérlegkészítés időpontjáig – a vonatkozó jogszabályi előírásoknak megfelelően – igényelt (járó) támogatás, juttatás összegét;
 - c)
 - d) az eredeti követelést engedményezőnél (eladónál) az átruházott (engedményezett) követelésnek az engedményes által elismert értékét a követelés átruházásakor;
-- e) az immateriális jószág, a tárgyi eszköz közvetlen értékesítéséből, továbbá az immateriális jószág, a tárgyi eszköz 72. § (4) bekezdésének a) és c) pontja szerinti jogcímen történő átadásából származó bevételt az értékesítéskor, az átadáskor;
+- e) az immateriális jószág, a tárgyi eszköz értékesítéséből (ide értve azt is, ha az immateriális jószág, a tárgyi eszköz a mérlegben, a könyvekben nincs kimutatva), továbbá az immateriális jószág, a tárgyi eszköz 72. § (4) bekezdésének a) és c) pontja szerinti jogcímen történő átadásából származó bevételt az értékesítéskor, az átadáskor;
 - f) a biztosító által fizetett, illetve a mérlegkészítés időpontjáig elfogadott, visszaigazolt – tárgyévi, illetve a tárgyévet megelőző üzleti évi káreseményhez kapcsolódó – összeget;
 - g) a követelés eredeti jogosultjánál – ha a követelésre korábban értékvesztést számolt el – a követelés könyv szerinti értékét meghaladóan realizált összeget;
 - h) a nyereség jellegű kerekítési különbözetet;
@@ -1641,7 +1661,7 @@ amennyiben az a tárgyévhez vagy a tárgyévet megelőző üzleti év(ek)hez ka
 
 (3) A pénzügyi műveletek ráfordításai közé tartoznak: részesedésekből származó ráfordítások, árfolyamveszteségek, a befektetett pénzügyi eszközökből (értékpapírokból, kölcsönökből) származó ráfordítások árfolyamveszteségek, a fizetett (fizetendő) kamatok és kamatjellegű ráfordítások, a pénzügyi műveletek egyéb ráfordításai, a részesedések, az értékpapírok, a kölcsönök, bankbetétek értékvesztése.
 
-84. § (1) Kapott (járó) osztalék és részesedés a tulajdoni részesedést jelentő befektetés után kapott, az adózott eredmény felosztásáról szóló határozat alapján járó összeg (ideértve a kamatozó részvények után kapott, illetve járó kamatot, valamint a bizalmi vagyonkezelés során a vagyonrendelőnek kifizetett, illetve járó hozamot is), amennyiben az a mérlegkészítés időpontjáig ismertté vált.
+84. § (1) Kapott (járó) osztalék és részesedés a tulajdoni részesedést jelentő befektetés után kapott, az adózott eredmény felosztásáról szóló határozat alapján járó összeg (ideértve a kamatozó részvények után kapott, illetve járó kamatot, valamint a bizalmi vagyonkezelés során a vagyonrendelőnek kifizetett, illetve járó hozamot is), amennyiben az a mérlegfordulónapig ismertté vált.
 
 (2) Részesedésekből származó bevételként, árfolyamnyereségként kell elszámolni:
 
@@ -1670,7 +1690,7 @@ amennyiben az a tárgyévhez vagy a tárgyévet megelőző üzleti év(ek)hez ka
 (5) Egyéb kapott (járó) kamatok és kamatjellegű bevételek között kell kimutatni:
 
 - a) a forgóeszközök között kimutatott hitelviszonyt megtestesítő kamatozó értékpapír után kapott (esedékes, járó) kamat összegét, továbbá ezen értékpapír értékesítésekor az eladási árban lévő kamat összegét;
-- b) a forgóeszközök között kimutatott kölcsön, váltókövetelés, pénzeszközök után kapott (esedékes, járó) kamat összegét;
+- b) a forgóeszközök között kimutatott kölcsön, váltókövetelés, pénzeszközök után kapott (esedékes, járó) kamat összegét, valamint a forgóeszközök között kimutatott befektetési jegyek hozamát;
 - c) a forgóeszközök között kimutatott diszkont értékpapírok vételára és névértéke közötti különbözetből a tárgyévre időarányosan jutó összeget;
 - d) a pénzügyi intézménnyel kötött valódi penziós ügylet esetén az azonnali eladási ár és a határidős visszavásárlási ár (kötési ár) különbözetét;
 - e) a valódi penziós ügyletek és az óvadéki repóügyletek esetén a határidős viszonteladási kötelezettség mellett vásárolt eszköz követelésként kimutatott vételára és kötelezettségként kimutatott viszonteladási ára közötti különbözet összegében, valamint a kölcsönbe adott értékpapír után járó kölcsönzési díj összegében elszámolt kamatbevételt;
@@ -2005,9 +2025,9 @@ a jelentősebb összegeit, azok időbeli alakulását.
 
 (6)
 
-97. § (1) Ha az egyszerűsített éves beszámolót készítő vállalkozó a 9. § (2) bekezdése szerinti három mutatóérték közül bármelyik kettőnek a határértékét túllépi két egymást követő üzleti évben, akkor a második évi beszámoló elkészítését követő évtől éves beszámolót köteles készíteni.
+97. § (1) Ha az egyszerűsített éves beszámolót készítő vállalkozó a 9. § (2) bekezdése szerinti három mutatóérték közül bármelyik kettőnek a határértékét túllépi két egymást követő üzleti évben, akkor a második üzleti évet követő évtől évtől éves beszámolót köteles készíteni.
 
-(2) Ha az éves beszámolót készítő vállalkozónál a 9. § (2) bekezdése szerinti három mutatóérték közül bármelyik kettő a határérték alá kerül két egymást követő üzleti évben, akkor a második évi beszámoló elkészítését követő évtől a vállalkozó egyszerűsített éves beszámolót készíthet.
+(2) Ha az éves beszámolót készítő vállalkozónál a 9. § (2) bekezdése szerinti három mutatóérték közül bármelyik kettő a határérték alá kerül két egymást követő üzleti évben, akkor a második üzleti évet követő évtől évtől a vállalkozó egyszerűsített éves beszámolót készíthet.
 
 98. § Az egyszerűsített éves beszámoló készítése során:
 
@@ -2194,6 +2214,182 @@ kell elszámolni, és annak megfelelően kell az eredménylevezetés tételeiben
 114. § (1) Az osztalék a gazdálkodó tagjai részére az adózott eredmény felosztásáról szóló döntés alapján kifizetni elrendelt, az előző üzleti évi adózott eredménnyel kiegészített szabad eredménytartalék csökkenéseként elszámolt összeg. Az év közben fizetett osztalékelőleget a pénzkiadásból származó követelések között kell az egyszerűsített mérlegben szerepeltetni.
 
 (2) Az előző üzleti évi adózott eredménnyel kiegészített szabad eredménytartalék akkor fizethető ki osztalékként (részesedésként), ha a lekötött tartalékkal – ideértve a 103. § (4) bekezdése szerint elkülönítetten nyilvántartott támogatás még fel nem használt összegét is – csökkentett saját tőke összege az osztalék (a részesedés) kifizetése után sem csökken a jegyzett tőke összege alá.
+
+### V/A. Fejezet — AZ IFRS-EK SZERINT ÉVES BESZÁMOLÓT KÉSZÍTŐ GAZDÁLKODÓKRA VONATKOZÓ ELTÉRŐ SZABÁLYOK
+
+### Értelmező rendelkezések, fogalmak
+
+114/A. § E fejezet alkalmazásában:
+
+- 1. éves beszámoló: az IAS 27 Egyedi pénzügyi kimutatások című standard szerint összeállított egyedi pénzügyi kimutatások;
+- 2. mérleg: az IAS 1 Pénzügyi kimutatások prezentálása című standard szerint meghatározott pénzügyi helyzet kimutatás;
+- 3. eredménykimutatás: az IAS 1 Pénzügyi kimutatások prezentálása című standard szerinti átfogó jövedelemkimutatás eredmény szakasza vagy a különálló eredménykimutatás;
+- 4. kiegészítő melléklet: az IAS 1 Pénzügyi kimutatások prezentálása című standard szerinti megjegyzések, amelyek a jelentős számviteli politikák összefoglalását, egyéb közzétételeket és más magyarázó megjegyzéseket tartalmaznak;
+- 5. saját tőke változás kimutatása: az IAS 1 Pénzügyi kimutatások prezentálása című standard szerinti teljes pénzügyi kimutatások azon része, amely a saját tőkében bekövetkezett évközi változásokat jogcímenként mutatja be;
+- 6. cash flow kimutatás: az IAS 7 Cash flow kimutatások című standard szerinti, a gazdálkodó pénzeszközeiben és pénzeszköz-egyenértékeseiben bekövetkezett változásokat összefoglaló kimutatás;
+- 7. mérlegfőösszeg: az IAS 1 Pénzügyi kimutatások prezentálása című standard szerinti pénzügyihelyzet-kimutatásban szereplő összes eszközök értéke;
+- 8. adózás előtti eredmény: az IAS 1 Pénzügyi kimutatások prezentálása című standard szerinti átfogó jövedelemkimutatás eredmény szakaszában vagy a különálló eredménykimutatásban szereplő, a folytatódó és a megszűnt tevékenységekre bemutatott adózás előtti eredmények együttes összege;
+- 9. adózott eredmény: az IAS 1 Pénzügyi kimutatások prezentálása című standard szerinti átfogó jövedelemkimutatás eredmény szakaszában vagy a különálló eredménykimutatásban szereplő, a folytatódó és a megszűnt tevékenységekre bemutatott adózás utáni nettó eredmény együttes összege;
+- 10. lényeges hiba: az IAS 8 Számviteli politika, a számviteli becslések változásai és hibák című standard szerint meghatározott lényeges hiba;
+- 11. funkcionális pénznem: az IAS 21 Átváltási árfolyamok változásainak hatásai című standard szerinti pénznem, amely annak az elsődleges gazdasági környezetnek a pénzneme, amelyben a gazdálkodó működik, és amely eltérhet a prezentálás pénznemétől;
+- 12. kötelezettség: az IAS 1 Pénzügyi kimutatások prezentálása című standard szerinti pénzügyihelyzet-kimutatásban szereplő összes kötelezettség, ideértve a halasztott bevételekből származó kötelezettséget is;
+- 13. IFRS-ek szerinti saját tőke: a 7. pontban meghatározott mérlegfőösszeg és a 12. pontban meghatározott kötelezettségek különbözete;
+- 14. saját tőke megfeleltetési tábla: a 114/B. § szerint meghatározott saját tőke elemeket bemutató tábla, amelyet az IAS 1 Pénzügyi kimutatások prezentálása című standard szerinti kiegészítő megjegyzések részeként kell bemutatni;
+- 15. tőkeinstrumentum: az IAS 32 Pénzügyi instrumentumok: bemutatás és az IFRS 2 Részvényalapú kifizetés című standardok szerint saját tőkeként besorolandó instrumentum, amely olyan szerződés, amely egy gazdálkodó összes kötelezettségének a levonása után a gazdálkodó eszközeiben meglévő maradványérdekeltséget testesít meg;
+- 16. közbenső mérleg: a legutolsó IFRS-ek szerinti beszámolóval lezárt üzleti év mérlegfordulónapját követő nap és a közbenső mérleg fordulónapja közötti időszak gazdasági eseményeinek figyelembevételével, az IAS 34 Évközi pénzügyi beszámolás című standarddal összhangban elkészített pénzügyihelyzet-kimutatás, valamint a közbenső mérleg fordulónapjára vonatkozó saját tőke megfeleltetési tábla.
+
+### Saját tőke megfeleltetési tábla
+
+114/B. § (1) Az IFRS-ek szerinti éves beszámolót készítő gazdálkodó a beszámoló fordulónapjára vonatkozóan saját tőke megfeleltetési táblát állít össze, amelyet a kiegészítő megjegyzések részeként mutat be.
+
+(2) Más jogszabályok alkalmazásában, ha a jogszabály kifejezetten eltérően nem rendelkezik, a saját tőke, illetve annak egyes elemei alatt a megfeleltetési tábla szerinti tételeket kell érteni.
+
+(3) A saját tőke megfeleltetési táblát a gazdálkodónak el kell készítenie akkor is, ha jogszabály sajátos beszámoló készítésére (ide értve a közbenső mérleget is) kötelezi.
+
+(4) A saját tőke megfeleltetési tábla tartalmazza az IFRS-ek szerinti saját tőke egyes elemeinek nyitó és záró adatait, valamint ezekből levezetve az alábbi saját tőke elemek nyitó és záró adatait:
+
+- a) saját tőke: az IFRS-ek szerinti saját tőke összege, növelve a kapott pótbefizetés IFRS-ek szerint kötelezettségként kimutatott összegével, csökkentve a fizetett pótbefizetés IFRS-ek szerint eszközként kimutatott összegével, növelve a jogszabály alapján tőketartalékba helyezendő pénzeszközök, átvett eszközök értékéből a halasztott bevételként kimutatott összeggel, csökkentve a tőkeinstrumentumnak minősülő tőkeemelés miatt, a tulajdonosokkal szemben kimutatott követelés összegével;
+- b) IFRS-ek szerinti jegyzett tőke: a létesítő okiratban meghatározott jegyzett tőke, amennyiben az tőkeinstrumentumnak minősül;
+- c) jegyzett, de be nem fizetett tőke: az IFRS-ek szerinti jegyzett tőkéből a gazdálkodó rendelkezésére még nem bocsátott összeg;
+- d) tőketartalék: a saját tőke minden olyan elemének összege, amely nem felel meg az IFRS-ek szerinti jegyzett tőke, a jegyzett, de be nem fizetett tőke, az eredménytartalék, az értékelési tartalék, az adózott eredmény vagy a lekötött tartalék fogalmának;
+- e) eredménytartalék: az IFRS-ek szerinti éves beszámolóban kimutatott, korábbi évek halmozott – és a tulajdonosok részére még ki nem osztott – adózott eredménye, amely az IAS 1 Pénzügyi kimutatások prezentálása című standard szerinti egyéb átfogó jövedelmet nem tartalmazhat, csökkentve a fizetett pótbefizetés IFRS-ek szerint eszközként kimutatott összegével, és a fel nem használt fejlesztési tartaléknak a kapcsolódó, az IAS 12 Nyereségadók című standard alapján számított halasztott adóval csökkentett összegével;
+- f) értékelési tartalék: az IAS 1 Pénzügyi kimutatások prezentálása című standard szerinti átfogó jövedelem kimutatásban szereplő egyéb átfogó jövedelem halmozott és tárgyévi egyéb átfogó jövedelmet is tartalmazó összege;
+- g) adózott eredmény: 114/A. § 9. pontjában meghatározott fogalom;
+- h) lekötött tartalék: a kapott pótbefizetés IFRS-ek szerint kötelezettségként kimutatott összege, növelve a fel nem használt fejlesztési tartaléknak a kapcsolódó, az IAS 12 Nyereségadók című standard alapján számított halasztott adóval csökkentett összegével.
+
+(5) A saját tőke megfeleltetési tábla a (4) bekezdésben foglaltakon túlmenően tartalmazza:
+
+- a) a cégbíróságon bejegyzett tőke összegének és az IFRS-ek szerinti jegyzett tőke összegének egyeztetését;
+- b) az osztalékfizetésre rendelkezésre álló szabad eredménytartalékot, amely az utolsó beszámolóval lezárt üzleti év tárgyévi adózott eredményét is magában foglaló eredménytartalék összegének az IAS 40 Befektetési célú ingatlanok című standard szerinti befektetési célú ingatlanok valós érték növekedése miatti elszámolt – halmozott – nem realizált nyereség összegével csökkentett összege.
+
+### Az IFRS-ek szerinti éves beszámolóra történő áttérés szabályai
+
+114/C. § (1) Az éves beszámoló IFRS-ek szerinti összeállítására történő áttérés feltétele, hogy a gazdálkodó rendelkezzen az áttérésre való felkészültségét igazoló könyvvizsgálói jelentéssel.
+
+(2) Az (1) bekezdés szerinti könyvvizsgálói jelentést IFRS minősítéssel rendelkező kamarai tag könyvvizsgáló, könyvvizsgáló cég bocsáthat ki.
+
+(3) Az IFRS-ek szerinti éves beszámolóra történő áttérés napja az első IFRS-ek szerint készült éves beszámoló üzleti évének első napja.
+
+(4) Az IFRS-ekre történő áttérést a gazdálkodó legkésőbb az áttérés napja előtt 90 nappal bejelenti az állami adóhatóság, valamint a Központi Statisztikai Hivatal részére. A bejelentéshez csatolni kell az (1) bekezdés szerinti könyvvizsgálói jelentést.
+
+(5) A pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank felügyelete alá tartozó gazdálkodó az IFRS-ek szerinti éves beszámolóra történő áttérést – a (4) bekezdésben foglalt bejelentési kötelezettségen túl – legkésőbb az áttérés napja előtt 90 nappal bejelenti a Magyar Nemzeti Bank részére. A bejelentéshez csatolni kell a (1) bekezdés szerinti könyvvizsgálói jelentést.
+
+(6) Az IFRS minősítéssel rendelkező kamarai tag könyvvizsgáló, könyvvizsgáló cég az (1) bekezdés szerinti, a felkészültségre vonatkozó vizsgálat során ellenőrzi, hogy a gazdálkodó
+
+- a) alkalmaz-e az IFRS-ek szerinti éves beszámolója összeállításhoz a 10. § (6) bekezdése szerinti minősítéssel rendelkező személyt,
+- b) rendelkezik-e az IFRS-ek szerint összeállított és jóváhagyott számviteli politikával,
+- c) rendelkezik-e az áttérés éve előtti üzleti év első napjára vonatkozóan összeállított IFRS-ek szerinti mérleggel.
+
+(7) Az IFRS-ek szerinti éves beszámolót készítő gazdálkodó az IFRS-ek alkalmazásának első üzleti évében a kiegészítő megjegyzésekben köteles bemutatni az IFRS 1 A Nemzetközi Pénzügyi Beszámolási Standardok első alkalmazása című standard 21. és 24–26. bekezdéseiben megkövetelt közzétételeket akkor is, ha egyébként nem tartozik az IFRS 1 A Nemzetközi Pénzügyi Beszámolási Standardok első alkalmazása című standard hatálya alá.
+
+### Az e törvény szerinti éves beszámolóra történő áttérés (visszatérés) szabályai
+
+114/D. § (1) Ha a gazdálkodó a 9/A. § szerint nem kötelezett az IFRS-ek alkalmazására, akkor az IFRS-ek szerinti éves beszámoló készítéséről az e törvény szerinti éves beszámoló készítésére a következő esetekben térhet át (térhet vissza):
+
+- a) öt lezárt üzleti év után, vagy
+- b) a közvetlen vagy közvetett anyavállalat személyében bekövetkezett változás esetén.
+
+(2) Az IFRS-ek szerinti éves beszámolót készítő gazdálkodó az e törvény szerinti éves beszámoló készítésére tér át (tér vissza),
+
+- a) ha a 9/A. § szerint már nem jogosult, illetve nem kötelezett éves beszámolóját az IFRS-ek szerint összeállítani, valamint
+- b) végelszámolása, felszámolása, illetve kényszertörlési eljárása esetén.
+
+(3) Az (1) bekezdés szerinti áttérés (visszatérés) időpontja az (1) bekezdés a) vagy b) pontjában szereplő feltételek bekövetkezését követő bármely üzleti év első napja.
+
+(4) A (2) bekezdés szerinti áttérés (visszatérés) időpontja a (2) bekezdés a) vagy b) pontjában bekövetkezett eseményt követő üzleti év első napja.
+
+(5) Az áttérés (a visszatérés) napjával nyitómérleget és nyitó leltárt kell készíteni. Az áttérés (a visszatérés) üzleti évének könyvviteli nyilvántartásait a nyitómérleg alapján kell megnyitni.
+
+(6) Hitelintézet, pénzügyi vállalkozás felszámolása, végelszámolása esetén az áttérés (a visszatérés) időpontja a tevékenységi engedély visszavonásának a napja azzal, hogy a tevékenységet lezáró beszámolót a hitelintézetnek, a pénzügyi vállalkozásnak a végelszámolás, a felszámolás megkezdését megelőző napra, mint mérlegfordulónapra kell elkészítenie.
+
+(7) Az IFRS-ek szerinti éves beszámoló készítéséről az e törvény szerinti éves beszámoló készítésére történő áttérés (visszatérés) esetén a nyitómérlegben az eszközöket és forrásokat az e törvénynek megfelelő besorolásban, az áttérést megelőző üzleti év mérlegfordulónapjára vonatkozóan összeállított és letétbe helyezett IFRS-ek szerinti éves beszámoló mérlegében szereplő könyv szerinti értéken kell szerepeltetni.
+
+(8) A (7) bekezdés szerinti eszközök és források tekintetében bekerülési értéknek a nyitómérlegben szereplő eszközök és források könyv szerinti értéke minősül, kivéve az IAS 38 Immateriális javak, az IAS 16 Ingatlanok, gépek, és berendezések, az IAS 40 Befektetési célú ingatlanok standard szerinti eszközöket és az IAS 39 Pénzügyi instrumentumok című standard szerinti követeléseket, amelyeknél a bekerülési érték az IFRS-ek szerinti bekerülési érték, azzal, hogy azok esetében az IFRS-ek szerinti bekerülési érték és a könyv szerinti érték közötti különbözetet értékcsökkenésként, illetve értékvesztésként kell figyelembe venni.
+
+(9) A (7) bekezdés szerinti nyitómérlegben szereplő eszközök és források értékének meghatározásánál:
+
+- a) tőketartalék növekedéseként kell kimutatni a 36. § szerinti összegeket, valamint a következő tételeket:
+  - aa) az átértékelési modell alkalmazása esetén az IAS 16 Ingatlanok, gépek és berendezések, valamint az IAS 38 Immateriális javak című standardok szerint keletkezett és értékelt tárgyi eszközök és immateriális javak halmozott átértékelési különbözetének értékcsökkentett értékét,
+  - ab) az IAS 40 Befektetési célú ingatlanok című standard alapján valós érték modell alkalmazása esetén a befektetési célú ingatlanok halmozott valós értékének nyereségét,
+  - ac) az IAS 41 Mezőgazdaság című standard szerinti biológiai eszközökre és mezőgazdasági termékekre elszámolt halmozott valós értékének nyereségét;
+- b) a jogszabály alapján tőketartalékba helyezendő pénzeszközök, átvett eszközök értékéből halasztott bevételként kimutatott bármely összeget a tőketartalék növekedéseként kell elszámolni;
+- c) a kapott pótbefizetés IFRS-ek szerint kötelezettségként kimutatott összegét a lekötött tartalék növekedéseként kell elszámolni;
+- d) az adott pótbefizetés IFRS-ek szerint eszközként kimutatott összegét az eredménytartalék csökkenéseként kell elszámolni;
+- e) a 3. § (9) bekezdés 3. pontja szerint tőkeinstrumentumnak, de az IFRS-ek szerint részben vagy egészben kötelezettségnek minősülő tételek (ide értve a visszaváltható részvény) névértéket meghaladó összegét a tőketartalék növekedéseként kell elszámolni;
+- f) a tulajdonosokkal szemben tőkeemelés miatt kimutatott követelésből a jegyzett tőke emelésének megfelelő összeget a jegyzett, de be nem fizetett tőke növekedéseként, a névértéken felüli összeget a tőketartalék csökkenéseként kell elszámolni;
+- g) a visszavásárolt saját részvények, saját üzletrészek 35. § (10) bekezdése szerint számított összegét eszközként kell kimutatni a lekötött tartalék egyidejű növelése mellett;
+- h) a nyitómérlegben tőketartalékként kizárólag az a), b), e) és f) pontban foglalt tételeket lehet szerepeltetni;
+- i) a nyitómérlegben lekötött tartalékként kizárólag a c) és g) pontban foglalt tételek alapján számított összeget lehet szerepeltetni;
+- j) a nyitómérlegben értékelési tartalékként kizárólag az értékesíthető pénzügyi eszközök és a cash flow fedezeti instrumentumok halmozott valós érték változását lehet kimutatni;
+- k) az IAS 12 Nyereségadók című standard alapján számított halasztott adó követeléseket vagy kötelezettségeket ki kell vezetni a tőke azon tartalékával szemben, amivel szemben eredetileg a tétel megjelenítésre került. Amennyiben ez nem állapítható meg, a kivezetést az eredménytartalékkal szemben kell elvégezni;
+- l) az értékesíthető pénzügyi eszközök és cash flow fedezeti instrumentumok értékelési különbözete e törvény valós értékelésre vonatkozó szabályai szerint szüntetendő meg;
+- m) az IAS 19 Munkavállalói juttatások című standard szerinti munkaviszony megszűnése miatt meghatározott juttatási programok aktuáriusi nyereségét és veszteségét az eredménytartalékkal szemben kell elszámolni;
+- n) az a)–m) pontokban foglalt rendezések elvégzése után az eredménytartalék összegét úgy kell megállapítani a nyitómérlegben, hogy az összes eszközök és összes források összege megegyezzen;
+- o) a 42–43. §-ok szerint kötelezettségnek, de az IFRS-ek szerint részben vagy egészben saját tőkének minősülő tételek esetében a nyitómérlegben a kötelezettséget a visszafizetendő összegben kell kimutatni. A visszafizetendő összeg és a kötelezettség IFRS-ek szerinti könyv szerinti értékének különbözetét az aktív időbeli elhatárolások között kell állományba venni, és azt időarányosan egyéb ráfordításként kell elszámolni az eredmény terhére;
+- p) a 42–43. §-ok szerint kötelezettségnek, de az IFRS-ek szerint egészében pénzügyi kötelezettségnek minősülő tételre a 68. § (1) bekezdését értelemszerűen alkalmazni kell.
+
+(10) Az IFRS-ek szerinti éves beszámoló készítéséről az e törvény szerinti éves beszámoló készítésére történő áttérést (visszatérést) követő üzleti év mérlegében összehasonlító adatként a nyitómérleg adatait kell szerepeltetni.
+
+(11) Az áttérés (a visszatérés) utáni első üzleti év eredménykimutatásában összehasonlító adat nem szerepelhet.
+
+(12) Az áttérés (a visszatérés) utáni első üzleti évre vonatkozó éves beszámoló kiegészítő mellékletében be kell mutatni a következőket:
+
+- a) az áttérés (a visszatérés) előtti utolsó üzleti év IFRS-ek szerinti éves beszámolója zárómérlegében szereplő adatoknak, a nyitómérlegnek való megfeleltetését és a lényeges módosító tételek szöveges magyarázatát, valamint
+- b) az áttérés (a visszatérés) előtti utolsó üzleti év IFRS-ek szerinti éves beszámolója eredménykimutatásának adatait, továbbá az e törvény szerinti éves beszámoló eredménykimutatása és az IFRS-ek szerinti éves beszámoló eredménykimutatása közötti eltérések lényeges tételeinek szöveges magyarázatát.
+
+(13) Az áttérés (a visszatérés) időpontjában még le nem zárt lízingszerződés, beruházási szerződés, valamint értékesítési ügyletre vonatkozó szerződés elszámolása tekintetében a nyitómérlegben nem kell módosításokat végezni. Az ilyen szerződéseket az áttérést (a visszatérést) követően is az IFRS-ek előírásainak megfelelően kell elszámolni a szerződések megszűnéséig.
+
+(14) A nyitómérlegben értékelési tartalékként kimutatott összegek kivezetésére az 59. § előírásait kell alkalmazni.
+
+### Átalakulás, egyesülés, szétválás különös előírásai
+
+114/E. § (1) Az átalakulással, egyesüléssel, szétválással érintett, IFRS-ek szerinti éves beszámolót összeállító gazdasági társaság átalakulás, egyesülés, szétválás esetén az IFRS-ek értékelési elveit követve, a 136–144. §-okban előírtak alapján, átalakulási vagyonmérleget és vagyonleltárt készít, a (2)–(9) bekezdésben foglaltak figyelembevételével.
+
+(2) Amennyiben az egyesülésben érintett gazdasági társaságok között van e törvény szerinti és az IFRS-ek szerinti éves beszámolót készítő gazdasági társaság is, akkor:
+
+- a) összeolvadás esetén az IFRS-ek szerinti éves beszámolót készítő, megszűnő gazdasági társaságnak a vagyonmérlege összeállítása során át kell térnie az e törvény szerinti éves beszámoló készítés szabályainak az alkalmazására;
+- b) beolvadás esetén az átvevő (beolvasztó) gazdasági társaság által alkalmazott beszámoló készítési szabályoktól eltérő szabályokat alkalmazó megszűnő gazdasági társaságnak a vagyonmérlege összeállítása során át kell térnie az átvevő (beolvasztó) gazdasági társaság által alkalmazott beszámoló készítési szabályokra.
+
+(3) A vagyonmérleget (a vagyonmérleg-tervezetet és a végleges vagyonmérleget), a vagyonleltárt (a vagyonleltár-tervezetet és a végleges vagyonleltárt) az e törvény szerinti beszámoló mérlegére és az azt alátámasztó leltárra vonatkozó előírások szerint kell elkészíteni a 136. § (4)–(7) és (9)–(10) bekezdésében, a 137. § (1)–(2) bekezdésében, a 138. § (1)–(3), (5) és (7) bekezdésében, a 139. §-ban, a 140. § (2) bekezdésében, valamint a 141. § (1)–(3) és (8) bekezdésében foglaltak figyelembevételével.
+
+(4) Amennyiben a (2) bekezdés a) és b) pontja alapján a megszűnő gazdasági társaságnak át kell térnie az e törvény szerinti éves beszámoló készítés szabályainak az alkalmazására, a vagyonmérlegben a 136. § (4) bekezdés a) pontja szerinti könyv szerinti értéket a 114/D. § (7)–(9) bekezdésében meghatározott áttérési (visszatérési) szabályok alkalmazásával kell meghatároznia, és a vagyonmérlege „könyv szerinti érték” oszlopában a nyitómérleg adatait kell szerepeltetnie.
+
+(5) Amennyiben a (2) bekezdés b) pontja alapján a megszűnő gazdasági társaságnak át kell térnie az IFRS-ek alkalmazására, a vagyonmérlegben a 136. § (4) bekezdés a) pontja szerinti könyv szerinti értéket az IFRS 1 A Nemzetközi Pénzügyi Beszámolási Standardok első alkalmazása című standard szabályainak megfelelő alkalmazásával kell meghatároznia.
+
+(6) Amennyiben az átalakuló, egyesülő, szétváló gazdasági társaság a vagyonmérlegét az IFRS-ek szerint készíti el, a 136. § (8) bekezdést nem alkalmazhatja.
+
+(7) Az (1) bekezdés szerinti átalakuló, egyesülő, szétváló gazdasági társaság esetében:
+
+- a) a 137. § (1) bekezdés akkor alkalmazható, ha az átértékelést az IFRS-ek előírásai is lehetővé teszik;
+- b) a 137. § (2) bekezdés nem alkalmazható, ha a vagyonátértékelést az IFRS-ek előírják;
+- c) ha a 137. § (2) bekezdése és e bekezdés alapján a gazdálkodó nem alkalmazza, vagy nem alkalmazhatja a vagyonátértékelést, úgy a vagyonmérleg-tervezetben a saját tőke összege (a harmadik oszlopban) megegyezik a saját tőke (első oszlopban szereplő) könyv szerinti értékével;
+- d) a vagyonmérlegben az eszközök és a kötelezettségek külön-külön kimutatott átértékelési különbözetét az IFRS-ek előírásai szerint kell elszámolni;
+- e) a 139. § (4) és (5) bekezdésében szereplő különbözeteket az IFRS-ek előírásai szerint kell elszámolni;
+- f) az átalakulással, egyesüléssel, szétválással létrejövő gazdasági társaság vagyonmérleg-tervezetének harmadik oszlopában a jegyzett tőke nem haladhatja meg a 114/B. § (4) bekezdés a) pontja szerinti saját tőkének a jegyzett, de be nem fizetett tőkével növelt és a 140. § (5) bekezdése alapján számított várható vagyonvesztés összegével és a 114/B. § (4) bekezdés h) pontja szerinti lekötött tartalékkal csökkentett összegét;
+- g) a 138. § (4) és (6) bekezdése, a 140. § (1), (3), (5) és (7) bekezdése, a 141. § (4)–(5), (7) és (9) bekezdése nem alkalmazható;
+- h) a jegyzett tőkét le kell szállítani, ha az átalakulással, egyesüléssel, szétválással létrejövő gazdasági társaság végleges vagyonmérlege alapján a 114/B. § (4) bekezdés a) pontja szerinti saját tőkének a 114/B. § (4) bekezdés h) pontja szerinti lekötött tartalékkal csökkentett és a 141. § (7) bekezdés szerinti jegyzett, de be nem fizetett tőke összegével növelt összege nem éri el a vagyonmérleg-tervezet szerinti (a cégbíróságon bejegyzett) jegyzett tőke összegét.
+
+(8) A 137. § (1) bekezdése szerinti átértékelés alkalmazása esetében az eszközök és kötelezettségek vagyonmérlegben történő megjelenítésére és értékelésére az IFRS-ek előírásait kell alkalmazni.
+
+(9) Amennyiben a kiválással létrejövő IFRS-eket alkalmazó gazdasági társaság élt a 137. § (1) bekezdésében, valamint a (7) bekezdés a) és b) pontjaiban meghatározott átértékeléssel, a vagyonmérleg-tervezete „különbözetek” oszlopában elkülönítetten kell kimutatnia az átértékelési különbözetet, a (7) bekezdés d) és e) pontjaiban foglaltak szerint.
+
+### Végelszámolás, felszámolás, kényszertörlési eljárás különös szabályai
+
+114/F. § Amennyiben az IFRS-ek szerinti éves beszámolót készítő gazdálkodó végelszámolás, felszámolás, illetve kényszertörlési eljárás alá kerül, akkor a végelszámolás, a felszámolás, illetve a kényszertörlési eljárás kezdő időpontjával az e törvény szerinti éves beszámoló készítésére, továbbá a végelszámolás és a felszámolás számviteli feladataira vonatkozó előírásokat köteles alkalmazni.
+
+### Összevont (konszolidált) éves beszámoló készítési kötelezettség
+
+114/G. § (1) Ha az összevont (konszolidált) éves beszámoló készítésére kötelezett anyavállalat éves beszámolóját az IFRS-ek szerint készíti el, akkor az összevont (konszolidált) éves beszámolóját is az IFRS-ek szerint kell összeállítania.
+
+(2) Az anyavállalat (1) bekezdés szerinti összevont (konszolidált) éves beszámoló készítési kötelezettségét a 115–117. §-ok előírásai szerint kell megállapítani.
+
+### Egyéb speciális rendelkezések
+
+114/H. § (1) Az IFRS-ek szerinti éves beszámolót készítő pénzügyi intézmény és befektetési vállalkozás minden hónap utolsó napjára vonatkozóan, továbbá a biztosító minden negyedév utolsó napjára vonatkozóan – a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank részére készített évközi jelentések (adatszolgáltatások) elkészítése céljából – köteles eszköz- és forrásszámláit, valamint költség- és eredményszámláit lezárni, azok egyenlegét megállapítani, főkönyvi kivonatot, továbbá a 0. Nyilvántartási számlák számlaosztályban kimutatott mérlegen kívüli tételekről összesítést készíteni, valamint biztosítani, hogy a kapcsolódó analitikus nyilvántartások rendelkezésre álljanak.
+
+(2) Az IFRS-ek szerinti éves beszámolót készítő hitelintézet és a hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozás a devizaeszközeit és a devizakötelezettségeit a Magyar Nemzeti Bank által közzétett, a hónap utolsó napján és az év utolsó napján érvényes hivatalos devizaárfolyamon köteles értékelni minden hónap utolsó napján és a mérlegfordulónapi értékelés során.
+
+(3) Az IFRS-ek szerinti éves beszámolót készítő pénzügyi vállalkozás és biztosító a devizaeszközeit és a devizakötelezettségeit a Magyar Nemzeti Bank által közzétett, a negyedév utolsó napján és az év utolsó napján érvényes hivatalos devizaárfolyamon köteles értékelni minden negyedév utolsó napján és a mérlegfordulónapi értékelés során.
 
 ### VI. Fejezet — ÖSSZEVONT (KONSZOLIDÁLT) ÉVES BESZÁMOLÓ
 
@@ -2491,16 +2687,16 @@ kell elszámolni, és annak megfelelően kell az eredménylevezetés tételeiben
 
 (6) Az összevont (konszolidált) kiegészítő melléklet készítése során nem kötelező alkalmazni a 91. § b) és c) pontjában, a 92. § (2) bekezdésében rögzített előírásokat.
 
-(7) Az összevont (konszolidált) éves beszámolót a 10. § (2)–(3) bekezdése alapján a nemzetközi számviteli standardok szerint készítő vállalkozó köteles az összevont (konszolidált) éves beszámoló
+(7) Az összevont (konszolidált) éves beszámolót a 10. § (2)–(3) bekezdése alapján az IFRS-ek szerint készítő vállalkozó köteles az összevont (konszolidált) éves beszámoló
 
-- a) kiegészítő mellékletében bemutatni a nemzetközi számviteli standardok alkalmazásának első üzleti évében a bázis évi összevont (konszolidált) éves beszámoló adatainak a nemzetközi számviteli standardok szerinti mérlegbe és eredménykimutatásba való átrendezését, valamint annak az eredményre gyakorolt hatását;
-- b) kiegészítő mellékletében vagy az összevont (konszolidált) éves beszámoló önálló részeként bemutatni számviteli politikájának a nemzetközi számviteli standardok szerint készített összevont (konszolidált) éves beszámolójára vonatkozó főbb szabályait, így különösen:
+- a) kiegészítő mellékletében bemutatni az IFRS-ek alkalmazásának első üzleti évében a bázis évi összevont (konszolidált) éves beszámoló adatainak az IFRS-ek szerinti mérlegbe és eredménykimutatásba való átrendezését, valamint annak az eredményre gyakorolt hatását;
+- b) kiegészítő mellékletében vagy az összevont (konszolidált) éves beszámoló önálló részeként bemutatni számviteli politikájának az IFRS-ek szerint készített összevont (konszolidált) éves beszámolójára vonatkozó főbb szabályait, így különösen:
   - ba) az összevont (konszolidált) éves beszámoló részeit,
   - bb) az összevont (konszolidált) éves beszámolóban alkalmazott mérleg- és eredménykimutatás-tagolást, valamint a tételek tartalmát,
   - bc) a kapcsolt vállalkozási kör meghatározását,
   - bd) az alkalmazott konszolidációs módszereket,
   - be) az alkalmazott értékelési eljárásokat és azok feltételeit,
-  - bf) a nemzetközi számviteli standardok által adott választási lehetőségek közül alkalmazott szabályokat,
+  - bf) az IFRS-ek által adott választási lehetőségek közül alkalmazott szabályokat,
   - bg) a konszolidációnál alkalmazott mentesítéseket.
 
 ### Összevont (konszolidált) üzleti jelentés
@@ -2562,7 +2758,7 @@ kell elszámolni, és annak megfelelően kell az eredménylevezetés tételeiben
 
 (3) Az (1) bekezdés alkalmazásában bármely anyavállalat nyersanyag-kitermelő iparágban működő vagy természetes erdők fakitermelésével foglalkozó anyavállalatnak minősül, ha bármely leányvállalata a nyersanyag-kitermelő iparágban működik vagy a természetes erdők fakitermelésével foglalkozik. Az ilyen anyavállalatnak az (1) bekezdés szerinti jelentésében csak a kitermelési tevékenységével, illetve a természetes erdők fakitermelési tevékenységével összefüggő összegeket kell bemutatnia.
 
-(4) Mentesül az (1) bekezdés szerinti kötelezettség alól az az anyavállalatnak minősülő vállalkozás, amelynek összevont (konszolidált) adatai két egymást követő üzleti évben a mérleg fordulónapján a következő, a nagyságot jelző három mutatóérték közül bármelyik kettő meghaladja az alábbi határértéket:
+(4) Mentesül az (1) bekezdés szerinti kötelezettség alól az az anyavállalatnak minősülő vállalkozás, amelynek összevont (konszolidált) adatai két egymást követő üzleti évben a mérleg fordulónapján a következő, a nagyságot jelző három mutatóérték közül bármelyik kettő nem haladja meg az alábbi határértéket:
 
 - a) a mérlegfőösszeg a 6000 millió forintot,
 - b) az éves nettó árbevétel a 12 000 millió forintot,
@@ -2630,7 +2826,7 @@ tartalmazza.
 
 (8) A (4) bekezdés a) pontja szerinti könyv szerinti értéket az átalakuló gazdasági társaság e törvény szerinti beszámolója mérlegére vonatkozó előírásoknak megfelelően kell meghatározni, azzal, hogy a vagyonmérlegben az értékhelyesbítés és az értékhelyesbítés értékelési tartaléka, valamint az értékelési különbözet és a valós értékelés értékelési tartaléka nem szerepelhet, továbbá az adózott eredményt az eredménytartalékba át kell vezetni.
 
-(9) A vagyonmérleget (mind a vagyonmérleg-tervezetet, mind a végleges vagyonmérleget) és az azt alátámasztó vagyonleltárt (mind a vagyonleltár-tervezetet, mind a végleges vagyonleltárt) könyvvizsgálóval kell ellenőriztetni. Az átalakulás számviteli bizonylata a könyvvizsgáló által hitelesített vagyonmérleg.
+(9) A vagyonmérleget (mind a vagyonmérleg-tervezetet, mind a végleges vagyonmérleget) és az azt alátámasztó vagyonleltárt (mind a vagyonleltár-tervezetet, mind a végleges vagyonleltárt) könyvvizsgálóval kell ellenőriztetni. A könyvvizsgálat célja annak megállapítása, hogy a vagyonmérleg-tervezetet és vagyonmérleget, valamint az azt alátámasztó vagyonleltár-tervezetet és vagyonleltárt a 136–143. § szerint állították-e össze. Az átalakulás számviteli bizonylata a könyvvizsgáló által hitelesített vagyonmérleg.
 
 (10) Beolvadásos kiválás és beolvadásos különválás esetén a vagyonmérlegek (az azokat alátámasztó vagyonleltárak) elkészítése során a kiválás és a különválás szabályai mellett a beolvadás szabályait is megfelelően alkalmazni kell.
 
@@ -2676,7 +2872,7 @@ tartalmazza.
 
 (4) Az átalakulással létrejövő gazdasági társaság vagyonmérleg-tervezetének ,,különbözetek'' oszlopában kell kimutatni egyesülés esetén a jogutód gazdasági társaság jegyzett tőkéjének meghatározása során figyelembe nem vehető részesedések (részvények, törzsbetétek) jogelőd gazdasági társaság vagyonmérleg-tervezete szerinti értékét az eszközök, illetve a saját tőke csökkenéseként (a névértéknek megfelelő összeget a jegyzett tőke csökkenéseként, a névérték és a vagyonmérleg-tervezet szerinti eszközérték különbözetét az eredménytartalék változásaként). A ,,különbözetek'' oszlop szolgál a törvényben külön nem nevesített egyéb tételek rendezésére is.
 
-(5) Egyesülés esetén az átalakulással létrejövő gazdasági társaság vagyonmérleg-tervezetében a ,,különbözetek'' oszlopban kell kiszűrni az egyesülő (jogelőd) gazdasági társaságok vagyonmérleg-tervezeteiben szereplő, egymással szemben fennálló követelések-kötelezettségek tételeit a követelések és a kötelezettségek, illetve az időbeli elhatárolások csökkentésével, valamint ezen követelések és kötelezettségek, illetve az időbeli elhatárolások értékeinek különbözetével a saját tőkét kell (az eredménytartalék változásaként) módosítani.
+(5) Egyesülés esetén az átalakulással létrejövő gazdasági társaság vagyonmérleg-tervezetében a ,,különbözetek'' oszlopban kell kiszűrni az egyesülő (jogelőd) gazdasági társaságok vagyonmérleg-tervezeteiben szereplő, egymással szemben fennálló követelések-kötelezettségek tételeit a követelések és a kötelezettségek, céltartalékok, illetve az időbeli elhatárolások csökkentésével, valamint ezen követelések és kötelezettségek, céltartalékok, illetve az időbeli elhatárolások értékeinek különbözetével a saját tőkét kell (az eredménytartalék változásaként) módosítani.
 
 (6) Az átalakulással létrejövő gazdasági társaság(ok) 138. § (1) bekezdése szerinti mérlegfordulónapra elkészített vagyonmérleg-tervezetét (azonos mérlegfordulónappal) tételes adatokat tartalmazó vagyonleltár-tervezettel kell alátámasztani.
 
@@ -2704,7 +2900,7 @@ tartalmazza.
 
 (4) Az átalakulással létrejövő gazdasági társaság végleges vagyonmérlegében kimutatott saját tőke és a vagyonmérleg-tervezetében kimutatott saját tőke különbözetének összegével – a változás tartalmának és előjelének megfelelően – a tőketartalékot, az eredménytartalékot, illetve a lekötött tartalékot kell módosítani a végleges vagyonmérlegben. A tőketartalék módosítása során, ha emiatt a tőketartalék negatívvá válna, a tőketartalék pozitív összegéig a tőketartalékot, azt meghaladóan az eredménytartalékot kell csökkenteni.
 
-(5) Ha az átalakulással létrejövő gazdasági társaság végleges vagyonmérlege szerinti saját tőke – 140. § (3) bekezdése szerinti lekötött tartalékkal csökkentett, illetve a (7) bekezdés szerinti jegyzett, de még be nem fizetett tőkeként kimutatott összeggel növelt – összege nem éri el a vagyonmérleg-tervezete szerinti (a cégbíróságon bejegyzett) jegyzett tőke értékét, a jegyzett tőkét le kell szállítani.
+(5) A jegyzett tőkét le kell szállítani az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló 2013. évi CLXXVI. törvény 11. § (2) bekezdésének megfelelően, ha az átalakulással létrejövő gazdasági társaság végleges vagyonmérlege szerinti saját tőkéjének – a 140. § (3) bekezdése szerinti lekötött tartalékkal csökkentett, illetve a (7) bekezdés szerinti jegyzett, de még be nem fizetett tőkeként kimutatott összeggel növelt – összege nem éri el a vagyonmérleg-tervezete szerinti (a cégbíróságon bejegyzett) jegyzett tőke összegét.
 
 (6)
 
@@ -2712,7 +2908,7 @@ tartalmazza.
 
 (8) Ha a cégbíróság az átalakulás cégbejegyzését elutasítja (megtagadja), vagy a bejegyzési kérelem visszavonása miatt a cégbejegyzési eljárást megszünteti, az átalakulni kívánó gazdasági társaság a korábbi formájában működik tovább, végleges vagyonmérleget nem kell készítenie, az e törvény szerinti könyvviteli nyilvántartásában a meghiúsult átalakulással kapcsolatosan tételek nem szerepelhetnek.
 
-(9) Gazdasági társaság beolvadása esetén az átvevő (beolvasztó) gazdasági társaságnál a beolvadás során az átvett eszközök és az átvállalt kötelezettségek (ideértve az időbeli elhatárolások, céltartalékok összegeit is) állományba vett – a megszűnt gazdasági társaság végleges vagyonmérlege szerinti – értékének különbözetével a saját tőkét kell a létesítő okiratnak megfelelően módosítani. A saját tőke módosítása során – az előbbieken túlmenően – a 139. § (4) bekezdése szerinti, a jegyzett tőke meghatározásánál figyelembe nem vehető részesedések értékét, valamint a 139. § (5) bekezdése szerinti, az egymással szemben fennálló követelések és kötelezettségek, időbeli elhatárolások értékeinek különbözetét a saját tőkével szemben kell kivezetni.
+(9) Gazdasági társaság beolvadása esetén az átvevő (beolvasztó) gazdasági társaságnál a beolvadás során az átvett eszközök és az átvállalt kötelezettségek (ideértve az időbeli elhatárolások, céltartalékok összegeit is) állományba vett – a megszűnt gazdasági társaság végleges vagyonmérlege szerinti – értékének különbözetével a saját tőkét kell a létesítő okiratnak megfelelően módosítani. A saját tőke módosítása során – az előbbieken túlmenően – a 139. § (4) bekezdése szerinti, a jegyzett tőke meghatározásánál figyelembe nem vehető részesedések értékét, valamint a 139. § (5) bekezdése szerinti, az egymással szemben fennálló követelések és kötelezettségek, céltartalékok, időbeli elhatárolások értékeinek különbözetét a saját tőkével szemben kell kivezetni.
 
 142–143. §
 
@@ -2898,11 +3094,11 @@ a különbözettel.
 
 (14) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvénytől eltérően, ha a nyilvántartásba vételt végző szervezet az engedély megadásáról a rá irányadó ügyintézési határidőn belül nem hozott határozatot, akkor a kérelmezőt nem illeti meg a kérelmezett tevékenység megkezdésének, illetve folytatásának joga, és a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a hatóság mulasztására vonatkozó általános szabályait kell alkalmazni.
 
-151/A. § (1) A könyvviteli szolgáltatás végzésére jogosító engedély kiadása iránti kérelem benyújtásával egyidejűleg a kérelmező hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, valamint nem áll a könyvviteli szolgáltatás gyakorlását kizáró foglalkozástól eltiltás hatálya alatt, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a nyilvántartásba vételt végző szervezet részére – annak a könyvviteli szolgáltatás végzésére jogosító engedély kiadása iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a nyilvántartásba vételt végző szervezet a (2) bekezdésben meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől.
+151/A. § (1)
 
 (2) A nyilvántartásba vételt végző szervezet az engedélyhez kötött könnyviteli szolgáltatás gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt, hogy a könyvviteli szolgáltatás végzésére jogosító engedéllyel rendelkező személy büntetlen előéletű, és nem áll a könyvviteli szolgáltatás gyakorlását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzést folytató nyilvántartásba vételt végző szervezet adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a könyvviteli szolgáltatás végzésére jogosító engedéllyel rendelkező személy büntetlen előéletű-e, valamint a könyvviteli szolgáltatás gyakorlását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
 
-(3) Az (1) és (2) bekezdés alapján megismert személyes adatokat a nyilvántartásba vételt végző szervezet
+(3) A (2) bekezdés alapján megismert személyes adatokat a nyilvántartásba vételt végző szervezet
 
 - a) a könyvviteli szolgáltatás végzésére jogosító engedély kiadása iránti eljárás jogerős befejezéséig vagy
 - b) a könyvviteli szolgáltatás végzésére jogosító engedély kiadása esetén a hatósági ellenőrzés időtartamára vagy az engedély visszavonására irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
@@ -3089,7 +3285,7 @@ a különbözettel.
 
 158. § (1)–(4)
 
-(5) Amennyiben az összevont (konszolidált) éves beszámolót a 10. § (2) vagy (3) bekezdése alapján, a nemzetközi számviteli standardoknak megfelelően állították össze, úgy erre a könyvvizsgálói záradékban is megfelelően utalni kell.
+(5) Amennyiben az éves beszámolót, az összevont (konszolidált) éves beszámolót – a 9/A. §, valamint a 10. § (2) és (3) bekezdése alapján – az IFRS-ek szerint állították össze, úgy erre a könyvvizsgálói záradékban is megfelelően utalni kell.
 
 (6) Kötelező könyvvizsgálat esetén a könyvvizsgáló által ellenőrzött éves beszámoló, egyszerűsített éves beszámoló, összevont (konszolidált) éves beszámoló a független könyvvizsgálói jelentéssel együtt terjeszthető a legfőbb szerv (a részvénytársaság közgyűlése, a korlátolt felelősségű társaság taggyűlése) elé.
 
@@ -3434,12 +3630,24 @@ a képesítés megszerzését megelőző számviteli, pénzügyi, ellenőrzési 
 
 (47) A 2016. évben induló üzleti év nyitó adatai között nyilvántartott, a számvitelről szóló 2000. évi C. törvény, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2015. évi CI. törvény hatálybalépését megelőző napon hatályos rendelkezések szerint képzett elhatárolt rendkívüli bevételeket és ráfordításokat a számvitelről szóló 2000. évi C. törvény, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2015. évi CI. törvénnyel módosított 77. § (4a) bekezdése, 84. § (2a), (3a) és (8) bekezdése szerint kell feloldani.
 
+(48) E törvénynek a számvitelről szóló 2000. évi C. törvény, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2015. évi CI. törvénnyel módosított 52. § (4) bekezdése hatálybalépését megelőző napon hatályos 3. § (5) bekezdés 1. pont a) alpontja szerint keletkezett és a 2016. évi üzleti év nyitó adatai között kimutatott üzleti vagy cégértékre, valamint a 124. § (8) bekezdése a) pontja szerint keletkezett és 2016. évi üzleti év nyitó adatai között kimutatott aktív tőkekonszolidációs különbözetre e törvénynek a számvitelről szóló 2000. évi C. törvény, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2015. évi CI. törvénnyel módosított 52. § (4) bekezdése helyett az üzleti vagy cégérték, valamint az aktív tőkekonszolidációs különbözet nyilvántartásba vételének napján hatályos rendelkezéseket is alkalmazni lehet.
+
+(49) A (46) bekezdés alkalmazása során, amennyiben a kapcsolódó részesedés könyv szerinti értéke kisebb, mint a 2016. évi üzleti év nyitó adatai között kimutatott negatív üzleti vagy cégérték könyv szerinti értéke, úgy az összevezetés után fennmaradó negatív üzleti vagy cégértékre e törvénynek a számvitelről szóló 2000. évi C. törvény, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2015. évi CI. törvénnyel módosított 45. § (4) bekezdése helyett az üzleti vagy cégérték nyilvántartásba vételének napján hatályos rendelkezéseket is alkalmazni lehet.
+
+(50) A (46) bekezdés alkalmazása során, amennyiben a 2016. évi üzleti év nyitó adatai között kimutatott üzleti vagy cégértékhez, illetve negatív üzleti vagy cégértékhez kapcsolódóan részesedés már nincs kimutatva, akkor az üzleti vagy cégértékre, illetve a negatív üzleti vagy cégértékre e törvénynek a számvitelről szóló 2000. évi C. törvény, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2015. évi CI. törvénnyel módosított 52. § (4) bekezdése, illetve 45. § (4) bekezdése helyett az üzleti vagy cégérték nyilvántartásba vételének napján hatályos rendelkezéseket is alkalmazni lehet.
+
+(51) E törvénynek a nemzetközi pénzügyi beszámolási standardok egyedi beszámolási célokra történő hazai alkalmazásának bevezetéséhez kapcsolódó, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2015. évi CLXXVIII. törvénnyel megállapított 6. § (6) bekezdését, 4. § (1) bekezdésével megállapított 9/A. §-át, V/A. Fejezetét először a 2016. évben induló üzleti évről készített éves beszámolóra kell alkalmazni.
+
+(52) E törvénynek a nemzetközi pénzügyi beszámolási standardok egyedi beszámolási célokra történő hazai alkalmazásának bevezetéséhez kapcsolódó, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2015. évi CLXXVIII. törvénnyel megállapított 77. § (3) bekezdés e) pontját és a 97. § (1) és (2) bekezdését a 2015. évben induló üzleti évről készített éves beszámolóra is alkalmazni lehet.
+
+(53) Annak a vállalkozónak, amely az IFRS-eket a 2016. évben induló üzleti évről készített éves beszámolóra alkalmazza először, a 114/C. § (4) bekezdése szerinti bejelentést az áttérés napját követő 15 napon belül kell megtennie.
+
 ### Felhatalmazás
 
 178. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben szabályozza:
 
 - a) az államháztartás szervezetei beszámoló készítését, könyvvezetési kötelezettségét, a beszámolás és a könyvvezetés során érvényesítendő sajátos fogalmi meghatározásokat, figyelemmel az államháztartásról szóló törvényben foglaltakra;
-- b) a Magyar Nemzeti Bank, a hitelintézetek, a pénzügyi vállalkozások, a befektetési vállalkozások, a biztosítók (ideértve a viszontbiztosítókat is), a tőzsde, az elszámolóházi tevékenységet végző szervezet, a befektetési alapok, az egyéb alapok, a foglalkoztatói nyugdíjszolgáltató intézmények éves beszámoló készítésének és könyvvezetésének sajátosságait a Magyar Nemzeti Bank előzetes véleményének kikérésével;
+- b) a Magyar Nemzeti Bank, a hitelintézetek, a pénzügyi vállalkozások, a befektetési vállalkozások, a biztosítók (ideértve a viszontbiztosítókat is), a tőzsde, a központi értéktári, a központi szerződő fél tevékenységet végző szervezet, a befektetési alapok, az egyéb alapok, a foglalkoztatói nyugdíjszolgáltató intézmények éves beszámoló készítésének és könyvvezetésének sajátosságait a Magyar Nemzeti Bank előzetes véleményének kikérésével;
 - c) a 3. § (1) bekezdésének 4. pontja szerinti – a b) pont alá nem tartozó – egyéb szervezetek beszámoló készítésének és könyvvezetésének sajátosságait;
 - d) a mérlegképes könyvelői szakképesítéssel rendelkezők, valamint az okleveles könyvvizsgálói szakképesítéssel rendelkező nem kamarai tagok könyvviteli szolgáltatási tevékenysége engedélyezésének és az engedély visszavonásának, a könyvviteli szolgáltatás végzésére jogosultak nyilvántartásba vételének és a nyilvántartásból való törlésének, a 152/B. § szerinti bejelentésnek és a határon átnyúló könyvviteli szolgáltatást végzők nyilvántartásba vételének és a nyilvántartásból való törlésének részletes szabályait, a nyilvántartásba vételt végző szervezet kijelölését, a kötelező szakmai továbbképzés és a szakmai továbbképzés ellenőrzésének részletes szabályait, továbbá a továbbképzés szervezésére és lebonyolítására jelentkező szervezetek akkreditációs eljárásának és a kreditpont-minősítési eljárásnak a részletes szabályait;
 - e) a nemzeti számviteli standardok készítésének, kidolgozásának feltételeit, a standardok elfogadásának, bevezetésének, hatályba léptetésének követelményeit;
@@ -4287,7 +4495,7 @@ Korrekciós tételek, amelyeket figyelembe kell venni (a felsorolás nem teljes 
 
 6. Az egyéb sorokon kimutatott eszköz állományváltozásokat (a befektetési cash flow-val, a finanszírozási cash flow-val kapcsolatos tételek kivételével) növekedés esetén negatív előjellel, csökkenés esetén pozitív előjellel kell figyelembe venni, a forrás állományváltozásokat (a befektetési cash flow-val, a finanszírozási cash flow-val kapcsolatos tételek kivételével) pedig növekedés esetén pozitív előjellel, csökkenés esetén negatív előjellel kell beállítani.
 
-7. A ,,13. Fizetett (fizetendő) osztalék, részesedés'' sorban az adott időszak után fizetett (fizetendő, a mérlegkészítés időpontjáig ismertté vált) osztalék, részesedés és a kamatozó részvények után fizetett (fizetendő) kamat összegét kell kimutatni.
+7. A ,,13. Fizetett (fizetendő) osztalék, részesedés'' sorban az adott időszak után fizetett (fizetendő) osztalék, részesedés és a kamatozó részvények után fizetett (fizetendő) kamat összegét kell kimutatni.
 
 8. A ,,14. Befektetett eszközök beszerzése'' sorban az adott időszakban beszerzett befektetett eszközök pénzügyileg rendezett beszerzési értékét kell kimutatni.
 

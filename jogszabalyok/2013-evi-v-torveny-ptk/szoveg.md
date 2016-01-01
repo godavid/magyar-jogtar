@@ -1325,7 +1325,7 @@ Az egyesület alapszabálya vagy a jogvitában érintett személyek megállapod�
 
 (1) A gazdasági társaságok üzletszerű közös gazdasági tevékenység folytatására, a tagok vagyoni hozzájárulásával létrehozott, jogi személyiséggel rendelkező vállalkozások, amelyekben a tagok a nyereségből közösen részesednek, és a veszteséget közösen viselik.
 
-(2) A társaság nyeresége a tagokat vagyoni hozzájárulásuk arányában illeti meg, és a veszteséget is ilyen arányban kell viselniük. A társaság a tag részére tárgyévi adózott eredménye, illetve szabad eredménytartaléka terhére teljesíthet kifizetést vagy más vagyoni szolgáltatást. Semmis a létesítő okirat azon rendelkezése, amely valamely tagot a nyereségből vagy a veszteség viseléséből teljesen kizár.
+(2) A társaság nyeresége a tagokat vagyoni hozzájárulásuk arányában illeti meg, és a veszteséget is ilyen arányban kell viselniük. A társaság a tag részére az előző üzleti évi adózott eredménnyel kiegészített szabad eredménytartaléka terhére teljesíthet kifizetést vagy más vagyoni szolgáltatást. Semmis a létesítő okirat azon rendelkezése, amely valamely tagot a nyereségből vagy a veszteség viseléséből teljesen kizár.
 
 (3) A tag a többi taggal és a társaság szerveivel köteles együttműködni, nem fejthet ki olyan tevékenységet, amely a társaság céljainak elérését veszélyezteti.
 
@@ -2059,7 +2059,7 @@ esetén osztható fel.
 
 #### 3:184. § [A tag javára történő kifizetések]
 
-(1) A társaság saját tőkéjéből a tagok javára, azok tagsági jogviszonyára figyelemmel kifizetést a társaság fennállása során kizárólag az e törvényben meghatározott esetekben és – a törzstőke leszállításának esetét kivéve – a tárgyévi adózott eredményből, illetve a szabad eredménytartalékkal kiegészített tárgyévi adózott eredményből teljesíthet. Nem kerülhet sor kifizetésre, ha a társaság helyesbített saját tőkéje nem éri el vagy a kifizetés következtében nem érné el a társaság törzstőkéjét, továbbá, ha a kifizetés veszélyeztetné a társaság fizetőképességét.
+(1) A társaság saját tőkéjéből a tagok javára, azok tagsági jogviszonyára figyelemmel kifizetést a társaság fennállása során kizárólag az e törvényben meghatározott esetekben és – a törzstőke leszállításának esetét kivéve – az előző üzleti évi adózott eredménnyel kiegészített szabad eredménytartalékból teljesíthet. Nem kerülhet sor kifizetésre, ha a társaság helyesbített saját tőkéje nem éri el vagy a kifizetés következtében nem érné el a társaság törzstőkéjét, továbbá, ha a kifizetés veszélyeztetné a társaság fizetőképességét.
 
 (2) A pénzbeli és a nem pénzbeli vagyoni értékű juttatás egyaránt kifizetésnek minősül.
 
@@ -2078,7 +2078,7 @@ esetén osztható fel.
 (1) A taggyűlés két, egymást követő beszámoló elfogadása közötti időszakban osztalékelőleg fizetéséről határozhat, ha
 
 - a) közbenső mérleg alapján megállapítható, hogy a társaság rendelkezik osztalék fizetéséhez szükséges fedezettel;
-- b) a kifizetés nem haladja meg az utolsó beszámoló szerinti üzleti év könyveinek lezárása óta keletkezett eredménynek a megállapított, illetve a szabad eredménytartalékkal kiegészített összegét; és
+- b) a kifizetés nem haladja meg az utolsó beszámoló szerinti üzleti év könyveinek lezárása óta kimutatott, az előző üzleti évi adózott eredménnyel kiegészített szabad eredménytartalék összegét; és
 - c) a társaságnak a helyesbített saját tőkéje a kifizetés folytán nem csökken a törzstőke összege alá.
 
 (2) Osztalékelőleg fizetésére az ügyvezető tesz javaslatot. Ha a társaságnál felügyelőbizottság működik, az ügyvezető javaslatához a felügyelőbizottság jóváhagyása szükséges.
@@ -2539,7 +2539,7 @@ számított hat hónap elteltét követő első közgyűlésig ruházhatja át a
 
 (1) Az alapszabály az alaptőke tíz százalékát meg nem haladó mértékben rendelkezhet előre meghatározott mértékű kamatra jogosító részvény kibocsátásáról.
 
-(2) A kamatozó részvény tulajdonosát a részvényhez fűződő egyéb jogokon felül a részvény névértéke után a tárgyévi adózott eredményből, illetve a szabad eredménytartalékkal kiegészített tárgyévi adózott eredményből az alapszabályban meghatározott módon számított kamat illeti meg. Nem fizethető a részvényesnek kamat, ha ennek következtében a részvénytársaság saját tőkéje nem érné el a részvénytársaság alaptőkéjét.
+(2) A kamatozó részvény tulajdonosát a részvényhez fűződő egyéb jogokon felül a részvény névértéke után az előző üzleti évi adózott eredménnyel kiegészített szabad eredménytartalékból az alapszabályban meghatározott módon számított kamat illeti meg. Nem fizethető a részvényesnek kamat, ha ennek következtében a részvénytársaság saját tőkéje nem érné el a részvénytársaság alaptőkéjét.
 
 #### 3:239. § [Visszaváltható részvény]
 
@@ -2722,7 +2722,7 @@ A részvényes jogosult a közgyűlésen részt venni, felvilágosítást kérni
 
 #### 3:261. § [Részvényesek részére történő kifizetés feltételei]
 
-(1) A részvénytársaság saját tőkéjéből a részvényes javára, annak tagsági jogviszonyára figyelemmel kifizetést a részvénytársaság fennállása során az e törvényben meghatározott esetekben és – az alaptőke leszállításának esetét kivéve – a tárgyévi adózott eredményből, illetve a szabad eredménytartalékkal kiegészített tárgyévi adózott eredményből teljesíthet. Nem kerülhet sor kifizetésre, ha a részvénytársaság saját tőkéje nem éri el vagy a kifizetés következtében nem érné el a részvénytársaság alaptőkéjét, továbbá ha a kifizetés veszélyeztetné a társaság fizetőképességét.
+(1) A részvénytársaság saját tőkéjéből a részvényes javára, annak tagsági jogviszonyára figyelemmel kifizetést a részvénytársaság fennállása során az e törvényben meghatározott esetekben és – az alaptőke leszállításának esetét kivéve – az előző üzleti évi adózott eredménnyel kiegészített szabad eredménytartalékból teljesíthet. Nem kerülhet sor kifizetésre, ha a részvénytársaság saját tőkéje nem éri el vagy a kifizetés következtében nem érné el a részvénytársaság alaptőkéjét, továbbá ha a kifizetés veszélyeztetné a társaság fizetőképességét.
 
 (2) Az (1) bekezdés alkalmazásában kifizetésnek minősül minden pénzbeli és nem pénzbeli vagyoni juttatás, kivéve az ingyenesen vagy kedvezményesen juttatott dolgozói részvény, valamint az alaptőkén felüli vagyon alaptőkévé alakításával felemelt alaptőkéből ellenérték nélkül juttatott részvény juttatása.
 
@@ -2745,7 +2745,7 @@ A részvényes jogosult a közgyűlésen részt venni, felvilágosítást kérni
 (1) A közgyűlés vagy az alapszabály felhatalmazása alapján az igazgatóság két, egymást követő beszámoló elfogadása közötti időszakban osztalékelőleg fizetéséről határozhat, ha
 
 - a) a közbenső mérleg alapján megállapítható, hogy a társaság rendelkezik osztalék fizetéséhez szükséges fedezettel;
-- b) a kifizetés nem haladja meg az utolsó beszámoló szerinti üzleti év könyveinek lezárása óta keletkezett eredménynek a megállapított, illetve a szabad eredménytartalékkal kiegészített összegét; és
+- b) a kifizetés nem haladja meg az utolsó beszámoló szerinti üzleti év könyveinek lezárása óta kimutatott, az előző üzleti évi adózott eredménnyel kiegészített szabad eredménytartalék összegét; és
 - c) a társaságnak a helyesbített saját tőkéje a kifizetés folytán nem csökken az alaptőke összege alá.
 
 (2) Osztalékelőleg fizetéséről az igazgatóság javaslata alapján lehet határozni. Ha a társaságnál felügyelőbizottság működik, az igazgatóság javaslatához a felügyelőbizottság jóváhagyása szükséges.

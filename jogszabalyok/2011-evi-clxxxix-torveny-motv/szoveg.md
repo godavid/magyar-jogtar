@@ -137,6 +137,10 @@ elnevezés.
 
 (4) Települések egyesítése, területrész átadása, a kerület határainak megváltoztatása után szükség esetén átnevezéssel kell gondoskodni arról, hogy az új település közterületnevei megfeleljenek a (2) és (3) bekezdésben meghatározott követelményeknek.
 
+(5) Minden házszámmal ellátott épületen a tulajdonosnak fel kell tüntetnie a házszámot.
+
+(6) Minden, az (1) bekezdés szerint elnevezett közterületet az elnevezése feltüntetésével kell megjelölni.
+
 15. § A helyi önkormányzat feladat- és hatásköreinek ellátása során – törvényben meghatározott módon és mértékben – biztosítja a közfoglalkoztatási jogviszonyban lévő személy feladatellátásba történő bevonását.
 
 16. § (1) Ha az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettség határideje eredménytelenül telt el, vagy a határidőben történő teljesítés elmaradásának reális veszélye fennáll, a Kormány a kötelezettséggel összefüggő beruházás megvalósításáról saját hatáskörben gondoskodhat. A Kormány a beruházás saját hatáskörben történő megvalósításáról egyedi határozatban dönt.

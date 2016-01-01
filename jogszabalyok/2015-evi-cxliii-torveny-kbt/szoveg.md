@@ -1885,7 +1885,7 @@ ha álláspontja szerint egészben vagy részben jogsértő az eljárást megind
 - b) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény alapján gyermekotthonban, illetve lakásotthonban elhelyezett gyermekek teljes ellátására, illetve utógondozói ellátásban részesülők, valamint a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 59–85/A. §-ában szabályozott szociális szolgáltatások körében ellátottak teljes ellátására szolgáló árubeszerzés és szolgáltatás megrendelése esetén;
 - c) a 3. melléklet szerinti szállodai és éttermi szolgáltatásokra, a 79995000-5-től 79995200-7-ig tartó CPV kódok által meghatározott könyvtárkezelési szolgáltatásokra, a 92000000-1-től 92700000-8-ig tartó CPV kódok által meghatározott, a pihenés, kultúra és sport területén nyújtott szolgáltatásokra, valamint a jogi szolgáltatásokra;
 - d) a 3. melléklet szerinti bármely szolgáltatásra, ha annak becsült értéke a tizennyolcmillió forintot nem éri el;
-- e) külügyi segélyezés keretében humanitárius segítségnyújtás céljából, válságkezelés során történő beszerzésre, amelynek vonatkozásában az Országgyűlés illetékes bizottsága e törvény alkalmazását kizáró előzetes döntést hozott;
+- e) nemzetközi fejlesztési együttműködési és nemzetközi humanitárius segítségnyújtási tevékenység keretében történő beszerzésre;
 - f) a hideg élelmiszer és főzési alapanyag, friss, illetve feldolgozott zöldség és gyümölcs, tej és tejtermék, gabonafélék, kenyér és pékáru, méz, tojás, kertészeti növény beszerzésére;
 - g) olyan szolgáltatás megrendelése esetében, amely az ajánlatkérő alaptevékenysége ellátásához szükséges irodalmi (szakirodalmi, tudományos) mű létrehozására, tanácsadói vagy személyi tolmácsolási tevékenység végzésére irányul;
 - h) felelős akkreditált közbeszerzési szaktanácsadói tevékenység igénybevételére;
@@ -2209,7 +2209,7 @@ rövidebb időtartamban. A több szakaszból álló eljárások részvételi sza
 
 - a) a szerződésnek a 33. § szerinti szervezet – illetve az Európai Unió más tagállamának jogi rendelkezései szerint a 2014/24/EU irányelv 20. cikke szerinti szervezet – bevonásával történő teljesítése;
 - b) az álláskeresők, hátrányos helyzetű munkavállalók, valamint munkanélküliek vagy fogvatartottak foglalkoztatása;
-- c) a gyermekgondozási segélyben, valamint gyermeknevelési támogatásban részesülő személynek az ellátás folyósítása alatt, illetve az ellátás megszűnését követően, csecsemőgondozási díjban és gyermekgondozási díjban részesülő személynek az ellátás megszűnését követően részmunkaidőben történő foglalkoztatása;
+- c) a családok támogatásáról szóló törvényben meghatározott gyermekgondozási támogatások valamelyikében részesülő személynek az ellátás folyósítása alatt, illetve az ellátás megszűnését követően, csecsemőgondozási díjban és gyermekgondozási díjban részesülő személynek az ellátás megszűnését követően részmunkaidőben történő foglalkoztatása;
 - d) az egyenlő bánásmód követelményének biztosítása érdekében teendő intézkedések előírása;
 - e) az adott szerződés teljesítése keretében a teljesítésben részt vevő munkanélküliek vagy fiatalok számára a teljesítéshez szükséges készségekre vonatkozó képzés nyújtása.
 

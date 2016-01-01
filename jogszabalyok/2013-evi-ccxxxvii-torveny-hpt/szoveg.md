@@ -298,7 +298,7 @@ azzal, hogy nem minősül versengő szolgáltatásnak a kézizálog fedezete mel
 - e) a fizetési művelet részeként a kedvezményezett által a fizető félnek történő készpénz közvetlen átadása, ha az átadást a fizető fél áruk vagy szolgáltatások ellenértékének kiegyenlítéséhez kapcsolódó fizetési művelet teljesítését közvetlenül megelőzően kifejezetten kérte (cash-back szolgáltatás),
 - f) a készpénzről készpénzre történő olyan pénzváltás, amelynél a pénz nem jelenik meg fizetési számlán,
 - g) a csekkel, a váltóval, a papír alapú utalvánnyal, az utazási csekkel és az Egyetemes Postaegyesület (UPU) által meghatározott papíralapú nemzetközi postautalvánnyal végzett fizetési művelet,
-- h) a fizetési, illetve értékpapír-elszámolási rendszeren belül a teljesítő fél, a központi szerződő fél, az elszámolóház, a központi bank, a rendszer más résztvevői, valamint a pénzforgalmi szolgáltató közötti fizetési művelet,
+- h) a fizetési, illetve értékpapír-elszámolási rendszeren belül a teljesítő fél, a központi szerződő fél, a központi bank, a rendszer más résztvevői, valamint a pénzforgalmi szolgáltató közötti fizetési művelet,
 - i) a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) szerinti értékpapír letétkezelésével összefüggő fizetési művelet,
 - j) a pénzforgalmi szolgáltatást támogató (járulékos) technikai szolgáltatás, ha ennek szolgáltatója nem rendelkezhet a fizetési művelet tárgyát képező pénzzel, valamint nem válhat a fizetési művelet tárgyát képező pénz birtokosává, ideértve az adatfeldolgozást, az adatok tárolását, hitelesítését, az információtechnológiai eszközök biztosítását, valamint a pénzforgalmi szolgáltatáshoz használt terminálok és eszközök biztosítását és karbantartását is,
 - k) az olyan eszközökön alapuló szolgáltatások, amelyek kizárólag a kibocsátó által használt létesítményekben vagy a kibocsátóval kötött megállapodás alapján a szolgáltatók korlátozott körű hálózatában vagy korlátozott körű áruk vagy szolgáltatások ellenértékének kiegyenlítésére használhatóak,
@@ -326,13 +326,13 @@ azzal, hogy nem minősül versengő szolgáltatásnak a kézizálog fedezete mel
 (3) A pénzügyi intézmény, ha törvény másként nem rendelkezik, pénzügyi szolgáltatáson kívül üzletszerűen kizárólag:
 
 - a) a 3. § (2) bekezdés a)–d) pontjában meghatározott kiegészítő pénzügyi szolgáltatási tevékenységet,
-- b) a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvényben (a továbbiakban: Bit.) foglalt feltételekkel biztosításközvetítői tevékenységet,
+- b) a biztosítási tevékenységről szóló törvényben foglalt feltételekkel biztosításközvetítői tevékenységet,
 - c) Tpt.-ben meghatározott feltételekkel értékpapír-kölcsönzést, részvényesi meghatalmazotti (nominee) tevékenységet, Bszt.-ben meghatározott feltételekkel befektetési szolgáltatási tevékenységet, befektetési szolgáltatási tevékenységet kiegészítő szolgáltatást, valamint a Bszt. 111–116. §-a szerinti közvetítői tevékenységet és árutőzsdei szolgáltató által végezhető tevékenységet,
 - d) aranykereskedelmi ügyletet,
 - e) részvénykönyvvezetést,
 - f) az elektronikus aláírásról szóló 2001. évi XXXV. törvény 6. § (1) bekezdésében foglalt szolgáltatást,
 - g) a hallgatói hitelrendszerről szóló kormányrendeletben meghatározott Diákhitel szervezet hitelezési tevékenységének elősegítése érdekében végzett tevékenységet,
-- h) az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 11/A. §-ában foglalt feltételekkel tagszervezési tevékenységet,
+- h) az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény (a továbbiakban: Öpt.) 11/A. §-ában foglalt feltételekkel tagszervezési tevékenységet,
 - i) a pénzügyi szolgáltatásból származó veszteség mérséklése, illetve elhárítása érdekében fedezet, illetve biztosíték hasznosítására vagy az értékesítésben való közreműködésre irányuló tevékenységet,
 - j) követelések megbízás alapján történő kezelésére, behajtására irányuló tevékenységet,
 - k) pénzügyi eszközre vonatkozó adat-, információértékesítést,
@@ -1154,6 +1154,12 @@ szükséges sorolni azzal, hogy e követelések a követelések arányában ker�
 
 (3) A pénzügyi szolgáltatási tevékenységet végző az (1) és (2) bekezdésben foglaltakat székhely-, telephelyváltozás esetén, valamint a pénzügyi szolgáltatási tevékenység módosításakor is biztosítja.
 
+67/A. § (1) A pénzügyi szolgáltatói tevékenység – a kiegészítő pénzügyi szolgáltatás kivételével – végzésére csak olyan informatikai rendszer felhasználásával kerülhet sor, amely biztosítja a rendszerelemek zártságát, és megakadályozza az informatikai rendszerhez történő jogosulatlan hozzáférést, valamint észrevétlen módosítását. Az informatikai rendszernek meg kell felelnie az általános információbiztonsági zártsági követelményeknek is. Ennek érdekében a hitelintézetnek adminisztratív, fizikai és logikai intézkedésekkel biztosítania kell az általános információbiztonsági zártsági követelmények teljesülését.
+
+(2) Az (1) bekezdésben meghatározott követelményeknek való megfelelést külső szakértő (a továbbiakban: tanúsító szervezet) által kiadott, az informatikai rendszerre vonatkozó tanúsítással kell igazolni. A tanúsító szervezettel és a tanúsítással szemben támasztott követelményeket külön jogszabály határozza meg.
+
+(3) A (2) bekezdés szerinti tanúsító szervezet írásban haladéktalanul tájékoztatja a Felügyeletet, ha a hitelintézet informatikai rendszerével kapcsolatosan olyan tényt állapít meg, amely a hitelintézet folyamatos működését kedvezőtlenül érinti vagy bűncselekmény elkövetésére, jogszabály megsértésére vagy a hitelintézet belső szabályzatának súlyos megsértésére vagy ezek veszélyére utaló körülményeket észlel.
+
 #### 28. Kiszervezés
 
 68. § (1) A hitelintézet pénzügyi és kiegészítő pénzügyi szolgáltatási tevékenységéhez kapcsolódó, illetve jogszabály által végezni rendelt olyan tevékenységét, amelynek során adatkezelés, adatfeldolgozás vagy adattárolás valósul meg, az adatvédelmi előírások betartása mellett kiszervezheti.
@@ -1404,7 +1410,7 @@ a büntetett előélet jogkövetkezménye alóli mentesülésig,
 
 #### 38. Általános tartalékképzés
 
-83. § (1) A hitelintézet az adózott eredményéből az osztalék, illetve a részesedés kifizetése előtt általános tartalékot képez.
+83. § (1) A hitelintézet az adózott eredményéből általános tartalékot képez.
 
 (2) A hitelintézet a tárgyévi adózott eredmény tíz százalékát általános tartalékba helyezi.
 
@@ -1415,6 +1421,8 @@ a büntetett előélet jogkövetkezménye alóli mentesülésig,
 (5) A hitelintézet az általános tartalékot csak a tevékenységéből eredő veszteségek rendezésére használhatja fel.
 
 (6) A hitelintézet a rendelkezésre álló eredménytartalékot az általános tartalékba részben vagy egészben átcsoportosíthatja.
+
+(7) Amennyiben a hitelintézet az Szmt. 3. § (10) bekezdés 2. pontjában meghatározott IFRS-ek szerint állítja össze éves beszámolóját, a (2) bekezdés szerint meghatározott összeget az eredménytartalékból el kell különítenie és azt az Szmt. szerinti saját tőke megfeleltetési táblában, a 114/B. § (4) bekezdés h) pontja szerinti lekötött tartalékként kell kimutatnia.
 
 #### 39. Kockázati céltartalékképzés
 
@@ -1780,7 +1788,7 @@ kockázatot csak az e §-ban meghatározott feltételekkel vállalhat.
 
 (3) Az (1) bekezdésben meghatározott kockázatvállalás nem történhet az (1) bekezdésben meghatározott személyekre nézve kedvezőbb feltételekkel, mint a hitelintézettel az (1) bekezdésben meghatározott kapcsolatban nem álló személyekkel szembeni kockázatvállalás.
 
-(4) Az egy személlyel vagy kapcsolatban álló személyekkel szembeni kitettség értéke nem érheti el az 575/2013/EU rendeletet 392. cikke szerinti érték 80 százalékát azzal, hogy az éven túli kitettség értéke nem érheti el az 575/2013/EU rendelet 392. cikke szerinti érték 50 százalékát.
+(4) Az (1) bekezdésben meghatározott kockázatvállalásból fakadó egy személlyel vagy kapcsolatban álló személyekkel szembeni kitettség értéke nem érheti el az 575/2013/EU rendelet 392. cikke szerinti érték 80 százalékát azzal, hogy az éven túli kitettség értéke nem érheti el az 575/2013/EU rendelet 392. cikke szerinti érték 50 százalékát.
 
 (5) A (2) bekezdésben meghatározott korlátozás nem vonatkozik
 
@@ -1820,6 +1828,8 @@ a belső szabályzatban meghatározott mértékig.
 - a) a különböző hitelezési kockázatokat hordozó portfóliókat és kitettségeket nyomon követi és ellenőrzi, ideértve az olyan kitettségek azonosítását és kezelését, amelyre értékvesztés elszámolása vagy céltartalék képzése válik szükségessé, és ezen céltartalék képzésének és értékvesztés elszámolásának megfelelő végrehajtását,
 - b) a hitelportfóliót az ügyfélköre és az átfogó stratégiája figyelembe vételével megosztja (diverzifikálja), valamint
 - c) az értékpapírok vagy értékpapírosítási pozíciók hitelkockázatának, és a portfoliószintű hitelkockázatnak a mérésére hatékony és megbízható belső módszerekkel rendelkezik azzal, hogy a belső módszer esetében nem alkalmazhatja kizárólagosan a külső hitelminősítő által kiadott hitelminősítést.
+
+(4) Az MNB elnöke a pénzügyi közvetítőrendszer felügyeletével kapcsolatos jogkörében a hatékony és eredményes kockázatkezelés elősegítése érdekében rendeletben szabályozza a nem teljesítő kitettség és az átstrukturált követelésre vonatkozó prudenciális követelményeket.
 
 108. § (1) A hitelintézet irányítási jogkörrel rendelkező vezető testülete jóváhagyja, rendszeresen felülvizsgálja és értékeli a szervezeten belüli feladatok elkülönítésére, az összeférhetetlenség megelőzésére, a kockázatok vállalására, mérésére, kezelésére, nyomon követésére és mérséklésére vonatkozó stratégiákat és szabályzatokat, amely kiterjed a makrokörnyezet és a gazdasági ciklus állapotának változásából eredő kockázatra is.
 
@@ -1982,7 +1992,7 @@ azzal, hogy döntéséről két munkanapon belül tájékoztatja a Felügyeletet
 
 (9) A csoportszintű helyreállítási tervet a hitelintézet irányítási jogkörrel rendelkező vezető testülete által történt jóváhagyást követően benyújtja a Felügyeletnek.
 
-(10) A csoportszintű helyreállítási terv a csoport tagjainak helyreállítási tervén kívül minden olyan lépést tartalmaz, amelyet a csoport esetleges fizetésképtelenné válásának elkerülése érdekében alkalmaznának.
+(10) A csoportszintű helyreállítási terv a csoport tagjainak helyreállítási tervén kívül minden olyan lépést tartalmaz, amelyet a csoport esetleges fizetésképtelenné válásának elkerülése érdekében alkalmaznának azzal, hogy a csoport tagjainak szintjén szükséges – szavatoló tőkét is érintő – intézkedések konzisztenciájára is ki kell térni.
 
 (11) Az 575/2013/EU rendelet 113. cikk (7) bekezdése szerinti ugyanazon intézményvédelmi rendszerhez tartozó hitelintézetek helyreállítási tervét az intézményvédelmi rendszer készíti el.
 
@@ -2010,7 +2020,12 @@ azzal, hogy döntéséről két munkanapon belül tájékoztatja a Felügyeletet
 
 117. § (1) A hitelintézet az általa végzett pénzügyi, kiegészítő pénzügyi szolgáltatási tevékenységgel és az alkalmazott üzleti modell jellegével, nagyságrendjével, összetettségével és kockázataival arányos, valamint megfelelő módon és mértékben belső szabályzatában meghatározott javadalmazási politikával rendelkezik.
 
-(2) A javadalmazási politika hatálya a hitelintézet vezető állású személyeire, a belső szabályzatban meghatározott kockázatvállalási és ellenőrzési funkciót betöltő munkavállalókra – ideértve a belső kontroll feladatkört ellátó munkavállalókat is – és az előzőekkel azonos javadalmazási kategóriába tartozó azon munkavállalókra terjed ki, akiknek a tevékenysége lényeges hatást gyakorol a hitelintézet kockázatvállalására.
+(2) A javadalmazási politika hatálya kiterjed a hitelintézet
+
+- a) vezető állású személyeire,
+- b) belső szabályzatában meghatározott kockázatvállalási és ellenőrzési funkciót betöltő munkavállalóira – ideértve a belső kontroll feladatkört ellátó munkavállalókat is –,
+- c) a) vagy b) pontba tartozó személyeivel azonos javadalmazási kategóriába tartozó munkavállalóira, akinek a tevékenysége lényeges hatást gyakorol a hitelintézet kockázati profiljára, valamint
+- d) azon munkavállalóira, akiknek a tevékenysége lényeges hatást gyakorol a hitelintézet kockázati profiljára.
 
 (3) A javadalmazási politika összhangban áll a hatékony és eredményes kockázatkezeléssel, elősegíti annak alkalmazását, és nem ösztönözhet a hitelintézet kockázatvállalási limitjeit meghaladó kockázatok vállalására. A javadalmazási politika a hitelintézet üzleti stratégiájával, célkitűzéseivel, értékeivel és hosszú távú érdekeivel is összhangban áll, valamint az érdekkonfliktus elkerülését célzó intézkedéseket tartalmaz.
 
@@ -2099,9 +2114,9 @@ amelyek folyamatosan tükrözik a hitelintézet kitettségeinek minőségét azz
 
 #### 56. Nyilvánosságra hozatal
 
-122. § (1) A hitelintézet egyedi alapon legalább évente eleget tesz az 575/2013/EU rendelet Nyolcadik részében meghatározott nyilvánosságra hozatali követelménynek azzal, hogy a Felügyelet ennél gyakoribb nyilvánosságra hozatalról is dönthet, ha az intézmény tevékenységi volumene, tevékenységi köre, más országban folytatott tevékenysége, különböző pénzügyi szektorokban folytatott tevékenysége, nemzetközi pénzügyi piacon való részvétele, illetve a klíring- és elszámolási rendszerekben való részvétele indokolja azt.
+122. § (1) A Felügyelet az 575/2013/EU rendelet Nyolcadik részében meghatározott információk évesnél gyakoribb nyilvánosságra hozataláról is dönthet, ha a hitelintézet tevékenységi volumene, tevékenységi köre, más országban folytatott tevékenysége, különböző pénzügyi szektorokban folytatott tevékenysége, nemzetközi pénzügyi piacon való részvétele, illetve a klíring- és elszámolási rendszerekben való részvétele indokolja azt.
 
-(2) A tagállami anyavállalat és a tagállami pénzügyi holding társaság anyavállalat legalább évente nyilvánosságra hozza – az 575/2013/EU rendeletben foglaltakon kívül – a jogi, vállalatirányítási és szervezeti struktúráját, valamint javadalmazási politikáját is.
+(2) A hitelintézeti anyavállalat és a pénzügyi holding társaság anyavállalat legalább évente nyilvánosságra hozza a jogi, vállalatirányítási és szervezeti struktúráját, valamint javadalmazási politikáját.
 
 (3) A hitelintézet nyilvánosságra hozatali kötelezettségét honlapján vagy azon az internetes felületen teljesíti, amelyen az éves számviteli beszámolóját hozza nyilvánosságra.
 
@@ -2112,7 +2127,7 @@ amelyek folyamatosan tükrözik a hitelintézet kitettségeinek minőségét azz
 
 (5) A (4) bekezdés b) pontja szerinti közzétételi kötelezettség az adott határozat közlésétől számított öt évig áll fenn. A pénzügyi intézmény jogosult a határozat indokolását is közzétenni azzal, hogy az indokolás közzététele során a bank- és üzleti titokvédelmi szabályok által védett adatok közzétételét mellőzni kell. A pénzügyi intézmény mérlegelése alapján a saját üzleti titkai körébe tartozó adatokat közzéteheti.
 
-123. § (1) A hitelintézet, ha az 575/2013/EU rendelet alapján összevont alapú felügyelet alá tartozik, legalább évente egyszer nyilvánosságra hozza az üzleti évre vonatkozóan (EGT-államonként és harmadik országonkénti bontásban)
+123. § (1) A hitelintézet, ha az 575/2013/EU rendelet alapján összevont alapú felügyelet alá tartozik, legalább évente egyszer összevont alapon nyilvánosságra hozza az üzleti évre vonatkozóan (EGT-államonként és harmadik országonkénti bontásban)
 
 - a) a hitelintézet nevét, tevékenységek jellegét és földrajzi tagozódását,
 - b) árbevételét,
@@ -2627,9 +2642,11 @@ szemben.
 
 az államháztartásért felelős miniszter és a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter részére.
 
-(7) Nem jelenti az üzleti titok sérelmét, ha a Felügyelet eleget tesz a felügyeleti stressz-tesztre vonatkozó kötelezettség végrehajtására, valamint a felügyeleti stressz-teszt eredményeinek az EBH részére való továbbítására abból a célból, hogy az EBH az európai uniós stressz-tesztek eredményeit összegezve nyilvánosságra hozza.
+(7) Nem jelenti az üzleti titok sérelmét a Felügyelet MNB tv. 57. § (1) bekezdés c) pontjában, illetve 140. § (2) bekezdésében foglalt adattovábbítása.
 
 (8) Nem jelenti az üzleti titok sérelmét, ha a pénzügyi intézmény a Magyarország Kormánya és az Amerikai Egyesült Államok Kormánya között a nemzetközi adóügyi megfelelés előmozdításáról és a FATCA szabályozás végrehajtásáról szóló Megállapodás kihirdetéséről, valamint az ezzel összefüggő egyes törvények módosításáról szóló 2014. évi XIX. törvényből (a továbbiakban: FATCA-törvény) fakadó kötelezettségek teljesítése érdekében az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény (a továbbiakban: Aktv.) 43/B–43/C. §-a szerinti adatszolgáltatási kötelezettséget teljesíti az adóhatóság felé.
+
+(8a) Nem jelenti az üzleti titok sérelmét, ha a pénzügyi intézmény az Aktv. 43/H. §-a szerinti adatszolgáltatási kötelezettséget teljesíti az adóhatóság felé.
 
 (9) Nem jelenti az üzleti titok sérelmét a szanálási feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: szanálási feladatkörében eljáró MNB) által a pénzügyi közvetítő rendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló törvény szerinti szanálási biztosnak a szanálási biztosi feladatok ellátása érdekében, valamint a független értékelőnek vagy az ideiglenes értékelésben közreműködőnek az értékelés elkészítése érdekében, a vagyonértékesítés alkalmazása során adatok, információk átadása a lehetséges ajánlattevőknek, valamint a vagyonértékesítés alkalmazása során az áthidaló intézménynek nem minősülő átvevőnek való adat- és információátadás.
 
@@ -2675,7 +2692,7 @@ szemben e szerveknek a pénzügyi intézményhez intézett írásbeli megkeresé
 - b) a hitelintézet az adózás rendjéről szóló 2003. évi XCII. törvény 52. § (8) bekezdése alapján szolgáltat adatot,
 - c) a pénzügyi intézmény a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló 2011. évi CLXX. törvény 13. § (1) bekezdése alapján szolgáltat adatot,
 - d) a pénzügyi intézmény az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben meghatározott bejelentési kötelezettségének tesz eleget,
-- e) a pénzügyi intézmény a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben (a továbbiakban: Pmt.) meghatározott bejelentési kötelezettségét teljesíti,
+- e) a pénzügyi intézmény a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvényben (a továbbiakban: Pmt.) meghatározott bejelentési kötelezettségét teljesíti,
 - f) a magyar bűnüldöző szerv nemzetközi kötelezettségvállalás alapján külföldi bűnüldöző szerv írásbeli megkeresésének teljesítése céljából – harmadik ország bűnüldöző szerve esetén, ha a megkeresés tartalmazza a harmadik országbeli adatkérő által aláírt titoktartási záradékot – írásban kér banktitoknak minősülő adatot a pénzügyi intézménytől, vagy
 - g) a pénzügyi információs egységként működő hatóság a Pmt.-ben meghatározott feladatkörében eljárva vagy külföldi pénzügyi információs egység írásbeli megkeresésének teljesítése céljából – harmadik ország pénzügyi információs egysége esetén, ha a megkeresés tartalmazza a harmadik országbeli adatkérő által aláírt titoktartási záradékot – írásban kér banktitoknak minősülő adatot a pénzügyi intézménytől.
 
@@ -2689,7 +2706,7 @@ szemben e szerveknek a pénzügyi intézményhez intézett írásbeli megkeresé
 
 (8) Az MNB jogszabályban, a pénzügyi intézmény számára előírt adatszolgáltatás során is jogosult banktitokhoz jutni.
 
-(9) Az adóhatóság a FATCA-törvényből fakadó kötelezettségek teljesítése céljából az Aktv. 43/B–43/C. §-a szerinti adatszolgáltatás során is jogosult banktitokhoz jutni.
+(9) Az adóhatóság a FATCA-törvényből, valamint a pénzügyi számlákkal kapcsolatos egyéb adatszolgáltatási kötelezettség teljesítése céljából az Aktv. 43/B. és 43/C., továbbá 43/H. §-a szerinti adatszolgáltatás során is jogosult banktitokhoz jutni.
 
 162. § (1) A pénzügyi intézmény a nyomozó hatóság, a nemzetbiztonsági szolgálat és az ügyészség írásbeli megkeresésére haladéktalanul kiszolgáltatja a kért adatot a nála vezetett bankszámláról és az általa lebonyolított ügyletről, ha adat merül fel arra, hogy a bankszámla vagy az ügylet
 
@@ -2728,7 +2745,7 @@ részére,
 
 - h) a pénzügyi intézmény által a külföldi pénzügyi intézmény számára történő adattovábbítás, abban az esetben, ha a pénzügyi intézmény ügyfele (adatalany) ahhoz írásban hozzájárult és a külföldi pénzügyi intézménynél (adatkezelőnél) a magyar jogszabályok által támasztott követelményeket kielégítő adatkezelés feltételei minden egyes adatra nézve teljesülnek, valamint a külföldi pénzügyi intézmény székhelye szerinti állam rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő adatvédelmi jogszabállyal,
 - i) a külföldi pénzügyi intézmény székhelye szerinti illetékes felügyeleti hatóság számára a felügyeleti tevékenységéhez szükséges, és a külföldi felügyeleti hatóság és a Felügyelet között együttműködési megállapodásban rögzített módon történő adattovábbítás, ha a megállapodás tartalmazza az adatok bizalmas kezelésére, felhasználására vonatkozó rendelkezést, továbbá a Felügyelet hozzájárulását a külföldi felügyeleti hatóságnak átadott adatok külföldi illetékes bűnüldöző szervnek történő továbbításához,
-- j) a hitelintézet által kiszervezett tevékenység végzéséhez szükséges adatátadás a kiszervezett tevékenységet végző részére,
+- j) a pénzügyi intézmény által kiszervezett tevékenység végzéséhez szükséges adatátadás a kiszervezett tevékenységet végző részére,
 - k) az összevont alapú felügyeleti megfelelés vonatkozásában történő, valamint a pénzügyi konglomerátumok kiegészítő felügyeletéről szóló törvényben foglalt rendelkezések teljesítése érdekében történő adatátadás,
 - l) a Felügyelet által a hitelintézetekről egyedi azonosításra alkalmas adatok szolgáltatása a feladatkörében eljáró Gazdasági Versenyhivatal részére,
 - m) az OBA által a 161. § (2) bekezdés a), b), d), e) és h) pontjai alapján, az e szervezeteknek az OBA-hoz intézett írásbeli megkeresésére adott válasz, továbbá a külföldi betétbiztosítási rendszerek, valamint külföldi felügyeleti hatóságok részére együttműködési megállapodásban rögzített módon történő adattovábbítás, ha az adatok kezelésére, illetve felhasználására vonatkozóan a magyar szabályozással legalább egyenrangú védelem biztosított,
@@ -2740,10 +2757,11 @@ részére,
 - s) a pénzügyi intézmény ügyfele által nyilvánosságra hozott állítással összefüggésben a pénzügyi intézmény részéről a közte és ügyfele közötti jogviszonyra vonatkozó, a nyilvánosság előtti válaszadáshoz szükséges mértékben történő adatközlés,
 - t) a jegybanki feladatkörében eljáró MNB által alapvető feladatai ellátása érdekében a jegybanki információs rendszerben rendelkezésre álló adatoknak egyedi azonosításra alkalmas módon való átadása a Központi Bankok Európai Rendszere és annak tagjai számára, azok kérelme alapján, az Európai Unió működéséről szóló szerződésből eredő vagy központi banki feladataik teljesítéséhez szükséges mértékben,
 - u) a pénzforgalmi szolgáltatás nyújtása és a fizetési műveletek feldolgozása, elszámolása és teljesítése keretében a fizetési megbízás teljesítése céljából pénzügyi intézmény által a fizetési műveletek feldolgozásában, elszámolásában és teljesítésében közreműködő pénzügyi intézmények és pénzügyi intézménynek nem minősülő pénzforgalmi szolgáltatók részére történő adattovábbítás,
-- v) a központi szerződő fél, valamint az elszámolóházi tevékenység végzésének érdekében szükséges, a központi értéktár, a központi szerződő fél, valamint az elszámolóházi tevékenységet végző szervezet közötti adattovábbítás, valamint
+- v) a központi szerződő fél, valamint a központi értéktári tevékenység végzésének érdekében szükséges, a központi értéktár és a központi szerződő fél közötti adattovábbítás,
 - w) ha a pénzügyi intézmény a Ptk. 6:418. §-ában meghatározott kötelezettségét teljesíti,
 - x) a szanálási feladatkörében eljáró MNB által a Szantv. szerinti független és ideiglenes értékelőnek – valamint az értékelésben közreműködőnek – az értékelés elkészítése érdekében, a vagyonértékesítés alkalmazása során a lehetséges ajánlattevőknek, továbbá a vagyonértékesítés alkalmazása során az áthidaló intézménynek nem minősülő átvevőnek való adat- és információátadás,
-- y) az elhalálozott által felvett és még vissza nem fizetett kölcsönről, pénzügyi lízingről az örökhagyó hozzátartozója részére – annak írásbeli kérelmére – történő adatszolgáltatás a hagyatéki eljárás jogerős lezárásának napjáig.
+- y) az elhalálozott által felvett és még vissza nem fizetett kölcsönhöz és le nem járt pénzügyi lízinghez kapcsolódóan a fennálló tartozás összegéről, a lejárt tartozás összegéről, az esedékes havi törlesztőrészletről, azon számlaszámról, amelyre a törlesztőrészletet fizetni kell (hitelszámla száma), valamint a hátralévő futamidőről az örökhagyó közeli hozzátartozója részére – annak írásbeli kérelmére – történő adatszolgáltatás a hagyatéki eljárás jogerős lezárásáról történő tudomásszerzés napjáig,
+- z) a Felügyelet MNB tv. 57. § (1) bekezdés c) pontjában, illetve 140. § (2) bekezdésében foglalt adattovábbítása.
 
 #### 72. Üzleti titok és banktitok közös szabályai
 
@@ -2815,7 +2833,7 @@ rendszeres figyelemmel kíséréséhez, ellenőrzési feladatainak ellátása é
 
 170. § A hitelintézet bejelenti öt munkanapon belül a Felügyeletnek, ha anyavállalata vegyes tevékenységű holding társaság vagy vegyes pénzügyi holding társaság lett vagy ezen viszony módosul, illetve megszűnik.
 
-171. § A Felügyelet a pénzügyi intézménytől, valamint pénzügyi intézménynek nem minősülő kiegészítő pénzügyi szolgáltatást nyújtó egyéb jogi személytől közbülső beszámoló, meghatározott formájú és tagolású kimutatás, könyvvizsgálati jelentés bemutatását kérheti, továbbá a pénzügyi intézménytől, annak szerveitől valamennyi üzleti ügyéről felvilágosítást kérhet.
+171. § A Felügyelet a pénzügyi intézménytől, valamint pénzügyi intézménynek nem minősülő kiegészítő pénzügyi szolgáltatást nyújtó egyéb jogi személytől közbenső beszámoló, meghatározott formájú és tagolású kimutatás, könyvvizsgálati jelentés bemutatását kérheti, továbbá a pénzügyi intézménytől, annak szerveitől valamennyi üzleti ügyéről felvilágosítást kérhet.
 
 #### 74. A hitelintézetek összevont alapú felügyelete
 
@@ -2925,7 +2943,7 @@ az összevont alapú felügyelet a legnagyobb mérlegfőösszeggel rendelkező h
 
 176. § (1) A Felügyelet az összevont alapú felügyeleti feladatok ellátása érdekében más EGT-állam illetékes felügyeleti hatóságával szorosan együttműködik.
 
-(2) A Felügyelet az összevont alapú felügyeleti feladatok ellátásához szükséges jelentéseket, adatokat és információkat más EGT-állam illetékes felügyeleti hatóságának átadhatja.
+(2) A Felügyelet az összevont alapú felügyeleti feladatok ellátásához szükséges jelentéseket, adatokat és információkat más EGT-állam illetékes felügyeleti hatóságának és szanálási hatóságának átadhatja.
 
 (3) Összevont alapú felügyeleti ellenőrzést a Felügyelet más EGT-állam illetékes felügyeleti hatóságának kérésére is végezhet, valamint hozzájárulhat, hogy az ellenőrzésben a hozzájárulást kérő illetékes felügyeleti hatóság, illetve egy általa kijelölt könyvvizsgáló vagy egyéb szakértő résztvegyen.
 
@@ -3125,7 +3143,7 @@ az összevont alapú felügyelet a legnagyobb mérlegfőösszeggel rendelkező h
 - g) működése során nem tud megfelelni az e törvényben meghatározott engedélyezési feltételeknek,
 - h) a szükséges számviteli, vezetői információs vagy belső ellenőrzési rendszer nélkül működik vagy e rendszerek nem teszik lehetővé a hitelintézet tényleges pénzügyi helyzetének megállapítását,
 - i) forrásgyűjtési tevékenysége során a piaci kamat mértékétől jelentősen eltérő kamatmértéket állapít meg, amely fokozott kockázatot jelent a hitelintézet, illetve a betétesek számára,
-- j) tiltott vagy színlelt szerződéseket köt vagyoni előny szerzése vagy a mérleg szerinti eredmény, vagy a tőkekövetelmény módosítása céljából,
+- j) tiltott vagy színlelt szerződéseket köt vagyoni előny szerzése vagy a adózott eredmény, vagy a tőkekövetelmény módosítása céljából,
 - k) könyvvizsgálója elmulasztja a Felügyelet, a pénzügyi intézmény igazgatóságának, illetve felügyelő bizottságának tájékoztatását a pénzügyi intézménynél tapasztalt súlyos jogszabálysértésekről, hiányosságokról és egyéb – a prudens működést veszélyeztető – problémákról,
 - l) az (1) bekezdésben említett előírásokat – a Felügyelet által a (2) bekezdés alapján alkalmazott intézkedést, vagy bírságot megállapító határozat jogerőre emelkedését követő öt éven belül – ismételten megsérti,
 - m) az előírások jelentős megsértése miatt alkalmazott felügyeleti intézkedésben foglaltakat nem teljesíti,
@@ -3317,7 +3335,7 @@ rendelkező tulajdonosát, alapítványi formában működő pénzügyi vállalk
 
 (3) A (2) bekezdés szerinti felügyeleti biztos kirendeléséről rendelkező határozat kézhezvételéig hozott döntésekért a pénzügyi intézmény irányítási jogkörrel rendelkező vezető testülete tagjának a gazdasági társaságokra, illetve a szövetkezetekre vonatkozó törvényi rendelkezések szerinti felelőssége fennmarad.
 
-196. § (1) Az irányítási jogkörrel rendelkező vezető testület teljes jogkörét átvevő felügyeleti biztos kirendelésének ideje alatt az irányítási jogkörrel rendelkező vezető testület tagja a gazdasági társaságokra, a szövetkezetekre vonatkozó törvényi rendelkezésekben és az alapszabályban rögzített feladatát, cégjegyzési jogát nem gyakorolhatja. A kirendelés tartamára a felügyeleti biztos gyakorolja az irányítási jogkörrel rendelkező vezető testület tagjának törvényben és alapszabályban megállapított jogait és kötelezettségeit.
+196. § (1) Az irányítási jogkörrel rendelkező vezető testület teljes jogkörét átvevő felügyeleti biztos kirendelésének ideje alatt az irányítási jogkörrel rendelkező vezető testület tagja a gazdasági társaságokra, a szövetkezetekre vonatkozó törvényi rendelkezésekben és az alapszabályban rögzített feladatát, cégjegyzési jogát nem gyakorolhatja. A kirendelés tartamára a felügyeleti biztos azzal a korlátozással gyakorolja az irányítási jogkörrel rendelkező vezető testület tagjának törvényben és alapszabályban megállapított jogait és kötelezettségeit, hogy a közgyűlés összehívását, valamint meghatározott napirendi pontjainak meghatározását kizárólag a Felügyelet egyetértésével kezdeményezheti.
 
 (2) Az irányítási jogkört részben átvevő felügyeleti biztos kirendelése esetén az irányítási jogkörrel rendelkező vezető testület jogkörét csak annyiban gyakorolhatja, amennyiben az adott jogkört a felügyeleti biztost kirendelő határozat nem utalja a felügyeleti biztos jogkörébe.
 
@@ -3417,14 +3435,16 @@ rendelkező tulajdonosát, alapítványi formában működő pénzügyi vállalk
 - b) a kiegészítő pénzügyi szolgáltatást végző vállalkozásokat,
 - c) a pénzügyi intézmény tulajdonosait,
 - d) a pénzügyi intézmény, a független közvetítő vezető állású személyeit,
-- e) a könyvvizsgálókat, és
-- f) a kérelmezőket.
+- e) a könyvvizsgálókat,
+- f) a pénzügyi intézmény részére kiszervezett tevékenységet végzőket,
+- g) a belső ellenőrt, illetve a belső ellenőrzési szervezet vezetőjét,
+- h) a kérelmezőket.
 
 (2) A nyilvántartás a 2. mellékletben megjelölt azonosító adatokon túl a következőket tartalmazza:
 
 - a) a befolyásoló részesedéssel összefüggésben a befolyásoló részesedés arányát, valamint a befolyásoló részesedés gyakorlását biztosító szerződést,
 - b) a 200. § (3) bekezdés a)–b) pontja szerinti szoros kapcsolattal összefüggésben a szoros kapcsolat mértékét, valamint a szoros kapcsolat gyakorlását biztosító szerződést,
-- c) a vezető állású személy tisztségét, a betöltött munkakört, a megbízás tárgyát, a jogviszony jellegét, a szakmai önéletrajzot, továbbá a Felügyelet által alkalmazott, a nyilvántartottal kapcsolatos intézkedéseket,
+- c) a vezető állású személy tisztségét, elektronikus elérhetőségét (telefonszámát, illetve elektronikus levélcímét), a betöltött munkakört, a megbízás tárgyát, a jogviszony jellegét, a szakmai önéletrajzot, továbbá a Felügyelet által alkalmazott, a nyilvántartottal kapcsolatos intézkedéseket,
 - d) az engedély kiadásával vagy visszaadásával kapcsolatos kérelem tartalmát, továbbá a kérelem elbírálásához csatolt dokumentum adatait,
 - e) a hitelintézet belső szabályait, így különösen az alapszabályt, az üzletszabályzatot, az adós- vagy hitelminősítési szabályzatot, a fizetőképesség biztosítására vonatkozó szabályzatot, a belső hitelszabályzatot,
 - f) a pénzügyi intézmény éves beszámolóját, valamint az eredmény felhasználására vonatkozó határozatot,
@@ -3433,7 +3453,12 @@ rendelkező tulajdonosát, alapítványi formában működő pénzügyi vállalk
 - i) a szavatoló tőke és a tőkemegfelelés kiszámításának dokumentálását,
 - j) a nagykockázat, belső hitel, kapcsolódó hitel, befektetési korlát és kockázati céltartalék képzés ellenőrzéséhez szükséges adatokat,
 - k) a fióktelep formájában működő hitelintézet esetében az a)–j) ponton túl az eszközfenntartási mutató ellenőrzéséhez szükséges adatokat, valamint
-- l) a 288. § (15) bekezdésében meghatározott fogyasztóvédelmi ügyekért felelős kapcsolattartó nevét.
+- l) a 288. § (15) bekezdésében meghatározott fogyasztóvédelmi ügyekért felelős kapcsolattartó nevét,
+- m) a Felügyelet részére történő adatszolgáltatásért felelős személy elektronikus elérhetőségét (telefonszámát, illetve elektronikus levélcímét),
+- n) a könyvvizsgálóval kötött szerződést, a könyvvizsgálói megbízás időtartamát, a könyvvizsgáló által az éves beszámolóval kapcsolatban készített jelentést, a könyvvizsgáló elektronikus elérhetőségét (telefonszámát vagy elektronikus levélcímét),
+- o) a kiszervezésre vonatkozó szerződés keltét, a kiszervezés időtartamát, a kiszervezett tevékenységet, a kiszervezett tevékenységet végző elérhetőségét,
+- p) belső ellenőr, belső ellenőrzési szervezet vezetője vonatkozásában a foglalkoztatási jogviszony jellegét, időtartamát,
+- q) az l)–p) pontokban felsorolt adatokban bekövetkezett változásokat.
 
 (3) A (2) bekezdésben megjelölt adatokhoz kapcsolódóan a 2. mellékletben felsoroltakon kívül a Felügyelet a pénzügyi intézmény ügyfelének következő személyes adatait kezelheti:
 
@@ -3443,6 +3468,46 @@ rendelkező tulajdonosát, alapítványi formában működő pénzügyi vállalk
 - d) az ügyfél pénzügyi intézménnyel szembeni követelésre vonatkozó egyéb adatai.
 
 (4) A Felügyelet engedélye egyúttal a nyilvántartásba vételt is igazolja.
+
+204/A. § (1) A Felügyelet a közvetítői hatósági képzéssel és vizsgáztatással kapcsolatban nyilvántartást vezet a képző és vizsgáztató szervekről, a hatósági vizsgára jelentkező személyekről, a képző szerv által aláíró személyként megjelölt, a képzési igazolás kiállítására és aláírására feljogosított személyekről (a továbbiakban: aláíró személy), az oktatóról és a Felügyelet által kijelölt, a hatósági vizsga jogszabályban foglalt feltételeknek megfelelő lebonyolítását felügyelő személyekről.
+
+(2) A közvetítői tevékenység gyakorlását lehetővé tevő közvetítői hatósági vizsgának és az ahhoz szükséges képzésnek a pénzügyi szolgáltatás közvetítői hatósági képzés követelményrendszeréről és a hatósági vizsgáról szóló miniszteri rendeletben meghatározott feltételeknek megfelelő képzés és vizsga fogadható el.
+
+(3) A képző és vizsgáztató szervekről vezetett nyilvántartás tartalmazza:
+
+- a) a szerv megnevezését, székhelyét, levelezési címét,
+- b) a hatósági képzés helyszínének, a hatósági vizsga helyszínének címét,
+- c) a nyilvántartási számot,
+- d) az intézményi kódot,
+- e) a nyilvántartásba vételről szóló döntés ügyiratszámát,
+- f) az aláíró személy nevét és személyi kódját, és
+- g) a nyilvántartásba vétel időpontját.
+
+(4) A Felügyelet a nyilvántartásba vételről szóló döntésben a képző és vizsgáztató szerv részére nyilvántartási számot és intézményi kódot állapít meg.
+
+(5) Ha a Felügyelet a szerv nyilvántartásból történő törléséről döntést hozott, a (3) bekezdésben foglalt adatok mellett, a törlés időpontját, a törlésről szóló döntés ügyiratszámát, a döntés tényét, okát és a döntés jogerőre emelkedésének időpontját is nyilvántartja.
+
+(6) A Felügyelet a hatósági képzés és vizsgáztatás hatósági ellenőrzésével, továbbá a hatósági képzésre történő jelentkezés lebonyolításával és a sikeres vizsgákat igazoló hatósági tanúsítvány kiadásával, pótlásával kapcsolatos feladatai ellátása érdekében nyilvántartást vezet
+
+- a) az aláíró személyekről;
+- b) az oktatóról;
+- c) a hatósági vizsgára jelentkező személyekről; és
+- d) a Felügyelet által kijelölt, a hatósági vizsga jogszabályban foglalt feltételeknek megfelelő lebonyolítását felügyelő személyekről (a továbbiakban: vizsgabiztos).
+
+(7) A Felügyelet által vezetett nyilvántartás tartalmazza a (6) bekezdésben meghatározott személyek vonatkozásában:
+
+- a) a nevét és születési nevét;
+- b) az anyja nevét;
+- c) a születési helyét és idejét;
+- d) a lakcímét;
+- e) a személyi kódját; és
+- f) vizsgabiztos esetén a nyilvántartási számát, a kijelölés visszavonásának a tényét és időpontját.
+
+(8) A Felügyelet a nyilvántartásba vételről szóló döntésben az (1) bekezdésben meghatározott személyek számára személyi kódot állapít meg.
+
+(9) Az e §-ban meghatározott nyilvántartással érintett személyes adatok tekintetében az adatkezelő a Felügyelet.
+
+(10) A hatósági képzés és vizsgáztatás során a Felügyelet jogosult ellenőrizni a hatósági képzést és vizsgáztatást végző, a hatósági képzésben és vizsgáztatásban részt vevő szervezeteket és személyeket.
 
 #### 83. Tájékoztatás
 
@@ -3642,7 +3707,7 @@ betéteire, valamint a felsoroltak külföldi megfelelőinek betéteire.
 
 217. § (1) Az OBA
 
-- a) a hitelintézet tevékenységi engedélye 33. § (1) bekezdésében meghatározott visszavonásáról hozott határozat közzétételének,
+- a) a hitelintézet tevékenységi engedélye 33. § (1) bekezdésében meghatározott visszavonásáról hozott határozat közlésének,
 - b) a Felügyelet a Szhitv. 17/T. § (5) bekezdése alapján hozott határozata közlésének vagy
 - c) a felszámolási eljárás kezdeményezése esetén a bíróság felszámolást elrendelő végzése közzétételének
 
@@ -3694,6 +3759,8 @@ időpontját követő napon [az a)–c) pont a továbbiakban együtt: a kártala
 
 (5) Az OBA saját tőkéje nem osztható fel.
 
+(6) Az OBA-t harmadik személyekkel szemben, valamint bíróság és hatóság előtt az igazgatótanács elnöke vagy az ügyvezető képviseli.
+
 221. § Az OBA pénzügyi-számviteli ellenőrzését az Állami Számvevőszék végzi.
 
 222. § (1) Az OBA könyvvizsgálót bíz meg.
@@ -3728,7 +3795,7 @@ időpontját követő napon [az a)–c) pont a továbbiakban együtt: a kártala
 
 - a) irányítja és ellenőrzi az OBA gazdálkodási és egyéb tevékenységét a jogszabályokban foglalt rendelkezések figyelembevételével,
 - b) elfogadja az OBA szabályzatait,
-- c) meghatározza az OBA ügyvezetőjének és megbízottainak feladatait, valamint megállapítja díjazásukat,
+- c) meghatározza az OBA ügyvezetőjének, megbízottainak, valamint – a Befektető-védelmi Alap igazgatósága javaslatára – az OBA ügyvezetője helyettesének feladatait, megállapítja díjazásukat,
 - d) dönt az egyes feladatokra esetileg létrehozott különleges bizottságok összetételéről,
 - e) meghatározza az igazgatótanács üléseinek ügyrendjét, helyét, időpontját,
 - f) meghatározza a hitelintézetek számára azoknak a különleges jelzéseknek, tájékoztatóknak vagy más eszközöknek az alkalmazását, amelyek alapján megállapítható, hogy a hitelintézeteknél elhelyezett betétek biztosítva vannak,
@@ -3752,11 +3819,17 @@ időpontját követő napon [az a)–c) pont a továbbiakban együtt: a kártala
 
 226. § (1) Az OBA önálló munkaszervezettel rendelkezik.
 
-(2) Az OBA tevékenységének operatív irányítását az ügyvezető látja el. Az ügyvezető gyakorolja az OBA alkalmazottai felett a munkáltatói jogokat.
+(2) Az OBA tevékenységének operatív irányítását az ügyvezető, a Befektető-védelmi Alappal kapcsolatos operatív feladatok irányítását az ügyvezető helyettese látja el. Az ügyvezető gyakorolja az OBA alkalmazottai felett a munkáltatói jogokat.
 
 (3) Az ügyvezető – az igazgatótanács egyetértésével – egyes feladatok ellátására munkaviszonyon kívüli megbízást adhat ki vagy együttműködési megállapodásokat köthet.
 
 (4) Az OBA vezetője és alkalmazottai tekintetében a munka törvénykönyvéről szóló 2012. évi I. törvény rendelkezéseit kell alkalmazni.
+
+226/A. § (1) Ha a munkaszervezet törvényben meghatározott, más önálló jogi személy működtetésével összefüggésben felmerülő operatív feladatokat is ellát, a működtetés költségeihez az érintett jogi személy arányosan hozzájárul.
+
+(2) A hozzájárulás éves összegéről, valamint megfizetésének módjáról az igazgatótanács az érintett jogi személy irányításáért felelős szervezettel évente megállapodást köt.
+
+(3) A munkaszervezet jogtanácsosa ellátja az (1) bekezdés szerinti jogi személy jogtanácsosi tevékenységét is.
 
 227. § Az igazgatótanács feladatkörében eljárva a megbízásokat az e törvényben meghatározott összeférhetetlenségi szabályok megfelelő alkalmazásával adja ki.
 
@@ -4290,7 +4363,7 @@ rendelkezhet.
 275. § (1) Folyamatos szerződések – ideértve a betétösszegek ismétlődő lekötésére szóló szerződést is – esetében a pénzügyi intézmény köteles az ügyfél részére
 
 - a) legalább évente egy alkalommal, valamint
-- b) a szerződés lejártát követő harminc napon belül
+- b) a szerződés megszűnését követő harminc napon belül
 
 egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot) küldeni.
 
@@ -4339,7 +4412,7 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 #### 121. Egyes szerződésekre vonatkozó különös rendelkezések
 
-279. § (1) A pénzügyi intézmény pénzügyi és kiegészítő pénzügyi szolgáltatásra irányuló szerződést csak írásban – ideértve a legalább fokozott biztonságú elektronikus aláírással ellátott elektronikus okirat formát is – köthet. Az írásban kötött szerződés egy eredeti példányát a pénzügyi intézmény köteles az ügyfélnek átadni.
+279. § (1) A pénzügyi intézmény – az egyszeri fizetési megbízás kivételével, valamint a 285. §-ban meghatározott eltéréssel – pénzügyi és kiegészítő pénzügyi szolgáltatásra irányuló szerződést csak írásban – ideértve a legalább fokozott biztonságú elektronikus aláírással ellátott elektronikus okirat formát is – köthet. Az írásban kötött szerződés egy eredeti példányát a pénzügyi intézmény köteles az ügyfélnek átadni.
 
 (2) A pénzügyi intézmény és az ügyfél az (1) bekezdés szerint megkötött szerződésben megállapodhat arról, hogy meghatározott körben azonosított elektronikus úton kötnek pénzügyi és kiegészítő pénzügyi szolgáltatásra irányuló szerződést. Az ilyen módon létrejött pénzügyi és kiegészítő pénzügyi szolgáltatásra irányuló szerződés e törvény alkalmazásában írásbeli szerződésnek minősül.
 
@@ -4371,7 +4444,9 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 #### 123. Elektronikus pénz kibocsátása és visszaváltása
 
-285. § Elektronikus pénzt kibocsátó hitelintézet a tevékenység végzése során alkalmazza az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény 66. §-át.
+285. § (1) Elektronikus pénzt kibocsátó hitelintézet a tevékenység végzése során alkalmazza az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény 66. §-át.
+
+(2) Az (1) bekezdés szerinti tevékenységre irányuló szerződést nem szükséges írásban megkötni abban az esetben, ha a kibocsátandó elektronikus pénz összege a Pmt. 13. § (1) bekezdés c) pontja szerinti összeghatároknak megfelel.
 
 #### 124. Bankszünnap
 
@@ -4443,6 +4518,17 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 (2) Az Aktv. 43/B–43/C. §-a szerinti adatszolgáltatás esetén az adatszolgáltatás tényéről az intézmény a számlatulajdonost az adatszolgáltatás teljesítésétől számított 30 napon belül írásban tájékoztatja.
 
+#### 126/B. A Pénzügyi Számlákkal kapcsolatos adatszolgáltatás és átvilágítás alapján fennálló kötelezettségek
+
+288/C. § Az Aktv. szerinti, e törvény hatálya alá tartozó Jelentő Magyar Pénzügyi Intézmény (a továbbiakban ezen alcím tekintetében: intézmény) az általa kezelt, az Aktv. 1. melléklet VIII/C. pontja szerinti Pénzügyi Számla (a továbbiakban: Pénzügyi Számla) vonatkozásában elvégzi az Aktv. szerinti Számlatulajdonos és Jogalany (a továbbiakban együtt: Számlatulajdonos) illetőségének az Aktv. 1. melléklet II–VII. pontja szerinti megállapítására irányuló vizsgálatot (a továbbiakban: illetőségvizsgálat).
+
+288/D. § (1) Az intézmény a Számlatulajdonost az illetőségvizsgálat elvégzésével egyidejűleg az ügyfélfogadásra nyitva álló helyiségeiben kifüggesztett hirdetmény útján vagy – ha az lehetséges – elektronikus úton tájékoztatja
+
+- a) az illetőségvizsgálat elvégzéséről,
+- b) az Aktv. 43/H. §-a alapján az adóhatóság felé fennálló adatszolgáltatási kötelezettségéről.
+
+(2) Az Aktv. 43/H. §-a szerinti adatszolgáltatásról az intézmény a Számlatulajdonost az adatszolgáltatás teljesítésétől számított 30 napon belül írásban – ha az lehetséges elektronikus úton – tájékoztatja.
+
 ### XIV. Fejezet — VEGYES ÉS ZÁRÓ RENDELKEZÉSEK
 
 #### 127. Vegyes rendelkezések
@@ -4495,10 +4581,13 @@ vonatkozó részletes szabályokat.
 - k) 178. cikk (2) bekezdés d) pontjának megfelelően azt a határértéket, amely alapján a hitelkötelezettség-teljesítési késedelem jelentősnek minősül,
 - l) 327. cikk (2) bekezdésének megfelelően az átváltható értékpapír és az annak alapjául szolgáló eszköz kiegyenlítő pozíciója közötti nettósítás alkalmazhatóságának feltételéül szolgáló módszert,
 - m) 395. cikk (1) bekezdésének megfelelően a 150 millió eurónál alacsonyabb nagykockázat-vállalási határérték alkalmazását,
-- n) 400. cikk (2) bekezdésének megfelelően a nagykockázat-vállalási korlát alól mentesített kitettségek körét,
-- o) 416. cikk (5) bekezdésének megfelelően a magas és rendkívül magas likviditású és hitelminőségű eszközök körét.
+- n)–o)
 
 (5) Felhatalmazást kap az MNB elnöke arra, hogy a pénzügyi közvetítőrendszer felügyeletével kapcsolatos jogkörében eljárva rendeletben állapítsa meg a teljesítmény-javadalmazás diszkontált értékének számításával, nyilvántartásával és közzétételével összefüggő szabályokat.
+
+(6) Felhatalmazást kap az MNB elnöke, hogy a pénzügyi közvetítőrendszer felügyeletével kapcsolatos jogkörében eljárva rendeletben szabályozza a nem teljesítő kitettség és az átstrukturált követelésre vonatkozó prudenciális követelményeket.
+
+(7) Felhatalmazást kap az MNB elnöke, hogy a pénzügyi közvetítőrendszer felügyeletével kapcsolatos jogkörében eljárva rendeletben szabályozza az ügyfél- és partnerminősítés, valamint a fedezetértékelés prudenciális követelményeit.
 
 #### 129. Hatályba léptető rendelkezések
 
@@ -4622,6 +4711,8 @@ azzal, hogy 2019. január 1-jétől a 87. §-ban meghatározott mérték szerint
 
 (6) Az egyes pénzügyi tárgyú törvényeknek a betétbiztosítást, valamint a pénzügyi közvetítőrendszert érintő módosításáról szóló 2014. évi CIV. törvény 87. § (2) bekezdésében megállapított 272. § (3) bekezdésében foglaltaknak a 2015. július 3-án már fennálló betétszerződés, betét elhelyezését lehetővé tevő szerződés vagy keretszerződés esetén a hitelintézet a 275. § (6) bekezdésben meghatározott, 2015. július 3-át követő első éves tájékoztatási kötelezettsége teljesítésével tesz eleget azzal, hogy ebben az esetben nem szükséges, hogy a betétes a 6. melléklet szerinti tájékoztatás megtörténtét aláírásával igazolja.
 
+304/D. § Az egyes törvényeknek a pénzügyi közvetítőrendszer fejlesztésének előmozdítása érdekében történő módosításáról szóló 2015. LXXXV. évi törvény 195. §-ával megállapított 67/A. §-t a szövetkezeti hitelintézetek tekintetében 2018. január 1-től kell alkalmazni.
+
 #### 131. Az Európai Unió jogának való megfelelés
 
 305. § Ez a törvény a 5. mellékletben felsorolt uniós jogi aktusoknak való megfelelést szolgálja.
@@ -4707,7 +4798,8 @@ A kombinált pufferkövetelmény egyes kvartiliseinek alsó és felső határát
   - e) a 185. § (1) bekezdés f) pontjában a fogyasztói érdekek védelme érdekében a jogsértés megszüntetésére irányuló eljárásokról szóló 2009. április 23-i 2009/22/EK európai parlamenti és tanácsi irányelvnek,
   - f) a 98/26/EK, 2002/87/EK, 2003/6/EK, 2003/41/EK, 2003/71/EK, 2004/39/EK, 2004/109/EK, 2005/60/EK, 2006/48/EK, 2006/49/EK és 2009/65/EK irányelvnek az európai felügyeleti hatóság (Európai Bankhatóság), az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról szóló 2010. november 24-i 2010/78/EU európai parlamenti és tanácsi irányelvnek,
   - g) a hitelintézetek tevékenységéhez való hozzáférésről és a hitelintézetek és befektetési vállalkozások prudenciális felügyeletéről, a 2002/87/EK irányelv módosításáról, a 2006/48/EK és a 2006/49/EK irányelv hatályon kívül helyezéséről szóló 2013. június 26-i 2013/36/EU európai parlamenti és tanácsi irányelvnek,
-  - h) a betétbiztosítási rendszerekről szóló 2014. április 16-i 2014/49/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+  - h) a betétbiztosítási rendszerekről szóló 2014. április 16-i 2014/49/EU európai parlamenti és tanácsi irányelvnek,
+  - i) a 2011/16/EU tanácsi irányelvnek az adózás területére vonatkozó kötelező automatikus információcsere tekintetében történő módosításáról szóló 2014. december 9-i 2014/107/EU tanácsi irányelvnek, való megfelelést szolgálja.
 - 2. Ez a törvény a 185. § (1) bekezdésében a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2004. október 27-i 2006/2004/EK európai parlamenti és tanácsi rendelet 4. cikk (6) bekezdés f) pontjának végrehajtásához szükséges rendelkezéseket állapít meg a Felügyelet eljárásában.
 - 3. Ez a törvény a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 

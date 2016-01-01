@@ -74,7 +74,7 @@ a bírósági végrehajtásról
 
 (2) A végrehajtást kérő közölni köteles a végrehajtási kérelem előterjesztésekor
 
-- a) az adós nevét (cégnevét) és az azonosításához szükséges adatokat (legalább a születési idejét vagy az anyja nevét, illetőleg a cégjegyzékszámát), továbbá
+- a) az adós nevét (cégnevét) és az azonosításához szükséges adatokat (legalább a születési helyét, idejét és az anyja nevét, illetőleg a cégjegyzékszámát), továbbá
 - b) az ügy körülményeitől függően: az adós lakóhelyét, munkahelyét, illetőleg székhelyét, telephelyét (a továbbiakban: székhelyét) és a végrehajtás alá vonható vagyontárgyának helyét; e pontban felsorolt adatok közül legalább egyet közölni kell.
 
 (3) Ingatlan-végrehajtás kérése esetén közölni kell az ingatlan-nyilvántartási adatokat.
@@ -661,7 +661,7 @@ a bírósági végrehajtásról
 
 (6) Ha a végrehajtónak az iratokban szereplő adatokon kívül az adósra vonatkozó egyéb adatok vannak a birtokában, az ügy irattárba helyezésekor ennek tényéről jegyzőkönyvet készít, és a jegyzőkönyv egy példányát az iratok között helyezi el. Az (1) bekezdésben foglalt adatok a végrehajtási ügy irattárba helyezését követő 10 évig kezelhetők, ezt követően a végrehajtó az adatokat tartalmazó iratokat megsemmisíti, illetve az adatok törléséről egyéb módon gondoskodik.
 
-(7) A végrehajtó az (1) bekezdés szerinti adatok beszerzése céljából elektronikus úton is megkeresheti az adatokat elektronikus úton nyilvántartó hatóságokat, szervezeteket.
+(7) A végrehajtó az (1) bekezdés szerinti adatok beszerzése céljából elektronikus úton is megkeresheti az adatokat elektronikus úton nyilvántartó hatóságokat, szervezeteket. A végrehajtó a közúti közlekedési nyilvántartó szervet, valamint a személyiadat- és lakcímnyilvántartó szervet az (1) bekezdés szerinti adatok beszerzése céljából kizárólag elektronikusan, az erre a célra kialakított informatikai rendszer használatával keresi meg.
 
 (8) A végrehajtás foganatosításához szükséges, e §-ban meghatározott adatok beszerzése iránt a végrehajtó már a végrehajtható okirat kézbesítése előtt intézkedhet.
 
@@ -959,7 +959,7 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 ### Levonás a gyermekek ellátásához kapcsolódó juttatásokból
 
-69. § (1) A gyermekgondozási segélyből és a gyermeknevelési támogatásból legfeljebb 33%-ot lehet levonni a jogalap nélkül felvett gyermekgondozási segély, gyermeknevelési támogatás és anyasági támogatás fejében.
+69. § (1) A gyermekgondozást segítő ellátásból és a gyermeknevelési támogatásból legfeljebb 33%-ot lehet levonni a jogalap nélkül felvett gyermekgondozást segítő ellátás, gyermeknevelési támogatás és anyasági támogatás fejében.
 
 (2) A családi pótlékból legfeljebb 33%-ot lehet levonni a jogalap nélkül felvett családi pótlék és anyasági támogatás fejében.
 
@@ -3187,7 +3187,8 @@ esetén van lehetőség.
 - c) a 233. § (2) bekezdés b)–d) vagy i) pontjában foglalt kizáró ok következett be,
 - d) elhalálozott,
 - e) a végrehajtói fegyelmi bíróság jogerős határozatával a végrehajtó-helyettesek nyilvántartásából történő törlés fegyelmi büntetéssel sújtotta vagy alkalmatlanságát, érdemtelenségét állapította meg,
-- f) a vele szemben a nyilvántartásba vételét követően keletkezett összeférhetetlenséget Kar hivatali szerve felszólítására 30 napon belül nem szüntette meg.
+- f) a vele szemben a nyilvántartásba vételét követően keletkezett összeférhetetlenséget Kar hivatali szerve felszólítására 30 napon belül nem szüntette meg,
+- g) a 65. életévét betöltötte.
 
 ### Végrehajtójelölt
 

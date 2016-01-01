@@ -150,7 +150,7 @@ Az Országgyűlés abból a meggyőződésből kiindulva, hogy a kiegyensúlyozo
 
 (9) Nem kell megfizetni a kisadózó után az (1), a (2), valamint a (4a) bekezdés szerinti adót azon hónapokra vonatkozóan, amelyek egészében a kisadózó
 
-- a) táppénzben, baleseti táppénzben, csecsemőgondozási díjban, gyermekgondozási díjban, gyermekgondozási segélyben, gyermeknevelési támogatásban vagy ápolási díjban részesül,
+- a) táppénzben, baleseti táppénzben, csecsemőgondozási díjban, gyermekgondozási díjban, gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban vagy ápolási díjban részesül,
 - b) katonai szolgálatot teljesítő önkéntes tartalékos katona,
 - c) fogvatartott,
 - d) egyéni vállalkozói tevékenységét szüneteltette, kivéve ha a kisadózóként folytatott tevékenységébe tartozó munkát végez.
@@ -495,10 +495,10 @@ együttes összegének a 16 százaléka.
 
 (2) Az (1) bekezdés szerinti összeg a beszámoló
 
-- a) mérlegében kimutatott eredménytartalék, saját elhatározásból lekötött tartalék, mérleg szerinti eredmény és – a jóváhagyott osztalék, részesedés alapján a taggal szemben fennálló – kötelezettség együttes összegéből az a rész, amely meghaladja a mérlegben kimutatott, nem vagyoni betétként megszerzett immateriális javak és tárgyi eszközök (ide nem értve az immateriális javak és a tárgyi eszközök értékhelyesbítését) együttes könyv szerinti értékét;
-- b) egyszerűsített mérlegében kimutatott eredménytartalék, saját elhatározásból lekötött tartalék, mérleg szerinti eredmény, tartalék és – a jóváhagyott osztalék, részesedés alapján tagjával szemben fennálló – kötelezettség együttes összegéből az a rész, amely meghaladja az egyszerűsített mérlegben kimutatott, nem vagyoni betétként megszerzett immateriális javak és tárgyi eszközök együttes könyv szerinti értékét;
+- a) mérlegében kimutatott eredménytartalék, saját elhatározásból lekötött tartalék, adózott eredmény és – a jóváhagyott osztalék, részesedés alapján a taggal szemben fennálló – kötelezettség együttes összegéből az a rész, amely meghaladja a mérlegben kimutatott, nem vagyoni betétként megszerzett immateriális javak és tárgyi eszközök (ide nem értve az immateriális javak és a tárgyi eszközök értékhelyesbítését) együttes könyv szerinti értékét;
+- b) egyszerűsített mérlegében kimutatott eredménytartalék, saját elhatározásból lekötött tartalék, adózott eredmény, tartalék és – a jóváhagyott osztalék, részesedés alapján tagjával szemben fennálló – kötelezettség együttes összegéből az a rész, amely meghaladja az egyszerűsített mérlegben kimutatott, nem vagyoni betétként megszerzett immateriális javak és tárgyi eszközök együttes könyv szerinti értékét;
 
-csökkentve azzal az eredménytartalékkal, eredménytartalékból lekötött tartalékkal, eredménytartalékból jóváhagyott osztalékfizetési kötelezettséggel, adózott eredmény terhére fizetett (jóváhagyott) osztalékfizetési kötelezettséggel, mérleg szerinti eredménnyel, amely az adóalany egyszerűsített vállalkozói adó szerinti adóalanyiságának időtartama alatt keletkezett..
+csökkentve azzal az eredménytartalékkal, eredménytartalékból lekötött tartalékkal, eredménytartalékból jóváhagyott osztalékfizetési kötelezettséggel, adózott eredmény terhére fizetett (jóváhagyott) osztalékfizetési kötelezettséggel, adózott eredménnyel, amely az adóalany egyszerűsített vállalkozói adó szerinti adóalanyiságának időtartama alatt keletkezett..
 
 (3) A (2) bekezdés szerinti összeg után a közkereseti társaság, a betéti társaság és az egyéni cég adót (a továbbiakban: az osztalék utáni adót kiváltó adó) fizet. Az osztalék utáni adót kiváltó adó a (2) bekezdés szerinti összeg 16 százaléka, amelyet az adózó az üzleti évre vonatkozó társaságiadó-bevallásában, vagy egyszerűsített vállalkozói adóról szóló bevallásában, vagy kisvállalatiadó-bevallásában elkülönítetten vall be. A bevallott összeget három egyenlő részletben, az üzleti évre vonatkozó társaságiadó-bevallás, vagy egyszerűsített vállalkozói adóról szóló bevallás, vagy kisvállalatiadó-bevallás benyújtására előírt határidőig és az üzleti évet követő két adóévre – de legkésőbb a kisadózó vállalkozások tételes adója szerinti adóalanyisága megszűnése évét követő év február 25-ig – az adóév február 25-ig fizet meg.
 
@@ -567,5 +567,7 @@ csökkentve azzal az eredménytartalékkal, eredménytartalékból lekötött ta
 (4) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 23. § (5) bekezdés rendelkezését a 2013. adóévre az adózó választása szerint alkalmazza.
 
 32/A. § Ahol e törvény csecsemőgondozási díjat említ, azon terhességi-gyermekágyi segélyt kell érteni, ha az ellátásra való jogosultság 2015. január 1-jét megelőzően nyílt meg.
+
+32/B. § Ahol e törvény gyermekgondozást segítő ellátást említ, azon gyermekgondozási segélyt kell érteni, ha az ellátásra való jogosultság 2016. január 1-jét megelőzően nyílt meg.
 
 #### 33–34. §

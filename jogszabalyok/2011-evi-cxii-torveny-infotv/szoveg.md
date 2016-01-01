@@ -220,7 +220,7 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 
 (3) Az (1a) és a (2) bekezdés szerinti adatok nyilvántartásban való megőrzésére irányuló – és ennek alapján a tájékoztatási – kötelezettség időtartamát az adatkezelést előíró jogszabály korlátozhatja. E korlátozás körében személyes adatok esetében öt évnél, különleges adatok esetében pedig húsz évnél rövidebb időtartam nem állapítható meg.
 
-(4) Az adatkezelő köteles a kérelem benyújtásától számított legrövidebb idő alatt, legfeljebb azonban 30 napon belül, közérthető formában, az érintett erre irányuló kérelmére írásban megadni a tájékoztatást.
+(4) Az adatkezelő köteles a kérelem benyújtásától számított legrövidebb idő alatt, legfeljebb azonban 25 napon belül, közérthető formában, az érintett erre irányuló kérelmére írásban megadni a tájékoztatást.
 
 (5) A (4) bekezdésben foglalt tájékoztatás ingyenes, ha a tájékoztatást kérő a folyó évben azonos adatkörre vonatkozóan tájékoztatási kérelmet az adatkezelőhöz még nem nyújtott be. Egyéb esetekben költségtérítés állapítható meg. A költségtérítés mértékét a felek között létrejött szerződés is rögzítheti. A már megfizetett költségtérítést vissza kell téríteni, ha az adatokat jogellenesen kezelték, vagy a tájékoztatás kérése helyesbítéshez vezetett.
 
@@ -248,7 +248,7 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 
 18. § (1) A helyesbítésről, a zárolásról, a megjelölésről és a törlésről az érintettet, továbbá mindazokat értesíteni kell, akiknek korábban az adatot adatkezelés céljára továbbították. Az értesítés mellőzhető, ha ez az adatkezelés céljára való tekintettel az érintett jogos érdekét nem sérti.
 
-(2) Ha az adatkezelő az érintett helyesbítés, zárolás vagy törlés iránti kérelmét nem teljesíti, a kérelem kézhezvételét követő 30 napon belül írásban vagy az érintett hozzájárulásával elektronikus úton közli a helyesbítés, zárolás vagy törlés iránti kérelem elutasításának ténybeli és jogi indokait. A helyesbítés, törlés vagy zárolás iránti kérelem elutasítása esetén az adatkezelő tájékoztatja az érintettet a bírósági jogorvoslat, továbbá a Hatósághoz fordulás lehetőségéről.
+(2) Ha az adatkezelő az érintett helyesbítés, zárolás vagy törlés iránti kérelmét nem teljesíti, a kérelem kézhezvételét követő 25 napon belül írásban vagy az érintett hozzájárulásával elektronikus úton közli a helyesbítés, zárolás vagy törlés iránti kérelem elutasításának ténybeli és jogi indokait. A helyesbítés, törlés vagy zárolás iránti kérelem elutasítása esetén az adatkezelő tájékoztatja az érintettet a bírósági jogorvoslat, továbbá a Hatósághoz fordulás lehetőségéről.
 
 19. § Az érintettnek a 14–18. §-ban meghatározott jogait törvény korlátozhatja az állam külső és belső biztonsága, így a honvédelem, a nemzetbiztonság, a bűncselekmények megelőzése vagy üldözése, a büntetés-végrehajtás biztonsága érdekében, továbbá állami vagy önkormányzati gazdasági vagy pénzügyi érdekből, az Európai Unió jelentős gazdasági vagy pénzügyi érdekéből, valamint a foglalkozások gyakorlásával összefüggő fegyelmi és etikai vétségek, a munkajogi és munkavédelmi kötelezettségszegések megelőzése és feltárása céljából – beleértve minden esetben az ellenőrzést és a felügyeletet is –, továbbá az érintett vagy mások jogainak védelme érdekében.
 
@@ -1043,7 +1043,10 @@ szükséges.
 - a) a személyes adatok feldolgozása vonatkozásában az egyének védelméről és az ilyen adatok szabad áramlásáról szóló, 1995. október 24-i 95/46/EK európai parlamenti és tanácsi irányelvnek,
 - b) a környezeti információkhoz való nyilvános hozzáférésről és a 90/313/EGK irányelv hatályon kívül helyezéséről szóló, 2003. január 28-i 2003/4/EK európai parlamenti és tanácsi irányelvnek,
 - c) a közszféra információinak további felhasználásáról szóló, 2003. november 17-i 2003/98/EK európai parlamenti és tanácsi irányelvnek,
-- d) a büntetőügyekben folytatott rendőrségi és igazságügyi együttműködés keretében feldolgozott személyes adatok védelméről szóló, 2008. november 27-i 2008/977/IB tanácsi kerethatározatnak való megfelelést szolgálja.
+- d) a büntetőügyekben folytatott rendőrségi és igazságügyi együttműködés keretében feldolgozott személyes adatok védelméről szóló, 2008. november 27-i 2008/977/IB tanácsi kerethatározatnak
+- e) a közszféra információinak további felhasználásáról szóló 2003/98/EK irányelv módosításáról szóló, 2013. június 26-i 2013/37/EU európai parlamenti és tanácsi irányelvnek
+
+való megfelelést szolgálja.
 
 78. § (1)–(2)
 
@@ -1093,11 +1096,13 @@ szükséges.
 | 16. | Azon közérdekű adatok hasznosítására irányuló szerződések listája, amelyekben a közfeladatot ellátó szerv az egyik szerződő fél | Negyedévente | Az előző állapot 1 évig archívumban tartásával |
 | 17. | A közfeladatot ellátó szerv kezelésében lévő közérdekű adatok felhasználására, hasznosítására vonatkozó általános szerződési feltételek | A változásokat követően azonnal | Az előző állapot 1 évig archívumban tartásával |
 | 18. | A közfeladatot ellátó szervre vonatkozó különös és egyedi közzétételi lista | A változásokat követően azonnal | Az előző állapot törlendő |
-| 19. | A közfeladatot ellátó szerv kezelésében levő, a közadatok újrahasznosításáról szóló törvény szerint újrahasznosítás céljára elérhető közadatok listája, valamint azok rendelkezésre álló formátuma | A változásokat követő 15 napon belül | Az előző állapot 1 évig archívumban tartásával |
-| 20. | A 19. sor szerinti közadatok újrahasznosítására vonatkozó általános szerződési feltételek elektronikusan szerkeszthető változata | A változásokat követő 15 napon belül | Az előző állapot törlendő |
-| 21. | A 19. sor szerinti közadatok újrahasznosítás céljából történő rendelkezésre bocsátásért fizetendő díjak általános jegyzéke | A változásokat követő 15 napon belül | Az előző állapot törlendő |
+| 19. | A közfeladatot ellátó szerv kezelésében levő, a közadatok újrahasznosításáról szóló törvény szerint újrahasznosítás céljára elérhető kulturális közadatok listája a rendelkezésre álló formátumok megjelölésével, valamint a közfeladatot ellátó szerv kezelésében levő, a közadatok újrahasznosításáról szóló törvény szerint újrahasznosítható közadat típusokról való tájékoztatás, a rendelkezésre álló formátumok megjelölésével | A változásokat követő 15 napon belül | Az előző állapot 1 évig archívumban tartásával |
+| 20. | A 19. sor szerinti közadatok és kulturális közadatok újrahasznosítására vonatkozó általános szerződési feltételek elektronikusan szerkeszthető változata | A változásokat követő 15 napon belül | Az előző állapot törlendő |
+| 21. | A 19. sor szerinti közadatok és kulturális közadatok újrahasznosítás céljából történő rendelkezésre bocsátásáért fizetendő díjak általános jegyzéke, a díjszámítás alapját képező tényezőkkel együttesen | A változásokat követő 15 napon belül | Az előző állapot törlendő |
 | 22. | A közadatok újrahasznosításáról szóló törvény szerinti jogorvoslati tájékoztatás | A változásokat követő 15 napon belül | Az előző állapot törlendő |
 | 23. | A közfeladatot ellátó szerv által megkötött, a közadatok újrahasznosításáról szóló törvény szerint kötött kizárólagos jogot biztosító megállapodások szerződő feleinek megjelölése, a kizárólagosság időtartamának, tárgyának, valamint a megállapodás egyéb lényeges elemeinek megjelölése | A változásokat követő 15 napon belül | Az előző állapot törlendő |
+| 24. | A közfeladatot ellátó szerv által kötött, a közadatok újrahasznosításáról szóló törvény szerint a kulturális közadatok digitalizálására kizárólagos jogot biztosító megállapodások szövege | A változásokat követő 15 napon belül | Az előző állapot törlendő |
+| 25. | A közadatok újrahasznosításáról szóló törvény szerinti azon jogszabály, közjogi szervezetszabályozó eszköz, közszolgáltatási szerződés vagy más kötelező erővel bíró dokumentum (vagy az annak elérhetőségére mutató hivatkozás), amely az újrahasznosítás céljából rendelkezésre bocsátható közadat gyűjtésével, előállításával, feldolgozásával és terjesztésével összefüggő költségek jelentős részének saját bevételből való fedezését írja elő a közfeladatot ellátó szerv részére | A változásokat követő 15 napon belül | Az előző állapot törlendő |
 
 #### III. Gazdálkodási adatok
 

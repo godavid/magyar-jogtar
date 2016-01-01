@@ -667,7 +667,7 @@ olyan vallási vagy más világnézeti meggyőződésen alapuló, továbbá nemz
 
 (5)
 
-64/C. § (1) Az e törvény – az egyes pénzügyi tárgyú törvények módosításáról szóló 2012. évi CLI. törvénnyel megállapított – 30/A. § (1) bekezdésében foglalt rendelkezések a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény 231/B. §-ában meghatározottak szerint alkalmazandók.
+64/C. § (1) Az e törvény – az egyes pénzügyi tárgyú törvények módosításáról szóló 2012. évi CLI. törvénnyel megállapított – 30/A. § (1) bekezdésében foglalt rendelkezések a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény 447. §-ában meghatározottak szerint alkalmazandók.
 
 (2) E törvénynek az egyes törvényeknek a közigazgatási hatósági eljárásokkal, az egyes közhiteles hatósági nyilvántartásokkal összefüggő, valamint egyéb törvények módosításáról szóló 2013. évi LXXXIV. törvény 47. §-ával módosított rendelkezéseit e rendelkezések hatálybalépését követően indult, illetve a megismételt eljárásokban kell alkalmazni.
 

@@ -149,7 +149,7 @@ megállapításra kerülő öregségi nyugdíj esetében
 - a) legalább negyven év jogosultsági idővel rendelkezik, és
 - b) azon a napon, amelytől kezdődően az öregségi teljes nyugdíjat megállapítják, a Tbj. 5. § (1) bekezdés a)–b) és e)–g) pontja szerinti biztosítással járó jogviszonyban nem áll.
 
-(2b) A (2a) bekezdés tekintetében jogosultsági időnek minősül a kereső tevékenységgel járó biztosítási vagy azzal egy tekintet alá eső jogviszonnyal, valamint a terhességi-gyermekágyi segélyben, csecsemőgondozási díjban, gyermekgondozási díjban, gyermekgondozási segélyben, gyermeknevelési támogatásban és a súlyosan fogyatékos vér szerinti vagy örökbe fogadott gyermekére tekintettel megállapított ápolási díjban eltöltött idővel, vagy ezekkel egy tekintet alá eső, 1998. január 1-jét megelőzően szerzett szolgálati idő.
+(2b) A (2a) bekezdés tekintetében jogosultsági időnek minősül a kereső tevékenységgel járó biztosítási vagy azzal egy tekintet alá eső jogviszonnyal, valamint a terhességi-gyermekágyi segélyben, csecsemőgondozási díjban, gyermekgondozási díjban, gyermekgondozást segítő ellátásban, gyermekgondozási segélyben, gyermeknevelési támogatásban és a súlyosan fogyatékos vér szerinti vagy örökbe fogadott gyermekére tekintettel megállapított ápolási díjban eltöltött idővel, vagy ezekkel egy tekintet alá eső, 1998. január 1-jét megelőzően szerzett szolgálati idő.
 
 (2c) A (2a) bekezdés alapján az öregségi teljes nyugdíj nem állapítható meg, ha a kereső tevékenységgel járó biztosítási vagy azzal egy tekintet alá eső jogviszonnyal szerzett szolgálati idő nem éri el a harminckét évet, olyan nő esetén pedig, akinek a súlyosan fogyatékos vér szerinti vagy örökbe fogadott gyermekére tekintettel ápolási díjat állapítottak meg, vagy aki 1998. január 1-jét megelőzően ezzel egy tekintet alá eső szolgálati időt szerzett, a harminc évet.
 
@@ -212,7 +212,7 @@ megállapításra kerülő öregségi nyugdíj esetében
 (2) Az öregségi nyugdíj alapját képező havi átlagkereset meghatározásánál
 
 - a) az álláskeresési járadék, a munkanélküli-járadék, a vállalkozói járadék, a nyugdíj előtti munkanélküli-segély, az álláskeresést ösztönző juttatás, a keresetpótló juttatás (a továbbiakban együtt: álláskeresési támogatás) összegét,
-- b) a gyermekgondozási segély, a gyermeknevelési támogatás és a gyermekgondozási díj összegét,
+- b) a gyermekgondozást segítő ellátás, gyermekgondozási segély, a gyermeknevelési támogatás és a gyermekgondozási díj összegét,
 - c) a nyugdíjjárulék-köteles szociális és gyermekvédelmi ellátások (gyermeknevelési támogatás, ápolási díj) összegét,
 - d) a prémiumévek programról és a különleges foglalkoztatási állományról szóló 2004. évi CXXII. törvény (a továbbiakban: Péptv.) 3–5. §-a szerinti prémiumévek program, illetve különleges foglalkoztatási állomány keretében járó juttatás összegét,
 - e) a rehabilitációs ellátás összegét,
@@ -315,7 +315,7 @@ megállapításra kerülő öregségi nyugdíj esetében
 
 - a) a Tbj.-ben meghatározott, nyugellátás szerzése céljából megállapodást kötött személy esetében azt az időszakot, amelyre az előírt nyugdíjjárulékot megfizették,
 - b) az egyházi jogi személy által kiállított igazolás alapján az egyházi személyként ilyen minőségben eltöltött, az 1997. december 31-ét követően pedig azt az időtartamot, amelyre 2011. december 31-éig az előírt nyugdíjbiztosítási és nyugdíjjárulékot, 2012. január 1-jétől az előírt nyugdíjjárulékot az egyházi jogi személy megfizette,
-- c) a gyermeknevelési támogatás, az ápolási díj, valamint a gyermekgondozási segély folyósításának időtartamát, amennyiben az előírt nyugdíjjárulékot megfizették,
+- c) a gyermeknevelési támogatás, az ápolási díj, valamint a gyermekgondozást segítő ellátás, illetve gyermekgondozási segély folyósításának időtartamát, amennyiben az előírt nyugdíjjárulékot megfizették,
 - d) a katonai (polgári) szolgálatban eltöltött időt,
 - e) a táppénz (betegszabadság) – ide nem értve a külön jogszabály rendelkezése szerint kötött megállapodás alapján folyósított táppénzt –, a baleseti táppénz, a terhességi-gyermekágyi segély és a csecsemőgondozási díj folyósításának időtartamát, valamint a gyermekgondozási díj 2000. január 1-jét megelőző folyósításának időtartamát, illetőleg az 1999. december 31-ét követő gyermekgondozási díj, továbbá a rehabilitációs ellátás folyósításának azt az időtartamát, amelyre az előírt nyugdíjjárulékot megfizették,
 - f) az álláskeresési támogatás folyósításának időtartamát, ha az előírt nyugdíjjárulékot megfizették,
@@ -414,6 +414,8 @@ a felsőoktatási intézményben nappali képzésben folytatott – legfeljebb a
 44/E. § (1) Aki egyidejűleg több hozzátartozói nyugellátásra jogosult, választhat az őt megillető hozzátartozói nyugellátások közül.
 
 (2) A jogosult által nem választott hozzátartozói nyugellátás folyósítását szüneteltetni kell.
+
+44/F. § Ha a hozzátartozói nyugdíj iránti kérelem benyújtásakor a jogszerző halálát bizonyító anyakönyvi kivonat nem áll rendelkezésre, de az ellátást igénylő hozzátartozó igazolja, hogy bíróságnál kezdeményezte az eltűntnek vagy holtnak nyilvánítást, az eljárást fel kell függeszteni. Ha az ellátást igénylő hozzátartozó az eltűntnek vagy holtnak nyilvánító bírósági határozatot a jogerőre emelkedést követő hat hónapon belül benyújtja a nyugdíj-biztosítási igazgatási szervnek, a hozzátartozói nyugellátást az eredeti igénybejelentés napjától kezdődően, az akkor hatályos jogszabályi rendelkezések alapján kell megállapítani.
 
 ### 1. CÍM — Az özvegyi nyugdíj
 
@@ -634,6 +636,8 @@ Az özvegyi nyugdíj feléledése során az özvegyre irányadó öregségi nyug
 
 (6) Az Országgyűlés felhatalmazza a Kormányt, hogy a tényleges, illetőleg a várható makrogazdasági folyamatok és adatok ismeretében a szükséges feltételek megléte esetén további kiegészítő intézkedéseket tegyen.
 
+(7) Jogszabály elrendelheti más pénzbeli ellátás e § szerinti emelését.
+
 #### 63. §
 
 ### VII. Fejezet — IGÉNYÉRVÉNYESÍTÉS ÉS ELJÁRÁSI SZABÁLYOK
@@ -691,7 +695,17 @@ Az özvegyi nyugdíj feléledése során az özvegyre irányadó öregségi nyug
 
 (2) Ha a nyugdíjbiztosítási igazgatási szervhez érkezett belföldi jogsegély iránti megkeresés olyan adat szolgáltatására irányul, amely a nyugdíjbiztosítási igazgatási szervnek nem áll rendelkezésére, de amelynek kezelésére törvény feljogosítja, és az adat más módon nem szerezhető be, a nyugdíjbiztosítási igazgatási szerv a megkeresés megérkezésétől számított huszonkét munkanapon belül a 100. § (2) bekezdése szerint hatósági ellenőrzést folytat le, és annak eredményéről három munkanapon belül értesíti a megkereső hatóságot.
 
-#### 72. §
+72. § (1) A nyugdíj-biztosítási igazgatási szerveknek a nyugellátásokkal és más ellátásokkal kapcsolatos eljárásaiban – ha az adott eljárás tekintetében törvény másként nem rendelkezik vagy kormányrendelet rövidebb ügyintézési határidőt nem állapít meg – az ügyintézési határidő huszonkét munkanap. Ha az eljárásban az általános hatáskörű nyugdíj-megállapító szerv az egészségi állapot szakkérdését is vizsgálja, az ügyintézési határidő harmincöt munkanap.
+
+(2) Az ügyintézési határidő tárgyév április 15-én jár le, ha
+
+- a) az öregségi nyugdíj megállapítása iránti kérelmet a tárgyévi nyugdíj-megállapításhoz tartozó valorizációs szorzószámok hatálybalépését megelőzően nyújtották be,
+- b) a hozzátartozói nyugellátás megállapítása iránti kérelmet a tárgyévi nyugdíj-megállapításhoz tartozó szorzószámok hatálybalépését megelőzően nyújtották be, és a hozzátartozói nyugellátás megállapításához a valorizációs szorzószámokat alkalmazni kell, vagy
+- c) a 22/A. § szerinti növelés iránti kérelmet a tárgyévi nyugdíj-megállapításhoz tartozó valorizációs szorzószámok hatálybalépését megelőzően nyújtották be, és a növelést megelőző naptári év előtt elért keresetet, jövedelmet a növelést megelőző naptári év kereseti szintjéhez kell igazítani, és az (1) bekezdés szerinti határidő tárgyév április 15-ét megelőzően telik le.
+
+(3) A nyugdíj-biztosítási igazgatási szerv által nyilvántartott adatokról szóló hatósági bizonyítvány kiadásának ügyintézési határideje tíz munkanap.
+
+(4) A nyugdíj-biztosítási igazgatási szervek által lefolytatott eljárásokban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
 
 #### 72/A. §
 
@@ -968,7 +982,8 @@ tarthatók nyilván.
 - d) az egészségügyi ellátást nyújtó szervek (személyek) az egészségügyi szolgáltatói feladataik ellátása érdekében az a)–e) pontjai,
 - e) a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalai és a cégbíróságok külön törvényben meghatározottak,
 - f) a menekültügyi hatóság az ellátások és támogatások megállapítása, folyósítása és a jogosultság ellenőrzése céljából az a), d) és f) pont,
-- g) az egészségügyi államigazgatási szerv szervei egészségfejlesztési tevékenységük ellátása céljából az a)–e) pontjai
+- g) az egészségügyi államigazgatási szerv szervei egészségfejlesztési tevékenységük ellátása céljából az a)–e) pontjai,
+- h) az állami szakképzési és felnőttképzési szerv a pályakövetési rendszer működtetése céljából a d) pont
 
 szerinti adatok igénylésére jogosultak.
 
@@ -1015,7 +1030,7 @@ szerinti adatok igénylésére jogosultak.
 
 (5) Az eltérés okait a nyugdíjbiztosítási igazgatási szerv – ha a biztosított, volt biztosított által benyújtott okiratok nem elegendőek a tényállás tisztázására – megvizsgálja. Ennek során a nyugdíjbiztosítási igazgatási szerv a biztosítottat, volt biztosítottat nyilatkozattételre hívhatja fel, a foglalkoztatótól vagy más adatszolgáltatásra kötelezettől, illetve az egykorú iratokat őrző más személytől vagy szervezettől adatot kérhet, helyszíni szemlét tarthat, más bizonyítási eljárást folytathat le, továbbá 2009. december 31-ét követő időszakra vonatkozóan az állami adóhatóságnál adategyeztetést, illetve adóhatósági eljárást kezdeményezhet.
 
-(6) Az egyeztetési eljárás ügyintézési határideje hatvan nap, amely további hatvan nappal meghosszabbítható. Az ügyintézési határidőbe nem számít bele a (3) bekezdés szerinti értesítéstől a biztosított, volt biztosított jelzésének beérkezéséig – ideértve azt az esetet is, ha a biztosított, volt biztosított azt jelzi, hogy az értesítésben foglaltakkal kapcsolatban nincs észrevétele –, ennek hiányában a (4) bekezdés szerinti határidő leteltéig terjedő idő, valamint a 100. § szerinti ellenőrzés lefolytatásának időtartama.
+(6) Az egyeztetési eljárás ügyintézési határideje hatvan nap. Az ügyintézési határidőbe nem számít bele a (3) bekezdés szerinti értesítéstől a biztosított, volt biztosított jelzésének beérkezéséig – ideértve azt az esetet is, ha a biztosított, volt biztosított azt jelzi, hogy az értesítésben foglaltakkal kapcsolatban nincs észrevétele –, ennek hiányában a (4) bekezdés szerinti határidő leteltéig terjedő idő, valamint a 100. § szerinti ellenőrzés lefolytatásának időtartama.
 
 (7) A nyugdíjbiztosítási igazgatási szerv az egyeztetési eljárást határozattal zárja le. A határozatban – a közigazgatási hatósági eljárás általános szabályairól szóló törvényben meghatározottakon túl – fel kell tüntetni az adatmódosításokat, illetve a kért adatmódosítások megtagadásának okát, továbbá a biztosítottnak, volt biztosítottnak az egyeztetési eljárást követően nyilvántartott valamennyi, (3) bekezdés szerinti adatát.
 
@@ -1064,6 +1079,8 @@ szerinti adatok igénylésére jogosultak.
 
 (2) A Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv az előírt nyilvántartási, adatszolgáltatási és bejelentési kötelezettség, továbbá rendszeresített nyomtatvány használata alól mentesítést adhat. A nyugdíjbiztosítási igazgatási szerv a bejelentés módjára és a határidőkre egyes foglalkoztatókkal és egyéb szervekkel eltérő megállapodást köthet.
 
+(3) A nyugdíjbiztosítási igazgatási szerv vezetője a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 28. § (5) bekezdésével összhangban a nemzetbiztonsági szolgálatok kihelyezett állományának tagját érintő nyugdíjbiztosítási feladatok ellátásával összefüggő adatszolgáltatás rendjét és az azzal összefüggő eljárási szabályokat – a törvényi előírások keretei között – a nemzetbiztonsági szolgálattal külön megállapodásban rögzíti.
+
 ### Ellenőrzés
 
 100. § (1) A nyugdíjbiztosítási igazgatási szerv szak- és pénzügyi ellenőrzése kiterjed a nyugdíjbiztosítással kapcsolatos jogszabályok megtartására, illetőleg a nyilvántartási és az adatszolgáltatási kötelezettség teljesítésére, a nyugdíjbiztosítási igazgatási szerv hatáskörébe tartozó nyugellátás megállapításával kapcsolatos adatszolgáltatásra. Az ehhez szükséges nyilvántartásokat, könyvelési és egyéb okmányokat, illetőleg adatokat rendelkezésre kell bocsátani.
@@ -1079,7 +1096,7 @@ szerinti adatok igénylésére jogosultak.
 - c) a nyugellátás megállapítására és folyósítására vonatkozó részletes szabályokat,
 - d) a nyugdíjprémium megállapítására és a végrehajtásra vonatkozó részletes szabályokat, valamint a (6) bekezdés a) pontja szerinti szorzószámot,
 - e) a nyugellátás összegének megállapításánál a személyi jövedelemadó képzett összegét,
-- f) a nyugellátás emelésének részletes szabályait, valamint évente az 1998. december 31-e utáni időponttól megállapításra kerülő öregségi teljes nyugdíji és árvaellátás évenkénti legkisebb összegeit, továbbá az 50. § (6) bekezdése szerinti együttfolyósítási összeghatárt,
+- f) a nyugellátások és – törvény vagy kormányrendelet alapján – a 62. §-ban foglaltak szerint emelendő más pénzbeli ellátások emelésének részletes szabályait, valamint évente az 1998. december 31-e utáni időponttól megállapításra kerülő öregségi teljes nyugdíji és árvaellátás évenkénti legkisebb összegeit, továbbá az 50. § (6) bekezdése szerinti együttfolyósítási összeghatárt,
 - g) az öregségi nyugdíj és a 6. § (4) bekezdése szerinti ellátások szüneteltetésének részletes eljárási szabályait,
 - h) az igény érvényesítésével, az igény elbírálásával, a megállapító és a folyósító szervek közötti adatszolgáltatással kapcsolatos eljárást, továbbá a rögzített öregségi nyugdíj megállapítására vonatkozó részletes szabályokat,
 - i) a visszafizetési és megtérítési kötelezettség teljesítésével, elmulasztásával, továbbá a követelés érvényesítésével, valamint a mérséklés, elengedés, fizetési halasztás, részletfizetés engedélyezésével kapcsolatos eljárási rendelkezéseket,
@@ -1088,9 +1105,9 @@ szerinti adatok igénylésére jogosultak.
 - l) az adatszolgáltatásra és bejelentési kötelezettségre vonatkozó eljárási rendelkezéseket,
 - m) a nyugdíj-biztosítási igazgatási szervek hivatalos iratainak a közigazgatási hatósági eljárásokban elektronikus úton történő teljesítésével kapcsolatos részletes szabályokat,
 - n) a kivételes nyugellátás megállapításának, továbbá a kivételes nyugdíjemelés és az egyszeri segély engedélyezésének részletes szabályait,
-- o) a 18. § (2b)–(2c) bekezdés szerinti, kereső tevékenységgel járó biztosítási vagy azzal egy tekintet alá eső jogviszonyokat, valamint a gyermekgondozási segélyben vagy súlyosan fogyatékos vér szerinti vagy örökbe fogadott gyermekre tekintettel megállapított ápolási díjban eltöltött idővel szerzett jogosultsági idővel egy tekintet alá eső, 1998. január 1-jét megelőzően szerzett szolgálati időket;
+- o) a 18. § (2b)–(2c) bekezdés szerinti, kereső tevékenységgel járó biztosítási vagy azzal egy tekintet alá eső jogviszonyokat, valamint a gyermekgondozást segítő ellátásban vagy súlyosan fogyatékos vér szerinti vagy örökbe fogadott gyermekre tekintettel megállapított ápolási díjban eltöltött idővel szerzett jogosultsági idővel egy tekintet alá eső, 1998. január 1-jét megelőzően szerzett szolgálati időket;
 - p) az özvegyi járadék számítására vonatkozó szabályokat;
-- q) a 2. § (6) bekezdés szerinti esetben a társadalombiztosítási nyugdíjrendszerben szerzett jogosultságok meghatározásának, beszámításának módját;
+- q)
 - r) a társadalombiztosítási egyéni számlával kapcsolatos részletes szabályokat;
 - s) az egyeztetési eljárás és a jogosultsági idő, szolgálati idő igazolása iránti eljárás részletes szabályait
 
