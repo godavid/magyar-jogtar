@@ -62,7 +62,7 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 - d) az egyházi jogi személy tulajdonában lévő gépjármű,
 - e) a létesítményi tűzoltóságot fenntartó gazdasági szervezetek azon tűzoltó szerkocsinak minősülő gépjárművei, melyek riasztás esetén részt vesznek a tűz elleni védekezésben, illetve a műszaki mentésben,
 - f) a súlyos mozgáskorlátozott személy, a súlyos mozgáskorlátozott kiskorú, a cselekvőképességet korlátozó (kizáró) gondnokság alatt álló súlyos mozgáskorlátozott nagykorú személyt rendszeresen szállító, vele közös háztartásban élő szülő – ideértve a nevelő-, mostoha- vagy örökbefogadó szülőt is – (a továbbiakban együtt: mentességre jogosult adóalany) egy darab, 100 kW teljesítményt el nem érő, nem személytaxiként üzemelő személygépkocsija után legfeljebb 13 000 forint erejéig. Ha a mentességre jogosult adóalany adóalanyisága és adókötelezettsége az adóévben több személygépkocsi után is fenn áll, akkor a mentesség kizárólag egy, a legkisebb teljesítményű személygépkocsi után jár.
-- g) a kizárólag elektromos hajtómotorral ellátott személygépkocsi,
+- g) a környezetkímélő gépkocsi,
 - h)–i)
 - j) az a gépjármű, amelynek adómentességét nemzetközi egyezmény vagy viszonosság biztosítja. A viszonosság tekintetében az adópolitikáért felelős miniszter állásfoglalása az irányadó.
 - k) az Észak-atlanti Szerződés Szervezete, az Észak-atlanti Szerződés alapján felállított nemzetközi katonai parancsnokságok, továbbá az Észak-atlanti Szerződés tagállamainak és a Békepartnerség más részt vevő államainak Magyarországon tartózkodó fegyveres erői, és e fegyveres erők és parancsnokságok személyi állományába tartozó vagy alkalmazásában álló nem magyar állampolgárságú, katonai szolgálatban lévő és polgári állományú személyek tulajdonában lévő gépjármű.
@@ -71,9 +71,11 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 
 6. § (1) Az adó alapja személyszállító gépjármű – ide nem értve az autóbuszt – hatósági nyilvántartásban feltüntetett teljesítménye, kilowattban kifejezve. Ha a hatósági nyilvántartásban a személyszállító gépjármű teljesítménye csak lóerőben van feltüntetve, akkor a lóerőben kifejezett teljesítményt 1,36-tal kell osztani, s az eredményt a kerekítés általános szabályai szerint egész számra kell kerekíteni. Ha a hatósági nyilvántartás a személyszállító gépjármű teljesítményét nem tartalmazza, akkor az adóhatóság a személyszállító gépjármű azonosító adataival megkeresi az illetékes közlekedési hatóságot a személyszállító gépjármű teljesítménye közlése végett. Ez esetben ezt az adatot kell a személyszállító gépjármű adóalapjának tekinteni.
 
-(2) Az adó alapja az autóbusz, a nyergesvontató, a lakókocsi, lakópótkocsi hatósági nyilvántartásban feltüntetett saját tömege (önsúlya).
+(2) Az adó alapja az autóbusz, a lakókocsi, a lakópótkocsi hatósági nyilvántartásban feltüntetett saját tömege.
 
-(3) Az adó alapja a tehergépjármű hatósági nyilvántartásban feltüntetett saját tömege (önsúlya) növelve a terhelhetősége (raksúlya) 50%-ával.
+(3) Az adó alapja a tehergépjármű hatósági nyilvántartásban feltüntetett saját tömege, növelve a terhelhetősége (raksúlya) 50%-ával.
+
+(4) Az adó alapja nyergesvontató esetében a nyergesvontató saját tömegének kétszerese, növelve a nyergesvontatóval vontatható, átmenőfékes vontatmány (félpótkocsi) megengedett legnagyobb össztömege és a nyergesvontató saját tömege pozitív különbözetének felével.
 
 ### Az adó mértéke
 
@@ -175,7 +177,7 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 
 (3) Az (1) bekezdés szerinti adótételt illetékbélyeggel kell megfizetni, melyet a közúti fuvarozási engedélyre – loco fuvarozás esetén a fuvarozás teljes időtartamára vonatkozóan, tranzit fuvarozás esetén az oda- és visszaútra külön-külön – kell felragasztani Magyarország területére való belépéskor. Adózó a felragasztást követően köteles a belépés időpontját (év-hónap-nap-óra) az illetékbélyegekre rávezetni. Adóköteles fuvarozási engedéllyel fizetési kötelezettség teljesítése (illetékbélyeg) nélkül legfeljebb Magyarország területére való belépéstől számított 5 km-es körzethatáron belül lehet szankciómentesen közlekedni.
 
-16. § Felhatalmazást kap a Kormány, hogy rendelettel a 15. §-ban meghatározott adótételtől eltérő adótételt állapítson meg, illetőleg a 13. § hatálya alá nem eső gépjárművet mentesítse az adó alól. Államokkal szemben az adómérséklés vagy az adómentesség feltétele a viszonosság.
+16. §
 
 ### Az adó megfizetésének ellenőrzése
 
@@ -193,7 +195,7 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 
 ### Az adó tárgya
 
-17/A. § (1) Adóköteles az a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) szerinti személygépkocsi – ide nem értve a kizárólag elektromos hajtómotorral ellátott személygépkocsit – (a továbbiakban, e fejezet alkalmazásában személygépkocsi), amely nem magánszemély tulajdonában áll, továbbá az a személygépkocsi, amely után a számvitelről szóló 2000. évi C. törvény szerint költséget, ráfordítást, illetve az Szja tv. szerint tételes költségelszámolással költséget, értékcsökkenési leírást (a továbbiakban költség, ráfordítás, értékcsökkenési leírás együtt: költség) számoltak el.
+17/A. § (1) Adóköteles az a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) szerinti személygépkocsi – ide nem értve a környezetkímélő gépkocsit – (a továbbiakban, e fejezet alkalmazásában személygépkocsi), amely nem magánszemély tulajdonában áll, továbbá az a személygépkocsi, amely után a számvitelről szóló 2000. évi C. törvény szerint költséget, ráfordítást, illetve az Szja tv. szerint tételes költségelszámolással költséget, értékcsökkenési leírást (a továbbiakban költség, ráfordítás, értékcsökkenési leírás együtt: költség) számoltak el.
 
 (2) Nem adóköteles az a magánszemély tulajdonában álló személygépkocsi, amelynek használatával összefüggésben a használó – költségei ellentételezésére – kizárólag az Szja tv. 7. § (1) bekezdés r) pontja és 25. § (2) bekezdés b) pontja szerinti költségtérítést kap, továbbá az olyan, magánszemélynek pénzügyi lízingbe adott személygépkocsi, amely után költséget nem számoltak el és az olyan, magánszemélynek tartós bérletbe adott személygépkocsi, amely után kizárólag értékcsökkenési leírást számoltak el.
 
@@ -272,14 +274,14 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 18. § E törvény alkalmazásában:
 
 - 1. gépjármű: az olyan szállító vagy vontató eszköz, amelyet beépített erőgép hajt, használata közben közutat vesz igénybe és rendszámtáblával ellátott,
-- 2. pótkocsi: a gépjármű által vontatható teher- és sátras utánfutó, félpótkocsi, lakópótkocsi, műhelykocsi vagy hasonló jellegű más nem önjáró jármű, amelyet rendszámtáblával láttak el,
+- 2. pótkocsi: a gépjármű által vontatható teher- és sátras utánfutó, lakópótkocsi, műhelykocsi vagy hasonló jellegű más nem önjáró jármű, amelyet rendszámtáblával láttak el,
 - 3. személygépkocsi: személyszállítás céljára készült olyan gépkocsi, amelyben – a vezető ülését is beleértve – legfeljebb kilenc állandó ülőhely van, ide nem értve az e törvény szerinti autóbuszt, valamint motorkerékpárt,
 - 4. személyszállító gépjármű: az autóbusz, a motorkerékpár, valamint a hatósági nyilvántartás szerint személyszállításra szolgáló más gépjármű,
 - 5. tehergépjármű: a 3—4. pontban fel nem sorolt gépjármű és pótkocsi,
 - 6. autóbusz: személyszállítás céljára készült, elektromos felsővezetékhez nem kötött gépjármű, amelyben a vezető ülésével együtt kilencnél több állandó ülőhely van,
 - 7. motorkerékpár: olyan gépjármű, amelynek két vagy három kereke van és a tervezési legnagyobb sebessége 45 km/óránál nagyobb, továbbá olyan négykerekű gépjármű, amelynek saját tömege legfeljebb 550 kg és motorteljesítménye nem haladja meg a 15 kilowattot,
 - 8. külföldön nyilvántartott az a gépjármű, amelynek forgalmi engedélyét és hatósági jelzését (rendszámát) nem magyar hatóság adta ki, kizárólag külföldön nyilvántartott gépjárművekből álló gépjárműszerelvény esetén az adó megállapítása a vontató honossága szerint történik, feltéve, ha nemzetközi egyezmény e kérdésben másként nem rendelkezik,
-- 9.
+- 9. környezetkímélő gépkocsi az a gépjármű, amely a KöHÉM rendelet 2015. július 1-jén hatályos 2. § (6) bekezdése szerint környezetkímélő gépkocsinak minősül,
 - 10. költségvetési szerv az államháztartásról szóló 2011. évi CXCV. törvény szerinti szerv,
 - 11. helyi és a helyközi tömegközlekedés lebonyolítását szolgálja a gépjármű (autóbusz), amellyel a vállalkozó kizárólag menetrendszerinti személyszállítást díjfizetés ellenében bárki által igénybe vehető módon végzi,
 - 12. súlyos mozgáskorlátozott az a személy, aki a súlyos mozgáskorlátozottak közlekedési kedvezményeiről szóló jogszabályban meghatározott állapota miatt súlyos mozgáskorlátozottnak minősül, és ezt a tényt az ott meghatározott szakvélemény, szakhatósági állásfoglalás, igazolás, hatósági határozat másolatával igazolja,
@@ -324,3 +326,11 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 (2)
 
 (3) E törvény a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás tárgykörében a Megállapodást kihirdető 1994. évi I. törvény 3. §-ával összhangban az Európai Közösségek következő jogszabályával összeegyeztethető szabályozást tartalmaz: az Európai Parlament és a Tanács 1999/62/EK irányelve a nehéz-tehergépjárművekre egyes infrastruktúrák használatáért kivetett díjakról.
+
+#### VI.
+
+### AZ EURÓPAI UNIÓ JOGÁNAK VALÓ MEGFELELÉS
+
+21. § (1) Az 5. § g) pontja szerinti mentesség, valamint a 17/A. § (1) bekezdésének a környezetkímélő gépkocsira vonatkozó rendelkezése csekély összegű (de minimis) támogatásnak minősül, amely az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 1407/2013/EU bizottsági rendelet szabályaival összhangban nyújtható.
+
+(2) E törvény 5. § g) pontja és 17/A. § (1) bekezdése az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 1407/2013/EU bizottsági rendelet (HL L 352., 2013.12.24., 1.o.) hatálya alá tartozó támogatást tartalmaz.

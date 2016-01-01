@@ -86,7 +86,7 @@ a termőföld védelméről
 
 (2) A településen szociális földprogramot, illetve mezőgazdasági tevékenység végzése céljából közfoglalkoztatási programot (a továbbiakban együtt: földprogram) működtető önkormányzatnak a részére megküldött, az (1) bekezdésben foglalt jogerős határozatban a földvédelmi bírság megfizetésére kötelezetett személyt, valamint – ha az nem azonos a tulajdonossal – a tulajdonost (a továbbiakban együtt: kötelezett) értesítenie kell arról, hogy amennyiben az értesítés kézhezvételétől számított 30 napon belül – a (3) bekezdés szerinti módon – nem igazolja, hogy az 5. §-ban meghatározott kötelezettségének eleget tett, az önkormányzat a határidő lejártát követően – az önkormányzati hatósági hatáskörben hozott határozattal – a zártkerti ingatlant 1 évre a földprogram működtetése céljából kijelölheti.
 
-(3) A kötelezett az 5. §-ban meghatározott kötelezettsége teljesítését az ingatlanügyi hatóság által – a kötelezett kérelmére – kiállított hatósági bizonyítvánnyal igazolja. A hatósági bizonyítványt a kérelem előterjesztésétől számított 30 napon belül kell kiadni.
+(3) A kötelezett az 5. §-ban meghatározott kötelezettsége teljesítését az ingatlanügyi hatóság által – a kötelezett kérelmére – kiállított hatósági bizonyítvánnyal igazolja.
 
 (4) Ha a (2) bekezdésben meghatározott feltételek alapján az önkormányzat a zártkerti ingatlannak a földprogram működtetése céljából való kijelöléséről dönt, a zártkerti ingatlanon a –földprogram céljából történő – használat, hasznosítás megkezdésének napján a fennálló földhasználati szerződés megszűnik.
 
@@ -138,7 +138,7 @@ a termőföld védelméről
 
 6/A. § (1) Ha az ingatlanügyi hatóság hivatalból vagy más eljárás kapcsán észleli, hogy az igénybevevő az újrahasznosítást előzetes bejelentés hiányában, illetve a bejelentésnek az ingatlanügyi hatóság általi jóváhagyása nélkül valósította meg, az ingatlanügyi hatóság – az újrahasznosításról való tudomásszerzést követő 15 napon belül – határidő megjelölésével felhívja az igénybevevőt, hogy az újhasznosítással érintett földrészletre vonatkozóan dokumentálja az újrahasznosítás megvalósítása érdekében elvégzett munkafolyamatokat, az újrahasznosítással kialakult új terepviszonyokat, valamint csatolja az újrahasznosított terület adatait ábrázoló ingatlan-nyilvántartási térképi adatbázisból nyomtatott olyan méretarányú térképmásolatot, amelynek tartama áttekinthető és tartalmazza a méretarány tényezőt.
 
-(2) Az (1) bekezdésben meghatározott dokumentumok benyújtásától számított 30 napon belül az ingatlanügyi hatóság helyszíni ellenőrzést tart.
+(2)
 
 (3) Az ingatlanügyi hatóság földvédelmi bírság kiszabása mellett dönt az újrahasznosítás elfogadásáról és megállapítja az újrahasznosított terület művelési ágát és minőségi osztályát, vagy ennek hiányában a 6. § (10) bekezdésében meghatározottak szerint a további munkák előírásáról dönt.
 
@@ -166,6 +166,8 @@ a termőföld védelméről
 (2) Az ingatlanügyi hatóság a földvédelmi eljárás, illetve a földvédelmi szakkérdés vizsgálata során minden esetben helyszíni szemle alapján dönt. A helyszíni szemlén részt vevő szakhatóságok az állásfoglalásukat a helyszíni szemléről felvett jegyzőkönyvbe is foglalhatják.
 
 (3) A hivatalból indult, illetőleg folytatott földvédelmi eljárás, illetve a földvédelmi szakkérdés vizsgálata során a helyszíni szemle, illetve ellenőrzés, és a műszeres vizsgálatok költségei, továbbá a tényállás tisztázása során felmerült személyi és dologi költségek egyéb eljárási költségnek minősülnek. E bekezdés szerinti határidőre meg nem fizetett egyéb eljárási költség adók módjára behajtandó köztartozás.
+
+(4) Az ingatlanügyi hatóságnak a földvédelmi eljárásban meghozott, a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésében nem kell rendelkeznie a kérelmezett jog gyakorlásáról.
 
 8. § (1) Ha az ingatlanügyi hatóság földvédelmi szakkérdést vizsgál vagy más hatóságok engedélyezési eljárásaiban földvédelmi szakhatóságként működik közre, a termőföld védelmének érvényesítése érdekében érvényre kell juttatni, hogy az engedélyezési eljárás alá eső tevékenység végzése, létesítmény elhelyezése, jogosultság gyakorlása lehetőség szerint a gyengébb minőségű termőföldeken, a lehető legkisebb mértékű termőföld igénybevételével történjen.
 
@@ -890,7 +892,7 @@ kell gondoskodnia a talaj szervesanyag-tartalmának megőrzéséről.
 - a) talajjavításhoz,
 - b) mezőgazdasági célú tereprendezéshez,
 - c) a 36. § (2) bekezdés c) pontjában meghatározott talajvédelmi műszaki beavatkozásokhoz, létesítmények megvalósításához, amennyiben az engedélyezés nem tartozik más hatóság hatáskörébe,
-- d) hígtrágya termőföldön történő felhasználásához az állattartás során keletkező egyéb szervestrágya kivételével,
+- d)
 - e) szennyvíz, szennyvíziszap és szennyvíziszap komposzt mezőgazdasági felhasználásához,
 - f) nem mezőgazdasági eredetű nem veszélyes hulladék termőföldön történő felhasználásához,
 - g) mezőgazdasági termelés során keletkező nem veszélyes hulladék termőföldön történő felhasználásához, kivéve a mezőgazdasági táblán keletkező növényi maradványokat.
@@ -923,6 +925,10 @@ hozzájáruló nyilatkozata is szükséges a tevékenység engedélyezéséhez.
 - f) mezőgazdasági területek vízrendezéséhez,
 - g) erózió elleni műszaki talajvédelem megvalósításához.
 
+50/A. § (1) A hígtrágya termőföldön történő felhasználására irányuló szándékot – az állattartás során keletkező egyéb szerves trágya kivételével – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint be kell jelenteni a talajvédelmi hatóságnak.
+
+(2) A bejelentésre a 49. § (3)–(4) bekezdése, a talajvédelmi hatóság ellenőrzésére az 50. § (1) bekezdése megfelelően alkalmazandó.
+
 51. § A 49–50. §-okban említett hatósági eljárásokhoz szükséges talajvédelmi tervet az ügyfélnek kell beszereznie.
 
 51/A. § (1) Ha e törvény vagy a felhatalmazása alapján kiadott jogszabály talajvédelmi szakkérdésben szakértő igénybevételét írja elő, vagy szakértő igénybevételéhez jogkövetkezményt állapít meg, – az igazságügyi szakértőkről szóló törvény szerint igazságügyi szakértői tevékenység végzésére jogosult szakértő kivételével – szakértőként kizárólag az a személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak annak a szakértőnek az igénybevételéhez fűződnek, aki rendelkezik a földügyért felelős miniszter rendeletében meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
@@ -952,7 +958,7 @@ hozzájáruló nyilatkozata is szükséges a tevékenység engedélyezéséhez.
 53. § (1) A talajvédelmi hatóság a talajvédelmi felügyelő útján ellenőrzi
 
 - a) az e törvényben meghatározott talajvédelmi kötelezettségek teljesítését,
-- b) a talajvédelmi, valamint egyéb, talajvédelmi előírásokat tartalmazó engedély meglétét,
+- b) a talajvédelmi, valamint egyéb, talajvédelmi előírásokat tartalmazó engedély meglétét, bejelentés megtörténtét,
 - c) a talajvédelmi, valamint más engedélyekben foglalt talajvédelmi követelmények betartását,
 - d) a termőföld használat külön jogszabályban meghatározott környezetvédelmi követelményeinek betartását.
 
@@ -985,7 +991,7 @@ hozzájáruló nyilatkozata is szükséges a tevékenység engedélyezéséhez.
 
 - a) 36–41. §-aiban írt kötelezettségek megsértése,
 - b) a 48. § (2) bekezdésében foglaltak megsértése, valamint
-- c) a 49. §-ban foglalt engedélyben, valamint a külön jogszabályok szerinti engedélyben előírt talajvédelmi rendelkezéstől eltérően, továbbá a 49. §-ban írt, engedély nélkül folytatott tevékenység
+- c) a 49. §-ban foglalt engedélyben, valamint a külön jogszabályok szerinti engedélyben előírt talajvédelmi rendelkezéstől eltérően, továbbá a 49. § szerinti engedély vagy az 50/A. § szerinti bejelentés nélkül folytatott tevékenység
 
 esetén a 3. mellékletben foglaltak szerint talajvédelmi bírságot szab ki.
 
@@ -1207,6 +1213,6 @@ a Módtv2. hatálybalépésekor folyamatban lévő ügyekben, valamint a Módtv2
 - 5. A 41. §-ban írt kötelezettség megsértése esetén a talajvédelmi bírság mértéke 50 000 forint.
 - 6. A 48. § (2) bekezdésében foglaltak megsértése esetén a talajvédelmi bírság mértéke 100 000 Ft.
 - 7. A 49. § (1) bekezdés a) és g) pontja szerinti tevékenység engedély nélküli, vagy attól eltérő folytatása esetén a talajvédelmi bírság mértéke 50 000 forint.
-- 8. A 49. § (1) bekezdés b)–d) pontja szerinti tevékenység engedély nélküli, vagy attól eltérő folytatása esetén a talajvédelmi bírság mértéke hektáronként 100 000 forint, de a bírság összege legalább 100 000 forint.
+- 8. A 49. § (1) bekezdés b)–d) pontja szerinti tevékenység engedély nélküli, vagy attól eltérő folytatása, illetve az 50/A. § (1) bekezdése szerinti tevékenység bejelentés nélküli folytatása esetén a talajvédelmi bírság mértéke hektáronként 100 000 forint, de a bírság összege legalább 100 000 forint.
 - 9. A 49. § (1) bekezdés e)–f) pontja szerinti tevékenység engedély nélküli, vagy attól eltérő folytatása esetén a talajvédelmi bírság mértéke hektáronként 100 000 forint, de a bírság összege legalább 200 000 forint.
 - 10. A külön jogszabály szerinti engedélyben foglalt talajvédelmi rendelkezésektől eltérő tevékenység esetén a talajvédelmi bírság mértéke hektáronként 50 000 forint, de a bírság összege legalább 100 000 forint.

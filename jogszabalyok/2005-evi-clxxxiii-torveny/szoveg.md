@@ -153,16 +153,7 @@ kapcsolatos, a vasúti társaságok működésének engedélyezéséről szóló
 
 9. § (1) Üzleti jó hírnévvel nem rendelkezik az a kérelmező, amelynek a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) szerinti vezető tisztségviselője (a továbbiakban: vezető) büntetett előéletű.
 
-(2) A vezető a működési engedély kiadása iránti kérelem benyújtásával egyidejűleg a vasúti igazgatási szerv részére hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű és nem áll olyan foglalkozástól eltiltás hatálya alatt, amely a vezető tisztségviselői feladat ellátását nem teszi lehetővé vagy kéri, hogy az erre vonatkozó adatokat a bűnügyi nyilvántartó szerv a vasúti igazgatási szerv részére – annak a működési engedély iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés kizárólag azon adatra irányulhat, hogy a vezető büntetlen előéletű-e, valamint hogy a vezető tisztségviselő nem áll olyan foglalkozástól eltiltás hatálya alatt, amely a vezető tisztségviselői feladat ellátását nem teszi lehetővé.
-
-(3) A működési engedély kiadása feltételeinek felülvizsgálata során a vasúti igazgatási szerv hatósági ellenőrzés keretében ellenőrzi azt is, hogy a vezető büntetlen előéletű-e. A hatósági ellenőrzés céljából a vasúti igazgatási szerv adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a vezető büntetlen előéletű-e.
-
-(4) A vasúti igazgatási szerv a (2) és (3) bekezdés alapján megismert személyes adatokat
-
-- a) a működési engedély kiadása iránti eljárás jogerős befejezéséig vagy
-- b) a működési engedély kiadása esetén a hatósági ellenőrzés időtartamára vagy az engedély visszavonására irányuló eljárásban az eljárás jogerős befejezéséig
-
-kezeli.
+(2)–(4)
 
 9/A. § (1) A vasúti társaság a működési engedély jogerőre emelkedésétől számított hat hónapon belül köteles megkezdeni a működési engedélyben meghatározott tevékenységét. E határidő elmulasztása vagy a tevékenység végzésének hat hónapot meghaladó szüneteltetése esetén a vasúti igazgatási szerv a feltételek fennállásának felülvizsgálatát rendelheti el, továbbá indokolt esetben a működési engedélyt felfüggesztheti. A tevékenység megkezdésére irányadó határidő a vasúti társaságnak a működési engedély jogerőre emelkedésétől számított hat hónapon belül benyújtott kérelmére a vasúti társaságok működésének engedélyezéséről szóló rendeletben meghatározott esetekben egy alkalommal legfeljebb további hat hónappal meghosszabbítható. Ha a vasúti társaság e meghosszabbított határidő lejártáig sem kezdi meg a működési engedélyben szereplő tevékenységet, a vasúti igazgatási szerv a működési engedélyt felfüggeszti.
 
@@ -642,19 +633,9 @@ kapcsolatos szabályokat.
 
 (2) A vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállaló köteles külön jogszabályban meghatározott időközönként időszakos oktatáson részt venni és időszakos hatósági vizsgát tenni.
 
-(3) Alapképzés és időszakos oktatás a közlekedési hatóság által kiadott engedély (a továbbiakban: képzési engedély) alapján végezhető. Alapképzés, illetve időszakos oktatás végzésére a külön jogszabályban meghatározott személyi és tárgyi feltételeket teljesítő, a közlekedési hatóság által kiadott engedéllyel rendelkező képzőszervezet és vasúti társaság jogosult. Képzési engedély annak a szervezetnek adható, amelynek legalább egy személyesen közreműködő tagja vagy alkalmazottja – egyéni vállalkozó esetén, ha a tevékenységet nem maga látja el, legalább egy foglalkoztatottja – rendelkezik a külön jogszabályban meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek (a továbbiakban: vasútszakmai oktató). Vasútszakmai oktatóként az foglalkoztatható, aki büntetlen előéletű, és nem áll az e tevékenység folytatását kizáró foglalkoztatástól eltiltás hatálya alatt.
+(3) Az alapképzés és időszakos oktatás végzésére irányuló szándékot a szolgáltató köteles a közlekedési hatóságnak a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelenteni. Alapképzés, illetve időszakos oktatás végzésére a külön jogszabályban meghatározott személyi és tárgyi feltételeket teljesítő képzőszervezet és vasúti társaság jogosult, amelynek legalább egy személyesen közreműködő tagja vagy alkalmazottja – egyéni vállalkozó esetén, ha a tevékenységet nem maga látja el, legalább egy foglalkoztatottja – rendelkezik a külön jogszabályban meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek (a továbbiakban: vasútszakmai oktató). Vasútszakmai oktatóként az foglalkoztatható, aki büntetlen előéletű, és nem áll az e tevékenység folytatását kizáró foglalkoztatástól eltiltás hatálya alatt.
 
-(4) A vasútszakmai oktató a névjegyzékbe vételt megelőzően igazolja, hogy megfelel a külön jogszabályban meghatározott feltételeknek, valamint
-
-- a) hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, vagy
-- b) kéri, hogy az arra vonatkozó adatokat, amely szerint büntetlen előéletű, a bűnügyi nyilvántartó szerv a közlekedési hatóság részére – annak a névjegyzékbe való felvétel céljából benyújtott adatigénylése alapján – továbbítsa.
-
-(5) A közlekedési hatóság hatósági ellenőrzés keretében ellenőrzi azt is, hogy a névjegyzékben szereplő vasútszakmai oktató büntetlen előéletű-e. A hatósági ellenőrzést folytató közlekedési hatóság adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a vasútszakmai oktató büntetlen előéletű-e.
-
-(6) A közlekedési hatóság
-
-- a) a (4) bekezdés alapján megismert személyes adatokat a névjegyzékbe való felvétel iránti eljárás jogerős befejezéséig,
-- b) az (5) bekezdés alapján megismert személyes adatokat a hatósági ellenőrzés időtartamára vagy névjegyzékből való törlésre irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
+(4)–(6)
 
 (7) Az alapvizsga és az időszakos vizsga lebonyolítását, valamint az alapképzés és az időszakos oktatás szakmai irányítását a Kormány által külön jogszabályban kijelölt vasúti vizsgaközpont végzi.
 
@@ -1622,7 +1603,7 @@ során.
 
 - a) a műszaki engedély kiadása,
 - b) a vasútbiztonsági tanúsítvány, kiegészítő tanúsítvány és a vasútbiztonsági engedély kiállítása, meghosszabbítása, módosítása és visszavonása, valamint az abban foglalt feltételek teljesítésének ellenőrzése,
-- c) a képzési engedély kiadása, az alapképzés és az időszakos oktatás ellenőrzése, az alapvizsga és az időszakos vizsga alapján a hatósági igazolás kiállítása, továbbá annak ellenőrzése, hogy a vasúti közlekedés biztonságával összefüggő tevékenységet végző munkavállaló a jogszabályban előírt alapvizsgával és időszakos vizsgával rendelkezik-e,
+- c) a képzési tevékenység folytatására irányuló bejelentések nyilvántartásba vétele, az alapképzés és az időszakos oktatás ellenőrzése, az alapvizsga és az időszakos vizsga alapján a hatósági igazolás kiállítása, továbbá annak ellenőrzése, hogy a vasúti közlekedés biztonságával összefüggő tevékenységet végző munkavállaló a jogszabályban előírt alapvizsgával és időszakos vizsgával rendelkezik-e,
 - d) a vasúti pálya, a vasúti üzemi létesítmények, a vasúti járművek, a vasúti forgalom lebonyolításának, valamint a vasúti közlekedéssel összefüggő tevékenységek ellenőrzése abból a szempontból, hogy azok megfelelnek-e a jogszabályok előírásainak, a hatósági engedélyekben és a hálózati, a forgalmi és a biztonsági szabályzatokban foglaltaknak,
 - e) a vasúti járművek és a vasúti járműre szerelt vasútüzemi célt szolgáló kazánok és nyomástartó edények hatósági jelzésének kiadása,
 - f) a vasúti járművek, valamint a vasúti pályák nyilvántartásának vezetése,
@@ -1655,7 +1636,7 @@ során.
 
 (2) A közlekedési hatóság a 80. § (1) bekezdés a) és b) pontjában meghatározott engedélyezési eljárásokban a hiányosan benyújtott kérelemmel kapcsolatos – a tartalmi és formai követelményekre vonatkozó – részletes hiánypótlási felhívást a kérelem beérkezését követő naptól számított harminc napon belül adja ki.
 
-(3) A közlekedési hatóság ügyintézési határideje a kérelemre indult, a 80. § (1) bekezdés a) és b) pontjában meghatározott engedélyezési eljárásokban, és az ellenőrzési eljárásokban három hónap. A vasúti pálya létesítésével, korszerűsítésével, átalakításával, használatbavételével, valamint a vasúti járművek típusengedélyezésével összefüggő hatósági eljárások ügyintézési határideje hat hónap. Az eljárás megindításáról az ügyfeleket és az érdekelteket a közlekedési hatóság a kérelem beérkezésétől számított tizenöt napon belül értesíti. A vasúti szakhatósági eljárás ügyintézési határideje harminc nap.
+(3) A közlekedési hatóság ügyintézési határideje a kérelemre indult, a 80. § (1) bekezdés a) és b) pontjában meghatározott engedélyezési eljárásokban, és az ellenőrzési eljárásokban két hónap. A vasúti pálya létesítésével, korszerűsítésével, átalakításával, használatbavételével, valamint a vasúti járművek típusengedélyezésével összefüggő hatósági eljárások ügyintézési határideje négy hónap. Az eljárás megindításáról az ügyfeleket és az érdekelteket a közlekedési hatóság a kérelem beérkezésétől számított tizenöt napon belül értesíti. A vasúti szakhatósági eljárás ügyintézési határideje huszonegy nap.
 
 (4) Az országos, térségi, elővárosi és helyi vasúti pályahálózatba tartozó vasúti pálya és tartozékai, valamint vasúti üzemi létesítmény engedélyezésével kapcsolatos jogerős határozattal szemben újrafelvételi kérelem nem nyújtható be.
 
@@ -1702,12 +1683,12 @@ során.
 
 (7) Ha hatósági eljárásban vasúti közlekedési szakkérdésben szakértő kirendelése szükséges, és jogszabály meghatározott szakértő igénybevételét nem írja elő, e § szerinti szakértőt, ennek hiányában az igazságügyi szakértői tevékenységről szóló törvény szerinti igazságügyi szakértői tevékenység végzésére jogosult szakértőt kell kirendelni.
 
-80/E. § (1) A vasúti járművek üzembe helyezésének engedélyezésével kapcsolatos hatósági eljárásban az ügyintézési határidő az ÁME-knek megfelelő vasúti jármű esetében a kérelem beérkezését követő naptól számított két hónap.
+80/E. § (1) A vasúti járművek üzembe helyezésének engedélyezésével kapcsolatos hatósági eljárásban az ügyintézési határidő az ÁME-knek megfelelő vasúti jármű esetében a kérelem beérkezését követő naptól számított negyvenöt nap.
 
 (2) A vasúti járművek üzembe helyezésének engedélyezésével kapcsolatos hatósági eljárásban az ügyintézési határidő az ÁME-knek nem megfelelő vasúti jármű esetében
 
-- a) négy hónap a műszaki dokumentáció beérkezését követően,
-- b) két hónap a – a vasúti járművek üzembe helyezése engedélyezéséről, időszakos hatósági vizsgálatáról és hatósági nyilvántartásáról szóló rendelet szerint a hatóság által kért – kiegészítő információk vagy kockázatelemzés kézhezvételét követően.
+- a) három hónap a műszaki dokumentáció beérkezését követően,
+- b) negyvenöt nap a – a vasúti járművek üzembe helyezése engedélyezéséről, időszakos hatósági vizsgálatáról és hatósági nyilvántartásáról szóló rendelet szerint a hatóság által kért – kiegészítő információk vagy kockázatelemzés kézhezvételét követően.
 
 (3) A közlekedési hatóság a vasúti jármű üzembe helyezése tárgyában hozott döntéssel szemben a fellebbezést a döntés kézhezvételét követő egy hónapon belül lehet előterjeszteni.
 
@@ -1737,12 +1718,12 @@ során.
 
 (7) Ha a közlekedési hatóság a vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállalók képzésére és vizsgáztatására vonatkozó rendelkezések megsértését állapítja meg,
 
-- a) a képzési engedélyt vagy az időszakos oktatásra vonatkozó regisztrációt
+- a) a képzési tevékenységet vagy az időszakos oktatásra vonatkozó regisztrációt
   - aa) teljes egészében, vagy
   - ab) egyes munkakörökre vonatkozóan, vagy
   - ac) egyes képzési helyek vonatkozásában
 
-felfüggesztheti vagy visszavonhatja,
+felfüggesztheti, megtilthatja vagy visszavonhatja,
 
 - b) a képzőszervezettel vagy a vasúti társasággal szemben bírságot szabhat ki, és
 - c) a vizsgabiztost és a vasútszakmai oktatót a tevékenységétől meghatározott időre eltilthatja.

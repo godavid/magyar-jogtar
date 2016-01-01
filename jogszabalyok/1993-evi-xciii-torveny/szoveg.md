@@ -414,13 +414,13 @@ AZ EGÉSZSÉGET NEM VESZÉLYEZTETŐ
 
 ### V. Fejezet — A MUNKABALESETEK ÉS A FOGLALKOZÁSI MEGBETEGEDÉSEK BEJELENTÉSE, KIVIZSGÁLÁSA ÉS NYILVÁNTARTÁSA
 
-64. § (1) A munkabalesetet, a foglalkozási megbetegedést és a fokozott expozíciós esetet be kell jelenteni, ki kell vizsgálni, és nyilvántartásba kell venni.
+64. § (1) Azt a munkabalesetet, amely esetében a munkavállaló több mint három munkanapon át nem volt munkaképes, valamint a foglalkozási megbetegedést és a fokozott expozíciós esetet be kell jelenteni, ki kell vizsgálni és nyilvántartásba kell venni.
 
 (2) Az (1) bekezdésben foglaltakat a munkabaleset esetén – eltérő jogszabályi rendelkezés hiányában – a munkáltató, foglalkozási megbetegedés és fokozott expozíció esetén a foglalkoztatáspolitikáért felelős miniszternek az egészségügyért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott szerv (személy) teljesíti.
 
-(3) A munkáltató a munkabalesetek, foglalkozási megbetegedések és fokozott expozíciók bejelentése, kivizsgálása és nyilvántartása során a sérült, megbetegedett, illetve fokozott expozícióban érintett következő személyes adatait rögzíti: név (ideértve a születési nevet is), anyja neve, társadalombiztosítási azonosító jele (taj-száma), születési hely és időpont, nem, állampolgárság, lakóhely (lakcím). A munkáltató esetében az adószámot kell feltüntetni, amennyiben adószámmal nem rendelkezik, személyes adataként saját adóazonosító jelét is rögzítenie kell.
+(3) A munkáltató a munkabalesetek, foglalkozási megbetegedések és fokozott expozíciók esetén a sérült, megbetegedett, illetve fokozott expozícióban érintett következő személyes adatait rögzíti: név (ideértve a születési nevet is), anyja neve, társadalombiztosítási azonosító jele (taj-száma), születési hely és időpont, nem, állampolgárság, lakóhely (lakcím). A munkáltató esetében az adószámot kell feltüntetni, amennyiben adószámmal nem rendelkezik, személyes adataként saját adóazonosító jelét is rögzítenie kell.
 
-(4) A munkáltatónak a munkaképtelenséggel járó munkabalesetet haladéktalanul ki kell vizsgálnia, és a kivizsgálás eredményét munkabaleseti jegyzőkönyvben kell rögzítenie. A munkaképtelenséget nem eredményező munkabaleset körülményeit is tisztázni kell, és annak eredményét nyilvántartásba kell venni.
+(4) A munkáltatónak a munkaképtelenséggel járó munkabalesetet haladéktalanul ki kell vizsgálnia, és a kivizsgálás eredményét munkabaleseti jegyzőkönyvben kell rögzítenie. A munkaképtelenséget nem eredményező munkabaleset körülményeit is tisztázni kell.
 
 (5) A munkáltató köteles a súlyos munkabalesetet a munkavédelmi hatóságnak [84. § (2) bekezdés] azonnal bejelenteni.
 
@@ -686,7 +686,7 @@ AZ EGÉSZSÉGET NEM VESZÉLYEZTETŐ
 
 (2) Az (1) bekezdés szerinti adatokat a munkavédelmi hatóság informatikai rendszerében kezeli, az adatokat a hatósági eljárás jogerős befejezésétől számított két év elteltével törli.
 
-83/D. § A munkavédelmi hatósági eljárás határideje az eljárás megindításától számított két hónap:
+83/D. § A munkavédelmi hatósági eljárás határideje az eljárás megindításától számított negyvenöt nap:
 
 - a) a munkabalesetekkel, foglalkozási megbetegedésekkel és fokozott expozíciós esetekkel,
 - b) a balesetet munkabalesetnek minősítésével,
@@ -694,19 +694,12 @@ AZ EGÉSZSÉGET NEM VESZÉLYEZTETŐ
 
 kapcsolatos eljárásokban.
 
-83/E. § (1) A 83. § (1) bekezdése szerinti szakértői tevékenység engedélyezése iránti kérelem benyújtásával egyidejűleg a kérelmező hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, valamint nem áll a munkabiztonsági szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a munkavédelmi hatóság vagy a kamara részére – annak a munkabiztonsági szakértői tevékenység engedélyezése iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a munkavédelmi hatóság és a kamara a (2) bekezdésben meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől.
-
-(2) A munkavédelmi hatóság és a kamara a munkabiztonsági szakértői tevékenység gyakorlásának időtartama alatt folytatott, a szakértői tevékenység gyakorlásával összefüggő hatósági ellenőrzés keretében ellenőrzi azt is, hogy a szakértő büntetlen előéletű, és nem áll a munkabiztonsági szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából a munkavédelmi hatóság és a kamara adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a szakértő büntetlen előéletű-e, valamint a munkabiztonsági szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
-
-(3) Az (1) és (2) bekezdés alapján megismert személyes adatokat a munkavédelmi hatóság és a kamara
-
-- a) munkabiztonsági szakértői tevékenység engedélyezése iránti eljárás jogerős befejezéséig,
-- b) a munkabiztonsági szakértő nyilvántartásba vétele esetén a hatósági ellenőrzés időtartamára vagy a nyilvántartásból való törlésre irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
+#### 83/E. §
 
 84. § (1) A munkavédelmi hatóság jogosult
 
 - a) a munkahelyek tekintetében a munkáltatót határozatban kötelezni, hogy írásban nyújtson tájékoztatást a megjelölt munkavédelmi követelmények teljesítéséről;
-- b) valamennyi munkahelyen – külön engedély nélkül, az ellenőrzést végző kormánytisztviselő ellenőrzési jogosultságát az erre jogosító igazolványával (amely a sorszámot, az eljáró kormánytisztviselő nevét és a munkavédelmi hatóság megnevezését tartalmazza) igazolva – ellenőrzést tartani;
+- b) valamennyi munkahelyen – külön engedély nélkül – ellenőrzést tartani;
 - c) a munkabaleseteket – kivéve a közúti közlekedéssel kapcsolatosakat – és a fokozott expozíciós eseteket – a munkáltató ez irányú felelősségét nem érintve – kivizsgálni;
 - d) a munkáltatót felhívni az egészséget nem veszélyeztető és biztonságos munkavégzés követelményeinek teljesítésére;
 - e) a munkáltatót a feltárt hiányosságok meghatározott határidőn belül történő megszüntetésére kötelezni;

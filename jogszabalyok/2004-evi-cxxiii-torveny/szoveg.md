@@ -17,7 +17,7 @@ A munkaerő-piaci szempontból kedvezőtlen helyzetű egyes társadalmi csoporto
 
 - 1. munkaerőpiactól tartósan távollévő személy:
   - a) a pályakezdő fiatal,
-  - b) az a személy, aki a gyermekgondozási segély (a továbbiakban: gyes), a gyermekgondozási díj (a továbbiakban: gyed), a gyermeknevelési támogatás (a továbbiakban: gyet), valamint az ápolási díj folyósításának megszűnését követő egy éven (365 napon) belül kíván foglalkoztatásra irányuló jogviszonyt létesíteni, vagy aki a gyermek egyéves korának betöltését követően, e gyermek után igénybe vett gyes folyósítása mellett kíván munkát vállalni, feltéve, hogy foglalkoztatásra irányuló jogviszonyban nem áll,
+  - b) az a személy, aki a gyermekgondozást segítő ellátás (a továbbiakban: gyes), a gyermekgondozási díj (a továbbiakban: gyed), a gyermeknevelési támogatás (a továbbiakban: gyet), valamint az ápolási díj folyósításának megszűnését követő egy éven (365 napon) belül kíván foglalkoztatásra irányuló jogviszonyt létesíteni, vagy aki a gyermek fél éves korának betöltését követően, e gyermek után igénybe vett gyes folyósítása mellett kíván munkát vállalni, feltéve, hogy foglalkoztatásra irányuló jogviszonyban nem áll,
   - c) a tartósan álláskereső;
   - d) a foglalkoztatást helyettesítő támogatásra jogosult álláskereső;
 - 2. pályakezdő fiatal: a huszonötödik életévét – felsőfokú végzettségű személy esetén a harmincadik életévét – be nem töltött, foglalkoztatásra irányuló jogviszony létesítéséhez szükséges feltételekkel és érvényes START- kártyával rendelkező személy;
@@ -84,7 +84,7 @@ III. fejezet
 
 A részmunkaidős foglalkoztatáshoz kapcsolódó kedvezmény
 
-8/B. § (1) A munkaadót a (2)–(6) bekezdésben meghatározottak szerint szociális hozzájárulási adóból igénybe vehető részkedvezmény illeti meg, ha a gyermekgondozási szabadságról [Mt. 128. §] visszatérő munkavállaló munkakörét – feltéve, hogy e munkavállaló annak időtartama alatt csecsemőgondozási díjban, gyermekgondozási segélyben vagy gyermekgondozási díjban részesült – közvetlenül a visszatérését követően
+8/B. § (1) A munkaadót a (2)–(6) bekezdésben meghatározottak szerint szociális hozzájárulási adóból igénybe vehető részkedvezmény illeti meg, ha a gyermekgondozási szabadságról [Mt. 128. §] visszatérő munkavállaló munkakörét – feltéve, hogy e munkavállaló annak időtartama alatt csecsemőgondozási díjban, gyes-ben vagy gyermekgondozási díjban részesült – közvetlenül a visszatérését követően
 
 a) a gyermekgondozási szabadságról visszatérő munkavállaló és emellett
 

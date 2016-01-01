@@ -443,7 +443,7 @@ kíván Magyarország területén tartózkodni.
 - j) arra a harmadik országbeli állampolgárra, akinek tartózkodási célja tanulmányok folytatása, valamint
 - k) arra a harmadik országbeli állampolgárra, aki a 7/A. § alapján keresőtevékenységet folytathat.
 
-(5) Ha a tartózkodási engedély kiadása és meghosszabbítása összevont kérelmezési eljárás keretében történik, az eljáró hatóság az érdemi döntést a kérelem benyújtásától számított kilencven napon belül hozza meg.
+(5) Ha a tartózkodási engedély kiadása és meghosszabbítása összevont kérelmezési eljárás keretében történik, az eljáró hatóság az érdemi döntést a kérelem benyújtásától számított hetven napon belül hozza meg.
 
 (6) Az idegenrendészeti hatóság az (1)–(3) bekezdés szerinti eljárásban a tartózkodási engedélyt összevont engedélyként állítja ki.
 
@@ -589,6 +589,20 @@ kapott.
 
 (5) Nem kaphat nemzeti letelepedési engedélyt az a harmadik országbeli állampolgár, aki büntetett előéletű, és a büntetett előélethez fűződő hátrányok alól nem mentesült.
 
+(6) A nemzeti letelepedési engedély iránti kérelmet
+
+- a) az első fokon eljáró hatóság hetven,
+- b) a másodfokon eljáró hatóság harminc
+
+napon belül bírálja el.
+
+(7) A nemzeti letelepedési engedély kiadása iránti eljárásban a külön jogszabályban meghatározott hatóság azon szakkérdésben, hogy a harmadik országbeli állampolgár letelepedése veszélyezteti-e Magyarország nemzetbiztonságát vagy közbiztonságát, az állásfoglalását
+
+- a) az elsőfokú eljárásban harminc,
+- b) a másodfokú eljárásban húsz
+
+napon belül adja meg az eljáró idegenrendészeti hatóságnak, amely időtartam az ügyintézési határidőbe beleszámít.
+
 36. § (1) Különös méltánylást érdemlő körülmény esetén a harmadik országbeli állampolgár az idegenrendészetért és menekültügyért felelős miniszter döntése alapján a 13. § (1) bekezdés a) pontjában, a 33. § (1) bekezdésben és a 35. § (1) bekezdésében foglalt feltételek hiányában is kaphat nemzeti letelepedési engedélyt.
 
 (2) Az idegenrendészetért és menekültügyért felelős miniszter az (1) bekezdés szerinti eljárása során különös méltánylást érdemlő körülményként a kérelmező egyéni körülményeit, családi kapcsolatait és egészségügyi állapotát értékelheti, valamint Magyarország gazdasági, nemzetpolitikai, tudományos, kulturális és sport érdekét veheti figyelembe.
@@ -642,6 +656,20 @@ kapott.
 - b) az (1) bekezdés b) pontjában meghatározott esetben az Európai Unió tagállamai területének alkalmanként tizenkét hónapnál rövidebb időre történő elhagyása, amennyiben a külföldi tartózkodások együttes időtartama öt év alatt nem haladja meg a tizennyolc hónapot.
 
 (7) Amennyiben a harmadik országbeli állampolgár az Európai Unió más tagállamában kiállított huzamos tartózkodási engedéllyel rendelkezik, az idegenrendészeti hatóság az EK letelepedési engedély kiadásáról az érintett tagállamot értesíti.
+
+(8) Az EK letelepedési engedély iránti kérelmet
+
+- a) az első fokon eljáró hatóság hetven,
+- b) a másodfokon eljáró hatóság harminc
+
+napon belül bírálja el.
+
+(9) Az EK letelepedési engedély kiadása iránti eljárásban a külön jogszabályban meghatározott hatóság azon szakkérdésben, hogy a harmadik országbeli állampolgár letelepedése veszélyezteti-e Magyarország nemzetbiztonságát vagy közbiztonságát, az állásfoglalását
+
+- a) az elsőfokú eljárásban harminc,
+- b) a másodfokú eljárásban húsz,
+
+napon belül adja meg az eljáró idegenrendészeti hatóságnak, amely időtartam az ügyintézési határidőbe beleszámít.
 
 39. § (1) Az idegenrendészeti hatóság az EK letelepedési engedélyt visszavonja, ha
 
@@ -1296,6 +1324,8 @@ származó jövedelemmel rendelkezik.
 - c) a személyes meghallgatáson ismételt írásbeli felhívásra nem jelenik meg, és távolmaradását kimenteni nem tudja;
 - d) ismeretlen helyre távozott, és ezzel az eljárás lefolytatását meghiúsította.
 
+(3) A hontalanság elismerésére irányuló kérelem tárgyában az eljáró hatóság negyvenöt napon belül dönt.
+
 79. § (1) A hontalanság megállapítására irányuló eljárás során a kérelmezőnek a hontalanságát igazolnia vagy valószínűsítenie kell, különösen:
 
 - a) a születési helye,
@@ -1350,6 +1380,12 @@ szerinti állam vonatkozásában.
 (2) Az (1) bekezdésben meghatározott eljárásokban – a vízumeljárás kivételével – a kérelem hiányosan történő benyújtása esetén a hiánypótlási felhívást az ügyfél részére az eljáró hatóság azonnal átadja.
 
 (3) Azokban az eljárási cselekményekben, ahol az ügyfél személyes megjelenése kötelező, az ügyfél nem jogosult elektronikus kapcsolatot tartani a hatósággal.
+
+(4) Az e törvény alapján lefolytatott eljárásokban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+
+(5) Ha az ügy érdemi eldöntése olyan, a harmadik országbeli állampolgár magyarországi tartózkodási jogosultsága vonatkozásában felmerülő kérdés előzetes elbírálásától függ, amely eljárás más szerv hatáskörébe tartozik, vagy ugyanannak a hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül magalapozottan nem dönthető el, az eljáró idegenrendészeti hatóság az eljárást felfüggesztheti.
+
+(6) Ha az eljáró hatóság döntésével szemben e törvény alapján fellebbezésnek van helye és a másodfokú döntés meghozatalához nincs elég adat, vagy az első fokú döntés meghozatalát követően új tény merül fel, vagy egyébként a tényállás további tisztázása szükséges, a másodfokú döntést hozó hatóság a döntés megsemmisítése mellett az ügyben első fokú döntést hozó hatóságot végzésben új eljárásra utasíthatja, vagy a kiegészítő bizonyítási eljárás lefolytatását maga végzi el, és ennek alapján dönt.
 
 89. § (1) Az e törvényben szabályozott eljárásokban hozott döntéseket – a (2)–(4) bekezdésben foglalt eltérésekkel – kézbesítés útján kell közölni.
 
@@ -1413,7 +1449,8 @@ szerinti állam vonatkozásában.
 - f) a vízum kiadása vagy meghosszabbítása iránti kérelem elutasításának, valamint a vízum visszavonásának ténye és azok indoka;
 - g) a kiadott (meghosszabbított) vízum száma, érvényességi ideje, valamint a területi érvényességére vonatkozó adat;
 - h) a be- és kiutazás ideje, a határátlépés helye, következő szokásos tartózkodási hely szerinti országa;
-- i) a szálláshely címe.
+- i) a szálláshely címe;
+- j) az arcképmáshoz rendelt, az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott technikai kapcsoló számot.
 
 (2) Az (1) bekezdésben meghatározott adatokat az idegenrendészeti hatóság vízumkérelem elutasítása esetén annak időpontjától, a kiadott (meghosszabbított) vízum esetén annak érvényességi idejének lejártát, illetve visszavonását követő öt évig kezeli.
 
@@ -1434,7 +1471,8 @@ szerinti állam vonatkozásában.
 - g) a kiadott (meghosszabbított) tartózkodási engedély száma, sorozatszáma, érvényességi ideje;
 - h) az első beutazás és az utolsó kiutazás időpontja, a következő szokásos tartózkodási hely szerinti országa.
 - i) a szálláshely címe;
-- j) a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet szerinti arcképmás és ujjnyomat.
+- j) a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet szerinti arcképmás és ujjnyomat;
+- k) az arcképmáshoz rendelt, az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott technikai kapcsoló számot.
 
 (2) Az (1) bekezdés a)–i) pontjában meghatározott adatokat az idegenrendészeti hatóság a tartózkodási engedély iránti kérelem elutasítása esetén annak időpontjától, a kiadott (meghosszabbított) tartózkodási engedély esetén annak érvényességi idejének lejártát, illetve visszavonását követő öt évig kezeli.
 
@@ -1468,7 +1506,8 @@ szerinti állam vonatkozásában.
 - d) az ideiglenes tartózkodásra jogosító igazolás kiállításának indoka;
 - e) az ideiglenes tartózkodásra jogosító igazolás meghosszabbítása, valamint a visszavonásának ténye, azok indoka;
 - f) a kiadott (meghosszabbított) ideiglenes tartózkodásra jogosító igazolás száma, sorozatszáma, érvényességi ideje;
-- g) a szálláshely címe.
+- g) a szálláshely címe;
+- h) az arcképmáshoz rendelt, az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott technikai kapcsoló számot.
 
 (2) Az (1) bekezdésben meghatározott adatokat az idegenrendészeti hatóság a kiadott (meghosszabbított) ideiglenes tartózkodásra jogosító igazolás érvényességi idejének lejártát, illetve visszavonását követő öt évig kezeli.
 
@@ -1484,7 +1523,8 @@ szerinti állam vonatkozásában.
 - h) a lakcím;
 - i) a személyi azonosító;
 - j) a személyazonosító igazolvány okmányszáma;
-- k) a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet szerinti arcképmás és ujjnyomat.
+- k) a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet szerinti arcképmás és ujjnyomat;
+- l) az arcképmáshoz rendelt, az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott technikai kapcsoló számot.
 
 (2) Az (1) bekezdés a)–j) pontjában meghatározott adatokat az idegenrendészeti hatóság az engedélyek iránti kérelem elutasítása esetén annak időpontjától, illetve a jogállás megszűnésétől számított húsz évig kezeli.
 
@@ -1566,7 +1606,8 @@ szerinti állam vonatkozásában.
 - m) a nyugdíjbiztosítási igazgatási szerv,
 - n) a helyi önkormányzat hatósági feladatot ellátó szerve és
 - o) az fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala,
-- p) a szabálysértési eljárás alá vont személy személyazonosságának ellenőrzéséhez a szabálysértési, illetve az előkészítő eljárást folytató hatóságok
+- p) a szabálysértési eljárás alá vont személy személyazonosságának ellenőrzéséhez a szabálysértési, illetve az előkészítő eljárást folytató hatóságok,
+- q) a befogadás során az elítélt személyazonosságának ellenőrzése érdekében a büntetés-végrehajtási intézet
 
 részére továbbíthat adatot.
 
@@ -1589,7 +1630,11 @@ részére továbbíthat adatot.
 - g) a közegészségügyi hatóságtól,
 - h) a köztartozásmentes adózói adatbázisból.
 
-(5)
+(5) Az idegenrendészeti hatóság az arckép profil nyilvántartás részére arckép profil létrehozása és nyilvántartásba vétele céljából a 95. §, 96. §, 98. § és 99. § szerinti résznyilvántartások hatálya alá tartozó személyek arcképmását, valamint az arcképmáshoz rendelt technikai kapcsoló számot átadja.
+
+(6) Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott igénybevételre jogosult szervek – az e törvényben meghatározott feltételekkel – az arcképmáshoz rendelt, az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott technikai kapcsoló szám közlésével is igényelhetnek adatot a nyilvántartásból.
+
+(7) Az idegenrendészeti hatóság – az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott technikai kapcsoló szám alkalmazásával – köteles haladéktalanul adatszolgáltatást teljesíteni az arckép profil nyilvántartás vezetéséért felelős szervnek a 95. §, 96. §, 98. § és 99. § szerinti résznyilvántartások hatálya alá tartozó személyek arcképmás adatának nyilvántartásba vételéről, valamint az arcképmás adat változásáról.
 
 107. § (1) Az idegenrendészeti hatóság az idegenrendészeti résznyilvántartásokból külföldi bűnüldöző, határőrizeti, idegenrendészeti és igazságszolgáltatási szervnek, nemzetközi szervezetnek, illetve közvetlenül alkalmazandó közösségi jogi aktussal létrehozott közösségi szervnek közvetlenül alkalmazandó közösségi jogi aktus vagy nemzetközi szerződés alapján – az azokban meghatározott adatkörben – továbbíthat adatot.
 

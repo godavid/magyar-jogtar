@@ -46,7 +46,7 @@ Az Országgyűlés a helyi adóztatás kiemelkedő jelentőségét mérlegelve a
 
 (4) Az (1)–(3) bekezdésben meghatározottak szerint adóalany a külföldi magánszemély és szervezet is feltéve, hogy adómentességét nemzetközi szerződés vagy viszonosság nem biztosítja. A viszonosság kérdésében az adópolitikáért felelős miniszter állásfoglalása az irányadó.
 
-(5) E törvény hatálya – a 34. §-ban foglaltak kivételével – nem terjed ki az államra, a helyi önkormányzatra, a nemzetiségi önkormányzatra, a költségvetési szervre, az egyházi jogi személyre, a Magyar Nemzeti Vagyonkezelő Zrt.-re, a Nemzeti Eszközkezelő Zrt.-re, az Államadósság Kezelő Központ Zrt.-re, a büntetés-végrehajtásért felelős miniszter felügyelete alá tartozó büntetés-végrehajtási gazdálkodó szervezetre, valamint a helyi iparűzési adó vonatkozásában a Magyar Nemzeti Bankra, az Országos Betétbiztosítási Alapra és a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvényben meghatározott Szanálási Alapra.
+(5) E törvény hatálya – a 34. §-ban foglaltak kivételével – nem terjed ki az államra, a helyi önkormányzatra, a nemzetiségi önkormányzatra, a költségvetési szervre, az egyházi jogi személyre, a Magyar Nemzeti Vagyonkezelő Zrt.-re, a Nemzeti Eszközkezelő Zrt.-re, az Államadósság Kezelő Központ Zrt.-re, a büntetés-végrehajtásért felelős miniszter felügyelete alá tartozó büntetés-végrehajtási gazdálkodó szervezetre, valamint a helyi iparűzési adó vonatkozásában a Magyar Nemzeti Bankra, az Országos Betétbiztosítási Alapra, a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvényben meghatározott Szanálási Alapra, a Befektető-védelmi Alapra és a tőkepiac stabilitásának erősítése érdekében tett egyes kárrendezési intézkedésekről szóló 2015. évi CCXIV. törvény szerinti Kárrendezési Alapra.
 
 (6) Ha e törvény az adóalanyiságot az év első napján fennálló állapothoz köti és az önkormányzat az adót év közben vezeti be, akkor a bevezetés évében az adó alanyának azt kell tekinteni, aki/amely az adót bevezető rendelet hatálybalépésének napján megfelel az adóalanyiság követelményeinek.
 
@@ -158,7 +158,7 @@ adómentesség
 
 ### Az adókötelezettség keletkezése, változása és megszűnése
 
-14. § (1) Az adókötelezettség a használatbavételi, illetőleg a fennmaradási engedély jogerőre emelkedését követő év első napján keletkezik. Az engedély nélkül épült vagy anélkül használatba vett építmény esetén az adókötelezettség a tényleges használatbavételt követő év első napján keletkezik.
+14. § (1) Az adókötelezettség a használatbavételi, illetőleg a fennmaradási engedély jogerőre emelkedését vagy a használatbavétel tudomásulvételét követő év első napján keletkezik. Az engedély nélkül épült vagy anélkül használatba vett építmény esetén az adókötelezettség a tényleges használatbavételt követő év első napján keletkezik.
 
 (2) Az adókötelezettséget érintő változást (így különösen a hasznos alapterület módosulását, az építmény átminősítését) a következő év első napjától kell figyelembe venni.
 
@@ -356,7 +356,7 @@ Az adófelfüggesztés
 
 36. § Adóköteles iparűzési tevékenység: a vállalkozó e minőségben végzett nyereség-, illetőleg jövedelemszerzésre irányuló tevékenysége.
 
-36/A. § A helyi iparűzési adóból származó bevétel különösen a települési önkormányzat képviselő-testületének hatáskörébe tartozó szociális ellátások finanszírozására használható fel. A helyi iparűzési adóból származó bevétel az önkormányzati hivatal állományában foglalkoztatottak személyi juttatásai és az ahhoz kapcsolódó munkaadókat terhelő járulékok és szociális hozzájárulási adó finanszírozására nem fordítható azt meghaladó mértékben, mint amilyen mértékben a települési önkormányzatot az adóerő-képessége szerint a központi költségvetésről szóló törvényben meghatározott hivatali működési támogatáshoz kapcsolódó beszámítás terheli.
+36/A. § A helyi iparűzési adóból származó bevétel különösen a települési önkormányzat képviselő-testületének hatáskörébe tartozó szociális ellátások finanszírozására és – a fővárosi önkormányzat esetén külön törvényben meghatározottak szerint – a helyi közösségi közlekedési feladatok ellátására használható fel. A helyi iparűzési adóból származó bevétel az önkormányzati hivatal állományában foglalkoztatottak személyi juttatásai és az ahhoz kapcsolódó munkaadókat terhelő járulékok és szociális hozzájárulási adó finanszírozására nem fordítható azt meghaladó mértékben, mint amilyen mértékben a települési önkormányzatot az adóerő-képessége szerint a központi költségvetésről szóló törvényben meghatározott hivatali működési támogatáshoz kapcsolódó beszámítás terheli.
 
 ### Az állandó és ideiglenes jelleggel végzett
 
@@ -446,19 +446,16 @@ az adó alapját a (2), illetőleg a (3) bekezdésben foglaltak szerint – figy
 
 (6) A (3) bekezdés szerinti adóalap-megállapítást alkalmazó kisadózó vállalkozás adóbevallást nyújt be,
 
-- a) a megszűnés hónapjának vagy a szünetelés kezdő hónapjának utolsó napját követő 15 napon belül, ha kisadózó vállalkozásként adóalanyisága bármely ok miatt megszűnt (szünetel),
+- a)
 - b) az adóévet követő év január 15-ig, ha
   - ba) a (3) bekezdés szerint az adóévre fizetendő adó a (4) bekezdés alapján az adóévre ténylegesen megfizetett adóösszegnél azért kevesebb, mert a kisadózó vállalkozások tételes adójában az adófizetési kötelezettség szünetelésének volt helye,
   - bb) az önkormányzat rendelete alapján az adóévben adóalap-mentességre, adókedvezményre, a 39/D. § alapján az adóalap vagy a 40/A. § alapján az adó csökkentésére jogosult és az adót csökkenteni kívánja.
 
-(7) A vállalkozó a (6) bekezdés a) pontja szerinti bevallás-benyújtással egyidejűleg:
-
-- a) a kisadózó vállalkozások tételes adójában fennálló adóalanyiság időtartamára járó és a ténylegesen megfizetett adó különbözetét megfizeti (ha a különbözet előjele pozitív), illetve visszaigényelheti (ha a különbözet előjele negatív),
-- b) a 41. § (3) és (6) bekezdések alkalmazásával adóelőleget is bevall, feltéve, hogy az adóelőleg bevallásának – a 41. § (4) bekezdésének figyelembevételével – helye van.
+(7)
 
 (8) Ha a kisadózó vállalkozás a (3) bekezdés szerinti adóalap-megállapítást adóév közben választja, akkor az adóév első napjától a kisadózó vállalkozások tételes adójában fennálló adóalanyisága kezdő napját megelőző napig terjedő adóköteles időtartamról adóbevallást nyújt be az önkormányzati adóhatósághoz.
 
-(9) A (3) bekezdés szerinti adóalap-megállapítás választását a vállalkozó – az önkormányzati adóhatóság által rendszeresített – bejelentkezési, bejelentési, bevallási nyomtatványon, a kisadózó vállalkozások tételes adójának hatálya alá tartozás kezdő napjától számított 15 napon belül vagy január 15-ig jelenti be az önkormányzati adóhatóság számára. A vállalkozó e döntése a teljes adóévre vonatkozik, s utoljára abban az adóévben érvényes, amelyben bejelenti, hogy az adó alapját nem a (3) bekezdésben foglaltak szerint kívánja megállapítani. A bejelentkezési, bejelentési, bevallási nyomtatvány végrehajtható okiratnak minősül.
+(9) A (3) bekezdés szerinti adóalap-megállapítás választását a vállalkozó – az önkormányzati adóhatóság által rendszeresített – bejelentkezési, bejelentési, bevallási nyomtatványon, a kisadózó vállalkozások tételes adójának hatálya alá tartozás kezdő napjától számított 45 napon belül vagy február 15-ig jelenti be az önkormányzati adóhatóság számára. A vállalkozó e döntése a teljes adóévre vonatkozik, s utoljára abban az adóévben érvényes, amelyben bejelenti, hogy az adó alapját nem a (3) bekezdésben foglaltak szerint kívánja megállapítani. A bejelentkezési, bejelentési, bevallási nyomtatvány végrehajtható okiratnak minősül.
 
 (10) Az adó alapjának az (1)–(2) bekezdés szerinti megállapítása adóévre választható, az erről szóló bejelentést a 39/A. § (5) bekezdése szerint kell megtenni.
 
@@ -483,6 +480,10 @@ az adó alapját a (2), illetőleg a (3) bekezdésben foglaltak szerint – figy
 (2) Az adómentesség, adókedvezmény csak azt a vállalkozót illetheti meg, akinek/amelynek a 39. § (1) bekezdés, illetőleg a 39/A. § vagy 39/B. § alapján számított (vállalkozási szintű) adóalapja nem haladja meg a 2,5 millió Ft-ot. Az önkormányzat az adómentességre, adókedvezményre való jogosultság szempontjából 2,5 millió Ft-nál alacsonyabb adóalap-összeget is meghatározhat.
 
 (3) Az adómentesség, adókedvezmény terjedelmének, mértékének valamennyi – a (2) bekezdésben foglaltaknak megfelelő – vállalkozó számára azonosnak kell lennie.
+
+(4) Az (1)–(3) bekezdésben foglaltaktól eltérően az önkormányzat rendeletében jogosult a háziorvos, védőnő vállalkozó számára mentességet, kedvezményt megállapítani, feltéve, ha annak vállalkozási szintű iparűzési adóalapja az adóévben a 20 millió forintot nem haladja meg. Az adómentességnek, adókedvezménynek valamennyi háziorvos, védőnő vállalkozó számára azonosnak kell lennie.
+
+(5) Az (1)–(4) bekezdés szerinti mentesség, kedvezmény csekély összegű (de minimis) támogatásnak minősül, amely az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 1407/2013/EU bizottsági rendelet szabályaival összhangban nyújtható.
 
 ### A foglalkoztatás növeléséhez kapcsolódó adóalap-mentesség
 
@@ -529,9 +530,113 @@ az adó alapját a (2), illetőleg a (3) bekezdésben foglaltak szerint – figy
 40/A. § (1) A székhely, illetőleg a telephely szerinti önkormányzathoz az adóévre fizetendő adóból, legfeljebb azonban annak összegéig terjedően – a (2) bekezdésben meghatározott módon – levonható az adóalany által
 
 - a) az ideiglenes jellegű tevékenység után az adóévben megfizetett adó,
-- b) a ráfordításként, költségként az adóévben elszámolt, az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díj (a továbbiakban: útdíj) 7,5%-a.
+- b) a ráfordításként, költségként az adóévben elszámolt, a belföldön és külföldön autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjnak, az autópályák, autóutak és főutak használatáért fizetendő használati díjnak (a továbbiakban együtt: útdíj) a 7,5%-a.
 
-(2) Az adóévben megfizetett ideiglenes jellegű tevékenység utáni adó és az útdíj (1) bekezdés szerinti része a székhely, illetve telephely(ek) szerinti önkormányzatokhoz fizetendő adóból a vállalkozás szintjén képződő teljes törvényi adóalap és az egyes (székhely, illetve telephely(ek) szerinti) önkormányzatokhoz kimutatott települési adóalapok arányában vonható le.
+(2) Az adóévben megfizetett ideiglenes jellegű tevékenység utáni adó, az útdíj (1) bekezdés szerinti része és a (3) bekezdés alapján megalkotott rendelet szerinti adókedvezmény a székhely, illetve telephely(ek) szerinti önkormányzatokhoz fizetendő adóból a vállalkozás szintjén képződő teljes törvényi adóalap és az egyes (székhely, illetve telephely(ek) szerinti) önkormányzatokhoz kimutatott települési adóalapok arányában vonható le.
+
+(3) Az önkormányzat rendelete – valamennyi vállalkozóra egységesen – határozhatja meg, hogy a vállalkozó az alapkutatás, alkalmazott kutatás vagy kísérleti fejlesztés adóévben elszámolt közvetlen költsége 10%-ának megfelelő összeggel csökkentheti az adóját.
+
+(4) A vállalkozó az önkormányzathoz fizetendő adóévi adóját a (3) bekezdés alapján alkotott rendelet szerinti adókedvezménnyel a (2) bekezdésben meghatározott módon, legfeljebb az adóévre fizetendő adó összegéig csökkentheti.
+
+### Az éves beszámolóját az IFRS-ek szerint elkészítő vállalkozóra vonatkozó sajátos rendelkezések
+
+40/B. § Az éves beszámolóját az IFRS-ek szerint készítő vállalkozó e törvény szabályait a nettó árbevétel, az eladott áruk beszerzési értéke, az anyagköltség, a közvetített szolgáltatások értéke, alvállalkozói teljesítések értéke megállapítása során a 40/C–40/J. §-okban, az iparűzési adókötelezettség teljesítése során a 40/K–40/M. §-okban foglalt eltéréssel alkalmazza.
+
+40/C. § (1) Az 52. § 22. pontjának a) alpontjától eltérően – a hitelintézetnek, pénzügyi vállalkozásnak, biztosítónak, befektetési vállalkozónak nem minősülő vállalkozó esetén – a nettó árbevétel a (2)–(4) bekezdésben felsorolt tételekkel korrigált
+
+- a) az IAS 18 Bevételek című standard 1. bekezdésének a) pontja szerinti áru értékesítése,
+- b) az IAS 18 Bevételek című standard 1. bekezdésének b) pontja szerinti szolgáltatás nyújtása,
+- c) az IAS 18 Bevételek című standard 1. bekezdésének c) pontja szerinti jogdíjra való jogosultság,
+- d) az IAS 11 Beruházási szerződések című standard szerinti beruházási szerződés alapján történő szolgáltatás nyújtása miatt az üzleti évben az IAS 18 Bevételek című standard alapján elszámolt és a más standardok által az IAS 18 Bevételek című standard szerint bevételként (árbevételként) elszámolni rendelt bevétel (árbevétel), függetlenül attól, hogy a bevétel (árbevétel) folytatódó vagy megszűnt tevékenységből származik (a továbbiakban együttesen: bevétel).
+
+(2) Az (1) bekezdés szerinti bevételt növelni kell:
+
+- a) az IAS 18 Bevételek című standard 12. bekezdése szerint bevételt nem eredményező csere esetén az elcserélt áru vagy szolgáltatás számlázott értékével, ennek hiányában valós értékével,
+- b) a nem számlázott, utólag adott, az IAS 18 Bevételek című standard alkalmazásával az (1) bekezdés szerint bevételként figyelembe nem vett engedmény összegével,
+- c) az IAS 18 Bevételek című standard 11. bekezdése alapján elszámolt kamatbevétellel,
+- d) az IAS 11 Beruházási szerződések című standard 12. bekezdésének c) pontja alapján bevételként figyelembe nem vett kötbér összegével,
+- e) az 52. § 40. pontja szerinti közvetített szolgáltatásnak megfelelő ügylet esetén a közvetített szolgáltatás, valamint az adóalany által saját nevében, de megbízója javára kötött adásvételi szerződéssel értékesített termék (ingó, ingatlan) számvitelről szóló törvény szerint megállapított bekerülési értékének megfelelő összeggel,
+- f) az (1) bekezdés a)–d) pontban említett ügylettel összefüggő fedezeti ügylet esetén azzal az összeggel, amellyel az (1) bekezdés a)–d) pontban említett ügyletről kiállított bizonylaton (számlán) szereplő értéket az IFRS-ek szerint a bevételt (árbevételt) – annak elszámolásakor – csökkenteni kell,
+- g) az IAS 17 Lízingek című standard szerinti pénzügyi lízingnek megfelelő szerződés esetén a lízingfutamidő kezdetének adóévében a lízingbe (visszlízingbe) adónál a lízingfutamidő kezdetekor megjelenített követelés kezdeti közvetlen költségeket nem tartalmazó értékével,
+- h) az olyan termékértékesítésből és szolgáltatásnyújtásból származó összeggel, mely kizárólag amiatt nem minősül az (1) bekezdés szerinti bevételnek, mert nem a szokásos tevékenység keretében keletkezett,
+- i) az általános forgalmi adóról szóló törvény szerinti üzletág átruházásakor az üzletág átruházásáért kapott, az átadott eszközök – az átadott kötelezettségek értékével csökkentett – piaci értékét meghaladó ellenértékét,
+- j) az IAS 17 Lízingek című standard szerinti operatív lízingnek megfelelő szerződés esetén a lízingbe (visszlízingbe) adónál az IAS 17 Lízingek című standard 50. bekezdése szerint árbevételként elszámolt összeggel,
+- k) azzal az (1) bekezdés a)–d) pontja vagy az a), e) és g)–j) pont szerinti ügyletről kiállított bizonylaton (számlán) feltüntetett – általános forgalmi adó nélküli – összeggel (vevőtől várt ellenszolgáltatással), amelyet a vállalkozó az adóévben vagy azt követően az IFRS-ek szerint bevételként (árbevételként) vagy az a)–j) pontok szerinti adóalap-növelő tételként nem számolhat el,
+
+feltéve, ha azt a vállalkozó az (1) bekezdés szerinti bevételként nem vette figyelembe.
+
+(3) Az (1) bekezdés szerinti bevételt csökkenteni kell:
+
+- a) a társasági adóról és az osztalékadóról szóló törvény 4. § 20. pontja szerinti jogdíjjal,
+- b) a felszolgálási díjjal,
+- c) az adóhatósággal elszámolt jövedéki adó, regisztrációs adó, energiaadó, valamint a népegészségügyi termékadóról szóló törvény szerinti alkoholos ital utáni népegészségügyi termékadó összegével a jövedéki adó, a regisztrációs adó, az energiaadó, a népegészségügyi termékadó alanya esetén,
+- d) a saját használatú ingatlan vagy befektetési célú ingatlan eladásából származó bevétellel,
+- e) az (1) bekezdés a)–d) pontja szerinti ügylettel összefüggő fedezeti ügylet esetén azzal az összeggel, amellyel az (1) bekezdés a)–d) pontja szerinti ügyletről kiállított számlán szereplő értéket az IFRS-ek szerint a bevétel (árbevétel) elszámolásakor növelni kell feltéve, ha az az IFRS-ek alkalmazásával az (1) bekezdés szerint bevételnek, vagy a (2) bekezdés szerint bevételt növelő tételnek minősül.
+
+40/D. § (1) Hitelintézet, pénzügyi vállalkozás, befektetési vállalkozás esetén – az 52. § 22. pontjának b) alpontjától eltérően – nettó árbevétel az IAS 18 Bevételek című standard szerint kamatként elszámolt bevétel (2)–(3) bekezdések szerint korrigált összege.
+
+(2) Az (1) bekezdés szerinti bevételt növelni kell:
+
+- a) a kamatbevétel csökkentéseként az üzleti évben elszámolt ráfordítások (fizetett, járó díjak, jutalékok) összegével,
+- b) a nyújtott szolgáltatások után az IAS 18 Bevételek című standard alapján elszámolt bevétellel (kapott, járó díjak, jutalékok összegével),
+- c) az IAS 32 Pénzügyi instrumentumok: bemutatás című standard 11. bekezdése szerinti pénzügyi instrumentum üzleti évben való eladása esetén, az elért nyereséggel, nyereségjellegű különbözettel,
+- d) az IAS 17 Lízingek című standard szerinti pénzügyi lízingnek megfelelő szerződés esetén a lízingfutamidő kezdetének adóévében a lízingbe (visszlízingbe) adónál a lízingfutamidő kezdetekor megjelenített követelés kezdeti közvetlen költségeket nem tartalmazó értékével,
+- e) az IAS 17 Lízingek című standard szerinti operatív lízingnek megfelelő szerződés esetén a lízingbe (visszlízingbe) adónál az (1) bekezdésben foglaltak alapján figyelembe nem vett, az IAS 17 Lízingek című standard 50. bekezdése szerint árbevételként elszámolt összeggel,
+- f) nem szokásos tevékenység folytatása során elszámolt bevétellel, egyéb bevétellel.
+
+(3) Az (1) bekezdés szerinti bevételt csökkenteni kell:
+
+- a) az üzleti évben ráfordításként elszámolt (fizetett, járó) kamattal,
+- b) az IAS 17 Lízingek című standard alapján pénzügyi lízingnek minősülő szerződés alapján a lízingbe adónál kereskedelmi áruként nyilvántartásba nem vett eszköz IAS 2 Készletek című standard alapján megállapított, a pénzügyi lízingbe adáskor meglévő könyv szerinti értékével.
+
+40/E. § (1) Biztosító esetén – eltérően az 52. § 22. pontjának c) alpontjától – nettó árbevétel a 40/D. § (1)–(3) bekezdései szerint számított – a (2) és (3) bekezdések szerint korrigált – bevétel.
+
+(2) Az (1) bekezdés szerinti bevételt növelni kell az üzleti évben elszámolt díjbevétellel.
+
+(3) Az (1) bekezdés szerinti bevételt csökkenteni kell az üzleti évben a biztosítót terhelő, a biztosítási szerződés szerinti szolgáltatások teljesítése során elszámolt ráfordítással.
+
+40/F. § (1) Az 52. § 36. pontjában foglaltaktól eltérően eladott áruk beszerzési értéke az IAS 2 Készletek című standard és az IAS 18 Bevételek című standard szerinti, továbbértékesítés céljából vásárolt és birtokolt, üzleti évben értékesített áru, telek vagy más ingatlan (a továbbiakban: kereskedelmi áru) – (2) és (3) bekezdés szerint korrigált – értékesítéskor nyilvántartott könyv szerinti értéke.
+
+(2) Az (1) bekezdés szerinti könyv szerinti értéket növelni kell:
+
+- a) az IAS 2 Készletek című standard 11. bekezdése alapján a kereskedelmi áru beszerzési költségének meghatározása során figyelembe vett, nem számlázott kereskedelmi engedmények, rabattok és hasonló tételek összegével,
+- b) a 40/C. § (2) bekezdés a) pontjában említett csere esetén a cserébe adott készlet könyv szerinti értékével,
+- c) az IAS 17 Lízingek című standard alapján pénzügyi lízingnek minősülő szerződés alapján a lízingbe adónál kereskedelmi áruként nyilvántartásba nem vett eszköz IAS 2 Készletek című standard alapján megállapított, a pénzügyi lízingbe adáskor meglévő könyv szerinti értékével,
+- d) ha a 40/C. § (2) bekezdés e) pontja alkalmazásának van helye, akkor az értékesített termék (ingó, ingatlan) számvitelről szóló törvény szerint megállapítandó bekerülési értékével, továbbá az olyan értékesített áru, telek vagy más ingatlan értékesítéskori könyv szerinti értékével, mely csak azért nem minősül az (1) bekezdés szerinti kereskedelmi árunak, mert nem a szokásos tevékenység keretében értékesítik.
+
+(3) Az (1) bekezdés szerinti könyv szerinti értéket az adóévben csökkenteni kell az adóévet megelőző adóév(ek)ben a (2) bekezdés d) pontja szerint a könyv szerinti érték növeléseként már figyelembe vett összeggel, ha az IFRS-ek alkalmazásából az következik, hogy az az adóévben az (1)–(2) bekezdés szerint a könyv szerinti érték összegét növeli.
+
+40/G. § (1) Az 52. § 37. pontjában foglaltaktól eltérően anyagköltség az 52. § 67. pontja szerinti anyag üzleti évben ráfordításként elszámolt – (2) és (3) bekezdés szerint korrigált – felhasználáskori könyv szerinti értéke.
+
+(2) Az (1) bekezdés szerinti anyagköltség összegét növelni kell az anyag könyv szerinti értékének megállapítása során az IAS 2 Készletek című standard 11. bekezdése alapján figyelembe nem vett, nem számlázott kapott kereskedelmi engedmények, rabattok és hasonló tételek összegével.
+
+(3) Az (1) bekezdés szerinti anyagköltség összegét csökkenteni kell annak az anyagnak a ráfordításként elszámolt könyv szerinti értékével, amelyet az IAS 2 Készletek című standard 35. bekezdésében említettek szerint saját előállítású ingatlanok, gépek, berendezések alkotórészeként használtak fel és amelynek könyv szerinti értékét a saját előállítású ingatlanok, gépek, berendezések bekerülési értékében figyelembe vették.
+
+40/H. § Ha a 40/C. § (2) bekezdése e) pontja alkalmazásának van helye, akkor az 52. § 40. pontja szerinti közvetített szolgáltatások értékét növelni kell a közvetített szolgáltatás számvitelről szóló törvény szerint megállapítandó bekerülési értékével.
+
+40/I. § Nem minősül alvállalkozói teljesítések értékének [52. § 32. pont] az az érték, mellyel a vállalkozó a 40/F. § vagy a 40/G. § vagy a 40/H. § alapján eladott áruk beszerzési értéke vagy anyagköltség vagy közvetített szolgáltatások értéke címén az adó alapját csökkentette.
+
+40/J. § A vállalkozó első olyan adóéve, melyről éves beszámolóját az IFRS-ek szerint készíti (a továbbiakban: áttérés adóéve) adóalapját
+
+- a) növelni kell az áttérés adóévét megelőzően folytatott ügyletből származó
+  - aa) azon, az áttérés adóévében vagy azt követő bármely adóévben a 40/C. § szerinti nettó árbevételnek nem minősülő összeggel, amelyet a vállalkozó az iparűzési adó alapjának számításakor az áttérés adóévét megelőző bármely adóévben nettó árbevételként még nem vett figyelembe, és ha a vállalkozó az IFRS-ekre nem tért volna át az áttérés évében vagy az azt követő bármely adóévben nettó árbevételnek minősülne,
+  - ab) azon költség, ráfordítás összegével, amellyel a vállalkozó a helyi iparűzési adó alapjának számítása során a nettó árbevételt az áttérés adóévét megelőző bármely adóévben és az áttérés adóévében vagy azt követő bármely adóévben is csökkenti;
+- b) csökkenteni kell az áttérés adóévét megelőzően folytatott ügyletből származó
+  - ba) azon bevétel összegével, amelyet a vállalkozó a helyi iparűzési adó alapjának számítása során az áttérés adóévét megelőző bármely adóévben és az áttérés adóévében vagy azt követő bármely adóévben nettó árbevételként figyelembe vesz,
+  - bb) azon az IFRS-ek alkalmazásában nettó árbevételt csökkentő költségnek, ráfordításnak nem minősülő összeggel, amellyel a vállalkozó a helyi iparűzési adó alapjának számítása során az áttérés adóévét megelőző bármely adóévben nettó árbevételét nem csökkentette, és azt, ha a az IFRS-ek alkalmazására nem tért volna át az áttérés évében, vagy azt követő bármely adóévben nettó árbevételt csökkentő ráfordításként számolhatna el.
+
+40/K. § (1) Ha az áttérés adóévének vagy az áttérés adóévét követő adóévnek (a továbbiakban együtt: átmeneti adóévek) az iparűzési adóalapja [39. §] a 40/B–40/J. §-ok alkalmazásával kisebb, mint az áttérés adóévét megelőző adóév 12 hónapra számított adóalapjának összege, akkor az átmeneti adóévek adóalapja – a (2) bekezdésben foglalt kivétellel – az utóbbi.
+
+(2) Az adóhatóság az (1) bekezdés hatálya alá eső vállalkozó – az átmeneti adóévről szóló bevallás benyújtásával egyidejűleg előterjesztett – kérelme alapján az átmeneti adóév adóalapjaként fogadja el a 40/B–40/I. §-ok figyelmen kívül hagyásával számított, a 40/J. § szerinti összeggel korrigált összeget, ha az kisebb, mint az (1) bekezdés szerinti adóalap.
+
+40/L. § (1) Ha az áttérés adóévében a 40/B–40/J. §-ok alkalmazásával számított iparűzési adó összege kisebb, mint az áttérés adóévét megelőző adóév iparűzési adójának összege, akkor az áttérés adóévét követő adóévben kezdődő adóelőleg-fizetési időszak adóelőlegének összege az utóbbi.
+
+(2) Az (1) bekezdés hatálya alá eső vállalkozás esetén az áttérés adóévében és áttérés adóévét követő előlegfizetési időszakra vonatkozóan az adózás rendjéről szóló törvény szerinti előleg-mérséklésnek nincs helye.
+
+40/M. § Az IFRS-eket alkalmazó vállalkozó – az áttérés adóévét megelőző adóévről szóló társasági adóbevallás-benyújtással egyidejűleg, elektronikus úton, az állami adóhatóság által rendszeresített nyomtatványon – adatot szolgáltat az állami adóhatósághoz:
+
+- a) az áttérés adóévét megelőző adóévben bevallott vállalkozási szintű nettó árbevétel összetevőinek összegéről és a nettó árbevételt csökkentő költségek és ráfordítások jogcímenkénti összegéről,
+- b) az áttérés adóévét megelőző adóév adatai alapján az e fejezet szerinti kiszámított nettó árbevétel összetevőinek összegéről és a nettó árbevétel-csökkentő költségek, ráfordítások összegéről.
 
 ### V. Fejezet — Az adóelőleg megállapítása, az adó bevallása és az adó megfizetése
 
@@ -589,7 +694,7 @@ az adó alapját a (2), illetőleg a (3) bekezdésben foglaltak szerint – figy
 - d) az önkormányzat honlapjának címéről, valamint legalább egy adóügyi információs telefonszámról, elektronikus levélcímről, és az önkormányzati adóhatóság levelezési címéről (a továbbiakban: elérhetőségi információk),
 - e) a helyi adónem, a települési adónem pénzforgalmi jelzőszámáról.
 
-(2) A kincstár a hozzá beérkezett adatokat és elérhetőségi információkat feldolgozza és a honlapján – települések szerinti bontásban – első alkalommal 2013. január 1-jéig közzéteszi. A kincstár a honlapján közzétett adatokat az önkormányzati adóhatóságoktól az (1) bekezdés szerint beérkezett adatokkal havonta, az önkormányzati adóhatóság adatszolgáltatását követő hónap 5. napjáig módosítja.
+(2) A kincstár a hozzá beérkezett adatokat és elérhetőségi információkat feldolgozza és a honlapján – települések (a fővárosban a fővárosi, illetve kerületi önkormányzatok) szerinti bontásban – elektronikus úton feldolgozható és letölthető formátumban is közzéteszi. A kincstár a honlapján közzétett adatokat és elérhetőségi információkat az önkormányzati adóhatóságoktól az (1) bekezdés szerint beérkezett adatokkal havonta, az önkormányzati adóhatóság adatszolgáltatását követő hónap 5. napjáig módosítja.
 
 (3) Az önkormányzati adóhatóság az (1) bekezdés szerinti adatszolgáltatása teljesítésével egyidejűleg az önkormányzat honlapján közzéteszi az adórendelet szövegét, az adórendelet módosításokkal egységes szerkezetbe foglalt szövegét, valamint a rendszeresített bevallási, bejelentkezési nyomtatványokat, az elérhetőségi információkat, feltéve, hogy az önkormányzat honlapot üzemeltet.
 
@@ -620,7 +725,7 @@ az adó alapját a (2), illetőleg a (3) bekezdésben foglaltak szerint – figy
 
 44. § (1) Az önkormányzati adóhatóság hatáskörébe tartozó adókat és adók módjára behajtandó köztartozásokat kizárólag a kincstár által rendelkezésre bocsátott számítógépes programrendszerrel lehet nyilvántartani.
 
-(2) Ha az önkormányzat 2014. június 30-án nem a kincstár által rendelkezésre bocsátott számítógépes programrendszert használta, akkor esetében az (1) bekezdés szerinti rendelkezést csak 2016. január 1-jétől kell alkalmazni.
+(2) Ha az önkormányzat 2014. június 30-án nem a kincstár által rendelkezésre bocsátott számítógépes programrendszert használta, akkor esetében az (1) bekezdés szerinti rendelkezést csak 2017. október 1-jétől kell alkalmazni.
 
 45. § A helyi önkormányzat az ügykörébe tartozó adók és illetékek hatékony beszedésének elősegítésére a feltárt és beszedett adóhiányból, valamint a beszedett adó- és illetéktartozásból az önkormányzatokat megillető bevétel terhére rendeletében szabályozhatja az anyagi érdekeltség feltételeit.
 
@@ -675,7 +780,7 @@ Az érdekeltségi célú juttatásból az adó- és az illetékhatáskör címze
   - d) a közút területét,
   - e) a vasúti pályát, a vasúti pálya tartozékai által lefedett földterületet,
   - f) a temetőkről és a temetkezésről szóló törvény temető fogalma alá tartozó földterületet,
-  - g) a halászatról és horgászatról szóló törvény szerinti víztározó területét,
+  - g) a halgazdálkodásról és a hal védelméről szóló törvény szerinti víztározó területét,
   - h) az erdőt,
   - i) az ingatlan-nyilvántartásban mocsárként nyilvántartott földterületet,
 - 17. termőföld: az ingatlan-nyilvántartásban szántó, szőlő, gyümölcsös, kert, rét, legelő (gyep), nádas, fásított terület, halastó művelési ágban nyilvántartott földrészlet;
@@ -684,7 +789,7 @@ Az érdekeltségi célú juttatásból az adó- és az illetékhatáskör címze
 - 20. üdülő: az ingatlan-nyilvántartásban üdülőként (üdülőépület, hétvégi ház, apartman, nyaraló, csónakház) feltüntetett vagy ilyenként feltüntetésre váró építmény;
 - 21. állandó lakos, aki a lakcímbejelentés szabályai szerint nyilvántartásba vett lakóhellyel, tartózkodási hellyel rendelkezik az önkormányzat illetékességi területén,
 - 22. nettó árbevétel:
-  - a) a számviteli törvényben meghatározott értékesítés nettó árbevétele (egyszeres könyvvitelt vezető vállalkozó esetében: a pénzügyileg rendezett nettó árbevétel és a nem pénzben kiegyenlített értékesítés nettó árbevételének együttes összege), csökkentve a társasági adóról és az osztalékadóról szóló törvény szerinti jogdíjból származó, árbevételként elszámolt ellenértékkel, a jövedéki adó fizetésére kötelezett vállalkozó esetében az adóhatósággal elszámolt – az egyéb szolgáltatások értékeként, illetve az egyéb ráfordítások között kimutatott – jövedéki adó összegével, továbbá az egyéb ráfordítások között kimutatott, az adóhatósággal elszámolt regisztrációs adó, energiaadó összegével, feltéve ha az így elszámolt regisztrációs adó, energiaadó összege az értékesítés nettó árbevételét növelte, valamint a külön jogszabály szerinti felszolgálási díj árbevételként elszámolt összegével, a b)–h) alpontokban foglalt eltérésekkel,
+  - a) a számviteli törvényben meghatározott értékesítés nettó árbevétele (egyszeres könyvvitelt vezető vállalkozó esetében: a pénzügyileg rendezett nettó árbevétel és a nem pénzben kiegyenlített értékesítés nettó árbevételének együttes összege), csökkentve a társasági adóról és az osztalékadóról szóló törvény szerinti jogdíjból származó, árbevételként elszámolt ellenértékkel, a jövedéki adó fizetésére kötelezett vállalkozó esetében az adóhatósággal elszámolt – az egyéb szolgáltatások értékeként, illetve az egyéb ráfordítások között kimutatott – jövedéki adó összegével, továbbá az egyéb ráfordítások között kimutatott, az adóhatósággal elszámolt regisztrációs adó, energiaadó, népegészségügyi termékadóról szóló törvény szerinti alkoholos ital utáni népegészségügyi termékadó összegével, feltéve, ha az így elszámolt regisztrációs adó, energiaadó, népegészségügyi termékadó összege az értékesítés nettó árbevételét növelte, valamint a külön jogszabály szerinti felszolgálási díj árbevételként elszámolt összegével, a b)-h) alpontokban foglalt eltérésekkel,
   - b) a hitelintézeteknél és pénzügyi vállalkozásoknál: a kapott kamatok és kamatjellegű bevételek csökkentve a fizetett kamatokkal és kamatjellegű ráfordításokkal és a pénzügyi lízingbe adott eszköz beszerzési értékével, azzal, hogy e beszerzési értékre tekintettel az adóalap nem csökkenthető, növelve az egyéb pénzügyi szolgáltatás bevételeivel, a befektetési szolgáltatások bevételeivel és a nem pénzügyi és befektetési szolgáltatás bevételével. Fedezeti ügyletek esetén az alapügylet (fedezett tétel) nyereségének/veszteségének és az ahhoz tartozó fedezeti ügylet veszteségének/nyereségének nyereségjellegű különbözete tartozik a nettó árbevételbe. A számviteli törvény szerinti kereskedési célú származékos ügyletek esetében azok eredményének összevont különbözete tartozik a nettó árbevételbe, ha az nyereségjellegű,
   - c) biztosítóknál: a biztosítástechnikai eredmény növelve a nettó működési költségekkel, a befektetésekből származó biztosítástechnikai ráfordításokkal (csak életbiztosítási ágnál), az egyéb biztosítástechnikai ráfordításokkal, a kapott kamatokkal és kamatjellegű bevételekkel, a biztosítási állományhoz kapcsolódó tárgyi eszközök bevételeivel, a befektetések értékesítésének árfolyamnyereségével és az egyéb befektetési bevételekkel (nem életbiztosítási ágnál), az életbiztosításból allokált befektetési bevétellel, valamint a nem biztosítási tevékenység bevételeivel, valamint csökkentve a Kártalanítási Számlával és a Kártalanítási Alappal szemben ráfordításként elszámolt összeggel, a tűzvédelmi hozzájárulásként elszámolt összeggel és a biztosítottaknak visszajuttatandó befektetési eredménnyel. Fedezeti ügyletek esetén az alapügylet (fedezett tétel) nyereségének/veszteségének és az ahhoz tartozó fedezeti ügylet veszteségének/nyereségének nyereségjellegű különbözete tartozik a nettó árbevételbe. A számviteli törvény szerinti kereskedési célú származékos ügyletek esetében azok eredményének összevont különbözete tartozik a nettó árbevételbe, ha az nyereségjellegű,
   - d) befektetési vállalkozásoknál: a befektetési szolgáltatási tevékenység bevételei növelve a nem befektetési szolgáltatási tevékenység bevételeivel, valamint a kapott kamatokkal és kamatjellegű bevételekkel. Fedezeti ügyletek esetén az alapügylet (fedezett tétel) nyereségének/veszteségének és az ahhoz tartozó fedezeti ügylet veszteségének/nyereségének nyereségjellegű különbözete tartozik a nettó árbevételbe. A számviteli törvény szerinti kereskedési célú származékos ügyletek esetében azok eredményének összevont különbözete tartozik a nettó árbevételbe, ha az nyereségjellegű,
@@ -692,7 +797,7 @@ Az érdekeltségi célú juttatásból az adó- és az illetékhatáskör címze
   - f) lakásszövetkezet, társasház, (köz)alapítvány, társadalmi szervezet, köztestület, egyesület, önkéntes kölcsönös biztosító pénztár, iskolaszövetkezet, a büntetés-végrehajtásért felelős miniszter felügyelete alá tartozó, a fogvatartottak kötelező foglalkoztatására létrehozott gazdálkodó szervezetek, a kizárólag a fogvatartottak foglalkoztatása céljából közhasznú, kiemelkedően közhasznú nonprofit gazdasági társaság, a TIG Tartalékgazdálkodási Nonprofit Kft. a KHVT Közlekedési, Hírközlési, Vízügyi Tartalékgazdálkodási Kiemelkedően Közhasznú Nonprofit Kft. esetében a vállalkozási tevékenységből származó, a) pont szerinti nettó árbevétel. Nem minősül vállalkozási tevékenységből származó nettó árbevételnek a társasház és a lakásszövetkezet belső szolgáltatásból származó árbevétele,
   - g) a személyi jövedelemadóról szóló törvény hatálya alá tartozó, a 26. pont a) és b) alpontja szerinti vállalkozónál: a tevékenységvégzéssel (termékértékesítés, szolgáltatásnyújtás) közvetlen összefüggésben kapott – általános forgalmi adó nélküli – ellenérték, növelve a kompenzációs felárral és csökkentve az adóhatósággal elszámolt regisztrációs adó összegével, feltéve, hogy azt bevételként elszámolta, továbbá azon bevétellel, amelyet a számvitelről szóló törvény alapján egyéb bevételként kellene elszámolni,
   - h) a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény szerinti kisadózó vállalkozás esetén, a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény szerinti kisadózó vállalkozás bevétele;
-- 23.
+- 23. háziorvos, védőnő vállalkozó: az a vállalkozó, aki/amely – gazdálkodó szervezetként vagy egyéni vállalkozóként – külön jogszabály alapján háziorvosi, házi gyermekorvosi, fogorvosi alapellátási vagy védőnői tevékenységet végez és nettó árbevételének legalább 80%-a e tevékenység (tevékenységek) végzésére vonatkozó, az Országos Egészségbiztosítási Pénztárral kötött finanszírozási szerződés alapján az Egészségbiztosítási Alapból származik;
 - 24. építőipari tevékenység: a Gazdasági Tevékenységek Egységes Osztályozási Rendszere 2008. január 1-jétől hatályos (TEÁOR'08) besorolása szerint a 41–43. ágazatokba sorolt tevékenységek összessége;
 - 25. alapkutatás, alkalmazott kutatás, kísérleti fejlesztés közvetlen költsége: a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao tv.) 4. § 32. pontja szerinti saját tevékenységi körben megvalósított K+F tevékenység közvetlen költsége;
 - 26. vállalkozó: a gazdasági tevékenységet saját nevében és kockázatára haszonszerzés céljából, üzletszerűen végző
@@ -737,6 +842,9 @@ Az érdekeltségi célú juttatásból az adó- és az illetékhatáskör címze
 - 62. építőipari tevékenységet folytató vállalkozó: az a vállalkozó, akinek (amelynek) az adóévben a számviteli törvény szerinti értékesítés nettó árbevétele és az adóév utolsó napján készletre vett befejezetlen termelés, félkésztermék, késztermék értékének együttes összege legalább 75%-ban építőipari tevékenységből [52. § 24. pont] származik,
 - 63. távközlési tevékenységet végző vállalkozó: a TEÁOR'08 szerint a 61. ágazatba sorolt tevékenységet (távközlési tevékenység) végző azon vállalkozó, amelynek az adóévet megelőző adóévi számviteli törvény szerinti nettó árbevételéből legalább 75% távközlési tevékenységből származik,
 - 64. előfizető: az elektronikus hírközlésről szóló törvény szerinti előfizető.
+- 65. nemzetközi számviteli standardok: a számvitelről szóló törvény szerinti azonos elnevezésű fogalom;
+- 66. IFRS-ek: a számvitelről szóló törvény szerinti azonos elnevezésű fogalom;
+- 67. anyag az IFRS-ek szerint beszámolót készítő vállalkozó esetén: IAS 2 Készletek című standard 6. bekezdés c) pontja szerinti készlet.
 
 ### VIII. Fejezet — AZ EURÓPAI UNIÓ JOGÁNAK VALÓ MEGFELELÉS
 

@@ -75,11 +75,13 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 
 (2) A 6. § (1)–(3) bekezdésében meghatározott azonosító kódok mindegyikéről külön hatósági igazolványt kell kiadni. A hatósági igazolvány csak egy azonosító kódot tartalmazhat.
 
+(3) A tárolóelemmel rendelkező állandó személyazonosító igazolvány a 6. § (1) és (2) bekezdése szerinti azonosító kódot elektronikusan hitelesen igazolja, amennyiben a külön törvényben meghatározottak szerint a tároló elem azt tartalmazza.
+
 9. § (1) Az adóazonosító jel és a Társadalombiztosítási Azonosító Jel képzése és az ezekről szóló hatósági igazolványnak a polgár részére első alkalommal történő kiadása díjmentes.
 
-(2) Díjmentesen kell kiadni az (1) bekezdésben meghatározott hatósági igazolványt akkor is, ha a korábban kiadott igazolványban szereplő adat megváltozott, téves, illetve a megváltozott adat beírására szolgáló rovat betelt.
+(2) Díjmentesen kell kiadni az (1) bekezdésben meghatározott hatósági igazolványt akkor is, ha a korábban kiadott igazolványban szereplő adat megváltozott, téves, illetve a megváltozott adat beírására szolgáló rovat betelt, vagy ha annak kiadása eltulajdonítás miatt válik szükségessé.
 
-10. § Az adóazonosító jelet, illetőleg a Társadalombiztosítási Azonosító Jelet igazoló hatósági igazolvány kiadásáért az általános tételű eljárási illetéknek megfelelő összegű igazgatási szolgáltatási díjat fizet a polgár, ha az új hatósági igazolvány kiadása a birtokából való elkerülés (lopás, elvesztés, megsemmisülés) vagy megrongálódás miatt válik szükségessé.
+10. § Az adóazonosító jelet, illetőleg a Társadalombiztosítási Azonosító Jelet igazoló hatósági igazolvány kiadásáért az általános tételű eljárási illetéknek megfelelő összegű igazgatási szolgáltatási díjat fizet a polgár, ha az új hatósági igazolvány kiadása a birtokából való elkerülés (elvesztés, megsemmisülés) vagy megrongálódás miatt válik szükségessé.
 
 ### Összerendelési nyilvántartás
 
@@ -292,6 +294,9 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 - j) a kincstár a helyi önkormányzatokat megillető, a központi költségvetésből származó források igénybevételének és elszámolásának szabályszerűsége megállapításához, valamint a nem állami intézmények fenntartói részére folyósított humánszolgáltatások normatív támogatási előirányzataival kapcsolatos adatszolgáltatási, folyósítási és ellenőrzési feladatai ellátása érdekében.
 - j) a Magyar Honvédség a törvényben meghatározott hadkiegészítési és érdekvédelmi feladatai ellátásához.
 - j) a szociális hatóság a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 20/C. §-a, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 139. § (2) bekezdése szerinti feladata teljesítésével, továbbá a szociális, gyermekjóléti és gyermekvédelmi szolgáltató, intézmény vezetője a szociális, gyermekjóléti és gyermekvédelmi szolgáltatások, ellátások biztosításával összefüggésben.
+- k) az Elektronikus Egészségügyi Szolgáltatási Tér működtetője az Egészségügyi Szolgáltatási Tér útján történt adatkezelések jogszerűségének ellenőrzése, az érintett tájékoztatása, az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény (a továbbiakban: Eüak.) 35/F. §-a, 35/J. és 35/K. §-a, valamint 35/M. §-a szerinti szolgáltatások működtetése céljából,
+- l) az Eüak. 35/H. §-a szerinti elektronikus önrendelkezési nyilvántartást vezető szerv az érintettek önrendelkezési nyilatkozatainak érvényesítése és nyilvántartása céljából,
+- m) az Eüak. 35/L. §-a szerinti elektronikus betegségregiszterek kapcsolati kódjának képzése és nyilvántartása céljából.
 
 24. § A TAJ szám továbbítására jogosultak:
 

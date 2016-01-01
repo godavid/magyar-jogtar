@@ -400,7 +400,7 @@ köthet.
 
 (2) Az egészségbiztosító az (1) bekezdés szerinti vizsgálat eredménye, valamint a 4/A. §-ban meghatározott szempontokra vonatkozó előző évi adatok alapján egészségügyi térségenként javaslatot készít a kapacitásfelosztás módosítására. A javaslatot háromévente szeptember 1-jéig kell az illetékes egészségügyi államigazgatási szervnek megküldeni.
 
-(3) Az egészségügyi államigazgatási szerv a (2) bekezdés szerinti javaslat alapján hatvan napon belül dönt a kapacitásfelosztás módosításáról.
+(3) Az egészségügyi államigazgatási szerv a (2) bekezdés szerinti javaslat alapján negyvenöt napon belül dönt a kapacitásfelosztás módosításáról.
 
 (4) Az egészségügyi államigazgatási szerv a jogerős határozatot megküldi az egészségügyért felelős miniszternek, a határozat jogerőre emelkedéséről tájékoztatja az egészségbiztosítót.
 
@@ -593,7 +593,7 @@ köthet.
 
 (6)
 
-(7) A kérelmet az egészségügyi államigazgatási szervhez kell benyújtani. Az egészségügyi államigazgatási szerv a döntést megelőzően kikéri az egészségbiztosító véleményét. Az egészségügyi államigazgatási szerv hatvan napon belül dönt.
+(7) A kérelmet az egészségügyi államigazgatási szervhez kell benyújtani. Az egészségügyi államigazgatási szerv a döntést megelőzően kikéri az egészségbiztosító véleményét. Az egészségügyi államigazgatási szerv negyvenöt napon belül dönt.
 
 (8)
 
@@ -701,7 +701,7 @@ köteles a számviteli jogszabályok szerinti beszámolóját könyvvizsgálóva
 
 (2) A könyvvizsgálatra, illetve a könyvvizsgálóval szembeni követelményekre a számviteli jogszabályok, valamint a Magyar Könyvvizsgálói Kamaráról és a könyvvizsgálói tevékenységről szóló törvény előírásait kell megfelelően alkalmazni.
 
-(3)
+(3) Az e törvény alapján lefolytatott eljárásokban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
 
 13. § (1) Annak az egészségügyi szolgáltatónak a vezetője, amely
 

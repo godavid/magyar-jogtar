@@ -423,6 +423,8 @@ az időpontja.
 
 (2) A határidő indokolt esetben egy alkalommal, legfeljebb harminc nappal meghosszabbítható.
 
+(3) Az e törvény alapján lefolytatott eljárásokban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+
 ### A tényállás tisztázása
 
 19/E. § (1) A tényállás tisztázása során a Hatóság a (2)–(7) bekezdésben foglalt eltérésekkel a Ket. tényállás tisztázására és a hatósági ellenőrzésre vonatkozó szabályait alkalmazza.
@@ -487,7 +489,7 @@ az időpontja.
 
 - a) ha a filmterjesztő a Hivatal korhatár besorolása nélkül terjeszti a filmalkotást, vagy a mozielőzetest, illetve, ha a Hivatal döntése ellenére a korhatár szerinti jelzés nem vagy nem megfelelően kerül feltüntetésre, valamint a terjesztésre kerülő filmalkotások nyilvántartásában nem szereplő filmalkotás jogellenes terjesztése esetén a Hivatal a filmterjesztőt, illetve a jogellenes helyzet kialakulásáért felelős személyt vagy szervezetet, ideértve a filmalkotást kereskedelmi forgalomba hozó személyt vagy szervezetet is, tízezer forinttól hárommillió forintig terjedő bírság megfizetésére kötelezheti;
 - b) a jogsértőt kötelezheti közleménynek a jogsértő internetes honlapja nyitóoldalán, sajtótermékben vagy más megjelölt módon történő közzétételére a határozatban meghatározott módon és ideig;
-- c) ha e törvény vagy e törvény felhatalmazása keretében kibocsátott jogszabály alapján adatszolgáltatásra vagy bejelentésre kötelezett az adatszolgáltatási vagy bejelentési kötelezettségét nem vagy késedelmesen teljesíti, a Hivatal háromezer forinttól százezer forintig terjedő bírságot szabhat ki;
+- c) ha e törvény vagy e törvény felhatalmazása keretében kibocsátott jogszabály alapján adatszolgáltatásra vagy bejelentésre kötelezett az adatszolgáltatási vagy bejelentési kötelezettségét nem vagy késedelmesen teljesíti, a Hivatal háromezer forinttól ötszázezer forintig terjedő bírságot szabhat ki;
 - d) e törvény vagy e törvény felhatalmazása keretében kibocsátott jogszabály a) és c) pontokban nem szabályozott rendelkezéseinek, valamint a Hatóság hatósági döntésének e törvényben nem szabályozott egyéb megsértése esetén a Hivatal háromezer forinttól egymillió forintig terjedő bírságot szabhat ki;
 - e) e törvényben meghatározott egyéb jogkövetkezményeket alkalmazhat.
 
@@ -929,17 +931,18 @@ kérelmére a közvetett támogatás igénybevételére jogosító támogatási 
 
 (6) A Hivatal indokolt kérelemre, különös méltánylást érdemlő esetben a 31/D. § (2) bekezdése szerint kiadott támogatási igazolásokat vagy a költségellenőrzési eljárásokat lezáró határozatokat az addig összesen elszámolt és igazolt filmgyártási költségek egészére tekintettel állítja ki a 12. § (10) bekezdésében foglalt arány, valamint a jogdíj, a produceri díj és a gyártáshoz kapcsolódó elszámolható reklámköltségek tekintetében alkalmazandó elszámolási limitek korrekciója, valamint a 31/E. § (2) bekezdése alapján a kérelemben feltüntetett időszakban figyelembe nem vett, pénzügyileg teljesített költség érvényesíthetősége, továbbá a 31/D. § (3) bekezdése szerint megállapított közvetett támogatás 25%-os mértékig történő kiegészítése érdekében, amennyiben megfelel a támogatásra jogosultság egyéb feltételeinek. E bekezdés alkalmazásában különös méltánylást érdemlő esetnek minősül, ha az egyedi ügyben megvalósuló jogsértés súlya aránytalanul kisebb az e törvényben meghatározott célok megvalósulásának társadalmi hasznosságánál.
 
-(7) A Tao. tv. 22. § (3) bekezdése szerint biztosított támogatás esetében a közvetett támogatás forrását biztosító szervezet az MNF-fel kötött megállapodás alapján utalja a közvetett támogatás forrását a letéti számlára. A Tao. tv. 24/A. § (3) bekezdés a) pontja szerint biztosított közvetett támogatás esetében a kedvezményezett célra felajánlott összeget, mint közvetett támogatást az állami adóhatóság utalja a letéti számlára. A letéti számlára a tárgyévben befizetett összeg a Tao. tv. 22. § (8) bekezdés a) pontja szerinti kiegészítő támogatás nélkül
+(7) A Tao. tv. 22. § (3) bekezdése szerint biztosított támogatás esetében a közvetett támogatás forrását biztosító szervezet az MNF-fel kötött megállapodás alapján utalja a közvetett támogatás forrását a letéti számlára. A Tao. tv. 24/A. § (3) bekezdés a) pontja szerint biztosított közvetett támogatás esetében a kedvezményezett célra felajánlott összeget mint közvetett támogatást az állami adóhatóság utalja a letéti számlára. A letéti számlára a tárgyévben befizetett összeg a Tao. tv. 22. § (8) bekezdés a) pontja szerinti kiegészítő támogatás nélkül
 
 - a) a 2013. évben a 9700,0 millió forintot,
 - b) a 2014. évben a 7000,0 millió forintot,
-- c) a 2015. évben a 12 000,0 millió forintot
+- c) a 2015. évben a 12 000,0 millió forintot,
+- d) a 2016. évben a 14 000,0 millió forintot
 
 nem haladhatja meg.
 
 (8) A letéti számlát a társadalompolitika összehangolásáért felelős miniszter nyitja meg. A letéti számlán lévő pénzeszközökkel pénzügyi művelet az e törvényben meghatározott esetekben és módon az MNF rendelkezése alapján végezhető.
 
-(9) A közvetett támogatás kifizetését a filmelőállító, illetve a filmgyártó vállalkozás akkor kérheti az MNF-től, ha a Hivatal által a filmalkotás adott gyártási időszaka tekintetében meghozott, a 31/C. § (1) bekezdése szerinti határozata jogerőre emelkedett és támogatási szerződést még nem kötött. A 31/C. § (1) bekezdése szerinti határozat jogerőre emelkedésének időpontjáról a Hivatal nyilvántartást vezet. A letéti számláról történő kifizetés kizárólag a 31/C. § (1) bekezdés szerinti határozat jogerőre emelkedésének sorrendjében történhet.
+(9) A közvetett támogatás kifizetését a filmelőállító, illetve a filmgyártó vállalkozás akkor kérheti az MNF-től, ha a Hivatal által a filmalkotás adott gyártási időszaka tekintetében meghozott, a 31/C. § (1) bekezdése szerinti határozata jogerőre emelkedett és támogatási szerződést még nem kötött. A 31/C. § (1) bekezdése szerinti határozat jogerőre emelkedésének időpontjáról a Hivatal nyilvántartást vezet. A letéti számláról történő kifizetés kizárólag a 31/C. § (1) bekezdése szerinti határozat jogerőre emelkedésének sorrendjében történhet.
 
 (10) Az MNF a közvetett támogatás kifizetését – a letéti számláján rendelkezésre álló keretösszeg erejéig – a (9) bekezdés szerinti sorrendben a (9) bekezdés szerint jogosult filmelőállító vagy filmgyártó vállalkozás részére a támogatás kifizetésére irányuló kérelmének benyújtását követő 15 banki napon belül kezdeményezi a kincstárnál. Az MNF a támogatások gyűjtésével és kifizetésével kapcsolatos tevékenységéért a nyújtott támogatás legfeljebb 2,5%-ának megfelelő adminisztrációs díjat jogosult felszámítani a filmelőállítóval vagy a filmgyártó vállalkozással szemben.
 
@@ -948,6 +951,8 @@ nem haladhatja meg.
 (12) Ha a letéti számlán rendelkezésre álló keretösszeg – a (11) bekezdésben említett tartalékot nem számítva – teljes mértékben felhasználásra kerül, a (10) bekezdésben foglalt elintézési határidő megszakad és az MNF a támogatások kifizetését a letéti számlára pótlólagosan befizetett támogatások beérkezését követően folytatja.
 
 (12a) Az MNF minden negyedévet követő hónap ötödik napjáig tájékoztatja az állami adóhatóságot a letéti számlára a Tao. tv. 22. § (3) bekezdése alapján az adott negyedévben befolyt közvetett támogatások összegéről.
+
+(13) Az állami adóhatóság negyedévente, a negyedévet követő hó 15. napjáig a (7) bekezdésben meghatározott keretösszeg egynegyede és az adott negyedév során a Tao. tv. 22. § (3) és a Tao. tv. 24/A. § (3) bekezdés a) pontja alapján a letéti számlán összegyűjtött közvetett támogatás pozitív különbözetét az MNF részére megfizeti. Amennyiben az MNF valamely negyedévben a (7) bekezdésben meghatározott adott évi keretösszeg időarányos részénél több közvetett támogatást gyűjt, a felmerült negatív különbözetet az adott éven belül az állami adóhatóság a következő negyedév hasonló elszámolásánál figyelembe veszi.
 
 31/E. § (1) A közvetlen filmgyártási költségek között az a filmgyártási és filmgyártás-előkészítési költség ismerhető el, amely e törvényben meghatározott, a mozgóképszakmai szervezetek és személyek nyilvántartásába való bejegyzés iránti kérelem benyújtását követően – a magyarországi gyártással összefüggésben belföldön vagy külföldön – keletkezett, és megfelel a (2)–(9) bekezdésben meghatározott feltételeknek.
 

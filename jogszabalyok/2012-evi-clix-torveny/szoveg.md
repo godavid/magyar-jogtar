@@ -228,10 +228,7 @@ nyújtja.
 
 (2) A kérelmező prudens működésére vonatkozóan a Hatóság ellenőrzi továbbá, hogy a kérelmező szerepel a Nemzeti Adó- és Vámhivatal internetes honlapján megtalálható köztartozásmentes adózói adatbázisban.
 
-(3) A 11. § (7) bekezdés b) pontjában foglalt feltételeknek való megfelelés bemutatása érdekében a postai szolgáltatás engedélyezése iránti kérelem benyújtásával egyidejűleg
-
-- a) a 11. § (7) bekezdésében foglalt személyek hatósági bizonyítvánnyal igazolják azt a tényt, hogy büntetlen előéletűek, valamint nem állnak a postai szolgáltatás nyújtását kizáró foglalkozástól eltiltás hatálya alatt, vagy
-- b) kérik, hogy azon tények fennállására vonatkozó adatokat, hogy büntetlen előéletűek, valamint nem állnak a postai szolgáltatás nyújtását kizáró foglalkozástól eltiltás hatálya alatt, a bűnügyi nyilvántartó szerv a Hatóság részére – annak a postai szolgáltatás nyújtásának engedélyezése iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a Hatóság a (4) bekezdésben meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől.
+(3)
 
 (4) A Hatóság a postai szolgáltatás nyújtásának időtartama alatt folytatott hatósági ellenőrzés keretében ellenőrizheti azt is, hogy a 11. § (7) bekezdésében foglalt személyek büntetlen előéletűek-e, és nem állnak-e a postai szolgáltatás nyújtását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából a Hatóság adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a 11. § (7) bekezdésében foglalt személyek büntetlen előéletűek-e, és nem állnak-e a postai szolgáltatás nyújtását kizáró foglalkozástól eltiltás hatálya alatt.
 

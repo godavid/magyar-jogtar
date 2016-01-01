@@ -85,7 +85,7 @@ során csak az folytathat, aki büntetlen előéletű, a tolmácsolási tevéken
 
 - a) a képesítési feltételek teljesítésének igazolását,
 - b) a tolmácsolási gyakorlat meglétének igazolását,
-- c) az igazgatási szolgáltatási díj megfizetését tanúsító igazolást.
+- c)
 
 (3) A Névjegyzéket vezető hatóság a jelnyelvi tolmácsolási tevékenység végzésére jogosult, (2) bekezdés szerinti bejelentést tevő személyekről nyilvántartást vezet.
 
@@ -122,7 +122,7 @@ során csak az folytathat, aki büntetlen előéletű, a tolmácsolási tevéken
 
 (9) A Névjegyzéket vezető hatóság az adatokat a Névjegyzékből való törlést követő 5 évig kezeli, ezt követően az adatokat törli. A Névjegyzékből való törlést követően a Névjegyzéket vezető hatóság – adatigénylésre – a jelnyelvi tolmács tevékenységével összefüggő büntetőeljárásban az eljárás lefolytatásához a nyomozó hatóságnak, az ügyészségnek és a bíróságnak szolgáltat adatot.
 
-(10) A Névjegyzékbe történő felvételért a külön jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
+(10)
 
 ### Titoktartási kötelezettség
 
@@ -310,7 +310,7 @@ részletes szabályokat.
 - c) az e törvény szerinti jelnyelvi tolmácsolási tevékenység folytatásának részletes feltételeit, a tevékenység bejelentésének és a jelnyelvi tolmácsolási tevékenységet folytatók Névjegyzékének személyes adatot nem tartalmazó adattartalmát, a bejelentésre és a Névjegyzék vezetésére vonatkozó részletes eljárási szabályokat,
 - d) a jelnyelvi tolmácsolási tevékenységet folytatók Névjegyzékén szereplő jelnyelvi tolmácsok kötelező továbbképzésére, szakmai gyakorlatára, valamint az azok bejelentésére, igazolására és ellenőrzésére vonatkozó szabályokat.
 
-(8) Felhatalmazást kap a társadalmi felzárkózásért felelős miniszter, hogy az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a Névjegyzékbe történő felvételért fizetendő igazgatási szolgáltatási díjra vonatkozó részletes rendelkezéseket.
+(8)
 
 ### Melléklet a 2009. évi CXXV. törvényhez
 

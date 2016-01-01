@@ -347,7 +347,8 @@ terheli.
 - a) létrehozza és működteti az élelmiszerlánc-felügyeleti szervet valamint biztosítja függetlenségét;
 - b) működteti az élelmiszerek és takarmányok vonatkozásában hatékony gyorsriasztási rendszert;
 - c) az e törvény szerinti hatósági intézkedések megalapozása céljából állami laboratóriumokat működtet;
-- d) a költségvetési törvényben külön alcímen az állami kártalanítás, az állami, valamint a közérdekű védekezés céljára, továbbá a járványügyi intézkedés során keletkezett állati vagy növényi eredetű melléktermékek szállításának és ártalmatlanításának, valamint a rendkívüli élelmiszerlánc-esemény elhárítása során a hatóságnál felmerülő költségek fedezetére, továbbá az egyéb jogszabályban állami feladatként meghatározott vizsgálatok fedezetére célelőirányzatot biztosít.
+- d) a költségvetési törvényben külön alcímen az állami kártalanítás, az állami, valamint a közérdekű védekezés céljára, továbbá a járványügyi intézkedés során keletkezett állati vagy növényi eredetű melléktermékek szállításának és ártalmatlanításának, valamint a rendkívüli élelmiszerlánc-esemény elhárítása során a hatóságnál felmerülő költségek fedezetére, továbbá az egyéb jogszabályban állami feladatként meghatározott vizsgálatok fedezetére célelőirányzatot biztosít;
+- e) működteti a takarmány- és élelmiszerjog, valamint az állat-egészségügyi és az állatok kíméletére vonatkozó szabályok követelményeinek történő megfelelés ellenőrzésének biztosítása céljából végrehajtott hatósági ellenőrzésekről szóló, az Európai Parlament és a Tanács 2004. április 29-i 882/2004/EK rendelet 4. cikk (6) bekezdése szerinti audit rendszert.
 
 (2) Az állam az (1) bekezdésben foglaltak figyelembevételével – az éves költségvetési törvényben meghatározott módon – a központi költségvetésben biztosítja az élelmiszerlánc-felügyeleti szerv nemzeti és nemzetközi követelményeknek megfelelő szintű működésének fedezetét.
 
@@ -400,7 +401,7 @@ terheli.
 
 - a) ellátja a növényi károsítók előfordulásának, járványos fellépésének leküzdésével kapcsolatos, az e törvény végrehajtására kiadott jogszabályban meghatározott feladatokat;
 - b) az Európai Unió Bizottságánál kezdeményezi az állat- és növény-egészségügyi határállomások kijelölését;
-- c) kezdeményezheti rendkívüli élelmiszerlánc-események esetén a térítés ellenében történő közcélú munkavégzés, a létesítmény, a szállító-, növényvédő és más eszközök, valamint anyagok igénybevételének, továbbá a rendvédelmi szervek, valamint a Nemzeti Adó- és Vámhivatal vámszerve közreműködésének elrendelését;
+- c) kezdeményezheti rendkívüli élelmiszerlánc-események esetén a térítés ellenében történő közcélú munkavégzés, a létesítmény, a szállító-, növényvédő és más eszközök, valamint anyagok igénybevételének, továbbá a rendvédelmi szervek, valamint a Nemzeti Adó- és Vámhivatal közreműködésének elrendelését;
 - d) nagy nemzetgazdasági kárral fenyegető vagy közegészségügyi szempontból veszélyes állatbetegségek felszámolására állami pénzeszközökkel támogatott, az állatállományoknak a betegségtől való mentesítésére országos programot, valamint a betegség előfordulásának felmérésére ellenőrző, illetve monitoring-vizsgálati programot rendelhet el;
 - e) működteti a FAO/WHO Codex Alimentarius nemzeti rendszerét;
 - f) kiadja az élelmiszerkönyvi irányelveket, és gondoskodik a Magyar Élelmiszerkönyv összeállításáról és közzétételéről;
@@ -660,7 +661,7 @@ terheli.
 
 (2) Az (1) bekezdésben megjelölt nyilvántartás tartalmazza
 
-- a) a mezőgazdasági és vidékfejlesztési támogatási szerv által kiadott regisztrációs számot, illetve technikai azonosítót,
+- a) a mezőgazdasági és vidékfejlesztési támogatási szerv által kiadott ügyfél-azonosító számot,
 - b) a nyilvántartásba vétel alapjául szolgáló hatósági engedély, bizonyítvány, határozat számát, továbbá
 - c) az információs önrendelkezési jogról és az információszabadságról szóló törvény hatálya alá tartozó adatkörben
   - ca) természetes személyek esetén a természetes személyazonosító adatokat, lakcímet, telephelyet, elérhetőséget, adóazonosító jelet,
@@ -703,8 +704,8 @@ terheli.
 
 (3) A FELIR kialakításához és működtetéséhez az élelmiszerlánc-felügyeleti szerv kezeli
 
-- a) a természetes személy ügyfél természetes személyazonosító adatait, lakcímét, elérhetőségét, adóazonosító jelét, a mezőgazdasági és vidékfejlesztési támogatási szerv által kiadott regisztrációs számát, illetve technikai azonosítóját, bankszámlaszámát;
-- b) jogi személy, valamint jogi személyiséggel nem rendelkező szervezet esetén a (cég)nevét, adószámát, székhelyét, telephelyét, elérhetőségét, a mezőgazdasági és vidékfejlesztési támogatási szerv által kiadott regisztrációs számát, illetve technikai azonosítóját, bankszámlaszámát.
+- a) a természetes személy ügyfél természetes személyazonosító adatait, lakcímét, elérhetőségét, adóazonosító jelét, a mezőgazdasági és vidékfejlesztési támogatási szerv által kiadott ügyfél-azonosító számát, bankszámlaszámát;
+- b) jogi személy, valamint jogi személyiséggel nem rendelkező szervezet esetén a (cég)nevét, adószámát, székhelyét, telephelyét, elérhetőségét, a mezőgazdasági és vidékfejlesztési támogatási szerv által kiadott ügyfél-azonosító számát, bankszámlaszámát.
 
 (3a) Az erdészeti hatóság az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 18. § (6) bekezdés a) pont aa)–af) és ah) alpontjában, valamint a b) pont ba)–bf) alpontjában levő adatokat a FELIR segítségével kezeli.
 
@@ -734,12 +735,16 @@ terheli.
 
 (9) Az élelmiszerlánc-felügyeleti szerv részére e törvényben meghatározott feladatai ellátása – különösen az e törvény hatálya alá tartozó termékek nyomon követhetősége – érdekében az elektronikus útdíjszolgáltatók nyilvántartásából folyamatosan, elektronikus úton adatokat kell átadni.
 
+(10) Az élelmiszerlánc-felügyeleti szervtől az adatok meghatározott szempontú csoportosítása is igényelhető.
+
 38/B. § (1) Az a
 
 - a) természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet,
 - b) mezőgazdasági őstermelő és a családi gazdálkodó, aki a 47/B. § (2) bekezdése a)–k) pontjában meghatározott tevékenységek valamelyikét Magyarország területén végzi, köteles a 38. § (2) bekezdés c) pontja szerinti adatait, a ténylegesen végzett élelmiszerlánc-felügyelet alá tartozó tevékenységét (tevékenységeit), továbbá a tevékenység végzésének helyét (helyeit) az élelmiszerlánc-felügyeleti szervhez nyilvántartásba vétel céljából bejelenteni. A bejelentési kötelezettség nem vonatkozik a 2. § (3) bekezdése szerinti tevékenységekre.
 
 (2) Az élelmiszerlánc-felügyeleti szerv az ügyfél bejelentése alapján veszi nyilvántartásba az (1) bekezdés szerinti adatokat, és egyidejűleg FELIR azonosító számot (a továbbiakban: FELIR azonosító) állapít meg a nyilvántartásba vétel igazolására. Amennyiben a FELIR azonosítóval rendelkező ügyfél a továbbiakban nem végez a 47/B. § (2) bekezdése szerinti tevékenységet, vagy a 47/B. § (8) bekezdése szerinti bevallási kötelezettségének nem tesz eleget, vagy hivatalbóli intézkedés alapján a FELIR azonosítóra való jogosultságát elveszti, akkor a FELIR azonosító egyidejű visszavonásával a nyilvántartásból törölni kell. A nyilvántartásból törölt élelmiszerlánc-szereplő adatait az élelmiszerlánc-felügyeleti szerv élelmiszerlánc-biztonsági célból 10 évig köteles megőrizni.
+
+(2a) E törvény hatálya alá tartozó tevékenységet csak FELIR azonosítóval rendelkező ügyfél folytathat.
 
 (3) A FELIR azonosítóval rendelkező ügyfél köteles bejelenteni az élelmiszerlánc-felügyeleti szervnek, ha csődeljárás, felszámolás vagy végelszámolás alatt áll, valamint a jogutódlással történő vagy jogutód nélküli megszűnését is.
 
@@ -749,7 +754,7 @@ terheli.
 
 (6) A FELIR azonosítóhoz tartozó, nyilvántartásba vett adatokat az élelmiszerlánc-felügyeleti szerv a következők szerint igazolja:
 
-- a) igazolást állít ki, melyen szerepel a FELIR azonosító, az ügyfélnyilvántartási szám vagy technikai azonosító, valamint
+- a) igazolást állít ki, melyen szerepel a FELIR azonosító, az ügyfél-azonosító szám, valamint
   - aa) természetes személy esetében az ügyfél neve és születési dátuma,
   - ab) jogi személy, valamint jogi személyiséggel nem rendelkező szervezet esetén a cégnév és az adószám;
 - b) honlapján elektronikusan hitelesített módon közzéteszi az a) pontban szereplő adatok mellett az ügyfél által bejelentett tevékenységek és tevékenységi helyek listáját;
@@ -818,17 +823,17 @@ terheli.
 
 eljárásban hozott döntés ellen közigazgatási eljárás keretében fellebbezésnek helye nincs.
 
-40. § (1) Az élelmiszerlánc-felügyeleti szerv a növényvédő szerek, valamint a növényvédő szernek nem minősülő növényvédelmi hatású termékek, védőanyagok, kölcsönhatás-fokozók, segédanyagok, hatásjavítók, növényvédelmi célú eszközök és anyagok, makroszervezetek forgalomba hozatali, felhasználási engedélyezési és engedélymódosítási eljárása során az engedély megadásáról tizennyolc hónapon, mikroorganizmusok esetén tizenkét hónapon belül dönt.
+40. § (1) Az élelmiszerlánc-felügyeleti szerv a növényvédő szerek, valamint a növényvédő szernek nem minősülő növényvédelmi hatású termékek, védőanyagok, kölcsönhatás-fokozók, segédanyagok, hatásjavítók, növényvédelmi célú eszközök és anyagok, makroszervezetek és mikroorganizmusok forgalombahozatali, felhasználási engedélyezési és engedélymódosítási eljárása során az engedély megadásáról tizenkét hónapon belül dönt.
 
-(2) Az élelmiszerlánc-felügyeleti szerv az engedélyköteles növény- és talajkezelő termékek eseti, százhúsz napos és kísérleti engedélyeinek megadásáról két hónapon belül dönt. Az élelmiszerlánc-felügyeleti szerv a növényvédő szerek címkétől eltérő felhasználásának engedélyezési és engedélymódosítási eljárásában döntését tizenkét hónapon belül hozza meg. Az élelmiszerlánc-felügyeleti szerv a növényvédő szerek párhuzamos behozatalának engedélyezési eljárásában az engedély megadásáról negyvenöt munkanapon belül dönt.
+(2) Az élelmiszerlánc-felügyeleti szerv az engedélyköteles növény- és talajkezelő termékek eseti, százhúsz napos és kísérleti engedélyeinek megadásáról negyvenöt napon belül dönt. Az élelmiszerlánc-felügyeleti szerv a növényvédő szerek címkétől eltérő felhasználásának engedélyezési és engedélymódosítási eljárásában döntését nyolc hónapon belül hozza meg.
 
-(3) Az élelmiszerlánc-felügyeleti szerv a termésnövelő anyagok engedélyezési és engedélymódosítási eljárásában az engedély megadásáról hat hónapon belül dönt.
+(3) Az élelmiszerlánc-felügyeleti szerv a termésnövelő anyagok engedélyezési és engedélymódosítási eljárásában az engedély megadásáról négy hónapon belül dönt.
 
-(4) A növényvédő szer forgalomba hozatali és felhasználási engedélyezési eljárásában a hiánypótlási felhívás kibocsátásának határideje két hónap, a termésnövelő anyagok engedélyezési eljárásában pedig harminc nap.
+(4) A növényvédő szer forgalomba hozatali és felhasználási engedélyezési eljárásában a hiánypótlási felhívás kibocsátásának határideje negyvenöt nap, a termésnövelő anyagok engedélyezési eljárásában pedig huszonöt nap.
 
-(5) Az állatgyógyászati termék laboratóriumon kívüli gyakorlati kipróbálásának, gyártásának, ideiglenes jellegű felhasználásának, valamint az állatgyógyászati készítmények hatóanyaga gyártásának engedélyezéséről és az engedély módosításáról, a rendszeres gyógyszerbiztonsági jelentések értékeléséről szóló döntést kilencven napon belül, az állatgyógyászati termék és az állatgyógyászati készítmény forgalomba hozatalának engedélyezéséről és megújításáról szóló döntést kétszáztíz napon belül kell meghozni.
+(5) Az állatgyógyászati termék laboratóriumon kívüli gyakorlati kipróbálásának, gyártásának, ideiglenes jellegű felhasználásának, valamint az állatgyógyászati készítmények hatóanyaga gyártásának engedélyezéséről és az engedély módosításáról, a rendszeres gyógyszerbiztonsági jelentések értékeléséről szóló döntést hatvan napon belül, az állatgyógyászati termék és az állatgyógyászati készítmény forgalomba hozatalának engedélyezéséről és megújításáról szóló döntést százhatvan napon belül kell meghozni.
 
-(6) A növényvédő szer besorolásában vagy címkézésében az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról, a 67/548/EGK és az 1999/45/EK irányelv módosításáról és hatályon kívül helyezéséről, valamint az 1907/2006/EK rendelet módosításáról szóló, 2008. december 16-i 1272/2008/EK európai parlamenti és tanácsi rendelet előírásai által bekövetkezett változásokat tartalmazó módosított címketerv engedélyes által történő benyújtását követően az élelmiszerlánc-felügyeleti szerv 90 napon belül dönt a módosítás elfogadhatóságáról. Amennyiben az élelmiszerlánc-felügyeleti szerv 90 napon belül nem utasítja el a javasolt módosítást, akkor az engedélyes jogosult a módosított címkeszöveg használatára.
+(6) A növényvédő szer besorolásában vagy címkézésében az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról, a 67/548/EGK és az 1999/45/EK irányelv módosításáról és hatályon kívül helyezéséről, valamint az 1907/2006/EK rendelet módosításáról szóló, 2008. december 16-i 1272/2008/EK európai parlamenti és tanácsi rendelet előírásai által bekövetkezett változásokat tartalmazó módosított címketerv engedélyes által történő benyújtását követően az élelmiszerlánc-felügyeleti szerv 60 napon belül dönt a módosítás elfogadhatóságáról. Amennyiben az élelmiszerlánc-felügyeleti szerv 60 napon belül nem utasítja el a javasolt módosítást, akkor az engedélyes jogosult a módosított címkeszöveg használatára.
 
 41. § (1) Az élelmiszerlánc-felügyeleti szerv a növényvédő szer forgalomba hozatali és felhasználási engedélyezési eljárása során ha az e törvény végrehajtására kiadott jogszabályban meghatározott védelmi célok érdekében szükséges, elrendelheti, hogy az engedélyezési eljárás ideje alatt a növényvédő szerek alkalmazásáról meghatározott ismereteket kell nyerni, gyűjteni és értékelni. Az eredményeket az engedélyező hatóságnak meghatározott időn belül meg kell küldeni, felhívásra a megfelelő dokumentumokat és mintákat be kell mutatni.
 

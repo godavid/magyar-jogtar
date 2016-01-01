@@ -33,6 +33,9 @@ Az Országgyűlés a szőlőtermesztésnek és a borgazdálkodásnak az Európai
 - 15. borászati termék: a mezőgazdasági termékpiacok közös szervezésének létrehozásáról, és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1308/2013/EU rendelet) VII. melléklet II. részében szereplő szőlőből készült termékek.
 - 16. gazdasági akta: a 479/2008/EK tanácsi rendeletnek a szőlőkataszter, a kötelező bejelentések, a piaci felügyelethez szükséges információgyűjtés, a borászati termékek fuvarozásához szükséges kísérőokmányok, valamint a borágazatban vezetendő nyilvántartás tekintetében történő alkalmazására vonatkozó részletes szabályok megállapításáról szóló, 2009. május 26-i 436/2009/EK rendelet I. melléklet 1. pontja szerinti adattartalmú, egy természetes személyre, jogi személyre vagy jogi személyiség nélküli szervezetre vonatkozó, azonosító számmal ellátott nyilvántartás.
 - 17. telepítési jog: olyan vagyoni értékű jog, amely az 1234/2007/EK tanácsi rendelet 85h–85i. cikke szerint új telepítési jog vagy újratelepítési jog.
+- 18. új telepítési engedély: az 1308/2013/EU rendelet 64. cikke szerinti új szőlőtelepítésekre vonatkozó telepítési engedély.
+- 19. újratelepítési engedély: az 1308/2013/EU rendelet 66. cikke szerinti engedély.
+- 20. átváltott telepítési engedély: az 1308/2013/EU rendelet 68. cikke szerint a telepítési jog átváltása alapján adott engedély.
 
 ### II. Fejezet — A SZŐLŐTERMESZTÉS
 
@@ -89,7 +92,11 @@ terület lehet.
 
 7. § (1) Árutermő, törzs- és kísérleti célú borszőlőt telepíteni, illetve kivágni csak engedéllyel lehet. Borszőlőültetvény telepítése abban az esetben is engedélyköteles, amennyiben annak területe az 1000 m2-t nem haladja meg, de a telepítő használatában lévő borszőlőültetvény és az új telepítésű ültetvényrész összefüggő ültetvényt képez, és együttes nagysága eléri az árutermő ültetvény méretét. Összefüggő ültetvénynek tekintendő a hegybírótól telepítési engedélyt kérő használatában lévő, akár több helyrajzi számon nyilvántartott terület, amelyet a telepítéssel nem érintett terület, – kivéve út, csatorna, árok – vagy más gazdálkodó használatában álló terület nem szakít meg. Az ültetvény más fajtára történő cseréje esetén a telepítésre vonatkozó rendelkezéseket kell alkalmazni. Az engedélyezési eljárás részletes szabályait e törvény felhatalmazása alapján kiadott rendelet tartalmazza.
 
-(2)–(4)
+(2) Az új telepítési engedély kiadására irányuló eljárásban az ügyintézési határidő 70 nap.
+
+(3) A telepítési jogok tulajdonosa az 1308/2013/EU rendelet 68. cikke szerint a kérelem benyújtásának időpontjában érvényes telepítési joga alapján az átváltott telepítési engedélyt 2020. december 31-ig kérelmezheti a hegybírónál.
+
+(4) Az új telepítési engedély, az újratelepítési engedély és az átváltott telepítési engedély (a továbbiakban együtt: telepítési engedély) feltételeire és az engedélyezési eljárásra vonatkozó részletes szabályokat e törvény végrehajtására kiadott rendelet tartalmazza.
 
 8. § (1) A telepítést és a fajtaváltást a növénytermesztési hatóság ellenőrzi.
 
@@ -101,9 +108,7 @@ terület lehet.
 
 10. § (1)
 
-(2) 2004. május 1-je után engedéllyel végzett ültetvénykivágás alapján újratelepítési jogot szerző és kivágási engedéllyel rendelkező személy újratelepítési jogát a kivágástól számított ötödik borpiaci év (augusztus 1–július 31.) végéig jogosult felhasználni. Az ezen időszak alatt fel nem használt újratelepítési jogok a telepítési jogtartalékba kerülnek. Az újratelepítési jogra, az új telepítési jogra, valamint a telepítési jogtartalékra vonatkozó részletes szabályokat az e törvény felhatalmazása alapján kiadott rendelet határozza meg.
-
-(3) A (2) bekezdésben meghatározott újratelepítési jogok nyilvántartásában szereplő újratelepítési jog fajtakísérleti célra térítés nélkül adható.
+(2)–(3)
 
 ### Nyilvántartások
 
@@ -133,7 +138,7 @@ terület lehet.
 
 (7) Amennyiben az ültetvény használója kivágási kötelezettségének nem tesz eleget a hegybíró az ültetvény használójának a költségére az ültetvényt kivágattatja.
 
-(8) A kivágás után keletkezett újratelepítési jogot telepítési jogtartalékba kell helyezni.
+(8)
 
 ### II/A. Fejezet — BORÁSZATI TERMÉKEK EREDETMEGJELÖLÉSEI ÉS FÖLDRAJZI JELZÉSEI
 
@@ -351,23 +356,7 @@ terület lehet.
 
 42. §
 
-43. § (1) Amennyiben a növénytermesztési hatóság ellenőrzése során megállapítja, hogy engedély nélküli telepítést végeztek, tizenöt napon belül határidő megjelölésével felszólítja a telepítést végzőt, hogy fennmaradási engedély iránti kérelmet nyújtson be a borszőlőültetvény utólagos engedélyezése céljából a hegybíróhoz. A felszólításról a növénytermesztési hatóság értesíti a hegybírót.
-
-(2) Amennyiben az ültetvény nem felel meg a jogszabályi előírásoknak, a telepítést végző a fennmaradási engedély iránti kérelemben vállalhatja, hogy az ültetvényt a jogszabályi előírásoknak megfelelően átalakítja. Az átalakítást úgy engedélyezi a hegybíró, hogy a telepítést végző azt a határozat jogerőre emelkedésétől számított egy éven belül köteles elvégezni, és annak megtörténtét követő harminc napon belül bejelenteni a növénytermesztési hatósághoz. A növénytermesztési hatóság az átalakított ültetvényt ellenőrzi, és az ellenőrzésről készült jegyzőkönyvet megküldi a hegybíró részére.
-
-(3) A (2) bekezdésben meghatározott egyéves határidő a telepítést végző kérelmére hat hónappal meghosszabbítható az alábbi esetek bekövetkezése esetén:
-
-- a) a telepítést végző hosszú távú munkaképtelensége;
-- b) az ültetvény területének jogszabály alapján történő átminősítése, amennyiben ez a kötelezettségvállalás, illetve a kérelem benyújtásának időpontjában nem volt előrelátható;
-- c) az ültetvény területét sújtó természeti csapás, illetve szélsőséges időjárási körülmény, különösen földrengés, árvíz, szélvihar, aszály, belvíz, tűzeset, jégkár, fagykár.
-
-(4) Amennyiben a borszőlőültetvény vagy átalakított borszőlőültetvény fennmaradásának akadálya nincs – és új ültetvény telepítése esetén igazolható, hogy a telepítő a szükséges mennyiségű újratelepítési jog birtokában telepített és a joggal továbbra is rendelkezik –, úgy a telepítést utólagosan a hegybíró engedélyezi.
-
-(5) Amennyiben a telepítést az engedély kiadását megelőzően már megkezdték, illetve elvégezték, de a kérelem az előírt követelményeknek megfelel – és új ültetvény telepítése esetén igazolható, hogy a telepítő a szükséges mennyiségű újratelepítési jog birtokában telepített és a joggal továbbra is rendelkezik –, úgy a telepítést utólagosan a hegybíró engedélyezi.
-
-(6) Amennyiben a növénytermesztési hatóság megállapítja, hogy a borszőlőültetvény vagy átalakított borszőlőültetvény részben vagy egészben nem felel meg a jogszabályi követelményeknek, megfelelő határidő tűzésével kötelezi a telepítőt az engedély nélkül telepített borszőlőültetvény kivágására. Amennyiben a telepítő kivágási kötelezettségének határidőn belül nem tesz eleget, a növénytermesztési hatóság a borszőlőültetvényt kivágattatja. A kivágás elrendeléséről a növénytermesztési hatóság értesíti a hegybírót.
-
-(7) Az (1) bekezdés szerinti borszőlőültetvényről származó borszőlőre csak az utólagos engedélyezés esetén adható származási bizonyítvány.
+43. §
 
 43/A. § (1) Amennyiben a növénytermesztési hatóság ellenőrzése során megállapítja, hogy az ültetvényt engedély nélkül vágták ki, tizenöt napon belül határidő megjelölésével felszólítja a kivágást végzőt, hogy nyújtsa be a kivágási engedély iránti kérelmét a hegybíróhoz kivágás utólagos engedélyezése céljából. A felszólításról a növénytermesztési hatóság értesíti a hegybírót.
 
@@ -381,26 +370,19 @@ terület lehet.
 
 (3) Amennyiben a telepítő kivágási kötelezettségének nem tesz eleget, úgy a növénytermesztési hatóság a borszőlőültetvényt kivágattatja. A kivágás megtörténtéről a növénytermesztési hatóság értesíti a hegybírót.
 
-43/C. § (1) Azt a személyt, aki engedély nélkül végzett telepítést vagy borszőlőültetvényt engedély nélkül vágott ki (a továbbiakban: mulasztó) a növénytermesztési hatóság ötszázezer forintig terjedő mulasztási bírság megfizetésére kötelezi.
+43/C. § Azt a személyt, aki borszőlőültetvényt engedély nélkül vágott ki vagy a telepítési engedélyben foglaltaktól eltérően telepített a növénytermesztési hatóság ötvenezer forint mulasztási bírság megfizetésére kötelezi.
 
-(2) Amennyiben a mulasztó a 43. § (1) bekezdésében, a 43/A. § (1) bekezdésében vagy a 43/B. § (1) bekezdésében foglalt kérelem benyújtására vonatkozó felszólításnak határidőben nem tesz eleget, úgy a növénytermesztési hatóság a mulasztót ötventől – ötszázezer forintig terjedő mulasztási bírság megfizetésére, és a nem engedélyezett művelet vonatkozásában a művelési ág szerinti állapot helyreállítására kötelezi.
+43/D. § (1) A növénytermesztési hatóság a használót az ültetvény kivágására kötelezi, ha az ellenőrzése során megállapítja, hogy a használó telepítési engedély nélkül telepített.
 
-(3) A mulasztási bírság kiszabása során figyelembe kell venni az engedély nélkül végzett művelettel érintett terület nagyságát, valamint a mulasztó által engedély nélkül végzett műveletek gyakoriságát.
+(2) A növénytermesztési hatóság a telepítési engedély nélkül telepített ültetvény telepítőjét az alábbi összegű bírság megfizetésére kötelezi:
 
-43/D. § (1) A 43–43/C. §-ban foglaltak nem vonatkoznak a borpiac közös szervezéséről szóló 1999. május 17-i 1493/1999/EK tanácsi rendelet 2. cikk (1) bekezdésében, illetve az 1234/2007/EK tanácsi rendelet 85g. cikkében meghatározott telepítési tilalom megszegésével végzett telepítésekre.
+- a) hektáronként 6000 EUR, ha a termelő a telepítési engedély nélkül telepített szőlőültetvény teljes egészét kivágja a kivágásra kötelezéstől számított négy hónapos időszakon belül,
+- b) hektáronként 12 000 EUR, ha a termelő a telepítési engedély nélkül telepített szőlőültetvény teljes egészének kivágását az a) pontban meghatározott négy hónapos időszak lejártától számított első évben végzi el,
+- c) hektáronként 20 000 EUR, ha a termelő a telepítési engedély nélkül telepített szőlőültetvény teljes egészének kivágását az a) pontban meghatározott négy hónapos időszak lejártától számított első év végét követően végzi el.
 
-(2) Az (1) bekezdésben meghatározott telepítési tilalom megszegésével végzett telepítések esetében a borpiac közös szervezéséről szóló 479/2008/EK tanácsi rendeletnek a támogatási programok, a harmadik országokkal folytatott kereskedelem, a termelési potenciál és borágazat ellenőrzése tekintetében történő végrehajtására vonatkozó részletes szabályok megállapításáról szóló 2008. június 27-i 555/2008/EK bizottsági rendelet 55. cikk (1) bekezdése alapján a növénytermesztési hatóság bírságot szab ki.
+(3) A növénytermesztési hatóság az ültetvényt kivágattathatja, ha a használó a (2) bekezdés a) pontjában meghatározott időpontig nem vágja ki az ültetvényt.
 
-(3) A bírság összege hektáronként az alábbi euró összegeknek megfelelő forintösszegekből tevődik össze:
-
-- a) tizenkétezer euró, valamint
-- b) a telepítés és a bírság kiszabásának időpontja között eltelt évek száma százszorosának megfelelő euró.
-
-(4) A kivágás tényét annak megtörténtét követő harminc napon belül be kell jelenteni a növénytermesztési hatósághoz. A kivágás megtörténtéről a növénytermesztési hatóság értesíti a hegybírót.
-
-(5) A növénytermesztési hatóságnak a kivágás elmaradása esetén a bírságot az arról szóló határozat kézhezvételének napját követő minden tizenkettedik hónapban ki kell szabni.
-
-(6) A bírság összegének meghatározásakor a forintra történő átszámítást a határozathozatal hónapjának első napján érvényes, az Európai Központi Bank által közzétett forint/euró átváltási árfolyam alapján kell elvégezni.
+(4) A bírság összegének meghatározásakor a forintra történő átszámítást a határozathozatal hónapjának első napján érvényes, az Európai Központi Bank által közzétett forint/euró átváltási árfolyam alapján kell elvégezni.
 
 ### A borgazdálkodás körébe tartozó ellenőrzés
 
@@ -512,13 +494,13 @@ terület lehet.
 - a) a szőlő termőhelyi katasztere felvételezésének, a kataszterbe sorolás, a kataszteri osztály módosítás, a kataszterből való törlés szabályait;
 - b) a borvidékeket és a hozzájuk tartozó települések listáját, a borrégiókat és működésükre vonatkozó szabályokat, a védett eredetű borokat, a védett eredetű borok készítésére, kiszerelésére, jelölésére, minősítésének eljárására és ellenőrzésére vonatkozó szabályokat;
 - c) a borkészítésre alkalmas szőlőfajtákat és a borkészítésre alkalmas szőlőfajták osztályba sorolásának rendjét;
-- d) a termelési potenciálra (újratelepítési jog, új telepítési jog, valamint telepítési jogtartalék) vonatkozó szabályokat, valamint a telepítés és kivágás engedélyezésének, utólagos engedélyezésének és ellenőrzésének eljárási rendjét;
+- d) a termelési potenciálra, valamint a kivágási engedély feltételeire és az engedélyezési eljárásra vonatkozó részletes szabályokat;
 - e) a borászati termékek, valamint a bortípusok meghatározását, az előállításukra és kezelésükre, kiszerelésükre, minősítésükre, jelölésükre, forgalomba hozatalukra és ellenőrzésükre vonatkozó előírásokat, a borászati termékek megsemmisítésének rendjét;
 - f) a borászati melléktermékek kötelező kivonásának rendjét;
 - g) a származási bizonyítványok részletes adattartalmát, kiadási rendjét;
 - h) az adatszolgáltatás rendjét;
 - i) a VINGIS részletes tartalmát, valamint a szőlészeti borászati szakigazgatás szerveinek a VINGIS adataihoz való hozzáférési jogosultságát;
-- j)
+- j) az új telepítés engedély, az újratelepítési engedély és az átváltott telepítési engedély feltételeire és az engedélyezési eljárásra vonatkozó részletes szabályokat;
 - k) a pince- és borhigiéniai követelményeket, a borászati üzemek működését, illetve a borászati üzemek működésének és a borászati termékek kiszerelésének engedélyezési rendjét;
 - l)
 - m) a forgalomba hozatali, illetve Magyarország területéről történő kiszállítás esetén a továbbfeldolgozásra vonatkozó engedély kiadásához szükséges kémiai és érzékszervi vizsgálatok végzésére jogosult szervezet elismerésének feltételeit, valamint a laboratóriumi és érzékszervi vizsgálatok rendjét;

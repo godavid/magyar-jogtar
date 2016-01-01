@@ -274,31 +274,17 @@ Vhr.7. § (1) A helyi önkormányzatot terhelő adatszolgáltatás teljesítés�
 
 (6) A nemzetbiztonsági szolgálatok statisztikai ellenőrzéséhez az adott szolgálat főigazgatójának előzetes, a tartózkodási feltételek részletes meghatározását tartalmazó eseti hozzájárulása szükséges.
 
-Vhr.7/A. § (1) A KSH az Országos Statisztikai Adatgyűjtési Programról szóló kormányrendeletben (a továbbiakban: OSAP) meghatározott egyes adatgyűjtésekhez kapcsolódó adatszolgáltatási kötelezettség elektronikus úton történő teljesítéséhez informatikai rendszert működtet (a továbbiakban: ELEKTRA rendszer).
+Vhr.7/A. § (1) A hivatalos statisztikai szolgálat adatgyűjtés végrehajtásáért felelős tagja az Országos Statisztikai Adatgyűjtési Programról szóló kormányrendeletben (a továbbiakban: OSAP) meghatározott egyes adatgyűjtésekhez kapcsolódó adatszolgáltatási kötelezettség elektronikus úton történő teljesítéséhez informatikai rendszert működtet (a továbbiakban: Rendszer).
 
-(2) Az ELEKTRA rendszer használatának feltétele, hogy az adatszolgáltató vagy az adatszolgáltatásra általa felhatalmazott szervezet (a továbbiakban: adatbenyújtó) az ELEKTRA rendszerben elektronikus úton regisztráljon.
+(2) A Rendszer használatának feltétele, hogy az adatszolgáltató vagy az adatszolgáltatásra általa felhatalmazott szervezet (a továbbiakban: adatbenyújtó) a Rendszerben elektronikus úton regisztráljon.
 
-(3) Amennyiben az adatszolgáltató adatszolgáltatási kötelezettségét nem közvetlenül, hanem adatbenyújtó megbízásával kívánja teljesíteni, az erről szóló megállapodás KSH által aláírt tervezetét a KSH elektronikus formában küldi meg az adatszolgáltató részére. A megállapodás adatszolgáltató és adatbenyújtó által aláírt példányát az adatszolgáltató megküldi a KSH részére.
+Vhr.7/B. § (1) A Rendszerben kitöltött kérdőíven megjelölt adatokat az adatszolgáltatón kívül csak a hivatalos statisztikai szolgálat adatgyűjtés végrehajtásáért felelős tagja és a részére adatfeldolgozást végző szerv ismerheti meg.
 
-(4) A rendszerben történő regisztráció adatszolgáltatónként egy-egy felhasználói azonosítóval és belépési jelszóval rendelkező adminisztrátor felhasználót (a továbbiakban: adminisztrátor) hoz létre.
+(2) A Rendszer rögzíti és visszaigazolja a kérdőív beküldési időpontját, amely egyben az adatszolgáltatási kötelezettség teljesítésének időpontja.
 
-(5) Az adminisztrátor jogosult az ELEKTRA rendszer használatára, és az elektronikus kérdőívek kitöltésére más személyeket (a továbbiakban: végfelhasználó) felhasználóként a rendszerbe felvenni, hozzáférési jogaikat szabályozni. A végfelhasználók jogosultságainak kezeléséért, jelszavaik pótlásáért az adminisztrátor felelős. Az adminisztrátor felel a végfelhasználók által az ELEKTRA rendszerben megvalósított műveletekért kivéve, ha bizonyítja, hogy azoknak a szabályoknak való megfelelősége biztosítása érdekében úgy járt el, ahogy az az adott helyzetben általában elvárható.
+Vhr.7/C. § (1) Amennyiben a Rendszerben üzemzavar történik, a hivatalos statisztikai szolgálat adatgyűjtés végrehajtásáért felelős tagja az üzemzavarról, és az üzemzavar elhárítását követően annak kezdő és megszűnési időpontjáról haladéktalanul közleményt tesz közzé a saját honlapján.
 
-(6) A végfelhasználó a szervezet törzsszámával, felhasználói azonosítóval és saját egyedi jelszavával fér hozzá az ELEKTRA rendszer adatszolgáltatói felületéhez.
-
-Vhr.7/B. § (1) Az ELEKTRA rendszer biztosítja, hogy az abban rögzített adatok az adatszolgáltató számára saját gépre menthetőek, valamint a rögzítést követően két évig az ELEKTRA rendszerben elérhetők legyenek.
-
-(2) Az ELEKTRA rendszerben kitöltött kérdőíven megjelölt adatokat a titkosítási eljárást követően az adminisztrátoron és a végfelhasználón kívül csak a KSH ismerheti meg.
-
-(3) Az ELEKTRA rendszer rögzíti a kérdőív beküldési időpontját, valamint az adatbázisba történő betöltés időpontját. Az adatszolgáltatási kötelezettség teljesítésének időpontja az ELEKTRA rendszerben a kérdőív beküldéseként rögzített időpont. Mindkét időpontról elektronikus nyugta készül.
-
-Vhr.7/C. § (1) Amennyiben az ELEKTRA rendszerben üzemzavar történik, a KSH az üzemzavarról, és az üzemzavar elhárítását követően annak kezdő és megszűnési időpontjáról haladéktalanul közleményt tesz közzé a saját honlapján, illetve az ELEKTRA rendszer nyitólapján.
-
-(2) Amennyiben az ELEKTRA rendszer működése karbantartás miatt szünetel, a karbantartás tényéről az ELEKTRA rendszer nyitólapján üzenetet kell megjeleníteni, a karbantartás tervezett időpontját megelőző legalább nyolcadik naptól a karbantartás befejezéséig.
-
-(3) A KSH az ELEKTRA rendszer alkalmazásához szükséges informatikai követelményeket, az informatikai követelmények megváltozását a változás időpontját legalább 30 nappal megelőzően a honlapján teszi közzé.
-
-(4) A KSH az ELEKTRA rendszer használatával kapcsolatos ügyintézés érdekében munkaidőben telefonos adatszolgáltatói tájékoztató rendszert üzemeltet.
+(2) Amennyiben a Rendszer működése karbantartás miatt szünetel, a karbantartás tényéről a Rendszer nyitólapján üzenetet kell megjeleníteni, a karbantartás tervezett időpontját megelőző legalább nyolcadik naptól a karbantartás befejezéséig.
 
 ### Népmozgalmi statisztikai adatgyűjtés
 

@@ -1031,9 +1031,11 @@ részére adhatók át.
 
 (7) Nem adható hulladékgazdálkodási engedély, illetve minősítési engedély annak, továbbá nem vehető nyilvántartásba az, akinek vagy amelynek az önkormányzati vagy az állami adóhatósággal szemben köztartozása van.
 
-(8) A hulladékgazdálkodási hatósági engedélyezési eljárásokban az ügyintézési határidő 60 nap, a nyilvántartásba vételi eljárásokban 30 nap.
+(8) A hulladékgazdálkodási hatósági engedélyezési eljárásokban az ügyintézési határidő 45 nap.
 
 (9) Az e törvény végrehajtására kiadott kormányrendelet vagy miniszteri rendelet a (4)–(7) bekezdésben foglalt feltételekhez kapcsolódó szabályokat részletesen meghatározhatja.
+
+(10) Az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség a veszélyes hulladékkal kapcsolatos egyes tevékenységek részletes szabályairól szóló kormányrendelet 15. § (1) bekezdés d) pontjában meghatározott minősítés tárgyában a döntését a kérelem benyújtását követő 50 napon belül hozza meg.
 
 80. § (1) A környezetvédelmi hatóság által kiadott hulladékgazdálkodási engedélynek legalább a következő adatokat kell tartalmaznia:
 

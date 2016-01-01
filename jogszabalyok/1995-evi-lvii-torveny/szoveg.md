@@ -107,14 +107,7 @@ e törvény erejénél fogva a működési terület szerinti vízügyi igazgatá
 
 (3a) A (3) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-(4) Az (1) bekezdés szerinti szakértői tevékenység engedélyezése iránti kérelem benyújtásával egyidejűleg a kérelmező hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, valamint nem áll a vízgazdálkodási szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a kamara részére – annak a szakértői tevékenység gyakorlásához szükséges engedély iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a Kamara az (5) bekezdésben meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől.
-
-(5) A Kamara a vízgazdálkodási szakértői tevékenység időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a szakértő büntetlen előéletű, és nem áll a vízgazdálkodási szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A kamara a hatósági ellenőrzés céljából adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a szakértő büntetlen előéletű-e, valamint, hogy a vízgazdálkodási szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
-
-(6) A (4) és (5) bekezdés alapján megismert személyes adatokat a kamara
-
-- a) a vízgazdálkodási szakértői tevékenység engedélyezése iránti eljárás jogerős befejezéséig,
-- b) a vízgazdálkodási szakértői tevékenység engedélyezése esetén a hatósági ellenőrzés időtartamára vagy az engedély visszavonására irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
+(4)–(6)
 
 5/B. § A szabad vízen, valamint a szabad vizek jegén való tartózkodás, az azokon tartott rendezvény, munkavégzés engedélyezésének, bejelentésének eljárási szabályait, valamint a viharjelzéssel kapcsolatos szabályokat kormányrendelet állapítja meg.
 
@@ -643,6 +636,10 @@ indokolja.
 
 33/A. § A vízügyi hatóság jogosult – a természeti és a környezeti veszélyeztetettség megelőzése (így a nagyvízi meder vízszállító képességének megőrzése, az árvizek levezetésének biztosítása) érdekében – a nagyvízi mederben telekalakítási, illetőleg építési tilalmat elrendelni.
 
+33/B. § (1) A vízügyi hatósági eljárásokban a döntést a kérelem megérkezését követő naptól számított 45 napon belül kell meghozni úgy, hogy az eljárásba bevont szakhatóságok a megkeresést követő 21 napon belül adják meg állásfoglalásukat.
+
+(2) A vízügyi hatósági eljárásokban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+
 ### IX. Fejezet — A vízgazdálkodási társulatok
 
 34. § (1) A vízgazdálkodási közfeladatok az e törvényben meghatározott feltételek szerint létrehozott vízgazdálkodási társulatok útján is elláthatók. A vízgazdálkodási társulat közfeladatai jellegétől függően vízitársulat, illetve víziközmű társulat.
@@ -921,6 +918,8 @@ indokolja.
 - z) a mezőgazdasági vízszolgáltatási díj megállapítása részletes szabályainak
 
 rendeletben történő megállapítására.
+
+(7a) Felhatalmazást kap a Kormány a vízgazdálkodási bírság mértéke megállapításának szempontrendszere és a bírság megfizetési módja részletszabályainak rendeletben történő megállapítására.
 
 (8) Felhatalmazást kap a vízgazdálkodásért felelős miniszter
 

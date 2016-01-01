@@ -93,7 +93,7 @@ Az Országgyűlés a mérések hazai és nemzetközi egységességének és pont
 - a) az adott mérőeszközre vonatkozó jogszabály ezt kifejezetten megengedi, vagy
 - b) a mérőeszköz a 6. § (4) bekezdése alapján került hazai forgalomba.
 
-(3) A hitelesítési engedély iránti eljárásban az ügyintézési határidő két hónap.
+(3) A hitelesítési engedély iránti eljárásban az ügyintézési határidő negyvenöt nap.
 
 (4) A hitelesítési engedély megszerzéséről a mérőeszköz belföldi forgalomba hozója, vagy ha ez nem állapítható meg egyértelműen, a mérőeszköz felhasználója tartozik gondoskodni.
 
@@ -119,7 +119,7 @@ Az Országgyűlés a mérések hazai és nemzetközi egységességének és pont
 
 ### V. Fejezet — Akkreditálás
 
-11. § A mérésügyi szerv a Nemzeti Akkreditáló Testülettel együttműködve – a nemzeti akkreditálásról szóló jogszabályok rendelkezéseivel összhangban – részt vesz a kalibráló és a vizsgáló laboratóriumok akkreditálásában.
+11. § A mérésügyi szerv az akkreditáló szervvel együttműködve – a nemzeti akkreditálásról szóló jogszabályok rendelkezéseivel összhangban – részt vesz a kalibráló és a vizsgáló laboratóriumok akkreditálásában.
 
 ### VI. Fejezet — Mérésügyi ellenőrzés és piacfelügyelet
 

@@ -34,34 +34,24 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 
 (3)
 
-5. § (1) A közvetítői tevékenység folytatását a miniszter – a névjegyzékbe való felvétel útján – annak a természetes személynek engedélyezi, aki
+5. § (1) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti bejelentés alapján a névjegyzékbe fel kell venni azt a – cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt nem álló – természetes személyt, aki
 
 - a) felsőfokú végzettséggel és a végzettség megszerzésétől számított, annak megfelelő legalább ötéves igazolt szakmai gyakorlattal rendelkezik,
-- b) igazolja a miniszter rendeletében meghatározott közvetítői szakmai képzés elvégzését,
-- c) büntetlen előéletű, és nem áll a közvetítői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt,
-- d) nem esik a (2) bekezdésben vagy egyéb jogszabályban foglalt kizáró ok alá.
+- b) a miniszter rendeletében meghatározott közvetítői szakmai képzést elvégezte,
+- c) büntetlen előéletű, és nem áll a közvetítői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt.
 
-(2) Nem vehető fel a névjegyzékbe az a természetes személy, aki cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt áll.
-
-(3) A névjegyzékbe kérelemre fel kell venni azt a jogi személyt, amelynek
+(2) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti bejelentés alapján a névjegyzékbe fel kell venni azt a jogi személyt, amelynek
 
 - a) létesítő okiratában a közvetítői tevékenység feltüntetésre került, és
 - b) van közvetítői tevékenység folytatására feljogosított tagja, vagy munkaviszony, továbbá munkavégzésre irányuló egyéb jogviszony keretében ilyen személyt (a továbbiakban együtt: alkalmazott) foglalkoztat, és ennek az alkalmazottnak közvetítői tevékenysége nem szünetel.
 
-(4) A kérelmező az (1) és (3) bekezdésben foglalt feltételek mellett köteles igazolni a névjegyzékbe történő felvételi eljárás lefolytatásáért megállapított díj megfizetését.
+(3) A bejelentő a névjegyzékbe történő felvételért díjat köteles fizetni.
 
-(5) A természetes személy a miniszter rendeletében meghatározott módon köteles igazolni, hogy a közvetítői tevékenységhez szükséges elméleti és gyakorlati ismereteket a közvetítői szakmai képzés elvégzésével elsajátította.
+(4) A természetes személy a miniszter rendeletében meghatározott módon köteles igazolni, hogy a közvetítői tevékenységhez szükséges elméleti és gyakorlati ismereteket a közvetítői szakmai képzés elvégzésével elsajátította.
 
-(6) Vizsgálat alapján történő törlés esetén a természetes személy és jogi személy a törlésről szóló határozat jogerőre emelkedésétől számított öt évig nem vehető fel a névjegyzékbe.
+(5) Vizsgálat alapján történő törlés esetén a természetes személy és jogi személy a törlésről szóló határozat jogerőre emelkedésétől számított öt évig nem vehető fel a névjegyzékbe.
 
-5/A. § (1) Az 5. § (1) bekezdés szerinti közvetítői tevékenység engedélyezése iránti kérelem benyújtásával egyidejűleg a kérelmező hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, valamint nem áll a közvetítői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a miniszter részére – annak a közvetítői tevékenység engedélyezése iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a miniszter a (2) bekezdésben meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől.
-
-(2) A miniszter a közvetítői tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a közvetítő büntetlen előéletű, és nem áll a közvetítői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A miniszter adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a közvetítő büntetlen előéletű-e, valamint a közvetítői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
-
-(3) Az (1) és (2) bekezdés alapján megismert személyes adatokat a miniszter
-
-- a) a közvetítői tevékenység engedélyezése iránti eljárás jogerős befejezéséig vagy
-- b) a közvetítő névjegyzékbe vétele esetén a hatósági ellenőrzés időtartamára vagy a névjegyzékből való törlésre irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
+5/A. § Az ellenőrzés során megismert személyes adatokat a miniszter a hatósági ellenőrzés időtartamára vagy a névjegyzékből való törlésre irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
 
 5/B. § Közvetítői tevékenységet a 4. §-ban felsorolt személyeken és szervezeteken kívül az e törvényben meghatározottak szerint bírósági titkár, bíró vagy rendelkezési állományba helyezett bíró is elláthat (a továbbiakban: bírósági közvetítés).
 
@@ -108,19 +98,19 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 
 (4) Jogi személy 38/G. § szerinti alávetési nyilatkozata érvényességének feltétele, hogy van a jogi személy nevében eljáró olyan természetes személy közvetítő, aki tett ilyen nyilatkozatot és azt nem vonta vissza.
 
-### A névjegyzékbe történő felvétel iránti kérelem
+### A névjegyzékbe történő felvétel iránti bejelentés
 
-8. § (1) A névjegyzékbe történő felvételi kérelmet egy példányban, az erre rendszeresített nyomtatvány kitöltésével a miniszterhez kell benyújtani. Az eljárás telefaxon történő kapcsolattartással nem folytatható le.
+8. § (1) A névjegyzékbe történő felvétel iránti bejelentést egy példányban, az erre rendszeresített nyomtatvány kitöltésével a miniszterhez kell benyújtani. Az eljárás telefaxon történő kapcsolattartással nem folytatható le.
 
-(2) A kérelemnek a 6. § (1) és (2) bekezdésében felsorolt adatokat kell – a 6. § (1) bekezdés d), e) és n), továbbá a 6. § (2) bekezdés f) pontjaiban foglaltak kivételével – tartalmaznia. A kérelemhez csatolni kell a 6. § (1) bekezdésének c), f) és m) pontjában írtak igazolására szolgáló iratok hiteles másolatát.
+(2) A bejelentésnek a 6. § (1) és (2) bekezdésében felsorolt adatokat kell – a 6. § (1) bekezdés d), e) és n), továbbá a 6. § (2) bekezdés f) pontjaiban foglaltak kivételével – tartalmaznia. A bejelentéshez csatolni kell a 6. § (1) bekezdésének c), f) és m) pontjában írtak igazolására szolgáló iratok hiteles másolatát.
 
-(3) Ha a kérelem hiányos, a miniszter a kérelmezőt harmincnapos határidő megjelölésével a hiányok pótlására hívja fel.
+(3)
 
 (4)
 
 (5)
 
-(6) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvénytől eltérve, ha a miniszter a rá irányadó ügyintézési határidőn belül nem hozott határozatot, a kérelmezőt nem illeti meg a közvetítői tevékenység megkezdésének, illetve folytatásának joga, és a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a hatóság mulasztására vonatkozó általános szabályait kell alkalmazni.
+(6)
 
 9. § (1) A miniszter a közvetítőt a névjegyzékbe történő felvétellel egyidejűleg közvetítői minőségének igazolására szolgáló közvetítői igazolvánnyal látja el.
 

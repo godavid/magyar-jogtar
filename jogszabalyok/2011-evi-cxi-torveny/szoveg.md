@@ -289,7 +289,7 @@ tevékenységét.
 - b) a vizsgált üggyel összefüggésbe hozható összes iratba betekinthet, azokról másolatot, kivonatot készíthet, és
 - c) a vizsgált hatóság bármely munkatársát meghallgathatja.
 
-(2) Az alapvető jogok biztosának vagy a felhatalmazása alapján a vizsgálatot végző munkatársának a helyszíni ellenőrzés során a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal vámhatósági feladatokat ellátó szervei, valamint bűnügyi főigazgatósága és annak alsó- és középfokú szervei működésére szolgáló területekre történő belépésének, tartózkodásnak és kilépésének rendjét a honvédelemért felelős miniszter, a rendvédelmi szerv irányításáért felelős miniszter, illetve a Nemzeti Adó- és Vámhivatal felügyeletére kijelölt miniszter határozza meg.
+(2) Az alapvető jogok biztosának vagy a felhatalmazása alapján a vizsgálatot végző munkatársának a helyszíni ellenőrzés során a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal vámhatósági feladatokat ellátó szervei, valamint bűnügyi főigazgatósága és annak a NAV nyomozóhatósági feladatokat ellátó területi szervei működésére szolgáló területekre történő belépésének, tartózkodásnak és kilépésének rendjét a honvédelemért felelős miniszter, a rendvédelmi szerv irányításáért felelős miniszter, illetve a Nemzeti Adó- és Vámhivatalt irányító miniszter határozza meg.
 
 (3) A vizsgált hatóság helyiségébe való belépést szabályozó jogszabály a helyszíni ellenőrzést érdemben nem akadályozhatja.
 
@@ -545,7 +545,7 @@ tevékenységét.
 
 (2) Felhatalmazást kap a rendvédelmi szerv irányításáért felelős miniszter, hogy az alapvető jogok biztosának a rendvédelmi szerv működésére szolgáló területre való belépésének, tartózkodásának és kilépésének a rendjét rendeletben határozza meg.
 
-(3) Felhatalmazást kap a Nemzeti Adó- és Vámhivatal felügyeletére kijelölt miniszter, hogy az alapvető jogok biztosának a Nemzeti Adó- és Vámhivatal vámhatósági feladatokat ellátó szervei, valamint bűnügyi főigazgatósága és annak alsó- és középfokú szervei működésére szolgáló területre való belépésének, tartózkodásának és kilépésének a rendjét rendeletben határozza meg.
+(3) Felhatalmazást kap a Nemzeti Adó- és Vámhivatalt irányító miniszter, hogy az alapvető jogok biztosának a Nemzeti Adó- és Vámhivatal vámhatósági feladatokat ellátó szervei, valamint bűnügyi főigazgatósága és annak alsó- és középfokú szervei működésére szolgáló területre való belépésének, tartózkodásának és kilépésének a rendjét rendeletben határozza meg.
 
 #### 14. Hatályba léptető rendelkezés
 

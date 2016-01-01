@@ -76,7 +76,7 @@ nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüg
 - c) a közúti közlekedésről szóló törvény szerinti közlekedési hatósági engedélyezési eljárások esetén harminc nap,
 - d) a villamos energiáról szóló törvény szerinti villamosenergia-ipari építésügyi hatósági engedélyezési eljárások esetén harminc nap.
 
-(6) A hatóság vezetője indokolt esetben az ügyintézési határidőt egy alkalommal, legfeljebb tizenöt nappal meghosszabbíthatja.
+(6)
 
 4. §
 
@@ -84,7 +84,7 @@ nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüg
 
 4/B. §
 
-5. § (1) Kiemelt jelentőségű ügyben a szakhatóság eljárására irányadó ügyintézési határidő tizenöt nap, amelyet a szakhatóság vezetője indokolt esetben egy alkalommal legfeljebb nyolc nappal meghosszabbíthat.
+5. § (1) Kiemelt jelentőségű ügyben a szakhatóság eljárására irányadó ügyintézési határidő tizenöt nap.
 
 (2)
 

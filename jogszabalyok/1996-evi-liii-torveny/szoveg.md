@@ -935,11 +935,11 @@ a kárviselésre vonatkozó szabályok
 
 (3) Az engedély meghosszabbítására irányuló kérelem benyújtása az engedély (1) bekezdés szerinti érvényességi idejét nem hosszabbítja meg.
 
-76. § (1) Az eljárási határidő a természetvédelmi hatósági engedélyezési eljárásokban három hónap.
+76. § (1) A természetvédelmi hatósági engedélyezési eljárásokban az eljárási határidő hetven nap.
 
-(2)–(3)
+(2) A természetvédelmi szakhatóság a szakhatósági állásfoglalását a megkeresés beérkezését követő naptól számított huszonegy napon belül köteles megadni. A szakhatósági állásfoglalás megadására tizenöt nap áll rendelkezésre, ha az eljáró hatóság a sürgősséget megkeresésében megindokolja.
 
-(4)
+(3) A védett, fokozottan védett területet, a védett, fokozottan védett fajokat, valamint azok élőhelyét, továbbá Natura 2000 területet, vagy a közösségi jelentőségű fajokat, élőhelytípusokat érintő hatósági eljárások során az ügyben eljáró hatóság különös indokolást érdemlő esetben az eljárást felfüggesztheti.
 
 77. § A természetvédelmi hatóság jogszabályban meghatározott előírások teljesítése érdekében az ügyfeleket kötelezheti az eredeti állapot helyreállítására, különösen a károsodott természeti érték és terület, továbbá a védett természeti érték és terület helyreállítására, illetve a 78/A. § esetében a Kt. és a külön jogszabályokban meghatározottak szerinti megelőzési, illetve helyreállítási intézkedésre.
 

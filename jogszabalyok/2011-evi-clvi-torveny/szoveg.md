@@ -588,7 +588,7 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 458. § (1) A kifizető a tagjával (ideértve az egyházi szolgálati viszonyban álló egyházi személyt is) fennálló jogviszonya alapján őt terhelő adó alapjának, az egyéni vállalkozó, a mezőgazdasági őstermelő az őt saját maga után terhelő adó alapjának megállapításkor az adóalap megállapításának különös szabályai hatálya alá tartozó esetben nem veszi számításba a ónapnak azt a napját, amelyre a tagja, illetőleg maga az egyéni vállalkozó, a mezőgazdasági őstermelő
 
 - a) táppénzben, baleseti táppénzben, csecsemőgondozási díjban, gyermekgondozási díjban részesül;
-- b) gyermekgondozási segélyben, gyermeknevelési támogatásban, ápolási díjban részesül, kivéve, ha a gyermekgondozási segély, ápolási díj folyósítása alatt a tag személyes közreműködését, az egyházi szolgálati viszonyban álló egyházi személy egyházi szolgálatát, illetőleg az egyéni vállalkozó, a mezőgazdasági őstermelő e tevékenységét személyesen folytatja.
+- b) gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban, ápolási díjban részesül, kivéve, ha a gyermekgondozást segítő ellátás, ápolási díj folyósítása alatt a tag személyes közreműködését, az egyházi szolgálati viszonyban álló egyházi személy egyházi szolgálatát, illetőleg az egyéni vállalkozó, a mezőgazdasági őstermelő e tevékenységét személyesen folytatja.
 
 (2) A kifizető a tagjával (ideértve az egyházi szolgálati viszonyban álló egyházi személyt is) fennálló jogviszonya alapján őt terhelő adó alapjának, az egyéni vállalkozó, a mezőgazdasági őstermelő az őt saját maga után terhelő adó alapjának megállapításkor az adóalap megállapításának különös szabályai hatálya alá tartozó esetben nem veszi számításba a hónapnak azt a napját, amelyre a tagja, illetőleg maga az egyéni vállalkozó, a mezőgazdasági őstermelő
 
@@ -688,22 +688,22 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 
 (5) A (2) bekezdésben foglalt részkedvezmény azon egész hónap tekintetében is megilleti a kifizetőt, amelyben a kedvezményezett foglalkoztatás első két éve, illetve harmadik éve véget ér.
 
-### A gyermekgondozási díjban, gyermekgondozási segélyben vagy gyermeknevelési támogatásban részesülő munkavállaló után érvényesíthető adókedvezmény
+### A gyermekgondozási díjban, gyermekgondozást segítő ellátásban vagy gyermeknevelési támogatásban részesülő munkavállaló után érvényesíthető adókedvezmény
 
-462/D. § (1) A gyermekgondozási díj, gyermekgondozási segély vagy gyermeknevelési támogatás (e § alkalmazásában a továbbiakban együtt: anyasági ellátás) folyósítása alatt vagy folyósításának megszűnését követően adókötelezettséget eredményező munkaviszonyban álló személyt foglalkoztató kifizető az őt a munkaviszonyra tekintettel terhelő adóból adókedvezményt vehet igénybe.
+462/D. § (1) A gyermekgondozási díj, gyermekgondozást segítő ellátás vagy gyermeknevelési támogatás (e § alkalmazásában a továbbiakban együtt: anyasági ellátás) folyósítása alatt vagy folyósításának megszűnését követően adókötelezettséget eredményező munkaviszonyban álló személyt foglalkoztató kifizető az őt a munkaviszonyra tekintettel terhelő adóból adókedvezményt vehet igénybe.
 
-(2) Az adókedvezmény összegét a kifizető havonta, az adott hónapban fennálló adófizetési kötelezettséget eredményező munkaviszonyonként külön-külön kiszámított részkedvezmények összegeként állapítja meg. A részkedvezmény egyenlő a foglalkoztatott – gyermekgondozási díjban vagy gyermekgondozási segélyben részesült vagy részesülő – természetes személyt (munkavállalót) az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabér, de legfeljebb 100 ezer forint 27 százalékával a foglalkoztatás első két évében és 14,5 százalékával a foglalkoztatás harmadik évében.
+(2) Az adókedvezmény összegét a kifizető havonta, az adott hónapban fennálló adófizetési kötelezettséget eredményező munkaviszonyonként külön-külön kiszámított részkedvezmények összegeként állapítja meg. A részkedvezmény egyenlő a foglalkoztatott – gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesült vagy részesülő – természetes személyt (munkavállalót) az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabér, de legfeljebb 100 ezer forint 27 százalékával a foglalkoztatás első két évében és 14,5 százalékával a foglalkoztatás harmadik évében.
 
 (3) A (2) bekezdéstől eltérően a részkedvezmény egyenlő a természetes személyt (munkavállalót) az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabér, de legfeljebb 100 ezer forint 27 százalékával a foglalkoztatás első három évében és 14,5 százalékával a foglalkoztatás negyedik és ötödik évében, ha a foglalkoztatott
 
-- a) a családok támogatásáról szóló törvény szerint legalább három gyermekre tekintettel családi pótlékra szülőként jogosult és gyermekgondozási díjban vagy gyermekgondozási segélyben részesült vagy részesül, vagy
+- a) a családok támogatásáról szóló törvény szerint legalább három gyermekre tekintettel családi pótlékra szülőként jogosult és gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesült vagy részesül, vagy
 - b) gyermeknevelési támogatásban részesült vagy részesül.
 
 (4) A kedvezményt a kifizető az anyasági ellátások folyósításának megszűnését követő hónaptól számított 45. hónap, a (3) bekezdés alapján 69. hónap végéig, de legfeljebb 3 évig, a (3) bekezdés alapján 5 évig érvényesítheti. A folyósítás megszűnésének hónapja az a hónap, amelyre utoljára az anyasági ellátások valamelyike a foglalkoztatott személyt megillette. Ha a munkavállalót az anyasági ellátások közül több is megillette, a határidőt a legutolsó anyasági ellátás folyósításának megszűnésétől kell számítani.
 
 (5) A kedvezményt a munkáltató a feltételek fennállását igazoló, az anyasági ellátást folyósító egészségbiztosítási szerv, társadalombiztosítási kifizetőhely, családtámogatási feladatokat ellátó fővárosi és megyei kormányhivatal, családtámogatási kifizetőhely, a társadalombiztosítási vagy családtámogatási kifizetőhely megszűnése esetén az egészségbiztosítási szerv, illetve a családtámogatási feladatokat ellátó fővárosi és megyei kormányhivatal által az ellátásban részesülő kérelmére kiállított igazolás birtokában érvényesítheti.
 
-(6) A (3) bekezdés szerinti kedvezmény igénybevételéhez gyermekgondozási díj és gyermekgondozási segély esetén – az (5) bekezdésben foglaltakon túl – szükséges a legalább három gyermek után a szülőnek járó családi pótlékra való jogosultságról szóló, családtámogatási feladatokat ellátó fővárosi és megyei kormányhivatal által kiadott igazolás.
+(6) A (3) bekezdés szerinti kedvezmény igénybevételéhez gyermekgondozási díj és gyermekgondozást segítő ellátás esetén – az (5) bekezdésben foglaltakon túl – szükséges a legalább három gyermek után a szülőnek járó családi pótlékra való jogosultságról szóló, családtámogatási feladatokat ellátó fővárosi és megyei kormányhivatal által kiadott igazolás.
 
 (7) A részkedvezmény azon egész hónap tekintetében is megilleti a kifizetőt, amelyben a kedvezményezett foglalkoztatás első két éve, illetve harmadik éve, a (3) bekezdés szerinti kedvezmény esetén a foglalkoztatás harmadik, illetve ötödik éve véget ér.
 
@@ -916,6 +916,8 @@ tanúsítja, az a)–d) pont szerinti esetben az igazolás vagy a diákigazolvá
 467/C. § Az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 464/D. § és 466. § 9. pontja visszamenőlegesen 2013. augusztus 29-étől alkalmazható.
 
 467/D. § Ahol e törvény csecsemőgondozási díjat említ, azon terhességi-gyermekágyi segélyt kell érteni, ha az ellátásra való jogosultság 2015. január 1-jét megelőzően nyílt meg.
+
+467/E. § Ahol e törvény gyermekgondozást segítő ellátást említ, azon gyermekgondozási segélyt kell érteni, ha az ellátásra való jogosultság 2016. január 1-jét megelőzően nyílt meg.
 
 ### X. Fejezet — KULTURÁLIS ADÓ
 

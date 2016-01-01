@@ -688,7 +688,7 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 ### A hiánypótlás
 
-41. § (1) Ha az intézkedésre vonatkozó jogszabály nem zárja ki, és a kérelemben található hiba az ügyfél közreműködése nélkül nyilvánvaló hibaként nem javítható ki, az ügyfelet legkésőbb az intézkedésre irányadó ügyintézési határidő kezdetét követő két hónapon belül hiánypótlásra kell felszólítani. Jogszabály ennél rövidebb határidőt is meghatározhat.
+41. § (1) Ha az intézkedésre vonatkozó jogszabály nem zárja ki, és a kérelemben található hiba az ügyfél közreműködése nélkül nyilvánvaló hibaként nem javítható ki, az ügyfelet legkésőbb az intézkedésre irányadó ügyintézési határidő kezdetét követő harminc napon belül hiánypótlásra kell felszólítani. Jogszabály ennél rövidebb határidőt is meghatározhat.
 
 (2) Jogszabály eltérő rendelkezése hiányában hiánypótlási, nyilatkozattételre való felhívás azonos tárgyban ismételten nem bocsátható ki.
 
@@ -876,9 +876,9 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 (2) A mezőgazdasági és vidékfejlesztési támogatási szerv a kérelmet a támogatás kifizetésének közvetlenül alkalmazandó közösségi jogi aktusban meghatározott esedékességéig bírálja el.
 
-(3) A (2) bekezdésben foglalt eseteken kívül – jogszabály eltérő rendelkezése hiányában – a mezőgazdasági és vidékfejlesztési támogatási szerv az eljárás megindítására vonatkozó kérelmet annak beérkezését követő három hónapon belül bírálja el. Amennyiben a kérelmet érdemi vizsgálat nélkül kell elutasítani, a végzést a mezőgazdasági és vidékfejlesztési támogatási szerv harminc napon belül hozza meg. Az ügyfél-nyilvántartási rendszerben való nyilvántartással, valamint a fizetési halasztással, részletfizetéssel kapcsolatos kérelmet annak hiánytalan beérkezésétől számított huszonegy napon belül kell elbírálni.
+(3) A (2) bekezdésben foglalt eseteken kívül – jogszabály eltérő rendelkezése hiányában – a mezőgazdasági és vidékfejlesztési támogatási szerv az eljárás megindítására vonatkozó kérelmet annak beérkezését követő hetven napon belül bírálja el. Amennyiben a kérelmet érdemi vizsgálat nélkül kell elutasítani, a végzést a mezőgazdasági és vidékfejlesztési támogatási szerv huszonegy napon belül hozza meg. Az ügyfél-nyilvántartási rendszerben való nyilvántartással, valamint a fizetési halasztással, részletfizetéssel kapcsolatos kérelmet annak hiánytalan beérkezésétől számított huszonegy napon belül kell elbírálni.
 
-(4) Ha a támogatás kifizetésének esedékességét közvetlenül alkalmazandó közösségi jogi aktus nem határozza meg, és az intézkedésekben való részvétel részletes feltételeit megállapító jogszabály alapján a támogatási kérelmek elbírálása rangsor állítása vagy arányosítás alapján történik, a mezőgazdasági és vidékfejlesztési támogatási szerv a kérelmeket a kérelem benyújtására nyitva álló időszakot követő három hónapon belül bírálja el.
+(4) Ha a támogatás kifizetésének esedékességét közvetlenül alkalmazandó közösségi jogi aktus nem határozza meg, és az intézkedésekben való részvétel részletes feltételeit megállapító jogszabály alapján a támogatási kérelmek elbírálása rangsor állítása vagy arányosítás alapján történik, a mezőgazdasági és vidékfejlesztési támogatási szerv a kérelmeket a kérelem benyújtására nyitva álló időszakot követő hetven napon belül bírálja el.
 
 (5) Amennyiben jogszabály másként nem rendelkezik, a mezőgazdasági és vidékfejlesztési támogatási szerv a kérelemnek részben vagy egészben helyt adó elsőfokú döntés helyt adó része alapján a támogatást a fellebbezésre tekintet nélkül az ügyfél részére folyósítja.
 
@@ -894,7 +894,7 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 (11) Nem kell a szakhatóságot megkeresni, ha a mezőgazdasági és vidékfejlesztési támogatási szerv a hiánypótlási felszólítás kibocsátására nyitva álló határidőn belül megállapítja, hogy a kérelmet a szakhatósági állásfoglalástól függetlenül el kell utasítani.
 
-(12) A mezőgazdasági és vidékfejlesztési támogatási szerv vezetője az ügyintézési határidőt annak letelte előtt indokolt esetben egy alkalommal, legfeljebb az eljárásra nyitva álló időtartammal meghosszabbíthatja.
+(12)
 
 55/A. § Az ügyfélkapun keresztül elektronikus úton kézbesített irat az átvétel napján kézbesítettnek minősül, ha a központi elektronikus szolgáltató rendszer az irat kézhezvételét igazolja vissza. Amennyiben az irat átvétele öt napon belül nem kerül visszaigazolásra, a mezőgazdasági és vidékfejlesztési támogatási szerv az iratot ismételten megküldi az ügyfél értesítési tárhelyére. Ebben az esetben az elektronikus úton kézbesített hatósági irat vonatkozásában a kézbesítési vélelem az iratnak az értesítési tárhelyen történő ismételt elhelyezésétől számított ötödik napot követő munkanapon áll be.
 
@@ -990,7 +990,7 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 (3) A fellebbezést az ügy összes iratával a fellebbezés beérkezésének napjától számított harminc napon belül kell felterjeszteni a fellebbezés elbírálására jogosult hatósághoz, kivéve, ha az elsőfokú döntést hozó hatóság a megtámadott határozatot (végzést) visszavonja, illetőleg a fellebbezésnek megfelelően módosítja, kijavítja vagy kiegészíti.
 
-(4) A fellebbezés elbírálására jogosult hatóság a jogorvoslati eljárás során hozott döntését az ügy összes iratának beérkezését követő két hónapon belül hozza meg, amelyet a jogorvoslati kérelem elbírálója indokolt esetben, egy alkalommal ugyanezen időtartalommal meghosszabbíthat.
+(4) A fellebbezés elbírálására jogosult hatóság a jogorvoslati eljárás során hozott döntését az ügy összes iratának beérkezését követő negyvenöt napon belül hozza meg.
 
 (5) A fellebbezésben hivatkozott új tényt, új bizonyítékot a döntéshozatal során a fellebbezés elbírálására jogosult hatóság csak abban az esetben veheti figyelembe, ha az ügyfél igazolni tudja, valamint az ügy körülményeiből megállapítható, hogy az ügyfél az új tényről, bizonyítékról az intézkedésben való részvételre vonatkozó kérelme benyújtásakor rajta kívül álló okból nem tudott.
 
@@ -1123,7 +1123,7 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 - b) a legkedvezőbb pályázatok elfogadásának részletes indokait,
 - c) a kikötött biztosítékok megfelelőségének értékelését.
 
-(7) Az ügyfelet a döntésről a bírálati jegyzőkönyv elkészültétől számított hatvan napon belül értesíteni kell.
+(7) Az ügyfelet a döntésről a bírálati jegyzőkönyv elkészültétől számított negyvenöt napon belül értesíteni kell.
 
 (8) Az ügyfél – a rá vonatkozó adatok tekintetében – jogosult betekinteni a pályázat elbírálásával összefüggésben keletkezett bírálati jegyzőkönyvbe.
 
@@ -1252,7 +1252,7 @@ kapcsolatos eljárások.
 
 (2) A mezőgazdasági vagyoni értékű jog átruházásáról, illetve ideiglenes átengedéséről szóló szerződés, illetve a szerződés módosítása alapján – közvetlenül alkalmazandó közösségi jogi aktus eltérő rendelkezése hiányában – a felek közösen kötelesek kérelmezni az átruházni, illetve ideiglenesen átengedni kívánt mezőgazdasági vagyoni értékű jogok nyilvántartásban történő átvezetését, amennyiben a nyilvántartás vezetése a mezőgazdasági és vidékfejlesztési támogatási szerv hatáskörébe tartozik. Jogszabály előírhatja, hogy az átruházás vagy az ideiglenes átengedés tényét a szerződés hatálybalépését megelőzően, előzetesen be kell jelenteni a mezőgazdasági és vidékfejlesztési támogatási szervnek.
 
-(3) A mezőgazdasági és vidékfejlesztési támogatási szerv a (2) bekezdés szerinti kérelemről a kérelem beérkezését követő naptól számított két hónapon belül dönt. A nyilvántartásban való átvezetésig az átadó viseli a vagyoni értékű jogokkal járó kötelezettségeket.
+(3) A mezőgazdasági és vidékfejlesztési támogatási szerv a (2) bekezdés szerinti kérelemről a kérelem beérkezését követő naptól számított negyvenöt napon belül dönt. A nyilvántartásban való átvezetésig az átadó viseli a vagyoni értékű jogokkal járó kötelezettségeket.
 
 (4) Amennyiben jogszabály előírja, hogy a mezőgazdasági vagyoni értékű jog átruházása, illetve ideiglenes átengedése csak a megfelelő földterület, állatállomány, illetőleg mezőgazdasági üzem (üzemrész) átruházásával vagy átengedésével együtt történhet, az átruházás, illetve ideiglenes átengedés további feltételeit külön jogszabály határozza meg.
 

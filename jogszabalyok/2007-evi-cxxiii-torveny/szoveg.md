@@ -326,7 +326,7 @@ kell figyelembe venni.
 
 22. § (1) A kisajátítási eljárásra – az e törvényben foglalt eltérésekkel – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
 
-(2) A kisajátítási eljárást a kisajátítási hatóság folytatja le. Az eljárásra a kisajátítani kért ingatlan fekvése szerinti kisajátítási hatóság illetékes. A kisajátítási eljárás ügyintézési határideje 45 nap, mely kivételesen indokolt esetben, egy alkalommal, legfeljebb 30 nappal hosszabbítható meg.
+(2) A kisajátítási eljárást a kisajátítási hatóság folytatja le. Az eljárásra a kisajátítani kért ingatlan fekvése szerinti kisajátítási hatóság illetékes. A kisajátítási eljárás ügyintézési határideje negyvenöt nap.
 
 (3) A kisajátítási eljárásnak a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti egyéb eljárási költségeit – ideértve az eljárásban kirendelt ügygondnok vagy eseti gondnok díját és költségeit is – a kisajátítást kérő viseli. A kisajátítási eljárás során a kisajátítási hatóság által hivatalból indított eljárások kisajátítási hatóság által megfizetendő költségeit a kisajátítást kérő a kisajátítási hatóság részére megtéríti. E bekezdés rendelkezései a végrehajtási költségre nem vonatkoznak.
 
@@ -654,6 +654,10 @@ alapján vezeti át az ingatlan-nyilvántartáson.
 (7) A tényleges kisajátítási eljárásban a kisajátítási hatóság az előzetes eljárásban felvett egyéb bizonyítékot is felhasználhatja.
 
 (8) Az építési tilalom fennállásának ideje alatt a kérelmező által elvégzett ráfordítások és értéknövelő beruházások értékét a tényleges kisajátítási eljárásban a kisajátítási kártalanítás megállapítása során nem lehet figyelembe venni.
+
+### Vegyes rendelkezések
+
+40/F. § Az e törvény hatálya alá tartozó eljárásokban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
 
 ### Záró rendelkezések
 

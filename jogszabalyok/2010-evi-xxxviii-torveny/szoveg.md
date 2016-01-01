@@ -118,7 +118,7 @@ szerinti közjegyző illetékes.
 
 (2) A megkeresésben foglaltak teljesítését csak akkor lehet megtagadni, ha az jogszabályba ütközik. Ha a megkeresés teljesítésére más jogosult, a megkeresett a megkeresést haladéktalanul, de legkésőbb a megkeresés megérkezésétől számított öt napon belül a megkeresés teljesítésére jogosulthoz továbbítja, és erről egyidejűleg tájékoztatja a megkeresőt.
 
-(3) A megkeresést térítésmentesen, az abban foglalt határidőn belül kell teljesíteni. A megkeresett szerv vezetője ezt a határidőt annak letelte előtt indokolt esetben egy alkalommal, legfeljebb tizenöt nappal meghosszabbíthatja. Ha az adat elektronikusan rögzített nyilvántartásban áll rendelkezésre, a megkeresést öt napon belül kell teljesíteni.
+(3) A megkeresést térítésmentesen, az abban foglalt határidőn belül kell teljesíteni. Ha az adat elektronikusan rögzített nyilvántartásban áll rendelkezésre, a megkeresést öt napon belül kell teljesíteni.
 
 (4) Ha az adatot kezelő, megkeresett személy hivatásos magyar konzuli tisztviselő, a (2) és (3) bekezdésekben meghatározott határidőkbe a diplomáciai vagy konzuli futárposta igénybevételének időtartama nem számít bele. A (3) bekezdés alkalmazásában a megkeresett konzuli tisztviselő számára a megkeresés teljesítésére előírt határidőt a külpolitikáért felelős miniszter hosszabbíthatja meg.
 
@@ -181,9 +181,11 @@ szerinti közjegyző illetékes.
 
 (4) A hagyatékot akkor is leltározni kell, ha az örökhagyó végintézkedésével alapítvány létesítését rendelte.
 
-21. § (1) A leltározást – a (2) bekezdés kivételével – a jegyző végzi.
+21. § (1) A leltározást – a (2)–(3) bekezdés kivételével – a jegyző végzi.
 
 (2) A leltározást a közjegyző végzi, ha a leltár felvételének vagy kiegészítésének szükségessége a jegyző vagy a jegyző által megbízott ügyintéző eljárása után merült fel. A közjegyző a leltár felvétele vagy kiegészítése céljából az illetékes jegyzőt is megkeresheti.
+
+(3) A leltározást akkor is a közjegyző végzi, ha a jegyző a 23. § (1) bekezdésében meghatározott határidőn belül a leltárt nem készíti el, és erről a közjegyző értesül.
 
 22. § (1) A hagyatéki leltárt – a (2) bekezdés kivételével – az erre a célra rendszeresített, külön jogszabályban megállapított nyomtatvány kitöltésével kell elkészíteni.
 
@@ -630,6 +632,8 @@ tárgyában bírósági vagy hatósági eljárás van folyamatban, vagy
 - b) az viseli, aki örököl; ilyen személy hiányában az, aki a hagyatékra igényt terjesztett elő.
 
 (5) Ha a hagyatéki eljárás díjának előlegezésére, illetve viselésére többen kötelesek, e kötelezettség őket egyetemlegesen terheli.
+
+(6) A 21. § (3) bekezdésében meghatározott esetben a közjegyző a jegyző költségére végzi el a leltározást. Ebben az esetben a leltározással összefüggésben felmerülő hagyatéki költség megelőlegezésének nincs helye.
 
 74. § A költségek megelőlegezésére szolgáló pénzösszeget – a jegyző vagy a közjegyző felhívásának megfelelően – közjegyzői letétbe kell helyezni.
 
@@ -1111,6 +1115,7 @@ végzés ellen.
 - e) az államháztartásért felelős miniszterrel egyetértésben a hagyatéki eljárásban kirendelt zár-, ügygondnok, eseti gyám és eseti gondnok díját, felszámítható költségeit, valamint ezek megfizetésének módját,
 - f) az államháztartásért felelős miniszterrel egyetértésben a hagyatéki eljárás iratainak nem hiteles másolatáért járó díj mértékét és megfizetésének módját,
 - g) a hagyatéki eljárásban kibocsátott hirdetmények elektronikus nyilvántartásából történő felvilágosításadás részletes szabályait és az államháztartásért felelős miniszterrel egyetértésben a hirdetményi nyilvántartásba való rögzítés és közzététel költségtérítésének összegét, valamint megfizetésének módját.
+- h) a hagyatéki leltár felvételével összefüggő részletes eljárási szabályokat;
 
 119/A. § E törvény 19. § (3a) bekezdése, 43/A. és 43/B. §-a, 57. § (1) bekezdés d) pontja, 78. §-a, 81/A. §-a, 101/B. §-a, 102/B. és 102/C. §-a, 109. § (3) és (4) bekezdése, valamint 110. § (2a) bekezdése az öröklési ügyekre irányadó joghatóságról, az alkalmazandó jogról, az öröklési ügyekben hozott határozatok elismeréséről és végrehajtásáról, valamint az öröklési ügyekben kiállított közokiratok elfogadásáról és végrehajtásáról, valamint az európai öröklési bizonyítvány bevezetéséről szóló, 2012. július 4-i 650/2012/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 

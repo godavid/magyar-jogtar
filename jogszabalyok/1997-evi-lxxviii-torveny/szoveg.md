@@ -247,7 +247,16 @@ Az Országgyűlés az épített környezet alakításával és védelmével kapc
 
 13. § (1) Az építés helyi rendjének biztosítása érdekében a települési önkormányzatnak az országos szabályoknak megfelelően, illetve az azokban megengedett eltérésekkel a település közigazgatási területének felhasználásával és beépítésével, továbbá a környezet természeti, táji és épített értékeinek védelmével kapcsolatos, a telkekhez fűződő sajátos helyi követelményeket, jogokat és kötelezettségeket helyi építési szabályzatban kell megállapítania.
 
-(2)–(3)
+(2) A 33/A. § (1) bekezdésében meghatározott épület építésével összefüggésben a helyi építési szabályzat rendelkezései közül kizárólag az építési telek
+
+- a) megengedett legnagyobb beépítettségét,
+- b) megengedett legnagyobb építménymagasságát vagy beépítési magasságát,
+- c) szabályozási vonalát és
+- d) beépítési módját vagy építési helyét
+
+kell figyelembe venni.
+
+(3)
 
 (4)
 
@@ -586,7 +595,7 @@ kivételével más építési munkát végezni nem szabad.
 
 ### Településképi bejelentési eljárás
 
-30/D. § (1) Települési önkormányzat (fővárosban a kerületi önkormányzat) polgármestere, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a főpolgármester településképi bejelentési eljárást folytathat le – e törvény végrehajtására kiadott kormányrendelet keretei között, e tárgyban hozott önkormányzati rendeletben meghatározott esetekben és módon – hatósági engedélyhez nem kötött tevékenységek, a reklámelhelyezések és rendeltetésmódosítások tekintetében.
+30/D. § (1) Települési önkormányzat (fővárosban a kerületi önkormányzat) polgármestere, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a főpolgármester településképi bejelentési eljárást folytathat le – e törvény végrehajtására kiadott kormányrendelet keretei között, e tárgyban hozott önkormányzati rendeletben meghatározott esetekben és módon – hatósági engedélyhez vagy a 33/A. § szerinti bejelentéshez nem kötött tevékenységek, a reklámelhelyezések és rendeltetésmódosítások tekintetében.
 
 (2) A településképi eljárást bejelentés formájában az ügyfél a polgármesternél kezdeményezi. Az (1) bekezdés szerinti tevékenység a bejelentés alapján megkezdhető, ha ahhoz más hatósági engedély nem szükséges, és a polgármester a tevékenység végzését a bejelentést követő 8 napon belül nem tiltja meg.
 
@@ -669,7 +678,18 @@ kivételével más építési munkát végezni nem szabad.
 
 (4) A tervező – ha erre az építtetőtől megbízást kapott – tervezői művezetést végezhet. Ennek keretében közreműködik az építészeti-műszaki terveknek megfelelő maradéktalan megvalósítás érdekében, valamint elősegíti a kivitelezés során a tervekkel kapcsolatban felmerült szakkérdések megoldását.
 
-33/A. §
+### Egyszerű bejelentéshez kötött építési tevékenység
+
+33/A. § (1) A legfeljebb 300 négyzetméter összes hasznos alapterületű új lakóépület építése esetén
+
+- a) az építtető az építési tevékenységet a kivitelezés tervezett megkezdése előtt tizenöt nappal – kormányrendeletben meghatározottak szerint – a nevének és lakcímének, szervezet esetén a megnevezésének és székhelyének megjelölésével bejelenti az építésügyi hatóságnak,
+- b) ha a tervező a tervezés során a közműellátás és az égéstermék-elvezető megvalósítása érdekében az arra jogosult szolgáltató hozzájárulását vagy jóváhagyását kéri, és arra nyolc napon belül nem kap érdemi választ, a hozzájárulást vagy jóváhagyást megadottnak kell tekinteni,
+- c) a bejelentéshez kormányrendeletben meghatározott tartalmú egyszerű bejelentési dokumentációt kell mellékelni,
+- d) az egyszerű bejelentési dokumentációtól való eltérést be kell jelenteni.
+
+(2) Az (1) bekezdés szerinti épületet a bejelentéstől számított tíz éven belül fel kell építeni és a felépítés megtörténtét tanúsító hatósági bizonyítványt kell kérni a kormányrendeletben kijelölt szervtől.
+
+(3) Ha a bejelentéstől számított tíz éven belül nem építették fel az (1) bekezdés szerinti épületet, az elkészült építményt le kell bontani.
 
 ### Építésügyi hatósági eljárások
 
@@ -733,7 +753,7 @@ helyszíni szemle alapján hatósági bizonyítványt állít ki.
 
 ### Az építés
 
-38. § (1) Építési tevékenységet végezni – ha jogszabály eltérően nem rendelkezik – csak a jogerős építésügyi hatósági engedélynek, továbbá a hozzájuk tartozó, jóváhagyott engedélyezési záradékkal ellátott építészeti-műszaki dokumentációnak, valamint az ezek alapján készített kivitelezési dokumentációnak megfelelően szabad.
+38. § (1) Építési tevékenységet végezni – ha e törvény vagy más jogszabály eltérően nem rendelkezik – csak a jogerős építésügyi hatósági engedélynek, továbbá a hozzájuk tartozó, jóváhagyott engedélyezési záradékkal ellátott építészeti-műszaki dokumentációnak, valamint az ezek alapján készített kivitelezési dokumentációnak megfelelően szabad.
 
 (2)
 
@@ -947,10 +967,10 @@ van helyük.
 
 megkezdett és végzett tevékenység.
 
-(2) Jogszerűtlen az építési vagy bontási tevékenység, ha a jogszabály alapján engedélyhez vagy tudomásul vételhez kötött építési vagy bontási tevékenységet
+(2) Jogszerűtlen az építési vagy bontási tevékenység, ha a jogszabály alapján engedélyhez vagy tudomásul vételhez kötött építési vagy bontási tevékenységet vagy a 33/A. § szerinti tevékenységet
 
-- a) engedély vagy tudomásul vétel nélkül,
-- b) az engedélytől vagy tudomásul vételtől eltérően,
+- a) engedély, a 33/A. § szerinti bejelentés vagy tudomásul vétel nélkül,
+- b) az engedélytől vagy tudomásul vételtől vagy a 33/A. § szerinti bejelentéstől eltérően,
 - c) az engedély jogerőssé válása nélkül – kivéve, ha a döntés fellebbezésre tekintet nélkül végrehajthatóvá válik –,
 - d) a jogerős engedély végrehajthatóságának felfüggesztése ellenére
 
@@ -1094,7 +1114,18 @@ amely idő alatt az építésügyi vagy az építésfelügyeleti hatóságnak d�
 
 (3) Amennyiben a használatbavételi engedélyezési eljárásban benyújtott fellebbezés és az építésügyi engedélyezési eljárásban jogerősen elbírált fellebbezés azonos indokokat tartalmaz, a használatbavételi engedélyezési eljárásban másodfokon eljáró hatóság a fellebbezési kérelmet érdemben nem vizsgálja.
 
-(4) Az építésügyi hatósági engedélyezési eljárásokban a részt vevő szakhatóságok ügyintézési határideje a szakhatósági állásfoglalás és az előzetes szakhatósági állásfoglalás kiadása során egységesen harminc nap, kivéve, ha az ügyfajtára vonatkozó különös hatósági eljárási szabályokat megállapító jogszabály rövidebb határidőt állapít meg.
+(3a) Ha az építésügyi hatóság az engedélyezési eljárásában kormányrendeletben meghatározott szakkérdést vizsgál, az ügyintézési határidő 35 nap, kivéve, ha szakhatósági eljárás lefolytatására is sor kerül.
+
+(3b) Az összevont telepítési eljárás során az építésügyi hatóság számára irányadó ügyintézési határidő
+
+- a) a telepítési hatásvizsgálati szakaszban
+  - aa) 50 nap,
+  - ab) környezeti hatásvizsgálati eljárás vagy egységes környezethasználati engedélyezési eljárás lefolytatása esetén 85 nap;
+- b) az integrált építési engedélyezési szakaszban
+  - ba) 25 nap,
+  - bb) környezeti hatásvizsgálati eljárás vagy egységes környezethasználati engedélyezési eljárás lefolytatása esetén 85 nap.
+
+(4) Az építésügyi hatósági engedélyezési eljárásokban a részt vevő szakhatóságok ügyintézési határideje a szakhatósági állásfoglalás és az előzetes szakhatósági állásfoglalás kiadása során egységesen huszonegy nap, kivéve, ha az ügyfajtára vonatkozó különös hatósági eljárási szabályokat megállapító jogszabály rövidebb határidőt állapít meg.
 
 (5) A használatbavételi engedélyezésben részt vevő szakhatóságok állásfoglalásukban nem írhatnak elő újabb feltételt vagy követelményt az építési engedélyezéshez adott szakhatósági véleményükben meghatározottakhoz képest és nem tagadhatják meg szakhatósági állásfoglalásuk megadását azzal az indokkal, hogy időközben a szakterületre vonatkozó szabályok megváltoztak.
 
@@ -1208,9 +1239,11 @@ első fokú végzés ellen.
 
 57/C. § (1) Az építési engedélyhez kötött építési tevékenységgel megvalósuló, 400 m2-nél nagyobb bruttó alapterületű kereskedelmi építmény építésének, átalakításának, valamint a 400 m2-t meghaladó bruttó alapterületre való bővítésének építésügyi hatósági engedélyezési eljárásában az országos illetékességgel eljáró Hajdú-Bihar Megyei Kormányhivatal vezetőjének (a továbbiakban: Kormányhivatal) szakhatósági állásfoglalását be kell szerezni az építési engedély iránti kérelem és mellékletei megküldésével.
 
-(2) A Kormányhivatal a szakhatósági állásfoglalását hatvan napon belül adja meg, amelyet kivételesen indokolt esetben egy alkalommal hatvan nappal meghosszabbíthat. E határidőbe nem számít bele az 57/D. § (4) bekezdése szerinti kiegészítő adatok és információk, illetve vélemények beérkezéséig tartó idő.
+(2) A Kormányhivatal a szakhatósági állásfoglalását hatvan napon belül adja meg. E határidőbe nem számít bele az 57/D. § (4) bekezdése szerinti kiegészítő adatok és információk, illetve vélemények beérkezéséig tartó idő.
 
 (3) Az (1) bekezdésben megjelölt engedélyezési eljárás megindítását megelőzően a kérelmező a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szakhatósági közreműködésre vonatkozó szabályai szerint előzetes szakhatósági hozzájárulás kiadását is kérheti a Kormányhivataltól. Az előzetes szakhatósági hozzájárulás egy éven belül használható fel az (1) bekezdés szerinti építési engedélyezési eljárásban. A szakhatósági hozzájárulás iránti kérelemnek tartalmaznia kell legalább a kereskedelmi építmény és a kapcsolódó kiszolgáló létesítmények látványtervét, főbb adatainak, tervezett méreteinek és várható forgalmának leírását.
+
+(3a) Amennyiben az (1) bekezdés szerinti engedélyezési eljárásban a Kormányhivatal szakhatósági állásfoglalása iránti megkeresésnek van helye, az építésügyi hatóság ügyintézési határideje 75 nap, amelybe a Kormányhivatal szakhatósági eljárásának időtartama, de legfeljebb 60 nap beszámít.
 
 (4) A Kormányhivatal a szakhatósági hozzájárulás iránti kérelem elbírálása során a kereskedelmi építményekre vonatkozó különös környezetvédelmi, közlekedési és településfejlesztési követelményeket megállapító kormányrendelet figyelembevételével az (1) bekezdésben meghatározott kereskedelmi építménynek a létesítés helye szerinti településre és vonzáskörzetére gyakorolt környezeti, közlekedési és településrendezési hatásaival összefüggő szakkérdésben foglal állást abban a tekintetben, hogy a kereskedelmi létesítmény nem okoz-e olyan hátrányos következményeket, amelyek aránytalanul meghaladják a kereskedelmi építmény létesítésétől várható előnyöket.
 
@@ -1461,7 +1494,7 @@ hatályban lévő, településrendezési eszközre vonatkozó előírásai.
 
 rendelettel állapítsa meg.
 
-(1a)
+(1a) Felhatalmazást kap a Kormány arra, hogy az egyszerű bejelentéshez kötött építési tevékenységgel kapcsolatos részletes szabályokat rendeletben állapítsa meg.
 
 (1b) Felhatalmazást kap a Kormány arra, hogy az építmények építészeti-műszaki tervezése során végezhető feladatok körét, valamint az építészeti-műszaki tervezési tevékenység ellátásáért felszámítható tervezési díj tartalmát rendeletben állapítsa meg.
 

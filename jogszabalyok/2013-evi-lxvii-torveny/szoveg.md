@@ -45,7 +45,8 @@ Az országos közúthálózat üzemeltetése, fenntartása és fejlesztése, a f
 - 27. útszakasz: a közútnak olyan, a közlekedés szempontjából folyamatos része, amelynek kezdetét és végét kilométerszelvényekkel határozzák meg;
 - 28. üzembentartó: a jármű tulajdonosa, valamint akit a jármű jogszerű üzemeltetésére a közúti közlekedési nyilvántartásról szóló törvény alapján vezetett nyilvántartásba bejegyeztek, vagy a telephely szerinti ország hatósága által kibocsátott okiratba (forgalmi engedély) bejegyzett tulajdonosa, illetve üzemben tartója;
 - 29. viszonteladó: az egyetemes útdíjszolgáltató által az útdíjszedési feladatainak teljesítéséhez egységes feltételek szerint bevont, szerződött közreműködő;
-- 30. viszonylati jegy: az útdíjköteles úthálózat előre meghatározott, legalább egy útdíjköteles elemi útszakaszának egy előre meghatározott útdíjköteles gépjárművel történő használatára vonatkozó, előre megváltott úthasználati jogosultság.
+- 30. viszonylati jegy: az útdíjköteles úthálózat előre meghatározott, legalább egy útdíjköteles elemi útszakaszának egy előre meghatározott útdíjköteles gépjárművel történő használatára vonatkozó, előre megváltott úthasználati jogosultság;
+- 31. útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartása: a közúti közlekedési nyilvántartásról szóló törvény szerinti közúti közlekedési nyilvántartás.
 
 ### II. Fejezet — ÚTHASZNÁLATI JOGOSULTSÁG ÉS FIZETÉSI KÖTELEZETTSÉG
 
@@ -159,27 +160,17 @@ feladatokat lát el.
 
 (3) A miniszter a közúti forgalom biztonságát veszélyeztető módon vesztegelő gépjárművek elszállításának szabályairól szóló miniszteri rendeletben a közlekedés biztonsága érdekében pihenőhelyre szállított autók vonatkozásában az (1) bekezdéstől eltérő szabályokat állapíthat meg az útdíjköteles gépjárművek vonatkozásában.
 
-(4) Az útdíjköteles elemi útszakaszok díjmentes használatára jogosultak nyilvántartását a Kormány által rendeletben kijelölt hatóság vezeti (a továbbiakban: nyilvántartó).
-
-(5) Az útdíjköteles elemi útszakaszok díjmentes használatára jogosultak nyilvántartása tartalmazza
-
-- a) a jármű forgalmi rendszámát,
-- b) a jármű azonosító és műszaki adatait,
-- c) a járműokmány eltulajdonítására, megsemmisülésére, elvesztésére, találására, megkerülésére vonatkozó adatokat,
-- d) a díjmentes használat jogcímének megjelölését, továbbá
-- e) a díjmentes használati jogosultság kezdő időpontját és annak időtartamát.
-
-(6) A nyilvántartás személyes adatokat nem tartalmaz.
+(4)–(6)
 
 10. § A 9. § (1) bekezdés h) és i) pontjában meghatározott járművek a nemzetközi kapcsolattartásra jogosult hatósághoz, az f) pontban meghatározott járművek a katasztrófavédelmi hatósághoz történő bejelentés alapján, annak tudomásulvételét és a mentességi nyilvántartásba történő bejegyzést követően jogosultak a díjmentesség igénybevételére.
 
 10/A. § A 9. § (1) bekezdés k) pontjában meghatározott járművek a szállítási feladat elrendelésére jogosult szerv – közúti közlekedési nyilvántartásról szóló törvényben meghatározott módon – mentességi nyilvántartásba történő bejegyzését követően mentesülnek a bevallási kötelezettség alól és válnak jogosulttá a díjmentesség igénybevételére.
 
-11. § (1) A nyilvántartót elektronikus úton értesíti a 9. § (1) bekezdés alapján mentességet élvező szervezet a díjköteles útszakaszok díjmentes használatára jogosultak nyilvántartásába felvenni kért járművek 9. § (5) bekezdésben meghatározott adatairól, valamint – a változástól számított 30 napon belül – azok változásáról.
+11. § (1)
 
 (2) A nemzetközi szerződés, nemzetközi egyezmény és viszonosság körébe tartozó, a nemzetközi humanitáriánus segélyszállítmányokat szállító járművek esetében, továbbá a katasztrófavédelemről szóló törvény értelmében meghatározott katasztrófa által okozott károk megelőzésében vagy elhárításban részt vevő gépjárművek időszakos díjmentességét a nemzetközi kapcsolattartásra jogosult, valamint a katasztrófavédelmi hatóság az (1) bekezdésben meghatározott módon jegyzi be a nyilvántartásba.
 
-12. § A nyilvántartó a 9. § (5) bekezdésben megjelölt adatokat az útdíjköteles elemi útszakaszok díjmentes használatára való jogosultság megszűnését követő 2 évig kezeli.
+#### 12. §
 
 ### III. Fejezet — AZ ÚTDÍJ-BEVÉTEL FELHASZNÁLÁSA
 
@@ -236,11 +227,7 @@ feladatokat lát el.
 
 látja el (a továbbiakban együtt: útdíj-ellenőrzésre jogosult szervezetek).
 
-(2) Az útdíjszedő az útdíj-ellenőrzésre jogosult szervezetek útdíj-ellenőrzési tevékenységének támogatása érdekében:
-
-- a) adatgyűjtést végez a díjköteles útszakaszon közlekedő gépjárművekről, telepített fix vagy mobil eszközök felhasználásával,
-- b) az a) pont szerinti eszközök útján felvételezett, valamint az útdíjszolgáltató, továbbá az útdíj-ellenőrzésre jogosult szervezetek észlelése alapján tudomására jutott, azonosításra alkalmas adatokat és – amennyiben rendelkezésre áll – a rendszámadatokat összeveti az úthasználati jogosultsággal rendelkezőkről rendelkezésére álló adatokkal, az érvénytelenített fedélzeti eszközök nyilvántartásával, valamint az útdíj köteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartásában szereplő adatokkal,
-- c) a b) pont szerinti összevetés alapján összeállított adatállományt – az úthasználatra jogosultakra vonatkozó adatokat kivéve – átadja az útdíj-ellenőrzésre jogosult szervezetek számára.
+(2) A Rendőrség az (1) bekezdés c) pontja szerinti adatok alapján a vélelmezett szabályszegések esetében hivatalból megindítja a külön törvényben meghatározott hatósági eljárást.
 
 (3) Az (1) bekezdés a) és b) pontjában meghatározott útdíj-ellenőrzésre jogosult szervezet a (2) bekezdés c) pontja szerinti adatállomány alapján a vélelmezett szabályszegések esetében – feladatkörébe tartozóan – hivatalból megindítja a külön törvényben meghatározott hatósági eljárást.
 
@@ -385,9 +372,9 @@ látja el (a továbbiakban együtt: útdíj-ellenőrzésre jogosult szervezetek)
 - e) a gépjármű vagy gépjárműszerelvény forgalmi rendszámát,
 - f) a gépjárműnek vagy gépjárműszerelvénynek a díjkategória meghatározásához szükséges jellemzőit.
 
-(5) A Rendőrség jogosult az úthasználati jogosultsággal rendelkezőkről és az érvénytelenített fedélzeti eszközökről az útdíjszedő által vezetett nyilvántartással, valamint az útdíjköteles elemi útszakaszok térítésmentes használatára jogosultak adataival összevetni a (4) bekezdés szerinti adatokat. Az útdíjellenőrzési feladatok ellátása során a Rendőrség jogosult a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 9. § (1) és (1a) bekezdésében, (2) bekezdés a), b), d) és e) pontjában, továbbá (3) bekezdésében meghatározott adatokat, a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 17. § (2) bekezdés b) pontja és (6) bekezdése szerinti adatokat, a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény III. fejezet 1. Címében meghatározott adatokat, valamint a közúti közlekedésről szóló 1988. évi I. törvény 21/D. § (1) bekezdésében foglalt adatokat, továbbá az útdíjköteles elemi útszakaszok térítésmentes használatára jogosultak nyilvántartásában szereplő adatokat átvenni.
+(5) A Rendőrség jogosult az úthasználati jogosultsággal rendelkezőkről és az érvénytelenített fedélzeti eszközökről az útdíjszedő által vezetett nyilvántartással, valamint az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartásában kezelt adataival összevetni a (4) bekezdés szerinti adatokat. Az útdíjellenőrzési feladatok ellátása során a Rendőrség jogosult a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 9. § (1) és (1a) bekezdésében, (2) bekezdés a), b), d) és e) pontjában, továbbá (3) bekezdésében meghatározott adatokat, a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 17. § (2) bekezdés b) pontja és (6) bekezdése szerinti adatokat, a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény III. fejezet 1. Címében meghatározott adatokat, valamint a közúti közlekedésről szóló 1988. évi I. törvény 21/D. § (1) bekezdésében foglalt adatokat, továbbá az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartásában szereplő adatokat átvenni.
 
-(6) A Rendőrség jogosult külföldi hatósági jelzéssel ellátott jármű rendszámát, amennyiben a jármű fedélzeti eszközzel felszerelt, annak azonosító adatait; a szabályszegés elkövetésének helyét és idejét, valamint a helymeghatározás egyéb jellemző adatait, az ellenőrzés képi felvételeit az ellenőrzés időpontjától számított 2 évig megőrizni, amennyiben a jogsértő üzembentartó személye helyszíni ellenőrzés, illetve automatizált lekérdezés útján nem volt megállapítható.
+(6) Az útdíjszedő jogosult a külföldi hatósági jelzéssel ellátott jármű rendszámát, ha a jármű fedélzeti eszközzel felszerelt, annak azonosító adatait; a vélelmezett szabályszegés elkövetésének helyét és idejét, valamint a helymeghatározás egyéb jellemző adatait, az ellenőrzés képi felvételeit az ellenőrzés időpontjától számított 2 évig megőrizni, ha helyszíni ellenőrzésre nem került sor, illetve a jármű üzembentartó személyének automatizált lekérdezés útján történő megállapítására nincsen mód.
 
 (7) A Rendőrség a bírság kiszabására irányuló eljárásban közvetlen adathozzáféréssel átveheti a tagállami járműnyilvántartásokból a szabályszegés bizonyításához szükséges rendszám adatokat, a természetes személy üzemben tartó személyi- és lakcímadatait, és a nem természetes személy üzemben tartó azonosításához szükséges adatokat.
 

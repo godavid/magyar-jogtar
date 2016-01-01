@@ -14,11 +14,11 @@ a természet védelme, a vadállomány ésszerű hasznosítása érdekében a k�
 
 ### A törvény tárgya
 
-1. § (1) E törvény Magyarország területén vadon élő állatfajok közül a vadászható állatfajok természetes állapota fenntartásának igényével tartalmazza a vadászati jog gyakorlásának, hasznosításának, a vadászható állatfajok és élőhelyük védelmének, a vadgazdálkodás, a vadászat, továbbá a vad által és a vadászat során, valamint a vadban okozott károk megtérítésének szabályait, továbbá a vadászati jog jogellenes hasznosítása során alkalmazható bírságokat és egyéb szankciókat, a vadászati igazgatással összefüggő állami feladatokat és hatásköröket.
+1. § (1) E törvény Magyarország területén vadon élő állatfajok közül a vadászható állatfajok természetes állapota fenntartásának igényével tartalmazza a vadászati jog gyakorlásának, hasznosításának, a vadászható állatfajok és élőhelyük védelmének, a vadgazdálkodás, a vadászat, továbbá a vad által és a vadászat során, valamint a vadban okozott károk megelőzésének és megtérítésének szabályait, továbbá a vadászati jog jogellenes hasznosítása során alkalmazható bírságokat és egyéb szankciókat, a vadászati igazgatással összefüggő állami feladatokat és hatásköröket.
 
 (2) A vadgazdálkodásért felelős miniszter (a továbbiakban: miniszter) – a természetvédelemért felelős miniszterrel egyetértésben – az e törvény felhatalmazása alapján kiadott rendeletben állapítja meg a Magyarországon honos, előforduló, engedéllyel telepített, vagy átvonuló, természetvédelmi oltalom alatt nem álló nagyvadnak, illetve apróvadnak minősülő vadászható állatfajokat (a továbbiakban: vad).
 
-(3) A törvény hatálya nem terjed ki a természetes élő környezetben vadon élő, nem vadászható állatfajra, valamint arra a vadra, amelyet állatkertben tartanak bekerített helyen.
+(3) A törvény hatálya nem terjed ki a természetes környezetben vadon élő nem vadászható állatfajra, valamint az állatkertben élő vadra.
 
 ### A vadászati jog
 
@@ -31,7 +31,7 @@ a természet védelme, a vadállomány ésszerű hasznosítása érdekében a k�
 
 kötelezettségek és jogosultságok összessége.
 
-3. § (1) A vadászati jog – mint vagyonértékű jog – a földtulajdonjog elválaszthatatlan részeként a vadászterületnek minősülő terület tulajdonosát illeti meg.
+3. § (1) A vadászati jog – mint vagyonértékű jog – a földtulajdonjog elválaszthatatlan részeként – a földtulajdon tekintetében fennálló haszonélvezeti jog esetén is – a vadászterületnek minősülő terület tulajdonosát illeti meg.
 
 (2) Amennyiben vízfelület is része a vadászterületnek, a vadászati jog a meder tulajdonjogának elválaszthatatlan része.
 
@@ -50,15 +50,15 @@ illeti meg.
 
 6. § (1) Önálló vadászati jog esetén vadászatra jogosultnak a vadászterület tulajdonosát kell tekinteni.
 
-(2) Társult vadászati jog esetén vadászatra jogosultnak a vadászterület tulajdonosainak közösségét kell tekinteni. A vadászterület határát megállapító határozat alapján az érintett földtulajdonosok vadászati közösséget alkotnak.
+(2) A vadászterület határát megállapító határozat alapján az érintett földtulajdonosok vadászati joggal rendelkező közösséget (a továbbiakban: tulajdonosi közösség) alkotnak. A tulajdonosi közösséget, valamint a tulajdonosi közösség képviselőjét a vadászati hatóság nyilvántartásba veszi, illetve az e törvény végrehajtására kiadott rendeletben foglaltak esetén a nyilvántartásból törli.
 
 (3) A vadászati jog haszonbérbeadása esetén vadászatra jogosultnak a haszonbérlőt kell tekinteni.
 
-(4) A vadászatra jogosultat (a továbbiakban: jogosult) a vadászati hatóság nyilvántartásba veszi.
+(4) A vadászatra jogosultat a vadászati hatóság nyilvántartásba veszi, illetve az e törvény végrehajtására kiadott rendeletben foglaltak esetén a nyilvántartásból törli.
 
-7. § (1) A vadászati jog gyakorlásával, hasznosításával kapcsolatos kötelezettségek és jogok e törvényben foglaltak szerinti teljesítéséért a jogosult felel.
+7. § (1) A vadászati jog gyakorlásával, hasznosításával kapcsolatos kötelezettségek és jogok e törvényben foglaltak szerinti teljesítéséért a vadászatra jogosult felel.
 
-(2) A jogosult az őt megillető vadászati jogot az e törvényben foglaltak alapján köteles gyakorolni vagy hasznosítani.
+(2) A vadászatra jogosult az őt megillető vadászati jogot az e törvényben foglaltak alapján köteles gyakorolni vagy hasznosítani.
 
 ### A vadászterület
 
@@ -76,10 +76,12 @@ illeti meg.
 - d) temető,
 - e) nem mező-, erdő- vagy vadgazdálkodási célból bekerített hely,
 - f) repülőtér,
-- g) közút, továbbá
+- g) közút, valamint a közút és annak fel- és lehajtója által határolt, továbbá
 - h) vasút
 
 területét.
+
+(3) A vadászterület határa nem terjedhet át a vadgazdálkodási tájegység határán.
 
 ### A vad tulajdonjoga
 
@@ -89,7 +91,7 @@ területét.
 
 (2) A vadászterületen elejtett, elfogott vad (ideértve annak trófeáját is), a hullatott agancs, a szárnyas vad jogszerűen gyűjtött tojása, az elhullott vad teteme a jogosult tulajdonába kerül. A más vadászterületről átváltott sebzett vad – a vadászatra jogosult hozzájárulásával – a sebzés helye szerinti jogosult tulajdonába kerül, ha – a vadászatra jogosult hozzájárulásával – utánkeresés során ejtik el vagy elhullottan fellelik.
 
-(3) A nem vadászterületen elhullott vad teteme, valamint a hullatott agancs annak a jogosultnak tulajdonába kerül, amelyiknek a vadászterületéről a vad oda került. Kétség esetén tulajdonosnak a fellelés helye szerinti legközelebbi vadászterület jogosultját kell tekinteni.
+(3) A nem vadászterületen elhullott vad teteme, valamint a hullatott agancs annak a vadászatra jogosultnak tulajdonába kerül, amelyiknek a vadászterületéről a vad oda került. Kétség esetén tulajdonosnak a fellelés helye szerinti legközelebbi vadászterület vadászatra jogosultját kell tekinteni.
 
 (4) A vadaskertben, a vadasparkban, illetve vadászterületen létesített vadfarmon jogszerűen tartott vad – a vadaspark, illetve a vadfarm fenntartójával kötött eltérő megállapodás hiányában – a jogosult tulajdonában van. A nem vadászterületen létesített vadfarmon jogszerűen tartott vad – eltérő megállapodás hiányában – a vadfarm fenntartójának tulajdonában van.
 
@@ -103,7 +105,7 @@ területét.
 
 ### A vadászati jog gyakorlása, hasznosítása
 
-10. § (1) Önálló vadászati jog esetén a vadászati jog gyakorlásának minősül, ha a jogosult:
+10. § (1) Önálló vadászati jog esetén a vadászati jog gyakorlásának minősül, ha a vadászatra jogosult:
 
 - a) e törvényben előírt feltételek megléte esetén vadászterületén saját maga vadászik;
 - b) általa meghívott vadász számára biztosítja a vadászat lehetőségét (a továbbiakban: vendégvadászat);
@@ -111,7 +113,7 @@ területét.
 
 (2) Önálló vadászati jog esetén a vadászati jog hasznosításának minősül annak haszonbérbe adása.
 
-11. § (1) A Magyar Állam önálló vadászati jogát nyilvánosan meghirdetett pályázat útján haszonbérbe adással vagy vagyonkezelői szerződéssel hasznosítja. Ebben az esetben jogosultnak a haszonbérlőt, illetőleg a vagyonkezelőt kell tekinteni.
+11. § (1) A Magyar Állam önálló vadászati jogát nyilvánosan meghirdetett pályázat útján haszonbérbe adással vagy vagyonkezelői szerződéssel hasznosítja. Ebben az esetben vadászatra jogosultnak a haszonbérlőt, illetőleg a vagyonkezelőt kell tekinteni.
 
 (2) Az (1) bekezdés szerinti vagyonkezelő több, a Magyar Államot illető önálló vadászati jogot is hasznosíthat.
 
@@ -119,21 +121,95 @@ területét.
 
 (4) A honvédelemért felelős miniszter kezelésében, illetve használatában levő területeket érintően a (3) bekezdésben foglaltak végrehajtásakor a honvédelemért felelős miniszter egyetértése is szükséges.
 
-12. § (1) Társult vadászati jog esetén a föld tulajdonosai
+11/A. § (1) A vadgazdálkodási üzemtervi időszak lejártakor a vadászterület határát újból meg kell állapítani.
 
-- a) a tulajdonosi képviselet formájáról, a képviselő személyéről,
-- b) a vadászterület határának megállapítására, megváltoztatására irányuló, e törvényben foglaltaknak megfelelő tartalmú kérelem előterjesztéséről,
-- c) a vadászati jog gyakorlásának, illetőleg hasznosításának módjáról, feltételeiről
+(2) A vadászterület határának újbóli megállapításakor a vadászati hatóság a hatályos vadgazdálkodási üzemtervi ciklus utolsó vadászati évének március 31. napjáig, a meglévő vadászterület határokat és a vadgazdálkodási tájegység határait alapul véve, a következő vadgazdálkodási üzemterv időszakára a vadászterület határára vonatkozó ajánlást (a továbbiakban: ajánlás) tesz közzé.
 
-a vadászterület kiterjedésének megállapításánál figyelembe vett összes földterület – ideértve a medret is – összes tulajdonosának a tulajdoni hányada arányában számított szótöbbséggel határoznak a földtulajdonosok vadászati közösségének gyűlésén (a továbbiakban: földtulajdonosok gyűlése), és ebben az arányban viselik a vadászati jog gyakorlásával vagy hasznosításával kapcsolatos terheket, valamint részesednek annak hasznaiból.
+(3) Az ajánlás az érintett vadászterület, valamint az érintett vadászterület tájegységéhez tartozó szomszédos, lejáró üzemtervű vadászterületek térképi megjelenítését, azonosításra alkalmas adatait tartalmazza.
 
-(2) A földtulajdonosok vadászati közössége a vadászati jog gyakorlásával, hasznosításával kapcsolatos ügyek intézése során jogokat szerezhet és kötelezettségeket vállalhat, továbbá önállóan perelhet és perelhető. A tulajdonosok (1) bekezdés szerint megválasztott és a vadászati hatóságnál nyilvántartásba vett – hatósági igazolással rendelkező – képviselője külön meghatalmazás nélkül a vadászati közösség ügyeiben eljárva a vadászati közösség nevében jogokat szerezhet, és kötelezettségeket vállalhat, képviseli a vadászati közösséget a vadászati jog gyakorlásával, hasznosításával összefüggő hatósági, illetve bírósági eljárásban és más szervek előtt, valamint harmadik személyekkel szemben. A képviselet megszűnése esetén a tulajdonosok a 14. §-ban foglalt eljárás szerint kötelesek hatvan napon belül új képviselőt választani.
+(4) A vadászati hatóság az ajánlást a hirdetőtábláján, és elektronikus tájékoztatásra szolgáló honlapján legalább harminc napra hirdetmény formájában közzéteszi. A vadászati hatóság kezdeményezi minden érintett település önkormányzatának hirdetőtábláján, illetve elektronikus tájékoztatásra szolgáló honlapján a hirdetmény formájában való közzétételt, amelyet az önkormányzat tájékoztató jelleggel legalább harminc napra közzétesz. Az ajánlást érintő vita esetén a vadászati hatóság hirdetőtábláján közzétett dokumentum az irányadó.
 
-(3) A földtulajdonosok vadászati közössége – az (1) bekezdés szerinti módon – köteles működési szabályzatot készíteni a vadászati jog gyakorlásának, hasznosításának módjáról, feltételeiről, ideértve a képviselő elszámolási kötelezettségének, valamint vadászati jog haszonbérbe adása esetén a haszonbérleti díj elszámolásának rendjét is. A működési szabályzat elkészítésének részletes szabályait a miniszter az e törvény felhatalmazása alapján kiadott rendeletben állapítja meg.
+(5) Az ajánlással érintett vadászterület földtulajdonosa az ajánlásra
 
-(4) Az (1) bekezdésben foglaltak kivételével a földtulajdonosok vadászati hatóságnál nyilvántartásba vett képviselője is összehívhatja a földtulajdonosok gyűlését.
+- a) a vadászterület határaival kapcsolatos módosító javaslatot, illetve
+- b) új vadászterület kialakítását célzó javaslatot [az a) és b) pont a továbbiakban együtt: módosító javaslat]
 
-(5) A vadászterület határának megállapítására irányuló – ide nem értve vadászterület szétválasztására vagy vadászterületek egyesítésére, továbbá szomszédos vadászterületek közös határának egyezséggel történő módosítására vonatkozó – földtulajdonosi gyűlés legkorábban a vadgazdálkodási üzemterv érvényességének lejártát megelőző egy évvel, legkésőbb a vadgazdálkodási üzemterv érvényességének lejártát megelőző hatvan nappal hívható össze.
+nyújthat be a vadászati hatósághoz a hatályos vadgazdálkodási üzemtervi ciklus utolsó vadászati évének május 15. napjáig.
+
+(6) A földtulajdonos a módosító javaslatot egyedül vagy más földtulajdonossal együtt is benyújthatja.
+
+(7) A módosító javaslatot a 8. §-ban és a 19. § (2) bekezdésében meghatározott feltételek figyelembevételével lehet benyújtani, azzal, hogy legalább háromszáz hektár, egybefüggő, vadászterületnek minősülő területre vonatkozhat.
+
+(8) A (7) bekezdésben meghatározott terület legfeljebb egyharmada más, nem a módosító javaslatot benyújtó földtulajdonos(ok) tulajdonában is lehet.
+
+(9) Az e § előírásainak megfelelő módosító javaslat befogadásáról (érvényes módosító javaslat) a vadászati hatóság 10 napon belül végzéssel dönt. A vadászati hatóság módosító javaslat befogadásáról szóló döntésével szemben jogorvoslati kérelemmel a vadászterület határát megállapító döntéssel szemben benyújtott fellebbezéssel lehet élni.
+
+(10) Ha a vadászati hatóság ajánlásában szereplő vadászterület határára nem érkezik érvényes módosító javaslat, a vadászati hatóság a vadászterület határának megállapítására vonatkozó szabályok szerint hivatalból megállapítja a vadászterület határát.
+
+11/B. § (1) A vadászati hatóság a vadászterületek átfedésére irányuló érvényes módosító javaslat esetén, a hatályos vadgazdálkodási üzemtervi ciklus utolsó vadászati évének július 15. napjáig egyeztetést tart az érvényes módosító javaslatot benyújtó földtulajdonosok közös képviselőjének, és a módosító javaslattal érintett hatályos vadászterületek földtulajdonosi képviselőinek részvételével az átfedésben lévő területrész vonatkozásában.
+
+(2) Ha az érvényes módosító javaslattal érintett földtulajdonos a képviseletéről nem az (1) bekezdésben meghatározott módon kíván gondoskodni, a vadászati hatóság által tartott egyeztetésen személyesen is részt vehet.
+
+(3) A vadászati hatóság az (1) bekezdésben meghatározott egyeztetést több, a vadászati hatóság ajánlásában szereplő vadászterület határára vonatkozó érvényes módosító javaslat esetében egyszerre is lefolytathatja.
+
+(4) A vadászati hatóság a lefolytatott egyeztetésen kialakult egyezséget hatósági határozatba foglalja, és az egyezségben foglaltakat figyelembe véve, a vadászterület kialakítás szabályai szerint megállapítja a vadászterület határát.
+
+(5) Egyezség hiányában a vadászati hatóság a vadászterület határának megállapítására vonatkozó szabályok szerint a vadászterület határát hivatalból állapítja meg.
+
+11/C. § (1) A vadászati hatóság a vadászterület megállapítására vonatkozó határozatát a 11/A. § (4) bekezdése szerinti módon közzéteszi, amely alapján a megállapított vadászterület tulajdonosi közösségének gyűlése a határozat jogerőre emelkedését követően összehívható.
+
+(2) A vadászati hatóság vadászterület határának megállapítására irányuló eljárásában hozott döntése ellen nem nyújthat be fellebbezést az az ügyfél, aki nem tett módosító javaslatot, illetve a 11/B. § szerinti egyeztetés során az eljárásban neki felróható okból nem vett részt.
+
+12. § (1) Társult vadászati jog esetén a tulajdonosi közösség gyűlésén a megjelent földtulajdonosok
+
+- a) a képviselet formájáról, a képviselő személyéről,
+- b) a vadászterület határának 20. § (1) bekezdése szerinti megváltoztatására irányuló, e törvényben foglaltaknak megfelelő tartalmú kérelem előterjesztéséről, illetve
+- c) a vadászati jog gyakorlásának, hasznosításának módjáról, feltételeiről
+
+a tulajdonukban álló földterület – ideértve a medret is – aránya szerint számított szavazattöbbséggel határoznak.
+
+(2) A földtulajdonosok a vadászterület összes területe – ideértve a medret is – összes tulajdonosának a tulajdoni hányada arányában viselik a vadászati jog gyakorlásával vagy hasznosításával kapcsolatos terheket, valamint részesednek annak hasznaiból.
+
+(3) A tulajdonosi közösség a vadászati jog gyakorlásával, hasznosításával kapcsolatos ügyek intézése során jogokat szerezhet és kötelezettségeket vállalhat, továbbá önállóan perelhet és perelhető. A tulajdonosi közösség (1) bekezdés szerint megválasztott, és a vadászati hatóságnál nyilvántartásba vett – hatósági igazolással rendelkező – képviselője külön meghatalmazás nélkül a tulajdonosi közösség ügyeiben eljárva a tulajdonosi közösség nevében jogokat szerezhet és kötelezettségeket vállalhat, képviseli a tulajdonosi közösséget a vadászati jog gyakorlásával, hasznosításával összefüggő hatósági, illetve bírósági eljárásban és más szervek előtt, valamint harmadik személyekkel szemben.
+
+(4) A tulajdonosi közösség képviselője természetes és jogi személy lehet.
+
+(5) Nem lehet képviselő, aki:
+
+- a) büntetett előéletű;
+- b) ilyen tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll;
+- c) a képviselői tevékenységével összefüggésben keletkezett, jogerősen megállapított fizetési kötelezettségének nem tett eleget.
+
+(6) A vadászati hatóság a tulajdonosi közösség által megválasztott képviselő (5) bekezdés a) és b) pontja szerinti feltételeknek való megfelelését a (3) bekezdésben meghatározott nyilvántartásba vétel során megvizsgálja.
+
+(7) Nem lehet a tulajdonosi közösség képviselője az a személy, aki annál a vadászatra jogosultnál tölt be vezető tisztséget, amellyel a tulajdonosi közösség a vadászterület vadászati jogára haszonbérleti szerződést köt.
+
+(8) A képviselői megbízatás megszűnik
+
+- a) visszahívással,
+- b) lemondással,
+- c) a képviselő halálával, jogi személy képviselő esetén jogutód nélküli megszűnésével,
+- d) a képviselő cselekvőképességének a feladata ellátásához szükséges ügycsoportban történő korlátozásával,
+- e) jogi személy képviselő esetén a vele szembeni végelszámolás, csőd- vagy felszámolási eljárás jogerős megindításával,
+- f) a képviselővel szembeni kizáró ok bekövetkeztével,
+- g) a képviselő kilencven napot meghaladó akadályoztatása esetén.
+
+(9) A képviselet megszűnése esetén a tulajdonosok a 14. §-ban foglalt eljárás szerint kötelesek hatvan napon belül új képviselőt választani.
+
+(10) A tulajdonosi közösség gyűlése a képviselőt visszahívhatja. A visszahívott képviselő az új képviselő megválasztásáig változatlan díjazás mellett köteles feladatait ellátni, azzal, hogy kötelezettséget nem vállalhat, és jogról nem mondhat le érvényesen.
+
+(11) A képviselő köteles:
+
+- a) a tulajdonosi közösség gyűlése határozatait a jogszabályok és a működési szabályzat rendelkezéseinek megfelelően előkészíteni és végrehajtani;
+- b) a határozatokról és a határozatok végrehajtásáról nyilvántartást vezetni;
+- c) a tulajdonosi közösség részére elkülönített, kizárólag a tulajdonosi közösség pénzügyeinek kezelésére bankszámlát – ha a képviselő költségvetési szerv, akkor a külön e célra a Magyar Államkincstárnál vezetett alszámlát – nyitni és vezetni;
+- d) a haszonbérleti díj kifizetését a vadászati év lezárását követő hatvan napon belül biztosítani a földtulajdonosok részére.
+
+(12) A tulajdonosi közösség – az (1) bekezdés szerinti módon – köteles működési szabályzatot készíteni a vadászati jog gyakorlásának, hasznosításának módjáról, feltételeiről, ideértve a képviselő javadalmazásának és elszámolási kötelezettségének, valamint a vadászati jog haszonbérbe adása esetén a haszonbérleti díj elszámolásának rendjét is. A működési szabályzat elkészítésének részletes szabályait a miniszter az e törvény felhatalmazása alapján kiadott rendeletben állapítja meg.
+
+(13) Az (1) bekezdésben foglaltak kivételével a tulajdonosi közösség vadászati hatóságnál nyilvántartásba vett képviselője is összehívhatja a tulajdonosi közösség gyűlését.
+
+(14) A tulajdonosi közösség gyűlését évente legalább egy alkalommal össze kell hívni. Ha a képviselő e kötelezettségének nem tesz eleget, a tulajdonosi közösség gyűlésének összehívása a 14. § (1) bekezdésében meghatározottak szerint kezdeményezhető.
 
 13. § (1) Társult vadászati jog esetén a vadászati jog gyakorlásának minősül:
 
@@ -143,30 +219,21 @@ a vadászterület kiterjedésének megállapításánál figyelembe vett összes
 
 (2) Társult vadászati jog esetén a vadászati jog hasznosításának minősül annak haszonbérbeadása.
 
-(3) A 12. § szerinti kérdésekben hozott határozatot írásba kell foglalni. A határozatról készült és két tanúval hitelesített okirat egy példányát a vadászati hatóságnak nyilvántartásba vétel céljából az aláírást követő tizenöt napon belül meg kell küldeni.
+(3) A 12. § szerinti kérdésekben hozott határozatot írásba kell foglalni. A határozatról készült és két tanúval hitelesített okirat egy példányát a vadászati hatóságnak nyilvántartásba vétel céljából a tulajdonosi közösség gyűlését követő tizenöt napon belül meg kell küldeni.
 
-14. § (1) Társult vadászati jog esetén a 12. § szerinti kérdésekben való határozat meghozatalát a vadászterület tulajdonosainak a 12. §-ban foglaltak szerint számított egyharmada kezdeményezheti. A kezdeményezőnek a vadászati hatóság és az érintett települések önkormányzata hirdetőtábláján legalább harminc napra hirdetményt kell közzétennie, amelynek tartalmaznia kell a földtulajdonosok gyűlésének helyét, idejét és napirendi pontjait, a képviselet szabályaira való figyelmeztetést, továbbá a 12. § (1) bekezdésének b) pontja esetében a kialakítandó vadászterület térképi megjelölését.
+14. § (1) Társult vadászati jog esetén a 12. § (1) bekezdése szerinti kérdésekben való határozat meghozatalát a vadászterület összes tulajdonosának a tulajdoni hányada arányában számított egyötöde kezdeményezheti. A kezdeményezőnek a vadászati hatóság és minden érintett település önkormányzatának hirdetőtábláján és a helyben szokásos módon a tulajdonosi közösség gyűlését megelőző legalább harminc napra hirdetményt kell közzétennie, amelyet a gyűlést megelőző napig kell kifüggesztve tartani. A hirdetmény – tájékoztató jelleggel – a települési önkormányzat hivatalos lapjában – ennek hiányában a helyi lapban –, elektronikus tájékoztatásra szolgáló honlapján, valamint a hatóság hivatalos lapjában is közzétehető.
 
-(2) Érvényes határozat csak akkor hozható, ha a földtulajdonosok gyűlésének összehívása érdekében eleget tettek az (1) bekezdésben foglalt eljárásnak.
+(2) A hirdetmény hirdetőtáblán történő kifüggesztésének minden érintett település önkormányzatánál azonos napon, azonos tartalommal kell megtörténnie. A hirdetménynek tartalmaznia kell a tulajdonosi közösség gyűlésének helyét, idejét és napirendi pontjait, a képviselet szabályaira való figyelmeztetést, továbbá a vadászterület térképi megjelölését. A tulajdonosi közösségi gyűlést csak a vadászterület fekvése szerinti vadgazdálkodási tájegységen belül lehet megtartani. Érvényes határozat csak akkor hozható, ha a tulajdonosi közösség gyűlését szabályszerűen hívták össze.
 
-(3) Amennyiben a földtulajdonosok – a Magyar Állam kivételével – a vadászterületen külön-külön harminc hektárt el nem érő földtulajdonnal rendelkeznek, és e tulajdonosok a határozathozatal időpontjáig közös képviseletükről másként nem gondoskodnak, a 12. § szerinti kérdésekkel kapcsolatos jognyilatkozatokat a tulajdonos törvényes képviselőjeként az érintett föld fekvésének helye szerint illetékes települési önkormányzat jegyzője teszi meg. A települési önkormányzat jegyzője teszi meg a szükséges jognyilatkozatokat annak a tulajdonosnak a nevében is, aki az (1)–(2) bekezdésben foglaltak szerint meghirdetett határozathozatalon nem vett részt és képviseletéről sem gondoskodott.
-
-(4) Amennyiben az (1)–(2) bekezdés alapján meghozott határozattal és a (3) bekezdés szerint tett jognyilatkozattal a 12. §-ban foglaltak szerint számított tulajdoni hányaduk alapján kisebbségben maradt, vagy a határozathozatalban részt nem vett tulajdonosok nem értenek egyet,
-
-- a) önálló vadászterület kialakítását vagy más vadászterülethez való csatlakozást kezdeményezhetnek, feltéve, hogy a tulajdonukban levő terület természetben összefüggő egységet alkot, és az e törvényben írt feltételeknek megfelel, illetőleg
-- b) ha a határozat az okszerű gazdálkodást sérti, a kisebbség vagy a határozathozatalban részt nem vett tulajdonosok jogos érdekeinek lényeges sérelmével jár,
-
-a határozat annak meghozatalától számított harminc napon belül a bíróságnál megtámadható.
-
-(5)
-
-(6) A képviselő köteles a kezéhez teljesített bevétellel, valamint költségeivel az általa képviselt részére elszámolni.
+(3) A határozathozatalban önhibáján kívül részt nem vett vagy a meghozott határozattal egyet nem értő, kisebbségben maradt földtulajdonosok, ha a határozat az okszerű gazdálkodást sérti, vagy a meghozott határozattal egyet nem értő, kisebbségben maradt vagy a határozathozatalban részt nem vett földtulajdonosok jogos érdekeinek lényeges sérelmével jár, a határozatot annak meghozatalától számított harminc napon belül a bíróságnál megtámadhatják.
 
 ### A vadászati jog haszonbérlete
 
 15. § (1) A vadászati jog haszonbérletére a Polgári Törvénykönyvnek a mezőgazdasági haszonbérletre vonatkozó szabályait az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (2) A mezőgazdasági földterület haszonbérbe adása csak a felek e törvényben írtaknak megfelelő tartalmú megállapodása esetében jelenti egyben a vadászati jog haszonbérbe adását is.
+
+(3) A haszonbérlő a haszonbérleti díj 90%-ának megfelelő előleget köteles fizetni a vadászati év kezdetét megelőző év december 1-ig. A képviselő a fizetés elmaradásáról a vadászati év kezdetét megelőző év december 31-ig köteles értesíteni a vadászati hatóságot, amely – ha a haszonbérleti díj előleg megfizetése, vagy a haszonbérleti szerződés érvényessége tárgyában peres vagy nemperes eljárás nincs a felek között – felszólítja a vadászatra jogosultat a haszonbérleti díj előleg megfizetésére. Ha a haszonbérlő a haszonbérleti díj előleget a vadászati év kezdetét megelőző február hónap utolsó napjáig a hatóság felszólítása ellenére sem fizeti meg, a vadászati hatóság a haszonbérlőt a vadászatra jogosultak nyilvántartásából törli. A haszonbérlő a haszonbérleti díjat a vadászati évet követő április hónap utolsó napjáig fizeti meg.
 
 16. § (1) A vadászati jog haszonbérlője lehet:
 
@@ -176,9 +243,9 @@ a határozat annak meghozatalától számított harminc napon belül a bírósá
 
 (2) Egy haszonbérlő – az (1) bekezdés c) pontja szerinti haszonbérlő kivételével – legfeljebb egy vadászterület vadászati jogára köthet érvényesen haszonbérleti szerződést.
 
-(3) A vadászati jog haszonbérletére kötött szerződés megszűnésekor – a felek eltérő megállapodásának hiányában – az új jogosult az okszerű gazdálkodás mértékéig köteles megtéríteni a korábbi haszonbérlő által létesített vadgazdálkodási, vadászati rendeltetésű létesítmények, berendezések ellenértékét. A vadgazdálkodási, vadászati rendeltetésű létesítmények, berendezések körét a miniszter az e törvény felhatalmazása alapján kiadott rendeletben teszi közzé.
+(3) A vadászati jog haszonbérletére kötött szerződés megszűnésekor – a felek eltérő megállapodásának hiányában – az új vadászatra jogosult az okszerű gazdálkodás mértékéig köteles megtéríteni a korábbi haszonbérlő által létesített vadgazdálkodási, vadászati rendeltetésű létesítmények, berendezések ellenértékét. A vadgazdálkodási, vadászati rendeltetésű létesítmények, berendezések körét a miniszter az e törvény felhatalmazása alapján kiadott rendeletben teszi közzé.
 
-(4) A vadászterület ismételt haszonbérbe adása esetén a haszonbérlőt e törvény alapján előhaszonbérleti jog illeti meg. E törvénynek az előhaszonbérletre vonatkozó rendelkezéseit azoknak a jogosultaknak az esetében kell alkalmazni, akik a vadgazdálkodási üzemterv lejártának napján érvényes haszonbérleti szerződéssel rendelkeznek, és az újonnan kialakított vadászterületnek legalább a felét az előző üzemtervi ciklusban is haszonbérelték. Az előhaszonbérleti jog gyakorlására a Polgári Törvénykönyvnek az elővásárlási jogra vonatkozó rendelkezéseit kell megfelelően alkalmazni.
+(4) A vadászterület ismételt haszonbérbe adása esetén a haszonbérlőt e törvény alapján előhaszonbérleti jog illeti meg. E törvénynek az előhaszonbérletre vonatkozó rendelkezéseit azoknak a vadászatra jogosultaknak az esetében kell alkalmazni, akik a vadgazdálkodási üzemterv lejártának napján érvényes haszonbérleti szerződéssel rendelkeznek, és az újonnan kialakított vadászterületnek legalább a felét az előző üzemtervi ciklusban is haszonbérelték. Az előhaszonbérleti jog gyakorlására a Polgári Törvénykönyvnek az elővásárlási jogra vonatkozó rendelkezéseit kell megfelelően alkalmazni.
 
 (5) A (3) bekezdésben foglaltakat kell alkalmazni az állami tulajdonban levő, vadászterületnek minősülő ingatlan vagyonkezelői szerződésének megszűnésekor is.
 
@@ -203,13 +270,13 @@ a határozat annak meghozatalától számított harminc napon belül a bírósá
 
 (6) Ha a haszonbérleti szerződés időtartama alatt a haszonbérlő megszűnik, jogutódja harminc napon belül egyoldalú jognyilatkozattal és változatlan feltételekkel folytathatja a haszonbérleti jogviszonyt, feltéve, ha rendelkezik a vadászati jog gyakorlásához, hasznosításához szükséges, e törvény szerinti feltételekkel. Ha a haszonbérlő jogutódja a harminc napos határidőn belül igényét nem kívánja érvényesíteni, vagy ha a vadászati jog gyakorlásához, hasznosításához szükséges törvényi feltételekkel nem rendelkezik, akkor a haszonbérleti szerződés e határidő lejártát követő napon megszűnik.
 
-(7) Ha a haszonbérleti szerződés a (6) bekezdésben foglaltak miatt szűnik meg, vagy ha a haszonbérleti szerződés időtartama alatt a haszonbérlő jogutód nélkül megszűnik, a vadászati közösség képviselőjének a megszűnés időpontját követő hatvan napon belül össze kell hívni a földtulajdonosok vadászati közössége gyűlését, és annak döntenie kell a vadászati jog hasznosításának módjáról, feltételeiről.
+(7) Ha a haszonbérleti szerződés a (6) bekezdésben foglaltak miatt szűnik meg, vagy ha a haszonbérleti szerződés időtartama alatt a haszonbérlő jogutód nélkül megszűnik, a tulajdonosi közösség képviselőjének a megszűnés időpontját követő hatvan napon belül össze kell hívni a tulajdonosi közösség gyűlését, és annak döntenie kell a vadászati jog hasznosításának módjáról, feltételeiről.
 
 (8) Az (1) bekezdésben foglaltakat megfelelően alkalmazni kell abban az esetben is, ha a Magyar Állam önálló vadászati jogát vagyonkezelői szerződés útján hasznosítja.
 
-18. § (1) A vadászati jog haszonbérletére kötött szerződést annak aláírásától számított hatvan napon belül – a vadgazdálkodási üzemtervvel együtt – a haszonbérlőnek a vadászati hatósághoz jóváhagyásra be kell nyújtania. A kérelem benyújtása egyidejűleg a haszonbérlő jogosultként történő nyilvántartásbavételi kérelmének is minősül.
+18. § (1) A vadászati jog haszonbérletére kötött szerződést annak aláírásától számított hatvan napon belül a haszonbérlőnek a vadászati hatósághoz jóváhagyásra be kell nyújtania. A kérelem benyújtása egyidejűleg a haszonbérlő vadászatra jogosultként történő nyilvántartásbavételi kérelmének is minősül.
 
-(2) A vadászati jog haszonbérletére kötött szerződést a vadászati hatóság hagyja jóvá. A vadászati hatóság a szerződés jóváhagyásával egyidejűleg határoz a vadgazdálkodási üzemterv jóváhagyásáról, valamint a haszonbérlő jogosultként történő nyilvántartásba vételéről is.
+(2) A vadászati jog haszonbérletére kötött szerződést a vadászati hatóság hagyja jóvá. A vadászati hatóság a szerződés jóváhagyásával egyidejűleg határoz a vadgazdálkodási üzemterv jóváhagyásáról, valamint a haszonbérlő vadászatra jogosultként történő nyilvántartásba vételéről is.
 
 (3) A (2) bekezdésben foglaltakat kell alkalmazni a vadászati jog haszonbérletére kötött szerződés módosításakor is.
 
@@ -223,9 +290,9 @@ a határozat annak meghozatalától számított harminc napon belül a bírósá
 
 (6) A vadászati jog haszonbérletével kapcsolatos vadászati hatósági határozat bírósági felülvizsgálata során a Polgári perrendtartásnak a közigazgatási perekre vonatkozó szabályai szerint eljáró bíróság a határozatot megváltoztathatja.
 
-### A vadászterület határának megállapítása
+### A vadászterület határának megállapítása, megváltoztatása
 
-19. § (1) A vadászterület határát a kialakítandó vadászterület tulajdonosának – társult vadászati jog esetén a kialakítandó vadászterület tulajdonosai képviselőjének – kérelmére a vadászati hatóság határozatban állapítja meg.
+19. § (1)
 
 (2) A vadászterület határának megállapításánál figyelemmel kell lenni:
 
@@ -239,24 +306,23 @@ a határozat annak meghozatalától számított harminc napon belül a bírósá
 - h) államhatár esetében a szükséges védőtávolságra, továbbá arra, hogy
 - i) zárványterület ne keletkezzen;
 - j) a háromezer hektár vagy azt meghaladó természetvédelem alatt álló területek – a védelmükhöz szükséges övezettel együtt – lehetőleg önálló vadászterületet képezzenek;
-- k) a háromezer hektárnál kisebb területű természetvédelem alatt álló területek lehetőleg egy vadászterületre essenek.
+- k) a háromezer hektárnál kisebb területű természetvédelem alatt álló területek lehetőleg egy vadászterületre essenek;
+- l) a vadászterület határának egyértelmű azonosíthatóságára, tartósságára és nyomon követhetőségére.
 
 (3) A vadászati hatóság a vadászterület legkisebb kiterjedésétől – a (4) bekezdésben foglalt eset kivételével – legfeljebb ötszáz hektárral eltérhet, amennyiben a kialakítandó vadászterületen a vadászati jog szakszerű gyakorlása, illetőleg hasznosítása egyébként biztosított.
 
 (4) Különleges rendeltetésű vadászterület esetén az azt elrendelő határozat a vadászterület legkisebb kiterjedésétől korlátozás nélkül eltérhet, amennyiben a kialakítandó vadászterületen a vadászati jog szakszerű gyakorlása, illetőleg hasznosítása egyébként biztosított.
 
-20. § (1) A vadászterület határának megállapítása – ide nem értve a vadászterület szétválasztására, a vadászterületek egyesítésére és a szomszédos vadászterületek közös határának egyezséggel történő módosítására vonatkozó döntést – a vadgazdálkodási üzemterv időtartamára szól, és ezen időtartam alatt köti a mindenkori földtulajdonosokat.
+20. § (1) A vadászterület határának megállapítása a vadgazdálkodási üzemterv időtartamára szól, és ezen időtartam alatt köti a mindenkori földtulajdonosokat. A hatósági határozatban megállapított vadászterület szétválasztására, a vadászterületek egyesítésére és a szomszédos vadászterületek közös határának egyezséggel történő módosítására vonatkozó döntés a vadászterület megváltoztatásának minősül.
 
-(2) A vadászterület határának megváltoztatásakor – ideértve a vadászterületek egyesítését, megosztását is – a vadászati hatóságnak egyidejűleg határoznia kell a vadgazdálkodási üzemterv, valamint – a vadászati jog haszonbérbe adása esetén – a haszonbérleti szerződés, jóváhagyásáról is.
+(2) A vadászterület határának megváltoztatásakor a vadászati hatóságnak egyidejűleg határoznia kell a vadgazdálkodási üzemterv, valamint – a vadászati jog haszonbérbe adása esetén – a haszonbérleti szerződés jóváhagyásáról is.
 
-(3) A vadászati hatóság nem utasíthatja el a vadászterület határának megállapítására irányuló kérelmet, ha
+(3) A vadászati hatóság nem utasíthatja el a vadászterület határának megváltoztatására irányuló kérelmet, ha
 
 - a) a kérelemben javasolt határ megfelel az e törvényben írt feltételeknek, és
-- b) a szomszédos vadászterülettel való érintkezés esetében az érintettek az e törvényben írtaknak megfelelő tartalmú egyezséget kötnek.
+- b) a szomszédos vadászterülettel való érintkezés esetében az érintettek egyezséget kötnek.
 
-(4) Amennyiben a vadászterület határának megállapítására, megváltoztatására irányuló kérelem nem felel meg az e törvényben foglalt feltételeknek, illetőleg, ha az érintettek a vadászati hatóság által közölt időpontig az e törvényben foglaltaknak megfelelő tartalmú egyezséget nem kötnek, a vadászati hatóság a vadászterület határát a vadászati jog kényszerhasznosítására vonatkozó szabályok szerint hivatalból állapítja meg.
-
-20/A. § A vadászterület határának megállapítására irányuló eljárásban hozott elsőfokú határozat ellen nem nyújthat be fellebbezést az az ügyfél, aki az eljárás megindításáról szóló szabályszerű értesítés ellenére az eljárásban nem vett részt.
+#### 20/A. §
 
 ### A vadászterület rendeltetésének megállapítása
 
@@ -267,7 +333,7 @@ a határozat annak meghozatalától számított harminc napon belül a bírósá
 
 rendeltetésű lehet.
 
-(2) A vadászterület különleges rendeltetését a jogosult kérelmére a vadászati hatóság határozatban állapítja meg, ha
+(2) A vadászterület különleges rendeltetését a vadászatra jogosult kérelmére a vadászati hatóság határozatban állapítja meg, ha
 
 - a) azt a vad génállományának megőrzése szükségessé teszi;
 - b) oktatási-kutatási célból szükséges; valamint
@@ -364,7 +430,7 @@ a tulajdonossal való előzetes egyeztetés után kezdeményezheti. A határozat
 
 (6) A vadászati jog gyakorlására vagy hasznosítására kötelező, valamint a vadászati jog kényszerhasznosítását elrendelő hatósági határozatot nyilvánosan is közzé kell tenni.
 
-(7) A hatósági vadászat során az elejtett vad, illetve annak trófeája értékesítéséről a vadászati hatóság gondoskodik, a föld tulajdonosa, illetve a jogosult csak a felmerült költségeket – ideértve a vadgazdálkodás költségeit – meghaladó részére tarthat igényt.
+(7) A hatósági vadászat során az elejtett vad, illetve annak trófeája értékesítéséről a vadászati hatóság gondoskodik, a föld tulajdonosa, illetve a vadászatra jogosult csak a felmerült költségeket – ideértve a vadgazdálkodás költségeit – meghaladó részére tarthat igényt.
 
 ### II. Fejezet — A VAD ÉS ÉLŐHELYÉNEK VÉDELME
 
@@ -405,7 +471,7 @@ a tulajdonossal való előzetes egyeztetés után kezdeményezheti. A határozat
 
 31. § (1) Vadászterületen vadgazdálkodási, vadászati létesítmény a föld használójának előzetes hozzájárulásával létesíthető.
 
-(2) Amennyiben a vadászterületen korábban létesített létesítmények, berendezések tulajdonjogának, illetve a használatának kérdésében a vadgazdálkodási üzemterv jóváhagyásáig nem jön létre megállapodás, a létesítmények, berendezések létesítője a jogalap nélküli gazdagodás szabályai szerint megtérítési igénnyel léphet fel a jogosulttal szemben.
+(2) Amennyiben a vadászterületen korábban létesített létesítmények, berendezések tulajdonjogának, illetve a használatának kérdésében a vadgazdálkodási üzemterv jóváhagyásáig nem jön létre megállapodás, a létesítmények, berendezések létesítője a jogalap nélküli gazdagodás szabályai szerint megtérítési igénnyel léphet fel a vadászatra jogosulttal szemben.
 
 (3) A védett természeti területen vadgazdálkodási, vadászati létesítmény a természetvédelmi hatóság engedélyével létesíthető.
 
@@ -423,24 +489,24 @@ a tulajdonossal való előzetes egyeztetés után kezdeményezheti. A határozat
 
 (2) A vadászterületen Magyarország állatföldrajzi környezetében nem honos állatfaj vadászati célú telepítését a vadászati hatóság engedélyezi.
 
-### A jogosult vad- és élőhelyvédelmi feladatai
+### A vadászatra jogosult vad- és élőhelyvédelmi feladatai
 
-34. § (1) A jogosult köteles a vadászterületén élő vadállományt, annak biológiai sokféleségét fenntartani, valamint a vad és élőhelyének őrzéséről gondoskodni.
+34. § (1) A vadászatra jogosult köteles a vadászterületén élő vadállományt, annak biológiai sokféleségét fenntartani, valamint a vad és élőhelyének őrzéséről gondoskodni.
 
-(2) A jogosult köteles nem zárt vadászterületén a vadállomány tömeges pusztulásának megelőzése, mentése érdekében, vadaskertjében, vadasparkjában a vadállomány fenntartásának érdekében a vad életfeltételeihez szükséges megfelelő minőségű takarmánymennyiségről és a vadnak ivóvízzel való ellátásáról gondoskodni.
+(2) A vadászatra jogosult köteles nem zárt vadászterületén a vadállomány tömeges pusztulásának megelőzése, mentése érdekében, vadaskertjében, vadasparkjában a vadállomány fenntartásának érdekében a vad életfeltételeihez szükséges megfelelő minőségű takarmánymennyiségről és a vadnak ivóvízzel való ellátásáról gondoskodni.
 
-(3) A jogosult a föld tulajdonosának, használójának előzetes hozzájárulásával a vad és élőhelyének védelmét szolgáló létesítményeket, berendezéseket állíthat fel.
+(3) A vadászatra jogosult a föld tulajdonosának, használójának előzetes hozzájárulásával a vad és élőhelyének védelmét szolgáló létesítményeket, berendezéseket állíthat fel.
 
-35. § (1) A jogosult köteles megtenni mindazokat az intézkedéseket, amelyek a vadállománynak az állatbetegségektől való megóvása, a beteg vad gyógyítása, az állatbetegségek megszüntetése és terjedésének megakadályozása érdekében szükségesek.
+35. § (1) A vadászatra jogosult köteles megtenni mindazokat az intézkedéseket, amelyek a vadállománynak az állatbetegségektől való megóvása, a beteg vad gyógyítása, az állatbetegségek megszüntetése és terjedésének megakadályozása érdekében szükségesek.
 
-(2) A jogosult az (1) bekezdésben foglaltak végrehajtása érdekében köteles:
+(2) A vadászatra jogosult az (1) bekezdésben foglaltak végrehajtása érdekében köteles:
 
 - a) a fertőző állatbetegség gyanúját vagy fellépését, valamint a vadállományban tapasztalható jelentősebb elhullást,
 - b) a növényvédő szer által a vadban okozott károsodást vagy annak gyanúját
 
 az élelmiszerlánc-felügyeleti szervnek haladéktalanul jelenteni.
 
-(3) Amennyiben a jogosult a vad és élőhelyének védelmére előírt kötelezettségének nem, vagy nem a megfelelő módon tesz eleget, és a vad, valamint élőhelyének védelme másként nem biztosítható, a vadászati hatóság határozatában felhívja e kötelezettségének teljesítésére.
+(3) Amennyiben a vadászatra jogosult a vad és élőhelyének védelmére előírt kötelezettségének nem, vagy nem a megfelelő módon tesz eleget, és a vad, valamint élőhelyének védelme másként nem biztosítható, a vadászati hatóság határozatában felhívja e kötelezettségének teljesítésére.
 
 #### 36. §
 
@@ -520,7 +586,7 @@ jelentést küld az Európai Bizottság részére.
 
 (2) A vadgazdálkodási tevékenység tervszerűségét:
 
-- a) körzeti vadgazdálkodási terv;
+- a) tájegységi vadgazdálkodási terv;
 - b) hosszú távú vadgazdálkodási üzemterv;
 - c) éves vadgazdálkodási terv készítésével;
 - d) Országos Vadgazdálkodási Adattár (a továbbiakban: Adattár) fenntartásával, valamint az abban foglalt egyes adatok kötelező felhasználásával
@@ -529,37 +595,34 @@ kell biztosítani.
 
 (3)
 
-### Körzeti vadgazdálkodási terv
+### Tájegységi vadgazdálkodási terv
 
-42. § (1) A körzeti vadgazdálkodási terv az e törvényben foglalt célok megvalósítását szolgáló tíz évre szóló hosszú távú vadgazdálkodási előírás.
+42. § A tájegységi vadgazdálkodási terv az e törvényben foglalt célok megvalósítását szolgáló, húsz évre szóló, hosszú távú vadgazdálkodási előírás.
 
-(2) Az e törvény hatálybalépését követően első alkalommal jóváhagyott körzeti vadgazdálkodási terv 2016. február 29-ig szóló hosszú távú vadgazdálkodási előírás.
-
-(3)
-
-43. § (1) A körzeti vadgazdálkodási terv az adott térségre vonatkozóan tartalmazza:
+43. § (1) A tájegységi vadgazdálkodási terv az adott térségre vonatkozóan tartalmazza:
 
 - a) a vad élőhelyének általános jellemzését;
 - b) az egyes vadfajok állományának leírását;
 - c) a vadállomány-szabályozás irányelveit, az egyes vadfajok szerint fenntartandó legkisebb vadlétszámot (törzsállomány), valamint az élőhelyet még nem veszélyeztető legmagasabb vadlétszámot;
-- d) a körzeti trófeabírálat irányelveit;
-- e) a védett természeti területen a természet- és tájvédelmi előírásokat.
+- d) a tájegységi trófeabírálat irányelveit;
+- e) a védett természeti területen a természet- és tájvédelmi előírásokat;
+- f) a hosszú távú természetvédelmi célokat.
 
-(2) A körzeti vadgazdálkodási terv erdőre vonatkozó egyes adatait a körzeti erdőterv alapján kell megállapítani.
+(2) A tájegységi vadgazdálkodási terv erdőre vonatkozó egyes adatait a tájegységi erdőterv alapján kell megállapítani.
 
-(3) A körzeti vadgazdálkodási terv készítése során biztosítani kell, hogy a körzethez tartozó jogosultak a tervet még annak kiadása előtt – a rájuk vonatkozó adatok vonatkozásában – megismerhessék és ahhoz javaslatokat tegyenek. A körzeti vadgazdálkodási tervet az érintett jogosultak véleményének kikérése után kell elkészíteni.
+(3) A tájegységi vadgazdálkodási terv készítése során biztosítani kell, hogy a tájegységhez tartozó vadászatra jogosultak a tervet még annak kiadása előtt – a rájuk vonatkozó adatok vonatkozásában – megismerhessék és ahhoz javaslatokat tegyenek. A tájegységi vadgazdálkodási tervet az érintett vadászatra jogosultak véleményének kikérése után kell elkészíteni.
 
 ### Vadgazdálkodási üzemterv
 
-44. § (1) A vadászati jogot a vadászterületre vonatkozóan a körzeti vadgazdálkodási terv alapján elkészített – e törvény eltérő rendelkezése hiányában – tíz évre szóló vadgazdálkodási üzemterv előírásai szerint lehet gyakorolni vagy hasznosítani.
+44. § (1) A vadászati jogot a vadászterületre vonatkozóan a tájegységi vadgazdálkodási terv alapján elkészített – e törvény eltérő rendelkezése hiányában – tíz évre szóló vadgazdálkodási üzemterv előírásai szerint lehet gyakorolni vagy hasznosítani.
 
-(2) A körzeti vadgazdálkodási terv a vadgazdálkodási üzemterv hatályát az (1) bekezdésben foglaltaknál rövidebb időtartamban is meghatározhatja, feltéve, ha a vadászati jog szakszerű hasznosítása egyébként biztosítható. Amennyiben a vadállomány védelme ezt különösen indokolttá teszi, a körzeti vadgazdálkodási terv a vadgazdálkodási üzemterv érvényességének időtartamát az (1) bekezdésben foglaltakhoz képest legfeljebb három évvel hosszabb időtartamban is előírhatja.
+(2) A körzeti vadgazdálkodási terv a vadgazdálkodási üzemterv hatályát az (1) bekezdésben foglaltaknál rövidebb időtartamban is meghatározhatja, feltéve, ha a vadászati jog szakszerű hasznosítása egyébként biztosítható.
 
 (3) A vadgazdálkodási üzemterv elkészítése során figyelemmel kell lenni a vadászterületen élő vadfajok genetikai értékének megőrzésére, továbbá a vadállomány túlszaporodásából eredő károk megelőzésére.
 
-(4) A jogosult a vadgazdálkodási üzemterv elkészítéséről a körzeti vadgazdálkodási tervnek az adott vadászterületre vonatkozó előírásai szerint köteles gondoskodni.
+(4) A vadászatra jogosult a vadgazdálkodási üzemterv elkészítéséről a tájegységi vadgazdálkodási tervnek az adott vadászterületre vonatkozó előírásai szerint köteles gondoskodni.
 
-(5) A jogosult felel a vadgazdálkodási üzemtervben foglaltak végrehajtásáért.
+(5) A vadászatra jogosult felel a vadgazdálkodási üzemtervben foglaltak végrehajtásáért.
 
 45. § (1) A vadgazdálkodási üzemterv tartalmazza:
 
@@ -574,7 +637,7 @@ kell biztosítani.
 
 (3) Ha a vadgazdálkodási üzemterv elkészítésekor nem ismert a vadállomány, valamint ha az élőhely állapotában bekövetkezett változás ezt indokolja, a vadászati hatóság kérelemre vagy hivatalból a vadgazdálkodási üzemterv módosításáról határoz.
 
-46. § (1) A vadgazdálkodási üzemterv előírásai akkor is hatályban maradnak, ha a jogosult személyében változás következik be. Az új jogosult köteles a vadgazdálkodási üzemtervben foglalt előírások végrehajtásáról gondoskodni.
+46. § (1) A vadgazdálkodási üzemterv előírásai akkor is hatályban maradnak, ha a vadászatra jogosult személyében változás következik be. Az új vadászatra jogosult köteles a vadgazdálkodási üzemtervben foglalt előírások végrehajtásáról gondoskodni.
 
 (2) A vadgazdálkodási üzemterv elkészítésének részletes szabályait a miniszter az e törvény felhatalmazása alapján kiadott rendeletben állapítja meg.
 
@@ -601,9 +664,9 @@ kell biztosítani.
 
 (2) Az Adattár tartalmazza:
 
-- a) a körzeti vadgazdálkodási tervek adatait;
+- a) a tájegységi vadgazdálkodási tervek adatait;
 - b) a vadászterületek azonosítására szolgáló adatokat;
-- c) a jogosultak nevét (cégét), címét (székhelyét);
+- c) a vadászatra jogosultak nevét (cégét), címét (székhelyét);
 - d) a vadgazdálkodási üzemtervek adatait;
 - e) az éves vadgazdálkodási tervek adatait;
 - f) vadfajonként a vadállomány mennyiségében bekövetkezett változásokat;
@@ -668,19 +731,19 @@ kell biztosítani.
 
 56. § (1) Vadászat a vadnak az e törvényben engedélyezett eszközzel, vagy ragadozó madárral és engedélyezett módon vadász által, vadászterületen történő elejtésére, vagy elfogására irányuló tevékenység.
 
-(2) A jogosult a föld tulajdonosának, használójának hozzájárulásával a vadászathoz szükséges létesítményeket állíthat fel.
+(2) A vadászatra jogosult a föld tulajdonosának, használójának hozzájárulásával a vadászathoz szükséges létesítményeket állíthat fel.
 
 (3) A föld használójával előzetesen egyeztetett vadkárelhárító vadászat kivételével tilos vadászni július hónap első napjától a szüret befejezéséig a szőlőültetvény, valamint a gyümölcsös területén.
 
-57. § (1) A jogosult vadászterületén évente az éves vadgazdálkodási tervben meghatározott fajú és darabszámú vadat ejthet, illetőleg foghat el. A vadászati hatóság az éves vadgazdálkodási tervben meghatározott darabszámú, az elejtett vad megjelölésére alkalmas, sorszámmal ellátott azonosítót (a továbbiakban: azonosítójel) bocsát a jogosult részére.
+57. § (1) A vadászatra jogosult vadászterületén évente az éves vadgazdálkodási tervben meghatározott fajú és darabszámú vadat ejthet, illetőleg foghat el. A vadászati hatóság az éves vadgazdálkodási tervben meghatározott darabszámú, az elejtett vad megjelölésére alkalmas, sorszámmal ellátott azonosítót (a továbbiakban: azonosítójel) bocsát a vadászatra jogosult részére.
 
 (2) A vadász a jogosult által rendelkezésére bocsátott azonosítójellel köteles a gímszarvast, a dámszarvast, a muflont, a vaddisznót és az őzet – a vad elejtését, elfogását követően haladéktalanul – megjelölni. A jogosult az azonosítóval ellátott vad feletti rendelkezési jogot csak azt követően szerzi meg, ha a vadász az elejtett vad azonosítójának sorszámát, fácán és nyúl elejtése esetén az elejtett vad darabszámát az egyéni lőjegyzékbe, ragadozó madárral vadászó az egyéni zsákmányjegyzékbe (a továbbiakban együtt: egyéni lőjegyzék) is bevezeti.
 
 (3) A vad jelölésének szabályait a miniszter az e törvény felhatalmazása alapján kiadott rendeletben állapítja meg.
 
-58. § (1) A jogosult – a vadászat formájától függetlenül – köteles a vadászat lefolyásának utólagos ellenőrzésére alkalmas napló (a továbbiakban: vadászati napló) vezetéséről gondoskodni.
+58. § (1) A vadászatra jogosult – a vadászat formájától függetlenül – köteles a vadászat lefolyásának utólagos ellenőrzésére alkalmas napló (a továbbiakban: vadászati napló) vezetéséről gondoskodni.
 
-(2) A jogosult a vadászat befejezését követően köteles az elejtett vadról nyilvántartást vezetni (a továbbiakban: teríték-nyilvántartás).
+(2) A vadászatra jogosult a vadászat befejezését követően köteles az elejtett vadról nyilvántartást vezetni (a továbbiakban: teríték-nyilvántartás).
 
 (3) Az elfogott vad nyilvántartására a teríték-nyilvántartás szabályait kell alkalmazni.
 
@@ -730,7 +793,7 @@ kell biztosítani.
 
 (3)
 
-63. § (1) A vadászati engedély az abban megjelölt jogosult vadászterületén jogosít vadászatra.
+63. § (1) A vadászati engedély az abban megjelölt vadászatra jogosult vadászterületén jogosít vadászatra.
 
 (2) A vadászati engedélyt a vadászati hatóság legfeljebb egy évre állítja ki.
 
@@ -815,11 +878,11 @@ a vadászat alkalmával köteles állandóan magánál tartani, és azt a jogosu
 
 69. § (1) Vadászni csak a törvény által nem tiltott módon és csak a vadászat rendjének megfelelően lehet.
 
-(2) A jogosult felelős a vadászat rendjének megtartásáért. A hatósági vadászaton a vadászat rendjének megtartásáért a vadászati hatóság felel.
+(2) A vadászatra jogosult felelős a vadászat rendjének megtartásáért. A hatósági vadászaton a vadászat rendjének megtartásáért a vadászati hatóság felel.
 
 (3) A vadász saját felelősségére vesz részt a vadászaton, köteles azonban megtartani a vadászat rendjéért felelős által meghatározott szabályokat.
 
-(4) A vadászaton akár a vadász kísérőjeként, akár hajtóként saját felelősségére csak olyan személy vehet részt, akinek vadászaton való részvételéhez a jogosult előzetesen hozzájárult, és akivel a jogosult a vadászat rendjét előzetesen ismertette.
+(4) A vadászaton akár a vadász kísérőjeként, akár hajtóként saját felelősségére csak olyan személy vehet részt, akinek vadászaton való részvételéhez a vadászatra jogosult előzetesen hozzájárult, és akivel a vadászatra jogosult a vadászat rendjét előzetesen ismertette.
 
 (5) A honvédelemért felelős miniszter kezelésében, illetve használatában levő területen csak az illetékes katonai szervvel előzetesen egyeztetett időpontban lehet vadászni.
 
@@ -875,17 +938,17 @@ fényszóróval történő éjszakai vadászatát.
 
 72. § (1) Vadászlőfegyverrel és vadászíjjal lövést leadni csak akkor szabad, ha a vadász a vadat kétséget kizárólag felismerte, és a lövéssel mások életét, testi épségét, illetve a vagyonbiztonságot nem veszélyezteti. A lövés előtt mérlegelni kell a lövedék várható útját és a becsapódás helyét.
 
-(2) Sebzett vagy elejtett vadnak a szomszédos vadászterületen történő kereséséről az érintett jogosultat értesíteni kell. Az érintett jogosult csak különösen indokolt esetben tagadhatja meg a sebzett vagy elejtett vad keresését.
+(2) Sebzett vagy elejtett vadnak a szomszédos vadászterületen történő kereséséről az érintett vadászatra jogosultat értesíteni kell. Az érintett vadászatra jogosult csak különösen indokolt esetben tagadhatja meg a sebzett vagy elejtett vad keresését.
 
 (3)
 
 ### Trófeabírálat
 
-73. § (1) A jogosult legkésőbb a vadfaj vadászati idényét követő harminc napon belül köteles a vadászati hatóságnak trófeabírálat céljából bemutatni a vadászati idényben vadászjeggyel rendelkező vadász által elejtett gímszarvas, dámszarvas, az őz agancsát, valamint a muflon csigáját.
+73. § (1) A vadászatra jogosult legkésőbb a vadfaj vadászati idényét követő harminc napon belül köteles a vadászati hatóságnak trófeabírálat céljából bemutatni a vadászati idényben vadászjeggyel rendelkező vadász által elejtett gímszarvas, dámszarvas, az őz agancsát, valamint a muflon csigáját.
 
 (2) A jogosult köteles a vadászjeggyel rendelkező vadász által a január hónap első napja és augusztus hónap utolsó napja között elejtett vaddisznó tizenhat centiméternél hosszabb agyarát legkésőbb szeptember utolsó napjáig, a szeptember hónap első napja és december hónap utolsó napja között elejtett vaddisznó tizenhat centiméternél hosszabb agyarát pedig legkésőbb a következő év január hónap utolsó napjáig a vadászati hatóságnál trófeabírálat céljából bemutatni.
 
-(3) Amennyiben az (1)–(2) bekezdés szerinti vadat vadászati engedéllyel rendelkező vadász ejti el, a jogosult a vad trófeáját annak elejtésétől számított harminc napon belül trófeabírálat céljából a vadászati hatóságnál köteles bemutatni.
+(3) Amennyiben az (1)–(2) bekezdés szerinti vadat vadászati engedéllyel rendelkező vadász ejti el, a vadászatra jogosult a vad trófeáját annak elejtésétől számított harminc napon belül trófeabírálat céljából a vadászati hatóságnál köteles bemutatni.
 
 (4) A trófeabírálat céljából történő bemutatási kötelezettség kiterjed az (1)–(2) bekezdés szerinti vadfajok elhullott egyedének trófeájára is. Ebben az esetben a jogosult trófeabemutatási kötelezettségének az elhullott vad birtokbavételétől számított harminc napon belül köteles eleget tenni.
 
@@ -893,7 +956,7 @@ fényszóróval történő éjszakai vadászatát.
 
 (6)
 
-74. § (1) A vadászati hatóság csak annak a vadnak a trófeabírálatát végezheti el, amely egyedi azonosítójelének számát a vadászjeggyel vadászó vadász egyéni lőjegyzékébe, valamint a jogosult által vezetett teríték-nyilvántartásba bevezették.
+74. § (1) A vadászati hatóság csak annak a vadnak a trófeabírálatát végezheti el, amely egyedi azonosítójelének számát a vadászjeggyel vadászó vadász egyéni lőjegyzékébe, valamint a vadászatra jogosult által vezetett teríték-nyilvántartásba bevezették.
 
 (2) A vadászati hatóság a trófeabírálat eredményéről a vad elejtője részére hatósági bizonyítványt ad ki. A jogosult – ideértve az elhullott vad trófeáját is – csak a hatósági bizonyítvány birtokában szerezheti meg a trófea feletti rendelkezési jogot.
 
@@ -905,7 +968,7 @@ fényszóróval történő éjszakai vadászatát.
 
 (6) A vadászati hatóság a rendkívüli értékű trófeát nemzeti értékké nyilváníthatja, és egyidejűleg gondoskodik annak elhelyezéséről, bemutatásáról. A nemzeti értékké nyilvánított trófeát megsemmisíteni, feldolgozni, átalakítani tilos, azt az országból csak a vadászati hatóság engedélyével lehet kivinni.
 
-(7) A trófeabírálati eljárásban nem vehet részt olyan személy, aki vadkereskedelemben vagy vadászatszervezésben érdekelt, továbbá olyan vad trófeabírálatában, amelyet olyan jogosult mutat be, amelynél saját maga vagy a Polgári Törvénykönyv szerinti közeli hozzátartozója érdekelt.
+(7) A trófeabírálati eljárásban nem vehet részt olyan személy, aki vadkereskedelemben vagy vadászatszervezésben érdekelt, továbbá olyan vad trófeabírálatában, amelyet olyan vadászatra jogosult mutat be, amelynél saját maga vagy a Polgári Törvénykönyv szerinti közeli hozzátartozója érdekelt.
 
 (8) A trófeabírálat részletes szabályait a miniszter az e törvény felhatalmazása alapján kiadott rendeletben állapítja meg.
 
@@ -921,17 +984,17 @@ fényszóróval történő éjszakai vadászatát.
 
 ### A vadászható állat által okozott kár
 
-75/A. § (1) A jogosult a vadászható állat által okozott kárért való felelősség Polgári Törvénykönyvben foglalt szabályai alapján köteles a mezőgazdálkodáson és erdőgazdálkodáson kívül másnak okozott kárt megtéríteni azzal, hogy a vadászatra jogosult ellenőrzési körén kívül eső oknak a vadászati jog gyakorlásán és a vadgazdálkodási tevékenység folytatásán kívül eső okot kell tekinteni.
+75/A. § (1) A vadászatra jogosult a vadászható állat által okozott kárért való felelősség Polgári Törvénykönyvben foglalt szabályai alapján köteles a mezőgazdálkodáson és erdőgazdálkodáson kívül másnak okozott kárt megtéríteni azzal, hogy a vadászatra vadászatra jogosult ellenőrzési körén kívül eső oknak a vadászati jog gyakorlásán és a vadgazdálkodási tevékenység folytatásán kívül eső okot kell tekinteni.
 
 (2) A vadászható állat által okozott kárért való (1) bekezdés szerinti felelősség és a fokozott veszéllyel járó tevékenységért való felelősség találkozása esetén a Polgári Törvénykönyvnek a veszélyes üzemek találkozására vonatkozó szabályait kell alkalmazni.
 
 ### A vadászati kár
 
-76. § A jogosult köteles a károsultnak megtéríteni a vadászterületen a vadászati jog gyakorlásában részt vevő személyek által a mezőgazdasági terményekben, termesztett növényállományokban a vetéstől a betakarításig, az erdőben, a védett természeti értékekben, a vizek halállományában, a szőlőben, valamint a gyümölcsösben másnak okozott kárt (a továbbiakban: vadászati kár).
+76. § A vadászatra jogosult köteles a károsultnak megtéríteni a vadászterületen a vadászati jog gyakorlásában részt vevő személyek által a mezőgazdasági terményekben, termesztett növényállományokban a vetéstől a betakarításig, az erdőben, a védett természeti értékekben, a vizek halállományában, a szőlőben, valamint a gyümölcsösben másnak okozott kárt (a továbbiakban: vadászati kár).
 
 ### A vad elpusztításával okozott kár
 
-77. § Aki a vad elpusztításával, befogásával, zavarásával, vagy bizonyíthatóan erre irányuló kísérletével a jogosultat a vadászati jog gyakorlásában akadályozza, köteles az ebből eredő kárt megtéríteni.
+77. § Aki a vad elpusztításával, befogásával, zavarásával, vagy bizonyíthatóan erre irányuló kísérletével a vadászatra jogosultat a vadászati jog gyakorlásában akadályozza, köteles az ebből eredő kárt megtéríteni.
 
 ### A kár megelőzése
 
@@ -961,11 +1024,11 @@ fényszóróval történő éjszakai vadászatát.
 
 80. § (1) Ha egyes vadfajok állománya a mezőgazdasági vagy erdőgazdálkodási tevékenység folytatását, az élőhelyen található termékeket, terményeket, a mesterséges vizek halállományát, a vadászterület biológiai életközösségét, valamint a védett természeti területet jelentősen veszélyezteti, kezdeményezhető az adott vadfaj állományának csökkentése.
 
-(2) Az (1) bekezdés szerinti esetben a vadászati hatóság a károsult kérelmére, illetőleg az erdészeti vagy természetvédelmi hatóság kezdeményezésére, vagy hivatalból kötelezi a jogosultat az egyes vadfajok állományának meghatározott határidőn belüli csökkentésére vagy a szükséges védőintézkedések megtételére.
+(2) Az (1) bekezdés szerinti esetben a vadászati hatóság a károsult kérelmére, illetőleg az erdészeti vagy természetvédelmi hatóság kezdeményezésére, vagy hivatalból kötelezi a vadászatra jogosultat az egyes vadfajok állományának meghatározott határidőn belüli csökkentésére vagy a szükséges védőintézkedések megtételére.
 
 (3)
 
-(4) Ha a jogosult az (1) bekezdés szerinti vadállomány-szabályozási kötelezettségének nem, vagy nem a határozatban meghatározott módon tesz eleget, a vadászati hatóság a vadászatra jogosult költségére határozatban hatósági vadászatot rendelhet el. A határozatban meg kell jelölni az elejtendő vad faját, valamint darabszámát.
+(4) Ha a vadászatra jogosult a (2) bekezdés szerinti vadállomány-szabályozási kötelezettségének nem, vagy nem a határozatban meghatározott módon tesz eleget, a vadászati hatóság a vadászatra vadászatra jogosult költségére határozatban hatósági vadászatot rendelhet el. A határozatban meg kell jelölni az elejtendő vad faját, valamint darabszámát.
 
 ### A kár megállapítása
 
@@ -1016,7 +1079,7 @@ VALAMINT A VADVÉDELMI BÍRSÁG
 
 ### A vadgazdálkodási bírság
 
-83. § (1) A vadászati hatóság határozata alapján vadgazdálkodási bírságot köteles fizetni a jogosult akkor, ha
+83. § (1) A vadászati hatóság határozata alapján vadgazdálkodási bírságot köteles fizetni a vadászatra jogosult akkor, ha
 
 - a) az e törvényben, illetve a külön jogszabályban meghatározott adatszolgáltatási kötelezettségének nem tesz eleget;
 - b) az általa vagy hozzájárulásával szervezett vadászaton a vadat a vadászati hatóság engedélye nélkül, vadászati idényen kívül, vadászati tilalom vagy vadászati korlátozás idején ejtik el, vagy fogják be;
@@ -1036,10 +1099,10 @@ VALAMINT A VADVÉDELMI BÍRSÁG
 - c) az (1) bekezdés c) pontja szerinti esetben trófeánként ötvenezer forint,
 - d) az (1) bekezdés d)–h) pontjai szerinti esetekben a cselekmény súlyától függően legalább százezer és legfeljebb kétmillió forint lehet. Ezekben az esetekben a vadgazdálkodási bírság ismételten is kiszabható.
 
-(4) Az (1) bekezdés g) pontja szerint a vadgazdálkodási szabályok megsértésének minősül, ha a jogosult:
+(4) Az (1) bekezdés g) pontja szerint a vadgazdálkodási szabályok megsértésének minősül, ha a vadászatra jogosult:
 
 - a) nem veszi át a vadászati hatóságtól az azonosító jeleket, illetve nem készíti el a felhasználásukra vonatkozó részletes szabályokat, a vadászévre kiadott azonosító jelek felhasználásáról határidőben nem számol el a vadászati hatóságnak, vagy a jogosultság megszűnését követő 15. napig az azonosító jelekkel nem számol el, és a társas, egyéni vadászati naplót, teríték-nyilvántartást, valamint a hivatásos vadász szolgálati naplóját nem adja le a vadászati hatóságnak;
-- b) amennyiben a jogosult személyében, valamint a vadászterület határában az üzemtervi ciklust követően nem történt változás, és az új üzemtervi ciklus megkezdését követő 15. napig nem kéri a társas, illetve egyéni vadászati napló és a teríték-nyilvántartás, valamint a hivatásos vadász szolgálati naplója vadászati hatóságnál történő lezárását és ismételt érvényesítését;
+- b) amennyiben a vadászatra jogosult személyében, valamint a vadászterület határában az üzemtervi ciklust követően nem történt változás, és az új üzemtervi ciklus megkezdését követő 15. napig nem kéri a társas, illetve egyéni vadászati napló és a teríték-nyilvántartás, valamint a hivatásos vadász szolgálati naplója vadászati hatóságnál történő lezárását és ismételt érvényesítését;
 - c) a vadászterületet vadaskert, vadaspark vagy vadfarm létesítése céljából engedély nélkül keríti be, a vadászterületnek nem minősülő területen, vadasparkban vagy vadfarmon tartott nagyvadat vadaskertbe kihelyezi, a hatósági engedéllyel vadaskertbe kihelyezett nagyvad megjelölésére vonatkozó előírásoknak nem tesz eleget, valamint vadászterületnek nem minősülő területről, vadasparkból, vadaskertből vagy vadfarmról származó nagyvadat szabad vadászterületre helyez ki;
 - d) az éves vadgazdálkodási tervtől engedély nélkül eltér;
 - e) a hivatásos vadász alkalmazása során
@@ -1067,7 +1130,7 @@ VALAMINT A VADVÉDELMI BÍRSÁG
 
 (3) Az (1) bekezdés g) és h) pontjai szerinti esetben a vadvédelmi bírság mértéke esetenként és a cselekmény súlyától függően legalább ötvenezer és legfeljebb egymillió forint lehet.
 
-(4) A törvény alkalmazásában jogosulatlan vadászatnak minősül a 64. § (1) bekezdésében felsorolt igazolások hiányában történő, továbbá a jogosult hozzájárulása nélküli vadászat, valamint az, ha a vadász az általa elejtett vadat e törvénynek megfelelően nem jelöli meg.
+(4) A törvény alkalmazásában jogosulatlan vadászatnak minősül a 64. § (1) bekezdésében felsorolt igazolások hiányában történő, továbbá a vadászatra jogosult hozzájárulása nélküli vadászat, valamint az, ha a vadász az általa elejtett vadat e törvénynek megfelelően nem jelöli meg.
 
 85. § (1) A vadgazdálkodási, illetve a vadvédelmi bírságot (a továbbiakban együtt: bírság) a külön jogszabályban meghatározott számlára kell befizetni.
 
@@ -1087,7 +1150,7 @@ VALAMINT A VADVÉDELMI BÍRSÁG
 
 (2)–(3)
 
-(4) A kizárás szabályait kell alkalmazni a vadászati, az erdészeti, valamint a természetvédelmi hatósági feladatokat ellátó köztisztviselővel szemben, aki olyan jogosult hatósági ügyében jár el, melynél akár tagként (érdekeltként), akár vendégvadászként vadászik, továbbá a trófeabírálati eljárásban részt vevő személynél, ha e személy a jogosultnál mint vadász érdekelt, vagy ha a Polgári Törvénykönyv szerinti közeli hozzátartozója által elejtett trófea bírálatát kellene elvégezni.
+(4) A kizárás szabályait kell alkalmazni a vadászati, az erdészeti, valamint a természetvédelmi hatósági feladatokat ellátó köztisztviselővel szemben, aki olyan vadászatra jogosult hatósági ügyében jár el, melynél akár tagként (érdekeltként), akár vendégvadászként vadászik, továbbá a trófeabírálati eljárásban részt vevő személynél, ha e személy a vadászatra jogosultnál mint vadász érdekelt, vagy ha a Polgári Törvénykönyv szerinti közeli hozzátartozója által elejtett trófea bírálatát kellene elvégezni.
 
 88. § A vadászati hatóságnak
 
@@ -1144,14 +1207,14 @@ során közigazgatási eljárásban hozott döntése ellen közigazgatási eljá
 
 92. § (1) A miniszter a vadászati igazgatással összefüggő egyes szervezési feladatait a vadászati hatóság útján látja el. A vadászati hatóság:
 
-- a) nyilvántartást vezet a vadászterületekről, a jogosult nevéről (cégéről), címéről (székhelyéről), valamint a vadászati jog haszonbérleti szerződésekről;
+- a) nyilvántartást vezet a vadászterületekről, a vadászatra jogosult nevéről (cégéről), címéről (székhelyéről), valamint a vadászati jog haszonbérleti szerződésekről;
 - b) a kamara bevonásával gondoskodik a vadászvizsga megszervezéséről;
 - c) nyilvántartást vezet a hivatásos vadászokról;
 - d) a vadászati jog gyakorlásával, hasznosításával összefüggésben statisztikai adatokat gyűjt, illetve szolgáltat;
 - e) összeállítja és közzéteszi a vadkárbecslői szakértői névsort;
 - f) ellátja az állami támogatásokkal kapcsolatos külön jogszabályban írt feladatokat.
 - g) nyilvántartást vezet a vadgazdálkodási tervezésre jogosult szakértőkről;
-- h) nyilvántartást vezet a földtulajdonosok vadászati közösségének képviselőjéről.
+- h) nyilvántartást vezet a tulajdonosi közösség képviselőjéről.
 
 (2) Az (1) bekezdés a), c), e), g) és h) pontjában szereplő nyilvántartás tartalmazza
 
@@ -1204,17 +1267,56 @@ során közigazgatási eljárásban hozott döntése ellen közigazgatási eljá
 
 100. § (1) Felhatalmazást kap a miniszter, hogy
 
-- a) a természetvédelemért felelős miniszterrel egyetértésben rendeletben szabályozza 1. a vadászható állatfajok körét, valamint a közösségi jelentőségű vadászható vadfajok körét, 2. a vadászati idényt, 3. a vízivad vadászata rendjének szabályait, az ólomsörét használatának tilalma alá eső vizes területeket, 4. a körzeti vadgazdálkodási terv védett természeti területekre vonatkozó kötelező előírásait;
+- a) a természetvédelemért felelős miniszterrel egyetértésben rendeletben szabályozza 1. a vadászható állatfajok körét, valamint a közösségi jelentőségű vadászható vadfajok körét, 2. a vadászati idényt, 3. a vízivad vadászata rendjének szabályait, az ólomsörét használatának tilalma alá eső vizes területeket, 4. a tájegységi vadgazdálkodási terv védett természeti területekre vonatkozó előírásait;
 - b) az adópolitikáért felelős miniszterrel egyetértésben rendeletben szabályozza az e törvény hatálya alá tartozó eljárásokért fizetendő igazgatási szolgáltatási díjak mértékét;
-- c) rendeletben szabályozza 1. a vadászati és vadgazdálkodási rendeltetésű létesítményekre és berendezésekre vonatkozó szabályokat, 2. a vadgazdálkodási üzemtervre, illetve az éves vadgazdálkodási tervre vonatkozó szabályokat, valamint a körzeti vadgazdálkodási terv védett természeti területekre nem vonatkozó kötelező előírásait, 3. a hivatásos vadász esküjének szövegét, a szolgálati jelvényének és a szolgálati naplójának mintáját, továbbá annak vezetési szabályait, 4. a vadjelölési szabályokat, 5. a vadászati napló és teríték-nyilvántartás vezetésének szabályait, 6. a vadászjegyre, az egyéni lőjegyzékre és a vadászati engedélyre vonatkozó szabályokat, 7. a vadászkutya fajtacsoport tenyésztésének, nyilvántartásának, teljesítményvizsgálatának és használatának, valamint vizsgáztatásának szabályait, 8. a vadkár, vadászati kár, valamint vadban okozott kár megállapításának szabályait, 9. a vadászvizsgát megelőző tanfolyam szabályait, szervezésének feltételeit, a vadászvizsga tartalmát és szabályait, valamint a vizsgaszabályzatot, 10. az egyes vadfajok vadászatának formáját, 11. a vadászat rendjének általános szabályait, valamint a nem vízivad vadfajok vadászata rendjének szabályait, 12. a trófeabírálat szabályait, 13. az e törvény hatálya alá tartozó eljárásokért fizetendő igazgatási szolgáltatási díjak megfizetésével kapcsolatos eljárási szabályokat, valamint az igazgatási szolgáltatási díjak felhasználásának szabályait, 14. a vad elejtésével kapcsolatos szabályokat, 15. a vad, vadhús felvásárlása, feldolgozása, forgalomba hozatala során vezetett nyilvántartásra vonatkozó szabályokat, 16. a vadászterület határa megállapításának szabályait, 17. a vadászterületek és a vadászatra jogosultak nyilvántartásának szabályait, 18. az önálló és a társult vadászati jog gyakorlásának szabályait, 19. a bérvadászat szabályait, 20. a vadaskert, vadaspark és a vadfarm létesítésének szabályait, 21. a hatósági vadászat szabályait, 22. a vadvédelmi és vadászati célú kerítés létesítésének szabályait, 23. a mesterséges vadtenyésztés, továbbá a vad befogásának szabályait, 24. a hivatásos vadász alkalmazásának, tevékenységének és nyilvántartásának szabályait, 25. a vadászati jog gyakorlásának, hasznosításának módjáról és feltételeiről szóló működési szabályzatra vonatkozó szabályokat, 26. a vadgazdálkodási-vadászati, valamint vadhúsvizsgálói képzettségekre, képesítésekre vonatkozó szabályokat, 27. a vadászati hatóság eljárására vonatkozó szabályokat, 28. 29. az Országos Vadgazdálkodási Adattárból történő adatszolgáltatás módját, 30. az e törvény szerinti szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket, 31. a vadgazdálkodási és a vadvédelmi bírság befizetésének rendjét, 32. a hivatásos vadász szolgálati igazolványára és szolgálati jelvényére vonatkozó szabályokat.
+- c) rendeletben szabályozza 1. a vadászati és vadgazdálkodási rendeltetésű létesítményekre és berendezésekre vonatkozó szabályokat, 2. a vadgazdálkodási üzemtervre, illetve az éves vadgazdálkodási tervre vonatkozó szabályokat, továbbá a tájegységi vadgazdálkodási terv nem védett természeti területekre vonatkozó előírásait, 3. a hivatásos vadász esküjének szövegét, a szolgálati jelvényének és a szolgálati naplójának mintáját, továbbá annak vezetési szabályait, 4. a vadjelölési szabályokat, 5. a vadászati napló és teríték-nyilvántartás vezetésének szabályait, 6. a vadászjegyre, az egyéni lőjegyzékre és a vadászati engedélyre vonatkozó szabályokat, 7. a vadászkutya használatának, valamint vizsgáztatásának szabályait, 8. a vadkár, vadászati kár, valamint vadban okozott kár megállapításának szabályait, 9. a vadászvizsgát megelőző tanfolyam szabályait, szervezésének feltételeit, a vadászvizsga tartalmát és szabályait, valamint a vizsgaszabályzatot, 10. az egyes vadfajok vadászatának formáját, 11. a vadászat rendjének általános szabályait, valamint a nem vízivad vadfajok vadászata rendjének szabályait, 12. a trófeabírálat szabályait, 13. az e törvény hatálya alá tartozó eljárásokért fizetendő igazgatási szolgáltatási díjak megfizetésével kapcsolatos eljárási szabályokat, valamint az igazgatási szolgáltatási díjak felhasználásának szabályait, 14. a vad elejtésével kapcsolatos szabályokat, 15. a vad, vadhús felvásárlása, feldolgozása, forgalomba hozatala során vezetett nyilvántartásra vonatkozó szabályokat, 16. a vadászterület kialakításának, valamint határa megállapításának részletes szabályait, 17. a vadászterületek és a vadászatra jogosultak nyilvántartásának szabályait, 18. az önálló és a társult vadászati jog gyakorlásának szabályait, 19. a bérvadászat szabályait, 20. a vadaskert, vadaspark és a vadfarm létesítésének szabályait, 21. a hatósági vadászat szabályait, 22. a vadvédelmi és vadászati célú kerítés létesítésének szabályait, 23. a mesterséges vadtenyésztés, továbbá a vad befogásának szabályait, 24. a hivatásos vadász alkalmazásának, tevékenységének, nyilvántartásának és kötelező felszerelésének szabályait, 25. a vadászati jog gyakorlásának, hasznosításának módjáról és feltételeiről szóló működési szabályzatra vonatkozó szabályokat, 26. a vadgazdálkodási-vadászati, valamint vadhúsvizsgálói képzettségekre, képesítésekre vonatkozó szabályokat, 27. a vadászati hatóság eljárására vonatkozó szabályokat, 28. 29. az Országos Vadgazdálkodási Adattárból történő adatszolgáltatás módját, 30. az e törvény szerinti szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket, 31. a vadgazdálkodási és a vadvédelmi bírság befizetésének rendjét, 32. a hivatásos vadász szolgálati igazolványára és szolgálati jelvényére vonatkozó szabályokat, 33. a földhasználót érintő fokozott közreműködéssel járó eseteket, és az ilyenkor követendő eljárást, 34. az egyes növénykultúrákban keletkezett vadkárra vonatkozó bejelentési időszakokat és határidőket, 35. a tájegységi fővadász működésével és szakmai irányításával kapcsolatos feladatokat, 36. a trófeabírálat részletes szabályait, 37. a védett természeti területet, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területet, továbbá az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény hatálya alá tartozó területeket kivéve a vadászterületen a vad mozgását befolyásoló tartós telepítésű kerítés létesítésének feltételeit, 38. a vadászati hatósági feladatokat ellátó személyek egyenruházatára, szolgálati felszerelésére, jelvényére és igazolványára vonatkozó részletes szabályokat.
+
+(1a) Felhatalmazást kap a miniszter, hogy rendeletben jelölje ki a vadgazdálkodási tájegységeket.
 
 (2) Felhatalmazást kap a Kormány arra, hogy a vadászati hatóságot vagy hatóságokat rendeletben jelölje ki.
 
 ### Az Európai Unió jogának való megfelelés
 
-101. § Ez a törvény a következő uniós jogi aktusnak való megfelelést szolgálja:
+101. § Ez a törvény
 
-- a) a Tanács 79/409/EGK irányelve (1979. április 2.) a vadon élő madarak védelméről (több más jogszabállyal együtt);
-- b) a Tanács 92/43/EGK irányelve (1992. május 21.) a természetes élőhelyek, valamint a vadon élő állatok és növények védelméről, 2. cikk, 6. cikk (1)–(2) bekezdés, 11. cikk, 12. cikk, 14. cikk, 15. cikk, 16. cikk és VI. számú melléklet.
+- a) a vadon élő madarak védelméről szóló, 2009. november 30-i 2009/147/EK európai parlamenti és tanácsi irányelv 5., 6., 7. és 9. cikkének, II. melléklet B. részének és III. melléklet B. részének;
+- b) a természetes élőhelyek, valamint a vadon élő állatok és növények védelméről szóló, 1992. május 21-i 92/43/EGK tanácsi irányelv 2. cikkének, 6. cikk (1)–(2) bekezdésének, 11. cikkének, 12. cikkének, 14. cikkének, 15. cikkének, 16. cikkének, V. és VI. számú mellékletének, valamint az azokat módosító
+  - ba) a természetes élőhelyek, valamint a vadon élő állatok és növények védelméről szóló 92/43/EGK irányelv műszaki és tudományos fejlődéshez történő hozzáigazításáról szóló, 1997. október 27-i 97/62/EK tanácsi irányelvnek,
+  - bb) az Osztrák Köztársaság, a Finn Köztársaság és a Svéd Királyság csatlakozási feltételeiről és a szerződések kiigazításáról szóló okmánynak,
+  - bc) a Cseh Köztársaság, az Észt Köztársaság, a Ciprusi Köztársaság, a Lett Köztársaság, a Litván Köztársaság, a Magyar Köztársaság, a Máltai Köztársaság, a Lengyel Köztársaság, a Szlovén Köztársaság és a Szlovák Köztársaság csatlakozásának feltételeiről, valamint az Európai Unió alapját képező szerződések kiigazításáról szóló okmánynak;
+- c) a környezetvédelem területén elfogadott 79/409/EGK, 92/43/EGK, 97/68/EK, 2001/80/EK és 2001/81/EK irányelveknek Bulgária és Románia csatlakozására tekintettel történő kiigazításáról szóló, 2006. november 20-i 2006/105/EK tanácsi irányelvnek;
+- d) a környezetvédelem területén elfogadott egyes irányelveknek a Horvát Köztársaság csatlakozására tekintettel történő kiigazításáról szóló, 2013. május 13-i 2013/17/EU tanácsi irányelv 2. cikkének
 
-102. § E törvény 30. § (1) bekezdése és 67. § (3) bekezdése a lábfogó csapóvasak Közösségen belüli használatának tilalmáról, valamint a lábfogó csapóvassal, vagy a kíméletes csapdázási szabványoknak nem megfelelő módszerekkel való elejtést alkalmazó országokból származó egyes vadon élő állatfajok prémjének és belőlük előállított árunak a Közösségbe történő behozatala tilalmáról szóló, 3254/1991/EGK tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+való megfelelést szolgálja.
+
+102. § E törvény 37/B. § (1) bekezdése és 67. § (1) és (3) bekezdése a lábfogó csapóvasak Közösségen belüli használatának tilalmáról, valamint a lábfogó csapóvassal, vagy a kíméletes csapdázási szabványoknak nem megfelelő módszerekkel való elejtést alkalmazó országokból származó egyes vadon élő állatfajok prémjének és belőlük előállított árunak a Közösségbe történő behozatala tilalmáról szóló, 1991. november 4-i 3254/91/EGK tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+
+103. § E törvény 27/A–27/F. §-a a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+### Átmeneti rendelkezések
+
+104. § (1) A 15. § (3) bekezdésében foglalt rendelkezéseket első alkalommal a 2018. március 1-jén kezdődő vadászati év tekintetében kell alkalmazni.
+
+(2) A vad védelmével, a vadgazdálkodással, valamint a vadászattal összefüggő egyes törvények módosításáról szóló 2015. évi CLXXXIII. törvény (a továbbiakban: Módtv.) hatálybalépése előtt jóváhagyott körzeti vadgazdálkodási terv 2017. február 28-ig szóló hosszú távú vadgazdálkodási előírás, amely alapján a Módtv. hatálybalépése előtt jóváhagyott vadgazdálkodási üzemterv a vadászati hatóság határozatában megállapított időpontig, a Módtv. hatálybalépése után módosított vagy jóváhagyott vadgazdálkodási üzemterv legfeljebb 2017. február 28-ig hatályos, amely szerint a vadászatra jogosult köteles a vadgazdálkodási tevékenységét végezni.
+
+105. § (1) Tájegységi vadgazdálkodási tervet első alkalommal a 2017. március 1-jével kezdődő húsz évre szóló vadgazdálkodási időszakra kell elkészíteni.
+
+(2) A 2017. március 1-jétől hatályos vadgazdálkodási üzemtervet a tájegységi vadgazdálkodási terv alapján kell elkészíteni.
+
+(3) A 2017. március 1-jén kezdődő vadászati évre vonatkozó éves vadgazdálkodási tervet a tájegységi vadgazdálkodási terv alapján kell elkészíteni.
+
+106. § A 2009. május 15. előtt engedélyezett zárttéri vadtartás, és az 1997. augusztus 31. előtt engedélyezett vadaskert esetében a vadászatra jogosultnak a 27/C. § (4) bekezdésében, és a 27/D. § (2) bekezdés a)–d) pontjában előírt engedélyt a Módtv. hatálybalépésétől számított három éven belül meg kell szereznie a vadászati hatóságtól, illetve ez időpontig a Módtv. által a vadfarmra és a vadaskertre előírt feltételeket teljesítenie kell. Az e bekezdésben előírtaknak nem megfelelő vadfarm és vadaskert nem üzemeltethető.
+
+107. § A Módtv. hatálybalépését követően megállapított vadászterület tekintetében a vadászati jog haszonbérlője lehet a 16. § (1) bekezdésben meghatározottakon túl az a gazdasági társaság is, amely a Módtv. hatálybalépésekor a Módtv. hatálybalépése előtt megállapított vadászterület tekintetében a vadászterület használatára jogosult.
+
+108. § (1) A Módtv. hatálybalépése előtt létrejött, a vadászati jog haszonbérletére vonatkozó szerződés időbeli hatályának lejárta előtt, a Módtv. hatálybalépését követően kialakított vadászterület tulajdonosi közössége a vadászatterület kialakítását követő első tulajdonosi gyűlésén dönthet a 16. § (4) bekezdésében meghatározott előhaszonbérleti jog gyakorlásának kizárásáról.
+
+(2) A 16. § (4) bekezdésében meghatározott előhaszonbérleti jog gyakorlásának kizárásáról szóló döntéshez a Módtv. hatálybalépését követően kialakított vadászterület földtulajdonosai tulajdonában álló földterület – ideértve a medret is – tulajdoni hányad arányában számított szavazattöbbsége szükséges.
+
+(3) Az előhaszonbérleti jog gyakorlására jogosult személy az (1) bekezdésben meghatározott tulajdonosi gyűlésen jogosult részt venni és a tulajdonosi közösség (1) bekezdésben meghatározott döntését megelőzően a tulajdonosi közösség részére az előző üzemtervi időszakban folytatott vadgazdálkodási tevékenységéről tájékoztatást adni.
+
+(4) A tulajdonosi közösség a 16. § (4) bekezdésében meghatározott előhaszonbérleti jog gyakorlásának kizárásáról szóló döntéssel egyidejűleg dönthet az új haszonbérlő személyéről.
+
+(5) Az (1) bekezdésben meghatározott döntés érvényességét az előhaszonbérleti jog gyakorlására jogosult személynek az (1) bekezdésben meghatározott tulajdonosi gyűlésről való távolmaradása nem érinti.
+
+109. § A vadkár alapot első alkalommal 2018. november 1-jével kell képezni.

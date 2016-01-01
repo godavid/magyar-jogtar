@@ -440,13 +440,13 @@ az Országos Területrendezési Tervről
 
 területi elhelyezésére vonatkozó területrendezési hatósági eljárás részletes szabályait.”
 
-31/A. § (1) E törvénynek az egyes törvények területrendezéssel összefüggő módosításáról szóló 2013. évi CCXXIX. törvénnyel (a továbbiakban: MTv.) megállapított rendelkezéseivel a megyei területrendezési terveket 2015. december 31-ig összhangba kell hozni.
+31/A. § (1) E törvénynek az egyes törvények területrendezéssel összefüggő módosításáról szóló 2013. évi CCXXIX. törvénnyel (a továbbiakban: MTv.) megállapított rendelkezéseivel a megyei területrendezési terveket 2017. december 31-ig összhangba kell hozni.
 
 (2) E törvénynek az MTv.-vel megállapított 1/1–11. mellékletét a hatálybalépést követően indult államigazgatási ügyekben alkalmazni kell.
 
 31/B. § A kiemelt térségi és a megyei területrendezési terveknek az e törvénnyel való összhangba hozataláig a településrendezési eszközök készítésénél, módosításánál az alábbi átmeneti rendelkezéseket kell alkalmazni:
 
-- a) az Országos Szerkezeti Terv által kijelölt országos jelentőségű műszaki infrastruktúra-hálózatokat az e törvénynek az MTv.-vel megállapított 1/1–11. melléklete, 9. § (7) bekezdése, valamint 10. §-a előírásainak alkalmazásával kell kijelölni,
+- a) az Országos Szerkezeti Terv által kijelölt országos jelentőségű műszaki infrastruktúra-hálózatokat és egyedi építményeket az e törvénynek az MTv.-vel megállapított 1/1–11. melléklete, 9. § (7) bekezdése, és 10. §-a előírásainak alkalmazásával, valamint az Országos Szerkezeti Tervben meghatározott térbeli rend figyelembevételével kell kijelölni; az e törvénynek az MTv.-vel megállapított 1/1–11. mellékletében nem szereplő országos jelentőségű műszaki infrastruktúra-hálózatokat és egyedi építményeket az Országos Szerkezeti Terv által meghatározott térbeli rend figyelembevételével kell kijelölni,
 - b) a megyei területrendezési tervben megállapított térségi területfelhasználási kategóriákon belül az e törvénynek az MTv.-vel megállapított 6. § (2) bekezdésének előírásait kell alkalmazni,
 - c) a Budapesti Agglomeráció Területrendezési Tervéről szóló 2005. évi LXIV. törvényben (a továbbiakban: BATrT.) megállapított térségi területfelhasználási kategóriákon belül
   - ca) a cb) alpont kivételével a BATrT. térségi területfelhasználási kategóriákra vonatkozó előírásait,

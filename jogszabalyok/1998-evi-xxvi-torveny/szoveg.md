@@ -242,7 +242,9 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 
 (4) Ha a fogyatékossági támogatásra irányuló kérelmet azért utasították el, mert a kérelmező ügyfél nem súlyosan fogyatékos, az elutasító határozat jogerőre emelkedését követő egy éven belül előterjesztett újabb fogyatékossági támogatás megállapítására irányuló kérelemre a bizonyítási eljárást csak abban az esetben kell lefolytatni, ha az orvos igazolja, hogy az igénylő állapota az elutasítás óta rosszabbodott; egyébként – a jogszabályváltozás esetét kivéve – a kérelmet érdemi vizsgálat nélkül el kell utasítani.
 
-23/C. § A fővárosi és megyei kormányhivatal az eljárásában a súlyosan fogyatékos állapotot szakkérdésként vizsgálja.
+23/C. § (1) A fővárosi és megyei kormányhivatal az eljárásában a súlyosan fogyatékos állapotot szakkérdésként vizsgálja.
+
+(2) Ha a kérelmező súlyos fogyatékosságát a rehabilitációs szakértői szerv vagy jogelődjének hatályos határozata, szakhatósági állásfoglalása vagy szakvéleménye korábban nem állapította meg, az elsőfokú eljárásban az ügyintézési határidő negyven nap.
 
 23/D. § (1)
 

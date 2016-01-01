@@ -898,7 +898,7 @@ kulturális javakat.
 
 (4) Ha a kérelem nem tartalmazza a (2) és (3) bekezdésben foglaltakat, a Kiemelt Nemzeti Emlékhely Bizottság a kérelmezőt tizenöt napon belül hiánypótlásra hívja fel. Ha a kérelmező a hiánypótlásnak nem tesz eleget vagy azt nem megfelelően teljesíti, a Kiemelt Nemzeti Emlékhely Bizottság a kérelmet érdemi vizsgálat nélkül elutasítja.
 
-(5) A Kiemelt Nemzeti Emlékhely Bizottság a kérelmet annak beérkezésétől számított kilencven napon belül bírálja el. E határidő – indokolt esetben – egyszer harminc nappal meghosszabbítható.
+(5) A Kiemelt Nemzeti Emlékhely Bizottság a kérelmet annak beérkezésétől számított kilencven napon belül bírálja el.
 
 (6) Ha a kérelmező közigazgatási hatósági engedélyhez kötött, 61/I. § (4) bekezdése szerinti tevékenységet a Kiemelt Nemzeti Emlékhely Bizottság előzetes hozzájárulása nélkül kezdte meg, az ügy eldöntésére hatáskörrel rendelkező hatóság a tevékenység gyakorlását azonnali hatállyal megtiltja. Az eljáró hatóság e határozatát csak akkor helyezheti hatályon kívül, ha a kérelmező a Kiemelt Nemzeti Emlékhely Bizottságtól a hozzájárulást utólag beszerezte.
 
@@ -1068,18 +1068,7 @@ központi, közhiteles nyilvántartását, amely tartalmazza az a)–e) pontban 
 
 ### A hatósági eljárások szabályai
 
-75. § (1)
-
-(2)
-
-(3) Az ügyintézési határidő:
-
-- a) ha a hatóság kulturális javak védetté nyilvánításában vagy védettségének megszüntetésében jár el, három hónap;
-- b)
-- c)
-- d)
-- e)
-- f) a hiánypótlási felhívás és a hatósági bizonyítvány kiadása esetén tizenöt nap.
+75. § Az ügyintézési határidő kulturális javak védetté nyilvánítása vagy védettségének megszüntetése iránti eljárásban hetven nap.
 
 75/A. § (1) Ha jogszabály az örökségvédelemmel kapcsolatos szakkérdésben szakértő igénybevételét írja elő, szakértőként kizárólag az a személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak annak a szakértőnek az igénybevételéhez fűződnek, aki büntetlen előéletű, nem áll az örökségvédelemmel kapcsolatos szakterületen végezhető tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, rendelkezik a jogszabályban meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
 
@@ -1216,9 +1205,7 @@ központi, közhiteles nyilvántartását, amely tartalmazza az a)–e) pontban 
 
 (2) A 2015. december 31. napján a III. bírságkategóriába sorolt műemlékek 2016. január 1-jétől nyilvántartott műemléki értéknek minősülnek, a műemléki környezetük és az államot megillető elővásárlási jog megszűnik.
 
-(3) A (2) bekezdés alapján nyilvántartott műemléki értékké minősülő műemlékek esetében a 28/A. § (2) bekezdését nem kell alkalmazni.
-
-(4) 2015. december 31-ig a III. bírságkategóriába sorolt műemlékek tekintetében a műemlékekre vonatkozó szabályokat kell alkalmazni.
+(3)–(4)
 
 (5) A 2015. január 1-jét megelőzően védetté nyilvánított műemlékek esetében az I. örökségvédelmi bírságkategóriába tartozó műemlékek I. kategóriába sorolt műemléknek, míg a II. örökségvédelmi bírságkategóriába tartozó műemlékek II. kategóriába sorolt műemléknek minősülnek.
 

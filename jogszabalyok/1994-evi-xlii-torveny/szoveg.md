@@ -12,7 +12,7 @@ Az Országgyűlés a Magyar Export-Import Bank Részvénytársaságról és a Ma
 
 (2) Az Eximbankban és a Mehib Rt.-ben az állam tulajdonában álló társasági részesedések feletti tulajdonosi (részvényesi) jogok gyakorlására a külgazdasági ügyekért felelős miniszter (a továbbiakban: miniszter) jogosult.
 
-(3) Az Eximbankra és az általa végzett tevékenységre a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvényt (a továbbiakban: Hpt.) és a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényt (a továbbiakban: Bszt.) az e törvényben foglalt eltérésekkel kell alkalmazni. A Mehib Rt. által végzett piacképes kockázatú biztosítási tevékenységére a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvényt (a továbbiakban: Bit.) az e törvényben foglalt eltérésekkel kell alkalmazni. Amennyiben a Mehib Rt. a 3. § (1) bekezdésében meghatározott piacképes kockázatú biztosítási, illetve viszontbiztosítási tevékenységet is végez, úgy tevékenységét az e törvényben meghatározott valamennyi tevékenységet érintő összevont szervezet keretében is végezheti, azzal, hogy a Bit.-ben nevesített egyes feladatkörök ellátása az összevont szervezet keretében is megvalósul.
+(3) Az Eximbankra és az általa végzett tevékenységre a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvényt (a továbbiakban: Hpt.) és a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényt (a továbbiakban: Bszt.) az e törvényben foglalt eltérésekkel kell alkalmazni. A Mehib Rt. által végzett piacképes kockázatú biztosítási tevékenységére a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvényt (a továbbiakban: Bit.) az e törvényben foglalt eltérésekkel kell alkalmazni. Amennyiben a Mehib Rt. a 3. § (1) bekezdésében meghatározott piacképes kockázatú biztosítási, illetve viszontbiztosítási tevékenységet is végez, úgy tevékenységét az e törvényben meghatározott valamennyi tevékenységet érintő összevont szervezet keretében is végezheti, azzal, hogy a Bit.-ben nevesített egyes feladatkörök ellátása az összevont szervezet keretében is megvalósul.
 
 (4) Az Eximbankra és a Mehib Rt.-re a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) jogi személyekre vonatkozó rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
@@ -216,9 +216,9 @@ eredő fizetési kötelezettségek teljesítéséért.
 
 (2) Az igazgatóság és a felügyelőbizottság tagja, valamint a vezérigazgató párt nevében vagy érdekében nyilvános közszerepléssel járó tevékenységet nem folytathat.
 
-18. § (1) A Hpt. 137. § (1) bekezdésében és a Bit. 83. §-ában meghatározott felügyeleti engedély nem szükséges az Eximbank és a Mehib Rt. vezető állású személyének megválasztásához vagy kinevezéséhez.
+18. § (1) A Hpt. 137. § (1) bekezdésében és a Bit. 53. §-ában meghatározott felügyeleti engedély nem szükséges az Eximbank és a Mehib Rt. vezető állású személyének megválasztásához vagy kinevezéséhez.
 
-(2) A Hpt. 137. §-ától és 155. §-ától, valamint a Bit. 83. és 91. §-ától eltérően az Eximbank vagy a Mehib Rt. vezető állású személyének választható meg vagy nevezhető ki az a személy, aki
+(2) A Hpt. 137. §-ától és 155. §-ától, valamint a Bit. 53. § (4)–(5) bekezdésétől, az 54. §-ától és a 69. §-ától eltérően az Eximbank vagy a Mehib Rt. vezető állású személyének választható meg vagy nevezhető ki az a személy, aki
 
 - a) büntetlen előéletű,
 - b) rendelkezik legalább tizenkét hónap – banki, biztosítási területen vagy a vállalati gazdálkodás vagy a közigazgatás pénzügyi vagy gazdasági területén szerzett – vezetői gyakorlattal,
@@ -312,13 +312,13 @@ szerzett.
 
 25. § (1) A Mehib Rt. állam készfizető kezessége mellett végzett tevékenységére a Bit. és a viszontbiztosítókról szóló 2007. évi CLIX. törvény rendelkezéseit nem kell alkalmazni.
 
-(2) A Ptk. 2:47. § (1) bekezdésében meghatározott üzleti titok és a Bit.-ben meghatározott biztosítási titok megtartására vonatkozó kötelezettség nem terjed ki – a Bit. 157. § (1) bekezdésében meghatározott szerveken túlmenően – a miniszter által vezetett minisztérium és az államháztartásért felelős miniszter által vezetett minisztérium részére adott adatszolgáltatásra, valamint az Eximbank részére továbbított adatokra sem.
+(2) A Ptk. 2:47. § (1) bekezdésében meghatározott üzleti titok és a Bit.-ben meghatározott biztosítási titok megtartására vonatkozó kötelezettség nem terjed ki – a Bit. 138. § (1) bekezdésében meghatározott szerveken túlmenően – a miniszter által vezetett minisztérium és az államháztartásért felelős miniszter által vezetett minisztérium részére adott adatszolgáltatásra, valamint az Eximbank részére továbbított adatokra sem.
 
 (3) A Mehib Rt. kölcsönt csak biztosítási tevékenységéhez kapcsolódóan és az államháztartásért felelős miniszter előzetes hozzájárulásával vehet fel.
 
 (4)
 
-(5) A Mehib Rt. vezető állású személyeire az Eximbankkal megkötendő szerződések esetében a Bit. 116. § (1) bekezdésnek döntéshozatalban való részvételt tiltó rendelkezése nem alkalmazandó.
+(5) A Mehib Rt. vezető állású személyeire az Eximbankkal megkötendő szerződések esetében a Bit. 74. §-ának döntéshozatalban való részvételt tiltó rendelkezése nem alkalmazandó.
 
 ### VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

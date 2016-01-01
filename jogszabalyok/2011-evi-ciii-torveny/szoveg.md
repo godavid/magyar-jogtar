@@ -35,6 +35,7 @@ Előrecsomagolt terméknek minősül az az a)–c) pontokban foglalt feltételek
 - 16. gyógynövény: az a növény, melynek valamely szervét, gyökerét, levelét, virágját, termését vagy bármely más részét a benne lévő hatóanyaga miatt a gyógyászatban alkalmazzák,
 - 17. méz: az Apis mellifera méhek által a növényi nektárból vagy élőnövényi részek nedvéből, illetve növényi nedveket szívó rovarok által az élő növényi részek kiválasztott anyagából gyűjtött természetes édes anyag, amelyet a méhek begyűjtenek, saját anyagaik hozzáadásával átalakítanak, raktároznak, dehidrálnak és lépekben érlelnek,
 - 18. gyümölcspárlat: a szeszes italok meghatározásáról, megnevezéséről, kiszereléséről, címkézéséről és földrajzi árujelzőinek oltalmáról, valamint az 1576/89/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2008. január 15-i 110/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: EK rendelet) II. számú melléklete 6. vagy 9. kategóriája szerint készített, EK rendelet szerinti szeszes ital.
+- 19. Egészségmegőrző program: az adóalany – erőforrás-kiáramlással (költségekkel) járó – vagy a népegészségügyi szerv egészséges étkezésre, életmódra, a sportolás elősegítésére, ösztönzésére irányuló minden olyan tevékenysége, akciója, programja, amely bármely magánszemély által, ingyenesen elérhető.
 
 #### 2. Az adókötelezettség
 
@@ -129,6 +130,8 @@ a 10. § (2) és (3) bekezdése szerinti bevallási időszakra (a továbbiakban:
 
 (3) Ha az adómegállapítási időszakban értékesített adóköteles termék mennyisége a bevallás benyújtását követően csökken, az adó alanya az adó összegét abban az adómegállapítási időszakban jogosult csökkenteni, amelyben a helyesbítésről, érvénytelenítésről szóló számlát, számviteli bizonylatot vagy más okiratot kiállították.
 
+(4) Az adó alanya az adó összegét csökkentheti az adómegállapítási időszakban egészségmegőrző programokkal kapcsolatban felmerült költségeivel, ráfordításaival, azzal, hogy a csökkentés összege legfeljebb az egyébként fizetendő adó összegének 10%-áig terjedhet.
+
 #### 8. Nyilvántartás-vezetési kötelezettség
 
 9. § (1) Az adó alanya olyan nyilvántartást köteles vezetni, amelyből kitűnik
@@ -144,7 +147,7 @@ adóköteles termék mennyisége termékenkénti bontásban.
 
 #### 9. Eljárási rendelkezések
 
-10. § (1) Ha jogszabály másként nem rendelkezik, a Nemzeti Adó- és Vámhivatal adóztatási szerve (a továbbiakban: hatóság) jár el az e törvényben meghatározott feladatok végrehajtása során.
+10. § (1) Ha jogszabály másként nem rendelkezik, a Nemzeti Adó- és Vámhivatal (a továbbiakban: hatóság) jár el az e törvényben meghatározott feladatok végrehajtása során.
 
 (2) Az adó alanya bevallási kötelezettségét – a (3) bekezdésben meghatározott eltéréssel – a rá irányadó általános forgalmi adó bevallási időszak szerint teljesíti, az általános forgalmi adó bevallására előírt határidőig az e célra rendszeresített elektronikus nyomtatványon a hatósághoz.
 

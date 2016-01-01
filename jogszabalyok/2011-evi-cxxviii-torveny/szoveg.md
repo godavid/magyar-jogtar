@@ -139,7 +139,8 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 - b) irányítja a megelőző védelmi feladatok ágazati végrehajtását,
 - c) az állami költségvetési tervezés rendszerében az államháztartásért felelős miniszter egyetértésével meghatározza az ágazati katasztrófavédelmi rendszer és szervek működéséhez szükséges pénzügyi feltételeket,
 - d) a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszterrel egyeztetve végrehajtja a katasztrófavédelmi célú távközlési, informatikai, valamint ágazati mérő- és ellenőrző rendszerek egységes irányítási rendszerbe illeszkedő kialakítását és működtetését,
-- e) kijelöli az ágazat katasztrófavédelemben részt vevő szerveit és a katasztrófavédelembe bevonható gazdálkodó, valamint az önkéntesen jelentkező civil szervezetek közül az állandó együttműködésre alkalmas és a helyi részvételnél átfogóbb tevékenységre is képes szervezeteket, meghatározza a katasztrófavédelemmel kapcsolatos feladataikat, jogszabály alapján intézkedik felkészítésükre és a működési feltételeik megteremtésére.
+- e) kijelöli az ágazat katasztrófavédelemben részt vevő szerveit és a katasztrófavédelembe bevonható gazdálkodó, valamint az önkéntesen jelentkező civil szervezetek közül az állandó együttműködésre alkalmas és a helyi részvételnél átfogóbb tevékenységre is képes szervezeteket, meghatározza a katasztrófavédelemmel kapcsolatos feladataikat, jogszabály alapján intézkedik felkészítésükre és a működési feltételeik megteremtésére,
+- f) a területi szerv vezetőjének javaslatára kinevezi és felmenti a helyi szervek vezetőit, gyakorolja a velük kapcsolatos – jogszabályban meghatározott – munkáltatói jogköröket.
 
 #### 8. A megyei, fővárosi és helyi védelmi bizottság feladatai
 
@@ -322,7 +323,7 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 - b) a megyei, fővárosi illetékességgel működő területi szervek,
 - c) helyi szervek a katasztrófavédelmi kirendeltségek és a hivatásos tűzoltóságok.
 
-(2) A hivatásos katasztrófavédelmi szerv államigazgatási feladatot is ellátó rendvédelmi szerv, amelynek tagjai hivatásos állományúak, kormánytisztviselők, köztisztviselők és közalkalmazottak.
+(2) A hivatásos katasztrófavédelmi szerv államigazgatási feladatot is ellátó rendvédelmi szerv, amelynek tagjai hivatásos állományúak, közszolgálati tisztviselők, közalkalmazottak és munkavállalók.
 
 #### 17. A hivatásos katasztrófavédelmi szerv központi szerve
 
@@ -381,9 +382,11 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 
 (4) Az iparbiztonsági hatóság a IV. fejezet hatálya alá tartozás megállapítása céljából bármely gazdálkodó szervezetet adatszolgáltatásra kötelezhet és annak telephelyén hatósági ellenőrzést tarthat.
 
-(5)
+(5) Az iparbiztonsági hatóság által az e jogszabály IV. fejezete alapján lefolytatott közigazgatási eljárásokban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
 
-26. § (1) Ha az iparbiztonsági hatóság hatáskörébe tartozó eljárásban benyújtott biztonsági jelentés vagy biztonsági elemzés nem felel meg a jogszabályban meghatározott követelményeknek, annak az iparbiztonsági hatósághoz történő beérkezésétől számított negyvenöt napon belül az iparbiztonsági hatóság hiánypótlásra hívja fel az üzemeltetőt.
+26. § (1) Ha az iparbiztonsági hatóság hatáskörébe tartozó eljárásban benyújtott biztonsági jelentés vagy biztonsági elemzés nem felel meg a jogszabályban meghatározott követelményeknek, annak az iparbiztonsági hatósághoz történő beérkezésétől számított harminc napon belül az iparbiztonsági hatóság hiánypótlásra hívja fel az üzemeltetőt.
+
+(1a) A veszélyes anyagokkal foglalkozó üzemek elsőfokú engedélyezési eljárásának ügyintézési határideje és a másodfokú eljárás ügyintézési határideje 70 nap.
 
 (2) Ha az üzemeltető nem vagy nem megfelelő módon tesz eleget a veszélyes anyagokkal foglalkozó üzemre vonatkozó biztonsági jelentéssel, biztonsági elemzéssel kapcsolatos hiánypótlási felhívásnak vagy a biztonsági jelentésben vagy biztonsági elemzésben a biztonságos üzemeltetést bizonyítani nem tudja, annak teljesítéséig az iparbiztonsági hatóság a veszélyes tevékenység végzését korlátozhatja vagy felfüggesztheti.
 
@@ -492,7 +495,9 @@ esetén.
 
 (2) Az iparbiztonsági hatóság a küszöbérték alatti üzem üzemeltetője által küldött bejelentést megvizsgálja. A vizsgálatok alapján, ha az üzemben tárolt veszélyes anyagok mennyisége és fajtája, vagy az üzem által okozott veszélyeztetés azt indokolja, az iparbiztonsági hatóság az üzemeltetőt súlyos káresemény elhárítási terv készítésére kötelezi.
 
-(3) Az üzemeltető által benyújtott súlyos káresemény elhárítási tervet az iparbiztonsági hatóság értékeli, és dönt a katasztrófavédelmi engedély kiadásáról. Ha a benyújtott súlyos káresemény elhárítási terv nem felel meg a külön jogszabályban meghatározott követelményeknek, annak az iparbiztonsági hatósághoz történő beérkezésétől számított negyvenöt napon belül az iparbiztonsági hatóság hiánypótlásra hívja fel az üzemeltetőt.
+(3) Az üzemeltető által benyújtott súlyos káresemény elhárítási tervet az iparbiztonsági hatóság értékeli, és dönt a katasztrófavédelmi engedély kiadásáról. Ha a benyújtott súlyos káresemény elhárítási terv nem felel meg a külön jogszabályban meghatározott követelményeknek, annak az iparbiztonsági hatósághoz történő beérkezésétől számított harminc napon belül az iparbiztonsági hatóság hiánypótlásra hívja fel az üzemeltetőt.
+
+(3a) A küszöbérték alatti üzemek elsőfokú engedélyezési eljárásának ügyintézési határideje és a másodfokú eljárás ügyintézési határideje 45 nap.
 
 (4) Ha az üzemeltető nem vagy nem megfelelő módon tesz eleget a súlyos káresemény elhárítási tervvel kapcsolatos hiánypótlási felhívásnak vagy a súlyos káresemény elhárítási tervben a biztonságos üzemeltetést bizonyítani nem tudja, annak teljesítéséig az iparbiztonsági hatóság a 35. §-ban meghatározott szankciókat alkalmazhatja.
 

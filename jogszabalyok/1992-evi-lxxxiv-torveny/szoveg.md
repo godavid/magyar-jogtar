@@ -50,8 +50,8 @@ Az Országgyűlés — az államháztartásról szóló 1992. évi XXXVIII. tör
 (3) A kiadások fedezetét a következő bevételek képezik:
 
 - a) a szociális hozzájárulási adónak a Nyugdíjbiztosítási Alapot a központi költségvetésről szóló törvényben meghatározottak szerinti arányban megillető része, munkáltatói nyugdíjbiztosítási járulék;
-- b) 1. a biztosítotti nyugdíjjárulék, a kizárólag a társadalombiztosítási nyugdíj hatálya alá tartozó személyek esetében, 2. a magánnyugdíjpénztár tagja által fizetett nyugdíjjárulék, 3. 4. a gyermekgondozási díj, a gyermekgondozási segély, a gyermeknevelési támogatás, az ápolási díj után fizetett nyugdíjjárulék, 5. 6. az álláskeresési támogatásból fizetett nyugdíjjárulék;
-- c) egyéb járulékok és hozzájárulások, ideértve 1. a szolgálati idő megszerzésére kötött megállapodás alapján befizetett nyugdíjjárulékot, 2. az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény (a továbbiakban: Efo.tv.) 7. §-a alapján a kincstár által a Nyugdíjbiztosítási Alapnak átutalt összeget, 3. a Nemzeti Foglalkoztatási Alap általi megtérítéseket, 4. 5. 6. 7. a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény 29. § (9) bekezdés b) pontjában, továbbá a 123/A. §-ában meghatározott esetekben a pénztár által a pénztártag egyéni számlájáról a Nyugdíjbiztosítási Alap részére átutalt összeget,
+- b) 1. a biztosítotti nyugdíjjárulék, a kizárólag a társadalombiztosítási nyugdíj hatálya alá tartozó személyek esetében, 2. a magánnyugdíjpénztár tagja által fizetett nyugdíjjárulék, 3. 4. a gyermekgondozási díj, a gyermekgondozást segítő ellátás, a gyermeknevelési támogatás, az ápolási díj után fizetett nyugdíjjárulék, 5. 6. az álláskeresési támogatásból fizetett nyugdíjjárulék;
+- c) egyéb járulékok és hozzájárulások, ideértve 1. a szolgálati idő megszerzésére kötött megállapodás alapján befizetett nyugdíjjárulékot, 2. az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény (a továbbiakban: Efo.tv.) 7. §-a alapján a kincstár által a Nyugdíjbiztosítási Alapnak átutalt összeget, 3. 4. 5. 6. 7. a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény 29. § (9) bekezdés b) pontjában, továbbá a 123/A. §-ában meghatározott esetekben a pénztár által a pénztártag egyéni számlájáról a Nyugdíjbiztosítási Alap részére átutalt összeget,
 - d) a Nemzeti Adó- és Vámhivatalnál (a továbbiakban: az állami adóhatóság) kezelt késedelmi pótlék és bírság bevételi számlákra a tárgyhónapban befolyt bevételből a 13. számú mellékletben foglaltak alapján havonta meghatározott, a tárgyhót követő hónap 15-éig átutalt összeg;
 - e) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) 91. §-a szerinti mulasztási bírság;
 - f) a központi támogatások;
@@ -71,7 +71,7 @@ Az Országgyűlés — az államháztartásról szóló 1992. évi XXXVIII. tör
 5. § (1) Az Egészségbiztosítási Alap
 
 - a)
-- b) az egészségbiztosítás pénzbeli ellátásai, ideértve a csecsemőgondozási díjat, terhességi-gyermekágyi segélyt a táppénzt, a betegséggel kapcsolatos egyéb segélyeket, a kártérítési járadékot, a baleseti járadékot, a gyermekgondozási díjat, továbbá a rokkantsági és rehabilitációs ellátásokat,
+- b) az egészségbiztosítás pénzbeli ellátásai, ideértve a csecsemőgondozási díjat, terhességi-gyermekágyi segélyt, a táppénzt, a betegséggel kapcsolatos egyéb segélyeket, a kártérítési járadékot, a baleseti járadékot, a gyermekgondozási díjat, továbbá a rokkantsági és rehabilitációs ellátásokat,
 - c) a természetben nyújtott ellátások, ideértve a gyógyító-megelőző ellátásokat, a gyógyfürdő és egyéb gyógyászati ellátást, az anyatej-ellátást, a gyógyszer és a gyógyászati segédeszköz támogatást, az utazási költségtérítést, továbbá a nemzetközi egyezményekből eredő és külföldön történő ellátásokat,
 
 kiadásainak fedezetére szolgál.
@@ -82,10 +82,10 @@ kiadásainak fedezetére szolgál.
 
 - a) a szociális hozzájárulási adónak az Egészségbiztosítási Alapot a központi költségvetésről szóló törvényben meghatározottak szerinti arányban megillető része, a munkáltatói egészségbiztosítási járulék (ezen belül természetbeni és pénzbeli egészségbiztosítási járulék);
 - b) a biztosított által fizetett egészségbiztosítási járulék (ezen belül természetbeni és pénzbeli egészségbiztosítási járulék);
-- c) egyéb járulékok és hozzájárulások, ideértve 1. az egészségügyi szolgáltatási járulékot, 2. az egészségbiztosítási ellátásokra kötött megállapodás alapján fizetett járulékot, 3. a munkáltatói táppénz-hozzájárulást, 4. az Efo.tv. 7. §-a alapján a kincstár által az Egészségbiztosítási Alapnak átutalt összeget, 5. a Nemzeti Foglalkoztatási Alap általi megtérítéseket, 6.
+- c) egyéb járulékok és hozzájárulások, ideértve 1. az egészségügyi szolgáltatási járulékot, 2. az egészségbiztosítási ellátásokra kötött megállapodás alapján fizetett járulékot, 3. a munkáltatói táppénz-hozzájárulást, 4. az Efo.tv. 7. §-a alapján a kincstár által az Egészségbiztosítási Alapnak átutalt összeget, 5. 6.
 - d) az egészségügyi hozzájárulás;
 - e) az állami adóhatóságnál kezelt késedelmi pótlék és bírság bevételi számlákra a tárgyhónapban befolyt bevételből a 13. számú mellékletben foglaltak alapján havonta meghatározott, a tárgyhót követő hónap 15-éig átutalt összeg;
-- f) a központi támogatások, ideértve a rokkantsági, rehabilitációs ellátások részbeni fedezetére átvett pénzeszköz és egyéb, törvényben előírt támogatás összegét;
+- f) a központi támogatások, ideértve az egészségügyi feladatok ellátásával kapcsolatos költségvetési hozzájárulást és törvényben előírt egyéb támogatás összegét;
 - g) az egészségbiztosítási tevékenységgel kapcsolatos egyéb bevételek, ideértve 1. a terhesség-megszakítással kapcsolatos egyéni térítési díjat, 2. a baleseti és egyéb kártérítések megtérített összegét, 3. az Egészségbiztosítási Alapból kifizetett – jogalap nélkül felvett vagy más ok miatt – visszaérkezett bevételként elszámolt összeget, 4. a nemzetközi egyezményekből eredő ellátások megtérítésének összegét, 5. egyéb törvényben meghatározott további bevételeket;
 - h) az Egészségbiztosítási Alap részére tartozás fejében átadott vagyon értékesítéséből, hozamából származó bevétel;
 - i) az Egészségbiztosítási Alaphoz tartozó állami vagyon értékesítéséből és egyéb bevételeiből származó összeg;

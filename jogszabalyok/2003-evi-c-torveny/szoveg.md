@@ -387,6 +387,8 @@ alapelveit.
 
 (3) Az általános hatósági felügyeleti és piacfelügyeleti eljárásban az ügyintézési határidő hatvan nap. A határidő indokolt esetben egy alkalommal, legfeljebb harminc nappal meghosszabbítható.
 
+(4) § Az (1) bekezdésben meghatározott eljárásokban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+
 ### Kérelem
 
 32. § (1) Az ügyfél kérelmét a Hatóság által e célra rendszeresített nyomtatványon – kizárólagos elektronikus kapcsolattartás esetén elektronikus űrlapon – köteles benyújtani.

@@ -43,6 +43,8 @@ jogosult. A b) pontban meghatározott személyek között a leszármazási fok h
 
 (10) A tartósan betöltetlen háziorvosi körzetek miatti ellátási különbségek kiegyenlítésére, a hátrányos helyzetű települési önkormányzatok egészségügyi alapellátási feladatai megszervezésének segítésére külön jogszabály szerint működtetett Praxisprogram szolgál.
 
+(11) A praxisjog megszerzéséhez felvett hitelhez, illetve kölcsönhöz az állam – kormányrendeletben meghatározott módon – kamattámogatást biztosít.
+
 2/A. § (1) A praxisjog elidegenítésére vonatkozó szándékát – a praxisjogot megszerezni kívánó orvost is megjelölve – az azt elidegeníteni kívánó személy bejelenti az adott praxisjoggal érintett települési önkormányzatnak.
 
 (2) Ha az (1) bekezdés szerinti önkormányzat – a praxisjog engedélyezésére jogosult egészségügyi államigazgatási szerv véleményének kikérését követően –
@@ -129,4 +131,5 @@ jogosult. A b) pontban meghatározott személyek között a leszármazási fok h
   - ab) a praxiskezelőt kijelölje, valamint feladat- és hatáskörét, továbbá eljárásának szabályait rendeletben meghatározza,
   - ac) a praxiskezelő által nyújtott kamatmentes visszatérítendő támogatásra, valamint a praxiskezelő által szedett díjra vonatkozó részletes szabályokat rendeletben megállapítsa,
   - ad) a feladat-ellátási szerződés formai követelményeit rendeletben meghatározza,
+  - ae) a praxisjog megszerzéséhez felvett hitelhez, illetve kölcsönhöz az állam által biztosított kamattámogatásra vonatkozó részletes szabályokat meghatározza,
 - b) az egészségügyért felelős miniszter, hogy a praxisjog alapján végzett tevékenység gyakorlásának és ellenőrzésének részletes szakmai szabályait, továbbá a helyettesítésre, a tevékenység végzéséhez szükséges szakképesítésre és az alkalmassági vizsgálatra vonatkozó szabályokat rendeletben meghatározza.

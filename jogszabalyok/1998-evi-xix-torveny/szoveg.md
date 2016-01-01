@@ -870,18 +870,9 @@ fokozott körültekintéssel kell eljárni.
 
 (8) A törvény vagy a bíróság által meghatározott határidőbe nem számít bele az a nap, amelynek során legalább négy órán át fennálló, a kézbesítési rendszerben, illetve a kapcsolattartó szervezet informatikai rendszerében fellépő üzemzavar akadályozta az elektronikus kapcsolattartást. Az üzemzavar idején a kapcsolattartó szervezeteket a kézbesítési rendszer útján a kézbesítés megkísérlésekor erről értesíteni kell. Üzemzavarnak kell tekinteni a tervezett leállást is. A kapcsolattartó szervezet köteles a szervezet központi honlapján legalább hetvenkét órával megelőzően közzé tenni a tervezett leállás időpontját és tartamát.
 
-69/B. § (1) Ahol e törvény elektronikus kapcsolattartást rendel vagy arra lehetőséget biztosít, az elektronikus kapcsolattartásra – e törvény eltérő rendelkezése hiányában – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény elektronikus kapcsolattartásra vonatkozó rendelkezéseit kell megfelelően alkalmazni.
+69/B. § (1) Ahol e törvény elektronikus kapcsolattartást rendel vagy arra lehetőséget biztosít, az elektronikus kapcsolattartásra – e törvény eltérő rendelkezése hiányában – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény (a továbbiakban: Ket.) elektronikus kapcsolattartásra vonatkozó rendelkezéseit kell megfelelően alkalmazni.
 
-(2) A bíróság, az ügyészség, a nyomozó hatóság és a büntetés-végrehajtási szervezet az alábbi, a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti szabályozott elektronikus ügyintézési szolgáltatásokat nyújthatja az ott meghatározott szabályok szerint, illetve az alábbi szabályozott elektronikus ügyintézési szolgáltatásokat veheti igénybe az ott meghatározott, az elektronikus ügyintézési felügyelet által nyilvántartásba vett szolgáltatótól:
-
-- a) azonosítási szolgáltatás,
-- b) kézbesítési szolgáltatás,
-- c) elektronikus irat hiteles papír alapú irattá alakítása,
-- d) papír alapú irat átalakítása hiteles elektronikus irattá,
-- e) elektronikus iratról hiteles elektronikus másolat készítése,
-- f) elektronikus iratról hiteles, más formátumú elektronikus másolat készítése,
-- g) központi azonosítási ügynök,
-- h) összerendelési nyilvántartás.
+(2) A bíróság, az ügyészség, a nyomozó hatóság és a büntetés-végrehajtási szervezet a Ket. és a végrehajtására kiadott kormányrendelet szerinti szabályozott elektronikus ügyintézési szolgáltatásokat nyújthatja az ott meghatározott szabályok szerint, valamint a Ket. és a végrehajtására kiadott kormányrendelet szerinti szabályozott elektronikus ügyintézési szolgáltatásokat veheti igénybe az ott meghatározott, az elektronikus ügyintézési felügyelet által nyilvántartásba vett szolgáltatótól.
 
 69/C. § A bíróság és a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: NMHH) közötti elektronikus kapcsolattartás során a hivatalos iratok kézbesítése a 69/A. § (2) bekezdése szerinti kézbesítési rendszer útján is végezhető. Ez esetben az Országos Bírósági Hivatal a bíróság és az NMHH közötti elektronikus kapcsolattartás biztosítása céljából jogosult a hozzá érkezett adatok kezelésére.
 
@@ -896,7 +887,7 @@ fokozott körültekintéssel kell eljárni.
 - c) hirdetményi úton,
 - d) a bíróság, az ügyész, illetőleg a nyomozó hatóság kézbesítője útján,
 - e) nemzetközi jogsegély keretében,
-- f) a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény és végrehajtási rendeletében szabályozott biztonságos kézbesítési szolgáltatás útján,
+- f) a Ket. és végrehajtási rendeletében szabályozott biztonságos kézbesítési szolgáltatás útján,
 - g) az elektronikus adathoz való hozzáférés ideiglenes és végleges megakadályozásáról szóló határozat esetén az NMHH elektronikus kézbesítési rendszerén keresztül.
 
 (2) A címzett az iratot az azt küldőnél is átveheti.
@@ -6788,7 +6779,7 @@ felterjeszti. A kegyelmi kérelemnek az eljárás folytatására nincs halasztó
 - j) a lefoglalás és a büntetőeljárás során lefoglalt dolgok kezelésének, nyilvántartásának, előzetes értékesítésének és megsemmisítésének szabályait a rendészetért felelős miniszter és az államháztartásért felelős miniszter egyetértésével kiadott,
 - k) a bírósági eljárásban az eljárási cselekmény jegyzőkönyv helyett más módon való rögzítésének szabályait, valamint a tárgyalás zártcélú távközlő hálózat útján történő megtartásának részletes szabályait,
 - l) a fogvatartott személy esetében a büntetőeljárás lefolytatása során, továbbá a büntetőügyekben hozott határozatok végrehajtása során a bíróságokra háruló feladatokat az érintett miniszterek egyetértésével kiadott,
-- m) a büntetőeljárás során keletkezett iratokból másolat adását a rendészetért felelős miniszter és a Nemzeti Adó- és Vámhivatal felügyeletét ellátó miniszter egyetértésével kiadott,
+- m) a büntetőeljárás során keletkezett iratokból másolat adását a rendészetért felelős miniszter és a Nemzeti Adó- és Vámhivatalt irányító miniszter egyetértésével kiadott,
 - n) a büntetőeljárásban alkalmazható sajtóhirdetmény útján történő értesítés szabályait a rendészetért felelős miniszter és az államháztartásért felelős miniszter egyetértésével kiadott,
 - o) a bírósági ügyvitel szabályait,
 - p) a fogvatartásban lévő terhelt elmeállapota megfigyelésének és az ideiglenes kényszergyógykezelés végrehajtásának szabályait,
@@ -6798,7 +6789,7 @@ felterjeszti. A kegyelmi kérelemnek az eljárás folytatására nincs halasztó
 
 rendeletben szabályozza.
 
-(3) Felhatalmazást kap a rendészetért felelős miniszter, illetve a Nemzeti Adó- és Vámhivatal felügyeletét ellátó miniszter, hogy az igazságügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza az irányítása alá tartozó nyomozó hatóságok nyomozásának részletes szabályait, köztük a nyomozási cselekmények jegyzőkönyv helyett más módon való rögzítésének szabályait, a büntetőeljárás nyomozási szakaszában a sajtónak adandó tájékoztatás részletes szabályait.
+(3) Felhatalmazást kap a rendészetért felelős miniszter, illetve a Nemzeti Adó- és Vámhivatalt irányító miniszter, hogy az igazságügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza az irányítása alá tartozó nyomozó hatóságok nyomozásának részletes szabályait, köztük a nyomozási cselekmények jegyzőkönyv helyett más módon való rögzítésének szabályait, a büntetőeljárás nyomozási szakaszában a sajtónak adandó tájékoztatás részletes szabályait.
 
 (4) Felhatalmazást kap
 

@@ -58,7 +58,7 @@ E törvény célja, hogy – a közrend, a közbiztonság javítása, s ezek ré
 
 (2) A felelősségbiztosítási szerződéssel egyenértékű a más EGT-államban kötött, az (1) bekezdés b) pontjában meghatározott feltételeknek megfelelő felelősségbiztosítási szerződés.
 
-(3) Az (1) bekezdés b) pontjában meghatározott adatot a kérelmező igazolja. Az (1) bekezdés a) pontjában meghatározott adatokat a kérelmező is igazolhatja a kérelem benyújtásakor. Ha az adatokat a kérelmező a kérelem benyújtásakor nem igazolja, a rendőrség az igazolvány kiadása iránti kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul az (1) bekezdés a) pontjában meghatározott adatokról nyilvántartást vezető hatósághoz.
+(3) Az (1) bekezdés b) pontjában meghatározott adatot a kérelmező igazolja.
 
 (4) Személy- és vagyonvédelmi tevékenység végzésére működési engedély nem adható annak
 
@@ -75,7 +75,7 @@ E törvény célja, hogy – a közrend, a közbiztonság javítása, s ezek ré
 
 (3) A vállalkozás köteles a tervező-szerelő vagy magánnyomozói tevékenység végzésére irányuló szándékát – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint – a rendőrségnek bejelenteni.
 
-(4) Az (1) bekezdés b) pontjában meghatározott adatot a bejelentést tevő igazolja. Az (1) bekezdés a) pontjában meghatározott adatokat a bejelentést tevő is igazolhatja a bejelentés megtételekor. Ha az adatokat a bejelentést tevő a bejelentés megtételekor nem igazolja, a rendőrség adatszolgáltatás iránti kérelemmel fordul az (1) bekezdés a) pontjában meghatározott adatokról nyilvántartást vezető hatósághoz.
+(4) Az (1) bekezdés b) pontjában meghatározott adatot a bejelentést tevő igazolja.
 
 (5) Tervező-szerelő vagy magánnyomozói tevékenységet nem gyakorolhat az
 
@@ -87,7 +87,7 @@ E törvény célja, hogy – a közrend, a közbiztonság javítása, s ezek ré
 
 (1a) Az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény szerinti személy- és vagyonőr a tevékenységét, abban az esetben kezdheti meg, ha az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott alkalmazási feltételeknek eleget tesz. E személyek vonatkozásában a (3) és (4) bekezdés nem alkalmazható.
 
-(2) Igazolványt – kérelmére – az a magyar állampolgár, illetve a szabad mozgás és tartózkodás jogával rendelkező személy kaphat, aki nagykorú, cselekvőképes, külön jogszabályban meghatározott vagy azzal egyenértékű szakképesítéssel, továbbá a magánnyomozói tevékenység végzéséhez legalább középiskolai végzettséggel rendelkezik. Az igazolvány kiadását meg kell tagadni, ha a kérelmező a tevékenység gyakorlását kizáró rendelkezés hatálya alatt áll. A tevékenység gyakorlásának feltételeit, továbbá azt, hogy a kérelmező nem áll-e az e törvény hatálya alá tartozó tevékenység vagy rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerv hivatásos állománya tagjának foglalkoztatását kizáró foglalkozástól eltiltás hatálya alatt, az igazolvány kiadására és meghosszabbítására irányuló eljárásban a kérelmező igazolja.
+(2) Igazolványt – kérelmére – az a magyar állampolgár, illetve a szabad mozgás és tartózkodás jogával rendelkező személy kaphat, aki nagykorú, cselekvőképes, külön jogszabályban meghatározott vagy azzal egyenértékű szakképesítéssel, továbbá a magánnyomozói tevékenység végzéséhez legalább középiskolai végzettséggel rendelkezik. Az igazolvány kiadását meg kell tagadni, ha a kérelmező a tevékenység gyakorlását kizáró rendelkezés hatálya alatt áll.
 
 (3) Az e törvény hatálya alá tartozó tevékenységet nem végezhet:
 

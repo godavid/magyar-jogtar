@@ -90,21 +90,12 @@ Az Országgyűlés abból kiindulva, hogy a kereskedelem a nemzetgazdaság megha
 
 (8) A kereskedelmi hatóság az üzletben az üzletköteles termékek forgalmazására előírt követelmények megtartására veszélyt jelentő termékek forgalmazását vagy tevékenységek folytatását a működési engedélyben korlátozhatja vagy megtilthatja.
 
-4. § (1) A 3. § (4) bekezdését nem érintve, a nemesfémből készült ékszer, díszműáru és egyéb tárgy forgalmazására irányuló kereskedelmi tevékenység csak a kereskedelmi hatóság által kiadott engedéllyel folytatható.
+4. § (1) A 3. § (4) bekezdését nem érintve, a nemesfémből készült ékszer, díszműáru és egyéb tárgy forgalmazására irányuló szándékot a vállalkozás köteles a kereskedelmi hatóságnak bejelenteni.
 
-(2) Az (1) bekezdés szerinti engedély csak annak a vállalkozásnak adható, amelynek
+(2) Az (1) bekezdés szerinti kereskedelmi tevékenység végzésére csak az a vállalkozás jogosult,
 
-- a) vezető tisztségviselője, vezető beosztású munkavállalója, illetve egyéni vállalkozó esetén az egyéni vállalkozó büntetlen előéletű, nem áll a nemesfémből készült ékszer, díszműáru és egyéb tárgy forgalmazására irányuló kereskedelmi tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt,
-- b) nincs az adózás rendjéről szóló törvény szerinti köztartozása.
-
-(3) A nemesfémből készült ékszer, díszműáru és egyéb tárgy forgalmazására irányuló kereskedelmi tevékenység engedélyezése iránti kérelem benyújtásával egyidejűleg a kérelmező hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, és nem áll a nemesfémből készült ékszer, díszműáru és egyéb tárgy forgalmazására irányuló kereskedelmi tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a kereskedelmi hatóság részére – annak a nemesfémből készült ékszer, díszműáru és egyéb tárgy forgalmazására irányuló kereskedelmi tevékenység engedélyezése iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a kereskedelmi hatóság a (4) bekezdésben meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől.
-
-(4) A kereskedelmi hatóság a nemesfémből készült ékszer, díszműáru és egyéb tárgy forgalmazására irányuló kereskedelmi tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a nemesfémből készült ékszer, díszműáru és egyéb tárgy forgalmazására irányuló kereskedelmi tevékenységet folytató szolgáltató büntetlen előéletű-e, és nem áll-e a nemesfémből készült ékszer, díszműáru és egyéb tárgy forgalmazására irányuló kereskedelmi tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából a kereskedelmi hatóság adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a nemesfémből készült ékszer, díszműáru és egyéb tárgy forgalmazására irányuló kereskedelmi tevékenységet folytató szolgáltató büntetlen előéletű-e, valamint, hogy a nemesfémből készült ékszer, díszműáru és egyéb tárgy forgalmazására irányuló kereskedelmi tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
-
-(5) A (3) és (4) bekezdés alapján megismert személyes adatokat a kereskedelmi hatóság
-
-- a) a nemesfémből készült ékszer, díszműáru és egyéb tárgy forgalmazására irányuló kereskedelmi tevékenység engedélyezése iránti eljárás jogerős befejezéséig,
-- b) a nemesfémből készült ékszer, díszműáru és egyéb tárgy forgalmazására irányuló kereskedelmi tevékenységet folytató szolgáltató nyilvántartásba vétele esetén a hatósági ellenőrzés időtartamára vagy a nyilvántartásból való törlésre irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
+- a) amely vezető tisztségviselője, vezető beosztású munkavállalója, illetve egyéni vállalkozás esetén az egyéni vállalkozó büntetlen előéletű, nem áll a nemesfémből készült ékszer, díszműáru és egyéb tárgy forgalmazására irányuló kereskedelmi tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt,
+- b) amelynek nincs az adózás rendjéről szóló törvény szerinti köztartozása.
 
 ### A kereskedelmi tevékenységek folytatásának egyéb feltételei
 
@@ -184,7 +175,7 @@ Az Országgyűlés abból kiindulva, hogy a kereskedelem a nemzetgazdaság megha
 - b) amelynek vezető tisztségviselője, vezető beosztású munkavállalója, illetve egyéni vállalkozó esetén az egyéni vállalkozó nem volt olyan vállalkozás tulajdonosa, tagja, vezető tisztségviselője, vezető beosztású munkavállalója, amelyet a tevékenység megkezdését megelőző egy éven belül a lovas szolgáltató tevékenységével összefüggésben az állat-egészségügyi és az állattartási körülményekre vonatkozó jogszabályi rendelkezések megsértése miatt jogerős hatósági határozatban eltiltottak a lovas szolgáltató tevékenység végzésétől,
 - c) amely által munkavállalóként vagy foglalkoztatásra irányuló egyéb jogviszony alapján foglalkoztatott legalább egy személy, illetve egyéni vállalkozó esetén az egyéni vállalkozó rendelkezik a külön jogszabályban meghatározott szakképesítéssel.
 
-6/D. § Szálláshely-szolgáltatás csak a kereskedelmi hatóság szálláshely-üzemeltetési engedélyével rendelkező szálláshelyen folytatható.
+6/D. § Szálláshely-szolgáltatás csak a kereskedelmi hatóság részére történő a szálláshely-üzemeltetési bejelentést követően folytatható.
 
 6/E. § (1) Aki tartós szálláshasználati szolgáltatási tevékenységet kíván folytatni, köteles az erre irányuló szándékát a kereskedelmi hatóságnak bejelenteni.
 
@@ -199,25 +190,18 @@ Az Országgyűlés abból kiindulva, hogy a kereskedelem a nemzetgazdaság megha
 
 (5) A kereskedelmi hatóság a tartós szálláshasználati szolgáltatási tevékenység (4) bekezdés szerinti személyes adatait a hatósági ellenőrzés időtartamára vagy a tartós szálláshasználati szolgáltatási tevékenység nyilvántartásból való törléséről szóló döntés jogerőre emelkedéséig kezeli.
 
-6/F. § (1) Utazásszervezői és utazásközvetítői tevékenység a kereskedelmi hatóság engedélyével folytatható.
+6/F. § (1) Az utazásszervezői vagy utazásközvetítői tevékenység folytatására irányuló szándékot a kereskedelmi hatóság részére kell bejelenteni.
 
 (2) Utazásszervezői és utazásközvetítői tevékenység csak akkor folytatható, ha a vállalkozás
 
 - a) által munkavállalóként vagy foglalkoztatásra irányuló egyéb jogviszony alapján foglalkoztatott legalább egy személy, illetve egyéni vállalkozó esetén az egyéni vállalkozó vagy az általa határozatlan időre foglalkoztatott, az utazásszervezői és utazásközvetítői tevékenység folytatásában személyesen közreműködő személy rendelkezik az utazásszervező és -közvetítő tevékenységről szóló kormányrendeletben meghatározott képesítéssel és szakmai gyakorlattal, valamint nyelvismerettel (a továbbiakban: tevékenységért felelős személy),
 - b) vezető tisztségviselője, vezető beosztású munkavállalója és a tevékenységért felelős személy, illetve egyéni vállalkozó esetén az egyéni vállalkozó büntetlen előéletű, nem áll az utazásszervezői és utazásközvetítői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt,
-- c) vezető tisztségviselője, vezető beosztású munkavállalója és a tevékenységért felelős személy, illetve egyéni vállalkozó esetén az egyéni vállalkozó nem volt olyan vállalkozás tulajdonosa, tagja, vezető tisztségviselője, vezető beosztású munkavállalója, tevékenységért felelős személye, amelyet a tevékenység megkezdését megelőző öt éven belül az utazásszervezői vagy utazásközvetítői tevékenységre vonatkozó jogszabályi rendelkezések megsértése vagy ilyen tevékenység engedély nélküli folytatása miatt jogerős hatósági határozatban eltiltottak az utazásszervezői vagy utazásközvetítői tevékenység végzésétől,
+- c) vezető tisztségviselője, vezető beosztású munkavállalója és a tevékenységért felelős személy, illetve egyéni vállalkozó esetén az egyéni vállalkozó nem volt olyan vállalkozás tulajdonosa, tagja, vezető tisztségviselője, vezető beosztású munkavállalója, tevékenységért felelős személye, amelyet a tevékenység megkezdését megelőző öt éven belül az utazásszervezői vagy utazásközvetítői tevékenységre vonatkozó jogszabályi rendelkezések megsértése miatt jogerős hatósági határozatban eltiltottak az utazásszervezői vagy utazásközvetítői tevékenység végzésétől,
 - d) – az utazásközvetítő kivételével – rendelkezik a külön jogszabályban meghatározott vagyoni biztosítékkal.
 
 (3) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató a határon átnyúló szolgáltatásnyújtás keretében történő utazásszervezői vagy utazásközvetítői tevékenység folytatására irányuló szándékát köteles a kereskedelmi hatóságnak bejelenteni.
 
-(4) Az utazásszervezői és utazásközvetítői tevékenység engedélyezése iránti kérelem benyújtásával egyidejűleg a kérelmező hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, és nem áll az utazásszervezői és utazásközvetítői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a kereskedelmi hatóság részére – annak utazásszervezői és utazásközvetítői tevékenység engedélyezése iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a kereskedelmi hatóság az (5) bekezdésben meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől.
-
-(5) A kereskedelmi hatóság az utazásszervezői és utazásközvetítői tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy az utazásszervezői és utazásközvetítői tevékenységet folytató szolgáltató büntetlen előéletű-e, és nem áll-e az utazásszervezői és utazásközvetítői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából a kereskedelmi hatóság adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy az utazásszervezői és utazásközvetítői tevékenységet folytató szolgáltató büntetlen előéletű-e, valamint, hogy az utazásszervezői és utazásközvetítői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
-
-(6) A (4) és (5) bekezdés alapján megismert személyes adatokat a kereskedelmi hatóság
-
-- a) az utazásszervezői és utazásközvetítői tevékenység engedélyezése iránti eljárás jogerős befejezéséig,
-- b) az utazásszervezői és utazásközvetítői tevékenységet folytató szolgáltató nyilvántartásba vétele esetén a hatósági ellenőrzés időtartamára vagy a nyilvántartásból való törlésre irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
+(4)–(6)
 
 ### Kereskedelmi nyilvántartások
 
@@ -228,9 +212,9 @@ Az Országgyűlés abból kiindulva, hogy a kereskedelem a nemzetgazdaság megha
 - c) a bejelentett bevásárlóközpontokról és helyi termelői piacokról, valamint az engedélyezett vásárokról és piacokról,
 - d) az idegenvezetői tevékenységet folytatókról,
 - e) a lovas szolgáltató tevékenységet folytatókról,
-- f) a szálláshely-üzemeltetési engedéllyel rendelkező szálláshelyekről,
+- f) a szálláshely-szolgáltatási tevékenységet folytatókról,
 - g) a tartós szálláshasználati szolgáltatási tevékenységet folytatókról,
-- h) az engedéllyel rendelkező utazásszervezőkről és az utazásközvetítőkről
+- h) a bejelentett utazásszervezőkről és az utazásközvetítőkről
 
 nyilvántartást vezet.
 
@@ -293,7 +277,7 @@ nyilvántartást vezet.
 
 - a) nettó árbevétele több, mint fele napi fogyasztási cikk kiskereskedelmi értékesítéséből ered,
 - b) bármely két egymást követő üzleti évben elért nettó árbevétele mindkét üzleti évben külön-külön eléri a 15 milliárd forintot, és
-- c) a mérleg szerinti eredménye a b) pont szerinti mindkét üzleti évben nulla vagy negatív, a b) pont szerinti második üzleti év beszámolójának elfogadását követően nem folytathat napi fogyasztási cikk kiskereskedelmi értékesítésére vonatkozó tevékenységet.
+- c) az adózott eredménye a b) pont szerinti mindkét üzleti évben nulla vagy negatív, a b) pont szerinti második üzleti év beszámolójának elfogadását követően nem folytathat napi fogyasztási cikk kiskereskedelmi értékesítésére vonatkozó tevékenységet.
 
 (2) Az (1) bekezdés szerinti rendelkezést a gazdasági társaság megalakulásától számított első négy üzleti évben nem kell alkalmazni.
 
@@ -327,8 +311,8 @@ nyilvántartást vezet.
 - c) a vásárlók könyve hitelesítésének rendjét,
 - d) a vásár- és piactartás részletes szabályait, a bevásárlóközpont, a vásár és a piac üzemeltetésének részletes feltételeit, valamint a bevásárlóközpont és a helyi termelői piac bejelentésének, illetve a vásár- és a piacüzemeltetési engedély kiadásának részletes szabályait, valamint a kereskedelmet kiszolgáló szolgáltató tevékenységet végzők nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 - e) a tartós szálláshasználati szolgáltatási tevékenység folytatásának részletes feltételeit, a tartós szálláshasználati szolgáltatási tevékenység bejelentésének és az e tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban, illetve hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
-- f) a szálláshely-szolgáltatási tevékenység folytatásának részletes feltételeit és a szálláshely-üzemeltetési engedély kiadásának rendjét és feltételeit, valamint a szálláshelyek nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szállásadók tájékoztatási és adatszolgáltatási kötelezettségeit, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
-- g) az utazásszervezői és utazásközvetítői tevékenységre jogosító engedély kiadásának rendjét és feltételeit, az utazásszervezői és utazásközvetítői tevékenység végzésének feltételeit, valamint az utazásszervezők és az utazásközvetítők nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
+- f) a szálláshely-szolgáltatási tevékenység folytatásának részletes feltételeit és a szálláshely-üzemeltetési bejelentésnek rendjét és feltételeit, valamint a szálláshelyek nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szállásadók tájékoztatási és adatszolgáltatási kötelezettségeit, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
+- g) az utazásszervezői és utazásközvetítői tevékenységre vonatkozó bejelentés rendjét és feltételeit, az utazásszervezői és utazásközvetítői tevékenység végzésének feltételeit, valamint az utazásszervezők és az utazásközvetítők nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 - h) a kereskedelmi hatóság vagy hatóságok kijelölését,
 - i) a kereskedelmi hatóság által kiszabható bírság megállapításának, mértékének részletes szabályait
 
@@ -337,7 +321,7 @@ rendeletben állapítsa meg.
 (2) Felhatalmazást kap a kereskedelemért felelős miniszter, hogy
 
 - a) egyes ipari, kereskedelmi tevékenységek végzéséhez szükséges szakképesítéseket,
-- b) a nemesfémből készült ékszerek, díszműáruk és egyéb tárgyak forgalmazására irányuló kereskedelmi tevékenység gyakorlásának feltételeit, az e tevékenységre jogosító engedély kiadásának rendjét és feltételeit, az e tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
+- b) a nemesfémből készült ékszerek, díszműáruk és egyéb tárgyak forgalmazására irányuló kereskedelmi tevékenység gyakorlásának feltételeit, az e tevékenységre vonatkozó bejelentés rendjét és feltételeit, az e tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 - c)
 - d) a vidámparki, mutatványos és hasonló szórakoztató berendezések és szerkezetek időszakos műszaki vizsgáztatásának rendjét,
 - e)

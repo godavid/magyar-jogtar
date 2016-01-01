@@ -726,7 +726,8 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 - e) kézbesítési ügygondnok kijelölésének;
 - f) tömeges bevándorlás okozta válsághelyzet idején
   - fa) ügygondnok kirendelése kezdeményezésének, illetve kirendelésének,
-  - fb) kézbesítési meghatalmazott megjelölésének.
+  - fb) kézbesítési meghatalmazott megjelölésének;
+- g) sommás eljárásnak.
 
 ### VIII. Fejezet — A MENEKÜLTKÉNTI VAGY OLTALMAZOTTKÉNTI ELISMERÉSRE IRÁNYULÓ ELJÁRÁS
 
@@ -735,6 +736,8 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 (2) Az elfogadhatatlan vagy gyorsított eljárásban elbírált kérelmek ügyében a döntést az elfogadhatatlansági- vagy gyorsított eljárást megalapozó ok megállapításától számított tizenöt napon belül kell meghozni.
 
 (3) Amennyiben a (2) bekezdésben foglaltak alapján rövidebb időtartamú eljárásnak nincs helye, azt a kérelem benyújtásától számított hatvan napon belül kell lefolytatni.
+
+(4) Az e törvény alapján lefolytatott eljárásokban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
 
 48. § (1) A menekültügyi hatóság a menekültkénti vagy oltalmazottkénti elismerését kérő külföldi (e fejezet alkalmazásában a továbbiakban: kérelmező) részére a jogorvoslattal tovább nem támadható döntés vagy a 49. § (4) bekezdése alapján a kérelmező átadásáról hozott végzés végrehajthatóvá válásáig szálláshelyként vagy a feltételek fennállása esetében kijelölt tartózkodási helyként – kérelmére – magánszálláshelyet, ennek hiányában befogadó állomást, közösségi szállást, szerződés alapján fenntartott más szálláshelyet vagy meghatározott megye közigazgatási területét jelöli ki, kivéve, ha
 
@@ -759,6 +762,8 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 (6) Az átadásról rendelkező végzéssel szemben bírósági felülvizsgálatnak van helye.
 
 (7) A felülvizsgálati kérelmet a végzés közlésétől számított három napon belül a menekültügyi hatóságnál kell benyújtani. A menekültügyi hatóság a felülvizsgálati kérelmet az ügy irataival és ellenkérelmével együtt haladéktalanul megküldi a bíróságnak.
+
+(7a) Az e törvény szerinti, határon lefolytatott eljárás során benyújtott bírósági felülvizsgálat iránti kérelmet, valamint az ügy iratait és az ellenkérelmet a menekültügyi hatóság elektronikus úton továbbítja a bíróság számára.
 
 (8) A felülvizsgálati kérelemről a bíróság – a felülvizsgálati kérelem beérkezésétől számított nyolc napon belül – nemperes eljárásban, a rendelkezésre álló iratok alapján dönt. Az eljárásban személyes meghallgatásnak nincs helye. A bíróság eljárást befejező döntésével szemben jogorvoslatnak nincs helye.
 
@@ -1256,7 +1261,8 @@ céljából a menekültügyi nyilvántartásban kezeli.
 - r) a menekültügyi eljárás során e törvény alapján foganatosított eljárási cselekmény tényét és időpontját;
 - s) az elismerését kérővel szemben elrendelt menekültügyi őrizet jogalapját, határidejét vagy időtartamát, helyét, az elrendelő szerv megnevezését, a határozat számát;
 - t) az elismerését kérő számára kijelölt tartózkodási helyet elrendelő határozat jogalapját, számát, az elrendelő szerv megnevezését, valamint a kijelölt tartózkodási hely megjelölését; valamint
-- u) a menekültügyi óvadék összegét, valamint letételének, visszaadásának és államra szállásának időpontját.
+- u) a menekültügyi óvadék összegét, valamint letételének, visszaadásának és államra szállásának időpontját;
+- v) az arcképmásához rendelt, az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott technikai kapcsoló számot.
 
 (1a) Az (1) bekezdésben meghatározott nyilvántartás az (1) bekezdés c), f)–i), n), q) és r) pontjában foglalt adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
@@ -1345,6 +1351,12 @@ igényelhetnek adatot.
 - b) a 83. § (1) bekezdés f), valamint j)–l) pontjában meghatározott adatok.
 
 (5) A 83. § (1) bekezdés m) pontjában meghatározott adat csak a nyomozó hatóság és az ügyészség, továbbá törvényben meghatározottak szerint a bíróság és a nemzetbiztonsági szolgálat részére adható át.
+
+(6) A menekültügyi hatóság az arckép profil nyilvántartás részére arckép profil létrehozása és nyilvántartásba vétele céljából a menekültügyi nyilvántartás hatálya alá tartozó személyek arcképmását, valamint az arcképmáshoz rendelt technikai kapcsoló számot átadja.
+
+(7) Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott igénybevételre jogosult szervek – az e törvényben meghatározott feltételekkel – az arcképmáshoz rendelt, az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott technikai kapcsoló szám közlésével is igényelhetnek adatot a nyilvántartásból.
+
+(8) A menekültügyi hatóság – az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott technikai kapcsoló szám alkalmazásával – köteles haladéktalanul adatszolgáltatást teljesíteni az arckép profil nyilvántartás vezetéséért felelős szervnek a menekültügyi nyilvántartásban kezelt arcképmás adat nyilvántartásba vételéről, valamint az arcképmás adat változásáról.
 
 87/A. § (1) A rendőrség a 31/A. § (10) bekezdésben meghatározott közreműködéséből eredő feladatai végrehajtása érdekében a rendőrségi közreműködéssel érintett, elismerését kérő alábbi adatait kezeli:
 

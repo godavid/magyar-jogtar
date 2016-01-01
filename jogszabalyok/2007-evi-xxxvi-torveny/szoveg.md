@@ -17,7 +17,7 @@ a szabálysértési jogsegélyről
 
 (2) Eljárási jogsegély valamennyi szabálysértési eljárásban előterjeszthető, illetve teljesíthető.
 
-(3) Pénzbírságot kiszabó jogerős szabálysértési határozat végrehajtásának átadására a mellékletben meghatározott szabálysértések miatt hozott határozatok esetén kerülhet sor.
+(3)
 
 3. § (1) A szabálysértési jogsegély iránti megkeresés nem teljesíthető és nem terjeszthető elő, ha veszélyezteti Magyarország biztonságát, sérti közrendjét.
 
@@ -266,9 +266,13 @@ a szabálysértési jogsegélyről
 
 (2) Ha az (1) bekezdésben foglaltak alapján a végrehajtásra illetékes általános szabálysértési hatóság nem állapítható meg, a külföldi határozatban megjelölt összeg beszedését az az általános szabálysértési hatóság hajtja végre, amelynek működési területén az elkövetőnek fellelhető jövedelme, illetve vagyona van.
 
-(3) A külföldi határozat végrehajtása iránti megkeresést a pénzbírság végrehajtására vonatkozó szabályok szerint kell végrehajtani azzal az eltéréssel, hogy a bíróság a végrehajtási eljárás törvényességének vizsgálata során az alapeljárás törvényességét nem vizsgálhatja. Ha a megkeresésben a pénzbírság szabálysértési elzárásra való átváltoztatását kizárták, a pénzbírság adók módjára történő behajtásáról kell intézkedni.
+(3) A külföldi határozat végrehajtása iránti megkeresést a pénzbírság, valamint – a végrehajtásra átvett eljárási költség tekintetében – a szabálysértési költség végrehajtására vonatkozó szabályok szerint kell végrehajtani azzal az eltéréssel, hogy a bíróság a végrehajtási eljárás törvényességének vizsgálata során az alapeljárás törvényességét nem vizsgálhatja. Ha a megkeresésben a pénzbírság szabálysértési elzárásra való átváltoztatását kizárták, a pénzbírság adók módjára történő behajtásáról kell intézkedni.
 
-31. § (1) Nemzetközi szerződés eltérő rendelkezésének hiányában az azonos típusú közúti közlekedési szabályok megsértése esetén a külföldön kiszabott pénzbírság összege a Magyarországon kiszabható pénzbírság legmagasabb összegét meghaladja, a végrehajtás a magyar jogszabályok szerint kiszabható legmagasabb összegre terjed ki.
+(4) Az általános szabálysértési hatóság az elkövető részére a pénzbírság és eljárási költség megfizetésére harminc napos határidőt biztosít, egyúttal tájékoztatja az elkövetőt a meg nem fizetett pénzbírság közérdekű munkával történő megváltásáról. A tájékoztatásnak ki kell terjednie arra, hogy ha az elkövető a pénzbírságot nem fizeti meg, helyébe milyen tartamú közérdekű munka lép, valamint arra is, hogy a pénzbírság befizetésére nyitva álló határidő lejártát követő harmadik munkanapig személyesen jelentkezhet a lakóhelye vagy tartózkodási helye szerint illetékes állami foglalkoztatási szervnél a pénzbírság közérdekű munkával történő megváltása érdekében. Amennyiben az eljárás alá vont személy az állami foglalkoztatási szerv előtti megjelenési kötelezettségének határidőben nem tesz eleget, a szabálysértési hatóság intézkedik a pénzbírság szabálysértési elzárásra történő átváltoztatásáról vagy annak adók módjára történő behajtásáról; e körülményekre a tájékoztatásnak úgyszintén ki kell terjednie.
+
+(5) Amennyiben az elkövető jelentkezik az állami foglalkoztatási szervnél, akkor az állami foglalkoztatási szerv soron kívül értesíti a végrehajtásért felelős általános szabálysértési hatóságot.
+
+31. § (1) Nemzetközi szerződés eltérő rendelkezésének hiányában az azonos típusú jogsértés esetén a külföldön kiszabott pénzbírság összege a Magyarországon kiszabható pénzbírság legmagasabb összegét meghaladja, a végrehajtás a magyar jogszabályok szerint kiszabható legmagasabb összegre terjed ki.
 
 (2) Ha az elkövető igazolja, hogy a külföldi határozatban megjelölt összeget részben vagy egészben megfizette, a általános szabálysértési hatóság értesítése alapján a központi hatóság az eljárást felfüggeszti, és egyidejűleg megkeresi a határozatot kibocsátó külföldi hatóságot, hogy a megfizetés tényéről harminc napon belül nyilatkozzon. Ha a megadott határidőn belül a külföldi hatóság a megkeresésre nem válaszol, az eljárást meg kell szüntetni.
 
@@ -350,24 +354,3 @@ a szabálysértési jogsegélyről
 (5) E törvény 19. § (4) és 26. § (4) bekezdése a közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértésekre vonatkozó információk határokon átnyúló cseréjének elősegítéséről szóló 2015. március 11-i 2015/413/EU európai parlamenti és tanácsi irányelv 4. és 7. cikkeinek való megfelelést szolgálja.
 
 ### Melléklet a 2007. évi XXXVI. törvényhez
-
-A pénzbírságot kiszabó jogerős szabálysértési határozat végrehajtásának átadására az alábbi szabálysértések esetén kerülhet sor:
-
-- 1. Rendzavarás (Szabs. tv. 169. §),
-- 2. Garázdaság (Szabs. tv. 170. §),
-- 3. Tiltott prostitúció (Szabs. tv. 172. §),
-- 4. Veszélyes fenyegetés (Szabs. tv. 173. §),
-- 5. Járművezetés az eltiltás hatálya alatt (Szabs. tv. 176. §),
-- 6. Lopással vagy csalással elkövetett tulajdon elleni szabálysértés [Szabs. tv. 177. § (1) bekezdés a) és b) pont],
-- 7. Jogosulatlan vadászat (Szabs. tv. 178. §),
-- 8. Polgári felhasználású robbanóanyaggal és pirotechnikai termékkel kapcsolatos szabálysértés (Szabs. tv. 182. §),
-- 9. Lőfegyverrel kapcsolatos szabálysértés (Szabs. tv. 183. §),
-- 10. Szexuális szolgáltatásra való felhívás tilalma (Szabs. tv. 184. §),
-- 11. Természetvédelmi szabálysértés (Szabs. tv. 187. §),
-- 12. Kábítószer-rendészeti szabálysértés (Szabs. tv. 199. §),
-- 13. A Szabs. tv. XXVII. Fejezete alá tartozó szabálysértések,
-- 14. Közúti közlekedési szabályok kisebb fokú megsértése (Szabs. tv. 224. §),
-- 15. Versenytárs utánzása (Szabs. tv. 231. §),
-- 16. Szerzői vagy szerzői joghoz kapcsolódó jogok megsértése (Szabs. tv. 238/A. §),
-- 17. Iparjogvédelmi jogok megsértése (Szabs. tv. 238/B. §),
-- 18. Vízszennyezés (Szabs. tv. 245. §).

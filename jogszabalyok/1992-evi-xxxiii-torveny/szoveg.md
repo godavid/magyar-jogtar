@@ -1041,7 +1041,7 @@ alapszabadság illeti meg.
 
 (5)
 
-62. § A fizetési osztályok fizetési fokozatokra tagozódnak. Az egyes fizetési osztályok tizennégy fizetési fokozatot tartalmaznak.
+62. § A fizetési osztályok fizetési fokozatokra tagozódnak. Az egyes fizetési osztályok tizenhét fizetési fokozatot tartalmaznak.
 
 63. § (1) A közalkalmazott fizetési osztályát (besorolását) – a 61. § (1) bekezdésében foglaltak figyelembevételével – az ellátandó munkakör betöltésére előírt annak a legmagasabb iskolai végzettségnek, illetve szakképesítésnek, szakképzettségnek, doktori címnek, tudományos fokozatnak alapján kell meghatározni, amellyel a közalkalmazott rendelkezik.
 
@@ -1244,20 +1244,20 @@ megfelelő összeg illeti meg.
 
 (3) A munkáltató viseli az illetmény fizetési számlára történő átutalásának vagy készpénzben történő kifizetésének a költségét.
 
-79/B. § A felsőoktatási intézményben – e törvény 2. számú mellékletében meghatározott – oktatói, valamint a központi költségvetési szervnél (ideértve a Magyar Tudományos Akadémiához tartozó, költségvetési rendben gazdálkodó intézményt is) tudományos kutatói munkakört betöltő közalkalmazottak előmeneteli és illetményrendszerére e törvény 61., 63., 66., 71., 74. és 75. §-ában foglaltak nem alkalmazhatók. A 62., 64. és 65. §-ban foglaltak csak e törvény 57. § (1) bekezdése tekintetében alkalmazhatók.
+79/B. § A felsőoktatási intézményben a 2. számú mellékletben meghatározott oktatói, tanári, valamint a központi költségvetési szervnél (ideértve a Magyar Tudományos Akadémiához tartozó, költségvetési rendben gazdálkodó intézményt is) tudományos kutatói munkakört betöltő közalkalmazottak előmeneteli és illetményrendszerére e törvény 61., 63., 66., 71. és 75. §-ában foglaltak, továbbá oktatói, tudományos kutatói munkakörben a 74. §-ban foglaltak nem alkalmazhatók. A 62., 64. és 65. §-ban foglaltak kizárólag e törvény 57. § (1) bekezdése tekintetében alkalmazhatók.
 
 79/C. § (1) A felsőoktatási intézményben az oktatói, kutatói, tanári és más munkakörben történő foglalkoztatás egyes kérdéseit (határozott időre történő foglalkoztatás, a pályázati eljárás kérdései, várakozási idő csökkentése, további szakképesítés figyelembevétele, illletménykiegészítés, vezetői pótlékok, illetménypótlékok) a Kormány határozza meg.
 
 (2) Tudományos kutatói munkakörként – a felsőoktatási intézmények kivételével – kutatóprofesszor, tudományos tanácsadó, tudományos főmunkatárs, tudományos munkatárs, tudományos segédmunkatárs munkakör létesíthető. Az e bekezdésben meghatározott tudományos munkakörbe történő besorolás feltételeit a Kormány határozza meg.
 
-79/D. § (1) A felsőoktatási intézményben az egyetemi tanári és a főiskolai docensi, egyetemi adjunktusi, továbbá a központi költségvetési szervnél (ideértve a Magyar Tudományos Akadémiához tartozó, költségvetési rendben gazdálkodó intézményt is) a kutatóprofesszori, a tudományos tanácsadói és a tudományos főmunkatársi munkakörök három, az egyetemi docensi, a főiskolai tanári munkakörök négy fizetési fokozatra tagozódnak. A felsőoktatási intézményben az egyetemi tanársegédi, a főiskolai adjunktusi és a mesteroktatói munkakörök két fizetési fokozatra tagozódnak.
+79/D. § (1) A felsőoktatási intézményben az egyetemi tanári és a főiskolai docensi, egyetemi adjunktusi, a tanári, továbbá a központi költségvetési szervnél (ideértve a Magyar Tudományos Akadémiához tartozó, költségvetési rendben gazdálkodó intézményt is) a kutatóprofesszori, a tudományos tanácsadói és a tudományos főmunkatársi munkakörök három, az egyetemi docensi, a főiskolai tanári munkakörök négy fizetési fokozatra tagozódnak. A felsőoktatási intézményben az egyetemi tanársegédi, a főiskolai adjunktusi és a mesteroktatói munkakörök két fizetési fokozatra tagozódnak.
 
 (2) A közalkalmazott fizetési fokozatát felsőoktatási intézménynél, illetve központi költségvetési szervnél (ideértve a Magyar Tudományos Akadémiához tartozó, költségvetési rendben gazdálkodó intézményt is) az adott munkakörben – a megbízási jogviszony és a negyedik fizetési fokozat kivételével – munkavégzésre irányuló jogviszonyban töltött ideje alapján kell megállapítani. Ha azonos időtartam alatt egyidejűleg több, az adott munkakörben munkavégzésre irányuló jogviszony vehető figyelembe, közülük csak egy számítható be.
 
 (3) Az (1) bekezdésben felsorolt munkakört betöltő közalkalmazottat, ha a (4) bekezdésben meghatározott feltételeknek megfelel,
 
 - a) egyetemi tanár, főiskolai tanár, kutatóprofesszor, tudományos tanácsadó esetén az adott munkakörben az előző fizetési fokozatban eltöltött öt évet követően,
-- b) egyetemi docens, főiskolai docens, tudományos főmunkatárs, továbbá egyetemi adjunktus, főiskolai adjunktus, esetén az adott munkakörben az előző fizetési fokozatban eltöltött tíz évet követően,
+- b) egyetemi docens, főiskolai docens, tudományos főmunkatárs, továbbá egyetemi adjunktus, főiskolai adjunktus és a tanár esetén az adott munkakörben az előző fizetési fokozatban eltöltött tíz évet követően,
 - c) egyetemi tanársegéd (gyakornok), mesteroktató esetén az előírt feltételek teljesítését követően
 
 magasabb fizetési fokozatba kell besorolni.
@@ -1268,7 +1268,7 @@ magasabb fizetési fokozatba kell besorolni.
 
 (6) Munkakör változása esetén a közalkalmazottat az új munkakörének első fizetési fokozatába kell besorolni. Ettől eltérően a korábbi fizetési fokozattal azonos fizetési fokozatba kell a közalkalmazottat besorolni akkor, ha olyan munkakörbe kerül, amelyre a 2. számú melléklet az előző besorolásához tartozó arányszámmal azonos arányszámot állapít meg.
 
-79/E. § A felsőoktatási intézményben oktatói munkakört, valamint a tudományos kutatói munkakört betöltő közalkalmazottak garantált illetményét e törvény 2. számú melléklete szerint kell meghatározni az egyetemi tanári munkakör 1. fizetési fokozata garantált illetményének költségvetési törvényben rögzített összege százalékos arányában.
+79/E. § A felsőoktatási intézményben oktatói, tanári munkakört, valamint a tudományos kutatói munkakört betöltő közalkalmazottak garantált illetményét e törvény 2. számú melléklete szerint kell meghatározni az egyetemi tanári munkakör 1. fizetési fokozata garantált illetményének költségvetési törvényben rögzített összege százalékos arányában.
 
 80. § (1) A közalkalmazotti jogviszony tekintetében az Mt. munkabérre vonatkozó rendelkezései (XII. fejezet) közül a 136. § (1)–(2) bekezdés, a 137–138. §, a 145. §, a 150. §, a 151. § (5) bekezdés, a 156. § (1) bekezdésének b) pontja, a 157. § (2) bekezdés, a 159. § és a 165. § nem alkalmazható.
 
@@ -1382,7 +1382,7 @@ magasabb fizetési fokozatba kell besorolni.
 - d) a felsőoktatási intézményeknél foglalkoztatott, illetve más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében
   - da) a magyar állampolgárság feltételét a közalkalmazotti jogviszony létesítéséhez,
   - db) a gyakornoki idő kikötése alól mentes munkaköröket,
-  - dc)
+  - dc) az illetménytöbblet mértékét és juttatásának szabályait,
   - dd) az 1. számú mellékletben szereplő minősítési szempontokhoz az ágazatba tartozó munkakörhöz kapcsolódó további vagy eltérő szempontokat, illetve az egyes munkakörökben foglalkoztatott közalkalmazott minősítésénél kizárt szempontokat,
   - de) a külön törvényben szabályozott teljesítményértékelés minősítési eredménnyel való egyenértékűsége feltételeit,
   - df) az illetménynövekedés feltételeit azokban az esetekben, amikor a további szakképzettség, illetve szakképesítés hasznosításának mértéke előre nem határozható meg,
@@ -1394,6 +1394,7 @@ magasabb fizetési fokozatba kell besorolni.
   - ed) az 1. számú mellékletben szereplő minősítési szempontokhoz az ágazatba tartozó munkakörhöz kapcsolódó további vagy eltérő szempontokat, illetve az egyes munkakörökben foglalkoztatott közalkalmazott minősítésénél kizárt szempontokat,
   - ee) a teljes munkaidőből kötelezően a munkahelyen töltendő idő tartamát, továbbá az ezen időtartam alatti munkavégzés egyes sajátos szabályait,
   - ef) a tudományos kutatói közalkalmazotti jogviszony létesítésénél a magyar állampolgársággal rendelkezés alóli felmentésnek, a szabad mozgás és tartózkodás jogával rendelkezés alóli felmentésnek a feltételeit, illetve bevándorolt vagy letelepedett státusz feltétele alóli mentesítésnek a feltételét;
+  - eg) az illetménytöbblet mértékét és juttatásának szabályait;
 - f) a művészeti, a közművelődési és a közgyűjteményi intézményeknél foglalkoztatott, illetve más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében
   - fa) a közalkalmazotti jogviszony létesítésének feltételeként magyar állampolgárság feltételét,
   - fb) a pályázat hivatalos lapban vagy egyéb módon való közzétételét, továbbá a pályázati eljárásban részt vevők körét, a pályázatok elbírálására vonatkozó többletkövetelményeket és az eljárás részletes szabályait,
@@ -1565,7 +1566,11 @@ eltöltött időt.
 
 (2) Az egyes jogállási tárgyú törvények módosításáról szóló 2015. évi XXXII. törvény szerinti tájékoztatási kötelezettség az egyes jogállási tárgyú törvények módosításáról szóló 2015. évi XXXII. törvény hatálybalépése után közölt megalapozott gyanú esetében áll fenn.
 
-91/F. § E törvénynek – az egyes, a felsőoktatás szabályozására vonatkozó törvények módosításáról szóló 2015. évi CXXXI. törvénnyel megállapított – 79/D. §-át és 2. számú mellékletét a költségvetési szervvel 2015. szeptember 1-jén már közalkalmazotti jogviszonyban álló személyek tekintetében is alkalmazni kell.
+91/F. § (1) E törvénynek – az egyes, a felsőoktatás szabályozására vonatkozó törvények módosításáról szóló 2015. évi CXXXI. törvénnyel megállapított – 79/D. §-át és 2. számú mellékletét a költségvetési szervvel 2015. szeptember 1-jén már közalkalmazotti jogviszonyban álló személyek tekintetében is alkalmazni kell.
+
+(2) E törvénynek – az oktatás szabályozására vonatkozó egyes törvények módosításáról szóló 2015. évi CCVI. törvénnyel (a továbbiakban: Kjt. módtv.) megállapított – 79/B. §-át, 79/D. §-át és 2. számú mellékletét a költségvetési szervvel 2016. január 1-jén már közalkalmazotti jogviszonyban álló személyek tekintetében is alkalmazni kell.
+
+(3) Az a tanári munkakörbe kinevezett közalkalmazott, akinek munkaköre a Kjt. módtv. 3. §-a következtében megszűnt, a kinevezésének megfelelő munkakörben – a (2) bekezdés figyelembevételével – alkalmazható tovább, e munkakörre új kinevezés azonban nem létesíthető.
 
 92. § (1)
 
@@ -1574,6 +1579,8 @@ eltöltött időt.
 (3)
 
 93. § Ha a közalkalmazotti jogviszony 2011. december 31-ét követően szűnik meg, és a munkáltató a felmentést, a munkáltató jogutód nélküli megszűnését vagy a munkavállaló a rendkívüli lemondást a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló törvény, vagy a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló törvény hatálybalépését megelőzően közölte, a közalkalmazott a közléskor hatályos szabályokban foglaltaknak megfelelően, ezt követő közlés esetén a megszűnéskor hatályos szabályokban foglaltaknak megfelelően minősül nyugdíjasnak.
+
+93/A. § A 66. § (1) bekezdésétől eltérően a fizetési osztályok első fizetési fokozatához tartozó illetmény garantált összegét, valamint a növekvő számú fizetési fokozatokhoz tartozó – az első fizetési fokozat garantált illetményére épülő – legkisebb szorzószámokat 2016-ra nézve a 3. melléklet állapítja meg.
 
 94. § E törvény a Magyar Köztársaság és az Európai Közösségek és azok tagállamai közötti társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás tárgykörében, a Megállapodást kihirdető 1994. évi I. törvény 3. §-ával összhangban az Európai Közösségek következő jogszabályaival összeegyeztethető szabályozást tartalmaz:
 
@@ -1678,46 +1685,90 @@ Dátum:
 
 ### 2. számú melléklet a 1992. évi XXXIII. törvényhez
 
-A felsőoktatási intézményben oktatói munkakört, valamint a tudományos kutatói munkakört betöltő közalkalmazottak garantált illetményét meghatározó, az egyetemi tanári munkakör 1. fizetési fokozatának a költségvetési törvényben megállapított garantált illetményére vetülő arányszámok
+A felsőoktatási intézményben oktatói, tanári munkakört, valamint a tudományos kutatói munkakört betöltő közalkalmazottak garantált illetményét meghatározó, az egyetemi tanári munkakör 1. fizetési fokozatának a költségvetési törvényben megállapított garantált illetményére vetülő arányszámok
 
 |  | A | B | C |
 | --- | --- | --- | --- |
 | 1. | Munkakör | Fizetési fokozat | Arányszám (%) |
-| 2. | Egyetemi tanár | 3. | 106 |
-| 3. | Egyetemi tanár | 2. | 103 |
-| 4. | Egyetemi tanár | 1. | 100 |
-| 5. | Egyetemi docens (amennyiben habilitációval rendelkezik) | 4 | 85 |
-| 6. | Egyetemi docens | 3. | 76 |
-| 7. | Egyetemi docens | 2. | 73 |
-| 8. | Egyetemi docens | 1. | 70 |
-| 9. | Egyetemi adjunktus | 3. | 53 |
-| 10. | Egyetemi adjunktus | 2. | 50 |
-| 11. | Egyetemi adjunktus | 1. | 50 |
-| 12. | Egyetemi tanársegéd | 2. | 40 |
-| 13. | Egyetemi tanársegéd (gyakornok) | 1. | 37 |
-| 14. | Főiskolai tanár (amennyiben habilitációval rendelkezik) | 4. | 90 |
-| 15. | Főiskolai tanár | 3. | 81 |
-| 16. | Főiskolai tanár | 2. | 78 |
-| 17. | Főiskolai tanár | 1. | 75 |
-| 18. | Főiskolai docens | 3. | 61 |
-| 19. | Főiskolai docens | 2. | 58 |
-| 20. | Főiskolai docens | 1. | 55 |
-| 21. | Főiskolai adjunktus | 2. | 48 |
-| 22. | Főiskolai adjunktus | 1. | 45 |
-| 23. | Főiskolai adjunktus | – | 45 |
-| 24. | Főiskolai tanársegéd | – | 40 |
-| 25. | Kutatóprofesszor, tudományos tanácsadó | 3. | 106 |
-| 26. | Kutatóprofesszor, tudományos tanácsadó | 2. | 103 |
-| 27. | Kutatóprofesszor, tudományos tanácsadó | 1. | 100 |
-| 28. | Tudományos főmunkatárs | 3. | 76 |
-| 29. | Tudományos főmunkatárs | 2. | 73 |
-| 30. | Tudományos főmunkatárs | 1. | 70 |
-| 31. | Tudományos munkatárs | – | 50 |
-| 32. | Tudományos segédmunkatárs | – | 40 |
-| 33. | Mesteroktató | 2. | 54 |
-| 34. | Mesteroktató | 1. | 51 |
+| 2. | Oktatói munkakörök |  |  |
+| 3. | Egyetemi tanár | 3. | 106 |
+| 4. | Egyetemi tanár | 2. | 103 |
+| 5. | Egyetemi tanár | 1. | 100 |
+| 6. | Egyetemi docens (ha rendelkezik habilitációval) | 4. | 85 |
+| 7. | Egyetemi docens | 3. | 76 |
+| 8. | Egyetemi docens | 2. | 73 |
+| 9. | Egyetemi docens | 1. | 70 |
+| 10. | Egyetemi adjunktus | 3. | 54 |
+| 11. | Egyetemi adjunktus | 2. | 52 |
+| 12. | Egyetemi adjunktus | 1. | 50 |
+| 13. | Egyetemi tanársegéd | 2. | 40 |
+| 14. | Egyetemi tanársegéd (gyakornok) | 1. | 37 |
+| 15. | Főiskolai tanár (ha rendelkezik habilitációval ) | 4. | 90 |
+| 16. | Főiskolai tanár | 3. | 81 |
+| 17. | Főiskolai tanár | 2. | 78 |
+| 18. | Főiskolai tanár | 1. | 75 |
+| 19. | Főiskolai docens | 3. | 61 |
+| 20. | Főiskolai docens | 2. | 58 |
+| 21. | Főiskolai docens | 1. | 55 |
+| 22. | Főiskolai adjunktus | 3. | 49 |
+| 23. | Főiskolai adjunktus | 2. | 47 |
+| 24. | Főiskolai adjunktus | 1. | 45 |
+| 25. | Főiskolai tanársegéd | - | 40 |
+| 26. | Mesteroktató | 2. | 54 |
+| 27. | Mesteroktató | 1. | 51 |
+| 28. | Kutatói munkakörök |  |  |
+| 29. | Kutatóprofesszor, tudományos tanácsadó | 3. | 106 |
+| 30. | Kutatóprofesszor, tudományos tanácsadó | 2. | 103 |
+| 31. | Kutatóprofesszor, tudományos tanácsadó | 1. | 100 |
+| 32. | Tudományos főmunkatárs | 3. | 76 |
+| 33. | Tudományos főmunkatárs | 2. | 73 |
+| 34. | Tudományos főmunkatárs | 1. | 70 |
+| 35. | Tudományos munkatárs | - | 50 |
+| 36. | Tudományos segédmunkatárs | - | 40 |
+| 37. | Tanári munkakörök |  |  |
+| 38. | Mérnöktanár | 3. | 47 |
+| 39. | Mérnöktanár | 2. | 42 |
+| 40. | Mérnöktanár | 1. | 37 |
+| 41. | Nyelvtanár | 3. | 47 |
+| 42. | Nyelvtanár | 2. | 42 |
+| 43. | Nyelvtanár | 1. | 37 |
+| 44. | Testnevelő tanár | 3. | 47 |
+| 45. | Testnevelő tanár | 2. | 42 |
+| 46. | Testnevelő tanár | 1. | 37 |
+| 47. | Művésztanár | 3. | 47 |
+| 48. | Művésztanár | 2. | 42 |
+| 49. | Művésztanár | 1. | 37 |
+| 50. | Mestertanár | 3. | 47 |
+| 51. | Mestertanár | 2. | 42 |
+| 52. | Mestertanár | 1. | 37 |
+| 53. | Kollégiumi nevelőtanár | 3. | 47 |
+| 54. | Kollégiumi nevelőtanár | 2. | 42 |
+| 55. | Kollégiumi nevelőtanár | 1. | 37 |
 
 ### 3. számú melléklet az 1992. évi XXXIII. törvényhez
+
+#### A közalkalmazotti fizetési osztályok első fizetési fokozata szerinti garantált illetmények havi összege forintban, valamint a fizetési fokozatokhoz tartozó legkisebb szorzószámok 2016. évben
+
+| Fizetési fokozatok | Fizetési osztályok |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| A | B | C | D | E | F | G | H | I | J |
+| 1 | 69 000 | 77 000 | 78 000 | 79 000 | 89 000 | 122 000 | 127 000 | 129 500 | 142 000 | 154 500 |
+| 2 | 1,0175 | 1,0175 | 1,0200 | 1,0250 | 1,0275 | 1,0350 | 1,0350 | 1,0500 | 1,0450 | 1,0600 |
+| 3 | 1,0350 | 1,0350 | 1,0400 | 1,0500 | 1,0550 | 1,0725 | 1,0725 | 1,1000 | 1,1025 | 1,1350 |
+| 4 | 1,0525 | 1,0525 | 1,0650 | 1,0750 | 1,0900 | 1,1100 | 1,1100 | 1,1500 | 1,1675 | 1,2100 |
+| 5 | 1,0700 | 1,0700 | 1,0900 | 1,1000 | 1,1250 | 1,1475 | 1,1475 | 1,2000 | 1,2425 | 1,2850 |
+| 6 | 1,0875 | 1,0875 | 1,1125 | 1,1250 | 1,1600 | 1,1850 | 1,1850 | 1,2600 | 1,3175 | 1,3600 |
+| 7 | 1,1075 | 1,1075 | 1,1375 | 1,1525 | 1,1975 | 1,2225 | 1,2225 | 1,3350 | 1,3925 | 1,4200 |
+| 8 | 1,1275 | 1,1400 | 1,1625 | 1,1875 | 1,2350 | 1,2650 | 1,2725 | 1,4100 | 1,4675 | 1,4825 |
+| 9 | 1,1500 | 1,1725 | 1,1950 | 1,2250 | 1,2725 | 1,3075 | 1,3325 | 1,4850 | 1,5275 | 1,5450 |
+| 10 | 1,1725 | 1,2075 | 1,2300 | 1,2625 | 1,3100 | 1,3675 | 1,3950 | 1,5600 | 1,5875 | 1,6075 |
+| 11 | 1,1950 | 1,2425 | 1,2675 | 1,3000 | 1,3475 | 1,4275 | 1,4575 | 1,6250 | 1,6475 | 1,6700 |
+| 12 | 1,2175 | 1,2775 | 1,3050 | 1,3375 | 1,3775 | 1,4875 | 1,5200 | 1,6900 | 1,7075 | 1,7325 |
+| 13 | 1,2400 | 1,3125 | 1,3425 | 1,3750 | 1,4075 | 1,5475 | 1,5825 | 1,7550 | 1,7775 | 1,8025 |
+| 14 | 1,2625 | 1,3500 | 1,3800 | 1,4125 | 1,4425 | 1,6075 | 1,6450 | 1,8200 | 1,8475 | 1,8725 |
+| 15 | 1,2850 | 1,3875 | 1,4175 | 1,4500 | 1,4775 | 1,6675 | 1,7075 | 1,8850 | 1,9175 | 1,9425 |
+| 16 | 1,3075 | 1,4250 | 1,4550 | 1,4875 | 1,5125 | 1,7275 | 1,7700 | 1,9500 | 1,9875 | 2,0125 |
+| 17 | 1,3300 | 1,4625 | 1,4925 | 1,5250 | 1,5475 | 1,7875 | 1,8325 | 2,0150 | 2,0575 | 2,0825 |
 
 ### 4. számú melléklet az 1992. évi XXXIII. törvényhez
 

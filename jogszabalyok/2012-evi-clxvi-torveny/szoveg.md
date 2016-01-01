@@ -30,6 +30,8 @@ kezdeményezheti az 1–3. mellékletben meghatározott ágazatokhoz tartozás a
 
 (3) Az ágazati kijelölő hatóság az ágazati és horizontális kritériumok alapján a közigazgatási hatósági eljárás szabályainak megfelelően határozatban dönt a nemzeti létfontosságú rendszerelem kijelöléséről vagy a kijelölés visszavonásáról, meghatározza az üzemeltetői biztonsági terv kidolgozásának határidejét, valamint a létfontosságú rendszerelem védelmével összefüggő, a rendszerelem egyedi sajátosságaihoz, környezetéhez, a rendszerelem által potenciálisan előidézhető veszély mértékéhez igazodó feltételeket írhat elő az üzemeltető részére.
 
+(4) Az ágazati kijelölő hatóság a (3) bekezdés szerinti döntését az azonosítási jelentés kézhezvételétől számított 70 napon belül hozza meg.
+
 #### 3. Az európai létfontosságú rendszerelemek kijelölése
 
 3. § (1) Európai létfontosságú rendszerelem kijelölésére vagy a kijelölés visszavonására irányuló folyamat
@@ -209,21 +211,17 @@ kezeli.
 | --- | --- | --- |
 |  | ÁGAZAT | ALÁGAZAT |
 | 9 | Agrárgazdaság | mezőgazdaság |
-| 10 | élelmiszeripar |
-| 11 | elosztó hálózatok |
+| 10 |  | élelmiszeripar |
+| 11 |  | elosztó hálózatok |
 | 12 | Egészségügy | aktív fekvőbeteg-ellátás |
-| 13 | mentésirányítás |
-| 14 | egészségügyi tartalékok és vérkészletek |
-| 15 | magas biztonsági szintű biológiai laboratóriumok |
-| 16 | egészségbiztosítás informatikai rendszere |
-| 16a | gyógyszer-nagykereskedelem |
-| 17 | Pénzügy | pénzeszközök, pénzügyi eszközök kereskedési, elszámolási, fizetési és teljesítést végző infrastruktúrái és rendszerei |
-| 18 | bank- és hitelintézeti biztonság |
-| 19 | készpénzellátás |
-| 20 | Ipar | veszélyes anyagok előállítása, tárolása és feldolgozása |
-| 21 | veszélyes hulladékok kezelése és tárolása (kivéve radioaktív hulladékok kezelése és tárolása) |
-| 22 | hadiipari termelés |
-| 23 | oltóanyag- és gyógyszergyártás (kivéve nukleáris létesítmények) |
+| 13 |  | mentésirányítás |
+| 14 |  | egészségügyi tartalékok és vérkészletek |
+| 15 |  | magas biztonsági szintű biológiai laboratóriumok |
+| 16 |  | egészségbiztosítás informatikai rendszere |
+| 16a |  | gyógyszer-nagykereskedelem |
+| 17 | Pénzügy | pénzügyi eszközök kereskedelmi, fizetési, valamint klíring- és elszámolási infrastruktúrái és rendszerei |
+| 18 |  | bank- és hitelintézeti biztonság |
+| 19 |  | készpénzellátás |
 
 ### 3. melléklet a 2012. évi CLXVI. törvényhez
 

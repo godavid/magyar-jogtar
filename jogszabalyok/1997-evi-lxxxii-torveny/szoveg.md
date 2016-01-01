@@ -22,7 +22,7 @@ A magánnyugdíjrendszer létrehozása és működése érdekében az Országgy�
 
 (2) A nemzetközi szerződések hatálya alá tartozó személyekre e törvény rendelkezéseit a nemzetközi szerződésben foglalt eltéréssel kell alkalmazni.
 
-(3) A pénztárak részére vagyonkezelési és letétkezelési tevékenységet végző pénzügyi intézményekre, befektetési vállalkozásokra és befektetési alapkezelőkre, és az ilyen tevékenységet végző egyéb szervezetekre a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvényben (a továbbiakban: Bit.), a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben (a továbbiakban: Hpt.), a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényben (a továbbiakban: Bszt.), a tőkepiacról szóló törvényben foglaltakon kívül e törvény rendelkezéseit is alkalmazni kell.
+(3) A pénztárak részére vagyonkezelési és letétkezelési tevékenységet végző pénzügyi intézményekre, befektetési vállalkozásokra és befektetési alapkezelőkre, és az ilyen tevékenységet végző egyéb szervezetekre a biztosítási tevékenységről szóló törvényben (a továbbiakban: Bit.), a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben (a továbbiakban: Hpt.), a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényben (a továbbiakban: Bszt.), a tőkepiacról szóló törvényben foglaltakon kívül e törvény rendelkezéseit is alkalmazni kell.
 
 3. § Természetes személy önkéntes döntése alapján pénztártaggá válhat.
 
@@ -2225,7 +2225,7 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 - 1. Áht.: az 1992. évi XXXVIII. törvény az államháztartásról;
 - 2. Átt.: az 1994. évi XXXIX. törvény az árutőzsdéről és az árutőzsdei ügyletekről;
 - 3. Bat.: az 1991. évi LXIII. törvény a befektetési alapokról;
-- 4. Bit.: a 2003. évi LX. törvény a biztosítókról és biztosítási tevékenységről;
+- 4. Bit.: a biztosítási tevékenységről szóló törvény;
 - 5. Cstv.: az 1991. évi XLIX. törvény a csődeljárásról és a felszámolási eljárásról;
 - 6. Dtv.: az 1995. évi XCV. törvény a devizáról;
 - 7. Tpt.: a tőkepiacról szóló 2001. évi CXX. törvény;

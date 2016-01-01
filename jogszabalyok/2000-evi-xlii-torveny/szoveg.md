@@ -81,6 +81,8 @@ látja el.
 
 (5) A hajózási hatóságnál kezdeményezett eljárásokban a Kormány által rendeletben meghatározott dokumentum elektronikus úton nem terjeszthető elő.
 
+(6) A kikötő létesítésével, fennmaradásával, továbbá az úszólétesítmény építési (átépítési) terveinek felülvizsgálatával és jóváhagyásával, valamint a komp- és révátkelőhely létesítésével és fennmaradásával, üzemben tartásával kapcsolatos ügyekben az ügyintézési határidő 30 nap.
+
 5. § A hajózással kapcsolatos rendőrhatósági és határrendészeti tevékenységet a rendészetért felelős miniszter és a határrendészetért felelős miniszter – a rendőrség vízirendészeti feladatokat ellátó szervei útján – a vízirendészettel és a víziközlekedéssel kapcsolatos rendőri feladatokról szóló jogszabályban foglaltak alapján látja el.
 
 5/A. § (1) A veszélyes vagy szennyező áru belvízi szállításának hatósági ellenőrzését a veszélyes áruk belvízi szállításának ellenőrzésére vonatkozó jogszabályokban meghatározottak szerint a hajózási hatóság, a rendőrség vízirendészeti szerve és a hivatásos katasztrófavédelmi szerv látja el.
@@ -332,24 +334,11 @@ lajstromban tartja nyilván.
   - kb) az eredeti képesítő okmány száma,
   - kc) az elismerést igazoló érvényesítés száma.
 
-26/A. § (1) A képesítéshez kötött szolgálat gyakorlását megelőzően a képesítő okmány kiadása céljából a kérelmező
-
-- a) hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, nem áll foglalkozástól és vízi jármű vezetésétől eltiltás hatálya alatt, vagy
-- b) kéri, hogy az arra vonatkozó adatokat, amely szerint büntetlen előéletű, nem áll foglalkozástól és vízi jármű vezetésétől eltiltás hatálya alatt, a bűnügyi nyilvántartó szerv a hajózási hatóság részére – annak a képesítő okmány kiadása céljából benyújtott adatigénylése alapján – továbbítsa.
-
-(2) Az (1) bekezdésben meghatározott adatigénylés során a hajózási hatóság arra vonatkozóan igényelhet adatot a bűnügyi nyilvántartó szervtől, hogy a képesítő okmány kiadása iránti kérelmet benyújtó személy büntetlen előéletű-e, valamint foglalkozástól vagy vízi jármű vezetésétől eltiltás hatálya alatt áll-e.
+26/A. § (1)–(2)
 
 (3) A hajózási hatóság hatósági ellenőrzés keretében ellenőrzi azt is, hogy a képesítő okmánnyal rendelkező személy büntetlen előéletű-e, és nem áll-e foglalkozástól vagy vízi jármű vezetésétől eltiltás hatálya alatt.
 
-(4) A hajózási hatóság az (1) bekezdésében meghatározott körülmény igazolása céljából kezeli
-
-- a) a képesítő okmány kiadása iránti kérelmet benyújtó személy,
-- b) a képesítő okmánnyal rendelkező személy azon személyes adatait, amelyeket az e célból a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalmaz.
-
-(5) A (4) bekezdésben meghatározott személyes adatokat a hajózási hatóság
-
-- a) a képesítő okmány kiadása iránti eljárás jogerős befejezéséig vagy
-- b) a képesítő okmány kiadása esetén a hatósági ellenőrzés időtartamára vagy a képesítő okmány visszavonására irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
+(4)–(5)
 
 26/B. § (1) A külön jogszabályban meghatározott hatósági vizsgát a hajózási hatóság által megbízott vizsgabizottság előtt kell letenni.
 
@@ -357,14 +346,9 @@ lajstromban tartja nyilván.
 
 (3) Nem vehető fel a Vizsgabiztosok Névjegyzékébe az a személy, aki büntetett előéletű.
 
-(4) A vizsgabiztosnak jelölt személy a Vizsgabiztosok Névjegyzékébe való felvételt megelőzően
+(4)–(5)
 
-- a) hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, vagy
-- b) kéri, hogy az arra vonatkozó adatokat, amely szerint büntetlen előéletű, a bűnügyi nyilvántartó szerv a hajózási hatóság részére – annak a Vizsgabiztosok Névjegyzékébe való felvétel céljából benyújtott adatigénylése alapján – továbbítsa.
-
-(5) A (4) bekezdés b) pontjában meghatározott adatigénylés során a hajózási hatóság arra vonatkozóan igényelhet adatot a bűnügyi nyilvántartó szervtől, hogy a vizsgabiztosnak jelölt személy büntetlen előéletű-e.
-
-(6) A hajózási hatóság a vizsgabiztosi tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a vizsgabiztos büntetlen előéletű-e. A hatósági ellenőrzés céljából a hajózási hatóság adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a vizsgabiztos büntetlen előéletű-e.
+(6) A hajózási hatóság a vizsgabiztosi tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a vizsgabiztos büntetlen előéletű-e.
 
 27. § Az úszólétesítmény személyzete vezetőből – továbbá az úszólétesítmény méretétől és rendeltetésétől függően – tisztekből, legénységből és segédszemélyzetből áll.
 

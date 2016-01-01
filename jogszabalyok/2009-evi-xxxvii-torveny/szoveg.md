@@ -224,7 +224,7 @@ indokolt.
 
 12. § (1) E törvény alkalmazásában fásítás az erdei fafajból vagy fafajokból álló
 
-- a) egyes fa;
+- a)
 - b) jellemzően vonalas kiterjedésű fával borított terület, ahol az állományon belüli egyes fák, és a terület kisebb kiterjedése szerinti szélső fák egymástól mért tőtávolsága átlagosan nem nagyobb húsz méternél (fasor);
 - c) ötezer négyzetméternél kisebb, jellemzően nem vonalas kiterjedéssel rendelkező, legalább ötven százalékban fával borított területen lévő fák összessége (facsoport);
 - d) olyan legelő művelési ágban lévő földrészlet, amelyet a fák koronavetülete egyenletes elosztásban legfeljebb harminc százalékban fed (fás legelő).
@@ -586,7 +586,7 @@ lehet.
 - d) erdőrészletenként a 7. § (1) bekezdés szerinti természetességi állapotot,
 - e) erdőrészletenként az erdő rendeltetésének vagy rendeltetéseinek és üzemmódjának megfelelően javasolt erdőfelújítási feladatokat,
 - f) erdőrészletenként az erdei haszonvételek javasolt mértékét, gyakorlásának módját,
-- g) az erdőgazdálkodási tevékenységgel összefüggő átfogó adatokat, valamint azok elemzését,
+- g) az erdőgazdálkodási tevékenységgel összefüggő átfogó adatokat,
 - h) az erdészeti nyilvántartási térképeket,
 - i) a védett természeti területen a védelemhez, illetve a Natura 2000 területeken a közösségi és kiemelt jelentőségű élőhelyek és fajok kedvező természetvédelmi helyzetének megőrzéséhez szükséges javaslatokat.
 
@@ -659,6 +659,11 @@ lehet.
 (3) A védett természeti területek természetvédelmi kezeléséért felelős szerv részére, a működési területükön fekvő védett és Natura 2000 területek Adattárban szereplő adataihoz történő elektronikus hozzáférést az e törvény végrehajtására kiadott jogszabályban foglaltak szerint biztosítani kell.
 
 (4) Az ingatlanügyi hatóság, a földmérési és térinformatikai államigazgatási szerv, valamint a honvédelem térképészeti támogatásáért felelős szerv részére az Adattárból díj-, költség- és térítésmentesen kell szolgáltatni az alapfeladataik ellátásához, valamint az Európai Unió Közös Agrárpolitikájának végrehajtásával kapcsolatos feladatok ellátásához igényelt adatokat.
+
+(5) Az erdőgazdálkodó részére az Adattárban nyilvántartott
+
+- a) személyes adataihoz, valamint
+- b) a használatában lévő erdőre vonatkozó adatokhoz történő elektronikus hozzáférést az e törvény végrehajtására kiadott jogszabályban foglaltak szerint biztosítani kell.
 
 39/A. § (1) Az Adattárban a közjóléti létesítmény alábbi adatait kell nyilvántartani:
 
@@ -957,13 +962,15 @@ akadályozó létszámú és fajösszetételű vadászható vadállomány nem ta
 
 (6) Tilos az erdőben közvetlenül vagy közvetve tüzet okozó tárgyak elhelyezése.
 
+(7) Nem minősül tűzgyújtásnak a gáz égőfej és a zárt tűzterű sütő-, főző-, melegítő eszköz alkalmazása, ha az megfelelő szikrafogóval van ellátva.
+
 66. § (1) A tűz őrzéséről, valamint annak – a helyszínről való távozás előtti – biztonságos eloltásáról a tűzgyújtásra jogosult köteles gondoskodni.
 
 (2) Aki erdőtüzet vagy tűzveszélyt észlel és azt eloltani, illetve elhárítani nem tudja, köteles a tűzoltóságot, az erdészeti hatóságot vagy az erdőgazdálkodót haladéktalanul tájékoztatni.
 
 67. § (1) Fokozott tűzveszély esetén a miniszter határozatban – a katasztrófák elleni védekezésért felelős miniszterrel való egyeztetés mellett – az ország egészére vagy meghatározott területén lévő erdőre, valamint az erdő határától számított kétszáz méteren belüli területre – átmeneti időre – általános tűzgyújtási tilalmat rendelhet el. A tűzgyújtási tilalom elrendeléséről és annak feloldásáról szóló határozatot az erdészeti hatóság és a miniszter által vezetett minisztérium honlapján, valamint két országos napilapban, a közszolgálati televízióban és rádióban kell közölni. A határozat közlése időpontjának az első közzététel időpontja minősül.
 
-(2) Megye vagy település területére kiterjedő fokozott tűzveszély esetén – indokolt esetben, átmeneti időre – a megyei katasztrófavédelmi igazgatóság, a főváros területén a Fővárosi Tűzoltó-parancsnokság egyetértésével vagy javaslatára az erdészeti hatóság is rendelhet el tűzgyújtási tilalmat. A tilalom elrendeléséről és annak feloldásáról szóló határozatot az erdészeti hatóság és a miniszter által vezetett minisztérium honlapján, valamint két országos napilapban, a közszolgálati televízióban és rádióban kell közölni. A határozat közlése időpontjának az első közzététel időpontja minősül.
+(2) Megye vagy település területére kiterjedő fokozott tűzveszély esetén – indokolt esetben, átmeneti időre – a megyei katasztrófavédelmi igazgatóság, a főváros területén a Fővárosi Katasztrófavédelmi Igazgatóság egyetértésével vagy javaslatára az erdészeti hatóság is rendelhet el tűzgyújtási tilalmat. A tilalom elrendeléséről és annak feloldásáról szóló határozatot az erdészeti hatóság és a miniszter által vezetett minisztérium honlapján, valamint két országos napilapban, a közszolgálati televízióban és rádióban kell közölni. A határozat közlése időpontjának az első közzététel időpontja minősül.
 
 (3) A tűzgyújtási tilalom elrendelése esetén, annak feloldásáig az erdészeti hatóság az erdőbe való belépést és az ott tartózkodást korlátozhatja, illetve megtilthatja.
 
@@ -1106,10 +1113,7 @@ egybefüggő, felújítás alatt álló vágásterület nem keletkezik.
 
 ### Erdészeti szaporítóanyag gyűjtése
 
-75. § (1) Erdészeti szaporítóanyagot az erdészeti hatóság engedélye alapján lehet gyűjteni
-
-- a) a szálaló vagy faanyagtermelést nem szolgáló üzemmódban kezelt erdőkben, vagy
-- b) a vágásérettségi kort 10 éven belül elérő erdőkben.
+75. § (1)
 
 (2) Tilos erdészeti szaporítóanyagot gyűjteni, ha az az erdőfelújítás sikerességét veszélyezteti.
 
@@ -1633,7 +1637,7 @@ az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valami
 
 (2) Az e törvény hatálya alá tartozó hatósági eljárás díj- és illetékmentes, amennyiben az adott eljárásra e törvény végrehajtására kiadott jogszabály igazgatási szolgáltatási díjat nem állapít meg.
 
-(3) Az erdőterv-módosítási eljárás, az igénybevételi eljárás, valamint az erdőgazdálkodói nyilvántartásba vételi eljárás ügyintézési határideje – az egyszerűsített erdőgazdálkodói nyilvántartásba vétel kivételével – 45 nap.
+(3) Az erdőterv-módosítási eljárás, az igénybevételi eljárás, valamint az erdőgazdálkodói nyilvántartásba vételi eljárás ügyintézési határideje – az egyszerűsített erdőgazdálkodói nyilvántartásba vétel kivételével – harmincöt nap.
 
 (4) Ha az erdészeti hatósági eljárás a Ket.-ben meghatározott jelentős számú ügyfelet érint, akkor a hatóság az ügyféllel hirdetményi úton tart kapcsolatot.
 
@@ -1649,6 +1653,10 @@ az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valami
 (8) Ha a (7) bekezdésben foglalt bejelentést tevő személyek az erdészeti hatósági hiánypótlási felhívásban meghatározott határidő alatt a bejegyzés alapjául szolgáló okirat érvénytelensége, illetve a közös tulajdon megszüntetése iránti per megindítását a keresetlevélnek a bíróságon iktatott példányával vagy annak hiteles másolatával nem igazolják, az erdészeti hatóság érdemi határozatot hoz a bejegyzési kérelem tekintetében.
 
 (9) Semmisségi oknak minősül, ha az erdészeti hatóság az erdő igénybevételének engedélyezéséről, elvi engedélyezéséről a közérdekűség vagy a kivételesség e törvény szerinti vizsgálata nélkül dönt.
+
+(10) Az erdészeti hatóságnak az erdő igénybevételi eljárásban és az erdő területén fátlan állapot kialakításának vagy fenntartásának engedélyezési eljárásában a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+
+(11) Az erdészeti hatóság az eljárását az ügy érdemével összefüggően indított büntetőeljárás vagy szabálysértési eljárás jogerős lezárásáig felfüggesztheti.
 
 ### Nyilvántartásokkal kapcsolatos szabályok
 
@@ -1835,7 +1843,8 @@ vonatkozó adat igénylésére.
 - 23. a közjóléti létesítmények nyilvántartásának és a közjóléti fejlesztési tervek készítésének részletes szabályait;
 - 24. a földalatti gombák gyűjtésére vonatkozó részletes szabályokat;
 - 25. az erdőgazdálkodói tevékenység nyilvánossága biztosításának részletes szabályait;
-- 26. az erdészeti szakszemélyzet és jogosult erdészeti szakszemélyzet, valamint az erdővédelmi szolgálat tagjának szolgálati igazolványára és szolgálati jelvényére vonatkozó szabályokat.
+- 26. az erdészeti szakszemélyzet és jogosult erdészeti szakszemélyzet, valamint az erdővédelmi szolgálat tagjának szolgálati igazolványára és szolgálati jelvényére vonatkozó szabályokat;
+- 27. az elektronikus úton az erdészeti hatóság felé teljesítendő kérelem, bejelentési, valamint adatszolgáltatási kötelezettség eseteit, az erdészeti hatósággal való elektronikus kapcsolattartás feltételeit, valamint az elektronikus kapcsolattartással kapcsolatos részletes szabályokat.
 
 (3) Felhatalmazást kap a miniszter, hogy – védett természeti területen lévő erdő vonatkozásában a természetvédelemért felelős miniszterrel egyetértésben – rendeletben állapítsa meg:
 

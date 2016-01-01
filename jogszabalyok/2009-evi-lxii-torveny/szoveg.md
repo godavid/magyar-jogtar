@@ -27,7 +27,7 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 
 - 1. Belső Szabályzat: a Bizottság 2003. július 28-i, a 72/166/EGK tanácsi irányelvnek a gépjármű-felelősségbiztosítás ellenőrzésére vonatkozó alkalmazásáról szóló 2003/564/EK határozatának függelékében foglalt, a nemzeti irodák egymás közötti kapcsolatait rendező szabályzat;
 - 2. biztosítási időszak: a határozatlan tartamú szerződések esetében – a díjfizetés gyakoriságától függetlenül – az az időtartam, amelyre a megállapított díj vonatkozik;
-- 3. biztosító: a biztosítókról és biztosítási tevékenységről szóló 2003. évi LX. törvényben (a továbbiakban: Bit.) meghatározott szervezet, amely a székhely szerinti tagállamában engedélyt kapott a gépjármű-felelősségbiztosítási tevékenység végzésére, és Magyarország területén az e törvényben foglaltaknak megfelelően a kötelező gépjármű-felelősségbiztosítási (a továbbiakban: biztosítás) tevékenység folytatására jogosult;
+- 3. biztosító: a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvényben (a továbbiakban: Bit.) meghatározott szervezet, amely a székhely szerinti tagállamában engedélyt kapott a gépjármű-felelősségbiztosítási tevékenység végzésére, és Magyarország területén az e törvényben foglaltaknak megfelelően a kötelező gépjármű-felelősségbiztosítási (a továbbiakban: biztosítás) tevékenység folytatására jogosult;
 - 4. biztosított: a gépjármű biztosítással rendelkező üzemben tartója és a gépjárművet vezető személy;
 - 5. díjtarifa: miniszteri rendeletben meghatározott gépjármű-kategóriánként és – a flotta kivételével – bonus-malus osztályonként a biztosító által megállapított alapdíjak és a díj meghatározásánál alkalmazható valamennyi korrekciós tényező összessége;
 - 6. egyedi szerződés: adott üzemben tartó által, egy meghatározott gépjárműre kötött, e törvénynek megfelelő biztosítási szerződés;
@@ -60,7 +60,7 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
   - b) amelyben a tulajdont szerző szokásos tartózkodási helye van, vagy ha a szerződő jogi személy, egyéni vállalkozó, egyéni cég, az a tagállam, amelyben a tulajdont szerzőnek a szerződéssel érintett telephelye, fióktelepe található;
 - 29. Rendszámegyezmény: a nemzeti irodák között létrejött olyan megállapodás, amely alapján az egyezményben részes országok hatóságai a zöldkártyában megtestesülő igazolás helyett az illető országban megkövetelt gépjármű-felelősségbiztosítási fedezet igazolásául a jármű hatósági jelzését (forgalmi rendszámát) az országjellel együtt elfogadják;
 - 30. súlyos személyi sérülés: a balesetből eredően legalább 25%-os össz-szervezeti egészségkárosodással járó maradandó fogyatékosságot okozó, vagy a balesetből eredő, legalább 6 hónapos gyógytartammal járó súlyos egészségromlást okozó sérülés;
-- 31. székhely szerinti tagállam: a Bit.-ben a székhely tagállamaként meghatározott fogalom;
+- 31. székhely szerinti tagállam: az a tagállam, ahol a kötelezettséget vállaló biztosító, biztosításközvetítő, valamint szaktanácsadó székhelye található;
 - 32. tagállam: az Európai Gazdasági Térségről szóló megállapodásban részes állam és Svájc;
 - 33. telephely szerinti ország: az az ország,
   - a) amelynek hatósága a gépjárművet állandó vagy ideiglenes hatósági jelzéssel ellátta, vagy
@@ -146,7 +146,7 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 
 10. § (1) Ugyanarra a biztosítási időszakra vagy ugyanazon biztosítási időszak egy részére kötött további biztosítási szerződés érvénytelen.
 
-(2) Ha a biztosítónak kötelező gépjármű-felelősségbiztosítás művelésére vonatkozó tevékenységi engedélye visszavonásra került és a Felügyelet a visszavonásról szóló döntést vagy a Bit. 211. § (2a) bekezdésében meghatározott felügyeleti tájékoztatót a honlapján közzétette, a szerződő fél a tevékenységi engedély visszavonásával érintett szerződés megszüntetése nélkül más biztosítónál – a tevékenységi engedély visszavonására hivatkozással – új szerződést köthet. A tevékenységi engedély visszavonásával érintett szerződés – amennyiben korábban nem szűnt meg – az új szerződés kockázatviselési kezdetének napját megelőző napon megszűnik.
+(2) Ha a biztosítónak kötelező gépjármű-felelősségbiztosítás művelésére vonatkozó tevékenységi engedélye visszavonásra került és a Felügyelet a visszavonásról szóló döntést vagy a Bit. 289. § (6a) bekezdésében meghatározott felügyeleti tájékoztatót a honlapján közzétette, a szerződő fél a tevékenységi engedély visszavonásával érintett szerződés megszüntetése nélkül más biztosítónál – a tevékenységi engedély visszavonására hivatkozással – új szerződést köthet. A tevékenységi engedély visszavonásával érintett szerződés – amennyiben korábban nem szűnt meg – az új szerződés kockázatviselési kezdetének napját megelőző napon megszűnik.
 
 (3) Ha a biztosítási szerződés az 5. § (2) bekezdésében foglaltak szerint a (2) bekezdés szerinti biztosítónál szűnt meg, akkor a szerződő félnek az adott biztosítási időszak hátralévő részére fedezetet nyújtó szerződés megkötésére vonatkozó ajánlatát bármelyik biztosító jogosult elfogadni.
 
@@ -283,6 +283,8 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 
 (8) A Kártalanítási Számla kezelője jogosult az érdekmúlás miatt vagy egyéb okból következően ki nem számlázott, illetve a biztosító által kiszámlázott és az üzemben tartó által részben vagy teljes mértékben ki nem fizetett fedezetlenségi díjat beszedni.
 
+(9) A Kártalanítási Számla kezelője a (7) bekezdésben meghatározottak szerint számított fedezetlenségi díj tarifájának a megállapítása során a 36. § (11)–(12) bekezdésben meghatározott esetre vonatkozóan méltányos mértékű külön tarifát állapít meg.
+
 ### Díjtarifa, díjhirdetés
 
 23. § (1) A biztosító a díjat minden egyedi szerződés vonatkozásában a meghirdetett – a biztosítási időszak, illetve tartam kezdőnapján alkalmazandó – díjtarifa alapján alakítja ki és azt az adott biztosítási időszak alatt – jogszabály eltérő rendelkezése hiányában – nem változtathatja meg, kivéve, ha a szerződés díja a szerződő üzemben tartónak a szerződés megkötésekor fennálló közlési vagy együttműködési kötelezettségének megsértése következtében tér el a díjtarifa szerint megállapítandó díjtól.
@@ -311,7 +313,7 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 
 (2) A biztosítót az (1) bekezdésben meghatározott ideiglenes kivonás tényéről, valamint annak kezdő és záró időpontjáról a kötvénynyilvántartó szerv elektronikus úton értesíti.
 
-(3) A szünetelés a (2) bekezdésben meghatározott időpontoknak megfelelően a kivonás napjától a szünetelés lejártának napjáig vagy a gépjármű ismételt forgalomba helyezésének napjáig, de legfeljebb hat hónapig tart.
+(3) A szünetelés a (2) bekezdésben meghatározott időpontoknak megfelelően a kivonás napjától a szünetelés lejártának napjáig vagy a gépjármű ismételt forgalomba helyezésének napjáig, de legfeljebb egy évig tart.
 
 (4) Ha az újbóli üzembe helyezés a kivonás napjától számított egy éven belül nem történik meg, a szerződés az egyéves időszak utolsó napját követő napon megszűnik.
 
@@ -470,6 +472,10 @@ megillető minden jog és követelés.
 (9) A Kártalanítási Számla kezelője e törvény alapján feladatainak ellátása, illetve őt megillető igényének érvényesítése érdekében pert indíthat.
 
 (10) A Kártalanítási Számla kezelője nem érvényesíthet megtérítési igényt az elhunyt üzemben tartó, illetve vezető örököseivel szemben.
+
+(11) A Kártalanítási Számla kezelőjét a 33. §-ban és a (8) bekezdés a) pontjában meghatározott jogosultság – a (12) bekezdésben meghatározott időtartamban és feltételek szerint – nem illeti meg az olyan kötelező gépjármű-felelősségbiztosítási szerződés vonatkozásában, amely azért szűnt meg, mert a biztosító ellen felszámolási eljárás indult.
+
+(12) A (11) bekezdésben meghatározott jogosultság azon káreseményből eredő követelés vonatkozásában nem illeti meg a Kártalanítási Számla kezelőjét, amely a felszámolás kezdő időpontjának napjától az azt követő hatvanadik nap végéig bekövetkezett. Azon felszámolás alatt álló biztosító esetén, amely Magyarország területén székhellyel vagy fiókteleppel nem rendelkezik és Magyarország területén határon átnyúló szolgáltatás keretében végezte a tevékenységét, a hatvannapos időtartam a felszámolásról szóló döntés Európai Közösségek Hivatalos Lapjában a 11. melléklet A) részében meghatározott nyomtatványban megjelölt döntés jogerőre emelkedésének a napján kezdődik.
 
 ### A kárrendezési megbízott
 
@@ -741,7 +747,7 @@ késedelem nélkül megkapja.
 
 (3) A MABISZ az (1) bekezdésben meghatározott feladatait az elkülönített szervezeti egység útján oly módon láthatja el, hogy a legfelsőbb szerv vagy az ellenőrző szerv elkülönített szervezeti egység működésével kapcsolatos döntésének meghozatalában azon kötelező gépjármű-felelősségbiztosítási tevékenységet végző biztosítók részt vehessenek, amelyek nem tagjai a MABISZ-nak.
 
-(4) A (2) bekezdésben meghatározott szervezeti egység a vezetésére a Bit. 83. § (3) és (5) bekezdésében meghatározott feltételeknek megfelelő, felelős vezetőt (a továbbiakban: felelős vezető) kell kijelölni, akit a MABISZ ügyvezető és képviseleti szerve jelölhet ki, továbbá aki e minőségében csak a jogszabályoknak, az alapszabálynak, valamint a MABISZ legfőbb szerve határozatainak van alávetve, és a MABISZ tagjai által nem utasítható.
+(4) A (2) bekezdésben meghatározott szervezeti egység a vezetésére a Bit. 53. § (4)–(5) bekezdésében és 54. §-ában meghatározott feltételeknek megfelelő, felelős vezetőt (a továbbiakban: felelős vezető) kell kijelölni, akit a MABISZ ügyvezető és képviseleti szerve jelölhet ki, továbbá aki e minőségében csak a jogszabályoknak, az alapszabálynak, valamint a MABISZ legfőbb szerve határozatainak van alávetve, és a MABISZ tagjai által nem utasítható.
 
 (5) A felelős vezető az elkülönített szervezeti egység vezetésével kapcsolatos feladatait – a MABISZ részére ellátott egyéb feladataitól elkülönítve – az alapszabály határozza meg.
 
@@ -782,14 +788,14 @@ munkaviszony keretében, a MABISZ részére ellátott, az 56. § (1) bekezdésé
 
 (6) Az a személy foglalkoztatható
 
-- a) vezető aktuáriusként, aki megfelel a Bit. 86. § (1) bekezdés a)–d) pontjában;
-- b) vezető jogtanácsosként, aki megfelel a Bit 87. § (1) bekezdés a)–e) pontjában;
-- c) számviteli rendért felelős vezetőként, aki megfelel a Bit. 88. § (1) bekezdés a)–e) pontjában;
-- d) belső ellenőrzési vezetőként, aki megfelel a Bit. 89. § (2) bekezdés a)–d) pontjában
+- a) vezető aktuáriusként, aki megfelel a Bit. 57. § (1) bekezdés a)–d) pontjában;
+- b) vezető jogtanácsosként, aki megfelel a Bit. 59. § (1) bekezdés a)–e) pontjában;
+- c) számviteli rendért felelős vezetőként, aki megfelel a Bit. 61. § (1) bekezdés a)–e) pontjában;
+- d) belső ellenőrzési vezetőként, aki megfelel a Bit. 63. § (2) bekezdés a)–d) pontjában
 
 meghatározott feltételeknek, és vele szemben a Bit. 83. § (5) bekezdésében meghatározott kizáró ok nem áll fenn.
 
-(7) A Bit. 86. § (1) bekezdés b) pontjában, a Bit. 87. § (1) bekezdés c) pontjában, a Bit. 88. § (1) bekezdés c) pontjában és a Bit. 89. § (2) bekezdés b) pontjában előírt szakmai gyakorlat befejezése nem eshet az egyéb vezető alkalmazását tíz évvel megelőző időpontnál korábbi időpontra.
+(7) A Bit. 57. § (1) bekezdés b) pontjában, 59. § (1) bekezdés c) pontjában, 61. § (1) bekezdés c) pontjában és 63. § (2) bekezdés b) pontjában előírt szakmai gyakorlat befejezése nem eshet az egyéb vezető alkalmazását tíz évvel megelőző időpontnál korábbi időpontra.
 
 56/C. § (1) A felelős vezető vagy egyéb vezető kötelezettségszegése esetén a Felügyelet – a kötelezettségszegés súlyának figyelembevételével – kezdeményezheti a MABISZ-nál a felelős vezető felmentését és az egyéb vezető munkaviszonyának a megszüntetését.
 
@@ -807,7 +813,7 @@ meghatározott feltételeknek, és vele szemben a Bit. 83. § (5) bekezdésében
 
 56/E. § A vezető jogtanácsos aláírásával igazolja, hogy a Felügyelethez engedélyezésre benyújtott vagy bejelentési kötelezettség alapján megküldött okiratok a jogszabályoknak megfelelnek.
 
-56/F. § A számviteli rendért felelős vezető a felelős vezető mellett aláírásával igazolja a Felügyeletnek beküldött, az 57/A. § (3) bekezdése szerinti éves gazdálkodási jelentés és az 57/A. § (9) bekezdése szerinti jelentés, továbbá a Bit. 143. §-ban meghatározott eszköznyilvántartás helytállóságát.
+56/F. § A számviteli rendért felelős vezető a felelős vezető mellett aláírásával igazolja a Felügyeletnek beküldött, az 57/A. § (3) bekezdése szerinti éves gazdálkodási jelentés és az 57/A. § (9) bekezdése szerinti jelentés, továbbá a Bit. 6. mellékletében meghatározott csoportosítás szerinti külön eszköznyilvántartás helytállóságát.
 
 56/G. § (1) A belső ellenőrzési vezető feladata kizárólag
 
@@ -854,7 +860,7 @@ vizsgálatára terjed ki.
 - a) amelyben a MABISZ legfőbb szerve vagy ellenőrző szerve tagjának vagy e személy közeli hozzátartozójának tulajdonosi részesedése van, vagy
 - b) amelynek a MABISZ legfőbb szervének, ellenőrző szervének tagja vagy e személy közeli hozzátartozója vezető tisztségviselője.
 
-(9) A kiszervezésre vonatkozó szerződésnek – az elkülönített szervezeti egység tevékenységének jellege figyelembe vételével – megfelelően tartalmaznia kell a Bit. 78. §-ában meghatározott elemeket.
+(9) A kiszervezésre vonatkozó szerződésnek – az elkülönített szervezeti egység tevékenységének jellege figyelembe vételével – megfelelően tartalmaznia kell a Bit. 212. §-ában meghatározott elemeket.
 
 56/J. § (1) A biztonságos üzletmenet érdekében a MABISZ elkülönített szervezeti egységének a mérlegfordulónapján fennálló, várható kötelezettségei teljesítésére, a károk ingadozására biztosítástechnikai tartalékokat kell képeznie.
 
@@ -872,17 +878,17 @@ vizsgálatára terjed ki.
 
 (4) Az elkülönített szervezeti egység biztosítástechnikai tartalékait a Kártalanítási Számlát és a Kártalanítási Alapot terhelő kötelezettségek szerint – valamint a Kártalanítási Alap esetében felszámolás alatt álló biztosítónként is – külön-külön kell kimutatni.
 
-(5) A biztosítástechnikai tartalékok képzésére alkalmazni kell a Bit. 118. § (1) és (2) bekezdését, 119. § (2) és (3) bekezdését azzal, hogy ahol a Bit. biztosítót említ, azon az elkülönített szervezeti egységet kell érteni.
+(5) A biztosítástechnikai tartalékok képzésére alkalmazni kell a biztosítók és a viszontbiztosítók szavatoló tőkéjéről és biztosítástechnikai tartalékairól szóló kormányrendeletben a számviteli biztosítástechnikai tartalékokra vonatkozó rendelkezéseket, azzal, hogy ahol e rendelet biztosítót említ, azon az elkülönített szervezeti egységet kell érteni.
 
 (6) A vezető aktuárius köteles haladéktalanul értesíteni a felelős vezetőt és az ellenőrző szervet, amennyiben a biztosítástechnikai tartalékok nem érik el a szükséges mértéket.
 
 56/K. § (1) A elkülönített szervezeti egység a biztosítástechnikai tartalékai fedezetét képező eszközöket a kötelezettségek lejárati szerkezetének figyelembevételével úgy köteles befektetni, hogy a befektetések a mindenkori likviditás megőrzése mellett egyidejűleg a lehető legnagyobb biztonságot és jövedelmezőséget teljesítsék.
 
-(2) A biztosítástechnikai tartalékok fedezetét képező eszközök befektetésére – a (3) bekezdésben meghatározott eltérésekkel – alkalmazni kell a Bit. 132. § (2) és (3) bekezdését, 134–140. §-át és 142. §-át azzal, hogy ahol a Bit. biztosítót említ, azon az elkülönített szervezeti egységét kell érteni.
+(2) A biztosítástechnikai tartalékok fedezetét képező eszközök befektetésére – a (3) bekezdésben meghatározott eltérésekkel – alkalmazni kell a Bit. 220. § (2)–(4) bekezdését, 222–227. §-át és 229. §-át azzal, hogy ahol a Bit. biztosítót említ, azon az elkülönített szervezeti egységét kell érteni.
 
 (3) A Kártalanítási Alap kezelője az Alap pénzeszközeit a tőkepiacról szóló törvényben meghatározott állampapírban, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben meghatározott betétben vagy a pénzforgalmi szolgáltatás nyújtásáról szóló törvényben meghatározott pénzforgalmi számlán tartja oly módon, hogy azok a kártérítési igények kielégítéséhez szükséges mindenkori likviditást biztosítsák, egyidejűleg a lehető legnagyobb biztonságot és jövedelmezőséget teljesítsék.
 
-56/L. § (1) A matematikai tartalékok fedezetéül szolgáló eszközöket az elkülönített szervezeti egység a Bit. 134. §-ában foglalt csoportosítás szerint külön eszköznyilvántartásba veszi.
+56/L. § (1) A matematikai tartalékok fedezetéül szolgáló eszközöket az elkülönített szervezeti egység a Bit. 6. mellékletében meghatározott csoportosítás szerint külön eszköznyilvántartásba veszi.
 
 (2) Az eszköznyilvántartásban feltüntetett eszközök értékének mindenkor el kell érnie a biztosítástechnikai tartalékok előírt nagyságát. A kötelezettségekre megképzett biztosítástechnikai tartalékok fedezetéül szolgáló eszközöket, azaz a befektetési állomány értékelését piaci értéken kell elvégezni annak érdekében, hogy a szervezet kötelezettségeinek minden pillanatban meg tudjon felelni.
 
@@ -927,15 +933,15 @@ vizsgálatára terjed ki.
 57/C. § (1) Biztosítási titok csak akkor adható ki harmadik személynek, ha
 
 - a) az érintett személy a kiszolgáltatható biztosítási titokkört pontosan megjelölve, erre vonatkozóan írásban felmentést ad,
-- b) a Bit. 157. § (1), (5), (6) bekezdése és 157/A. §-a alapján a titoktartási kötelezettség nem áll fenn.
+- b) a Bit. 138. § (1), (5), (6) bekezdése és 139. §-a alapján a titoktartási kötelezettség nem áll fenn.
 
-(2) Az elkülönített szervezeti egység adatkezelésére – az e törvényben foglalt rendelkezéseken túl – megfelelően alkalmazni kell a Bit. 160. § (1) és (2) bekezdésében maghatározott rendelkezéseket azzal, hogy ahol a Bit. biztosítót említ, azon az elkülönített szervezeti egységét kell érteni.
+(2) Az elkülönített szervezeti egység adatkezelésére – az e törvényben foglalt rendelkezéseken túl – megfelelően alkalmazni kell a Bit. 141. § (1) és (2) bekezdésében maghatározott rendelkezéseket azzal, hogy ahol a Bit. biztosítót említ, azon az elkülönített szervezeti egységét kell érteni.
 
 (3) Az elkülönített szervezeti egység a személyes adatokat az adott személlyel kapcsolatos e törvényben maghatározott feladatainak ellátása során, továbbá azon időtartam alatt kezelheti, ameddig e feladatával kapcsolatban igény érvényesíthető.
 
 57/D. § (1) Az elkülönített szervezeti egység biztosítja, hogy a magatartására, tevékenységére vagy mulasztására vonatkozó panaszát a károsult szóban (személyesen, telefonon) vagy írásban (személyesen vagy más által átadott irat útján, postai úton, telefaxon, elektronikus levélben) közölhesse.
 
-(2) A panaszkezelésre alkalmazni kell a Bit. 167/B. § (1)–(7) bekezdésében és (9)–(15) bekezdésében meghatározottakat azzal, hogy ügyfél alatt a károsultat kell érteni.
+(2) A panaszkezelésre alkalmazni kell a Bit. 159. § (1)–(7) bekezdésében és (9)–(15) bekezdésében meghatározottakat azzal, hogy ügyfél alatt a károsultat kell érteni.
 
 57/E. § (1) A Kártalanítási Alap kezelőjét megilletik mindazon jogok és terhelik mindazon kötelezettségek, amelyek a biztosítási szerződés vonatkozásában a felszámolás alatt álló biztosítót – a felszámolás elrendelését megelőzően – illették meg, illetve terhelték, továbbá az Alap kezelője megtérítést követelhet a felszámolás alatt álló biztosítótól.
 

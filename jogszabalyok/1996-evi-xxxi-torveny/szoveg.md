@@ -51,7 +51,7 @@ Az Országgyűlés az Alaptörvényből és a nemzetközi szerződésekből ered
 - e) tűzoltási feladat: a veszélyeztetett személyek mentése, a tűz terjedésének megakadályozása, az anyagi javak védelme, a tűz eloltása és a szükséges biztonsági intézkedések megtétele, továbbá a tűz közvetlen veszélyének elhárítása;
 - f) tűzvizsgálat: a tűz keletkezési idejének, helyének és okának felderítésére irányuló hatósági tevékenység, amelynek célja olyan tűzmegelőzési, tűzoltási beavatkozási tapasztalatok megszerzése, következtetések levonása, amelyek alkalmasak a tűzmegelőzési ismeretek bővítésére és a mentési beavatkozási feltételek javítására;
 - g) műszaki mentés: természeti csapás, baleset, káreset, rendellenes technológiai folyamat, műszaki meghibásodás, veszélyes anyag szabadba jutása vagy egyéb cselekmény által előidézett veszélyhelyzet során az emberélet, a testi épség és az anyagi javak védelme érdekében a tűzoltóság részéről – a rendelkezésére álló, illetőleg az általa igénybe vett eszközökkel – végzett elsődleges beavatkozói tevékenység;
-- h) tűzoltó-technikai termék: a tűz észlelésére, jelzésére, oltására, a beavatkozás megkönnyítésére, a tűzkár csökkentésére vagy a tűz terjedésének megakadályozására alkalmazott berendezés, eszköz, a tűzoltó készülék, oltóanyag, a tűzoltóság által a tűzoltás műszaki mentés során használt jármű, felszerelés, hírközlő eszköz, védőeszköz, amely nem tartozik az építési termékek forgalmazására vonatkozó harmonizált feltételek megállapításáról és a 89/106/EGK tanácsi irányelv hatályon kívül helyezéséről szóló 2011. március 9-i 305/2011/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 305/2011/EU rendelet) hatálya alá;
+- h) tűzoltó-technikai termék: a tűz észlelésére, jelzésére, oltására, a beavatkozás megkönnyítésére, a tűzkár csökkentésére vagy a tűz terjedésének megakadályozására alkalmazott berendezés, eszköz, tűzoltó készülék, oltóanyag, amely nem tartozik a j) pont szerinti építési termék fogalmába, valamint a tűzoltóság által a tűzoltás, műszaki mentés során használt jármű, felszerelés, hírközlő eszköz, védőeszköz;
 - i) tűz- vagy robbanásveszélyes készülék, gép, berendezés: olyan szerkezet, amelyet az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról, a 67/548/EGK és az 1999/45/EK irányelv módosításáról és hatályon kívül helyezéséről, valamint az 1907/2006/EK rendelet módosításáról szóló 2008. december 16-i 1272/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1272/2008/EK európai parlamenti és tanácsi rendelet)
   - ia) tűzveszélyes gázok,
   - ib) tűzveszélyes aeroszolok,
@@ -82,7 +82,8 @@ veszélyességi osztályai és kategóriái egyikébe tartozó anyag vagy kever�
 - v) közreműködő önkéntes tűzoltó egyesület: a vállalt tevékenységi területen tűzoltási, műszaki mentési feladatokban közreműködő egyesület;
 - w) beavatkozó önkéntes tűzoltó egyesület: a vállalt tevékenységi területen a hivatásos katasztrófavédelmi szervvel kötött megállapodás alapján tűzoltási, műszaki mentési feladatokat végző egyesület;
 - x) tűz- vagy robbanásveszélyes technológia: a tűz- vagy robbanásveszélyes készülék, gép, berendezés fogalmába nem tartozó, olyan anyag- vagy energiaátalakításra szolgáló szerkezetekből álló rendszer, amelyben az ia)-ik) alpontban meghatározott anyag vagy keverék előállítása, feldolgozása, használata, tárolása vagy kimérése történik;
-- y) megfelelőségi nyilatkozat: a termékek forgalomba hozatalának közös keretrendszeréről, valamint a 93/465/EGK tanácsi határozat hatályon kívül helyezéséről szóló 2008. július 9-i 2008/768/EK európai parlamenti és tanácsi határozat III. mellékletének tartalmán alapuló, a tűzoltó-technikai termékre, a tűz- vagy robbanásveszélyes készülékre, gépre, berendezésre vonatkozó tűzvédelmi, biztonságossági követelményeknek való megfelelőség igazolására alkalmas irat.
+- y) megfelelőségi nyilatkozat: a termékek forgalomba hozatalának közös keretrendszeréről, valamint a 93/465/EGK tanácsi határozat hatályon kívül helyezéséről szóló 2008. július 9-i 2008/768/EK európai parlamenti és tanácsi határozat III. mellékletének tartalmán alapuló, a tűzoltó-technikai termékre, a tűz- vagy robbanásveszélyes készülékre, gépre, berendezésre vonatkozó tűzvédelmi, biztonságossági követelményeknek való megfelelőség igazolására alkalmas irat;
+- z) tűzoltó szolgálat: a Nemzetközi Polgári Légiközlekedési Szervezet (ICAO) által kiadott, a nemzetközi polgári repülésről Chicagóban, az 1944. évi december hó 7. napján aláírt Egyezményhez tartozó, aktuális 14. Függelék I-es kötetében (ANNEX 14/I., Repülőterek) meghatározott repülőtereken mentő-, tűzoltó feladatokat ellátó szervezet.
 
 ### A tűzjelzés
 
@@ -174,12 +175,14 @@ veszélyességi osztályai és kategóriái egyikébe tartozó anyag vagy kever�
 
 11. § A tűzvédelmi hatóság külön jogszabályban meghatározott esetekben engedélyező, tiltó és korlátozó intézkedéseket tesz, a tűzesettel kapcsolatban tűzvizsgálati eljárást folytat le és hatósági bizonyítványt ad ki, valamint a tűzvédelmi kötelezettségeiket megsértőkkel szemben tűzvédelmi bírságot szab ki.
 
+11/A. § A tűzvédelmi hatóság által lefolytatott eljárásokban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+
 ### Tűzmegelőzési feladatok
 
 12. § (1) Aki
 
 - a) tűzoltó készülékek karbantartásával kapcsolatos,
-- b) a hivatásos katasztrófavédelmi szerv, önkormányzati tűzoltóság, létesítményi tűzoltóság vagy tűzoltósági szolgáltatást nyújtó vállalkozás által készenlétben tartott tűzoltó technika felülvizsgálatával, javításával összefüggő,
+- b) a hivatásos katasztrófavédelmi szerv, önkormányzati tűzoltóság, létesítményi tűzoltóság vagy tűzoltósági szolgáltatást nyújtó vállalkozás által készenlétben tartott tűzvédelmi technika felülvizsgálatával, javításával összefüggő,
 - c) tűzvédelmi szakvizsgával összefüggő oktatásszervezési,
 - d) tűzvédelmi szakvizsgáztatási
 
@@ -196,15 +199,18 @@ tevékenységet kíván folytatni, köteles az erre irányuló szándékát a sz
 
 (3a) A (3) bekezdésben meghatározott nyilvántartás – a természetes személyazonosító adatok, a tevékenység gyakorlására jogosult vagy képviselője telefonszámának, elektronikus levélcímének kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-13. § (1) Építési terméket forgalomba hozni, forgalmazni akkor lehet, ha az a 305/2011/EU rendelet szerint forgalomba hozható. Beépítéskor az építési termék teljesítményét az építési termék építménybe történő betervezésének és beépítésének, ennek során a teljesítmény igazolásának részletes szabályairól szóló jogszabályban meghatározott módon igazolni kell.
+13. § (1) Olyan építési termék hozható forgalomba – az egyedi, hagyományos, természetes, bontott vagy műemléki felhasználású építési termék kivételével –, amely rendelkezik az építési termék építménybe történő betervezésének és beépítésének, ennek során a teljesítmény igazolásának részletes szabályairól szóló jogszabályban meghatározott, beépítéshez szükséges iratokkal.
 
 (2) Tűzoltó-technikai terméket forgalomba hozni, forgalmazni vagy beépíteni akkor lehet, ha
 
 - a) az rendelkezik tűzvédelmi megfelelőségi tanúsítvánnyal, amennyiben azt a tűzvédelmi megfelelőségi tanúsítvány beszerzésére vonatkozó szabályokról szóló jogszabály előírja,
-- b) annak megfelelőségét a termékre vonatkozó tűzvédelmi, biztonságossági követelményben meghatározott módon, annak hiányában a gyártó, forgalmazó, importőr vagy meghatalmazott képviselő vizsgálaton alapuló megfelelőségi nyilatkozatával igazolják, vagy
+- b) annak megfelelősége a termékre vonatkozó tűzvédelmi, biztonságossági követelményben meghatározott módon, annak hiányában a gyártó, forgalmazó, importőr vagy meghatalmazott képviselő vizsgálaton alapuló megfelelőségi nyilatkozatával igazolt, vagy
 - c) tűzvédelmi, biztonságossági követelmény hiányában, vagy amennyiben a tűzvédelmi megfelelőségi tanúsítvány beszerzése nem lehetséges, a termék a tűzvédelmi hatóság vizsgálaton alapuló hatósági engedélyével rendelkezik.
 
-(3) Tűz- vagy robbanásveszélyes készüléket, gépet, berendezést forgalomba hozni, forgalmazni vagy beépíteni akkor lehet, ha az rendelkezik tűzvédelmi megfelelőségi tanúsítvánnyal, amennyiben azt a tűzvédelmi megfelelőségi tanúsítvány beszerzésére vonatkozó szabályokról szóló jogszabály előírja.
+(3) Tűz- vagy robbanásveszélyes készüléket, gépet, berendezést forgalomba hozni, forgalmazni vagy beépíteni akkor lehet, ha
+
+- a) az rendelkezik tűzvédelmi megfelelőségi tanúsítvánnyal, amennyiben azt a tűzvédelmi megfelelőségi tanúsítvány beszerzésére vonatkozó szabályokról szóló jogszabály előírja, vagy
+- b) annak megfelelősége a termékre vonatkozó tűzvédelmi, biztonságossági követelményben meghatározott módon, annak hiányában a gyártó, forgalmazó, importőr vagy meghatalmazott képviselő vizsgálaton alapuló megfelelőségi nyilatkozatával igazolt.
 
 (4) A 305/2011/EU rendelet hatálya alá nem tartozó építményszerkezet műszaki előírásban meghatározott tűzvédelmi követelményeknek való megfelelőségét, az alábbi módok valamelyike szerint kell igazolni:
 
@@ -228,7 +234,7 @@ tevékenységet kíván folytatni, köteles az erre irányuló szándékát a sz
 
 (3) A 13. § (1)–(3) bekezdés szerinti, a forgalomba hozatalhoz, forgalmazáshoz, beépítéshez szükséges irattal nem rendelkező termék forgalomba hozatalát, forgalmazását, beépítését a piacfelügyeleti hatóság megtiltja és piacfelügyeleti bírságot szabhat ki.
 
-(4) A piacfelügyeleti eljárásokban az ügyintézési határidő hatvan nap, amely egy alkalommal további hatvan nappal meghosszabbítható.
+(4) A piacfelügyeleti eljárásokban az ügyintézési határidő negyvenöt nap.
 
 (5) A jogerősen kiszabott piacfelügyeleti bírság meg nem fizetése esetén a kiszabott összeget késedelmi pótlék terheli, amelynek mértéke minden naptári nap után a felszámítás időpontjában érvényes jegybanki alapkamat kétszeresének 365-öd része. A piacfelügyeleti bírság és a késedelmi pótlék adók módjára behajtandó köztartozás.
 
@@ -236,7 +242,7 @@ tevékenységet kíván folytatni, köteles az erre irányuló szándékát a sz
 
 ### Tűzvizsgálati feladatok
 
-14. § (1) A tűzvizsgálati eljárás ügyintézési határideje negyvenöt nap, amely egy alkalommal további negyvenöt nappal meghosszabbítható.
+14. § (1) A tűzvizsgálati eljárás ügyintézési határideje harmincöt nap.
 
 (2) A tűzvizsgálati eljárás során tartandó szemle a tűz keletkezési okának egyértelmű megállapítása és a bizonyítékok megsemmisülésének megelőzése érdekében haladéktalanul megtartható.
 
@@ -293,15 +299,31 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 
 (5) A hivatásos tűzoltóság a részére átadott adatokat harmadik fél részére nem adhatja át, azokat a csak Tűzoltási Műszaki Mentési Tervek készítéséhez használhatja fel.
 
-19. § (1) A gazdálkodó tevékenységet folytató magánszemélyeknek, a jogi személyeknek, a jogi és a magánszemélyek jogi személyiséggel nem rendelkező szervezeteinek, ha a munkavégzésben részt vevő családtagokkal együtt ötnél több munkavállalót foglalkoztatnak, vagy ha ötvennél több személy befogadására alkalmas létesítményt működtetnek, illetve a magas kockázati osztályba tartozó ipari és tárolási alaprendeltetésű kockázati egységben és kereskedelmi szálláshelyeken tűzvédelmi szabályzatot kell készíteniük.
+19. § (1) A gazdálkodó tevékenységet folytató magánszemélyeknek, a jogi személyeknek tűzvédelmi szabályzatot kell készíteniük, ha
 
-(2) Az (1) bekezdésben felsoroltak kötelesek gondoskodni arról, hogy munkavállalóik (a munkavégzésben részt vevő családtagjaik) a jogszabályokban meghatározott előírások szerint végezzék a tevékenységüket vagy a létesítmény, építmény, helyiség igénybe vevői a tűzvédelmi szabályzatban foglaltakat megismerjék és megtartsák.
+- a) a munkavégzésben részt vevő családtagokkal együtt ötnél több munkavállalót foglalkoztatnak,
+- b) az általuk üzemeltetett, bérelt épületrész, épület területén található olyan helyiség, amelynek a legnagyobb befogadóképessége meghaladja az 50 főt, vagy
+- c) kereskedelmi szálláshelyet üzemeltetnek.
 
-(3) Az (1) bekezdésben felsoroltaknak a magas kockázati osztályba tartozó ipari és tárolási alaprendeltetésű kockázati egységben, valamint a közösségi rendeltetésű, a közepes vagy magas kockázatú ipari, mezőgazdasági és tárolási épületekben megfelelő szervezettel, tűzvédelmi szakképesítéssel rendelkező személlyel, illetve szolgáltatás igénybevételével kell gondoskodniuk a tűzvédelem biztosításáról.
+(2) Az (1) bekezdésben felsoroltak kötelesek gondoskodni arról, hogy munkavállalóik, a munkavégzésben részt vevő családtagjaik a jogszabályokban meghatározott tűzvédelmi előírások szerint végezzék a tevékenységüket, valamint a tűzvédelmi szabályzatban foglaltakat megismerjék és betartsák.
+
+(3) Az (1) bekezdésben felsoroltaknak a tűzvédelem biztosításáról megfelelő szervezettel, tűzvédelmi szakképesítéssel rendelkező személlyel, illetve szolgáltatás igénybevételével kell gondoskodniuk, ha
+
+- a) robbanásveszélyes osztályba tartozó anyagot állítanak elő, dolgoznak fel, tárolnak és az egy telephelyen előállított, feldolgozott, tárolt anyag együttes, egyidejű mennyisége meghaladja az 1000 kg vagy liter mennyiséget,
+- b) tűzveszélyes osztályba tartozó anyagot, terméket tárolnak és az egy telephelyen a szabadtéri és az épületen belüli tárolásra szolgáló összesített alapterület meghaladja az 1000 m2-t,
+- c) ipari vagy mezőgazdasági tevékenységet végeznek és a családtagokkal együtt a munkavégzésben részt vevő munkavállalók egyidejű létszáma meghaladja a 100 főt, vagy
+- d) olyan épületrészt, épületet üzemeltetnek, bérelnek,
+  - da) amelyben tömegtartózkodásra szolgáló helyiség található,
+  - db) amely összesített befogadóképessége meghaladja az 500 főt, vagy
+  - dc) amelyben menekülésben korlátozott személyek elhelyezése, ellátása, kezelése, nevelése, oktatása, gondozása történik és e személyek egyidejű létszáma meghaladja a 20 főt.
+
+19/A. § A jogszabályban meghatározott lakó- és üdülőegységre vonatkozó tűzvédelmi előírásokat, a riasztás, a menekülés lehetséges módozatait, a tűzvédelmi eszközök használatára vonatkozó előírásokat az épületre vonatkozó tűzvédelmi használati szabályok tartalmazzák.
 
 20. § (1) A tűzvédelmi helyzetre kiható olyan tevékenységet, amely a kockázati osztály megváltoztatását teszi szükségessé, vagy a raktározás, termelés kapacitásának 15%-kal történő növelését eredményezi, a tevékenység megkezdése előtt legalább tizenöt nappal a kezdeményező a tűzvédelmi hatóságnál köteles bejelenteni.
 
-(2) Minden új tűz- vagy robbanásveszélyes technológia, anyag bevezetése, vagy alkalmazása előtt elsődlegesen a gyártó, amennyiben az nem gondoskodott arról, akkor a forgalomba hozó köteles a tűzvédelmi rendelkezések megállapítása céljából szükséges vizsgálatokat elvégezni, vagy elvégeztetni.
+(2) Minden tűz- vagy robbanásveszélyes technológia bevezetése, forgalomba hozatala, ezek hiányában alkalmazása előtt a gyártó, forgalmazó, importőr vagy meghatalmazott képviselő, ezek hiányában a megrendelő vagy alkalmazó köteles a tűzvédelmi rendelkezések megállapítása céljából szükséges vizsgálatokat, legalább a kijelölt tanúsító szervezetekre vonatkozó követelményeknek megfelelő vagy akkreditált szervezettel elvégezni vagy elvégeztetni, és a vizsgálatok eredményét a tűzvédelmi hatóság kérésére rendelkezésre bocsátani.
+
+20/A. § Beépített tűzjelző berendezés vagy beépített tűzoltó berendezés jogszabályi rendelkezés vagy hatósági előírás alapján történő létesítési kötelezettsége esetén a beépített tűzjelző vagy beépített tűzoltó berendezés létesítését, továbbá átalakítását, bővítését, használatbavételét és megszüntetését a tűzvédelmi hatósággal előzetesen engedélyeztetni kell.
 
 21. § (1) Jogszabályban meghatározott esetben az építészeti-műszaki tervdokumentáció része a tűzvédelmi dokumentáció, amely tartalmazza törvény és annak végrehajtási rendeletében előírt tűzvédelmi követelményeknek való megfelelés dokumentálását tervekkel és műszaki leírásokkal.
 
@@ -309,26 +331,18 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 
 (3) A tűzvédelmi tervezői jogosultság a tűzvédelmi tervezői névjegyzéket vezető szerv engedélyével gyakorolható. A tűzvédelmi tervezői tevékenység folytatása annak engedélyezhető, aki büntetlen előéletű, rendelkezik az e törvény felhatalmazása alapján a Kormány által kiadott rendeletben meghatározott szakmai képesítéssel, szakirányú végzettséggel és megfelel az abban meghatározott egyéb feltételeknek, és a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló törvényben meghatározott területi mérnöki vagy építész kamarának a tagja. A tűzvédelmi tervezői névjegyzéket vezető szerv az engedély megadásával egyidejűleg névjegyzékbe veszi a jogosultságot szerzett természetes személyt.
 
-(4) A tűzvédelmi tervezői tevékenység engedélyezése iránti kérelem benyújtásával egyidejűleg a kérelmező hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, valamint nem áll a tűzvédelmi tervezői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt.
+(4)
 
 (5) A felelős műszaki vezető – annak hiányában a kivitelező – köteles a jogerős építési engedélyben, a tűzvédelmi dokumentációban és a műszaki előírásokban szereplő tűzvédelmi követelményeket a kivitelezés során megtartani, megvalósítani, a tervezési hiányosságok megszüntetését a tervezőnél és a beruházónál kezdeményezni.
 
 (6) A felelős műszaki vezetőnek – annak hiányában a kivitelezőnek – az építőipari kivitelezési tevékenységek befejezését követően az (5) bekezdésben foglaltak érvényesítéséről írásban kell nyilatkoznia.
 
-(7) Hatósági ellenőrzés esetén a büntetlen előélet követelményének való megfelelést a tervező igazolja.
-
-(8) Az egy naptári éven belül elvégzett több hatósági ellenőrzés esetén az első hatósági ellenőrzés alkalmával a (4) bekezdésben meghatározott hatósági bizonyítvány költségét a tervező, a második és a további hatósági ellenőrzés esetén a névjegyzéket vezető szerv viseli.
-
-(9) A (4) bekezdés alapján megismert személyes adatokat a névjegyzéket vezető szerv
-
-- a) a tűzvédelmi tervezői tevékenység engedélyezése iránti eljárás jogerős befejezéséig,
-- b) hatósági ellenőrzés esetén annak időtartama alatt,
-- c) a tűzvédelmi tervezői nyilvántartásból való törlésre irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
+(7)–(9)
 
 21/A. § (1) A névjegyzéket vezető szerv a tűzvédelmi tervezőkről nyilvántartást vezet, amely – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – tartalmazza
 
 - a) a természetes személyazonosító adatokat,
-- b) az engedély azonosító számát,
+- b) a bejelentés azonosító számát,
 - c) az elérhetőségi címet (postacím, telefon, telefaxszám, e-mail).
 
 (2) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl a nyilvántartásnak az (1) bekezdés b) pontjában szereplő adatai is nyilvánosak. Az (1) bekezdés c) pontjában meghatározott adatok nyilvánossága tekintetében a tűzvédelmi tervező nyilatkozata irányadó.
@@ -375,7 +389,8 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 - g) folyamatosan ellenőrzi az önkormányzati tűzoltóságok és az önkéntes tűzoltó egyesületek költségvetési és egyéb forrásból származó pénzeszközei felhasználását,
 - h) a hivatásos katasztrófavédelmi szerv területi szerve útján ellenőrzi az önkormányzati tűzoltóság, a létesítményi tűzoltóság és a tűzoltási és műszaki mentési feladatokat ellátó önkéntes tűzoltó egyesület tevékenységét,
 - i) meghatározza a tűzoltóság tűzoltási és műszaki mentési tevékenységének részletes szabályait, a hivatásos tűzoltóságok működési területét, a hivatásos tűzoltóságok készenlétben tartandó legkisebb gépjármű és technikai eszközállományát és műszaki megfelelőségük ellenőrzésének rendjét, a hivatásos tűzoltóságok létszámát és azokat a feltételeket, amelyek teljesítése esetén a beavatkozó önkéntes tűzoltó egyesület részére az önállóan végezhető tűzoltási, műszaki mentési feladatok végzésére megállapodás köthető,
-- j) jóváhagyja a beavatkozó önkéntes tűzoltó egyesülettel az önálló tűzoltási és műszaki mentési tevékenység tárgyában kötött megállapodást.
+- j) jóváhagyja a beavatkozó önkéntes tűzoltó egyesülettel az önálló tűzoltási és műszaki mentési tevékenység tárgyában kötött megállapodást,
+- k) meghatározza a tűzoltó szolgálat tűzoltási, műszaki mentési tevékenysége végrehajtásának módjára vonatkozó szakmai szabályokat és a hivatásos katasztrófavédelmi szervvel való együttműködés rendjét.
 
 #### 25. §
 
@@ -532,6 +547,8 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 
 (5) A fenntartó szervezetén belüli létesítményi tűzoltóság főfoglalkozású, továbbá alkalomszerűen igénybe vehető létesítményi tűzoltókból is állhat. Készenléti szolgálatot a fenntartó által meghatározottak szerint lát el.
 
+35/A. § A hivatásos katasztrófavédelmi szerv a Magyar Honvédség tűzoltó szervezetei felett a létesítményi tűzoltóságra vonatkozóan e törvényben meghatározott irányítási és ellenőrzési jogkört nem gyakorolja.
+
 ### Az önkormányzati és a létesítményi tűzoltóságra vonatkozó közös rendelkezések
 
 36. § (1) Az önkormányzati, vagy a létesítményi tűzoltóság feladatainak ellátására a 35. § (1) bekezdés szerint létesítésre kötelezettek megállapodást köthetnek egymással, illetve a települési önkormányzattal.
@@ -568,7 +585,8 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 - a) az önkormányzati, létesítményi tűzoltóság, az önkéntes tűzoltó egyesület megnevezése,
 - b) a tűzoltó, az önkéntes tűzoltó egyesület tagja arcfényképe,
 - c) a tűzoltó, az önkéntes tűzoltó egyesület tagja neve,
-- d) az igazolvány érvényességi ideje.
+- d) az igazolvány érvényességi ideje,
+- e) beavatkozó önkéntes tűzoltó egyesületi tag esetén a „beavatkozó önkéntes tűzoltó” megnevezés.
 
 (6) Az (5) bekezdésében meghatározott igazolványt a hivatásos katasztrófavédelmi szerv központi szerve a (7) bekezdés alapján vezetett nyilvántartás alapján állítja ki. Az igazolványt a hivatásos katasztrófavédelmi szerv központi szerve az érvényességi idő lejártakor visszavonja vagy megújítja.
 
@@ -645,11 +663,11 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 
 (7) A hivatásos katasztrófavédelmi szerv központi és területi szervei a tűzmegelőzési célú tevékenységgel összefüggésben államháztartáson belüli és kívüli szervek, valamint háztartások részére reklám- és propagandacéllal kiadványokat, eszközöket biztosíthatnak, továbbá tűzmegelőzési célú, speciális készleteket és eszközöket adományozhatnak.
 
-46/A. § (1) Ha jogszabály tűzvédelmi szakterületen szakértő igénybevételét írja elő, vagy szakértő igénybevételéhez jogkövetkezményt állapít meg, – az igazságügyi szakértőkről szóló törvény szerint igazságügyi szakértői tevékenység végzésére jogosult szakértő kivételével – szakértőként kizárólag a tűzvédelmi hatóság engedélyével rendelkező személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak az ilyen személy igénybevételéhez fűződnek.
+46/A. § (1) Ha jogszabály tűzvédelmi szakterületen szakértő igénybevételét írja elő, vagy szakértő igénybevételéhez jogkövetkezményt állapít meg, – az igazságügyi szakértőkről szóló törvény szerint igazságügyi szakértői tevékenység végzésére jogosult szakértő kivételével – szakértőként kizárólag az a személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak az olyan személy igénybevételéhez fűződnek, aki büntetlen előéletű, nem áll a tűzvédelmi szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, valamint rendelkezik a katasztrófák elleni védekezésért felelős miniszter rendeletében meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
 
-(2) Az (1) bekezdés szerinti szakértői tevékenység folytatását a tűzvédelmi hatóság annak engedélyezi, aki büntetlen előéletű, nem áll a tűzvédelmi szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, valamint rendelkezik a katasztrófák elleni védekezésért felelős miniszter rendeletében meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
+(2) Aki az (1) bekezdés szerinti szakértői tevékenységet kíván folytatni – az igazságügyi szakértő kivételével – köteles a tűzvédelmi hatóságnak a tevékenység folytatására irányuló szándékát a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelenteni. A bejelentésben meg kell jelölni a bejelentő természetes személyazonosító adatait.
 
-(3) A tűzvédelmi hatóság a szakértői tevékenység folytatására engedéllyel rendelkező személyekről nyilvántartást vezet, amely – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – tartalmazza
+(3) A tűzvédelmi hatóság által a szakértőkről vezetett nyilvántartás – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – tartalmazza
 
 - a) a természetes személyazonosító adatokat,
 - b) az elérhetőségi címet (postacím, telefon-, telefaxszám, e-mail),
@@ -660,18 +678,11 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 
 (4) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl a nyilvántartásnak a (3) bekezdés b)–d) pontjában szereplő adatai is nyilvánosak.
 
-(5) A tűzvédelmi hatóság az engedély megadásával egyidejűleg tűzvédelmi szakértői igazolványt állít ki. A hatósági igazolvány tartalmazza a szakértő természetes személyazonosító adatait, a tűzvédelmi szakterület megnevezését, a szakértői igazolvány számát, a kiadás időpontját. A hatósági igazolványon a hitelessége igazolásához szükséges további – nem személyes – adatok is feltüntethetőek.
+(5) A tűzvédelmi hatóság a nyilvántartásba vétellel egyidejűleg tűzvédelmi szakértői igazolványt állít ki. A hatósági igazolvány tartalmazza a szakértő természetes személyazonosító adatait, a tűzvédelmi szakterület megnevezését, a szakértői igazolvány számát, a kiadás időpontját. A hatósági igazolványon a hitelessége igazolásához szükséges további – nem személyes – adatok is feltüntethetőek.
 
 (6) A szakértő szakértői tevékenységének megszüntetése, illetőleg halála esetén adatainak a nyilvántartásban történő kezelését meg kell szüntetni. Az adatokat a nyilvántartásban történő kezelés megszüntetésétől számított legfeljebb tíz évig a központi katasztrófavédelmi szerv a szakértői vélemény jogszerűségének későbbi ellenőrzése céljából tovább tárolhatja.
 
-46/B. § (1) A 46/A. § (1) bekezdése szerinti szakértői tevékenység engedélyezése iránti kérelem benyújtásával egyidejűleg a kérelmező hatósági bizonyítvánnyal igazolhatja azt a tényt, hogy büntetlen előéletű, valamint nem áll a tűzvédelmi szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a tűzvédelmi hatóság részére – annak a szakértői tevékenység gyakorlásához szükséges engedély iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a tűzvédelmi hatóság a (2) bekezdésben meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől.
-
-(2) A tűzvédelmi hatóság a tűzvédelmi szakértői tevékenység folytatásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a szakértő büntetlen előéletű, és nem áll a tűzvédelmi szakértői tevékenységet kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából a tűzvédelmi hatóság adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag arra irányulhat, hogy a szakértő büntetlen előéletű-e, valamint, hogy a tűzvédelmi szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
-
-(3) Az (1) és (2) bekezdés alapján megismert személyes adatokat a tűzvédelmi hatóság
-
-- a) a tűzvédelmi szakértői tevékenység engedélyezése iránti eljárás jogerős befejezéséig,
-- b) a tűzvédelmi szakértő nyilvántartásba vétele esetén a hatósági ellenőrzés időtartamára vagy a nyilvántartásból való törlésre irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
+#### 46/B. §
 
 46/C. § (1)
 
@@ -695,16 +706,17 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 (2) Felhatalmazást kap a katasztrófák elleni védekezésért felelős miniszter, hogy rendeletben határozza meg:
 
 - 1. az Országos Tűzvédelmi Szabályzatot,
-- 2. a tűzvédelmi szakértői tevékenység folytatásának részletes feltételeit, az e tevékenységre jogosító engedély kiadásának rendjét, a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
+- 2. a tűzvédelmi szakértői tevékenység folytatásának részletes feltételeit, az e tevékenységre jogosító bejelentés rendjét, a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 - 3. a tűzesetek vizsgálatára vonatkozó szabályokat,
 - 4. a hivatásos katasztrófavédelmi szervek, a tűzvédelmi szakértők, az önkéntes tűzoltó egyesületek szaktevékenységet ellátó tagjainak, az önkormányzati és létesítményi tűzoltóságok állománya tagjainak, a gazdálkodó tevékenységet folytató magánszemélyeknél, jogi személyeknél, jogi és természetes személyek jogi személyiséggel nem rendelkező szervezeteinél a katasztrófavédelem, a polgári védelem és a tűzvédelem szakágazatokban foglalkoztatóknak és foglalkoztatottaknak, a katasztrófa- és tűzvédelmi szakmai képesítést nyújtó oktatási intézmények oktatást, képzést, vizsgáztatást végző tagjainak, illetve azok szakmai felügyeletét végző személyek képesítési követelményeit, képzési rendszerét.
 - 5. a tűzvédelmi szakvizsgára kötelezett foglalkozási ágakat, munkaköröket és a szakvizsga részletes szabályait,
 - 6. a központi költségvetési előirányzat terhére igényelhető beruházási, fejlesztési támogatás pályázati rendszerét,
-- 7–8.
+- 7. a beépített tűzjelző berendezés vagy beépített tűzoltó berendezés létesítéséhez, átalakításához, bővítéséhez, használatbavételéhez és megszüntetéséhez szükséges engedély iránti kérelem tartalmát, a létesítési kötelezettség eseteit, valamint az engedélyezés feltételeit,
+- 8.
 - 9. azon technikai eszközök körét, amelyek beszerzését a katasztrófák elleni védekezésért felelős miniszter által vezetett minisztérium szervezésében vagy útján lehet igényelni és a beszerzés pályázati feltételeit,
 - 10. a tűzoltási, műszaki mentési és az ezekhez kapcsolódó tűzvédelmi technika tervezésének, fejlesztésének, rendszeresítésének, felülvizsgálatának és javításának követelményeit és ellenőrzési rendszerét,
 - 11. a tűzoltóság tűzoltási és műszaki mentési tevékenységének általános szabályait, a TMMT készítésével érintett létesítmények kiválasztására vonatkozó szabályokat, a TMMT tartalmi követelményeit.
-- 12. a tűzvédelmi szabályzat általános elveit,
+- 12. a tűzvédelmi szabályzat általános elveit, a tűzvédelmi használati szabályok tartalmi követelményeit és a tűzvédelmi használati szabályok készítésére kötelezettek körét, annak eseteit,
 - 13. a tűzoltósági célokat szolgáló ingatlanok, tűzvédelmi berendezések, tűzoltó szakfelszerelések rendeltetéstől eltérő használatának szabályait,
 - 14. a tűzoltóságok által végezhető szolgáltatások körét és szabályait,
 - 15. a tűzvédelmi megfelelőségi tanúsítvány beszerzésére vonatkozó szabályokat,
