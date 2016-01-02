@@ -3143,7 +3143,7 @@ az összevont alapú felügyelet a legnagyobb mérlegfőösszeggel rendelkező h
 - g) működése során nem tud megfelelni az e törvényben meghatározott engedélyezési feltételeknek,
 - h) a szükséges számviteli, vezetői információs vagy belső ellenőrzési rendszer nélkül működik vagy e rendszerek nem teszik lehetővé a hitelintézet tényleges pénzügyi helyzetének megállapítását,
 - i) forrásgyűjtési tevékenysége során a piaci kamat mértékétől jelentősen eltérő kamatmértéket állapít meg, amely fokozott kockázatot jelent a hitelintézet, illetve a betétesek számára,
-- j) tiltott vagy színlelt szerződéseket köt vagyoni előny szerzése vagy a adózott eredmény, vagy a tőkekövetelmény módosítása céljából,
+- j) tiltott vagy színlelt szerződéseket köt vagyoni előny szerzése vagy az adózott eredmény, vagy a tőkekövetelmény módosítása céljából,
 - k) könyvvizsgálója elmulasztja a Felügyelet, a pénzügyi intézmény igazgatóságának, illetve felügyelő bizottságának tájékoztatását a pénzügyi intézménynél tapasztalt súlyos jogszabálysértésekről, hiányosságokról és egyéb – a prudens működést veszélyeztető – problémákról,
 - l) az (1) bekezdésben említett előírásokat – a Felügyelet által a (2) bekezdés alapján alkalmazott intézkedést, vagy bírságot megállapító határozat jogerőre emelkedését követő öt éven belül – ismételten megsérti,
 - m) az előírások jelentős megsértése miatt alkalmazott felügyeleti intézkedésben foglaltakat nem teljesíti,
@@ -3503,9 +3503,11 @@ rendelkező tulajdonosát, alapítványi formában működő pénzügyi vállalk
 - e) a személyi kódját; és
 - f) vizsgabiztos esetén a nyilvántartási számát, a kijelölés visszavonásának a tényét és időpontját.
 
-(8) A Felügyelet a nyilvántartásba vételről szóló döntésben az (1) bekezdésben meghatározott személyek számára személyi kódot állapít meg.
+(8) A Felügyelet a nyilvántartásba vételről szóló döntésben a (6) bekezdésben meghatározott személyek számára személyi kódot állapít meg.
 
 (9) Az e §-ban meghatározott nyilvántartással érintett személyes adatok tekintetében az adatkezelő a Felügyelet.
+
+(9a) A Felügyelet a (7) bekezdésben meghatározott adatokat az adott személlyel kapcsolatos utolsó adat keletkezését követő öt év elteltével törli a nyilvántartásból.
 
 (10) A hatósági képzés és vizsgáztatás során a Felügyelet jogosult ellenőrizni a hatósági képzést és vizsgáztatást végző, a hatósági képzésben és vizsgáztatásban részt vevő szervezeteket és személyeket.
 
