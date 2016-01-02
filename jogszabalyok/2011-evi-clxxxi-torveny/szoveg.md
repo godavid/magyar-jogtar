@@ -1216,21 +1216,15 @@ d) a kedvezmény igénybevevője legkésőbb az ellenőrzés megállapításair�
 
 124. § (1)
 
-(2) E törvény 21. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Ha a szervezet alapításában a nyilvántartásban vagy a cégnyilvántartásban szerepelő jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság vesz részt, a bíróság az informatikai rendszer alkalmazásával ellenőrzi, hogy a szervezet a kérelemben megjelölt adatokkal szerepel-e a nyilvántartásban vagy a cégnyilvántartásban.”
+(2)
 
 (3)
 
-(4) E törvény 43. § (1) bekezdésének a) pontja helyébe a következő rendelkezés lép:
-
-[A bíróság a szervezetet hivatalból törli a nyilvántartásból]
-
-„a) a felszámolási eljárást lefolytató bíróságnak a szervezet megszüntetéséről szóló, elektronikus úton megküldött jogerős végzése vagy
+(4)
 
 (5)–(9)
 
-48. Hatályukat vesztő rendelkezések”
+#### 48. Hatályukat vesztő rendelkezések
 
 125. § (1)
 

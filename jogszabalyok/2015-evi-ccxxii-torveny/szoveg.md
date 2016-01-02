@@ -243,180 +243,69 @@ egyidejűleg tartalmazza.
 
 (7)
 
-(8) A Pp. 394/F. § (2) bekezdése helyébe a következő rendelkezés lép:
+(8)
 
-„(2) A bíróság a Ket. és a végrehajtására kiadott kormányrendelet szerinti szabályozott elektronikus ügyintézési szolgáltatásokat nyújthatja az ott meghatározott szabályok szerint, valamint a Ket. és a végrehajtására kiadott kormányrendelet szerinti szabályozott elektronikus ügyintézési szolgáltatásokat veheti igénybe az ott meghatározott, az elektronikus ügyintézési felügyelet által nyilvántartásba vett szolgáltatótól.”
+114. § (1) A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény (a továbbiakban: Nytv.) 11. § (1) bekezdés m) pontja helyébe a következő rendelkezés lép:
 
-114. § (1)
+(A nyilvántartás tartalmazza a polgár)
 
-(2) Az Nytv. 17. § (2) bekezdés d) pontja helyébe a következő rendelkezés lép:
+„m) személyazonosító igazolványának okmányazonosítóját, állandó személyazonosító igazolványa elektronikus egyedi azonosítóját, azt a tényt, hogy az állandó személyazonosító igazolvány tároló elemén aláíró tanúsítvány van elhelyezve, továbbá személyi azonosítójáról és lakcíméről kiadott hatósági igazolványának okmányazonosítóját;”
 
-(A nyilvántartásból adatok az alábbi csoportosítás szerint szolgáltathatók:)
+(2)–(3)
 
-„d) a 9. § (2) bekezdés p) pontja, a 11. § (1) bekezdés q) pontja, valamint az állandó személyazonosító igazolvány tároló elemén aláíró tanúsítvány elhelyezésének ténye kivételével, a nyilvántartásba felvett adatok teljes köre;”
+(4) Az Nytv. 29. § (7) bekezdés d) és e) pontja helyébe a következő rendelkezések lépnek:
 
-(3) Az Nytv. 24/E. §-a helyébe a következő rendelkezés lép:
+(A tároló elem tartalmazza:)
 
-„24/E. § Az anyakönyvvezető az elhalálozott személyek személyazonosító igazolványának, valamint a személyi azonosítóját és lakcímét igazoló hatósági igazolványának bevonása céljából a 11. § (1) bekezdés m) pontja és a 17. § (4) bekezdése szerinti adatokat jogosult igényelni, az állandó személyazonosító igazolvány tároló elemén aláíró tanúsítvány elhelyezésének ténye, valamint az állandó személyazonosító igazolványa elektronikus egyedi azonosítója kivételével.”
+„d) a polgár társadalombiztosítási azonosító jelét,
 
-(4)–(9)
+e) a polgár adóazonosító jelét,”
+
+(5) Az Nytv. 29. §-a a következő (18) bekezdéssel egészül ki:
+
+„(18) Ha az állandó személyazonosító igazolvány tároló eleme nem vagy nem helyesen tartalmazza a polgár társadalombiztosítási azonosító jelét, illetve az adóazonosító jelét, abban az esetben a polgár kérelmére
+
+a) az egészségbiztosítási szerv a polgár társadalombiztosítási azonosító jelét, valamint
+
+b) a Nemzeti Adó- és Vámhivatal a polgár adóazonosító jelét
+
+a tároló elemen elhelyezi.”
+
+(6) Az Nytv. 29/C. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A korlátozottan cselekvőképes kiskorú, a cselekvőképességében részlegesen korlátozott és a cselekvőképes nagykorú polgár kérelmére
+
+a) a központi szerv a b) pont szerinti szolgáltató megbízásából az állandó személyazonosító igazolvány tároló elemén aláírás létrehozó adatot helyez el,
+
+b) a Kormány által kijelölt szolgáltató az Eat. szerinti elektronikus aláírás-hitelesítési szolgáltatást nyújt.”
+
+(7) Az Nytv. 29/D. §-a a következő (3a) bekezdéssel egészül ki:
+
+„(3a) Az állandó személyazonosító igazolvány kiadására irányuló kérelem nem minősül a Nektv. szerinti kártyafelhasználói regisztrációnak.”
+
+(8) Az Nytv. 29/J. §-a a következő (10a) bekezdéssel egészül ki:
+
+„(10a) A személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartása a személyazonosító igazolvány esetén a (10) bekezdéstől eltérően az Nytv. 29. § (3) bekezdése szerinti gépi olvasásra alkalmas adatsor alapján is megadja a tájékoztatást.”
+
+(9) Az Nytv. 52. §-a a következő (8) bekezdéssel egészül ki:
+
+„(8) A tároló elemmel rendelkező személyazonosító igazolvány – amennyiben a polgár kérelmére elektronikus aláírási funkcióval is rendelkezik – a tároló elem biztonságos aláírás-létrehozó eszközként történő tanúsításáig minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírás létrehozására alkalmas.”
 
 (10) Az Nytv.
 
-- a)–d)
-- e) 47. § (1) bekezdés a) pontjában a „személyazonosító igazolvány, és a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiadásának és nyilvántartásának” szövegrész helyébe a „személyazonosító igazolvány adattartalma megjelenítésének, kiadásának, bevonásának, elvételének, birtokban tartásának, nyilvántartásának és a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiadásának és nyilvántartásának” szöveg
+- a) 4. § (2b) bekezdésében az „A 29/I. § hatálya” szövegrész helyébe az „A 29/J. § hatálya” szöveg,
+- b) 29/A. § (2) bekezdésében a „– ha törvény eltérően rendelkezik –” szövegrész helyébe a „– ha törvény eltérően nem rendelkezik –” szöveg,
+- c) 29/C. § (4) bekezdésében a „(2) bekezdés szerinti” szövegrész helyébe a „(2) bekezdés b) pontja szerinti” szöveg,
+- d) 29/J. § (11) bekezdésében a „(8)–(10) bekezdés” szövegrész helyébe a „(8)–(10a) bekezdés” szöveg,
+- e)
 
 lép.
 
-115. § (1) A büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 69/B. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A bíróság, az ügyészség, a nyomozó hatóság és a büntetés-végrehajtási szervezet a Ket. és a végrehajtására kiadott kormányrendelet szerinti szabályozott elektronikus ügyintézési szolgáltatásokat nyújthatja az ott meghatározott szabályok szerint, valamint a Ket. és a végrehajtására kiadott kormányrendelet szerinti szabályozott elektronikus ügyintézési szolgáltatásokat veheti igénybe az ott meghatározott, az elektronikus ügyintézési felügyelet által nyilvántartásba vett szolgáltatótól.”
-
-(2) A Be.
-
-- a) 69/B. § (1) bekezdésében a „közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény” szövegrész helyébe a „közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény (a továbbiakban: Ket.)” szöveg,
-- b) 70. § (1) bekezdés f) pontjában az „a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény” szövegrész helyébe „a Ket.” szöveg
-
-lép.
-
-116. § (1) Az Eat. 13. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az aláíró, illetve a 10. § szerinti képviselt személy, szervezet kérheti a tanúsítvány visszavonását, illetve ha a hitelesítésszolgáltató ennek lehetőségét biztosítja, a tanúsítvány felfüggesztését.”
-
-(2) Az Eat. 14. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Ha a hitelesítésszolgáltató a szolgáltatás kapcsán biztosítja a tanúsítvány felfüggesztésének lehetőségét, a tanúsítvány érvényességét felfüggeszti és ezt nyilvántartásában haladéktalanul közzéteszi, ha
-
-a) az aláíró, illetve a képviselt személy (szervezet) kéri;
-
-b) a szolgáltatással kapcsolatos – jogszabályban, a szolgáltatási szabályzatban vagy az általános szerződési feltételekben meghatározott – rendellenességről szerez tudomást;
-
-c) megalapozottan feltételezhető, hogy a tanúsítványban foglalt adatok nem felelnek meg a valóságnak, vagy az aláírás-létrehozó adat nem az aláíró kizárólagos birtokában van;
-
-d) a Hatóság jogerős és végrehajtható határozatában így rendelkezik.”
-
-117. § (1) A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) a 168/B. §-t követően a következő alcímmel egészül ki:
-
-„Központi Ügyfél-regisztrációs Nyilvántartás
-
-168/C. § (1) Az állam által kötelezően nyújtandó azonosítási szolgáltatások igénybe vevőiről a személyazonosság hiteles igazolása érdekében az ügyfél-regisztrációs nyilvántartást kezelő szerv egységes ügyfél-regisztrációs nyilvántartást (a továbbiakban: Központi Ügyfél-regisztrációs Nyilvántartás) vezet.
-
-(2) Az állam által kötelezően nyújtandó azonosítási szolgáltatás igénybe vevője kérelme esetén díjmentesen jogosult egy, a Kormány rendeletében meghatározott, valamennyi a Kormány által kötelezően nyújtandó azonosítási szolgáltatáshoz egységesen kapcsolódó biztonságos kézbesítési szolgáltatás és az ahhoz kapcsolódó tárhely használatára.
-
-(3) A Központi Ügyfél-regisztrációs Nyilvántartás tekintetében az ügyfél-regisztrációs nyilvántartás és a nyilvántartásba történő regisztráció szabályait a (4)–(9) bekezdésben foglalt eltérésekkel kell alkalmazni.
-
-(4) A Központi Ügyfél-regisztrációs Nyilvántartás célja a Kormány által kötelezően nyújtandó azonosítási szolgáltatások kapcsán az érintett személy azonosításához szükséges adatok és technikai azonosítók közhiteles kezelése az elektronikus azonosítási szolgáltatások hiteles biztosításához és mások jogának vagy jogos érdekének védelme érdekében.
-
-(5) A Központi Ügyfél-regisztrációs Nyilvántartás az érintett következő adatait tartalmazza:
-
-a) az érintett természetes személyazonosító adatai,
-
-b) az érintett állampolgársága,
-
-c) tároló elemet tartalmazó személyazonosító igazolvány útján biztosított azonosítási szolgáltatás esetén az okmányszám, az okmány érvényességére vonatkozó adatok, a személyazonosító igazolványhoz rendelt regisztrációs kód visszafejthetetlen lenyomata és – amennyiben az érintett tárhelyet igényel – az érintett elektronikus levelezési címe,
-
-d) ügyfélkapu esetén felhasználói név, a felhasználói névhez tartozó jelszó visszafejthetetlen lenyomata, az érintett elektronikus levelezési címe,
-
-e) részleges kódú telefonos azonosítás esetén az érintett által megadott telefonos elérhetőség, elektronikus levelezési cím, felhasználói azonosító, valamint az ügyfél által az emlékeztető kérdésekre adott válaszok,
-
-f) az érintett egyedi azonosító száma.
-
-(6) A Kormány által kötelezően nyújtandó azonosítási szolgáltatás igénybevétele során az elektronikus ügyintézést biztosító szerv által igényelt, az ügyfél-regisztrációs nyilvántartásban szereplő
-
-a) adatok ellenőrzéséhez,
-
-b) adatok beszerzéséhez
-
-olyan technológiai megoldást kell alkalmazni, ami garantálja, hogy az ügyfél-regisztrációs nyilvántartást vezető szerv kizárólag az elektronikus azonosítási szolgáltatás lekérdezéséről értesül, annak címzettje ismeretlen marad számára. A technológiai megoldás kizárólag az elektronikus ügyintézést biztosító szerv által igényelt adatkérést, az adatkérés által érintett adatokat továbbítja, valamint az elektronikus ügyintézést biztosító szerv által megadott adatoknak az ügyfél-regisztrációs nyilvántartásban szereplő adatokkal történő egyezőségét vizsgálja.
-
-(7) Az (1) bekezdésben megjelölt azonosítási szolgáltatás igénybevételéhez nincs szükség a 168/A. § szerinti regisztrációra, ha az ügyfél a Kormány által kötelezően nyújtandó azonosítási szolgáltatás igénybevétele érdekében már a Központi Ügyfél-regisztrációs Nyilvántartásba regisztrált.
-
-(8) A Központi Ügyfél-regisztrációs Nyilvántartást vezető szerv a természetes személy adatait a regisztráció megszűnését követő 5 év elteltével zárolja. A természetes személy adatait az ügyfél-regisztrációs szerv az elektronikus azonosítás hitelességének visszavezethetősége, a polgárok jogai és jogos érdekeinek védelme és érvényesítése érdekében a regisztráció megszűnését követő 20 évig tárolja.
-
-(9) Az (1) bekezdés szerinti elektronikus azonosítási szolgáltatást kizárólag az vehet igénybe, aki a 168/A. § (3) bekezdésben megjelölt nyilvántartások valamelyikében szerepel.
-
-168/D. § (1) A tároló elemet tartalmazó személyazonosító igazolvány útján biztosított azonosítási szolgáltatás olyan Kormány által nyújtandó azonosítási szolgáltatás, amelyre a 168. §-ban foglaltakat a (2)–(4) bekezdésben foglalt eltérésekkel kell alkalmazni.
-
-(2) A tároló elemet tartalmazó személyazonosító igazolvány útján biztosított elektronikus azonosítási szolgáltatás esetében regisztrációs eljárás alatt a tároló elemet tartalmazó személyazonosító igazolvány iránti kérelem benyújtására irányuló eljárást kell érteni.
-
-(3) A Központi Ügyfél-regisztrációs Nyilvántartásba a 168/C. § (5) bekezdés c) pontja szerinti adatokat a tároló elemet tartalmazó személyazonosító igazolvány kiadásakor kell bejegyezni.
-
-(4) A személyiadat- és lakcímnyilvántartás központi szerve értesíti a Központi Ügyfél-regisztrációs Nyilvántartást kezelő szervet a tároló elemet tartalmazó személyazonosító igazolvány érvénytelenné válása tényéről és időpontjáról. A tároló elemmel rendelkező személyazonosító igazolvány érvénytelenné válásával a regisztráció megszűnik.”
-
-(2) A Ket. „Átmeneti rendelkezések” alcíme a következő 171/B. §-sal egészül ki:
-
-„171/B. § (1) 2016. január 1-jétől a Központi Ügyfél-regisztrációs Nyilvántartás a tároló elemmel rendelkező személyazonosító igazolvány útján biztosított azonosítási szolgáltatás tekintetében tartalmazza az igénybe vevők e törvényben meghatározott adatait.
-
-(2) Az ügyfélkapu és a részleges kódú telefonos azonosítás ügyfél-regisztrációs nyilvántartását az azt kezelő szerv 2016. január 1-jét követően tovább vezeti, és az ügyfélkapuval, illetve részleges kódú telefonos azonosítással rendelkező személyek adatait annak technikai feltételei megvalósulásakor, de legkésőbb 2016. december 31-éig átadja a Központi Ügyfél-regisztrációs Nyilvántartást kezelő szervnek.”
-
-(3) A Ket. 175. § (1) bekezdése a következő g) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki)
-
-„g) a Központi Ügyfél-regisztrációs Nyilvántartást vezető szervet.”
+115–117. §
 
 118. §
 
-119. § (1) Az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény (a továbbiakban: Ibtv.) 1. § (1) bekezdés 33. pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában)
-
-„33. létfontosságú információs rendszerelem: az európai vagy nemzeti létfontosságú rendszerelemmé a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény alapján kijelölt létfontosságú rendszerelemek azon elektronikus információs létesítményei, eszközei vagy szolgáltatásai, amelyek működésképtelenné válása vagy megsemmisülése az európai vagy nemzeti létfontosságú rendszerelemmé kijelölt rendszerelemeket vagy azok részeit elérhetetlenné tenné, vagy működőképességüket jelentősen csökkentené;”
-
-(2) Az Ibtv. 2. § (2) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-(E törvény rendelkezéseit kell alkalmazni:)
-
-„c) az európai vagy nemzeti létfontosságú rendszerelemmé a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény alapján kijelölt rendszerelemek”
-
-(elektronikus információs rendszereinek védelmére.)
-
-(3) Az Ibtv. 2. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) Az (1) bekezdés szerinti állami és önkormányzati szervek kivételével, az európai vagy nemzeti létfontosságú rendszerelemmé a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény alapján kijelölt rendszerelemek elektronikus információs rendszerei esetében az e törvény szerinti hatósági feladatokat, a biztonsági felügyeletet a hivatásos katasztrófavédelem szervezetrendszerén belül működő, a Kormány által kijelölt szerv kormányrendeletben meghatározottak szerint látja el.”
-
-(4) Az Ibtv. 7. § (5) bekezdése helyébe a következő rendelkezés lép
-
-„(5) A szervezet vezetője az e törvényben meghatározott feltételeknek megfelelő, az elektronikus információs rendszerre irányadó biztonsági osztálynál magasabb, kivételes esetben a hatóság előzetes engedélyével, kockázatokra kiterjedő indoklással ellátva alacsonyabb biztonsági osztályt is megállapíthat az elektronikus információs rendszerre vonatkozóan.”
-
-(5) Az Ibtv. 7. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) Az európai vagy nemzeti létfontosságú rendszerelemmé a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény alapján kijelölt rendszerelemek elektronikus információs rendszerei tekintetében az e törvényben meghatározott feltételeknek megfelelő, az elektronikus információs rendszerre irányadó biztonsági osztálynál magasabb, a hatóság előzetes engedélyével, kockázatokra kiterjedő indoklással ellátva alacsonyabb biztonsági osztály is megállapítható.”
-
-(6) Az Ibtv. 9. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) Az európai vagy nemzeti létfontosságú rendszerelemmé a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény alapján kijelölt rendszerelemek szervezetei tekintetében az e törvényben meghatározott feltételeknek megfelelő, az adott szervezetre irányadó besorolási szintnél magasabb, a hatóság előzetes engedélyével, kockázatokra kiterjedő indoklással ellátva alacsonyabb szintű besorolás is megállapítható.”
-
-(7) Az Ibtv. 18. § (5) bekezdés b) és c) pontja helyébe a következő rendelkezések lépnek:
-
-(A sérülékenységvizsgálatot, illetve a biztonsági esemény vizsgálatát)
-
-„b) a 2. § (1) bekezdése szerinti állami és önkormányzati szervek európai vagy nemzeti létfontosságú rendszerelemmé a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény alapján kijelölt rendszerelemei elektronikus információs rendszerei, valamint
-
-c) a 2. § (1) bekezdése szerinti, nemzetbiztonsági védelem alá eső állami és önkormányzati szervek”
-
-[vonatkozásában – a (8) bekezdésben foglaltak kivételével – a Kormány rendeletében meghatározott állami szerv végzi el.]
-
-(8) Az Ibtv. 18. § (9) bekezdése helyébe a következő rendelkezés lép:
-
-„(9) A sérülékenységvizsgálatot, illetve a biztonsági esemény vizsgálatát az (5) bekezdés szerinti állami szerv végzi el, ha az (5) bekezdés b) pontja szerinti elektronikus információs rendszereken kívüli, európai vagy nemzeti létfontosságú rendszerelemmé a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény alapján kijelölt rendszerelemek elektronikus információs rendszerei tekintetében nincs a sérülékenységvizsgálat, illetve a biztonságiesemény-vizsgálat elvégzésére a jogszabályban meghatározott feltételeknek megfelelő gazdasági társaság.”
-
-(9) Az Ibtv. 24. § (2) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap)
-
-„c) az e-közigazgatásért felelős miniszter, hogy a szervezetek hatósági nyilvántartásba vételének rendjét”
-
-(rendeletben határozza meg.)
-
-(10) Az Ibtv.
-
-- a) 18. § (3) bekezdés b) pontjában, (4), (6) és (9) bekezdésében, 22. § (1) és (2) bekezdésében a „gazdasági társaság” szövegrész helyébe a „gazdálkodó szervezet” szöveg,
-- b) 24. § (1) bekezdés j) pontjában a „gazdasági társasággal” szövegrész helyébe a „gazdálkodó szervezettel” szöveg
-
-lép.
-
-120. § Az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvény 13. § (4) bekezdésében az „A kártyakibocsátót” szövegrész helyébe az „Az 1. § (4) bekezdés b) pontja szerinti kártyakibocsátót” szöveg lép.
+119–120. §
 
 121. § (1) Hatályát veszti
 

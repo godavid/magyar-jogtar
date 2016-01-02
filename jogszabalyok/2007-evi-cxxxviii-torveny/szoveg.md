@@ -817,7 +817,7 @@ tisztségviselőként, köztisztviselőként, kormánytisztviselőként, vagy al
 31. § (1) A Felügyelet a befektetési szolgáltatási tevékenység végzésére jogosító engedélyt visszavonja, ha
 
 - a) az engedély kiadásának feltételei már nem állnak fenn, és azok hat hónapon belül nem pótolhatók,
-- b) a hitelintézet tevékenység végzésére jogosító engedélyét, az alapkezelő Tpt. 229. § (1) bekezdése szerinti, tevékenység végzésére jogosító engedélyét, a biztosító tevékenység végzésére jogosító engedélyét visszavonta, kivéve a (3) bekezdésben foglalt esetet,
+- b) a hitelintézet tevékenység végzésére jogosító engedélyét, a befektetési alapkezelő a Kbftv. 5. §-a szerinti tevékenység végzésére jogosító engedélyét, a biztosító tevékenység végzésére jogosító engedélyét visszavonta, kivéve a (3) bekezdésben foglalt esetet,
 - c) a befektetési vállalkozás nem vitatott tartozását az esedékességet követő öt napon belül nem egyenlítette ki, és vagyona (eszközei) az ismert hitelezők követelésének kielégítésére nem nyújtana fedezetet,
 - d) az engedéllyel rendelkező az engedélyezett tevékenységet tizenkét hónapon belül nem kezdi meg vagy hat hónapot meghaladó időtartam alatt nem gyakorolja,
 - e) az engedéllyel rendelkező a tevékenység folytatásával felhagy,
@@ -1698,7 +1698,7 @@ tájékoztatást ad a megbízás tárgyát képező ügyletre vonatkozóan.
 
 (8) A befektetési vállalkozás a (6) bekezdésben meghatározott információkat szabványosított kódok formájában is megadhatja az ügyfél számára abban az esetben, ha egyidejűleg a kódok értelmezését is megadja.
 
-68. § (1) A befektetési vállalkozás, amely a befektetési szolgáltatási tevékenysége keretében portfóliókezelési tevékenységet végez, az ügyfél számára havonta jelentést készít a tárgyhónap utolsó napjára vonatkozóan, és azt írásban vagy más tartós adathordozón az ügyfél rendelkezésére bocsátja.
+68. § (1) A befektetési vállalkozás, amely a befektetési szolgáltatási tevékenysége keretében portfóliókezelési tevékenységet végez, az ügyfél számára havonta jelentést készít a tárgyhónap utolsó napjára vonatkozóan, és azt írásban vagy más tartós adathordozón az ügyfél rendelkezésére bocsátja a tárgyhónapot követő hónap 10. munkanapjáig.
 
 (2) A befektetési vállalkozás, amely a befektetési szolgáltatási tevékenysége keretében portfóliókezelési tevékenységet végez, a végrehajtott ügylettel kapcsolatos tájékoztatását – az ügyfél rendelkezése szerint –
 

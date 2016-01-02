@@ -227,20 +227,12 @@ rendeletben állapítsa meg.
 
 30. § (1)
 
-(2) Az Öotv. 2. §-a a következő (11) bekezdéssel egészül ki:
-
-„(11) A praxisjog megszerzéséhez felvett hitelhez, illetve kölcsönhöz az állam – kormányrendeletben meghatározott módon – kamattámogatást biztosít.”
+(2)
 
 31. §
 
 32. § (1)
 
-(2) Az Öotv. 3. § (9) bekezdés a) pontja a következő ae) alponttal egészül ki:
-
-(Felhatalmazást kap
-
-a Kormány, hogy)
-
-„ae) a praxisjog megszerzéséhez felvett hitelhez, illetve kölcsönhöz az állam által biztosított kamattámogatásra vonatkozó részletes szabályokat meghatározza,”
+(2)
 
 33. §

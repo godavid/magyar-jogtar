@@ -699,9 +699,7 @@ o) jogszabályban meghatározott egyéb feladat.
 
 (2)
 
-(3) A Bv. tv. 96. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) A BFB a KKMI részére az elítélt záró kockázatelemzési vizsgálatához véleményt készít.”
+(3)
 
 127. § A Bv. tv. 109. § (1) bekezdése a következő szöveggel lép hatályba:
 

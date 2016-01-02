@@ -395,6 +395,6 @@ meghatározott műszaki, technológiai, biztonsági előírásoknak,
 
 #### 26. §
 
-27. § Hatályát veszti a 23. § (3)–(6) bekezdése.
+#### 27. §
 
 28. § A 25. § az Alaptörvény 46. cikk (6) bekezdése alapján sarkalatosnak minősül.

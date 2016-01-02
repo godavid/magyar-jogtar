@@ -5548,7 +5548,7 @@ felelős.
 
 437. § (1)
 
-(2) Hatályát veszti a 436. § (10) bekezdése.
+(2)
 
 ### Az Európai Unió jogának való megfelelés
 

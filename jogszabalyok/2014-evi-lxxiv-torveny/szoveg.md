@@ -142,15 +142,7 @@ lép.
 
 #### 11. Az általános forgalmi adóról szóló 2007. évi CXXVII. törvény módosítása
 
-110. § Az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa tv.) 58. § (1) bekezdése helyébe a következő rendelkezés lép, valamint az 58. § a következő (1a) bekezdéssel egészül ki:
-
-„(1) Amennyiben a felek a termékértékesítés, szolgáltatásnyújtás során időszakonkénti elszámolásban vagy fizetésben állapodnak meg, vagy a termékértékesítés, szolgáltatásnyújtás ellenértékét meghatározott időszakra állapítják meg, teljesítés az elszámolással vagy fizetéssel érintett időszak utolsó napja.
-
-(1a) Az (1) bekezdéstől eltérően teljesítés
-
-a) a számla vagy a nyugta kibocsátásának időpontja, amennyiben az elszámolással vagy fizetéssel érintett időszakra vonatkozó ellenérték megtérítésének esedékessége és a számla vagy a nyugta kibocsátása az elszámolással vagy fizetéssel érintett időszak utolsó napját megelőzi,
-
-b) az elszámolással vagy fizetéssel érintett időszakra vonatkozó ellenérték megtérítésének esedékessége, de legfeljebb az elszámolással vagy fizetéssel érintett időszak utolsó napját követő hatvanadik nap, amennyiben az ellenérték megtérítésének esedékessége az elszámolással vagy fizetéssel érintett időszak utolsó napját követő időpontra esik.”
+110. §
 
 111. §
 
@@ -170,9 +162,7 @@ b) az elszámolással vagy fizetéssel érintett időszakra vonatkozó ellenért
 
 133. §
 
-134. § Az Áfa tv. a következő 297. §-sal egészül ki:
-
-„297. § E törvénynek a Mód5 törvénnyel megállapított 58. § (1) és (1a) bekezdését az olyan 2015. december 31-ét követően kezdődő elszámolással vagy fizetéssel érintett időszakokra kell először alkalmazni, amelyek tekintetében a fizetés esedékessége, valamint a számla vagy a nyugta kibocsátásának időpontja 2015. december 31-ét követő időpont.”
+134. §
 
 135. § Az Áfa tv.
 
@@ -182,16 +172,13 @@ b) az elszámolással vagy fizetéssel érintett időszakra vonatkozó ellenért
 136. § Az Áfa tv.
 
 - 1.
-- 2. 58. § (3) bekezdésében az „az (1) bekezdéstől és az 58/A. §-tól” szövegrész helyébe az „az (1) és (1a) bekezdéstől” szöveg;
+- 2.
 - 3.
 - 4–6.
 
 lép.
 
-137. § Hatályát veszti az Áfa tv.
-
-- 1. 58/A. §-a
-- 2. 296. §-a.
+137. §
 
 #### 12. Az egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XXXIII. törvény módosítása
 

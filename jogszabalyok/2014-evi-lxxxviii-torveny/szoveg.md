@@ -135,7 +135,7 @@ Az Országgyűlés a biztosítottak érdekeinek védelme, az öngondoskodás ös
   - b) a nem-életbiztosítási ághoz tartozó biztosítási ágazatok esetén: ba) ingatlan és az ott található ingóságok biztosítása esetén, ha ezeket ugyanaz a biztosítási kötvény fedezi, az a tagállam, ahol az ingatlan található, bb) bármely fajta jármű biztosítása esetén azon tagállam, amely a Gfbt.-ben meghatározott kötelezettségvállalás országának minősül, bc) legfeljebb 4 hónapos tartamú, utazási és szabadság alatti kockázatok biztosítására szóló szerződés esetén – tekintet nélkül az érintett biztosítási ágazatra – az a tagállam, amelyben a szerződő fél a szerződést megkötötte, bd) minden egyéb olyan esetben, amely nem tartozik kifejezetten a ba)–bc) alpontok által megjelölt körbe, az a tagállam, amelyben a szerződő állandó tartózkodási helye van, vagy ha a szerződő jogi személy, az a tagállam, amelyben ezen jogi személynek az a telephelye található, amelyre a szerződés vonatkozik;
 - 63. kötvénykölcsön: az életbiztosítási szerződés alapján a biztosító által legfeljebb a visszavásárlási összeg erejéig a szerződőnek nyújtható – pénzügyi szolgáltatásnak nem minősülő – kölcsön, amelyet a biztosító és a szerződő legkésőbb a biztosítási esemény bekövetkeztekor vagy a szerződés megszűntekor számol el;
 - 64. közeli hozzátartozó: a Polgári Törvénykönyvről szóló 2013. évi V. törvényben (a továbbiakban: Ptk.) meghatározott fogalom és az élettárs;
-- 65. közérdeklődésre számot tartó biztosító és viszontbiztosító: a nyilvánosan működő biztosító vagy viszontbiztosító részvénytársaság és az a biztosító vagy viszontbiztosító, amelynél a tárgyévet megelőző két egymást követő üzleti évben az éves bruttó díjbevétel elérte az egymilliárd-ötszázmillió forintot;
+- 65. közérdeklődésre számot tartó biztosító és viszontbiztosító: az e törvény szerinti biztosító és viszontbiztosító, kivéve a hatodik rész hatálya alá tartozó kisbiztosító és a kölcsönös biztosító egyesület;
 - 66. közvetett tulajdon: egy vállalkozás (a továbbiakban: eredeti vállalkozás) tulajdoni hányadainak, illetve szavazatainak a vállalkozásban tulajdoni részesedéssel, illetve szavazati joggal rendelkező más vállalkozás (a továbbiakban: köztes vállalkozás) tulajdoni hányadain, illetve szavazati jogán keresztül történő – az 5. melléklet szerint figyelembe vett – birtoklása vagy gyakorlása;
 - 67. különleges célú gazdasági egység: olyan, tagállamban engedélyezett – biztosítónak vagy viszontbiztosítónak nem minősülő – vállalkozás, amely jogosult átvállalni a kockázatot a biztosítóktól és viszontbiztosítóktól, és amely teljes mértékben viseli a kockázat költségterheit egy hitelviszonyt megtestesítő értékpapír-kibocsátásból származó bevételből vagy valamilyen más finanszírozási mechanizmus által;
 - 68. különleges célú gazdasági eszköz: a különleges célú gazdasági egység által kibocsátott eszköz, amely esetében a kibocsátó – hitelviszonyt megtestesítő értékpapírból vagy más finanszírozási mechanizmusból eredő – kötelezettségei alárendeltek az ilyen eszközzel kapcsolatos viszontbiztosítási kötelezettségeknek;
@@ -1161,6 +1161,12 @@ kapcsolatos, a biztosítók és a viszontbiztosítók szavatolótőkéjéről é
 
 (3) A biztosítónak és a viszontbiztosítónak – az informatikai rendszer védelméről szóló jogszabályban meghatározott követelményekkel összhangban – ki kell alakítania a tevékenységének ellátásához használt informatikai rendszer biztonságával kapcsolatos szabályozási rendszerét és gondoskodnia kell az informatikai rendszer kockázatokkal arányos védelméről.
 
+(4) A biztosítónak és a viszontbiztosítónak a tevékenysége végzésére csak olyan informatikai rendszer felhasználásával kerülhet sor, amely biztosítja a rendszerelemek zártságát, és megakadályozza az informatikai rendszerhez történő jogosulatlan hozzáférést, valamint észrevétlen módosítását. Az informatikai rendszernek meg kell felelnie az általános információbiztonsági zártsági követelményeknek is. Ennek érdekében a biztosítónak és a viszontbiztosítónak adminisztratív, fizikai és logikai intézkedésekkel biztosítania kell az általános információbiztonsági zártsági követelmények teljesülését.
+
+(5) A (4) bekezdésben meghatározott követelményeknek való megfelelést külső szakértő (a továbbiakban: tanúsító szervezet) által kiadott, az informatikai rendszerre vonatkozó tanúsítással kell igazolni. A tanúsító szervezettel és a tanúsítással szemben támasztott követelményeket külön jogszabály határozza meg.
+
+(6) Az (5) bekezdés szerinti tanúsító szervezet írásban haladéktalanul tájékoztatja a Felügyeletet, ha a biztosító és a viszontbiztosító informatikai rendszerével kapcsolatosan olyan tényt állapít meg, amely a biztosító és a viszontbiztosító folyamatos működését kedvezőtlenül érinti vagy bűncselekmény elkövetésére, jogszabály megsértésére vagy a biztosító és a viszontbiztosító belső szabályzatának súlyos megsértésére vagy ezek veszélyére utaló körülményeket észlel.
+
 #### 34. Az üzleti terv
 
 95. § (1) Az üzleti terv tartalmazza a biztosítási vagy viszontbiztosítási tevékenység terjedelmét, továbbá a biztosítási vagy a viszontbiztosítási szerződésben vállalt kötelezettségek teljesítése szempontjából jelentőséggel bíró tényeket és adatokat, így különösen:
@@ -1330,7 +1336,7 @@ az e szolgáltatások tekintetében képzett biztosítástechnikai tartalékokat
 
 (7) E § alkalmazásában kapcsolt vállalkozás a vállalkozás anyavállalata és leányvállalata, a vállalkozás anyavállalatának leányvállalata, a vállalkozásban minősített befolyással rendelkező tulajdonos vagy olyan vállalkozás, amelyben a vállalkozás vagy a vállalkozás tulajdonosa, felügyelőbizottsági tagja, vezető tisztségviselője vagy ezek közeli hozzátartozója minősített befolyással rendelkezik.
 
-#### 40. A fizetőképességgel és a pénzügyi helyzettel kapcsolatos közzétételi szabályok
+#### 40. A fizetőképességgel és a pénzügyi helyzettel kapcsolatos, továbbá egyéb közzétételi szabályok
 
 108. § (1) A biztosító és a viszontbiztosító köteles évente jelentést közzétenni fizetőképességéről és pénzügyi helyzetéről.
 
@@ -1342,6 +1348,14 @@ az e szolgáltatások tekintetében képzett biztosítástechnikai tartalékokat
 (3) Az (1) bekezdésben meghatározott jelentést a biztosító vagy a viszontbiztosító igazgatósága a közzététel előtt jóváhagyja.
 
 (4) Az (1) bekezdésben meghatározott jelentés tartalmára, közzétételére és az ezzel kapcsolatos felügyeleti engedélyezésre vonatkozó szabályokat a Kormány a biztosítási és a viszontbiztosítási tevékenységhez kapcsolódó fizetőképességről és pénzügyi helyzetről szóló jelentéssel összefüggő részletszabályokról szóló rendeletben állapítja meg.
+
+108/A. § (1) A biztosító és a viszontbiztosító köteles a Felügyelet által vele szemben hozott határozat rendelkező részét – a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény (a továbbiakban: MNBtv.) 53. §-ában meghatározott rendelkezések figyelembevételével – a honlapján közzétenni. Ha a biztosító vagy a viszontbiztosító nem rendelkezik honlappal, a közzétételi kötelezettségnek a székhelyén történő kifüggesztéssel is eleget tehet.
+
+(2) Az (1) bekezdésben meghatározott közzétételi kötelezettség az adott határozat közlésétől számított öt évig áll fenn.
+
+(3) A biztosító és a viszontbiztosító jogosult az (1) bekezdésben meghatározott határozat indokolását is közzétenni. Az indokolás közzététele során a személyes, biztosítási és üzleti titokvédelmi szabályok által védett adatok közzétételét mellőzni kell, a biztosító vagy a viszontbiztosító mérlegelése alapján a saját üzleti titkai körébe tartozó adatokat közzéteheti.
+
+(4) A biztosító és a viszontbiztosító – a fenti rendelkezések figyelembevételével – jogosult az (1) bekezdés szerinti határozat bírósági felülvizsgálata keretében hozott határozatot is közzétenni.
 
 ### VI. Fejezet — A BIZTOSÍTÓ ESZKÖZEINEK NYILVÁNTARTÁSÁRA, KÖNYVVEZETÉSÉRE ÉS BESZÁMOLÓJÁRA VONATKOZÓ SZABÁLYOK
 
@@ -1683,6 +1697,8 @@ szemben, ha az a)–j), n) és s) pontban megjelölt szerv vagy személy írásb
 
 (3) Nem jelenti a biztosítási titok sérelmét, ha a biztosító által az adóhatóság felé történő adatszolgáltatás a Magyarország Kormánya és az Amerikai Egyesült Államok Kormánya között a nemzetközi adóügyi megfelelés előmozdításáról és a FATCA szabályozás végrehajtásáról szóló Megállapodás kihirdetéséről, valamint az ezzel összefüggő egyes törvények módosításáról szóló 2014. évi XIX. törvény (a továbbiakban: FATCA-törvény) alapján az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény (a továbbiakban: Aktv.) 43/B–43/C. §-ában foglalt kötelezettség teljesítésében merül ki.
 
+(3a) Nem jelenti a biztosítási titok sérelmét, ha a biztosító által az adóhatóság felé történő adatszolgáltatás az Aktv. 43/H. §-ában foglalt kötelezettség, valamint a FATCA-törvény alapján az Aktv. 43/B. és 43/C. §-ában foglalt kötelezettség teljesítésében merül ki.
+
 (4) A biztosító vagy a viszontbiztosító az (1) és (6) bekezdésekben, a 137. §-ban, a 138. §-ban és a 140. §-ban meghatározott esetekben és szervezetek felé az ügyfelek személyes adatait továbbíthatja.
 
 (5) A biztosítási titoktartási kötelezettség az eljárás keretén kívül az (1) bekezdésben meghatározott szervek alkalmazottaira is kiterjed.
@@ -1777,7 +1793,7 @@ van összefüggésben.
 
 #### 60. A FATCA-törvény alapján fennálló kötelezettségek
 
-148. § (1) A FATCA-törvény szerinti, e törvény hatálya alá tartozó Jelentő Magyar Pénzügyi Intézmény (a továbbiakban ezen alcím tekintetében: intézmény) az általa kezelt, FATCA-törvény szerinti Pénzügyi Számla (a továbbiakban: pénzügyi számla) vonatkozásában elvégzi a FATCA-törvény szerinti Számlatulajdonos és Jogalany (a továbbiakban együtt: számlatulajdonos) FATCA-törvényben foglalt Megállapodás I. számú Melléklete szerinti illetőségének megállapítására irányuló vizsgálatot (a továbbiakban: illetőségvizsgálat).
+148. § (1) A FATCA-törvény szerinti, e törvény hatálya alá tartozó Jelentő Magyar Pénzügyi Intézmény (a továbbiakban ezen alcím tekintetében: intézmény) az általa kezelt, FATCA-törvény szerinti Pénzügyi Számla vonatkozásában elvégzi a FATCA-törvény szerinti Számlatulajdonos és Jogalany (a továbbiakban ezen alcím tekintetében együtt: Számlatulajdonos) FATCA-törvényben foglalt Megállapodás 1. Melléklete szerinti illetőségének megállapítására irányuló vizsgálatot (a továbbiakban ezen alcím tekintetében: illetőségvizsgálat).
 
 (2) Az intézmény a számlatulajdonost az illetőségvizsgálat elvégzésével egyidejűleg írásban tájékoztatja
 
@@ -1786,6 +1802,17 @@ van összefüggésben.
 - c) a FATCA-törvény szerinti jelentéstételi kötelezettségéről.
 
 (3) Az Aktv. 43/B–43/C. §-a szerinti adatszolgáltatás esetén az adatszolgáltatás tényéről az intézmény a számlatulajdonost az adatszolgáltatás teljesítésétől számított harminc napon belül írásban tájékoztatja.
+
+#### 60/A. A Pénzügyi Számlákkal kapcsolatos adatszolgáltatás és átvilágítás alapján fennálló kötelezettségek
+
+148/A. § (1) Az Aktv. szerinti, e törvény hatálya alá tartozó Jelentő Magyar Pénzügyi Intézmény (ezen alcím alkalmazásában a továbbiakban: intézmény) az általa kezelt, az Aktv. 1. melléklet VIII/C. pontja szerinti Pénzügyi Számla vonatkozásában elvégzi az Aktv. szerinti Számlatulajdonos és Jogalany (ezen alcím alkalmazásában a továbbiakban együtt: Számlatulajdonos) illetőségének az Aktv. 1. melléklet II–VII. pontja szerinti megállapítására irányuló vizsgálatot (ezen alcím alkalmazásában a továbbiakban: illetőségvizsgálat).
+
+(2) Az intézmény a Számlatulajdonost az illetőségvizsgálat elvégzésével egyidejűleg az ügyfélfogadásra nyitva álló helyiségeiben kifüggesztett hirdetmény útján vagy – ha az lehetséges – elektronikus úton tájékoztatja
+
+- a) az illetőségvizsgálat elvégzéséről,
+- b) az Aktv. 43/H. §-a alapján az adóhatóság felé fennálló adatszolgáltatási kötelezettségéről.
+
+(3) Az Aktv. 43/H. §-a szerinti adatszolgáltatásról az intézmény a Számlatulajdonost az adatszolgáltatás teljesítésétől számított harminc napon belül írásban – ha az lehetséges elektronikus úton – tájékoztatja.
 
 #### 61. A veszélyközösség védelme céljából történő adatátadás
 
@@ -1957,17 +1984,17 @@ fogadja.
 
 (4) Telefonon történő panaszkezelés esetén a biztosító biztosítja az ésszerű várakozási időn belüli hívásfogadást és ügyintézést. A biztosító az ügyintézőjének – a biztosító felé indított hívás sikeres felépülésének időpontjától számított – öt percen belüli élőhangos bejelentkezése érdekében úgy köteles eljárni, ahogy az az adott helyzetben általában elvárható.
 
-(5) Telefonon történő panaszkezelés esetén a biztosító és az ügyfél közötti telefonos kommunikációt a biztosító hangfelvétellel rögzíti, és a hangfelvételt egy évig, továbbá a panasszal összefüggésben indult a felügyeleti eljárás lezárásáig, vagy az eljárás során hozott határozat ellen indított felülvizsgálati eljárás végéig megőrzi. Erről az ügyfelet a telefonos ügyintézés kezdetekor tájékoztatni kell. Az ügyfél kérésére biztosítani kell a hangfelvétel visszahallgatását, továbbá térítésmentesen rendelkezésre kell bocsátani a hangfelvételről készített hitelesített jegyzőkönyvet.
+(5) Telefonon történő panaszkezelés esetén a biztosító és az ügyfél közötti telefonos kommunikációt a biztosító hangfelvétellel rögzíti, és a hangfelvételt öt évig megőrzi. Erről az ügyfelet a telefonos ügyintézés kezdetekor tájékoztatni kell. Az ügyfél kérésére biztosítani kell a hangfelvétel visszahallgatását, továbbá térítésmentesen rendelkezésre kell bocsátani a hangfelvételről készített hitelesített jegyzőkönyvet.
 
 (6) A biztosító a szóbeli panaszt – a (7) bekezdésben meghatározott eltéréssel – azonnal megvizsgálja, és szükség szerint orvosolja. Ha az ügyfél a panasz kezelésével nem ért egyet, a biztosító a panaszról és az azzal kapcsolatos álláspontjáról jegyzőkönyvet vesz fel, és annak egy másolati példányát a személyesen közölt szóbeli panasz esetén az ügyfélnek átadja, telefonon közölt szóbeli panasz esetén az ügyfélnek – a (8) bekezdésben foglaltakkal egyidejűleg – megküldi, egyebekben az írásbeli panaszra vonatkozó rendelkezések szerint jár el.
 
 (7) Ha a panasz azonnali kivizsgálása nem lehetséges, a biztosító a panaszról jegyzőkönyvet vesz fel, és annak egy másolati példányát a személyesen közölt szóbeli panasz esetén az ügyfélnek átadja, telefonon közölt szóbeli panasz esetén az ügyfélnek – a (8) bekezdésben foglaltakkal egyidejűleg – megküldi, egyebekben az írásbeli panaszra vonatkozó rendelkezések szerint jár el.
 
-(8) A biztosító az írásbeli panasszal kapcsolatos, indokolással ellátott álláspontját a panasz közlését követő harminc napon belül megküldi az ügyfélnek.
+(8) A biztosító az írásbeli panasszal kapcsolatos, indokolással ellátott álláspontját a panasz közlését követő harminc napon belül megküldi az ügyfélnek. A biztosító a panaszkezelés során köteles úgy eljárni, hogy a körülmények által adott lehetőségekhez mérten elkerülje a pénzügyi fogyasztói jogvita kialakulását.
 
-(9) A panasz elutasítása esetén a biztosító válaszában tájékoztatja az ügyfelet arról, hogy a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvényben (a továbbiakban: MNBtv.) meghatározott fogyasztóvédelmi rendelkezések megsértése esetén a Felügyeletnél fogyasztóvédelmi eljárást kezdeményezhet, vagy a szerződés létrejöttével, érvényességével, joghatásaival és megszűnésével, továbbá a szerződésszegéssel és annak joghatásaival kapcsolatos jogvita esetén bírósághoz fordulhat, vagy – amennyiben az ügyfél fogyasztó – a Pénzügyi Békéltető Testület eljárását kezdeményezheti. A biztosítónak meg kell adnia a Pénzügyi Békéltető Testület levelezési címét.
+(9) A panasz elutasítása esetén a biztosító válaszában írásban tájékoztatja az ügyfelet arról, hogy az MNBtv.-ben meghatározott fogyasztóvédelmi rendelkezések megsértése esetén a Felügyeletnél fogyasztóvédelmi eljárást kezdeményezhet, vagy a szerződés létrejöttével, érvényességével, joghatásaival és megszűnésével, továbbá a szerződésszegéssel és annak joghatásaival kapcsolatos jogvita esetén bírósághoz fordulhat, vagy a Pénzügyi Békéltető Testület eljárását kezdeményezheti, amennyiben a Pénzügyi Békéltető Testület eljárására vonatkozó szabályok alapján fogyasztónak minősül. A biztosítónak tájékoztatni kell e fogyasztót arról, hogy tett-e általános alávetési nyilatkozatot, meg kell adnia a Pénzügyi Békéltető Testület levelezési címét, továbbá a fogyasztó külön kérésére meg kell küldenie a Pénzügyi Békéltető Testület által készített és a biztosító rendelkezésére bocsátott kérelem nyomtatványt.
 
-(10) A biztosító a panaszt és az arra adott választ három évig őrzi meg, és azt a Felügyeletnek kérésére bemutatja.
+(10) A biztosító a panaszt és az arra adott választ öt évig őrzi meg, és azt a Felügyeletnek kérésére bemutatja.
 
 (11) A biztosító az ügyfelek panaszai hatékony, átlátható és gyors kezelésének eljárásáról, a panaszügyintézés módjáról, valamint a (12) bekezdés szerinti nyilvántartás vezetésének szabályairól szabályzatot (a továbbiakban: panaszkezelési szabályzat) készít. A biztosító a panaszkezelési szabályzatban tájékoztatja az ügyfelet a panaszügyintézés helyéről, levelezési címéről, elektronikus levelezési címéről, telefonszámáról és telefaxszámáról.
 
@@ -2417,7 +2444,7 @@ a biztosítási tevékenységet, az e részben meghatározott eltérő szabályo
 
 209. § (1) A biztosító részvénytársaság esetén a 8. §-ban meghatározott rendelkezéseket nem kell alkalmazni.
 
-(2) A kisbiztosítók esetén az 55. § (1) bekezdés e)–f) pontjában, a 65–68. §-ban, a 76–84. §-ban és a 86–90. §-ban foglalt rendelkezéseket nem kell alkalmazni.
+(2) A kisbiztosítók esetén az 55. § (1) bekezdés e)–f) pontjában, a 65–68. §-ban, a 76–84. §-ban, a 86-90. §-ban és a 94. § (4)–(6) bekezdésében foglalt rendelkezéseket nem kell alkalmazni.
 
 (3) A 93. § (1) bekezdés b) pontjában meghatározott minimális biztonsági tőkerész értékét biztosítási ágazatonként és szervezettípusonként kell megállapítani a biztosítók és a viszontbiztosítók szavatolótőkéjéről és biztosítástechnikai tartalékairól szóló Kormány rendelet biztonsági tőkére meghatározott előírásai szerint.
 
@@ -2712,7 +2739,7 @@ kiszervezését.
 
 236. § (1) Kisbiztosító-egyesület esetén a Felügyelet részére teljesítendő adatszolgáltatási kötelezettségének teljesítése a kisbiztosító-egyesületek érdekvédelmi szervezetének közreműködésével is történhet.
 
-(2) Kisbiztosító-egyesület esetében a 94. § (1) bekezdés e) pontját és a (3) bekezdését nem kell alkalmazni.
+(2) Kisbiztosító-egyesület esetében a 94. § (1) bekezdés e) pontját és a (3)–(6) bekezdését nem kell alkalmazni.
 
 (3) Kisbiztosító-egyesület esetében a 159. § rendelkezéseit nem kell alkalmazni.
 
@@ -3323,6 +3350,24 @@ köteles arról harminc napon belül írásban tájékoztatni a Felügyeletet.
 (2) Ha a Felügyelet az (1) bekezdésben meghatározott helyszíni ellenőrzéshez való joga gyakorlásában akadályoztatva van, a Felügyelet az EBFH-hoz utalhatja az ügyet és az 1094/2010/EU rendelet 19. cikkével összhangban a segítségét kérheti.
 
 (3) Másik tagállam érintett felügyeleti hatóságának az (1) bekezdésben meghatározott ellenőrzésben történő közreműködése esetén a Felügyelet biztosítja, hogy az EBFH az 1094/2010/EU rendelet 21. cikkével összhangban a helyszíni ellenőrzésben részt vehessen.
+
+#### 109/A. A helyszíni vizsgáló
+
+278/A. § (1) A Felügyelet az e törvényben foglalt, továbbá a biztosítási vagy viszontbiztosítási tevékenységre vonatkozó előírások felügyeleti ellenőrzésével kapcsolatos hatáskörének gyakorlása érdekében, a biztosító vagy a viszontbiztosító működésének szükségtelen zavarása nélkül, indokolt gyakorisággal, ideiglenes jelleggel, meghatározott időtartamra – egy vagy több – helyszíni vizsgálót rendelhet ki.
+
+(2) A Felügyelet a helyszíni vizsgálatot végző alkalmazottját megbízólevéllel látja el.
+
+(3) A kirendelt helyszíni vizsgáló jogosult
+
+- a) bármely ellenőrzési tevékenység ellátására;
+- b) megfigyelőként részt venni és felszólalni, az igazgatóság, bármely más döntést hozó testület vagy bizottság, valamint a felügyelőbizottság ülésén, a közgyűlésen (küldöttgyűlésen);
+- c) konzultálni a biztosító és viszontbiztosító könyvvizsgálójával.
+
+(4) A helyszíni vizsgáló kirendelésének időtartama harminc napra szól, amely indokolt esetben harminc nappal meghosszabbítható.
+
+(5) Ha az e §-ban meghatározott helyszíni vizsgáló a működése során jogszabálysértést tapasztal – a vizsgáló kezdeményezésére – a Felügyelet a jogsértés súlyának figyelembevételével köteles célvizsgálatot vagy rendkívüli célvizsgálatot indítani.
+
+(6) A helyszíni vizsgáló kirendelése a határozott időtartam lejártával vagy a Felügyelet végzésével zárul.
 
 #### 110. A másik tagállamban történő biztosítói fióktelep-létesítés bejelentése és szabályai
 
@@ -4587,7 +4632,9 @@ végzi.
 
 (4) Ha a Felügyelet a biztosításközvetítői tevékenységet végző természetes személy felügyeleti nyilvántartásban szereplő státusza inaktív szerepeltetéséről döntött, a közvetítő köteles az arcképes igazolványt a kibocsátónak visszaadni.
 
-375. § A 131. §-ban meghatározott rendelkezéseket alkalmazni kell a biztosításközvetítő által történő termékterjesztésre is.
+375. § (1) A 131. §-ban meghatározott rendelkezéseket alkalmazni kell a biztosításközvetítő által történő termékterjesztésre is.
+
+(2) A független biztosításközvetítő és a többes ügynök esetében megfelelően alkalmazni kell a 108/A. §-ban meghatározott rendelkezéseket, azzal, hogy ahol a rendelkezés biztosítót említ, azon a független biztosításközvetítőt és a többes ügynököt kell érteni. Ha a független biztosításközvetítő vagy a többes ügynök nem rendelkezik honlappal, a közzétételi kötelezettségnek a székhelyén történő kifüggesztéssel is eleget tehet.
 
 #### 168. A biztosításközvetítők szakmai továbbképzése
 
@@ -5275,7 +5322,10 @@ rendelkezni.
 433. § (1) A Felügyelet dönthet a biztosításközvetítő a biztosításközvetítő nyilvántartásban szereplő státusza inaktív szerepeltetéséről, ha
 
 - a) a nyilvántartásba-vételi és működési feltételek bármelyikének – az azok teljesítésére történő kötelezésnek való megfelelés teljesítésére nyitva álló határidő eredménytelen elteltét követően – nem felel meg,
-- b) ellenőrzése során bebizonyosodik, hogy működése súlyosan vagy ismétlődően sértette a biztosítottak érdekeit.
+- b) ellenőrzése során bebizonyosodik, hogy működése súlyosan vagy ismétlődően sértette a biztosítottak érdekeit,
+- c) megállapítja, hogy a biztosításközvetítő tevékenységi engedély nélkül vagy bejelentés hiányában végez pénzügyi szervezet által végezhető tevékenységet és
+  - ca) e tevékenységével előidézett jogsértés súlya indokolja, vagy
+  - cb) azon személyek érdekeinek a megóvása indokolja, amelyek számára e tevékenységet végezte.
 
 (2) A harmadik országbeli biztosításközvetítő fióktelep biztosításközvetítő nyilvántartásban szereplő státusza inaktív szerepeltetéséről a Felügyelet – az (1) bekezdésben foglaltakon túlmenően – akkor is dönt, ha a biztosításközvetítő székhelye szerinti ország jogszabályai alapján már nem jogosult biztosításközvetítői tevékenység végzésére.
 
@@ -5293,7 +5343,10 @@ rendelkezni.
 - b) nyilvántartása vagy az éves beszámolója nem felel meg a valóságnak,
 - c) ellenőrzése során bebizonyosodik, hogy a működésére vonatkozó jogszabályokat ismételten vagy súlyosan megsértette, vagy működése súlyosan vagy ismétlődően sérti a biztosítottak érdekeit,
 - d) az engedély megadásától számított egy éven belül a többes ügynök vagy az alkusz tevékenységét nem kezdte meg, vagy a biztosításközvetítői tevékenységet engedély nélkül hat hónapon túl felfüggeszti,
-- e) a többes ügynök vagy az alkusz tevékenysége felfüggesztésének időtartama alatt a jogsértő helyzet megszüntetése érdekében tett felügyeleti intézkedések nem vezettek eredményre.
+- e) a többes ügynök vagy az alkusz tevékenysége felfüggesztésének időtartama alatt a jogsértő helyzet megszüntetése érdekében tett felügyeleti intézkedések nem vezettek eredményre,
+- f) megállapítja, hogy a többes ügynök vagy az alkusz tevékenységi engedély nélkül vagy bejelentés hiányában végez pénzügyi szervezet által végezhető tevékenységet és
+  - fa) e tevékenységével előidézett jogsértés súlya indokolja, vagy
+  - fb) azon személyek érdekeinek a megóvása indokolja, amelyek számára e tevékenységet végezte.
 
 (2) A harmadik országbeli független biztosításközvetítő fióktelep engedélyét a Felügyelet – az (1) bekezdésben foglaltakon túlmenően – akkor is visszavonja, ha a biztosításközvetítő székhelye szerinti ország jogszabályai alapján már nem jogosult független biztosításközvetítői tevékenység végzésére.
 
@@ -5564,27 +5617,14 @@ feltéve, ha a szakmai gyakorlat befejezésére vonatkozó egyéb feltételek fe
 - 5. a 98/26/EK, 2002/87/EK, 2003/6/EK, 2003/41/EK, 2003/71/EK, 2004/39/EK, 2004/109/EK, 2005/60/EK, 2006/48/EK, 2006/49/EK és 2009/65/EK irányelvnek az európai felügyeleti hatóság (Európai Bankhatóság), az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról szóló 2010. november 24-i 2010/78/EU európai parlamenti és tanácsi irányelvnek,
 - 6. a 98/78/EK, a 2002/87/EK, a 2006/48/EK és a 2009/138/EK irányelvnek a pénzügyi konglomerátumhoz tartozó pénzügyi vállalkozások kiegészítő felügyelete tekintetében történő módosításáról szóló 2011. november 16-i 2011/89/EU európai parlamenti és tanácsi irányelvnek,
 - 7. a biztosítási és viszontbiztosítási üzleti tevékenység megkezdéséről és gyakorlásáról (Szolvencia II) szóló 2009. november 25-i 2009/138/EK európai parlamenti és tanácsi irányelvnek,
-- 8. a 2003/71/EK és a 2009/138/EK irányelvnek, valamint az 1060/2009/EK, az 1094/2010/EU és az 1095/2010/EU rendeletnek az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról szóló 2014. április 16-i 2014/51/EU európai parlamenti és tanácsi irányelvnek
+- 8. a 2003/71/EK és a 2009/138/EK irányelvnek, valamint az 1060/2009/EK, az 1094/2010/EU és az 1095/2010/EU rendeletnek az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról szóló 2014. április 16-i 2014/51/EU európai parlamenti és tanácsi irányelvnek,
+- 9. a 2011/16/EU tanácsi irányelvnek az adózás területére vonatkozó kötelező automatikus információcsere tekintetében történő módosításáról szóló 2014. december 9-i 2014/107/EU tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
 #### 197. Módosító és hatályon kívül helyező rendelkezések
 
-454. § A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény
-
-- a) 1. § (3) bekezdésében a „biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvényt” szövegrész helyébe a „biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvényt”,
-- b) 18. § (1) bekezdésében a „Bit. 83. §-ában” szövegrész helyébe a „Bit. 53. §-ában”,
-- c) 18. § (2) bekezdésében a „Bit. 83. és 91. §-ától eltérően” szövegrész helyébe a „Bit. 53. § (4)–(5) bekezdésétől, az 54. §-ától és a 69. §-ától eltérően”,
-- d) 25. § (2) bekezdésében a „Bit. 157. § (1) bekezdésében” szövegrész helyébe a „Bit. 138. § (1) bekezdésében”,
-- e) 25. § (5) bekezdésében a „Bit. 116. § (1) bekezdésnek” szövegrész helyébe a „Bit. 74. §-ának”
-
-szöveg lép.
-
-455. § A tőkepiacról szóló 2001. évi CXX. törvény (a továbbiakban: Tpt.) 5. § (1) bekezdés 23. pontja helyébe a következő rendelkezés lép:
-
-[E törvény és az e törvény felhatalmazása alapján kiadott jogszabályok alkalmazásában]
-
-„23. biztosító: a Bit.-ben meghatározott fogalom, továbbá a XIX/B. Fejezet alkalmazásában biztosítónak tekintendő a Bit.-ben meghatározott harmadik országbeli biztosító is,”
+#### 454–455. §
 
 456. § (1)
 
@@ -5594,156 +5634,17 @@ szöveg lép.
 
 (5)–(8)
 
-457. § Az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény 64/C. § (1) bekezdésében a „biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény 231/B. §-ában” szövegrész helyébe a „biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény 447. §-ában” szöveg lép.
+#### 457–460. §
 
-458. § A távértékesítés keretében kötött pénzügyi ágazati szolgáltatási szerződésekről szóló 2005. évi XXV. törvény 2. § (1) bekezdés c) pontjában az „a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény (a továbbiakban: Bit.)” szövegrész helyébe az „a biztosítási tevékenységről szóló törvény” szöveg lép.
-
-459. § (1) A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény (a továbbiakban: Pmt.) 1. § (4) bekezdés b)–d) pontja helyébe a következő rendelkezések lépnek:
-
-[Nem tartozik e törvény hatálya alá]
-
-„b) a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvényben (a továbbiakban: Bit.) meghatározott ügynök és kiegészítő biztosításközvetítői tevékenységet folytató személy;
-
-c) a Bit.-ben meghatározott többes ügynök és alkusz a Bit. 1. melléklet A) része szerinti nem-életbiztosítási ágba tartozó szerződésekkel kapcsolatos tevékenysége során;
-
-d) a biztosító, amennyiben kizárólag a Bit. 1. melléklet A) része szerinti nem-életbiztosítási ágba tartozó tevékenység végzésére rendelkezik engedéllyel, továbbá a Bit. 1. melléklet A) része szerinti nem-életbiztosítási ágba tartozó és a 2. melléklete szerinti életbiztosítási ágba tartozó tevékenység egyidejű végzésére engedéllyel rendelkező biztosító a nem-életbiztosítási tevékenysége tekintetében;”
-
-(2) A Pmt. 11. § (3) bekezdésében, a 11/A. § (2) bekezdésében, a 13. § (1) bekezdés a) pontjában a „2. számú melléklete” szövegrész helyébe a „2. melléklete” szöveg lép.
-
-460. § A Bszt. 31. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-[A Felügyelet a befektetési szolgáltatási tevékenység végzésére jogosító engedélyt visszavonja, ha]
-
-„b) a hitelintézet tevékenység végzésére jogosító engedélyét, az alapkezelő Tpt. 229. § (1) bekezdése szerinti, tevékenység végzésére jogosító engedélyét, a biztosító tevékenység végzésére jogosító engedélyét visszavonta, kivéve a (3) bekezdésben foglalt esetet,”
-
-461. § (1) A Gfbt. 3. § 31. pontja helyébe a következő rendelkezés lép:
-
-[E törvény alkalmazásában:]
-
-„31. székhely szerinti tagállam: az a tagállam, ahol a kötelezettséget vállaló biztosító, biztosításközvetítő, valamint szaktanácsadó székhelye található;”
-
-(2) A Gfbt. 22. §-a a következő (9) bekezdéssel egészül ki:
-
-„(9) A Kártalanítási Számla kezelője a (7) bekezdésben meghatározottak szerint számított fedezetlenségi díj tarifájának a megállapítása során a 36. § (11)–(12) bekezdésben meghatározott esetre vonatkozóan méltányos mértékű külön tarifát állapít meg.”
-
-(3) A Gfbt. 36. §-a a következő (11)–(12) bekezdéssel egészül ki:
-
-„(11) A Kártalanítási Számla kezelőjét a 33. §-ban és a (8) bekezdés a) pontjában meghatározott jogosultság – a (12) bekezdésben meghatározott időtartamban és feltételek szerint – nem illeti meg az olyan kötelező gépjármű-felelősségbiztosítási szerződés vonatkozásában, amely azért szűnt meg, mert a biztosító ellen felszámolási eljárás indult.
-
-(12) A (11) bekezdésben meghatározott jogosultság azon káreseményből eredő követelés vonatkozásában nem illeti meg a Kártalanítási Számla kezelőjét, amely a felszámolás kezdő időpontjának napjától az azt követő hatvanadik nap végéig bekövetkezett. Azon felszámolás alatt álló biztosító esetén, amely Magyarország területén székhellyel vagy fiókteleppel nem rendelkezik és Magyarország területén határon átnyúló szolgáltatás keretében végezte a tevékenységét, a hatvannapos időtartam a felszámolásról szóló döntés Európai Közösségek Hivatalos Lapjában a 11. melléklet A) részében meghatározott nyomtatványban megjelölt döntés jogerőre emelkedésének a napján kezdődik.”
-
-(4) A Gfbt. 56/J. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A biztosítástechnikai tartalékok képzésére alkalmazni kell a biztosítók és a viszontbiztosítók szavatoló tőkéjéről és biztosítástechnikai tartalékairól szóló kormányrendeletben a számviteli biztosítástechnikai tartalékokra vonatkozó rendelkezéseket, azzal, hogy ahol e rendelet biztosítót említ, azon az elkülönített szervezeti egységet kell érteni.”
+461. § (1)–(4)
 
 (5)
 
-(6) A Gfbt.
+(6)
 
-- a) 3. § 3. pontjában a „biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvényben” szövegrész helyébe a „biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvényben”,
-- b) 26. § (3) bekezdésében a „hat hónapig” szövegrész helyébe az „egy évig”,
-- c) 56. § (4) bekezdésében a „Bit. 83. § (3) és (5) bekezdésében” szövegrész helyébe a „Bit. 53. § (4)–(5) bekezdésében és 54. §-ában”,
-- d) 56/B. § (6) bekezdés a) pontjában a „Bit. 86. § (1) bekezdés a)–d) pontjában” szövegrész helyébe a „Bit. 57. § (1) bekezdés a)–d) pontjában”,
-- e) 56/B. § (6) bekezdés b) pontjában a „Bit. 87. § (1) bekezdés a)–e) pontjában” szövegrész helyébe a „Bit. 59. § (1) bekezdés a)–e) pontjában”,
-- f) 56/B. § (6) bekezdés c) pontjában a „Bit. 88. § (1) bekezdés a)–e) pontjában” szövegrész helyébe a „Bit. 61. § (1) bekezdés a)–e) pontjában”,
-- g) 56/B. § (6) bekezdés d) pontjában a „Bit. 89. § (2) bekezdés a)–d) pontjában” szövegrész helyébe a „Bit. 63. § (2) bekezdés a)–d) pontjában”,
-- h) 56/B. § (7) bekezdésében a „Bit. 86. § (1) bekezdés b) pontjában, a Bit. 87. § (1) bekezdés c) pontjában, a Bit. 88. § (1) bekezdés c) pontjában és a Bit. 89. § (2) bekezdés b) pontjában” szövegrész helyébe a „Bit. 57. § (1) bekezdés b) pontjában, 59. § (1) bekezdés c) pontjában, 61. § (1) bekezdés c) pontjában és 63. § (2) bekezdés b) pontjában”,
-- i) 56/F. §-ában a „Bit. 143. §-ában meghatározott eszköznyilvántartás” szövegrész helyébe a „Bit. 6. mellékletében meghatározott csoportosítás szerinti külön eszköznyilvántartás”,
-- j) 56/I. § (9) bekezdésében a „Bit. 78. §-ában” szövegrész helyébe a „Bit. 212. §-ában”,
-- k) 56/K. § (2) bekezdésében a „Bit. 132. § (2) és (3) bekezdését, 134–140. §-át és 142. §-át” szövegrész helyébe a „Bit. 220. § (2)–(4) bekezdését, 222–227. §-át és 229. §-át”,
-- l) 56/L. § (1) bekezdésében a „Bit. 134. §-ában foglalt csoportosítás” szövegrész helyébe a „Bit. 6. mellékletében meghatározott csoportosítás”,
-- m) 57/C. § (1) bekezdés b) pontjában a „Bit. 157. § (1), (5), (6) bekezdése és 157/A. §-a alapján” szövegrész helyébe a „Bit. 138. § (1), (5), (6) bekezdése és 139. §-a alapján”,
-- n) 57/C. § (2) bekezdésben a „Bit. 160. § (1) és (2) bekezdésében” szövegrész helyébe a „Bit. 141. § (1) és (2) bekezdésében”,
-- o) 57/D. § (2) bekezdésében a „Bit. 167/B. § (1)–(7) bekezdésében és (9)–(15) bekezdésében” szövegrész helyébe a „Bit. 159. § (1)–(7) bekezdésében és (9)–(15) bekezdésében”
+#### 462–465. §
 
-szöveg lép.
-
-462. § A biztosítási adóról szóló 2012. évi CII. törvény
-
-- a) 1. § 1. pontjában a „biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény” szövegrész helyébe a „biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény”,
-- b) 1. § 4. pontjában az „1. számú melléklete” szövegrész helyébe az „1. melléklete”,
-- c) 1. § 5. pontjában az „1. számú melléklete” szövegrész helyébe az „1. melléklete”,
-- d) 1. § 6. pontjában az „1. számú melléklete” szövegrész helyébe az „1. melléklete”,
-- e) 2. §-ában a „Bit. 3. § (1) bekezdés 36. pont b) alpontja” szövegrész helyébe a „Bit. 4. § (1) bekezdés 62. pont b) alpontja”
-
-szöveg lép.
-
-463. § (1) Az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény 4. § (5) bekezdés 1. pont b) alpontjában a „biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény 167/C. §-a szerinti” szövegrész helyébe a „biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény 148. §-a szerinti” szöveg lép.
-
-(2) A magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény 1. számú melléklet 4. pontjában a „2003. évi LX. törvény a biztosítókról és biztosítási tevékenységről” szövegrész helyébe a „a biztosítási tevékenységről szóló törvény” szöveg lép.
-
-464. § Az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény 62. § j) pontjában a „biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény Nyolcadik rész III. fejezetében” szövegrész helyébe a „biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény XXV. fejezetében” szöveg lép.
-
-465. § (1) A Hpt. a következő 204/A. §-sal egészül ki:
-
-„204/A. § (1) A Felügyelet a közvetítői hatósági képzéssel és vizsgáztatással kapcsolatban nyilvántartást vezet a képző és vizsgáztató szervekről, a hatósági vizsgára jelentkező személyekről, a képző szerv által aláíró személyként megjelölt, a képzési igazolás kiállítására és aláírására feljogosított személyekről (a továbbiakban: aláíró személy), az oktatóról és a Felügyelet által kijelölt, a hatósági vizsga jogszabályban foglalt feltételeknek megfelelő lebonyolítását felügyelő személyekről.
-
-(2) A közvetítői tevékenység gyakorlását lehetővé tevő közvetítői hatósági vizsgának és az ahhoz szükséges képzésnek a pénzügyi szolgáltatás közvetítői hatósági képzés követelményrendszeréről és a hatósági vizsgáról szóló miniszteri rendeletben meghatározott feltételeknek megfelelő képzés és vizsga fogadható el.
-
-(3) A képző és vizsgáztató szervekről vezetett nyilvántartás tartalmazza:
-
-a) a szerv megnevezését, székhelyét, levelezési címét,
-
-b) a hatósági képzés helyszínének, a hatósági vizsga helyszínének címét,
-
-c) a nyilvántartási számot,
-
-d) az intézményi kódot,
-
-e) a nyilvántartásba vételről szóló döntés ügyiratszámát,
-
-f) az aláíró személy nevét és személyi kódját, és
-
-g) a nyilvántartásba vétel időpontját.
-
-(4) A Felügyelet a nyilvántartásba vételről szóló döntésben a képző és vizsgáztató szerv részére nyilvántartási számot és intézményi kódot állapít meg.
-
-(5) Ha a Felügyelet a szerv nyilvántartásból történő törléséről döntést hozott, a (3) bekezdésben foglalt adatok mellett, a törlés időpontját, a törlésről szóló döntés ügyiratszámát, a döntés tényét, okát és a döntés jogerőre emelkedésének időpontját is nyilvántartja.
-
-(6) A Felügyelet a hatósági képzés és vizsgáztatás hatósági ellenőrzésével, továbbá a hatósági képzésre történő jelentkezés lebonyolításával és a sikeres vizsgákat igazoló hatósági tanúsítvány kiadásával, pótlásával kapcsolatos feladatai ellátása érdekében nyilvántartást vezet
-
-a) az aláíró személyekről;
-
-b) az oktatóról;
-
-c) a hatósági vizsgára jelentkező személyekről; és
-
-d) a Felügyelet által kijelölt, a hatósági vizsga jogszabályban foglalt feltételeknek megfelelő lebonyolítását felügyelő személyekről (a továbbiakban: vizsgabiztos).
-
-(7) A Felügyelet által vezetett nyilvántartás tartalmazza a (6) bekezdésben meghatározott személyek vonatkozásában:
-
-a) a nevét és születési nevét;
-
-b) az anyja nevét;
-
-c) a születési helyét és idejét;
-
-d) a lakcímét;
-
-e) a személyi kódját; és
-
-f) vizsgabiztos esetén a nyilvántartási számát, a kijelölés visszavonásának a tényét és időpontját.
-
-(8) A Felügyelet a nyilvántartásba vételről szóló döntésben az (1) bekezdésben meghatározott személyek számára személyi kódot állapít meg.
-
-(9) Az e §-ban meghatározott nyilvántartással érintett személyes adatok tekintetében az adatkezelő a Felügyelet.
-
-(10) A hatósági képzés és vizsgáztatás során a Felügyelet jogosult ellenőrizni a hatósági képzést és vizsgáztatást végző, a hatósági képzésben és vizsgáztatásban részt vevő szervezeteket és személyeket.”
-
-(2) A Hpt. 7. § (3) bekezdés b) pontjában a „biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvényben (a továbbiakban: Bit.)” szövegrész helyébe a „biztosítási tevékenységről szóló törvényben” szöveg lép.
-
-466. § (1) Hatályát veszti:
-
-- a) a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény,
-- b) a viszontbiztosítókról szóló 2007. évi CLIX. törvény.
-
-(2) Hatályát veszti
-
-- a) az Öpt. 1. § (3) bekezdésében a „biztosítókról és a” szövegrész, továbbá a „2003. évi LX.” szövegrész,
-- b) a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény 2. § (3) bekezdésében a „biztosítókról és a” szövegrész, továbbá a „2003. évi LX.” szövegrész,
-- c) a Tpt. 1. számú melléklet 3. pontjában a „biztosítókról és a” szövegrész, továbbá a „2003. évi LX.” szövegrész,
-- d) a Bszt. 1. melléklet 3. pontjában a „biztosítókról és a” szövegrész, továbbá a „2003. évi LX.” szövegrész,
-- e) a központi hitelinformációs rendszerről szóló 2011. évi CXXII. törvény 2. § (1) bekezdés c) pontjában az „a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény 3. § (1) bekezdés 29. pontja és 5. § (6) bekezdés d) pontja szerinti jelzáloghitelezést és” szövegrész.
+466. § (1)–(2)
 
 (3)
 

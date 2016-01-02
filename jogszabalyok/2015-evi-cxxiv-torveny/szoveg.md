@@ -220,14 +220,4 @@ rendeletben határozza meg.
 
 (3) Ez a törvény – a végrehajtására kiadott jogszabályokkal együtt – a 2003/87/EK európai parlamenti és tanácsi irányelv értelmében a 600/2012/EU bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-18. § A mérésügyről szóló 1991. évi XLV. törvény 11. §-a helyébe a következő rendelkezés lép:
-
-„11. § A mérésügyi szerv az akkreditáló szervvel együttműködve – a nemzeti akkreditálásról szóló jogszabályok rendelkezéseivel összhangban – részt vesz a kalibráló és a vizsgáló laboratóriumok akkreditálásában.”
-
-19. § A polgári perrendtartásról szóló 1952. évi III. törvény 326. § (12) bekezdés k) pontja helyébe a következő rendelkezés lép:
-
-[Az illetékesség megállapításánál a (2) és (5) bekezdés szabályait kell alkalmazni a következő törvények alapján indult felülvizsgálati eljárásokban:]
-
-„k) a nemzeti akkreditálásról szóló törvény,”
-
-20. § Hatályát veszti a Nemzeti Akkreditáló Testület szervezetéről, feladat- és hatásköréről, valamint eljárásáról szóló 2005. évi LXXVIII. törvény.
+#### 18–20. §

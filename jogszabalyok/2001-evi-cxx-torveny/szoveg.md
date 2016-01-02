@@ -1447,6 +1447,8 @@ a vételi ajánlat, illetve az önkéntes vételi ajánlat lezárását követő
 
 (7) A Felügyelet az (1) bekezdés szerinti tájékozódási lehetőséghez kapcsolódó ügyfélszolgálati feladatok ellátását a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalán keresztül biztosítja. A Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala az általa nyújtott szolgáltatás során a számlavezető és a számlatulajdonos adatait – ideértve az értékpapírszámla és ügyfélszámla egyenlegét és egyéb adatait, valamint a számlatulajdonos részére képzett belépési azonosítót és jelszót – nem kezelheti.
 
+(8) E § rendelkezéseit a központi értéktárnak a 909/2014/EU rendelet mellékletének A szakasza szerint végzett tevékenysége tekintetében nem kell alkalmazni.
+
 143. § (1) Az értékpapír-számla feletti rendelkezésre a számla tulajdonosa, illetve az a személy jogosult, akit erre a számla tulajdonosa meghatalmazott. A számlavezető felé a meghatalmazás csak akkor hatályos, ha azt vele az üzletszabályzatában meghatározott módon és tartalommal írásban közölték.
 
 (2) Az értékpapír-számlán nyilvántartott, közös tulajdonban álló értékpapír feletti rendelkezési jog együttesen vagy a tulajdonosok által választott és a számlavezetőnek bejelentett közös képviselő útján gyakorolható.
@@ -2264,7 +2266,7 @@ követelésére, valamint a felsoroltak külföldi megfelelőinek követeléseir
 
 (10) Az igazgatóság az Alappal kapcsolatos feladatainak végrehajtása során igénybe veheti az Országos Betétbiztosítási Alap szolgáltatásait.
 
-(11) Az Alap önálló munkaszervezettel nem rendelkezik, az operatív feladatokat elkülönítetten az Országos Betétbiztosítási Alap munkaszervezete látja el az Országos Betétbiztosítási Alap ügyvezető igazgató helyettesének irányításával.
+(11) Az Alap önálló munkaszervezettel nem rendelkezik, az operatív feladatokat elkülönítetten az Országos Betétbiztosítási Alap munkaszervezete látja el az Országos Betétbiztosítási Alap ügyvezető igazgató helyettesének irányítása mellett azzal, hogy az Alap az operatív feladatok ellátására az Országos Betétbiztosítási Alap munkavállalóival megbízási szerződést is köthet.
 
 ### Az igazgatóság feladata
 
@@ -3000,12 +3002,12 @@ foglaltakat.
 
 (3) Központi értéktári tevékenység végzésére jogosító engedélyt a Felügyelet a Magyarország területén székhellyel rendelkező legalább egymilliárd forint jegyzett tőkével rendelkező részvénytársaságnak adja meg.
 
-(4) Központi értéktár a 909/2014/EU rendelet C szakasza szerinti tevékenység végzésére szakosított hitelintézetként jogosult.
+(4) Központi értéktár a 909/2014/EU rendelet mellékletének C. szakasza szerinti tevékenység végzésére szakosított hitelintézetként jogosult.
 
 (5) A szakosított hitelintézetként működő központi értéktár
 
 - a) legalább kettőmilliárd forint induló tőkével működhet,
-- b) nem kaphat engedélyt a 909/2014/EU rendelet C szakasza szerinti tevékenységen kívül más pénzügyi, kiegészítő pénzügyi szolgáltatási tevékenység végzésére.
+- b) nem kaphat engedélyt a 909/2014/EU rendelet mellékletének C. szakasza szerinti tevékenységen kívül más pénzügyi, kiegészítő pénzügyi szolgáltatási tevékenység végzésére.
 
 335. § Központi értéktár szolgáltatást nyújthat
 
@@ -3028,9 +3030,9 @@ foglaltakat.
 - q) pénzforgalmi intézménynek és
 - r) elektronikuspénz-kibocsátó intézménynek.
 
-336. § (1) Központi értéktárnak a 909/2014/EU rendelet A szakasz 3. pontja szerinti értékpapír-kiegyenlítési rendszer működtetése keretében a 909/2014/EU rendelet 2. cikk (1) bekezdés 19. pontja szerinti résztvevő fél (a továbbiakban: résztvevő fél) számára biztosítania kell saját értékpapírjaik ügyfelek értékpapírjaitól történő elkülönítését.
+336. § (1) Központi értéktárnak a 909/2014/EU rendelet mellékletének A. szakasz 3. pontja szerinti értékpapír-kiegyenlítési rendszer működtetése keretében a 909/2014/EU rendelet 2. cikk (1) bekezdés 19. pontja szerinti résztvevő fél (a továbbiakban: résztvevő fél) számára biztosítania kell saját értékpapírjaik ügyfelek értékpapírjaitól történő elkülönítését.
 
-(2) Központi értéktárnak a 909/2014/EU rendelet A szakasz 3. pontja szerinti értékpapír-kiegyenlítési rendszer működtetése keretében olyan nyilvántartási és számlavezetési rendet kell kialakítania, amely a résztvevő fél számára lehetővé teszi annak biztosítását, hogy ügyfele kérelme esetén az ügyfél értékpapírjait a központi értéktár egyéni alszámlán különítse el, amely egyéni alszámla a résztvevő fél által bejelentett, az ügyfél tulajdonában lévő értékpapírok nyilvántartására szolgál.
+(2) Központi értéktárnak a 909/2014/EU rendelet mellékletének A. szakasz 3. pontja szerinti értékpapír-kiegyenlítési rendszer működtetése keretében olyan nyilvántartási és számlavezetési rendet kell kialakítania, amely a résztvevő fél számára lehetővé teszi annak biztosítását, hogy ügyfele kérelme esetén az ügyfél értékpapírjait a központi értéktár egyéni alszámlán különítse el, amely egyéni alszámla a résztvevő fél által bejelentett, az ügyfél tulajdonában lévő értékpapírok nyilvántartására szolgál.
 
 (3) A résztvevő félnek fel kell ajánlania az ügyfél számára a központi értéktárnál egyéni alszámlán történő elkülönítést, és tájékoztatnia kell a lehetőségekhez kapcsolódó költségekről és kockázatokról.
 
@@ -3178,14 +3180,14 @@ foglaltakat.
 
 359. §
 
-360. § (1) A tőzsde, a központi szerződő fél, a központi értéktár által megbízott könyvvizsgáló a felülvizsgálatának eredményéről a vizsgált intézménnyel egyidejűleg a Felügyeletet – írásban – haladéktalanul tájékoztatja, ha olyan tényeket állapított meg, amelynek alapján
+360. § (1) A szabályozott piacra bevezetett nyilvánosan forgalomba hozott értékpapír-kibocsátó, a tőzsde, a központi szerződő fél, a központi értéktár által megbízott könyvvizsgáló a felülvizsgálatának eredményéről a vizsgált intézménnyel egyidejűleg a Felügyeletet – írásban – haladéktalanul tájékoztatja, ha olyan tényeket állapított meg, amelynek alapján
 
-- a) korlátozott vagy elutasító könyvvizsgálói záradék, illetve a záradék megadásának elutasítása válhat szükségessé;
-- b) bűncselekmény elkövetésére vagy a tőzsde, a központi szerződő fél, illetve a központi értéktár belső szabályzatának súlyos megsértésére, illetve az előzőekben említettek súlyos veszélyére utaló körülményeket észlel;
-- c) e törvény vagy más jogszabályok, a tőzsde, a központi szerződő fél, illetve a központi értéktár szabályzataiban foglalt előírások súlyos megsértésére utaló körülményeket észlel;
-- d) a tőzsde, a központi szerződő fél, illetve a központi értéktár kötelezettségeinek teljesítését, a rábízott vagyoni értékek megőrzését nem látja biztosítottnak;
-- e) a tőzsde, a központi szerződő fél, illetve a központi értéktár belső ellenőrzési rendszereinek súlyos hiányosságait vagy elégtelenségét állapítja meg;
-- f) jelentős véleménykülönbség alakult ki közte és a tőzsde, a központi szerződő fél, illetve a központi értéktár vezetése között a tőzsde, a központi szerződő fél, illetve a központi értéktár fizetőképességét, jövedelmét, adatszolgáltatását vagy könyvvezetését érintő, a működés szempontjából lényeges kérdésekben.
+- a) korlátozott vagy elutasító könyvvizsgálói záradék, vagy a záradék megadásának elutasítása válhat szükségessé;
+- b) bűncselekmény elkövetésére vagy a szabályozott piacra bevezetett nyilvánosan forgalomba hozott értékpapír-kibocsátó, a tőzsde, a központi szerződő fél, a központi értéktár belső szabályzatának súlyos megsértésére, illetve az előzőekben említettek súlyos veszélyére utaló körülményeket észlel;
+- c) e törvény vagy más jogszabályok, a szabályozott piacra bevezetett nyilvánosan forgalomba hozott értékpapír-kibocsátó, a tőzsde, a központi szerződő fél, a központi értéktár szabályzataiban foglalt előírások súlyos megsértésére utaló körülményeket észlel;
+- d) a szabályozott piacra bevezetett nyilvánosan forgalomba hozott értékpapír-kibocsátó, a tőzsde, a központi szerződő fél vagy a központi értéktár kötelezettségeinek teljesítését, a rábízott vagyoni értékek megőrzését nem látja biztosítottnak;
+- e) a szabályozott piacra bevezetett nyilvánosan forgalomba hozott értékpapír-kibocsátó, a tőzsde, a központi szerződő fél, a központi értéktár belső ellenőrzési rendszereinek súlyos hiányosságait vagy elégtelenségét állapítja meg;
+- f) jelentős véleménykülönbség alakult ki közte és a szabályozott piacra bevezetett nyilvánosan forgalomba hozott értékpapír-kibocsátó, a tőzsde, a központi szerződő fél vagy a központi értéktár vezetése között a szabályozott piacra bevezetett nyilvánosan forgalomba hozott értékpapír-kibocsátó, a tőzsde, a központi szerződő fél vagy a központi értéktár fizetőképességét, jövedelmét, adatszolgáltatását vagy könyvvezetését érintő, a működés szempontjából lényeges kérdésekben.
 
 (2)
 
@@ -3590,13 +3592,13 @@ gyakorolt hatásának, veszélyességi fokának figyelembevételével választja
 
 400. § (1) A Felügyelet az alábbi intézkedéseket, szankciókat alkalmazhatja:
 
-- a) a kibocsátót, a felügyelete alá tartozó szervezetet, valamint ezek vezető állású személyét és alkalmazottját, a befolyásszerzőt az értékpapírok forgalomba hozatalára, a tájékoztatási kötelezettségének teljesítésére, a tőzsde által végzett tevékenységre, a központi szerződő fél által végzett tevékenységre, illetve a központi értéktár által végzett tevékenységre, valamint a nyilvánosan működő részvénytársaságban történő befolyásszerzésre vonatkozó jogszabályban, szabályzatban és az engedélyben meghatározott feltételek megsértése esetén figyelmezteti, illetve – ha szükséges – a feltételeknek való megfelelésre határidő kitűzésével felszólítja;
+- a) a kibocsátót, a felügyelete alá tartozó szervezetet, valamint ezek vezető állású személyét és alkalmazottját, a befolyásszerzőt az értékpapírok forgalomba hozatalára és előállítására, a tájékoztatási kötelezettségének teljesítésére, az auditbizottság létrehozására és működtetésére, a bennfentes információhoz hozzáférő személyekről vezetendő nyilvántartásra, a tőzsde által végzett tevékenységre, a központi szerződő fél által végzett tevékenységre, illetve a központi értéktár által végzett tevékenységre, valamint a nyilvánosan működő részvénytársaságban történő befolyásszerzésre vonatkozó jogszabályban, szabályzatban és az engedélyben meghatározott feltételek megsértése esetén figyelmezteti, illetve – ha szükséges – a feltételeknek való megfelelésre határidő kitűzésével felszólítja;
 - b) az engedély nélkül tőzsdei, a központi szerződő fél által végzett, illetve központi értéktári tevékenység folytatását megtilthatja;
 - c) a Felügyelet által kirendelt szakértő, illetve felügyeleti biztos közreműködésével kapcsolatban felmerült költségek megtérítésére kötelezhet;
 - d) a tőzsde, a központi szerződő fél, illetve a központi értéktár vezető állású személyének és könyvvizsgálójának felmentését, az alkalmazott felelősségre vonását kezdeményezheti;
 - e) kötelezheti a tőzsde, a központi szerződő fél, illetve a központi értéktár igazgatóságát rendkívüli közgyűlés összehívására, és arra kötelező napirend megtárgyalását írhatja elő;
 - f) a tőzsdét, a központi szerződő felet, a központi értéktárat határidő meghatározásával helyreállítási terv kidolgozására és a Felügyelethez történő benyújtására kötelezheti;
-- g) a kibocsátót, az ajánlattevőt, a nyilvánosan működő részvénytársaságban ötszázalékos vagy azt meghaladó befolyással rendelkező részvényest, a tőzsdét, a központi szerződő felet, illetve a központi értéktárat meghatározott tartalmú rendkívüli adatszolgáltatás teljesítésére kötelezheti;
+- g) a kibocsátót, az ajánlattevőt, a nyilvánosan működő részvénytársaságban ötszázalékos vagy azt meghaladó befolyással rendelkező szavazati jog birtokosát, a tőzsdét, a központi szerződő felet, illetve a központi értéktárat meghatározott tartalmú rendkívüli adatszolgáltatás teljesítésére kötelezheti;
 - h) a tőzsdei tevékenység folytatását részben vagy egészben meghatározott időre felfüggesztheti;
 - i) meghatározott időre felfüggesztheti a tőzsdei szekcióban történő kereskedést, illetve a teljes tőzsdei kereskedést, valamint előírhatja valamely tőzsdei termék terméklistáról történő törlését;
 - j) a tőzsde, a központi szerződő fél, a központi értéktár tevékenységi engedélyét visszavonhatja;
