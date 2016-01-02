@@ -53,7 +53,7 @@ egyes törvényeknek és törvényi rendelkezéseknek a jogrendszer túlszabály
 - 5.
 - 6.
 - 7.
-- 8. egyes adótörvények módosításáról szóló 2008. évi VII. törvény,
+- 8.
 - 9.
 - 10.
 - 11.

@@ -891,7 +891,8 @@ jogerősen elítélte, és a büntetett előélethez fűződő hátrányos jogk�
 - d) a sugáregészségügyi készenléti szolgálat létesítését és fenntartását;
 - e) a sugársérültek vagy arra gyanús személyek egészségügyi ellátását;
 - f) a kötelező sugárorvostani továbbképzésben részesítendők körének meghatározását, a továbbképzés tartására kötelezett intézet kijelölését, a továbbképzés tematikája jóváhagyását;
-- g) a nukleáris veszélyhelyzetben való közreműködést a döntések sugáregészségügyi megalapozásában.
+- g) a nukleáris veszélyhelyzetben való közreműködést a döntések sugáregészségügyi megalapozásában;
+- h) az egészségügyi szolgáltatások nyújtása során ionizáló sugárzásnak nem munkaköri kötelezettségük keretében kitett személyek egészsége védelmének felügyeletét.
 
 21. §
 
@@ -1302,7 +1303,8 @@ alkalmazásával kell megállapítani.
 - n) a sugáregészségügyi készenléti szolgálat létesítésének és fenntartásának szabályait;
 - o) a sugársérültek vagy arra gyanús személyek egészségügyi ellátásának szabályait;
 - p) a radioaktív hulladékok átmeneti tárolásának és végleges elhelyezésének sugáregészségügyi szabályait;
-- q) bányászati ügyekért felelős miniszterrel egyetértésben a bányászati és földtani környezettel kapcsolatos sugáregészségügyi előírásokat.
+- q) bányászati ügyekért felelős miniszterrel egyetértésben a bányászati és földtani környezettel kapcsolatos sugáregészségügyi előírásokat;
+- r) az egészségügyi szolgáltatások nyújtása során ionizáló sugárzásnak nem munkaköri kötelezettségük keretében kitett személyek egészsége védelmének szabályait.
 
 (3) Felhatalmazást kap a környezetvédelmért felelős miniszter, hogy rendeletben állapítsa meg a miniszterrel, a vízgazdálkodásért felelős miniszterrel, valamint az egészségügyért felelős miniszterrel egyetértésben
 
