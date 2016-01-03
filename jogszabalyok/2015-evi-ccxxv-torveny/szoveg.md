@@ -28,9 +28,7 @@ egyes közúti és vasúti közlekedéssel, valamint fogyasztóvédelemmel össz
 
 (2)
 
-(3) A Kkt. 21. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A bírságolással kapcsolatos eljárás lefolytatására a Kormány által rendeletben kijelölt hatóság jogosult. A hatóság az (1) bekezdés a)–g) pontjában meghatározott szabályszegés miatt hozott határozatát az ügyfél részére az előírás megszegését követő 70 napon belül, az (1) bekezdés h) pontjában meghatározott szabályszegés miatt hozott határozatát az előírás megszegését követő 180 napon belül kézbesíti. A (2) bekezdés szerinti közigazgatási bírságot kiszabó, elsőfokú határozat meghozatala informatikai eszközzel, automatizált módon történhet. Automatizált egyedi döntésen a kiadmányozásra jogosult aláírása és a hatóság bélyegzőlenyomata is informatikai eszközzel rögzíthető, ha az aláírás és a bélyegzőlenyomat hitelességét a hatáskör gyakorlója egyedi döntésével hitelesítette.”
+(3)
 
 8. § (1)
 

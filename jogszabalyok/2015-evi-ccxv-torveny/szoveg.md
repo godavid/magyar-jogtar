@@ -10,52 +10,15 @@ a pénzügyi közvetítőrendszer egyes szereplőit érintő törvények jogharm
 
 32–35. §
 
-36. § A Tpt. 142/A. §-a a következő (8) bekezdéssel egészül ki:
-
-„(8) E § rendelkezéseit a központi értéktárnak a 909/2014/EU rendelet mellékletének A szakasza szerint végzett tevékenysége tekintetében nem kell alkalmazni.”
-
-37. § A Tpt. 223. § (11) bekezdése helyébe a következő rendelkezés lép:
-
-„(11) Az Alap önálló munkaszervezettel nem rendelkezik, az operatív feladatokat elkülönítetten az Országos Betétbiztosítási Alap munkaszervezete látja el az Országos Betétbiztosítási Alap ügyvezető igazgató helyettesének irányítása mellett azzal, hogy az Alap az operatív feladatok ellátására az Országos Betétbiztosítási Alap munkavállalóival megbízási szerződést is köthet.”
-
-38. § A Tpt. 360. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A szabályozott piacra bevezetett nyilvánosan forgalomba hozott értékpapír-kibocsátó, a tőzsde, a központi szerződő fél, a központi értéktár által megbízott könyvvizsgáló a felülvizsgálatának eredményéről a vizsgált intézménnyel egyidejűleg a Felügyeletet – írásban – haladéktalanul tájékoztatja, ha olyan tényeket állapított meg, amelynek alapján
-
-a) korlátozott vagy elutasító könyvvizsgálói záradék, vagy a záradék megadásának elutasítása válhat szükségessé;
-
-b) bűncselekmény elkövetésére vagy a szabályozott piacra bevezetett nyilvánosan forgalomba hozott értékpapír-kibocsátó, a tőzsde, a központi szerződő fél, a központi értéktár belső szabályzatának súlyos megsértésére, illetve az előzőekben említettek súlyos veszélyére utaló körülményeket észlel;
-
-c) e törvény vagy más jogszabályok, a szabályozott piacra bevezetett nyilvánosan forgalomba hozott értékpapír-kibocsátó, a tőzsde, a központi szerződő fél, a központi értéktár szabályzataiban foglalt előírások súlyos megsértésére utaló körülményeket észlel;
-
-d) a szabályozott piacra bevezetett nyilvánosan forgalomba hozott értékpapír-kibocsátó, a tőzsde, a központi szerződő fél vagy a központi értéktár kötelezettségeinek teljesítését, a rábízott vagyoni értékek megőrzését nem látja biztosítottnak;
-
-e) a szabályozott piacra bevezetett nyilvánosan forgalomba hozott értékpapír-kibocsátó, a tőzsde, a központi szerződő fél, a központi értéktár belső ellenőrzési rendszereinek súlyos hiányosságait vagy elégtelenségét állapítja meg;
-
-f) jelentős véleménykülönbség alakult ki közte és a szabályozott piacra bevezetett nyilvánosan forgalomba hozott értékpapír-kibocsátó, a tőzsde, a központi szerződő fél vagy a központi értéktár vezetése között a szabályozott piacra bevezetett nyilvánosan forgalomba hozott értékpapír-kibocsátó, a tőzsde, a központi szerződő fél vagy a központi értéktár fizetőképességét, jövedelmét, adatszolgáltatását vagy könyvvezetését érintő, a működés szempontjából lényeges kérdésekben.”
+36. §
 
 39. §
 
-40. § (1) A Tpt. 400. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(A Felügyelet az alábbi intézkedéseket, szankciókat alkalmazhatja:)
-
-„a) a kibocsátót, a felügyelete alá tartozó szervezetet, valamint ezek vezető állású személyét és alkalmazottját, a befolyásszerzőt az értékpapírok forgalomba hozatalára és előállítására, a tájékoztatási kötelezettségének teljesítésére, az auditbizottság létrehozására és működtetésére, a bennfentes információhoz hozzáférő személyekről vezetendő nyilvántartásra, a tőzsde által végzett tevékenységre, a központi szerződő fél által végzett tevékenységre, illetve a központi értéktár által végzett tevékenységre, valamint a nyilvánosan működő részvénytársaságban történő befolyásszerzésre vonatkozó jogszabályban, szabályzatban és az engedélyben meghatározott feltételek megsértése esetén figyelmezteti, illetve – ha szükséges – a feltételeknek való megfelelésre határidő kitűzésével felszólítja;”
-
-(2) A Tpt. 400. § (1) bekezdés g) pontja helyébe a következő rendelkezés lép:
-
-(A Felügyelet az alábbi intézkedéseket, szankciókat alkalmazhatja:)
-
-„g) a kibocsátót, az ajánlattevőt, a nyilvánosan működő részvénytársaságban ötszázalékos vagy azt meghaladó befolyással rendelkező szavazati jog birtokosát, a tőzsdét, a központi szerződő felet, illetve a központi értéktárat meghatározott tartalmú rendkívüli adatszolgáltatás teljesítésére kötelezheti;”
+40. §
 
 41. § (1)
 
-(2) A Tpt.
-
-- a) 334. § (4) bekezdésében, valamint 334. § (5) bekezdés b) pontjában a „rendelet C. szakasza” szövegrész helyébe a „rendelet mellékletének C. szakasza” szöveg,
-- b) 336. § (1) bekezdésében, valamint 336. § (2) bekezdésében a „rendelet A. szakasz” szövegrész helyébe a „rendelet mellékletének A. szakasz” szöveg
-
-lép.
+(2)
 
 #### 3. A foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény módosítása
 
@@ -69,15 +32,7 @@ lép.
 
 55. §
 
-56. § A Bszt. 31. § (1) bekezdésének b) pontja helyébe a következő rendelkezés lép:
-
-(A Felügyelet a befektetési szolgáltatási tevékenység végzésére jogosító engedélyt visszavonja, ha)
-
-„b) a hitelintézet tevékenység végzésére jogosító engedélyét, a befektetési alapkezelő a Kbftv. 5. §-a szerinti tevékenység végzésére jogosító engedélyét, a biztosító tevékenység végzésére jogosító engedélyét visszavonta, kivéve a (3) bekezdésben foglalt esetet,”
-
-57. § A Bszt. 68. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A befektetési vállalkozás, amely a befektetési szolgáltatási tevékenysége keretében portfóliókezelési tevékenységet végez, az ügyfél számára havonta jelentést készít a tárgyhónap utolsó napjára vonatkozóan, és azt írásban vagy más tartós adathordozón az ügyfél rendelkezésére bocsátja a tárgyhónapot követő hónap 10. munkanapjáig.”
+56–57. §
 
 58–65. §
 
@@ -137,13 +92,7 @@ lép.
 
 138. §
 
-139. § (1) A Hpt. 204/A. § (8) bekezdése helyébe a következő rendelkezés lép:
-
-„(8) A Felügyelet a nyilvántartásba vételről szóló döntésben a (6) bekezdésben meghatározott személyek számára személyi kódot állapít meg.”
-
-(2) A Hpt. 204/A. §-a a következő (9a) bekezdéssel egészül ki:
-
-„(9a) A Felügyelet a (7) bekezdésben meghatározott adatokat az adott személlyel kapcsolatos utolsó adat keletkezését követő öt év elteltével törli a nyilvántartásból.”
+139. §
 
 140. §
 

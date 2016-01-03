@@ -28,35 +28,7 @@ az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együt
 
 #### 6. A biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény módosítása
 
-20. § A biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény (a továbbiakban: Bit.) 138. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) Nem jelenti a biztosítási titok sérelmét, ha a biztosító által az adóhatóság felé történő adatszolgáltatás az Aktv. 43/H. §-ában foglalt kötelezettség, valamint a FATCA-törvény alapján az Aktv. 43/B. és 43/C. §-ában foglalt kötelezettség teljesítésében merül ki.”
-
-21. § A Bit. 148. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A FATCA-törvény szerinti, e törvény hatálya alá tartozó Jelentő Magyar Pénzügyi Intézmény (a továbbiakban ezen alcím tekintetében: intézmény) az általa kezelt, FATCA-törvény szerinti Pénzügyi Számla vonatkozásában elvégzi a FATCA-törvény szerinti Számlatulajdonos és Jogalany (a továbbiakban ezen alcím tekintetében együtt: Számlatulajdonos) FATCA-törvényben foglalt Megállapodás 1. Melléklete szerinti illetőségének megállapítására irányuló vizsgálatot (a továbbiakban ezen alcím tekintetében: illetőségvizsgálat).”
-
-22. § A Bit. a következő 60/A. alcímmel egészül ki:
-
-„60/A. A Pénzügyi Számlákkal kapcsolatos adatszolgáltatás és átvilágítás alapján fennálló kötelezettségek
-
-148/A. § (1) Az Aktv. szerinti, e törvény hatálya alá tartozó Jelentő Magyar Pénzügyi Intézmény (ezen alcím alkalmazásában a továbbiakban: intézmény) az általa kezelt, az Aktv. 1. melléklet VIII/C. pontja szerinti Pénzügyi Számla vonatkozásában elvégzi az Aktv. szerinti Számlatulajdonos és Jogalany (ezen alcím alkalmazásában a továbbiakban együtt: Számlatulajdonos) illetőségének az Aktv. 1. melléklet II–VII. pontja szerinti megállapítására irányuló vizsgálatot (ezen alcím alkalmazásában a továbbiakban: illetőségvizsgálat).
-
-(2) Az intézmény a Számlatulajdonost az illetőségvizsgálat elvégzésével egyidejűleg az ügyfélfogadásra nyitva álló helyiségeiben kifüggesztett hirdetmény útján vagy – ha az lehetséges – elektronikus úton tájékoztatja
-
-a) az illetőségvizsgálat elvégzéséről,
-
-b) az Aktv. 43/H. §-a alapján az adóhatóság felé fennálló adatszolgáltatási kötelezettségéről.
-
-(3) Az Aktv. 43/H. §-a szerinti adatszolgáltatásról az intézmény a Számlatulajdonost az adatszolgáltatás teljesítésétől számított harminc napon belül írásban – ha az lehetséges elektronikus úton – tájékoztatja.”
-
-23. § A Bit. 453. §-a a következő 9. ponttal egészül ki:
-
-(Ez a törvény)
-
-„9. a 2011/16/EU tanácsi irányelvnek az adózás területére vonatkozó kötelező automatikus információcsere tekintetében történő módosításáról szóló 2014. december 9-i 2014/107/EU tanácsi irányelvnek”
-
-(való megfelelést szolgálja.)
+20–23. §
 
 ### III. Fejezet — EGYES TÖRVÉNYEKNEK A SZERENCSEJÁTÉK-SZERVEZÉSSEL ÖSSZEFÜGGŐ MÓDOSÍTÁSA
 

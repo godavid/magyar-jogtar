@@ -10,21 +10,13 @@ egyes energetikai tárgyú törvények módosításáról
 
 3–7. §
 
-8. § Az Atv. 20. §-a a következő h) ponttal egészül ki:
-
-(Az egészségügyért felelős miniszter jogszabályban meghatározott szerv útján látja el:)
-
-„h) az egészségügyi szolgáltatások nyújtása során ionizáló sugárzásnak nem munkaköri kötelezettségük keretében kitett személyek egészsége védelmének felügyeletét.”
+8. §
 
 9. §
 
 10. § (1)–(2)
 
-(3) Az Atv. 68. § (2) bekezdése a következő r) ponttal egészül ki:
-
-(Felhatalmazást kap az egészségügyért felelős miniszter, hogy rendeletben állapítsa meg:)
-
-„r) az egészségügyi szolgáltatások nyújtása során ionizáló sugárzásnak nem munkaköri kötelezettségük keretében kitett személyek egészsége védelmének szabályait.”
+(3)
 
 11–13. §
 
