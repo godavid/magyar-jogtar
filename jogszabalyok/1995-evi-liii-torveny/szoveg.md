@@ -322,11 +322,15 @@ vízkészleteket fokozott védelemben kell részesíteni.
 
 36. § A környezeti elemek védelmére, továbbá a környezetet veszélyeztető hatások elleni védelemre vonatkozó átfogó szakterületi szabályokat külön törvények, a törvényi szabályozást nem igénylő részletes szabályokat — az e törvényben foglaltak alapulvételével — a Kormány rendeletben állapítja meg.
 
+### Meteorológiai tevékenység
+
+36/A. § A meteorológiai tevékenység kiterjed a légkör és a levegő állapotával, jellemzőivel, az ott lezajló jelenségekkel összefüggő adatok gyűjtésére és rendszerezésére, valamint az időjárási, éghajlati és levegőkörnyezeti elemzések készítésére, meteorológiai termékek előállítására, szolgáltatására és közzétételére.
+
 ### III. Fejezet — A KÖRNYEZET VÉDELMÉT SZOLGÁLÓ
 
 ÁLLAMI TEVÉKENYSÉG
 
-### Az állam környezetvédelmi tevékenysége
+### Az állam környezetvédelmi és meteorológiai tevékenysége
 
 37. § (1) A környezet védelmének jogi szabályozását, a környezet védelmével összefüggő jogok és kötelezettségek megállapítását és megtartásuk ellenőrzését, a környezet védelmének tervezését és irányítását az állam és a helyi önkormányzat szervei látják el.
 
@@ -343,6 +347,15 @@ vízkészleteket fokozott védelemben kell részesíteni.
 - g) a környezet állapotának, mennyiségi és minőségi jellemzőinek feltárása, terhelhetősége és igénybevétele mértékének, továbbá elérendő állapotának (célállapot) meghatározása, figyelembe véve a népesség egészségi állapotának mutatóit is;
 - h) a környezetvédelem kutatási, műszaki-fejlesztési, nevelési-képzési és művelődési, tájékoztatási, valamint a környezetvédelmi termék- és technológia-minősítési feladatok meghatározása, és ellátásuk biztosítása;
 - i) a környezetvédelem gazdasági-pénzügyi alapjainak biztosítása.
+
+38/A. § A meteorológiai tevékenységgel összefüggő állami feladatok:
+
+- a) a környezet- és klímavédelemhez, árvíz- és belvízvédelemhez, az erdővédelemhez, valamint az élet- és vagyonbiztonság megóvásához szükséges meteorológiai adatok gyűjtése, információk szolgáltatása,
+- b) a honvédelmi és nemzetbiztonsági érdekek érvényesítéséhez szükséges meteorológiai adatok és információk biztosítása,
+- c) a meteorológiai veszélyjelzés készítése és közzététele,
+- d) a nemzeti hiteles meteorológiai adatokat szolgáltató, megfigyelő, távközlési és adatfeldolgozó alaprendszer, illetve a nemzeti meteorológiai adatbázis fenntartása, működtetése és fejlesztése,
+- e) a repülésmeteorológiai feladatok ellátása, valamint
+- f) Magyarország nemzetközi kötelezettségeiből fakadó meteorológiai tevékenység biztosítása.
 
 ### Az Országgyűlés környezetvédelmi tevékenysége
 
@@ -504,7 +517,7 @@ képviselői.
 
 #### 47. §
 
-48. § (1) A települési önkormányzat képviselő-testülete, illetve a fővárosi önkormányzat esetén a környezeti zajjal összefüggő szabályozás tekintetében a kerületi önkormányzat képviselő testülete, egyéb környezetvédelmi előírásokkal összefüggésben a fővárosi közgyűlés önkormányzati rendeletben – törvényben vagy kormányrendeletben meghatározott módon és mértékben – illetékességi területére a más jogszabályokban előírtaknál kizárólag nagyobb mértékben korlátozó környezetvédelmi előírásokat határozhat meg.
+48. § (1) A települési önkormányzat képviselő-testülete, illetve a fővárosi önkormányzat esetén a fővárosi közgyűlés önkormányzati rendeletben – törvényben vagy kormányrendeletben meghatározott módon és mértékben – illetékességi területére a más jogszabályokban előírtaknál kizárólag nagyobb mértékben korlátozó környezetvédelmi előírásokat határozhat meg.
 
 (2) A települési önkormányzat képviselőtestülete önkormányzati rendeletben más törvény hatálya alá nem tartozó egyes fás szárú növények védelme érdekében tulajdonjogot korlátozó előírásokat határozhat meg.
 
@@ -513,10 +526,20 @@ képviselői.
 (4) A települési önkormányzat képviselő-testületének hatáskörébe tartozik:
 
 - a) a füstködriadó terv,
-- b) a háztartási tevékenységgel okozott légszennyezésre vonatkozó egyes sajátos, valamint az avar és kerti hulladék égetésére vonatkozó szabályok rendelettel történő megállapítása, valamint
-- c) a légszennyezettség szempontjából ökológiailag sérülékeny területek kijelölésével kapcsolatos eljárásban való közreműködés.
+- b) a háztartási tevékenységgel okozott légszennyezésre vonatkozó egyes sajátos, valamint az avar és kerti hulladék égetésére vonatkozó szabályok rendelettel történő megállapítása,
+- c) a légszennyezettség szempontjából ökológiailag sérülékeny területek kijelölésével kapcsolatos eljárásban való közreműködés,
+- d) területek zajvédelmi szempontból fokozottan védetté nyilvánítása,
+- e) csendes övezet kijelölése, valamint
+- f) a helyi zajvédelmi szabályok megállapítása.
 
-(5) A (4) bekezdés a)–b) pontjában meghatározottak rendelettel történő megállapítása Budapesten a Fővárosi Közgyűlés hatáskörébe tartozik.
+(5) A (4) bekezdésben meghatározott feladatok végrehajtására a fővárosban
+
+- a) az a) és a b) pont tekintetében a fővárosi közgyűlés,
+- b) a d)–f) pont tekintetében
+  - ba) a fővárosi kerületi képviselő-testület,
+  - bb) a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi közgyűlés
+
+alkothat rendeletet.
 
 (6) A polgármester (főpolgármester) levegőtisztaságvédelmi feladatkörébe, illetőleg államigazgatási, hatósági hatáskörébe tartozik:
 
@@ -1444,7 +1467,7 @@ A KÖRNYEZETVÉDELEMBEN
 - 16. a környezeti értékelés tartalmi követelményeit és a környezeti vizsgálat lefolytatásának szabályait, valamint a környezet védelméért felelős szervek körét és feladatait, továbbá szabályozza a környezeti vizsgálat hatálya alá tartozó tervek és programok körét;
 - 17. a nyilvánosság környezeti információkhoz való hozzáférésének rendjét és a környezeti alapnyilvántartás rendjét;
 - 18. az előzetes vizsgálati eljárás és az előzetes konzultáció részletes szabályait;
-- 19. a környezetvédelmi, természetvédelmi, tájvédelmi szakértői tevékenység folytatásának részletes feltételeit, a szakértői szakterületeket és részszakterületeket, az e tevékenységre jogosító engedély kiadásának rendjét, a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket; 21. az egyéb eljárási költségnek minősülő laboratóriumi vizsgálati költségek, illetve egyéb műszeres vizsgálatok költségeinek, továbbá az eljárás során a tényállás tisztázása kapcsán felmerült személyi és dologi költségek mértékét és fizetésének részletes szabályait, 21a. a hatósági eljárás során felmerülő, a környezetvédelmi és természetvédelmi szakkérdés vizsgálatával kapcsolatos egyéb eljárási költségeket; 22. a környezetkárosodás megelőzésének és elhárításának rendjét, 23. a zaj és rezgés elleni védelem szabályait; 24. a levegő védelmével kapcsolatos szabályokat; 25. a Program tervezésének, végrehajtásának és ellenőrzésének, valamint az ebben közreműködő szerv létrehozásának és működésének részletes szabályait; 26. az egyes sajátos szabályozást igénylő élő szervezetek, életközösségeik és élőhelyeik védelmére vonatkozó szabályokat; 27. a külön törvény hatálya alá nem tartozó fás szárú növények védelmével kapcsolatos részletes szabályokat; 28. a felszín alatti vizek védelmének szabályait; 29. a felszíni vizek minősége védelmének szabályait; 30. a vizek mezőgazdasági eredetű nitrátszennyezéssel szembeni védelmének szabályait; 31. a települési szennyvíztisztítás szempontjából érzékeny felszíni vizeket és vízgyűjtőterületüket; 32. a környezetre súlyos veszélyt jelentő anyagok és termékek minősítésének részletes szabályait; 33. az egybefoglalt környezethasználati engedély keretében kiadható engedélyeket és az egybefoglalt környezethasználati engedély szabályait; 34. azon környezethasználattal járó tevékenységeket, amelyek a környezetvédelmi hatóságnak történő bejelentést követően kezdhetők meg, illetve folytathatók, továbbá a bejelentés tartalmi elemeit, a bejelentéssel érintett tevékenységek ellenőrzésére vonatkozó eljárás szabályait, valamint az alkalmazható jogkövetkezményeket; 35. a hulladékból előállított tüzelőanyag égetésének részletes szabályait; 36. a szakértőként eljáró környezetvédelmi és természetvédelmi hatóság szakértői díját.
+- 19. a környezetvédelmi, természetvédelmi, tájvédelmi szakértői tevékenység folytatásának részletes feltételeit, a szakértői szakterületeket és részszakterületeket, az e tevékenységre jogosító engedély kiadásának rendjét, a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket; 21. az egyéb eljárási költségnek minősülő laboratóriumi vizsgálati költségek, illetve egyéb műszeres vizsgálatok költségeinek, továbbá az eljárás során a tényállás tisztázása kapcsán felmerült személyi és dologi költségek mértékét és fizetésének részletes szabályait, 21a. a hatósági eljárás során felmerülő, a környezetvédelmi és természetvédelmi szakkérdés vizsgálatával kapcsolatos egyéb eljárási költségeket; 22. a környezetkárosodás megelőzésének és elhárításának rendjét, 23. a zaj és rezgés elleni védelem szabályait; 24. a levegő védelmével kapcsolatos szabályokat; 25. a Program tervezésének, végrehajtásának és ellenőrzésének, valamint az ebben közreműködő szerv létrehozásának és működésének részletes szabályait; 26. az egyes sajátos szabályozást igénylő élő szervezetek, életközösségeik és élőhelyeik védelmére vonatkozó szabályokat; 27. a külön törvény hatálya alá nem tartozó fás szárú növények védelmével kapcsolatos részletes szabályokat; 28. a felszín alatti vizek védelmének szabályait; 29. a felszíni vizek minősége védelmének szabályait; 30. a vizek mezőgazdasági eredetű nitrátszennyezéssel szembeni védelmének szabályait; 31. a települési szennyvíztisztítás szempontjából érzékeny felszíni vizeket és vízgyűjtőterületüket; 32. a környezetre súlyos veszélyt jelentő anyagok és termékek minősítésének részletes szabályait; 33. az egybefoglalt környezethasználati engedély keretében kiadható engedélyeket és az egybefoglalt környezethasználati engedély szabályait; 34. azon környezethasználattal járó tevékenységeket, amelyek a környezetvédelmi hatóságnak történő bejelentést követően kezdhetők meg, illetve folytathatók, továbbá a bejelentés tartalmi elemeit, a bejelentéssel érintett tevékenységek ellenőrzésére vonatkozó eljárás szabályait, valamint az alkalmazható jogkövetkezményeket; 35. a hulladékból előállított tüzelőanyag égetésének részletes szabályait; 36. a szakértőként eljáró környezetvédelmi és természetvédelmi hatóság szakértői díját; 37. a meteorológiai tevékenységgel kapcsolatos részletes szabályokat; 38. a meteorológiai tevékenységgel összefüggő állami feladatokat ellátó szervek feladat- és hatáskörét.
 
 (8) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
 
@@ -1452,13 +1475,16 @@ A KÖRNYEZETVÉDELEMBEN
 - b) a hatósági nyilvántartás vezetésének részletes szabályait;
 - c) az elérhető legjobb technika alkalmazására vonatkozó szabályokat;
 - d) a környezetvédelmi megbízott alkalmazási és képesítési feltételeit;
-- e) a környezetvédelmi szempontból minősítendő anyagok, termékek, tevékenységek és technológiák minősítésének részletes szabályait, valamint a minősítő hatóságok és intézmények kijelölésének szabályait, a minősítés rendjét.
+- e) a környezetvédelmi szempontból minősítendő anyagok, termékek, tevékenységek és technológiák minősítésének részletes szabályait, valamint a minősítő hatóságok és intézmények kijelölésének szabályait, a minősítés rendjét;
+- f) a légszennyezettség szempontjából ökológiailag sérülékeny területek kijelölésével összefüggő szabályokat;
+- g) a légszennyező anyagok terjedésének vizsgálatával, a helyhez kötött légszennyező források kibocsátásának mérésével, vizsgálatával, ellenőrzésével és értékelésével, valamint a helyhez kötött légszennyező források üzemeltetésének levegőtisztaság-védelmi követelményeivel kapcsolatos szabályokat;
+- h) a légszennyezettség szempontjából ökológiailag sérülékeny területeket, valamint az ország területének a légszennyezettség alapján zónákba történő besorolását.
 
 (8a) Felhatalmazást kap a miniszter, hogy az egészségügyért felelős miniszterrel egyetértésben, rendeletben állapítsa meg
 
-- a) a légszennyezettség mérésével, vizsgálatával, ellenőrzésével és értékelésével, valamint annak mérésére szolgáló mérőhálózat telepítésével, üzemeltetésével és működésével, továbbá a légszennyezettség szempontjából ökológiailag sérülékeny területek kijelölésével összefüggő szabályokat;
-- b) a légszennyező anyagok terjedése, az időjárási tényezőknek a légszennyezettségre gyakorolt hatása, valamint a helyhez kötött légszennyező források kibocsátása mérésével, vizsgálatával, ellenőrzésével és értékelésével, valamint a helyhez kötött légszennyező források üzemeltetésének levegőtisztaság-védelmi követelményeivel kapcsolatos szabályokat;
-- c) a légszennyezettség szempontjából ökológiailag sérülékeny területek kijelölését, valamint az ország területének a légszennyezettség alapján zónákba történő besorolását.
+- a) a légszennyezettség mérésével, vizsgálatával, ellenőrzésével és értékelésével, valamint annak mérésére szolgáló mérőhálózat telepítésével, üzemeltetésével és működésével összefüggő szabályokat;
+- b) a légszennyező anyagok veszélyességi fokozatba sorolását.
+- c)
 
 (8b) Felhatalmazást kap a miniszter, hogy a vízvédelemért felelős miniszterrel egyetértésben, rendeletben állapítsa meg
 
@@ -1471,9 +1497,10 @@ A KÖRNYEZETVÉDELEMBEN
 
 (8e) Felhatalmazást kap a miniszter, hogy
 
-- a) a levegő és a zaj vonatkozásában az egészségügyért felelős miniszter egyetértésével kiadott,
-- b) a földtani közeg érintettsége esetén a vízvédelemért felelős miniszter egyetértésével kiadott,
-- c) az a) és b) pont alá nem tartozó esetekben önállóan kiadott rendeletben állapítsa meg a környezeti elemek – ide nem értve a vizeket – védelmére, a szennyező forrásokra, illetve a környezeti elemek terhelésének, szennyezettségének mérésére, ellenőrzésére, továbbá a környezetet veszélyeztető hatások elleni védelemre vonatkozó részletes szakmai szabályokat.
+- a) a földtani közeg érintettsége esetén a vízvédelemért felelős miniszter egyetértésével kiadott,
+- b) az a) pont és a (8a) bekezdés a) pontja alá nem tartozó esetekben
+
+rendeletben állapítsa meg a környezeti elemek – ide nem értve a vizeket – védelmére, a szennyező forrásokra, illetve a környezeti elemek terhelésének, szennyezettségének mérésére, ellenőrzésére, továbbá a környezetet veszélyeztető hatások elleni védelemre vonatkozó részletes szakmai szabályokat.
 
 (9) A közlekedésért felelős miniszter a mozgó légszennyező források légszennyezőanyag
 
@@ -1512,15 +1539,17 @@ kapcsolatos részletes szabályokat.
 - a) a külön jogszabály szerinti nitrátérzékeny területeket a MePAR szerinti blokkok szintjén közzétegye, valamint
 - b) a vizek mezőgazdasági eredetű nitrátszennyezéssel szembeni védelméhez szükséges cselekvési program részletes szabályait és az ezzel összefüggő adatszolgáltatás és nyilvántartás rendjét meghatározza.
 
-(15) Felhatalmazást kap a miniszter, hogy – a vizekre vonatkozó határértékek kivételével – az igénybevételi, kibocsátási és szennyezettségi határértékeket
+(15) Felhatalmazást kap a miniszter, hogy
 
-- a) levegő és zaj vonatkozásában az egészségügyért felelős miniszter egyetértésével kiadott,
-- b) földtani közeg vonatkozásában a vízvédelemért felelős miniszter egyetértésével kiadott,
-- c) az a) és b)pont alá nem tartozó esetekben önállóan kiadott rendeletben határozza meg.
+- a) a levegő, a környezeti zaj és környezeti rezgés vonatkozásában a szennyezettségi határértéket az egészségügyért felelős miniszter egyetértésével kiadott,
+- b) a földtani közeg vonatkozásában az igénybevételi, kibocsátási és szennyezettségi határértékeket a vízvédelemért felelős miniszter egyetértésével kiadott,
+- c) az a) és b) pont alá nem tartozó esetekben a határértéket – a vizekre vonatkozó határértékek kivételével –
+
+rendeletben határozza meg.
 
 (15a) Felhatalmazást kap a vízvédelemért felelős miniszter, hogy a miniszterrel, az egészségügyért felelős miniszterrel, valamint talajvédelem érintettsége esetén a földügyért felelős miniszterrel egyetértésben kiadott rendeletben határozza meg a vizekre vonatkozó igénybevételi, kibocsátási és szennyezettségi határértékeket.
 
-(16) Felhatalmazást kap a honvédelemért felelős miniszter, hogy rendeletben állapítsa meg a honvédelmi feladatokkal kapcsolatos sajátos környezethasználatokat, amelyek esetén környezetvédelmi megbízottat kell alkalmazni, továbbá a feladatok során alkalmazható környezetvédelmi eljárások, technológiák, anyagok, készletek fajtáját és mennyiségét.
+(16) Felhatalmazást kap a honvédelemért felelős miniszter, hogy rendeletben állapítsa meg a honvédelmi feladatokkal kapcsolatos sajátos környezethasználatokat, amelyek esetén környezetvédelmi megbízottat kell alkalmazni.
 
 110/A. § Felhatalmazást kap a Kormány, hogy rendeletben
 
@@ -1529,7 +1558,8 @@ kapcsolatos részletes szabályokat.
   - ab) a vízvédelmi hatóságot,
   - ac) a környezetvédelmi igazgatási szervet,
   - ad) a vízvédelmi igazgatási szervet,
-  - ae) a környezetvédelmi és természetvédelmi hatósági eljárásban szakértőként kirendelhető szerveket, továbbá
+  - ae) a környezetvédelmi és természetvédelmi hatósági eljárásban szakértőként kirendelhető szerveket,
+  - af) a meteorológiai tevékenységgel összefüggő állami feladatokat ellátó szerveket, továbbá
 - b) határozza meg
   - ba) a környezetvédelmi és vízvédelmi eljárások során vizsgálandó,
   - bb) a hatósági eljárásokban vizsgálandó környezetvédelmi és vízvédelmi

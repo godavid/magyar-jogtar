@@ -111,9 +111,7 @@ E törvény célja, hogy— megállapítsa a helyi önkormányzati feladat- és 
 
 - a)
 - b)
-- c) területek zajvédelmi szempontból fokozottan védetté nyilvánítása;
-- d) csendes övezet kialakításának elrendelése a zaj ellen fokozott védelmet igénylő létesítmény körül;
-- e) helyi zaj- és rezgésvédelmi szabályok megállapítása;
+- c)–e)
 - f)
 - g)
 - h)
