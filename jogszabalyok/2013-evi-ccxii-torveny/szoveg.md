@@ -365,11 +365,17 @@ kell érteni.
 
 (2) A haszonbért időszakonként utólag, de legkésőbb a naptári év végéig kell teljesíteni. Ha a hatósági jóváhagyáshoz nem kötött haszonbérleti szerződés a naptári év végét megelőzően 6 hónapon belül jött létre vagy a hatósági jóváhagyáshoz kötött haszonbérleti szerződést a mezőgazdasági igazgatási szerv a naptári év végét megelőző 90 napon belül hagyta jóvá, az első esedékes haszonbért a szerződés létrejöttét követő évre vonatkozó haszonbérrel együtt kell teljesíteni, kivéve, ha a felek más határidőben állapodnak meg.
 
-50/A. § (1) A haszonbérbe adó személyében bekövetkező változás esetén – ide nem értve a Ptk. szerinti hozzátartozók közötti ügyleteket – a haszonbérbe adó jogutódja a haszonbérbe adó személyében bekövetkező változást követő 90 napon belül és ezt követően pedig további három évenként – kivéve, ha a szerződés lejártáig három évnél kevesebb időtartam van hátra – az e §-ban foglaltak szerint kezdeményezheti a haszonbérleti szerződés módosítását a haszonbérnek a kezdeményezéskor irányadó piaci haszonbérleti díj összegére való emelése érdekében.
+50/A. § (1) A legalább 10 éves időtartamú haszonbérleti szerződés esetében a szerződő felek bármelyike az e §-ban foglaltak szerint a szerződéskötést követő 5 év elteltével – ha a haszonbérleti szerződés időtartama meghosszabbítás folytán éri el a 10 éves időtartamot, a meghosszabbítás időpontjától számított 5 év elteltével –, majd az első kezdeményezést követően 5 évente kezdeményezheti a haszonbérleti szerződés módosítását a haszonbérleti díjnak a kezdeményezéskor irányadó helyben szokásos piaci haszonbérleti díjra való módosítása érdekében, feltéve, hogy a haszonbérleti szerződés időtartamából legalább még 5 év van hátra.
 
-(2) Ha a haszonbérlő a haszonbérbe adó kezdeményezésével nem ért egyet, a kezdeményezés kézhezvételétől számított 30 napos jogvesztő határidőn belül a bíróságtól kérheti a piaci haszonbérleti díj meghatározását, ellenkező esetben a haszonbérleti díjat a kezdeményezésben megjelölt mértékben módosítottnak kell tekinteni.
+(2) A kezdeményezésben a piaci haszonbérleti díj mértékét igazságügyi szakértői vélemény alapján kell megállapítani. A haszonbérleti szerződés módosítására irányuló kezdeményezéshez csatolni kell az igazságügyi szakértői véleményt.
 
-(3) E § rendelkezéseitől a felek érvényesen nem térhetnek el.
+(3) Ha a kezdeményezésben megjelölt piaci haszonbérleti díj mértéke a haszonbérleti szerződés szerinti haszonbérleti díj mértékétől legalább 20%-kal tér el, az ellenérdekű fél a kezdeményezés kézhezvételétől számított 30 napos jogvesztő határidőn belül a haszonbérleti szerződést a gazdasági év végére felmondhatja.
+
+(4) Ha az ellenérdekű fél a kezdeményezéssel nem ért egyet, de a (3) bekezdésben foglaltak alkalmazására nincs mód, vagy azzal nem kíván élni, a kezdeményezés kézhezvételétől számított 30 napos jogvesztő határidőn belül a bíróságtól kérheti a piaci haszonbérleti díj meghatározását; ellenkező esetben a haszonbérleti díjat a kezdeményezésben megjelölt mértékben módosítottnak kell tekinteni.
+
+(5) Ha a bíróság által meghatározott haszonbérleti díj mértéke a korábbi haszonbérleti díj mértékétől legalább 20%-kal tér el, az ellenérdekű fél a bíróság határozatának jogerőre emelkedésétől számított 30 napos jogvesztő határidőn belül a haszonbérleti szerződést a gazdasági év végére felmondhatja.
+
+(6) A felek az (1) bekezdésben szereplő, első szerződésmódosítási kezdeményezésre előírt, továbbá az azt követő szerződésmódosítási kezdeményezések közötti időtartamot, valamint a szerződésmódosítási kezdeményezés feltételeként előírt, a szerződés időtartamából hátralevő időtartamot 5 évnél rövidebb időtartamban is megállapíthatják. E § rendelkezéseitől a felek egyebekben érvényesen nem térhetnek el.
 
 51. § Ha a haszonbérlő a haszonbérleti jogosultságot jogszabályban foglalt módon, támogatás feltételeként a haszonbérbeadó írásbeli hozzájárulásával az általa kijelölt földműves vagy mezőgazdasági termelőszervezet részére adja át, akkor a kijelölt földműves, illetve mezőgazdasági termelőszervezet a szerződésben a haszonbérlő helyébe lép és a haszonbérleti jogviszonyt változatlan feltételekkel folytatja.
 
@@ -1025,6 +1031,8 @@ rendeletben állapítsa meg.
 (2) Az olyan közös tulajdonban álló földrészletet érintően, amelynek a földhasználati nyilvántartás 2014. január 1-jei állapota szerint egy részét egy vagy több földhasználó használja, a X. Fejezetben foglalt rendelkezéseket a földrészletnek a bejegyzett földhasználattal nem érintett területére is alkalmazni kell.
 
 (3) A 2013. december 31-ig megkötött használati megosztásról szóló megállapodásokon alapuló földhasználati bejelentéseket a megállapodás létrejöttének időpontjában hatályos rendelkezések szerint kell elintézni.
+
+110/A. § A Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő átmeneti és felhatalmazó rendelkezésekről szóló 2013. évi CLXXVII. törvény és a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény módosításáról szóló 2015. évi CCXX. törvénnyel (a továbbiakban: Módtv.) megállapított 50/A. § rendelkezéseit arra az új haszonbérleti szerződésre is alkalmazni kell, amely a Módtv. hatálybalépése előtt megkötött – illetve akár a hatálybalépés előtt, akár azt követően meghosszabbított –, a Módtv. hatálybalépését követően a föld tulajdonjogának átruházása folytán a haszonbérbe adó tulajdonos személyében bekövetkezett változásra tekintettel szerződésátruházás miatt megszűnt haszonbérleti szerződés helyébe lépett. Ebben az esetben az 50/A. § szerinti első kezdeményezés joga tekintetében irányadó időtartamba a szerződésátruházással megszűnt szerződés eltelt időtartamát is be kell számítani.
 
 ### XIX. Fejezet — A FÖLDHASZNÁLATI SZERZŐDÉSEKRE VONATKOZÓ ÁTMENETI RENDELKEZÉSEK
 
