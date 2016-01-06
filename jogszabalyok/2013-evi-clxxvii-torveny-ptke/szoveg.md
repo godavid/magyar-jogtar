@@ -376,6 +376,14 @@ kell alkalmaznia [az a) és a b) pontban megjelölt időpont ezen alcím alkalma
 
 53/B. § Vállalkozások közötti szerződésből, illetve szerződő hatóságnak szerződő hatóságnak nem minősülő vállalkozással kötött szerződéséből eredő fizetési késedelem esetén a behajtási költségátalány megfizetésére – a Ptk. hatálybalépését megelőzően kötött szerződések tekintetében is – a Ptk. rendelkezéseit kell alkalmazni, így a kötelezett, illetve a szerződő hatóság a behajtási költségátalány megfizetésére nem köteles, ha az erre irányuló igény érvényesítése során a késedelmét kimenti.
 
+#### 22/C. Szerződésátruházás
+
+### [A Ptk. 6:211. §-ához]
+
+53/C. § (1) Ha a Ptk. hatálybalépése előtt kötött szerződésből származó valamennyi jog és kötelezettség Ptk. hatálybalépését követően jogszabály rendelkezése alapján száll át másra, úgy erre a Ptk. 6:211. §-át kell alkalmazni.
+
+(2) Az (1) bekezdés szerinti esetben a szerződésből kilépő és a szerződésben maradó fél tekintetében a szerződést megszűntnek, a szerződésbe belépő és a szerződésben maradó fél tekintetében pedig a szerződést az átszálló valamennyi jog és kötelezettség vonatkozásában a jogszabály rendelkezése alapján létrejött új szerződésnek kell tekinteni.
+
 #### 23. Felelősség szerződésen kívül okozott kárért
 
 ### (A Ptk. 6:518–6:564. §-ához)
