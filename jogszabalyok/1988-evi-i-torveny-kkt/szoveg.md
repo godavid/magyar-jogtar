@@ -195,8 +195,8 @@ alapvető jogai és kötelezettségei
 
 (2) A Fejlesztési Program 15 éves távlatban tartalmazza a beruházások útkategória besorolását és keresztmetszeti jellemzőit, a következő fejlesztési típusok figyelembevételével:
 
-- a) új gyorsforgalmi utak vagy főutak, ezek ütemezetten épített szakaszai, valamint csomópontjaik és a közúthálózatba illeszkedéshez szükséges mellékúti kapcsolatok építése,
-- b) meglévő mellékút főúttá, főút gyorsforgalmú úttá, autóút autópályává történő átépítése,
+- a) új autópályák, autóutak és gyorsutak (a továbbiakban együttesen: gyorsforgalmi utak) vagy főutak, ezek ütemezetten épített szakaszai, valamint csomópontjaik és a közúthálózatba illeszkedéshez szükséges mellékúti kapcsolatok építése,
+- b) meglévő mellékút főúttá, főút gyorsforgalmi úttá, gyorsút autóúttá vagy autópályává, autóút autópályává történő átépítése,
 - c) gyorsforgalmi út vagy főút szélesítése 4 vagy több forgalmi sávra legalább 5 km hosszban.
 
 (3) A (2) bekezdés a)–c) pontja szerinti további – az elfogadott Fejlesztési Programban nem szereplő – beruházás előkészítésének és megvalósításának feltétele a fejlesztési cél beépítése a Fejlesztési Programba. A Fejlesztési Program módosítása esetén az új program elkészítésére és elfogadására vonatkozó előírások szerint kell eljárni.
@@ -715,7 +715,7 @@ jogosult együtt vagy önállóan ellenőrizni. A közúti forgalomban közleked
 - b) a vasúti átjárón való áthaladásra,
 - c) a járműforgalom irányítására szolgáló fényjelző készülék jelzéseire,
 - d)
-- e) az autópálya leálló sávjának igénybevételére,
+- e) a gyorsforgalmi út leálló sávjának, leállóöblének igénybevételére,
 - f) a behajtási tilalomra, a korlátozott övezetre (zóna), a kötelező haladási irányra,
 - g) a természet védelmére,
 - h) a díjköteles útszakaszok használatáért fizetendő, megtett úttal arányos útdíjra
@@ -1507,7 +1507,7 @@ a közlekedési hatóság az útcsatlakozás tulajdonosát (kezelőjét) annak e
 
 42/A. § (1) A közút kezelőjének hozzájárulása szükséges
 
-- a) külterületen a közút tengelyétől számított ötven méteren, autópálya, autóút és főútvonal esetén száz méteren belül építmény elhelyezéséhez, bővítéséhez, rendeltetésének megváltoztatásához, nyomvonal jellegű építmény elhelyezéséhez, bővítéséhez, kő, kavics, agyag, homok és egyéb ásványi nyersanyag kitermeléséhez, valamint a közút területének határától számított tíz méter távolságon belül fa ültetéséhez vagy kivágásához, valamint
+- a) külterületen a közút tengelyétől számított ötven méteren, autópálya, autóút, gyorsút és főútvonal esetén száz méteren belül építmény elhelyezéséhez, bővítéséhez, rendeltetésének megváltoztatásához, nyomvonal jellegű építmény elhelyezéséhez, bővítéséhez, kő, kavics, agyag, homok és egyéb ásványi nyersanyag kitermeléséhez, valamint a közút területének határától számított tíz méter távolságon belül fa ültetéséhez vagy kivágásához, valamint
 - b) belterületen – a közút mellett – ipari, kereskedelmi, vendéglátó-ipari, továbbá egyéb szolgáltatási célú építmény építéséhez, bővítéséhez, rendeltetésének megváltoztatásához, valamint a helyi építési szabályzatban, vagy a szabályozási tervben szereplő közlekedési és közműterületen belül nyomvonal jellegű építmény elhelyezéséhez, bővítéséhez, továbbá a közút területének határától számított két méter távolságon belül fa ültetéséhez vagy kivágásához,
 - c) amennyiben az elhelyezendő létesítmény dőlési távolsága a közút határát keresztezi.
 
