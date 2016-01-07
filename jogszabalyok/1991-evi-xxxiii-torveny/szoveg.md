@@ -132,7 +132,7 @@ Az Országgyűlés a tulajdoni viszonyok átalakítása keretében, az önkormá
 
 (2) Ha a vonalas létesítmény több települést köt össze, illetőleg több településen halad át, azt annak az önkormányzatnak a tulajdonába kell adni, amely a vonalas létesítményt fenntartó, működtető tanácsi közüzem vagyonának tulajdonosa.
 
-(3) A főváros illetékességi területén az országos közutakat és műtárgyaikat, a közúti hidakat, az alul- és felüljárókat — az országos közúthálózatba tartozó autópálya, autóút szakaszok és műtárgyaik kivételével — a fővárosi önkormányzat tulajdonába kell adni. E rendelkezés a fővárosi önkormányzatok Öt. 107. §-ának (2) bekezdésén alapuló tulajdonszerzését nem érinti.
+(3) A főváros illetékességi területén az országos közutakat és műtárgyaikat, a közúti hidakat, az alul- és felüljárókat — az országos közúthálózatba tartozó autópálya, autóút, valamint gyorsúti szakaszok és műtárgyaik kivételével — a fővárosi önkormányzat tulajdonába kell adni. E rendelkezés a fővárosi önkormányzatok Öt. 107. §-ának (2) bekezdésén alapuló tulajdonszerzését nem érinti.
 
 ### Vizek, közcélú vízilétesítmények és víziközművek
 
