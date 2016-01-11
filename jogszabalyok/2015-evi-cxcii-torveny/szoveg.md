@@ -42,14 +42,30 @@ az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együt
 
 26–27. §
 
-28. §
+28. § Az Szjtv. „Játékkaszinó játékadója” alcíme helyébe a következő alcím lép:
+
+„Játékkaszinó és online kaszinó játékadója
+
+35. § (1) A játékkaszinó és online kaszinó – ideértve a játékkaszinóban üzemeltetett pénznyerő automatát is – játékadója, ha az adóév első napjától elért, göngyölített módon számított tiszta játékbevétel összege:
+
+0–10 milliárd forint 30 százalék,
+
+10 milliárd 1 forinttól 3 milliárd forint és a 10 milliárd forinton felüli rész 10 százaléka.
+
+(2) A tiszta játékbevételt növeli az adóév első napjától elfogadott borravaló 50%-a.
+
+(3) A szervező a játékadó tárgyhónapban fizetendő összegét a következők szerint állapítja meg: a szerencsejáték-szervező a (2) bekezdés figyelembevételével összesíti az adóév első napjától a tárgyhó utolsó napjáig elért tiszta játékbevételt, ezután az (1) bekezdésben foglaltak alapján megállapítja a játékadó tárgyhó utolsó napjáig terjedő időszakra számított adóévi összegét, ebből levonja a tárgyhót megelőző hónap utolsó napjáig terjedő tárgyadóévi időszakra, a koncessziós díj figyelembe vétele nélkül számított játékadó összegét, majd ezt követően levonja a tárgyév vonatkozásában fizetendő bruttó koncessziós díjnak a tárgyhónapra arányosan jutó összegét.
+
+(3a) Ha az online kaszinó(k) tiszta játékbevétele meghaladja a szervező által üzemeltetett játékkaszinó-egység(ek) összesített tiszta játékbevételét, a pozitív különbözetet az (1)–(3) bekezdéstől függetlenül, további 15% játékadó terheli. E bekezdés alkalmazásában a játékkaszinók tiszta játékbevételének számításakor a (2) bekezdést nem lehet alkalmazni.
+
+(4) A játékkaszinók és online kaszinók játékadójának 3%-át játékosvédelmi vagy karitatív célra kell fordítani. E rendelkezés alkalmazásában játékosvédelmi célnak minősül különösen a játékosok által ingyenesen, 0-24 óra között hívható telefonos ügyfélszolgálat (zöld szám) fenntartása, a játékosok részére a szociális ellátórendszer keretében elérhető közösségi ellátásokról szóló figyelemfelhívó, illetve folyamatos tájékoztatás biztosítása, valamint a szerencsejátékkal kapcsolatos, esetleges káros mentális, pszichikai vagy szociális hatások megelőzése, kezelése.”
 
 29. §
 
 30. § Az Szjtv.
 
 - a) –j
-- k)
+- k) 36/C. § (2) bekezdés e) pontjában a „II. kategóriájú játékkaszinó esetén 5 millió forint,” szövegrész helyébe a „II. kategóriájú játékkaszinó esetén 5 millió forint, online kaszinó üzemeltetése esetén 5 millió forint,” szöveg,
 - l)
 
 lép.
@@ -58,7 +74,13 @@ lép.
 
 #### 9. A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása
 
-32. §
+32. § A személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja-tv.) 76. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A nyeremény esetében – ha az nem tartozik a kamatjövedelemre vonatkozó rendelkezések hatálya alá – a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvényben (a továbbiakban: Szjtv.) meghatározott engedélyhez kötött sorsolásos játékból, az ajándéksorsolásból, a fogadásból, valamint az Szjtv. 29/Q. §-a szerinti külföldi jackpot rendszerből származó nyeremény (a továbbiakban együtt: adóköteles nyeremény) címén kapott bevétel egészét jövedelemnek kell tekinteni.”
+
+(2) Az Szja-tv. 76. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Nem számít jövedelemnek a jogszerűen szervezett, az Szjtv. 16. §-a alapján engedélyhez nem kötött sorsolásos játékból, a sorsjátékból, a játékkaszinóból, a bukmékeri rendszerű fogadásból, a lóversenyfogadásból, a bingójátékból, a kártyateremben szervezett kártyajátékból, a távszerencsejátékból valamint – az Szjtv. 29/Q. §-a szerinti külföldi jackpot rendszerből származó nyeremény kivételével – az online kaszinójátékból származó nyeremény.”
 
 #### 10. A kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény módosítása
 
