@@ -18,6 +18,7 @@ a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról
   - ac) születési helyét és idejét,
   - ad) anyjának születési családi és utónevét,
   - ae) lakcímét,
+  - af) személyi azonosítóját.
 - b) a gondnokság alá helyezésről, annak módosításáról, felülvizsgálatáról, megszüntetéséről jogerős határozatot hozó bíróság megnevezését és ügyszámát,
 - c) a gondnokság alá helyezés, annak módosítása, felülvizsgálata, megszüntetése tárgyában hozott határozat jogerőre emelkedésének napját,
 - d) a gondnokság cselekvőképességet korlátozó részleges vagy teljes jellegét,
@@ -37,20 +38,20 @@ a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról
 
 (2) A gondnokoltak nyilvántartásában az érintettre vonatkozóan szereplő alábbi adatokat a cselekvőképesség fennállásának vizsgálata céljából konkrét ügyben közvetlen hozzáféréssel jogosult megismerni és kezelni:
 
-- a) az ügyészség és a nyomozó hatóság a büntetőeljárás lefolytatása céljából, valamint a büntetés-végrehajtási szervezet és a rendőrség a fogvatartott gondnokának értesítése céljából a 3. § (1) bekezdés a)–f) pontjában szereplő adatokat,
-- b) a rendőrség a fegyverengedély-ügyi és a személy- és vagyonvédelmi, valamint magánnyomozói tevékenység végzésével összefüggő hatósági engedélyezési feladatok ellátása céljából a 3. § (1) bekezdés a)–f) pontjában szereplő adatokat,
-- c) az ügyészség a gondnokság alá helyezés, annak megszüntetése vagy módosítása, a választójogból való kizárás vagy a választójogból való kizárás megszüntetése iránti per megindításával kapcsolatos feladatai ellátása során a 3. § (1) bekezdésében szereplő adatokat,
-- d) a közjegyző polgári nemperes eljárás lefolytatása céljából a 3. § (1) bekezdés a)–e) pontjában szereplő adatokat,
-- e) az önálló bírósági végrehajtó a bírósági végrehajtási cselekmények ellátása során a 3. § (1) bekezdés a)–e) pontjában szereplő adatokat,
+- a) az ügyészség és a nyomozó hatóság a büntetőeljárás lefolytatása céljából, valamint a büntetés-végrehajtási szervezet és a rendőrség a fogvatartott gondnokának értesítése céljából a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–f) pontjában szereplő adatokat,
+- b) a rendőrség a fegyverengedély-ügyi és a személy- és vagyonvédelmi, valamint magánnyomozói tevékenység végzésével összefüggő hatósági engedélyezési feladatok ellátása céljából a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–f) pontjában szereplő adatokat,
+- c) az ügyészség a gondnokság alá helyezés, annak megszüntetése vagy módosítása, a választójogból való kizárás vagy a választójogból való kizárás megszüntetése iránti per megindításával kapcsolatos feladatai ellátása során a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–g) pontjában szereplő adatokat,
+- d) a közjegyző polgári nemperes eljárás lefolytatása céljából a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–e) pontjában szereplő adatokat,
+- e) az önálló bírósági végrehajtó a bírósági végrehajtási cselekmények ellátása során a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–e) pontjában szereplő adatokat,
 - f) a választójoggal nem rendelkező polgárok nyilvántartását vezető szerv a 3. § (1) bekezdés a), c) és g) pontjában szereplő adatokat,
 - g) a gyámhatóság
-  - ga) a gondnokok felügyeletével kapcsolatos feladata ellátása során a 3. § (1) bekezdés a)–e) és g) pontjában szereplő adatokat,
-  - gb) a gondnokság alá helyezési per megindítása, a gondnokság felülvizsgálata, a választójogból való kizárás vagy a választójogból való kizárás megszüntetése iránti per megindítása miatt a 3. § (1) bekezdésében szereplő adatokat,
+  - ga) a gondnokok felügyeletével kapcsolatos feladata ellátása során a 3. § (1) bekezdés a) pont aa–ae) alpontjában, b)–e) és g) pontjában szereplő adatokat,
+  - gb) a gondnokság alá helyezési per megindítása, a gondnokság felülvizsgálata, a választójogból való kizárás vagy a választójogból való kizárás megszüntetése iránti per megindítása miatt a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–g) pontjában szereplő adatokat,
 - h) az anyakönyvvezető
-  - ha) a házasságkötéssel kapcsolatos feladatai ellátása céljából a 3. § (1) bekezdés a)–d) pontjában szereplő adatokat,
-  - hb) a családi jogállás rendezésével kapcsolatos feladatai ellátása céljából a 3. § (1) bekezdés a)–e) pontjában szereplő adatokat,
-- i) a járási hivatal szervezeti egységeként működő okmányiroda a közúti közlekedési igazgatási, illetve a személyi okmány ügyintézési eljárásokban a 3. § (1) bekezdés a)–e) pontjában szereplő adatokat,
-- j) a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala az egyéni vállalkozói tevékenység ellenőrzésével kapcsolatos hatósági, a közúti közlekedési igazgatási, illetve a személyi okmány ügyintézési eljárásokban a 3. § (1) bekezdés a)–e) pontjában szereplő adatokat.
+  - ha) a házasságkötéssel kapcsolatos feladatai ellátása céljából a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–d) pontjában szereplő adatokat,
+  - hb) a családi jogállás rendezésével kapcsolatos feladatai ellátása céljából a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–e) pontjában szereplő adatokat,
+- i) a járási hivatal szervezeti egységeként működő okmányiroda a közúti közlekedési igazgatási, illetve a személyi okmány ügyintézési eljárásokban a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–e) pontjában szereplő adatokat,
+- j) a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala az egyéni vállalkozói tevékenység ellenőrzésével kapcsolatos hatósági, a közúti közlekedési igazgatási, illetve a személyi okmány ügyintézési eljárásokban a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–e) pontjában szereplő adatokat.
 
 7. § (1) A gondnokoltak nyilvántartásában szereplő, a 3. § (1) bekezdés c)–e) pontja szerinti adatokról írásbeli kérelemre az kaphat felvilágosítást, aki
 
@@ -75,6 +76,7 @@ a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról
   - ac) születési helyét és idejét,
   - ad) anyjának születési családi és utónevét,
   - ae) lakcímét,
+  - af) személyi azonosítóját.
 - b) az előzetes jognyilatkozatot (visszavonását, módosítását) bejegyző bíróság megnevezését és ügyszámát,
 - c) az előzetes jognyilatkozatot (visszavonását, módosítását) okiratba foglaló szerv (személy) megnevezését, székhelyét,
 - d) az előzetes jognyilatkozatot (visszavonását, módosítását) tartalmazó közokirat ügyszámát és keltét, az ügyvéd által ellenjegyzett magánokirat keltét,
@@ -84,7 +86,7 @@ a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról
 
 (2) Az (1) bekezdés b)–g) pontja szerinti adatokat az előzetes jognyilatkozatok nyilvántartása közhitelesen tartalmazza.
 
-11. § (1) A 10. § (1) bekezdés a)–d) pontja szerinti adatokat az előzetes jognyilatkozatot tett személy kérelmére a lakóhelye szerint illetékes járásbíróság jegyzi be az előzetes jognyilatkozatok nyilvántartásába. Belföldi lakóhely hiányában az illetékesség az előzetes jognyilatkozatot tett személy tartózkodási helyéhez igazodik; ha az előzetes jognyilatkozatot tett személy tartózkodási helye ismeretlen vagy külföldön van, az utolsó belföldi lakóhely, ennek hiányában az utolsó tartózkodási hely az irányadó.
+11. § (1) A 10. § (1) bekezdés a) pont aa–ae) alpontja és b)–d) pontja szerinti adatokat az előzetes jognyilatkozatot tett személy kérelmére a lakóhelye szerint illetékes járásbíróság jegyzi be az előzetes jognyilatkozatok nyilvántartásába. Belföldi lakóhely hiányában az illetékesség az előzetes jognyilatkozatot tett személy tartózkodási helyéhez igazodik; ha az előzetes jognyilatkozatot tett személy tartózkodási helye ismeretlen vagy külföldön van, az utolsó belföldi lakóhely, ennek hiányában az utolsó tartózkodási hely az irányadó.
 
 (2) Ha a bíróság a közokiratba vagy teljes bizonyító erejű magánokiratba foglalt előzetes jognyilatkozat érvénytelenségét jogerős ítélettel megállapítja, az első fokon eljárt bíróság az ítéletnek megfelelően törli vagy módosítja az előzetes jognyilatkozatok nyilvántartásában szereplő adatokat.
 
@@ -132,7 +134,7 @@ a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról
 
 18. § (1) A nyilvántartásokat elektronikusan kell vezetni. A nyilvántartások vezetésére és abból az adatszolgáltatás teljesítésére szolgáló informatikai alkalmazást a Hivatal elnöke működteti. A nyilvántartások vezetéséért és üzemeltetéséért a Hivatal elnöke felel.
 
-(2) A 6., 7. és 17. § szerinti adatszolgáltatás tekintetében a Hivatal elnöke az adatkezelő. A Hivatal elnöke adategyeztetés és az adatok változásának a nyilvántartásokban történő feltüntetése céljából az érintett személyre vonatkozó, 3. § (1) bekezdés a) pontja és 10. § (1) bekezdés a) pontja szerinti adatokat, illetve a halál tényére és időpontjára vonatkozó adatot igényel a személyiadat- és lakcímnyilvántartásból.
+(2) A 6–7. § és 17. § szerinti adatszolgáltatás tekintetében a Hivatal elnöke az adatkezelő. A Hivatal elnöke az adatok változásának a nyilvántartásokban történő feltüntetése céljából az érintett személyre vonatkozó, a 3. § (1) bekezdés a) pontja, valamint a 10. § (1) bekezdés a) pontja szerinti adatokat, illetve a halál tényére és időpontjára vonatkozó adatot automatikus adatátvétel útján átveszi a személyiadat- és lakcímnyilvántartásból.
 
 19. § (1) A nyilvántartásokba vett adatok megváltozása esetén a nyilvántartásba történő bejegyzésre vonatkozó szabályokat kell megfelelően alkalmazni.
 
