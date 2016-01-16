@@ -691,6 +691,8 @@ kivételével más építési munkát végezni nem szabad.
 
 (3) Ha a bejelentéstől számított tíz éven belül nem építették fel az (1) bekezdés szerinti épületet, az elkészült építményt le kell bontani.
 
+(4) A (2) bekezdés szerinti hatósági bizonyítványért az 1. mellékletben meghatározott igazgatási szolgáltatási díjat kell fizetni.
+
 ### Építésügyi hatósági eljárások
 
 34. § (1) Építési tevékenység megkezdéséhez és folytatásához jogszabályban meghatározott esetekben az építésügyi hatóság eljárásának lefolytatása szükséges. Az építésügyi hatóság jogosult az építési tevékenység jogszerűségének ellenőrzésére.
@@ -1550,3 +1552,17 @@ rendeletben állapítsa meg.
 ### Az Európai Unió jogának való megfelelés
 
 63. § Ez a törvény az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről szóló, 2004. április 29-i 2004/38/EK európai parlamenti és tanácsi irányelv 24. cikkének, az Európai Parlament és a Tanács a belső piaci szolgáltatásokról szóló 2006/123/EK irányelv (2006. december 12.) 9. és 16. cikkének való megfelelést szolgálja, továbbá az épületek energiahatékonyságáról szóló 2010/31/EU irányelv 2. cikk 12. pontjával, 18. és 27. cikkével összeegyeztethető szabályozást tartalmaz.
+
+### 1. melléklet az 1997. évi LXXVIII. törvényhez
+
+|  | A | B |
+| --- | --- | --- |
+| 1. | A bejelentéstől számított évek száma | Fizetendő igazgatási szolgáltatási díj |
+| 2. | 0–3 | díjmentes |
+| 3. | 3–4 | 200 000 forint |
+| 4. | 4–5 | 400 000 forint |
+| 5. | 5–6 | 600 000 forint |
+| 6. | 6–7 | 800 000 forint |
+| 7. | 7–8 | 1 000 000 forint |
+| 8. | 8–9 | 1 200 000 forint |
+| 9. | 9–10 | 1 400 000 forint |
