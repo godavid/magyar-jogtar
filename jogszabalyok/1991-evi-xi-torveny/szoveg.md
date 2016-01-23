@@ -340,7 +340,7 @@ vonatkozó jogszabályi rendelkezésekben foglaltakat megsértették, egészség
 
 (1a) Egészségügyi bírság kiszabásának van helye továbbá, ha az egészségügyi államigazgatási szerv megállapítja, hogy az előírt, felé teljesítendő bejelentési, adatszolgáltatási kötelezettségre, továbbá az előírt nyilvántartási kötelezettségre vonatkozó jogszabályi rendelkezéseket megsértették.
 
-(1b) Egészségügyi bírság kiszabásának van helye továbbá, ha az egészségügyi államigazgatási szerv által kiadott engedély előírásait az engedély jogosultja nem tartja be.
+(1b) Egészségügyi bírság kiszabásának van helye továbbá, ha az egészségügyi államigazgatási szerv által kiadott engedély előírásait az engedély jogosultja nem tartja be vagy engedélyköteles tevékenységet engedély nélkül folytat.
 
 (2) Egészségügyi bírság kiszabásának van helye abban az esetben is, ha az egészségügyi államigazgatási szerv egészségügyi és gyógyszerészeti igazgatási hatáskörében eljárva megállapítja, hogy
 

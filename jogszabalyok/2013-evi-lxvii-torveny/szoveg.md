@@ -91,7 +91,7 @@ Az országos közúthálózat üzemeltetése, fenntartása és fejlesztése, a f
 (2) Az útdíjköteles elemi útszakaszok használatához szükséges úthasználati jogosultság áll fenn
 
 - a) az úthasználat megkezdését megelőzően váltott viszonylati jegy alapján annak feltételei szerint, vagy
-- b) valamely útdíjszolgáltatóval az e törvény szerinti bevallások útdíjszedőhöz történő benyújtására és útdíj megfizetésére vonatkozó szerződés hatálya idején, ha bevallással összefüggő, e törvény felhatalmazása alapján kiadott rendeletben meghatározott kötelezettségének az úthasználó eleget tesz.
+- b) valamely útdíjszolgáltatóval az e törvény szerinti bevallások útdíjszedőhöz történő benyújtására és útdíj megfizetésére vonatkozó szerződés hatálya idején, ha bevallással és a díjfizetéssel összefüggő, e törvény felhatalmazása alapján kiadott rendeletben meghatározott kötelezettségének az úthasználó eleget tesz.
 
 (3) Nem alapozza meg az úthasználati jogosultságot, ha a fedélzeti eszközt az úthasználó nem az arra vonatkozó szabályoknak megfelelően használja, vagy olyan fedélzeti eszköz útján teljesít bevallást, amelyet a fedélzeti eszközt regisztráló útdíjszolgáltató az e törvény felhatalmazása alapján kiadott rendeletben meghatározott feltételek szerint érvénytelenítette.
 
@@ -207,11 +207,11 @@ feladatokat lát el.
 
 #### 8. Az útdíjfizetési kötelezettség teljesítésének ellenőrzése és elmulasztásának szankciója
 
-14. § Jogosulatlan úthasználatnak minősül – a 9. § szerinti mentesség eseteinek kivételével – , ha:
+14. § Jogosulatlan úthasználatnak minősül – a 9. § szerinti mentesség eseteinek kivételével –, ha:
 
-- a) az útdíjköteles elemi útszakasz használatának megkezdése előtt a díjfizetésre kötelezett elmulasztja viszonylati jegy megváltását az általa használt útdíjköteles elemi útszakaszra vonatkozóan és nincs hatályos, az útdíjszolgáltatóval kötött – az e törvény szerinti bevallások útdíjszedőhöz történő benyújtására és útdíj megfizetésére vonatkozó – szerződése,
+- a) az útdíjköteles elemi útszakasz használatának megkezdése előtt az adott útdíjköteles gépjármű vonatkozásában – a c) pontban foglaltakat ide nem értve – nem keletkezett úthasználati jogosultság a 6. § (2) bekezdésében foglaltak szerint,
 - b) a díjfizetésre kötelezett az útdíjköteles elemi útszakaszt a díj- vagy környezetvédelmi kategóriájánál alacsonyabb díj- vagy környezetvédelmi kategóriához tartozó bevallás alapján használja, vagy
-- c) az útdíjköteles elemi útszakasz használatára az érintett gépjármű vonatkozásában van hatályos, az útdíjszolgáltatóval kötött – az e törvény szerinti bevallások útdíjszedőhöz történő benyújtására és útdíj megfizetésére vonatkozó – szerződése, de a fedélzeti eszköz szabályszerű működtetésének az e törvény felhatalmazása alapján kiadott rendeletben meghatározott feltételek valamelyike nem teljesül az útdíjköteles elemi útszakaszok használata során, és az útdíjköteles elemi útszakasz használatának megkezdése előtt a díjfizetésre kötelezett elmulasztja viszonylati jegy megváltását az általa használt útdíjköteles elemi útszakaszra vonatkozóan.
+- c) az útdíjköteles elemi útszakasz használatára az érintett gépjármű vonatkozásában van hatályos, az útdíjszolgáltatóval kötött – az e törvény szerinti bevallások útdíjszedőhöz történő benyújtására és útdíj megfizetésére vonatkozó – szerződése, amelynek keretében az e törvény szerinti bevallási kötelezettségének teljesítése érdekében fedélzeti eszköz használatára jogosult, de a fedélzeti eszköz az úthasználat időpontjában szerepel az érvénytelenített fedélzeti eszközök nyilvántartásában, vagy annak egyéb módon nem biztosított a külön jogszabályban meghatározottak szerinti szabályszerű működtetése, és az útdíjköteles elemi útszakasz használatának megkezdése előtt egyéb módon nem keletkezett a 6. § (2) bekezdésben meghatározott úthasználati jogosultság.
 
 15. § (1) A bírság mértékét úgy kell megállapítani, hogy az az előírt díj megfizetésére ösztönözze a díjfizetésre kötelezetteket.
 

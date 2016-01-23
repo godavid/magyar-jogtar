@@ -898,7 +898,8 @@ esetén,
 - d) támogatásának nettó összegét,
 - e) közgyógyellátás jogcímén történő rendelhetőségét,
 - f) gyártója vagy forgalomba hozója által önként vállalt, az egyes tartós fogyasztási cikkekre vonatkozó kötelező jótállásról szóló rendeletben foglaltaknál kedvezőbb jótállási feltételeket, amennyiben azt a gyógyászati segédeszköz társadalombiztosítási támogatásba való befogadási eljárás során figyelembe vették,
-- g) forgalomba hozójának megnevezését.
+- g) forgalomba hozójának megnevezését,
+- h) vonatkozásában a támogatásvolumen-szerződés meglétének tényét.
 
 (8) A (6) bekezdés szerinti nyilvántartás a (7) bekezdésben foglaltakon túl tartalmazza a támogatott gyógyászati segédeszközök
 
