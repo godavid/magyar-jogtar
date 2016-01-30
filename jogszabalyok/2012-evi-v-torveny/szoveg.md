@@ -37,7 +37,7 @@ is megfelelően érteni kell.
 
 (4) A Kttv.-nek a Kormánytisztviselői Döntőbizottságra vonatkozó rendelkezéseit a 2012. július 1-jén és azt követően indított igényérvényesítések esetén kell alkalmazni.
 
-(5) A Kttv. 193. és 194. §-át a folyamatban lévő perekben is alkalmazni kell.
+(5)
 
 (6) E törvény hatálybalépésekor folyamatban lévő felmentések esetén a munkavégzési kötelezettség alóli mentesítés idejére a közszolgálati tisztviselő átlagkeresetére jogosult.
 
