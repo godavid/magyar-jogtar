@@ -89,7 +89,7 @@ Az öröklési ügyben érintettek igényei határon átnyúló érvényesítés
 
 13. §
 
-14. § Hatályát veszti a 10. § és a Véttvr. 3. §-a.
+14. §
 
 15–16. §
 
