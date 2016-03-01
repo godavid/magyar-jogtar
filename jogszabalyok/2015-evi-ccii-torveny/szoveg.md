@@ -8,19 +8,47 @@ a szabálysértésekről, a szabálysértési eljárásról és a szabálysért�
 
 39. § (1)–(2)
 
-(3)
+(3) A Szabs. tv. 141. §-a a következő (2d)–(2g) bekezdéssel egészül ki:
+
+„(2d) Ha a pénzbírság vagy a helyszíni bírság végrehajtására az általános szabálysértési hatóság rendelkezik feladat- és hatáskörrel, azok befizetésének ellenőrzésére az általános rendőrségi feladatokat ellátó szerv központi szerve is feladat- és hatáskörrel rendelkezik.
+
+(2e) A (2d) bekezdésben meghatározott feladat ellátása érdekében az általános szabálysértési hatóság elektronikus hozzáférést biztosít a beszedési számláinak kivonatához az általános rendőrségi feladatokat ellátó szerv központi szerve részére.
+
+(2f) Az általános szabálysértési hatóság az általános rendőrségi feladatokat ellátó szerv központi szerve részére a (2d) bekezdésben meghatározott feladat ellátása érdekében a 157. § (3a) bekezdése szerinti adatkörből rendelkezésére álló adatokat továbbítja. Az általános rendőrségi feladatokat ellátó szerv központi szerve a (2g) bekezdés szerinti feladatok ellátását követően ezeket az adatokat törli.
+
+(2g) Az általános rendőrségi feladatokat ellátó szerv központi szerve a (2d) bekezdésben meghatározott feladat ellátása során összeveti a feladatellátásával összefüggésben rendelkezésre álló adatokat, és az összevetés eredményeképpen elvégzi a 153. § (3) bekezdés h) pontja szerinti feladatokat.”
 
 40–43. §
 
 44. § (1)
 
-(2)
+(2) A Szabs. tv. 153. § (3) bekezdése a következő h) ponttal egészül ki:
+
+[A szabálysértést elkövetettek és a helyszíni bírságoltak nyilvántartásában a (2) bekezdésben meghatározott adatokat jogszabályban meghatározott formában és módon rögzíti]
+
+„h) a 141. § (2d) bekezdés szerinti esetben a (2) bekezdés f) pontja és a (2) bekezdés o) pont od) alpontja szerinti adatokat az általános rendőrségi feladatokat ellátó szerv központi szerve.”
 
 (3)
 
 45. § (1)–(4)
 
-(5)
+(5) A Szabs. tv. 157. §-a a következő (3a) bekezdéssel egészül ki:
+
+„(3a) Az általános rendőrségi feladatokat ellátó szerv központi szerve a 141. § (2d) bekezdésében meghatározott feladat- és hatáskörében közvetlen hozzáféréssel jogosult átvenni
+
+a) a személyazonosító adatok nyilvántartásából a 151. § (2) bekezdés aa), ab), ad), ae) és ah) pontjában szereplő, az érintett személyre vonatkozó,
+
+b) a szabálysértést elkövetettek és a helyszíni bírságoltak nyilvántartásából
+
+ba) a 153. § (2) bekezdés c) pontjából az eljárt szabálysértési hatóság megnevezésére, határozatának számára, a határozat jogerőre emelkedésének napjára vonatkozó,
+
+bb) a 153. § (2) bekezdés d) pontjában szereplő adatokból a pénzbírság összegére vonatkozó,
+
+bc) a 153. § (2) bekezdés f) pontjában szereplő,
+
+bd) a 153. § (2) bekezdés o) pontjából az oa)–od) alpontban szereplő
+
+adatokat.”
 
 46–54. §
 
