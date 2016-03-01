@@ -2003,6 +2003,14 @@ téríti meg.
 
 szerint illetékes.
 
+(2d) Ha a pénzbírság vagy a helyszíni bírság végrehajtására az általános szabálysértési hatóság rendelkezik feladat- és hatáskörrel, azok befizetésének ellenőrzésére az általános rendőrségi feladatokat ellátó szerv központi szerve is feladat- és hatáskörrel rendelkezik.
+
+(2e) A (2d) bekezdésben meghatározott feladat ellátása érdekében az általános szabálysértési hatóság elektronikus hozzáférést biztosít a beszedési számláinak kivonatához az általános rendőrségi feladatokat ellátó szerv központi szerve részére.
+
+(2f) Az általános szabálysértési hatóság az általános rendőrségi feladatokat ellátó szerv központi szerve részére a (2d) bekezdésben meghatározott feladat ellátása érdekében a 157. § (3a) bekezdése szerinti adatkörből rendelkezésére álló adatokat továbbítja. Az általános rendőrségi feladatokat ellátó szerv központi szerve a (2g) bekezdés szerinti feladatok ellátását követően ezeket az adatokat törli.
+
+(2g) Az általános rendőrségi feladatokat ellátó szerv központi szerve a (2d) bekezdésben meghatározott feladat ellátása során összeveti a feladatellátásával összefüggésben rendelkezésre álló adatokat, és az összevetés eredményeképpen elvégzi a 153. § (3) bekezdés h) pontja szerinti feladatokat.
+
 (3) A bíróság által kiszabott pénzbírság, szabálysértési költség, rendbírság befizetésének ellenőrzéséről és végrehajtásáról, a 39. § (2) bekezdés c)–i) pontjában meghatározottak által kiszabott helyszíni bírság végrehajtásáról az elkövető lakóhelye, tartózkodási helye, ennek hiányában az elkövetés helye szerint illetékes általános szabálysértési hatóság gondoskodik.
 
 (4) A bíróság az alkalmazott joghátrányokról, a jogerős határozat kiadmányának megküldésével értesíti a (3) bekezdésben meghatározott általános szabálysértési hatóságot.
@@ -2326,6 +2334,7 @@ vehető nyilvántartásba.
 - e) a (2) bekezdés l) pontja esetén – kivéve a (3a) bekezdésben foglaltakat – a büntetés-végrehajtási intézet, valamint a szabálysértési elzárás rendőrségi fogdán történő végrehajtása esetén az előkészítő eljárást lefolytató szerv,
 - f) a (2) bekezdés o) pontja esetén az a szerv vagy személy, amelyik vagy aki a helyszíni bírságot kiszabta,
 - g) a (2) bekezdés g), h) és m) pontja esetén az állami foglalkoztatási szerv.
+- h) a 141. § (2d) bekezdés szerinti esetben a (2) bekezdés f) pontja és a (2) bekezdés o) pont od) alpontja szerinti adatokat az általános rendőrségi feladatokat ellátó szerv központi szerve.
 
 (3a) A (2) bekezdés l) pontjában az elzárás felfüggesztésének tényére és a próbaidő tartamára vonatkozó adatot a szabálysértést elkövetettek és a helyszíni bírságoltak nyilvántartásában – jogszabályban meghatározott módon és formában – a bíróság rögzíti.
 
@@ -2462,6 +2471,17 @@ a sportról szóló törvényben meghatározott sportrendészeti nyilvántartás
 - c) a kitiltással érintett kereskedelmi létesítmény megnevezésére vagy egyéb helyszínére vonatkozó adatokat
 
 a kitiltással érintett kereskedelmi létesítmény, illetve kereskedelmi tevékenység helyéül szolgáló egyéb helyszín ellenőrzésére jogosult szerv részére átadhatja.
+
+(3a) Az általános rendőrségi feladatokat ellátó szerv központi szerve a 141. § (2d) bekezdésében meghatározott feladat- és hatáskörében közvetlen hozzáféréssel jogosult átvenni
+
+- a) a személyazonosító adatok nyilvántartásából a 151. § (2) bekezdés aa), ab), ad), ae) és ah) pontjában szereplő, az érintett személyre vonatkozó,
+- b) a szabálysértést elkövetettek és a helyszíni bírságoltak nyilvántartásából
+  - ba) a 153. § (2) bekezdés c) pontjából az eljárt szabálysértési hatóság megnevezésére, határozatának számára, a határozat jogerőre emelkedésének napjára vonatkozó,
+  - bb) a 153. § (2) bekezdés d) pontjában szereplő adatokból a pénzbírság összegére vonatkozó,
+  - bc) a 153. § (2) bekezdés f) pontjában szereplő,
+  - bd) a 153. § (2) bekezdés o) pontjából az oa)–od) alpontban szereplő
+
+adatokat.
 
 (4) Az (1)–(3) bekezdésben felsoroltakon kívül a szabálysértési nyilvántartásokból adatigénylésre jogosult az is, akit a hatáskörébe tartozó feladat ellátása érdekében törvény feljogosít a szabálysértési nyilvántartások adatainak megismerésére.
 
