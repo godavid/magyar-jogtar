@@ -89,11 +89,11 @@ elrendelt – cselekvőképességet kizáró gondnokság alá helyezésről szó
 
 ### (A Ptk. 3:1–3:48. §-ához, 3:63–3:87. §-ához és 3:378–3:404. §-ához)
 
-11. § (1) A Ptk. hatálybalépésekor nyilvántartásba bejegyzett, illetve a 9. § (1) bekezdése szerint bejegyzés alatt álló egyesület és alapítvány a Ptk. hatálybalépését követő első létesítő okirat módosítással egyidejűleg köteles a létesítő okiratának mindazon rendelkezését felülvizsgálni és szükség szerint módosítani, amelyek nem felelnek meg a Ptk. szabályainak. Egyesület esetében nem kell módosítani az alapszabályt abból az okból, hogy az tartalmazza az egyesület alapító tagjainak nevét, és azok lakóhelyét vagy székhelyét.
+11. § (1) A Ptk. hatálybalépésekor nyilvántartásba bejegyzett, illetve a 9. § (1) bekezdése szerint bejegyzés alatt álló egyesület és alapítvány 2017. március 15. napjáig köteles a létesítő okiratának mindazon rendelkezését felülvizsgálni és szükség szerint módosítani, amelyek nem felelnek meg a Ptk. szabályainak. Egyesület esetében nem kell módosítani az alapszabályt abból az okból, hogy az tartalmazza az egyesület alapító tagjainak nevét, és azok lakóhelyét vagy székhelyét.
 
 (2) Az egyesület és az alapítvány a létesítő okiratát a Ptk.-val összefüggésben nem köteles módosítani, ha az csak abból az okból volna szükséges, hogy abban olyan hivatkozások, utalások és elnevezések szerepelnek, amelyek a Ptk. és a létesítő okirat tartalmát érintő más törvény rendelkezéseinek már nem felelnek meg. Ha azonban a létesítő okirat egyéb okból módosul, a szervezet az ilyen változásokat is köteles azon átvezetni.
 
-(3) Az (1) bekezdés szerinti egyesület és alapítvány a létesítő okirata (1) bekezdés szerinti módosításának bírósági nyilvántartásba vételét, legkésőbb azonban 2016. március 15. napját követően csak a Ptk. rendelkezéseinek megfelelő létesítő okirat alapján és a Ptk. rendelkezéseinek megfelelően működhet.
+(3) Az (1) bekezdés szerinti egyesület és alapítvány a létesítő okirata (1) bekezdés szerinti módosításának bírósági nyilvántartásba vételét, legkésőbb azonban 2017. március 15. napját követően csak a Ptk. rendelkezéseinek megfelelő létesítő okirat alapján és a Ptk. rendelkezéseinek megfelelően működhet.
 
 (4) A létesítő okirat – a Ptk. rendelkezéseinek megfelelő – módosítását változásbejegyzési kérelemként kell benyújtani a bírósághoz.
 
@@ -114,7 +114,7 @@ kell alkalmaznia [az a) és a b) pontban megjelölt időpont ezen alcím alkalma
 
 (3) A létesítő okiratot a Ptk.-val összefüggésben nem kell módosítani, és erre vonatkozóan társasági határozatot sem kell csatolni, ha annak módosítása csak abból az okból volna szükséges, hogy a létesítő okirat – általános hivatkozásként – a Gt. rendelkezéseire utal. Közkereseti társaság és betéti társaság esetében nincs szükség továbbá a létesítő okirat módosítására kizárólag annak érdekében sem, hogy a létesítő okirat a társaság vezető tisztségviselőjét ügyvezetőként nevesítse. Ha azonban a létesítő okirat egyéb okból módosul, a társaság köteles az e bekezdésben foglalt változást is azon átvezetni.
 
-(4) Illeték és közzétételi költségtérítés megfizetése nélkül lehet a cégbírósághoz benyújtani változásbejegyzési kérelmet, feltéve hogy az ahhoz csatolandó létesítő okirat módosítása kizárólag a Ptk. rendelkezéseihez történő igazítás, illetve a Ptk. eltérést engedő szabályainak alkalmazása miatti módosításokat tartalmaz. Egyéb cégadatot is érintő változás esetén e bekezdés nem alkalmazható.
+(4) Illeték és közzétételi költségtérítés megfizetése nélkül lehet a cégbírósághoz benyújtani változásbejegyzési kérelmet, feltéve hogy az ahhoz csatolandó létesítő okirat módosítása kizárólag a Ptk. rendelkezéseihez történő igazítás, illetve a Ptk. eltérést engedő szabályainak alkalmazása miatti módosításokat tartalmaz. Ha a cég egyéb cégadatot érintő változást is bejelent, abban az esetben is csak az e cégadat módosítására vonatkozóan egyébként fizetendő illetéket és közzétételi költségtérítést kell fizetni.
 
 (5) Az (1)–(4) bekezdésben meghatározott rendelkezések irányadók azon cég esetében is, amelyre jogszabály a gazdasági társaságokra vonatkozó szabályok alkalmazását írja elő azzal, hogy e cégeknek – döntés hiányában – a Ptk.-t 2016. március 15-étől kell alkalmazniuk.
 
@@ -122,9 +122,9 @@ kell alkalmaznia [az a) és a b) pontban megjelölt időpont ezen alcím alkalma
 
 13. § (1) A Ptk. hatálybalépésekor bejegyzett, vagy a 9. § (1) bekezdése szerint bejegyzés alatt álló azon korlátolt felelősségű társaság esetén, amelynek jegyzett tőkéje nem éri el a hárommillió forintot, a 12. § rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.
 
-(2) Az (1) bekezdés szerinti korlátolt felelősségű társaság legkésőbb 2016. március 15-éig köteles a törzstőkéjét megemelni vagy átalakulni, egyesülni azzal, hogy a tőkeemelésről a Ptk. rendelkezéseinek alkalmazásával határozhat.
+(2) Az (1) bekezdés szerinti korlátolt felelősségű társaság legkésőbb 2017. március 15-éig köteles a törzstőkéjét megemelni vagy átalakulni, egyesülni azzal, hogy a tőkeemelésről a Ptk. rendelkezéseinek alkalmazásával határozhat.
 
-(3) A (2) bekezdés szerinti döntésig a társaságnak a Gt. rendelkezéseit kell alkalmaznia, a 12. § szerinti társasági szerződés módosításról nem határozhat.
+(3) A (2) bekezdés szerinti döntésig a társaságnak a Gt. rendelkezéseit kell alkalmaznia. A társaságnak a (2) bekezdés szerinti döntéssel egyidejűleg kell döntenie a Ptk. rendelkezéseivel összhangban álló továbbműködéséről.
 
 (4) E § rendelkezései megfelelően irányadóak azon cég esetében is, amelyre jogszabály a korlátolt felelősségű társaságokra vonatkozó rendelkezések alkalmazását írja elő.
 

@@ -189,7 +189,9 @@ fejében a jogosult által kapott ellenérték;
 - 44/a. általános képzés: olyan oktatást tartalmazó képzés, amely nem kizárólag vagy nem elsődlegesen a munkavállalónak a vállalkozásnál jelenleg betöltött vagy későbbiekben betöltendő állásában alkalmazható, hanem olyan képesítést ad, amely nagy mértékben hasznosítható más vállalkozásoknál vagy munkaterületeken;
 - 44/b. szakképzés: olyan oktatást tartalmazó képzés, amely közvetlenül és elsődlegesen a munkavállalónak a vállalkozásnál jelenleg betöltött vagy a jövőben betöltendő állásában alkalmazható, és olyan képesítést ad, amely nem vagy csak csekély mértékben hasznosítható más vállalkozásoknál vagy más munkaterületeken;
 - 45. termőföld: a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott mező-, erdőgazdasági hasznosítású föld;
-- 46. sportcélú ingatlan: az az ingatlan, ingatlanrész, amelynek alapvető, közvetlen és kizárólagos rendeltetése, hogy a sportról szóló törvényben meghatározott sporttevékenységre használják.
+- 46. sportcélú ingatlan: az az ingatlan, ingatlanrész, amelynek alapvető, közvetlen és kizárólagos rendeltetése, hogy a sportról szóló törvényben meghatározott sporttevékenységre használják;
+- 47. olimpiai pályázat: a sportról szóló 2004. évi I. törvény 77. § v) pontjában meghatározott olimpiai pályázat;
+- 48. olimpiai pályázat lebonyolításáért felelős nonprofit társaság: a sportról szóló 2004. évi I. törvény 77. § w) pontjában meghatározott zártkörűen működő nonprofit részvénytársaság.
 
 ## MÁSODIK RÉSZ — A TÁRSASÁGI ADÓ
 
@@ -1157,6 +1159,20 @@ a támogatás adóévében megfizetni.
 
 (10) Az e § alapján folyó sportfejlesztési program jóváhagyására, valamint a támogatási igazolás kiállítására irányuló eljárás tekintetében a támogatás igénybevételére jogosult szervezet a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény elektronikus kapcsolattartásra vonatkozó rendelkezései alapján elektronikus úton tart kapcsolatot a sportfejlesztési program jóváhagyását, valamint a támogatási igazolás kiállítását végző szervezettel.
 
+### Az olimpiai pályázat támogatásának adókedvezménye
+
+22/D. § (1) Az adózó az általa az adóévben az olimpiai pályázat lebonyolításáért felelős nonprofit gazdasági társaság részére az olimpiai pályázat lebonyolításával összefüggésben felmerülő költségek támogatására visszafizetési kötelezettség nélkül nyújtott támogatás, juttatás, véglegesen átadott pénzeszköz és térítés nélkül átadott eszköz könyv szerinti értéke, valamint a térítés nélkül nyújtott szolgáltatás bekerülési értéke alapján, legfeljebb a (2) bekezdés szerinti támogatási igazolásban szereplő összegig – döntése szerint – a támogatás adóéve és az azt követő adóévek adójából, de utoljára a támogatás naptári évét követő hatodik naptári évben lezáruló adóév adójából adókedvezményt vehet igénybe.
+
+(2) Az (1) bekezdés szerinti adókedvezmény az olimpiai pályázat lebonyolításáért felelős nonprofit gazdasági társaság által kiállított támogatási igazolás alapján vehető igénybe. A támogatási igazolás tartalmazza az adózó megnevezését, székhelyét, adószámát és az adókedvezményre jogosító támogatás összegét.
+
+(3) Az (1) bekezdés szerinti adókedvezmény igénybevételének feltétele, hogy az adózó a támogatást a támogatásra jogosult olimpiai pályázat lebonyolításáért felelős nonprofit gazdasági társaság részére a támogatási szerződés megkötését követő 30 napon belül átutalja (teljesítse).
+
+(4) A támogatásra tekintettel az adózó az (1) bekezdés szerinti juttatás adóévének adóalapját a 3. számú melléklet A) rész 17. pontjában és a B) rész 9. pontjában foglaltak figyelembe vételével állapítja meg.
+
+(5) Az olimpiai pályázat lebonyolításáért felelős nonprofit gazdasági társaság támogatója a támogatás juttatásáért ellenszolgáltatásra nem jogosult.
+
+(6) Az adózó a támogatás teljesítését követő 8 napon belül bejelenti az állami adóhatóságnak a támogatási igazolás alapján érvényesíthető adókedvezmény összegét.
+
 ### Az adókedvezmények igénybevételének szabályai
 
 23. § (1)
@@ -1461,6 +1477,10 @@ a felajánlás fogadására jogosult szervezetnek átutalja, feltéve, hogy telj
 (16) E törvénynek az egyes törvényeknek a Nemzeti Adó- és Vámhivatal átalakításával, valamint a költségvetési tervezéssel és gazdálkodással kapcsolatos módosításáról szóló 2015. évi CXCI. törvénnyel megállapított 22/C. § (3d) bekezdését első alkalommal a 2015–2016-os támogatási időszakra 2016. január 1-jét követően benyújtott új sportfejlesztési programok támogatásával (juttatásával) összefüggésben kell alkalmazni.
 
 (17) Az adózó a 2015. adóévi társasági adóbevallás benyújtására nyitva álló határidő utolsó napjáig az adóhatósághoz benyújtott kérelme alapján mentesül e törvénynek az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvénnyel megállapított 22/C. § (3d) bekezdése szerinti, a támogatás, kiegészítő támogatás bejelentésére nyitva álló 8 napos határidő elmulasztásával összefüggő, az adózás rendjéről szóló törvény szerinti jogkövetkezmények és a 22/C. § szerinti adókedvezményre vonatkozó jogosultság elvesztése alól.
+
+(18) E törvénynek a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény, valamint a sportról szóló 2004. évi I. törvény módosításáról szóló 2016. évi II. törvény (a továbbiakban: Módtv2.) által megállapított 4. § 47. és 48. pontját, 22/D. §-át, 3. számú melléklet A) rész 17. pontját, és B) rész 9. pontját a Módtv2. hatálybalépését követően nyújtott támogatásra kell alkalmazni, függetlenül attól, hogy az adózó naptári évvel azonos, vagy attól eltérő üzleti évet alkalmaz.
+
+(19) Az olimpiai pályázat lebonyolításáért felelős nonprofit gazdasági társaság által a 22/D. § szerint kiállított támogatási igazolások 2016-ra és 2017-re vonatkozóan együttesen számított értéke nem haladhatja meg a 19 milliárd forintnak megfelelő értéket.
 
 29/B. § (1) A tőkepiac stabilitásának erősítése érdekében tett egyes kárrendezési intézkedésekről szóló 2015. évi CCXIV. törvény (a továbbiakban: Kárrendezési Törvény) alapján a Kárrendezési Alap részére a Kárrendezési Törvény 11. § (1) bekezdése alapján befizetést teljesítő adózó által az adóévben, a Kárrendezési Törvény 11. § (2) bekezdésére figyelemmel megállapított, befizetett összeg (továbbiakban e §-ban: befizetés) csökkenti az adózó által fizetendő társasági adót, a fizetendő pénzügyi szervezetek különadóját vagy a fizetendő hitelintézeti különadót, a fizetendő pénzügyi tranzakciós illetéket.
 
@@ -2045,6 +2065,8 @@ b) az adóalany nem igazolja, hogy az a) pont szerint nyilatkozat kiadását a r
 
 c) a reklámadó alanya a reklám-közzététel megrendelésének időpontjában nem szerepelt az állami adóhatóság honlapján az Rtv. 7/A. § szerint közzétett nyilvántartásban.
 
+17. a 22/D. §-ban meghatározott támogatás adóévi adózás előtti eredmény terhére elszámolt összegének 75 százaléka.
+
 B)
 
 A vállalkozási tevékenység érdekében felmerülőegyes költségek, ráfordítások
@@ -2067,7 +2089,7 @@ A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenys
 
 8. a biztosítás díja, ha a biztosított az adózóval munkaviszonyban vagy önkéntes jogviszonyban álló magánszemély, az adózó vezető tisztségviselője, tevékenységében személyesen közreműködő tagja, vagy az adózónál jogszabályban meghatározott tanulószerződés alapján gyakorlati képzésben résztvevő szakképző iskolai tanuló;
 
-9.
+9. a 22/D. §-ban meghatározott támogatás adóévi adózás előtti eredmény terhére elszámolt összegének 25 százaléka;
 
 10. a privatizációs lízingszerződés alapján a lízingbe vett társaságnál szervezési-vezetési szolgáltatás címen ráfordításként elszámolt összeg;
 
