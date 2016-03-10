@@ -1096,6 +1096,27 @@ első, második vagy harmadik helyezést ért el (a továbbiakban: érmes).
 
 (7) A MOB a (6) bekezdés alapján megismert személyes adatokat az életjáradék továbbfolyósítására irányuló eljárás jogerős befejezéséig kezelheti.
 
+### Az olimpiai pályázat adókedvezményének támogatási szabályai
+
+62/A. § (1) A Tao. 22/D. §-a szerinti támogató részére a Tao. 22/D. §-a szerinti adókedvezmény igénybevételének feltételét képező támogatási igazolást – a támogatóval kötött támogatási megállapodás alapján – az olimpiai pályázat lebonyolításáért felelős nonprofit gazdasági társaság állítja ki.
+
+(2) Az olimpiai pályázat lebonyolításáért felelős nonprofit gazdasági társaság az általa kiadott támogatási igazolásokról – a támogatási igazoláson szereplő adattartalommal, valamint a támogatások pénzügyi teljesülése tényének feltüntetésével – külön nyilvántartást vezet.
+
+(3) Az olimpiai pályázat lebonyolításáért felelős nonprofit gazdasági társaság a támogatási igazolás kiállítására akkor jogosult, ha
+
+- a) a (2) bekezdés szerinti nyilvántartás alapján megállapítható, hogy a támogatási igazolás kiállítása nem eredményezi a Tao. 29/A. § (19) bekezdésében meghatározott összeg túllépését, és
+- b) a Tao. 22/D. §-a szerinti támogató a támogatási megállapodás megkötése napján köztartozásmentes adózónak minősül.
+
+(4) A (3) bekezdésben foglalt feltételek teljesülése esetén az olimpiai pályázat lebonyolításáért felelős nonprofit gazdasági társaság a támogatási megállapodás megkötésétől számított tizenöt napon belül kiállítja a támogatási igazolást.
+
+(5) A támogatási igazolást az olimpiai pályázat lebonyolításáért felelős nonprofit gazdasági társaság 2 példányban állítja ki, amelyből egy példányt köteles a Tao. 22/D. §-a szerinti támogató részére átadni, továbbá gondoskodik egy példány megőrzéséről.
+
+(6) A támogatási igazolást az olimpiai pályázat lebonyolításáért felelős nonprofit gazdasági társaság visszavonja, ha a Tao. 22/D. §-a szerinti támogató a támogatási megállapodásban teljesítési napként meghatározott naptól számított harminc napon belül a támogatást nem teljesíti, és e tényről írásban értesíti az állami adóhatóságot.
+
+62/B. § Az olimpiai pályázat lebonyolításáért felelős nonprofit gazdasági társaságnak a 2017. december 31-ig fel nem használt támogatást a központi költségvetés számára kell visszautalnia 2018. január 31-ig az államháztartásért felelős miniszter által megjelölt számlára, amelyet a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 4. Egyéb költségvetési bevételek cím, 1. Vegyes bevételek alcímen belül önálló jogcímcsoporton kell elszámolni.
+
+62/C. § Az olimpiai pályázat lebonyolításáért felelős nonprofit gazdasági társaságnak a Tao. 22/D. §-a alapján nyújtott támogatására az államháztartásról szóló törvény költségvetési támogatás nyújtására vonatkozó rendelkezéseit nem kell alkalmazni.
+
 ### IX. Fejezet — SPORTLÉTESÍTMÉNYEK
 
 63. § (1) Új sportlétesítmény építése vagy meglévő korszerűsítése csak akkor engedélyezhető, ha az:
@@ -1481,7 +1502,9 @@ adatokat továbbítja.
 - r) versenyszabályzat: a versenyrendszer keretében folytatott sporttevékenységre és az ahhoz közvetlenül kapcsolódó szakmai tevékenységekre vonatkozó előírások rendszerbe foglalt összessége, amely a versenyrendszerben részt vevő sportolók, sportszervezetek, sportszakemberek általános és sportági kötelezettségein túlmenően tartalmazza a versenyrendszert működtető sportszövetség eljárásának szabályait is;
 - s) sportlétesítmény: sportrendezvény megrendezésének helyszínéül szolgáló építmény és terület.
 - t) utánpótlás-nevelés fejlesztését végző alapítvány: alapító okiratában meghatározott tartós közérdekű cél szerinti tevékenysége – elsősorban utánpótláskorú versenyzőkkel kapcsolatos – sporttevékenység elősegítése, feltételeinek biztosítása, felkészítő (edzéssel összefüggő) és versenyeztetési feladatok szervezése.
-- u) sportrendezvény: sportszervezet vagy sportszövetség által versenyrendszerben vagy azon kívül, résztvevők jelenlétében megtartott verseny, mérkőzés. A sportesemény sportrendezvénynek minősül.
+- u) sportrendezvény: sportszervezet vagy sportszövetség által versenyrendszerben vagy azon kívül, résztvevők jelenlétében megtartott verseny, mérkőzés. A sportesemény sportrendezvénynek minősül,
+- v) olimpiai pályázat: a 2024. évi XXXIII. Nyári Olimpiai és XVII. Paralimpiai Játékok budapesti rendezésére vonatkozó pályázat,
+- w) olimpiai pályázat lebonyolításáért felelős nonprofit gazdasági társaság: Budapest Főváros Önkormányzata és a Magyar Olimpiai Bizottság közös és kizárólagos tulajdonában álló, az olimpiai pályázat lebonyolításáért felelős zártkörűen működő nonprofit részvénytársaság.
 
 ### Hatályba léptető és átmeneti rendelkezések
 
