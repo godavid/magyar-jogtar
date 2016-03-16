@@ -14,12 +14,10 @@ egyes tőkepiaci és biztosítási tárgyú törvények módosításáról
 
 6–10. §
 
-11. § A Tpt.
+11. §
 
-- a) 52. § (4) bekezdésében a „részvény vagy kötvény kibocsátójára” szövegrész helyébe a „kötvény kibocsátójára” szöveg,
+- a)
 - b)–d)
-
-lép.
 
 12. §
 
