@@ -60,17 +60,67 @@ a pénzügyi közvetítőrendszer egyes szereplőit érintő törvények jogharm
 
 94–95. §
 
-96. §
+96. § (1) Az MNBtv. 53. § (1) és (1a) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az MNB a hatósági eljárásban hozott döntéseivel kapcsolatban a honlapján közzéteszi
+
+a) a határozat számát és tárgyát,
+
+b) a hatósági eljárásban érintett – nem természetes személy – ügyfél nevét és székhelyét,
+
+c) a döntés rendelkező részét, ide nem értve jogerős döntés esetén a jogorvoslatról szóló tájékoztatást,
+
+d) a döntése ellen indított jogorvoslati eljárás tényét,
+
+e) a döntése elleni jogorvoslati eljárás során hozott jogerős ítélet rendelkező részét.
+
+(1a) Az (1) bekezdésben meghatározottakat meghaladóan az MNB a Hpt. 185. § és 189–192. §, a Tpt. 400. § (1) bekezdés o) pont 2. alpont, a Tpt. 400. § (1) bekezdés w) pont, a Bszt. 164. §, és a Kbftv. 174/A. § alapján hozott, (1) bekezdés szerint közzétett, jogerős határozatában megjelöli a jogsértő természetes személy nevét is.”
+
+(2) Az MNBtv. 53. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az MNB az e törvény vagy a Kbftv. alapján – az ÁÉKBV-alapkezelőre vagy az ÁÉKBV letétkezelőjére vonatkozóan – hozott intézkedésről, pénzbírságról szóló határozatát nem teszi közzé, ha a közzététel a pénzügyi közvetítőrendszer stabil, zavartalan működését veszélyeztetné.”
+
+(3) Az MNBtv. 53. § (4)–(6) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Az MNB anonim módon teszi közzé a Hpt.-ben, a Tpt.-ben, a Bszt.-ben és a Kbftv.-ben meghatározott intézkedésről vagy kivételes intézkedésről, valamint a pénzbírságról hozott határozatát, ha a nyilvánosságra hozatal
+
+a) aránytalan a természetes személy által elkövetett jogsértéshez képest,
+
+b) aránytalan hátrányt okoz a természetes és jogi személyekre nézve, vagy
+
+c) veszélyezteti valamely folyamatban lévő büntetőeljárás sikerességét.
+
+(5) Az MNB mérlegelése alapján a Hpt.-ben, a Tpt.-ben, a Bszt.-ben és a Kbftv.-ben meghatározott intézkedésről vagy kivételes intézkedésről, pénzbírságról hozott határozat közzététele legfeljebb 60 napra elhalasztható, ha a jogsértő magatartás várhatóan rövid időn (legfeljebb 60 napon) belül megszűnik, és a jogsértés nem veszélyezteti a jogi személy biztonságos működését, ügyfeleinek védelmét, valamint a pénzügyi közvetítőrendszer stabilitását.
+
+(6) Az MNB a Hpt.-ben, a Tpt.-ben, a Bszt.-ben és a Kbftv.-ben meghatározott intézkedésekről és kivételes intézkedésekről, pénzbírságról hozott határozatát legalább 5 évig és legfeljebb 10 évig elérhetővé teszi a honlapján.”
 
 97–99. §
 
 100. § (1)
 
-(2)
+(2) Az MNBtv. 76. §-a a következő (10) és (11) bekezdéssel egészül ki:
+
+„(10) A Kbftv. 174/A. § c) pontjában foglalt bírság mértéke:
+
+a) ÁÉKBV-alapkezelő és az ÁÉKBV letétkezelője esetében
+
+aa) legfeljebb 1 569 800 000 forint vagy a döntéshozó szerv által legutoljára jóváhagyott éves beszámoló szerinti éves árbevétel legfeljebb 10%-a azzal, hogy ha a vállalkozás anyavállalat vagy anyavállalat olyan leányvállalata, amelyik a számviteli jogszabályok alapján konszolidált beszámoló készítésére kötelezett, akkor a figyelembe veendő éves árbevétel a legutolsó, az anyavállalat döntéshozó szerve által jóváhagyott konszolidált beszámoló szerinti éves árbevétel vagy a számviteli jogszabályok szerinti, annak megfelelő bevétel vagy
+
+ab) a jogsértésből származó nyereség vagy az amiatt elkerült veszteség összegének legfeljebb kétszerese,
+
+b) természetes személy esetében
+
+ba) legfeljebb 1 569 800 000 forint vagy
+
+bb) a jogsértésből származó nyereség vagy az amiatt elkerült veszteség összegének legalább kétszerese.
+
+(11) A (10) bekezdésben foglalt összegek közül minden esetben a magasabb összeget kell alkalmazni.”
 
 101–106. §
 
-107. §
+107. § Az MNBtv. a következő 185/A. §-sal egészül ki:
+
+„185/A. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja: az Európai Parlament és a Tanács 2014. július 23-i 2014/91/EU irányelve az átruházható értékpapírokkal foglalkozó kollektív befektetési vállalkozásokra (ÁÉKBV) vonatkozó törvényi, rendeleti és közigazgatási rendelkezések összehangolásáról szóló 2009/65/EK irányelvnek a letétkezelői funkciók, a javadalmazási politikák és a szankciók tekintetében történő módosításáról.”
 
 108–109. §
 
@@ -121,15 +171,179 @@ a pénzügyi közvetítőrendszer egyes szereplőit érintő törvények jogharm
 
 #### 11. A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény módosítása
 
-154–159. §
+154. § A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény (a továbbiakban: Kbftv.) 4. § (1) bekezdés 68. pont a) pont aa) alpontja helyébe a következő rendelkezés lép:
+
+[E törvény és az e törvény felhatalmazása alapján kiadott jogszabályok alkalmazásában:
+
+68. letétkezelő:
+
+a) az ÁÉKBV vonatkozásában:]
+
+„aa) a Bszt. 5. § (2) bekezdés b) pontjában meghatározott letétkezelési szolgáltatásra vonatkozó engedéllyel rendelkező magyarországi székhelyű befektetési vállalkozás vagy hitelintézet, vagy e tevékenység végzésére jogosult más tagállamban székhellyel rendelkező befektetési vállalkozás vagy hitelintézet magyarországi fióktelepe,”
+
+155. § A Kbftv. a következő 10/A. alcímmel és 26/A. §-sal egészül ki:
+
+„10/A. Javadalmazás
+
+26/A. § Az ÁÉKBV-alapkezelő biztosítja a hatékony és eredményes kockázatkezeléssel összhangban álló, annak alkalmazását előmozdító, a 13. mellékletben meghatározott elveknek megfelelő javadalmazási politika és gyakorlat megvalósítását.”
+
+156. § A Kbftv. 62. §-a helyébe a következő rendelkezés lép:
+
+„62. § (1) Az ÁÉKBV-alapkezelő az általa kezelt 4. § (1) bekezdés 8. pont a) alpont szerinti ÁÉKBV letétkezelésével a 4. § (1) bekezdés 68. pont a) pont aa) alpontja szerinti, a 4. § (1) bekezdés 8. pont b) alpont szerinti ÁÉKBV letétkezelésével az adott ÁÉKBV székhely országában székhellyel vagy fiókteleppel rendelkező 4. § (1) bekezdés 68. pont a) pont ab) alpont szerinti letétkezelőt köteles megbízni. A letétkezelési szerződés és annak módosítása hatálybalépéséhez a Felügyelet jóváhagyása szükséges.
+
+(2) A letétkezelő megbízása írásbeli szerződéssel valósul meg. A szerződés többek között rendelkezik az e törvényben meghatározott, az ÁÉKBV számára a letétkezelő által letétkezelői hatáskörében elvégzendő funkciók ellátásához szükségesnek tartott információáramlásról.
+
+(3) A letétkezelői megbízás megszüntetése esetén a letétkezelői szerződés az új letétkezelő megbízásának hatálybalépésével szűnik meg.
+
+(4) Az ÁÉKBV tulajdonában lévő értékpapírok, pénzügyi eszközök kizárólag a letétkezelőnél vagy a letétkezelő közreműködőjénél, illetve a letétkezelő által vagy a letétkezelő közreműködője által nyitott, értékpapírok, illetve pénzügyi eszközök nyilvántartására szolgáló számlákon helyezhetők el, kivéve az óvadékba helyezett értékpapírokat. A fel nem használt óvadékot kizárólag a letétkezelőhöz lehet átadni vagy az általa nyitott számlán elhelyezni, transzferálni. A nem transzferálható eszközök (ideértve a származtatott ügyleteket, betéteket is) nyilvántartása érdekében az ÁÉKBV-alapkezelő vagy megbízása alapján a letétkezelő köteles az ÁÉKBV részére az ezen eszközöket nyilvántartó szervezetnél elkülönített számlát nyitni.
+
+(5) A letétkezelő gondoskodik az ÁÉKBV pénzmozgásainak megfelelő nyomon követéséről és arról, hogy az ÁÉKBV kollektív befektetési értékpapírjainak jegyzése során a befektetők által vagy nevükben történt befizetések beérkezzenek. A letétkezelő biztosítja, hogy az ÁÉKBV készpénzállománya a Bszt. 57. §-ában megállapított elvekkel összhangban, az ÁÉKBV nevére nyitott, a Bszt. 60. § (1) bekezdés a)–c) pontjában meghatározott intézménynél, vagy a 2006/73/EK irányelv 18. cikk (1) bekezdés a)–c) pontjában meghatározott intézménnyel megegyező természetű, az uniós joggal egyenértékű prudenciális szabályozás és felügyelet alá eső intézménynél vezetett számlán legyen könyvelve.
+
+(6) A letétkezelő tevékenysége során az ÁÉKBV megbízása alapján kizárólag a befektetők érdekében jár el.
+
+(7) Az ÁÉKBV részére végzett letétkezelés során a letétkezelő különösen az alábbi feladatokat végzi:
+
+a) ellátja a letétbe helyezett pénzügyi eszközök, illetve a pénzügyi eszközökből származó jog fennállását igazoló dokumentumok letéti őrzését és letétkezelését, valamint – az ÁÉKBV tulajdonakénti mindenkori egyértelmű azonosítás érdekében – vezeti az ÁÉKBV értékpapírjainak nyilvántartására szolgáló számlát, az értékpapírszámlát, a fizetési számlát, az ügyfélszámlát;
+
+b) a rendelkezésre bocsátott tájékoztatás vagy dokumentumok, illetve a rendelkezésre álló külső bizonyítékok alapján minden egyéb eszköz tekintetében meggyőződik arról, hogy a szóban forgó eszközök az ÁÉKBV tulajdonát képezik-e, és naprakész nyilvántartást vezet azokról az eszközökről, amelyek megállapítása szerint az ÁÉKBV tulajdonát képezik.
+
+(8) Az (5) és (7) bekezdésben említett feladatokon túlmenően a letétkezelő
+
+a) végrehajtja az ÁÉKBV-alapkezelőnek az ÁÉKBV pénzügyi eszközeire vonatkozó utasításait, kivéve, ha azok ellentétben állnak valamely jogszabály rendelkezésével vagy az ÁÉKBV kezelési szabályzatával;
+
+b) elvégzi az eszközök és kötelezettségek értékelését, és meghatározza az ÁÉKBV összesített és az egy kollektív befektetési értékpapírra jutó nettó eszközértékét;
+
+c) ellenőrzi, hogy az ÁÉKBV megfelel-e a jogszabályokban és a befektetési alap kezelési szabályzatában foglalt befektetési szabályoknak;
+
+d) ellenőrzi, hogy a kollektív befektetési értékpapírok értékesítése, visszaváltása vagy érvénytelenítése a jogszabályokkal és az ÁÉKBV kezelési szabályzatával összhangban történik-e;
+
+e) biztosítja, hogy az ÁÉKBV eszközeit érintő ügyletekből, valamint a kollektív befektetési értékpapírok forgalmazásából származó valamennyi ellenszolgáltatás a szokásos piaci gyakorlatnak megfelelő határidőn belül az ÁÉKBV-hez kerüljön;
+
+f) ellenőrzi, hogy az ÁÉKBV a bevételét a jogszabályokkal és az ÁÉKBV szabályzatával összhangban használja-e fel.
+
+(9) A letétkezelőnek az ÁÉKBV-alapkezelő részére rendszeresen be kell nyújtania az ÁÉKBV teljes eszközállományára vonatkozó átfogó leltárt.
+
+(10) Az ÁÉKBV részére végzett letétkezelés során a letétkezelő a kollektív befektetési formák befektetési és hitelfelvételi szabályairól szóló kormányrendeletben vagy az ÁÉKBV befektetési politikájában rögzített befektetési korlátok megsértése esetén – ha a korlátok megsértése az értékelési árak változása miatt következett be – írásban felszólítja az ÁÉKBV-alapkezelőt a korlátoknak történő megfelelésre. Amennyiben az ÁÉKBV-alapkezelő értékpapíralap esetén 30 napon belül ennek nem tesz eleget, a letétkezelő ezt a tényt bejelenti a Felügyeletnek.
+
+(11) A (7) bekezdésben említett eszközöket sem a letétkezelő, sem a harmadik félként közreműködő alletétkezelő az ÁÉKBV előzetes engedélye nélkül nem hasznosíthatja újra. Az újrafelhasználás magában foglalja a letéti őrzésben lévő eszközökkel végzett valamennyi ügyletet, beleértve többek között az átruházást, a zálogjoggal megterhelést, az értékesítést és a kölcsönadást.
+
+(12) A letétkezelőnél letéti őrzésben lévő eszközök újrafelhasználása a (11) bekezdéstől eltérően csak abban az esetben engedélyezett, ha:
+
+a) az eszközök újrafelhasználása az ÁÉKBV számlájára történik,
+
+b) a letétkezelő az ÁÉKBV képviseletében eljáró ÁÉKBV-alapkezelő utasításait hajtja végre,
+
+c) az újrafelhasználás az ÁÉKBV javát szolgálja, és a befektetők érdekében történik, és
+
+d) az ügylet fedezve van az ÁÉKBV részére tulajdonjog-átruházás keretében juttatott, az 575/2013/EU rendelet szerinti és likvid biztosítékkal, amelynek piaci értéke eléri az újrafelhasznált eszköz felárral növelt értékét.
+
+(13) A letétkezelő felszámolása során a letétkezelőnél vagy harmadik félnél letétbe helyezett pénzügyi eszköz, illetve nyilvántartott pénzeszköz nem képezi a felszámolási vagyon részét.”
+
+157. § A Kbftv. 63. §-a helyébe a következő rendelkezés lép:
+
+„63. § (1) A letétkezelő tevékenysége végzése során köteles visszautasítani az ÁÉKBV-alapkezelő által adott minden olyan megbízást, amely ellentétes a jogszabályokkal, illetve az ÁÉKBV kezelési szabályzatával, és az ÁÉKBV-alapkezelőt köteles a törvényes állapot helyreállítására felszólítani. Amennyiben az ÁÉKBV-alapkezelő nem tesz meg mindent a jogszabályoknak és az ÁÉKBV kezelési szabályzatának megfelelő állapot helyreállítása érdekében, úgy a letétkezelő haladéktalanul értesíti a Felügyeletet.
+
+(2) A letétkezelő tisztességesen, magas szakmai színvonalon, függetlenül és az ÁÉKBV és az ÁÉKBV befektetőinek érdekeit szem előtt tartva jár el. A letétkezelő nem végezhet olyan tevékenységeket az ÁÉKBV részére, amelyek az ÁÉKBV, annak befektetői, az ÁÉKBV-alapkezelő vagy saját maga között összeférhetetlenséget okozhatnak, kivéve, ha a letétkezelő letétkezelői tevékenységét egyéb esetlegesen összeférhetetlen tevékenységeitől működési és hierarchikus szempontból elválasztja, és az esetleges összeférhetetlenségeket feltárja, kezeli, nyomon követi és az ÁÉKBV befektetői előtt nyilvánosságra hozza.
+
+(3) A letétkezelő a 62. § (5) és (8) bekezdésben említett feladatait harmadik felekre nem szervezheti ki. A 62. § (7) bekezdésben említett feladatok harmadik felekre történő kiszervezése a következő feltételekkel történhet:
+
+a) a letétkezelő a feladatokat nem azzal a céllal szervezi ki, hogy elkerülje e törvény előírásainak való megfelelést;
+
+b) a letétkezelő bizonyítani tudja, hogy a kiszervezésnek objektív oka van;
+
+c) a letétkezelő a megfelelő szakértelemmel, körültekintéssel és gondossággal választja ki a harmadik felet, akire feladatai egy részét kiszervezi, és megfelelő szakértelemmel, körültekintéssel és gondossággal ellenőrzi és felügyeli a harmadik felet, valamint a feladatok ellátása érdekében a harmadik fél által tett lépéseket;
+
+d) a letétkezelő biztosítja, hogy a harmadik fél folyamatosan megfelel az alábbi feltételeknek a kiszervezett feladatok teljesítése során:
+
+da) a harmadik fél rendelkezik az ÁÉKBV által a nála letétbe helyezett eszközök jellegének és összetettségének megfelelő és azokkal arányos struktúrákkal és szakértelemmel;
+
+db) a 62. § (7) bekezdés a) pontjában említett feladatok kiszervezése esetén a harmadik félre az érintett jogrendszerben hatékony prudenciális szabályozás (ideértve a minimális tőkekövetelményeket is) és felügyelet vonatkozik, és a harmadik felet rendszeres külső könyvvizsgálatnak vetik alá, biztosítandó, hogy a pénzügyi eszközök a birtokában vannak;
+
+dc) a harmadik fél elkülöníti a letétkezelő ügyfeleinek eszközeit saját eszközeitől és a letétkezelő eszközeitől oly módon, hogy az eszközöket mindenkor egyértelműen a letétkezelő ügyfeleinek tulajdonaként lehessen azonosítani;
+
+dd) a harmadik fél minden szükséges lépést megtesz annak biztosítására, hogy a harmadik fél fizetésképtelensége esetén az ÁÉKBV-nek a harmadik fél letéti őrzésében lévő eszközeit ne lehessen a harmadik fél hitelezői között felosztani vagy azok javára értékesíteni és
+
+de) a harmadik fél eleget tesz a 62. § (1), (7), (11) és (12) bekezdésben említett kötelezettségeknek és tilalmaknak.
+
+(4) Amennyiben harmadik ország joga előírja, hogy bizonyos pénzügyi eszközöket helyi intézménynél helyezzenek letétbe, és a (3) bekezdés d) pont db) alpontban előírt feltételeknek megfelelő intézmény nincs az országban, a letétkezelő csak a harmadik ország joga által előírt mértékben és csak addig szervezheti ki feladatait egy ilyen helyi intézményre, amíg nincsenek a kiszervezési feltételeknek előírt helyi intézmények, és megfelelnek az alábbi feltételeknek:
+
+a) az ÁÉKBV befektetőit megfelelően tájékoztatják a harmadik ország joga által előírt jogi korlátozás miatti kiszervezésről és a befektetésüket megelőző kiszervezést igazoló körülményekről; és
+
+b) az ÁÉKBV-alapkezelő utasítja a letétkezelőt, hogy a pénzügyi eszközök megőrzését szervezze ki egy ilyen helyi intézményre.
+
+(5) A (4) bekezdésben előírt követelmények teljesítése mellett a harmadik fél is kiszervezheti a rá kiszervezett feladatokat. Ebben az esetben a (6) bekezdést értelemszerűen kell alkalmazni az érintett felekre.
+
+(6) A letétkezelő felelős az ÁÉKBV vagy az ÁÉKBV befektetői felé a 62. § (7) bekezdés a) pontja értelmében letétbe helyezett pénzügyi eszközöknek a letétkezelő vagy a letétkezeléssel megbízott harmadik fél általi elvesztéséért. A letétben őrzött pénzügyi eszközök elvesztése esetén a letétkezelő indokolatlan késedelem nélkül ugyanolyan típusú pénzügyi eszközöket vagy az eszközöknek megfelelő pénzösszeget bocsát az ÁÉKBV vagy az ÁÉKBV nevében eljáró ÁÉKBV alapkezelő rendelkezésére. A letétkezelőt nem lehet felelősségre vonni abban az esetben, ha bizonyítani tudja, hogy az eszközök elvesztése olyan, érdemleges befolyásán túlmenő külső esemény miatt következett be, amely minden észszerű erőfeszítés ellenére is elkerülhetetlen lett volna.
+
+(7) A letétkezelő felelősséggel tartozik az ÁÉKBV-nek, illetve az ÁÉKBV befektetőinek minden általuk amiatt elszenvedett veszteségért, hogy a letétkezelő hanyagságból vagy szándékosan nem tett maradéktalanul eleget az e törvényben előírt kötelezettségeinek. Az ettől eltérő kikötés semmis.
+
+(8) A letétkezelő ÁÉKBV befektetőivel szembeni felelőssége közvetlenül vagy az ÁÉKBV-alapkezelőn keresztül közvetve is érvényesíthető.
+
+(9) A letétkezelő felelősségét nem befolyásolja az, ha a letétkezelés céljából átvett eszközök egy részét vagy egészét harmadik fél alletétkezelésébe adta.
+
+(10) A letétkezelő a Felügyelet kérésére rendelkezésére bocsát minden, a feladatai ellátása során szerzett információt, amelyekre az ÁÉKBV vagy az ÁÉKBV-alapkezelő felügyeleti hatóságainak szüksége lehet. A Felügyelet a kapott információkat haladéktalanul megosztja az ÁÉKBV vagy az ÁÉKBV-alapkezelő felügyeleti hatóságaival.”
+
+158. § (1) A Kbftv. 130. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+(A nyilvános nyílt végű befektetési alapok esetében a kiemelt befektetői információ a befektetési alap alapvető jellemzőit tartalmazza oly módon, hogy a befektetők megismerhessék a befektetési termék jellegét, kockázatait, elősegítve a megalapozott befektetési döntéseik meghozatalát. A kiemelt befektetői információ közzététele során kifejezetten utalni kell arra, hogy az információ kiemelt befektetői információnak minősül. A kiemelt befektetői információ tömören és közérthetően tartalmazza)
+
+„a) a befektetési alapnak, valamint a befektetési alap illetékes felügyeleti hatóságának a megnevezését,”
+
+(2) A Kbftv. 130. §-a a következő (2a) bekezdéssel egészül ki:
+
+„(2a) A kiemelt befektetői információhoz ÁÉKBV esetén csatolni kell az 5. melléklet 7.15. pontja szerinti nyilatkozatot is.”
+
+159. § A Kbftv. a következő XXIV/A. Fejezettel és 174/A–B. §-sal egészül ki:
+
+„XXIV/A. FEJEZET
+
+AZ ÁÉKBV-ALAPKEZELŐKRE ÉS AZ ÁÉKBV LETÉTKEZELŐIRE VONATKOZÓ SPECIÁLIS SZABÁLYOK
+
+174/A. § Ha az ÁÉKBV-alapkezelő vagy az ÁÉKBV letétkezelője megsérti az e törvényben, valamint a törvény felhatalmazása alapján kiadott jogszabályban meghatározott kötelezettségeit, a Felügyelet a 169. § (1) bekezdésben meghatározott szankciókon túl az alábbi intézkedéseket, szankciókat alkalmazhatja:
+
+a) a jogsértés megállapítását követően a honlapján nyilvános közleményt tehet közzé a jogsértésért felelős személy és a jogsértés jellegének megjelölésével,
+
+b) megtilthatja a jogsértésért felelős személy számára a jogsértést megvalósító magatartás folytatását vagy megismétlését, illetve
+
+c) bírságot szabhat ki.
+
+174/B. § (1) Az ÁÉKBV-alapkezelő és az ÁÉKBV letétkezelője hatékony és megbízható mechanizmust hoz létre, amely ösztönzi az e törvény és a törvény felhatalmazása alapján kiadott jogszabályok tényleges vagy potenciális megsértésének esetén történő vezető állású személy általi és munkavállalói jelentéstételt.
+
+(2) Az (1) bekezdésben meghatározott mechanizmus magában foglalja:
+
+a) a jogsértésekről szóló jelentések átvételére és nyomon követésére vonatkozó eljárást;
+
+b) az ÁÉKBV-alapkezelőn és az ÁÉKBV letétkezelőjén belüli jogsértést bejelentő munkavállaló diszkriminációval és tisztességtelen bánásmóddal szembeni védelmét, valamint
+
+c) az ÁÉKBV-alapkezelőn és az ÁÉKBV letétkezelőjén belüli jogsértést bejelentő személy, valamint a jogsértésért feltehetően felelős természetes személy személyes adatainak védelmét.
+
+(3) Az ÁÉKBV-alapkezelő és az ÁÉKBV letétkezelőjének munkavállalói által tett, az (1) bekezdésben foglalt bejelentés nem tekinthető az e törvény és a Tpt. által előírt adat- és titokvédelmi kötelezettségek megsértésének.
+
+(4) A bejelentő személyt – jóhiszeműsége esetén – akkor sem terheli felelősség a bejelentésért, ha az utóbb megalapozatlannak bizonyul.
+
+(5) Az ÁÉKBV-alapkezelő és az ÁÉKBV letétkezelője a jogsértés intézményen belüli jelentésére független és önálló csatornát és eljárásokat dolgoz ki és működtet.”
 
 160. §
 
-161–162. §
+161. § A Kbftv. 203. §-a a következő (6) bekezdéssel egészül ki:
+
+„(6) Az e törvény – a pénzügyi közvetítőrendszer egyes szereplőit érintő törvények jogharmonizációs célú módosításáról szóló 2015. évi CCXV. törvénnyel megállapított – 130. § (1) bekezdés a) pontjában és a (2a) bekezdésben, a 3. melléklet I. Fejezet XI. alfejezet 60. pontjában, valamint az 5. melléklet 7. pont 7.13–7.15. alpontjaiban előírt rendelkezéseknek való megfelelést 2017. március 18-tól kell biztosítani.”
+
+162. § A Kbftv. 205. § (1) bekezdése a következő f) ponttal egészül ki:
+
+(E törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:)
+
+„f) az Európai Parlament és a Tanács 2014. július 23-i 2014/91/EU irányelve az átruházható értékpapírokkal foglalkozó kollektív befektetési vállalkozásokra (ÁÉKBV) vonatkozó törvényi, rendeleti és közigazgatási rendelkezések összehangolásáról szóló 2009/65/EK irányelvnek a letétkezelői funkciók, a javadalmazási politikák és a szankciók tekintetében történő módosításáról.”
 
 163. §
 
-164. §
+164. § (1) A Kbftv. 3. melléklete a 2. melléklet szerint módosul.
+
+(2) A Kbftv. 5. melléklete a 3. melléklet szerint módosul.
+
+(3) A Kbftv. 6. melléklete a 4. melléklet szerint módosul.
+
+(4) A Kbftv. 13. melléklete helyébe az 5. melléklet lép.
 
 #### 12. A pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvény módosítása
 

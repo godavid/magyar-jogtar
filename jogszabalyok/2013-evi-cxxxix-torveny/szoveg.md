@@ -808,27 +808,29 @@ folytat le.
 
 53. § (1) Az MNB a hatósági eljárásban hozott döntéseivel kapcsolatban a honlapján közzéteszi
 
-- a) a döntés számát és tárgyát,
-- b) a hatósági eljárásban érintett – nem természetes személy – ügyfél nevét és székhelyét, és
-- c) a döntés rendelkező részét, ide nem értve jogerős döntés esetén a jogorvoslatról szóló tájékoztatást.
+- a) a határozat számát és tárgyát,
+- b) a hatósági eljárásban érintett – nem természetes személy – ügyfél nevét és székhelyét,
+- c) a döntés rendelkező részét, ide nem értve jogerős döntés esetén a jogorvoslatról szóló tájékoztatást,
+- d) a döntése ellen indított jogorvoslati eljárás tényét,
+- e) a döntése elleni jogorvoslati eljárás során hozott jogerős ítélet rendelkező részét.
 
-(1a) Az (1) bekezdésben meghatározottakat meghaladóan az MNB a Hpt. 185. § és 189–192. §, a Tpt. 400. § (1) bekezdés o) pont 2. alpont, a Tpt. 400. § (1) bekezdés w) pont és a Bszt. 164. § alapján hozott, (1) bekezdés szerint közzétett, jogerős határozatában megjelöli a jogsértő természetes személy nevét is.
+(1a) Az (1) bekezdésben meghatározottakat meghaladóan az MNB a Hpt. 185. § és 189–192. §, a Tpt. 400. § (1) bekezdés o) pont 2. alpont, a Tpt. 400. § (1) bekezdés w) pont, a Bszt. 164. §, és a Kbftv. 174/A. § alapján hozott, (1) bekezdés szerint közzétett, jogerős határozatában megjelöli a jogsértő természetes személy nevét is.
 
 (2) Az MNB az (1) bekezdés szerinti közzététel során tisztség betöltését engedélyező határozat esetén az (1) bekezdésben meghatározottakon túl a tisztségviselő családi- és utónevét is közzéteszi honlapján.
 
-(3) Az MNB döntését nem teszi közzé, ha a közzététel a pénzügyi közvetítőrendszer stabil, zavartalan működését veszélyeztetné.
+(3) Az MNB az e törvény vagy a Kbftv. alapján – az ÁÉKBV-alapkezelőre vagy az ÁÉKBV letétkezelőjére vonatkozóan – hozott intézkedésről, pénzbírságról szóló határozatát nem teszi közzé, ha a közzététel a pénzügyi közvetítőrendszer stabil, zavartalan működését veszélyeztetné.
 
 (3a) Az (1) bekezdésében meghatározott közzétételi kötelezettség a fogyasztóvédelmi ellenőrzési eljárásban hozott döntések közül kizárólag a hivatalból indított fogyasztóvédelmi eljárásokban hozott, intézkedést tartalmazó határozatokra, a piacfelügyeleti eljárásban hozott döntések közül kizárólag az intézkedést tartalmazó határozatokra terjed ki.
 
-(4) Az MNB anonim módon teszi közzé a Hpt.-ben, a Tpt.-ben és a Bszt.-ben meghatározott intézkedésről vagy kivételes intézkedésről, valamint a pénzbírságról hozott határozatát, ha a nyilvánosságra hozatal
+(4) Az MNB anonim módon teszi közzé a Hpt.-ben, a Tpt.-ben, a Bszt.-ben és a Kbftv.-ben meghatározott intézkedésről vagy kivételes intézkedésről, valamint a pénzbírságról hozott határozatát, ha a nyilvánosságra hozatal
 
 - a) aránytalan a természetes személy által elkövetett jogsértéshez képest,
 - b) aránytalan hátrányt okoz a természetes és jogi személyekre nézve, vagy
 - c) veszélyezteti valamely folyamatban lévő büntetőeljárás sikerességét.
 
-(5) Az MNB mérlegelése alapján a Hpt.-ben, a Tpt.-ben és a Bszt.-ben meghatározott intézkedésről vagy kivételes intézkedésről, pénzbírságról hozott határozat közzététele legfeljebb 30 napra elhalasztható, ha a jogsértő magatartás várhatóan rövid időn (legfeljebb 30 napon) belül megszűnik, és a jogsértés nem veszélyezteti a jogi személy biztonságos működését, ügyfeleinek védelmét, valamint a pénzügyi közvetítőrendszer stabilitását.
+(5) Az MNB mérlegelése alapján a Hpt.-ben, a Tpt.-ben, a Bszt.-ben és a Kbftv.-ben meghatározott intézkedésről vagy kivételes intézkedésről, pénzbírságról hozott határozat közzététele legfeljebb 60 napra elhalasztható, ha a jogsértő magatartás várhatóan rövid időn (legfeljebb 60 napon) belül megszűnik, és a jogsértés nem veszélyezteti a jogi személy biztonságos működését, ügyfeleinek védelmét, valamint a pénzügyi közvetítőrendszer stabilitását.
 
-(6) Az MNB a Hpt.-ben, a Tpt.-ben és a Bszt.-ben meghatározott intézkedésekről és kivételes intézkedésekről, pénzbírságról hozott határozatát legalább 5 évig és legfeljebb 10 évig elérhetővé teszi a honlapján.
+(6) Az MNB a Hpt.-ben, a Tpt.-ben, a Bszt.-ben és a Kbftv.-ben meghatározott intézkedésekről és kivételes intézkedésekről, pénzbírságról hozott határozatát legalább 5 évig és legfeljebb 10 évig elérhetővé teszi a honlapján.
 
 53/A. § (1) A Ket. hatósági jogkörben hozott döntés hivatalból való módosítására és visszavonására vonatkozó rendelkezéseit a (2) bekezdésben meghatározott eltéréssel kell alkalmazni.
 
@@ -1145,6 +1147,17 @@ rendelhet ki.
   - bb) a jogsértésből származó nyereség vagy az amiatt elkerült veszteség összegének legfeljebb kétszerese.
 
 (9) A (8) bekezdésben foglalt összegek közül minden esetben a magasabb összeget kell alkalmazni.
+
+(10) A Kbftv. 174/A. § c) pontjában foglalt bírság mértéke:
+
+- a) ÁÉKBV-alapkezelő és az ÁÉKBV letétkezelője esetében
+  - aa) legfeljebb 1 569 800 000 forint vagy a döntéshozó szerv által legutoljára jóváhagyott éves beszámoló szerinti éves árbevétel legfeljebb 10%-a azzal, hogy ha a vállalkozás anyavállalat vagy anyavállalat olyan leányvállalata, amelyik a számviteli jogszabályok alapján konszolidált beszámoló készítésére kötelezett, akkor a figyelembe veendő éves árbevétel a legutolsó, az anyavállalat döntéshozó szerve által jóváhagyott konszolidált beszámoló szerinti éves árbevétel vagy a számviteli jogszabályok szerinti, annak megfelelő bevétel vagy
+  - ab) a jogsértésből származó nyereség vagy az amiatt elkerült veszteség összegének legfeljebb kétszerese,
+- b) természetes személy esetében
+  - ba) legfeljebb 1 569 800 000 forint vagy
+  - bb) a jogsértésből származó nyereség vagy az amiatt elkerült veszteség összegének legalább kétszerese.
+
+(11) A (10) bekezdésben foglalt összegek közül minden esetben a magasabb összeget kell alkalmazni.
 
 77. § (1) A bírságot a kiszabásáról hozott döntés jogerőre emelkedésétől számított harminc napon belül kell a döntésben megjelölt számlára befizetni.
 
@@ -2663,6 +2676,8 @@ azzal, hogy 2019. január 1-jétől az anticiklikus tőkepufferrátát a 33. §-
 - y) az Európai Parlament és a Tanács 2014. április 16-i 2014/51/EU irányelve a 2003/71/EK és a 2009/138/EK irányelvnek, valamint az 1060/2009/EK, az 1094/2010/EU és az 1095/2010/EU rendeletnek az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíjhatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról,
 - z) az Európai Parlament és a Tanács 760/2015/EU rendelete (2015. április 29.) az európai hosszú távú befektetési alapokról.
 - zs) az Európai Parlament és a Tanács 2015/751/EU rendelete (2015. április 29.) a kártyaalapú fizetési műveletek bankközi jutalékairól.
+
+185/A. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja: az Európai Parlament és a Tanács 2014. július 23-i 2014/91/EU irányelve az átruházható értékpapírokkal foglalkozó kollektív befektetési vállalkozásokra (ÁÉKBV) vonatkozó törvényi, rendeleti és közigazgatási rendelkezések összehangolásáról szóló 2009/65/EK irányelvnek a letétkezelői funkciók, a javadalmazási politikák és a szankciók tekintetében történő módosításáról.
 
 186. § (1) A 24. § (1) bekezdés a) pontja a hamispénz-figyelő rendszerhez (CMS) való csatlakozás egyes feltételeiről szóló, 2001. november 8-i EKB/2001/11 európai központi banki határozatnak való megfelelést szolgálja.
 
