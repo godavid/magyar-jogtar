@@ -29,7 +29,7 @@ a fogyasztónak nyújtott hitelről
 
 (3) A hiteltúllépés esetén a 4–25. §-t nem kell alkalmazni.
 
-(4) A jelzáloghitelre és a pénzügyi lízingre a 4. § (1)–(2) bekezdését, a 6. §-t, a 8–11. §-t, a 16. § (1) bekezdés 9., 11., 19., 20. pontját és (4) bekezdését, a 17. § (1) bekezdését, a 19–20. §-t, a 21. és a 22. §-t, a 24. §-t és a 26. §-t nem kell alkalmazni.
+(4) A jelzáloghitelre és pénzügyi lízingre a 4. § (2) bekezdés f) pontját, a 6. §-t, a 8–11. §-t, a 16. § (1) bekezdés 9., 11., 19., 20. pontját és (4) bekezdését, a 17. § (1) bekezdését, a 19. és a 20. §-t, a 21. és a 22. §-t, a 24. §-t és a 26. §-t nem kell alkalmazni.
 
 (5) E törvény rendelkezéseit az állami kamattámogatással nyújtott hitelekre külön jogszabályban meghatározott eltérésekkel kell alkalmazni.
 
@@ -63,7 +63,7 @@ a fogyasztónak nyújtott hitelről
 - 17. referencia-kamatláb: a Hpt.-ben ilyenként meghatározott fogalom,
 - 18. rögzített hitelkamat: a hitelszerződésben annak megkötésekor meghatározott, a hitelszerződés teljes futamidejére vonatkozó egy, vagy a futamidő részeire vonatkozó több, százalékos mérték használatával meghatározott hitelkamat; a hitelkamat kizárólag arra az időszakra tekinthető rögzítettnek, amelyre vonatkozóan a hitelszerződésben a százalékos mértéke meghatározásra került,
 - 19. tartós adathordozó: a Hpt.-ben ilyenként meghatározott fogalom,
-- 20. teljes hiteldíj mutató: a hitel teljes díjának aránya a hitel teljes összegéhez éves százalékában kifejezve,
+- 20. teljes hiteldíj mutató: az a belső megtérülési ráta, amely mellett a fogyasztó által teljesítendő kötelezettségek jelenértéke (törlesztés és díjak) éves százalékban kifejezve megegyezik a hitelező által folyósított hitelösszeggel.
 - 21. változó hitelkamat: minden olyan kamat, ami nem minősül rögzített hitelkamatnak.
 - 22. lakáscélú jelzáloghitel: olyan jelzáloghitel,
   - a) amelyben a felek által okiratban rögzített hitelcél lakóingatlan vásárlása, építése, bővítése, korszerűsítése, felújítása vagy
@@ -72,36 +72,61 @@ a fogyasztónak nyújtott hitelről
 - 24. kamatváltoztatási mutató: a hitelezés refinanszírozási költségeihez és a hitel nyújtásához kapcsolódó, az üzleti kockázat körén kívül álló, a hitelezők által nem befolyásolható, tőlük független, valamint általuk el nem hárítható körülményekben bekövetkező változást objektív módon kifejező, a kamatmódosítás számításának alapjául szolgáló és a nyilvánosság számára hozzáférhető viszonyszám,
 - 25. kamatfelár: a referencia-kamatlábon felül – a hitelkamat részeként – fizetendő kamat, a hitelkamat és a referenciakamat különbségeként meghatározott kamatrész,
 - 26. kamatfelár-változtatási mutató: a kamatfelár módosításának alapjául szolgáló kamatváltoztatási mutató.
+- 27. kapcsolódó szolgáltatás: a fogyasztó részére a hitelszerződéshez kapcsolódóan nyújtott szolgáltatás,
+- 28. közvetítői alvállalkozó: a Hpt.-ben ilyenként meghatározott fogalom,
+- 29. foglalkoztatott:
+  - a) a hitelezővel vagy a hitelközvetítővel munkaviszonyban, megbízási jogviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban lévő természetes személy, aki a jelzáloghitel-nyújtásban közvetlenül részt vesz vagy a jelzálog-hitelezéssel kapcsolatos tevékenységek végzése – ide nem értve az adatrögzítést, a behajtást és a számlavezetést – során a fogyasztókkal kapcsolatot tart fenn,
+  - b) közvetítői alvállalkozóval munkaviszonyban, megbízási jogviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban lévő természetes személy, aki a jelzálog-hitelezéssel kapcsolatos tevékenységek végzése – ide nem értve az adatrögzítést, a behajtást és a számlavezetést – során a fogyasztókkal kapcsolatot tart fenn,
+  - c) olyan természetes személy, aki az a) vagy b) pontban meghatározott természetes személy közvetlen felettese vagy ellenőrzi a tevékenységét,
+- 30. hitelképesség-vizsgálat: a fogyasztó törlesztési kötelezettségeinek várható teljesítésére vonatkozó kilátás előzetes felmérése,
+- 31. hiteltanácsadás: a Hpt.-ben ilyenként meghatározott fogalom,
+- 32. EGT-állam: a Hpt.-ben ilyenként meghatározott fogalom.
 
 ### A hitelre vonatkozó kereskedelmi kommunikáció
 
-4. § (1) A hitelre vonatkozó kereskedelmi kommunikációban a teljes hiteldíj mutató értékét feltűnően, a rövidítés feltüntetésével, egy tizedesjegy pontossággal minden esetben meg kell adni.
+4. § (1) A hitelre vonatkozó kereskedelmi kommunikáció során kerülni kell minden olyan megfogalmazást, amely a hitel elérhetősége vagy költsége tekintetében téves várakozásokat kelthet a fogyasztóban. A kereskedelmi kommunikáció során az információnak könnyen olvashatónak vagy jól hallhatónak kell lennie. A hitelre vonatkozó kereskedelmi kommunikációban a teljes hiteldíj mutató értékét feltűnően, a rövidítés feltüntetésével, egy tizedesjegy pontossággal minden esetben meg kell adni.
 
 (2) Ha a hitelre vonatkozó kereskedelmi kommunikáció a teljes hiteldíj mutató értékén kívül hitelkamatot vagy bármilyen más ellenszolgáltatásra – ideértve a díjat, jutalékot, költséget – vonatkozó számadatot megjelöl, a kereskedelmi kommunikációban egyértelműen, tömören és feltűnően, reprezentatív példával bemutatva meg kell adni a következő adatokat is:
 
-- a) a hitelkamat mértéke és típusa (rögzített hitelkamat, változó hitelkamat, vagy mindkettő),
-- b) a hitel teljes díja, ideértve annak részét képező díjat, jutalékot, költséget és adót,
+- a) a hitelkamat mértéke és típusa (rögzített hitelkamat, változó hitelkamat vagy mindkettő),
+- b) a hitel teljes díjában foglalt díj, jutalék, költség és adó,
 - c) a hitel teljes összege,
 - d) a hitel futamideje,
 - e) a teljes hiteldíj mutató,
 - f) termék értékesítéséhez vagy szolgáltatás nyújtásához kapcsolódó halasztott fizetés formájában nyújtott hitel esetén a termék vagy szolgáltatás készpénzára és az önrész, valamint
-- g) a fogyasztó által fizetendő teljes összeg és a törlesztőrészletek összege.
+- g) a fogyasztó által fizetendő teljes összeg és a törlesztőrészlet összege.
 
-(3) Ha a hitelhez kapcsolódó járulékos szolgáltatás (például biztosítás) igénybevétele a hitelszerződés megkötéséhez vagy a hitelező ajánlata szerinti megkötéséhez szükséges, és a hitelhez kapcsolódó járulékos szolgáltatás ellenszolgáltatása nem ismert, a hitelre vonatkozó kereskedelmi kommunikációban a hitelhez kapcsolódó járulékos szolgáltatásra vonatkozó szerződés megkötésének kötelezettségét is jelezni kell egyértelműen, tömören és feltűnően, a teljes hiteldíj mutatóval együtt.
+(3) Ha a jelzáloghitelre vonatkozó kereskedelmi kommunikáció a teljes hiteldíj mutató értékén kívül hitelkamatot vagy bármilyen más ellenszolgáltatásra – ideértve a díjat, jutalékot, költséget – vonatkozó számadatot megjelöl – a (2) bekezdés a)–e) és g) pontján túl –, a kereskedelmi kommunikációban egyértelműen, tömören és feltűnően meg kell adni a következőket is:
 
-(4) A hitelközvetítő a hitelre vonatkozó kereskedelmi kommunikációban köteles feltüntetni, hogy kinek a képviseletében jár el.
+- a) a hitelező, a hitelközvetítő vagy a közvetítői alvállalkozó neve,
+- b) tájékoztatás arra vonatkozóan, hogy a hitel fedezete ingatlanra bejegyzett jelzálogjog,
+- c) a törlesztőrészletek száma, valamint
+- d) devizaalapú hitel esetén figyelmeztetés arra vonatkozóan, hogy az árfolyam változása befolyásolhatja a fogyasztó által fizetendő összeget.
+
+(4) A kereskedelmi kommunikációban alkalmazott reprezentatív példát a tájékoztatásban is következetesen alkalmazni kell.
+
+(5) Ha a hitelhez kapcsolódó szolgáltatás (például biztosítás) igénybevétele a hitelszerződés megkötéséhez vagy a hitelező ajánlata szerinti megkötéséhez szükséges, és a hitelhez kapcsolódó szolgáltatás ellenszolgáltatása nem ismert, a hitelre vonatkozó kereskedelmi kommunikációban a hitelhez kapcsolódó szolgáltatásra vonatkozó szerződés megkötésének kötelezettségét is jelezni kell egyértelműen, tömören és feltűnően, a teljes hiteldíj mutatóval együtt.
+
+(6) A hitelközvetítő a hitelre vonatkozó kereskedelmi kommunikációban köteles feltüntetni, hogy kinek a képviseletében jár el.
 
 ### A hitelszerződés megkötését megelőző tájékoztatás
 
-5. § (1) A hitelező és a hitelközvetítő a hitelszerződés megkötését megelőzően a fogyasztó részére köteles olyan felvilágosítást adni, amelynek alapján a fogyasztó felmérheti, hogy az igénybe venni tervezett hitel megfelel-e az igényeinek és a pénzügyi teljesítőképességének. Ennek során a hitelező és a hitelközvetítő a fogyasztó rendelkezésére bocsátja a különböző ajánlatok összehasonlításához szükséges információkat annak érdekében, hogy a fogyasztó megalapozott döntést hozhasson a hitelszerződés esetleges megkötése tekintetében.
+5. § (1) A hitelező, a hitelközvetítő vagy közvetítői alvállalkozó a hitelszerződés megkötését megelőzően a fogyasztó részére köteles olyan felvilágosítást adni, amelynek alapján a fogyasztó felmérheti, hogy az igénybe venni tervezett hitel és – ha kapcsolódó szolgáltatás nyújtására is sor kerül – a kapcsolódó szolgáltatás megfelel-e az igényeinek és a pénzügyi teljesítőképességének. Ennek során a hitelező és adott esetben a hitelközvetítő vagy közvetítői alvállalkozó a fogyasztó rendelkezésére bocsátja a különböző ajánlatok összehasonlításához szükséges információkat annak érdekében, hogy a fogyasztó megalapozott döntést hozhasson a hitelszerződés esetleges megkötése tekintetében.
 
-(2) Az (1) bekezdés szerinti felvilágosításnak mindenekelőtt ki kell terjednie a hiteltermékek legfontosabb jellemzőire, a fogyasztó pénzügyi helyzetére gyakorolt hatására és a fizetés elmulasztásának következményeire, így különösen a késedelmi kamatra, a hitel felmondására és a biztosítékok érvényesítésére.
+(2) Az (1) bekezdés szerinti felvilágosításnak mindenekelőtt ki kell terjednie az ajánlott termékek legfontosabb jellemzőire, a fogyasztó pénzügyi helyzetére gyakorolt hatására és a fizetés elmulasztásának következményeire, így különösen a késedelmi kamatra, a hitel felmondására és a biztosítékok érvényesítésére.
 
 (3) Az (1) bekezdés szerinti felvilágosítást tömör és informatív módon úgy kell nyújtani, hogy az a fogyasztó számára érthető és áttekinthető legyen, reprezentatív példákkal ábrázolt módon mutassa be, hogy a hitelfelvétel törlesztése a jövedelmi viszonyaihoz, illetve annak esetleges változásához képest milyen terhet jelent, és hogy a törlesztés során milyen további kockázatokkal kell számolnia, ideértve a kamat- és az árfolyamkockázatot is.
 
-(4) A hitelező az általa kötött hitelszerződések és jelzáloghitel-szerződések termékcsoportonként legjellemzőbb mintaszövegét a fogyasztók előzetes tájékozódása érdekében az internetes honlapján köteles hozzáférhetővé tenni.
+(4) Az (1) bekezdés szerinti felvilágosítás során egyértelmű általános tájékoztatást kell nyújtani a hitelfelvétel folyamatáról, továbbá a Magyar Nemzeti Bank fogyasztóvédelmi hatósági jogköréről és a Pénzügyi Békéltető Testületnek a Magyar Nemzeti Bankról szóló törvény szerinti pénzügyi fogyasztói jogvita bírósági eljáráson kívüli rendezésében betöltött szerepéről.
 
-(5) Az e §-ban szabályozott felvilágosítás módjának és formájának részletes szabályait a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter rendeletben határozza meg.
+(5) Ha kapcsolódó szolgáltatás nyújtására is sor kerül, az (1) bekezdés szerinti felvilágosításnak ki kell terjednie
+
+- a) arra, hogy az összekapcsolt szolgáltatások viszonya járulékos vagy önálló, valamint
+- b) az egyes szerződések felmondásának körülményeire is.
+
+(6) A hitelező az általa kötött hitelszerződések és jelzáloghitel-szerződések termékcsoportonként legjellemzőbb mintaszövegét a fogyasztók előzetes tájékozódása érdekében az internetes honlapján köteles hozzáférhetővé tenni.
+
+(7) Az e §-ban szabályozott felvilágosítás módjának és formájának részletes szabályait a miniszter rendeletben határozza meg.
 
 6. § (1) A hitelszerződésekre vonatkozó ajánlatok összehasonlítása és a hitelszerződés megkötése tekintetében hozandó megalapozott fogyasztói döntés érdekében a hitelező és a hitelközvetítő az 5. § szerinti felvilágosítás mellett, kellő időben, de azt megelőzően, hogy a fogyasztót bármilyen ajánlat vagy hitelszerződés kötné, köteles a fogyasztót az általa megadott információk alapján szóba jöhető hiteltermék tekintetében – az 1. melléklet szerinti formanyomtatvány felhasználásával – papíron vagy más tartós adathordozón a következő adatokról tájékoztatni:
 
@@ -118,7 +143,7 @@ a fogyasztónak nyújtott hitelről
 - 11. a fizetési számlához vagy készpénz-helyettesítő fizetési eszközhöz kapcsolódó valamennyi jutalékról, díjról, költségről vagy egyéb fizetési kötelezettségről, kivéve ha a fizetési számla vagy a készpénz-helyettesítő fizetési eszköz fenntartása nem kötelező,
 - 12. a hitelhez kapcsolódó hitelkamaton kívüli minden egyéb ellenszolgáltatásról – ideértve díjat, jutalékot (a továbbiakban együtt: díj) és költséget –, és módosításuk feltételeiről,
 - 13. adott esetben a közjegyzői díjról,
-- 14. a hitelhez kapcsolódó olyan járulékos szolgáltatásokról (például biztosítás), amely a hitelszerződés megkötéséhez vagy a hitelező ajánlata szerinti megkötéséhez szükséges,
+- 14. a hitelhez kapcsolódó olyan szolgáltatásokról (például biztosítás), amely a hitelszerződés megkötéséhez vagy a hitelező ajánlata szerinti megkötéséhez szükséges,
 - 15. a késedelmi kamatról vagy az egyéb olyan fizetési kötelezettségről, amely a szerződésben vállalt kötelezettség nem teljesítéséből származik,
 - 16. a fizetés elmulasztásának következményeiről,
 - 17. a szükséges biztosítékok meghatározásáról,
@@ -166,28 +191,66 @@ a fogyasztónak nyújtott hitelről
 
 11. § Ha a fizetési számlához kapcsolódó hitelkeret-szerződés megkötése a fogyasztó kérése alapján a Tétv. szerinti olyan távközlő eszköz útján történik, amely a 6. § és 7. § szerinti előzetes tájékoztatást nem teszi lehetővé, így különösen ha az a Tétv. 4. § (4) bekezdése szerint telefonon történik, a hitelező és a hitelközvetítő a hitelszerződés megkötését követően haladéktalanul köteles a 6. § és 7. § szerint a fogyasztóval szemben fennálló tájékoztatási kötelezettségének papíron vagy más tartós adathordozón eleget tenni.
 
-12. § (1) Jelzáloghitel igénylése esetén a hitelező és adott esetben a hitelközvetítő azt megelőzően, hogy a fogyasztót bármilyen hitelszerződés vagy ajánlat kötné, kellő időben köteles papíron vagy más tartós adathordozón – a fogyasztó által megadott információk alapján – az alábbi tájékoztatást nyújtani a fogyasztónak:
+12. § (1) Jelzáloghitel igénylése esetén a hitelező, a hitelközvetítő vagy a közvetítői alvállalkozó azt megelőzően, hogy a fogyasztót bármilyen hitelszerződés vagy ajánlat kötné, kellő időben köteles papíron, más tartós adathordozón vagy elektronikus úton egyértelmű és érthető általános tájékoztatást (a továbbiakban: általános tájékoztatás) nyújtani a fogyasztónak, amelynek tartalmát a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter rendeletben határozza meg.
 
-- a) általános tájékoztatás a hitelező által kínált jelzáloghitelről a 3. melléklet I. pontjában meghatározott tartalommal,
-- b) személyre szóló tájékoztatást a 3. melléklet II. pontjában meghatározott formanyomtatvány kitöltésével.
+(2) A hitelező, a hitelközvetítő vagy a közvetítői alvállalkozó az általános tájékoztatást követően, de még a szerződéskötés előtt papíron vagy más tartós adathordozón személyre szóló tájékoztatást (a továbbiakban: személyre szóló tájékoztatás) nyújt a fogyasztónak a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter rendeletében meghatározott formában és tartalommal. A személyre szóló tájékoztatást haladéktalanul el kell készíteni és át kell adni a fogyasztónak, amint a fogyasztó megadta a szükséges információkat a jelzáloghitellel összefüggő igényeiről, pénzügyi helyzetéről és az általa előnyben részesített feltételekről, még mielőtt a fogyasztót a hitelszerződéssel kapcsolatban ajánlati kötöttség terhelné.
 
-(2) Az (1) bekezdés b) pontjában meghatározott tájékoztatást a fogyasztó által meghatározott hitelcélhoz igazodva (konkrét hitelösszegre és futamidőre) a hitelbírálat elvégzését megelőzően kell átadni.
+(3) Az (1) és (2) bekezdésben meghatározott tájékoztatást díj-, költség- és egyéb fizetési kötelezettségmentesen kell a fogyasztó rendelkezésére bocsátani.
 
-(3) A jelzáloghitelt igénylő fogyasztót tájékoztatni kell az (1) bekezdésben meghatározott tájékoztatókkal kapcsolatos kérdésekben illetékes szervezetről a név és telefonszám megadásával.
+(4) Jelzáloghitelre vonatkozó, a hitelezőre nézve kötelező erejű ajánlatot papíron vagy más tartós adathordozón a személyre szóló tájékoztatóval együtt kell a fogyasztó rendelkezésére bocsátani, ha
 
-13. § (1) Jelzáloghitel és ingatlanra vonatkozó pénzügyi lízing igénylése esetén a 8. § (1) bekezdését és a 9. §-t azzal kell alkalmazni, hogy a szerződés tervezetét a fogyasztó kérése nélkül is legalább hét nappal a szerződéskötést megelőzően a fogyasztó rendelkezésére kell bocsátani.
+- a) még nem bocsátották a fogyasztó rendelkezésére a személyre szóló tájékoztatót vagy
+- b) az ajánlat eltér a korábban a fogyasztó rendelkezésére bocsátott személyre szóló tájékoztatótól.
+
+(5) Jelzáloghitel esetén a Tétv. 4. § (2) bekezdés b) pontjában meghatározott, a szerződés tárgyának lényeges jellemzőinek keretében tájékoztatást kell adni a jogszabályban szabályozott személyre szóló tájékoztató 3–6. pontjában meghatározott elemekről.
+
+(6) A hitelező, a hitelközvetítő vagy a közvetítői alvállalkozó a személyre szóló tájékoztatóban meghatározott adatokon kívül kizárólag attól elkülönítetten, ahhoz mellékelve adhat tájékoztatást.
+
+13. § (1) Jelzáloghitel és ingatlanra vonatkozó pénzügyi lízing igénylése esetén a hitelezőre nézve kötelező ajánlat megtételekor a szerződés tervezetét a fogyasztó kérése nélkül is legalább három nappal a tervezett szerződéskötést megelőzően a fogyasztó rendelkezésére kell bocsátani. A fogyasztó a három nap leteltéig az ajánlatot nem fogadhatja el. A hitelező ajánlati kötöttsége a szerződéstervezet fogyasztó részére történő rendelkezésre bocsátásától számított tizenöt napig áll fenn.
 
 (2) Az (1) bekezdés szerinti szerződések elektronikus úton nem köthetők meg, ez azonban nem akadálya annak, hogy a tájékoztatási kötelezettség teljesítése és annak igazolása, valamint a szerződés tervezetének rendelkezésre bocsátása tekintetében a felek a 8. § (2) bekezdése szerinti elektronikus utat vegyék igénybe, ha annak feltételei fennállnak.
 
 ### A hitelképesség vizsgálata
 
-14. § (1) A hitelező a fogyasztó hitelképességét a rendelkezésére álló információk alapján értékeli. A hitelképesség vizsgálatának részletes szabályait jogszabály állapítja meg.
+14. § (1) A hitelező a fogyasztó hitelképességét a rendelkezésére álló információk alapján értékeli és kizárólag abban az esetben tesz ajánlatot a fogyasztónak hitelszerződés megkötésére, ha a hitelképesség-vizsgálat eredményeként valószínűsíthető, hogy a fogyasztó képes a hitelszerződésből eredő kötelezettségeinek maradéktalan teljesítésére. A hitelképesség vizsgálatának részletes szabályait jogszabály állapítja meg.
 
-(2) Ha e törvény felhatalmazása alapján kiadott jogszabály eltérően nem rendelkezik, az információk a fogyasztó által nyújtott tájékoztatáson és a hitelreferencia-szolgáltatás igénybevételén alapulhatnak.
+(2) Ha e törvény felhatalmazása alapján kiadott jogszabály eltérően nem rendelkezik, az információk a fogyasztó által nyújtott tájékoztatáson és a hitelreferencia-szolgáltatás igénybevételén alapulhatnak. A hitelreferencia-szolgáltatás igénybevételéről a hitelező előzetesen papíron vagy más tartós adathordozón tájékoztatja a fogyasztót.
 
-(3) Ha a felek a hitelszerződés megkötését követően a hitel teljes összegének növelésében állapodnak meg, a hitelszerződés módosítását megelőzően a hitelező köteles a fogyasztó hitelképességét díj-, költség- és egyéb fizetési kötelezettségmentesen ismételten értékelni.
+(3) A hitelező a hitelképesség vizsgálatát követően haladéktalanul tájékoztatja a fogyasztót a hitelkérelem elbírálásának eredményéről és adott esetben arról, ha a hitelkérelem elutasítására az adatok automatikus feldolgozása során került sor.
 
-(4) Ha a hitelező a hitelreferencia-szolgáltatás igénybevétele alapján a fogyasztóval nem kíván szerződést kötni, a fogyasztót a hitelreferencia-szolgáltatás igénybevétele során történő adatátadás eredményéről és a hitelreferencia-szolgáltatás jellemzőiről haladéktalanul és díjmentesen tájékoztatja, kivéve, ha a tájékoztatási kötelezettség teljesítését törvény vagy az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa kizárja.
+(4) A hitelszerződés megkötését követően a hitelező nem mondhatja fel a hitelszerződést azzal az indokkal, hogy a hitelképesség vizsgálata nem volt megfelelő vagy a fogyasztó által közölt adatok hiányosak voltak.
+
+(5) Ha a felek a hitelszerződés megkötését követően a hitel teljes összegének felemelésében állapodnak meg, a hitelszerződés módosítását megelőzően a hitelező köteles a fogyasztó hitelképességét díj-, költség- és egyéb fizetési kötelezettségmentesen ismételten értékelni, kivéve, ha a hitel adott összeggel történő megemelését a hitelképesség eredeti vizsgálatakor már figyelembe vették.
+
+(6) Ha a hitelező a hitelreferencia-szolgáltatás igénybevétele alapján a fogyasztóval nem kíván szerződést kötni, a fogyasztót a hitelreferencia-szolgáltatás igénybevétele során történő adatátadás eredményéről és a hitelreferencia-szolgáltatás jellemzőiről haladéktalanul és díjmentesen tájékoztatja, kivéve, ha a tájékoztatási kötelezettség teljesítését törvény vagy az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa kizárja.
+
+### Árukapcsolás és csomagban történő értékesítés
+
+14/A. § (1) Tilos a jelzáloghitel ajánlása vagy a jelzáloghitel-szerződés megkötése más pénzügyi termékkel vagy szolgáltatással együtt úgy, hogy a hitelszerződést a fogyasztó kizárólag a kapcsolódó termékkel vagy szolgáltatással együtt kötheti meg (árukapcsolás tilalma).
+
+(2) A jelzáloghitel ajánlható és a jelzáloghitel-szerződés megköthető más pénzügyi termékkel vagy szolgáltatással együtt, ha a hitelszerződést a fogyasztó önállóan is megkötheti, de nem feltétlenül ugyanazokkal a feltételekkel, mint a kapcsolódó szolgáltatásokkal egy csomagban kínált hitelszerződés esetén (csomagban történő értékesítés).
+
+(3) Az (1) bekezdésen foglaltaktól eltérően
+
+- a) ha a hitelező a Hpt. 3. § (1) bekezdés d) pontjában foglalt pénzügyi szolgáltatás végzésére engedéllyel rendelkezik, akkor a fogyasztó részére előírhatja, hogy rendelkezzen nála vezetett fizetési számlával, amely kizárólag a jelzáloghitel törlesztéséhez szükséges pénzeszközök elhelyezését szolgálja, és ezt díj-, költség- és egyéb fizetési kötelezettségmentesen kell a fogyasztó részére biztosítani,
+- b) jelzáloghitel esetén a hitelező előírhatja a fogyasztó számára, hogy jelzáloghitel igénybevétele esetén rendelkezzen a hitelszerződéshez kapcsolódó megtakarítással, valamint életbiztosítással vagy a fedezetül szolgáló ingatlanra vonatkozó vagyonbiztosítással.
+
+(4) A (3) bekezdés b) pontjában foglaltak esetén a hitelezőnek az általa előnyben részesített szolgáltatótól eltérő szolgáltató biztosítását is el kell fogadnia, ha az a hitelező által ajánlott biztosítással legalább egyenértékű a biztosítás összegét és a fedezet körét figyelembe véve.
+
+(5) Ha a fogyasztó az (1) bekezdés szerinti tiltott árukapcsolás keretében köti meg a hitelszerződést, úgy a kapcsolódó termék értékesítésére vagy szolgáltatás nyújtására szolgáló szerződést a Polgári Törvénykönyvről szóló 2013. évi V. törvény szerint megtámadhatja.
+
+### A jelzáloghitel fedezetéül szolgáló ingatlanok értékelése
+
+14/B. § (1) A hitelező belső szabályzatában rögzíti a jelzáloghitelezési elveket, amelynek keretében nyilvántartást vezet a jelzáloghitel nyújtásánál fedezetül elfogadott ingatlanok típusairól.
+
+(2) A jelzáloghitel fedezetéül szolgáló ingatlan hitelbiztosítéki értékét a termőföldnek nem minősülő ingatlanok hitelbiztosítéki értékének meghatározására vonatkozó módszertani elvekről szóló miniszteri rendeletben meghatározott szabályoknak megfelelően kell megállapítani.
+
+(3) A hitelező az értékelési szakvéleményt tartós adathordozón rögzíti és nyilvántartásában megőrzi.
+
+(4) A jelzáloghitel fedezetéül szolgáló ingatlan hitelbiztosítéki értékét megállapító értékbecslőnek rendelkeznie kell
+
+- a) ingatlanvagyon-értékelő és -közvetítői szakképesítéssel vagy
+- b) az a) pontban foglaltakkal egyenértékű szakképesítéssel.
 
 ### A hitelszerződés formai és tartalmi követelményei
 
@@ -218,7 +281,8 @@ a fogyasztónak nyújtott hitelről
 - 21. az előtörlesztéshez való jogot, gyakorlásának módját, az előtörlesztés esetleges költségeinek fennállását és azok számítási módját,
 - 22. a hitelszerződésre vonatkozó felmondási jogot és annak következményeit,
 - 23. rendelkezésre áll-e a fogyasztó számára a szerződésből eredő jogviták peren kívüli rendezésére olyan lehetőség, amelynek a hitelező aláveti magát, valamint
-- 24. a felügyeleti hatóság nevét és székhelyét.
+- 24. a felügyeleti hatóság nevét és székhelyét, valamint
+- 25. ha a jelzáloghitel-szerződés alapján fennálló tartozás idegen pénznemben áll fenn, az átváltás lehetőségét vagy az árfolyamkockázatot korlátozó eszközöket.
 
 (2) Ha az (1) bekezdés 7. pontja szerinti egyes hitelkamatok alkalmazásának feltételei eltérnek egymástól, a hitelkamat módosításának gyakoriságára, feltételeire és eljárási szabályaira vonatkozó tájékoztatást valamennyi hitelkamat tekintetében meg kell adni.
 
@@ -296,6 +360,8 @@ alkalmazásával számított mértékig módosíthatja.
 
 (6) Az alkalmazni kívánt kamatváltoztatási, kamatfelár-változtatási mutatót vagy referencia-kamatlábat a hitelszerződésben kell meghatározni és az – ideértve annak bármely összetevőjét is – a kamatperiódust követően sem módosítható egyoldalúan. Abban az esetben azonban, ha a kamatváltoztatási, kamatfelár-változtatási mutató vagy referencia-kamatláb a kialakítását meghatározó körülményekben bekövetkezett lényeges változás miatt a rendeltetésére alkalmatlanná vált, a Magyar Nemzeti Bank azt a honlapjáról törli és egyidejűleg megjelöli az azt helyettesítő kamatváltoztatási, kamatfelár-változtatási mutatót vagy referencia-kamatlábat.
 
+(7) A hitelező nyilvántartja és honlapján elérhetővé teszi a kamat kiszámításához általa felhasznált referencia-kamatláb, kamatváltoztatási és kamatfelár-változtatási mutatók korábbi adatait, valamint alkalmazásának időszakát.
+
 17/E. § (1) A hitelező a kamaton kívül a fogyasztó terhére csak olyan költséget állapíthat meg és módosíthat – annak növekedésével arányosan – a fogyasztó számára hátrányosan, amelyet a szerződésben tételesen meghatározott, és amely költség a szerződés megkötése, módosítása és a fogyasztóval való kapcsolattartás során közvetlenül a fogyasztó érdekében, harmadik személy szolgáltatásával összefüggésben a fogyasztóra áthárítható módon merült fel.
 
 (2) A hitelező a kamaton kívül díj fizetését – ide nem értve a hitel folyósításához, a hitelkeret rendelkezésre tartásához, valamint a fogyasztó általi előtörlesztéshez közvetlenül kapcsolódó költségei fejében e törvény szerint megállapítható díjat – a hitelszerződésben tételesen rögzített módon, a szerződéskötéssel, a szerződés módosításával és megszüntetésével, valamint ügyviteli költségeivel összefüggésben köthet ki, és e díjat legfeljebb a Központi Statisztikai Hivatal által közzétett előző évi éves fogyasztói árindex mértékével emelheti.
@@ -308,9 +374,9 @@ alkalmazásával számított mértékig módosíthatja.
 
 ### A hitel költségeinek módosítására vonatkozó tájékoztatási kötelezettség
 
-18. § (1) A hitel kamatfeltételeinek módosítása esetén a hitelező – a (3) és (4) bekezdés szerinti kivétellel – a kamatperiódus lejártát megelőző legalább 90 nappal köteles tájékoztatni a fogyasztót
+18. § (1) A hitel kamatfeltételeinek módosítása esetén a hitelező – a (3) és (4) bekezdésben meghatározott kivétellel – a kamatperiódus lejártát megelőző legalább 90 nappal köteles papíron vagy más tartós adathordozón tájékoztatni a fogyasztót
 
-- a) az új kamatperiódusban alkalmazott kamat vagy kamatfelár mértékéről,
+- a) az új kamatperiódusban alkalmazott kamat vagy kamatfelár mértékéről, valamint
 - b) a módosítást követően fizetendő törlesztőrészletek várható összegéről, és ha ennek kapcsán a törlesztőrészletek száma vagy a törlesztés gyakorisága változik, ennek tényéről.
 
 (2) A kamaton kívüli díj vagy költség módosítása esetén – a (3) és (4) bekezdés szerinti kivétellel – a módosítás hatálybalépését megelőző legalább 30 nappal kell a fogyasztóval közölni a módosítás tényét, a díj vagy költség új mértékét és az (1) bekezdés b) pontja szerinti tájékoztatást.
@@ -318,6 +384,8 @@ alkalmazásával számított mértékig módosíthatja.
 (3) Állami kamattámogatással nyújtott hitel esetén a hitelkamatot, díjat vagy költséget érintő módosítást a módosítás hatálybalépését megelőzően legalább 15 nappal hirdetményben kell közzétenni.
 
 (4) A referencia-kamatlábhoz kötött hitelkamat esetén a felek az (1) bekezdéstől eltérően a hitelszerződésben megállapodhatnak arról, hogy a hitelező a fogyasztót rendszeresen a honlapján és az ügyfelek számára nyitva álló helyiségében kifüggesztve tájékoztatja a referencia-kamatláb változásáról.
+
+(4a) Jelzáloghitel és ingatlanra vonatkozó pénzügyi lízing esetén a hitelező a referencia-kamatláb változásakor az új törlesztőrészlet összegéről a fogyasztó részére papíron vagy más tartós adathordozón tájékoztatást ad.
 
 (5) Ha a hitelszerződés elektronikus okirati formában kerül megkötésre, akkor
 
@@ -373,6 +441,8 @@ azzal, hogy a közlési határidő nem vagy késedelmes teljesítése – a fogy
 
 (3) Jelzáloghitel-szerződés felmondását megelőzően a hitelező az (1) bekezdésben meghatározott írásbeli fizetési felszólítással és tájékoztatással egyidejűleg köteles a fogyasztónak bemutatni a fogyasztó által a szerződés megkötésétől kezdődően – egyes évekre összesítve, de a fogyasztó külön kérésére havi bontásban is – teljesített törlesztő részletek, a visszafizetett tőkeösszeg, az elszámolt kamat, késedelmi kamat és egyéb költségek, továbbá a tőkésített kamat és a fennálló tartozás alakulását.
 
+(4) Jelzáloghitel fedezetéül szolgáló ingatlanra történő végrehajtás elkerülése érdekében a hitelező belső szabályzatában rögzíti a szükséges intézkedéseket, így különösen a fogyasztó megkeresését és a késedelmes tartozás kiegyenlítésének végrehajtási eljáráson kívüli rendezésének megkísérlését.
+
 20/C. § (1) A lakáscélú hitelszerződés esetében a szerződés felmondását követő kilencvenedik nap eltelte után a pénzügyi intézmény a fogyasztó nem teljesítése miatt a felmondás napját megelőző napon érvényes ügyleti kamatot, költséget és díjat meghaladó mértékű késedelmi kamatot, költséget és díjat nem számíthat fel.
 
 (2) Ha az (1) bekezdés szerinti szerződés deviza alapú, és a szerződés annak felmondása esetére a fennálló tartozás összegének forintban történő meghatározását írja elő, az (1) bekezdést azzal az eltéréssel kell alkalmazni, hogy a felmondást követő kilencvenedik napot követően a hitelező a fogyasztó nem teljesítése miatt, a felmondás napján érvényes ügyleti kamatot és kezelési költséget meghaladó mértékű késedelmi kamatot, költséget vagy díjat nem számíthat fel.
@@ -389,7 +459,7 @@ azzal, hogy a közlési határidő nem vagy késedelmes teljesítése – a fogy
 
 (5) A fogyasztó elállása esetén a hitelező a (4) bekezdés szerinti összegen kívül kizárólag arra az összegre jogosult, amelyet az államnak vagy önkormányzatnak a hitellel kapcsolatosan megfizetett, ha annak visszatérítésére nincs mód.
 
-(6) A fogyasztó elállási jogának gyakorlása azt a hitelhez kapcsolódó járulékos szolgáltatásra vonatkozó szerződést is felbontja, amely a hitelező által vagy egy harmadik fél és a hitelező előzetes megállapodása alapján a harmadik fél által nyújtott szolgáltatásra vonatkozik.
+(6) A fogyasztó elállási jogának gyakorlása azt a hitelhez kapcsolódó szolgáltatásra vonatkozó szerződést is felbontja, amely a hitelező által vagy egy harmadik fél és a hitelező előzetes megállapodása alapján a harmadik fél által nyújtott szolgáltatásra vonatkozik.
 
 ### A deviza alapú hitelekre vonatkozó rendelkezések
 
@@ -412,6 +482,59 @@ alapján történik.
 
 (5) E § rendelkezéseit nem kell alkalmazni, ha a törlesztőrészlet fizetésére devizában kerül sor.
 
+### Idegen pénznemben fennálló tartozás átváltása
+
+21/C. § (1) Ha a jelzáloghitel-szerződés alapján fennálló tartozás olyan pénznemben áll fenn, amelyet idegen pénznemnek kell tekinteni, a fogyasztó minden negyedév utolsó napjával egyoldalú jognyilatkozattal dönthet a szerződés alapján fennálló tartozás pénznemének (3) bekezdés a) pontja – vagy ha a hitelszerződés úgy rendelkezik, a (3) bekezdés b) pontja – szerinti módosításáról.
+
+(2) Idegen pénznemben fennálló tartozás az a tartozás, amelynek
+
+- a) pénzneme eltér attól a pénznemtől, amelyben a fogyasztó a hitel visszafizetéséhez felhasználandó jövedelmének több mint 50 százalékát szerzi, vagy amelyben a hitel visszafizetéséhez szükséges vagyonának több mint 50 százalékát tartja, vagy
+- b) pénzneme eltér a fogyasztó állandó lakóhelye szerinti tagállam hivatalos pénznemétől.
+
+(3) A fogyasztó által az átváltással kapcsolatosan választható pénznem
+
+- a) az a pénznem, amelyben a fogyasztó a hitel visszafizetéséhez felhasználandó jövedelmének több mint 50 százalékát szerzi vagy amelyben a hitel visszafizetéséhez szükséges vagyonának több mint 50 százalékát tartja a hitelszerződés megkötése céljából végzett legutóbbi hitelképesség-vizsgálat dokumentumai alapján, illetve
+- b) a fogyasztónak a hitelszerződés megkötésekor vagy a pénznem módosításakor bejelentett lakóhelye szerinti pénznem
+
+lehet, amelyről a felek a hitelszerződésben rendelkezhetnek.
+
+(4) A hitelező a hitelszerződésben a rendelkezésre álló hiteltermékeire tekintettel korlátozhatja a fogyasztó által a (3) bekezdés szerint választható devizanemeket.
+
+(5) A hitelező a hitelszerződésben kikötheti az átváltással kapcsolatosan felmerülő költségeinek a fogyasztó általi megtérítését, a fennálló tartozás összegének legfeljebb 2 százalékáig.
+
+(6) Ha a fogyasztó fennálló tartozását olyan pénznemre kívánja átváltani, amely eltér attól a pénznemtől, amelyben a hitel fedezetéül szolgáló ingatlan értékesítésére sor kerülhet, a hitelező a tartozás átváltása esetére a szerződésben pótfedezet nyújtását kötheti ki.
+
+(7) A fogyasztó által megjelölt pénznem esetén a fennálló tartozás átszámítása az átváltásra vonatkozó nyilatkozat benyújtásának napján érvényes, a 21/B. § (1) és (2) bekezdésében meghatározott, vagy a fogyasztó számára ennél kedvezőbb árfolyam alkalmazásával történik. Az átváltásnál alkalmazható árfolyamtól a felek a hitelszerződésben eltérhetnek.
+
+(8) A tartozás átváltott pénzneme szerinti fizetési kötelezettség a fogyasztó (1) bekezdés szerinti nyilatkozatának a hitelezőhöz történő megérkezését követő második törlesztőrészlet megfizetésének esedékességével áll be.
+
+(9) A felek a hitelszerződésben e § alkalmazásától akkor térhetnek el, ha a hitelező a fogyasztó számára a hitelszerződésben más olyan lehetőséget biztosít, amely alkalmas a fogyasztó kockázati kitettségének olyan mértékű korlátozására, amelynek eredményeként a fogyasztó árfolyamkockázata a tíz százalékot nem haladja meg.
+
+21/D. § (1) Az idegen pénznemben fennálló tartozás átváltása esetén a kamatot
+
+- a) fix kamat esetén fix kamatozásúként,
+- b) a referencia-kamatlábhoz kötött kamat esetén referencia-kamatozásúként,
+- c) a kamatperiódusonként rögzített kamat esetén kamatperiódusonként rögzített módon
+
+kell megállapítani.
+
+(2) A referencia-kamatlábhoz kötött hitelszerződés esetén az átváltott pénznemhez tartozó referencia-kamatlábat, valamint a kamatfelár-változtatási mutatót úgy kell meghatározni, hogy az tartalmilag – így különösen az alapul szolgáló kamatláb futamidejét tekintve – megfeleljen a a tartozás pénzneme módosulását megelőzően alkalmazott referencia-kamatlábnak, valamint kamatfelár-változtatási mutatónak. Ha a módosított referencia-kamatláb a módosítás hatálybalépésének napján magasabb, mint a pénznem módosulását megelőzően alkalmazott referencia-kamatláb, akkor a különbözetet a kamatfelár terhére kell érvényesíteni.
+
+(3) A kamatperiódusonként rögzített hitelkamatozású hitelszerződés esetén a kamatváltoztatási mutatót úgy kell meghatározni, hogy az tartalmilag megfeleljen az eredeti kamatváltoztatási mutatónak.
+
+(4) Az a díj, jutalék és költség, amelyet a hitelszerződés a tartozás átváltását megelőzően érvényesen tartalmazott, a tartozás átváltását követően is a szerződés része marad.
+
+(5) A tartozás pénznemének módosítása nem minősül szerződésmódosításnak, azt közjegyzői okiratba foglalni nem kell, a korábbi közjegyzői okirat a tartozás pénzneme módosításának keretei között érvényes.
+
+21/E. § (1) Idegen pénznemben fennálló tartozás esetén a hitelező papíron vagy más tartós adathordozón figyelmezteti a fogyasztót, ha a még fennálló, a fogyasztó által fizetendő teljes összeg vagy a rendszeresen fizetendő törlesztőrészlet összege több mint 20%-kal eltér attól az összegtől, mint amennyi a hitelszerződés megkötésekor érvényes árfolyam alapján lenne. A figyelmeztetésben tájékoztatni kell a fogyasztót az általa fizetendő teljes összeg emelkedéséről és
+
+- a) a tartozás más pénznemre történő átváltásának lehetőségéről, ennek feltételeiről, vagy
+- b) az árfolyamváltozás adós számára kedvezőtlen hatásainak megszüntetésére vonatkozó egyéb lehetőségekről.
+
+(2) A hitelező az (1) bekezdésnél kisebb mértékű árfolyamnövekedés esetén is figyelmeztetheti a fogyasztót a kockázat mérséklésének lehetőségére.
+
+(3) Idegen pénznemben fennálló tartozás esetén az átváltás lehetőségét és az árfolyamkockázatot korlátozó eszközöket a személyre szóló tájékoztatás során és a hitelszerződésben is ismertetni kell. A személyre szóló tájékoztatónak tartalmaznia kell egy szemléltető példát arra, hogy milyen hatással jár a fogyasztóra nézve az árfolyam 20%-os változása azokban az esetekben, ha a hitelszerződés nem korlátozza a fogyasztót érintő árfolyamkockázatot 20%-nál alacsonyabb árfolyamváltozásra.
+
 ### Kapcsolt hitelszerződés
 
 22. § (1) A fogyasztó – az Európai Unió kötelező jogi aktusának átültetése céljából elfogadott – jogszabályi rendelkezésen alapuló elállási jogának gyakorlása egy termék értékesítésére vagy szolgáltatás nyújtására vonatkozó szerződés tekintetében a kapcsolt hitelszerződést is felbontja.
@@ -433,7 +556,7 @@ alapján történik.
 
 (2) Előtörlesztés esetén a hitelező csökkenti a hitel teljes díját az előtörlesztett részlet vonatkozásában a hitelszerződés eredeti lejárata szerint fennmaradó időtartamára vonatkozó hitelkamattal, és hitelkamaton kívüli minden egyéb ellenszolgáltatással.
 
-24. § (1) A hitelező jogosult az előtörlesztéshez közvetlenül kapcsolódó, esetleges, méltányos és objektíve indokolt költségeinek megtérítésére, ha az előtörlesztés olyan időszakra esik, amikor a hitelkamat rögzített.
+24. § (1) A hitelező jogosult az előtörlesztéshez közvetlenül kapcsolódó, esetlegesen felmerült méltányos és objektíven indokolható költségeinek megtérítésére, ha az előtörlesztés olyan időszakra esik, amikor a hitelkamat rögzített.
 
 (2) Az (1) bekezdésben meghatározott költségek mértéke nem haladhatja meg az előtörlesztett összeg egy százalékát, ha az előtörlesztés időpontja és a hitel hitelszerződés szerinti lejáratának időpontja közötti időtartam meghaladja az egy évet.
 
@@ -447,19 +570,19 @@ alapján történik.
 
 (7) Nem illeti meg a hitelezőt az (1) bekezdés szerinti költségtérítés, ha tizenkét hónap alatt egy alkalommal a fogyasztó által teljesített előtörlesztés összege nem haladja meg a kétszázezer forintot.
 
-25. § (1) Jelzáloghitel előtörlesztése esetén a hitelező jogosult az előtörlesztés miatt keletkező költségeinek megtérítésére. Az érvényesített költségek mértéke – a (2) bekezdésben meghatározott eltéréssel – nem haladhatja meg az előtörlesztett összeg 2 százalékát.
+25. § (1) Jelzáloghitel előtörlesztése esetén a hitelező jogosult az előtörlesztéshez közvetlenül kapcsolódó, esetlegesen felmerült, méltányos költségeinek megtérítésére. Az érvényesített költségek összege nem haladhatja meg a hitelező pénzügyi veszteségét és mértéke – a (2) bekezdésben meghatározott eltéréssel – nem haladhatja meg az előtörlesztett összeg 1,5 százalékát.
 
-(2) Jelzáloglevéllel finanszírozott kölcsönszerződés esetén – ideértve a jelzálog-hitelintézet által refinanszírozott kölcsönszerződést is – a hitelező jogosult az előtörlesztéssel kapcsolatos, az (1) bekezdésben meghatározott mértéket meghaladó költségét is érvényesíteni, ha az előtörlesztés olyan időszakra esik, amikor a jelzáloghitel kamata rögzített, vagy változó kamatú és az előtörlesztésre a kamatperióduson belül kerül sor. Az érvényesített költségek mértéke ebben az esetben nem haladhatja meg az előtörlesztett összeg 2,5 százalékát.
+(2) Jelzáloglevéllel finanszírozott kölcsönszerződés esetén – ideértve a jelzálog-hitelintézet által refinanszírozott kölcsönszerződést is – a hitelező jogosult az előtörlesztéshez közvetlenül kapcsolódó, esetlegesen felmerült, méltányos költségeit az (1) bekezdésben meghatározott mértéket meghaladóan is érvényesíteni, ha az előtörlesztés olyan időszakra esik, amikor a jelzáloghitel kamata rögzített vagy változó kamatú és az előtörlesztésre a kamatperióduson belül kerül sor. Az érvényesített költségek mértéke ebben az esetben nem haladhatja meg az előtörlesztett összeg 2 százalékát.
 
 (3) Az (1) vagy a (2) bekezdésben meghatározott költségen felül a hitelező az előtörlesztés során semmilyen további fizetési kötelezettséget nem írhat elő.
 
-(4) Lakáscélú jelzáloghitel esetében az érvényesített költségek mértéke az (1) bekezdés esetében az előtörlesztett összeg 1%-át, a (2) bekezdés esetében az előtörlesztett összeg 1,5%-át nem haladhatja meg, kivéve, ha a részleges vagy teljes előtörlesztés – részben vagy egészben – más pénzügyi intézmény által folyósított kölcsönből történik.
+(4)
 
 (5) Nem illeti meg a hitelezőt az (1) vagy a (2) bekezdés szerinti költségtérítés, ha az előtörlesztés visszafizetési biztosítékként kötött biztosítási szerződés alapján történt.
 
-(6) Nem illeti meg a hitelezőt az (1) vagy a (2) bekezdés szerinti költségtérítés a fogyasztó részleges vagy teljes előtörlesztése (végtörlesztése) esetén, ha a fogyasztó fennálló tartozása nem haladja meg az egymillió forintot és a megelőző tizenkét hónap alatt előtörlesztést nem teljesített.
+(6)–(7)
 
-(7) Lakáscélú jelzáloghitel esetében nem illeti meg a hitelezőt az (1) vagy a (2) bekezdés szerinti költségtérítés a szerződés hatálybalépésétől számított huszonnégy hónapot követően teljesített első részleges, vagy teljes előtörlesztés (végtörlesztés) alkalmával, kivéve, ha a részleges vagy teljes előtörlesztés (végtörlesztés) – részben vagy egészben – más pénzügyi intézmény által folyósított kölcsönből történik, vagy ha az előtörlesztett összeg meghaladja a kölcsönszerződésben meghatározott kölcsönösszeg felét.
+(8) Ha a fogyasztó jelzi előtörlesztési szándékát, a hitelező köteles papíron vagy más tartós adathordozón a fogyasztó rendelkezésére bocsátani az előtörlesztésre vonatkozó információkat, annak következményeinek számszerűsítését és a következmények megállapításánál alkalmazott ésszerű és indokolható feltételezéseket, ideértve a 24. § (1) bekezdés vagy az (1) és (2) bekezdés szerint érvényesíthető költségeket és azok megállapításának módját is.
 
 ### Hiteltúllépés
 
@@ -510,11 +633,15 @@ alapján történik.
 
 - a) a teljes hiteldíj mutató meghatározására, számítására és közzétételére vonatkozó részletes szabályokat;
 - b) a hitelképesség vizsgálatának részletes szabályait – ide nem értve a jövedelemarányos törlesztőrészletet – továbbá az ingatlan-, gépjárműhitelek és pénzügyi lízingügyletek maximális hitelfedezeti arányára vonatkozó szabályokat,
+- c) a hiteltanácsadás nyújtásának részletes szabályait,
+- d) jelzáloghitel és ingatlanra vonatkozó pénzügyi lízing nyújtása vagy közvetítése esetén a hitelező, a hitelközvetítő és a közvetítői alvállalkozó eljárására, az általuk foglalkoztatott személyek végzettségére, szakképesítésére, belső képzésére és díjazására vonatkozó előírások részletes szabályait.
 
 30/A. § Felhatalmazást kap a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter, hogy rendeletben határozza meg
 
 - a) a hitelszerződéshez kapcsolódó fogyasztói kezességi szerződés és fogyasztói zálogszerződés esetén a kezes és a személyes adósnak nem minősülő zálogkötelezett tekintetében a tájékoztatási kötelezettség részletes szabályait,
-- b) 5. §-ban szabályozott felvilágosítás módjának és tartalmának részletes szabályait.
+- b) 5. §-ban szabályozott felvilágosítás módjának és tartalmának részletes szabályait,
+- c) a jelzáloghitel és a pénzügyi lízing igénylése esetén a fogyasztó részére nyújtott általános és személyre szóló tájékoztatásra vonatkozó részletes szabályokat,
+- d) a termőföldön kívüli egyéb ingatlanok hitelbiztosítéki értéke meghatározásának módszertani elveit.
 
 31. § (1) E törvény – a (2)–(3) bekezdésben meghatározott kivétellel – a kihirdetését követő 15. napon lép hatályba.
 
@@ -564,12 +691,15 @@ alapján történik.
 
 34. § E törvénynek a Módtv.-nyel megállapított 17/A–17/F. §-át, 18. §-át, 20/A–20/C. §-ait, 21/B. §-át, 28. § (5) bekezdését, 29/A. §-át, valamint 33. §-át a 2004. május 1. napja után kötött, meg nem szűnt fogyasztói szerződésekre kell alkalmazni.
 
-#### 35–37. §
+35. § E törvénynek – a pénzügyi közvetítőrendszer egyes szereplőit érintő törvények jogharmonizációs célú módosításáról szóló 2015. évi CCXV. törvénnyel megállapított – 14/A. §-át, 17/D. § (7) bekezdését, 18. § (1) és (4a) bekezdését, 21/C–21/E. §-át és 25. § (1), (2) és (8) bekezdését a hatálybalépést követően kötött hitelszerződések esetén kell alkalmazni.
+
+#### 36–37. §
 
 38. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 - a) az Európai Parlament és a Tanács 2008/48/EK irányelve (2008. április 23.) a fogyasztói hitelmegállapodásokról és a 87/102/EGK tanácsi irányelv hatályon kívül helyezéséről (1. § 2. § (1)–(2) bekezdése, 3–11. §, 14–16. §, 17. § (1) és (3) bekezdése, 18–24. §, 26–32. §, 34. §, 36–38. § továbbá az 1. és 2. melléklet,
-- b) a Bizottság 2001/193/EK ajánlása (2001. március 1.) a fogyasztóknak a lakáshitel szerződések megkötését megelőzően nyújtandó tájékoztatásról (a 12. § és a 3. melléklet).
+- b) a Bizottság 2001/193/EK ajánlása (2001. március 1.) a fogyasztóknak a lakáshitel szerződések megkötését megelőzően nyújtandó tájékoztatásról (a 12. § és a 3. melléklet),
+- c) az Európai Parlament és a Tanács 2014/17/EU irányelve (2014. február 4.) a lakóingatlanokhoz kapcsolódó fogyasztói hitelmegállapodásokról, valamint a 2008/48/EK és a 2013/36/EU irányelv és az 1093/2010/EU rendelet módosításáról.
 
 ### 1. melléklet a 2009. évi CLXII. törvényhez
 
@@ -605,7 +735,7 @@ alapján történik.
 | 3. A hitellel kapcsolatos ellenszolgáltatás |  |
 | hitelkamat vagy hitelkamatok | ...% ... [rögzített vagy változó hitelkamat; utóbbi esetén a kiinduló referencia-kamatláb mértéke; az egyes hitelkamatok időtartamai] |
 | teljes hiteldíj mutató (THM) a hitel teljes díjának aránya a hitel teljes összegéhez éves százalékában kifejezve; a THM a különböző ajánlatok összehasonlítását segíti | ...% ... [a reprezentatív példa valamennyi feltétele] |
-| hitelszerződés megkötéséhez szükséges – biztosítási vagy – egyéb járulékos szolgáltatási szerződés fennállása ha a hitelező e szolgáltatások ellenszolgáltatását nem ismeri, azok a THM-ben nem szerepelnek | igen/nem [ha igen, annak típusa] ... igen/nem [ha igen, annak típusa] ... |
+| hitelszerződés megkötéséhez szükséges – biztosítási vagy – egyéb kapcsolódó szolgáltatási szerződés fennállása ha a hitelező e szolgáltatások ellenszolgáltatását nem ismeri, azok a THM-ben nem szerepelnek | igen/nem [ha igen, annak típusa] ... igen/nem [ha igen, annak típusa] ... |
 | hitelkamaton kívüli minden ellenszolgáltatás, ideértve a díjat, jutalékot, költséget | ... |
 | adott esetben egy vagy több fizetési számla szükséges a hitelszerződés megkötéséhez | ... |
 | adott esetben a készpénz-helyettesítő fizetési eszközhöz kapcsolódó valamennyi jutalék, díj, költség vagy egyéb fizetési kötelezettség | ... |
@@ -686,42 +816,3 @@ alapján történik.
 | szerződésből eredő jogviták peren kívüli rendezésére rendelkezésre álló olyan lehetőség, amelynek a hitelező aláveti magát | ... |
 
 ### 3. melléklet a 2009. évi CLXII. törvényhez
-
-#### I. Általános tájékoztatás a jelzáloghitelekről
-
-- 1. A hitelezővel kapcsolatos adatok:
-- 1.1. a hitelező neve (cégneve) és címe (székhelye),
-- 1.2. amennyiben van, a hitelközvetítő neve (cégneve) és címe (székhelye).
-- 2. A jelzáloghitellel kapcsolatos adatok:
-- 2.1. felhasználási célok, amelyre a hitel fordítható,
-- 2.2. a jelzáloghitel biztosítékai,
-- 2.3. a hitelező által kínált jelzáloghitelek típusai, a rögzített és a változó kamatozású hitelek közötti különbségek rövid ismertetésével beleértve a fogyasztót érintő hatásokat; alkalmazása esetén kamatfelár, kamatváltoztatási vagy kamatfelár-változtatási mutató,
-- 2.4. a kamatozás típusai: rögzített, változó és ezek kombinációi,
-- 2.5. egy tipikus jelzáloghitel fogyasztót terhelő költsége,
-- 2.6. a jelzáloghitelhez kapcsolódó költségek listája, például: adminisztratív, biztosítási, jogi és közvetítői költségek,
-- 2.7. a hitelező által kínált törlesztési lehetőségek, beleértve a törlesztőrészletek számát, összegét és a törlesztés gyakoriságát,
-- 2.8. az előtörlesztés lehetősége és annak feltételei,
-- 2.9. szükséges-e a fedezetül szolgáló ingatlan értékelése, ha igen, ki végzi el,
-- 2.10. a lakáshitelek törlesztéséhez kapcsolódó adókedvezményre és egyéb állami támogatásra vonatkozó általános tájékoztatás, illetve tájékoztatás arról, hogy hol lehet további felvilágosítást kapni,
-- 2.11. adott esetben a hitelbírálat időtartama.
-
-#### II. Személyes tájékoztatás a jelzáloghitelről
-
-| Megnevezés | Leírás |
-| --- | --- |
-| Bevezető szöveg | „Jelen tájékoztató nem minősül jogilag kötelező érvényű ajánlatnak. A tájékoztatóban szereplő adatokat a hitelező jóhiszeműen nyújtja és azon ajánlatát tükrözik, amelyet a rendelkezésre álló információk alapján a jelenlegi piaci feltételek mellett tenne. Az adatok a piaci feltételek változása esetén megváltozhatnak. A tájékoztató nem kötelezi a hitelezőt a hitel jóváhagyására.” |
-| 1. Hitelező |  |
-| 2. A termék leírása | A termék rövid, érthető bemutatása Egyértelművé kell tenni, hogy ingatlanon alapított jelzálogjogról, vagy más általánosan alkalmazott biztosítékról van-e szó. Egyértelművé kell tenni, hogy a kínált hitelnél a tőketartozás megfizetése csak a futamidő végén egy összegben esedékes, vagy a hitel futamideje alatt kamatot és tőkét is törleszt a fogyasztó. Egyértelművé kell tenni, hogy a hitel feltételei függnek-e attól, hogy a fogyasztó mekkora önerővel rendelkezik (pl. a lakás értékének arányában kifejezve). Egyértelműen jelezni kell, hogy a hitelfeltételek függenek-e harmadik fél által vállalt kezességtől. |
-| 3. Kamat (feltüntetve a kamat típusát és a rögzített kamatperiódus időtartamát) | Változó kamat esetén annak bemutatása, hogy milyen esetben változhat. Van-e kedvezményes kamatozású időszak és ehhez milyen feltételek, bírságok kapcsolódnak előtörlesztés esetén. Van-e felső és alsó határa a kamatlábnak. Változó kamatláb esetén indexált kamatlábról van-e szó, és ha igen, az indexálás részletei. |
-| 4. Teljes hiteldíj mutató |  |
-| 5. A hitel összege és devizaneme |  |
-| 6. A futamidő |  |
-| 7. A törlesztések száma és gyakorisága |  |
-| 8. Állandó (annuitásos) törlesztés esetén az egyes törlesztőrészletek összege |  |
-| 9. Csak kamattörlesztéses, befektetéssel kombinált hitelek esetén | Türelmi idő biztosítása esetén fel kell tüntetni: a) az egyes kamatfizetések összegét és gyakoriságát (lásd 7. pont), b) a tőketörlesztéshez igénybe vett befektetésbe történő fizetések összege és gyakorisága (lásd 7. pont) Fel kell hívni a fogyasztó figyelmét, ha előfordulhat, hogy a befektetésbe befizetett összeg nem fedezi a kölcsön összegét. Egyértelművé kell tenni, hogy az ajánlat függ-e attól, hogy a fogyasztó elfogadja-e a befektetési formát. |
-| 10. Egyéb egyszeri költségek | Azon egyszeri költségek felsorolása, amelyeket az fogyasztónak meg kell fizetnie a jelzáloghitel felvételéhez. Ha az egyszeri költségek a hitelezők közvetett vagy közvetlen ellenőrzése alá tartoznak, meg kell adni a költségek becsült összegét. Fel kell tüntetni, hogy a költség kifizetése függ-e a hitelbírálat eredményétől. Egyszeri költségek pl.: ügyintézési költségek, jogi díjak, közjegyzői díj, értékbecslés díja. Jelezni kell, ha az ajánlat függ attól, hogy a hitelhez kapcsolódó szolgáltatásokat a fogyasztó a hitelezőn keresztül veszi-e igénybe. |
-| 11. Egyéb rendszeres költségek (amelyeket a 8. pont nem tartalmaz) | E költségek pl.: – hitelfedezeti biztosítás díja, – tűzkár elleni biztosítás díja, – ingatlan és ingóság biztosításának díja. Jelezni kell, ha az ajánlat függ attól, hogy a kölcsönhöz kapcsolódó szolgáltatásokat a fogyasztó a hitelezőn keresztül veszi-e igénybe. |
-| 12. Előtörlesztés | A hitelezőnek jeleznie kell: – az előtörlesztés lehetőségét és feltételeit, – az előtörlesztéssel kapcsolatos díjakat. Ha nem lehet ebben a szakaszban meghatározni a díjat, jelezni kell, hogy a fogyasztónak meg kell fizetnie a hitelező lejárat előtti visszafizetéssel járó költségeit. |
-| 13. Belső panaszkezelés | A kapcsolattartó neve, címe és telefonszáma |
-| 14. Törlesztési táblázat | A hitelezőnek biztosítania kell egy szemléltető, összefoglaló törlesztési táblázatot, amely legalább a következőket tartalmazza: – a havi vagy negyedéves törlesztőrészleteket (az adott esetben) az első évre vonatkozóan, – az éves törlesztéseket a kölcsön teljes futamideje alatt. A táblázatban fel kell tüntetni a következő adatokat: – visszafizetett tőke összege, – a kamat összege, – a fennmaradó tőke összege, – az egyes törlesztőrészletek összege, – a tőke és a kamatok összege. Egyértelműen fel kell tüntetni, hogy a táblázat szemléltetés céljából készült, továbbá fel kell hívni a figyelmet arra, ha az ajánlott hitel kamata változó. |
-| 15. Fizetési számla | Egyértelműen fel kell tüntetni, hogy kötelező-e a fogyasztónak a hitelezőnél számlát vezetnie, illetőleg a jövedelmét a hitelezőnél vezetett számlára utaltatnia. |
