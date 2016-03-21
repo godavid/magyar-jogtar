@@ -62,7 +62,8 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 - b) fizetési rendszer működtetése;
 - c) pénzfeldolgozási tevékenység;
 - d) pénzügyi ügynöki tevékenység a bankközi piacon;
-- e) forgatható utalvány kibocsátására irányuló tevékenység.
+- e) forgatható utalvány kibocsátására irányuló tevékenység;
+- f) hitel-tanácsadási tevékenység.
 
 (3) Ha törvény másként nem rendelkezik, kizárólag a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró MNB-nek (a továbbiakban: Felügyelet) az e törvény alapján kiadott engedélyével végezhető az (1) és (2) bekezdésben meghatározott pénzügyi szolgáltatás, valamint kiegészítő pénzügyi szolgáltatás.
 
@@ -123,7 +124,7 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 - 28. fogyasztó: az önálló foglalkozásán és gazdasági tevékenységén kívül eső célok érdekében eljáró természetes személy;
 - 29. forgatható utalvány: minden olyan, az utalványkibocsátóval szembeni pénzkövetelést megtestesítő bankjegynek, 55. pont szerinti készpénz-helyettesítő fizetési eszköznek és értékpapírnak nem minősülő, átruházható és többször felhasználható, papír alapú fizetési eszköz, amely áruk vagy szolgáltatások ellenértékének a kiegyenlítésére szolgál;
 - 30. forgatható utalvány kibocsátására irányuló tevékenység: pénzeszköz ellenében a forgatható utalványnak az utalványkibocsátó által közvetlenül vagy utalványforgalmazó útján az utalványbirtokos rendelkezésére bocsátása;
-- 31. főiroda: az a hely, ahol a pénzügyi intézmény főtevékenységét végzi, és ahol a központi döntéshozatal történik;
+- 31. főiroda: az a hely, ahol a pénzügyi intézmény, illetve a közvetítő főtevékenységét végzi, és ahol a központi döntéshozatal történik;
 - 32. globálisan rendszerszinten jelentős hitelintézet: olyan rendszerszinten jelentős hitelintézet, amelynek fizetésképtelenné válása vagy nem prudens működése globális szintű rendszerkockázathoz vezethet és amelynek nincs
   - a) EU-szintű hitelintézeti anyavállalata,
   - b) EU-szintű pénzügyi holding társaság anyavállalata,
@@ -133,7 +134,7 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 - 35. harmadik országbeli hitelintézet: az a hitelintézet, amely a székhely állam szerinti jogszabályi rendelkezéseknek megfelelően engedéllyel rendelkezik olyan tevékenységek végzésére, amelyek megfeleltethetők a 3. § (1) bekezdés a), b), d), e) vagy f) pontjában foglaltaknak, és amelynek székhelye harmadik országban van;
 - 36. harmadik országbeli pénzügyi intézmény: a harmadik országbeli hitelintézet és a harmadik országbeli pénzügyi vállalkozás;
 - 37. harmadik országbeli pénzügyi vállalkozás: az a pénzügyi vállalkozás, amely a székhely állam szerinti jogszabályi rendelkezéseknek megfelelően engedéllyel rendelkezik egy vagy több olyan tevékenység végzésére, amelyek megfeleltethetők a 3. § (1) bekezdés b)–c) és g)–l) pontjában, valamint a (2) bekezdés a)–d) pontjában foglaltaknak, és amelynek székhelye harmadik országban van;
-- 38. határon átnyúló szolgáltatás: olyan pénzügyi, illetve kiegészítő pénzügyi szolgáltatás nyújtása, amikor a szolgáltatás nyújtása nem a szolgáltatást nyújtó pénzügyi intézmény székhelyével, telephelyével, főirodájával, fióktelepével azonos országban történik, és a szolgáltatást igénybe vevő ügyfél telephelye, lakóhelye (lakcíme) sem abban az országban van, amelyben a szolgáltatást nyújtó pénzügyi intézmény székhelye, telephelye, főirodája, fióktelepe;
+- 38. határon átnyúló szolgáltatás: olyan pénzügyi, illetve kiegészítő pénzügyi szolgáltatás nyújtása, amikor a szolgáltatás nyújtása nem a szolgáltatást nyújtó székhelyével, telephelyével, főirodájával, fióktelepével azonos országban történik, és a szolgáltatást igénybe vevő ügyfél telephelye, lakóhelye (lakcíme) sem abban az országban van, amelyben a szolgáltatást nyújtó székhelye, telephelye, főirodája, fióktelepe;
 - 39. helyreállítási terv: olyan terv, amelyben foglalt a hitelintézet által végrehajtandó lépések a likviditást vagy a fizetőképességet (szolvenciát) súlyosan veszélyeztető állapot esetén – rendkívüli állami pénzügyi támogatás igénybevétele nélkül – biztosítják a hitelintézet pénzügyi helyzetének stabilizálódását;
 - 40. hitel és pénzkölcsön nyújtása:
   - a) hitelnyújtás: a hitelező és az adós között írásban létesített hitelszerződés alapján meghatározott hitelkeret rendelkezésre tartása az adós részére, jutalék ellenében és a hitelező kötelezettségvállalása meghatározott szerződési feltételek megléte esetén a kölcsönszerződés megkötésére vagy egyéb hitelművelet végzésére,
@@ -143,6 +144,7 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 - 42. hitelreferencia-szolgáltatás:
   - a) banktitkot nem sértő bankinformáció díjazás ellenében történő nyújtása vagy
   - b) a központi hitelinformációs rendszerről szóló törvényben meghatározott központi hitelinformációs rendszert kezelő pénzügyi vállalkozás által történő adatkezelés;
+- 42a. hiteltanácsadás: a jelzáloghitelhez vagy a fogyasztónak nyújtott ingatlanra vonatkozó pénzügyi lízinghez kapcsolódó – a hitel és pénzkölcsön, valamint pénzügyi lízing nyújtásától, továbbá a pénzügyi szolgáltatás közvetítésétől elkülönülő – személyre szabott ajánlások adása;
 - 43. illetékes felügyeleti hatóság: az 575/2013/EU rendeletben illetékes hatóságként meghatározott fogalom;
 - 44. induló tőke: a jegyzett tőke – ide nem értve az osztalékelsőbbségi, a nyereséges évben az elmúlt év(ek) elmaradt hozamkifizetésére is feljogosító jegyzett és befizetett részvények névértékét –, a tőketartalék és az eredménytartalék összege; az alapítványi formában működő pénzügyi vállalkozás esetén az alapítvány létesítéséhez az alapító által tartósan, korlátlanul, tehermentesen az alapítványi cél megvalósítása érdekében az alapítvány rendelkezésére bocsátott tőke;
 - 45. intézményspecifikus anticiklikus tőkepuffer-követelmény: a hitelintézeti tevékenység prociklikusságának a csökkentésére irányuló, az ügyfél – akivel szemben a hitelezési kitettség fennáll – elhelyezkedésének figyelembevételével számított szavatolótőke-követelmény;
@@ -151,7 +153,7 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 - 48. járulékos vállalkozás: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 - 49. jegyzett tőke: az Szmt. 35. § (3) bekezdése szerint meghatározott tőke;
 - 50. jelzáloghitel: a fogyasztó részére ingatlanon alapított jelzálogjog – ideértve az önálló zálogjogként alapított zálogjogot is – fedezete mellett nyújtott hitel vagy kölcsön;
-- 51. jó üzleti hírnév: a pénzügyi intézmény és a vegyes pénzügyi holding társaság vezetőinek, befolyásoló részesedéssel rendelkező tagjainak a pénzügyi intézmény és a vegyes pénzügyi holding társaság irányítására és tulajdonlására való alkalmasságát igazoló feltételek megléte;
+- 51. jó üzleti hírnév: a pénzügyi intézmény, a vegyes pénzügyi holding társaság, illetve a közvetítő vezetőinek, befolyásoló részesedéssel rendelkező tagjainak a pénzügyi intézmény, a vegyes pénzügyi holding társaság, illetve a közvetítő irányítására és tulajdonlására való alkalmasságát igazoló feltételek megléte;
 - 52. kamat: az adós által a kölcsönnyújtónak (betételhelyezőnek) az elfogadott betét vagy az igénybe vett kölcsön használatáért, kockázatáért fizetendő, a betét- vagy kölcsönösszeg százalékában meghatározott, időarányosan térítendő (elszámolandó) pénzösszeg vagy egyéb hozadék;
 - 53. kereskedési könyv: az 575/2013/EU rendeletben ekként alkalmazott fogalom;
 - 54. készpénzátutalás: fizetési számla megnyitása nélkül a fizető fél által befizetett pénz utalása a kedvezményezett vagy a kedvezményezett megbízásából eljáró pénzforgalmi szolgáltató részére abból a célból, hogy a pénz a kedvezményezett részére kifizetésre kerüljön;
@@ -178,6 +180,7 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 - 64. központi szervhez tartósan kapcsolt hitelintézet: az 575/2013/EU rendelet 10. cikkének megfelelő mentesítést kapó hitelintézet;
 - 65. központi szerződő fél: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 - 66. közvetett tulajdon: egy vállalkozás tulajdoni hányadának, vagy szavazati jogának a vállalkozásban tulajdoni részesedéssel vagy szavazati joggal rendelkező más vállalkozás (a 3. melléklet alkalmazásában: köztes vállalkozás) tulajdoni hányadán vagy szavazati jogán keresztül történő birtoklása vagy gyakorlása;
+- 66a. közvetítői alvállalkozó: közvetítővel pénzügyi szolgáltatás közvetítése tevékenységi körében megbízási szerződést kötött jogi személy, egyéni cég és egyéni vállalkozó;
 - 67. közvetítői díj: minden olyan pénzben vagy természetben juttatott térítés, amelyet a közvetítő akár az ügyféltől, akár a pénzügyi szolgáltatást nyújtó személytől az ügyfél és a pénzügyi szolgáltatást nyújtó személy között létrejött pénzügyi szolgáltatásra vonatkozó megállapodás érvényes létrejöttéért és meghatározott esetekben annak teljesítéséért, illetve meghatározott időtartamig történő fennállásáért kap;
 - 68. közvetlen banküzemi célt szolgáló vállalkozás: egy vagy több hitelintézet vagy pénzügyi vállalkozás üzemviteléhez, zavartalan működéséhez nélkülözhetetlen fejlesztést, beszerzést, értékesítést, ipari szolgáltatást és termékelőállítást végző, illetve biztonsági feladatokat ellátó vállalkozás;
 - 69. kritikus funkció: azok a tevékenységek, szolgáltatások és működési folyamatok, amelyek megszűnése vagy korlátozottan megvalósítható helyettesíthetősége a hitelintézet vagy a csoport méretéből, piaci részesedéséből, külső és belső összekapcsolódásából, összetettségéből vagy határon átnyúlásából fakadóan Magyarországon vagy más EGT-államban valószínűsíthetően megzavarná a gazdaság vagy a pénzügyi piacok működését;
@@ -219,6 +222,7 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
   - b) ügynöki tevékenység: pénzügyi intézménnyel kötött megbízási szerződés alapján pénzügyi szolgáltatás, kiegészítő pénzügyi szolgáltatás nyújtásának, ilyen szolgáltatásra irányuló szerződés megkötésének elősegítésére irányuló tevékenység, amelynek során a pénzügyi intézmény kockázatára önállóan kötelezettséget nem vállalnak, szerződést nem kötnek;
   - c) pénzforgalmi közvetítői tevékenység: az egyes fizetési szolgáltatókról szóló törvényben meghatározott tevékenység;
   - d) alkuszi tevékenység: pénzügyi szolgáltatást igénybe venni szándékozó ügyféllel kötött megbízási szerződés alapján és nevében pénzügyi intézménnyel történő pénzügyi szolgáltatási szerződés kiválasztására, megkötésének elősegítésére irányuló tevékenység, amely nem terjed ki az ügyfél nevében, javára történő kockázatvállalásra;
+  - e) jelzáloghitel közvetítői tevékenység: az a), b) vagy d) pontban foglalt tevékenységnek a jelzáloghitelhez vagy a fogyasztónak nyújtott ingatlanra vonatkozó pénzügyi lízinghez kapcsolódó végzése;
 - 91. pénzügyi ügynöki tevékenység bankközi piacon: bankközi piaci résztvevők közötti forint-, illetve devizahitel- és betétügylet, deviza-adásvétel közvetítése annak érdekében, hogy a hitelintézetek, továbbá más bankközi piaci résztvevők az erre irányuló jogügyleteket egymással közvetlenül megkössék;
 - 92. pénzváltási tevékenység: külföldi fizetőeszközök adásvétele a törvényes fizetési eszköz ellenében, valamint külföldi fizetési eszközök adásvétele külföldi fizetési eszközök ellenében. Nem minősül pénzváltási tevékenységnek a pénzforgalmi szolgáltatáshoz kapcsolódó pénznemek pénzforgalmi szolgáltató által történő átváltása, a külföldi pénznemre szóló, forgalomban lévő vagy forgalomban lévőre még átcserélhető pénzérmék és bankjegyek numizmatikai célú forgalmazása, valamint belkereskedelemben az áruval, vagy szolgáltatással kapcsolatos ügyletekre vonatkozó fizetések teljesítése;
 - 93. referencia-kamatláb: bármilyen alkalmazandó kamat számításának alapjául szolgáló, a nyilvánosság számára hozzáférhető mindenkori kamatláb, amelynek mértékére a hitelezőnek nincs ráhatása;
@@ -268,7 +272,8 @@ azzal, hogy nem minősül versengő szolgáltatásnak a kézizálog fedezete mel
   - c) részvénytársasági vagy szövetkezeti formában működő pénzügyi vállalkozás esetén az igazgatóság elnöke, a felügyelő bizottság elnöke és az ügyvezető,
   - d) fióktelep esetén a fióktelep vezetésére a külföldi pénzügyi intézmény által kinevezett személy és annak közvetlen helyettese,
   - e) az alapítványi formában működő pénzügyi vállalkozás esetén a kuratórium tagja, a felügyelő bizottság elnöke, valamint az ügyvezető, valamint
-  - f) független közvetítő esetén a pénzügyi szolgáltatás közvetítésének irányítását végző személy, valamint valamennyi helyettese;
+  - f) független közvetítő esetén a pénzügyi szolgáltatás közvetítésének irányítását végző személy, valamint valamennyi helyettese,
+  - g) jelzáloghitel közvetítői tevékenységet végző közvetítő esetén az irányítási jogkörrel rendelkező vezető testület tagja, a pénzügyi szolgáltatás közvetítésének irányítását végző személy és valamennyi helyettese,
 - 123. vezető testület: a pénzügyi intézmény igazgatósága és felügyelő bizottsága, valamint annak vezetői és tagjai, ideértve a fióktelep formájában működő pénzügyi intézmény vezető állású személyeit is.
 
 (2) A X. Fejezet alkalmazásában
@@ -325,7 +330,7 @@ azzal, hogy nem minősül versengő szolgáltatásnak a kézizálog fedezete mel
 
 (3) A pénzügyi intézmény, ha törvény másként nem rendelkezik, pénzügyi szolgáltatáson kívül üzletszerűen kizárólag:
 
-- a) a 3. § (2) bekezdés a)–d) pontjában meghatározott kiegészítő pénzügyi szolgáltatási tevékenységet,
+- a) a 3. § (2) bekezdés a)–d) és f) pontjában meghatározott kiegészítő pénzügyi szolgáltatási tevékenységet,
 - b) a biztosítási tevékenységről szóló törvényben foglalt feltételekkel biztosításközvetítői tevékenységet,
 - c) Tpt.-ben meghatározott feltételekkel értékpapír-kölcsönzést, részvényesi meghatalmazotti (nominee) tevékenységet, Bszt.-ben meghatározott feltételekkel befektetési szolgáltatási tevékenységet, befektetési szolgáltatási tevékenységet kiegészítő szolgáltatást, valamint a Bszt. 111–116. §-a szerinti közvetítői tevékenységet és árutőzsdei szolgáltató által végezhető tevékenységet,
 - d) aranykereskedelmi ügyletet,
@@ -365,7 +370,7 @@ végezhet.
 
 (8) A hitelszövetkezet a (6) bekezdésben meghatározott tevékenységeket – a pénzváltás kivételével – csak saját tagjai körében végezheti.
 
-(9) Harmadik országbeli hitelintézet fióktelepe útján a 3. § (1) bekezdésében, illetve a 3. § (2) bekezdés a)–d) pontjában meghatározott tevékenységet végezhet, ha ezek végzésére a székhelye szerinti illetékes felügyeleti hatóságtól engedéllyel rendelkezik.
+(9) Harmadik országbeli hitelintézet fióktelepe útján a 3. § (1) bekezdésében, illetve a 3. § (2) bekezdés a)–d) és f) pontjában meghatározott tevékenységet végezhet, ha ezek végzésére a székhelye szerinti illetékes felügyeleti hatóságtól engedéllyel rendelkezik.
 
 (10) Hitelintézet nyilvános forrásgyűjtés céljából – betét elfogadásán kívül – kizárólag kötvényt és letéti jegyet bocsáthat ki.
 
@@ -378,7 +383,7 @@ végezhet.
 
 (2) Pénzügyi ügynöki tevékenységet a bankközi piacon pénzügyi vállalkozás csak kizárólagos tevékenységként végezheti.
 
-(3) Külföldi pénzügyi vállalkozás fióktelepe útján a 3. § (1) bekezdés b)–c), g)–l) pontjában, illetve a 3. § (2) bekezdés a)–d) pontjában meghatározott tevékenységet végezhet, ha ezek végzésére a székhelye szerinti illetékes felügyeleti hatóságtól engedéllyel rendelkezik.
+(3) Külföldi pénzügyi vállalkozás fióktelepe útján a 3. § (1) bekezdés b) és c), valamint g)–l) pontjában, illetve a 3. § (2) bekezdés a)–d) és f) pontjában meghatározott tevékenységet végezhet, ha ezek végzésére a székhelye szerinti illetékes felügyeleti hatóságtól engedéllyel rendelkezik.
 
 (4) Az alapítványi formában működő pénzügyi vállalkozás gazdasági tevékenysége keretében kizárólag a 3. § (1) bekezdés
 
@@ -405,11 +410,13 @@ végez (a továbbiakban együtt: függő közvetítő), vagy
 
 végez (a továbbiakban együtt: független közvetítő).
 
+(1a) Az (1) bekezdéstől eltérően függő közvetítőnek minősül az a jelzáloghitel közvetítői tevékenységet végző közvetítő is, aki több pénzügyi intézmény – ideértve a pénzügyi intézmények csoportját is – megbízásából közvetít jelzáloghitelt vagy fogyasztónak nyújtott ingatlanra vonatkozó pénzügyi lízinget, ha a megbízó pénzügyi intézmények a jelzáloghitel vagy a fogyasztónak nyújtott ingatlanra vonatkozó pénzügyi lízing nyújtása tekintetében a rendelkezésre álló állományi adatok szerint együttesen nem teszik ki a magyarországi piac többségét.
+
 (2) Pénzforgalmi közvetítői tevékenység az egyes fizetési szolgáltatókról szóló törvény alapján végezhető.
 
-(3) Közvetítővel – ide nem értve a pénzügyi intézményt és a biztosítót – pénzügyi szolgáltatás közvetítése tevékenységi körében megbízási szerződést kötött jogi személy, egyéni cég és egyéni vállalkozó (a továbbiakban: közvetítői alvállalkozó) ezen ügyletek teljesítéséhez további megbízási szerződést nem jogosult kötni. Közvetítővel jogviszonyban álló közvetítői alvállalkozó pénzügyi szolgáltatási tevékenység végzésére irányuló további jogviszonyt pénzügyi intézménnyel vagy más közvetítővel nem létesíthet.
+(3) A közvetítői alvállalkozó – ide nem értve a pénzügyi intézményt és a biztosítót – a pénzügyi szolgáltatás közvetítése teljesítéséhez további megbízási szerződést nem köthet. Közvetítővel jogviszonyban álló közvetítői alvállalkozó pénzügyi szolgáltatási tevékenység végzésére irányuló további jogviszonyt pénzügyi intézménnyel vagy más közvetítővel nem létesíthet.
 
-(4) A független közvetítő a pénzügyi szolgáltatás közvetítését kizárólag a Felügyelet e törvényben meghatározott engedélyével végezheti.
+(4) A független közvetítő, valamint a jelzáloghitel közvetítői tevékenységet végző függő közvetítő a pénzügyi szolgáltatás közvetítését kizárólag a Felügyelet e törvényben meghatározott engedélyével végezheti.
 
 ### II. Fejezet — ENGEDÉLYEZÉS ÁLTALÁNOS SZABÁLYAI
 
@@ -419,7 +426,7 @@ végez (a továbbiakban együtt: független közvetítő).
 
 (2) A pénzügyi intézményre a Ptk. jogi személyekre vonatkozó rendelkezéseit, a fióktelep formájában működő pénzügyi intézményre az Fkt. rendelkezéseit az e törvényben foglalt eltérésekkel szükséges alkalmazni.
 
-(3) A pénzügyi intézmény, amelynek székhelye Magyarország területén található, a főirodáját is Magyarország területén létesíti.
+(3) A pénzügyi intézmény, illetve a jelzáloghitel közvetítői tevékenységet végző közvetítő, amelynek székhelye Magyarország területén található, a főirodáját is Magyarország területén létesíti.
 
 (4) A pénzügyi szolgáltatás közvetítését – az (5) bekezdésben meghatározott kivétellel – bármely jogi személy, és egyéni vállalkozó is végezheti.
 
@@ -684,40 +691,42 @@ induló tőkével alapítható.
 
 #### 13. Függő és független közvetítő engedélyezése, bejelentése
 
-21. § (1) A függő ügynök a Felügyelet engedélye nélkül végezhet ügynöki tevékenységet.
+21. § (1) A függő ügynök – ide nem értve a jelzáloghitel közvetítői tevékenységet végző függő ügynököt – a Felügyelet engedélye nélkül végezhet ügynöki tevékenységet.
 
 (2) A pénzügyi intézmény az általa megbízott függő ügynök, többes ügynök és közvetítői alvállalkozó személyét, valamint az alkusz az általa megbízott közvetítői alvállalkozó személyét a Felügyelet által meghatározott módon és gyakorisággal bejelenti a Felügyeletnek.
 
-(3) Független közvetítő csak olyan jogi személy, egyéni cég és egyéni vállalkozó lehet,
+(3) Független közvetítő, valamint jelzáloghitel közvetítői tevékenységet végző függő közvetítő – ide nem értve a hitelintézetet – csak olyan jogi személy, egyéni cég és egyéni vállalkozó lehet,
 
 - a) akinek vezető állású személye – ideértve az egyéni vállalkozót is –
   - aa) büntetlen előéletű,
-  - ab) legalább három év szakirányú szakmai gyakorlattal rendelkezik, valamint – az (5) bekezdésben meghatározott eltéréssel – megfelel a 74. §-ban foglalt szakmai követelményeknek,
-- b) akinek a tevékenységéből eredő károk biztosítására – az (5) bekezdésben meghatározott eltéréssel – mindenkor legalább káreseményenként ötmillió forint, illetve évente együttesen legalább ötvenmillió forint összegű felelősségbiztosítása rendelkezésre áll.
+  - ab) jó üzleti hírnévvel rendelkezik,
+  - ac) legalább három év szakirányú szakmai gyakorlattal, valamint a közvetítőkre előírt szakmai végzettséggel rendelkezik,
+- b) akinek mindenkor rendelkezésére áll a tevékenységéből eredő károk biztosításához szükséges felelősségbiztosítás.
 
-(4) A (3) bekezdésben meghatározottakon kívül a többes kiemelt közvetítő és az alkusz rendelkezik a pénzmosás megelőzésére és a terrorizmus finanszírozásának megakadályozására vonatkozó szabályzattal és eljárásrenddel.
+(4) A közvetítő tevékenységéből eredő károk biztosításához szükséges felelősségbiztosítás összege jelzáloghitel közvetítői tevékenységet nem végző
 
-(5) Az alkusz akkor kap engedélyt, ha rendelkezik
+- a) többes kiemelt közvetítőnél és többes ügynöknél mindenkor legalább káreseményenként ötmillió forint, illetve évente együttesen legalább ötvenmillió forint,
+- b) alkusznál mindenkor legalább káreseményenként tízmillió forint, illetve évente együttesen legalább százmillió forint.
 
-- a) a vezető állású személye szakirányú felsőfokú iskolai végzettséggel [155. § (3) bekezdés], és
-- b) a tevékenységéből eredő károk biztosítására mindenkor legalább káreseményenként tízmillió forint, illetve évente együttesen legalább százmillió forint összegű felelősségbiztosítással.
+(5) A (3) bekezdésben meghatározottakon kívül a többes kiemelt közvetítő és az alkusz rendelkezik a pénzmosás megelőzésére és a terrorizmus finanszírozásának megakadályozására vonatkozó szabályzattal és eljárásrenddel.
 
-(6) Az (3) bekezdés a) pontja alkalmazása szempontjából szakirányú szakmai gyakorlatként pénzügyi intézménynél, közvetítőnél tisztségviselőként vagy pénzügyi szolgáltatási, közvetítői szakterületen alkalmazottként, egyéni vállalkozóként vagy munkavégzésre irányuló egyéb jogviszonyban eltöltött gyakorlat vehető figyelembe. Külföldön szerzett szakmai gyakorlat akkor vehető figyelembe, ha megszerzésére pénzügyi intézménynek, illetve közvetítőnek megfeleltethető intézménynél került sor.
+(6) A (3) bekezdés a) pont ac) alpontja alkalmazása szempontjából szakirányú szakmai gyakorlatként pénzügyi intézménynél, közvetítőnél tisztségviselőként vagy pénzügyi szolgáltatási, közvetítői szakterületen alkalmazottként, egyéni vállalkozóként vagy munkavégzésre irányuló egyéb jogviszonyban eltöltött gyakorlat vehető figyelembe. Külföldön szerzett szakmai gyakorlat akkor vehető figyelembe, ha megszerzésére pénzügyi intézménynek, illetve közvetítőnek megfeleltethető intézménynél került sor.
 
-(7) Független közvetítőként történő működésre jogosító engedély iránti kérelemhez a kérelmező mellékeli
+(7) Független közvetítőként és jelzáloghitel közvetítői tevékenységet végző függő közvetítőként történő működésre jogosító engedély iránti kérelemhez a kérelmező mellékeli
 
 - a) a 2. mellékletben meghatározott azonosító adatait,
 - b) a kérelem benyújtásakor hatályos létesítő okiratát, harminc napnál nem régebbi okirati igazolást arról, hogy a személyes joga szerinti bejegyzése (nyilvántartásba vétele) megtörtént, nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt, valamint vezető állású személye megfelel a (3) bekezdés a) pontjában foglalt követelményeknek,
-- c) a nyilatkozatát, hogy rendelkezik a szolgáltatás nyújtásához szükséges személyi és tárgyi feltételekkel,
-- d) az általa végezni kívánt tevékenységre vonatkozó általános szerződési feltételeket is tartalmazó üzletszabályzatot,
-- e) a nyilatkozatát arra vonatkozóan, hogy a független közvetítőként történő működését mikor kívánja megkezdeni,
-- f) a nyilatkozatát arról, hogy a jogszabályban meghatározott vagy jogszabályon alapuló adatszolgáltatások teljesítésére felkészült,
-- g) a teljes bizonyító erejű magánokiratba foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárul az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának a Felügyelet által megkeresett szervek útján történő ellenőrzéséhez, valamint
-- h) a panaszkezelési szabályzatát.
+- c) nyilatkozatát arról, hogy a közvetítői tevékenysége irányítása Magyarországon létesített főirodában történik,
+- d) a nyilatkozatát, hogy rendelkezik a szolgáltatás nyújtásához szükséges személyi és tárgyi feltételekkel,
+- e) az általa végezni kívánt tevékenységre vonatkozó általános szerződési feltételeket is tartalmazó üzletszabályzatot,
+- f) a nyilatkozatát arra vonatkozóan, hogy a független közvetítőként vagy jelzáloghitel közvetítői tevékenységet végző függő közvetítőként történő működését mikor kívánja megkezdeni,
+- g) a nyilatkozatát arról, hogy a jogszabályban meghatározott vagy jogszabályon alapuló adatszolgáltatások teljesítésére felkészült,
+- h) a teljes bizonyító erejű magánokiratba foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárul az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának a Felügyelet által megkeresett szervek útján történő ellenőrzéséhez, valamint
+- i) a panaszkezelési szabályzatát.
 
 (8) Ha a kérelmező többes kiemelt közvetítőként kíván működni, a (7) bekezdésben meghatározottakon kívül a kérelemben igazolja az induló tőke teljes összegének rendelkezésre állását. Ha a kérelmező többes kiemelt közvetítőként vagy alkuszként kíván működni, a kérelemhez mellékeli a pénzmosás megelőzésére és a terrorizmus finanszírozásának megakadályozására vonatkozó szabályzatát és eljárásrendjét.
 
-(9) Ha a kérelmező az (7) bekezdés b) pontjában meghatározott adatot nem igazolja, a Felügyelet adatszolgáltatási kérelemmel fordul a szükséges adatokról nyilvántartást vezető magyarországi hatósághoz vagy bírósághoz.
+(9) Ha a kérelmező a (7) bekezdés b) pontjában meghatározott adatot nem igazolja, a Felügyelet adatszolgáltatási kérelemmel fordul a szükséges adatokról nyilvántartást vezető magyarországi hatósághoz vagy bírósághoz.
 
 22. § A 14. § (1) bekezdés h) pontjában és 15. § (1) bekezdés f) pontjában meghatározott esetben az engedély iránti kérelemhez a pénzügyi intézmény benyújtja az írásbeli szerződést, amely azt a szerződési kikötést is tartalmazza, hogy a Felügyelet, valamint a pénzügyi intézmény korlátozás nélkül ellenőrizheti a közvetítőnél a megbízás tárgyát képező tevékenységgel kapcsolatos gazdálkodást és az üzleti könyveket.
 
@@ -828,14 +837,15 @@ induló tőkével alapítható.
 
 (3) Hitelintézet tevékenységi engedélyét a Felügyelet a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter jóváhagyásával vonhatja vissza.
 
-34. § (1) A Felügyelet a független közvetítő tevékenységi engedélyét visszavonja, ha a közvetítő
+34. § (1) A Felügyelet a független közvetítő és a jelzáloghitel közvetítői tevékenységet végző függő közvetítő tevékenységi engedélyét visszavonja, ha a közvetítő
 
 - a) az e törvényben előírt működési feltételek bármelyikének nem felel meg,
 - b) nyilvántartása, illetve az éves beszámolója nem felel meg a valóságnak,
-- c) az engedély megadásától számított egy éven belül tevékenységét nem kezdte meg vagy a tevékenységet hat hónapon túl szünetelteti, vagy
-- d) a tevékenysége felfüggesztésének időtartama alatt a jogsértő helyzet megszüntetése érdekében tett felügyeleti intézkedések nem vezettek eredményre.
+- c) az engedély megadásától számított egy éven belül tevékenységét nem kezdte meg vagy a tevékenységet hat hónapon túl szünetelteti,
+- d) a tevékenysége felfüggesztésének időtartama alatt a jogsértő helyzet megszüntetése érdekében tett felügyeleti intézkedések nem vezettek eredményre, vagy
+- e) a tevékenységi engedélyét visszaadta.
 
-(2) A Felügyelet a független közvetítő tevékenységi engedélyét visszavonhatja, ha a közvetítő
+(2) A Felügyelet a független közvetítő és a jelzáloghitel közvetítői tevékenységet végző függő közvetítő tevékenységi engedélyét visszavonhatja, ha a közvetítő
 
 - a) működése súlyosan vagy ismétlődően megsérti az ügyfelek érdekeit, vagy
 - b) a tevékenységére vonatkozó jogszabályokat ismételten vagy súlyosan megsérti.
@@ -901,6 +911,26 @@ induló tőkével alapítható.
 - a) már nem felel meg a 15. § (4) bekezdésében foglalt feltételeknek, vagy
 - b) tevékenységi engedélyét visszavonta.
 
+37/A. § (1) A jelzáloghitel közvetítői tevékenységet végző közvetítő bejelenti a Felügyeletnek, ha másik EGT-államban jelzáloghitel közvetítői tevékenység végzésére fióktelepet kíván létesíteni.
+
+(2) A közvetítő pénzügyi vállalkozásnak kizárólag akkor jogosult másik EGT-államban fióktelepen keresztül közvetítői tevékenységet végezni, ha a pénzügyi vállalkozás megfelel a 15. § (4) bekezdésben meghatározott feltételeknek.
+
+(3) Az (1) bekezdés szerinti bejelentés tartalmazza
+
+- a) annak az EGT-államnak a megnevezését, amelyben a közvetítő a fióktelepet létesíteni kívánja,
+- b) a fióktelep szervezeti felépítésére, irányítására, ellenőrzési rendjére vonatkozó dokumentumokat,
+- c) a megbízó pénzügyi intézmények nevét,
+- d) a megbízó pénzügyi intézmény felelősségének körét a közvetítő e tevékenysége keretében okozott károkért,
+- e) az üzleti tervet,
+- f) a fióktelep irányítását ellátó felelős személyek megnevezését, valamint
+- g) a fióktelep címét.
+
+(4) Ha a Felügyelet rendelkezésére álló információk szerint a bejelentő közvetítő megfelel a jogszabályi előírásoknak, a Felügyelet a bejelentést követő egy hónapon belül írásban tájékoztatja az érintett EGT-állam illetékes felügyeleti hatóságát a közvetítő szándékáról. A tájékoztatásnak ki kell térnie arra is, hogy a közvetítő mely pénzügyi intézményekkel kötött megbízási szerződést. A Felügyelet a tájékoztatást egyidejűleg közli a bejelentő közvetítővel.
+
+(5) A közvetítő fióktelepe a Felügyelet tájékoztatásának kézhezvételét követő egy hónapot követően létrehozható és megkezdheti működését.
+
+(6) A Felügyelet tizennégy napon belül írásban tájékoztatja a másik EGT-állam illetékes felügyeleti hatóságát, ha az EGT-államban fiókteleppel rendelkező jelzáloghitel közvetítői tevékenységet végző közvetítő tevékenységi engedélyét visszavonta.
+
 #### 20. Rendszerszinten jelentős fióktelep
 
 38. § (1) Ha egy magyarországi székhelyű hitelintézet egy másik EGT-államban fióktelepet létesített vagy a Felügyelet a fióktelepet létesítő hitelintézet összevont alapú felügyeletet ellátó felügyeleti hatósága, akkor a másik EGT-állam illetékes felügyeleti hatósága kérelmére a Felügyelet a kérelmező felügyeleti hatósággal közösen a fióktelepet rendszerszinten jelentős fióktelepnek minősítheti.
@@ -948,7 +978,17 @@ induló tőkével alapítható.
 
 (7) Ha a Felügyelet a (3) bekezdés szerinti tájékoztatás elküldését megtagadja, ezt a bejelentés kézhezvételétől számított legkésőbb egy hónapon belül határozatban közli a bejelentő pénzügyi vállalkozással. A Felügyelet kizárólag abban az esetben tagadhatja meg a tájékoztatás elküldését, ha a 15. § (4) bekezdésében meghatározott feltételek nem állnak fenn.
 
-42. § Ha egy másik EGT-állam illetékes felügyeleti hatósága arról tájékoztatja a Felügyeletet, hogy a székhelyén bejegyzett pénzügyi intézmény Magyarországon fióktelepet nyit vagy Magyarországon határon átnyúló szolgáltatást kíván végezni, akkor a Felügyelet tájékoztatja a pénzügyi intézményt az ügyfelek védelmére vonatkozó rendelkezésekről, így különösen
+41/A. § (1) Ha határon átnyúló szolgáltatásként első ízben kíván a közvetítő jelzáloghitel közvetítői tevékenységet nyújtani egy másik EGT-államban, akkor ezen szándékát a Felügyeletnek előzetesen bejelenti.
+
+(2) A közvetítő pénzügyi vállalkozásnak kizárólag akkor jogosult másik EGT-államban határon átnyúló szolgáltatást végezni, ha a pénzügyi vállalkozás megfelel a 15. § (4) bekezdésében meghatározott feltételeknek.
+
+(3) A Felügyelet az (1) bekezdés szerinti bejelentés kézhezvételétől számított egy hónapon belül tájékoztatja a másik EGT-álam illetékes felügyeleti hatóságát a közvetítő által tervezett tevékenységről. A tájékoztatásnak ki kell térnie arra is, hogy a közvetítő mely pénzügyi intézményekkel kötött megbízási szerződést, valamint a közvetítő e tevékenysége során okozott kárért a megbízó pénzügyi intézmény felelősségének körére. A Felügyelet a tájékoztatást egyidejűleg közli a bejelentő közvetítővel.
+
+(4) A közvetítő a Felügyelet tájékoztatásának kézhezvételét követő egy hónapot követően megkezdheti a határon átnyúló szolgáltatás végzését.
+
+(5) Ha a Felügyelet a jelzáloghitel közvetítői tevékenységet végző közvetítő tevékenységi engedélyét visszavonta, tizennégy napon belül írásban tájékoztatja azon EGT-állam illetékes felügyeleti hatóságát, ahol a közvetítő határon átnyúló szolgáltatást nyújt.
+
+42. § Ha egy másik EGT-állam illetékes felügyeleti hatósága arról tájékoztatja a Felügyeletet, hogy a székhelyén bejegyzett pénzügyi intézmény, jelzáloghitel közvetítői tevékenységet végző közvetítő Magyarországon fióktelepet nyit vagy Magyarországon határon átnyúló szolgáltatást kíván végezni, akkor a Felügyelet tájékoztatja a pénzügyi intézményt, a közvetítőt az ügyfelek védelmére vonatkozó rendelkezésekről, így különösen
 
 - a) az ügyfelekkel szembeni tájékoztatási kötelezettségekről,
 - b) az üzletszabályzat követelményéről, valamint
@@ -1204,27 +1244,35 @@ szükséges sorolni azzal, hogy e követelések a követelések arányában ker�
 
 (2) A többes kiemelt közvetítő és a többes ügynök megbízója felel azért, hogy a megbízási szerződés pontosan, egyértelműen meghatározza a közvetítő által ellátandó feladatokat, az ügyfelek tájékoztatására vonatkozó követelményeket, továbbá azért, hogy minden, a megbízási szerződés megfelelő teljesítéséhez szükséges információt a közvetítő rendelkezésére bocsát.
 
-(3) A független közvetítő a pénzügyi szolgáltatás közvetítéséért közvetítői díjat kizárólag a megbízótól fogadhat el. E rendelkezés nem érinti a független közvetítő azon jogosultságát, hogy a pénzügyi szolgáltatás közvetítését igénybe vevő ügyfele számára más – a pénzügyi szolgáltatás közvetítésének nem minősülő – szolgáltatása ellenértékeként díjat számítson fel.
+(3) A független közvetítő a pénzügyi szolgáltatás közvetítéséért közvetítői díjat kizárólag a megbízótól fogadhat el. E rendelkezés nem érinti a független közvetítő azon jogosultságát, hogy a pénzügyi szolgáltatás közvetítését igénybe vevő ügyfele számára más – a pénzügyi szolgáltatás közvetítésének nem minősülő – szolgáltatása ellenértékeként díjat számítson fel azzal, hogy hitel-tanácsadási tevékenység nyújtása ellenértékeként kizárólag akkor jogosult díjat felszámítani, ha az általa ajánlott jelzáloghitel vagy fogyasztónak nyújtott ingatlanra vonatkozó pénzügyi lízing után az érintett pénzügyi intézménytől nem kap közvetítői díjat.
 
-(4) A közvetítői díj időbeni ütemezése – ide nem értve az alkusznak fizetendő közvetítői díjat – arányos a közvetített pénzügyi szolgáltatás futamidejével, valamint szerződésszerű teljesítésével.
+(4) A közvetítői díj időbeni ütemezése – ide nem értve az alkusznak fizetendő közvetítői díjat – arányos a közvetített pénzügyi szolgáltatás futamidejével, valamint szerződésszerű teljesítésével. Jelzáloghitel közvetítői tevékenységet végző független közvetítőt – ide nem értve az alkuszt – megillető közvetítői díj mértéke nem haladhatja meg az adott jelzáloghitel folyósításakor, illetve ingatlanra vonatkozó pénzügyi lízing nyújtásakor meghatározott tőketartozás (pénzügyi lízing esetében ideértve a maradványértéket is) kettő százalékát. Fennálló jelzáloghitel-szerződés, illetve ingatlanra vonatkozó pénzügyi lízingszerződés módosítása során eljáró független közvetítő tekintetében a közvetítői díj mértéke nem haladhatja meg a jelzáloghitel-szerződés módosításakor fennálló tőketartozás, illetve lízingszerződés alapján fennálló tartozás (ideértve a maradványértéket is) kettő százalékát. A független közvetítő a megbízó pénzügyi intézmény felé közvetítői díjat kizárólag az egyedi jelzáloghitelek és lízingszerződések alapján, egyedileg számíthat fel, egyéb módon (így különösen a folyósított állomány alapján) további díjazást nem számíthat fel.
 
 (5) A független közvetítő az ügyféllel kötött közvetítői szerződésről és a közvetített pénzügyi szolgáltatási szerződésről nyilvántartást vezet. A nyilvántartás tartalmazza a közvetített szerződés feleinek nevét, a szerződéskötés idejét, tárgyát, lényeges feltételeit. A független közvetítő a közvetítői tevékenységével kapcsolatos iratokat három évig megőrzi. Ez a kötelezettség nem érinti a számviteli bizonylat megőrzésére vonatkozó rendelkezéseket.
 
-(6) Az alkusz az alkuszi tevékenységen kívül más pénzügyi és kiegészítő pénzügyi szolgáltatást nem végezhet.
+(6) Az alkusz az alkuszi tevékenységen, valamint a hitel-tanácsadási tevékenységen kívül más pénzügyi és kiegészítő pénzügyi szolgáltatást nem végezhet.
 
 (7) A kizárólag magánszemélyek részére a mindennapi élet felszerelési tárgyainak, tartós fogyasztási cikkeinek (ide nem értve a gépjárművet) megvásárlásához nyújtott hitel- és pénzkölcsönt közvetítő többes ügynökre a 21. § (3) bekezdés b) pontjában, a 21. § (7) bekezdés d) pontjában, 73. §-ban , 74. §-ban, valamint 208. § (1) bekezdésében foglalt rendelkezéseket nem szükséges alkalmazni.
 
 (8) A független közvetítő felelősségbiztosítási szerződésének megszűnését bejelenti és új felelősségbiztosítási szerződésének meglétére vonatkozó fedezetigazolást bemutatja a megszűnést és a megkötést követő 5 munkanapon belül.
 
-70. § (1) A független közvetítő a pénzügyi szolgáltatás közvetítését megelőzően a szolgáltatását igénybe venni szándékozó ügyfél részére írásban egyértelmű tájékoztatást ad:
+70. § (1) A független közvetítő a pénzügyi szolgáltatás közvetítését megelőzően a szolgáltatását igénybe venni szándékozó ügyfél részére írásban vagy más tartós adathordozón egyértelmű tájékoztatást ad
 
-- a) a cégnevéről, székhelyéről és felügyeleti hatóságának megjelöléséről,
+- a) a cégnevéről, székhelyéről, levelezési címéről és felügyeleti hatóságának megjelöléséről,
 - b) a felügyeleti nyilvántartásról, amelyben szerepel, és annak módjáról, ahogyan nyilvántartását ellenőrizni lehet,
 - c) arról, hogy a tevékenysége során okozott kárért az ügyfél felé ki áll helyt,
-- d) arról, hogy többes kiemelt közvetítőként, többes ügynökként a pénzügyi intézmény megbízásából vagy alkuszként a pénzügyi szolgáltatást igénybe venni szándékozó ügyfél megbízásából jár el, valamint
-- e) arról, hogy a pénzügyi szolgáltatás közvetítéséért közvetítői díjat kizárólag a megbízótól fogadhat el.
+- d) arról, hogy többes kiemelt közvetítőként, többes ügynökként a pénzügyi intézmény megbízásából jár el a pénzügyi intézmény vagy a pénzügyi intézmények nevének feltüntetésével vagy alkuszként a pénzügyi szolgáltatást igénybe venni szándékozó ügyfél megbízásából jár el,
+- e) arról, hogy nyújt-e hiteltanácsadást,
+- f) arról, hogy a pénzügyi szolgáltatás közvetítéséért közvetítői díjat kizárólag a megbízótól fogadhat el,
+- g) többes kiemelt közvetítőként és többes ügynökként arról, hogy a megbízó pénzügyi intézménytől kap-e közvetítői díjat és
+  - ga) ha ismert, annak összegéről,
+  - gb) ha nem ismert a tájékoztatás időpontjában, jelzáloghitel közvetítése esetén arról, hogy a tényleges díj a személyre szóló tájékoztatóban fog szerepelni,
+- h) alkuszként a fogyasztó által fizetendő közvetítői díjról, ha annak megadása másként nem lehetséges a díj kiszámításának módjáról, valamint
+- i) adott esetben a közvetítővel kapcsolatos panasz kezeléséről, valamint fogyasztó esetében a Pénzügyi Békéltető Testület eljárásának igénybevételére vonatkozó lehetőségről.
 
-(2) Az (1) bekezdésben meghatározottak nem alkalmazandóak, ha a tájékoztatási kötelezettséget a fogyasztónak nyújtott hitelről szóló törvény rendelkezései írják elő.
+(2)
+
+(3) Pénzügyi intézménytől díjazásban részesülő független közvetítő a fogyasztó kérésére tájékoztatást ad arról, hogy mennyiben tér el egymástól a fogyasztónak kínált hiteleket nyújtó pénzügyi intézmények által fizetendő díjazás mértéke. A fogyasztót tájékoztatni kell arról, hogy jogosult ilyen információt kérni.
 
 71. § (1) A független közvetítő – ide nem értve az alkuszt – a pénzügyi szolgáltatási szerződés megkötésének elősegítése során az ügyfélnek kielégítő mennyiségű, de – ha a piacon hozzáférhető – legalább három szolgáltató versengő szolgáltatásnak minősülő ajánlatát elemzi és átadja. Ha kizárólag kettő versengő szolgáltatást közvetít, akkor kettő ajánlatot elemez és ad át.
 
@@ -1238,20 +1286,26 @@ szükséges sorolni azzal, hogy e követelések a követelések arányában ker�
 
 72. § (1) A kiemelt közvetítő és az általa az e tevékenységre igénybe vett, vele megbízási, illetve munkavégzésre irányuló egyéb jogviszonyban álló személy által e tevékenysége során okozott kárért a megbízó pénzügyi intézmény felel.
 
-(2) A függő közvetítő a pénzügyi szolgáltatás közvetítéséért kizárólag a megbízó pénzügyi intézménytől jogosult közvetítői díjra. E rendelkezés nem érinti a függő közvetítő azon jogosultságát, hogy a pénzügyi szolgáltatás közvetítését igénybe vevő ügyfele számára más – a pénzügyi szolgáltatás közvetítésének nem minősülő – szolgáltatása ellenértékeként díjat számítson fel.
+(2) A függő közvetítő a pénzügyi szolgáltatás közvetítéséért kizárólag a megbízó pénzügyi intézménytől jogosult közvetítői díjra. E rendelkezés nem érinti a függő közvetítő azon jogosultságát, hogy a pénzügyi szolgáltatás közvetítését igénybe vevő ügyfele számára más – a pénzügyi szolgáltatás közvetítésének nem minősülő – szolgáltatása ellenértékeként díjat számítson fel azzal, hogy hitel-tanácsadási tevékenység nyújtása ellenértékeként kizárólag akkor jogosult díjat felszámítani, ha az általa ajánlott jelzáloghitel vagy fogyasztónak nyújtott ingatlanra vonatkozó pénzügyi lízing után az érintett pénzügyi intézménytől nem kap közvetítői díjat.
 
-(3) A közvetítői díj időbeni ütemezése arányos a közvetített pénzügyi szolgáltatás futamidejével, valamint szerződésszerű teljesítésével.
+(3) A közvetítői díj időbeni ütemezése arányos a közvetített pénzügyi szolgáltatás futamidejével, valamint szerződésszerű teljesítésével. Jelzáloghitel közvetítői tevékenységet végző függő közvetítőt megillető közvetítői díj mértéke nem haladhatja meg az adott jelzáloghitel folyósításakor, illetve ingatlanra vonatkozó pénzügyi lízing nyújtásakor meghatározott tőketartozás (pénzügyi lízing esetében ideértve a maradványértéket is) kettő százalékát. Fennálló jelzáloghitel-szerződés, illetve ingatlanra vonatkozó pénzügyi lízingszerződés módosítása során eljáró függő közvetítő tekintetében a közvetítői díj mértéke nem haladhatja meg a jelzáloghitel-szerződés módosításakor fennálló tőketartozás, illetve lízingszerződés alapján fennálló tartozás (ideértve a maradványértéket is) kettő százalékát. A függő közvetítő a megbízó pénzügyi intézmény felé közvetítői díjat kizárólag az egyedi jelzáloghitelek és lízingszerződések alapján, egyedileg számíthat fel, egyéb módon (így különösen a folyósított állomány alapján) további díjazást nem számíthat fel.
 
-(4) A függő közvetítő a pénzügyi szolgáltatás közvetítését megelőzően az ügyfél részére tájékoztatást ad:
+(4) A függő közvetítő a pénzügyi szolgáltatás közvetítését megelőzően az ügyfél részére írásban vagy más tartós adathordozón tájékoztatást ad:
 
-- a) a cégnevéről, székhelyéről és felügyeleti hatóságának megjelöléséről,
-- b) a felügyeleti nyilvántartásról, amelyben szerepel, és annak módjáról, ahogyan nyilvántartását ellenőrizni lehet,
-- c) arról, hogy függő közvetítőként a megbízó nevében és javára jár el, a megbízó érdekeit képviseli, valamint
-- d) arról, hogy a pénzügyi szolgáltatási szerződés megkötéséért közvetítői díjazásban részesül.
+- a) a cégnevéről, székhelyéről, levelezési címéről és felügyeleti hatóságának megjelöléséről,
+- b) a felügyeleti nyilvántartásról, amelyben szerepel és annak módjáról, ahogyan nyilvántartását ellenőrizni lehet,
+- c) arról, hogy függő közvetítőként a megbízó nevében és javára jár el, a megbízó érdekeit képviseli a pénzügyi intézmény nevének feltüntetésével,
+- d) arról, hogy a pénzügyi szolgáltatási szerződés megkötéséért közvetítői díjazásban részesül és
+  - da) ha ismert annak összegéről,
+  - db) ha nem ismert a tájékoztatás időpontjában, jelzáloghitel közvetítése esetén arról, hogy a tényleges díj a személyre szóló tájékoztatóban fog szerepelni,
+- e) arról, hogy nyújt-e hiteltanácsadást, valamint
+- f) a közvetítővel kapcsolatos panasz kezeléséről, valamint fogyasztó esetében a Pénzügyi Békéltető Testület eljárásának igénybevételére vonatkozó lehetőségről.
 
-(5) A (4) bekezdésben meghatározottak nem alkalmazandóak, ha a tájékoztatási kötelezettséget a pénzforgalmi szolgáltatás nyújtásáról szóló törvény vagy a fogyasztónak nyújtott hitelről szóló törvény rendelkezései írják elő.
+(5)
 
 (6) A kizárólag magánszemélyek részére a mindennapi élet felszerelési tárgyainak, tartós fogyasztási cikkeinek (ide nem értve a gépjárművet) megvásárlásához nyújtott hitel- és pénzkölcsönt közvetítő függő ügynökre a 74. §-ban foglalt rendelkezéseket nem szükséges alkalmazni.
+
+72/A. § A közvetítő alvállalkozó tájékoztatást nyújt a fogyasztó megkeresésekor arról, hogy milyen minőségben jár el és melyik közvetítőt képviseli.
 
 #### 31. Függő és független közvetítő szakmai követelményei
 
@@ -1332,6 +1386,8 @@ a büntetett előélet jogkövetkezménye alóli mentesülésig,
 - a) legalább ötvenmillió forint készpénzből álló jegyzett tőkével rendelkezik,
 - b) részvénytársaságként vagy fióktelep formájában működik, és
 - c) megfelel a jogszabályban megállapított személyi és tárgyi feltételeknek.
+
+76/A. § Hitel-tanácsadási tevékenység végzésére csak jelzáloghitel vagy fogyasztónak nyújtott ingatlanra vonatkozó pénzügyi lízing nyújtására engedéllyel rendelkező pénzügyi intézmény, valamint jelzáloghitel közvetítői tevékenységet végző közvetítő kaphat engedélyt.
 
 #### 33. Fizetési rendszerhez történő hozzáférés
 
@@ -1435,6 +1491,8 @@ a büntetett előélet jogkövetkezménye alóli mentesülésig,
 85. § (1) A hitelintézet rendszeresen értékeli és minősíti eszközeit (befektetett pénzügyi eszközeit, követeléseit, értékpapírjait, illetve pénzeszközeit és készleteit) vállalt kötelezettségeit, valamint egyéb kihelyezéseit.
 
 (2) A hitelintézet – a hatályos jogszabályok és a szokásos banküzemi gyakorlat keretei között – mindent megtesz az esedékes, illetve lejárt követelése behajtására.
+
+85/A. § A pénzügyi intézménynek a kölcsön, illetve kezesség és bankgarancia, valamint egyéb bankári kötelezettség fedezetéül szolgáló termőföld hitelbiztosítéki értékét a termőföld hitelbiztosítéki értéke meghatározásának módszertani elveiről szóló miniszteri rendeletben meghatározott szabályoknak megfelelően kell megállapítania.
 
 #### 41. Tőkefenntartási puffer
 
@@ -3374,6 +3432,19 @@ rendelkező tulajdonosát, alapítványi formában működő pénzügyi vállalk
 
 (8) A (7) bekezdés alapján hozott intézkedések vagy kivételes intézkedések szükségességét a Felügyelet indokolja és azokról tájékoztatja az érintett EGT-állam illetékes felügyeleti hatóságát.
 
+199/A. § (1) A másik EGT-államban engedéllyel rendelkező jelzáloghitel közvetítői tevékenységet végző közvetítő fióktelepe felügyeletének ellátása során a Felügyelet ellenőrzi, hogy a fióktelep megfelel-e a fogyasztónak nyújtott hitelről szóló törvényben, valamint végrehajtására kiadott jogszabályokban foglalt követelményeknek.
+
+(2) Ha a Felügyelet megállapítja, hogy a közvetítő fióktelepe megsértette a fogyasztónak nyújtott hitelről szóló törvényben, valamint végrehajtására kiadott jogszabályokban foglalt követelményeket, akkor kötelezi a fióktelepet a jogsértő helyzet megszüntetésére. Ha a Felügyelet határozata ellenére a fióktelep nem szünteti meg a jogsértő helyzetet, a Felügyeletnek meg kell tennie a szükséges intézkedéseket a szabályellenes helyzet megszüntetésére, amelyről egyidejűleg tájékoztatja a másik EGT-állam illetékes felügyeleti hatóságát.
+
+(3) Ha a fióktelep a Felügyelet intézkedése ellenére továbbra is megsérti az (1) bekezdésben foglalt jogszabályi követelményeket, a Felügyelet megtilthatja a fióktelep számára jelzáloghitel közvetítői tevékenysége Magyarországon történő további folytatását, amelyről a Felügyelet haladéktalanul tájékoztatja az Európai Bizottságot.
+
+(4) Ha a másik EGT-államban engedéllyel rendelkező jelzáloghitel közvetítői tevékenységet végző közvetítő Magyarországon végzett határon átnyúló szolgáltatása megsérti a Magyarországon hatályos előírásokat vagy a fióktelepe megsérti az (1) bekezdésben foglalt jogszabályi követelményeken túli előírásokat vagy a Felügyelet hiányosságot észlel a fióktelep működésében, akkor arról a Felügyelet tájékoztatja a másik EGT-állam illetékes felügyeleti hatóságát.
+
+(5) Ha a másik EGT-állam illetékes felügyeleti hatósága a (4) bekezdés szerinti tájékoztatást követő egy hónapon belül nem teszi meg a szükséges intézkedéseket, vagy a másik EGT-állam illetékes felügyeleti hatósága által megtett lépések ellenére változatlanul fennáll a szabályellenes helyzet, valamint az ügyfelek érdekeinek veszélyeztetése, a Felügyelet
+
+- a) a szabályellenes helyzet megszüntetése érdekében közvetlenül is intézkedhet, melyről haladéktalanul tájékoztatja az EBH-t,
+- b) az európai felügyeleti hatóság (Európai Bankhatóság) létrehozásáról, a 716/2009/EK határozat módosításáról és a 2009/78/EK bizottsági határozat hatályon kívül helyezéséről szóló, 2010. november 24-i 1093/2010/EU európai parlamenti és tanácsi rendelet 19. cikke alapján az EBH-hoz fordulhat.
+
 #### 82. A Felügyelet adatkezelése
 
 200. § (1) A Felügyelet a pénzügyi közvetítő rendszer felügyeletével kapcsolatos feladatai ellátása céljából szükséges mértékben adatot kezelhet, ideértve az e törvényben meghatározott körben kezelt személyes adatot is.
@@ -3412,18 +3483,19 @@ rendelkező tulajdonosát, alapítványi formában működő pénzügyi vállalk
 - a) a neve, székhelye,
 - b) a tevékenység végzésének helye,
 - c) a tevékenység engedélyezésének, bejelentéshez kötött tevékenység esetén a bejelentés időpontja,
-- d) az az adat, hogy a nyilvántartásba vett kiemelt közvetítő, függő ügynök, többes kiemelt közvetítő, többes ügynök, alkusz vagy közvetítői alvállalkozó,
-- e) a közvetítőt megbízó pénzügyi intézmény neve,
+- d) az az adat, hogy a nyilvántartásba vett kiemelt közvetítő, függő ügynök, többes kiemelt közvetítő, többes ügynök, alkusz vagy közvetítői alvállalkozó, illetve az az adat, hogy a közvetítő jelzáloghitel közvetítői tevékenységet végez, a közvetítői alvállalkozó jelzáloghitel közvetítői tevékenységet végző közvetítő alvállalkozója;
+- e) a közvetítőt megbízó pénzügyi intézmény, illetve a közvetítői alvállalkozót megbízó közvetítő neve,
 - f) a közvetített szolgáltatás típusa,
 - g) a közvetítői alvállalkozó esetén a közvetítő neve,
-- h) a független közvetítőnél vezető állású személynek
+- h) a független közvetítőnél, jelzáloghitel közvetítői tevékenységet végző függő közvetítőnél vezető állású személynek
   - ha) a tisztsége,
   - hb) a 2. mellékletben meghatározott azonosító adatai közül a vezető állású személy neve, születési helye, ideje és anyja neve,
-- i) a 288. § (15) bekezdésben meghatározott fogyasztóvédelmi ügyekért felelős kapcsolattartó azonosító adatai közül a neve, postai és elektronikus elérhetősége.
+- i) a 288. § (15) bekezdésben meghatározott fogyasztóvédelmi ügyekért felelős kapcsolattartó azonosító adatai közül a neve, postai és elektronikus elérhetősége,
+- j) azon EGT-államok, amelyben a jelzáloghitel közvetítői tevékenységet végző fióktelepet létesített vagy határon átnyúló szolgáltatást végez.
 
 (2) A Felügyelet az (1) bekezdésben meghatározott adatok változását az adatváltozás bejelentését követően haladéktalanul átvezeti a nyilvántartáson.
 
-(3) Az (1) bekezdés a)–g) pontja szerinti adatot, továbbá a vezető állású személy (1) bekezdés h) pont ha) alpontja szerinti adatait a Felügyelet a honlapján bárki számára elérhetően, napra készen közzéteszi.
+(3) Az (1) bekezdés a)–g) és j) pontja szerinti adatot, továbbá a vezető állású személy (1) bekezdés h) pont ha) alpontja szerinti adatait és hb) alpontban foglalt adatok közül a nevét a Felügyelet a honlapján bárki számára elérhetően, napra készen közzéteszi.
 
 203. § (1) A Felügyelet a pénzügyi közvetítő rendszer felügyeletével kapcsolatos feladatai ellátása céljából banktitkot, üzleti titkot és egyéb adatot vagy információt kizárólag a 161. § (2) és (3) bekezdésben megjelölt szerveknek – törvényben meghatározott feladataik ellátásához szükséges mértékben –, valamint nemzetközi együttműködési megállapodásban foglaltak szerint szolgáltathat.
 
@@ -4329,6 +4401,8 @@ rendelkezhet.
 
 270. § Tilos a sorsolásra vonatkozó reklám. E tilalom nem vonatkozik a nyereménybetét-sorsolásra.
 
+270/A. § Hitel-tanácsadási tevékenységet végző pénzügyi intézmény, jelzáloghitel közvetítői tevékenységet végző függő közvetítő, valamint közvetítői alvállalkozó a kereskedelmi kommunikációjában nem használhatja a „hiteltanácsadás”, a „tanácsadás”, a „független tanácsadás”, a „hiteltanácsadó”, a „tanácsadó”, a „független tanácsadó” és más hasonló kifejezéseket.
+
 #### 117. Az ügyfelek tájékoztatása
 
 271. § (1) A pénzügyi intézmény az ügyfélfogadásra nyitva álló helyiségeiben hirdetményben közzéteszi, valamint elektronikus kereskedelmi szolgáltatások nyújtása esetén folyamatosan és könnyen hozzáférhető módon, elektronikus úton is elérhetővé teszi
@@ -4547,7 +4621,7 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 - b) az egységesített betéti kamatláb mutató számítására és közzétételére,
 - c) a 3. § (1) bekezdésében, valamint a 3. § (2) bekezdésében meghatározott pénzügyi szolgáltatások, illetve kiegészítő pénzügyi szolgáltatások folytatásához szükséges személyi és tárgyi feltételekre,
 - d) a hitelintézet nyilvánosságra hozatali követelményeinek teljesítésére,
-- e) a független közvetítők felelősségbiztosítási szerződéseinek tartalmi követelményeire,
+- e) a független közvetítők, valamint a jelzáloghitel közvetítői tevékenységet végző függő közvetítők felelősségbiztosítási szerződéseinek tartalmi követelményeire,
 - f) a közvetítői díj meghatározásának és kifizetésének módjára, időbeli ütemezésére,
 - g) a 2012. április 1-je előtt hatályos 1996. évi CXII. törvény 210/A. §-ában meghatározott szerződésekben előírt kamat a pénzügyi intézmény általi, az ügyfél számára kedvezőtlen egyoldalú módosításának eseteire, feltételeire és módjára,
 - h) a javadalmazási politikának az érintett hitelintézet mérete, tevékenységének jellege, köre és jogi formájából eredő sajátossága figyelembevételével történő alkalmazására
@@ -4565,6 +4639,8 @@ vonatkozó részletes szabályokat.
 - g) a banki értékesítői, az értékpapír értékesítői, a szakképesített banktisztviselői és a befektetési tanácsadói képesítés szakmai és vizsgakövetelményeire
 
 vonatkozó részletes szabályokat.
+
+(2a) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy rendeletben állapítsa meg a termőföld hitelbiztosítéki értéke meghatározásának módszertani elveit.
 
 (3) Felhatalmazást kap az MNB elnöke arra, hogy rendeletben állapítsa meg a fogyasztóval kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás és ügyfélpanaszok kezelésének formájára és módjára vonatkozó részletes szabályokat.
 
@@ -4713,6 +4789,11 @@ azzal, hogy 2019. január 1-jétől a 87. §-ban meghatározott mérték szerint
 
 (6) Az egyes pénzügyi tárgyú törvényeknek a betétbiztosítást, valamint a pénzügyi közvetítőrendszert érintő módosításáról szóló 2014. évi CIV. törvény 87. § (2) bekezdésében megállapított 272. § (3) bekezdésében foglaltaknak a 2015. július 3-án már fennálló betétszerződés, betét elhelyezését lehetővé tevő szerződés vagy keretszerződés esetén a hitelintézet a 275. § (6) bekezdésben meghatározott, 2015. július 3-át követő első éves tájékoztatási kötelezettsége teljesítésével tesz eleget azzal, hogy ebben az esetben nem szükséges, hogy a betétes a 6. melléklet szerinti tájékoztatás megtörténtét aláírásával igazolja.
 
+(7) A jelzáloghitel közvetítői tevékenységet 2016. március 21-én
+
+- a) a Felügyelet felé történő bejelentéssel végző közvetítő ezen tevékenységét a Felügyelet engedélye nélkül 2017. március 21-ig folytathatja,
+- b) a Felügyelet engedélyével végző közvetítő legkésőbb 2017. március 21-ig végezheti ezen tevékenységét a 2016. március 20. napján hatályos engedélyezési feltételekkel.
+
 304/D. § Az egyes törvényeknek a pénzügyi közvetítőrendszer fejlesztésének előmozdítása érdekében történő módosításáról szóló 2015. LXXXV. évi törvény 195. §-ával megállapított 67/A. §-t a szövetkezeti hitelintézetek tekintetében 2018. január 1-től kell alkalmazni.
 
 #### 131. Az Európai Unió jogának való megfelelés
@@ -4801,7 +4882,8 @@ A kombinált pufferkövetelmény egyes kvartiliseinek alsó és felső határát
   - f) a 98/26/EK, 2002/87/EK, 2003/6/EK, 2003/41/EK, 2003/71/EK, 2004/39/EK, 2004/109/EK, 2005/60/EK, 2006/48/EK, 2006/49/EK és 2009/65/EK irányelvnek az európai felügyeleti hatóság (Európai Bankhatóság), az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról szóló 2010. november 24-i 2010/78/EU európai parlamenti és tanácsi irányelvnek,
   - g) a hitelintézetek tevékenységéhez való hozzáférésről és a hitelintézetek és befektetési vállalkozások prudenciális felügyeletéről, a 2002/87/EK irányelv módosításáról, a 2006/48/EK és a 2006/49/EK irányelv hatályon kívül helyezéséről szóló 2013. június 26-i 2013/36/EU európai parlamenti és tanácsi irányelvnek,
   - h) a betétbiztosítási rendszerekről szóló 2014. április 16-i 2014/49/EU európai parlamenti és tanácsi irányelvnek,
-  - i) a 2011/16/EU tanácsi irányelvnek az adózás területére vonatkozó kötelező automatikus információcsere tekintetében történő módosításáról szóló 2014. december 9-i 2014/107/EU tanácsi irányelvnek, való megfelelést szolgálja.
+  - i) a 2011/16/EU tanácsi irányelvnek az adózás területére vonatkozó kötelező automatikus információcsere tekintetében történő módosításáról szóló 2014. december 9-i 2014/107/EU tanácsi irányelvnek,
+  - j) a lakóingatlanokhoz kapcsolódó fogyasztói hitelmegállapodásokról, valamint a 2008/48/EK és a 2013/36/EU irányelv és az 1093/2010/EU rendelet módosításáról szóló 2014. február 4-i 2014/17/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 - 2. Ez a törvény a 185. § (1) bekezdésében a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2004. október 27-i 2006/2004/EK európai parlamenti és tanácsi rendelet 4. cikk (6) bekezdés f) pontjának végrehajtásához szükséges rendelkezéseket állapít meg a Felügyelet eljárásában.
 - 3. Ez a törvény a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
