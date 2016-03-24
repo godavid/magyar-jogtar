@@ -3642,6 +3642,8 @@ a képesítés megszerzését megelőző számviteli, pénzügyi, ellenőrzési 
 
 (53) Annak a vállalkozónak, amely az IFRS-eket a 2016. évben induló üzleti évről készített éves beszámolóra alkalmazza először, a 114/C. § (4) bekezdése szerinti bejelentést az áttérés napját követő 15 napon belül kell megtennie.
 
+(56) A behajtási költségátalányról szóló 2016. évi IX. törvény hatálybalépésével egyidejűleg a vállalkozó a könyvviteli nyilvántartásában (mérlegében) kimutatott, behajtási költségátalányból származó kötelezettséget – ha azt ezen időpontig tőle a jogosult nem követelte – az egyéb bevételekkel szemben megszünteti.
+
 ### Felhatalmazás
 
 178. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben szabályozza:

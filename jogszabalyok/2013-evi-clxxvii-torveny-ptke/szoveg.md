@@ -370,11 +370,9 @@ kell alkalmaznia [az a) és a b) pontban megjelölt időpont ezen alcím alkalma
 
 (5) Ha az ügyészi keresettel érintett vagyontárgy ingatlan, az ügyész a (2) és (3) bekezdés szerinti szerződésekkel kapcsolatos széljegyzett beadványok elintézésének függőben tartása érdekében kérheti az ingatlanügyi hatóság megkeresését. A bíróság e kérelem tárgyában a tárgyalás előkészítésére irányuló intézkedések körében dönt. A bíróság megkeresése alapján az ingatlanügyi hatóság a megkereséssel érintett beadványok elintézését a bíróság jogerős döntéséig függőben tartja.
 
-#### 22/B. Behajtási költségátalány megfizetése
+#### 22/B.
 
-### [A Ptk. 6:155. § (2) bekezdéséhez]
-
-53/B. § Vállalkozások közötti szerződésből, illetve szerződő hatóságnak szerződő hatóságnak nem minősülő vállalkozással kötött szerződéséből eredő fizetési késedelem esetén a behajtási költségátalány megfizetésére – a Ptk. hatálybalépését megelőzően kötött szerződések tekintetében is – a Ptk. rendelkezéseit kell alkalmazni, így a kötelezett, illetve a szerződő hatóság a behajtási költségátalány megfizetésére nem köteles, ha az erre irányuló igény érvényesítése során a késedelmét kimenti.
+#### 53/B. §
 
 #### 22/C. Szerződésátruházás
 
