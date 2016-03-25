@@ -26,11 +26,4 @@ a behajtási költségátalányról
 
 6. § E törvény a kereskedelmi ügyletekhez kapcsolódó késedelmes fizetések elleni fellépésről szóló, 2011. február 16-i 2011/7/EU európai parlamenti és tanácsi irányelv 6. cikkének való megfelelést szolgálja.
 
-7. § A számvitelről szóló 2000. évi C. törvény 177. §-a a következő (56) bekezdéssel egészül ki:
-
-„(56) A behajtási költségátalányról szóló 2016. évi IX. törvény hatálybalépésével egyidejűleg a vállalkozó a könyvviteli nyilvántartásában (mérlegében) kimutatott, behajtási költségátalányból származó kötelezettséget – ha azt ezen időpontig tőle a jogosult nem követelte – az egyéb bevételekkel szemben megszünteti.”
-
-8. § Hatályát veszti
-
-- a) a Polgári Törvénykönyvről szóló 2013. évi V. törvény 6:155. § (2) bekezdése,
-- b) a Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő átmeneti és felhatalmazó rendelkezésekről szóló 2013. évi CLXXVII. törvény „22/B. Behajtási költségátalány megfizetése” alcíme és 53/B. §-a.
+7–8. §
