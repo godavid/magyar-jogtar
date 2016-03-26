@@ -953,9 +953,9 @@ fizeti meg az állami adóhatósághoz a felügyeleti díj megfizetéséről sz�
 - g) a szerencsejátékok szervezésének engedélyezéséért, ellenőrzéséért, illetve az állami adóhatóság által végzett egyes igazgatási szolgáltatások igénybevételéért fizetendő igazgatási-szolgáltatási díjakkal,
 - h)
 - i) a távszerencsejáték és az online kaszinójáték szervezésének engedélyezésével, ellenőrzésével, a szervezés személyi, tárgyi-műszaki és gazdasági feltételeivel és lebonyolításával, távszerencsejátékban és az online kaszinójátékban való részvétel feltételeivel, az engedély nélküli szerencsejátékok szolgáltatásában való közreműködők kötelezettségeivel és az állami adóhatóság feladataival,
-- j) a díjfizetés módjának meghatározása kivételével a felügyeleti díj fizetésével és nyilvántartásával kapcsolatos részletes szabályokat rendeletben határozza meg. Felhatalmazást kap az agrárpolitikáért felelős miniszter a ló- és agárversenyzés szabályainak rendeletben történő megállapítására.
+- j) a díjfizetés módjának meghatározása kivételével a felügyeleti díj fizetésével és nyilvántartásával kapcsolatos részletes szabályokat rendeletben határozza meg.
 
-(3)
+(3) Felhatalmazást kap az agrárpolitikáért felelős miniszter a lóversenyek és az agárversenyek szabályainak rendeletben történő megállapítására.
 
 (4)
 
