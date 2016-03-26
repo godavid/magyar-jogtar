@@ -127,15 +127,17 @@ Az Országgyűlés annak érdekében, hogy a gazdasági célú állattenyészté
 
 (5) Apaállat beszerzéséhez a jogszabályban meghatározott módon és feltételekkel állami támogatás igényelhető.
 
-### Védett őshonos állatfajták, veszélyeztetett fajták
+### Védett őshonos állatfajták, veszélyeztetett fajták és magyar ebfajták
 
-11. § (1) A védett őshonos, jelentős genetikai értéket képviselő fajtáknak az eredeti állapotukban történő megőrzése nemzeti érdek és állami feladat, melynek végrehajtásáról az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) – a természetvédelemért felelős miniszter, a tenyésztési hatóság, más szervek, valamint szakmai szervezetek bevonásával – gondoskodik.
+11. § (1) A védett őshonos, jelentős genetikai értéket képviselő fajtáknak, valamint a magyar ebfajtáknak az eredeti állapotukban történő megőrzése nemzeti érdek és állami feladat, melynek végrehajtásáról az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) – a természetvédelemért felelős miniszter, a tenyésztési hatóság, más szervek, valamint szakmai szervezetek bevonásával – gondoskodik.
 
 (2) Őshonosságuk miatt védett állatfajtáknak kell tekinteni azokat a fajtákat, amelyek Magyarország természetföldrajzi környezetében alakultak ki, illetőleg tartásuknak, tenyésztésüknek történeti hagyománya van.
 
+(2a) Magyar ebfajtának kell tekinteni azt az ebfajtát, amely Magyarország természetföldrajzi környezetében alakult ki, és tartásának, használatának és tenyésztésének történelmi hagyománya van.
+
 (3) A védett őshonos fajták fenntartásához, jogszabályban meghatározott módon és feltételekkel az állam támogatást ad.
 
-12. § A magas genetikai értéket képviselő, veszélyeztetett helyzetbe került fajták állományait védeni kell, ehhez az állam külön jogszabályban meghatározott módon és feltételekkel támogatást adhat.
+12. § A magas genetikai értéket képviselő, veszélyeztetett helyzetbe került fajták és a magyar ebfajták állományait védeni kell, amihez az állam támogatást adhat.
 
 ### Tenyésztési hozzájárulás
 
@@ -467,13 +469,13 @@ Az Országgyűlés annak érdekében, hogy a gazdasági célú állattenyészté
 - j) tenyészállatot, szaporítóanyagot jogosulatlanul forgalmaz;
 - k) tenyésztési bizonylatot, igazolást vagy nyilvántartást meghamisít.
 
-(1a) Nem szabható ki állattenyésztési bírság, ha az (1) bekezdés g) pontja szerinti jogsértést ebfajta vonatkozásában követték el.
+(1a)
 
 (2) Az állattenyésztési bírság összege 100 000 Ft-tól 20 000 000 Ft-ig, természetes személy esetében 300 000 Ft-ig terjedhet. A késedelmes teljesítést késedelmi kamat terheli.
 
 (3) Azonos tényállású, három éven belüli ismételt jogsértés esetén a bírság összege a korábban kiszabott bírság másfélszeresénél nem lehet kevesebb, de nem haladhatja meg az adott jogsértés esetén kiszabható bírság legmagasabb mértékét.
 
-(4) Amennyiben az állattenyésztési bírsággal sújtandó jogsértést védett őshonos vagy veszélyeztetett mezőgazdasági állatfajtával kapcsolatban követik el, az állattenyésztési bírság összege 500 000 Ft-nál, természetes személy esetében 300 000 Ft-nál alacsonyabb nem lehet.
+(4) Amennyiben az állattenyésztési bírsággal sújtandó jogsértést védett őshonos vagy veszélyeztetett mezőgazdasági állatfajtával vagy magyar ebfajtával kapcsolatban követik el, az állattenyésztési bírság összege 500 000 Ft-nál, természetes személy esetében 300 000 Ft-nál alacsonyabb nem lehet.
 
 (5) Az állattenyésztési bírságot a cselekmény folytatása vagy újbóli elkövetése esetén ismételten ki lehet szabni.
 
@@ -547,12 +549,16 @@ való megfelelést szolgálja.
 
 (2) A törvény hatálybalépésekor bármely elismert tenyésztő szervezet által vezetett, államilag hitelesített tenyésztési nyilvántartás törzskönyvnek vagy tenyésztési főkönyvnek minősül. A törvény hatálybalépése előtt ilyen tevékenységet folytató szervezetek adataikat kötelesek az újonnan elismert tenyésztő szervezet részére térítésmentesen átadni.
 
+48/A. § (1) Az ebtenyésztést érintő egyes törvények módosításáról szóló 2016. évi X. törvény (a továbbiakban: Módtv.) hatálybalépését követő 180. napon a kinológiai szövetség és a magyar ebfajtának nem minősülő ebfajták fenntartására elismeréssel rendelkező tenyésztőszervezetek elismerése a törvény erejénél fogva megszűnik.
+
+(2) Azon tenyésztőszervezetek, amelyek elismerése az (1) bekezdés értelmében megszűnik, a törzskönyvi nyilvántartásaik másolatát kötelesek a Módtv. hatálybalépését követő 210. napig a tenyésztési hatóságnak átadni.
+
 ### Felhatalmazások
 
 49. § (1) Felhatalmazást kap a miniszter, hogy
 
-- a) rendeletben szabályozza 1. a tenyészállat- és szaporítóanyag-használat, -felajánlás és -értékesítés feltételeit; 2. a teljesítményvizsgálatok, tenyészértékbecslés rendjét; 3. a tenyészállatok teljesítményeinek adatgyűjtési módját, rendjét; 4. a kisállatfajok e törvénnyel érintett meghatározott körét; 5. az apaállat-ellátás módját, feltételét és költség-hozzájárulásának módját; 6. a védett őshonos fajták genetikai fenntartásának és támogatásának rendjét; 7. az állattartók, a tenyészetek és a tartási helyek nyilvántartásának rendjét; 8. a fajta és tenyésztő szervezeti elismerésnek, az elismerés felfüggesztésének és visszavonásának szabályait; 9. az állatok egységes nyilvántartási és azonosítási rendjét; 10. a mesterséges termékenyítőállomás, spermatároló központ, embrióátültető állomás, baromfi- és halkeltető állomás, méhanyanevelő telep engedélyezésével, üzemeltetésével kapcsolatos részletes szabályokat; 11. a művi szaporító tevékenységgel összefüggő részletes szabályokat; 12. a tenyészállat és szaporítóanyag behozatalának és kivitelének előírásait; 13. a törzskönyv vezetésének és a származás igazolás kiállításának szabályait; 14. a szakképesítéshez kötött tevékenységeket; 15. az állattenyésztési bírság befizetésének módját; 16. az e törvény hatálya alá tartozó eljárásokért fizetendő igazgatási szolgáltatási díjak megfizetésével kapcsolatos eljárási szabályokat, az igazgatási szolgáltatási díjfizetés ellenében végzett feladatokat, valamint az igazgatási szolgáltatási díjak felhasználásának szabályait; 17. 18. a mesterséges termékenyítési szolgáltatást nyújtó inszeminátori, embrióátültetői tevékenység folytatásának részletes feltételeit, a tevékenység bejelentésének és az inszeminátorok, embrióátültetők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá az inszeminátori, embrióátültetői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket;
-- b) a természetvédelemért felelős miniszter egyetértésével kiadott rendeletben szabályozza a védett őshonos és a veszélyeztetett mezőgazdasági állatfajták körét, valamint a kijelölésük rendjét;
+- a) rendeletben szabályozza 1. a tenyészállat- és szaporítóanyag-használat, -felajánlás és -értékesítés feltételeit; 2. a teljesítményvizsgálatok, tenyészértékbecslés rendjét; 3. a tenyészállatok teljesítményeinek adatgyűjtési módját, rendjét; 4. a kisállatfajok e törvénnyel érintett meghatározott körét; 5. az apaállat-ellátás módját, feltételét és költség-hozzájárulásának módját; 6. a védett őshonos fajták genetikai fenntartásának és támogatásának rendjét; 7. az állattartók, a tenyészetek és a tartási helyek nyilvántartásának rendjét; 8. a fajta és tenyésztő szervezeti elismerésnek, az elismerés felfüggesztésének és visszavonásának szabályait; 9. az állatok egységes nyilvántartási és azonosítási rendjét; 10. a mesterséges termékenyítőállomás, spermatároló központ, embrióátültető állomás, baromfi- és halkeltető állomás, méhanyanevelő telep engedélyezésével, üzemeltetésével kapcsolatos részletes szabályokat; 11. a művi szaporító tevékenységgel összefüggő részletes szabályokat; 12. a tenyészállat és szaporítóanyag behozatalának és kivitelének előírásait; 13. a törzskönyv vezetésének és a származás igazolás kiállításának szabályait; 14. a szakképesítéshez kötött tevékenységeket; 15. az állattenyésztési bírság befizetésének módját; 16. az e törvény hatálya alá tartozó eljárásokért fizetendő igazgatási szolgáltatási díjak megfizetésével kapcsolatos eljárási szabályokat, az igazgatási szolgáltatási díjfizetés ellenében végzett feladatokat, valamint az igazgatási szolgáltatási díjak felhasználásának szabályait; 17. a védett őshonos és a veszélyeztetett mezőgazdasági állatfajták, valamint a magyar ebfajták körét és kijelölésük rendjét; 18. a mesterséges termékenyítési szolgáltatást nyújtó inszeminátori, embrióátültetői tevékenység folytatásának részletes feltételeit, a tevékenység bejelentésének és az inszeminátorok, embrióátültetők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá az inszeminátori, embrióátültetői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket; 19. a magyar ebfajták genetikai fenntartásának rendjét;
+- b)
 - c) az adópolitikáért felelős miniszterrel egyetértésben rendeletben szabályozza az e törvény hatálya alá tartozó eljárásokért fizetendő igazgatási szolgáltatási díjak mértékét.
 
 (2) Felhatalmazást kap a Kormány, hogy
