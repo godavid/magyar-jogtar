@@ -437,6 +437,10 @@ az állami egészségügyi, katasztrófa- és védelmi készlet kezelője jogosu
 
 (9) A társadalombiztosítási támogatással rendelhető sorozatgyártású gyógyászati segédeszközök forgalmazása esetében a forgalmazó köteles az adott eszköz funkcionális csoportjának referenciaeszközét vagy azzal azonos árú eszközt forgalmazni.
 
+(9a) Társadalombiztosítási támogatással csak olyan gyógyászati segédeszköz forgalmazható, amelyet a forgalmazó az eszköznek a 33. § (6) és (7) bekezdése szerinti nyilvántartásban megnevezett forgalomba hozójától, vagy olyan – a közbeszerzésekről szóló 2015. évi CXLIII. törvény 3. § 10. pontja szerinti – gazdasági szereplőtől szerzett be, amely az áru átvételére szolgáló bizonylattal igazolja, hogy az eszköz a 33. § (6) és (7) bekezdése szerinti nyilvántartásban megnevezett forgalomba hozótól származik.
+
+(9b) Ha a gyógyászati segédeszköz forgalomba hozója azonos a forgalmazójával, a (9a) bekezdést nem kell alkalmazni.
+
 (10) Az egészségügyi államigazgatási szerv a gyógyászati segédeszköz nagy- és kiskereskedelmi tevékenységet folytató forgalmazó működési engedélyét visszavonja, ha az ellenőrzése során azt állapítja meg, hogy a gyógyászati segédeszközök forgalmazására vonatkozó előírásokat ismételten és súlyosan megsérti.
 
 (11) Az egészségbiztosítási szerv a társadalombiztosítási támogatásba befogadott gyógyszer, tápszer és gyógyászati segédeszköz esetében forgalmazására vonatkozó előírásokat állapíthat meg a folyamatos és biztonságos ellátás érdekében.
@@ -1899,6 +1903,8 @@ lép hatályba.
 (2) Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2015. évi LXXVII. törvénnyel megállapított 61. § (2) bekezdés c) pontjában és (3) bekezdésében foglaltakat 2025. január 1-jétől kell alkalmazni.
 
 (3) Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2015. évi LXXVII. törvénnyel megállapított 61. § (2) bekezdés c) pontjában foglaltak a 2025. január 1-jén 50. életévét betöltött gyógyszerész esetében nem alkalmazandó.
+
+87/J. § Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2015. évi CCXXIV. törvénnyel megállapított 21. § (9a) és (9b) bekezdését nem kell alkalmazni a 2016. április 1-jét megelőzően beszerzett gyógyászati segédeszközökre.
 
 87/L. § Ahol e törvény gyermekgondozást segítő ellátást említ, azon gyermekgondozási segélyt kell érteni, ha az ellátásra való jogosultság 2016. január 1-jét megelőzően nyílt meg.
 

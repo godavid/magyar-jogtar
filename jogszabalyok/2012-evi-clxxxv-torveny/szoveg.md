@@ -63,7 +63,7 @@ Az Országgyűlés a környezet és az emberi egészség védelme, a környezett
 - 24. hulladékbirtokos: a hulladéktermelő, továbbá bármely jogalany, akinek vagy amelynek a hulladék a birtokában van;
 - 25. hulladékfajta: az az anyagfajta – így különösen fa, fém, papír, üveg, kompozit, műanyag, biológiailag lebomló –, amelyből az adott hulladék képződik;
 - 26. hulladékgazdálkodás: a hulladék gyűjtése, szállítása, kezelése, az ilyen műveletek felügyelete, a kereskedőként, közvetítőként vagy közvetítő szervezetként végzett tevékenység, a hulladékgazdálkodási létesítmények és berendezések üzemeltetése, valamint a hulladékkezelő létesítmények utógondozása;
-- 27. hulladékgazdálkodási közszolgáltatás: a közszolgáltatás körébe tartozó hulladék átvételét, gyűjtését, elszállítását, kezelését, valamint a hulladékgazdálkodási közszolgáltatással érintett hulladékgazdálkodási létesítmény fenntartását, üzemeltetését biztosító, kötelező jelleggel igénybe veendő szolgáltatás;
+- 27. hulladékgazdálkodási közszolgáltatás: a közszolgáltatás körébe tartozó hulladék átvételét, gyűjtését, elszállítását, kezelését, valamint a hulladékgazdálkodási közszolgáltatással érintett hulladékgazdálkodási létesítmény fenntartását, üzemeltetését, vagyonkezelését és a hulladékgazdálkodási közszolgáltatás országos szintű megszervezését biztosító, kötelező jelleggel igénybe veendő szolgáltatás;
 - 27a. önkormányzati hulladékgazdálkodási közfeladat: a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 13. § (1) bekezdés 19. pontja szerinti közfeladat az önkormányzat közigazgatási területén a hulladékgazdálkodási közszolgáltatás helyi szintű részletszabályainak meghatározása, valamint a hulladékgazdálkodási közszolgáltató kiválasztása, a közszolgáltatási szerződés megkötése;
 - 27b. állami hulladékgazdálkodási közfeladat: a hulladékgazdálkodási közszolgáltatás országos szintű megszervezése.
 - 28. hulladékgazdálkodási létesítmény: a hulladékgazdálkodási tevékenységek végzését biztosító telephely, ingatlan, továbbá a telephelyen, ingatlanon belül vagy közterületen kialakított elkülönített terület, amely magában foglalja a hulladékgazdálkodás végzéséhez szükséges építményeket, így különösen a környezet biztonságát szolgáló építményeket, kiszolgáló helyiségeket, gyűjtőhelyeket, valamint a hulladékkezelő létesítményeket;
@@ -433,7 +433,11 @@ kötheti.
 - c) ellátja az önkormányzatok közötti és a regionális koordinációt,
 - d) elkészíti az Országos Hulladékgazdálkodási Közszolgáltatási Tervet, amely többek között meghatározza a közszolgáltatás ellátásának optimális területi lehatárolását és az adott területen minimálisan ellátandó közszolgáltatási feladatokat,
 - e) megállapítja, hogy a hulladékgazdálkodási közszolgáltatási rendszerelem fejlesztése megfelel-e az Országos Hulladékgazdálkodási Közszolgáltatási Tervnek,
-- f) megállapítja, hogy a közszolgáltató tevékenysége megfelel-e az Országos Hulladékgazdálkodási Közszolgáltatási Tervben foglaltaknak, és arról véleményt állít ki (a továbbiakban: megfelelőségi vélemény).
+- f) megállapítja, hogy a közszolgáltató tevékenysége megfelel-e az Országos Hulladékgazdálkodási Közszolgáltatási Tervben foglaltaknak, és arról véleményt állít ki (a továbbiakban: megfelelőségi vélemény),
+- g) a hulladékgazdálkodás országos szintű céljainak és fejlesztési irányainak teljesülése érdekében kialakítja az infrastrukturális erőforrások optimális használatának rendszerét,
+- h) kezeli az önkormányzatok, önkormányzati társulások által önkéntesen vagyonkezelés körében rábízott vagyont,
+- i) beszedi a közszolgáltatási díjat és kifizeti a közszolgáltatóknak a hulladékgazdálkodási közszolgáltatási díj megállapításáért felelős miniszter (a továbbiakban: miniszter) által meghatározott szolgáltatási díjat,
+- j) kezeli a közszolgáltatás keretében keletkező kintlévőségeket.
 
 (2) Az állam az (1) bekezdés szerinti feladatainak ellátására koordináló szervezetet (a továbbiakban: Koordináló szerv) hoz létre.
 
@@ -453,19 +457,19 @@ kötheti.
 
 #### 18. A települési önkormányzatra vonatkozó szabályok
 
-33. § (1) A települési önkormányzat a hulladékgazdálkodási közszolgáltatás ellátását a közszolgáltatóval kötött hulladékgazdálkodási közszolgáltatási szerződés útján biztosítja.
+33. § (1) A települési önkormányzat az önkormányzati hulladékgazdálkodási közfeladat ellátását a közszolgáltatóval kötött hulladékgazdálkodási közszolgáltatási szerződés útján biztosítja.
 
-(2) A települési önkormányzat a hulladékgazdálkodási közszolgáltatás ellátására közbeszerzési eljárást folytat le, kivéve, ha a közbeszerzésekről szóló törvény (a továbbiakban: Kbt.) szerint nem kell közbeszerzési eljárást lefolytatni, a hulladékgazdálkodási közszolgáltatási szerződés megkötése nem tartozik a Kbt. alkalmazási körébe, vagy ha a hulladékgazdálkodási közszolgáltatási szerződés megkötése a Kbt. szerinti kivételi körbe esik.
+(2) A települési önkormányzat az önkormányzati hulladékgazdálkodási közfeladat ellátására közbeszerzési eljárást folytat le, kivéve, ha a közbeszerzésekről szóló törvény (a továbbiakban: Kbt.) szerint nem kell közbeszerzési eljárást lefolytatni, a hulladékgazdálkodási közszolgáltatási szerződés megkötése nem tartozik a Kbt. alkalmazási körébe, vagy ha a hulladékgazdálkodási közszolgáltatási szerződés megkötése a Kbt. szerinti kivételi körbe esik.
 
 (3) A felhívásban az ajánlatkérő meghatározza, hogy a közbeszerzési eljárás során milyen, a hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló törvény szerint osztályba sorolt gazdasági szereplők tehetnek ajánlatot vagy nyújthatnak be részvételi jelentkezést.
 
-34. § (1) A települési önkormányzat a hulladékgazdálkodási közszolgáltatás ellátására a közszolgáltatóval írásbeli szerződést köt.
+34. § (1) A települési önkormányzat az önkormányzati hulladékgazdálkodási közfeladat ellátására a közszolgáltatóval írásbeli szerződést köt.
 
-(2) A települési önkormányzat hulladékgazdálkodási közszolgáltatás ellátására csak 1 hulladékgazdálkodási közszolgáltatási szerződést köthet.
+(2) A települési önkormányzat az önkormányzati hulladékgazdálkodási közfeladat ellátására csak 1 hulladékgazdálkodási közszolgáltatási szerződést köthet.
 
-(3) A települési önkormányzat hulladékgazdálkodási közszolgáltatási szerződést csak a hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló törvényben meghatározott minősítési engedéllyel (a továbbiakban: minősítési engedély) rendelkező gazdasági szereplővel köthet.
+(3) A települési önkormányzat hulladékgazdálkodási közszolgáltatási szerződést csak a hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló törvényben meghatározott minősítési engedéllyel (a továbbiakban: minősítési engedély) és a 32/A. § (1) bekezdés f) pontja szerinti megfelelőségi véleménnyel rendelkező gazdasági szereplővel köthet.
 
-(4) A települési önkormányzat a (3) bekezdésben meghatározottaktól eltérően azzal a minősítési engedéllyel nem rendelkező gazdasági szereplővel is köthet hulladékgazdálkodási közszolgáltatási szerződést, amelynek tagjai – az államot és a települési önkormányzatot kivéve – valamennyien rendelkeznek minősítési engedéllyel.
+(4) A települési önkormányzat a (3) bekezdésben meghatározottaktól eltérően azzal a 32/A. § (1) bekezdés f) pontja szerinti megfelelőségi véleménnyel rendelkező, de minősítési engedéllyel nem rendelkező gazdasági szereplővel is köthet hulladékgazdálkodási közszolgáltatási szerződést, amelynek tagjai – az államot és a települési önkormányzatot kivéve – valamennyien rendelkeznek minősítési engedéllyel.
 
 (5) A hulladékgazdálkodási közszolgáltatási szerződésnek legalább az alábbiakat kell tartalmaznia:
 
@@ -484,13 +488,13 @@ kötheti.
 
 35. § (1) A települési önkormányzat képviselő-testülete önkormányzati rendeletben állapítja meg:
 
-- a) a hulladékgazdálkodási közszolgáltatás tartalmát, a közszolgáltatási terület határait;
+- a) az önkormányzati hulladékgazdálkodási közfeladat tartalmát, a közszolgáltatási terület határait az Országos Hulladékgazdálkodási Közszolgáltatási Tervben foglaltakkal összhangban.
 - b) a közszolgáltató tagjai, illetve az alvállalkozó által végzett hulladékgazdálkodási tevékenységet, továbbá a tagoknak, illetve az alvállalkozónak a közszolgáltatás egészéhez viszonyított arányát, ha a közszolgáltatást a közszolgáltató több tagja, illetve alvállalkozó végzi;
-- c) a hulladékgazdálkodási közszolgáltatás ellátásának rendjét és módját, a közszolgáltató és az ingatlanhasználó ezzel összefüggő jogait és kötelezettségeit, valamint a hulladékgazdálkodási közszolgáltatási szerződés egyes tartalmi elemeit;
-- d) a hulladékgazdálkodási közszolgáltatás igénybevételének miniszteri rendeletben nem szabályozott módját és feltételeit;
+- c) az önkormányzati hulladékgazdálkodási közfeladat ellátásának rendjét és módját, a közszolgáltató és az ingatlanhasználó ezzel összefüggő jogait és kötelezettségeit, valamint a hulladékgazdálkodási közszolgáltatási szerződés egyes tartalmi elemeit;
+- d) az önkormányzati hulladékgazdálkodási közfeladat igénybevételének miniszteri rendeletben nem szabályozott módját és feltételeit;
 - e) az ingatlanhasználót terhelő, miniszteri rendeletben nem szabályozott díjfizetési kötelezettséget, megfizetésének rendjét, az esetleges kedvezmények, továbbá az ingatlanhasználó részéről történő szüneteltetés eseteit;
 - f) az üdülőingatlanokra vonatkozó sajátos szabályokat;
-- g) a hulladékgazdálkodási közszolgáltatással összefüggő személyes adatok (a természetes személyazonosító adatok, valamint a lakcím) kezelésére vonatkozó rendelkezéseket.
+- g)
 
 (2) A települési önkormányzat gondoskodik az elkülönített hulladékgyűjtési rendszer helyi feltételeinek megszervezéséről.
 
@@ -505,9 +509,9 @@ kötheti.
 - a) a hulladékgazdálkodási közszolgáltatás ellátása során a környezet védelmére vonatkozó jogszabályok vagy a rá vonatkozó hatósági döntés előírásait súlyosan megsértette, és ennek tényét a bíróság vagy a hatóság jogerősen megállapította,
 - b) a szerződésben megállapított kötelezettségét neki felróható módon súlyosan megsértette.
 
-(1a) A hulladékgazdálkodási közszolgáltatási szerződést a települési önkormányzat felmondja, ha a közszolgáltató nem rendelkezik minősítési engedéllyel.
+(1a) A 2016. április 1-jét követően megkötött hulladékgazdálkodási közszolgáltatási szerződést a települési önkormányzat legfeljebb egy hónapos felmondási idővel felmondja, ha a közszolgáltató nem rendelkezik minősítési engedéllyel vagy megfelelőségi véleménnyel.
 
-(2) A felmondási idő legfeljebb 6 hónap. A felmondási idő alatt a közszolgáltató a hulladékgazdálkodási közszolgáltatást változatlanul ellátja.
+(2) Az (1) bekezdés szerinti felmondási idő legfeljebb 6 hónap. A felmondási idő alatt a közszolgáltató a hulladékgazdálkodási közszolgáltatást változatlanul ellátja.
 
 (3) A hulladékgazdálkodási közszolgáltatási szerződés felmondása esetén a települési önkormányzat képviselő-testületének haladéktalanul intézkednie kell a hulladékgazdálkodási közszolgáltatás ellátásának biztosításáról.
 
@@ -519,17 +523,19 @@ kötheti.
 
 37/A. § Ha a települési önkormányzat a hulladékgazdálkodási közszolgáltatás ellátását a 33–34. §-ban foglaltak szerint nem biztosítja, vagy a hulladékgazdálkodási közszolgáltatás a 33–34. §-ban meghatározott eljárás eredménytelensége miatt nem biztosítható, a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvény szerint kell eljárni.
 
+37/B. § A települési önkormányzat és az önkormányzatok társulása a tulajdonukban álló hulladékgazdálkodási létesítményeket, eszközöket, vagyonelemeket – ha nem adják át a Koordináló szervnek vagyonkezelésre – a nemzeti vagyonról szóló törvény előírásainak megfelelően kötelesek a hulladékgazdálkodási közszolgáltatás ellátásához biztosítani, e körben az adott önkormányzattal, önkormányzati társulással közszolgáltatási szerződéssel rendelkező közszolgáltatónak üzemeltetésre átadni. A települési önkormányzat és az önkormányzatok társulása a tulajdonában álló hulladékgazdálkodási rendszerek azon fejlesztését, amely az Országos Hulladékgazdálkodási Közszolgáltatási Tervben szereplő az adott területre vonatkozó feladatokat, előírásokat érinti, csak a 32/A. § (1) bekezdés e) pontja szerinti nyilatkozat birtokában kezdheti meg.
+
 #### 19. Az ingatlanhasználóra vonatkozó szabályok
 
 38. § (1) Az ingatlanhasználó a hulladékgazdálkodási közszolgáltatás ellátásához szükséges feltételeket a közszolgáltató részére biztosítja, és a közszolgáltatást igénybe veszi.
 
-(2) Az ingatlanhasználó a hulladékgazdálkodási közszolgáltatás ellátásáért hulladékgazdálkodási közszolgáltatási díjat fizet az e törvényben, valamint a hulladékgazdálkodási közszolgáltatási díj megállapításáért felelős miniszter (a továbbiakban: miniszter) rendeletében meghatározott feltételek szerint.
+(2) Az ingatlanhasználó a hulladékgazdálkodási közszolgáltatás ellátásáért hulladékgazdálkodási közszolgáltatási díjat fizet az e törvényben, valamint a miniszter rendeletében meghatározott feltételek szerint.
 
-(3) A gazdálkodó szervezet ingatlanhasználó a közszolgáltató felhívására a közhiteles nyilvántartás szerinti nevét, székhelyének, telephelyének címét, adószámát, a természetes személy ingatlanhasználó a személyes adatai közül a családi és utónevét, lakóhelyének, tartózkodási és értesítési helyének címét megadja.
+(3) A gazdálkodó szervezet ingatlanhasználó a Koordináló szerv felhívására a közhiteles nyilvántartás szerinti nevét, székhelyének, telephelyének címét, adószámát, a természetes személy ingatlanhasználó a személyes adatai közül a családi és utónevét, lakóhelyének, tartózkodási és értesítési helyének címét megadja.
 
 39. § (1) Az ingatlanhasználó az érintett ingatlan területén képződő települési hulladékot elkülönítetten gyűjti, és azt – a (2) és (3) bekezdésben foglalt kivétellel – a közszolgáltatónak rendszeres időközönként átadja.
 
-(2) A természetes személy ingatlanhasználó a települési hulladék részét képező elkülönítetten gyűjtött hulladékot – kormányrendeletben, miniszteri rendeletben vagy a települési önkormányzat (Budapesten a fővárosi önkormányzat) rendeletében meghatározott feltételek szerint – hulladékgyűjtő pontra, hulladékgyűjtő udvarba, átvételi helyre vagy a közszolgáltatás körébe tartozó hulladékot kezelő hulladékkezelő létesítménybe szállíthatja, és ott a jogosultnak átadhatja vagy gyűjtőedényben elhelyezheti. E jogot a természetes személy ingatlanhasználó csak úgy gyakorolhatja, ha a hulladékgazdálkodási közszolgáltatási díjat a közszolgáltató részére megfizette.
+(2) A természetes személy ingatlanhasználó a települési hulladék részét képező elkülönítetten gyűjtött hulladékot – kormányrendeletben, miniszteri rendeletben vagy a települési önkormányzat (Budapesten a fővárosi önkormányzat) rendeletében meghatározott feltételek szerint – hulladékgyűjtő pontra, hulladékgyűjtő udvarba, átvételi helyre vagy a közszolgáltatás körébe tartozó hulladékot kezelő hulladékkezelő létesítménybe szállíthatja, és ott a jogosultnak átadhatja vagy gyűjtőedényben elhelyezheti. E jogot a természetes személy ingatlanhasználó csak úgy gyakorolhatja, ha a hulladékgazdálkodási közszolgáltatási díjat a Koordináló szerv részére megfizette.
 
 (3) A gazdálkodó szervezet ingatlanhasználó a háztartási hulladékhoz hasonló hulladék részét képező elkülönítetten gyűjtött hulladék kezeléséről a 31. § (2) bekezdésében meghatározottak szerint gondoskodik.
 
@@ -545,9 +551,9 @@ kötheti.
 
 #### 20. A közszolgáltatóra vonatkozó szabályok
 
-41. § (1) A közszolgáltató a közszolgáltatási területen gondoskodik a hulladékgazdálkodási közszolgáltatás folyamatos ellátásáról.
+41. § (1) A közszolgáltató a közszolgáltatási területen gondoskodik az önkormányzati hulladékgazdálkodási közfeladat folyamatos ellátásáról.
 
-(2) A közszolgáltató törekszik arra, hogy a feladatkörébe tartozó hulladékgazdálkodási tevékenységeket a hulladékhierarchiára figyelemmel úgy válassza meg, hogy az e törvényben, illetve a hulladékgazdálkodási tervekben foglalt megelőzési, hasznosítási és ártalmatlanítási célkitűzések teljesülni tudjanak.
+(2) A közszolgáltató gondoskodik arról, hogy a feladatkörébe tartozó hulladékgazdálkodási tevékenységeket a hulladékhierarchiára figyelemmel úgy válassza meg, hogy az e törvényben, illetve a hulladékgazdálkodási tervekben foglalt megelőzési, hasznosítási és ártalmatlanítási célkitűzések teljesülni tudjanak. A közszolgáltató a tevékenységét az Országos Hulladékgazdálkodási Közszolgáltatási Tervben előírtaknak megfelelően köteles ellátni, amelyet a Koordináló szerv a 32/A. § (4) és (5) bekezdése szerinti adatkezelés keretében ellenőriz, és erről megfelelőségi véleményt állít ki.
 
 (3) A közszolgáltató a hulladékgazdálkodási közszolgáltatási szerződésben meghatározott, továbbá a (2) bekezdés szerinti célok elérése érdekében a hulladékgazdálkodási közszolgáltatás ellátására – a közbeszerzési eljárás lefolytatása esetén a közbeszerzésekről szóló törvény előírásainak megfelelően – alvállalkozót vehet igénybe.
 
@@ -615,7 +621,7 @@ kötheti.
 
 (4) Az üdülőként nyilvántartott ingatlannal rendelkező tulajdonosok esetében az éves hulladékgazdálkodási közszolgáltatási díj 50%-át kell megállapítani.
 
-47/A. § (1) A hulladékgazdálkodási közszolgáltatási díjat a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) javaslatának figyelembevételével a miniszter rendeletben állapítja meg.
+47/A. § (1) A hulladékgazdálkodási közszolgáltatási díjat a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) javaslatának figyelembevételével a miniszter rendeletben állapítja meg és a Koordináló szerv szedi be.
 
 (2) A Hivatal a díjmegállapítással, díjváltozással kapcsolatos javaslatát a 88. § (3) bekezdés b) pont be) alpontjában kapott felhatalmazás alapján megalkotott rendeletben foglaltak szerint küldi meg a miniszter részére.
 
@@ -647,9 +653,9 @@ kötheti.
 
 (3) A bíróság a Hivatal határozatát nem változtathatja meg.
 
-49. § (1) A közszolgáltató a Hivatal részére a tárgyév díjfelügyeleti tevékenységéért a tárgyév június 30. napjáig felügyeleti díjat fizet.
+49. § (1) A Koordináló szerv a Hivatal részére a tárgyév díjfelügyeleti tevékenységéért a tárgyév június 30. napjáig felügyeleti díjat fizet.
 
-(2) A felügyeleti díj éves mértéke egyenlő a közszolgáltató által nyújtott hulladékgazdálkodási közszolgáltatással érintett település lakosainak száma és 100 forint szorzatával. A település lakosainak számát a Központi Statisztikai Hivatal által, a tárgyévet megelőzően utoljára közzétett tájékoztatási adatbázis Magyarország lakónépességének továbbszámított, éves és települési bontásban megadott adatai alapján kell meghatározni.
+(2) A felügyeleti díj éves mértéke egyenlő az önkormányzati hulladékgazdálkodási közfeladat érintett település lakosainak száma és 100 forint szorzatával. A település lakosainak számát a Központi Statisztikai Hivatal által, a tárgyévet megelőzően utoljára közzétett tájékoztatási adatbázis Magyarország lakónépességének továbbszámított, éves és települési bontásban megadott adatai alapján kell meghatározni.
 
 (3)
 
@@ -681,7 +687,7 @@ kötheti.
 
 #### 22. Ügyfélszolgálat
 
-53. § (1) A közszolgáltató az ingatlanhasználó hulladékgazdálkodási közszolgáltatással kapcsolatos bejelentéseinek intézése, panaszainak kivizsgálása, orvoslása és a közszolgáltatással kapcsolatos általános tájékoztatásnyújtás biztosítása érdekében a székhelyén ügyfélszolgálatot működtet.
+53. § (1) A közszolgáltató az ingatlanhasználó önkormányzati hulladékgazdálkodási közfeladattal kapcsolatos bejelentéseinek intézése, panaszainak kivizsgálása, orvoslása és az önkormányzati hulladékgazdálkodási közfeladattal kapcsolatos általános tájékoztatásnyújtás biztosítása érdekében a székhelyén ügyfélszolgálatot működtet.
 
 (2) A közszolgáltató az ügyfélszolgálat keretében az Fgytv.-ben meghatározottakon túlmenően
 
@@ -1084,11 +1090,11 @@ részére adhatók át.
 - a) hulladékgazdálkodási engedélyhez kötött tevékenység esetén telephelyenként (a fióktelepet, valamint telephely hiányában a székhelyet is ideértve) 40 000 forint,
 - b) nyilvántartásba vételhez kötött tevékenység esetén telephelyenként (a fióktelepet, valamint telephely hiányában a székhelyet is ideértve) 25 000 forint.
 
-83. § (1) A közszolgáltató által az elszámolással, számlázással, díjfizetéssel kapcsolatban, illetve a díjhátralék esedékességét követően megtett intézkedésekre, valamint a hulladékgazdálkodási közszolgáltatást érintő értesítési, tájékoztatási, szolgáltatásnyújtási kötelezettségre vonatkozó rendelkezések természetes személy ingatlanhasználókkal, társasházakkal, illetve lakásszövetkezetekkel szembeni megsértése esetén a fogyasztóvédelmi hatóság jár el. A fogyasztóvédelmi hatóság eljárására az Fgytv.-t kell alkalmazni azzal, hogy a társasházakról szóló törvény szerinti társasházi közösség, továbbá a lakásszövetkezet az Fgytv. alkalmazásában fogyasztónak minősül.
+83. § (1) A Koordináló szerv által az elszámolással, számlázással, díjfizetéssel kapcsolatban, illetve a díjhátralék esedékességét követően megtett intézkedésekre, valamint a közszolgáltató hulladékgazdálkodási közszolgáltatást érintő értesítési, tájékoztatási, szolgáltatásnyújtási kötelezettségére vonatkozó rendelkezések természetes személy ingatlanhasználókkal, társasházakkal, illetve lakásszövetkezetekkel szembeni megsértése esetén a fogyasztóvédelmi hatóság jár el. A fogyasztóvédelmi hatóság eljárására az Fgytv.-t kell alkalmazni azzal, hogy a társasházakról szóló törvény szerinti társasházi közösség, továbbá a lakásszövetkezet az Fgytv. alkalmazásában fogyasztónak minősül.
 
 (2) Az (1) bekezdésben meghatározott rendelkezés az Fgytv. alkalmazásában fogyasztóvédelmi rendelkezés.
 
-(3) A fogyasztóvédelmi hatósági eljárásban a fogyasztónak igazolnia kell, hogy a fogyasztóvédelemmel kapcsolatos és az eljárás alapjául szolgáló panaszt az érintett közszolgáltató felé megtette.
+(3) A fogyasztóvédelmi hatósági eljárásban a fogyasztónak igazolnia kell, hogy a fogyasztóvédelemmel kapcsolatos és az eljárás alapjául szolgáló panaszt az érintett Koordináló szerv vagy közszolgáltató felé megtette.
 
 ### 35a. Hulladékgazdálkodási információk publikus felületen történő közzététele
 
@@ -1292,9 +1298,9 @@ rendeletben állapítsa meg.
 
 (2) A természetes személy ingatlanhasználó részére kiállított számlában meghatározott hulladékgazdálkodási közszolgáltatásért fizetendő szolgáltatási egységre jutó összeg (beleértve az alapdíjat) nem haladhatja meg a 2012. április 14. napján alkalmazott díj legfeljebb 4,2 százalékkal megemelt összegének 90 százalékát.
 
-(2a) A közszolgáltató a tárgyhónapot követő hónap 15. napjáig köteles írásban igazolni a fogyasztóvédelmi hatóságnak a (2), (2b), (5) és az (5a) bekezdésben foglalt előírások teljesülését.
+(2a) A Koordináló szerv a tárgyhónapot követő hónap 15. napjáig köteles írásban igazolni a fogyasztóvédelmi hatóságnak a (2), (2b), (5) és az (5a) bekezdésben foglalt előírások teljesülését.
 
-(2b) A közszolgáltató részéről a hulladékgazdálkodási közszolgáltatási szerződés megszegésének minősül, ha a (2), (5) és (5a) bekezdésben meghatározott kötelezettségét nem teljesíti.
+(2b)
 
 (2c) A (2) bekezdés szempontjából alkalmazott díjnak
 
@@ -1303,13 +1309,13 @@ rendeletben állapítsa meg.
 
 (2d) Ha a szolgáltatási, illetve műszaki tartalom változása vagy a közszolgáltató döntése folytán a 2012. április 14-ét követően 2013. június 30-ig alkalmazott díj a 2012. április 14-én alkalmazott díjnál alacsonyabb, a (2) bekezdés szerinti díj számításánál ezt – több alacsonyabb alkalmazott díj esetén a legalacsonyabbat – kell a számítás alapjául venni.
 
-(3) A társasházat a (2) bekezdésben meghatározott díjcsökkentés a társasházat alkotó azon albetétek vonatkozásában illeti meg, amelyeket természetes személy ingatlanhasználó használ. A társasház évente írásban tájékoztatja a közszolgáltatót a természetes személy és nem természetes személy ingatlanhasználók társasházon belüli megoszlásáról. A közszolgáltató a tájékoztatás kézhezvételét követően kiállított, esedékes számlájában érvényesíti a természetes személy ingatlanhasználók után a társasházat e rendelkezés alapján megillető díjcsökkenést. E rendelkezés megfelelően alkalmazandó a lakásszövetkezetre is. A díjcsökkenést vita esetén a közhiteles nyilvántartásból megismerhető, természetes és nem természetes személy tulajdonosok tulajdoni hányadainak egymáshoz viszonyított aránya alapján kell elszámolni.
+(3) A társasházat a (2) bekezdésben meghatározott díjcsökkentés a társasházat alkotó azon albetétek vonatkozásában illeti meg, amelyeket természetes személy ingatlanhasználó használ. A társasház évente írásban tájékoztatja a Koordináló szervet a természetes személy és nem természetes személy ingatlanhasználók társasházon belüli megoszlásáról. A Koordináló szerv a tájékoztatás kézhezvételét követően kiállított, esedékes számlájában érvényesíti a természetes személy ingatlanhasználók után a társasházat e rendelkezés alapján megillető díjcsökkenést. E rendelkezés megfelelően alkalmazandó a lakásszövetkezetre is. A díjcsökkenést vita esetén a közhiteles nyilvántartásból megismerhető, természetes és nem természetes személy tulajdonosok tulajdoni hányadainak egymáshoz viszonyított aránya alapján kell elszámolni.
 
 (4) A közszolgáltatást igénybe vevő társasház vagy lakásszövetkezet a társasházban, illetve lakásszövetkezetben lakó természetes személy ingatlanhasználót a (2) bekezdésben meghatározott díjtétel alapján a díjcsökkentés összegéről tájékoztatja.
 
-(5) A közszolgáltató a kibocsátott számlán szereplő fizetendő összeg vonatkozásában a számla kiküldésével köteles tájékoztatást nyújtani a természetes személy ingatlanhasználók, illetve társasházak és lakásszövetkezetek részére a (2), a (2d), a (3) és a (10) bekezdésben foglaltak teljesüléséről. A tájékoztatásnak összegszerűen tartalmaznia kell, hogy a rezsicsökkentés nélkül milyen fizetési kötelezettség terhelte volna a természetes személy ingatlanhasználókat, illetve társasházakat és lakásszövetkezeteket.
+(5) A Koordináló szerv a kibocsátott számlán szereplő fizetendő összeg vonatkozásában a számla kiküldésével köteles tájékoztatást nyújtani a természetes személy ingatlanhasználók, illetve társasházak és lakásszövetkezetek részére a (2), a (2d), a (3) és a (10) bekezdésben foglaltak teljesüléséről. A tájékoztatásnak összegszerűen tartalmaznia kell, hogy a rezsicsökkentés nélkül milyen fizetési kötelezettség terhelte volna a természetes személy ingatlanhasználókat, illetve társasházakat és lakásszövetkezeteket.
 
-(5a) A közszolgáltató a kibocsátott számlán köteles jól láthatóan, színes mezőben kiemelve feltüntetni a rezsicsökkentés eredményeképpen jelentkező megtakarítás összegét az elszámolt időszak vonatkozásában, valamint a 2013. július 1-je óta eltelt időszakban. A közszolgáltató személyében bekövetkező változás esetében a korábbi közszolgáltató rezsicsökkentéssel kapcsolatos adatait a 37. § rendelkezéseinek megfelelő alkalmazásával kell biztosítani az új közszolgáltató részére.
+(5a) A Koordináló szerv a kibocsátott számlán köteles jól láthatóan, színes mezőben kiemelve feltüntetni a rezsicsökkentés eredményeképpen jelentkező megtakarítás összegét az elszámolt időszak vonatkozásában, valamint a 2013. július 1-je óta eltelt időszakban. A Koordináló szerv személyében bekövetkező változás esetében a korábbi Koordináló szerv rezsicsökkentéssel kapcsolatos adatait a 37. § rendelkezéseinek megfelelő alkalmazásával kell biztosítani az új Koordináló szerv részére.
 
 (5b) Az (5) bekezdésben foglalt rendelkezés a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezés.
 
@@ -1326,9 +1332,9 @@ közszolgáltatási díjat kell tekinteni.
 
 (9) 2013. évre vonatkozóan a közszolgáltató a felügyeleti díjat a Hivatal részére díjfelügyeleti tevékenységéért szeptember 1. napjáig fizeti meg.
 
-(10) Ha a (2) vagy a (2d) bekezdés szerint megállapított díj 2013. július 1-jét követően legalább 10%-kal nem alacsonyabb a 2013. június 30-án alkalmazott díjnál, akkor a közszolgáltató köteles azt legalább annyival csökkenteni, hogy a fizetendő díj a 2013. június 30-án alkalmazott díjnál legalább 10%-kal alacsonyabb legyen.
+(10) Ha a (2) vagy a (2d) bekezdés szerint megállapított díj 2013. július 1-jét követően legalább 10%-kal nem alacsonyabb a 2013. június 30-án alkalmazott díjnál, akkor a Koordináló szerv köteles azt legalább annyival csökkenteni, hogy a fizetendő díj a 2013. június 30-án alkalmazott díjnál legalább 10%-kal alacsonyabb legyen.
 
-(11) A (2) és (10) bekezdés szerinti, a közszolgáltatási díj legmagasabb mértékére vonatkozó rendelkezéseket a közszolgáltatónak akkor is érvényesítenie kell, ha 2013. június 30-át követően a műszaki tartalom megváltozott, az azonban nem a természetes személy ingatlanhasználó kifejezett kérésére történt.
+(11) A (2) és (10) bekezdés szerinti, a közszolgáltatási díj legmagasabb mértékére vonatkozó rendelkezéseket a Koordináló szervnek akkor is érvényesítenie kell, ha 2013. június 30-át követően a műszaki tartalom megváltozott, az azonban nem a természetes személy ingatlanhasználó kifejezett kérésére történt.
 
 (12) Ha a közszolgáltató a (2), a (2d) és a (10) bekezdésben meghatározott díjak alapjául szolgáló gyűjtőedényhez képest eltérő űrmértékű gyűjtőedényt (a továbbiakban: új gyűjtőedény) rendszeresít vagy ajánl fel, az új gyűjtőedény vonatkozásában alkalmazható legmagasabb ürítési díjat – egytényezős közszolgáltatási díj esetén közszolgáltatási díjat – a (13)–(16) bekezdés szerint számítja ki a közszolgáltató.
 
@@ -1342,9 +1348,9 @@ közszolgáltatási díjat kell tekinteni.
 
 (17) A (12)–(16) bekezdésben meghatározott rendelkezések a rendelkezésre állási díj meghatározását nem érintik.
 
-91/A. § (1) Ha a hulladékgazdálkodási közszolgáltató az általa nyújtott közszolgáltatást közbeiktatott személy vagy szerződéses kapcsolati lánc (a továbbiakban együtt: közvetített szolgáltatás) útján juttatja el a természetes személy ingatlanhasználó, illetve jogszabály alapján vele egy díjkategóriába tartozó személy (a továbbiakban együtt: rezsicsökkentésre jogosult) részére, legfeljebb a természetes személy ingatlanhasználóra a 91. §-ban meghatározott díjat alkalmazhatja.
+91/A. § (1) Ha a közszolgáltató az általa nyújtott közszolgáltatást közbeiktatott személy vagy szerződéses kapcsolati lánc (a továbbiakban együtt: közvetített szolgáltatás) útján juttatja el a természetes személy ingatlanhasználó, illetve jogszabály alapján vele egy díjkategóriába tartozó személy (a továbbiakban együtt: rezsicsökkentésre jogosult) részére, a Koordináló szerv legfeljebb a természetes személy ingatlanhasználóra a 91. §-ban meghatározott díjat alkalmazhatja.
 
-(2) A közvetített szolgáltatásban részes közbenső szereplő az elszámolási időszakot megelőző hónap 10. napjáig a hulladékgazdálkodási közszolgáltató részére adatot szolgáltat, hogy az elszámolási időszakban milyen arányban oszlik meg a vele szerződéses kapcsolatban álló rezsicsökkentésre jogosult és más felhasználók között a hulladékgazdálkodási közszolgáltatás díja. A hulladékgazdálkodási közszolgáltató ezen adatszolgáltatás alapján külön-külön számlát bocsát ki a közszolgáltatást közvetítő személy részére a rezsicsökkentésre jogosult és más felhasználók hulladékgazdálkodási közszolgáltatás díjáról. Ha az adatszolgáltatást a közvetített szolgáltatásban részes közbenső szereplő határidőben nem teljesíti, a hulladékgazdálkodási közszolgáltató csak egy, a díjcsökkentést nem tartalmazó számlát bocsát ki.
+(2) A közvetített szolgáltatásban részes közbenső szereplő az elszámolási időszakot megelőző hónap 10. napjáig a Koordináló szerv részére adatot szolgáltat, hogy az elszámolási időszakban milyen arányban oszlik meg a vele szerződéses kapcsolatban álló rezsicsökkentésre jogosult és más felhasználók között a hulladékgazdálkodási közszolgáltatás díja. A Koordináló szerv ezen adatszolgáltatás alapján külön-külön számlát bocsát ki a közszolgáltatást közvetítő személy részére a rezsicsökkentésre jogosult és más felhasználók hulladékgazdálkodási közszolgáltatás díjáról. Ha az adatszolgáltatást a közvetített szolgáltatásban részes közbenső szereplő határidőben nem teljesíti, a Koordináló szerv csak egy, a díjcsökkentést nem tartalmazó számlát bocsát ki.
 
 (3) A 91. §-ban meghatározott mértékű díjcsökkentés a (2) bekezdés szerint előírt adatszolgáltatás elmulasztása esetén is megilleti a rezsicsökkentésre jogosultat, melynek terhét a közszolgáltatást közvetített szolgáltatásként nyújtó személy viseli.
 
@@ -1352,11 +1358,11 @@ közszolgáltatási díjat kell tekinteni.
 
 (5) A közszolgáltatást közvetített szolgáltatásként nyújtó személy a (4) bekezdés szerint kibocsátott számlán szereplő fizetendő összeg vonatkozásában, annak kiküldésével egyidejűleg, egyértelműen, írásban köteles tájékoztatást nyújtani a rezsicsökkentésre jogosult részére az e § szerinti előírt díjcsökkentésről. A tájékoztatásban külön, összegszerűen fel kell tüntetni a rezsicsökkentés eredményeképpen jelentkező megtakarítás összegét az elszámolt időszak vonatkozásában, valamint összesítve az egyes törvényeknek a rezsicsökkentés végrehajtásával összefüggő módosításáról szóló 2013. évi CCXXXI. törvény hatálybalépését követő időszakban.
 
-(6) A hulladékgazdálkodási közszolgáltató bármikor jogosult betekinteni a (2) bekezdés szerinti adatszolgáltatást megalapozó adatokba, számításokba, illetve az alkalmazott módszertanba.
+(6) A Koordináló szerv bármikor jogosult betekinteni a (2) bekezdés szerinti adatszolgáltatást megalapozó adatokba, számításokba, illetve az alkalmazott módszertanba.
 
 (7) A (4) és az (5) bekezdésekben foglalt rendelkezések a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezés.
 
-91/B. § (1) A hulladékgazdálkodási közszolgáltató legfeljebb a természetes személy ingatlanhasználóra a 91. §-ban meghatározott díjat alkalmazhatja
+91/B. § (1) A Koordináló szerv legfeljebb a természetes személy ingatlanhasználóra a 91. §-ban meghatározott díjat alkalmazhatja
 
 - a) a szociális igazgatásról és szociális ellátásokról szóló törvény szerinti személyes gondoskodást nyújtó bentlakásos szociális intézmény és a támogatott lakhatás, valamint
 - b) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti gyermekek átmeneti otthona, családok átmeneti otthona, gyermekotthon, lakásotthon, utógondozó otthon és javítóintézet
@@ -1375,7 +1381,13 @@ esetében, ha a szolgáltatás után a fenntartó a központi költségvetésrő
 
 92/A. § Azon közszolgáltató, amely az egyes közszolgáltatási tárgyú törvények módosításáról szóló 2014. évi XLI. törvény hatálybalépéséig három hónapnál ritkábban állított ki számlát, az egyes közszolgáltatási tárgyú törvények módosításáról szóló 2014. évi XLI. törvény hatálybalépését követő két hónapon belül a díjfizetéssel nem rendezett időszak vonatkozásában számla kibocsátására köteles.
 
-92/B. § Az Országos Hulladékgazdálkodási Közszolgáltatási Tervben, amelyet első alkalommal 2016. március 31-ig kell kidolgozni, meg kell határozni a hulladékgazdálkodási közszolgáltatás országos céljait, a hulladékgazdálkodási közszolgáltatás fejlesztésének irányait; a hulladékgazdálkodási közszolgáltatás ellátásának optimális területi lehatárolását és az adott területen minimálisan ellátandó közszolgáltatási feladatokat; az infrastrukturális erőforrások optimális használatának rendszerét.
+92/B. § (1) Az Országos Hulladékgazdálkodási Közszolgáltatási Tervben, amelyet első alkalommal 2016. március 31-ig kell kidolgozni, meg kell határozni a hulladékgazdálkodási közszolgáltatás országos céljait, a hulladékgazdálkodási közszolgáltatás fejlesztésének irányait; a hulladékgazdálkodási közszolgáltatás ellátásának optimális területi lehatárolását és az adott területen minimálisan ellátandó közszolgáltatási feladatokat; az infrastrukturális erőforrások optimális használatának rendszerét.
+
+(2) Az önkormányzatok 2016. június 30-ig módosítják a közszolgáltatási szerződéseiket oly módon, hogy azokból törlésre kerül a közszolgáltatási díjbeszedés és a kintlévőség-kezelés, valamint rögzítésre kerül, hogy a közszolgáltató részére a Koordináló szerv a közszolgáltatási szerződésben rögzített feladataiért szolgáltatási díjat fizet.
+
+(3) A 2016. április 1-jén működő közszolgáltató a 32/A. § (1) bekezdés f) pontja szerinti megfelelőségi véleményt 2016. október 1-jéig beszerzi.
+
+(4) Ha a 2016. április 1-jén működő közszolgáltató megfelelőségi véleménnyel a (3) bekezdésben meghatározott határidőig nem rendelkezik, a települési önkormányzat a (3) bekezdésben meghatározott határidőt követő 30 napon belül a hulladékgazdálkodási közszolgáltatási szerződést 1 hónapos határidővel felmondja. A települési önkormányzat e kötelezettségét a fővárosi és megyei kormányhivatal törvényességi felügyeleti eljárás keretében vizsgálja.
 
 #### 41. Az Európai Unió jogának való megfelelés
 
