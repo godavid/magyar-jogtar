@@ -75,11 +75,7 @@ lép.
 
 49–50. §
 
-51. § A Gyftv. 21. §-a a következő (9a) és (9b) bekezdéssel egészül ki:
-
-„(9a) Társadalombiztosítási támogatással csak olyan gyógyászati segédeszköz forgalmazható, amelyet a forgalmazó az eszköznek a 33. § (6) és (7) bekezdése szerinti nyilvántartásban megnevezett forgalomba hozójától, vagy olyan – a közbeszerzésekről szóló 2015. évi CXLIII. törvény 3. § 10. pontja szerinti – gazdasági szereplőtől szerzett be, amely az áru átvételére szolgáló bizonylattal igazolja, hogy az eszköz a 33. § (6) és (7) bekezdése szerinti nyilvántartásban megnevezett forgalomba hozótól származik.
-
-(9b) Ha a gyógyászati segédeszköz forgalomba hozója azonos a forgalmazójával, a (9a) bekezdést nem kell alkalmazni.”
+51. §
 
 52. §
 
@@ -87,9 +83,7 @@ lép.
 
 54–56. §
 
-57. § A Gyftv. a következő 87/J. §-sal egészül ki:
-
-„87/J. § Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2015. évi CCXXIV. törvénnyel megállapított 21. § (9a) és (9b) bekezdését nem kell alkalmazni a 2016. április 1-jét megelőzően beszerzett gyógyászati segédeszközökre.”
+57. §
 
 58. §
 
