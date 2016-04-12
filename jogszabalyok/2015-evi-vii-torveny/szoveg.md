@@ -41,7 +41,7 @@ Az Országgyűlésaz Alaptörvény Q) cikkében és a 25/2009. (IV. 2.) OGY hat�
 
 #### 4. Adatokhoz való hozzáférés
 
-5. § A Megvalósítási Megállapodásokban és a Beruházással összefüggésben az Egyezmény 3. cikk 1. pontja szerinti Orosz Kijelölt Szervezet és annak alvállalkozói, valamint az Egyezmény 3. cikk 2. pontja szerinti Magyar Kijelölt Szervezet és alvállalkozói által kötött szerződésekben foglalt üzleti és műszaki adatok, valamint az ezen Megvalósítási Megállapodások, szerződések és az Egyezmény előkészítésével, megkötésével kapcsolatos üzleti és műszaki adatok, valamint az ezekkel összefüggő döntések megalapozását szolgáló adatok az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 27. § (2) bekezdés b) és h) pontjára figyelemmel – azok keletkezésétől számított 30 évig – közérdekű adatként nem ismerhetőek meg.
+5. § A Megvalósítási Megállapodásokban és a Beruházással összefüggésben az Egyezmény 3. cikk 1. pontja szerinti Orosz Kijelölt Szervezet és annak alvállalkozói, valamint az Egyezmény 3. cikk 2. pontja szerinti Magyar Kijelölt Szervezet és alvállalkozói által kötött szerződésekben foglalt azon üzleti és műszaki adatok, valamint az ezen Megvalósítási Megállapodások, szerződések és az Egyezmény előkészítésével, megkötésével kapcsolatos azon üzleti és műszaki adatok, valamint az ezekkel összefüggő döntések megalapozását szolgáló azon adatok, amelyeknek az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény (a továbbiakban: Infotv.) III. Fejezete szerinti közérdekűadat-igénylés során történő megismerése az Infotv. 27. § (2) bekezdés b) és h) pontja szerinti nemzetbiztonsági érdeket, illetve szellemi tulajdonhoz fűződő jogot sértene, – azok keletkezésétől számított 30 évig – közérdekű adatként nem ismerhetőek meg.
 
 #### 5. Záró rendelkezések
 
@@ -52,6 +52,8 @@ Az Országgyűlésaz Alaptörvény Q) cikkében és a 25/2009. (IV. 2.) OGY hat�
 (3) A 10. és a 11. § 2015. július 1. napján lép hatályba.
 
 (4) A 20. § (2) bekezdése, a 21. §, a 24. §, a 28. § (2) bekezdése, a 30. § 21. pontja, a 31. § (1) bekezdés c)–g) pontja, valamint a 32. § 2016. január 1. napján lép hatályba.
+
+6/A. § E törvénynek a Paksi Atomerőmű kapacitásának fenntartásával kapcsolatos beruházásról, valamint az ezzel kapcsolatos egyes törvények módosításáról szóló 2015. évi VII. törvény módosításáról szóló 2016. évi XIX. törvénnyel megállapított 5. §-át a hatálybalépésekor folyamatban lévő, közérdekű adat megismerésére irányuló igény teljesítésére vonatkozó eljárásokban is alkalmazni kell.
 
 7. § Ez a törvény
 

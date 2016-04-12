@@ -1717,13 +1717,15 @@ végzéssel szemben van helye.
 
 (9) Ha az adóssal, adóstárssal vagy az egyéb kötelezettel szemben fennálló követelés devizaneme az egyes fogyasztói kölcsönszerződések devizanemének módosulásával és a kamatszabályokkal kapcsolatos kérdések rendezéséről szóló 2014. évi LXXVII. törvény (a továbbiakban: Forintosítási tv.) 15. §-a alapján került módosításra, a 41. § (5) bekezdése és 56. § (2) bekezdése alapján a hitelezőt megillető kamatmérték nem haladhatja meg a Forintosítási tv. 11. §-ában meghatározott mértékeket.
 
-104/A. § (1) A 104. § (1) és (2) bekezdés szerinti személyek a 104. § (3) bekezdésében meghatározott határidők elteltét követően is kezdeményezhetnek adósságrendezési eljárást 2016. március 1. napjáig, ez azonban nem érinti a 104. § (5)–(7) bekezdésben foglaltak alkalmazását.
+104/A. § (1) A 104. § (1) és (2) bekezdés szerinti személyek a 104. § (3) bekezdésében meghatározott határidők elteltét követően is kezdeményezhetnek adósságrendezési eljárást 2016. szeptember 30. napjáig, ez azonban nem érinti a 104. § (5)–(7) bekezdésben foglaltak alkalmazását.
 
-(2) A 2016. március 1-jei határidő elmulasztása miatt igazolásnak nincs helye.
+(2)
 
 104/B. § E törvénynek a természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény módosításáról szóló 2015. évi CLXVI. törvénnyel (a továbbiakban: 2015. évi CLXVI. törvény) megállapított 5. § 17., 18., és 24. pontját, 6. § (3) bekezdését, 19. § (2) bekezdés d) pontját, 26. § (6) bekezdését, 32. § (1) bekezdését, 74. § (3a), (3b), (4)–(6) bekezdését, 86. § (1), (1a) és (2) bekezdését, 96. § (5) bekezdését, 104. § (2) és (3) bekezdését, valamint 104/A. §-át a 2015. évi CLXVI. törvény hatálybalépését megelőzően kezdeményezett adósságrendezési eljárásokban is alkalmazni kell.
 
 105. § 2016. október 1-jétől az az adós, adóstárs kezdeményezhet adósságrendezési eljárást, aki megfelel az e törvény 7. és 9. §-a szerinti feltételeknek, és nem esik a 8. § szerinti kizáró okok alá, továbbá akinek a tartozásai meghaladják az adósságrendezésbe vonható, belföldön található vagy hozzáférhető vagyonát, de nem érik el a vagyon 200%-át. E rendelkezés szempontjából a vagyonba beleértendő az adós öt évre számított, adósságrendezésbe vonható várható bevétele is, de nem tartozik bele a 6. § (2) bekezdés szerinti várható bevétel.
+
+105/A. § (1) E törvénynek a természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény módosításáról szóló 2016. évi XVI. törvénnyel módosított 104/A. §-át a folyamatban lévő ügyekben is alkalmazni kell.
 
 #### 44. Felhatalmazó rendelkezések
 
