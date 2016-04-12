@@ -10,7 +10,7 @@ A magyar munkavállalók, szövetkezeti tagok, valamint a családtagjaik és a n
 
 2. § Az Üdülési és Szanatóriumi Főigazgatóság üdültetési és egyéb feladatait az ezzel kapcsolatos jogokkal és kötelezettségekkel együtt — általános jogutódként — az Alapítvány veszi át.
 
-2/A. § A személyi jövedelemadóról szóló törvény alapján, a Magyar Nemzeti Üdülési Alapítvány által kibocsátott Erzsébet-utalvány kibocsátásával a Magyar Nemzeti Üdülési Alapítványnál keletkező, a ráfordításokkal csökkentett bevételt a Magyar Nemzeti Üdülési Alapítvány szociális üdültetési célokra, ezzel kapcsolatos szolgáltatások nyújtására, illetve egyéb szociális programok végrehajtására használhatja fel.
+2/A. § A Magyar Nemzeti Üdülési Alapítvány által kibocsátott Erzsébet-utalvány kibocsátásával a Magyar Nemzeti Üdülési Alapítványnál keletkező, a ráfordításokkal csökkentett bevételt a Magyar Nemzeti Üdülési Alapítvány az Erzsébet-programról szóló 2012. évi CIII. törvényben meghatározott közfeladatokra használhatja fel.
 
 3. § (1) Ez a törvény — 2. §-a kivételével — a kihirdetését követő 5. napon lép hatályba.
 
