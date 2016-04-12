@@ -3035,6 +3035,8 @@ b) a központi költségvetésről szóló törvényben egyedi támogatásban r�
 
 vállalkozási tevékenységet nem folytató alapítványtól, közalapítványtól, a szervezet céljával összhangban kap a magánszemély;
 
+3.7. az a tevékenység ellenértékének nem minősülő juttatás, amelyet a magánszemély az Erzsébet-programról szóló törvény szabályai szerint az Erzsébet-program forrásaiból kap.
+
 4. Egyes tevékenységekhez kapcsolódóan adómentes:
 
 4.1. a nemzetközi szerződésben meghatározott diplomáciai kiváltságokat és mentességeket élvező nemzetközi szervezetek által kifizetett napidíj;

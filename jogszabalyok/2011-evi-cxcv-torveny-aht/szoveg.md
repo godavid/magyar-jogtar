@@ -526,13 +526,13 @@ költségvetési bevételeit és költségvetési kiadásait.
 
 (2) A rendkívüli kormányzati intézkedésekre szolgáló tartalék előirányzata nem lehet több a központi költségvetésről szóló törvény kiadási főösszegének 2%-ánál, és nem lehet kevesebb 0,5%-ánál.
 
-(3) A rendkívüli kormányzati intézkedésekre szolgáló tartalék terhére – az éves hatást tekintve – annak legfeljebb 40%-os mértékéig vállalható kötelezettség az első félévben. Ennél nagyobb kötelezettségvállaláshoz az Országgyűlés jóváhagyása szükséges.
+(3) A rendkívüli kormányzati intézkedésekre szolgáló tartaléknak – az éves hatást tekintve – legfeljebb 40%-a használható fel az első félévben. E mértéktől nagyobb felhasználáshoz az Országgyűlés jóváhagyása szükséges.
 
 (4) A céltartalék olyan, a központi költségvetésről szóló törvényben meghatározott költségvetési kiadási előirányzat, amely évközi kormányzati intézkedés fedezetéül szolgál, és amelynek célját és rendeltetését egyidejűleg meghatározták, azonban a költségvetési kiadási előirányzat felhasználásának fejezet, cím, alcím szerinti megoszlása a központi költségvetésről szóló törvény elfogadásakor még nem ismert.
 
 (5) Ha a központi költségvetésről szóló törvény – ide nem értve a fejezeti általános tartalékot – az (1)–(4) bekezdésben foglaltakon kívül más tartalék létrehozásáról rendelkezik, a központi költségvetésről szóló törvényben meg kell határozni a tartalék célját, felhasználásának módját és feltételeit.
 
-(6) A központi költségvetésről szóló törvény eltérő rendelkezése hiányában az e § szerinti tartalékok felhasználásáról a Kormány az államháztartásért felelős miniszter előterjesztése alapján egyedi határozatban rendelkezik.
+(6) A központi költségvetésről szóló törvény eltérő rendelkezése hiányában az e § szerinti tartalékok felhasználásáról a Kormány a 33. § (2) bekezdése szerint, egyedi határozatban rendelkezik.
 
 #### 13. A központi költségvetésről szóló törvény elfogadása
 
@@ -742,11 +742,11 @@ kerülhet sor.
 
 #### 25. Kötelezettségvállalás, pénzügyi ellenjegyzés
 
-36. § (1) A 32. §-ban és az (5) bekezdésben foglalt kivételekkel a költségvetési év kiadási előirányzatai és – ha jogszabály azt lehetővé teszi – a 49. § szerinti lebonyolító szerv számára a Kormány rendeletében meghatározottak szerinti rendelkezésre bocsátott összeg terhére kötelezettségvállalásra az azokat terhelő korábbi kötelezettségvállalásokkal és más fizetési kötelezettségekkel csökkentett összegű eredeti vagy módosított kiadási előirányzatok (a továbbiakban: szabad előirányzat) mértékéig kerülhet sor.
+36. § (1) A 32. §-ban és az (5) bekezdésben meghatározott kivételekkel a költségvetési év kiadási előirányzatai és – ha jogszabály azt lehetővé teszi – a 49. § szerinti lebonyolító szerv számára a Kormány rendeletében meghatározottak szerint rendelkezésre bocsátott összeg terhére kötelezettségvállalásra az azokat terhelő korábbi kötelezettségvállalásokkal és más fizetési kötelezettségekkel csökkentett összegű eredeti vagy módosított kiadási előirányzatok (a továbbiakban: szabad előirányzat) mértékéig kerülhet sor. Más fizetési kötelezettségnek minősül a jogszabályon, jogerős vagy fellebbezésre tekintet nélkül végrehajtható bírósági, hatósági döntésen, vagy más, a fizetési kötelezettség összegét vagy az összeg megállapításának módját, továbbá a felek valamennyi jogát és kötelezettségét megállapító kötelező előíráson alapuló fizetési kötelezettség.
 
-(2) Az (1) bekezdés alkalmazásában más fizetési kötelezettségnek a jogszabályon, jogerős vagy fellebbezésre tekintet nélkül végrehajtható bírósági, hatósági döntésen, vagy más, a fizetési kötelezettség összegét vagy az összeg megállapításának módját, továbbá a felek valamennyi jogát és kötelezettségét megállapító kötelező előíráson alapuló fizetési kötelezettség minősül.
+(2) A Kormány egyedi határozatban a szabad előirányzatot meghaladó mértékű vagy tárgyévi előirányzattal nem rendelkező közfeladathoz kapcsolódó kötelezettségvállalást engedélyezhet az ahhoz szükséges előirányzat mértékéről hozott döntésével egyidejűleg, amelynek átcsoportosításáról az államháztartásért felelős miniszter a Kormány 33. § (2) bekezdésében meghatározott jogkörében eljárva utólag, egyoldalú nyilatkozatban gondoskodik.
 
-(3) Az (1) bekezdés szerinti kötelezettségvállalás esetén a pénzügyi teljesítésnek – a Kormány rendeletében foglalt kivételekkel – legkésőbb a költségvetési év december 31-éig meg kell történnie.
+(3) Az (1) és (2) bekezdés szerinti kötelezettségvállalás esetén a pénzügyi teljesítésnek – a Kormány rendeletében meghatározott kivételekkel – legkésőbb a költségvetési év december 31-éig meg kell történnie.
 
 (4) Az (5) bekezdésben foglaltak, valamint a 20. § (1) bekezdése szerinti pénzeszközök terhére vállalt kötelezettségek kivételével az államháztartás központi alrendszerében több év vagy a költségvetési éven túli év kiadási előirányzata terhére kötelezettség
 
@@ -774,7 +774,7 @@ vállalható.
 
 (7) A kötelezettségvállalásra jogosult személyek körét a Kormány rendeletben határozza meg.
 
-37. § (1) Kötelezettséget vállalni a Kormány rendeletében foglalt kivételekkel csak pénzügyi ellenjegyzés után, a pénzügyi teljesítés esedékességét megelőzően, írásban lehet. A pénzügyi ellenjegyzőnek meg kell győződnie arról, hogy a szabad előirányzat rendelkezésre áll, a tervezett kifizetési időpontokban a pénzügyi fedezet biztosított, és a kötelezettségvállalás nem sérti a gazdálkodásra vonatkozó szabályokat.
+37. § (1) Kötelezettséget vállalni a Kormány rendeletében foglalt kivételekkel csak pénzügyi ellenjegyzés után, a pénzügyi teljesítés esedékességét megelőzően, írásban lehet. A pénzügyi ellenjegyzőnek a Kormány rendeletében foglalt kivételekkel meg kell győződnie arról, hogy a szabad előirányzat rendelkezésre áll, a tervezett kifizetési időpontokban a pénzügyi fedezet biztosított, és a kötelezettségvállalás nem sérti a gazdálkodásra vonatkozó szabályokat.
 
 (2) A pénzügyi ellenjegyzésre jogosult személyek körét, a pénzügyi ellenjegyző feladatait, összeférhetetlenségének eseteit, képesítési követelményeit a Kormány rendeletben határozza meg.
 
