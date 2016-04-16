@@ -131,29 +131,27 @@ köteles ügyfélszolgálat működtetéséről gondoskodni személyes, valamint
 
 ### Az üzletek üzemeltetésének és nyitva tartásának rendje
 
-6. § (1) Az üzlet nyitvatartási idejét a vásárlási szokások, a foglalkoztatottak és a lakókörnyezet érdekeinek figyelembevételével – a kiskereskedelmi szektorban történő vasárnapi munkavégzés tilalmáról szóló törvény és a felhatalmazása alapján kiadott jogszabályok, valamint e törvény keretei között – a kereskedő állapítja meg.
+6. § (1) Az üzlet nyitvatartási idejét a vásárlási szokások, a foglalkoztatottak és a lakókörnyezet érdekeinek figyelembevételével a kereskedő állapítja meg.
 
-(1a) Az az üzlet, amely kis- és nagykereskedelmi tevékenységet azonos helyen és időben folytat, a kiskereskedelmi szektorban történő vasárnapi munkavégzés tilalmáról szóló törvény rendelkezéseinek alkalmazása során kiskereskedelmi tevékenységet folytató üzletnek minősül.
-
-(1b) Az az üzemanyagtöltő állomás területén működő üzlet, amely nem értékesít üzemanyagot, a kiskereskedelmi szektorban történő vasárnapi munkavégzés tilalmáról szóló törvény rendelkezéseinek alkalmazása során kiskereskedelmi tevékenységet folytató üzletnek minősül.
+(1a)–(1b)
 
 (2) A kereskedő köteles
 
 - a) az üzlet nyitvatartási idejét az üzlet létesítésére vonatkozó bejelentésben vagy a működési engedély iránti kérelemben, illetve az abban bekövetkező változást az azt megelőző nyolc napon belül a kereskedelmi hatóságnak bejelenteni;
 - b) az üzlet nyitvatartási idejéről és az abban bekövetkező változásokról a vásárlókat tájékoztatni.
 
-(3)
+(3) December 24-én – a vendéglátó üzletek, szálláshelyek, a virág-, az édességüzletek és az üzemanyagtöltő állomások, továbbá a közforgalmú vasúti és buszpályaudvaron, repülőtéren, illetve az üzemanyagtöltő állomáson belül működő üzletek kivételével – az üzletek 14 óráig tarthatnak nyitva.
 
-(4) A települési önkormányzat képviselő-testülete (Budapesten a kerületi önkormányzat képviselő-testülete, a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat közgyűlése) – a helyi sajátosságok figyelembevételével – rendeletben szabályozhatja
+(4) A települési (Budapesten a kerületi) önkormányzat képviselő-testülete – a helyi sajátosságok figyelembevételével – rendeletben szabályozhatja
 
-- a) az üzletek éjszakai (22 és 6 óra közötti) nyitva tartásának a kiskereskedelmi szektorban történő vasárnapi munkavégzés tilalmáról szóló törvényben és a felhatalmazása alapján kiadott kormányrendeletben foglalt feltételei további korlátozását, valamint
+- a) az üzletek éjszakai (22 és 6 óra közötti) nyitvatartási rendjét, valamint
 - b) a világörökségi területen működő, szeszes italt kimérő, árusító kereskedelmi, illetve vendéglátó üzletek 24 és 6 óra közötti nyitva tartásával összefüggő – a közbiztonság, illetve a köztisztaság fenntartásához kapcsolódó – többletfeladatokhoz igazodó összegű felügyeleti díjat.
 
 (4a) A felügyeleti díjat a helyi rendelet legfeljebb 20 Ft/fő/éjszakai nyitvatartási nap mértékben határozhatja meg. A felügyeleti díj összege az üzlet éves korrigált iparűzési adóalapjának 0,5%-át nem haladhatja meg. A felügyeleti díj alapja vendéglátó üzletek esetén a működési engedélyben vagy igazolásban meghatározott befogadóképesség, egyéb üzletek esetében az alapterület alapján számított 3 négyzetméterenként egy fő. A felügyeleti díjat negyedévente, az azt követő hónap 15-éig kell megfizetni az illetékes önkormányzat erre a célra létrehozott számlájára.
 
 (4b) A felügyeleti díjat az önkormányzat kizárólag a felügyeleti díj fizetésére kötelezett üzletek által közvetlenül vagy közvetve okozott, a települési önkormányzatot egyébként terhelő közbiztonsági, illetve köztisztasági feladatokat meghaladóan az éjszakai nyitva tartással összefüggésben keletkező – az önkormányzat által elkülönítetten kimutatott – közbiztonsági, illetve köztisztasági többletfeladatok ellátására fordíthatja.
 
-(5) A kereskedelmi hatóság bejelentés alapján vagy hivatalból – a lakók egészséges életkörülményeinek és pihenéshez való jogának biztosítása érdekében – a külön jogszabályban meghatározott veszélyes mértékű zaj esetén az üzlet éjszakai (22 óra és 6 óra közötti) nyitva tartását – korlátozhatja akkor is, ha az üzlet a kiskereskedelmi szektorban történő vasárnapi munkavégzés tilalmáról szóló törvény vagy a felhatalmazása alapján kiadott kormányrendelet rendelkezései alapján nyitva tarthat. A korlátozás keretében a kereskedelmi hatóság a jogsértő állapot megszüntetéséig kötelező éjszakai zárvatartási időszakot rendelhet el.
+(5) A kereskedelmi hatóság bejelentés alapján vagy hivatalból – a lakók egészséges életkörülményeinek és pihenéshez való jogának biztosítása érdekében – a külön jogszabályban meghatározott veszélyes mértékű zaj esetén az üzlet éjszakai (22 óra és 6 óra közötti) nyitva tartását korlátozhatja. A korlátozás keretében a kereskedelmi hatóság a jogsértő állapot megszüntetéséig kötelező éjszakai zárva tartási időszakot rendelhet el.
 
 (6) A kereskedelmi tevékenységhez kapcsolódóan nem használható hirdetés vagy figyelemfelhívás céljára olyan hanghatást okozó eszköz, amely a külön jogszabályban meghatározott veszélyes mértékű környezeti zajjal jár.
 
@@ -367,7 +365,7 @@ rendeletben állapítsa meg.
 
 rendeletben állapítsa meg.
 
-(5) Felhatalmazást kap a települési (Budapesten a kerületi) önkormányzat képviselő-testülete, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat közgyűlése, hogy az üzletek éjszakai (22 és 6 óra közötti) nyitva tartásával összefüggő többletfeladatokhoz igazodó összegű felügyeleti díjra vonatkozó részletszabályokat, a befolyt összeg felhasználásáról szóló elszámolás módját, valamint a 2. § 31. pontjában foglaltak ellenőrzését rendeletben szabályozza.
+(5) Felhatalmazást kap a települési (Budapesten a kerületi) önkormányzat képviselő-testülete, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat közgyűlése, hogy az üzletek éjszakai (22 és 6 óra közötti) nyitvatartási rendjét, a felügyeleti díjra vonatkozó részletszabályokat, a befolyt összeg felhasználásáról szóló elszámolás módját, valamint a 2. § 31. pontjában foglaltak ellenőrzését rendeletben szabályozza.
 
 (6) Felhatalmazást kap a vendéglátásért felelős miniszter, hogy – a kereskedelemért felelős miniszterrel egyetértésben – rendeletben szabályozza a vendéglátás szakmai feltételeit.
 
