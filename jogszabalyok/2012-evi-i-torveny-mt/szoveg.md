@@ -1112,15 +1112,14 @@ rendkívüli munkaidő tartamát be kell számítani.
 101. § (1) Vasárnapra rendes munkaidő
 
 - a) a rendeltetése folytán e napon is működő munkáltatónál vagy munkakörben,
-- b) az idényjelleggel,
-- c) a megszakítás nélkül,
+- b) az idényjellegű,
+- c) a megszakítás nélküli,
 - d) a több műszakos tevékenység keretében,
 - e) a készenléti jellegű munkakörben,
 - f) a kizárólag szombaton és vasárnap részmunkaidőben,
 - g) társadalmi közszükségletet kielégítő, vagy külföldre történő szolgáltatás nyújtásához – a szolgáltatás jellegéből eredően – e napon szükséges munkavégzés esetén,
-- h) külföldön történő munkavégzés során,
-- i) a kereskedelemről szóló 2005. évi CLXIV. törvény (a továbbiakban: Kertv.) hatálya alá tartozó, kereskedelmi tevékenységet, a kereskedelmet kiszolgáló szolgáltató, valamint kereskedelmi jellegű turisztikai szolgáltatási tevékenységet folytató munkáltatónál
-- j)
+- h) külföldön történő munkavégzés során, valamint
+- i) a kereskedelemről szóló törvény hatálya alá tartozó, kereskedelmi tevékenységet, a kereskedelmet kiszolgáló szolgáltató, valamint kereskedelmi jellegű turisztikai szolgáltatási tevékenységet folytató munkáltatónál
 
 foglalkoztatott munkavállaló számára osztható be.
 
@@ -1554,23 +1553,14 @@ kell osztani.
 
 140. § (1) Vasárnapi munkavégzés esetén ötven százalék bérpótlék (vasárnapi pótlék) jár,
 
-- a) ha a munkavállaló a rendes munkaidőben történő munkavégzésre kizárólag a 101. § (1) bekezdés d), e) vagy i) pontjában meghatározottak szerint osztható be, továbbá
+- a) ha a munkavállaló a rendes munkaidőben történő munkavégzésre kizárólag a 101. § (1) bekezdés d), e) vagy i) pontban meghatározott feltételek alapján kötelezhető, továbbá
 - b) a rendkívüli munkaidőre
-  - ba) a 101. § (1) bekezdés d), e) vagy i) pontjában meghatározott munkavállalónak,
-  - bb) ha a munkavállaló számára a 101. § (1) bekezdése alapján rendes munkaidő nem osztható be.
+  - ba) a 101. § (1) bekezdés d), e) vagy i) pontban meghatározott munkavállalónak,
+  - bb) ha a munkavállaló a 101. § (1) bekezdés alapján rendes munkaidőben történő munkavégzésre nem kötelezhető.
 
-(2) Az (1) bekezdésben foglaltakon túlmenően további ötven százalék vasárnapi pótlék jár annak a munkavállalónak, akit, vagy akinek a kiskereskedelmi szektorban történő vasárnapi munkavégzés tilalmáról szóló 2014. évi CII. törvény (a továbbiakban: Kszvmtv.) 4. § (1) bekezdés a) és c) pontja szerinti vasárnapon, – a Kszvmtv. 5–6. §-a szerinti üzletek kivételével – a Kszvmtv. hatálya alá tartozó
+(2) A munkavállalót munkaszüneti napon történő munkavégzés esetén száz százalék bérpótlék illeti meg.
 
-- a) kiskereskedelmi tevékenységet folytató üzletben, vagy
-- b) a Kertv. 6. § (1a)–(1b) bekezdése szerinti üzletben
-
-a munkáltató rendes munkaidőben történő munkavégzésre oszt be, vagy rendkívüli munkavégzést rendel el.
-
-(3) A (2) bekezdés szerint jár a vasárnapi pótlék, ha a munkavállaló a (2) bekezdés szerinti üzletben a Kszvmtv. 4. § (1) bekezdés b) pontja szerinti napon vasárnap végez munkát.
-
-(4) A munkavállalót munkaszüneti napon történő munkavégzés esetén száz százalék bérpótlék illeti meg.
-
-(5) A (4) bekezdés szerinti bérpótlék jár a húsvét- vagy a pünkösdvasárnap, vagy a vasárnapra eső munkaszüneti napon történő munkavégzés esetén.
+(3) A (2) bekezdés szerinti bérpótlék jár a húsvét- vagy a pünkösdvasárnap, vagy a vasárnapra eső munkaszüneti napon történő munkavégzés esetén.
 
 141. § (1) A munkavállalónak, ha a beosztás szerinti napi munkaidő kezdetének időpontja rendszeresen változik, a tizennyolc és hat óra közötti időtartam alatt történő munkavégzés esetén harminc százalék bérpótlék (műszakpótlék) jár.
 
