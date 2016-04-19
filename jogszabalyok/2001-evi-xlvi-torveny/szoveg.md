@@ -16,11 +16,20 @@ Az Országgyűlés a magyar állampolgárok konzuli védelmére vonatkozó rende
 
 (5) Az e törvényben meghatározott, a konzuli védelem körén kívül eső konzuli feladatokat a konzuli tisztviselő csak akkor látja el, ha magyar állampolgár jogát vagy jogos érdekét az ügy érinti.
 
+(6) Az ügyfél köteles jóhiszeműen eljárni és a konzuli szolgálattal együttműködni az e törvényben szabályozott eljárások során.
+
 ### A konzuli szolgálat
 
 2. § (1) Konzuli szolgálat: Magyarország diplomáciai és konzuli képviselete – ideértve a tiszteletbeli konzuli tisztviselő által vezetett konzuli képviseletet is –, valamint a miniszter és a konzuli tisztviselő. Magyarország diplomáciai és konzuli képviseletét, valamint a konzuli tisztviselő munkáját a miniszter irányítja, ennek során gondoskodik a konzuli szolgálat feladatainak összehangolásáról és egységes jogalkalmazása feltételeinek megteremtéséről.
 
-(2) Magyarország konzuli tisztviselője a diplomáciai vagy konzuli képviseleten a miniszter megbízása alapján konzuli feladatot ellátó személy (a továbbiakban: konzuli tisztviselő), ideértve a tiszteletbeli konzuli tisztviselőt is.
+(2) Magyarország konzuli tisztviselője a diplomáciai vagy konzuli képviseleten a miniszter megbízása alapján konzuli feladatot ellátó személy. Konzuli tisztviselőnek minősül a hivatásos konzuli tisztviselő és a tiszteletbeli konzuli tisztviselő.
+
+(2a) Hivatásos konzuli tisztviselőnek a külpolitikáért felelős miniszter által vezetett minisztériummal (a továbbiakban: a minisztérium) kormányzati szolgálati jogviszonyban álló azon kormánytisztviselő nevezhető ki, aki
+
+- a) közigazgatási alapvizsgával rendelkezik vagy az alól jogszabály alapján mentesült, és legalább kétévi közigazgatási gyakorlattal rendelkezik, melyből legalább három hónapot töltött a minisztérium konzuli ügyekben illetékes főosztályán, vagy
+- b) jogi szakvizsgával vagy közigazgatási szakvizsgával rendelkezik, és legalább egy hónap szakmai gyakorlatot szerzett a minisztérium konzuli ügyekben illetékes főosztályán, továbbá a konzuli szakmai tanfolyamon való részvételt követően sikeres konzuli szakmai vizsgát tett.
+
+(2b) Konzuli szakmai vizsgára a minisztérium diplomáciai ranggal rendelkező munkatársa bocsátható. A jelöltnek a konzuli szakmai vizsga során a minisztérium és az igazságügyért felelős miniszter vezetése alatt álló minisztérium képviselőjéből álló vizsgabizottság előtt számot kell adnia a konzuli tevékenységgel kapcsolatos magyar és nemzetközi jogi háttérre vonatkozó, normatív utasításban meghatározott ismereteiről.
 
 (3) A miniszter tiszteletbeli konzuli tisztviselőnek a fogadó vagy harmadik állam azon állampolgárát vagy a fogadó államban élő azt a magyar állampolgárt nevezheti ki, aki a magyar jog és a fogadó állam joga szerint is büntetlen előéletű, külön rendeletben meghatározott feltételek szerint alkalmas az e tisztséggel járó feladatok teljesítésére, és írásban vállalja azok ellátását. A tiszteletbeli konzuli tisztviselőt a miniszter jogszabályban meghatározott korlátozásokkal és terjedelemben bízhatja meg konzuli feladatok ellátásával.
 
@@ -46,11 +55,11 @@ Az Országgyűlés a magyar állampolgárok konzuli védelmére vonatkozó rende
 
 (2) Más állampolgársággal is rendelkező magyar állampolgár a másik állampolgársága szerinti államban olyan mértékben jogosult a védelemre, amilyen mértékig azt a fogadó állam lehetővé teszi.
 
-(3) Olyan államban, ahol Magyarországnak nem működik diplomáciai vagy konzuli képviselete, – a (4) bekezdés rendelkezéseit nem érintve – nemzetközi szerződés vagy viszonosság alapján harmadik állam konzuli szolgálata is elláthatja a magyar állampolgár érdekvédelmét, feltéve, hogy azt a fogadó állam nem ellenzi. Nemzetközi szerződés vagy viszonosság alapján a magyar konzuli szolgálat is elláthatja harmadik állam állampolgárának érdekvédelmét, feltéve, hogy azt a fogadó állam nem ellenzi.
+(3) Olyan államban, ahol Magyarországnak nem működik diplomáciai vagy konzuli képviselete, – a (4) bekezdés rendelkezéseit nem érintve – nemzetközi szerződés vagy viszonosság alapján harmadik állam konzuli szolgálata is elláthatja a magyar állampolgár érdekvédelmét, feltéve, hogy azt a fogadó állam nem ellenzi. Nemzetközi szerződés vagy viszonosság alapján a konzuli szolgálat is elláthatja harmadik állam állampolgárának érdekvédelmét, feltéve, hogy azt a fogadó állam nem ellenzi.
 
-(4) Európai uniós jogi aktus, nemzetközi szerződés vagy viszonosság alapján magyar állampolgár érdekvédelmét az Európai Unió tagállama is elláthatja, feltéve, hogy azt a fogadó állam nem ellenzi. Európai uniós jogi aktus, nemzetközi szerződés vagy viszonosság alapján a magyar konzuli szolgálat ellátja az uniós polgár érdekvédelmét, feltéve, hogy azt a fogadó állam nem ellenzi.
+(4) Európai uniós jogi aktus, nemzetközi szerződés vagy viszonosság alapján magyar állampolgár érdekvédelmét az Európai Unió tagállama is elláthatja, feltéve, hogy azt a fogadó állam nem ellenzi. Európai uniós jogi aktus, nemzetközi szerződés vagy viszonosság alapján a konzuli szolgálat ellátja az uniós polgár érdekvédelmét, feltéve, hogy azt a fogadó állam nem ellenzi.
 
-(5) Ha a konzuli védelem nyújtásának feltételei fennállnak, a magyar konzuli szolgálat az uniós polgárt a magyar állampolgárral azonos, az e törvényben, valamint a végrehajtásáról szóló jogszabályokban meghatározott elbánásban részesíti.
+(5) Ha a konzuli védelem nyújtásának feltételei fennállnak, a konzuli szolgálat az uniós polgárt a magyar állampolgárral azonos, az e törvényben, valamint a végrehajtásáról szóló jogszabályokban meghatározott elbánásban részesíti.
 
 ### Tanácsadás és segítségnyújtás
 
@@ -78,7 +87,7 @@ Az Országgyűlés a magyar állampolgárok konzuli védelmére vonatkozó rende
 
 (6) A hazatérési kölcsönre előirányzott keretet fejezeti kezelésű előirányzatként a miniszter által vezetett minisztérium költségvetési fejezetében kell megállapítani.
 
-### Segítségnyújtás baleset vagy erőszakos bűncselekmény áldozatainak, illetőleg súlyos, sürgős ellátást igénylő betegnek
+### Segítségnyújtás baleset vagy bűncselekmény áldozatainak, illetve súlyos, sürgős ellátást igénylő betegnek
 
 6. § (1) Amennyiben a konzuli szolgálat tudomást szerez arról, hogy magyar állampolgár súlyos sérüléssel járó balesetet szenvedett vagy ilyen sérülést okozó bűncselekmény sértettjévé vált, illetőleg súlyos, sürgős ellátást igénylő betegségben szenved, haladéktalanul tájékozódik arról, hogy az érintett megfelelő egészségügyi ellátásban részesül-e, értesíti a sérült vagy beteg által megjelölt személyt, valamint gondoskodik az érintett vagy legközelebbi ismert hozzátartozója felvilágosításáról a gyógykezelés, illetve, szükség esetén, a feljelentés megtételének és a kárigény érvényesítésének feltételeiről a fogadó államban.
 
@@ -94,7 +103,7 @@ Az Országgyűlés a magyar állampolgárok konzuli védelmére vonatkozó rende
 
 7. § (1) A magyar állampolgárok életét, testi épségét külföldön közvetlenül fenyegető természeti katasztrófa, háborús cselekmények vagy fegyveres összeütközések esetén a konzuli szolgálat megteszi az adott körülmények között elvárható intézkedéseket az érintett magyar állampolgárok tájékoztatása, és a velük való folyamatos kapcsolattartás érdekében.
 
-(2) A konzuli szolgálat folyamatosan értékeli a helyzet alakulását. E tevékenysége során egyeztet az Európai Unió tagállamaival, elsősorban azok helyben működő diplomáciai vagy konzuli képviseletei útján, valamint az Európai Unió Tanácsával.
+(2) A konzuli szolgálat az (1) bekezdésben meghatározott állapot folyamatos értékelése keretében egyeztet az Európai Unió tagállamaival, elsősorban azok helyben működő diplomáciai vagy konzuli képviseletei útján, valamint az Európai Unió Tanácsával és küldöttségével. Az együttműködés során különös hangsúlyt fektet a képviselettel nem rendelkező uniós polgárok részére nyújtott segítség koordinálását végző tagállammal (vezető állam) vagy tagállamokkal történő egyeztetésre. E bekezdés alkalmazásában vezető állam a harmadik országban diplomáciai képviselettel rendelkező azon tagállam, amely a képviselettel nem rendelkező uniós polgároknak válsághelyzetekben nyújtandó támogatás koordinálásáért és irányításáért felel.
 
 (3) Szükség esetén a miniszter javaslatot tesz a Kormánynak a magyar állampolgárok hazatérésének elősegítésére vagy evakuálására. Az evakuálás végrehajtásában együttműködik az Európai Unió tagállamaival, az Európai Unió és az Észak-atlanti Szerződés Szervezete szerveivel.
 
@@ -143,23 +152,47 @@ Az Országgyűlés a magyar állampolgárok konzuli védelmére vonatkozó rende
 
 (3) A további eljárásra a magyar gyámhatóság intézkedése irányadó azzal, hogy az eljárás során a konzuli szolgálat a fogadó állam gyámhatóságával való együttműködésre törekszik.
 
-### Távollevő személy képviselete
+### Intézkedés ügyeinek vitelében akadályozott személy érdekében
 
-13. § (1) Amennyiben nemzetközi szerződés eltérően nem rendelkezik, a fogadó állam bírósága vagy más hatósága előtti eljárásban a konzuli tisztviselő fellép a magyar állampolgár képviseletében vagy intézkedést tesz a képviseletének biztosítására avégből, hogy e hatóságok ideiglenes intézkedést hozzanak a magyar állampolgár jogainak és érdekeinek megóvására, feltéve, hogy a magyar állampolgár távolléte miatt, vagy más elháríthatatlan okból nem képes jogait és érdekeit időben személyesen vagy meghatalmazottja útján érvényesíteni.
+13. § (1) Ha a magyar állampolgár elháríthatatlan okból nem képes jogait és érdekeit időben személyesen vagy meghatalmazottja útján érvényesíteni – amennyiben nemzetközi szerződés eltérően nem rendelkezik –, a fogadó állam bírósága vagy más hatósága előtti eljárásban a konzuli tisztviselő fellép a magyar állampolgár érdekében vagy intézkedik a képviseletének biztosításáról azért, hogy e hatóságok ideiglenes intézkedést hozzanak a magyar állampolgár jogainak és érdekeinek megóvására.
 
 (2) A megtett intézkedésről a konzuli szolgálat értesíti az érdekelt magyar állampolgárt, s felhívja, hogy az eljárásban a továbbiakban személyesen vagy meghatalmazottja útján vegyen részt. Szükség esetén tájékoztatást nyújt a fogadó államban hatályban lévő, az igény érvényesítésre vonatkozó eljárási jogszabályokról, valamint tanácsot ad megfelelő jogi képviselő választásához, fordító vagy tolmács igénybevételéhez.
 
 (3) A konzuli tisztviselő a fogadó állam eljárási jogszabályai és gyakorlata tiszteletben tartásával, az ezek által lehetővé tett mértékig vesz részt az e § szerinti ügyek intézésében.
 
-### Tanúsítványkészítés és letét kezelés
+### Tanúsítványkészítés
 
-14. § (1) Magyarországnak a miniszter által egyes közjegyzői feladatok végzésére felhatalmazott konzuli tisztviselője a jogilag jelentős tényekről és körülményekről konzuli tanúsítványt készíthet, okiratról hiteles fordítást készíthet vagy a fordítás helyességét tanúsíthatja, továbbá okiratot, pénzt és egyéb értéket vehet át megőrzésre. A tanúsítványkészítésre felhatalmazott konzuli tisztviselők jegyzékét a miniszter az általa vezetett minisztérium honlapján közzéteszi.
+14. § (1) Magyarországnak a miniszter által egyes közjegyzői feladatok végzésére felhatalmazott hivatásos konzuli tisztviselője konzuli tanúsítványt készíthet:
+
+- a) arról, hogy a másolat az előtte felmutatott okirattal megegyező,
+- b) az aláírás és kézjegy valódiságáról,
+- c) magyar állampolgár életben létéről,
+- d) a fordítás helyességéről, ideértve az általa készített hiteles fordítást is,
+- e) egyéb jogi jelentőségű tényről és körülményről. A tanúsítványkészítésre felhatalmazott konzuli tisztviselők jegyzékét a miniszter a minisztérium honlapján közzéteszi.
 
 (2) Az (1) bekezdés szerinti jogkörben eljáró konzuli tisztviselő a konzuli tanúsítvány kiállításánál a közjegyzőkről szóló törvény rendelkezései szerint jár el.
 
 (3) A konzuli tisztviselő köteles megtagadni a közreműködést a közjegyzőkről szóló törvényben foglalt esetekben, továbbá, ha az eljárás nemzetközi jogi szabályba vagy a fogadó állam jogszabályába ütközne.
 
 (4) Az (1) bekezdés alapján készített tanúsítvány közokirat.
+
+(5) A miniszter a 2. § (2a) bekezdésében foglalt feltételek teljesülésétől függetlenül felhatalmazást adhat a diplomáciai vagy hivatásos konzuli képviselet vezetőjének vagy az ideiglenes ügyvivőnek, hogy a 2. § (2a) bekezdésében foglaltak szerint felhatalmazott hivatásos konzuli tisztviselő távollétében konzuli tanúsítványt készítsen.
+
+(6) A miniszter a 2. § (2a) bekezdésében foglalt feltételek teljesülésétől függetlenül felhatalmazást adhat a tiszteletbeli konzuli tisztviselőnek az (1) bekezdés a)–c) pontjában megjelölt konzuli tanúsítványok készítésére.
+
+(7) Ha a diplomáciai vagy hivatásos konzuli képviseleten dolgozó, konzuli tanúsítvány készítésére felhatalmazott személy előreláthatóan harminc napot meghaladó időtartamra távol van, és helyettesítése az ugyanazon diplomáciai vagy hivatásos konzuli képviseleten dolgozó, felhatalmazással rendelkező személy által nem oldható meg, a miniszter a helyettesítésére más személyt hatalmaz fel, vagy kijelöli azt a diplomáciai vagy hivatásos konzuli képviseletet, amely a tanúsítvány készítésével kapcsolatos feladatokat ideiglenesen ellátja.
+
+(8) A hivatásos konzuli tisztviselő vagy hozzátartozója jogait érintő tanúsítványkészítési ügyben való eljárásra – másik felhatalmazott hivatásos konzuli tisztviselő hiányában – a miniszter az (5) bekezdésben foglaltak szerint hatalmazhatja fel a diplomáciai vagy hivatásos konzuli képviselet vezetőjét vagy az ideiglenes ügyvivőt.
+
+(9) A konzuli tisztviselő nyilvántartást vezet az általa záradék vagy jegyzőkönyv formájában készített konzuli tanúsítványokról. A nyilvántartás tartalmazza az ügy számát, az ügyintézés időpontját, a fél (felek) nevét, állampolgárságát, lakóhelyét, a személyazonosság megállapításának módját, az ügy tárgyát, a konzuli díjat, továbbá a konzuli tisztviselő megjegyzéseit.
+
+(10) A konzuli tisztviselő a megjegyzés rovatban tünteti fel az ügy szempontjából jelentős, más rovatba be nem jegyezhető tényeket és adatokat, így különösen, ha a konzuli tisztviselő a közreműködést megtagadja, ha aggályos körülményt észlel és ezt az iraton feltünteti, valamint, ha a konzuli tisztviselő díjkedvezményt alkalmaz.
+
+(11) Az aláírás és kézjegy valódiságáról készített konzuli tanúsítvány esetében a (9) bekezdés szerinti nyilvántartás tartalmazza az ügyfél aláírását vagy kézjegyét.
+
+(12) A jegyzőkönyv formájában készített konzuli tanúsítvány egy másolati példányát a diplomáciai vagy konzuli képviseleten öt évig kell megőrizni, ezt követően pedig jegyzőkönyv felvétele mellett le kell selejtezni.
+
+(13) A hivatásos konzuli tisztviselő által készített hiteles fordítást és a fordítás helyességéről kiállított konzuli tanúsítványt a (12) bekezdésben foglaltak szerint kell kezelni.
 
 ### Felülhitelesítés
 
@@ -256,7 +289,8 @@ Az Országgyűlés a magyar állampolgárok konzuli védelmére vonatkozó rende
 
 - a) az 5. § (2) bekezdés a) pontja szerinti úti okmányok kiállítása,
 - b) hazatérési kölcsön nyújtása,
-- c) halottszállítási engedély kiállítása.
+- c) halottszállítási engedély kiállítása,
+- d) okirat, pénz és egyéb érték megőrzésre való átvétele (konzuli letét).
 
 (4) A (3) bekezdésben felsorolt közigazgatási hatósági feladatokon túl a konzuli tisztviselő a konzuli védelem ellátása érdekében hatósági bizonyítványt állíthat ki.
 
@@ -301,7 +335,7 @@ Az Országgyűlés a magyar állampolgárok konzuli védelmére vonatkozó rende
 
 20. § (1) A jogi személy konzuli védelmére e törvény rendelkezései megfelelően irányadók.
 
-(2) E törvény alkalmazásában közeli hozzátartozó a Polgári Törvénykönyvben ilyenként meghatározott személy.
+(2) E törvény alkalmazásában közeli hozzátartozó, illetve hozzátartozó a Polgári Törvénykönyvről szóló törvényben ilyenként meghatározott személy.
 
 (3) Ahol jogszabály a magyar külképviselet számára hatósági jogkört állapít meg, azon a konzuli tisztviselőt kell érteni.
 
@@ -321,6 +355,7 @@ Az Országgyűlés a magyar állampolgárok konzuli védelmére vonatkozó rende
 
 24. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-- a) az Európai Unió működéséről szóló Szerződés 23. cikke,
+- a) az Európai Unió működéséről szóló Szerződés 20. cikk (2) bekezdés c) pontja és 23. cikke,
 - b) az Európai Közösségek tagállamai kormányainak a Tanács keretében ülésező képviselői által 1995. december 19-én elfogadott 95/553/EK határozata az Európai Unió polgárainak a diplomáciai és konzuli képviseletek által nyújtott védelméről,
-- c) a tagállamok kormányainak a Tanács keretében ülésező képviselői által 1996. június 25-én elfogadott 96/409/KKBP határozata egy ideiglenes úti okmány létrehozásáról.
+- c) a tagállamok kormányainak a Tanács keretében ülésező képviselői által 1996. június 25-én elfogadott 96/409/KKBP határozata egy ideiglenes úti okmány létrehozásáról,
+- d) a harmadik országokban képviselettel nem rendelkező uniós polgárok konzuli védelmét elősegítő koordinációs és együttműködési intézkedésekről és a 95/553/EK határozat hatályon kívül helyezéséről szóló, 2015. április 20-i 2015/637/EU tanácsi irányelv.
