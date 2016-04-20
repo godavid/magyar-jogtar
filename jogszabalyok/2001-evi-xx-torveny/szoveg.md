@@ -387,7 +387,7 @@ Az MFB Zrt. a 3. § (5) bekezdése alapján az állam nevében a következő gaz
 - 2. Diákhitel Központ Zártkörűen Működő Részvénytársaság
 - 3. Kisvállalkozás-fejlesztő Pénzügyi Zártkörűen Működő Részvénytársaság
 - 4. Corvinus Nemzetközi Befektetési Zártkörűen Működő Részvénytársaság
-- 5. Hungarofest Nemzeti Rendezvényszervező Nonprofit Korlátolt Felelősségű Társaság
+- 5.
 - 6. Regionális Fejlesztési Holding Zártkörűen Működő Részvénytársaság
 - 7. Nemzeti Útdíjfizetési Szolgáltató Zártkörűen Működő Részvénytársaság
 
