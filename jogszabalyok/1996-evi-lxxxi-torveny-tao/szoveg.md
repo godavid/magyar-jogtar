@@ -2128,6 +2128,8 @@ A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenys
 
 23. felsőoktatási támogatási megállapodás alapján az adóévben felsőoktatási intézménynek visszafizetési kötelezettség nélkül adott támogatás, juttatás, térítés nélkül átadott eszköz könyv szerinti értéke, térítés nélkül nyújtott szolgáltatás bekerülési értéke;
 
+24. a nemzeti otthonteremtési közösségekről szóló törvényben meghatározott, a szervező által képzett tartalékból a közösség számára teljesített kifizetés értéke.
+
 ### 4. számú melléklet az 1996. évi LXXXI. törvényhez
 
 ### 5. számú melléklet az 1996. évi LXXXI. törvényhez
@@ -2150,6 +2152,7 @@ A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenys
 - 14. a Nemzeti Eszközkezelő Zrt.
 - 15. az az adózó, aki az adóévben a kisadózó vállalkozások tételes adójának alanya vagy a kisvállalati adó alanya.
 - 16. az Országos Betétbiztosítási Alap, a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló törvényben meghatározott Szanálási Alap, a Befektető-védelmi Alap és a tőkepiac stabilitásának erősítése érdekében tett egyes kárrendezési intézkedésekről szóló 2015. évi CCXIV. törvény szerinti Kárrendezési Alap.
+- 17. a nemzeti otthonteremtési közösségek.
 
 ### 6. számú melléklet az 1996. évi LXXXI. törvényhez
 

@@ -2983,7 +2983,9 @@ a) felhatalmazása alapján kiadott kormányrendeletben meghatározott módon a 
 
 b) 13/A. § alapján egyszeri vissza nem térítendő támogatásként
 
-kap.
+kap;
+
+2.10. a nemzeti otthonteremtési közösségekről szóló törvény alapján a tag részére nyújtott valamennyi juttatás és azok hozama, valamint a tagot megillető állami támogatás összege.
 
 3. A közcélú juttatások körében adómentes:
 
