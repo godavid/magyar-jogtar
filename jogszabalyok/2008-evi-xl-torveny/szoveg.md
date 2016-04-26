@@ -2787,7 +2787,7 @@ tartalmazza.
 
 (5) Az (1)–(3) bekezdés szerinti szerződések kötelező tartalmi eleme, hogy a 133. § (1) bekezdésének a Mód. törvénnyel megállapított 3. pontja szerinti felhatalmazás alapján kiadott rendeletben szabályozott lényeges szerződési feltételek a 133. § (1) bekezdésének a Mód. törvénnyel megállapított 3. pontja szerinti felhatalmazás alapján kiadott rendelet mindenkori tartalmának megfelelően kerülnek meghatározásra.
 
-(6) A korábban megkötött szerződések (1) és (2) bekezdés szerinti módosításából eredően át nem vett földgázmennyiség ellenértéke nem követelhető, ezen át nem vett földgázmennyiség tekintetében a feleket egymással szemben semmilyen követelés nem terheli. A szerződésben meghatározott minimum mennyiség átvétele kötelezettségének elmulasztása esetén kikötött szerződéses szankciók azonban a szerződésben foglalt feltételeknek megfelelően alkalmazandók.
+(6) Az egyetemes szolgáltató köteles az egyetemes szolgáltatói engedéllyel nem rendelkező volt közüzemi nagykereskedő által megjelölt ellátási időszakra vonatkozóan megadni a szerződés alapján történő vételezésének tervezett mennyiségeit havi bontásban. A Felajánlási rendelet alapján az egyetemes szolgáltató által a Hivatal részére megadott, a volt közüzemi nagykereskedőtől a szerződés alapján beszerezni tervezett negyedéves mennyiségek legfeljebb 5%-kal térhetnek el az adott negyedév hónapjaira bejelentett mennyiségek összegétől.
 
 (7) Az újratárgyalt és módosított, vagy újonnan kötött szerződéseket a Hivatalnak tájékoztatás céljából az aláírást követő egy munkanapon belül meg kell küldeni.
 
@@ -2807,7 +2807,7 @@ tartalmazza.
 
 (13) A Felajánlási rendeletben meghatározott mennyiséget a Felajánlási rendelet hatálybalépését követően át kell adni a szerződő félnek. Ha a Felajánlási rendelet vagy annak módosítása olyan időpontban lép hatályba, amely időpontban a szabályozási időszak már elkezdődött, a Felajánlási rendeletben vagy annak módosításában meghatározott mennyiségbe a Felajánlási rendelet hatálybalépését megelőzően az azonos szabályozási időszakban a szerződő félnek már átadott mennyiséget be kell számítani.
 
-(14) A Felajánlási rendeletben meghatározott mennyiség a rendelet szerinti felek közötti szerződésekben meghatározott teljes éves egyetemes szolgáltatási célra értékesített mennyiséget csökkenti. Ebben az esetben a szerződésben megállapított földgázmennyiségnél kevesebb földgáz átvételének esetére a szerződés szerint meghatározott jogkövetkezmények nem alkalmazhatók.
+(14)
 
 (15) A hatósági ár vonatkozásában a szerződésben a szerződéses árak felülvizsgálatára vagy módosítására irányadó rendelkezések nem alkalmazhatók.
 
@@ -2921,9 +2921,11 @@ köteles annak létrejöttét követő 7 munkanapon belül megküldeni a Hivatal
 
 (8) A Felajánlási rendeletben meghatározott földgázmennyiséget a földgáztermelő köteles a (3) bekezdés szerinti szerződésben – a műszaki üzemi terv elvárásait és a bánya-technológiai korlátokat figyelembe véve – meghatározott, földgázmennyiségre vonatkozó rugalmassági szabályok figyelembevételével átadni a szerződő félnek a Felajánlási rendeletben meghatározott hatósági ár alkalmazásával.
 
-(9) A hazai termelésű földgáz termelője köteles a 2015. július 1-jétől 2016. szeptember 30-ig tartó időszakra a szállítóvezeték együttműködő földgázrendszerhez csatlakozó hazai termelő mezők betáplálási vagy összevont betáplálási pontján a hazai termelésű földgáz betáplálása érdekében éves kapacitást lekötni.
+(9) A hazai termelésű földgáz termelője köteles a 2015. július 1-jétől 2018. szeptember 30-ig tartó időszakra a szállítóvezeték együttműködő földgázrendszerhez csatlakozó hazai termelő mezők betáplálási vagy összevont betáplálási pontján a hazai termelésű földgáz betáplálása érdekében éves kapacitást lekötni.
 
 (10) A hazai termelésű földgáz termelője a (9) bekezdés szerinti kapacitást köteles a hazai termelésű földgáz értékesítésére vonatkozó szerződés keretében beszerzési költségen átadni a hazai termelésű földgáz vásárlója számára.
+
+(11) A (3) bekezdés szerinti szerződés 2018. szeptember 30-áig meghosszabbodik.
 
 141/J. § (1) Az egyetemes szolgáltatói engedéllyel nem rendelkező volt közüzemi nagykereskedő az egyetemes szolgáltatás keretében vételező felhasználók részére történő értékesítés céljából köteles a szerződéssel le nem kötött földgázforrásait – ideértve az egyetemes szolgáltatási célra a 141/I. § szerint vásárolt hazai termelésű földgázforrásait is – a Mód. 7. törvény hatálybalépését követő napon 3 munkanapig tartó ajánlati kötöttség mellett az egyetemes szolgáltatók részére 2015. július 1. és 2016. szeptember 30. közötti időszakra – a Felajánlási rendeletben szabályozott szerződési feltételeken kívül – megkülönböztetésmentes szerződéses feltételekkel vételre felajánlani.
 
@@ -2934,23 +2936,33 @@ köteles annak létrejöttét követő 7 munkanapon belül megküldeni a Hivatal
 - a) alapján az egyetemes szolgáltatói engedéllyel nem rendelkező volt közüzemi nagykereskedő az egyetemes szolgáltatás keretében földgázt vételező felhasználók ellátásához szükséges mennyiséget szállítóvezetéki kilépési ponton adja át az egyetemes szolgáltatónak,
 - b) tartalmazza a földgázpiaci egyetemes szolgáltatáshoz kapcsolódó árak képzéséről szóló rendelet szerinti árelemek közül a földgáz árát, a földgázszállítási és a földgáztárolási díjat, a nagykereskedői árrést, valamint a mobilgáz-finanszírozási költséget,
 - c) a Felajánlási rendeletben szabályozott lényeges szerződési feltételeket, különösen az árat, a b) pont szerinti árelemek mértékét, a mennyiséget és az ezen mennyiségtől való eltérés jogkövetkezményeit a Felajánlási rendelet mindenkori tartalmának megfelelően határozza meg,
-- d) a Felajánlási rendeletben nem szabályozott szerződéses feltételeket az egyetemes szolgáltatói engedéllyel nem rendelkező volt közüzemi nagykereskedő üzletszabályzatának megfelelően határozza meg.
+- d) a Felajánlási rendeletben nem szabályozott szerződéses feltételeket a felek megállapodásának hiányában az egyetemes szolgáltatói engedéllyel nem rendelkező volt közüzemi nagykereskedő üzletszabályzatának megfelelően határozza meg.
 
 (4) Az egyetemes szolgáltatási engedéllyel nem rendelkező volt közüzemi nagykereskedő az ajánlati kiírás mellékletét képező szerződéstervezetet a (3) bekezdés figyelembevételével készíti el.
 
 (5) Az (1) bekezdés alapján megkötött szerződés a szerződés lejártának napjáig nem szüntethető meg.
 
-(6) Az (1) bekezdés szerinti szerződést a megkötést követő egy munkanapon belül meg kell küldeni a Hivatalnak.
+(6) A (2) bekezdés szerinti szerződést a megkötést vagy módosítást követő egy munkanapon belül meg kell küldeni a Hivatalnak.
 
-(7) A Hivatal ellenőrzi, hogy az egyetemes szolgáltató kizárólag egyetemes szolgáltatásra jogosult felhasználók ellátására fordította az (1) bekezdés szerinti szerződés alapján átvett földgázt.
+(7) A Hivatal ellenőrzi, hogy az egyetemes szolgáltató kizárólag egyetemes szolgáltatásra jogosult felhasználók ellátására fordította a (2) bekezdés szerinti szerződés alapján átvett földgázt.
 
-(8) A miniszter a Hivatal javaslata alapján a Felajánlási rendeletben állapítja meg az (1) bekezdés szerint vételre felajánlott földgázforrás – a (3) bekezdés b) pontja szerinti árelemeket is tartalmazó – árát és mennyiségét. Az ármegállapítás során figyelembe kell venni az egyetemes szolgáltatás keretében vételező felhasználók költséghatékony ellátásának követelményét. Ha a Felajánlási rendelet vagy annak módosítása olyan időpontban lép hatályba, amely időpontban már új szabályozási időszak kezdődött, akkor a Felajánlási rendeletben vagy annak módosításában meghatározott földgázmennyiségbe be kell számítani a megkezdődött új szabályozási időszakban a szerződő félnek már átadott mennyiséget.
+(8) A miniszter a Hivatal javaslata alapján a Felajánlási rendeletben állapítja meg a (2) bekezdés alapján megkötött szerződés – a (3) bekezdés b) pontja szerinti árelemeket is tartalmazó – árát és mennyiségét. Az ármegállapítás során figyelembe kell venni az egyetemes szolgáltatás keretében vételező felhasználók költséghatékony ellátásának követelményét. Ha a Felajánlási rendelet vagy annak módosítása olyan időpontban lép hatályba, amely időpontban már új szabályozási időszak kezdődött, akkor a Felajánlási rendeletben vagy annak módosításában meghatározott földgázmennyiségbe be kell számítani a megkezdődött új szabályozási időszakban a szerződő félnek már átadott mennyiséget.
 
 (9) A volt közüzemi nagykereskedő köteles az e § szerinti felajánlás forrásait biztosító szerződéseit a felajánlást követő 5 munkanapon belül a Hivatal részére megküldeni.
 
+(10) A (3) bekezdés szerinti szerződés 2018. szeptember 30-áig meghosszabbodik.
+
+(11) Az egyetemes szolgáltató köteles az egyetemes szolgáltatói engedéllyel nem rendelkező volt közüzemi nagykereskedő által megjelölt ellátási időszakra vonatkozóan megadni a szerződés alapján történő vételezésének tervezett mennyiségeit havi bontásban. A Felajánlási rendelet alapján az egyetemes szolgáltató által a Hivatal részére megadott, a volt közüzemi nagykereskedőtől a szerződés alapján beszerezni tervezett negyedéves mennyiségek legfeljebb 5%-kal térhetnek el az adott negyedév hónapjaira bejelentett mennyiségek összegétől.
+
 141/K. § (1) A 141/J. § alapján szerződést kötő egyetemes szolgáltató és egyetemes szolgáltatói engedéllyel nem rendelkező volt közüzemi nagykereskedő az általa a 2015/16-os tárolói évre egyetemes szolgáltatási célra lekötött földgáztárolói kapacitásokat a Mód. 7. törvény hatálybalépését követő 10 munkanapon belül egy alkalommal egyoldalúan módosíthatja.
 
-(2) Ha az egyetemes szolgáltató az általa ellátott felhasználók ellátását a 115/A–115/C. §-ok alapján másik egyetemes szolgáltatói engedélyesnek adja át, akkor a 141/J. § alapján kötött szerződése az átadás napjával megszűnik. Ebben az esetben a szerződés megszűnéséből eredően át nem vett földgázmennyiség ellenértéke, valamint a szerződés teljesítéséhez lekötött kapacitások ellenértékének az átadás napját követő időszakra eső időarányos része nem követelhető, ezek tekintetében a feleket egymással szemben semmilyen követelés nem terheli.
+(2) Ha az egyetemes szolgáltató az általa ellátott felhasználók ellátását a 115/A–115/C. § alapján másik egyetemes szolgáltatói engedélyesnek adja át, akkor a 141/J. § alapján kötött szerződése az átadás napjával megszűnik. Ebben az esetben a szerződés megszűnéséből eredően át nem vett földgázmennyiség ellenértéke, valamint a szerződés teljesítéséhez lekötött kapacitások ellenértékének az átadás napját követő időszakra eső időarányos része nem követelhető az átadó egyetemes szolgáltatótól, ezek tekintetében a feleket egymással szemben semmilyen követelés nem terheli. Az átvevő egyetemes szolgáltató a 141/A. § (6) bekezdése vagy a 141/J. § (11) bekezdése szerinti igénybejelentésében szereplő mennyiségeknek tartalmaznia kell az átadó egyetemes szolgáltató által ellátott egyetemes szolgáltatásra jogosult felhasználók ellátáshoz szükséges földgázmennyiséget az átvétel időpontját követő időszak tekintetében. Amennyiben a kiválasztásra vagy kijelölésre az igénybejelentést követően kerül sor, az igényelt mennyiség az átvétel időpontját követő időszakra vonatkozóan az átadó egyetemes szolgáltató által a 141/A. § (6) bekezdése vagy a 141/J. § (11) bekezdése szerint igényelt mennyiséggel megemelkedik.
+
+(3) A 141/A. § vagy a 141/J. § alapján szerződött egyetemes szolgáltató vagy egyetemes szolgáltatói engedéllyel nem rendelkező volt közüzemi nagykereskedő az általa a 2016/17-es tárolói évre egyetemes szolgáltatási célra lekötött földgáztárolói kapacitásokat a földgázellátásról szóló 2008. évi XL. törvény módosításáról szóló 2016. évi XX. törvény hatálybalépését követő 10 munkanapon belül egy alkalommal egyoldalúan módosíthatja.
+
+141/L. § (1) Az egyetemes szolgáltatói engedéllyel nem rendelkező volt közüzemi nagykereskedő köteles a Felajánlási rendeletben foglalt felajánlási ár részét képező földgáz beszerzési költségre fedezetet nyújtó tétel alapján számított tárgyévi árbevétel és a Felajánlási rendelet szerint meghatározott elismert fajlagos földgázár alapján meghatározott tárgyévi árbevétel különbségének pozitív összegét az éves beszámolójának mérlegében szerepeltetett passzív időbeli elhatárolások között kimutatni. Az így kimutatott passzív időbeli elhatárolást a Felajánlási rendeletben foglalt felajánlási ár részét képező földgáz beszerzési költségre fedezetet nyújtó tétel alapján számított tárgyévi árbevétel és a Felajánlási rendelet szerint meghatározott elismert fajlagos földgázár alapján meghatározott tárgyévi árbevétel különbségének negatív összegében kell megszüntetni. Az ebben a bekezdésben foglaltak alapján elkészített beszámoló a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 1. § (5) bekezdése alkalmazásában az Sztv. rendelkezéseire figyelemmel megállapítottnak, azokkal összhangban állónak minősül.
+
+(2) Az (1) bekezdésben foglalt rendelkezéseket első alkalommal a 2016. adóévre vonatkozóan kell alkalmazni.
 
 142. § (1) Az okos mérési rendszerek bevezetése érdekében a rendszerüzemeltetők és a VET. szerinti hálózati engedélyesek okos mérésre vonatkozó mintaprojekteket folytathatnak. A mintaprojekt erre a célra létrehozott gazdasági társaság útján (a továbbiakban: projekttársaság) is végezhető akkor, ha a gazdasági társaságban külön-külön vagy együttesen a rendszerüzemeltetők, illetve a VET. szerinti hálózati engedélyesek többségi befolyással rendelkeznek. A (2)–(6) bekezdések előírásait a projekttársaság által végzett mintaprojektekre is alkalmazni kell.
 

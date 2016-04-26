@@ -105,7 +105,8 @@ törvényt alkot a lakástakarékpénztárakról.
 - c) a társasházi lakások lakástulajdonosainak közös tulajdonában álló épületrészek felújítása és korszerűsítése,
 - d) az a)–c) pontban meghatározott célok finanszírozására pénzügyi intézménytől vagy biztosítóintézettől felvett kölcsön, pénzügyi intézménytől igénybe vett pénzügyi lízing, vagy ilyen kölcsönhöz vagy lízinghez kapcsolódó, külön törvényben meghatározott gyűjtőszámlahitel, valamint a hitelintézet által folyósított és igazolt célra felhasznált munkáltatói, illetve települési önkormányzat által nyújtott kölcsön teljes vagy részleges kiváltása,
 - e) az a)–c) pontban meghatározott célok finanszírozására felvett kölcsön kiváltására felhasznált, a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 2012. január 1-jén hatályos 200/B. § szerinti végtörlesztés keretében nyújtott kölcsön teljes vagy részleges kiváltás,
-- f) a d) pontban meghatározott feltételeknek megfelelő kölcsön, gyűjtőszámlahitel kiváltására felhasznált, pénzügyi intézménytől vagy biztosítóintézettől felvett kölcsönteljes vagy részleges kiváltása.
+- f) a d) pontban meghatározott feltételeknek megfelelő kölcsön, gyűjtőszámlahitel kiváltására felhasznált, pénzügyi intézménytől vagy biztosítóintézettől felvett kölcsönteljes vagy részleges kiváltása,
+- g) a nemzeti otthonteremtési közösségekről szóló törvény szerinti, a tag által a közösségbe teljesítendő befizetés.
 
 (2) Lakáscélú felhasználás szempontjából a lakásszövetkezeti állandó használati joggal rendelkező személyt úgy kell tekinteni, mintha tulajdonos lenne.
 
