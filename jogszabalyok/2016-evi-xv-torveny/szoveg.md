@@ -652,42 +652,6 @@ jogosult kezelni.
 
 (2) A 43. § e törvény kihirdetését követő 40. napon lép hatályba.
 
-49. § A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 1. számú melléklete az 1. melléklet szerint módosul.
+49–51. §
 
-50. § (1) A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 3. számú melléklete a 2. melléklet szerint módosul.
-
-(2) A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 5. számú melléklete a 3. melléklet szerint módosul.
-
-51. § A lakástakarékpénztárakról szóló 1996. évi CXIII. törvény 8. § (1) bekezdése a következő g) ponttal egészül ki:
-
-(E törvény alkalmazásában lakáscélú felhasználásnak minősül:)
-
-„g) a nemzeti otthonteremtési közösségekről szóló törvény szerinti, a tag által a közösségbe teljesítendő befizetés.”
-
-### 1. melléklet a 2016. évi XV. törvényhez
-
-A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 1. számú mellékletének 2. pontja a következő 2.10. ponttal egészül ki:
-
-(2. A lakáshoz kapcsolódóan adómentes:)
-
-„2.10. a nemzeti otthonteremtési közösségekről szóló törvény alapján a tag részére nyújtott valamennyi juttatás és azok hozama, valamint a tagot megillető állami támogatás összege.”
-
-### 2. melléklet a 2016. évi XV. törvényhez
-
-A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 3. számú melléklet B) része a következő 24. ponttal egészül ki:
-
-[B)
-
-A vállalkozási tevékenység érdekében felmerülő egyes költségek, ráfordítások
-
-A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenység érdekében felmerült költségnek, ráfordításnak minősül különösen:]
-
-„24. a nemzeti otthonteremtési közösségekről szóló törvényben meghatározott, a szervező által képzett tartalékból a közösség számára teljesített kifizetés értéke.”
-
-### 3. melléklet a 2016. évi XV. törvényhez
-
-A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 5. számú melléklete a következő 17. ponttal egészül ki:
-
-(A társasági adóalanynak nem minősülő szervezetek)
-
-„17. a nemzeti otthonteremtési közösségek.”
+### 1–3. melléklet a 2016. évi XV. törvényhez
