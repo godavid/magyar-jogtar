@@ -64,13 +64,14 @@ ha annak megállapítása, beszedése, végrehajtása, visszatérítése, kiutal
 
 vonatkozó rendelkezéseket kell alkalmazni.
 
-(4) E törvény hatálya nem terjed ki a társadalombiztosítási ellátásokra, valamint a közösségi vámjog végrehajtásáról szóló törvény hatálya alá tartozó kötelező befizetésekre. E törvényt kell alkalmazni
+(4) E törvény hatálya nem terjed ki a társadalombiztosítási ellátásokra, valamint az uniós vámjog végrehajtásáról szóló törvény hatálya alá tartozó kötelező befizetésekre. E törvényt kell alkalmazni
 
-- a) a vámazonosító szám megállapításával és a jogszabály alapján a vámhatóság hatáskörébe tartozó személyek nyilvántartásba vételével összefüggő eljárásokra a jogszabályban meghatározott eltérésekkel,
-- b) a közösségi vámjog végrehajtásáról szóló törvény, illetve a közösségi vámjog eltérő rendelkezése hiányában e jogszabályok hatálya alá tartozó kötelező befizetések (vám, adó, díj, költség, bírság, pótlék, kamat) elszámolására, valamint
-- c) jogszabály eltérő rendelkezése hiányában azon fizetési kötelezettségek elszámolására, amelynek megállapítása, nyilvántartása, beszedése, végrehajtása, visszatérítése, kiutalása vagy ellenőrzése a vámhatóság hatáskörébe tartozik.
+- a) az uniós vámjog végrehajtásáról szóló törvény, illetve a vámjogszabályok eltérő rendelkezése hiányában e jogszabályok hatálya alá tartozó kötelező befizetések (vám, adó, díj, költség, bírság, pótlék, kamat) elszámolására, valamint
+- b) jogszabály eltérő rendelkezése hiányában az a) pont alá nem tartozó olyan fizetési kötelezettségek elszámolására, amelyek megállapítása, nyilvántartása, beszedése, végrehajtása, visszatérítése, kiutalása vagy ellenőrzése a vámhatóság hatáskörébe tartozik.
 
 (4a) E törvény hatálya kiterjed a távolról is nyújtható szolgáltatás utáni, az Európai Közösség más tagállamát megillető hozzáadottértékadó-fizetési és -bevallási kötelezettségre, ha az adózó ezen kötelezettségének az állami adó- és vámhatóság útján tesz eleget.
+
+(5) Az uniós vámjog végrehajtásáról szóló törvény ügyfélre vonatkozó rendelkezéseit az EORI szám megállapításával összefüggő nyilvántartásba vétellel és nyilvántartással kapcsolatban az e törvény hatálya alá tartozó adózóra is alkalmazni kell. A vámjogszabályok szerinti EORI számra történő hivatkozást az adójogszabályok hatálya alá tartozó tevékenységgel kapcsolatban a VPID számra történő hivatkozásként kell értelmezni.
 
 5. § (1) Ha e törvény vagy adót, adófizetési kötelezettséget, költségvetési támogatást megállapító törvény másként nem rendelkezik, az adóügyekben – a (2) bekezdésben meghatározott kivételekkel – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
 
@@ -672,25 +673,7 @@ adóazonosító számát, ennek hiányában magánszemély esetén a természete
 
 22/B. § Az állami adó- és vámhatóság az együttműködő közösség leendő tagjai által a közös cél elérésére, a Polgári Törvénykönyv rendelkezései szerint létrehozott polgári jogi társaság tagjainak közös, kifejezett és egybehangzó írásos kérelme alapján az adóalanyiságot engedélyező határozatában adószámot állapít meg. Az együttműködő közösség a 22. § (1) bekezdés a) pont szerinti nyilatkozatát az adóalanyiság engedélyezésére irányuló kérelmében teszi meg. Az adóalanyiság engedélyezését megalapozó kérelemben szerepeltetett bármely adat változását, annak bekövetkezésétől számított 15 napon belül az együttműködő közösség képviselője (képviselő hiányában tagja) bejelenti. Az együttműködő közösség képviselője (képviselő hiányában tagja) a változás bekövetkeztétől számított 15 napon belül bejelentést tesz, ha az együttműködő társaság által létrehozott polgári jogi társaság megszűnik, illetve ha a közös cél, amelynek elérésére az együttműködő közösség létre jött megvalósult, vagy annak megvalósítása többé nem lehetséges.
 
-### A vámazonosító számmal összefüggő bejelentési kötelezettség
-
-22/C. § (1) Magánszemély adózó az állami adó- és vámhatósághoz – a 20. § (1) bekezdésében foglalt adatokon túl – bejelenti
-
-- a) nyilatkozatát, arra vonatkozóan, hogy rendelkezik-e vámazonosító számmal (a továbbiakban: VPID szám) vagy közösségi vámazonosító számmal (a továbbiakban: EORI- szám),
-- b) nem magyar állampolgárságú magánszemély úti okmányának típusát, számát, a kiállítás és a lejárat idejét, a kiállító hatóság illetőségét, elektronikus elérhetőségét.
-
-(2) Nem magánszemély adózó az állami adó- és vámhatósághoz bejelenti
-
-- a) nevét (elnevezését), rövidített nevét,
-- b) székhelyének, központjának vagy állandó üzleti vállalkozásának címét, levelezési címét, elektronikus elérhetőségét,
-- c) a Közösség területén letelepedett adózó esetén pénzforgalmi számla számait, más tagállam(ok)ban kiadott adóazonosító számait,
-- d) nyilatkozatát, arra vonatkozóan, hogy rendelkezik-e VPID számmal vagy EORI-számmal.
-
-(3) Az állami adó- és vámhatóság kérheti a bejelentendő adatok hitelességét bizonyító okiratok bemutatását.
-
-(4) A VPID szám igénylése esetén vagy vámazonosítóval kapcsolatos ügyben az adózó nyilatkozik adatainak a közösségi nyilvántartási rendszerbe (központi EORI-rendszer) történő feltöltéséről, vagy eltávolításáról.
-
-(5) Az állami adó- és vámhatóság a vámazonosító szám igénylése esetén a bejelentés alapján VPID számot állapít meg. A VPID szám kiadása iránti kérelem az adószám megállapítására irányuló kérelem benyújtásával egyidejűleg is előterjeszthető az állami adó- és vámhatóságnál.
+22/C. §
 
 ### Az élelmiszer-értékesítést végző kezelőszemélyzet nélküli automataberendezések bejelentése
 
@@ -944,20 +927,7 @@ adóazonosító számát, ennek hiányában magánszemély esetén a természete
 - c) a fokozott felügyelet időtartama alatt felszólítás ellenére nem teljesíti bevallási-, vagy – ha összesítő nyilatkozat benyújtására kötelezett – összesítő nyilatkozat benyújtási kötelezettségét és a mulasztását nem menti ki.
 - d) az adózó felszólítás ellenére sem tesz eleget a 2014. december 31-én hatályos (5) bekezdés c) pontja vagy az (5) bekezdés d) pontja alapján előírt kötelezettségének és mulasztását nem menti ki.
 
-### A vámazonosító számmal összefüggő bejelentés szerinti nyilvántartásba vétel
-
-24/G. § (1) Az állami adó- és vámhatóság a bejelentés alapján nyilvántartásba veszi az adózót. Az állami adó- és vámhatóság az adózót – a Közösségi Vámkódex létrehozásáról szóló 2913/92/EGK tanácsi rendelet végrehajtására vonatkozó rendelkezések megállapításáról szóló 2454/93/EGK bizottsági rendelet (a továbbiakban: EK végrehajtási rendelet) 4k–4t. cikkeiben foglaltak alkalmazása mellett – e törvényben, vagy a közösségi vámjog végrehajtásáról szóló törvényben, vagy a külön jogszabályban meghatározott feladat- és hatáskörébe tartozó eljárása során a hivatalból vagy kérelemre adott VPID szám alapján tartja nyilván. A VPID szám az EK végrehajtási rendelet 4k. cikk (3) bekezdésével összhangban nyilvántartási és azonosító számként (a továbbiakban: EORI-szám) használható. A vámjogszabályok hatálya alá tartozó tevékenységgel kapcsolatban a VPID számra történő hivatkozást EORI-számra történő hivatkozásként kell érteni.
-
-(2) A VPID szám kiadását az állami adó- és vámhatóság megtagadja, ha a bejelentett adatok valótlanok vagy hiányosak.
-
-(3) Az adózó a VPID számát a jövedéki adóval, regisztrációs adóval, energiaadóval, fémkereskedelem és hulladékgazdálkodás ellenőrzésével összefüggő minden iraton feltünteti.
-
-(4) Az állami adó- és vámhatóság hivatalból állapítja meg a VPID számát annak az adózónak,
-
-- a) aki bejelentési kötelezettségét elmulasztotta, vagy
-- b) akinek az állami adó- és vámhatóság jogszabályban meghatározott feladatainak ellátásához, végrehajtásához adó- és vámhatósági nyilvántartása szükséges.
-
-(5) A vámhatóság a magánfőzőt az (1)–(4) bekezdésben foglaltaktól eltérően a 24. § (3) bekezdése szerint tartja nyilván.
+24/G. §
 
 ### Adómegállapítás
 
@@ -1703,7 +1673,7 @@ szükséges,
 
 ### Adótitok
 
-53. § (1) Adótitok az adózást érintő tény, adat, körülmény, határozat, végzés, igazolás vagy más irat. Az adótitokra vonatkozó rendelkezéseket, és a közösségi vámjog végrehajtásáról szóló törvény 16. § (9) bekezdésében foglalt rendelkezést kell alkalmazni a VPID szám megállapításával, nyilvántartásba vételével és nyilvántartásával összefüggő eljárásokra.
+53. § (1) Adótitok az adózást érintő tény, adat, körülmény, határozat, végzés, igazolás vagy más irat. Az adótitokra vonatkozó rendelkezéseket, és az uniós vámjog végrehajtásáról szóló 2016. évi XIII. törvény 11. § (3) bekezdését kell alkalmazni a VPID szám megállapításával, nyilvántartásba vételével és nyilvántartásával összefüggő eljárásokra.
 
 (2) Az adóhatóság alkalmazottja, volt alkalmazottja, az ellenőrzésbe vagy az eljárásba bevont szakértő és minden más személy, akinek az adatszolgáltatás, -nyilvántartás, -feldolgozás, az ellenőrzés, az adómegállapítás, az adó és adóelőleg-levonás, adóbeszedés, adóvégrehajtás, illetve statisztikai célú felhasználás során feladataival összefüggésben adótitok vagy más titok jut a tudomására, köteles azt megőrizni. Az adóhatóságot a hivatali eljárása során tudomására jutott minden irat, adat, tény, körülmény tekintetében titoktartási kötelezettség terheli.
 
@@ -2481,7 +2451,7 @@ vizsgálja.
 
 (3) Kérelemre indul különösen:
 
-- a) a nyilvántartás vezetésével (ideértve a VPID szám megállapítását is) kapcsolatos,
+- a) a nyilvántartás vezetésével kapcsolatos,
 - b) a fizetési halasztás, részletfizetés engedélyezése iránti,
 - c) az adómérséklési,
 - d) az adó soron kívüli megállapítása iránti,
@@ -2491,7 +2461,7 @@ hatósági eljárás.
 
 (4) Hivatalból indul különösen:
 
-- a) a nyilvántartás vezetésével (ideértve a VPID szám megállapítását is) kapcsolatos,
+- a) a nyilvántartás vezetésével kapcsolatos,
 - b) a hatósági adómegállapítás, adatszolgáltatás, bejelentés, bevallás alapján (adókivetés, illetékkiszabás),
 - c) az ellenőrzés megállapításairól szóló határozat meghozatala érdekében lefolytatott
 
@@ -2594,8 +2564,7 @@ hatósági eljárás.
 
 125. § (1) Az állami adó- és vámhatóság határozattal állapítja meg (kivetéses adózás)
 
-- a) az általános forgalmi adó kivételével a termékimportot terhelő adót,
-- b) a termékimportot terhelő általános forgalmi adót, ha az adózó az általános forgalmi adóról szóló törvény szerint nem általános forgalmiadó-alany, alanyi adómentességet választó adóalany, kizárólag közérdekű vagy egyéb speciális jellegére tekintettel adómentes tevékenységet végző adóalany, mezőgazdasági tevékenységet folytató, különleges jogállást választó adóalany, az állami adó- és vámhatóság engedélyével nem rendelkező általános forgalmiadó-alany, vagy az egyszerűsített vállalkozói adó alanya,
+- a)–b)
 - c) a regisztrációs adót,
 - d) új közlekedési eszköznek minősülő személygépkocsinak, illetőleg regisztrációs adó köteles motorkerékpárnak az Európai Közösség más tagállamából történő beszerzése esetén az általános forgalmi adót, ha a vevő általános forgalmiadó-alanynak nem minősülő magánszemély, illetve egyéb szervezet, általános forgalmiadó-alanynak nem minősülő adófizetésre kötelezett jogi személy, kizárólag adólevonásra nem jogosító tevékenységet folytató adóalany, alanyi adómentességet választó adóalany, mezőgazdasági tevékenységet folytató, különleges jogállást választó adóalany, illetve az egyszerűsített vállalkozói adó alanya.
 
@@ -4096,7 +4065,7 @@ besorolási rendjét kell irányadónak tekinteni. A besorolási rend ezt követ
 
 ### Az állami adó- és vámhatóság által vezetett közhiteles hatósági nyilvántartások
 
-179/A. § Az állami adó- és vámhatóság a 7. § (5) bekezdésében, a 16. § (3), (4) és (11) bekezdésében, a 17. § (5), (10)–(12) és (17) bekezdésében, a 20. § (1) és (6) bekezdésében, a 20/A. § (2) bekezdésében, a 22. § (1), (4) és (5) bekezdésében, a 22/A. § (1) bekezdésében, az 54. § (5) bekezdésében, az 55. § (4)–(6) bekezdésében és az 55/A. §-ban meghatározott adatok tekintetében közhiteles hatósági nyilvántartást vezet, illetve a 24. § (1) bekezdésében, a 43. § (1) bekezdésében, az 54. § (6) bekezdésében, a 176/C–176/E. §-ban, valamint a 178. § 31. és 32. pontjában foglalt nyilvántartás közhiteles hatósági nyilvántartásnak minősül. Az állami adó- és vámhatóság a 22/C. §-ban meghatározott adatokról közhiteles hatósági nyilvántartást vezet. E nyilvántartások azon adat kivételével minősülnek közhitelesnek, amely adatokat jogszabály más nyilvántartás részeként közhitelesnek minősít.
+179/A. § Az állami adó- és vámhatóság a 7. § (5) bekezdésében, a 16. § (3), (4) és (11) bekezdésében, a 17. § (5), (10)–(12) és (17) bekezdésében, a 20. § (1) és (6) bekezdésében, a 20/A. § (2) bekezdésében, a 22. § (1), (4) és (5) bekezdésében, a 22/A. § (1) bekezdésében, az 54. § (5) bekezdésében, az 55. § (4)–(6) bekezdésében és az 55/A. §-ban meghatározott adatok tekintetében közhiteles hatósági nyilvántartást vezet, illetve a 24. § (1) bekezdésében, a 43. § (1) bekezdésében, az 54. § (6) bekezdésében, a 176/C–176/E. §-ban, valamint a 178. § 31. és 32. pontjában foglalt nyilvántartás közhiteles hatósági nyilvántartásnak minősül. E nyilvántartások azon adat kivételével minősülnek közhitelesnek, amely adatokat jogszabály más nyilvántartás részeként közhitelesnek minősít.
 
 ### X. Fejezet — ZÁRÓ ÉS ÁTMENETI RENDELKEZÉSEK
 

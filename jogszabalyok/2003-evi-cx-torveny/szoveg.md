@@ -115,7 +115,7 @@ keletkezik.
 
 (8) Adóigazgatási eljárásban képviselőként vámjogi képviselőként eljáró személy is jogosult eljárni.
 
-(9) Az e törvény hatálya alá tartozó személyek vámazonosító szám megállapításával összefüggő nyilvántartásba vételével és nyilvántartásával kapcsolatos ügyben az állami adó- és vámhatóság jár el. Az említett eljárásra vonatkozó részletes szabályokat az adózás rendjéről szóló törvény tartalmazza.
+(9) Az e törvény hatálya alá tartozó személyek vámazonosító szám megállapításával összefüggő nyilvántartásba vételével és nyilvántartásával kapcsolatos ügyben az állami adó- és vámhatóság jár el. Az említett eljárásra vonatkozó részletes szabályokat az uniós vámjog végrehajtásáról szóló törvény tartalmazza.
 
 ### Az elektronikus eljárás szabályai
 

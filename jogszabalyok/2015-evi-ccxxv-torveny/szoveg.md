@@ -38,11 +38,33 @@ egyes közúti és vasúti közlekedéssel, valamint fogyasztóvédelemmel össz
 
 9–13. §
 
-14. § (1)
+14. § (1) A Kkt. 29. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A NIF Zrt. – az elkészült utak forgalomba helyezése, vagy ennek hiányában az ideiglenes forgalomba helyezése után – a felhasznált forrásokkal és a létrehozott eszközökkel elszámol a magyar állam nevében eljáró, a forrásokat rendelkezésre bocsátó szervvel. A forgalomba helyezett út és az egyes projektekkel kapcsolatban létrehozott vagy megszerzett egyéb eszközök, illetve ezeket magában foglaló, a magyar állam tulajdonában álló egyes földterületek az utak forgalomba helyezése, vagy ennek hiányában az ideiglenes forgalomba helyezése napján e törvény erejénél fogva – az építtető vagyonkezelői jogának egyidejű megszűnése mellett – a 32/A. § (8) bekezdésben foglaltak kivételével a 32. § (6) bekezdésében kijelölt szervezet vagyonkezelésébe kerül, aki az MNV Zrt.-vel vagyonkezelési szerződést köteles kötni.”
 
 (2)
 
-15–16. §
+15. § A Kkt. 32. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) Az állami tulajdonban lévő országos közutak vagyonkezelője – a 29. § (1) bekezdésében, a 32/A. §-ban foglaltak, valamint a koncessziós társaságok kezelésében álló közutak kivételével – a Közlekedésfejlesztési Koordinációs Központ (a továbbiakban: KKK).”
+
+16. § A Kkt. a következő 32/A. §-sal egészül ki:
+
+„32/A. § (1) A koncessziós társaságok kezelésében álló közúti hírközlő hálózatok kivételével a közúti hírközlő hálózat vagyonkezelője az MVM NET Távközlési Szolgáltató Zártkörűen Működő Részvénytársaság (a továbbiakban: MVM NET Zrt.). A vagyonkezelői jog létesítése ingyenes, azzal, hogy az MVM NET Zrt. az MNV Zrt.-vel, mint tulajdonosi joggyakorlóval megkötendő vagyonkezelési szerződésben foglaltak szerint vagyonkezelési díj megfizetésére köteles. Az MVM NET Zrt. által fizetendő vagyonkezelési díj a (6) bekezdés szerinti hasznosításból származó bevétel öt százaléka.
+
+(2) Az MVM NET Zrt. jogosult és köteles az (1) bekezdés szerinti közúti hírközlő hálózatokra vonatkozó hálózatfejlesztési koncepciók kidolgozására és megvalósítására, ide értve a kapcsolódó engedélyeztetési eljárások lefolytatását is, valamint a közúti hírközlő hálózatokhoz kapcsolódó karbantartási és fenntartási feladatok ellátására, melynek során a 33. § (1) bekezdés b) pont ba) alpontja szerinti közút kezelője, valamint a NÚSZ Zrt. és a KKK előzetes hozzájárulásával saját hatáskörben jogosult eljárni valamennyi, az (1) bekezdés szerinti közúti hírközlő hálózattal érintett állami tulajdonú ingatlan vonatkozásában.
+
+(3) A hasznosítás során az MVM NET Zrt. a (4) és (5) bekezdésben foglaltak szerint köteles eljárni.
+
+(4) Az (1) bekezdés szerinti közúti hírközlő hálózatok szabad kapacitásai elsősorban a kormányzati célú hálózatok igényeinek kiszolgálására használhatóak azzal, hogy ez a használat a közúti hírközlő hálózatok útüzemeltetési, valamint az elektronikus útdíjszedési és díjellenőrzési létesítmények működtetését, üzemeltetését támogató hálózati alapszolgáltatások megszakítás-mentes és a hálózathasználati szerződésben rögzített minőségi feltételekkel történő nyújtását nem veszélyeztetheti.
+
+(5) Az (1) bekezdés szerinti közúti hírközlő hálózatok alapfunkciójának teljes körű ellátását az MVM NET Zrt. biztosítani köteles. Ennek keretében teljes önköltség alapú hozzáférést köteles biztosítani a 33. § (1) bekezdés b) pont ba) alpontja szerinti közút kezelője, a NÚSZ Zrt., a KKK és a kormányzati célú hírközlési szolgáltató részére.
+
+(6) A (4) és (5) bekezdés szerinti hasznosítás mellett fennmaradó szabad kapacitás a hírközlési piacon történő értékesítés körében az állami vagyonnal való gazdálkodás szabályai szerint hasznosítható. A szabad kapacitásért fizetett ellenérték nem lehet alacsonyabb a mindenkori piaci árnál.
+
+(7) A (6) bekezdés szerinti hasznosításból származó nyereséget az MVM NET Zrt. a (4) bekezdés szerinti hálózati alapszolgáltatások ellátására, valamint az állami tulajdonú közúti hírközlő hálózat fejlesztésére köteles fordítani.
+
+(8) Az országos közutak építtetője által létrehozott közúti hírközlő hálózatok körébe tartozó vagyonelemek vonatkozásában az országos közutak építtetőjének vagyonkezelői joga a műszaki átadás napján megszűnik, és ezen vagyonelemek e törvény erejénél fogva, az (1)–(7) bekezdésben foglaltak szerint, ingyenesen az MVM NET Zrt. vagyonkezelésébe kerülnek. Ezen vagyonelemek számviteli átadását – elszámolási kimutatással – az országos közutak építtetője és az MVM NET Zrt. egymás között közvetlenül, a tulajdonosi joggyakorló közreműködése nélkül végzi.”
 
 17. §
 
@@ -54,17 +76,35 @@ egyes közúti és vasúti közlekedéssel, valamint fogyasztóvédelemmel össz
 
 (3)
 
-(4)
+(4) A Kkt. 47. §-a a következő 33. ponttal egészül ki:
+
+(A törvény alkalmazásában:)
+
+„33. közúti hírközlő hálózat: az országos közutak üzemeltetéséhez szükséges állami tulajdonú, az elektronikus hírközlésről szóló törvény szerinti elektronikus hírközlő hálózat nem aktív hálózati elemei, ideértve az elektronikus hírközlési építményeket is.”
 
 (5)
 
 22. § (1)
 
-(2)
+(2) A Kkt. a következő 47/C. §-sal egészül ki:
+
+„47/C. § (1) A koncessziós társaságok kezelésében álló közúti hírközlő hálózatok és a 32/A. § (8) bekezdésben foglaltak kivételével a közúti hírközlő hálózatokat az azok vagyonkezelését ellátó szervezetek kötelesek ingyenesen átadni az MVM NET Zrt. részére. Ezen közúti hírközlő hálózatok e törvény erejénél fogva, az átadás-átvétel napján az MVM NET Zrt. vagyonkezelésébe kerülnek. A vagyonkezelés részletes szabályait – különös tekintettel a vagyonkezelési díj megfizetésének módjára – a tulajdonosi joggyakorlóval 2016. május 1-jétől számított 60 napon belül megkötendő vagyonkezelési szerződésben kell rögzíteni.
+
+(2) A közúti hírközlő hálózatok számviteli átadását – elszámolási kimutatással – a korábbi vagyonkezelő és az MVM NET Zrt. egymás között közvetlenül, a tulajdonosi joggyakorló közreműködése nélkül elvégzi.
+
+(3) Az adott közúti hírközlő hálózati szakasz MVM NET Zrt. vagyonkezelésébe kerülésétől az MVM NET Zrt. és a 33. § (1) bekezdés b) pont ba) alpontja szerinti közútkezelő, továbbá a NÚSZ Zrt. közötti hálózathasználati szerződés létrejöttéig a közúti hírközlő hálózatot 2016. május 1-jét megelőzően üzemeltető szervezet jogosult az MVM NET Zrt. költségére és szakfelügyelete mellett a 32/A. § (4) bekezdésben meghatározott alapszolgáltatások megszakítás-mentes biztosítása érdekében a szükséges karbantartást, javítást elvégezni. Az így felmerült költségeket az MVM NET Zrt. a 32/A. § (5) bekezdés szerinti költségalapú hozzáférés biztosítása során elszámolhatja.”
 
 23. § (1)
 
-(2)
+(2) A Kkt. 48. § (3) bekezdés a) pontja a következő 37. alponttal egészül ki:
+
+[Felhatalmazást kap
+
+a) a Kormány, hogy]
+
+„37. a közúti hírközlő hálózatok kapacitásainak hasznosítására vonatkozó részletes szabályokat;”
+
+(rendeletben állapítsa meg.)
 
 (3)
 

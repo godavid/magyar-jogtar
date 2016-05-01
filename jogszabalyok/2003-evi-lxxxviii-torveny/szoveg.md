@@ -130,7 +130,7 @@ kell rendelkezni.
 
 7. § (1) Az energiaadóval kapcsolatos adóztatási feladatokat az állami adóhatóság, a kivetéses adózással kapcsolatos adóztatási feladatokat a vámhatóság látja el.
 
-(1a) Kivetéses adózás esetén a vámazonosító szám megállapításával, ezzel összefüggő nyilvántartással kapcsolatos ügyben az állami adó- és vámhatóság jár el. A nyilvántartásra vonatkozó részletes szabályokat az adózás rendjéről szóló törvény tartalmazza.
+(1a) Kivetéses adózás esetén a vámazonosító szám megállapításával, ezzel összefüggő nyilvántartással kapcsolatos ügyben az állami adó- és vámhatóság jár el. A nyilvántartásra vonatkozó részletes szabályokat az uniós vámjog végrehajtásáról szóló törvény tartalmazza.
 
 (2) Az adóalany, illetve az adóvisszaigénylésre jogosult személy az adót – a (3) bekezdésben foglalt eltéréssel – maga köteles megállapítani, bevallani és megfizetni, jogosult a megállapított adójából levonni (visszaigényelni), illetve jogosult visszaigényelni (önadózás).
 

@@ -86,7 +86,7 @@ ha az e törvényben és más jogszabályban meghatározott feltételek szerint,
 - u) intézmény: az e törvényben meghatározott gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet végző szervezet vagy annak szakmailag önálló szervezeti egysége, amely a rá vonatkozó külön jogszabályban foglaltak alapján jön létre, legalább három főt foglalkoztat teljes munkaidőben, valamint a javítóintézet. Ha e törvény másképp nem rendelkezik, az intézmény fogalmát kell megfelelően alkalmazni a helyettes szülői, illetve nevelőszülői hálózatra is,
 - v) működtető: az a természetes személy, jogi személy, illetve ezek jogi személyiség nélküli szervezete, aki, illetve amely a fenntartó által biztosított működési feltételek között a gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet szervezi,
 - w) szolgáltató: gyermekjóléti, illetve gyermekvédelmi szolgáltató tevékenységet végző személy vagy szervezet, amely nem minősül intézménynek vagy helyettes szülői, nevelőszülői hálózatnak,
-- x) államilag támogatott lakás-előtakarékossági programban való részvétel: a lakástakarékpénztárakról szóló 1996. évi CXIII. törvény szerinti lakás-előtakarékossági szerződés megkötése és teljesítése,
+- x) államilag támogatott lakás-előtakarékossági programban való részvétel: a lakástakarékpénztárakról szóló 1996. évi CXIII. törvény (a továbbiakban: Ltv.) szerinti lakás-előtakarékossági szerződés megkötése és teljesítése,
 - y) családi pótlék: a családok támogatásáról szóló 1998. évi LXXXIV. törvény (a továbbiakban: Cst.) 5. §-ának a) pontja szerinti nevelési ellátás és iskoláztatási támogatás,
 - z) rendszeres jövedelem: a legalább három egymást követő hónapban keletkezett jövedelem,
 - zs) utógondozás: a nevelésbe vétel megszüntetését, megszűnését követően
@@ -648,6 +648,8 @@ feltéve, hogy a gyermeket gondozó családban az egy főre jutó havi átlagjö
 
 (3) A gyámhatóság a gyermektartásdíj behajthatatlanságát a gyermektartásdíj fizetésére kötelezett személy rendszeres jövedelmére, illetve egyéb vagyonára vezetett eredménytelen végrehajtást követően állapítja meg. Az eredménytelen végrehajtást a végrehajtás szünetelését kimondó, hat hónapnál nem régebbi foglalási jegyzőkönyv igazolja.
 
+(3a) Ha a kérelem benyújtásakor igazolják, hogy a bíróságon a gyermektartásdíj behajtása iránti eljárás a kérelem benyújtását megelőzően megindításra került, de az annak eredményét igazoló jegyzőkönyv még nem áll rendelkezésre, a gyámhatóság a gyermektartásdíj megelőlegezése iránti eljárást a jegyzőkönyv megérkezéséig felfüggeszti.
+
 (4) Az (1) bekezdésben meghatározott összeg számításánál a kérelem benyújtása időpontjában közös háztartásban élő közeli hozzátartozóként kell figyelembe venni a 19. § (4) bekezdésében meghatározott személyeket.
 
 (5) Nincs helye a gyermektartásdíj megelőlegezésének, ha a kötelezett
@@ -720,43 +722,97 @@ kell kifizetni.
 (2) Otthonteremtési támogatásra jogosult az a fiatal felnőtt, akinek
 
 - a) legalább hároméves időtartamú folyamatos – gondozási helyén töltött – nevelésbe vétele a nagykorúvá válásával szűnt meg, és
-- b) készpénzének, biztosításra vagy más célból lekötött betétjének, vagy ingatlan vagyonának értéke a nagykorúvá válásakor nem haladja meg az öregségi nyugdíj legkisebb összegének hatvanszorosát, azzal, hogy az öregségi nyugdíj legkisebb összegeként az otthonteremtési támogatás megállapítása időpontjában érvényes öregségi nyugdíj legkisebb összegét kell figyelembe venni.
+- b) készpénzének, biztosításra vagy más célból lekötött betétjének, vagy ingatlan vagyonának értéke a nagykorúvá válásakor nem haladja meg az öregségi nyugdíj legkisebb összegének hatvanhétszeresét, azzal, hogy az öregségi nyugdíj legkisebb összegeként az otthonteremtési támogatás megállapítása időpontjában érvényes öregségi nyugdíj legkisebb összegét kell figyelembe venni.
 
-(3) A készpénz vagyonba a fiatal felnőtt árvaellátásából és keresményéből származó megtakarítást nem lehet beszámítani. A nevelésbe vétel időtartamába az ideiglenes hatályú elhelyezés időtartamát is be kell számítani, feltéve, ha a gyermeket ideiglenesen nevelőszülőnél vagy gyermekotthonban helyezték el.
+(3) A vagyonba a fiatal felnőtt árvaellátásából, keresményéből származó, valamint a fiatalok életkezdési támogatásáról szóló 2005. évi CLXXIV. törvény és az Ltv. szerinti megtakarítást nem lehet beszámítani. A nevelésbe vétel időtartamába az ideiglenes hatályú elhelyezés időtartamát is be kell számítani, feltéve, ha a gyermeket ideiglenesen nevelőszülőnél vagy gyermekotthonban helyezték el.
 
 (4) Akkor is jogosult a fiatal felnőtt a támogatásra, ha a három évnél rövidebb időtartamú nevelésbe vételére a 78. § (1) bekezdés a) pont ab), ac), ad) és b) pont ba) alpontjában meghatározott okból került sor.
 
 (5) A támogatás Magyarország területén használható fel
 
-- a) részben vagy egészben a fiatal felnőtt tulajdonába kerülő vagy már a fiatal felnőtt tulajdonában lévő lakás lakhatóvá tételére,
-- b) építési telek, életvitelszerű lakhatásra alkalmas lakás, családi ház, tanya vásárlására, építésére, tulajdon- vagy tulajdonrészszerzéssel járó felújítására vagy bővítésére,
-- c) bérleti jogviszony létesítéséhez szükséges összeg megfizetésére, lakás bérleti díjának kifizetésére,
+- a) részben vagy egészben a fiatal felnőtt tulajdonába kerülő vagy már a fiatal felnőtt tulajdonában lévő lakás, családi ház, tanya lakhatóvá tételére,
+- b) részben vagy egészben a fiatal felnőtt tulajdonába kerülő építési telek, életvitelszerű lakhatásra alkalmas lakás, családi ház, tanya vásárlására, építésére, tulajdon- vagy tulajdonrészszerzéssel járó felújítására vagy bővítésére,
+- c) bérleti jogviszony létesítéséhez szükséges összeg megfizetésére, lakás, családi ház, tanya bérleti díjának kifizetésére,
 - d) önkormányzati bérlakás felújítására,
-- e) államilag támogatott lakásprogramban vagy lakás-előtakarékossági programban való részvételre,
+- e) államilag támogatott lakás-előtakarékossági programban való részvételre, ha a fiatal felnőtt vállalja, hogy legalább az Ltv.-ben meghatározott, az állami támogatásra való jogosultság megszerzéséhez szükséges ideig részt vesz a programban,
 - f) otthonteremtést elősegítő hitelintézeti kölcsön egyösszegű törlesztésére,
-- g) indokolt esetben a tartósan beteg vagy fogyatékos fiatal felnőtt megfelelő ellátását biztosító, az Szt. hatálya alá tartozó bentlakásos szociális intézménybe fizetendő egyszeri hozzájárulásra.
+- g) indokolt esetben a tartósan beteg vagy fogyatékos fiatal felnőtt megfelelő ellátását biztosító, az Szt. hatálya alá tartozó bentlakásos szociális intézménybe fizetendő egyszeri hozzájárulásra vagy belépési hozzájárulásra.
 
-(6) Az otthonteremtési támogatás iránti kérelemben nyilatkozni kell a (2)–(4) bekezdésben meghatározott feltételekről, valamint arról, hogy a fiatal felnőtt az otthonteremtési támogatás felhasználása során az utógondozó intézménnyel együttműködik.
+(6) Az otthonteremtési támogatás iránti kérelemben nyilatkozni kell a (2)–(4) bekezdésben és az (5) bekezdés e) pontjában meghatározott feltételekről, valamint arról, hogy a fiatal felnőtt az otthonteremtési támogatás felhasználása során az utógondozó intézménnyel együttműködik.
 
-(7) A gyámhatóság az otthonteremtési támogatás iránti kérelem alapján az utógondozás vagy utógondozói ellátás alatt nem álló fiatal felnőtt részére elrendeli az utógondozást. Az otthonteremtési támogatás céljának megvalósulásához az utógondozást biztosító intézmény a támogatással való elszámolásig segítséget nyújt.
+(7) A gyámhatóság az otthonteremtési támogatás iránti kérelem alapján az utógondozást
 
-26. § (1) Az otthonteremtési támogatás mértékét a folyamatos nevelésben eltöltött évek és a jogosult készpénz és ingatlan vagyonának együttes értéke alapján úgy kell megállapítani, hogy a vagyonnal nem rendelkező jogosult esetén érje el, a vagyonnal rendelkező jogosult esetén pedig a vagyonnal együtt érje el
+- a) az utógondozás vagy utógondozói ellátás alatt nem álló fiatal felnőtt esetén elrendeli, vagy
+- b) az utógondozás vagy utógondozói ellátás alatt álló fiatal felnőtt esetén meghosszabbítja.
 
-- a) a négy évnél rövidebb időtartamú nevelésbe vételnél az otthonteremtési támogatás megállapítása idején érvényes öregségi nyugdíj legkisebb összegének negyvenszeresét,
-- b) a négy évet meghaladó időtartamú nevelésbe vételnél az otthonteremtési támogatás megállapítása idején érvényes öregségi nyugdíj legkisebb összegének ötvenszeresét,
-- c) az öt évet meghaladó időtartamú nevelésbe vételnél az otthonteremtési támogatás megállapítása idején érvényes öregségi nyugdíj legkisebb összegének hatvanszorosát.
+(8) Az otthonteremtési támogatás céljának megvalósulásához az utógondozást biztosító intézmény a támogatással való elszámolásig segítséget nyújt, kivéve, ha az otthonteremtési támogatás célja lakás-előtakarékossági programban való részvétel. Lakás-előtakarékossági programban való részvétel esetén az utógondozást biztosító intézmény az otthonteremtési támogatást megállapító döntés jogerőre emelkedéséig, valamint szükség esetén a 26/B. § (3) és (7) bekezdése szerinti esetben nyújt segítséget.
 
-(2) Ha a fiatal felnőtt az otthonteremtési támogatást lakás bérleti díjának kifizetésére, államilag támogatott lakás-előtakarékossági programban való részvételre vagy ingatlan felújítására, bővítésre használja fel, a gyámhatóság az otthonteremtési támogatás összegének részletekben történő kifizetéséről dönthet. Az ingatlan felújítása, bővítése céljára megállapított otthonteremtési támogatás részletekben történő kifizetése esetén a következő részlet kifizetésére csak akkor kerülhet sor, ha a fiatal felnőtt az előző részlet cél szerinti felhasználásáról okmányokkal igazoltan elszámolt.
+26. § (1) Az otthonteremtési támogatás mértékét a folyamatos nevelésben eltöltött évek és a jogosult készpénz- és ingatlan vagyonának együttes értéke alapján úgy kell megállapítani, hogy a vagyonnal nem rendelkező jogosult esetén érje el, a vagyonnal rendelkező jogosult esetén pedig a vagyonnal együtt érje el
 
-(3) A fiatal felnőtt az otthonteremtési támogatás gyámhatóság által elfogadott célra történő felhasználásáról legkésőbb a támogatás megállapításától számított egy éven belül okmányokkal igazoltan elszámol, kivéve ha az otthonteremtési támogatást lakás bérleti díjának kifizetésére vagy államilag támogatott lakás-előtakarékossági programban való részvételre használja fel. Ezekben az esetekben az otthonteremtési támogatás felhasználásáról az utolsó részlet kiegyenlítését követő hónap utolsó napjáig kell elszámolni.
+- a) négy évnél rövidebb időtartamú nevelésbe vételnél az otthonteremtési támogatás megállapítása idején érvényes öregségi nyugdíj legkisebb összegének negyvenhétszeresét,
+- b) négy évet meghaladó időtartamú nevelésbe vételnél az otthonteremtési támogatás megállapítása idején érvényes öregségi nyugdíj legkisebb összegének ötvenhétszeresét,
+- c) öt évet meghaladó időtartamú nevelésbe vételnél az otthonteremtési támogatás megállapítása idején érvényes öregségi nyugdíj legkisebb összegének hatvanhétszeresét.
 
-(4) A gyámhatóság az otthonteremtési támogatást a központi költségvetés terhére biztosítja.
+(2) Ha a fiatal felnőtt az otthonteremtési támogatást lakás, családi ház, tanya bérleti díjának kifizetésére, vagy lakás, családi ház, tanya tulajdon- vagy tulajdonrészszerzéssel járó felújítására, bővítésére használja fel, a gyámhatóság az otthonteremtési támogatás összegének részletekben történő kifizetéséről dönthet. A tulajdon- vagy tulajdonrészszerzéssel járó felújítás, bővítés céljára megállapított otthonteremtési támogatás részletekben történő kifizetése esetén a következő részlet kifizetésére csak akkor kerülhet sor, ha a fiatal felnőtt az előző részlet cél szerinti felhasználásáról okmányokkal igazoltan elszámolt.
 
-(5) A gyámhatóság öt év időtartamra elidegenítési tilalmat jegyeztet be az állam javára az ingatlan-nyilvántartásba az otthonteremtési támogatással megszerzett ingatlanra és az otthonteremtési támogatásból felújított, a támogatásban részesülő fiatal felnőtt tulajdonában vagy részben a tulajdonában lévő ingatlanra.
+(3) Ha a fiatal felnőtt az otthonteremtési támogatást államilag támogatott lakás-előtakarékossági programban való részvételre használja fel – a lakás-előtakarékossághoz kapcsolódó állami támogatás megtakarítási időn belüli folyamatos igénybevétele érdekében – a lakás-előtakarékossági szerződésnek kizárólag az a módozata hagyható jóvá, amely szerint a befizetés a megtakarítási idő alatt előre meghatározott rendszerességgel, egyenlő részletekben történik. Otthonteremtési támogatásból nem finanszírozható olyan szerződési módozat, amely alapján a teljes betét befizetése a szerződéskötéskor egy összegben történik.
 
-(6) Az otthonteremtési támogatásra jogosult fiatal felnőtt kérelmére, körülményeinek lényeges változása esetén a gyámhatóság az általa bejegyeztetett elidegenítési tilalmat feloldhatja, illetve a lejárat előtt hozzájárulhat az államilag támogatott lakás-előtakarékossági programba befektetett otthonteremtési támogatás összegének a 25. § (5) bekezdése szerinti célra való felhasználásához. A gyámhatóság az (5) bekezdésben meghatározott elidegenítési tilalmat bejegyezteti a korábbi – az otthonteremtési támogatás felhasználásával a fiatal felnőtt tulajdonába került – ingatlan felhasználásával megszerzett újabb ingatlanra, legfeljebb az előzőleg előírt elidegenítési tilalom időtartamának lejártáig.
+(4) A hitelintézet a lakás-előtakarékossági programba befektetett otthonteremtési támogatás összegét a gyámhatóság otthonteremtési támogatást megállapító döntése alapján zárolja. A zárolás kizárólag a gyámhatóság hozzájárulásával szüntethető meg. A zárolás hatálya alatt a szerződéssel rendelkezni kizárólag a gyámhatóság hozzájárulása alapján lehet.
 
-(7) Az (5)–(6) bekezdésben meghatározott elidegenítési tilalomból eredő valamennyi polgári jogi jogviszonyban a Magyar Államot a kincstár képviseli.
+(5) A gyámhatóság a fiatal felnőtt kérelmére, körülményeinek lényeges változása esetén a lakás-előtakarékossági szerződésben foglalt megtakarítási idő lejárta előtt is hozzájárulhat a lakás-előtakarékossági programban való részvételre megállapított otthonteremtési támogatás összegének a 25. § (5) bekezdése szerinti célra való felhasználásához.
+
+(6) A fiatal felnőtt az otthonteremtési támogatás gyámhatóság által elfogadott célra történő felhasználásáról – a (7)–(9) bekezdésben foglalt esetek kivételével – legkésőbb a támogatás megállapításától számított egy éven belül, okmányokkal igazoltan elszámol.
+
+(7) Ha a fiatal felnőtt az otthonteremtési támogatást lakás, családi ház, tanya bérleti díjának kifizetésére használja fel, az otthonteremtési támogatás felhasználásáról az utolsó részlet kiegyenlítését követő hónap utolsó napjáig kell elszámolnia.
+
+(8) Ha a fiatal felnőtt az otthonteremtési támogatást lakás, családi ház, tanya tulajdon- vagy tulajdonrészszerzéssel járó felújítására, bővítésére használja fel, az egyéves elszámolási határidőt a fiatal felnőtt kérelmére további egy évvel meg kell hosszabbítani.
+
+(9) Ha a fiatal felnőtt az otthonteremtési támogatást államilag támogatott lakás-előtakarékossági programban való részvételre használja fel, az otthonteremtési támogatás felhasználásáról a 26/B. §-ban foglaltak szerint számol el.
+
+26/A. § (1) Ha a 26. § (6)–(8) bekezdése szerinti elszámolás során a gyámhatóság megállapítja, hogy a fiatal felnőtt az otthonteremtési támogatást vagy annak egy részét nem használta fel, – a lakáscélra fordított összeg felhasználásának elfogadása mellett – kötelezi a fiatal felnőttet a folyósított, de fel nem használt összeg visszafizetésére. A fiatal felnőtt a 27. § (2) bekezdésében meghatározott időtartamon belül a megállapított otthonteremtési támogatásból fel nem használt összeg tekintetében új kérelmet nyújthat be.
+
+(2) A gyámhatóság által az (1) bekezdés szerint elrendelt visszafizetés összege tekintetében az ismételt felhasználás akkor engedélyezhető, ha a fiatal felnőtt a visszafizetési kötelezettségét teljesítette.
+
+(3) Ha a 26. § (6)–(8) bekezdése szerinti elszámolás során a gyámhatóság azt állapítja meg, hogy a fiatal felnőtt az otthonteremtési támogatást vagy annak egy részét nem a támogatást megállapító döntésben meghatározott célra használta fel, – a lakáscélra fordított összeg felhasználásának elfogadása mellett – a folyósított, de nem cél szerint felhasznált összeg visszafizetésére kötelezi a fiatal felnőttet. Ebben az esetben a visszafizetésre kerülő összeg otthonteremtési célra történő felhasználására újabb kérelem nem nyújtható be.
+
+(4) A (3) bekezdés szerinti esetben a gyámhatóság a fiatal felnőtt kérelmére a visszafizetendő összeget méltányosságból elengedheti, csökkentheti, illetve arra részletfizetést engedélyezhet, feltéve, hogy a 133. § (5) bekezdésében foglalt feltétel fennáll. A visszafizetendő összeg méltányosságból történő elengedésének különösen akkor van helye, ha a fiatal felnőtt a támogatási összeget a támogatást megállapító döntésben meghatározott céltól eltérően, de a 25. § (5) bekezdése szerinti otthonteremtési célra használta fel.
+
+26/B. § (1) A hitelintézet a lakás-előtakarékossági szerződésben foglalt megtakarítási idő lejártát és a fiatal felnőttnek a kiutalás igénybevételére irányuló nyilatkozatát követően haladéktalanul tájékoztatja a gyámhatóságot
+
+- a) a kifizetendő betétösszegről, megjelölve a betétként elhelyezett összeget, valamint a jóváírt állami támogatást és az azokra jóváírt kamat összegét,
+- b) a kifizetés várható időpontjáról, és
+- c) a fiatal felnőttnek a kiutalás igénybevételére irányuló, a felhasználás célját is tartalmazó nyilatkozatának tartalmáról.
+
+(2) Ha a gyámhatóság a hitelintézet (1) bekezdés szerinti tájékoztatása alapján megállapítja, hogy a fiatal felnőtt az állami támogatással és kamattal növelt betétösszeget az Ltv.-ben meghatározott lakáscélra, saját javára kívánja felhasználni, hozzájárul a lakás-előtakarékossági programba befektetett otthonteremtési támogatás összege tekintetében a zárolás megszüntetéséhez. Ha a betétösszeg felhasználása közeli hozzátartozó javára történik, a gyámhatóság csak akkor járul hozzá a zárolás megszüntetéséhez, ha a fiatal felnőtt legalább az otthonteremtési támogatás összegének erejéig a lakáscélú felhasználással érintett ingatlanban tulajdonrészt szerez.
+
+(3) A gyámhatóság, amennyiben a felhasználás érdekében szükségesnek tartja, a (2) bekezdés szerinti hozzájárulással egyidejűleg az utógondozást az utógondozás vagy utógondozói ellátás alatt nem álló fiatal felnőtt esetén elrendelheti, vagy az utógondozás vagy utógondozói ellátás alatt álló fiatal felnőtt esetén meghosszabbíthatja. Az utógondozást biztosító intézmény segítséget nyújt a lakáscélú felhasználáshoz.
+
+(4) A hitelintézet – a lakáscélú felhasználás gyámhatóság felé történő igazolása céljából – a gyámhatóság egyidejű tájékoztatása mellett igazolást állít ki a fiatal felnőtt részére az Ltv.-ben meghatározott lakáscélú felhasználás megtörténtéről a lakáscélú felhasználás fiatal felnőtt által történő teljes körű igazolását követő 15 napon belül, vagy annak hiányáról a külön jogszabályban meghatározott igazolási határidő lejártát követő 15 napon belül.
+
+(5) Ha a hitelintézet igazolása szerint a lakás-előtakarékossági szerződés alapján a hitelintézet által kifizetett, állami támogatással és kamattal növelt betétösszeget a fiatal felnőtt
+
+- a) teljes mértékben az Ltv.-ben meghatározott lakáscélra használta fel, a gyámhatóság elfogadja az otthonteremtési támogatás felhasználását, és intézkedik a (3) bekezdés alapján kirendelt utógondozó intézmény felmentése, valamint a 26/C. § (2) bekezdésében foglalt elidegenítési tilalom tényének feljegyzése iránt,
+- b) nem vagy nem teljes mértékben az Ltv.-ben meghatározott lakáscélra használta fel, a gyámhatóság – a lakáscélra fordított összeg felhasználásának elfogadása mellett – a nem cél szerint felhasznált otthonteremtési támogatás visszafizetésére kötelezi a fiatal felnőttet, egyidejűleg intézkedik a (3) bekezdés alapján kirendelt utógondozó intézmény felmentése iránt.
+
+(6) Az (5) bekezdés b) pontja szerinti esetben a gyámhatóság a fiatal felnőtt kérelmére a visszafizetendő összeget méltányosságból elengedheti, csökkentheti, illetve arra részletfizetést engedélyezhet, feltéve, hogy a 133. § (5) bekezdésében foglalt feltétel fennáll.
+
+(7) Ha a gyámhatóság a hitelintézet (1) bekezdés szerinti tájékoztatása alapján megállapítja, hogy a fiatal felnőtt az állami támogatással és kamattal növelt betétösszeget nem az Ltv.-ben meghatározott lakáscélra kívánja felhasználni,
+
+- a) rendelkezik a hitelintézet felé az Ltv. alapján kifizethető, az otthonteremtési támogatásnak megfelelő mértékű betétösszegnek – ideértve az utána jóváírt kamatot is – a központi költségvetés részére történő átutalásáról,
+- b) nyilatkoztatja a fiatal felnőttet arról, hogy az a) pont szerint átutalásra kerülő összeg otthonteremtési támogatásból származó részét a 25. § (5) bekezdés a)–d), f) és g) pontja szerinti otthonteremtési célok közül melyikre kívánja felhasználni, és
+- c) szükség esetén elrendeli vagy meghosszabbítja az utógondozást a b) pont szerinti nyilatkozatban megjelölt felhasználási cél megvalósításához.
+
+(8) A gyámhatóság a (7) bekezdés b) pontja szerinti nyilatkozat alapján otthonteremtési támogatás iránti eljárást folytat le. Ha a fiatal felnőtt a nyilatkozatában új felhasználási célt nem jelöl meg, az eljárást meg kell szüntetni, egyidejűleg tájékoztatni kell arról, hogy a fel nem használt összeg tekintetében a 25. § (5) bekezdés a)–d), f) és g) pontja szerinti otthonteremtési célra új kérelmet nyújthat be a 27. § (2) bekezdésében foglalt időtartamon belül.
+
+26/C. § (1) A gyámhatóság az otthonteremtési támogatást a központi költségvetés terhére biztosítja.
+
+(2) A gyámhatóság öt év időtartamra elidegenítési tilalom tényét jegyezteti fel az állam javára az ingatlan-nyilvántartásba a 25. § (5) bekezdés a), b) és e) pontjában foglalt felhasználási célra megállapított otthonteremtési támogatással megszerzett építési telekre, lakásra, családi házra vagy tanyára.
+
+(3) Az otthonteremtési támogatásra jogosult fiatal felnőtt kérelmére, körülményeinek lényeges változása esetén a gyámhatóság az általa feljegyeztetett elidegenítési tilalom tényét feloldhatja.
+
+(4) A gyámhatóság a (2) bekezdésben meghatározott elidegenítési tilalom tényét feljegyezteti a korábbi – az otthonteremtési támogatás felhasználásával a fiatal felnőtt tulajdonába került – lakás, családi ház, tanya, építési telek felhasználásával megszerzett újabb lakásra, családi házra, tanyára, építési telekre, legfeljebb az előzőleg előírt elidegenítési tilalom időtartamának lejártáig.
+
+(5) A (2) és (4) bekezdésben meghatározott elidegenítési tilalomból eredő valamennyi polgári jogi jogviszonyban a Magyar Államot a kincstár képviseli.
 
 27. § (1) A gyámhatóság a gyermeket nagykorúságának elérése előtt 6 hónappal írásban tájékoztatja az otthonteremtési támogatás lehetőségéről.
 
@@ -1019,7 +1075,7 @@ a kérelmezővel, illetve törvényes képviselőjével írásban megállapodás
 
 - a) folyamatosan figyelemmel kíséri a településen élő gyermekek szociális helyzetét, veszélyeztetettségét,
 - b) meghallgatja a gyermek panaszát, és annak orvoslása érdekében megteszi a szükséges intézkedést,
-- c)
+- c) az ellátási területén közreműködik a kormányrendeletben meghatározott európai uniós forrásból megvalósuló program keretében természetben biztosítható eseti vagy rendszeres juttatás célzott és ellenőrzött elosztásában,
 - d) szervezi a – legalább három helyettes szülőt foglalkoztató – helyettes szülői hálózatot, illetve működtetheti azt, vagy önálló helyettes szülőket foglalkoztathat,
 - e) segíti a nevelési-oktatási intézmény gyermekvédelmi feladatának ellátását,
 - f) felkérésre környezettanulmányt készít,
@@ -4412,7 +4468,17 @@ módosítja.
 
 (2) A fenntartó képviseletére jogosult személy nevét, beosztását és elérhetőségét a fenntartó, az intézményvezető nevét és elérhetőségét az intézmény a kapcsolattartója útján adja át a köznevelés információs rendszerének adatkezelője részére a köznevelés információs rendszerében történő nyilvántartás céljából.
 
-177–188. §
+177. § (1) Az egyes szociális és gyermekvédelmi tárgyú, valamint a megváltozott munkaképességű személyek ellátásait érintő törvények módosításáról szóló 2016. évi XXVI. törvénnyel megállapított 25. § (8) bekezdését, 26. § (4), (5) és (9) bekezdését, valamint 26/B. §-át azokban az ügyekben is alkalmazni kell, amelyekben a fiatal felnőtt részére 2016. május 1-jén még folyósítással érintett otthonteremtési támogatás lakás-előtakarékossági programban való részvétel céljából került megállapításra.
+
+(2) Az egyes szociális és gyermekvédelmi tárgyú, valamint a megváltozott munkaképességű személyek ellátásait érintő törvények módosításáról szóló 2016. évi XXVI. törvénnyel megállapított 25. § (3) és (5)–(7) bekezdését, 26. § (1)–(3), (7) és (8) bekezdését, 26/A. §-át és 26/C. §-át a folyamatban lévő ügyekben is alkalmazni kell.
+
+(3) Az egyes szociális és gyermekvédelmi tárgyú, valamint a megváltozott munkaképességű személyek ellátásait érintő törvények módosításáról szóló 2016. évi XXVI. törvénnyel megállapított 26. § (8) bekezdését, 26/A. §-át – a (2) bekezdésben foglalt eseteken túl – azokban az ügyekben is alkalmazni kell, amelyekben az elszámolás még nem zárult le.
+
+(4) A gyámhatóság 2016. május 15-éig felülvizsgálja azokat a 2014. március 15-éig lefolytatott otthonteremtési támogatás megállapítása iránti és a támogatási összeg folyósítása tekintetében még folyamatban lévő ügyeket, amelyekben az otthonteremtési támogatás lakás-előtakarékossági programba került befektetésre, és ha a lakás-előtakarékossági programba befektetett otthonteremtési támogatás összege nem került zárolásra, az otthonteremtési támogatást megállapító döntést a támogatás összegének zárolására irányuló megkereséssel legkésőbb 2016. május 31-éig megküldi a hitelintézetnek, amely a zárolásról 15 napon belül gondoskodik.
+
+(5) Ha a fiatal felnőtt részére 2016. május 1-jén még folyósítással érintett otthonteremtési támogatás lakás-előtakarékossági programban való részvétel céljából került megállapításra és az utógondozást a Gyvt. 92. § (1) bekezdés c) pontjában foglaltak miatt rendelték el, a gyámhatóság 2016. július 31-éig felmenti az utógondozót. Az utógondozó felmentésétől el lehet tekinteni, ha a 2016. május 1-je és 2016. október 31-e közötti időszakban a lakás-előtakarékossági szerződésben foglalt megtakarítási idő lejár.
+
+178–188. §
 
 189. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 

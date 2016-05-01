@@ -827,7 +827,8 @@ szemben.
 - m) a feladatkörében eljáró Nemzeti Adatvédelmi és Információszabadság Hatósággal,
 - n) a Magyar Könyvvizsgálói Kamara által a pénzforgalmi intézménynél, elektronikuspénz-kibocsátó intézménynél működő vagy volt könyvvizsgálója ellen indított fegyelmi eljárás keretében a Magyar Könyvvizsgálói Kamarával,
 - o) a feladatkörében eljáró kormányzati ellenőrzési szervvel, valamint
-- p) az eltűnt vagy az elfogatóparancs, európai elfogatóparancs, nemzetközi elfogatóparancs hatálya alatt álló személyek felkutatását, továbbá az ismeretlen személy vagy holttest azonosítását végző rendőri szervvel
+- p) az eltűnt vagy az elfogatóparancs, európai elfogatóparancs, nemzetközi elfogatóparancs hatálya alatt álló személyek felkutatását, továbbá az ismeretlen személy vagy holttest azonosítását végző rendőri szervvel,
+- q) a szociális rászorultságtól függő pénzbeli és természetbeni ellátások jogosultsági feltételeinek vizsgálatával összefüggő feladatkörében eljáró, szociális hatáskört gyakorló szervvel
 
 szemben e szerveknek a pénzforgalmi intézményhez, elektronikuspénz-kibocsátó intézményhez intézett írásbeli megkeresése esetén.
 
