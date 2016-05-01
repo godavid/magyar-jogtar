@@ -1083,7 +1083,7 @@ adókötelessé teszi.
 93. § (1) Mentes az adó alól:
 
 - a) a termék importja abban az esetben, ha a termék 2. § a) pontja szerinti értékesítése szintén mentes az adó alól;
-- b) a termék 24. § (1) bekezdése szerinti importja abban az esetben, ha az a vámmentességek közösségi rendszerének létrehozásáról szóló 1186/2009/EK tanácsi rendeletben (a továbbiakban: Vámmentességi-rendelet) szabályozott vámmentességi jogcímek valamelyikének alkalmazása alá tartozik az abban, valamint a közösségi vámjog végrehajtásáról szóló törvényben (a továbbiakban: Vám tv.) meghatározottak szerint, feltéve, hogy e törvény másként nem rendelkezik;
+- b) a termék 24. § (1) bekezdése szerinti importja abban az esetben, ha az a vámmentességek közösségi rendszerének létrehozásáról szóló 1186/2009/EK tanácsi rendeletben (a továbbiakban: Vámmentességi-rendelet) szabályozott vámmentességi jogcímek valamelyikének alkalmazása alá tartozik az abban, valamint az uniós vámjog végrehajtásáról szóló törvényben (a továbbiakban: Vám tv.) meghatározottak szerint, feltéve, hogy e törvény másként nem rendelkezik;
 - c) a termék 24. § (2) bekezdése szerinti importja, feltéve, hogy arra a b) pont szerinti adómentesség vonatkozna akkor, ha a termék importja a 24. § (1) bekezdése szerint teljesülne;
 - d) a korábban a Közösség területén kívülre értékesített termék [98. § (1) bekezdése] változatlan állapotban történő importja abban az esetben, ha az vámmentesség alá tartozik, és a korábbi értékesítő, valamint az importáló személye megegyezik egymással;
 - e) a korábban a Közösség területéről ideiglenes jelleggel kivitt termék változatlan állapotban – ideértve a garanciális kötelezettségvállalás teljesítése keretében kijavított vagy kicserélt terméket is – történő importja abban az esetben, ha az vámmentesség alá tartozik, és az ideiglenes kivitelt kérő, valamint az importáló adóalany személye megegyezik egymással;
@@ -1127,7 +1127,7 @@ adókötelessé teszi.
 95. § (1) Mentes az adó alól a termék importja a következő feltételek együttes teljesülése esetében:
 
 - a) az importáló a terméket a 89. § szerint adómentesen értékesíti;
-- b) az a) pont szerint értékesített termék küldeménykénti feladása belföldön vagy elfuvarozása belföldről legkésőbb a vámjogi szabad forgalomba bocsátásáról szóló határozat közlésétől számított, a (3) bekezdésben meghatározott határidőig megtörténik;
+- b) az a) pont szerint értékesített termék küldeménykénti feladása belföldön vagy elfuvarozása belföldről legkésőbb a vámjogi szabad forgalomba bocsátásáról szóló határozat közlésétől, határozat hiányában az áru átengedésének időpontjától számított, a (3) bekezdésben meghatározott határidőig megtörténik;
 - c) az importáló – a (4) bekezdésben meghatározott eltéréssel – a termékre a Vám tv. rendelkezéseinek megfelelően adóbiztosítékot nyújt;
 - d) a terméket belföldön rendeltetésszerűen nem használják, egyéb módon nem hasznosítják;
 - e) a terméket a vámhatóság felhívására bemutatják.
@@ -1157,7 +1157,7 @@ adókötelessé teszi.
   - bb) bevallási kötelezettségnek [184. §], ha a ba) alpontban említett kötelezettség a (3) bekezdésben meghatározott határidő lejártát követő 15. naphoz képest később válik esedékessé, vagy
   - bc) fizetendőadó-megállapítási kötelezettségnek [60. § (4) bekezdése] az ügylet teljesítését tanúsító számla vagy – számla hiányában – a kötelezettség teljesítését igazoló egyéb okirat bemutatásával, ha a bb) alpontban említett kötelezettség a (3) bekezdésben meghatározott határidő lejártát követő 15. naphoz képest később válik esedékessé.
 
-(10) Abban az esetben, ha az adó megfizetésének felfüggesztése a (7) bekezdés b) pontja szerint szűnik meg, a vámhatóság kötelezi az importálót a megállapított adó megfizetésére úgy, hogy a megfizetéshez fűződő egyéb jogkövetkezményekről a termék vámjogi szabad forgalomba bocsátásáról szóló határozat meghozatalának időpontjára visszamenőleg rendelkezik.
+(10) Abban az esetben, ha az adó megfizetésének felfüggesztése a (7) bekezdés b) pontja szerint szűnik meg, a vámhatóság kötelezi az importálót a megállapított adó megfizetésére úgy, hogy a megfizetéshez fűződő egyéb jogkövetkezményekről a termék vámjogi szabad forgalomba bocsátásáról szóló határozat meghozatalának, határozat hiányában az áru átengedésének időpontjára visszamenőleg rendelkezik.
 
 (11) A vámhatóság az (1) bekezdés c) pontja szerint nyújtott adóbiztosítékot felszabadítja
 
@@ -1393,7 +1393,7 @@ hatálya alatti állására nincs befolyással.
 
 (2) Adóraktározási eljárás hatálya alá nem vonható az a termék,
 
-- a) amely a Közösségi Vámkódex létrehozásáról szóló 2913/92/EGK tanácsi rendelet 4. cikkének 7. pontja értelmében nem minősül közösségi árunak, illetőleg
+- a) amely az Uniós Vámkódex létrehozásáról szóló, 2013. október 9-i 952/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: Vámkódex) 5. cikk 23. pontja értelmében nem minősül uniós árunak, illetve
 - b) amelyet közvetlenül kiskereskedelmi forgalomba helyezés céljára szánnak.
 
 (3) Az adóraktározási eljárásra vonatkozó szabályokat a 4. számú melléklet tartalmazza.
@@ -1819,22 +1819,22 @@ legyenek.
 
 (2) A vámhatóság a termék vámjogi szabad forgalomba bocsátásáról szóló határozattal állapítja meg az adót abban az esetben is, ha a termék importja a 95. § szerint mentes az adó alól.
 
-156. § (1) A 155. § (1) bekezdésétől eltérően – ide nem értve azokat az eseteket, amikor a vámtartozás a Közösségi Vámkódex létrehozásáról szóló 2913/92/EGK tanácsi rendelet (a továbbiakban: Vámkódex) 201. cikkében meghatározottaktól eltérően keletkezik – az adót önadózással állapítja meg az az adófizetésre kötelezett, akinek (amelynek) azt kérelmére a vámhatóság engedélyezi.
+156. § (1) A 155. § (1) bekezdésétől eltérően – ide nem értve azokat az eseteket, amikor a vámtartozás a Vámkódex 79. cikkében meghatározottak alapján keletkezik – az adót önadózással állapítja meg az az adófizetésre kötelezett, akinek (amelynek) azt kérelmére a vámhatóság engedélyezi.
 
 (2) Az (1) bekezdésben említett engedély megszerzéséhez a következő feltételek teljesülése szükséges:
 
 - a) a kérelmező belföldön nyilvántartásba vett adóalany, akinek (amelynek) nincs olyan, e törvényben szabályozott jogállása, amelynek alapján tőle adó fizetése ne lenne követelhető; továbbá
-- b) a kérelmező a Vámtv. rendelkezései szerint megbízható vámadós, akire (amelyre) egyúttal teljesül, hogy a kérelem benyújtását megelőző naptári évben a 89., 98–109. és 111–112. §-ok szerint adómentes termékértékesítése, szolgáltatásnyújtása ellenértékeként megtérített vagy megtérítendő – éves szinten göngyölített – összeg eléri vagy meghaladja:
+- b) a kérelmező a Vámkódex 39. cikk a) és c) pontjában meghatározott feltételt teljesíti, és egyúttal teljesül, hogy a kérelem benyújtását megelőző naptári évben a 89., 98–109. és 111–112. §-ok szerint adómentes termékértékesítése, szolgáltatásnyújtása ellenértékeként megtérített vagy megtérítendő – éves szinten göngyölített – összeg eléri vagy meghaladja:
   - ba) az ugyanezen időszakban a 2. § a) pontja szerinti összes termékértékesítése, szolgáltatásnyújtása ellenértékeként megtérített vagy megtérítendő – adó nélkül számított és éves szinten göngyölített – összeghez viszonyítottan a 67 százalékos hányadot, de legalább a 10 milliárd forintot vagy
   - bb) a 20 milliárd forintot; vagy
-- c) a kérelmező a Vámkódex végrehajtására vonatkozó rendelkezések megállapításáról szóló 2454/93/EGK bizottsági rendelet (a továbbiakban: Vámvégrehajtási-rendelet) 14a. cikke (1) bekezdés a) vagy c) pontja szerinti engedélyezett gazdálkodói tanúsítvánnyal rendelkezik; vagy
-- d) a kérelmező a Vámkódex 76. cikke (1) bekezdésének c) pontja szerinti egyszerűsített eljárásra vonatkozó, szabad forgalomba bocsátáshoz kiadott engedéllyel rendelkezik.
+- c) a kérelmező a Közösségi Vámkódex létrehozásáról szóló 2913/92/EGK tanácsi rendelet végrehajtására vonatkozó rendelkezések megállapításáról szóló, 1993. július 2-i 2454/93/EGK bizottsági rendelet (a továbbiakban: Vámvégrehajtási-rendelet) 14a. cikk (1) bekezdés a) vagy c) pontja szerinti engedélyezett gazdálkodói tanúsítvánnyal vagy a Vámkódex 38. cikk (2) bekezdés a) pontja szerinti engedélyezett gazdálkodó engedéllyel rendelkezik, vagy
+- d) a kérelmező a Közösségi Vámkódex létrehozásáról szóló, 1992. október 12-i 2913/92/EGK tanácsi rendelet 76. cikk (1) bekezdés c) pontja szerinti egyszerűsített eljárásra vonatkozó, szabad forgalomba bocsátáshoz kiadott engedéllyel vagy a Vámkódex 182. cikke szerinti „Bejegyzés a nyilatkozattevő nyilvántartásába” vagy a Vámkódex 185. cikke szerinti önértékelésre vonatkozó engedéllyel rendelkezik.
 
 (3) Abban az esetben, ha a kérelmező csoportos adóalany [8. §], vagy ha az engedélyes jogutódlással úgy szűnik meg, hogy jogutódja csoportos adóalany, a (2) bekezdésben meghatározott feltételek közül
 
 - a) az a) pontot a csoportos adóalanyiságban részt vevő valamennyi tagra együttesen, mint egy adóalanyra,
 - b) a b) pontot
-  - ba) a megbízható vámadósi státusz tekintetében a csoportos adóalanyiságban részt vevő valamennyi tagra külön-külön,
+  - ba) a Vámkódex 39. cikk a) és c) pontjában meghatározott feltétel tekintetében a csoportos adóalanyiságban részt vevő valamennyi tagra külön-külön,
   - bb) egyéb, a ba) alpontban nem említett rendelkezései tekintetében a csoportos adóalanyiságban részt vevő valamennyi tagra összesítetten,
 - c) a c) és d) pontot a csoportos adóalanyiságban részt vevő valamennyi tagra külön-külön
 
@@ -1854,7 +1854,7 @@ kell vizsgálni.
 - a) azt az engedélyes kéri;
 - b) a (2) bekezdésben meghatározott feltételek közül az engedély megadását követően az engedélyesre
   - ba) az a), c) vagy d) pontok bármelyike, illetőleg
-  - bb) a b) pont tekintetében a megbízható vámadósi státusz a (6) bekezdés a) pontjában említett esetben az ott meghatározott időtartamon belül
+  - bb) a b) pont tekintetében a Vámkódex 39. cikk a) vagy c) pontja a (6) bekezdés a) pontjában említett esetben az ott meghatározott időtartamon belül
 
 nem teljesül;
 
@@ -3403,6 +3403,12 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
 
 300. § A 3. számú melléklet I. részében foglalt táblázatnak az egyes törvényeknek a gazdasági növekedéssel összefüggésben történő módosításáról szóló 2015. évi CCXII. törvénnyel megállapított 50. és 51. sorát azokban az esetekben kell alkalmazni először, amelyekben a 84. § szerint megállapított időpont 2016. január 1-jére vagy azt követő napra esik.
 
+301. § (1) E törvénynek az uniós vámjog végrehajtásáról szóló 2016. évi XIII. törvénnyel módosított 156. §-át a 2016. április 30-át követően benyújtott kérelmek esetén kell alkalmazni.
+
+(2) A 2016. május 1-jét megelőzően hatályos 156. § (2) bekezdés b) pontjában meghatározott feltételek teljesítése alapján meghozott jogerős határozatok 156. § (6) bekezdés a) pontjában meghatározott érvényességi idejét a 156. § 2016. május 1-jén hatályba lépő módosítása nem érinti.
+
+302. § E törvénynek az uniós vámjog végrehajtásáról szóló 2016. évi XIII. törvénnyel megállapított 4. számú melléklet 2. pont a) alpontját a 2016. április 30-át követően benyújtott kérelmek esetén kell alkalmazni.
+
 ### 1. számú melléklet a 2007. évi CXXVII. törvényhez
 
 #### A Közösség területe és tagállamai
@@ -3563,7 +3569,7 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
 
 - 1. Az adóraktározási eljárás a termék adóraktárba történő beraktározását, ott tárolását, valamint onnan történő kiraktározását foglalja magában.
 - 2. Adóraktár:
-  - a) a jövedéki termékek kivételével az a vámhatóság által adóraktározási eljárás céljára engedélyezett raktár, amelynek engedélyezési és működtetési feltételei megegyeznek a Vámvégrehajtási-rendelet 525. cikkében meghatározott, A-típusú vámraktár engedélyezési és működtetési feltételeivel;
+  - a) a jövedéki termékek kivételével az a vámhatóság által adóraktározási eljárás céljára engedélyezett raktár, amelynek engedélyezési és működtetési feltételei – a biztosítéknyújtástól eltekintve – megegyeznek a vámjogszabályokban meghatározott, I. típusú közvámraktár engedélyezési és működtetési feltételeivel,
   - b) a jövedéki termékek esetében a Jöt.-ben meghatározott adóraktár, feltéve, hogy azt – az adóraktár üzemeltetőjének, engedélyesének (a továbbiakban együtt: adóraktár üzemeltetője) kérelmére – a vámhatóság adóraktározási eljárás céljára is engedélyezte. Az engedély megszerzéséhez az szükséges, hogy az adóraktár maga és az adóraktár üzemeltetőjének nyilvántartása egyaránt alkalmas legyen az adóraktározási eljárás hatálya alá vonható jövedéki termékek és az ezen eljárás hatálya alá nem vonható jövedéki termékek egyértelmű, megbízható és maradéktalan elkülönítésére.
 - 3. Beraktározás: érvényes jogcím meglétének feltételével a termék fizikai betárolása az adóraktárba.
 - 4. Kiraktározás: érvényes jogcím meglétének feltételével a termék fizikai kitárolása az adóraktárból.
@@ -3583,7 +3589,7 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
 - 11. A beraktározási okmányt 3 példányban kell benyújtani.
 - 12. A beraktározási okmány benyújtásával egyidejűleg a vámhatóságnak be kell mutatni a beraktározás jogcíméül szolgáló ügylet teljesülését tanúsító okirat eredeti példányát vagy annak hiteles másolatát, továbbá csatolni kell az erről készített másolatot 2 példányban.
 - 13. Abban az esetben, ha a beraktározást nem maga a beraktározó indítványozza, a nevében és képviseletében eljárónak a beraktározási okmányhoz csatolnia kell nevére szóló írásos meghatalmazást is.
-- 14. A beraktározás indítványozásával egyidejűleg a vámhatóság áruvizsgálatot tart, amely tételes, szúrópróbaszerű vagy adminisztratív egyaránt lehet.
+- 14. A beraktározás indítványozásával egyidejűleg a vámhatóság áruvizsgálatot tart, amely teljes, részleges vagy az okmányokra irányuló egyaránt lehet.
 - 15. Az áruvizsgálat eredményét, valamint a beraktározás tényét és időpontját a vámhatóság a beraktározási okmány záradékolásával közli.
 - 16. A záradékolt beraktározási okmány 1 példányát a beraktározó, 1 példányát az adóraktár üzemeltetője, 1 példányát pedig a vámhatóság köteles megőrizni. A 12. pontban említett csatolt másolat egyik példányát az adóraktár üzemeltetője, másik példányát pedig a vámhatóság szintén köteles megőrizni.
 - 17. Abban az esetben, ha az adóraktárban tárolt terméket a 113. § szerint értékesítették, az értékesítő köteles – a 24. pontban említett eset kivételével – megküldeni az értékesítéséről szóló számla hiteles másolatából 1 példányt az adóraktár üzemeltetőjének, 1 példányt pedig az adóraktár felügyeletét ellátó vámszervnek, akik (amelyek) azt kötelesek megőrizni.
@@ -3608,7 +3614,7 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
   - b) egyéb, az a) pont alá nem tartozó esetekben pedig a Számv. tv. rendelkezései szerint szigorú számadás alá vont számviteli bizonylatként kezelt szállítólevélnek eredeti példányát vagy annak hiteles másolatát kell a vámhatóságnak bemutatni, és csatolni kell az erről készített másolatot 2 példányban, kivéve, ha az a) pont szerinti okirat – a Jöt. rendelkezései alapján – egyébként is a vámhatóság rendelkezésére áll. Az első mondatban foglalt kötelezettséget azonban – az előzőektől függetlenül – legkésőbb a termék adójogi helyzete rendezésének igazolására megállapított határidőn [38. pont] belül pótolni kell.
 - 26. A 18. b) alpont alkalmazásában a kiraktározó abban az esetben igazolt utolsó értékesítő, ha a 17. pont szerint rendelkezésre álló számlák meg nem szakított láncolatában az utolsó számlán a termék beszerzőjeként szereplő személye megegyezik a 25. pont szerint bemutatott számla kibocsátójának személyével.
 - 27. Abban az esetben, ha a kiraktározást nem maga a kiraktározó indítványozza, a nevében és képviseletében eljárónak a kiraktározási okmányhoz csatolnia kell a nevére szóló írásos meghatalmazást is.
-- 28. A kiraktározás indítványozásával egyidejűleg a vámhatóság áruvizsgálatot tart, amely tételes, szúrópróbaszerű vagy adminisztratív egyaránt lehet.
+- 28. A kiraktározás indítványozásával egyidejűleg a vámhatóság áruvizsgálatot tart, amely teljes, részleges vagy az okmányokra irányuló egyaránt lehet.
 - 29. Az áruvizsgálat eredményét, valamint a kiraktározás tényét és időpontját a vámhatóság a kiraktározási okmány záradékolásával közli.
 - 30. A záradékolt kiraktározási okmány 1 példányát a kiraktározó, 1 példányát az adóraktár üzemeltetője, 1 példányát pedig vámhatóság köteles megőrizni. A 25. pontban említett csatolt másolat egyik példányát az adóraktár üzemeltetője, másik példányát pedig a vámhatóság szintén köteles megőrizni.
 - 31. Az adóraktár üzemeltetője köteles az adóraktározási eljárás hatálya alá tartozó termékekről folyamatos mennyiségi nyilvántartást vezetni. A mennyiségi nyilvántartásnak legalább a következőket kell tartalmaznia:
@@ -3632,7 +3638,7 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
   - a) a termék értékesítése után megállapított fizetendő adó bevallását igazoló, illetőleg abban az esetben, ha a termék értékesítése – e törvény értelmében – mentes az adó alól, az annak teljesülését igazoló okirat bemutatását a vámhatóságnak;
   - b) a termék Közösségen belüli beszerzése után megállapított fizetendő adó bevallását igazoló okirat bemutatását a vámhatóságnak abban az esetben, ha a kiraktározó a termék Közösségen belüli beszerzője [7. b) alpont].
 - 40. Mentesül a 39. a) alpontban meghatározott okirat-bemutatási kötelezettség alól a kiraktározó abban az esetben, ha a termék Közösség területéről való kiléptetésének tényéről a vámhatóság – az elektronikus kiviteli eljárás részeként, a kiviteli adatok vámhatóságok közötti informatikai adatcsere keretében – elektronikus üzenet formájában igazolást kapott.
-- 41. Az üzemeltető kérelmére a vámhatóság a raktár adóraktározási eljárás céljára történő engedélyezése során vagy azt követően engedélyezheti az adóraktározási eljárás egyszerűsített végrehajtását is (a továbbiakban: egyszerűsített adóraktározási eljárás), amelynek engedélyezési és működtetési feltételei megegyeznek a Vámvégrehajtási-rendelet 272–274. cikkeiben meghatározott, a helyi vámkezelési eljárás keretében történő vámraktározás engedélyezési és működtetési feltételeivel.
+- 41. Az üzemeltető kérelmére a vámhatóság a raktár adóraktározási eljárás céljára történő engedélyezése során vagy azt követően engedélyezheti az adóraktározási eljárás egyszerűsített végrehajtását is (a továbbiakban: egyszerűsített adóraktározási eljárás), amelynek engedélyezési és működtetési feltételei megegyeznek a vámjogszabályok által, a vámraktározásra meghatározott, a nyilatkozattevő nyilvántartásába való bejegyzés engedélyezésére megállapított feltételeknek.
 - 42. Egyszerűsített adóraktározási eljárás alkalmazásának esetében e melléklet hivatkozott rendelkezéseit a következő eltérésekkel kell alkalmazni:
   - a) a 9. pont egyéb rendelkezéseinek sérelme nélkül a beraktározás az adóraktár üzemeltetőjénél indítványozható;
   - b) a 11. ponttól eltérően a beraktározási okmányt 2 példányban kell benyújtani;
@@ -3653,7 +3659,7 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
   - b) a kiraktározás az adóraktár üzemeltetője nyilvántartásában való bejegyzéssel – mint kiraktározás – történik, ennek tényét az időpont megjelölésével együtt az adóraktár üzemeltetője a kiraktározási okmányon is feltünteti, amelynek egyik példányát a kiraktározó, másik példányát az adóraktár üzemeltetője köteles megőrizni;
   - c) az adóraktár üzemeltetője köteles a beraktározás [a) pont], illetőleg a kiraktározás [b) pont] tényével egyidejűleg az adóraktár felügyeletét ellátó vámszervet értesíteni;
   - d) az adóraktár üzemeltetője köteles az értékesítésről szóló számla hiteles másolatának kézhezvételével egyidejűleg az adóraktár felügyeletét ellátó vámszervet értesíteni, ha az adóraktárban tárolt terméket értékesítették [17. pont];
-  - e) a vámhatóság engedélye alapján a Vámvégrehajtási-rendelet 14a. cikk (1) bekezdés a) vagy c) pontja szerinti engedélyezett gazdálkodói tanúsítvánnyal rendelkező beraktározó, illetve kiraktározó a 18/b alpont szerinti esetben okirat-bemutatási kötelezettségének legkésőbb a termék adójogi helyzete rendezésének igazolására megállapított határidőn (38. pont) belül, pótlólag is eleget tehet, feltéve, hogy a beraktározási okmány a beraktározás jogcíméül szolgáló ügylet teljesülését tanúsító okirat sorszáma helyett az ügylet beazonosítását szolgáló adatokat tartalmazza. A pótlásra rendelkezésre álló határidőt az egyszerűsített adóraktározási eljárás engedélyében rögzíteni kell.
+  - e) a vámhatóság engedélye alapján a Vámvégrehajtási-rendelet 14a. cikk (1) bekezdés a) vagy c) pontja szerinti engedélyezett gazdálkodói tanúsítvánnyal vagy a Vámkódex 38. cikk (2) bekezdés a) pontja szerinti engedélyezett gazdálkodó engedéllyel rendelkező beraktározó, illetve kiraktározó a 18/b alpont szerinti esetben okirat-bemutatási kötelezettségének legkésőbb a termék adójogi helyzete rendezésének igazolására megállapított határidőn (38. pont) belül, pótlólag is eleget tehet, feltéve, hogy a beraktározási okmány a beraktározás jogcíméül szolgáló ügylet teljesülését tanúsító okirat sorszáma helyett az ügylet beazonosítását szolgáló adatokat tartalmazza. A pótlásra rendelkezésre álló határidőt az egyszerűsített adóraktározási eljárás engedélyében rögzíteni kell.
 
 ### 5. számú melléklet a 2007. évi CXXVII. törvényhez
 

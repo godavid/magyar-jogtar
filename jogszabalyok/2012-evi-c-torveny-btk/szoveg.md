@@ -3876,7 +3876,7 @@ követik el.
 
 - a) engedélyen a Nemzetközi Importigazolást, valamint az ezeket helyettesítő okmányokat is érteni kell,
 - b) kettős felhasználású termék: a kettős felhasználású termékek kivitelére, transzferjére, brókertevékenységére és tranzitjára vonatkozó közösségi ellenőrzési rendszer kialakításáról szóló 428/2009/EK rendelet 2. cikk 1. pontjában meghatározott termék,
-- c) az Európai Unió vámterületén a Közösségi Vámkódex létrehozásáról szóló 2913/92/EGK rendelet 3. cikkében meghatározott területet kell érteni.
+- c) az Európai Unió vámterületén az Uniós Vámkódex létrehozásáról szóló, 2013. október 9-i 952/2013/EU európai parlamenti és tanácsi rendelet 4. cikkében meghatározott területet kell érteni.
 
 ### XXXII. Fejezet — A KÖZNYUGALOM ELLENI BŰNCSELEKMÉNYEK
 

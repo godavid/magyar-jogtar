@@ -76,11 +76,11 @@ a szolgáltatás nyújtására szolgáló ingatlanon tulajdonjoga, haszonélveze
 
 4. § (1) E törvény alkalmazásában
 
-- a) jövedelem: – az (1a) bekezdésben foglalt kivétellel, valamint figyelemmel az (1b)–(1c) bekezdésekben foglaltakra – az elismert költségekkel és a befizetési kötelezettséggel csökkentett
-  - aa) a személyi jövedelemadóról szóló törvény szerint meghatározott, belföldről vagy külföldről származó – megszerzett – vagyoni érték (bevétel), ideértve a jövedelemként figyelembe nem vett bevételt és az adómentes jövedelmet is, és
-  - ab) azon bevétel, amely után az egyszerűsített vállalkozói adóról, illetve az egyszerűsített közteherviselési hozzájárulásról szóló törvény szerint adót, illetve hozzájárulást kell fizetni;
-- b) vagyon: ha e törvény másként nem rendelkezik, az a hasznosítható ingatlan, jármű, továbbá vagyoni értékű jog, amelynek
-  - ba) külön-külön számított forgalmi értéke, illetőleg összege az öregségi nyugdíj mindenkori legkisebb összegének a harmincszorosát, vagy
+- a) jövedelem: – az (1a) bekezdésben foglalt kivétellel, valamint figyelemmel az (1b) és (1c) bekezdésben foglaltakra – az elismert költségekkel és a befizetési kötelezettséggel csökkentett
+  - aa) a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szjatv.) szerint meghatározott, belföldről vagy külföldről származó – megszerzett – vagyoni érték (bevétel), ideértve a Szjatv. 27. § (1) bekezdés b) pontjában meghatározott bevételt, valamint a Szjatv. 1. számú melléklete szerinti adómentes bevételt, és
+  - ab) azon bevétel, amely után az egyszerűsített vállalkozói adóról szóló törvény, a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény vagy az egyszerűsített közteherviselési hozzájárulásról szóló törvény szerint adót, illetve hozzájárulást kell fizetni;
+- b) vagyon: ha e törvény másként nem rendelkezik, az a hasznosítható ingatlan, jármű, vagyoni értékű jog, továbbá pénzforgalmi szolgáltatónál kezelt – jövedelemként figyelembe nem vett – összeg, amelynek
+  - ba) külön-külön számított forgalmi értéke, illetve összege az öregségi nyugdíj mindenkori legkisebb összegének a harmincszorosát, vagy
   - bb) együttes forgalmi értéke az öregségi nyugdíj mindenkori legkisebb összegének a nyolcvanszorosát
 
 meghaladja, azzal, hogy a szociális rászorultságtól függő pénzbeli és természetbeni ellátások jogosultsági feltételeinek vizsgálatánál nem minősül vagyonnak az az ingatlan, amelyben az érintett személy életvitelszerűen lakik, az a vagyoni értékű jog, amely az általa lakott ingatlanon áll fenn, továbbá a mozgáskorlátozottságra tekintettel fenntartott gépjármű;
@@ -108,7 +108,9 @@ meghaladja, azzal, hogy a szociális rászorultságtól függő pénzbeli és te
 
 ha az e törvényben és más jogszabályokban meghatározott feltételek szerint szociális szolgáltatót, illetve szociális intézményt létesít és működtet.
 
-- n)
+- n) pénzforgalmi szolgáltatónál kezelt összeg:
+  - na) a pénzforgalmi szolgáltatás nyújtásáról szóló törvény szerinti fizetési számla szerződés alapján nyitott fizetési számlán szereplő összeg, valamint a betétszerződés és a takarékbetét-szerződés alapján, vagy egyéb szerződés alapján a hitelintézetnél elhelyezett, a vagyonvizsgálat során figyelembe vett személy rendelkezése alatt álló összeg, ha azt a hitelintézet a bankszámlaszerződés szabályainak megfelelően kezeli,
+  - nb) a betétszerződés és takarékbetét-szerződés alapján takarékbetétkönyv, egyéb betéti okirat ellenében a hitelintézetnél elhelyezett, a vagyonvizsgálat során figyelembe vett személy rendelkezése alatt álló összeg, továbbá az egyéb, a hitelintézet által visszafizetendő, a vagyonvizsgálat során figyelembe vett személy rendelkezése alatt álló pénzösszeg.
 
 (1a) Az (1) bekezdés a) pontjában foglaltaktól eltérően e törvény alkalmazásában nem minősül jövedelemnek
 
@@ -121,7 +123,9 @@ ha az e törvényben és más jogszabályokban meghatározott feltételek szerin
 - 7. az alkalmi munkavállalói könyvvel történő munkavégzésnek, az egyszerűsített foglalkoztatásról szóló törvény alapján történő munkavégzésnek, valamint a természetes személyek között az adórendszeren kívüli keresettel járó foglalkoztatásra vonatkozó rendelkezések alapján háztartási munkára létesített munkavégzésre irányuló jogviszony keretében történő munkavégzésnek (a továbbiakban: háztartási munka) a havi ellenértéke,
 - 8. a házi segítségnyújtás keretében társadalmi gondozásért kapott tiszteletdíj,
 - 9. az energiafelhasználáshoz nyújtott támogatás,
-- 10. a szociális szövetkezet (ide nem értve az iskolaszövetkezetet) tagja által a szövetkezetben végzett tevékenység ellenértékeként megszerzett, a személyi jövedelemadóról szóló törvény alapján adómentes bevétel.
+- 10. a szociális szövetkezet (ide nem értve az iskolaszövetkezetet) tagja által a szövetkezetben végzett tevékenység ellenértékeként megszerzett, a személyi jövedelemadóról szóló törvény alapján adómentes bevétel,
+- 11. az életvitelszerűen lakott ingatlan eladása, valamint az életvitelszerűen lakott ingatlanon fennálló vagyoni értékű jog átruházása esetén az eladott ingatlan, illetve átruházott vagyoni értékű jog ellenértékének azon része, amelyből az eladást vagy átruházást követő egy éven belül az eladó vagy átruházó saját, vagy közeli hozzátartozója életvitelszerű, tényleges lakhatásának célját szolgáló ingatlan vagy vagyoni értékű jog vásárlására kerül sor,
+- 12. az elengedett tartozás, illetve a megszűnt kötelezettség, ha a tartozás elengedésére vagy a kötelezettség megszűnésére a természetes személyek adósságrendezési eljárásában, továbbá közüzemi szolgáltatás szolgáltatója, illetve pénzügyi intézmény által, az adós megélhetését veszélyeztető szociális helyzete miatt került sor.
 
 (1b) Az (1) bekezdés a) pontjának alkalmazásában elismert költségnek minősül a személyi jövedelemadóról szóló törvényben elismert költség, valamint a fizetett tartásdíj. Ha a magánszemély az egyszerűsített vállalkozói adó vagy egyszerűsített közteherviselési hozzájárulás alapjául szolgáló bevételt szerez, a bevétel csökkenthető a személyi jövedelemadóról szóló törvény szerint elismert költségnek minősülő igazolt kiadásokkal, ennek hiányában a bevétel 40%-ával. Ha a mezőgazdasági őstermelő adóévi őstermelésből származó bevétele nem több a kistermelés értékhatáránál (illetve ha részére támogatást folyósítottak, annak a folyósított támogatással növelt összegénél), akkor a bevétel csökkenthető az igazolt költségekkel, továbbá a bevétel 40%-ának megfelelő összeggel, vagy a bevétel 85%-ának, illetőleg állattenyésztés esetén 94%-ának megfelelő összeggel.
 
@@ -174,11 +178,13 @@ gyakorolja.
 
 (2) Az ellátást biztosító követelheti az (1) bekezdés alapján kifizetett rendkívüli települési támogatás megtérítését a hatáskörrel és illetékességgel rendelkező szervtől.
 
-8. § (1) A szociális hatáskört gyakorló szerv vezetője az eljárási határidőt annak letelte előtt — indokolt esetben — egy ízben, legfeljebb tizenöt nappal meghosszabbíthatja.
+8. § (1)
 
 (2) A Ket. 26. §-a (1) bekezdésének a) pontja szerint belföldi jogsegély érdekében megkeresett szerv tíz napon belül teljesíti a jogsegélyt.
 
-9. § A szociális ellátásban részesülő a jogosultság feltételeit érintő lényeges tények, körülmények megváltozásáról 15 napon belül köteles értesíteni az ellátást megállapító szervet.
+9. § (1) A szociális ellátásban részesülő személy a jogosultság feltételeit érintő lényeges tények, körülmények megváltozásáról – ha e törvény másképp nem rendelkezik – 15 napon belül köteles értesíteni az ellátást megállapító szervet.
+
+(2) Ha a szociális ellátásban részesülő személy az (1) bekezdés szerinti bejelentési kötelezettségét határidőben nem teljesíti, az ellátás rosszhiszemű igénybevételének a 17. § (1) bekezdésben foglaltak szerinti megállapítása esetén az ellátás igénybevételét a bejelentésre nyitva álló határidő első napjától kezdődően kell rosszhiszeműnek tekinteni.
 
 10. § (1) A szociális ellátásra való jogosultság elbírálásához a hatóság felhívhatja a kérelmezőt, hogy családja vagyoni, jövedelmi viszonyairól nyilatkozzék, illetve azokat igazolja. Ha jogszabály másként nem rendelkezik, a települési önkormányzat képviselő-testülete a hatáskörébe tartozó pénzbeli és természetbeni ellátásoknál a nyilatkozat és az igazolás tartalmának, illetve benyújtásának részletes szabályait rendeletben szabályozza.
 
@@ -188,6 +194,8 @@ gyakorolja.
 - b) a nem havi rendszerességgel szerzett, illetve vállalkozásból származó jövedelem esetén a kérelem benyújtásának hónapját közvetlenül megelőző tizenkét hónap alatt szerzett jövedelem egyhavi átlagát
 
 kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hónapoknál, amelyek adóbevallással már lezárt időszakra esnek, a jövedelmet a bevallott éves jövedelemnek e hónapokkal arányos összegében kell beszámítani.
+
+(2a) A (2) bekezdésben foglaltaktól eltérően az életvitelszerűen lakott ingatlan eladása, valamint az életvitelszerűen lakott ingatlanon fennálló vagyoni értékű jog átruházása esetén az eladott ingatlan, illetve átruházott vagyoni értékű jog ellenértékének azon részét, amelyen egy éven belül nem kerül sor életvitelszerű, tényleges lakhatás célját szolgáló ingatlan vagy vagyoni értékű jog vásárlására, az eladást vagy átruházást követő egy naptári év leteltét követő napon megszerzett jövedelemnek kell tekinteni.
 
 (3) Ha a vállalkozási tevékenység megkezdésétől eltelt időtartam nem éri el a 12 hónapot, akkor az egyhavi átlagos jövedelmet a vállalkozási tevékenység időtartama alapján kell kiszámítani.
 
@@ -242,14 +250,18 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 - b) természetben nyújtott szociális ellátás esetén a dolog visszaszolgáltatására vagy a szolgáltatásnak megfelelő pénzegyenérték megfizetésére;
 - c) a személyes gondoskodást nyújtó szociális ellátás esetében az intézményi térítési díj teljes összegének megfizetésére [az a)–c) pontban foglaltak a továbbiakban együtt: megtérítés].
 
+(1a) A (10) bekezdés, valamint a 36. § (1d) bekezdése szerinti esetekben a megtérítést rosszhiszeműség hiányában is el kell rendelni.
+
 (2) Az (1) bekezdés szerinti megtérítést az elrendelése napján érvényes jegybanki alapkamattal megemelt összegben kell visszafizetni. Kamat csak a szociális ellátás jogosulatlan és rosszhiszemű igénybevétele és az erről való tudomásszerzés közötti időtartamra számítható fel.
 
-(3) A szociális hatáskört gyakorló szerv a jogosulatlanul és rosszhiszeműen igénybe vett ellátás megtérítését az igénybevételről való tudomásszerzésétől számított három hónapon belül rendelheti el. Nem lehet a megtérítést elrendelni, ha az igénybevételtől, illetőleg folyamatos ellátás esetén az ellátás megszűnésétől egy év már eltelt.
+(3) A szociális hatáskört gyakorló szerv a jogosulatlanul igénybe vett ellátás megtérítését az igénybevételről való tudomásszerzésétől számított három hónapon belül rendelheti el. Nem lehet a megtérítést elrendelni, ha az igénybevételtől, illetőleg folyamatos ellátás esetén az ellátás megszűnésétől egy év már eltelt.
 
 (4) Ha a járási hivatal a hatáskörébe tartozó szociális ellátás megtérítését rendeli el, a megtérítés összegét, illetve pénzegyenértékét és a kamat összegét – amennyiben annak megfizetése a kötelezett megélhetését súlyosan veszélyeztetné – méltányosságból
 
 - a) csökkentheti vagy elengedheti, ha a visszafizetésre kötelezett személy családjának egy főre jutó havi jövedelme nem haladja meg az öregségi nyugdíj mindenkori legkisebb összegének két és félszeresét,
 - b) részletekben fizettetheti meg.
+
+(4a) A jogosulatlanul, de nem rosszhiszeműen igénybevett ellátás megtérítésének elrendelése esetén a járási hivatal a megtérítés összegét méltányosságból csökkentheti vagy elengedheti abban az esetben is, ha a megtérítésre kötelezett családjában az egy főre jutó havi jövedelem nem haladja meg az öregségi nyugdíj mindenkori legkisebb összegének négy és félszeresét.
 
 (5) Ha a képviselő-testület a hatáskörébe tartozó szociális ellátás megtérítését rendeli el, a megtérítés összegét, illetve pénzegyenértékét és a kamat összegét – amennyiben annak megfizetése a kötelezett megélhetését súlyosan veszélyeztetné – méltányosságból
 
@@ -259,9 +271,16 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 
 (6) A járási hivatal (4) bekezdés szerinti döntése ellen fellebbezésnek nincs helye.
 
-(7)
+(7) Az időskorúak járadékát, aktív korúak ellátását vagy ápolási díjat igénylő személy köteles a szociális hatáskört gyakorló szervnek bejelenteni, ha
 
-(8)
+- a) részére a kérelem benyújtásakor más rendszeres pénzellátás megállapítására irányuló eljárás van folyamatban, vagy
+- b) az időskorúak járadéka, az aktív korúak ellátása vagy az ápolási díj megállapítása iránti kérelem benyújtását követően, de a jogerős döntés meghozatalát megelőzően más rendszeres pénzellátás megállapítására irányuló eljárást indít.
+
+(8) Az időskorúak járadékában vagy ápolási díjban részesülő, továbbá az aktív korúak ellátására jogosult személy köteles a szociális hatáskört gyakorló szervnek bejelenteni, ha a jogosultságának fennállása alatt más rendszeres pénzellátás megállapítására irányuló eljárást indított, vagy álláskeresési támogatás igénylése céljából jelentkezett az állami foglalkoztatási szervnél.
+
+(9) A (7) bekezdés b) pontja, valamint a (8) bekezdés szerinti esetben a bejelentést a más rendszeres pénzellátás megállapítására irányuló eljárás megindításától, illetve az állami foglalkoztatási szervnél való jelentkezés napjától számított 8 napon belül kell megtenni.
+
+(10) A más rendszeres pénzellátásra való jogosultság fennállásának időtartama alatt igénybe vett időskorúak járadéka, aktív korúak ellátása és ápolási díj jogosulatlanul, de – a (7)–(9) bekezdés szerinti bejelentési kötelezettség teljesítése esetén – nem rosszhiszeműen igénybevett ellátásnak minősül, amelynek megtérítéséről a szociális hatóság az (1) bekezdése alapján rendelkezik.
 
 17/A. § (1) Ha a megtérítésre kötelező szociális hatáskört gyakorló szervtől pénzbeli ellátásban részesülő személy a megtérítés összegét – a kötelezettséget megállapító határozat jogerőre emelkedésétől számított tizenöt napon belül – nem fizeti meg, a szociális hatáskört gyakorló szerv a követelését az általa folyósított pénzbeli ellátásból történő levonással érvényesíti. A levonás a folyósítandó pénzbeli ellátás 30%-áig terjedhet.
 
@@ -433,13 +452,15 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 
 24. § (1) Az e törvény felhatalmazása alapján nyilvántartást vezető szervek a nyilvántartásban kezelt adatokat természetes személyazonosító adatok nélkül statisztikai célra felhasználhatják, illetőleg azokból statisztikai célra adatot szolgáltathatnak.
 
-(2)
+(2) A szociális igazgatási eljárás során a szociális hatáskört gyakorló szerv a szociális ellátásra való jogosultság megállapítása, illetve ellenőrzése céljából adatot kérhet a kérelmező által megjelölt pénzforgalmi szolgáltatótól. A szociális hatáskört gyakorló szerv a pénzforgalmi szolgáltató által az adatigénylés keretében rendelkezésére bocsátott, a pénzforgalmi számla számára és a pénzforgalmi számlán az adatigényléskor szereplő összegre vonatkozó adat kezelésére jogosult.
 
 (3) A szociális igazgatási eljárás során a szociális hatáskört gyakorló szerv a szociális ellátásra való jogosultság megállapítása, illetve ellenőrzése céljából adatot kérhet a polgárok személyi adatait és lakcímét nyilvántartó szervtől, a közúti közlekedési nyilvántartást vezető, valamint az ingatlanügyi hatóságtól.
 
 (4) A képviselő-testület a 18. § l) pont la) alpontjában foglaltak körében adatot kérhet a lakhatáshoz kapcsolódó rendszeres kiadások viseléséhez természetben nyújtott települési támogatással támogatott szolgáltatást szolgáltatási vagy közszolgáltatási szerződés alapján nyújtó szolgáltatótól.
 
 24/A. § A Kormány által kijelölt szerv a szociális, gyermekjóléti és gyermekvédelmi ellátásokkal kapcsolatos adatok gyűjtése, rendszerezése és közzététele, valamint a széles körű tájékoztatás érdekében – Szociális Ágazati Portál elnevezéssel – honlapot működtet.
+
+24/B. § A szociális hatóság az általa vezetett, a 18/B. §, a 20/C. §, a Gyvt. 139. § (2) bekezdése, továbbá – a program célcsoportjára tekintettel lefolytatott adatigénylés alapján – a nyugdíjfolyósító szerv a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 21. § (1) bekezdése szerinti, valamint a Tny. 96. § (1) bekezdése szerinti nyilvántartásából átadja a kormányrendeletben meghatározott, a 64. § (7) bekezdése szerinti program jogosultjainak természetes személyazonosító adatait és társadalombiztosítási azonosító jelét a jogosult lakcíme szerinti család- és gyermekjóléti szolgálatnak.
 
 ### II. Fejezet — PÉNZBELI ELLÁTÁSOK
 
@@ -465,7 +486,7 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 
 legalább egyszer felülvizsgálja, és ha a felülvizsgálat során megállapítást nyer, hogy a feltételek továbbra is fennállnak, az ellátást a felülvizsgálatnak megfelelő összegben tovább folyósítja.
 
-(5) Ha az öregségi nyugdíj legkisebb összege változik, a havi rendszeres szociális ellátás összegét a változás időpontjától számított három hónapon belül felül kell vizsgálni. A felülvizsgálat során az emelt összegű rendszeres pénzellátást, a családi pótlékot és az árvaellátást kell figyelembe venni. Ha az ellátás összege a felülvizsgálat eredményeként
+(5) Ha az öregségi nyugdíj legkisebb összege változik, a havi rendszeres szociális ellátás összegét, valamint a foglalkoztatást helyettesítő támogatásra való jogosultságot a változás időpontjától számított három hónapon belül felül kell vizsgálni. A felülvizsgálat során az emelt összegű rendszeres pénzellátást, a családi pótlékot és az árvaellátást kell figyelembe venni. Ha az ellátás összege a felülvizsgálat eredményeként
 
 - a) emelkedett, akkor az új összeget az öregségi nyugdíj legkisebb összege emelkedésének időpontjára visszamenőlegesen,
 - b) csökkent, akkor az új összeget az öregségi nyugdíj legkisebb összege emelkedésének időpontját követő harmadik hónap első napjától
@@ -497,7 +518,9 @@ figyelemmel kell elvégezni.
 
 kell folyósítani.
 
-(10) Ha a (4)–(6) bekezdés szerinti felülvizsgálat eredményeként a havi rendszeres szociális ellátásra vagy a foglalkoztatást helyettesítő támogatásra való jogosultság megszűnik, akkor az ellátás folyósítását a határozat meghozatala hónapjának utolsó napjával meg kell szüntetni.
+(10) A szociális rászorultságtól függő pénzbeli ellátásra való jogosultság megszűnik, ha a jogosultság megállapításának alapjául szolgáló feltételek már nem állnak fenn.
+
+(10a) A havi rendszeres szociális ellátásra vagy foglalkoztatást helyettesítő támogatásra való jogosultság megszűnése esetén a jogosultat a megszűnés napja szerinti hónapra jutó ellátás teljes havi összege megilleti.
 
 (11) A (7) bekezdés b)–c) pontja alkalmazásában nem minősül keresőtevékenységnek az aktív korúak ellátására jogosult személy közfoglalkoztatásban való részvétele.
 
@@ -550,11 +573,12 @@ kell előterjeszteni.
 
 (3) A járási hivatal időskorúak járadékában részesíti a 3. § (3) bekezdés b) pontjában, valamint (4) bekezdésében meghatározott személyt, amennyiben az e törvényben foglalt feltételeknek megfelel.
 
-(4) Nem állapítható meg az időskorúak járadéka, illetve a folyósítást meg kell szüntetni, ha a személy
+(4) Nem állapítható meg az időskorúak járadéka, illetve az ellátásra való jogosultságot meg kell szüntetni, ha a személy
 
-- a) előzetes letartóztatásban van, elzárás, illetőleg szabadságvesztés büntetését tölti;
-- b) 3 hónapot meghaladó időtartamban külföldön tartózkodik.
-- c) a 3. § (3) vagy (4) bekezdése alá tartozik, és – a határ menti ingázó munkavállalókat kivéve – tartózkodási joga megszűnt vagy tartózkodási jogának gyakorlásával felhagyott.
+- a) előzetes letartóztatásban van, elzárás büntetését vagy szabadságvesztés büntetését tölti,
+- b) 3 hónapot meghaladó időtartamban külföldön tartózkodik,
+- c) a 3. § (3) vagy (4) bekezdésének hatálya alá tartozik, és – a határ menti ingázó munkavállalókat kivéve – tartózkodási joga megszűnt vagy tartózkodási jogának gyakorlásával felhagyott, vagy
+- d) az időskorúak járadékára való jogosultság feltételeinek felülvizsgálatára irányuló, a 25. § (4)–(6) bekezdése szerinti eljárást akadályozza.
 
 (5) Az időskorúak járadékára való jogosultságot a (4) bekezdésben meghatározottakon túl – a kérelemben megjelölt időponttól vagy időpont megjelölésének hiányában a kérelem benyújtását követő hónap utolsó napjával – meg kell szüntetni, ha azt az időskorúak járadékában részesülő személy kéri.
 
@@ -574,7 +598,7 @@ kell előterjeszteni.
 
 32/D. § (1) A hajléktalan személynek megállapított időskorúak járadéka esetén az erről rendelkező határozatot közölni kell a fővárosi kormányhivatal külön jogszabályban kijelölt fővárosi kerületi hivatalával (a továbbiakban: kijelölt kerületi hivatal).
 
-(2) A kijelölt kerületi hivatal az időskorúak járadékában részesülő hajléktalanról a 18. §-ban szabályozott nyilvántartást vezeti, és gondoskodik az időskorúak járadékának a hajléktalan személy által meghatározott, határozatban foglalt címre történő folyósításáról.
+(2) A kijelölt kerületi hivatal az időskorúak járadékában részesülő hajléktalanról a 18/A. §-ban szabályozott nyilvántartást vezeti, és gondoskodik az időskorúak járadékának a hajléktalan személy által meghatározott, határozatban foglalt címre történő folyósításáról.
 
 (3) Ha a hajléktalan személy a (2) bekezdés szerint folyósított időskorúak járadékát három hónap időtartamon keresztül nem veszi át, a támogatás folyósítását a kijelölt kerületi hivatal szünetelteti, és erről szóló végzését a járadékot megállapító járási hivatallal közli, amely dönt az ellátás fenntartásáról, illetve megszüntetéséről.
 
@@ -635,7 +659,7 @@ számított tizenkettő hónapon belül benyújtott kérelem alapján állapíth
 - b) a 3. § (3) bekezdése alá tartozik, és – a határ menti ingázó munkavállalókat kivéve – tartózkodási joga megszűnt vagy tartózkodási jogának gyakorlásával felhagyott,
 - c) gyermekgondozási segélyben, gyermekgondozást segítő ellátásban, illetve gyermeknevelési támogatásban részesül,
 - d) gyermekgondozást segítő ellátásra jogosult, a gyermek fél éves korának betöltéséig,
-- e) az Flt. szerint az álláskeresési támogatás megállapításához szükséges munkaviszonnyal rendelkezik,
+- e) az Flt. szerint az álláskeresési támogatásban részesül,
 - f) katonai szolgálatot teljesít,
 - g) köznevelési, vagy felsőoktatási intézményben nappali oktatás munkarendje szerint tanulmányokat folytat, vagy
 - h) az Flt. szerint képzési támogatásként keresetpótló juttatásban részesül,
@@ -669,11 +693,24 @@ számított tizenkettő hónapon belül benyújtott kérelem alapján állapíth
 
 36. § (1) Ha a jogosult
 
-- a) keresőtevékenységet végez, az azt megalapozó jogviszony fennállásának első 90 napjában,
+- a) keresőtevékenységet – ide nem értve az egyszerűsített foglalkoztatásról szóló törvény szerint létesített munkaviszony keretében végzett, valamint a háztartási munkát – végez, az azt megalapozó jogviszony fennállásának első 120 napjában,
 - b) közfoglalkoztatásban vesz részt, a közfoglalkoztatásban való részvétel időtartama alatt, vagy
 - c) olyan képzésben vesz részt, amelynek keretében felzárkózást elősegítő megélhetési támogatásban vagy képzési támogatásként keresetpótló juttatásban részesül, a felzárkózást elősegítő megélhetési támogatás vagy a keresetpótló juttatás folyósításának időtartama alatt
 
 a foglalkoztatást helyettesítő támogatás folyósítása szünetel.
+
+(1a) A szünetelésre okot adó körülmény bekövetkeztéről, valamint a szünetelésre okot adó körülmény megszűnéséről az aktív korúak ellátására jogosult személy 8 napon belül értesíti az ellátást megállapító szervet.
+
+(1b) Ha az aktív korúak ellátására jogosult személy a szünetelésre okot adó körülmény megszűnéséről a bejelentési kötelezettségét
+
+- a) az (1a) bekezdésben meghatározott határidőben teljesíti, az aktív korúak ellátása keretében nyújtott pénzbeli szociális ellátást a szünetelésre okot adó körülmény megszűnését követő naptól kezdődően,
+- b) az (1a) bekezdésben meghatározott határidőt elmulasztva teljesíti, az aktív korúak ellátása keretében nyújtott pénzbeli szociális ellátást a szünetelésre okot adó körülmény megszűnése bejelentésének napjától kezdődően
+
+kell ismét folyósítani.
+
+(1c) Ha a tényállás tisztázott, az aktív korúak ellátása folyósításának szünetelésével kapcsolatos döntés jogorvoslatra tekintet nélkül végrehajthatóvá nyilvánítható. A határozattal szembeni bírósági felülvizsgálati eljárásban nincs helye a határozat végrehajtása felfüggesztésének.
+
+(1d) A közfoglalkoztatásban vagy a 36. § (1) bekezdés c) pontja szerinti képzésben való részvétel, valamint a keresőtevékenység – ide nem értve az egyszerűsített foglalkoztatásról szóló törvény szerint létesített munkaviszony keretében végzett, valamint a háztartási munkát – időtartamára tekintettel folyósított aktív korúak ellátása jogosulatlanul, de – az (1a) bekezdés szerinti bejelentési kötelezettség teljesítése esetén – nem rosszhiszeműen igénybe vett ellátásnak minősül, amelynek megtérítéséről a szociális hatóság a 17. § (1) bekezdés alapján rendelkezik.
 
 (2) A 34. § (2) bekezdésében foglaltakon túl meg kell szüntetni az aktív korúak ellátására való jogosultságát annak a foglalkoztatást helyettesítő támogatásra jogosult személynek
 
@@ -682,12 +719,15 @@ a foglalkoztatást helyettesítő támogatás folyósítása szünetel.
 - c) aki az állami foglalkoztatási szervnél az aktív korúak ellátásának megállapításáról szóló határozatban foglalt határidőig nem kérelmezi az álláskeresőként történő nyilvántartásba vételét; vagy
 - d)
 - e) aki a foglalkoztatást helyettesítő támogatásra való jogosultságának a 25. § (4) bekezdés b) pontja szerinti éves felülvizsgálata során, a felülvizsgálat időpontját megelőző egy évben a foglalkoztatást helyettesítő támogatásra való jogosultságának fennállása alatt legalább 30 nap időtartamban
-  - ea) közfoglalkoztatásban nem vett részt, vagy
-  - eb) kereső tevékenységet – ideértve az egyszerűsített foglalkoztatásról szóló törvény szerint létesített munkaviszony keretében végzett, valamint a háztartási munkát is – nem folytatott, vagy
-  - ec) munkaerőpiaci programban nem vett részt, vagy
-  - ed) az Flt. szerinti és legalább hat hónap időtartamra meghirdetett képzésben nem vett részt vagy ilyen képzésben való részvétele nincs folyamatban.
+  - ea) közfoglalkoztatásban nem vett részt,
+  - eb) keresőtevékenységet – ideértve az egyszerűsített foglalkoztatásról szóló törvény szerint létesített munkaviszony keretében végzett, valamint a háztartási munkát is – nem folytatott,
+  - ec) munkaerőpiaci programban nem vett részt,
+  - ed) az Flt. szerinti, legalább hat hónap időtartamra meghirdetett képzésben nem vett részt vagy ilyen képzésben való részvétele nincs folyamatban, vagy
+  - ee) a szociális szövetkezeti tagsági jogviszonya keretében a szociális szövetkezet közös termelésében közvetlenül nem működött közre.
 
-(3) A (2) bekezdés e) pontjában meghatározott 30 napos időtartam számításakor az eb)–ed) alpontok szerinti tevékenységeknek a felülvizsgálat időpontját megelőző évben teljesített időtartamát össze kell számítani. Amennyiben a jogosult az e) pont szerinti feltételt így sem tudja teljesíteni, a 30 nap számításánál az általa – a közérdekű önkéntes tevékenységről szóló törvény szerinti nyilvántartásban szereplő fogadó szervezetnél – végzett közérdekű önkéntes tevékenységének időtartamát is figyelembe kell venni.
+(2a) Ha a foglalkoztatást helyettesítő támogatásra jogosult személy a (2) bekezdés e) pontjában meghatározott kötelezettséget nem teljesíti és a felülvizsgálattal érintett időszakban legalább 30 napig igazoltan keresőképtelen volt, a járási hivatal a kötelezettség teljesítésére 60 napos határidőt ad.
+
+(3) A (2) bekezdés e) pontjában meghatározott 30 napos időtartam számításakor az eb)–ee) alpontok szerinti tevékenységeknek a felülvizsgálat időpontját megelőző évben teljesített időtartamát össze kell számítani. Amennyiben a jogosult az e) pont szerinti feltételt így sem tudja teljesíteni, a 30 nap számításánál az általa – a közérdekű önkéntes tevékenységről szóló törvény szerinti nyilvántartásban szereplő fogadó szervezetnél – végzett közérdekű önkéntes tevékenységének időtartamát is figyelembe kell venni.
 
 36/A–36/D. §
 
@@ -696,11 +736,13 @@ a foglalkoztatást helyettesítő támogatás folyósítása szünetel.
 - a) egészségkárosodott személynek minősül, vagy
 - b) 14 éven aluli kiskorú gyermeket nevel – feltéve, hogy a családban élő gyermekek valamelyikére tekintettel más személy nem részesül a Cst. szerinti gyermekgondozási támogatásban, vagy gyermekgondozási díjban, csecsemőgondozási díjban – és a gyermek ellátását napközbeni ellátást biztosító intézményben [Gyvt. 41. § (3) bek.], illetve nyári napközis otthonban, óvodában vagy iskolai napköziben nem tudják biztosítani, egészségkárosodási és gyermekfelügyeleti támogatásra jogosult.
 
-(2) Ha az (1) bekezdés szerinti valamely feltétel az aktív korúak ellátására való jogosultság megállapítását követően következik be, a jogosult részére az egészségkárosodási és gyermekfelügyeleti támogatást a feltétel bekövetkezésének időpontját követő hónap első napjától kell megállapítani.
+(2) Ha az (1) bekezdés szerinti valamely feltétel az aktív korúak ellátására való jogosultság megállapítását követően következik be, a jogosult részére az egészségkárosodási és gyermekfelügyeleti támogatást a feltétel bekövetkezésének időpontját követő hónap első napjától, de legkorábban a változás bejelentését követő hónap első napjától kell megállapítani.
 
 (3) Ha az (1) bekezdés a) vagy b) pontja szerinti valamely feltétel megszűnik, a feltétel megszűnését követő hónap első napjától a 35. § (1) bekezdése szerinti ellátást kell megállapítani és a 35. § (3) bekezdése szerinti kötelezettséget kell előírni. A feltétel megszűnésének hónapjára – ha az aktív korúak ellátására való jogosultság továbbra is fennáll – egészségkárosodási és gyermekfelügyeleti támogatás jár.
 
 (4) Az egészségkárosodási és gyermekfelügyeleti támogatás havi összege a családi jövedelemhatár összegének és a jogosult családja havi összjövedelmének különbözete, de nem haladhatja meg a közfoglalkoztatási bér mindenkori kötelező legkisebb összege személyi jövedelemadóval, munkavállalói, egészségbiztosítási és nyugdíjjárulékkal csökkentett összegének (e § alkalmazásában: nettó közfoglalkoztatási bér) 90%-át azzal, hogy ha az egészségkárosodási és gyermekfelügyeleti támogatásra jogosult családja tagjának foglalkoztatást helyettesítő támogatásra való jogosultságot állapítottak meg, az egészségkárosodási és gyermekfelügyeleti támogatás összege nem haladhatja meg a nettó közfoglalkoztatási bér 90%-ának és a foglalkoztatást helyettesítő támogatás összegének különbözetét. A családi jövedelemhatár összege megegyezik a család fogyasztási egységeihez tartozó arányszámok összegének és az öregségi nyugdíj mindenkori legkisebb összege 92%-ának szorzatával.
+
+(5) Ha az egészségkárosodási és gyermekfelügyeleti támogatás összege a (4) bekezdésben foglalt számítás szerint a havi ezer forintot nem éri el, a jogosult részére ezer forint összegű ellátást kell megállapítani.
 
 37/A. §
 
@@ -778,7 +820,8 @@ személy gondozását, ápolását végzi.
 - c) az ápolt személy meghal,
 - d) az ápolást végző vagy az ápolt személy tartózkodási joga megszűnt vagy tartózkodási jogának gyakorlásával felhagyott,
 - e) az (1) bekezdésben megjelölt jogosultságot kizáró körülmény következik be,
-- f) azt az ápolást végző személy kérte.
+- f) azt az ápolást végző személy kérte,
+- g) az ápolást végző személy az ápolási díjra való jogosultság feltételeinek felülvizsgálatára irányuló, a 25. § (4)–(6) bekezdése szerinti eljárást akadályozza.
 
 (3) Az ápolt személy halála esetén az ápolási díj folyósítását a halál időpontját követő második hónap utolsó napjával kell megszüntetni.
 
@@ -815,7 +858,7 @@ feltéve, hogy esetében az a)–e) pontokban foglaltak közül legalább három
 
 (5) Fellebbezési eljárás során a hatóság a (3) bekezdés szerinti szakvélemény felülvizsgálatáról – annak hiánya esetén új szakvélemény elkészítéséről – a szociális hatóság által külön jogszabály szerint kijelölt szakértő útján gondoskodik.
 
-43/B. §
+43/B. § Ha a kérelem benyújtásakor igazolják, hogy az ápolt személy a komplex minősítés elvégzésére és annak eredményéről hatósági bizonyítvány kiállítására irányuló eljárást megindította, úgy az eljáró hatóság felfüggeszti a kiemelt ápolási díj megállapítására irányuló eljárást a komplex minősítés eredményéről kiállított hatósági bizonyítvány benyújtásáig.
 
 43/C. § A kiemelt ápolási díj és az emelt összegű ápolási díj megállapítása során a 41. §-ban és a 42. §-ban foglaltakat alkalmazni kell.
 
@@ -1042,6 +1085,8 @@ a járási hivatal a kérelmet érdemi vizsgálat nélkül elutasítja.
 nem haladja meg, és családjának vagyona nincs.
 
 (2) A szociális rászorultság igazolásáról a járási hivatal hatósági bizonyítványt (a továbbiakban: bizonyítvány) állít ki. A bizonyítvány hatályossága 1 év. A bizonyítvány tartalmazza a rászoruló személy nevét, lakcímét – tartózkodási engedéllyel rendelkező hontalan személy esetén szálláshelyét –, társadalombiztosítási azonosító jelét, a rászorultság tényét, valamint az igazolás hatályosságát. A bizonyítvány az (1) bekezdésben megjelölt feltételek fennállta esetén ismételten kiállítható.
+
+(2a) A bizonyítvány a szociális rászorultságot a kérelem benyújtásának napjától igazolja.
 
 (3) A szociálisan rászorult személyekről a járási hivatal nyilvántartást vezet és a külön jogszabály szerint bejelentési kötelezettséget teljesít az egészségbiztosítási szerv felé.
 
@@ -1316,6 +1361,8 @@ miatt.
 (5)
 
 (6) Családsegítés a gyermekjóléti szolgáltatással egy szolgáltató – a család- és gyermekjóléti szolgálat – keretében működtethető. A család- és gyermekjóléti szolgálat ellátja a családsegítés (4) bekezdés szerinti feladatait, valamint a Gyvt. 39. és 40. §-a szerinti gyermekjóléti szolgáltatási feladatokat.
+
+(7) A család- és gyermekjóléti szolgálat az ellátási területén – felkérésre – közreműködik a kormányrendeletben meghatározott európai uniós forrásból megvalósuló program keretében természetben biztosítható eseti vagy rendszeres juttatás célzott és ellenőrzött elosztásában.
 
 ### Jelzőrendszeres házi segítségnyújtás
 
@@ -2877,7 +2924,7 @@ kaphatnak.
 
 - a) a pénzbeli szociális ellátások elszámolásának szabályait;
 - b) a közgyógyellátásra való jogosultság, valamint az igazolványok kiadásának, visszavonásának, az igazolvány alapján járó kedvezmények igénybevételének részletes szabályait, valamint az igazolvány tartalmát;
-- c) a Szociálpolitikai Tanács összetételére, megalakítására és működésére vonatkozó részletes szabályokat;
+- c)
 - d) a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályait;
 - e) a személyes gondoskodást nyújtó ellátásokért fizetendő térítési díjak megállapításának részletes szabályait,
 - f) a szolgáltatói nyilvántartás vezetésének részletes szabályait, a szociális szolgáltatók és szociális intézmények ágazati azonosítójára és annak használatára vonatkozó szabályokat, a szolgáltatói nyilvántartásra vonatkozó hatósági eljárások részletes szabályait, a szociális szolgáltatók és szociális intézmények ellenőrzésének részletes szabályait, a jogsértés esetén alkalmazható jogkövetkezményeket, a 92/K. § (8)–(10) bekezdése szerinti közzététel részletes szabályait, a bejegyzés hiányában nyújtott szolgáltatásokra vonatkozó szabályokat, valamint a szolgáltatói nyilvántartást vezető szerv vagy szervek és a működést engedélyező szerv vagy szervek kijelölését;
@@ -2899,7 +2946,7 @@ kaphatnak.
 - w) az új szolgáltatóknak, intézményeknek, szolgáltatásoknak, feladatmutatóknak, ellátotti létszámnak, illetve férőhelyszámnak a szolgáltatások területi lefedettségét figyelembe vevő finanszírozási rendszerbe történő befogadására és annak visszavonására vonatkozó részletes szabályokat;
 - x) az állam fenntartói feladatait ellátó szerv kijelölését, jogállását, működésének részletes szabályait, feladat- és hatáskörét, a szerv feletti irányítási jogkörök gyakorlásának részletes szabályait.
 - y) a 32/D. § (1) bekezdése és 37/C. § (1) bekezdése szerinti fővárosi kerületi hivatal kijelölését;
-- z) a 18/B. § szerinti országos nyilvántartás vezetésének, a nyilvántartásba való adatrögzítésnek és a nyilvántartásból történő adattörlésnek a részletes szabályait, valamint a nyilvántartást vezető szerv kijelölését.
+- z) a 18/B. § szerinti országos nyilvántartás vezetésének, a nyilvántartásba való adatrögzítésnek és a nyilvántartásból történő adattörlésnek a részletes szabályait, valamint a nyilvántartást vezető szociális hatóság kijelölését.
 
 (2) Felhatalmazást kap a szociál- és nyugdíjpolitikáért felelős miniszter, hogy rendeletben szabályozza
 
@@ -2983,6 +3030,8 @@ kaphatnak.
 - b) azon adósságcsökkentési támogatás kifizetéséhez, amely 2015. március 1-jét megelőzően került megállapításra.
 
 134/E. § A települési önkormányzat képviselő-testülete a települési támogatás megállapításának, kifizetésének, folyósításának, valamint felhasználása ellenőrzésének szabályairól szóló rendeletét legkésőbb 2015. február 28-áig megalkotja.
+
+134/F. § Az egyes szociális és gyermekvédelmi tárgyú, valamint a megváltozott munkaképességű személyek ellátásait érintő törvények módosításáról szóló 2016. évi XXVI. törvénnyel módosított 4. § (1) bekezdés b) pontját a fennálló jogosultságok tekintetében a 2016. április 30-át követően indult felülvizsgálati eljárásokban kell alkalmazni.
 
 135. § E törvénynek a területi államigazgatási szervezetrendszer átalakításával összefüggő egyes törvények módosításáról szóló 2015. évi VIII. törvénnyel megállapított 45. § (2a) bekezdését a 2015. február 28-án hatályos 43/B. § alapján 2015. március 1-jét megelőző kezdő időponttal megállapított és 2015. március 1-jétől települési támogatásként nyújtott méltányossági ápolási díjra is alkalmazni kell.
 

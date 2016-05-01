@@ -1275,7 +1275,7 @@ vonatkozik.
 - a) azt az ajánlattevőt vagy részvételre jelentkezőt, aki számára nem kell nemzeti elbánást nyújtani [2. § (5) bekezdés],
 - b) azt az ajánlattevőt, aki ajánlatában olyan származású árut ajánl, amely számára nem kell nemzeti elbánást nyújtani [2. § (5) bekezdés].
 
-(3) Az áru származásának megállapítására a külön jogszabályban, illetve a Közösségi Vámkódex létrehozásáról szóló 1992. október 12-i 2913/92/EGK tanácsi rendeletben meghatározott származási szabályokat kell alkalmazni.
+(3) Az áru származásának megállapítására a külön jogszabályban, illetve az Uniós Vámkódex létrehozásáról szóló, 2013. október 9-i 952/2013/EU parlamenti és tanácsi rendeletben meghatározott származási szabályokat kell alkalmazni.
 
 ### XIV. Fejezet — A KÖZBESZERZÉSI ELJÁRÁS EREDMÉNYE
 

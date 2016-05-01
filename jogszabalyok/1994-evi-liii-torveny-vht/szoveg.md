@@ -969,10 +969,11 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 71. §
 
-72. § A munkanélküli ellátásból (munkanélküli járadékból, nyugdíj előtti munkanélküli segélyből, keresetkiegészítésből, és keresetpótló juttatásból) legfeljebb 33%-ot lehet levonni az alábbi követelések fejében:
+72. § Az álláskeresők ellátásaiból (álláskeresési járadékból, nyugdíj előtti álláskeresési segélyből, keresetkiegészítésből, és keresetpótló juttatásból) legfeljebb 33%-ot lehet levonni az alábbi követelések fejében:
 
 - a) tartásdíj,
-- b) jogalap nélkül felvett munkanélküli ellátás.
+- b) jogalap nélkül felvett álláskeresők ellátása,
+- c) jogalap nélkül felvett, az aktív korúak ellátására való jogosultság keretében megállapított pénzbeli ellátás.
 
 73. § (1) A fogva tartott adós keresményéből — a 61. § (1) bekezdésében említett köztartozások levonása után és a 62. § szerinti mentességre való tekintet nélkül — le kell vonni az adós
 
@@ -987,7 +988,7 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 74. § Mentes a letiltás alól
 
 - a) a nemzeti gondozási díj és a hadigondozottak pénzbeli ellátása, az életüktől és szabadságuktól politikai okból jogtalanul megfosztottak kárpótlásáról szóló törvény szerint járó életjáradék,
-- b) az átmeneti segély, az önkormányzati segély, ideértve a meghatározott célra kapott segélyt is, a rendkívüli települési támogatás, az aktív korúak ellátására való jogosultság keretében megállapított pénzbeli ellátás, az időskorúak járadéka, a munkanélküliek jövedelempótló támogatása, az ápolási díj,
+- b) a települési támogatás, a rendkívüli települési támogatás, az aktív korúak ellátására való jogosultság keretében megállapított pénzbeli ellátás, az időskorúak járadéka, a munkanélküliek jövedelempótló támogatása, az ápolási díj,
 - c) anyasági támogatás,
 - d) a rokkantsági járadék és a vakok személyi járadéka,
 - e) az egészségkárosodásra tekintettel járó keresetkiegészítés, az átmeneti keresetkiegészítés, a jövedelemkiegészítés, az átmeneti jövedelemkiegészítés, a bányászok egészségkárosodási járadéka,
