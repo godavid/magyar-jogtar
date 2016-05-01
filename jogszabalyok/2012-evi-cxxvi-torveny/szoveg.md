@@ -471,7 +471,7 @@ használhatja fel.
 
 (9) Az agrárkamara részt vesz a közösségi forrásból is támogatott tanácsadási, tájékoztatási feladatok ellátásában.
 
-16/A. § Az agrárkamara kiállítja a mezőgazdasági termékek és élelmiszerek vonatkozásában a Közösségi Vámkódex létrehozásáról szóló 2913/92/EGK tanácsi rendelet végrehajtására vonatkozó rendelkezések megállapításáról szóló, 1993. július 2-i 2454/93/EGK bizottsági rendelet 48. cikke szerinti származási bizonyítványt.
+#### 16/A. §
 
 ### V. Fejezet — AZ AGRÁRKAMARA ÖNKORMÁNYZATA
 

@@ -4,7 +4,7 @@ az építmények tervezésével és kivitelezésével kapcsolatos egyes viták r
 
 #### 1. A törvény hatálya
 
-1. § (1) A Teljesítésigazolási Szakértői Szerv az építészeti-műszaki tervezési, építési, kivitelezési szerződés (a továbbiakban együtt: szerződés) teljesítéséből eredő, e törvényben meghatározott kérdésekben a megrendelő, a tervező, a kivitelező vagy az alvállalkozó (a továbbiakban együtt: fél) megbízására, szakértői véleményt ad, ha a teljesítésigazolás kiadása nem történt meg, a kiadása vitás, vagy a teljesítésigazolás kiadásra került, de a kifizetés nem történt meg.
+1. § (1) A Teljesítésigazolási Szakértői Szerv az építészeti-műszaki tervezési, kivitelezési szerződés (a továbbiakban együtt: szerződés) építőipari teljesítéséből eredő, e törvényben meghatározott kérdésekben a megrendelő, a tervező, a kivitelező vagy az alvállalkozó (a továbbiakban együtt: fél) megbízására szakértői véleményt ad, ha a teljesítésigazolás kiadása nem történt meg, a kiadása vitás, vagy a teljesítésigazolás kiadásra került, de a kifizetés nem történt meg.
 
 (1a) A Teljesítésigazolási Szakértői Szerv a Közbeszerzési Hatóság kijelölése alapján szakhatóságként működik közre a közbeszerzési szerződések teljesítésének és módosításának ellenőrzésére irányuló eljárásban.
 
@@ -16,8 +16,8 @@ az építmények tervezésével és kivitelezésével kapcsolatos egyes viták r
 
 (4) E törvény alkalmazásában
 
-- a) szerződést biztosító mellékkötelezettség a bankgarancia, zálogjog és kezesség,
-- b) biztosítékot nyújtó személy: a bankgaranciát vállaló pénzügyi intézmény, a zálogkötelezett és a kezes.
+- a) szerződést biztosító mellékkötelezettség a garancia, zálogjog és kezesség,
+- b) biztosítékot nyújtó személy: a garanciát vállaló pénzügyi intézmény vagy biztosító, a zálogkötelezett és a kezes.
 
 (5) A szakértői vélemény jogszabályban meghatározott díjazás ellenében kérhető.
 
@@ -47,7 +47,7 @@ az építmények tervezésével és kivitelezésével kapcsolatos egyes viták r
 (2) A Teljesítésigazolási Szakértői Szerv
 
 - a) vezetőjét, vezető helyettesét az igazságügyi szakértők közül az építésgazdaságért felelős miniszter az építésügyért felelős miniszter és az igazságügyért felelős miniszter,
-- b) tagjait az igazságügyi szakértők közül az építésgazdaságért felelős miniszter – a Magyar Kereskedelmi és Iparkamara, a Magyar Mérnöki Kamara, a Magyar Építész Kamara, a Magyar Igazságügyi Szakértői Kamara és építőipari szakmai szervezetek véleményezése mellett – az igazságügyért felelős miniszter
+- b) tagjait az igazságügyi szakértők és az építési műszaki ellenőrök közül az építésgazdaságért felelős miniszter – a Magyar Kereskedelmi és Iparkamara, a Magyar Mérnöki Kamara, a Magyar Építész Kamara, a Magyar Igazságügyi Szakértői Kamara és építőipari szakmai szervezetek véleményezése mellett – az igazságügyért felelős miniszter
 
 egyetértésével nevezi ki.
 
@@ -61,9 +61,11 @@ egyetértésével nevezi ki.
 
 4. § (1) A Teljesítésigazolási Szakértői Szerv nevében a szakvéleményt és annak kivonatát – saját szakmai felelőssége mellett – a szakértői tanács adja.
 
-(2) Az ügyben eljáró szakértői tanács három tagját és közülük a szakértői tanács elnökét a Teljesítésigazolási Szakértői Szerv vezetője jelöli ki a vizsgálandó építészeti-műszaki tervezési, illetve az építőipari kivitelezési munka szakterületének megfelelő, a 3. § (2) bekezdés b) pontja szerinti tagok közül.
+(2) Az ügyben eljáró szakértői tanács három tagját és közülük a szakértői tanács elnökét a Teljesítésigazolási Szakértői Szerv vezetője jelöli ki a vizsgálandó építészeti-műszaki tervezési, illetve az építőipari kivitelezési munka szakterületének megfelelő, a 3. § (2) bekezdés b) pontja szerinti tagok közül. A szakértői tanács elnökének kizárólag igazságügyi szakértő jelölhető ki.
 
-5. § (1) A szakértői tanács tagjaként nem járhat el, aki a Polgári perrendtartásról szóló törvény szerint, mint szakértő sem járhatna el.
+(3) A Teljesítésigazolási Szakértői Szerv nevében szakértői tanácsban két szakértő jár el, ha az ügyben a teljesítésigazolás kiadásra került, de a kifizetés nem történt meg, és a vitatott bruttó érték nem haladja meg a 6 millió forintot. Ezen eljárásban a szakértői tanács elnökeként a Teljesítésigazolási Szakértői Szerv vezetője vagy vezetőhelyettese vesz részt.
+
+5. § (1) Az adott ügy kapcsán a szakértői tanács tagjaként nem járhat el, aki a polgári perrendtartásról szóló törvény szerint mint szakértő sem járhatna el. Az elfogultságát kell vélelmezni különösen annak, aki bármely fél megbízásából az adott ügy tárgyát képező építési beruházásnál korábban szakértőként járt el.
 
 (2) A Teljesítésigazolási Szakértői Szerv vezetője hivatalból gondoskodik arról, hogy kizárt tag ne vegyen részt a szakértői vélemény kialakításában.
 
@@ -77,18 +79,18 @@ egyetértésével nevezi ki.
 
 6. § (1) A Teljesítésigazolási Szakértői Szerv a szerződés teljesítését vizsgálja, szakvéleményt vagy kivonatot ad ki, amely alapján megállapítható, hogy a szerződés teljesítése megtörtént-e, vagy nem a szerződésnek megfelelő módon történt meg, és a teljesítésért járó ellenérték megfizetése – adott esetben a szerződést biztosító mellékkötelezettség érvényesítése – milyen összegben indokolt.
 
-(2) A szakvélemény – a külön jogszabályban a szakértői vélemény tartalmára vonatkozó előírások szerint – a következő kérdések tárgyában készül:
+(2) A szakvélemény – a jogszabályban a szakértői vélemény tartalmára vonatkozó előírások szerint – a következő kérdések tárgyában készül:
 
-- a) a szerződés műszaki tartalma szerint a vállalkozót (alvállalkozót) terhelő tervezési és kivitelezési munkák leírása,
-- b) az a) pont szerinti munkák közül a teljes bizonyossággal megállapíthatóan teljesített tervezési és kivitelezési munkák mennyiségének és minőségének meghatározása,
-- c) az a) pont szerinti munkák közül a teljes bizonyossággal megállapíthatóan el nem végzett tervezési és kivitelezési munkák meghatározása, és
+- a) a szerződés műszaki tartalma szerint a vállalkozót (alvállalkozót) terhelő munkák leírása,
+- b) az a) pont szerinti munkák közül a teljes bizonyossággal megállapíthatóan teljesített munkák mennyiségének és minőségének meghatározása,
+- c) az a) pont szerinti munkák közül a teljes bizonyossággal megállapíthatóan el nem végzett munkák meghatározása, és
 - d) a b) és c) pont szerinti munkáknak a szerződés szerinti költségvetési tételek, vagy az átalánydíj arányos részének alapulvételével meghatározott értéke.
 
 (3) A szakértői vélemény részét képezi a fél által csatolt szerződés másolata.
 
 (4) A Teljesítésigazolási Szakértői Szerv szakvéleményét a kérelemnek – hiánypótlás esetén azok pótlásának – a Teljesítésigazolási Szakértői Szervhez való beérkezését követő naptól számított 30 napon belül készíti el. A Teljesítésigazolási Szakértői Szerv vezetője – ha az ügy különös bonyolultsága indokolja – a határidőt egy alkalommal, legfeljebb 30 nappal meghosszabbíthatja; a meghosszabbításról legkésőbb a határidő lejártakor értesíti azt, akinek a szakértői véleményt meg kell küldenie.
 
-7. § (1) A szakértői tanács a szakértői vélemény elkészítéséhez szükséges vizsgálatot – az építési, kivitelezési szerződés vizsgálata esetén – a kivitelezés helyszínén végzi el; a szakértői vizsgálatról jegyzőkönyvet kell készíteni.
+7. § (1) A szakértői tanács a szakértői vélemény elkészítéséhez szükséges vizsgálatot kivitelezési szerződés vizsgálata esetén – az e törvény végrehajtására kiadott rendeletben meghatározott kivétellel – a kivitelezés helyszínén végzi el. A szakértői vizsgálatról jegyzőkönyvet kell készíteni.
 
 (2) A szakértői tanács tagja a szakértői vizsgálat keretében jogosult a kivitelezés helyszínéül szolgáló ingatlanba belépni. A szakértői vizsgálaton a szerződő felek és a kivitelezés helyszínéül szolgáló ingatlan birtokosa jelen lehetnek.
 
@@ -109,10 +111,10 @@ egyetértésével nevezi ki.
 
 (3) Ha a fél a Teljesítésigazolási Szakértői Szerv véleményét a szerződést biztosító mellékkötelezettség érvényesítésének vizsgálatához kapcsolódóan kéri, a Teljesítésigazolási Szakértői Szerv a biztosítékot nyújtó személy részére megküldi a szakértői vélemény kivonatát. Ha az eljárást kezdeményező felet a Teljesítésigazolási Szakértői Szerv hiánypótlásra szólítja fel, erről a biztosítékot nyújtó személyt értesíti.
 
-(4) A Teljesítésigazolási Szakértői Szerv olyan véleménye alapján, amely szerint a szerződést biztosító mellékkötelezettség érvényesítése nem indokolt,
+(4) Amennyiben a Teljesítésigazolási Szakértői Szerv véleménye alapján a szerződést biztosító mellékkötelezettség érvényesítése nem indokolt,
 
-- a) a bankgaranciát vállaló pénzügyi intézmény a bankgaranciaszerződésben foglalt fizetési kötelezettségét nem teljesíti,
-- b) a zálogjog a Ptk.-ban írt egyik módon sem érvényesíthető, vagy
+- a) a garanciát vállaló pénzügyi intézmény vagy biztosító a garanciaszerződésben foglalt fizetési kötelezettségét nem teljesíti,
+- b) a zálogjog a Ptk.-ban írt egyik módon sem érvényesíthető,
 - c) a kezes a kötelezett helyett való teljesítésre vállalt kötelezettségét nem teljesíti.
 
 (5) Ha a Teljesítésigazolási Szakértői Szerv szakvéleménye alapján a mellékkötelezettség érvényesítése csak részben indokolt, a szakvéleményben szereplő indokolt összegen felüli összeg tekintetében a (4) bekezdés megfelelően alkalmazandó.
