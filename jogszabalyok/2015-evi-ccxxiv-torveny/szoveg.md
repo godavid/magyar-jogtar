@@ -113,7 +113,7 @@ lép.
 
 (6) A 6. § 2016. december 1-jén lép hatályba.
 
-(7) A 18. és 19. § 2017. január 1-jén lép hatályba.
+(7) A 18. és a 19. § 2016. július 1-jén lép hatályba.
 
 68. §
 

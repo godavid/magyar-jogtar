@@ -507,6 +507,6 @@ vonatkozó szabályokat.
 
 (2) A 7. § (2) bekezdés a) pontja szerinti nyilvántartási számon, illetve a 7. § (3) bekezdés a) pontja szerinti ivóvíz-biztonsági engedély számán az (1) bekezdés alapján az adott, a vízzel közvetlenül érintkező anyag vagy termék bejelentésének nyilvántartásba vételéig, illetve az adott, a víz kezelésére alkalmazni kívánt technológia ivóvíz-biztonsági engedélyezéséig az alkalmazási engedély számát is érteni kell.
 
-15/D. § A 14/D. §-ban megállapított felügyeleti díjat első alkalommal a 2016. év tekintetében, 2016. június 30-áig kell megfizetni.
+15/D. § A 14/D. §-ban megállapított felügyeleti díjat a természetes fürdővizek minőségi követelményeiről, valamint a természetes fürdőhelyek kijelöléséről és üzemeltetéséről szóló Korm. rendelet szerint kell megfizetni.
 
 16. § Ez a törvény a HOSPEEM és az EPSU közötti, a kórházakban és az egészségügyi ágazatban előforduló, éles vagy hegyes eszközök által okozott sérülések megelőzéséről szóló keretmegállapodás végrehajtásáról szóló 2010. május 10-i 2010/32/EU tanácsi irányelv melléklete 3. szakasz 4. pontjának való megfelelést szolgálja.

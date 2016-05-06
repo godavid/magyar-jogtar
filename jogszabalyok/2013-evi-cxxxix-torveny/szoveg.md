@@ -774,11 +774,24 @@ folytat le.
 
 (5) Az MNB az általa hivatalosan ismert tények alapján a 75. § (1) bekezdésében meghatározott intézkedést közvetlenül is alkalmazhatja.
 
-49. § (1) Az MNB hatósági eljárása során a Ket. 10. § (2) bekezdése, 29. § (3) bekezdés b) pontja, a 33/A. § és a 49. § nem alkalmazható.
+49. § (1) Az MNB hatósági eljárása során a Ket. 10. § (2) bekezdése, 29. § (1b) és (1c) bekezdése, a 29. § (3) bekezdés b) pontja, a 29. § (3a) bekezdése, a 33. § (1a) bekezdése, 33/A. §-a, 49. §-a, a 71. § (2) bekezdés a) pontja, 71/A. §-a és a 72. § (5) bekezdése nem alkalmazható.
+
+(1a) Az MNB a hatósági eljárása során a hiánypótlás teljesítésére negyvenöt napnál hosszabb határidőt is megállapíthat.
 
 (2) Az MNB hatósági eljárása során a Ket. írásbelinek minősülő elektronikus kapcsolattartásra vonatkozó szabályaitól eltérően is meghatározhatja az adatszolgáltatási kötelezettség teljesítésének módját.
 
 (3) Az MNB eljárásaiban – e törvény eltérő rendelkezése hiányában – az ügyintézési határidő harminc nap.
+
+(4) Az MNB által lefolytatott hatósági eljárásban az eljárás felfüggesztésének helye van.
+
+(5) A kérelemre indult eljárás felfüggesztését indokolt esetben egy alkalommal az ügyfél akkor is kérheti, ha az eljárás felfüggesztésének egyébként nincs helye.
+
+(6) Az eljárás az ügyfél kérelmére akkor függeszthető fel, ha
+
+- a) azt e törvény nem zárja ki,
+- b) nincs ellenérdekű ügyfél vagy az ellenérdekű ügyfél az eljárás felfüggesztéséhez hozzájárul, vagy az ellenérdekű ügyfél érdekét az nem érinti.
+
+(7) Ha az MNB az eljárást az ügyfél kérelmére függeszti fel, és az ügyfél az eljárás folytatását hat hónapon belül nem kéri, az MNB az eljárást megszünteti.
 
 50. § (1) Az MNB hatósági eljárása során – ellenérdekű ügyfél hiányában – eltekinthet a magyar nyelv kötelező használatától és az iratok magyar nyelven történő benyújtásától. Az MNB ebben az esetben előírhatja az iratokról magyar nyelvű összefoglaló elkészítésének kötelezettségét.
 
@@ -898,6 +911,8 @@ folytat le.
 (4) A 39. § (1) bekezdés a), c), f), h), i), k), l), m) és s) pontjában, valamint a 40. § (10) bekezdésében meghatározott jogszabályok hatálya alá tartozó engedélyezési, jóváhagyási és nyilvántartásba vételi, törlési eljárásokban, valamint a bejelentéseknél a kérelmet, illetve bejelentést az e célra rendszeresített formanyomtatványon vagy elektronikus űrlapon kell benyújtani.
 
 60. § (1) Harmincnapos ügyintézési határidő esetén az MNB a hiánypótlási felhívást legkésőbb tizenöt napon belül bocsátja ki.
+
+(1a) Harminc napos ügyintézési határidő esetén a határidő indokolt esetben egy alkalommal, legfeljebb harminc nappal meghosszabbítható.
 
 (2) Az MNB előtti eljárásban a kérelem módosításának – a hiánypótlás, valamint a 61. § (6) bekezdésében meghatározott eset kivételével – nincs helye.
 
@@ -2067,17 +2082,17 @@ terjedhet.
 
 #### 42. Az elnök, az alelnökök, a Monetáris Tanács és a felügyelőbizottság tagjainak díjazása
 
-149. § (1) Az elnök tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó, MNB-től származó havi bére a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszerese.
+149. § (1) Az elnök MNB-től származó havi bére 5 millió forint.
 
-(2) A Monetáris Tanács elnökhelyettesi tisztségét betöltő MNB alelnök MNB-től származó bére az elnök bérének 80%-a. Az MNB további alelnökeinek MNB-től származó bére az elnök bérének 70%-a.
+(2) Az alelnök MNB-től származó bére az elnök havi bérének 90%-a.
 
-(3) A Monetáris Tanács 9. § (4) bekezdés c) pontjában meghatározott tagjainak MNB-től származó bére az elnök bérének 60%-a.
+(3) A Monetáris Tanács 9. § (4) bekezdés c) pontjában meghatározott tagjainak MNB-től származó bére az elnök havi bérének 60%-a.
 
 (4) Az elnök, az alelnökök, továbbá a Monetáris Tanács 9. § (4) bekezdés c) pontjában meghatározott tagjai a MNB-től származó egyéb juttatásokra (ideértve a nem pénzbeni, természetbeni és szociális juttatásokat) azonos feltételekkel jogosultak.
 
-(5) A felügyelőbizottság elnökének tiszteletdíja havi bruttó 1 200 000 forint.
+(5) A felügyelőbizottság elnökének tiszteletdíja az elnök havi bérének 70%-a.
 
-(6) A felügyelőbizottság további tagjainak tiszteletdíja havi bruttó 800 000 forint.
+(6) A felügyelőbizottság további tagjainak tiszteletdíja az elnök havi bérének 60%-a.
 
 (7) Az MNB elnökét és alelnökeit a monetáris tanácsi tagságért külön díjazás nem illeti meg.
 
@@ -2246,6 +2261,12 @@ részére forintban és külföldi pénznemben bankszámlát vezetni.
 162. § (1) Az MNB könyveinek és e könyvekből vett cégszerűen aláírt kivonatoknak közokirati bizonyító erejük van.
 
 (2) Az MNB feladataival és elsődleges céljával összhangban, a többségi tulajdonában álló gazdasági társaságot alapíthat vagy alapítványt hozhat létre.
+
+(3) Az MNB többségi vagy kizárólagos tulajdonában álló gazdasági társaság által az MNB bármely feladatának ellátásával kapcsolatban kezelt azon adat, amelynek megismerése az Infotv. 27. § (2) bekezdés e) pontja szerinti központi pénzügyi vagy devizapolitikai érdeket sértene, az MNB vagy az MNB többségi vagy kizárólagos tulajdonában álló gazdasági társaság általi nyilvánosságra hozataláig, de legfeljebb az adat keletkezésétől számított tíz évig nem nyilvános.
+
+(4) Az MNB többségi vagy kizárólagos tulajdonában álló gazdasági társaság és ezen gazdasági társaság által a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló törvény szerint közvetlenül vagy közvetve irányított vállalkozás által kezelt üzleti tevékenységgel kapcsolatos azon adat, amelynek más által történő megismerése az MNB többségi vagy kizárólagos tulajdonában álló gazdasági társaság vagy ezen gazdasági társaság által a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló törvény szerint közvetlenül vagy közvetve irányított vállalkozás üzleti tevékenysége szempontjából aránytalan sérelmet jelentene, nem ismerhető meg. Aránytalan sérelemnek minősül az, ha az adat más általi megszerzése, hasznosítása, másokkal való közlése vagy nyilvánosságra hozatala az MNB többségi vagy kizárólagos tulajdonában álló gazdasági társaság vagy ezen gazdasági társaság által a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló törvény szerint közvetlenül vagy közvetve irányított vállalkozás bármely versenytársát indokolatlan előnyhöz juttatná.
+
+(5) Az MNB által létrehozott alapítvány gazdálkodását az Állami Számvevőszék ellenőrzi.
 
 #### 47. Az MNB adatkezelése
 
@@ -2642,6 +2663,10 @@ azzal, hogy 2019. január 1-jétől az anticiklikus tőkepufferrátát a 33. §-
 183/F. § (1) E törvénynek az egyes törvényeknek a pénzügyi közvetítőrendszer fejlesztésének előmozdítása érdekében történő módosításáról szóló 2015. évi LXXXV. törvénnyel (a továbbiakban: Módtv.) megállapított 26. § (3) és (4) bekezdését e rendelkezések hatálybalépését követően indított hatósági eljárásokban kell alkalmazni.
 
 (2) A Módtv.-vel megállapított 64. § (2) bekezdését az MNB az átfogó vizsgálatainak az időbeli ütemezése során a 2016. január 1-től alkalmazza. Ezen időpontot megelőzően az e törvény Módtv. hatálybalépését megelőző napján hatályos 64. § (3) bekezdését kell alkalmazni.
+
+183/G. § (1) A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény módosításáról szóló 2016. évi XXXI. törvénnyel (a továbbiakban: Módtv.2.) megállapított 49. § (1), (1a), (4)–(7) bekezdését, valamint 60. § (1a) bekezdését a Módtv.2. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
+
+(2) A Módtv.2.-vel megállapított 149. § (1)–(3) és (5)–(6) bekezdését a Módtv.2. hatálybalépését követő naptári hónap első napjától kell alkalmazni.
 
 #### 55. Az Alaptörvény sarkalatosságra vonatkozó követelményének megfelelés
 
