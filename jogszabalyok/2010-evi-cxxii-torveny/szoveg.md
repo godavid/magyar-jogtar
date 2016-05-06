@@ -1539,6 +1539,8 @@ költségeit.
 
 33/C. § (1) A tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység és a nevelőszülői foglalkoztatási jogviszony (a továbbiakban együtt: gyakorolható tevékenység), továbbá a közérdekű önkéntes tevékenység kivételével a kormánytisztviselő, a pénzügyőr, az ügykezelő munkavégzésre irányuló további jogviszonyt [20/A. § (1) bekezdés], illetve munkavégzésre irányuló egyéb jogviszonyt [20/A. § (3) bekezdése, ideértve a (2a) bekezdés a) és c)–h) pontját is], valamint gazdasági társaságnál cégvezetői, képviseleti tevékenységet – ide nem értve a vezető tisztségviselői, illetve felügyelő bizottsági tagsági tevékenységet –, továbbá mezőgazdasági őstermelői tevékenységet csak a munkáltatói jogkör gyakorlójának előzetes engedélyével létesíthet, illetve folytathat.
 
+(1a) Az (1) bekezdéstől eltérően a kormánytisztviselő állami projektértékelői jogviszonyt a munkáltatói jogkör gyakorlójának előzetes engedélye nélkül létesíthet, illetve folytathat.
+
 (2) Vezetői munkakört betöltő kormánytisztviselő, pénzügyőr – a (2a) bekezdés szerinti tevékenységek kivételével és a (3) bekezdés szerinti kivételesen folytatható tevékenység kivételével – további, illetve egyéb jogviszonyt csak az (1) bekezdés szerinti gyakorolható tevékenységre vonatkozóan létesíthet, továbbá az (1) bekezdésben külön említett engedélyköteles tevékenységet nem végezhet, illetve arra irányuló jogviszonyt nem létesíthet.
 
 (2a) Vezetői munkakört betöltő kormánytisztviselő, illetve pénzügyőr a munkáltatói jogkör gyakorlójának az előzetes engedélye alapján
@@ -1551,6 +1553,8 @@ költségeit.
 - f)
 - g) folytathat tanszékvezetői tevékenységet,
 - h) lehet felsőoktatási intézmény oktatási feladatokat is ellátó belső szervezeti egységének vezetője.
+
+(2b) A (2) és a (2a) bekezdéstől eltérően a vezetői munkakört betöltő kormánytisztviselő állami projektértékelői jogviszonyt a munkáltatói jogkör gyakorlójának előzetes engedélye nélkül létesíthet, illetve folytathat.
 
 (3) A kormánytisztviselő, a pénzügyőr, az ügykezelő – ideértve a vezetői munkakört betöltő kormánytisztviselőt is – az állami adó- és vámhatóság vezetőjének előzetes engedélyével gazdasági társaságnál vezető tisztségviselő, illetve felügyelőbizottsági tag lehet, feltéve, ha
 

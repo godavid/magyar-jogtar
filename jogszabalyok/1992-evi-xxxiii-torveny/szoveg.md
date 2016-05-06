@@ -885,7 +885,7 @@ minősítést kap a közalkalmazott. Ettől eltérően, a közalkalmazott alkalm
 
 (3) Az (1) bekezdésben megjelölt munkáltatónál foglalkoztatott magasabb vezető, vezető beosztású, illetve témacsoport-vezető közalkalmazott nem lehet tagja, illetve vezető tisztségviselője olyan gazdasági társaságnak, amelynek az őt foglalkoztató munkáltató az alapítója, tagja vagy a munkáltatóval – ide nem értve a közműszolgáltató tevékenységet ellátó gazdasági társaságokat – gazdasági kapcsolatban áll.
 
-44. § (1) A közalkalmazott a munkaidejét nem érintő további munkavégzésre irányuló jogviszony létesítését – a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység, továbbá a közérdekű önkéntes tevékenység kivételével – köteles a munkáltatónak előzetesen írásban bejelenteni, amely összeférhetetlenség esetén a további jogviszony létesítését írásban megtiltja.
+44. § (1) A közalkalmazott a munkaidejét nem érintő további munkavégzésre irányuló jogviszony létesítését – a tudományos, oktatói, művészeti, lektori, szerkesztői, a jogi oltalom alá eső szellemi tevékenység, a közérdekű önkéntes tevékenység, valamint az állami projektértékelői jogviszony kivételével – köteles a munkáltatónak előzetesen írásban bejelenteni, amely összeférhetetlenség esetén a további jogviszony létesítését írásban megtiltja.
 
 (2) A munkáltatónak a munkavégzésre irányuló további jogviszony létesítését megtiltó intézkedése ellen munkaügyi jogvita kezdeményezhető.
 
