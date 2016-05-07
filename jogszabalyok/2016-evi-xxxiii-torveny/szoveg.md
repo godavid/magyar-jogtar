@@ -178,19 +178,4 @@ azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiál
 
 #### 9. Módosító rendelkezések
 
-14. § A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 44. § (1) bekezdésében a „szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység, továbbá a közérdekű önkéntes tevékenység” szövegrész helyébe a „szerkesztői, a jogi oltalom alá eső szellemi tevékenység, a közérdekű önkéntes tevékenység, valamint az állami projektértékelői jogviszony” szöveg lép.
-
-15. § (1) A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 33/C. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Az (1) bekezdéstől eltérően a kormánytisztviselő állami projektértékelői jogviszonyt a munkáltatói jogkör gyakorlójának előzetes engedélye nélkül létesíthet, illetve folytathat.”
-
-(2) A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 33/C. §-a a következő (2b) bekezdéssel egészül ki:
-
-„(2b) A (2) és a (2a) bekezdéstől eltérően a vezetői munkakört betöltő kormánytisztviselő állami projektértékelői jogviszonyt a munkáltatói jogkör gyakorlójának előzetes engedélye nélkül létesíthet, illetve folytathat.”
-
-16. § A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény
-
-- a) 6. § 4. pontjában a „nevelőszülői foglalkoztatási jogviszony és a közérdekű önkéntes tevékenység végzésére irányuló jogviszony” szövegrész helyébe a „nevelőszülői foglalkoztatási jogviszony, a közérdekű önkéntes tevékenység végzésére irányuló jogviszony és az állami projektértékelői jogviszony”,
-- b) a 85. § (2) bekezdésében a „tevékenység és a nevelőszülői foglalkoztatási jogviszony” szövegrész helyébe a „tevékenység, a nevelőszülői foglalkoztatási jogviszony és az állami projektértékelői jogviszony”
-
-szöveg lép.
+#### 14–16. §

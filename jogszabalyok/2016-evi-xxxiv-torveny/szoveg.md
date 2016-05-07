@@ -6,9 +6,7 @@ egyes egészségügyet érintő törvények módosításáról
 
 1. §
 
-2. § Az Ehi. 15/D. §-a helyébe a következő rendelkezés lép:
-
-„15/D. § A 14/D. §-ban megállapított felügyeleti díjat a természetes fürdővizek minőségi követelményeiről, valamint a természetes fürdőhelyek kijelöléséről és üzemeltetéséről szóló Korm. rendelet szerint kell megfizetni.”
+2. §
 
 3–4. §
 
@@ -62,72 +60,23 @@ egyes egészségügyet érintő törvények módosításáról
 
 #### 8. A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény módosítása
 
-46. § A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény (a továbbiakban: Gyftv.) 3. § 17. pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában)
-
-„17. fiókgyógyszertár: a közforgalmú gyógyszertár részeként működő, de azzal nem azonos telephelyű, vagy mozgó, illetve ideiglenesen telepített egységként működtetett, közvetlen lakossági gyógyszerellátást biztosító egészségügyi intézmény;”
+46. §
 
 47. §
 
-48. § A Gyftv. 41. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A hatósági bizonyítvány iránti kérelmet a közforgalmú gyógyszertárat működtető vállalkozás a tárgynegyedévet követő második hónap első napjától a harmadik hónap 20. napjáig nyújthatja be az egészségügyi államigazgatási szervhez, amely határidő jogvesztő. A kérelem önellenőrzéssel a későbbiekben sem korrigálható.”
-
-49. § (1) A Gyftv. 48. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Új gyógyszertár – az ideiglenesen telepített fiókgyógyszertár kivételével – csak létesítési engedély és működési engedély alapján működtethető. Új gyógyszertár létesítéséről – a közforgalmú gyógyszertárak kivételével – az egészségügyi államigazgatási szerv a gyógyszertár létesítésére irányuló kérelem beérkezését követő naptól számított huszonegy napon belül dönt. Az új gyógyszertár létesítéséről szóló jogerős határozatot a létesítés helye szerint illetékes települési önkormányzattal, a gyógyszertárak létesítésére és működtetésére vonatkozó határozatokat a Magyar Gyógyszerészi Kamarával is közli a hatóság.”
-
-(2) A Gyftv. 48. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) A gyógyszertárak működésével összefüggő engedélyezési eljárások során az egészségügyi államigazgatási szerv az eljárást felfüggesztheti, ha az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ, amelyben az eljárás más szerv hatáskörébe tartozik, vagy ugyanannak a hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem dönthető el.”
+48–49. §
 
 50. §
 
-51. § A Gyftv. A fiókgyógyszertár létesítése alcíme a következő 50/B. §-sal egészül ki:
-
-„50/B. § (1) Azon a legalább három napig tartó, előreláthatólag 20 000 fő egyidejű részvételét meghaladó, megszakítás nélkül folyamatosan üzemelő szabadtéri rendezvényen, ahol a rendezvény területén közforgalmú vagy fiókgyógyszertár nem működik, az egészségügyi államigazgatási szerv kérelemre egy ideiglenesen telepített fiókgyógyszertár működtetését engedélyezi a rendezvény időtartamára és helyszínére, ha a kérelmező megfelel e törvényben és e törvény felhatalmazása alapján kiadott miniszteri rendeletben előírt feltételeknek.
-
-(2) Az ideiglenesen telepített fiókgyógyszertár működtetésére a közúton történő megközelítés figyelembevételével, a távolság szerinti sorrendiséget betartva a három legközelebb eső közforgalmú gyógyszertárat működtető egyike kaphat engedélyt. Ha
-
-a) a kérelmező nem felel meg az e törvényben és e törvény felhatalmazása alapján kiadott miniszteri rendeletben előírt feltételeknek,
-
-b) a három legközelebb eső közforgalmú gyógyszertár egyike sem kíván ideiglenesen telepített fiókgyógyszertárat működtetni az adott rendezvényen, vagy
-
-c) az egészségügyi államigazgatási szerv ideiglenesen telepített fiókgyógyszertár működtetésére irányuló megkeresésére – a közúton történő megközelítés figyelembevételével – a három legközelebb eső közforgalmú gyógyszertár 5 napon belül nem nyilatkozik,
-
-az egészségügyi államigazgatási szerv – erre irányuló kérelem esetén – más közforgalmú gyógyszertár működtetője részére engedélyezheti ideiglenesen telepített fiókgyógyszertár működtetését.
-
-(3) A kérelmező a (1) bekezdés szerinti eljárásért miniszteri rendeletben meghatározott mértékű igazgatási szolgáltatási díjat fizet.
-
-(4) Az egészségügyi államigazgatási szerv ideiglenesen telepített fiókgyógyszertár működtetésére szóló határozata fellebbezésre tekintet nélkül végrehajtható.”
+51. §
 
 52. §
 
-53. § (1) A Gyftv. 53. § (1) bekezdése a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Az ideiglenesen telepített fiókgyógyszertár működéséhez szükséges az egészségügyi államigazgatási szerv által kiadott működési engedély.”
-
-(2) A Gyftv. 53. § (6) bekezdése a következő i) ponttal egészül ki:
-
-(A működési engedély tartalmazza:)
-
-„i) ideiglenesen telepített fiókgyógyszertár esetén az a), d)–f) ponton túl a rendezvény helyszínét és időtartamát.”
-
-(3) A Gyftv. 53. §-a a következő (8) bekezdéssel egészül ki:
-
-„(8) A gyógyszertár létesítésére, működésére szóló hatósági engedélyben foglalt jogosultság forgalomképtelen.”
+53. §
 
 54. §
 
-55. § A Gyftv.
-
-- a) 14. § (1) bekezdésben az „Ismertetés keretében” szövegrész helyébe az „Ismertetési tevékenységet folytató által közvetlen vagy közvetett formában” szöveg,
-- b) 50. § (1) bekezdésében a „településrészen” szövegrész helyébe az „önálló településrészi önkormányzattal (részönkormányzattal) rendelkező településrészen” szöveg
-
-lép.
-
-56. § Hatályát veszti a Gyftv. 3. § 25. pontjában az „önálló településrészi önkormányzattal (részönkormányzattal) rendelkezik és” szövegrész.
+55–56. §
 
 #### 9. Az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény módosítása
 
@@ -135,9 +84,7 @@ lép.
 
 #### 10. Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló2015. évi CCXXIV. törvény módosítása
 
-59. § Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2015. évi CCXXIV. törvény 67. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) A 18. és a 19. § 2016. július 1-jén lép hatályba.”
+59. §
 
 #### 11. Egyéb, az egészségüggyel összefüggő törvények módosítása
 
