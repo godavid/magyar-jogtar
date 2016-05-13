@@ -31,7 +31,7 @@ Az Országgyűlés az épített környezet alakításával és védelmével kapc
 - 1. Akadálymentes: az épített környezet akkor, ha annak kényelmes, biztonságos, önálló használata minden ember számára biztosított, ideértve azokat az egészségkárosodott egyéneket vagy embercsoportokat is, akiknek ehhez speciális eszközökre, illetve műszaki megoldásokra van szükségük.
 - 2. Beépítésre nem szánt terület: a település közigazgatási területének a zöldterületi, a közlekedési, a mezőgazdasági, az erdőművelési, illetőleg az egyéb célra szolgáló része.
 - 3. Beépítésre szánt terület: a település közigazgatási területének a beépített, illetve a további beépítés céljára szolgáló területrésze.
-- 4. Építtető: az építésügyi hatósági engedély kérelmezője, az építési beruházás megvalósításához szükséges hatósági engedélyek jogosultja, illetve az építési-bontási tevékenység megrendelője vagy folytatója.
+- 4. Építtető: a hatósági engedély vagy tudomásulvétel kérelmezője, a 33/A. § szerinti építési tevékenység bejelentője az építési beruházás megvalósításához szükséges hatósági engedélyek jogosultja, illetve az építési-bontási tevékenység megrendelője vagy folytatója.
 - 5. Épített környezet: a környezet tudatos építési munka eredményeként létrehozott, illetve elhatárolt épített (mesterséges) része, amely elsődlegesen az egyéni és a közösségi lét feltételeinek megteremtését szolgálja.
 - 6. Nyomvonal jellegű építmény: a sajátos építményfajták körében a vasúti pálya, a függő- és szállítószalag-pálya, az út, a vízilétesítmény, a vízellátási vezeték, a csatorna, a szénhidrogén-termelés mezőbeli vezetékei, a kőolaj- és a kőolajtermék-szállító vezeték, a földgázszállító vezeték, a földgáz-célvezeték és a földgáz-elosztóvezeték, a szén-dioxid-szállító vezeték, az egyéb gáz- és gáztermékek vezetéke, a villamosenergia-átviteli és elosztóhálózat, a villamosenergia-termelői, magán- és közvetlen vezeték, a távhővezeték-hálózat, az elektronikus hírközlési építmény.
 - 7. Építési terület: olyan telek vagy telkek csoportja, amely a nyomvonal jellegű építmények elhelyezésére szolgál.
@@ -247,12 +247,18 @@ Az Országgyűlés az épített környezet alakításával és védelmével kapc
 
 13. § (1) Az építés helyi rendjének biztosítása érdekében a települési önkormányzatnak az országos szabályoknak megfelelően, illetve az azokban megengedett eltérésekkel a település közigazgatási területének felhasználásával és beépítésével, továbbá a környezet természeti, táji és épített értékeinek védelmével kapcsolatos, a telkekhez fűződő sajátos helyi követelményeket, jogokat és kötelezettségeket helyi építési szabályzatban kell megállapítania.
 
-(2) A 33/A. § (1) bekezdésében meghatározott épület építésével összefüggésben a helyi építési szabályzat rendelkezései közül kizárólag az építési telek
+(2) A 33/A. § (1) bekezdésében meghatározott lakóépület létesítésekor a helyi építési szabályzatban meghatározott
 
-- a) megengedett legnagyobb beépítettségét,
-- b) megengedett legnagyobb építménymagasságát vagy beépítési magasságát,
-- c) szabályozási vonalát és
-- d) beépítési módját vagy építési helyét
+- a) övezet, építési övezet területi lehatárolását;
+- b) övezetre, építési övezetre vonatkozóan
+  - ba) a védelemmel és korlátozásokkal érintett területeken a szennyvízelvezetés vagy tisztítás szabályait közegészségügyi szempont szerint,
+  - bb) a megengedett legnagyobb beépítettséget,
+  - bc) a telken, az építési telken elhelyezhető épület, valamint az önálló rendeltetési egység számát,
+  - bd) a megengedett legnagyobb beépítési magasságot vagy építménymagasságot,
+  - be) a szabályozási vonalat,
+  - bf) a beépítési módot, az építési helyet és
+  - bg) a minimális zöldfelület mértékét;
+- c) országos vagy helyi építészeti örökségvédelemmel, településképi védelemmel, országos régészeti-, táj- és természetvédelemmel kapcsolatos rendelkezéseket, továbbá a veszélyeztetett területekre, a természeti csapások elleni védelemre, a katasztrófavédelemre vonatkozó követelményeket, védőterületet, védőtávolságot
 
 kell figyelembe venni.
 
@@ -392,7 +398,7 @@ kell figyelembe venni.
 
 (7) A tilalom nem terjed ki:
 
-- a) a tilalom hatálybalépésekor hatályos építésügyi hatósági engedéllyel megvalósuló építési, javítási-karbantartási és a jogszabályokban megengedett más építési munkákra,
+- a) a tilalom hatálybalépésekor hatályos építésügyi hatósági engedéllyel megvalósuló építési, javítási-karbantartási és a jogszabályokban megengedett más építési munkákra, valamint a 33/A. § szerinti egyszerű bejelentés alapján megkezdett tevékenységre,
 - b) a korábban gyakorolt használat folytatására,
 - c) az állékonyságot, életet és egészséget, köz- és vagyonbiztonságot veszélyeztető kármegelőzési, kárelhárítási tevékenységre, továbbá
 - d) az a) pont szerinti, hatósági engedélyhez kötött építési munkáknak a településrendezési követelményeket nem érintő módosítására irányuló építésügyi hatósági engedélyezési eljárásra,
@@ -636,7 +642,7 @@ kivételével más építési munkát végezni nem szabad.
 
 ### Az építészeti-műszaki tervezési és az építésügyi műszaki szakértői tevékenység
 
-32. § (1) Építészeti-műszaki tervezési tevékenységnek minősül az építmény, építményrész, építményegyüttes megépítéséhez, bővítéséhez, felújításához, átalakításához, helyreállításához, korszerűsítéséhez, lebontásához, elmozdításához, rendeltetésének megváltoztatásához szükséges építészeti-műszaki tervdokumentáció elkészítése és kormányrendeletben foglaltak szerinti ellenőrzése, továbbá a 33. § (4) bekezdés szerinti tevékenység.
+32. § (1) Építészeti-műszaki tervezési tevékenységnek minősül az építmény, építményrész, építményegyüttes megépítéséhez, bővítéséhez, felújításához, átalakításához, helyreállításához, korszerűsítéséhez, lebontásához, elmozdításához, rendeltetésének megváltoztatásához szükséges építészeti-műszaki dokumentáció elkészítése és kormányrendeletben foglaltak szerinti ellenőrzése, továbbá a 33. § (4) bekezdés szerinti tevékenység.
 
 (2) Építésügyi műszaki szakértői tevékenység az épített környezet alakításával és védelmével kapcsolatos műszaki jelenségek ok-okozati összefüggéseinek magas szakmai színvonalú értékelése, ezen belül a vitatott esetek megítélése; a hibák, károk, illetve ezek okainak feltárása; és mindezekkel kapcsolatban szakértői vélemények készítése, továbbá a külön jogszabály szerinti esetenként kapcsolódó tevékenységek.
 
@@ -654,7 +660,7 @@ kivételével más építési munkát végezni nem szabad.
 
 (9)–(10)
 
-(11) Az építészeti-műszaki dokumentáció az építési tevékenység megvalósításához – pályázathoz, tervpályázathoz, tervtanácshoz, engedélyezéshez, ajánlatkéréshez, építőipari kivitelezéshez, állapotfelméréshez, állapot vagy megvalósítás dokumentálásához – szükséges tervezési programot, terveket, dokumentumokat tartalmazza.
+(11) Az építészeti-műszaki dokumentáció az építési tevékenység megvalósításához – pályázathoz, tervpályázathoz, tervtanácshoz, hatósági eljáráshoz, ajánlatkéréshez, építőipari kivitelezéshez, állapotfelméréshez, állapot vagy megvalósítás dokumentálásához – szükséges tervezési programot, terveket, dokumentumokat tartalmazza.
 
 32/A. § Az építészeti-műszaki tervezési szerződésre Ptk.-ban szabályozott tervezési szerződés szabályait kell alkalmazni azzal az eltéréssel, hogy
 
@@ -664,12 +670,12 @@ kivételével más építési munkát végezni nem szabad.
 
 33. § (1) A tervező felelős:
 
-- a) az általa készített építészeti-műszaki tervek (ideértve a kivitelezési terveket is)
+- a) az általa készített építészeti-műszaki dokumentáció (ideértve a kivitelezési dokumentációt is)
   - aa) műszaki tartalmának szakszerűségéért,
   - ab) valós állapotnak megfelelő tartalmáért,
   - ac) építészeti minőségéért, a tervezéssel érintett védett építészeti és természeti örökség megóvásáért,
 - b)
-- c) a tervdokumentáció készítésében (részben vagy folyamatosan) részt vevő, a tervezői feladat szakmai tartalmának megfelelő szakismerettel és jogosultsággal rendelkező szakági tervezők kiválasztásáért,
+- c) az építészeti-műszaki dokumentáció készítésében (részben vagy folyamatosan) részt vevő, a tervezői feladat szakmai tartalmának megfelelő szakismerettel és jogosultsággal rendelkező szakági tervezők kiválasztásáért,
 - d) a szakági tervezők közötti egyeztetések koordinálásáért, terveik összehangolásáért.
 
 (2) Aki tervezői jogosultság nélkül végez építési engedélyhez kötött építészeti-műszaki tervezési tevékenységet, azt az építésügyi hatóság kormányrendeletben meghatározott közigazgatási bírsággal sújtja.
@@ -684,10 +690,12 @@ kivételével más építési munkát végezni nem szabad.
 
 - a) az építtető az építési tevékenységet a kivitelezés tervezett megkezdése előtt tizenöt nappal – kormányrendeletben meghatározottak szerint – a nevének és lakcímének, szervezet esetén a megnevezésének és székhelyének megjelölésével bejelenti az építésügyi hatóságnak,
 - b) ha a tervező a tervezés során a közműellátás és az égéstermék-elvezető megvalósítása érdekében az arra jogosult szolgáltató hozzájárulását vagy jóváhagyását kéri, és arra nyolc napon belül nem kap érdemi választ, a hozzájárulást vagy jóváhagyást megadottnak kell tekinteni,
-- c) a bejelentéshez kormányrendeletben meghatározott tartalmú egyszerű bejelentési dokumentációt kell mellékelni,
-- d) az egyszerű bejelentési dokumentációtól való eltérést be kell jelenteni.
+- c) a bejelentéshez kormányrendeletben meghatározott tartalmú kivitelezési dokumentációt kell mellékelni,
+- d) a kivitelezési dokumentációtól kormányrendeletben meghatározott eltérést be kell jelenteni.
 
-(2) Az (1) bekezdés szerinti épületet a bejelentéstől számított tíz éven belül fel kell építeni és a felépítés megtörténtét tanúsító hatósági bizonyítványt kell kérni a kormányrendeletben kijelölt szervtől.
+(1a) Az (1) bekezdés szerinti épület építése esetén az építtető köteles építész tervezőt tervezői művezetésre megbízni.
+
+(2) Az (1) bekezdés szerinti épületet az (1) bekezdés a) pontja szerinti bejelentéstől számított tíz éven belül fel kell építeni és a felépítés megtörténtét tanúsító hatósági bizonyítványt kell kérni a kormányrendeletben kijelölt szervtől.
 
 (3) Ha a bejelentéstől számított tíz éven belül nem építették fel az (1) bekezdés szerinti épületet, az elkészült építményt le kell bontani.
 
@@ -755,9 +763,9 @@ helyszíni szemle alapján hatósági bizonyítványt állít ki.
 
 ### Az építés
 
-38. § (1) Építési tevékenységet végezni – ha e törvény vagy más jogszabály eltérően nem rendelkezik – csak a jogerős építésügyi hatósági engedélynek, továbbá a hozzájuk tartozó, jóváhagyott engedélyezési záradékkal ellátott építészeti-műszaki dokumentációnak, valamint az ezek alapján készített kivitelezési dokumentációnak megfelelően szabad.
+38. § (1) Építési tevékenységet – ha kormányrendelet eltérően nem rendelkezik – kivitelezési dokumentáció alapján lehet végezni.
 
-(2)
+(2) A kivitelezési dokumentáció tartalma – ha kormányrendelet eltérően nem rendelkezik – nem térhet el a hatósági eljárásban záradékolt építészeti-műszaki dokumentációban foglaltaktól.
 
 ### Az építési folyamat egyéb résztvevői
 
@@ -801,7 +809,7 @@ helyszíni szemle alapján hatósági bizonyítványt állít ki.
 
 (5) a vállalkozó kivitelezői tevékenység folytatásához kormányrendelet felelősségbiztosítást, referenciát vagy a vállalkozó kivitelező teljesítésre való alkalmasságát igazoló vállalkozásminősítést írhat elő.
 
-(6) Aki vállalkozó kivitelezői tevékenység végzésére nem jogosult, de a tevékenység jellegének megfelelő szakképesítéssel rendelkezik, kormányrendeletben meghatározott építőipari kivitelezési tevékenységet csak saját vagy a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti hozzátartozó céljára végezhet.
+(6) Aki vállalkozó kivitelezői tevékenység végzésére nem jogosult, kormányrendeletben meghatározott építőipari kivitelezési tevékenységet csak az ott meghatározott feltételekkel, saját vagy a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti hozzátartozó céljára végezhet.
 
 (7) A Magyar Kereskedelmi és Iparkamara vezeti a vállalkozó kivitelezői tevékenységre jogosultak névjegyzékét, és a szolgáltatási tevékenység megkezdésének és folytatásának általános feltételeiről szóló törvény szerint ellenőrzi a vállalkozói építőipari tevékenység folytatására való jogosultságot. A Magyar Kereskedelmi és Iparkamara határozata ellen a fellebbezés kizárt.
 
@@ -809,7 +817,7 @@ helyszíni szemle alapján hatósági bizonyítványt állít ki.
 
 (2) Kormányrendeletben meghatározott építési tevékenységet az ott előírt feltételek megléte esetén a tevékenység jellegének megfelelő szakképesítéssel rendelkező szakmunkás felelős műszaki vezető irányítása nélkül is végezhet. E tevékenység végzése során felel a 40. § (2) bekezdés b)–e) pontjában foglaltak betartásáért.
 
-(3) Építési szakmunkát csak az végezhet, aki az adott tevékenység végzésének megfelelő, jogszabályban meghatározott szakképesítéssel, részszakképesítéssel rendelkezik.
+(3)
 
 (4) Az építtető köteles az építőipari kivitelezési tevékenység megkezdését e törvény végrehajtására kiadott kormányrendeletben meghatározott esetekben és módon bejelenteni.
 
@@ -830,14 +838,14 @@ helyszíni szemle alapján hatósági bizonyítványt állít ki.
 40. § (1) A kivitelező felelős:
 
 - a) az építőipari kivitelezési tevékenység jogszerű megkezdéséért és folytatásáért, az építési napló vezetéséért, kivitelezői jogosultságának meglétéért,
-- b) az építtető által rendelkezésére bocsátott jogerős és végrehajtható építési engedélyben és a hozzá tartozó jóváhagyott engedélyezési tervekben, az ezek alapján készült kivitelezési tervekben előírtak betartásáért és betartatásáért, valamint
+- b) az építtető által rendelkezésére bocsátott, hatósági eljárásban záradékolt építészeti-műszaki dokumentációban, valamint a kivitelezési dokumentációban előírtak betartásáért és betartatásáért, és
 - c) az elvégzett szakmunkák eredményeként létesült szerkezetek, berendezések, építmény, építményrész rendeltetésszerű és biztonságos használhatóságáért.
 
 (2) A felelős műszaki vezető felel:
 
 - a) az építményfajtának, építési tevékenységnek megfelelő jogosultságának meglétéért,
 - b) a szakmunka irányításáért,
-- c) – kormányrendeletben meghatározott feladatai körében – az építmény, építményrész jogerős és végrehajtható építési engedélynek és a hozzá tartozó jóváhagyott engedélyezési terveknek, illetve a jogszabályban meghatározott kivitelezési terveknek megfelelő megvalósításáért, továbbá
+- c) – kormányrendeletben meghatározott feladatai körében – az építmény, építményrész jogerős és végrehajtható építési engedélynek és a hozzá tartozó jóváhagyott engedélyezési terveknek, illetve a jogszabályban meghatározott kivitelezési dokumentációnak megfelelő megvalósításáért, továbbá
 - d) az építési tevékenységre vonatkozó szakmai, minőségi és biztonsági előírások megtartásáért és
 - e) a munkálatok végzésének szakszerűségéért.
 
@@ -871,7 +879,7 @@ helyszíni szemle alapján hatósági bizonyítványt állít ki.
 - b)
 - c) az engedélyezési és kivitelezési terv tervezőjének, az építési műszaki ellenőr, valamint a kivitelező kiválasztásáért,
 - d) az építésügyi hatósági engedély, építésügyi vagy építésfelügyeleti, tudomásulvétel megszerzéséért,
-- e) a jogerős és végrehajtható építésügyi hatósági engedélyben és a hozzá tartozó, jóváhagyott, engedélyezési záradékkal ellátott tervdokumentációban, valamint a kivitelezési tervekben foglaltak betartásáért,
+- e) a hatósági eljárásban záradékolt építészeti-műszaki dokumentációban, valamint a kivitelezési dokumentációban foglaltak betartásáért,
 - f) az építőipari kivitelezési tevékenység megkezdéséhez szükséges jogszabályban előírt dokumentumok (tervek) meglétéért, az elektronikus építési napló vezetése esetén az építési napló készenlétbe helyezéséért,
 - g) az építési munkaterület átadásáért,
 - h) az építőipari kivitelezési tevékenység végzésének ellenőrzéséért,
@@ -903,7 +911,7 @@ helyszíni szemle alapján hatósági bizonyítványt állít ki.
 - b) a helyszínen, illetve a Nyilvántartás igénybevételével ellenőrzi az építőipari kivitelezési tevékenység
   - ba) végzésének szakszerűségét, jogszerűségét,
   - bb) résztvevőinek jogosultságát,
-  - bc) végzéséhez előírt építési napló vezetésének módját és tartalmát,
+  - bc) végzéséhez előírt építési napló meglétének, vezetésének módját és tartalmát,
   - bd) folytatásához előírt kivitelezési dokumentáció(rész) meglétét,
 - c) a jókarbantartási kötelezettség teljesítése körében ellenőrzést és eljárást folytat le,
 - d) a szabálytalan építési tevékenység feltárása érdekében a Nyilvántartás igénybevételével építésrendészeti ellenőrzést és eljárást folytat le,
@@ -919,6 +927,7 @@ helyszíni szemle alapján hatósági bizonyítványt állít ki.
 - b) a (2) bekezdés b) pont ba), bc), bd) alpontja, és a (2) bekezdés e) pontja szerinti feladatkörében az építőipari kivitelezési tevékenység folytatását
   - ba) megtilthatja és építésfelügyeleti bírságot szabhat ki, ha ellenőrzése során azt állapítja meg, hogy az építőipari kivitelezési tevékenység szakszerűségére, az építési napló vezetésére vagy a kivitelezési tevékenység folytatásához szükséges kivitelezési dokumentációra vonatkozó szabályokat súlyosan megsértették,
   - bb) megtiltja és a szabálytalan állapot megszüntetését elrendeli, továbbá építésfelügyeleti bírságot szabhat ki, ha az építőipari kivitelezési tevékenység végzése az állékonyságot, az életet és az egészséget vagy a közbiztonságot közvetlenül veszélyezteti,
+  - bc) építési napló hiányában megtiltja,
 - c) a (2) bekezdés b) pont bb) alpontja és a (2) bekezdés e) pontja szerinti feladatkörében hatósági eljárást folytat le, építésfelügyeleti bírságot szabhat ki, vagy a szükséges intézkedések megtétele érdekében megkeresi az eljárásra hatáskörrel rendelkező hatóságot vagy szervet, ha az ellenőrzése során azt állapítja meg, hogy a résztvevők nem rendelkeznek az előírt jogosultsággal, nem megfelelő a jogosultságuk, nem rendelkeznek az előírt regisztrációval vagy nem a regisztrációjuknak megfelelő tevékenységet végeznek,
 - d) a (2) bekezdés c) pontja szerinti feladatkörében jogszabályban meghatározott ellenőrzést végez a meglévő építmények körében, az ellenőrzésen tapasztaltak eredményeképpen
   - da) kötelezheti az építmény tulajdonosát a szükséges munkálatok elvégzésére,
@@ -949,7 +958,7 @@ van helyük.
 - c) az építmény, építményrész hibáinak, hiányosságainak megszüntetését,
   - ca) ha azt rendeltetésszerű és biztonságos használatra nem alkalmas módon építették meg, vagy ezáltal idegen ingatlanban az állékonyságot, az életet és egészséget, a köz- és vagyonbiztonságot veszélyeztető állapot keletkezett,
   - cb)–cc)
-- d) jogszerűtlen építési tevékenység esetében az építési tevékenység végzésének megszüntetését vagy a jogerős és végrehajtható építési engedélynek és a hozzá tartozó, jóváhagyott engedélyezési terveknek megfelelő állapot kialakítását,
+- d) jogszerűtlen építési tevékenység esetében az építési tevékenység végzésének megszüntetését, valamint a hatósági eljárásban záradékolt építészeti-műszaki dokumentációnak vagy a 33/A. § szerinti egyszerű bejelentésnek megfelelő állapot kialakítását,
 - e) az építmény környezetéből az építési tevékenység során keletkezett építési hulladék, maradék építőanyag és építési segédeszközök elszállítását, a környezetnek és a terep felszínének az eredeti vagy az engedélyezett állapotban történő kialakítását, a környezetben okozott károk megszüntetését, valamint
 - f) energetikai tanúsítvány elkészíttetését.
 
@@ -969,12 +978,17 @@ van helyük.
 
 megkezdett és végzett tevékenység.
 
-(2) Jogszerűtlen az építési vagy bontási tevékenység, ha a jogszabály alapján engedélyhez vagy tudomásul vételhez kötött építési vagy bontási tevékenységet vagy a 33/A. § szerinti tevékenységet
+(2) Jogszerűtlen az építési tevékenység, ha
 
-- a) engedély, a 33/A. § szerinti bejelentés vagy tudomásul vétel nélkül,
-- b) az engedélytől vagy tudomásul vételtől vagy a 33/A. § szerinti bejelentéstől eltérően,
-- c) az engedély jogerőssé válása nélkül – kivéve, ha a döntés fellebbezésre tekintet nélkül végrehajthatóvá válik –,
-- d) a jogerős engedély végrehajthatóságának felfüggesztése ellenére
+- a) a jogszabály alapján hatósági engedélyhez vagy tudomásulvételhez kötött építési vagy bontási tevékenységet
+  - aa) engedély vagy tudomásulvétel nélkül,
+  - ab) az engedélytől vagy tudomásulvételtől eltérően,
+  - ac) az engedély jogerőssé válása nélkül – kivéve, ha a döntés fellebbezésre tekintet nélkül végrehajthatóvá válik –, vagy
+  - ad) a jogerős engedély végrehajthatóságának felfüggesztése ellenére;
+- b) a 33/A. § szerinti egyszerű bejelentéshez kötött építési tevékenységet
+  - ba) bejelentés nélkül, vagy
+  - bb) a bejelentett és a kormányrendeletben meghatározott mértékű változás bejelentésétől eltérően;
+- c) ahhoz jogszabály alapján építési napló vezetése szükséges és a tevékenységet építési napló hiányában
 
 végzik.
 
@@ -982,14 +996,19 @@ végzik.
 
 (4) Jogosulatlan a 16. §, a 32. §, a 38/A. § és a 38/D. § szerinti tevékenység, továbbá a vállalkozó kivitelezői tevékenység, ha az építési folyamat e törvényben és kormányrendeletben meghatározott résztvevője az általa folytatott tevékenység végzéséhez nem rendelkezik megfelelő jogosultsággal vagy szakképesítéssel, vagy a vállalkozó nem rendelkezik kivitelezői névjegyzéki nyilvántartási számmal, vagy kivitelezési tevékenység végzéséhez szükséges jogosultság felfüggesztésének időtartama alatt folytat kivitelezési tevékenységet.
 
-(5) Szakszerűtlen a 16. §, a 32. §, a 38/A. §, a 38/C. § és a 38/D. § szerinti tevékenység, valamint a kivitelezői tevékenység, ha azt a helyi építési szabályzat és az alapvető követelmények, a tevékenységre vonatkozó szakmai szabályok, előírások megsértésével végzik, vagy a tevékenység végzése az életet, az egészséget, a köz- és vagyonbiztonságot veszélyeztető állapotot vagy használatot eredményez.
+(5) Szakszerűtlen a 16. §, a 32. §, a 38/A. §, a 38/C. § és a 38/D. § szerinti tevékenység, valamint a kivitelezői tevékenység, ha
 
-48/A. § (1) Ha az építményt, építményrészt jogszerűtlenül vagy szakszerűtlenül valósították meg, az építésügyi hatóság arra az építtető vagy a tulajdonos kérelme alapján fennmaradási engedélyt ad, ha
+- a) azt – a 33/A. § szerinti építési tevékenység kivételével – a helyi építési szabályzat rendelkezéseitől eltérően végzik,
+- b) a 33/A. § szerinti építési tevékenység esetén a 13. § (2) bekezdésében foglaltaktól eltérően végzik,
+- c) az alapvető követelmények, a tevékenységre vonatkozó szakmai szabályok, előírások megsértésével végzik, vagy
+- d) a tevékenység végzése az életet, az egészséget, a köz- és vagyonbiztonságot veszélyeztető állapotot vagy használatot eredményez.
 
-- a) egyébként az építési engedélyezéshez előírt, a 36. §-ban és az egyéb jogszabályban meghatározott műszaki és egyéb feltételek teljesülnek,
-- b) az építmény, építményrész átalakítással, visszabontással vagy egyéb módon szabályossá tehető,
-- c) azt a műemléki védett érték megőrzése megkívánja, vagy
-- d) a szabálytalanság közérdeket nem sért, vagy az érdeksérelem a hatóság által meghatározott határidőn belül elhárítható.
+48/A. § (1) Ha az építményt, építményrészt jogszerűtlenül vagy szakszerűtlenül valósították meg, az építésügyi hatóság arra az építtető vagy a tulajdonos kérelme alapján – amennyiben az építmény, építményrész fennmaradása nem eredményez az életet, egészséget veszélyeztető használatot vagy állapotot – fennmaradási engedélyt ad, ha
+
+- a) az e törvényben, az egyéb jogszabályban meghatározott műszaki és egyéb feltételek teljesülnek, vagy az építményt, építményrészt építési vagy más tevékenységgel szabályossá teszi, vagy
+- b) az műemlékvédelmi érdeket nem sért.
+
+(1a) Az (1) bekezdés szerint kiadott fennmaradási engedély nem mentesít a 33/A. § (2) és (3) bekezdése rendelkezéseinek alkalmazása alól.
 
 (2) Ha az építményt, építményrészt jogszerűtlenül vagy szakszerűtlenül valósították meg az építésügyi hatóság vagy jogszabályban meghatározott esetekben az építésfelügyeleti hatóság elrendeli:
 
@@ -1506,6 +1525,8 @@ rendelettel állapítsa meg.
 - b) az 57/D. § (1) bekezdésében meghatározott Bizottság működésének rendjét, valamint a Bizottság véleményének kialakítása során irányadó részletes szempontrendszert
 
 rendeletben állapítsa meg.
+
+(1e) Felhatalmazást kap a Kormány arra, hogy a kötelező tervezői művezetés részletes szabályait, ennek keretében a tevékenységre vonatkozó szerződés egyes kötelező tartalmi elemeit (különös tekintettel a szerződés ellenértékére) rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap a miniszter arra, hogy
 
