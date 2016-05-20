@@ -18,7 +18,7 @@ az Országgyűlés a dohánytermék-kiskereskedelem állami monopóliummá téte
 
 ### 1. CÍM — Általános rendelkezések
 
-1. § (1) Dohánytermékek kiskereskedelme Magyarországon kizárólag e törvény rendelkezéseinek betartásával folytatható.
+1. § (1) Dohánytermékek, elektronikus cigaretták és dohányzást imitáló elektronikus eszközök kiskereskedelme Magyarországon kizárólag e törvény rendelkezéseinek betartásával folytatható.
 
 (2) A dohánytermék-kiskereskedelem folytatásakor mindenkor arra kell törekedni, hogy dohánytermék értékesítése a fiatalkorúak elől elzárt módon történjék, illetve dohánytermék a fiatalkorúak számára ne legyen hozzáférhető.
 
@@ -54,8 +54,9 @@ az Országgyűlés a dohánytermék-kiskereskedelem állami monopóliummá téte
   - j) rágógumi, valamint a mentolos cukorka és lapocska,
   - k) tömegközlekedési eszközök vonaljegye (gyűjtőjegye),
   - l) a dohányboltban forgalmazható termékek fogyasztók általi átvételére, szállítására szolgáló csomagolóeszköz, hordtasak vagy hordtáska,
-  - m) jogszabály által meghatározott más termék forgalmazható továbbá,
-  - n) az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatások egyenlegének feltöltésére irányuló szolgáltatás nyújtható;
+  - m) a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvényben meghatározott elektronikus cigaretta, utántöltő flakon és dohányzást imitáló elektronikus eszköz,
+  - n) jogszabály által meghatározott más termék forgalmazható, továbbá,
+  - o) az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatások egyenlegének feltöltésére irányuló szolgáltatás nyújtható;
 - 9. üzlet: kereskedelmi tevékenység folytatása céljából létesített vagy használt épület, illetve önálló rendeltetési egységet képező épületrész, helyiség, ideértve az elsődlegesen raktározás, tárolás célját szolgáló olyan épületet vagy épületrészt is, amelyben kereskedelmi tevékenységet folytatnak;
 - 10. dohánytermék-nagykereskedő(k): a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvényben (a továbbiakban: Jöt.) meghatározott dohánytermék adóraktár engedélyese (gyártója), a dohánytermék importálója, a bejegyzett kereskedő és a dohánytermék jövedéki engedélyes kereskedője azzal, hogy a dohány-kiskereskedelmi ellátó e törvény alkalmazásában a dohánykiskereskedelem-ellátási feladatainak ellátása során akkor sem minősül dohánytermék-nagykereskedőnek, ha egyébként azok bármelyikének tevékenységéhez szükséges vámhatósági engedéllyel is rendelkezik;
 - 11. dohány-kiskereskedelmi ellátó: az a személy, amelyet az állam – ha a dohánykiskereskedelem-ellátási tevékenységet maga látja el – a dohánykiskereskedelem-ellátási feladatok elvégzésének céljára gazdasági társaság formájában létrehozott, vagy amellyel – ha e tevékenységet nem maga látja el – e feladatok elvégzésére koncessziós szerződést kötött;
@@ -197,7 +198,7 @@ a dohánytermékek kiskereskedelmére vonatkozó jogosultságot az állam a rés
 
 ### 1. CÍM — A dohánytermékek értékesítési helye
 
-11. § (1) Ha e törvény kivételt nem tesz, dohánytermék-kiskereskedelem kizárólag dohányboltban folytatható.
+11. § (1) Ha e törvény kivételt nem tesz, dohánytermék-kiskereskedelem, és a 3. § 8. pont m) alpontja szerinti termékek kiskereskedelme kizárólag dohányboltban folytatható.
 
 (2) Az (1) bekezdésben foglaltaktól eltérően dohánytermék-kiskereskedelem más üzletben is folytatható,
 
