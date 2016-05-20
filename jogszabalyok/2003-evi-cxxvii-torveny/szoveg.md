@@ -2560,10 +2560,10 @@ E bekezdés alkalmazása során az adóalany által a tárgyhóban különböző
 
 (2) Fogyasztói csomagolás alatt
 
-- a) a cigaretta esetében a legalább 19, de legfeljebb 50 darab cigarettát tartalmazó fogyasztói csomagot (zsebcsomag),
+- a) a cigaretta esetében a legalább 20, de legfeljebb 25 darab cigarettát tartalmazó fogyasztói csomagot (zsebcsomag),
 - b) a szivar esetében a darabot vagy a dobozt,
 - c) a szivarka esetében a legalább 5 darabot tartalmazó dobozt,
-- d) a fogyasztási dohány esetében a legalább 40 gramm, de legfeljebb 200 gramm – azonban minden esetben tízzel osztható gramm-tömegű – fogyasztási dohányt tartalmazó tasakot vagy dobozt
+- d) a fogyasztási dohány esetében a legalább 30, de legfeljebb 50 gramm – azonban minden esetben tízzel osztható gramm-tömegű – fogyasztási dohányt tartalmazó, téglalap alakú tasakot
 
 kell érteni.
 
@@ -3274,7 +3274,8 @@ a megtérítés időpontjáig eltelt időre számított mindenkori jegybanki ala
 - l) a Tanács 2010/24/EU irányelve (2010. március 16.) az adókból, vámokból, illetékekből és egyéb intézkedésekből eredő követelések behajtására irányuló kölcsönös segítségnyújtásról,
 - m) a Tanács 2011/64/EU irányelve (2011. június 21.) a dohánygyártmányra alkalmazott jövedéki adó szerkezetéről és adókulcsáról.
 - n) a Bizottság 2012/209/EU számú végrehajtási határozata (2012. április 20.) a 2008/118/EK tanácsi irányelv ellenőrzési és szállítási rendelkezéseinek a 2003/96/EK tanácsi irányelv 20. cikkének (2) bekezdésével egyes adalékokra történő alkalmazásáról,
-- o) a Tanács 2013/61/EU irányelve (2013. december 17.) a 2006/112/EK és a 2008/118/EK irányelvnek a francia legkülső régiók és különösen Mayotte vonatkozásában történő módosításáról.
+- o) a Tanács 2013/61/EU irányelve (2013. december 17.) a 2006/112/EK és a 2008/118/EK irányelvnek a francia legkülső régiók és különösen Mayotte vonatkozásában történő módosításáról,
+- p) az Európai Parlament és a Tanács 2014/40/EU irányelve (2014. április 3.) a tagállamoknak a dohánytermékek és kapcsolódó termékek gyártására, kiszerelésére és értékesítésére vonatkozó törvényi, rendeleti és közigazgatási rendelkezései közelítéséről és a 2001/37/EK irányelv hatályon kívül helyezéséről.
 
 122/A. § A törvény 51. § (2) bekezdése tervezetének a műszaki szabványok és szabályok, valamint az információs társadalom szolgáltatásaira vonatkozó szabályok terén információszolgáltatási eljárás megállapításáról szóló – a 98/48/EK európai parlamenti és tanácsi irányelvvel módosított – 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv 8–10. cikke szerinti előzetes bejelentése megtörtént.
 
@@ -3453,6 +3454,12 @@ határozatban állapítja meg az adót.
 (3) A (2) bekezdés szerinti különös szabályok nem érintik az adójegy igénylőjének azon jogát, hogy a 2015. január 1-től hatályos szabályoknak megfelelő termékek szabadforgalomba bocsátásához – az általános szabályok szerint – szivarka adójegyet igényeljen.
 
 128/N. § A 2015. január 1. és 2015. december 31. közötti időszakban előállított magánfőzött párlatra 2015. december 31-ét követően is az előállításkor hatályos szabályokat kell alkalmazni.
+
+128/O. § A 99. § (2) bekezdésében foglaltaktól eltérően dohánygyártmányt a 2016. május 19. napján hatályos szabályoknak megfelelő fogyasztói csomagolásban
+
+- a) 2016. december 31. napjáig lehet gyártani, importálni, bejegyzett kereskedő által fogadni,
+- b) 2017. február 28. napjáig lehet a dohány-kiskereskedelmi ellátó raktárába beszállítani,
+- c) 2017. május 20. napjáig lehet a kiskereskedelmi forgalomban forgalomba hozni.
 
 ### Felhatalmazás
 
