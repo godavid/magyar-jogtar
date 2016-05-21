@@ -9,7 +9,7 @@ Az Országgyűlés– tekintettel a magyar lakosság kedvezőtlen népegészség
 1. § E törvény alkalmazásában
 
 - a) dohánytermék: fogyasztható termék, amely akár csak részben is – géntechnológiával módosított vagy módosítatlan formában – dohányt tartalmaz;
-- b) dohányzás: a dohánytermék, illetve dohányzási célú gyógynövénytermék füstképződéssel járó elégetése;
+- b) dohányzás: a dohánytermék, illetve dohányzási célú gyógynövénytermék elégetése, valamint hevítése
 - c) közforgalmú intézmény: az érintettek számára közfeladatot, illetőleg közérdekű vagy egyéb szolgáltatást, ellátást (a továbbiakban együtt: szolgáltatás) végző természetes vagy jogi személynek, illetőleg jogi személyiség nélküli szervezetnek a szolgáltatás, illetve az azzal összefüggő tevékenység biztosítására szolgáló létesítménye vagy egyéb eszköze, függetlenül attól, hogy az oda történő belépés a nyilvánosság számára teljesen szabad vagy valamely feltétel teljesítéséhez kötött;
 - d) rendezvény: a gyülekezési jogról szóló 1989. évi III. törvény 2. §-ának (1) bekezdésében meghatározott, valamint gazdasági, kulturális, – nem szabadidős jellegű – sport, vallási, érdekvédelmi céllal, legalább három személy egyidejű jelenlétével létrejött szervezett összejövetel, illetve esemény;
 - e) zárt légterű helyiség: valamely műszaki megoldással környezetétől fizikailag lehatárolt létesítmény, eszköz, amelynek a külső környezetből történő folyamatos légcseréje nem, vagy egy oldalának egészét vagy tetejének legfeljebb 1/2-ét kitevő nyílásokkal, nyílászárókkal, vagy mesterséges szellőztető berendezés útján biztosított,
@@ -223,7 +223,7 @@ hozható meg.
 
 (3) Tilos a rádiós médiaszolgáltatásokhoz nyújtott, a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény (a továbbiakban: Reklám tv.) szerinti szponzorálás, amelynek célja, illetve közvetlen vagy közvetett hatása az elektronikus cigaretták és az utántöltő flakonok népszerűsítése.
 
-(4) Tilos a rendezvényekhez és tevékenységekhez, valamint az egyes személyek részére nyújtott a Reklám tv. szerinti szponzorálás, amelynek célja, illetve közvetlen vagy közvetett hatása az elektronikus cigaretták és az utántöltő flakonok népszerűsítése, ha a rendezvény vagy a tevékenység több tagállamot érint, több tagállamban zajlik vagy határokon átnyúló hatással bír.
+(4) Tilos a rendezvényekhez és tevékenységekhez, valamint az egyes személyek részére nyújtott a Reklám tv. szerinti szponzorálás, amelynek célja, illetve közvetlen vagy közvetett hatása az elektronikus cigaretták és az utántöltő flakonok népszerűsítése.
 
 (5) Az elektronikus cigaretták és az utántöltő flakonok tekintetében tilos az Mttv. hatálya alá tartozó audiovizuális kereskedelmi közlemény közzététele.
 
@@ -244,6 +244,8 @@ hozható meg.
 
 7/H. § A 2–4/A. § rendelkezéseit az elektronikus cigaretta és a dohányzást imitáló elektronikus eszköz használatára is alkalmazni kell.
 
+7/I. § Ezen alcím rendelkezéseit a dohányzást imitáló elektronikus eszközre is alkalmazni kell.
+
 ### Záró rendelkezések
 
 8. § (1) Ez a törvény a kihirdetését követő hetedik hónap első napján lép hatályba azzal, hogy a hatálybalépésének napján – érvényes működési engedély alapján – működő vagy folyamatban lévő működési engedélyezési eljárás alapján a működésüket a törvény hatálybalépését követően megkezdő szórakoztató, vendéglátóipari szolgáltatást nyújtó közforgalmú intézmények tekintetében a dohányzási korlátozást, illetőleg a dohányzóhely kijelölésére vonatkozó kötelezettséget 2001. január 1-jétől kell alkalmazni.
@@ -263,7 +265,7 @@ rendeletben határozza meg.
 
 (4b) Felhatalmazást kap a fogyasztóvédelemért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a cigaretta kátránykibocsátásának, nikotinkibocsátásának, szén-monoxid-kibocsátásának mérésére vonatkozó díjakat és a mérés szabályait rendeletben határozza meg.
 
-(4c) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az elektronikus cigaretta és az utántöltő flakon forgalomba hozatalának és az ezzel kapcsolatos változások bejelentésére vonatkozó igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat rendeletben határozza meg.
+(4c) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az elektronikus cigaretta, az utántöltő flakon és a dohányzást imitáló elektronikus eszköz forgalomba hozatalának és az ezzel kapcsolatos változások bejelentésére vonatkozó igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat rendeletben határozza meg.
 
 (5) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
