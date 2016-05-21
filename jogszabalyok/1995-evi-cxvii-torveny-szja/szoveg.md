@@ -3149,6 +3149,8 @@ azzal, hogy a rendelkezés alkalmazásában a munkavállalóval esik egy tekinte
 
 4.29. a Nemzeti Tehetség Program keretében a kiemelkedően tehetséges fiatalok és a kiemelkedő tehetséggondozó magánszemélyek számára pályázatban meghatározott feltételekkel és módon folyósított ösztöndíj.
 
+4.30. a közfoglalkoztatottakat a közfoglalkoztatottak elhelyezkedési juttatásáról szóló kormányrendelet alapján megillető elhelyezkedési juttatás a kifizetés időpontjától függetlenül.
+
 5.
 
 6. A károk megtérülése, a kockázatok viselése körében adómentes:
