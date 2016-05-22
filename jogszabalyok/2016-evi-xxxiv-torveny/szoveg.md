@@ -40,19 +40,7 @@ egyes egészségügyet érintő törvények módosításáról
 
 #### 5. A nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásánakegyes szabályairól szóló 1999. évi XLII. törvény módosítása
 
-30. § A nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvény (a továbbiakban: Nvt.) 1. § b) pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában)
-
-„b) dohányzás: a dohánytermék, illetve dohányzási célú gyógynövénytermék elégetése, valamint hevítése”
-
-31. § Az Nvt. „Az elektronikus cigarettára vonatkozó szabályok” alcíme a következő 7/I. §-sal egészül ki:
-
-„7/I. § Ezen alcím rendelkezéseit a dohányzást imitáló elektronikus eszközre is alkalmazni kell.”
-
-32. § Az Nvt. 8. § (4c) bekezdésében az „és az utántöltő flakon” szövegrész helyébe az „ , az utántöltő flakon és a dohányzást imitáló elektronikus eszköz” szöveg lép.
-
-33. § Hatályát veszti az Nvt. 7/E. § (4) bekezdésében a „ , ha a rendezvény vagy a tevékenység több tagállamot érint, több tagállamban zajlik vagy határokon átnyúló hatással bír” szövegrész.
+30–33. §
 
 #### 6. Az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény módosítása
 
