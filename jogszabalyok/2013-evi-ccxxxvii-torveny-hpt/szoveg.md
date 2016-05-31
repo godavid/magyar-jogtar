@@ -3798,6 +3798,8 @@ időpontját követő napon [az a)–c) pont a továbbiakban együtt: a kártala
 - d) a betét tulajdonosa helyi önkormányzat vagy
 - e) a kártalanítást a fióktelep létesítésének helye szerinti ország betétbiztosítási rendszere fizeti ki a 209. § (9)–(10) bekezdése alapján.
 
+(1c) Ha az OBA nem fizeti ki a kártalanítást a betétesek részére hét munkanapon belül, a természetes személy betétes írásban kérelmet nyújthat be az OBA-hoz a betét sürgős kifizetése érdekében. Az OBA a hitelintézet által a 228. § (8) bekezdésében meghatározottak szerint rendelkezésre bocsátott betétnyilvántartásban szereplő betétes részére a betétnyilvántartásban szereplő betét alapján a sürgős kifizetésre vonatkozó kérelem benyújtásától számított öt munkanapon belül részkifizetést teljesít, amely nem haladhatja meg a mindenkori öregségi nyugdíjminimum négyszeresét. A sürgős kifizetés keretében teljesített kártalanítás összege a teljes kártalanítás összegét csökkenti.
+
 (2) Az OBA legalább két országos napilapban, valamint honlapján közzéteszi a betétesek kártalanításának feltételeit és a lebonyolításával kapcsolatos információkat. Az OBA által közzétett információkat a kártalanítással érintett hitelintézet a honlapján is közzéteszi.
 
 (3) A betétet gyűjtő hitelintézet a névre szóló betét esetén köteles a betétes nevén kívül – a 2. mellékletben felsoroltak közül az OBA előírásai szerint – két további azonosító adatot nyilvántartani, a kártalanításra való jogosultság egyértelmű megállapítása érdekében.
@@ -3972,7 +3974,24 @@ vonatkozásában információt ad.
 
 #### 98. Éves díjfizetési kötelesség
 
-234. § (1) Az OBA tagjainak éves befizetési kötelezettségét úgy kell megállapítani, hogy az figyelembe vegye a hitelintézetnél a tárgyévet megelőző december 31-én fennálló – az OBA által a 212. § és a 213. § szerint biztosított – betétek kártalanítási kötelezettség alá tartozó részének összegét, a hitelintézet önkéntes betétbiztosítási alapban, intézményvédelmi alapban fennálló tagságát, az üzleti ciklus szakaszát, valamint a prociklikus befizetések hatását az éves befizetések összegére és az OBA szabályzata által megállapított egyéb szempontokat. Kiegészítő biztosítás esetén az éves díj megállapításakor figyelembe kell venni a kiegészítő biztosítással érintett betétrész összegét, és a fióktelep székhely országának betétbiztosítási rendszere által nyújtott biztosítást. Az OBA az éves díj megállapítása során figyelembe veheti a külső hitelminősítő intézmény által a hitelintézetre, és annak kötelezettségeire meghatározott minősítéseket.
+234. § (1) Az OBA tagjai éves díjat fizetnek, amely
+
+- a) alapdíjból és
+- b) kockázat alapú változó díjból áll.
+
+(1a) Az OBA tagjai által fizetendő alapdíjat úgy kell megállapítani, hogy az figyelembe vegye a hitelintézetnél a tárgyévet megelőző december 31-én fennálló – az OBA által a 212. § és a 213. § szerint biztosított – betétek kártalanítási kötelezettség alá tartozó részének összegét, valamint a hitelintézet önkéntes betétbiztosítási alapban fennálló tagságát. Kiegészítő biztosítás esetén az éves díj megállapításakor figyelembe kell venni a kiegészítő biztosítással érintett betétrész összegét, és a fióktelep székhely országának betétbiztosítási rendszere által nyújtott biztosítást.
+
+(1b) Az OBA tagjai által fizetendő kockázat alapú változó díj megállapításakor az alábbi szempontokra kell figyelemmel lenni:
+
+- a) a hitelintézet tőkehelyzete,
+- b) a hitelintézet likviditási és finanszírozási helyzete,
+- c) a hitelintézet eszközeinek minősége,
+- d) a hitelintézet egyéb kockázati mutatói, üzleti modellje és stratégiai terve,
+- e) az OBA kártalanítása esetén várható vesztesége.
+
+(1c) A kockázat alapú változó díj megállapításakor figyelembe vehető a hitelintézet 575/2013/EU rendelet 113. cikk (7) bekezdése szerinti intézményvédelmi rendszerben való tagsága és az alacsony kockázatú szektorhoz tartozás az (1b) bekezdés d) pontján belül pótlólagos kockázati elemként.
+
+(1d) A kockázat alapú változó díj megállapításának részletes szabályait az MNB elnöke rendeletben határozza meg.
 
 (2) Az (1) bekezdésben meghatározott módon megállapított éves befizetési kötelezettség nem lehet magasabb, mint a tagintézetnél a tárgyévet megelőző december 31-én meglévő,
 
@@ -4000,6 +4019,8 @@ kártalanítási kötelezettség alá tartozó részének (a továbbiakban: díj
 
 (8a) Ha a (8) bekezdés alapján előírt rendkívüli fizetési kötelezettség veszélyeztetné a hitelintézet azonnali vagy mindenkori fizetőképességét – azaz likviditását vagy a szolvenciáját –, akkor a Felügyelet részben vagy egészben elhalaszthatja a hitelintézet rendkívüli befizetési kötelezettségének elrendelését. A rendkívüli befizetés legfeljebb 6 hónappal halasztható el azzal, hogy a hitelintézet kérelmére egy alkalommal újabb 6 hónappal a halasztás meghosszabbítható.
 
+(8b) Rendkívüli fizetési kötelezettség meghatározásánál ugyanazt a kockázati besorolást kell figyelembe venni, mint a legutóbbi éves díj meghatározásánál.
+
 (9) Ha a kölcsön igénybevételét, illetve kötvény kibocsátását szükségessé tevő káresemény kapcsán az OBA bevételre tesz szert, azt elsősorban a fennálló kölcsön- vagy kötvénytartozás csökkentésére, ezt követően pedig a hitelintézeteket terhelő rendkívüli fizetési kötelezettség mérséklésére, visszafizetésére kell fordítani.
 
 (10) A hitelintézet a végelszámolása vagy felszámolása kezdő évében a végelszámolás vagy felszámolás kezdő napjáig terjedő időszakra vonatkozóan az e §-ban meghatározottak szerint köteles időarányos éves díjat fizetni. A díj vetítési alapja a hitelintézet által a felszámolás vagy végelszámolás elrendelését megelőzően teljesített legutolsó díjfizetésének alapjául szolgáló betétállomány.
@@ -4007,6 +4028,8 @@ kártalanítási kötelezettség alá tartozó részének (a továbbiakban: díj
 234/A. § (1) Az OBA tagjainak éves befizetési kötelezettségét úgy kell megállapítani, hogy az OBA pénzeszközei 2024. július 3-ig elérjék a kártalanítási kötelezettségének hatálya alá tartozó betétállomány 0,8%-át (célszint).
 
 (2) Ha az (1) bekezdésben meghatározott célszint elérését követően kártalanítás kifizetése miatt az OBA pénzeszközei a célszint kétharmadánál alacsonyabb szintre csökkennek, az éves díjfizetési kötelezettséget az OBA-nak úgy kell megállapítania, hogy hat éven belül ismét elérje az (1) bekezdésben meghatározott célszintet.
+
+(3) Az OBA tagjainak éves befizetési kötelezettségének megállapításánál az (1) bekezdésben meghatározott célszint eléréséig az egyenletes elosztásra kell törekedni, figyelembe véve az üzleti ciklus szakaszát, valamint a prociklikus befizetések hatását az éves befizetések összegére és a hitelintézetek pénzügyi helyzetére.
 
 #### 99. A díjfizetés elszámolása
 
@@ -4667,6 +4690,8 @@ vonatkozó részletes szabályokat.
 (6) Felhatalmazást kap az MNB elnöke, hogy a pénzügyi közvetítőrendszer felügyeletével kapcsolatos jogkörében eljárva rendeletben szabályozza a nem teljesítő kitettség és az átstrukturált követelésre vonatkozó prudenciális követelményeket.
 
 (7) Felhatalmazást kap az MNB elnöke, hogy a pénzügyi közvetítőrendszer felügyeletével kapcsolatos jogkörében eljárva rendeletben szabályozza az ügyfél- és partnerminősítés, valamint a fedezetértékelés prudenciális követelményeit.
+
+(8) Felhatalmazást kap az MNB elnöke arra, hogy a pénzügyi közvetítőrendszer felügyeletével kapcsolatos jogkörében eljárva rendeletben állapítsa meg az OBA tagjai által fizetendő kockázat alapú változó díj megállapítására vonatkozó részletes szabályokat.
 
 #### 129. Hatályba léptető rendelkezések
 
