@@ -1356,7 +1356,7 @@ miatt.
 - d) a közösségfejlesztő programok szervezését, valamint egyéni és csoportos készségfejlesztést,
 - e) a tartós munkanélküliek, a fiatal munkanélküliek, az adósságterhekkel és lakhatási problémákkal küzdők, a fogyatékossággal élők, a krónikus betegek, a szenvedélybetegek, a pszichiátriai betegek, a kábítószer-problémával küzdők, illetve egyéb szociálisan rászorult személyek és családtagjaik részére tanácsadás nyújtását,
 - f) a kríziskezelést, valamint a nehéz élethelyzetben élő családokat segítő szolgáltatásokat,
-- g) a szociál- és nyugdíjpolitikáért felelős miniszter által kijelölt településen és fővárosi kerületben működő családsegítést ellátó szolgáltatónak a menedékjogról szóló törvényben meghatározott integrációs szerződésbe foglalt társadalmi beilleszkedés elősegítését.
+- g)
 
 (5)
 
@@ -3185,7 +3185,7 @@ hogy a fenntartó működési engedéllyel rendelkezik.
 
 (8) Ha a működést engedélyező szerv 2013. december 31-éig bejegyzi a szociális szolgáltatót, szociális intézményt (székhelyet, telephelyet) a szolgáltatói nyilvántartásba, azt a 2013. évre járó, a központi költségvetésről szóló törvényben biztosított támogatásokra és más állami támogatásra való jogosultság szempontjából úgy kell tekinteni, mint amely működési engedéllyel rendelkezik. Ha a működést engedélyező szerv 2013. december 31-éig törli a bejegyzett szociális szolgáltatót, szociális intézményt (székhelyet, telephelyet) a szolgáltatói nyilvántartásból, azt a 2013. évre járó, a központi költségvetésről szóló törvényben biztosított támogatásokra és más állami támogatásra való jogosultság szempontjából úgy kell tekinteni, mint amelynek a működési engedélyét visszavonták.
 
-140/V. §
+140/V. § Az egyes migrációs tárgyú és ezekkel összefüggésben más törvények módosításáról szóló 2016. évi XXXIX. törvénnyel hatályon kívül helyezett 64. § (4) bekezdés g) pontjában meghatározottakat a 2016. június 1-jét megelőzően előterjesztett kérelem alapján megkötött integrációs szerződések tekintetében továbbra is biztosítani kell.
 
 140/W. § A 2015. január 1-jét követően megüresedő emelt szintű férőhelyek betöltése esetén a fenntartó dönthet arról is, hogy az emelt szintű férőhelyre nem egyszeri hozzájárulást, hanem helyette belépési hozzájárulást állapít meg. Ebben az esetben a belépési hozzájárulásra vonatkozó szabályokat kell megfelelően alkalmazni. A belépési hozzájárulás alkalmazása egyébként nem érinti a férőhely minősítését, így különösen nem változtatja meg a központi költségvetésről szóló törvény szerinti támogatás mértékét.
 
