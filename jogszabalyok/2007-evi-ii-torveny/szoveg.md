@@ -27,7 +27,7 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
   - dc) eltartott kiskorú gyermeke (ideértve az örökbefogadott és nevelt gyermeket is), aki felett a harmadik országbeli állampolgár szülői felügyeleti jogot gyakorol,
   - dd) házastársának eltartott kiskorú gyermeke (ideértve az örökbefogadott és nevelt gyermeket is), aki felett a házastárs szülői felügyeleti jogot gyakorol;
 - e) kísérő nélküli kiskorú: az a tizennyolcadik életévet be nem töltött harmadik országbeli állampolgár, aki jogszabály vagy szokás alapján felügyeletéért felelős nagykorú személy kísérete nélkül lépett Magyarország területére, vagy a belépést követően maradt felügyelet nélkül, mindaddig, amíg ilyen személy felügyelete alá nem kerül;
-- f) befogadott: aki az állampolgársága – hontalan esetén a szokásos tartózkodási helye – szerinti országba átmenetileg azért nem küldhető vissza, mert ott az Alaptörvény XIV. cikk (2) bekezdésében meghatározott magatartásnak lenne kitéve, és nincs olyan biztonságos harmadik ország, amely befogadja, de nem jogosult sem menekültkénti vagy hontalankénti elismerésre, sem ideiglenes vagy kiegészítő védelemre;
+- f) befogadott: aki a menedékjogról szóló 2007. évi LXXX. törvényben meghatározottak szerinti védelemben részesül;
 - g) úti okmány: Magyarország által az államhatárának átlépésére jogosító okmányként elismert útlevél, igazolvány vagy irat, amely birtokosának személyazonosságát és állampolgárságát (hontalanságát) igazolja;
 - h) fuvarozó: bármely természetes vagy jogi személy, illetve jogi személyiség nélküli szervezet, aki vagy amely hivatásszerűen foglalkozik személyszállítással;
 - i) visszafogadási egyezmény: személyeknek az államhatáron történő átadás-átvételéről, hatósági kísérettel történő átszállításának, illetve átutazásának engedélyezéséről szóló nemzetközi szerződés;
@@ -409,9 +409,9 @@ kíván Magyarország területén tartózkodni.
 
 (5) Az (1) bekezdés d) pontjának hatálya alá tartozó harmadik országbeli állampolgár tartózkodási engedélye csak akkor vonható vissza, illetve a tartózkodási engedélyben meghatározott tartózkodási idő meghosszabbítása csak akkor tagadható meg, ha származási országában, illetve az őt befogadó más államban a család egyesítése, illetve az állami vagy más intézményi gondoskodás biztosított.
 
-(6) A befogadottat megilletik a tartózkodási engedéllyel rendelkezőknek, illetve a befogadottaknak külön törvényben biztosított jogok. A befogadott köteles személyazonosságának megállapítását elősegíteni, de a személyazonosság bizonyításának hiánya miatt a tartózkodási engedély kiadása nem tagadható meg.
+(6)
 
-(7) A befogadott, illetve az (1) bekezdés e) pontja alapján tartózkodási engedéllyel ellátott harmadik országbeli állampolgár, aki emberkereskedelem áldozata, külön jogszabályban meghatározott ellátásra és támogatásra jogosult.
+(7) Az (1) bekezdés e) pontja alapján tartózkodási engedéllyel ellátott harmadik országbeli állampolgár, aki emberkereskedelem áldozata, a jogszabályban meghatározott ellátásra és támogatásra jogosult.
 
 ### Az összevont engedély kiadására és meghosszabbítására vonatkozó szabályok
 
@@ -928,14 +928,7 @@ miatt utasított ki.
 
 (4) A büntetés-végrehajtási bíró eljárásának a kiutasítás végrehajtására halasztó hatálya van.
 
-52/A. § (1) Amennyiben nincs olyan biztonságos ország, amely az érintett harmadik országbeli állampolgárt befogadja, a visszairányítás végrehajtásának vagy a kiutasítás végrehajtásának tilalma esetén az idegenrendészeti hatóság a harmadik országbeli állampolgárt befogadottként ismeri el, és a 29. § (1) bekezdés b) pontja alapján intézkedik a humanitárius tartózkodási engedély kiadásáról.
-
-(2) A befogadottkénti elismerés feltételeinek megszűnése esetén az idegrendészeti hatóság a befogadott státuszt visszavonja.
-
-(3) A befogadott státuszt abban az esetben is vissza kell vonni, ha a harmadik országbeli állampolgár
-
-- a) más jogcímen szerzett tartózkodási jogosultságot, vagy
-- b) a befogadott státusz felülvizsgálatára folytatott eljárás során az eljáró idegenrendészeti hatóság felhívására – a felhívástól számított – három hónapon belül nem jelenik meg az eljáró hatóság előtt.
+52/A. § Ha nincs olyan biztonságos ország, amely az érintett harmadik országbeli állampolgárt befogadja, a visszairányítás végrehajtásának vagy a kiutasítás végrehajtásának tilalma esetén a menekültügyi hatóság a harmadik országbeli állampolgárt befogadottként ismeri el, és a 29. § (1) bekezdés b) pontja alapján intézkedik a humanitárius tartózkodási engedély kiadásáról.
 
 ### Arcképmás és ujjnyomat rögzítése
 
@@ -1607,7 +1600,8 @@ szerinti állam vonatkozásában.
 - n) a helyi önkormányzat hatósági feladatot ellátó szerve és
 - o) az fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala,
 - p) a szabálysértési eljárás alá vont személy személyazonosságának ellenőrzéséhez a szabálysértési, illetve az előkészítő eljárást folytató hatóságok,
-- q) a befogadás során az elítélt személyazonosságának ellenőrzése érdekében a büntetés-végrehajtási intézet
+- q) a befogadás során az elítélt személyazonosságának ellenőrzése érdekében a büntetés-végrehajtási intézet,
+- r) a Menekültügyi, a Migrációs és az Integrációs alapra, valamint a rendőrségi együttműködés, a bűnmegelőzés és a bűnözés elleni küzdelem, valamint a válságkezelés pénzügyi támogatására szolgáló eszközre vonatkozó általános rendelkezések megállapításáról szóló, 2014. április 16-i 514/2014/EU európai parlamenti és tanácsi rendelet 27. cikkéből következően, a támogatások felhasználása ellenőrizhetőségének biztosítása érdekében a 2014–2020 közötti programozási időszakban a Belső Biztonsági Alapból és a Menekültügyi, Migrációs és Integrációs Alapból származó támogatások felhasználásáról szóló kormányrendeletben meghatározott Felelős Hatóság (a továbbiakban: Felelős Hatóság)
 
 részére továbbíthat adatot.
 
@@ -1649,6 +1643,25 @@ részére továbbíthat adatot.
 108. § (1) Az e törvény alapján kezelt adatok statisztikai célra felhasználhatók, és azokról személyazonosításra alkalmatlan módon a központi idegenrendészeti nyilvántartást kezelő szerv statisztikai célra adatokat szolgáltathat.
 
 (2) A 95. § (1) bekezdésben, a 96. § (1) bekezdésben, a 98. § (1) bekezdésben, valamint a 99. § (1) bekezdésében foglalt adatokból a Központi Statisztikai Hivatal részére statisztikai célú adatkezelés érdekében az adatok személyazonosításra alkalmas módon is átadhatók.
+
+108/A. § (1) A Menekültügyi, Migrációs és Integrációs Alap (a továbbiakban: Alap) által finanszírozott intézkedésekben résztvevőkről az 514/2014/EU európai parlamenti és tanácsi rendelet 25. cikk (1) bekezdés a) pontjában meghatározott Felelős Hatóság a támogatások felhasználása ellenőrizhetőségének biztosítása érdekében nyilvántartást vezet.
+
+(2) A nyilvántartás tartalmazza az Alapnak a Menekültügyi, Migrációs és Integrációs Alapból származó támogatások felhasználásáról szóló kormányrendelet szerinti célcsoportjába tartozó személyek alábbi adatait, amelyet az Alap által finanszírozott kedvezményezettek szolgáltatnak:
+
+- a) családi és utónév,
+- b) születési hely,
+- c) születési idő,
+- d) nem,
+- e) állampolgárság,
+- f) Magyarországon való tartózkodás jogcíme,
+- g) ha a célcsoportba tartozó személy különleges bánásmódot igényel, illetve amennyiben ezen belül a célcsoportba tartozó személy kísérő nélküli kiskorú, ennek tényét is,
+- h) a célcsoportba tartozó személy Magyarországon kiállított okmányának száma.
+
+(3) A (2) bekezdés alapján nyilvántartásba vett adatokba az uniós támogatások felhasználásának ellenőrzését végző szerv tekinthet be.
+
+(4) A nyilvántartásban rögzített adatok statisztikai célra felhasználhatók és statisztikai célú felhasználásra – személyazonosításra alkalmatlan módon – átadhatók.
+
+(5) A (2) bekezdés szerinti adatokat az Alap a 2014–2020 közötti európai uniós költségvetési időszakban rendelkezésre álló forrásaira vonatkozó elszámolhatósági időszak végét követő tíz évig kezeli.
 
 ### XI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -1782,7 +1795,7 @@ hatályát veszti.
 - i) a fuvarozóval, valamint a munkáltatóval szemben e törvény alapján kiszabható bírság mértékét és kiszabásának rendjét;
 - j) a kijelölt helyen tartózkodásra kötelezett személyre vonatkozó kötelező magatartási szabályokat;
 - k) a repülőtéri tranzitterületen tartózkodásra kötelezett harmadik országbeli állampolgárok ellátásának szabályait;
-- l) a befogadottak, a közösségi szálláson, illetve befogadó állomáson tartózkodók és az emberkereskedelem áldozatává vált harmadik országbeli állampolgárok ellátásának, támogatásának szabályait;
+- l) a közösségi szálláson, illetve befogadó állomáson tartózkodók és az emberkereskedelem áldozatává vált harmadik országbeli állampolgárok ellátásának, támogatásának szabályait;
 - m) a közösségi szállás létesítésének követelményeit, a közösségi szállás házirendjét;
 - n) a NATO-SOFA Megállapodás hatálya alá tartozó polgári állomány tagjai és a hozzátartozók beutazásának és tartózkodásának részletes szabályait;
 - o) a tagállamok által hozott kiutasítási határozatok elismerésének és végrehajtásának részletes szabályait;
@@ -1874,6 +1887,7 @@ hatályát veszti.
 - j) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i 2007/533/IB tanácsi határozat 38–39. cikkének;
 - k) a személyek határátlépésére irányadó szabályok közösségi kódexének (a továbbiakban: Schengeni határ-ellenőrzési kódex) létrehozásáról szóló 562/2006/EK európai parlamenti és tanácsi rendelet, a Schengeni Megállapodás végrehajtásáról szóló egyezmény, a 810/2009/EK európai parlamenti és tanácsi rendelet, az 1683/95/EK tanácsi rendelet, az 539/2001/EK tanácsi rendelet, valamint a 767/2008/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2013. június 26-i 610/2013/EU európai parlamenti és tanácsi rendelet
 - l) az egy harmadik országbeli állampolgár vagy egy hontalan személy által a tagállamok egyikében benyújtott nemzetközi védelem iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló, 2013. június 26-i 604/2013/EU európai parlamenti és tanácsi rendelet;
-- m) az egy harmadik ország állampolgára által a tagállamok egyikében benyújtott menedékjog iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó szempontok és eljárási szabályok megállapításról szóló 343/2003/EK tanácsi rendelet részletes alkalmazási szabályainak megállapításáról szóló 1561/2003/EK rendelet módosításáról szóló, 2014. január 30-i 118/2014/EU bizottsági végrehajtási rendelet
+- m) az egy harmadik ország állampolgára által a tagállamok egyikében benyújtott menedékjog iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó szempontok és eljárási szabályok megállapításról szóló 343/2003/EK tanácsi rendelet részletes alkalmazási szabályainak megállapításáról szóló 1561/2003/EK rendelet módosításáról szóló, 2014. január 30-i 118/2014/EU bizottsági végrehajtási rendelet,
+- n) a Menekültügyi, a Migrációs és az Integrációs alapra, valamint a rendőrségi együttműködés, a bűnmegelőzés és a bűnözés elleni küzdelem, valamint a válságkezelés pénzügyi támogatására szolgáló eszközre vonatkozó általános rendelkezések megállapításáról szóló, 2014. április 16-i 514/2014/EU európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
