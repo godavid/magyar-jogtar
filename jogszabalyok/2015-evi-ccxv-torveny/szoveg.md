@@ -94,47 +94,11 @@ a pénzügyi közvetítőrendszer egyes szereplőit érintő törvények jogharm
 
 139. §
 
-140. § A Hpt. 217. §-a a következő (1c) bekezdéssel egészül ki:
-
-„(1c) Ha az OBA nem fizeti ki a kártalanítást a betétesek részére hét munkanapon belül, a természetes személy betétes írásban kérelmet nyújthat be az OBA-hoz a betét sürgős kifizetése érdekében. Az OBA a hitelintézet által a 228. § (8) bekezdésében meghatározottak szerint rendelkezésre bocsátott betétnyilvántartásban szereplő betétes részére a betétnyilvántartásban szereplő betét alapján a sürgős kifizetésre vonatkozó kérelem benyújtásától számított öt munkanapon belül részkifizetést teljesít, amely nem haladhatja meg a mindenkori öregségi nyugdíjminimum négyszeresét. A sürgős kifizetés keretében teljesített kártalanítás összege a teljes kártalanítás összegét csökkenti.”
+140. §
 
 141–142. §
 
-143. § (1) A Hpt. 234. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az OBA tagjai éves díjat fizetnek, amely
-
-a) alapdíjból és
-
-b) kockázat alapú változó díjból áll.”
-
-(2) A Hpt. 234. §-a a következő (1a)–(1d) bekezdéssel egészül ki:
-
-„(1a) Az OBA tagjai által fizetendő alapdíjat úgy kell megállapítani, hogy az figyelembe vegye a hitelintézetnél a tárgyévet megelőző december 31-én fennálló – az OBA által a 212. § és a 213. § szerint biztosított – betétek kártalanítási kötelezettség alá tartozó részének összegét, valamint a hitelintézet önkéntes betétbiztosítási alapban fennálló tagságát. Kiegészítő biztosítás esetén az éves díj megállapításakor figyelembe kell venni a kiegészítő biztosítással érintett betétrész összegét, és a fióktelep székhely országának betétbiztosítási rendszere által nyújtott biztosítást.
-
-(1b) Az OBA tagjai által fizetendő kockázat alapú változó díj megállapításakor az alábbi szempontokra kell figyelemmel lenni:
-
-a) a hitelintézet tőkehelyzete,
-
-b) a hitelintézet likviditási és finanszírozási helyzete,
-
-c) a hitelintézet eszközeinek minősége,
-
-d) a hitelintézet egyéb kockázati mutatói, üzleti modellje és stratégiai terve,
-
-e) az OBA kártalanítása esetén várható vesztesége.
-
-(1c) A kockázat alapú változó díj megállapításakor figyelembe vehető a hitelintézet 575/2013/EU rendelet 113. cikk (7) bekezdése szerinti intézményvédelmi rendszerben való tagsága és az alacsony kockázatú szektorhoz tartozás az (1b) bekezdés d) pontján belül pótlólagos kockázati elemként.
-
-(1d) A kockázat alapú változó díj megállapításának részletes szabályait az MNB elnöke rendeletben határozza meg.”
-
-(3) A Hpt. 234. §-a a következő (8b) bekezdéssel egészül ki:
-
-„(8b) Rendkívüli fizetési kötelezettség meghatározásánál ugyanazt a kockázati besorolást kell figyelembe venni, mint a legutóbbi éves díj meghatározásánál.”
-
-144. § A Hpt. 234/A. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) Az OBA tagjainak éves befizetési kötelezettségének megállapításánál az (1) bekezdésben meghatározott célszint eléréséig az egyenletes elosztásra kell törekedni, figyelembe véve az üzleti ciklus szakaszát, valamint a prociklikus befizetések hatását az éves befizetések összegére és a hitelintézetek pénzügyi helyzetére.”
+143–144. §
 
 145. §
 
@@ -142,9 +106,7 @@ e) az OBA kártalanítása esetén várható vesztesége.
 
 148. § (1)–(2)
 
-(3) A Hpt. 290. §-a a következő (8) bekezdéssel egészül ki:
-
-„(8) Felhatalmazást kap az MNB elnöke arra, hogy a pénzügyi közvetítőrendszer felügyeletével kapcsolatos jogkörében eljárva rendeletben állapítsa meg az OBA tagjai által fizetendő kockázat alapú változó díj megállapítására vonatkozó részletes szabályokat.”
+(3)
 
 149. §
 

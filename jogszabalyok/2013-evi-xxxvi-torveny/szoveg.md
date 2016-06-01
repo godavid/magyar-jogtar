@@ -885,12 +885,16 @@ következtében nem egyeznek meg a polgárok személyi és lakcím adatait tarta
 - c) a közügyektől eltiltott,
 - d) a szabadságvesztés-büntetését tölti.
 
-(2) A Nemzeti Választási Iroda elektronikus úton, egyedi informatikai alkalmazás igénybevételével, közvetlen adathozzáféréssel átveszi a polgárok törvényben meghatározott adatait
+(1a) A választójoggal nem rendelkező polgárok nyilvántartása az (1) bekezdésben meghatározott személyek 2/A. melléklet szerinti adatait tartalmazza.
 
-- a) a gondnokoltak nyilvántartásából,
-- b) a bűntettesek nyilvántartásából.
+(2) A választójoggal nem rendelkező polgárok nyilvántartásába történő felvétel, valamint az onnan való törlés céljából
 
-(3) A Nemzeti Választási Iroda a választójoggal nem rendelkező polgárok nyilvántartásának karbantartását a személyazonosító és lakcímadatok tekintetében a polgárok személyi és lakcím adatait tartalmazó nyilvántartásból való rendszeres adatátvétellel biztosítja.
+- a) a gondnokoltak nyilvántartását vezető szerv a gondnokoltak nyilvántartásának törvényben meghatározott adatait az (1) bekezdés a) pontjában foglaltakra tekintettel,
+- b) a bűnügyi nyilvántartó szerv a bűnügyi nyilvántartási rendszer törvényben meghatározott adatait az (1) bekezdés b)–d) pontjában foglaltakra tekintettel
+
+automatikus adattovábbítás útján továbbítja a Nemzeti Választási Iroda számára.
+
+(3) A Nemzeti Választási Iroda az adatok változásának a nyilvántartásban történő feltüntetése céljából a választójoggal nem rendelkező polgárok nyilvántartásának karbantartását a személyiadat- és lakcímnyilvántartás hatálya alá tartozó polgárok személyazonosító és lakcímadatai tekintetében a személyiadat- és lakcímnyilvántartásból való rendszeres adatátvétellel biztosítja.
 
 (4) Ha a polgár választójogosultságát visszanyerte, adatait a választójoggal nem rendelkező polgárok nyilvántartásából törölni kell. A választójoggal nem rendelkező polgárok nyilvántartásából törölt polgár adatait a törléstől számított hat hónapig meg kell őrizni.
 
@@ -2810,6 +2814,30 @@ n) a választókerület és a szavazókör megjelölését,
 o) a külföldön élő, magyarországi lakcímmel nem rendelkező választópolgár központi névjegyzékbe vételének, illetve a 97. § (1) bekezdés b) pontjában meghatározott cselekmény központi névjegyzékben történt rögzítésének dátumát,
 
 p) ha a magyarországi lakcímmel nem rendelkező választópolgár a szavazási levélcsomag személyes átvételét kérte, az átvételre megjelölt település megjelölését.
+
+### 2/A. melléklet a 2013. évi XXXVI. törvényhez
+
+A választójoggal nem rendelkező polgárok nyilvántartásának adattartalma
+
+A választójoggal nem rendelkező polgárok nyilvántartása tartalmazza a polgár
+
+a) nevét,
+
+b) születési nevét,
+
+c) személyi azonosítóját, ha azzal a polgár rendelkezik,
+
+d) magyarországi lakcímét,
+
+e) anyja nevét,
+
+f) születési helyét,
+
+g) születési idejét,
+
+h) aktív, illetve passzív választójoga hiányának tényét és
+
+i) a 98. § (2) bekezdése szerint továbbított adatai adatforrásának megjelölését.
 
 ### 3. melléklet a 2013. évi XXXVI. törvényhez
 

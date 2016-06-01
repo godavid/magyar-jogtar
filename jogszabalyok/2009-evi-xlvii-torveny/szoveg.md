@@ -814,7 +814,9 @@ miatt indítottak büntetőeljárást.
 - a) az arra jogosultnak közvetlen hozzáférést biztosít a nyilvántartott adatokhoz,
 - b) az arra jogosult részére adatigénylés alapján adattovábbítást végez,
 - c) az arra jogosult kérelmére adatot igazol, vagy
-- d) az útlevélhatóságnak a külföldre utazási korlátozás törlése céljából automatikus adattovábbítás alapján adatot továbbít.
+- d) automatikus adattovábbítás útján adatot továbbít
+  - da) az útlevélhatóság részére a külföldre utazási korlátozás törlése céljából,
+  - db) a választójoggal nem rendelkező polgárok nyilvántartását vezető szerv részére a nyilvántartásba történő felvétel, az abban történő módosítás, valamint az onnan való törlés céljából.
 
 (2) A bűnügyi nyilvántartási rendszerben kezelt adatok statisztikai, valamint tudományos kutatási célra – személyazonosításra alkalmatlan módon – átadhatók és felhasználhatók.
 
@@ -870,10 +872,7 @@ miatt indítottak büntetőeljárást.
 - k) befogadás során a terhelt személyazonosságának ellenőrzése céljából a 4. § (2) bekezdés b) pontjában foglalt adatok;
 - l) határ-ellenőrzési feladatai ellátása során a külföldre utazás jogát korlátozó feltételek fennállásának helyszínen történő ellenőrzése céljából a 30/C. § b), c), d), e), f), g), h) és i) pontjában meghatározott adatokat.
 
-(3) A választójoggal nem rendelkező polgárok nyilvántartását vezető szerv közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
-
-- a) a 11. § (1) bekezdés e), f), h) és i) pontjában, a 11. § (2) bekezdés a), d) és e) pontjában meghatározott adatok, továbbá
-- b) a 16. § (1) bekezdés f) és i) pontjában, a 16. § (2) bekezdés a), d) és k) pontjában meghatározott adatok.
+(3)
 
 (4) A köztársasági elnök döntésének előkészítése céljából közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
 
@@ -1099,14 +1098,21 @@ előírja.
 
 (2) A tájékoztatásra irányuló kizárólag elektronikus felületen keresztül, egyedi informatikai alkalmazás igénybevételével benyújtható kérelemben a 74. § (1) bekezdés a)–c) és e) pontjában meghatározott minden adatot fel kell tüntetni.
 
-### Automatikus adattovábbítás a külföldre utazási korlátozás hatálya alatt állók nyilvántartásából
+### Automatikus adattovábbítás a bűnügyi nyilvántartási rendszerből
 
-76. § (1) Ha az érintett személyről a külföldre utazási korlátozás hatálya alatt állók nyilvántartásában a 30/C. § l) pontjában szereplő adat szerepel, a bűnügyi nyilvántartó szerv a külföldre utazási korlátozás hatálya alatt állók nyilvántartásában kezelt adatnak a 30/E. § szerinti törlését megelőzően a külföldre utazási korlátozásra vonatkozó bejegyzés útiokmány-nyilvántartásból történő törlése céljából az útlevélhatóságnak továbbítja:
+76. § (1) Ha az érintett személyről a külföldre utazási korlátozás hatálya alatt állók nyilvántartásában a 30/C. § l) pontjában szereplő adat szerepel, a bűnügyi nyilvántartó szerv a külföldre utazási korlátozás hatálya alatt állók nyilvántartásában kezelt adatnak a 30/E. § szerinti törlését megelőzően a külföldre utazási korlátozásra vonatkozó bejegyzés útiokmány-nyilvántartásból történő törlése céljából az útlevélhatóságnak automatikus adattovábbítás útján továbbítja:
 
 - a) az érintett személyazonosító adatai közül a 4. § (2) bekezdés a) pont aa)–ae) és ag–ah) alpontjában meghatározott adatokat, valamint
 - b) a 30/C. § b), c), d), e) és f) pontjában, i) pont ia), ib) és ic) alpontjában, valamint l) pontjában meghatározott adatokat.
 
 (2) Az útlevélhatóság az automatikus adattovábbítás során megkapott adatokat a külföldre utazási korlátozásra vonatkozó bejegyzés útiokmány-nyilvántartásból történő törlése céljából a törlés bejegyzéséig kezelheti és ezt követően azon adatokat, amelyek a külföldre utazásról szóló 1998. évi XII. törvény 24. § j) pontja alapján az útiokmány-nyilvántartásban nem kezelhetőek, haladéktalanul törli.
+
+(3) Ha a bűntettesek nyilvántartása vagy a hátrányos jogkövetkezmények hatálya alatt álló, büntetlen előéletű személyek nyilvántartása részére az adatközlési kötelezettséget teljesítő szerv valamely személlyel kapcsolatban törvényben meghatározott, a választójogot befolyásoló adatközlést teljesít, a bűnügyi nyilvántartó szerv a választójoggal nem rendelkező polgárok nyilvántartását vezető szerv részére – a nyilvántartásba történő felvétel, az abban történő módosítás vagy az abból történő törlés céljából – automatikus adattovábbítás útján továbbítja
+
+- a) az érintett 4. § (2) bekezdés a) pont aa), ab) és ad)–ai) alpontjában meghatározott adatait, valamint
+- b) azt a tényt, hogy az érintett személy nem rendelkezik aktív vagy passzív választójoggal, illetve az aktív vagy passzív választójogát visszanyerte.
+
+(4) A választójoggal nem rendelkező polgárok nyilvántartását vezető szerv a (3) bekezdés alapján történő automatikus adattovábbítás során megkapott adatokat a választójoggal nem rendelkező polgárok nyilvántartásából való törlés bejegyzéséig kezelheti.
 
 ### V/A. Fejezet — ADATTOVÁBBÍTÁS AZ EURÓPAI UNIÓ TAGÁLLAMAINAK BÍRÓSÁGAI ÁLTAL
 

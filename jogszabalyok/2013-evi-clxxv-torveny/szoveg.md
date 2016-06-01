@@ -43,7 +43,7 @@ a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról
 - c) az ügyészség a gondnokság alá helyezés, annak megszüntetése vagy módosítása, a választójogból való kizárás vagy a választójogból való kizárás megszüntetése iránti per megindításával kapcsolatos feladatai ellátása során a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–g) pontjában szereplő adatokat,
 - d) a közjegyző polgári nemperes eljárás lefolytatása céljából a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–e) pontjában szereplő adatokat,
 - e) az önálló bírósági végrehajtó a bírósági végrehajtási cselekmények ellátása során a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–e) pontjában szereplő adatokat,
-- f) a választójoggal nem rendelkező polgárok nyilvántartását vezető szerv a 3. § (1) bekezdés a), c) és g) pontjában szereplő adatokat,
+- f)
 - g) a gyámhatóság
   - ga) a gondnokok felügyeletével kapcsolatos feladata ellátása során a 3. § (1) bekezdés a) pont aa–ae) alpontjában, b)–e) és g) pontjában szereplő adatokat,
   - gb) a gondnokság alá helyezési per megindítása, a gondnokság felülvizsgálata, a választójogból való kizárás vagy a választójogból való kizárás megszüntetése iránti per megindítása miatt a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–g) pontjában szereplő adatokat,
@@ -52,6 +52,11 @@ a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról
   - hb) a családi jogállás rendezésével kapcsolatos feladatai ellátása céljából a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–e) pontjában szereplő adatokat,
 - i) a járási hivatal szervezeti egységeként működő okmányiroda a közúti közlekedési igazgatási, illetve a személyi okmány ügyintézési eljárásokban a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–e) pontjában szereplő adatokat,
 - j) a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala az egyéni vállalkozói tevékenység ellenőrzésével kapcsolatos hatósági, a közúti közlekedési igazgatási, illetve a személyi okmány ügyintézési eljárásokban a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–e) pontjában szereplő adatokat.
+
+6/A. § Ha a gondnokoltak nyilvántartásába a bíróság valamely személlyel kapcsolatban a 3. § (1) bekezdés g) pontja szerinti adatot jegyez be vagy töröl, a Hivatal elnöke a választójoggal nem rendelkező polgárok nyilvántartását vezető szerv részére – a nyilvántartásba történő felvétel, illetve az abból történő törlés céljából – automatikus adattovábbítás útján továbbítja
+
+- a) az érintett 3. § (1) bekezdés a) pontjában meghatározott adatait,
+- b) azt a tényt, hogy az érintett személy nem rendelkezik választójoggal, illetve a választójogból való kizártsága megszűnt, valamint a 3. § (1) bekezdés c) pontja szerinti adatot.
 
 7. § (1) A gondnokoltak nyilvántartásában szereplő, a 3. § (1) bekezdés c)–e) pontja szerinti adatokról írásbeli kérelemre az kaphat felvilágosítást, aki
 
@@ -142,7 +147,7 @@ a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról
 
 20. § A nyilvántartásokban kezelt adatok statisztikai, valamint tudományos kutatási célra – személyazonosításra alkalmatlan módon – átadhatók és felhasználhatók.
 
-21. § A nyilvántartások adatainak 6. § és 17. § (2) és (3) bekezdése szerinti megismerése és kezelése térítésmentes.
+21. § A nyilvántartások adatainak 6. §, 6/A. §, valamint 17. § (2) és (3) bekezdése szerinti megismerése és kezelése térítésmentes.
 
 22. § (1) Az adatok megismerésére és kezelésére közvetlen hozzáféréssel jogosult szerv nevében a nyilvántartásokból csak az a személy vehet át adatokat, akinek az adatok megismerésére és kezelésére jogosult szerv erre felhatalmazást adott.
 
