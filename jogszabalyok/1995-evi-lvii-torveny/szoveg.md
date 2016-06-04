@@ -281,8 +281,9 @@ kell törekedni.
 - b) gyógyászati, valamint a lakosság ellátását közvetlenül szolgáló termelő- és szolgáltató tevékenységgel járó,
 - c) állatitatási, haltenyésztési,
 - d) természetvédelmi,
-- e) gazdasági,
-- f) egyéb (így például sport, rekreációs, üdülési, fürdési, idegenforgalmi célú)
+- e) öntözési,
+- f) gazdasági,
+- g) egyéb (így például sport, rekreációs, üdülési, fürdési, idegenforgalmi célú)
 
 vízhasználat.
 
@@ -602,7 +603,21 @@ alapján kell kiszámítania.
 
 (2) Új vízjogi engedély csak abban az esetben adható ki, ha az engedélyesek számára az engedélyben meghatározott vízmennyiség biztosítható.
 
-(3) Ha a vízimunka elvégzése, illetve a vízi létesítmény megépítése vagy átalakítása jogerős hatósági engedély nélkül, vagy a jogerős hatósági engedélytől eltérően történt, a létesítő részére az üzemeltetési engedély kiadása megtagadható. Amennyiben a hatóság a vízimunka, vízi létesítmény megvizsgálása után – az eset összes körülményeire is figyelemmel – a létesítő részére a fennmaradási engedélyt utólag megadja, a létesítő vízgazdálkodási bírság fizetésére köteles. A bírság az engedély nélkül létrehozott építmény értékének 80%-áig, engedély nélküli vízimunka vagy vízhasználat esetén 1 000 000 forintig terjedhet. Természetes személy esetében a bírság összege nem haladhatja meg a 300 000 forintot.
+(3) Ha a vízimunka elvégzése, illetve a vízi létesítmény megépítése vagy átalakítása jogerős hatósági engedély nélkül, vagy a jogerős hatósági engedélytől eltérően történt, a létesítő részére az üzemeltetési engedély kiadása megtagadható. Amennyiben a hatóság a vízimunka, vízi létesítmény megvizsgálása után – az eset összes körülményeire is figyelemmel – a létesítő részére a fennmaradási engedélyt utólag megadja, egyidejűleg vízgazdálkodási bírság megfizetését kell előírni. A bírság az engedély nélkül létrehozott építmény értékének 80%-áig, engedély nélküli vízimunka vagy vízhasználat esetén 1 000 000 forintig terjedhet. Természetes személyre a kiszabott bírság összege nem haladhatja meg a 300 000 forintot.
+
+(4) A vízgazdálkodási bírságot – az (5) bekezdésben foglalt kivétellel – a vízimunka, vízi létesítmény kivitelezőjével szemben kell kiszabni.
+
+(5) A vízgazdálkodási bírságot a vízimunka, vízilétesítmény létesítőjével szemben kell kiszabni, ha
+
+- a) a kivitelező kétséget kizáróan bizonyítja, hogy a jogellenes létesítésért való felelősség nem őt terheli, vagy
+- b) a kivitelező személye nem ismert.
+
+(6) Nem szabható ki vízgazdálkodási bírság
+
+- a) a vizeket érő balesetszerű szennyezés azonnali elhárítása érdekében szükséges, valamint
+- b) a vizek kártételei elleni védekezés szabályairól szóló kormányrendelet szerinti rendkívüli védekezés műszaki feladataihoz kötődő, vízjogi engedély hiányában létesített vízilétesítmények, vagy végzett vízimunka esetében, ha az egyébként engedélyezhető lett volna.
+
+(7) Mentesül a vízgazdálkodási bírság fizetése alól az a létesítő, aki a vízgazdálkodásról szóló 1995. évi LVII. törvény módosításáról szóló 2016. évi XLI. törvény hatálybalépését megelőzően vízjogi engedély nélkül létesített vízkivételt biztosító vízilétesítményt, ha annak vízjogi fennmaradási engedélyezési eljárását 2018. december 31-ig kérelmezi, és az engedély megadásának feltételei fennállnak.
 
 30. § (1) A vízjogi engedélyt (ideértve az elvi engedélyt is) — a külön jogszabályban meghatározott feltételek, továbbá események bekövetkezése esetén — hivatalból vagy kérelemre a hatóság módosíthatja, szüneteltetheti és vissza is vonhatja.
 
@@ -622,11 +637,11 @@ indokolja.
 
 31. § A vízügyi hatóság által lefolytatott egyes közigazgatási eljárásokért (ideértve a szakhatósági eljárásokat, az igazgatási jellegű szolgáltatásokat, továbbá a bejelentéseket) igazgatási szolgáltatási díjat kell fizetni.
 
-31/A. § A vízügyi igazgatási szerveknek – a környezetvédelmi, természetvédelmi, valamint a vízügyi hatósági eljárások igazgatási szolgáltatási díjairól szóló rendeletben meghatározott tevékenységek esetében – nem kell igazgatási szolgáltatási díjat fizetni.
+31/A. § A vízügyi igazgatási szerveknek – a vízügyi hatósági eljárások igazgatási szolgáltatási díjairól szóló rendeletben meghatározott tevékenységek esetében – nem kell igazgatási szolgáltatási díjat fizetni.
 
 32. § Ha a vizek mennyiségi védelme, a vizek kártételeinek elhárítása, a károk megelőzése vagy a jogszerűen gyakorolt vízhasználat azt egyébként szükségessé teszi, a hatóság a vízhasználót, vagy azt, aki a vízviszonyokba jogellenesen beavatkozott a káros, illetve a károsodás veszélyével fenyegető állapot megszüntetésére, a szükséges vízimunka elvégzésére vagy meghatározott módon történő gyakorlására kötelezheti.
 
-32/A. (1) Aki a 29. § (3) bekezdésében foglaltakon túl jogszabályban, hatósági határozatban vagy közvetlenül alkalmazandó közösségi jogi aktusban szereplő vízgazdálkodási előírást megszeg, a jogsértő magatartás súlyához igazodó, legfeljebb 1 000 000 forint összegű vízgazdálkodási bírságot köteles fizetni. Természetes személy esetében a bírság összege nem haladhatja meg a 300 000 forintot.
+32/A. (1) Aki a 29. § (3) bekezdésében foglaltakon túl jogszabályban, hatósági határozatban vagy közvetlenül alkalmazandó közösségi jogi aktusban szereplő vízgazdálkodási előírást megszeg, ideértve a vízgazdálkodási adatszolgáltatási, nyilvántartás-vezetési kötelezettséget is, a jogsértő magatartás súlyához igazodó, legfeljebb 1 000 000 forint összegű vízgazdálkodási bírságot köteles fizetni. Természetes személyre a kiszabott bírság összege nem haladhatja meg a 300 000 forintot.
 
 (2) A behajtott vízgazdálkodási bírság a központi költségvetés bevétele.
 
@@ -636,7 +651,7 @@ indokolja.
 
 33/A. § A vízügyi hatóság jogosult – a természeti és a környezeti veszélyeztetettség megelőzése (így a nagyvízi meder vízszállító képességének megőrzése, az árvizek levezetésének biztosítása) érdekében – a nagyvízi mederben telekalakítási, illetőleg építési tilalmat elrendelni.
 
-33/B. § (1) A vízügyi hatósági eljárásokban a döntést a kérelem megérkezését követő naptól számított 45 napon belül kell meghozni úgy, hogy az eljárásba bevont szakhatóságok a megkeresést követő 21 napon belül adják meg állásfoglalásukat.
+33/B. § (1) A vízügyi hatósági eljárásokban a döntést a kérelem megérkezését követő naptól számított 45 napon belül kell meghozni , a vízügyi eljárásba bevont szakhatóság, valamint a vízügyi hatóság, mint szakhatóság pedig a megkeresést követő 21 napon belül adják meg állásfoglalásukat.
 
 (2) A vízügyi hatósági eljárásokban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
 
@@ -670,6 +685,11 @@ indokolja.
 
 (7) Az intézőbizottság és az ellenőrző bizottság elnökét és tagjait – az alakuló taggyűlés kivételével – a taggyűlés választja meg. Az intézőbizottság elnöke a víziközmű társulat elnöke.
 
+(7a) Nem választható az intézőbizottság, valamint az ellenőrző bizottság tagjává és elnökévé, aki
+
+- a) a beruházással érintett önkormányzat alkalmazottja, tisztségviselője, valamint ezeknek a Polgári Törvénykönyv szerinti közeli hozzátartozója,
+- b) a beruházás kivitelezésében közreműködő vállalkozó vagy vállalkozás vezető tisztségviselője.
+
 (8) Az intézőbizottság és az ellenőrző bizottság ügyrendjét maga állapítja meg.
 
 37. § (1) Víziközmű társulat csak víziközmű társulattal egyesülhet, víziközmű társulat csak víziközmű társulatokká válhat szét. Víziközmű társulat átalakulással egyéb módon nem jöhet lére.
@@ -680,25 +700,29 @@ indokolja.
 
 (4) Ha a víziközmű társulat közfeladatát teljesítette, a vízgazdálkodási társulatokról szóló kormányrendelet szerinti elszámolási eljárásra, ha a közfeladat teljesítése nélkül jogutód nélkül megszűnik, a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény szerinti végelszámolásra kerül sor.
 
+(5) Az elszámolási eljárás keretében a víziközmű társulatnak az alapszabályban foglaltak szerint el kell számolnia a működésére fordított összeggel, valamint a tagok vonatkozásában a beszedett érdekeltségi hozzájárulással, figyelembe véve az időközben elnyert önerő támogatást.
+
 ### Víziközmű társulat
 
-38. § A víziközmű társulat közfeladatként a település, az együttesen ellátható települések belterületi, illetve lakott területi részének közműves vízellátását, szennyvízelvezetését, szennyvíztisztítását, a belterületi vízrendezést és csapadékvíz elvezetést szolgáló vízilétesítményeket hoz létre, illetve fejleszt.
+38. § A víziközmű társulat közfeladatként kizárólag a település, vagy több település esetén az együttesen ellátható települések belterületi, illetve lakott területi részének közműves vízellátását, szennyvízelvezetését, szennyvíztisztítását, a belterületi vízrendezést és csapadékvíz-gazdálkodást szolgáló vízilétesítményeket hoz létre, illetve fejleszt. A víziközmű társulat az e törvényben meghatározott közfeladatán és az ahhoz kapcsolódó helyreállítási munkákon kívül egyéb tevékenységet nem végezhet.
 
 39. § (1) A víziközmű társulat törvényességi felügyeletét a cégbíróság látja el. A cégbíróságnak a víziközmű társulattal kapcsolatos eljárására a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény előírásait kell alkalmazni.
 
-(2) A víziközmű társulat szakmai ellenőrzését a társulat székhelye szerinti vízügyi igazgatási szerv gyakorolja.
+(2) A víziközmű társulatnak a 38. § szerinti közfeladat teljesítésére irányuló szakmai ellenőrzését a társulat székhelye szerinti vízügyi igazgatási szerv látja el.
 
 (3) A vízügyi igazgatási szerv a szakmai ellenőrzés keretében
 
-- a) tagja a szervező bizottságnak és nyomon követi annak munkáját, továbbá részt vesz a taggyűlésen,
-- b) a víziközmű, illetve a belterületi vízrendezést és csapadékvíz elvezetést szolgáló vízilétesítmény létrehozásával, illetve a fejlesztés szükségességével kapcsolatban előzetesen nyilatkozik, hogy a tevékenység mennyiben jelenti a 38. §-ban foglalt közfeladat ellátását, továbbá javaslatot adhat a víziközmű társulat által megvalósítandó közcélú vízilétesítmény tervezéséhez és a kivitelezés ütemezéséhez,
-- c) közvetlenül kezdeményezi a víziközmű társulat működésével kapcsolatban feltárt szakmai hiányosságok megszüntetését,
-- d) figyelemmel kíséri a 38. § szerinti közfeladat teljesítésének végrehajtását, valamint a végrehajtást követően az elszámolási eljárás lefolytatását,
-- e) a víziközmű társulattól a d) ponthoz kapcsolódóan személyes adatot nem tartalmazó adatszolgáltatást kérhet.
+- a) tagja a szervezőbizottságnak és nyomon követi annak munkáját, továbbá részt vesz a taggyűlésen,
+- b) a víziközmű, valamint a belterületi vízrendezést és csapadékvíz-elvezetést szolgáló vízilétesítmény létrehozásával, illetve a fejlesztés szükségességével kapcsolatban előzetesen nyilatkozik, hogy a tevékenység mennyiben jelenti a 38. §-ban foglalt közfeladat ellátását, továbbá javaslatot adhat a víziközmű társulat által megvalósítandó közcélú vízilétesítmény tervezéséhez és a kivitelezés ütemezéséhez,
+- c) kezdeményezi a víziközmű társulat működésével kapcsolatban feltárt szakmai hiányosságok megszüntetését,
+- d) figyelemmel kíséri a 38. § szerinti közfeladat teljesítésének végrehajtását,
+- e) a víziközmű társulattól a d) ponthoz kapcsolódóan személyes adatot nem tartalmazó adatszolgáltatást kérhet,
+- f) vizsgálja a víziközmű társulati tevékenység műszaki előkészítésének folyamatát, ezen belül az engedélyezési és kiviteli terveket (műszaki dokumentációkat),
+- g) értékeli és ellenőrzi a víziközmű társulat által megvalósítandó fejlesztéseket, terveket.
 
-(4) Ha a vízügyi igazgatási szerv a (3) bekezdés szerinti szakmai ellenőrzés során jogszabályban vagy hatósági határozatban foglalt szakmai előírások megsértését, vagy hibás gyakorlat folytatását észleli, felhívja a víziközmű társulatot a jogsértés vagy hibás gyakorlat megszüntetésére. Az érintett a felhívásban foglaltakat köteles megvizsgálni és a megadott határidőn belül az annak alapján tett intézkedésről vagy egyet nem értéséről a vízügyi igazgatási szervet tájékoztatni. Ha a víziközmű társulat a megadott határidőn belül a jogsértést vagy hibás gyakorlatot nem szünteti meg, a vízügyi igazgatási szerv a jogszabálysértő állapot megszüntetése érdekében kezdeményezi a vízügyi hatóságnál, illetve a fővárosi, megyei kormányhivatalnál a feladat- és hatáskörébe tartozó hatósági eljárás megindítását.
+(4) Ha a vízügyi igazgatási szerv a (3) bekezdés szerinti szakmai ellenőrzés során szakmai hiányosságot, szabálytalanságot tapasztal, felhívja a víziközmű társulatot a hiányosság, szabálytalanság megszüntetésére. Az érintett a felhívásban foglaltakat köteles megvizsgálni és a megadott határidőn belül az annak alapján tett intézkedésről vagy egyet nem értéséről a vízügyi igazgatási szervet tájékoztatni. Ha a víziközmű társulat a megadott határidőn belül a hiányosságot, szabálytalanságot nem szünteti meg, a vízügyi igazgatási szerv a jogszabálysértő állapot megszüntetése érdekében kezdeményezi a vízügyi hatóságnál, illetve a fővárosi és megyei kormányhivatalnál a feladat- és hatáskörébe tartozó hatósági eljárás megindítását.
 
-(5) A víziközmű társulat működésével kapcsolatos panaszok és közérdekű bejelentések esetében a feladat- és hatáskörét érintően az illetékes vízügyi hatóság jár el a vízügyi igazgatási szerv bevonásával.
+(5) A víziközmű társulat működésével kapcsolatos panaszok és közérdekű bejelentések esetében a feladatkörét érintően a működési területével érintett vízügyi igazgatási szerv jár el, és a (3) bekezdés szerinti szakmai ellenőrzés elvégzésére, valamint a (4) és (6) bekezdés szerinti intézkedések megtételére jogosult.
 
 (6) Ha a vízügyi igazgatási szerv a (3) bekezdés szerinti szakmai ellenőrzés során a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvényben, az alapszabályban vagy a belső szabályzatban foglalt – a (4) bekezdés hatálya alá nem tartozó – előírás megsértését észleli, tizenöt napon belül kezdeményezi a cégbíróságnál a törvényességi felügyeleti eljárás lefolytatását.
 
@@ -752,6 +776,13 @@ indokolja.
 (6) Az alapszabály módosításához, a víziközmű társulat megszüntetéséhez, más víziközmű társulattal történő egyesüléséhez, illetve szétválásához a taggyűlés több mint 50%-ának szavazatával meghozott határozatára van szükség.
 
 (7) Ha a taggyűlés nem határozatképes, az első üléstől számított 8 napon belüli időpontra összehívott második ülés az eredeti napirenden szereplő ügyekben a megjelentek számára és az érdekeltségi arányra tekintet nélkül határozatképes.
+
+(8) A víziközmű társulat érdekeltségi egységei számának megváltoztatásához az alapszabály módosítása szükséges.
+
+(9) Ha
+
+- a) az érdekeltségi területen belül az érdekeltségi egységek számában következik be változás, a módosításra a (6) bekezdés az irányadó, vagy
+- b) az érdekeltségi területhez újabb terület kíván csatlakozni, ahhoz a víziközmű társulat meglévő tagjai több mint 50%-ának hozzájárulása, és a csatlakozni kívánó érdekeltségi egységek tagjai 2/3-ának elhatározása a víziközmű társulathoz való csatlakozásra és részükről az alapszabály ennek megfelelő módosítása szükséges, valamint az újonnan csatlakozó érdekeltségi egységek tagjai több mint felének el kell fogadnia a már megválasztott ügyvezetőt és ellenőrző szerveket.
 
 43. § A víziközmű társulatra e törvény eltérő rendelkezése hiányában a gazdasági társaságokról szóló törvénynek a gazdasági társaságokra vonatkozó közös szabályait kell alkalmazni a víziközmű társulat sajátosságainak figyelembevételével.
 
@@ -870,7 +901,7 @@ indokolja.
 
 44/J. § (1) Ha az ingatlantulajdonos vagy a közszolgáltató a nem közművel összegyűjtött háztartási szennyvízzel kapcsolatos tevékenységét jogszabálytól vagy a bejelentésben foglaltaktól eltérő módon végzi, közszolgáltatási bírságot köteles fizetni.
 
-(2) A közszolgáltatási bírságot a vízügyi hatóság szabja ki.
+(2) A közszolgáltatási bírságot a vízügyi hatóság szabja ki a jegyző kezdeményezése alapján.
 
 (3) Az (1) bekezdésben meghatározott cselekmény elkövetésétől számított öt éven túl bírság kiszabására nincs lehetőség, kivéve, ha a cselekmény a jogszerűtlen állapot fenntartásával valósul meg. Ebben az esetben az elévülés mindaddig nem kezdődik meg, amíg a jogszerűtlen állapot fennáll. A bírság kiszabására a vízügyi hatóságnak a cselekményről való tudomásszerzésétől számított egy éven belül van lehetősége.
 
@@ -934,9 +965,9 @@ rendeletben történő megállapítására.
 - i) a fúrt kutakra vonatkozó vízjogi engedélyezési eljárás szabályainak;
 - j) egyes kiemelt jelentőségű vízilétesítmények rendszeres műszaki megfigyelésének;
 - k) a vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó részletes szabályoknak;
-- l) a vízkészletjárulék kiszámításának, a számításnál alkalmazandó szorzószámoknak és a befizetés rendjének;
+- l) a vízkészletjárulék kiszámításának, a 15/C. § (1a) bekezdésére alapított kedvezményeknél a mérlegelési szempontoknak, a számításnál alkalmazott szorzószámoknak és a befizetés rendjének;
 - m) az igazgatási szolgáltatási díj fizetésére kötelezett eljárások, a vízügyi igazgatási szervek díjfizetési mentességével érintett eljárások, igazgatási jellegű szolgáltatások és bejelentések körének, továbbá a fizetendő díj mértékének, valamint a fizetésre vonatkozó egyéb szabályoknak az adópolitikáért felelős miniszterrel egyetértésben;
-- n) az országos árvízi kockázatkezelési tervnek – a helyi önkormányzatokért felelős, a területfejlesztésért felelős, a területrendezésért felelős, a földügyért felelős, a közlekedésért felelős miniszterrel egyetértésben –;
+- n)
 - o)
 - p) a távlati vízbázisok megnevezésének, valamint az egyes távlati vízbázisokkal érintett települések jegyzékének
 
@@ -949,6 +980,8 @@ rendeletben történő megállapítására.
 (10) A 15. § (7) bekezdése szerinti rendelkezést legkésőbb 2010. december 22-ig kell végrehajtani.
 
 (11) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a vízügyi hatóságot vagy hatóságokat, valamint a vízügyi igazgatási szervet vagy szerveket.
+
+(12) Felhatalmazást kap a települési önkormányzat, hogy – amennyiben a beruházás műszaki átadása már megtörtént – a víziközmű beruházással érintett területre kiterjedő hatállyal önkormányzati rendeletben állapítsa meg az utólagos csatlakozás műszaki és pénzügyi feltételeit, valamint az utólagos csatlakozásért fizetendő hozzájárulás mértékét. Az önkormányzati rendeletben fizetési kötelezettség nem írható elő abban az esetben, ha az érintett érdekeltségi egység után társulati érdekeltségi hozzájárulás már megállapításra került, de annak befizetése nem történt meg.
 
 45/A. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
@@ -971,7 +1004,7 @@ rendeletben történő megállapítására.
 
 (2) Az (1) bekezdés szerinti üzemeltetési szerződés megkötése és a szerződés hatálybalépése között legfeljebb három hónap időtartamot kell biztosítani, amely alatt a vízügyi igazgatási szerv a vízfolyás és a csatorna üzemeltetésre, fenntartásra történő átvételét előkészíti.
 
-45/F. § (1) Ha a vízügyi igazgatási szerv a 45/D. § (2) bekezdés b) pontja szerinti vizsgálat eredményeképpen megállapítja, hogy a belvízelvezetést vagy öntözővíz-továbbítást akadályozó vízfolyás- vagy csatornaszakasz átvétele szükséges, kezdeményezi a vízügyi hatóságnál magának üzemeltetőként, fenntartóként történő kijelölését.
+45/F. § (1) Ha a vízügyi igazgatási szerv a szakmai vizsgálat eredményeképpen megállapítja, hogy a belvízelvezetést vagy öntözővíz-továbbítást akadályozó vízfolyás- vagy csatornaszakasz átvétele szükséges, kezdeményezi a vízügyi hatóságnál magának üzemeltetőként, fenntartóként történő kijelölését.
 
 (2) Ha az üzemeltetési szerződés megkötésére az (1) bekezdés szerinti kijelölési kezdeményezést követően kerül sor, a vízügyi igazgatási szerv a kijelölés iránti kérelmét visszavonja és a vízügyi hatóság az eljárást megszünteti.
 
@@ -1054,6 +1087,7 @@ E törvény alkalmazásában
 - 41. mezőgazdasági vízszolgáltatás: a mező- és erdőgazdasági művelés alatt álló területek öntözését, a halastavak és egyéb mezőgazdasági vízhasználat vízellátását szolgáló, továbbá a mezőgazdasági vízszolgáltatási rendszerhez kapcsolódó, egyéb célú vízigények kielégítésére irányuló tevékenység.
 - 42. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet;
 - 43. árvízi lefolyási sáv: a nagyvízi meder azon része, amely az árvíz és a jég elvezetésében részt vesz, mely lehet elsődleges, másodlagos és átmeneti lefolyási sáv.
+- 44. ökológiai vízhasználat: a természeti rendszerek fennmaradásához, megóvásához szükséges vízmennyiség igénybevétele.
 
 ### 2. számú melléklet az 1995. évi LVII. törvényhez
 

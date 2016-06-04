@@ -828,24 +828,22 @@ szerzett végzettség.
 
 #### 26. A könyvvizsgáló
 
-70. § (1) A biztosítónak vagy a viszontbiztosítónak könyvvizsgálót kell választania.
+70. § (1) A biztosítónak vagy a viszontbiztosítónak – a legfőbb szerv döntése alapján – könyvvizsgálót kell megbíznia.
 
-(2) A biztosító vagy a viszontbiztosító könyvvizsgálói feladatok ellátására kizárólag olyan bejegyzett könyvvizsgálót választhat, aki
+(2) A biztosító vagy a viszontbiztosító könyvvizsgálói feladatok ellátására kizárólag olyan bejegyzett könyvvizsgálót bízhat meg, aki
 
 - a) biztosítási vagy viszontbiztosítási és az 57. § (1) bekezdés a) és b) pontjában meghatározott feltételeknek megfelelő aktuáriusi szakértelemmel és gyakorlattal rendelkezik, ez utóbbi hiánya esetén az e feltételnek megfelelő aktuáriust köteles foglalkoztatni;
 - b) nem áll a biztosító vagy a viszontbiztosító minősített befolyással rendelkező tulajdonosával munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban, vagy olyan könyvvizsgálói társasággal munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban, amelynek a tulajdonosa a biztosító vagy a viszontbiztosító minősített befolyással rendelkező tulajdonosa;
 - c) nem rendelkezik a biztosítóban vagy a viszontbiztosítóban sem közvetlen, sem közvetett tulajdonnal;
 - d) biztosítói minősítéssel rendelkezik.
 
-(3) A biztosító vagy a viszontbiztosító természetes személy könyvvizsgálójának megbízatása legfeljebb öt évig tarthat, és az nem hosszabbítható meg. A könyvvizsgálói társaság által alkalmazott vagy megbízott könyvvizsgáló legfeljebb öt évig láthat el könyvvizsgálói feladatokat ugyanannál a biztosítónál.
-
-(4) A könyvvizsgáló megbízatásának megszűnését követő két év eltelte után a könyvvizsgáló ismételten megválasztható. A könyvvizsgálói társaság által alkalmazott vagy megbízott könyvvizsgáló megbízatásának lejártát követő két év elteltével a könyvvizsgálói feladatokat ugyanannál a biztosítónál ismételten elláthatja.
+(3)–(4)
 
 (5) A biztosító vagy a viszontbiztosító által megbízott természetes személy könyvvizsgáló egyidejűleg legfeljebb hat biztosítónál és viszontbiztosítónál láthatja el a könyvvizsgálói feladatokat, és a biztosítótól vagy a viszontbiztosítótól származó jövedelme (bevétele) nem haladhatja meg éves jövedelmének (bevételének) harminc százalékát. Az egy tulajdonosi csoportba tartozó hitelintézetektől, pénzügyi vállalkozásoktól, befektetési vállalkozásoktól, befektetési alapkezelőtől, a tulajdonosi csoportba tartozó befektetési alapkezelő által kezelt befektetési alaptól, valamint biztosítótól vagy a viszontbiztosítótól származó összesített jövedelme (bevétele) nem haladhatja meg éves jövedelmének (bevételének) hatvan százalékát.
 
 (6) A biztosító vagy a viszontbiztosító által megbízott könyvvizsgáló társaságon belül a könyvvizsgáló egyidejűleg legfeljebb hat biztosítónál és viszontbiztosítónál láthatja el a könyvvizsgálói feladatokat, és a könyvvizsgáló társaság biztosítótól vagy a viszontbiztosítótól származó bevétele nem haladhatja meg éves nettó árbevételének harminc százalékát. A könyvvizsgáló társaságnak az egy tulajdonosi csoportba tartozó hitelintézetektől, pénzügyi vállalkozásoktól, befektetési vállalkozásoktól, befektetési alapkezelőtől, a tulajdonosi csoportba tartozó befektetési alapkezelő által kezelt befektetési alaptól, valamint biztosítótól vagy a viszontbiztosítótól származó összesített bevétele nem haladhatja meg éves nettó bevételének ötven százalékát.
 
-(7) A biztosító vagy a viszontbiztosító köteles könyvvizsgálójának megbízatása megszűnésétől számított két hónapon belül új könyvvizsgálót választani.
+(7) A biztosító vagy a viszontbiztosító köteles könyvvizsgálójának megbízatása megszűnésétől számított két hónapon belül – a legfőbb szerv döntése alapján – új könyvvizsgálót megbízni.
 
 71. § (1) A könyvvizsgáló köteles a biztosító vagy a viszontbiztosító első számú vezetőjét haladéktalanul tájékoztatni, ha e törvény vagy a biztosítási tevékenységre vonatkozó jogszabályok megsértését észleli, így különösen, ha a biztosítástechnikai tartalékok mértéke vagy eszközfedezete nem kielégítő.
 
@@ -1409,19 +1407,29 @@ az e szolgáltatások tekintetében képzett biztosítástechnikai tartalékokat
 
 #### 43. Auditbizottságra vonatkozó eltérő szabályok
 
-116. § (1) A közérdeklődésre számot tartó, zártkörűen működő biztosító és viszontbiztosító részvénytársaságnál legalább háromtagú auditbizottságot kell létrehozni, amelynek tagjait az igazgatóság vagy a felügyelőbizottság tagjai közül választja a legfőbb szerv.
+116. § (1) A közérdeklődésre számot tartó, zártkörűen működő biztosító és viszontbiztosító részvénytársaságnál – a (7) bekezdésben meghatározott feladatok ellátására – legalább háromtagú auditbizottságot kell létrehozni, amelynek tagjait a felügyelőbizottság, illetve az igazgatóság tagjai közül választja a legfőbb szerv.
 
-(2) Az auditbizottság legalább egy tagjának függetlennek kell lennie és számviteli vagy könyvvizsgálói szakképzettséggel kell rendelkeznie.
+(2) Az auditbizottság elnökét a saját tagjai közül választja vagy azt a felügyelőbizottság jelöli ki az auditbizottság tagjai közül.
 
-(3) Függetlennek minősül az auditbizottság tagja, ha a biztosítóval vagy a viszontbiztosítóval az igazgatósági, felügyelőbizottsági tagságán kívül más jogviszonyban nem áll, és a tagságért járó díjazáson felül a biztosítótól vagy a viszontbiztosítótól más javadalmazásban nem részesül, továbbá nem közeli hozzátartozója a biztosító és a viszontbiztosító vezető állású személyének vagy egyéb vezetőjének.
+(3) Az auditbizottság legalább egy tagjának számviteli vagy könyvvizsgálói szakképzettséggel kell rendelkeznie.
 
-(4) Az (1)–(2) bekezdésben foglaltakat nem kell alkalmazni, ha a biztosító és a viszontbiztosító rendelkezik olyan testülettel, amely megfelel az (1)–(2) bekezdésben foglalt feltételeknek, és a testület ellátja a Ptk. 3:291. § (1) bekezdésében meghatározott feladatokat.
+(4) Az (1) bekezdésben foglaltakat nem kell alkalmazni, ha a biztosító vagy a viszontbiztosító csoportfelügyelet alatt áll, és a magyarországi székhelyű anyavállalatának auditbizottsága a biztosító vagy a viszontbiztosító vonatkozásában is ellátja a (7) bekezdésben meghatározott feladatokat.
 
-(5) A (4) bekezdésben meghatározott esetben a biztosító és a viszontbiztosító a saját honlapján nyilvánosságra hozza, hogy melyik testület látja el a (3) bekezdésben foglaltakat, továbbá a testület összetételét.
+(5) Az (1) bekezdésben foglaltakat nem kell alkalmazni, ha a biztosító és a viszontbiztosító rendelkezik olyan testülettel, amely megfelel az (1)–(3) bekezdésben foglalt feltételeknek, és a testület ellátja a (7) bekezdésben meghatározott feladatokat.
 
-117. § (1) A nyilvánosan működő biztosító és viszontbiztosító részvénytársaságnak nem kell a Ptk.-ban meghatározott auditbizottságot létrehoznia és működtetnie, ha rendelkezik olyan testülettel, amely megfelel a Ptk. auditbizottságra vonatkozó feltételeinek, és ellátja a Ptk.-ban meghatározott auditbizottsági feladatokat.
+(6) Az (5) bekezdésben meghatározott esetben a biztosító és a viszontbiztosító a saját honlapján nyilvánosságra hozza, hogy melyik testület látja el a (7) bekezdésben meghatározott feladatokat, továbbá a testület összetételét.
 
-(2) Az (1) bekezdésben meghatározott esetben a nyilvánosan működő biztosító és viszontbiztosító részvénytársaság a saját honlapján nyilvánosságra hozza, hogy melyik testület látja el az auditbizottsági feladatokat, továbbá a testület összetételét.
+(7) Az auditbizottság – a Ptk. 3:291. § (1) bekezdésében meghatározott feladatokon túl –
+
+- a) figyelemmel kíséri a közérdeklődésre számot tartó biztosító, viszontbiztosító belső ellenőrzési, kockázatkezelési rendszereinek hatékonyságát, valamint a pénzügyi beszámolás folyamatát és szükség esetén ajánlásokat fogalmaz meg;
+- b) figyelemmel kíséri az éves és összevont (konszolidált) éves beszámoló jogszabályi kötelezettségen alapuló könyvvizsgálatát, figyelembe véve a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény (a továbbiakban: Kkt.) szerinti könyvvizsgálói közfelügyeleti feladatokat ellátó hatóság által lefolytatott, a Kkt. szerinti minőségellenőrzési eljárás során tett megállapításokat és következtetéseket;
+- c) felülvizsgálja és figyelemmel kíséri a jogszabály szerint engedélyezett könyvvizsgáló vagy a könyvvizsgáló cég függetlenségét, különös tekintettel a közérdeklődésre számot tartó gazdálkodó egységek jogszabályban előírt könyvvizsgálatára vonatkozó egyedi követelményekről és a 2005/909/EK bizottsági határozat hatályon kívül helyezéséről szóló, 2014. április 16-i 537/2014/EU európai parlamenti és tanácsi rendelet 5. cikkében foglaltak teljesülését.
+
+117. § (1) A nyilvánosan működő biztosító és viszontbiztosító részvénytársaság által létrehozott és működtetett auditbizottságnak a Ptk. 3:291. §-ában foglaltakon túl a 116. § (2) és (7) bekezdésében foglalt feltételeknek is meg kell felelnie.
+
+(2) A biztosítónak és a viszontbiztosítónak nem kell az (1) bekezdés szerinti auditbizottságot létrehoznia és működtetnie, ha rendelkezik olyan testülettel, amely megfelel az (1) bekezdésben foglalt feltételeknek.
+
+(3) A (2) bekezdésben meghatározott esetben a biztosító és a viszontbiztosító a saját honlapján nyilvánosságra hozza, hogy melyik testület látja el a 116. § (7) bekezdésében meghatározott feladatokat, továbbá a testület összetételét.
 
 ### VII. Fejezet — AZ ÁLLOMÁNYÁTRUHÁZÁS
 
@@ -5606,6 +5614,10 @@ feltéve, ha a szakmai gyakorlat befejezésére vonatkozó egyéb feltételek fe
 
 452/B. § A 110. § (4) és (5) bekezdésének – az egyes tőkepiaci és biztosítási tárgyú törvények módosításáról szóló 2015. évi CLXII. törvénnyel megállapított – rendelkezéseit a 2017. január 1-jén vagy azt követően megkötött életbiztosítási szerződésekre kell alkalmazni.
 
+452/C. § (1) A 70. § (1), (2) és (7) bekezdésének, valamint 116. és 117. §-nak – a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény és egyes pénzügyi tárgyú törvények módosításáról szóló 2016. évi XLIV. törvénnyel megállapított – rendelkezéseit 2017. január 1-jétől kell alkalmazni.
+
+(2) A 70. § (3) és (4) bekezdés – a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény és egyes pénzügyi tárgyú törvények módosításáról szóló 2016. évi XLIV. törvénnyel hatályon kívül helyezett – rendelkezéseit a 2016. június 17-ét megelőzően induló üzleti évre vonatkozó jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységre még alkalmazni kell.
+
 #### 196. Az Európai Unió jogának való megfelelés
 
 453. § Ez a törvény
@@ -5618,7 +5630,8 @@ feltéve, ha a szakmai gyakorlat befejezésére vonatkozó egyéb feltételek fe
 - 6. a 98/78/EK, a 2002/87/EK, a 2006/48/EK és a 2009/138/EK irányelvnek a pénzügyi konglomerátumhoz tartozó pénzügyi vállalkozások kiegészítő felügyelete tekintetében történő módosításáról szóló 2011. november 16-i 2011/89/EU európai parlamenti és tanácsi irányelvnek,
 - 7. a biztosítási és viszontbiztosítási üzleti tevékenység megkezdéséről és gyakorlásáról (Szolvencia II) szóló 2009. november 25-i 2009/138/EK európai parlamenti és tanácsi irányelvnek,
 - 8. a 2003/71/EK és a 2009/138/EK irányelvnek, valamint az 1060/2009/EK, az 1094/2010/EU és az 1095/2010/EU rendeletnek az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról szóló 2014. április 16-i 2014/51/EU európai parlamenti és tanácsi irányelvnek,
-- 9. a 2011/16/EU tanácsi irányelvnek az adózás területére vonatkozó kötelező automatikus információcsere tekintetében történő módosításáról szóló 2014. december 9-i 2014/107/EU tanácsi irányelvnek
+- 9. a 2011/16/EU tanácsi irányelvnek az adózás területére vonatkozó kötelező automatikus információcsere tekintetében történő módosításáról szóló 2014. december 9-i 2014/107/EU tanácsi irányelvnek,
+- 10. az éves és összevont (konszolidált) éves beszámolók jog szerinti könyvvizsgálatáról szóló 2006/43/EK irányelv módosításáról szóló, 2014. április 16-i 2014/56/EU európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
