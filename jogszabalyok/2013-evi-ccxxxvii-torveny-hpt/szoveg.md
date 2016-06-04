@@ -2650,9 +2650,23 @@ szerzett.
 
 #### 68. Auditbizottság
 
-157. § (1) Ha a tárgyévet megelőző üzleti évben a nem nyilvános részvénytársasági formában működő hitelintézet mérlegfőösszege meghaladja az ötszázmilliárd forintot, akkor a Ptk. jogi személyekre vonatkozó rendelkezései szerinti auditbizottságot hoz létre és működtet azzal, hogy ahol a Ptk. jogi személyekre vonatkozó rendelkezése részvénytársaságot és közgyűlést említ, ott hitelintézetet és annak legfőbb szervét kell érteni.
+157. § (1) A közérdeklődésre számot tartó hitelintézetnél a Ptk. jogi személyekre vonatkozó rendelkezései szerinti auditbizottságot kell létrehozni és működtetni azzal, hogy ahol a Ptk. jogi személyekre vonatkozó rendelkezése részvénytársaságot és közgyűlést említ, ott hitelintézetet és annak legfőbb szervét kell érteni.
 
-(2) A mérlegfőösszeg tekintetében 5 százaléknál kisebb piaci részesedéssel rendelkező hitelintézet közös kockázatvállalási-kockázatkezelési és audit bizottságot állíthat fel, amelynek tagjai megfelelő szakértelemmel rendelkeznek feladataik ellátásához.
+(2) Az auditbizottság elnökét a saját tagjai közül választja vagy azt a felügyeleti jogkörrel rendelkező vezető testület jelöli ki az auditbizottság tagjai közül.
+
+(3) Az auditbizottság – a Ptk. 3:291. § (1) bekezdésében meghatározott feladatokon túl –
+
+- a) figyelemmel kíséri a közérdeklődésre számot tartó hitelintézet belső ellenőrzési, kockázatkezelési rendszereinek hatékonyságát, valamint a pénzügyi beszámolás folyamatát és szükség esetén ajánlásokat fogalmaz meg;
+- b) figyelemmel kíséri az éves és összevont (konszolidált) éves beszámoló jogszabályi kötelezettségen alapuló könyvvizsgálatát, figyelembe véve a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény (a továbbiakban: Kkt.) szerinti könyvvizsgálói közfelügyeleti feladatokat ellátó hatóság által lefolytatott, a Kkt. szerinti minőségellenőrzési eljárás során tett megállapításokat és következtetéseket;
+- c) felülvizsgálja és figyelemmel kíséri a jogszabály szerint engedélyezett könyvvizsgáló vagy a könyvvizsgáló cég függetlenségét különös tekintettel a közérdeklődésre számot tartó gazdálkodó egységek jogszabályban előírt könyvvizsgálatára vonatkozó egyedi követelményekről és a 2005/909/EK bizottsági határozat hatályon kívül helyezéséről szóló, 2014. április 16-i 537/2014/EU európai parlamenti és tanácsi rendelet 5. cikkében foglaltak teljesülését.
+
+(4) A mérlegfőösszeg tekintetében 5 százaléknál kisebb piaci részesedéssel rendelkező hitelintézet közös kockázatvállalási-kockázatkezelési és audit bizottságot állíthat fel.
+
+(5) Az (1) bekezdésben foglaltakat a közérdeklődésre számot tartó nem nyilvános részvénytársasági formában működő hitelintézetnek nem kell alkalmaznia, ha összevont alapú felügyelet alatt áll, és a magyarországi székhelyű anyavállalatának auditbizottsága a hitelintézet vonatkozásában is ellátja a (3) bekezdésben meghatározott feladatokat.
+
+(6) Az (1)–(2) bekezdésben foglaltakat a közérdeklődésre számot tartó nem nyilvános részvénytársasági formában működő hitelintézetnek nem kell alkalmaznia, ha a hitelintézet felügyeleti jogkörrel rendelkező vezető testülete ellátja a (3) bekezdésben meghatározott feladatokat.
+
+(7) A (6) bekezdésben meghatározott esetben a hitelintézet a saját honlapján nyilvánosságra hozza a testület összetételét, valamint azt, hogy az auditbizottság feladatait a hitelintézet felügyeleti jogkörrel rendelkező vezető testülete látja el.
 
 #### 69. Belső szervezet
 
@@ -4348,7 +4362,7 @@ rendelkezhet.
 
 (2) Az (1) bekezdés c)–d) pontjában foglalt korlátozásokat a könyvvizsgáló közeli hozzátartozójára is alkalmazni kell.
 
-(3) A hitelintézet természetes személy könyvvizsgálójának megbízatása legfeljebb öt évig tarthat, és a megbízatás lejártát követő harmadik év után lehet újabb megbízási szerződést kötni ugyanazon könyvvizsgálóval. A könyvvizsgálói társaság által alkalmazott (munkavállaló, vezető tisztségviselő, munkavégzésre kötelezett tag) könyvvizsgáló legfeljebb öt évig láthat el könyvvizsgálói feladatokat ugyanannál a hitelintézetnél, és a megbízatás lejártát követő harmadik év után láthatja el újra – ugyanannál a hitelintézetnél – a feladatát.
+(3)
 
 (4) Az (1) bekezdésben előírtakon túlmenően további követelmény a hitelintézeti természetes személy könyvvizsgálóval szemben, hogy
 
@@ -4822,6 +4836,10 @@ azzal, hogy 2019. január 1-jétől a 87. §-ban meghatározott mérték szerint
 
 304/D. § Az egyes törvényeknek a pénzügyi közvetítőrendszer fejlesztésének előmozdítása érdekében történő módosításáról szóló 2015. LXXXV. évi törvény 195. §-ával megállapított 67/A. §-t a szövetkezeti hitelintézetek tekintetében 2018. január 1-től kell alkalmazni.
 
+304/E. § (1) A Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény és egyes pénzügyi tárgyú törvények módosításáról szóló 2016. évi XLIV. törvénnyel megállapított 157. §-ban foglaltakat 2017. január 1-jétől kell alkalmazni.
+
+(2) A Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény és egyes pénzügyi tárgyú törvények módosításáról szóló 2016. évi XLIV. törvénnyel hatályon kívül helyezett 260. § (3) bekezdését a 2016. június 17-ét megelőzően induló üzleti évre vonatkozó jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységre még alkalmazni kell.
+
 #### 131. Az Európai Unió jogának való megfelelés
 
 305. § Ez a törvény a 5. mellékletben felsorolt uniós jogi aktusoknak való megfelelést szolgálja.
@@ -4909,7 +4927,8 @@ A kombinált pufferkövetelmény egyes kvartiliseinek alsó és felső határát
   - g) a hitelintézetek tevékenységéhez való hozzáférésről és a hitelintézetek és befektetési vállalkozások prudenciális felügyeletéről, a 2002/87/EK irányelv módosításáról, a 2006/48/EK és a 2006/49/EK irányelv hatályon kívül helyezéséről szóló 2013. június 26-i 2013/36/EU európai parlamenti és tanácsi irányelvnek,
   - h) a betétbiztosítási rendszerekről szóló 2014. április 16-i 2014/49/EU európai parlamenti és tanácsi irányelvnek,
   - i) a 2011/16/EU tanácsi irányelvnek az adózás területére vonatkozó kötelező automatikus információcsere tekintetében történő módosításáról szóló 2014. december 9-i 2014/107/EU tanácsi irányelvnek,
-  - j) a lakóingatlanokhoz kapcsolódó fogyasztói hitelmegállapodásokról, valamint a 2008/48/EK és a 2013/36/EU irányelv és az 1093/2010/EU rendelet módosításáról szóló 2014. február 4-i 2014/17/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+  - j) a lakóingatlanokhoz kapcsolódó fogyasztói hitelmegállapodásokról, valamint a 2008/48/EK és a 2013/36/EU irányelv és az 1093/2010/EU rendelet módosításáról szóló 2014. február 4-i 2014/17/EU európai parlamenti és tanácsi irányelvnek,
+  - k) az éves és összevont (konszolidált) éves beszámolók jog szerinti könyvvizsgálatáról szóló 2006/43/EK irányelv módosításáról szóló, 2014. április 16-i 2014/56/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 - 2. Ez a törvény a 185. § (1) bekezdésében a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2004. október 27-i 2006/2004/EK európai parlamenti és tanácsi rendelet 4. cikk (6) bekezdés f) pontjának végrehajtásához szükséges rendelkezéseket állapít meg a Felügyelet eljárásában.
 - 3. Ez a törvény a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
