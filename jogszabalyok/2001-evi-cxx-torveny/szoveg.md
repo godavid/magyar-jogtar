@@ -994,7 +994,24 @@ gyakorolhatja az általa kezelt portfólióhoz kapcsolódó szavazati jogot.
 
 (2) A közérdeklődésre számot tartó kibocsátónak a Ptk. 3:291. §-a szerinti auditbizottságot kell létrehoznia és működtetnie, figyelemmel arra, hogy a zártkörűen működő részvénytársasági formában működő kibocsátó esetén, ahol a Ptk. jogi személyekre vonatkozó rendelkezései részvénytársaságot és közgyűlést említenek, ott az (1) bekezdés szerinti kibocsátót és annak legfőbb szervét kell érteni.
 
+(2a) Az auditbizottság tagjainak együttesen rendelkezniük kell a vizsgált szervezet tevékenysége szerinti ágazattal kapcsolatos szaktudással.
+
+(2b) Az auditbizottság elnökét annak tagjai vagy a közérdeklődésre számot tartó kibocsátó felügyelőbizottsága jelöli ki.
+
 (3) A (2) bekezdésben foglaltakat nem kell alkalmazni, ha a közérdeklődésre számot tartó kibocsátó rendelkezik olyan testülettel, amely megfelel a Ptk. 3:291. § (1) és (2), valamint (4) bekezdésében meghatározott feltételeknek, és a testület ellátja a Ptk. 3:291. § (4) bekezdésében foglaltakat. A közérdeklődésre számot tartó kibocsátónak ebben az esetben saját honlapján nyilvánosságra kell hoznia, hogy melyik testület látja el a Ptk. 3:291. § (1) bekezdésében foglaltakat, továbbá a testület összetételét.
+
+(3a) Az olyan közérdeklődésre számot tartó kibocsátó esetében, amely
+
+- a) teljesíti az 5. § (1) bekezdés 69. pontjában rögzített feltételeket, és
+- b) szabályozott piacon jegyzett olyan társaság, amely a megelőző három naptári évre vonatkozóan az év végi jegyzések alapján kevesebb, mint 100 millió euró átlagos piaci tőkeértékkel rendelkezett
+
+az auditbizottság feladatkörét az igazgatótanács vagy a felügyelőbizottság is elláthatja azzal a feltétellel, hogy ha az érintett testület elnöke ügyvezető tag, akkor nem lehet az auditbizottság elnöke, ameddig az adott testület látja el az auditbizottság feladatait.
+
+(3b) Az auditbizottság – a Ptk. 3:291. § (1) bekezdésében meghatározott feladatokon túl –
+
+- a) figyelemmel kíséri a közérdeklődésre számot tartó kibocsátó belső ellenőrzési, kockázatkezelési rendszereinek hatékonyságát, valamint a pénzügyi beszámolás folyamatát és szükség esetén ajánlásokat fogalmaz meg;
+- b) figyelemmel kíséri az éves és összevont (konszolidált) éves beszámoló jogszabályi kötelezettségen alapuló könyvvizsgálatát, figyelembe véve a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény (a továbbiakban: Kkt.) szerinti könyvvizsgálói közfelügyeleti feladatokat ellátó hatóság által lefolytatott, a Kkt. szerinti minőségellenőrzési eljárás során tett megállapításokat és következtetéseket;
+- c) felülvizsgálja és figyelemmel kíséri a jogszabály szerint engedélyezett könyvvizsgáló vagy a könyvvizsgáló cég függetlenségét, különös tekintettel a közérdeklődésre számot tartó gazdálkodó egységek jogszabályban előírt könyvvizsgálatára vonatkozó egyedi követelményekről és a 2005/909/EK bizottsági határozat hatályon kívül helyezéséről szóló, 2014. április 16-i 537/2014/EU európai parlamenti és tanácsi rendelet 5. cikkében foglaltak teljesülését.
 
 (4) E § rendelkezéseinek alkalmazása során a befektetési jegy kibocsátójának a befektetési alap alapkezelője minősül.
 
@@ -3172,7 +3189,7 @@ foglaltakat.
 
 (2)–(4)
 
-(5) A nyilvánosan forgalomba hozott értékpapír kibocsátó, a tőzsde, a központi szerződő fél, a központi értéktár természetes személy könyvvizsgálójának megbízatása legfeljebb öt évig tarthat, és a megbízatás lejártát követő harmadik év után lehet újabb megbízási szerződést kötni ugyanazon könyvvizsgálóval. A könyvvizsgáló cég nevében könyvvizsgálói tevékenységet ellátó kamarai tag könyvvizsgáló legfeljebb öt évig láthat el könyvvizsgálói feladatokat ugyanannál a nyilvánosan forgalomba hozott értékpapír kibocsátónál, tőzsdénél, központi szerződő félnél, központi értéktárnál, és a megbízatás lejártát követő 2 üzleti éven belül nem láthat el újra – ugyanannál a nyilvánosan forgalomba hozott értékpapír kibocsátónál, tőzsdénél, központi szerződő félnél, központi értéktárnál – könyvvizsgálói feladatot.
+(5)
 
 (6) Az (1) bekezdésben előírtakon túlmenően további követelmény a természetes személy könyvvizsgálóval szemben, hogy – egyidejűleg – legfeljebb öt azonos típusú intézménynél láthat el könyvvizsgálói feladatot, és az egy intézménytől származó jövedelme (bevétele) nem haladhatja meg az éves jövedelmének (bevételének) harminc százalékát. Az egy tulajdonosi csoportba tartozó nyilvánosan forgalomba hozott értékpapír kibocsátóktól, hitelintézetektől, pénzügyi vállalkozásoktól, befektetési vállalkozásoktól, befektetési alapkezelőtől, tőzsdétől, központi szerződő féltől és központi értéktártól, illetve a tulajdonosi csoportba tartozó befektetési alapkezelő által kezelt kollektív befektetési formától származó összesített jövedelme (bevétele) nem haladhatja meg az éves jövedelmének (bevételének) hatvan százalékát.
 
@@ -3738,6 +3755,10 @@ gyakorolt hatásának, veszélyességi fokának figyelembevételével választja
 
 (5) Az Áttv., a Bat., valamint az Épt. előírásait kell alkalmazni, ha a felügyeleti intézkedés kiszabására okot adó esemény e törvény hatálybalépése előtt következett be.
 
+### Az Európai Unió jogának való megfelelés
+
+407/A. § E törvény az éves és összevont (konszolidált) éves beszámolók jog szerinti könyvvizsgálatáról szóló 2006/43/EK irányelv módosításáról szóló, 2014. április 16-i 2014/56/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
 ### Átmeneti rendelkezések
 
 408. § (1) Az egyes pénzügyi tárgyú törvények módosításáról szóló 2010. évi CLIX. törvény 96. §-ával megállapított VI/A. Fejezetben foglaltakkal összhangban alkotja meg a tőzsde a tőzsdei termék átvezetésével és kivezetésével kapcsolatos szabályzatát a törvény hatálybalépést követő hat hónapon belül, azzal, hogy a törvény hatálybalépését követően kezdeményezett kivezetés vagy átvezetés esetén a VI/A. Fejezetben foglaltakkal összhangban kell a tőzsdének eljárnia.
@@ -3884,6 +3905,10 @@ gyakorolt hatásának, veszélyességi fokának figyelembevételével választja
 450/B. § Az egyes pénzügyi tárgyú törvényeknek a betétbiztosítást, valamint a pénzügyi közvetítőrendszert érintő módosításáról szóló 2014. évi CIV. törvény 7. § (2) bekezdésével megállapított 58. § (5a) bekezdésében foglalt rendelkezéseknek 2015. február 1-jétől kell megfelelni.
 
 450/C. § Az egyes törvényeknek a pénzügyi közvetítőrendszer fejlesztésének előmozdítása érdekében történő módosításáról szóló 2015. évi LXXXV. törvény 13. §-ával megállapított 142/A. § (5) bekezdésében meghatározott belépési azonosító és jelszó kezelésének és a számlatulajdonos részére történő átadásának rendjére vonatkozó adatbiztonsági követelményeket rögzítő szabályzatot a számlavezető első alkalommal 2015. szeptember 30. napjáig küldi meg jóváhagyásra az MNB-nek.
+
+450/D. § (1) A Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény és egyes pénzügyi tárgyú törvények módosításáról szóló 2016. évi XLIV. törvény (a továbbiakban: Módtv.) 56. § (1) bekezdésével megállapított 62. § (2a)–(2d) bekezdését, (2) bekezdésével megállapított 62. § (3a) és (3b) bekezdését a Módtv. hatálybalépését követően induló üzleti évben kell először alkalmazni.
+
+(2) A Módtv. 59. §-ával hatályon kívül helyezett 358. § (5) bekezdését a 2016. június 17-ét megelőzően induló üzleti évre vonatkozó jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységre még alkalmazni kell.
 
 ### Felhatalmazások
 

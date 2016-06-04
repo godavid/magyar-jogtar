@@ -64,10 +64,11 @@ A postai szolgáltatások fejlődése és liberalizációja, az Európai Unió j
 - 37. postai szolgáltatóhely: a postai szolgáltatások elérését meghatározott földrajzi ponton és időben biztosító felvételi vagy kézbesítési pont, ide nem értve a postai szolgáltató által elhelyezett levélgyűjtő szekrényt vagy más, a postai küldemény sérülésmentes és biztonságos felvételére vagy kézbesítésére szolgáló eszközt;
 - 38. szállítás: a postai küldemények feldolgozási, szolgáltatói hozzáférési vagy kézbesítési pontok közötti továbbításának művelete;
 - 39. szolgáltatói hozzáférési pont: postai küldemények hálózati átvételére az átvevő postai szolgáltató által erre a célra kijelölt hely;
+- 39a. szoros kapcsolat: a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendeletben ekként meghatározott fogalom;
 - 40. tértivevény-szolgáltatás: járulékos szolgáltatásnak minősülő – könyvelt küldeményekhez igénybe vehető – postai többletszolgáltatás, amely alapján a postai szolgáltató a kézbesítés napját, valamint a jogosult átvevő nevét és aláírását rögzítő okiratot vagy erre irányuló szerződés esetén annak digitalizált változatát a feladónak visszajuttatja, vagy az aláírást rögzítő technikai eszközzel készített adatokat a feladó rendelkezésére bocsátja;
 - 41. többletszolgáltatás: a postai küldemény felvételéhez, gyűjtéséhez, feldolgozásához, szállításához vagy kézbesítéséhez kapcsolódó, a postai szolgáltatási szerződésben vállalt olyan további szolgáltatás, amelyet a postai szolgáltató a postai szolgáltatás részeként a feladó külön rendelkezése alapján vagy postai szolgáltatáscsomagba foglaltan nyújt;
 - 42. utánvétel-szolgáltatás: az a – könyvelt küldeményekhez igénybe vehető – többletszolgáltatás, amelynek teljesítése során a postai szolgáltató a postai küldeményt a feladó által meghatározott összeg készpénzben vagy egyéb módon történő beszedését követően kézbesíti, és az így beszedett összeget a címzett megbízásából a feladó részére a a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 6. § (1) bekezdésében meghatározott valamely pénzforgalmi szolgáltatás keretében juttatja el;
-- 43. vakok írását tartalmazó küldemény: kizárólag a vakok és gyengén látók által használt dombornyomású írásokat, véseteket, hangfelvételeket, különleges papírokat vagy mágneslemezeket és egyéb információhordozókat tartalmazó, legfeljebb 7 kilogramm tömegű postai küldemény, amelynek feladója vagy címzettje vak személy vagy a vakok hivatalosan elismert intézete.
+- 43. vakok írását tartalmazó küldemény: kizárólag a vakok és gyengénlátók által használt dombornyomású írásokat, véseteket, hangfelvételeket, különleges papírokat vagy mágneslemezeket és egyéb információhordozókat, továbbá a vak vagy gyengénlátó személyek látásának sérültségéből eredő problémák leküzdésének céljából készített vagy átalakított berendezést, illetve felszerelést tartalmazó, legfeljebb 7 kilogramm tömegű postai küldemény, amelynek feladója vagy címzettje vak, illetve gyengénlátó személy vagy a vakok hivatalosan elismert intézménye.
 
 ### II. Fejezet — A POSTAI SZOLGÁLTATÁS
 
@@ -106,7 +107,7 @@ lehet.
 - c) a vakok írását tartalmazó, belföldi vagy nemzetközi viszonylatú küldemények;
 - d) a hivatalos iratok.
 
-(3) Az egyetemes postai szolgáltatás keretében a szolgáltatónak biztosítania kell a feladó rendelkezése alapján a (2) bekezdés a) és c) pontjában meghatározott postai küldeményekhez az ajánlott, továbbá a (2) bekezdés a)–c) pontjában meghatározott postai küldeményekhez a tértivevény, illetve értéknyilvánítás-szolgáltatás igénybevételét. Az egyetemes postai szolgáltató a 19. § szerinti Egyetemes Postai Közszolgáltatási Szerződésben közérdekből egyéb többletszolgáltatások nyújtására kötelezhető.
+(3) Az egyetemes postai szolgáltatás keretében a szolgáltatónak biztosítania kell a feladó rendelkezése alapján a (2) bekezdés a) és c) pontjában meghatározott postai küldeményekhez az ajánlott, továbbá a (2) bekezdés a)–c) pontjában meghatározott postai küldeményekhez a tértivevény, illetve értéknyilvánítás-szolgáltatás igénybevételét, valamint a 19. § szerinti Egyetemes Postai Közszolgáltatási Szerződésben meghatározottak szerint az ott meghatározott fajtájú könyvelt küldeményekhez a nyomon követhető kezelést. Az egyetemes postai szolgáltató az Egyetemes Postai Közszolgáltatási Szerződésben közérdekből egyéb többletszolgáltatások nyújtására is kötelezhető.
 
 (4) Az egyetemes postai szolgáltató az egyetemes postai szolgáltatás általános szerződési feltételében az egyetemes postai szolgáltatáshoz a (3) bekezdésben foglaltakon túli többletszolgáltatást is meghirdethet.
 
@@ -406,7 +407,7 @@ köteles – a személyes kézbesítés sikertelensége esetén a jogosult átve
 
 (2) Az éves postabélyeg-kibocsátási tématerv összeállítása érdekében az egyetemes postai szolgáltató köteles témakijelölő bizottságot működtetni, amelybe a miniszter és a Hatóság elnöke egy-egy tagot delegál. A témakijelölő bizottság javaslata alapján az éves postabélyeg-kibocsátási tématervet a miniszter hagyja jóvá.
 
-(3) A levélküldeményekkel kapcsolatos postai szolgáltatások díjának megfizetésére az egyetemes postai szolgáltató köteles elfogadni a Magyarországon kibocsátott, érvényben lévő postabélyeget és az Egyetemes Postaegyezmény alapján kibocsátott válaszdíjszelvényeket.
+(3) Az egyetemes postai szolgáltatás keretében feladható levélküldeményekkel kapcsolatos postai szolgáltatások díjának megfizetésére az egyetemes postai szolgáltató köteles elfogadni a Magyarországon kibocsátott, érvényben lévő postabélyeget és az Egyetemes Postaegyezmény alapján kibocsátott válaszdíjszelvényeket.
 
 25. § (1) Az Egyetemes Postaegyesület Alapokmányában meghatározott kijelölt szolgáltatóra vonatkozó jogok és kötelezettségek az egyetemes postai szolgáltatót jogosítják és kötelezik.
 
@@ -433,6 +434,8 @@ köteles – a személyes kézbesítés sikertelensége esetén a jogosult átve
 27. § (1) Az egyetemes postai szolgáltató köteles jóhiszemű tárgyalásba bocsátkozni azon postai szolgáltatókkal, amelyek az általuk engedélyköteles szolgáltatás keretében felvett postai küldemények feldolgozását, szállítását és kézbesítését együttesen magában foglaló tevékenység ellátása érdekében igénybe kívánják venni az egyetemes postai szolgáltatónak az egyetemes postai szolgáltatás érdekében működtetett hálózatát, és az egyetemes postai szolgáltató mindenkori hálózati szerkezetéhez és technológiai rendszeréhez igazodó tartalmú hálózati hozzáférési szerződés megkötését kezdeményezik.
 
 (2) Az egyetemes postai szolgáltató – azonos feltételek esetén – más, az egyetemes postai szolgáltatást helyettesítő szolgáltatást nyújtó postai szolgáltatókkal az üzleti kapcsolatait az egyenlő bánásmód követelményét megtartva, az üzleti kapcsolat jellegének megfelelően köteles kialakítani.
+
+27/A. § Az egyetemes postai szolgáltató az olyan településeken történő szolgáltatásnyújtás biztosítása érdekében, amelyek bejelentett lakóhely szerinti népességszáma nem haladja meg a tízezret, pénzügyi intézménnyel is köthet olyan szerződést, amely alapján a pénzügyi intézmény az 5. §-ban meghatározott postai szolgáltatást, postai szolgáltatásokhoz kapcsolódó, kiegészítő fiókbérleti szolgáltatást, postai értékcikk forgalmazást, továbbá a kizárólag az egyetemes postai szolgáltató által forgalmazott értékpapírokkal kapcsolatos szolgáltatást, valamint illetékbélyeg-továbbértékesítést végez.
 
 28. § Az egyetemes postai szolgáltató a felhasználók és a postai szolgáltatók számára a települési irányítószámokat tartalmazó adatbázisát internetes honlapján hozzáférhetővé teszi.
 
@@ -527,12 +530,12 @@ köteles – a személyes kézbesítés sikertelensége esetén a jogosult átve
 
 (3) Az egyetemes postai szolgáltató és a postai közreműködő között létrejött szerződés abban az esetben minősül a közbeszerzésekről szóló törvény szerinti szolgáltatási koncessziós szerződésnek, amennyiben a postai közreműködő e tevékenységét oly módon végzi, hogy az ezzel kapcsolatos gazdasági kockázatot maga viseli. A postai közreműködő különösen abban az esetben viseli maga a gazdasági kockázatot, ha az általa végzett tevékenység ellenszolgáltatásaként nem átalánydíjra, hanem az elvégzett tevékenységgel arányos díjra jogosult, továbbá az általa végzett tevékenységgel okozott kárért az egyetemes postai szolgáltató irányában felelősséggel tartozik.
 
-37. § (1) Az egyetemes és az egyetemes postai szolgáltatást helyettesítő postai szolgáltatásokat nyújtó szolgáltató az 5. § a)–b) pontja szerinti szolgáltatás keretében feladott postai küldemények kézbesítését kizárólag a vele munkaviszonyban vagy tagsági jogviszonyban (ide nem értve a részvényest) álló természetes személyekkel, vagy – az e postai küldemények kézbesítését végző természetes személyek létszámának egyharmadáig –
+37. § (1) Az egyetemes és az egyetemes postai szolgáltatást helyettesítő postai szolgáltatásokat nyújtó szolgáltató az 5. § a) és b) pontja szerinti szolgáltatás keretében feladott postai küldemények kézbesítési pontnak nem minősülő címhelyen való kézbesítését kizárólag a vele munkaviszonyban vagy tagsági jogviszonyban (ide nem értve a részvényest) álló természetes személyekkel, vagy – az e postai küldemények kézbesítését végző természetes személyek létszámának egyharmadáig –
 
-- a) személyesen eljáró postai közreműködővel, vagy
-- b) a közreműködővel munkaviszonyban vagy tagsági jogviszonyban (ide nem értve a részvényest) álló kézbesítést végző természetes személyek igénybevételével
+- a) személyesen eljáró postai közreműködő vagy
+- b) a postai közreműködővel munkaviszonyban vagy tagsági jogviszonyban (ide nem értve a részvényest) álló kézbesítést végző természetes személy
 
-végezheti. A postai küldemények kézbesítését végző természetes személyek létszámának megállapításakor egy fő létszámnak az általános teljes napi munkaidőben foglalkoztatott munkavállaló, vagy személyesen eljáró postai közreműködő feleltethető meg. A részmunkaidőben foglalkoztatottakat e rendelkezés alkalmazása szempontjából napi részmunkaidejük időtartama és az általános teljes napi munkaidő arányában kell figyelembe venni.
+igénybevétele útján végezheti. A postai küldemények kézbesítését végző természetes személyek létszámának megállapításakor egy főnek minősül az általános teljes napi munkaidőben foglalkoztatott munkavállaló, tag, személyesen eljáró postai közreműködő. A részmunkaidőben foglalkoztatottakat e rendelkezés alkalmazása szempontjából napi részmunkaidejük időtartama és az általános teljes napi munkaidő arányában kell figyelembe venni.
 
 (2) Amennyiben az engedélyes szolgáltató hálózati hozzáférési szerződést kötött, úgy a hálózati hozzáférést biztosító postai szolgáltató munkaviszonyban alkalmazott vagy közreműködőként igénybe vett kézbesítést végző természetes személyek létszáma az (1) bekezdés szerinti arányszám viszonyítási alapjának számításakor nem vehető figyelembe.
 
@@ -593,19 +596,21 @@ végezheti. A postai küldemények kézbesítését végző természetes személ
 
 #### 25. A postai szolgáltatási szerződés teljesítése, a küldemény kézbesítése
 
-41. § (1) A postai szolgáltató a postai küldeményt a címként megjelölt, vagy – a Kormány által rendeletben meghatározott esetekben – attól eltérő helyen kézbesíti. Kézbesítésnek minősül az is, ha a meghatalmazás alapján kézbesített postai küldeményt – a 4. § a) pontjában felsorolt személyeken kívüli gazdálkodó szervezet – gazdasági tevékenység keretében továbbítja és adja át a gazdálkodó szervezetnek nem minősülő címzett vagy egyéb jogosult átvevő részére.
+41. § (1) A postai szolgáltató a postai küldeményt a címként megjelölt vagy a Kormány által rendeletben meghatározott esetekben attól eltérő helyen kézbesíti. Kézbesítésnek minősül az is, ha a meghatalmazás alapján kézbesített postai küldeményt a 4. § a) pontjában felsorolt személyeken kívüli gazdálkodó szervezet gazdasági tevékenység keretében székhelyétől, telephelyétől vagy fióktelepétől különböző címre továbbítja és adja ott át a gazdálkodó szervezetnek nem minősülő címzett vagy egyéb jogosult átvevő részére.
 
 (2) Nem könyvelt postai küldemény az erre a célra szolgáló levélszekrénybe vagy kézbesítési ponton történő elhelyezéssel kézbesíthető. Az ingatlan tulajdonosa vagy a címzett köteles gondoskodni a levélküldemények elhelyezésére és sérülésmentes, biztonságos tárolására alkalmas, megfelelő méretű, zárható, – kormányrendelet eltérő rendelkezése hiányában – a címnek megfelelő jelzéssel ellátott levélszekrény rendelkezésre állásáról, továbbá arról, hogy az a postai szolgáltatók számára könnyen és biztonságosan megközelíthető legyen. Az e követelményeknek megfelelő levélszekrény méretét és egyéb jellemzőit, valamint a kötelezettség nem teljesítésének jogkövetkezményeit a Kormány rendeletben határozza meg.
 
-(3) Könyvelt postai küldeményt a címzettnek vagy a Kormány által rendeletben meghatározott egyéb jogosult átvevőnek történő személyes átadással kell kézbesíteni. A szerződő felek nem állapodhatnak meg olyan szerződéses kikötésben, amely a könyvelt postai küldemények levélszekrénybe történő kézbesítését lehetővé teszi.
+(3) Könyvelt postai küldeményt a címzettnek vagy a Kormány által rendeletben meghatározott egyéb jogosult átvevőnek történő személyes átadással kell kézbesíteni. A szerződő felek nem állapodhatnak meg olyan szerződéses kikötésben, amely a könyvelt postai küldemények levélszekrénybe történő kézbesítését lehetővé teszi. A könyvelt postai küldemény személyes átadásának sikertelen megkísérlése esetén kormányrendelet eltérő rendelkezése hiányában a postai szolgáltató a küldemény fajtájáról, a kézbesítés megkísérlésének napjáról, valamint arról, hogy a küldemény hol és mikor vehető át, értesítőt hagy hátra. Az értesítő elhelyezésére a nem könyvelt postai küldemény kézbesítésének a szabályai az irányadóak.
 
-(4) A könyvelt postai küldemények személyes átadásával egyenértékűnek minősül az az eset, amikor a címzettel előzetesen kötött szerződés alapján a postai szolgáltató által létesített, a kézbesítést lehetővé tevő automatizált eszköz útján történik a kézbesítés oly módon, hogy az átvételi jogosultságot biztosító azonosító, a küldemény azonosítója és a kézbesítés pontos időpontja rögzítésre kerül.
+(4) A könyvelt postai küldemény személyes átadásával egyenértékűnek minősül az az eset, amikor a feladó vagy a címzett és a postai szolgáltató között létrejött szerződés alapján a postai szolgáltató által létesített, a kézbesítést lehetővé tevő automatizált eszköz útján történik a kézbesítés oly módon, hogy az átvételi jogosultságot biztosító azonosító, a küldemény azonosítója és a kézbesítés pontos időpontja rögzítésre kerül.
 
-(5) A postai szolgáltató az általa felvett postai küldeményt – amíg azt a címzettnek vagy más jogosult átvevőnek nem kézbesítették – az ellenkező bizonyításáig a feladó tulajdonának tekinti.
+(5) A postai szolgáltató az általa felvett postai küldeményt, amíg azt a címzettnek vagy más jogosult átvevőnek nem kézbesítették az ellenkező bizonyításáig a feladó tulajdonának tekinti. A postai szolgáltató a postai küldemény címzetti tulajdonlásának bizonyításaként köteles elfogadni, ha a címzett rendelkezésére bocsátja a távollévők között kötött szerződésről a vállalkozás által a jogszabály alapján részére mint fogyasztónak adott, a termék adásvételével kapcsolatban ellenszolgáltatásként megfizetett teljes összeget is tartalmazó visszaigazolást és a postai küldeményhez nem kapcsolódik a címzett által a kézbesítéskor még megfizetendő további díj.
 
 (6) A postai szolgáltató és a címzett megállapodhat abban, hogy a címzett részére érkező postai küldeményeket ne a küldeményben megjelölt címen, hanem más címen (különösen utánküldési címen, postafiókon vagy más kézbesítési ponton) kézbesítse. E szolgáltatások és a címzettnek történő biztonságos kézbesítés teljesítése érdekében a postai szolgáltató – a megállapodás időbeli hatályának időtartamáig – címnyilvántartás (név, lakcím, székhely vagy telephely) vezetésére jogosult.
 
 (7) A jogosult átvevők körét, az átvételre történő meghatalmazás kötelező formai és tartalmi elemeit és a kézbesítéssel kapcsolatos egyéb szabályokat a Kormány rendeletben állapítja meg.
+
+(7a) A közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló kormányrendeletben meghatározott egységes kormányzati ügyiratkezelő rendszer érkeztető rendszerébe kézbesíthető postai küldemények vonatkozásában a címzett meghatalmazottjának – és így jogosult átvevőnek – minősül a rendszer működtetőjének iratkezelési szabályzatában a postai küldeményeknek a címhez rendelt kézbesítési ponton való átvételére feljogosított személy. A Kormány által rendeletben meghatározott postai küldemények tekintetében a postai küldeményt az e bekezdés szerinti meghatalmazott által történt átvételt követő 5. munkanapon kell a címzett által megismertnek tekinteni.
 
 (8) Könyvelt postai küldemény átvételének az erre szolgáló okiraton vagy az aláírást rögzítő vagy a jogosult átvevő személyét azonosító egyéb technika alkalmazásával történő elismerése előtt a címzett vagy az egyéb jogosult átvevő a személyazonosságát és átvételi jogosultságát – a postai küldemény kézbesítésére vonatkozó részletes szabályokat tartalmazó kormányrendelet eltérő rendelkezése hiányában – igazolni köteles. A személyazonosság és az átvételi jogosultság igazolásával kapcsolatos részletes szabályokat, valamint a személyazonosság és az átvételi jogosultság igazolásának módját kormányrendelet állapítja meg. A postai szolgáltató a személyazonosság igazolását – amennyiben ezt a kézbesítés körülményei indokolják – nem könyvelt postai küldemény kézbesítése esetén is kérheti.
 
@@ -613,7 +618,14 @@ végezheti. A postai küldemények kézbesítését végző természetes személ
 
 (10) Amennyiben a könyvelt postai küldeményt a postai szolgáltató személyes átadással kézbesíti, a személyazonosságot igazoló okmány elnevezését, betűjelét és számát vagy az átvevő által az átvétellel egyidejűleg megadott azonosító kódot a postai szolgáltató – kormányrendelet eltérő rendelkezése hiányában – a kézbesítési okiraton vagy annak elektronikus helyettesítőjén megfelelő módon rögzíti. Ha az okirat tulajdonosa ez ellen tiltakozik, a szolgáltató ezt – mint a kézbesítést meghiúsító körülményt – a kézbesítési okiraton rögzíti, és a postai küldeményt az ok megjelölésével visszaküldi a feladónak.
 
-42. § (1) A könyvelt postai küldemény első alkalommal történő sikertelen kézbesítése esetén a küldeményt a postai szolgáltató helyen vagy az e célból üzemeltetett kézbesítési ponton a címzett rendelkezésére kell tartani, bejelentésköteles szolgáltatás esetén a postai szolgáltatási szerződés rendelkezései szerint kell eljárni. A rendelkezésre tartás helyéről, idejéről és az átvétel feltételeiről a címzettet értesíteni kell. A rendelkezésre tartás ideje nem lehet 5 napnál rövidebb.
+(11) Amennyiben az aláírás képének rögzítése és az azt is tartalmazó elektronikus dokumentum létrehozása megfelel a kormányrendeletben, illetve az egyetemes postai szolgáltatás keretében feladott küldemények esetén az Egyetemes Postai Közszolgáltatás Szerződésben meghatározott eszköz- és rendszerkövetelményeknek, akkor az aláírást rögzítő egyéb technikai eszközzel felvett aláírás képét is tartalmazó elektronikus dokumentum az ellenkező bizonyításáig teljes bizonyítékul szolgál arra, hogy
+
+- a) könyvelt levélküldemény vagy hivatalos irat kézbesítése során a küldeményt,
+- b) nemzetközi postautalvány-szolgáltatás, készpénzátutalás vagy fizetési számláról történő készpénzkifizetést lehetővé tevő szolgáltatás teljesítése során az egyetemes postai szolgáltató által kifizetett összeget
+
+a jogosult átvevő átvette.
+
+42. § (1) A könyvelt postai küldeménynek a címhelyen való sikertelen kézbesítése esetén a küldeményt a postai szolgáltatóhelyen vagy az e célból üzemeltetett kézbesítési ponton a címzett rendelkezésére kell tartani, bejelentésköteles szolgáltatás esetén a postai szolgáltatási szerződés rendelkezései szerint kell eljárni. A rendelkezésre tartás helyéről, idejéről és az átvétel feltételeiről a címzettet értesíteni kell. A rendelkezésre tartás ideje nem lehet 5 napnál rövidebb.
 
 (2) Az (1) bekezdésben foglaltak teljesítése érdekében a postai szolgáltató az egyetemes postai szolgáltatás esetén a 16. § (4) bekezdésében foglaltak szerint, könyvelt küldeményekre vonatkozó engedélyköteles postai szolgáltatás esetén pedig az általa ellátott területen
 
@@ -650,7 +662,7 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 
 (3) Nem könyvelt postai küldemény vonatkozásában létrejött postai szolgáltatási szerződés nem vagy nem szerződésszerű teljesítése esetén (különösen, ha a postai küldemény megsemmisül, teljesen vagy részlegesen elvész vagy megsérül) a postai szolgáltatót – kivéve, ha a károkozás a szolgáltató vagy az általa megbízott személy szándékos cselekményének eredményeként következett be – kártérítési kötelezettség nem terheli.
 
-(4) A postai szolgáltató és a feladó vagy a címzett megállapodása hiányában a postai szolgáltató postai szolgáltatás nyújtásából eredő kártérítési felelősségére – a postai küldemény megsemmisüléséből, részleges vagy teljes elveszéséből, megsérüléséből, továbbá az időgarantált szolgáltatás késedelmes teljesítéséből eredő kár kivételével – a Ptk. szabályai az irányadók azzal, hogy a postai szolgáltató a feladó vagy az 50. § (2) bekezdésében meghatározottak szerint a címzett, utánküldés-szolgáltatás nem szerződésszerű teljesítése esetén kizárólag a címzett vagyonában okozott kárt köteles megtéríteni az elmaradt vagyoni előny kivételével. A felmerült követelések 6 hónap alatt elévülnek. A postai szolgáltató nem kötelezhető sérelemdíjra (Ptk. 2:52. §), valamint személyiségi jogsértésből eredő kár (Ptk. 2:53. §) megtérítésére, továbbá nem érvényesíthetőek a személyiségi jogok megsértésének felróhatóságtól független szankciói (Ptk. 2:51. §) sem.
+(4) A postai szolgáltató és a feladó vagy a címzett megállapodása hiányában a postai szolgáltató postai szolgáltatás nyújtásából eredő kártérítési felelősségére a postai küldemény megsemmisüléséből, részleges vagy teljes elveszéséből, megsérüléséből, továbbá az időgarantált szolgáltatás késedelmes teljesítéséből, valamint az utánküldés-szolgáltatás nem szerződésszerű teljesítéséből eredő kár kivételével a Ptk. szabályai az irányadók azzal, hogy a postai szolgáltató a feladó vagy az 50. § (2) bekezdésében meghatározottak szerint a címzett vagyonában okozott kárt köteles megtéríteni az elmaradt vagyoni előny kivételével. A felmerült követelések 6 hónap alatt elévülnek. A postai szolgáltató nem kötelezhető sérelemdíjra, valamint személyiségi jogsértésből eredő kár megtérítésére, továbbá nem érvényesíthetőek a személyiségi jogok megsértésének felróhatóságtól független szankciói sem.
 
 (5) A postai szolgáltató nem felel a levélszekrénybe is kézbesíthető postai küldemények, továbbá az oda elhelyezhető értesítések, valamint a tértivevény elveszéséből, megsemmisüléséből vagy megsérüléséből eredő kárért, ha a címen nincs a 41. § (2) bekezdésében meghatározott követelményeknek megfelelő levélszekrény.
 
@@ -691,7 +703,7 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 
 (2) A postai szolgáltató általános szerződési feltételeiben lehetővé teheti a kereskedelmi értékkel nem rendelkező tartalmú postai küldemények vonatkozásában is az értéknyilvánítás-szolgáltatás igénybevételét.
 
-(3) Amennyiben a postai szolgáltató általános szerződési feltételeiben nem rendelkezik a (2) bekezdés szerint, vagy ha a feladó az értéknyilvánításban megjelölt összegként nem a tényleges kereskedelmi értéket tüntette fel, úgy az értéknyilvánításban megjelölt összeg helyett a postai küldemény tartalmának tényleges kereskedelmi értékét kell a kártérítési átalány számítása során alapul venni.
+(3) Ha a postai szolgáltató általános szerződési feltételeiben nem rendelkezik a (2) bekezdés szerint, vagy ha a feladó az értéknyilvánításban megjelölt összegként a tényleges kereskedelmi értéknél magasabb összeget tüntetett fel, úgy az értéknyilvánításban megjelölt összeg helyett a postai küldemény tartalmának tényleges kereskedelmi értékét, ha az értéknyilvánításban megjelölt összeg alacsonyabb a tényleges kereskedelmi értéknél, úgy az értéknyilvánításban megjelölt összeget kell a kártérítési átalány számítása során alapul venni.
 
 (4) Ha az értéknyilvánítás-szolgáltatással feladott (a továbbiakban: értéknyilvánított) postai küldemény megsemmisül, teljesen vagy részlegesen elvész, vagy megsérül, a postai szolgáltató az (1)–(3) bekezdésben foglaltak figyelembevételével, az alábbiak szerint köteles kártérítési átalányt fizetni:
 
@@ -704,7 +716,7 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 
 (2) Az időgarantált postai küldemény késedelmes kézbesítéséért vagy a kézbesítés késedelmes megkísérléséért a postai szolgáltató kártérítési átalányt köteles fizetni. A kártérítési átalány összege az időgarantált postai szolgáltatásért fizetett díj kétszerese.
 
-(3) Nem terheli a postai szolgáltatót az időgarantált postai küldemény késedelmes kézbesítéséért, ha
+(3) Nem terheli a postai szolgáltatót kártérítési felelősség az időgarantált postai küldemény késedelmes kézbesítéséért, ha
 
 - a) a késedelmet a működési körén kívül eső elháríthatatlan ok idézte elő,
 - b) a postai küldemény határidőben történő kézbesítése azért volt sikertelen, mert a címzett vagy más jogosult átvevő nem volt elérhető a címben megjelölt helyen,
@@ -714,16 +726,17 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 
 49. § (1) Amennyiben a postai szolgáltatási szerződés teljesítése során a postai szolgáltató kártérítési felelőssége több jogcímen is felmerül, a postai szolgáltató által kártérítésként megfizetendő összeg a 46. §-ban, a 47. §-ban vagy a 48. §-ban meghatározott kártérítési átalány közül a legnagyobb összege erejéig terjedhet.
 
-(2) Az utánküldés-szolgáltatás nem szerződésszerű teljesítése esetén fizetendő kártérítési átalány a szolgáltatás díjának kétszerese. Ha a díj időtartam-alapú, a kártérítési átalány alapját a legrövidebb fizethető időtartamra vonatkozó díj képezi.
+(2) Az utánküldés-szolgáltatás nem vagy nem szerződésszerű teljesítése esetén fizetendő kártérítési átalány a szolgáltatás díjának kétszerese. Ha a díj időtartam-alapú, a kártérítési átalány alapját a legrövidebb fizethető időtartamra vonatkozó díj képezi.
 
 #### 30. A kártérítési igény érvényesítése
 
 50. § (1) A kártérítési igény érvényesítésére – a (2) és (3) bekezdésben foglaltak kivételével – a feladó jogosult.
 
-(2) A címzett kizárólag abban az esetben jogosult a kártérítési igény érvényesítésére, ha
+(2) A címzett – a 44. § (4) bekezdés esetében is – kizárólag abban az esetben jogosult a kártérítési igény érvényesítésére, ha
 
 - a) a postai küldeményt részére vagy egyéb jogosult átvevő részére kézbesítették, vagy
-- b) a kártérítési igény érvényesítésének jogát a feladó írásban a címzettre engedményezte.
+- b) a kártérítési igény érvényesítésének jogát a feladó írásban a címzettre engedményezte, vagy
+- c) a 41. § (5) bekezdésben meghatározottak alapján a postai küldeményt a címzett tulajdonának kell tekinteni.
 
 (3) A feladón és címzetten kívüli harmadik személy kizárólag abban az esetben jogosult a kártérítési igény érvényesítésére, ha az ezzel kapcsolatos követelést a kártérítésre jogosult írásban engedményezte javára.
 
@@ -778,6 +791,10 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 
 (4) A postai szolgáltató a postai szolgáltatás teljesítésével kapcsolatos, valamint a szolgáltatás teljesítése során tudomására jutott adatokat kizárólag a postai szolgáltatási szerződés teljesítése, a teljesítés igazolása, elszámolása és utólagos ellenőrzése céljából továbbíthatja harmadik országban lévő adatkezelő vagy adatfeldolgozó részére.
 
+(5) Az egyetemes postai szolgáltató, a közvetlen vagy közvetett tulajdonában álló gazdasági társaság és a velük szoros kapcsolatban álló vállalkozás a törvény vagy az érintett hozzájárulása alapján kezelt, közösen használt informatikai rendszerben nyilvántartott, valamely természetes személy ügyfél azonosítására szolgáló adatot az információs önrendelkezési jogról és az információszabadságról szóló törvény rendelkezései alapján helyesbíti, ha tudomására jut, hogy az adat nem felel meg a valóságnak. Nem felel meg a valóságnak az adat különösen akkor, ha az adat megváltozásának tényét vagy az adat helytelenségét és a valóságnak megfelelő adatot okirattal vagy személyes nyilatkozattal igazolták.
+
+(6) Az (5) bekezdést a nem természetes személy ügyfélről az egyetemes postai szolgáltató, a közvetlen vagy közvetett tulajdonában álló gazdasági társaság és a velük szoros kapcsolatban álló vállalkozás által kezelt adatokra is alkalmazni kell.
+
 55. § (1) A postai szolgáltató az általa kezelt postai küldemény tartalmát csak a szolgáltatás teljesítéséhez szükséges mértékben ismerheti meg.
 
 (2) A postai szolgáltató a postai szolgáltatása keretében
@@ -820,7 +837,7 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 
 (6) A postai szolgáltatónak minden postai szolgáltatóhelyen lehetőséget kell biztosítani a felhasználói bejelentések, panaszok megtételére szóban vagy írásban.
 
-(7) Panasz a postai küldeményhez kapcsolódóan a feladás napjától hat hónapos jogvesztő határidőn belül, sérelmezett tevékenység vagy magatartás esetén az erről való tudomásszerzéstől számított harminc napon belül, de legkésőbb a tevékenység vagy a magatartás megvalósítását követő hat hónapon belül tehető.
+(7) Panasz a postai küldeményhez kapcsolódóan a feladás napjától 6 hónapos jogvesztő határidőn belül, sérelmezett tevékenység esetén az erről való tudomásszerzéstől számított 30 napon belül, de legkésőbb a tevékenység megvalósítását követő 6 hónapon belül tehető.
 
 (8) A postai szolgáltató köteles a beérkező panaszokat ingyenes, egyszerű, átlátható és megkülönböztetéstől mentes eljárás keretében megvizsgálni és a panaszokról, kezelésük módjáról nyilvántartást vezetni. A panaszkezelés felhasználókat érintő szabályait a szolgáltató általános szerződési feltételeiben köteles közzétenni.
 

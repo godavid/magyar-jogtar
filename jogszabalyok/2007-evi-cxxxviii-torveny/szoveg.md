@@ -507,9 +507,7 @@ amelyekről legalább évente beszámol a befektetési vállalkozás ügyvezeté
 
 (7) A felügyeleti jogkörrel rendelkező vezető testület számára feladatai ellátása során hozzáférést kell biztosítani a befektetési vállalkozás kockázataira vonatkozó információkhoz, a kockázati ellenőrzés funkcióhoz és a külső szakértők véleményéhez.
 
-(8) Ha a tárgyévet megelőző üzleti évben a nem nyilvános részvénytársasági formában működő befektetési vállalkozás mérlegfőösszege meghaladja az ötszázmilliárd forintot, akkor a Ptk. 3:291. §-a szerinti audit bizottságot hoz létre és működtet.
-
-(9) A (8) bekezdésben foglaltak nem alkalmazandóak, ha a befektetési vállalkozás rendelkezik olyan testülettel, amely megfelel a Ptk. 3:291. § (2) és (4) bekezdésében meghatározott feltételeknek és a testület ellátja a Ptk. 3:291. § (1) bekezdésében foglaltakat. A befektetési vállalkozás ebben az esetben saját honlapján nyilvánosságra hozza, hogy melyik testület látja el a Ptk. 3:291. § (1) bekezdésében foglaltakat és a testület összetételét.
+(8)–(9)
 
 20/B. § (1) Ha a befektetési vállalkozásnak a tárgyévet megelőző évi mérlegfőösszege meghaladja a kétszázmilliárd forintot, akkor hatékony, átfogó és független, a befektetési vállalkozás minden jelentős kockázatára kiterjedő kockázati ellenőrzési funkcióért felelős szervezeti egységet alakít ki és működtet.
 
@@ -524,6 +522,26 @@ amelyekről legalább évente beszámol a befektetési vállalkozás ügyvezeté
 (4) A kockázati ellenőrzési funkcióért felelős szervezeti egység közvetlenül is jelentést tehet a felügyeleti jogkörrel rendelkező vezető testület számára, és felhívhatja a figyelmét arra, hogy egyedi kockázat kialakulása veszélyezteti vagy veszélyeztetheti a befektetési vállalkozás működését.
 
 (5) Az e törvényben meghatározott összeférhetetlenségi szabályokat figyelembe véve a méret, tevékenység jellege, nagyságrendje és összetettsége arányában a befektetési vállalkozás a kockázati ellenőrzési funkció gyakorlására és irányítására csak ezzel a feladattal megbízott, külön – megfelelő szakértelemmel és gyakorlattal rendelkező – független vezetőt jelöl ki, akinek munkaviszonya felmondással, azonnali hatályú felmondással csak a felügyeleti jogkörrel rendelkező vezető testület jóváhagyásával szüntethető meg.
+
+### Auditbizottság
+
+20/C. § (1) A közérdeklődésre számot tartó befektetési vállalkozásnál a Ptk. jogi személyekre vonatkozó rendelkezései szerinti auditbizottságot kell létrehozni és működtetni azzal, hogy ahol a Ptk. jogi személyekre vonatkozó rendelkezése részvénytársaságot és közgyűlést említ, ott befektetési vállalkozást és annak legfőbb szervét kell érteni.
+
+(2) Az auditbizottság elnökét annak tagjai vagy a közérdeklődésre számot tartó befektetési vállalkozás felügyelőbizottsága jelöli ki.
+
+(3) Az auditbizottság – a Ptk. 3:291. § (1) bekezdésében meghatározott feladatokon túl –
+
+- a) figyelemmel kíséri a közérdeklődésre számot tartó befektetési vállalkozás belső ellenőrzési, kockázatkezelési rendszereinek hatékonyságát, valamint a pénzügyi beszámolás folyamatát és szükség esetén ajánlásokat fogalmaz meg;
+- b) figyelemmel kíséri az éves és összevont (konszolidált) éves beszámoló jogszabályi kötelezettségen alapuló könyvvizsgálatát, figyelembe véve a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény (a továbbiakban: Kkt.) szerinti könyvvizsgálói közfelügyeleti feladatokat ellátó hatóság által lefolytatott, a Kkt. szerinti minőségellenőrzési eljárás során tett megállapításokat és következtetéseket;
+- c) felülvizsgálja és figyelemmel kíséri a jogszabály szerint engedélyezett könyvvizsgáló vagy a könyvvizsgáló cég függetlenségét, különös tekintettel a közérdeklődésre számot tartó gazdálkodó egységek jogszabályban előírt könyvvizsgálatára vonatkozó egyedi követelményekről és a 2005/909/EK bizottsági határozat hatályon kívül helyezéséről szóló, 2014. április 16-i 537/2014/EU európai parlamenti és tanácsi rendelet 5. cikkében foglaltak teljesülését.
+
+(4) A mérlegfőösszeg tekintetében 5 százaléknál kisebb piaci részesedéssel rendelkező befektetési vállalkozás közös kockázatvállalási-kockázatkezelési és auditbizottságot állíthat fel.
+
+(5) Az (1) bekezdésben foglaltakat a közérdeklődésre számot tartó nem nyilvános részvénytársasági formában működő befektetési vállalkozásnak nem kell alkalmaznia, ha összevont alapú felügyelet alatt áll, és a magyarországi székhelyű anyavállalatának auditbizottsága a befektetési vállalkozás vonatkozásában is ellátja a (3) bekezdésben meghatározott feladatokat.
+
+(6) Az (1) és (2) bekezdésben foglaltakat a közérdeklődésre számot tartó nem nyilvános részvénytársasági formában működő befektetési vállalkozásnak nem kell alkalmaznia, ha a befektetési vállalkozás felügyeleti jogkörrel rendelkező vezető testülete ellátja a (3) bekezdésben meghatározott feladatokat.
+
+(7) A (6) bekezdésben meghatározott esetben a befektetési vállalkozás a saját honlapján nyilvánosságra hozza, hogy az auditbizottság feladatait a befektetési vállalkozás felügyeleti jogkörrel rendelkező vezető testülete látja el, továbbá a testület összetételét.
 
 ### A jogszabályoknak történő megfelelésért felelős vezető
 
@@ -2109,7 +2127,7 @@ felelős azzal, hogy egyúttal biztosítja a működéshez és a tevékenység v
 
 97. § (1) A befektetési vállalkozás, illetőleg az árutőzsdei szolgáltató a könyvvizsgálói feladatok ellátására annak az érvényes könyvvizsgálói engedéllyel rendelkező könyvvizsgálónak, illetve könyvvizsgáló cégnek ad megbízást, aki, illetve amely a Ptk. könyvvizsgálóra vonatkozó rendelkezéseinek megfelel és rendelkezik befektetési vállalkozási minősítéssel.
 
-(2) A befektetési vállalkozás, illetőleg az árutőzsdei szolgáltató természetes személy könyvvizsgálójának megbízatása legfeljebb 5 évig tarthat és a megbízatás lejártát követő harmadik év után lehet újabb megbízási szerződést kötni ugyanazon könyvvizsgálóval. A könyvvizsgáló cég nevében könyvvizsgálói tevékenységet ellátó kamarai tag könyvvizsgáló legfeljebb 5 évig láthat el könyvvizsgálói feladatokat ugyanannál a befektetési vállalkozásnál, illetőleg árutőzsdei szolgáltatónál, és a megbízatás lejártát követő 2 üzleti éven belül nem láthat el újra – ugyanannál a befektetési vállalkozásnál, illetőleg árutőzsdei szolgáltatónál – könyvvizsgálói feladatot.
+(2)
 
 (3) A könyvvizsgáló egyidejűleg legfeljebb öt befektetési vállalkozásnál, illetőleg öt árutőzsdei szolgáltatónál láthat el könyvvizsgálói feladatot, és az egy befektetési vállalkozástól, illetőleg árutőzsdei szolgáltatótól származó jövedelme vagy árbevétele nem haladhatja meg az éves jövedelmének vagy árbevételének harminc százalékát azzal, hogy ha a könyvvizsgáló egy könyvvizsgáló társaság alkalmazottja vagy megbízottja, akkor ennek a könyvvizsgálói társaságnak az éves árbevételének legfeljebb tíz százaléka származhat egy befektetési vállalkozástól, illetőleg árutőzsdei szolgáltatótól.
 
@@ -4130,6 +4148,12 @@ foglalt követelményeknek.
 
 182/A. § A 123/B. § szerinti intézmény a FATCA-törvény hatálybalépését megelőzően létrejött pénzügyi számlák tekintetében a 123/C. § (1) bekezdés szerinti tájékoztatást írásban vagy – általános jelleggel, a számlatulajdonosok azonosítására alkalmatlan módon – a honlapján történő közzététellel legkésőbb 2015. június 30-ig teljesíti.
 
+182/B. § (1) A Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény és egyes pénzügyi tárgyú törvények módosításáról szóló 2016. évi XLIV. törvény (a továbbiakban: Módtv2.) 60. §-ával bevezetett 20/C. §-t a Módtv2. hatálybalépését követően induló üzleti évben kell először alkalmazni.
+
+(2) A Módtv2. 63. §-ával hatályon kívül helyezett 20/A. § (8) és (9) bekezdést a Módtv2. hatálybalépésének napját magában foglaló üzleti évre még alkalmazni lehet.
+
+(3) A Módtv2. 63. §-ával hatályon kívül helyezett 97. § (2) bekezdését a 2016. június 17-ét megelőzően induló üzleti évre vonatkozó jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységre még alkalmazni kell.
+
 ### Jogharmonizációs záradék
 
 183. § (1) E törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
@@ -4141,7 +4165,8 @@ foglalt követelményeknek.
 - e) Az Európai Parlament és a Tanács 2010. november 24-i 2010/78/EU irányelve a 98/26/EK, 2002/87/EK, 2003/6/EK, 2003/41/EK, 2003/71/EK, 2004/39/EK, 2004/109/EK, 2005/60/EK, 2006/48/EK, 2006/49/EK és 2009/65/EK irányelvnek az európai felügyeleti hatóság (Európai Bankhatóság), az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról,
 - f) az Európai Parlament és a Tanács 2013/36/EU irányelve (2013. június 26.) a hitelintézetek tevékenységéhez való hozzáférésről és a hitelintézetek és befektetési vállalkozások prudenciális felügyeletéről, a 2002/87/EK irányelv módosításáról, a 2006/48/EK és a 2006/EK irányelv hatályon kívül helyezéséről,
 - g) az Európai Parlament és a Tanács 2011. november 16-i 2011/89/EU irányelve a 98/78/EK, a 2002/87/EK, a 2006/48/EK és a 2009/138/EK irányelvnek a pénzügyi konglomerátumhoz tartozó pénzügyi vállalkozások kiegészítő felügyelete tekintetében történő módosításáról,
-- h) A Tanács 2014/107/EU irányelve (2014. december 9.) a 2011/16/EU tanácsi irányelvnek az adózás területére vonatkozó kötelező automatikus információcsere tekintetében történő módosításáról.
+- h) A Tanács 2014/107/EU irányelve (2014. december 9.) a 2011/16/EU tanácsi irányelvnek az adózás területére vonatkozó kötelező automatikus információcsere tekintetében történő módosításáról,
+- i) az Európai Parlament és Tanács 2016. április 16-i 2014/56/EU irányelve az éves és összevont (konszolidált) éves beszámolók jog szerinti könyvvizsgálatáról szóló 2006/43/EK irányelv módosításáról.
 
 (2) Ez a törvény
 
