@@ -21,7 +21,7 @@ az építmények tervezésével és kivitelezésével kapcsolatos egyes viták r
 
 (5) A szakértői vélemény jogszabályban meghatározott díjazás ellenében kérhető.
 
-(6) A Teljesítésigazolási Szakértői Szerv – a Teljesítésigazolási Szakértői Szerv szakvéleményére alapított per kivételével – az igazságügyi szakértői tevékenységről szóló 2005. évi XLVII. törvény (a továbbiakban: Szaktv.) 1. § (1) bekezdésében meghatározott szervek eljárásában nem rendelhető ki.
+(6) A Teljesítésigazolási Szakértői Szerv – a Teljesítésigazolási Szakértői Szerv szakvéleményére alapított per kivételével – az igazságügyi szakértőkről szóló 2016. évi XXIX. törvény (a továbbiakban: Szaktv.) 2. § 8. pontjában meghatározott szervek eljárásában nem rendelhető ki.
 
 (7) Az e törvényben nem szabályozott kérdésekben a Teljesítésigazolási Szakértői Szerv, valamint a tagjának jogaira és kötelezettségeire a Szaktv. rendelkezéseit megfelelően alkalmazni kell.
 
@@ -69,7 +69,7 @@ egyetértésével nevezi ki.
 
 (2) A Teljesítésigazolási Szakértői Szerv vezetője hivatalból gondoskodik arról, hogy kizárt tag ne vegyen részt a szakértői vélemény kialakításában.
 
-(3) A szakértői tanács tagja a Szaktv. 13. § (4) bekezdésében foglaltakat a tudomására jutástól számított 5 napon belül jelzi a Teljesítésigazolási Szakértői Szerv vezetőjének.
+(3) A szakértői tanács tagja a Szaktv. 45. § (4) bekezdésében foglaltakat a tudomására jutásától számított 5 napon belül jelzi a Teljesítésigazolási Szakértői Szerv vezetőjének.
 
 (4) Ha a szakértői tanács tagja a kizáró okot maga jelentette be vagy a kizáráshoz maga is hozzájárult, továbbá ha a kizáró okot a Teljesítésigazolási Szakértői Szerv vezetője állapítja meg, az eljárásra másik tagot jelöl ki. Így kell eljárni akkor is, ha a szakértői tanács tagja a szakértői vélemény elkészítésének egyéb akadályát maga jelentette be.
 

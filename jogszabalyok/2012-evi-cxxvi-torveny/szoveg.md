@@ -471,7 +471,7 @@ használhatja fel.
 
 (9) Az agrárkamara részt vesz a közösségi forrásból is támogatott tanácsadási, tájékoztatási feladatok ellátásában.
 
-#### 16/A. §
+16/A. § Az agrárkamara állítja ki, illetve hitelesíti a mezőgazdasági termékek és élelmiszerek vonatkozásában az Uniós Vámkódex létrehozásáról szóló, 2013. október 9-i 952/2013/EU európai parlamenti és tanácsi rendelet szerinti származási igazolásokat, bizonyítványokat és kereskedelmi forgalomban szükséges más okmányokat.
 
 ### V. Fejezet — AZ AGRÁRKAMARA ÖNKORMÁNYZATA
 
