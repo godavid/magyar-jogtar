@@ -112,7 +112,7 @@ Magyarország Országgyűlése a közpénzek hatékony felhasználásának átl�
 - b) olyan építési beruházás, amely kórház, sportlétesítmény, szabadidős és szórakoztató létesítmény, iskola, felsőoktatási épület vagy közigazgatási rendeltetésű épület építési munkáit foglalja magában, vagy
 - c) olyan szolgáltatás megrendelése, amely az a) vagy a b) pont szerinti építési beruházáshoz kapcsolódik.
 
-(3) A (2) bekezdésben foglaltak mellett a támogatásból megvalósuló beszerzés vonatkozásában közbeszerzési eljárás lefolytatására kötelezett az az (1) bekezdés hatálya alá nem tartozó szervezet, amelynek szolgáltatás megrendelését, árubeszerzését vagy építési beruházását az (1) bekezdésben meghatározott egy vagy több szervezet legalább huszonötmillió forint összegben közvetlenül támogatja, kivéve, ha a beszerzés
+(3) A (2) bekezdésben foglaltak mellett a vissza nem térítendő támogatásból – ide nem értve a kombinált pénzügyi eszközöket – megvalósuló beszerzés vonatkozásában közbeszerzési eljárás lefolytatására kötelezett az az (1) bekezdés hatálya alá nem tartozó szervezet, amelynek szolgáltatás megrendelését, árubeszerzését vagy építési beruházását az (1) bekezdésben meghatározott egy vagy több szervezet legalább huszonötmillió forint összegben közvetlenül támogatja, kivéve, ha a beszerzés
 
 - a) egyedi kormánydöntésben megállapított beruházási támogatásból,
 - b) egyedi munkahely-teremtési támogatásból,
@@ -1055,6 +1055,8 @@ az ajánlatkérő az eljárást megindító felhívásban jelzi, hogy a közbesz
 - f) emberkereskedelem vagy kényszermunka esetén az emberkereskedelem megelőzéséről, és az ellene folytatott küzdelemről, az áldozatok védelméről, valamint a 2002/629/IB tanácsi kerethatározat felváltásáról szóló 2011. április 5-i 2011/36/EU európai parlamenti és tanácsi irányelv 2. cikkében meghatározott gyermekmunkát és az emberkereskedelem más formáit
 
 kell érteni.
+
+(5a) Az (1) bekezdés n) pontját a közbeszerzési eljárásban nem kell alkalmazni, ha a Kormány a verseny biztosítása érdekében annak alkalmazása alól az ajánlatkérő kezdeményezésére a közbeszerzésekért felelős miniszter előterjesztése alapján hozott egyedi határozatában felmentést adott. A felmentést az ajánlatkérő kizárólag a közbeszerzési eljárás megkezdését megelőzően, akkor kérheti, ha a közbeszerzési eljárással érintett piac gazdasági szereplőinek jelentős része az (1) bekezdés n) pontja szerinti kizáró ok hatálya alatt áll, ide nem értve azon gazdasági szereplőket, amelyek a 64. § szerinti öntisztázás alapján nem zárhatók ki a közbeszerzési eljárásból. Az ajánlatkérő az eljárást megindító felhívásban feltünteti, hogy a közbeszerzési eljárásban az (1) bekezdés n) pontja szerinti kizáró okot a Kormány határozatára tekintettel nem alkalmazza.
 
 (6) Az ajánlatkérő az eljárást megindító felhívásban köteles hivatkozni az (1) és (2) bekezdésben foglalt kizáró okokra.
 
@@ -3214,6 +3216,8 @@ rendelkezik.
 (2) A közbeszerzésekről szóló 2011. évi CVIII. törvény rendelkezéseit a 2015. november 1. napját megelőzően megkezdett beszerzésekre, – az (1) bekezdés második mondatában foglalt kivétellel – közbeszerzési eljárások alapján megkötött szerződésekre, tervpályázati eljárásokra és az azokkal kapcsolatban kérelmezett, kezdeményezett vagy hivatalból indított jogorvoslati eljárásokra és előzetes vitarendezési eljárásokra alkalmazni kell.
 
 (3) A 9. § (1) bekezdés a) pontja szerinti külön törvény hatálybalépéséig a 198. § (1) bekezdés 20–21. pontja szerinti Korm. rendeletek által szabályozott beszerzési eljárásokban a jogorvoslati eljárás lefolytatása a Közbeszerzési Döntőbizottság hatáskörébe tartozik. A jogorvoslati eljárás során e törvény Hatodik Része szerint kell eljárni, azzal, hogy a jogorvoslati kérelem és a döntés a Közbeszerzési Hatóság honlapján nem tehető közzé, és a Közbeszerzési Döntőbizottság csak zárt tárgyalást tarthat.
+
+(4) E törvénynek a közbeszerzésekről szóló 2015. évi CXLIII. törvény módosításáról szóló 2016. évi LXIII. törvénnyel (a továbbiakban: Mód. tv.) megállapított 5. § (3) bekezdése, 62. § (5a) bekezdése a Mód. tv. hatálybalépését követően megkezdett beszerzésekre, közbeszerzési eljárásokra, közbeszerzési eljárás alapján megkötött szerződésekre és az azokkal kapcsolatban indított jogorvoslati eljárásokra alkalmazandó.
 
 197/A. § Az egyes törvényeknek a Nemzeti Adó- és Vámhivatal átalakításával, valamint a költségvetési tervezéssel és gazdálkodással kapcsolatos módosításáról szóló 2015. évi CXCI. törvénnyel megállapított
 

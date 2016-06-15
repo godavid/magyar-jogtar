@@ -177,7 +177,7 @@ a bírósági végrehajtásról
 22. § A bíróság végrehajtási záradékkal látja el
 
 - a) a községi, városi, fővárosi kerületi jegyzőnek a birtokvitában hozott, az elmaradt haszon, a kár és a költség megtérítésére kötelező határozatát,
-- b) a Magyar Állatorvosi Kamara etikai bizottságának és országos etikai bizottságának, az ügyvédi fegyelmi hatóságnak, a tervező- és szakértő mérnökök, valamint építészek fegyelmi testületének és az igazságügyi szakértői kamara etikai tanácsának, továbbá az egészségügyben működő szakmai kamarákról szóló külön törvény szerinti első- és másodfokú etikai bizottságok pénzbírság és eljárási költség megfizetésére kötelező határozatát,
+- b) a Magyar Állatorvosi Kamara etikai bizottságának és országos etikai bizottságának, az ügyvédi fegyelmi hatóságnak, a tervező- és szakértő mérnökök, valamint építészek fegyelmi testületének és az igazságügyi szakértői kamara fegyelmi vagy etikai tanácsának, továbbá az egészségügyben működő szakmai kamarákról szóló külön törvény szerinti első- és másodfokú etikai bizottságok pénzbírság és eljárási költség megfizetésére kötelező határozatát,
 - c)
 - d) azt a teljes bizonyító erejű magánokiratot, amely az ingatlan közös tulajdonának árveréssel történő megszüntetésére irányuló szerződésről szól, ha az okirat tartalmazza az ingatlan becsértékét, az árverési feltételeket, továbbá az eljárási költség viselésének és a befolyt vételár felosztásának a módját,
 - e) a Szellemi Tulajdon Nemzeti Hivatalának a költségek viselése tárgyában hozott döntését,
