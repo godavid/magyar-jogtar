@@ -749,9 +749,9 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 - a) a földhasználati nyilvántartásba földhasználóként bejegyzett,
 - b) a családi gazdaságokról vezetett nyilvántartásba családi gazdálkodóként bejegyzett vagy családi gazdaság alapításáról szóló megállapodással rendelkezik és abban családi gazdálkodóként szerepel,
-- c) haszonbérleti, felesbérleti, részesművelési, szívességi földhasználati vagy alhaszonbérleti szerződés, továbbá – a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 70. §-a vagy 76. §-a szerinti – használati rendről szóló megállapodás alapján földhasználó,
+- c) haszonbérleti, felesbérleti, részesművelési, szívességi földhasználati, rekreációs célú földhasználati vagy alhaszonbérleti szerződés, továbbá – a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 70. §-a vagy 76. §-a szerinti – használati rendről szóló megállapodás, valamint bíróság ideiglenes intézkedése alapján földhasználó, továbbá honvédelmi rendeltetésű terület esetében annak használatára szerződés alapján jogosult,
 - d) az ingatlan-nyilvántartásba vagyonkezelőként, haszonélvezőként vagy a Polgári Törvénykönyvről szóló 2013. évi V. törvény 5:159. §-a szerinti használat jogának jogosultjaként bejegyzett,
-- e) az ingatlan-nyilvántartásba tulajdonosként bejegyzett,
+- e) az ingatlan-nyilvántartásba tulajdonosként vagy szövetkezeti földhasználat jogosultjaként bejegyzett,
 - f) a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 42. § (2) bekezdés c) pontja szerinti esetben az a személy, aki a földhasználati nyilvántartásba bejegyzett földhasználóval kötött írásbeli megállapodással rendelkezik,
 - g) az osztatlan közös tulajdonban álló földterületen a tulajdoni hányadát meghaladó mértékű területen a tulajdoni hányadát meghaladó mértékű terület vonatkozásában a gazdálkodó tulajdonostárs, ha a földhasználati nyilvántartásba önhibáján kívüli okból nem került bejegyzésre és rendelkezik a terület adott hányadának használatára jogosító írásbeli megállapodással és a használat tényét az általa vezetett gazdálkodási napló alátámasztja,
 - h) osztatlan közös tulajdonban álló földterületen gazdálkodó tulajdonostársnak nem minősülő személy, ha a földhasználati nyilvántartásba önhibáján kívüli okból nem került bejegyzésre és rendelkezik a terület adott hányadának használatára jogosító írásbeli megállapodással és a használat tényét az általa vezetett gazdálkodási napló alátámasztja,
@@ -1135,7 +1135,7 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 69. § (1) Az intézkedésben való részvétellel összefüggésben megállapított jogosultság vagy az igénybe vett támogatás egésze vagy egy része jogosulatlannak minősül, amennyiben az ügyfél:
 
-- a) valótlan tényt közöl,
+- a) támogatási feltétel vonatkozásában valótlan tényt közöl,
 - b) adatot eltitkol,
 - c) az intézkedés céljának megvalósulásával kapcsolatos vizsgálatot vagy ellenőrzést akadályozza, ideértve azt az esetet is, ha adatszolgáltatási vagy fizetési kötelezettségét megszegi,
 - d) az intézkedésben való részvételi jogosultságot vagy a támogatást rendeltetéstől eltérően használja fel,
@@ -1416,3 +1416,7 @@ rendeletben állapítsa meg.
 88. § Az egyes agrártámogatási tárgyú törvények módosításáról szóló 2015. évi XII. törvénnyel [a továbbiakban: 2015. évi XII. törvény] megállapított 38. § (6a) bekezdését, 41. § (2a) bekezdését, valamint 57/A. § (5a) bekezdését a 2015. évi XII. törvény hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
 89. § A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény módosításáról szóló 2015. évi XCIX. törvénnyel megállapított 44. § (4) és (7) bekezdést a 2015. évben beadott egységes kérelmekre induló eljárásokban is alkalmazni kell.
+
+90. § (1) E törvény 44. § (7) bekezdésének a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény és a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény módosításáról szóló 2016. évi LX. törvénnyel (a továbbiakban: 2016. évi LX. törvény) megállapított rendelkezéseit a 2016. évben beadott egységes kérelmekre induló eljárásokban is alkalmazni kell.
+
+(2) E törvény 69. § (1) bekezdése a) pontjának a 2016. évi LX. törvénnyel megállapított rendelkezéseit a 2016. évi LX. törvény hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
