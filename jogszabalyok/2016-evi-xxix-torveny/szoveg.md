@@ -932,39 +932,11 @@ való megfelelést szolgálja.
 
 #### 83. Módosító rendelkezések
 
-161. § A bírósági végrehajtásról szóló 1994. évi LIII. törvény 22. § b) pontja helyébe a következő rendelkezés lép:
-
-(A bíróság végrehajtási záradékkal látja el)
-
-„b) a Magyar Állatorvosi Kamara etikai bizottságának és országos etikai bizottságának, az ügyvédi fegyelmi hatóságnak, a tervező- és szakértő mérnökök, valamint építészek fegyelmi testületének és az igazságügyi szakértői kamara fegyelmi vagy etikai tanácsának, továbbá az egészségügyben működő szakmai kamarákról szóló külön törvény szerinti első- és másodfokú etikai bizottságok pénzbírság és eljárási költség megfizetésére kötelező határozatát,”
-
-162. § Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény 1. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) E törvény hatálya alá tartozó igazságügyi szakértő, valamint szakértőjelölt szolgálati viszonyára az igazságügyi szakértőkről szóló 2016. évi XXIX. törvénynek és az igazságügyi szakértőkről szóló jogszabályoknak a rendelkezéseit, a törvényszéki végrehajtó, végrehajtó-helyettes, végrehajtójelölt, valamint a végrehajtási ügyintéző szolgálati viszonyára a bírósági végrehajtásról szóló 1994. évi LIII. törvénynek a rendelkezéseit is alkalmazni kell.”
-
-163. § Az egészségügyi közvetítői eljárásról szóló 2000. évi CXVI. törvény 1. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A közvetítői eljárás lefolytatását kérheti a beteg, a beteg halála esetén annak közeli hozzátartozója vagy örököse és a szolgáltató (a továbbiakban: felek). A kérelmet a Magyar Igazságügyi Szakértői Kamaránál kell előterjeszteni.”
-
-164. § (1) A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 58. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A kirendelt szakértő eljárási bírsággal sújtható és díja a határidő lejártát követő naptól kezdődően naponta egy százalékkal csökkenthető, ha anélkül, hogy a határidő meghosszabbítása iránti igényét vagy akadályoztatását előzetesen bejelentette volna, feladatait határidőre nem teljesíti.”
-
-(2) A Ket. 157/A. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Ha a letét nem fedezi a szakértői díjat, kérelemre indult eljárás esetén a hatóság kötelezi az ügyfelet a szakértői díj viselésére és a még szükséges összeg letétbe helyezésére.”
-
-165. § (1) Az építmények tervezésével és kivitelezésével kapcsolatos egyes viták rendezésében közreműködő szervezetről, és egyes törvényeknek az építésügyi lánctartozások megakadályozásával, valamint a késedelmes fizetésekkel összefüggő módosításáról szóló 2013. évi XXXIV. törvény (a továbbiakban: TSzSzt.) 1. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) A Teljesítésigazolási Szakértői Szerv – a Teljesítésigazolási Szakértői Szerv szakvéleményére alapított per kivételével – az igazságügyi szakértőkről szóló 2016. évi XXIX. törvény (a továbbiakban: Szaktv.) 2. § 8. pontjában meghatározott szervek eljárásában nem rendelhető ki.”
-
-(2) A TSzSzt 5. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A szakértői tanács tagja a Szaktv. 45. § (4) bekezdésében foglaltakat a tudomására jutásától számított 5 napon belül jelzi a Teljesítésigazolási Szakértői Szerv vezetőjének.”
+161–165. §
 
 #### 84. Hatályon kívül helyező rendelkezések
 
-166. § (1) Hatályát veszti az igazságügyi szakértői tevékenységről szóló 2005. évi XLVII. törvény.
+166. § (1)
 
 (2)
 

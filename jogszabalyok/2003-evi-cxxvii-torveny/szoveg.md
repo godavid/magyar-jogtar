@@ -1284,7 +1284,9 @@ adófizetési kötelezettsége esetén – a vevő, a hitelező, illetve a jöve
 
 (25) A bejegyzett kereskedői engedély 24. § (3) bekezdése vagy az adóraktári engedély 38. § (7) bekezdése és 72. § (8a) bekezdése szerinti felfüggesztésének időtartama alatt a vámhatóság az elektronikus átvételi elismervényt nem továbbítja, az adóraktár engedélyese jövedéki terméket nem állíthat elő, szabadforgalomba nem bocsáthat, adófelfüggesztés alatt álló jövedéki terméket adóraktárából nem tárolhat ki és adóraktárába nem tárolhat be, a bejegyzett kereskedő pedig jövedéki terméket nem fogadhat.
 
-48/A. § (1) Jövedéki ügyekben nem kell alkalmazni a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 71. § (2) bekezdés a) pontjában, valamint 71. § (7) bekezdésében foglaltakat, és az újrafelvételi eljárásra vonatkozó szabályait.
+48/A. § (1) Jövedéki ügyekben nem kell alkalmazni a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 71. § (7) bekezdésében foglaltakat, és az újrafelvételi eljárásra vonatkozó szabályait.
+
+(1a) E törvény vagy e törvény végrehajtási rendelete szerinti engedélyezési eljárásban nem alkalmazható a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 71/A. § (2) bekezdés c) pontja.
 
 (2) Nem lehet elektronikus úton intézni:
 

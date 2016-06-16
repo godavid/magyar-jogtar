@@ -99,6 +99,7 @@ A piacgazdaság működéséhez szükséges, hogy a gazdálkodók a vagyoni, pé
 - g) véleményt nyilvánít a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységgel kapcsolatos kérdésekben,
 - h) dönt a kamarai tag könyvvizsgálók, a könyvvizsgáló cégek fegyelmi ügyében.
 - i)
+- j) Szakértői véleményt alakít ki az adózás rendjéről szóló törvény 132. § (5b) bekezdése alapján az IFRS-ek szerinti számviteli elszámolás minősítését is igénylő feltételes adómegállapítás iránti kérelem esetén, a számviteli elszámolás minősítésére vonatkozóan.
 
 (6) A kamara a tagok képviseletében különösen az alábbi feladatokat látja el:
 
