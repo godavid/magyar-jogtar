@@ -175,6 +175,8 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 
 (2) Az (1) bekezdés szerinti adótételek oda-, illetőleg visszaútra, a fuvarozás időtartamára, legfeljebb 48-48 órára Magyarország területén való tartózkodásra vonatkoznak. Az előző időtartamot meghaladó tartózkodás esetén minden megkezdett 48 óránként kell az adót az (1) bekezdésben foglaltak figyelembevételével megfizetni. E bekezdés szerinti fuvarozási időtartamba (tartózkodási időbe) nem számít bele a külön jogszabályban meghatározott forgalomkorlátozási időszak.
 
+(2a) Az (1) bekezdés szerinti adótétel első alkalommal való átutalása előtt az adózó vagy képviselője legalább 10 nappal megelőzően köteles az állami adó- és vámhatóságnál az e célra rendszeresített nyomtatványon bejelentkezni.
+
 (3) Az (1) bekezdés szerinti adótételt illetékbélyeggel kell megfizetni, melyet a közúti fuvarozási engedélyre – loco fuvarozás esetén a fuvarozás teljes időtartamára vonatkozóan, tranzit fuvarozás esetén az oda- és visszaútra külön-külön – kell felragasztani Magyarország területére való belépéskor. Adózó a felragasztást követően köteles a belépés időpontját (év-hónap-nap-óra) az illetékbélyegekre rávezetni. Adóköteles fuvarozási engedéllyel fizetési kötelezettség teljesítése (illetékbélyeg) nélkül legfeljebb Magyarország területére való belépéstől számított 5 km-es körzethatáron belül lehet szankciómentesen közlekedni.
 
 16. §
