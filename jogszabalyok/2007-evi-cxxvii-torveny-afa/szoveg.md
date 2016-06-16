@@ -3078,7 +3078,7 @@ jogosult az adó e fejezet szerinti visszatéríttetésére.
   - b) között névre szóló tulajdonosi (tagsági) jogviszony áll fenn;
   - c) között az egyik fél a másik félnek vezető tisztségviselője vagy felügyelőbizottsági tagja;
   - d) között a 6. § (5) bekezdése szerinti viszony áll fenn;
-  - e) egymás közeli hozzátartozói, vagy az a)–d) alpontokban meghatározottak közeli hozzátartozója;
+  - e) egymás közeli hozzátartozói, vagy az a)–d) alpontokban meghatározottak közeli hozzátartozója; 13/A. összes hasznos alapterület: az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet 1. számú mellékletének 2016. január 1-jén hatályos 34., 46., 46a. és 88. pontjai által meghatározott alapterület;
 - 14. pénz: a névértéken elfogadott pénz;
 - 15. pénzhelyettesítő eszköz: utalvány, egyéb fizetési megbízás vagy ígérvény – ide nem értve a pénzt és a készpénz-helyettesítő fizetési eszközt –, ha azzal a kötelezett pénztartozást térít meg, feltéve, hogy annak jogosult általi elfogadásával a jogosult eredeti pénzkövetelése a kötelezettel szemben megszűnik;
 - 16. pénzügyi eszköz: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvényben meghatározott pénzügyi eszköz, kivéve azt a pénzügyi eszközt, amelynek megszerzése egyúttal az abban megjelölt termék tulajdonjogának megszerzését is jelenti;
@@ -3114,7 +3114,7 @@ jogosult az adó e fejezet szerinti visszatéríttetésére.
 - f) a gépi nyugta-, illetve nyugta- és számlaadásra szolgáló pénztárgép, taxaméter forgalmazása engedélyezésének szabályait – ide értve az engedélyezésre hatáskörrel rendelkező szerv kijelölését is –, a forgalmazási engedély kiadásának műszaki és személyi követelményeit, a forgalmazási engedély kiadásáért, módosításáért, kiterjesztéséért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat,
 - g) a pénztárgép, taxaméter forgalmazásának, szervizelésének és üzemeltetésének szabályait, a szervizek nyilvántartására és a nyilvántartásba vételére, nyilvántartásból való törlésére, a műszerészi igazolványra, annak kiadására, érvényességére és visszavonására vonatkozó szabályokat;
 - h) a pénztárgép forgalmazásával, üzemeltetésével, szervizelésével kapcsolatos kötelezettségek ellenőrzésére vonatkozó szabályokat,
-- i) a számlázási funkcióval rendelkező programokkal szembeni követelményeket és a számlázási funkcióval rendelkező programok értékesítésére és használatára vonatkozó adatszolgáltatási kötelezettségre vonatkozó szabályokat.
+- i) a számlázási funkcióval rendelkező programokkal szembeni követelményeket, valamint ezen programokkal kiállított számlák adatainak állami adóhatóság felé történő adatszolgáltatásának szabályait, és a számlázási funkcióval rendelkező programok értékesítésére és használatára vonatkozó adatszolgáltatási kötelezettségre vonatkozó szabályokat.
 
 (2) Az adópolitikáért felelős miniszter felhatalmazást kap arra, hogy – a külpolitikáért és a honvédelemért felelős miniszterrel egyetértésben – rendeletben állapítsa meg a 107. § szerinti adómentességhez, illetőleg adó-visszatéríttetési jog gyakorlásához fűződő igazolási kötelezettséget, az adó-visszatéríttetési kérelem kötelező adattartalmát, valamint az utólagos adó-visszatéríttetés eljárási szabályait.
 
@@ -3408,6 +3408,8 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
 (2) A 2016. május 1-jét megelőzően hatályos 156. § (2) bekezdés b) pontjában meghatározott feltételek teljesítése alapján meghozott jogerős határozatok 156. § (6) bekezdés a) pontjában meghatározott érvényességi idejét a 156. § 2016. május 1-jén hatályba lépő módosítása nem érinti.
 
 302. § E törvénynek az uniós vámjog végrehajtásáról szóló 2016. évi XIII. törvénnyel megállapított 4. számú melléklet 2. pont a) alpontját a 2016. április 30-át követően benyújtott kérelmek esetén kell alkalmazni.
+
+303. § E törvénynek az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel (a továbbiakban: Mód6 törvény) megállapított 8/A. számú melléklet 3. pontja szerinti államban letelepedett adóalanyok tekintetében a XVIII. Fejezet szerinti adó-visszatérítést azon ügyletek esetén kell először alkalmazni, amelyek teljesítési időpontja 2014. január 1. napjára esik vagy azt követi. E törvénynek a Mód6 törvénnyel megállapított 8/A. számú melléklet 3. pontja szerinti államban letelepedett adóalanyok a 2014. évre vonatkozó adó-visszatéríttetési kérelmeiket e törvény 251/C. § (1) bekezdésétől eltérően 2016. szeptember 30. napjáig nyújthatják be az állami adóhatósághoz.
 
 ### 1. számú melléklet a 2007. évi CXXVII. törvényhez
 
@@ -3843,6 +3845,7 @@ B. pont
 
 - 1. Liechtensteini Hercegség
 - 2. Svájci Államszövetség
+- 3. Norvég Királyság
 
 ### 9. számú melléklet a 2007. évi CXXVII. törvényhez
 

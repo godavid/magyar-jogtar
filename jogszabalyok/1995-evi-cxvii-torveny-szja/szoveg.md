@@ -697,8 +697,9 @@ nyújt be az adóhatósághoz.
 - f) a segítő családtag tevékenysége,
 - g) nemzetközi szerződés hatályában a nem önálló munka, ennek hiányában az adott állam joga szerinti munkaviszony,
 - h) a nevelőszülői foglalkoztatási jogviszonyban végzett tevékenység,
-- i) az országgyűlési képviselői tevékenység, valamint
-- j) a nemzetiségi szószólói tevékenység.
+- i) az országgyűlési képviselői tevékenység,
+- j) a nemzetiségi szószólói tevékenység, valamint
+- k) az állami projektértékelői jogviszony.
 
 (2) A nem önálló tevékenységből származó jövedelmet az e tevékenységből származó bevételből a 25–27. § rendelkezései szerint kell kiszámítani.
 
@@ -966,12 +967,7 @@ esetén a bevallásban, munkáltatói adómegállapításban – a másik jogosu
 
 35. § (1) Az összevont adóalap adóját csökkentő kedvezmények együttes összege legfeljebb az összevont adóalap adójának összegéig terjedhet.
 
-(2) Ha a magánszemély több adókedvezményre is jogosult, azokat az adóhatósági közreműködés nélkül benyújtott bevallásban vagy a munkáltatói adómegállapításban az általa megjelölt sorrendben, ennek hiányában, valamint adóhatósági közreműködéssel benyújtott egyszerűsített bevallásban a következő sorrendben, de legfeljebb a levonható adóra vonatkozó korlátozó rendelkezések által meghatározott mértékig kell érvényesítettnek tekinteni:
-
-- 1. lakáscélú hiteltörlesztés áthúzódó kedvezménye,
-- 2. személyi kedvezmény,
-- 3. őstermelői kedvezmény,
-- 4. egyéb.
+(2)
 
 36. §
 
@@ -1152,7 +1148,7 @@ de legfeljebb az adóévben – az a)–b) pontok vonatkozásában együttesen �
 - a) az őstermelői tevékenységből származó bevételből, ha a magánszemély legkésőbb a kifizetéskor (a juttatáskor) bemutatja az adóévre hitelesített értékesítési betétlapját, illetve ha családi gazdálkodó (gazdálkodó családtagja), az e jogállását igazoló okiratát; a kifizető az ilyen kifizetéseket is feltünteti a kötelezettséget eredményező kifizetésekről, juttatásokról az adózás rendjéről szóló törvényben meghatározott formában és előírt határidőre teljesítendő bevallásában;
 - b) a vállalkozói bevételből, ha az egyéni vállalkozó az e bevételéről kiállított bizonylatán feltünteti az egyéni vállalkozói jogállását bizonyító közokirat számát.
 
-(5) Az adóelőleg-megállapításra kötelezett kifizető a levont adóelőlegről igazolást ad a magánszemélynek, amelyen feltünteti az adóelőleg alapját és az abban figyelembe vett családi kedvezményt, valamint az érvényesített adókedvezményt, továbbá az adóévi összesített igazoláson a 11/A. § (3) bekezdésében meghatározott esetben a rendelkezésben előírt tájékoztatást is megadja.
+(5) Az adóelőleg-megállapításra kötelezett kifizető a levont adóelőlegről igazolást ad a magánszemélynek, amelyen feltünteti az adóelőleg alapját és az abban figyelembe vett családi kedvezményt, első házasok kedvezményét, valamint az érvényesített adókedvezményt.
 
 (6) Az adóelőleg-megállapításra kötelezett kifizető
 
@@ -1659,12 +1655,12 @@ akkor, ha az egyéni vállalkozó a társadalombiztosítás ellátásaira és a 
 
 (3) Az (1) bekezdés rendelkezésétől eltérően, az ingatlan tulajdonban (birtokban) tartásának időszakában a 2007. december 31-ét követően az ingatlanon létesített épített-ingatlan (épület, épületrész, építmény, építményrész) esetében – ideértve a megszerzéskor, illetőleg az említett időpont előtt meglévő épített-ingatlan helyett létesített (újjáépített, leválasztott, megosztott) épített-ingatlan esetét is –, valamint a megszerzéskor, illetőleg az említett időpont előtt meglévő épített-ingatlan helyiségei hasznos alapterületének hat négyzetmétert meghaladó növelése esetében a szerzést
 
-- a) az utolsó használatbavételi (fennmaradási) engedélyről szóló határozat jogerőre emelkedésének időpontjával, vagy a bevételnek a ráépítés, létesítés, alapterület-növelés megszerzésére fordított összegével arányos megosztásával választható, hogy
+- a) az utolsó használatbavételi (fennmaradási) engedélyről szóló határozat jogerőre emelkedésének időpontjával, a használatbavétel tudomásulvételének időpontjával, illetve az egyszerű bejelentés alapján épített épület esetében a felépítés megtörténtét igazoló hatósági bizonyítvány kiállításának időpontjával vagy a bevételnek a ráépítés, létesítés, alapterület-növelés megszerzésére fordított összegével arányos megosztásával választható, hogy
 - b) a földterület (telek), valamint az ingatlan tulajdonjogának megszerzésekor, illetőleg az említett időpont előtt meglévő épített-ingatlan bevétel-része tekintetében az (1)–(2) bekezdés szerinti szerzési időponttal és – esetenként külön-külön – a ráépítés, létesítés, alapterület-növelés bevétel-része tekintetében az a) pont szerinti időponttal
 
 kell azonosnak tekinteni.
 
-(4) Az olyan, használatbavételi (fennmaradási) engedéllyel még nem rendelkező épített-ingatlan, illetőleg alapterület-bővítés esetében, amelynek létesítése az ingatlanra kiadott legutolsó használatbavételi (fennmaradási) engedélyről szóló határozat jogerőre emelkedésének keltét követően, illetőleg ettől függetlenül is a tulajdonban (birtokban) tartás időszakában történt, a (3) bekezdés rendelkezését az említett épített-ingatlan, alapterület-bővítés tekintetében azzal az eltéréssel kell alkalmazni, hogy a hitelt érdemlően bizonyított tényleges használatbavétel évét vagy, ha a tényleges használatbavétel éve hitelt érdemlően nem állapítható meg, illetve nem történt meg, az átruházás évét kell a megszerzés évének tekinteni.
+(4) Az olyan, használatbavételi (fennmaradási) engedéllyel még nem rendelkező épített-ingatlan, illetőleg alapterület-bővítés esetében, amelynek létesítése az ingatlanra kiadott legutolsó használatbavételi (fennmaradási) engedélyről szóló határozat jogerőre emelkedésének keltét, a használatbavétel tudomásulvételének időpontját, illetve az egyszerű bejelentés alapján épített épület esetében a felépítés megtörténtét igazoló hatósági bizonyítvány kiállításának időpontját követően, illetőleg ettől függetlenül is a tulajdonban (birtokban) tartás időszakában történt, a (3) bekezdés rendelkezését az említett épített-ingatlan, alapterület-bővítés tekintetében azzal az eltéréssel kell alkalmazni, hogy a hitelt érdemlően bizonyított tényleges használatbavétel évét vagy, ha a tényleges használatbavétel éve hitelt érdemlően nem állapítható meg, illetve nem történt meg, az átruházás évét kell a megszerzés évének tekinteni.
 
 61. § (1) Ingatlan, vagyoni értékű jog átruházásából származó bevétel minden olyan bevétel, amelyet a magánszemély az átruházásra tekintettel megszerez. Ilyennek minősül különösen az eladási ár, a cserében kapott dolognak a jövedelemszerzés időpontjára megállapított szokásos piaci értéke, valamint az ingatlan, a vagyoni értékű jog gazdasági társaság vagy más cég részére nem pénzbeli hozzájárulásként (nem pénzbeli betétként) történő szolgáltatása esetén annak a társasági szerződésben, más hasonló okiratban meghatározott értéke.
 
@@ -1686,7 +1682,7 @@ kell azonosnak tekinteni.
 - b) a cserébe kapott ingatlan, illetve vagyoni értékű jog esetében a csereszerződésben rögzített érték;
 - c) a kárpótlásról szóló törvényekben szabályozott vételi jog gyakorlása során szerzett termőföld esetében a vételi jog gyakorlása során vételárként szereplő összeg;
 - d) helyi önkormányzattól vásárolt lakás estében a szerződésben szereplő tényleges vételár;
-- e) a 60. § (3) bekezdése szerinti ráépítés, létesítés, alapterület-növelés megszerzésére fordított összeg a használatbavételi (fennmaradási) engedély jogerőre emelkedésének napjáig, illetve a használatbavételi (fennmaradási) engedélyben megjelölt feltételek teljesítésének határidejéig, a 60. § (4) bekezdése szerinti esetben a tényleges használatbavételig, ennek hiányában az átruházásig kibocsátott, az építő (építtető) magánszemély vagy házastársa nevére kiállított számla szerinti érték, de legalább a beépített anyag-érték;
+- e) a 60. § (3) bekezdése szerinti ráépítés, létesítés, alapterület-növelés megszerzésére fordított összeg a használatbavételi (fennmaradási) engedély jogerőre emelkedésének napjáig, a használatbavételi (fennmaradási) engedélyben megjelölt feltételek teljesítésének határidejéig, a használatbavétel tudomásulvételének, illetve az egyszerű bejelentés alapján épített épület esetében a felépítés megtörténtét igazoló hatósági bizonyítvány kiállításának napjáig, a 60. § (4) bekezdése szerinti esetben a tényleges használatbavételig, ennek hiányában az átruházásig kibocsátott, az építő (építtető) magánszemély vagy házastársa nevére kiállított számla szerinti érték, de legalább a beépített anyag-érték;
 - f) az illeték-kiszabáshoz figyelembe vett érték, ha
   - fa) a szerzési érték az a)–d) pont szerinti esetben nem állapítható meg,
   - fb) az ingatlan, ingatlan-nyilvántartásba bejegyzésre kötelezett vagyoni értékű jog szerzése örökléssel, ajándékozással történt azzal, hogy amennyiben az illeték kiszabása az átruházásból származó jövedelem adókötelezettségének teljesítésére nyitva álló határidőig nem történik meg, öröklés esetén a hagyatéki leltárban feltüntetett, vagy a hagyatéki eljárás során az ingatlan értékeként feltüntetett egyéb értéket, egyébként az átruházásból származó bevétel 50 százalékát kell figyelembe venni, és az így megállapított adókötelezettséget az illeték-kiszabás alapján önellenőrzéssel lehet módosítani;
@@ -1698,7 +1694,7 @@ kell azonosnak tekinteni.
 
 (3a) Ha az ingatlan értékesítése – kivéve, ha a magánszemély a bevételt egyéni vállalkozói tevékenysége keretében szerzi meg – gazdasági tevékenység [3. § 46. pont] keretében történik, az (1)–(3) bekezdés rendelkezései szerint megállapított jövedelem önálló tevékenységből származó jövedelemnek minősül.
 
-(4) Az ingatlan, ingatlanra vonatkozó vagyoni értékű jog átruházásából származó jövedelem, ha az átruházás a megszerzés évében vagy az azt követő öt évben történik, az (1)–(2) bekezdés rendelkezései szerint kiszámított összeg (e § alkalmazásában: számított összeg). Ezt követően a jövedelmet úgy kell megállapítani, hogy a számított összeget csökkenteni kell, ha az átruházás – a megszerzés évét követő évet első évnek tekintve –,
+(4) Az ingatlan, ingatlanra vonatkozó vagyoni értékű jog átruházásából származó jövedelem, ha az átruházás a megszerzés évében vagy az azt követő öt évben történik, az (1)–(3) bekezdés szerint kiszámított összeg (e § alkalmazásában: számított összeg). Ezt követően a jövedelmet úgy kell megállapítani, hogy a számított összeget csökkenteni kell, ha az átruházás – a megszerzés évét követő évet első évnek tekintve –,
 
 - a) a hatodik évben történik, a számított összeg 10 százalékával,
 - b) a hetedik évben történik, a számított összeg 20 százalékával,
@@ -2075,7 +2071,7 @@ kell figyelembe venni.
 
 ### A vállalkozásból kivont jövedelem
 
-68. § (1) A társas vállalkozás (kivéve az MRP szervezetet) jogutód nélküli megszűnése következtében a magánszemély tag (részvényes, üzletrész-tulajdonos) által e jogviszonyára tekintettel a társas vállalkozás vagyonából megszerzett bevételből az a rész, amely meghaladja az értékpapír megszerzésére fordított érték és a társas vállalkozás kötelezettségeiből a magánszemélyre jutó kötelezettségek együttes összegét, a magánszemély jövedelmének minősül. A bevételt és a magánszemélyre jutó kötelezettségek értékét a vagyonfelosztási javaslat (ennek hiányában az annak megfelelő megállapodás) szerint kell megállapítani. A kötelezettségek alapján teljesített kiadást a későbbiekben a jövedelem megállapításánál költségként nem lehet elszámolni. E rendelkezések irányadók a társas vállalkozás cégbejegyzése iránti kérelem elutasítása, valamint a társas vállalkozás cégbejegyzése iránti eljárás megszüntetése következtében a magánszemély tag (részvényes, üzletrész-tulajdonos) által e jogviszonyára tekintettel megszerzett jövedelemre is.
+68. § (1) A társas vállalkozás (kivéve az MRP szervezetet) jogutód nélküli megszűnése következtében a magánszemély tag (részvényes, üzletrész-tulajdonos) által e jogviszonyára tekintettel a társas vállalkozás vagyonából megszerzett bevételből az a rész, amely meghaladja az értékpapír megszerzésére fordított érték és a társas vállalkozás kötelezettségeiből a magánszemélyre jutó kötelezettségek együttes összegét, a magánszemély jövedelmének minősül. A bevételt és a magánszemélyre jutó kötelezettségek értékét a vagyonfelosztási javaslat (ennek hiányában az annak megfelelő megállapodás, vagy a vagyonfelosztási javaslat alapjául szolgáló záró számviteli beszámoló mérlege) szerint kell megállapítani. A kötelezettségek alapján teljesített kiadást a későbbiekben a jövedelem megállapításánál költségként nem lehet elszámolni. E rendelkezések irányadók a társas vállalkozás cégbejegyzése iránti kérelem elutasítása, valamint a társas vállalkozás cégbejegyzése iránti eljárás megszüntetése következtében a magánszemély tag (részvényes, üzletrész-tulajdonos) által e jogviszonyára tekintettel megszerzett jövedelemre is.
 
 (2) A társas vállalkozás (kivéve az MRP szervezetet) jegyzett tőkéjének tőkekivonás útján történő leszállítása következtében a magánszemély tag (részvényes, üzletrész-tulajdonos) által e jogviszonyára tekintettel a társas vállalkozás vagyonából megszerzett bevételből az a rész, amely meghaladja az értékpapír megszerzésére fordított értéknek a jegyzett tőke leszállításával arányos részét, a magánszemély jövedelmének minősül. A bevételt a társas vállalkozásnak a számvitelről szóló törvény előírásai szerint vezetett nyilvántartásainak megfelelően kell megállapítani. Az értékpapír megszerzésére fordított értékből azt a részt, amelyet e jövedelem megállapításakor bevételt csökkentő tételként vettek figyelembe, a későbbiekben nem lehet elszámolni a magánszemély jövedelmének megállapításakor.
 
@@ -2135,11 +2131,11 @@ kell megállapítania és a kifizetésekkel, juttatásokkal összefüggő adó �
 
 - a) a munkáltató által
   - aa) valamennyi munkavállaló (ideértve a Munka Törvénykönyvéről szóló törvény előírásai szerint a munkáltatóhoz kirendelt munkavállalót is), vagy
-  - ab) az előbbiek és/vagy elhunyt munkavállaló közeli hozzátartozója, szakképző iskolai tanuló, kötelező szakmai gyakorlaton lévő hallgató, nyugdíjban részesülő magánszemély – ha nyugdíjazását megelőzően a munkáltatónál vagy annak jogelődjénél volt munkavállaló –, vagy
+  - ab) az előbbiek és/vagy elhunyt munkavállaló közeli hozzátartozója, szakképző iskolai tanuló, kötelező szakmai gyakorlaton lévő hallgató, duális képzésben hallgatói munkaszerződés alapján részt vevő hallgató, nyugdíjban részesülő magánszemély – ha nyugdíjazását megelőzően a munkáltatónál vagy annak jogelődjénél volt munkavállaló –, vagy
   - ac) az előbbiek és/vagy közeli hozzátartozóik részére azonos feltételekkel és módon ingyenesen vagy kedvezményesen átadott termék, nyújtott szolgáltatás (kivéve a fogyasztásra kész étel vásárlására jogosító utalvány) révén juttatott adóköteles bevétel (ideértve azt az esetet is, ha a termék, a szolgáltatás azonos értékben meghatározott keret terhére valamennyi, az előzőekben említett, juttatásban részesülő magánszemély számára ugyanazon termék vagy szolgáltatáskörből azonos feltételekkel választható), feltéve, hogy a termék megszerzése (választása), illetve a szolgáltatás igénybevétele (választása) bármelyikük számára ténylegesen is elérhető;
 - b) a munkáltató által valamennyi munkavállaló (e rendelkezés alkalmazásában ideértve a munkáltatóhoz a Munka Törvénykönyvéről szóló törvény előírásai szerint kirendelt munkavállalót is) által megismerhető belső szabályzat (pl. kollektív szerződés, szervezeti és működési szabályzat, közszolgálati szabályzat stb.) alapján
   - ba) több munkavállaló, vagy
-  - bb) az előbbiek és/vagy elhunyt munkavállaló közeli hozzátartozója, szakképző iskolai tanuló, kötelező szakmai gyakorlaton lévő hallgató, nyugdíjban részesülő magánszemély – ha nyugdíjazását megelőzően a munkáltatónál vagy annak jogelődjénél volt munkavállaló –, vagy
+  - bb) az előbbiek és/vagy elhunyt munkavállaló közeli hozzátartozója, szakképző iskolai tanuló, kötelező szakmai gyakorlaton lévő hallgató, duális képzésben hallgatói munkaszerződés alapján részt vevő hallgató, nyugdíjban részesülő magánszemély – ha nyugdíjazását megelőzően a munkáltatónál vagy annak jogelődjénél volt munkavállaló –, vagy
   - bc) az előbbiek és/vagy közeli hozzátartozóik részére, azonos feltételekkel és módon ingyenesen vagy kedvezményesen átadott termék, nyújtott szolgáltatás (kivéve a fogyasztásra kész étel vásárlására jogosító utalvány) révén juttatott adóköteles bevétel (ideértve azt az esetet is, ha a termék, a szolgáltatás azonos módszerrel meghatározott keret terhére választható), feltéve, hogy a juttatásra jogosultak körét a belső szabályzat nem egyénileg, hanem a munkakör, a beosztás, a munkaviszonyban eltöltött idő, az életkor vagy más – munkaköri feladattal kapcsolatos teljesítménytől nem függő – közös ismérv alapján határozza meg;
 
 (2) Egyes meghatározott juttatásnak minősül az adóévben reprezentáció és üzleti ajándékok juttatása alapján meghatározott jövedelem azzal, hogy a jövedelem meghatározásánál figyelmen kívül kell hagyni az e törvény előírásai szerint adómentes juttatásokat.
@@ -2152,7 +2148,7 @@ kell megállapítania és a kifizetésekkel, juttatásokkal összefüggő adó �
   - aa) a munkáltató a munkavállalójának, a munkavállaló, az elhunyt munkavállaló közeli hozzátartozójának,
   - ab) a szakszervezet a tagjának, a nyugdíjas tagjának, a tag, az elhunyt tag (nyugdíjas tag) közeli hozzátartozójának,
   - ac) a volt munkáltató vagy annak jogutódja a nyugdíjban részesülő magánszemélynek és közeli hozzátartozójának,
-  - ad) a kifizető a szakképző iskolai tanulónak, kötelező szakmai gyakorlatának ideje alatt a hallgatónak juttatja, továbbá az aa)–ad) pontban nem említett esetben akkor, ha a juttatás olyan magánszemélynek történik, akinek a kifizetőtől az adóévben nem származik más jövedelme;
+  - ad) a kifizető a szakképző iskolai tanulónak, kötelező szakmai gyakorlatának ideje alatt a hallgatónak, duális képzésben hallgatói munkaszerződés alapján részt vevő hallgatónak juttatja, továbbá az aa)–ad) pontban nem említett esetben akkor, ha a juttatás olyan magánszemélynek történik, akinek a kifizetőtől az adóévben nem származik más jövedelme;
 - b) az olyan ingyenes vagy kedvezményes termék, szolgáltatás révén juttatott adóköteles bevétel, amelynek igénybevételére egyidejűleg több magánszemély jogosult, és a kifizető – jóhiszemű eljárása ellenére – nem képes megállapítani az egyes magánszemélyek által megszerzett jövedelmet, továbbá az egyidejűleg több magánszemély (ideértve az üzleti partnereket is) számára szervezett, ingyenes vagy kedvezményes rendezvénnyel, eseménnyel összefüggésben (ha a rendezvény, esemény a juttatás körülményeiből megítélhetően döntő részben vendéglátásra, szabadidőprogramra irányul) a kifizető által viselt költség (beleértve az ilyen rendezvényen, eseményen a résztvevőknek adott ajándéktárgyra fordított kiadást is, feltéve, hogy az ajándéktárgy egyedi értéke személyenként nem haladja meg a minimálbér 25 százalékát);
 - c) a kifizető által törvény vagy törvény felhatalmazása alapján más jogszabály rendelkezése következtében a magánszemélynek ingyenesen vagy kedvezményesen átadott termék, nyújtott szolgáltatás révén juttatott adóköteles jövedelem;
 - d) az olyan adómentesnek, üzleti ajándéknak nem tekinthető üzletpolitikai (reklám) célú juttatás, amely nem tartozik a szerencsejáték szervezéséről szóló törvény hatálya alá, azzal, hogy a kifizető rosszhiszemű vagy jogszerűtlen eljárása esetén a kiszabható mulasztási bírság az adóalap 50 százaléka.
@@ -2204,8 +2200,8 @@ azzal, hogy a keretösszeg számításánál a munkavállalót megillető béren
 
 (2) Béren kívüli juttatásnak minősül
 
-- a) a szakképző iskolai tanulónak, kötelező szakmai gyakorlatának ideje alatt a hallgatónak, valamint – ha a juttató a volt munkáltató (annak jogutódja) – a nyugdíjban részesülő magánszemélynek és közeli hozzátartozójának, továbbá az elhunyt munkavállaló közeli hozzátartozójának a juttató tulajdonában, vagyonkezelésében lévő üdülőben nyújtott üdülési szolgáltatás révén juttatott jövedelemből az adóévben személyenként a minimálbér összegét meg nem haladó rész;
-- b) a szakképző iskolai tanulónak, kötelező szakmai gyakorlatának ideje alatt a hallgatónak a juttatás alapjául szolgáló jogviszony minden megkezdett hónapjára, valamint – ha a juttató a volt munkáltató (vagy annak jogutódja) – a nyugdíjban részesülő magánszemélynek választása szerint
+- a) a szakképző iskolai tanulónak, kötelező szakmai gyakorlatának ideje alatt a hallgatónak, duális képzésben hallgatói munkaszerződés alapján részt vevő hallgatónak, valamint – ha a juttató a volt munkáltató (annak jogutódja) – a nyugdíjban részesülő magánszemélynek és közeli hozzátartozójának, továbbá az elhunyt munkavállaló közeli hozzátartozójának a juttató tulajdonában, vagyonkezelésében lévő üdülőben nyújtott üdülési szolgáltatás révén juttatott jövedelemből az adóévben személyenként a minimálbér összegét meg nem haladó rész;
+- b) a szakképző iskolai tanulónak, kötelező szakmai gyakorlatának ideje alatt a hallgatónak, duális képzésben hallgatói munkaszerződés alapján részt vevő hallgatónak a juttatás alapjául szolgáló jogviszony minden megkezdett hónapjára, valamint – ha a juttató a volt munkáltató (vagy annak jogutódja) – a nyugdíjban részesülő magánszemélynek választása szerint
   - ba) munkahelyi (üzemi) étkeztetésnek minősülő szolgáltatás keretében a munkáltató telephelyén működő étkezőhelyen megvalósuló ételfogyasztás formájában juttatott jövedelemből a havi 12 ezer 500 forintot meg nem haladó rész [ideértve a kizárólag az adott munkáltató telephelyén működő munkahelyi (üzemi) étkezőhelyen az említett értékben és célra felhasználható – a munkáltató vagy az étkezőhelyet üzemeltető személy által kibocsátott – utalványt, elektronikus adathordozót is], és/vagy
   - bb) Erzsébet-utalvány formájában juttatott jövedelemből (az adóéven belül utólagosan adva is) a juttatás alapjául szolgáló jogviszony minden megkezdett hónapjára a havi 8 ezer forintot meg nem haladó rész;
 - c) a szakszervezet által a tagjának, a nyugdíjas tagjának, az említett magánszemélyek közeli hozzátartozójának, az elhunyt tag (nyugdíjas tag) közeli hozzátartozójának üdülőben nyújtott üdülési szolgáltatás révén juttatott jövedelemből az adóévben személyenként a minimálbér összegét meg nem haladó rész;
@@ -2603,8 +2599,8 @@ e tájékoztatási kötelezettség elmulasztása vagy nem megfelelő teljesíté
 - b) egyes költségtérítések formáit és a jövedelemadó szempontjából igazolás nélkül elszámolható költségek mértékeit;
 - c) a közlekedési kedvezmények azon körét, amely adómentes juttatásnak minősül;
 - d) a Széchenyi Pihenő Kártya kibocsátásának és felhasználásának részletes szabályait;
-- e) a mezőgazdasági őstermelői igazolvány kiadásával, visszavonásával, használata jogszerűségének, az abban foglalt adatok valódiságának ellenőrzésével és elektronikus ügyintézésével összefüggő előírásokat;
-- f)
+- e) az őstermelői igazolvány kiadásával, érvényesítésével, cseréjével, módosításával, visszavonásával és bevonásával, használata jogszerűségének, az abban foglalt adatok valódiságának ellenőrzésével, elektronikus ügyintézésével, valamint a nyilvántartás vezetésével összefüggő előírásokat;
+- f) az őstermelői nyilvántartást vezető, valamint a mezőgazdasági igazgatási szervet,
 - g) azon betegségek körét, amelyekben szenvedő személyek a személyi kedvezmény érvényesítése szempontjából súlyosan fogyatékosnak minősülnek.
 
 81. § (1) Az adópolitikáért felelős miniszter felhatalmazást kap arra, hogy rendeletben meghatározza:
@@ -2917,6 +2913,20 @@ a magánszemély tartós befektetési szerződése lekötési nyilvántartásáb
 
 88. § E törvénynek az adózás rendjéről szóló 2003. évi XCII. törvény és egyes adótörvények módosításáról szóló 2015. évi CLXXXVII. törvénnyel megállapított 1. számú melléklet 7. pont 7.21. alpontja a 2014. évre vonatkozó adókötelezettség megállapításától alkalmazható.
 
+89. § (1) E törvénynek az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel megállapított 70. § (1a) bekezdés a) pont ab) alpontja és b) pont bb) alpontja, 70. § (3) bekezdés a) pont ad) alpontja, 71. § (2) bekezdés a) pontja, b) pontja, 1. számú melléklet 4. pont 4.12. alpont 4.12.1. alpont b) pontja, 4.25. alpontja a 2015. szeptember 1-jét követően keletkezett adókötelezettség megállapítására is alkalmazható.
+
+(2) E törvénynek az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel megállapított, 60. § (3) és (4) bekezdése, 62. § (2) bekezdése, 67/A. § (1), (3a)–(3d), (4)–(5), (5a), (6) és (7) bekezdése, 77/A. § (2) bekezdése, 1. számú melléklet 7. pont 7.17. alpontja, 11. számú melléklet I. fejezet 19. pontja, II. fejezet 1. pont p) alpontja a 2016. január 1-jétől keletkezett adókötelezettségre is alkalmazható.
+
+(3) E törvénynek az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel megállapított 68. § (1) bekezdése és 1. számú melléklet 7. pont 7.32. alpontja a hatálybalépéskor folyamatban lévő ügyletek adókötelezettségének megállapítására is alkalmazható.
+
+(4) E törvénynek az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel megállapított 1. számú melléklet 2. pont 2.11. alpontja alkalmazásában a foglalkoztatás első hónapjának 2017. január 1-jét megelőzően megkezdődött foglalkoztatás esetén 2017. január hónapját kell tekinteni.
+
+(5) A 2017. január 1-je előtt a magánszemélynek juttatott Erzsébet-utalvány 2016. december 31-ét követően a 2016. december 31-én hatályos 3. § 87. pontban meghatározott termék- és szolgáltatáskörben váltható be.
+
+(6) A 2016. december 31-én hatályos 71. § szerint béren kívüli juttatásnak minősülő, de a 2017. január 1-jén hatályos 71. § szerint béren kívüli juttatásként nem nevesített juttatásokat a munkáltató 2016. december 31-ét követően egyes meghatározott juttatásként biztosíthatja.
+
+(7) E törvények az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel megállapított 13. számú melléklet 9. pontja a 2016. december 31-ét követően megkötött hitelszerződésekre alkalmazható.
+
 ### 1. számú melléklet az 1995. évi CXVII. törvényhez
 
 #### Az adómentes bevételekről
@@ -2935,7 +2945,7 @@ b) jövedelempótló kártérítési járadék, feltéve, hogy a rá irányadó 
 
 1.4. az intézeti vagy állami nevelésbe vett kiskorú családban való gondozásáért, neveléséért, valamint a gyógyintézet által ápolásra kihelyezett beteg gondozásáért a gyógyintézettől kapott díj, illetve térítés;
 
-1.5. az intézeti, állami nevelést követően kapott, jogszabályban meghatározott önálló életkezdési támogatás;
+1.5.
 
 1.6. a fogvatartottnak a fogvatartás ideje alatt a büntetés-végrehajtási szervezetről szóló törvény szerint a büntetés-végrehajtási szerv által biztosított foglalkoztatásából származó bevétele, továbbá a büntetés-végrehajtási szerv által – szakfeladatai körében – a fogvatartott részére adott juttatás, valamint a szociálisan rászoruló szabadult részére nyújtott szociális segély.
 
@@ -3095,7 +3105,7 @@ a) nappali tagozaton az őt megillető juttatásként kifizetett
 
 – diákotthoni (kollégiumi) elhelyezését kiváltó lakhatási támogatás összege,
 
-b) nappali tagozaton a gyakorlati képzés idejére kifizetett juttatás, díjazás értékéből havonta a hónap első napján érvényes havi minimálbért meg nem haladó része;
+b) nappali tagozaton a gyakorlati képzés idejére, duális képzés esetén az elméleti és a gyakorlati képzés idejére kifizetett juttatás, díjazás értékéből havonta a hónap első napján érvényes havi minimálbért meg nem haladó része;
 
 c) folyósított Klebelsberg Képzési Ösztöndíj, Magyar Sportcsillagok Ösztöndíj, nemzeti felsőoktatási kiválóság ösztöndíj;
 
@@ -3139,7 +3149,7 @@ b) a munkáltató a szolgáltatást bármely, vagy – ha a pályázat a jogosul
 
 c) a szolgáltatás igénybevétele nem minősül a tevékenység ellenértékének,
 
-azzal, hogy a rendelkezés alkalmazásában a munkavállalóval esik egy tekintet alá a Munka Törvénykönyvéről szóló törvény előírásai szerint a munkáltatóhoz kirendelt munkavállaló, az előbbiek és/vagy az elhunyt munkavállaló közeli hozzátartozója, a szakképző iskolai tanuló, a kötelező szakmai gyakorlaton lévő hallgató, a nyugdíjban részesülő magánszemély – ha nyugdíjazását megelőzően a munkáltatónál vagy annak jogelődjénél volt munkavállaló, valamint az utóbbi magánszemély közeli hozzátartozói.
+azzal, hogy a rendelkezés alkalmazásában a munkavállalóval esik egy tekintet alá a Munka Törvénykönyvéről szóló törvény előírásai szerint a munkáltatóhoz kirendelt munkavállaló, az előbbiek és/vagy az elhunyt munkavállaló közeli hozzátartozója, a szakképző iskolai tanuló, a kötelező szakmai gyakorlaton lévő hallgató, duális képzésben hallgatói munkaszerződés alapján részt vevő hallgató, a nyugdíjban részesülő magánszemély – ha nyugdíjazását megelőzően a munkáltatónál vagy annak jogelődjénél volt munkavállaló, valamint az utóbbi magánszemély közeli hozzátartozói.
 
 4.26. a szakiskolai és szakközépiskolai képzésbe történő bekapcsolódást célzó, a társadalmi felzárkózást elősegítő „Út a szakmaválasztáshoz” program keretében, európai uniós forrás terhére adományozott tanulói ösztöndíj.
 
@@ -3150,6 +3160,10 @@ azzal, hogy a rendelkezés alkalmazásában a munkavállalóval esik egy tekinte
 4.29. a Nemzeti Tehetség Program keretében a kiemelkedően tehetséges fiatalok és a kiemelkedő tehetséggondozó magánszemélyek számára pályázatban meghatározott feltételekkel és módon folyósított ösztöndíj.
 
 4.30. a közfoglalkoztatottakat a közfoglalkoztatottak elhelyezkedési juttatásáról szóló kormányrendelet alapján megillető elhelyezkedési juttatás a kifizetés időpontjától függetlenül.
+
+4.31. a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal által a tudományos fokozattal rendelkező kutatók számára pályázatban meghatározott feltételekkel és módon folyósított ösztöndíj-támogatás;
+
+4.32. a Kormány által alapított, kutató-, fejlesztő- és szellemi központ feladatait ellátó költségvetési szerv által folyósított ösztöndíj.
 
 5.
 
@@ -3267,7 +3281,7 @@ a) a befektetési eszközzel végzett ügylet nyeresége,
 
 b) a befektetési eszköz hozama, kivéve az osztalékból származó jövedelmet;
 
-7.17. az államháztartás valamely alrendszerének költségvetése terhére és/vagy az Európai Unió valamely pénzügyi alapjából támogatott felnőttképzésben, illetve munkaerőpiaci képzésben résztvevő magánszemély számára jogszabály, pályázat, programterv alapján elnyert forrás felhasználására vonatkozó kötelezettségek betartása mellett nyújtott képzési támogatás (kivéve a keresetkiegészítést és a keresetpótló juttatást), felnőttképzési szolgáltatás, a képzés időszaka alatt juttatott étkezési, közlekedési és szállás költségtérítés, megélhetési támogatás.
+7.17. az államháztartás valamely alrendszerének költségvetése terhére és/vagy az Európai Unió valamely pénzügyi alapjából támogatott felnőttképzésben, illetve munkaerőpiaci képzésben résztvevő magánszemély számára jogszabály, pályázat, programterv alapján elnyert forrás felhasználására vonatkozó kötelezettségek betartása mellett nyújtott képzési támogatás (kivéve a keresetkiegészítést és a keresetpótló juttatást), felnőttképzési szolgáltatás, a képzés időszaka alatt biztosított étkezés, közlekedés, szállás, valamint az ilyen jogcímen adott költségtérítés, megélhetési támogatás.
 
 7.18. jogszabály alapján hitelintézetnél elhelyezett gyámhatósági betét kamata, a gyámhatóság döntése, kötelezése alapján befektetési szolgáltatónál elhelyezett értékpapír kamatjövedelemnek minősülő hozama;
 
@@ -3310,6 +3324,10 @@ c) a hitelezőkkel kötött megállapodásban, egyezségben, a bíróság által
 7.30. az egyes fogyasztói kölcsönszerződésekből eredő követelések forintra átváltásával kapcsolatos kérdések rendezéséről szóló törvény rendelkezéseinek végrehajtásával összefüggésben megszűnt kötelezettség.
 
 7.31. a magyarországi Holokauszt Emlékévhez kapcsolódó kezdeményezések támogatását célzó Civil Alap – 2014. pályázati program keretében magánszemély részére pályázat alapján elnyert támogatások, függetlenül a kifizetés időpontjától.
+
+7.32. az a magánszemély által megszerzett bevétel, amelyet a tulajdonában álló műemlék más személy – így különösen az érdekkörébe tartozó társas vállalkozás – által történő ingyenes felújítása, jókarbantartása formájában szerez, azzal, hogy e rendelkezés alkalmazásában a magánszemély tulajdonában álló műemlékkel esik egy tekintet alá az a műemlék is, amelyet a magánszemély hosszú távú – 15 évet meghaladó időtartamú – bérleti, vagyonkezelési szerződés alapján jogosult használni;
+
+7.33. az az összeg, amelyet a magánszemély mint kérelmező ügyfél, a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény rendelkezései szerint a hatóság által hozott függő hatályú döntés alapján kap.
 
 8. A nem pénzben kapott juttatások közül adómentes:
 
@@ -3421,7 +3439,7 @@ b) a kifizető által ugyanazon magánszemélynek az adóévben legfeljebb 50 ez
 
 8.34.
 
-8.35. a helyi és/vagy nemzetiségi önkormányzat, az egyesület, az alapítvány, a közalapítvány, az egyházi jogi személy által a lakosság, a közösség széles körét érintő (nem zártkörű), azonos részvételi feltételekkel szervezett kulturális, hagyományőrző, sport, szabadidős és más hasonló közösségi rendezvényen helyben nyújtott szolgáltatás, helyi fogyasztásra juttatott étel, ital, valamint – legfeljebb a rendezvény összes költségének 10 százalékáig terjedő együttes értékben – résztvevőnként azonos értékű, ajándék.
+8.35. a helyi önkormányzat, a nemzetiségi önkormányzat, az egyesület, az alapítvány,a közalapítvány, az egyházi jogi személy által a lakosság, a közösség széles körét érintő (nem zártkörű), azonos részvételi feltételekkel szervezett kulturális, hagyományőrző, sport, szabadidős és más hasonló közösségi rendezvényen helyben nyújtott szolgáltatás, helyi fogyasztásra juttatott étel, ital, valamint – legfeljebb a rendezvény összes költségének 10 százalékáig terjedő együttes értékben – résztvevőnként azonos értékű ajándék, továbbá az ilyen rendezvényeken ingyenesen közreműködők részére biztosított étkezési szolgáltatás;
 
 8.36. a könyvtári, a levéltári, a múzeumi, az egyéb kulturális, illetve alkotó- vagy előadó-művészeti tevékenységet folytató szervezet tevékenységi körébe tartozó ingyenesen nyújtott szolgáltatása (ide nem értve, ha azt más személy megrendelésére teljesíti);
 
@@ -4144,7 +4162,7 @@ valamint más magánszemély javára megállapodás alapján nyugellátásra jog
 
 18. az egyéni vállalkozói tevékenységhez jogszabály vagy nemzetközi szerződés rendelkezése alapján kapott támogatás jogszerű felhasználásával teljesített kiadás alapján meghatározott költség, akkor is, ha a kiadás részben a magánszemély személyes vagy családi szükségletét szolgálja (ha azonban a támogatás csak részben nyújt fedezetet a kiadásra, akkor e rendelkezés alapján a kiadásnak csak a támogatásból fedezett része alapján számolható el költség);
 
-19. a hivatali, üzleti utazás esetén az utazásra, a szállás díjára, külföldi kiküldetés esetén az utazásra, a szállás díjára fordított kiadás, továbbá az erről szóló kormányrendelet szerint naponta számított igazolás nélkül elismert költség azzal, hogy e pont rendelkezése nem alkalmazható abban az esetben, ha az utazásra vonatkozó dokumentumok és körülmények (szervezés, reklám, hirdetés, útvonal, úti cél, tartózkodási idő, a tényleges szakmai és szabadidőprogram aránya stb.) valós tartalma alapján, akár közvetve is megállapítható, hogy az utazás csak látszólagosan hivatali, üzleti;
+19. a hivatali, üzleti utazás esetén az utazásra, a szállás díjára, külföldi kiküldetés esetén az utazásra, a szállás díjára fordított kiadás, a külföldi kiküldetéshez kapcsolódó elismert költségekről szóló kormányrendelet és a belföldi hivatalos kiküldetést teljesítő munkavállaló költségtérítéséről szóló kormányrendelet szerint naponta számított igazolás nélkül elismert költség azzal, hogy e pont rendelkezése nem alkalmazható abban az esetben, ha az utazásra vonatkozó dokumentumok és körülmények (szervezés, reklám, hirdetés, útvonal, úti cél, tartózkodási idő, a tényleges szakmai és szabadidőprogram aránya stb.) valós tartalma alapján, akár közvetve is megállapítható, hogy az utazás csak látszólagosan hivatali, üzleti;
 
 20. ha az egyéni vállalkozó alkalmazottat foglalkoztat, akkor annak hivatali üzleti utazására is a 19. pont rendelkezései szerint kell eljárni;
 
@@ -4274,7 +4292,7 @@ n) Az egyéni vállalkozó a kizárólag film- és videogyártást szolgáló g�
 
 o) A tárgyi eszköz üzembe helyezésének (rendeltetésszerű használatba vételének) – az üzembe helyezés elmaradása esetén kiselejtezésének, elidegenítésének vagy a nyilvántartásból bármely más ok miatt történő kivezetésének – időpontjában elszámolt értékcsökkenési leírásnak kell tekinteni – és az egyedi részletező nyilvántartásban is ennek megfelelően kell rögzíteni – a tárgyi eszköz megszerzése vagy előállítása érdekében teljesített beruházási kiadásnak megfelelően a fejlesztési tartalék-nyilvántartásból kivezetett összeget.
 
-p) A 250 főnél kevesebb alkalmazottat foglalkoztató egyéni vállalkozó a korábban még használatba nem vett, a műszaki gépek, berendezések és a – személygépkocsi kivételével – a járművek között nyilvántartott tárgyi eszköznek az üzembe helyezés időpontjára megállapított beruházási költségét az üzembe helyezés adóévében jogosult egy összegben költségként elszámolni, amennyiben a tárgyi eszközt a jogszabályban megnevezett leghátrányosabb térségek, települések valamelyikében helyezi üzembe. Az értékcsökkenési leírásként így figyelembe vett összeg 1 százaléka, jármű esetében 3 százaléka az állami támogatásokra vonatkozó rendelkezések alkalmazásában az egyéni vállalkozó választása szerint
+p) A 250 főnél kevesebb alkalmazottat foglalkoztató egyéni vállalkozó a korábban még használatba nem vett, a műszaki gépek, berendezések és a – személygépkocsi kivételével – a járművek között nyilvántartott tárgyi eszköznek az üzembe helyezés időpontjára megállapított beruházási költségét az üzembe helyezés adóévében jogosult egy összegben költségként elszámolni, amennyiben a tárgyi eszközt szabad vállalkozási zóna területén helyezi üzembe. Az értékcsökkenési leírásként így figyelembe vett összeg 1 százaléka, jármű esetében 3 százaléka az állami támogatásokra vonatkozó rendelkezések alkalmazásában az egyéni vállalkozó választása szerint
 
 pa) agrár csoportmentességi (ABER) támogatásnak vagy mezőgazdasági csekély összegű (de minimis) támogatásnak minősül, ha a beruházás elsődleges mezőgazdasági termelést szolgál,
 
