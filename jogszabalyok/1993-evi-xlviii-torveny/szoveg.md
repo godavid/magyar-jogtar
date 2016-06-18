@@ -769,7 +769,7 @@ foglaltakat kell alkalmazni.
 
 (5) A tulajdonos köteles a (4) bekezdés szerinti feladatok elvégzésére vonatkozó – a tájrendezés végrehajtásának ütemezését is magában foglaló – tájrendezési tervet készíteni, és a bányafelügyelethez jóváhagyásra benyújtani.
 
-(5a) A tulajdonosnak a tájrendezést úgy kell ütemezni, hogy 2017. évtől kezdődően, minden évben a használaton kívüli bányászati célú mélyfúrások tájrendezési kötelezettségének legalább 1/13 részét teljesíteni kell. A tulajdonos köteles a tulajdonában lévő összes használaton kívüli bányászati célú mélyfúrás tájrendezését 2029. december 31-ig befejezni.
+(5a) A tulajdonosnak a tájrendezést úgy kell ütemezni, hogy 2018. évtől kezdődően, minden évben a használaton kívüli bányászati célú mélyfúrások tájrendezési kötelezettségének legalább 1/13 részét teljesíteni kell. A tulajdonos köteles a tulajdonában lévő összes használaton kívüli bányászati célú mélyfúrás tájrendezését 2030. december 31-ig befejezni.
 
 (6) Nem kell elvégezni azoknak a bányászati célú mélyfúrásoknak a tájrendezését, amelyek nem bányászati célú hasznosításra kerülnek. A bányafelügyelet dönt arról, hogy a használaton kívüli bányászati célú mélyfúrás bányászati célra már nem alkalmas. A bányafelügyelet döntése nem jogosít a nem bányászati célú hasznosítás megkezdésére, ahhoz meg kell szerezni a hatáskörrel rendelkező hatóság engedélyét.
 

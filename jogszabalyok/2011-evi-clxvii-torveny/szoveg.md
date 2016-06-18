@@ -174,22 +174,7 @@ kérelmezi.
 
 13. § A korhatár előtti ellátás és a szolgálati járandóság folyósítását szüneteltetni kell azokra a hónapokra, amikor a jogosult álláskeresési járadékban részesül.
 
-14. § (1)–(2)
-
-(3) Az (1) bekezdés szerinti szüneteltetési ok megállapítása céljából
-
-- a) a nyugdíjmegállapító szerv a szolgálati járandóság megállapítására irányuló eljárása során elektronikus úton továbbítja a jogosult természetes személyazonosító adatait,
-- b) a nyugdíjfolyósító szerv havonta elektronikus úton továbbítja a szolgálati járandóságban részesülő személyek természetes személyazonosító adatait
-
-a bűnügyi nyilvántartó szervnek.
-
-(4) A bűnügyi nyilvántartó szerv a (3) bekezdésben meghatározott személyek természetes személyazonosító adatait összeveti a bűntettesek nyilvántartásában kezelt adatokkal. Ha az összevetés alapján a bűnügyi nyilvántartó szerv azt állapítja meg, hogy a (3) bekezdésben meghatározott személy az (1) bekezdés szerinti bűncselekményt követett el, és az elítéléshez fűződő hátrányos jogkövetkezmények alól nem mentesült, e tényt, a bűncselekmény vagy bűncselekmények elkövetésének idejét, valamint az érintett természetes személyazonosító adatait továbbítja a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 272. § (2) bekezdése szerinti központi személyügyi nyilvántartást kezelő szerv, valamint a Magyar Honvédség központi személyügyi nyilvántartását kezelő szerv részére (a továbbiakban együtt: központi személyügyi nyilvántartást kezelő szerv).
-
-(5) A központi személyügyi nyilvántartást kezelő szerv a bűnügyi nyilvántartó szervtől átvett adatokat összeveti az általa kezelt központi személyügyi nyilvántartás adattartalmával. Ha az összevetés alapján a központi személyügyi nyilvántartást kezelő szerv azt állapítja meg, hogy a (3) bekezdésben meghatározott személy az (1) bekezdésben meghatározott bűncselekményt a szolgálati viszonyának időtartama alatt követte el, és az elítéléshez fűződő hátrányos jogkövetkezmények alól nem mentesült, e tényről, valamint az érintett személy természetes személyazonosító adatairól tájékoztatja a (3) bekezdés a) pontja szerinti esetben a nyugdíjmegállapító szervet, a (3) bekezdés b) pontja szerinti esetben pedig a nyugdíjfolyósító szervet.
-
-(6) A (3)–(5) bekezdés alapján átvett személyes adatokat a bűnügyi nyilvántartó szerv, illetve a központi személyügyi nyilvántartást kezelő szerv – az adattovábbítási kötelezettségének teljesítését követően haladéktalanul – törli.
-
-(7) A szolgálati járandóság folyósításának az (1) bekezdés szerinti szüneteltetése esetén a szolgálati járandóság a jogosult kérelmére és csak akkor folyósítható újból, ha a jogosult a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvánnyal igazolja, hogy az (1) bekezdésben szüneteltetési ok már nem áll fenn.
+#### 14. §
 
 15. § Ameddig a jogosult az újbóli folyósítást nem kéri, szüneteltetni kell a korhatár előtti ellátás és a szolgálati járandóság folyósítását, ha a korhatár előtti öregségi nyugdíj folyósítását 2011. december 31-én a jogosult kérelmére szüneteltették a 12. § (2) bekezdésében foglaltak figyelembevételével.
 
@@ -254,11 +239,11 @@ a bűnügyi nyilvántartó szervnek.
 
 (2) Az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról, valamint egyes nyugdíjbiztosítási tárgyú és más kapcsolódó törvények módosításáról szóló 2012. évi CXII. törvénnyel megállapított 5. § (6) bekezdése alapján az arra 2012. január 1-je és 2012. július 31-e között jogosultságot szerzők szolgálati járandóságának összegét 2012. szeptember 1-jétől hivatalból meg kell emelni, és a jogosultság megszerzésétől 2012. augusztus 31-éig terjedő időre járó különbözetet egy összegben, 2012. szeptember 30-áig kell folyósítani.
 
-25. § (1) A 2013. január 1-jén a Tny. 83/C. § (1) bekezdése szerinti jogviszonyban álló, korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban vagy átmeneti bányászjáradékban részesülő személy a Tny. 83/C. § (1) bekezdése szerinti jogviszony fennállásának tényét 2013. április 30-áig köteles bejelenteni a nyugdíjfolyósító szervnek.
+25. § (1)
 
 (2) A 2013. január 1-jén a Tny. 83/C. § (1) bekezdése szerinti jogviszonyban álló személy korhatár előtti ellátását, szolgálati járandóságát, – az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény 43/B. § (2) bekezdésében foglaltakra tekintettel – balettművészeti életjáradékát és – a bányászatról szóló 1993. évi XLVIII. törvény 49/C. § (2) bekezdésében foglaltakra tekintettel – átmeneti bányászjáradékát – ha a Tny. 83/C. § (1) bekezdése szerinti jogviszonya továbbra is fennáll – 2013. július 1-jétől kell szüneteltetni.
 
-26. § (1) A fekvőbeteg-szakellátó és egyes fekvőbeteg-szakellátókhoz kapcsolódó egészségügyi háttérszolgáltatást nyújtó, 100%-os állami tulajdonban lévő, valamint azok 100%-os tulajdonában lévő gazdasági társaságok által ellátott feladatok központi költségvetési szervek általi átvételéről, valamint az ezzel kapcsolatos eljárási kérdések rendezéséről szóló 2013. évi XXV. törvény rendelkezései alapján, az átvétellel érintett gazdasági társaságokkal az átvétel időpontjában munkaviszonyban álló személyekkel létesített közalkalmazotti jogviszony keretében továbbfoglalkoztatott korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban vagy átmeneti bányászjáradékban részesülő személy a közalkalmazotti jogviszony létesülésének tényét 2013. június 1-jéig köteles bejelenteni a nyugdíjfolyósító szervnek.
+26. § (1)
 
 (2) Az (1) bekezdés szerinti személy korhatár előtti ellátását, szolgálati járandóságát, – az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény 43/B. § (2) bekezdésében foglaltakra tekintettel – balettművészeti életjáradékát és – a bányászatról szóló 1993. évi XLVIII. törvény 49/C. § (2) bekezdésében foglaltakra tekintettel – átmeneti bányászjáradékát – ha közalkalmazotti jogviszonya továbbra is fennáll – 2013. július 1-jétől kell a Tny. 83/C. §-a szerint szüneteltetni.
 

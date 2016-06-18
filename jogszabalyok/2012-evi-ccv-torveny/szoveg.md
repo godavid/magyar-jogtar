@@ -1836,9 +1836,11 @@ szerinti mértékben kerül megállapításra.
 
 (7) Az állomány tagja részére a folyósított illetményről részletes, írásbeli elszámolást kell adni, amelyből mind a kiszámítás helyessége, mind a levonások jogcíme és összege ellenőrizhető.
 
+(8) Az állomány tagját, ha az illetmény tárgyhónapra vonatkozó elszámolását követően bekövetkező ok miatt az elszámolás módosítása szükséges, a tárgyhónapra vonatkozó illetményelszámolás módosításáról legkésőbb a következő havi illetmény elszámolásakor tájékoztatni kell. Az illetménykülönbözetet a következő havi illetménnyel egyidejűleg ki kell fizetni.
+
 130. § (1) Az illetményből levonásnak csak jogszabály, vagy – a levonásmentes illetményrészig –, végrehajtható határozat vagy az állomány tagjának írásbeli hozzájárulása alapján van helye. A Honvédség az előlegnyújtásból eredő követelését – a levonásmentes illetményrészig – az állomány tagja illetményéből levonhatja. Az illetménnyel szemben beszámításnak nincs helye. A levonásmentes illetményrész nem engedményezhető.
 
-(2) A jogalap nélkül folyósított illetmény hatvan napon belül írásbeli felszólítással vagy fizetési meghagyással az állomány tagjától visszakövetelhető. Elévülési időn belül visszakövetelhető a jogalap nélkül folyósított illetmény, ha annak jogtalanságáról az állomány tagja tudott vagy tudnia kellett volna.
+(2) A jogalap nélkül folyósított illetmény hatvan napon belül az előlegnyújtásból eredő követelésre vonatkozó szabályok szerint az állomány tagjától visszakövetelhető. Elévülési időn belül visszakövetelhető a jogalap nélkül folyósított illetmény, ha annak jogtalanságáról az állomány tagja tudott vagy tudnia kellett volna.
 
 (3) Az állomány tagja az illetményre vonatkozó igényéről előre nem mondhat le, és a levonásmentes illetményrészét nem ruházhatja át.
 

@@ -16,7 +16,7 @@ Magyarország 2015. évi központi költségvetésének megalapozásáról
 
 12–53. §
 
-54. § Az államháztartásról szóló 2011. évi CXCV. törvény
+54. §
 
 - 1–45.
 - 46.
@@ -36,31 +36,9 @@ lép.
 - 14.
 - 15–24.
 
-### II. Fejezet — A NYUGDÍJREFORM ÉS ADÓSSÁGCSÖKKENTŐ ALAP MEGSZÜNTETÉSE
+### II. Fejezet
 
-56. § A Nyugdíjreform és Adósságcsökkentő Alap (a továbbiakban: Alap) 2015. január 31-én megszűnik.
-
-57. § (1) Az Alap a fennálló magánjogi szerződéseit az 56. §-ban meghatározott határnapig megszünteti vagy gondoskodik az ilyen jogviszonyból származó jogok és kötelezettségek összességének az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság (a továbbiakban: ÁKK Zrt.) mint a szerződésbe belépő fél részére történő átruházásáról.
-
-(2) Az Alap záró beszámolóját az ÁKK Zrt. az Alap megszűnését követő 60 napon belül elkészíti, és azt a honlapján az Országgyűlés általi elfogadását követően haladéktalanul közzéteszi.
-
-(3) Az Alap pénzeszközeit az ÁKK Zrt. 2015. január 31-éig átutalja a központi költségvetés javára, amelyet a Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvény 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 4. Egyéb költségvetési bevételek cím, 1. Vegyes bevételek alcímen belül önálló jogcímcsoportként kell elszámolni.
-
-(4) Az Alap megszűnésének időpontjáig keletkezett iratokat, valamint a (2) bekezdés szerinti záró beszámolót és az ahhoz kapcsolódó iratokat az ÁKK Zrt. a vonatkozó belső szabályzataiban foglaltak szerint megőrzi.
-
-58. § Az Alap megszűnésével összefüggésben az 56. §-ban meghatározott határnapot követően felmerülő költségek az ÁKK Zrt.-t terhelik.
-
-59. § (1)
-
-(2)
-
-60. §
-
-61. § Hatályát veszti
-
-- 1.
-- 2.
-- 3.
+56–61. §
 
 ### III. Fejezet — A SZOCIÁLIS ELLÁTÁSOK RENDSZERÉNEK ÁTALAKÍTÁSA
 
@@ -158,99 +136,9 @@ lép.
 
 113. §
 
-### IV. Fejezet — EGYES ÁLLAMI VAGYONTÁRGYAK TULAJDONJOGÁNAK INGYENES ÁTRUHÁZÁSA
+### IV. Fejezet — 10–13.
 
-#### 10. Egyes köznevelési vagy szociális feladatot ellátó intézmények Esztergom Város Önkormányzatának tulajdonába adása
-
-114. § (1) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény 13. § (3) bekezdése és 14. § (1) bekezdése alapján
-
-- 1. az Esztergomi Dobó Katalin Gimnázium,
-- 2. az Esztergomi Arany János Általános Iskola,
-- 3. az Esztergomi Babits Mihály Általános Iskola,
-- 4. az Esztergomi József Attila Általános Iskola,
-- 5. az Esztergomi Zsolt Nándor Alapfokú Művészeti Iskola,
-- 6. az Esztergomi Montágh Imre Egységes Gyógypedagógiai Módszertani Intézmény, Óvoda, Általános Iskola és Speciális Szakiskola,
-- 7. az Esztergomi Kőrösy László Középiskolai Kollégium,
-- 8. a Szent Imre Általános Iskola, Gimnázium és Szakközépiskola,
-- 9. a Balassa Bálint Gazdasági Szakközépiskola és Szakiskola működtetését szolgáló, állami tulajdonban lévő ingatlan, ingóság és vagyoni értékű jog 2015. január 1-jén ingyenesen Esztergom Város Önkormányzatának tulajdonába kerül.
-
-(2) 2015. szeptember 1-jétől Esztergom Város Önkormányzata gondoskodik az (1) bekezdés 1–8. pontjában meghatározott intézmény – nem szakképzési – feladatainak ellátását szolgáló ingatlan és ingóság a nemzeti köznevelésről szóló törvény szerinti működtetéséről.
-
-(3) Az (1) bekezdés szerinti ingatlan, ingóság és vagyoni értékű jog tényleges birtokba adását Esztergom Város polgármestere és az állami köznevelési közfeladatellátás keretében állami intézményfenntartásra kijelölt szerv átadás-átvételi jegyzőkönyv felvételével hajtja végre.
-
-(4) Esztergom város polgármestere és az állami köznevelési közfeladatellátás keretében állami intézményfenntartásra kijelölt szerv az átadás-átvételi jegyzőkönyvet legkésőbb 2015. január 15-éig készíti el. A jegyzőkönyv tartalmi elemeit az állami köznevelési közfeladatellátás keretében állami intézményfenntartásra kijelölt szerv állapítja meg. Esztergom város polgármestere és az állami köznevelési közfeladatellátás keretében állami intézményfenntartásra kijelölt szerv a jegyzőkönyv felvétele során kölcsönösen együttműködve járnak el.
-
-(5) Az állami tulajdonból önkormányzati tulajdonba kerülő vagyonelemek bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, az átadó szervezet könyveiben szereplő bruttó nyilvántartási értékkel.
-
-115. § (1) Esztergom Város Önkormányzatának képviselő-testülete határozatában vállalhatja a szociális és gyermekvédelmi feladatok ellátására a Kormány által rendeletben kijelölt szerv feladatából a 2011. december 31-én a Glatz Gyula Szociális Központ által ellátott feladat átvételét. A határozatában meg kell jelölni az átvállalt szociális és gyermekvédelmi feladatot, valamint a feladatellátáshoz szükségesnek ítélt, Esztergom Város Önkormányzata által igényelt ingatlanokat, valamint az ahhoz kapcsolódó vagyonelemeket. A határozatot 2015. március 31-éig kell a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársasággal (a továbbiakban: MNV Zrt.) írásban közölni.
-
-(2) Ha Esztergom Város Önkormányzata az (1) bekezdés szerinti határozatban vállalja az (1) bekezdés szerinti feladat átvételét, a feladat ellátásához kapcsolódó vagyon és vagyoni értékű jog az MNV Zrt. által megkötött szerződés alapján e törvény erejénél fogva Esztergom Város Önkormányzatának tulajdonába kerül. A szerződés megkötésében a szociális és gyermekvédelmi feladatok ellátására a Kormány által rendeletben kijelölt szerv közreműködik. A szerződés legkésőbb 2015. június 30-áig köthető meg.
-
-(3) A (2) bekezdés szerinti szerződésben meg kell határozni az (1) bekezdés szerinti feladatot átvevő szervet, továbbá az (1) bekezdés szerinti feladatot a szerződés hatálybalépését megelőző napon ellátó olyan személyek körét, akiknek a jogviszonya az (1) bekezdés szerinti feladat átadásával a foglalkoztató személyében jogutódlás miatt bekövetkező változásra tekintettel módosul.
-
-(4) Esztergom Város Önkormányzata az (1) bekezdés szerinti feladat tekintetében a szerződés hatálybalépését megelőző napon ellátó szerv valamennyi jogának és kötelezettségének általános és egyetemleges jogutódja.
-
-116. § A 114. § és 115. § szerinti nemzeti vagyon tulajdonjogának átruházására a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 13. § (4)–(10) bekezdését nem kell alkalmazni.
-
-117. §
-
-#### 11. Egyes állami tulajdonú ingatlanok ingyenes tulajdonába adása közfeladatot ellátó szervezetek részére
-
-118. § (1) Az állami vagyonról szóló 2007. évi CVI. törvény 36. § (1) bekezdése és a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 13. § (3) bekezdése alapján, az állam tulajdonában lévő, Szeged 3852 helyrajzi számú ingatlan 5248/10000-ed állami tulajdoni hányada ingyenesen a Szeged-Csanádi Egyházmegye tulajdonába kerül hitéleti célokra, azzal a feltétellel, hogy a Szeged-Csanádi Egyházmegye az ingatlanokat terhelő kötelezettségeket teljes körűen átvállalja.
-
-(2) Az állami vagyonról szóló 2007. évi CVI. törvény 36. § (1) bekezdése és a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 13. § (3) bekezdése alapján, az állam tulajdonában lévő, Szeged 25869/1 helyrajzi számú ingatlan, Szeged 25870 helyrajzi számú ingatlan és Szeged 25883/2 helyrajzi számú ingatlan összterületéből telekalakítással létrehozott 120 m2 területű ingatlanrész ingyenesen a Szeged-Csanádi Egyházmegye tulajdonába kerül a verseny- és tömegsport élénkítése, labdarúgás utánpótlás nevelési és oktatási sportfejlesztési célokra, azzal a feltétellel, hogy a Szeged-Csanádi Egyházmegye az ingatlanokat terhelő kötelezettségeket teljes körűen átvállalja. A szerződés megkötésére csak a telekalakítás ingatlan-nyilvántartásba történő átvezetését követően kerülhet sor.
-
-(3) Az állami vagyonról szóló 2007. évi CVI. törvény 36. § (1) bekezdése és a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 13. § (3) bekezdése alapján, az állam tulajdonában lévő, Pécs II. Szent István tér 18292/2 helyrajzi számú ingatlan ingyenesen a Pécsi Egyházmegye tulajdonába kerül a Pécsi Egyházmegye Turisztikai és Múzeum Igazgatósága céljára, azzal a feltétellel, hogy a Pécsi Egyházmegye az ingatlant terhelő kötelezettségeket teljes körűen átvállalja.
-
-(4) Az állami vagyonról szóló 2007. évi CVI. törvény 36. § (1) bekezdése és a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 13. § (3) bekezdése alapján, az állam tulajdonában lévő, Debrecen 8489/1 helyrajzi számú 256 m2 területű ingatlan 10/11-ed tulajdoni hányada, és a 8481 helyrajzi számon található 472 m2 területű ingatlan ingyenesen a Debreceni Református Hittudományi Egyetem tulajdonába kerül kert, park céljára, azzal a feltétellel, hogy a Debreceni Református Hittudományi Egyetem az ingatlanokat terhelő kötelezettségeket teljes körűen átvállalja.
-
-(5) Az állami vagyonról szóló 2007. évi CVI. törvény 36. § (1) bekezdése és a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 13. § (3) bekezdése alapján, az állam tulajdonában lévő, Budapest, VII. kerület Dohány u. 2. 34520 helyrajzi számú ingatlan ingyenesen a Magyarországi Zsidó Hitközségek Szövetsége tulajdonába kerül múzeum céljára, azzal a feltétellel, hogy a Magyarországi Zsidó Hitközségek Szövetsége az ingatlant terhelő kötelezettségeket teljes körűen átvállalja.
-
-(6) Az állami vagyonról szóló 2007. évi CVI. törvény 36. § (1) bekezdése és a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 13. § (3) bekezdése alapján az állam tulajdonában lévő Veszprém 291 helyrajzi számú ingatlan ingyenesen a Veszprémi Főegyházmegye tulajdonába kerül a Veszprémi Érseki és Főkáptalani Levéltár elhelyezése céljából, azzal a feltétellel, hogy a Veszprémi Főegyházmegye Veszprémi Érsekség az ingatlant terhelő kötelezettségeket teljes körűen átvállalja.
-
-(7) Az állami vagyonról szóló 2007. évi CVI. törvény 36. § (1) bekezdése és a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 13. § (3) bekezdése alapján az állam tulajdonában lévő Kecskemét 3424 helyrajzi számú és a Baja 470/2 helyrajzi számú ingatlanok ingyenesen a Hajdúdorogi Egyházmegye tulajdonába kerülnek hitéleti és egyéb közösségi célokra azzal a feltétellel, hogy a Hajdúdorogi Egyházmegye az ingatlanokat terhelő kötelezettségeket teljes körűen átvállalja.
-
-(8) Az állami vagyonról szóló 2007. évi CVI. törvény 36. § (1) bekezdése és a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 13. § (3) bekezdése alapján az állam tulajdonában lévő Balatonalmádi 4252 helyrajzi számú ingatlan ingyenesen a Dunántúli Református Egyházkerület, Balatonalmádi Református Egyházközsége tulajdonába kerül hitéleti és egyéb közösségi célokra azzal a feltétellel, hogy a Dunántúli Református Egyházkerület, Balatonalmádi Református Egyházközsége az ingatlant terhelő kötelezettségeket teljes körűen átvállalja.
-
-(9) Az állami vagyonról szóló 2007. évi CVI. törvény 36. § (1) bekezdése és a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 13. § (3) bekezdése alapján az állam tulajdonában lévő Nyírbátor 2025 helyrajzi számú ingatlan ingyenesen a Debrecen-Nyíregyházi Egyházmegye tulajdonába kerül ifjúságnevelési tevékenység céljára azzal a feltétellel, hogy a Debrecen-Nyíregyházi Egyházmegye az ingatlant terhelő kötelezettségeket teljes körűen átvállalja.
-
-(10) Az állami vagyonról szóló 2007. évi CVI. törvény 36. § (1) bekezdése és a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 13. § (3) bekezdése alapján az állam tulajdonában lévő Kastélyosdombó 177/1, 177/2, 172, 173, 174, 175 és 176 helyrajzi számú ingatlanok ingyenesen a Magyar Ökumenikus Segélyszervezet tulajdonába kerülnek krízishelyzetben lévő családok reintegrációját elősegítő gazdálkodási modellprogram megvalósítása céljából. A tulajdonátruházás feltétele, hogy a Magyar Ökumenikus Segélyszervezet az ingatlanokat terhelő kötelezettségeket teljes körűen átvállalja és a tulajdonátruházási szerződés megkötése időpontjában fennálló megtérítési igényét nem érvényesíti.
-
-(11) Az állami vagyonról szóló 2007. évi CVI. törvény 36. § (1) bekezdése és a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 13. § (3) bekezdése alapján az állam tulajdonában lévő Budapest III. kerület 18239/4 helyrajzi számú ingatlan ingyenesen a Magyar Máltai Szeretetszolgálat tulajdonába kerül az általa átvállalt állami és önkormányzati közfeladat ellátásának elősegítése érdekében azzal a feltétellel, hogy a Magyar Máltai Szeretetszolgálat az ingatlant terhelő kötelezettségeket teljeskörűen átvállalja.
-
-(12) Az állami vagyonról szóló 2007. évi CVI. törvény 36. § (1) bekezdése és a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 13. § (3) bekezdése alapján az állam tulajdonában lévő Budapest VIII. kerület 35233/0/A/1–19 helyrajzi számú ingatlanok ingyenesen az Egységes Magyarországi Izraelita Hitközség tulajdonába kerülnek oktatási célokra, azzal a feltétellel, hogy az Egységes Magyarországi Izraelita Hitközség az ingatlant terhelő kötelezettségeket teljeskörűen átvállalja.
-
-(13) Az (1)–(12) bekezdés szerinti ingatlanok tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a Magyar Nemzeti Vagyonkezelő Zrt. készíti elő és köti meg. A szerződésben az ingatlanok forgalmi értékeként a Magyar Nemzeti Vagyonkezelő Zrt. által megállapított forgalmi értéket kell megjelölni.
-
-#### 12. Egyes állami tulajdonú ingatlanok Budapest X. kerület Kőbánya Önkormányzata részére történő ingyenes tulajdonba adása
-
-119. § (1) Az állami vagyonról szóló 2007. évi CVI. törvény 36. § (1) bekezdése és a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 13. § (3) bekezdése alapján az állam tulajdonában lévő Budapest X. kerület 38916/7, 38916/8, 38916/9, 38916/10, 38916/11, 38916/12 helyrajzi számú ingatlanok ingyenesen Budapest Főváros X. kerület Kőbánya Önkormányzata tulajdonába kerülnek lakás- és helyiséggazdálkodási feladatok elősegítése érdekében, azzal a feltétellel, hogy Budapest Főváros X. kerület Kőbánya Önkormányzata az ingatlant terhelő kötelezettségeket teljeskörűen átvállalja.
-
-(2) Az (1) bekezdés alapján ingyenesen tulajdonba adott ingatlanok tekintetében nem kell alkalmazni a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 13. § (4) bekezdés a) pontját, (5) és (7) bekezdését.
-
-(3) Budapest Főváros X. kerület Kőbánya Önkormányzata a tulajdonába adott ingatlanokat a tulajdonátruházási szerződésben meghatározott lakásgazdálkodási célokra használhatja fel. Ha Budapest Főváros X. kerület Kőbánya Önkormányzata az ingatlanokat értékesíti, az elidegenítésből származó bevételt a Budapest Főváros X. kerület Kőbánya Önkormányzata tulajdonában álló lakáscélú ingatlanok fejlesztésére, korszerűsítésére vagy az ingyenesen tulajdonba adott ingatlanok vonatkozásában felmerült településfejlesztési feladatok megvalósítására köteles fordítani.
-
-(4) A célhoz kötött hasznosításra vonatkozó előírások teljesüléséről, az ingatlanok fejlesztéséről, valamint az ingatlanok értékesítéséből származó bevételek felhasználásáról Budapest Főváros X. kerület Kőbánya Önkormányzata évente beszámol a Magyar Nemzeti Vagyonkezelő Zrt. felé.
-
-(5) Ha a Magyar Nemzeti Vagyonkezelő Zrt. megállapítja, hogy Budapest Főváros X. kerület Kőbánya Önkormányzata a célhoz kötött hasznosításra, illetve a bevételek célhoz kötött felhasználására vonatkozó előírásoknak nem tesz eleget, köteles a Magyar Nemzeti Vagyonkezelő Zrt. felszólítására, az abban meghatározott határidőig a jogsértő állapotot megszüntetni. A jogsértő állapot határidőre történő megszüntetésének elmulasztása esetén a Budapest Főváros X. kerület Kőbánya Önkormányzat tulajdonában álló ingatlan – ideértve az abból kialakított új ingatlant is – tulajdonjoga visszaszáll az államra, ha az ingatlan vagy az abból kialakításra kerülő új ingatlan Budapest Főváros X. kerület Kőbánya Önkormányzata részéről időközben értékesítésre került, úgy az értékesítésből származó – az adásvétel napjától számított mindenkori jegybanki alapkamattal növelt – bevételt köteles a Magyar Nemzeti Vagyonkezelő Zrt. részére átadni. Az állam tulajdonjogát az ingatlan-nyilvántartásba a Magyar Nemzeti Vagyonkezelő Zrt. kérelme alapján be kell jegyezni.
-
-(6) Az (1) bekezdés szerinti ingatlanok tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a Magyar Nemzeti Vagyonkezelő Zrt. készíti el és köti meg.
-
-#### 13. A Tokaji Borvidék Szőlészeti és Borászati Kutatóintézet Nonprofit Kft. tulajdonjogánaka Tokaji Borvidék Hegyközségi Tanácsa részére történő ingyenes átadása
-
-120. § (1) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény 13. § (3) bekezdése és az állami vagyonról szóló 2007. évi CVI. törvény 36. § (1) bekezdése alapján, a Tokaji Borvidék Szőlészeti és Borászati Kutatóintézet Nonprofit Kft. (a továbbiakban: Társaság) állam tulajdonában lévő üzletrészének tulajdonjoga ingyenesen a Tokaji Borvidék Hegyközségi Tanácsának tulajdonába kerül a borvidék szőlészeti és borászati kutatási tevékenységéhez kapcsolódó közfeladatok elősegítése érdekében.
-
-(2) Az (1) bekezdés szerinti üzletrész tulajdonátszállásának időpontja a feladatellátást szolgáló állami vagyon – ide nem értve a muzeális borkészletet – Társaságba történő apportálásának a cégjegyzékbe történő bejegyzéséről szóló cégbírósági végzés jogerőre emelkedésének napja.
-
-(3) A Tokaji Borvidék Hegyközségi Tanácsa a Társaság jogutód nélküli, illetve jogutódlással történő megszüntetéséről, a Társaságban fennálló részesedése bármilyen jogcímen történő átruházásáról, a részesedésre harmadik személy javára bármilyen jog alapításáról kizárólag az élelmiszerlánc-felügyeletért felelős miniszter előzetes, írásbeli jóváhagyásával dönthet.
-
-121. § A 120. § (1) bekezdése szerinti üzletrésznek a Tokaji Borvidék Hegyközségi Tanácsának számviteli nyilvántartásaiba szereplő bekerülési értéke megegyezik az adott vagyonelemre vonatkozó a Magyar Nemzeti Vagyonkezelő Zrt. számviteli nyilvántartásaiban szereplő nyilvántartási értékkel.
-
-122. § (1) A 120. § (2) bekezdése szerinti apportálással a Társaság tulajdonába kerülő ingatlan vagyonelemeken e törvény erejénél fogva az apportálásnak a cégjegyzékbe történő bejegyzéséről szóló cégbírósági végzés jogerőre emelkedésének napjától számított 5 évig elidegenítési tilalom áll fenn. Az elidegenítési tilalomnak az állam javára szóló ingatlan-nyilvántartásba történő feljegyzését az MNV Zrt. kérelmezi a 120. § (2) bekezdése szerinti végzés jogerőre emelkedését követően.
-
-(2) Az élelmiszerlánc-felügyeletért felelős miniszter az elidegenítési tilalom hatálya alatt – a Tokaji Borvidék Hegyközségi Tanácsának kezdeményezésére – egyedi döntéssel hozzájárulhat az (1) bekezdés szerint elidegenítési tilalom hatálya alatt álló ingatlanok elidegenítéséhez azzal, hogy a vagyonelemek elidegenítésének ellenértékét a 120. § (1) bekezdésében meghatározott közfeladat ellátására kell fordítani.
-
-(3) A 120. § (1) bekezdése alapján ingyenesen tulajdonba adott vagyon tekintetében nem kell alkalmazni a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 13. § (4) bekezdés b) pontját.
+114–122. §
 
 ### V. Fejezet — A HULLADÉKGAZDÁLKODÁSI KÖZSZOLGÁLTATÁSI TEVÉKENYSÉGET ÉRINTŐ FELADAT-ÉS SZERVEZETRENDSZER ÁTALAKÍTÁSA
 
@@ -766,110 +654,13 @@ lép.
 
 433. §
 
-#### 107. Az egyes közszolgáltatási tárgyú törvények módosításáról szóló 2014. évi XLI. törvény módosítása
+#### 107.
 
-434. § Nem lép hatályba az egyes közszolgáltatási tárgyú törvények módosításáról szóló 2014. évi XLI. törvény
+434. §
 
-- 1. 2. § (4) bekezdése,
-- 2. 5. § (4) bekezdése,
-- 3. 7. § (5) bekezdése,
-- 4. 9. § (4) bekezdése.
+#### 108.
 
-#### 108. Az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvény módosítása
-
-435. § Az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvény 70. §-a a következő szöveggel lép hatályba:
-
-„70. § Az energiaadóról szóló 2003. évi LXXXVIII. törvény 5. §-a helyébe a következő rendelkezés lép:
-
-„5. § (1) Az adófizetési kötelezettség
-
-a) a 3. § (1) bekezdés b) és c) pontja esetében az általános forgalmi adóról szóló törvény szerinti teljesítés időpontjában, az ellenérték, illetve a részkifizetések alapjául szolgáló mennyiségre,
-
-b) a 3. § (1) bekezdés d) pontja esetében az adóbevallási időszak utolsó napján, az adóbevallási időszakban beszerzett energia mennyiségre,
-
-c) a 3. § (1) bekezdés e) pontja esetében a vámjogi szabadforgalomba bocsátáskor, a vámjogi szabadforgalomba bocsátott mennyiségre,
-
-d) a 3. § (1) bekezdés f) és g) pontja esetében a felhasználás időpontjában, a saját célra felhasznált energiamennyiségre,
-
-e) a 3. § (1) bekezdés i) pontja esetében a vásárláskor, a vásárolt szén mennyiségére,
-
-f) a 3. § (1) bekezdés h) pontja esetében az általános forgalmi adóról szóló törvény szerinti teljesítés időpontjában, az ellenérték, illetve a részkifizetések alapjául szolgáló mennyiségre, saját célra felhasznált energia esetében a felhasználás időpontjában, a saját célra felhasznált energiamennyiségre
-
-keletkezik.
-
-(2) A fizetendő adó megállapítására
-
-a) az adófizetési kötelezettség keletkezésekor érvényes adómértéket kell alkalmazni,
-
-b) az (1) bekezdés rendelkezésétől eltérően az általános forgalmi adóról szóló törvény 58. §-a szerinti ügyletnél az időszak első napján hatályos adómértéket kell alkalmazni.””
-
-436. § Az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvény 106. §-ának a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény 128/L. §-át megállapító rendelkezése a következő szöveggel lép hatályba:
-
-„128/L. § (1) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvénnyel megállapított 104. § (2) bekezdés a) pontja alapján meghatározott jövedéki biztosítékot 2015. február 1-ig kell az ott meghatározott mértékre kiegészíteni a jövedéki biztosítékot nyújtónak, erre vonatkozó külön felhívás nélkül.
-
-(2) A 7. § 43. pontja szerinti pénzügyi biztosítékot nyújtó gazdálkodó tevékenységét a jövedéki biztosíték megemeléséről szóló vámhatósági döntés meghozataláig, de legkésőbb 2015. április 30-ig jogszerűen végezheti feltéve, hogy a jövedéki biztosíték megemelésének pénzintézetnél való kezdeményezéséről szóló iratot 2015. február 1. előtt a vámhatóságnak bemutatja.”
-
-437. § Az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvény 201. §-ának az adózás rendjéről szóló 2003. évi XCII. törvény 22/E. § (6) bekezdését megállapító rendelkezése a következő szöveggel lép hatályba:
-
-„(6) Mentes az (1)–(5) bekezdés szerinti kötelezettség alól
-
-a) a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, továbbá a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló törvény szerinti rendvédelmi szerv és az Országgyűlési Őrség gépjárműve,
-
-b) a Magyarországon szolgálati céllal tartózkodó vagy átvonuló külföldi fegyveres erők és a Magyarországon felállított nemzetközi katonai parancsnokságok hivatali vagy szolgálati gépjárműve, valamint az egyéb szervezetek nemzetközi szerződés, nemzetközi egyezmény és viszonosság alapján mentességet élvező gépjárműve,
-
-c) a katasztrófavédelemről szóló törvény értelmében meghatározott katasztrófa által okozott károk megelőzésében vagy elhárításában részt vevő gépjármű,
-
-d) a nemzetközi szerződés, nemzetközi egyezmény (NATO, Schengheni megállapodás) és viszonosság körébe tartozó jármű,
-
-e) a nem kereskedelmi jellegű (térítés nélküli) humanitárius segélyszállítmányokat szállító gépjármű,
-
-f) a kizárólag a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló törvény szerinti alkoholterméket, sört, bort, pezsgőt, köztes alkoholterméket, dohánygyártmányt, szárított dohányt, ellenőrzött ásványolajterméket, bioetanolt, biodízelt, E85-öt vagy ezek közül többet szállító gépjármű.”
-
-438. § Az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvény 225. § 32. pontja a következő szöveggel lép hatályba:
-
-(Az Art.)
-
-„32. 1. számú melléklet I/B/ 3. pont ad) alpontjában az „előzetesen felszámított adó különbözete az ac) pontban meghatározott értékhatárt elérte” szövegrész helyébe az „előzetesen felszámított adó különbözete az aca) pontban meghatározott értékhatárt elérte, vagy az általános forgalmi adóról szóló törvény szerinti termékértékesítése, szolgáltatásnyújtása ellenértékének adó nélküli összege az acb) pontban meghatározott értékhatárt meghaladta” szöveg,”
-
-(lép.)
-
-439. § Az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvény 395. §-a a következő (4) bekezdéssel kiegészülve lép hatályba:
-
-„(4) A Ktdt. 2. §-a a következő 33. ponttal egészül ki:
-
-(E törvény alkalmazásában:)
-
-„33. Végfelhasználó: a terméket tovább már nem értékesítő, a szükséglete kielégítésére felhasználó természetes, vagy jogi személy.””
-
-440. § Az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvény
-
-- 1. 10. § (2) bekezdésében a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 29/B. § (2) bekezdését megállapító rendelkezése az „adóelőleg-levonáshoz, adóbevalláshoz” szövegrész helyett az „adóbevalláshoz” szöveggel,
-- 2. 18. §-ának a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 66. § (1) bekezdés a) pont af) alpontját megállapító rendelkezése a „be nem jelentett (a társaság tevékenységében részt nem vevő) tagja” szövegrész helyett a „be nem jelentett tagja” szöveggel,
-- 3. 26. §-ának a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 84/Zs. § (5) bekezdését megállapító rendelkezése a „pontját” szövegrész helyett a „pontjában az eltartott (kedvezményezett eltartott) adóazonosító jelének közlését előíró rendelkezést” szöveggel,
-- 4. 38. §-ának a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 24/A. § (13) bekezdés b) pontját megállapító rendelkezése az „átutalásakor” szövegrész helyett az „átutaláskor” szöveggel,
-- 5. 38. §-ának a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 24/A. § (17) és (20) bekezdését megállapító rendelkezése az „adóévben” szövegrész helyett az „adóév vonatkozásában” szöveggel,
-- 6. 223. §-ának az adózás rendjéről szóló 2003. évi XCII. törvény 205. § (6) bekezdését megállapító rendelkezése az „1-jét követően” szövegrész helyett az „1-jével kezdődő adómegállapítási időszakokra” szöveggel,
-- 7. 223. §-ának az adózás rendjéről szóló 2003. évi XCII. törvény 205. § (9) bekezdését megállapító rendelkezése a „2015. január 15-étől” szövegrész helyett a „2015. február 1-jétől” szöveggel,
-- 8. 268. §-ának az egészségügyi hozzájárulásról szóló 1998. évi LXVI. törvény 2/A. §-át megállapító rendelkezése az „a kifizetőt a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) 1/B. § szerinti külföldi illetőségű magánszemélynek juttatott jövedelem után, a 3/B. §-ban meghatározott esetben” szövegrész helyett az „a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) 1/B. § szerinti külföldi illetőségű magánszemélyt a 3/B. §-ban meghatározott esetben” szöveggel,
-- 9. 405. § 1. pontja a „kizárólag fémből készült fogyasztói (elsődleges) közvetlen csomagolása” szövegrész helyett a „kizárólag fémből készült fogyasztói (elsődleges) közvetlen csomagolása, a záróelem kivételével (ide nem értve a doboz, hordó palásttal egybeépített záróelemét)” szöveggel,
-- 10. 15. mellékletének a környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény 1. melléklet e) pontjában foglalt táblázat B:1 mezőjét megállapító rendelkezése a „Szappanok, szerves felületaktív anyagok, mosószerek” szövegrész helyett a „Szappanok, szerves felületaktív anyagok, mosószerek kivéve: kézműipari foglalkozás keretében előállított termékek” szöveggel,
-- 11. 15. mellékletének a környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény 1. melléklet e) pontjában foglalt táblázat B:2 mezőjét megállapító rendelkezésében a „kivéve: a bruttó 50 kilogrammnál nagyobb kiszerelésű termékek” szövegrész helyett a „kivéve: a bruttó 50 kilogrammnál nagyobb kiszerelésű termékek, illetve kézműipari foglalkozás keretében előállított termékek” szöveggel,
-- 12. 15. mellékletének a környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény 1. melléklet e) pontjában foglalt táblázat B:5 mezőjét megállapító rendelkezése a „Szépség- vagy testápoló készítmények” szövegrész helyett a „Szépség- vagy testápoló készítmények kivéve: kézműipari foglalkozás keretében előállított termékek” szöveggel,
-- 13. 15. mellékletének a környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény 1. melléklet e) pontjában foglalt táblázat B:6 mezőjét megállapító rendelkezése a „Hajápoló szerek” szövegrész helyett a „Hajápoló szerek, kivéve: kézműipari foglalkozás keretében előállított termékek” szöveggel,
-- 14. 15. mellékletének a környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény 1. melléklet e) pontjában foglalt táblázat B:7 mezőjét megállapító rendelkezése a „Borotválkozás előtti, borotválkozó vagy borotválkozás utáni készítmények, dezodorok, fürdőhöz való készítmények, szőrtelenítők és máshol nem említett illatszerek, szépség- vagy testápolószerek; helyiségszagtalanítók, illatosított vagy fertőtlenítő tulajdonságúak is” szövegrész helyett a „Borotválkozás előtti, borotválkozó vagy borotválkozás utáni készítmények, dezodorok, fürdőhöz való készítmények, szőrtelenítők és máshol nem említett illatszerek, szépség- vagy testápolószerek; helyiségszagtalanítók, illatosított vagy fertőtlenítő tulajdonságúak is, kivéve: kézműipari foglalkozás keretében előállított termékek” szöveggel,
-- 15. 15. mellékletének a környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény 1. melléklet f) pontjába foglalt táblázat B:28 mezőjét megállapító rendelkezése az „átfolyásos vagy tárolós vízmelegítő” szövegrész helyett az „átfolyásos vízmelegítő” szöveggel,
-- 16. 15. mellékletének a környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény 1. melléklet f) pontjába foglalt táblázat C:28 mezőjét megállapító rendelkezése a „8516*” szövegrész helyett az „ex. 8516 10” szöveggel,
-- 17. 17. mellékletének a környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény 3. melléklet az „A megfizetendő fajlagos rendszerirányítási alapköltség (R) mértékét a különféle termékdíjköteles termék- és anyagáramok esetén az alábbi táblázat tartalmazza:” szövegrészt követő d) pontjába foglalt táblázat B:2 mezőjét megállapító rendelkezése a „36” szövegrész helyett a „35” szöveggel,
-- 18. 17. mellékletének a környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény 3. mellékletét megállapító rendelkezése az „OHÜ” szövegrészek helyett az „állami hulladékgazdálkodást közvetítő szervezet” szöveggel, a „qOHÜ” és „qOHÜ” szövegrészek helyett a „qáhksz” szöveggel
-
-lép hatályba.
-
-441. § Nem lép hatályba az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvény
-
-- 1. 250. § (4) bekezdése,
-- 2. 273. §-a,
-- 3. 390. § (1) bekezdése,
-- 4. 398. §-a.
+435–441. §
 
 ### VII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

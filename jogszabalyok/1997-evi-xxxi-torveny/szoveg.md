@@ -834,7 +834,7 @@ kell kifizetni.
 - d) az ellátás megszűnésének eseteit és módjait,
 - e) a fizetendő térítési díjak mértékét, csökkentésének és elengedésének eseteit, módjait.
 
-(3) Ha önkormányzati társulás gyermekjóléti, gyermekvédelmi ellátást nyújt, akkor a társulási megállapodásban erre kijelölt települési önkormányzat – a társulási megállapodásban meghatározottak szerint – a nyújtott ellátásokról, azok igénybevételéről és a fizetendő térítési díjakról rendeletet alkot.
+(3) Ha önkormányzati társulás gyermekjóléti, gyermekvédelmi ellátást nyújt, akkor a társulási megállapodásban megjelölt székhely szerinti települési önkormányzat – a társulási megállapodásban meghatározottak szerint – a nyújtott ellátásokról, azok igénybevételéről és a fizetendő térítési díjakról rendeletet alkot.
 
 30. § (1)
 
@@ -2817,7 +2817,7 @@ köteles működtetni.
 
 (8) A települési önkormányzat a bölcsődés korú gyermekek napközbeni ellátásának biztosítására irányuló, a (2) bekezdésben és a (3) bekezdés a) pontjában foglalt kötelezettségének családi napközi formájában is eleget tehet, feltéve, hogy a (3) bekezdés a) pontja szerinti esetben már fenntart legalább egy bölcsődét.
 
-94/A. § A települési önkormányzatok a személyes gondoskodás keretébe tartozó gyermekjóléti alapellátásokat, különösen a bölcsőde, a gyermekek átmeneti otthona, a családok átmeneti otthona és a gyermekjóléti központ működtetését társulás útján is biztosíthatják.
+94/A. § A települési önkormányzatok a személyes gondoskodás keretébe tartozó gyermekjóléti alapellátásokat, különösen a bölcsőde, a gyermekek átmeneti otthona és a családok átmeneti otthona működtetését társulás útján is biztosíthatják.
 
 ### Az állam feladatai
 
@@ -3930,7 +3930,15 @@ köteles biztosítani.
 
 (8) A kincstárnak az egyházi fenntartók és a nem állami fenntartók – a központi költségvetésről szóló törvényben biztosított – támogatásával kapcsolatos másodfokú eljárásaiban az ügyintézési határidő hatvan nap.
 
-(9) Az egyházi fenntartók és a nem állami fenntartók – a központi költségvetésről szóló törvényben biztosított – támogatásával kapcsolatos hatósági eljárásokban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(9) Az egyházi fenntartók és a nem állami fenntartók – a központi költségvetésről szóló törvényben biztosított – támogatásával kapcsolatos hatósági eljárásokban nem kell meghozni a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntést, valamint a hatóság vezetője az e bekezdés szerinti eljárás ügyintézési határidejét annak letelte előtt indokolt esetben, az indokok megjelölésével egy alkalommal, legfeljebb huszonegy nappal végzésben meghosszabbíthatja.
+
+(10) A kincstár az egyházi fenntartók és a nem állami fenntartók – a központi költségvetésről szóló törvényben biztosított – támogatásának elszámolásával és ellenőrzésével kapcsolatos eljárását felfüggesztheti, ha az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ, amelyben
+
+- a) a kincstár más – az egyházi fenntartónak, nem állami fenntartónak a központi költségvetésről szóló törvényben biztosított támogatásával kapcsolatos – eljárása vagy ezen eljárásban hozott döntésének bírósági felülvizsgálata,
+- b) a működést engedélyező szerv eljárása vagy ezen eljárásban hozott döntésének bírósági felülvizsgálata, vagy
+- c) a fenntartó tevékenységével vagy a szolgáltató, intézmény, hálózat működésével összefüggő büntetőeljárás
+
+van folyamatban. A kincstár az eljárását legfeljebb az a)–c) pont szerinti eljárás befejezéséig – ideértve a másodfokú eljárást, a közigazgatási döntés bírósági felülvizsgálatát, a Kúria felülvizsgálati eljárását és a megismételt eljárást is – függesztheti fel.
 
 145/A. § (1) Ha a települési önkormányzat vagy a társulás a fenntartásában működő szolgáltatót, intézményt egyházi fenntartó fenntartásába adja át, az egyházi kiegészítő támogatást a települési önkormányzat, illetve a társulás köteles a központi költségvetésnek öt éven keresztül folyamatosan, a nettó finanszírozás keretében megtéríteni.
 
@@ -4012,7 +4020,7 @@ köteles biztosítani.
 - a) a gyermekek napközbeni ellátása esetén a megállapodás megkötésekor,
 - b) a gyermekek átmeneti gondozása és utógondozói ellátás esetén legkésőbb az ellátás igénybevételétől számított harminc napon belül.
 
-(4) A személyi térítési díj – a gyermekétkeztetés kivételével – nem haladhatja meg az intézményi térítési díj összegét. Ha az intézményi térítési díj számítása nem eredményez pozitív számot, a személyi térítési díj összege nulla.
+(4) A személyi térítési díj – a gyermekétkeztetés kivételével – nem haladhatja meg az intézményi térítési díj összegét.
 
 (5) A személyi térítési díj összege önkormányzati intézmény esetén a fenntartó rendeletében, más fenntartó esetén a fenntartó képviseletére jogosult testület, személy írásbeli döntésében foglaltak szerint csökkenthető, illetve elengedhető, ha a kötelezett jövedelmi viszonyai ezt indokolttá teszik.
 

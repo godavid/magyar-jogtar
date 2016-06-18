@@ -178,7 +178,7 @@ feladatokat lát el.
 
 13. § (1) Az útdíjból származó bevétel az államháztartásról szóló 2011. évi CXCV. törvény 14. § (4) bekezdés d) pontja szerinti fejezet javára számolandó el, mint költségvetési bevétel.
 
-(2) Az útdíj bevétel, ide nem értve a (3) bekezdésben foglalt külsőköltség díjbevételt, az alábbi sorrend figyelembevételével – a mindenkori szakmapolitikai döntésekkel összhangban – használható fel:
+(2) Az útdíj bevétel vagy az e bevétel értékével megegyező összeg – ide nem értve a (3) bekezdésben foglalt külsőköltség díjbevételt – az alábbi sorrend figyelembevételével – a mindenkori szakmapolitikai döntésekkel összhangban – használható fel:
 
 - a) az útdíjszedési, egyetemes útdíjszolgáltatói, útdíjellenőrzési, útdíjellenőrzés támogatói rendszer működtetése és fenntartása, valamint az azokhoz kapcsolódó – különösen műszaki szakmai, pénzügyi, számviteli és jogi – tevékenységek pénzügyi fedezetének biztosítása,
 - b) a díjköteles országos közúthálózat üzemeltetése és fenntartása, valamint az azokhoz kapcsolódó – különösen műszaki szakmai, pénzügyi, számviteli és jogi – tevékenységek pénzügyi fedezetének biztosítása,
@@ -386,7 +386,7 @@ látja el (a továbbiakban együtt: útdíj-ellenőrzésre jogosult szervezetek)
 
 (11) Az útdíjszedő és az útdíjszolgáltató – a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott adatszolgáltatás és adatbetekintés kivételével – köteles tájékoztatni az érintett nemzetbiztonsági szolgálatot a szolgálat minősített adatot képező, gépjárműveit érintő adatszolgáltatási megkeresésekről. A tájékoztatás elektronikus megvalósításának módját és eljárásrendjét az útdíjszedő, az útdíjszolgáltató és a felügyeleti szerv közötti együttműködési megállapodásban kell rögzíteni.
 
-27. § Az útdíjból, valamint ennek megfizetésének elmaradása esetén fizetett bírságból származó bevételeket, illetve ezek felhasználására vonatkozó adatokat a 13. § (2) bekezdésében meghatározott célok finanszírozását szolgáló költségvetési előirányzat kezelője köteles a honlapján hozzáférhetővé tenni, illetve az e törvény felhatalmazása alapján kiadott rendelet szerint létrehozott Társadalmi Egyeztető Szervezet részére – kérés esetén – megküldeni.
+27. § Az útdíj vagy az e bevétel értékével megegyező összeg felhasználására vonatkozó adatokat a 13. § (2) bekezdésében meghatározott célok finanszírozását szolgáló költségvetési előirányzat kezelője köteles a honlapján hozzáférhetővé tenni, illetve az e törvény felhatalmazása alapján kiadott rendelet szerint létrehozott Társadalmi Egyeztető Szervezet részére – kérés esetén – megküldeni.
 
 ### VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

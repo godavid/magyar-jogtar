@@ -993,7 +993,13 @@ köteles elhelyezni és karbantartani.
 
 (3) A Társaság feladatai:
 
-- a) Magyarország ellenőrzött légterében – kivéve a katonai körzeteket – és Budapest Liszt Ferenc Nemzetközi Repülőtéren és légterében a légiforgalmi irányító, a repüléstájékoztató és riasztó szolgálat ellátása; továbbá Magyarország légterében a légiforgalmi navigációs, távközlési, légtérellenőrző szolgálat ellátása, és az ezekhez szükséges berendezések (kivéve a repülőtéri műszeres leszállító rendszert) működésének biztosítása;
+- a) a légiforgalmi irányító, a repüléstájékoztató és riasztó szolgálat ellátása
+  - aa) – a katonai körzetek kivételével – Magyarország ellenőrzött légterében,
+  - ab) a Budapest Liszt Ferenc Nemzetközi Repülőtéren és légterében, valamint
+  - ac) azon nemzetközi kereskedelmi repülőtéren és annak légterében, amelyen a tárgyévet megelőző két év statisztikai adatai alapján számított átlagos éves utasforgalom meghaladja az évi százezer főt, amennyiben a repülőtér üzemben tartója vagy tulajdonosa a szolgáltatásra való felkészülés költségeit és a szolgáltatás díját megfizeti a Társaság részére,
+
+továbbá Magyarország légterében a légiforgalmi navigációs, távközlési, légtérellenőrző szolgálat ellátása, és az ezekhez szükséges berendezések (kivéve a repülőtéri műszeres leszállító rendszert) működésének biztosítása;
+
 - b) a nemzetközi polgári repülés részére Budapest Liszt Ferenc Nemzetközi Repülőtéren repülésbejelentő és tájékoztató szolgálat ellátása;
 - c) a rendelkezésre álló információk alapján adatszolgáltatás a Magyar Honvédség erre kijelölt szervezete részére, a légtérfelügyelethez szükséges azonosítás elősegítése érdekében;
 - d) légtérgazdálkodás, közreműködés a stratégiai légtérgazdálkodási feladatokban;
@@ -1533,6 +1539,8 @@ rendeletben állapítsa meg.
 (2)–(4)
 
 76. § A 64. § (3) bekezdésében foglaltakat a légiközlekedésről szóló 1995. évi XCVII. törvény, valamint a légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló 2005. évi CLXXXIV. törvény módosításáról szóló 2014. évi LX. törvény hatálybalépésekor folyamatban lévő irat átadás-átvételi ügyekben is alkalmazni kell.
+
+77. § A Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvénnyel megállapított 61/A. § (3) bekezdés a) pont ac) pontja alkalmazásában első alkalommal a 2014 és 2015 évek statisztikai adatai alapján számított átlagos éves utasforgalmat kell figyelembe venni, azzal, hogy amennyiben az ily módon megállapított átlagos utasforgalom meghaladja az évi százezer főt, a Társaság a nemzetközi kereskedelmi repülőtér és légtere tekintetében a légiforgalmi irányító, a repüléstájékoztató és riasztó szolgálat ellátására legkorábban 2018. január 1-jétől köteles.
 
 ### 1. melléklet az 1995. évi XCVII. törvényhez
 

@@ -35,12 +35,12 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 
 2. § (1) E törvény hatálya kiterjed
 
-- a) az előadó-művészeti szervezetekre és az előadó-művészeti szakmai érdek-képviseleti szervezetekre,
+- a) az előadó-művészeti szervezetekre és az előadó-művészeti szakmai érdekképviseleti szervezetekre,
 - b) az előadó-művészeti szervezetek fenntartóira,
-- c) az előadó-művészeti szervezetekkel munkaviszonyban vagy közalkalmazotti jogviszonyban álló természetes személyekre, valamint
+- c) az előadó-művészeti szervezetekkel munkaviszonyban vagy közalkalmazotti jogviszonyban álló természetes személyekre, és
 - d) az előadó-művészeti szervezetek működésével összefüggő közigazgatási hatósági és szolgáltatási feladatokat ellátó szervezetre.
 
-(2) E törvény rendelkezései nem érintik a szerzői jogról szóló 1999. évi LXXVI. törvény rendelkezéseit.
+(2) E törvény rendelkezései nem érintik a szerzői jogról szóló törvény rendelkezéseit.
 
 ### 3. CÍM — A törvény alapelvei
 

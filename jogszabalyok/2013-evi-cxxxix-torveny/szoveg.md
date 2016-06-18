@@ -1985,9 +1985,8 @@ terjedhet.
   - cf) a Bit. 327. § (9) bekezdése, 337. § (7) bekezdése, 342. § (4)–(5) bekezdése, 343. § (9) bekezdése, 344. § (11) bekezdése, 351. § (5) bekezdése és 363. § (3) bekezdése szerinti határozatról,
   - cg) a Bit. 310. § (4)–(5) bekezdése szerinti vizsgálatról és az annak alapján hozott határozatról,
   - ch) a Bit. 335. § (8)–(9) bekezdése szerinti vizsgálatról és az annak alapján hozott határozatról,
-  - ci) a Bit. 350. § (3) bekezdése szerinti közös határozatról,
-  - cj) a Bit. 351. § (9) bekezdése és 352. § (3) bekezdése szerinti információkról,
-  - ck) a Bit. 279. § (5) bekezdésében és a 284. § (3) bekezdésében meghatározott tájékoztatás megtagadásának, továbbá a Bit. 289. § (3) és (4) bekezdésében meghatározott intézkedéseknek a számáról és típusáról;
+  - ci)–cj)
+  - ck)
 - d) az Európai Bankbizottságot a harmadik országban székhellyel rendelkező hitelintézet magyarországi fióktelepére kiadott tevékenységi engedélyről,
 - e) az Európai Rendszerkockázati Testületet
   - ea) a 33. § (4) bekezdése alapján meghatározott negyedéves anticiklikus pufferrátáról, és a 43. § (2) bekezdés m) pontja szerint nyilvánosságra hozott információkról,

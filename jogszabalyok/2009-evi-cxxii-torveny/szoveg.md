@@ -28,7 +28,7 @@ Az Országgyűlés a köztulajdonban álló gazdasági társaságok takarékosab
 
 (2) A köztulajdonban álló gazdasági társaság a közzététel időpontjában fennálló adatok alapján a másokkal együttesen cégjegyzésre vagy a bankszámla feletti rendelkezésre jogosult munkavállalók, valamint a munkáltató működése szempontjából meghatározó jelentőségű egyéb munkavállalók esetében az (1) bekezdés b)–c) pontjában meghatározott adatokat teszi közzé.
 
-(3) A köztulajdonban álló gazdasági társaság a közzététel időpontjában fennálló adatok alapján gondoskodik a pénzeszközei felhasználásával, a gazdasági társaság vagyonával történő gazdálkodással összefüggő – az egyszerű közbeszerzési eljárás értékhatárát elérő vagy azt meghaladó értékű – árubeszerzésre, építési beruházásra, szolgáltatás megrendelésre, vagyonértékesítésre, vagyonhasznosításra, vagyon vagy vagyoni értékű jog átadására, valamint koncesszióba adásra vonatkozó szerződések megnevezésének (típusának), tárgyának, a szerződést kötő felek nevének, a szerződés értékének, határozott időre kötött szerződés esetében annak időtartamára vonatkozó adatoknak, valamint az említett adatok változásainak közzétehetővé tételéről. Önkormányzati rendelet a kötelezően közzétételre kerülő szerződések értékhatárát az egyszerű közbeszerzési eljárás értékhatáránál alacsonyabb összegben is meghatározhatja.
+(3) A 7/I. §-ban foglaltak kivételével a köztulajdonban álló gazdasági társaság a közzététel időpontjában fennálló adatok alapján gondoskodik a pénzeszközei felhasználásával, a gazdasági társaság vagyonával történő gazdálkodással összefüggő – az egyszerű közbeszerzési eljárás értékhatárát elérő vagy azt meghaladó értékű – árubeszerzésre, építési beruházásra, szolgáltatás megrendelésre, vagyonértékesítésre, vagyonhasznosításra, vagyon vagy vagyoni értékű jog átadására, valamint koncesszióba adásra vonatkozó szerződések megnevezésének (típusának), tárgyának, a szerződést kötő felek nevének, a szerződés értékének, határozott időre kötött szerződés esetében annak időtartamára vonatkozó adatoknak, valamint az említett adatok változásainak közzétehetővé tételéről. Önkormányzati rendelet a kötelezően közzétételre kerülő szerződések értékhatárát az egyszerű közbeszerzési eljárás értékhatáránál alacsonyabb összegben is meghatározhatja.
 
 (4) A (3) bekezdésben meghatározott szerződés értéke alatt a szerződés tárgyáért kikötött – általános forgalmi adó nélkül számított – ellenszolgáltatást kell érteni, ingyenes ügylet esetén pedig a vagyon piaci vagy könyv szerinti értéke közül a magasabb összeget kell figyelembe venni. Az időszakonként visszatérő – egy évnél hosszabb időtartamra kötött – szerződéseknél az érték kiszámításakor az ellenszolgáltatás egy évre számított összegét kell alapul venni. Az egy költségvetési évben ugyanazon szerződő féllel kötött azonos tárgyú szerződések értékét a (3) bekezdés szerinti közzétételi kötelezettség szempontjából egybe kell számítani.
 
@@ -176,6 +176,12 @@ közül a magasabb összeg.
 
 7/H. § A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 159. §-a, 161. §-a és a Ptk. 2:47. § (1) bekezdése szerinti titoktartási kötelezettség nem terjed ki – a Hpt. 159. § (3) bekezdésében és 161. § (2) bekezdésében meghatározottakon túlmenően – a köztulajdonban álló gazdasági társaság, a köztulajdonban álló gazdasági társaság munkavállalója és a köztulajdonban álló gazdasági társaság vezető tisztségviselője által a többségi befolyással rendelkező tulajdonos jogait gyakorló személy vagy szervezet részére adott, üzleti titok tekintetében a köztulajdonban álló gazdasági társaságra vonatkozó, banktitkok tekintetében a Hpt. 160. §-a szerinti adatokra vonatkozó adatszolgáltatásra.
 
+7/I. § (1) A villamosenergia-termelési, villamosenergia-kereskedelmi, földgáz-kereskedelmi, villamosenergia-elosztási, földgázelosztási, földgáztárolási, átviteli rendszerirányítási, távhőtermelési, központi adatgyűjtő és feldolgozó rendszer működtetési, továbbá hatósági nyilvántartáshoz kötött távközlési tevékenységet, vagy ezen tevékenységek végzését támogató vagyonkezelői feladatokat főtevékenységként ellátó, köztulajdonban álló gazdasági társaságnak, valamint az általa a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló törvény szerint közvetlenül vagy közvetve irányított vállalkozásnak (a továbbiakban: irányított vállalkozás) az e tevékenységéhez kapcsolódóan kötött szerződésében foglalt, az 1. mellékletben meghatározott üzleti, pénzügyi, műszaki adatok, és az ezen szerződés előkészítésével, megkötésével kapcsolatos, valamint az ezekkel összefüggő döntések megalapozását szolgáló üzleti, pénzügyi, műszaki adatok közül azok, amelyek nyilvánosságát az adat keletkezésétől számított, legfeljebb az 1. mellékletben meghatározott időtartam alatt, nemzetbiztonsági, központi pénzügyi vagy külügyi érdekből – az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 27. § (2) bekezdés b), e) és f) pontjára figyelemmel – korlátozni szükséges, nem ismerhetőek meg.
+
+(2) Nem ismerhető meg továbbá a köztulajdonban álló gazdasági társaság, valamint az általa irányított vállalkozás üzleti tevékenységével kapcsolatos azon adat, amelynek más által történő megszerzése vagy nyilvánosságra hozatala a köztulajdonban álló gazdasági társaság vagy az általa irányított vállalkozás üzleti tevékenysége szempontjából aránytalan sérelmet okoz.
+
+(3) Aránytalan a sérelem akkor, ha az adat más általi megszerzése, hasznosítása, másokkal való közlése vagy nyilvánosságra hozatala a köztulajdonban álló gazdasági társaság, vagy az általa irányított vállalkozás versenytársát indokolatlan előnyhöz juttatná.
+
 8. § (1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő nyolcadik napon lép hatályba.
 
 (2) E törvény 3–4. §-a, 5. § (3) bekezdése, 6. §-a, valamint 8. § (3) bekezdése 2010. január 1-jén lép hatályba.
@@ -189,6 +195,8 @@ közül a magasabb összeg.
 (6) A köztulajdonban álló gazdasági társaságnak az e törvény hatálybalépését megelőzően kötött, a 2. § (7) bekezdésében meghatározott közzétételi kötelezettség hatálya alá eső szerződésekkel kapcsolatos adatait első alkalommal 2010. március 1-jéig kell közzétenni.
 
 (7) E törvény 5–7. §-át a Magyar Nemzeti Bankra, annak felügyelőbizottsági tagjaira, illetve a Magyar Nemzeti Bankkal munkaviszonyban álló személyekre nem kell alkalmazni.
+
+(8) A Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvénnyel (a továbbiakban: Módtv2.) megállapított 7/I. § (2) és (3) bekezdésének rendelkezéseit a Módtv2. hatálybalépését megelőzően keletkezett adatok, megkötött szerződések és adat megismerése iránt benyújtott igények tekintetében, valamint a Módtv2. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
 9. § (1) A köztulajdonban álló gazdasági társaság a társasági szerződését (alapszabályát, alapító okiratát), illetve működését az e törvény hatálybalépését követő első taggyűlés/közgyűlés napjáig, de legkésőbb 2010. január 31-ig köteles összhangba hozni a 3–4. §, az 5. § (3) bekezdés és a 6. § rendelkezéseivel.
 
@@ -210,3 +218,19 @@ közül a magasabb összeg.
 - b) a (3) bekezdés szerinti esetben a tulajdonosváltozásnak a részvénykönyvbe való bejegyzéséről történő tudomásszerzéstől
 
 számított 15 napon belül kell kezdeményezni.
+
+### 1. melléklet 2009. évi CXXII. törvényhez
+
+|  | A 7/I. § (1) bekezdés szerinti adatok | A korlátozás maximális időtartama (év) |
+| --- | --- | --- |
+| 1. | Nukleáris üzemanyag-szállítással kapcsolatos szerződések üzleti, pénzügyi, műszaki adatai | 30 |
+| 2. | Nukleáris létesítmény üzemeltetéséhez kapcsolódó szerződések üzleti, pénzügyi, műszaki adatai | 30 |
+| 3. | Villamos energia és földgáz kereskedelmi szerződések mennyiségi, ár, árképzési és rugalmassági feltételeire, valamint lekötött kapacitásokra vonatkozó adatai | 30 |
+| 4. | Villamos és hőenergia értékesítéssel kapcsolatos szerződések üzleti, pénzügyi, műszaki adatai | 15 |
+| 5. | Villamos energia és földgáz-kereskedelmi ügyletekhez kapcsolódó pénzügyi termékek ár- és mennyiségi feltételeire vonatkozó adatok | 15 |
+| 6. | Villamos energia és földgáz-kereskedelmi tevékenység végzéséhez kapcsolódó belső szabályozó dokumentumok, eljárásrendek, döntés-támogató dokumentumok, előterjesztések, jegyzőkönyvek és határozatok üzleti, pénzügyi, műszaki adatai | 15 |
+| 7. | A társaság stratégiájában szereplő kiemelt célok megvalósításával kapcsolatos szerződések üzleti, pénzügyi, műszaki adatai | 15 |
+| 8. | Földgáztárolás körében kötött vevői szerződések ár és kapacitás-lekötési adatai | 15 |
+| 9. | Az átviteli rendszerirányítási tevékenységgel összefüggő szerződések ár, fizetési ütemezési és műszaki adatai | 10 |
+| 10. | Pénzügyi, finanszírozási szerződések, megállapodások üzleti, pénzügyi adatai | 10 |
+| 11. | A közbeszerzési szabályok hatálya alá nem tartozó beszerzési, beruházási szerződések üzleti, pénzügyi, műszaki adatai | 10 |

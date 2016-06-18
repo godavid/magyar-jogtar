@@ -590,10 +590,10 @@ időtartamával.
 - b) az európai uniós operatív programok előfinanszírozásának céljára szolgáló pénzeszközöket,
 - c) a Társadalmi Megújulás Operatív Program társfinanszírozásra szolgáló pénzeszközöket,
 - d) a külön jogszabályban meghatározott közfoglalkoztatás támogatására fordítható pénzeszközöket,
-- e) az adórendszer átalakítása miatt kiegészítő munkáltatói támogatásra fordítható pályázati pénzeszközöket,
-- f) a Nyugdíjbiztosítási Alapnak átadandó pénzeszközöket,
-- g) a kincstár által terhelt, a számlavezetéssel kapcsolatos működési kiadásokat.
-- h) a kötelező legkisebb munkabér és a garantált bérminimum emeléséből 2013. első félévében adódó többletterhekhez igénybe vehető támogatásra fordítható pénzeszközöket.
+- e)
+- f)
+- g) a kincstár által terhelt, a számlavezetéssel kapcsolatos működési kiadásokat, valamint a megszűnt jogcímekhez kapcsolódó kifizetéseket,
+- h)
 - i)
 - j) uniós forrás terhére – előleg bevonásával – megvalósuló operatív programok finanszírozására szolgáló pénzeszközöket,
 - k) az Európai Globalizációs Alkalmazkodási Alap elő- és társfinanszírozására szolgáló pénzeszközöket.
@@ -639,7 +639,7 @@ időtartamával.
 
 (5) A Nemzeti Foglalkoztatási Alap foglalkoztatási alaprésze terhére tárgyéven túli fizetési kötelezettség a miniszter által meghatározott mértékig vállalható, amely nem haladhatja meg a tárgyévi eredeti, előirányzat-módosítás esetén a módosított kiadási előirányzat 40 százalékát.
 
-(6) A Nemzeti Foglalkoztatási Alap közfoglalkoztatási támogatások előirányzata terhére tárgyéven túli fizetési kötelezettség a miniszter által meghatározott mértékben, legfeljebb a tárgyévi költségvetési támogatás összegének 40%-os mértékéig vállalható.
+(6) A Nemzeti Foglalkoztatási Alap közfoglalkoztatási támogatások előirányzata terhére tárgyéven túli fizetési kötelezettség a miniszter által meghatározott mértékig vállalható, amely nem haladhatja meg a tárgyévi eredeti, előirányzat-módosítás esetén a módosított kiadási előirányzat 40%-át.
 
 (7) A (6) bekezdésben meghatározott 40%-os mérték alól a közfoglalkoztatásért felelős miniszter kezdeményezésére – figyelemmel a közfoglalkoztatási programok kezdési időpontjára és tartamára – a Kormány egyedi felmentést adhat.
 
@@ -704,7 +704,7 @@ időtartamával.
 - f) 1996. január 1-je előtt a Foglalkoztatási Alap terhére vállalt kötelezettségek teljesítéséből adódó kifizetésekre;
 - g) a szociális szövetkezet tagjának tagi munkavégzés keretében történő személyes közreműködése után fizetendő egészségügyi szolgáltatási járulékra.
 
-(3) A Nemzeti Foglalkoztatási Alap közfoglalkoztatási támogatások előirányzata központi és decentralizált keretre osztható fel. A közfoglalkoztatási támogatások előirányzata terhére megvalósuló programokkal összefüggésben legfeljebb a költségvetési támogatás 0,5%-ának megfelelő mértékben számolható el működtetéssel kapcsolatos kiadás.
+(3) A Nemzeti Foglalkoztatási Alap közfoglalkoztatási támogatások előirányzata központi és decentralizált keretre osztható fel. A közfoglalkoztatási támogatások előirányzata terhére megvalósuló programokkal összefüggésben legfeljebb a tárgyévi eredeti előirányzat, előirányzat-módosítás esetén a módosított kiadási előirányzat 0,3%-ának megfelelő mértékben számolható el működtetéssel kapcsolatos kiadás.
 
 (4) Felhatalmazást kap a Kormány, hogy a Nemzeti Foglalkoztatási Alapból finanszírozható további, törvényben nem szabályozott támogatásokat rendeletben állapítson meg.
 

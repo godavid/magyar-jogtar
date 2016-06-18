@@ -222,7 +222,8 @@ az állami adóhatóságtól – a 9. § (1), (4) és (5) bekezdése szerinti el
 - g) az állami fenntartású szakképző iskolák felnőttoktatási tevékenységének támogatására szolgáló keretösszeget,
 - h) a központi keretösszeget,
 - i) a 19/A. § (2) bekezdés b) pontja és (3) bekezdése szerinti feladatokra elkülönített keretösszeget,
-- j)
+- j) az állami fenntartású szakképző iskolák működési költségéhez való hozzájárulásra biztosítható keretösszeget,
+- k) a szakképzésről szóló 2011. évi CLXXXVII. törvény 24/A. § (6) bekezdése alapján a Szakképzési Hídprogramban részt vevő tanuló részére ösztöndíj formájában nyújtott támogatásra, és a pedagógus pótlék biztosítására szolgáló keretösszeget.
 
 13. § (1) Az alaprész feletti rendelkezési jogot a szakképzésért és felnőttképzésért felelős miniszter gyakorolja.
 
@@ -278,7 +279,7 @@ használható fel.
 
 (7) Az alaprész központi keretéből támogatás nyújtható a gazdasági kamaráknak – a gazdasági kamaráknak nyújtott támogatási kereten belül, a gazdasági kamarák szakképzési feladatellátásában megállapodás alapján együttműködő országos gazdasági érdek-képviseleti szervezeteknek – a gazdasági kamarákról szóló törvényekben, valamint a szakképzésről szóló törvényben meghatározott feladataik, továbbá a szakképesítésért felelős miniszterrel kötött megállapodásban foglalt szakképzési feladatok ellátására.
 
-(8) Az (5)–(7) és a (9)–(17) bekezdés alapján kapott támogatásokat egyéb bevételként kell elszámolni.
+(8)
 
 (9) Az alaprész központi keretéből – kérelemre – támogatás nyújtható az állami szakképzési és felnőttképzési szerv, az országos gazdasági érdekképviseletek, a szakképzés és felnőttképzés fejlesztésében közreműködő közalapítványok és szakmai szervezetek részére a szakképzés és felnőttképzés fejlesztéssel összefüggő feladataik ellátásához, valamint – pályázat útján – országos szakmai tanulmányi versenyek szervezéséhez.
 
@@ -369,7 +370,7 @@ használható fel.
 
 (2) Felhatalmazást kap a szakképzésért és felnőttképzésért felelős miniszter, hogy – az államháztartásért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben – rendeletben állapítsa meg
 
-- a) az alaprészből a 12. § d), h), i) és j) pontja szerinti célra nyújtott támogatásokkal összefüggésben a támogatás és díjazás mértékére, feltételeire, folyósítására, valamint a támogatás felhasználásáról történő elszámolásra és ellenőrzésre, továbbá a támogatásra irányuló pályázatok kiírására és elbírálására vonatkozó szabályokat,
+- a) az alaprészből a 12. § d), h), és i) pontja szerinti célra nyújtott támogatásokkal összefüggésben a támogatás és díjazás mértékére, feltételeire, folyósítására, valamint a támogatás felhasználásáról történő elszámolásra és ellenőrzésre, továbbá a támogatásra irányuló pályázatok kiírására és elbírálására vonatkozó szabályokat,
 - b) az alaprészből felnőttképzési célra nyújtott támogatások részletes szabályait,
 - c) a 31. § (2) bekezdése szerinti adatszolgáltatás részletes szabályait,
 - d) a saját munkavállalók képzésére vonatkozó költségek elszámolásának részletes szabályait,

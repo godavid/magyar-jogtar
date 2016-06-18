@@ -206,7 +206,7 @@ tartalmazza.
 
 (4) Az FSZB elnökét és tagjait a miniszter nevezi ki és menti fel. A kinevezés visszavonásig, de legfeljebb négyéves időtartamra érvényes. A miniszter az FSZB elnökét a felnőttképzési szakértők közül nevezi ki.
 
-(5) Az FSZB feladataira és működésére, tagjainak megbízására, felmentésére és díjazására vonatkozó részletes szabályokat miniszteri rendelet határozza meg.
+(5) Az FSZB feladataira és működésére, tagjainak megbízására, felmentésére, díjazására és összeférhetetlenségére vonatkozó részletes szabályokat miniszteri rendelet határozza meg.
 
 ### III. Fejezet — A FELNŐTTKÉPZÉS TARTALMI KÖVETELMÉNYEI
 
@@ -306,7 +306,9 @@ lehet.
 
 14. § (1) A felnőttképzést folytató intézmény képzési tevékenysége minőségének folyamatos javítása céljából a miniszter rendeletében meghatározott minőségbiztosítási keretrendszernek megfelelő minőségbiztosítási rendszert működtet.
 
-(2) A felnőttképzést folytató intézmény – az (1) bekezdés szerinti minőségbiztosítási rendszernek megfelelően – kétévenként legalább egyszer elvégezteti az intézmény tevékenységének külső értékelését.
+(2) Az FSZB a felnőttképzést folytató intézmények tevékenységének – (1) bekezdés szerinti célt szolgáló – külső értékelését a felnőttképzési minőségbiztosítási keretrendszerről, valamint a Felnőttképzési Szakértői Bizottság tagjairól, feladatairól és működésének részletes szabályairól szóló miniszteri rendelet szerinti minőségbiztosítási rendszernek megfelelően és a miniszteri rendeletben meghatározott feltételeknek megfelelő jogi személyek bevonásával legalább kétévente végzi el.
+
+(3) A felnőttképzést folytató intézmények külső értékelésére vonatkozó részletes szabályokat, valamint a külső értékelést végző szervezetek kijelölésének szabályait a miniszter rendeletben határozza meg.
 
 #### 9. A felnőttképzési információs rendszer, a képzés megvalósításával összefüggő dokumentumok
 
@@ -464,7 +466,7 @@ tartalmazza.
 
 (3) A vallási közösség által fenntartott intézmény e törvény hatálya alá tartozó felnőttképzési tevékenységének ellenőrzése során a hittudományokra és kizárólag a hitélet gyakorlására vonatkozó tárgyak, ismeretek tartalma nem vizsgálható.
 
-(4) A hatóság a felnőttképzési tevékenység folytatására vonatkozó jogszabályi előírások megtartását – szakértői bizottság bevonásával – ellenőrzi, és eljár ezek megsértése esetén. A hatóság az ellenőrzést szükség szerint, de kétévenként legalább egy alkalommal, az engedély megszerzését megelőzően képzési tevékenységet nem folytató intézmények esetén az engedély első két évében évente legalább egy alkalommal köteles lefolytatni. A hatóság ellenőrzési tevékenysége során képzési tevékenységet nem folytató intézménynek tekinti azokat az intézményeket, amelyek az engedély megszerzését megelőző két évben az Országos Statisztikai Adatgyűjtési Program adatgyűjtéseiről és adatátvételeiről szóló kormányrendelet szerinti adatszolgáltatást (a továbbiakban: OSAP) nem teljesítettek.
+(4) A hatóság a felnőttképzési tevékenység folytatására vonatkozó jogszabályi előírások megtartását – szakértői bizottság bevonásával – ellenőrzi, és eljár ezek megsértése esetén. A hatóság az ellenőrzést szükség szerint, de négyévenként legalább egy alkalommal, az engedély megszerzését megelőzően képzési tevékenységet nem folytató intézmények esetén az engedély első két évében évente legalább egy alkalommal köteles lefolytatni. A hatóság ellenőrzési tevékenysége során képzési tevékenységet nem folytató intézménynek tekinti azokat az intézményeket, amelyek az engedély megszerzését megelőző két évben az Országos Statisztikai Adatgyűjtési Program adatgyűjtéseiről és adatátvételeiről szóló kormányrendelet szerinti adatszolgáltatást (a továbbiakban: OSAP) nem teljesítettek.
 
 (4a) A (4) bekezdés szerinti szakértői bizottság tagjait a hatóság által vezetett felnőttképzési szakértői és a kamara által vezetett felnőttképzési programszakértői nyilvántartásban szereplő szakértők közül rendeli ki a hatóság, azzal, hogy az 1. § (2) bekezdés a) és b) pontja szerinti képzések ellenőrzése során felnőttképzési programszakértő, az 1. § (2) bekezdés c) pontjában meghatározott képzések ellenőrzése során felnőttképzési szakértő rendelhető ki. Ha a kamara által vezetett felnőttképzési programszakértői nyilvántartásban nincs olyan szakértő, aki a felnőttképzési szakterülete szerint az engedélyezési eljárás során kirendelhető, vagy a kirendelhető szakértők tekintetében miniszteri rendeletben meghatározott összeférhetetlenség áll fenn, a hatóság a szakértői bizottság tagjait kizárólag a felnőttképzési szakértői nyilvántartásban szereplő szakértők közül rendeli ki.
 
@@ -607,9 +609,9 @@ kapcsolatosak,
 (2) Felhatalmazást kap a miniszter, hogy rendeletben – az f) pontban foglaltak vonatkozásában a társadalmi felzárkózásért felelős miniszter, valamint a közfoglalkoztatásért felelős miniszter egyetértésével – határozza meg
 
 - a) a 3. § (4) bekezdése szerinti igazgatási szolgáltatási díjak mértékét, beszedésének, kezelésének, nyilvántartásának és felhasználásának szabályait, valamint az engedéllyel rendelkező intézmények ellenőrzése során kiszabott bírság befizetésének rendjét,
-- b) a felnőttképzési szakértői és felnőttképzési programszakértői tevékenység folytatásának részletes feltételeit, a felnőttképzési szakterületeket, a szakértői tevékenységre irányuló bejelentés adattartalmát, a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket, a felnőttképzési szakértők és a felnőttképzési programszakértők díjazására vonatkozó rendelkezéseket, valamint a Felnőttképzési Szakértői Bizottság feladataira és működésére, tagjainak megbízására, felmentésére és díjazására vonatkozó részletes szabályokat,
+- b) a felnőttképzési szakértői és felnőttképzési programszakértői tevékenység folytatásának részletes feltételeit, a felnőttképzési szakterületeket, a szakértői tevékenységre irányuló bejelentés adattartalmát, a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket, a felnőttképzési szakértők és a felnőttképzési programszakértők díjazására vonatkozó rendelkezéseket, valamint a Felnőttképzési Szakértői Bizottság feladataira és működésére, tagjainak megbízására, felmentésére, díjazására és összeférhetetlenségére vonatkozó részletes szabályokat,
 - c) az OKJ-ba tartozó szakképesítések esetén a gyakorlati képzés teljesítésének és ellenőrzésének részletes szabályait,
-- d) a felnőttképzési minőségbiztosítási keretrendszert,
+- d) a felnőttképzési minőségbiztosítási keretrendszert, a felnőttképzést folytató intézmények külső értékelésére vonatkozó részletes szabályokat, valamint a külső értékelést végző szervezetek kijelölésének szabályait,
 - e) a felnőttképzési szakmai programkövetelmények, valamint a felnőttképzési nyelvi programkövetelmények nyilvántartásba vételéhez szükséges szakmai végzettségek és nyelvi képzettségek azonosítóval ellátott besorolási szempontjait, a nyilvántartásba vétel követelményeit és eljárási rendjét, valamint a szakmai végzettség megszerzését igazoló dokumentum tartalmát és formáját,
 - f) azokat a képzéseket, amelyeket a hátrányos helyzetűek képzettségének, kompetenciáinak fejlesztése érdekében szervezett képzések, a közfoglalkoztatáshoz kapcsolódó, valamint a szociális szövetkezetekben történő foglalkoztatásra felkészítő képzések közül kizárólag az állami felnőttképzési intézmény végezhet,
 - g) a bemeneti kompetenciamérés lefolytatására és eredményének figyelembevételére, valamint az előzetes tudásmérés lefolytatására, az előzetesen felmért tudásnak a képzés során történő beszámítására vonatkozó szabályokat és azon képzési egységek meghatározásának szabályait, amelyekre a tudásmérés irányul.

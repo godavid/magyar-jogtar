@@ -193,6 +193,8 @@ terjed ki.
 
 19/O. § A Kttv.-nek a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény és más kapcsolódó törvények módosításáról szóló 2015. évi CCIII. törvénnyel megállapított 20. § (8) bekezdésében szereplő rendelkezése azon államigazgatási szerveknél, amelyek rendelkeznek az elektronikus dokumentumok kiállításához szükséges feltételekkel, 2016. január 1-jétől kötelezően alkalmazandó. Azon államigazgatási szerveknél, amelyek nem rendelkeznek az elektronikus dokumentumok kiállításához szükséges feltételekkel, a feltételek megteremtéséről legkésőbb 2016. június 30-ig kell gondoskodni és a Kttv. 20. § (8) bekezdésében foglalt szabályozást 2016. július 1-jétől alkalmazni kell.
 
+19/P. § A Kttv.-nek a Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvénnyel (a továbbiakban: 2016. évi LXVII. törvény) megállapított 70. § (3) bekezdését a 2016. évi LXVII. törvény hatálybalépését követően közölt, munkaviszonyt megszüntető jognyilatkozatra kell alkalmazni.
+
 #### 2. A közszolgálati tisztviselőkről szóló törvényhez kapcsolódó egyes törvények módosítása
 
 #### 20–34. §

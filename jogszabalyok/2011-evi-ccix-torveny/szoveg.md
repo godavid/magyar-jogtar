@@ -53,7 +53,10 @@ Az Országgyűlés a víziközmű-szolgáltatással kapcsolatos alapvető jogok 
 - 19. szennyvíz törzshálózat: olyan, a víziközmű-rendszer részét képező hálózat, amely a szennyvíz főgyűjtőből, az erre kapcsolt mellékgyűjtőkből és ezek berendezéseiből áll,
 - 20. víziközmű: olyan közcélú vízilétesítmény, amely
   - a) település vagy települések közműves ivóvízellátását, ezen belül az ivóvíztermelést, az ehhez kapcsolódó ivóvízbázis-védelmet, az ivóvízkezelést, -tárolást, -szállítást és -elosztást, felhasználási helyekre történő eljuttatást, mindezekhez kapcsolódóan a tűzivíz biztosítását vagy
-  - b) a közműves szennyvízelvezetés során (egyesített rendszer esetén a csapadékvíz-elvezetést is ideértve) a szennyvíz felhasználási helyekről történő összegyűjtését, elvezetését, tisztítását, a tisztított szennyvíz hasznosítását, elhelyezését szolgálja,
+  - b) a közműves szennyvízelvezetés során (egyesített rendszer esetén a csapadékvíz-elvezetést is ideértve) a szennyvíz felhasználási helyekről történő összegyűjtését, elvezetését, tisztítását, a tisztított szennyvíz hasznosítását, elhelyezését
+
+szolgálja,
+
 - 21. víziközmű-fejlesztés: víziközműre irányuló olyan beruházási vagy felújítási tevékenység, mely célja szerint új víziközmű létesítését, a meglévő víziközmű bővítését, rekonstrukcióját és pótlását is magába foglalhatja,
 - 22. víziközmű-működtetés: a víziközmű üzemeltetésével, valamint a víziközmű-fejlesztéssel kapcsolatos tevékenységek összessége,
 - 23. víziközmű-rendszer: a víziközművek olyan egybefüggő struktúrája, amely:
@@ -1021,11 +1024,11 @@ kiállított számla érvénytelen.
 69. § (1) A nem lakossági felhasználó a víziközmű-szolgáltatóval kötött szerződésben foglaltak szerint a víziközmű-szolgáltató részére víziközmű-fejlesztési hozzájárulást fizet
 
 - a) közszolgáltatási szerződéses jogviszony esetében a felhasználási helyen biztosítandó szolgáltatási kapacitásért,
-- b) a víziközmű-szolgáltatásba bekapcsolt ingatlanhoz biztosított kapacitás általa kezdeményezett bővítéséért, továbbá
-- c) a víziközmű-szolgáltatás minőségének (a víz minőségi paramétereinek) általa igényelt emelése esetében,
+- b) a víziközmű-szolgáltatásba bekapcsolt ingatlanhoz biztosított kapacitás általa kezdeményezett bővítéséért,
+- c) a víziközmű-szolgáltatás minőségének (a víz minőségi paramétereinek) általa igényelt emelése esetében, továbbá
 - d) az új bekötés megvalósítását megelőzően.
 
-(2) Nem kell víziközmű-fejlesztési hozzájárulást fizetnie a központi költségvetési szervnek és annak költségvetési intézményének, a helyi önkormányzatnak és annak költségvetési intézményének, valamint normatív állami támogatásban részesülő, közfeladatot ellátó, nem nyereség- és vagyonszerzési célt szolgáló egyéb intézménynek.
+(2) Nem kell víziközmű-fejlesztési hozzájárulást fizetnie a központi költségvetési szervnek és intézményének, a helyi önkormányzatnak és annak költségvetési intézményének, valamint normatív állami támogatásban részesülő, közfeladatot ellátó, nem nyereség- és vagyonszerzési célt szolgáló egyéb intézménynek.
 
 70. § (1) A víziközmű-fejlesztési hozzájárulás mértékét a Hivatal elnöke rendeletben állapítja meg. A víziközmű-fejlesztési hozzájárulás megállapításakor rendelkezni kell arról, hogy a víziközmű-fejlesztési hozzájárulás mikor lép hatályba, e rendelkezésnek visszamenőleges hatálya nem lehet.
 
@@ -1037,9 +1040,9 @@ kiállított számla érvénytelen.
 
 (5) A víziközmű-fejlesztési hozzájárulás tekintetében a 66. §-ban foglalt rendelkezéseket kell alkalmazni azzal, hogy közszolgáltatási szerződés alatt a 69. § (1) bekezdése szerinti szerződést, hatósági díj alatt víziközmű-fejlesztési hozzájárulást kell érteni.
 
-71. § (1) A nem lakossági felhasználó az adott felhasználási helyen a víziközmű-fejlesztési hozzájárulás megfizetésével a megvásárolt közműfejlesztési kvóta erejéig jogosulttá válik a szolgáltatás igénybevételére.
+71. § (1) A nem lakossági felhasználó az adott felhasználási helyen a víziközmű-fejlesztési hozzájárulás megfizetésével a megvásárolt közműfejlesztési kvóta erejéig válik jogosulttá a szolgáltatás igénybevételére.
 
-(2) A víziközmű-szolgáltatási ágazatokra megállapított közműfejlesztési kvóták egymásba át nem válthatók.
+(2) A víziközmű-szolgáltatási ágazatokra megállapított közműfejlesztési kvóták nem válthatók át egymásba.
 
 72. § (1) A víziközmű-fejlesztési hozzájárulás kizárólag azon víziközmű rendszer víziközmű-fejlesztési igényeivel összefüggésben – ide nem értve a felhasználó részére kiépítendő ivóvíz- vagy szennyvíz-bekötővezetéket – használható fel, amelyhez a hozzájárulás megfizetésére kötelezett felhasználási hely csatlakozik.
 

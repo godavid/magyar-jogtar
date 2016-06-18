@@ -2070,11 +2070,13 @@ kell figyelembe venni.
 
 (6) A Magyar Államkincstár a hivatásos állomány tagja részére a kifizetett illetményről legkésőbb a tárgyhónapot követő hónap utolsó munkanapjáig részletes, írásbeli elszámolást ad, amelyből mind a kiszámítás helyessége, mind a levonások jogcíme és összege ellenőrizhető.
 
+(7) A hivatásos állomány tagját, ha az illetmény tárgyhónapra vonatkozó elszámolását követően bekövetkező ok miatt az elszámolás módosítása szükséges, a tárgyhónapra vonatkozó illetményelszámolás módosításáról legkésőbb a következő havi illetmény elszámolásakor tájékoztatni kell. Az illetménykülönbözetet a következő havi illetménnyel egyidejűleg ki kell fizetni.
+
 164. § (1) Az illetményből történő levonásnak csak jogszabály, végrehajtható határozat vagy a hivatásos állomány tagjának hozzájárulása alapján van helye, ettől eltérni nem lehet.
 
 (2) A rendvédelmi szerv az előlegnyújtásból eredő követelését a hivatásos állomány tagjának illetményéből levonhatja. Az illetményből való levonásra egyebekben a bírósági végrehajtás szabályai az irányadók.
 
-(3) A jogalap nélkül kifizetett illetmény hatvan napon belül írásbeli fizetési felszólítással visszakövetelhető a hivatásos állomány tagjától. Az általános elévülési időn belül visszakövetelhető a jogalap nélkül felvett illetmény, ha annak alaptalanságáról a hivatásos állomány tagja tudott vagy tudnia kellett volna.
+(3) A jogalap nélkül kifizetett illetmény hatvan napon belül az előlegnyújtásból eredő követelésre vonatkozó szabályok szerint visszakövetelhető a hivatásos állomány tagjától. Az általános elévülési időn belül visszakövetelhető a jogalap nélkül felvett illetmény, ha annak alaptalanságáról a hivatásos állomány tagja tudott vagy tudnia kellett volna.
 
 (4) Engedményezésnek csak pénzkövetelés esetén van helye. A levonásmentes illetményrész nem engedményezhető, és a hivatásos állomány tagja az illetményre vonatkozó igényéről előre nem mondhat le. A levonásmentes illetményrész a bírósági végrehajtásról szóló jogszabály alapján teljesíthető levonások után fennmaradó illetményrész.
 
@@ -2212,6 +2214,8 @@ költséget.
 (6) A kezességvállalásból eredő helytállási kötelezettség teljesítésének módját a Kormány rendeletben állapítja meg.
 
 174. § A hitelintézet a negyedévet követő hónap tizenötödik napjáig tájékoztatja a kincstárt a hivatásos állomány tagjainak nyújtott kölcsönök állami kezességvállalással érintett részének negyedév végén fennálló állományáról, továbbá e kölcsönök számáról. Az adatgyűjtés és adatszolgáltatás egyedi azonosításra alkalmatlan módon történhet.
+
+174/A. § Ha az 58. § (5) bekezdése szerint kinevezett területi vagy helyi szerv vezetőjének a 171. § (1) bekezdés a) pontja szerinti elhelyezésének biztosításához különös szolgálati érdek fűződik, a rendvédelmi szerv az állam nevében eljárva kizárólag az ingatlan zártvégű pénzügyi lízing útján történő megszerzése céljából adósságot keletkeztető ügyletet köthet.
 
 #### 92. Természetbeni ellátás
 

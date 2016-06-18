@@ -12,101 +12,37 @@ a települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvé
 
 #### 2. A települési önkormányzat egészségügyi intézményeinek és vagyonának átvétele
 
-2. § (1) A települési önkormányzat tulajdonában és fenntartásában lévő, az 1. mellékletben felsorolt egészségügyi intézmény, valamint az ezen intézményekkel kapcsolatos valamennyi vagyon és vagyoni értékű jog, kivéve az önkormányzati tulajdonban levő szellemi (szerzői és iparjogvédelmi) tulajdonjogokat, továbbá az intézményekkel kapcsolatos fenntartói jog és kötelezettség, továbbá a 2. mellékletben felsorolt intézmények által az átvett feladat ellátásához bármilyen jogcímen használt, önkormányzati tulajdonban lévő vagyon 2012. május 1-jével a magyar államra e törvény erejénél fogva száll át. Az egészségügyért felelős miniszter által fenntartói joggyakorlóként kijelölt központi államigazgatási szerv (a továbbiakban: kijelölt szerv) e törvény erejénél fogva gyakorolja a fenntartói jogokat. Átvételre kerül és a magyar államra, illetve a kijelölt szervre száll át e törvény erejénél fogva az átvett feladat ellátását végző vagy a feladat ellátásában közreműködő, a települési önkormányzat vagy az átvett intézmény által alapított, az átvett feladat végzésében közreműködő közalapítvány, alapítvány (ideértve a települési önkormányzat által más alapítóval közösen alapított alapítványt, közalapítványt is), és azok a gazdasági társaságok és egyéb gazdálkodó szervezetek, amelyek az átvett feladat ellátásában közreműködnek és részben (a tulajdoni hányad erejéig) vagy egészben a települési önkormányzat tulajdonában állnak (a továbbiakban együtt: átvett intézmények). Az intézményeket az állam a szállítói tartozásokkal együtt veszi át.
-
-(2) A települési önkormányzatok helyébe – a 7. §-ban foglalt kivétellel – az e törvény szerint átvett intézményekkel, illetve a 2. mellékletben meghatározott intézmények esetében az átvett vagyonnal és az átvett feladattal kapcsolatos jogviszonyok tekintetében 2012. május 1-jével jogutódként a magyar állam lép. E keretek között az egészségügyi intézmények átadásához kapcsolódó jogviszonyok tekintetében a tulajdonosi és fenntartói, a költségvetési szervek esetében az irányítói és alapítói jogutódlásra az államháztartásról szóló törvény és végrehajtási rendelete, a nemzeti vagyonról, illetve az állami vagyonról szóló törvény és végrehajtási rendelete, valamint a Polgári Törvénykönyv az irányadó, a (3)–(5) bekezdésben foglaltak figyelembevételével.
+2. § (1)–(2)
 
 (3) A települési önkormányzatok által alapított, valamint a települési önkormányzatok által más alapítóval közösen alapított alapítványokban, illetve közalapítványokban a települési önkormányzatokat megillető alapítói jogok gyakorlására 2012. május 1-jét követően a kijelölt szerv jogosult.
 
-(4) Az átvett egészségügyi intézménnyel összefüggő egyes intézményfenntartói feladatokat a kijelölt szerv látja el. Az e törvény hatálybalépésekor folyamatban levő ügyekben és a tartós jogviszonyokban a kijelölt szerv jár el fenntartói joggyakorlóként.
+(4)–(6)
 
-(5) A kijelölt szerv képviseli a magyar államot mint jogutódot a települési önkormányzatnak az átvett intézménnyel összefüggő jogai és kötelezettségei tekintetében bírósági, hatósági eljárásokban, valamint harmadik személyekkel szemben. A jogutódlásról a bíróság, hatóság a jogutódlás megállapítása iránti kérelem benyújtását követően haladéktalanul, de legkésőbb 15 napon belül dönt.
+3–5. §
 
-(6) Az (1) bekezdésben meghatározottakat az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa tv.) alkalmazásában olyan jogutódlással történő megszűnésnek kell tekinteni, amely az Áfa tv. 18. § (1) bekezdésében leírt feltételeknek megfelel.
+5/A–5/B. §
 
-3. § (1) Az 1. melléklet szerinti egészségügyi intézmények, illetve a 2. melléklet szerinti egészségügyi intézmények által az átvett feladat ellátásához használt, önkormányzati tulajdonban lévő vagyon átadása során a tényleges birtokbaadásról jegyzőkönyv készül, amelyet az átadó részéről a települési önkormányzat polgármestere, valamint jegyzője, az átvevő részéről a kijelölt szerv vezetője ír alá (a továbbiakban: jegyzőkönyv). Amennyiben a települési önkormányzattól állami tulajdonba átvett vagyonban szerepel a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 1. § (1)–(2b) bekezdése hatálya alá tartozó vagyonelem, a jegyzőkönyv aláírásában félként részt vesz a Nemzeti Földalapkezelő Szervezet is.
+5/C. §
 
-(2) A jegyzőkönyvben a települési önkormányzat polgármestere teljes körű felelősséget vállal az általa tett nyilatkozatok és az átadott, ismertetett adatok, információk, tények, okiratok, dokumentumok valóságtartalmáért, teljeskörűségéért és érdemi vizsgálatra alkalmas voltáért a 3. melléklet szerinti teljességi nyilatkozattal.
-
-(3) Az önkormányzati tulajdonból állami tulajdonba kerülő vagyonelemek bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, az átadó szervezet könyveiben szereplő nyilvántartási értékkel.
-
-(4) A települési önkormányzat az állam által átvételre kerülő vagyonelemeket e törvény hatálybalépését követően nem idegenítheti el, nem terhelheti meg, a gazdasági társaságok törzs-, illetve alaptőkéjét nem csökkentheti. Ez alól kivételt képeznek azok a vagyonelemek, amelyeket érintő jogügyletekről a települési önkormányzat e törvény hatálybalépését megelőzően már döntést hozott, és az abból befolyó bevételt a települési önkormányzat a 2012. évi költségvetésében betervezte.
-
-(5) Amennyiben e törvény hatálybalépését megelőző öt éven belül az átadással érintett települési önkormányzat az átvett intézmény feletti rendelkezést biztosító gazdasági társasági részesedését – polgári jogi szerződés útján – ellenérték fejében szerezte meg, részére a szerzéskor ténylegesen kifizetett ellenértéket a Magyar Állam egyösszegű kártalanításként megfizeti.
-
-4. § A kijelölt szerv és a települési önkormányzatok az átvételhez kapcsolódó intézkedések végrehajtása során kölcsönösen együttműködve járnak el.
-
-5. § (1) A tulajdonjog és a fenntartói jog átszállása nem érinti az egészségügyi szolgáltató területi ellátási kötelezettségét, a meglévő lekötött kapacitásai mértékét és szakmai összetételét, valamint az érvényes finanszírozási szerződése szerinti finanszírozásra való jogosultságát, az átvett feladathoz kapcsolódó közreműködői szerződések, egészségügyi ellátási szerződések, illetve megállapodások és az ezekhez kapcsolódó vagyonkezelési szerződések érvényességét. A tulajdonjog átszállására tekintettel a kijelölt szerv 2013. december 31-éig legalább 60 napos felmondási idővel felmondhatja – az azokban meghatározott feltételektől és az egészségügyi ellátórendszer fejlesztéséről szóló 2006. CXXXII. törvény (a továbbiakban: Eftv.) 2/E. § (1) bekezdésétől eltérően – a szerződéseket és megállapodásokat.
-
-(1a) Ha az (1) bekezdés szerinti szerződések megszűnése miatt szükséges, az egészségügyi államigazgatási szerv az érintett szakellátási kapacitások és ellátási területek másik fekvőbeteg-szakellátást nyújtó szolgáltatóhoz (a továbbiakban: kijelölt szolgáltató) történő átcsoportosításáról, illetve módosításáról rendelkezik azzal, hogy a szerződés megszűnése miatt indult bírósági eljárásra tekintettel nem függeszthető fel az átcsoportosítás, illetve a módosítás tárgyában indult hatósági eljárás.
-
-(1b) Az (1a) bekezdésben meghatározott átcsoportosítás esetén a kijelölt szolgáltatót az egészségügyért felelős miniszter határozza meg.
-
-(2) A 2. mellékletben szereplő egészségügyi intézmények az átvett feladat ellátásához kapcsolódó egészségügyi ellátási szerződések, megállapodások és vagyonkezelési szerződések alapján kötelesek a szakellátási feladatot az Eftv. alapján megállapított szakellátási kapacitásaik erejéig a szerződésben, illetve a megállapodásban foglaltaknak megfelelően ellátni.
-
-5/A. § (1) Az 5. § (1) bekezdés szerinti szerződés megszűnése esetén, ha a korábban gazdasági társaságként működő szolgáltató feladatai a kijelölt szolgáltató által kerülnek ellátásra (e § és az 5/B. § alkalmazásában a továbbiakban: átadás), a munkáltató átadásra kerülő feladatai keretében foglalkoztatott, és e törvény szerint közalkalmazotti jogviszonyban történő továbbfoglalkoztatás céljából átvett munkavállalóinak munkaviszonya az átadás időpontjában megszűnik.
-
-(2) Az (1) bekezdés szerinti esetben az átadó és az átvevő munkáltató legkésőbb az átadást megelőzően harminc nappal korábban köteles tájékoztatni a munkavállalót, a munkáltatónál képviselettel rendelkező szakszervezetet és az üzemi tanácsot (üzemi megbízottat) az átadás időpontjáról, okáról, a munkavállalókat érintő jogi és gazdasági következményeiről.
-
-(3) A (2) bekezdésben meghatározott tájékoztatással egyidejűleg az átadó és az átvevő munkáltató köteles írásban tájékoztatni a munkavállalót arról, hogy az átadást követően a munkavállaló foglalkoztatását az átvevő közalkalmazotti jogviszony keretében biztosítja. A tájékoztatásnak tartalmaznia kell a további foglalkoztatást biztosító kinevezés tartalmi elemeire vonatkozó ajánlatot. Az ajánlatot az 5/B. § rendelkezéseire figyelemmel kell megtenni. A tájékoztatásnak tartalmaznia kell azokat a kötelezettségeket is, amelyeknek a munkavállaló a jogviszony létesítését követően az előmenetele, illetve a jogviszonya fenntartása érdekében köteles eleget tenni.
-
-(4) Ha a (2) bekezdésben meghatározott időpontban az átvevő munkáltató még nem került megalapításra, az átvevő munkáltató számára a (2)–(3) bekezdésben előírt kötelezettség teljesítése az átvevő munkáltató fenntartóját terheli.
-
-(5) A munkavállaló a (3) bekezdésben meghatározott tájékoztatás kézhezvételétől számított tizenöt napon belül az átadó munkáltatónak írásban nyilatkozik, hogy az átvevő munkáltatónál történő további foglalkoztatásához hozzájárul-e. Ha a munkavállaló az előírt határidőn belül nem nyilatkozik, úgy kell tekinteni, mintha nem járulna hozzá a további foglalkoztatásához.
-
-(6) Ha a munkavállaló az átvevő munkáltatónál történő további foglalkoztatásához nem járul hozzá, az átadó munkáltató az átadás napjával köteles írásban értesíteni a munkavállalót a munkaviszony (1) bekezdés szerinti megszűnéséről, valamint köteles a munkavállaló számára a munkaszerződés alapján, illetve a munka törvénykövéről szóló törvény alapján a munkáltató felmondása esetén irányadó juttatásokat megfizetni.
-
-(7) Ha az átvevő munkáltató a közalkalmazottak jogállásáról szóló törvény rendelkezései alapján az érintett munkavállalóval nem létesíthet közalkalmazotti jogviszonyt, a munkaviszony megszűnése tekintetében a (6) bekezdés rendelkezéseit kell alkalmazni. Ebben az esetben – a (3) bekezdés rendelkezésétől eltérően – e körülményről kell az átadó és az átvevő munkáltatónak tájékoztatnia a munkavállalót.
-
-5/B. § (1) Ha a munkavállaló az átvevő munkáltatónál történő további foglalkoztatásához hozzájárul, az átvevő munkáltató köteles a munkavállaló számára a közalkalmazotti jogviszony létesítése érdekében kinevezést adni. A kinevezés során az átvevő munkáltatót köti az 5/A. § (3)–(4) bekezdése alapján adott tájékoztatás, az abban foglaltaktól csak a munkavállaló kifejezett hozzájárulásával lehet eltérni. Az átadó munkáltató az átadás napjával köteles írásban értesíteni a munkavállalót a munkaviszony 5/A. § (1) bekezdés szerinti megszűnéséről.
-
-(2) A munkavállalót a közalkalmazotti jogviszonyra vonatkozó szabályok szerint kell besorolni, azzal, hogy a munkavállaló közfinanszírozott egészségügyi szolgáltatónál, 1992. június 30-át követően munkaviszonyban töltött idejét közalkalmazotti jogviszonyban töltött időnek kell tekinteni.
-
-(3) A közalkalmazotti jogviszony létesítése esetén a kinevezés alapján megállapított illetmény összege nem lehet alacsonyabb mértékű, mint a közalkalmazottak jogállásáról szóló törvény, vagy – az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó munkakörben foglalkoztatott közalkalmazott esetén – az egészségügyi tevékenység végzésének egyes kérdéseiről szóló törvény alapján járó illetmény.
-
-(4) Határozatlan időtartamú munkaviszony esetén – eltérő törvényi rendelkezés hiányában – az átvevő munkáltatónál határozatlan időtartamú közalkalmazotti jogviszonyt kell létesíteni. Teljes munkaidőben történő foglalkoztatás esetén az átvevő munkáltatónál teljes munkaidős jogviszonyt kell létesíteni. Az átvevő munkáltatónál létesítendő közalkalmazotti jogviszony tekintetében próbaidő nem köthető ki, kivéve – az eredetileg megállapított próbaidő mértékének megfelelően – azt az esetet, ha az átvételre kerülő munkavállaló az átvétel időpontjában próbaidejét tölti.
-
-(5) Az átvevő munkáltatóval létesített jogviszonyra a közalkalmazottak jogállásáról szóló törvény rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a munkavállalónak az átadó munkáltatónál eltöltött munkaviszonyát úgy kell tekinteni, mintha azt az átvevő munkáltatónál töltötte volna el. Ha a kinevezéssel létesített közalkalmazotti, illetve kormányzati szolgálati vagy közszolgálati jogviszony megszűnése, illetve megszüntetése esetén a munkavállalót felmentési idő, valamint végkielégítés illeti meg, annak mértékét az átadó és az átvevő munkáltatónál jogviszonyban töltött idő együttes tartamának figyelembevételével kell megállapítani.
-
-5/C. § Az 5. § (1) bekezdésben meghatározott szerződéseknek megszűnése esetén az európai uniós társfinanszírozású projektek tekintetében a fejlesztéssel érintett intézmény jogutóda az 5. § (1b) bekezdés alapján kijelölt szolgáltató. A jogutódlás miatti szerződésmódosítást az átvett intézmény az átadás-átvétel időpontjától számított 30 napon belül kezdeményezi a támogatónál, illetve a közreműködő szervezetnél.
-
-6. § (1) Az egészségügyi szakellátás folyamatos biztosítása érdekében a költségvetési szervként működő egészségügyi szolgáltató alapító okiratának módosítását az alapítói jogokat gyakorló szerv az átvételt követő 45 napon belül készíti el és nyújtja be a kincstár által vezetett törzskönyvi nyilvántartáshoz.
-
-(2) Az átadásra kerülő, költségvetési szervként működő egészségügyi szolgáltató esetében a törzskönyvi nyilvántartásba történő változásbejegyzést követő 5 napon belül a kincstár hivatalból értesíti az egészségügyi államigazgatási szervet, amely 30 napon belül hivatalból módosítja a jogszabály alapján vezetett működési engedélyt tartalmazó nyilvántartást és szükség szerint módosítja a működési engedélyt. Gazdasági társaságként vagy egyéb formában működő egészségügyi szolgáltató esetén az államigazgatási szerv az átvételt követő 30 napon belül hivatalból módosítja a jogszabály alapján vezetett működési engedélyt tartalmazó nyilvántartást és szükség szerint módosítja a működési engedélyt. Az egészségügyi államigazgatási szerv a nyilvántartás módosítását követő 5 napon belül hivatalból értesíti az egészségbiztosítási szervet.
-
-(3) Az egészségbiztosítási szerv az átadásra kerülő egészségügyi szolgáltató finanszírozási szerződését – a fenntartó változására figyelemmel – az egészségügyi államigazgatási szerv értesítését követő hónap utolsó napjáig módosítja.
+6. § (1)–(3)
 
 (4) Az e törvény alapján bejegyzésre kerülő vagyonkezelői jog ingatlan-nyilvántartásba történő bejegyzésére irányuló eljárás díj- és illetékmentes.
 
-(5) Az e törvény alapján a cégbírósághoz benyújtandó változásbejelentési kérelmet e törvény hatálybalépését követő 90 napon belül kell a cégbíróságnál előterjeszteni.
+(5)–(7)
 
-(6) A (2) bekezdés szerinti változást illeték- és közzétételi költségtérítés megfizetése nélkül lehet bejelenteni a cégbíróságon.
+7. §
 
-(7) Az átvett intézménnyel mint adóssal, kötelezettel szemben elrendelt bírósági és közigazgatási végrehajtást a végrehajtást foganatosító bíróság, közigazgatási végrehajtás esetében a végrehajtást megindító hatóság, a magyar állam mint jogutód képviseletében eljáró kijelölt szerv kérelmére – ha jogutódlásról korábban még nem döntöttek, a jogutódlás megállapításával együtt – egy alkalommal három hónapra felfüggeszti.
-
-7. § Az európai uniós társfinanszírozású projektek tekintetében a kedvezményezett önkormányzat jogutóda a fejlesztéssel érintett átvett intézmény. A jogutódlás, valamint a fenntartóváltozás miatti szerződésmódosítást az átvett intézmény az átadás-átvétel időpontjától számított 30 napon belül kezdeményezi a támogatónál, illetve a közreműködő szervezetnél.
-
-7/A. § Ha az e törvény alapján állami tulajdonba került, gazdasági társaságként működő fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató megszűnik, az európai uniós társfinanszírozású projektek tekintetében a kedvezményezett jogutódja a fenntartó által kijelölt egészségügyi szolgáltató. A támogatási szerződésnek a jogutódlás, valamint a fenntartóváltozás miatt szükséges módosítását az átvett egészségügyi intézmény az átadás-átvétel időpontjától számított 30 napon belül kezdeményezi a támogatónál, illetve a közreműködő szervezetnél.
+7/A. §
 
 #### 3. A települési önkormányzatok adósságának átvétele
 
 8. §
 
-9. § (1) Az 1. mellékletben meghatározott átvett egészségügyi intézmény által ellátott és az átvett feladathoz kapcsolódó, önkormányzati kötelezettségvállalásból eredő szállítói tartozások fedezetére a települési önkormányzat 2012. évi költségvetési rendeletében elkülönített forrást a kijelölt szerv számlájára a jegyzőkönyv aláírását követő 30. napig köteles átutalni a települési önkormányzat.
-
-(2) Az átvett egészségügyi intézményhez és az átvett feladathoz kapcsolódó, a települési önkormányzati kötelezettségvállalásból eredő 2012. éven átnyúló kötelezettségek forrását a kijelölt szerv költségvetésében kell biztosítani.
-
-(3) A települési önkormányzat kötelezettségvállalásából eredő jogvitában bíróság vagy hatóság által megítélt kártérítés, perköltség, igazgatási költség, egyéb fizetési kötelezettség fedezetét a kijelölt szerv költségvetésében kell biztosítani.
+9. §
 
 #### 4. Az átvett intézmények foglalkoztatottai és a települési önkormányzati hivataloknál foglalkoztatott köztisztviselők
 
-10. § (1) Az átvételre kerülő egészségügyi intézmény működtetését, irányítását ellátó, a települési önkormányzatnál foglalkoztatott köztisztviselők és munkavállalók (a továbbiakban együtt: foglalkoztatottak) a kijelölt szerv állományába kerülnek át, kivéve, ha a kijelölt szerv vezetője az érintett személy foglalkoztatásához nem járul hozzá. Az átvételről e törvény hatálybalépését követő 90. napig köteles nyilatkozni a kijelölt szerv vezetője. Az át nem vett foglalkoztatottak álláshelyei a kijelölt szerv állományába kerülnek át.
-
-(2) A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) 72. §-ától, illetve 229. § (3) bekezdésétől eltérően nem alakul át a köztisztviselő jogviszonya, ha a kijelölt szerv vezetője az (1) bekezdés alapján az átadással érintett köztisztviselő foglalkoztatásához nem járul hozzá. Ebben az esetben a közszolgálati jogviszony vagy a munkaviszony e törvény erejénél fogva az átadás időpontjában, vagy – ha ez az átadás időpontjánál későbbi – a kijelölt szerv vezetője nyilatkozatának kiadmányozása napját követő napon megszűnik. A jogviszony megszűnéséről a foglalkoztatottat az átadás vagy – ha ez az átadás időpontjánál későbbi – a nyilatkozat kiadmányozása napjával írásban értesíteni kell. A jogviszony megszűnésével kapcsolatos eljárásokra és a foglalkoztatottat megillető járandóságokra a Kttv.-nek az államigazgatási szerv jogutód nélküli megszűnése esetére irányadó rendelkezéseit kell alkalmazni azzal, hogy a jogviszony megszűnésével összefüggésben a felügyeleti szerv által ellátandó munkáltatói feladatokat a kijelölt szerv látja el.
-
-(3) A tulajdonjog és fenntartói jog átszállása nem érinti az egészségügyi intézmény által alkalmazottak közalkalmazotti jogviszonyát, illetve munkaviszonyát.
-
-(4) A tulajdonjog és fenntartói jog átszállása nem érinti az egészségügyi szolgáltatónál az egészségügyi tevékenység végzésében egyéb jogviszony keretében közreműködő egészségügyi dolgozó munkavégzésre irányuló jogviszonyát.
+10. §
 
 11. § (1) Az egészségügyi szolgáltató főigazgatójának és gazdasági igazgatójának e törvény hatálybalépésekor fennálló foglalkoztatásra irányuló jogviszonya, vagy az intézmény vezetésére vagy a gazdasági igazgatói feladatok ellátására kapott vezetői megbízása a főigazgatói, gazdasági igazgatói munkakör, illetve a vezetői megbízás (4) bekezdés alapján történő betöltéséig fennmarad.
 
@@ -173,7 +109,7 @@ rendeletben határozza meg.
 
 15. § E törvény 35. §-a az Alaptörvény 38. cikk (1) bekezdése alapján sarkalatosnak minősül.
 
-15/A. § Az egészségügy többletforráshoz juttatása érdekében szükséges törvénymódosításokról, valamint egyéb törvények módosításáról szóló 2012. évi CLIV. törvény (a továbbiakban: Módtv.) 28. §-ával megállapított 13. § (3a) bekezdését az egészségügyi szolgáltató gazdasági társaságok állami tulajdonba vétele tárgyában a Módtv. 28. §-ának hatálybalépése előtt meghozott kormánydöntések végrehajtása tekintetében is alkalmazni kell.
+15/A. §
 
 15/B. § A 13. § (1) bekezdése alapján az államot megillető tulajdonosi jogok és kötelezettségek összességének gyakorlására kijelölt ÁEEK tulajdonosi joggyakorlásának ingatlan-nyilvántartási bejegyzésére
 
@@ -184,7 +120,7 @@ rendeletben határozza meg.
 
 alapján kerül sor.
 
-15/C. § Az egyes egészségügyi tárgyú törvények módosításáról szóló 2012. évi CCXII. törvénnyel megállapított 5. § (1a) bekezdését az annak hatálybalépésekor folyamatban lévő ügyekre is alkalmazni kell.
+15/C. §
 
 #### 6. A helyi önkormányzatok címzett és céltámogatási rendszeréről szóló 1992. évi LXXXIX. törvény módosítása
 
@@ -283,116 +219,7 @@ alapján kerül sor.
 
 56. §
 
-### 1. melléklet a 2012. évi XXXVIII. törvényhez
-
-#### 2012. május 1-jével állami tulajdonba kerülő egészségügyi intézmények
-
-- 1. Bajai Szent Rókus Kórház
-- 2. Kalocsa Városi Önkormányzat Kórház-Rendelőintézet
-- 3. Kiskunfélegyháza Városi Kórház-Rendelőintézet Gyógyfürdő és Rehabilitációs Központ
-- 4. Kiskunhalas, Semmelweis Halasi Kórház Nonprofit Kft.
-- 5. Mohács Város Kórház és Rendelőintézet
-- 6. Siklósi Kórház Humán-Egészségügyi Szolgáltató Közhasznú Nonprofit Kft.
-- 7. SzigetvárMed Nonprofit Kft.
-- 8. Komlói Egészségcentrum Nonprofit Kft.
-- 9. Orosháza, Városi Önkormányzat Kórháza
-- 10. Békéscsaba, Réthy Pál Városi Kórház Rendelőintézet
-- 11. Edelény, Koch Róbert Kórház és Rendelőintézet
-- 12. Sátoraljaújhely Város Önkormányzat Erzsébet Kórháza
-- 13. MISEK Miskolci Semmelweis Ignác Egészségügyi Központ és Egyetemi Oktató Kórház Nonprofit Kft.
-- 14. Hódmezővásárhely, Erzsébet Kórház – Rendelőintézet
-- 15. Mór, Városi Kórház Rendelőintézet
-- 16. Szent Pantaleon Kórház-Rendelőintézet Dunaújváros
-- 17. Csorna, Margit Kórház
-- 18. Mosonmagyaróvár, Karolina Kórház – Rendelőintézet
-- 19. Sopron Megyei Jogú Város Erzsébet Oktató Kórháza
-- 20. Berettyóújfalu, Gróf Tisza István Kórház
-- 21. Hatvan, Albert Schweitzer Kórház-Rendelőintézet Nonprofit Közhasznú Kft.
-- 22. Karcag, Kátai Gábor Kórház
-- 23. Mezőtúr Városi Kórház – Rendelőintézet Egészségügyi Szolgáltató Kiemelten Közhasznú Nonprofit Kft.
-- 24. Jászberény, Szent Erzsébet Kórház Egészségügyi Szolgáltató Nonprofit Közhasznú Kft.
-- 25. Kisbér, Batthyány Kázmér Szakkórház és Rendelőintézet
-- 26. Komárom, Selye János Kórház
-- 27. Tata, Árpád-házi Szent Erzsébet Szakkórház és Rendelőintézet
-- 28. Balassagyarmat, Dr. Kenessey Albert Kórház-Rendelőintézet
-- 29. Margit Kórház Pásztó
-- 30. Vác, Jávorszky Ödön Városi Kórház
-- 31. Cegléd, Toldy Ferenc Kórház Nonprofit Közhasznú Kft.
-- 32. Marcali Városi Önkormányzat Kórház-Rendelőintézet
-- 33. Siófok Város Kórház-Rendelőintézete
-- 34. Kisvárda, Felső-Szabolcsi Kórház
-- 35. Bonyhád, Városi Kórház–Rendelőintézet
-- 36. Dombóvári Szent Lukács Egészségügyi Nonprofit Kft.
-- 37. Celldömölk, Kemenesaljai Egyesített Kórház
-- 38. Körmendi Egészségügyi Szolgáltató Nonprofit Kft.
-- 39. Körmendi Vagyongazdálkodási és Ingatlanhasznosítási Korlátolt Felelősségű Társaság
-- 40. Ajka, Magyar Imre Kórház
-- 41. Pápa, Gróf Esterházy Kórház és Szakambulancia
-- 42. Tapolcai Kórház Egészségügyi Nonprofit Kft.
-- 43. Keszthely, Városi Kórház
-- 44. Nagykanizsa, Kanizsai Dorottya Kórház
-- 45. Hévízgyógyfürdő és Szent András Reumakórház Nonprofit Kft.
-- 46. Szarvasi Szakorvosi Egészségügyi Szolgáltató Kft.
-- 47. Kapuvár, Lumniczer Sándor Kórház-Rendelőintézet
-- 48. Kunhegyes, Jász-Nagykun-Szolnok Megyei Egészségügyi Szolgáltató Kiemelten Közhasznú Nonprofit Kft.
-- 49. Oroszlányi Szakorvosi- és Ápolási Kft.
-- 50. Dorogi Szent Borbála Szakkórház és Szakorvosi Rendelő Kht.
-- 51. Nagykőrös Város Önkormányzat Rehabilitációs Szakkórháza és Rendelőintézete
-- 52. Veresegyház, Misszió Egészségügyi Központ Nonprofit Kft.
-- 53. Sárvár Önkormányzati Kórház
-- 54. Zirc Városi Erzsébet Kórház Rendelőintézet
-
-### 2. melléklet a 2012. évi XXXVIII. törvényhez
-
-A) Azon egészségügyi intézmények, amelyek által az átvett feladat ellátásához használt, önkormányzati tulajdonban lévő vagyon 2012. május 1-jén állami tulajdonba kerül
-
-1. DE OEC Kazincbarcikai Kórház Nonprofit Kft., Kazincbarcika
-
-2. Vadaskert Gyermekpszichiátriai Kórház és Szakambulancia, Budapest
-
-3. Emberbarát Alapítvány Alkohol-Drogrehabilitációs Intézete, Budapest
-
-4. Sirály Egészségügyi és Szociális Szolgáltató Kht, Csákvár
-
-5. Hospit Kkt Ápolási Intézet, Hajdúnánás
-
-6. Bugát Pál Kórház Eü.Nonprofit Kft., Gyöngyös
-
-7. NagyatádMed Egészségügyi Szolgáltató Nonprofit Kft, Nagyatád
-
-8. Palotahosp Kft, Várpalota
-
-9. Almási Balogh Pál Kórház Egészségügyi és Szolgáltató Nonprofit Kft., Ózd
-
-B) 2012. január 1-jén állami tulajdonba került egészségügyi intézményekhez tartozó azon települési önkormányzati tulajdonban lévő vagyon, amely 2012. május 1-jén kerül állami tulajdonba
-
-1. Egészségügyi Holding Nonprofit Zrt. Mátészalka Területi Kórház, Nyíregyháza
-
-2. Önkormányzati Egészségügyi Holding Zrt. Kenézy Kórház Rendelőintézet Egészségügyi Nonprofit Kft., Debrecen
-
-3. Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém
-
-4. Dr. Bugyi István Kórház, Szentes
-
-5. Békés Megyei Pándy Kálmán Kórház, Szeghalom
-
-6. Bajcsy-Zsilinszky Kórház és Rendelőintézet, Budapest
-
-7. Szent János Kórház és Észak-budai Egyesített Kórházak, Budapest
-
-### 3. melléklet a 2012. évi XXXVIII. törvényhez
-
-Teljességi nyilatkozat
-
-Alulírott .........................., mint a ......................... Önkormányzat képviseletében eljáró vezető (a továbbiakban: átadó) kijelentem, hogy a mai napon – ............................. – az átvevő részére a jegyzőkönyvben átadottakon túlmenően nem áll rendelkezésemre a települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvényben meghatározott intézményi kör (átvett intézmények) működése körébe eső adat, információ, tény, okirat, dokumentum, valamint kijelentem, hogy az általam tett nyilatkozatok és az átadott, ismertetett adatok, információk, tények, okiratok, dokumentumok valóságtartalmáért, teljeskörűségéért, és az érdemi vizsgálatra alkalmas voltáért teljes felelősséget vállalok.
-
-Jelen nyilatkozat elválaszthatatlan részét képezi az átadás-átvételi jegyzőkönyvnek.
-
-...................................., 20 ...............
-
-...............................
-
-átadó
+### 1–3. melléklet a 2012. évi XXXVIII. törvényhez
 
 ### 4. melléklet a 2012. évi XXXVIII. törvényhez
 

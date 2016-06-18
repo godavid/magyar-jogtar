@@ -30,7 +30,7 @@ rendelkezéseit kell alkalmazni.
 
 (2) A költségvetési évre jóváhagyott források igénybe nem vett része lekötött maradványként a következő költségvetési években is igénybe vehető.
 
-(3) A Kormány – a miniszter és az államháztartásért felelős miniszter útján – évente, az Országgyűlés őszi ülésszakának első hónapjában tájékoztatja az Országgyűlés feladatkörrel rendelkező bizottságait a gyorsforgalmi úthálózat építésének előrehaladásáról, valamint a költségvetési források és egyéb támogatási eszközök felhasználásáról.
+(3)
 
 (4)
 
