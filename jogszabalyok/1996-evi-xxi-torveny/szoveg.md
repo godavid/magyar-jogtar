@@ -18,7 +18,7 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 
 2. § A területfejlesztés és területrendezés célja:
 
-- a) az ország valamennyi térségében a szociális piacgazdaság kiépítésének elősegítése, a fenntartható fejlődés feltételeinek megteremtése, az innováció térbeli terjedésének elősegítése, a társadalmi, gazdasági és környezeti céloknak megfelelő térbeli szerkezet kialakítása;
+- a) az ország valamennyi térségében a területi kohézió erősítése, a társadalmi és gazdasági növekedés elősegítése, a fenntartható fejlődés feltételeinek megteremtése, az innováció térbeli terjedésének elősegítése, a társadalmi, gazdasági és környezeti céloknak megfelelő térbeli szerkezet kialakítása;
 - b) a főváros és a vidék, a városok és a községek, illetve a fejlett és az elmaradott térségek és települések közötti – az életkörülményekben, a gazdasági, a kulturális és az infrastrukturális feltételekben megnyilvánuló – jelentős különbségek mérséklése és a további válságterületek kialakulásának megakadályozása, társadalmi esélyegyenlőség biztosítása érdekében;
 - c) az ország térszerkezete, településrendszere harmonikus fejlődésének elősegítése;
 - d) a nemzeti és térségi identitástudat megtartása és erősítése.
@@ -96,13 +96,12 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 6. § Az Országgyűlés
 
 - a) határozattal elfogadja az országos fejlesztési és területfejlesztési koncepciót, ennek keretében megállapítja a területfejlesztési politikát meghatározó irányelveket, célokat, hosszú távú prioritásokat, a kiemelt térségek körét, valamint a területfejlesztési támogatások és a decentralizáció elveit;
-- b) beszámoltatja a Kormányt a területfejlesztési politika végrehajtásáról;
+- b)
 - c) elfogadja a területfejlesztés eszköz- és intézményrendszerének átfogó szabályait;
 - d) törvénnyel elfogadja az ország, a Budapesti Agglomeráció, a Balaton Kiemelt Üdülőkörzet területrendezési tervét;
 - e)
 - f) az éves költségvetési törvény elfogadása során dönt a területfejlesztést és területrendezést szolgáló pénzeszközökről és ezzel egyidejűleg egyes pénzügyi kedvezményekről;
-- g) évente beszámoltatja a Kormányt a területfejlesztést szolgáló pénzeszközök felhasználásáról;
-- h) beszámoltatja a Kormányt a nemzetközi és határmenti területfejlesztési és területrendezési tevékenységéről;
+- g)–h)
 - i) meghatározza a területfejlesztéssel kapcsolatos önkormányzati feladatokat és ezek forrásait.
 
 ### A Kormány feladatai
@@ -116,46 +115,23 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
   - ad) az éves költségvetési törvényben a területfejlesztést és a területrendezést szolgáló pénzügyi eszközöket és az egyes pénzügyi kedvezményeket;
 - b) összehangolja a különböző területfejlesztési célokat szolgáló állami pénzeszközöket;
 - c) pénzügyi támogatást nyújt az országos területfejlesztési koncepcióban meghatározott területfejlesztési programok megvalósításához;
-- d) dönt – az e törvény 20. § (2) bekezdés a) pontjában és (4) bekezdés a) pontjában meghatározott – a területfejlesztést szolgáló központi és térségi pénzeszközök arányáról.
+- d)
 - e) meghatározza a területfejlesztést szolgáló pénzügyi eszközök, az igénybe vehető kedvezmények felhasználási szabályait;
 - f) meghatározza a régiók területi lehatárolását,
 - g) elfogadja a kiemelt térségekre vonatkozó területfejlesztési koncepciókat és programokat;
 - h) ösztönzi a fejlesztési programok készítését és a térségi összefogással megvalósuló fejlesztéseket;
 - i) elősegíti és támogatja az ország határmenti térségeinek a szomszédos országokkal való együttműködését, az európai regionális együttműködést;
-- j) négyévente beszámol az Országgyűlésnek az ország területi folyamatainak alakulásáról és a területfejlesztési politika, valamint a területrendezési tervek érvényesítésének hatásairól;
+- j) négyévente beszámol az Országgyűlésnek az ország területi folyamatainak alakulásáról és a területfejlesztési politika, a területrendezési tervek érvényesítésének hatásairól, a területfejlesztést szolgáló pénzeszközök felhasználásáról, valamint a nemzetközi és határmenti területfejlesztési és területrendezési tevékenységéről;
 - k) gondoskodik az országos területi információs rendszer működtetéséről és ennek keretében a tervek nyilvántartásáról;
-- l) rendeletben meghatározza a miniszterek területfejlesztéssel és területrendezéssel összefüggő feladatait és a miniszterek közötti folyamatos koordináció szabályait;
+- l) meghatározza a területfejlesztést és a területrendezést segítő pénzügyi eszközök és a forrásfelhasználás szabályait;
 - m) jelöli az Európai Unió Régiók Bizottságába Magyarország képviselőit;
 - n) meghatározza a kedvezményezett járások és települések besorolását, valamint a besorolás feltételrendszerét;
 - o) az európai uniós tervezési ciklusoknak megfelelően felülvizsgálja a kedvezményezett járások és települések körét.
-- p) dönt a regionális támogatási térkép koncepciójáról.
+- p) dönt a regionális támogatási térkép koncepciójáról;
+- q) meghatározza a térségi fejlesztési tanács létrehozásával, működésével, sajátos gazdálkodásával kapcsolatos feladatokat és szabályokat, a térségi fejlesztési tanács szervezeti és működési rendjének általános szabályait;
+- r) meghatározza a megyei önkormányzatok és a térségi fejlesztési tanácsok területfejlesztési tevékenységében végzett beszámolási kötelezettségét, valamint a területfejlesztés érdekegyeztetési és konzultációs fórumainak működését.
 
-### Országos Területfejlesztési Érdekegyeztető Fórum
-
-8. § (1) Az Országos Területfejlesztési Érdekegyeztető Fórum (a továbbiakban: OTÉF) a Kormány, valamint a megyei önkormányzatok, a fővárosi önkormányzat, a megyei jogú városok és a fővárosi kerületi önkormányzatok közötti konzultációk és tárgyalások érdekegyeztető fóruma.
-
-(2) Az OTÉF feladata a kormányzat, valamint a megyei önkormányzatok és a fővárosi önkormányzat területfejlesztési, területrendezési és vidékfejlesztési érdekeinek, törekvéseinek feltárása, egyeztetése, megállapodások létrehozása, információcsere, javaslatok, alternatívák vizsgálata, továbbá a megyei jogú városok és fővárosi kerületi önkormányzatok fejlesztési elképzeléseinek és célkitűzéseinek összehangolása.
-
-(3) Az OTÉF véleményező, javaslattevő feladatkörben közreműködik:
-
-- a) a területfejlesztési politika kialakításában,
-- b) a területfejlesztési, a területrendezési, a vidékfejlesztési, az ágazati és a megyei, valamint a fővárosi fejlesztési elképzelések és célkitűzések összehangolásában,
-- c) a területfejlesztési, a területrendezési és vidékfejlesztési célú ágazati eszközök összehangolásában,
-- d) az ágazati tervek véleményezésében,
-- e) az országos, az országos jelentőségű, valamint az országhatárokon átnyúló infrastruktúra-tervezés (létesítmények, hálózatok elhelyezése) összehangolásában.
-
-(4) Az OTÉF elnöke a területfejlesztés stratégiai tervezéséért felelős miniszter.
-
-(5) Az OTÉF tagjai:
-
-- a) a területfejlesztésért felelős miniszter (a továbbiakban: miniszter), a területrendezésért felelős miniszter, a vidékfejlesztésért felelős miniszter, a helyi önkormányzatokért felelős miniszter, az energiapolitikáért felelős miniszter, a közlekedésért felelős miniszter, a településfejlesztésért felelős miniszter, a szociálpolitikáért és a társadalmi felzárkózásért felelős miniszter,
-- b) Megyei Önkormányzatok Országos Szövetségének elnöke és négy delegáltja, a Megyei Jogú Városok Szövetségének elnöke és négy delegáltja, a Budapesti Önkormányzatok Szövetségének elnöke és négy delegáltja, a főpolgármester, valamint a Balaton Fejlesztési Tanács elnöke.
-
-(6) Az OTÉF ülésén egy szavazattal rendelkeznek a kormányzati és egy szavazattal rendelkeznek az önkormányzati tagok. Az OTÉF konszenzussal hozza meg döntéseit.
-
-(7) Az OTÉF titkárságának feladatait a területfejlesztés stratégiai tervezéséért felelős miniszter hivatali szervezete útján látja el.
-
-(8) Az OTÉF ügyrendjét maga határozza meg.
+8. §
 
 ### A miniszter és más miniszterek feladatai
 
@@ -170,11 +146,7 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 - h)–i)
 - j)
 
-(2) A miniszterek feladataik ellátása során érvényesítik az e törvényen rögzített célokat, részt vesznek a területfejlesztéssel összefüggő és szakterületüket érintő kormányzati feladatok ellátásában. Így különösen:
-
-- a) részt vesznek a területfejlesztési koncepciók és programok feladatkörüket érintő munkarészeinek kidolgozásában és érvényesítésében;
-- b) évente tájékoztatják a Kormányt a feladatkörükben végzett fejlesztések főbb mutatóiról;
-- c) részt vesznek a területrendezési tervek készítésében, gondoskodnak azok – feladat- és hatáskörüket érintő – munkarészeinek kidolgozásáról és érvényesítéséről.
+(2) A miniszterek feladataik ellátása során érvényesítik az e törvényben rögzített célokat, részt vesznek a területfejlesztéssel és a területrendezéssel összefüggő és szakterületüket érintő kormányzati feladatok ellátásában, különösen a területfejlesztési koncepciók és programok, területrendezési tervek feladatkörüket érintő munkarészeinek kidolgozásában, összehangolásában és érvényesítésében.
 
 (3)
 
@@ -190,17 +162,18 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 9/B. § A területfejlesztés stratégiai tervezéséért felelős miniszter
 
 - a) koncepciókat és javaslatokat készít az országos területfejlesztési politika megalapozására, annak célkitűzéseit érvényesíti tervezési, szervező és információs feladataiban;
-- b) kidolgozza az országos fejlesztési és területfejlesztési koncepciót, összehangolja az országos és térségi területfejlesztési koncepciókat és programokat;
+- b) kidolgozza az országos fejlesztési és területfejlesztési koncepciót, valamint a nemzetközi együttműködési kötelezettségből adódó, az országhatáron átnyúló és több országot érintő koncepciókat és programokat, továbbá összehangolja az országos és térségi területfejlesztési koncepciókat és programokat;
 - c) elősegíti a területi tervek, valamint a területi tervek és az ágazati tervek összhangját;
 - d) a Kormány részére javaslatot tesz a régiók területi lehatárolására, az érintett megyei önkormányzatok és az országos önkormányzati szövetségek véleményének figyelembevételével, a miniszterrel egyetértésben;
 - e)
-- f) gondoskodik a területfejlesztéssel kapcsolatos információs rendszerről, az adatszolgáltatás rendjéről és a területfejlesztés szakmai követelményeiről;
+- f) gondoskodik a területfejlesztéssel kapcsolatos információs rendszerről, az adatszolgáltatás rendjéről;
 - g) kezeli a területfejlesztési célok megvalósítását közvetlenül szolgáló fejezeti kezelésű előirányzatot és koordinálja a területfejlesztési célok megvalósítását közvetetten szolgáló fejezeti kezelésű előirányzatok felhasználását;
 - h) a megyei önkormányzatok, a fővárosi önkormányzat a megyei jogú városok önkormányzatának egyetértésével, valamint a fővárosi kerületi önkormányzatok többségének egyetértésével kidolgozza a területi szempontú fejlesztéseket tartalmazó operatív programokat, gondoskodik megvalósításukról, érvényesülésük érdekében nyomon követi és értékeli azok végrehajtását;
 - i) javaslatot tesz a kedvezményezett járások besorolásának feltételrendszerére és besorolására, a településfejlesztésért felelős miniszter közreműködésével;
 - j) összehangolja a közigazgatási szervek területfejlesztéssel kapcsolatos tevékenységét, szakmai irányítást gyakorol a területfejlesztés intézményrendszere felett;
 - k) javaslatot tesz a szabad vállalkozási zónák kijelölésére, működésük szabályozására;
 - l) kidolgozza a regionális támogatási térkép koncepcióját.
+- m) javaslatot tesz a térségi fejlesztési tanács létrehozásával, működésével, sajátos gazdálkodásával kapcsolatos feladatokra és szabályokra, a térségi fejlesztési tanács szervezeti és működési rendjének általános szabályaira, valamint a területfejlesztés érdekegyeztetési és konzultációs fórumainak működésére.
 
 9/C. § A településfejlesztésért felelős miniszter feladatkörében javaslatot tesz a kedvezményezett települések besorolásának feltételrendszerére és besorolására a területfejlesztés stratégiai tervezéséért felelős miniszter közreműködésével.
 
@@ -275,7 +248,7 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 - a) dönt a hatáskörébe utalt vidékfejlesztési források felhasználásáról,
 - b) összehangolja a vidékfejlesztési stratégiákat és akciókat a megyei, térségi, határ menti és határon átnyúló fejlesztési és területfejlesztési koncepciókkal és programokkal, valamint a megyét érintő területrendezési tervekkel,
 - c) egyetértési jogkört gyakorol a vidékfejlesztési stratégiák, akciók jóváhagyását megelőzően,
-- d) a vidékfejlesztési források felhasználásával kapcsolatban közreműködői szervezeti feladatokat lát el a regionális fejlesztési ügynökség útján,
+- d) a vidékfejlesztési források felhasználásával kapcsolatban közreműködői szervezeti feladatokat lát el,
 - e) elláthatja a helyi akciócsoportok, a közösségvezérelt helyi fejlesztésben érintett szervezetek munkaszervezeti feladatait,
 - f) a helyi akciócsoportok és közösségvezérelt helyi fejlesztésben érintett szervezetek tevékenységében való részvétellel közreműködik azok tevékenységében,
 - g) összehangolja a helyi akciócsoportok tevékenységét a fejlesztéspolitikához és a területfejlesztéshez kapcsolódóan,
@@ -298,7 +271,7 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 
 (4) A megye területén működő bírósági nyilvántartásba vett területfejlesztési, környezetvédelmi, természetvédelmi civil szervezetek, valamint a nők és férfiak esélyegyenlőségéért küzdő szervezetek a területfejlesztést érintő kérdések megtárgyalására egyeztető fórumot hozhatnak létre, egyidejűleg jelezve a megyei önkormányzatnak együttműködési szándékukat. Az egyeztető fórum véleményét az adott napirend tárgyalásakor ismertetni kell.
 
-(5) A megyei önkormányzat és a térségi fejlesztési tanács az e törvényben meghatározott területfejlesztési feladataival összefüggésben végzett munkájáról évente tájékoztatja a területfejlesztés stratégiai tervezéséért felelős minisztert, valamint a területrendezési feladataival összefüggésben a területrendezésért felelős minisztert.
+(5)
 
 (6)–(8)
 
@@ -331,7 +304,7 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 
 15. § (1) A régió határokon, illetve a megyehatárokon túlterjedő, továbbá egyes kiemelt területfejlesztési feladatai ellátására a megyei közgyűlések a szervezeti és működési szabályzat elfogadásával térségi fejlesztési tanácsot hozhatnak létre. A térségi fejlesztési tanács jogi személy, amelyet megalakulását követően a kincstár vesz nyilvántartásba.
 
-(1a) A térségi fejlesztési tanács működésével kapcsolatos gazdálkodására a költségvetési szervek gazdálkodására vonatkozó szabályokat kell alkalmazni az e törvényben meghatározott sajátosságok figyelembevételével. A feladat ellátásával kapcsolatos beszámolási kötelezettséget – figyelemmel a Kormánynak az Országgyűlés számára a 6. § g) pontjában előírt beszámolási kötelezettségére – a térségi fejlesztési tanács a miniszternek köteles teljesíteni a miniszter rendeletében meghatározott módon.
+(1a) A térségi fejlesztési tanács működésével kapcsolatos gazdálkodására a költségvetési szervek gazdálkodására vonatkozó szabályokat kell alkalmazni.
 
 (2) A területfejlesztési koncepció és program kidolgozását, a területrendezési terv készítésében való közreműködést és más közös területfejlesztési feladatokat a Balaton kiemelt üdülőkörzete térségében a Balaton Fejlesztési Tanács látja el. Ennek keretében:
 
@@ -340,19 +313,7 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 - c) előzetesen véleményezi az országos, valamint a kiemelt térséget érintő ágazati fejlesztési koncepciókat és programokat,
 - d) figyelemmel kíséri az operatív programok kiemelt térségben jelentkező feladatainak végrehajtását, külön döntés alapján közreműködik azok végrehajtásában.
 
-(3) A térségi fejlesztési tanács létrehozásakor az (1) bekezdésben meghatározott feladatok tekintetében az érintett megyei közgyűlések szervezeti és működési szabályzatban rögzítik a 11. § (1) bekezdésében felsorolt feladatok figyelembevételével, hogy mely feladatokat látnak el a térségi fejlesztési tanács keretében.
-
-(4) A térségi fejlesztési tanács térsége tekintetében javaslatot tesz a megyei fejlesztési koncepcióra és programra.
-
-(5) A (3) bekezdésben meghatározott szervezeti és működési szabályzatban
-
-- a) a működési költségek fedezetéről,
-- b) a térségi fejlesztési tanács elnevezéséről, székhelyéről, részletes tevékenységéről,
-- c) a munkaszervezeti feladatok ellátásáról, illetve elkülönült munkaszervezet létrehozásáról is rendelkezni kell.
-
-(6) A törvény alapján kötelezően létrehozott térségi fejlesztési tanács működéséhez szükséges pénzügyi fedezet biztosításával kapcsolatosan a 16. § (4) bekezdésében foglaltak az irányadóak azzal a kiegészítéssel, hogy az egyes szavazati joggal rendelkező nem kormányzati szervezeteket terhelő befizetési kötelezettség csak az adott szervezetet képviselő tag egyetértése esetén haladhatja meg a térségi fejlesztési tanács által meghatározott összes befizetési kötelezettség összegének 15 százalékát.
-
-(7) A térségi fejlesztési tanács megállapodhat a megyei közgyűlésekkel és más, a térségi fejlesztési programokban közreműködőkkel a programok és fejlesztések finanszírozásáról.
+(3)–(7)
 
 (8) A térségi fejlesztési tanács tagjai
 
@@ -363,94 +324,79 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 
 (9)
 
-(10) A térségi fejlesztési tanács felkérhet a tanács munkájában való részvételre egyéb szervezeteket, személyeket is, de ezek létszáma a (8) bekezdés szerinti létszám egyharmadát nem haladhatja meg.
+(10) A térségi fejlesztési tanács felkérhet a tanács munkájában való részvételre egyéb szervezeteket, személyeket is.
 
 (11) A térségi fejlesztési tanács ülésein állandó meghívottként részt vesz a területi gazdasági kamarák, kamaránként egy-egy képviselője, a kormányhivatal vezetője, az állami főépítész, valamint mindazon gazdasági, civil és egyéb szervezetek képviselői, amelyeket a térségi fejlesztési tanács döntése közvetlenül érint vagy akit az ülésen való részvételre felkérnek.
 
 (12)
 
-(13) A térségi fejlesztési tanács a tagjai sorából elnököt és alelnököt (alelnököket) választ. Munkaszervezetét, működési rendjét – a 16. §-ban foglaltak figyelembevételével – maga alakítja ki.
+(13)
 
-(13a) A térségi fejlesztési tanács (8) bekezdés a) és b) pontjában meghatározott tagja a térségi fejlesztési tanácsban végzett tevékenysége után díjazásra nem jogosult.
+(13a)
 
 (14) A Balaton Fejlesztési Tanács dönt a hatáskörébe utalt pénzeszközök felhasználásáról, és megállapodást köthet az érintett tárcákkal az egyes fejlesztési programok finanszírozásáról.
 
-(15) A területfejlesztési koncepció és program kidolgozását, és más közös területfejlesztési feladatokat a Tokaji Borvidék térségében a Tokaji Borvidék Fejlesztési Tanács látja el. A Tokaji Borvidék Fejlesztési Tanács ennek keretében:
+(15) A területfejlesztési koncepció és program kidolgozását, és más közös területfejlesztési feladatokat a Tokaj Borvidék térségében a Tokaj Borvidék Fejlesztési Tanács látja el. A Tokaj Borvidék Fejlesztési Tanács ennek keretében:
 
 - a) vizsgálja és értékeli a kiemelt térség társadalmi és gazdasági helyzetét, környezeti állapotát, adottságait, a vizsgálatok során felhasznált információkat és a vizsgálatok eredményeit a területi információs rendszer rendelkezésére bocsátja,
 - b) az országos fejlesztési és területfejlesztési koncepcióval összhangban kidolgozza és a területfejlesztés stratégiai tervezéséért felelős miniszter útján a Kormánynak elfogadásra benyújtja a kiemelt térség területfejlesztési koncepcióját,
 - c) előzetesen véleményezi az országos, valamint a kiemelt térséget érintő ágazati fejlesztési koncepciókat és programokat, és
 - d) figyelemmel kíséri az operatív programok kiemelt térségben jelentkező feladatainak végrehajtását, külön döntés alapján közreműködik azok végrehajtásában.
 
-(16) A Tokaji Borvidék Fejlesztési Tanács tagjai a tanács illetékességi területén működő megyei közgyűlés elnöke, az érintett megyei közgyűlés egy képviselője, Tokaji Borvidék Hegyközségi Tanácsa elnöke, Tokaj Kereskedőház Felügyelő Bizottságának elnöke továbbá a területfejlesztés stratégiai tervezéséért felelős miniszter és a kormányzati tevékenység összehangolásáért felelős miniszter egy-egy képviselője.
+(16) A Tokaj Borvidék Fejlesztési Tanács tagjai a tanács illetékességi területén működő megyei közgyűlés elnöke, az érintett megyei közgyűlés egy képviselője, Tokaj Borvidék Hegyközségi Tanácsa elnöke, Tokaj Kereskedőház Felügyelő Bizottságának elnöke továbbá a területfejlesztés stratégiai tervezéséért felelős miniszter és a kormányzati tevékenység összehangolásáért felelős miniszter egy-egy képviselője.
 
-15/A. § (1) A főváros területén – a kerületi önkormányzatok hatáskörébe tartozó fejlesztési feladatok kivételével – a megyei önkormányzat e törvény szerinti feladatait Budapest Főváros Önkormányzata látja el.
-
-(2) A főváros területét és a főváros vonzáskörzetét érintő fejlesztésekkel és programokkal kapcsolatban Budapest Főváros Önkormányzata együttműködik az érintett önkormányzatokkal.
+15/A. §
 
 15/B. §
 
 16. § (1)–(3)
 
-(4) A térségi fejlesztési tanács működéséhez szükséges pénzügyi fedezetet a költségvetési hozzájárulás, a pályázatokon elnyert források, valamint a térségi fejlesztési tanácsban szavazati joggal rendelkező szervezetek befizetései biztosítják azzal, hogy működtetéséhez központi költségvetési hozzájárulás csak a törvény alapján kötelezően létrehozott térségi fejlesztési tanács részére adható. A térségi fejlesztési tanács a szervezeti és működési szabályzatában meghatározhat befizetési kötelezettségeket, amelyről a tanács határozattal dönt. E befizetés elmulasztása esetén a térségi fejlesztési tanács megkeresheti az állami adóhatóságot az adók módjára történő behajtás érdekében. A térségi fejlesztési tanácsban a Kormány részéről tagként részt vevők befizetését a költségvetési hozzájárulás a költségvetési törvényben meghatározott mértékben biztosítja.
+(4) A térségi fejlesztési tanács működéséhez szükséges pénzügyi fedezetet a költségvetési hozzájárulás, a pályázatokon elnyert források, valamint a térségi fejlesztési tanácsban szavazati joggal rendelkező szervezetek befizetései biztosítják azzal, hogy működtetéséhez központi költségvetési hozzájárulás csak a törvény alapján kötelezően létrehozott térségi fejlesztési tanács részére adható.
 
-(5) A térségi fejlesztési tanács szervezeti és működési szabályzatát maga állapítja meg. A szervezeti és működési szabályzatban kell rögzíteni a tanács és a titkárság szervezetére és működésére vonatkozó legfontosabb szabályokat. A szervezeti és működési szabályzat elfogadásához a tanács tagjainak egyhangú támogató szavazata szükséges. Ennek hiányában a szervezeti és működési szabályzat a tanács 30 napon belül megismételt ülésén a tanács tagjai minősített többségének támogató szavazatával elfogadható.
+(5)–(6)
 
-(6) A térségi fejlesztési tanács a munkaszervezetének székhelyéről az alakuló ülésen minősített többséggel dönt.
+(7)–(16)
 
-(7) A térségi fejlesztési tanács a szervezeti és működési szabályzatában szabályozza a tanácskozási jog gyakorlásának módját a testület ülésein, az ülés összehívásának és megtartásának, valamint a határozathozatalnak a szabályait, továbbá a tanács tisztségviselőinek feladat- és jogkörét. A tanács testülete és titkársága működésének részletes szabályait ügyrendjében állapítja meg.
-
-(8) A térségi fejlesztési tanács határozatképes, ha az ülésén a szavazati joggal rendelkező tagok több mint fele jelen van. A tagokat megillető jogokat – ideértve a szavazás jogát is – csak a testület ülésén jelenlévő tag gyakorolhatja. A tagot csak a képviselt szerv vezetője által írásban felhatalmazott, az ülésen jelenlévő személy helyettesítheti. A tanács – ha a törvény mást nem ír elő – a jelenlevő tagok többségének szavazatával (egyszerű többség) dönt. Szavazategyenlőség esetén az elnök szavazata dönt. Törvény egyes döntésekhez előírhatja a szavazati joggal rendelkező tagok 2/3-ának támogató szavazatát (e törvény alkalmazásában: minősített többség). A szavazás nyílt, kivéve, ha a szervezeti és működési szabályzat titkos szavazást ír elő.
-
-(9) A térségi fejlesztési tanács döntéseinek előkészítése, végrehajtásának szervezése, ellenőrzése érdekében a szervezeti és működési szabályzatban meghatározott bizottságokat hozhat létre. A tanács döntési jogkörét nem ruházhatja át a bizottságára.
-
-(10) A térségi fejlesztési tanács működésének törvényességi felügyeletét a Kormánynak a térségi fejlesztési tanács székhelye szerint illetékes kormányhivatal látja el.
-
-(11) A kormányhivatal a törvényességi felügyelet keretében ellenőrzi, hogy a térségi fejlesztési tanács
-
-- a) szervezeti és működési szabályzata és egyéb szabályzatai megfelelnek-e a jogszabályoknak,
-- b) szervezete, működése, döntéshozatali eljárása, határozatai, illetve egyéb döntései nem sértenek-e jogszabályokat, az alapszabályt vagy egyéb szabályzatokat.
-
-(12) Jogszabálysértés esetén a kormányhivatal határidő kitűzésével felhívja a térségi fejlesztési tanácsot a jogszabálysértés megszüntetésére. A térségi fejlesztési tanács a megadott határidőn belül köteles tájékoztatni a kormányhivatalt a jogszabálysértés megszüntetésére tett intézkedésekről.
-
-(13) Ha a térségi fejlesztési tanács határidőn belül nem intézkedik a jogszabálysértés megszüntetése érdekében, vagy a térségi fejlesztési tanács elutasítja a kormányhivatal felhívását, illetve nem dönt a felhívás tárgyában, a kormányhivatal
-
-- a) keresettel fordul a bírósághoz a határozat, illetve egyéb döntése egészben vagy részben történő megsemmisítése iránt, továbbá a jogszabálysértő határozat, illetve egyéb döntés végrehajtását – ha az a közérdek súlyos sérelmével vagy elháríthatatlan kárral járna – felfüggeszti, illetőleg
-- b) ismételt vagy súlyos jogszabálysértés esetén a térségi fejlesztési tanács törvényes működésének helyreállítása érdekében a tanács, annak szerve vagy tisztségviselője működését felfüggeszti, és felügyelőbiztost rendel ki a térségi fejlesztési tanács törvényes működésének helyreállítására,
-- c) felügyelő biztost rendel ki, ha a térségi fejlesztési tanács adósságállománya eléri a külön törvényben az önkormányzati biztos kijelöléséhez szükséges mértéket. A felügyelő biztos feladatára és eljárására az önkormányzati biztosra vonatkozó rendelkezések irányadók.
-
-(14) A térségi fejlesztési tanács törvényességi felügyeletéért felelős szervnek a (13) bekezdés b) pontja alapján hozott intézkedése ellen annak megváltoztatása iránt a felfüggesztéssel érintett keresettel fordulhat a bírósághoz.
-
-(15) A bíróság a (13) bekezdés a) pontjában és a (14) bekezdésben említett perben a közigazgatási perekre irányadó szabályok szerint jár el. Ha a bíróság az eljárás eredményeként a jogszabálysértést megállapítja,
-
-- a) a jogsértő szervezeti és működési szabályzatot, egyéb szabályzatot, határozatot megsemmisíti, és új eljárás lefolytatását rendeli el, illetőleg
-- b) a működés törvényességének helyreállítása céljából elrendelheti a jogszabálysértően működő szerv, tisztségviselő választására jogosult szerv összehívását.
-
-(16) A felügyelőbiztos a tevékenységéről és annak eredményéről tájékoztatja a bíróságot és a kormányhivatalt.
-
-### Regionális fejlesztési ügynökség
-
-17. § (1) Az egy régió területén működő megyei önkormányzatok és a fővárosi önkormányzata területi operatív programok megvalósításával összefüggő fejlesztési döntések előkészítésére és végrehajtásában való közreműködésre a régióban nonprofit gazdasági társasági formában regionális fejlesztési ügynökséget működtetnek. A gazdasági társaság irányításáról tulajdonjogáról és a tulajdonosi jogok gyakorlásának módjáról a régió területét alkotó megyei önkormányzatok és a fővárosi önkormányzat megállapodásban döntenek.
-
-(2)
-
-(2) A regionális fejlesztési ügynökség feladatai különösen:
-
-- a) közreműködő szervezeti feladatokat lát el a területi operatív programok végrehajtásában és ellenőrzésében,
-- b) külön megállapodás alapján részt vesz az ágazati területfejlesztési operatív programok, vagy más programok lebonyolításában, szervezi a programok megvalósítását, részt vesz a programok pénzügyi finanszírozási feladataiban, a programok megvalósításáról, a pénzügyi felhasználásról naprakész nyilvántartást vezet,
-- c) közreműködik a megyei önkormányzat és a fővárosi önkormányzat területfejlesztési feladatainak ellátásában.
+17. §
 
 ### A területi államigazgatási szervek feladatai
 
-18. § A területi államigazgatási szervek a területfejlesztéssel és területrendezéssel összefüggő kormányzati feladatok végrehajtásában, érvényesítésének ellenőrzésében, a térségi fejlesztés és tervezés koordinálásában szakmai segítségnyújtással és információszolgáltatással, valamint hatósági ellenőrzéssel vesznek részt.
+18. § (1) A területi államigazgatási szervek a területfejlesztéssel és területrendezéssel összefüggő kormányzati feladatok végrehajtásában, érvényesítésének ellenőrzésében, a térségi fejlesztés és tervezés koordinálásában szakmai segítségnyújtással és információszolgáltatással, valamint hatósági ellenőrzéssel vesznek részt.
 
-19. § (1) A területrendezésért felelős miniszter feladatkörébe tartozó egyes területrendezési hatósági eljárással összefüggő hatósági feladatokat az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal látja el.
+(2) A területrendezésért felelős miniszter feladatkörébe tartozó egyes területrendezési hatósági eljárással összefüggő hatósági feladatokat az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal látja el.
 
-(2) Az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal
+(3) Az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal
 
 - a) véleményezi illetékességi területén a területrendezési terveket, és indokolt esetben javaslatot tehet e tervek módosítására,
-- b) véleményezi az országos, valamint az illetékességi területét érintő regionális fejlesztési programokat és azoknak a területrendezési tervekkel való összhangját,
+- b) véleményezi az országos, valamint az illetékességi területét érintő regionális, megyei fejlesztési programokat és azoknak a területrendezési tervekkel való összhangját,
 - c) nyilatkozik a megyei területrendezési tervnek az országos és a kiemelt térségi tervekkel, továbbá a településrendezési eszközöknek az országos, a kiemelt térségi és a megyei területrendezési tervekkel való összhangjáról.
+
+### III/A. Fejezet — A TERÜLETFEJLESZTÉS ÉRDEKEGYEZTETÉSI FÓRUMAI
+
+### Országos Területfejlesztési Érdekegyeztető Fórum
+
+18/A. § (1) Az Országos Területfejlesztési Érdekegyeztető Fórum (a továbbiakban: OTÉF) a Kormány, valamint a megyei önkormányzatok, a fővárosi önkormányzat, a megyei jogú városok és a fővárosi kerületi önkormányzatok közötti konzultációk és tárgyalások érdekegyeztető fóruma.
+
+(2) Az OTÉF feladata a kormányzat, valamint a megyei önkormányzatok és a fővárosi önkormányzat területfejlesztési, területrendezési és vidékfejlesztési érdekeinek, törekvéseinek feltárása, egyeztetése, megállapodások létrehozása, információcsere, javaslatok, alternatívák vizsgálata, továbbá a megyei jogú városok és fővárosi kerületi önkormányzatok fejlesztési elképzeléseinek és célkitűzéseinek összehangolása.
+
+(3) Az OTÉF elnöke a területfejlesztés stratégiai tervezéséért felelős miniszter.
+
+(4) Az OTÉF tagjai:
+
+- a) a területrendezésért felelős miniszter, a területfejlesztésért felelős miniszter, a vidékfejlesztésért felelős miniszter, a helyi önkormányzatokért felelős miniszter, az energiapolitikáért felelős miniszter, a közlekedésért felelős miniszter, a településfejlesztésért és településrendezésért felelős miniszter, a szociál- és nyugdíjpolitikáért felelős miniszter és a társadalmi felzárkózásért felelős miniszter,
+- b) Megyei Önkormányzatok Országos Szövetségének elnöke és négy delegáltja, a Megyei Jogú Városok Szövetségének elnöke és négy delegáltja, a Budapesti Önkormányzatok Szövetségének elnöke és négy delegáltja, a főpolgármester, valamint a Balaton Fejlesztési Tanács, és a Tokaj Borvidék Fejlesztési Tanács elnöke.
+
+(5) Az OTÉF ülésén egy szavazattal rendelkeznek a kormányzati és egy szavazattal rendelkeznek az önkormányzati tagok. Az OTÉF konszenzussal hozza meg döntéseit.
+
+### Regionális Területfejlesztési Konzultációs Fórum
+
+18/B. § Az egy régió területén működő megyei közgyűlések elnökei – ha a régió a főváros területét is magában foglalja, akkor a megyei közgyűlés elnöke és a főpolgármester – területfejlesztési feladataik ellátása és összehangolása érdekében Regionális Területfejlesztési Konzultációs Fórumot működtetnek.
+
+### Megyei Területfejlesztési Konzultációs Fórum
+
+18/C. § A megyei közgyűlés és a – megye területén működő – megyei jogú város(ok) közgyűlése(i) területfejlesztési feladataik ellátása és összehangolása érdekében Megyei Területfejlesztési Konzultációs Fórumot működtetnek.
+
+19. §
 
 ### IV. Fejezet — A TERÜLETFEJLESZTÉSÉS A TERÜLETRENDEZÉS ESZKÖZEI
 
@@ -487,60 +433,17 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 
 ### A területfejlesztést és a területrendezést segítő pénzügyi eszközök
 
-20. § (1) A területfejlesztési célok megvalósítását az általános gazdasági szabályozás, a normatív és a térségre vonatkozó sajátos pénzügyi eszközrendszer összehangolt működése, a forráskoordináció, valamint a miniszter számára az összehangolás érdekében külön jogszabályban meghatározott jogkörök biztosítják.
+20. § (1) A területfejlesztési célok megvalósítását az általános gazdasági szabályozás, a normatív és a térségre vonatkozó sajátos pénzügyi eszközrendszer összehangolt működése, a forráskoordináció, valamint a miniszterek számára az összehangolás érdekében külön jogszabályban meghatározott jogkörök biztosítják.
 
-(2) A területfejlesztés külön jogszabály szerinti központi eszközei különösen:
+(2)–(5)
 
-- a) a területfejlesztési célokat szolgáló, az éves költségvetési törvényben meghatározott előirányzatok, amelyek felhasználásának részletes szabályait jogszabály határozza meg,
-- b) a vállalkozásokat segítő, meghatározott területen igénybe vehető pénzügyi kedvezmények,
-- c) a térségi programok megvalósítását elősegítő egyéb központi források.
-
-(3) A területfejlesztést segítik külön jogszabályban meghatározott módon
-
-- a) a gazdaság, a foglalkoztatás és az infrastruktúra fejlesztését szolgáló pénzalapok, illetve költségvetési előirányzatok,
-- b) az éves központi költségvetésben megtervezett költségvetési források,
-- c) az egyes elkülönített pénzalapok területfejlesztési programokra és célokra felhasználható pénzeszközei,
-- d) az önkormányzatok településfejlesztését támogató céltámogatások
-
-rendszere.
-
-(4) A területfejlesztés térségi eszközei:
-
-- a) az éves költségvetési törvényben meghatározott területfejlesztési célokat szolgáló előirányzatok, amelyek felhasználásának részletes szabályait jogszabály határozza meg,
-- b)
-- c) a térség helyi önkormányzatai által átadott források, helyi adókedvezmények,
-- d)
-- e)
-- f)
-
-(5) A területfejlesztés egyéb eszközei:
-
-- a) a területfejlesztési célú segélyek, illetve hitelek,
-- b) a gazdálkodást végző szervezetek és mindezek érdekvédelmi szervezetei, a gazdasági kamarák, valamint más intézmények önkéntes hozzájárulásai.
-
-21. § A területfejlesztés céljainak hatékony megvalósítása érdekében a központi költségvetés, továbbá az egyes programok és fejlesztések elfogadásakor a területfejlesztés céljait figyelembe kell venni:
-
-- a) az országos infrastruktúra-rendszerek fejlesztése során,
-- b) az ipari és mezőgazdasági válságkezelő és szakmapolitikai programokban,
-- c) a foglalkoztatáspolitikában,
-- d) a beruházás- és vállalkozásösztönzést, valamint a beruházásfejlesztést szolgáló alapok kialakításában,
-- e) az önkormányzati szabályozás kiegyenlítő mechanizmusaiban,
-- f) az idegenforgalomban,
-- g) az adópolitikában,
-- h) a szociálpolitikában és az egészségügyi ellátásban,
-- i) a művelődési és közoktatás-politikában.
+21. §
 
 ### A területfejlesztés hatékonyságát növelő feladat– és forráskoordináció
 
 21/A. § (1) A fejlesztési források hatékonyabb felhasználása, a gazdaság arányosabb térszerkezetének kialakítása, a területi különbségek mérséklése érdekében a területfejlesztési célok megvalósítását szolgáló fejezeti kezelésű előirányzatok pályázati rendszerben történő felhasználása – az érintett miniszterek együttműködésével – a miniszter forráskoordinációjával történik. A forráskoordinációval kapcsolatos feladatok ellátásában a kormányzati területfejlesztési feladatokért felelős szerv külön jogszabályban meghatározott feladatkörében közreműködik.
 
-(2) A forráskoordináció kiterjed:
-
-- a) a pályázati célokat szolgáló források számbavételére;
-- b) a források felhasználását szabályozó jogszabályok és utasítások egyeztetésére;
-- c) a pályázati felhívások egyeztetésére és nyilvántartására;
-- d) a pályázatok elbírálásában képviselet biztosítására;
-- e) a pályázati felhívások összegyűjtésére és azok nyilvánossá tételére.
+(2)
 
 (3) A pályázatok adataira vonatkozó nyilvántartás és a minisztériumok területi értékelései alapján a miniszter – a kormányzati területfejlesztési feladatokért felelős szerv előkészítése mellett – jelentést nyújt be a Kormánynak arról, hogy a központi támogatások a területfejlesztési politika céljaival mennyire voltak összhangban.
 
@@ -640,17 +543,11 @@ területi elhelyezése az állami főépítészi hatáskörében eljáró fővá
 
 24. § (1) A társadalom, a gazdaság és a környezet területi jellemzőinek és változásainak figyelemmel kísérése, illetve előrejelzése érdekében az országos, a regionális, a megyei és a települési szintek között az információcsere biztosításával területi információs rendszert kell létrehozni és működtetni.
 
-(2) A miniszter, a megyei önkormányzat és a megyei jogú város részére az adatgyűjtő és feldolgozó szervezetek külön jogszabály rendelkezései szerint területi bontásban rendszeresen adatot szolgáltatnak.
+(2)
 
 24/A. § A területfejlesztéssel, illetve a területrendezéssel összefüggésben megőrzendő dokumentumok gyűjtéséről, határozatlan idejű megőrzéséről, nyilvántartásáról és hasznosításáról a miniszter, illetve a területrendezésért felelős miniszter gondoskodik.
 
-### A nyilvánosság és a társadalmi részvétel
-
-25. § (1) A térségi területfejlesztési és területrendezési tervek nyilvánosak.
-
-(2) A tervezés folyamatáról és a tervek elfogadásáról tényközlő és általános ismertető híradást kell közzétenni az érintett térségi, szükség esetén országos tömegtájékoztatási eszközökben.
-
-(3) A tervezéssel összefüggő részletes szabályokat, így különösen a tervek elkészítésének szakmai szabályait, elfogadásának rendjét jogszabály állapítja meg.
+25. §
 
 ### Területrendezési tervezési tevékenység
 
@@ -671,25 +568,7 @@ területi elhelyezése az állami főépítészi hatáskörében eljáró fővá
 
 (4) A kamara által vezetett nyilvántartás a (3) bekezdésben foglalt adatok tekintetében – a (3) bekezdés a), c) és d) pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-### Területfejlesztési tervezési tevékenység
-
-25/B. § (1) Területfejlesztési terv elkészítésében tervezőként az a büntetlen előéletű személy vehet részt, aki rendelkezik az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott szakmai képesítéssel és megfelel az ott meghatározott egyéb feltételeknek.
-
-(2) Aki az (1) bekezdés szerinti tevékenységet kíván folytatni, köteles az erre irányuló szándékát a területfejlesztési stratégiai tervezési feladatokért felelős miniszter feladatának segítését ellátó minisztériumi háttérintézménynél (a továbbiakban: háttérintézmény) bejelenteni. A bejelentés tartalmát a területfejlesztési tervezési jogosultságról szóló kormányrendelet tartalmazza.
-
-(3) A háttérintézmény a területfejlesztési tervezési tevékenység folytatására jogosult, a (2) bekezdés szerinti bejelentést tevő személyekről nyilvántartást vezet, amely a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon kívül tartalmazza az érintett személy
-
-- a) születési helyét, évét, hónapját, napját és anyja nevét,
-- b) állampolgárságát,
-- c) lakóhelyét, székhelyét,
-- d) elérhetőségét (levelezési cím, telefon-, illetve telefaxszám, elektronikus levelezési cím),
-- e) szakirányú végzettségét igazoló okirat számát, keltét, kiállító intézmény nevét,
-- f) által folytatott területfejlesztési tervezési tevékenység megnevezését, jelét és
-- g) nyilvántartási számát.
-
-(4) A háttérintézmény által vezetett nyilvántartás a (3) bekezdésben foglalt adatok tekintetében – a (3) bekezdés a), c) és d) pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
-
-(5) A háttérintézmény a nyilvántartásában szereplő adatot csak addig kezelheti, amíg a területfejlesztési tervezési tevékenység folytatására jogosult személy gyakorolja tervezési tevékenységét.
+25/B. §
 
 ### VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -705,43 +584,35 @@ területi elhelyezése az állami főépítészi hatáskörében eljáró fővá
 
 27. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
-- a) a központi államigazgatási szervek területfejlesztéssel és területrendezéssel kapcsolatos feladatait, a miniszterek közötti folyamatos koordináció szempontjait;
+- a) a térségi fejlesztési tanács létrehozásával, működésével, sajátos gazdálkodásával kapcsolatos feladatokat, és szabályokat, valamint a megyei önkormányzatok és a térségi fejlesztési tanácsok e törvény alapján ellátott tevékenységéről szóló éves beszámolási, illetve tájékoztatási kötelezettség szabályait;
 - b) a kedvezményezett járások és települések besorolásának feltételrendszerét és besorolását,
 - c) a településrendezési eszköz területrendezési tervvel való összhangját igazoló területrendezési hatósági eljárás részletes szabályait;
 - d) a területfejlesztési koncepció, a területfejlesztési program és a területrendezési terv tartalmi követelményeit, továbbá illeszkedésük, kidolgozásuk és közzétételük részletes szabályait, valamint egyeztetésük, elfogadásuk rendjét;
 - e) a szabad vállalkozási zónák létrehozásának és működésének, valamint a kedvezmények igénybevételének szabályait;
 - f) a területfejlesztéssel és területrendezéssel kapcsolatos információs rendszert és a kötelező adatközlés szabályait;
-- g) a 20. § (4) bekezdés a) és b) pontjában meghatározott eszközök differenciált területi elosztását, a törvény 6. § e) pontjában szereplő, az Országgyűlés által meghatározott elvek figyelembevételével.
-- h) a területi monitoring rendszer feladat- és hatáskörét, szervezeti és működési rendjét;
-- i) a területfejlesztési önkormányzati társulások működéséhez kapcsolódó költségvetési hozzájárulás mértékét és felhasználásának módját;
+- g)
+- h) a területi monitoring rendszer feladat- és hatáskörét, szervezeti és működési rendjét, a területfejlesztést közvetlenül vagy közvetve szolgáló források felhasználásáról készülő területi értékelés elkészítésének módszertani szabályait;
+- i)
 - j) a területfejlesztés intézményei törvényességi felügyeletének részletes szabályait;
 - j)
 - k) a területfejlesztést közvetlenül és közvetve szolgáló pénzeszközök koordinációjának a pályázati rendszerre is kiterjedő részletes szabályait,
-- l) a területfejlesztés intézményeinek a fejlesztési elképzelések összegyűjtésével, számbavételével, megvalósításának kidolgozásával, és ezzel kapcsolatos adatszolgáltatás rendjével kapcsolatos feladatait és eljárás rendjét;
+- l)
 - m)
 - n) a kormányhivatal és a kincstár, a térségi fejlesztési tanács létrehozásával, átalakulásával és megszüntetésével kapcsolatos feladatait, a megalakulással, átalakulással és megszüntetéssel kapcsolatos eljárás rendjét,
 - o) a területrendezési tervezési tevékenység folytatásának részletes feltételeit, e tevékenység bejelentésének és az e tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát, a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá az e tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket;
-- p) a területi (környezeti, társadalmi és gazdasági) hatásvizsgálat-köteles eljárások körét, a területi hatásvizsgálat készítésének eljárási szabályait és tartalmi követelményeit;
+- p)
 - q) az országos és a térségi műszaki infrastruktúrahálózatoknak a területrendezési tervek szerkezeti tervében ábrázolt nyomvonalától való kivételes eltérésre vonatkozó területrendezési hatósági eljárás részletes szabályait;
-- r) a kormányzati területfejlesztési és területrendezési feladatokért felelős szerv vagy szervek kijelölését;
+- r)
 - s) az állami főépítész vagy főépítészek kijelölését és feladatkörük szabályozását;
 - t) a területrendezési tervekben nem szereplő, térségi jelentőségű műszaki infrastruktúrahálózatok és egyedi építmények területi elhelyezésére, beillesztésére vonatkozó területrendezési hatósági eljárás részletes szabályait;
 - u) a 23/D. § (3) bekezdésében meghatározott övezetekben és esetekben a beépítésre szánt területek kivételes kijelölésére, valamint a területcserére vonatkozó területrendezési hatósági eljárás részletes szabályait;
 - v) a kiemelt térségi vagy megyei területrendezési terv övezeti tervlapjain meghatározott övezeti határok és a térségi szerkezeti tervben meghatározott műszaki infrastruktúrahálózatok nyomvonalainak településrendezési mélységű pontosítására vonatkozó területrendezési hatósági eljárás részletes szabályait;
-- w) a területfejlesztési tervezési tevékenység folytatásának részletes feltételeit, e tevékenység bejelentésének és az e tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát, a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá az e tevékenységre jogszabályban előírt kötelezettségek elmulasztása esetén alkalmazandó jogkövetkezményeket;
-- x) a területfejlesztés stratégiai tervezéséért felelős miniszter feladatának segítését ellátó minisztériumi háttérintézmény kijelölését.
+- w)–x)
 - z) a területfejlesztéssel és a területrendezéssel összefüggésben megőrzendő – személyes adatot nem tartalmazó – dokumentumok körét, azok gyűjtésének, megőrzésének, nyilvántartásának és hasznosításának részletes szabályait, továbbá a kapcsolódó adatszolgáltatásért járó költségtérítés összegét és megfizetésének szabályait.
 
-(2) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
+(2)
 
-- a)
-- b)–c)
-- d)
-- e)
-- f) a területfejlesztést közvetlenül vagy közvetve szolgáló források felhasználásáról készülő területi értékelés elkészítésének módszertani szabályait,
-- g) a 12. § (2) bekezdése szerinti adatszolgáltatás szabályait.
-
-(3) Felhatalmazást kap a területfejlesztés stratégiai tervezéséért felelős miniszter, hogy a területrendezésért felelős miniszterrel egyetértésben, rendeletben állapítsa meg a megyei önkormányzatok és a térségi fejlesztési tanácsok e törvény alapján ellátott tevékenységéről szóló éves beszámolási, illetve tájékoztatási kötelezettség szabályait.
+(3)
 
 (4) Felhatalmazást kap a megyei önkormányzat, hogy önkormányzati rendeletet alkosson a területfejlesztési és vidékfejlesztési koordináció részletes szabályairól.
 
@@ -753,12 +624,6 @@ területi elhelyezése az állami főépítészi hatáskörében eljáró fővá
 
 28. §
 
-29. § (1) Az Országos Területfejlesztési Érdekegyeztető Fórum megalakulása időpontjától jogutódja a megszűnő Országos Területfejlesztési Tanácsnak.
-
-(2) A területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény módosításáról szóló 2013. évi CCXVI. törvény hatálybalépésekor nonprofit gazdasági társasági formában működő regionális fejlesztési ügynökségek a magyar állam könyveiben 2013. december 31-én szereplő értéken, térítésmentesen a területileg érintett megyei önkormányzatok, illetve Budapest Főváros Önkormányzata tulajdonába kerülnek.
-
-(3) A magyar államtól – mint átadótól – a regionális fejlesztési ügynökségeket a székhelyük szerint illetékes megyei (fővárosi) önkormányzatok veszik át.
-
-(4) A 25/B. § rendelkezéseit a 2014. június 30. napját követően megkezdett területfejlesztési tervezési tevékenységre kell alkalmazni.
+29. §
 
 ### 1. melléklet az 1996. évi XXI. törvényhez

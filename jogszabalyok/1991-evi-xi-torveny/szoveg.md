@@ -491,17 +491,7 @@ vonatkozó szabályokat.
 
 (14) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az élelmiszerlánc-felügyeletért felelős miniszterrel egyetértésben a közétkeztetők minősítésének táplálkozás-egészségügyi feltételeit és azok ellenőrzési módszereit rendeletben határozza meg.
 
-15/A. § (1) Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2013. évi CCXLIV. törvénnyel (a továbbiakban: Módtv.) megállapított 6/A. § szerinti bejelentést első alkalommal 2014. július 1-jéig kell megtenni.
-
-(2) Az egészségügyi államigazgatási szerv az (1) bekezdés alapján megtett bejelentésekre tekintettel 2014. december 31-ig gondoskodik
-
-- a) az Eütv. 108/A. § (2) bekezdésében meghatározott feltételeknek megfelelő és az (1) bekezdés szerinti bejelentést tevő közreműködő működési engedélyének visszavonásáról, vagy – ha az egészségügyi szolgáltató működési engedélye nem kizárólag közreműködésre szól – a működési engedély közreműködésre irányuló tartalmának hatályon kívül helyezésével a működési engedély hivatalból történő módosításáról,
-- b) a közreműködőnek vagy a szabadfoglalkozású jogviszonyban álló személynek vagy szervezetnek a 6/A. § (1) bekezdés szerinti nyilvántartásba vételéről,
-- c) az (1) bekezdés szerinti bejelentésben nem szereplő – az Eütv. 108/A. § (2) bekezdése szerinti – közreműködő működési engedélyének visszavonásáról.
-
-(3) Az (1) és (2) bekezdésben foglaltaktól eltérően, ha a közreműködőt igénybe vevő vagy szabadfoglalkozású jogviszonyban álló személyt vagy szervezetet foglalkoztató egészségügyi szolgáltató működési engedélyének módosítására kérelemre, az (1) bekezdés szerinti időpontot megelőzően kerül sor, az (1) és (2) bekezdés szerinti bejelentést és intézkedéseket – a működési engedély módosításával érintett szervezeti egység vonatkozásában – a működési engedély módosításával egyidejűleg el kell végezni.
-
-15/B. § A Módtv.-vel megállapított 6. § (4) bekezdés e) pontja szerinti adatokat az egészségügyi szolgáltatóknak első alkalommal 2014. július 1-jéig kell bejelenteni az egészségügyi államigazgatási szerv részére.
+15/A–15/B. §
 
 15/C. § (1) A 2013. december 1-jét megelőzően az ivó- és használatimelegvíz-ellátásban, valamint a medencés közfürdőkben a vízzel közvetlenül érintkező anyagok, termékek és a víz kezelésére alkalmazni kívánt technológiák alkalmazására kiadott engedélyekről az egészségügyi államigazgatási szerv az adott, a vízzel közvetlenül érintkező anyag vagy termék bejelentésének nyilvántartásba vételéig, illetve az adott, a víz kezelésére alkalmazni kívánt technológia ivóvíz-biztonsági engedélyezéséig vezet nyilvántartást.
 

@@ -143,5 +143,5 @@ B) Szolgáltatások
 |  |  |  |
 | 507-34, 45-ből | Humán célú, a járóbeteg-ellátás keretében társadalombiztosítási támogatással forgalmazható gyógyszerek kereskedelmi árrése | egészségügyért felelős miniszter |
 | 40.30.90.0-ból | Távhőszolgáltatás csatlakozási díja | települési önkormányzat – fővárosban a Fővárosi Önkormányzat – képviselő- testülete |
-| SZJ’03 72.30.21 | A céginformációs szolgálat által biztosított céginformáció elektronikus adattovábbításának ára | igazságügyért felelős miniszter és az államháztartásért felelős miniszter |
+|  |  |  |
 | Termékszám (BTO) | Megnevezés | A hatósági ár megállapítója |

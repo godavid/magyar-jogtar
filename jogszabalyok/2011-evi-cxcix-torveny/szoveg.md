@@ -666,7 +666,10 @@ a munkáltató a kormánytisztviselő részére más, nemzetbiztonsági ellenőr
 
 (5) Ha a rendőrségről szóló törvény az e törvényben meghatározott munkavégzési szabályra külön ellenőrzési lehetőséget teremt az államigazgatási szerv kormánytisztviselői tekintetében, a kormányzati szolgálati jogviszony létesítésének és fenntartásának feltétele az ellenőrzéshez való hozzájárulás.
 
-(6) Jogszabály – vagy jogszabály által meghatározott esetben a munkáltatói jogkör gyakorlója – a kormányzati szolgálati jogviszony létesítését az (1) bekezdésben foglaltakon túlmenően meghatározott iskolai végzettséghez és szakképzettséghez, szakképesítéshez, munkaköri követelményhez, illetve gyakorlati idő letöltéséhez, valamint egészségi és pszichikai alkalmassághoz, továbbá képességhez kötheti.
+(6) Jogszabály vagy jogszabály által meghatározott esetben a munkáltatói jogkör gyakorlója
+
+- a) a kormányzati szolgálati jogviszony létesítését az (1) bekezdésben foglaltakon túlmenően meghatározott iskolai végzettséghez és szakképzettséghez, szakképesítéshez, munkaköri követelményhez, illetve gyakorlati idő letöltéséhez, valamint egészségi és pszichikai alkalmassághoz, továbbá képességhez kötheti,
+- b) a kizárólag helyszíni hatósági ellenőrzési tevékenység ellátására irányuló kormányzati szolgálati jogviszony létesítéséhez követelményként – a 40. § (2) bekezdésétől eltérően – középiskolai végzettséget is megállapíthat.
 
 (6a) Nem nevezhető ki kormánytisztviselőnek a 7. § (1) bekezdés a) pontjában meghatározott öregségi nyugdíjra való jogosultsággal rendelkező személy, kivéve ha a Kormány a munkáltató kérelmére hozzájárul a kormánytisztviselő foglalkoztatásához.
 
@@ -1299,11 +1302,11 @@ Az a)–d) pontban meghatározott rendelkezések alkalmazása szempontjából a 
 
 (2) Az (1) bekezdés szerinti védelem alkalmazása szempontjából a felmentés közlésének időpontja az irányadó.
 
-(3) Az (1) bekezdés a) és f) pontjában meghatározott körülményre a kormánytisztviselő csak akkor hivatkozhat, ha erről a munkáltatót tájékoztatta.
+(3) Az (1) bekezdés a) és f) pontjában meghatározott körülményre a kormánytisztviselő csak akkor hivatkozhat, ha erről a munkáltatót tájékoztatta. A felmentés közlését követő kormánytisztviselői tájékoztatás esetén a munkáltató a felmentést a kormányzati szolgálati jogviszony megszűnéséig írásban visszavonhatja.
 
 (4) Az (1) bekezdés c) pontja szerinti védelem a fizetés nélküli szabadság igénybevétele nélkül azt a szülőt illeti meg, aki a fizetés nélküli szabadságot utoljára igénybe vette.
 
-(5) Az (1) bekezdés c) pontjában meghatározott védelem az anyát illeti meg, ha a fizetés nélküli szabadságot mindkét szülő igénybe veszi.
+(5)
 
 71. § (1) A munkáltató általi felmentés esetén a felmentési idő legkorábban az alábbiakban meghatározott időtartam lejártát követő napon kezdődik:
 
@@ -2333,7 +2336,9 @@ a szervezet feladat- és hatásköreinek, létszámának, valamint az általa ve
 
 ### Elszámolás
 
-148. § A kormánytisztviselő részére illetményéről részletes írásbeli elszámolást kell adni. Az elszámolásnak olyannak kell lennie, hogy a kormánytisztviselő a kiszámítás helyességét, valamint az illetményből való levonások jogcímét és összegét ellenőrizni tudja. Az írásbeli elszámolásnak tartalmaznia kell a rendkívüli munkavégzés jogcímén kifizetett díjazást is.
+148. § (1) A kormánytisztviselő részére illetményéről részletes írásbeli elszámolást kell adni. Az elszámolásnak olyannak kell lennie, hogy a kormánytisztviselő a kiszámítás helyességét, valamint az illetményből való levonások jogcímét és összegét ellenőrizni tudja. Az írásbeli elszámolásnak tartalmaznia kell a rendkívüli munkavégzés jogcímén kifizetett díjazást is.
+
+(2) Ha az illetmény tárgyhónapra vonatkozó elszámolását követően bekövetkező ok miatt az elszámolás módosítása szükséges, a kormánytisztviselőt a tárgyhónapra vonatkozó illetményelszámolás módosításáról legkésőbb a következő havi illetmény elszámolásakor tájékoztatni kell. Az illetménykülönbözetet a következő havi illetménnyel egyidejűleg ki kell fizetni. A munkáltató a jogalap nélkül kifizetett illetményt az előlegnyújtásból eredő követelésre vonatkozó szabályok szerint levonhatja.
 
 ### Illetményből való levonás
 

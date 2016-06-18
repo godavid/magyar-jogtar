@@ -36,7 +36,7 @@ az egyes sportcélú ingatlanok tulajdoni helyzetének rendezéséről
 
 6. §
 
-7. § (1) Az e törvény alapján átadott sportcélú ingatlanok működtetését, a sportigazgatási szerv ellenőrzi. Jogsértés észlelése esetén a sportcélú ingatlan tulajdonosát határidő tűzésével felhívja a jogszerű állapot helyreállítására, a határidő eredménytelen lejártát követően kezdeményezi a szerződés felmondását a Magyar Nemzeti Vagyonkezelő Zrt.-nél (a továbbiakban: MNV Zrt.).
+7. § (1) Az e törvény alapján átadott sportcélú ingatlanok működtetését, a sportigazgatási szerv jogszabályban meghatározottak szerint ellenőrzi. Jogsértés észlelése esetén a sportcélú ingatlan tulajdonosát határidő tűzésével felhívja a jogszerű állapot helyreállítására, a határidő eredménytelen lejártát követően kezdeményezi a szerződés felmondását a Magyar Nemzeti Vagyonkezelő Zrt.-nél (a továbbiakban: MNV Zrt.).
 
 (2) Ha az 5. § (4) bekezdésében meghatározott időtartam alatt a tulajdonjogot megszerző sportszervezet jogutód nélkül megszűnik, a tulajdonjog az államra száll.
 
@@ -52,7 +52,9 @@ az egyes sportcélú ingatlanok tulajdoni helyzetének rendezéséről
 
 (2) A törvény hatálya alá tartozó repülőterek tulajdonjogának átruházása során a légiközlekedésről szóló 1995. évi XCVII. törvény 40. §-ának rendelkezéseit nem kell alkalmazni.
 
-10–12. §
+10. § Felhatalmazást kap a sportpolitikáért felelős miniszter, hogy rendeletben állapítsa meg az 5. § (5) bekezdésében meghatározott méltányossági hozzájárulás iránti kérelemhez csatolandó okiratok, tervek és adatok körét, a méltányossági eljárás szabályait, valamint a 7. § (1) bekezdés szerinti ellenőrzés részletes szabályait.
+
+11–12. §
 
 13. § E törvény a kihirdetését követő 30. napon lép hatályba.
 
