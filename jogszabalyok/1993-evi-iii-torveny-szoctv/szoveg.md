@@ -1177,7 +1177,7 @@ nyújtja.
 
 - a) az új szociális szolgáltatónak, intézménynek (székhely, telephely),
 - b) az új szociális szolgáltatásnak,
-- c) házi segítségnyújtás esetén az új ellátotti létszámnak,
+- c) házi segítségnyújtás esetén az új ellátotti létszámnak, és azon belül a személyi gondozásban ellátható személyek legmagasabb számának (a továbbiakban együtt: ellátotti létszám),
 - d) támogató szolgáltatás és közösségi alapellátás esetén a központi költségvetésről szóló törvény szerinti, új feladatmutatónak,
 - e) nappali ellátás és szakosított szociális ellátás esetén – a külső férőhelyek és az időszakos férőhelyek kivételével – az új férőhelyeknek
 
@@ -1239,7 +1239,15 @@ ellátott személyek száma, teljesített feladatmutató, illetve betöltött f�
 
 (7) A kincstárnak az egyházi fenntartók és a nem állami fenntartók – a központi költségvetésről szóló törvényben biztosított – támogatásával kapcsolatos másodfokú eljárásaiban az ügyintézési határidő hatvan nap.
 
-(8) Az egyházi fenntartók és a nem állami fenntartók – a központi költségvetésről szóló törvényben biztosított – támogatásával kapcsolatos hatósági eljárásokban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(8) Az egyházi fenntartók és a nem állami fenntartók – a központi költségvetésről szóló törvényben biztosított – támogatásával kapcsolatos hatósági eljárásokban nem kell meghozni a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntést, valamint a hatóság vezetője az e bekezdés szerinti eljárás ügyintézési határidejét annak letelte előtt indokolt esetben, az indokok megjelölésével egy alkalommal, legfeljebb huszonegy nappal végzésben meghosszabbíthatja.
+
+(9) A kincstár az egyházi fenntartók és a nem állami fenntartók – a központi költségvetésről szóló törvényben biztosított – támogatásával kapcsolatos eljárását felfüggesztheti, ha az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ, amelyben
+
+- a) a kincstár más – az egyházi fenntartónak, nem állami fenntartónak a központi költségvetésről szóló törvényben biztosított támogatásának elszámolásával és ellenőrzésével kapcsolatos – eljárása vagy ezen eljárásban hozott döntésének bírósági felülvizsgálata,
+- b) a működést engedélyező szerv eljárása vagy ezen eljárásban hozott döntésének bírósági felülvizsgálata, vagy
+- c) a fenntartó tevékenységével vagy a szociális szolgáltató, szociális intézmény működésével összefüggő büntetőeljárás
+
+van folyamatban. A kincstár az eljárását legfeljebb az a)–c) pont szerinti eljárás befejezéséig – ideértve a másodfokú eljárást, a közigazgatási döntés bírósági felülvizsgálatát, a Kúria felülvizsgálati eljárását és a megismételt eljárást is – függesztheti fel.
 
 58/B. § (1)
 
@@ -1788,7 +1796,7 @@ tehet eleget.
 92. § (1) A személyes gondoskodást nyújtó ellátásokról, azok igénybevételéről, valamint a fizetendő térítési díjakról
 
 - a) a fenntartó önkormányzat,
-- b) ha a fenntartó önkormányzati társulás, akkor a társulási megállapodásban erre kijelölt települési önkormányzat a társulási megállapodásban meghatározottak szerint
+- b) ha a fenntartó önkormányzati társulás, akkor a társulási megállapodásban megjelölt székhely szerinti települési önkormányzat a társulási megállapodásban meghatározottak szerint
 
 rendeletet alkot.
 
@@ -2898,15 +2906,7 @@ járul hozzá.
 
 127/A. §
 
-128. § (1) Kötött felhasználású állami támogatásként a helyi önkormányzatok
-
-- a) címzett és céltámogatást a külön törvényben foglaltak szerint,
-- b) központosított előirányzatot,
-- c) szociális szakmai programokhoz nyújtott támogatást
-
-kaphatnak.
-
-(2) Az egyházi fenntartó és a nem állami fenntartó szociális szakmai programokhoz támogatást kaphat.
+128. §
 
 129. § Fogyatékos személyek ápolást-gondozást nyújtó intézményeinek címzett támogatással történő beruházása esetén kizárólag az ötven főnél nagyobb férőhelyszámú intézmény kiváltása támogatható.
 
@@ -2943,7 +2943,7 @@ kaphatnak.
 - t)
 - u) az egyházi kiegészítő támogatás megtérítésének részletes szabályait;
 - v) a szükség-, veszély- vagy katasztrófahelyzetből eredő kár esetén közcélú munkavégzés keretében ellátható helyreállítási feladatok körét, az e feladatokra fordítható költségvetési forrás összegét, valamint e forrás igénybevételének eljárásrendjét;
-- w) az új szolgáltatóknak, intézményeknek, szolgáltatásoknak, feladatmutatóknak, ellátotti létszámnak, illetve férőhelyszámnak a szolgáltatások területi lefedettségét figyelembe vevő finanszírozási rendszerbe történő befogadására és annak visszavonására vonatkozó részletes szabályokat;
+- w) az új szolgáltatóknak, intézményeknek, szolgáltatásoknak, feladatmutatóknak, ellátotti létszámnak – ezen belül a személyi gondozásban ellátható személyek legmagasabb számának –, illetve férőhelyszámnak a szolgáltatások területi lefedettségét figyelembe vevő finanszírozási rendszerbe történő befogadására és annak visszavonására vonatkozó részletes szabályokat;
 - x) az állam fenntartói feladatait ellátó szerv kijelölését, jogállását, működésének részletes szabályait, feladat- és hatáskörét, a szerv feletti irányítási jogkörök gyakorlásának részletes szabályait.
 - y) a 32/D. § (1) bekezdése és 37/C. § (1) bekezdése szerinti fővárosi kerületi hivatal kijelölését;
 - z) a 18/B. § szerinti országos nyilvántartás vezetésének, a nyilvántartásba való adatrögzítésnek és a nyilvántartásból történő adattörlésnek a részletes szabályait, valamint a nyilvántartást vezető szociális hatóság kijelölését.

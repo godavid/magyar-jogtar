@@ -240,7 +240,7 @@ tagozat,
 - g) működő vezetési modellt, nevelés- és oktatásszervezést,
 - h) elfogadott pedagógus végzettséget és szakképzettséget.
 
-(9) Az óvodapedagógiai program, kerettanterv a (8) bekezdésben meghatározott körben eltérhet az e törvényben meghatározottaktól, valamint az e törvény végrehajtására kiadott jogszabályoktól azzal a megkötéssel, hogy az alternatív intézmények költségvetési támogatásának alapja óvodapedagógiai programjukban, kerettantervükben foglalt kötelező feladatellátás, ezen felül a működésükkel járó többletköltségekhez központi költségvetési többlettámogatás nem igényelhető.
+(9) Az óvodapedagógiai program, kerettanterv a (8) bekezdésben meghatározott körben eltérhet az e törvényben, valamint az e törvény felhatalmazása alapján megalkotott jogszabályban meghatározottaktól.
 
 (10) A (8) bekezdés alkalmazásában alternatív óvoda, alternatív iskola az az óvoda, iskola, amely nem hagyományos pedagógiai módszerekkel végzi nevelő és oktató munkáját. Az engedély iránti kérelmet, ha van olyan hálózat, szervezet, amelyik az alternatív óvodát, iskolát képviseli, a hálózat, szervezet, ha nincs ilyen hálózat, szervezet, az intézmény fenntartója jogosult benyújtani.
 
@@ -2036,7 +2036,7 @@ dönt.
 
 74. § (1) Az állam gondoskodik – az óvodai nevelés, a nemzetiséghez tartozók óvodai nevelése, a többi gyermekkel, tanulóval együtt nevelhető, oktatható sajátos nevelési igényű gyermekek óvodai nevelése kivételével – a köznevelési alapfeladatok ellátásáról.
 
-(2) A köznevelési feladatokat az állam intézmény alapításával és fenntartásával, továbbá az egyházi köznevelési intézmény vagy a magán köznevelési intézmény fenntartójával kötött köznevelési szerződés útján látja el. Az óvodai nevelésről a települési önkormányzat intézmény alapítása és fenntartása vagy köznevelési szerződés révén gondoskodik. A fenntartó az általa fenntartott intézménybe járó gyermek lakóhelye szerinti önkormányzattól az óvoda fenntartásához hozzájárulást kérhet.
+(2) A köznevelési feladatokat az állam intézmény alapításával és fenntartásával, továbbá az egyházi köznevelési intézmény, a nemzetiségi önkormányzat fenntartásában álló vagy a magán köznevelési intézmény útján látja el, a fenntartóval az állam köznevelési szerződést köthet. Az óvodai nevelésről, a nemzetiséghez tartozók óvodai neveléséről, a többi gyermekkel, tanulóval együtt nevelhető, oktatható sajátos nevelési igényű gyermekek óvodai neveléséről a települési önkormányzat vagy társulása intézmény alapítása és fenntartása vagy köznevelési szerződés révén gondoskodik.
 
 (3) Ha a köznevelési közfeladat ellátása vallási, világnézeti szempontból elkötelezett nevelési, nevelési-oktatási intézmény fenntartójával kötött köznevelési szerződés útján történik, a szerződés megkötése nem mentesít a feladatellátási kötelezettség alól azon gyermekek tekintetében, akiknek a szülei nem akarják vallási, világnézetileg elkötelezett óvodába, iskolába járatni gyermeküket. Az állami intézményfenntartó központ, óvoda átadása esetében a települési önkormányzat, gondoskodik arról, hogy ezekre a szülőkre, gyermekekre, tanulókra a köznevelési szerződés miatt a vallási, világnézeti szempontból el nem kötelezett nevelésben, nevelésben-oktatásban való részvételhez fűződő joguk érvényesítésében aránytalan teher nem hárulhat. Akkor adható át nevelési, nevelési-oktatási intézmény vallási, világnézeti szempontból elkötelezett nevelést, oktatást folytató fenntartó számára, ha az intézménybe beíratott kiskorú gyermekek, tanulók esetén a szülők, nagykorúság elérése esetén a tanulók több mint fele azt támogatja. Az állami intézményfenntartó központ akkor tehet javaslatot az oktatásért felelős miniszternek, hogy az intézmény átadásával egyidejűleg kössön köznevelési szerződést a vallási, világnézeti tekintetben elkötelezett nevelést-oktatást folytató fenntartóval, ha az iskola állami tulajdonban van, vagy a tulajdonos települési önkormányzat az átadásról döntött, és a nevelést-oktatást, a szakképzést a vallási, világnézeti szempontból el nem kötelezett nevelést-oktatást igénylő tanulók számára változatlan színvonalon biztosítja.
 
@@ -2579,9 +2579,11 @@ rendeletben állapítsa meg.
 
 (2) Az (1) bekezdés szerinti intézményekben folyó nevelő-oktató munka során – a nevelő-oktató munka pedagógiai szakaszait, követelményrendszerét, az állami vizsgák rendszerét meghatározó rendelkezések kivételével – e törvény rendelkezéseitől el lehet térni.
 
-(3) A működés megkezdéséhez szükséges engedély kiadására vonatkozó eljárásban a kerettanterv jóváhagyásával összefüggő eljárásokban, a pedagógus-továbbképzési programokkal összefüggő eljárásokban, a költségvetési támogatásokkal kapcsolatos első- és másodfokú eljárásokban, valamint a törvényességi és hatósági ellenőrzések során az ügyintézési határidő negyvenöt nap, a tankönyvvé nyilvánítási eljárásoknál három hónap. A nevelési-oktatási programok akkreditálásával összefüggő eljárások esetében az ügyintézési határidő négy hónap.
+(3) A működés megkezdéséhez szükséges engedély kiadására vonatkozó eljárásban a kerettanterv jóváhagyásával összefüggő eljárásokban, a pedagógus-továbbképzési programokkal összefüggő eljárásokban, valamint a törvényességi és hatósági ellenőrzések során az ügyintézési határidő negyvenöt nap, a költségvetési támogatásokkal kapcsolatos első- és másodfokú eljárásokban két hónap, a tankönyvvé nyilvánítási eljárásoknál három hónap. A nevelési-oktatási programok akkreditálásával összefüggő eljárások esetében az ügyintézési határidő négy hónap.
 
 (3a) Az eljáró hatóság az e törvény szerinti hatósági eljárásokat a büntetőeljárás jogerős befejezéséig felfüggeszti, ha az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ, amellyel kapcsolatban büntetőeljárás indult.
+
+(3b) Az egyházi és magánfenntartó – a központi költségvetésről szóló törvényben biztosított – támogatásával kapcsolatos hatósági eljárásokban nem kell meghozni a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntést, valamint a hatóság vezetője az e bekezdés szerinti eljárás ügyintézési határidejét annak letelte előtt indokolt esetben, az indokok megjelölésével egy alkalommal, legfeljebb huszonegy nappal végzésben meghosszabbíthatja.
 
 (4) Köznevelési intézmény tekintetében felügyeleti és irányító szerven a fenntartót, felügyeleten és irányításon a fenntartói jogok és kötelességek gyakorlását, szakmai és gazdasági felügyeleten a szakmai és gazdasági ellenőrzést, nevelési-oktatási intézménynél az illetékességi és működési körön a működési (felvételi) körzetet kell érteni.
 
@@ -2608,7 +2610,7 @@ alapozza meg, azon a gyermek, a tanuló következő felülvizsgálatáig, de leg
 
 (3) E törvény hatálybalépésekor folyamatban lévő 58. § szerinti fegyelmi eljárásokat a Kt. vonatkozó rendelkezései alapján kell befejezni.
 
-(4) E törvény hatálybalépését követően a fenntartó négy hónapon belül felülvizsgálja a közoktatásról szóló 1993. évi LXXIX. törvény 2012. augusztus 31-én hatályos szövege szerinti közoktatási intézmény alapító okiratát, annak érdekében, hogy megfeleljen az e törvényben foglaltaknak, és megküldi a törzskönyvi nyilvántartást vezető szervnek, a hivatalnak vagy a kormányhivatalnak. Ha a közoktatásról szóló 1993. évi LXXIX. törvény alapján a köznevelési intézmény a nyilvántartásba vételét követően megkezdhette működését és e törvény szerint működési engedéllyel kell rendelkeznie, a fenntartó köteles 2013. április 30-ig működési engedély iránti kérelmet benyújtani vagy a közoktatási intézményt megszüntetni.
+(4)
 
 (5) A fejlesztő nevelés, nevelés-oktatás 15. § (2) bekezdés szerinti ellátása 2014. szeptember 1-jétől kötelező. Eddig az időpontig az érintett tanulók részére a fejlesztő iskolai oktatás a Kt. szabályai szerint is megszervezhető. A korai fejlesztés és gondozás, valamint a fejlesztő felkészítés 2013. január 1-jéig bölcsődei gondozás, fogyatékosok ápoló, gondozó otthonában nyújtott gondozás, gyermekotthonban nyújtott gondozás, gyógypedagógiai tanácsadás, korai fejlesztés és gondozás keretében biztosított fejlesztés és gondozás, konduktív pedagógiai ellátás keretében is ellátható.
 
@@ -2616,25 +2618,23 @@ alapozza meg, azon a gyermek, a tanuló következő felülvizsgálatáig, de leg
 
 (7) A 35/A. § szerinti hit- és erkölcstan órát az iskolai nevelés-oktatás első és ötödik évfolyamán, valamint a hat évfolyammal működő gimnáziumban a hetedik évfolyamon 2013. szeptember 1-jétől kezdődően felmenő rendszerben kell megszervezni.
 
-(8) A hivatal a köznevelés-fejlesztési tervet első alkalommal 2013. április 30-ig készíti el.
+(8)
 
 (9) Az állami feladatellátásban közreműködő, a fenntartói jogot gyakorló állami intézményfenntartó központ megjelölését a KIR-ben 2013. március 2-áig át kell vezetni.
 
 (10) Az e törvény hatálybalépésekor működő pedagógiai-szakmai szolgáltatást ellátó intézmények 2013. szeptember 1-jétől feladatukat az oktatásért felelős miniszter szakmai irányításával láthatják el.
 
-(11) E törvény hatálybalépése és 2012. december 31-e között a települési önkormányzati fenntartású köznevelési intézmény vezetőjének megbízására, valamint a megbízás visszavonására vonatkozó jogot a fenntartó gyakorolja.
+(11)
 
 (12) Az e törvény hatálybalépésekor már működő hat vagy nyolc évfolyamos gimnáziumnak a külön jogszabályban meghatározott emelt szintű követelményeknek a 2016/2017. tanév végéig kell megfelelniük.
 
 (13) Az e törvény hatálybalépésekor működő nyelvi előkészítő évfolyamon, továbbá – a nemzetiségi nevelés-oktatás kivételével – a két tanítási nyelvű nevelés-oktatásban a 2016/2017. tanév végéig teljesíteni kell a külön jogszabályban meghatározott feltételeket. A külön jogszabályban meghatározott feltételeket nem teljesítő intézményekben a nyelvi előkészítő évfolyam vagy a két tanítási nyelven folyó oktatás felmenő rendszerben megszűnik.
 
-(14) Az iskola 2013. március 31-ig felülvizsgálja a pedagógiai programját annak érdekében, hogy a kerettantervről szóló jogszabály, valamint e törvény rendelkezéseinek megfeleljen. A szakképző iskola a szakmai programmal, szakképzési kerettantervvel kapcsolatos felülvizsgálatot 2013. május 20-ig végzi el.
-
-(15) A nevelési-oktatási intézmény 2013. március 31-ig felülvizsgálja és módosítja az SZMSZ-ét annak érdekében, hogy megfeleljen az e törvényben és a végrehajtási rendeletben foglaltaknak.
+(14)–(15)
 
 (16) Az a pedagógus, aki e törvény hatálybalépésekor az ötvenkettedik életévét betöltötte, pedagógus-továbbképzésben történő részvételre nem kötelezhető.
 
-(17) A 2012/2013. tanítási év végéig fejlesztőpedagógus-munkakörben foglalkoztatható az is, aki pedagógus-továbbképzés keretében elsajátította a szükséges ismereteket.
+(17)
 
 (18) A 4. melléklet szerinti osztály-, csoportlétszámokat és a 47. § (7) bekezdésében foglaltakat első alkalommal a 2013/2014. tanévtől felmenő rendszerben kell alkalmazni.
 
@@ -2673,16 +2673,14 @@ közalkalmazott illetménye, munkavállaló munkabére a 65. § (9a) bekezdésé
 
 (24) A 74. § (4)–(6) bekezdését 2013. január 1-jétől kell alkalmazni azzal, hogy
 
-- a) a települési önkormányzat – a 76. § (4) bekezdésében foglaltaktól eltérően – első alkalommal 2012. november 15-ig nyújthatja be
-  - aa) a 74. § (5) bekezdése szerinti kérelmet, amennyiben 2013. január 1-jétől a működtetést az államtól képes átvállalni, vagy
-  - ab) a 74. (4) bekezdése szerinti kérelmet, amennyiben 2013. január 1-jétől a működtetést nem képes vállalni,
+- a)
 - b) a 74. § (4) és (5) bekezdése alkalmazásában a települési önkormányzat saját tulajdonában álló vagyonnak minősül az a vagyon is, amely a települési önkormányzat illetékességi területén van és 2012. szeptember 30-án intézményi társulás vagy többcélú kistérségi társulás tulajdonában volt.
 
 (25) A 44. § (6) bekezdés szerinti elektronikus kapcsolat létrejöttéig, de legkésőbb 2012. december 31-ig a köznevelési intézmény vezetője köteles a gyermek, tanuló, az óraadó és az alkalmazott személyes adatainak megváltozását a KIR adatkezelőjének – a tudomásszerzéstől számított öt napon belül – bejelenteni.
 
 (26) A 21. § (2) bekezdésben előírt, a nem állami szerv által alapított intézmények nyilvántartásba vételére vonatkozó feltételeket azon nevelési-oktatási intézmények esetében kell alkalmazni, amelyek működésüket 2013. szeptember 1-je után kezdik meg.
 
-(27) Amennyiben a 73. § (3) bekezdése szerinti intézményi tanács nem jött létre, a 73. § (4) bekezdése szerinti intézményi tanács alakuló ülését az érintett iskola intézményvezetője a nemzeti köznevelésről szóló 2011. évi CXC. törvény módosításáról szóló 2013. évi CXXXVII. törvény hatálybalépését követő negyvenöt napon belül hívja össze.
+(27)
 
 (28) Az értelmi fogyatékos tanulók képességét fejlesztő szakiskola a 13. § (6) bekezdése szerinti előkészítő szakiskolai kilencedik évfolyamot utoljára a 2013/2014. tanévben, tizedik évfolyamot utoljára a 2014/2015. tanévben indíthat.
 
@@ -2717,7 +2715,7 @@ közalkalmazott illetménye, munkavállaló munkabére a 65. § (9a) bekezdésé
 
 (12) Az anyanyelvi tanárt küldő állam, vagy az államközi megállapodás alapján nevesített közvetítő szervezet köteles igazolást kiállítani arról, hogy az anyanyelvi tanár a küldő országban, az alap- és középfokú oktatásban pedagógus-munkakör betöltésére jogosító felsőfokú oklevéllel rendelkezik.
 
-(13) Azokban a kollégiumokban, ahol a 2011/2012. tanítási év végéig nem döntöttek a pedagógiai felügyelői státusz bevezetéséről, a 2012/2013. tanévben a Kt. 129. § (7) bekezdése alkalmazandó a kollégiumi nevelők heti kötelező óraszámára.
+(13)
 
 (14) Ha a tantárgy vagy a tantárgyi modul vonatkozásában nincs megfelelő hazai felsőfokú képzés, vagy megfelelő végzettségű és szakképzettségű pedagógussal nem tudják ellátni a feladatot, az iskolában az adott tantárgy, tantárgyi modul tanítására határozatlan időre alkalmazható, valamint az adott tantárgy, tantárgyi modul vonatkozásában az érettségin vizsgáztató tanár lehet az is, aki a Nemzeti alaptantervben az adott pedagógiai szakaszban az érintett műveltségi terület, több műveltségi terület vagy tantárgyi tartalom összevonásával kialakított komplex tantárgy vagy tantárgyi modul esetében az adott komplex tantárgyba, tantárgyi modulba bevont bármely műveltségi terület, tantárgy tanítására feljogosító szakos tanári végzettséggel és szakképzettséggel rendelkezik, valamint
 
@@ -2761,9 +2759,9 @@ közalkalmazott illetménye, munkavállaló munkabére a 65. § (9a) bekezdésé
 - a) a nyugdíjjogosultság eléréséhez szükséges korhatárig tíz évnél kevesebb ideje van, legfeljebb a nyugdíjkorhatár eléréséig változatlan munkakörben tovább foglalkoztatható;
 - b) a nyugdíjjogosultság eléréséhez szükséges korhatárig tíz évnél több ideje van, e törvény hatálybalépésének napjától számított öt év után csak akkor foglalkoztatható tovább pedagógus-munkakörben, ha tanulmányait a felsőfokú pedagógus-szakképzettséget nyújtó oktatásban megkezdte.
 
-(11) A Kt. alapján létrehozott Országos Köznevelési Tanács, valamint tagjainak megbízatása 2013. szeptember 1-jén megszűnik.
+(11)
 
-(12) 2012. szeptember 3-án jogutód nélkül megszűnik az Országos Diákjogi Tanács, Országos Szülői Érdek-képviseleti Tanács.
+(12)
 
 (13) Ha a munkakör megfelelő végzettséggel és szakképzettséggel rendelkezővel nem tölthető be, óvodapszichológusként, iskolapszichológusként ötéves határozott időre alkalmazható az is, aki pszichológus végzettséggel és szakképzettséggel rendelkezik, de nem rendelkezik a szükséges pedagógus vagy szakpszichológus szakképzettséggel vagy szakiránnyal, feltéve, hogy öt éven belül vállalja a munkakör betöltéséhez szükséges szakképzettség, szakvizsga megszerzését.
 
@@ -2771,27 +2769,7 @@ közalkalmazott illetménye, munkavállaló munkabére a 65. § (9a) bekezdésé
 
 99/A. § A 78. § (2a) bekezdésében meghatározott feladat végrehajtásában a jogszabályban történő kijelölés esetén az állami intézményfenntartó központ részt vehet. Az e kijelölés alapján eljáró állami intézményfenntartó központ a költségvetésében e célra rendelkezésre álló előirányzat terhére támogatást nyújt.
 
-99/B. § (1) A Kar Területi Küldöttgyűlése tagjainak megválasztásával, az Országos Küldöttgyűlés alakuló ülésének előkészítésével és lebonyolításával, továbbá a Kar tisztségviselőinek és bizottságainak megválasztásával összefüggő feladatok ellátására háromtagú Előkészítő Bizottság alakul, amelynek tagjait és elnökét az oktatásért felelős miniszter jelöli ki.
-
-(2) 2014. április 30-ig a Kar Országos Küldöttgyűlése alakuló ülést tart, amelynek összehívásáról az oktatásért felelős miniszter gondoskodik. Az Országos Küldöttgyűlés alakuló ülésén dönt a Kar Alapszabályának elfogadásáról, megválasztja a Kar képviseleti és ügyintéző szerveit.
-
-(3) A Kar területi szervei tisztségviselőinek és bizottságainak megválasztását az Országos Küldöttgyűlés alakuló ülését követő három hónapon belül kell megtartani.
-
-(4) Az Előkészítő Bizottság az alakuló ülését 2013. szeptember 30-ig tartja meg. Az Előkészítő Bizottság ügyrend alapján működik.
-
-(5) Az Előkészítő Bizottság az Országos Küldöttgyűlés megalakulásáig működik.
-
-(6) Az Előkészítő Bizottság feladatai:
-
-- a) elkészíti az Ideiglenes Választási Szabályzatot,
-- b) az Ideiglenes Választási Szabályzat szerint előkészíti és lebonyolítja az Országos Küldöttgyűlés tagjainak megválasztását,
-- c) javaslatot tesz az Alapszabályra.
-
-(7) Az Előkészítő Bizottság által elkészített Ideiglenes Választási Szabályzat a Területi Küldöttgyűlés tisztségviselőinek és bizottságainak megválasztását követő 60. napon hatályát veszti.
-
-(8) A Kar megalakulásával kapcsolatos költségeket az Emberi Erőforrások Minisztériuma fejezeti kezelésű előirányzata tartalmazza.
-
-(9) A 2013. szeptember 1-jén állami, önkormányzati fenntartású köznevelési intézményben pedagógus-munkakörben közalkalmazotti jogviszonyban foglalkoztatott a Kar tagjává válik. A munkáltató a pedagógus-munkakörben közalkalmazotti jogviszonyban foglalkoztatott alkalmazottairól 2013. november 30-ig értesítést küld az Előkészítő Bizottságnak.
+99/B. § (1)–(9)
 
 (10) A Kar 2014-ben megválasztott tisztségviselőinek megbízatása két évre szól, és további két teljes ciklusra megválaszthatók.
 

@@ -3617,15 +3617,13 @@ céljából lehet külföldre, illetve külföldről Magyarország területére 
 
 (3) Az a személy, aki a működési nyilvántartásban az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi LXXXI. törvény (a továbbiakban: Tv.) hatálybalépését megelőző napon szereplő nevétől eltérő, e törvény szerinti nevet kíván használni az egészségügyi tevékenység gyakorlása során, a Tv. hatálybalépésétől számított 60 napon belül értesítenie kell a használni kívánt névről a működési nyilvántartást vezető szervet.
 
-(4) A Tv.-nyel megállapított 35. § (5) bekezdésében foglaltakat 2012. január 1-jétől kell alkalmazni.
-
-(5) A felsőoktatási intézmények az egészségügyi felsőfokú szakirányú szakképzést az egészségügyi felsőfokú szakirányú szakképzésben részt vevők számára szervezett központi gyakornoki rendszerről szóló 125/1999. (VIII. 6.) Korm. rendelet (a továbbiakban: R.) alapján megkezdőkre vonatkozó 116/A. § (5) bekezdés szerinti adatokat 2011. szeptember 30-ig elektronikus úton megküldik az egészségügyi államigazgatási szerv részére.
+(4)–(5)
 
 (6) Az R. szerinti, a szakképzéssel összefüggő támogatások folyósításának feltétele, hogy a felsőoktatási intézmények – a (4) bekezdés szerinti időpontot követően – havonta elektronikus úton tájékoztatást adjanak az egészségügyi államigazgatási szervnek a szakorvosjelöltnek a 116/A. § (5) bekezdés d) pontja szerinti adatairól.
 
 (7) A felsőoktatási intézmény az R. rendelkezései szerint a szakképzésben szakgyakorlati idejüket töltő személyeknek a szakképzésben történő részvételéről vagy a szakképzés szüneteltetésének tényéről minden év június 30-ig és december 31-ig elektronikus úton tájékoztatja az egészségügyi államigazgatási szervet.
 
-(8) Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2013. évi CCXLIV. törvénnyel megállapított 156. § (4) bekezdése szerinti kórházi felügyelő tanácsot 2014. február 28-ig kell kialakítani.
+(8)
 
 (9)
 
@@ -3633,9 +3631,7 @@ céljából lehet külföldre, illetve külföldről Magyarország területére 
 
 (11)
 
-244/B. § (1) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi CLXXVI. törvénnyel (a továbbiakban: Módosító tv.) megállapított 146. § (1) bekezdésében meghatározott térségi egészségügyi fejlesztési programot 2012. december 31-éig kell elkészíteni.
-
-(2) A Módosító tv.-nyel megállapított 148. § (1) bekezdés szerint létrehozásra kerülő Térségi Egészségügyi Tanácsot 2012. május 1-jétől kell működtetni.
+244/B. §
 
 244/C. § Az e törvény alapján lefolytatott eljárásokban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
 

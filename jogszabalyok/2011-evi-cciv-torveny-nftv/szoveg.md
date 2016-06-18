@@ -809,7 +809,7 @@ esélyegyenlőségét az a)–d) pontban meghatározott hallgatói csoportok tek
 - b) a jelentkező a jelentkezési kérelmét visszavonta,
 - c) a jelentkező meghalt,
 - d) az eljárás folytatására okot adó körülmény már nem áll fenn,
-- e) a jelentkező a díjfizetési kötelezettségének részben vagy egészben az erre irányuló felhívás ellenére az erre tűzött határidő alatt nem tesz eleget,
+- e)
 - f) a jelentkező a hiánypótlásra való felhívásnak nem tesz eleget.
 
 (2) A jelentkezési kérelmet érdemi vizsgálat nélkül el kell utasítani, ha
@@ -2510,7 +2510,7 @@ rendeletben jelölje ki.
 
 (2) A felsőoktatásról szóló 2005. évi CXXXIX. törvény (a továbbiakban: 2005. évi felsőoktatási törvény) alapján megkezdett képzéseket – folyamatos képzésben – változatlan szakmai követelmények, és vizsgarend keretében, változatlan oklevél kiadásával, bizonyítvány kiállításával kell befejezni. A 2005. évi felsőoktatási törvény alapján a felsőoktatási információs rendszer keretében nyilvántartott személyes adatokat – ha e törvény eltérően nem rendelkezik – a felsőoktatási információs rendszer működtetéséért felelős szerv a 2005. évi felsőoktatási törvény 35. § (4) bekezdésében meghatározott határidőig jogosult kezelni.
 
-(3) E törvény 67. § (5) bekezdésében foglaltakat a 2010. január 1-jén már folyamatban lévő székhelyen kívüli alap- és mesterképzések tekintetében olyan módon kell alkalmazni, hogy a képzésre felvett hallgatók a felsőoktatási intézményben tanulmányaikat változatlan feltételek mellett fejezhetik be, a székhelyen kívüli képzésre új hallgató azonban már nem vehető fel.
+(3)
 
 (4)–(5)
 
@@ -2551,7 +2551,7 @@ e törvény szerint kell megállapítani a hallgatói juttatásokat.
 
 (3) E törvénynek a 2012. évi CCVIII. törvénnyel megállapított 46. § (3) bekezdését és 48/C. § (2) bekezdését a 2013 szeptemberében első évfolyamon induló alap-, osztatlan, illetve mesterképzésre, felsőoktatási szakképzésre, szakirányú továbbképzésre, valamint az azt követő évfolyamokra felvett hallgatók tekintetében kell alkalmazni.
 
-114/B. § (1) E törvénynek a 2012. évi CCVIII. törvénnyel megállapított 73. § (3) bekezdés h) pontját a felsőoktatási intézmény által 2013. január 1-jét megelőzően saját hatáskörben alapított és adományozott címek, elismerések tekintetében is alkalmazni kell. Fenntartói hozzájárulás hiányában 2013. január 1-jét követően – a felsőoktatási intézmény által saját hatáskörben alapított, adományozott címre elismerésre tekintettel – rendszeres pénzjuttatás nem folyósítható.
+114/B. § (1)
 
 (2)
 
@@ -2583,10 +2583,7 @@ e törvény szerint kell megállapítani a hallgatói juttatásokat.
   - be) első kiegészítő alapképzésben vesz részt, hat féléven keresztül;
 - c) bármely szakon költségtérítéses képzésből az intézmény döntése alapján, az intézménynél már meglévő államilag finanszírozott helyre átvett hallgató a kilépett hallgató képzési idejéből még hátralévő időtartamban.
 
-114/E. § A 28. § (5) bekezdés által meghatározott habilitációs követelményt 2015. december 31-ét követően
-
-- a) a 29. § (1) bekezdés szerint meghirdetett pályázat alapján betöltött egyetemi tanári munkakör, továbbá
-- b) a 64. § (7) bekezdés szerint kezdeményezett egyetemi tanári kinevezés tekintetében kell alkalmazni.
+#### 114/E. §
 
 114/F. § E törvénynek – az egyes oktatási tárgyú törvények módosításáról szóló 2014. évi XXXVI. törvénnyel megállapított – 108. § 9–10. pontjában foglaltakat első alkalommal a 2015/2016. tanévre történő felsőoktatási jelentkezéssel kapcsolatos általános felvételi eljárásban, illetve az azt követően megkezdett felsőoktatási tanulmányokat folytató hallgatóra kell alkalmazni, azzal, hogy a 2015/2016. tanévre történő felsőoktatási jelentkezéssel kapcsolatos általános felvételi eljárás befejezéséig a jelentkező, illetve sikeres felvételi vizsga esetén a 2015. szeptemberében első évfolyamon tanulmányokat megkezdő hallgató, valamint a 2015. augusztus 31-én már hallgatói jogviszonnyal rendelkező hallgató legfeljebb az adott szak képzési és kimeneti követelményeiben meghatározott képzési idő alatt a 2014. június 30-án hatályos rendelkezések szerint is minősülhet hátrányos helyzetűnek, halmozottan hátrányos helyzetűnek.
 
@@ -2596,7 +2593,7 @@ e törvény szerint kell megállapítani a hallgatói juttatásokat.
 
 (2) Az oktatási hivatal
 
-- a) a 2010. január 1-jén már nyilvántartásba vett felsőoktatási intézményt – ha az nem kapott működési engedélyt – 2015. január 1-jén törli a nyilvántartásából,
+- a)
 - b) a 2010. január 2-án kezdődő és e törvény hatálybalépésének időpontjával záródó időszakban nyilvántartásba vett felsőoktatási intézményt – ha az nem kapott működési engedélyt – a nyilvántartásba vétel időpontjától számított öt év elteltét követően – de legkésőbb 2017. szeptember 1-jén – törli a nyilvántartásából,
 - c)
 
@@ -2614,9 +2611,9 @@ e törvény szerint kell megállapítani a hallgatói juttatásokat.
 
 (4e)
 
-(5) A (4) bekezdésben foglaltak teljesítése céljából a felsőoktatási intézmény önállóan vagy más felsőoktatási intézménnyel, illetve felsőoktatási intézmény alapítására jogosulttal együttműködve új négyéves intézményfejlesztési tervet fogad el Az intézmény a tervben javaslatot tehet a fenntartónak a felsőoktatási tevékenység más intézményi keretek között történő folytatására is. Az előkészítésbe a fenntartó képviselőjét be kell vonni. Az intézményfejlesztési tervet legkésőbb 2012. június 30-ig meg kell küldeni a fenntartó részére.
+(5)
 
-(6) A 13. § (5) bekezdésében foglalt megbízási követelményeket a 2013. szeptember 1-je után kiírt pályázatokra kell alkalmazni.
+(6)
 
 (7) A 2005. évi felsőoktatási törvény szerint nemzetközi jogállású felsőoktatási intézményként működő intézmények működési engedélyét az oktatási hivatal 2017. szeptember 1-jéig köteles felülvizsgálni, módosítani, illetve az e törvénynek megfelelő működési feltételek teljesülése hiányában a miniszternél kezdeményezni az állami elismerés visszavonását.
 
@@ -2646,7 +2643,7 @@ e törvény szerint kell megállapítani a hallgatói juttatásokat.
 
 (2) E törvénynek – az egyes, a felsőoktatás szabályozására vonatkozó törvények módosításáról szóló 2015. évi CXXXI. törvénnyel megállapított – 9. § (3a) bekezdésére tekintettel az oktatási hivatal 2017. szeptember 1-jéig jelentést készít az oktatásért felelős miniszter számára, hogy az 1. melléklet szerinti főiskolák közül melyek felelnek meg az alkalmazott tudományok egyetemére előírt feltételeknek.
 
-(3) A konzisztórium tagjainak megbízásáig e törvénynek – az egyes, a felsőoktatás szabályozására vonatkozó törvények módosításáról szóló 2015. évi CXXXI. törvénnyel megállapított – 13/A. § (2) bekezdés b) pontját és 13/B–13/D. §-át nem kell alkalmazni.
+(3)
 
 (4) E törvénynek – az egyes, a felsőoktatás szabályozására vonatkozó törvények módosításáról szóló 2015. évi CXXXI. törvénnyel megállapított – 15. § (4) bekezdését és 52. § (6) bekezdését olyan módon kell alkalmazni, hogy 2016. augusztus 31. után „Legum Magister” vagy „Master of Laws” (rövidítve: LL.M) címre jogosító mesterképzésre épülő mesterszakra hallgató nem vehető fel, a korábban mesterképzésre épülő mesterszakon kiadott oklevél által tanúsított végzettség és szakképzettség, valamint LL.M. cím az oklevél jogosultja által a továbbiakban is használható. A 2016. augusztus 31. előtt megkezdett LL.M. címre jogosító mesterképzésre épülő mesterképzések a 2015. augusztus 31-én hatályos rendelkezések szerint legfeljebb 2017. augusztus 31-ig fejezhetők be.
 
@@ -2682,11 +2679,7 @@ e törvény szerint kell megállapítani a hallgatói juttatásokat.
 
 (8)
 
-117/A. § (1) A kancellár megbízásáig a nemzeti felsőoktatásról szóló törvény 2014. június 30-án hatályos rendelkezéseit kell alkalmazni az állami felsőoktatási intézményben. A kancellár megbízásával egyidejűleg az igazgatási feladatot ellátó hivatal vezetőjének a magasabb vezetői megbízása vezetői megbízássá alakul át. A kancellár megbízását követő huszadik munkanapon a gazdasági főigazgató magasabb vezetői megbízása megszűnik.
-
-(2) A gazdasági főigazgató legkésőbb a vezetői megbízása megszűnésének napján jegyzőkönyv felvétele mellett személyesen adja át munkakörét, feladat- és hatáskörének gyakorlását, továbbá az általa vezetett szervezeti egységet a kancellárnak vagy a kancellár által meghatalmazott személynek (a továbbiakban: átvevő). A jegyzőkönyv tartalmát, az átadás időpontját, valamint módját az átvevő határozza meg. A jegyzőkönyvben a gazdasági főigazgató teljes körű személyi felelősséget vállal az általa tett nyilatkozatok és az átadott, ismertetett adatok, információk, tények, okiratok, dokumentumok valóságtartalmáért, teljeskörűségéért.
-
-(3) A kancellár a megbízását követő hatvan napon belül köteles javaslatot tenni a felsőoktatási intézmény szervezeti és működési szabályzatának a módosítására. A szervezeti és működési szabályzat módosítását a szenátus húsz napon belül köteles megtárgyalni. A kancellár a megbízását követő százhúsz napon belül áttekinti a felsőoktatási intézményben adott vezetői, magasabb vezetői megbízásokat, és a változó szervezeti és működési rend kialakítása céljából, az átszervezésre tekintettel a 13/A. § (2) bekezdés e) pontja szerinti körben jogosult döntést hozni a vezetői, magasabb vezetői megbízások visszavonásáról, fenntartásáról.
+117/A. § (1)–(3)
 
 (4) E törvénynek – az egyes oktatási tárgyú törvények módosításáról szóló 2014. évi XXXVI. törvénnyel megállapított – 37. § (3) bekezdését az egyes oktatási tárgyú törvények módosításáról szóló 2014. évi XXXVI. törvény hatálybalépését követően adott magasabb vezetői megbízások tekintetében kell alkalmazni.
 

@@ -646,9 +646,9 @@ foglalkoztatás lehetőségéről.
 
 (4) A (3) bekezdés szerinti védelem alkalmazása szempontjából a felmondás közlésének, csoportos létszámcsökkentés esetén a 75. § (1) bekezdés szerinti tájékoztatás közlésének időpontja az irányadó.
 
-(5) A (3) bekezdés a) és e) pontban meghatározott körülményre a munkavállaló csak akkor hivatkozhat, ha erről a munkáltatót tájékoztatta.
+(5) A munkavállaló a (3) bekezdés a) és e) pontjában meghatározott körülményre akkor hivatkozhat, ha erről a munkáltatót tájékoztatta. A felmondás közlését követő munkavállalói tájékoztatástól számított tizenöt napon belül a munkáltató a felmondást írásban visszavonhatja.
 
-(6) A (3) bekezdés c) pontban meghatározott védelem az anyát illeti meg, ha a fizetés nélküli szabadságot mindkét szülő igénybe veszi.
+(6) A felmondás visszavonása esetén a 83. § (2)–(4) bekezdését kell alkalmazni.
 
 66. § (1) A munkáltató felmondását köteles megindokolni.
 
@@ -1125,7 +1125,7 @@ foglalkoztatott munkavállaló számára osztható be.
 
 (2) Az (1) bekezdés a) pont tekintetében a 102. § (3) bekezdése megfelelően irányadó.
 
-(3) Ha a készenléti jellegű munkakörben foglalkoztatott munkavállaló részére vasárnapra rendes munkaidőt osztottak be, számára a közvetlenül megelőző szombatra rendes munkaidő nem osztható be.
+(3)
 
 102. § (1) Munkaszüneti nap: január 1., március 15., húsvéthétfő, május 1., pünkösdhétfő, augusztus 20., október 23., november 1. és december 25–26.
 
@@ -1555,7 +1555,7 @@ kell osztani.
 
 - a) ha a munkavállaló a rendes munkaidőben történő munkavégzésre kizárólag a 101. § (1) bekezdés d), e) vagy i) pontban meghatározott feltételek alapján kötelezhető, továbbá
 - b) a rendkívüli munkaidőre
-  - ba) a 101. § (1) bekezdés d), e) vagy i) pontban meghatározott munkavállalónak,
+  - ba) az a) pontban meghatározott munkavállalónak,
   - bb) ha a munkavállaló a 101. § (1) bekezdés alapján rendes munkaidőben történő munkavégzésre nem kötelezhető.
 
 (2) A munkavállalót munkaszüneti napon történő munkavégzés esetén száz százalék bérpótlék illeti meg.
@@ -2155,15 +2155,14 @@ meghatározott szabályaitól nem térhet el.
 
 (2) Munkaszerződés a vezetőre vonatkozó rendelkezések alkalmazását írhatja elő, ha a munkavállaló a munkáltató működése szempontjából kiemelkedő jelentőségű vagy fokozottan bizalmi jellegű munkakört tölt be és alapbére eléri a kötelező legkisebb munkabér [153. § (1) bekezdés a) pont] hétszeresét.
 
-209. § (1) A vezető munkaszerződése e törvény Második Részében foglalt rendelkezésektől – a (2) bekezdés kivételével – eltérhet.
+209. § (1) A vezető munkaszerződése e törvény Második Részében foglalt rendelkezésektől – a (2) és (3) bekezdésben meghatározott kivétellel – eltérhet.
 
 (2) A vezető munkaszerződése
 
 - a) az 55. § (1) bekezdés b), c) és e) pontjában,
-- b) 65. § (3) bekezdés a), b) és e) pontjában,
-- c) a 113. § (3) bekezdésében,
-- d) a 127. §-ban, valamint
-- e) a (3) bekezdésben
+- b) a 65. § (3) bekezdés a), b) és e) pontjában,
+- c) a 113. § (3) bekezdésében, valamint
+- d) a 127. §-ban és a 128. §-ban
 
 foglaltaktól nem térhet el.
 
@@ -3135,7 +3134,23 @@ tekintetében a magyar jog szabályait kell alkalmazni, ideértve a munkaviszony
 
 (2) A szerződés alapján az áru első összeszerelését vagy beszerelését végző, a szolgáltató által kiküldött munkavállalóra, a fizetett éves szabadság legalacsonyabb mértéke és a legalacsonyabb munkabér összege tekintetében nem kell alkalmazni a 295. § (1) bekezdés b)–c) pontban foglalt rendelkezéseket, ha a magyarországi munkavégzés időtartama nem haladja meg a nyolc napot, kivéve, ha a 295. § (4) bekezdésében meghatározott tevékenység végzésére kerül sor.
 
-297. § A szolgáltatás nyújtására irányuló szerződés megkötését megelőzően a jogosult köteles írásban tájékoztatni a külföldi munkáltatót a 295. §-ban foglaltak alapján irányadó munkafeltételekről. A tájékoztatás elmulasztása esetén a jogosult készfizető kezesként felel a munkavállaló 295. §-ban meghatározott követeléseiért.
+297. § (1) A szolgáltatás nyújtására irányuló szerződés megkötését megelőzően a jogosult köteles írásban tájékoztatni a külföldi munkáltatót a 295. §-ban foglaltak alapján irányadó munkafeltételekről. A tájékoztatás elmulasztása esetén a jogosult készfizető kezesként felel a munkavállaló 295. §-ban meghatározott követeléseiért.
+
+(2) Ha a jogosult tudott vagy kellő gondosság mellett tudnia kellett arról, hogy a külföldi munkáltató munkabér és járulékfizetési kötelezettségének a munkavállaló foglalkoztatása során nem tett eleget, a külföldi munkáltatóval egyetemlegesen felel a külföldi munkáltatót terhelő munkabér és járulékai megfizetéséért.
+
+(3) A jogosult köteles – a 295. § rendelkezéseiben foglaltak ellenőrizhetősége érdekében – gondoskodni arról, hogy a kiküldött munkavállalók
+
+- a) munkaszerződése vagy azzal egyenértékű egyéb okirata,
+- b) munkaidő-nyilvántartása, valamint
+- c) a munkabér kifizetésére vonatkozó iratainak papíralapú vagy elektronikus másolata
+
+a kiküldetés teljes időtartama alatt a munkavégzés helyén, valamint annak befejezését követő 3 évig a munkáltató székhelyén vagy telephelyén hozzáférhető és ellenőrizhető legyen.
+
+(4) A külföldi munkáltató a kijelölt hatóságként eljáró munkaügyi hatósággal való kapcsolattartásért, valamint a (3) bekezdés szerinti dokumentumok küldéséért és átvételéért felelős személyt jelöl ki. A külföldi munkáltató a megbízott személyéről, valamint a megbízott személyében bekövetkezett változásról haladéktalanul tájékoztatja a munkaügyi hatóságot.
+
+(5) A külföldi munkáltató – ha az nem azonos a (4) bekezdés szerinti megbízottal – olyan kapcsolattartó személyt jelöl ki, akin keresztül a szociális partnerek kollektív tárgyalások folytatása céljából, a szolgáltatásnyújtás ideje alatt a szolgáltatóval kapcsolatba léphetnek.
+
+(6) Ha az (5) bekezdés alapján kijelölt személy nem tartózkodik állandó jelleggel Magyarországon, csak olyan személy jelölhető ki megbízottként, aki ésszerű és indokolt kérés esetén rendelkezésre áll.
 
 298. § (1) E törvény – a (2) bekezdés szerinti kivétellel – 2012. július 1. napján lép hatályba.
 
@@ -3174,4 +3189,5 @@ tekintetében a magyar jog szabályait kell alkalmazni, ideértve a munkaviszony
 - j) a Tanács 2001/23/EK irányelve (2001. március 12.) a munkavállalók jogainak a vállalkozások, üzletek vagy ezek részeinek átruházása esetén történő védelmére vonatkozó tagállami jogszabályok közelítéséről,
 - k) az Európai Parlament és a Tanács 2002/14/EK irányelve (2002. március 11.) az Európai Közösség munkavállalóinak tájékoztatása és a velük folytatott konzultáció általános keretének létrehozásáról,
 - l) az Európai Parlament és a Tanács 2003/88/EK irányelve (2003. november 4.) a munkaidő-szervezés egyes szempontjairól,
-- m) az Európai Parlament és Tanács 2008/104/EK irányelve (2008. november 19.) a munkaerő-kölcsönzés egyes szabályairól.
+- m) az Európai Parlament és Tanács 2008/104/EK irányelve (2008. november 19.) a munkaerő-kölcsönzés egyes szabályairól,
+- n) az Európai Parlament és Tanács 2014/67/EU irányelve (2014. május 15.) a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló 96/71/EK irányelv érvényesítéséről és a belső piaci információs rendszer keretében történő igazgatási együttműködésről szóló 1024/2012/EU rendelet (az IMI-rendelet) módosításáról,
