@@ -127,6 +127,16 @@ a csere birtok-összevonási célú földcserének minősül.
 
 18. § Az elővásárlásra jogosulttól származó elfogadó jognyilatkozatnak a jogosult adatai tekintetében a 13. § (1)–(2) bekezdésében foglaltakat kell tartalmaznia.
 
+18/A. § (1) Ha a tulajdonszerzés célja a Földforgalmi törvény 18. § (2) bekezdés b) pontja szerinti ökológiai gazdálkodás folytatása, igazolni kell, hogy az elővásárlásra jogosult termelőként az ökológiai termelésre utaló kifejezés használatára jogosító ökológiai gazdálkodói tanúsítvánnyal rendelkezik.
+
+(2) A Földforgalmi törvény 18. § (2) bekezdés b) pontja alapján tett, az adás-vételi szerződésre vonatkozó elfogadó nyilatkozat akkor vehető figyelembe, ha az elővásárlási joggal érintett földön nem áll fenn a föld használatát harmadik személy számára az adás-vételi szerződés megkötését követő legalább három évre biztosító földhasználati jogviszony.
+
+(3) A Földforgalmi törvény 18. § (2) bekezdés b) pontja szerinti ökológiai gazdálkodási célú elővásárlási jog gyakorlása során az elővásárlási jog jogosultjának az adás-vételi szerződésben vagy az elfogadó nyilatkozatban a jogutódra is kiterjedő hatállyal kötelezettséget kell vállalnia arra, hogy az elővásárlási joggal érintett föld teljes területét az azon fennálló földhasználati jogviszonynak a nyilatkozat megtételének napján hatályos időtartamát követően, de legfeljebb a tulajdonjog megszerzésétől számított 3 éven belül birtokba veszi, továbbá a birtokba lépéstől számított tíz évig – ideértve az átállási időszakot is – az elővásárlási joggal érintett föld teljes területén a Földforgalmi törvény 13. § (1) bekezdése vagy (2) bekezdésének a) pontja szerint ökológiai gazdálkodást fog folytatni.
+
+(4) A földet a Földforgalmi törvény 18. § (2) bekezdés b) pontja szerinti ökológiai gazdálkodási célú elővásárlási jog gyakorlásával megszerző személynek a föld birtokba vételét követően az átállási idő lejárta után a mezőgazdasági igazgatási szerv felé igazolnia kell, hogy a teljes terület vonatkozásában az ökológiai termelésre utaló kifejezés használatára jogosító termelői ökológiai gazdálkodói tanúsítvánnyal rendelkezik.
+
+(5) Az (1)–(3) bekezdésben foglalt feltételek fennállását a mezőgazdasági igazgatási szerv a Földforgalmi törvény 23. §-a szerinti eljárásban vizsgálja.
+
 19. § A Földforgalmi törvény 19. § (5) bekezdésében meghatározott esetben az elővásárlásra jogosult az adás-vételi szerződést csak teljes egészében fogadhatja el. E rendelkezés alkalmazása során az elővásárlásra jogosultak sorrendjére a Földforgalmi törvény 18–19. §-át úgy kell alkalmazni, mintha az elfogadó nyilatkozatot tevő elővásárlásra jogosult elővásárlási jogát megalapozó körülmény az adásvételi szerződésben szereplő földek egésze tekintetében állna fenn. Ha a jogosult kizárólag arra a földre vonatkozóan tesz elfogadó jognyilatkozatot, amelyre az elővásárlási joga fennáll, nyilatkozata új ajánlatnak minősül.
 
 20. § A Földforgalmi törvény 21. § (3) bekezdése alkalmazásában az elfogadó jognyilatkozat személyes átadásának kötelezettsége alól – a földalapkezelő szervezet mellett – az államot megillető elővásárlási jog esetén e jog gyakorlására jogosult más szervezet vagy személy, illetve az önkormányzat is mentesül.
@@ -400,6 +410,14 @@ kell érteni.
 #### 14. Az előhaszonbérleti jog gyakorlása
 
 55. § Az előhaszonbérletre jogosulttól származó elfogadó jognyilatkozatnak a jogosult adatai tekintetében a 13. § (1) bekezdésében foglaltakat kell tartalmaznia.
+
+55/A. § (1) Ha a haszonbérlet célja a Földforgalmi törvény 46. § (3) bekezdés b) pontja szerinti ökológiai gazdálkodás folytatása, igazolni kell, hogy az előhaszonbérletre jogosult gazdaság termelőként az ökológiai termelésre utaló kifejezés használatára jogosító ökológiai gazdálkodói tanúsítvánnyal rendelkezik.
+
+(2) A Földforgalmi törvény 46. § (3) bekezdés b) pontja szerinti ökológiai gazdálkodási célú előhaszonbérleti jog gyakorlása során az előhaszonbérleti jog jogosultjának a szerződésben vagy az elfogadó nyilatkozatban a jogutódra is kiterjedő hatállyal kötelezettséget kell vállalnia arra, hogy a haszonbérlet időtartama alatt az előhaszonbérleti joggal érintett föld teljes területén ökológiai gazdálkodást fog folytatni.
+
+(3) A Földforgalmi törvény 46. § (3) bekezdés b) pontja szerinti ökológiai gazdálkodási célú előhaszonbérleti jog gyakorlásával megszerzett föld használója a föld birtokba vételét követően az átállási idő lejárta után a mezőgazdasági igazgatási szerv felé igazolja, hogy a teljes terület vonatkozásában termelői ökológiai gazdálkodói tanúsítvánnyal rendelkezik.
+
+(4) Az (1) és (2) bekezdésben meghatározott feltételek fennállását a mezőgazdasági igazgatási szerv a Földforgalmi törvény 51. §-a szerinti eljárásban vizsgálja.
 
 56. § A Földforgalmi törvény 47. § (5) bekezdésében meghatározott esetben az előhaszonbérletre jogosult a haszonbérleti szerződést csak teljes egészében fogadhatja el. E bekezdés alkalmazása során az előhaszonbérletre jogosultak sorrendjére a Földforgalmi törvény 45–47. §-át úgy kell alkalmazni, mintha az elfogadó nyilatkozatot tevő előhaszonbérletre jogosult előhaszonbérleti jogát megalapozó körülmény a haszonbérleti szerződésben szereplő földek egésze tekintetében állna fenn. Ha a jogosult kizárólag arra a földre vonatkozóan tesz elfogadó jognyilatkozatot, amelyre az előhaszonbérleti joga fennáll, nyilatkozata új ajánlatnak minősül.
 
@@ -969,6 +987,11 @@ szolgáltat.
 
 103/C. § Ha a jegyző arról értesíti a fővárosi és megyei kormányhivatalt, hogy a 103/B. § (4) bekezdése szerinti felhívásban megszabott határidő eredménytelenül járt le, a fővárosi és megyei kormányhivatal felhívja a mezőgazdasági igazgatási szervet, hogy a 103. § (1) bekezdése szerint járjon el.
 
+103/D. § A képviselő-testület határozatának bírósági felülvizsgálata során a Pp. XX. fejezetének rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy
+
+- a) a perben a döntést hozó képviselő-testület székhelye szerint illetékes közigazgatási és munkaügyi bíróság jár el,
+- b) a bíróság a képviselő-testület határozatát megváltoztathatja.
+
 ### XVI. Fejezet — FELHATALMAZÓ RENDELKEZÉSEK
 
 104. § (1) Felhatalmazást kap a Kormány, hogy
@@ -1009,7 +1032,7 @@ rendeletben állapítsa meg.
 
 (2)
 
-107. § Az 1. és 2. §, a 3–10. §, a 20. §, a 41–42. §, a 45. §, a 64–65. §, a 77. § (1) bekezdése, a 89–90. §, a 101. §, a 103–103/C. §, a 105. §, a 106. § (2) bekezdése, a 111–119. § és a 148. § az Alaptörvény P) cikk (2) bekezdése alapján, a 142. § (1)–(3) bekezdése, (7) bekezdés a)–c) és f)–h) pontja és (8) bekezdése az Alaptörvény 38. cikk (1) bekezdése alapján sarkalatosnak minősül.
+107. § Az 1. és 2. §, a 3–10. §, a 18/A. §, a 20. §, a 41–42. §, a 45. §, az 55/A. §, a 64–65. §, a 77. § (1) bekezdése, a 89–90. §, a 101. §, a 103–103/C. §, a 105. §, a 106. § (2) bekezdése, a 110/C. §, a 111–119. § és a 148. § az Alaptörvény P) cikk (2) bekezdése alapján, a 142. § (1)–(3) bekezdése, (7) bekezdés a)–c) és f)–h) pontja és (8) bekezdése az Alaptörvény 38. cikk (1) bekezdése alapján sarkalatosnak minősül.
 
 ### XVIII. Fejezet — ÁTMENETI RENDELKEZÉSEK
 
@@ -1033,6 +1056,10 @@ rendeletben állapítsa meg.
 (3) A 2013. december 31-ig megkötött használati megosztásról szóló megállapodásokon alapuló földhasználati bejelentéseket a megállapodás létrejöttének időpontjában hatályos rendelkezések szerint kell elintézni.
 
 110/A. § A Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő átmeneti és felhatalmazó rendelkezésekről szóló 2013. évi CLXXVII. törvény és a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény módosításáról szóló 2015. évi CCXX. törvénnyel (a továbbiakban: Módtv.) megállapított 50/A. § rendelkezéseit arra az új haszonbérleti szerződésre is alkalmazni kell, amely a Módtv. hatálybalépése előtt megkötött – illetve akár a hatálybalépés előtt, akár azt követően meghosszabbított –, a Módtv. hatálybalépését követően a föld tulajdonjogának átruházása folytán a haszonbérbe adó tulajdonos személyében bekövetkezett változásra tekintettel szerződésátruházás miatt megszűnt haszonbérleti szerződés helyébe lépett. Ebben az esetben az 50/A. § szerinti első kezdeményezés joga tekintetében irányadó időtartamba a szerződésátruházással megszűnt szerződés eltelt időtartamát is be kell számítani.
+
+110/B. § A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény módosításáról szóló 2016. évi LXI. törvénnyel (a továbbiakban: Módtv.2.) megállapított 103/D. §-t a Módtv.2. hatálybalépésekor folyamatban levő eljárásokban is alkalmazni kell.
+
+110/C. § A Módtv.2.-vel megállapított 18/A. §-t és 55/A. §-t a Módtv.2. hatálybalépését követően indult hatósági jóváhagyási eljárásban, vagy ha nem szükséges a mezőgazdasági igazgatási szerv jóváhagyása, akkor az ingatlan-nyilvántartási eljárásban kell alkalmazni.
 
 ### XIX. Fejezet — A FÖLDHASZNÁLATI SZERZŐDÉSEKRE VONATKOZÓ ÁTMENETI RENDELKEZÉSEK
 
