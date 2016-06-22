@@ -131,7 +131,7 @@ Az Országgyűlés a hatékonyan működő villamosenergia-versenypiac kialakít
 - 66a. Vételezési hely: egy vagy több kapcsolódási ponton keresztül ellátott összefüggő terület, ahol a vételező a vásárolt villamos energiát teljes egészében felhasználja;
 - 66b. Vételező: aki felhasználótól magánvezetéken továbbadás útján vagy termelőtől közvetlen vezetéken vásárol villamos energiát kizárólag saját felhasználás céljára, és nem minősül felhasználónak;
 - 67. Villamosenergia-ellátási Szabályzatok: a villamosenergia-rendszer működésére vonatkozó szabályokat, eljárásokat és módszereket tartalmazó üzemi szabályzat, a kereskedelmi, elszámolási-mérési és adatforgalmi megállapodások minimális tartalmi elemeit, egyes nemzetközi kereskedelmi feltételeket, továbbá a rendszerszintű szolgáltatásokra és a szervezett villamosenergia-piac működésére vonatkozó főbb szabályokat tartalmazó kereskedelmi szabályzat, valamint az elosztó hálózat működésére vonatkozó elosztói szabályzat, valamint a nemzetközi üzemi és kereskedelmi szabályzat;
-- 68. Villamosenergia-ipari vállalkozás: a szerinti gazdálkodó szervezet, valamint az Európai Unió tagállamában, illetve az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban bejegyzett külföldi vállalkozás és annak belföldön bejegyzett fióktelepe, amely e törvény szerint engedélyköteles tevékenységet folytat;
+- 68. Villamosenergia-ipari vállalkozás: az az e törvény szerint engedélyköteles tevékenységet folytató természetes személy, aki az Európai Unió tagállamának vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államnak az állampolgára, továbbá olyan, az ezen államokban jogszerűen nyilvántartásba vett vállalkozás, az egyéni vállalkozóról és az egyéni cégről szóló törvény szerinti egyéni cég, a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) szerinti gazdasági társaság, a külföldi székelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló törvény szerinti fióktelep, szövetkezet vagy európai részvénytársaság, amely e törvény szerint engedélyköteles tevékenységet folytat;
 - 69. Villamosenergia-kereskedelem: az a tevékenység, amely a villamos energia és a hozzá tartozó teljesítmény üzletszerű, nem saját felhasználási célra történő vásárlásából és értékesítéséből áll;
 - 70. Villamosenergia-rendszer: az átviteli rendszerirányító által – törvényben meghatározott körben az elosztó közreműködésével – a villamosenergia-ellátási szabályzatokban rögzített elvek szerint irányított erőművek és hálózatok összessége;
 - 71. Villamosmű: az erőmű, az átviteli és az elosztó hálózat;
@@ -718,7 +718,7 @@ kiállított számla érvénytelen.
 
 (2) Amennyiben jelen törvény ettől eltérően nem rendelkezik, akkor az egyetemes szolgáltatói engedélyest (a továbbiakban: egyetemes szolgáltató) a jelen törvényben és a külön jogszabályban a villamosenergia-kereskedőre vonatkozóan meghatározott jogok illetik és kötelezettségek terhelik.
 
-47. § (1) A villamosenergia-kereskedő a felhasználók bejelentéseinek intézésére, panaszainak kivizsgálására és orvoslására, valamint a felhasználók tájékoztatása céljából székhelyén vagy üzletszabályzatában meghatározott egyéb helyen köteles biztosítani a felhasználói kapcsolattartás szervezetét és működtetését személyes ügyintézési lehetőséggel, valamint az írásban, telefonon és elektronikus úton történő ügyintézés lehetőségét.
+47. § (1) A villamosenergia-kereskedő a felhasználók bejelentéseinek intézésére, panaszainak kivizsgálására és orvoslására, valamint a felhasználók tájékoztatása céljából köteles a kapcsolattartást írásban, telefonon és elektronikus úton történő ügyintézés keretében biztosítani.
 
 (2) Az (1) bekezdésen túlmenően az egyetemes szolgáltatásra jogosult felhasználókat ellátó villamosenergia-kereskedő az e törvényben és a Vhr.-ben meghatározottak szerint ügyfélszolgálatot működtet állandó ügyfélszolgálati irodában vagy ügyfélszolgálati fiókirodában (a továbbiakban együtt: ügyfélszolgálat), és biztosítja a felhasználók részére az írásban, telefonon és elektronikus úton történő ügyintézés lehetőségét. Az ügyfélszolgálatok típusára, elhelyezésére és működtetésére vonatkozó részletes szabályokat a Vhr. és a villamosenergia-kereskedő üzletszabályzata tartalmazza.
 
@@ -826,7 +826,7 @@ kiállított számla érvénytelen.
 
 52. § (1) A végső menedékes jogintézményének alkalmazhatósága érdekében a villamos energiát értékesítő engedélyesek esetében a Csődtv.-t az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
-(2) A villamos energiát értékesítő engedélyes gazdálkodó szervezet a csődeljárás vagy felszámolási eljárás lefolytatása iránti kérelmének bírósághoz történő benyújtásával egyidejűleg, illetve a hitelező által kezdeményezett felszámolási eljárás esetén a bíróság által küldött értesítés kézhezvételét követően haladéktalanul tájékoztatja a Hivatalt.
+(2) A villamos energiát értékesítő engedélyes a csődeljárás vagy felszámolási eljárás lefolytatása iránti kérelmének bírósághoz történő benyújtásával egyidejűleg, illetve a hitelező által kezdeményezett felszámolási eljárás esetén a bíróság által küldött értesítés kézhezvételét követően haladéktalanul tájékoztatja a Hivatalt.
 
 (3) A bíróság a villamos energiát értékesítő engedélyes adóssal szembeni felszámolási eljárásnak a Csődtv. 22. §-ának (2) bekezdése szerinti hivatalból történő megindítása esetén az eljárás megindításával egyidejűleg tájékoztatja a Hivatalt.
 
@@ -997,7 +997,7 @@ vásárolhat villamos energiát.
 
 meghatározott szerződésszegés esetén.
 
-(6) A hálózati csatlakozási és a hálózathasználati szerződés érvénytelensége, illetve a szerződések vonatkozásában fennálló felelősség tekintetében, amennyiben jelen törvény eltérő rendelkezést nem tartalmaz, a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) megfelelő rendelkezéseit kell alkalmazni. A szavatossági igények körében azonban a hálózati engedélyest terheli annak bizonyítása, hogy az előírt minőségű és biztonságos energia ellátás érdekében úgy járt el, ahogy az az adott helyzetben tőle elvárható volt.
+(6) A hálózati csatlakozási és a hálózathasználati szerződés érvénytelensége, illetve a szerződések vonatkozásában fennálló felelősség tekintetében, amennyiben jelen törvény eltérő rendelkezést nem tartalmaz, a Ptk. megfelelő rendelkezéseit kell alkalmazni. A szavatossági igények körében azonban a hálózati engedélyest terheli annak bizonyítása, hogy az előírt minőségű és biztonságos energia ellátás érdekében úgy járt el, ahogy az az adott helyzetben tőle elvárható volt.
 
 (7) A felek – a szerződés teljesítése során – kötelesek egymást megfelelően tájékoztatni, beleértve a szerződés lényeges tartalmát érintő, 3 hónapon belül általuk tervezett változtatásokat is.
 
@@ -1466,21 +1466,13 @@ működési engedély
 
 (4) Az átviteli rendszerirányító és az átviteli rendszerüzemeltető kijelölése a Hivatal által kiadott átviteli rendszerirányításra vonatkozó működési engedéllyel történik. Az engedély tartalmát, attól függően, hogy átviteli rendszerirányító vagy átviteli rendszerüzemeltető részére kerül kiadásra, az átviteli rendszerirányítóra és az átviteli rendszerüzemeltetőre e törvényben és a Vhr.-ben meghatározott rendelkezések alapján a Hivatal állapítja meg. Az engedély kiadásáról a Hivatal köteles az Európai Bizottságot értesíteni, valamint azt az Európai Bizottság részére az Európai Unió Hivatalos Lapjában való közzététele érdekében megküldeni.
 
-### A villamosenergia-kereskedelemre vonatkozó
+### A villamosenergia-kereskedelemre vonatkozó működési engedély
 
-működési engedély
+88. § (1) Teljes körű, a felhasználók közvetlen ellátására is jogosító villamosenergia-kereskedelemre vonatkozó működési engedélyt villamosenergia-ipari vállalkozás kaphat.
 
-88. § (1)
+(2) Korlátozott, a felhasználók ellátására közvetlenül nem jogosító villamosenergia-kereskedelemre vonatkozó működési engedélyt olyan az Európai Unió tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban jogszerűen nyilvántartásba vett, villamosenergia-kereskedelmi tevékenységet folytató külföldi villamosenergia-ipari vállalkozás kaphat, amely megfelel az e törvény felhatalmazása alapján kiadott jogszabályokban meghatározott feltételeknek, a feltételek fennállását hitelt érdemlően igazolja és Magyarországon történő elérhetőségét legalább kézbesítési megbízott útján folyamatosan biztosítja.
 
-(2) Teljes körű, a felhasználók közvetlen ellátására is jogosító villamosenergia-kereskedelemre vonatkozó működési engedélyt gazdasági társaság, vagy az Európai Unió tagállamában, illetve az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban székhellyel rendelkező külföldi vállalkozás belföldön bejegyzett fióktelepe kaphat.
-
-(3) Korlátozott, a felhasználók ellátására közvetlenül nem jogosító villamosenergia-kereskedelemre vonatkozó működési engedélyt kap az az Európai Unió tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban gazdasági társaságként bejegyzett, ott ténylegesen és jogszerűen villamosenergia-kereskedelmi tevékenységet folytató külföldi gazdálkodó szervezet, amely megfelel az e törvény felhatalmazása alapján kiadott jogszabályokban meghatározott feltételeknek, valamint a feltételek fennállását hitelt érdemlően igazolja, és Magyarország területén irodát tart fenn, amelynek elérhetőségét a Hivatal részére folyamatosan biztosítja.
-
-- a)–b)
-- c)
-- d)
-
-(4)
+(3) Korlátozott villamosenergia-kereskedelmi engedély megszerzésére jogosult a (2) bekezdésben foglaltak mellett a belföldön nyilvántartásba vett, Ptk. szerinti gazdasági társaság, az egyéni vállalkozóról és az egyéni cégről szóló törvény szerinti egyéni cég, továbbá a szövetkezet és az európai részvénytársaság, amely megfelel a Vhr.-ben foglalt feltételeknek.
 
 ### A szervezett villamosenergia-piac
 
@@ -1508,7 +1500,7 @@ működtetésére vonatkozó engedély
 
 90. § (1) Az egyetemes szolgáltatásra vonatkozó engedélyt a Hivatal az engedély iránti kérelemben megjelölt szolgáltatási területre adja ki. Az egyetemes szolgáltatásra vonatkozó engedélyek kiadása során a Hivatal biztosítja, hogy Magyarország teljes területe egyetemes szolgáltatással lefedett legyen.
 
-(2) A Hivatal egyetemes szolgáltatásra vonatkozó engedélyt – a (3) bekezdésben foglalt kivétellel – kizárólag a 88. § (2) bekezdése szerinti villamosenergia-kereskedőnek adhat.
+(2) A Hivatal egyetemes szolgáltatásra vonatkozó engedélyt – a (3) bekezdésben foglalt kivétellel – kizárólag a 88. § (1) bekezdése szerinti villamosenergia-kereskedőnek adhat.
 
 (3) Ha a kérelmező egyetemes szolgáltatásra vonatkozó engedély iránti kérelmet és a 88. § (2) bekezdése szerinti villamosenergia-kereskedelemre vonatkozó engedély iránti kérelmet is benyújt, a Hivatal az egyetemes szolgáltatásra vonatkozó engedélyt a villamosenergia-kereskedelemre vonatkozó engedély kiadásakor is kiadhatja.
 
@@ -2541,7 +2533,7 @@ ELJÁRÁSOK
 
 143. § (1) Az egyetemes szolgáltatást méltányos, könnyen és tisztán összehasonlítható, átlátható árszabások alkalmazásával, külön jogszabályban meghatározott típusú termékcsomagok biztosításával kell megvalósítani.
 
-(2) Az egyetemes szolgáltatás árát a villamosenergia-piaci árak, továbbá a hatékonyan működő engedélyes gazdálkodó szervezetek indokolt működési és tőkeköltsége, valamint összehasonlító elemzések alapján kell meghatározni úgy, hogy a legkisebb költség elvének érvényre juttatása érdekében a szabályozás által érintett engedélyeseket gazdálkodásuk hatékonyságának, és az általuk nyújtott szolgáltatás minőségének folyamatos javítására ösztönözze.
+(2) Az egyetemes szolgáltatás árát a villamosenergia-piaci árak, továbbá a hatékonyan működő engedélyesek indokolt működési és tőkeköltsége, valamint összehasonlító elemzések alapján kell meghatározni úgy, hogy a legkisebb költség elvének érvényre juttatása érdekében a szabályozás által érintett engedélyeseket gazdálkodásuk hatékonyságának, és az általuk nyújtott szolgáltatás minőségének folyamatos javítására ösztönözze.
 
 (3) Az egyetemes szolgáltató által az (1) bekezdés szerint kötelezően nyújtott termékcsomagokat, a kötelezően nyújtott egyetemes szolgáltatás árát, az áralkalmazási feltételeket, valamint az árszabályozás kereteit – a 143/A. § (1) bekezdésében foglaltaknak megfelelően – a Hivatal javaslata alapján a miniszter rendeletben állapítja meg. A Hivatal a javaslatát a rendelet tervezett hatálybalépését megelőzően legalább 40 nappal megküldi a miniszternek.
 
@@ -2595,9 +2587,7 @@ ELJÁRÁSOK
 
 145/A. § A 170. § (2) bekezdésnek a földgázellátásról szóló 2008. évi XL. törvény, valamint a villamos energiáról szóló 2007. évi LXXXVI. törvény módosításáról szóló 2010. évi LV. törvény 17. §-ával megállapított 1. pontjában foglalt felhatalmazás alapján megalkotott rendelet hatálybalépéséig a Hivatal által a földgázellátásról szóló 2008. évi XL. törvény, valamint a villamos energiáról szóló 2007. évi LXXXVI. törvény módosításáról szóló 2010. évi LV. törvény hatálybalépését megelőzően utoljára jóváhagyott árakat kell alkalmazni a Hivatal határozatában meghatározott időponttól.
 
-146. § (1) Az átvételi kötelezettség alá eső villamos energia átvételi árait a 9. § szerinti kötelező átvételi rendszer részletes szabályait meghatározó külön jogszabály tartalmazza.
-
-(2)
+#### 146. §
 
 ### XVII. Fejezet — EGYÉB PÉNZÜGYI RENDELKEZÉSEK
 
