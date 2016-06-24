@@ -37,7 +37,7 @@ Az Országgyűlés a tőkepiac stabilitásának megőrzése és a befektetési s
 - 1. befektetési szolgáltató: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) alapján befektetési szolgáltatási tevékenység folytatására jogosult szervezet;
 - 2. diszkont kötvény: olyan nem kamatozó kötvény, amelyet névérték alatt bocsátottak ki, és a lejáratkor névértéken váltanak be;
 - 3. hozam: az értékpapírszámla-vezető által a kárrendezésre jogosultnak ténylegesen jóváírt
-  - a) kamat összege,
+  - a) kamat összegéből a kárrendezésre jogosult által ténylegesen elért jövedelem,
   - b) eladási és vételi ár különbözete a lejárat előtt az 1. § (1) bekezdése szerinti befektetési szolgáltató által visszavásárolt kötvény esetén,
   - c) névérték és vételár különbözete diszkont kötvény esetén;
 - 4. vállalkozás: gazdasági tevékenységet folytató jogalany.
@@ -214,6 +214,10 @@ szerinti csekély összegű támogatásnak.
 (2) A 13. § (1) bekezdés szerinti kérelmet e törvény szerint benyújtottnak kell tekinteni azon kárrendezésre jogosultak vonatkozásában, akik kérelmüket, valamint az ahhoz kapcsolódó dokumentumokat a Quaestor törvény 9. §-a szerint, határidőben benyújtották.
 
 (3) A (2) bekezdés szerinti kárrendezésre jogosult általános jogutódlása esetén a jogutódlásról értesíteni kell az Alapot.
+
+21/A. § (1) E törvénynek a tőkepiac stabilitásának erősítése érdekében tett egyes kárrendezési intézkedésekről szóló 2015. évi CCXIV. törvény módosításáról szóló 2016. évi LXXXVII. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezését a folyamatban lévő kárrendezésre is alkalmazni kell.
+
+(2) Azon kárrendezésre jogosultak esetén, akiknél a kárrendezésre jogosultnak járó ellenérték összege a Módtv.-vel megállapított rendelkezések értelmében ötszáz forintot meghaladó mértékben növekedne, az Alap a Módtv. hatálybalépését követő 30 napon belül az ellenértéket ismételten megállapítja. Azon jogosultak esetében, akiknél a 13. § (5) bekezdése szerinti határidő a visszavonásra a Módtv. hatálybalépésekor még nyitva áll, vagy akik a kárrendezési kérelmüket visszavonták, az Alap ezen újabb értesítése a korábban megküldött értesítés helyébe lép. A módosítással érintett azon jogosultak esetében, akiknél a Módtv. hatálybalépését megelőzően megállapított ellenérték tekintetében a 13. § (5) bekezdése szerinti határidő lejárt, és a jogosult a kérelmét nem vonta vissza, az Alap az ellenérték ismételt megállapításával egyidejűleg intézkedik a különbözet jogosult részére történő kifizetése iránt.
 
 22. § E törvény
 
