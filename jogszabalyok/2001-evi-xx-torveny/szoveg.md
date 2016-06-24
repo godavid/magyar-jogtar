@@ -28,7 +28,7 @@ a következő törvényt alkotja:
 
 - a) a gazdaságfejlesztési célok megvalósításához szükséges közép- és hosszú lejáratú hazai és külföldi források, illetőleg támogatások bevonásában és közvetítésében;
 - b) a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény hatálya alá tartozó, kiemelt jelentőségű üggyel összefüggő beruházások, valamint egyéb állami, önkormányzati fejlesztések és beruházások (így különösen az infrastrukturális, agrár, környezetvédelmi, munkahelyteremtő, oktatási, turisztikai, sport és szabadidős célú, valamint a strukturális és regionális különbségek kiegyenlítését, illetőleg vidékfejlesztést, a térség- és településfelzárkóztatást szolgáló), továbbá az ezekhez kapcsolódó más fejlesztések, beruházások és mindezek bővítéséhez szükséges fejlesztések, beruházások hitel- és tőkefinanszírozásában;
-- c) a magyarországi székhelyű gazdálkodó szervezetek – ezen belül elsődlegesen a kis- és középvállalkozások, valamint törvénnyel létrehozott – elkülönített állami pénzalapnak nem minősülő – vagyonkezelést is végző pénzalapok, továbbá a mezőgazdasági őstermelők és a családi gazdálkodók tevékenységének hitel- és tőkefinanszírozásában;
+- c) a magyarországi székhelyű gazdálkodó szervezetek (ezen belül elsődlegesen a kis- és középvállalkozások), egyházi jogi személyek, valamint törvénnyel létrehozott – elkülönített állami pénzalapnak nem minősülő – vagyonkezelést is végző pénzalapok, továbbá a mezőgazdasági őstermelők és a családi gazdálkodók tevékenységének hitel- és tőkefinanszírozásában;
 - d) az európai uniós tagsághoz kapcsolódó állami és önkormányzati fejlesztések, beruházások pénzügyi lebonyolításában, valamint – külön jogszabályban szabályozott eljárás szerint – az Európai Közösség pénzeszközeinek igénybevételéhez kapcsolódó feladatok (ideértve a támogatás közvetítést, illetve a nemzetközi gazdasági vagy pénzügyi intézménytől történő forrásbevonást és közvetítést is) ellátásában;
 - e) az egyes állami, közösségi, illetőleg nemzetközi fejlesztési kifizetésekhez kapcsolódó feladatok (így különösen a fejlesztési célú kiadások, illetőleg támogatások közvetítésének, felhasználásának előkészítését, összehangolását, a kapcsolódó közreműködői feladatok ellátását, valamint a kifizetések felhasználásának elszámolását és értékelését) ellátásában;
 - f) a Kormány határozata alapján 1. az állami és a helyi önkormányzati tulajdonban lévő vagyon értékesítése során, annak megvásárlásához, 2. a lakóépület felújításához a lakásszövetkezet, illetőleg a társasház tulajdonostársainak közössége részére, 3. a magyar állampolgárok, illetőleg legalább egy éve életvitelszerűen Magyarországon tartózkodó természetes személyek fejlesztési beruházásaihoz szükséges hitelek refinanszírozásában;
@@ -38,10 +38,22 @@ a következő törvényt alkotja:
 - j) jogszabályban meghatározottak szerint kötelező intézményvédelmi szervezetben és a kötelező intézményvédelmi szervezet vagyoni eszközökkel való ellátásában;
 - k) az MFB Zrt., valamint az állam közvetlen vagy közvetett tulajdoni részesedésével működő gazdálkodó szervezetek hitel- és tőkefinanszírozásában, valamint az érdekükben történő garancia nyújtásában és fizetési kötelezettségeikért kezesség vállalásában;
 - l) az állam nevében a tulajdonosi jogok gyakorlásában törvényben meghatározott állami tulajdonú gazdálkodó szervezetek esetében nemzetgazdasági szempontból jelentős fejlesztések, beruházások megvalósítása, bővítése, hatékonyságának növelése, valamint a versenyképesség javítása érdekében, különös tekintettel az agrárpiac fejlesztésének, a mezőgazdaság fenntartható fejlődésének, az agrár-innováció elősegítésének, az agrárfoglalkoztatás növelésének, a gazdálkodók integrációs együttműködésének biztosítására;
+- m) a közérdekű feladatok, valamint az érintett gazdasági társaságok tevékenységének magas színvonalú, átlátható és költséghatékony ellátása érdekében a közvetlen vagy közvetett tulajdonában álló gazdasági társaságok, továbbá az 1. mellékletben meghatározott gazdasági társaságok, valamint ezen társaságok közvetlen vagy közvetett tulajdonában álló gazdasági társaságok működésének és gazdálkodásának irányításában, koordinálásában és ellenőrzésében;
 - m)
-- m)
+- n) az m) pontban meghatározott gazdasági társaságok közül a kormányzati tevékenység összehangolásáért felelős miniszter rendelete által kijelölt gazdasági társaságok részére, az m) pont szerinti feladat hatékonyabb végzése céljából, kizárólagos joggal történő szolgáltatásnyújtásban.
 
 3. § (1) Az MFB Zrt. kizárólag a 2. §-ban felsorolt feladataihoz közvetlenül kapcsolódó üzletszerű tevékenységet végezhet.
+
+(1a) Az MFB Zrt. a 2. § n) pontjában meghatározott gazdasági társaságok részére – a 2. § m) pontban meghatározott célból – az alábbi szolgáltatásokat kizárólagos joggal, üzletszerűen nyújtja:
+
+- a) pénzügyi és számviteli szolgáltatások, könyvelési szolgáltatások, adótanácsadás,
+- b) kontrolling szolgáltatások, üzleti tervezés,
+- c) csoportszintű számlaösszevezetési szolgáltatás, egyéb forrásbevonási és likviditáskezelési szolgáltatás,
+- d) infrastruktúra- és ügyviteli alkalmazások üzemeltetése, támogatása, informatikai szakértői szolgáltatások, hardver-szaktanácsadás, szoftver-szaktanácsadás, egyéb informatikai szaktanácsadás,
+- e) humánerőforrás-gazdálkodáshoz, -fejlesztéshez kapcsolódó szolgáltatások körében toborzás-kiválasztás, képzés-fejlesztés, teljesítményértékelés, személyügyi tevékenységek, humánpolitikai tanácsadás, egyéb humánpolitikai szolgáltatások,
+- f) a társaság felépítésére és irányítására vonatkozó általános üzletviteli tanácsadás,
+- g) beszerzések, közbeszerzések tervezése, kezelése és lebonyolítása, beszerzésekhez és közbeszerzésekhez kapcsolódó egyéb szakértői szolgáltatások,
+- h) ingatlanüzemeltetés, létesítménygazdálkodási és -ellátási szolgáltatások, értékbecslés, gépjárműflotta-kezelés, csoportos telefon-előfizetés kezelése, iratkezelés.
 
 (2) Az MFB Zrt. – az (1) bekezdésben meghatározott körben – az alábbi pénzügyi szolgáltatási tevékenységeket végezheti:
 
@@ -88,7 +100,7 @@ a következő törvényt alkotja:
 
 (13) Az MFB Zrt. a rábízott vagyon értékének megőrzéséről köteles gondoskodni.
 
-(14) Az MFB Zrt. jogosult ellenőrizni az 1. mellékletben meghatározott, valamint a közvetlen vagy közvetett tulajdoni részesedésével működő gazdálkodó szervezetek gazdálkodását, működését. Az ellenőrzött szervezet, a szervezet vezetője, alkalmazottja adatszolgáltatásra és együttműködésre köteles.
+(14) A 2. § m) pontja szerint irányított, koordinált és ellenőrzött szervezet, a szervezet vezetője, alkalmazottja adatszolgáltatásra és együttműködésre köteles.
 
 (15)
 
@@ -361,6 +373,11 @@ szerezhet.
 ### Felhatalmazás
 
 20. § Felhatalmazást kap a Kormány, hogy rendeletben meghatározza azon gazdasági társaságokat, amelyekben az MFB Zrt. a 8. § (3) bekezdés c) pontja szerint tulajdont szerezhet.
+
+20/A. § Felhatalmazást kap a kormányzati tevékenység összehangolásáért felelős miniszter arra, hogy rendeletben állapítsa meg
+
+- a) azon gazdasági társaságok körét, amelyek a 3. § (1a) bekezdésében meghatározott szolgáltatásokat kizárólag az MFB Zrt.-től vehetik igénybe, valamint
+- b) a 3. § (1a) bekezdésében meghatározott szolgáltatások nyújtásának részletes szabályait.
 
 21. § E törvény alkalmazásában
 
