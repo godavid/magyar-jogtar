@@ -157,13 +157,7 @@ előírásait az e törvényben foglalt eltéréssel kell alkalmazni.
 
 (9) A Ménesbirtok a 2. § (1) bekezdésének a)–e), valamint g) pontjában meghatározott feladatai – génmegőrzési, helyben megvalósuló oktatási célból történő – végrehajtása, mint közérdekű célok érdekében történő kisajátításra a Kisajátítási törvény szabályait azzal kell alkalmazni, hogy az eljárásban kisajátítást kérőként a saját nevében és az állam javára a Ménesbirtok jár el.
 
-14. § A nemzeti vagyonról szóló 2011. évi CXCVI. törvény 16. § (1) bekezdése a következő r) ponttal egészül ki:
-
-(Az e törvényben meghatározott elvek mentén)
-
-„r) a Nemzeti Ménesbirtok és Tangazdaság vagyonáról, a Nemzeti Ménesbirtok és Tangazdaság feletti tulajdonosi joggyakorlás módjáról szóló szabályokat a Nemzeti Ménesbirtok és Tangazdaságról szóló törvény”
-
-(állapítja meg.)
+14. §
 
 ### 1. melléklet a Nemzeti Ménesbirtok és Tangazdaságról szóló 2016. évi XCI. törvényhez
 
