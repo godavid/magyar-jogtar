@@ -3432,8 +3432,8 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 (4) Az elsőfokú közigazgatási határozatot hozó szerv köteles gondoskodni
 
-- a) a felülvizsgálni kért határozat alapjául szolgáló ügy iratainak digitalizálásáról, ha a keresetlevél elektronikusan került előterjesztésre,
-- b) a hozzá benyújtott keresetlevél és a mellékleteit képező papír alapú okiratok digitalizálásáról, valamint a papír alapú okiratok megőrzéséről, továbbá a felülvizsgálni kért határozat alapjául szolgáló ügy iratainak digitalizálásáról, ha a keresetlevél papír alapon került előterjesztésre.
+- a)
+- b) a hozzá benyújtott keresetlevél és a mellékleteit képező papír alapú okiratok digitalizálásáról, valamint a papír alapú okiratok megőrzéséről, ha a keresetlevél papír alapon került előterjesztésre.
 
 (5) A bíróság a felperessel való első kapcsolatfelvétel során papír alapon kézbesít. A kézbesítéssel egyidejűleg a bíróság felhívja a felperest arra, hogy ha elektronikus útra kötelezett, beadványait, okirati bizonyítékait kizárólag elektronikus úton nyújthatja be, és tájékoztatja a nem elektronikus úton történő benyújtás jogkövetkezményeiről.
 
@@ -3570,7 +3570,7 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 (3) A keresetet a sérelem orvoslása iránti kérelemben foglaltak teljesítésére rendelkezésre álló határidő utolsó napjától számított tizenöt nap alatt kell megindítani. A határidő elmulasztása esetén igazolásnak (106–110. §) van helye. Ha az, aki a képmás vagy hangfelvétel készítőjének, illetve felhasználójának minősül, nem természetes személy, félként jár el akkor is, ha egyébként nincs perbeli jogképessége (48. §).
 
-(4) A keresetlevélben határozottan meg kell jelölni azt is, hogy a felperes a Ptk. 2:51. § (1) bekezdés a)–d) pontjában foglalt szankciók közül melynek az alkalmazását kéri, továbbá igazolni kell, hogy a felperes a sérelem orvoslása iránti kérelmet törvényes határidőben igényelte. A keresetlevélhez csatolni kell – amennyiben az rendelkezésre áll – a képmást, illetve a hangfelvételt, felhasználás esetén a megjelenési formától függő okirati vagy tárgyi bizonyítékot.
+(4) A keresetlevélben határozottan meg kell jelölni azt is, hogy a felperes a Ptk. 2:51. § (1) bekezdés a)–d) pontjában foglalt szankciók közül melynek az alkalmazását kéri, továbbá igazolni kell, hogy a felperes a sérelem orvoslása iránti kérelmet törvényes határidőben igényelte. A keresetlevélhez csatolni kell – amennyiben az rendelkezésre áll – a képmást, illetve a hangfelvételt, felhasználás esetén a megjelenési formától függő okirati bizonyítékot.
 
 346/C. § (1) A bíróság a perben soron kívül jár el. Az elnök legkésőbb a keresetlevél benyújtásától számított nyolcadik napra tárgyalást tűz ki, kivéve ha a keresetlevél benyújtása elkésett, ez utóbbi esetben az elnök a keresetlevelet idézés kibocsátása nélkül elutasítja.
 
@@ -4207,7 +4207,7 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 (5) A bíróság, ha a perben mindkét fél elektronikus kapcsolattartással jár el – a (6) bekezdésben foglalt kivétellel –, valamennyi bírósági iratot elektronikusan kézbesít a (2) bekezdés szerint eljáró szakértőnek. Ha a perben mindkét fél vagy az egyik fél papír alapú kapcsolattartással jár el, a bíróság papír alapon és elektronikus úton is kézbesíthet a szakértő részére.
 
-(6) A bíróság papír alapon vagy egyéb adathordozón bocsátja rendelkezésre a szakértő részére a bírósági irat mellékletét, ha annak nagy mennyisége miatt vagy az adathordozó jellegéből adódóan a digitalizálás aránytalan nehézséggel járna vagy lehetetlen, valamint ha a papír alapú okirat valódisága vitás. Ha a bíróság által elektronikus úton megküldött bírósági irathoz e bekezdés szerinti melléklet kapcsolódik, a határidő számításának alapja a melléklet kézhezvételének időpontja.
+(6) A bíróság papír alapon vagy adathordozón bocsátja rendelkezésre a szakértő részére a bírósági irat mellékletét, ha annak nagy mennyisége miatt vagy az adathordozó jellegéből adódóan a digitalizálás aránytalan nehézséggel járna vagy lehetetlen, valamint ha a papír alapú okirat valódisága vitás. Ha a bíróság által elektronikus úton megküldött bírósági irathoz e bekezdés szerinti melléklet kapcsolódik, a határidő számításának alapja a melléklet kézhezvételének időpontja.
 
 (7) A bíróság felhívhatja a papír alapú kapcsolattartással eljáró szakértőt arra, hogy a szakvéleményt elektronikus adathordozón is benyújtsa, ha azt elektronikus kapcsolattartással eljáró fél részére kell kézbesítenie. A szakértő felel azért, hogy a papír alapú szakvélemény tartalma megegyezik az elektronikus adathordozón benyújtott dokumentum tartalmával.
 
@@ -4314,7 +4314,7 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 (2) Ha a keresetlevél, a beadvány vagy az okirat, illetve ezek együttes mérete a kézbesítési rendszer által befogadható méretet meghaladja, a beadványt több, a kézbesítési rendszer által befogadható méretű részletben kell benyújtani. Az egyes részletekhez tartozó űrlapokon meg kell jelölni, hogy a beadvány összesen hány részletből áll, továbbá az adott részlet sorszámát. Az űrlapokból a részletek összetartozásának egyértelműen ki kell tűnnie.
 
-(3) A keresetlevél vagy a beadvány (2) bekezdés szerinti valamennyi részletének feltöltése esetén az utolsó részlethez kapott befogadás-visszaigazolásban megjelölt időpontban kell a keresetlevelet vagy a beadványt a bírósághoz megérkezettnek tekinteni.
+(3)
 
 ### XXVIII/A. Fejezet — A ZÁRTCÉLÚ TÁVKÖZLŐ HÁLÓZAT IGÉNYBEVÉTELÉNEK SZABÁLYAI
 
@@ -4382,7 +4382,7 @@ elektronikus úton, vagy az adatbázisok közvetlen elérésével is meggyőződ
 - k) a polgári eljárásban a tárgyalás (meghallgatás, kihallgatás) zártcélú távközlő hálózat útján történő megtartásának részletes szabályait – az informatikáért felelős miniszterrel egyetértésben és az Országos Bírósági Hivatal elnöke véleményének kikérésével – rendeletben határozza meg,
 - l) a polgári peres eljárás elektronikus beadványai űrlapjának adatait, tartalmi és formai kellékeit, valamint az űrlaphoz csatolható mellékleteket rendeletben szabályozza,
 - m) az ügyész polgári eljárásbeli részvételével kapcsolatos költség előlegezésének és viselésének részletes szabályait az államháztartásért és az állami vagyon felügyeletéért felelős miniszterrel egyetértésben rendeletben szabályozza,
-- n) a bíróságokkal való elektronikus kapcsolattartás és az elektronikus bírósági iratkezelés részletes szabályait rendeletben állapítsa meg.
+- n) az elektronikus bírósági iratkezelés részletes szabályait rendeletben állapítsa meg.
 
 (5)
 
