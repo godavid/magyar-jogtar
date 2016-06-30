@@ -227,7 +227,19 @@ egyidejűleg tartalmazza.
 
 109. §
 
-110. § Azok az elektronikus aláírásról szóló 2001. évi XXXV. törvény (a továbbiakban: Eat.) szerinti elektronikus aláírással kapcsolatos szolgáltatást nyújtó szolgáltatók, akik e törvény hatálybalépésekor a Nemzeti Média- és Hírközlési Hatóság nyilvántartásában bejelentett szolgáltatóként szerepeltek, és az e törvény szerinti bizalmi szolgáltatásra vonatkozóan nem tesznek bejelentést, az Eat. szerinti elektronikus aláírással kapcsolatos szolgáltatásaikat legkésőbb 2017. július 1-jéig kötelesek befejezni, amely kötelezettség teljesítésére az Eat. 16. § és 16/N. § szerinti rendelkezések alkalmazandók azzal, hogy a befejezéssel kapcsolatos kötelezettségeikkel összefüggésben 2017. július 2-át követően a bizalmi felügyelet a 89. §, valamint a 95. § és a 96. § szerint jár el.
+110. § (1) Azok az elektronikus aláírásról szóló 2001. évi XXXV. törvény (a továbbiakban: Eat.) szerinti elektronikus aláírással kapcsolatos szolgáltatást nyújtó szolgáltatók, akik 2016. június 30-án a Nemzeti Média- és Hírközlési Hatóság nyilvántartásában bejelentett szolgáltatóként szerepeltek, és az e törvény szerinti bizalmi szolgáltatásra vonatkozóan nem tesznek bejelentést, az Eat. szerinti elektronikus aláírással kapcsolatos szolgáltatásaikat legkésőbb 2017. július 1-jéig kötelesek befejezni, amely kötelezettség teljesítésére az Eat. 16. §-a és 16/N. §-a szerinti rendelkezések alkalmazandók azzal, hogy a befejezéssel kapcsolatos kötelezettségeikkel összefüggésben 2017. július 2-át követően a bizalmi felügyelet a 89. §, valamint a 95. § és a 96. § szerint jár el.
+
+(2) Azok az Eat. szerinti elektronikus aláírással kapcsolatos szolgáltatást nyújtó szolgáltatók, akik 2016. június 30-án egyes elektronikus aláírással kapcsolatos szolgáltatásuk tekintetében – ide nem értve a természetes személyek számára kibocsátott minősített tanúsítványokat – a Nemzeti Média- és Hírközlési Hatóság nyilvántartásában minősített szolgáltatóként szerepeltek (a továbbiakban az általuk nyújtott szolgáltatás együtt: Eat. szerinti minősített szolgáltatás), az Eat. szerinti minősített szolgáltatásuknak az eIDAS Rendelet 22. cikke szerinti bizalmi listán való feltüntetéséig, de legkésőbb 2016. december 31-ig jogosultak ezen Eat. szerinti minősített szolgáltatásaikat nyújtani.
+
+(3) A (2) bekezdés szerinti átmeneti időszak alatt az Eat. szerinti minősített szolgáltatások és az azok alapján kibocsátott tanúsítványok, a tanúsítványon alapuló elektronikus aláírások és időbélyegek Magyarország területén továbbra is rendelkeznek mindazon jogszabály által előírt joghatással, amellyel 2016. június 30-án rendelkeztek, feltéve, hogy az átmeneti időszak alatt az Eat. 2016. június 30-i rendelkezései szerinti követelményeknek megfelelnek.
+
+(4) A Nemzeti Média- és Hírközlési Hatóság az Eat. szerinti minősített szolgáltatások feletti hatósági felügyeletet az átmeneti időszak alatt a bizalmi szolgáltatásra vonatkozó hatásköre alapján, a bizalmi szolgáltatásra vonatkozó szabályok szerint látja el.
+
+(5) A (2) bekezdésben megjelölt Eat. szerinti minősített szolgáltatás az átmeneti időszak alatt kizárólag az eIDAS Rendelet szerinti nemzeti szinten elismert minősített bizalmi szolgáltatásnak minősül, egyebekben az eIDAS Rendelet szerinti minősített bizalmi szolgáltatás joghatásával nem rendelkezik.
+
+(6) A Negyedik Rész kivételével, ahol jogszabály a Negyedik Rész szerinti minősített bizalmi szolgáltatást említ, azon a (2) bekezdés szerinti átmeneti időszak alatt az Eat. szerinti minősített szolgáltatást is érteni kell.
+
+(7) A Negyedik Rész kivételével, ahol jogszabály minősített elektronikus bélyegzőt jelöl meg, azzal a (2) bekezdés szerinti átmeneti időszak alatt az Eat. szerinti minősített szervezeti elektronikus aláírást egyenértékűnek kell tekinteni.
 
 #### 63. Az Európai Unió jogának való megfelelés
 
