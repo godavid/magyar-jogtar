@@ -33,8 +33,8 @@ Az Országgyűlés az Európai Közösséget létrehozó szerződésben biztosí
   - bf) a magyar állampolgár vagy házastársa felmenője,
   - bg) a kiskorú magyar állampolgár felett szülői felügyeleti joggal rendelkező személy,
   - bh) akinek az eljáró hatóság családtagként való beutazását és tartózkodását engedélyezi,
-  - bi) az EGT-állampolgár harmadik országbeli állampolgár élettársa, amennyiben magyar hatóság vagy az Európai Unió más tagállamának hatósága előtt regisztrált élettársi kapcsolatot létesített,
-  - bj) a magyar állampolgár harmadik országbeli állampolgár élettársa, amennyiben magyar hatóság vagy az Európai Unió más tagállamának hatósága előtt regisztrált élettársi kapcsolatot létesített;
+  - bi) az EGT-állampolgár élettársa, amennyiben magyar hatóság vagy az Európai Unió más tagállamának hatósága előtt regisztrált élettársi kapcsolatot létesített,
+  - bj) a magyar állampolgár élettársa, amennyiben magyar hatóság vagy az Európai Unió más tagállamának hatósága előtt regisztrált élettársi kapcsolatot létesített;
 - c) keresőtevékenységet folytat:
   - ca) aki jogszabályban meghatározott foglalkoztatási jogviszonya alapján, ellenérték fejében, más részére és vele alá-fölérendeltségi kapcsolatban végez munkát,
   - cb) akinek a tevékenysége jogszabály szerint önállóan végezhető és ellenérték fejében történik, ha az egészségbiztosítási, illetve a nyugdíjbiztosítási szolgáltatások fedezetéről a jogszabályok rendelkezései szerint maga gondoskodik, vagy
@@ -60,7 +60,7 @@ Az Országgyűlés az Európai Közösséget létrehozó szerződésben biztosí
 
 (5) A beutazásra a személyek határátlépésére irányadó szabályok közösségi kódexének létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlamenti és tanácsi rendeletben (a továbbiakban: Schengeni határ-ellenőrzési kódex) foglalt szabályokat is alkalmazni kell.
 
-(6) Az idegenrendészetért és menekültügyért felelős miniszter, a külpolitikáért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, valamint a polgári hírszerzési tevékenység irányításáért felelős miniszter által – a közbiztonság és a nemzetbiztonság védelme érdekében – meghatározott esetekben a kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum csak a központi vízumhatóság hozzájárulásával adható ki.
+(6)
 
 (7) A központi vízumhatóság a kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum kiadásához való hozzájárulás megadása előtt köteles egyeztetni azon schengeni államok központi hatóságaival, amelyek az egyeztetést kérik.
 
@@ -124,7 +124,7 @@ Az Országgyűlés az Európai Közösséget létrehozó szerződésben biztosí
 
 (2) A magyar állampolgár családtagjaként tartózkodó EGT-állampolgár tartózkodási joga az (1) bekezdés szerint, az (1) bekezdés a) pontjában meghatározott esetben marad fenn.
 
-(3) Az EGT-állampolgár házastárs tartózkodási joga az (1) bekezdés szerint fennmarad, ha a házasságot a bíróság felbontotta vagy érvénytelenítette.
+(3) Az EGT állampolgár családtag tartózkodási joga az (1) bekezdés szerint fennmarad, ha a házasságot a bíróság felbontotta vagy érvénytelenítette.
 
 (4) Az EGT-állampolgár tartózkodási joga családtagként marad fenn, ha magyar állampolgár családtagja vagy olyan EGT-állampolgár családtagja, aki a 6. § (1) bekezdésében foglalt feltételeket teljesíti.
 
@@ -145,7 +145,7 @@ Az Országgyűlés az Európai Közösséget létrehozó szerződésben biztosí
 
 (4) Az (1) és a (3) bekezdéstől eltérően a magyar állampolgár harmadik ország állampolgárságával rendelkező házastársának tartózkodási joga minden feltétel nélkül fennmarad, ha a házasságból született gyermek feletti szülői felügyeleti jogot a házastárs is gyakorolja.
 
-12. § Ha az EGT-állampolgár meghal, tartózkodási joga megszűnik, vagy tartózkodási jogának gyakorlásával felhagy, gyermeke tartózkodási joga – életkorától függetlenül – a tanulmányainak befejezéséig fennmarad, ha tanulmányait már megkezdte és megszakítás nélkül folytatja. A gyermek felett szülői felügyeleti jogot gyakorló másik szülő tartózkodási joga a kiskorú gyermek tanulmányainak befejezéséig marad fenn.
+12. § Ha az EGT állampolgár meghal, tartózkodási joga megszűnik, vagy tartózkodási jogának gyakorlásával felhagy, gyermeke tartózkodási joga – életkorától függetlenül – a tanulmányainak befejezéséig fennmarad, ha tanulmányait már megkezdte és megszakítás nélkül folytatja. A gyermek felett szülői felügyeleti jogot gyakorló másik szülő tartózkodási joga a gyermek tanulmányainak befejezéséig marad fenn.
 
 13. § (1) Az eljáró hatóság határozatban megállapítja, hogy az EGT-állampolgár vagy a családtag Magyarország területén tartózkodási jogának gyakorlásával felhagyott, ha az állandó tartózkodási jog megszerzéséig egy éven belül több mint hat hónapra elhagyta Magyarország területét.
 
@@ -153,6 +153,8 @@ Az Országgyűlés az Európai Közösséget létrehozó szerződésben biztosí
 
 - a) kötelező katonai szolgálat vagy
 - b) egyszeri, legfeljebb tizenkét hónapig folyamatosan fennálló fontos ok, különösen terhesség, szülés, súlyos betegség, tanulmányok folytatása, szakképzés vagy kiküldetés.
+
+(3) Az eljáró hatóság a tartózkodási joggal felhagyás tényét megállapító határozatban az EGT-állampolgár vagy a családtag részére kiállított, tartózkodási jogot igazoló okmány érvénytelenségét megállapítja és az okmányt visszavonja.
 
 14. § (1) Az EGT-állampolgár vagy a családtag tartózkodási joga megszűnik, ha
 
@@ -172,6 +174,8 @@ Az Országgyűlés az Európai Közösséget létrehozó szerződésben biztosí
 
 (4) Az ország elhagyására irányuló kötelezettséget a határozat jogerőre emelkedését követő harmadik hónap utolsó napjáig kell teljesíteni.
 
+(5) Az eljáró hatóság a tartózkodási jog megszűnésének tényét megállapító határozatban az EGT-állampolgár vagy a családtag részére kiállított, tartózkodási jogot igazoló okmány érvénytelenségét megállapítja és az okmányt visszavonja.
+
 ### Az állandó tartózkodás joga
 
 16. § (1) Állandó tartózkodásra jogosult
@@ -183,7 +187,7 @@ Az Országgyűlés az Európai Közösséget létrehozó szerződésben biztosí
 
 (2) Állandó tartózkodásra jogosult
 
-- a) a magyar állampolgár családtagja – a házastárs kivételével –, ha megszakítás nélkül legalább egy éve magyar állampolgárral családi életközösségben él,
+- a) a magyar állampolgár családtagja – a házastárs, valamint a 8. § (1) bekezdés a) pontja alapján tartózkodásra jogosult személy kivételével –, ha megszakítás nélkül legalább egy éve magyar állampolgárral családi életközösségben él,
 - b) a magyar állampolgár házastársa, feltéve, hogy a házasságot a kérelem benyújtását megelőzően legalább két éve megkötötték, és azóta életközösségük folyamatosan fennáll.
 
 (3) Ha az EGT-állampolgár vagy a családtag Magyarország területén tartózkodási jogának gyakorlásával felhagyott, és Magyarország területére száznyolcvan napon belül kilencven napot meghaladó időre visszatér, az állandó tartózkodási jog megszerzéséhez szükséges időtartam újrakezdődik.
@@ -235,6 +239,8 @@ Az Országgyűlés az Európai Közösséget létrehozó szerződésben biztosí
 - d) ha az állandó tartózkodási jogot igazoló okmány megszerzése érdekében olyan hamis adatot, valótlan tényt közölt, amelyre vonatkozóan a büntetőjogi felelősségét jogerős bírósági ítélet megállapította.
 
 (2) Az (1) és az (1a) bekezdésben foglalt esetekben az állandó tartózkodási jog megszűnését az eljáró hatóság határozattal állapítja meg.
+
+(3) Az eljáró hatóság az állandó tartózkodási jog megszűnésének tényét megállapító határozatban az EGT-állampolgár vagy a családtag részére kiállított állandó tartózkodási jogot igazoló okmány érvénytelenségét megállapítja és az okmányt visszavonja.
 
 ### III. Fejezet — BEJELENTÉSI KÖTELEZETTSÉGEK ÉS A TARTÓZKODÁSI JOGOT IGAZOLÓ OKMÁNYOK
 
@@ -418,7 +424,7 @@ VAGY KÖZEGÉSZSÉGÜGYI OKBÓL TÖRTÉNŐ KORLÁTOZÁSA
 
 - a) aki Magyarország területének elhagyására vonatkozó kötelezettségének az előírt határidőn belül nem tett eleget,
 - b) akinek a beutazási vagy a tartózkodási joga nem áll fenn, de aki ennek ellenére a beutazási vagy a tartózkodási joga igazolása céljából az eljáró hatóság előtt hamis adatra vagy valótlan tényre hivatkozott,
-- c) akinek beutazása vagy tartózkodása valódi, közvetlen és súlyos veszélyt jelent Magyarország nemzetbiztonságára.
+- c) akinek beutazása vagy tartózkodása valódi, közvetlen és súlyos veszélyt jelent Magyarország közrendjére, köz- vagy nemzetbiztonságára.
 
 (3) Az idegenrendészeti kiutasítást a (2) bekezdés c) pontjában foglalt okból törvényben meghatározott érdek védelmével kapcsolatos feladatuk ellátása céljából a kormányrendeletben meghatározott rendvédelmi szervek is kezdeményezhetik. Ha az idegenrendészeti kiutasítást a (2) bekezdés c) pontjában foglalt okból rendelik el, a beutazási és tartózkodási tilalom időtartamára – a feladat- és hatáskörüket érintő esetben – a kormányrendeletben meghatározott rendvédelmi szervek javaslatot tesznek.
 
@@ -499,10 +505,11 @@ VAGY KÖZEGÉSZSÉGÜGYI OKBÓL TÖRTÉNŐ KORLÁTOZÁSA
 
 50. § (1) A bírósági kiutasítást – a 34. §-ban meghatározott tilalom figyelembevételével – a kiutasított személy hatósági kíséretével (a továbbiakban: kitoloncolás) kell végrehajtani, ha vele szemben a bíróság a szabad mozgás és tartózkodás jogának hiányában végleges hatályú kiutasítást alkalmazhatna.
 
-(1a) A bírósági és az idegenrendészeti kiutasítás – a 34. §-ban meghatározott tilalom figyelembevételével – kitoloncolással hajtható végre, ha a kiutasított személy:
+(1a) A bírósági és az idegenrendészeti kiutasítás – a 34. §-ban meghatározott tilalom figyelembevételével – kitoloncolással hajtható végre, ha
 
-- a) szándékosan elkövetett bűncselekmény miatt kiszabott szabadságvesztés büntetésből szabadult, vagy
-- b) vele szemben a 40. § (2) bekezdés a)–c) pontja alapján rendeltek el idegenrendészeti kiutasítást és a 61/A. §-ban foglaltaknak nem tett eleget.
+- a) a kiutasított személy szándékosan elkövetett bűncselekmény miatt kiszabott szabadságvesztés büntetésből szabadult,
+- b) a kiutasított személy olyan bűncselekmény elkövetése miatt került kiutasításra, amely ötévi vagy azt meghaladó tartamú szabadságvesztéssel büntetendő, vagy
+- c) a kiutasított személlyel szemben a 40. § (2) bekezdés a)–c) pontja alapján rendeltek el idegenrendészeti kiutasítást és a 61/A. §-ban foglaltaknak nem tett eleget.
 
 (2) A kitoloncolásról az idegenrendészeti kiutasítást elrendelő határozatban vagy önálló határozatban kell rendelkezni. Bírósági kiutasítás esetén a kitoloncolást a bírósági kiutasítás végrehajtásáról hozott végzésben vagy önálló végzésben kell elrendelni, amellyel szemben – a (4) bekezdésben meghatározott kivétellel – jogorvoslatnak nincs helye.
 
@@ -681,7 +688,13 @@ meghosszabbítása
 
 (2) Az (1) bekezdésben foglalt rendelkezéseket kell alkalmazni akkor is, ha a légi fuvarozó hiányos adatokat vagy – az elvárható gondosság tanúsítása hiányában – valótlan adatot továbbít.
 
-67. § (1) A munkáltató az EGT-állampolgár vagy a családtag magyarországi munkavállalásának meghiúsulását, valamint foglalkoztatásának megszüntetését három munkanapon belül köteles bejelenteni az eljáró hatóságnak.
+67. § (1) A munkáltató az EGT-állampolgár vagy a családtag magyarországi munkavállalásának meghiúsulását, valamint foglalkoztatásának megszüntetését a következő adatok közlésével három munkanapon belül köteles bejelenteni az eljáró hatóságnak:
+
+- a) munkáltató adatai (név, cím, székhely, telephely, gazdálkodási forma, cégjegyzékszám),
+- b) az EGT-állampolgár vagy a harmadik ország állampolgárságával rendelkező családtag munkavállaló természetes személyazonosító adatai,
+- c) az EGT-állampolgár vagy a harmadik ország állampolgárságával rendelkező családtag munkavállaló tartózkodásra jogosító okmányának száma,
+- d) munkakör,
+- e) a munkavégzés megszűnésének, vagy meghiúsulásának időpontja.
 
 (2) Az eljáró hatóság az (1) bekezdésben meghatározott kötelezettségét elmulasztó munkáltatót közrendvédelmi bírsággal sújthatja.
 
@@ -713,9 +726,9 @@ meghosszabbítása
 
 (3) A közlés tényét és időpontját jegyzőkönyvbe kell foglalni, és azt az ügyféllel alá kell íratni.
 
-(4) Ha az ügyfél ismeretlen helyen tartózkodik – az (5) bekezdésben foglalt eltéréssel –, a határozat és a végzés közlése hirdetményi úton történik. Kézbesítési ügygondnok kirendelésének nincs helye.
+(4) Ha az ügyfél ismeretlen helyen tartózkodik, a határozat és a végzés közlése hirdetményi úton történik. Kézbesítési ügygondnok kirendelésének nincs helye. A hirdetményt kizárólag a döntést hozó hatóság hirdetőtábláján kell kifüggeszteni és a jogszabályban meghatározott honlapon kell közzétenni.
 
-(5) Ha a beutazási és tartózkodási tilalmat a 38. § (1) bekezdése alapján rendelték el, a határozat rendelkező részét jogszabályban meghatározott honlapon kell közzétenni. A közzététel napján a határozatot közöltnek kell tekinteni.
+(5) Ha az ügyfél ismeretlen helyen tartózkodik és a beutazási és tartózkodási tilalmat a 38. § (1) bekezdése alapján vagy a 40. § (2) bekezdés c) pontja alapján elrendelt kiutasításhoz kapcsolódóan rendelték el, a (4) bekezdéstől eltérően a hirdetményi úton történő közlés a határozat rendelkező részének a jogszabályban meghatározott honlapon való közzétételével történik és e közzététel napján a határozatot közöltnek kell tekinteni.
 
 72. § (1) Ha e törvény a határozattal szembeni fellebbezést kizárja, újrafelvételi eljárásnak sincs helye.
 
@@ -916,7 +929,7 @@ meghosszabbítása
 
 (6) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, hogy a külpolitikáért felelős miniszterrel, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel, valamint a polgári hírszerzési tevékenység irányításáért felelős miniszterrel egyetértésben rendeletben állapítsa meg azokat az eseteket, amikor – a közbiztonság és a nemzetbiztonság védelme érdekében –
 
-- a) a kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum csak a központi vízumhatóság hozzájárulásával adható ki, és
+- a)
 - b) más schengeni állam vízumkiadó hatósága a kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum kiadását megelőzően a központi vízumhatósággal egyeztet.
 
 (7) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, hogy a külpolitikáért felelős miniszterrel, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel, valamint a polgári hírszerzési tevékenység irányításáért felelős miniszterrel egyetértésben rendeletben határozza meg azokat a harmadik országokat, amelyek állampolgárai részére kiadott vízumokról a Vízumkódex 31. cikk (1) bekezdése szerint a központi vízumhatóság tájékoztatást kér.
@@ -943,27 +956,7 @@ meghosszabbítása
 
 (6)–(8)
 
-89. § (1) Az egyesülési jogról szóló 1989. évi II. törvény (a továbbiakban: Egytv.) 8. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A társadalmi szervezet ügyintéző és képviseleti szervének tagja az lehet, aki a közügyek gyakorlásától nincs eltiltva, és
-
-a) magyar állampolgár,
-
-b) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvényben meghatározottak szerint a szabad mozgás és tartózkodás jogával rendelkezik, vagy
-
-c) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozik, és bevándorolt vagy letelepedett jogállású, illetve tartózkodási engedéllyel rendelkezik.”
-
-(2) Az Egytv. a következő 29. §-sal és az azt megelőző alcímmel egészül ki:
-
-„
-
-Az Európai Unió jogának való megfelelés
-
-29. § Ez a törvény a következő uniós jogi aktusoknak való részleges megfelelést szolgálja:
-
-a) a Tanács 2003/109/EK irányelve (2003. november 25.) a harmadik országok huzamos tartózkodási engedéllyel rendelkező állampolgárainak jogállásáról, 11. cikk (1) bekezdés g) pont és 21. cikk;
-
-b) az Európai Parlament és a Tanács 2004/38/EK irányelve (2004. április 29.) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről, 24. cikk.”
+89. § E törvénynek az egyes migrációs tárgyú és ezekkel összefüggésben más törvények módosításáról szóló 2016. évi XXXIX. törvénnyel megállapított rendelkezéseit a hatálybalépést követően megindult ügyekben kell alkalmazni.
 
 90. § (1) A gyülekezési jogról szóló 1989. évi III. törvény (a továbbiakban: Gytv.) 5. §-a helyébe a következő rendelkezés lép:
 
@@ -1108,4 +1101,5 @@ c) aki a szabad mozgás és tartózkodás jogával rendelkező személyek beutaz
 - e) a migrációra és a nemzetközi védelemre vonatkozó közösségi statisztikákról szóló 862/2007/EK európai parlamenti és tanácsi rendelet;
 - f) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2006. december 20-i, 1987/2006/EK európai parlamenti és tanácsi rendelet 20–30. cikkének, valamint
 - g) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i 2007/533/IB tanácsi határozat 38–39. cikkének
-- h) a személyek határátlépésére irányadó szabályok közösségi kódexének (továbbiakban: Schengeni határ-ellenőrzési kódex) létrehozásáról szóló 562/2006/EK európai parlamenti és tanácsi rendelet, a Schengeni Megállapodás végrehajtásáról szóló egyezmény, a 810/2009/EK európai parlamenti és tanácsi rendelet, az 1683/95/EK tanácsi rendelet, az 539/2001/EK tanácsi rendelet, valamint a 767/2008/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2013. június 26-i 610/2013/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+- h) a személyek határátlépésére irányadó szabályok közösségi kódexének (továbbiakban: Schengeni határ-ellenőrzési kódex) létrehozásáról szóló 562/2006/EK európai parlamenti és tanácsi rendelet, a Schengeni Megállapodás végrehajtásáról szóló egyezmény, a 810/2009/EK európai parlamenti és tanácsi rendelet, az 1683/95/EK tanácsi rendelet, az 539/2001/EK tanácsi rendelet, valamint a 767/2008/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2013. június 26-i 610/2013/EU európai parlamenti és tanácsi rendelet;
+- i) a külső határok átlépésekor vízumkötelezettség alá eső, illetve az e kötelezettség alól mentes harmadik országbeli állampolgárok országainak felsorolásáról szóló, 2001. március 15-i 539/2001/EK tanácsi rendelet, és az azt módosító 509/2014/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.

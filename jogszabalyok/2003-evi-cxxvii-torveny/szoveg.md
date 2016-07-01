@@ -931,6 +931,8 @@ a 38. § (4) bekezdésének figyelembevételével.
 
 (7) Az adóraktár engedélyese az engedélykérelemben megadott, illetve az engedélyben rögzített adatok változását haladéktalanul köteles a vámhatósághoz bejelenteni, abban az esetben is, ha az egyébként az adóraktári engedély módosítását nem igényli.
 
+(7a) A (7) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle az adóraktár engedélyese kéri – haladéktalanul értesíti a vámhatóságot.
+
 (8) Ha az adóraktár engedélyese további adóraktár működtetését, vagy adóraktárában az engedélyezett tevékenység bővítését vagy szűkítését kéri, az adóraktári engedélye módosítására irányuló kérelmet kell benyújtania.
 
 (9)
@@ -1584,6 +1586,8 @@ ténylegesen felhasznált, adózottan beszerzett 2710 11 31 vámtarifaszámú re
 kereskedelmi gázolaj után literenként 7 Ft visszaigényelhető.
 
 (2) Az (1) bekezdés szerinti adó-visszaigénylésre – figyelemmel a (3) bekezdés rendelkezésére is – a 7. § 51. pontjában meghatározott gépjármű vagy nyerges járműszerelvény (a továbbiakban együtt: kereskedelmi jármű) vámhatóság által e célból nyilvántartásba vett üzembentartója, illetve – bérelt kereskedelmi jármű esetében – bérbe vevője jogosult. A jogosult a nyilvántartásba vétel iránti kérelmet az adóvisszaigénylési jogosultság első ízben történő érvényesítése előtt legalább 30 nappal köteles benyújtani a vámhatósághoz. A kérelemnek tartalmaznia kell a jogosult adószámát, valamint képviselője természetes személyazonosító adatait, személyazonosításra alkalmas okmányának számát. A jogosult a vámhatóság által nyilvántartásba vett adatok változását legkésőbb a változás bekövetkezésétől számított 10 napon belül köteles a vámhatósághoz bejelenteni.
+
+(2a) A (2) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a jogosult kéri – a (2) bekezdésben meghatározott határidőn belül értesíti a vámhatóságot.
 
 (3) A belföldön székhellyel, telephellyel vagy fiókteleppel nem rendelkező, kereskedelmi járművet üzemeltető személy esetében e § rendelkezése a más tagállamban vagy EFTA-országban (azaz Norvégiában, Svájcban, Liechtensteinben vagy Izlandon) regisztrált és ott kiadott nemzetközi fuvarozási engedéllyel rendelkező személyre alkalmazható.
 

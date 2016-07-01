@@ -237,7 +237,7 @@ használhatja fel.
 
 (3) Összeférhetetlen a Pálinka Nemzeti Tanácsban tisztség viselésével, ha a tisztségviselő
 
-- a) államigazgatási szervnél folytat főállásban közszolgálati tisztviselői tevékenységet;
+- a) államigazgatási szervnél folytat főállásban közszolgálati tisztviselői vagy állami tisztviselői tevékenységet;
 - b) politikai pártban országos tisztséget tölt be;
 - c) más tisztségviselőnek a Polgári Törvénykönyvről szóló 2013. évi V. törvény 8:1. § (1) bekezdés 1. pontja szerinti közeli hozzátartozója;
 - d) nem rendelkezik lakóhellyel Magyarországon.

@@ -118,7 +118,7 @@ a megfelelőségértékelő szervezetek tevékenységéről
 - e) a kijelölési eljárás általános szabályait,
 - f) a kijelölt szervezetek kijelölést követő ellenőrzésének szabályait és az alkalmazandó jogkövetkezményeket rendeletben határozza meg.
 
-(2) Felhatalmazást kap a termékre vonatkozó forgalmazási követelmény tekintetében szabályozási feladatkörrel rendelkező miniszter, hogy
+(2) Felhatalmazást kap a termékre vonatkozó forgalmazási követelmény tekintetében szabályozási feladatkörrel rendelkező miniszter vagy önálló szabályozó szerv vezetője, hogy
 
 - a) a kijelölt szervezetekkel szembeni, az adott termékszabályozás sajátosságaival összefüggő különös követelményeket – ideértve a felelősségbiztosítás mértékét, továbbá a szakmai képzettségi és szakmai gyakorlati követelményeket –,
 - b) a kijelölési eljárásnak az adott termékszabályozás sajátosságaival összefüggő különös szabályait – ideértve a kérelmező szervezet alkalmassága és felkészültsége igazolásának módját, valamint az engedély hatályának meghatározását –,

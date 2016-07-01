@@ -184,7 +184,7 @@ hívja össze.
 (2) Az (1) bekezdésben foglalt feltételeken túl az a személy nevezhető ki ügyésszé, aki a jogi szakvizsga letételét követően
 
 - a) alügyészként, bírósági titkárként, közjegyzőként, ügyvédként, jogtanácsosként, az OKRI-ban kutatóként, nyomozó hatóságnál nyomozóként legalább egy évig ténylegesen dolgozott,
-- b) a közszolgálati tisztviselőkről szóló törvény (a továbbiakban: Kttv.) 1. § a)–c) pontjában és 2. §-ában meghatározott szervnél közigazgatási, illetve jogi szakvizsgához kötött munkakörben legalább egy évig ténylegesen dolgozott,
+- b) a közszolgálati tisztviselőkről szóló törvény (a továbbiakban: Kttv.) 1. § a)–c) pontjában és 2. §-ában meghatározott, valamint az állami tisztviselőkről szóló 2016. évi LII. törvény hatálya alá tartozó szervnél közigazgatási, illetve jogi szakvizsgához kötött munkakörben legalább egy évig ténylegesen dolgozott,
 - c) ügyészként, alkotmánybíróként, bíróként működött,
 - d) nemzetközi szervezetnél, az Európai Unió valamely szervénél ítélkezett, az igazságszolgáltatással összefüggő tevékenységet legalább egy évig ténylegesen folytatott.
 
@@ -206,7 +206,7 @@ hívja össze.
 - d) akivel szemben a bíróság kényszergyógykezelést alkalmazott, a kényszergyógykezelést megszüntető végzés jogerőre emelkedésétől számított három évig,
 - e) akivel szemben a bíróság próbára bocsátást alkalmazott, a próbaidő, annak meghosszabbítása esetén a meghosszabbított próbaidő elteltétől számított három évig,
 - f) akivel szemben büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádló vádindítványa alapján indult eljárást – van folyamatban, a büntetőeljárás jogerős bejezéséig,
-- g) akit ügyészként, bíróként, kormánytisztviselőként, köztisztviselőként, végrehajtóként, közalkalmazottként, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek hivatásos állományának tagjaként, igazságügyi alkalmazottként, alügyészként és fogalmazónként, ügyvédként, ügyvédjelöltként, közjegyzőként, közjegyző helyettesként a legsúlyosabb fegyelmi büntetéssel sújtottak, mindaddig, amíg a fegyelmi büntetés hatálya alatt áll,
+- g) akit ügyészként, bíróként, kormánytisztviselőként, állami tisztviselőként, köztisztviselőként, végrehajtóként, közalkalmazottként, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek hivatásos állományának tagjaként, igazságügyi alkalmazottként, alügyészként és fogalmazóként, ügyvédként, ügyvédjelöltként, közjegyzőként, közjegyző helyettesként a legsúlyosabb fegyelmi büntetéssel sújtottak, mindaddig, amíg a fegyelmi büntetés hatálya alatt áll,
 - h) aki külön törvényben szabályozott vagyonnyilatkozat-tételi kötelezettségét megszegte.
 
 (4a) Nem nevezhető ki ügyésznek az a személy,
@@ -1695,7 +1695,7 @@ kell érteni.
 
 (2) A végkielégítés összegének megállapításakor – az (1) bekezdésben említetten kívül – ügyészségi szolgálati viszonyban töltött időnek kell tekinteni a bírói szolgálati viszonyban, az igazságügyi szolgálati jogviszonyban megszakítás nélkül eltöltött időt.
 
-(3) A jubileumi jutalomra jogosító idők számítása során és a fizikai alkalmazott alapszabadságának a megállapításakor az ügyészségi szolgálati viszonyban töltött idő számításánál – az (1) bekezdésben említetten kívül – az Alkotmánybíróságnál és a bíróságnál szolgálati viszonyban, kormányzati szolgálati jogviszonyban, kormánytisztviselői jogviszonyban, közszolgálati jogviszonyban, közalkalmazotti jogviszonyban, továbbá más foglalkoztatási jogviszonyban (szolgálati viszonyban, munkaviszonyban), valamint 1992. január 20-át követően szövetkezetnél munkaviszony jellegű jogviszonyban töltött időt is figyelembe kell venni.
+(3) A jubileumi jutalomra jogosító idők számítása során és a fizikai alkalmazott alapszabadságának megállapításakor az ügyészségi szolgálati viszonyban töltött idő számításánál – az (1) bekezdésben említetten kívül – az Alkotmánybíróságnál és a bíróságnál szolgálati viszonyban, kormányzati szolgálati jogviszonyban, állami szolgálati jogviszonyban, közszolgálati jogviszonyban, közalkalmazotti jogviszonyban, továbbá más foglalkoztatási jogviszonyban (szolgálati viszonyban, munkaviszonyban), valamint 1992. január 20-át követően szövetkezetnél munkaviszony jellegű jogviszonyban töltött időt is figyelembe kell venni.
 
 (4) A jubileumi jutalomra jogosító idők számítása során ügyészségi szolgálati viszonyban töltött időnek tekintendő az (1) és (3) bekezdésben írtakon túl az ügyvédi tevékenység és a közjegyzői szolgálat tartama, ide nem értve a jogviszony szünetelését.
 

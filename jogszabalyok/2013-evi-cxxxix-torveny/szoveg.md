@@ -478,7 +478,7 @@ vonatkozó szabályokat állapít meg.
 
 33. § (1) Az MNB elnöke a Monetáris Tanács által meghatározott stratégiai keretek között, a Pénzügyi Stabilitási Tanács döntése alapján rendeletében szabályozza az anticiklikus tőkepuffer képzésének feltételeit.
 
-(2) Az MNB elnöke a Monetáris Tanács által meghatározott stratégiai keretek között, a Pénzügyi Stabilitási Tanács döntése alapján az anticiklikus tőkepufferráta meghatározásához negyedévente irányadó pufferrátát – az anticiklikus tőkepufferráta meghatározásának alapjául szolgáló rátát – állapít meg, amelynél figyelembe veszi
+(2) A Monetáris Tanács által meghatározott stratégiai keretek között, a Pénzügyi Stabilitási Tanács az anticiklikus tőkepufferráta meghatározásához negyedévente irányadó pufferrátát – az anticiklikus tőkepufferráta meghatározásának alapjául szolgáló rátát – állapít meg, amelynél figyelembe veszi
 
 - a) a hitelezési ciklus állapotát,
 - b) a hitelállomány túlzott növekedéséből fakadó kockázatokat,
@@ -523,7 +523,7 @@ vonatkozó szabályokat állapít meg.
 
 #### 23/A. Rendszerszintű vagy makroprudenciális kockázatot csökkentő intézkedések
 
-35/A. § (1) Ha a nem ciklikus, rendszerszintű vagy makroprudenciális kockázatok kialakulásának megelőzése és csökkentése, és a pénzügyi közvetítőrendszer ellenálló képességének növelése indokolja, akkor az MNB elnöke a Monetáris Tanács által meghatározott stratégiai keretek között, a Pénzügyi Stabilitási Tanács döntése alapján rendszerkockázati tőkepufferrátát határozhat meg.
+35/A. § (1) Ha a nem ciklikus, rendszerszintű vagy makroprudenciális kockázatok kialakulásának megelőzése és csökkentése, és a pénzügyi közvetítőrendszer ellenálló képességének növelése indokolja, akkor a Pénzügyi Stabilitási Tanács a Monetáris Tanács által meghatározott stratégiai keretek között rendszerkockázati tőkepufferrátát határozhat meg.
 
 (2) A 141/A. § (1) bekezdésében meghatározott tájékoztatás magában foglalja:
 
@@ -624,6 +624,8 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 (18) Az MNB a 39. § (1) bekezdés m) pontjában meghatározott feladatai során ellátja az európai hosszú távú befektetési alapokról szóló, 2015. április 29-i 760/2015/EU parlamenti és tanácsi rendelet végrehajtását.
 
 (19) Az MNB a 39. § (1) bekezdés o) pontjában meghatározott feladatai során ellátja a kártyaalapú fizetési műveletek bankközi jutalékairól szóló, 2015. április 29-i 2015/751/EU parlamenti és tanácsi rendelet végrehajtásából származó feladatokat.
+
+(20) Az MNB a 39. § (1) bekezdés h) pontjában meghatározott feladatai során ellátja a piaci visszaélésekről (piaci visszaélésekről szóló rendelet), valamint a 2003/6/EK európai parlamenti és tanácsi irányelv és a 2003/124/EK, a 2003/125/EK és a 2004/72/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 596/2014/EU európai parlamenti és tanácsi rendelet végrehajtását.
 
 41. § (1) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló, 2004. október 27-i 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtását
 
@@ -820,13 +822,13 @@ folytat le.
 
 (3) Az eljárási bírságot kiszabó végzés elleni bírósági felülvizsgálati kérelemnek a végzés végrehajtására nincs halasztó hatálya.
 
-53. § (1) Az MNB a hatósági eljárásban hozott döntéseivel kapcsolatban a honlapján közzéteszi
+53. § (1) Az MNB a hatósági eljárásban hozott határozataival kapcsolatban a honlapján közzéteszi
 
 - a) a határozat számát és tárgyát,
 - b) a hatósági eljárásban érintett – nem természetes személy – ügyfél nevét és székhelyét,
-- c) a döntés rendelkező részét, ide nem értve jogerős döntés esetén a jogorvoslatról szóló tájékoztatást,
-- d) a döntése ellen indított jogorvoslati eljárás tényét,
-- e) a döntése elleni jogorvoslati eljárás során hozott jogerős ítélet rendelkező részét.
+- c) a határozat rendelkező részét, ide nem értve jogerős határozat esetén a jogorvoslatról szóló tájékoztatást,
+- d) a határozata ellen indított jogorvoslati eljárás tényét,
+- e) a határozata elleni jogorvoslati eljárás során hozott jogerős ítélet rendelkező részét.
 
 (1a) Az (1) bekezdésben meghatározottakat meghaladóan az MNB a Hpt. 185. § és 189–192. §, a Tpt. 400. § (1) bekezdés o) pont 2. alpont, a Tpt. 400. § (1) bekezdés w) pont, a Bszt. 164. §, és a Kbftv. 174/A. § alapján hozott, (1) bekezdés szerint közzétett, jogerős határozatában megjelöli a jogsértő természetes személy nevét is.
 
@@ -886,17 +888,21 @@ folytat le.
 
 #### 25. Elektronikus kapcsolattartás
 
-58. § (1) Az 1. melléklet szerinti eljárásokban a 39. §-ban meghatározott törvények hatálya alá tartozó szervezet (a továbbiakban együtt: elektronikus kapcsolattartásra kötelezett) és az MNB közötti kapcsolattartás az MNB által működtetett elektronikus kézbesítési felületen, az elektronikus kapcsolattartásra kötelezett részére fenntartott kézbesítési tárhelyen keresztül elektronikus úton történik.
+58. § (1) Az 1. melléklet I. pontja szerinti eljárásokban a 39. §-ban meghatározott törvények hatálya alá tartozó szervezet és az MNB közötti kapcsolattartás az MNB által működtetett elektronikus kézbesítési felületen, az eljárásban érintett szervezet részére fenntartott kézbesítési tárhelyen keresztül elektronikus úton történik.
 
-(2) Az MNB az általa a kézbesítési tárhelyen elhelyezett iratról az elektronikus kapcsolattartásra kötelezett részére az általa megjelölt legfeljebb öt elektronikus levélcímre értesítést küld. Az értesítéshez joghatás nem fűződik.
+(2) Az 1. melléklet II. pontjában meghatározott eljárásokban a 39. §-ban meghatározott törvények hatálya alá tartozó szervezet és az MNB közötti kapcsolattartás az MNB által működtetett elektronikus kézbesítési felületen, az eljárásban érintett szervezet részére fenntartott kézbesítési tárhelyen keresztül elektronikus úton is történhet.
 
-(3) Ha az irat kézbesítési tárhelyen történt elhelyezését követően a címzett az iratot nyolc napon belül nem veszi át, az iratot a kézbesítési tárhelyen történt elhelyezését követő kilencedik napon kézbesítettnek kell tekinteni. Amennyiben a kézbesítési helyen elhelyezett irat a Tpt. 32. §-a szerinti tájékoztató, alaptájékoztató kiegészítésére, illetve a forgalomba hozatali eljárás felfüggesztésére vonatkozik, úgy azt, az elhelyezést követő munkanapon kézbesítettnek kell tekinteni. A kézbesítés megtörténtéről és a kézbesítési vélelem beállásáról az MNB automatikusan létrehozott elektronikus visszaigazolásban (elektronikus tértivevény) értesül.
+(3) Az MNB az általa a kézbesítési tárhelyen elhelyezett iratról az eljárásban érintett szervezet részére az általa megjelölt legfeljebb öt elektronikus levélcímre értesítést küld. Az értesítéshez joghatás nem fűződik.
 
-(4) Az MNB az iratot a kézbesítési tárhelyen az ahhoz kapcsolódó kérelem alapján igénybe vehető rendes és rendkívüli jogorvoslati lehetőségekre nyitva álló határidő utolsó napjáig megőrzi (a továbbiakban: megőrzési idő). Az MNB a megőrzési idő utolsó napján a kézbesítési tárhelyről eltávolítja az iratot, amelynek újbóli elektronikus megküldését az elektronikus kapcsolattartásra kötelezett kérheti.
+(4) Ha az irat kézbesítési tárhelyen történt elhelyezését követően a címzett az iratot nyolc napon belül nem veszi át, az iratot a kézbesítési tárhelyen történt elhelyezését követő kilencedik napon kézbesítettnek kell tekinteni. Ha a kézbesítési helyen elhelyezett irat a Tpt. 32. §-a szerinti tájékoztató, alaptájékoztató kiegészítésére, illetve a forgalomba-hozatali eljárás felfüggesztésére vonatkozik vagy az 1. melléklet II. pontjában meghatározott eljárások esetén a kézbesítés címzettje az 1. melléklet II. pont a), c), d), g)–k) és m) pontjában meghatározott szervezet, úgy azt az elhelyezést követő munkanapon kézbesítettnek kell tekinteni.
 
-(5) Ha az MNB kézbesítési tárhelye bármely okból munkanapon legalább négy órán keresztül működésképtelen, ez a nap a (3) bekezdés szerinti határidőbe nem számít be. Az MNB honlapján közzéteszi azokat a napokat, amelyek a határidőbe nem számítanak be.
+(5) A kézbesítés megtörténtéről és a kézbesítési vélelem beállásáról az MNB automatikusan létrehozott elektronikus visszaigazolásban (elektronikus tértivevény) értesül.
 
-(6) Az MNB az e törvényben meghatározott elektronikus kapcsolattartás esetében biztonságos kézbesítési szolgáltatást végez.
+(6) Az MNB az iratot a kézbesítési tárhelyen az ahhoz kapcsolódó kérelem alapján igénybe vehető rendes és rendkívüli jogorvoslati lehetőségekre nyitva álló határidő utolsó napjáig megőrzi (a továbbiakban: megőrzési idő). Az MNB a megőrzési idő utolsó napján a kézbesítési tárhelyről eltávolítja az iratot, amelynek újbóli elektronikus megküldését az elektronikus kapcsolattartásra kötelezett kérheti.
+
+(7) Ha az MNB kézbesítési tárhelye bármely okból munkanapon legalább négy órán keresztül működésképtelen, ez a nap a (4) bekezdés szerinti határidőbe nem számít be. Az MNB honlapján közzéteszi azokat a napokat, amelyek a határidőbe nem számítanak be.
+
+(8) Az MNB az e törvényben meghatározott elektronikus kapcsolattartás esetében biztonságos kézbesítési szolgáltatást végez.
 
 ### VII. Fejezet — EGYES HATÓSÁGI ELJÁRÁSOK
 
@@ -912,11 +918,11 @@ folytat le.
 
 60. § (1) Harmincnapos ügyintézési határidő esetén az MNB a hiánypótlási felhívást legkésőbb tizenöt napon belül bocsátja ki.
 
-(1a) Harminc napos ügyintézési határidő esetén a határidő indokolt esetben egy alkalommal, legfeljebb harminc nappal meghosszabbítható.
+(2) Harmincnapos ügyintézési határidő esetén a határidő indokolt esetben egy alkalommal, legfeljebb harminc nappal meghosszabbítható.
 
-(2) Az MNB előtti eljárásban a kérelem módosításának – a hiánypótlás, valamint a 61. § (6) bekezdésében meghatározott eset kivételével – nincs helye.
+(3) Az MNB előtti eljárásban a kérelem módosításának – a hiánypótlási felhívás kivételével – nincs helye.
 
-(3) Ha az MNB a kérelmezőt hiánypótlásra, a kérelem módosítására vagy kiegészítésére hívta fel, akkor az ügyintézési határidő a hiányok maradéktalan pótlásától számítandó.
+(4) Ha az MNB a kérelmezőt hiánypótlásra hívta fel, akkor az ügyintézési határidő a hiányok maradéktalan pótlásától számítandó.
 
 61. § (1)
 
@@ -930,9 +936,7 @@ folytat le.
 
 (6) Ha az ügyfél a (2), (3) és (4) bekezdésben meghatározott eljárás lefolytatása iránti kérelmet hiányosan nyújtotta be, az MNB a kérelmezőt harminc napon belül hiánypótlásra hívja fel.
 
-(7) Ha a hiánytalanul rendelkezésre álló kérelem és mellékletei nem felelnek meg a jogszabályban foglalt feltételeknek, célszerűtlen vagy szakszerűtlen előírást tartalmaznak, az MNB a hiánytalan beérkezést követő harminc napon belül – megfelelő határidő megjelölése mellett – az ügyfelet a kérelem vagy annak melléklete kiegészítésére, illetve módosítására hívja fel.
-
-(8) Az MNB a kérelem kiegészítésének, illetve módosításának elrendelése során figyelmezteti az ügyfelet arra, hogy annak elmulasztása vagy nem megfelelő teljesítése esetén a rendelkezésre álló adatok alapján érdemben bírálja el a kérelmet.
+(7)–(8)
 
 #### 27. Ellenőrzési eljárás
 
@@ -979,10 +983,10 @@ végez.
 
 (5) Az MNB hivatalból témavizsgálatot több személynél és szervezetnél végezhet a 62. § (1) bekezdésben meghatározott az azonos vagy hasonló jellegű jogszabályi rendelkezések betartásának összehangolt és összehasonlító ellenőrzése céljából.
 
-(6) Az MNB rendkívüli célvizsgálatot indít a 39. § hatálya alá tartozó személyeknél és szervezeteknél a 62. § (1) bekezdésben meghatározott jogszabályi rendelkezések súlyos megsértésének megalapozott gyanúja esetén, ha a jogsértés
+(6) Ha a (4) bekezdésben meghatározott célvizsgálat lefolytatása különösen jelentős késedelemmel járna, az MNB rendkívüli célvizsgálatot indít a 39. § hatálya alá tartozó személyeknél és szervezeteknél a 62. § (1) bekezdésében meghatározott jogszabályi rendelkezések súlyos megsértésének megalapozott gyanúja esetén, ha a jogsértés
 
 - a) az ügyfelek nagy számát érinti,
-- b) jelentős rendszerkockázattal jár, vagy
+- b) jelentős rendszerkockázattal jár vagy
 - c) az adott piacba vetett bizalmat általánosan veszélyezteti.
 
 (7) Az MNB a határozatainak teljesülését utóvizsgálat keretében ellenőrzi, amely kiterjedhet a rendes, illetve rendkívüli adatszolgáltatásból származó adatok vizsgálatára, valamint a helyszíni és helyszínen kívüli ellenőrzésből származó megállapítások vizsgálatára.
@@ -995,7 +999,7 @@ végez.
 
 (4) Az MNB alkalmazottai közül az MNB elnöke által kijelölt személy jogosult elektronikus úton a tőzsdei forgalmat figyelemmel kísérni, feljegyzést készíteni, az esetlegesen észlelt szabálytalanság rövid kivizsgálása érdekében technikai szünetet kérni, helyszíni jegyzőkönyvet felvenni.
 
-(5) Az MNB alkalmazottai közül az MNB elnöke által kijelölt személy jogosult a 39. §-ban meghatározott törvények hatálya alá tartozó szervezetek igazgatósági ülésein, közgyűlésein, ügyvezető testületének és a legfőbb szervének hatáskörét gyakorló testület ülésein jelen lenni.
+(5) Az MNB alkalmazottai közül az MNB elnöke, vagy – az elnök kijelölése alapján – a 4. § (9) bekezdésében meghatározott feladatot felügyelő alelnök által kijelölt személy jogosult a 39. §-ban meghatározott törvények hatálya alá tartozó szervezetek igazgatósági ülésein, közgyűlésein, ügyvezető testületének és a legfőbb szervének hatáskörét gyakorló testület ülésein jelen lenni.
 
 (6) Az MNB az értékpapírok nyomdai úton történő előállítására vonatkozó külön jogszabályban előírt kötelezettségek ellenőrzése keretében, az ott meghatározott körben és módon a Nemzetbiztonsági Szakszolgálattal együttműködve jár el.
 
@@ -1011,7 +1015,7 @@ végez.
 
 (5) Helyszíni ellenőrzés bármely olyan helyen foganatosítható, ahol a tényállás tisztázásához szükséges bizonyíték lelhető fel. Az ellenőrzést végző személy hatásköre gyakorlásának keretei között az ellenőrzés lefolytatásához szükséges helyiségekbe beléphet, az ellenőrzés tárgyával összefüggő iratot, adathordozót, tárgyat, munkafolyamatot figyelemmel kísérhet, megvizsgálhat, az ügyféltől, annak képviselőjétől, továbbá az ellenőrzés helyszínén tartózkodó bármely más személytől felvilágosítást, nyilatkozatot kérhet vagy készíthet, próbaügyletkötést végezhet, továbbá egyéb bizonyítást folytathat le.
 
-(6) A helyszíni ellenőrzés során az MNB jogosult bármilyen adathordozóról fizikai tükörmásolatot készíteni és a tükörmásolat felhasználásával az adathordozón tárolt adatokat átvizsgálni.
+(6) A helyszíni ellenőrzés során az MNB jogosult bármilyen adathordozóról – ideértve valamely tárhelyszolgáltató által tárolt adatokat is – fizikai tükörmásolatot vagy hiteles másolatot készíteni és a másolat felhasználásával az adathordozón tárolt adatokat átvizsgálni.
 
 (7) Ha a helyszíni ellenőrzést az MNB informatikai eszköz útján végzi, annak elvégzésére való jogosultság igazolását követően – szükség szerint az informatikai rendszerhez történő hozzáférés technikai és jogosultsági feltételeinek biztosításával – az MNB számára hozzáférést kell biztosítania az adatokhoz.
 
@@ -1096,7 +1100,7 @@ rendelhet ki.
 
 73. § A 39. §-ban meghatározott törvények és a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvény (a továbbiakban: Szantv.) alapján az MNB ellenőrzési eljárást külföldi pénzügyi vagy szanálási hatóság kérésére is lefolytathat.
 
-74. § (1) Az MNB eljárásában a döntés meghozataláig terjedő időtartamra a végrehajtás felfüggesztésére irányuló kérelemre tekintet nélkül végrehajtható végzésben
+74. § (1) Az MNB eljárásában a döntés meghozataláig terjedő időtartamra az önálló jogorvoslattal meg nem támadható végzésben
 
 - a) a 39. §-ban meghatározott, az adott tevékenységre vonatkozó törvény szerinti intézkedést, kivételes intézkedést alkalmazza, ha erre – az érdekeltek jogi vagy gazdasági érdekeinek védelme miatt – halaszthatatlanul szükség van,
 - b) megtilthatja a jogsértő magatartás további folytatását, továbbá elrendelheti a jogsértő állapot megszüntetését, ha erre – a 4. § (9) bekezdésében meghatározott feladatai ellátása érdekében, a késedelemmel járó jelentős vagy helyrehozhatatlan kár veszélye miatt – halaszthatatlanul szükség van.
@@ -1239,7 +1243,14 @@ szerzett vezetői gyakorlattal rendelkezik.
 
 betartását, és – ide nem értve a szerződés létrejöttének, érvényességének, joghatásainak és megszűnésének, továbbá a szerződésszegésnek és annak joghatásainak megállapítását – eljár e rendelkezések megsértése esetén (a továbbiakban: fogyasztóvédelmi eljárás).
 
-(2) E törvény alkalmazásában fogyasztó az önálló foglalkozásán és gazdasági tevékenységén kívül eső célok érdekében eljáró természetes személy.
+(2) E törvény alkalmazásában:
+
+- a) fogyasztó: az önálló foglalkozásán és gazdasági tevékenységén kívül eső célok érdekében eljáró természetes személy,
+- b) szolgáltatási szerződés: bármely olyan – a fogyasztóvédelemről szóló törvényben meghatározott szolgáltatási szerződéstől eltérő – szerződés, amelynek értelmében a 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet a fogyasztó részére szolgáltatást nyújt vagy szolgáltatás nyújtását vállalja, a fogyasztó pedig megfizeti vagy vállalja, hogy megfizeti a szolgáltatás ellenértékét,
+- c) online szolgáltatási szerződés: olyan szolgáltatási szerződés, amelynek értelmében a 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet, illetve annak közvetítője egy honlapon vagy egyéb elektronikus eszközön keresztül kínál igénybevételre valamilyen szolgáltatást, és a fogyasztó az adott honlapon vagy egyéb elektronikus eszközön keresztül kezdeményezi a szolgáltatás igénybevételét,
+- d) fogyasztói jogvita: az e törvény 96. § (1) bekezdésében meghatározott pénzügyi fogyasztói jogvita,
+- e) belföldi fogyasztói jogvita: bármely fogyasztói jogvita, kivéve a 125. § a) pontjában meghatározott határon átnyúló pénzügyi fogyasztói jogvitát,
+- f) határon átnyúló fogyasztói jogvita: bármely fogyasztói jogvita, kivéve a belföldi fogyasztói jogvitát.
 
 (3) A fogyasztóvédelmi eljárást a fogyasztó kizárólag azt követően kezdeményezheti, miután a 39. §-ban meghatározott törvények hatálya alá tartozó személynél vagy szervezetnél, e személy vagy szervezet által meghatározott és közzétett elérhetőségein keresztül – személyesen, telefonon, postai úton, telefaxon, az erre a célra üzemeltetett informatikai rendszeren keresztül – azonosítására alkalmas tartalommal, szóban vagy írásban a személy vagy szervezet szolgáltatásával vagy eljárásával kapcsolatos panaszát már korábban előterjesztette, azonban
 
@@ -1330,7 +1341,8 @@ tarthat.
 (4) Az MNB minden esetben fogyasztóvédelmi bírságot szab ki, ha
 
 - a) az MNB-nek a jogsértést megállapító jogerős határozatában előírt kötelezettség teljesítésére megállapított határnap elteltét, illetve határidő lejártát követő hat hónapon belül ugyanaz a szervezet vagy személy ugyanazon jogszabályi rendelkezést ismételten megsértette, vagy
-- b) a jogsértés a fogyasztók széles körét érinti.
+- b) a jogsértés a fogyasztók széles körét érinti,
+- c) a 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet megsérti a 108. § (5) bekezdésében meghatározott együttműködési kötelezettségét és e kötelezettség megsértését alapos okkal nem menti ki.
 
 89. § (1) A fogyasztóvédelmi bírság összege tizenötezer forinttól
 
@@ -1432,7 +1444,7 @@ kezelheti, és ezt követően haladéktalanul, de legfeljebb két munkanapon bel
 
 (4) A vizsgálati munkamásolatot készítése során az adathordozón tárolt adatokról elektronikus másolat készítésekor az adatokat olyan módon kell rögzíteni, hogy az adatok megváltoztatása utólag ne legyen lehetséges, illetve – ha az adathordozó jellege ezt nem teszi lehetővé – az adatokat olyan adatrögzítési eljárással kell rögzíteni, amely biztosítja az adatok változatlansága utólagos ellenőrzésének lehetőségét.
 
-90/C. § (1) A védekezés céljából készült irat a piacfelügyeleti eljárásban bizonyítékként nem használható fel és – az e §-ban meghatározott esetek kivételével – nem vizsgálható meg, nem foglalható le, illetve nem másolható le, annak felmutatása, átadása, az ahhoz való hozzáférés adása megtagadható. E tilalom alól az ügyfél felmentést adhat.
+90/C. § (1) A helyszíni kutatás során az MNB birtokába került védekezés céljából készült irat a piacfelügyeleti eljárásban bizonyítékként nem használható fel és – az e §-ban meghatározott esetek kivételével – nem vizsgálható meg, nem foglalható le, illetve nem másolható le, a helyszíni kutatás során a védekezés céljából készült irat felmutatása, átadása, az ahhoz való hozzáférés adása megtagadható. E tilalom alól az ügyfél felmentést adhat.
 
 (2) Védekezés céljából készült irat az olyan irat vagy iratrész, amely az ügyfél védekezéshez való jogának gyakorlása érdekében, illetve annak keretében, az ügyfél és megbízott ügyvédje közötti kommunikáció során keletkezett, vagy az ilyen kommunikáció során elhangzottakat rögzíti, és e jellege magából az iratból is kitűnik. Nem minősül védekezés céljából készült iratnak az az irat, amely nincs az ügyfél vagy az érintett ügyvéd birtokában, kivéve, ha bizonyítják, hogy az irat jogellenesen került ki a birtokukból.
 
@@ -1470,7 +1482,7 @@ kezelheti, és ezt követően haladéktalanul, de legfeljebb két munkanapon bel
 
 adatok megismerésére és kezelésére.
 
-(2) Az (1) bekezdésben meghatározott adat igénylésekor az MNB köteles valószínűsíteni, hogy a tényállás maradéktalan tisztázása érdekében az adat megismerése szükséges.
+(2) Az (1) bekezdésben meghatározott adat igénylésekor az MNB köteles valószínűsíteni, hogy a tényállás maradéktalan tisztázása vagy a cselekménnyel összefüggő lényeges egyéb tények megismerése, továbbá a cselekménnyel kapcsolatba hozható személy megállapítása érdekében az adat megismerése szükséges.
 
 (3) Az (1) bekezdésben meghatározott adat megismeréséhez az ügyész előzetes jóváhagyása szükséges.
 
@@ -1478,7 +1490,7 @@ adatok megismerésére és kezelésére.
 
 (5) Az (1) bekezdés a) pontja szerinti adatok megismerésére nem természetes személy ügyfél esetén az MNB az ügyfél vizsgált tevékenységéért felelős vagy azzal közvetlen összefüggésbe hozható személy vonatkozásában is jogosult, amennyiben a piacfelügyeleti eljárás során beszerzett bizonyítékok alapján valószínűsíthető, hogy a nem természetes személy ügyfél tevékenysége végzéséhez ezen értékpapír-, ügyfél- vagy fizetési számlán kezelt összegek is felhasználásra kerülnek. Amennyiben a megismert számlaforgalom alapján az ellenőrzött személy érintettségére vonatkozó gyanú alaptalannak bizonyul, az ellenőrzött személyt az MNB ügyfélként nem vonja be a piacfelügyeleti eljárásba, azonban az érintett számlaforgalom ellenőrzéséről értesíti. Amennyiben a megismert számlaforgalom alapján az ellenőrzött személy érintettségére vonatkozó gyanú alaposnak bizonyul, úgy az MNB az ellenőrzött személyt a piacfelügyeleti eljárásba ügyfélként vonja be.
 
-(6) Az MNB az (1) bekezdésben meghatározott adatokat a piacfelügyeleti eljárás során hozott határozat vagy az eljárást megszüntető végzés jogerőre emelkedésétől, illetve a bírósági eljárás – ideértve annak jogorvoslati szakaszait is – befejezésétől számított 5 évig kezelheti.
+(6) Ha törvény eltérően nem rendelkezik az MNB az (1) bekezdésben meghatározott adatokat a piacfelügyeleti eljárás során hozott határozat vagy az eljárást megszüntető végzés jogerőre emelkedésétől, illetve a bírósági eljárás – ideértve annak jogorvoslati szakaszait is – befejezésétől számított 5 évig kezelheti.
 
 92. § (1) Az MNB piacfelügyeleti eljárásban a küldeményeit postai szolgáltató útján vagy saját kézbesítés keretében is kézbesítheti. A külföldön teljesített postai úton való kézbesítést szabályszerűnek kell tekinteni, ha az akár a hivatalos irat kézbesítésére vonatkozó belföldi jogszabályok rendelkezéseinek, akár a kézbesítés helyén irányadó jogszabályok rendelkezéseinek megfelel.
 
@@ -1552,7 +1564,7 @@ terjedhet.
 
 #### 30/A. A hatósági szerződésre vonatkozó szabályok
 
-95. § (1) Az MNB a fogyasztóvédelmi ellenőrzési eljárás és piacfelügyeleti eljárás során feltárt jogsértés megszüntetése érdekében határozathozatal helyett hatósági szerződést köthet azzal az ügyféllel, aki vállalja, hogy felhagy a jogsértő magatartással és magatartását a hatósági szerződésben meghatározott módon hozza összhangba a vonatkozó jogszabályok rendelkezéseivel.
+95. § (1) Az MNB a fogyasztóvédelmi ellenőrzési eljárás során feltárt jogsértés megszüntetése érdekében határozathozatal helyett hatósági szerződést köthet azzal az ügyféllel, aki vállalja, hogy felhagy a jogsértő magatartással és magatartását a hatósági szerződésben meghatározott módon hozza összhangba a vonatkozó jogszabályok rendelkezéseivel.
 
 (2) Az MNB a hatósági szerződésről hirdetményt tesz közzé a honlapján vagy az általa célszerűnek tartott egyéb módon. A hirdetménynek tartalmaznia kell
 
@@ -1649,11 +1661,19 @@ terjedhet.
 
 (4) A Pénzügyi Békéltető Testület elnöke törvényben meghatározott feladatainak ellátása során nem utasítható.
 
+101/A. § (1) A Pénzügyi Békéltető Testület tagjairól a testület elnöke névjegyzéket vezet.
+
+(2) A névjegyzék tartalmazza a tagok nevét, felsőfokú végzettségük oklevél szerinti megnevezését, szakterületük és a tagot jelölő szervezet megjelölését. Ezek az adatok közérdekből nyilvános adatok. Az elnök a testületi tagok listáját megküldi a fogyasztóvédelemért felelős miniszternek.
+
 #### 32. A Pénzügyi Békéltető Testület eljárása
 
 102. § (1) A Pénzügyi Békéltető Testület eljárása megindításának feltétele, hogy a fogyasztó a 39. §-ban meghatározott törvények hatálya alá tartozó, a fogyasztói jogvitával érintett személynél vagy szervezetnél a kérelem benyújtását megelőzően közvetlenül megkísérelte a vitás ügy rendezését vagy e szervezetnél eredménytelenül méltányossági kérelemmel élt.
 
-(2)–(3)
+(2) Ha a Pénzügyi Békéltető Testület beleegyezett, hogy az online vitarendezési platformon keresztül továbbított jogvita kapcsán alternatív vitarendezési eljárást folytat, a fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról (fogyasztói online vitarendezési irányelv) szóló, 2013. május 21-i 524/2013/EU európai parlamenti és tanácsi rendeletben előírt online vitarendezési platform feladatai ellátásának módjáról és a panaszok bejelentésére szolgáló elektronikus űrlap kitöltésének módjáról, és az online vitarendezési kapcsolattartó pontok közötti együttműködés módjáról szóló, a Bizottság 2015/1051. számú végrehajtási rendeletében foglaltak figyelembe vételével köteles eljárni.
+
+(3) A Pénzügyi Békéltető Testület a fogyasztó vagy a 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet kérésére tanácsot ad a fogyasztót megillető jogokkal és a fogyasztót terhelő kötelezettségekkel kapcsolatban.
+
+(4) A Pénzügyi Békéltető Testület elnöke köteles a tagjai számára rendszeres képzést szervezni.
 
 103. § (1) A 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet a Pénzügyi Békéltető Testületnél írásban, visszavonásig érvényes általános alávetési nyilatkozatot tehet, amelyben vállalja, hogy a békéltető testületi eljárásnak és egyezség hiányában az ilyen eljárásban hozott határozatnak aláveti magát. Az alávetési nyilatkozatában a szervezet vagy személy kötelezettségvállalásának mértékét, illetve hatályát a jogvita tárgyának általa meghatározott értékében vagy más módon is korlátozhatja.
 
@@ -1679,7 +1699,7 @@ terjedhet.
 
 (4) A kérelemhez csatolni kell a képviselő meghatalmazását, ha a fogyasztó meghatalmazott útján jár el.
 
-(5) Ha a kérelem nem felel meg a (2)–(4) bekezdésben foglaltaknak, a Pénzügyi Békéltető Testület a kérelmet – annak beérkezésétől számított tizenöt napon belül – a hiányok megjelölése mellett pótlás végett a kérelmezőnek visszaküldi.
+(5) Ha a kérelem nem felel meg a (2)–(4) bekezdésben foglaltaknak, a Pénzügyi Békéltető Testület a kérelmet – annak beérkezésétől számított tizenöt munkanapon belül – a hiányok megjelölése mellett pótlás végett a kérelmezőnek visszaküldi.
 
 105. § Az eljárás megindítása az elévülést megszakítja. Az eljárás eredményes befejezése után az elévülésre a Ptk. 6:25. § (1) és (2) bekezdésében, az eljárás eredménytelensége esetén Ptk. 6:24. § (1) és (2) bekezdésében foglaltak irányadók.
 
@@ -1687,21 +1707,41 @@ terjedhet.
 
 (2) A Pénzügyi Békéltető Testület az eljárás megindulásától számított nyolc napon belül megvizsgálja, hogy az ügy a testület hatáskörébe tartozik-e. A Pénzügyi Békéltető Testület hatáskörének hiánya esetén az ügyet – a kérelmező egyidejű értesítésével – a hatáskörrel rendelkező szervezetnek haladéktalanul megküldi.
 
-(3) A Pénzügyi Békéltető Testület hatáskörének megállapítása esetén értesíti a feleket, és – az (5) bekezdésben meghatározott kivétellel – az eljárás megindulásától számított hatvan napon belüli meghallgatási időpontot tűz ki a felek számára.
+(3) A Pénzügyi Békéltető Testület hatáskörének megállapítása esetén értesíti a feleket, és – az (5) bekezdésben meghatározott kivétellel – az eljárás megindulásától számított hetvenöt napon belüli meghallgatási időpontot tűz ki a felek számára.
 
 (4) A Pénzügyi Békéltető Testület az értesítésben közli a felekkel a kijelölt eljáró tanács tagjainak vagy az adott ügyben egyedül eljáró testületi tag nevét.
 
 (5) Az eljáró tanács elnöke a körülmények mérlegelése alapján kezdeményezheti az eljárás írásbeli lefolytatását, a meghallgatás mellőzéséhez azonban mindkét fél hozzájárulását be kell szereznie. Ha a felek meghallgatás előtt nem járulnak hozzá az eljárás írásbeli lefolytatásához, azonban bármelyik fél a meghallgatáson nem jelenik meg, akkor az eljáró tanács – a meghallgatás megtartását követően – a felek előzetes hozzájárulása nélkül is lefolytathatja az eljárást írásban.
 
-107. § A Pénzügyi Békéltető Testület a kérelmet meghallgatás kitűzése nélkül írásban elutasítja, ha megállapítható, hogy a felek között ugyanabból a ténybeli alapból származó ugyanazon jog iránt korábban a Pénzügyi Békéltető Testület előtt eljárást indítottak, közvetítői eljárást indítottak vagy per van folyamatban, vagy annak tárgyában már jogerős ítéletet hoztak.
+107. § A Pénzügyi Békéltető Testület a kérelmet meghallgatás kitűzése nélkül írásban elutasítja, ha megállapítható, hogy
+
+- a) a felek között ugyanabból a ténybeli alapból származó ugyanazon jog iránt
+  - aa) a Pénzügyi Békéltető Testület előtt eljárást indítottak,
+  - ab) közvetítői eljárást indítottak, vagy
+  - ac) per van folyamatban vagy annak tárgyában már jogerős ítéletet hoztak;
+- b) a felek között ugyanabból a ténybeli alapból származó ugyanazon jog iránti ügyben fizetési meghagyás kibocsátására került sor;
+- c) a jogvita komolytalan vagy zaklató jellegű;
+- d) az ügy nem minősül fogyasztói jogvitának, illetve, ha a Pénzügyi Békéltető Testület egyéb okból nem rendelkezik hatáskörrel a vita elbírálására; vagy
+- e) a kérelmező a 104. § (5) bekezdésében meghatározott hiánypótlási felhívást – az erre nyitva álló határidőben – nem teljesítette.
 
 108. § (1) A Pénzügyi Békéltető Testület a meghallgatás kitűzött időpontjáról, illetve arról, hogy kezdeményezi a meghallgatás mellőzését, a feleket a kérelem másolatának egyidejű megküldésével kellő időben előzetesen értesíti.
 
-(2) Az értesítésben a 39. §-ban meghatározott törvények hatálya alá tartozó személyt vagy szervezetet fel kell szólítani, hogy az értesítés részére történt kézbesítésétől számított tizenöt napon belül írásban nyilatkozzék (válaszirat) a fogyasztó igényének jogosságáról, az ügy körülményeiről, a fogyasztói panasz elbírálásának sikertelenségéről, vagy méltányossági eljárás esetén a méltányosság mellőzésének okairól, továbbá a tanács döntésének kötelezésként történő elfogadását (alávetés) illetően, nyilatkozatában jelölje meg az állításait alátámasztó tényeket és bizonyítékokat, illetve csatolja azokat az okiratokat (ezek másolatát), amelyek tartalmára bizonyítékként hivatkozik. Figyelmeztetni kell a szolgáltatót, hogy az ügy érdemére vonatkozó nyilatkozattételének elmaradása esetén a Pénzügyi Békéltető Testület a rendelkezésére álló adatok alapján határoz.
+(1a) Az (1) bekezdésben meghatározott értesítésben arra is ki kell térni, hogy
+
+- a) a megtett egyezségi ajánlat elfogadása előtt a fogyasztó szabadon dönthet arról, hogy elfogadja a Pénzügyi Békéltető Testület ajánlását, az egyezségi ajánlatot vagy a kötelezést tartalmazó határozatot,
+- b) az eljárásban való részvétel nem zárja ki, hogy a felek bírósági eljárás keretében folyamodjanak jogorvoslatért,
+- c) a döntés tartalma esetlegesen eltérhet a bíróság által meghozott határozattól, és
+- d) a 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet a 103. § (1) bekezdésében meghatározott általános alávetési nyilatkozatot tett-e.
+
+(1b) Az (1) bekezdés szerinti értesítés magában foglalja a Pénzügyi Békéltető Testület eljárásában meghozatalra kerülő döntések joghatására történő figyelemfelhívást, valamint az arra történő kioktatást is, hogy a felek nem kötelesek az eljárás során jogi képviselőt igénybe venni, azonban az eljárás bármely szakában kérhetnek független szakvéleményt, illetve képviselheti vagy segítheti őket harmadik fél. Az értesítés kiterjed az eljárás várható időtartamára, valamint az eljárás időtartama meghosszabbításának lehetőségére is.
+
+(2) Az értesítésben a 39. §-ban meghatározott törvények hatálya alá tartozó személyt vagy szervezetet fel kell szólítani, hogy az értesítés részére történt kézbesítésétől számított tizenöt napon belül írásban nyilatkozzon (válaszirat) a fogyasztó igényének jogosságáról, az ügy körülményeiről, a fogyasztói panasz elbírálásának sikertelenségéről, vagy méltányossági eljárás esetén a méltányosság mellőzésének okairól, továbbá a tanács döntésének kötelezésként történő elfogadását (alávetés) illetően, nyilatkozatában jelölje meg az állításait alátámasztó tényeket és bizonyítékokat, illetve csatolja azokat az okiratokat vagy azok másolatát, amelyek tartalmára bizonyítékként hivatkozik. Figyelmeztetni kell a 39. §-ban meghatározott törvények hatálya alá tartozó személyt vagy szervezetet, hogy egyezség létrehozatalára feljogosított személy részvételét köteles biztosítani a meghallgatáson, továbbá az ügy érdemére vonatkozó nyilatkozattételének elmaradása esetén a tanács a rendelkezésére álló adatok alapján határoz. Az értesítés kiterjed az (5) bekezdésben meghatározott együttműködési kötelezettségről történő tájékoztatásra, valamint arra, hogy annak megsértése esetén az MNB – fogyasztóvédelmi eljárás keretében – fogyasztóvédelmi bírságot szab ki.
 
 (3) A 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet válasziratának másolatát a Pénzügyi Békéltető Testület a kérelmezőnek haladéktalanul megküldi, ha pedig erre már nincs elegendő idő, azt a meghallgatáson adja át.
 
 (4) Ha a 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet válasziratát nem terjeszti elő, a Pénzügyi Békéltető Testület köteles az eljárást folytatni, anélkül, hogy a mulasztást a kérelmező állításai elismerésének tekintené.
+
+(5) A 39. §-ban meghatározott törvények hatálya alá tartozó személyt vagy szervezetet a Pénzügyi Békéltető Testület eljárásában együttműködési kötelezettség terheli, ennek keretében köteles a (2) bekezdésben meghatározott tartalommal, az ott említett határidőn belül válasziratát megküldeni a Pénzügyi Békéltető Testület számára. A fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról (fogyasztói online vitarendezési irányelv) szóló, 2013. május 21-i 524/2013/EU európai parlamenti és tanácsi rendelet alkalmazásának kivételével a 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet a meghallgatáson egyezség létrehozatalára feljogosított személy részvételét biztosítani köteles.
 
 109. § A Pénzügyi Békéltető Testület eljárása során az iratokat a feleknek postai szolgáltató útján, a hivatalos iratok kézbesítésére vonatkozó rendelkezések szerint kézbesíti.
 
@@ -1725,6 +1765,7 @@ terjedhet.
 - b) a felek az eljárás megszüntetésében megállapodnak,
 - c) az eljárás folytatása lehetetlen,
 - d) az eljárás folytatására a tanács megítélése szerint bármely okból – ideértve a kérelem megalapozatlanságát is – nincs szükség.
+- e) a 107. §-ban meghatározott valamely körülmény a tudomására jut.
 
 (4) A tanács az ügy érdemében szótöbbséggel dönt.
 
@@ -1789,9 +1830,9 @@ terjedhet.
 
 (3) A fogyasztó és a 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet a határozattal jóváhagyott egyezség és a kötelezést tartalmazó határozat végrehajtásáról vagy annak elmaradásáról, illetve az ajánlásban foglaltak követéséről vagy a követésének elmaradásáról hatvan napon belül írásban köteles értesíteni a Pénzügyi Békéltető Testületet.
 
-121. § A Pénzügyi Békéltető Testület közzéteheti annak a 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet nevét, székhelyét és az eljárással érintett tevékenysége megjelölését, amely felszólítása ellenére nem tett az ügy érdemére vonatkozó – a 108. § (2) bekezdésében foglaltaknak megfelelő tartalmú – nyilatkozatot és a kitűzött meghallgatáson nem jelent meg, ilyen módon megakadályozva az egyezség létrehozását. Erre az értesítésben a szervezet vagy személy figyelmét fel kell hívni.
+#### 121. §
 
-122. § Ha a 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet megsérti a pénzügyi fogyasztói jogvita rendezésére vonatkozó rendelkezéseket, vele szemben az MNB e törvény szerinti intézkedést alkalmazhat.
+#### 122. §
 
 123. § A Pénzügyi Békéltető Testület döntéseihez az adott ügyben független, jogi egyetemi diplomával és szakvizsgával rendelkező jogász vagy közgazdasági egyetemi diplomával rendelkező közgazdász állásfoglalását szerezheti be, az eljárására vonatkozó részletes szabályokat az e törvény keretei között kialakított működési rendje tartalmazza.
 
@@ -1840,9 +1881,74 @@ terjedhet.
 
 (5) A Pénzügyi Békéltető Testület köteles tevékenységére vonatkozóan az Európai Bizottság felé a Bizottság által kidolgozott formanyomtatványon tájékoztatást adni.
 
-130. § (1) A Pénzügyi Békéltető Testület elnöke a Pénzügyi Békéltető Testület tevékenységéről évente összefoglaló tájékoztatót készít, és azt a tárgyévet követő év január 31-éig jóváhagyásra megküldi az elnöknek.
+#### 33/A. A Pénzügyi Békéltető Testület eljárásaival kapcsolatos nyilvánosságra hozatal
 
-(2) A tájékoztató jóváhagyása után a Pénzügyi Békéltető Testület elnöke a tájékoztatót harminc napon belül nyilvánosságra hozza és megküldi a fogyasztóvédelemért felelős miniszternek.
+130. § (1) A Pénzügyi Békéltető Testület elnöke a Pénzügyi Békéltető Testület tevékenységéről évente összefoglaló tájékoztatót készít, és azt a tárgyévet követő év január 31-éig jóváhagyásra megküldi az MNB elnökének.
+
+(2) A tájékoztató jóváhagyása után a Pénzügyi Békéltető Testület elnöke a tájékoztatót harminc napon belül nyilvánosságra hozza és megküldi a fogyasztóvédelemért felelős miniszternek, valamint azt külön kérésre az igénylő számára elektronikus úton rendelkezésre bocsátja.
+
+(3) A Pénzügyi Békéltető Testület éves tevékenységéről elkészült összefoglaló tájékoztató tartalmazza legalább:
+
+- a) a beérkezett kérelmek számát és ügytípus szerinti megoszlását,
+- b) a fogyasztók és a 39. §-ban meghatározott törvények hatálya alá tartozó személyek vagy szervezetek között gyakran vitákat eredményező, rendszeresen előforduló vagy jelentős problémákat, valamint ajánlásokat arra vonatkozóan, hogy a jövőben az ilyen problémák hogyan kerülhetők el vagy oldhatók meg,
+- c) azon pénzügyi békéltető testületi eljárások számára vonatkozó adatokat, amelyekben a kérelem meghallgatás kitűzése nélküli elutasítására került sor, továbbá az elutasítás 107. § szerinti indokának megjelölését és ezek százalékos arányát,
+- d) az adott évben meghozott döntési típusoknak a teljes ügyszámhoz viszonyított arányát, a fogyasztó igényének megalapozottsága, megalapozatlansága szerinti bontásban, külön kitérve az eljárást megszüntető döntésekre és ez utóbbiak okaira, amennyiben ismertek,
+- e) amennyiben ismert, azon eljárások arányát, amelyek esetében a felek az eljárás eredményének megfelelően jártak el,
+- f) a fogyasztói jogviták lezárásához szükséges átlagos időtartamot,
+- g) amennyiben ismert, a meghozatalra került ajánlások, kötelezést tartalmazó határozatok, egyezséget jóváhagyó határozatok vállalkozás általi teljesítésére vonatkozó adatokat,
+- h) annak tényét, hogy a Pénzügyi Békéltető Testület tagja a FIN-Net-nek.
+
+(4) A Pénzügyi Békéltető Testület kétévente összefoglaló tájékoztatót küld a fogyasztóvédelemért felelős miniszternek, amely tartalmazza:
+
+- a) tájékoztatást a Pénzügyi Békéltető Testület tagjai számára rendszeresen nyújtott képzésekről, és
+- b) a Pénzügyi Békéltető Testület értékelését az általa lefolytatott eljárások eredményességéről és teljesítménye javításának lehetséges módjairól.
+
+130/A. § (1) A Pénzügyi Békéltető Testület közzéteszi annak a 39. §-ban meghatározott törvények hatálya alá tartozó személynek vagy szervezetnek a nevét, székhelyét és az eljárással érintett tevékenysége megjelölését, amely a 108. § (2) bekezdése szerinti felszólítás ellenére nem tett az ügy érdemére vonatkozó – a 108. § (5) bekezdésében foglaltaknak megfelelő tartalmú – nyilatkozatot és a kitűzött meghallgatáson nem jelent meg, ilyen módon megakadályozva az egyezség létrehozását. Erre a 108. § (2) bekezdésében meghatározott értesítésben a 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet figyelmét fel kell hívni.
+
+(2) Az (1) bekezdésben meghatározott közzétételi kötelezettség a 88. § (4) bekezdés c) pontjában meghatározott bírság kiszabásáról szóló közlésétől számított öt évig áll fenn.
+
+130/B. § (1) A fogyasztóvédelemért felelős miniszter – a Pénzügyi Békéltető Testület által megküldött adatok alapján – az általa vezetett minisztérium honlapján gondoskodik a következők közzétételéről:
+
+- a) a Pénzügyi Békéltető Testület címe, telefonszáma, elektronikus levélcíme, valamint hivatkozás a honlapja elérhetőségére,
+- b) hivatkozás a Pénzügyi Békéltető Testület tagjai – a 101/A. §-ban meghatározott, a (2) bekezdés c) pontja szerint közzétett – névjegyzékének elérhetőségére,
+- c) a 99. § szerinti tájékoztatási kötelezettség teljesítését a Pénzügyi Békéltető Testület eljárására vonatkozó törvényi rendelkezések rövid, közérthető bemutatásával előmozdító tájékoztatás,
+- d) a 130. §-ban meghatározott összefoglaló tájékoztatók,
+- e) a Pénzügyi Békéltető Testület eljárását akadályozó vállalkozásoknak a 130/A. §-ban meghatározott adatokat tartalmazó jegyzéke,
+- f) hivatkozás a Pénzügyi Békéltető Testületnél a 103. § (1) bekezdése alapján általános alávetési nyilatkozatot tett személyek vagy szervezetek – (2) bekezdés n) pontja szerint közzétett – neveinek elérhetőségére, és
+- g) a 101. § (1) bekezdése szerinti eljárási szabályzatok.
+
+(2) A Pénzügyi Békéltető Testület naprakész, az eljárására vonatkozó és könnyen hozzáférhető információkkal ellátott internetes honlapot működtet, amelyen lehetővé teszi, hogy a fogyasztó online úton is benyújthassa kérelmét és annak mellékleteit. Az internetes honlapon közzé kell tenni és kérés esetén elektronikus úton a felek rendelkezésére kell bocsátani legalább a következő információkat:
+
+- a) a Pénzügyi Békéltető Testület elérhetőségét, így különösen székhelyét, levelezési címét, e-mail címét, telefonszámát, valamint faxszámát,
+- b) annak tényét, hogy a Pénzügyi Békéltető Testületet az Európai Bizottság jegyzékében nyilvántartásba vették-e,
+- c) a pénzügyi békéltető testületi tagok nevét, valamint megbízatásuk időtartamát, felsőfokú végzettségük oklevél szerinti megnevezését, szakterületüket,
+- d) a pénzügyi békéltető testületi tagok függetlenségére és pártatlanságára vonatkozó törvényes követelményeket,
+- e) a Pénzügyi Békéltető Testület tagságát az alternatív vitarendezési fórumok határokon átnyúló vitarendezést elősegítő hálózatában,
+- f) a Pénzügyi Békéltető Testület hatáskörére vonatkozó információkat,
+- g) azt a tájékoztatást, amely szerint a Pénzügyi Békéltető Testület eljárása jogszabályon, valamint az eljárási szabályzatán alapul,
+- h) azt a tájékoztatást, hogy a Pénzügyi Békéltető Testület eljárását kizárólag fogyasztónak minősülő személy kezdeményezheti a Pénzügyi Békéltető Testület hatáskörébe tartozó ügyekben akkor, ha már előzetesen megkísérelte a fogyasztói jogvita rendezését és a vita megkísérlésének tényére vonatkozóan bizonyítékkal rendelkezik,
+- i) az arra vonatkozó tájékoztatást, hogy a fogyasztó bármikor visszavonhatja kérelmét,
+- j) a fogyasztói jogvitával érintett felek költségviselésére vonatkozó tájékoztatást,
+- k) a pénzügyi békéltető testületi eljárás átlagos időtartamát,
+- l) a pénzügyi békéltető testületi eljárás során meghozatalra kerülő lehetséges döntésekre, azok joghatására és kikényszeríthetőségére, valamint ennek módjára vonatkozó tájékoztatást,
+- m) a Pénzügyi Békéltető Testület tevékenységére vonatkozó éves beszámolót, és
+- n) a Pénzügyi Békéltető Testületnél a 103. § (1) bekezdése alapján általános alávetési nyilatkozatot tett személyek vagy szervezetek nevét.
+
+(3) A Pénzügyi Békéltető Testület az internetes honlapján közzéteszi az Európai Bizottságnak a békéltető testületekről vezetett jegyzékét.
+
+(4) A Pénzügyi Békéltető Testület kezdeményezése alapján a fogyasztóvédelemért felelős miniszter nyilvántartásba veszi a Pénzügyi Békéltető Testület (5) bekezdés a), d) és e) pontjaiban meghatározott adatait.
+
+(5) A Pénzügyi Békéltető Testület a nyilvántartásba vétele érdekében a következőkről tájékoztatja a fogyasztóvédelemért felelős minisztert:
+
+- a) név, elérhetőség és honlapcím,
+- b) szervezeti felépítés és finanszírozás, ideértve a Pénzügyi Békéltető Testület tagjainak személyére, javadalmazására, megbízatásuk idejére és arra a szervezetre vonatkozó információkat, amelynek a megbízásában állnak,
+- c) a Pénzügyi Békéltető Testület eljárásainak átlagos időtartama, a 130. § (2) bekezdése szerinti tájékoztató benyújtását követően,
+- d) a Pénzügyi Békéltető Testület hatáskörébe tartozó ügyek,
+- e) nyilatkozat arról, hogy a Pénzügyi Békéltető Testület megfelel a (2) bekezdésben, a 102. § (1) és (4) bekezdésében, a 105. §-ban, a 106. § (3) bekezdésében, a 107. §-ban, a 108. § (1)–(1b) bekezdésében, a 111. § (2) bekezdésében, a 114. § (6) bekezdésében, valamint a 130. §-ban meghatározott követelményeknek.
+
+(6) Ha a Pénzügyi Békéltető Testület nem teljesíti az (5) bekezdés e) pontjában meghatározott követelményeket a fogyasztóvédelemért felelős miniszter felszólítja a Pénzügyi Békéltető Testületet a követelmények és a tájékoztatás haladéktalan teljesítésére. Ha a Pénzügyi Békéltető Testület a felszólítást követő kilencven nap elteltével sem felel meg a követelményeknek, vagy nem adja meg a szükséges tájékoztatást, a fogyasztóvédelemért felelős miniszter törli a Pénzügyi Békéltető Testületet a nyilvántartásból, és az erről szóló döntését megküldi a Pénzügyi Békéltető Testület részére.
+
+(7) Az (5) bekezdés a), d) és e) pontjaiban meghatározott adatok megváltozása esetén a Pénzügyi Békéltető Testület haladéktalanul értesíti a fogyasztóvédelemért felelős minisztert.
 
 ## NEGYEDIK RÉSZ — AZ MNB KAPCSOLATAI MÁS SZERVEKKEL
 
@@ -2469,19 +2575,19 @@ fordítható.
   - ad) tevékenységi engedély megadására,
   - ae) határon átnyúló tevékenység bejelentésére,
   - af) fióktelep létesítésére,
-  - ag) a szabályzatának jóváhagyására vagy módosítására,
+  - ag) a szabályzatának jóváhagyására vagy módosításának jóváhagyására,
   - ah) a minősített befolyás engedélyezésére,
   - ai) a független és függő közvetítő igénybevételéhez szükséges engedélyezésre vagy nyilvántartásba vételre,
-  - aj) a sorozatban kibocsátott értékpapír forgalomba hozatalával kapcsolatos tájékoztatási kötelezettség megszüntetésére,
-  - ak) a sorozatban kibocsátott értékpapír forgalomba hozatalára és szabályozott piacra történő bevezetésére vagy multilaterális kereskedési rendszerbe történő regisztrálására,
-  - al) a nyilvánosan működő társaságban történő befolyásszerzésre
+  - aj) a nyilvánosan forgalomba hozott értékpapír kibocsátójának tájékoztatási kötelezettsége megszüntetésére,
+  - ak) a sorozatban kibocsátott értékpapír nyilvános forgalomba hozatalához, illetve szabályozott piacra történő bevezetéséhez vagy multilaterális kereskedési rendszerbe történő regisztrálásához szükséges tájékoztató vagy alaptájékoztató és hirdetmény közzétételének engedélyezésére,
+  - al) a nyilvánosan működő részvénytársaságban történő befolyásszerzéshez szükséges nyilvános vételi ajánlat jóváhagyására,
 
 irányuló eljárásért fizetendő igazgatási-szolgáltatási díj mértékére, valamint a díj beszedésére, kezelésére, nyilvántartására, visszatérítésére vonatkozó részletes szabályokat.
 
 - b) a forgalomban lévő törvényes fizetőeszközről, továbbá az MNB által forgalomból bevont, de törvényes fizetőeszközre átváltható bankjegyről és érméről utánzat készítésének vagy készíttetésének engedélyezésére irányuló eljárásért fizetendő igazgatási-szolgáltatási díj mértékére, valamint a díj megfizetésére,
 - c) az MNB által elfogadott, illetve a nemzetközi pénzügyi piacokon általában használt nyelvekre,
 - d) a 59. § (4) bekezdésében meghatározottak alapján alkalmazandó formanyomtatvány és elektronikus űrlap tartalmára, formájára és benyújtására,
-- e) az 1. mellékletben meghatározott kötelező elektronikus kapcsolattartással érintett ügyekben a szervezet és az MNB között kizárólagos elektronikus kapcsolattartás rendjére, módjára, tartalmára és formájára, továbbá az MNB által működtetett kézbesítési tárhely működtetésére és használatára
+- e) az 1. mellékletben meghatározott elektronikus kapcsolattartással érintett ügyekben a szervezet és az MNB között kizárólagos elektronikus kapcsolattartás rendjére, módjára, tartalmára és formájára, továbbá az MNB által működtetett kézbesítési tárhely működtetésére és használatára
 
 vonatkozó részletes szabályokat.
 
@@ -2667,6 +2773,10 @@ azzal, hogy 2019. január 1-jétől az anticiklikus tőkepufferrátát a 33. §-
 
 (2) A Módtv.2.-vel megállapított 149. § (1)–(3) és (5)–(6) bekezdését a Módtv.2. hatálybalépését követő naptári hónap első napjától kell alkalmazni.
 
+183/H. § (1) Az e törvény – a pénzügyi közvetítőrendszert érintő egyes törvények módosításáról szóló 2016. évi LIII. törvénnyel megállapított – 58. § (2) bekezdésében meghatározott szervezetek legkésőbb 2017. január 1-jéig kötelesek az elektronikus kapcsolattartással érintett egyéb ügyekben a szervezet és az MNB között elektronikus kapcsolattartás rendjére, módjára, tartalmára és formájára, továbbá az MNB által működtetett kézbesítési tárhely működtetésére és használatára vonatkozó részletes szabályokat tartalmazó rendeletben meghatározott követelményeknek eleget tenni, az ehhez szükséges regisztrációt elvégezni.
+
+(2) Az e törvény – a pénzügyi közvetítőrendszert érintő egyes törvények módosításáról szóló 2016. évi LIII. törvénnyel megállapított – 58. § (2) bekezdésében meghatározott szervezetek az (1) bekezdésben meghatározott rendelet követelményeinek való megfelelést és az ehhez szükséges regisztrációt követően, de legkésőbb 2017. január 1-jétől kötelesek elektronikus kapcsolattartásra.
+
 #### 55. Az Alaptörvény sarkalatosságra vonatkozó követelményének megfelelés
 
 184. § Az 1–14. §, a 16–21. §, a 23. § (1), (2) és (10) bekezdése, a 24. § (1), (2), (4) és (5) bekezdése, a 26. § (1) és (2) bekezdése, a 27–28. §-a, a 29–32. §-a, a 33. § (1) bekezdése, a 34. §, a 35. § (1) bekezdése, a 36. §, a 39. § (1) és (2) bekezdése, a 42. §, a 44. § (1)–(4) bekezdése, a 96–101. §, a 167–169. §, a 176. §, a 178. § (8) és (9) bekezdése és a 183. § (1) és (5) bekezdése az Alaptörvény 41. cikk (1), (2), (5) és (6) bekezdése alapján sarkalatosnak minősül.
@@ -2736,6 +2846,8 @@ végrehajtásához szükséges rendelkezéseket állapít meg az MNB feladatkör
 - c) az Európai Parlament és a Tanács 2008/48/EK irányelve (2008. április 23.) a fogyasztói hitel-megállapodásokról és a 87/102/EGK tanácsi irányelv hatályon kívül helyezéséről, 24. cikk,
 - d) a Bizottság 98/257/EK ajánlása (1998. március 30.) a fogyasztói jogviták bírósági eljáráson kívüli rendezésére hatáskörrel rendelkező testületekre vonatkozó elvekről,
 - e) a Közösségben történő határokon átnyúló fizetésekről és a 2560/2001/EK rendelet hatályon kívül helyezéséről szóló, 2009. szeptember 16-i 924/2009/EK európai parlamenti és tanácsi rendelet 11. és 12. cikke
+- f) a fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról (fogyasztói online vitarendezési irányelv) szóló, 2013. május 21-i 524/2013/EU európai parlamenti és tanácsi rendelet,
+- g) a fogyasztói jogviták alternatív rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról (fogyasztói alternatív vitarendezési irányelv) szóló, 2013. május 21-i 2013/11/EU európai parlamenti és tanácsi irányelv
 
 végrehajtásához szükséges rendelkezéseket állapítja meg az MNB feladatkörében és eljárásában.
 
@@ -2747,7 +2859,7 @@ végrehajtásához szükséges rendelkezéseket állapítja meg az MNB feladatk�
 
 ### 1. melléklet a 2013. évi CXXXIX. törvényhez
 
-Kötelező elektronikus kapcsolattartással érintett ügyek
+I. Kötelező elektronikus kapcsolattartással érintett ügyek
 
 Az MNB és
 
@@ -2761,7 +2873,7 @@ aa) a befektetési jegyek forgalomba hozatalával összefüggésben a
 
 3. nyilvános, nyílt végű ingatlanalap tájékoztatója, kezelési szabályzata, hirdetménye és kiemelt befektetői információi jóváhagyására, az ingatlanértékelő megbízásának jóváhagyására,
 
-4. nyilvános, zárt végű értékpapír alap esetén a kibocsátási tájékoztató/alaptájékoztató, hirdetmény közzétételének engedélyezésére, a kezelési szabályzat jóváhagyására,
+4. nyilvános, zárt végű értékpapíralap esetén a kibocsátási tájékoztató/alaptájékoztató, hirdetmény közzétételének engedélyezésére, a kezelési szabályzat jóváhagyására,
 
 5. nyilvános, zárt végű ingatlanalap esetén a kibocsátási tájékoztató/alaptájékoztató, hirdetmény közzétételének engedélyezésére, kezelési szabályzat jóváhagyására, az ingatlanértékelő megbízásának jóváhagyására,
 
@@ -2787,7 +2899,7 @@ ae) az ÁÉKBV-kel kapcsolatban
 
 6. a cél-ÁÉKBV szétválása vagy másik ÁÉKBV-vel való egyesülése esetén annak engedélyezésére, hogy a gyűjtő-ÁÉKBV eszközeinek legalább 85 százalékát egy másik, nem az egyesülés vagy szétválás eredményeképp létrejött cél-ÁÉKBV kollektív befektetési értékpapírjaiba fektesse,
 
-7. a cél-ÁÉKBV szétválása, egyesülése, megszűnése esetén a gyűjtő-ÁÉKBV számára annak engedélyezésére, hogy a Kbftv. 143. § (4) bekezdésének b) pontja, valamint a Kbftv. 143. § (6) bekezdésének c) pontja szerint nem gyűjtő-ÁÉKBV-ként működjön tovább,
+7. a cél-ÁÉKBV szétválása, egyesülése, megszűnése esetén a gyűjtő-ÁÉKBV számára annak engedélyezésére, hogy a Kbftv. 143. § (4) bekezdés b) pontja, valamint a Kbftv. 143. § (6) bekezdés c) pontja szerint nem gyűjtő-ÁÉKBV-ként működjön tovább,
 
 8. a cél-ÁÉKBV egyesülése vagy szétválása esetén a gyűjtő-ÁÉKBV törlésére,
 
@@ -2857,7 +2969,7 @@ h) a harmadik országban székhellyel rendelkező kibocsátó között a tájék
 
 i) a zártkörű részvénytársasággá alakuló, értékpapírt nyilvánosan forgalomba hozott kibocsátó között a nyilvánosság felé történő adatszolgáltatási kötelezettség alóli mentesítésre,
 
-j) a nem természetes személy ajánlattevő vagy az általa a Tpt. 68. § (4) bekezdés alapján megbízott befektetési szolgáltató között
+j) a nem természetes személy ajánlattevő vagy az általa a Tpt. 68. § (4) bekezdése alapján megbízott befektetési szolgáltató között
 
 ja) az általuk tett nyilvános vételi ajánlat jóváhagyására,
 
@@ -2866,3 +2978,35 @@ jb) az általuk tett és módosított nyilvános vételi ajánlat jóváhagyás�
 k) a nyilvánosan forgalomba hozott értékpapír kibocsátója között a szabályozott információ bejelentésére
 
 vonatkozó eljárásban kizárólag elektronikus úton történhet a kapcsolattartás.
+
+II. Elektronikus kapcsolattartással érintett egyéb ügyek
+
+Az MNB és
+
+a) a hitelintézet, a hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozás, továbbá ezek magyarországi fióktelepe,
+
+b) a pénzügyi vállalkozás és a pénzügyi vállalkozás magyarországi fióktelepe, valamint a Hpt. hatálya alá tartozó alkusz,
+
+c) a befektetési vállalkozás, a befektetési vállalkozás magyarországi fióktelepe és az árutőzsdei szolgáltató,
+
+d) a biztosító, a biztosító magyarországi fióktelepe és a viszontbiztosító,
+
+e) a független biztosításközvetítő és a többes ügynök,
+
+f) a befektetési alapkezelő és magyarországi fióktelepe,
+
+g) a központi szerződő fél, a központi értéktár,
+
+h) a tőzsde,
+
+i) a foglalkoztatói nyugdíjszolgáltató intézmény,
+
+j) az önkéntes nyugdíjpénztár, az önkéntes kölcsönös egészségpénztár és az önkéntes kölcsönös önsegélyező pénztár,
+
+k) a magánnyugdíjpénztár,
+
+l) az elektronikuspénz-kibocsátó intézmény, a pénzforgalmi intézmény, az elektronikuspénz-kibocsátó intézmény magyarországi fióktelepe, pénzforgalmi intézmény magyarországi fióktelepe és az utalványkibocsátó, és
+
+m) a Posta Elszámoló Központot működtető intézmény
+
+között a 48. § (1) bekezdés b) pontjában meghatározott ellenőrzési eljárásban elektronikus úton is történhet a kapcsolattartás az MNB által elektronikus úton kézbesített irat tekintetében.

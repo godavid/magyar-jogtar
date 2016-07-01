@@ -483,6 +483,10 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 
 (2) A kiemelt térség területrendezési terve nem lehet ellentétes az ország területrendezési tervével, a megye területrendezési terve pedig az ország és a kiemelt térség területrendezési tervével.
 
+(3) Az ország, a kiemelt térség és a megye területrendezési terveit egy időben kell készíteni. A megye területrendezési tervének módosítását az ország és a kiemelt térség területrendezési terve átfogó módosításának elfogadását követő egy éven belül kell elfogadni.
+
+(4) A területrendezési tervek felülvizsgálata legalább hétévente, az európai uniós tervezési ciklushoz igazodóan történik. Az ország területrendezési tervét az országos fejlesztési és területfejlesztési koncepció elfogadását követő egy éven belül el kell fogadni.
+
 ### A területrendezési terv készítésére és elfogadására vonatkozó eljárási szabályok
 
 23/C. § (1) A kiemelt térség és a megye területrendezési tervét (a továbbiakban együtt: tervjavaslatot) egyeztetni kell a külön jogszabályban meghatározott államigazgatási, önkormányzati és érdek-képviseleti szervekkel, valamint az érdekelt civil szervezetekkel. A véleményezésre legalább két hónap határidőt kell biztosítani.
@@ -519,7 +523,7 @@ területi elhelyezése az állami főépítészi hatáskörében eljáró fővá
 
 (4) A térségi területfelhasználási engedély kiadása csak akkor tagadható meg, ha a térségi területfelhasználási kérelemben szereplő javaslat nincs összhangban az elfogadott országos vagy az adott térségre vonatkozó területrendezési terv előírásaival.
 
-(5) A térségi területfelhasználási engedélykérelmet harminc napon belül kell elbírálni.
+(5) A térségi területfelhasználási engedélykérelmet – az összhang igazolására vonatkozó engedélykérelem kivételével – harminc napon belül kell elbírálni. Az összhang igazolására vonatkozó engedélykérelmet tizenöt napon belül kell elbírálni.
 
 (6) Az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal döntése ellen fellebbezésnek nincs helye. A térségi területfelhasználási engedélykérelemről hozott határozat elleni keresetet a törvényszék soron kívül bírálja el.
 
@@ -537,7 +541,7 @@ területi elhelyezése az állami főépítészi hatáskörében eljáró fővá
 - b) a térségi területfelhasználási engedély által érintett települések megnevezése, valamint
 - c) a térségi területfelhasználási engedély kiadásának dátuma, iktató száma, érvényesség dátuma, valamint az engedélyezés típusa.
 
-23/E. § A területrendezési terveket legalább 10 évenként felül kell vizsgálni.
+23/E. §
 
 ### Területi információs rendszer
 

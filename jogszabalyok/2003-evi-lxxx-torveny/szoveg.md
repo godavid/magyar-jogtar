@@ -350,6 +350,8 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 
 (2) A támogatás visszatérítésére köteles félnek – e kötelezettsége fennállásáig – a lakóhelyében, tartózkodási helyében és szálláshelyében bekövetkezett változást is be kell jelentenie a 24. § szerint.
 
+(3) A (2) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a fél kéri – a 24. § szerinti határidőben értesíti a jogi segítségnyújtó szolgálatot.
+
 ### Határozathozatal
 
 41. § (1) A kérelemnek helyt adó határozat tartalmazza:
@@ -439,7 +441,9 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 - a) a kért támogatást,
 - b) a pert lefolytató bíróságot és annak a pernek a tárgyát és az ügyszámát, amelynek lefolytatásához a támogatást kéri; ha pedig a per még nem indult meg, az ellenfél nevét, lakóhelyét (székhelyét), a jogvita tárgyát és az eljárás lefolytatására illetékes bíróságot.
 
-54. § A fél adatváltozás-bejelentési kötelezettsége a per jogerős befejezésig áll fenn, ezt követően pedig a támogatás visszatérítésére köteles fél a lakóhelyében, tartózkodási helyében, szálláshelyében és munkavégzésének helyében bekövetkezett változást köteles öt napon belül bejelenteni a visszatérítési kötelezettségének fennállásáig.
+54. § (1) A fél adatváltozás-bejelentési kötelezettsége a per jogerős befejezésig áll fenn, ezt követően pedig a támogatás visszatérítésére köteles fél a lakóhelyében, tartózkodási helyében, szálláshelyében és munkavégzésének helyében bekövetkezett változást köteles a változást követő öt napon belül bejelenteni a visszatérítési kötelezettségének fennállásáig.
+
+(2) Az (1) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a fél kéri – az (1) bekezdés szerinti határidőben értesíti a jogi segítségnyújtó szolgálatot.
 
 ### A támogatást engedélyező határozat
 
@@ -608,6 +612,8 @@ tart.
 - h) szolgáltatási szerződése lejáratának időpontját.
 
 (2) A jogi segítő a névjegyzékben szerepelő adataiban bekövetkezett változásokról a jogi segítségnyújtó szolgálatot nyolc napon belül köteles értesíteni.
+
+(3) A (2) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a jogi segítő kéri – a (2) bekezdés szerinti határidőben értesíti a jogi segítségnyújtó szolgálatot.
 
 66. § (1) A névjegyzékbe felvételre kerül a jogi segítségnyújtó szolgálattal jogi segítői feladatok ellátására szolgáltatási szerződést kötő
 

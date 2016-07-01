@@ -129,6 +129,8 @@ számtani átlaga meghaladja a tíz százalékot, mind a biztosítási szolgált
 
 (4) A kiegészítő felügyelet nem terjed ki a vegyes pénzügyi holding társaság, a pénzügyi konglomerátumhoz tartozó harmadik országbeli és a pénzügyi ágazathoz nem tartozó nem szabályozott vállalkozás egyedi vizsgálatára, elemzésére, értékelésére.
 
+7/A. § Ha egy csoport megfelel a 3. § (1) bekezdés b) vagy c) pontjában meghatározott feltételnek és a csoportba tartozó legalább egy szabályozott vállalkozásban egy személy ellenőrző befolyással vagy részesedési viszonnyal rendelkezik, akkor a Felügyelet a többi érintett felügyeleti hatósággal egyetértésben többoldalú eljárás keretében dönthet úgy, hogy kiegészítő felügyeletet gyakorol a csoportba tartozó szabályozott vállalkozások felett.
+
 8. § (1) A kiegészítő felügyelet alá tartozó szabályozott vállalkozás köteles gondoskodni a pénzügyi konglomerátum szintű belső kontroll rendszer és kockázatkezelés megfelelő működéséről.
 
 (2) A kockázatkezelés kiterjed:
@@ -202,7 +204,7 @@ számtani átlaga meghaladja a tíz százalékot, mind a biztosítási szolgált
 
 valamint a pénzügyi konglomerátum legjelentősebb pénzügyi ágazatában a legnagyobb mérlegfőösszege egy magyarországi székhellyel rendelkező szabályozott vállalkozásnak van.
 
-(5) A (2)–(4) bekezdéstől eltérően, az érintett felügyeleti hatóságokkal történt megállapodás alapján a Felügyelet elláthatja a koordinátori feladatokat, valamint felkérhet más érintett felügyeleti hatóságot a koordinátori feladatok ellátására, ha az a pénzügyi konglomerátum csoportszerkezete vagy a különböző országokbeli tevékenységének aránya alapján indokolt. A döntés meghozatala előtt ki kell kérni az érintett pénzügyi konglomerátum véleményét.
+(5) A (2)–(4) bekezdéstől eltérően, az érintett felügyeleti hatóságokkal történt megállapodás alapján a Felügyelet elláthatja a koordinátori feladatokat, valamint felkérhet más érintett felügyeleti hatóságot a koordinátori feladatok ellátására, ha az a pénzügyi konglomerátum csoportszerkezete vagy a különböző országokbeli tevékenységének 5%-ot meghaladó aránya alapján indokolt. A döntés meghozatala előtt ki kell kérni az érintett pénzügyi konglomerátum véleményét.
 
 11. § (1) A Felügyelet koordinátorként
 

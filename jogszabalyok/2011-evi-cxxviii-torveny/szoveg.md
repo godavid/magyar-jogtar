@@ -299,7 +299,18 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 
 #### 15. Általános jelzési kötelezettség
 
-20. § Aki a katasztrófát vagy a katasztrófa veszélyét észleli, vagy arról tudomást szerez, haladéktalanul köteles bejelenteni azt a hivatásos katasztrófavédelmi szervnek, illetve az önkormányzati tűzoltóságnak és a polgármesteri hivatalnak.
+20. § (1) Aki a katasztrófát vagy a katasztrófa veszélyét észleli, vagy arról tudomást szerez, haladéktalanul köteles bejelenteni.
+
+(2) A bejelentést
+
+- a) a hivatásos katasztrófavédelmi szerv,
+- b) az önkormányzati tűzoltóság,
+- c) a rendőrség, vagy
+- d) a polgármesteri hivatal vagy a közös önkormányzati hivatal
+
+felé kell teljesíteni.
+
+(3) A (2) bekezdés alapján értesített szerv a tudomásszerzést követően haladéktalanul értesíti a többi értesítendő szervet.
 
 21. § (1) A lakossági riasztórendszer elemeinek, végpontjainak idegen építményen történő elhelyezésénél törekedni kell elsődlegesen az állami, önkormányzati építményeken történő elhelyezésre. Amennyiben a magántulajdonú építménnyel szemben az állami, önkormányzati területen történő elhelyezés aránytalanul nagy költségráfordítást, illetve technológiai változást jelent, a lakossági riasztórendszer magántulajdonú építményeken kerül elhelyezésre.
 
@@ -323,7 +334,7 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 - b) a megyei, fővárosi illetékességgel működő területi szervek,
 - c) helyi szervek a katasztrófavédelmi kirendeltségek és a hivatásos tűzoltóságok.
 
-(2) A hivatásos katasztrófavédelmi szerv államigazgatási feladatot is ellátó rendvédelmi szerv, amelynek tagjai hivatásos állományúak, közszolgálati tisztviselők, közalkalmazottak és munkavállalók.
+(2) A hivatásos katasztrófavédelmi szerv államigazgatási feladatot is ellátó rendvédelmi szerv, amelynek tagjai hivatásos állományúak, közszolgálati tisztviselők, közalkalmazottak, munkavállalók és tisztjelöltek.
 
 #### 17. A hivatásos katasztrófavédelmi szerv központi szerve
 

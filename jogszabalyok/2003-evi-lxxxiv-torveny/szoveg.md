@@ -105,7 +105,7 @@ terjed ki.
 - c) társas vállalkozás tagjaként,
 - d) közalkalmazotti jogviszonyban,
 - e) munkaviszonyban,
-- f) közszolgálati jogviszonyban, kormányzati szolgálati jogviszonyban,
+- f) közszolgálati jogviszonyban, kormányzati szolgálati jogviszonyban, állami szolgálati jogviszonyban,
 - g) szolgálati jogviszonyban,
 - h) egyházi személyként vagy vallási tevékenységet végző szervezet vallásos szertartást hivatásszerűen végző tagjaként,
 - i) önkéntes segítőként,
@@ -214,7 +214,7 @@ kell sorolni.
 
 (7) A (6) bekezdés szerinti, kizárólag ügyeleti feladatellátás céljából létesíthető szabadfoglalkozású jogviszonyban teljesített ügyelet tartama nem haladhatja meg a munkaidőkeret átlagában a heti 32 órát, amelynek a 8 óra feletti tartamára legalább az önként vállalt többletmunkára irányadó díjazást kell a szabadfoglalkozású megbízási szerződésben megállapítani.
 
-12. § (1) Ha az egészségügyi szolgáltató tevékenysége az Mt. 90. § a) pontja alapján megszakítás nélküli (a továbbiakban: megszakítás nélkül működő egészségügyi szolgáltató), az alkalmazott egészségügyi dolgozó egészségügyi tevékenységet
+12. § (1) Ha az egészségügyi szolgáltató tevékenysége az Munka Törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 90. § a) pontja alapján megszakítás nélküli (a továbbiakban: megszakítás nélkül működő egészségügyi szolgáltató), az alkalmazott egészségügyi dolgozó egészségügyi tevékenységet
 
 - a) műszakbeosztás szerinti munkarendben,
 - b) egészségügyi ügyelet keretében,
@@ -330,7 +330,7 @@ rendelhet el.
 
 12/H. § Az egészségügyi szolgáltatóval munkavégzésre irányuló jogviszony alapján oktatói feladatokat is ellátó egészségügyi dolgozók tekintetében a 12/F–12/G. §-ban foglaltakat az oktatói és az egészségügyi tevékenység együttes végzésére kell alkalmazni.
 
-13. § (1) Az alkalmazott egészségügyi dolgozóval a munkaidő-beosztást, amely tartalmazza az egészségügyi ügyelet és a készenlét beosztását is – kollektív szerződés eltérő rendelkezése hiányában – az Mt. 110. § (6) bekezdésében foglaltaktól eltérően legalább egy hónappal korábban és legalább egy hónapra előre, írásban kell közölni.
+13. § (1) Az alkalmazott egészségügyi dolgozóval a munkaidő-beosztást, amely tartalmazza az egészségügyi ügyelet és a készenlét beosztását is – kollektív szerződés eltérő rendelkezése hiányában – az Mt. 110. § (6) bekezdésében foglaltaktól eltérően legalább 15 nappal korábban és legalább egy hónapra előre, írásban kell közölni.
 
 (2) Kollektív szerződés az (1) bekezdés szerinti írásbeli közlés módját, formáját – különös tekintettel a közzététel helyben szokásos módjára vagy az elektronikus úton történő közlés lehetőségére – szabályozhatja.
 
@@ -401,9 +401,13 @@ minősül.
 
 15. § (1) Az alkalmazott egészségügyi dolgozó munkaidejébe a pontszerző kötelező továbbképzésére fordított időből – ideértve a kongresszusi részvételt is – az egészségügyi szolgáltató szabályzata szerint megállapított időt be kell számítani.
 
-(2) Az (1) bekezdés szerint figyelembe vehető idő évi 3 munkanapnál kevesebb és 10 munkanapnál több nem lehet.
+(2) Az (1) bekezdés szerint figyelembe vehető idő évi 5 munkanapnál kevesebb és 10 munkanapnál több nem lehet.
 
-15/A. § Ha annál az egészségügyi szolgáltatónál, ahol az egészségügyi dolgozó egészségügyi felsőfokú szakirányú szakképzése megszerzése érdekében alkalmazásban áll, vagy a 11/B. § bekezdése alapján a szakorvosképzésért felelős egészségügyi államigazgatási szerv által szakképzésre kijelölt egészségügyi szolgáltatónál részben hiányoznak a szükséges szakmai gyakorlat feltételei, az egészségügyi dolgozó a szakképzettség megszerzéséhez szükséges, és a munkáltatónál vagy a szakképzésre kijelölt egészségügyi szolgáltatónál nem teljesíthető időtartamban annál az egészségügyi szolgáltatónál végezhet tevékenységet, ahol a szakmai gyakorlat megszerzésének a feltételei rendelkezésre állnak (a továbbiakban: külső képzőhely). Erről a munkáltatónak, valamint a külső képzőhelynek és az egészségügyi dolgozónak meg kell állapodnia, azzal, hogy e jogcímen a munkavégzés tartama naptári évenként nem haladhatja meg a kettőszáz napot. E jogviszonyra egyebekben az Mt.-nek a munkaszerződéstől eltérő foglalkoztatásra vonatkozó szabályait kell megfelelően alkalmazni.
+(3) Az (1) bekezdés szerint figyelembe vehető idő – ha a pontszerző kötelező továbbképzés időtartama indokolttá teszi –, az egészségügyi dolgozó kérésére két egymást követő évben együttesen is kiadható az előző évben igénybe nem vett figyelembe vehető idő terhére. Ezen idő munkaidőnkénti figyelembevételét az egészségügyi dolgozó a jogosultság évét követő év január 31-ig kezdeményezheti az egészségügyi szolgáltatónál.
+
+(4) Ha az egészségügyi dolgozó munkavégzésre irányuló jogviszonya az egészségügyi szolgáltatónál megszűnik, és másik egészségügyi szolgáltatónál új jogviszonyt létesít, az új munkáltatónál az (1) és (3) bekezdés szerinti szabályzat alapján két egymást követő évben együttesen igénybe vehető időtartamot az egészségügyi dolgozó által a korábbi munkáltatónál az azonos időszakra már igénybe vett időtartammal csökkenteni kell.
+
+15/A. § Ha annál az egészségügyi szolgáltatónál, ahol az egészségügyi dolgozó egészségügyi felsőfokú szakirányú szakképzése megszerzése érdekében alkalmazásban áll, vagy a 11/B. § bekezdése alapján a szakorvosképzésért felelős egészségügyi államigazgatási szerv által szakképzésre kijelölt egészségügyi szolgáltatónál részben hiányoznak a szükséges szakmai gyakorlat feltételei, az egészségügyi dolgozó a szakképzettség megszerzéséhez szükséges, és a munkáltatónál vagy a szakképzésre kijelölt egészségügyi szolgáltatónál nem teljesíthető időtartamban annál az egészségügyi szolgáltatónál végezhet tevékenységet, ahol a szakmai gyakorlat megszerzésének a feltételei rendelkezésre állnak (a továbbiakban: külső képzőhely). Erről a munkáltatónak, valamint a külső képzőhelynek és az egészségügyi dolgozónak meg kell állapodnia, azzal, hogy e jogcímen a munkavégzés tartama a teljes naptári évet elérheti. E jogviszonyra egyebekben az Mt.-nek a munkaszerződéstől eltérő foglalkoztatásra vonatkozó szabályait kell megfelelően alkalmazni.
 
 15/B. § (1) Július 1-je Semmelweis-nap, amely az egészségügyi szolgáltatóknál foglalkoztatási jogviszonyban álló egészségügyi dolgozókra és egészségügyben dolgozókra kiterjedően munkaszüneti nap.
 
@@ -414,13 +418,13 @@ minősül.
 
 15/C. § Az Mt. 179. § (3) bekezdésében foglaltaktól eltérően az alkalmazott egészségügyi dolgozó által – kizárólag az egészségügyi tevékenysége végzésével a betegnek – okozott kár esetén a kártérítés mértéke súlyosan gondatlan károkozás esetén nem haladhatja meg a munkavállaló négyhavi távolléti díjának összegét.
 
-15/D. § A 11/A–15/D. §-ban foglaltaktól kollektív szerződés – az Mt. 135. § (2) bekezdésében, valamint 165. § (2) bekezdésében foglaltakon túlmenően, a Kjt. 83. §-ában foglaltaktól eltérően – csak az alkalmazott egészségügyi dolgozó javára térhet el.
+15/D. § A 11/A–15/C. §-ban foglaltaktól kollektív szerződés – az Mt. 135. § (2) bekezdésében, valamint 165. § (2) bekezdésében foglaltakon túlmenően, a Kjt. 83. §-ában foglaltaktól eltérően – csak az alkalmazott egészségügyi dolgozó javára térhet el.
 
 15/E. § Amennyiben a fekvőbeteg-szakellátó és egyes fekvőbeteg-szakellátóhoz kapcsolódó egészségügyi háttérszolgáltatást nyújtó, 100%-os állami tulajdonban lévő, valamint azok 100%-os tulajdonában lévő gazdasági társaságok által ellátott feladatok központi költségvetési szervek általi átvételéről, valamint az ezzel kapcsolatos eljárási kérdések rendezéséről szóló 2013. évi XXV. törvény (a továbbiakban: Átvételi tv.) 7. §-a alapján közalkalmazotti jogviszonyban továbbfoglalkoztatott személy az Átvételi tv. 7. § (5) bekezdésére tekintettel jubileumi jutalom iránti igényt érvényesít, a megállapítható jubileumi jutalom összegét csökkenteni kell azon juttatás összegével, amelyet a foglalkoztatott a gazdasági társaságnál vagy annak az Átvételi tv. 7. § (5) bekezdése szerinti jogelődjénél kollektív szerződés, munkaszerződés vagy egyoldalú munkáltatói kötelezettségvállalás alapján, kifejezetten huszonöt év, harminc év vagy negyven év jogviszonyban töltött idejére tekintettel kapott (a továbbiakban e § alkalmazásában: felvett juttatás). Amennyiben a felvett juttatás mértéke eléri vagy meghaladja a megállapítható jubileumi jutalom összegét, a közalkalmazott részére a felvett juttatással értékelt jogviszonyban töltött idejére tekintettel jubileumi jutalom nem állapítható meg.
 
-### Közszolgálati jogviszony, kormányzati szolgálati jogviszony és szolgálati viszony
+### Közszolgálati jogviszony, kormányzati szolgálati jogviszony, állami szolgálati jogviszony és szolgálati viszony
 
-16. § (1) Az egészségügyi dolgozó közszolgálati jogviszony, kormányzati szolgálati jogviszony keretében csak az őt foglalkoztató közigazgatási szerv tevékenységével összefüggő egészségügyi tevékenység végzésére jogosult.
+16. § (1) Az egészségügyi dolgozó közszolgálati jogviszony, kormányzati szolgálati jogviszony, állami szolgálati jogviszony keretében csak az őt foglalkoztató közigazgatási szerv tevékenységével összefüggő egészségügyi tevékenység végzésére jogosult.
 
 (2) Az egészségügyi dolgozó jogosult egészségügyi tevékenység végzése céljából a külön törvényben nevesített szervekkel szolgálati viszonyt létesíteni.
 
@@ -443,30 +447,28 @@ kell érteni.
 
 (9) A (4) bekezdésben foglaltakon túl a Hjt. hatálya alá tartozók esetében a 15/A. §-ban foglaltakat is alkalmazni kell.
 
-Jövedelemkiegészítés közalkalmazotti vagy kormányzati szolgálati jogviszonyban álló egészségügyi dolgozók illetményének és pénzellátásának együttfolyósítási tilalmára tekintettel
+### Jövedelemkiegészítés közalkalmazotti, kormányzati szolgálati vagy állami szolgálati jogviszonyban álló egészségügyi dolgozók illetményének és pénzellátásának együttfolyósítási tilalmára tekintettel
 
 16/A. § Ezen alcím alkalmazásában:
 
 - a) pénzellátás: az öregségi nyugdíj, a korhatár előtti ellátás, valamint más olyan ellátás, amelyet az öregségi nyugdíjkorhatár betöltésekor hivatalból öregségi nyugdíjként kell továbbfolyósítani,
-- b) jövedelemkiegészítés: az e törvényben meghatározott feltételek szerint, pénzellátásuk törvény alapján történő szüneteltetésére tekintettel, egyes közalkalmazotti jogviszonyban vagy kormányzati szolgálati jogviszonyban álló egészségügyi dolgozók jövedelmének kiegészítésére szolgáló juttatás,
+- b) jövedelemkiegészítés: az e törvényben meghatározott feltételek szerint, pénzellátásuk törvény alapján történő szüneteltetésére tekintettel, egyes közalkalmazotti jogviszonyban, kormányzati szolgálati vagy állami szolgálati jogviszonyban álló egészségügyi dolgozók jövedelmének kiegészítésére szolgáló juttatás,
 - c) munkáltató: költségvetési szervként működő egészségügyi szolgáltató munkáltató.
 
-16/B. § (1) Azt a közalkalmazotti jogviszonyban vagy kormányzati szolgálati jogviszonyban álló egészségügyi dolgozót, akinek a megállapított pénzellátása folyósítását a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) 83/C. §-a alapján szüneteltetik – ideértve a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény 11. §-a szerinti szüneteltetést is –, a munkáltató – általa meghatározott összegű – jövedelemkiegészítésben részesítheti, a (2)–(7) bekezdésben foglalt feltételek, valamint kormányrendeletben meghatározott eljárásrend szerint és jóváhagyás birtokában.
+16/B. § (1) Azt a közalkalmazotti jogviszonyban, kormányzati szolgálati vagy állami szolgálati jogviszonyban álló egészségügyi dolgozót, akinek a megállapított pénzellátása folyósítását a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) 83/C. §-a alapján szüneteltetik – ideértve a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény 11. §-a szerinti szüneteltetést is –, a munkáltató – általa meghatározott összegű – jövedelemkiegészítésben részesítheti, a (2)–(7) bekezdésben foglalt feltételek, valamint kormányrendeletben meghatározott eljárásrend szerint és jóváhagyás birtokában.
 
-(2) A munkáltató által meghatározott jövedelemkiegészítésnek az egészségügyi dolgozót megillető, a kifizetést terhelő adók és járulékok nélkül számított (a továbbiakban: nettó) mértéke nem lehet magasabb az egészségügyi dolgozót a közalkalmazotti, kormányzati szolgálati jogviszony fennállása miatt történő szüneteltetés hiányában egyébként megillető pénzellátás havi összegénél.
+(2) A munkáltató által meghatározott jövedelemkiegészítésnek az egészségügyi dolgozót megillető, a kifizetést terhelő adók és járulékok nélkül számított (a továbbiakban: nettó) mértéke nem lehet magasabb az egészségügyi dolgozót a közalkalmazotti, kormányzati vagy állami szolgálati jogviszony fennállása miatt történő szüneteltetés hiányában egyébként megillető pénzellátás havi összegénél.
 
-(3) Ha az egészségügyi dolgozó több egészségügyi szolgáltatóval is közalkalmazotti vagy kormányzati szolgálati jogviszonyban áll, a jövedelemkiegészítés
+(3) Ha az egészségügyi dolgozó több egészségügyi szolgáltatóval is közalkalmazotti, kormányzati szolgálati vagy állami szolgálati jogviszonyban áll, a jövedelemkiegészítés
 
 - a) teljes munkaidős foglalkoztatás esetén csak egy jogviszonyra tekintettel,
-- b) több részmunkaidős jogviszony fennállása esetén együttesen legfeljebb a (2) bekezdés szerinti nettó mértékig
-
-folyósítható.
+- b) több részmunkaidős jogviszony fennállása esetén együttesen legfeljebb a (2) bekezdés szerinti nettó mértékig folyósítható.
 
 (4) Az egészségügyi államigazgatási szerv a (3) bekezdésben foglaltak ellenőrzése céljából a jövedelemkiegészítésben részesülő egészségügyi dolgozók természetes személyazonosító adatait és alapnyilvántartási számát a jövedelemkiegészítésre való jogosultság megszűnésétől számított 3 évig kezeli.
 
 (5) Az egészségügyi dolgozó nem jogosult jövedelemkiegészítésre a fizetés nélküli szabadság, valamint az egész napos igazolatlan távollét időtartamára. A jövedelemkiegészítés emiatt kieső összegét a tárgyhónapban kieső munkanapok számának a továbbfoglalkoztatott munkarendje szerinti, a tárgyhónap egészére megállapított munkanapok számához viszonyított arányában, 100 forintra kerekítve kell megállapítani. Nem jár jövedelemkiegészítés a felmentési időnek arra a részére, amely időtartam vonatkozásában az egészségügyi dolgozót a munkavégzési kötelezettség alól mentesítették.
 
-(6) A jövedelemkiegészítés a foglalkoztatottat a közalkalmazotti, kormányzati szolgálati jogviszonyára irányadó törvényben foglalt illetményrendszeren kívül illeti meg, különösen az alábbiakra tekintettel:
+(6) A jövedelemkiegészítés a foglalkoztatottat a közalkalmazotti, kormányzati szolgálati, állami szolgálati jogviszonyára irányadó törvényben foglalt illetményrendszeren kívül illeti meg, különösen az alábbiakra tekintettel:
 
 - a) a távolléti díj, a jubileumi jutalom, az illetménypótlékok, az illetményen alapuló egyéb bérelemek, valamint az ügyeleti díj és a készenléti díj számítása szempontjából figyelmen kívül kell hagyni,
 - b) a minimálbér és a garantált bérminimum biztosítása, valamint az egészségügyi ágazati előmeneteli rendszer alkalmazása szempontjából nem kell az illetmény részének tekinteni, és
@@ -648,7 +650,11 @@ részt vehet.
 
 33. § Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2015. évi CCXXIV. törvénnyel megállapított 11/B. § (3) bekezdésében foglaltakat a 2015. július 1-jét követően a 11/B. § (1) bekezdése szerinti, a szakorvosképzésért felelős egészségügyi államigazgatási szerv által létesített közalkalmazotti jogviszonyok esetében is alkalmazni kell.
 
-#### 34. §
+34. § Az egyes egészségügyet érintő törvények módosításáról szóló 2016. évi XXXIV. törvénnyel megállapított 15/A. §-ban foglaltakat az egészségügyi felsőfokú szakirányú szakképzésüket 2015. július 1-jét követően megkezdőkre kell alkalmazni.
+
+35. § (1) Az az egészségügyi ágazati előmeneteli rendszer hatálya alá tartozó, 2016. július 1-jén alkalmazásban álló foglalkoztatott, aki a munkában eltöltött évei alapján az 1. vagy 2. mellékletben foglalt táblázat 15–17. sora szerinti szintbe sorolandó, az egyes egészségügyet érintő törvények módosításáról szóló 2016. évi XXXIV. törvénnyel (a továbbiakban: Módtv.) megállapított bérnövelésre 2016. január 1-jétől, de legfeljebb az adott munkáltatónál fennálló, az egészségügyi ágazati előmeneteli rendszer hatálya alá tartozó munkakörben történő foglalkoztatásának kezdő időpontjától jogosult.
+
+(2) Az 2016. január 1. és 2016. június 30. közötti időszak vonatkozásában a bérnövelés megvalósítása érdekében az (1) bekezdés szerint béremelésre jogosult foglalkoztatott részére – legfeljebb az egészségügyi ágazati előmeneteli rendszer hatálya alá tartozó munkakörben történő foglalkoztatásának időtartamára – jogszabályi rendelkezések alapján megillető alapbér és a Módtv.-vel megállapított alapbér különbözetét egyösszegű bérkülönbözetként kell megállapítani, és azt a 2016. július havi munkabér kifizetésével egyidejűleg kell kifizetni.
 
 ### 1. melléklet a 2003. évi LXXXIV. törvényhez
 
@@ -671,7 +677,9 @@ részt vehet.
 | 12. | 34–36 | 294 720 | 348 320 | 373 520 |
 | 13. | 37–39 | 303 120 | 358 220 | 384 320 |
 | 14. | 40–42 | 311 520 | 368 120 | 395 120 |
-| 15. | 43–45 | 311 520 | 368 120 | 395 120 |
+| 15. | 43–45 | 319 928 | 378 105 | 405 936 |
+| 16. | 46–48 | 328 345 | 388 045 | 416 751 |
+| 17. | 49–51 | 336 763 | 397 985 | 427 566 |
 
 ### 1/a. melléklet a 2003. évi LXXXIV. törvényhez
 
@@ -698,7 +706,9 @@ Egészségügyi szakdolgozók, egyes egészségügyben dolgozók illetmény-, il
 | 12. | 34–36 | 114 997 | 120 484 | 135 496 | 141 544 | 156 448 | 222 925 | 234 425 | 260 325 | 283 925 | 309 125 |
 | 13. | 37–39 | 116 020 | 121 972 | 137 008 | 142 948 | 160 012 | 230 225 | 242 425 | 268 725 | 293 825 | 319 925 |
 | 14. | 40–42 | 117 043 | 123 460 | 138 520 | 144 460 | 163 468 | 237 525 | 250 325 | 277 125 | 303 725 | 330 725 |
-| 15. | 43–45 | 117 043 | 123 460 | 138 520 | 144 460 | 163 468 | 237 525 | 250 325 | 277 125 | 303 725 | 330 725 |
+| 15 | 43–45 | 118 066 | 124 948 | 140 032 | 145 972 | 166 924 | 244 825 | 258 225 | 285 525 | 313 625 | 341 525 |
+| 16 | 46–48 | 119 089 | 126 436 | 141 544 | 147 484 | 170 380 | 252 125 | 266 125 | 293 925 | 323 525 | 352 325 |
+| 17 | 49–51 | 120 112 | 127 924 | 143 056 | 148 996 | 173 836 | 259 425 | 274 025 | 302 325 | 333 425 | 363 125 |
 
 ### 3. melléklet a 2003. évi LXXXIV. törvényhez
 

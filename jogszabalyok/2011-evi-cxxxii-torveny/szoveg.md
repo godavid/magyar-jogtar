@@ -21,7 +21,7 @@ A magyar felsőoktatási rendszer részeként a közigazgatási, rendészeti és
 
 3. § E törvény alkalmazásában
 
-- 1. államtudományi és közigazgatási felsőoktatás: a köztisztviselői és kormánytisztviselői életpályára felkészítő államtudományi és alapképzési szakok, valamint a hozzájuk kapcsolódó mesterképzési szakok, ideértve az államtudományi doktori cím használatára jogosító osztatlan szakot is;
+- 1. államtudományi és közigazgatási felsőoktatás: a kormánytisztviselői, állami tisztviselői és a köztisztviselői életpályára felkészítő államtudományi és alapképzési szakok, valamint a hozzájuk kapcsolódó mesterképzési szakok, ideértve az államtudományi doktori cím használatára jogosító osztatlan szakot is;
 - 2. rendészeti felsőoktatás: a rendészeti ágazat szakembereinek felkészítése érdekében indított alapképzési szakok, valamint a hozzájuk kapcsolódó mesterképzési szakok;
 - 3. katonai felsőoktatás: a honvédtiszti életpályára történő felkészítés, valamint a honvédelmi terület civil szakembereinek felkészítése érdekében indított alapképzési szakok, valamint a hozzájuk kapcsolódó mesterképzési szakok. A katonai felsőoktatás részét képező honvédtiszti alap- és mesterképzés a haza fegyveres szolgálatára és a parancsnoki feladatok ellátására irányuló felkészítésre is kiterjed;
 - 4. nemzetbiztonsági felsőoktatás: a nemzetbiztonsági ágazat szakembereinek felkészítése érdekében indított nemzetbiztonsági alapképzési szak, valamint a hozzá kapcsolódó mesterképzési szak;
@@ -102,7 +102,7 @@ A magyar felsőoktatási rendszer részeként a közigazgatási, rendészeti és
 - a) közalkalmazott,
 - b) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó állomány tagja vezényléssel,
 - c) a honvédek jogállásáról szóló törvény hatálya alá tartozó állomány tagja vezényléssel, valamint
-- d) közszolgálati tisztviselő
+- d) közszolgálati tisztviselő, állami tisztviselő
 
 tölthet be.
 
@@ -155,12 +155,12 @@ tölthet be.
 21/A. § (1) A költségviselés formája szerint az Egyetem képzésében részt vevő lehet
 
 - a) közszolgálati ösztöndíjas hallgató,
-- b) önköltség fizetésére nem kötelezett hallgató, aki hivatásos, szerződéses vagy honvéd tisztjelölti jogviszonyban áll,
+- b) önköltség fizetésére nem kötelezett hallgató, aki hivatásos, szerződéses vagy tisztjelölti jogviszonyban áll,
 - c) önköltséges hallgató.
 
 (2) A közszolgálati ösztöndíjas hallgatóra az Nftv. magyar állami ösztöndíjjal támogatott hallgatóra vonatkozó szabályait kell alkalmazni az e törvényben foglalt eltérésekkel. A levelező munkarendben tanuló közszolgálati ösztöndíjas hallgatói juttatásra nem jogosult.
 
-(3) A közszolgálati ösztöndíjas hallgatókkal – a rendészeti képzésben részt vevő közszolgálati ösztöndíjas hallgatók kivételével, ide nem értve azonban a rendészeti igazgatási alapképzési szak biztonsági szakirányának hallgatóit – az Egyetem köt ösztöndíjszerződést. A rendészeti képzésben részt vevő közszolgálati ösztöndíjas hallgatókkal a rendvédelmi szerv, a Bevándorlási és Állampolgársági Hivatal, illetve a Nemzeti Adó- és Vámhivatal köti meg az ösztöndíjszerződést.
+(3) A közszolgálati ösztöndíjas hallgatókkal – a rendészeti képzésben részt vevő közszolgálati ösztöndíjas hallgatók kivételével, ide nem értve azonban a rendészeti igazgatási alapképzési szak biztonsági szakirányának hallgatóit – az Egyetem köt ösztöndíjszerződést. A rendészeti képzésben részt vevő közszolgálati ösztöndíjas hallgatókkal a Bevándorlási és Állampolgársági Hivatal köti meg az ösztöndíjszerződést.
 
 (4) Az Egyetem által kötött közszolgálati ösztöndíjszerződés az Nftv. által a magyar állami ösztöndíjjal támogatott hallgatók részére meghatározott feltételeket tartalmazza azzal, hogy az Nftv. 48/A., 48/C. és 48/R. §-ában a Magyar Államon az Egyetemet kell érteni.
 
@@ -210,14 +210,14 @@ kezeli.
 - f) a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény hatálya alá tartozó fegyveres szerv utánpótlási és vezetői adatbankjába történő felvétel vállalása,
 - g) szakmai területen vagy szakmai szervnél meghatározott idejű gyakorlat, illetve meghatározott rendfokozat megléte,
 - h) vezetői, illetve elöljárói támogató nyilatkozat,
-- i) végzettség, szakképzettség, szakképesítés, képesítés, szaktanfolyami vizsga, közigazgatási vizsga megléte vagy megkezdése, továbbá
+- i) végzettség, szakképzettség, szakképesítés, képesítés, szaktanfolyami vizsga, közigazgatási vizsga, közigazgatási tanulmányok szakirányú szakképzettség vagy kormányzati tanulmányok szakirányú szakképzettség megléte vagy megkezdése, továbbá
 - j) a pályaalkalmassági vizsgálatok részeként pályaalkalmassági orientációs beszélgetésen való megfelelés.
 
-24. § A honvédtiszti alapképzésre és a rendészeti képzés nappali munkarendben történő alapképzésére az a 18. életévét betöltött, de a felvétel évében 25. életévét be nem töltött – a rendvédelmi szervek hivatásos állományú tagjai esetében 30 évesnél nem idősebb –, cselekvőképes, magyar állampolgársággal rendelkező személy vehető fel, aki a jelentkezők egészségi, pszichikai és fizikai alkalmasságának szabályairól szóló rendeletben előírt alkalmassági követelményeknek megfelel. A honvédtiszti alapképzés tekintetében további feltétel, hogy a hallgató hozzájárul a nemzetbiztonsági alkalmasságának ellenőrzéséhez, és vállalja a honvéd tisztjelölti szolgálati viszony létesítését és fenntartását a honvédtiszti alapképzés idejére.
+24. § A honvédtiszti alapképzésre és a rendészeti képzés nappali munkarendben történő alapképzésére az a 18. életévét betöltött, de a felvétel évében 25. életévét be nem töltött – a rendvédelmi szervek hivatásos állományú tagjai esetében 30 évesnél nem idősebb –, cselekvőképes, magyar állampolgársággal rendelkező személy vehető fel, aki a jelentkezők egészségi, pszichikai és fizikai alkalmasságának szabályairól szóló rendeletben előírt alkalmassági követelményeknek megfelel. További feltétel, hogy a hallgató hozzájárul a honvédtiszti alapképzés tekintetében a nemzetbiztonsági alkalmasságának ellenőrzéséhez, rendészeti képzés nappali munkarendben történő alapképzés tekintetében a kifogástalan életvitel ellenőrzéshez, és vállalja a tisztjelölti szolgálati viszony létesítését és fenntartását az alapképzés idejére.
 
 25. § A honvédtiszti alap- és mesterképzésben részt vevő hallgató hallgatói jogviszonya különleges jogrendben, valamint a katasztrófák megelőzése érdekében elrendelt közreműködés idején szünetelhet. A hallgatói jogviszony ettől eltérő szüneteltetését a Honvéd Vezérkar főnöke engedélyezheti.
 
-26. § (1) Az Egyetem vezetői és oktatói a honvéd tisztjelöltek, illetve a rendészeti képzésben részt vevő hallgató vonatkozásában elöljárói vagy felettesi jogkör gyakorlására jogosultak az általuk vezetett foglalkozásokon.
+26. § (1) Az Egyetem vezetői és oktatói a tisztjelöltek vonatkozásában elöljárói vagy felettesi jogkör gyakorlására jogosultak az általuk vezetett foglalkozásokon.
 
 (2) Az Egyetem a katonai képzés folytatása érdekében együttműködik az Magyar Honvédség Ludovika Zászlóaljjal.
 

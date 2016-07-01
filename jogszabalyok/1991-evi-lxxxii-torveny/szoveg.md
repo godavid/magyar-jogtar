@@ -177,19 +177,23 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 
 (2a) Az (1) bekezdés szerinti adótétel első alkalommal való átutalása előtt az adózó vagy képviselője legalább 10 nappal megelőzően köteles az állami adó- és vámhatóságnál az e célra rendszeresített nyomtatványon bejelentkezni.
 
-(3) Az (1) bekezdés szerinti adótételt illetékbélyeggel kell megfizetni, melyet a közúti fuvarozási engedélyre – loco fuvarozás esetén a fuvarozás teljes időtartamára vonatkozóan, tranzit fuvarozás esetén az oda- és visszaútra külön-külön – kell felragasztani Magyarország területére való belépéskor. Adózó a felragasztást követően köteles a belépés időpontját (év-hónap-nap-óra) az illetékbélyegekre rávezetni. Adóköteles fuvarozási engedéllyel fizetési kötelezettség teljesítése (illetékbélyeg) nélkül legfeljebb Magyarország területére való belépéstől számított 5 km-es körzethatáron belül lehet szankciómentesen közlekedni.
+(3) Az adót az adózó vagy pénzügyi képviselője – a tehergépjármű Magyarország területére való belépését legalább 2 munkanappal megelőzően – átutalással fizeti meg. Az átutalás közleményrovatában – a következő sorrendben – rögzíteni kell az adózó adószámát, a fuvarozási engedély sorszámát az országkóddal együtt, a tehergépjármű rendszámát, valamint loco fuvarozás esetében az „L”, míg tranzit vagy 3. országos fuvarozás esetében a „T” betűjelet.
+
+(4) Az adófizetés tényét az adózó (gépjárművezető) az átutalás megtörténtét bizonyító irattal igazolja, melyet magyarországi közlekedése során járműokmányként köteles megőrizni.
+
+(5) Az adót az állami adó- és vámhatóság külföldi gépjárműadó számlája javára kell megfizetni.
 
 16. §
 
 ### Az adó megfizetésének ellenőrzése
 
-17. § (1) Magyarország területén közlekedő külföldön nyilvántartott tehergépjármű esetében az adókötelezettség teljesítésének ellenőrzését a vámhatóság végzi. A vámhatóság az illetékbélyeget érvényteleníti, a tehergépjármű rendszámát és a lerótt illeték összegét nyilvántartásba veszi.
+17. § (1) Magyarország területén közlekedő külföldön nyilvántartott tehergépjármű esetében az adókötelezettség teljesítésének ellenőrzését az állami adó- és vámhatóság végzi.
 
-(2) Ha az adózó az adófizetési kötelezettségét részben vagy egészben elmulasztotta, a vámhatóság az adóhiányt és annak ötszörösét adóbírság címén állapítja meg. A határozatot a vámhatóság kihirdetés útján közli, mely fellebbezésre tekintet nélkül azonnal végrehajtható.
+(2) Ha az adózó az adófizetési kötelezettségét részben vagy egészben elmulasztotta, az állami adó- és vámhatóság az adóhiányt és annak ötszörösét adóbírság címén állapítja meg. A határozatot az állami adó- és vámhatóság kihirdetés útján közli, mely fellebbezésre tekintet nélkül azonnal végrehajtható.
 
-(3) Az adóhiányt és a bírságot az adózó illetékbélyeggel, ennek hiányában készpénzzel fizeti meg. A készpénz átvételéről a vámhatóság köteles nyugtát adni, mely a későbbiek során az adófizetési kötelezettség teljesítésének igazolására is szolgál.
+(3) Az adóhiányt és az adóbírságot az adózó átutalással vagy készpénzzel fizeti meg. A készpénz átvételéről az állami adó- és vámhatóság készpénzátvételi elismervényt ad, amely az adófizetési kötelezettség teljesítésének igazolására is szolgál.
 
-(4) Az adóhiány és bírság megfizetéséig a vámhatóság a gépjármű továbbhaladását megakadályozhatja. Nem tartható vissza az élő állatot, illetve a gyorsan romló árut szállító gépjármű. Ebben az esetben a fizetési kötelezettséget a tulajdonossal, illetve a tényleges üzembentartóval szemben kell érvényesíteni.
+(4) Az adóhiány és adóbírság megfizetéséig az állami adó- és vámhatóság a gépjármű továbbhaladását megakadályozhatja. Nem tartható vissza az élő állatot, illetve a gyorsan romló árut szállító gépjármű. Ebben az esetben a fizetési kötelezettséget a tulajdonossal, illetve a tényleges üzembentartóval szemben kell érvényesíteni.
 
 #### IV.
 

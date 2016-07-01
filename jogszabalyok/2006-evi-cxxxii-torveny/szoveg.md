@@ -51,6 +51,8 @@ terjed ki.
 
 (3a) E törvény alkalmazása során a fenntartó alatt a tulajdonost kell érteni abban az esetben, ha az egészségügyi szolgáltató tekintetében a fenntartói jogokat – az egészségügyi szolgáltató alapító dokumentumában rögzítettek szerint – az egészségügyi szolgáltató tulajdonosa gyakorolja.
 
+(3b) A szakellátási kapacitás, illetve az ellátási terület megállapítására, módosítására, átcsoportosítására irányuló – e törvény szerinti – eljárások felfüggeszthetőek, ha a döntés meghozatalához előzetesen többletkapacitás-befogadási eljárást kell lefolytatni.
+
 #### 2. Az egészségügyi szakellátás végzésére kötelezettek köre, a kötelezettség tartalma, a kötelezettség nem teljesítése esetén alkalmazandó szabályok
 
 1/A. § (1) Az egészségügyi közszolgáltatásért felelős szervek közül
@@ -379,7 +381,16 @@ köthet.
 
 (2) A 4. § szerinti eljárás során az (1) bekezdés szerinti kapacitásból bármely egészségügyi szolgáltató részesülhet, azzal, hogy a kapacitásban részesülő egészségügyi szolgáltatónak meg kell felelnie az intézmények és azok szervezeti egységei működési feltételéül jogszabályban meghatározott feltételeknek.
 
-(3) Járványügyi és katasztrófahelyzet esetén az egészségügyi szolgáltatók 3 órán belül kapacitásaik 10%-át, 6 órán belül kapacitásaik 20%-át kötelesek jogszabályban meghatározottak szerint a különleges helyzet fennállásának időtartamáig rendelkezésre bocsátani.
+(3) Az egészségügyi szolgáltatók 3 órán belül kapacitásaik 10%-át, 6 órán belül kapacitásaik 20%-át kötelesek jogszabályban meghatározottak szerint a különleges helyzet fennállásának időtartamáig rendelkezésre bocsátani:
+
+- a) járványügyi helyzet,
+- b) egészségügyi válsághelyzet,
+- c) különleges jogrend,
+- d) migrációs válsághelyzet,
+- e) katasztrófahelyzet vagy
+- f) egészségügyi veszélyhelyzet
+
+fennállása esetén.
 
 (4) Kormányrendelet határozza meg azokat a szakmákat, amelyekre az egészségügyi szakellátás körében finanszírozási szerződés köthető.
 

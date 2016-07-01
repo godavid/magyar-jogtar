@@ -121,11 +121,11 @@ az alábbi törvényt alkotja:
 
 (4) A gyógyszerrel vagy gyógyászati segédeszközzel kapcsolatos kereskedelmi kommunikáció során közölt információ tartalmára vonatkozó részletes szabályokat külön jogszabály határozza meg.
 
-### Gyógyszer és gyógyászati segédeszköz ismertetése
+### Gyógyszer, gyógyászati segédeszköz és tápszer ismertetése
 
-12. § (1) A gyógyszer és gyógyászati segédeszköz ismertetése (a továbbiakban: ismertetés) olyan, a gyógyszerekre és gyógyászati segédeszközökre, a gyógyszer összetételére, hatására, illetve a gyógyszer és a gyógyászati segédeszköz alkalmazására vonatkozó kereskedelmi gyakorlat, amely kizárólag a gyógyszerek és gyógyászati segédeszközök rendelésére, használatának betanítására és forgalmazására jogosult egészségügyi szakképesítéssel rendelkezőknek szól, vagy amelyet velük szemben alkalmaznak.
+12. § (1) A gyógyszer, az anyatej-helyettesítő tápszer, az anyatej-kiegészítő tápszer és a speciális gyógyászati célra szánt tápszer (e fejezet alkalmazásában a továbbiakban: tápszer) valamint a gyógyászati segédeszköz ismertetése (a továbbiakban: ismertetés) olyan, a gyógyszerekre, tápszerekre és gyógyászati segédeszközökre, a gyógyszer és tápszer összetételére, hatására, illetve a gyógyszer, a tápszer és a gyógyászati segédeszköz alkalmazására vonatkozó kereskedelmi gyakorlat, amely kizárólag a gyógyszerek, tápszerek és gyógyászati segédeszközök rendelésére, használatának betanítására és forgalmazására jogosult egészségügyi szakképesítéssel rendelkezőknek szól, vagy amelyet velük szemben alkalmaznak.
 
-(2)
+(2) A gyógyászati segédeszközök ismertetésével kapcsolatos, ezen fejezetben foglalt rendelkezések a tápszerek tekintetében is alkalmazandóak.
 
 (3) Ha
 
@@ -1260,6 +1260,20 @@ a gyógyszertár megnyitását követő legalább öt éven keresztül. A da)–
 
 (12) A (6) bekezdés szerinti létesítési határozatot az egészségügyi államigazgatási szerv visszavonja, ha a gyógyszertár működtetését a létesítési határozatban rögzített határnapig nem kezdik meg.
 
+(13) Érvénytelen a pályázat, ha
+
+- a) a pályázó a pályázat benyújtására nem jogosult,
+- b) a pályázat hiányosan került benyújtásra,
+- c) a pályázat nem felel meg a pályázati felhívásban foglaltaknak, vagy
+- d) azt határidőn túl nyújtották be.
+
+(14) Az érvénytelen pályázatot benyújtó pályázó a pályázati eljárásban, illetve annak további szakaszában nem vehet részt.
+
+(15) Eredménytelen a pályázati eljárás, ha
+
+- a) nem érkezett pályázat vagy
+- b) nem érkezett érvényes pályázat.
+
 49/A. § (1) Azon a településen, ahol közforgalmú gyógyszertár vagy fiókgyógyszertár nem működik, az egészségügyi államigazgatási szerv új közforgalmú gyógyszertár létesítésére akkor ír ki hivatalból pályázatot, ha a település lakosainak száma legalább 4500 fő.
 
 (2) Azon a településen, ahol már működik közforgalmú gyógyszertár, új közforgalmú gyógyszertár létesítésére az egészségügyi államigazgatási szerv akkor írhat ki pályázatot, ha az új gyógyszertárral együtt számított valamennyi közforgalmú gyógyszertárra átlagosan
@@ -1318,6 +1332,8 @@ az egészségügyi államigazgatási szerv – erre irányuló kérelem esetén 
 (3) Ha a kézigyógyszertár működtetésére adott engedélyben megjelölt településen közforgalmú gyógyszertár vagy fiókgyógyszertár működtetését engedélyezik, ezek megnyitása napjával a kézigyógyszertár működtetésre vonatkozó engedély módosításáról, illetve visszavonásáról intézkedni kell.
 
 (4) A kézigyógyszertárban tartható gyógyszereket csak közforgalmú gyógyszertárból lehet beszerezni. A kézigyógyszertár ellátására elsősorban a háziorvos működési engedélyében megjelölt telephelyhez legközelebb található közforgalmú gyógyszertárral köthető megállapodás. Egy közforgalmú gyógyszertár legfeljebb négy kézigyógyszertár ellátására köthet megállapodást.
+
+(4a) Ha a legközelebb eső közforgalmú gyógyszertárral a megállapodás nem jön létre, más – a közúton történő megközelítés figyelembevételével közelebb eső, de a létesíteni kívánt kézigyógyszertártól legfeljebb 30 km távolságra működő – közforgalmú gyógyszertárral köthető gyógyszerellátásra megállapodás.
 
 (5) A háziorvos a kézigyógyszertárból csak a nyilvántartásában szereplő beteg részére és csak az általa rendelt gyógyszert szolgáltathatja ki a sürgős szükség esetét kivéve.
 
@@ -1535,6 +1551,8 @@ tevékenységet folytatott, és e tevékenység megszűnésétől három év mé
 60/B. § (1) A személyi jog – az egészségügyi államigazgatási szerv engedélyével és a gyógyszertárat működtető gazdasági társaság jóváhagyásával – a személyi jogra e jogszabály alapján jogosult személynek átruházható, ebben az esetben a működési engedély módosításra kerül.
 
 (2) Átruházás kezdeményezése esetén az átruházó személyi jogos gyógyszerész felelős a gyógyszertár szakmai működéséért mindaddig, míg a működési engedélyt módosító döntés a személyi jog átruházására tekintettel jogerőre nem emelkedik.
+
+(3) A működtető az átruházásra vonatkozó jóváhagyása esetén az 53/A. § (1) bekezdése szerint köteles eljárni a működési engedély módosítása tárgyában.
 
 60/C. § (1) Ha a személyi jog az 59. § (1) bekezdés a) pontjának ab) alpontjában foglalt okból szűnik meg, akkor a korábbi személyi jog jogosultjának házastársa vagy egyenesági rokona, örökbe fogadott, mostoha- vagy nevelt gyermeke erre irányuló kérelem esetén személyi jog jogosultjává válik, amennyiben megfelel az 56. §-ban foglalt feltételeknek.
 

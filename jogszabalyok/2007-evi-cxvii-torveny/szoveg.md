@@ -51,7 +51,7 @@ Az Országgyűlés a foglalkoztatók nyugdíjcélú megtakarítások terén tör
 - 20. közeli hozzátartozó: a Ptk. 8:1. § (1) bekezdés 1. pontjában meghatározott személyek, valamint az élettárs;
 - 21. minimális biztonsági tőke: a tevékenység megkezdésekor és folytatásakor a felvállalt kockázatokból adódó kötelezettségek teljesítésére szolgáló tőkerész;
 - 22. munkavállaló: a foglalkoztatóval a 23. pontban meghatározott munkaviszonyban álló személy;
-- 23. munkaviszony: a munka törvénykönyvéről szóló törvény (a továbbiakban: Mt.) szerinti munkaviszony, továbbá minden olyan, munkavégzésre irányuló jogviszony, amelyre külön törvény szerint az Mt. rendelkezéseit is alkalmazni kell; munkaviszony e törvény alkalmazásában továbbá a közszolgálati tisztviselőkről szóló törvény szerinti kormányzati szolgálati jogviszony és a közszolgálati jogviszony, a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény szerinti közalkalmazotti jogviszony, az ügyészségi szolgálati viszonyról és az ügyészségi adatkezelésről szóló 1994. évi LXXX. törvény szerinti ügyészségi szolgálati viszony, a bírák jogállásáról és javadalmazásáról szóló 1997. évi LXVII. törvény szerinti szolgálati viszony, az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény szerinti szolgálati jogviszony, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti szolgálati viszony, a honvédek jogállásáról szóló törvény szerinti szolgálati jogviszony; e törvény alkalmazásában az egyházi személyt is munkaviszonyban állónak kell tekinteni;
+- 23. munkaviszony: a munka törvénykönyvéről szóló törvény (a továbbiakban: Mt.) szerinti munkaviszony, továbbá minden olyan, munkavégzésre irányuló jogviszony, amelyre külön törvény szerint az Mt. rendelkezéseit is alkalmazni kell; munkaviszony e törvény alkalmazásában továbbá a közszolgálati tisztviselőkről szóló törvény szerinti kormányzati szolgálati jogviszony és a közszolgálati jogviszony, az állami tisztviselőkről szóló törvény szerinti állami szolgálati jogviszony, a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény szerinti közalkalmazotti jogviszony, az ügyészségről szóló 2011. évi CLXIII. törvény szerinti ügyészségi szolgálati viszony, a bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény szerinti szolgálati viszony, az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény szerinti szolgálati jogviszony, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti szolgálati viszony, a honvédek jogállásáról szóló törvény szerinti szolgálati viszony; e törvény alkalmazásában az egyházi személyt is munkaviszonyban állónak kell tekinteni;
 - 24. nyugdíjkonstrukció: egy foglalkoztató munkavállalói részére nyújtott foglalkoztatói nyugdíjszolgáltatás feltétel- és teljesítésrendszere;
 - 25. nyugdíjkorhatár:
   - a) az az életkor, melyet a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény az öregségi nyugdíjra való jogosultság feltételeként meghatároz,
@@ -68,7 +68,9 @@ Az Országgyűlés a foglalkoztatók nyugdíjcélú megtakarítások terén tör
 - 34. valorizáció: a szolgáltatással meghatározott nyugdíjkonstrukció esetén a jogosultság megszerzése és a szolgáltatás megkezdése közötti időszakban a jogosultság összegének értékállóságát biztosító mechanizmus, amely a jogosultság értékének a közbenső időszak ár-, bérnövekedéséhez vagy más egyéb tényezők alakulásához való hozzáigazítását jelenti;
 - 35. várakozási idő: a tagsági jogviszonynak a belépéstől számított, a nyugdíjkonstrukció által előírt azon időszaka, amelynek elteltével a tag a foglalkoztatói nyugdíjszolgáltatáshoz – az egyéb feltételek teljesülése esetén – legkorábban hozzájuthat;
 - 36. minősített befolyás: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényben meghatározott fogalom;
-- 37. Felügyelet: a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank.
+- 37. Felügyelet: a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank;
+- 38. elektronikus irat: olyan bizonylat, amely megfelel az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben foglalt rendelkezéseknek;
+- 39. elektronikus irat használata: a foglalkoztatói nyugdíjszolgáltató intézmény tagja teljes bizonyító erejű magánokiratba foglalt nyilatkozatban kérheti a foglalkoztatói nyugdíjszolgáltató intézménytől, hogy a foglalkoztatói nyugdíjszolgáltató intézmény a részére átadandó dokumentumokat, nyilatkozatokat, igazolásokat elektronikus iratként küldje meg, illetve tegye elérhetővé számára.
 
 ### Működési alapelvek
 
@@ -155,7 +157,7 @@ Az Országgyűlés a foglalkoztatók nyugdíjcélú megtakarítások terén tör
 
 (3) A csatlakozott foglalkoztató átléphet egy másik foglalkoztatói nyugdíjszolgáltató intézményhez. Ez esetben az átadó foglalkoztatói nyugdíjszolgáltató intézménnyel megkötött szerződés felmondására a fogadó foglalkoztatói nyugdíjszolgáltató intézménnyel csatlakozásra vonatkozó szerződés megkötését követően kerülhet sor. Az új csatlakozásra vonatkozó szerződésben rendelkezni kell a nyugdíjkonstrukció átvételével kapcsolatos eljárásról is. Átlépés esetén a tagok jogosultságai nem csökkenhetnek.
 
-(4) A foglalkoztatói nyugdíjszolgáltató intézményhez önfoglalkoztató is csatlakozhat. A csatlakozó önfoglalkoztató a taggal esik egy tekintet alá, azonban a foglalkoztató 55. §-ban foglalt kötelezettségeit is teljesíti.
+(4) A foglalkoztatói nyugdíjszolgáltató intézményhez önfoglalkoztató is csatlakozhat. A csatlakozó önfoglalkoztató a csatlakozó foglalkoztatóval esik egy tekintet alá.
 
 ### Tevékenységi engedély
 
@@ -228,7 +230,7 @@ szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végreh
 - e) felsőfokú iskolai végzettséggel nem rendelkezik, vagy
 - f) könyvvizsgálói tevékenységet folytat.
 
-(5) A foglalkoztatói nyugdíjszolgáltató intézmény felügyelőbizottságának tagjai közül a (4) bekezdés c) és d) pontjaiban foglaltak kizárólag a felügyelőbizottság elnökére nézve kötelezőek.
+(5) A foglalkoztatói nyugdíjszolgáltató intézmény felügyelőbizottságának tagjai közül a (4) bekezdés d) pontjában foglaltak kizárólag a felügyelőbizottság elnökére nézve kötelezőek.
 
 (6) Akivel szemben
 
@@ -246,7 +248,7 @@ szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végreh
 - a) vezető biztosításmatematikust (aktuáriust),
 - b) számviteli rendjéért felelős vezetőt,
 - c) belső ellenőrt,
-- d) jogászt, és
+- d) vezető jogászt, és
 - e) befektetésekért felelős vezetőt
 
 (a továbbiakban együtt: egyéb vezetők) köteles alkalmazni, illetőleg foglalkoztatni. A b), c), e) pontokban felsorolt személyeket a foglalkoztatói nyugdíjszolgáltató intézmény kizárólag munkaviszony keretében alkalmazhatja.
@@ -294,6 +296,21 @@ szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végreh
 (4) A foglalkoztatói nyugdíjszolgáltató intézmény működésének ellenőrzésével kapcsolatban a felügyelőbizottság a Bit. 85. § (4) bekezdésében meghatározott feladatokat látja el.
 
 (5) Ahol a Bit. biztosítót említ, ott e törvény alkalmazásában foglalkoztatói nyugdíjszolgáltató intézményt kell érteni.
+
+### A vezető jogász
+
+14/A. § A foglalkoztatói nyugdíjszolgáltató intézmény vezető jogásza az lehet, aki
+
+- a) állam- és jogtudományi egyetemi végzettséggel rendelkezik,
+- b) jogi szakvizsgát tett,
+- c) legalább hároméves, biztosítónál, viszontbiztosítónál, magánnyugdíj-pénztárnál, önkéntes kölcsönös biztosító pénztárnál, pénzügyi felügyeletet ellátó szervezetnél, az államigazgatás pénzügyi, illetve gazdasági területén, a biztosítók, biztosításközvetítők, magánnyugdíj-pénztárak, önkéntes kölcsönös biztosító pénztárak szakmai érdekvédelmi szervénél vagy biztosításközvetítői tevékenységet folytató gazdálkodó szervezetnél szerzett biztosításszakmai vagy pénztárszakmai gyakorlattal rendelkezik,
+- d) büntetlen előéletű, és
+- e) szakmai alkalmassággal és üzleti megbízhatósággal rendelkezik.
+
+14/B. § A vezető jogász
+
+- a) ellátja, illetve irányítja a jogtanácsosi tevékenységhez kapcsolódó feladatok teljesítését, és
+- b) ellenőrzi és aláírásával igazolja, hogy a Felügyelethez engedélyezésre benyújtott okiratok és bejelentések a jogszabályoknak megfelelnek.
 
 ### Összeférhetetlenségi szabályok
 
@@ -387,7 +404,7 @@ szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végreh
 
 ### Változások bejelentése
 
-21. § (1) A foglalkoztatói nyugdíjszolgáltató intézmény a személyi és tárgyi feltételekben, továbbá a vezető állású személyek és egyéb vezetők, a letétkezelő, a számlavezető, a könyvvizsgáló, a kiszervezett tevékenységet végző személyében vagy adataiban történt változást a szerződés megkötését, illetve megszűnését követően öt napon belül a Felügyeletnek bejelenti.
+21. § (1) A foglalkoztatói nyugdíjszolgáltató intézmény a személyi és tárgyi feltételekben, a tulajdonrésszel (részvénnyel) rendelkezők személyében, továbbá a vezető állású személyek és egyéb vezetők, a letétkezelő, a számlavezető, a könyvvizsgáló, a kiszervezett tevékenységet végző személyében vagy adataiban történt változást a szerződés megkötését, illetve megszűnését követően öt napon belül a Felügyeletnek bejelenti.
 
 (2) Az e törvényben meghatározott engedélyek kérelmezése és a bejelentések megtétele a Felügyelet által meghatározott formában történik. E célra a Felügyelet adatlapot rendszeresíthet.
 
@@ -464,7 +481,7 @@ szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végreh
 
 27. § (1) A nyilvántartott jogosultságok, illetve a tagi számlán jóváírt összeg a tag tulajdonát képezik.
 
-(2) Az (1) bekezdésben foglaltaktól eltérően mind a befizetéssel, mind a szolgáltatással meghatározott nyugdíjkonstrukcióban meghatározható feltételes jogszerzési időtartam. A feltételes jogszerzési időtartam öt évnél hosszabb nem lehet. Amennyiben a foglalkoztató a hozzájárulás megfizetését a munkavállaló általi kiegészítés vállalásához kötötte és a munkaviszony a feltételes jogszerzési időtartam lejárta előtt megszűnik, a foglalkoztatói nyugdíjszolgáltató intézmény a tag által befizetett kiegészítést befizetéssel meghatározott nyugdíjkonstrukció esetén a tagi számla kiegészítésre eső hozamaival, szolgáltatással meghatározott nyugdíjkonstrukció esetén a matematikai tartalékokon realizált hozamnak a tagi kiegészítés összegével arányos részével együtt a tag kérelmére részére egy összegben visszafizeti.
+(2) Az (1) bekezdésben foglaltaktól eltérően mind a befizetéssel, mind a szolgáltatással meghatározott nyugdíjkonstrukcióban meghatározható feltételes jogszerzési időtartam. A feltételes jogszerzési időtartam három évnél hosszabb nem lehet. Amennyiben a foglalkoztató a hozzájárulás megfizetését a munkavállaló általi kiegészítés vállalásához kötötte és a munkaviszony a feltételes jogszerzési időtartam lejárta előtt megszűnik, a foglalkoztatói nyugdíjszolgáltató intézmény a tag által befizetett kiegészítést befizetéssel meghatározott nyugdíjkonstrukció esetén a tagi számla kiegészítésre eső hozamaival, szolgáltatással meghatározott nyugdíjkonstrukció esetén a matematikai tartalékokon realizált hozamnak a tagi kiegészítés összegével arányos részével együtt a tag kérelmére részére egy összegben visszafizeti.
 
 (3) Amennyiben a feltételes jogszerzési időtartam alatt a tagsági jogviszony a tag halála miatt szűnik meg, a (2) bekezdésben meghatározott összeget a tag által jelölt kedvezményezett vagy érvényes kedvezményezettjelölés hiányában az örökös részére kell kifizetni.
 
@@ -535,7 +552,7 @@ szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végreh
 
 (3) Telefonon történő panaszkezelés esetén a foglalkoztatói nyugdíjszolgáltató intézmény biztosítja az ésszerű várakozási időn belüli hívásfogadást és ügyintézést.
 
-(4) Telefonon történő panaszkezelés esetén a foglalkoztatói nyugdíjszolgáltató intézmény és a tag közötti telefonos kommunikációt a foglalkoztatói nyugdíjszolgáltató intézmény hangfelvétellel rögzíti, és a hangfelvételt egy évig megőrzi. Erről a tagot a telefonos ügyintézés kezdetekor tájékoztatni kell. A tag kérésére biztosítani kell a hangfelvétel visszahallgatását, továbbá térítésmentesen rendelkezésre kell bocsátani a hangfelvételről készített hitelesített jegyzőkönyvet.
+(4) Telefonon történő panaszkezelés esetén a foglalkoztatói nyugdíjszolgáltató intézmény és a tag közötti telefonos kommunikációt a foglalkoztatói nyugdíjszolgáltató intézmény hangfelvétellel rögzíti, és a hangfelvételt öt évig megőrzi. Erről a tagot a telefonos ügyintézés kezdetekor tájékoztatni kell. A tag kérésére biztosítani kell a hangfelvétel visszahallgatását, továbbá térítésmentesen rendelkezésre kell bocsátani a hangfelvételről készített hitelesített jegyzőkönyvet.
 
 (5) A foglalkoztatói nyugdíjszolgáltató intézmény a szóbeli panaszt – a (6) bekezdésben meghatározott eltéréssel – azonnal megvizsgálja, és szükség szerint orvosolja. Ha a tag a panasz kezelésével nem ért egyet, a foglalkoztatói nyugdíjszolgáltató intézmény a panaszról és az azzal kapcsolatos álláspontjáról jegyzőkönyvet vesz fel, és annak egy másolati példányát a személyesen közölt szóbeli panasz esetén a tagnak átadja, telefonon közölt szóbeli panasz esetén a tagnak – a (7) bekezdésben foglaltakkal egyidejűleg – megküldi, egyebekben az írásbeli panaszra vonatkozó rendelkezések szerint jár el.
 
@@ -543,9 +560,9 @@ szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végreh
 
 (7) A foglalkoztatói nyugdíjszolgáltató intézmény az írásbeli panasszal kapcsolatos, indokolással ellátott álláspontját a panasz közlését követő harminc napon belül megküldi a tagnak.
 
-(8) A panasz elutasítása esetén a nyugdíjszolgáltató intézmény válaszában tájékoztatja a tagot arról, hogy az MNBtv. szerinti fogyasztóvédelmi rendelkezések megsértése esetén a Felügyeletnél fogyasztóvédelmi eljárást kezdeményezhet, vagy a szerződés létrejöttével, érvényességével, joghatásaival és megszűnésével, továbbá a szerződésszegéssel és annak joghatásaival kapcsolatos jogvita esetén bírósághoz fordulhat, vagy a Pénzügyi Békéltető Testület eljárását kezdeményezheti. A nyugdíjszolgáltató intézménynek meg kell adnia a Pénzügyi Békéltető Testület levelezési címét.
+(8) A panasz elutasítása esetén a nyugdíjszolgáltató intézmény válaszában tájékoztatja a tagot arról, hogy az MNBtv. szerinti fogyasztóvédelmi rendelkezések megsértése esetén a Felügyeletnél fogyasztóvédelmi eljárást kezdeményezhet, vagy a szerződés létrejöttével, érvényességével, joghatásaival és megszűnésével, továbbá a szerződésszegéssel és annak joghatásaival kapcsolatos jogvita esetén bírósághoz fordulhat, vagy a Pénzügyi Békéltető Testület eljárását kezdeményezheti. A nyugdíjszolgáltató intézménynek meg kell adnia a Pénzügyi Békéltető Testület székhelyét, telefonos és internetes elérhetőségét, valamint a levelezési címét.
 
-(9) A foglalkoztatói nyugdíjszolgáltató intézmény a panaszt és az arra adott választ három évig őrzi meg, és azt a Felügyelet kérésére bemutatja.
+(9) A foglalkoztatói nyugdíjszolgáltató intézmény a panaszt és az arra adott választ öt évig őrzi meg, és azt a Felügyelet kérésére bemutatja.
 
 (10) A foglalkoztatói nyugdíjszolgáltató intézmény a tagok panaszai hatékony, átlátható és gyors kezelésének eljárásáról, a panaszügyintézés módjáról, valamint a (11) bekezdés szerinti nyilvántartás vezetésének szabályairól szabályzatot (a továbbiakban: panaszkezelési szabályzat) készít. A foglalkoztatói nyugdíjszolgáltató intézmény a panaszkezelési szabályzatban tájékoztatja a tagokat a panaszügyintézés helyéről, levelezési címéről, elektronikus levelezési címéről, telefonszámáról és telefaxszámáról.
 
@@ -742,7 +759,7 @@ szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végreh
 
 (3) A matematikai tartalék év végére várható értékének eszközfedezetét folyamatosan, de legalább negyedévenként az előre látható kötelezettségeket figyelembe véve meg kell teremteni, és folyamatosan fenn kell tartani annak érdekében, hogy az év végére a szükséges tartalékkal azonos nagyságú, a befektetési előírásoknak megfelelő eszközfedezet a foglalkoztatói nyugdíjszolgáltató intézmény rendelkezésére álljon.
 
-(4) A nyugdíjtechnikai tartalékok tartalmát, képzésének és felhasználásának rendjét a 437. § b) pontja szerint kiadott jogszabályban foglaltak szerint kell meghatározni azzal, hogy
+(4) A nyugdíjtechnikai tartalékok tartalmát, képzésének és felhasználásának rendjét a Bit. 437. § b) pontja szerint kiadott jogszabályban foglaltak szerint kell meghatározni azzal, hogy
 
 - a) a meg nem szolgált hozzájárulások és tagi kiegészítések tartaléka tekintetében a meg nem szolgált díjak tartalékára vonatkozó előírásokat,
 - b) a matematikai tartalékokon belül az életbiztosítási díjtartalék, valamint – megrokkanási kockázatot is kezelő nyugdíjkonstrukció esetén – a baleset-, illetve egészségbiztosítási díjtartalékra vonatkozó előírásokat,
@@ -850,7 +867,7 @@ kell megfelelően alkalmazni.
 - b) ezt a foglalkoztatói nyugdíjszolgáltató intézmény alapszabálya, illetőleg SZMSZ-e tartalmazza,
 - c) vagyonkezelési és vagyonértékelési szabályzattal rendelkezik.
 
-(5) A foglalkoztatói nyugdíjszolgáltató intézmény vagyonkezelési tevékenység irányítására olyan büntetlen előéletű személyt alkalmaz, aki szakirányú felsőfokú végzettséggel (egyetemen vagy főiskolán szerzett jogi, államigazgatási, közgazdasági vagy pénzügyi diploma, oklevél, illetőleg könyvvizsgálói végzettség) és legalább öt év szakmai gyakorlattal rendelkezik.
+(5) A foglalkoztatói nyugdíjszolgáltató intézmény vagyonkezelési tevékenység irányítására olyan büntetlen előéletű, befektetésekért felelős vezetőt alkalmaz, aki szakirányú felsőfokú végzettséggel (egyetemen vagy főiskolán szerzett jogi, államigazgatási, közgazdasági vagy pénzügyi diploma, oklevél, illetve könyvvizsgálói végzettség), értékpapír forgalmazásra feljogosító szakmai vizsgával és legalább három év szakmai gyakorlattal rendelkezik.
 
 (6) Nem minősül saját vagyonkezelési tevékenységnek, amennyiben a foglalkoztatói nyugdíjszolgáltató intézmény vagyonkezelésbe ki nem helyezett befektetett eszközei kizárólag házipénztárban, pénzforgalmi számlán, befektetési számlán vannak elhelyezve.
 
@@ -920,7 +937,10 @@ kell megfelelően alkalmazni.
 
 ### Letétkezelő
 
-50. § (1) A foglalkoztatói nyugdíjszolgáltató intézmény a letétkezelési feladatok ellátásával a Bszt.-ben meghatározott letétkezelési szolgáltatásra vonatkozó engedéllyel rendelkező magyarországi székhelyű befektetési vállalkozást, hitelintézetet köteles megbízni.
+50. § (1) A foglalkoztatói nyugdíjszolgáltató intézmény a letétkezelési feladatok ellátásával olyan befektetési vállalkozást, hitelintézetet köteles megbízni, amely
+
+- a) tevékenységét a Felügyelet a Bszt.-ben meghatározott letétkezelési szolgáltatásra vonatkozó engedélye alapján végzi, vagy
+- b) az Európai Unió más tagállamában rendelkezik székhellyel, rendelkezik nyugdíjalapok kezelésére engedéllyel és tevékenységét az egyéb jogszabályban foglaltaknak megfelelően, határon átnyúló szolgáltatás keretében vagy magyarországi fióktelepe útján folytatja.
 
 (2) A foglalkoztatói nyugdíjszolgáltató intézmény befektetési tevékenységéhez kapcsolódó pénzforgalmát a számára letétkezelői szolgáltatást végző hitelintézetnél, kizárólag külön e célra nyitott befektetési számlán köteles bonyolítani.
 
@@ -1347,7 +1367,9 @@ vonatkozó részletes szabályokat.
 
 88. § E törvény hatálybalépésével egyidejűleg hatályát veszti a foglalkoztatói nyugellátást szolgáltató intézményekről szóló 2005. évi CXI. törvény.
 
-89. §
+89. § (1) A foglalkoztatói nyugdíjszolgáltató intézmény vezető jogásza a pénzügyi közvetítőrendszert érintő egyes törvények módosításáról szóló 2016. évi LIII. törvénnyel megállapított 14/A. § c) pontjában meghatározott követelményeknek 2019. január 1-jétől köteles megfelelni. A 14/A. § hatálybalépésekor felügyeleti hatósági engedély alapján foglalkoztatott, vagy a foglalkoztatás engedélyezése iránt a Felügyeletnél kérelmezett jogász tekintetében a 14/A. § b) és c) pontjában meghatározott követelményeknek való megfelelést a foglalkoztatói nyugdíjszolgáltató intézmény 2018. január 1-jétől köteles biztosítani.
+
+(2) Azon személyek tekintetében, akiket a pénzügyi közvetítőrendszert érintő egyes törvények módosításáról szóló 2016. évi LIII. törvény hatálybalépésekor a foglalkoztatói nyugdíjszolgáltató intézmény vagyonkezelési tevékenység irányítására foglalkoztat, vagy foglalkoztatásukra vonatkozó engedélykérelmet a Felügyeletnek benyújtott, a 45. § (5) bekezdésben foglalt értékpapír-forgalmazásra feljogosító szakmai vizsgát és szakmai gyakorlatot 2018. július 1-ig kell igazolni.
 
 ### Az Európai Unió jogának való megfelelés
 
@@ -1359,4 +1381,5 @@ vonatkozó részletes szabályokat.
 - d) az Európai Parlament és a Tanács 2010/78/EU irányelve (2010. november 24.) a 98/26/EK, 2002/87/EK, 2003/6/EK, 2003/41/EK, 2003/71/EK, 2004/39/EK, 2004/109/EK, 2005/60/EK, 2006/48/EK, 2006/49/EK és 2009/65/EK irányelvnek az európai felügyeleti hatóság (Európai Bankhatóság), az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról,
 - e) a Tanács 2004. december 13-án kelt 2004/113/EK irányelve a nők és férfiak közötti egyenlő bánásmód elvének az árukhoz és szolgáltatásokhoz való hozzáférés, valamint azok értékesítése, illetve nyújtása tekintetében történő végrehajtásáról,
 - f) az Európai Parlament és a Tanács 2013/14/EU irányelve (2013. május 21.) a foglalkoztatói nyugellátást szolgáltató intézmények tevékenységéről és felügyeletéről szóló 2003/41/EK irányelvnek, az átruházható értékpapírokkal foglalkozó kollektív befektetési vállalkozásokra (ÁÉKBV) vonatkozó törvényi, rendeleti és közigazgatási rendelkezések összehangolásáról szóló 2009/65/EK irányelvnek és az alternatív befektetésialap-kezelőkről szóló 2011/61/EU irányelvnek a hitelminősítések túlzott figyelembevétele tekintetében történő módosításáról.
-- g) az Európai Parlament és a Tanács 2009/138/EK irányelve (2009. november 25.) a biztosítási és viszontbiztosítási üzleti tevékenység megkezdéséről és gyakorlásáról (Szolvencia II.).
+- g) az Európai Parlament és a Tanács 2009/138/EK irányelve (2009. november 25.) a biztosítási és viszontbiztosítási üzleti tevékenység megkezdéséről és gyakorlásáról (Szolvencia II.),
+- h) a munkavállalók mobilitásának a kiegészítő nyugdíjjogosultságok megszerzésének és megtartásának javításával történő növelésére vonatkozó minimumkövetelményekről szóló, 2014. április 16-i 2014/50/EK európai parlamenti és tanácsi irányelv.

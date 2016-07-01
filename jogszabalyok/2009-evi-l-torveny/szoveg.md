@@ -21,7 +21,7 @@ Az Országgyűlés a természetes személyek és jogképes szervezetek nem vitat
 (2) Csak fizetési meghagyás útján vagy a Pp. 127. §-ában meghatározott módon vagy a Teljesítésigazolási Szakértői Szerv szakvéleményére alapított perben érvényesíthető a kizárólag pénz fizetésére irányuló olyan lejárt követelés, amelynek a Pp. 24. és 25. §-a szerint számított összege az egymillió forintot nem haladja meg, feltéve, hogy
 
 - a) a kötelezettnek van ismert belföldi lakóhelye vagy tartózkodási helye, illetve székhelye vagy képviselete (a továbbiakban együtt: idézési cím) és
-- b) a pénzkövetelés nem munkaviszonyból, közalkalmazotti jogviszonyból, közszolgálati jogviszonyból, szolgálati jogviszonyból, szövetkezeti tag munkaviszony jellegű jogviszonyából és a bedolgozói jogviszonyból (a továbbiakban együtt: munkaviszony) ered.
+- b) a pénzkövetelés nem munkaviszonyból, közalkalmazotti jogviszonyból, közszolgálati jogviszonyból, kormányzati szolgálati jogviszonyból, állami szolgálati jogviszonyból, szolgálati jogviszonyból, szövetkezeti tag munkaviszony jellegű jogviszonyából és a bedolgozói jogviszonyból (a továbbiakban együtt: munkaviszony) ered.
 
 (3) Fizetési meghagyást nem lehet kibocsátani, ha a kötelezettnek nincs ismert belföldi idézési címe.
 

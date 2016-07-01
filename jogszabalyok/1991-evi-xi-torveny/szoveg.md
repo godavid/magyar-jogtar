@@ -171,7 +171,7 @@ az egészségügyi hatósági és igazgatási tevékenységről
 - q) megállapítja, összehangolja, nyilvántartja és közzéteszi a gyógyszertári ügyeletet és készenlétet;
 - r) közvetlenül és haladéktalanul intézkedik, ha az ellátási kötelezettséggel rendelkező egészségügyi szolgáltatónál hirtelen fellépő ok miatt a betegellátás átmeneti fennakadásáról értesül. Az intézkedéssel párhuzamosan értesíti az érintett szolgáltató fenntartóját, illetve az Országos Mentőszolgálatot.
 
-(2) Az egészségügyi államigazgatási szerv az (1) bekezdés h), i) és o) pontjaiban foglalt feladatokat külön jogszabályban foglaltak szerint látja el.
+(2) Az egészségügyi államigazgatási szerv az (1) bekezdés h)–i), o) és q) pontjában foglalt feladatokat külön jogszabályban foglaltak szerint látja el.
 
 (3) Az (1) bekezdés e) pontja szerinti nyilvántartás a (4) bekezdés a) pont ac) alpontja; b)–d) pontja, valamint e) pont eb) alpontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
@@ -247,6 +247,8 @@ az egészségügyi hatósági és igazgatási tevékenységről
 (4) A (2) bekezdés szerinti nyilvántartásba történő bejegyzésre, valamint az onnan való törlésre irányuló eljárás során a hatóság kizárólag okirati bizonyítékot, valamint az ügyfél nyilatkozatát használhatja fel.
 
 (5) A nyilvántartásba vett egészségügyi szolgáltató vagy a szabadfoglalkozású jogviszonyban álló személy vagy szervezet a (2) bekezdésben foglaltak változását 8 napon belül bejelenti az egészségügyi államigazgatási szervnek. Az egészségügyi államigazgatási szerv a változást a hatósági nyilvántartáson átvezeti és erről a bejelentő személyt vagy szervezetet értesíti.
+
+(5a) Az (5) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a nyilvántartásba vett egészségügyi szolgáltató vagy a szabadfoglalkozású jogviszonyban álló személy vagy szervezet kéri – az (5) bekezdés szerinti határidőben értesíti az egészségügyi államigazgatási szervet.
 
 (6) Az egészségügyi államigazgatási szervnek a bejelentés alapján egészségügyi szolgáltatóként közhiteles nyilvántartásba vételre irányuló, kérelemre lefolytatott eljárásáért vagy igazgatási szolgáltatásáért – az egészségügyért felelős miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott – igazgatási szolgáltatási díjat kell fizetni.
 
@@ -417,9 +419,11 @@ körében a kérelemre lefolytatott közigazgatási eljárásáért – ideértv
 
 (6) Az ivóvíz-biztonsági terv felülvizsgálatára, illetve jóváhagyására irányuló eljárás ügyintézési határideje 45 nap.
 
-(6) Az egészségügyi államigazgatási szerv a környezeti eredetű kórokozók által a lakosságra nézve fertőzési kockázatot jelentő közegekre vagy létesítményekre vonatkozó eljárásaira a Ket. 94. § (1) bekezdés a) pontjában foglaltak az irányadóak azzal, hogy a Legionella által okozott fertőzési kockázatot jelentő közegekre, illetve létesítményekre vonatkozó közegészségügyi előírásokról szóló rendeletbe ütköző cselekményekkel összefüggésben a Ket. 94. § (2) bekezdés d) pontja nem alkalmazható.
+(6)
 
 (7) Az e törvény alapján lefolytatott eljárásokban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+
+(8) Az egészségügyi államigazgatási szerv a környezeti eredetű kórokozók által a lakosságra nézve fertőzési kockázatot jelentő közegekre vagy létesítményekre vonatkozó eljárásaira a Ket. 94. § (1) bekezdés a) pontjában foglaltak az irányadóak azzal, hogy a Legionella által okozott fertőzési kockázatot jelentő közegekre, illetve létesítményekre vonatkozó közegészségügyi előírásokról szóló rendeletbe ütköző cselekményekkel összefüggésben a Ket. 94. § (2) bekezdés d) pontja nem alkalmazható.
 
 14/C. § Az egészségügyi szolgáltató által a beteg részére nyújtott egészségügyi ellátással kapcsolatban tett, a panaszokról és a közérdekű bejelentésekről szóló törvény szerinti panasszal kapcsolatban az az egészségügyi államigazgatási szerv jár el, amely a panasszal érintett egészségügyi szolgáltató részére működési engedély kiadására jogosult.
 

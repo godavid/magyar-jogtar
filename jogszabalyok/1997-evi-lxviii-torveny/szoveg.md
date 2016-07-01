@@ -1059,8 +1059,8 @@ okozta.
 
 - a) bírósági titkárnál a kinevezése előtt jogi képesítéshez kötött munkakörben a jogi szakvizsga letételének a napjától számított időt,
 - b) igazságügyi szakértő, szakértőjelölt és felsőfokú végzettségű tisztviselő esetén a kinevezésig a szakirányú végzettségnek megfelelő munkakörben eltöltött időt,
-- c) az egyéb igazságügyi alkalmazottaknál a korábbi munkaviszony, kormánytisztviselői, köztisztviselői, kormányzati ügykezelői, közszolgálati ügykezelői, közalkalmazotti jogviszony és szolgálati jogviszony idejét,
-- d) a rendőrség szakértői szervének igazságügyi alkalmazottainál a korábbi munkaviszony, kormánytisztviselői, köztisztviselői, kormányzati ügykezelői, közszolgálati ügykezelői, közalkalmazotti, hivatásos szolgálati jogviszony és szolgálati jogviszony idejét.
+- c) az egyéb igazságügyi alkalmazottaknál a korábbi munkaviszony, közszolgálati, kormányzati szolgálati, állami szolgálati, közalkalmazotti jogviszony és szolgálati jogviszony idejét,
+- d) a rendőrség szakértői szervének igazságügyi alkalmazottainál a korábbi munkaviszony, közszolgálati, kormányzati szolgálati, állami szolgálati, közalkalmazotti, hivatásos szolgálati jogviszony és szolgálati jogviszony idejét.
 
 (5) A (4) bekezdés alkalmazásakor a beszámítandó időt úgy kell meghatározni, hogy a következő fizetési fokozatba való előresorolás az adott év első napjával történjék. A beszámításnál figyelemmel kell lenni a helyes bérarányok fenntartására.
 
@@ -1219,7 +1219,7 @@ a besorolása szerint azonos szolgálati idővel rendelkező kormánytisztvisel�
 
 (4) Ha a szolgálati viszony az igazságügyi alkalmazott halála miatt szűnik meg, a jubileumi jutalmat – a (3) bekezdés alkalmazásával – az örökösének kell kifizetni.
 
-(5) A jubileumi jutalomra való jogosultság szempontjából a szolgálati viszony idejébe be kell számítani a közszolgálati jogviszonyban, a hivatásos szolgálati jogviszonyban, a közalkalmazotti jogviszonyban és a munkaviszonyban töltött időt.
+(5) A jubileumi jutalomra való jogosultság szempontjából a szolgálati viszony idejébe be kell számítani a közszolgálati jogviszonyban, a kormányzati szolgálati jogviszonyban, az állami szolgálati jogviszonyban, a hivatásos szolgálati jogviszonyban, a közalkalmazotti jogviszonyban és a munkaviszonyban töltött időt.
 
 ### Egyéb javadalmazások, kedvezményekés költségtérítések
 

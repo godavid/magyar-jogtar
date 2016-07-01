@@ -454,7 +454,7 @@ esetében.
 
 (2) Az (1) bekezdés alkalmazása során építési beruházásnak minősül az építmény, építményrész, épületegyüttes megépítése, átalakítása, valamint bővítése érdekében végzett, termőföld igénybevételével járó építési tevékenység.
 
-17. § (1) Az eredeti állapot helyreállítását – határidő vagy határnap megjelölésével – az ingatlanügyi hatóság határozattal rendeli el.
+17. § (1) Az eredeti állapot helyreállítását – határidő vagy határnap megjelölésével – az ingatlanügyi hatóság határozattal rendeli el, és a határozatban foglaltak végrehajtását helyszíni szemle keretében ellenőrzi.
 
 (1a) Az (1) bekezdéstől eltérően, ha az engedély nélküli más célú hasznosításra olyan földrészleten került sor, amelyre kisajátítási célú kérelmet nyújtottak be, és az ingatlanügyi hatóság a kisajátítási célú kérelem alapján a más célú hasznosítást jogerősen engedélyezte, az ingatlanügyi hatóság az eredeti állapot helyreállításának teljesítését határidő vagy határnap megjelölése nélkül, a kisajátítási eljárás eredményétől függő hatállyal rendeli el.
 
@@ -469,9 +469,7 @@ esetében.
 
 (1e) Az (1) bekezdésben és az (1c) bekezdés a) pontjában meghatározott határozatban elő kell írni, hogy az eredeti állapot helyreállítását a talajvédelmi hatóság által jóváhagyott, az 50. § (2) bekezdés d) pontjában foglalt talajvédelmi terv szerint kell végrehajtani.
 
-(2) Az igénybevevő az eredeti állapot helyreállítását – annak elvégzését követő 8 napon belül – köteles az ingatlanügyi hatóságnak bejelenteni.
-
-(3) A bejelentés alapján az ingatlanügyi hatóság helyszíni szemlét tart.
+(2)–(3)
 
 (4) Az ingatlanügyi hatóság az eredeti állapot helyreállításának elfogadása esetén földvédelmi bírság és a termőföld más célú hasznosításáért járó földvédelmi járulék megfizetésére kötelezi az igénybevevőt. Az eredeti állapot helyreállításának el nem fogadása esetén újabb határidő megjelölésével a helyreállítás érdekében szükséges további munkák elvégzését írja elő.
 
@@ -1075,6 +1073,8 @@ ellehetetleníti.
 63. § (1)
 
 (2) Az ültetvényhasználó a nyilvántartásba vételt követően az adataiban bekövetkezett változást harminc napon belül köteles bejelenteni a telepítési hatóságnak.
+
+(3) A (2) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle az ültetvényhasználó kéri – a (2) bekezdés szerinti határidőben értesíti a telepítési hatóságot.
 
 64. § (1) A gyümölcsültetvény-kataszterbe bejelentett adatok valódiságát a mezőgazdasági igazgatási szerv a földmérési és térinformatikai államigazgatási szerv közreműködésével ellenőrzi.
 

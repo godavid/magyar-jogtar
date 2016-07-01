@@ -359,7 +359,7 @@ kell figyelembe venni.
 
 18. § (1) Építési tevékenységet végezni az e törvényben foglaltak, valamint az egyéb jogszabályok megtartásán túl, csak a helyi építési szabályzat előírásainak megfelelően szabad.
 
-(2) Ha egy adott területre vonatkozóan nincs hatályban helyi építési szabályzat vagy az nem szabályoz – a 13. § (2) bekezdésében előírt, illetőleg azok végrehajtására vonatkozó egyéb jogszabályokban rögzített követelményeknek megfelelően – teljeskörűen, építési munkát és egyéb építési tevékenységet végezni csak e törvény, valamint az építésügyi követelményekre vonatkozó egyéb jogszabályok megtartásával és csak akkor lehet, ha a célzott hasznosítás jellege, a kialakuló telek mérete, a tervezett beépítés mértéke – beépítettség és építménymagasság – valamint módja, rendeltetése (területfelhasználása) illeszkedik a meglévő környezethez.
+(2) Ha egy adott területre vonatkozóan nincs hatályban helyi építési szabályzat vagy az nem szabályoz teljeskörűen, építési munkát és egyéb építési tevékenységet végezni csak e törvény, valamint az építésügyi követelményekre vonatkozó egyéb jogszabályok megtartásával és csak akkor lehet, ha a célzott hasznosítás jellege, a kialakuló telek mérete, a tervezett beépítés mértéke – beépítettség és építménymagasság – valamint módja, rendeltetése (területfelhasználása) illeszkedik a meglévő környezethez.
 
 19. § (1) Beépítésre szánt területen – a 4. § (3a) bekezdés és a 6. § (3) bekezdés végrehajtására kiadott kormányrendelet eltérő rendelkezésének hiányában – épület csak építési telken helyezhető el.
 
@@ -688,7 +688,7 @@ kivételével más építési munkát végezni nem szabad.
 
 33/A. § (1) A legfeljebb 300 négyzetméter összes hasznos alapterületű új lakóépület építése esetén
 
-- a) az építtető az építési tevékenységet a kivitelezés tervezett megkezdése előtt tizenöt nappal – kormányrendeletben meghatározottak szerint – a nevének és lakcímének, szervezet esetén a megnevezésének és székhelyének megjelölésével bejelenti az építésügyi hatóságnak,
+- a) az építtető az építési tevékenységet a kivitelezés tervezett megkezdése előtt tizenöt nappal – kormányrendeletben meghatározottak szerint – a nevének és lakcímének, szervezet esetén a megnevezésének és székhelyének megjelölésével, kizárólag elektronikus úton bejelenti az építésügyi hatóságnak,
 - b) ha a tervező a tervezés során a közműellátás és az égéstermék-elvezető megvalósítása érdekében az arra jogosult szolgáltató hozzájárulását vagy jóváhagyását kéri, és arra nyolc napon belül nem kap érdemi választ, a hozzájárulást vagy jóváhagyást megadottnak kell tekinteni,
 - c) a bejelentéshez kormányrendeletben meghatározott tartalmú kivitelezési dokumentációt kell mellékelni,
 - d) a kivitelezési dokumentációtól kormányrendeletben meghatározott eltérést be kell jelenteni.
@@ -869,7 +869,7 @@ helyszíni szemle alapján hatósági bizonyítványt állít ki.
 
 (3) Az építési termékek teljesítményállandóságának értékelésére és ellenőrzésére, valamint a műszaki értékelő szervezetek kijelölésére, bejelentésére és tevékenységére a megfelelőségértékelő szervezetek tevékenységéről szóló törvény előírásait kell alkalmazni a 305/2011/EU rendeletben foglalt előírásokkal együtt.
 
-42. § (1) Ha az építési munka végzése során természeti érték, építészeti vagy régészeti emlék, illetőleg építménnyel kapcsolatos képzőművészeti alkotás kerül elő, a kivitelező köteles azt az építésügyi hatósághoz, valamint más hatáskörrel rendelkező hatósághoz haladéktalanul bejelenteni, és a lelőhelyet a hatósági intézkedésig érintetlenül hagyni.
+42. § (1)
 
 (2)
 
@@ -1252,7 +1252,7 @@ első fokú végzés ellen.
 
 (5) Az e törvényben megállapított szakmagyakorlási tevékenységeket érintő feladatok ellátása során a miniszter együttműködik a felsőoktatásban folyó képzési és fejlesztési kérdésekben az állami hatáskörök ellátásában közreműködő testületekkel – különösen a Magyar Felsőoktatási Akkreditációs Bizottsággal, a Felsőoktatási Tervezési Testülettel, a Magyar Rektori Konferenciával –, az egyéb civil vagy érdekképviseleti szervezetekkel és a műszaki tudományos egyesületekkel.
 
-(6) A tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló 1996. évi LVIII. törvény (a továbbiakban: Kamtv.) 11. § (2) bekezdés j) pontjában meghatározott eseteken túl a Magyar Építész Kamara, illetve a Magyar Mérnöki Kamara jogosult a Kamtv. 1. § (1) bekezdésében meghatározott körben, valamint az építésügyi és építésfelügyeleti hatósági feladatot ellátó köztisztviselők és kormánytisztviselők esetében a külön kormányrendeletben meghatározott módon a felsőfokú végzettséget igazoló oklevél szakirányú kredittartalmának a megállapítására, ha az oklevélből a külön kormányrendeletben meghatározott munkakört megalapozó képzettségi szint – a kormányrendelet alapján – nem állapítható meg.
+(6) A tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló 1996. évi LVIII. törvény (a továbbiakban: Kamtv.) 11. § (2) bekezdés j) pontjában meghatározott eseteken túl a Magyar Építész Kamara, illetve a Magyar Mérnöki Kamara jogosult a Kamtv. 1. § (1) bekezdésében meghatározott körben, valamint az építésügyi és építésfelügyeleti hatósági feladatot ellátó köztisztviselők és kormánytisztviselők, valamint állami tisztviselők esetében a külön kormányrendeletben meghatározott módon a felsőfokú végzettséget igazoló oklevél szakirányú kredittartalmának a megállapítására, ha az oklevélből a külön kormányrendeletben meghatározott munkakört megalapozó képzettségi szint – a kormányrendelet alapján – nem állapítható meg.
 
 ### IV/A. Fejezet — FENNTARTHATÓSÁGI SZEMPONTOK ÉRVÉNYESÍTÉSE EGYES KERESKEDELMI ÉPÍTMÉNYEK ENGEDÉLYEZÉSE VONATKOZÁSÁBAN
 
@@ -1480,7 +1480,7 @@ hatályban lévő, településrendezési eszközre vonatkozó előírásai.
 
 62. § (1) Felhatalmazást kap a Kormány arra, hogy
 
-- 1. az építésügyi és építésfelügyeleti 1.1. hatóságok kijelölését, illetékességi területük lehatárolását, feladat- és hatáskörét, 1.2. hatósági ügyek döntésre való szakmai előkészítését, a döntés meghozatalát, végrehajtását, az építési folyamat felügyeletét ellátó döntéshozó és döntést előkészítő köztisztviselők és kormánytisztviselők foglalkoztatási feltételeit, 1.3 hatósági tevékenységet ellátó személyekre vonatkozó összeférhetetlenségi szabályokat, 1.4. hatósági feladatellátás minimális technikai feltételeit, 1.5. vizsga és továbbképzés tartalmát, követelményeit, eljárási szabályait és a vizsgáztató szervek kijelölését,
+- 1. az építésügyi és építésfelügyeleti 1.1. hatóságok kijelölését, illetékességi területük lehatárolását, feladat- és hatáskörét, 1.2. hatósági ügyek döntésre való szakmai előkészítését, a döntés meghozatalát, végrehajtását, az építési folyamat felügyeletét ellátó döntéshozó és döntést előkészítő köztisztviselők és kormánytisztviselők, valamint állami tisztviselők foglalkoztatási feltételeit, 1.3 hatósági tevékenységet ellátó személyekre vonatkozó összeférhetetlenségi szabályokat, 1.4. hatósági feladatellátás minimális technikai feltételeit, 1.5. vizsga és továbbképzés tartalmát, követelményeit, eljárási szabályait és a vizsgáztató szervek kijelölését,
 - 2. az állami és az önkormányzati főépítészi 2.1. tevékenység ellátásának részletes szakmai szabályait, 2.2. tevékenység foglalkoztatási feltételeit, 2.3. vizsga és továbbképzés tartalmát, követelményeit, eljárási szabályait és a vizsgáztató szervek kijelölését, 2.4. tevékenységet ellátó személyre vonatkozó összeférhetetlenségi szabályokat,
 - 3. az építésügyi és építésfelügyeleti hatóság, a szakmai kamarák és a Magyar Kereskedelmi és Iparkamara által az építési folyamat résztvevői tevékenységére vonatkozó szabályok be nem tartása esetén kiszabható bírság mértékét és a szabálytalan tevékenység jogkövetkezménye megállapításának részletes szabályait,
 - 4. a településtervezési, a településrendezési szakértői, az építészeti-műszaki tervezési, az építésügyi műszaki szakértői, az építési műszaki ellenőri és a felelős műszaki vezetői 4.1. tevékenység folytatásának részletes feltételeit, 4.2. tevékenységre vonatkozó szerződések tartalmi követelményeit, a szerződést biztosító mellékkötelezettségre és a szerződés teljesítésére vonatkozó szabályokat, 4.3. tevékenység megkezdésére és folytatására jogosító engedély kiadásának rendjét, 4.4. tevékenységet folytatók névjegyzékét vezető szerv kijelölését, a névjegyzék személyes adatot nem tartalmazó adattartalmát, valamint a névjegyzék vezetésére vonatkozó részletes eljárási szabályokat, 4.5. tevékenységet ellátó személyre vonatkozó összeférhetetlenségi szabályokat,

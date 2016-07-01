@@ -410,7 +410,7 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 #### Az alapvető lakossági szolgáltatások
 
 - 1. A kegyeleti közszolgáltatás biztosítása, szociális temetésről való gondoskodás (a temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény)
-- 2. A kéményseprő-ipari közszolgáltatás ellátásának biztosítása (a kéményseprő-ipari közszolgáltatásról szóló 2012. évi XC. törvény)
+- 2.
 - 3. A hulladékgazdálkodási közszolgáltatás ellátásának biztosítása (a hulladékról szóló 2012. évi CLXXXV. törvény)
 - 4. A közterület tisztán tartása (a helyi önkormányzatok és szerveik, a köztársasági megbízottak, valamint egyes centrális alárendeltségű szervek feladat- és hatásköreiről szóló 1991. évi XX. törvény)
 - 5. A helyi vízrendezés és vízkárelhárítás, az árvíz- és belvízelvezetés, a vízgazdálkodási közszolgáltatás ellátásának biztosítása (a vízgazdálkodásról szóló 1995. évi LVII. törvény)

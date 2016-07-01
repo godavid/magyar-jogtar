@@ -47,11 +47,11 @@ Az Országgyűlés a hatékonyan működő villamosenergia-versenypiac kialakít
 - 6b. Egységes napon belüli piac-összekapcsolás: a 2015/1222/EU bizottsági rendelet 2. cikk 27. pontjában meghatározott fogalom;
 - 7. Egyetemes szolgáltatás: a villamosenergia-kereskedelem körébe tartozó sajátos villamosenergia-értékesítési mód, amely Magyarország területén bárhol, meghatározott minőségben a jogosult felhasználó számára méltányos, összehasonlítható, átlátható ár ellenében igénybe vehető;
 - 7a. Elektromos gépjármű: elektromos erőátviteli rendszerrel felszerelt gépjármű, amelynek meghajtása elsődlegesen villamos motorral történik és a motor a villamos energiát külsőleg újratölthető belső elektromos energiatároló rendszerből nyeri;
-- 7b. Elektromos gépjármű töltése: az elektromos gépjármű energiatárolójának
-  - a) töltése céljából villamos energia értékesítése vagy az energiatároló cseréje az elektromos gépjármű energiatárolójának villamos energiával történő feltöltésére alkalmas töltőállomáson az elektromos gépjármű üzemeltetője vagy használója részére,
-  - b) töltése a lakossági fogyasztó saját mért felhasználói berendezésén keresztül, amely tevékenység nem irányul gazdasági haszonszerzésre,
-  - c) töltése a nem lakossági felhasználó saját mért felhasználói berendezésén keresztül, ha a tevékenység nem irányul haszonszerzésre,
-  - d) töltése céljából villamos energia értékesítése a felhasználó mért magánvezetékére csatlakozó, az elektromos gépjármű energiatárolójának villamos energiával történő töltésére alkalmas töltőállomáson keresztül;
+- 7b. Elektromos gépjármű töltése: az elektromos gépjármű energiatárolójának töltése
+  - a) vagy az energiatároló cseréje az elektromos gépjármű energiatárolójának villamos energiával történő feltöltésére alkalmas töltőállomáson,
+  - b) a lakossági fogyasztó saját mért felhasználói berendezésén keresztül, amely tevékenység nem irányul gazdasági haszonszerzésre,
+  - c) a nem lakossági felhasználó saját mért felhasználói berendezésén keresztül, ha a tevékenység nem irányul haszonszerzésre,
+  - d) a felhasználó mért magánvezetékére csatlakozó, az elektromos gépjármű energiatárolójának villamos energiával történő töltésére alkalmas töltőállomáson keresztül;
 - 8. Elosztás: villamos energiának az elosztó hálózatokon történő továbbítása, a felhasználókhoz történő eljuttatása, illetve az ehhez kapcsolódó minden olyan műszaki és gazdasági tevékenység, amely a villamos energia megfelelő minőségű továbbítása érdekében szükséges;
 - 9. Elosztó hálózat: a villamos energia elosztására és csatlakozási pontra való eljuttatása céljára szolgáló vezetékrendszer – beleértve a tartószerkezeteket is –, a hozzá tartozó átalakító- és kapcsolóberendezésekkel együtt;
 - 10. Előre fizetős mérő: olyan fogyasztásmérő berendezés, amely a fogyasztást csak az ellenérték előzetes megfizetése esetén teszi lehetővé;
@@ -323,7 +323,7 @@ VONATKOZÓ KÖZÖS SZABÁLYOK
 - k)–l)
 - m) az európai rendszer-együttműködésből a magyar villamosenergia-rendszerre nézve keletkező feladatok összehangolása,
 - n) az átviteli hálózathoz történő csatlakozás és hozzáférés, valamint az ezekkel kapcsolatos információk biztosítása,
-- o) a keresletoldali szabályozási intézkedéseknek a villamosenergia-ellátási szabályzatokban meghatározott összehangolása,
+- o) a keresletoldali szabályozási intézkedéseknek a villamosenergia-ellátási szabályzatokban meghatározott összehangolása és ösztönzése,
 - p) az átviteli hálózattal kapcsolatos valamennyi díj, a 714/2009/EK rendelet 13. cikke és az átvitelirendszer-üzemeltetők közötti ellentételezések mechanizmusára és az átviteli díjak szabályozásának közös elveire vonatkozó iránymutatás megállapításáról szóló 2010. szeptember 23-i, 838/2010/EU európai bizottsági rendelet (a továbbiakban: 838/2010/EU rendelet) szerinti, az átviteli rendszerüzemeltetők közötti ellentételezési mechanizmus keretében előírt kifizetések teljesítése, és ennek keretében az átviteli rendszerirányítót megillető bevételek, továbbá a szűk keresztmetszetek kezeléséért felszámított díjak beszedése és elszámolása.
 - q) Vhr.-ben meghatározott pénzügyi biztosítékok meglétének folyamatos figyelemmel kísérése, és a Vhr.-ben meghatározott esetekben a Hivatal tájékoztatása,
 - r) a 2015/1222/EU bizottsági rendeletben foglalt feladatok elvégzése.
@@ -432,7 +432,13 @@ VONATKOZÓ KÖZÖS SZABÁLYOK
 - a) a hálózati kapacitások esetleges jövőbeni korlátaira hivatkozva, vagy
 - b) az új csatlakozási pont miatt szükséges, csatlakozási pont közelében történő hálózat fejlesztés járulékos költségei miatt.
 
-(3b) Felhasználó az átviteli hálózatra csak 132 kV-nál nagyobb feszültségszinten csatlakozhat.
+(3b) Felhasználó az átviteli hálózatra csak akkor csatlakozhat, ha a csatlakozás a villamosenergia-ellátás biztonságát, a villamosenergia-szolgáltatás előírt minőségét és az átviteli rendszerirányítást nem veszélyezteti és
+
+- a) a csatlakozás feszültségszintje 132 kV-nál nagyobb, vagy
+- b) 132 kV-os feszültségszintre történő csatlakozás esetén, ha
+  - ba) a felhasználó rendelkezik az átviteli rendszerirányító nyilatkozatával, amely szerint a csatlakozást a hálózatból vételezett teljesítmény nagysága indokolja és az átviteli átalakító- és kapcsolóberendezésben történő csatlakozás költsége alacsonyabb az elosztóhálózatra történő csatlakozás költségénél,
+  - bb) a felhasználó felhasználási helye a csatlakozási pontként szolgáló átviteli átakító- és kapcsolóberendezés közvetlen szomszédságában álló ingatlanon található, valamint
+  - bc) a felhasználás célja a nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozásának biztosításáról szóló kormányrendeletben felsorolt nyilvántartás működtetése.
 
 (4) A Hivatal a rendszerhasználó kérelmére felülvizsgálja a csatlakozás megtagadásának jogszerűségét. Amennyiben a csatlakozás megtagadása nem a (2)–(3) bekezdésben meghatározott jogszabályi előírásoknak megfelelően történt, a Hivatal az érintett hálózati engedélyest határozatban kötelezi az átviteli, illetve elosztó hálózathoz való csatlakozás biztosítására.
 
@@ -823,6 +829,16 @@ kiállított számla érvénytelen.
 (3) A végső menedékesre vonatkozó részletes rendelkezéseket, valamint a kijelölési eljárás szabályait a Kormány – a csődeljárásról és felszámolásról szóló 1991. évi XLIX. törvény (a továbbiakban: Csődtv.) rendelkezéseivel összhangban – rendeletben szabályozza.
 
 (4) A végső menedékes engedélyes tevékenységére, eltérő rendelkezés hiányában az egyetemes szolgáltatásra és a kereskedelemre vonatkozó rendelkezések megfelelően alkalmazandók.
+
+51/A. § (1) Az 51. § (1) bekezdése szerinti kijelölés határozott időre szól.
+
+(2) A Hivatal a végső menedékes kijelölése esetén az 51. § (1) bekezdése szerinti engedélyes működési engedélyében meghatározott jogainak gyakorlását az e törvény végrehajtására kiadott kormányrendeletben meghatározott feltételek szerint határozatban korlátozza.
+
+(3) A végső menedékes kijelölését követően a Hivatal az 51. § (1) bekezdése szerinti engedélyes engedélyét az e törvény végrehajtására kiadott kormányrendeletben meghatározott feltételek szerint visszavonja.
+
+(4) Ha az egyetemes szolgáltatásra jogosult felhasználó a végső menedékes szolgáltatás időtartama alatt nem köt villamosenergia-vásárlási szerződést, akkor a végső menedékes szolgáltatás megszűnését követő napon az egyetemes szolgáltatás biztosítására e törvény erejénél fogva villamosenergia-vásárlási szerződés jön létre az egyetemes szolgáltatásra jogosult felhasználó és a területileg illetékes egyetemes szolgáltató között az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint.
+
+(5) Annak érdekében, hogy a végső menedékes szolgáltatás időben biztosítható legyen, a Hivatal folyamatosan figyelemmel kíséri a villamosenergia-kereskedők villamosenergia-piaci tevékenységét. A villamosenergia-kereskedők kötelesek az ehhez szükséges – a Hivatal által előírt – adatokat szolgáltatni.
 
 52. § (1) A végső menedékes jogintézményének alkalmazhatósága érdekében a villamos energiát értékesítő engedélyesek esetében a Csődtv.-t az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
@@ -1513,6 +1529,10 @@ működtetésére vonatkozó engedély
 - a) az átadó által ellátott felhasználók száma,
 - b) az átadó által ellátott felhasználókat érintő olyan körülmények és kockázatok bemutatása, amelyek az átadás-átvétel következtében merülhetnek fel.
 
+### Elektromos gépjármű töltésére vonatkozó engedély
+
+90/B. § Az elektromos gépjármű töltésére vonatkozó engedély határozatlan időre szól.
+
 ### Az engedély módosítása
 
 91. § (1) Az engedélyben foglaltakat – a körülmények jelentős megváltozása esetén – az engedélyes kérelmére módosítani lehet.
@@ -2068,7 +2088,7 @@ megfelelően irányadóak, azzal, hogy az a)–c) pontokat a megjelölt vállalk
 
 (2) Az (1) bekezdés c) pontja szerinti kötelezettség esetén a kötelezett engedélyes a Hivatal határidő kitűzésével tett felhívására köteles tájékoztatást adni az (1) bekezdés c) pontjában meghatározott kötelezettségeinek teljesítésére vonatkozó adatokról.
 
-111. § (1) A 107. § (1) bekezdés 1. pontja szerinti piacon jelentős piaci erővel rendelkező engedélyes számára a Hivatal megszabott időközönként megtartandó nyilvános aukció megtartását írhatja elő. Az aukció gyakoriságát és az értékesítésre kerülő kapacitás, illetve energia mennyiségét a Hivatal határozza meg. A Hivatal előírhatja továbbá a szervezett villamosenergia-piacon keresztül történő értékesítést.
+111. § (1) A 107. § (1) bekezdés 1. pontja szerinti piacokon jelentős piaci erővel rendelkező engedélyes számára a Hivatal meghatározott mértékű villamos energia nyilvános és átlátható módon történő értékesítését írja elő, amelyre nyilvános aukción és szervezett villamosenergia-piacon keresztül történő értékesítés keretében kerülhet sor.
 
 (2) A Hivatal a 107. § (1) bekezdés 2. pontja szerinti piacon jelentős piaci erővel rendelkező engedélyesnek előírja az átláthatóság biztosítása érdekében a határozatában foglaltaknak megfelelő bontású és részletezettségű – így különösen a szolgáltatási árat, a fizetési formákat, valamint adott esetben a szolgáltató-váltáshoz kapcsolódó ügyintézési kötelezettségeket tartalmazó – mintaajánlat készítését. A mintaajánlat készítésére köteles engedélyes a jogszabályban meghatározott, illetve a piacelemzést követően a Hivatal által meghatározott feltételekkel közzétett mintaajánlatához annak hatálya alatt kötve van, attól a másik szerződő fél beleegyezésével sem térhet el.
 
@@ -2977,7 +2997,7 @@ jár el, 45 nap,
 
 (9) A Hivatal köteles határozatait nyilvánosan közzétenni.
 
-(10) A közigazgatási ügyekben eljáró bíróság a Hivatal határozatának bírósági felülvizsgálata során – a villamosenergia-rendszer jelentős zavara és a villamosenergia-ellátási válsághelyzet esetén szükséges intézkedésekről szóló kormányrendelet alapján meghozott döntés, valamint a tanúsítási eljárás eredményeképpen hozott határozat, a más engedélyes kijelölési eljárás során hozott határozat kivételével – a határozatot jogosult megváltoztatni.
+(10) A közigazgatási ügyekben eljáró bíróság a Hivatal határozatának bírósági felülvizsgálata során – a villamosenergia-rendszer jelentős zavara és a villamosenergia-ellátási válsághelyzet esetén szükséges intézkedésekről szóló kormányrendelet alapján meghozott döntés, valamint a tanúsítási eljárás eredményeképpen hozott határozat, a más engedélyes kijelölési eljárás során hozott határozat, továbbá a végső menedékes kijelölési eljárásban hozott határozat kivételével – a határozatot jogosult megváltoztatni.
 
 (11) A Hivatal jogerős határozatával lezárt ügyben nem nyújtható be újrafelvételi kérelem.
 
@@ -2991,7 +3011,7 @@ jár el, 45 nap,
 
 (15a) Bírósági felülvizsgálat iránti kérelem esetén nincs helye a végrehajtás felfüggesztésének, ha a határozat
 
-- a)
+- a) végső menedékes kijelölési eljárás során az engedélyes egyes engedélyesi jogait korlátozza, az engedélyét visszavonja vagy végső menedékest jelöl ki,
 - b) a kiegyenlítő energia meghatározásának módját és elszámolásának feltételeit hagyja jóvá,
 - c) a rendszerösszekötő vezetékhez való hozzáférés feltételeit, beleértve a kapacitásallokálás és a szűk keresztmetszetek kezelésére vonatkozó eljárások jóváhagyását, vagy
 - d) a magánvezeték üzemeltetésére átmenetileg elosztót jelöl ki,
@@ -3101,7 +3121,7 @@ jár el, 45 nap,
 - 35. a hálózathoz való hozzáférés korlátozásának, megtagadásának, szüneteltetésének, csökkentésének, az ilyen esetekben követendő eljárások, valamint a megújuló energiaforrásokból, hulladékból, illetve kapcsoltan termelt villamos energia ilyen esetekben történő előnyben részesítésének részletes szabályait,
 - 36. a főváros területén a lakossági fogyasztók arányában létesítendő ügyfélszolgálatok minimális számát, továbbá az ügyfélszolgálatok elhelyezésére és működtetésére vonatkozó részletes szabályokat,
 - 37. a közvilágításra vonatkozó részletes szabályokat, valamint a közvilágítási berendezéseknek az elosztó hálózat tartószerkezetein és létesítményeiben történő elhelyezésével, üzemeltetésével összefüggő kérdéseket rendező, az elosztó hálózati engedélyes és a közvilágításra kötelezett közötti szerződés minimális tartalmi és formai követelményeit,
-- 38. a végső menedékes kijelölésére, tevékenységére, jogaira és kötelezettségeire, valamint feladatai ellátására vonatkozó részletes szabályokat,
+- 38. a végső menedékes kijelölésére, tevékenységére, jogaira és kötelezettségeire, feladatai ellátására, valamint a korábbi egyetemes szolgáltató vagy villamosenergia-kereskedő működési engedélyében meghatározott jogai gyakorlása korlátozására, az engedély visszavonására, továbbá a fogyasztásmérő-berendezés leolvasására és az elszámolásra vonatkozó részletes szabályokat,
 - 39. a hálózati engedélyesek által készítendő megfelelési program és megfelelési jelentés részletes szabályait, valamint az átviteli rendszerirányítónál működő megfelelési ellenőr szakmai alkalmasságára vonatkozó feltételeket, jogköreire és feladataira vonatkozó részletes szabályokat,
 - 40. a szétválasztási szabályokra, valamint a számviteli szétválasztásra vonatkozó részletes szabályokat,
 - 41. a műszaki-biztonsági hatóságok kijelölését,
@@ -3112,7 +3132,7 @@ jár el, 45 nap,
 - 46. a kábelcsere kezdeményezésére, a kábelcsere-ütemezési terv elkészítésére és elkészítésének szempontjaira, a kábelcserét kezdeményezőnek és az elosztónak a kábelcserével összefüggő jogaira és kötelezettségeire, valamint a kábelcsere-ütemezési terv Hivatal általi jóváhagyására és felülvizsgálatára vonatkozó szabályokat,
 - 47. a zöld bizonyítványra és a kapcsolt bizonyítványra vonatkozó részletes szabályokat, továbbá a zöld bizonyítvány-rendszer és a kapcsolt bizonyítvány-rendszer bevezetésének időpontját,
 - 48. a villamosenergia-kereskedő által az átvételi kötelezettség alá eső villamos energia átvétele és megfizetése alóli mentesség céljából az egyetemes szolgáltatásra jogosult felhasználó részére biztosítandó szolgáltatásokat,
-- 49. az elektromos gépjármű töltésére vonatkozó engedélyre, a töltőállomás üzemeltető jogaira és kötelezettségeire, az elektromos gépjármű töltésére, valamint a töltőállomás-üzemeltető és a felhasználó közötti jogviszonyra vonatkozó szabályokat
+- 49. az elektromos gépjármű töltésére vonatkozó engedélyre, a töltőállomás üzemeltető jogaira és kötelezettségeire, az elektromos gépjármű töltésére, valamint a töltőállomás-üzemeltető és az elektromos gépjármű töltését igénybe vevő közötti jogviszonyra vonatkozó szabályokat
 
 rendeletben állapítsa meg.
 

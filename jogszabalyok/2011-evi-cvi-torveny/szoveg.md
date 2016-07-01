@@ -14,7 +14,7 @@ Az Országgyűlés az értékteremtő közfoglalkoztatás jogi kereteinek megter
 - d) a helyi vagy azon túlmutató közösségi – így különösen – egészségmegőrzési, szociális, nevelési, oktatási, kulturális, kulturális örökség megóvása, építészeti örökség védelmével összefüggő, természet-, környezet- és állatvédelemi, gyermek- és ifjúságvédelemi, a munkaviszonyban és a polgári jogi jogviszony keretében megbízás alapján folytatott sporttevékenység kivételével sport, közrend és közlekedésbiztonsági, ár- és belvízvédelemi célú, közforgalom számára megnyitott út, híd, alagút fejlesztéséhez, fenntartásához és üzemeltetéséhez kapcsolódó szükségletek kielégítését szolgáló feladat vagy
 - e) a Kormány által meghatározott közösségi célok megvalósítását elősegítő feladat
 
-ellátására vagy a feladatellátás feltételeinek megteremtésére irányul, és annak ellátására törvény nem ír elő közalkalmazotti, közszolgálati vagy kormányzati szolgálati jogviszonyt.
+ellátására vagy a feladatellátás feltételeinek megteremtésére irányul, és annak ellátására törvény nem ír elő közalkalmazotti, közszolgálati, kormányzati szolgálati, vagy állami szolgálati jogviszonyt.
 
 (2a) Közfoglalkoztatási jogviszony kormányrendeletben meghatározott feltételek mellett közhasznú kölcsönzés céljára is létesíthető.
 
@@ -155,7 +155,7 @@ vonatkozó szabályai nem alkalmazhatók,
 - d) az Mt. 55. § (1) bekezdés h) pontja nem alkalmazható,
 - e)
 - f) az Mt. 59–62. §-a nem alkalmazható,
-- g) az Mt. 64. § (1) bekezdését azokkal az eltérésekkel kell alkalmazni, hogy a közfoglalkoztató a közfoglalkoztatási jogviszony megszüntetését köteles bejelenteni a megyei foglalkoztatási szervnek, továbbá a közfoglalkoztató köteles a közfoglalkoztatási jogviszonyt azonnali hatályú felmondással megszüntetni, ha jogerős hatósági határozat a közfoglalkoztatottat a közfoglalkoztatásból kizárta, vagy az 1. § (4) bekezdés c) pontja szerinti személy elismerés iránti kérelmét jogerősen elutasították, kivéve, ha az idegenrendészeti hatóság határozata alapján az 1. § (4) bekezdés d) pontjának hatálya alá kerül.
+- g) az Mt. 64. § (1) bekezdését azokkal az eltérésekkel kell alkalmazni, hogy a közfoglalkoztató köteles a közfoglalkoztatási jogviszonyt azonnali hatályú felmondással megszüntetni, ha jogerős hatósági határozat a közfoglalkoztatottat a közfoglalkoztatásból kizárta, vagy az 1. § (4) bekezdés c) pontja szerinti személy elismerés iránti kérelmét jogerősen elutasították, kivéve, ha az idegenrendészeti hatóság határozata alapján az 1. § (4) bekezdés d) pontjának hatálya alá kerül.
 - h) az Mt. 70. §-a nem alkalmazható,
 - i) az Mt. 79. § (2) bekezdése nem alkalmazható,
 - j) az Mt. 81. §-a, 82. § (3) és (4) bekezdése, továbbá 83. §-a és 84. §-a nem alkalmazható,

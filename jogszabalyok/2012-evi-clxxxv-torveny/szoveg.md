@@ -37,7 +37,7 @@ Az Országgyűlés a környezet és az emberi egészség védelme, a környezett
 2. § (1) E törvény alkalmazásában
 
 - 1. anyagában történő hasznosítás: bármilyen hasznosítási művelet az energetikai hasznosítás kivételével;
-- 2. ártalmatlanítás: minden olyan kezelési művelet, amely nem hasznosítás; a művelet abban az esetben is ártalmatlanítás, ha az másodlagos jelleggel anyag- vagy energiakinyerést eredményez; az ártalmatlanítási műveletek nem kimerítő listáját a 2. melléklet tartalmazza;
+- 2. ártalmatlanítás: minden olyan kezelési művelet, amely nem hasznosítás; a művelet abban az esetben is ártalmatlanítás, ha az másodlagos jelleggel anyag- vagy energiakinyerést eredményez;
 - 3. biohulladék: a biológiailag lebomló, parkokból származó vagy kerti hulladék, háztartásokban, éttermekben, étkeztetőkben és kiskereskedelmi tevékenységet folytató létesítményekben képződő élelmiszer- és konyhai hulladék, valamint az ezekhez hasonló, élelmiszer-feldolgozó üzemekben képződő hulladék;
 - 4. biológiailag lebomló hulladék: minden szervesanyag-tartalmú hulladék, amely aerob vagy anaerob úton biológiailag lebomlik vagy lebontható, ideértve a biohulladékot is;
 - 5. elkülönített gyűjtés: olyan gyűjtés, amelynek során a hulladékáramot a hulladék fajtája és jellege – adott esetben típusa – szerint elkülönítik, lehetővé téve annak egyedi módon történő kezelését;
@@ -56,7 +56,7 @@ Az Országgyűlés a környezet és az emberi egészség védelme, a környezett
 - 17a. gyűjtő: olyan gazdálkodó szervezet, amely a hulladékot a hulladékbirtokostól, illetve hulladékgazdálkodási létesítményekből összegyűjti, átveszi;
 - 18. gyűjtőedény: szabványos mérettel rendelkező hulladékgyűjtő edényzet, hulladékgyűjtő zsák, valamint az elkülönített hulladékgyűjtés céljából üzemeltetett eszköz, berendezés;
 - 19. gyűjtőhely: az átvételi hely, a hulladékgyűjtő pont, a hulladékgyűjtő udvar, valamint a munkahelyi gyűjtőhely és az üzemi gyűjtőhely;
-- 20. hasznosítás: bármely kezelési művelet, amelynek fő eredménye az, hogy a hulladék hasznos célt szolgál annak révén, hogy olyan más anyagok helyébe lép, amelyeket egyébként valamely konkrét funkció betöltésére használtak volna, vagy amelynek eredményeként a hulladékot oly módon készítik elő, hogy ezt a funkciót akár az üzemben, akár a szélesebb körű gazdaságban betölthesse; a hasznosítási műveletek nem kimerítő listáját a 3. melléklet tartalmazza;
+- 20. hasznosítás: bármely kezelési művelet, amelynek fő eredménye az, hogy a hulladék hasznos célt szolgál annak révén, hogy olyan más anyagok helyébe lép, amelyeket egyébként valamely konkrét funkció betöltésére használtak volna, vagy amelynek eredményeként a hulladékot oly módon készítik elő, hogy ezt a funkciót akár az üzemben, akár a szélesebb körű gazdaságban betölthesse;
 - 21. háztartási hulladék: a háztartásokban képződő vegyes, elkülönítetten gyűjtött, valamint lomhulladék, ideértve a lakásokban, lakóingatlanokban, a pihenés, üdülés céljára használt helyiségekben, valamint a lakóházak közös használatú helyiségeiben és területein képződő hulladékot;
 - 22. háztartási hulladékhoz hasonló hulladék: az a vegyes, illetve elkülönítetten gyűjtött hulladék, amely a háztartásokon kívül képződik, és jellegében, összetételében a háztartási hulladékhoz hasonló;
 - 23. hulladék: bármely anyag vagy tárgy, amelytől birtokosa megválik, megválni szándékozik vagy megválni köteles;
@@ -85,7 +85,7 @@ Az Országgyűlés a környezet és az emberi egészség védelme, a környezett
   - b) a képződött hulladék környezetre és emberi egészségre gyakorolt káros hatásait, vagy
   - c) az anyagok és a termékek veszélyesanyag-tartalmát;
 - 41. szállítás: a hulladék telephelyen kívüli mozgatása;
-- 42. tárolás: a hulladéknak a gyűjtő, a kereskedő, illetve a hulladékkezelő telephelyén történő, valamint telephelyén kívüli átvételét, összegyűjtését, majd telephelyre történő szállítását követő ideiglenes elhelyezése a további hulladékgazdálkodási tevékenységek elvégzése érdekében, kivéve a hulladékkezelő létesítményben képződött hulladék ugyanazon hulladékkezelő létesítményben történő elhelyezését, valamint a 2. melléklet szerinti D12 ártalmatlanítási műveletet;
+- 42. tárolás: a hulladéknak a gyűjtő, a kereskedő, illetve a hulladékkezelő telephelyén történő, valamint telephelyén kívüli átvételét, összegyűjtését, majd telephelyre történő szállítását követő ideiglenes elhelyezése a további hulladékgazdálkodási tevékenységek elvégzése érdekében, kivéve a hulladékkezelő létesítményben képződött hulladék ugyanazon hulladékkezelő létesítményben történő elhelyezését, valamint a hulladékgazdálkodással kapcsolatos ártalmatlanítási és hasznosítási műveletek felsorolásáról szóló miniszteri rendelet szerinti D12 ártalmatlanítási műveletet;
 - 43. települési hulladék: a háztartási és a háztartási hulladékhoz hasonló szilárd hulladék;
 - 44. újrafeldolgozás: olyan hasznosítási művelet, amelynek során a hulladékot termékké vagy anyaggá alakítják annak eredeti használati céljára, akár más célokra; ez magában foglalja a szerves anyagok feldolgozását, de nem tartalmazza az energetikai hasznosítást és az olyan anyaggá történő feldolgozást, amelyet feltöltési műveletek során használnak fel;
 - 45. újrahasználat: olyan művelet, amelynek révén a hulladéknak nem minősülő terméket vagy alkatrészét újrahasználják arra a célra, amelyre eredetileg szolgált;
@@ -251,7 +251,8 @@ meghatározott hasznosítási és újrafeldolgozási célok alkalmazásában is 
 14. § (1) Hulladékot csak hulladékgazdálkodási engedély birtokában lehet szállítani, kivéve ha
 
 - a) a természetes személy ingatlanhasználó az elkülönítetten gyűjtött háztartási hulladékot hulladékgyűjtő pontra, hulladékgyűjtő udvarba, átvételi helyre vagy hulladékkezelő létesítménybe szállítja, valamint
-- b) a gyártó, a forgalmazó az átvételi kötelezettséggel érintett hulladékot hulladékkezelő létesítménybe szállítja.
+- b) a gyártó, a forgalmazó az átvételi kötelezettséggel érintett hulladékot hulladékkezelő létesítménybe szállítja,
+- c) a gazdálkodó szervezet nem üzletszerűen, alkalmilag, az elkülönítetten gyűjtött hulladékát saját járművével, másik telephelyén levő üzemi gyűjtőhelyre vagy átvételi helyre, hulladékgyűjtő pontra, hulladékgyűjtő udvarba, valamint hulladékkezelőhöz szállítja.
 
 (2) A hulladék szállítója felelős a hulladék rendeltetési helyére történő biztonságos eljuttatásáért.
 
@@ -408,7 +409,7 @@ kötheti.
 
 útján gondoskodik.
 
-(2a) Ha a hulladék kezeléséről a hulladékbirtokos a (2) bekezdés b)–h) pontja szerint gondoskodik, a kezelésre vonatkozó kötelezettség akkor tekinthető teljesítettnek, ha a hulladék a gyűjtő, a kereskedő, a hulladékkezelő vagy a közszolgáltató tulajdonába kerül.
+(2a) Ha a hulladék kezeléséről a hulladékbirtokos a (2) bekezdés b)–h) pontja szerint gondoskodik, a kezelésre vonatkozó kötelezettség akkor tekinthető teljesítettnek, ha a hulladék a gyűjtő, a kereskedő, a hulladékkezelő vagy a Koordináló szerv tulajdonába vagy a közszolgáltató tulajdonába, illetve birtokába kerül.
 
 (3) Jogszabályban meghatározott esetekben a hulladékká vált terméket a hulladékbirtokos az átvételre kötelezettnek adja át.
 
@@ -430,7 +431,7 @@ kötheti.
 
 - a) meghatározza a hulladékgazdálkodás országos céljait, melyek a 73. § (1) bekezdése szerinti e törvényben megállapított céloknak minősülnek,
 - b) meghatározza a hulladékgazdálkodás fejlesztésének irányait,
-- c) ellátja az önkormányzatok közötti és a regionális koordinációt,
+- c) ellátja az önkormányzatok közötti és a regionális koordinációt, amelynek keretében gondoskodik a közszolgáltatás során elkülönítetten gyűjtött és a vegyes hulladék kezelése során keletkezett hasznosítható hulladék hasznosításának megszervezéséről, továbbá koordinálja a hasznosításra nem kerülő hulladékok ártalmatlanítását,
 - d) elkészíti az Országos Hulladékgazdálkodási Közszolgáltatási Tervet, amely többek között meghatározza a közszolgáltatás ellátásának optimális területi lehatárolását és az adott területen minimálisan ellátandó közszolgáltatási feladatokat,
 - e) megállapítja, hogy a hulladékgazdálkodási közszolgáltatási rendszerelem fejlesztése megfelel-e az Országos Hulladékgazdálkodási Közszolgáltatási Tervnek,
 - f) megállapítja, hogy a közszolgáltató tevékenysége megfelel-e az Országos Hulladékgazdálkodási Közszolgáltatási Tervben foglaltaknak, és arról véleményt állít ki (a továbbiakban: megfelelőségi vélemény),
@@ -447,7 +448,7 @@ kötheti.
 - b) közszolgáltatási területek szerinti lehatárolására, és
 - c) szabályozására.
 
-(4) A helyi közszolgáltató, a települési önkormányzat, valamint a hulladékgazdálkodási létesítmény tulajdonosa megad minden adatot és információt, ami a Koordináló szerv feladatkörének gyakorlásához szükséges. A Koordináló szerv kezelheti és részére átadhatók az e bekezdésben és a 38. § (3) bekezdésében meghatározott adatok.
+(4) A helyi közszolgáltató, a települési önkormányzat, a hulladékgazdálkodási létesítmény tulajdonosa, a közszolgáltató részére támogatást nyújtó szerv, valamint a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) megad minden adatot és információt, ami a Koordináló szerv feladatkörének gyakorlásához szükséges. A Koordináló szerv kezelheti és részére átadhatók az e bekezdésben és a 38. § (3) bekezdésében meghatározott adatok.
 
 (5) A (4) bekezdésben meghatározott adatok közül a személyes adatokat a Koordináló szerv az állami hulladékgazdálkodási közfeladat ellátása érdekében kezelheti, nyilvántarthatja. A Koordináló szerv jogosult a számlázási, díjbeszedési, valamint a díjhátralék-kezelési feladatkörében a személyes adatok körére vonatkozó csoportos adatszolgáltatást kérni a járási hivatal illetékes szervétől. Az ennek alapján átvett személyes adatokat a Koordináló szerv az érintettnek a közszolgáltatás igénybevételére vonatkozó kötelezettsége megszűnéséig, a közszolgáltatással összefüggő díjhátralék esetén annak kifizetéséig (behajtásáig) vagy törléséig kezelheti.
 
@@ -484,7 +485,7 @@ kötheti.
 
 (8) A hulladékgazdálkodási közszolgáltatás teljesítése törvényben vagy kormányrendeletben meghatározott esetekben szüneteltethető vagy korlátozható, valamint az ingatlanhasználó kérésére önkormányzati rendeletben meghatározott esetekben szüneteltethető.
 
-(9) A lakosság tájékoztatása érdekében a hulladékgazdálkodási közszolgáltatási szerződést az Országos Környezetvédelmi Információs Rendszer publikus felületén közzé kell tenni. A települési önkormányzat a közszolgáltatási szerződés közzétételről a helyben szokásos módon gondoskodik.
+(9) A lakosság tájékoztatása érdekében a települési önkormányzat a közszolgáltatási szerződés közzétételről a helyben szokásos módon gondoskodik.
 
 35. § (1) A települési önkormányzat képviselő-testülete önkormányzati rendeletben állapítja meg:
 
@@ -567,7 +568,7 @@ kötheti.
 - d) az elhagyott, illetve ellenőrizetlen körülmények között elhelyezett hulladékot összegyűjti, elszállítja és gondoskodik a hulladék kezeléséről, ha erre a települési önkormányzattal megkötött hulladékgazdálkodási közszolgáltatási szerződése kiterjed,
 - e) gondoskodik az a)–d) pontban meghatározott hulladékgazdálkodási közszolgáltatás körébe tartozó hulladék kezeléséről,
 - f) a hulladékgazdálkodási közszolgáltatással érintett hulladékgazdálkodási létesítményt üzemelteti, és
-- g) – jogszabály eltérő rendelkezése hiányában – legalább negyedévente, utólag a hulladékgazdálkodási díj fizetésére kötelezett ingatlanhasználó vagy tőle a fizetési kötelezettséget jogszerűen átvállaló személy vagy önkormányzat részére számlát állít ki.
+- g) – jogszabály eltérő rendelkezése hiányában – a hulladékgazdálkodási közszolgáltatáson túli szolgáltatás ellenértékéről – a szolgáltatás teljesítéséhez igazodóan, de legalább negyedévente – a hulladékgazdálkodási díj fizetésére kötelezett ingatlanhasználó vagy tőle a fizetési kötelezettséget jogszerűen átvállaló személy vagy önkormányzat részére számlát állít ki.
 
 (2) Ha a közszolgáltató hulladékkezelő létesítménnyel, illetve a közszolgáltatás körébe tartozó hulladék kezelésére alkalmas berendezéssel nem rendelkezik, a közszolgáltatás körébe tartozó hulladék kezeléséről a hulladék hulladékkezelőnek történő átadása útján gondoskodik. Ebben az esetben a hulladékkezelőnek nem szükséges minősítési engedéllyel rendelkeznie.
 
@@ -575,9 +576,9 @@ kötheti.
 
 (5) Közszolgáltató hulladékgazdálkodási közszolgáltatáson kívül egyéb hulladékgazdálkodási engedélyhez, illetve nyilvántartásba vételhez kötött hulladékgazdálkodási tevékenységet – a közszolgáltató hulladékgazdálkodási tevékenységéről és a hulladékgazdálkodási közszolgáltatás végzésének feltételeiről szóló kormányrendeletben meghatározott hulladék kezelésének kivételével – nem végezhet.
 
-43. § (1) Ha a gyűjtőedényt a hulladékgazdálkodási közszolgáltatás ellátásának biztosítása céljából közterületen helyezték el, a hulladék a gyűjtőedényben történő elhelyezéssel a közszolgáltató tulajdonába kerül.
+43. § (1) Ha a gyűjtőedényt a hulladékgazdálkodási közszolgáltatás ellátásának biztosítása céljából közterületen helyezték el, a hulladék a gyűjtőedényben történő elhelyezéssel a Koordináló szerv tulajdonába és a közszolgáltató birtokába kerül.
 
-(2) A lomtalanítás során közterületre helyezett hulladék a közszolgáltató tulajdonát képezi.
+(2) A lomtalanítás során közterületre helyezett hulladék a Koordináló szerv tulajdonát képezi és egyben a közszolgáltató birtokába kerül.
 
 (3) Az elkülönített hulladékgyűjtési rendszert a közszolgáltató úgy alakítja ki, hogy
 
@@ -621,15 +622,15 @@ kötheti.
 
 (4) Az üdülőként nyilvántartott ingatlannal rendelkező tulajdonosok esetében az éves hulladékgazdálkodási közszolgáltatási díj 50%-át kell megállapítani.
 
-47/A. § (1) A hulladékgazdálkodási közszolgáltatási díjat a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) javaslatának figyelembevételével a miniszter rendeletben állapítja meg és a Koordináló szerv szedi be.
+47/A. § (1) A hulladékgazdálkodási közszolgáltatási díjat a Hivatal javaslatának figyelembevételével a miniszter rendeletben állapítja meg és a Koordináló szerv szedi be.
 
 (2) A Hivatal a díjmegállapítással, díjváltozással kapcsolatos javaslatát a 88. § (3) bekezdés b) pont be) alpontjában kapott felhatalmazás alapján megalkotott rendeletben foglaltak szerint küldi meg a miniszter részére.
 
 (3) A hulladékgazdálkodási közszolgáltatási díjat a miniszter a (2) bekezdés szerinti javaslat hiányában is megállapíthatja. Ebben az esetben a miniszter megkeresheti a Hivatalt, hogy 45 napon belül tegye meg javaslatát.
 
-(4) A közszolgáltató és a települési önkormányzat a Hivatalnak minden olyan tájékoztatást és adatot megad, amely a Hivatal hulladékgazdálkodási közszolgáltatási díjjal kapcsolatos díjelőkészítő és díjfelügyeleti tevékenységéhez szükséges. A közszolgáltató a Hivatal által megjelölt tartalommal, formában és határidőn belül eleget tesz tájékoztatási és adatszolgáltatási kötelezettségének. Ha a közszolgáltató e kötelezettségét nem vagy nem megfelelően teljesíti, a Hivatal bírságot szabhat ki.
+(4) A közszolgáltató, a Koordináló szerv, a települési önkormányzat és a települési önkormányzati társulás, a hulladékgazdálkodási létesítmény tulajdonosa (a továbbiakban együtt: Hivatal által kötelezett) a Hivatalnak minden olyan tájékoztatást és adatot megad, amely a Hivatal hulladékgazdálkodási közszolgáltatási díjjal kapcsolatos díjelőkészítő és díjfelügyeleti tevékenységéhez szükséges. A Hivatal által kötelezett a Hivatal által megjelölt tartalommal, formában és határidőn belül eleget tesz tájékoztatási és adatszolgáltatási kötelezettségének. Ha a Hivatal által kötelezett e kötelezettségét a Hivatal hiánypótlási felszólítása ellenére nem teljesíti, a Hivatal bírságot szabhat ki.
 
-(5) Ha a közszolgáltató a Hivatal által kiadott határozatban vagy az e törvény végrehajtására kiadott miniszteri rendeletben foglalt határidőn belül nem nyújt tájékoztatást vagy szolgáltat adatot, a Hivatal a tájékoztatás, adatszolgáltatás hiányában is javaslatot tehet a miniszter részére.
+(5) Ha a Hivatal által kötelezett a Hivatal által kiadott határozatban vagy az e törvény végrehajtására kiadott miniszteri rendeletben foglalt határidőn belül nem nyújt tájékoztatást vagy szolgáltat adatot, a Hivatal a tájékoztatás, adatszolgáltatás hiányában is javaslatot tehet a miniszter részére.
 
 (6) A miniszter rendeletben állapítja meg a beszedett közszolgáltatási díj felosztásának elvét. A miniszter a Koordináló szerv javaslatának figyelembevételével rendeletben állapítja meg a Koordináló szerv által fizetendő szolgáltatási díjat.
 
@@ -643,10 +644,10 @@ kötheti.
 
 48. § (1) A hulladékgazdálkodási közszolgáltatási díjra vonatkozó rendelkezések betartását a Hivatal ellenőrzi. E rendelkezések megsértése esetében a Hivatal határozattal
 
-- a) megtiltja a jogszabálysértő díj további alkalmazását, és kötelezi a közszolgáltatót a jogszerű ellenérték alkalmazására,
-- b) kötelezi a közszolgáltatót a rendelkezések megsértésével elért többletbevétel jegybanki alapkamat tárgyévi éves átlagával növelt összegének
+- a) megtiltja a jogszabálysértő díj további alkalmazását, és kötelezi a Koordináló szervet, illetve a közszolgáltatót a jogszerű ellenérték alkalmazására,
+- b) kötelezi a Koordináló szervet, illetve a közszolgáltatót a rendelkezések megsértésével elért többletbevétel jegybanki alapkamat tárgyévi éves átlagával növelt összegének
   - ba) a sérelmet szenvedett fél részére történő visszatérítésére, vagy
-  - bb) az általa nyújtott hulladékgazdálkodási közszolgáltatással érintett valamennyi ingatlanhasználó részére történő visszatérítésére, ha a sérelmet szenvedett fél személye nem állapítható meg, valamint
+  - bb) a közszolgáltató által nyújtott, a hulladékgazdálkodási közszolgáltatással érintett valamennyi ingatlanhasználó részére történő visszatérítésére, ha a sérelmet szenvedett fél személye nem állapítható meg,
 - c) bírságot szabhat ki.
 
 (2) A Hivatal eljárására a villamos energiáról szóló törvényben meghatározott – a Hivatal eljárására vonatkozó – általános szabályokat az e törvényben foglalt eltérésekkel kell alkalmazni.
@@ -723,7 +724,7 @@ az ügyfélszolgálatán és a honlapján mindenki számára ingyenesen hozzáf�
 
 (2) A hulladék akkor is veszélyes hulladéknak minősül, ha az nem veszélyes hulladékként szerepel a hulladékjegyzékben, de a környezetvédelmi hatóság megállapítja, hogy rendelkezik az 1. mellékletben meghatározott veszélyességi jellemzők valamelyikével. Az ilyen ismeretlen összetételű és a hulladékjegyzékben közelebbről meg nem határozott típusú hulladékot a környezetvédelmi hatóság döntéséig veszélyes hulladéknak kell tekinteni.
 
-(3) A hulladék nem minősül veszélyes hulladéknak, ha a hulladékjegyzékben veszélyes és nem veszélyes hulladékként egyaránt szerepel, de megállapításra került, hogy nem rendelkezik az 1. mellékletben meghatározott veszélyességi jellemzők egyikével sem.
+(3) A hulladék nem minősül veszélyes hulladéknak, ha a hulladékjegyzékben veszélyes hulladékként szerepel, de a környezetvédelmi hatóság megállapítja, hogy nem rendelkezik az 1. mellékletben meghatározott veszélyességi jellemzők egyikével sem.
 
 56. § (1) Veszélyes hulladékot hulladékgazdálkodási engedély nélkül más hulladékkal, illetve anyaggal összekeverni vagy hígítani nem lehet.
 
@@ -793,7 +794,7 @@ az ügyfélszolgálatán és a honlapján mindenki számára ingyenesen hozzáf�
 
 (3) A hulladékgazdálkodási engedély, valamint a nyilvántartásba vétel iránti kérelmet a környezetvédelmi hatóságnál kell előterjeszteni a hulladékgazdálkodási tevékenységek nyilvántartásba vételéről, valamint hatósági engedélyezéséről szóló kormányrendeletben meghatározott tartalommal.
 
-#### 27. A hulladék besorolása, tájékoztató
+#### 27. A hulladék besorolása, a melléktermék megfelelőségének igazolása
 
 63. § (1) A hulladék termelője, vagy – ha az nem állapítható meg – a hulladék birtokosa a hulladékot típus és jelleg szerint a hulladékjegyzékről szóló miniszteri rendeletben meghatározottak szerint besorolja.
 
@@ -803,7 +804,9 @@ az ügyfélszolgálatán és a honlapján mindenki számára ingyenesen hozzáf�
 
 (4) A hulladékjegyzékben felsorolt anyag vagy tárgy akkor minősül hulladéknak, ha megfelel a 2. § (1) bekezdésének 23. pontjában foglaltaknak.
 
-64. § Ha valamely gazdálkodó szervezet mellékterméket állít elő, vagy tevékenysége során melléktermék képződik, és azt melléktermékként tárolja, használja fel vagy forgalmazza, a melléktermék 8. § szerinti feltételeknek való megfeleléséről a környezetvédelmi hatóságot kormányrendeletben meghatározott módon tájékoztatja.
+64. § (1) Ha valamely gazdálkodó szervezet mellékterméket állít elő vagy tevékenysége során melléktermék képződik, és azt melléktermékként tárolja, használja fel vagy forgalmazza, akkor – a (2) bekezdésben foglalt kivétellel – a 8. § szerinti melléktermékre vonatkozó feltételeknek való megfelelésről a környezetvédelmi hatóságnak nyilatkozik. A környezetvédelmi hatóság a megfelelés tényét igazolja.
+
+(2) Nem kell nyilatkozni a környezetvédelmi hatóságnak a 8. § szerinti melléktermékre vonatkozó feltételeknek való megfelelésről olyan, kormányrendeletben meghatározott melléktermék esetén, amelynek megfelelőségét a 82. § (4) bekezdése szerinti hatóság ellenőrzi, és a melléktermék felhasználási módja miatt a 8. § szerinti környezetvédelmi feltételek teljesülnek.
 
 #### 28. Nyilvántartás vezetése és adatszolgáltatás
 
@@ -1077,7 +1080,7 @@ részére adhatók át.
 
 (3) Ha hulladékgazdálkodással kapcsolatos környezetvédelmi, közegészségügyi veszélyhelyzet, súlyos kötelezettségszegés vagy ennek lehetősége szükségessé teszi, a környezetvédelmi hatóság haladéktalanul és előzetes bejelentés nélkül helyszíni ellenőrzést is tart.
 
-(4) A melléktermékként előállított, felhasznált vagy forgalmazott, illetve tárolt anyag vagy tárgy 8. §-ban meghatározott feltételeknek való megfelelését a termék megfelelőségének és biztonságának ellenőrzéséért felelős hatóság, illetve piacának felügyeletéért felelős hatóság ellenőrzi.
+(4) A melléktermékként előállított, felhasznált vagy forgalmazott, illetve tárolt anyag vagy tárgy 8. §-ban meghatározott feltételeknek való megfelelését a környezetvédelmi hatóság, továbbá a termék megfelelőségének és biztonságának ellenőrzéséért felelős hatóság, illetve piacának felügyeletéért felelős hatóság ellenőrzi.
 
 (5) A (4) bekezdésben meghatározott hatóság tájékoztatja a gyártó telephelye szerint illetékes környezetvédelmi hatóságot, ha megállapítja, hogy a melléktermékként előállított, felhasznált vagy forgalmazott, illetve tárolt anyag vagy tárgy nem felel meg a 8. § szerinti feltételeknek.
 
@@ -1155,7 +1158,7 @@ azt a környezetvédelmi hatóság a hulladékgazdálkodási bírsággal kapcsol
 
 (3) Ha a jogsértés a tevékenység vagy mulasztás súlyára, az elkövetés vagy kötelezettségszegés következményeire tekintettel annyira csekély, hogy bírság alkalmazása szükségtelen, a bírság kiszabása mellőzhető.
 
-(4) Ha a hulladékgazdálkodási bírság megfizetésére kötelezett a kiszabott bírságot megállapító határozat kiadásáig az eredeti állapotot helyreállítja, illetve a jogellenes állapotot megszünteti, a környezetvédelmi hatóság – az (5) bekezdésben meghatározott kivétellel – a bírságot kérelemre csökkentheti, ha a bírság célja csökkentett összeggel is elérhető.
+(4) Ha a hulladékgazdálkodási bírság megfizetésére kötelezett a kiszabott bírság megfizetésére előírt határidő lejárta előtt az eredeti állapotot helyreállítja, illetve a jogellenes állapotot megszünteti, a környezetvédelmi hatóság – az (5) bekezdésben meghatározott kivétellel – a bírságot kérelemre csökkentheti, ha a bírság célja csökkentett összeggel is elérhető.
 
 (5) A hulladékgazdálkodási bírság
 
@@ -1192,7 +1195,7 @@ jogsértés esetén nem mérsékelhető.
 
 - 1. a közszolgáltató hulladékgazdálkodási tevékenységét, a hulladékgazdálkodási közszolgáltatás körébe tartozó hulladékkal kapcsolatos tevékenységek végzésének feltételeit;
 - 2. a termelési hulladék, valamint az elkülönítetten gyűjtött háztartási hulladékhoz hasonló hulladék képződésének megelőzésével, és a termelési hulladék, valamint az elkülönítetten gyűjtött háztartási hulladékhoz hasonló hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
-- 3. a veszélyes hulladék képződésének megelőzésével kapcsolatos tevékenységek és a veszélyes hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek végzésének feltételeit, valamint a Hulladékminősítő Bizottságra vonatkozó részletes szabályokat;
+- 3. a veszélyes hulladék képződésének megelőzésével kapcsolatos tevékenységek és a veszélyes hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek végzésének feltételeit;
 - 4. a hulladékgazdálkodási tevékenységek nyilvántartásba vételével, engedélyezésével kapcsolatos előírásokat, valamint az engedélyek és a nyilvántartás tartalmi követelményeit;
 - 5. a hulladékkal kapcsolatos nyilvántartási és adatszolgáltatási kötelezettségeket;
 - 6. a hulladékgazdálkodási tervek és a megelőzési programok előkészítésének részletes szabályait, részletes tartalmi követelményeit, területi hatályát;
@@ -1204,7 +1207,7 @@ jogsértés esetén nem mérsékelhető.
 - 12. az elektromos és elektronikus berendezés hulladékká válását megelőző tevékenységek és a hulladékká vált elektromos és elektronikus berendezéssel kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait, valamint az elektromos és elektronikus berendezések vissza- és átvételi díját;
 - 13. az elem és akkumulátor hulladékká válását megelőző tevékenységek, valamint a hulladékká vált elemmel és akkumulátorral kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
 - 14. a gépjárművek hulladékká válását megelőző tevékenységek, valamint a hulladékká vált gépjárművekkel kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
-- 15. az építési-bontási hulladék képződésének megelőzésével kapcsolatos tevékenységek, valamint az építési-bontási hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
+- 15. az építési-bontási hulladék képződésének megelőzésével kapcsolatos tevékenységek, az építési-bontási törmelék újrahasználatának, valamint az építési-bontási hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
 - 16. a szennyvíziszapok és a szennyvíziszapkomposzt mezőgazdasági felhasználásának és a szennyvíziszapokkal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
 - 17. a hulladékgazdálkodási közszolgáltatási díj megállapításának részletes szabályait, valamint a hulladékgazdálkodási közszolgáltatási díj szerkezetét;
 - 18. a közszolgáltató kiválasztásának módját és a hulladékgazdálkodási közszolgáltatási szerződés tartalmi követelményeit;
@@ -1229,14 +1232,14 @@ jogsértés esetén nem mérsékelhető.
 (2) Felhatalmazást kap a környezetvédelemért felelős miniszter, hogy rendeletben állapítsa meg:
 
 - 1. a veszélyes és nem veszélyes hulladéktípusokat tartalmazó hulladékjegyzéket, és a hulladék veszélyességét eredményező tulajdonságok megállapítására vonatkozó részletes szabályokat;
-- 2.
+- 2. a hulladékstátusz megszűnésének megállapítására vonatkozó részletes műszaki feltételeket;
 - 3. a hulladéklerakás technikai követelményeit, a betelt lerakók lezárásának és utógondozásának technikai feltételeit, valamint részletes szabályait;
 - 4. a hulladék termikus kezelésének technikai követelményeit és részletes szabályait;
 - 5. a hulladékolajjal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
 - 6. a poliklórozott bifenilek (PCB) és poliklórozott terfenilek (PCT), valamint az azokat tartalmazó berendezések kezelésének részletes szabályait;
 - 7. a titán-dioxid-ipar hulladékai kezelésének részletes szabályait;
 - 8. a hulladékgazdálkodással kapcsolatos egységes információs rendszer kialakításának részletes szabályait;
-- 9.
+- 9. a hasznosítási műveleteket és az energetikai hasznosítás feltételeként meghatározott energiahatékonysági mutató megállapítására vonatkozó szabályokat, valamint az ártalmatlanítási műveleteket;
 - 10. a hulladékgazdálkodási engedélyre és a nyilvántartásba vételre vonatkozó felügyeleti díjjal kapcsolatos részletes szabályokat.
 
 (3) Felhatalmazást kap:
@@ -1399,6 +1402,7 @@ esetében, ha a szolgáltatás után a fenntartó a központi költségvetésrő
 - d) a környezeti károk megelőzése és helyreállítása tekintetében a környezeti felelősségről szóló, 2004. április 21-i 2004/35/EK európai parlamenti és tanácsi irányelvnek;
 - e) a 2008/98/EK európai parlamenti és tanácsi irányelvnek;
 - f) a 2008/98/EK európai parlamenti és tanácsi irányelv 11. cikkének (2) bekezdésében rögzített célok teljesítésének igazolására szolgáló szabályok és számítási módszerek megállapításáról szóló, 2011. november 18-i bizottsági határozatnak
+- g) a hulladékokról és egyes irányelvek hatályon kívül helyezéséről szóló 2008/98/EK európai parlamenti és tanácsi irányelv II. mellékletének módosításáról szóló, 2015. július 10-i 2015/1127/EU bizottsági irányelvnek
 
 való megfelelést szolgálja.
 
@@ -1703,85 +1707,7 @@ Az alkalmazandó módszerek megtalálhatók a vegyi anyagok regisztrálásáról
 
 ### 2. melléklet a 2012. évi CLXXXV. törvényhez
 
-#### Ártalmatlanítási műveletek
-
-D1 Lerakás a talaj felszínére vagy a talajba (például hulladéklerakás);
-
-D2 Talajban történő kezelés (például folyadékok, iszapok talajban történő biológiai lebontása);
-
-D3 Mélyinjektálás (például szivattyúzható anyagok kutakba, sódómokba vagy természetes üregekbe juttatása);
-
-D4 Felszíni feltöltés (például folyadékok, iszapok elhelyezése árkokban, mélyedésekben, tározó- vagy ülepítőtavakban);
-
-D5 Lerakás műszaki védelemmel (például elhelyezés fedett, szigetelt, a környezettől és egymástól is elkülönített cellákban);
-
-D6 Bevezetés víztestbe, kivéve a tengereket és óceánokat;
-
-D7 Bevezetés tengerbe vagy óceánba, beleértve a tengerfenéken történő elhelyezést is;
-
-D8 E mellékletben máshol nem meghatározott biológiai kezelés, amelynek eredményeként létrejövő vegyületeket, keverékeket a D1–D12 műveletek valamelyikével kezelnek;
-
-D9 E mellékletben máshol nem meghatározott fizikokémiai kezelés, amelynek eredményeként létrejövő vegyületeket, keverékeket a D1–D12 műveletek valamelyikével kezelnek (például elpárologtatás, szárítás, kiégetés);
-
-D10 Hulladékégetés szárazföldön;
-
-D11 Hulladékégetés tengeren (európai uniós jogi aktusok és nemzetközi egyezmények alapján tiltott művelet);
-
-D12 Tartós tárolás (például tartályokban történő elhelyezés mélyművelésű bányában);
-
-D13 Keverés vagy elegyítés a D1–D12 műveletek valamelyikének elvégzése érdekében (D-kód hiányában ez a művelet magában foglalhatja az ártalmatlanítást megelőző előkészítő műveleteket, mint például a D1–D12 műveleteket megelőzően végzett válogatás, aprítás, tömörítés, pelletkészítés, szárítás, zúzás, kondicionálás vagy elkülönítés);
-
-D14 Átcsomagolás a D1–D13 műveletek valamelyikének elvégzése érdekében;
-
-D15 Tárolás a D1–D14 műveletek valamelyikének elvégzése érdekében (a képződés helyén az elszállításig történő átmeneti tárolás kivételével, ahol az átmeneti tárolás a 2. § (1) bekezdésének 17. pontja szerinti előzetes tárolást jelenti).
-
 ### 3. melléklet a 2012. évi CLXXXV. törvényhez
-
-Hasznosítási műveletek
-
-R1 Elsődlegesen tüzelő- vagy üzemanyagként történő felhasználás vagy más módon energia előállítása;
-
-R2 Oldószerek visszanyerése, regenerálása;
-
-R3 Oldószerként nem használatos szerves anyagok visszanyerése, újrafeldolgozása (ideértve a komposztálást, más biológiai átalakítási műveleteket, továbbá a gázosítást és a pirolízist is, ha az összetevőket az utóbbiaknál vegyi anyagként használják fel);
-
-R4 Fémek és fémvegyületek visszanyerése, újrafeldolgozása;
-
-R5 Egyéb szervetlen anyagok visszanyerése, újrafeldolgozása (ideértve a talaj hasznosítását eredményező talajtisztítást és a szervetlen építőanyagok újrafeldolgozását);
-
-R6 Savak vagy lúgok regenerálása;
-
-R7 Szennyezéscsökkentésre használt anyagok összetevőinek visszanyerése;
-
-R8 Katalizátorok összetevőinek visszanyerése;
-
-R9 Olajok újrafinomítása vagy más célra történő újrahasználata;
-
-R10 Talajban történő hasznosítás, amely mezőgazdasági vagy ökológiai szempontból előnyös;
-
-R11 Az R1–R10 műveletek valamelyikéből származó hulladék hasznosítása;
-
-R12 Átalakítás az R1–R11 műveletek valamelyikének elvégzése érdekében (R-kód hiányában ez a művelet magában foglalhatja a hasznosítást megelőző előkészítő műveleteket, mint például az R1–R11 műveleteket megelőzően végzett válogatás, aprítás, tömörítés, pellet-készítés, szárítás, zúzás, kondicionálás vagy elkülönítés);
-
-R13 Tárolás az R1–R12 műveletek valamelyikének elvégzése érdekében (a képződés helyén az elszállításig történő átmeneti tárolás kivételével, ahol az átmeneti tárolás a 2. § (1) bekezdésének 17. pontja szerinti előzetes tárolást jelenti).
-
-A települési hulladékot feldolgozó égetőmű tevékenysége csak abban az esetben minősül R1 szerinti hasznosítási műveletnek, ha energiahatékonysága megegyezik vagy meghaladja
-
-a) a 0,60-ot a működő és 2009. január 1-je előtt engedélyezett létesítmények esetében,
-
-b) a 0,65-ot a 2008. december 31. után engedélyezett létesítmények esetében, a következő képlet használatával:
-
-Energiahatékonyság = (Ep – (Ef + Ei))/(0.97 × (Ew + Ef)) ahol:
-
-Ep: éves hőenergia- vagy elektromosenergia-termelés. Kiszámítása: az energia elektromos áram formájában szorozva 2,6-el és a kereskedelmi használatra előállított hőenergia szorozva 1,1-el (GJ/év)
-
-Ef: a rendszer éves energiainputja a gőz termeléséhez hozzájáruló tüzelőanyagokból (GJ/év)
-
-Ew: a kezelt hulladék energiatartalma éves szinten a hulladék nettófűtőértékével számítva (GJ/év)
-
-Ei: éves bevitt energia az Ew és az Ef kivételével (GJ/év)
-
-0,97: a fenékhamu és a sugárzás miatt bekövetkező energiaveszteség-faktor.
 
 ### 4. melléklet a 2012. évi CLXXXV. törvényhez
 

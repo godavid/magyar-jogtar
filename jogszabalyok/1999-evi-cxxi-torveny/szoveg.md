@@ -411,7 +411,7 @@ Az állam gazdasági szerepvállalásának csökkentéséhez szükség van a gaz
 
 - a) az (5) bekezdés alapján nem választható küldöttnek;
 - b) Magyarországon nem rendelkezik lakóhellyel vagy tartózkodási hellyel; továbbá
-- c) közszolgálati jogviszonyban áll;
+- c) kormányzati szolgálati, közszolgálati, vagy állami szolgálati jogviszonyban áll.
 - d)
 
 ### Törvényességi felügyelet

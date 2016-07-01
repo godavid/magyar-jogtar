@@ -53,7 +53,7 @@ az ügyvédekről
 
 6. § (1) Az ügyvéd
 
-- a) nem állhat munkaviszonyban, szolgálati viszonyban, munkavégzési kötelezettséggel járó más jogviszonyban; nem lehet közalkalmazott, köztisztviselő, közjegyző és főállású polgármester,
+- a) nem állhat munkaviszonyban, szolgálati viszonyban, munkavégzési kötelezettséggel járó más jogviszonyban; nem lehet közalkalmazott, köztisztviselő, kormánytisztviselő, állami tisztviselő, közjegyző és főállású polgármester,
 - b) nem végezhet személyes közreműködéssel vagy korlátlan anyagi felelősséggel járó vállalkozói tevékenységet.
 
 (2) Nem esik az (1) bekezdés tilalma alá
@@ -259,7 +259,7 @@ az ügyvédekről
 
 18. § (1) Az országgyűlési képviselői, nemzetiségi szószólói vagy polgármesteri megbízatás időtartama alatt az ügyvédi tevékenységet szüneteltetni kell. A kamara engedélyezése nem szükséges az országgyűlési képviselői, a nemzetiségi szószólói vagy a polgármesteri megbízatás miatti szüneteltetéshez. Ez esetben a szüneteltetés időtartama a megbízatás lejártáig tart. Az ügyvéd az ilyen szüneteltetést köteles a kamarának bejelenteni.
 
-(2) Az ügyvédi tevékenység szüneteltetésének időtartama alatt létesített munkaviszony, közalkalmazotti vagy köztisztviselői jogviszony nem ütközik a 6. § (1) bekezdésének a) pontjába.
+(2) Az ügyvédi tevékenység szüneteltetésének időtartama alatt létesített munkaviszony, közalkalmazotti, kormányzati szolgálati, közszolgálati, vagy állami szolgálati jogviszony nem ütközik a 6. § (1) bekezdés a) pontjába.
 
 (3) A szüneteltetés alatt az ügyvéd nem gyakorolhatja a kamarai tagságból eredő jogokat, és – a szüneteltetés alatt fizetendő tagdíj, valamint a Magyar Ügyvédek Biztosító és Segélyező Egyesületének járó tagdíj fizetése kivételével – nem terhelik az abból fakadó kötelezettségek.
 
@@ -718,7 +718,7 @@ megismerheti.
 
 (5) Ha az első fokú fegyelmi határozat kizárást alkalmazott, és annak végrehajtását nem függesztette fel, a határozatban az ügyvéd tevékenységét a fegyelmi eljárás jogerős befejezéséig fel kell függeszteni. E rendelkezés ellen külön fellebbezésnek van helye, amelynek nincs halasztó hatálya.
 
-(6) Az ügyvédi tevékenység felfüggesztésének időtartama alatt létesített munkaviszony, közalkalmazotti vagy köztisztviselői jogviszony nem ütközik a 6. § (1) bekezdésének a) pontjába.
+(6) Az ügyvédi tevékenység felfüggesztésének időtartama alatt létesített munkaviszony, közalkalmazotti, kormányzati szolgálati, közszolgálati, vagy állami szolgálati jogviszony nem ütközik a 6. § (1) bekezdésének a) pontjába.
 
 (7) A felfüggesztésre a szüneteltetés jogkövetkezményeit kell alkalmazni.
 

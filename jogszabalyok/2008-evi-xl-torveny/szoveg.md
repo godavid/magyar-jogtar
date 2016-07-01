@@ -187,7 +187,7 @@ Az Országgyűlés a hatékonyan működő földgáz-versenypiac kialakítása, 
 
 végzi.
 
-8. § (1) A szállítási rendszerüzemeltető kereskedési platform hiányában a kereskedelmi egyensúly fenntartása érdekében újranominálási lehetőséget biztosít a rendszerhasználók részére a betáplálási-kiadási vagy összekapcsolási ponton.
+8. § (1) A szállítási rendszerüzemeltető a 312/2014/EU bizottsági rendeletben előírtak szerint újranominálási lehetőséget biztosít a rendszerhasználók részére a betáplálási-kiadási vagy összekapcsolási ponton.
 
 (2) A szállítási rendszerüzemeltető köteles biztosítani a rendszerhasználók számára a szállítóvezetéki betáplálási-kiadási pontok szabad kapacitásának lekötését a kapacitáslekötési platformon az Üzemi és Kereskedelmi Szabályzat, valamint a kapacitáslekötési platform szabályzata szerint.
 
@@ -240,20 +240,22 @@ végzi.
 
 (4) A földgázelosztónak rendelkeznie kell az Üzemi és Kereskedelmi Szabályzatban meghatározottak szerint kialakított, a rendszerüzemeltetők informatikai rendszereivel és a központi adatgyűjtő és feldolgozó rendszerrel történő adatcserére alkalmas, a vertikálisan integrált vállalkozástól és annak leányvállalataitól független olyan adatforgalmi és informatikai rendszerrel, amely biztosítja a szállítási rendszerüzemeltető részére a napi gázforgalmazás megbízható helyzetére vonatkozó adatszolgáltatást, valamint a rendszerhasználók felé az Üzemi és Kereskedelmi Szabályzatban meghatározott adatokat és adatcserét. Az informatikai rendszernek alkalmasnak kell lennie a szigetüzemhez vagy részleges szigetüzemhez csatlakozó termelésből eredő földgázmennyiség napi forgalmazásával kapcsolatos nominálások, allokálások kezelésére is.
 
-15. § A földgázelosztó az együttműködő földgázrendszer fejlesztésének és üzemeltetésének biztosítása érdekében köteles a csatlakozó rendszerüzemeltetőkkel, a telephelyi szolgáltatókkal, a központi adatgyűjtő és feldolgozó rendszert működtető engedélyessel és a rendszerhasználókkal folyamatosan együttműködni.
+15. § (1) A földgázelosztó az együttműködő földgázrendszer fejlesztésének és üzemeltetésének biztosítása érdekében köteles a csatlakozó rendszerüzemeltetőkkel, a telephelyi szolgáltatókkal, a központi adatgyűjtő és feldolgozó rendszert működtető engedélyessel és a rendszerhasználókkal folyamatosan együttműködni.
+
+(2) A földgázelosztó rendszeregyensúlyozási tevékenységének végzéséhez és a korrekciós elszámoláshoz szükséges, valamint a saját felhasználás céljából beszerzett földgáz adásvétele nem minősül az e törvény szerinti földgáz-kereskedelemnek.
 
 16. § (1) A földgázelosztó a felhasználó bekapcsolását, a földgázelosztási szolgáltatás megkezdését megtagadhatja, vagy a földgázelosztási szolgáltatás folytatását felfüggesztheti, ha:
 
 - a) a felhasználó a csatlakozóvezetéket, a felhasználói berendezést az életre, a testi épségre, az egészségre vagy a vagyonbiztonságra veszélyes módon használja,
 - b) a felhasználó a nyomás alatti szállító- és elosztóvezetéket vagy a csatlakozóvezetéket megbontja, továbbá, amennyiben a felhasználó vagy a megbízásából eljáró, gázszerelőnek nem minősülő személy a fogyasztói vezetéket megbontja,
-- c) a felhasználó a csatlakozási szerződésben megállapított lényeges kötelezettségének a földgázelosztó írásbeli felszólítása ellenére nem tett eleget, különösen, ha
+- c) a felhasználó a csatlakozási vagy elosztóhálózat-használati szerződésben megállapított lényeges kötelezettségének a földgázelosztó írásbeli felszólítása ellenére nem tett eleget, különösen, ha
   - ca) a nyomásszabályozó vagy a fogyasztásmérő berendezés működését befolyásolja,
   - cb) a nyomásszabályozó vagy a fogyasztásmérő berendezés ellenőrzését, illetve a fogyasztásmérő berendezés leolvasását a földgázelosztó vagy megbízottja részére nem teszi lehetővé,
   - cc) a szerződésben meghatározott felhasználási helyen kívüli területre vezet át földgázt,
   - cd) a fogyasztáskorlátozási –, illetve megszakítható kapacitásra szerződött felhasználó esetén a megszakítási – rendelkezéseknek nem tett eleget,
 - d) a felhasználót ellátó földgázkereskedő a földgázelosztónál – a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló jogszabályban meghatározott esetekben, a földgázelosztó üzletszabályzatban meghatározott módon – kezdeményezi a földgázelosztás felfüggesztését,
 - e) a felhasználó a fogyasztásmérő berendezést szándékosan vagy gondatlanul megrongálja, a fogyasztásmérő berendezésen, vagy annak ki- és belépő pontján, a kerülővezeték elzáróján, vagy a csatlakozóvezeték egyéb pontjain elhelyezett zárópecsétet (plombát) eltávolítja, illetve ezek sérülését, hiányát a földgázelosztónak vagy a földgázkereskedőnek nem jelenti be,
-- f) a felhasználó nem rendelkezik hatályos földgáz-kereskedelmi szerződéssel,
+- f) a felhasználó nem rendelkezik érvényes elosztóhálózat-használati és kapacitáslekötési szerződéssel, valamint érvényes földgáz-kereskedelmi szerződéssel,
 - g) a felhasználót ellátó rendszerhasználó vagy a saját jogon eljáró felhasználó nem rendelkezik hatályos szállítói vagy elosztói rendszerhasználati szerződéssel, vagy
 - h) a szállítási rendszerüzemeltető felfüggesztette a szállítói rendszerhasználati szerződések teljesítését a felhasználó vagy a felhasználót ellátó rendszerhasználó vonatkozásában.
 
@@ -547,7 +549,7 @@ a tűrésére és együttműködésre vonatkozó kötelezettséget állapíthat 
 
 (4) Az egyetemes szolgáltatási szerződés felek általi megszegésére vonatkozó jogkövetkezmények mértékével és alkalmazásukkal kapcsolatos rendelkezéseket a Hivatal elnöke rendeletben határozza meg.
 
-39. § Az egyetemes szolgáltatás megkezdésének és a tevékenység folytatásának feltétele, hogy az engedélyes legalább a következő 3 gázévre rendelkezzen a szolgáltatási területén lévő – általa ellátott – egyetemes szolgáltatásra jogosult felhasználók ellátás biztonsági szintje figyelembevételével megállapított adott gázévi gázfogyasztásnak megfelelő, a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározott mértékű, kereskedelmi szerződésben lekötött földgázforrással vagy forrásopcióval, földgáztárolói földgázkészlettel. Az egyetemes szolgáltatók kötelesek a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározott feltételek szerint a Hivatal felé igazolni a források rendelkezésre állását.
+39. § Az egyetemes szolgáltatás megkezdésének és a tevékenység folytatásának feltétele, hogy az engedélyes rendelkezzen vagy a 141/A. § vagy 141/J. § szerinti forrásszerződéssel vagy legalább a következő 3 gázévre a szolgáltatási területén lévő – általa ellátott – egyetemes szolgáltatásra jogosult felhasználók ellátás biztonsági szintje figyelembevételével megállapított adott gázévi gázfogyasztásnak megfelelő, a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározott mértékű, kereskedelmi szerződésben lekötött földgázforrással vagy forrásopcióval, földgáztárolói földgázkészlettel. Az egyetemes szolgáltatók kötelesek a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározott feltételek szerint a Hivatal felé igazolni a források rendelkezésre állását.
 
 40. § Az egyetemes szolgáltatást nyújtani szándékozó részére a földgázelosztó az engedélykérelem benyújtását megelőzően és kizárólag ebből a célból, a 39. §-ban előírtak teljesítéséhez köteles a gázforgalomról adatot, információt biztosítani.
 
@@ -687,7 +689,7 @@ a tűrésére és együttműködésre vonatkozó kötelezettséget állapíthat 
 
 59. § (1) Az 55. § (1) bekezdés a) pontja szerinti piacon jelentős piaci erővel rendelkező engedélyes számára a Hivatal átlátható értékesítési kötelezettséget írhat elő. Az értékesítésre kerülő földgáz mennyiségét és az értékesítés feltételeit a Hivatal hagyja jóvá.
 
-(2) A Hivatal az 55. § (1) bekezdés b) pontja szerinti piacon jelentős piaci erővel rendelkező engedélyesnek előírja az átláthatóság biztosítása érdekében a határozatában foglaltaknak megfelelő bontású és részletezettségű – így különösen a szolgáltatási árat, a fizetési formákat, valamint a szolgáltató-váltáshoz kapcsolódó ügyintézési kötelezettségeket tartalmazó – mintaajánlat készítését. A mintaajánlat készítésére köteles engedélyes a jogszabályban meghatározott, illetőleg a piacelemzést követően a Hivatal által meghatározott feltételekkel közzétett mintaajánlatához annak hatálya alatt kötve van, attól a másik szerződő fél beleegyezésével sem térhet el.
+(2) A Hivatal az 55. § (1) bekezdés b) pontja szerinti piacon jelentős piaci erővel rendelkező engedélyesnek a lefolytatott piacelemzés eredménye alapján, az adott piacon a kellően hatékony verseny kialakulásának elősegítéséhez igazodó indokolt esetben előírhatja az átláthatóság biztosítása érdekében a határozatában foglaltaknak megfelelő bontású és részletezettségű – így különösen a szolgáltatási árat, a fizetési formákat, valamint a szolgáltatóváltáshoz kapcsolódó ügyintézési kötelezettségeket tartalmazó – a nem szervezett piacon történő értékesítés esetén alkalmazandó mintaajánlat készítését. A mintaajánlattól a szerződő felek közös megegyezéssel eltérhetnek.
 
 (3) A Hivatal az 55. § (1) bekezdés b) pontja szerinti piacon jelentős piaci erővel rendelkező engedélyes számára az 58. § (1) bekezdés c) pontja szerinti kötelezettség céljának elérése érdekében megtilthatja
 
@@ -1284,7 +1286,7 @@ földgázrendszerhez való hozzáférés
 
 (7a) A (7) bekezdés szerinti műszaki-biztonsági felülvizsgálat nem minősül a földgázelosztó e törvény szerinti engedélyköteles tevékenységének.
 
-(8) A felhasználó és a szállítási rendszerüzemeltető vagy a földgázelosztó közötti egyéb megállapodás hiányában a szállítási rendszerüzemeltető vagy a földgázelosztó köteles a felhasználó számára az Üzemi és Kereskedelmi Szabályzatban meghatározottak szerinti fogyasztásmérő berendezést és 100 m3/óra vagy azt meghaladó kapacitásigény esetén a fogyasztásmérő berendezést és az adatátviteli berendezést térítésmentesen biztosítani.
+(8)
 
 ### Az idegen ingatlanok tulajdon- és használati jogának korlátozása
 
@@ -1547,7 +1549,14 @@ kiállított számla érvénytelen.
 
 100/A. § (1) A felhasználó esedékes díjfizetési kötelezettségének elmulasztása miatt – a 29. § (3) bekezdése szerinti feltételek teljesülése esetén – a földgázkereskedő a földgázelosztónál kezdeményezheti előre fizető mérő felszerelését.
 
-(2) A fogyasztásmérő berendezés felszerelése, üzemeltetése, karbantartása, időszakos hitelesítése, valamint a 100 m3/óra névleges mérőteljesítményű vagy nagyobb összteljesítményű felhasználási helyeken felszerelt fogyasztásmérő berendezések távadóval történő ellátása és a jeltovábbításhoz szükséges telemechanikai rendszer kiépítése és működtetése – egyéb megállapodás hiányában – a szállítási rendszerüzemeltető vagy a földgázelosztó kötelezettsége. Ezen kötelezettségek költségei a szállítási rendszerüzemeltetőt vagy a földgázelosztót terhelik. Ha a földgázkereskedő vagy a felhasználó kérésére az Üzemi és Kereskedelmi Szabályzatban meghatározott műszakilag indokoltnál költségesebb berendezés kerül felszerelésre, a rendszerüzemeltető jogosult az ezzel felmerülő igazolt többletköltségeit érvényesíteni.
+(2) (2) A szállítási rendszerüzemeltető és a földgázelosztó – eltérő megállapodás hiányában – térítésmentesen köteles biztosítani és felszerelni
+
+- a) a felhasználó számára a fogyasztásmérő berendezést, valamint
+- b) az egyetemes szolgáltatásra nem jogosult felhasználó számára
+  - ba) 20 m3/óra feletti névleges teljesítményű fogyasztásmérő esetén az órai adatok jeltovábbításhoz szükséges telemechanikai rendszert és
+  - bb) 100 m3/óra feletti névleges teljesítményű fogyasztásmérő esetén a korrektort.
+
+(3) A (2) bekezdés szerinti fogyasztásmérő berendezés, korrektor és távadós telemechanikai rendszer üzemeltetése, karbantartása, időszakos hitelesítése – eltérő megállapodás hiányában – a szállítási rendszerüzemeltető vagy a földgázelosztó kötelezettsége. Ezen kötelezettségek költségei a szállítási rendszerüzemeltetőt vagy a földgázelosztót terhelik. Ha a földgázkereskedő vagy a felhasználó kérésére – az Üzemi és Kereskedelmi Szabályzatban meghatározottak alapján – a műszakilag indokoltnál költségesebb berendezés kerül felszerelésre, a rendszerüzemeltető jogosult az ezzel felmerülő igazolt többletköltségeit a felhasználó felé érvényesíteni.
 
 101. § A fogyasztásmérő berendezés mérésügyi felülvizsgálatát a felhasználó, a felhasználót ellátó földgázkereskedő és a földgázelosztó jogosult kezdeményezni.
 
@@ -2058,14 +2067,17 @@ foglalt kötelezettségét nem teljesíti.
 
 120/A. § (1) A vertikálisan integrált földgázipari vállalkozás rendszerüzemeltető tagjai vonatkozásában a tevékenységek szétválasztására, a jogi személyiség szerinti, szervezeti és döntéshozatali függetlenség biztosításának követelményére tekintettel a Ptk. szabályait az e törvényben foglalt eltérésekkel kell alkalmazni.
 
-(2) Vertikálisan integrált földgázipari vállalkozás keretében végzett földgázszállítás és rendszerirányítás vagy földgázelosztás esetén biztosítani kell a földgázszállítás, földgázelosztás jogi személyiség szerinti, szervezeti és döntéshozatali függetlenségét a nem földgázszállítással vagy földgázelosztással kapcsolatos tevékenységektől.
+(2) Vertikálisan integrált földgázipari vállalkozás keretében végzett földgázszállítás és rendszerirányítás, földgázelosztás vagy földgáztárolás esetén biztosítani kell a földgázszállítás, földgázelosztás, földgáztárolás jogi személyiség szerinti, szervezeti és döntéshozatali függetlenségét a nem földgázszállítással, földgázelosztással vagy földgáztárolással kapcsolatos tevékenységektől.
 
 (3) A (2) bekezdés szerinti függetlenség biztosításához legalább a következő követelmények teljesítése szükséges:
 
 - a) a rendszerüzemeltető e törvény szerint engedélyköteles más tevékenységet nem folytathat,
 - b) a rendszerüzemeltető – a szervezett földgázpiaci engedélyest és a szállítási rendszerüzemeltetőt kivéve – nem szerezhet részesedést a saját tevékenységétől eltérő, e törvény szerint engedélyköteles tevékenységet folytató más engedélyesben,
-- c) a rendszerüzemeltetőnek a vezető tisztségviselője, a cégvezetője, a vezető állású munkavállalója, a felügyelőbizottságának – földgázelosztó és földgáztároló engedélyes esetén ügydöntő felügyelőbizottságának – tagja, valamint a gazdasági társaság engedélyesi tevékenységet ellátó szervezeti egysége vezetője (a továbbiakban: szervezeti egység vezető) a munkaszerződésben, a munkavégzésre irányuló egyéb jogviszonyt szabályozó szerződésben vagy a kinevezési okiratban (e fejezet alkalmazásában a továbbiakban együtt: munkaszerződés) foglalt jogait és kötelezettségeit, a munkabérét, az egyéb juttatásait vagy díjazását, valamint munkavégzésének feltételeit, hatásköreit és beszámolási kötelezettségeit oly módon kell kialakítani és rögzíteni, hogy a működést befolyásoló független döntéshozatal, valamint annak során a befolyásmentes és az egyenlő bánásmód követelményének megfelelő eljárás biztosított legyen,
-- d) a c) pontban meghatározott munkaszerződéssel rendelkező személynek – kivéve, ha e törvény eltérően rendelkezik – nem lehet társasági részesedése a rendszerüzemeltetőt kivéve más engedélyesben, annak kapcsolt vállalkozásában, továbbá nem lehet annak vezető tisztségviselője, felügyelőbizottsági – földgázelosztó és földgáztároló engedélyes esetén ügydöntő felügyelőbizottsági – tagja, cégvezetője, továbbá nem létesíthet azzal munkaviszonyt vagy munkavégzésre irányuló egyéb jogviszonyt,
+- c) a rendszerüzemeltetőnek a vezető tisztségviselője, a cégvezetője, a vezető állású munkavállalója, a felügyelőbizottságának – földgázelosztó engedélyes esetén ügydöntő felügyelőbizottságának – tagja, valamint a gazdasági társaság engedélyesi tevékenységet ellátó szervezeti egysége vezetője (a továbbiakban: szervezeti egység vezető) a munkaszerződésben, a munkavégzésre irányuló egyéb jogviszonyt szabályozó szerződésben vagy a kinevezési okiratban (e fejezet alkalmazásában a továbbiakban együtt: munkaszerződés) foglalt jogait és kötelezettségeit, a munkabérét, az egyéb juttatásait vagy díjazását, valamint munkavégzésének feltételeit, hatásköreit és beszámolási kötelezettségeit oly módon kell kialakítani és rögzíteni, hogy a működést befolyásoló független döntéshozatal, valamint annak során a befolyásmentes és az egyenlő bánásmód követelményének megfelelő eljárás biztosított legyen,
+- d) a c) pontban meghatározott munkaszerződéssel rendelkező személynek – kivéve, ha e törvény eltérően rendelkezik – nem lehet társasági részesedése a rendszerüzemeltetőt kivéve más engedélyesben, annak kapcsolt vállalkozásában, továbbá ezen személy nem lehet integrált földgázipari vállalkozás
+  - da) kereskedelmi és termelői engedélyesének vezető tisztségviselője, cégvezetője, vezető állású munkavállalója, a gazdasági társaság engedélyesi tevékenységet ellátó szervezeti egységének vezetője, valamint ügydöntő felügyelőbizottságának és felügyelőbizottságának a tagja, továbbá nem létesíthet azzal munkaviszonyt vagy munkavégzésre irányuló egyéb jogviszonyt,
+  - db) kereskedelmi és termelői engedélyes felett közvetlen irányítást gyakorló személyének vezető tisztségviselője, cégvezetője, vezető állású munkavállalója, a gazdasági társaság földgáztermelés és -ellátás napi üzemviteléért közvetlenül vagy közvetve felelős tevékenységet ellátó szervezeti egységének vezetője, valamint ügydöntő felügyelőbizottságának és felügyelőbizottságának a tagja, továbbá nem létesíthet azzal olyan munkaviszonyt vagy munkavégzésre irányuló egyéb jogviszonyt, amely alapján földgáztermelés és -ellátás napi üzemviteléért közvetlenül vagy közvetve felelős tevékenységet végez, továbbá
+  - dc) olyan szervezetének tagja, amely a földgáztermelés és -ellátás napi üzemviteléért közvetlenül vagy közvetve felelős tevékenységet végez,
 - e) a c) pontban meghatározott cégvezetőt, vezető állású munkavállalót és szervezeti egység vezetőt az integrált földgázipari vállalkozás más tagjához nem lehet kirendelni,
 - f) a c) pontban meghatározott vezető tisztségviselő, felügyelőbizottsági – földgázelosztó és földgáztároló engedélyes esetén ügydöntő felügyelőbizottsági – tag, cégvezető és vezető állású munkavállaló a munkaviszony, a munkavégzésre irányuló egyéb jogviszony vagy a kinevezés (e fejezet, valamint a XV. fejezet alkalmazásában a továbbiakban együtt: munkaviszony) megszűnését követő egy éven belül csak a Hivatal jóváhagyásával lehet más engedélyes vezető tisztségviselője, felügyelőbizottságának tagja, cégvezetője vagy vezető állású munkavállalója, amely nem érinti a munka törvénykönyvéről szóló 2012. évi I. törvény 228. § (1) bekezdése szerint a munkaviszony megszűnését követő kötelezettség fejében járó ellenértéket.
 
@@ -2663,7 +2675,7 @@ tartalmazza.
 
 (3) Felhatalmazást kap a katasztrófák elleni védekezésért felelős miniszter, hogy rendeletben állapítsa meg a gáz csatlakozóvezetékek és felhasználói berendezések műszaki-biztonsági felülvizsgálata során feltárt hibák kijavítására kötelezésre, a gáz csatlakozóvezetékek és felhasználói berendezések műszaki javításával kapcsolatos mulasztások bejelentésének kezelésére vonatkozó részletes eljárási szabályokat, valamint az eljárás során kirendelt szakértő tevékenysége folytatásának részletes feltételeit.
 
-(4) Felhatalmazást kap a miniszter, hogy a 141/G. § (1) bekezdése szerinti ajánlattétel napját rendeletben határozza meg.
+(4) Felhatalmazást kap a miniszter, hogy a 141/G. § szerinti ajánlattétel napját rendeletben határozza meg.
 
 133/A. § Felhatalmazást kap a Hivatal elnöke, hogy rendeletben állapítsa meg
 
@@ -2875,7 +2887,11 @@ köteles annak létrejöttét követő 7 munkanapon belül megküldeni a Hivatal
 
 141/G. § (1) Az a földgáztárolói engedélyes, amelynek az egyes törvényeknek a rezsicsökkentés végrehajtásához szükséges módosításáról szóló 2013. évi CLXVII. törvény hatálybalépésekor a tulajdonában van legalább 120 millió m3 mobilgázzá átminősített párnagáz, köteles ajánlatot tenni a 120 millió m3 mobilgázzá átminősített párnagáz könyv szerinti értéken történő értékesítésére az egyetemes szolgáltatók földgáz forrásainak biztosítása érdekében a 141. § (1) bekezdése szerinti, egyetemes szolgáltatási engedéllyel nem rendelkező volt közüzemi nagykereskedő részére, ha az ajánlattétel napját a miniszter rendeletben meghatározta. Az ajánlati kötöttség időtartama 5 munkanap.
 
-(2) Ha az (1) bekezdés szerinti ajánlat nem kerül elfogadásra, a mobilgázzá átminősített párnagázt a földgáztárolói engedélyes az üzletszabályzatában meghatározott módon értékesítheti.
+(2) Az (1) bekezdés szerint mobilgázzá átminősített párnagázból az egyes energetikai tárgyú törvények módosításáról szóló 2016. évi LXXXI. törvény hatálybalépésekor rendelkezésre álló készlet mennyiséget a földgáztárolói engedélyes saját célú energiafelhasználásra és technológiai célokra felhasználhatja.
+
+(3) A földgáztárolói engedélyes köteles ajánlatot tenni a saját célú energiafelhasználással és technológiai célú felhasználással csökkentett mobilgázzá átminősített párnagáz könyv szerinti értéken történő értékesítésére az egyetemes szolgáltatók földgáz forrásainak biztosítása érdekében az egyetemes szolgáltatási engedéllyel nem rendelkező volt közüzemi nagykereskedő részére a miniszter rendeletében meghatározottak szerint.
+
+(4) Ha a (3) bekezdés szerinti ajánlat nem kerül elfogadásra, a párnagázt a földgáztárolói engedélyes az üzletszabályzatában meghatározott módon értékesítheti.
 
 141/H. § A 105. § (6) bekezdése szerinti kiegyenlítő fizetéseket első alkalommal a 2015. január 1-től 2015. június 30-áig tartó időszakra kell alkalmazni.
 
@@ -3043,6 +3059,10 @@ köteles annak létrejöttét követő 7 munkanapon belül megküldeni a Hivatal
 (2) Ha a Hivatal elnöke által kiadott rendeletben meghatározott, 104/A. § szerinti árszabályozási ciklus kezdőidőpontja nem későbbi, mint 2016. január 1., akkor a Hivatal ezen árszabályozási ciklus tekintetében a 2013. év során elvégzett költség-felülvizsgálat eredményeit is felhasználhatja.
 
 146/J. § E törvénynek az egyes energetikai tárgyú törvények módosításáról szóló 2015. évi CXCVI. törvénnyel megállapított 115/B. § (9) bekezdése szerinti rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
+
+146/K. § (1) E törvénynek az egyes energetikai tárgyú törvények módosításáról szóló 2016. évi LXXXI. törvénnyel megállapított 59. § (2) bekezdését a folyamatban lévő ügyekben is alkalmazni kell.
+
+(2) E törvénynek az egyes energetikai tárgyú törvények módosításáról szóló 2016. évi LXXXI. törvénnyel megállapított 100/A. § (2) bekezdés b) pont ba) alpontja szerinti telemechanikai rendszert 2017. január 1-ig kell kiépíteni.
 
 ### XIX. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

@@ -81,6 +81,8 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 
 (2) Díjmentesen kell kiadni az (1) bekezdésben meghatározott hatósági igazolványt akkor is, ha a korábban kiadott igazolványban szereplő adat megváltozott, téves, illetve a megváltozott adat beírására szolgáló rovat betelt, vagy ha annak kiadása eltulajdonítás miatt válik szükségessé.
 
+(3) Amennyiben a kiállító hatóság az (1) bekezdésben meghatározott hatósági igazolvány eltulajdonításáról hivatalból tudomást szerez, intézkedik az eltulajdonított hatósági igazolvány pótlásáról.
+
 10. § Az adóazonosító jelet, illetőleg a Társadalombiztosítási Azonosító Jelet igazoló hatósági igazolvány kiadásáért az általános tételű eljárási illetéknek megfelelő összegű igazgatási szolgáltatási díjat fizet a polgár, ha az új hatósági igazolvány kiadása a birtokából való elkerülés (elvesztés, megsemmisülés) vagy megrongálódás miatt válik szükségessé.
 
 ### Összerendelési nyilvántartás
@@ -210,7 +212,9 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 
 (2) A polgár az (1) bekezdés szerinti megismerhetővé tételt az összerendelési nyilvántartásra irányadó rendelkezések szerint is biztosíthatja, amennyiben ennek műszaki feltételei adottak.
 
-16. § Ha a polgár birtokából az adóigazolvány kikerül, e tényt haladéktalanul be kell jelenteni az állami adóhatóságnak.
+16. § (1) Ha a polgár birtokából az adóigazolvány kikerül, e tényt haladéktalanul be kell jelentenie az állami adóhatóságnak.
+
+(2) A bejelentés az adóigazolvány eltulajdonítása esetén a rendőrség felé is megtehető. Ebben az esetben a rendőrség a bejelentésről haladéktalanul tájékoztatja az állami adóhatóságot.
 
 17. § Az állami adóhatóság az adóigazolványt bevonja, ha
 
@@ -277,6 +281,8 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 (6) E törvény 8. §-ának (1) bekezdése szerinti hatósági igazolvánnyal esik egy tekintet alá a külön törvény szerint kiállított, az egészségügyi szolgáltatásra való jogosultságot is igazoló okirat.
 
 (7) A polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv az újszülött családi és utónevét, születési helyét és idejét, anyja nevét, állampolgárságát, valamint lakcímét közli az egészségbiztosítási szervvel. Az újszülött részére az egészségbiztosítási szerv a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv adatszolgáltatása alapján a TAJ-számot tartalmazó hatósági igazolványt hivatalból adja ki.
+
+(8) Amennyiben a rendőrség tudomást szerez a TAJ számot tartalmazó hatósági igazolvány eltulajdonításáról, haladéktalanul értesíti az egészségbiztosítási szervet.
 
 22. § Azt a polgárt, aki nem rendelkezik TAJ számmal, de jogosulttá válik egészségügyi szolgáltatásra, munkanélküli vagy szociális ellátásra, külön kérelemre külön törvény alapján, az egészségbiztosítási szerv TAJ számmal látja el.
 
@@ -408,7 +414,7 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 - a) az állami adóhatóságnak az adóalanyok nyilvántartásában szereplő polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról, a külföldön történő letelepedésről;
 - b) a társadalombiztosítási szervnek az egészségbiztosítási nyilvántartásában szereplő polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, családi állapotának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról, a külföldön történő letelepedésről, továbbá az Nytv. hatálya alá tartozó újszülöttek nyilvántartásában szereplő adatairól;
 - c) a társadalombiztosítási szervnek a nyugdíj-biztosítási nyilvántartásában szereplő polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, családi állapotának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról, a külföldön történő letelepedésről;
-- d) az egészségügyi dolgozók alap- és működési nyilvántartását vezető egészségügyi államigazgatási szervnek az alap- és működési nyilvántartásban szereplő egészségügyi dolgozó természetes személyazonosító adatainak, lakóhelyének és tartózkodási helyének, valamint állampolgárságának a változásáról, valamint az egészségügyi dolgozó elhalálozásáról;
+- d) az egészségügyi dolgozók alap- és működési nyilvántartását vezető egészségügyi államigazgatási szervnek az alap- és működési nyilvántartásban szereplő egészségügyi dolgozó természetes személyazonosító adatainak, lakóhelyének és tartózkodási helyének, valamint állampolgárságának a változásáról, valamint az egészségügyi dolgozó elhalálozásának tényéről és időpontjáról;
 - e) a kincstárnak, a kincstár által folyósított ellátásban részesülő személy és a külön törvényben meghatározott kincstár által vezetett egységes szociális nyilvántartásban szereplő személy családi és utónevének, anyja nevének, születési helyének és időpontjának, lakóhelyének, tartózkodási helyének változásáról, továbbá az érintett elhalálozásáról;
 - f) a társadalombiztosítási szervnek a megváltozott munkaképességű személyek nyilvántartásában szereplő polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, családi állapotának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról, a külföldön történő letelepedésről;
 - g) az ügyfél-regisztrációs szerv részére az adatbázisban szereplő adatok változásainak folyamatos követése érdekében az ügyfél-regisztrációs adatbázisban szereplő személy családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, állampolgárságának, nemének változásáról, valamint az érintett elhalálozásáról;

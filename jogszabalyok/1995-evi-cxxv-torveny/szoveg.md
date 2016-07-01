@@ -121,7 +121,7 @@ bűncselekményekre vonatkozóan, felderíti továbbá mindazon bűncselekménye
 9. § A nemzetbiztonsági szolgálatok
 
 - a) végzik a feladataik teljesítéséhez szükséges technikai rendszerek, eszközök beszerzését, kutatását, fejlesztését és az eszközök alkalmazásával kapcsolatos szakmai felkészítést, mindezek érdekében együttműködhetnek egymással és más szervekkel;
-- b) ellátják a rendkívüli állapottal, a szükségállapottal, a megelőző védelmi helyzettel, a veszélyhelyzettel, valamint a váratlan támadással összefüggő, törvényben meghatározott feladatokat;
+- b) ellátják a rendkívüli állapottal, a szükségállapottal, a megelőző védelmi helyzettel, a terrorveszélyhelyzettel, a váratlan támadással és a veszélyhelyzettel összefüggő, törvényben meghatározott feladatokat;
 - c) ellátják e törvény keretei között a Kormány, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter vagy a honvédelemért felelős miniszter által meghatározott feladatokat;
 - d)
 - e) gondoskodnak a hivatásos állományú munkatársak és a közalkalmazottak szakirányú képzéséről.
@@ -398,7 +398,7 @@ terheli.
 
 (2) Az állami szervek kötelesek a 11. § (6) bekezdésében meghatározott tevékenységhez szükséges információkról – a Kormány által meghatározottak szerint – térítésmentesen adatszolgáltatást teljesíteni.
 
-30. § (1) Az e törvényben meghatározott feladatok ellátása érdekében, ha azt a nemzetbiztonsági szolgálatok főigazgatói kezdeményezik, a nemzetbiztonság szempontjából különleges fontosságú állami szervek és a tartós állami tulajdonban lévő gazdálkodó szervezetek, a központi energiaellátó és hírközlési rendszereket üzemeltető, a nemzetközileg ellenőrzött termékeket és technológiákat előállító és felhasználó, valamint a hadiipari kutatással foglalkozó üzemek és intézmények a nemzetbiztonsági szolgálat – alkalmazási feltételeknek egyébként megfelelő – munkatársával hivatásos szolgálati, közszolgálati, közalkalmazotti jogviszonyt, illetve munkajogviszonyt (a továbbiakban együtt: munkaviszony) létesítenek.
+30. § (1) Az e törvényben meghatározott feladatok ellátása érdekében, ha azt a nemzetbiztonsági szolgálatok főigazgatói kezdeményezik, a nemzetbiztonság szempontjából különleges fontosságú állami szervek és a tartós állami tulajdonban lévő gazdálkodó szervezetek, a központi energiaellátó és hírközlési rendszereket üzemeltető, a nemzetközileg ellenőrzött termékeket és technológiákat előállító és felhasználó, valamint a hadiipari kutatással foglalkozó üzemek és intézmények a nemzetbiztonsági szolgálat – alkalmazási feltételeknek egyébként megfelelő – munkatársával hivatásos szolgálati, közszolgálati, kormányzati szolgálati, állami szolgálati, közalkalmazotti jogviszonyt, illetve munkajogviszonyt (a továbbiakban együtt: munkaviszony) létesítenek.
 
 (2) Az e törvényben meghatározott feladatok ellátása érdekében a nemzetbiztonsági szolgálatok – külön megállapodás alapján meghatározott időtartamra – munkaviszonyt kezdeményezhetnek az (1) bekezdés hatálya alá nem tartozó szervezeteknél.
 
@@ -1016,7 +1016,7 @@ azt jóváhagyta.
 - d) lakás: a nyilvános vagy a közönség részére nyitva álló helyen kívüli minden egyéb helyiség vagy terület;
 - e) hozzátartozó: a házastárs, az egyeneságbeli rokon, az örökbe fogadott, a mostoha- és nevelt gyermek, az örökbefogadó-, a mostoha- és a nevelőszülő, a testvér, az élettárs, az egyeneságbeli rokon házastársa, a jegyes, a házastárs egyeneságbeli rokona és testvére, valamint a testvér házastársa;
 - f) cégellenőrzés: az illetékes nemzetbiztonsági szolgálat által végzett ellenőrzés, amelynek célja annak megállapítása, hogy a gazdálkodó szervezet minősített adat felhasználásával járó közreműködése jelent-e nemzetbiztonsági kockázatot;
-- g) foglalkoztatási jogviszony: a bírói szolgálati jogviszony, az igazságügyi szolgálati jogviszony, az ügyészségi szolgálati jogviszony, a hivatásos szolgálati viszony, a hivatásos és szerződéses állományú katonák szolgálati viszonya, a közszolgálati jogviszony, a kormányzati szolgálati jogviszony, a közalkalmazotti jogviszony, a munkajogviszony és a munkavégzésre irányuló egyéb jogviszony;
+- g) foglalkoztatási jogviszony: a bírói szolgálati jogviszony, az igazságügyi szolgálati jogviszony, az ügyészségi szolgálati jogviszony, a hivatásos szolgálati viszony, a hivatásos és szerződéses állományú katonák szolgálati viszonya, a közszolgálati jogviszony, a kormányzati szolgálati jogviszony, az állami szolgálati jogviszony, a közalkalmazotti jogviszony, a munkajogviszony és a munkavégzésre irányuló egyéb jogviszony;
 - h)
 - i) nemzetbiztonsági ellenőrzés alá eső személy:
   - ia) a nagykövet és az önálló külképviseletet irányító főkonzul;

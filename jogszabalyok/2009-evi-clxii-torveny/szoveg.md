@@ -14,7 +14,7 @@ a fogyasztónak nyújtott hitelről
 - d) olyan munkáltatói hitelre, amely a nyilvánosság számára nem hozzáférhető, és amellyel kapcsolatban a munkavállalónak hitelkamatot és egyéb ellenszolgáltatást a piacon szokásos mértéknél alacsonyabb mértékű teljes hiteldíj mutató mellett köteles, vagy hitelkamatot és egyéb ellenszolgáltatást nem köteles fizetni,
 - e) a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényben meghatározott befektetési hitelre,
 - f) olyan hitelre, amelyet bíróság hoz létre,
-- g) olyan hitelre, amely fennálló tartozás kamat- és egyéb ellenszolgáltatás-mentes átütemezésére vonatkozik,
+- g) olyan hitelre, amely fennálló tartozás díj- és költségmentes átütemezésére, kiváltására vonatkozik,
 - h) olyan törvényben vagy törvény felhatalmazása alapján kiadott jogszabályban meghatározott közérdeket szolgáló hitelre, amelyet korlátozott körben nyújtanak, és amely kamatmentes, vagy amelyre vonatkozó hitelkamat a piacon szokásos mértéknél alacsonyabb, vagy a piacon szokásos mértékű hitelkamat mellett a piacon szokásos feltételeknél a fogyasztó számára kedvezőbb; ideértve a lakáscélú kölcsönökre vonatkozó állami készfizető kezességről szóló 2009. évi IV. törvényben meghatározott áthidaló kölcsönt, a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló törvényben meghatározott gyűjtőszámlahitelt, valamint a külön jogszabály szerint nyújtott hallgatói hitelt.
 
 (3) E törvény rendelkezéseit kell alkalmazni a fogyasztónak nyújtott pénzügyi lízingre azzal, hogy ahol e törvény hitelt említ, ott pénzügyi lízinget, ahol törlesztőrészletet említ, ott a lízingdíjat kell érteni.
@@ -230,12 +230,14 @@ a fogyasztónak nyújtott hitelről
 
 (2) A jelzáloghitel ajánlható és a jelzáloghitel-szerződés megköthető más pénzügyi termékkel vagy szolgáltatással együtt, ha a hitelszerződést a fogyasztó önállóan is megkötheti, de nem feltétlenül ugyanazokkal a feltételekkel, mint a kapcsolódó szolgáltatásokkal egy csomagban kínált hitelszerződés esetén (csomagban történő értékesítés).
 
-(3) Az (1) bekezdésen foglaltaktól eltérően
+(3) Az (1) bekezdésben foglaltaktól eltérően:
 
-- a) ha a hitelező a Hpt. 3. § (1) bekezdés d) pontjában foglalt pénzügyi szolgáltatás végzésére engedéllyel rendelkezik, akkor a fogyasztó részére előírhatja, hogy rendelkezzen nála vezetett fizetési számlával, amely kizárólag a jelzáloghitel törlesztéséhez szükséges pénzeszközök elhelyezését szolgálja, és ezt díj-, költség- és egyéb fizetési kötelezettségmentesen kell a fogyasztó részére biztosítani,
+- a) a hitelező a fogyasztó részére előírhatja, hogy rendelkezzen fizetési számlával, amely kizárólag a jelzáloghitel törlesztéséhez szükséges pénzeszközök elhelyezését szolgálja, és ezt díj-, költség- és egyéb fizetési kötelezettségmentesen kell a fogyasztó részére biztosítani,
 - b) jelzáloghitel esetén a hitelező előírhatja a fogyasztó számára, hogy jelzáloghitel igénybevétele esetén rendelkezzen a hitelszerződéshez kapcsolódó megtakarítással, valamint életbiztosítással vagy a fedezetül szolgáló ingatlanra vonatkozó vagyonbiztosítással.
 
 (4) A (3) bekezdés b) pontjában foglaltak esetén a hitelezőnek az általa előnyben részesített szolgáltatótól eltérő szolgáltató biztosítását is el kell fogadnia, ha az a hitelező által ajánlott biztosítással legalább egyenértékű a biztosítás összegét és a fedezet körét figyelembe véve.
+
+(4a) Ha a hitelező a fogyasztó számára előírta, hogy jelzáloghitel igénybevétele esetén rendelkezzen a hitelszerződéshez kapcsolódó életbiztosítással vagy a fedezetül szolgáló ingatlanra vonatkozó vagyonbiztosítással, a fogyasztó az ilyen biztosítási szerződésből származó – biztosítási összegre vonatkozó – követelését biztosítékként a hitelezőre átruházhatja.
 
 (5) Ha a fogyasztó az (1) bekezdés szerinti tiltott árukapcsolás keretében köti meg a hitelszerződést, úgy a kapcsolódó termék értékesítésére vagy szolgáltatás nyújtására szolgáló szerződést a Polgári Törvénykönyvről szóló 2013. évi V. törvény szerint megtámadhatja.
 
@@ -306,13 +308,15 @@ a fogyasztónak nyújtott hitelről
 
 ### A hitelszerződés feltételei és annak változása
 
-17/A. § (1) A hitelező – a (2) bekezdésben meghatározott kivétellel – fogyasztónak nem nyújthat olyan hitelt, amelynek teljes hiteldíj mutatója meghaladja a jegybanki alapkamat 24 százalékponttal növelt mértékét.
+17/A. § (1) A hitelező – a (2) és (3) bekezdésben meghatározott kivétellel – fogyasztónak nem nyújthat olyan hitelt, amelynek teljes hiteldíj mutatója meghaladja a jegybanki alapkamat 24 százalékponttal növelt mértékét.
 
 (2) Hitelkártya-szerződéshez vagy fizetési számlához kapcsolódó, továbbá kézizálog fedezete mellett nyújtott hitelek esetében a teljes hiteldíj mutató nem haladhatja meg a jegybanki alapkamat 39 százalékponttal növelt mértékét.
 
 (3) A mindennapi élet felszerelési tárgyainak, tartós fogyasztási cikkeinek (ide nem értve a gépjárművet) megvásárlásához és szolgáltatások igénybevételéhez nyújtott hitelek (áruhitelek) esetében, amennyiben a hitel folyósítása közvetlenül az áruhitellel érintett termék értékesítőjének, illetve a szolgáltatás nyújtójának történik, a teljes hiteldíj mutató nem haladhatja meg a jegybanki alapkamat 39 százalékponttal növelt mértékét.
 
 (4) E § alkalmazásában az érintett naptári félévet megelőző hónap első napján érvényes jegybanki alapkamat irányadó az adott naptári félév teljes időtartamára.
+
+(5) E § alkalmazásában a teljes hiteldíj mutató meghatározásakor nem kell figyelembe venni a jelzáloghitel fedezetéül szolgáló ingatlanra vonatkozó vagyonbiztosítás díját.
 
 17/B. § (1) A fogyasztó számára hátrányosan kizárólag a hitelszerződésben megállapított hitelkamat, kamatfelár, költség és díj módosítható egyoldalúan, feltéve hogy e törvény ezt lehetővé teszi, és a felek ezt a szerződésben kifejezetten kikötötték. Egyéb feltétel, ideértve az egyoldalú módosításra vonatkozó kikötést is, egyoldalúan, a fogyasztó számára hátrányosan nem módosítható.
 
@@ -484,7 +488,7 @@ alapján történik.
 
 ### Idegen pénznemben fennálló tartozás átváltása
 
-21/C. § (1) Ha a jelzáloghitel-szerződés alapján fennálló tartozás olyan pénznemben áll fenn, amelyet idegen pénznemnek kell tekinteni, a fogyasztó minden negyedév utolsó napjával egyoldalú jognyilatkozattal dönthet a szerződés alapján fennálló tartozás pénznemének (3) bekezdés a) pontja – vagy ha a hitelszerződés úgy rendelkezik, a (3) bekezdés b) pontja – szerinti módosításáról.
+21/C. § (1) Ha a jelzáloghitel-szerződés olyan pénznemre vonatkozik, amelyet annak igénylése időpontjában idegen pénznemnek kell tekinteni, a fogyasztó minden negyedév utolsó napjával egyoldalú jognyilatkozattal dönthet a szerződés alapján fennálló tartozás pénznemének (3) bekezdés a) pontja – vagy ha a hitelszerződés úgy rendelkezik, a (3) bekezdés b) pontja – szerinti módosításáról.
 
 (2) Idegen pénznemben fennálló tartozás az a tartozás, amelynek
 
@@ -508,7 +512,7 @@ lehet, amelyről a felek a hitelszerződésben rendelkezhetnek.
 
 (8) A tartozás átváltott pénzneme szerinti fizetési kötelezettség a fogyasztó (1) bekezdés szerinti nyilatkozatának a hitelezőhöz történő megérkezését követő második törlesztőrészlet megfizetésének esedékességével áll be.
 
-(9) A felek a hitelszerződésben e § alkalmazásától akkor térhetnek el, ha a hitelező a fogyasztó számára a hitelszerződésben más olyan lehetőséget biztosít, amely alkalmas a fogyasztó kockázati kitettségének olyan mértékű korlátozására, amelynek eredményeként a fogyasztó árfolyamkockázata a tíz százalékot nem haladja meg.
+(9) A felek a hitelszerződésben e § alkalmazásától akkor térhetnek el, ha a hitelező a fogyasztó számára a hitelszerződésben más olyan lehetőséget biztosít, amely alkalmas a fogyasztó kockázati kitettségének olyan mértékű korlátozására, amelynek eredményeként a fogyasztó árfolyamkockázata a húsz százalékot nem haladja meg.
 
 21/D. § (1) Az idegen pénznemben fennálló tartozás átváltása esetén a kamatot
 
@@ -518,7 +522,7 @@ lehet, amelyről a felek a hitelszerződésben rendelkezhetnek.
 
 kell megállapítani.
 
-(2) A referencia-kamatlábhoz kötött hitelszerződés esetén az átváltott pénznemhez tartozó referencia-kamatlábat, valamint a kamatfelár-változtatási mutatót úgy kell meghatározni, hogy az tartalmilag – így különösen az alapul szolgáló kamatláb futamidejét tekintve – megfeleljen a a tartozás pénzneme módosulását megelőzően alkalmazott referencia-kamatlábnak, valamint kamatfelár-változtatási mutatónak. Ha a módosított referencia-kamatláb a módosítás hatálybalépésének napján magasabb, mint a pénznem módosulását megelőzően alkalmazott referencia-kamatláb, akkor a különbözetet a kamatfelár terhére kell érvényesíteni.
+(2) A referencia-kamatlábhoz kötött hitelszerződés esetén az átváltott pénznemhez tartozó referencia-kamatlábat, valamint a kamatfelár-változtatási mutatót úgy kell meghatározni, hogy az tartalmilag – így különösen az alapul szolgáló kamatláb futamidejét tekintve –megfeleljen a tartozás pénzneme módosulását megelőzően alkalmazott referencia-kamatlábnak, valamint kamatfelár-változtatási mutatónak.
 
 (3) A kamatperiódusonként rögzített hitelkamatozású hitelszerződés esetén a kamatváltoztatási mutatót úgy kell meghatározni, hogy az tartalmilag megfeleljen az eredeti kamatváltoztatási mutatónak.
 

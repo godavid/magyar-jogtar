@@ -2189,7 +2189,7 @@ felülvizsgálja a családi pótlék szüneteltetésének szükségességét.
 
 (3) A szolgáltatás körében olyan tevékenység nem végezhető, amely sérti a gyermeki jogokat, illetve a gyermekvédelem jogszabályban meghatározott céljaival összeegyeztethetetlen.
 
-(4) A közhasznú szervezet szolgáltatásában nem vehet részt gyermekjóléti alapellátást nyújtó személy, gyermekjóléti alapellátást vagy gyermekvédelmi szakellátást nyújtó intézménynél foglalkoztatott személy, gyámhatóságnál közszolgálati vagy kormánytisztviselői jogviszonyban foglalkoztatott személy.
+(4) A közhasznú szervezet szolgáltatásában nem vehet részt gyermekjóléti alapellátást nyújtó személy, gyermekjóléti alapellátást vagy gyermekvédelmi szakellátást nyújtó intézménynél foglalkoztatott személy, gyámhatóságnál közszolgálati, kormányzati szolgálati, vagy állami szolgálati jogviszonyban foglalkoztatott személy.
 
 ### A szolgáltatás engedélyezése
 
@@ -3040,12 +3040,12 @@ feltéve, ha – az országos gyermekvédelmi szakértői bizottság véleménye
 
 ### A hivatásos gondnok
 
-102. § (1) A hivatásos gondnok a Kormány által kijelölt szervvel kormányzati szolgálati jogviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll, kivéve, ha hivatásos gondnokul a Ptk. 2:31. § (5) bekezdése alapján mentális zavarban szenvedő személyekkel foglalkozó jogi személyt rendel ki a gyámhatóság.
+102. § (1) A hivatásos gondnok a Kormány által kijelölt szervvel állami szolgálati jogviszonyban, kormányzati szolgálati jogviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll, kivéve, ha hivatásos gondnokul a Ptk. 2:31. § (5) bekezdése alapján mentális zavarban szenvedő személyekkel foglalkozó jogi személyt rendel ki a gyámhatóság.
 
 (1a) A hivatásos gondnok egyidejűleg 30 gondnokolt érdekében járhat el, kivéve ha
 
 - a) az adott gondnokoltak igényeinek figyelembevétele alapján a gondnoki feladatok ellátását legfeljebb 35 gondnokolt egyidejű ellátása nem veszélyezteti, vagy
-- b) a hivatásos gondnoki feladatokat kormányzati szolgálati jogviszonyban álló személy látja el.
+- b) a hivatásos gondnoki feladatokat állami szolgálati jogviszonyban vagy kormányzati szolgálati jogviszonyban álló személy látja el.
 
 (1b) Az (1a) bekezdés b) pontjában meghatározott személy egyidejűleg legfeljebb 45 gondnokolt érdekében járhat el.
 
