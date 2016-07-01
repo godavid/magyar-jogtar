@@ -229,7 +229,7 @@ valósul meg.
   - dd) tagállami hatósági hatáskör gyakorlását megtestesítő szolgáltatások;
 - e) értékpapírok vagy egyéb pénzügyi eszközök kibocsátásával, eladásával, vételével vagy átruházásával kapcsolatos, a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvényben meghatározott pénzügyi szolgáltatások, jegybanki szolgáltatások, valamint az Európai Pénzügyi Stabilitási Eszköz és az Európai Stabilitási Mechanizmus keretében végzett műveletek;
 - f) a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti hitel- és kölcsönszerződések;
-- g) munkaszerződés, közszolgálati, kormány-tisztviselői vagy közalkalmazotti jogviszony, a közszolgálati tisztviselőkről szóló törvény szerinti ösztöndíjas foglalkoztatási jogviszony, ügyészségi szolgálati jogviszony, bírósági jogviszony, igazságügyi alkalmazotti szolgálati jogviszony, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonya, valamint a Magyar Honvédség hivatásos, szerződéses és önkéntes tartalékos állományának szolgálati viszonya;
+- g) munkaszerződés, közszolgálati, kormányzati szolgálati, állami szolgálati, vagy közalkalmazotti jogviszony, a közszolgálati tisztviselőkről szóló törvény szerinti ösztöndíjas foglalkoztatási jogviszony, ügyészségi szolgálati jogviszony, bírói szolgálati jogviszony, igazságügyi alkalmazotti szolgálati jogviszony, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonya, valamint a Magyar Honvédség hivatásos, szerződéses és önkéntes tartalékos állományának szolgálati viszonya;
 - h) nonprofit szervezetek vagy egyesületek által nyújtott, az állampolgárok védelmét szolgáló 75250000-3, 75251000-0, 75251100-1, 75251110-4, 75251120-7, 75252000-7, 75222000-8, 98113100-9, 85143000-3 CPV kódok által meghatározott polgári védelmi és veszélymegelőzési szolgáltatás, kivéve a betegszállítási mentőszolgáltatás;
 - i) vasúti vagy földalatti közösségi személyszállítási szolgáltatások;
 - j) a 79341400-0, a 92111230-3 és a 92111240-6 CPV kódok által meghatározott politikai kampányszolgáltatás, amelyet valamely politikai párt választási kampánnyal összefüggésben rendel meg;
@@ -529,6 +529,8 @@ feltéve, hogy az a), b) vagy a c) pont alkalmazása kapcsán az ajánlatkérő 
 ### Az ajánlatkérőkre vonatkozó közös szabályok
 
 26. § (1) Az ajánlatkérő – kivéve az 5. § (2)–(3) bekezdése szerinti ajánlatkérőt – köteles az e törvény hatálya alá tartozásáról, valamint az adataiban bekövetkezett változásról a Közbeszerzési Hatóságot értesíteni az e törvény hatálya alá kerülésétől, illetve a változástól számított harminc napon belül.
+
+(1a) Az (1) bekezdés szerinti változásbejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle az ajánlatkérő kéri – az (1) bekezdés szerinti határidőben értesíti a Közbeszerzési Hatóságot.
 
 (2) A Közbeszerzési Hatóság naprakész nyilvántartást vezet az ajánlatkérőkről, és azt a honlapján közzéteszi, továbbá a nyilvántartásban szereplő ajánlatkérőkről szükség szerint tájékoztatást nyújt az Európai Bizottság részére. Ha az érintett szervezet az (1) bekezdés szerinti bejelentési kötelezettségének nem tesz eleget, vagy az érintett szervezet e törvény hatálya alá tartozása kétséges, a Közbeszerzési Hatóság elnöke a Közbeszerzési Döntőbizottság eljárását kezdeményezi.
 
@@ -2454,7 +2456,7 @@ valamint a módosítás nem változtatja meg a szerződés általános jellegét
 - a) az ügyfélszervezettel munkaviszonyban, egyéb foglalkoztatási jogviszonyban vagy tagsági viszonyban áll, vagy annak vezető tisztségviselője vagy felügyelőbizottságának tagja;
 - b) az ügyfélszervezetben tulajdoni részesedéssel vagy 50%-ot meghaladó mértékű közvetett tulajdoni részesedéssel rendelkezik;
 - c) olyan szervezettel áll munkaviszonyban, egyéb foglalkoztatási jogviszonyban vagy tagsági viszonyban, vagy annak vezető tisztségviselője vagy felügyelőbizottságának tagja, vagy abban tulajdoni részesedéssel vagy 50%-ot meghaladó mértékű közvetett tulajdoni részesedéssel rendelkezik, amely az ügyfélszervezettel rendszeres üzleti kapcsolatban áll;
-- d) olyan szervezettel áll közszolgálati jogviszonyban, amely az ügyfélszervezet felügyelő szervezete vagy az ügyfélszervezet által felügyelt szervezet, illetve amely az ügyfélszervezet részére támogatást vagy kizárólagos jogot biztosít.
+- d) olyan szervezettel áll közszolgálati, kormányzati szolgálati, állami szolgálati jogviszonyban, amely az ügyfélszervezet felügyelő szervezete vagy az ügyfélszervezet által felügyelt szervezet, illetve amely az ügyfélszervezet részére támogatást vagy kizárólagos jogot biztosít.
 
 (3) A közbeszerzési biztos a Közbeszerzési Döntőbizottság elnökének haladéktalanul, de legkésőbb az ok felmerülésétől számított három napon belül köteles bejelenteni, ha vele szemben e §-ban vagy a Ket. 42. §-ának (1), illetve (3) bekezdésében meghatározott kizárási ok áll fenn. A közbeszerzési biztos a bejelentés elmulasztásáért vagy késedelmes teljesítéséért fegyelmi és anyagi felelősséggel tartozik.
 
@@ -3154,7 +3156,7 @@ rendelkezik.
 
 (3) A közbeszerzési biztosok közszolgálati jogviszonyára a Kttv.-t az e törvény szerinti eltérésekkel kell alkalmazni.
 
-(4) Közbeszerzési biztos az lehet, aki felsőfokú végzettséggel és legalább hároméves szakmai gyakorlattal, valamint közigazgatási, illetve jogi szakvizsgával rendelkezik.
+(4) Közbeszerzési biztos az lehet, aki felsőfokú végzettséggel és legalább hároméves szakmai gyakorlattal, valamint közigazgatási, illetve jogi szakvizsgával, vagy közigazgatási tanulmányok szakirányú szakképzettséggel, vagy kormányzati tanulmányok szakirányú szakképzettséggel rendelkezik.
 
 (5) A (4) bekezdésben meghatározott szakvizsga előírásra a Kttv.-ben meghatározott határidőket megfelelően alkalmazni kell.
 

@@ -32,7 +32,7 @@ a bírósági végrehajtásról
 
 6. §
 
-7. § (1) A bírósági végrehajtás során a pénzkövetelést elsősorban a pénzforgalmi szolgáltatónál kezelt, az adós rendelkezése alatt álló összegből, illetőleg az adós munkabéréből, illetményéből, munkadíjából, a munkaviszonyon, közfoglalkoztatási jogviszonyon, munkaviszony jellegű szövetkezeti jogviszonyon, közszolgálati és közalkalmazotti jogviszonyon, szolgálati viszonyon, társadalombiztosítási jogviszonyon alapuló járandóságából, valamint a munkából eredő egyéb rendszeres, időszakonként visszatérően kapott díjazásából, juttatásából, követeléséből (a továbbiakban együtt: munkabéréből) kell behajtani.
+7. § (1) A bírósági végrehajtás során a pénzkövetelést elsősorban a pénzforgalmi szolgáltatónál kezelt, az adós rendelkezése alatt álló összegből, az adós munkabéréből, illetményéből, munkadíjából, a munkaviszonyon, közfoglalkoztatási jogviszonyon, munkaviszony jellegű szövetkezeti jogviszonyon, közszolgálati, kormányzati szolgálati, állami szolgálati és közalkalmazotti jogviszonyon, szolgálati viszonyon, társadalombiztosítási jogviszonyon alapuló járandóságából, valamint a munkából eredő egyéb rendszeres, időszakonként visszatérően kapott díjazásából, juttatásából, követeléséből (a továbbiakban együtt: munkabéréből) kell behajtani.
 
 (2) Ha előre látható, hogy a követelést a munkabérre, illetőleg a pénzforgalmi szolgáltatónál kezelt összegre vezetett végrehajtással nem lehet viszonylag rövidebb időn belül behajtani, az adós bármilyen lefoglalható vagyontárgya végrehajtás alá vonható. A lefoglalt ingatlant azonban csak akkor lehet értékesíteni, ha a követelés az adós egyéb vagyontárgyaiból nincs teljesen fedezve, vagy csak aránytalanul hosszú idő múlva elégíthető ki. Ha az adóssal szemben indított végrehajtás során behajtandó tőkekövetelés – több követelés esetén az összes tőkekövetelés – összege nem haladja meg az 500 ezer Ft-ot vagy pedig nem haladja meg az 1 millió Ft-ot és egyéb követelés biztosítására zálogjog is be van jegyezve az adós lakóingatlanára, az adós lakóingatlanára – az egyéb feltételek fennállása esetén – árverés akkor tűzhető ki és a lakóingatlan becsértéke akkor állapítható meg, ha az adós az 52/B. § szerinti részletfizetést nem teljesítette.
 
@@ -922,7 +922,7 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 66. § A 65. § a következő járandóságok letiltása esetén is irányadó:
 
-- a) a kormányzati szolgálati, közszolgálati és a közalkalmazotti jogviszony, továbbá a szolgálati viszony alapján járó illetmény,
+- a) a kormányzati szolgálati, állami szolgálati, közszolgálati és a közalkalmazotti jogviszony, továbbá a szolgálati viszony alapján járó illetmény,
 - b) a szövetkezeti tagot a munkaviszony jellegű jogviszony alapján megillető munkadíj,
 - c) az alkotó- és munkaközösségi tag jövedelme,
 - d) a tudományos továbbképzési ösztöndíjasnak a munkabér jellegű ösztöndíja,
@@ -1761,11 +1761,11 @@ eredő követelések fejében vonható végrehajtás alá.
 
 138/B. § Ha az ingatlanra kisajátítási eljárás megindításának ténye van feljegyezve, a lefoglalt ingatlan végrehajtási értékesítése és becsértékének megállapítása iránt nem lehet intézkedni. A végrehajtó az ingatlanügyi hatóság zálogjogosultak nevéről és lakóhelyéről (székhelyéről) szóló értesítésének kézhezvétele után tájékoztatja a zálogjogosultat a végrehajtási eljárásba történő bekapcsolódás lehetőségéről. A zálogjogosultnak a bekapcsolódás iránti kérelmét ezen értesítés kézhezvételét követő 15 munkanapon belül kell bejelentenie a végrehajtónál. A végrehajtó a kérelmet a 140. § (6) bekezdésében foglalt módon továbbítja a bíróságnak, amely azt a 140/A. § szerint bírálja el.
 
-138/C. § Lakóingatlan lefoglalásának tényét a végrehajtást kérő, a végrehajtási jog bejegyzéséről szóló határozat részére történt kézbesítése után, köteles bejelenteni az ingatlan fekvése szerint illetékes jegyzőnek, aki a bejelentésről 8 napon belül igazolást állít ki. Az igazolást a végrehajtást kérő köteles megküldeni a végrehajtónak.
+138/C. § Lakóingatlan lefoglalásának tényéről a végrehajtó – a végrehajtási jog bejegyzéséről szóló határozat részére történt kézbesítését követő 15 napon belül – tájékoztatja az ingatlan fekvése szerint illetékes jegyzőt.
 
 ### Az ingatlan értékesítésének időpontja
 
-139. § (1) A végrehajtó a lefoglalt ingatlan értékesítése iránt a végrehajtást kérő kérelmére akkor intézkedhet, ha a 7. § (2) bekezdése szerint a követelés viszonylag rövidebb időn belüli behajtása másképpen nem lehetséges, és a végrehajtási jog bejegyzéséről szóló határozatnak a végrehajtó részére történt kézbesítésétől számított 45 nap vagy a 138/C. § szerinti – a jegyző által igazolt – bejelentéstől számított 60 nap eltelt.
+139. § (1) A végrehajtó a lefoglalt ingatlan értékesítése iránt a végrehajtást kérő kérelmére akkor intézkedhet, ha a 7. § (2) bekezdése szerint a követelés viszonylag rövidebb időn belüli behajtása másképpen nem lehetséges, és a végrehajtási jog bejegyzéséről szóló határozatnak a végrehajtó részére történt kézbesítésétől számított 45 nap vagy a 138/C. § szerinti tájékoztatástól számított 60 nap eltelt.
 
 (2) Ha a végrehajtási jog bejegyzéséről szóló határozatnak a végrehajtó részére történt kézbesítésétől számított 8 napon belül igénypert indítottak, az igényelt ingatlan értékesítése iránt az igényper jogerős befejezése után lehet intézkedni.
 
@@ -1889,7 +1889,7 @@ eredő követelések fejében vonható végrehajtás alá.
 - a) a lakás céljára létesített és az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott vagy ilyenként feltüntetésre váró ingatlant (tulajdoni illetőséget) a hozzá tartozó földrészlettel, ha arra használatbavételi engedélyt adtak ki,
 - b) az ingatlan-nyilvántartásban tanyaként feltüntetett lakó-, illetőleg gazdasági épületet, épületcsoportot és az azonos helyrajzi szám alatt hozzá tartozó föld együttesét.
 
-(5) A 138/C. § alkalmazásában lakóingatlan az ingatlan-nyilvántartásban üdülő rendeltetési jelleggel nyilvántartott ingatlan, ha az ingatlan címe megegyezik az adós lakóhely igazolására szolgáló személyazonosító okmányában megjelölt címmel és lakóhelye a végrehajtási eljárás megindítását megelőző 6 hónapban is ebben az ingatlanban volt.
+(5) A 138/C. §, a 139. § (1) bekezdés, valamint a 154/A. § (11) és (12) bekezdés alkalmazásában lakóingatlan az ingatlan-nyilvántartásban üdülő rendeltetési jelleggel nyilvántartott ingatlan, ha az ingatlan címe megegyezik az adós lakóhely igazolására szolgáló személyazonosító okmányában megjelölt címmel és lakóhelye a végrehajtási eljárás megindítását megelőző 6 hónapban is ebben az ingatlanban volt.
 
 148. §
 
@@ -1957,9 +1957,9 @@ eredő követelések fejében vonható végrehajtás alá.
 
 (10) Ha a kiköltözésre az (1) és (5) bekezdésben foglalt időpontig nem került sor az árverési vevő a kiköltözési határidő lejártát követő 15. napig kérelmezheti az ingatlan kiürítését.
 
-(11) Az árverési vevő köteles a 138/C. § szerinti igazolást kiállító jegyzőnél – ha a 138/C. § alapján a végrehajtást kérő nem tett bejelentést, akkor az ingatlan fekvése szerint illetékes jegyzőnél – bejelenteni, hogy az ingatlan kiürítésére irányuló kérelmet terjesztett elő, amelyről a jegyző 8 napon belül igazolást állít ki. Az igazolást az árverési vevő köteles megküldeni a végrehajtónak.
+(11) A végrehajtó köteles – a lakóingatlan kiürítésére irányuló kérelem részére történt kézbesítését követő 8 napon belül – tájékoztatni a lakóingatlan fekvése szerint illetékes jegyzőt arról, hogy az árverési vevő az ingatlan kiürítésére irányuló kérelmet terjesztett elő.
 
-(12) A végrehajtó az árverési vevő kérelmére – szükség esetén rendőrség közreműködésével – akkor intézkedik az ingatlan kiürítése iránt a 182. § és a 182/A. § megfelelő alkalmazásával, ha a (11) bekezdés szerinti, a jegyző által igazolt bejelentéstől számított 60 nap eltelt.
+(12) A végrehajtó az árverési vevő kérelmére – szükség esetén rendőrség közreműködésével – akkor intézkedik az ingatlan kiürítése iránt a 182. § és a 182/A. § megfelelő alkalmazásával, ha a (11) bekezdés szerint a jegyző részére megküldött tájékoztatástól 60 nap eltelt.
 
 (13) Az ingatlan kiürítése során a végrehajtást kérő jogai és kötelezettségei az árverési vevőt illetik meg, illetve terhelik.
 
@@ -4354,6 +4354,14 @@ a lakóingatlan kiürítését – a (3) bekezdésben foglalt kivétellel – a 
 (6) Ha a biztosíték összegéből a Kar hivatali szerve kifizetést teljesít, a kifizetett összegnek megfelelő összeget a végrehajtónak 30 napon belül be kell fizetnie a Kar számlájára, amiről a Kar hivatali szerve igazolást állít ki. A végrehajtó szolgálatának megszűnését követő 30. napig a biztosíték fel nem használt összegét a végrehajtó részére vissza kell fizetni, kivéve, ha vele szemben kártérítés megfizetésére irányuló eljárás vagy per van folyamatban, ebben az esetben az eljárás befejezését követő 30 napon belül kell a biztosíték megmaradt összegét visszafizetni részére.
 
 306/S. § (1) E törvénynek a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény, valamint a bírósági végrehajtásról szóló 1994. évi LIII. törvény módosításáról szóló 2015. évi CXCIII. törvénnyel (a továbbiakban: Módtv.5.) megállapított 80. és 81. §-át azokban a Módtv.5. hatálybalépésekor folyamatban lévő végrehajtási eljárásokban is alkalmazni kell, amelyben a Módtv.5. hatálybalépését megelőzően a bíróság még nem hozott átutalási végzést vagy az átutalási végzéssel szemben előterjesztett jogorvoslati kérelem elbírálására még nem került sor. Ha az átutalási végzést már kibocsátották és azzal szemben végrehajtás elrendelésével kapcsolatos jogorvoslatnak már nincs helye, az adós kérelmére a bíróság az átutalási végzést visszavonja és – kérelemre – végzéssel arra kötelezi a végrehajtást kérőt, hogy térítse vissza az adósnak az átutalási végzés végrehajtása során kapott összeget. A Módtv.5-tel megállapított 56/A. §-t a Módtv.5. hatálybalépésekor folyamatban lévő végrehajtási eljárásokban is alkalmazni kell.
+
+306/T. § (1) E törvénynek a közigazgatási bürokráciacsökkentés keretében egyes adminisztratív kötelezettségek megszüntetésével összefüggő törvénymódosításokról szóló szóló 2016. évi XXXII. törvénnyel (a továbbiakban: 2016. évi XXXII. törvény) megállapított 138/C. §-át a 2016. évi XXXII. törvény hatálybalépését követően megindított végrehajtási eljárásban lefoglalt lakóingatlanokra kell alkalmazni.
+
+(2) E törvénynek a 2016. évi XXXII. törvénnyel megállapított 139. § (1) bekezdését a 2016. évi XXXII. törvény hatályba lépését követően megindított végrehajtási eljárásban értékesített lakóingatlanokra kell alkalmazni.
+
+(3) E törvénynek a 2016. évi XXXII. törvénnyel megállapított 147. § (5) bekezdését a 2016. évi XXXII. törvény hatályba lépését követően megindított végrehajtási eljárásban lefoglalt, illetve értékesített, valamint azokra a lakóingatlanokra kell alkalmazni, amelyek kiürítését a 2016. évi XXXII. törvény hatályba lépését követően kérelmezték.
+
+(4) E törvénynek a 2016. évi XXXII. törvénnyel megállapított 154/A. § (11) és (12) bekezdését azokra a lakóingatlanokra kell alkalmazni, amelyek kiürítését a 2016. évi XXXII. törvény hatályba lépését követően kérelmezték.
 
 ### Felhatalmazás
 

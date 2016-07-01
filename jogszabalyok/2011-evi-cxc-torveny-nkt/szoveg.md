@@ -99,7 +99,7 @@ lehet,
 - 17. minősítési eljárás: a pedagógus teljesítményét értékelő eljárás, amely a magasabb fokozatba lépéséhez szükséges,
 - 18. működtető: az a települési önkormányzat, amely a saját tulajdonát képező ingatlanban folyó állami köznevelési feladatellátáshoz szükséges tárgyi feltételeket, továbbá a tárgyi feltételek rendelkezésre állásához szükséges személyi és pénzügyi feltételeket az e törvényben meghatározottak szerint biztosítja,
 - 19. nevelési év: az óvodában szeptember 1-jétől a következő év augusztus 31-éig tartó időszak,
-- 20. nevelőtestület: a nevelési-oktatási intézményben közalkalmazotti jogviszony, munkaviszony keretében pedagógus-munkakörben, valamint a felsőfokú végzettséggel rendelkező, nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatottak közössége,
+- 20. nevelőtestület: a nevelési-oktatási intézményben közalkalmazotti jogviszony, munkaviszony, egyházi szolgálati jogviszony keretében pedagógus-munkakörben, valamint a felsőfokú végzettséggel rendelkező, nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatottak közössége,
 - 21. óraadó: megbízási szerződés keretében legfeljebb heti tíz óra vagy foglalkozás megtartására alkalmazott pedagógus, oktató,
 - 22. országos feladat ellátása: országos feladatot lát el a köznevelési intézmény, ha a szolgáltatásait igénybe vevők legalább ötvenegy százaléka – feladatellátási helyenként külön-külön vizsgálva, leszámítva azt a megyét (fővárost), ahol a feladatellátási hely található – legkevesebb öt különböző megyéből (fővárosból) élők közül kerül ki, feltéve, hogy az adott feladatot ellátó, szolgáltatást nyújtó köznevelési intézményből legfeljebb három működik az országban; továbbá, ha nemzetiségi nevelés, oktatás feladatait látja el, vagy vallási, világnézeti tekintetben elkötelezett nevelést, oktatást folytat és az országban legfeljebb egy ilyen intézmény található, amelyik egy településen, a fővárosban egy kerületben működik,
 - 23. óvodai csoport, iskolai osztály, kollégiumi csoport: az a legalább egy nevelési évre, tanévre alkotott oktatásszervezési egység, amely meghatározott közös pedagógiai feladatok végrehajtására alakul az óvodába, iskolába, kollégiumba felvételt nyert, azonos feladatellátási helyre járó gyermekekből, tanulókból,
@@ -452,6 +452,8 @@ nyújtható.
 
 (4) A nyilvántartásba vétellel összefüggő költségeket a kérelem benyújtója viseli. A bejegyzett adatokban bekövetkezett változásokat – a (2) bekezdésben meghatározottak szerint – nyolc napon belül be kell jelenteni. A nyilvántartás fennálló és törölt adatai, továbbá az alapító okirat, szakmai alapdokumentum nyilvánosak, azokat bárki megtekintheti, azokról feljegyzést készíthet, valamint elektronikus úton is hozzáférhetők.
 
+(4a) A (4) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a kérelem benyújtója kéri – a (4) bekezdés szerinti határidőben értesíti költségvetési szerv esetén a törzskönyvi nyilvántartást vezető szervet, az állami intézményfenntartó központ és az állami felsőoktatási intézmény által fenntartott intézmény esetében a hivatalt, más esetben a köznevelési intézmény székhelye szerint illetékes fővárosi és megyei kormányhivatalt.
+
 (5) A nyilvántartás tartalmazza
 
 - a) a köznevelési intézmény
@@ -504,7 +506,7 @@ nyújtható.
 
 rendelkezik.
 
-(2) Állandó saját székhellyel, telephellyel akkor rendelkezik a köznevelési intézmény, ha a feladatai ellátásához szükséges, jogszabályban meghatározott helyiségek a 23. § (10) bekezdésben meghatározott kivétellel – határozatlan időre a kizárólagos használatában állnak. Állandó saját alkalmazotti létszámmal akkor rendelkezik a köznevelési intézmény, ha az alapfeladatának ellátásához szükséges számított alkalmazotti létszám legalább hetven százaléka határozatlan időre szóló munkaviszonyban vagy közalkalmazotti jogviszonyban áll. Többcélú intézmény esetén az állandó saját alkalmazotti létszám meglétét szervezetileg és szakmailag önálló intézményegységenként kell vizsgálni. A köznevelési intézmény feladatainak ellátásához szükséges eszközöket, felszereléseket a fenntartó, a működtető az intézmény rendelkezésére bocsátja, önálló költségvetéssel rendelkező intézmény a feladatainak ellátásáról az alapító, a fenntartó szerv által biztosított pénzeszköz, valamint egyéb bevételei alapján gondoskodik. A köznevelési intézmények fenntartási költségeit a fenntartó, működési költségeit a működtető által évente megállapított költségvetésben kell előirányozni.
+(2) Állandó saját székhellyel, telephellyel akkor rendelkezik a köznevelési intézmény, ha a feladatai ellátásához szükséges, jogszabályban meghatározott helyiségek a 23. § (10) bekezdésben meghatározott kivétellel – határozatlan időre a kizárólagos használatában állnak. Állandó saját alkalmazotti létszámmal akkor rendelkezik a köznevelési intézmény, ha az alapfeladatának ellátásához szükséges számított alkalmazotti létszám legalább hetven százaléka határozatlan időre szóló munkaviszonyban közalkalmazotti vagy egyházi szolgálati jogviszonyban áll. Többcélú intézmény esetén az állandó saját alkalmazotti létszám meglétét szervezetileg és szakmailag önálló intézményegységenként kell vizsgálni. A köznevelési intézmény feladatainak ellátásához szükséges eszközöket, felszereléseket a fenntartó, a működtető az intézmény rendelkezésére bocsátja, önálló költségvetéssel rendelkező intézmény a feladatainak ellátásáról az alapító, a fenntartó szerv által biztosított pénzeszköz, valamint egyéb bevételei alapján gondoskodik. A köznevelési intézmények fenntartási költségeit a fenntartó, működési költségeit a működtető által évente megállapított költségvetésben kell előirányozni.
 
 (3)
 
@@ -1029,7 +1031,7 @@ tartja nyilván.
 
 45. § (1) Magyarországon – az e törvényben meghatározottak szerint – minden gyermek köteles az intézményes nevelés-oktatásban részt venni, tankötelezettségét teljesíteni.
 
-(2) A gyermek abban az évben, amelynek augusztus 31. napjáig a hatodik életévét betölti, legkésőbb az azt követő évben tankötelessé válik. Az a gyermek, akinek esetében azt a szakértői bizottság javasolja, további egy nevelési évig az óvodában részesül ellátásban, és ezt követően válik tankötelessé. A tankötelezettség teljesítése a tanév első tanítási napján kezdődik. Ha a gyermek az iskolába lépéshez szükséges fejlettséget korábban eléri, a kormányhivatal a szülő kérelmére szakértői bizottság véleménye alapján engedélyezheti, hogy a gyermek hatéves kor előtt megkezdje tankötelezettségének teljesítését.
+(2) A gyermek abban az évben, amelynek augusztus 31. napjáig a hatodik életévét betölti, legkésőbb az azt követő évben tankötelessé válik. Az a gyermek, akinek esetében azt a szakértői bizottság javasolja, további egy nevelési évig az óvodában részesül ellátásban, és ezt követően válik tankötelessé. A tankötelezettség teljesítése a tanév első tanítási napján kezdődik. Ha a gyermek az iskolába lépéshez szükséges fejlettséget korábban eléri, a járási hivatal a szülő kérelmére szakértői bizottság véleménye alapján engedélyezheti, hogy a gyermek hatéves kor előtt megkezdje tankötelezettségének teljesítését.
 
 (3) A tankötelezettség annak a tanévnek a végéig tart, amelyben a tanuló a tizenhatodik életévét betölti. A sajátos nevelési igényű tanuló tankötelezettsége meghosszabbítható annak a tanítási évnek a végéig, amelyben a huszonharmadik életévét betölti. A tankötelezettség meghosszabbításáról a szakértői bizottság szakértői véleménye alapján az iskola igazgatója dönt.
 
@@ -1857,6 +1859,8 @@ foglalkoztatott tekintetében is.
 
 (11) Abban az esetben, ha a magasabb vezetői, vezetői megbízással rendelkező pedagógus helyettesítésének ideje eléri a tíz munkanapot, a helyettesítő pedagógus heti tanóráinak, foglalkozásainak számát az ellátott magasabb vezető, vezető beosztásra meghatározott óraszám alapján kell megállapítani.
 
+(12) Az üzemi baleset megállapíthatósága szempontjából a pedagógusok minősítő vizsgáján vagy a minősítési eljárásban, az országos pedagógiai szakmai ellenőrzésben, a pedagógiai szakmai szolgáltatási feladatokban a hivatal felkérése alapján résztvevő – nyugdíjasnak nem minősülő – szakértő vagy szaktanácsadó e tevékenysége a foglalkozása körében történő munkavégzésnek minősül.
+
 #### 37. A köznevelésben történő alkalmazás feltételei
 
 66. § (1) A köznevelésben az alkalmazás feltétele, hogy az alkalmazott, a megbízási jogviszonyban foglalkoztatott
@@ -2331,7 +2335,7 @@ véleményét.
 
 kapcsolatban.
 
-(8)
+(8) A köznevelési intézmény fenntartója az intézkedés tervezett végrehajtása éve februárjának utolsó munkanapjáig kezdeményezheti egy másik köznevelési intézmény fenntartójánál, hogy az általa fenntartott intézmény fenntartói jogait és kötelezettségeit a következő tanévtől adja át.
 
 (9) Ha a nevelési-oktatási intézmény alapító okirata, szakmai alapdokumentuma tartalmazza a nemzetiségi nevelési-oktatási feladat ellátását, feltéve, hogy e feladatot az intézmény ténylegesen ellátja, akkor a települési önkormányzat, az állami fenntartó az intézmény
 
@@ -2350,6 +2354,53 @@ kapcsolatban.
 (3) A fenntartó a honlapján, annak hiányában a helyben szokásos módon nyilvánosságra hozza a nevelési-oktatási intézmény munkájával összefüggő értékelését.
 
 (4) A fenntartó kötelezettségeinek teljesítése, jogainak gyakorlása nem sértheti a nevelési-oktatási intézmény szakmai önállóságát, az intézmény szakmai döntési hatásköreit, a köznevelési intézmény vezetőjének munkáltatói jogait, döntési jogosítványait, beleértve a gazdasági vezető feletti munkáltatói jogokat.
+
+85/A. § (1) Ha a fenntartóváltás következményeként a munkavállaló a közalkalmazottak jogállásáról szóló törvény hatálya alá tartozó átvevő költségvetési szervhez kerül, a munkaviszonya – a (2) bekezdésben foglalt kivétellel – a fenntartói jog átszállásának időpontjában közalkalmazotti jogviszonnyá alakul át.
+
+(2) Az (1) bekezdésben foglaltaktól eltérően nem alakul át a munkaviszony, ha
+
+- a) az átvevő költségvetési szerv a közalkalmazottak jogállásáról szóló törvény rendelkezései alapján nem létesíthet közalkalmazotti jogviszonyt az átadással érintett munkavállalóval,
+- b) a munkavállalóval szemben a közalkalmazottak jogállásáról szóló törvény vagy e törvény alapján összeférhetetlenség áll fenn, kivéve, ha az összeférhetetlenséget kiváltó ok megszüntethető, és ennek érdekében a munkavállaló legfeljebb a (9) bekezdésben foglalt időpontig intézkedik, és ezt igazolja,
+- c) a fenntartói jog átszállásának időpontja előtt a munkaviszony megszüntetéséről a munkáltató vagy a munkavállaló egyoldalú jognyilatkozatot tett vagy erről megállapodott,
+- d) e törvény értelmében a köznevelési intézmény működtetése a települési önkormányzat kötelező feladata, a köznevelési intézmény működtetésével összefüggő munkakörben foglalkoztatott munkavállalók esetében, vagy
+- e) a munkavállaló az (6) bekezdés alapján továbbfoglalkoztatásához nem járul hozzá.
+
+(3) A (2) bekezdés
+
+- a) a)–b), valamint e) pontjában foglalt esetben a munkaviszony a fenntartói jog átszállásának időpontjában a munka törvénykönyvéről szóló 2012. évi I. törvény 63. § (3) bekezdése alapján megszűnik,
+- b) c) pontjában foglalt esetben a munkaviszony az egyoldalú jognyilatkozatban vagy megállapodásban foglalt időpontban, az abban szereplő feltételek mellett szűnik meg,
+- c) d) pontjában foglalt esetben a működtetés körében foglalkoztatott munkavállalók munkaviszonyára – a működtetés feladatát ellátó önkormányzat az átvevő munkáltató kijelöléséről szóló döntése alapján, az átvevő munkáltatóra vonatkozó törvénytől függően – a Munka Törvénykönyvének a munkáltató személyében bekövetkező változásra vonatkozó szabályait vagy az e § rendelkezéseit kell alkalmazni.
+
+(4) Az átvevő költségvetési szerv a fenntartói jog átszállásáról és ennek munkaviszonyukat érintő következményeiről a munkavállalókat a fenntartói jog átszállásának időpontját megelőző legalább tizenöt napon belül tájékoztatja. Ha az átvevő költségvetési szerv megalapítására ezen időpontig nem kerül sor, a tájékoztatási kötelezettség az átvevő költségvetési szerv fenntartóját terheli.
+
+(5) A tájékoztatásnak tartalmaznia kell a további foglalkoztatást biztosító kinevezés következő tartalmi elemeire vonatkozó ajánlatot:
+
+- a) az átvevő költségvetési szerv személye,
+- b) a munkavégzés helye,
+- c) a besorolás és illetmény összege.
+
+(6) A munkavállaló a tájékoztatás alapján a fenntartói jog átszállásának időpontjáig nyilatkozik arról, hogy további foglalkoztatásához hozzájárul, vagy azt elutasítja.
+
+(7) Ha a munkaviszony
+
+- a) határozatlan időtartamú volt, akkor határozatlan időtartamú, ha határozott időtartamú volt, akkor a munkaszerződés szerinti időpontig tartó határozott időtartamú,
+- b) teljes munkaidőben történő foglalkoztatásra szólt, akkor teljes munkaidős, részmunkaidőben történő foglalkoztatás esetén részmunkaidős
+
+közalkalmazotti jogviszonnyá alakul át.
+
+(8) Az átvevő munkáltatónál létesítendő közalkalmazotti jogviszony tekintetében próbaidő nem köthető ki.
+
+(9) A fenntartói jog átszállásának időpontját követő tizenöt napon belül a munkavállalót a fenntartói jog átszállásának időpontjával e törvény vagy a közalkalmazottak jogállásáról szóló törvény szerint be kell sorolni, és illetményét meg kell állapítani.
+
+(10) Ha a munkavállaló a kinevezést – korábbi további foglalkoztatására vonatkozó jognyilatkozatával ellentétesen – nem írja alá, nem adja hozzájárulását további foglalkoztatásához, vagy a nyilatkozattételt elmulasztja, munkaviszonyát a (2) bekezdés a) pontjában foglaltak alapján megszűntnek kell tekinteni, a munkaviszony megszűnésével összefüggő igazolásokat a (9) bekezdés szerinti határidőt követő öt munkanapon belül ki kell adni.
+
+(11) A munkavállaló munkaköre a fenntartói jog átszállása miatt nem változik. A munkaviszonyban álló vezető jogviszonyának átalakulását követően – e törvény és a közalkalmazottak jogállásáról szóló törvény rendelkezéseinek figyelembevételével – kell a vezetői munkakör szintjét és megnevezését megállapítani.
+
+(12) A munkavállaló a fenntartói jog átszállásával közalkalmazotti jogviszonnyá átalakult korábbi munkaviszonyát – a jubileumi jutalomra jogosító idő számítása kivételével – az átvevő költségvetési szervnél a közalkalmazottak jogállásáról szóló törvény szerint kell közalkalmazotti jogviszonyban töltött időként elismerni.
+
+(13) A munkáltatónál hatályos kollektív szerződés a fenntartóváltás időpontjában hatályát veszti, vagy – részleges fenntartói jog átszállás esetén – az átvevő költségvetési szervhez át nem kerülő munkavállalókra kiterjedően marad hatályban.
+
+(14) A munkáltatónál működő üzemi tanács a fenntartói jog átszállásának időpontjában megszűnik.
 
 #### 49. A köznevelési intézmény ellenőrzése
 
@@ -2803,6 +2854,28 @@ kell 2016. szeptember 1-jétől kifutó jelleggel megszervezni.
 (6) Ha a szakközépiskolai vagy szakiskolai nevelési-oktatási alapfeladatot ellátó köznevelési intézmény, többcélú intézmény fenntartói jogának az állami intézményfenntartó központtól a szakképzésért és felnőttképzésért felelős miniszter számára 2015. július 1-jével történő átadása miatt az állami intézményfenntartó központ fenntartásában maradó köznevelési intézményt, többcélú intézményt át kell szervezni, és az átszervezés miatt vagy azért, mert az intézményvezetői megbízás lejár, új intézményvezető megbízása válik szükségessé, az oktatásért felelős miniszter pályázat nélkül adhat legfeljebb egy évre szóló intézményvezetői megbízást az e törvényben az intézményvezetői megbízásra előírt feltételeknek megfelelő személynek az állami intézményfenntartó központ fenntartásában maradó, átszervezett köznevelési intézmény, többcélú intézmény vezetésére.
 
 99/E. § 2017. szeptember 1-jétől egységes óvoda-bölcsőde nem működhet. Az egységes óvoda-bölcsődében ellátott gyermekek 2017. szeptember 1-jétől – az életkoruknak megfelelően – óvodában, vagy a gyermekjóléti alapellátás keretében megszervezett gyermekek napközbeni ellátását biztosító intézményben vagy ilyen feladatot ellátó többcélú intézményben láthatók el.
+
+99/F. § 2016. szeptember 1. napját követően a fenntartó négy hónapon belül felülvizsgálja a készségfejlesztő speciális szakiskola alapító okiratát, szakmai alapdokumentumát annak érdekében, hogy megfeleljen az e törvényben foglaltaknak, és megküldi a törzskönyvi nyilvántartást vezető szervnek, a hivatalnak vagy a kormányhivatalnak. Ha a köznevelési intézmény a nyilvántartásba vételét követően megkezdhette működését és e törvény szerint működési engedéllyel kell rendelkeznie, a fenntartó köteles 2017. április 30-ig a működési engedély módosítása iránti kérelmet benyújtani vagy a közoktatási intézményt megszüntetni. A készségfejlesztő iskolai nevelés-oktatás 13/B. § szerinti ellátása 2017. szeptember 1-jétől kötelező. A készségfejlesztő iskolában a készségfejlesztő speciális szakiskolai oktatást 2016. szeptember 1-jétől kifutó jelleggel kell megszervezni.
+
+99/G. § (1) A tankerületi központ által fenntartott, települési önkormányzat által működtetett köznevelési intézmény 76. §-ban meghatározott működtetésével kapcsolatos jogviszonyokból származó jogok és kötelezettségek a tankerületi központot 2017. január 1-jétől illetik meg, illetve terhelik.
+
+(2) 2017. január 1-jével a tankerületi központ foglalkoztatotti állományába kerülnek a működtető önkormányzat által irányított költségvetési szervnél a tankerületi központ által fenntartott köznevelési intézmény működtetését és a működtetéshez kapcsolódó funkcionális feladatokat ellátó köztisztviselők, közalkalmazottak, munkavállalók, ha – a munkaviszonyban foglalkoztatottak kivételével – megfelelnek a 2016. december 31-én betöltött munkakörükre vonatkozóan a közszolgálati tisztviselőkről szóló törvényben, a közalkalmazottak jogállásáról szóló törvényben és végrehajtási rendeleteikben meghatározott képesítési előírásoknak.
+
+99/H. § (1) A 2016. december 31-én települési önkormányzat által működtetett köznevelési intézmény köznevelési feladatainak ellátását szolgáló mindazon települési önkormányzati vagyon és vagyoni értékű jog (a továbbiakban: vagyon) leltár szerint 2017. január 1-jén a területileg illetékes tankerületi központ ingyenes vagyonkezelésébe kerül. A köznevelési feladat ellátását biztosító vagyon alatt az ellátott köznevelési feladathoz kapcsolódó valamennyi jogot és kötelezettséget, valamint ingó és ingatlan vagyont is érteni kell.
+
+(2) A tankerületi központ és a működtető települési önkormányzat az átvételhez kapcsolódó intézkedések végrehajtása során kölcsönösen együttműködve járnak el.
+
+(3) Az átadás-átvételt a működtető települési önkormányzat képviseletére jogosult személy (a továbbiakban: átadó) és a tankerületi központ képviseletében eljáró, az intézmény székhelye szerint illetékes tankerületi igazgató megállapodásának (a továbbiakban: megállapodás) legkésőbb 2016. december 15-éig történő megkötésével kell végrehajtani.
+
+(4) Ha a felek között a (3) bekezdésben megjelölt határidőig nem jön létre vagy nem teljeskörűen jön létre a megállapodás, az oktatásért felelős miniszter 2016. december 20. napjáig határozattal létrehozza a megállapodást, illetve határozattal dönt a megállapodásban nem rendezett kérdésekről. A határozat ellen fellebbezésnek nincs helye. A határozat a bírósági felülvizsgálatra tekintet nélkül végrehajtható.
+
+(5) A (4) bekezdés szerinti közigazgatási határozattal (a továbbiakban: közigazgatási határozat) szemben bírósági felülvizsgálatnak van helye. A bíróság a felülvizsgálati kérelemről peres eljárásban határoz, az eljárásra – a (6) és (7) bekezdésben foglalt eltérésekkel – a polgári perrendtartásról szóló 1952. évi III. törvény XX. Fejezetének rendelkezéseit kell alkalmazni.
+
+(6) A közigazgatási határozat végrehajtása felfüggesztésének nincs helye. A bíróság a perben soron kívül jár el. A bíróság a közigazgatási határozatot megváltoztathatja.
+
+(7) Ha a közigazgatási határozattal szembeni felülvizsgálati kérelem benyújtását követően, de a bíróság döntését megelőzően a felek a megállapodást megkötik, az oktatásért felelős miniszter a megállapodás megkötését követően a közigazgatási határozatot visszavonja, és erről a bíróságot haladéktalanul írásban értesíti. A közigazgatási határozat visszavonása esetén a bíróság a pert megszünteti.
+
+99/I. § Az állami intézményfenntartó központ, illetve a tankerületi központ jogi személyiséggel rendelkező szervezeti egységeit a közbeszerzés becsült értékének meghatározására vonatkozó szabályok alkalmazásakor gazdasági szervezettel és önálló működési költségvetéssel rendelkező szervezeti egységnek kell tekinteni.
 
 #### 55. Az Európai Unió jogának való megfelelés
 

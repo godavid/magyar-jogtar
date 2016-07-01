@@ -131,6 +131,8 @@ azzal, hogy a külföldi pénznemben keletkezett bevételét a Magyar Nemzeti Ba
 
 (5) Az (1) és (3) bekezdés alapján bejelentett adatok, tények megváltozását (ide nem értve a kisadózó címének változását) a kisadózó vállalkozás köteles az állami adóhatósághoz a változást követő 15 napon belül bejelenteni.
 
+(5a) Az (5) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a kisadózó vállalkozás kéri – az (5) bekezdésben meghatározott határidőn belül értesíti az állami adóhatóságot.
+
 (6) Az (5) bekezdés szerinti változás bejelentése esetén az állami adóhatóság a megváltozott adatokról a 4. § (5) bekezdés szerint tájékoztatja a kisadózó vállalkozást.
 
 #### 4. A kisadózó vállalkozások tételes adójának mértéke és megfizetése

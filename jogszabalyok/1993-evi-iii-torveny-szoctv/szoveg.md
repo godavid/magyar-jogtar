@@ -2935,7 +2935,7 @@ járul hozzá.
 - l) a rehabilitációs intézményekben elhelyezettek utógondozási feladatainak részletes szabályait;
 - m) a szociális foglalkoztatás engedélyezésének és ellenőrzésének, valamint a szociális foglalkoztatási támogatás igénylésének és a támogatás felhasználása ellenőrzésének szabályait,
 - n) a szociális hatóság és a szociális szakértői szerv kijelölését;
-- o)
+- o) az idősek otthonában nyújtott tartós szakápolás igénybevételének módját és annak egyéb feltételeit,
 - p) a szenvedélybetegek részére nyújtott alacsonyküszöbű ellátás és az utcai szociális munka finanszírozásának rendjére vonatkozó részletes szabályokat;
 - q) a személyes gondoskodás igénybevételével kapcsolatos eljárásokban közreműködő szakértőkre, szakértői szervekre vonatkozó részletes szabályokat;
 - r) a szociális intézményekben ellátott személyek állapotának felülvizsgálatára, a rehabilitációs alkalmassági vizsgálatra, a fogyatékos személyek alapvizsgálatára, valamint a komplex szükségletfelmérésre vonatkozó szabályokat;

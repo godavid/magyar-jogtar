@@ -390,7 +390,7 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
   - aa) ha ezen megbízatás keretében tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenységet lát el, illetve nevelőszülői foglalkoztatási jogviszonyban áll;
   - ab) egészségügyi intézmény főigazgatója, gazdasági vezetője, orvos, egészségügyi dolgozó, köznevelési intézmény vezetője, foglalkoztatottja, szociális intézmény vezetője, foglalkoztatottja, gyermekjóléti és gyermekvédelmi intézmény vezetője, foglalkoztatottja;
 - b) központi államigazgatási szerv vezetője, köztisztviselője;
-- c) kormánytisztviselő olyan államigazgatási szervnél, amelynek illetékességi területén az adott önkormányzat működik;
+- c) állami tisztviselő, kormánytisztviselő olyan államigazgatási szervnél, amelynek illetékességi területén az adott önkormányzat működik;
 - d) a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat hivatásos vagy szerződéses állományú tagja, rendvédelmi szerv, az Országgyűlési Őrség vagy a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja;
 - e) jegyző (főjegyző), aljegyző, továbbá ugyanazon önkormányzat polgármesteri hivatalának vagy közös önkormányzati hivatalának köztisztviselője, alkalmazottja;
 - f) más települési önkormányzatnál képviselő;
@@ -1181,7 +1181,13 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 113. § A helyi önkormányzat költségvetési, a költségvetés teljesítési és szakmai tevékenységének bemutatására, értékelésére vonatkozó adatainak jogszabályban meghatározott körét a jegyző legalább évente a helyben szokásos módon közzéteszi.
 
-114. § A helyi önkormányzat a pénzügyi, ügyviteli, ügyintézési és egyéb alapvető feladatok egységes szabályok szerinti elvégzését, átláthatóságát biztosító – az állami informatikai rendszerrel összekapcsolható – informatikai rendszert működtet, mely a folyamatos pénzügyi állami ellenőrzés eszközeként is szolgál. A rendszerben kötelezően nyilvántartandó adatok körét jogszabály határozza meg.
+114. § (1) A helyi önkormányzat a pénzügyi, ügyviteli, ügyintézési és egyéb alapvető feladatok egységes szabályok szerinti elvégzését, átláthatóságát biztosító – az állami informatikai rendszerrel összekapcsolható – informatikai rendszert működtet, amely a folyamatos pénzügyi állami ellenőrzés eszközeként is szolgál.
+
+(2) A helyi önkormányzat – egyes kötelező feladatainak informatikai támogatása céljából – csatlakozik a helyi önkormányzatok feladatellátását támogató, számítástechnikai hálózaton keresztül távoli alkalmazásszolgáltatást nyújtó, az állam által biztosított, elektronikus információs rendszerhez (a továbbiakban: önkormányzati ASP rendszer). A csatlakozás módját, végső határidejét és az önkormányzati ASP rendszer szakrendszereit kormányrendelet határozza meg.
+
+(3) A helyi önkormányzat az önkormányzati ASP rendszer által biztosított szakrendszeri feladatainak informatikai támogatására szerződést a csatlakozás végső időpontját követő időtartamra nem köthet.
+
+(4) A Kormány rendeletében kijelölt szerv az önkormányzati eladósodási folyamatok megindulásának felismerése és megakadályozása, a közpénzek önkormányzati felhasználása, a feladatfinanszírozás és a likviditási helyzet folyamatos nyomon követése céljából, a helyi önkormányzat gazdálkodási feladatainak támogatása és a folyamatos állami pénzügyi ellenőrzés feltételeinek biztosítása érdekében adattárházat (a továbbiakban: önkormányzati adattárház) üzemeltet.
 
 115. § (1) A helyi önkormányzat gazdálkodásának biztonságáért a képviselő-testület, a gazdálkodás szabályszerűségéért a polgármester felelős.
 
@@ -1484,7 +1490,8 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 - d) a 16. §-ban meghatározott esetekben az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő beruházás megvalósítása érdekében szükséges intézkedéseket, valamint a Kormány által kijelölt miniszter részére, a beruházások figyelemmel kísérésével kapcsolatos feladata ellátásához – a személyes adatok kivételével – rendelkezésre bocsátandó adatok, valamint az adatszolgáltatásra kötelezett szervezetek körét, az adatszolgáltatás gyakoriságát, továbbá az adatok nyilvántartásának vezetésére vonatkozó részletes szabályokat;
 - e) a helyi önkormányzatok törvényességi felügyeletének részletes szabályait;
 - f) a helyi önkormányzat tulajdonában lévő társasági részesedés vagy ingatlan cseréje esetén a csereügylet kormányhivatal általi jóváhagyására vonatkozó részletes eljárási szabályokat;
-- g) a 14/A. § (2) bekezdés b) pontjában foglalt – ennek keretében a közterületek elnevezésénél használható közterületjellegekre vonatkozó – követelményeket és a 14/A. § (2) bekezdés c) pontja szerinti technikai feltételeket.
+- g) a 14/A. § (2) bekezdés b) pontjában foglalt – ennek keretében a közterületek elnevezésénél használható közterületjellegekre vonatkozó – követelményeket és a 14/A. § (2) bekezdés c) pontja szerinti technikai feltételeket;
+- h) az önkormányzati ASP rendszerhez való csatlakozás módját, a csatlakozás végső határidejét, az önkormányzati ASP rendszer szakrendszereit, az önkormányzati adattárházat működtető szervet, az önkormányzati adattár adatainak forrását és az önkormányzati adattárházból történő adatlekérdezés, adatösszegzés és adatszolgáltatás feltételeit.
 
 (2) Felhatalmazást kap a helyi önkormányzatok törvényességi felügyeletéért felelős miniszter, hogy az önkormányzati rendeletnek és a jegyzőkönyvnek a kormányhivatal részére történő megküldése rendjét rendeletben szabályozza.
 
@@ -1514,7 +1521,7 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 
 ### Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-145. § (1) E törvény 1–83. §-ai, a 84. § (1)–(4) bekezdése, a 85–109. §-ai, a 125–144. §-ai, valamint a 146. § az Alaptörvény 31. cikk (3) bekezdése alapján sarkalatosnak minősülnek.
+145. § (1) Az 1–83. §, a 84. § (1)–(4) bekezdése, a 85–109. §, a 125–142. §, a 143. § (1) bekezdés a)–g) pontja, a 143. § (2)–(4) bekezdése, a 144. §, valamint a 146. § az Alaptörvény 31. cikk (3) bekezdése alapján sarkalatosnak minősül.
 
 (2) E törvény 42. § 16. és 17. pontja, 108. §-a, valamint 143. § (1) bekezdésének f) pontja az Alaptörvény 38. cikk (1) bekezdése alapján is sarkalatosnak minősül.
 
@@ -1526,7 +1533,18 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 
 146/A. § E törvénynek a központi címregiszter létrehozásával összefüggő, valamint egyes igazgatási tárgyú törvények módosításáról szóló 2014. évi XCIII. törvénnyel megállapított 14/A. § (2)–(4) bekezdésében foglaltakat a 2015. január 1-jét követően elnevezett közterületek esetében kell alkalmazni.
 
-#### 146/B. §
+146/B. § (1) Az önkormányzati ASP rendszerhez való csatlakozás 114. § (2) bekezdése szerinti végső határideje nem lehet korábbi, mint a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosításáról szóló 2016. évi LIV. törvény felhatalmazása alapján megalkotott, a csatlakozás végső határidejét szabályozó kormányrendelet hatálybalépését követő 90. nap.
+
+(2) Új szerződést a 114. § (2) bekezdése szerinti szakrendszerek által támogatott feladatok informatikai támogatására az önkormányzat csak az ASP rendszerhez történő csatlakozás időpontjáig terjedő időtartamra köthet, kivéve, ha a csatlakozás módját kormányrendelet úgy határozza meg, hogy az a szerződés hatályban tartása mellett is lehetséges.
+
+(3) Az önkormányzat a 114. § (2) bekezdése szerinti szakrendszerek által támogatott feladatok informatikai támogatására kötött szerződéseit a szakrendszereket meghatározó kormányrendelet kihirdetését követően haladéktalanul felülvizsgálja.
+
+(4) A (3) bekezdés szerinti felülvizsgálattal érintett szerződést az önkormányzat
+
+- a) legfeljebb a csatlakozás végső határidejéig hosszabbíthatja meg,
+- b) úgy módosítja, hogy az ASP rendszerhez történő csatlakozás időpontjára a szerződés felmondható, vagy a csatlakozás kormányrendeletben meghatározott módon megvalósítható legyen.
+
+(5) Ha a (3) bekezdés szerinti felülvizsgálattal érintett szerződésnek a (4) bekezdés b) pontja szerinti módosítása nem lehetséges, a szerződésnek az ASP rendszerhez történő csatlakozás időpontjára történő felmondásából adódó, az önkormányzatot terhelő, jogerős bírósági döntésben megítélt összeg erejéig az állam az önkormányzatot utólag kártalanítja.
 
 #### 146/C. §
 

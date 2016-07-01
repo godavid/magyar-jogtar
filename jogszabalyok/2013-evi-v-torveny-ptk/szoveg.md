@@ -451,7 +451,7 @@ Ha a körülmények az előzetes jognyilatkozatot tevő személy cselekvőképes
 
 #### 2:42. § [A személyiségi jogok általános védelme]
 
-(1) Mindenkinek joga van ahhoz, hogy törvény és mások jogainak korlátai között személyiségét szabadon érvényesíthesse, és hogy abban őt senki ne gátolja.
+(1) Mindenkinek joga van ahhoz, hogy törvény és mások jogainak korlátai között személyiségét, így különösen a magán- és családi élet, az otthon, a másokkal való – bármilyen módon, illetve eszközzel történő – kapcsolattartás és a jóhírnév tiszteletben tartásához való jogát szabadon érvényesíthesse, és hogy abban őt senki ne gátolja.
 
 (2) Az emberi méltóságot és az abból fakadó személyiségi jogokat mindenki köteles tiszteletben tartani. A személyiségi jogok e törvény védelme alatt állnak.
 
@@ -781,7 +781,9 @@ Ha e törvény jogi személyre vonatkozó szabálya közzétételi kötelezetts�
 
 #### 3:24. § [A vezető tisztségviselő felelőssége]
 
-A vezető tisztségviselő az ügyvezetési tevékenysége során a jogi személynek okozott károkért a szerződésszegéssel okozott kárért való felelősség szabályai szerint felel a jogi személlyel szemben.
+(1) A vezető tisztségviselő az ügyvezetési tevékenysége során a jogi személynek okozott károkért a szerződésszegéssel okozott kárért való felelősség szabályai szerint felel a jogi személlyel szemben.
+
+(2) A vezető tisztségviselő által e jogkörében eljárva harmadik személynek okozott károkért a jogi személy felel. A vezető tisztségviselő a jogi személlyel egyetemlegesen felel, ha a kárt szándékosan okozta.
 
 #### 3:25. § [A vezető tisztségviselői megbízatás megszűnése]
 
@@ -2078,7 +2080,7 @@ esetén osztható fel.
 (1) A taggyűlés két, egymást követő beszámoló elfogadása közötti időszakban osztalékelőleg fizetéséről határozhat, ha
 
 - a) közbenső mérleg alapján megállapítható, hogy a társaság rendelkezik osztalék fizetéséhez szükséges fedezettel;
-- b) a kifizetés nem haladja meg az utolsó beszámoló szerinti üzleti év könyveinek lezárása óta kimutatott, az előző üzleti évi adózott eredménnyel kiegészített szabad eredménytartalék összegét; és
+- b) a kifizetés nem haladja meg a közbenső mérlegben kimutatott adózott eredménnyel kiegészített szabad eredménytartalék összegét; és
 - c) a társaságnak a helyesbített saját tőkéje a kifizetés folytán nem csökken a törzstőke összege alá.
 
 (2) Osztalékelőleg fizetésére az ügyvezető tesz javaslatot. Ha a társaságnál felügyelőbizottság működik, az ügyvezető javaslatához a felügyelőbizottság jóváhagyása szükséges.
@@ -2370,7 +2372,7 @@ A részvénytársaság olyan gazdasági társaság, amely előre meghatározott 
 
 (1) A részvények forgalomba hozatala zártkörűen vagy nyilvánosan történhet.
 
-(2) Zártkörűen működő részvénytársaság részvényei nyilvánosan nem hozhatók forgalomba.
+(2) Zártkörűen működő részvénytársaság részvényei – a részvénytársaság működési formájának megváltoztatásához kapcsolódó forgalomba hozatalt kivéve – nyilvánosan nem hozhatók forgalomba.
 
 #### 3:219. § [A részvényátruházás korlátozása]
 
@@ -2745,7 +2747,7 @@ A részvényes jogosult a közgyűlésen részt venni, felvilágosítást kérni
 (1) A közgyűlés vagy az alapszabály felhatalmazása alapján az igazgatóság két, egymást követő beszámoló elfogadása közötti időszakban osztalékelőleg fizetéséről határozhat, ha
 
 - a) a közbenső mérleg alapján megállapítható, hogy a társaság rendelkezik osztalék fizetéséhez szükséges fedezettel;
-- b) a kifizetés nem haladja meg az utolsó beszámoló szerinti üzleti év könyveinek lezárása óta kimutatott, az előző üzleti évi adózott eredménnyel kiegészített szabad eredménytartalék összegét; és
+- b) a kifizetés nem haladja meg a közbenső mérlegben kimutatott adózott eredménnyel kiegészített szabad eredménytartalék összegét; és
 - c) a társaságnak a helyesbített saját tőkéje a kifizetés folytán nem csökken az alaptőke összege alá.
 
 (2) Osztalékelőleg fizetéséről az igazgatóság javaslata alapján lehet határozni. Ha a társaságnál felügyelőbizottság működik, az igazgatóság javaslatához a felügyelőbizottság jóváhagyása szükséges.
@@ -5678,7 +5680,7 @@ Ha e törvény eltérően nem rendelkezik, nem köteles mást eltartani, aki ez�
 
 (1) A tartási kötelezettség - ha e törvény eltérően nem rendelkezik - az egyenesági rokonokat terheli egymással szemben.
 
-(2) Tartási kötelezettsége áll fenn elsősorban a szülőnek a gyermekével és a gyermeknek a szülőjével szemben.
+(2) Tartási kötelezettsége áll fenn elsősorban a szülőnek a gyermekével és a nagykorú gyermeknek a rászoruló szülőjével szemben.
 
 (3) Ha a tartásra jogosult gyermeknek tartásra kötelezhető szülője nincs, eltartása távolabbi felmenőire hárul.
 
@@ -5766,6 +5768,8 @@ A tartásdíjat határozott összegben kell meghatározni. A bíróság ítélet
 #### 4:208. § [Tartással kapcsolatos per]
 
 (1) A kiskorút illető tartás iránt a kiskorú érdekében a gyámhatóság, a szülőt illető tartás iránt a szülő érdekében - egyetértésével - a járási hivatal is indíthat pert.
+
+(1a) Aki a tartásra rászorult szülő szükségleteinek ellátásáról a tartásra köteles gyermek helyett anélkül gondoskodik, hogy erre jogszabály vagy szerződés rendelkezése alapján köteles lenne, az indokoltan nyújtott ellátás ellenértékének megtérítését az ellátás nyújtásától számított egyéves jogvesztő határidőn belül követelheti a tartásra kötelezhető gyermektől.
 
 (2) Az a tartásra kötelezett rokon, aki a jogosult tartásáról maga gondoskodik vagy őt gondozza, a többi kötelezett ellen saját jogán pert indíthat.
 
@@ -7673,6 +7677,8 @@ A kötelem megszűnik
 
 (4) Írni nem tudó vagy nem képes személy írásbeli jognyilatkozata abban az esetben érvényes, ha azt közokirat vagy olyan teljes bizonyító erejű magánokirat tartalmazza, amelyen a nyilatkozó fél aláírását vagy kézjegyét bíróság vagy közjegyző hitelesíti, vagy amelyen ügyvéd ellenjegyzéssel vagy két tanú aláírással igazolja, hogy a nyilatkozó fél a nem általa írt okiratot előttük írta alá vagy látta el kézjegyével, vagy az okiraton lévő aláírást vagy kézjegyet előttük saját aláírásának vagy kézjegyének ismerte el. Az olvasni nem tudó, továbbá az olyan személy esetén, aki nem érti azt a nyelvet, amelyen az írásbeli nyilatkozatát tartalmazó okirat készült, az írásbeli jognyilatkozat érvényességének további feltétele, hogy magából az okiratból kitűnjön, hogy annak tartalmát a tanúk egyike vagy a hitelesítő személy a nyilatkozó félnek megmagyarázta.
 
+(5) A (4) bekezdésen alapuló érvénytelenségre csak a nyilatkozattevő személy érdekében lehet hivatkozni.
+
 #### 6:8. § [A jognyilatkozat értelmezése]
 
 (1) A jognyilatkozatot vita esetén úgy kell értelmezni, ahogyan azt a címzettnek a nyilatkozó feltehető akaratára és az eset körülményeire tekintettel a szavak általánosan elfogadott jelentése szerint értenie kellett.
@@ -8393,7 +8399,7 @@ Ha a szerződő fél a szerződés megkötésekor a másik fél helyzetének kih
 
 #### 6:99. § [Fiduciárius hitelbiztosítékok semmissége]
 
-Semmis az a kikötés, amely - a pénzügyi biztosítékokról szóló irányelvben meghatározott biztosítéki megállapodások kivételével - pénzkövetelés biztosítása céljából tulajdonjog, más jog vagy követelés átruházására, vételi jog alapítására irányul.
+Semmis az a kikötés, amelyben fogyasztó követelés biztosítása céljából tulajdonjog, más jog vagy követelés átruházására vagy vételi jog alapítására vállal kötelezettséget.
 
 #### 6:100. § [Fogyasztói jogot csorbító feltétel]
 
@@ -9259,13 +9265,17 @@ Ha a tartozás jogszabály rendelkezése alapján száll át másra, a tartozás
 
 (2) A szerződésbe belépő felet megilletik mindazon jogok, és terhelik mindazon kötelezettségek, amelyek a szerződésből kilépő felet a szerződésben maradó féllel szemben a szerződés alapján megillették és terhelték. A szerződésbe belépő fél nem jogosult beszámítani a szerződésből kilépő félnek a szerződésben maradó féllel szemben fennálló egyéb követelését. A szerződésben maradó fél nem jogosult beszámítani a szerződésből kilépő féllel szemben fennálló egyéb követelését.
 
-(3) A szerződésátruházással a szerződés biztosítékai megszűnnek. A zálogkötelezett hozzájárulása esetén az új zálogjog az eredeti zálogjog ranghelyén jön létre.
+(3) A szerződésbe belépő félre átszálló jogosultság biztosítéka fennmarad. A szerződésbe belépő félre átszálló kötelezettség teljesítésének biztosítéka megszűnik, kivéve, ha a biztosíték kötelezettje a szerződésátruházáshoz hozzájárul.
 
 #### 6:209. § [Előzetes hozzájárulás a szerződésátruházáshoz]
 
 (1) Ha a szerződésben maradó fél a szerződésátruházáshoz szükséges jognyilatkozatát előzetesen megteszi, a szerződésátruházás a szerződésben maradó fél értesítésével válik hatályossá.
 
 (2) A szerződésben maradó fél a jognyilatkozat megtételekor fenntarthatja a jogot annak visszavonására.
+
+(3) Ha a biztosíték kötelezettje a szerződésbe belépő félre átszálló kötelezettség biztosítéka fennmaradásához szükséges hozzájáruló jognyilatkozatát előzetesen megteszi, jognyilatkozata a szerződésátruházásról történt értesítésével válik hatályossá.
+
+(4) A biztosíték kötelezettje a jognyilatkozat megtételekor fenntarthatja a jogot annak visszavonására.
 
 #### 6:210. § [Az engedményezés és a tartozásátvállalás szabályainak alkalmazása]
 
@@ -11767,9 +11777,7 @@ A veszélyes üzemi felelősségből eredő kártérítési követelés három �
 
 (3) Az alkalmazott és a tag egyetemlegesen felel a munkáltatóval, illetve a jogi személlyel, ha a kárt szándékosan okozta.
 
-#### 6:541. § [Felelősség a vezető tisztségviselő károkozásáért]
-
-Ha a jogi személy vezető tisztségviselője e jogviszonyával összefüggésben harmadik személynek kárt okoz, a károsulttal szemben a vezető tisztségviselő a jogi személlyel egyetemlegesen felel.
+#### 6:541. §
 
 #### 6:542. § [Felelősség a megbízott károkozásáért]
 

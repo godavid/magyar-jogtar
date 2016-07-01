@@ -100,7 +100,7 @@ azzal, hogy a létérdekek központja az az állam, amelyhez a magánszemélyt a
   - b) hajó, légi jármű vagy közúti szállító jármű nemzetközi forgalomban történő üzemeltetéséből származó jövedelem esetén – az a) alpontban foglaltaktól függetlenül – az üzemben tartó székhelye szerinti vagy a hajó, a jármű nyilvántartását (a lajstromot) vezető állam;
   - c) ingatlan birtoklásából, használatából és hasznainak szedéséből, valamint az ingatlan feletti rendelkezési jog gyakorlásából (így különösen az ingatlan átruházásából, bérbeadásából vagy haszonbérbe adásából) származó jövedelem esetében – az a) alpontban foglaltaktól függetlenül – az ingatlan fekvése szerinti állam;
   - d) nem önálló tevékenységből származó jövedelem esetében a tevékenységvégzés szokásos helyének fekvése szerinti állam; ha a tevékenység végzésének szokásos helye nem határozható meg (ideértve különösen a több címmel vagy nagyobb földrajzi egység megnevezésével beazonosítható helyen végzett tevékenység esetét), da) ha a magánszemély a munkáltató (a munkaadó) belföldi székhelyével vagy belföldi telephelyével (állandó bázisával), fióktelepével, kereskedelmi képviseletével áll a jövedelemszerzés alapjául szolgáló jogviszonyban, akkor belföld; db) a da) alpontban nem tartozó esetben a belföldön végzett tevékenységére arányosan számított jövedelem tekintetében belföld; dc) a db) alponttól eltérően, az olyan jövedelem tekintetében, amely nemzetközi forgalomban üzemeltetett járművön belföldön kívül (is) teljesített szolgálat ellenértéke, az az állam, amely az ilyen jövedelmet nemzetközi szerződés vagy viszonosság alapján adóztathatja, más esetben a magánszemély illetősége szerinti állam;
-  - e) közszolgálati, közalkalmazotti, bírósági, igazságügyi alkalmazotti vagy ügyészségi szolgálati jogviszony, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek hivatásos állományának hivatásos szolgálati jogviszonya, továbbá az említett jogviszonyok bármelyikének megfelelő, külföldi jog szerinti jogviszony alapján megszerzett jövedelem esetében – a d) alpontban foglaltaktól függetlenül – a munkáltató (a munkaadó) illetősége szerinti állam;
+  - e) kormányzati szolgálati, közszolgálati, állami szolgálati, közalkalmazotti, bírói, igazságügyi alkalmazotti vagy ügyészségi szolgálati jogviszony, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek hivatásos állományának hivatásos szolgálati jogviszonya, továbbá az említett jogviszonyok bármelyikének megfelelő, külföldi jog szerinti jogviszony alapján megszerzett jövedelem esetében – a d) alpontban foglaltaktól függetlenül – a munkáltató (a munkaadó) illetősége szerinti állam;
   - f) jogi személy, egyéb szervezet vezető tisztségviselőjeként, felügyelő bizottsága tagjaként megszerzett jövedelem esetében – az a) és d) alpontban foglaltaktól függetlenül – a jogi személy, az egyéb szervezet székhelye szerinti állam; vezető tisztségviselő a jogi személy, az egyéb szervezet törvényes képviseletére jogosult magánszemély (például az üzletvezetésre jogosult tag, az ügyvezető, a cégvezető);
   - g) előadói, művészeti és sporttevékenységre, bemutatóra (kiállításra) tekintettel megszerzett jövedelem esetében – az a) és d) alpontban foglaltaktól függetlenül – a tevékenység végzésének helye szerinti állam;
   - h) a szellemi alkotáshoz fűződő törvényi védelem alatt álló jog (így különösen szabadalom, ipari minta, védjegy, védett eljárás, szerzői jog) révén megszerzett jövedelem (jogdíj) esetében – az a) és d) alpontban foglaltaktól függetlenül – a jogdíj fizetésére kötelezett személy illetősége szerinti állam – amennyiben a jogdíj fizetésére belföldi telephelye (állandó bázisa), fióktelepe, kereskedelmi képviselete útján kötelezett, akkor belföld –, ha azonban a jogdíjfizetés alapjául szolgáló jog ténylegesen a jogosult magánszemély belföldi telephelyéhez (állandó bázisához) tartozik, akkor belföld;
@@ -144,10 +144,10 @@ azzal, hogy munkaerő-kölcsönzés, illetve egy munkakörre több munkáltatóv
   - f) a szolgáltató állatorvosi tevékenység gyakorlására jogosító igazolvánnyal rendelkező magánszemély e tevékenysége tekintetében;
   - g)
   - h)
-- 18. Mezőgazdasági őstermelő: az a 16. életévét betöltött, nem egyéni vállalkozó magánszemély, aki a saját gazdaságában a 6. számú mellékletben felsorolt termékek előállítására irányuló tevékenységet folytat, és ennek igazolására őstermelői igazolvánnyal rendelkezik, ideértve az erre a célra létesített nyilvántartásban családi gazdálkodóként bejegyzett magánszemélyt és e magánszemélynek a családi gazdaságban nem foglalkoztatottként közreműködő családtagját is, mindegyikre vonatkozóan a 6. számú mellékletben felsorolt termékek előállítására irányuló tevékenysége(i)nek bevétele (jövedelme) tekintetében.
-  - a) Saját gazdaság alatt a termelést ténylegesen végző magánszemély rendelkezési jogosultságát kell érteni az eszközei (ideértve a bérelt eszközöket is), a termelés szervezése és – a vetőmag-bértermelés, a bérnevelés, a bérhizlalás és a kihelyezett állat tartása esetének kivételével – a termelés eredményének felhasználása felett.
-  - b) Őstermelői igazolvány az őstermelői tevékenységből származó bevételek nyilvántartására alkalmas, hitelesített, kormányrendelet által előírt eljárási rendben kiadott, illetve érvényesített igazolvány, amely tartalmazza ba) a mezőgazdasági őstermelő azonosító adatait; bb) bc) bd) az adókötelezettség teljesítéséhez szükséges egyéb a kormányrendeletben meghatározott adatokat. A mezőgazdasági őstermelői tevékenység kezdetének az őstermelői igazolványban feltüntetett időpontot kell tekinteni.
-  - c) vetőmagbértermelés, bérnevelés, bérhizlalás, kihelyezett állattartás esetén őstermelői tevékenységből származó bevétel a termék vagy állat teljes átvételi (bruttó) ára azzal, hogy a jövedelem megállapításakor a termék vagy állat kihelyezési értéke költségként érvényesíthető.
+- 18. Mezőgazdasági őstermelő: az a 16. életévét betöltött, belföldön lévő saját gazdaságában a 6. számú mellékletben felsorolt termékek előállítására irányuló tevékenységet (a továbbiakban: őstermelői tevékenység) folytató, ezen tevékenysége tekintetében nem egyéni vállalkozó magánszemély, aki ennek igazolására őstermelői igazolvánnyal rendelkezik, ideértve az erre a célra létesített nyilvántartásban családi gazdálkodóként bejegyzett magánszemélyt és e magánszemélynek a családi gazdaságban nem foglalkoztatottként közreműködő családtagját is, mindegyikre vonatkozóan a 6. számú mellékletben felsorolt termékek előállítására irányuló tevékenysége(i)nek bevétele (jövedelme) tekintetében. E rendelkezés alkalmazásában
+  - a) saját gazdaság alatt a termelést ténylegesen végző magánszemély rendelkezési jogosultságát kell érteni a termelési eszközei (ideértve a bérelt földterületet, eszközöket is), a termelés szervezése és – a vetőmag-bértermelés, a bérnevelés, a bérhizlalás és a kihelyezett állat tartása esetének kivételével – a termelés eredményének felhasználása felett;
+  - b) őstermelői igazolvány az őstermelői tevékenységből származó bevételek nyilvántartására alkalmas, hitelesített, kormányrendelet által előírt adattartalommal, az ott meghatározott eljárási rendben kiadott, illetve érvényesített igazolvány;
+  - c) vetőmag-bértermelés, bérnevelés, bérhizlalás, kihelyezett állattartás esetén őstermelői tevékenységből származó bevétel a termék vagy állat teljes átvételi (bruttó) ára azzal, hogy a jövedelem megállapításakor a termék vagy állat kihelyezési értéke költségként érvényesíthető.
 - 19. Mezőgazdasági kistermelő: az a mezőgazdasági őstermelő, akinek az e tevékenységéből az adóévben megszerzett bevétele a 8 millió forintot nem haladja meg.
 - 20. Üzemanyag-fogyasztási norma: a közúti gépjárművek, az egyes mezőgazdasági, erdészeti és halászati erőgépek üzemanyag- és kenőanyag-fogyasztásának igazolás nélkül elszámolható mértékéről szóló jogszabály szerinti üzemanyag- és kenőanyag-felhasználás mértéke. Amennyiben így nem állapítható meg a norma, akkor a gyártó által, vagy műszaki szakértő által megállapított mérték.
 - 21. Bér:
@@ -208,7 +208,7 @@ azzal, hogy munkaerő-kölcsönzés, illetve egy munkakörre több munkáltatóv
 - 50. Halászati csekély összegű (de minimis) támogatás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra- ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendelet (HL L 190., 2014.06.28., 45–54. o.) szerinti támogatás.
 - 51. Termőföld: a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott mező-, erdőgazdasági hasznosítású föld.
 - 52.
-- 53. Termőföld haszonbérbeadása: a termőföld, illetve halastó magánszemély tulajdonosa vagy haszonélvezője által egy vagy több évre, írásban kötött megállapodás alapján, bérleti díj ellenében mező-, erdőgazdasági, illetve halászati hasznosításra történő földterület-bérbeadás.
+- 53. Termőföld haszonbérbe adása: a termőföld, illetve halastó magánszemély tulajdonosa vagy haszonélvezője által egy vagy több évre, írásban kötött megállapodás alapján, bérleti díj ellenében mező-, erdőgazdasági, illetve halászati hasznosításra történő földterület-bérbeadás, továbbá erdő művelési ágban nyilvántartott föld hasznosításának a tulajdonos által az erdőbirtokossági társulatban fennálló tagsági viszonya alapján az erdőbirtokossági társulat részére történő átadása.
 - 54. Beruházási költség: az e törvény szerint költségként elismert, igazolt, a tárgyi eszköz, a nem anyagi javak üzembe helyezése érdekében az üzembe helyezés napjáig felmerült, az előírt nyilvántartásban feltüntetett kiadás.
 - 55–57.
 - 58.
@@ -2558,13 +2558,12 @@ e tájékoztatási kötelezettség elmulasztása vagy nem megfelelő teljesíté
 
 ### Nyilatkozatok
 
-78/A. § (1) A magánszemély az őstermelői igazolvány kiváltásához és érvényesítéséhez kormányrendeletben meghatározott előírások szerint nyilatkozatot ad az igazolvány kiállítójának a következőkről:
+78/A. § (1) A magánszemély az őstermelői igazolvány kiállításához, érvényesítéséhez, cseréjéhez és módosításához az igazolványt kiállító Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamarának (a továbbiakban: Agrárkamara) a vonatkozó kormányrendeletben meghatározott előírások szerint megadja és igazolja a 81/A. § (2) bekezdés a) és b) pontja, valamint az e) pont ea) alpontja szerinti adatokat, és nyilatkozik arról, hogy
 
-- a) a termelésre és a saját termelésű termékek értékesítésére vonatkozó adatairól;
-- b) arról, hogy rendelkezik olyan saját gazdasággal, amely alkalmas a nyilatkozat szerinti termelés és értékesítés elérésére, ideértve azt is, hogy erdei melléktermékek gyűjtése esetén van a terület feletti rendelkezési jogot gyakorlótól erre vonatkozó hozzájárulása;
-- c) arról, hogy rendelkezési jogosultsága van a termelési eszközök (ideértve a bérelt eszközöket is), a termelés szervezése és a termelés eredményének felhasználása felett;
-- d) arról is, hogy folyamatosan részt vesz a gazdaság, a termelési eszközök működtetésében, ha és amennyiben más őstermelővel (őstermelőkkel) együtt olyan őstermelői tevékenységet folytat – ideértve a (2) bekezdésben említett közös tevékenységet is –, amellyel kapcsolatban mindannyian ugyanazon gazdaságra, termelési eszközökre vonatkozóan nyilatkoztak a b) és c) pont szerint;
-- e) a nyilatkozatnak tartalmaznia kell a saját termeléshez rendelkezésre álló (saját vagy bérelt) használt földterület helyét, nagyságát művelési áganként, vetésszerkezetét, valamint az állattartását és az állattartásra alkalmas épületek adatait.
+- a) közös igazolvány esetén mi a családtagi minősége;
+- b) saját gazdasággal rendelkezik, a 81/A. § (2) bekezdés f) pont fa)–ff) alpontja szerinti adatok megadásával;
+- c) az erdei melléktermékek gyűjtése esetén rendelkezik a terület feletti rendelkezési jogot gyakorlótól a gyűjtésre vonatkozóan beszerzett hozzájárulással;
+- d) folyamatosan részt vesz a gazdaság, a termelési eszközök működtetésében, amennyiben más őstermelővel együtt olyan őstermelői tevékenységet folytat, beleértve a (2) bekezdés szerinti közös őstermelői tevékenységet is, amellyel kapcsolatban mindannyian ugyanazon gazdaságra, termelési eszközökre vonatkozóan nyilatkoztak az b) és c) pont tekintetében.
 
 (2) A magánszemély az (1) bekezdésben említett nyilatkozat kiegészítéseként, a vele közös háztartásban élő családtagjával (családtagjaival) együttes nyilatkozatot tehet arról, hogy a 6. számú melléklet 2. pontjában meghatározott módon és feltételekkel közös őstermelői igazolvány (a továbbiakban: közös igazolvány) kiváltásával kívánja folytatni az őstermelői tevékenységét (a továbbiakban: közös őstermelői tevékenység). Ebben az esetben minden egyes családtagnak az őstermelői jövedelmére ugyanazon adózási módot kell választania, továbbá a közös őstermelői tevékenység időszakában egymással munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban nem állhatnak, a segítő családtagra vonatkozó rendelkezéseket egymásra vonatkozóan nem alkalmazhatják. Az együttes nyilatkozat feltétele, hogy az azt tevők az általános forgalmi adózás tekintetében is ugyanazon adózási módot alkalmazzák.
 
@@ -2620,9 +2619,49 @@ e tájékoztatási kötelezettség elmulasztása vagy nem megfelelő teljesíté
 
 (5) Felhatalmazást kap a vendéglátásért felelős miniszter, hogy rendeletben meghatározza a felszolgálási díj alkalmazásának, kifizetésének és felhasználásának részletes szabályait.
 
-81/A. § A mezőgazdasági őstermelői igazolvány kiadásával, érvényesítésével kapcsolatos feladatokat, valamint a mezőgazdasági őstermelői igazolványnak és a mezőgazdasági őstermelő e törvény szerinti adatainak a nyilvántartását a mezőgazdasági igazgatási szerv látja el. A nyilvántartás közhiteles hatósági nyilvántartásnak minősül. A mezőgazdasági igazgatási szerv a mezőgazdasági őstermelői igazolvány kiadásáról, bevonásáról, adatairól és az igazolványban szereplő adatok változásáról havonta adatot szolgáltat az adóhatóságnak, valamint a mezőgazdasági és vidékfejlesztési támogatási szervnek. A mezőgazdasági őstermelői igazolvány kiállításához és a nyilvántartáshoz a magánszemély az e törvény által meghatározott adatokat, valamint az adóazonosító jelét megadja és igazolja, amelyeket a mezőgazdasági igazgatási szerv az igazolvány kiállításához, továbbá törvényben meghatározott adatszolgáltatási kötelezettsége teljesítéséhez felhasznál.
+81/A. § (1) A mezőgazdasági őstermelők adatairól – a mezőgazdasági őstermelők tevékenységének átláthatóbbá tétele és az ellenőrzés hatékonyságának biztosítása céljából – az őstermelői nyilvántartást vezető szerv az élelmiszerlánc-felügyeleti információs rendszerben – a (2) bekezdés c), d) és f) pontjában meghatározott adatok tekintetében közhiteles – hatósági nyilvántartást (a továbbiakban: őstermelői nyilvántartás) vezet.
+
+(2) Az őstermelői nyilvántartás tartalmazza
+
+- a) a mezőgazdasági őstermelő
+  - aa) természetes személyazonosító adatait,
+  - ab) lakcímadatait és levelezési címét,
+  - ac) adóazonosító jelét;
+- b) amennyiben a mezőgazdasági őstermelő rendelkezik vele,
+  - ba) adószámát,
+  - bb) Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerben tárolt ügyfél-azonosítóját,
+  - bc) agrárkamarai nyilvántartási számát,
+  - bd) családi gazdálkodóként való nyilvántartásba vételéről szóló határozat számát,
+  - be) az élelmiszerlánc-felügyeleti információs rendszerben nyilvántartott azonosító számát;
+- c) a mezőgazdasági őstermelő (technikai) azonosító számát;
+- d) az őstermelői igazolvány számát, kiállításának idejét, hatályosságának kezdetét és végét, visszatartásának, visszavonásának okát, kezdetét és végét;
+- e) közös igazolvány esetén
+  - ea) a családtag(ok) a) és b) pont szerinti adatait
+  - eb) és családtagi minőségét;
+- f) a termelésére vonatkozó következő adatokat:
+  - fa) az őstermelői tevékenység megnevezését és a tevékenység jellegére vonatkozó adatokat,
+  - fb) a használt földterületek adatait,
+  - fc) az állattartásra alkalmas épületekre vonatkozó épületenként megadott adatokat,
+  - fd) a termeszteni kívánt és termesztett növénykultúrák, -fajok és azok feldolgozására vonatkozó adatokat, a vetésszerkezetet,
+  - fe) az állati termék előállítására és értékesítésére vonatkozó adatokat,
+  - ff) a vadon gyűjthető termékek körére vonatkozó adatokat,
+  - fg) a 78/A. § (1) bekezdés c) és d) pontja szerinti nyilatkozatok meglétét.
+
+(3) A (2) bekezdés szerinti adatokat – az őstermelői nyilvántartás által előállított adatok kivételével – az Agrárkamara rögzíti az őstermelői nyilvántartásban.
+
+(4) Az őstermelői nyilvántartást vezető szerv az Agrárkamara számára – az őstermelői igazolvány kiadásával, érvényesítésével, cseréjével, módosításával, visszavonásával és bevonásával kapcsolatos feladatainak ellátása, valamint a bárki számára megismerhető nyilvános adatok közzététele érdekében – egyedi informatikai alkalmazással elektronikus hozzáférést biztosít az őstermelői nyilvántartáshoz.
+
+(5) Az őstermelői nyilvántartást vezető szerv az őstermelői nyilvántartásban szereplő adatokat a mezőgazdasági őstermelői jogosultság megszűnését követő év első napjától számított 10. év végéig tárolja.
+
+(6) Az őstermelői tevékenység kezdetének az őstermelői igazolvány érvényessége kezdetének időpontját kell tekinteni.
+
+(7) Az őstermelői nyilvántartást vezető szerv az őstermelői igazolvány kiadásáról, bevonásáról, adatairól és az abban szereplő adatok változásáról adatot szolgáltat az adóhatóságnak, valamint a mezőgazdasági és vidékfejlesztési támogatási szervnek.
+
+(8) Az őstermelői nyilvántartásban kezelt adatok a Központi Statisztikai Hivatal részére statisztikai célra és az agrárgazdasági adatbázist működtető szerv részére statisztikai és gazdaságelemzési célra egyedi azonosításra alkalmas módon, egyéb statisztikai, illetve tudományos kutatási célra – személyazonosításra alkalmatlan módon – átadhatók és felhasználhatók.
 
 81/B. § A mezőgazdasági igazgatási szerv ellenőrzi az őstermelői igazolvány használatának jogszerűségét és az abban foglalt adatok valódiságát. A mezőgazdasági igazgatási szerv a jogszerűtlen használatot jelzi az adóhatóságnak a jogszerűtlen használat megállapításáról szóló döntés jogerőre emelkedése negyedévét követő hónap utolsó napjáig. A jelzés tartalmazza az érintett magánszemély nevét, adóazonosító jelét és jelzésre okot adó tényeket, körülményeket, a jogszerűtlen használat, a valóságtól eltérő adatok megállapításának időpontját, továbbá – ha az ismert –feltünteti azt, hogy a jogszerűtlen használat vagy az eltérés mely időponttól állt fenn.
+
+81/C. § A mezőgazdasági igazgatási szerv ellenőrzi az őstermelői igazolvány és az értékesítési betétlap használatának jogszerűségét, valamint az őstermelő által közölt és nyilvántartásba vett adatok és nyilatkozatok valódiságát. A mezőgazdasági igazgatási szerv a nem jogszerű használat megállapításáról szóló határozatot az adóhatóságnak megküldi.
 
 82. § (1) Az MNB a Magyar Közlönyben közzéteszi a hivatalos devizaárfolyam-lapján nem szereplő külföldi pénznemek euróban megadott árfolyamát.
 
@@ -3511,7 +3550,7 @@ b) összege, ha az átruházás a szövetkezetekről szóló 1992. évi I. törv
 
 c) összege, ha a magánszemély a termőföldet regisztrációs számmal rendelkező állattenyésztést folytató olyan magánszemélynek adja el, aki a termőföldet egyéni vállalkozóként, mezőgazdasági őstermelőként legalább 5 évig az állattartó telep takarmánytermelése céljából használja, vagy azt az őt alkalmazó mezőgazdasági társas vállalkozásnak az állattenyésztés takarmánybiztosítása érdekében legalább 10 évre bérbe adja,
 
-azzal, hogy az a)-c) pont alkalmazásában az 5 vagy 10 éves időszak kezdőnapja a birtokbaadás napja, de legkésőbb az adásvételi szerződés keltét követő 12. hónap utolsó napja;
+azzal, hogy az a)-c) pont alkalmazásában az 5 vagy 10 éves időszak kezdőnapja a birtokbaadás napja, de legkésőbb az adásvételi szerződés keltét követő 12. hónap utolsó napja, vagy ha a termőföld harmadik féllel kötött szerződés alapján haszonbérletben van, a haszonbérleti szerződés lejártát követő december 31.;
 
 d) az a)-c) pontban nem említett esetben, ha az átruházás
 
@@ -3852,7 +3891,7 @@ A magánszemély a részletező nyilvántartások közül csak azokat köteles v
 
 ### 6. számú melléklet az 1995. évi CXVII. törvényhez
 
-I. Mezőgazdasági őstermelői tevékenységnek minősül a saját gazdaságban történő növénytermelés, ültetvénytelepítés, állattenyésztés, termékfeldolgozás, ha az a saját gazdaságban előállított alapanyag felhasználásával történik, a saját gazdaságban egyes mezőgazdasági termékek jogszabályba nem ütköző gyűjtése, a saját tulajdonú földterületen végzett erdőgazdálkodás, mindezekre nézve akkor, ha az előállított termék vagy a tevékenység az e melléklet II. pontjában felsoroltak valamelyikébe beletartozik, ideértve a saját gazdaságban termelt gyümölcs felhasználásával bérfőzés keretében történő párlatkészítést is.
+I. Őstermelői tevékenységnek minősül a saját gazdaságban történő növénytermelés, ültetvénytelepítés, állattenyésztés, termékfeldolgozás, ha az a saját gazdaságban előállított alapanyag felhasználásával történik, a saját gazdaságban egyes mezőgazdasági termékek jogszabályba nem ütköző gyűjtése, a saját tulajdonú földterületen végzett erdőgazdálkodás és saját tulajdonú erdőterületen az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény szerinti erdei haszonvétel keretében végzett tevékenység, mindezekre nézve akkor, ha az előállított termék vagy a tevékenység az e melléklet II. pontjában felsoroltak valamelyikébe beletartozik, ideértve a saját gazdaságban termelt gyümölcs felhasználásával bérfőzés keretében történő párlatkészítést is.
 
 a) A mezőgazdasági termékek gyűjtése esetén saját gazdaság alatt a terület felett rendelkezési jogot gyakorlónak legalább a szóbeli hozzájárulását és a gyűjtést folytató magánszemélynek a gyűjtés eredményének felhasználása feletti rendelkezési jogosultságát kell érteni.
 

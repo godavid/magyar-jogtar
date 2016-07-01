@@ -433,7 +433,7 @@ van helye.
 - h) a halászati őr,
 - i) a mezőőr.
 
-(3) Az (2) bekezdés g)–i) pontja esetén feltétel, hogy a helyszíni bírságot kiszabó személy a közigazgatási szerv alkalmazottja vagy önkormányzati köztisztviselő, közalkalmazott vagy kormánytisztviselő legyen.
+(3) A (2) bekezdés g)–i) pontja esetén feltétel, hogy a helyszíni bírságot kiszabó személy a közigazgatási szerv alkalmazottja vagy önkormányzati köztisztviselő, közalkalmazott, kormánytisztviselő vagy állami tisztviselő legyen.
 
 #### 29. A szabálysértési hatóság hatásköre és illetékessége
 
