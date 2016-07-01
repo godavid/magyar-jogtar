@@ -4,9 +4,9 @@ egyrészről az Európai Unió, az Európai Atomenergia-közösség és tagálla
 
 1. § Az Országgyűlés e törvénnyel felhatalmazást ad az egyrészről az Európai Unió, az Európai Atomenergia-közösség és tagállamaik, másrészről a Moldovai Köztársaság közötti Társulási Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
 
-2. §
+2. § Az Országgyűlés a Megállapodást e törvénnyel kihirdeti.
 
-3. §
+3. § A Megállapodás hiteles magyar nyelvű szövegét e törvény 1. számú melléklete tartalmazza.
 
 4. § (1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
 

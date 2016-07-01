@@ -100,7 +100,7 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 
 (3) A (2) bekezdésben meghatározott esetben az üzemben tartó annál a biztosítónál köteles a szerződést – az újrakötött szerződés kockázatviselési kezdetének időpontjában alkalmazandó díjtarifa alapján – megkötni, ahol a szerződése díjnemfizetés miatt szűnt meg.
 
-(4) Az a biztosító, amely a szerződést a biztosítási időszak végére felmondta vagy a szerződés a biztosítási időszak alatt díjnemfizetés miatt szűnt meg, az üzemben tartónak a szerződés megszűnését közvetlenül követő biztosítási időszakra vonatkozó ajánlatát nem köteles elfogadni.
+(4) Az a biztosító, amely a szerződés biztosítási időszak végére történő felmondására nyilatkozatot tett vagy a szerződés a biztosítási időszak alatt díjnemfizetés miatt szűnt meg, az üzemben tartónak a szerződés megszűnését közvetlenül követő biztosítási időszakra vonatkozó ajánlatát nem köteles elfogadni.
 
 6. § (1) A biztosítási szerződés a felek írásbeli megállapodásával jön létre.
 
@@ -256,7 +256,7 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 
 21. § (1) A biztosítás első díjrészlete, valamint folytatólagos díjrészletei a felek által a szerződésben meghatározott időpontokban esedékesek. Ennek hiányában az első díjrészlet a szerződés létrejöttekor, a folytatólagos díjrészlet pedig az adott díjfizetési időszaknak az első napján esedékes.
 
-(1a) Ha a díj a 23. § (2) bekezdésében meghatározott megváltoztatás esetén módosul, vagy a szerződő fél által már megfizetett díjat jogszabályváltozás folytán utóbb más tartozására kell elszámolni, az üzemben tartó a díjkülönbözetet az esedékes következő biztosítási díjrészlettel együtt – a biztosítási időszakra járó díj teljes megfizetése esetén 30 napos határidővel – köteles megfizetni.
+(1a) Ha a díj a 23. § (2) bekezdésében meghatározott megváltoztatás esetén módosul, vagy a szerződő fél által már megfizetett díjat jogszabályváltozás folytán utóbb más tartozására kell elszámolni, az üzemben tartó a díjkülönbözetet – a felek eltérő megállapodásának hiányában – az esedékes következő biztosítási díjrészlettel együtt – a biztosítási időszakra járó díj teljes megfizetése esetén 30 napos határidővel – köteles megfizetni.
 
 (2) Az egyszeri díjat – a felek eltérő megállapodásának hiányában – a szerződés létrejöttekor kell megfizetni.
 
@@ -400,19 +400,19 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 
 ### Visszkereset
 
-34. § (1) A biztosító, a Nemzeti Iroda, valamint a 36. § (6) bekezdésében meghatározott esetben a Kártalanítási Számla kezelője az általa kifizetett kártérítési összeg megtérítését követelheti:
+34. § (1) A biztosító, a Nemzeti Iroda, valamint a 36. § (6) bekezdésében meghatározott előlegezés esetén a Kártalanítási Számla kezelője az általa kifizetett kártérítési összeg megtérítését követelheti:
 
 - a) attól a vezetőtől, aki a gépjárművet az üzemben tartó vagy az egyébként jogosan használó engedélye nélkül vezette;
 - b) a biztosítottól, több biztosított közös károkozása esetén bármelyiküktől, ha a kárt jogellenesen és szándékosan okozták;
-- c) a vezetőtől, ha a gépjárművet alkoholos vagy a vezetési képességre hátrányosan ható szertől befolyásolt állapotban vezette, illetve bármely biztosítottól, ha a gépjármű vezetését ilyen személynek adta át, kivéve, ha bizonyítja, hogy a vezető alkoholos vagy a vezetési képességre hátrányosan ható szertől befolyásolt állapotát nem ismerhette fel (alkoholos befolyásoltságnak tekinthető a 0,8 ezreléket meghaladó véralkoholszint, illetve a 0,5 mg/l értéket meghaladó légalkohol szint);
+- c) a vezetőtől, ha a gépjárművet alkoholos vagy a vezetési képességre hátrányosan ható szertől befolyásolt állapotban vezette, illetve bármely biztosítottól, ha a gépjármű vezetését ilyen személynek adta át, kivéve, ha bizonyítja, hogy a vezető alkoholos vagy a vezetési képességre hátrányosan ható szertől befolyásolt állapotát nem ismerhette fel;
 - d) a vezetőtől, ha a gépjármű vezetésére jogosító engedéllyel nem rendelkezett, illetve bármely biztosítottól, ha a gépjármű vezetését ilyen személynek adta át, kivéve, ha bizonyítja, hogy a gépjárművet engedéllyel vezető esetében a gépjárművezetői engedély meglétét alapos okból feltételezte;
 - e) az üzemben tartótól, ha a balesetet a gépjármű súlyosan elhanyagolt műszaki állapota okozta;
 - f) a vezetőtől, ha a kárt segítségnyújtás elmulasztásával, illetve foglalkozás körében elkövetett szándékos veszélyeztetéssel okozta;
 - g) az üzemben tartótól, illetve a vezetőtől, ha a szerződés megkötésekor, a biztosítási esemény bekövetkezésekor, vagy egyébként terhelő közlési, változásbejelentési, kárbejelentési kötelezettségét nem teljesítette, oly mértékben, ahogyan ez a fizetési kötelezettséget befolyásolta.
 
-(2) Ha a biztosított az (1) bekezdés c) és d) pontjában, valamint a vezető az f) pontban felsorolt esetekben köteles a megtérítésre, a teljesített szolgáltatások keretei között egy biztosítási eseménnyel kapcsolatban a biztosító, a Nemzeti Iroda, valamint a Kártalanítási Számla kezelője legfeljebb 1,5 millió Ft-ig érvényesítheti követelését.
+(2) Ha a biztosított az (1) bekezdés c) pontjában, valamint a vezető az f) pontban felsorolt esetekben köteles a megtérítésre, a teljesített szolgáltatások keretei között egy biztosítási eseménnyel kapcsolatban a biztosító, a Nemzeti Iroda, valamint a Kártalanítási Számla kezelője legfeljebb 5 millió Ft-ig érvényesítheti követelését.
 
-(3) Ha az üzemben tartó az (1) bekezdés e) pontjában meghatározott esetben köteles a megtérítésre, a teljesített szolgáltatások keretei között egy biztosítási eseménnyel kapcsolatban a biztosító, a Nemzeti Iroda, valamint a Kártalanítási Számla kezelője legfeljebb 750 ezer Ft-ig érvényesítheti követelését.
+(3) Ha a biztosított az (1) bekezdés d) pontjában, valamint az üzemben tartó az (1) bekezdés e) pontjában meghatározott esetben köteles a megtérítésre, a teljesített szolgáltatások keretei között egy biztosítási eseménnyel kapcsolatban a biztosító, a Nemzeti Iroda, valamint a Kártalanítási Számla kezelője legfeljebb 1,5 millió Ft-ig érvényesítheti követelését.
 
 (4) Ha az üzemben tartó, illetve a vezető bizonyítja, hogy az (1) bekezdés g) pontjában meghatározott kötelezettségét nem szándékosan szegte meg, a biztosító, a Nemzeti Iroda, valamint a Kártalanítási Számla kezelője követelését az általa teljesített szolgáltatás keretei között legfeljebb 500 ezer Ft-ig érvényesítheti.
 
@@ -467,7 +467,10 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 - b) egyetemlegesen a forgalomba nem helyezett vagy a forgalomból kivont gépjármű üzemben tartójától és vezetőjétől;
 - c) az ismeretlen üzemben tartó gépjárművének vezetőjétől;
 - d) az ismeretlen gépjármű vezetőjétől, amennyiben ennek személye ismert és a károkozásért felelős;
-- e) az üzemben tartótól, ha a káresemény a 26. §-ban meghatározott szünetelés ideje alatt következik be.
+- e) az üzemben tartótól, ha a káresemény a 26. §-ban meghatározott szünetelés ideje alatt következik be,
+- f) a vezetőtől, ha a gépjárművet alkoholos vagy a vezetési képességre hátrányosan ható szertől befolyásolt állapotban vezette;
+- g) a vezetőtől, ha a gépjármű vezetésére jogosító engedéllyel nem rendelkezett;
+- h) a vezetőtől, ha a kárt segítségnyújtás elmulasztásával, illetve foglalkozás körében elkövetett szándékos veszélyeztetéssel okozta.
 
 (8a) A (6a) bekezdésben meghatározott megtérítés folytán a Kártalanítási Számlára száll át – a kötelező gépjármű-felelősségbiztosítási szerződés, továbbá magyar vagy tagállami jogszabályi rendelkezés alapján – a károsultat
 
@@ -611,7 +614,12 @@ változás következik be.
 
 47. § (1) A kötvénynyilvántartásból adatot igényelhet:
 
-- a) a 46. § (2) bekezdésének b), c) és e) pontjaiban foglalt adatok tekintetében – az e törvényben meghatározott feladatai ellátásához – a biztosító, az adatigénylés időpontja szerinti és az adatigénylés időpontját megelőző, egy meghatározott időpont szerinti adatokra vonatkozóan;
+- a) a 46. § (2) bekezdés
+  - aa) b), c) és e) pontjaiban meghatározott adatok tekintetében – az e törvényben meghatározott feladatai ellátásához –,
+  - ab) d) pontjában meghatározott adatok tekintetében – a károsult személy meghatalmazása alapján, a károsult személy jogának vagy jogos érdekének az érvényesítéséhez szükséges adatok kiadása céljából –
+
+a biztosító, az adatigénylés időpontja szerinti és az adatigénylés időpontját megelőző, egy meghatározott időpont szerinti adatokra vonatkozóan;
+
 - b) a 46. § (2) bekezdésében foglalt adatok tekintetében – a biztosítással nem rendelkező vagy ismeretlen üzemben tartó gépjárműve által, valamint az ismeretlen gépjárművel okozott károk megtérítése és a károsult követelésének kielégítésével kapcsolatban felmerült összes ráfordítása és költsége visszakövetelése céljából – a Kártalanítási Számla kezelője, az adatigénylés időpontja szerinti és az adatigénylés időpontját megelőző, egy meghatározott időpont szerinti adatokra vonatkozóan;
 - c) a 46. § (2) bekezdésében foglalt adatok tekintetében – az e törvényben meghatározott koordinációs, kárrendezési és elszámolási feladatok ellátása céljából – a Nemzeti Iroda, a káresemény időpontja szerinti adatokra vonatkozóan;
 - d) a 46. § (2) bekezdésében foglalt adatok tekintetében – a károk kezelése és rendezése céljából – a levelező, a káresemény időpontja szerinti adatokra vonatkozóan;
@@ -950,7 +958,7 @@ vizsgálatára terjed ki.
 
 57/D. § (1) Az elkülönített szervezeti egység biztosítja, hogy a magatartására, tevékenységére vagy mulasztására vonatkozó panaszát a károsult szóban (személyesen, telefonon) vagy írásban (személyesen vagy más által átadott irat útján, postai úton, telefaxon, elektronikus levélben) közölhesse.
 
-(2) A panaszkezelésre alkalmazni kell a Bit. 159. § (1)–(7) bekezdésében és (9)–(15) bekezdésében meghatározottakat azzal, hogy ügyfél alatt a károsultat kell érteni.
+(2) A panaszkezelésre alkalmazni kell a Bit. 159. § (1)–(8) bekezdésében és (10)–(16) bekezdésében meghatározottakat azzal, hogy ügyfél alatt a károsultat kell érteni.
 
 57/E. § (1) A Kártalanítási Alap kezelőjét megilletik mindazon jogok és terhelik mindazon kötelezettségek, amelyek a biztosítási szerződés vonatkozásában a felszámolás alatt álló biztosítót – a felszámolás elrendelését megelőzően – illették meg, illetve terhelték, továbbá az Alap kezelője megtérítést követelhet a felszámolás alatt álló biztosítótól.
 
@@ -959,6 +967,8 @@ vizsgálatára terjed ki.
 - a) a felszámolás elrendelését követő 45 napon belül a biztosítási szerződésekről, az ezekre előírt, valamint a teljesített díjakról, a felszámolás alatt álló biztosítónak bejelentett káreseményekről, valamint a szerződésekkel és a káreseményekkel kapcsolatban folyamatban lévő eljárásokról tételes listát készíteni, és azt a szerződések, a káresemények és az eljárások iratanyagával együtt az Alap kezelője részére átadni;
 - b) a felszámolás alatt álló biztosítót a kockázatviselése megszűnéséig megillető meg nem fizetett díjakat behajtani és az Alap részére átutalni; és
 - c) a felszámolás során nála bejelentett káreseményeket a károsult egyidejű tájékoztatása mellett az Alap kezelőjének haladéktalanul továbbítani.
+
+(3) Ha a kötelező gépjármű-felelősségbiztosítási állománnyal kapcsolatos biztosítástechnikai tartalékok fedezetére szolgáló eszközök – Bit. 168. § (2) bekezdésében meghatározott – pótlására kerül sor, a Kártalanítási Alap kezelője megtérítést követelhet a tevékenységi engedély visszavonásával érintett biztosítótól, feltéve, ha a megtérítés nem veszélyezteti a biztosító azon hitelezője igényének kielégítését, amelynek biztosítási szerződésen alapuló követelése van a tevékenységi engedély visszavonásával érintett biztosítóval szemben.
 
 57/F. § (1) A Felügyelet az elkülönített szervezeti egység kötelezettségének teljesítése, a károsultak érdekeinek megóvása, valamint annak érdekében, hogy az elkülönített szervezeti egység tevékenysége e törvénynek, illetve a tevékenységére vonatkozó más jogszabályoknak és a Felügyelet határozatainak megfeleljen, a következő intézkedéseket hozhatja:
 

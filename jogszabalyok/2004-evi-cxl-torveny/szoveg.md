@@ -861,7 +861,7 @@ számított nyolc napon belül értesíteni kell.
 (2) Nem lehet hatósági közvetítő:
 
 - a) az ügyfél, az eljárásban ügyfélként részt vevő szervezet tulajdonosa, tisztségviselője, alkalmazottja, illetve az ügyféllel munkavégzésre irányuló szerződéses kapcsolatban álló személy,
-- b) a hatósággal vagy a hatóság felügyeleti szervével közszolgálati vagy más, munkavégzésre irányuló jogviszonyban álló személy,
+- b) a hatósággal vagy a hatóság felügyeleti szervével közszolgálati, kormányzati szolgálati, állami szolgálati vagy más, munkavégzésre irányuló jogviszonyban álló személy,
 - c) az, aki személyében vagy hozzátartozója révén érintett az ügyben,
 - d) akitől más okból nem várható elfogulatlan közreműködés.
 
@@ -1189,7 +1189,7 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
 
 (3) A hatósági tanú az eljárási cselekmény során történt eseményeket és az általa tapasztalt tényeket a jegyzőkönyv aláírásával igazolja.
 
-(4) Nem lehet hatósági tanú az ügyfél hozzátartozója, az eljáró hatósággal közszolgálati, illetve egyéb munkavégzésre irányuló jogviszonyban álló személy és az eljárási képességgel nem rendelkező személy.
+(4) Nem lehet hatósági tanú az ügyfél hozzátartozója, az eljáró hatósággal közszolgálati, kormányzati szolgálati, állami szolgálati, illetve egyéb munkavégzésre irányuló jogviszonyban álló személy és az eljárási képességgel nem rendelkező személy.
 
 (5) Hatósági tanúként való közreműködésre senki nem kötelezhető.
 
@@ -1458,7 +1458,9 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
 - d) azon eljárásokban, ahol az ügy érdemében a hatóság mérlegelésétől vagy a tényállás tisztázásától függő összeget kell meghatározni, valamint
 - e) ha törvény ekként rendelkezik.
 
-(4) Az (1) bekezdésben meghatározott döntéshez akkor kapcsolódnak joghatások, ha a kérelem beérkezését követő két hónap elteltével a hatóság a hatósági ügy érdemében nem döntött és az eljárást nem szüntette meg.
+(4) Az (1) bekezdésben meghatározott döntéshez akkor kapcsolódnak joghatások, ha a kérelem beérkezését követő két hónap elteltével a hatóság a hatósági ügy érdemében nem döntött és az eljárást nem szüntette meg. A felfüggesztő döntést megelőzően hozott függő hatályú döntéshez joghatás nem kapcsolódik.
+
+(4a) Az eljárás felfüggesztése vagy függőben tartása esetén az eljáró hatóság – a (6) bekezdés megfelelő alkalmazásával – legkésőbb a felfüggesztés vagy függőben tartás időtartamának végét követő nyolcadik napon függő hatályú döntést hoz, amelyben rendelkezik az eljárás folytatásáról és a (4) bekezdés szerinti, a felfüggesztés vagy függőben tartás időtartamának figyelmen kívül hagyásával számított időpontról.
 
 (5) A (2) bekezdés c) pontja szerinti rendelkezést tartalmazó határozat elleni jogorvoslati határidő a közlés és a (4) bekezdésben meghatározott feltételek teljesülését követő napon kezdődik.
 
@@ -1477,6 +1479,8 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
 (7) A függő hatályú döntés tartalmazza legalább a 72. § (1) bekezdés a)–c) pontjában, d) pont da) és dg) alpontjában, e) pont ef)–eg) alpontjában, f)–g) pontjában foglaltakat, valamint a (4) bekezdés szerinti időpontot naptári dátum szerint meghatározva.
 
 (8) A függő hatályú döntés jogerőre emelkedéséről a hatóság értesíti a felügyeleti szervét, valamint akikkel a döntést közölte, és intézkedik a (2) bekezdés a) pontja szerinti összeg megfizetése, valamint a kérelmező által az eljárásért, valamint a szakhatósági eljárásért megfizetett illeték vagy igazgatási szolgáltatási díj, továbbá az általa előlegezett eljárási költség visszatérítése iránt.
+
+(8a) A szakhatóság és a belföldi jogsegély keretében megkeresett szerv a (8) bekezdésben foglalt esetben a jogerőre emelkedéséről szóló értesítésétől számított öt napon belül intézkedik az eljárására tekintettel felmerült és a kérelmező ügyfelet terhelő illeték vagy igazgatási szolgáltatási díj, továbbá az eljárására tekintettel felmerült és a kérelmező ügyfelet terhelő eljárási költség eljáró hatóságnak történő megfizetéséről.
 
 (9) A függő hatályú határozattal szembeni jogorvoslati és döntés-felülvizsgálati eljárásban vizsgálni kell, hogy a kérelmezett jogosultság gyakorlásának feltételei – ide nem értve e § rendelkezéseit – fennállnak-e.
 
@@ -2899,6 +2903,10 @@ olyan technológiai megoldást kell alkalmazni, ami garantálja, hogy az ügyfé
 (11) E törvénynek az egyes törvényeknek a közigazgatási hatósági eljárásokkal, az egyes közhiteles hatósági nyilvántartásokkal összefüggő, valamint egyéb törvények módosításáról szóló 2013. évi LXXXIV. törvény 55. §-ával módosított 21. § (1) bekezdés a) pontját e rendelkezés hatálybalépését követően indult, illetve a megismételt eljárásokban kell alkalmazni.
 
 (12) E törvénynek a kormányablakok kialakításával, valamint a fővárosi és megyei kormányhivatalok működésével összefüggő egyes törvények módosításáról szóló 2013. évi CCXVIII. törvénnyel megállapított rendelkezéseit az e rendelkezések hatálybalépését követően indult ügyekben és a megismételt eljárásokban kell alkalmazni.
+
+(13) E törvénynek a közigazgatási bürokráciacsökkentéssel összefüggő törvénymódosításokról szóló 2015. évi CLXXXVI. törvénnyel megállapított rendelkezéseit azok hatálybalépését követően indult eljárásokban kell alkalmazni.
+
+(14) E törvénynek a közigazgatási bürokráciacsökkentés keretében egyes adminisztratív kötelezettségek megszüntetésével összefüggő törvénymódosításokról szóló 2016. évi XXXII. törvénnyel megállapított rendelkezéseit az e rendelkezések hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
 171/A. § (1) Ahol jogszabály az államigazgatási eljárás általános szabályairól szóló 1957. évi IV. törvényt említi, ott a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvényt, ahol államigazgatási eljárást említ, ott közigazgatási hatósági eljárást, ahol államigazgatási határozatot, azon közigazgatási hatósági döntést kell érteni.
 

@@ -2138,7 +2138,7 @@ amelynek jogát vagy jogos érdekét főigazgatóként hozott döntése érintet
 
 - a) köztársasági elnök, miniszterelnök, a kormány tagja, államtitkár, közigazgatási államtitkár, helyettes államtitkár, főpolgármester, főpolgármester-helyettes, polgármester, alpolgármester, megyei közgyűlés elnöke és alelnöke, országgyűlési képviselő, nemzetiségi szószóló, az Európai Parlament tagja,
 - b) a Közszolgálati Közalapítvány Kuratóriumának és a Közszolgálati Testületnek az elnöke, tagja, az Alap vezérigazgatója, vezérigazgató-helyettese, a Nemzeti Hírközlési és Informatikai Tanács elnöke, alelnöke vagy tagja, közszolgálati médiaszolgáltató vezérigazgatója, felügyelő bizottságának elnöke, tagja, a Médiatanács tagja, a Hatóság Elnökének kivételével a Médiatanács elnöke, valamint bármelyik szervezettel munkavégzésre irányuló jogviszonyban álló személy,
-- c) helyi vagy megyei önkormányzati képviselő, kormánytisztviselő, párt országos vagy területi szervezetének tisztségviselője vagy politikai párttal foglalkoztatásra irányuló jogviszonyban álló személy,
+- c) helyi vagy megyei önkormányzati képviselő, kormánytisztviselő, állami tisztviselő, párt országos vagy területi szervezetének tisztségviselője vagy politikai párttal foglalkoztatásra irányuló jogviszonyban álló személy,
 - d) hírközlési vagy médiaszolgáltató, műsorterjesztő, reklámügynökség, sajtóterméket kiadó, lapterjesztő vállalkozás vezető tisztségviselője, vezető testületének tagja, felügyelő bizottsági tagja,
 - e) olyan személy, aki hírközlési vagy médiaszolgáltatóval, műsorforgalmazóval, műsorterjesztővel, reklámügynökséggel, sajtótermék kiadójával vagy lapterjesztővel munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll,
 - f) olyan személy, aki hírközlési vagy médiaszolgáltatást, műsorforgalmazást, műsorterjesztést, sajtótermék kiadását, reklámügynökségi tevékenységet vagy lapterjesztést folytató vállalkozásban rendelkezik közvetlen vagy közvetett tulajdoni részesedéssel,
@@ -2179,7 +2179,7 @@ amelynek jogát vagy jogos érdekét főigazgatóként hozott döntése érintet
 
 (7) A megüresedett helyet az erre jogosult szerv vagy személy harminc napon belül köteles betölteni.
 
-(8) Az NHIT elnöke, alelnöke és tagja lehet kormánytisztviselő vagy köztisztviselő.
+(8) Az NHIT elnöke, alelnöke és tagja lehet kormánytisztviselő, állami tisztviselő vagy köztisztviselő.
 
 (9) Az NHIT elnöke az államtitkár illetménye hatvanöt százalékának megfelelő mértékű, az NHIT alelnöke az államtitkár illetménye hatvan százalékának megfelelő mértékű, míg az NHIT tagja az államtitkár illetménye ötvenöt százalékának megfelelő mértékű tiszteletdíjban részesül kinevezésétől megbízatása megszűnéséig, továbbá az elnök, az alelnök és a tagok költségtérítésre jogosultak.
 

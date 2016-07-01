@@ -212,6 +212,8 @@ kizáró foglalkozástól eltiltás hatálya alatt,
 
 14. § (1) A bizalmi vagyonkezelő vállalkozás köteles – a módosulásra okot adó körülmény bekövetkeztétől számított nyolc napon belül – bejelenteni a hivatalnak a nyilvántartásban szereplő adatainak megváltozását.
 
+(1a) Az (1) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a bizalmi vagyonkezelő vállalkozás kéri – az (1) bekezdésben meghatározott határidőn belül értesíti a hivatalt.
+
 (2) A hivatal az adatváltozást bejegyzi a nyilvántartásba.
 
 15. § A hivatal törli a bizalmi vagyonkezelő vállalkozás adatait a nyilvántartásból, ha
@@ -286,6 +288,8 @@ a Magyar Nemzeti Bank elnöke által kibocsátott rendeletben meghatározott iga
 23. § Az e fejezetben meghatározott adatok bejelentésének elmaradása – jogszabályban meghatározott esetek kivételével – a bizalmi vagyonkezelési szerződéshez fűződő joghatásokat nem érinti.
 
 24. § (1) A bejelentő köteles – a módosulásra okot adó körülmény bekövetkeztétől számított nyolc napon belül – a hivatalnak bejelenteni a nyilvántartásban szereplő adatok megváltozását.
+
+(1a) Az (1) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a 22. § (1) bekezdésében meghatározott nem üzletszerűen eljáró bizalmi vagyonkezelő, vagyonrendelő, illetve a közöttük létrejött szerződésben meghatározott kedvezményezett kéri – az (1) bekezdésben meghatározott határidőn belül értesíti a hivatalt.
 
 (2) A hivatal az adatváltozást bejegyzi a nyilvántartásba.
 

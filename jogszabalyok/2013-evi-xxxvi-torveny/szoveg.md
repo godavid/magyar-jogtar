@@ -211,7 +211,7 @@ lakcímmel rendelkező, a központi névjegyzékben szereplő választópolgár 
 - a) párt tagja,
 - b) a választókerületben jelöltet állító jelölő szervezet tagja,
 - c) a választókerületben induló jelölt hozzátartozója,
-- d) a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti központi államigazgatási szervvel vagy a választási bizottság illetékességi területén hatáskörrel rendelkező egyéb közigazgatási szervvel kormányzati szolgálati jogviszonyban, szolgálati vagy más, munkavégzésre irányuló jogviszonyban álló személy a közalkalmazott kivételével, állami vezető.
+- d) a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti központi államigazgatási szervvel vagy a választási bizottság illetékességi területén hatáskörrel rendelkező egyéb közigazgatási szervvel kormányzati szolgálati jogviszonyban, állami szolgálati jogviszonyban, szolgálati vagy más, munkavégzésre irányuló jogviszonyban álló személy a közalkalmazott kivételével, állami vezető.
 
 19. § (1) A választott és megbízott tagok jogai és kötelezettségei – a 41. § (3) bekezdésében és a 45. § (3) bekezdésében foglalt kivétellel – azonosak.
 
@@ -614,7 +614,7 @@ történhet. A határozat rövid úton való közlésének módját (módjait) a
 
 (2) A választási iroda tagjának megbízatását a választási iroda vezetője indokolás nélkül visszavonhatja.
 
-68. § (1) A választási iroda tagjává közszolgálati tisztviselő és közalkalmazott bízható meg.
+68. § (1) A választási iroda tagjává közszolgálati tisztviselő, állami tisztviselő és közalkalmazott bízható meg.
 
 (2) A külképviseleti választási iroda vezetőjét és többi tagját a Nemzeti Választási Iroda elnöke bízza meg. A külképviseleti választási iroda tagjává a diplomáciai képviselet személyzetének, illetőleg a konzuli személyzet magyar állampolgár tagját is meg lehet bízni.
 
@@ -2733,13 +2733,29 @@ alapján megállapítja a választás eredményét.
 
 #### 174. Módosító rendelkezések
 
-#### 356–363. §
+#### 356. §
+
+#### 357. §
+
+#### 358. §
+
+#### 359. §
+
+#### 360. §
+
+#### 361. §
+
+#### 362. §
+
+#### 363. §
 
 364. § A Büntető Törvénykönyvről szóló 2012. évi C. törvény 459. § (1) bekezdés 11. pontja a következő l) alponttal kiegészülve lép hatályba:
 
 „l) a választási bizottság tagja;”
 
-#### 365–366. §
+#### 365. §
+
+#### 366. §
 
 #### 175. Hatályon kívül helyező rendelkezések
 

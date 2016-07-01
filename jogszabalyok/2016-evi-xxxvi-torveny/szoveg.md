@@ -15,7 +15,7 @@ az épített környezet alakításáról és védelméről szóló 1997. évi LX
 13. § Az Étv.
 
 - a)–f)
-- g)
+- g) 33/A. § (1) bekezdés a) pontjában a „bejelenti” szövegrész helyébe a „ , kizárólag elektronikus úton bejelenti” szöveg,
 - h)–l)
 
 lép.

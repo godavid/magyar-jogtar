@@ -822,6 +822,8 @@ kezeli a mezőgazdasági igazgatási szerv.
 
 (5) A földhasználó a 94. § (1) bekezdés b) és c) pontjában meghatározott adataiban, valamint a használatban bekövetkezett, az e törvény végrehajtására kiadott rendeletben meghatározott változásokat – ideértve a használat megszűnését is – 30 napon belül köteles az ingatlanügyi hatósághoz bejelenteni az e törvény végrehajtására kiadott rendeletben meghatározott formanyomtatványon (a továbbiakban: változás-bejelentési adatlap).
 
+(5a) Az (5) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a földhasználó kéri – az (5) bekezdés szerinti határidőben értesíti az ingatlanügyi hatóságot.
+
 (6) A földhasználati nyilvántartási eljárás a (2) és az (5) bekezdésben meghatározott földhasználati bejelentési és a változás-bejelentési (a továbbiakban együtt: bejelentési) adatlapnak, valamint a (3) bekezdésben meghatározott okiratoknak az ingatlanügyi hatósághoz való benyújtásával indul meg.
 
 (7) A Ket.-ben meghatározott közreműködő hatóság az eljárásban nem vehet részt.

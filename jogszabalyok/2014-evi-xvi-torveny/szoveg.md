@@ -1303,7 +1303,7 @@ tekintetében.
 - e) a befektetési alapkezelő vezető állású személyében, a letétkezelő vezető állású személyében, a kiszervezett tevékenységet végzők személyében bekövetkezett változás átvezetését jelenti;
 - f) a befektetési alapkezelő vezető állású személye, a letétkezelő vezető állású személye, a forgalmazó, a befektetési alap könyvvizsgálója, az ingatlanértékelő, az értékbecslő vagy a kiszervezett tevékenységet végzők adataiban bekövetkezett változás átvezetését jelenti;
 - g) a befektetési alap nyilvántartásba történő bejegyzését követően, a jegyzésre, jegyzési garanciavállalásra, alul- és túljegyzésre, valamint a jegyzéshez kapcsolódó allokációra vonatkozó rendelkezések tájékoztatóból, kezelési szabályzatból való törlését jelentik;
-- h) olyan engedélyhez kötött változásokhoz kapcsolódik, amelyhez a Felügyelet az engedélyt korábban megadta;
+- h) olyan engedélyhez kötött változásokhoz kapcsolódik, amelyhez a Felügyelet az engedélyt korábban megadta vagy amelyről a Felügyelet korábban határozott;
 - i) a letétkezelő vagy a könyvvizsgáló személyében bekövetkezett változást jelenti.
 
 73. § (1) Zártkörű alap kezelési szabályzatában részletesen meg kell határozni a kezelési szabályzat módosítására vonatkozó eljárást, ezen belül azokat a feltételeket, amelyek módosításához a befektetési alap befektetői által birtokolt befektetési jegyek arányában meghatározott többségi vagy egyhangú jóváhagyás szükséges. A befektetési alapkezelő a kezelési szabályzatot minden egyéb esetben egyoldalúan módosíthatja.
@@ -1990,7 +1990,7 @@ formájában teljesíti.
 
 (2) A Felügyelet a kereskedelmi kommunikációt betilthatja, ha annak tartalma ellentétes vagy félrevezető információt tartalmaz a benyújtott, illetve közzétételre engedélyezett tájékoztatóban foglaltakhoz képest, vagy egyébként a tisztességtelen kereskedelmi gyakorlat Fttv.-ben meghatározott tilalmába ütközik.
 
-138. § A befektetési alapkezelő által kezelt nyilvános befektetési alapok kezelési szabályzatai és tájékoztatói összevont kezelési szabályzatként, illetve összevont tájékoztatóként is elkészíthetőek a 3. melléklet I. Fejezetében és az 5. mellékletben foglaltak megfelelő alkalmazásával, akként, hogy ilyen esetben a kezelési szabályzat, illetve a tájékoztató azon tartalmi elemeit, amelyek több vagy valamennyi befektetési alap esetében azonosak, elegendő egy ízben a dokumentum részévé tenni, azokat – az esettől függően – több vagy valamennyi befektetési alapra vonatkoztatva, míg a kezelési szabályzat, illetve a tájékoztató egyes alapokra vonatkozó részeiben csak az adott alapra speciálisan jellemző elemeket kell feltüntetni.
+#### 138. §
 
 #### 52. A nyilvános befektetési alapokra vonatkozó rendkívüli tájékoztatási kötelezettség
 
@@ -3385,7 +3385,7 @@ Kezelési szabályzat
 - 58.1. A prime bróker neve
 - 58.2. Az ABA prime brókerrel kötött megállapodása lényegi elemeinek, a felmerülő összeférhetetlenségek kezelésének leírása
 - 58.3. A letétkezelővel kötött esetleges megállapodás azon elemének leírása, amely az ABA eszközei átruházásának és újrafelhasználásnak lehetőségére vonatkozik, továbbá a prime brókerre esetlegesen átruházott felelősségre vonatkozó információ leírása
-- 59. Harmadik személyre kiszervezett tevékenységek leírása, az esetleges összeférhetetlenségek bemutatása A fenti tagolást összevont kezelési szabályzat esetében a 138. §-ban írtakra is tekintettel, értelemszerűen kell alkalmazni.
+- 59. Harmadik személyre kiszervezett tevékenységek leírása, az esetleges összeférhetetlenségek bemutatása A fenti tagolást a 70. § (3) bekezdés c) pontjában írtakra is tekintettel, értelemszerűen kell alkalmazni.
 - 60. ÁÉKBV esetén a letétkezelő kötelezettségeinek leírása, az esetleges összeférhetetlenségek ismertetése, a letétkezelő által kiszervezett feladatok leírása, valamint nyilatkozat arra vonatkozóan, hogy kérelemre az ÁÉKBV-alapkezelő a befektetők rendelkezésre bocsátja az 53. pontban valamint az e pontban részletezett információkat.
 
 #### II. FEJEZET
@@ -3796,7 +3796,7 @@ Tájékoztató
 - 12.6. Az ingatlanértékelő jegyzett tőkéje
 - 12.7. Az ingatlanértékelő saját tőkéje
 - 12.8. Az ingatlanértékelő alkalmazottainak száma
-- 13. Az adott tárgykörre vonatkozó egyéb információk A fenti tagolást összevont tájékoztató esetében a 138. §-ban írtakra is tekintettel, értelemszerűen kell alkalmazni.
+- 13. Az adott tárgykörre vonatkozó egyéb információk A fenti tagolást a 70. § (3) bekezdés c) pontjában írtakra is tekintettel, értelemszerűen kell alkalmazni.
 
 ### 6. melléklet a 2014. évi XVI. törvényhez
 
@@ -3960,12 +3960,12 @@ Amennyiben egy funkcionális kategóriába a portfólióból legalább két inga
 
 - 1. A befektetési alapkezelő a szóbeli panaszt valamennyi, az ügyfelek és befektetők számára nyitva álló helyiségben, annak nyitvatartási idejében, ennek hiányában a székhelyén minden munkanapon 8 órától 16 óráig, a telefonon közölt szóbeli panaszt minden munkanapon és legalább a hét egy munkanapján 8 órától 20 óráig, elektronikus eléréssel – üzemzavar esetén megfelelő más elérhetőséget biztosítva – folyamatosan fogadja.
 - 2. A befektetési alapkezelő a telefonon történő panaszkezelés esetén biztosítja az ésszerű várakozási időn belüli hívásfogadást és ügyintézést.
-- 3. Telefonon történő panaszkezelés esetén a befektetési alapkezelő és a panaszos közötti telefonos kommunikációt a befektetési alapkezelő hangfelvétellel rögzíti, és a hangfelvételt a szabályzata szerinti ideig, legalább azonban 1 évig megőrzi. Erről a panaszost a telefonos ügyintézés kezdetekor tájékoztatni kell. A panaszos kérésére biztosítani kell a hangfelvétel visszahallgatását, továbbá térítésmentesen rendelkezésre kell bocsátani a hangfelvételről készített hitelesített jegyzőkönyvet.
+- 3. Telefonon történő panaszkezelés esetén a befektetési alapkezelő és a panaszos közötti telefonos kommunikációt a befektetési alapkezelő hangfelvétellel rögzíti, és a hangfelvételt a szabályzata szerinti ideig, legalább azonban 5 évig megőrzi. Erről a panaszost a telefonos ügyintézés kezdetekor tájékoztatni kell. A panaszos kérésére biztosítani kell a hangfelvétel visszahallgatását, továbbá térítésmentesen rendelkezésre kell bocsátani a hangfelvételről készített hitelesített jegyzőkönyvet.
 - 4. A befektetési alapkezelő a szóbeli panaszt – az alábbi eltéréssel – azonnal megvizsgálja, és szükség szerint orvosolja. Ha a panaszos a panasz kezelésével nem ért egyet, a befektetési alapkezelő a panaszról és az azzal kapcsolatos álláspontjáról jegyzőkönyvet vesz fel, és annak egy másolati példányát a személyesen közölt szóbeli panasz esetén a panaszosnak átadja, telefonon közölt szóbeli panasz esetén a panaszosnak – az álláspontjával együtt – megküldi, egyebekben az írásbeli panaszra vonatkozó rendelkezések szerint jár el.
 - 5. Ha a panasz azonnali kivizsgálása nem lehetséges, a befektetési alapkezelő a panaszról jegyzőkönyvet vesz fel, és annak egy másolati példányát a személyesen közölt szóbeli panasz esetén a panaszosnak átadja, telefonon közölt szóbeli panasz esetén a panaszosnak megküldi, egyebekben az írásbeli panaszra vonatkozó rendelkezések szerint jár el.
 - 6. A befektetési alapkezelő az írásbeli panasszal kapcsolatos, indokolással ellátott álláspontját a panasz közlését követő 30 napon belül megküldi a panaszosnak.
-- 7. A panasz elutasítása esetén a befektetési alapkezelő válaszában tájékoztatja a panaszost arról, hogy panaszával – annak jellege szerint, illetve attól függően, hogy a panaszos befektetőként vagy ügyfélként tett panaszt – a Felügyelet vagy a pénzügyi békéltető testület eljárását kezdeményezheti, továbbá az előbbiektől függően meg kell adni a Felügyelet és a pénzügyi békéltető testület levelezési címét.
-- 8. A befektetési alapkezelő a panaszt és az arra adott választ a szabályzatában meghatározott ideig, legalább azonban 3 évig őrzi meg, és azt a Felügyelet kérésére bemutatja.
+- 7. A panasz elutasítása esetén a befektetési alapkezelő válaszában tájékoztatja a panaszost arról, hogy panaszával – annak jellege szerint, illetve attól függően, hogy a panaszos befektetőként vagy ügyfélként tett panaszt – a Felügyelet vagy a pénzügyi békéltető testület eljárását kezdeményezheti, továbbá az előbbiektől függően meg kell adni a Felügyelet levelezési címét és a Pénzügyi Békéltető Testület székhelyét, telefonos és internetes elérhetőségét, valamint levelezési címét.
+- 8. A befektetési alapkezelő a panaszt és az arra adott választ a szabályzatában meghatározott ideig, legalább azonban 5 évig őrzi meg, és azt a Felügyelet kérésére bemutatja.
 - 9. A befektetési alapkezelő a panaszokról, valamint az azok rendezését, megoldását szolgáló intézkedésekről nyilvántartást vezet.
 - 10. A nyilvántartásnak tartalmaznia kell
   - a) a panasz leírását, a panasz tárgyát képező esemény vagy tény megjelölését,

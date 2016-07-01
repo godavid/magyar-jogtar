@@ -343,6 +343,8 @@ azon változásokat, amelyeket eljárása során észlel.
 
 (4) A jogosult – a (3) bekezdésben meghatározott határidőben – köteles bejelenteni nevének (cégnevének), illetve lakcímének (székhelyének vagy telephelyének) megváltozását. A bejelentésében a jogosult személyi azonosítóját, illetve statisztikai azonosítóját is fel kell tüntetni.
 
+(4a) A (4) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a bejelentő kéri – a (3) bekezdés szerinti határidőben értesíti az ingatlanügyi hatóságot. Az ingatlanügyi hatóság a közhiteles nyilvántartást vezető szerv értesítése alapján az adatváltozást hivatalból átvezeti.
+
 (5) Nincs szükség külön bejelentésre, ha a (3) és (4) bekezdés szerinti változás hatósági határozaton alapul, illetőleg a tulajdonjog, a vagyonkezelői jog változásával kapcsolatos, feltéve, hogy ennek bejegyzését az érdekelt harminc napon belül kéri.
 
 (6) Az ingatlan adataiban hatósági határozattal, a település közigazgatási, illetve belterületi határának módosításával kapcsolatban bekövetkezett változások átvezetése iránt az erről szóló döntést hozó szerv keresi meg az ingatlanügyi hatóságot.
@@ -524,7 +526,7 @@ kell csatolnia.
 
 ### Hiánypótlás
 
-39. § (1) Ha a kérelemnek, illetőleg mellékletének vagy a bejegyzés alapjául szolgáló okiratnak pótolható hiányossága van – ideértve az igazgatási szolgáltatási díj meg nem fizetését is –, a kérelmezőt tizenöt napon belül fel kell hívni a hiány pótlására. Ha a kérelemnek, illetőleg mellékletének vagy a bejegyzés alapjául szolgáló okiratnak pótolható hiányossága van, de a kérelmet a rangsorban előrébb álló kérelem miatt függőben kell tartani, a hiánypótlási felhívást a rangsorban megelőző kérelem elbírálásának napjától számított tizenöt napon belül kell kiadni.
+39. § (1) Ha a kérelemnek, illetve mellékletének vagy a bejegyzés alapjául szolgáló okiratnak pótolható hiányossága van – ideértve az igazgatási szolgáltatási díj meg nem fizetését is –, a kérelmezőt tizenöt napon belül fel kell hívni a hiány pótlására. Ha a kérelemnek, illetve mellékletének vagy a bejegyzés alapjául szolgáló okiratnak pótolható hiányossága van, de a kérelmet a rangsorban előrébb álló kérelem miatt, vagy kérelemre a tulajdonjog-bejegyzési engedély benyújtásáig függőben kell tartani, a hiánypótlási felhívást a rangsorban megelőző kérelem elbírálásának napjától, illetve a tulajdonjog-bejegyzési engedély benyújtásának napjától számított tizenöt napon belül kell kiadni.
 
 (2) Ha az ingatlanügyi hatóság megítélése szerint a kérelmet részben el kell utasítani, a kérelmezőt nyilatkozattételre kell felhívni, hogy a kérelmet teljesíthető részében fenntartja-e.
 
@@ -656,6 +658,8 @@ kell csatolnia.
 (3) A függőben tartást a tulajdoni lapra nem kell feljegyezni.
 
 (4) A függőben tartott beadvány ügyintézési határidejének számítására az eljárás felfüggesztésére vonatkozó szabályok az irányadók.
+
+47/B. § Nem tartható függőben a beadvány, ha a bejegyzés iránti kérelmet a 39. § (3) bekezdése alapján határozattal vagy a 39. § (4) bekezdése alapján végzéssel el kell utasítani.
 
 ### Széljegyzés
 

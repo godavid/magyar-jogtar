@@ -657,6 +657,8 @@ az időpontja.
 
 (2) Ha a besorolásra vonatkozó kérelem beadását követően az (1) bekezdésben meghatározott adatokban változás történik, azt az üzemeltető köteles a változást követő 15 napon belül írásban bejelenteni a Hivatalnak.
 
+(3) A (2) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle az üzemeltető kéri – a (2) bekezdés szerinti határidőben értesíti a Hivatalt.
+
 25/B. § (1) A Hivatal folyamatosan ellenőrzi az „art” minősítéssel ellátott mozikat, hogy megfelelnek-e az „art” mozi minősítés jogszabályban előírt feltételeinek.
 
 (2) A moziüzemeltető az általa üzemeltetett „art” mozik, illetve mozitermek szerinti bontásban minden naptári negyedévet követő hó 20. napjáig köteles a Hivatalnak, a Hivatal által meghatározott módon adatot szolgáltatni az ott vetített filmalkotás címéről, az 1. melléklet szerinti besorolási kategóriájáról, „art” besorolási kategóriájáról, a vetítés időpontjáról és helyszínéről, a nézőszámról és az árbevételről.

@@ -131,7 +131,7 @@ képezi.
 
 (7) Ha az (1) bekezdésben meghatározott költségvetési szervek befizetési kötelezettségüknek nem tesznek eleget, a hiányzó összegre fejezeti tartalékot kell képezni és a befizetést legkésőbb 2016. december 20-áig kell teljesíteni.
 
-(8) A Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek az irányadó öregségi nyugdíjkorhatárt betöltött és az öregségi teljes nyugdíjhoz szükséges szolgálati időt megszerzett közalkalmazotti vagy kormányzati szolgálati jogviszonyban állók jogviszonyának megszüntetéséből eredő kiadási megtakarításaikat – a 2016. évi költségvetésbe már beépült megtakarítások kivételével – kötelesek befizetni a Magyar Államkincstár „A zárolt álláshelyekhez kapcsolódó megtakarítások befizetései” megnevezésű, 10032000-01034286-00000000 számú számlájára, a központi költségvetés javára.
+(8) A Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek az irányadó öregségi nyugdíjkorhatárt betöltött és az öregségi teljes nyugdíjhoz szükséges szolgálati időt megszerzett közalkalmazotti, kormányzati szolgálati vagy állami szolgálati jogviszonyban állók jogviszonyának megszüntetéséből eredő kiadási megtakarításaikat – a 2016. évi költségvetésbe már beépült megtakarítások kivételével – kötelesek befizetni a Magyar Államkincstár A zárolt álláshelyekhez kapcsolódó megtakarítások befizetései megnevezésű, 10032000-01034286-00000000 számú számlájára, a központi költségvetés javára.
 
 #### 6. Az elkülönített állami pénzalapokkal összefüggő rendelkezések
 
@@ -337,7 +337,7 @@ alakulását, továbbá javaslatot tesz a kiadási előirányzat felhasználás�
 
 ### III. Fejezet — A KÖZPONTI ALRENDSZEREN BELÜLI ELSZÁMOLÁSOK, KAPCSOLATOK
 
-33. § (1) A szociális hozzájárulási adó 2016-ban megfizetett összegének 79,43%-a az Ny. Alapot, 20,57%-a az E. Alapot illeti meg. A szociális hozzájárulási adó megfizetett összegéből az Ny. Alapot és az E. Alapot megillető részt a Nemzeti Adó- és Vámhivatal állapítja meg és naponta utalja át a jogosult számlájára.
+33. § (1) A szociális hozzájárulási adó 2016. évben, július 1-jét követően megfizetett összegének 74,30%-a az Ny. Alapot, 20,53%-a az E. Alapot, 5,17%-a a Nemzeti Foglalkoztatási Alapot illeti meg. A szociális hozzájárulási adó megfizetett összegéből az egyes Alapot megillető részt a Nemzeti Adó- és Vámhivatal állapítja meg és naponta utalja át a jogosult számlájára.
 
 (2) Az államháztartásért felelős miniszter minden negyedévet követő hónap 15. napjáig – az utolsó negyedévben december 20-áig – az állami intézményfenntartási feladatot ellátó szerv költségvetési kiadási és támogatási előirányzatát megemeli a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 5. cím, 3. Köznevelési intézmények működtetésével kapcsolatos önkormányzati befizetések alcímre érkezett befizetések összegével.
 

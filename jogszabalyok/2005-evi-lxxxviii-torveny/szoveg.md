@@ -211,6 +211,8 @@ az önkéntes jogviszonnyal összefüggésben következett be, a fogadó szervez
 
 (6) Közhasznú szervezet esetén az adatváltozás bejelentésekor a létesítő okirat másolatát csak akkor kell mellékelni, ha az abban megjelölt cél, illetve tevékenységi kör megváltozott.
 
+(7) Az (1)–(2) bekezdések szerinti változásbejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a fogadó szervezet kéri – az (2) bekezdésben meghatározott határidőn belül értesíti a családpolitikáért felelős minisztert.
+
 12. § (1) A 11. §-ban foglaltak szerint bejelentett adatokról a miniszter a fogadó szervezetek nyilvánossága és az önkéntesek védelme érdekében nyilvántartást vezet.
 
 (1a) A fogadó szervezetek nyilvántartása hatósági nyilvántartás, amely közhitelesen tanúsítja a bejelentkezési kötelezettség teljesítését, a bejelentés tartalmát az 1. melléklet 1., 4. és 5. pontja szerinti adatok tekintetében, valamint a 13. § (3) bekezdése szerinti adatokat.

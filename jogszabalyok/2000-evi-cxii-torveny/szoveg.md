@@ -8,7 +8,7 @@ Az Országgyűlés – figyelemmel arra, hogy a Balaton Kiemelt Üdülőkörzet 
 
 ### A TÖRVÉNY CÉLJA ÉS HATÁLYA
 
-1. § A törvény célja a Balaton kiemelt üdülőkörzet területén az érintett önkormányzatok, szakmai, gazdasági és egyesületek egyetértésével a területrendezés alapvető feladatainak és szabályainak megállapítása.
+1. § A törvény célja a Balaton kiemelt üdülőkörzet területén az érintett önkormányzatok, szakmai szervezetek, gazdasági társaságok és egyesületek egyetértésével a területrendezés alapvető feladatainak és szabályainak megállapítása.
 
 2. § (1) A törvény hatálya a Balaton kiemelt üdülőkörzet területére terjed ki.
 
@@ -125,7 +125,7 @@ települési területfelhasználási egységbe sorolható;
 - e) kiemelt jelentőségű mellékutakat kell kialakítani a 2/1. sz. melléklet szerint meghatározott irányokban;
 - f) Budapest–Székesfehérvár–Nagykanizsa–Murakeresztúr–(Horvátország) transz-európai vasúti szállítási hálózat részeként működő országos törzshálózati vasútvonal kitérési lehetőséget biztosító szakaszos kétvágányúsításának és védőtávolságainak területigényét a szakági tervek és a településrendezési eszközök alapján meg kell határozni;
 - g) a Hajmáskér–Balatonfűzfő között tervezett egyéb országos törzshálózati vasútvonal területigényét – a Szabadbattyán–Tapolca egyéb országos törzshálózati vasútvonal balatonkenesei szakaszának a csúszásveszélyeztetettsége miatt – biztosítani kell;
-- h) a vitorláskikötő-hálózat bővítése a vízpart-rehabilitációs tanulmánytervek, első felülvizsgálatukat követően a partvonal-szabályozási és vízpart-rehabilitációs tervek alapján történhet;
+- h) a vitorláskikötő-hálózat bővítése a vízpart-rehabilitációs tanulmánytervek alapján történhet;
 - i) a meglévő repülőterek a 2/4. sz. melléklet szerint megtartandók és fejlesztendők.
 
 (3) A közmű és elektronikus hírközlési nyomvonalas építmények közül
@@ -143,13 +143,13 @@ települési területfelhasználási egységbe sorolható;
 
 (3) Az Országos Erdőállomány Adattárban nyilvántartott erdők területe a településrendezési eszközökben kizárólag erdőterület települési területfelhasználási egységbe sorolható.
 
-6. § (1) E § alkalmazásában zöldterület: a balatoni vízpart-rehabilitációs szabályozási követelményekkel érintett területre készült vízpart-rehabilitációs tanulmánytervben, illetve első felülvizsgálatát követően a partvonal-szabályozási és vízpart-rehabilitációs tervben zöldterület települési területfelhasználási egységbe sorolt terület.
+6. § (1) E § alkalmazásában zöldterület: a balatoni vízpart-rehabilitációs szabályozási követelményekkel érintett területre készült vízpart-rehabilitációs tanulmánytervben zöldterület települési területfelhasználási egységbe sorolt terület.
 
 (2) Zöldterületen más települési területfelhasználási egység csak az átsorolni kívánt zöldterülettel legalább azonos alapterületű új zöldterület kijelölésével és az alábbi feltételek egyidejű megléte esetén jelölhető ki:
 
 - a) az átsorolni kívánt zöldterület nem tartozik természetvédelmi oltalom alá,
-- b) a vízpart-rehabilitációs tervben kijelölt közhasználatú parti sétány hossza nem csökkenhet,
-- c) a vízpart-rehabilitációs tervben kijelölt közhasználatú parti sétány legalább 10 m szélességgel a természetes vízparti vegetáció sérelme nélkül biztosítható,
+- b) a vízpart-rehabilitációs tanulmánytervben kijelölt közhasználatú parti sétány hossza nem csökkenhet,
+- c) a vízpart-rehabilitációs tanulmánytervben kijelölt közhasználatú parti sétány legalább 10 m szélességgel a természetes vízparti vegetáció sérelme nélkül biztosítható,
 - d) az újonnan kijelölt zöldterület a települési önkormányzat vagy a magyar állam tulajdonában van,
 - e) az újonnan kijelölt zöldterület a vízpart-rehabilitációs szabályozással érintett területen van, vagy az átsorolást követően megmaradó és az újonnan kijelölt zöldterület összefüggő zöldterületet alkot,
 - f) az ingatlan-nyilvántartás szerint állami vagy önkormányzati tulajdonban álló közpark vagy közkert esetén az átsorolás legfeljebb az átsorolással érintett zöldterület 15%-ára, egyéb zöldterületek esetén 40%-ára terjedhet ki, és
@@ -351,9 +351,9 @@ történhet.
 - a) legfeljebb 10%-a építhető be a külön jogszabályokban meghatározott feltételek szerint,
 - b) legkevesebb 65%-át – legkésőbb a használatbavételi engedélykérelem benyújtásáig – növényzettel fedetten kell kialakítani és fenntartani.
 
-20. § (1) A kiemelt üdülőkörzet valamennyi parti településén a belterülethez csatlakozó parthossz legkevesebb 30%-án legalább 5 méter széles közhasználatú parti sétány helye biztosítandó a vízpart-rehabilitációs tanulmánytervek – első felülvizsgálatukat követően partvonal-szabályozási és vízpart-rehabilitációs tervek – alapján felülvizsgált településrendezési eszközökben, figyelemmel a természetes vegetáció megtartására.
+20. § (1) A kiemelt üdülőkörzet valamennyi parti településén a belterülethez csatlakozó parthossz legkevesebb 30%-án legalább 5 méter széles közhasználatú parti sétány helye biztosítandó a vízpart-rehabilitációs tanulmánytervek alapján felülvizsgált településrendezési eszközökben, figyelemmel a természetes vegetáció megtartására.
 
-(2) A vízpart-rehabilitációs tanulmánytervekkel – első felülvizsgálatukat követően partvonal-szabályozási és vízpart-rehabilitációs tervekkel – közterületbe sorolt területekre vonatkozóan a települési önkormányzatokat – külön jogszabályban meghatározottak szerinti védett természeti területeken az államot – elővásárlási jog illeti meg.
+(2) A vízpart-rehabilitációs tanulmánytervekkel közterületbe sorolt területekre vonatkozóan a települési önkormányzatokat – külön jogszabályban meghatározottak szerinti védett természeti területeken az államot – elővásárlási jog illeti meg.
 
 (3) A (2) bekezdésben meghatározott területre készült vízpart-rehabilitációs szabályozási követelmények alapján felülvizsgált és módosított településrendezési eszközök alapján meghatározott ingatlanokra, a települési önkormányzat kérelmére, az elővásárlási jogot az ingatlan-nyilvántartásba be kell jegyezni.
 
@@ -581,7 +581,7 @@ nem telepíthető.
 - e) az I–III. osztályú nádasban, illetve attól legalább 2 m-re, a környezeti kárelhárítás vagy az élet- és balesetvédelmi indokból szükséges beavatkozás, valamint az engedély nélkül létrehozott feltöltés és vízi állás visszabontásának eseteitől eltekintve, tilos minden olyan mechanikai beavatkozás (kotrás, feltöltés, építés, vízi állás-, csónakút-, horgászhely-létesítés), amely a nádas állományát, annak minőségét károsítja, illetőleg a nádas pusztulását eredményezheti;
 - f)
 - g) a védett természeti területen található nádasban osztályba sorolástól függetlenül, természetvédelmi kezelés kivételével – amelynek módját a természetvédelmi kezelési terv határozza meg – tilos a kotrás, valamint minden olyan tevékenység, amely a nádas állományát veszélyezteti, vagy károsítja;
-- h) a tómeder nádasában, a kihirdetett vízpart-rehabilitációs tanulmánytervek – első felülvizsgálatukat követően a partvonal-szabályozási és vízpart-rehabilitációs tervek – által kijelölt kikötésre alkalmas partszakaszokon engedéllyel rendelkező kikötők esetén legfeljebb 5 méter széles bejáró, valamint a meglévő közhasználatú strandok előtt, fövenyes strandszakasz kialakítása érdekében, a IV–V. osztályú nádasban, legfeljebb 30 méter széles bejáró a vízügyi hatóság engedélyével fenntartható;
+- h) a tómeder nádasában, a kihirdetett vízpart-rehabilitációs tanulmánytervek által kijelölt kikötésre alkalmas partszakaszokon engedéllyel rendelkező kikötők esetén legfeljebb 5 méter széles bejáró, valamint a meglévő közhasználatú strandok előtt, fövenyes strandszakasz kialakítása érdekében, a IV–V. osztályú nádasban, legfeljebb 30 méter széles bejáró a vízügyi hatóság engedélyével fenntartható;
 - i) az az üzemeltetési engedélyköteles vízi jármű, amely nem rendelkezik üzemeltetési engedéllyel és kiépített kikötőben kikötőhellyel, a tómeder területén nem tárolható;
 - j)
 
@@ -736,7 +736,9 @@ térségi hulladéklerakó hely nem jelölhető ki.
 
 - a)–c)
 
-55. §
+55. § (1) A balatoni vízpart-rehabilitációs szabályozási követelményekkel érintett területen, amennyiben az érintett vízpart-rehabilitációs tanulmányterv és a településrendezési eszköz módosítása a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló törvény hatálya alá tartozó kiemelt jelentőségű ügy tárgyát képező építési beruházás megvalósítása érdekében szükséges, a településrendezési eszköz módosítása – a (2) bekezdésben foglalt kivétel figyelembevételével – a vízpart-rehabilitációs tanulmányterv módosítása nélkül is elfogadható.
+
+(2) Az (1) bekezdésben megjelölt esetekben a településrendezési eszköz módosítása során a vízpart-rehabilitációs tanulmánytervben szereplő beépítetlenül megőrzendő parti területsáv megtartásáról gondoskodni kell.
 
 56. § (1) Ahol e törvény a környezet, a természet, az erdők, a termőföld, az épített környezet, a kulturális javak védelmére és a műemlékvédelemre, valamint a vízgazdálkodásra vonatkozó külön jogszabályokban meghatározottaknál szigorúbb rendelkezéseket tartalmaz, e törvény rendelkezéseit kell alkalmazni.
 
@@ -752,32 +754,32 @@ térségi hulladéklerakó hely nem jelölhető ki.
 
 rendeletben szabályozza.
 
-(2) Felhatalmazást kap a területrendezésért felelős miniszter, hogy a vízpart-rehabilitációs tanulmánytervek első felülvizsgálatát megelőzően
+(2) Felhatalmazást kap a területrendezésért felelős miniszter, hogy
 
 - a) a vízpart-rehabilitációs szabályozási követelményekkel érintett területeket kijelölje;
 - b) a vízpart-rehabilitációs szabályozási követelmények alapján a településrendezési eszközök felülvizsgálatához szükséges tanulmányterveket rendelettel fogadja el.
 
 (3) Felhatalmazást kap a vízgazdálkodásért felelős miniszter, hogy a vízpart-rehabilitációs tanulmánytervek első felülvizsgálatát megelőzően a partvonal-szabályozási terveket rendelettel fogadja el.
 
-(4) Felhatalmazást kap a területrendezésért felelős miniszter, hogy a vízgazdálkodásért felelős miniszter egyetértésével kiadott rendeletben a vízpart-rehabilitációs tanulmánytervek első felülvizsgálatát követően a vízpart-rehabilitációs szabályozási követelményekkel érintett területeket kijelölje, valamint a partvonal-szabályozási és a vízpart-rehabilitációs terveket elfogadja.
+(4)
 
 (5) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy a kultúráért, a környezet- és természetvédelemért, valamint a turizmusért felelős miniszterrel egyetértésben a szőlő termőhelyi kataszteri területbe tartozó, kiemelkedő értékű tájelemet képviselő – történeti, termelési és turisztikai szempontból – egyedi értékű dűlőket lehatárolja, és e területek kivételes értékeinek megőrzésére vonatkozó követelményeket rendeletben szabályozza.
 
 59. § (1) A Balaton kiemelt üdülőkörzet parti településein a településrendezési eszközöket a vízpart-rehabilitációs szabályozási követelményeknek megfelelően, a vízpart-rehabilitációval érintett területekre készülő vízpart-rehabilitációs tanulmánytervekkel, első felülvizsgálatukat követően a partvonal-szabályozási és vízpart-rehabilitációs tervekkel összhangban kell felülvizsgálni és módosítani.
 
-(2) A Balaton kiemelt üdülőkörzet parti településeinek önkormányzata a vízpart-rehabilitációs tanulmánytervek első felülvizsgálatáig kezdeményezheti a települést érintő vízpart-rehabilitációs tanulmánytervről szóló miniszteri rendeletben szereplő területhasználatok megváltoztatását. A kezdeményezés akkor támogatható, ha a változtatási kérelem megalapozott és végrehajtása nem ütközik jogszabályba.
+(2)
 
 (3)
 
-(4) A vízpart-rehabilitációs tanulmányterveket szükség szerint felül kell vizsgálni. A partvonal-szabályozási terveket első alkalommal a vízpart-rehabilitációs tanulmánytervek felülvizsgálatával egyidejűleg kell felülvizsgálni.
+(4)
 
-(5) A partvonal-szabályozási és vízpart-rehabilitációs terveket szükség szerint, de legalább 10 évenként felül kell vizsgálni, és szükség szerint módosítani.
+(5) A partvonal-szabályozási terveket szükség szerint, de legalább 10 évenként felül kell vizsgálni, és szükség szerint módosítani.
 
 (6) A partvonal-szabályozási tervek első felülvizsgálatáig a kikötésre alkalmas partszakaszok, valamint a szabályozási partvonal tekintetében a vízpart-rehabilitációs tanulmánytervekben foglaltakat kell irányadónak tekinteni.
 
-(7) A vízpart-rehabilitációs tanulmánytervek első felülvizsgálatának megtörténtéig a 2003. december 3-án az ingatlan-nyilvántartásban, vagy a hatályos településrendezési eszközökben kemping és strand települési területfelhasználási egységbe sorolt kempingek és a strandok területének átsorolására és beépíthetőségére, valamint a strandok területének tekintetében előírt telekfelosztásra és telekhatár-rendezésre vonatkozó vízpart-rehabilitációs tanulmánytervben foglalt előírások és szabályozási elemek helyett e törvény megfelelő rendelkezéseit kell alkalmazni a településrendezési tervezés során.
+(7) A 2003. december 3-án az ingatlan-nyilvántartásban, vagy a hatályos településrendezési eszközökben kemping és strand települési területfelhasználási egységbe sorolt kempingek és a strandok területének átsorolására és beépíthetőségére, valamint a strandok területének tekintetében előírt telekfelosztásra és telekhatár-rendezésre vonatkozó vízpart-rehabilitációs tanulmánytervben foglalt előírások és szabályozási elemek helyett e törvény megfelelő rendelkezéseit kell alkalmazni a településrendezési tervezés során.
 
-(8) A Balaton Kiemelt Üdülőkörzet Területrendezési Tervét legalább 10 évente felül kell vizsgálni.
+(8)
 
 (9) A kiemelt üdülőkörzethez újonnan csatlakozó települések érvényes településrendezési eszközeit a csatlakozást követő 7 éven belül kell felülvizsgálni és módosítani.
 
@@ -808,6 +810,8 @@ A Balaton kiemelt üdülőkörzethez tartozó települések
 8. Badacsonytördemic
 
 9. Balatonakali
+
+9a. Balatonakarattya
 
 10. Balatonalmádi
 
@@ -1170,6 +1174,8 @@ A Balaton kiemelt üdülőkörzetbe tartozó parti és partközeli települések
 6. Badacsonytördemic
 
 7. Balatonakali
+
+7a. Balatonakarattya
 
 8. Balatonalmádi
 

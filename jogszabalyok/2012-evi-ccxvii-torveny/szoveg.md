@@ -325,7 +325,7 @@ a (2)–(4) bekezdésben foglaltak figyelembevételével, kizárólag a derogác
 
 (6) A légiközlekedési új belépő légi jármű üzembentartó részére térítésmentesen legfeljebb 1 000 000 légiközlekedési kibocsátási egység osztható ki.
 
-22. § (1) A légi jármű üzembentartó köteles azt a bejelentés alapjául szolgáló esemény napjától számított 45 napon belül a miniszternek és a hatóságnak bejelenteni, ha
+22. § (1) A légi jármű üzembentartó köteles azt a bejelentés alapjául szolgáló esemény napjától számított 45 napon belül a hatóságnak bejelenteni, ha
 
 - a) a légi jármű üzembentartó több légi jármű üzembentartóra szétvált,
 - b) a továbbiakban a tevékenysége az 1. melléklet XXII. pontja alóli kivételnek minősül, vagy

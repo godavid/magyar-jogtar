@@ -27,16 +27,17 @@ Az Országgyűlés a korábbi időszak devizakölcsönzése következtében kial
 - 7a. közszférában dolgozó:
   - a) a közalkalmazottak jogállásáról szóló törvény hatálya alá tartozó foglalkoztatott,
   - b) a közszolgálati tisztviselőkről szóló törvény hatálya alá tartozó közszolgálati tisztviselő,
-  - c) a közigazgatási szervnél foglalkoztatott munkavállaló,
-  - d) a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény hatálya alá tartozó szakmai vezető,
-  - e) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó hivatásos állomány tagja,
-  - f) a honvédek jogállásáról szóló törvény hatálya alá tartozó hivatásos és szerződéses állomány tagja,
-  - g) a bírák jogállásáról és javadalmazásáról szóló törvény hatálya alá tartozó foglalkoztatott,
-  - h) az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény hatálya alá tartozó alkalmazott,
-  - i) a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló törvény hatálya alá tartozó foglalkoztatott,
-  - j) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 66/A. § (1) bekezdése szerinti nevelőszülői foglalkoztatási jogviszonyban álló személy,
-  - k) a polgármesteri tisztség ellátásának egyes kérdéseiről és az önkormányzati képviselők tiszteletdíjáról szóló törvény hatálya alá tartozó főállású polgármester,
-  - l) az állam többségi befolyása alatt álló gazdasági társaságnál munkavégzésre irányuló jogviszonyban foglalkoztatott személy.
+  - c) az állami tisztviselőkről szóló törvény hatálya alá tartozó állami tisztviselő, állami ügykezelő,
+  - d) a közigazgatási szervnél foglalkoztatott munkavállaló,
+  - e) a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény hatálya alá tartozó szakmai vezető,
+  - f) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó hivatásos állomány tagja,
+  - g) a honvédek jogállásáról szóló törvény hatálya alá tartozó hivatásos és szerződéses állomány tagja,
+  - h) a bírák jogállásáról és javadalmazásáról szóló törvény hatálya alá tartozó foglalkoztatott,
+  - i) az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény hatálya alá tartozó alkalmazott,
+  - j) a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló törvény hatálya alá tartozó foglalkoztatott,
+  - k) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 66/A. § (1) bekezdése szerinti nevelőszülői foglalkoztatási jogviszonyban álló személy,
+  - l) a polgármesteri tisztség ellátásának egyes kérdéseiről és az önkormányzati képviselők tiszteletdíjáról szóló törvény hatálya alá tartozó főállású polgármester,
+  - m) az állam többségi befolyása alatt álló gazdasági társaságnál munkavégzésre irányuló jogviszonyban foglalkoztatott személy.
 - 8. lakáshitel-szerződés: magyarországi lakóingatlanra alapított jelzálogjog – ideértve az önálló zálogjogként alapított jelzálogjogot is – fedezete mellett a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 6. § (1) bekezdése szerinti fogyasztó és pénzügyi intézmény által kötött hitel- vagy kölcsönszerződés;
 - 9. lakóingatlan:
   - a) lakás céljára létesített és az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott vagy ilyenként feltüntetésre váró ingatlan – ha arra használatbavételi engedélyt adtak ki – a hozzá tartozó földrészlettel, az ingatlan-nyilvántartásban tanyaként feltüntetett lakó-, illetőleg gazdasági épület, épületcsoport és az azonos helyrajzi szám alatt hozzá tartozó föld együttese, valamint

@@ -640,8 +640,8 @@ használhatja fel.
 
 (2) Összeférhetetlen az agrárkamarai tisztség viselésével, ha a tag
 
-- a) vezetői munkakört betöltve közszolgálati tisztviselői jogviszonyban áll,
-- b) olyan államigazgatási szervnél folytat főállásban (legalább heti 36 órás) közszolgálati tisztviselői tevékenységet, amely államigazgatási szerv illetékességi területe részben vagy egészben egybeesik az adott területi szervezet illetékességi területével,
+- a) vezetői munkakört betöltve kormányzati szolgálati, állami szolgálati, vagy közszolgálati jogviszonyban áll,
+- b) olyan államigazgatási szervnél folytat főállásban (legalább heti 36 órás) közszolgálati tisztviselői, állami tisztviselői tevékenységet, amely államigazgatási szerv illetékességi területe részben vagy egészben egybeesik az adott területi szervezet illetékességi területével,
 - c) politikai pártban országos tisztséget tölt be,
 - d) másik gazdasági kamarában tisztségviselő.
 

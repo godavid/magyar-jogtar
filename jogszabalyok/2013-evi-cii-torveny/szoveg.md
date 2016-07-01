@@ -360,6 +360,8 @@ követő napon.
 
 (3) A halgazdálkodásra jogosult jogosultsága időpontjától kezdődő hatállyal, illetve az adataiban történt változást követő 15 napon belül köteles az (1) bekezdés szerinti adatait, illetve az adatváltozást bejelenteni a halgazdálkodási hatóságnak.
 
+(3a) A (3) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a halgazdálkodásra jogosult kéri – a (3) bekezdés szerinti határidőben értesíti a halgazdálkodási hatóságot.
+
 (4) Az (1) bekezdés szerinti nyilvántartásban szereplő személyes adatok a jogosultság megszűnésétől számított tíz évig kezelhetők.
 
 #### 10. Halgazdálkodási vízterületek és nyilvántartásuk

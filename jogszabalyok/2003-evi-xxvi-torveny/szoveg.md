@@ -127,7 +127,7 @@ az Országos Területrendezési Tervről
 
 (2) A kiemelt térségi és megyei területfelhasználási kategóriákon belül a települési területfelhasználási egységek kijelölése során a következő szabályokat kell alkalmazni:
 
-- a) az erdőgazdálkodási térséget legalább 85%-ban erdőterület területfelhasználási egységbe kell sorolni;
+- a) az erdőgazdálkodási térséget legalább 75%-ban erdőterület területfelhasználási egységbe kell sorolni;
 - b) a mezőgazdasági térséget legalább 85%-ban mezőgazdasági terület, beépítésre szánt különleges honvédelmi terület, beépítésre nem szánt különleges honvédelmi terület vagy természetközeli terület területfelhasználási egységbe kell sorolni, a térségben nagyvárosias lakóterület és vegyes terület területfelhasználási egység nem jelölhető ki;
 - c) a vegyes területfelhasználású térséget legalább 85%-ban mezőgazdasági terület, erdőterület vagy természetközeli terület területfelhasználási egységbe kell sorolni, a fennmaradó részen nagyvárosias lakóterület kivételével bármely települési területfelhasználási egység kijelölhető;
 - d) a települési térség bármely települési területfelhasználási egységbe sorolható;
@@ -419,7 +419,7 @@ az Országos Területrendezési Tervről
 
 (2)
 
-29. § Az Országos Területrendezési Terv felülvizsgálata legalább 7 évente történik.
+29. §
 
 30. § (1) E törvény rendelkezéseit alkalmazni kell:
 
@@ -446,7 +446,7 @@ területi elhelyezésére vonatkozó területrendezési hatósági eljárás ré
 
 31/B. § A kiemelt térségi és a megyei területrendezési terveknek az e törvénnyel való összhangba hozataláig a településrendezési eszközök készítésénél, módosításánál az alábbi átmeneti rendelkezéseket kell alkalmazni:
 
-- a) az Országos Szerkezeti Terv által kijelölt országos jelentőségű műszaki infrastruktúra-hálózatokat és egyedi építményeket az e törvénynek az MTv.-vel megállapított 1/1–11. melléklete, 9. § (7) bekezdése, és 10. §-a előírásainak alkalmazásával, valamint az Országos Szerkezeti Tervben meghatározott térbeli rend figyelembevételével kell kijelölni; az e törvénynek az MTv.-vel megállapított 1/1–11. mellékletében nem szereplő országos jelentőségű műszaki infrastruktúra-hálózatokat és egyedi építményeket az Országos Szerkezeti Terv által meghatározott térbeli rend figyelembevételével kell kijelölni,
+- a) az Országos Szerkezeti Terv által kijelölt országos jelentőségű műszaki infrastruktúra-hálózatokat és egyedi építményeket az e törvénynek az MTv.-vel megállapított 1/1–11. melléklete, 9. § (7) bekezdése, és 10. §-a előírásainak alkalmazásával, valamint az Országos Szerkezeti Tervben meghatározott térbeli rend figyelembevételével kell kijelölni; az e törvénynek az MTv.-vel megállapított 1/1–11. mellékletében nem szereplő, de az Országos Szerkezeti Tervben feltüntetésre kerülő országos jelentőségű műszaki infrastruktúra-hálózatokat és egyedi építményeket az Országos Szerkezeti Terv által meghatározott térbeli rend figyelembevételével kell kijelölni,
 - b) a megyei területrendezési tervben megállapított térségi területfelhasználási kategóriákon belül az e törvénynek az MTv.-vel megállapított 6. § (2) bekezdésének előírásait kell alkalmazni,
 - c) a Budapesti Agglomeráció Területrendezési Tervéről szóló 2005. évi LXIV. törvényben (a továbbiakban: BATrT.) megállapított térségi területfelhasználási kategóriákon belül
   - ca) a cb) alpont kivételével a BATrT. térségi területfelhasználási kategóriákra vonatkozó előírásait,
@@ -508,6 +508,205 @@ Az országos közúthálózat gyorsforgalmi és főúti elemei, valamint a főv�
 | 33. | M85: | Győr térsége (M1) – Csorna – Nagycenk – Sopron – (Ausztria) |
 | 34. | M86: | Szombathely térsége – Csorna – Mosonmagyaróvár térsége (M1) |
 | 35. | M9: | Nagycenk (M85) – Szombathely térsége – Püspökmolnári térsége – Zalaegerszeg térsége – Nagykanizsa – Inke térsége – Kaposvár – Dombóvár – Szekszárd térsége – Szeged (M5) |
+
+2.1. A főúthálózat elemei (A 3 km-nél rövidebb hálózati összekötő szerepű, de önálló számjellel ellátott főúti elemeket a felsorolás nem tartalmazza.)
+
+|  | A | B |
+| --- | --- | --- |
+| 1. | 1. sz. főút: | Budapest – Tatabánya – Tata – Komárom – Győr – Mosonmagyaróvár – Hegyeshalom – (Ausztria) |
+| 2. | 2. sz. főút: | Budapest – Dunakeszi – Vác – Rétság – Hont – (Szlovákia) |
+| 3. | 3. sz. főút: | Budapest – Hatvan – Gyöngyös – Füzesabony – Mezőkövesd – Miskolc – Szikszó – Encs – Tornyosnémeti – (Szlovákia) |
+| 4. | 4. sz. főút: | Budapest – Cegléd – Szolnok – Püspökladány – Debrecen – Hajdúhadház – Nyíregyháza – Kisvárda – Záhony – (Ukrajna) |
+| 5. | 5. sz. főút: | Budapest – Dabas – Kecskemét – Kiskunfélegyháza – Szeged – Röszke – (Szerbia) |
+| 6. | 6. sz. főút: | Budapest – Dunaújváros – Szekszárd – Pécs – Barcs – (Horvátország) |
+| 7. | 7. sz. főút: | Budapest – Székesfehérvár – Siófok – Nagykanizsa – Letenye – (Horvátország) |
+| 8. | 8. sz. főút: | Székesfehérvár (M7) – Veszprém (M8); Vashosszúfalu (M8) – Vasvár – Körmend – Szentgotthárd – (Ausztria) |
+| 9. | 10. sz. főút: | Budapest – Pilisvörösvár – Piliscsaba – Dorog – Nyergesújfalu – Dunaalmás (1. sz. főút) |
+| 10. | 101. sz. főút: | Újhartyán (M5) – Százhalombatta – Zsámbék – Kesztölc térsége (M10) |
+| 11. | 11. sz. főút: | Budapest – Szentendre – Visegrád – Esztergom (117. sz. főút) |
+| 12. | 111. sz. főút: | Esztergom (11. sz. főút) – Dorog (10. sz. főút) |
+| 13. | 117. sz. főút: | Esztergom (111. sz. főút) – Tát (10. sz. főút) |
+| 14. | 12. sz. főút: | Vác (2. sz. főút) – Nagymaros – Szob |
+| 15. | 13. sz. főút: | (Szlovákia) – Komárom – Kisbér (81. sz. főút) |
+| 16. | 15. sz. főút: | Mosonmagyaróvár (1. sz. főút) – Rajka – (Szlovákia) |
+| 17. | 21. sz. főút: | Hatvan (3. sz. főút) – Salgótarján – Somoskőújfalu – (Szlovákia) |
+| 18. | 212. sz. főút: | Rétság térsége (2. sz. főút) – Jobbágyi – Szurdokpüspöki térsége – Gyöngyös (3. sz. főút) |
+| 19. | 22. sz. főút: | Bánk (2. sz. főút) – Balassagyarmat – Salgótarján (21. sz. főút) |
+| 20. | 222. sz. főút: | Balassagyarmat (22. sz. főút) – (Szlovákia) |
+| 21. | 23. sz. főút: | Bátonyterenye (21. sz. főút) –Tarnalelesz (25. sz. főút) |
+| 22. | 24. sz. főút: | Gyöngyös (3. sz. főút) – Parád – Eger (25. sz. főút) |
+| 23. | 25. sz. főút: | Kerecsend (3. sz. főút) – Eger – Bánréve (26. sz. főút) |
+| 24. | 26. sz. főút: | Miskolc (3. sz. főút) – Sajószentpéter – Kazincbarcika térsége – Bánréve – (Szlovákia) |
+| 25. | 27. sz. főút: | Sajószentpéter (26. sz. főút) – Edelény – Tornanádaska térsége – (Szlovákia) |
+| 26. | 304. sz. főút: | Miskolc (M30) – Miskolc (3. sz. főút) |
+| 27. | 31. sz. főút: | Ecser (M0) – Sülysáp – Kóka – Nagykáta – Jászberény – Dormánd (33. sz. főút) |
+| 28. | 311. sz. főút: | Nagykáta – Cegléd (4. sz. főút) |
+| 29. | 32. sz. főút: | Hatvan (M3) – Jászberény – Szolnok (M4) |
+| 30. | 33. sz. főút: | Füzesabony (3. sz. főút) – Tiszafüred – Debrecen (M35) |
+| 31. | 34. sz. főút: | Polgár (M3) – Tiszafüred – Kunhegyes – Fegyvernek (4. sz. főút) |
+| 32. | 35. sz. főút: | Nyékládháza (3. sz. főút) – Polgár – Debrecen (4. sz. főút) |
+| 33. | 36. sz. főút: | Polgár (35. sz. főút) – Nyírtura (4. sz. főút) |
+| 34. | 37. sz. főút: | Felsőzsolca (3. sz. főút) – Szerencs – Sátoraljaújhely – (Szlovákia) |
+| 35. | 38. sz. főút: | Tiszanagyfalu (39. sz. főút) – Nyíregyháza (M3) |
+| 36. | 381. sz. főút: | Sárospatak (37. sz. főút) – Cigánd – Kisvárda – Vásárosnamény – Tivadar – Fehérgyarmat (491. sz. főút) |
+| 37. | 39. sz. főút: | Tiszanagyfalu (38. sz. főút) – Mád – Encs térsége (3. sz. főút) |
+| 38. | 405. sz. főút: | Albertirsa (4. sz. főút) – Újhartyán (M5) |
+| 39. | 41. sz. főút: | Nyíregyháza (4. sz. főút) – Vásárosnamény – Beregsurány – (Ukrajna) |
+| 40. | 42. sz. főút: | Püspökladány (4. sz. főút) – Berettyóújfalu – Ártánd – (Románia) |
+| 41. | 43. sz. főút: | Szeged – Makó – Nagylak – (Románia) |
+| 42. | 431. sz. főút | Kiszombor (43. sz. főút) – (Románia) |
+| 43. | 44. sz. főút: | Kecskemét (5. sz. főút) – Békéscsaba (M44) |
+| 44. | 441. sz. főút: | Cegléd (4. sz. főút) – Nagykőrös – Kecskemét |
+| 45. | 442. sz. főút: | Szolnok (4. sz. főút) – Martfű – Tiszaföldvár – Kunszentmárton (44. sz. főút) |
+| 46. | 443. sz. főút: | Gyomaendrőd (46. sz. főút) – Szarvas (44. sz. főút) |
+| 47. | 445. sz. főút | Kecskemét (M5) – Kecskemét (44. sz. főút) |
+| 48. | 45. sz. főút: | Kunszentmárton (44. sz. főút) – Szentes – Hódmezővásárhely (M47) |
+| 49. | 451. sz. főút: | Kiskunfélegyháza (5. sz. főút) – Csongrád – Szentes (45. sz. főút) |
+| 50. | 46. sz. főút: | Törökszentmiklós (4. sz. főút) – Mezőtúr – Gyomaendrőd – Mezőberény (47. sz. főút) |
+| 51. | 47. sz. főút: | Debrecen (4. sz. főút) – Berettyóújfalu – Mezőberény – Békéscsaba (M44) |
+| 52. | 471. sz. főút: | Debrecen (48. sz. főút) – Mátészalka (49. sz. főút) |
+| 53. | 48. sz. főút: | Debrecen (47. sz. főút) – Nyírábrány – (Románia) |
+| 54. | 49. sz. főút: | Rohod (41. sz. főút) – Mátészalka – Csengersima – (Románia) |
+| 55. | 491. sz. főút: | Győrtelek (49. sz. főút) – Tiszabecs – (Ukrajna) |
+| 56. | 51. sz. főút: | Budapest (M0) – Kalocsa – Baja – Hercegszántó – (Szerbia) |
+| 57. | 52. sz. főút: | Kecskemét (M5) – Solt – Dunaföldvár (6. sz. főút) |
+| 58. | 53. sz. főút: | Solt (52. sz. főút) – Kiskunhalas – Tompa – (Szerbia) |
+| 59. | 54. sz. főút: | Kecskemét (5. sz. főút) – Soltvadkert – Sükösd (51. sz. főút) |
+| 60. | 55. sz. főút: | Szeged – Baja – Bátaszék (M6) |
+| 61. | 56. sz. főút: | Szekszárd (6. sz. főút) – Mohács – Udvar – (Horvátország) |
+| 62. | 57. sz. főút: | Mohács (56. sz. főút) – Pécs térsége (6. sz. főút) |
+| 63. | 58. sz. főút: | Pécs (6. sz. főút) – Harkány – Drávaszabolcs – (Horvátország) |
+| 64. | 61. sz. főút: | Dunaföldvár (6. sz. főút) – Dombóvár – Kaposvár – Nagykanizsa (7. sz. főút) |
+| 65. | 62. sz. főút: | Dunaújváros (6. sz. főút) – Székesfehérvár (7. sz. főút) |
+| 66. | 63. sz. főút: | Tolna (6. sz. főút) – Sárbogárd – Székesfehérvár (M7) |
+| 67. | 64. sz. főút: | Simontornya (61. sz. főút) – Balatonvilágos (7. sz. főút) |
+| 68. | 65. sz. főút: | Szekszárd (6. sz. főút) – Tamási – Siófok (7. sz. főút) |
+| 69. | 651. sz. főút: | Nagykónyi (61. sz. főút) – Iregszemcse (65. sz. főút) |
+| 70. | 66. sz. főút | Pécs (6. sz. főút) – Sásd – Kapospula (61. sz. főút) |
+| 71. | 67. sz. főút: | (Horvátország) – Zaláta – Sellye – Szigetvár – Kaposvár – Látrány – Balatonszeme (7. sz. főút) |
+| 72. | 68. sz. főút: | Barcs (6. sz. főút) – Nagyatád – Balatonberény (7. sz. főút) |
+| 73. | 681. sz. főút: | Nagyatád (68. sz. főút) – Berzence – (Horvátország) |
+| 74. | 71. sz. főút: | Lepsény (7. sz. főút) – Balatonfüred – Keszthely (76. sz. főút) |
+| 75. | 72. sz. főút: | Balatonfűzfő (71. sz. főút) – Veszprém (8. sz. főút) |
+| 76. | 73. sz. főút: | Csopak (71. sz. főút) – Veszprém (8. sz. főút) |
+| 77. | 74. sz. főút: | Nagykanizsa (7. sz. főút) – Zalaegerszeg – Vasvár (8. sz. főút) |
+| 78. | 75. sz. főút: | Alsópáhok (76. sz. főút) – Rédics (86. sz. főút) |
+| 79. | 76. sz. főút: | Balatonszentgyörgy (7. sz. főút) – Hévíz – Zalacsány – Zalaegerszeg – Nádasd (86. sz. főút) |
+| 80. | 77. sz. főút | Veszprém (8. sz. főút) – Tapolca – Keszthely (71. sz. főút) |
+| 81. | 81. sz. főút: | Székesfehérvár térsége (8. sz. főút) – Kisbér – Győr – Vámosszabadi térsége – (Szlovákia) |
+| 82. | 810. sz. főút | Székesfehérvár (7. sz. főút) – Magyaralmás (81. sz. főút) |
+| 83. | 811. sz. főút: | Székesfehérvár (7. sz. főút) – Zámoly – Csákvár – Felcsút – Óbarok (1. sz. főút) |
+| 84. | 82. sz. főút: | Veszprém térsége (8. sz. főút) – Zirc – Győr (M1) |
+| 85. | 83. sz. főút: | Városlőd (M8) – Pápa – Győr (1. sz. főút) |
+| 86. | 84. sz. főút: | Balatonederics (71. sz. főút) – Sárvár – Sopron – (Ausztria) |
+| 87. | 85. sz. főút: | Győr térsége (81. sz. főút) – Csorna – Kapuvár – Nagycenk (84. sz. főút) |
+| 88. | 86. sz. főút: | (Szlovénia) – Rédics – Zalabaksa – Zalalövő – Körmend – Szombathely – Csorna – Mosonmagyaróvár (1. sz. főút) |
+| 89. | 861. sz. főút | Kópháza (84. sz. főút) – (Ausztria) |
+| 90. | 87. sz. főút: | Kám (8. sz. főút) – Szombathely – Kőszeg – (Ausztria) |
+| 91. | 88. sz. főút: | Vát (86. sz. főút) – Sárvár (84. sz. főút) – Celldömölk térsége – Pápa – Kisbér – Oroszlány térsége – Környe – Tatabánya – Tát (10. sz. főút) |
+| 92. | 89. sz. főút: | Gencsapáti (87. sz. főút) – Bucsu – (Ausztria) |
+| 93. |  | M1, M3, M4, M5, M7 fővárosi bevezető főút besorolású szakaszai |
+| 94. |  | Budapest térszerkezetet meghatározó főútjai |
+| 95. |  | (Ausztria) – Fertőd – Fertőszentmiklós térsége (85. sz. főút) |
+| 96. |  | Mosonmagyaróvár (M1) – Mosonmagyaróvár (1. sz. főút) |
+| 97. |  | Rábacsanak térsége (86. sz. főút) – Pápa (83. sz. főút) |
+| 98. |  | Jánossomorja (86. sz. főút) – (Ausztria) |
+| 99. |  | Győr (M19) – Gönyű (1. sz. főút) |
+| 100. |  | Pápa (83. sz. főút) – Devecser – Tapolca (77. sz. főút) |
+| 101. |  | (Szlovénia) – Bajánsenye – Zalalövő – Zalaszentgyörgy térsége (76. sz. főút) |
+| 102. |  | Lenti térsége (75. sz. főút) – Tornyiszentmiklós (M70) |
+| 103. |  | Devecser – Sümeg – Keszthely (71. sz. főút) |
+| 104. |  | Veszprém térsége (72. sz. főút) – Litér (M8) |
+| 105. |  | Mór (81. sz. főút) – Oroszlány térsége |
+| 106. |  | Sávoly (M7) – Marcali – Somogyvár – Gamás – Törökkoppány – Nagykónyi (61. sz. főút) |
+| 107. |  | Iharosberény térsége (61. sz. főút) – Gyékényes térsége – (Horvátország) |
+| 108. |  | Pécs térsége (6. sz. főút) – Vajszló |
+| 109. |  | Kozármisleny (M6) – Kozármisleny (6. sz. főút) |
+| 110. |  | Darány (6. sz. főút) – Sellye – Harkány – Siklós – Villány – Udvar térsége (56. sz. főút) |
+| 111. |  | Köblény térsége (M9) – Komló térsége (66. sz. főút) |
+| 112. |  | Dávod térsége (51. sz. főút) – Mohács (56. sz. főút) |
+| 113. |  | Kalocsa (51. sz. főút) – Kecel (54. sz. főút) |
+| 114. |  | Soltvadkert (53. sz. főút) – Kiskunmajsa – Kistelek – Mindszent – Derekegyház – Nagymágocs – Orosháza (M47) |
+| 115. |  | Szabadegyháza (62. sz. főút) – Adony – Ráckeve – Kiskunlacháza (51. sz. főút) |
+| 116. |  | Szigetszentmiklós (M0) – Ráckeve |
+| 117. |  | Gödöllő (3. sz. főút) – Vác térsége – Tahitótfalu (11. sz. főút) |
+| 118. |  | Albertirsa (4. sz. főút) – Tápiószentmárton – Nagykáta – Jászfényszaru (32. sz. főút) |
+| 119. |  | Jászberény (32. sz. főút) – Gyöngyös (3. sz. főút) |
+| 120. |  | Szécsény térsége (22. sz. főút) – Nógrádszakál – (Szlovákia) |
+| 121. |  | Pétervására (23. sz. főút) – Sirok (24. sz. főút) |
+| 122. |  | Karácsond térsége (3. sz. főút) – Heves – Kisköre – Kunhegyes – Kenderes (4. sz. főút) |
+| 123. |  | Tiszafüred (33. sz. főút) – Tiszaörs (34. sz. főút) |
+| 124. |  | Törökszentmiklós (46. sz. főút) – Martfű térsége (442. sz. főút) |
+| 125. |  | Kiskunfélegyháza (5. sz. főút) – Kiskunhalas – Mélykút – Kunbaja – (Szerbia) |
+| 126. |  | Hódmezővásárhely (M47) – Kübekháza térsége (Szerbia/Románia) |
+| 127. |  | Hódmezővásárhely (M47) – Makó (43. sz. főút) |
+| 128. |  | Szarvas (44. sz. főút) – Orosháza – Mezőkovácsháza – Battonya – (Románia) |
+| 129. |  | Békés (47. sz. főút) – Doboz – Sarkad – Méhkerék térsége – (Románia) |
+| 130. |  | Békéscsaba (M44) – Doboz |
+| 131. |  | Békéscsaba – Medgyesegyháza – Mezőkovácsháza |
+| 132. |  | Kisújszállás (4. sz. főút) – Túrkeve – Mezőtúr – Szarvas (44. sz. főút) |
+| 133. |  | Kunmadaras (34. sz. főút) – Karcag – Füzesgyarmat – Szeghalom (47. sz. főút) |
+| 134. |  | Rakamaz térsége (38. sz. főút) – Tiszavasvári – Hajdúböszörmény (35. sz. főút) |
+| 135. |  | Cigánd – Pácin – (Szlovákia) |
+| 136. |  | Nyíregyháza térsége (M3) – Nyírbátor – Vállaj – (Románia) |
+| 137. |  | Csökmő térsége (47. sz. főút) – Körösnagyharsány – (Románia) |
+
+2.2. Főutak tervezett településelkerülő szakaszai (A felsorolás nem tartalmazza azokat az elkerüléseket, amelyek a gyorsforgalmi utak részét fogják képezni.)
+
+|  | A | B |
+| --- | --- | --- |
+| 1. | 1. sz. főút: | Tatabánya, Vértesszőlős, Tata, Almásfüzitő, Komárom, Abda, Öttevény |
+| 2. | 3. sz. főút: | Gödöllő |
+| 3. | 4. sz. főút: | Törökszentmiklós, Újfehértó |
+| 4. | 5. sz. főút: | Örkény, Kistelek |
+| 5. | 6. sz. főút: | Pécs, Szigetvár |
+| 6. | 7. sz. főút: | Martonvásár, Kápolnásnyék, Velence, Gárdony |
+| 7. | 8. sz. főút: | Székesfehérvár, Várpalota |
+| 8. | 10. sz. főút: | Nyergesújfalu, Lábatlan |
+| 9. | 11. sz. főút: | Pilismarót |
+| 10. | 22. sz. főút: | Érsekvadkert, Balassagyarmat, Őrhalom, Szécsény, Endrefalva, Szalmatercs, Karancsság, Ságújfalu, Kishartyán |
+| 11. | 23. sz. főút: | Bátonyterenye, Nemti, Pétervására, Bükkszenterzsébet, Tarnalelesz |
+| 12. | 25. sz. főút: | Szentdomonkos, Ózd, Sajópüspöki, Bánréve |
+| 13. | 26. sz. főút: | Sajószentpéter, Berente, Kazincbarcika, Vadna, Dubicsány, Putnok |
+| 14. | 27. sz. főút: | Edelény |
+| 15. | 31. sz. főút: | Nagykáta, Jászjákóhalma, Jászapáti |
+| 16. | 311. sz. főút: | Cegléd |
+| 17. | 32. sz. főút: | Pusztamonostor, Jászberény, Jásztelek, Alattyán, Jánoshida, Jászalsószentgyörgy |
+| 18. | 33. sz. főút: | Dormánd, Besenyőtelek |
+| 19. | 35. sz. főút: | Nagycsécs, Sajószöged |
+| 20. | 36. sz. főút: | Tiszavasvári |
+| 21. | 37. sz. főút: | Szerencs, Sátoraljaújhely |
+| 22. | 38. sz. főút: | Nyírtelek, Nyíregyháza |
+| 23. | 41. sz. főút: | Vásárosnamény |
+| 24. | 42. sz. főút: | Berettyóújfalu |
+| 25. | 43. sz. főút: | Makó |
+| 26. | 441. sz. főút: | Cegléd, Nagykőrös |
+| 27. | 442. sz. főút: | Szolnok, Rákóczifalva, Rákócziújfalu |
+| 28. | 45. sz. főút: | Kunszentmárton, Szentes |
+| 29. | 46. sz. főút: | Mezőtúr, Gyomaendrőd |
+| 30. | 471. sz. főút: | Hajdúsámson, Nyíradony, Nyírmihálydi, Nyírbogát, Nyírbátor, Nyírmeggyes |
+| 31. | 51. sz. főút: | Kiskunlacháza, Dömsöd, Solt, Harta, Dunapataj, Kalocsa, Bátya, Sükösd, Érsekcsanád, Baja, Nagybaracska |
+| 32. | 52. sz. főút: | Solt |
+| 33. | 53. sz. főút: | Akasztó, Kiskőrös, Soltvadkert, Kiskunhalas, Tompa |
+| 34. | 54. sz. főút: | Jakabszállás, Bócsa, Kecel, Császártöltés |
+| 35. | 55. sz. főút: | Pörböly, Csávoly, Felsőszentiván, Tataháza, Mélykút, Mórahalom |
+| 36. | 58. sz. főút: | Szalánta, Túrony |
+| 37. | 61. sz. főút: | Cece, Simontornya, Tolnanémedi, Pincehely, Tamási, Nagykónyi, Dombóvár, Kapospula, Iharosberény, Nagykanizsa |
+| 38. | 62. sz. főút: | Szabadegyháza, Seregélyes |
+| 39. | 63. sz. főút: | Nagydorog, Bikács, Cece, Sárbogárd, Sárkeresztúr, Aba |
+| 40. | 65. sz. főút: | Tamási, Iregszemcse, Ságvár, Siófok |
+| 41. | 67. sz. főút: | Szentlászló, Kaposvár, Somogyaszaló, Mernye, Somogybabod |
+| 42. | 68. sz. főút: | Lábod, Nagyatád, Böhönye, Mesztegnyő, Kelevíz, Marcali, Kéthely |
+| 43. | 71. sz. főút: | Keszthely |
+| 44. | 74. sz. főút | Egervár |
+| 45. | 75. sz. főút: | Pacsa, Zalaszentmihály, Bak, Zalatárnok, Nova, Lenti |
+| 46. | 76. sz. főút: | Keszthely, Alsópáhok, Felsőpáhok, Szentgyörgyvár, Nagykapornak, Bagod, Hagyárosbörönd, Hegyhátsál, Katafa |
+| 47. | 81. sz. főút: | Székesfehérvár, Kisbér, Ászár, Mezőörs, Pér |
+| 48. | 82. sz. főút: | Veszprém, Eplény, Zirc, Veszprémvarsány, Ravazd, Écs, Nyúl |
+| 49. | 83. sz. főút: | Takácsi, Gyarmat, Tét [Szentkút], Tét, Győrszemere |
+| 50. | 84. sz. főút: | Sümeg, Rábapaty, Simaság, Újkér |
+| 51. | 86. sz. főút: | Zalabaksa, Kálócfa, Kozmadombja, Zalalövő, Nádasd, Egyházasrádóc, Kisunyom, Balogunyom, Szombathely, Mosonmagyaróvár |
+| 52. | 87. sz. főút: | Táplánszentkereszt, Szombathely, Gyöngyösfalu, Lukácsháza, Kőszeg |
 
 ### 1/2. számú melléklet
 

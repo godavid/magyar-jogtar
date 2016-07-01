@@ -310,7 +310,7 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (8) A tevékenységi engedély iránti kérelmet benyújtó nem magyar állampolgár személy a külön jogszabályban meghatározott hatóság részére az állampolgársága szerinti ország – hatósági bizonyítvány kiállítására vonatkozó – előírásainak megfelelően kiállított érvényes hatósági bizonyítvány hiteles fordításával igazolja azt a tényt, hogy büntetlen előéletű, és nem áll a (4) vagy (5) bekezdésben meghatározott foglalkozástól eltiltás hatálya alatt.
 
-(9) Az egészségügyi államigazgatási szerv a kábítószerekkel, pszichotróp anyagokkal és új pszichoaktív anyagokkal végezhető tevékenységekről kiadott engedélyekről közhiteles hatósági nyilvántartást vezet.
+(9) Az egészségügyi államigazgatási szerv a kábítószerekkel, pszichotróp anyagokkal és új pszichoaktív anyagokkal végezhető tevékenységekről kiadott engedélyekről nyilvántartást vezet, amely a (10) bekezdés b)–d) pontja tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (10) A (9) bekezdés szerinti nyilvántartás tartalmazza a gazdálkodó szervezet:
 
@@ -319,7 +319,8 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 - c) telephelyeit,
 - d) engedélyének számát és érvényességi idejét,
 - e) tevékenységének jellegét,
-- f) cégjegyzékszámát vagy az egyéni vállalkozókról vezetett hatósági nyilvántartásba vétel számát.
+- f) cégjegyzékszámát, nem gazdasági társaságként működő gazdálkodó szervezet esetén a bírósági nyilvántartásba-vételi számát, vagy költségvetési szerv esetén a törzskönyvi számát.
+- g) kábítószer felelősének nevét.
 
 (11) Az egészségügyi államigazgatási szerv a díszítő mák és kannabisz exportját, importját, transzferét végző, a tisztítatlan mákszalmamaradványokkal szennyezett mákmagot felvásárló, illetve annak tisztítását végző, valamint ipari mákszalmát, kifejtetlen máktokot és kannabiszt továbbhasznosítás céljából tároló, továbbá új pszichoaktív anyagot ipari célra használó, exportáló, importáló, új pszichoaktív anyag transzferét és forgalmazását végző gazdálkodó szervezetekről nyilvántartást vezet.
 
@@ -332,9 +333,9 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 - b) a hatósági bizonyítvány számát,
 - c) a tevékenység jellegének és helyének pontos megjelölését,
 - d) a kábítószerért felelős személy megnevezését,
-- e) a cégjegyzékszámot vagy az egyéni vállalkozókról vezetett hatósági nyilvántartásba vétel számát.
+- e) a cégjegyzékszámot, az egyéni vállalkozókról vezetett hatósági nyilvántartásba vétel számát vagy költségvetési szerv esetén a törzskönyvi számát.
 
-(13) A (11) bekezdés szerinti nyilvántartás a (12) bekezdés b)–d) pontja szerinti adatai tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(13) A (11) bekezdés szerinti nyilvántartás a (12) bekezdés a)–c) pontja szerinti adatai tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (14) Az egészségügyi államigazgatási szerv a kábítószerek, pszichotróp anyagok és új pszichoaktív anyagok szállítmányozását végző gazdálkodó szervezetekről nyilvántartást vezet.
 
@@ -346,9 +347,9 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 - b) hatósági bizonyítvány számát,
 - c) a tevékenység jellegének pontos megjelölését,
 - d) a kábítószerért felelős személy megnevezését,
-- e) a cégjegyzékszámot vagy az egyéni vállalkozókról vezetett hatósági nyilvántartásba vétel számát.
+- e) a cégjegyzékszámot, az egyéni vállalkozókról vezetett hatósági nyilvántartásba vétel számát vagy költségvetési szerv esetén a törzskönyvi számát.
 
-(16) A (14) bekezdés szerinti nyilvántartás a (15) bekezdés b) és c) pontja szerinti adatai tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(16) A (14) bekezdés szerinti nyilvántartás a (15) bekezdés b)–d) pontja szerinti adatai tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 15/A. § (1) A külön jogszabályban meghatározott hatóság hatósági ellenőrzés keretében ellenőrzi azt is, hogy a tevékenységi engedéllyel rendelkező gazdálkodó szervezet vezetője büntetlen előéletű, és nem áll a 15. § (4) vagy (5) bekezdésében meghatározott foglalkozástól eltiltás hatálya alatt.
 
@@ -445,11 +446,11 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (2a) A gyógyszerészeti államigazgatási szerv jogosult bármely Magyarországon gyártott vagy forgalmazott gyógyszer minőségét és a gyártására vagy forgalmazására vonatkozó dokumentációját ellenőrizni, továbbá jogosult vizsgálat céljából saját költségére – kivéve, ha jogszabály a költséget másra nem terheli – mintát és ellenmintát beszerezni.
 
-(3) Amennyiben a gyógyszerészeti államigazgatási szerv az (1) bekezdésben említett bejelentés, a (2a) bekezdésben foglaltak alapján indult eljárás kapcsán vagy a tudomására jutott egyéb információk alapján megállapítja, hogy egy gyógyszer nem felel meg a forgalombahozatali engedélyében rögzített követelményeknek, felfüggeszti a gyógyszer érintett gyártási tételének forgalmazását, elrendeli annak a forgalomból történő kivonását, illetve visszahívását. Az erről szóló, üzleti titkot nem tartalmazó határozatot a gyógyszerészeti államigazgatási szerv honlapján közzéteszi. A forgalomból való kivonás, visszahívás és a forgalmazás felfüggesztésének rendjét az egészségügyért felelős miniszter rendelete állapítja meg.
+(3) Ha a gyógyszerészeti államigazgatási szerv az (1) bekezdésben említett bejelentés, a (2a) bekezdésben foglaltak alapján indult eljárás kapcsán vagy a tudomására jutott egyéb információk alapján megállapítja, hogy egy gyógyszer nem felel meg a forgalomba hozatali engedélyében rögzített követelményeknek, vagy ha a minősége nem igazolható, továbbá ha minőségi hibájának gyanúja merül fel, felfüggeszti a gyógyszer érintett gyártási tételének forgalmazását, elrendeli annak a forgalomból történő kivonását, illetve visszahívását. Az erről szóló, üzleti titkot nem tartalmazó döntést a gyógyszerészeti államigazgatási szerv honlapján közzéteszi. A forgalomból való kivonás, visszahívás és a forgalmazás felfüggesztésének rendjét az egészségügyért felelős miniszter rendelete állapítja meg.
 
 (4)
 
-(5) A gyógyszer forgalomból való kivonásának költségei – ideértve az (1)–(3) bekezdés, valamint az érintett gyógyszereknek a gyógyszertár általi kicserélésének eseteit is a hamisított gyógyszerre vonatkozó intézkedések kivételével – a forgalomba hozatali engedély jogosultját terhelik.
+(5) A gyógyszer forgalomból való kivonásának, felfüggesztésének, visszagyűjtésének, alkalmazása megtiltásának a költségei – ideértve az (1)–(3) bekezdés, a 18. § (5) bekezdése, a 20. § (3) bekezdés c) pontja szerinti esetet, valamint az érintett gyógyszereknek a gyógyszertár általi kicserélésének eseteit is a hamisított gyógyszerre vonatkozó intézkedések kivételével – a forgalomba hozatali engedély jogosultját terhelik.
 
 17/A. § (1) Ha egy a gyógyszerészeti államigazgatási szerv által már forgalomba hozatalra engedélyezett gyógyszer három egymást követő éven keresztül nincs ténylegesen forgalomban a hazai gyógyszerpiacon, a gyógyszerészeti államigazgatási szerv döntése alapján a gyógyszer forgalombahozatali engedélye hatályát veszti.
 
@@ -481,13 +482,13 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (4) A gyógyszerészeti államigazgatási szerv a tudomására jutott farmakovigilanciával kapcsolatos adatokat értékeli, és amennyiben sürgős intézkedést tart szükségesnek, értesíti az európai uniós tagállamokat és az Európai Gyógyszerügynökséget. Amennyiben az Európai Gyógyszerügynökség nem folytat le sürgős uniós eljárást, a gyógyszerészeti államigazgatási szerv megteszi a (7) és (8) bekezdés szerinti szükséges intézkedéseket. Az intézkedésekről, és az azok alapját képező adatokról a gyógyszerészeti államigazgatási szerv a bejelentőt, a forgalomba hozatali engedély jogosultját, valamint hirdetmény útján az egészségügyi szolgáltatókat is értesíti, és az intézkedéseiről szóló döntését honlapján is nyilvánosan közzéteszi.
 
-(5) A gyógyszerészeti államigazgatási szerv a gyógyszer forgalmazását felfüggesztheti, és megtilthatja a gyógyszer alkalmazását, ha
+(5) A gyógyszerészeti államigazgatási szerv a gyógyszer forgalmazását felfüggesztheti, elrendelheti annak a forgalomból történő kivonását, illetve visszahívását és megtilthatja a gyógyszer alkalmazását, ha
 
 - a) a tudomására jutott adatok arra utalnak, hogy a gyógyszer az egészségre káros,
 - b) a tudomására jutott adatok arra utalnak, hogy a gyógyszerrel nem érhető el terápiás eredmény,
 - c) a tudomására jutott adatok arra utalnak, hogy a gyógyszerrel kapcsolatban felmerült kockázatok és a gyógyszertől várható előnyök aránya oly módon változott meg, hogy kétségessé vált a biztonságos alkalmazhatóság,
 - d) a gyógyszer mennyiségi és minőségi összetétele nem felel meg a forgalomba hozatali engedélyben meghatározott követelményeknek,
-- e) a gyógyszer összetevőinek ellenőrzését, továbbá a gyártási folyamat közbenső fázisában szükséges ellenőrzést nem végezték el, vagy ha a gyógyszer nem felel meg az egyéb, a gyártási engedély kiállításával kapcsolatos követelményeknek vagy kötelezettségeknek,
+- e) a gyógyszer összetevőinek ellenőrzését, továbbá a gyártási folyamat közbenső fázisában szükséges ellenőrzést nem végezték el, vagy ha a gyógyszer nem felel meg az egyéb, a gyártási engedély kiállításával vagy a gyógyszer hatóanyagával kapcsolatos követelményeknek vagy kötelezettségeknek,
 - f) a forgalomba hozatali engedély vagy annak megújítása iránti kérelem alátámasztására benyújtott adatok pontatlanok, vagy nem módosították azokat,
 - g) a forgalomba hozatali engedély jogosultja a forgalomba hozatali engedély módosítását határidőben nem kérelmezi, vagy
 - h) az Európai Bizottságtól érkező kérés teljesítése érdekében az szükséges.
@@ -585,6 +586,8 @@ jogerős határozatát a (10) bekezdésben meghatározott tartalommal teszi köz
 - a) a jogorvoslattal érintett döntésre vonatkozó (10) bekezdés szerinti információkat,
 - b) a jogorvoslati eljárás során hozott hatósági döntést vagy bírósági határozatot, annak rövid indokolását, valamint
 - c) a közzététel napját.
+
+(12) A gyógyszerészeti államigazgatási szerv a hatósági ellenőrzés és az ellenőrzési eljárás során a (3) bekezdés a)–d) pontjában foglaltakat ideiglenes intézkedésként is meghozhatja.
 
 ### Elektronikus adat ideiglenes hozzáférhetetlenné tétele
 
@@ -695,6 +698,8 @@ kérdésében a Polgári Törvénykönyv sérelemdíjra és termékfelelősségr
 (11) A gyógyszerészeti államigazgatási szerv a (6)–(6a) bekezdésben foglalt gyógyszerrendelésről nyilvántartást vezet a beteg állapotának, valamint a gyógyszer hatásának folyamatos nyomon követése érdekében, mely nyilvántartás tartalmazza az orvos nevét és pecsétszámát, a beteg nevét, születési idejét és TAJ-számát, a gyógyszer nevét, hatóanyagát, hatáserősségét, gyógyszerformáját, kiszerelését, valamint annak a javallatnak a pontos megnevezését, amelyben a kezelőorvos a gyógyszert rendelni kívánja, valamint a gyógyszer tervezett adagolását, a kezelés várható időtartamát.
 
 (12) A (6)–(6a) bekezdés szerinti kérelemre, a (8) bekezdés szerinti engedélyre és a (10) bekezdés szerinti betegtájékoztatásra vonatkozó részletes szabályokat külön jogszabály tartalmazza.
+
+(13) A (2), (6) és (6a) bekezdés szerinti eljárások igazgatási szolgáltatási díjmentesek.
 
 25/A. §
 

@@ -224,9 +224,9 @@ irányul.
 
 8. § (1) Az iskolai rendszerű szakképzésben a szakmai képzés a szakmai és vizsgakövetelmény alapján kiadott egységes, kötelezően alkalmazandó kerettanterv (a továbbiakban: szakképzési kerettanterv) szerint folyik.
 
-(2) A szakképzési kerettanterv a szakiskolai képzésben szakképesítésenként a szakmai elméletre, továbbá az iskolai tanműhelyben folyó vagy a gazdálkodó szervezetnél szervezhető szakmai gyakorlati képzésre kerül kiadásra. A kerettantervnek biztosítania kell, hogy a szakiskolában a kötelező tanórai foglalkozások megtartásához valamennyi évfolyamon együttesen rendelkezésre álló időkeret harminchárom százaléka a Nemzeti alaptantervben meghatározottak átadásához álljon rendelkezésre.
+(2) A szakképzési kerettantervet a szakképzésért és felnőttképzésért felelős miniszter a szakközépiskolai képzés kilencedik-tizenegyedik évfolyamán szakképesítésenként a szakmai elméletre, továbbá az iskolai tanműhelyben folyó vagy a gazdálkodó szervezetnél szervezhető szakmai gyakorlati képzésre adja ki. A kerettantervnek biztosítania kell, hogy a szakközépiskolában a kötelező tanórai foglalkozások megtartásához a kilencedik-tizenegyedik évfolyamon együttesen rendelkezésre álló időkeret harminchárom százaléka a Nemzeti alaptantervben meghatározottak átadásához álljon rendelkezésre.
 
-(3) A szakképzési kerettanterv a szakközépiskolákban ágazatonként a kilencedik-tizenkettedik évfolyamon a szakmai elméleti, továbbá a szakmai gyakorlati, valamint szakképesítésenként az érettségi vizsgát követő szakképzési évfolyamon a szakmai elméleti, továbbá a szakmai gyakorlati oktatásra kerül kiadásra. A kerettantervnek biztosítania kell, hogy a szakközépiskolákban a kilencedik-tizedik évfolyamon a kötelező tanórai foglalkozások megtartásához rendelkezésre álló időkeret legalább hetven százaléka, a tizenegyedik-tizenkettedik évfolyamon legalább a hatvan százaléka a Nemzeti alaptantervben meghatározottak átadásához álljon rendelkezésre.
+(3) A szakképzési kerettantervet a szakképzésért és felnőttképzésért felelős miniszter a szakgimnáziumokban a kilencedik-tizenkettedik évfolyamon ágazatonként és szakképesítésenként a szakmai elméleti, továbbá a szakmai gyakorlati, valamint szakképesítésenként az érettségi vizsgát követő szakképzési évfolyamon a szakmai elméleti, továbbá a szakmai gyakorlati oktatásra adja ki. A kerettantervnek biztosítania kell, hogy a szakgimnáziumokban a kilencedik-tizenkettedik évfolyamon a kötelező tanórai foglalkozások megtartásához együttesen rendelkezésre álló időkeret legalább hatvan százaléka a Nemzeti alaptantervben meghatározottak átadásához álljon rendelkezésre.
 
 (4) A szakképzési kerettanterv tartalmazza a szakmai követelménymodulok alapján a szakmai tantárgyak rendszerét és témaköreinek tartalmát, annak meghatározását, hogy az adott szakmai tantárgy a szakmai elméleti képzés vagy a szakmai gyakorlati képzés része, a tantárgyi követelmények évfolyamonkénti megoszlását, a követelmények teljesítéséhez rendelkezésre álló időkeretet, a szakmai elméleti és gyakorlati képzés tagolását és arányait. A szakképzési kerettanterv tartalmazza, hogy az adott szakmai tantárgy mely szakmai követelménymodulnak felel meg.
 
@@ -1143,10 +1143,10 @@ vonatkozóan.
 - c) az állami szakképzési és felnőttképzési szerv vezetője útján összeállíttatja a szakképesítésért felelős miniszter ágazatába tartozó szakképesítések modultérképei alapján az országos modultérképet (a továbbiakban: országos modultérkép) és gondoskodik annak nyilvánosságra hozataláról,
 - d) létrehozza a megyei önkormányzatokkal, a főváros érintettsége esetén Budapest Főváros Önkormányzatával együttműködő, a fővárosi, megyei szakképzési feladatellátást koordináló, a szakképzés minőségi fejlesztését segítő – a 81. §-ban meghatározott – fővárosi, megyei fejlesztési és képzési bizottságokat (a továbbiakban: megyei fejlesztési és képzési bizottság), és a gazdasági kamarával együtt gondoskodik működési feltételeiknek biztosításáról,
 - e) kidolgoztatja és kiadja
-  - ea) a szakiskolai képzésben szakképesítésenként a szakmai elméletre, továbbá a kilencedik évfolyamon, tanműhelyben folyó szakmai gyakorlatra, továbbá a tizedik és tizenegyedik évfolyamon, gyakorlati képzést folytató szervezetnél szervezett szakmai gyakorlati képzésre,
-  - eb) a szakközépiskolákban ágazatonként a kilencedik-tizenkettedik évfolyamra a szakmai elméletre, továbbá a szakmai gyakorlatra, valamint
-  - ec) a szakközépiskolákban szakképesítésenként az érettségi vizsgát követő szakképzési évfolyamokra a szakmai elméletre, továbbá a szakmai gyakorlatra vonatkozó kötelező szakképzési kerettanterveket,
-- f) kezdeményezi a közismereti tárgyak oktatásához a szakiskolákban, továbbá a szakközépiskolákban kötelezően alkalmazandó kerettantervek elkészítését és kiadását az oktatásért felelős miniszternél, valamint
+  - ea) a szakközépiskolai képzésben szakképesítésenként a szakmai elméletre, továbbá a kilencedik évfolyamon a tanműhelyben folyó szakmai gyakorlatra, továbbá a tizedik és tizenegyedik évfolyamon a tanműhelyben folyó gyakorlatra és a gyakorlati képzést folytató szervezetnél szervezett szakmai gyakorlati képzésre,
+  - eb) a szakgimnáziumokban a kilencedik-tizenkettedik évfolyamon ágazatonként és szakképesítésenként a szakmai elméletre, továbbá a szakmai gyakorlatra, valamint
+  - ec) a szakgimnáziumokban szakképesítésenként az érettségi vizsgát követő szakképzési évfolyamokra a szakmai elmélet, továbbá a szakmai gyakorlat kötelező szakképzési kerettanterveit,
+- f) kezdeményezi a közismereti tárgyak oktatásához a szakközépiskolákban, továbbá a szakgimnáziumokban kötelezően alkalmazandó ágazatonként differenciált kerettantervek elkészítését és kiadását az oktatásért felelős miniszternél,
 - g) közvetlenül – vagy az állami szakképzési és felnőttképzési szerv vezetője útján, a 14. § (2) bekezdésében foglaltak figyelembevételével – valamennyi szakképesítés tekintetében megbízza a szakmai vizsgabizottság elnökét,
 - h) kidolgoztatja és működteti a 16. § szerinti, a komplex szakmai vizsgák lebonyolításának és az adatszolgáltatásnak az informatikai támogatását és a 9. § szerinti, a komplex szakmai vizsgán kiadott bizonyítványok központi elektronikus nyilvántartását.
 
@@ -1481,6 +1481,8 @@ vonatkozó adatokat, valamint
 
 (6) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a szakképesítéseknek az Európai Képesítési Keretrendszerhez kapcsolódó Magyar Képesítési Keretrendszer szerinti szintjeinek meghatározását és besorolását.
 
+(7) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a Szakképzési Hídprogramban résztvevő tanuló ösztöndíjának mértékére, feltételeire, folyósítására, az ösztöndíj folyósításával kapcsolatban felmerült költségek térítésére, az elszámolásra és az ellenőrzésre, valamint a Szakképzési Hídprogramban résztvevő pedagógusok pótlékára vonatkozó szabályokat.
+
 (8) Felhatalmazást kap a Kormány, hogy a szakképző iskolákban oktató, felsőfokú végzettséggel nem rendelkező gyakorlati oktatók besorolásának és előmenetelének részletes szabályait rendeletben határozza meg.
 
 89. § Felhatalmazást kap a szakképzésért és felnőttképzésért felelős miniszter, hogy – a b), e), f) és g) pont tekintetében a szakképesítésért felelős miniszter egyetértésével – rendeletben határozza meg
@@ -1489,11 +1491,12 @@ vonatkozó adatokat, valamint
 - b) az országos szakképzési névjegyzék elkészítésének és kiadásának szabályait,
 - c) a komplex szakmai vizsga szervezésére vonatkozó vizsgaszervezési engedély megszerzésére irányuló engedélyezési eljárás igazgatási szolgáltatási díját és a díj megfizetésének szabályait,
 - d) a megyei fejlesztési és képzési bizottság működésének, tagjai delegálásának szabályait, a javaslattételének elveire, szempontjaira és módszereire vonatkozó előírásokat, továbbá azon művészeti, kulturális, kézműves és hagyományőrző szakképesítéseknek a körét, amelyekre a megyei fejlesztési és képzési bizottság javaslattételi jogköre a 81. § (3) bekezdése alapján nem terjed ki,
-- e) a szakiskolai képzésben szakképesítésenként a szakmai elméletre és a szakmai gyakorlati képzésre vonatkozó kötelező szakképzési kerettanterveket,
-- f) a szakközépiskolában ágazatonként a kilencedik-tizenkettedik évfolyamra a szakmai elméletre, továbbá a szakmai gyakorlatra vonatkozó kötelező szakképzési kerettanterveket, valamint
-- g) a szakközépiskolában szakképesítésenként az érettségi vizsgát követő szakképzési évfolyamokra a szakmai elméletre, továbbá a szakmai gyakorlatra vonatkozó kötelező szakképzési kerettanterveket,
+- e) a szakközépiskolai képzésben szakképesítésenként a szakmai elméletre és a szakmai gyakorlati képzésre vonatkozó kötelező szakképzési kerettanterveket,
+- f) a szakgimnáziumban a kilencedik-tizenkettedik évfolyamon ágazatonként és szakképesítésenként a szakmai elméletre, továbbá a szakmai gyakorlatra vonatkozó kötelező szakképzési kerettanterveket,
+- g) a szakgimnáziumban szakképesítésenként az érettségi vizsgát követő szakképzési évfolyamokra a szakmai elméletre, továbbá a szakmai gyakorlatra vonatkozó kötelező szakképzési kerettanterveket,
 - h) az e)–g) pont alapján kiadott szakképzési kerettanterv bevezetésének és alkalmazásának szabályait,
-- i) a 31. § (3) bekezdés b) pontja szerinti vendéglátóipari egységeket.
+- i) a 31. § (3) bekezdés b) pontja szerinti vendéglátóipari egységeket,
+- j) a Szakképzési Hídprogram megszervezésének feltételeit, a Szakképzési Hídprogramban folytatott képzéshez szükséges szakképzési kerettanterveket, valamint a Szakképzési Hídprogramba történő bekapcsolódás részletes szabályait az oktatásért felelős miniszter egyetértésével és a társadalmi felzárkózásért felelős miniszter véleményének kikérésével.
 
 90. § Felhatalmazást kap a szakképesítésért felelős miniszter, hogy az ágazatába tartozó szakképesítések tekintetében rendeletben határozza meg
 
@@ -1518,7 +1521,7 @@ vonatkozó adatokat, valamint
 
 (6) Az e törvény hatálybalépése előtt megkezdett szakképzéseket a beiskolázáskor hatályos rendelkezések szerint kell folytatni és befejezni.
 
-(7) Az e törvény előírásait a Magyar Honvédség, a Nemzeti Adó- és Vámhivatal és a rendvédelmi szervek keretében folyó szakképzés, valamint a közszolgálati tisztviselőkről szóló törvény és a közalkalmazottak jogállásáról szóló törvény hatálya alá tartozók tekintetében az eltérő sajátosságok figyelembevételével kell alkalmazni. A Magyar Honvédség és a rendvédelmi szervek keretében szolgálati beosztás betöltésére jogosító szakképesítésre irányuló szakképzés megkezdéséhez a szakképesítésért felelős miniszter engedélye szükséges.
+(7) Az e törvény előírásait a Magyar Honvédség, a Nemzeti Adó- és Vámhivatal és a rendvédelmi szervek keretében folyó szakképzés, valamint a közszolgálati tisztviselőkről szóló törvény, az állami tisztviselőkről szóló törvény és a közalkalmazottak jogállásáról szóló törvény hatálya alá tartozók tekintetében az eltérő sajátosságok figyelembevételével kell alkalmazni. A Magyar Honvédség és a rendvédelmi szervek keretében szolgálati beosztás betöltésére jogosító szakképesítésre irányuló szakképzés megkezdéséhez a szakképesítésért felelős miniszter engedélye szükséges.
 
 #### 55. Átmeneti rendelkezések
 

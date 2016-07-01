@@ -58,7 +58,7 @@ Az Országgyűlés annak érdekében, hogy a növényvédő mérnökök és növ
 
 (5) A (3) bekezdés c) és p) pontja szerinti hatósági eljárásra a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény rendelkezéseit kell alkalmazni. Az eljárást első fokon a területi szervezet folytatja le. A területi szervezet döntése ellen fellebbezésnek van helye, melynek az elbírálására az országos szervezet jogosult.
 
-(6) Az (5) bekezdés szerinti eljárásban ügyintéző, illetve döntéshozó csak olyan személy lehet, aki a közszolgálati tisztviselőkről szóló törvény alapján kormánytisztviselőnek – nyilvántartás vezetése esetén kormányzati ügykezelőnek – kinevezhető lenne. A döntéshozóra és az ügyintézőre a közszolgálati tisztviselőkről szóló törvény összeférhetetlenségi szabályait kell alkalmazni.
+(6) Az (5) bekezdés szerinti eljárásban ügyintéző, illetve döntéshozó csak olyan személy lehet, aki a közszolgálati tisztviselőkről szóló törvény alapján kormánytisztviselőnek, az állami tisztviselőkről szóló törvény alapján állami tisztviselőnek – nyilvántartás vezetése esetén kormányzati ügykezelőnek, állami ügykezelőnek – kinevezhető lenne. A döntéshozóra és az ügyintézőre a közszolgálati tisztviselőkről szóló törvény összeférhetetlenségi szabályait kell alkalmazni.
 
 2/A. § A kamarának a tagfelvétellel és a kamarai névjegyzékbe vétellel, valamint a fegyelmi és etikai ügyek kivételével a tagsági viszony megszüntetésével és a kamarai nyilvántartásból való törléssel kapcsolatos eljárásában a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
 
@@ -174,7 +174,7 @@ Az Országgyűlés annak érdekében, hogy a növényvédő mérnökök és növ
 
 (4) Amennyiben a tisztségviselő, illetve az ügyintéző szerv nem tisztségviselő tagjának megválasztása a küldöttközgyűlés hatáskörébe tartozik, a (3) bekezdésben szereplő választás céljából a küldöttközgyűlés a megbízatás megszűnésétől számított 45 napon belüli időpontra össze kell hívni.
 
-13. § (1) Összeférhetetlen a kamarai tisztséggel, ha valaki a növényvédelmi szakigazgatásban vezetőként osztályvezető, illetve annál magasabb beosztásban közszolgálati jogviszonyban áll, valamint politikai pártban tisztséget tölt be.
+13. § (1) Összeférhetetlen a kamarai tisztséggel, ha valaki a növényvédelmi szakigazgatásban vezetőként osztályvezető, illetve annál magasabb beosztásban közszolgálati, kormányzati szolgálati, vagy állami szolgálati jogviszonyban áll, valamint politikai pártban tisztséget tölt be.
 
 (2) Kamarai tisztségviselő azonos kamarai szervezetben egyéb tisztséget nem tölthet be. Kamarai tisztségre választható minden kamarai tag, feltéve, ha vele szemben összeférhetetlenségi ok nem áll fenn.
 
@@ -228,7 +228,7 @@ kezeli.
 
 16. § (1) Magyarország területén növényvédelmi diplomához kötött tevékenységet – a jogszabályban meghatározott feltételeken túlmenően – az folytathat, aki a Kamara tagja; kivéve a (2) bekezdésben megjelölt személyeket.
 
-(2) A közszolgálati tisztviselőkről szóló törvény alapján kormányzati szolgálati jogviszonyban vagy közszolgálati jogviszonyban álló személyek, amennyiben kizárólag e jogviszony keretei között eljárva végeznek kamarai tagsághoz kötött tevékenységet, a kamarai tagságot önként vállalhatják.
+(2) A közszolgálati tisztviselőkről szóló törvény alapján kormányzati szolgálati jogviszonyban, közszolgálati jogviszonyban vagy az állami tisztviselőkről szóló törvény alapján állami szolgálati jogviszonyban álló személyek, amennyiben kizárólag e jogviszony keretei között eljárva végeznek kamarai tagsághoz kötött tevékenységet, a kamarai tagságot önként vállalhatják.
 
 17. § (1) A növényvédő mérnök–növényorvos a Kamara azon területi szervezeténél kérheti tagfelvételét, amelynek illetékességi területén növényvédelmi diplomához kötött tevékenységet folytat, illetve kíván folytatni. Aki a tagfelvétel időpontjában kamarai tagsághoz kötött tevékenységet nem folytat és nem is kíván folytatni, tagfelvételét a lakóhelye szerinti illetékes, vagy annál a területi kamarai szervezetnél kérheti, amelynek területén bármikor kamarai tagsághoz kötött tevékenységet folytatott.
 

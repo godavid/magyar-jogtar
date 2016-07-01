@@ -446,7 +446,7 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 - g) biztosítja a védelmi igazgatási szervek működésének feltételeit, és irányítja a rendkívüli intézkedésekkel hatáskörébe utalt feladatok végrehajtását,
 - h) a honvédelmi felkészítés feladatainak gyakorlása és ellenőrzése céljából a Kormány jóváhagyásával gyakorlatot vezethet a polgármesterek, valamint a honvédelemben közreműködő szervek közreműködésével.
 
-(2) A megyei védelmi bizottság elnöke a védelmi igazgatási feladatait a Kormány általános hatáskörű területi államigazgatási szervének közreműködésével látja el. A honvédelmi feladatok ellátása érdekében, a szükséges mértékben, munkaidő-korlátozás nélkül a Kormány általános hatáskörű területi államigazgatási szervének kormánytisztviselője és munkavállalója rendkívüli munkavégzésre kötelezhető.
+(2) A megyei védelmi bizottság elnöke a védelmi igazgatási feladatait a Kormány általános hatáskörű területi államigazgatási szervének közreműködésével látja el. A honvédelmi feladatok ellátása érdekében, a szükséges mértékben, munkaidő-korlátozás nélkül a Kormány általános hatáskörű területi államigazgatási szervének kormánytisztviselője, kormányzati ügykezelője, állami tisztviselője, állami ügykezelője és munkavállalója rendkívüli munkavégzésre kötelezhető.
 
 #### 19. A helyi védelmi bizottság
 
@@ -496,7 +496,7 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 
 (3) A polgármester az (1) bekezdésben meghatározott feladatok teljesítése érdekében a helyi védelmi bizottság rendelkezései szerint együttműködik más települések polgármestereivel.
 
-(4) A polgármester a védelmi igazgatási feladatait a járási hivatal közreműködésével látja el. A honvédelmi feladatok ellátása érdekében, a szükséges mértékben, munkaidő-korlátozás nélkül a járási hivatal minden kormánytisztviselője és munkavállalója rendkívüli túlmunkára kötelezhető.
+(4) A polgármester a védelmi igazgatási feladatait a járási hivatal közreműködésével látja el. A honvédelmi feladatok ellátása érdekében, a szükséges mértékben, munkaidő-korlátozás nélkül a járási hivatal minden állami tisztviselője, állami ügykezelője és munkavállalója rendkívüli munkavégzésre kötelezhető.
 
 (5) A polgármester e §-ban meghatározott feladatának végrehajtásához szükséges költségek és kiadások fedezetére állami támogatás biztosítható.
 
@@ -576,7 +576,7 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 - c) a szövetségi és nemzetközi szerződésből eredő egyéb katonai kötelezettségek – különösen a kollektív védelmi, békefenntartó és humanitárius feladatok – teljesítése,
 - d) a honvédelem szempontjából fokozott védelmet igénylő létesítmények őrzése és védelme,
 - e) egyes kijelölt létesítmények őrzése és védelme,
-- f) részvétel a szükségállapot idején az erőszakos cselekmények elhárításában (a továbbiakban: felhasználás),
+- f) felhasználás,
 - g) talált robbanótestek tűzszerészeti mentesítése, és egyéb tűzszerészeti feladatok térítés ellenében való végrehajtása,
 - h) a menedékjogról szóló törvény szerinti tömeges bevándorlás okozta válsághelyzet idején közreműködés az államhatár őrzésében, az államhatár rendjét közvetlenül veszélyeztető konfliktushelyzet és a tömeges méretű migráció kezeléséhez szükséges intézkedések végrehajtásában, valamint az államhatár rendje ellen irányuló erőszakos cselekmények elhárításában.
 
@@ -1030,11 +1030,11 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 
 ## HARMADIK RÉSZ — RENDKÍVÜLI INTÉZKEDÉSEK
 
-### IX. Fejezet — MEGELŐZŐ VÉDELMI HELYZET, RENDKÍVÜLI ÁLLAPOT, SZÜKSÉGÁLLAPOT ÉS VÁRATLAN TÁMADÁS IDEJÉN ALKALMAZHATÓ SZABÁLYOK
+### IX. Fejezet — TERRORVESZÉLYHELYZET, MEGELŐZŐ VÉDELMI HELYZET, RENDKÍVÜLI ÁLLAPOT, SZÜKSÉGÁLLAPOT ÉS VÁRATLAN TÁMADÁS IDEJÉN ALKALMAZHATÓ SZABÁLYOK
 
 #### 42. Általános rendelkezések
 
-64. § (1) A megelőző védelmi helyzet, rendkívüli állapot, szükségállapot és váratlan támadás idején alkalmazható szabályokat, a bevezethető rendkívüli intézkedéseket ez a fejezet állapítja meg. A NATO Válságreagálási Rendszerrel összhangban álló nemzeti intézkedések önállóan, illetve a bevezetett rendkívüli intézkedésekkel összhangban alkalmazhatók.
+64. § (1) A terrorveszélyhelyzet, a megelőző védelmi helyzet, rendkívüli állapot, szükségállapot és váratlan támadás idején alkalmazható szabályokat, a bevezethető rendkívüli intézkedéseket ez a fejezet állapítja meg. A NATO Válságreagálási Rendszerrel összhangban álló nemzeti intézkedések önállóan, illetve a bevezetett rendkívüli intézkedésekkel összhangban alkalmazhatók.
 
 (2) A Honvédelmi Tanács rendkívüli állapot idején a 65–79. §-ban meghatározott rendkívüli intézkedéseket vezetheti be.
 
@@ -1043,9 +1043,11 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 (4) A Kormány
 
 - a) megelőző védelmi helyzetben és váratlan támadás esetén a 65–66. §-ban, a 67. § (1) bekezdésében, a 68. § (4)–(5) bekezdésében, a 69–70. §-ban, a 72. §-ban, a 76. § (2) bekezdésében, a 78. § (2)–(5) bekezdésében, és a 79. §-ban meghatározott rendkívüli intézkedéseket,
-- b) a megelőző védelmi helyzet kihirdetését megelőzően, annak kezdeményezését követően, az alapvető jogok lényeges tartalmát nem érintve a 79. §-ban meghatározott intézkedéseket vezetheti be.
+- b) a megelőző védelmi helyzet kihirdetését megelőzően, annak kezdeményezését követően, az alapvető jogok lényeges tartalmát nem érintve a 79. §-ban meghatározott intézkedéseket,
+- c) a terrorveszélyhelyzet kihirdetésének kezdeményezését követően az alapvető jogok lényeges tartalmát nem érintve a 69. § (1) bekezdése, a 70. § (4)–(6) bekezdése szerinti, valamint a 79. §-ban meghatározott intézkedéseket a 79. § a), b), e), i) és j) pontjai kivételével,
+- d) terrorveszélyhelyzetben a c) pontban meghatározottakon túl a 65. § (2) bekezdés a)–e) pontjában, valamint a 70. § (3) bekezdés b) pontjában meghatározott intézkedéseket vezetheti be.
 
-(5) Ahol ez a rész rendeletet említ, azon rendkívüli állapot idején a Honvédelmi Tanács rendeletét, szükségállapot idején a köztársasági elnök rendeleti úton bevezetett rendkívüli intézkedését, megelőző védelmi helyzetben és váratlan támadás esetén a Kormány rendeletét kell érteni. Az ezekkel ellentétes jogszabály nem alkalmazható.
+(5) Ahol ez a rész rendeletet említ, azon rendkívüli állapot idején a Honvédelmi Tanács rendeletét, szükségállapot idején a köztársasági elnök rendeleti úton bevezetett rendkívüli intézkedését, terrorveszélyhelyzetben, megelőző védelmi helyzetben és váratlan támadás esetén a Kormány rendeletét kell érteni. Az ezekkel ellentétes jogszabály nem alkalmazható.
 
 (6) A rendeletet – a Honvédelmi Tanács, a köztársasági elnök és a Kormány döntése esetén – az országban működő rádiók és televíziók adásaiban, a napilapokban, valamint hirdetmény útján térítésmentesen, az aláírás napján ki lehet hirdetni.
 
@@ -1060,7 +1062,7 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 (2) A Honvédség tényleges katonai és a rendvédelmi szervek hivatásos állományú tagjainak szolgálati viszonyára vonatkozó szabályok rendeletben – a békeidőszakban irányadó szabályoktól eltérően – állapíthatók meg. Rendelet alapján:
 
 - a) szünetel a Honvédség hivatásos állományába történő felvétel, továbbá a hivatásos szolgálati viszony lemondással nem szüntethető meg,
-- b) a szolgálati idő kezdete és vége a megelőző védelmi helyzethez, rendkívüli állapothoz vagy szükségállapothoz igazodóan szabályozható,
+- b) a szolgálati idő kezdete és vége a megelőző védelmi helyzethez, terrorveszélyhelyzethez, rendkívüli állapothoz vagy szükségállapothoz igazodóan szabályozható,
 - c) a rendfokozatba történő előléptetésre eltérő szabályok állapíthatók meg, valamint a szolgálat teljesítéséért és érdemeik elismeréséül érdemrendek, érdemérmek és emlékérmek alapíthatók,
 - d) a beosztásba történő kinevezés és felmentés, az áthelyezés, a vezénylés, a kirendelés, az ellátás, a szabadság és a fegyelmi felelősség, a méltatlanság, továbbá a szolgálat egyéb szabályai a hatályos szabályoktól eltérően is megállapíthatók,
 - e) az elöljárói érdekvédelem szabályait a megbecsülés, az anyagi támogatás, valamint a jogos érdekek elismerése és védelme érdekében kell megállapítani,
@@ -1296,7 +1298,8 @@ rendelheti el.
 - s) szakirányítás: az arra jogosultnak a Honvédség alaprendeltetés szerinti működésének biztosítása érdekében, az irányítás rendszerében az irányított szervezetek szaktevékenységére meghatározó befolyást eredményező, a szolgálati elöljárói jogkörtől független tevékenysége,
 - t) szövetséges fegyveres erők: a kölcsönös katonai segítségnyújtás kötelezettségét tartalmazó hatályos nemzetközi szerződés szerint a Magyarországgal szövetséges államok fegyveres erői, valamint az e szerződés alapján létrehozott közös katonai szervezetek,
 - u) szövetségi légtér: több szövetséges állam légterét békében is átfedő, védelmi célú, légtér-szuverenitási felségjog-érvényesítési terület,
-- v) katonai hatóság: a honvédelmi és a katonai célú ingatlanok, azok védőterületei, valamint az ott végzett tevékenységek vonatkozásában – jogszabályban meghatározott hatósági jogkörében eljárva – hatósági vagy szakhatósági feladatokat ellátó honvédségi szervezet.
+- v) katonai hatóság: a honvédelmi és a katonai célú ingatlanok, azok védőterületei, valamint az ott végzett tevékenységek vonatkozásában – jogszabályban meghatározott hatósági jogkörében eljárva – hatósági vagy szakhatósági feladatokat ellátó honvédségi szervezet,
+- w) felhasználás: a Honvédség részvétele az erőszakos cselekmények elhárításában szükségállapot és terrorveszélyhelyzet idején.
 
 #### 49. Felhatalmazó rendelkezések
 

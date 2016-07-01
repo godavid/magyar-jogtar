@@ -776,13 +776,13 @@ alapján meghatározott számviteli politikában rögzített, az átcsoportosít
 
 (3) A munkáltató a menetkedvezményre jogosult (5) bekezdésben meghatározott adatait az országos, regionális vagy elővárosi vasúti személyszállítási közszolgáltatást végző vasúti társaság részére továbbítja.
 
-(4) A menetkedvezményt biztosító országos, regionális vagy elővárosi vasúti személyszállítási közszolgáltatást végző vasúti társaság jogosult az utazási kedvezményre jogosult munkavállaló, kormánytisztviselő, köztisztviselő, közalkalmazott, nyugdíjas, valamint ezek igényjogosult hozzátartozója (5) bekezdésben meghatározott adatainak a kezelésére.
+(4) A menetkedvezményt biztosító országos, regionális vagy elővárosi vasúti személyszállítási közszolgáltatást végző vasúti társaság jogosult az utazási kedvezményre jogosult munkavállaló, kormánytisztviselő, állami tisztviselő, köztisztviselő, közalkalmazott, nyugdíjas, valamint ezek igényjogosult hozzátartozója (5) bekezdésben meghatározott adatainak a kezelésére.
 
 (5) Az adatkezelés a következő adatokra terjed ki:
 
 - a) a jogosult természetes személyazonosító adatai (családi és utónév, születési családi és utónév, születési hely és idő, anyja születési családi és utóneve),
 - b) a jogosult lakhelye vagy tartózkodási helye, valamint levelezési címe,
-- c) a munkaviszony, kormányzati szolgálati, közszolgálati, közalkalmazotti jogviszony, szakmai gyakorlat kezdete, illetve vége, valamint
+- c) a munkaviszony, kormányzati szolgálati, állami szolgálati, közszolgálati, közalkalmazotti jogviszony, szakmai gyakorlat kezdete, illetve vége, valamint
 - d) nyugdíjas esetén a saját jogú vagy hozzátartozói nyugellátás, valamint egyéb nyugdíjszerű társadalombiztosítási ellátás ténye és megállapításának kezdő időpontja, illetve megszűnésének időpontja.
 
 (6) Az adatkezelésre e § alapján jogosult (e szakasz alkalmazásában a továbbiakban: menetkedvezményi adatkezelő) az (5) bekezdésben meghatározott adatokat az utazási kedvezmény biztosítása, a kedvezmény igénybevételére jogosító igazolvány kiállítása, az igazolványokról vezetett nyilvántartás vezetése érdekében kezeli. A menetkedvezményi adatkezelő az (5) bekezdésben meghatározott adatokat 3 évig tartja nyilván. A menetkedvezményi adatkezelő biztosítja az adatok védelmét vétlen vagy szándékos megsemmisítéssel, megsemmisüléssel, megváltoztatással, nyilvánosságra kerüléssel szemben, továbbá azt, hogy azokhoz jogosulatlan személy ne férjen hozzá.

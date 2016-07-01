@@ -68,7 +68,7 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
 - f) továbbítja az okmánytár részére a nyilvántartásba történő bejegyzés és az okmányok kitöltésének alapját képező, a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló jogszabály mellékletében csatolandóként meghatározott iratokat;
 - g)
 - h) visszavonja (bevonja) az engedélyt, a parkolási igazolványt, a járművet forgalomból kivonja, és gondoskodik az ezekkel összefüggő adatok nyilvántartásba történő bevezetéséről;
-- i)
+- i) ellátja a parkolási igazolvány kiadásával, meghosszabbításával, cseréjével, pótlásával összefüggő feladatokat, gondoskodik a parkolási igazolvány kiállításáról és az ügyfél részére történő átadásáról;
 - j) a vezetői engedélyt – ha a járművezető nyilvántartott pontjainak száma a nyilvántartó értesítése szerint elérte vagy meghaladta a 18-at – az értesítéstől számított nyolc napon belül határozattal visszavonja, és a határozat jogerőre emelkedésekor nyilvántartott pontokat törli;
 - k) jogosult a törvényben meghatározottak szerint a SIS II-ből adatot igényelni.
 

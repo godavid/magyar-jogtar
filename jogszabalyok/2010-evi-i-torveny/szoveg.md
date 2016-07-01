@@ -80,7 +80,7 @@ kapcsolatos, e törvényben felsorolt adatokat, valamint az azokban bekövetkeze
 
 (a továbbiakban együtt: anyakönyvvezető),
 
-- b) az anyakönyvvezető számára e törvény által biztosított jogokat gyakorolva és kötelezettségeket teljesítve az anyakönyvi ügyekért felelős miniszter által rendeletben kijelölt szerv vezetője által kijelölt, kormányrendeletben meghatározott képesítési feltételekkel rendelkező kormánytisztviselője (e törvény alkalmazásában: hazai anyakönyvezést végző hatóság),
+- b) az anyakönyvvezető számára e törvény által biztosított jogokat gyakorolva és kötelezettségeket teljesítve az anyakönyvi ügyekért felelős miniszter által rendeletben kijelölt szerv vezetője által kijelölt, kormányrendeletben meghatározott képesítési feltételekkel rendelkező kormánytisztviselője vagy állami tisztviselője (a továbbiakban: hazai anyakönyvezést végző hatóság),
 - c) az (5) bekezdésben meghatározott esetekben a fővárosi és megyei kormányhivatal,
 - d) névváltoztatási ügyben a központi anyakönyvi szerv
 

@@ -283,7 +283,7 @@ A megbízatásában felfüggesztett vezető tisztségviselő a felfüggesztés i
 
 (9) A szövetkezeti hitelintézet vezető tisztségviselőinek kinevezéséhez az Integrációs Szervezet igazgatóságának előzetes hozzájárulása szükséges. Az Integrációs Szervezet igazgatósága, illetve a Központi Bank igazgatósága kezdeményezheti, hogy a Központi Bank szövetkezeti hitelintézet részvényesénél, illetve az Integrációs Szervezet szövetkezeti hitelintézet tagjánál tartsanak közgyűlést, ahol napirendi pont a tisztújítás a vezető tisztségviselők vonatkozásában. Az érintett szövetkezeti hitelintézetnél a jogszabály által megengedett legrövidebb időn belül meg kell tartani a közgyűlést a fenti napirenddel. Az átmeneti időre, az Integrációs Szervezet által kinevezett vezető tisztségviselői kinevezéséhez nem szükséges a Felügyelet engedélye.
 
-(10)
+(10) A Központi Bank igazgatósága felfüggeszti a szövetkezeti hitelintézet részvényes részvényesi jogait a 14. § (4) bekezdés szerinti esetekben. A Központi Bank részvénykönyvében a részvényesi jogok felfüggesztésének a tényét fel kell tüntetni.
 
 (11) A részvényes jogainak felfüggesztése az érintett részvényhez kapcsolódó jogok és kötelezettségek szünetelését eredményezi. E részvényeket a Központi Bank közgyűlésének a határozatképessége szempontjából nem lehet figyelembe venni.
 

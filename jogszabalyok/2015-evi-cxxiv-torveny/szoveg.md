@@ -128,6 +128,8 @@ nyújthat be az akkreditáló szervhez.
 
 bekövetkezett változás.
 
+(2a) Az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott változásbejelentési kötelezettség azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle az akkreditált szervezet vagy az akkreditált státuszú természetes személy kéri – az ott meghatározott határidőben értesíti az akkreditáló szervet.
+
 (3) Az akkreditáló szerv az akkreditált szervezet vagy természetes személy akkreditált státuszát részlegesen vagy teljes körűen felfüggesztheti, ha a felügyeleti vizsgálat során megállapítja, hogy az akkreditált státusz alapjául szolgáló körülményekben olyan változás következett be, amelynek következtében az akkreditálás alapvető követelményei csak részben teljesülnek.
 
 (4) Az akkreditáló szerv a felfüggesztő határozatban a felfüggesztés megszüntetésének feltételeiről és a feltételek teljesítésének határidejéről is dönt. Ha az akkreditált szervezet vagy természetes személy az előírt feltételeknek határidőben eleget tesz, az akkreditáló szerv a felfüggesztő határozatot visszavonja.

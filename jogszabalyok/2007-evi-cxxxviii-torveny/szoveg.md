@@ -633,18 +633,17 @@ amelyekről legalább évente beszámol a befektetési vállalkozás ügyvezeté
 - a) befektetési vállalkozásnál,
 - b) pénzügyi intézménynél,
 - c) értéktőzsdén, árutőzsdén,
-- d)
-- e) befektetési alap-kezelőnél,
-- f) kockázati tőkealap-kezelőnél,
-- g) az MNB-nél,
-- h) az ÁKK Zrt.-nél, a kincstárnál,
-- i) közigazgatási szervnél,
-- j) árutőzsdei szolgáltatónál,
-- k) központi értéktárnál, vagy
-- l) központi szerződő félnél,
-- m) biztosítónál vagy nyugdíjpénztárnál,
+- d) befektetési alapkezelőnél,
+- e) kockázati tőkealap-kezelőnél,
+- f) az MNB-nél,
+- g) az ÁKK Zrt.-nél, a kincstárnál,
+- h) közigazgatási szervnél,
+- i) árutőzsdei szolgáltatónál,
+- j) központi értéktárnál, vagy
+- k) központi szerződő félnél,
+- l) biztosítónál vagy nyugdíjpénztárnál
 
-tisztségviselőként, köztisztviselőként, kormánytisztviselőként, vagy alkalmazottként befektetési vagy pénzügyi szakterületen eltöltött idő.
+tisztségviselőként, köztisztviselőként, kormánytisztviselőként, állami tisztviselőként, vagy alkalmazottként befektetési vagy pénzügyi szakterületen eltöltött idő.
 
 (2) Külföldön szerzett szakmai gyakorlat akkor vehető figyelembe, ha a szakirányú szakmai gyakorlat megszerzésére az (1) bekezdésben meghatározott szervezeteknek megfelelő intézménynél, illetve nemzetközi pénzügyi intézménynél került sor.
 
@@ -1495,7 +1494,7 @@ amely a befektetési vállalkozás és az ügyfél között létrejövő szerző
 
 (9) Óvadék esetén, ha annak tárgya olyan pénzügyi eszköz, amely nyilvános forgalmi értékkel, vagy az adott időpontban felektől függetlenül meghatározható értékkel nem rendelkezik, a zálogjogosult a Ptk. 5:138. § (1) bekezdésében meghatározott jogával akkor élhet, ha a pénzügyi eszköz értékelési módjáról a zálogszerződésben megállapodott.
 
-(10) A befektetési vállalkozás biztosítani köteles, hogy alkalmazottja vagy a munkavégzésre irányuló egyéb jogviszony keretében általa foglalkoztatott más személy az ügyfél részére vezetett ügyfélszámla, értékpapírszámla fölött az ügyfél képviselőjeként – a jogszabályon, bírósági vagy hatósági határozaton, létesítő okiraton alapuló képviseleti jogosultság kivételével – rendelkezési jogot nem gyakorolhat.
+(10) A befektetési vállalkozás biztosítani köteles, hogy alkalmazottja vagy a munkavégzésre irányuló egyéb jogviszony keretében általa foglalkoztatott más személy az ügyfél részére vezetett ügyfélszámla, értékpapírszámla fölött az ügyfél képviselőjeként – közeli hozzátartozójának ügyfélszámlája, értékpapírszámlája feletti rendelkezés, valamint jogszabályon, bírósági vagy hatósági határozaton, létesítő okiraton alapuló képviseleti jogosultság kivételével – rendelkezési jogot nem gyakorolhat.
 
 58. § (1) A befektetési vállalkozás az ügyfél tulajdonában lévő vagy őt megillető pénzügyi eszközt – a (2) bekezdésben foglalt kivétellel – nem használhatja.
 
@@ -2771,7 +2770,7 @@ rendelkezhet.
 
 (2) Gazdasági társaságként működő függő ügynökkel befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás, illetőleg árutőzsdei szolgáltatás közvetítésére irányuló szerződés akkor köthető, ha ellene a Felügyelet vagy más EGT-állam felügyeleti hatósága az elmúlt három évben, határozatában nem állapította meg a befektetési szolgáltatási tevékenységre vagy a kiegészítő befektetési szolgáltatásra, illetőleg az árutőzsdei szolgáltatásra vonatkozó jogszabályokban vagy jogszabály szerinti szabályzatokban foglaltak megsértését.
 
-116/A. § (1) A befektetési vállalkozás, az árutőzsdei szolgáltató a szabályozott piacon, multilaterális kereskedési rendszerben megbízás végrehajtását megvalósító üzletkötésre olyan, vele munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személyt köteles alkalmazni, akit a befektetési vállalkozás, az árutőzsdei szolgáltató vagy a közvetítő előzetes kérelme alapján a Felügyelet nyilvántartásba vett.
+116/A. § (1) A befektetési vállalkozás, az árutőzsdei szolgáltató a szabályozott piacon, multilaterális kereskedési rendszerben megbízás végrehajtását megvalósító üzletkötésre olyan, vele munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személyt köteles alkalmazni, akit a befektetési vállalkozás, az árutőzsdei szolgáltató előzetes kérelme alapján a Felügyelet nyilvántartásba vett.
 
 (2) Az (1) bekezdés szerinti személyekről vezetett névjegyzékbe a Felügyelet azt a személyt jegyzi be, aki
 
@@ -2935,7 +2934,8 @@ részére,
 - q) az MNB által alapvető feladatai ellátása érdekében a jegybanki információs rendszerben rendelkezésére álló adatoknak egyedi azonosításra alkalmas módon való átadása a Központi Bankok Európai Rendszere és annak tagjai számára, azok kérése alapján, az Európai Unió működéséről szóló szerződésből eredő vagy központi banki feladataik teljesítéséhez szükséges mértékben,
 - r) a befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás, árutőzsdei szolgáltatás, multilaterális kereskedési rendszer működtetési tevékenység keretében az értékpapírszámlához vagy ügyfélszámlához kapcsolódó megbízás teljesítése céljából a befektetési vállalkozás, az árutőzsdei szolgáltató és a multilaterális kereskedési rendszer működtetője által az értékpapírszámlához vagy ügyfélszámlához kapcsolódó megbízás feldolgozásában, elszámolásában és teljesítésében közreműködő befektetési vállalkozás, árutőzsdei szolgáltató, multilaterális kereskedési rendszer működtetője, központi értéktár, központi szerződő fél, kockázati tőkealap-kezelő, tőzsde, továbbá befektetési szolgáltatási tevékenységet végző vagy kiegészítő szolgáltatást nyújtó hitelintézet és befektetési alapkezelő részére történő adattovábbítás,
 - s) a nyilvántartásba vett vagy elismert kereskedési adattárnak való, a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet szerinti adattovábbítás,
-- t) a szanálási feladatkörében eljáró MNB által a pénzügyi közvetítő rendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló törvény szerinti független és ideiglenes értékelőnek – valamint az értékelésben közreműködőnek – az értékelés elkészítése érdekében, a vagyonértékesítés alkalmazása során a lehetséges ajánlattevőknek, továbbá a vagyonértékesítés alkalmazása során az áthidaló intézménynek nem minősülő átvevőnek való adat- és információátadás.
+- t) a szanálási feladatkörében eljáró MNB által a pénzügyi közvetítő rendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló törvény szerinti független és ideiglenes értékelőnek – valamint az értékelésben közreműködőnek – az értékelés elkészítése érdekében, a vagyonértékesítés alkalmazása során a lehetséges ajánlattevőknek, továbbá a vagyonértékesítés alkalmazása során az áthidaló intézménynek nem minősülő átvevőnek való adat- és információátadás,
+- u) a befektetési vállalkozás ügyfele által nyilvánosságra hozott állítással összefüggésben a befektetési vállalkozás részéről a közte és ügyfele közötti jogviszonyra vonatkozó, a nyilvánosság előtti válaszadáshoz szükséges mértékben történő adatközlés.
 
 ### A panaszkezelés
 
@@ -2957,7 +2957,7 @@ részére,
 
 (7) A szolgáltató az írásbeli panasszal kapcsolatos, indokolással ellátott álláspontját a panasz közlését követő harminc napon belül megküldi az ügyfélnek. A szolgáltató a panaszkezelés során köteles úgy eljárni, hogy a körülmények által adott lehetőségekhez mérten elkerülje a pénzügyi fogyasztói jogvita kialakulását.
 
-(8) A panasz elutasítása esetén a szolgáltató válaszában tájékoztatja az ügyfelet arról, hogy az MNB tv. szerinti fogyasztóvédelmi rendelkezések megsértése esetén a Felügyeletnél fogyasztóvédelmi eljárást kezdeményezhet, vagy a szerződés létrejöttével, érvényességével, joghatásaival és megszűnésével, továbbá a szerződésszegéssel és annak joghatásaival kapcsolatos jogvita esetén bírósághoz fordulhat, vagy a Pénzügyi Békéltető Testület eljárását kezdeményezheti, amennyiben a Pénzügyi Békéltető Testület eljárására vonatkozó szabályok alapján fogyasztónak minősül. A szolgáltatónak tájékoztatnia kell e fogyasztót arról, hogy tett-e általános alávetési nyilatkozatot, meg kell adnia a Pénzügyi Békéltető Testület levelezési címét, továbbá a fogyasztó külön kérésére meg kell küldenie a Pénzügyi Békéltető Testület által készített és a szolgáltató rendelkezésére bocsátott kérelem nyomtatványt.
+(8) A panasz elutasítása esetén a szolgáltató válaszában tájékoztatja az ügyfelet arról, hogy az MNB tv. szerinti fogyasztóvédelmi rendelkezések megsértése esetén a Felügyeletnél fogyasztóvédelmi eljárást kezdeményezhet, vagy a szerződés létrejöttével, érvényességével, joghatásaival és megszűnésével, továbbá a szerződésszegéssel és annak joghatásaival kapcsolatos jogvita esetén bírósághoz fordulhat, vagy a Pénzügyi Békéltető Testület eljárását kezdeményezheti, amennyiben a Pénzügyi Békéltető Testület eljárására vonatkozó szabályok alapján fogyasztónak minősül. A szolgáltatónak tájékoztatnia kell e fogyasztót arról, hogy tett-e általános alávetési nyilatkozatot, meg kell adnia a Pénzügyi Békéltető Testület székhelyét, telefonos és internetes elérhetőségét, valamint a levelezési címét, továbbá a fogyasztó külön kérésére meg kell küldenie a Pénzügyi Békéltető Testület által készített és a szolgáltató rendelkezésére bocsátott kérelem nyomtatványt.
 
 (9) A szolgáltató a panaszt és az arra adott választ öt évig őrzi meg, és azt a Felügyelet kérésére bemutatja.
 
@@ -3185,6 +3185,8 @@ nem képezi a Ctv. 97. § (1) bekezdése szerinti vagyon részét, annak kiadás
 (7) A befektetési vállalkozás felszámolása esetén az 575/2013/EU rendeletben meghatározott alárendelt kölcsöntőkéből, valamint kiegészítő alárendelt kölcsöntőkéből eredő tartozást a Cstv. 57. §-a (1) bekezdésének h) pontjában meghatározott tartozás kielégítését követően kell kielégíteni.
 
 (8) Az (1)–(7) bekezdésben foglalt rendelkezések bűnügyi zárlat elrendelése esetén annak feloldása után alkalmazandók.
+
+136/A. § Ha a 136. § (1) bekezdése szerinti pénzügyi eszköz, pénzeszköz vagy árutőzsdei szolgáltatás tárgyát képező eszköz kiadásával összefüggésben a felszámoló vitatja a tulajdonos által megjelölt igényt, a vitatott tulajdoni igényt a felszámolási eljárásban lehet érvényesíteni. A felszámoló a vitatott tulajdoni igényt elbírálás érdekében 15 munkanapon belül megküldi a felszámolást elrendelő bíróságnak. A bíróság a tulajdoni igény elbírálása során a vitatott hitelezői igény elbírálására vonatkozó szabályok szerint jár el.
 
 137. § A felszámolási eljárás során a felszámoló dönthet a befektetési vállalkozás vagy az árutőzsdei szolgáltató szerződéses kötelezettségei állományának átruházásáról.
 
@@ -3446,7 +3448,7 @@ valamint az ezen adatokban bekövetkező változást.
 
 (5) A Felügyelet nyilvántartást vezet a 113. § alapján a befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás közvetítésére megbízott befektetési vállalkozásokról.
 
-159/A. § (1) A Felügyelet a 22/B. § (1) bekezdés c) pontjában meghatározott hatósági képzéssel és vizsgáztatással kapcsolatban nyilvántartást vezet a képző és vizsgáztató szervekről, a hatósági vizsgára jelentkező személyekről, a képző szerv által aláíró személyként megjelölt, a képzési igazolás kiállítására és aláírására feljogosított személyekről (a továbbiakban: aláíró személy), az oktatóról és a Felügyelet által kijelölt, a hatósági vizsga jogszabályban foglalt feltételeknek megfelelő lebonyolítását felügyelő személyekről.
+159/A. § (1) A Felügyelet a 22/B. § (1) bekezdés c) pontjában meghatározott hatósági képzéssel és vizsgáztatással kapcsolatban nyilvántartást vezet a képző és vizsgáztató szervekről, a hatósági vizsgára jelentkező személyekről, a képző szerv által aláíró személyként megjelölt, a képzési igazolás kiállítására és aláírására feljogosított személyekről (a továbbiakban: aláíró személy), az oktatóról és a hatósági vizsga jogszabályban foglalt feltételeknek megfelelő lebonyolításának felügyeletére jogosult személyekről (a továbbiakban: vizsgabiztos).
 
 (2) A 116/A. § (1) bekezdésében meghatározott tevékenység gyakorlását lehetővé tevő tőkepiaci üzletkötői hatósági vizsgának és az ahhoz szükséges képzésnek a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendeletben meghatározott feltételeknek megfelelő képzés és vizsga fogadható el.
 
@@ -3469,7 +3471,7 @@ valamint az ezen adatokban bekövetkező változást.
 - a) az aláíró személyekről;
 - b) az oktatóról;
 - c) a hatósági vizsgára jelentkező személyekről; és
-- d) a Felügyelet által kijelölt, a hatósági vizsga jogszabályban foglalt feltételeknek megfelelő lebonyolítását felügyelő személyekről (a továbbiakban: vizsgabiztos).
+- d) a vizsgabiztosokról.
 
 (7) A Felügyelet által vezetett nyilvántartás tartalmazza a (6) bekezdésben meghatározott személyek vonatkozásában:
 
@@ -3478,13 +3480,13 @@ valamint az ezen adatokban bekövetkező változást.
 - c) a születési helyét és idejét;
 - d) a lakcímét;
 - e) a személyi kódját; és
-- f) vizsgabiztos esetén a nyilvántartási számát, a kijelölés visszavonásának a tényét és időpontját.
+- f) a vizsgabiztos esetében a nyilvántartási számát, valamint a nyilvántartásból való törlése esetén a törlés tényét és időpontját.
 
 (8) A Felügyelet a nyilvántartásba vételről szóló döntésben a (6) bekezdésben meghatározott személyek számára személyi kódot állapít meg.
 
 (9) Az e §-ban meghatározott nyilvántartással érintett személyes adatok tekintetében az adatkezelő a Felügyelet.
 
-(10) A Felügyelet a (7) bekezdésben meghatározott adatokat az adott személlyel kapcsolatos utolsó adat keletkezését követő öt év elteltével törli a nyilvántartásból.
+(10) A Felügyelet az (1) bekezdésben meghatározott nyilvántartásban szereplő személyes adatokat az adott személy hatósági képzésben vagy vizsgáztatásban történő közreműködésétől számított tizenöt év elteltével törli a nyilvántartásból, ide nem értve azokat az adatokat, amelyek hatósági vizsga letételét igazoló tanúsítvány nyilvántartásához szükségesek.
 
 (11) A hatósági képzés és vizsgáztatás során a Felügyelet jogosult ellenőrizni a hatósági képzést és vizsgáztatást végző, a hatósági képzésben és vizsgáztatásban részt vevő szervezeteket és személyeket.
 
@@ -3758,7 +3760,7 @@ kezelheti.
 - a) az e törvényben, e törvény szerinti szabályzatban vagy a Felügyelet határozatában foglaltak megsértése, illetőleg figyelmen kívül hagyása esetében a befektetési vállalkozást, az árutőzsdei szolgáltatót, a multilaterális kereskedési rendszer működtetőjét, a befektetési vállalkozás, az árutőzsdei szolgáltató, a multilaterális kereskedési rendszer működtetőjének vezető állású személyét és tulajdonosát figyelmezteti, illetőleg – ha szükséges – a feltételeknek való megfelelésre határidő kitűzésével felszólítja,
 - b) a befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás, az árutőzsdei szolgáltató és a közvetítő tevékenységének e tevékenységek végzésére, illetőleg szolgáltatások nyújtására jogosító engedély nélküli vagy bejelentés hiányában történő folytatását megtilthatja,
 - c) a Felügyelet által kirendelt szakértő, illetve felügyeleti biztos közreműködésével kapcsolatban felmerült költségek megtérítésére kötelezhet,
-- d) a befektetési vállalkozás és az árutőzsdei szolgáltató vezető állású személyének és könyvvizsgálójának felmentését, az alkalmazott felelősségre vonását kezdeményezheti,
+- d) a befektetési vállalkozás és az árutőzsdei szolgáltató vezető állású személyének és könyvvizsgálójának felmentését, a befektetési vállalkozás és az árutőzsdei szolgáltató alkalmazottjának felelősségre vonását kezdeményezheti,
 - e) a befektetési vállalkozás és az árutőzsdei szolgáltató igazgatóságát rendkívüli közgyűlés összehívására kötelezheti, és arra kötelező napirend megtárgyalását írhatja elő,
 - f) a befektetési vállalkozást és az árutőzsdei szolgáltatót határidő meghatározásával helyreállítási terv kidolgozására és a Felügyelethez történő benyújtására kötelezheti,
 - g) a befektetési vállalkozást, az árutőzsdei szolgáltatót és a piacműködtetőt meghatározott tartalmú rendkívüli adatszolgáltatás teljesítésére kötelezheti,
@@ -4023,7 +4025,7 @@ rendeletben állapítsa meg.
 (2) Felhatalmazást kap a miniszter arra, hogy rendeletben állapítsa meg
 
 - a) az ügyféllel kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás minimálisan kötelező tartalmi elemeire,
-- b) a hatósági képzésre, a hatósági képzés során szerzett tanúsítvány megszerzésének követelményeire, a hatósági vizsga díjának mértékére, megfizetésére és visszatérítésére
+- b) a hatósági képzés és vizsga szabályaira, a hatósági vizsga letételével szerzett, tőkepiaci üzletkötői tevékenység folytatására feljogosító tanúsítvány megszerzésének követelményeire, a hatósági vizsga díjának mértékére, megfizetésére és visszatérítésére
 
 vonatkozó részletes szabályokat.
 

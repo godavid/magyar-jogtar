@@ -904,7 +904,7 @@ tanúsítja, az a)–d) pont szerinti esetben az igazolás vagy a diákigazolvá
 - 7. munkaviszony:
   - a) a Munka Törvénykönyvében meghatározott munkaviszony,
   - b) a közalkalmazotti jogviszony,
-  - c) a közszolgálati jogviszony, a kormányzati szolgálati viszony,
+  - c) a közszolgálati jogviszony, az állami szolgálati jogviszony, a kormányzati szolgálati viszony,
   - d) a bírósági jogviszony,
   - e) az igazságügyi alkalmazotti szolgálati viszony,
   - f) az ügyészségi szolgálati jogviszony,

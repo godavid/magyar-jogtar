@@ -1284,14 +1284,14 @@ biztosítható.
 
 67/V. § (1) A VPSZ vezető tisztségviselője, felügyelőbizottságának tagja, vezető állású munkavállalója, valamint a díjszabási vagy kapacitáselosztási feladatait ellátó munkavállalója
 
-- a) a vasúti igazgatási szervvel kormányzati szolgálati jogviszonyt, vasúti társasággal vagy annak kapcsolt vállalkozásával munkaviszonyt, illetőleg munkavégzésre irányuló egyéb jogviszonyt nem létesíthet,
+- a) a vasúti igazgatási szervvel kormányzati szolgálati jogviszonyt, állami szolgálati jogviszonyt, vasúti társasággal vagy annak kapcsolt vállalkozásával munkaviszonyt, valamint munkavégzésre irányuló egyéb jogviszonyt nem létesíthet,
 - b) vasúti társaságban vagy annak kapcsolt vállalkozásában részesedést nem szerezhet,
 - c) munkafeltételeit, hatásköreit, beszámolási kötelezettségeit olyan módon kell meghatározni, hogy a 67/P. § (3) bekezdése szerinti feladatok ellátásával kapcsolatos ügyekben a független döntéshozatal biztosított legyen, továbbá
 - d) munkaszerződésében vagy megbízási szerződésében foglalt jogait és kötelezettségeit, valamint a munkavégzésének feltételeit – független döntéshozatali eljárás keretében – úgy kell meghatározni, hogy a 67/P. § (3) bekezdése szerinti feladatok ellátásával összefüggő döntések meghozatala során a befolyásmentesség és az egyenlő bánásmód követelményének megfelelően járjon el.
 
 (2) A VPSZ vezető tisztségviselőjének, felügyelőbizottsága tagjának, vezető állású munkavállalójának, valamint a díjszabási vagy kapacitáselosztási feladatait ellátó munkavállalójának a Ptk. 8:1. § (1) bekezdés 1. pontja szerinti közeli hozzátartozója
 
-- a) a vasúti igazgatási szervvel kormányzati szolgálati jogviszonyt nem létesíthet,
+- a) a vasúti igazgatási szervvel kormányzati szolgálati jogviszonyt, állami szolgálati jogviszonyt nem létesíthet,
 - b) vasúti társaságban vagy annak kapcsolt vállalkozásában részesedést nem szerezhet,
 - c) vasúti társaságnak vagy kapcsolt vállalkozásának vezető tisztségviselője, felügyelőbizottságának tagja vagy vezető munkavállalója nem lehet,
 - d) kiszolgáló létesítmény üzemeltetését végző társaságban vagy annak kapcsolt vállalkozásában részesedést nem szerezhet,
@@ -1433,25 +1433,25 @@ biztosítható.
 
 (2) A vasúti igazgatási szerv vezetőjének felmentésére kizárólag a vasúti igazgatási szerv döntéséhez nem kapcsolódó ok miatt kerülhet sor.
 
-72. § A vasúti igazgatási szerv vezetője gyakorolja a vasúti igazgatási szervvel kormányzati szolgálati jogviszonyban vagy munkaviszonyban álló alkalmazottak feletti munkáltatói jogkört.
+72. § A vasúti igazgatási szerv vezetője gyakorolja a vasúti igazgatási szervvel kormányzati szolgálati, állami szolgálati jogviszonyban vagy munkaviszonyban álló alkalmazottak feletti munkáltatói jogkört.
 
-### A vasúti igazgatási szerv kormánytisztviselője
+### A vasúti igazgatási szerv kormánytisztviselője, állami tisztviselője
 
-73. § (1) A vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője részére nem engedélyezhető további munkaviszony vagy munkavégzéssel járó egyéb jogviszony létesítése vasúti társasággal.
+73. § (1) A vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője, állami tisztviselője részére nem engedélyezhető további munkaviszony vagy munkavégzéssel járó egyéb jogviszony létesítése vasúti társasággal.
 
-(2) A vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője az öröklés kivételével vasúti társaságban tulajdoni részesedést nem szerezhet.
+(2) A vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője, állami tisztviselője az öröklés kivételével vasúti társaságban tulajdoni részesedést nem szerezhet.
 
-(3) A vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője kinevezése előtt vagy öröklés útján szerzett tulajdoni részesedését a kinevezésétől vagy a szerzéstől számított három hónapon belül köteles elidegeníteni.
+(3) A vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője, állami tisztviselője kinevezése előtt vagy öröklés útján szerzett tulajdoni részesedését a kinevezésétől vagy a szerzéstől számított három hónapon belül köteles elidegeníteni.
 
-(4) A (3) bekezdésben foglalt kötelezettsége teljesítéséig a vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője nem vehet részt olyan döntés előkészítésében és meghozatalában, amely az összeférhetetlenségi okkal érintett társaságra vonatkozik.
+(4) A (3) bekezdésben foglalt kötelezettsége teljesítéséig a vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője, állami tisztviselője nem vehet részt olyan döntés előkészítésében és meghozatalában, amely az összeférhetetlenségi okkal érintett társaságra vonatkozik.
 
-(5) A vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője felmentésére kizárólag a vasúti igazgatási szerv döntéséhez nem kapcsolódó ok miatt kerülhet sor.
+(5) A vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője, állami tisztviselője felmentésére kizárólag a vasúti igazgatási szerv döntéséhez nem kapcsolódó ok miatt kerülhet sor.
 
-74. § (1) A 73. § (4) bekezdésében foglaltakon túl a vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője nem vehet részt döntés előkészítésében és meghozatalában az olyan vállalkozásokat érintő esetekben, amelyekkel az eljárás megkezdését megelőző egy év során kapcsolatban állt.
+74. § (1) A 73. § (4) bekezdésében foglaltakon túl a vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője, állami tisztviselője nem vehet részt döntés előkészítésében és meghozatalában az olyan vállalkozásokat érintő esetekben, amelyekkel az eljárás megkezdését megelőző egy év során kapcsolatban állt.
 
-(2) A vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője kinevezésekor, valamint évente nyilatkozik a munkáltatói jogkör gyakorlójának a 73. § (1) és (2) bekezdésében foglalt rendelkezések teljesüléséről.
+(2) A vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője, állami tisztviselője kinevezésekor, valamint évente nyilatkozik a munkáltatói jogkör gyakorlójának a 73. § (1) és (2) bekezdésében foglalt rendelkezések teljesüléséről.
 
-75. § A vasúti igazgatási szerv kormánytisztviselője ezen jogviszonya megszűnését követően egy évig sem pályahálózat-működtetővel, sem vállalkozó vasúti társasággal, sem a vasúti pályakapacitás-elosztó szervezettel nem létesíthet munkaviszonyt vagy munkavégzésre irányuló egyéb jogviszonyt. A vasúti igazgatási szerv e korlátozás alapján ellenértéket köteles fizetni a kormánytisztviselőnek, amelynek mértékére a munka törvénykönyvéről szóló 2012. évi I. törvény versenytilalmi megállapodásra vonatkozó szabályait kell alkalmazni.
+75. § A vasúti igazgatási szerv kormánytisztviselője, állami tisztviselője ezen jogviszonya megszűnését követően egy évig sem pályahálózat-működtetővel, sem vállalkozó vasúti társasággal, sem a vasúti pályakapacitás-elosztó szervezettel nem létesíthet munkaviszonyt vagy munkavégzésre irányuló egyéb jogviszonyt. A vasúti igazgatási szerv e korlátozás alapján ellenértéket köteles fizetni a kormánytisztviselőnek, állami tisztviselőnek, amelynek mértékére a munka törvénykönyvéről szóló 2012. évi I. törvény versenytilalmi megállapodásra vonatkozó szabályait kell alkalmazni.
 
 ### A vasúti igazgatási szerv eljárására vonatkozó közös szabályok
 
@@ -1557,7 +1557,7 @@ biztosítható.
 
 (3) A vasúti igazgatási szerv a piac felügyeletével kapcsolatos tevékenysége során hivatalból is ellenőrizheti a 79/B. § (1) bekezdésében meghatározottakat, valamint ellenőrzi, hogy a hálózati üzletszabályzat tartalmaz-e diszkriminatív rendelkezéseket vagy felruházza-e a pályahálózat-működtetőt vagy a VPSZ-t olyan mérlegelési jogkörrel, amelyet fel lehet használni a kapacitásfoglalásra jogosultakkal szembeni hátrányos megkülönböztetésre.
 
-(4) A vasúti igazgatási szerv a (2) és (3) bekezdés szerinti tevékenysége során szakértőt vehet igénybe. A szakértőre a vasúti igazgatási szerv kormánytisztviselőjére vonatkozó összeférhetetlenségi szabályokat kell alkalmazni.
+(4) A vasúti igazgatási szerv a (2) és (3) bekezdés szerinti tevékenysége során szakértőt vehet igénybe. A szakértőre a vasúti igazgatási szerv kormánytisztviselőjére, állami tisztviselőjére vonatkozó összeférhetetlenségi szabályokat kell alkalmazni.
 
 (5) A vasúti igazgatási szerv felügyeleti és ellenőrzési terv alapján és azon kívül is hivatalból vagy kérelemre folytat felügyeleti tevékenységet.
 

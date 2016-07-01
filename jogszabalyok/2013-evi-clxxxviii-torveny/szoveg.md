@@ -4,7 +4,7 @@ az egységes közszolgáltatói számlaképről
 
 Az Országgyűlés – összhangban az Alaptörvény fogyasztók érdekeit védő rendelkezéseivel – a közüzemi szolgáltatási területeken való egységes, érthető és átlátható számlakép megteremtése érdekében, figyelemmel a rezsicsökkentési törekvésekre és szabályozásokra, a villamos energia és a földgáz egyetemes szolgáltató, a villamos energia és földgázelosztó, a távhőszolgáltató, a víziközmű-szolgáltató, a hulladékgazdálkodási és a kéményseprő-ipari közszolgáltató által kibocsátott számlák számlaképének formai és tartalmi meghatározására az alábbi törvényt alkotja:
 
-1. § Ez a törvény a villamos energia és a földgáz egyetemes szolgáltató, valamint a villamos energia és földgázelosztó által az egyetemes szolgáltatásra jogosult felhasználók, a távhőszolgáltató, a víziközmű-szolgáltató és a hulladékgazdálkodási közszolgáltató (a továbbiakban együtt: szolgáltató) által a felhasználók részére kibocsátott, szolgáltatási díjat tartalmazó számla számlaképére, valamint a kéményseprő-ipari közszolgáltató által a természetes személy tulajdonában lévő, lakhatás célját szolgáló ingatlanokat és a természetes személy tulajdonában lévő, időlegesen használt ingatlanokat érintő számlák tekintetében alkalmazandó számlaképre (a továbbiakban: számlakép) vonatkozó tartalmi és formai követelményeket határozza meg.
+1. § Ez a törvény a villamos energia és a földgáz egyetemes szolgáltató, valamint a villamos energia és földgázelosztó által az egyetemes szolgáltatásra jogosult felhasználók, a távhőszolgáltató, a víziközmű-szolgáltató és a hulladékgazdálkodási közszolgáltató (a továbbiakban együtt: szolgáltató) által a felhasználók részére kibocsátott, szolgáltatási díjat tartalmazó számla számlaképére (a továbbiakban: számlakép) vonatkozó tartalmi és formai követelményeket határozza meg.
 
 2. § (1) Ha az egyetemes szolgáltatásra jogosult felhasználó hálózathasználati és villamosenergia-vásárlási szerződését a villamos energia egyetemes szolgáltató megbízottként, összevontan kezeli, akkor a villamos energia egyetemes szolgáltató által alkalmazható számlaképre vonatkozó részletes előírásokat
 
@@ -50,11 +50,13 @@ tartalmazza.
 
 - a) „A rezsidíj csökkentése nélkül Önt ebben az elszámolási időszakban a következő díjfizetési kötelezettség terhelte volna:” szövegrész alkalmazásában a 2013. január 30-án jogszerűen alkalmazott díj és a Vksztv. 31/B. § (1) bekezdése szerint megállapított átmeneti díjjal számított fizetési kötelezettség összegét,
 - b) „A rezsidíj csökkentésének eredményeképpen az Ön megtakarítása ebben az elszámolási időszakban” szövegrész alkalmazásában az a) pont szerint számított összeg és a rezsicsökkentések végrehajtásáról szóló 2013. évi LIV. törvény 4. § (1) bekezdésében és 4/C. § (1) bekezdésében meghatározott csökkentett díjakkal számított összeg különbségét, és
-- c) „A rezsidíj csökkentésének eredményeképpen az Ön megtakarítása 2013. július 1-je óta összesen” szövegrész alkalmazásában az ideiglenes szolgáltatás kezdő időpontjától a b) pont szerinti különbség halmozott összegét szerepelteti.
+- c) „A rezsidíj csökkentésének eredményeképpen az Ön megtakarítása 2013. július 1-je óta összesen” szövegrész alkalmazásában az ideiglenes szolgáltatás kezdő időpontjától a b) pont szerinti különbség halmozott összegét
+
+szerepelteti.
 
 6. § A hulladékgazdálkodási közszolgáltató által a természetes személy ingatlanhasználó, valamint a társasház és a lakásszövetkezet részére kiállított számlák tekintetében alkalmazható számlaképre vonatkozó részletes előírásokat a 11. melléklet tartalmazza.
 
-7. § A kéményseprő-ipari közszolgáltató által a természetes személy tulajdonában lévő ingatlanokat érintő számlák tekintetében alkalmazható számlaképekre vonatkozó részletes előírásokat a 12. melléklet tartalmazza.
+#### 7. §
 
 8. § (1) Az 1–12. mellékletekben meghatározott adatokat a szolgáltató az ott meghatározott elrendezésben, Times New Roman betűtípussal, a címzést Arial betűtípussal köteles feltüntetni. A számlák első oldalán, színes mezőben szereplő adatokat 11 pontos betűmérettel kell feltüntetni. A számlában szereplő további adatokat a szolgáltató jól olvashatóan, – figyelemmel a méretarányokra és a kitöltendő adatok karaktereinek számára – minimum 8 pontos betűmérettel köteles szerepeltetni. A betűméret megválasztása és az adatok kitöltése nem járhat a számlakép elrendezésének sérelmével.
 
@@ -73,7 +75,7 @@ tartalmazza.
 - c) távhőszolgáltatás esetében a #DDA0DD kódszámú (pantone 251; plum),
 - d) a víziközmű-szolgáltatás esetében #00FFFF kódszámú (pantone 297; aqua),
 - e) hulladékgazdálkodási közszolgáltatás esetében #32CD32 kódszámú (pantone 802 2x; limegreen),
-- f) kéményseprő-ipari közszolgáltatás esetén #FFFF00 kódszámú (pantone 102; yellow)
+- f)
 
 színárnyalatot kell használni.
 
@@ -1134,40 +1136,3 @@ Tájékoztató adatok:
 - 4.11. Rezsicsökkentéssel nem érintett alapdíj, ürítési díj: kizárólag társasház vagy lakásszövetkezet részére kiállított számlán kell feltüntetni ezeket a sorokat, ha a hulladékról szóló törvény 91. § (3) bekezdésében foglalt tájékoztatás alapján, ilyen tétel felmerül a nem természetes személy ingatlanhasználókra tekintettel. 4. 12. Az egyes tételek szerinti sorok feltüntetése kizárólag akkor szükséges, ha az adott tételhez érték tartozik.
 
 ### 12. melléklet a 2013. évi CLXXXVIII. törvényhez
-
-#### A kéményseprő-ipari közszolgáltató által alkalmazandó számlakép
-
-- 1. A kéményseprő-ipari közszolgáltató a természetes személy részére – lakhatás célját szolgáló és időlegesen használt ingatlanokat érintő – kiállított számlát – a számlázással kapcsolatos pénzügyi és számviteli jogszabályok előírásainak betartása mellett – az alábbiak szerint bocsátja ki.
-- 2. A számla:
-
-4K13909X_0
-
-| „Szolgáltató logója | Kéményseprő-ipari közszolgáltatási számla |
-| --- | --- |
-| Szolgáltató neve: | x. sz. eredeti példány |
-| Címe: | Oldalszám |
-| Adószáma: | Számla sorszáma: |
-| Bankszámlaszáma: |
-| Ügyfélszolgálat elérhetőségei: |
-
-Számlaszám:
-
-Számla kelte:
-
-Teljesítés dátuma:
-
-Fizetés módja:
-
-4K13909X_1
-
-|  |
-| --- |
-
-- 3. Magyarázat
-- 3.1. Oldalszám: aktuális oldal száma /összes oldal száma formátumban.
-- 3.2. x. sz. eredeti példány: az eredeti példány sorszáma.
-- 3.3. Felhasználó azonosító száma, felhasználási hely címe: a felhasználó azonosításához szükséges adat, pl.: vevő azonosító, felhasználási hely azonosító; a „felhasználó azonosító száma” helyett a szolgáltató üzletszabályzatában meghatározott ezzel egyenértékű megnevezés is használható. Több felhasználási azonosító szám, és felhasználási hely cím is feltüntethető, amennyiben több felhasználási helyre vonatkozóan állítja ki a szolgáltató a számlát.
-- 3.4. Fizetési határidő: csak akkor szükséges kitölteni, ha a fizetés átutalással történik
-- 3.5 A rezsidíj csökkentésének eredményeképpen az Ön megtakarítása ebben az elszámolt időszakban: a hatályos árképzésből eredő megtakarítás a 2013. június 30-án hatályos árképzéshez képest (a 2013. július 1-jét követően elszámolt összes díj a 2013. június 30-án hatályos árképzése alapján számított ellenértékének bruttó értéke és a 2013. július 1-jét követő fogyasztás alapján fizetendő összeg bruttó értékének összesített különbsége összegszerűen feltüntetve).
-- 3.6. A rezsidíj csökkentésének eredményeképpen az Ön megtakarítása 2013. július 1-je óta összesen: 2013. július 1-jét követően a 3.5. pont alapján számított megtakarítások összesen.
-- 3.7. Az egyes tételek szerinti sorok feltüntetése kizárólag akkor szükséges, ha az adott tételhez érték tartozik.

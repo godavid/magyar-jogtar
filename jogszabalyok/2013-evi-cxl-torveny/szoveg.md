@@ -128,7 +128,7 @@ is végezhető, feltéve, ha az a) és b) pont szerinti felhasználásról, tár
 
 törli.
 
-(5) Ha a fémkereskedőnek gyanúja merül fel arra vonatkozóan, hogy számára jogellenesen szerzett fémkereskedelmi engedélyköteles anyagot ajánlottak fel megvételre, erről, valamint a felajánlást tevő személlyel kapcsolatban tudomására jutott információkról a telephely szerint illetékes fémkereskedelmi hatóságot és az általános rendőrségi feladatok ellátására létrehozott rendőrségi szervet haladéktalanul értesíti, továbbá az átvételt megtagadja. Gyanúnak minősül e szempontból különösen, ha a megvételre felajánlott fémkereskedelmi engedélyköteles anyag a fémkereskedelmi vagy a kulturális örökségvédelmi hatóság honlapján közzétett nyilvántartásban egyedileg beazonosítható módon szerepel, vagy annak fizikai tulajdonságai, külső megjelenése egyértelműen arra enged következtetni, hogy az jogsértésből származik.
+(5) Ha a fémkereskedőnek gyanúja merül fel arra vonatkozóan, hogy számára jogellenesen szerzett fémkereskedelmi engedélyköteles anyagot ajánlottak fel megvételre, erről, valamint a felajánlást tevő személlyel kapcsolatban tudomására jutott információkról a telephely szerint illetékes fémkereskedelmi hatóságot vagy az általános rendőrségi feladatok ellátására létrehozott rendőrségi szervet haladéktalanul értesíti, továbbá az átvételt megtagadja. Az értesített szerv haladéktalanul tájékoztatja a másik értesítendő szervet. Gyanúnak minősül e szempontból különösen, ha a megvételre felajánlott fémkereskedelmi engedélyköteles anyag a fémkereskedelmi vagy a kulturális örökségvédelmi hatóság honlapján közzétett nyilvántartásban egyedileg beazonosítható módon szerepel, vagy annak fizikai tulajdonságai, külső megjelenése egyértelműen arra enged következtetni, hogy az jogsértésből származik.
 
 (6) Kohászatilag tömbösített formában fémkereskedelmi engedélyköteles anyag átvételét meg kell tagadni, kivéve, ha a felajánlást tevő személy hitelt érdemlő módon bizonyítja az anyag jogszerű szerzését.
 
@@ -199,6 +199,8 @@ fedezetére vehető igénybe a végrehajtás szabályai szerint, ha az engedély
 (6) Ha az engedélykérelem az e törvényben foglaltaknak megfelel, a fémkereskedelmi hatóság az engedélyt a tevékenységi biztosíték nyújtásának igazolását követő tíz munkanapon belül kiadja.
 
 (7) A fémkereskedő az engedélyben rögzített adatok változását haladéktalanul bejelenti a fémkereskedelmi hatósághoz, abban az esetben is, ha az egyébként az engedély módosítását nem igényli.
+
+(7a) A (7) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a fémkereskedő kéri – haladéktalanul értesíti a hivatalt.
 
 (8) Ha a fémkereskedő további telephely működtetését, vagy az engedélyezett tevékenység bővítését vagy szűkítését kéri, az engedélye módosítására irányuló kérelmet nyújt be.
 

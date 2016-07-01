@@ -10,7 +10,9 @@ a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti �
 
 4. §
 
-5. §
+5. § Az NKE tv. 24. §-a helyébe a következő rendelkezés lép:
+
+„24. § A honvédtiszti alapképzésre és a rendészeti képzés nappali munkarendben történő alapképzésére az a 18. életévét betöltött, de a felvétel évében 25. életévét be nem töltött – a rendvédelmi szervek hivatásos állományú tagjai esetében 30 évesnél nem idősebb –, cselekvőképes, magyar állampolgársággal rendelkező személy vehető fel, aki a jelentkezők egészségi, pszichikai és fizikai alkalmasságának szabályairól szóló rendeletben előírt alkalmassági követelményeknek megfelel. További feltétel, hogy a hallgató hozzájárul a honvédtiszti alapképzés tekintetében a nemzetbiztonsági alkalmasságának ellenőrzéséhez, rendészeti képzés nappali munkarendben történő alapképzés tekintetében a kifogástalan életvitel ellenőrzéshez, és vállalja a tisztjelölti szolgálati viszony létesítését és fenntartását az alapképzés idejére.”
 
 6–7. §
 
@@ -23,7 +25,9 @@ a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti �
 9. § (1) Hatályát veszti az NKE tv.
 
 - a)–c)
-- d)–f)
+- d) 21/A. § (1) bekezdés b) pontjában a „honvéd”;
+- e) 21/A. § (3) bekezdésében az „a rendvédelmi szerv,” és az „ , illetve a Nemzeti Adó- és Vámhivatal”;
+- f) 26. § (1) bekezdésében a „honvéd”, valamint az „ , illetve a rendészeti képzésben részt vevő hallgató”; valamint
 - g)
 
 szövegrész.

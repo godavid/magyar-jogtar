@@ -74,7 +74,9 @@ A nemzetközi gazdasági együttműködés fejlesztése, különösen a külföl
 
 11. §
 
-12. § (1)–(2)
+12. § (1)
+
+(2)
 
 (3)
 
@@ -152,15 +154,17 @@ A nemzetközi gazdasági együttműködés fejlesztése, különösen a külföl
 
 (2)
 
-40. § (1) Vámszabadterületi társaságoknak a cégjegyzékbe történő bejegyzéséhez a vámszervezet központi szervének határozatát be kell csatolni arról, hogy azt az ingatlant, amelyen a társaság székhelye található és működését tervezik, vámszabadterületté nyilvánították.
+40. § (1) Vámszabad területi társaságoknak a cégjegyzékbe történő bejegyzéséhez az állami adó- és vámhatóság központi szervének igazolása szükséges arról, hogy azt az ingatlant, amelyen a társaság székhelye található és működését tervezik, vámszabad területté nyilvánították.
 
-(2) A vámszabadterület létesítésére adott engedély visszavonásáról, illetve lejártáról a társaság az ebben a tárgyban hozott jogerős határozat csatolásával vagy a lejárat bejelentésével köteles értesíteni a cégbíróságot nyolc napon belül.
+(2) A társaság indítványára a cégbíróság keresi meg az állami adó- és vámhatóság központi szervét az igazolás megküldése iránt.
 
 41. § (1) A vámszabadterületi társaság a könyveit — a (2) bekezdésben szabályozott kivétellel — a társasági szerződésben (alapszabályban) meghatározott konvertibilis pénznemben vezeti.
 
 (2)
 
-(3)–(4)
+(3)
+
+(4)
 
 42. §
 

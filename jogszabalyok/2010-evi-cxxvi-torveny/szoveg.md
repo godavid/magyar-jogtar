@@ -140,7 +140,7 @@ gyakorolja.
 
 (2) Az igazgatót a főigazgató javaslatára a kormánymegbízott nevezi ki és menti fel. Az igazgató felett – a kinevezés, a felmentés, a fegyelmi eljárás megindítása, valamint a fegyelmi büntetés kiszabása kivételével – a munkáltatói jogokat a főigazgató gyakorolja. A főigazgatói munkakör betöltetlensége vagy a főigazgató akadályoztatása esetén az igazgató kinevezéséről a kormánymegbízott dönt.
 
-(3) Igazgatói munkakörbe az nevezhető ki, aki felsőfokú igazgatásszervezői, okleveles jogász képesítéssel vagy okleveles közigazgatási menedzser, illetve egyetemi vagy főiskolai szintű közgazdász szakképesítéssel, valamint jogi vagy közigazgatási szakvizsgával és legalább 5 év közigazgatási szakmai gyakorlattal rendelkezik.
+(3) Igazgatói munkakörbe az nevezhető ki, aki felsőfokú igazgatásszervezői, okleveles jogász képesítéssel vagy okleveles közigazgatási menedzser, illetve egyetemi vagy főiskolai szintű közgazdász szakképesítéssel, valamint jogi vagy közigazgatási szakvizsgával, vagy kormányzati tanulmányok szakirányú szakképzettséggel és legalább 5 év közigazgatási szakmai gyakorlattal rendelkezik.
 
 (4) Az igazgató minisztériumi főosztályvezető-helyettesi besorolású, határozatlan időre kinevezett kormánytisztviselő. Az igazgató illetményét a munkáltatói jogkör gyakorlója állapítja meg azzal, hogy az illetmény az illetményalap huszonnégyszeresét nem haladhatja meg.
 
@@ -150,7 +150,7 @@ gyakorolja.
 
 #### 8. A munkáltatói jogok gyakorlása
 
-15. § (1) A fővárosi és megyei kormányhivatal kormánytisztviselői, valamint munkavállalói felett a munkáltatói jogokat – ha jogszabály kivételt nem tesz – a kormánymegbízott gyakorolja. A fővárosi és megyei kormányhivatalnál szolgálatot teljesítő katonák, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek hivatásos állományú tagjai, illetve a honvédelemért felelős miniszter által vezetett minisztérium, illetve a rendészetért felelős miniszter által vezetett minisztérium állományába tartozó, de a fővárosi és megyei kormányhivatalnál munkát végző kormánytisztviselők esetében a munkáltatói jogok gyakorlásának szabályait külön jogszabály határozza meg.
+15. § (1) A fővárosi és megyei kormányhivatal kormánytisztviselői és állami tisztviselői, valamint munkavállalói felett a munkáltatói jogokat – ha jogszabály kivételt nem tesz – a kormánymegbízott gyakorolja. A fővárosi és megyei kormányhivatalnál szolgálatot teljesítő katonák, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek hivatásos állományú tagjai, illetve a honvédelemért felelős miniszter által vezetett minisztérium, illetve a rendészetért felelős miniszter által vezetett minisztérium állományába tartozó, de a fővárosi és megyei kormányhivatalnál munkát végző kormánytisztviselők esetében a munkáltatói jogok gyakorlásának szabályait külön jogszabály határozza meg.
 
 (2)–(3)
 
@@ -190,9 +190,9 @@ gyakorolja.
 
 (5) A fővárosi és megyei kormányhivatal az általa megismerhető iratokban foglalt, valamint a részére nyújtott tájékoztatás alapján tudomására jutott személyes adatok kezelésére az (1)–(2) bekezdésben meghatározott eljárás lefolytatása céljából addig az időpontig jogosult, amíg az a feladata ellátásához szükséges.
 
-19/A. § (1) A fővárosi és megyei kormányhivatal kormánytisztviselője az illetékes fővárosi és megyei kormányhivatal vagy a járási (fővárosi kerületi) hivatal hatáskörében az erre jogosító igazolvány birtokában hatósági ellenőrzést végezhet.
+19/A. § (1) A fővárosi és megyei kormányhivatal kormánytisztviselője és állami tisztviselője az illetékes fővárosi és megyei kormányhivatal vagy a járási (fővárosi kerületi) hivatal hatáskörében az erre jogosító igazolvány birtokában hatósági ellenőrzést végezhet.
 
-(2) Az igazolvány tartalmazza az igazolvány sorszámát, a fővárosi és megyei kormányhivatal vagy a járási (fővárosi kerületi) hivatal nevét, valamint a kormánytisztviselő nevét és fényképét.
+(2) Az igazolvány tartalmazza az igazolvány sorszámát, a fővárosi és megyei kormányhivatal vagy a járási (fővárosi kerületi) hivatal nevét, valamint a kormánytisztviselő, illetve állami tisztviselő nevét és fényképét.
 
 20. § A fővárosi és megyei kormányhivatal
 
@@ -212,9 +212,9 @@ gyakorolja.
 
 (3) A járási hivatalt a járási hivatalvezető (a továbbiakban: hivatalvezető) vezeti. A járási hivatalban – jogszabályban meghatározottak szerint – kormányablak és okmányiroda működik.
 
-20/B. § A járási hivatal kormánytisztviselői, valamint munkavállalói felett a munkáltatói jogokat – ha e törvény eltérően nem rendelkezik – a hivatalvezető gyakorolja. A járási hivatal kormánytisztviselőjének kinevezni, illetve felmenteni javasolt személyről a hivatalvezető tájékoztatja a kormánymegbízottat, aki a kinevezni javasolt személlyel, illetve a felmentéssel szemben a tájékoztatást követő tizenöt napon belül kifogással élhet. A kifogásolt személy nem nevezhető ki kormánytisztviselőnek, illetve nem kerülhet felmentésre.
+20/B. § A járási hivatal állami tisztviselői, valamint munkavállalói felett a munkáltatói jogokat – ha e törvény eltérően nem rendelkezik – a hivatalvezető gyakorolja. A járási hivatal állami tisztviselőjének kinevezni, illetve felmenteni javasolt személyről a hivatalvezető tájékoztatja a kormánymegbízottat, aki a kinevezni javasolt személlyel, illetve a felmentéssel szemben a tájékoztatást követő tizenöt napon belül kifogással élhet. A kifogásolt személy nem nevezhető ki állami tisztviselőnek, illetve nem kerülhet felmentésre.
 
-20/C. § (1) A kormánymegbízott gyakorolja a járási hivatal vezetője helyett a járási hivatal kormánytisztviselői és munkavállalói tekintetében
+20/C. § (1) A kormánymegbízott gyakorolja a járási hivatal vezetője helyett a járási hivatal állami tisztviselői és munkavállalói tekintetében
 
 - a) munkaidő-beosztás meghatározására,
 - b) a rendkívüli munkaidő elrendelésére,
@@ -223,7 +223,7 @@ gyakorolja.
 
 vonatkozó munkáltatói jogokat.
 
-(2) A kormánymegbízott a járási hivatal kormánytisztviselői és munkavállalói tekintetében az (1) bekezdésben meghatározott munkáltatói jogokat célhoz kötötten, meghatározott esemény vagy történés bekövetkezte esetén, továbbá a szakkérdések elbírálásával összefüggő feladatok hatékony ellátása érdekében gyakorolhatja. A kormánymegbízott az érintett hivatalvezetőket írásban tájékoztatja az általa elrendelt intézkedésekről. Amennyiben az intézkedés elrendelése okafogyottá válik, a kormánymegbízott haladéktalanul írásban visszavonja a döntését.
+(2) A kormánymegbízott a járási hivatal állami tisztviselői és munkavállalói tekintetében az (1) bekezdésben meghatározott munkáltatói jogokat célhoz kötötten, meghatározott esemény vagy történés bekövetkezte esetén, továbbá a szakkérdések elbírálásával összefüggő feladatok hatékony ellátása érdekében gyakorolhatja. A kormánymegbízott az érintett hivatalvezetőket írásban tájékoztatja az általa elrendelt intézkedésekről. Amennyiben az intézkedés elrendelése okafogyottá válik, a kormánymegbízott haladéktalanul írásban visszavonja a döntését.
 
 20/D. § (1) A hivatalvezetőt a kormánymegbízott javaslatára a miniszter nevezi ki és menti fel. A hivatalvezető felett – a kinevezés és a felmentés kivételével – a munkáltatói jogokat a kormánymegbízott gyakorolja. Amennyiben a hivatalvezetővel szemben fegyelmi büntetésként hivatalvesztés büntetés kiszabása indokolt, a kormánymegbízott erre irányuló javaslatáról a miniszter dönt. A kormánymegbízott javaslatában tájékoztatja a minisztert a lefolytatott fegyelmi eljárás megállapításairól, eredményéről, valamint a fegyelmi vétség egyéb releváns körülményeiről.
 
@@ -241,13 +241,13 @@ vonatkozó munkáltatói jogokat.
 
 (5) A hivatalvezető további munkavégzésre irányuló jogviszonyt – a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység, a nevelőszülői foglalkoztatási jogviszony, továbbá a közérdekű önkéntes tevékenység kivételével – nem létesíthet, nem lehet országgyűlési képviselő, helyi önkormányzati képviselő, képviselő-testület bizottságának nem képviselő tagja, fővárosi, megyei közgyűlés tagja, polgármester, megyei közgyűlés elnöke, főpolgármester, alpolgármester, megyei közgyűlés alelnöke, főpolgármester-helyettes, nemzetiségi önkormányzat elnöke és nemzetiségi önkormányzati képviselő.
 
-(6) A hivatalvezető illetményét a kormánymegbízott javaslatára a miniszter – tekintettel az adott járás, járási hivatal adottságaira, így különösen a járás lakosságszámára, a járási hivatal szervezetére, feladatára és állományára – legfeljebb az állami költségvetésről szóló törvényben megállapított közszolgálati tisztviselői illetményalap 18-szorosában állapítja meg. A hivatalvezetőre a törvényben nem szabályozott kérdésekben a Kttv.-ben a főosztályvezetőre vonatkozó rendelkezéseket kell alkalmazni.
+(6) A hivatalvezető illetményét a kormánymegbízott javaslatára a miniszter – tekintettel az adott járás, járási hivatal adottságaira, így különösen a járás lakosságszámára, a járási hivatal szervezetére, feladatára és állományára – legfeljebb az állami költségvetésről szóló törvényben megállapított közszolgálati tisztviselői illetményalap 22-szeresében állapítja meg. A hivatalvezetőre a törvényben nem szabályozott kérdésekben az állami tisztviselőkről szóló törvényben a főosztályvezetőre vonatkozó rendelkezéseket kell alkalmazni.
 
-20/E. § (1) A hivatalvezetőt hivatalvezető-helyettes helyettesíti, a hivatalvezető-helyettes főosztályvezető-helyettes besorolású kormánytisztviselő. A hivatalvezető-helyettest a hivatalvezető javaslatára a kormánymegbízott nevezi ki és szünteti meg a jogviszonyát. A hivatalvezető-helyettes felett – a kinevezés, a jogviszony-megszüntetés, a fegyelmi eljárás megindítása, valamint a fegyelmi büntetés kiszabása kivételével – a munkáltatói jogokat a hivatalvezető gyakorolja.
+20/E. § (1) A hivatalvezetőt hivatalvezető-helyettes helyettesíti, a hivatalvezető-helyettes főosztályvezető-helyettes besorolású állami tisztviselő. A hivatalvezető-helyettest a hivatalvezető javaslatára a kormánymegbízott nevezi ki és szünteti meg a jogviszonyát. A hivatalvezető-helyettes felett – a kinevezés, a jogviszony-megszüntetés, a fegyelmi eljárás megindítása, valamint a fegyelmi büntetés kiszabása kivételével – a munkáltatói jogokat a hivatalvezető gyakorolja.
 
 (2) Hivatalvezető-helyettesi munkakörbe az nevezhető ki, aki alapfokozattal és igazgatásszervezői szakképzettséggel, alapfokozattal és nemzetközi igazgatásszervező szakképzettséggel, mesterfokozattal és okleveles közigazgatási menedzser szakképzettséggel, mesterfokozattal és okleveles európai és nemzetközi igazgatásszervező szakképzettséggel, mesterfokozaton szerzett okleveles jogász szakképzettséggel, illetve legalább alapfokozattal és közgazdász szakképzettséggel rendelkezik. A hivatalvezető javaslatára a kormánymegbízott kivételesen indokolt esetben egyéb felsőfokú végzettségű személyt is kinevezhet hivatalvezető-helyettesnek.
 
-(3) A hivatalvezető-helyettes illetményét a hivatalvezető javaslatára a kormánymegbízott – tekintettel az adott járás, járási hivatal adottságaira, így különösen a járás lakosságszámára, a járási hivatal szervezetére, feladatára és állományára – legfeljebb az állami költségvetésről szóló törvényben megállapított közszolgálati tisztviselői illetményalap 16-szorosában állapítja meg.
+(3) A hivatalvezető-helyettes illetményét a hivatalvezető javaslatára a kormánymegbízott – tekintettel az adott járás, járási hivatal adottságaira, így különösen a járás lakosságszámára, a járási hivatal szervezetére, feladatára és állományára – legfeljebb az állami költségvetésről szóló törvényben megállapított közszolgálati tisztviselői illetményalap 21-szeresében állapítja meg.
 
 20/F. §
 

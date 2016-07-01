@@ -231,9 +231,9 @@ az ingatlanügyi hatóság, illetve az erdészeti hatóság a közlekedési infr
 
 8. § (1) A perben a jogi képviselet kötelező.
 
-(2) A keresetlevél a hatósághoz elektronikus úton is benyújtható. A hatóság a keresetlevelet az ügy irataival és a keresetlevélben foglaltakra vonatkozó nyilatkozatával együtt három napon belül továbbítja a bírósághoz, a továbbításra elektronikus úton is sor kerülhet.
+(2) A hatóság az elektronikus úton benyújtott keresetlevelet az ügy irataival és a keresetlevélben foglaltakra vonatkozó nyilatkozatával együtt elektronikus úton három napon belül továbbítja a bírósághoz.
 
-(3) A perben a beadványok benyújtása és a hivatalos iratok kézbesítése a Pp.-ben meghatározottak szerint, elektronikus úton is történhet.
+(3) A perben a beadványok benyújtása és a hivatalos iratok kézbesítése a Pp.-ben meghatározottak szerint, elektronikus úton történik.
 
 (3a) Az ingatlanügyi hatóság eljárásával kapcsolatban a (2) és (3) bekezdésben foglaltakat nem kell alkalmazni.
 
@@ -290,6 +290,8 @@ az ingatlanügyi hatóság, illetve az erdészeti hatóság a közlekedési infr
 (6) Felhatalmazást kap a közigazgatás-szervezésért felelős miniszter, hogy rendeletben állapítsa meg a kiemelt jelentőségű ügyben eljáró hatóságok és szakhatóságok által a koordinációs feladatokat ellátó kormánymegbízottak felé, továbbá a koordinációs feladatokat ellátó kormánymegbízottak által a közigazgatás-szervezésért felelős miniszter és a Kormány tagjai felé teljesítendő, törvényben vagy kormányrendeletben előírt rendszeres és eseti jellegű jelentések, valamint tájékoztatások részletszabályait.
 
 13. § E törvénynek a nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházások megvalósításának gyorsításával összefüggésben egyes törvények módosításáról szóló 2015. évi LXXIX. törvénnyel (a továbbiakban: Módtv.) megállapított 6/F. §-át azokra a környezetvédelmi engedélyekre kell alkalmazni, amelyeket a Kormány által a Módtv. hatálybalépését követően nemzetgazdasági szempontból kiemelt jelentőségű infrastruktúra-beruházással összefüggő ügynek minősített ügyekben adtak ki.
+
+14. § E törvénynek a polgári perrendtartásról szóló 1952. évi III. törvény, valamint egyéb eljárásjogi és igazságügyi törvények módosításáról szóló 2015. évi CLXXX. törvénnyel megállapított 8. § (2) és (3) bekezdését 2016. július 1. napján és az azt követően indult közigazgatási eljárás során hozott határozat bírósági felülvizsgálata iránti perekben kell alkalmazni.
 
 ### 1. melléklet a 2006. évi LIII. törvényhez
 

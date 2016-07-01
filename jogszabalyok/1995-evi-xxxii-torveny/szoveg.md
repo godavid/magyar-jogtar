@@ -240,7 +240,7 @@ a szabadalmi ügyvivőkről
 
 (2) A szabadalmi ügyvivő bíróság vagy egyéb hatóság előtti eljárása során a Kamara által kiállított fényképes hatósági igazolvánnyal igazolja magát.
 
-14. § (1) A szabadalmi ügyvivő tudományos, művészeti, irodalmi, oktatási és sporttevékenység, valamint alkalmazott ügyvédi, jogtanácsosi, jogi előadói vagy ügyvédjelölti tevékenység kivételével nem állhat munkaviszonyban, köztisztviselői és közalkalmazotti jogviszonyban, és ezek, valamint az ügyvédi, a választottbírói, a közvetítői, továbbá munkaviszonynak, közszolgálati és közalkalmazotti jogviszonynak nem minősülő közéleti tevékenység, igazgatósági és felügyelőbizottsági tagság, kuratóriumi tagság és tisztségviselés kivételével nem folytathat más kereső foglalkozást.
+14. § (1) A szabadalmi ügyvivő tudományos, művészeti, irodalmi, oktatási és sporttevékenység, valamint alkalmazott ügyvédi, jogtanácsosi, jogi előadói vagy ügyvédjelölti tevékenység kivételével nem állhat munkaviszonyban, közszolgálati, kormányzati szolgálati, állami szolgálati és közalkalmazotti jogviszonyban, és ezek, valamint az ügyvédi, a választottbírói, a közvetítői, továbbá munkaviszonynak, közszolgálati és közalkalmazotti jogviszonynak nem minősülő közéleti tevékenység, igazgatósági és felügyelőbizottsági tagság, kuratóriumi tagság és tisztségviselés kivételével nem folytathat más keresőfoglalkozást.
 
 (2) Aki korábban iparjogvédelmi ügyekben eljáró bíróságnál bíró volt, e jogviszonyának megszűnése után egy évig nem járhat el szabadalmi ügyvivőként annál a bíróságnál, amelynél működött.
 
@@ -438,7 +438,7 @@ a szabadalmi ügyvivőkről
 
 (3) A fegyelmi tanácsnak a felfüggesztésről hozott határozata ellen a szabadalmi ügyvivő a kézbesítéstől számított harminc napon belül keresettel fordulhat a bírósághoz. Az eljárásra a 24/G. § rendelkezéseit kell megfelelően alkalmazni, azzal az eltéréssel, hogy a kereset benyújtásának a határozat végrehajtására nincs halasztó hatálya.
 
-(4) A felfüggesztés alatt a kamarai tagságból és tisztségből származó jogok nem gyakorolhatók. A szabadalmi ügyvivői tevékenység felfüggesztésének időtartama alatt létesített munkaviszony, közalkalmazotti vagy köztisztviselői jogviszony nem ütközik a 14. § (1) bekezdésébe.
+(4) A felfüggesztés alatt a kamarai tagságból és tisztségből származó jogok nem gyakorolhatók. A szabadalmi ügyvivői tevékenység felfüggesztésének időtartama alatt létesített munkaviszony, közalkalmazotti, közszolgálati, kormányzati szolgálati, vagy állami szolgálati jogviszony nem ütközik a 14. § (1) bekezdésébe.
 
 24/F. § (1) Ha a fegyelmi eljárás alá vont szabadalmi ügyvivő cselekménye miatt büntetőeljárás is indult, a fegyelmi eljárást a büntetőeljárás jogerős befejezéséig fel lehet függeszteni.
 

@@ -296,7 +296,7 @@ részt vett, és a megállapodás megkötésére, illetve a bírósági adóssá
 
 12. § (1) A családi vagyonfelügyelők és a feladataik ellátásában közreműködők a Családi Csődvédelmi Szolgálatot magában foglaló kormányhivatallal munkavégzésre irányuló tartós jogviszonyban álló személyek.
 
-(2) Családi vagyonfelügyelő az a legalább kétéves szakmai gyakorlattal rendelkező kormánytisztviselő vagy büntetlen előéletű tartós megbízási jogviszonyban álló személy lehet, aki rendelkezik jogi vagy közgazdasági végzettséggel, valamint közigazgatási vizsgával vagy jogi szakvizsgával.
+(2) Családi vagyonfelügyelő az a legalább kétéves szakmai gyakorlattal rendelkező kormánytisztviselő, állami tisztviselő vagy büntetlen előéletű tartós megbízási jogviszonyban álló személy lehet, aki rendelkezik jogi vagy közgazdasági végzettséggel, valamint közigazgatási vizsgával, jogi szakvizsgával vagy közigazgatási tanulmányok szakirányú szakképzettséggel vagy kormányzati tanulmányok szakirányú szakképzettséggel.
 
 (3) A családi vagyonfelügyelő a bírósági adósságrendezési eljárásban közreműködő, a Családi Csődvédelmi Szolgálat által kijelölt fizetésképtelenségi szakértő, a bírósági adósságrendezési eljárás során a bíróság számára szakmai előkészítő és közreműködő feladatokat lát el, felügyeli az adós gazdálkodását és elvégzi az e törvényben számára meghatározott egyéb feladatokat. A Családi Csődvédelmi Szolgálat a családi vagyonfelügyelők természetes személyazonosító adatait, hivatali elérhetőségét elektronikus úton hozzáférhetővé teszi a bíróságok számára.
 
@@ -441,6 +441,8 @@ számított tizedik év utolsó napjáig kell megőrizni, ennek elteltét követ
 (4) Az adósságrendezés kezdeményezésekor az adós és az adóstárs a főhitelező előtt írásban nyilatkozatot tesz arról, hogy az általa szolgáltatott adatok, dokumentumok teljes körűek és a rendelkezésre bocsátott dokumentumok valódiak.
 
 (5) Az adós és az adóstárs kötelezettséget vállal arra, hogy ha a személyi, családi, vagyoni, jövedelmi helyzetében, illetve a lakóhelyével összefüggésben vagy a (6) bekezdés szerinti adatokban változás következik be, az azzal összefüggésben újonnan kitöltött űrlapokat és dokumentumokat öt napon belül benyújtja.
+
+(5a) Az (5) bekezdés szerinti adatváltozás bejelentése azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle az adós vagy az adóstárs kéri – az (5) bekezdés szerinti határidőben értesíti a területi Családi Csődvédelmi Szolgálatot.
 
 (6) Az adósságrendezés kezdeményezésekor adós és az adóstárs írásban hozzájárul ahhoz, hogy az adósságrendezésbe vonandó vagyonával, jövedelmével és az adósságállományával és az ellene indított igényérvényesítésekkel összefüggő adatokat a hitelezők, az egyéb kötelezettek, a hatáskörükben eljáró hatóságok, ügyészség és bíróság, a családi vagyonfelügyelő és a Családi Csődvédelmi Szolgálat, valamint a külön törvényben az ilyen adat megismerésére feljogosított szervek – a jogaik gyakorlásához, kötelezettségeik teljesítéséhez szükséges körben – megismerjék.
 
@@ -1713,7 +1715,7 @@ végzéssel szemben van helye.
 
 (7) A 2016. szeptember 30-áig kezdeményezett adósságrendezésre tekintettel az adósnak az adósságrendezés kezdeményezéséről szóló értesítése kézhezvételétől – ilyen értesítés hiányában pedig az adósságrendezés kezdeményezésének az ARE nyilvántartásban történő bejegyzésétől – a korábban elrendelt végrehajtás alapján vagy végrehajtáson kívüli zálogértékesítés keretében újabb árverési hirdetményt csak az (5) bekezdésben foglaltak figyelembevételével lehet közzétenni. A már közzétett árverési hirdetményt vissza kell vonni, az árverést abba kell hagyni, kivéve, ha az árverésen már érvényes licitajánlat érkezett. E bekezdéstől eltérően a romlandó dolgok értékesítését le lehet folytatni, és a befolyt vételárat a további intézkedésig végrehajtói letéti számlán kezeli. Az e bekezdés megsértésével tett jognyilatkozat, illetve létrejött ügylet mindenkivel szemben hatálytalan, az alapján senki nem szerez tulajdont.
 
-(8) Családi vagyonfelügyelő 2018. január 1-jéig olyan kormánytisztviselő vagy büntetlen előéletű, munkavégzésre irányuló vagy tartós megbízási jogviszonyban, álló személy is lehet, aki jogi vagy közgazdasági végzettséggel rendelkezik, és 2018. január 1-jéig közigazgatási vizsgát vagy jogi szakvizsgát tesz.
+(8) Családi vagyonfelügyelő 2018. január 1-jéig olyan kormánytisztviselő, állami tisztviselő vagy büntetlen előéletű, munkavégzésre irányuló vagy tartós megbízási jogviszonyban álló személy is lehet, aki jogi vagy közgazdasági végzettséggel rendelkezik, és 2018. január 1-jéig közigazgatási vizsgát vagy jogi szakvizsgát tesz, vagy közigazgatási tanulmányok szakirányú szakképzettséget vagy kormányzati tanulmányok szakirányú szakképzettséget szerez.
 
 (9) Ha az adóssal, adóstárssal vagy az egyéb kötelezettel szemben fennálló követelés devizaneme az egyes fogyasztói kölcsönszerződések devizanemének módosulásával és a kamatszabályokkal kapcsolatos kérdések rendezéséről szóló 2014. évi LXXVII. törvény (a továbbiakban: Forintosítási tv.) 15. §-a alapján került módosításra, a 41. § (5) bekezdése és 56. § (2) bekezdése alapján a hitelezőt megillető kamatmérték nem haladhatja meg a Forintosítási tv. 11. §-ában meghatározott mértékeket.
 

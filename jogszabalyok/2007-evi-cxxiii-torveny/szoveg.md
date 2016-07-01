@@ -250,7 +250,7 @@ kell figyelembe venni.
 - a) a helyiségben gyakorolt tevékenységét – a kisajátítási tárgyaláson tett nyilatkozata szerint – tovább nem folytatja;
 - b) tulajdonában (vagyonkezelésében, használatában) ugyanabban a városban (községben) olyan más, nem lakás céljára szolgáló helyiség van, amely megfelelő a tevékenység folytatására.
 
-(4) Ha a jogosult a felajánlott és – szakértői vélemény alapján – megfelelő cserelakást, illetve cserehelyiséget nem fogadja el, részére a cserelakás vagy cserehelyiség helyett pénzbeli kártalanításról kell dönteni.
+(4) Ha a jogosult a felajánlott és megfelelő cserelakást, illetve cserehelyiséget nem fogadja el, részére a cserelakás vagy cserehelyiség helyett pénzbeli kártalanításról kell dönteni.
 
 15. § Műemlék kisajátítása esetén a pénzbeli kártalanítás összegének megállapításakor a műemlék fenntartására, illetve helyreállítására a kisajátítási eljárás megindítását megelőző öt évben visszatérítési kötelezettség nélkül az államháztartási, európai uniós, vagy egyéb nemzetközi forrásokból kapott támogatások összegét olyan arányban kell csökkentő tényezőként figyelembe venni, amilyen arányban az a műemlék forgalmi értékére hatással volt.
 
@@ -326,7 +326,7 @@ kell figyelembe venni.
 
 22. § (1) A kisajátítási eljárásra – az e törvényben foglalt eltérésekkel – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
 
-(2) A kisajátítási eljárást a kisajátítási hatóság folytatja le. Az eljárásra a kisajátítani kért ingatlan fekvése szerinti kisajátítási hatóság illetékes. A kisajátítási eljárás ügyintézési határideje negyvenöt nap.
+(2) A kisajátítási eljárást a kisajátítási hatóság folytatja le. Az eljárásra a kisajátítani kért ingatlan fekvése szerinti kisajátítási hatóság illetékes. A kisajátítási eljárás ügyintézési határideje hatvan nap.
 
 (3) A kisajátítási eljárásnak a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti egyéb eljárási költségeit – ideértve az eljárásban kirendelt ügygondnok vagy eseti gondnok díját és költségeit is – a kisajátítást kérő viseli. A kisajátítási eljárás során a kisajátítási hatóság által hivatalból indított eljárások kisajátítási hatóság által megfizetendő költségeit a kisajátítást kérő a kisajátítási hatóság részére megtéríti. E bekezdés rendelkezései a végrehajtási költségre nem vonatkoznak.
 
@@ -340,7 +340,7 @@ kell figyelembe venni.
 - d) mindaz az ingatlan-nyilvántartásból, valamint a földhasználati nyilvántartásból kitűnő egyéb jogosult, akinek az ingatlanra vonatkozó jogát a kisajátítás érinti, ideértve az ingatlan-nyilvántartásba még be nem jegyzett, de – a 6. § (6) bekezdés szerint az elidegenítési tilalom hatálya alá nem tartozó – széljegyzettként feltüntetett jogszerzőt is,
 - e) mindazon egyéb jogosult, akinek az ingatlanra vonatkozó jogát a kisajátítás érinti.
 
-(2) A gyámhatóság a kisajátítási hatóság megkeresésére ügygondnokot vagy eseti gondnokot rendel ki abban az esetben is, ha a tulajdonos vagy más kártalanításra jogosult személye nem állapítható meg egyértelműen.
+(2) Az e törvény szerinti eljárásokban szükséges ügygondnokot, illetve eseti gondnokot a kisajátítási hatóság rendeli ki. Ügygondnokot vagy eseti gondnokot kell kirendelni abban az esetben is, ha a tulajdonos vagy más kártalanításra jogosult személye nem állapítható meg egyértelműen.
 
 (3) Az ügyfeleket az eljárás megindításáról postai úton kell értesíteni.
 
@@ -386,9 +386,13 @@ kell figyelembe venni.
 
 25. § (1) A kisajátítási hatóság a kisajátítási kérelem beérkezésétől számított nyolc napon belül a kisajátítással érintett tulajdonosok nevét és lakcímét, valamint az ingatlan helyrajzi számát tartalmazó végzésével megkeresi az ingatlanügyi hatóságot a kisajátítási eljárás megindítása tényének és az elidegenítési tilalomnak az ingatlan-nyilvántartásba történő feljegyzése, valamint az ingatlan tulajdoni lapján széljegyzett személynek és ingatlan-nyilvántartási jogelődjének neve (cégneve) és lakcíme (székhelye) közlése érdekében. A kisajátítási hatóság végzése és annak melléklete ingatlan-nyilvántartási feljegyzésre alkalmas okirat, valamint az ingatlanügyi hatóság ezen okirat alapján teljesíti a név- és lakcímadatok szolgáltatását is.
 
-(2) Ha a kérelem és mellékletei megfelelnek az e törvényben előírt feltételeknek, a kisajátítási hatóság – a 26. §-ban foglalt kivételekkel – tárgyalást tűz ki, továbbá a kisajátításra vonatkozó szakvélemény elkészítése céljából az igazságügyi szakértői tevékenységről szóló törvény szerinti szakértőt (a továbbiakban: szakértő) rendel ki, és meghatározza a szakvélemény elkészítésének határidejét. A kisajátítási hatóság a szakértő kirendelésekor tájékoztatja az ügyfeleket arról, hogy az elkészült szakértői vélemény a kisajátítási hatóságnál mikor tekinthető meg, valamint részleges kisajátítás esetén – ha szükséges – kötelezi a kisajátítást kérőt a kisajátítandó ingatlan határainak a szakértővel egyeztetett időpontra történő ideiglenes kitűzésére is, mely kitűzést az ingatlanon fennálló jog jogosultja tűrni köteles.
+(2) Ha a kérelem és mellékletei megfelelnek az e törvényben előírt feltételeknek, a kisajátítási hatóság – a 26. §-ban foglalt kivételekkel – tárgyalást tűz ki, továbbá – ha a szükséges szakértelemmel a kisajátítási hatóság nem rendelkezik – a kisajátításra vonatkozó szakvélemény elkészítése céljából az igazságügyi szakértői tevékenységről szóló törvény szerinti szakértőt (a továbbiakban: szakértő) rendel ki, és meghatározza a szakvélemény elkészítésének határidejét. A kisajátítási hatóság a szakértő kirendelésekor tájékoztatja az ügyfeleket arról, hogy az elkészült szakértői vélemény a kisajátítási hatóságnál mikor tekinthető meg, valamint részleges kisajátítás esetén – ha szükséges – kötelezi a kisajátítást kérőt a kisajátítandó ingatlan határainak a szakértővel egyeztetett időpontra történő ideiglenes kitűzésére is, mely kitűzést az ingatlanon fennálló jog jogosultja tűrni köteles.
 
 (3) A szakértő a szakvéleményt jogszabályban meghatározott szerkezetben és adattartalommal, a mérlegelés módszerének és a figyelembe vett szempontoknak a bemutatásával köteles elkészíteni.
+
+(4) Ha a kisajátítási hatóság – a szükséges szakértelem rendelkezésre állása folytán – nem rendel ki szakértőt, a kártalanítás meghatározása érdekében – az adózás rendjéről szóló törvény rendelkezéseitől eltérően – az állami adóhatóság összehasonlító értékadatok szolgáltatására irányuló eljárása keretében a kisajátítási hatóság az ingatlan helyrajzi számát is jogosult megismerni.
+
+(5) A kisajátítást megalapozó közérdekű cél megvalósítását szolgáló tevékenység vagy beruházás azonossága esetén a kisajátítási hatóság az összehasonlító értékadatokat az egymással területi szempontból összefüggő további kisajátítási eljárások során is felhasználhatja.
 
 26. § (1) A tárgyalásra a szakértőt meg kell idézni. A szakértő a véleményét megküldi a kisajátítási hatóság részére. A szakértői véleménynek az ügyfelek részére történő megküldéséről a kisajátítási hatóság hivatalból gondoskodik.
 
@@ -398,7 +402,7 @@ kell figyelembe venni.
 
 (4) Ha a kérdések és észrevételek olyan időben érkeznek meg, hogy azok szakértő általi megismerése még a tárgyalás előtt lehetségesnek mutatkozik, a beérkezett kérdéseket és észrevételeket a kisajátítási hatóság – elektronikus vagy postai úton, vagy telefaxon – továbbítja a szakértő részére.
 
-(5) Mellőzhető a tárgyalás kitűzése és a szakértő kirendelése, ha a rendelkezésre álló adatok alapján a kisajátítási hatóság arra a következtetésre jut, hogy a kisajátítás jogalapja nem áll fenn.
+(5) Mellőzhető a tárgyalás kitűzése, ha a rendelkezésre álló adatok alapján a kisajátítási hatóság arra a következtetésre jut, hogy a kisajátítás jogalapja nem áll fenn.
 
 (6) Nincs szükség tárgyalás kitűzésére, illetőleg a kitűzött tárgyalás megtartására, ha a kisajátítást kérő csatolja a kisajátítási kártalanítás tárgyában kötött egyezségről szóló okiratot, és az egyezséget a kisajátítási hatóság jogszerűnek tartja.
 
@@ -447,7 +451,7 @@ kell figyelembe venni.
 
 (3) Ha jogszabály nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházással összefüggésben az általános illetékességű területtől eltérő illetékességi terület meghatározásával jelöli ki az eljáró kisajátítási hatóságot (a továbbiakban: kijelölt kisajátítási hatóság), és ennek folytán a kisajátítási tárgyalásra nem az általános illetékességű kisajátítási hatóság hivatali helyiségében kerülne sor, a kijelölt kisajátítási hatóság a tárgyalást az általános illetékességű kisajátítási hatóság hivatali helyiségében tartja meg, kivéve, ha ez ellen valamennyi ügyfél – a kisajátítást kérőt ide nem értve – tiltakozik.
 
-(4) Az ügygondnok vagy eseti gondnok kirendelésére vonatkozó gyámhatósági eljárás ügyintézési határideje 15 nap, amely nem hosszabbítható meg.
+(4)
 
 (5) A 29. § (7) bekezdése alkalmazásában építmény nélküli ingatlan birtokba bocsátására legfeljebb 15 napos határidő állapítható meg, és a birtokbabocsátási határidőt a 10. § szerinti tulajdonosi cselekmények elvégzése érdekében nem lehet meghosszabbítani.
 
@@ -581,7 +585,7 @@ alapján vezeti át az ingatlan-nyilvántartáson.
 
 (3) Az ingatlan tulajdonosa (vagyonkezelője, használója) köteles tűrni, hogy az engedélyezett előmunkálatokat elvégezzék, az ezzel okozott kár megtérítéséért a kisajátítást kérő és az előmunkálatokat végző egyetemlegesen felelős.
 
-(4) A kisajátítási hatóság az előmunkálatokat engedélyező határozatában a kisajátítást kérő kérelmére – a kártalanításra vonatkozó szakvélemény elkészítése céljából – szakértőt rendel ki.
+(4) A kisajátítási hatóság az előmunkálatokat engedélyező határozatában a kisajátítást kérő kérelmére – ha a kisajátítási hatóság nem rendelkezik a szükséges szakértelemmel – a kártalanításra vonatkozó szakvélemény elkészítése céljából szakértőt rendel ki.
 
 (5) Az előmunkálati engedélyben meghatározott munkálatok során okozott, illetve azzal összefüggésben keletkezett károkért járó kártalanítást – a kisajátítási kártalanítás szabályainak alkalmazásával – a kisajátítási hatóság állapítja meg.
 

@@ -40,7 +40,7 @@ Az Országgyűlés a nemzeti energiahatékonysági célkitűzés teljesítéséh
 - 28. primerenergia-fogyasztás: a nem energiacélú felhasználással csökkentett bruttó belföldi energiafogyasztás;
 - 29. teljes bemenő hőteljesítmény: az összes olyan műszaki egység névleges bemenő hőteljesítményének összege, amely a létesítmény részét képezi;
 - 30. végrehajtási időszak: az energiahatékonysági célkitűzés végrehajtására rendelkezésre álló, 2014. január 1-jétől 2020. december 31-ig terjedő időszak;
-- 31. végső felhasználó: az a természetes személy vagy szervezet, aki vagy amely saját felhasználására vásárol energiát;
+- 31. végső felhasználó: az a természetes személy vagy szervezet, aki vagy amely saját felhasználására vásárol energiát; távhűtéssel ellátott épület esetében, ha a távhűtési szolgáltatás a több személy tulajdonában lévő épület valamennyi épületrészében – a közös használatú épületrészek kivételével – mérhető, végső felhasználónak kell tekinteni az egyes épületrészek tulajdonosát is.
 - 32. végsőenergia-fogyasztás: az ipar, a közlekedés, a háztartások, a szolgáltatások és a mezőgazdaság számára szolgáltatott energia, az energiaátalakítási ágazatnak és az energetikai iparnak szolgáltatott energiaszállítás kivételével;
 - 33. vállalkozáscsoport: azon vállalkozások összessége, amelyek egymással a Kkvtv. szerinti kapcsolódó vállalkozási vagy partnervállalkozási kapcsolatban állnak.
 
@@ -244,6 +244,16 @@ kell elérni.
 
 (3) A kiskereskedelmi energiaértékesítő vállalat köteles honlapján az energiahatékonysági tájékoztató honlapra mutató hivatkozást feltüntetni.
 
+#### 17/A. Fogyasztóvédelmi feladatok a távhűtés terén
+
+21/A. § (1) A fogyasztóvédelmi hatóság jár el a távhűtés mérésével, elszámolásával, a díjfizetéssel, a számlázással és a végső felhasználók tájékoztatásával kapcsolatos rendelkezések végső felhasználóval szemben történő távhűtési szolgáltató általi megsértése esetén.
+
+(2) A fogyasztóvédelmi hatóság eljárására a fogyasztóvédelemről szóló törvényt kell alkalmazni azzal, hogy az e törvény szerinti végső felhasználó a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztónak minősül akkor is, ha nem természetes személy.
+
+(3) Az (1) bekezdésben foglalt rendelkezések a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezések.
+
+(4) A végső felhasználó akkor kezdeményezheti a fogyasztóvédelmi hatóság eljárását, ha igazolja, hogy eredménytelenül fordult panaszával a távhűtési szolgáltatóhoz.
+
 ### VIII. Fejezet — AZ ENERGETIKAI AUDITÁLÁS
 
 #### 18. Az energetikai auditálási kötelezettség
@@ -380,6 +390,8 @@ kell elérni.
 
 (4) Az energetikai auditor a bekövetkezéstől számított 8 napon belül köteles bejelenteni a regisztráló szervezetnek a névjegyzékben nyilvántartott adatai tekintetében bekövetkezett változást.
 
+(4a) A (4) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle az energetikai auditor kéri – a (4) bekezdés szerinti határidőben értesíti a regisztráló szervezetet.
+
 (5) Ha az energetikai auditor a (4) bekezdésben meghatározott kötelezettségét a regisztráló szervezet tudomásszerzését követő 8 napon belül megküldött figyelmeztetése ellenére 8 napon belül sem teljesíti, a Hivatal 100 000 forintig terjedő bírsággal sújtja.
 
 (6) Az energetikai auditort törölni kell a névjegyzékből a Szolgtv. 28. § a) és b) pontjában foglalt esetben, valamint ha az energetikai auditor meghalt.
@@ -405,6 +417,8 @@ kell elérni.
 (3) Az energetikai auditáló szervezet (1) bekezdésben foglalt adatai nyilvánosak, azokat a Hivatal az energiahatékonysági tájékoztató honlapon közzéteszi.
 
 (4) Az energetikai auditáló szervezet a bekövetkezéstől számított 8 napon belül köteles bejelenteni a regisztráló szervezetnek a névjegyzékben nyilvántartott adataiban bekövetkezett változást.
+
+(4a) A (4) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle az energetikai auditáló szervezet kéri – a (4) bekezdés szerinti határidőben értesíti a regisztráló szervezetet.
 
 (5) Ha az energetikai auditáló szervezet a (4) bekezdésben meghatározott kötelezettségét a regisztráló szervezet tudomásszerzését követő 8 napon belül megküldött figyelmeztetése ellenére 8 napon belül sem teljesíti, a Hivatal 100 000 forintig terjedő bírsággal sújtja.
 
@@ -553,7 +567,8 @@ kell elérni.
 - l) a regisztráló szervezetekkel szemben támasztott engedélyezési követelményeket, az engedély kiadásának és visszavonásának általános eljárási szabályait, a regisztráló szervezetek tevékenységének végzésére vonatkozó szabályokat,
 - m) Magyarországnak az Európai Bizottság felé teljesítendő energiahatékonysági jelentéstételi, értékeléskészítési és adatszolgáltatási kötelezettségének teljesítésére vonatkozó részletes szabályokat,
 - n) az energiamegtakarítás összehasonlításakor és összevethető mértékegységre történő átváltásakor alkalmazandó átváltási tényezőket,
-- o) a 7. § f) pontja szerinti költség-haszon elemzéssel kapcsolatos kötelezettségek megszegése esetén a kiszabható bírság mértékét rendeletben állapítsa meg.
+- o) a 7. § f) pontja szerinti költség-haszon elemzéssel kapcsolatos kötelezettségek megszegése esetén a kiszabható bírság mértékét,
+- p) a távhűtés mérésével, elszámolásával, a díjfizetéssel, a számlázással és a felhasználók tájékoztatásával kapcsolatos rendelkezéseket, a felek jogait és kötelezettségeit; rendeletben állapítsa meg.
 
 45. § Felhatalmazást kap az energiapolitikáért felelős miniszter arra, hogy
 

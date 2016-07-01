@@ -68,7 +68,7 @@ Az Országgyűlés a tőkepiac stabilitásának megőrzése és a befektetési s
 
 (3) Az Alap székhelye megegyezik a BEVA székhelyével.
 
-(4) Az Alap önálló munkaszervezettel nem rendelkezik, az operatív feladatokat elkülönítetten az Országos Betétbiztosítási Alap munkaszervezete látja el az Országos Betétbiztosítási Alap ügyvezető igazgató-helyettesének irányításával.
+(4) Az Alap önálló munkaszervezettel nem rendelkezik, az operatív feladatokat az Országos Betétbiztosítási Alap elkülönített munkaszervezete látja el az Országos Betétbiztosítási Alap ügyvezető igazgató-helyettesének irányításával.
 
 (5) Az Alap gazdálkodását az Állami Számvevőszék ellenőrzi.
 
@@ -79,8 +79,9 @@ Az Országgyűlés a tőkepiac stabilitásának megőrzése és a befektetési s
 - c) irányítja az Alap gazdálkodási és egyéb tevékenységét,
 - d) dönt az Alap működéséhez szükséges kötvénykibocsátásról, kölcsön felvételéről,
 - e) meghatározza a BEVA tagok által teljesítendő éves befizetés összegét, és figyelemmel kíséri a befizetések szabályszerűségét,
-- f) elfogadja az Alap éves számviteli beszámolóját és az Alap tevékenységének befejezését megelőzően elfogadja a záró beszámolót, valamint
-- g) ellátja a jogszabályban meghatározott egyéb feladatokat.
+- f) elfogadja az Alap éves számviteli beszámolóját és az Alap tevékenységének befejezését megelőzően elfogadja a záró beszámolót,
+- g) dönt az Alap feladatainak végrehajtásával kapcsolatos intézkedésekről, valamint irányítja és ellenőrzi az e törvényben meghatározott feladatoknak az Országos Betétbiztosítási Alap ügyvezető igazgató-helyettese irányításával történő végrehajtását, valamint
+- h) ellátja az e törvényben meghatározott egyéb feladatokat.
 
 9. § Az igazgatóság feladatainak ellátására vonatkozóan szabályzatot alkot és tesz közzé
 

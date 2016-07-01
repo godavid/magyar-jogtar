@@ -293,7 +293,7 @@ mellékeli.
 
 (8) A Tanács és a Tanács titkársága működésének, valamint a Tanács elnöke illetményének és egyéb juttatásainak pénzügyi fedezetét az Országgyűlés Hivatalának költségvetésében kell megtervezni. A Tanács és a Tanács titkársága működésének biztosításával, az illetmény és az egyéb juttatások folyósításával kapcsolatos feladatokat az Országgyűlés Hivatala látja el.
 
-19. § A Tanács elnökének nem nevezhető ki olyan személy, aki tagja az Országgyűlésnek, a Kormánynak, illetve állami vezető, bíró, ügyész, kormánytisztviselő vagy köztisztviselő, továbbá aki szolgálati jogviszonyban áll.
+19. § A Tanács elnökének nem nevezhető ki olyan személy, aki tagja az Országgyűlésnek, a Kormánynak, illetve állami vezető, bíró, ügyész, kormánytisztviselő, állami tisztviselő vagy köztisztviselő, továbbá aki szolgálati jogviszonyban áll.
 
 19/A. § (1) A Tanács elnöke az országgyűlési képviselőkkel azonos módon, azonos tartalommal és gyakorisággal tesz vagyonnyilatkozatot. Az évenkénti vagyonnyilatkozatot a kötelezettség esedékessé válásának évében az azt megelőző év december 31-ei állapotára vonatkozóan, a kinevezéskor, illetve megbízatása megszűnésekor esedékes vagyonnyilatkozatot a kinevezés, illetve a megbízatás megszűnése napjának állapotára vonatkozóan kell megtennie. Saját vagyonnyilatkozatához csatolni köteles a vele közös háztartásban élő házas- vagy élettársának, valamint gyermekeinek (hozzátartozó) az országgyűlési képviselők vagyonnyilatkozatával azonos tartalmú vagyonnyilatkozatát.
 

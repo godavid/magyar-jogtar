@@ -44,6 +44,8 @@ a hitelbiztosítéki nyilvántartásról
 
 (7) A regisztrált felhasználó a (2) bekezdésben meghatározott személyazonosító adataiban bekövetkezett változást köteles haladéktalanul bejelenteni. A változás átvezetése során megfelelően alkalmazni kell a regisztrációra vonatkozó szabályokat.
 
+(7a) A (7) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a regisztrált felhasználó kéri – a (7) bekezdés szerinti határidőben értesíti a MOKK-ot.
+
 (8) A közjegyző a felhasználói regisztrációt az e célra szolgáló felületen előterjesztett kérelemre megszünteti, feltéve, hogy a regisztrált felhasználó a hitelbiztosítéki rendszerben nyilvántartott hitelbiztosítéki nyilatkozat által – ide nem értve a törölt nyilatkozatot – már nem érintett.
 
 5. § (1) Ha a regisztrációját kérő egy meghatározott személy vagy szervezet nevében, annak állandó képviselőjeként kíván eljárni, képviseleti jogosultságát a regisztráció során közokirattal vagy teljes bizonyító erejű magánokirattal kell igazolnia; a képviselt a hitelbiztosítéki rendszer regisztrált felhasználójának tekintendő. E regisztráció bármely közjegyzőnél személyesen kérhető.
@@ -57,6 +59,8 @@ a hitelbiztosítéki nyilvántartásról
 - e) külföldi szervezet esetén elnevezését, székhelyét, és ha azzal rendelkezik, nyilvántartási számát, illetve adószámát, az ország kódját.
 
 (3) Az állandó képviseleti jogosultság megszűnését, a 4. § (2) bekezdésében meghatározott adatokban történt változást, a képviseltnek a (2) bekezdésben meghatározott adataiban bekövetkezett változást az erre okot adó körülmény bekövetkeztét követő három munkanapon belül a közjegyzőnél kell bejelenteni. A bejelentést – ha az a képviselőtől vagy a képviselttől származik – a közjegyző a 4. § rendelkezéseinek megfelelő alkalmazásával rögzíti a hitelbiztosítéki rendszerben, amelynek kialakítása során biztosítani kell, hogy a bejelentés beérkezését követő három munkanapon belül a regisztrált felhasználó képviseleti jogosultságára vonatkozó nyilvántartási adat törlése megtörténjen. A regisztrált felhasználó képviseleti jogosultságára vonatkozó nyilvántartási adat törléséről a képviseltet rendszerüzenetben értesíteni kell.
+
+(3a) A (3) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a képviselő vagy a képviselt kéri – a (3) bekezdés szerinti határidőben értesíti a közjegyzőt.
 
 (4) A zálogjogosulti bizományos regisztrációjára az (1)–(3) bekezdésben foglaltakat kell alkalmazni azzal az eltéréssel, hogy a zálogjogosulti bizományosi minőséget meghatalmazás helyett az erre való kijelölést tartalmazó közokirattal vagy teljes bizonyító erejű magánokirattal kell igazolni, és a hitelbiztosítéki rendszerben az említett minőségre vonatkozó adatot kell rögzíteni.
 

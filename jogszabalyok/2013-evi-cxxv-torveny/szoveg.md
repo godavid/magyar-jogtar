@@ -165,6 +165,8 @@ olyan változás következik be, amely a kiadott minősítési engedély adatán
 
 (3) Ha a kérelmező hulladékgazdálkodási tevékenységét érintő adataiban olyan változás következik be, amely a minősítési osztályba sorolását nem érinti, a kérelmező e tényt a változás bekövetkezésétől számított 15 napon belül bejelenti.
 
+(4) A (3) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a kérelmező kéri – a (3) bekezdés szerinti határidőben értesíti a minősítőt.
+
 #### 6. Új minősítési osztály kérelmezése
 
 12. § (1) Ha a kérelmező részére kiadott minősítési engedélyben meghatározott minősítési osztályhoz tartozó minősítési kategóriánál vagy fokozatnál magasabb kategóriába vagy fokozatba sorolásra van lehetőség, a kérelmező az új kategóriának vagy fokozatnak megfelelő minősítési osztályba sorolás iránt módosítási kérelmet nyújthat be.

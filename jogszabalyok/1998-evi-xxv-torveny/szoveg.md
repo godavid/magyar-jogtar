@@ -76,6 +76,8 @@ az emberi felhasználásra kerülő gyógyszerekről
 
 26. § Ez a törvény a 4-jód-2,5-dimetoxi-N-(2-metoxi-benzil)fenetilamin (25I-NBOMe), a 3,4-diklór-N-[[1-(dimetil-amino)ciklohexil]metil]benzamid (AH-7921), a 3,4-metilén-dioxi-pirovaleron (MDPV) és a 2-(3-metoxi-fenil)-2-(etil-amino)ciklohexanon (metoxetamin) ellenőrzési intézkedések alá vonásáról szóló, 2014. szeptember 25-ei 2014/688/EU tanácsi határozat végrehajtásához szükséges rendelkezéseket állapít meg.
 
+27. § A törvény tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-ei 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
+
 ### Melléklet az emberi felhasználásra kerülő gyógyszerekről szóló törvényhez
 
 A törvény 19. §-ának (7) bekezdése értelmében azoknak az anyagoknak a listája, amelyek nem az 1979. évi 25. törvényerejű rendelettel kihirdetett, a pszichotrop anyagokról szóló, Bécsben, az 1971. évi február hó 21. napján aláírt egyezmény mellékletének I. és II. Jegyzéke alapján minősülnek kábítószerrel egy tekintet alá eső veszélyes pszichotrop anyagnak, illetve hazai besorolásuk eltér a nemzetközitől, a következő:
@@ -159,6 +161,10 @@ A) Jegyzék:
 | 71. | AB-PINACA | N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-pentyl-1H- indazole-3-carboxamide |
 | 72. | α-PVT, alpha-PVT, alpha-pyrrolidinopentiothiophenone | 2-(pyrrolidin-1-yl)-1-(thiophen-2-yl)pentan-1-one |
 | 73. | MDMB-CHMICA | N-[[1-(cyclohexylmethyl)-1H-indol-3-yl]carbonyl]-3- methyl- valine, methyl ester |
+| 74. | MTP, methcathinone thiophen analog | 2-(methylamino)-1-(thiophen-2-yl)propan-1-one |
+| 75. | N-ethylnorketamine | 2-(2-chlorophenyl)-2-(ethylamino)cyclohexanone |
+| 76. | AM-1248 azepane isomer | adamant-1-yl[1-(1-methylazepan-3-yl)-1H-indol-3-yl] methanone |
+| 77. | ADB-FUBINACA | N-[1-(aminocarbonyl)-2,2-dimethylpropyl]-1-[(4-fluorophenyl)methyl]- 1H-indazole-3-carboxamide |
 
 B) Jegyzék:
 

@@ -20,7 +20,7 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 - 6. gondoskodik a büntetőeljárásban részt vevők és az eljárást folytató hatóság tagjainak személyi védelméről, valamint a büntetőeljárásban részt vevők, az igazságszolgáltatást segítők Védelmi Programjának (a továbbiakban: Védelmi Program) végrehajtásáról, továbbá védi a Magyarország szempontjából – külön jogszabályban meghatározott – különösen fontos személyek (a továbbiakban: védett személy) életét, testi épségét, őrzi a kijelölt létesítményeket,
 - 7. engedélyezi és felügyeli a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenységet,
 - 8. büntetés-végrehajtási feladatokat lát el,
-- 9. ellátja a rendkívüli állapot, a szükségállapot, a megelőző védelmi helyzet, a veszélyhelyzet és a váratlan támadás esetén a hatáskörébe utalt rendvédelmi feladatokat, továbbá rendkívüli állapot idején és váratlan támadás esetén közreműködik az államhatárt fegyveresen vagy felfegyverkezve átlépő személyek kiszorításában, valamint elfogásában és lefegyverzésében,
+- 9. ellátja a rendkívüli állapot, a szükségállapot, a megelőző védelmi helyzet, a terrorveszélyhelyzet, a váratlan támadás és a veszélyhelyzet esetén a hatáskörébe utalt rendvédelmi feladatokat, továbbá rendkívüli állapot idején és váratlan támadás esetén közreműködik az államhatárt fegyveresen vagy felfegyverkezve átlépő személyek kiszorításában, valamint elfogásában és lefegyverzésében,
 - 10. őrzi az államhatárt, megelőzi, felderíti, megszakítja az államhatár jogellenes átlépését, ellátja a hatáskörébe utalt idegenrendészeti és menekültügyi feladatokat,
 - 11. ellenőrzi az államhatáron áthaladó személy- és járműforgalmat, a szállítmányokat – ide nem értve a Közösségi Vámkódex létrehozásáról szóló 2913/92/EGK rendeletben meghatározott vámellenőrzést –, valamint végzi a határátléptetést, továbbá biztosítja a határátkelőhelyek rendjét, valamint végzi a közúti határátkelőhelyek üzemeltetését, és a fenntartásukra és fejlesztésükre vonatkozó feladatok végrehajtását,
 - 12. irányítja a határesemények kivizsgálásával megbízott magyar szervek tevékenységét, felügyeli az államhatár felmérésével, megjelölésével, a határjelek felújításával kapcsolatos munkák végzését,
@@ -70,8 +70,9 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 - a) hivatásos állományú rendőrökből,
 - b) kormánytisztviselőkből,
 - c) igazságügyi alkalmazottakból,
-- d) közalkalmazottakból, valamint
-- e) a munka törvénykönyvéről szóló törvény hatálya alá tartozó munkavállalókból
+- d) közalkalmazottakból,
+- e) a munka törvénykönyvéről szóló törvény hatálya alá tartozó munkavállalókból, valamint,
+- f) tisztjelöltekből
 
 állhat.
 
@@ -191,14 +192,14 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 
 - a) a vonatkozó jogszabályok alapján ellátja a hivatásos állományba jelentkezőknél, valamint a hivatásos állomány tagjánál a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényben meghatározott kifogástalan életvitel ellenőrzését,
 - b) elvégzi
-  - ba) a közszolgálati tisztviselőkről szóló törvény szerinti, az (1a) bekezdésben meghatározott feladatkörrel rendelkező kormányzati szolgálati jogviszonyban álló kormánytisztviselők és kormányzati ügykezelők,
+  - ba) a közszolgálati tisztviselőkről szóló törvény, valamint az állami tisztviselőkről szóló törvény szerinti, az (1a) bekezdésben meghatározott feladatkörrel rendelkező kormányzati szolgálati jogviszonyban álló kormánytisztviselők és kormányzati ügykezelők, valamint állami szolgálati jogviszonyban álló állami tisztviselők és állami ügykezelők,
   - bb) a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv, a Nemzeti Adó- és Vámhivatal, az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat hivatásos állományú tagjai, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó hivatásos állomány Nemzeti Biztonsági Felügyelethez (a továbbiakban: NBF) és a Szervezett Bűnözés elleni Koordinációs Központhoz vezényelt tagjai,
-  - bc) a bb) alpontban meghatározott szervek, az idegenrendészeti hatóság, a menekültügyi hatóság, az állampolgársági ügyekben eljáró szerv, valamint a Kormány által rendeletben meghatározott befogadó állomás kormánytisztviselői, köztisztviselői, valamint közalkalmazotti jogviszonyban álló tagjai,
-  - bd) az NBF kivételével a bb) és bc) alpontban meghatározott szervek irányítását ellátó minisztériumok a bb) és bc) alpontban meghatározott szervek irányításával, ellenőrzésével kapcsolatos szervezeti egységeinek, továbbá az NBF kivételével a bb) és bc) alpontban meghatározott szervek bűnüldözési és államigazgatási adatkezelését, pénzügyi és gazdasági ellátását, kiképzését és oktatását végző szervek rendeltetésszerű működése körében eljáró kormánytisztviselői, köztisztviselői és közalkalmazottai, továbbá
+  - bc) a bb) alpontban meghatározott szervek, az idegenrendészeti hatóság, a menekültügyi hatóság, az állampolgársági ügyekben eljáró szerv, valamint a Kormány által rendeletben meghatározott befogadó állomás kormánytisztviselői, köztisztviselői, állami szolgálati, valamint közalkalmazotti jogviszonyban álló tagjai,
+  - bd) az NBF kivételével a bb) és bc) alpontban meghatározott szervek irányítását ellátó minisztériumok a bb) és bc) alpontban meghatározott szervek irányításával, ellenőrzésével kapcsolatos szervezeti egységeinek, továbbá az NBF kivételével a bb) és bc) alpontban meghatározott szervek bűnüldözési és államigazgatási adatkezelését, pénzügyi és gazdasági ellátását, kiképzését és oktatását végző szervek rendeltetésszerű működése körében eljáró kormánytisztviselői, állami tisztviselői, köztisztviselői és közalkalmazottai, továbbá
   - be) a Kormány által a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény alapján nemzetbiztonsági célból létrehozott kabinet, valamint az annak munkáját segítő testület – politikai vezetőnek nem minősülő – tagjai, továbbá a tagok helyettesítésére jogosult és a titkársági feladatokat ellátó személyek (a ba)–bd) alpontban meghatározottak a továbbiakban együtt: védett állomány) megbízhatósági vizsgálatát,
 - c) felderíti a b) pontban megjelölt védett állománnyal összefüggő, külön jogszabályban meghatározott bűncselekményeket.
 
-(1a) Megbízhatósági vizsgálat alá az a kormánytisztviselő és kormányzati ügykezelő vonható, aki döntés előkészítésére, döntésre vagy ellenőrzésre jogosult
+(1a) Megbízhatósági vizsgálat alá az a kormánytisztviselő és kormányzati ügykezelő, továbbá állami tisztviselő és állami ügykezelő vonható, aki döntés előkészítésére, döntésre vagy ellenőrzésre jogosult
 
 - a) állampolgársági eljárással, menekültügyi eljárással, idegenrendészeti eljárással, szabálysértési eljárással, koncessziós eljárással, kisajátítási eljárással, építésügyi hatósági eljárással, munkavédelmi hatósági eljárással, munkaügyi ellenőrzéssel, ingatlan-nyilvántartási hatósági eljárással összefüggő ügyben,
 - b) közbeszerzési eljárás során,
@@ -1064,7 +1065,7 @@ törölni kell.
 - b) a bűncselekményből származó vagyonnal kapcsolatban lévő személyt, valamint a bűncselekményből származó vagyonnal kapcsolatba hozható helyiséget, épületet és más objektumot, terep- és útvonalszakaszt, járművet, eseményt megfigyelhet, arról információt gyűjthet, az észlelteket technikai eszközzel rögzítheti;
 - c) sérülést vagy egészségkárosodást nem okozó csapdát alkalmazhat.
 
-(2) Az (1)–(1a) bekezdésben foglaltak teljesítésére a rendőrség a természetes személyekkel, a jogi személyekkel vagy a jogi személyiséggel nem rendelkező szervezetekkel titkos együttműködési megállapodást köthet. Ennek keretében a rendőrség kezdeményezheti a bűnüldözés szempontjából különleges fontosságú ilyen szervezetek munkatársával hivatásos szolgálati, közszolgálati, közalkalmazotti jogviszony, illetve munkajogviszony (a továbbiakban: munkaviszony) létesítését.
+(2) Az (1)–(1a) bekezdésben foglaltak teljesítésére a rendőrség a természetes személyekkel, a jogi személyekkel vagy a jogi személyiséggel nem rendelkező szervezetekkel titkos együttműködési megállapodást köthet. Ennek keretében a rendőrség kezdeményezheti a bűnüldözés szempontjából különleges fontosságú ilyen szervezetek munkatársával hivatásos szolgálati, közszolgálati, közalkalmazotti, állami szolgálati jogviszony, illetve munkajogviszony (a továbbiakban: munkaviszony) létesítését.
 
 (3) Az e törvényben meghatározott feladatok ellátása érdekében a rendőrség – külön megállapodás alapján meghatározott időtartamra – munkaviszonyt kezdeményezhet a (2) bekezdés hatálya alá tartozó szervezeteknél.
 
