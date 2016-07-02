@@ -56,11 +56,7 @@ a szakképzésről szóló 2011. évi CLXXXVII. törvény, a felnőttképzésrő
 
 24–25. §
 
-26. § Az Szt. 8. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(2) A szakképzési kerettantervet a szakképzésért és felnőttképzésért felelős miniszter a szakközépiskolai képzés kilencedik-tizenegyedik évfolyamán szakképesítésenként a szakmai elméletre, továbbá az iskolai tanműhelyben folyó vagy a gazdálkodó szervezetnél szervezhető szakmai gyakorlati képzésre adja ki. A kerettantervnek biztosítania kell, hogy a szakközépiskolában a kötelező tanórai foglalkozások megtartásához a kilencedik-tizenegyedik évfolyamon együttesen rendelkezésre álló időkeret harminchárom százaléka a Nemzeti alaptantervben meghatározottak átadásához álljon rendelkezésre.
-
-(3) A szakképzési kerettantervet a szakképzésért és felnőttképzésért felelős miniszter a szakgimnáziumokban a kilencedik-tizenkettedik évfolyamon ágazatonként és szakképesítésenként a szakmai elméleti, továbbá a szakmai gyakorlati, valamint szakképesítésenként az érettségi vizsgát követő szakképzési évfolyamon a szakmai elméleti, továbbá a szakmai gyakorlati oktatásra adja ki. A kerettantervnek biztosítania kell, hogy a szakgimnáziumokban a kilencedik-tizenkettedik évfolyamon a kötelező tanórai foglalkozások megtartásához együttesen rendelkezésre álló időkeret legalább hatvan százaléka a Nemzeti alaptantervben meghatározottak átadásához álljon rendelkezésre.”
+26. §
 
 27. § (1)
 
@@ -98,21 +94,7 @@ a szakképzésről szóló 2011. évi CLXXXVII. törvény, a felnőttképzésrő
 
 49–56. §
 
-57. § Az Szt. 72. § (2) bekezdés e) és f) pontja helyébe a következő rendelkezések lépnek:
-
-(A szakképzésért és felnőttképzésért felelős miniszter)
-
-„e) kidolgoztatja és kiadja
-
-ea) a szakközépiskolai képzésben szakképesítésenként a szakmai elméletre, továbbá a kilencedik évfolyamon a tanműhelyben folyó szakmai gyakorlatra, továbbá a tizedik és tizenegyedik évfolyamon a tanműhelyben folyó gyakorlatra és a gyakorlati képzést folytató szervezetnél szervezett szakmai gyakorlati képzésre,
-
-eb) a szakgimnáziumokban a kilencedik-tizenkettedik évfolyamon ágazatonként és szakképesítésenként a szakmai elméletre, továbbá a szakmai gyakorlatra, valamint
-
-ec) a szakgimnáziumokban szakképesítésenként az érettségi vizsgát követő szakképzési évfolyamokra a szakmai elmélet, továbbá a szakmai gyakorlat
-
-kötelező szakképzési kerettanterveit,
-
-f) kezdeményezi a közismereti tárgyak oktatásához a szakközépiskolákban, továbbá a szakgimnáziumokban kötelezően alkalmazandó ágazatonként differenciált kerettantervek elkészítését és kiadását az oktatásért felelős miniszternél,”
+57. §
 
 58–60. §
 
@@ -126,29 +108,15 @@ f) kezdeményezi a közismereti tárgyak oktatásához a szakközépiskolákban,
 
 65. § (1)–(2)
 
-(3) Az Szt. 88. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a Szakképzési Hídprogramban résztvevő tanuló ösztöndíjának mértékére, feltételeire, folyósítására, az ösztöndíj folyósításával kapcsolatban felmerült költségek térítésére, az elszámolásra és az ellenőrzésre, valamint a Szakképzési Hídprogramban résztvevő pedagógusok pótlékára vonatkozó szabályokat.”
+(3)
 
 (4)
 
-66. § (1) Az Szt. 89. § e)–g) pontja helyébe a következő rendelkezések lépnek:
-
-[Felhatalmazást kap a szakképzésért és felnőttképzésért felelős miniszter, hogy – a b), e), f) és g) pont tekintetében a szakképesítésért felelős miniszter egyetértésével – rendeletben határozza meg]
-
-„e) a szakközépiskolai képzésben szakképesítésenként a szakmai elméletre és a szakmai gyakorlati képzésre vonatkozó kötelező szakképzési kerettanterveket,
-
-f) a szakgimnáziumban a kilencedik-tizenkettedik évfolyamon ágazatonként és szakképesítésenként a szakmai elméletre, továbbá a szakmai gyakorlatra vonatkozó kötelező szakképzési kerettanterveket,
-
-g) a szakgimnáziumban szakképesítésenként az érettségi vizsgát követő szakképzési évfolyamokra a szakmai elméletre, továbbá a szakmai gyakorlatra vonatkozó kötelező szakképzési kerettanterveket,”
+66. § (1)
 
 (2)
 
-(3) Az Szt. 89. §-a a következő j) ponttal egészül ki:
-
-[Felhatalmazást kap a szakképzésért és felnőttképzésért felelős miniszter, hogy – a b), e), f) és g) pont tekintetében a szakképesítésért felelős miniszter egyetértésével – rendeletben határozza meg]
-
-„j) a Szakképzési Hídprogram megszervezésének feltételeit, a Szakképzési Hídprogramban folytatott képzéshez szükséges szakképzési kerettanterveket, valamint a Szakképzési Hídprogramba történő bekapcsolódás részletes szabályait az oktatásért felelős miniszter egyetértésével és a társadalmi felzárkózásért felelős miniszter véleményének kikérésével.”
+(3)
 
 67. § (1)–(2)
 

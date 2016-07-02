@@ -61,7 +61,7 @@ szöveg lép.
 63. § Hatályát veszti a Gjt.
 
 - 1.
-- 2. 17. § (1) bekezdésében „A vámhatóság az illetékbélyeget érvényteleníti, a tehergépjármű rendszámát és a lerótt illeték összegét nyilvántartásba veszi.”
+- 2.
 - 3.
 
 #### 5. A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása
