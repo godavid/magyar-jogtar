@@ -565,7 +565,7 @@ a befektetési alapkezeléshez közvetlenül kapcsolódó területen tevékenyke
   - ab) üzleti titok, értékpapírtitok, biztosítási titok, banktitok vagy az adatvédelemről szóló jogszabályok által védett információ jogszerűtlen feltárásával vagy felhasználásával jár, vagy
   - ac) ügylet ellentétben áll az ÁÉKBV-alapkezelő e törvényben vagy a Bszt.-ben meghatározott kötelezettségeivel;
 - b) harmadik személy részére történő, az érintett személy munkaköri kötelezettségét meghaladó tanácsadás vagy harmadik személy biztatása arra, hogy pénzügyi eszközökre vonatkozó olyan ügyletbe kezdjen, amely ha az érintett személy személyes ügylete lenne, vonatkozna rá az a) pont vagy a Bszt. 77. §-ának (1) és (2) bekezdése, illetve a folyamatban lévő megbízásokra vonatkozó információkkal való visszaélésnek minősülne;
-- c) a Tpt. 203. § (1) bekezdés b) pontjában meghatározott esetnek nem minősülő információ vagy vélemény harmadik személy részére történő, az érintett személy munkaköri kötelezettségét meghaladó módon való közlése, amennyiben az érintett személy tisztában van vagy tőle elvárható gondossággal tisztában kellene lennie, hogy e közlés eredményeként a harmadik személy
+- c) információ vagy vélemény az 596/2014/EU rendeletben meghatározott jogszerű magatartásnak nem minősülő, az érintett személy munkaköri kötelezettségét meghaladó módon történő közlése harmadik személy részére, amennyiben az érintett személy tisztában van vagy tőle elvárható gondossággal tisztában kellene lennie, hogy e közlés eredményeként a harmadik személy
   - ca) pénzügyi eszközre vonatkozóan olyan ügyletbe kezdene, amely ha az érintett személy személyes ügylete lenne, vonatkozna rá e bekezdés a) pontja vagy a Bszt. 77. §-ának (1)–(2) bekezdése, illetve a folyamatban lévő megbízásokra vonatkozó információkkal való visszaélésnek minősülne vagy
   - cb) egy további személyt a ca) alpontban foglalt ügylet megkötésére biztatna vagy számára ilyen ügylet megkötésére vonatkozó tanácsot adna.
 
@@ -2819,7 +2819,7 @@ szemben.
 
 szemben.
 
-(4) Nem jelenti az üzleti titok sérelmét a Tpt. 205. §-ban meghatározott bejelentési kötelezettség teljesítése.
+(4) Nem jelenti az üzleti titok sérelmét az 596/2014/EU rendeletben és annak kiegészítő jogszabályaiban meghatározott, a piaci visszaélés megelőzését és felderítését szolgáló bejelentési kötelezettség teljesítése.
 
 (5) Nem lehet üzleti titokra hivatkozással visszatartani az információt a közérdekű adatok nyilvánosságára és a közérdekből nyilvános adatra vonatkozó, külön törvényben meghatározott adatszolgáltatási és tájékoztatási kötelezettség esetén.
 
