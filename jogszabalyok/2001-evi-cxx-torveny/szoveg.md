@@ -64,6 +64,8 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 20. befektető: az a személy, aki a befektetési alapkezelővel vagy más befektetővel kötött szerződés alapján saját vagy más pénzét, egyéb vagyontárgyát részben vagy egészben a tőkepiac, illetve a szabályozott piac, tőzsde hatásaitól teszi függővé, kockáztatja,
 - 21. minősített befolyás: a Bszt.-ben meghatározott fogalom.
 - 22. befolyásszerzés: a céltársaság szavazati jogot megtestesítő részvényének, illetőleg szavazati jognak a megszerzése, ideértve a szavazati jogot biztosító részvényre vonatkozó vételi jog, visszavásárlási jog, határidős vételi megállapodás érvényesítését vagy a szavazati jog használati, haszonélvezeti jog alapján történő gyakorlását, valamint azt, ha a befolyás nem a befolyásszerző közvetlenül erre irányuló magatartása révén, hanem egyéb körülmények – így különösen jogutódlás vagy a részvénytársaságnak a részvényesek szavazati jogát érintő, a szavazati arányokat módosító határozata vagy a szavazati jogok feléledése – következtében, illetve összehangoltan eljáró személyek e célból megvalósított együttműködésének eredményeképpen jön létre,
+- 22a. bejelentett személy: az a személy, akit a bejelentő személy az 596/2014/EU rendelet megsértésével vagy megsértésének szándékával vádol,
+- 22b. bejelentő személy: az a személy, aki az 596/2014/EU rendelet tényleges vagy lehetséges megsértését jelenti be a Felügyeletnek,
 - 23. biztosító: a Bit.-ben meghatározott fogalom, továbbá a XIX/B. Fejezet alkalmazásában biztosítónak tekintendő a Bit.-ben meghatározott harmadik országbeli biztosító is,
 - 24.
 - 25. céltársaság: magyarországi székhellyel rendelkező vagy magyarországi szabályozott piacra bevezetett nyilvánosan működő társaság, amelynek részvényei a nyilvános vételi ajánlati eljárás tárgyát képezik,
@@ -118,6 +120,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 62. járulékos vállalkozás: olyan vállalkozás, amely kizárólagosan vagy elsődlegesen egy vagy több befektetési vállalkozás, központi értéktár, központi szerződő fél vagy befektetési alapkezelő üzletszerű tevékenységét kiegészítő tevékenységet, így különösen ingatlankezelést, adatfeldolgozást, pénzszállítást, biztonsági, illetőleg kommunikációs szolgáltatást végez,
 - 63. jegyzés: az értékpapír forgalomba hozatala során az értékpapírt megszerezni szándékozó befektetőnek az értékpapír megszerzésére irányuló, feltétetlen és visszavonhatatlan nyilatkozata, amellyel az ajánlatot elfogadja és kötelezettséget vállal az ellenszolgáltatás teljesítésére,
 - 64. jegyzett tőke: az Szmt.-ben meghatározott tőke, valamint a dotációs tőke,
+- 64a. jogsértésről szóló bejelentés: a bejelentő személy által a Felügyelethez eljuttatott bejelentés az 596/2014/EU rendelet tényleges vagy lehetséges megsértéséről,
 - 65. kapcsolt vállalkozás: a vállalkozás anyavállalata és leányvállalata, a vállalkozás anyavállalatának leányvállalata, a vállalkozásban minősített befolyással rendelkező tulajdonos vagy olyan vállalkozás, amelyben a vállalkozás vagy a vállalkozás tulajdonosa, felügyelőbizottsági tagja, vezető tisztségviselője, vagy ezek közeli hozzátartozója minősített befolyással rendelkezik,
 - 66. kibocsátási program: egy kibocsátótól származó, hitelviszonyt megtestesítő értékpapírok, illetve zártvégű befektetési alapra forgalomba hozott befektetési jegyek egymást követő nyilvános értékpapírkibocsátás-összessége, amelynek alapfeltételeit a kibocsátó, illetve az alapkezelő a program indításakor rögzíti, és az egyes részkibocsátások során a kibocsátó, illetve az alapkezelő meghatározza a kibocsátás egyedi adatait,
 - 67. kibocsátó: az a személy, aki az értékpapírban megtestesített kötelezettség teljesítését a maga nevében vállalja,
@@ -969,7 +972,7 @@ gyakorolhatja az általa kezelt portfólióhoz kapcsolódó szavazati jogot.
 - b) a kibocsátó döntéshozó, ügyvezető szervei, felügyelőbizottsága vagy ezek testületi tagjainak kinevezésére, felmentésére vonatkozó döntések meghozatalában nem vesz részt, és
 - c) a kereskedési könyvben nyilvántartott részesedéshez kapcsolódó szavazati jogok nem haladják meg az 5%-ot.
 
-(11a) A részvényes mentesül az (1) bekezdés szerinti tájékoztatási kötelezettség alól, ha a szavazati jogok a 203. § (3) bekezdésében említett rendelettel összhangban stabilizálási célból szerzett részvényekhez kapcsolódnak, feltéve ha a kibocsátó biztosítja, hogy a részesedéshez kapcsolódó szavazati jog
+(11a) A részvényes mentesül az (1) bekezdés szerinti tájékoztatási kötelezettség alól, ha a szavazati jogok a piaci visszaélésekről (piaci visszaélésekről szóló rendelet), valamint a 2003/6/EK európai parlamenti és tanácsi irányelv és a 2003/124/EK, a 2003/125/EK és a 2004/72/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 596/2014/EU európai parlamenti és tanácsi rendelettel (a továbbiakban: 596/2014/EU rendelet) és annak kiegészítő jogszabályaival összhangban stabilizálási célból szerzett részvényekhez kapcsolódnak, feltéve ha a kibocsátó biztosítja, hogy a részesedéshez kapcsolódó szavazati jog
 
 - a) nem gyakorolható, és
 - b) a döntéshozó, ügyvezető szervei, felügyelőbizottsága vagy ezek testületi tagjainak kinevezésére, felmentésére vonatkozó döntések meghozatalában nem vesz részt.
@@ -1746,328 +1749,119 @@ a vételi ajánlat, illetve az önkéntes vételi ajánlat lezárását követő
 
 ## HATODIK RÉSZ — A BENNFENTES KERESKEDELEMÉS A PIACBEFOLYÁSOLÁS
 
-### XXI. Fejezet — A BENNFENTES KERESKEDELEMÉS A PIACBEFOLYÁSOLÁS TILALMA
+### XXI. Fejezet — A BENNFENTES KERESKEDELEM ÉS A PIACBEFOLYÁSOLÁS TILALMA
 
-199. § E rész rendelkezéseit kell alkalmazni minden olyan pénzügyi eszközzel kapcsolatos cselekményre,
+199. § (1) E rész rendelkezéseit az 596/2014/EU rendelet alkalmazási körében foglalt pénzügyi eszközökre, ügyletekre és referenciaértékekre vonatkozóan, a rendeletben meghatározott körben kell alkalmazni.
 
-- a) amelyet Magyarország területén követtek el, vagy
-- b) amelyeket külföldön követtek el, ha annak hatása Magyarország területén érvényesülhet.
+(2) A bennfentes kereskedelemre és piacbefolyásolásra az e törvényben nem szabályozott kérdésekben az 596/2014/EU rendeletet kell alkalmazni.
 
-### Bennfentes kereskedelem és piacbefolyásolás tilalma
+### XXI/A. Fejezet
 
-200. § Tilos a bennfentes kereskedelem és a piacbefolyásolás.
+### XXII. Fejezet — A JOGSÉRTÉSRŐL SZÓLÓ BEJELENTÉSEK ÁTVÉTELÉRE ÉS AZOK NYOMON KÖVETÉSÉRE VONATKOZÓ ELJÁRÁSOK
 
-### Bennfentes kereskedelem
+200. § A jogsértésekről szóló bejelentések átvételére és azok nyomon követésére a panaszokról és a közérdekű bejelentésekről szóló 2013. évi CLXV. törvény rendelkezéseit az e fejezetben foglalt eltérésekkel kell alkalmazni.
 
-201. § (1) Bennfentes kereskedelem:
+### A bejelentések átvételének és nyomon követésének általános szabályai
 
-- a) a bennfentes személy által bennfentes információ felhasználásával a bennfentes információval érintett pénzügyi eszközre közvetlen vagy közvetett módon ügylet kötése, illetőleg ügylet kötésére adott megbízás;
-- b) a bennfentes személy által a bennfentes információ továbbadása más személynek;
-- c) a bennfentes személy által javaslattétel más személynek arra, hogy a bennfentes információval érintett pénzügyi eszközre ügyletet kössön;
-- d) bármely személynek az a)–c) pontban leírt cselekménye, amennyiben tudta vagy az adott helyzetben általában elvárható gondossággal eljárva tudnia kellett volna, hogy a felhasznált információ bennfentes információnak minősül.
+201. § (1) A Felügyelet gondoskodik a jogsértésről szóló bejelentéseket kezelő munkatársak kijelöléséről (a továbbiakban: kijelölt munkatársak). A kijelölt munkatársak a jogsértésről szóló bejelentések kezelésére vonatkozó szakmai képzésben részesülnek.
 
-(2) Bennfentes személy
+(2) A kijelölt munkatársak az alábbi feladatokat látják el:
 
-- a) a kibocsátó vezető tisztségviselője és felügyelőbizottsági tagja;
-- b) az a jogi személy, illetve ennek ügyvezetője, vezető tisztségviselője és felügyelőbizottsági tagja, amelyben a kibocsátó huszonöt százalékot elérő vagy azt meghaladó közvetlen, illetőleg közvetett részesedéssel vagy szavazati joggal rendelkezik;
-- c) az a jogi személy, illetve ennek ügyvezetője, vezető tisztségviselője, felügyelőbizottsági tagja, amely a kibocsátóban tíz százalékot elérő vagy azt meghaladó közvetlen, illetőleg közvetett részesedéssel vagy szavazati joggal rendelkezik;
-- d) a forgalomba hozatal, illetve a VII. Fejezet szerinti nyilvános vételi ajánlat szervezésében közreműködő bármely szervezet, illetve ennek érdemi ügyintézője, vezető tisztségviselője, felügyelőbizottsági tagja, továbbá ezen szervezetnek és a kibocsátónak a kibocsátásban és a forgalomba hozatalban közreműködő más alkalmazottja, aki munkavégzésével kapcsolatosan bennfentes információhoz jutott, a forgalomba hozatalt követő egy évig;
-- e) a kibocsátó alaptőkéje (törzstőkéje) tíz százalékát elérő vagy azt meghaladó közvetlen, illetőleg közvetett részesedéssel rendelkező természetes és jogi személy;
-- f) a kibocsátó számlavezető hitelintézete, illetve ennek vezető tisztségviselője, felügyelőbizottsági tagja és érdemi ügyintézője;
-- g) aki a bennfentes információt munka- vagy feladatköréből kifolyólag, munkavégzése vagy szokásos feladatainak elvégzése során kapta meg, vagy egyéb módon jutott tudomására;
-- h) aki a bennfentes információt bűncselekmény útján szerezte;
-- i) az a)–h) pontban felsorolt természetes személlyel közös háztartásban élő személy, illetőleg közeli hozzátartozója;
-- j) az a jogi személy, és ennek nevében eljáró személy, amelyben az a)–i) pontokban megjelölt bennfentes személy minősített befolyással bír.
+- a) tájékoztatást nyújtanak a jogsértések bejelentésével kapcsolatos eljárásokról;
+- b) átveszik és nyomon követik a jogsértésről szóló bejelentéseket;
+- c) kapcsolatot tartanak a bejelentő személlyel, amennyiben az felfedte személyazonosságát.
 
-(3) Bennfentes információ:
+202. § (1) A Felügyelet honlapjának elkülönült részén, könnyen hozzáférhető módon közzéteszi
 
-- a) a pénzügyi eszközzel – ide nem értve az árualapú származtatott ügyletet – kapcsolatos olyan lényeges információ, amely
-  - aa) még nem került nyilvánosságra;
-  - ab) közvetlenül vagy közvetve a pénzügyi eszközre vagy a pénzügyi eszköz kibocsátójára vonatkozik;
-  - ac) nyilvánosságra kerülése esetén a pénzügyi eszköz árfolyamának lényeges befolyásolására alkalmas;
-- b) a pénzügyi eszközzel kapcsolatos megbízások végrehajtásával megbízott személyek esetében olyan lényeges információ az a) pontban meghatározottakon kívül, amely az ügyfél által adott és az ügyfél folyamatban lévő megbízásához kapcsolódik;
-- c) az árualapú származtatott ügylettel kapcsolatos olyan lényeges információ, amely
-  - ca) még nem került nyilvánosságra;
-  - cb) közvetlenül vagy közvetve az árualapú származtatott ügyletre vonatkozik;
-  - cc) az elfogadott piaci gyakorlat alapján a piaci szereplők tudomására hozandó;
-  - cd) információt a piac szereplőivel rendszeresen közölnek.
+- a) a jogsértésről szóló bejelentések átvételére és nyomon követésére, valamint a kijelölt munkatársakkal való kapcsolatfelvételre szolgáló kommunikációs csatornákat, így különösen a telefonszámokat és a biztonságos postai és elektronikus elérhetőséget, amely biztosítja a bejelentések bizalmas kezelését;
+- b) a jogsértésről szóló bejelentésekre vonatkozó eljárásokat;
+- c) a jogsértésről szóló bejelentések bizalmas kezelésére vonatkozó szabályozást;
+- d) a munkaszerződés alapján foglalkoztatott személyek védelmére szolgáló eljárásokat;
+- e) nyilatkozatot arra vonatkozóan, hogy az 596/2014/EU rendelettel összhangban nyújtott tájékoztatás nem minősül az információközlés bármely, szerződésben, jogalkotási, szabályozási vagy igazgatási rendelkezésben meghatározott korlátozása megsértésének, és azért a bejelentő személy semmilyen módon nem vonható felelősségre.
 
-(4) Lényeges információ: minden olyan információ, amely olyan eseményre vagy körülményre vonatkozik, amely bekövetkezett vagy bekövetkezése megalapozottan várható, és elég konkrét ahhoz, hogy lehetővé tegye következtetések levonását az adott körülménynek vagy eseménynek egy adott pénzügyi eszköz árfolyamára esetlegesen gyakorolt hatásáról.
+(2) A telefonos elérhetőség mellett azt is fel kell tüntetni, ha a telefonszám felhívása esetén a hívás rögzítésre kerül.
 
-(5) Az árfolyam befolyásolására alkalmas információ: minden olyan információ, amely a befektető által nagy valószínűséggel felhasználásra kerülne befektetési döntése meghozatalakor.
+203. § (1) A 202. § (1) bekezdés b) pontjában említett, a jogsértésről szóló bejelentésekre alkalmazandó eljárások leírásának tartalmaznia kell az alábbiakat:
 
-201/A. §
+- a) tájékoztatás a bejelentések anonim módon történő benyújtásának lehetőségéről;
+- b) tájékoztatás arról, hogy a Felügyelet az információk pontosítására, illetve további információk nyújtására kérheti a bejelentő személyt;
+- c) a jogsértésről szóló bejelentés eredményével kapcsolatos visszajelzés típusai, tartalma és határideje;
+- d) a jogsértésről szóló bejelentések bizalmas kezelésére vonatkozó szabályozás, ezen belül azon körülmények részletes leírása, amelyek mellett a bejelentő személy bizalmas adatai az 596/2014/EU rendelet 27., 28. és 29. cikkével összhangban közölhetők.
 
-201/B. § (1) A Felügyeletnek köteles az ügyletkötést haladéktalanul bejelenteni
+(2) Az (1) bekezdés d) pontjában említett részletes leírásnak egyértelműen ki kell térnie arra, hogy bizonyos rendkívüli esetekben az adatok bizalmas kezelése nem biztosítható, így különösen abban az esetben, ha az adatok közlése az uniós vagy hazai jogszabályok által előírt szükséges és arányos kötelezettség, ezen jogrendszerek megfelelő biztosítékai mellett, például vizsgálatok vagy bírósági eljárások során vagy mások szabadságának védelme érdekében, ideértve a bejelentett személy védelemhez való jogát.
 
-- a) a 201. § (2) bekezdés a) pontjában említett bennfentes személy, illetve
-  - aa) a vele közös háztartásban élő személy,
-  - ab) a közeli hozzátartozója, és
-  - ac) a bennfentes személy minősített befolyásával működő társaság, és
-- b) a 201. § (2) bekezdés b)–c) pontjában az említett bennfentes személy,
+### A bejelentések átvételére szolgáló kommunikációs csatornák
 
-ha személyesen vagy megbízott útján kötött ügyletet olyan részvényre, amellyel kapcsolatban bennfentesnek minősül, illetve olyan pénzügyi eszközre, amelynek értéke az említett részvény értékétől vagy árfolyamától függ.
+204. § (1) A Felügyelet a jogsértésről szóló bejelentések átvétele és nyomon követése céljára független és önálló kommunikációs csatornákat jelöl ki, amelyek biztonságosak, és biztosítják a bizalmas kezelést (a továbbiakban: kijelölt kommunikációs csatornák).
 
-(2) Az (1) bekezdés szerinti bejelentésnek tartalmaznia kell a bejelentésre kötelezett személy nevét (cégnevét), természetes személyazonosító adatait, lakcímét (székhelyét), a bejelentési kötelezettség indokát, az érintett kibocsátó nevét, az ügyletben szereplő pénzügyi eszköz megnevezését, mennyiségét, árfolyamát, az ügylet jellegét (például vétel vagy eladás), az ügyletkötés időpontját és helyét, illetve az ügyletet lebonyolító befektetési vállalkozás, hitelintézet megnevezését.
+(2) A kijelölt kommunikációs csatornákat akkor lehet függetlennek és önállónak tekinteni, ha az alábbi feltételek mindegyike teljesül:
 
-(3) A 201. § (2) bekezdésének a) pontja szerinti bennfentes személy haladéktalanul, de legkésőbb két naptári napon belül tájékoztatja a kibocsátót az (1) bekezdés a) pontja szerinti ügyletkötésről, amennyiben az a (4) bekezdésben meghatározott ügyletkötési összértéket meghaladja.
+- a) elkülönülnek a Felügyelet általános kommunikációs csatornáitól, ezen belül azoktól, amelyeken keresztül a Felügyelet belső, valamint harmadik felekkel folytatott kommunikációját folytatja a szokásos működése során;
+- b) a kommunikációs csatornákat oly módon alakítják ki és működtetik, hogy biztosítják az információk teljességét, sértetlenségét és bizalmas jellegét, továbbá megakadályozzák a jogosulatlan hozzáférést;
+- c) lehetővé teszik az információk tartós tárolását a 205. §-sal összhangban a későbbi vizsgálatok érdekében.
 
-(4) A 201. § (2) bekezdés a) pontjában említett bennfentes személy nem köteles az ügyletkötésről a kibocsátót tájékoztatni, ha az adott naptári évben az ügyletkötések összértéke nem haladja meg az egymillió forintot. Az ügyletkötések összértékének számításánál figyelembe kell venni:
+(3) A kijelölt kommunikációs csatornák lehetővé teszik a tényleges vagy lehetséges jogsértések bejelentését az alábbi módokon:
 
-- a) a bennfentes személy, és
-- b) a vele közös háztartásban élő személy,
-- c) a közeli hozzátartozója,
-- d) a minősített befolyásával működő társaság
+- a) a jogsértésről szóló, postai vagy elektronikus úton tett bejelentés;
+- b) a jogsértésről szóló szóbeli bejelentés telefonon, függetlenül attól, hogy rögzítésre kerül-e vagy sem;
+- c) személyes ügyintézés a kijelölt munkatársakkal való személyes találkozó útján.
 
-által kötött ügyleteket.
+(4) A Felügyelet a jogsértésről szóló bejelentés átvétele előtt vagy legkésőbb annak átvételekor a bejelentő személy rendelkezésére bocsátja a 202. §-ban felsorolt információkat.
 
-201/C. § (1) A szabályozott piacra bevezetett értékpapír kibocsátója köteles haladéktalanul az 56. § szerint, illetőleg internetes honlapján közzétenni a rá vonatkozó bennfentes információkat.
+(5) A Felügyelet a nem a kijelölt kommunikációs csatornán beérkezett jogsértésről szóló bejelentést módosítás nélkül, haladéktalanul továbbítja a kijelölt munkatársakhoz, a kijelölt kommunikációs csatornákat használva.
 
-(2) Az (1) bekezdésben foglalt előírások teljesítése során a kibocsátó nem kötheti össze a bennfentes információ nyilvánosságra hozatalát tevékenysége reklámozásával.
+### A beérkezett bejelentések nyilvántartása
 
-(3) Ha a kibocsátó másnak bennfentes információt bocsát rendelkezésre, ezzel egyidejűleg köteles ugyanazt az információt teljes mértékben az internetes honlapján nyilvánosságra hozni.
+205. § (1) A Felügyelet a jogsértésről szóló bejelentésekről nyilvántartást vezet.
 
-(4) A kibocsátó nevében vagy a javára eljáró személy, amennyiben másnak bennfentes információt bocsát rendelkezésre, ezzel egy időben erről köteles értesíteni a kibocsátót, aki az érintett információt honlapján az értesítést követően haladéktalanul, teljes mértékben nyilvánosságra hozza.
+(2) A Felügyelet haladéktalanul visszaigazolja a jogsértésről szóló írásbeli bejelentést a bejelentő személy által feltüntetett postai vagy elektronikus elérhetőségen, kivéve, ha a bejelentő személy kifejezetten kérte ennek mellőzését, vagy ha a Felügyelet ésszerű indokkal feltételezi, hogy az írásbeli bejelentés visszaigazolása veszélyeztetné a bejelentő személy személyazonosságának védelmét.
 
-(5) Nem kell alkalmazni a (3)–(4) bekezdésben foglaltakat, ha az információt megszerző személyt titoktartási kötelezettség terheli, függetlenül attól, hogy ez a kötelezettség jogszabályon, létesítő okirat rendelkezésén vagy szerződésbe foglalt megállapodáson alapul-e.
+(3) Ha a jogsértés bejelentése rögzített telefonbeszélgetés útján történik, a Felügyeletnek joga van a szóbeli bejelentés dokumentálására az alábbi módokon:
 
-(6) A kibocsátó a 201/B. § (3) bekezdése alapján hozzá érkezett bejelentést haladéktalanul, de legkésőbb két naptári napon belül köteles közzétenni az 56. §. szerint.
+- a) hangfelvétel készítése a beszélgetésről tartós és könnyen visszakereshető formában, vagy
+- b) a beszélgetés teljes és pontos átirata, amelyet a kijelölt munkatársak készítenek el.
 
-201/D. § (1) A bennfentes kereskedelemhez kapcsolódó hatósági ellenőrzés elősegítése érdekében a kibocsátó, illetve a javára vagy nevében eljáró személy a munkaviszony vagy egyéb jogviszony alapján részére tevékenységet végző és bennfentes információhoz hozzáférő személyekről nyilvántartást vezet, amelyet a Felügyelet kérésére, a nyilvántartást vezető személy köteles átadni.
+(4) Ha a bejelentő személy felfedte személyazonosságát, a Felügyelet lehetővé teszi a bejelentő személy számára az átirat ellenőrzését, kijavítását. A bejelentő személy aláírásával elfogadja az átiratot.
 
-(2) Amennyiben az (1) bekezdésben meghatározott nyilvántartás vezetésére kötelezett személy más javára vagy nevében eljárva több kibocsátóra vonatkozóan fér hozzá bennfentes információhoz, a nyilvántartást kibocsátónként elkülönítve köteles vezetni.
+(5) Ha a jogsértés bejelentése nem rögzített telefonbeszélgetés útján történik, a Felügyeletnek joga van a szóbeli bejelentés dokumentálására jegyzőkönyv formájában. Ha a bejelentő személy felfedte személyazonosságát, a Felügyelet lehetővé teszi a bejelentő személy számára a jegyzőkönyv ellenőrzését, kijavítását. A bejelentő személy aláírásával fogadja el a jegyzőkönyvet.
 
-(3) A bennfentes információhoz hozzáférő személyekről vezetett nyilvántartásnak tartalmaznia kell:
+(6) Ha a bejelentő személy személyes találkozót kér a kijelölt munkatársaktól személyes ügyintézés céljából, a Felügyelet biztosítja, hogy a találkozóról készült teljes és pontos feljegyzéseket az alábbi módok valamelyikén tárolják:
 
-- a) természetes személy esetén
-  - aa) természetes személyazonosító adatait,
-  - ab) lakcímét,
-  - ac)
-  - ad) állampolgárságát,
-  - ae)
-  - af) külföldi természetes személy esetében az aa), ab) és ad) pontban meghatározott adatok közül az azonosító okmány alapján megállapítható adatokat, valamint a magyarországi tartózkodási helyet;
-- b) jogi személy vagy jogi személyiséggel nem rendelkező más szervezet esetén
-  - ba) nevét, rövidített nevét,
-  - bb) székhelyének, külföldi székhelyű vállalkozás esetén magyarországi fióktelepének címét,
-  - bc) azonosító okiratának számát; és ezeken felül legalább
-- c) a nyilvántartásba vétel okát;
-- d) a nyilvántartás összeállításának, illetve frissítésének időpontját.
+- a) hangfelvétel készítése a beszélgetésről tartós és könnyen visszakereshető formában, vagy
+- b) a kijelölt munkatársak által a találkozóról készített pontos jegyzőkönyv.
 
-(4) Az (1) bekezdésben meghatározott nyilvántartás vezetésére kötelezett személy a bennfentes információhoz való hozzáférést követően haladéktalanul nyilvántartásba veszi az általa munkaviszony keretében vagy egyéb jogviszony alapján foglalkoztatott, bennfentes információhoz hozzáférő személyt.
+(7) Ha a bejelentő személy felfedte személyazonosságát, a Felügyelet lehetővé teszi a bejelentő személy számára a jegyzőkönyv ellenőrzését, javítását. A bejelentő személy aláírásával elfogadja a találkozóról készített jegyzőkönyvet.
 
-(5) Amennyiben a nyilvántartásba vett személy bennfentes információhoz való hozzáférése bármilyen módon megszűnt, a hozzáférés megszűnését követően a személyt haladéktalanul törölni kell a nyilvántartásból.
+### A munkaszerződés alapján foglalkoztatott személyek védelme
 
-(6) Az (1) bekezdésben említett, a bennfentes információhoz hozzáférő személy köteles a nyilvántartást vezető kérésére, a nyilvántartásba vételkor a (3) bekezdés a)–b) pontjában meghatározott adatokról a nyilvántartást vezetőt haladéktalanul – majd ezt követően írásban is – tájékoztatni. A nyilvántartásban szereplő személy a (3) bekezdés a)–b) pontjában foglalt adatainak változásáról 5 munkanapon belül értesíti a nyilvántartást vezetőt.
+206. § (1) A Felügyelet olyan eljárásokat vezet be, amelyek biztosítják az 596/2014/EU rendelet megsértését bejelentő vagy megsértésével vádolt, munkaszerződés alapján foglalkoztatott személyek diszkriminációval vagy más tisztességtelen bánásmóddal szembeni védelmével foglalkozó hatóságokkal történő hatékony információcseréjét és együttműködését.
 
-(7) A nyilvántartás vezetésére kötelezett személy a szabályzatban
+(2) Az (1) bekezdésben meghatározott eljárások magukban foglalják legalább az alábbiakat:
 
-- a) meghatározza
-  - aa) a javában vagy nevében eljáró, nyilvántartást vezető természetes nyilvántartást vezető személy kijelölésének szabályait;
-  - ab) a nyilvántartás vezetésére kijelölt személyt;
-  - ac) a nyilvántartásba vétel, és törlés eljárási szabályait; és
-- b) tájékoztatja a javában vagy nevében eljáró személyeket
-  - ba) a nyilvántartásba vétellel összefüggő jogi és közigazgatási kötelezettségekről; továbbá
-  - bb) a bennfentes információval való visszaélésnek és az ilyen információ nem megfelelő továbbításának következményeiről.
+- a) a bejelentő személyek tájékoztatása a tisztességtelen bánásmóddal szembeni jogorvoslati lehetőségekről, így különösen a kártérítési igények érvényesítésének lehetőségéről;
+- b) a bejelentő személyek Felügyelet általi támogatása bármely, a tisztességtelen bánásmód miatti jogorvoslati eljárás során, például oly módon, hogy a bejelentő személyt visszaélést bejelentő személyként igazolja a munkaügyi jogvitákban.
 
-(8) A nyilvántartást vezető személy a (7) bekezdésben említett szabályzatot a bennfentes információhoz hozzáférő személy számára – az adatszolgáltatását megelőzően – rendelkezésre bocsátja.
+### A személyes adatok védelmére vonatkozó eljárás
 
-(9) A nyilvántartás vezetésére kötelezett személy a nyilvántartásba vételt vagy a nyilvántartásból való törlést követően e tényről haladéktalanul értesíti a nyilvántartásba vett és a nyilvántartásból törölt személyeket.
+206/A. § (1) A Felügyelet biztosítja, hogy a 205. §-ban foglalt nyilvántartásokat bizalmas és biztonságos rendszerben tárolják.
 
-(10) A nyilvántartásba vétel és a nyilvántartás frissítése során a bennfentes információkhoz hozzáférő személy az adatok egyeztetése céljából bemutatja:
+(2) A rendszerben tárolt adatokhoz csak a Felügyelet azon munkatársai rendelkeznek hozzáféréssel, akik számára a hozzáférés szakmai kötelezettségük teljesítéséhez szükséges.
 
-- a) természetes személy esetén
-  - aa) ha a személy belföldi, személyazonosító igazolványát és a lakcímét igazoló hatósági igazolványát, vagy útlevelét és a lakcímét igazoló hatósági igazolványát, vagy kártya formátumú vezetői engedélyét és a lakcímét igazoló hatósági igazolványát,
-  - ab) ha a személy külföldi, útlevelét, személyi azonosító igazolványát vagy érvényes tartózkodási engedélyét;
-- b) jogi személy vagy jogi személyiséggel nem rendelkező más szervezet esetén azt a harminc napnál nem régebben kiállított okiratot, amely igazolja, hogy
-  - ba) a belföldi vállalkozást a cégbíróság bejegyezte, vagy a vállalkozás a bejegyzési kérelmét benyújtotta, egyéni vállalkozó esetében azt, hogy adószámmal rendelkezik, illetőleg az adóhatósági bejelentkezési kérelmét benyújtotta,
-  - bb) más belföldi jogi személy esetén, ha annak létrejöttéhez hatósági vagy bírósági nyilvántartásba vétel szükséges, a nyilvántartásba vétel megtörtént, illetőleg a nyilvántartásba vétel iránti kérelmét benyújtotta,
-  - bc) külföldi jogi személy vagy jogi személyiséggel nem rendelkező más szervezet esetén a saját országának joga szerinti bejegyzése vagy nyilvántartásba vétele megtörtént;
-- c) cégbejegyzési, hatósági vagy bírósági nyilvántartásba vétel iránti kérelem cégbírósághoz, hatósághoz vagy bírósághoz történő benyújtását megelőzően a jogi személy vagy jogi személyiséggel nem rendelkező más szervezet társasági szerződését (alapító okiratát, alapszabályát).
+(3) A Felügyelet gondoskodik a bejelentő és a bejelentett személy személyes adatainak biztonságos továbbítására vonatkozó eljárások kialakításáról.
 
-(11) A nyilvántartásban foglalt adatok frissítése esetén a legutolsó frissítést közvetlenül megelőző állapotot a frissítés évének utolsó napját követő öt évig meg kell őrizni.
+(4) A (3) bekezdésben foglalt eljárások biztosítják, hogy az adattovábbítás sem közvetlenül, sem közvetve nem fedi fel a bejelentő vagy a bejelentett személy személyazonosságát és nem teszi lehetővé annak kikövetkeztetését, kivéve, ha az ilyen továbbítás összhangban van a 203. § (1) bekezdés d) pontjában foglalt szabályozással.
 
-### Piacbefolyásolás
+### A bejelentett személyek védelmére vonatkozó eljárások
 
-202. § Piacbefolyásolásnak minősül
+206/B. § (1) Ha a bejelentett személyek személyazonossága nem ismert a nyilvánosság előtt, a Felügyelet biztosítja, hogy személyazonosságuk a jogsértésről szóló bejelentés alapján már megindult felügyeleti vizsgálat alatt álló személyekkel azonos védelemben részesüljön.
 
-- a) olyan ügylet kötése vagy ügylet kötésére megbízásadás, amely hamis vagy félrevezető jelzéseket ad vagy adhat az adott pénzügyi eszköz keresleti vagy kínálati viszonyairól, árfolyamáról;
-- b) olyan ügylet kötése vagy ügylet kötésére való megbízásadás, amely az adott pénzügyi eszköz árfolyamát mesterséges vagy rendellenes szinten rögzíti;
-- c) olyan ügylet kötése vagy ügylet kötésére megbízásadás, amely színlelt, illetve amelyben bármilyen más formájú megtévesztéshez, manipulációhoz folyamodnak; vagy
-- d) megalapozatlan, félrevezető, hamis információ közlése, híresztelése, nyilvánosságra hozása vagy nyilvános közlése, feltéve, hogy az információt terjesztő személy az információ megalapozatlan, félrevezető, hamis mivoltának tudatában van vagy az adott helyzetben elvárható gondossággal eljárva tudatában kellett volna lennie.
+(2) A bejelentett személyek személyazonosságának védelmére a 206/A. § alkalmazandó.
 
-### Kivételek a tilalom alól
+### Az eljárások felülvizsgálata
 
-203. § (1) Nem minősül bennfentes kereskedelemnek
+206/C. § (1) A Felügyelet legalább kétévente felülvizsgálja a jogsértésről szóló bejelentések átvételére és nyomon követésére vonatkozó eljárásait.
 
-- a) az az ügylet, amelyet a bennfentes információ birtokba jutásának időpontját megelőzően kötött megállapodás alapján teljesítenek;
-- b) a bennfentes információ átadása, amennyiben azt a bennfentes személy beosztásából kifolyólag, munkavégzése vagy szokásos feladatainak elvégzése során szolgáltatta.
-
-(2) Nem minősül piacbefolyásolásnak, ha a 202. § a)–b) pontjában foglaltak megvalósulása esetén:
-
-- a) az ügyletet kötő, illetve a megbízást adó bizonyítja, hogy az ügylet megkötéséhez, illetve a megbízás adásához méltányolható érdeke fűződött, és
-- b) a megbízás megfelel az adott szabályozott piac elfogadott piaci gyakorlatának.
-
-(3) Nem minősül bennfentes kereskedelemnek és piacbefolyásolásnak a részvényvisszavásárlási program keretében történő ügyletkötés, és pénzügyi eszközök árfolyamának stabilizálása érdekében kötött ügylet, ha azt a Bizottság 2273/2003/EK rendeletében szabályozott módon hajtják végre.
-
-(4) A kibocsátó – jogos érdekei sérelmének megelőzése érdekében – saját felelősségére késleltetheti a bennfentes információk nyilvánosságra hozatalát, ha
-
-- a) a késleltetés nem okozza a nyilvánosság félrevezetését,
-- b) a kibocsátó haladéktalanul bejelenti a Felügyeletnek a késleltetés tényét, és
-- c) a kibocsátó biztosítja a szóban forgó információ bizalmas kezelését.
-
-(5) A bennfentes információ nyilvánosságra hozatalának a (4) bekezdés alapján történő, kibocsátó általi késleltetésére vonatkozó részletes szabályokat külön jogszabály állapítja meg.
-
-(6)
-
-204. § (1) E rész alkalmazásában elfogadott piaci gyakorlat azon eljárások és cselekmények összessége, amelyek a piaci résztvevők által ismertek és alkalmazottak, az adott piacon az általánosan elfogadott szakmai elvek alapján elvárhatóak.
-
-(2) A Felügyelet az (1) bekezdésben, valamint a 202. §-ban meghatározott magatartások vizsgálatakor a körülmények összességét mérlegelve jár el, s az általa figyelembe veendő körülményeket külön jogszabály állapítja meg.
-
-(3) Az elfogadott piaci gyakorlat alapján a piaci szereplők tudomására hozandó információnak minősül az olyan információ, amely
-
-- a) a mindennapos gyakorlat szerint a piaci szereplők részére rendelkezésre áll, vagy
-- b) a jogszabályok, piaci szabályzatok, piaci szokványok, szerződési kötelezettség szerint a szabályozott piacon közzéteendő.
-
-(4)
-
-(5) E rész rendelkezéseinek alkalmazása során pénzügyi eszköznek minősül:
-
-- a) a pénzügyi eszköz, az egyéb tőzsdei termék és bármilyen más eszköz, amelyet szabályozott piacra bevezettek, vagy amelynek bevezetésére vonatkozóan az ilyen piacon történő forgalmazás engedélyezése iránti kérelmet nyújtottak be,
-- b) az az eszköz, amelyet szabályozott piacra nem vezettek be, de értéke az a) pontban felsorolt valamelyik eszköz értékétől vagy árfolyamától függ,
-- c) a nyilvánosan forgalomba hozott értékpapír a rendszeres, illetve rendkívüli tájékoztatási kötelezettség megszűnéséig.
-
-(6) E rész rendelkezéseinek alkalmazása során a befektetési jegy kibocsátójának a befektetési alap kezelője minősül.
-
-### Bennfentes kereskedelemre, piacbefolyásolásra utaló ügyletek bejelentése
-
-205. § (1) Bennfentes kereskedelemre, illetve piacbefolyásolásra utaló adat, tény vagy körülmény felmerülése esetén a befektetési szolgáltatási, kiegészítő befektetési szolgáltatási, árutőzsdei szolgáltatási tevékenységet végző személy (a továbbiakban: bejelentésre kötelezett személy) köteles azt a Felügyeletnek a tudomásszerzést követően haladéktalanul bejelenteni. Ha a bejelentés nem írásban történt, azt öt munkanapon belül írásban is meg kell ismételni.
-
-(2) Az (1) bekezdésben előírt bejelentés tartalmazza:
-
-- a) az ügylet leírását, ideértve a megbízás típusát, és a kereskedés piacának megnevezését;
-- b) a bennfentes kereskedelemre, illetve piacbefolyásolásra utaló adat, tény vagy körülmény rövid ismertetését;
-- c) megbízó és az ügylet lebonyolításában közreműködő személy azonosítására alkalmas adatokat, azaz természetes személy közreműködő esetében annak
-  - ca) természetes személyazonosító adatait,
-  - cb) lakcímét,
-  - cc)–cd)
-  - ce) állampolgárságát;
-- d) hogy a bejelentő személy milyen minőségben jár el;
-- e) a bennfentes kereskedelemre, piacbefolyásolásra utaló ügyletek vizsgálata szempontjából fontos minden egyéb adatot.
-
-(3) Amennyiben a (2) bekezdésben foglalt adatok a bejelentés időpontjában nem állnak rendelkezésre, a bejelentésnek tartalmaznia kell legalább azt, hogy milyen okból merült fel a bejelentőben az a gyanú, hogy az ügylet bennfentes kereskedelemnek vagy piacbefolyásolásnak minősülhet. Minden további információt – mihelyt rendelkezésre áll – haladéktalanul meg kell küldeni a Felügyeletnek.
-
-(4) A bejelentésre kötelezett személy kijelöl – a szervezet sajátosságától függően – egy vagy több személyt (a továbbiakban: kijelölt személy), aki az (1) bekezdésben előírt bejelentést a Felügyeletnek haladéktalanul továbbítja. A kijelölt személy nevéről, beosztásáról, valamint az ezekben bekövetkezett változásról a bejelentésre kötelezett személy a kijelöléstől számított öt munkanapon belül köteles tájékoztatást küldeni a Felügyelet részére.
-
-(5) A bejelentésre kötelezett személy, ideértve a kijelölt személyt is, a bejelentési kötelezettség teljesítéséről, annak tartalmáról és a kijelölt személyről – kivéve a büntetőeljárás lefolytatására jogosult hatóságot és a bíróságot – harmadik személynek vagy szervezetnek, ideértve az ügyfelet is, tájékoztatást nem adhat, és köteles biztosítani, hogy a bejelentés megtörténte, annak tartalma és a bejelentő személye titokban maradjon.
-
-(6) A bejelentésre kötelezett személyt, illetve a kijelölt személyt – jóhiszeműsége esetén – akkor sem terheli felelősség a bejelentésért, ha az utóbb megalapozatlannak bizonyul.
-
-(7) A bejelentésre kötelezett személy köteles gondoskodni arról, hogy alkalmazottai a bennfentes kereskedelemre és a piacbefolyásolásra vonatkozó jogszabályi rendelkezéseket megismerjék, a bennfentes kereskedelmet és a piacbefolyásolást lehetővé tevő, illetőleg megvalósító üzleti kapcsolatokat, ügyleti megbízásokat megtanulják felismerni, és a bennfentes kereskedelem és a piacbefolyásolás gyanújára okot adó esetekben megfelelően tudjanak eljárni.
-
-(8) A Felügyelet a bejelentésre kötelezett személy, illetve a kijelölt személy személyazonosságát, az (1) bekezdés alapján tett bejelentés tényére, illetve annak tartalmára vonatkozó információt harmadik személynek – kivéve a büntetőeljárás lefolytatására jogosult hatóságot, bíróságot, illetve törvény felhatalmazása alapján a külföldi felügyeleti hatóságot – nem adhat át.
-
-(9) A Felügyelet az (1) bekezdés alapján tett bejelentések révén tudomására jutott információt kizárólag a bennfentes kereskedelem és piacbefolyásolás elleni küzdelem céljaira, feladatainak ellátása érdekében használhatja fel, és az adatokat három évig köteles megőrizni úgy, hogy azokból a változás dátuma és a változás előtti adatok is megállapíthatóak legyenek.
-
-(10) A Felügyelet a gyanús ügyletekre vonatkozó bejelentés átvételét követően az abban foglalt információt – a (9) bekezdésben foglalt célok elérése érdekében – a bejelentés beérkezését követő két munkanapon belül továbbítja az érintett szabályozott piacok illetékes hatóságaihoz.
-
-### XXI/A. Fejezet — BEFEKTETÉSI AJÁNLÁS
-
-205/A. § E fejezet rendelkezéseit csak a közvetlen befektetési ajánlások tekintetében kell alkalmazni az elemzőnek nem minősülő személyre, illetve az elemző számára munkaviszony vagy munkavégzésre irányuló egyéb jogviszony keretében tevékenységet végző természetes személyre.
-
-205/B. § (1) A befektetési ajánlásnak egyértelműen és feltűnő módon tartalmaznia kell:
-
-- a) a befektetési ajánlást készítő személy nevét, jogi személy, jogi személyiség nélküli egyéb szervezet, egyéni vállalkozó székhelyét; illetőleg
-- b) a befektetési ajánlás tartalmának kialakításában közreműködő természetes személy nevét, beosztását és munkakörét.
-
-(2) Ha a befektetési ajánlást készítő személy befektetési vállalkozás vagy hitelintézet, akkor az (1) bekezdésben meghatározottakon túl a befektetés ajánlásnak tartalmaznia kell az érintett személy felügyeletét ellátó, illetékes felügyeleti hatóság megnevezését is.
-
-(3) Ha az érintett személy – ide nem értve a befektetési vállalkozást és a hitelintézetet – önszabályozó szervezet tagja és az önszabályozó szervezet által kibocsátott etikai, szakmai szabályok hatálya alá tartozik, akkor az (1) bekezdésben meghatározottakon túlmenően a befektetési ajánlásnak tartalmaznia kell az önszabályozó szervezet ilyen szabályaira történő hivatkozást is.
-
-205/C. § (1) Az érintett személy a befektetési ajánlás elkészítése, illetve terjesztése során az adott helyzetben általában elvárható gondossággal jár el.
-
-(2) Az érintett személy a Felügyelet kérésére bizonyítani köteles, hogy a befektetési ajánlás szakmailag megalapozott.
-
-(3) A befektetési ajánlásnak tartalmaznia kell:
-
-- a) a tény, az azon alapuló értelmezés, a becslés és a vélemény, illetve az egyéb nem tényszerű információ egyértelmű megkülönböztetését;
-- b) a felhasznált információ megbízhatóságának minősítését; és
-- c) a becslés, az előrejelzés, a valószínűsített árfolyam ilyenként történő megjelölését, illetve az alkalmazott feltételezést.
-
-(4) Az elemző, annak kapcsolt vállalkozása vagy ezek számára munkaviszony vagy munkavégzésre irányuló egyéb jogviszony keretében tevékenységet végző természetes személy által készített befektetési ajánlásnak az (1) bekezdésben meghatározottakon túlmenően tartalmaznia kell:
-
-- a) a befektetési ajánlás készítésénél használt forrás megjelölését;
-- b) azt, hogy a befektetési ajánlás tartalmáról a kibocsátót tájékoztatták-e, illetve, hogy a kibocsátó észrevételét a befektetési ajánlás tartalmának meghatározása során figyelembe vették-e;
-- c) a pénzügyi eszköz vagy a pénzügyi eszköz kibocsátója értékeléséhez, illetve a pénzügyi eszköz valószínűsített célárfolyamának megállapításához használt adatot, illetőleg a módszertan összegzését;
-- d) a befektetési ajánlás érvényességének időtartamát, a kockázati tényezőket, és az azok jellegére, mértékére vonatkozó figyelmeztetést;
-- e) a befektetési ajánlás frissítésének tervezett gyakoriságát, illetve ha a befektetési ajánlásban felhasznált, feldolgozott adat a korábbiakban alkalmazotthoz képest jelentős mértékben megváltozott, ennek tényét; és
-- f) egyértelműen és feltűnő módon a befektetési ajánlás első közlésének időpontját, valamint a befektetési ajánlásban szereplő árfolyam napját és időpontját.
-
-(5) Ha a befektetési ajánlás eltér az ugyanarra a pénzügyi eszközre vagy kibocsátóra vonatkozó, a megelőző tizenkét hónapban az érintett személy által közölt befektetési ajánlástól, a befektetési ajánlásban egyértelműen és feltűnő módon meg kell jelölni ezt a változást és a legutóbb közölt befektetési ajánlás közlésének napját.
-
-205/D. § (1) A befektetési ajánlásnak tartalmaznia kell:
-
-- a) az érintett személy minden, a befektetési ajánlás tárgyilagos megítélése szempontjából jelentős jogviszonyát és egyéb körülményt, ideértve a befektetési ajánlás tárgyát képező pénzügyi eszközhöz kötődő pénzügyi érdekeltségét; illetve
-- b) ha az érintett személy a kibocsátóval jogvitában áll, a jogvita tárgyát, jellegét.
-
-(2) Ha az érintett személy nem természetes személy, akkor az (1) bekezdésben foglaltakat kell alkalmazni
-
-- a) minden olyan személyre, aki a befektetési ajánlás tartalmának kialakításában ténylegesen részt vett, továbbá
-- b) az érintett személy kapcsolt vállalkozásaira.
-
-(3) A (2) bekezdés szerinti esetben a befektetési ajánlásnak tartalmaznia kell a befektetési ajánlás tárgyilagos megítélése szempontjából jelentős olyan adatot, amelyhez bármely, a befektetési ajánlás tartalmának kialakításában részt vevő személy hozzáférhet, továbbá minden olyan adatot, amely ismert azon személy számára, aki a befektetési ajánlás szövegéhez annak közlése előtt hozzáférhetett.
-
-(4) Ha az érintett személy elemző vagy annak kapcsolt vállalkozása, a befektetési ajánlásnak egyértelműen és feltűnő módon tartalmaznia kell:
-
-- a) a kibocsátó, valamint az érintett személy vagy annak kapcsolt vállalkozása között fennálló tulajdonosi kapcsolatot, ha annak mértéke meghaladja a jegyzett tőke öt százalékát;
-- b) az érintett személynek vagy kapcsolt vállalkozásának a kibocsátóhoz fűződő egyéb pénzügyi érdekeltségét;
-- c) az érintett személynek vagy kapcsolt vállalkozásának a befektetési ajánlásban szereplő pénzügyi eszköz piacán meglévő részesedésének mértékét;
-- d) annak tényét, ha az érintett személy vagy kapcsolt vállalkozása a befektetési ajánlás közlését megelőző tizenkét hónapban közreműködött a kibocsátó pénzügyi eszközeinek nyilvános forgalomba hozatalában; és
-- e) azt, hogy
-  - ea) az érintett személy vagy kapcsolt vállalkozása a befektetési ajánlás közlését megelőző tizenkét hónapban befektetési szolgáltatás nyújtására vagy igénybevételére vonatkozó szerződéses jogviszonyban állt-e a kibocsátóval, vagy került-e sor korábban kötött szerződés alapján ellenérték megfizetésére;
-  - eb) az érintett személy vagy kapcsolt vállalkozása szerződéses jogviszonyban áll-e a kibocsátóval befektetési ajánlás készítésére.
-
-(5) Ha az érintett személy befektetési vállalkozás vagy hitelintézet, a befektetési ajánlásban be kell mutatni a befektetési ajánlás tekintetében az összeférhetetlenség megelőzését biztosító szervezeti és ügyviteli szabályokat, ideértve az információhoz való hozzáférésre vonatkozó korlátozást.
-
-(6) Ha az érintett személy befektetési vállalkozás vagy hitelintézet, a befektetési ajánlásnak tartalmaznia kell, hogy a (2) bekezdés a) pontjában meghatározott személy díjazása kötődik-e a befektetési vállalkozás vagy a hitelintézet, illetve kapcsolt vállalkozása saját számlára kötött ügyletéhez. Ha a (2) bekezdés a) pontja szerinti természetes személy a kibocsátó által kibocsátott értékpapír nyilvános forgalomba hozatala előtt tulajdont szerzett a kibocsátott értékpapírból, a befektetési ajánlásnak tartalmaznia kell az értékpapír megszerzésének időpontját, mennyiségét és a természetes személy által fizetett ellenértéket.
-
-(7) A befektetési vállalkozás és a hitelintézet a befektetési ajánlásban közli az elmúlt negyedévben készített összes befektetési ajánlásában
-
-- a) a „vételre ajánlott”, a „tartásra ajánlott”, az „eladásra ajánlott” befektetési ajánlások arányát; valamint
-- b) az a) pontban szereplő bontás szerint azon befektetési ajánlások arányát, amelyek olyan kibocsátóra vonatkoznak, akinek az előző tizenkét hónapban befektetési szolgáltatást nyújtott.
-
-205/E. § Más személy által készített befektetési ajánlás terjesztése esetén, egyértelműen és feltűnő módon fel kell tüntetni a befektetési ajánlás terjesztőjének nevét jogi személy, jogi személyiség nélküli egyéb szervezet, illetve egyéni vállalkozó esetén székhelyét.
-
-205/F. § (1) Más személy által készített befektetési ajánlás tartalmilag megváltoztatott terjesztése esetén a befektetési ajánlásban egyértelműen és részletesen meg kell jelölni a módosítást. A megváltoztatott rész tekintetében a 205/B–205/C. §-t, valamint a 205/D. § (1)–(3) bekezdését, illetve ha a terjesztő befektetési vállalkozás vagy hitelintézet, akkor a 205/D. § (4)–(7) bekezdését a terjesztőre is megfelelően alkalmazni kell.
-
-(2) Annak a jogi személynek, jogi személyiséggel nem rendelkező egyéb szervezetnek, aki tartalmilag megváltoztatott befektetési ajánlást terjeszt, – belső szabályzatában meghatározott módon – biztosítania kell, hogy a befektetési ajánlás készítőjének személyére vonatkozó, a 205/D. §-ban meghatározott adat, információ bármely olyan személy számára feltétel nélkül hozzáférhető legyen, aki részére a befektetési ajánlás terjesztésre került.
-
-(3) Más személy által készített befektetési ajánlás kivonatos terjesztése esetén a terjesztőnek biztosítania kell, hogy az ilyen módon terjesztett befektetési ajánlás világos és egyértelmű legyen, ne legyen félrevezető, valamint meg kell határoznia a forrást és azt, hogy a 205/B–205/D. § szerint közölt információhoz hol lehet hozzáférni.
-
-205/G. § (1) A 205/E–205/F. §-ban meghatározottakon túlmenően a befektetési vállalkozás, a hitelintézet vagy az ezek számára munkaviszony vagy munkavégzésre irányuló egyéb jogviszony keretében tevékenységet végző természetes személy a más személy által készített befektetési ajánlás terjesztésekor köteles egyértelműen és feltűnő módon feltüntetni a befektetési vállalkozás, illetve a hitelintézet felügyeletét ellátó, illetékes felügyeleti hatóság megnevezését.
-
-(2) Az (1) bekezdésben meghatározott esetben a befektetési ajánlás terjesztőjére megfelelően alkalmazni kell a 205/D. § (4)–(7) bekezdését, ha befektetési ajánlás készítője a 205/D. § (4)–(7) bekezdésében meghatározottakat nem közli.
-
-205/H. § (1) Ha az érintett személy a befektetési ajánlást nem nyomtatott formában közli, a 205/B. § (1) bekezdés b) pontjában, (2)–(3) bekezdésében, a 205/C. § (4)–(5) bekezdésében, illetve a 205/D. § (1)–(2) bekezdésében, (4) bekezdésének b)–e) pontjában és (5)–(7) bekezdésében foglalt adat, információ egy feltétel és korlátozás nélkül hozzáférhető honlapon is közzétehető, ha a befektetési ajánlás egyértelműen és feltűnő módon megjelöli ezt a tényt és tartalmazza a honlap címét.
-
-(2) A 205/C. § (4) bekezdésének a)–d) pontjában és a 205/D. § (1)–(2) és (5)–(7) bekezdésében meghatározottak befektetési ajánlásban történő közlésétől kizárólag terjedelmi okok miatt és akkor lehet eltekinteni, ha az alkalmazott módszertan vagy az értékelés alapja nem változott, valamint ezek az (1) bekezdésben meghatározott honlapon közzétételre kerülnek.
-
-(3) Az (1)–(2) bekezdésben foglaltak nem alkalmazhatóak az érintett személynek a befektetési ajánlás tárgyát képező pénzügyi eszközhöz fűződő pénzügyi érdekeltségére vonatkozó adatra.
-
-### XXII. Fejezet — FELÜGYELETI EGYÜTTMŰKÖDÉS
-
-206. § (1) A Felügyelet a tagállamok felügyeleti hatóságainak kérésére haladéktalanul rendelkezésre bocsátja a bennfentes kereskedelem és a piacbefolyásolás tárgyában kért adatokat.
-
-(2) A Felügyelet a bennfentes kereskedelem és a piacbefolyásolás tárgyában külföldi felügyeleti hatóság adatátadás iránti megkeresésének teljesítését megtagadhatja, ha:
-
-- a)
-- b) az adott ügyben bírósági eljárás van folyamatban, illetőleg
-- c) az adott ügyben már jogerős ítéletet hoztak.
-
-(3) A Felügyelet a (2) bekezdésben meghatározott megkeresés megtagadása esetén a külföldi felügyeleti hatóságnak tájékoztatást ad a (2) bekezdés b) pontja szerinti eljárásról, illetve a (2) bekezdés c) pontjában foglalt jogerős ítéletről.
-
-(4) Ha a Felügyelet tudomására jut, hogy az Európai Unió másik tagállamában bennfentes kereskedelemmel, illetőleg piacbefolyásolással kapcsolatos cselekményeket követnek vagy követtek el, értesíti az illetékes felügyeleti hatóságot.
-
-(5) A Felügyelet adatkezelésére, adatközlésére és adattovábbítására e törvény 392–394. §-ában foglaltakat és külön jogszabály előírásait kell alkalmazni.
+(2) A felülvizsgálat során a Felügyelet figyelembe veszi saját és a többi tagállam hatáskörrel rendelkező hatóságainak tapasztalatait, és azoknak megfelelően – valamint a piaci és a műszaki fejlődéssel összhangban – kiigazítja eljárásait.
 
 ## HETEDIK RÉSZ — A BEFEKTETŐK VÉDELME
 
@@ -3960,9 +3754,7 @@ a 909/2014/EU rendelet szerinti központi értéktári tevékenység – szakos�
 - n) a nyilvánosan forgalomba hozott értékpapírokkal kapcsolatos tájékoztatási kötelezettség teljesítésének formáját és tartalmát.
 - o)
 - p)
-- q) a piacbefolyásolásra utaló magatartások minősítésekor figyelembe veendő körülményeket;
-- r) az elfogadott piaci gyakorlat megállapításának részletes szabályait;
-- s) a bennfentes információ nyilvánosságra hozatalának kibocsátó általi késleltetésére vonatkozó részletes szabályokat;
+- q)–s)
 - t) a belső ellenőrzési rendszerekre, eljárásokra vonatkozó részletes szabályokat;
 - u) a szabályozott piac és a tőzsde tájékoztatási kötelezettségének tartalmára vonatkozó részletszabályokat.
 
@@ -4355,33 +4147,33 @@ E törvény és az e törvény felhatalmazása alapján kiadott jogszabályok al
 
 Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-- 1–3.
-- 4. Az Európai Parlament és a Tanács 1997. március 3-i 97/9/EK irányelve a befektetővédelmi rendszerekről.
-- 5. Az Európai Parlament és a Tanács 2001. május 28-i, 2001/34/EK irányelve az értékpapírok hivatalos tőzsdei jegyzésre történő bevezetéséről és az ilyen értékpapírokról közzéteendő információról.
-- 6–7.
-- 8. Az Európai Parlament és a Tanács 2002. június 6-i 2002/47/EK irányelve a pénzügyi biztosítékokról szóló megállapodásokról.
-- 9. Az Európai Parlament és a Tanács 2002. december 16-i 2002/87/EK irányelve a pénzügyi konglomerátumhoz tartozó hitelintézetek, biztosítók és befektetési vállalkozások kiegészítő felügyeletéről, valamint a 73/239/EGK, a 79/267/EGK, a 92/96/EGK, a 93/6/EGK és a 93/22/EGK tanácsi, továbbá a 98/78/EK és a 2000/12/EK európai parlamenti és tanácsi irányelv módosításáról.
-- 10. Az Európai Parlament és a Tanács 2003. november 4-i 2003/71/EK irányelve az értékpapírok nyilvános kibocsátásakor vagy piaci bevezetésekor közzéteendő tájékoztatóról és a 2001/34/EK irányelv módosításáról.
-- 11. Az Európai Parlament és a Tanács 2003. január 28-i 2003/6/EK irányelve a bennfentes kereskedelemről és a piaci manipulációról (piaci visszaélés).
-- 12. A Bizottság 2003. december 22-i 2003/124/EK irányelve a 2003/6/EK európai parlamenti és tanácsi irányelvnek a bennfentes információ meghatározása és közzététele, valamint a piaci manipuláció meghatározása tekintetében történő végrehajtásáról.
-- 13. A Bizottság 2003. december 22-i 2003/125/EK irányelve a 2003/6/EK európai parlamenti és tanácsi irányelvnek a befektetési ajánlások tisztességes ismertetése és az összeférhetetlenség közzététele tekintetében történő végrehajtásáról.
-- 14. Az Európai Parlament és a Tanács 2004. április 21-i 2004/25/EK irányelve a nyilvános vételi ajánlatról.
-- 15. Az Európai Parlament és a Tanács 2004. április 21-i 2004/39/EK irányelve a pénzügyi eszközök piacairól, a 85/611/EGK és a 93/6/EGK tanácsi irányelv és a 2000/12/EK európai parlamenti és tanácsi irányelv módosításáról, valamint a 93/22/EGK tanácsi irányelv hatályon kívül helyezéséről.
-- 16. A Bizottság 2004. április 29-i 2004/72/EK irányelve a 2003/6/EK európai parlamenti és tanácsi irányelvnek az elfogadott piaci gyakorlatok, az árualapú származtatott ügyletekre vonatkozó bennfentes információ fogalom meghatározása, a bennfentesek jegyzékének összeállítása, a vezetői ügyletek bejelentése és a gyanús ügyletek bejelentése tekintetében történő végrehajtásáról.
-- 17. Az Európai Parlament és a Tanács 2004. december 15-i 2004/109/EK irányelve a szabályozott piacra bevezetett értékpapírok kibocsátóival kapcsolatos információkra vonatkozó átláthatósági követelmények harmonizációjáról és a 2001/34/EK irányelv módosításáról.
-- 18. Az Európai Parlament és a Tanács 2006. május 17-i 2006/43/EK irányelve az éves és összevont (konszolidált) éves beszámolók jog szerinti könyvvizsgálatáról, a 78/660/EGK és a 83/349/EGK tanácsi irányelv módosításáról, valamint a 84/253/EGK tanácsi irányelv hatályon kívül helyezéséről.
-- 19. Az Európai Parlament és a Tanács 2006. június 14-i 2006/48/EK irányelve a hitelintézetek tevékenységének megkezdéséről és folytatásáról (átdolgozott szöveg).
-- 20. Az Európai Parlament és a Tanács 2006. június 14-i 2006/49/EK irányelve a befektetési vállalkozások és hitelintézetek tőkemegfeleléséről (átdolgozott szöveg).
-- 21. A Bizottság 2006. augusztus 10-i 2006/73/EK irányelve a 2004/39/EK európai parlamenti és tanácsi irányelvnek a befektetési vállalkozások szervezeti követelményei és működési feltételei, valamint az irányelv alkalmazásában meghatározott kifejezések tekintetében történő végrehajtásáról.
-- 22. A Bizottság 2007. március 8-i 2007/14/EK irányelve a szabályozott piacra bevezetett értékpapírok kibocsátóival kapcsolatos információkra vonatkozó átláthatósági követelmények harmonizációjáról szóló 2004/109/EK irányelv egyes rendelkezéseinek végrehajtására irányadó részletes szabályok megállapításáról.
-- 23. A tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet.
-- 24. Az Európai Parlament és a Tanács 2007. szeptember 5-i 2007/44/EK irányelve a 97/49/EGK tanácsi irányelvnek és a 2002/83/EK, a 2004/39/EK, a 2005/68/EK és a 2006/48/EK irányelvnek a pénzügyi szektorbeli részesedésszerzések és részesedésnövelések prudenciális értékelésének eljárási szabályai és az értékelés kritériumai tekintetében történő módosításáról.
-- 25. Az Európai Parlament és a Tanács 2010. november 24-i 2010/78/EU irányelve a 98/26/EK, 2002/87/EK, 2003/6/EK, 2003/41/EK, 2003/71/EK, 2004/39/EK, 2004/109/EK, 2005/60/EK, 2006/48/EK, 2006/49/EK és 2009/65/EK irányelvnek az európai felügyeleti hatóság (Európai Bankhatóság), az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról.
-- 26. Az Európai Parlament és a Tanács 2010. november 24-i 2010/73/EU irányelve az értékpapírok nyilvános kibocsátásakor vagy piaci bevezetésekor közzéteendő tájékoztatóról szóló 2003/71/EK és a szabályozott piacra bevezetett értékpapírok kibocsátóival kapcsolatos információkra vonatkozó átláthatósági követelmények harmonizációjáról szóló 2004/109/EK irányelv módosításáról.
-- 27. Az Európai Parlament és a Tanács 2011. november 16-i 2011/89/EU irányelve a 98/78/EK, a 2002/87/EK, a 2006/48/EK és a 2009/138/EK irányelvnek a pénzügyi konglomerátumhoz tartozó pénzügyi vállalkozások kiegészítő felügyelete tekintetében történő módosításáról.
-- 28. Az Európai Parlament és a Tanács 2014/51/EU irányelve (2014. április 16.) a 2003/71/EK és a 2009/138/EK irányelvnek, valamint az 1060/2009/EK, az 1094/2010/EU és az 1095/2010/EU rendeletnek az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról.
-- 29. Az Európai Parlament és a Tanács 909/2014/EU rendelete (2014. július 23.) az Európai Unión belüli értékpapír-kiegyenlítés javításáról és a központi értéktárakról, valamint 98/26/EK és a 2014/65/EU irányelv, valamint a 236/2012/EU rendelet módosításáról.
-- 30. Az Európai Parlament és a Tanács 2013/50/EU irányelve (2013. október 22.) a szabályozott piacra bevezetett értékpapírok kibocsátóival kapcsolatos információkra vonatkozó átláthatósági követelmények harmonizációjáról szóló 2004/109/EK európai parlamenti és tanácsi irányelv, az értékpapírok nyilvános kibocsátásakor vagy piaci bevezetésekor közzéteendő tájékoztatóról szóló 2003/71/EK európai parlamenti és tanácsi irányelv, valamint a 2004/109/EK irányelv egyes rendelkezéseinek végrehajtására irányadó részletes szabályok megállapításáról szóló 2007/14/EK bizottsági irányelv módosításáról.
-- 30. A Tanács 2014/107/EU irányelve (2014. december 9.) a 2011/16/EU tanácsi irányelvnek az adózás területére vonatkozó kötelező automatikus információcsere tekintetében történő módosításáról.
+- 1. Az Európai Parlament és a Tanács 1997. március 3-i 97/9/EK irányelve a befektetővédelmi rendszerekről.
+- 2. Az Európai Parlament és a Tanács 2001. május 28-i, 2001/34/EK irányelve az értékpapírok hivatalos tőzsdei jegyzésre történő bevezetéséről és az ilyen értékpapírokról közzéteendő információról.
+- 3. Az Európai Parlament és a Tanács 2002. június 6-i 2002/47/EK irányelve a pénzügyi biztosítékokról szóló megállapodásokról.
+- 4. Az Európai Parlament és a Tanács 2002. december 16-i 2002/87/EK irányelve a pénzügyi konglomerátumhoz tartozó hitelintézetek, biztosítók és befektetési vállalkozások kiegészítő felügyeletéről, valamint a 73/239/EGK, a 79/267/EGK, a 92/96/EGK, a 93/6/EGK és a 93/22/EGK tanácsi, továbbá a 98/78/EK és a 2000/12/EK európai parlamenti és tanácsi irányelv módosításáról.
+- 5. Az Európai Parlament és a Tanács 2003. november 4-i 2003/71/EK irányelve az értékpapírok nyilvános kibocsátásakor vagy piaci bevezetésekor közzéteendő tájékoztatóról és a 2001/34/EK irányelv módosításáról.
+- 6. Az Európai Parlament és a Tanács 2003. január 28-i 2003/6/EK irányelve a bennfentes kereskedelemről és a piaci manipulációról (piaci visszaélés).
+- 7. A Bizottság 2003. december 22-i 2003/124/EK irányelve a 2003/6/EK európai parlamenti és tanácsi irányelvnek a bennfentes információ meghatározása és közzététele, valamint a piaci manipuláció meghatározása tekintetében történő végrehajtásáról.
+- 8. A Bizottság 2003. december 22-i 2003/125/EK irányelve a 2003/6/EK európai parlamenti és tanácsi irányelvnek a befektetési ajánlások tisztességes ismertetése és az összeférhetetlenség közzététele tekintetében történő végrehajtásáról.
+- 9. Az Európai Parlament és a Tanács 2004. április 21-i 2004/25/EK irányelve a nyilvános vételi ajánlatról.
+- 10. Az Európai Parlament és a Tanács 2004. április 21-i 2004/39/EK irányelve a pénzügyi eszközök piacairól, a 85/611/EGK és a 93/6/EGK tanácsi irányelv és a 2000/12/EK európai parlamenti és tanácsi irányelv módosításáról, valamint a 93/22/EGK tanácsi irányelv hatályon kívül helyezéséről.
+- 11. A Bizottság 2004. április 29-i 2004/72/EK irányelve a 2003/6/EK európai parlamenti és tanácsi irányelvnek az elfogadott piaci gyakorlatok, az árualapú származtatott ügyletekre vonatkozó bennfentes információ fogalom meghatározása, a bennfentesek jegyzékének összeállítása, a vezetői ügyletek bejelentése és a gyanús ügyletek bejelentése tekintetében történő végrehajtásáról.
+- 12. Az Európai Parlament és a Tanács 2004. december 15-i 2004/109/EK irányelve a szabályozott piacra bevezetett értékpapírok kibocsátóival kapcsolatos információkra vonatkozó átláthatósági követelmények harmonizációjáról és a 2001/34/EK irányelv módosításáról.
+- 13. Az Európai Parlament és a Tanács 2006. május 17-i 2006/43/EK irányelve az éves és összevont (konszolidált) éves beszámolók jog szerinti könyvvizsgálatáról, a 78/660/EGK és a 83/349/EGK tanácsi irányelv módosításáról, valamint a 84/253/EGK tanácsi irányelv hatályon kívül helyezéséről.
+- 14. Az Európai Parlament és a Tanács 2006. június 14-i 2006/48/EK irányelve a hitelintézetek tevékenységének megkezdéséről és folytatásáról (átdolgozott szöveg).
+- 15. Az Európai Parlament és a Tanács 2006. június 14-i 2006/49/EK irányelve a befektetési vállalkozások és hitelintézetek tőkemegfeleléséről (átdolgozott szöveg).
+- 16. A Bizottság 2006. augusztus 10-i 2006/73/EK irányelve a 2004/39/EK európai parlamenti és tanácsi irányelvnek a befektetési vállalkozások szervezeti követelményei és működési feltételei, valamint az irányelv alkalmazásában meghatározott kifejezések tekintetében történő végrehajtásáról.
+- 17. A Bizottság 2007. március 8-i 2007/14/EK irányelve a szabályozott piacra bevezetett értékpapírok kibocsátóival kapcsolatos információkra vonatkozó átláthatósági követelmények harmonizációjáról szóló 2004/109/EK irányelv egyes rendelkezéseinek végrehajtására irányadó részletes szabályok megállapításáról.
+- 18. A tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet.
+- 19. Az Európai Parlament és a Tanács 2007. szeptember 5-i 2007/44/EK irányelve a 97/49/EGK tanácsi irányelvnek és a 2002/83/EK, a 2004/39/EK, a 2005/68/EK és a 2006/48/EK irányelvnek a pénzügyi szektorbeli részesedésszerzések és részesedésnövelések prudenciális értékelésének eljárási szabályai és az értékelés kritériumai tekintetében történő módosításáról.
+- 20. Az Európai Parlament és a Tanács 2010. november 24-i 2010/78/EU irányelve a 98/26/EK, 2002/87/EK, 2003/6/EK, 2003/41/EK, 2003/71/EK, 2004/39/EK, 2004/109/EK, 2005/60/EK, 2006/48/EK, 2006/49/EK és 2009/65/EK irányelvnek az európai felügyeleti hatóság (Európai Bankhatóság), az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról.
+- 21. Az Európai Parlament és a Tanács 2010. november 24-i 2010/73/EU irányelve az értékpapírok nyilvános kibocsátásakor vagy piaci bevezetésekor közzéteendő tájékoztatóról szóló 2003/71/EK és a szabályozott piacra bevezetett értékpapírok kibocsátóival kapcsolatos információkra vonatkozó átláthatósági követelmények harmonizációjáról szóló 2004/109/EK irányelv módosításáról.
+- 22. Az Európai Parlament és a Tanács 2011. november 16-i 2011/89/EU irányelve a 98/78/EK, a 2002/87/EK, a 2006/48/EK és a 2009/138/EK irányelvnek a pénzügyi konglomerátumhoz tartozó pénzügyi vállalkozások kiegészítő felügyelete tekintetében történő módosításáról.
+- 23. Az Európai Parlament és a Tanács 2014/51/EU irányelve (2014. április 16.) a 2003/71/EK és a 2009/138/EK irányelvnek, valamint az 1060/2009/EK, az 1094/2010/EU és az 1095/2010/EU rendeletnek az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról.
+- 24. Az Európai Parlament és a Tanács 909/2014/EU rendelete (2014. július 23.) az Európai Unión belüli értékpapír-kiegyenlítés javításáról és a központi értéktárakról, valamint 98/26/EK és a 2014/65/EU irányelv, valamint a 236/2012/EU rendelet módosításáról.
+- 25. Az Európai Parlament és a Tanács 2013/50/EU irányelve (2013. október 22.) a szabályozott piacra bevezetett értékpapírok kibocsátóival kapcsolatos információkra vonatkozó átláthatósági követelmények harmonizációjáról szóló 2004/109/EK európai parlamenti és tanácsi irányelv, az értékpapírok nyilvános kibocsátásakor vagy piaci bevezetésekor közzéteendő tájékoztatóról szóló 2003/71/EK európai parlamenti és tanácsi irányelv, valamint a 2004/109/EK irányelv egyes rendelkezéseinek végrehajtására irányadó részletes szabályok megállapításáról szóló 2007/14/EK bizottsági irányelv módosításáról.
+- 26. A Tanács 2014/107/EU irányelve (2014. december 9.) a 2011/16/EU tanácsi irányelvnek az adózás területére vonatkozó kötelező automatikus információcsere tekintetében történő módosításáról.
+- 27. A piaci visszaélésekről (piaci visszaélésekről szóló rendelet), valamint a 2003/6/EK európai parlamenti és tanácsi irányelv és a 2003/124/EK, a 2003/125/EK és a 2004/72/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 596/2014/EU európai parlamenti és tanácsi rendelet.
+- 28. Az 596/2014/EU európai parlamenti és tanácsi rendelet tényleges vagy lehetséges megsértésének illetékes hatóságoknak történő bejelentéséről szóló, 2015. december 17-i 2015/2392 bizottsági végrehajtási irányelv.
 
 ### 26. számú melléklet a 2001. évi CXX. törvényhez
