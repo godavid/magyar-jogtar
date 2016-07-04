@@ -189,7 +189,7 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 - a) az ügyfélszolgálat működésére vonatkozóan további részletes szabályokat állapíthat meg,
 - b) az ellátott fogyasztók számára és földrajzi eloszlására figyelemmel indokolt esetben a (2) bekezdés a) pontjától eltérő nyitva tartást írhat elő, ha a hét egy munkanapján a meghosszabbított nyitva tartás 20 óráig, vagy külön törvényben meghatározott ügyfélszolgálati fiókiroda esetében 18 óráig biztosított.
 
-(5) A 17/A. §-tól eltérően az ügyfélszolgálat minden esetben köteles a vállalkozás panasszal kapcsolatos álláspontját és intézkedéseit indokolással ellátva írásba foglalni, és a fogyasztónak a panasz beérkezését követő tizenöt napon belül megküldeni, kivéve, ha a fogyasztó panaszát szóban közli és a vállalkozás az abban foglaltaknak nyomban eleget tesz.
+(5) A 17/A. §-tól eltérően az ügyfélszolgálat minden esetben köteles a vállalkozás panasszal kapcsolatos álláspontját és intézkedéseit indokolással ellátva írásba foglalni, és a fogyasztónak a panasz beérkezését követő tizenöt napon belül megküldeni, kivéve, ha a fogyasztó panaszát szóban közli és a vállalkozás az abban foglaltaknak nyomban eleget tesz. A korábbi, érdemben megválaszolt panasz tartalmával azonos tartalmú, ugyanazon fogyasztó által tett, ismételt, új információt nem tartalmazó panasz, valamint az azonosíthatatlan személy által tett fogyasztói panasz kivizsgálását a vállalkozás mellőzheti.
 
 (6) Az (5) bekezdés szerinti válaszadási határidő helyszíni vizsgálat vagy valamely hatóság megkeresésének szükségessége esetén egy alkalommal legfeljebb tizenöt nappal meghosszabbítható. A válaszadási határidő meghosszabbításáról és annak indokáról a fogyasztót írásban, a válaszadási határidő letelte előtt tájékoztatni kell.
 
@@ -248,7 +248,7 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 (9) Fogyasztóvédelmi referens foglalkoztatására köteles vállalkozás a (3) bekezdés b) pontja szerinti képzést nem szervezhet.
 
-(10) A (9) bekezdés szerinti bejelentésnek tartalmaznia kell:
+(10) A (8) bekezdés szerinti bejelentésnek tartalmaznia kell:
 
 - a) annak igazolását, hogy a képzéshez szükséges infrastruktúra a szervező rendelkezésre áll,
 - b) annak igazolását, hogy az e törvényben meghatározott feltételeknek megfelelő oktatók és vizsgáztatók a szervező rendelkezésre állnak,
@@ -487,7 +487,7 @@ foglalt személyes adatait.
 
 (10) Ha a vállalkozás válasziratát nem terjeszti elő, a tanács köteles az eljárást folytatni, anélkül, hogy a mulasztást a kérelmező állításai elismerésének tekintené.
 
-(11) A vállalkozást a békéltető testületi eljárásban együttműködési kötelezettség terheli, ennek keretében köteles a (8) bekezdésben rögzített tartalommal, az ott említett határidőn belül válasziratát megküldeni a békéltető testület számára. A fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról szóló, 2013. május 21-i 524/2013/EU európai parlamenti és tanácsi rendelet alkalmazásának kivételével a vállalkozás a meghallgatáson egyezség létrehozatalára feljogosított személy részvételét biztosítani köteles. Amennyiben a vállalkozás székhelye vagy telephelye nem a területileg illetékes békéltető testületet működtető kamara szerinti megyébe van bejegyezve, a vállalkozás együttműködési kötelezettsége a fogyasztó igényének megfelelő írásbeli egyezségkötés lehetőségének felajánlására terjed ki.
+(11) A vállalkozást a békéltető testületi eljárásban együttműködési kötelezettség terheli, ennek keretében köteles a (8) bekezdésben rögzített tartalommal, az ott említett határidőn belül válasziratát megküldeni a békéltető testület számára. A fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról szóló, 2013. május 21-i 524/2013/EU európai parlamenti és tanácsi rendelet alkalmazásának kivételével a vállalkozás a meghallgatáson egyezség létrehozatalára feljogosított személy részvételét biztosítani köteles. Amennyiben a vállalkozás székhelye, telephelye vagy fióktelepe nem a területileg illetékes békéltető testületet működtető kamara szerinti megyébe van bejegyezve, a vállalkozás együttműködési kötelezettsége a fogyasztó igényének megfelelő írásbeli egyezségkötés lehetőségének felajánlására terjed ki.
 
 (12) A (11) bekezdésben meghatározott együttműködési kötelezettségét megsértő vállalkozásról a békéltető testület értesíti a székhelye szerint illetékes fogyasztóvédelmi hatóságot.
 
