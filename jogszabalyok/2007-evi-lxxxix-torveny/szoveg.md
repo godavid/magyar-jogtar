@@ -43,6 +43,8 @@ az államhatárról
 
 5. § (1) Magyarország területének a Közösségi Kódex 2. cikk 2. pontjának megfelelő külső határ szerinti határvonaltól, illetve a határjeltől számított 60 méteres sávja az államhatár rendjének védelmét biztosító létesítmények – ideértve a 15/A. § szerinti létesítményeket is – építése, telepítése és üzemeltetése, valamint a honvédelmi, nemzetbiztonsági, katasztrófavédelmi, határőrizeti, menekültügyi és idegenrendészeti feladatok ellátása céljából e törvény szerint igénybe vehető.
 
+(1a) A rendőr Magyarország területének a Közösségi Kódex 2. cikk 2. pontjának megfelelő külső határ szerinti határvonaltól, illetve a határjeltől számított 8 km-es sávon belül feltartóztathatja a Magyarország területén jogellenesen tartózkodó külföldit, és az (1) bekezdés szerinti létesítmény legközelebbi kapuján átkísérheti, kivéve, ha bűncselekmény elkövetésének gyanúja merül fel.
+
 (2) Az (1) bekezdés szerinti területen található ingatlan (a továbbiakban: ingatlan) tekintetében e törvény erejénél fogva az államot az (1) bekezdés szerinti feladatok ellátása céljából határozatlan időre szóló közérdekű használati jog illeti meg.
 
 (3) A (2) bekezdés szerinti ingatlan tulajdonosa és használója (a továbbiakban együtt: tulajdonos) köteles tűrni, hogy a (2) bekezdés szerinti ingatlanon
