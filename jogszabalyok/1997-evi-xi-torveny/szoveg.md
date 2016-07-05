@@ -2,7 +2,7 @@
 
 a védjegyek és a földrajzi árujelzők oltalmáról
 
-A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre alkalmas árujelzők használatán alapuló verseny feltételeinek javítása, a fogyasztók tájékozódásának elősegítése érdekében, összhangban Magyarországnak a szellemi tulajdon védelme terén fennálló nemzetközi és európai közösségi jogi kötelezettségeivel, az Országgyűlés a védjegyek és a földrajzi árujelzők oltalmáról a következő törvényt alkotja:
+A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre alkalmas árujelzők használatán alapuló verseny feltételeinek javítása, a fogyasztók tájékozódásának elősegítése érdekében, összhangban Magyarországnak a szellemi tulajdon védelme terén fennálló nemzetközi és európai uniós jogi kötelezettségeivel, az Országgyűlés a védjegyek és a földrajzi árujelzők oltalmáról a következő törvényt alkotja:
 
 ## ELSŐ RÉSZ — A VÉDJEGY JOGI OLTALMA
 
@@ -406,7 +406,7 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 - f) a védjegybejelentések és a védjegyek nyilvántartása,
 - g) a hatósági tájékoztatás.
 
-(2) A Szellemi Tulajdon Nemzeti Hivatala hatáskörébe tartoznak a közösségi védjegyrendszerre (X/A. fejezet) és a védjegyek nemzetközi lajstromozására (X/B–X/D. fejezetek) vonatkozó rendelkezések alkalmazásából eredő ügyek is.
+(2) A Szellemi Tulajdon Nemzeti Hivatala hatáskörébe tartoznak az európai uniós védjegyrendszerre (X/A. fejezet) és a védjegyek nemzetközi lajstromozására (X/B–X/D. fejezetek) vonatkozó rendelkezések alkalmazásából eredő ügyek is.
 
 ### A közigazgatási hatósági eljárás általános szabályainak alkalmazása
 
@@ -1043,45 +1043,41 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 (5) A védjegyoltalomnak a használat hiánya, a megkülönböztető képesség elvesztése, a megtévesztővé válás, illetve a védjegyjogosult jogutód nélküli megszűnése miatti teljes körű vagy részleges megszűnését be kell jegyezni a védjegylajstromba, és arról hatósági tájékoztatást kell közölni a Szellemi Tulajdon Nemzeti Hivatala hivatalos lapjában.
 
-## HARMADIK RÉSZ — A KÖZÖSSÉGI VÉDJEGYRENDSZERRE VONATKOZÓ RENDELKEZÉSEK
+## HARMADIK RÉSZ — AZ EURÓPAI UNIÓS VÉDJEGYRENDSZERRE VONATKOZÓ RENDELKEZÉSEK
 
-### X/A. Fejezet — A KÖZÖSSÉGI VÉDJEGY ÉS A KÖZÖSSÉGI VÉDJEGYBEJELENTÉS
+### X/A. Fejezet — AZ EURÓPAI UNIÓS VÉDJEGY ÉS A KÖZÖSSÉGI VÉDJEGYBEJELENTÉS
 
 ### Általános szabályok
 
 76/A. § E törvény alkalmazásában
 
-- a) közösségi védjegyrendelet: a Tanács 207/2009/EK rendelete a közösségi védjegyről;
-- b) közösségi védjegy: a közösségi védjegyrendelet 1. cikkének (1) bekezdésében meghatározott védjegy;
-- c) közösségi védjegybejelentés: a közösségi védjegyrendelet alapján tett – közösségi védjegy lajstromozására irányuló – bejelentés.
+- a) európai uniós védjegyrendelet: a Tanács 207/2009/EK rendelete az európai uniós védjegyről;
+- b) európai uniós védjegy: az európai uniós védjegyrendelet 1. cikkének (1) bekezdésében meghatározott védjegy;
+- c) európai uniós védjegybejelentés: az európai uniós védjegyrendelet alapján tett – európai uniós védjegy lajstromozására irányuló – bejelentés.
 
-### A közösségi védjegybejelentés továbbítása
+76/B. §
 
-76/B. § (1) Szellemi Tulajdon Nemzeti Hivatalánál benyújtott közösségi védjegybejelentésnek a közösségi védjegyrendelet 25. cikkének (2) bekezdése alapján történő továbbításáért külön jogszabályban meghatározott díjat kell fizetni a bejelentés benyújtásakor.
+### Az európai uniós védjegy mint korábbi védjegy
 
-(2) Ha a közösségi védjegybejelentés továbbításának díját nem fizették meg, a Szellemi Tulajdon Nemzeti Hivatala figyelmezteti a bejelentőt a hiánypótlásra. A Szellemi Tulajdon Nemzeti Hivatala a közösségi védjegybejelentést a díj megfizetését követően továbbítja.
+76/C. § (1) A 4. § és az 5. § (2) bekezdése b) pontjának alkalmazásában az európai uniós védjegy – a (2) és a (3) bekezdésben meghatározott eltérésekkel – ugyanolyan korábbi védjegynek minősül, mint a Szellemi Tulajdon Nemzeti Hivatala által e törvény alapján lajstromozott védjegy.
 
-### A közösségi védjegy mint korábbi védjegy
+(2) A 4. § (1) bekezdése c) pontjának alkalmazásában az európai uniós védjegyrendelet 9. cikke (2) bekezdésének c) pontja értelmében az Európai Unióban jóhírnevet élvező korábbi európai uniós védjegyet kell figyelembe venni.
 
-76/C. § (1) A 4. § és az 5. § (2) bekezdése b) pontjának alkalmazásában a közösségi védjegy – a (2) és a (3) bekezdésben meghatározott eltérésekkel – ugyanolyan korábbi védjegynek minősül, mint a Szellemi Tulajdon Nemzeti Hivatala által e törvény alapján lajstromozott védjegy.
+(3) A 4. § (3) bekezdésének alkalmazásában a megjelölés akkor nincs kizárva a védjegyoltalomból, ha olyan korábbi európai uniós védjeggyel ütközik, amelyet annak jogosultja nem használt az európai uniós védjegyrendelet 15. cikkének megfelelően.
 
-(2) A 4. § (1) bekezdése c) pontjának alkalmazásában a közösségi védjegyrendelet 9. cikke (1) bekezdésének c) pontja értelmében az Európai Közösségben jóhírnevet élvező korábbi közösségi védjegyet kell figyelembe venni.
+(4) E törvény alkalmazásában a 18. § előírásainak megfelelő használatra való utaláson európai uniós védjegy esetében az európai uniós védjegyrendelet 15. cikkében foglalt előírásoknak megfelelő használatra való utalást kell érteni.
 
-(3) A 4. § (3) bekezdésének alkalmazásában a megjelölés akkor nincs kizárva a védjegyoltalomból, ha olyan korábbi közösségi védjeggyel ütközik, amelyet annak jogosultja nem használt a közösségi védjegyrendelet 15. cikkének megfelelően.
-
-(4) E törvény alkalmazásában a 18. § előírásainak megfelelő használatra való utaláson közösségi védjegy esetében a közösségi védjegyrendelet 15. cikkében foglalt előírásoknak megfelelő használatra való utalást kell érteni.
-
-(5) A belenyugvás (17. §) szabályait megfelelően alkalmazni kell abban az esetben is, ha a korábbi védjegy közösségi védjegy és a későbbi védjegy a Szellemi Tulajdon Nemzeti Hivatala által e törvény alapján lajstromozott védjegy.
+(5) A belenyugvás (17. §) szabályait megfelelően alkalmazni kell abban az esetben is, ha a korábbi védjegy európai uniós védjegy és a későbbi védjegy a Szellemi Tulajdon Nemzeti Hivatala által e törvény alapján lajstromozott védjegy.
 
 (6) Az (1)–(5) bekezdés rendelkezései megfelelően irányadók a 33. § (2) bekezdésének alkalmazásában is.
 
-### A közösségi védjegy bitorlásának jogkövetkezményei
+### Az európai uniós védjegy bitorlásának jogkövetkezményei
 
-76/D. § A közösségi védjegy bitorlására – a közösségi védjegyrendelet 14. cikkében foglaltakkal összhangban – ugyanazokat a jogkövetkezményeket kell alkalmazni, mint a Szellemi Tulajdon Nemzeti Hivatala által e törvény alapján lajstromozott védjegy bitorlására.
+76/D. § Az európai uniós védjegy bitorlására – az európai uniós védjegyrendelet 14. cikkében foglaltakkal összhangban – ugyanazokat a jogkövetkezményeket kell alkalmazni, mint a Szellemi Tulajdon Nemzeti Hivatala által e törvény alapján lajstromozott védjegy bitorlására.
 
 ### Nemzeti bejelentéssé való átalakítás
 
-76/E. § (1) Közösségi védjegybejelentés vagy közösségi védjegy átalakítására irányuló – a közösségi védjegyrendelet 113. cikkének (3) bekezdése alapján megküldött – kérelem alapján a Szellemi Tulajdon Nemzeti Hivatala a VII–IX. fejezetek rendelkezéseinek megfelelő alkalmazásával – a (2)–(5) bekezdésekben meghatározott feltételekkel – megindítja a védjegy lajstromozására irányuló eljárást.
+76/E. § (1) Európai uniós védjegybejelentés vagy európai uniós védjegy átalakítására irányuló – az európai uniós védjegyrendelet 113. cikkének (3) bekezdése alapján megküldött – kérelem alapján a Szellemi Tulajdon Nemzeti Hivatala a VII–IX. fejezetek rendelkezéseinek megfelelő alkalmazásával – a (2)–(5) bekezdésekben meghatározott feltételekkel – megindítja a védjegy lajstromozására irányuló eljárást.
 
 (2) A bejelentési díjat [50. § (4) bek.] az (1) bekezdés szerinti kérelemnek a Szellemi Tulajdon Nemzeti Hivatalához történő beérkezésétől számított két hónapon belül kell megfizetni.
 
@@ -1089,29 +1085,29 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 (4) A Szellemi Tulajdon Nemzeti Hivatala az (1) bekezdés szerinti kérelem beérkezéséről – az 56. § (4) bekezdésében előírt figyelmeztetés megküldésével egyidejűleg – értesíti a kérelmezőt.
 
-(5) A bejelentési napot, az elsőbbséget és a szenioritást a közösségi védjegyrendelet 112. cikkének (3) bekezdésével összhangban kell megállapítani. Az 50. § (3) bekezdését a közösségi védjegyrendelet 114. cikkének (2) bekezdésében foglaltakra figyelemmel kell alkalmazni.
+(5) A bejelentési napot, az elsőbbséget és a szenioritást az európai uniós védjegyrendelet 112. cikkének (3) bekezdésével összhangban kell megállapítani. Az 50. § (3) bekezdését az európai uniós védjegyrendelet 114. cikkének (2) bekezdésében foglaltakra figyelemmel kell alkalmazni.
 
-(6) Közösségi védjegy átalakítására irányuló kérelem alapján az (1) bekezdés szerint megindult eljárásban – a bejelentési díj megfizetését és a (3) bekezdésben előírt fordítás benyújtását követően – a Szellemi Tulajdon Nemzeti Hivatala a közösségi védjegyet további vizsgálat nélkül e törvény alapján lajstromozza (64. §).
+(6) Európai uniós védjegy átalakítására irányuló kérelem alapján az (1) bekezdés szerint megindult eljárásban – a bejelentési díj megfizetését és a (3) bekezdésben előírt fordítás benyújtását követően – a Szellemi Tulajdon Nemzeti Hivatala az európai uniós védjegyet további vizsgálat nélkül e törvény alapján lajstromozza (64. §).
 
-(7) A közösségi védjegybejelentés vagy a közösségi védjegy nemzeti védjegybejelentéssé való átalakítására irányuló kérelem vizsgálatára és az (1) bekezdés alapján megindult eljárásra egyebekben a VII–IX. fejezetek rendelkezéseit kell megfelelően alkalmazni.
+(7) Az európai uniós védjegybejelentés vagy az európai uniós védjegy nemzeti védjegybejelentéssé való átalakítására irányuló kérelem vizsgálatára és az (1) bekezdés alapján megindult eljárásra egyebekben a VII–IX. fejezetek rendelkezéseit kell megfelelően alkalmazni.
 
-### A közösségi védjegy szenioritása
+### Az európai uniós védjegy szenioritása
 
-76/F. § (1) A Szellemi Tulajdon Nemzeti Hivatala által e törvény alapján lajstromozott védjegy, amelynek szenioritását igényelték közösségi védjeggyel kapcsolatban a közösségi védjegyrendelet 34. és 35. cikke alapján, és amelynek oltalma megszűnt az oltalmi idő megújítás nélküli lejárta vagy lemondás miatt, törölhető, illetve oltalmának megszűnése a használat hiánya, vagy a megjelölés megkülönböztető képességének elvesztése vagy megtévesztővé válása, illetve a védjegyjogosult jogutód nélküli megszűnése miatt megállapítható, ha a törlés, illetve a megszűnés megállapításának feltételei mind a kérelem benyújtásának napján, mind a védjegyoltalom korábbi megszűnésének napján fennálltak.
+76/F. § (1) A Szellemi Tulajdon Nemzeti Hivatala által e törvény alapján lajstromozott védjegy, amelynek szenioritását igényelték európai uniós védjeggyel kapcsolatban az európai uniós védjegyrendelet 34. és 35. cikke alapján, és amelynek oltalma megszűnt az oltalmi idő megújítás nélküli lejárta vagy lemondás miatt, törölhető, illetve oltalmának megszűnése a használat hiánya, vagy a megjelölés megkülönböztető képességének elvesztése vagy megtévesztővé válása, illetve a védjegyjogosult jogutód nélküli megszűnése miatt megállapítható, ha a törlés, illetve a megszűnés megállapításának feltételei mind a kérelem benyújtásának napján, mind a védjegyoltalom korábbi megszűnésének napján fennálltak.
 
-(2) A védjegylajstromban fel kell tüntetni, hogy a védjegy szenioritását igényelték közösségi védjeggyel kapcsolatban. A szenioritás elvesztését szintén be kell jegyezni a védjegylajstromba.
+(2) A védjegylajstromban fel kell tüntetni, hogy a védjegy szenioritását igényelték európai uniós védjeggyel kapcsolatban. A szenioritás elvesztését szintén be kell jegyezni a védjegylajstromba.
 
-(3) A védjeggyel kapcsolatos minden tényt és körülményt – különösen a használati engedélyt, a jelzálogjogot, valamint a védjegyhez kapcsolódó és a védjegyoltalomból eredő jogok más megterhelését, továbbá e jogok átszállását és átruházását – be kell jegyezni a védjegylajstromba azt követően is, hogy az oltalmi idő megújítás nélküli lejárta vagy lemondás miatt megszűnt annak a védjegynek az oltalma, amelynek szenioritását közösségi védjeggyel kapcsolatban igényelték.
+(3) A védjeggyel kapcsolatos minden tényt és körülményt – különösen a használati engedélyt, a jelzálogjogot, valamint a védjegyhez kapcsolódó és a védjegyoltalomból eredő jogok más megterhelését, továbbá e jogok átszállását és átruházását – be kell jegyezni a védjegylajstromba azt követően is, hogy az oltalmi idő megújítás nélküli lejárta vagy lemondás miatt megszűnt annak a védjegynek az oltalma, amelynek szenioritását európai uniós védjeggyel kapcsolatban igényelték.
 
-(4) A közösségi védjegyet mint korábbi védjegyet (76/C. §) a szabályszerűen igényelt szenioritásával kell figyelembe venni akkor is, ha az oltalmi idő megújítás nélküli lejárta vagy lemondás miatt megszűnt a Szellemi Tulajdon Nemzeti Hivatala által e törvény alapján lajstromozott azon védjegy oltalma, amelynek szenioritását igényelték a közösségi védjeggyel kapcsolatban.
+(4) Az európai uniós védjegyet mint korábbi védjegyet (76/C. §) a szabályszerűen igényelt szenioritásával kell figyelembe venni akkor is, ha az oltalmi idő megújítás nélküli lejárta vagy lemondás miatt megszűnt a Szellemi Tulajdon Nemzeti Hivatala által e törvény alapján lajstromozott azon védjegy oltalma, amelynek szenioritását igényelték az európai uniós védjeggyel kapcsolatban.
 
 76/G. §
 
-### Közösségi védjegybíróság
+### Európai uniós védjegybíróság
 
-76/H. § (1) Magyarországon a Fővárosi Törvényszék jár el első fokon – a 78. § (2) bekezdésében meghatározott összetételben – a közösségi védjegyrendelet 95. cikkének (1) bekezdésében meghatározott közösségi védjegybíróságként.
+76/H. § (1) Magyarországon a Fővárosi Törvényszék jár el első fokon – a 78. § (2) bekezdésében meghatározott összetételben – az európai uniós védjegyrendelet 95. cikkének (1) bekezdésében meghatározott európai uniós védjegybíróságként.
 
-(2) A Fővárosi Törvényszék határozata elleni fellebbezés elbírálása – másodfokon eljáró közösségi védjegybíróságként – a Fővárosi Ítélőtábla hatáskörébe tartozik.
+(2) A Fővárosi Törvényszék határozata elleni fellebbezés elbírálása – másodfokon eljáró európai uniós védjegybíróságként – a Fővárosi Ítélőtábla hatáskörébe tartozik.
 
 ## NEGYEDIK RÉSZ — A VÉDJEGYEK NEMZETKÖZI LAJSTROMOZÁSÁRA VONATKOZÓ RENDELKEZÉSEK
 
@@ -1425,7 +1421,7 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 ### A védjegyperekre irányadó szabályok
 
-95. § (1) A védjegybitorlás miatt indított perekben, a 14. §, illetve a 19. § (5) bekezdése alapján a védjegynek a képviselő, illetve az ügynök általi használatától való eltiltás iránt, illetve a védjegyoltalmi igény vagy a védjegyoltalom átruházása iránt indított perekben, valamint a közösségi védjegyrendelet [76/A. § a) pont] 110. és 111. cikke, illetve 165. cikkének (5) bekezdése alapján a közösségi védjegy használatától való eltiltás iránt indított perekben a Fővárosi Törvényszék kizárólagos illetékességgel rendelkezik. E perekben a Fővárosi Törvényszék a 78. § (2) bekezdésében meghatározott összetételű tanácsban jár el.
+95. § (1) A védjegybitorlás miatt indított perekben, a 14. §, illetve a 19. § (5) bekezdése alapján a védjegynek a képviselő, illetve az ügynök általi használatától való eltiltás iránt, illetve a védjegyoltalmi igény vagy a védjegyoltalom átruházása iránt indított perekben, valamint az európai uniós védjegyrendelet [76/A. § a) pont] 110. és 111. cikke, illetve 165. cikkének (5) bekezdése alapján az európai uniós védjegy használatától való eltiltás iránt indított perekben a Fővárosi Törvényszék kizárólagos illetékességgel rendelkezik. E perekben a Fővárosi Törvényszék a 78. § (2) bekezdésében meghatározott összetételű tanácsban jár el.
 
 (2) Védjegybitorlás miatt indított perekben az ideiglenes intézkedést – az ellenkező valószínűsítéséig – a kérelmező különös méltánylást érdemlő jogvédelméhez szükségesnek kell tekinteni, ha a kérelmező igazolja, hogy a védjegy oltalom alatt áll, és ő a védjegy jogosultja vagy olyan használója, aki jogosult saját nevében fellépni a bitorlással szemben.
 
@@ -1910,7 +1906,7 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 - a) megkezdett védjegyhasználatra a védjegyoltalom tartalma, a védjegyhasználat fogalma, valamint – az oltalom kimerülésével kapcsolatos kérdések kivételével – a védjegybitorlás tekintetében a használatnak 2004. május 1-jén meglévő mértékéig,
 - b) megvalósult védjegyhasználatra a védjegyoltalom kimerülése tekintetében e törvénynek a 2004. április 30-án hatályos rendelkezéseit kell alkalmazni.
 
-(2) A közösségi védjegy mint korábbi védjegy viszonylagos kizáró okként akkor vehető figyelembe, ha a védjegybejelentést a Szellemi Tulajdon Nemzeti Hivatalánál vagy a Magyarországot megjelölő bejelentést 2004. május 1-jét követő bejelentési nappal tették, illetve, ha a védjegyet ilyen bejelentési nappal lajstromozták.
+(2) Az európai uniós védjegy mint korábbi védjegy viszonylagos kizáró okként akkor vehető figyelembe, ha a védjegybejelentést a Szellemi Tulajdon Nemzeti Hivatalánál vagy a Magyarországot megjelölő bejelentést 2004. május 1-jét követő bejelentési nappal tették, illetve, ha a védjegyet ilyen bejelentési nappal lajstromozták.
 
 (3) A 2004. május 1-jén hatályban lévő védjegyoltalom, valamint az a védjegyoltalom, amely az ezen időpontot megelőző bejelentési nappal és az ezen időpontot követő lajstromozással keletkezik, e törvény rendelkezései szerint újítható meg.
 
@@ -1938,7 +1934,7 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 (2) Ez a törvény megállapítja a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket:
 
-- a) a közösségi védjegyről szóló, 2009. február 26-i 207/2009/EK tanácsi rendelet;
+- a) a közösségi védjegyről szóló, 2009. február 26-i 207/2009/EK tanácsi rendelet és az azt módosító 2015/2424/EU európai parlamenti és tanácsi rendelet;
 - b) a mezőgazdasági termékek és az élelmiszerek minőségrendszereiről szóló, 2012. november 21-i 1151/2012/EU európai parlamenti és tanácsi rendelet;
 - c) a mezőgazdasági termékek és élelmiszerek földrajzi jelzéseinek és eredetmegjelöléseinek oltalmáról szóló 510/2006/EK tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2006. december 14-i 1898/2006/EK bizottsági rendelet;
 - d) a szeszes italok meghatározásáról, megnevezéséről, kiszereléséről, címkézéséről és földrajzi árujelzőinek oltalmáról, valamint az 1576/89/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2008. január 15-i 110/2008/EK európai parlamenti és tanácsi rendelet III. fejezete;
