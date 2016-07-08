@@ -1013,14 +1013,14 @@ alapszabadság illeti meg.
 - c) a „C” fizetési osztályba
   - ca) a „B” fizetési osztály bb) pontjában említett szakképesítésre épülő szakképesítéshez kötött munkakör,
   - cb)
-  - cc) a középiskola utolsó évfolyamának elvégzését igénylő szakképesítéshez kötött munkakör,
-  - cd) a középiskolai végzettséghez kötött munkakör;
+  - cc) a középfokú végzettséget igénylő szakképesítéshez kötött munkakör,
+  - cd) az érettségi végzettséghez kötött munkakör;
 - d) a „D” fizetési osztályba
   - da) a „C” fizetési osztály cb)–cc) pontjában említett szakképesítésre épülő szakképesítéshez kötött munkakör,
-  - db) a középiskolai végzettséget igénylő szakképesítéshez kötött munkakör;
+  - db) az érettségi végzettséget igénylő szakképesítéshez kötött munkakör;
 - e) az „E” fizetési osztályba
   - ea) az egyetemi, főiskolai végzettséget nem tanúsító felsőfokú szakképesítéshez, felsőoktatási szakképzésben szerzett szakképzettséghez kötött munkakör,
-  - eb) a középiskolai végzettséghez kötött akkreditált iskolai rendszerű felsőfokú szakképesítéshez kötött munkakör;
+  - eb) az érettségi végzettséghez kötött akkreditált iskolai rendszerű felsőfokú szakképesítéshez kötött munkakör;
 - f) az „F” fizetési osztályba a főiskolai végzettséget és szakképzettséget igazoló oklevélhez kötött munkakör;
 - g) a „G” fizetési osztályba a főiskolai végzettséget és szakképzettséget igazoló oklevélhez és a munkakör betöltéséhez jogszabályban előírt szakvizsgát vagy jogszabályban azzal egyenértékűnek elismert vizsgát igazoló oklevélhez kötött munkakör;
 - h) a „H” fizetési osztályba
@@ -1521,7 +1521,7 @@ töltött időt.
 - a) a munkaviszonynak azt az időtartamát, amely alatt a közalkalmazott a közalkalmazotti jogviszonyában betöltendő munkaköréhez szükséges iskolai végzettséggel vagy képesítéssel rendelkezett,
 - b) az 1992. július 1-jét megelőzően fennállt munkaviszony teljes időtartamát, továbbá
 - c) a sor- vagy tartalékos katonai szolgálatban, illetve a polgári szolgálatban, valamint
-- d) az (1) bekezdés f) pontja alá nem tartozó foglalkoztatónál ösztöndíjas foglalkoztatási jogviszonyban
+- d) az (1) bekezdés g) pontja alá nem tartozó foglalkoztatónál ösztöndíjas foglalkoztatási jogviszonyban
 
 eltöltött időt.
 

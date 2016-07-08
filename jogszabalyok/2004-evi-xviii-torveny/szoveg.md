@@ -144,7 +144,7 @@ terület lehet.
 
 13/A. § (1) Az 1308/2013/EU rendelet alapján oltalom alatt álló földrajzi jelzéssel rendelkező bort az ott meghatározott feltételek mellett lehet készíteni, amennyiben:
 
-- a) meghatározott termőhelyen fekvő, legfeljebb 120 hl/ha seprős újbor hozamú szőlőültetvény terméséből készítik,
+- a) meghatározott termőhelyen fekvő, legfeljebb 160 hl/ha seprős újbor hozamú szőlőültetvény terméséből készítik,
 - b) természetes alkoholtartalma nem kisebb 8 térfogatszázaléknál (% vol).
 
 (2) Az 1308/2013/EU rendelet alapján oltalom alatt álló eredetmegjelöléssel rendelkező bort az ott meghatározott feltételek mellett lehet készíteni, amennyiben:
@@ -212,6 +212,8 @@ terület lehet.
 22. § (1) Borászati terméket csak származási bizonyítvánnyal rendelkező borszőlőből, mustból, borból lehet előállítani, illetve továbbfeldolgozás céljából forgalomba hozni.
 
 (2) Borszőlő alapú üdítőitalokat csak származási bizonyítvánnyal igazolt szőlőmustból vagy szőlőmustsűrítményből lehet előállítani.
+
+(3) A továbbfeldolgozási vagy kiszerelési céllal Magyarország területére behozott, az Európai Gazdasági Térség valamely szerződő államában közfogyasztásra forgalomba még nem hozott borászati termék bor származási bizonyítványának kiállítására irányuló kérelemhez mellékelni kell a borászati hatóság igazolását a bortétel és a kísérődokumentumban foglaltak egyezőségéről. A borászati hatóság az igazolást a kérelem beérkezésétől számított 90 napon belül állítja ki.
 
 23. § (1) A borszőlő, illetve a borászati termék származási bizonyítványa igazolja:
 

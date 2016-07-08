@@ -97,7 +97,7 @@ jogosultanként további, legfeljebb kettő havi bruttó átlagkeresetnek megfel
 
 (3) A Cstv. 51. és 54. §-ában meghatározott, a felszámolóra vonatkozó felelősségi szabályokat a felszámolónak a támogatás igénybevételével kapcsolatos eljárására is alkalmazni kell.
 
-9. § (1) A támogatás visszafizetése annak folyósításától számított 60. napon, illetve, ha a felszámolási zárómérleg benyújtására a 60. napot megelőzően kerül sor, a felszámolási zárómérleg benyújtásának napját megelőző napon válik esedékessé. E rendelkezés alkalmazása szempontjából a felszámolási mérleg benyújtásának napján a zárómérleg postára adásának, vagy a bírósághoz történő beadásának napját kell érteni.
+9. § (1) A támogatás visszafizetése a támogatásról szóló határozat jogerőre emelkedését követő 70. napon, illetve, ha a felszámolási zárómérleg benyújtására a 70. napot megelőzően kerül sor, a felszámolási zárómérleg benyújtásának napját megelőző napon válik esedékessé. E rendelkezés alkalmazása szempontjából a felszámolási mérleg benyújtásának napján a zárómérleg postára adásának vagy a bírósághoz történő beadásának napját kell érteni.
 
 (2) A támogatás (1) bekezdés szerinti visszafizetése érdekében a külföldi gazdálkodó szervezet, illetve fióktelepe felszámolójával szemben az állami foglalkoztatási szerv köteles fellépni.
 

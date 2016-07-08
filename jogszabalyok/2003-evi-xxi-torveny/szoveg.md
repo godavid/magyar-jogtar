@@ -31,7 +31,7 @@ Annak érdekében, hogy a közösségi szinten működő vállalkozásoknál, il
 
 tekintetében abban az esetben is, ha a központi vezetés, vagy – ha a közösségi szinten működő vállalkozás székhelye, illetve vállalkozáscsoport esetén az ellenőrző vállalkozás székhelye nem tagállamban van, de – a központinak alárendelt vezetése (irányított vezetés); a vállalkozás, illetve vállalkozáscsoport képviselete; vagy képviselő megjelölése hiányában a vállalkozás azon telephelye, illetve a vállalkozáscsoport azon vállalkozása, mely a tagállamban a legnagyobb számú munkavállalót foglalkoztatja más tagállamban található.
 
-(5) E törvény hatálya nem terjed ki a (3) bekezdés a)–d) pontjában foglalt vállalkozás tengeri kereskedelmi hajóján foglalkoztatott munkavállalóra.
+(5)
 
 2. § (1) E törvény alkalmazásában
 
@@ -292,6 +292,12 @@ a központi vezetés saját kezdeményezésére, vagy legalább két tagállamba
 
 (4) Az európai üzemi tanács tagjai megbízatásuk lejártát követően kötelesek beszámolni a telephelyeken, illetve a közösségi szinten működő vállalkozáscsoporthoz tartozó vállalkozásokban alkalmazott munkavállalók képviselőinek, illetve ilyen képviselők hiányában a munkavállalók közösségének.
 
+(5) A különleges tárgyaló testületek vagy az Európai Üzemi Tanácsok olyan tagjai vagy póttagjai, akik valamely tengerjáró hajó legénységének a tagjai, jogosultak részt venni a különleges tárgyaló testület vagy az Európai Üzemi Tanács ülésein, illetve a 7. és 8. §-ban foglalt tájékoztatási és konzultációs eljárás ülésein, amennyiben az említett tag vagy póttag az ülés időpontjában nem a tengeren vagy a hajózási társaság székhelye szerinti országtól eltérő ország kikötőjében tartózkodik.
+
+(6) Az üléseket, amennyiben lehetséges, úgy kell ütemezni, hogy az lehetővé tegye azon tagok vagy póttagok részvételét, akik valamely tengerjáró hajó legénységének a tagjai.
+
+(7) Azokban az esetekben, amikor a különleges tárgyaló testületek vagy az Európai Üzemi Tanácsok olyan tagjai vagy póttagjai, akik valamely tengerjáró hajó legénységének a tagjai, nem tudnak személyesen megjelenni egy ülésen, amennyiben lehetséges, mérlegelni kell az új információs és kommunikációs technológiák igénybevételének a lehetőségét.
+
 21. § (1) Tilos akadályozni, illetve korlátozni vagy befolyásolni a különleges tárgyaló testület vagy az európai üzemi tanács megalakítását és tevékenységét, továbbá a munkavállalók tájékoztatását és a velük való konzultációt szolgáló eljárás kialakítását és annak lefolytatását.
 
 (2) Tilos akadályozni, illetve korlátozni, továbbá hátrányok vagy előnyök kilátásba helyezésével befolyásolni a különleges tárgyaló testület, az európai üzemi tanács tagjának, póttagjának, valamint a munkavállalók tájékoztatását és a velük való konzultációt szolgáló eljáráson résztvevő munkavállalók tevékenységét.
@@ -338,6 +344,8 @@ a központi vezetés saját kezdeményezésére, vagy legalább két tagállamba
 - b) a munkavállalók nemzetek feletti tájékoztatásáról és a velük való konzultációról szóló megállapodást 2011. június 6-án vagy azt követően írták alá.
 
 24. § E törvény az Európai Üzemi Tanács létrehozásáról vagy a közösségi szintű vállalkozások és vállalkozáscsoportok munkavállalóinak tájékoztatását és a velük folytatott konzultációt szolgáló eljárás kialakításáról szóló 2009. május 6-i 2009/38/EK európai parlamenti és a tanácsi irányelvének való megfelelést szolgálja.
+
+24/A. § E törvény a 2008/94/EK, a 2009/38/EK és a 2002/14/EK európai parlamenti és tanácsi irányelvnek, valamint a 98/59/EK és a 2001/23/EK tanácsi irányelvnek a tengerészek tekintetében történő módosításáról szóló, 2015. október 6-i 2015/1794/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 ### Záró rendelkezések
 
