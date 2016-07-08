@@ -26,7 +26,7 @@ A munka és a foglalkozás szabad megválasztásához való jog gyakorlásának 
 
 4. § (1) Minden munkavállalásra jogosultnak és munkaadónak joga van az állami foglalkoztatási szerv e törvényben, valamint a felhatalmazás alapján kiadott jogszabályban meghatározott szolgáltatásának ingyenes igénybevételéhez.
 
-(2) A munkaerőpiaci szerv a hozzáforduló munkavállalót, valamint munkaadót jogairól és kötelezettségeiről tájékoztatja, igényének érvényesítéséhez segítséget nyújt.
+(2) Az állami foglalkoztatási szerv a hozzáforduló munkavállalót, valamint munkaadót jogairól és kötelezettségeiről tájékoztatja, igényének érvényesítéséhez segítséget nyújt.
 
 5. § (1) A foglalkoztatási feszültségek megszüntetésére, kezelésére és feloldására, valamint a munkanélküliség megelőzésére, csökkentésére és hátrányos következményeinek enyhítésére a III. fejezetben, valamint más jogszabályokban meghatározott munkaerő-piaci szolgáltatásokat, foglalkoztatást elősegítő támogatásokat, a közfoglalkoztatás szervezését, illetve egyéb eszközöket kell alkalmazni.
 
@@ -95,7 +95,7 @@ rendeletben állapítsa meg.
 
 (10) A foglalkoztató és a harmadik országbeli állampolgár munkavállaló – ha az ugyanazon foglalkoztatóval korábban létesített foglalkoztatásra irányuló jogviszony feltételei (munkakör, munkavégzés helye) az (1) bekezdés b) pontjában meghatározott, korábban kiadott engedélyben foglaltakhoz képest nem változtak, előzetes megállapodás és az idegenrendészeti hatóság által a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott ideiglenes tartózkodásra jogosító igazolás birtokában megállapodhat a harmadik országbeli állampolgárnak az (1) bekezdés b) pontjában meghatározott engedély lejártát követő, az (1) bekezdés a) pontja szerinti tartózkodási engedély kiadására irányuló, összevont kérelmezési eljárás idejére szóló továbbfoglalkoztatásában.
 
-8. § (1) Az Országgyűlés szabályozza a munkanélküliség megelőzését, illetőleg csökkentését szolgáló foglalkoztatási eszközöket, az álláskeresőket megillető juttatásokat, a munkaerőpiaci szervezetrendszert, valamint ezek finanszírozásának módját.
+8. § (1) Az Országgyűlés szabályozza a munkanélküliség megelőzését, illetőleg csökkentését szolgáló foglalkoztatási eszközöket, az álláskeresőket megillető juttatásokat, valamint ezek finanszírozásának módját.
 
 (2) A Kormány döntéseinek előkészítése, valamint végrehajtása során figyelembe veszi azok foglalkoztatáspolitikai összefüggéseit és következményeit. Ennek megfelelően feladatainak ellátása során
 
@@ -125,7 +125,7 @@ rendeletben állapítsa meg.
 (7) A munkavállaló:
 
 - a) képviselői útján részt vesz a foglalkoztatási érdekegyeztetésben,
-- b) együttműködik a munkaerőpiaci szolgáltató szervvel, valamint a munkaadóval, mérlegeli a felajánlott átképzési, foglalkoztatási lehetőségeket, együttműködik új munkahely felkutatásában,
+- b) együttműködik az állami foglalkoztatási szervvel, valamint a munkaadóval, mérlegeli a felajánlott átképzési, foglalkoztatási lehetőségeket, együttműködik új munkahely felkutatásában,
 - c) álláskeresők támogatásának biztosítására járulékot fizet.
 
 (8)
@@ -272,7 +272,7 @@ adható.
 
 19/B. § (1) A Nemzeti Foglalkoztatási Alap előre meghatározott, összetett célok érdekében biztosíthatja olyan programok megvalósításának pénzügyi fedezetét, amelyek térségi foglalkoztatási célok megvalósítására, munkaerőpiaci folyamatok befolyásolására, valamint a munkaerőpiacon hátrányos helyzetben lévő rétegek foglalkoztatásának elősegítésére irányulnak.
 
-(2) Az (1) bekezdésben meghatározott programok keretében a munkaerőpiaci szolgáltatások és foglalkoztatást elősegítő támogatások egyidejűleg és egymásra épülve is nyújthatók. A programokon aktívan részt vevő álláskereső számára a különböző jogcímeken megállapítható támogatás, támogatások helyett egységes támogatás állapítható meg. Ha a program által elérni kívánt cél megvalósítása érdekében indokolt, a foglalkoztatást elősegítő támogatásokra vonatkozó szabályoktól – a 20. § (2) bekezdése szerinti jogszabályban meghatározott feltételekkel és módon – a támogatást nyújtó szerv eltekinthet.
+(2) Az (1) bekezdésben meghatározott programok keretében a munkaerőpiaci szolgáltatások és foglalkoztatást elősegítő támogatások egyidejűleg és egymásra épülve is nyújthatók. A programokon aktívan részt vevő álláskereső számára a különböző jogcímeken megállapítható támogatás, támogatások helyett egységes támogatás állapítható meg. Ha a program által elérni kívánt cél megvalósítása érdekében indokolt, a foglalkoztatást elősegítő támogatásokra vonatkozó szabályoktól – a 20. § (4) bekezdése szerinti jogszabályban meghatározott feltételekkel és módon – a támogatást nyújtó szerv eltekinthet.
 
 (3) Munkaerő-piaci program keretében a munkaadó részére a munkaviszonyban foglalkoztatott személy munkabére és járulékai legfeljebb száz százalékának megfelelő összegű támogatás nyújtható.
 
@@ -422,7 +422,7 @@ időtartamával.
 
 (10) A (8) bekezdésben foglaltak nem alkalmazhatók, ha az álláskereső az álláskeresési járadék folyósítása alatt ugyanazzal a munkaadóval létesít munkaviszonyt, amellyel az álláskeresési járadék megállapítását megelőzően utoljára munkaviszonyban állt.
 
-(11) Ha az álláskereső részére az állami foglalkoztatási szerv (illetőleg annak kirendeltsége) a (8) bekezdésben meghatározott összeget kifizette, úgy kell tekinteni, hogy az álláskereső az álláskeresési járadék folyósítási idejét kimerítette.
+(11) Ha az álláskereső részére az állami foglalkoztatási szerv a (8) bekezdésben meghatározott összeget kifizette, úgy kell tekinteni, hogy az álláskereső az álláskeresési járadék folyósítási idejét kimerítette.
 
 (12) Ha az állami foglalkoztatási szerv a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló rendeletek hatálya alá tartozó álláskereső részére ideiglenes ellátást állapít meg, az ellátás addig folyósítható, amíg az – álláskeresési járadék vagy álláskeresési segély megállapításához szükséges – az Európai Gazdasági Térség másik tagállamában szerzett jogosultsági időre, valamint szakmai jövedelemre, bérre vagy átlagkeresetre, valamint az igénybe vett munkanélküli ellátásra vonatkozó bizonyíték rendelkezésre nem áll. Az ideiglenes ellátás folyósításának időtartama nem haladhatja meg a 60 napot.
 
@@ -690,7 +690,7 @@ időtartamával.
 
 (4) Amennyiben a tárgyévet megelőző év végén a Nemzeti Foglalkoztatási Alap megállapított záró állománya a likviditási tartalék szintjét meghaladta, úgy az e szint fölötti rész tárgyévi felhasználásáról a miniszter az államháztartásért felelős miniszter egyetértésével dönt az (1) bekezdésben foglaltakra figyelemmel.
 
-(5) A Társadalmi Megújulás Operatív Program keretében uniós forrás terhére megvalósuló program finanszírozása érdekében a Nemzeti Foglalkoztatási Alap záró állományában jelentkező, tárgyévben fel nem használt pénzeszköz – a miniszternek az államháztartásért felelős miniszterrel egyetértésben meghozott döntése alapján – a tárgyévet követően felhasználható.
+(5) A Nemzeti Foglalkoztatási Alap előfinanszírozásával, uniós forrás terhére megvalósuló program finanszírozása érdekében a Nemzeti Foglalkoztatási Alap záró állományában jelentkező, tárgyévben fel nem használt pénzeszköz – a miniszternek az államháztartásért felelős miniszter egyetértésével meghozott döntése alapján – a tárgyévet követően felhasználható.
 
 ### A Nemzeti Foglalkoztatási Alap egyes alaprészei felhasználására vonatkozó sajátos szabályok
 
@@ -855,7 +855,7 @@ együttműködik.
 
 (14a) Az álláskereső aktív munkahelykereső tevékenysége és álláskeresőként való nyilvántartása – a (18) bekezdésben foglaltak figyelembe vételével – szünetel, ha az álláskereső
 
-- a) az állami foglalkoztatási szerv által támogatott, vagy az állami felnőttképzési szerv által szervezett képzésben vesz részt,
+- a) az állami foglalkoztatási szerv által támogatott, vagy az állami felnőttképzési intézmény által szervezett képzésben vesz részt,
 - b) rövid, 120 napot meg nem haladó időtartamú keresőtevékenységet (kivéve az egyszerűsített foglalkoztatást) folytat,
 - c) – az időtartamtól függetlenül – közfoglalkoztatásban vesz rész,
 - d) terhességi-gyermekágyi segélyre, csecsemőgondozási díjra, gyermekgondozási díjra vagy gyermekgondozási segélyre, gyermekgondozást segítő ellátásra való jogosultságának megállapítását jelenti be, terhességi-gyermekágyi segély, csecsemőgondozási díj és gyermekgondozási díj esetén a jogosultság megállapítását követő naptól, gyermekgondozási segély, gyermekgondozást segítő ellátás esetén a jogosultság megállapításának napjától,
@@ -1197,7 +1197,7 @@ említ, azon az Európai Unióhoz történő csatlakozást követően az EGT tag
 
 érteni kell.
 
-(3) A 2005. november 1-jét megelőzően megállapított, és ebben az időpontban folyósított munkanélküli ellátást a 2005. október 31-én hatályos szabályok szerint tovább kell folyósítani azzal, hogy az ellátás folyósítása során a 2005. november 1-jétől a munkaügyi központ kirendeltségével való együttműködésre az álláskeresővel kötött álláskeresési megállapodásra vonatkozó szabályokat kell megfelelően alkalmazni.
+(3) A 2005. november 1-jét megelőzően megállapított, és ebben az időpontban folyósított munkanélküli ellátást a 2005. október 31-én hatályos szabályok szerint tovább kell folyósítani azzal, hogy az ellátás folyósítása során a 2005. november 1-jétől az állami foglalkoztatási szervvel való együttműködésre az álláskeresővel kötött álláskeresési megállapodásra vonatkozó szabályokat kell megfelelően alkalmazni.
 
 (4) Annak részére, akinek munkanélküli járadékra, nyugdíj előtti munkanélküli segélyre, álláskeresést ösztönző juttatásra való jogosultsága 2005. november 1-jét megelőzően keletkezik, és ezen ellátásokra való kérelmét legkésőbb 2005. október 31-én benyújtja, ezen ellátásokat a 2005. október 31-én hatályos szabályok szerint kell megállapítani.
 

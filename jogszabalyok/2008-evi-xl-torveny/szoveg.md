@@ -608,7 +608,7 @@ a tűrésére és együttműködésre vonatkozó kötelezettséget állapíthat 
 
 (3) Az (1) és (2) bekezdésben meghatározott hányad számítása során a részvényes tulajdoni hányadának vagy szavazati arányának a részvényes és kapcsolt vállalkozásai tulajdoni hányadainak vagy szavazatainak összegét kell tekinteni. Tulajdoni hányad a tulajdonolt részvények névértéke összegének a társaság alaptőkéjéhez viszonyított százalékos formában kifejezett aránya.
 
-(4) Az (1)–(3) bekezdésben foglaltakat a villamos energiáról szóló 2007. évi LXXXVI. törvény szerinti átviteli rendszerirányítóra és annak számviteli törvény szerinti leányvállalatára nem kell alkalmazni.
+(4) Az (1)–(3) bekezdésben foglaltakat a rendszerirányítást végző szállítási rendszerüzemeltetőre és a villamos energiáról szóló 2007. évi LXXXVI. törvény szerinti átviteli rendszerirányítóra és annak számviteli törvény szerinti leányvállalatára nem kell alkalmazni.
 
 48/A. § (1) A szervezett földgázpiaci engedélyes – az ÜKSZ rendelkezéseivel összhangban – szervezett földgázpiaci szabályzatot készít, és jóváhagyásra benyújtja a Hivatalhoz.
 
