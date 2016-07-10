@@ -1266,7 +1266,12 @@ eredő követelések fejében vonható végrehajtás alá.
 
 (2) Az üzletrész lefoglalását a gazdálkodó szervezet bejegyzi a nyilvántartásába, a cégbíróság pedig a cégjegyzékbe.
 
-102. § A muzeális vagy történeti értékű tárgy és könyv, továbbá levéltári anyag lefoglalásáról a végrehajtó köteles a tárgy jellegének megfelelő, területileg illetékes múzeumot, könyvtárat, illetőleg levéltárat a foglalási jegyzőkönyv másolatának megküldésével értesíteni.
+102. § (1) A végrehajtó a foglalási jegyzőkönyv másolatának megküldésével 3 napon belül értesíti a kulturális javak hatósági feladatai körében eljáró kulturális örökség hatóságát, ha
+
+- a) a lefoglalt tárgy a védett kulturális javak körébe tartozik,
+- b) a lefoglalt tárgyról nem állapítható meg, hogy a védett kulturális javak közé tartozik, de valószínűsíthető, hogy a védetté nyilvánítás kritériumainak megfelel.
+
+(2) Az (1) bekezdés b) pontja esetében biztosítani kell a végrehajtás során, hogy a kulturális javak hatósági feladatai körében eljáró kulturális örökség hatósága a lefoglalt tárgyat megvizsgálja.
 
 103. § (1) Gépjármű lefoglalása esetén a végrehajtó köteles a forgalmi engedélyt és a gépjármű törzskönyvét is lefoglalni. Ha ez bármilyen okból nem lehetséges, a forgalmi engedély, illetve a törzskönyv lefoglalásának meghiúsulását és ennek okát a foglalási jegyzőkönyvben fel kell tüntetni.
 
