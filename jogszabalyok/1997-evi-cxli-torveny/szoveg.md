@@ -185,7 +185,7 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 - 13. az ingatlan-nyilvántartási eljárás felfüggesztése,
 - 14. jogerős hatósági vagy bírósági határozattal megállapított tartós környezetkárosodás ténye, mértéke és jellege,
 - 15. bírósági ítéleten alapuló tulajdoni korlátozás,
-- 16. bírósági vagy hatósági határozaton alapuló telekalakítási és építési tilalom elrendelése, valamint egyéb építésügyi korlátozás, az épített környezet alakításáról és védelméről szóló törvényben meghatározott építésügyi kötelezés, valamit önkormányzati hatósági döntésen, vagy hatósági szerződésen alapuló településrendezési kötelezettség, továbbá a kulturális örökség védelméről szóló törvényben meghatározott örökségvédelmi hatósági kötelezés ténye.
+- 16. bírósági vagy hatósági határozaton alapuló telekalakítási és építési tilalom elrendelése, valamint egyéb építésügyi korlátozás, az épített környezet alakításáról és védelméről szóló törvényben meghatározott építésügyi kötelezés, valamit önkormányzati hatósági döntésen, vagy hatósági szerződésen alapuló településrendezési kötelezettség ténye.
 - 17. szerződésen, végintézkedésen, bírósági vagy hatósági határozaton alapuló 17.1. elidegenítési és terhelési tilalom, 17.2. elidegenítési tilalom, 17.3. a rendelkezési jogot korlátozó egyéb tilalom,
 - 18. az e törvényben meghatározott 18.1. perek, 18.2. büntetőeljárás megindítása,
 - 19. árverés vagy nyilvános pályázat kitűzése,
