@@ -56,7 +56,7 @@ abban az esetben kell alkalmazni, ha arról az a) pontban említett esetben az E
 - a) egyébként nem adóalanyi minőségben eljáró, az 5. § (1) bekezdése értelmében jogképes személy vagy szervezet (a továbbiakban együtt: személy, szervezet) belföldön küldeményként feladott vagy belföldről fuvarozott új közlekedési eszközt értékesít belföldön kívülre, de – a beszerző nevére szóló rendeltetéssel – a Közösség területére, függetlenül attól, hogy a küldeménykénti feladást vagy a fuvarozást akár az értékesítő, akár a beszerző vagy – bármelyikük javára – más végzi;
 - b) egyébként nem adóalanyi minőségben eljáró személy, szervezet beépített ingatlant (ingatlanrészt), és ehhez tartozó földrészletet sorozat jelleggel értékesít, feltéve, hogy
   - ba) annak első rendeltetésszerű használatbavétele még nem történt meg, vagy
-  - bb) első rendeltetésszerű használatbavétele megtörtént, de az arra jogosító hatósági engedély jogerőre emelkedése vagy használatbavétel tudomásulvételi eljárás esetén a használatbavétel hallgatással történő tudomásul vétele és az értékesítés között még nem telt el 2 év
+  - bb) első rendeltetésszerű használatbavétele megtörtént, de az arra jogosító hatósági engedély jogerőre emelkedése vagy használatbavétel-tudomásulvételi eljárás esetén a használatbavétel hallgatással történő tudomásulvétele és az értékesítés között még nem telt el 2 év, vagy beépítése az épített környezet alakításáról és védelméről szóló törvény szerinti egyszerű bejelentés alapján valósult meg, és a beépítés tényét igazoló hatósági bizonyítvány kiállítása és az értékesítés között még nem telt el 2 év
 
 [a ba) és bb) alpont a továbbiakban együtt: beépítés alatt álló vagy beépített új ingatlan];
 
@@ -979,7 +979,7 @@ nem minősül közszolgáltatónak.
 - i) a szerencsejáték szervezéséről szóló törvény hatálya alá tartozó szerencsejáték-szolgáltatás nyújtása, ideértve ezek közvetítését is, valamint a szerencsejáték szervezésére vonatkozó tevékenység gyakorlása jogának az állam által koncessziós szerződéssel történő átengedése;
 - j) a beépített ingatlan (ingatlanrész) és az ehhez tartozó földrészlet értékesítése, kivéve annak a beépített ingatlannak (ingatlanrésznek) és az ehhez tartozó földrészletnek az értékesítését, amelynek
   - ja) első rendeltetésszerű használatbavétele még nem történt meg; vagy
-  - jb) első rendeltetésszerű használatbavétele megtörtént, de az arra jogosító hatósági engedély jogerőre emelkedése vagy használatbavétel tudomásulvételi eljárás esetén a használatbavétel hallgatással történő tudomásul vétele és az értékesítés között még nem telt el 2 év;
+  - jb) első rendeltetésszerű használatbavétele megtörtént, de az arra jogosító hatósági engedély jogerőre emelkedése vagy használatbavétel-tudomásulvételi eljárás esetén a használatbavétel hallgatással történő tudomásulvétele és az értékesítés között még nem telt el 2 év, vagy beépítése az épített környezet alakításáról és védelméről szóló törvény szerinti egyszerű bejelentés alapján valósult meg, és a beépítés tényét igazoló hatósági bizonyítvány kiállítása és az értékesítés között még nem telt el 2 év;
 - k) a beépítetlen ingatlan (ingatlanrész) értékesítése, kivéve az építési telek (telekrész) értékesítését;
 - l) az ingatlan (ingatlanrész) bérbeadása, haszonbérbeadása;
 - m) a védelem terén alapvető biztonsági érdeket érintő, kifejezetten katonai, rendvédelmi, rendészeti célokra szánt termék vagy szolgáltatás központi költségvetési szerv részére nemzetközi megállapodáson alapuló értékesítése, és a magyar állam vagy a képviseletében eljáró központi költségvetési szerv részére nemzetközi megállapodáson alapuló térítésmentes átadása.
@@ -1641,7 +1641,7 @@ fizeti, feltéve, hogy a szolgáltatást nyújtó adóalany belföldön gazdasá
 142. § (1) Az adót a termék beszerzője, szolgáltatás igénybevevője fizeti:
 
 - a) a 10. § d) pontja szerinti termékértékesítés esetében;
-- b) a szolgáltatás nyújtásának minősülő olyan építési-szerelési és egyéb szerelési munka esetében, amely ingatlan létrehozatalára, bővítésére, átalakítására vagy egyéb megváltoztatására – ideértve az ingatlan bontással történő megszüntetését is – irányul, feltéve, hogy az ingatlan létrehozatala, bővítése, átalakítása, egyéb megváltoztatása építési hatósági engedély-köteles vagy építési hatósági tudomásulvételi eljáráshoz kötött, amelyről a szolgáltatás igénybevevője előzetesen és írásban köteles nyilatkozni a szolgáltatás nyújtójának;
+- b) a szolgáltatás nyújtásának minősülő olyan építési-szerelési és egyéb szerelési munka esetében, amely ingatlan létrehozatalára, bővítésére, átalakítására vagy egyéb megváltoztatására – ideértve az ingatlan bontással történő megszüntetését is – irányul, feltéve, hogy az ingatlan létrehozatala, bővítése, átalakítása, egyéb megváltoztatása építési hatósági engedély-köteles, építési hatósági tudomásulvételi eljáráshoz vagy egyszerű bejelentéshez kötött, amelyről a szolgáltatás igénybevevője előzetesen és írásban köteles nyilatkozni a szolgáltatás nyújtójának;
 - c) a termékértékesítéshez és szolgáltatásnyújtáshoz – ideértve azt is, ha az nem kötött építési hatósági engedélyhez vagy építési hatósági tudomásulvételi eljáráshoz – munkaerő kölcsönzése, kirendelése, személyzet rendelkezésre bocsátása, illetve iskolaszövetkezet szolgáltatásának igénybevétele esetében;
 - d) a 6. számú mellékletben felsorolt termékek értékesítése esetében;
 - e) a 86. § (1) bekezdésének j) és k) pontja alá tartozó termékértékesítés esetében, ha az értékesítő adóalany élt a 88. §-ban említett választási jogával;
@@ -2204,7 +2204,7 @@ nem haladja meg a (2) bekezdésben meghatározott felső értékhatárt.
 - b) az aa) alpont alá nem tartozó új közlekedési eszköz 89. § (1) és (2) bekezdés szerinti értékesítése,
 - c) az aa) alpont alá nem tartozó beépített ingatlan (ingatlanrész) és ehhez tartozó földrészlet értékesítése, amelynek
   - ca) első rendeltetésszerű használatbavétele még nem történt meg, vagy
-  - cb) első rendeltetésszerű használatbavétele megtörtént, de az arra jogosító hatósági engedély jogerőre emelkedése vagy használatbavétel tudomásulvételi eljárás esetén a használatbavétel hallgatással történő tudomásul vétele és az értékesítés között még nem telt el 2 év,
+  - cb) első rendeltetésszerű használatbavétele megtörtént, de az arra jogosító hatósági engedély jogerőre emelkedése vagy használatbavétel-tudomásulvételi eljárás esetén a használatbavétel hallgatással történő tudomásulvétele és az értékesítés között még nem telt el 2 év, vagy beépítése az épített környezet alakításáról és védelméről szóló törvény szerinti egyszerű bejelentés alapján valósult meg, és a beépítés tényét igazoló hatósági bizonyítvány kiállítása és az értékesítés között még nem telt el 2 év,
 - d) az aa) alpont alá nem tartozó építési telek (telekrész) értékesítése,
 - e) a 85. § (1) bekezdése szerinti adómentes termékértékesítés, szolgáltatásnyújtás,
 - f) a 86. § (1) bekezdésének a)–g) pontjai szerinti adómentes, kiegészítő jellegű szolgáltatásnyújtás,
