@@ -213,7 +213,11 @@ tartása, valamint lézeres célzókészülék és éjszakai irányzék lőfegyv
   - ad) a nyilvántartásba vett lőfegyver fajtája (tűzfegyver vagy légfegyver), típusa, gyártója, gyártási száma, kaliberjele, tűzfegyver esetében kategóriájának betűjele és száma (a továbbiakban: a lőfegyver azonosító adatai), a lőfegyver műszaki érvényességének időtartama,
   - ae) a tűzfegyver fődarab e törvény szerinti megnevezése, gyártási száma,
   - af) a lőszer azonosítását lehetővé tevő adatok, valamint
-- b) a gyártó által gyártott és raktározott lőfegyverről, tűzfegyver fődarabról, lőszerről – a gyártásra jogosító engedély érvényességi idejének lejártától számított húsz évig – az a) pont ad)–af) alpontjában meghatározott adattartalommal, a lőfegyver műszaki érvényességének kivételével.
+- b) a gyártó által gyártott és raktározott lőfegyverről, tűzfegyver fődarabról, lőszerről – a gyártásra jogosító engedély érvényességi idejének lejártától számított húsz évig – az a) pont ad)–af) alpontjában meghatározott adattartalommal, a lőfegyver műszaki érvényességének kivételével,
+- c) a hatástalanított lőfegyverek hatástalanítását igazoló tanúsítványokról – a hatástalanítás időpontjától számított húsz évig – a következő adattartalommal:
+  - ca) – a műszaki érvényesség időtartamának kivételével – a hatástalanított lőfegyver 5. § (2) bekezdés a) pont ad) alpontjában meghatározott adatai,
+  - cb) a hatástalanítás időpontja, valamint
+  - cc) a hatástalanított lőfegyver hatástalanítását igazoló tanúsítvány száma.
 
 (2a) A (2) bekezdésben meghatározott nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
@@ -230,9 +234,9 @@ tartása, valamint lézeres célzókészülék és éjszakai irányzék lőfegyv
 
 (3) A lőfegyverek központi nyilvántartásából a Nemzetközi Bűnügyi Együttműködési Központ, illetve Magyarország nemzetközi szerződésben adattovábbításra feljogosított más szerve az (1) bekezdés c) pontjában felsoroltak részére adatszolgáltatás teljesítése céljából az adatok átvételére és továbbítására jogosult.
 
-(4) A lőfegyvereknek más tagállam területére történő átvitele esetén a rendeltetési hely, illetve a tranzitország részére történő adatszolgáltatást – a kérelmező által az 5. § (2) bekezdésének b) pontjára, a szállítandó lőfegyverekre, lőfegyver-kereskedők közötti szállítás kivételével a szállítóeszközre, valamint az indulás és érkezés várható időpontjára vonatkozó bejelentési kötelezettség teljesítése alapján – az 5. § (1) bekezdésében meghatározott szerv végzi.
+(4) A lőfegyvereknek, illetve a lőszereknek más tagállam területére történő átvitele esetén a rendeltetési hely, illetve a tranzitország között történő – a kérelmező által az 5. § (2) bekezdés a) pont ab) alpontjára, a szállítandó lőfegyverekre, lőszerekre, a lőfegyver-kereskedők közötti szállítás kivételével a szállítóeszközre, valamint az indulás és érkezés várható időpontjára vonatkozó bejelentési kötelezettség teljesítésén alapuló – adatszolgáltatást és adatfogadást a rendőrség központi szerve végzi, valamint – jogszabály eltérő rendelkezésének hiányában – ellátja a polgári felhasználású robbanóanyagok forgalmazására és ellenőrzésére vonatkozó tagállami jogszabályok harmonizációjáról szóló, 2014. február 26-i, 2014/28/EU európai parlamenti és tanácsi irányelv 14. cikk (1) bekezdésében meghatározott hatósági feladatokat.
 
-7. § (1) A központi nyilvántartásból teljesített adatszolgáltatásról adattovábbítási nyilvántartást kell vezetni.
+7. § (1) A központi nyilvántartásból teljesített – személyes adat továbbításával járó – adatszolgáltatásról adattovábbítási nyilvántartást kell vezetni.
 
 (2) Az adattovábbítási nyilvántartást a nyilvántartás kezelője vezeti.
 
@@ -252,6 +256,12 @@ tartása, valamint lézeres célzókészülék és éjszakai irányzék lőfegyv
 - b) a 6. § (1) bekezdésében felsoroltak.
 
 11. § Az adattovábbítási nyilvántartást az adattovábbítástól számított öt évig meg kell őrizni.
+
+### A hatástalanított lőfegyver hatástalanítását tanúsító szervezetre vonatkozó adatkezelési szabályok
+
+11/A. § (1) A hatástalanított lőfegyver hatástalanítását tanúsító szervezet az 5. § (2) bekezdés c) pont ca)–cc) alpontjában meghatározott adatokat elektronikus úton továbbítja a lőfegyverek központi nyilvántartásába.
+
+(2) Az (1) bekezdés szerint a lőfegyverek központi nyilvántartásába továbbított adatokat a hatástalanított lőfegyver hatástalanítását tanúsító szervezet a hatástalanítás időpontjától számított húsz évig megőrzi.
 
 ### A lőfegyver-kereskedőkre vonatkozó adatkezelési szabályok
 
@@ -448,9 +458,11 @@ jogosultak.
 23. § (1) Ez a törvény
 
 - a) a fegyverek megszerzésének és tartásának ellenőrzéséről szóló 91/477/EGK tanácsi irányelv módosításáról szóló, 2008. május 21-i 2008/51/EK európai parlamenti és tanácsi irányelvvel módosított, a fegyverek megszerzésének és tartásának ellenőrzéséről szóló, 1991. június 18-i 91/477/EGK tanácsi irányelvnek,
-- b) a pirotechnikai tárgyaknak és egyes lőszereknek a polgári felhasználású robbanóanyagok forgalomba hozatalára és felügyeletére vonatozó rendelkezések harmonizációjáról szóló 93/15/EGK tanácsi irányelv alkalmazásában történő meghatározásáról szóló, 2004. április 23-i 2004/57/EK bizottsági irányelvnek, valamint
+- b) a polgári felhasználású robbanóanyagok forgalmazására és ellenőrzésére vonatkozó tagállami jogszabályok harmonizációjáról szóló, 2014. február 26-i, 2014/28/EU európai parlamenti és tanácsi irányelv 12. cikkének és 14. cikk (1) bekezdésének,
 - c) a pirotechnikai termékek forgalomba hozataláról szóló, 2007. május 23-i 2007/23/EK európai parlamenti és tanácsi irányelvnek
 - d) a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+(1a) Az 5. § (2) bekezdés c) pontja és a 11/A. § a hatástalanított tűzfegyverek végleges működésképtelenségét biztosító hatástalanítási előírásokra és technikákra vonatkozó közös iránymutatások meghatározásáról szóló, 2015. december 15-i, 2015/2403 bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (2) E törvény 18/C. §-a tervezetének a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 39. cikk (5) bekezdése szerinti előzetes bejelentése megtörtént.
 

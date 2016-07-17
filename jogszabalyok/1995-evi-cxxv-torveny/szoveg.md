@@ -10,10 +10,13 @@ Az Országgyűlés a Magyarország függetlenségének és törvényes rendjéne
 
 - a) az Információs Hivatal,
 - b) az Alkotmányvédelmi Hivatal,
-- c) a Katonai Nemzetbiztonsági Szolgálat, valamint
-- d) a Nemzetbiztonsági Szakszolgálat (a továbbiakban együtt: nemzetbiztonsági szolgálatok).
+- c) a Katonai Nemzetbiztonsági Szolgálat,
+- d) a Nemzetbiztonsági Szakszolgálat, valamint
+- e) a Terrorelhárítási Információs és Bűnügyi Elemző Központ
 
-2. § (1) Az Információs Hivatal, az Alkotmányvédelmi Hivatal és a Nemzetbiztonsági Szakszolgálat (a továbbiakban együtt: polgári nemzetbiztonsági szolgálatok), a Katonai Nemzetbiztonsági Szolgálat a Kormány irányítása alatt álló, az ország egész területére kiterjedő illetékességgel rendelkező, önálló gazdálkodást folytató költségvetési szervek.
+(a továbbiakban együtt: nemzetbiztonsági szolgálatok).
+
+2. § (1) Az Információs Hivatal, az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, a Terrorelhárítási Információs és Bűnügyi Elemző Központ (a továbbiakban együtt: polgári nemzetbiztonsági szolgálatok), a Katonai Nemzetbiztonsági Szolgálat a Kormány irányítása alatt álló, az ország egész területére kiterjedő illetékességgel rendelkező, önálló gazdálkodást folytató költségvetési szervek.
 
 (2) Az e törvényben meghatározott feladatok ellátására a nemzetbiztonsági szolgálatok – a kormányzati irányítási döntéseknek megfelelően – helyi, területi szerveket hozhatnak létre.
 
@@ -57,7 +60,8 @@ bűncselekmények felderítését;
 - l) közreműködik a haditechnikai eszközök és szolgáltatások jogellenes forgalmának felderítésében, megelőzésében, megakadályozásában és legális forgalmának ellenőrzésében.
 - m) a Nemzeti Biztonsági Felügyelet megkeresésére elvégzi a hatáskörébe tartozó gazdálkodó szervezetek cégellenőrzését.
 - n) elvégzi a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések szabályairól szóló kormányrendelet szerinti előzetes minősítést, beszerzési eljáráshoz kötődő minősítést, valamint saját minősített beszerzései tekintetében elvégezheti a szükséges kiegészítő ellenőrzést,
-- o) végzi az egységes elektronikuskártya-kibocsátási keretrendszerről szóló törvény szerint kártyakibocsátás engedélyezését kérők ellenőrzését és az ezzel kapcsolatos feladatokat.
+- o) végzi az egységes elektronikuskártya-kibocsátási keretrendszerről szóló törvény szerint kártyakibocsátás engedélyezését kérők ellenőrzését és az ezzel kapcsolatos feladatokat;
+- p) felderíti és elhárítja a Magyarország nemzetbiztonságát veszélyeztető, a g) pont szerinti kérelmekhez kapcsolódó, Magyarországra jogellenesen belépő, itt tartózkodó, illetve ezt elősegítő, és ilyen módon az ország nemzetbiztonságát veszélyeztető személyek, csoportok leplezett tevékenységét;
 
 6. § A Katonai Nemzetbiztonsági Szolgálat
 
@@ -93,7 +97,11 @@ bűncselekményekre vonatkozóan, felderíti továbbá mindazon bűncselekménye
 - r) ellátja a hatáskörébe tartozó személyek nemzetbiztonsági védelmének, illetve nemzetbiztonsági ellenőrzésének feladatait;
 - s) a hatáskörébe tartozó állománya tekintetében ellátja a belső biztonsági és bűnmegelőzési célú ellenőrzési feladatokat.
 
-7. §
+7. § (1) A Katonai Nemzetbiztonsági Szolgálat a 6. § a)–g), i)–l), n)–s) pontban meghatározott feladatai ellátása során a működési területén felderített, a nemzetbiztonság katonai elemeit érintő információkat elemzi és értékeli, azokról folyamatosan tájékoztatja a honvédelemért felelős miniszter által vezetett minisztérium feladat- és hatáskörrel rendelkező vezetőit, a Magyar Honvédség feladat- és hatáskörrel rendelkező parancsnokait, vezetőit, a Magyar Honvédség vezérkari főnökét, a honvédelemért felelős minisztert, valamint a Magyar Honvédség főparancsnokát.
+
+(2) A Katonai Nemzetbiztonsági Szolgálat a 6. § h) és m) pontjában meghatározott feladatai ellátása során megszerzett információkat haladéktalanul, elemző-értékelő tevékenység mellőzésével biztosítja a Terrorelhárítási Információs és Bűnügyi Elemző Központnak.
+
+(3) A Katonai Nemzetbiztonsági Szolgálat működési területén önállóan hajtja végre Magyarország nemzetközi szerződéses kötelezettségeinek teljesítéséhez szükséges, valamint a 9. § b) pontja és a 11. § (2) bekezdés b) és i) pontja alapján kapott feladatokat.
 
 8. § (1) A Nemzetbiztonsági Szakszolgálat
 
@@ -104,19 +112,58 @@ bűncselekményekre vonatkozóan, felderíti továbbá mindazon bűncselekménye
 - e) szakértői, illetve – külön jogszabály rendelkezései szerint – igazságügyi szakértői tevékenységet végez,
 - f) ellátja az objektumai műveleti védelmének és személyi állománya, valamint a hatáskörébe tartozó más személyek nemzetbiztonsági ellenőrzésének feladatait.
 - g) elvégezheti a saját minősített beszerzései tekintetében a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések szabályairól szóló kormányrendelet szerinti kiegészítő ellenőrzést,
-- h) törvény által titkos adatszerzésre, titkos információgyűjtésre jogosult szervek erre vonatkozó megkeresésére – az adatkezelő megjelölésével – segítséget nyújthat a titkos adatszerzésre, titkos információgyűjtésre jogosult adatkezelő szervtől történő, az adatkérő által jogszerűen kezelhető adat igényléséhez.
+- h) törvény által titkos adatszerzésre, titkos információgyűjtésre jogosult szervek erre vonatkozó megkeresésére – az adatkezelő megjelölésével – segítséget nyújthat a titkos adatszerzésre, titkos információgyűjtésre jogosult adatkezelő szervtől történő, az adatkérő által jogszerűen kezelhető adat igényléséhez,
+- i) jogszabály rendelkezései szerint ellátja az állami és önkormányzati szervek elektronikus információbiztonságával kapcsolatos információbiztonsági feladatokat.
 
 (2) A Nemzetbiztonsági Szakszolgálat kormányzati tájékoztató tevékenységet nem folytathat.
 
-(3) A Nemzetbiztonsági Szakszolgálat szolgáltató szervezet, az 54. § (1) bekezdésében meghatározott eszközöket és módszereket – az e) pont kivételével – saját kezdeményezésre csak az (1) bekezdés a) és f) pontjában meghatározott feladatai ellátása érdekében alkalmazhatja.
+(3) A Nemzetbiztonsági Szakszolgálat, az 54. § (1) bekezdésében meghatározott tevékenységet, eszközöket és módszereket saját kezdeményezésre csak az (1) bekezdés a) és f) pontjában meghatározott feladatai ellátása érdekében végezheti, illetve alkalmazhatja.
 
-(4) A Nemzetbiztonsági Szakszolgálat az 54. § (1) bekezdés e) pontjában, valamint – a 71. § (8) bekezdésében foglaltak kivételével – az 56. §-ban meghatározott titkos információgyűjtés eszközeit és módszereit saját kezdeményezésre nem alkalmazhatja.
+(4) A Nemzetbiztonsági Szakszolgálat az 56. §-ban meghatározott titkos információgyűjtés eszközeit és módszereit – az (1) bekezdés f) pontjában meghatározott feladat ellátása kivételével – saját kezdeményezésre nem alkalmazhatja.
 
 (5) A Nemzetbiztonsági Szakszolgálat által teljesített szolgáltatások – az (1) bekezdés e) pontjában meghatározott igazságügyi szakértői tevékenységet kivéve – térítésmentesek.
 
 (6) A titkos információgyűjtésre, illetve a titkos adatszerzésre felhatalmazott szervek és a Nemzetbiztonsági Szakszolgálat közötti együttműködés rendjét a Kormány határozza meg.
 
-(7) A Nemzetbiztonsági Szakszolgálat a megkeresések teljesítésekor – a nemzetközi bűnügyi együttműködés keretében végzett határon átnyúló megfigyelés kivételével – kizárólag Magyarország területén tevékenykedhet.
+(7)
+
+8/A. § (1) A Terrorelhárítási Információs és Bűnügyi Elemző Központ vizsgálja Magyarország biztonsági és bűnügyi helyzetét, amelynek keretében
+
+- a) figyelemmel kíséri és a rendelkezésre álló valamennyi adat felhasználásával folyamatosan elemzi Magyarország nemzetbiztonsági, bűnügyi és terrorfenyegetettségi helyzetét;
+- b) megkeresésre értékeli – figyelemmel az együttműködés és koordináció keretében szerzett tapasztalatokra – az egyes együttműködő szervek kormányzati tájékoztatáshoz kapcsolódó feladat- és hatáskörébe tartozó feladat-végrehajtást;
+- c) folyamatosan figyelemmel kíséri a Magyarország terrorhelyzetére vonatkozó információkat;
+- d) közvetlen terrorfenyegetettség esetén, illetve a fokozott kockázatot jelentő biztonsági kérdésekben koordinációs tevékenységet lát el az érintett szervezetek bevonásával;
+- e) figyelemmel kíséri Magyarország biztonsági és bűnügyi helyzetét érintő tendenciákat, Magyarország biztonsági és bűnügyi helyzetét érintő új jelenségekről elemzéseket, tanulmányokat készít.
+
+(2) A Terrorelhárítási Információs és Bűnügyi Elemző Központ a kormányzati tájékoztató tevékenység során a nemzetbiztonsági, bűnügyi és terrorfenyegetettségi kérdésekkel kapcsolatos stratégiai döntések meghozatalának elősegítése céljából
+
+- a) javaslatot tesz a nemzetbiztonsági szolgálatokat irányító miniszterek részére az időszerű feladatok meghatározására;
+- b) kormányzati tájékoztató és döntéstámogató, valamint biztonságpolitikai és bűnügyi stratégiai elemző tevékenységet folytat, ennek érdekében az együttműködő szervek számára információs igényeket határoz meg;
+- c) a Magyarország terrorhelyzetére vonatkozó információk értékelése alapján javaslatot tesz a terrorfenyegetettség szintjének meghatározására;
+- d) összeállítja, folyamatosan aktualizálja, majd az együttműködő szervek irányába közvetíti a Kormány által megfogalmazott, a döntései meghozatalához szükséges eseti és időszakos hírigényeket;
+- e) a hírigények kapcsán rendelkezésre álló, illetve aktuálisan keletkezett információk felhasználásával a Kormány, valamint a Kormány nemzetbiztonsági döntéseit előkészítő szervezet, valamint annak munkáját segítő munkacsoport részére tájékoztató tevékenységet folytat;
+- f) az általa kezelt adatok elemzésének eredményeként személyazonosításra alkalmatlan statisztikai adatok szolgáltatásával segítséget nyújt a biztonsági és bűnügyi kérdésekkel kapcsolatos kormányzati döntések meghozatalához.
+
+(3) A Terrorelhárítási Információs és Bűnügyi Elemző Központ támogató, koordinációs elemző-értékelő tevékenység során
+
+- a) elemző, tájékoztató és koordinációs tevékenysége kiterjed az együttműködő szervek hatáskörébe és illetékességébe utalt, valamennyi információra;
+- b) az együttműködő szerveket visszatájékoztatja az információik felhasználásáról, valamint az annak kapcsán szükséges további feladatokról, információszerzési irányokról;
+- c) a nemzeti szintű koordináció elősegítése érdekében, elemzési feladatai ellátása, illetve az együttműködő szervek támogatása céljával adatbázisokat kezel;
+- d) nyílt információgyűjtést- és feldolgozást végző szolgáltató és támogató szervet működtet;
+- e) elemzések készítésével információs támogatást nyújt a Kormány, a Kormány nemzetbiztonsági döntéseit előkészítő szervezet, valamint annak munkáját segítő munkacsoport számára;
+- f) országos jelentőségű, több szervet érintő, valamint a Kormány, a Kormány nemzetbiztonsági döntéseit előkészítő szervezet, valamint annak munkáját segítő munkacsoport által meghatározott ügyekben elemző-értékelő és koordinációs tevékenységet lát el;
+- g) Magyarország nemzetbiztonsági, terrorfenyegetettségi és bűnügyi helyzetével, ezek meghatározott elemeivel, konkrét kockázatokkal vagy bűncselekményekkel kapcsolatos tájékoztató jelentéseket, háttér- és kockázatelemzéseket készít az együttműködő szervek részére a hatáskörükbe tartozó feladatok törvényes, szakszerű és eredményes ellátásának elősegítése céljából;
+- h) feltárja az együttműködő szervek által folytatott párhuzamos adatkezeléseket, különösen a több együttműködő szerv által ugyanazon bűncselekmény, személy vagy egyéb tárgykör vonatkozásában párhuzamosan folytatott titkos információgyűjtéseket, illetve az ugyanazon bűncselekmény miatt párhuzamosan folytatott nyomozásokat és ezekről tájékoztatja az érintett együttműködő szerveket;
+- i) abban az esetben, ha bűncselekmény gyanúját észleli, illetve ha titkos információgyűjtés elrendelését tartja szükségesnek, megküldi az erre vonatkozó adatot az adott bűncselekmény nyomozására, illetve a titkos információgyűjtés teljesítésére hatáskörrel rendelkező együttműködő szervnek és kezdeményezi a szükséges intézkedés megtételét;
+- j) figyelemmel kíséri, hogy az együttműködő szerv által folytatott nyomozás vagy titkos információgyűjtés során keletkezett és a Terrorelhárítási Információs és Bűnügyi Elemző Központ által felhasznált adattal kapcsolatban rendelkezésre áll-e az adatot pontosító, kiegészítő információ; ha a pontosító, kiegészítő információt tartalmazó adatot másik együttműködő szerv kezeli, a Terrorelhárítási Információs és Bűnügyi Elemző Központ mindkét együttműködő szervet értesíti és kezdeményezi a kapcsolatfelvételt;
+- k) figyelemmel kíséri a bűnszervezetek és terrorszervezetek, valamint a szervezett bűnözői és terrorista csoportok tevékenységét, az ilyen szervezetek és csoportok egymáshoz való viszonyát, kapcsolatait, a jogsértő módon szerzett vagyonuk, illetve az ilyen vagyon jogsértő eredetének leplezésére irányuló törekvéseik és az ilyen célt szolgáló vállalkozásaik elemzésével segítséget nyújt az ellenük való fellépéshez;
+- l) az általa kezelt adat együttműködő szerv részére történő továbbításával egyidejűleg javaslatot tesz az adat további, az együttműködő szerv feladat- és hatáskörébe tartozó eljárásban történő felhasználására.
+
+(4) A Terrorelhárítási Információs és Bűnügyi Elemző Központ ellátja az utasadat-információs egység feladatait.
+
+(5) A (3) bekezdés h) pontjában meghatározott esetben, amennyiben a párhuzamos adatkezelést végző egyik szerv a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, az Információs Hivatal vagy a Katonai Nemzetbiztonsági Szolgálat, a Terrorelhárítási Információs és Bűnügyi Elemző Központ a párhuzamos adatkezelésről csak a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, az Információs Hivatal vagy a Katonai Nemzetbiztonsági Szolgálat főigazgatójának hozzájárulásával tájékoztathat másik együttműködő szervet.
+
+(6) Az együttműködő szerv a Terrorelhárítási Információs és Bűnügyi Elemző Központ által továbbított adat felhasználásáról, valamint a Terrorelhárítási Információs és Bűnügyi Elemző Központ által az adat felhasználására tett javaslat, illetve a Terrorelhárítási Információs és Bűnügyi Elemző Központ által tett egyéb jelzés, kezdeményezés elfogadásáról vagy elutasításáról nyolc munkanapon belül tájékoztatja az irányító minisztert és a Terrorelhárítási Információs és Bűnügyi Elemző Központot.
 
 9. § A nemzetbiztonsági szolgálatok
 
@@ -131,10 +178,12 @@ bűncselekményekre vonatkozóan, felderíti továbbá mindazon bűncselekménye
 10. § (1) A Kormány
 
 - a) az Információs Hivatalt a polgári hírszerzési tevékenység irányításáért felelős miniszter,
-- b) az Alkotmányvédelmi Hivatalt és a Nemzetbiztonsági Szakszolgálatot a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter,
+- b) az Alkotmányvédelmi Hivatalt, a Nemzetbiztonsági Szakszolgálatot és a Terrorelhárítási Információs és Bűnügyi Elemző Központot a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter,
 - c) a Katonai Nemzetbiztonsági Szolgálatot a honvédelemért felelős miniszter [az a)–c) pont szerinti miniszterek a továbbiakban együtt: miniszter] útján irányítja.
 
-(2)–(3)
+(2) A Terrorelhárítási Információs és Bűnügyi Elemző Központ kezelésében lévő közérdekű adatok és közérdekből nyilvános adatok kezelése tekintetében az irányítási jogkör a polgári nemzetbiztonsági szolgálatok irányításáért felelős minisztert illeti meg.
+
+(3)
 
 11. § (1) A miniszter
 
@@ -168,9 +217,9 @@ bűncselekményekre vonatkozóan, felderíti továbbá mindazon bűncselekménye
 
 (5) A miniszter kivizsgálja a nemzetbiztonsági szolgálatok tevékenységével kapcsolatos panaszokat, a vizsgálat eredményéről és a megtett intézkedésekről 30 napon belül tájékoztatja a panaszost. Ez a határidő egy esetben 30 nappal meghosszabbítható.
 
-(6) A polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter az Alkotmányvédelmi Hivatal és a Nemzetbiztonsági Szakszolgálat tekintetében, a polgári hírszerzési tevékenység irányításáért felelős miniszter az Információs Hivatal tekintetében irányítja az állami szervektől származó, az ország nemzetbiztonságára vonatkozó információk elemzését, értékelését, valamint az e tárgyú kormányzati döntéselőkészítést támogató munkát.
+(6) A polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter az Alkotmányvédelmi Hivatal és a Nemzetbiztonsági Szakszolgálat tekintetében, a polgári hírszerzési tevékenység irányításáért felelős miniszter az Információs Hivatal tekintetében irányítja az állami szervektől származó, az ország nemzetbiztonságára vonatkozó információk elemzését, értékelését, valamint az e tárgyú kormányzati döntés-előkészítést támogató munkát. A polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter – a Terrorelhárítási Információs és Bűnügyi Elemző Központon keresztül – irányítja az állami szervektől származó biztonsági és bűnügyi helyzetre vonatkozó információk elemzését, értékelését, valamint az e tárgyú kormányzati döntés-előkészítést támogató munkát.
 
-(7) Az Alkotmányvédelmi Hivatal és a Nemzetbiztonsági Szakszolgálat belső bűnmegelőzési és bűnfelderítési ellenőrzését a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv végzi.
+(7) Az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat és a Terrorelhárítási Információs és Bűnügyi Elemző Központ belső bűnmegelőzési és bűnfelderítési ellenőrzését a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv végzi.
 
 11/A. § (1) A polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter az Alkotmányvédelmi Hivatal, a polgári hírszerzési tevékenység irányításáért felelős miniszter az Információs Hivatal, a honvédelemért felelős miniszter a Katonai Nemzetbiztonsági Szolgálat tekintetében ellátja a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat alapján kijelölt nemzeti központi hozzáférési pont feladatait.
 
@@ -206,7 +255,7 @@ bűncselekményekre vonatkozóan, felderíti továbbá mindazon bűncselekménye
 - a) felelős a nemzetbiztonsági szolgálat törvényes, rendeltetésszerű és szakszerű működéséért, a nemzetbiztonsági szolgálat feladatainak végrehajtásáért;
 - b) a vezetése alatt álló nemzetbiztonsági szolgálat részére utasítást adhat ki;
 - c) felelős a nemzetbiztonsági szolgálat önálló költségvetési gazdálkodásáért, a könyvvezetési és beszámolási kötelezettség teljesítéséért;
-- d) a miniszter jóváhagyásával meghatározza a titkos információgyűjtés belső eljárási és engedélyezési szabályait;
+- d) a miniszter jóváhagyásával – a Terrorelhárítási Információs és Bűnügyi Elemző Központ főigazgatójának kivételével – meghatározza a titkos információgyűjtés belső eljárási és engedélyezési szabályait;
 - e) meghatározza az adatkezelés belső eljárási szabályait;
 - f) gondoskodik a szervezeti és működési szabályzat, valamint egyéb belső rendelkezések elkészítéséről, azok összhangjának megteremtéséről és érvényesítéséről;
 - g) javaslatot tesz a miniszternek a főigazgató-helyettes kinevezésére és felmentésére, illetve a tábornoki és ezredesi kinevezésekre;
@@ -336,6 +385,10 @@ terheli.
 
 20. § (1) A nemzetbiztonsági szolgálatok személyi állománya kormánytisztviselőkből,hivatásos szolgálati viszonyban álló személyekből és közalkalmazottakból áll.
 
+(1a) A Terrorelhárítási Információs és Bűnügyi Elemző Központba az együttműködő szervnél hivatásos szolgálati viszonyban állók vezényelhetőek, a kormánytisztviselők kirendelhetőek.
+
+(1b) A Terrorelhárítási Információs és Bűnügyi Elemző Központ a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényben meghatározott rendvédelmi feladatokat ellátó szervnél hivatásos szolgálati viszonyban állók, valamint a honvédek jogállásáról szóló törvényben meghatározottak szerint a Katonai Nemzetbiztonsági Szolgálathoz vezényelt állomány tagjának szolgálatteljesítési helyéül kijelölhető.
+
 (2) A Katonai Nemzetbiztonsági Szolgálat személyi állománya az (1) bekezdésben foglaltakon túl önkéntes tartalékos katonákból áll. A Katonai Nemzetbiztonsági Szolgálat hivatásos és önkéntes tartalékos állományú tagjai a Magyar Honvédség állományába tartoznak. Szolgálati viszonyukra a hivatásos és önkéntes tartalékos katonák szolgálati viszonyára vonatkozó jogszabályokat kell alkalmazni.
 
 (3) A miniszter jogosult munkavégzés céljából a nemzetbiztonsági szolgálatok hivatásos állományú tagját az irányítási feladatok ellátását segítő szervezethez vezényelni.
@@ -390,7 +443,7 @@ terheli.
 
 (3) A nemzetbiztonsági szolgálatok feladataik ellátása során együttműködhetnek természetes személyekkel, jogi személyekkel vagy jogi személyiséggel nem rendelkező szervezetekkel. Az együttműködés részletes szabályait – a törvényi előírások keretei között – külön megállapodások rögzíthetik.
 
-(4) A nemzetbiztonsági szolgálatok nemzetközi megállapodások és kötelezettségvállalások alapján együttműködhetnek külföldi titkosszolgálatokkal.
+(4) A nemzetbiztonsági szolgálatok nemzetközi megállapodások és kötelezettségvállalások alapján együttműködhetnek külföldi titkosszolgálatokkal. A Terrorelhárítási Információs és Bűnügyi Elemző Központ az előzőeken túlmenően – a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter jóváhagyásával – közvetlenül kapcsolatot tarthat fenn nemzetközi szervezetekkel, külföldi állam rendőri, közigazgatási, bűnüldöző, nemzetbiztonsági, vagy e célok elősegítésére létrehozott szervével.
 
 (5) A nemzetbiztonsági szolgálatok a biztonsági követelmények érvényesítése érdekében a társadalombiztosítási, egészségügyi, adóelszámolási, költségvetési, pénzügyi, statisztikai adatszolgáltatással, a maradandó értékű irat védelme érdekében végzett levéltári ellenőrzéssel, valamint a speciális működési költségek körébe tartozó valutafelhasználással kapcsolatos eljárási szabályokat – a törvényi előírások keretei között – az illetékes szervezetekkel külön megállapodásban rögzítik.
 
@@ -405,6 +458,24 @@ terheli.
 (3) A nemzetbiztonsági szolgálatok nem kezdeményezhetnek munkaviszonyt bíróságnál, ügyészségnél, az Alkotmánybíróságnál, az Állami Számvevőszéknél, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, az Alapvető Jogok Biztosának Hivatalánál, a Köztársasági Elnök Hivatalánál és az Országgyűlés Hivatalánál.
 
 (4) A foglalkoztatás nemzetbiztonsági jellegével kapcsolatos speciális szabályokat – a hatályos jogszabályok keretei között – a nemzetbiztonsági szolgálatok és az érintett szervezet külön megállapodása tartalmazza.
+
+### A Terrorelhárítási Információs és Bűnügyi Elemző Központ működésére vonatkozó különös rendelkezések
+
+30/A. § Az együttműködő szervek a következők:
+
+- a) a rendőrségről szóló törvényben meghatározott általános rendőrségi feladatok ellátására létrehozott szerv,
+- b) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv,
+- c) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv,
+- d) a Nemzeti Adó- és Vámhivatal,
+- e) a polgári nemzetbiztonsági szolgálatok,
+- f) a Katonai Nemzetbiztonsági Szolgálat,
+- g) az idegenrendészeti hatóság,
+- h) a menekültügyi hatóság,
+- i) az állampolgársági ügyekben eljáró szerv,
+- j) a büntetés-végrehajtás központi szerve,
+- k) a bűnügyi nyilvántartó szerv,
+- l) a hivatásos katasztrófavédelmi szerv központi szerve,
+- m) a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv.
 
 ### A nemzetbiztonsági szolgálatok által alkalmazható intézkedések
 
@@ -481,27 +552,61 @@ terheli.
 - a) az érintett önkéntes, illetve e törvényben előírt kötelező adatszolgáltatásával;
 - b) nyílt forrásból;
 - c) adatkezelést végző szerv adatszolgáltatásából;
-- d) titkos információgyűjtéssel.
+- d) e törvényben meghatározott esetekben közvetlen elektronikus adatkapcsolat útján,
+- e) titkos információgyűjtéssel az (1a) bekezdésben meghatározott kivétellel.
+
+(1a) A Terrorelhárítási Információs és Bűnügyi Elemző Központ titkos információgyűjtést nem folytat.
 
 (2) A nemzetbiztonsági szolgálatok az adatkezelés során kötelesek az adott cél eléréséhez feltétlenül szükséges, ugyanakkor az érintett személyiségi jogait legkevésbé korlátozó eszközt igénybe venni.
 
 (3) A nemzetbiztonsági ellenőrzés alá eső személy a nemzetbiztonsági ellenőrzéshez szükséges adatokat köteles a nemzetbiztonsági ellenőrzést végrehajtó nemzetbiztonsági szolgálattal közölni.
 
-40. § (1) A nemzetbiztonsági szolgálatok feladataik teljesítése érdekében – eltérő törvényi rendelkezés hiányában – bármely adatkezelési rendszerből – az adatkérés céljának megjelölésével – adatokat kérhetnek, a rendszerekbe és a nyilvántartás alapjául szolgáló iratba betekinthetnek. Az adatkérést hiányos és töredékadatok tekintetében is teljesíteni kell. Az adattovábbítás tényét mind az átadó, mind az átvevő szervnél dokumentálni kell.
+40. § (1) A nemzetbiztonsági szolgálatok feladataik teljesítése érdekében – eltérő törvényi rendelkezés hiányában – bármely adatkezelési rendszerből – az adatkérés céljának megjelölésével – adatokat kérhetnek, a rendszerekbe és a nyilvántartás alapjául szolgáló iratba betekinthetnek. Az adatkérés alapján az állami szerv, valamint a hitelintézetekről és pénzügyi vállalkozásokról szóló törvényben meghatározott pénzügyi intézmény az adattovábbítást elektronikus formában, elektronikus adatkapcsolat útján, az érintett nemzetbiztonsági szolgálat által meghatározott műszaki követelményeknek megfelelő, az adatkezelő által térítésmentesen kiépített és üzemeltetett csatlakozási felületen hajtja végre, valamint hiányos és töredékadatok tekintetében is teljesíti.
+
+(1a) Az (1) bekezdésben meghatározott adattovábbításokról az átadó szerv az adattovábbítás tényének és időpontjának, valamint az átvevő szerv által az adatkéréskor képzett egyedi azonosítónak a rögzítésével, illetve az átvevő szerv az adattovábbítás tényének, időpontjának, egyedi azonosítójának és az adatkérés céljának rögzítésével olyan elkülönült nyilvántartást vezet, amely kizárja az utólagos módosítás lehetőségét. A nyilvántartásokból az egyes adattovábbításokra vonatkozó adatok az adattovábbítástól számított öt év elteltével törölhetőek.
+
+(1b) Az (1) bekezdésben meghatározott igényeknek megfelelő műszaki rendszert az adatkezelőnek az érintett nemzetbiztonsági szolgálat részére a műszaki követelményekről történő írásbeli tudomásszerzéstől számított hat hónapon belül kell kialakítani.
 
 (2) A nemzetbiztonsági szolgálatok az állami szervek, a pénzintézetek, a biztosítóintézetek és a távközlési szolgáltatást végző szervezetek által kezelt nyilvántartások adatait térítés nélkül kérhetik, illetve vehetik igénybe. Egyéb adatkezelő szerv a nemzetbiztonsági szolgálatok adatkérésével kapcsolatos költségeit utólag érvényesítheti.
 
 (3) A nemzetbiztonsági szolgálatok a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szervtől történő adatkérés, az érintettel és más adatkezelővel való kapcsolattartás során, és nyilvántartásaikban az e törvényben meghatározott feladataik ellátása céljából – jogszabályban meghatározott módon – személyi azonosítót, természetes személyazonosító adatokat, valamint adóazonosító jelet, illetve egyéb azonosítókat használhatnak.
 
-41. § (1) A nemzetbiztonsági szolgálatok feladataik ellátása érdekében a polgárok személyi adatait és lakcímét nyilvántartó szervek, a személyiadat- és lakcímnyilvántartásért felelős miniszter által vezetett minisztérium és a Rendőrség nyilvántartásaiban, az egyéb igazgatási, valamint a határforgalom ellenőrzését szolgáló nyilvántartó rendszerekben írásban – az intézkedés céljának megjelölésével – jelzések elhelyezését rendelhetik el.
+(4) A nemzetbiztonsági szolgálatok a feladataik teljesítése érdekében jogosultak a közterületen elhelyezett képfelvétel, hangfelvétel, kép- és hangfelvétel rögzítésére alkalmas eszközt üzemeltető állami szerv által rögzített képfelvétel, hangfelvétel, kép- és hangfelvétel átvételére.
+
+41. § (1) A nemzetbiztonsági szolgálatok feladataik ellátása érdekében
+
+- a) a polgárok személyi és lakcímének adatait nyilvántartó, kezelő állami vagy önkormányzati szerv nyilvántartásaiban,
+- b) a személyiadat- és lakcímnyilvántartásáért felelős miniszter által vezetett minisztérium nyilvántartásaiban,
+- c) az általános rendőrségi feladatok ellátására létrehozott szerv nyilvántartásaiban,
+- d) az ingatlan-nyilvántartásban,
+- e) a cégnyilvántartásban,
+- f) a határforgalom ellenőrzését szolgáló nyilvántartó rendszerekben,
+- g) valamennyi gépjárműnek, továbbá azok hatósági jelzésének bármely célból való nyilvántartására jogosult szerv nyilvántartásaiban,
+- h) az egészségügyi és a hozzá kapcsolódó adatot kezelő szervek nyilvántartásaiban,
+- i) a banktitoknak, fizetési titoknak, értékpapírtitoknak, pénztártitoknak, biztosítási titoknak és egyéb üzleti titoknak minősülő adatot kezelő, mindenki által elérhető, bárki által hozzáférhető szolgáltatást nyújtó szervek nyilvántartásaiban,
+- j) az állami adóhatóság és az önkormányzati adóhatóság nyilvántartásaiban,
+- k) a postai szolgáltató nyilvántartásaiban,
+- l) az elektronikus hírközlési szolgáltató rendszereiben
+
+megőrzésre alkalmas módon, dokumentáltan – az intézkedés céljának és időpontjának, határidejének, vagy időtartamának megjelölésével – jelzések elhelyezését rendelhetik el, melyekre vonatkozóan jelzőrendszert működtethetnek.
 
 (2) A jelzésben a nemzetbiztonsági szolgálatok adatváltozást, illetve az érintett személyre vonatkozó megkeresés esetében értesítés adását, továbbá a határforgalomra vonatkozóan – írásban – az érintett feltartóztatását is kérhetik. Az érintett szerv a nemzetbiztonsági szolgálatok megkeresésében foglalt intézkedést teljesíti.
 
 (3) A nemzetbiztonsági szolgálatok haladéktalanul kötelesek intézkedni a jelzés elhelyezésének megszüntetéséről, ha az arra okot adó körülmény megszűnt.
 
+(4) A jelzések elhelyezésére való intézkedést, valamint a jelzőrendszer működtetését az adatkezelés megfelelő dokumentálása mellett – ha a nyilvántartások ezt lehetővé teszik – elektronikus formában, lehetőség szerint elektronikus adatkapcsolat útján, a jelzőrendszert működtető nemzetbiztonsági szolgálat által meghatározott műszaki követelményeknek megfelelő, az adatot szolgáltató szerv által a (6) és (7) bekezdésben meghatározottak szerint kiépített és üzemeltetett csatlakozási felületen kell végrehajtani.
+
+(5) A (4) bekezdésben meghatározott igényeknek megfelelő műszaki rendszert az adatot szolgáltató szervnek a jelzőrendszert működtető nemzetbiztonsági szolgálat részére a műszaki követelményekről történő írásbeli tudomásszerzéstől számított hat hónapon belül kell kialakítania.
+
+(6) Az (1) bekezdésben meghatározott jelzőrendszert az (1) bekezdés szerinti nyilvántartást vezető állami szervek, valamint a többségi állami tulajdonú gazdasági társaságok saját költségvetésük terhére alakítják ki és működtetik.
+
+(7) A (6) bekezdésben meg nem határozott szervek és gazdasági társaságok – törvény eltérő rendelkezése hiányában – az (1) bekezdésben meghatározott jelzőrendszert a jelzőrendszert működtető nemzetbiztonsági szolgálat költségvetésének terhére alakítják ki és működtetik.
+
 41/A. § (1) A polgári nemzetbiztonsági szolgálatok a Schengeni Információs Rendszerbe rejtett ellenőrzésre irányuló figyelmeztető jelzés elhelyezését kezdeményezhetik a rendőrségnél, ha a birtokukba került adatok alapján Magyarország nemzetbiztonsági érdekeinek érvényesítése érdekében az szükségessé válik.
 
 (2) A polgári nemzetbiztonsági szolgálatok – az (1) bekezdésben meghatározott esetben – kizárólag a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i 2007/533/IB tanácsi határozat 36. cikk (3) bekezdése szerinti tájékoztatást követően kezdeményezhetik a rejtett ellenőrzésre irányuló figyelmeztető jelzés elhelyezését.
+
+41/B. § A Terrorelhárítási Információs és Bűnügyi Elemző Központ a hatáskörébe tartozó ügyekben a 41–41/A. §-ban foglaltakon kívül az együttműködő szerv adatkezelési rendszerében is – kizárólag egyedileg megjelölt adat keletkezéséről vagy megváltozásáról történő értesítés kérése céljából, a cél megjelölésével – elrendelheti jelzés elhelyezését.
 
 42. § (1)
 
@@ -564,6 +669,12 @@ terheli.
 
 (9) A betekintés céljából történő hozzáférés kezdeményezésére csak az a személy jogosult, akinek a feladatköre alapján az Alkotmányvédelmi Hivatal, az Információs Hivatal vagy a Katonai Nemzetbiztonsági Szolgálat főigazgatója erre felhatalmazást adott, és erről a VIS nemzeti központi hatóságot értesítette. A (4) bekezdés b) pontja szerinti azonosító kódot az értesítést követően a VIS nemzeti központi hatóság bocsátja a kezdeményezésre jogosult személy rendelkezésére. Vissza kell vonni a felhatalmazását annak – és erről a VIS nemzeti központi hatóságot értesíteni kell –, akinek a felhatalmazás alapjául szolgáló feladatköre megszűnt.
 
+45/A. § (1) A nemzetbiztonsági szolgálat – amennyiben nemzetközi megállapodás vagy kötelezettségvállalás másként nem rendelkezik – más EGT-állam titkosszolgálatától érkezett megkeresés alapján közreműködik az e törvény szerinti nemzetbiztonsági ellenőrzéssel azonos megítélés alá eső eljárások (biztonsági ellenőrzés) során felmerülő adattári ellenőrzések végrehajtásában, amely során a nemzetbiztonsági szolgálat a megkeresés céljára figyelemmel más állami adatkezelő szervtől adatok igénylésére jogosult.
+
+(2) A nemzetbiztonsági szolgálat az eljárása során keletkezett adatokat továbbítja az EGT-állam titkosszolgálata részére, amennyiben az adattovábbítás nemzetbiztonsági érdeket nem sért.
+
+(3) A nemzetbiztonsági szolgálat főigazgatója a megkeresés alapján továbbított adatok felhasználására vonatkozóan korlátokat határozhat meg.
+
 46. § A nemzetbiztonsági szolgálatok a személyes adatok továbbításáról nyilvántartást vezetnek, amely tartalmazza
 
 - a) az adatigénylési kérelmet;
@@ -571,9 +682,13 @@ terheli.
 - c) az adattovábbítás idejét;
 - d) az adatszolgáltatást tartalmazó iratok és egyéb dokumentumok másodpéldányát.
 
-47. § (1) A nemzetbiztonsági szolgálatok – konkrét feladataik teljesítése érdekében, ha az adatvédelem és az adatbiztonság feltételei a másik adatkezelő részéről is biztosítottak – adatkezelési rendszereiket egymás és más állami adatkezelő szervek adatkezelési rendszerével összekapcsolhatják.
+47. § (1) A (3) bekezdésben foglalt kivétellel a nemzetbiztonsági szolgálatok – konkrét feladataik teljesítése érdekében, ha a személyes adatoknak az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározott szintű védelme, illetve az adatbiztonság feltételei a másik adatkezelő részéről is biztosítottak – adatkezelési rendszereiket egymás és más állami adatkezelő szervek adatkezelési rendszerével összekapcsolhatják.
 
-(2) Az összekapcsolást a konkrét nemzetbiztonsági feladat elvégzését követően meg kell szüntetni, az összekapcsolás során keletkezett adatállományt az eljárás befejezését követően törölni kell.
+(2) Az összekapcsolást a konkrét nemzetbiztonsági feladat elvégzését követően meg kell szüntetni, az összekapcsolás során keletkezett adatállományt az eljárás befejezését követően törölni kell. Nem kell törölni az összekapcsolás eredményeként keletkezett azon adatot, amely a nemzetbiztonsági szolgálatok feladatainak ellátásához szükséges.
+
+(3) A Terrorelhárítási Információs és Bűnügyi Elemző Központ adatkezelési rendszerét a további nemzetbiztonsági szolgálatok nem kapcsolhatják össze a saját adatkezelési rendszereikkel.
+
+(4) A Terrorelhárítási Információs és Bűnügyi Elemző Központ az adatkezelési rendszerét a további nemzetbiztonsági szolgálatok adatkezelési rendszereivel – ha a személyes adatoknak az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározott szintű védelme biztosított – a (2) bekezdésben foglalt korlátozás nélkül összekapcsolhatja.
 
 48. § (1) A nemzetbiztonsági szolgálatok által kezelt adatokról, és a 46. §-ban meghatározott adattovábbítási nyilvántartásból az érintett kérelmére történő tájékoztatást, a személyes adatainak törlését, valamint a nemzetbiztonsági szolgálat által kezelt közérdekű adat megismerésére irányuló kérelmet a nemzetbiztonsági szolgálat főigazgatója – nemzetbiztonsági érdekből vagy mások jogainak védelme érdekében – megtagadhatja.
 
@@ -616,9 +731,105 @@ kapcsolatos adatok.
 
 52. §
 
+### A Terrorelhárítási Információs és Bűnügyi Elemző Központ adatkezelésére vonatkozó különös rendelkezések
+
+52/A. § (1) A Terrorelhárítási Információs és Bűnügyi Elemző Központ az együttműködő szervtől adatokat az 52/B–52/G. §-ban meghatározottak szerint kizárólag a 8/A. § (1)–(3) bekezdésében meghatározott feladatok ellátása céljából szerezhet be.
+
+(2) A Terrorelhárítási Információs és Bűnügyi Elemző Központ a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervének, a Rendőrségről szóló 1994. évi XXXIV. törvény 7. § (1) bekezdés b) pontjában meghatározott feladatával összefüggésben keletkezett adatokat nem szerezheti be.
+
+52/B. § (1) A Terrorelhárítási Információs és Bűnügyi Elemző Központ az együttműködő szerv által kezelt, a Terrorelhárítási Információs és Bűnügyi Elemző Központ 8/A. § (1)–(3) bekezdésében meghatározott feladat- és hatáskörének gyakorlásához szükséges adatot
+
+- a) – e törvény eltérő rendelkezése hiányában – az azt tartalmazó adatkezelési rendszerből közvetlen elektronikus adatkapcsolat útján,
+- b) az azt tartalmazó adatkezelési rendszerhez közvetlen és teljes körű hozzáférést biztosító más módon, elsősorban a Terrorelhárítási Információs és Bűnügyi Elemző Központ által meghatározott elektronikus adathordozó eszközzel
+
+szerzi be.
+
+(2) A Terrorelhárítási Információs és Bűnügyi Elemző Központ a 30/A. § e)–f) pontjában meghatározott együttműködő szerv adatkezelési rendszerében található biztonsági és bűnügyi helyzetre vonatkozó adatot közvetlen elektronikus adatkapcsolat útján akkor szerzi be, ha az az együttműködő szerv törvényben meghatározott feladatainak hatékony ellátását nem veszélyezteti, egyéb esetben az adatot kizárólag egyedileg létrehozott, kapcsolat nélküli független nem folyamatos lekérdezés útján szerzi be.
+
+(3) A Terrorelhárítási Információs és Bűnügyi Elemző Központ a 30/A. § g)–m) pontjában meghatározott együttműködő szerv adatkezelési rendszerében található adatot kizárólag akkor szerzi be az (1) bekezdés b) pontjában írt módon, ha az adatot az (1) bekezdés a) pontjában írt módon nem lehet beszerezni.
+
+(4) A Terrorelhárítási Információs és Bűnügyi Elemző Központ a 30/A. § a)–e) pontjában meghatározott együttműködő szerv adatkezelési rendszerében található adatot a (3) bekezdésben foglalt feltétel hiányában is beszerezheti az (1) bekezdés b) pontjában meghatározott módon.
+
+(5) A 30/A. § a)–f) pontjában meghatározott együttműködő szerv adatkezelési rendszerében található adatot kizárólag az adott együttműködő szerv azon hivatásos szolgálati viszonyban álló tagja szerezheti be, aki a szolgálatát a 20. § (1a) vagy (1b) bekezdése alapján a Terrorelhárítási Információs és Bűnügyi Elemző Központnál teljesíti.
+
+52/C. § (1) A közvetlen elektronikus adatkapcsolat együttműködő szerv adatkezelési rendszere elérését biztosító felülete kiépítésének és működtetésének költségét az együttműködő szerv viseli, az azon keresztül történő adatelérést a Terrorelhárítási Információs és Bűnügyi Elemző Központnak térítésmentesen biztosítja.
+
+(2) A közvetlen elektronikus adatkapcsolatot olyan módon kell megvalósítani, hogy
+
+- a) az kizárólag az 52/B. § (1) bekezdésében meghatározott adat elérését tegye lehetővé,
+- b) az ne eredményezze az együttműködő szerv részére titkos együttműködés keretében információt szolgáltató személy kilétének felfedését,
+- c) annak jogszerűsége, célhoz kötöttsége, továbbá az adathoz az 52/G. § alapján hozzáférő személy egyéni felelőssége megállapítható legyen,
+- d) ne veszélyeztesse az együttműködő szerv hatékony működését.
+
+(3) A (2) bekezdés rendelkezéseit megfelelően alkalmazni kell az 52/B. § (2) bekezdése szerinti adatkapcsolat esetében.
+
+(4) A Terrorelhárítási Információs és Bűnügyi Elemző Központ a közvetlen elektronikus adatkapcsolat útján az együttműködő szerv adatkezelési rendszerében található adatot nem változtathatja meg, az adatkezelési rendszerben adatot nem helyezhet el.
+
+(5) Az 52/B. §-ban meghatározott adatszolgáltatás tényét mind az együttműködő szervnél, mind a Terrorelhárítási Információs és Bűnügyi Elemző Központnál az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározott adattovábbítási nyilvántartásban kell rögzíteni.
+
+(6) Amennyiben a minősített adat az Észak-atlanti Szerződés Szervezete, valamint az Európai Unió Tanácsa, az Európai Bizottság, az Európai Atomenergia Közösség, az Európai Rendőrségi Hivatal, az Európai Igazságügyi Együttműködési Egység valamely szervétől vagy külföldi titkosszolgálatoktól származik, az adat átadásáról az együttműködő szerv vezetője dönt.
+
+52/D. § A Terrorelhárítási Információs és Bűnügyi Elemző Központ nemzetbiztonsági célból beszerzi és kezeli a törvénnyel kihirdetett nemzetközi szerződés vagy az Európai Unió kötelező jogi aktusa alapján az ott meghatározott adatkörben és időtartamban a külföldi szerv által a rendelkezésére bocsátott adatot is.
+
+52/E. § (1) A Terrorelhárítási Információs és Bűnügyi Elemző Központ az általa kezelt adatot az adat kezelésére feljogosított, feladat- és hatáskörénél fogva érintett együttműködő szervnek a 8/A. § (3) bekezdésében foglaltakra figyelemmel továbbítja, feltéve hogy az együttműködő szerv törvény alapján jogosult az adat kezelésére és az hatásköre gyakorlásához, illetve feladatai ellátásához szükséges.
+
+(2) Az együttműködő szerv vezetője nemzetbiztonsági vagy bűnüldözési érdekre tekintettel a Terrorelhárítási Információs és Bűnügyi Elemző Központ által közvetlen elektronikus adatkapcsolat útján elért vagy a Terrorelhárítási Információs és Bűnügyi Elemző Központnak más módon szolgáltatott, titkos információgyűjtés eredményeként keletkezett adat büntetőeljárásban történő felhasználását, illetve meghatározott más együttműködő szerv vagy más állami adatkezelő szerv részére történő továbbítását előzetes hozzájárulásához kötheti.
+
+52/F. § (1) A kormányzati tájékoztató tevékenységhez, az elemző-értékelő tevékenységhez, valamint a Terrorelhárítási Információs és Bűnügyi Elemző Központ igazgatásához kapcsolódó adatokat elkülönítetten kell kezelni.
+
+(2) A Terrorelhárítási Információs és Bűnügyi Elemző Központ az elemző-értékelő tevékenység, illetve a kormányzati tájékoztató tevékenység céljából az általa kezelt adatokat tartalmazó, elkülönített adatkezelési rendszereket egymással és más adatkezelési rendszerrel összekapcsolva, meghatározott feladat teljesítése érdekében egyedi adatkezelést végezhet. Az összekapcsolás során keletkezett olyan új adatokat, amelyek az elemző-értékelő tevékenység, illetve a kormányzati tájékoztató tevékenység során nem kerülnek felhasználásra, haladéktalanul törölni kell.
+
+(3) A Terrorelhárítási Információs és Bűnügyi Elemző Központ által kezelt adatot haladéktalanul törölni kell akkor is, ha az együttműködő szervtől beszerzett adatot az együttműködő szerv a saját adatkezelési rendszeréből törölte. Az együttműködő szerv az adat törléséről közvetlen elektronikus adatkapcsolat útján tájékoztatja a Terrorelhárítási Információs és Bűnügyi Elemző Központot.
+
+52/G. § A Terrorelhárítási Információs és Bűnügyi Elemző Központ által kezelt adatot tartalmazó adatkezelési rendszerbe csak a Terrorelhárítási Információs és Bűnügyi Elemző Központ hozzáférési jogosultsággal rendelkező munkatársa, valamint a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter irányítói jogkörében eljárva, továbbá sarkalatos törvény által feljogosított más szerv tekinthet be, annak adattartalmáról felvilágosítást vagy értesítést kérhet.
+
+52/H. § (1) A Terrorelhárítási Információs és Bűnügyi Elemző Központ a 8/A. § (4) bekezdésében meghatározott feladatkörében az utasadat szolgáltatójától átveszi és kezeli az utasadatokat.
+
+(2) Az utasadatok átvételének és kezelésének a célja
+
+- a) a terrorizmussal, a szervezett bűnözéssel összefüggő bűncselekmények, valamint az illegális migráció területén megjelenő szervezett bűnözői csoportok és bűnszervezetek által elkövetett bűncselekmények felderítésének és nyomozásának, illetve az illegális migráció megelőzésével, megakadályozásával kapcsolatos feladatok elősegítése, továbbá
+- b) a nemzetbiztonságot veszélyeztető törekvések és tevékenységek elhárításának az elősegítése.
+
+(3) Az utasadat szolgáltatója a Terrorelhárítási Információs és Bűnügyi Elemző Központ által meghatározott elektronikus formátumban és módon adja át az utasadatot.
+
+(4) A Terrorelhárítási Információs és Bűnügyi Elemző Központ a 8/A. § (4) bekezdésében meghatározott feladatkörében
+
+- a) az utasadat szolgáltatója által szolgáltatott utasadatokat összeveti az elemző-értékelő tevékenység céljából kezelt adatokkal,
+- b) az utasadatok tekintetében a (2) bekezdésben meghatározott bűncselekményekre, tevékenységekre, illetve törekvésekre utaló információk gyűjtése érdekében elemző-értékelő tevékenység keretében kockázatelemzést végez, és
+- c) az átvett utasadatokról nyilvántartást vezet.
+
+(5) A Terrorelhárítási Információs és Bűnügyi Elemző Központ a (4) bekezdés b) pontjában meghatározott feladata ellátása érdekében a törvényben meghatározott esetekben más állami szervektől, illetve nyilvántartásokból az érintett személy azonosítása céljából személyes adatokat vehet át.
+
+(6) Ha a Terrorelhárítási Információs és Bűnügyi Elemző Központ az utasadat-információs feladatai során az elemző-értékelő tevékenység keretében a terrorizmussal vagy a szervezett bűnözéssel összefüggő bűncselekmény elkövetésének lehetséges gyanúját vagy a nemzetbiztonságot veszélyeztető lehetséges kockázatot állapít meg, a terrorizmussal vagy a szervezett bűnözéssel összefüggő bűncselekmény felderítésére, nyomozására vagy a nemzetbiztonságot veszélyeztető törekvés, tevékenység elhárítására hatáskörrel rendelkező szervet az utasadat átadásával egyidejűleg értesíti.
+
+(7) Ha a Terrorelhárítási Információs és Bűnügyi Elemző Központ az utasadat-információs feladatai során az elemző-értékelő tevékenység keretében az illegális migráció területén megjelenő szervezett bűnözői csoportok és bűnszervezetek által elkövetett bűncselekmény elkövetésének lehetséges gyanúját vagy az illegális migrációra utaló lehetséges kockázatot állapít meg, az e bűncselekmény felderítésére, nyomozására vagy az illegális migrációval összefüggésben feladat- és hatáskörrel rendelkező szerveket az utasadat átadásával egyidejűleg értesíti.
+
+(8) A Terrorelhárítási Információs és Bűnügyi Elemző Központ az átvett utasadatot a Terrorelhárítási Információs és Bűnügyi Elemző Központhoz érkezést követő öt évig kezeli.
+
+(9) Az utasadat szolgáltatója által szolgáltatott utasadatot a Terrorelhárítási Információs és Bűnügyi Elemző Központhoz érkezést követő 30 nap elteltével személyazonosításra alkalmatlanná kell tenni. A személyazonosításra való újbóli alkalmassá tételt kizárólag a Terrorelhárítási Információs és Bűnügyi Elemző Központ vezetője rendelheti el, abban az esetben, ha a nemzetbiztonságot vagy az ország függetlenségét súlyosan veszélyeztető esemény, illetve ötévi vagy ennél súlyosabb szabadságvesztéssel fenyegetett bűntett elkövetésére vagy ilyen bűntett előkészületére utaló gyanú ezt szükségessé teszi.
+
+(10) A Terrorelhárítási Információs és Bűnügyi Elemző Központ a (9) bekezdés szerinti egyedi engedély alapján ismét személyazonosításra alkalmassá tett adatokról nyilvántartást vezet. A nyilvántartás tartalmazza:
+
+- a) a személyazonosításra való újbóli alkalmassá tétel rövid indokolását,
+- b) a személyazonosításra való újbóli alkalmassá tétel időpontját,
+- c) az érintett adatok körét és
+- d) azt, hogy mely szerv kérésére került sor a személyazonosításra való újbóli alkalmassá tételre.
+
+(11) A (10) bekezdésben meghatározott adatokat az ismét személyazonosításra alkalmassá tett utasadatokkal azonos ideig kell megőrizni, az utasadatokkal egyidejűleg törölni kell.
+
+(12) A Terrorelhárítási Információs és Bűnügyi Elemző Központ az Európai Unió tagállamai, valamint az Európai Unió jogi aktusával létrehozott nemzetközi szervezetek és adatkezelési rendszerek részére bűnüldözési vagy nemzetbiztonsági célból az Európai Unió jogi aktusa, illetve két- vagy többoldalú nemzetközi szerződés alapján az ott meghatározott adatkörben és időtartamban továbbíthatja az általa kezelt utasadatot vagy vehet át utasadatokat.
+
+(13) A Terrorelhárítási Információs és Bűnügyi Elemző Központ harmadik országtól bűnüldözési vagy nemzetbiztonsági célból nemzetközi szerződés alapján az ott meghatározott adatkörben vehet át utasadatot. A Terrorelhárítási Információs és Bűnügyi Elemző Központ harmadik ország részére bűnüldözési vagy nemzetbiztonsági célból nemzetközi szerződés alapján az ott meghatározott adatkörben és időtartamban továbbíthatja az általa kezelt utasadatot, feltéve hogy a harmadik ország átvevő hatóságának a feladata bűncselekmények megelőzése, nyomozása, felderítése, büntetőeljárás lefolytatása vagy büntetőjogi szankciók végrehajtása.
+
+52/I. § (1) A Terrorelhárítási Információs és Bűnügyi Elemző Központ az utasadat-információs feladatai során, ha az elemző-értékelő tevékenység keretében az 52/H. § (2) bekezdés a) pontjában meghatározott bűncselekmények lehetséges gyanúját, illetve tevékenységek lehetséges kockázatát állapítja meg, és az 52/H. § szerinti elemző-értékelő tevékenység keretében nem azonosítható az 52/H. § (2) bekezdés a) pontjában meghatározott bűncselekménnyel vagy tevékenységgel érintett, a Terrorelhárítási Információs és Bűnügyi Elemző Központ az érintett személy azonosítása céljából adatot igényelhet a rendőrség személyszállítást végző légifuvarozóktól átvett adatokat tartalmazó nyilvántartásából.
+
+(2) A Terrorelhárítási Információs és Bűnügyi Elemző Központ az (1) bekezdés szerint átvett adatot az adat átvételétől számított huszonnégy órán belül, illetve – ha az 52/H. § szerinti elemző-értékelő tevékenységre kerül sor, – az 52/H. § szerinti elemző-értékelő tevékenység befejezését vagy a (3) bekezdésben foglalt adatátadást követően haladéktalanul törli.
+
+(3) A Terrorelhárítási Információs és Bűnügyi Elemző Központ az 52/H. § (6) és (7) bekezdése szerinti esetben – ha az (1) bekezdés alapján átvett adatot a Terrorelhárítási Információs és Bűnügyi Elemző Központ az elemző-értékelő tevékenység keretében felhasználta, – az (1) bekezdés alapján átvett adatot is átadja.
+
 ### Titkos információgyűjtés
 
-53. § (1) A nemzetbiztonsági szolgálatok a 4–9. §-okban foglalt feladataik teljesítése érdekében titkos információgyűjtést folytathatnak; ez nem terjed ki a 4. § h) pontjában és a 8. § (1) bekezdés d)–e) pontjaiban meghatározott feladatok ellátására.
+53. § (1) A nemzetbiztonsági szolgálatok – a Terrorelhárítási Információs és Bűnügyi Elemző Központ kivételével – a 4–9. §-okban foglalt feladataik teljesítése érdekében titkos információgyűjtést folytathatnak; ez nem terjed ki a 4. § h) pontjában és a 8. § (1) bekezdés d)–e) pontjaiban meghatározott feladatok ellátására.
 
 (2) A nemzetbiztonsági szolgálatok a titkos információgyűjtés speciális eszközeit és módszereit csak akkor használhatják, ha az e törvényben meghatározott feladatok ellátásához szükséges adatok más módon nem szerezhetők meg.
 
@@ -636,6 +847,8 @@ kapcsolatos adatok.
 - h) a feladataik által érintett személyt, valamint azzal kapcsolatba hozható helyiséget, épületet és más objektumot, terep- és útvonalszakaszt, járművet, eseményt megfigyelhetik, az észlelteket technikai eszközzel rögzíthetik;
 - i) az 56. §-ban foglaltakon kívül beszélgetést lehallgathatnak, az észlelteket technikai eszközökkel rögzíthetik;
 - j) hírközlési rendszerekből és egyéb adattároló eszközökből információkat gyűjthetnek.
+
+(1a) Az (1) bekezdés f) és g) pontjában meghatározott feladat ellátása céljából a nemzetbiztonsági szolgálatok a 41. § (1) bekezdésben meghatározott nyilvántartásokban adatot helyezhetnek el.
 
 (2) Rendvédelmi szerv és a Nemzeti Adó- és Vámhivatal fedőintézményként, okmánya fedőokmányként csak az illetékes miniszter és az érintett szervezet országos vezetőjének tájékoztatásával alkalmazható.
 
@@ -709,7 +922,7 @@ Katonai Nemzetbiztonsági Szolgálat és – a 8. § (1) bekezdésének f) pontj
 
 - a) a megrendelő szervezet írásbeli megkeresését a szükséges engedéllyel,
 - b) a megkeresésben megjelölt személyek azonosításához szükséges személyes adatokat,
-- c) az adott ügyben alkalmazott titkos információgyűjtés, illetve titkos adatszerzés eszközeinek és módszereinek leírását, valamint
+- c) az adott ügyben alkalmazott titkos információgyűjtés, illetve titkos adatszerzés eszközeinek és módszereinek leírását, valamint a személyes adatnak nem minősülő, műveleti értékkel bíró információkat, technikai adatokat,
 - d) a megrendelő szervezet részére továbbított adathordozók jegyzékét.
 
 (4) A közölt adatok hitelességéért az adatszolgáltató, a felhasználásáért, illetve az erre alapozott intézkedések megtételéért vagy elmulasztásáért a titkos információgyűjtést, illetve a titkos adatszerzést megrendelő szerv a felelős.
@@ -1039,7 +1252,13 @@ azt jóváhagyta.
   - is) az 55. §-ban meghatározott kijelölt ügyész;
   - it) a Független Rendészeti Panasztestület tagja;
   - iu) az Országgyűlési Őrség személyi állománya;
-  - iv) a Nemzeti Emlékezet Bizottsága tagja.
+  - iv) a Nemzeti Emlékezet Bizottsága tagja;
+- j) elemző-értékelő tevékenység: a nemzetbiztonsági szolgálat birtokába került adatnak a nemzetbiztonság, illetve Magyarország szuverenitásának védelme, bűncselekmény elkövetésének megelőzése, felderítése, megszakítása, az elkövető kilétének megállapítása, elfogása, körözött személy felkutatása, tartózkodási helyének megállapítása, bizonyítékok megszerzése céljából történő feldolgozása, a feldolgozott adatból következtetések levonása;
+- k) együttműködő szervek: a 30/A. §-ban meghatározott szervek;
+- l) utasadat: a légiközlekedésről szóló törvényben meghatározott, az utastól vagy megbízottjától, illetve a személyszállítást végző légifuvarozó megbízásából jegyértékesítést végző szolgáltatótól származó adat;
+- m) utasadat szolgáltatója: az l) pontban meghatározott adatot a terrorizmus és a szervezett bűnözés megelőzésének, megszakításának, felderítésének elősegítése céljából törvény szerint átadó személyszállítást végző légifuvarozó;
+- n) közvetlen elektronikus adatkapcsolat: a Terrorelhárítási Információs és Bűnügyi Elemző Központ által meghatározott műszaki követelményeknek megfelelő számítástechnikai alkalmazás, amely az együttműködő szerv által kiépített felületen keresztül a Terrorelhárítási Információs és Bűnügyi Elemző Központ és az együttműködő szerv közötti dokumentált adatátadást tesz lehetővé;
+- o) jelzés: a nemzetbiztonsági szolgálatok által a feladataik végrehajtásához kapcsolódóan az adatkezelési rendszerekben kezelt adatra vonatkozóan elrendelt értesítési meghagyás, amely biztosítja a jelzéssel ellátott adatot érintő eseményről – így különösen az adatváltozásról, az adatot érintő intézkedésről, az adatra vonatkozó megkeresésről – az elrendelő nemzetbiztonsági szolgálat tudomásszerzését.
 
 75. § (1)
 
@@ -1073,14 +1292,20 @@ azt jóváhagyta.
 
 (2) A Módtv3. hatálybalépésekor az Országgyűlés Külügyi bizottságában fennálló tagság esetén a nemzetbiztonsági ellenőrzést 2015. február 28-ig kezdeményezi az Országgyűlés elnöke.
 
+76/D. § Az együttműködő szerv köteles a közvetlen elektronikus adatkapcsolat együttműködő szerv adatkezelési rendszere elérését biztosító felületét 2016. december 31-ig kell kiépíteni.
+
+76/E. § (1) A Terrorelhárítási Információs és Bűnügyi Elemző Központ a Szervezett Bűnözés Elleni Koordinációs Központ általános jogutódja.
+
+(2) A terrorizmus elleni fellépéssel összefüggő egyes törvények módosításáról szóló 2016. évi LXIX. törvény hatálybalépését megelőzően kiadott jogszabályban meghatározott feladatok és hatáskörök tekintetében a Terrorelhárítási Információs és Bűnügyi Elemző Központot kell a Szervezett Bűnözés Elleni Koordinációs Központ jogutódjának tekintetni.
+
 ### Felhatalmazó rendelkezések
 
 77. § (1) Felhatalmazást kap a Kormány, hogy rendeletben megállapítsa:
 
 - a) azon adatok, tények és körülmények körét, amelyek a 2. számú mellékletben meghatározott biztonsági kérdőív szempontjából lényegesnek minősülnek és az ezen adatokban, tényekben vagy körülményekben bekövetkező változások bejelentésének részletes szabályait;
 - b) a biztonsági okmányok körét, a biztonsági okmányvédelemre jogosult szervezet feladat- és hatáskörét, a biztonsági okmányvédelem eljárási szabályait;
-- c) a titkos információgyűjtés feltételeinek biztosítása érdekében a titkos információgyűjtésre feljogosított szervezetek és a távközlési szolgáltatási feladatokat ellátó szervezetek együttműködésének rendjét és szabályait.
-- d)
+- c) a titkos információgyűjtés feltételeinek biztosítása érdekében a titkos információgyűjtésre feljogosított szervezetek és a távközlési szolgáltatási feladatokat ellátó szervezetek együttműködésének rendjét és szabályait;
+- d) a titkos információgyűjtés feltételeinek biztosítása érdekében a titkos információgyűjtésre feljogosított szervezetek és az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló törvényben meghatározott alkalmazásszolgáltatók együttműködésének rendjét és szabályait.
 
 (2) Felhatalmazást kap a Kormány, hogy határozatban megállapítsa:
 
@@ -1103,6 +1328,8 @@ azt jóváhagyta.
 - a) az Alkotmányvédelmi Hivatal vagy a Nemzetbiztonsági Szakszolgálat hatáskörébe tartozik, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter,
 - b) az Információs Hivatal hatáskörébe tartozik, a polgári hírszerzési tevékenység irányításáért felelős miniszter,
 - c) a Katonai Nemzetbiztonsági Szolgálat hatáskörébe tartozik, a honvédelemért felelős miniszter egyetértésével kiadott rendeletben állapítsák meg a nemzetbiztonsági ellenőrzés alá eső munkaköröket.
+
+(1b) Felhatalmazást kap a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy a Terrorelhárítási Információs és Bűnügyi Elemző Központ és az utasadat szolgáltatója közötti kapcsolattartás, valamint adatátadás módját rendeletben szabályozza.
 
 (2) Felhatalmazást kap a miniszter, hogy utasításban megállapítsa:
 
@@ -1134,7 +1361,7 @@ azt jóváhagyta.
 - b) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i 2007/533/IB tanácsi határozat 36. cikke [41/A. §],
 - c) a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat 3–5. és 16. cikke [11/A. §, 45. §].
 
-81. §
+81. § E törvény 40. és 41. §-ának a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i 2015/1535/EU európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
 
 82–84. §
 

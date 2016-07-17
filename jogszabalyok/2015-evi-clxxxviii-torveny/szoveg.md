@@ -79,7 +79,7 @@ az arcképelemzési nyilvántartásról és az arcképelemző rendszerről
 
 (5) Ha az adatközlésre kötelezett szerv a természetes személyhez kapcsolódóan új arcképmást vesz nyilvántartásba, a (2) bekezdés szerinti eljárást az új arcképmás nyilvántartásba vételétől számított három napon belül lefolytatja.
 
-(6) Az adatközlésre kötelezett szerv értesíti a központi szervet azon arckép profil technikai kapcsoló számáról, melyhez tartozóan az adott arckép profil képzésétől számítottan
+(6) Az adatközlésre kötelezett szerv értesíti a központi szervet azon arckép profil technikai kapcsoló számáról, amelyhez tartozóan az általa kezelt arcképmás a nyilvántartásból törlésre került, valamint azon arckép profil technikai kapcsoló számáról, amelyhez tartozóan az általa kezelt arcképmás nyilvántartásba vételétől számított
 
 - a) az (1) bekezdés a) pontjában meghatározott esetben 15 év,
 - b) az (1) bekezdés b) pontjában meghatározott esetben 8 év,
@@ -89,9 +89,9 @@ az arcképelemzési nyilvántartásról és az arcképelemző rendszerről
 - f) az (1) bekezdés f) pontjában meghatározott esetben 10 év,
 - g) az (1) bekezdés g) pontjában meghatározott esetben 15 év
 
-eltelt, amennyiben az adatközlésre kötelezett szerv az adott személyhez tartozó újabb arckép profilhoz rendelten technikai kapcsoló számot képzett.
+eltelt és az adott személyhez tartozó újabb arcképmáshoz rendelten technikai kapcsoló számot képzett.
 
-(7) A központi szerv az adatközlésre kötelezett szerv (6) bekezdésben meghatározott értesítése alapján haladéktalanul törli a nyilvántartásból a korábbi arckép profilt, valamint az adatközlésre kötelezett szerv az ezen arckép profilhoz kapcsolódóan általa nyilvántartott technikai kapcsoló számot.
+(7) A központi szerv az adatközlésre kötelezett szerv (6) bekezdésben meghatározott értesítése alapján haladéktalanul törli a nyilvántartásból az értesítésben megjelölt technikai kapcsoló számot és az ahhoz tartozó, általa kezelt arckép profilt, valamint az adatközlésre kötelezett szerv az ezen arckép profil alapjául szolgáló arcképmáshoz kapcsolódóan általa nyilvántartott technikai kapcsoló számot.
 
 5. § (1) Az adatközlésre kötelezett szerv által képzett technikai kapcsoló szám tartalmát és képzési szabályát a központi szerv, valamint az igénybevételre jogosult szerv nem határozhatja meg.
 
@@ -251,7 +251,7 @@ személyazonosságának megállapítása, valamint ellenőrzése érdekében.
 
 (3) A (2) bekezdés szerinti összehasonlítást követően a központi szerv az összehasonlítás eredményét kiértékeli.
 
-(4) A (3) bekezdés szerinti feladata ellátása során a központi szerv jogosult az arckép profilhoz rendelt technikai kapcsoló szám felhasználásával az adatközlésre kötelezett szervtől az arckép profil alapjául szolgáló arcképmást, valamint ahhoz tartozóan az arcképmás felvételezésének dátumát, az arcképmáshoz tartozó személy születési évét és nemét igényelni közvetlen adatkapcsolat útján.
+(4) A (3) bekezdés szerinti feladata ellátása során a központi szerv jogosult az arckép profilhoz rendelt technikai kapcsoló szám felhasználásával az adatközlésre kötelezett szervtől az arckép profil alapjául szolgáló arcképmást, valamint ahhoz tartozóan az arcképmás nyilvántartásba vételének dátumát, az arcképmáshoz tartozó személy születési évét és nemét igényelni közvetlen adatkapcsolat útján.
 
 (5) A (3) bekezdésben meghatározott kiértékelési tevékenység elvégzését követően a központi szerv az (1) és (4) bekezdésben megjelölt, részére átadott adatokat haladéktalanul törli.
 

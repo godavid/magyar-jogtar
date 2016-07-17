@@ -368,7 +368,7 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 
 (1a) A központi adatkezelő szerv a 24. § d) és h)–k) pontjában meghatározott adatok kivételével a szabálysértési, illetve az előkészítő eljárást folytató hatóságnak adhat át adatot a szabálysértési eljárás alá vont személy személyazonosságának ellenőrzéséhez.
 
-(1b) A központi adatkezelő szerv a 24. § a) és e) pontjában meghatározott adatokat a szervezett bűnözés elleni koordinációs központnak az utasadatok kockázatelemzése céljából átadhatja.
+(1b) A központi adatkezelő szerv a 24. § a) és e) pontjában meghatározott adatokat a Terrorelhárítási Információs és Bűnügyi Elemző Központnak az utasadatok kockázatelemzése céljából átadhatja.
 
 (2) A központi adatkezelő szerv – ha törvény másként nem rendelkezik – a 24. § g) pontban meghatározott adatokról adatszolgáltatást nem teljesíthet, ide nem értve az érintett személy 28. § (2a) és (2b) bekezdésben foglalt tájékoztatási jogát, illetve hatósági bizonyítvány iránti igénylését.
 

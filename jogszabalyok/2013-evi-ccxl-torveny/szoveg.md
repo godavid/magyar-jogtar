@@ -2265,6 +2265,19 @@ használható fel.
 
 (3) Az (1) bekezdés szerinti intézkedést kiváltó ok előidézésében vétlen elítélt részére az elmaradt jogainak gyakorlását utólag lehetővé kell tenni.
 
+154/A. § (1) A terrorfenyegetettség miatt a büntetés-végrehajtási szerveknél elrendelt 1–2-es fokozatok esetén a büntetés-végrehajtás országos parancsnoka – a terrorfokozat elrendelésének idejére – az elítéltek
+
+- a) 122. § b), e), n) és o) pontjában, 123. § (1) bekezdésében meghatározott jogait,
+- b) bv. intézeten kívüli munkavégzését,
+- c) szakképzésben és továbbképzésben való részvételét, valamint
+- d) a magánál tartható tárgyainak körét
+
+korlátozhatja.
+
+(2) Az (1) bekezdés szerinti intézkedés elrendeléséről az ügyészt haladéktalanul értesíteni kell.
+
+(3) Az (1) bekezdés szerinti terrorfokozat megszüntetését követően az elítéltek elmaradt jogainak gyakorlását utólag lehetővé kell tenni.
+
 ### Az elítéltek elhelyezése és anyagi ellátása
 
 155. § (1) Az elítéltek közösen helyezhetők el, de ha erre lehetőség van, az elítéltet egyedül kell elhelyezni.
@@ -5065,6 +5078,8 @@ a javítóintézet utógondozó részleget működtet.
 (7) Ha az előzetesen letartóztatott a temetésen nem vett részt, a rendelkezési jogkör gyakorlója a temetést követő harminc napon belül – a (6) bekezdés szerinti feltételekkel – engedélyezheti, hogy az előzetesen letartóztatott lerója kegyeletét a közeli hozzátartozója temetési helyénél.
 
 (8) Az előzetesen letartóztatott a (7) bekezdésben meghatározott esetben az előállítás költségét köteles megtéríteni.
+
+394/A. § A terrorfenyegetettség miatt a büntetés-végrehajtási szerveknél elrendelt 1–2-es fokozatok esetén az előzetes letartóztatás végrehajtása során a 154/A. § rendelkezései megfelelően alkalmazandók.
 
 395. § (1) Az előzetesen letartóztatott csak a fogva tartó intézetben köthet házasságot vagy létesíthet bejegyzett élettársi kapcsolatot. A házasságkötés vagy a bejegyzett élettársi kapcsolat létesítése megszervezésének és lebonyolításának során a rendelkezési jogkör gyakorlójának a kapcsolattartásra vonatkozó rendelkezéseit érvényesíteni kell.
 
