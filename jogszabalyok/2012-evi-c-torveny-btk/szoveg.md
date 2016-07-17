@@ -136,7 +136,7 @@ a következő törvényt alkotja:
 
 ### A gyermekkor
 
-16. § Nem büntethető, aki a büntetendő cselekmény elkövetésekor a tizennegyedik életévét nem töltötte be, kivéve az emberölés [160. § (1)–(2) bekezdés], az erős felindulásban elkövetett emberölés (161. §), a testi sértés [164. § (8) bekezdés], a rablás [365. § (1)–(4) bekezdés] és a kifosztás [366. § (2)–(3) bekezdés] elkövetőjét, ha a bűncselekmény elkövetésekor a tizenkettedik életévét betöltötte, és az elkövetéskor rendelkezett a bűncselekmény következményeinek felismeréséhez szükséges belátással.
+16. § Nem büntethető, aki a büntetendő cselekmény elkövetésekor a tizennegyedik életévét nem töltötte be, kivéve az emberölés [160. § (1)–(2) bekezdés], az erős felindulásban elkövetett emberölés (161. §), a testi sértés [164. § (8) bekezdés], a terrorcselekmény [314. § (1)–(4) bekezdés], a rablás [365. § (1)–(4) bekezdés] és a kifosztás [366. § (2)–(3) bekezdés] elkövetőjét, ha a bűncselekmény elkövetésekor a tizenkettedik életévét betöltötte, és az elkövetéskor rendelkezett a bűncselekmény következményeinek felismeréséhez szükséges belátással.
 
 ### A kóros elmeállapot
 
@@ -3602,7 +3602,10 @@ bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő
 
 a (4) bekezdésben meghatározott személy elleni erőszakos, közveszélyt okozó vagy fegyverrel kapcsolatos bűncselekményt követ el, bűntett miatt tíz évtől húsz évig terjedő vagy életfogytig tartó szabadságvesztéssel büntetendő.
 
-(2) Az (1) bekezdés szerint büntetendő, aki az a) pontban meghatározott célból jelentős anyagi javakat kerít hatalmába, és azok sértetlenül hagyását vagy visszaadását állami szervhez vagy nemzetközi szervezethez intézett követelés teljesítésétől teszi függővé.
+(2) Az (1) bekezdés szerint büntetendő, aki az a) pontban meghatározott célból
+
+- a) jelentős anyagi javakat kerít hatalmába, és azok sértetlenül hagyását vagy visszaadását állami szervhez vagy nemzetközi szervezethez intézett követelés teljesítésétől teszi függővé, vagy
+- b) terrorista csoportot szervez.
 
 (3) Korlátlanul enyhíthető annak a büntetése, aki
 
@@ -3629,7 +3632,12 @@ ha ezzel közreműködik a bűncselekmény következményeinek megakadályozás�
 
 (3) Nem büntethető, aki az (1) vagy (2) bekezdésben meghatározott bűncselekményt, mielőtt az a hatóság tudomására jutott volna, a hatóságnak bejelenti, és az elkövetés körülményeit feltárja.
 
-316. § Aki terrorcselekmény elkövetésével fenyeget, bűntett miatt két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.
+316. § Aki
+
+- a) terrorcselekmény elkövetésével fenyeget, vagy
+- b) terrorista csoporthoz csatlakozás céljából Magyarország területéről kiutazik vagy azon átutazik,
+
+bűntett miatt két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.
 
 ### Terrorcselekmény feljelentésének elmulasztása
 
@@ -3882,7 +3890,9 @@ követik el.
 
 ### Háborús uszítás
 
-331. § Aki nagy nyilvánosság előtt háborúra uszít, vagy egyébként háborús hírverést folytat, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
+331. § (1) Aki nagy nyilvánosság előtt háborúra uszít, vagy egyébként háborús hírverést folytat, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
+
+(2) Az (1) bekezdés szerint büntetendő, ha súlyosabb bűncselekmény nem valósul meg, aki nagy nyilvánosság előtt a terrorizmus támogatására uszít, vagy egyébként a terrorizmust támogató hírverést folytat.
 
 ### Közösség elleni uszítás
 

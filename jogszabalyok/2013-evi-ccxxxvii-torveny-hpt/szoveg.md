@@ -2780,6 +2780,8 @@ szemben e szerveknek a pénzügyi intézményhez intézett írásbeli megkeresé
 
 (4) Az írásbeli megkeresésben meg kell jelölni azt az ügyfelet vagy bankszámlát, akiről vagy amelyről a (2) bekezdésben megjelölt szerv vagy hatóság a banktitok kiadását kéri, valamint a kért adatok fajtáját és az adatkérés célját, kivéve, ha a feladatkörében eljáró Felügyelet helyszíni ellenőrzést folytat.
 
+(4a) Ha törvény másként nem rendelkezik, akkor a (2) bekezdésben meghatározott esetben a pénzügyi intézmény a nyomozó hatóság és az ügyészség írásbeli megkeresésére tizenöt munkanapon belül, a nemzetbiztonsági szolgálat írásbeli megkeresésére kettő munkanapon belül szolgáltatja a kért adatot.
+
 (5) Nem kell a (4) bekezdés szerinti adatokat az írásbeli megkeresésében megjelölni, ha a Gazdasági Versenyhivatal előzetes értesítés nélkül helyszíni szemlét vagy helyszíni kutatást tart. Ezekben az esetekben a Gazdasági Versenyhivatal megkeresését a helyszínen közli.
 
 (6) A (2) és (3) bekezdés szerint adatkérésre jogosult a rendelkezésére bocsátott adatokat kizárólag arra a célra használhatja fel, amelyet az adatkéréskor megjelölt.
@@ -2790,7 +2792,7 @@ szemben e szerveknek a pénzügyi intézményhez intézett írásbeli megkeresé
 
 (9) Az adóhatóság a FATCA-törvényből, valamint a pénzügyi számlákkal kapcsolatos egyéb adatszolgáltatási kötelezettség teljesítése céljából az Aktv. 43/B. és 43/C., továbbá 43/H. §-a szerinti adatszolgáltatás során is jogosult banktitokhoz jutni.
 
-162. § (1) A pénzügyi intézmény a nyomozó hatóság, a nemzetbiztonsági szolgálat és az ügyészség írásbeli megkeresésére haladéktalanul kiszolgáltatja a kért adatot a nála vezetett bankszámláról és az általa lebonyolított ügyletről, ha adat merül fel arra, hogy a bankszámla vagy az ügylet
+162. § (1) A pénzügyi intézmény a nyomozó hatóság, a nemzetbiztonsági szolgálat és az ügyészség írásbeli megkeresésére haladéktalanul, de legkésőbb kettő munkanapon belül kiszolgáltatja a kért adatot a nála vezetett bankszámláról és az általa lebonyolított ügyletről, ha adat merül fel arra, hogy a bankszámla vagy az ügylet
 
 - a) kábítószerrel visszaéléssel (1978. évi IV. törvény 282–282/C. §), kábítószer-kereskedelemmel (Btk. 176–177. §), kábítószer birtoklásával (Btk. 178–79. §), kóros szenvedélykeltéssel (Btk. 181. §), kábítószer készítésének elősegítésével (Btk. 182. §) vagy új pszichoaktív anyaggal visszaéléssel [1978. évi IV. törvény 283/B. §, illetve Btk. 184. § (1) bekezdés b) pont],
 - b) terrorcselekménnyel (1978. évi IV. törvény 261. §, illetve Btk. 314–316. §), terrorcselekmény feljelentésének elmulasztásával (Btk. 317. §), terrorizmus finanszírozásával (Btk. 318. §),
@@ -2806,6 +2808,8 @@ van összefüggésben.
 (2) Az (1) bekezdésben foglalt rendelkezést a rendőrségről szóló törvényben meghatározott terrorizmust elhárító, valamint a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervre a hatáskörükbe tartozó bűncselekményekkel összefüggő adatok tekintetében kell alkalmazni.
 
 (3) A pénzügyi intézmény a megkeresések teljesítése során a minősített adat védelméről szóló törvényben és egyéb, a minősített adat kezelésére vonatkozó jogszabályokban előírt követelmények betartásával jár el.
+
+(4) Ha a pénzügyi intézmény a nyomozó hatóság, a nemzetbiztonsági szolgálat vagy az ügyészség írásbeli megkeresésére határidőn belül az adatszolgáltatást nem teljesíti és a mulasztását a megkereső szerv felé írásban sem menti ki, a megkereső szerv erről tájékoztatja a Felügyeletet.
 
 163. § (1) A 161. § (2) bekezdés d), f), g) és o) pontja, a 161. § (3) bekezdés e)–g) pontja, a 162. §, valamint az 164. § p) pontja alapján történő adatátadásról a pénzügyi intézmény az érintett ügyfelet nem tájékoztathatja.
 
