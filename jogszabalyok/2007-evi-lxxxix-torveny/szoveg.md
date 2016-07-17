@@ -130,7 +130,7 @@ az (1) bekezdésben foglaltak szerint kell kiadni.
 
 (4) Az (1) bekezdésben foglalt rendelkezések a belső határon nem alkalmazhatók.
 
-13. § Belső határon a határátlépés ellenőrzésének ideiglenes visszaállítását a Kormány rendeletben hirdeti ki.
+13. § A belső határon a határátlépés ellenőrzésének ideiglenes visszaállítását – a Közösségi Kódex 25. cikkében megjelölt valamely feltétel kivételével – a Kormány rendeletben hirdeti ki. A Közösségi Kódex 25. cikkében megjelölt valamely feltétel fennállása esetén, a belső határon a határátlépés ellenőrzésének azonnali visszaállítását a határrendészetért felelős miniszter rendeletével hirdeti ki.
 
 ### Határátkelőhely, határátlépési pont megnyitása, megszüntetése, működésének szüneteltetése
 
@@ -140,7 +140,7 @@ az (1) bekezdésben foglaltak szerint kell kiadni.
 
 (3) Ideiglenes határátkelőhelya Kormány rendeletében meghatározott célból, a cél megvalósításához szükséges időtartamra, engedéllyel nyitható. Az ideiglenes határátkelőhely megnyitásának, működésének feltételeit a Kormány rendeletben állapítja meg, amelyben kijelöli az eljárásra jogosult szervet.
 
-(4) A határátkelőhely, határátlépési pont működését az országos rendőrfőkapitány legfeljebb negyvennyolc órára szüneteltetheti, ha a határátlépés ellenőrzésének feltételei haladéktalanul el nem hárítható átmeneti működési zavar miatt nem biztosíthatóak.
+(4) A határátkelőhely, határátlépési pont működését az országos rendőrfőkapitány legfeljebb negyvennyolc órára szüneteltetheti, ha a határátlépés ellenőrzésének feltételei haladéktalanul el nem hárítható átmeneti működési zavar vagy más elháríthatatlan külső ok miatt nem biztosíthatóak. A működés szüneteltetését – a feltételek fennállása esetén – az országos rendőrfőkapitány további legfeljebb negyvennyolc órával meghosszabbíthatja.
 
 15. § (1) A határátkelőhelyet olyan ingatlanon szabad létesíteni és működtetni, amelyen az ingatlan tulajdonosa, kezelője, bérlője, vagy üzemeltetője térítésmentesen biztosítja a határátlépés során eljáró hatóságok elhelyezéséhez és működéséhez, a ki- és beléptetés biztonságos, gyors és kulturált végrehajtásához szükséges, jogszabályban meghatározott tárgyi feltételeket.
 
@@ -176,6 +176,13 @@ az (1) bekezdésben foglaltak szerint kell kiadni.
 (6) Felhatalmazást kap a határrendészetért felelős miniszter, hogy a határjegyzőkönyvet rendeletben hagyja jóvá.
 
 (7) Felhatalmazást kap a határrendészetért felelős miniszter, hogy rendeletben határozza meg a határvízen történő közlekedés engedélyezésének szabályait.
+
+(8) Felhatalmazást kap a határrendészetért felelős miniszter, hogy a közbiztonság védelme érdekében
+
+- a) nemzetbiztonsági érdekből a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel és a polgári hírszerzési tevékenység irányításáért felelős miniszterrel egyetértésben
+- b) járványveszély megelőzése érdekében vagy az Egészségügyi Világszervezet 2009. évi XCI. törvénnyel kihirdetett Nemzetközi Egészségügyi Rendszabályainak végrehajtása érdekében nemzetközi horderejű közegészségügyi- járványügyi szükséghelyzet, illetőleg a közegészségügyi-járványügyi kockázat kezelése, elhárítása érdekében – ezek jellegétől függően – az egészségügyért felelős miniszterrel vagy az élelmiszerlánc- felügyeletért felelős miniszterrel egyetértésben rendeletében részleges határzárat rendelhet el.
+
+(9) Felhatalmazást kap a határrendészetért felelős miniszter, hogy a belső határon – a Közösségi Kódex 25. cikkében megjelölt valamely feltétel fennállása esetén – a határátlépés ellenőrzésének azonnali visszaállítását rendeletben hirdesse ki.
 
 17. § (1) A földmérési és térképészeti tevékenységről szóló 1996. évi LXXVI. törvény (a továbbiakban: Ftt.) 13. § (4) bekezdése helyébe a következő rendelkezés lép:
 

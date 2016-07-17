@@ -15,7 +15,7 @@ Az Országgyűlés az elektronikus kereskedelem fejlődése és ez által a gazd
 
 (3) E törvény hatálya nem terjed ki a bírósági, illetőleg egyéb hatósági eljárásban nyújtott és felhasznált információs társadalommal összefüggő szolgáltatásra és nem érinti a személyes adatok védelmére vonatkozó jogszabályok alkalmazását.
 
-(4) E törvény hatálya – a 4/A. § kivételével – nem terjed ki az olyan közlésekre, amelyet gazdasági vagy szakmai tevékenység, vagy közfeladat körén kívül eső célból eljáró személy tesz információs társadalommal összefüggő szolgáltatás igénybevételével, ideértve az ilyen módon tett szerződési nyilatkozatokat is.
+(4) E törvény hatálya – a 2. § m) pont, 3/B. §, 4/A. § valamint 13/B. § kivételével – nem terjed ki az olyan közlésekre, amelyet gazdasági vagy szakmai tevékenység, vagy közfeladat körén kívül eső célból eljáró személy tesz információs társadalommal összefüggő szolgáltatás igénybevételével, ideértve az ilyen módon tett szerződéses nyilatkozatokat is.
 
 ### Értelmező rendelkezések
 
@@ -27,7 +27,7 @@ Az Országgyűlés az elektronikus kereskedelem fejlődése és ez által a gazd
 - d) Igénybevevő: az a természetes, illetve jogi személy vagy jogi személyiség nélküli szervezet, aki/amely információs társadalommal összefüggő szolgáltatást vesz igénybe;
 - e) Információ: bármely, elektronikus úton feldolgozható, tárolható, továbbítható adat, jel, kép tekintet nélkül arra, hogy annak tartalma jogi védelemben részesül-e;
 - f) Információs társadalommal összefüggő szolgáltatás: elektronikus úton, távollevők részére, rendszerint ellenszolgáltatás fejében nyújtott szolgáltatás, amelyhez a szolgáltatás igénybe vevője egyedileg fér hozzá;
-- g) Magyarország területére irányuló szolgáltatás: minden olyan szolgáltatás, melyről a használt nyelv, a pénznem és egyéb körülmények alapján valószínűsíthető, hogy magyarországi igénybevevők számára kívánják elérhetővé tenni;
+- g) Magyarország területére irányuló szolgáltatás: minden olyan szolgáltatás, melyről a használt nyelv, a pénznem és egyéb körülmények alapján valószínűsíthető, hogy magyarországi igénybe vevők számára kívánják elérhetővé tenni; továbbá az m) pont szerinti alkalmazásszolgáltató valamennyi olyan információs társadalommal összefüggő szolgáltatása, amely Magyarországon elérhető, függetlenül attól, hogy az alkalmazásszolgáltató Magyarországon letelepedett, vagy bármilyen formában engedélyezett-e, vagy attól, hogy a hozzáférés során akár a szolgáltató, akár a felhasználó egyértelműen azonosítható-e.
 - h) Magyarország területéről nyújtott szolgáltatás: Magyarország területén lévő székhelyén, telephelyén vagy lakóhelyén az adott információs társadalommal összefüggő szolgáltatással kapcsolatos tényleges tevékenységet végző szolgáltató által nyújtott információs társadalommal összefüggő szolgáltatás;
 - i) Szabályozott szakma: a külföldi bizonyítványok és oklevelek elismeréséről szóló törvényben meghatározott szakma;
 - j)
@@ -37,7 +37,8 @@ Az Országgyűlés az elektronikus kereskedelem fejlődése és ez által a gazd
   - lb) az igénybe vevő által biztosított információt távközlő hálózaton továbbítja, és az alapvetően a más igénybe vevők kezdeményezésére történő információtovábbítás hatékonyabbá tételét szolgálja (gyorsítótárolás);
   - lc) az igénybe vevő által biztosított információt tárolja (tárhelyszolgáltatás);
   - ld) információk megtalálását elősegítő segédeszközöket biztosít az igénybe vevő számára (keresőszolgáltatás);
-- m)
+  - le) alkalmazásszolgáltató.
+- m) Alkalmazásszolgáltató: az a természetes, illetve jogi személy vagy jogi személyiséggel nem rendelkező más szervezet, aki, vagy amely elektronikus hírközlő hálózat felhasználásával valamilyen szoftverhez vagy hardverhez való hozzáférést, szoftveres alkalmazást, valamint kapcsolódó szolgáltatásokat biztosít specifikus szoftveren vagy webes felületen több felhasználó számára, időben korlátozott vagy korlátlan módon, havi- vagy használat alapú ellenszolgáltatás fejében vagy ingyenes formában.
 - n) Letelepedett szolgáltató: állandó telephellyel rendelkező szolgáltató, amely határozatlan ideig tényleges gazdasági tevékenységként nyújt információs társadalommal összefüggő szolgáltatást. Az, hogy a szolgáltatás nyújtásához szükséges műszaki eszközök rendelkezésre állnak, illetve az ehhez szükséges technológiákat alkalmazzák, önmagában nem minősül állandó letelepedésnek;
 - o)
 - p)
@@ -75,6 +76,8 @@ Az Országgyűlés az elektronikus kereskedelem fejlődése és ez által a gazd
 (4) A (2)–(3) bekezdés rendelkezései nem alkalmazhatók a bírósági eljárásokban, ideértve a peres eljárást kezdeményező irat benyújtását megelőzően megindítható eljárásokat és a büntetőeljárás keretében végzett nyomozás során, illetve a nyomozás befejezését követően az ügyész által a vádirat benyújtásáig végrehajtott cselekményeket is.
 
 ### Az információs társadalommal összefüggő szolgáltatással kapcsolatos adatszolgáltatás
+
+3/B. § Az az alkalmazásszolgáltató, aki az információs társadalommal összefüggő olyan szolgáltatást nyújt, amely a szolgáltatást igénybe vevők között titkosított kommunikációt biztosít olyan módon, hogy a kommunikáció tartalma vagy a kommunikációs csatorna felépítésével kapcsolatos funkciók nem kizárólag a felhasználó végberendezésén valósulnak meg (végpont–végpont közötti titkosítás), köteles – az e törvényben meghatározott feltételek szerint – a titkosított kommunikációt biztosító alkalmazás igénybevételével továbbított küldemények, közlések tartalmát a külső engedélyhez kötött titkos információgyűjtésre jogosult szerv megkeresése esetén átadni, valamint a titkosított kommunikációt biztosító alkalmazás igénybevételével kapcsolatosan keletkező, vagy kezelt, a 13/B. § (2) bekezdése szerinti metaadatokat a 13/B. § szerint megőrizni és külső engedélyhez kötött titkos információgyűjtésre jogosult szerv megkeresése esetén átadni.
 
 4. § A szolgáltató köteles elektronikus úton közvetlenül és folyamatosan, könnyen hozzáférhető módon legalább a következő adatokat közzétenni:
 
@@ -168,7 +171,7 @@ Az Országgyűlés az elektronikus kereskedelem fejlődése és ez által a gazd
 
 (6) A közvetítő szolgáltató nem felel az információ eltávolítása vagy hozzáférés nem biztosítása révén keletkezett jogsérelemért, amennyiben a 7–11. § vagy a 13. § szerint járt el.
 
-8. § (1) A 2. § la) pontjában meghatározott közvetítő szolgáltató akkor nem felel a továbbított információért, ha
+8. § (1) A 2. § l) pont la) alpontjában, valamint m) pontjában meghatározott közvetítő szolgáltató akkor nem felel a továbbított információért, ha
 
 - a) nem a szolgáltató kezdeményezi az információ továbbítását;
 - b) nem a szolgáltató választja meg a továbbítás címzettjét, és
@@ -272,6 +275,19 @@ Az Országgyűlés az elektronikus kereskedelem fejlődése és ez által a gazd
 (8) Az információs társadalommal összefüggő szolgáltatás nyújtása nem tehető függővé az igénybe vevőnek valamely (1)–(3) bekezdésében nem említett célból történő adatkezeléshez való hozzájárulásától, amennyiben az adott szolgáltatás más szolgáltatótól nem vehető igénybe.
 
 (9) A külön törvényben meghatározott tájékoztatáson kívül a szolgáltatónak biztosítania kell, hogy az igénybe vevő az információs társadalommal összefüggő szolgáltatás igénybevétele előtt és az igénybevétel során bármikor megismerhesse, hogy a szolgáltató mely adatkezelési célokból mely adatfajtákat kezel, ideértve az igénybe vevővel közvetlenül kapcsolatba nem hozható adatok kezelését is.
+
+13/B. § (1) Az az alkalmazásszolgáltató, aki titkosított kommunikációt biztosító szolgáltatást nyújt, köteles az ilyen alkalmazás igénybevételével továbbított küldeményekkel, közlésekkel kapcsolatosan keletkező vagy kezelt, (2) bekezdés szerinti metaadatokat azok keletkezésétől számított 1 évig megőrizni.
+
+(2) A külső engedélyhez kötött titkos információgyűjtésre jogosult szerv megkeresése esetén a titkosított kommunikációt biztosító szolgáltatást nyújtó alkalmazásszolgáltató
+
+- a) a szolgáltatás típusát;
+- b) a szolgáltatás előfizetőjének vagy felhasználójának
+  - ba) a szolgáltatás igénybevételéhez szükséges azonosító adatait, a szolgáltatás igénybevételének dátumát, kezdő és záró időpontját;
+  - bb) a regisztrációhoz használt IP-címét és portszámát;
+  - bc) az igénybevételnél használt IP-címét és portszámát;
+- c) a felhasználói azonosítót
+
+köteles átadni.
 
 ### Az elektronikus hirdetésre vonatkozó különös szabályok
 
@@ -443,6 +459,12 @@ látja el.
 
 16/G. § A Kerekasztalt 2014. március 1-ig meg kell alakítani.
 
+16/H. § (1) Ha a Hatóság a titkos információgyűjtésre jogosult szerv tájékoztatása alapján megállapítja a 3/B. §-ban vagy a 13/B. §-ban meghatározott kötelezettség megszegését, a jogi személy vagy jogi személyiség nélküli szervezet alkalmazásszolgáltatót százezer forinttól tízmillió forintig terjedő, együttműködési kötelezettség megszegésével összefüggő bírsággal sújthatja.
+
+(2) Az együttműködési kötelezettség megszegésével összefüggő bírság többszörös jogsértés esetén ismételten is kiszabható.
+
+(3) Az együttműködési kötelezettség megszegésével összefüggő bírságot a Hatóság számlájára kell befizetni.
+
 17. § (1) Az informatikáért felelős miniszter köteles
 
 - a) tájékoztatni az Európai Bizottságot arról, hogy az információs társadalommal összefüggő szolgáltatások, különösen az elektronikus kereskedelem egyes jogi kérdéseiről szóló 2000/31/EK európai parlamenti és tanácsi irányelv 9. cikk (2) bekezdés a)–d) pontjában meghatározott szerződések közül melyek nem köthetők meg érvényesen elektronikus úton (a továbbiakban: kivételek),
@@ -468,3 +490,5 @@ látja el.
 - a) az Európai Parlament és a Tanács 2006/2004/EK rendelete (2004. október 27.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről, 4. cikk (1) és (6) bekezdés [a 16/D. § (1) bek., illetve a 16/E. § és 16/F. § (1) bek.];
 - b) a Bizottság 2007/76/EK határozata (2006. december 22.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról [a 16/F. § (2) bek.];
 - c) a Bizottság 2008/282/EK határozata (2008. március 17.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról szóló 2007/76/EK határozat módosításáról [a 16/F. § (2) bek.].
+
+(3) E törvény 2. és 3/B. §-ainak a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i 2015/1535/EU európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.

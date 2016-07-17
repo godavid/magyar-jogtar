@@ -3231,7 +3231,7 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 - f) a honvédelmi igazgatás illetékes szerve,
 - g) a NAV feladat- és hatáskörrel rendelkező szerve az Art., a Vtv. és az egyéb adó- és vám jogszabályok alapján a NAV hatáskörébe tartozó adókötelezettséggel, vámkötelezettséggel, adóigazgatási és vámigazgatási eljárással kapcsolatos feladatokkal összefüggésben,
 - h) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szerv,
-- i) a szervezett bűnözés elleni koordinációs központ az utasadatok kockázatelemzése céljából.
+- i) a Terrorelhárítási Információs és Bűnügyi Elemző Központ az utasadatok kockázatelemzése céljából.
 
 (3) Az adatszolgáltatást kérő szervek felelősek a (2) bekezdés alapján átvett adatoknak e törvény szerinti kezeléséért. Az ilyen adatfelhasználást kötelesek kimutatni, illetve nyilvántartani.
 

@@ -843,7 +843,7 @@ meghosszabbítása
 
 (2) A munkaügyi hatóság csak arra a személyre vonatkozó adatot igényelhet a 75. § (1) bekezdés a)–c) és g) pontjában foglalt résznyilvántartásokból, akit Magyarország más elbánásban részesít, mint amit a munkavállalók Közösségen belüli szabad mozgásáról szóló 1612/68/EGK rendelet 1–6. cikke előír.
 
-(2a) Az eljáró hatóság a 75. § (1) bekezdésében meghatározott résznyilvántartásokból a szervezett bűnözés elleni koordinációs központnak az utasadatok kockázatelemzéséhez szolgáltathat adatot.
+(2a) Az eljáró hatóság a 75. § (1) bekezdésében meghatározott résznyilvántartásokból a Terrorelhárítási Információs és Bűnügyi Elemző Központnak az utasadatok kockázatelemzéséhez szolgáltathat adatot.
 
 (2b) Az eljáró hatóság a kegyelmi eljárás során a legfőbb ügyész, illetve az igazságügyért felelős miniszter részére a 75. § (1) bekezdés d) és e) pontjában foglalt résznyilvántartásokból szolgáltathat adatot.
 
