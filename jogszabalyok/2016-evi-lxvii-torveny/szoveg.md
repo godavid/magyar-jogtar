@@ -151,107 +151,21 @@ lép.
 
 #### 15. A mozgóképről szóló 2004. évi II. törvény módosítása
 
-70. § A mozgóképről szóló 2004. évi II. törvény 1. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) E törvényt kell alkalmazni a mozgóképszakmai célok megvalósulását szolgáló támogatásokra, ha azok forrása a központi költségvetésről szóló törvényben, helyi önkormányzat vagy nemzetiségi önkormányzat költségvetésében meghatározott előirányzat, a 14. § (7) bekezdésében meghatározott hozzájárulás, vagy ha a támogatást a Kormány, a helyi vagy nemzetiségi önkormányzat által alapított alapítvány vagy közalapítvány nyújtja.”
-
-71. § A mozgóképről szóló 2004. évi II. törvény 2. §-a a következő 30–32. ponttal egészül ki:
-
-(E törvény alkalmazásában)
-
-„30. mozgóképszakmai képzés: a filmipar szakemberigényének kielégítését célzó, a filmalkotás előállítása során felhasználható speciális szakismeret, kompetencia megszerzése vagy fejlesztése;
-
-31. közterület: az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 2. § 13. pontja szerinti földterület;
-
-32. kiemelt nemzeti emlékhely: a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 7. § 8. pontja szerinti emlékhely.”
-
-72. § A mozgóképről szóló 2004. évi II. törvény 7. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(A mozgóképszakmai célok támogatása)
-
-„a) a központi költségvetésből nyújtott költségvetési támogatás és a helyi önkormányzat, nemzetiségi önkormányzat által, saját költségvetéséből nyújtott támogatás, valamint a 14. § (7) bekezdésében meghatározott hozzájárulásból nyújtott támogatás (a továbbiakban együtt: közvetlen támogatás) és”
-
-73. § A mozgóképről szóló 2004. évi II. törvény 9/B. § (1) bekezdése a következő j) ponttal egészül ki:
-
-(Az MNF feladatai különösen:)
-
-„j) a 14. § (7) bekezdése szerinti forrás felhasználásával a mozgóképszakmai képzés támogatása,”
+#### 70–73. §
 
 #### 74. §
 
-75. § A mozgóképről szóló 2004. évi II. törvény 14. §-a a következő (7) és (8) bekezdéssel egészül ki:
-
-„(7) Az e törvény szerinti közvetett támogatásban részesült filmelőállító vagy filmgyártó vállalkozás a Hivatal által kiállított támogatási igazolásban vagy a Hivatal által lefolytatott, költségellenőrzési eljárásban hozott jogerős határozatban meghatározott közvetlen magyar filmgyártási költség 0,5%-át, de filmalkotásonként legfeljebb tizenötmillió forintot mozgóképszakmai képzési hozzájárulás címén megfizet az e törvényben meghatározott módon. A mozgóképszakmai képzési hozzájárulás a 31/F. § szerinti közvetlen filmgyártási költségnek minősül.
-
-(8) Nem kell mozgóképszakmai képzési hozzájárulást fizetni a tízmillió forintot el nem érő közvetlen filmgyártási költséggel rendelkező filmalkotásra.”
-
-76. § A mozgóképről szóló 2004. évi II. törvény 28. § (11) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(A Hivatal a nyilvántartásba vett természetes személyt és szervezetet az e törvényben meghatározott esetekben hivatalból vagy a nyilvántartásba vett kérelmére törli a nyilvántartásból. Hivatalból való törlésnek van helye)
-
-„a) a (7) bekezdésben, a 19/I. § (2) és (3) bekezdésében, a 26/C. § (2) bekezdésében és a 31/C. § (6b) bekezdésében meghatározott esetekben, és”
-
-77. § (1) A mozgóképről szóló 2004. évi II. törvény 31/B. § (2a) bekezdés d) és e) pontja helyébe a következő rendelkezések lépnek:
-
-(A kérelem benyújtásával egyidejűleg vagy azt megelőzően a filmelőállító, illetve a filmgyártó vállalkozás bejelenti a gyártási időszak (előkészítés) kezdetének napját legkésőbb annak kezdő napjáig, valamint a forgatás (ideértve az előforgatást is) megkezdésének időpontját azt megelőzően legalább 30 nappal. A forgatás első napját legalább 30 nappal megelőzően – ha a gyártási folyamatból csak az utómunkát végzik Magyarországon, az utómunka megkezdését legalább 30 nappal megelőzően – a kérelem benyújtásával egyidejűleg be kell nyújtani)
-
-„d) a filmalkotás közvetlen filmgyártási költségeire vonatkozó költségvetését (valamennyi társelőállító és támogató által ellenjegyezve), pénzügyi tervét és finanszírozási tervét,
-
-e) a filmelőállító, illetve a filmgyártó vállalkozás arra vonatkozó nyilatkozatát, hogy milyen ütemezésben kéri a támogatási igazolás vagy a költségellenőrzésre irányuló eljárást lezáró határozat kiállítását, és”
-
-(2) A mozgóképről szóló 2004. évi II. törvény 31/B. § (2a) bekezdése a következő f) ponttal egészül ki:
-
-(A kérelem benyújtásával egyidejűleg vagy azt megelőzően a filmelőállító, illetve a filmgyártó vállalkozás bejelenti a gyártási időszak (előkészítés) kezdetének napját legkésőbb annak kezdő napjáig, valamint a forgatás (ideértve az előforgatást is) megkezdésének időpontját azt megelőzően legalább 30 nappal. A forgatás első napját legalább 30 nappal megelőzően – ha a gyártási folyamatból csak az utómunkát végzik Magyarországon, az utómunka megkezdését legalább 30 nappal megelőzően – a kérelem benyújtásával egyidejűleg be kell nyújtani)
-
-„f) a filmelőállító vagy a filmgyártó vállalkozás nyilatkozatát arra vonatkozóan, hogy a filmalkotás gyártása során vállalja
-
-fa) a tízmillió forintot elérő, vagy azt meghaladó, de százmillió forintot meg nem haladó közvetlen filmgyártási költséggel rendelkező filmalkotások esetében legalább egy;
-
-fb) a százmillió forintot meghaladó, de ötszázmillió forintot meg nem haladó közvetlen filmgyártási költséggel rendelkező filmalkotások esetében legalább kettő;
-
-fc) az ötszázmillió forintot meghaladó közvetlen filmgyártási költséggel rendelkező filmalkotások esetében legalább öt
-
-mozgóképszakmai képzésben részt vevő, korábban részt vett vagy legalább egy játékfilm gyártásában gyakorlatot szerzett gyakornok legalább öt héten át tartó foglalkoztatását bármely gyártási részlegben, amelyben a gyakornokok szakmai felügyelete biztosítható.”
-
-(3) A mozgóképről szóló 2004. évi II. törvény 31/B. §-a a következő (2b) bekezdéssel egészül ki:
-
-„(2b) A (2a) bekezdés f) pontja szerinti kötelezettség nem vonatkozik a filmművészeti állami felsőoktatási képzés keretében készülő filmalkotások gyártására.”
-
-78. § (1) A mozgóképről szóló 2004. évi II. törvény 31/C. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A költségellenőrzést lezáró határozat, valamint a támogatási igazolás kiállításának feltétele, hogy a filmalkotás előállítója, illetve gyártója vállalja az állam támogatóként történő feltüntetését a filmalkotás végefőcímében az Elnök által rendeletben meghatározott módon.”
-
-(2) A mozgóképről szóló 2004. évi II. törvény 31/C. § (5) bekezdése a következő d) ponttal egészül ki:
-
-(A támogatási igazolás kiadása iránti)
-
-„d) kérelemhez, ha azt költségellenőrzési eljárás előzte meg, csatolni kell a 14. § (7) bekezdésben meghatározott hozzájárulás megfizetését igazoló iratot.”
-
-(3) A mozgóképről szóló 2004. évi II. törvény 31/C. §-a a következő (6a) és (6b) bekezdéssel egészül ki:
-
-„(6a) A 31/D. § (9) bekezdésében meghatározott esetben az MNF a filmelőállítóval vagy a filmgyártó vállalkozással kötött megállapodás alapján jogosult a 14. § (7) bekezdése szerinti összeget a letéti számláról közvetlenül az MNF-nek a kincstárnál e célra vezetett számlájára átutalni.
-
-(6b) A (6a) bekezdés körébe nem tartozó esetekben a filmelőállító vagy filmgyártó vállalkozás a 14. § (7) bekezdése szerinti összeget a Hivatal által lefolytatott költségellenőrzési eljárásban hozott határozat jogerőre emelkedésétől számított hatvan napon belül fizeti meg az MNF-nek a kincstárnál e célra vezetett számlájára. Ennek elmulasztása esetén a Hivatal a filmelőállítót a 28. § szerinti nyilvántartásból törli.”
+#### 75–78. §
 
 #### 79. §
 
 #### 80–82. §
 
-83. § (1) A mozgóképről szóló 2004. évi II. törvény V. Fejezet 1. Címe a következő 36/H. §-sal egészül ki:
-
-„36/H. § E törvénynek a Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvénnyel megállapított 14. § (7) és (8) bekezdését, 31/B. § (2a) bekezdés f) pontját és (2b) bekezdését, 31/C. § (4) bekezdését, (5) bekezdés d) pontját, valamint (6a) és (6b) bekezdését azokban az eljárásokban kell alkalmazni, amelyekben a támogatási jogosultság megállapítására irányuló kérelmet a Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvény kihirdetését követő harmincadik nap után nyújtottak be.”
-
-(2) A mozgóképről szóló 2004. évi II. törvény V. Fejezet 1. alcíme a következő 36/I. §-sal egészül ki:
-
-„36/I. § Az MNF és a saját honlappal rendelkező települési önkormányzat köteles a Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvénnyel megállapított 34. § (3) bekezdése szerinti díjtételeit – az e törvényben meghatározott közzétételi kötelezettségen túl – 2016. szeptember 30. napjáig a honlapján közzétenni. A települési önkormányzatok 2016. szeptember 30. napjáig kötelesek a 34. § (5) bekezdése szerinti rendeleteiket e törvénynek a Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvénnyel módosított rendelkezéseivel összhangba hozni.”
+#### 83. §
 
 #### 84. §
 
-85. § A mozgóképről szóló 2004. évi II. törvény 38. §-a a következő k) ponttal egészül ki:
-
-(Felhatalmazást kap az Elnök, hogy rendeletben állapítsa meg)
-
-„k) a filmalkotás végefőcímében az állam támogatóként való feltüntetésének módját.”
+#### 85. §
 
 #### 86–88. §
 
@@ -281,19 +195,7 @@ mozgóképszakmai képzésben részt vevő, korábban részt vett vagy legalább
 
 #### 20. A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény módosítása
 
-97. § A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény 43. §-a helyébe a következő rendelkezés lép:
-
-„43. § Az államtudományi és közigazgatási, a rendészeti, a katonai, a nemzetbiztonsági, valamint a nemzetközi és európai közszolgálati felsőoktatás vonatkozásában az alap- és mesterképzés szakjait és a szakok, valamint az államtudományi doktori cím használatára jogosító osztatlan szak képzési és kimeneti követelményeit, továbbá az oklevéllel tanúsított szakképzettséget, és annak a Magyar Képesítési Keretrendszer és az Európai Képesítési Keretrendszer szerinti besorolását a Kormány rendeletben szabályozza.”
-
-98. § A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény 44. § (1) bekezdése a következő e) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben szabályozza)
-
-„e) az államtudományi és közigazgatási, a rendészeti, a katonai, a nemzetbiztonsági, valamint a nemzetközi és európai közszolgálati felsőoktatás vonatkozásában az alap- és mesterképzés szakjait és a szakok, valamint az államtudományi doktori cím használatára jogosító osztatlan szak képzési és kimeneti követelményeit, továbbá az oklevéllel tanúsított szakképzettséget, és annak a Magyar Képesítési Keretrendszer és az Európai Képesítési Keretrendszer szerinti besorolását.”
-
-99. § A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény 1/A. §-ában a „közigazgatás-fejlesztésért felelős miniszter” szövegrész helyébe a „Kormány” szöveg, a „(2) bekezdés” szövegrész helyébe az „(1) bekezdés e) pontja” szöveg lép.
-
-100. § Hatályát veszti a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény 44. § (2) bekezdés d) pontja.
+#### 97–100. §
 
 #### 21. A szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló
 
@@ -515,58 +417,7 @@ lép.
 
 #### 54. Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény módosítása
 
-178. § (1) Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 1. § 5. és 5/a. pontja helyébe a következő rendelkezések lépnek:
-
-(E törvény alkalmazásában:)
-
-„5. pszichotróp anyag: a pszichotróp anyagokról szóló, Bécsben az 1971. évi február hó 21. napján aláírt egyezmény kihirdetéséről szóló 1979. évi 25. törvényerejű rendelet I–IV. jegyzékén, valamint a 2. számú melléklet jegyzékein szereplő anyag;
-
-5/a. pszichotróp anyagként minősített gyógyszer: a pszichotróp anyagokról szóló, Bécsben az 1971. évi február hó 21. napján aláírt egyezmény kihirdetéséről szóló 1979. évi 25. törvényerejű rendelet II–IV. jegyzékén, valamint a 2. számú melléklet B) jegyzékén szereplő pszichotrópnak minősített hatóanyagot tartalmazó gyógyszer;”
-
-(2) Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény. 1. § 37. pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában:)
-
-„37. új pszichoaktív anyag: olyan, a forgalomban újonnan megjelent, gyógyászati felhasználással nem rendelkező anyag vagy vegyületcsoport, amely a központi idegrendszer működésének befolyásolása révén alkalmas a tudatállapot, a viselkedés vagy az érzékelés módosítására, megváltoztatására, és ezért hasonló mértékű fenyegetést jelenthet a közegészségügyre, mint az 1965. évi 4. törvényerejű rendelettel kihirdetett, a New Yorkban, 1961. március 30-án kelt Egységes Kábítószer Egyezmény mellékletének I. és II. Jegyzékén, az 1979. évi 25. törvényerejű rendelettel kihirdetett, a pszichotróp anyagokról szóló, Bécsben, az 1971. évi február hó 21. napján aláírt egyezmény mellékletének I. és II. Jegyzékén, vagy a 2. számú mellékletben meghatározott pszichotróp anyagok jegyzékein szereplő anyagok, és erre tekintettel azt az egészségügyért felelős miniszter rendeletében ilyen anyaggá minősítette;”
-
-179. § Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 15/B. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az (1) bekezdés szerinti előzetes szakmai értékelés során azt kell vizsgálni, hogy az értesítésben megjelölt anyaggal vagy vegyületcsoporttal kapcsolatban a magyar hatóságok, szakértői intézmények előtt nem ismert-e olyan adat,
-
-a) amely az értesítésben megjelölt anyag vagy vegyületcsoport gyógyászati felhasználására utalna, és
-
-b) amely kizárja, hogy az anyag vagy vegyületcsoport hasonló mértékű fenyegetést jelenthet a közegészségügyre, mint az 1. § 4. pontjában meghatározott kábítószerek vagy a pszichotróp anyagokról szóló, Bécsben az 1971. évi február hó 21. napján aláírt egyezmény kihirdetéséről szóló 1979. évi 25. törvényerejű rendelet I–II. jegyzékén, valamint a 2. számú melléklet jegyzékein szereplő anyagok.”
-
-180. § Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 15/C. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(2) Ha a vizsgált új pszichoaktív anyagról a magyarországi, európai uniós, vagy az ENSZ szakosodott szervei által végzett kockázatértékelés eredményeképpen bebizonyosodik, hogy hasonló mértékű fenyegetést jelenthet a közegészségügyre, mint az 1. § 4. pontjában meghatározott kábítószerek vagy a pszichotróp anyagokról szóló, Bécsben az 1971. évi február hó 21. napján aláírt egyezmény kihirdetéséről szóló 1979. évi 25. törvényerejű rendelet I–II. jegyzékén, valamint a 2. számú melléklet A) és B) jegyzékén szereplő anyagok, a megfelelő pszichotróp anyag jegyzékre kell felvenni, és meg kell szüntetni az új pszichoaktív anyaggá minősítését.
-
-(3) Ha a kockázatértékelés nem támasztja alá azt, hogy a vizsgált új pszichoaktív anyag hasonló kockázatot jelenthet, mint az 1. § 4. pontjában meghatározott kábítószerek vagy a pszichotróp anyagokról szóló, Bécsben az 1971. évi február hó 21. napján aláírt egyezmény kihirdetéséről szóló 1979. évi 25. törvényerejű rendelet I–II. jegyzékén, valamint a 2. számú melléklet jegyzékein szereplő anyagok, akkor törölni kell az új pszichoaktív anyagok jegyzékéről és kormányrendeletben meghatározott más jegyzékre kell helyezni.”
-
-181. § Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény a következő 28. §-sal egészül ki:
-
-„28. § Azoknak az anyagoknak a listáját, amelyek nem az 1979. évi 25. törvényerejű rendelettel kihirdetett, a pszichotróp anyagokról szóló, Bécsben, az 1971. évi február hó 21. napján aláírt egyezmény mellékletének I. és II. Jegyzéke alapján minősülnek kábítószerrel egy tekintet alá eső veszélyes pszichotróp anyagnak, a 2. számú melléklet határozza meg.”
-
-182. § Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény a következő 34. §-sal egészül ki:
-
-„34. § Ez a törvény
-
-a) a 4-metilamfetamin ellenőrzési intézkedéseknek történő alávetéséről szóló 2013. március 7-i 2013/129/EU tanácsi határozat,
-
-b) az 5-(2-amino-propil)indol ellenőrzési intézkedések alá vonásáról szóló 2013. október 7-i 2013/496/EU tanácsi határozat,
-
-c) a 4-jód-2,5-dimetoxi-N-(2-metoxi-benzil)fenetilamin (25I-NBOMe), a 3,4-diklór-N-[[1-(dimetil-amino)ciklohexil]metil]benzamid (AH-7921), a 3,4-metilén-dioxi-pirovaleron (MDPV) és a 2-(3-metoxi-fenil)-2-(etil-amino)ciklohexanon (metoxetamin) ellenőrzési intézkedések alá vonásáról szóló, 2014. szeptember 25-ei 2014/688/EU tanácsi határozat, és
-
-d) a 4-metil-5-(4-metil-fenil)-4,5-dihidrooxazol-2-amin (4,4'-DMAR) és az 1-ciklohexil-4-(1,2-difenil- etil)piperazin (MT-45) ellenőrzési intézkedések alá vonásáról szóló 2015. október 8-ai 2015/1873/EU tanácsi határozat
-
-végrehajtásához szükséges rendelkezéseket állapít meg.”
-
-183. § Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény a 7. melléklet szerinti 2. számú melléklettel egészül ki.
-
-184. § Hatályát veszti az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény
-
-- 1. 32. § (3) bekezdése, és
-- 2. 32/B. §-a.
+#### 178–184. §
 
 #### 55. A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény módosítása
 
@@ -686,7 +537,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg.”
 
 236. § Hatályát veszti
 
-- 1. az emberi felhasználásra kerülő gyógyszerekről szóló 1998. évi XXV. törvény,
+- 1.
 - 2–6.
 
 ### V. Fejezet — ZÁRÓ RENDELKEZÉSEK
@@ -787,116 +638,3 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 ### 6. melléklet a 2016. évi LXVII. törvényhez
 
 ### 7. melléklet a 2016. évi LXVII. törvényhez
-
-„2. számú melléklet a 2005. évi XCV. törvényhez
-
-A törvény 28. §-a értelmében azoknak az anyagoknak a listája, amelyek nem az 1979. évi 25. törvényerejű rendelettel kihirdetett, a pszichotróp anyagokról szóló, Bécsben, az 1971. évi február hó 21. napján aláírt egyezmény mellékletének I. és II. Jegyzéke alapján minősülnek kábítószerrel egy tekintet alá eső veszélyes pszichotróp anyagnak, illetve hazai besorolásuk eltér a nemzetközitől, a következő:
-
-A) Jegyzék:
-
-Azok az anyagok, amelyek az 1979. évi 25. törvényerejű rendelettel kihirdetett, a pszichotróp anyagokról szóló, Bécsben, az 1971. évi február hó 21. napján aláírt egyezmény I. Jegyzékén szereplő pszichotróp anyagokkal azonos elbírálás alá esnek Magyarországon, azaz gyógyászati célra nem, kizárólag tudományos célra alkalmazhatók:
-
-|  |  | A | B |
-| --- | --- | --- | --- |
-|  |  | Hivatalos elnevezés (illetve más név vagy rövidítés, illetve külföldön gyakran használt más írásmód) | Kémiai név |
-| 1. |  | AL | 4-allil-oxi-3,5-dimetoxi-fenetil-amin |
-| 2. |  | BDB | 1-(1,3-benzo-dioxol-5-il)-2-bután-amin 1-(1,3-benzodioxol-5-yl)butan-2-ylazan |
-| 3. |  | BZP | 1-benzilpiperazin 1-benzil-1,4-diaza-ciklohexán N-benzilpiperazin |
-| 4. |  | 2C-I | 2,5-dimethoxy-4-iodophenethylamine 4-iodo-2,5-dimethoxyphenethylazan |
-| 5. |  | 2C-T-2 | 2,5-dimethoxy-4-ethylthiophenethylamine 4-ethylsulfanyl-2,5-dimethoxy-phenethylazan |
-| 6. |  | 2C-T-7 | 2,5-dimetoxi-4(n)-propil-tio-fenetil-amin 2,5-dimethoxy-4-(propylsulfanyl)-phenethylazan |
-| 7. |  | DOC | 2,5-dimetoxi-4-klór-amfetamin 1-(4-chloro-2,5-dimethoxyphenyl)propan-2-ylazan |
-| 8. |  | 4-fluoroamphetamine (4-fluoramfetamin) / 4-FA, 4-FMP | 1-(4-fluorophenyl)propan-2-amine |
-| 9. |  | FLEA | N-hidroxi-N-metil-3,4 metilén-dioxi-amfetamin vagy N-hidroxi-3,4-metilén-dioxi-metamfetamin N-[1-(1,3-benzodioxol-5-yl)propan-2-yl]-N-methylhydroxylamin |
-| 10. |  | JWH-018 | naphthalen-1-yl(1-pentyl-1H-indol-3-yl)methanone |
-| 11. |  | JWH-081 | (4-methoxynaphthalen-1-yl)(1-pentyl-1H-indol-3-yl)methanone |
-| 12. |  | JWH-073 | (1-butyl-1H-indol-3-yl)(naphthalen-1-yl)methanone |
-| 13. |  | JWH-122 | (4-methylnaphthalen-1-yl)(1-pentyl-1H-indol-3-yl)methanone |
-| 14. |  | JWH-210 | (4-ethylnaphthalen-1-yl)(1-pentyl-1H-indol-3-yl)methanone |
-| 15. |  | MAL | 3,5-dimetoxi-4-metallil-oxi-fenetil-amin 3,5-dimethoxy-4-(2-methylallyloxy)-phenethylazan |
-| 16. |  | MBDB | 2-(metil-amino)-1-(3,4-metilén-dioxi-fenil)-bután vagy N-metil-1-(1,3-benzo-dioxol-5-il)-2-bután-amin [1-(1,3-benzodioxol-5-yl)butan-2-yl](methyl)azan |
-| 17. |  | mCPP (meta-klorofenilpiperazin) | meta-chlorophenylpiperazine vagy [1-(3-chlorophenyl)piperazine] |
-| 17.a |  | 4- MA, 4-methylamphetamine (4-metilamfetamin) | l-(4-methylphenyl)propan-2-amine |
-| 18. |  | 3,4-methylendioxypirovalerone (3,4-metiléndioxipirovaleron)/ MDPV | 1-(1,3-benzodioxol-5-yl)-2-(pyrrolidin-1-yl)pentan-1-one |
-| 19. |  | 4-methylethcathinone (4-metiletkatinon)/4-MEC | 2-(ethylamino)-1-(4-methylphenyl)propan-1-one |
-| 20. |  | Mephedrone (Mefedron) | 1-(4-methylphenyl)-2-methylaminopropan-1-on |
-| 21. |  | Methylone (Metilon) | 1-(1,3-benzodioxol-5-yl)-2-(methylamino)propan-1-one |
-| 22. |  | N-Me-1-PEA | 1-(N-metil-amino)-1-fenil-etán vagy N-metil-1-fenetil-amin |
-| 23. |  | 1-PEA | 1-amino-1-fenil-etán vagy 1-fenetil-amin |
-| 24. |  | PMMA | paramethoxymethylamphetamine vagy N-methyl-1-(4-methoxyphenyl)-2- aminopropane vagy p-methoxy-N, á-dimethylphenethylamine |
-| 25. |  | TMA-2 (2,4,5-trimetoxiamfetamin) | 2,4,5-trimethoxyamphetamine 1-(2,4,5-trimethoxyphenyl)propan-2-ylazan |
-| 26. |  | 5-IT | 5-(2-aminopropyl)indole |
-| 27. |  | 1-naphyrone (1-nafiron) | 1-(naphthalen-1-yl)-2-(pyrrolidin-1-yl)pentan-1-one |
-| 28. |  | 2-aminoindane (2-aminoindán) | 2,3-dihydro-1H-inden-2-amine |
-| 29. |  | 2-DPMP, Desoxypipradrol (dezoxipipradrol) | 2-(diphenylmethyl)piperidine |
-| 30. |  | 2-naphyrone (2-nafiron) | 1-(naphthalen-2-yl)-2-(pyrrolidin-1-yl)pentan-1-one |
-| 31. |  | 3-MeO-PCE | N-ethyl-1-(3-methoxyphenyl)cyclohexanamine |
-| 32. |  | 4-MeO-PCP | 1-[1-(4-methoxyphenyl)cyclohexyl]piperidine |
-| 33. |  | 5-IAI | 5-iodo-2,3-dihydro-1H-inden-2-amine |
-| 34. |  | 5-MeO-AMT | 1-(5-methoxy-1H-indol-3-yl)propan-2-amine |
-| 35. |  | á-Pyrrolidinovalerophenone, á-PVP | 1-phenyl-2-(1-pyrrolidinyl)-1-pentanone |
-| 36. |  | AM-2201 | 1-[(5-fluoropentyl)-1H-indol-3-yl]-(naphthalen-1-yl)methanone |
-| 37. |  | AMT (alfa-metiltriptamin) | 1-(lH-indol-3-yl)propan-2-amine |
-| 38. |  | Camfetamine (kamfetamin) | N-methyl-3-phenylbicyclo[2.2.1]heptan-2-amine |
-| 39. |  | CP 47,497 C8-homológ | 2-(3-hydroxycyclohexyl)-5-(2-methylnonan-2-yl)phenol |
-| 40. |  | CRA 13 | naphthalen-1-yl [4-(pentyloxy)naphthalen-1-yl]methanone |
-| 41. |  | D2PM, Diphenylprolinol (difenilprolinol) | diphenyl(pyrrolidin-2-yl)methanol |
-| 42. |  | DBZP | 1,4-dibenzylpiperazine |
-| 43. |  | Desoxy-D2PM (dezoxi-D2PM) | 2-(diphenylmethyl)pyrrolidine |
-| 44. |  | Dimethocaine (dimetokain) | 3-(diethylamino)-2,2-dimethylpropyl-4-aminobenzoate |
-| 45. |  | DMAA | 4-methylhexan-2-amine |
-| 46. |  | Etaqualone (etakvalon) | 3-(2-ethylphenyl)-2-methylquinazolin-4(3H)-one |
-| 47. |  | Ethylphenidate (etilfenidát) | ethyl phenyl(piperidin-2-yl)acetate |
-| 48. |  | GBL, gamma-butyrolactone (gamma-butirolakton) | dihydrofuran-2(3H)-one |
-| 49. |  | HU-210 | 9-(hydroxymethyl)-6,6-dimethyl-3-(2-methyloctan-2-yl)-6a,7,10,10a- tetrahydrobenzo [c]chromen-1-ol |
-| 50. |  | Ibogain | (6R,6aS,7S,9R)-7-ethyl-2-methoxy-6,6a,7,8,9,10,12,13-octahydro-5H-6,9- methanopyrido[10,20:1,2]azepino[4,5-b]indole |
-| 51. |  | MDAI | 6,7-dihydro-5H-indeno[5,6-d][1,3]dioxol-6-amine |
-| 52. |  | Methoxetamine (metoxetamin) | 2-(ethylamino)-2-(3-methoxyphenyl)cyclohexanone |
-| 53. |  | MPA, Methylthienylpropamine (metiltienil-propamin) | N-methyl-1-(thiophen-2-yl)propan-2-amine |
-| 54. |  | ODT, O-desmethyltramadol (O-dezmetiltramadol) | 3-{2-[(dimethylamino)methyl]-1-hydroxycyclohexyl}phenol |
-| 55. |  | para-methyl-4-methylaminorex (para-metil-4-metilaminorex) / 4,4’-DMAR | 4-methyl-5-(4-methylphenyl)-4,5-dihydro-1,3-oxazol-2-amine, illetve 4-methyl-5-(4-methylphenyl)-1,3-oxazolidin-2-imine tautomerek |
-| 56. |  | Pentedron, â-ethyl-methcathinone (â-etil-metkatinon) | 2-methylamino-1-phenyl-1-pentanone |
-| 57. |  | MBZP | 1-benzyl-4-methylpiperazine |
-| 58. |  | pFBT, 4-fluorotropacocaine (fluortropakokain) | 8-methyl-8-azabicyclo[3.2.1]oct-3-yl 4-fluorobenzoate |
-| 59. |  | pFPP | 1-(4-fluorophenyl)piperazine |
-| 60. |  | Phenazepam (fenazepam) | 7-bromo-5-(2-chlorophenyl)-1,3-dihydro-2H-1,4-benzodiazepin-2-one |
-| 61 |  | Salvinorin A (Szalvinorin A) | (2S,4aR,6aR,7R,9S,10aS,10bR)-9-(acetyloxy)-2-(3 furanyl)dodecahydro- 6a,10b-dimethyl-4,10-dioxo-2H-naphtho[2,1-c]pyran-7-carboxylic acid methyl ester |
-| 62. |  | TFMPP | 1-[3-(trifluoromethyl)phenyl]piperazine |
-| 63. |  | â-Me-PEA | 2-phenylpropan-1-amine |
-| 64. |  | 3-MeO-PCP | 1-[1-(3-methoxyphenyl)cyclohexyl]-piperidine |
-| 65. |  | Homoamphetamine | 3-amino-1-phenyl-butane |
-| 66. |  | AH-7921 | 3,4-diklór-N-[[1-(dimetil-amino)ciklohexil]metil]benzamid |
-| 67. |  | 25I-NBOMe | 4-jód-2,5-dimetoxi-N-(2-metoxi-benzil)fenetilamin |
-| 68. |  | AB-CHMINACA | N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(cyclohexylmethyl)-1H-indazole- 3-carboxamide |
-| 69. |  | AB-FUBINACA | N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(4- fluorobenzyl)-1H-indazole- 3-carboxamide |
-| 70. | 5F-AB-PINACA |  | N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(5- fluoropentyl)-1H-indazole- 3-carboxamide |
-| 71. | AB-PINACA |  | N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-pentyl-1H-indazole-3-carboxamide |
-| 72. | á-PVT, alpha-PVT, alpha-pyrrolidinopentiothiophenone |  | 2-(pyrrolidin-1-yl)-1-(thiophen-2-yl)pentan-1-one |
-| 73. | MDMB-CHMICA |  | N-[[1-(cyclohexylmethyl)-1H-indol-3-yl]carbonyl]-3-methyl-valine, methyl ester |
-| 74. | MTP, methcathinone thiophen analog |  | 2-(methylamino)-1-(thiophen-2-yl)propan-1-one |
-| 75. | N-ethylnorketamine |  | 2-(2-chlorophenyl)-2-(ethylamino)cyclohexanone |
-| 76. | AM-1248 azepane isomer |  | adamant-1-yl[1-(1-methylazepan-3-yl)-1H-indol-3-yl] methanone |
-| 77. | ADB-FUBINACA |  | N-[1-(aminocarbonyl)-2,2-dimethylpropyl]-1-[(4-fluorophenyl)methyl]-1H-indazole-3-carboxamide |
-| 78. | MT-45 |  | 1-ciklohexil-4-(1,2-difenil-etil)piperazin |
-
-− és az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, amennyiben kémiai szerkezetük alapján azok léteznek, és nem esnek kifejezett kivételes rendelkezés alá;
-
-− az ebben a jegyzékben felsorolt anyagok sói, beleértve a fent említett sztereoizomerek sóit, amennyiben ilyen sók léteznek.
-
-B) Jegyzék:
-
-Azok az anyagok, amelyek az 1979. évi 25. törvényerejű rendelettel kihirdetett, a pszichotróp anyagokról szóló, Bécsben, az 1971. évi február hó 21. napján aláírt egyezmény II. Jegyzékén szereplő pszichotróp anyagokkal azonos elbírálás alá esnek Magyarországon, azaz gyógyászati célra alkalmazható, szigorúan ellenőrzött szerek:
-
-| Hivatalos elnevezés(illetve más név vagy rövidítés, illetve külföldön gyakran használt más írásmód) | Kémiai név |
-| --- | --- |
-| Buprenorphine (buprenorfín) | 21-cyclopropyl-7-á-[(S)-1-hydroxy-1,2,2-trimethylpropyl]-6,14-endo- ethano-6,7,8,14-tetrahydrooripavine |
-| Ketamine (ketamin) | 2-(2-chlorophenyl)-2-(methylamino)-cyclohexanone |
-| Pentazocine (pentazocin) | (2R,6R,11R)-1,2,3,4,5,6-hexahydro-6,11-dimethyl-3-(3-methyl-2- butenyl)-2,6-methano-3-benzazocin-8-ol |
-| Poppy straw (mákszalma) | A levágott máknövény minden része; azonban a magok a tokból való kifejtés és tisztítás után nem minősülnek ellenőrzött szernek |
-| Tapentadol (tapentadol) | 3-[(2R,3R)-1-(dimethylamino)-2-methylpentan-3-yl]- phenol |
-
-− és az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, amennyiben kémiai szerkezetük alapján azok léteznek, és nem esnek kifejezett kivételes rendelkezés alá;
-
-− az ebben a jegyzékben felsorolt anyagok sói, beleértve a fent említett sztereoizomerek sóit, amennyiben ilyen sók léteznek.
-
-”
