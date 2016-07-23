@@ -73,7 +73,7 @@ Az Országgyűlés az épített környezet alakításával és védelmével kapc
 3. § (1) Az épített környezet alakítását és védelmét:
 
 - a) a jogszabályokkal összhangban álló településfejlesztési koncepció, integrált településfejlesztési stratégia, településrendezési eszközök és építészeti-műszaki dokumentáció alapján,
-- b) a jogszabályokban előírt építészeti, műszaki, biztonsági, egészségügyi, rendeltetési és használati, továbbá környezet- és természetvédelmi követelményekkel összhangban,
+- b) a jogszabályokban előírt építészeti, településképi műszaki, biztonsági, egészségügyi, rendeltetési és használati, továbbá környezet- és természetvédelmi követelményekkel összhangban,
 - c) a humánus környezetre és az esztétikus kialakításra tekintettel, valamint
 - d) a résztvevők együttműködésével kell megvalósítani.
 
@@ -138,8 +138,7 @@ Az Országgyűlés az épített környezet alakításával és védelmével kapc
 
 - a) a települési önkormányzat (fővárosban a kerületi önkormányzat, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat)
   - aa) elláthatja az épített környezet helyi védelmét, a helyi építészeti értékek, a településkép, a rálátás és kilátás védelmét, továbbá meghatározza a település területfelhasználásához az építményekben létesíthető rendeltetések körét és a reklámok elhelyezésére vonatkozó követelményeket,
-  - ab) előzetes tájékoztatást ad az ügyfeleknek a helyi településrendezési előírások tartalmáról, ennek keretében javaslatot tehet a telek beépítésének feltételeire a településkép és az építészeti örökség megóvásával és minőségi alakításával kapcsolatban,
-  - ac) szakmai konzultációt biztosít az ab) alpontban meghatározott követelmények teljesítése érdekében,
+  - ab)–ac)
 - b) a fővárosi önkormányzat – e törvényben meghatározott körben – elláthatja az épített környezet helyi védelmét, a helyi építészeti értékek és örökség védelmét.
 
 (2) a települési önkormányzat polgármestere jogszabályban meghatározott esetekben és módon
@@ -258,7 +257,7 @@ Az Országgyűlés az épített környezet alakításával és védelmével kapc
   - be) a szabályozási vonalat,
   - bf) a beépítési módot, az építési helyet és
   - bg) a minimális zöldfelület mértékét;
-- c) országos vagy helyi építészeti örökségvédelemmel, településképi védelemmel, országos régészeti-, táj- és természetvédelemmel kapcsolatos rendelkezéseket, továbbá a veszélyeztetett területekre, a természeti csapások elleni védelemre, a katasztrófavédelemre vonatkozó követelményeket, védőterületet, védőtávolságot
+- c) országos vagy helyi építészeti örökségvédelemmel, – településképi rendelet hiányában – a településképi védelemmel, országos régészeti-, táj- és természetvédelemmel kapcsolatos rendelkezéseket, továbbá a veszélyeztetett területekre, a természeti csapások elleni védelemre, a katasztrófavédelemre vonatkozó követelményeket, védőterületet, védőtávolságot
 
 kell figyelembe venni.
 
@@ -353,7 +352,8 @@ kell figyelembe venni.
 - k) összevont telepítési eljárás,
 - l) településképi véleményezési eljárás,
 - m) településképi bejelentési eljárás,
-- n) közterület-alakítás.
+- n) közterület-alakítás,
+- o) településképi követelmények.
 
 ### Építésjogi követelmények
 
@@ -509,12 +509,9 @@ kivételével más építési munkát végezni nem szabad.
 
 (5) A településrendezési kötelezettségről szóló határozat közlésével egyidejűleg a képviselő-testület megkeresi az ingatlanügyi hatóságot a kötelezettség tényének ingatlan-nyilvántartásba történő feljegyzése érdekében. A kötelezettség megszűnését követően 15 munkanapon belül a képviselő-testület az erről szóló határozat közlésével egyidejűleg a kötelezettség tényének az ingatlan-nyilvántartásból való törlése érdekében megkeresi az ingatlanügyi hatóságot.
 
-(6) A települési önkormányzat polgármestere – kormányrendeletben meghatározottak szerint – településképi kötelezés formájában önkormányzati hatósági döntéssel elrendelheti
+(6)
 
-- a) a településképet rontó reklámok, cégérek megszüntetését,
-- b) a helyi építészeti értékvédelemmel összefüggő kötelezettségek teljesítését.
-
-(7) A helyi önkormányzat képviselő-testülete önkormányzati rendeletben a (6) bekezdés szerinti településképi kötelezettségek megszegése és végre nem hajtása esetén e magatartás elkövetőjével szemben 50 000 forintig terjedhető bírság kiszabását rendelheti el.
+(7)
 
 ### Kártalanítási szabályok
 
@@ -585,35 +582,21 @@ kivételével más építési munkát végezni nem szabad.
 
 ### Településképi véleményezési eljárás
 
-30/C. § (1) A települési önkormányzat polgármestere a megkeresés beérkezésétől számított 15 napon belül az illeszkedési követelmények teljesítésével kapcsolatban – az összevont telepítési eljárással nem érintett, valamint az építészeti-műszaki tervtanácsról szóló kormányrendelet által nem szabályozott körben, az (1a) bekezdésben foglaltak kivételével – véleményt adhat a jogszabályban meghatározott építésügyi hatósági engedélykérelemhez.
-
-(1a) A fővárosi helyi építészeti értékvédelem alá vont építmény, illetve a fővárosi önkormányzat által közvetlenül igazgatott területen lévő építmény esetében az (1) bekezdésben meghatározott körben és módon a (2)–(4) bekezdésben meghatározottak szerint a fővárosi önkormányzat főpolgármestere adhat véleményt.
-
-(2) A polgármester az (1) bekezdés szerinti véleményének kialakításához az önkormányzat rendeletében meghatározottak szerint kikéri az önkormányzati főépítész vagy a helyi építészeti-műszaki tervtanács szakmai véleményét. Ha a polgármester az (1) bekezdésben foglalt határidőn belül nem nyilvánít véleményt, hozzájárulását megadottnak kell tekinteni.
-
-(3) Az épített környezettel kapcsolatos értékvédelem ellátása érdekében a polgármester – e törvény végrehajtására kiadott kormányrendelet keretei között, e tárgyban hozott önkormányzati rendeletben meghatározottak szerint – szakmai tanácsadó testületként helyi építészeti-műszaki tervtanácsot működtethet.
-
-(4) A helyi építészeti-műszaki tervtanács feladata
-
-- a) az illeszkedési szabályok érvényesülésének elősegítése,
-- b) a települési környezet, a táj- és településkép, a beépítési vagy az építészeti jellegzetesség és látvány, a helyi jelleg védelme, valamint
-- c) a helyi építészeti értékek és örökség védelme.
+30/C. § A településképi véleményezési eljárásról külön törvény rendelkezik.
 
 ### Településképi bejelentési eljárás
 
-30/D. § (1) Települési önkormányzat (fővárosban a kerületi önkormányzat) polgármestere, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a főpolgármester településképi bejelentési eljárást folytathat le – e törvény végrehajtására kiadott kormányrendelet keretei között, e tárgyban hozott önkormányzati rendeletben meghatározott esetekben és módon – hatósági engedélyhez vagy a 33/A. § szerinti bejelentéshez nem kötött tevékenységek, a reklámelhelyezések és rendeltetésmódosítások tekintetében.
-
-(2) A településképi eljárást bejelentés formájában az ügyfél a polgármesternél kezdeményezi. Az (1) bekezdés szerinti tevékenység a bejelentés alapján megkezdhető, ha ahhoz más hatósági engedély nem szükséges, és a polgármester a tevékenység végzését a bejelentést követő 8 napon belül nem tiltja meg.
-
-(3) A polgármester (2) bekezdés szerinti döntésével szemben a települési önkormányzat képviselő-testületéhez lehet fellebbezni.
-
-(4) A településképi eljárás során meghozott döntésben foglaltak megszegése, az (1) és (2) bekezdés szerinti bejelentés elmulasztása esetén a 29. § (6) és (7) bekezdése alkalmazásának van helye.
+30/D. § A településképi bejelentési eljárásról külön törvény rendelkezik.
 
 ### Közterület-alakítás
 
 30/E. § (1) A közterület egységes kialakítása érdekében a települési önkormányzat – szabadtér-építészetet, kertépítészetet, gyalogos és gépjármű közlekedést, közmű- és felszíni vízelvezetést, hírközlést is magába foglaló – közterület-alakítási tervet készíttethet.
 
 (2) A közterület-alakítási tervet az önkormányzat képviselő-testülete hagyja jóvá.
+
+### Településképi követelmények
+
+30/F. § A településképi követelményekről külön törvény rendelkezik.
 
 ### III. Fejezet — AZ ÉPÍTÉSI FOLYAMAT SZABÁLYOZÁSA
 
@@ -638,7 +621,7 @@ kivételével más építési munkát végezni nem szabad.
 - c) mindenki számára a közhasználatú építmények esetében a biztonságos és akadálymentes használatot,
 - d) a terület geológiai, hidrológiai és szeizmológiai sajátosságainak való megfelelést.
 
-(5) Mind az építmény elhelyezése, mind pedig a külső megjelenését befolyásoló kialakítása, átalakítása, bővítése, felújítása, helyreállítása során különös figyelmet kell fordítani a táj- és településkép, a beépítési vagy az építészeti jellegzetesség és látvány, a helyi jelleg védelmére, az épített örökség védett értékeinek érvényesülésére.
+(5) Mind az építmény elhelyezése, mind pedig a külső megjelenését befolyásoló kialakítása, átalakítása, bővítése, felújítása, helyreállítása során különös figyelmet kell fordítani a településkép, a tájkép a beépítési vagy az építészeti jellegzetesség és látvány, a helyi jelleg védelmére, az épített örökség védett értékeinek érvényesülésére.
 
 ### Az építészeti-műszaki tervezési és az építésügyi műszaki szakértői tevékenység
 
@@ -747,7 +730,7 @@ helyszíni szemle alapján hatósági bizonyítványt állít ki.
 
 36. § (1) Építésügyi hatósági engedély törvényben, kormányrendeletben meghatározottak szerint akkor adható, ha a kérelem és mellékletei, valamint a kérelmezett tevékenység megfelel a jogszabályokban meghatározott szakszerűségi követelményeknek.
 
-(2) A településképet, egyedi tájértékeket érintő építésügyi hatósági engedélyezés során az építésügyi hatóság előírhatja különösen:
+(2) A településképi követelményt egyedi tájértékeket érintő építésügyi hatósági engedélyezés során az építésügyi hatóság előírhatja különösen:
 
 - a) a jellemző helyi építőanyag használatát, jellegzetes építészeti forma vagy tömeg helyreállítását, illetve visszaállítását, továbbá
 - b) az építménynek az értékvédelem és a környezethez való illeszkedés követelményeinek megfelelő kialakítását, valamint
@@ -1100,7 +1083,7 @@ végzik.
 - c) jogosulatlanul végzett szakmai tevékenység,
 - d) az e törvény végrehajtására kiadott kormányrendeletben előírt, az építési folyamat szerződéseire vonatkozó szakmai szabályok megszegése,
 - e) összeférhetetlenségi szabályok megsértése,
-- f) építési műszaki ellenőr, felelős műszaki vezető, építtetői fedezetkezelő nélkül végzett építési tevékenység,
+- f) építési műszaki ellenőr, felelős műszaki vezető, építtetői fedezetkezelő, tervezői művezető nélkül végzett építési tevékenység,
 - g) szakszerűtlenül végzett kivitelezési tevékenység,
 - h) építési napló vezetésére vonatkozó szabályok megszegése,
 - i) állékonyságot, az életet és az egészséget vagy a közbiztonságot veszélyeztető állapotot eredményező tevékenység,
@@ -1212,9 +1195,9 @@ első fokú végzés ellen.
 
 55. § (1)–(2)
 
-(3) Ha az építmény, építményrész felújítása, átalakítása a településkép előnyösebb kialakítása szempontjából vagy településrendezési okokból vált szükségessé, ezek költségei, továbbá az építmény használatának az átalakítás miatt történt korlátozásából eredő károk megtérítése – a munkálatok elvégzése folytán bekövetkezett értékemelkedés levonásával – a települési önkormányzatot terheli.
+(3) Ha az építmény, építményrész felújítása, átalakítása településrendezési okokból vált szükségessé, ezek költségei, továbbá az építmény használatának az átalakítás miatt történt korlátozásából eredő károk megtérítése – a munkálatok elvégzése folytán bekövetkezett értékemelkedés levonásával – a települési önkormányzatot terheli.
 
-(4) Ha a településkép előnyösebb kialakítása céljából vagy településrendezési okokból az építmény, építményrész lebontása vált szükségessé, a tulajdonost a kisajátítási kártalanításra vonatkozó szabályok szerint kártalanítani kell.
+(4) Ha településrendezési okokból az építmény, építményrész lebontása vált szükségessé, a tulajdonost a kisajátítási kártalanításra vonatkozó szabályok szerint kártalanítani kell.
 
 ### Az építészeti örökség védelme
 
@@ -1232,7 +1215,7 @@ első fokú végzés ellen.
 
 (2) A helyi építészeti örökség értékeinek feltárása, számbavétele, védetté nyilvánítása, fenntartása, fejlesztése, őrzése, védelmének biztosítása a települési önkormányzat feladata. Az országos területi műemléki védelem az egyes ingatlanokon fennálló helyi egyedi védelem hatályát nem érinti.
 
-(3) A helyi védetté nyilvánításról vagy annak megszüntetéséről, továbbá a védettséggel összefüggő korlátozásokról és kötelezettségekről és támogatásokról a települési önkormányzat (a fővárosban a fővárosi és a kerületi önkormányzat is) rendeletben dönt.
+(3) A helyi védetté nyilvánításról vagy annak megszüntetéséről, továbbá a védettséggel összefüggő korlátozásokról és kötelezettségekről és támogatásokról a települési önkormányzat (a fővárosban a fővárosi és a kerületi önkormányzat is) a településképi rendeletben dönt.
 
 (4) Az önkormányzat – a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 5. § (1) bekezdésében foglalt együttműködési kötelezettségre figyelemmel – a helyi védettség településrendezési eljáráson kívüli megszüntetéséről szóló rendelet tervezetét tájékoztatásul megküldi a kulturális örökségvédelmi hatóságnak.
 
@@ -1503,7 +1486,7 @@ hatályban lévő, településrendezési eszközre vonatkozó előírásai.
 - 21. a vállalkozó kivitelezői tevékenység 21.1. körét, 21.2. bejelentésére és a névjegyzék vezetésére vonatkozó részletes eljárási szabályokat, 21.3. folytatásának részletes feltételeit, 21.4. bejelentésének és a tevékenységet folytatók névjegyzékének személyes adatot nem tartalmazó adattartalmát, 21.5. teljesítéséhez kapcsolódó díjfizetési kötelezettség nem teljesítése tárgyában hozott marasztaló jogerős bírósági ítéletről szóló értesítést vagy a nemfizetési jelzést követően lefolytatandó vizsgálat és jogkövetkezmények megállapításának részletes szabályait
 - 22. a településfejlesztési koncepció és az integrált településfejlesztési stratégia tartalmára, elkészítésére és elfogadására vonatkozó részletes szabályokat,
 - 23. a településszerkezeti terv és a helyi építési szabályzat tartalmára, elkészítésére és elfogadására vonatkozó részletes szabályokat,
-- 24. a településképi véleményezési és a településképi bejelentési eljárásra, a közterület-alakításra, valamint a településrendezési kötelezettségek teljesítésére vonatkozó részletes szabályokat, továbbá a telepítési tanulmányterv és a beépítési terv előkészítésére és tartalmára vonatkozó szabályokat,
+- 24. a közterület-alakításra, valamint a településrendezési kötelezettségek teljesítésére vonatkozó részletes szabályokat, továbbá a telepítési tanulmányterv és a beépítési terv előkészítésére és tartalmára vonatkozó szabályokat,
 - 25. az összevont telepítési eljárás szabályait,
 - 26. a 6. § (2) bekezdése szerinti határidőt,
 - 27. a magyar történelem kiemelkedő jelentőségű helyszínein lévő, a nemzeti vagyonról szóló törvény szerint az állam kizárólagos tulajdonába tartozó építmények vagy nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő műemlékek és műemlékegyüttesek, valamint az országos jelentőségű kulturális és sport rendeltetésű épületek telkére, valamint az azok közvetlen környezetébe tartozó telkekre vonatkozóan, továbbá a nemzetbiztonsági célú építmények telkére vonatkozóan a beépítés szabályait,
@@ -1532,7 +1515,7 @@ rendeletben állapítsa meg.
 
 - 1. a telekalakítás, a telekalakítási és építési tilalom elrendelése, továbbá a cseretelekadás részletes szakmai szabályait,
 - 2. az épületek energetikai jellemzőinek meghatározására vonatkozó szabályokat,
-- 3. a helyi építészeti örökség védelmének szakmai szabályait,
+- 3.
 - 4. a területek biológiai aktivitás értékének számítására vonatkozó részletes szabályokat – a környezetvédelemért felelős miniszterrel egyetértésben –,
 - 5. az igazgatási eljárásokban alkalmazandó telekár számításának szabályait,
 - 6. az Építőipari Ágazati Párbeszéd Bizottság ajánlásában a tárgyévre megállapított minimális építőipari rezsióradíj, vagy az ajánlás hiányában az előző évi minimális építőipari rezsióradíjnak a KSH által közzétett inflációs rátával növelt mértékét rendelettel állapítsa meg.
@@ -1549,18 +1532,16 @@ rendeletben állapítsa meg.
 
 (6) Felhatalmazást kap a települési önkormányzat (fővárosban a kerületi önkormányzat, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat) arra, hogy rendeletben állapítsa meg
 
-- 1. a helyi építészeti értékek védelme érdekében 1.1. a védetté nyilvánításról, 1.2. a védettség megszüntetésének eljárási szabályairól, 1.3. a védettség érdekében biztosított önkormányzati támogatási és ösztönzőrendszer mértékéről és módjáról szóló szabályokat,
-- 2. a településkép védelme érdekében a reklámok, reklámberendezések és cégérek elhelyezésének, alkalmazásának követelményeiről, feltételeiről és tilalmáról szóló szabályokat,
-- 3. azon – jogszabályban építésügyi hatósági engedélyhez nem kötött – építési tevékenységek, rendeltetésváltoztatások és reklámelhelyezések körét, amelyek megkezdését településképi bejelentési eljáráshoz köti, valamint a településképi bejelentési eljárás részletes szabályait,
+- 1–3.
 - 4. a helyi építészeti-műszaki tervtanács létrehozásáról, működési feltételeiről, eljárási szabályainak megállapításáról szóló szabályokat,
 - 5.
 - 6. a helyi építési szabályzatát,
-- 7. a településképi kötelezési és a településképi véleményezési eljárás részletes szabályait, a településképi kötelezettség megszegése és végrehajtása esetén alkalmazható bírság esetköreit és mértékét.
+- 7.
 
 (7) Felhatalmazást kap a fővárosi önkormányzat, hogy rendeletben állapítsa meg
 
 - 1. a helyi építészeti értékek védelme érdekében 1.1. a védetté nyilvánításról, 1.2. a védettség megszüntetésének eljárásáról, 1.3. a védettség érdekében biztosított önkormányzati támogatási és ösztönzőrendszer mértékéről és módjáról szóló szabályokat,
-- 2. fővárosi helyi építészeti értékvédelem alá vont építmények esetében a településképi véleményezési eljárás részletes szabályait,
+- 2.
 - 3. a fővárosi rendezési szabályzatát,
 - 4. a Duna-parti építési szabályzatát,
 - 5. a Városligeti építési szabályzatot.
