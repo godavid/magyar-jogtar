@@ -65,7 +65,7 @@ a következő törvényt alkotja:
 - 10. iskolabusszal végzett személyszállítás: kizárólag óvodások és kísérőik, valamint a közoktatásban tanulók és kisérőik szállítását szolgáló, nem közszolgáltatás keretében nyújtott sajátszámlás személyszállítás vagy személyszállítási szolgáltatás;
 - 11. járat: e törvény keretében meghatározott jármű a menetrendben meghatározott útvonalon és időrendben történő közlekedése;
 - 12. jármű:
-  - a) vasúti jármű: a vasúti közlekedésről szóló 2005. évi CLXXXIII törvény (a továbbiakban: Vtv.) szerinti vasúti jármű,
+  - a) vasúti jármű: a vasúti közlekedésről szóló 2005. évi CLXXXIII törvényben (a továbbiakban: Vtv.) meghatározott vasúti jármű,
   - b) trolibusz: a közszolgáltatási szerződések odaítélése szempontjából vasúti jármű,
   - c) közúti jármű: az autóbusz, az iskolabusz, a közösségi busz, a személytaxi és a személygépkocsis személyszállító szolgáltatás eszköze,
   - d) különleges személyszállító szolgáltatást nyújtó jármű: személyszállító szolgáltatáshoz használt – a c) pontban meghatározott közúti járműkörbe nem tartozó – a közúti közlekedésről szóló törvény szerinti közúti jármű, kivéve a személygépkocsit, amellyel különleges személyszállító szolgáltatás nem végezhető,
@@ -293,6 +293,46 @@ vonatkozó rendelkezéseket állapíthat meg.
 
 (5) Ha a települési önkormányzat – a Főváros területén a Fővárosi Önkormányzat – a (3)–(4) bekezdés szerinti feltételeket állapított meg, azok teljesítését a tevékenység végzésének megkezdésére vonatkozó bejelentés megtétele után a települési önkormányzat – a Főváros területén a Fővárosi Önkormányzat – vagy az általa megbízott közlekedésszervező ellenőrzi és nem teljesülés esetén a települési önkormányzat – a Főváros területén a Fővárosi Önkormányzat – (2) bekezdés szerinti rendeletében meghatározott szankciókat alkalmazza.
 
+#### 9/B. Személyszállítási szolgáltatást közvetítő vagy szervező szolgáltatásra vonatkozó szabályok
+
+12/B. § (1) A közlekedési hatóság elrendeli az ideiglenes hozzáférhetetlenné tételét annak az elektronikus hírközlő hálózat útján közzétett adatnak (ezen alcím alkalmazásában a továbbiakban: elektronikus adat), amelynek a szolgáltatás működtetője által hozzáférhetővé tétele olyan üzletszerűen végzett személyszállítási szolgáltatást közvetítő vagy szervező szolgáltatás
+
+- a) igénybevételét biztosítja vagy
+- b) igénybevételéhez szükséges lépések bemutatásával közvetlenül népszerűsíti, elősegíti azt,
+
+amely nem felel meg a Kormány rendeletében meghatározott diszpécserszolgálati vagy önálló diszpécserszolgálati tevékenységre vonatkozóan megállapított követelményeknek.
+
+(2) Az (1) bekezdés szerinti elektronikus adat hozzáférhetetlenné tétele akkor rendelhető el, ha a Kormány rendeletében meghatározott diszpécserszolgálati engedély hiánya miatt az eljáró hatóság bírságot szabott ki és a megbírságolt az engedély nélküli tevékenységet tovább folytatja.
+
+(3) Az ideiglenes hozzáférhetetlenné tétel az elektronikus adathoz való hozzáférés ideiglenes megakadályozása. Az elektronikus adat ideiglenes hozzáférhetetlenné tételét a közlekedési hatóság 365 napra rendeli el.
+
+(4) Az elektronikus adat ideiglenes hozzáférhetetlenné tételét elrendelő határozatot a közlekedési hatóság hirdetményi úton közli. A hirdetményt 15 napig kell a közlekedési hatóság honlapján közzétenni.
+
+(5) A (4) bekezdés szerinti hirdetmény tartalmazza:
+
+- a) az ügy tárgyát és rövid ismertetését,
+- b) az elektronikus adat ideiglenes hozzáférhetetlenné tételéhez szükséges adatokat,
+- c) a tájékoztatást arról, hogy az érintettek hol és mikor tekinthetnek be az ügy irataiba.
+
+12/C. § (1) A közlekedési hatóság 12/B. § (1) bekezdése szerinti határozatának kötelezettje – annak határozatban történő megjelölése nélkül – valamennyi elektronikus hírközlési szolgáltató.
+
+(2) Az ideiglenes hozzáférhetetlenné tétel végrehajtását a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: NMHH) az elektronikus hírközlésről szóló törvény alapján szervezi és ellenőrzi.
+
+(3) A közlekedési hatóság 50000 forinttól 200000 forintig terjedő bírsággal sújthatja azt az (1) bekezdés szerinti szolgáltatót, amely a 12/B. § szerinti kötelezettségének nem tesz eleget. A bírság a kötelezettség nemteljesítésének időtartama alatt ismételten is kiszabható.
+
+12/D. § (1) Az ideiglenes hozzáférhetetlenné tételre vonatkozó kötelezettség az elrendelést követő 365 nap elteltével megszűnik.
+
+(2) Az ideiglenes hozzáférhetetlenné tételt a közlekedési hatóság annak megszűnése előtt megszünteti, ha
+
+- a) az elrendelés oka megszűnt, vagy
+- b) a büntetőügyben eljáró bíróság vagy hatóság megkeresése, illetve az NMHH közlése alapján valamely bűncselekménnyel kapcsolatban elektronikus adat ideiglenes hozzáférhetetlenné tétele kényszerintézkedés, illetve elektronikus adat végleges hozzáférhetetlenné tétele intézkedés elrendelése vagy végrehajtása van folyamatban.
+
+(3) A határozatra a 12/B. § (4) és (5) bekezdésében foglaltakat kell alkalmazni.
+
+12/E. § A közlekedési hatóság a jogkövető magatartás elősegítése és az állampolgárok tájékoztatása érdekében honlapján a 12/B. § szerinti intézkedés végrehajtásának időtartama alatt közzéteszi a jogerős ideiglenes hozzáférhetetlenné tétel elrendelésével érintett honlap elnevezését.
+
+12/F. § Személygépkocsival engedély nélkül végzett közúti közlekedési szolgáltatáshoz használt személygépkocsit a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló kormányrendeletben meghatározott időtartamra ki kell vonni a forgalomból.
+
 #### 10. Szerződéses és különjárati személyszállítási szolgáltatás
 
 13. § Közúti gépjárművel végzett szerződéses vagy különjárati személyszállítási szolgáltatás a 10. § (1) bekezdésében meghatározott engedély birtokában, vasúti eszközzel végzett szerződéses vagy különjárati személyszállítási szolgáltatás a Vtv.-ben meghatározott működési engedéllyel rendelkező vállalkozó vasút társaságként végezhető. A különjárati személyszállítási szolgáltatásra egyebekben a 181/2011/EU rendelet és a Ptk. vállalkozási szerződésekre vonatkozó szabályai, a szerződéses személyszállítási szolgáltatásra egyebekben a Ptk. vállalkozási szerződésekre vonatkozó szabályai az irányadóak.
@@ -446,13 +486,13 @@ vonatkozó rendelkezéseket állapíthat meg.
 
 #### 16. Közlekedésszervező
 
-21. § (1) Az önkormányzat a 4. § (4) bekezdés c–e) pontjában, az 5. §-ában, 12. § (7) bekezdésében, 23–31. §-ában, valamint a 35. §-ában szabályozott feladatokat a feladat ellátásához szükséges forrásokkal együtt – az állam vagy az önkormányzat kizárólagos tulajdonában, vagy kizárólag az állam és az önkormányzat közös tulajdonában álló korlátolt felelősségű társaság vagy részvénytársaság, vagy irányítása alatt álló költségvetési szerv formájában működő – közlekedésszervezőnek adhatja át. A közlekedésszervező működése alatt az állam vagy az önkormányzat kizárólagos tulajdonjogának, vagy az állam és az önkormányzat közös kizárólagos tulajdonjogának fennállását folyamatosan biztosítani szükséges.
+21. § (1) Az önkormányzat a 4. § (4) bekezdés c–e) pontjában, az 5. §-ában, 12. § (7) bekezdésében, 23–31. §-ában, és a 35. §-ában szabályozott feladatokat a feladat ellátásához szükséges forrásokkal együtt – az állam vagy az önkormányzat kizárólagos tulajdonában, vagy kizárólag az állam és az önkormányzat közös tulajdonában álló korlátolt felelősségű társaság vagy részvénytársaság, vagy irányítása alatt álló költségvetési szerv formájában működő – közlekedésszervezőnek adhatja át. A közlekedésszervező működése alatt az állam vagy az önkormányzat kizárólagos tulajdonjogának, vagy az állam és az önkormányzat közös kizárólagos tulajdonjogának fennállását folyamatosan biztosítani szükséges.
 
-(2) Az önkormányzat az átadott feladatok tekintetében szakmai felügyeletet gyakorol a közlekedésszervező felett, ennek során az ellátásért felelős a közlekedésszervező által az (1) bekezdésben meghatározott rendelkezések alapján ellátott feladatok tekintetében hozott döntéseit megváltoztathatja vagy megsemmisítheti. A szakmai felügyelet körében az önkormányzat évente egy alkalommal értékeli a közlekedésszervező tevékenységét és a következő időszakra tervezett stratégiai intézkedéseit.
+(2) Az önkormányzat az átadott feladatok tekintetében szakmai felügyeletet gyakorol a közlekedésszervező felett, ennek során az ellátásért felelős a közlekedésszervező által az (1) bekezdésben meghatározott rendelkezések alapján ellátott feladatok tekintetében hozott döntéseit megváltoztathatja vagy megsemmisítheti. A szakmai felügyelet körében az önkormányzat évente legalább egy alkalommal értékeli a közlekedésszervező tevékenységét és a következő időszakra tervezett stratégiai intézkedéseit.
 
 (3) Amennyiben a közlekedésszervező valamely közszolgáltatási tevékenysége gazdasági tevékenységnek minősül akkor azt kizárólag az Európai Unió által az Európai Unió működéséről szóló szerződés 106. cikk (2) bekezdésének alkalmazása érdekében kiadott kötelező jogi aktusnak és az 1370/2007/EK rendeletnek megfelelő közszolgáltatási szerződés alapján végezheti.
 
-22. § (1) Az önkormányzat a közlekedésszervezőt az e törvényben meghatározott feladatok átadására jogszabályban (a továbbiakban: kijelölő jogszabály) jelöli ki.
+22. § (1) Az önkormányzat a közlekedésszervezőt az e törvényben meghatározott feladatok átadására vonatkozó jogszabályban (a továbbiakban: kijelölő jogszabály) jelöli ki.
 
 (2) A kijelölő jogszabályban meg kell határozni
 
@@ -480,9 +520,9 @@ vonatkozó rendelkezéseket állapíthat meg.
 
 (7) A feladatok átadásával kapcsolatos szabályokat olyan módon kell meghatározni, hogy a közlekedési közszolgáltatás teljesítésében érintett közlekedési szolgáltatók, és az azokkal érintett utasok vagy egyéb személyek jogainak és jogos érdekeinek védelme, jogérvényesítési lehetőségei és jogorvoslati jogai ne csökkenjenek ahhoz viszonyítva, mintha a feladatot az e törvényben meghatározott ellátásért felelős látná el.
 
-(8) A közlekedésszervező a helyi személyszállítást végző közlekedési szolgáltató számára a megrendelt közszolgáltatás teljesítése során jelentkező zavarok elhárítása és rendkívüli igények teljesítése céljából az operatív lebonyolítás módját, az alkalmazandó intézkedéseket meghatározhatja. Ennek kereteit a (4) bekezdés szerinti kijelölő jogszabály határozza meg. A közlekedésszervező ezen rendelkezésének végrehajtását a közlekedési szolgáltató csak abban az esetben tagadja meg, ha a rendelkezés az emberi életet, egészséget vagy a vasútüzem biztonságát sérti vagy veszélyezteti.
+(8) A közlekedésszervező a helyi személyszállítást végző közlekedési szolgáltató számára a megrendelt közszolgáltatás teljesítése során jelentkező zavarok elhárítása és a rendkívüli igények teljesítése céljából az operatív lebonyolítás módját, az alkalmazandó intézkedéseket meghatározhatja. Ennek kereteit a (4) bekezdés szerinti kijelölő jogszabály határozza meg. A közlekedésszervező ezen rendelkezésének végrehajtását a közlekedési szolgáltató csak abban az esetben tagadja meg, ha a rendelkezés az emberi életet, egészséget vagy a vasútüzem biztonságát sérti vagy veszélyezteti.
 
-(9) Az önkormányzat meghatározó befolyása alatt álló korlátolt felelősségű társaságként vagy részvénytársaságként vagy az önkormányzat irányítása alatt álló költségvetési szervként működő közlekedésszervező, valamint az a közlekedési közszolgáltatás teljesítésében érintett közlekedési szolgáltató, amely a közlekedésszervezőt rendeletben kijelölő önkormányzat meghatározó befolyása alatt álló gazdasági társaságként vagy ugyanazon önkormányzat irányítása alatt álló költségvetési szervként működik, az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 8. § alkalmazásában együttesen kapcsolt vállalkozások, amelyekkel kapcsolt vállalkozási viszonyba csak külön törvényi rendelkezés alapján kerülhet újabb személy.
+(9) Az önkormányzat meghatározó befolyása alatt álló korlátolt felelősségű társaságként vagy részvénytársaságként vagy az önkormányzat irányítása alatt álló költségvetési szervként működő közlekedésszervező, és az a közlekedési közszolgáltatás teljesítésében érintett közlekedési szolgáltató, amely a közlekedésszervezőt rendeletben kijelölő önkormányzat meghatározó befolyása alatt álló gazdasági társaságként vagy ugyanazon önkormányzat irányítása alatt álló költségvetési szervként működik, az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 8. § alkalmazásában együttesen kapcsolt vállalkozások, amelyekkel kapcsolt vállalkozási viszonyba csak külön törvényi rendelkezés alapján kerülhet újabb személy.
 
 #### 17. A közlekedési szolgáltató kiválasztása
 
@@ -538,7 +578,7 @@ vonatkozó rendelkezéseket állapíthat meg.
 
 #### 18. Közszolgáltatási szerződés
 
-25. § (1) A közszolgáltatási szerződés megkötésére a miniszter az államháztartásért felelős miniszterrel egyetértésben, az önkormányzat nevében az önkormányzat képviselő-testületének felhatalmazása alapján a polgármester (a Fővárosban a főpolgármester), vagy – a 22. §-ban meghatározott kijelölő jogszabályban foglaltak alapján – a rendeletben megjelölt közlekedésszervező jogosult. A közszolgáltatási szerződés érvényességi idejére és esetleges meghosszabbításának feltételeire az 1370/2007/EK rendelet 4. cikk (3)–(4) bekezdésében meghatározott rendelkezések az irányadóak. Amennyiben a közszolgáltatási szerződés a közlekedési szolgáltatónál gazdasági hátrányt okozó kötelezettséget tartalmaz, a pénzügyi ellentételezés tekintetében legalább 3 éves, amennyiben a szerződés érvényessége kevesebb mint 3 év, akkor a szerződés érvénytartamával megegyező időszakra vonatkozó pénzügyi (éven túli) kötelezettségvállalást kell tartalmaznia.
+25. § (1) A közszolgáltatási szerződés megkötésére a miniszter az államháztartásért felelős miniszterrel egyetértésben, az önkormányzat nevében az önkormányzat képviselő-testületének felhatalmazása alapján a polgármester (a Fővárosban a főpolgármester), vagy – a 22. §-ban meghatározott kijelölő jogszabályban foglaltak alapján – a rendeletben megjelölt közlekedésszervező jogosult. A közszolgáltatási szerződés érvényességi idejére és esetleges meghosszabbításának feltételeire az 1370/2007/EK rendelet 4. cikk (3)–(4) bekezdésében meghatározott rendelkezések az irányadóak. Amennyiben a közszolgáltatási szerződés a közlekedési szolgáltatónál gazdasági hátrányt okozó kötelezettséget tartalmaz, annak a pénzügyi ellentételezés tekintetében legalább 3 éves, amennyiben a szerződés érvényessége kevesebb mint 3 év, akkor a szerződés érvénytartamával megegyező időszakra vonatkozó pénzügyi (éven túli) kötelezettségvállalást kell tartalmaznia.
 
 (2) A személyszállítási közszolgáltatási szerződés része a közszolgáltatási menetrend, amely elkülönülten tartalmazza az országos, a regionális és elővárosi személyszállítási szolgáltatásokat. Helyi személyszállítási szolgáltatás esetén a személyszállítási közszolgáltatási szerződés része a helyi közszolgáltatási menetrend. Ha az 1370/2007/EK rendelet vagy e törvény másként nem rendelkezik, a személyszállítási közszolgáltatási szerződésre a Ptk. szerződésekre vonatkozó általános szabályai az irányadók.
 
@@ -916,7 +956,7 @@ rendeletben állapítsa meg.
 
 - a) a vasúti személyszállítási szolgáltatások végzésének és engedélyezésének részletes szabályait,
 - b) a vasúti dolgozók menetkedvezményre jogosultságának és igénybevételének részletes szabályait,
-- c) az országos, regionális és elővárosi személyszállítási közszolgáltatásokra vonatkozó közforgalmú menetrend készítésére, az egységes egyeztetési eljárásra vonatkozó, valamint az országos, regionális és elővárosi személyszállítási közszolgáltatások keretében nyújtandó alapellátás meghatározására vonatkozó részletes szabályokat,
+- c) az országos, regionális és elővárosi személyszállítási közszolgáltatásokra vonatkozó közforgalmú menetrend készítésére, az egységes egyeztetési eljárásra vonatkozó, és az országos, regionális és elővárosi személyszállítási közszolgáltatások keretében nyújtandó alapellátás meghatározására vonatkozó részletes szabályokat,
 - d) a vasúti pályahálózathoz való nyílt hozzáférésnek a 47. § (1) bekezdés szerinti korlátozására vonatkozó részletes szabályokat,
 - e) a 48. §-ban meghatározott, a vasúti személyszállítási közszolgáltatási szerződésben meghatározott kötelezettségek pénzügyi ellentételezése fedezetének biztosítása érdekében a vasúti személyszállítási szolgáltatást nyújtó vasúti társaságokat terhelő pénzügyi ellentételezés megállapításának mérlegelési szempontjait az államháztartásért felelős miniszterrel egyetértésben,
 - f) a 19. § (1a) bekezdése szerinti közlekedésszakmai feltételek és hozzáférési feltételek részletes szabályait,
