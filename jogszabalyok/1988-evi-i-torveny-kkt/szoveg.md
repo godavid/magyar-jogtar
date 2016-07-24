@@ -411,7 +411,10 @@ oktatása, szakképzése és utánképzése
 
 (5) A vezetői engedély csak abban az esetben adható vissza, ha az érintett személy igazolja, hogy az utánképzésen részt vett.
 
-(6) Az utánképzésen nem kell részt vennie a járművezetőnek, ha az eltiltás csak jármű kategóriára vagy jármű fajtára terjed ki, és az a vezetői engedély visszavonásával nem jár.
+(6) Az utánképzésen nem kell részt vennie a járművezetőnek, ha
+
+- a) az eltiltás csak járműkategóriára vagy járműfajtára terjed ki, és az a vezetői engedély visszavonásával nem jár;
+- b) a vezetői engedélyét az eljáró hatóság kizárólag, a közúti közlekedési előéleti pontrendszerről szóló 2000. évi CXXVIII. törvény végrehajtásáról szóló kormányrendeletben a közigazgatási bírsággal sújtandó jogsértéshez tartozó 9 pont megállapítására alapozottan vonta vissza.
 
 (7) A közlekedési hatóság a (2) bekezdésben meghatározott engedélyköteles tevékenységet engedély nélkül vagy az engedélyben foglaltaktól eltérő módon végzőket 200 000 Ft-ig terjedő bírság fizetésére kötelezheti. A bírság ismételten is kiszabható. A bírság mellett a közlekedési hatóság a képző szerv tevékenységét – jogszabályban meghatározott esetekben – felfüggesztheti, illetve az engedélyt visszavonhatja.
 
@@ -576,7 +579,7 @@ e törvénnyel és a 48. § (3) bekezdés a) pont 5. alpontja alapján kiadott k
 
 vonatkozóan a megismert személyes adatokat a közlekedési hatóság az engedélyezett tevékenység gyakorlásának időtartama alatt, a járművezetői igazolvány érvényességi időtartama alatt, vagy az engedély megtagadását vagy visszavonását követő naptári év végéig kezeli.
 
-#### 19/A. §
+19/A. § A közúti árutovábbításra kötött szerződésekre a Polgári Törvénykönyvről szóló törvény szerződésekre vonatkozó általános, továbbá a fuvarozási szerződésekre vonatkozó rendelkezéseit az e törvényben, valamint a közúti árutovábbítási szerződésekről szóló kormányrendeletben foglalt kiegészítésekkel kell alkalmazni.
 
 20. § (1) Az e törvényben, valamint külön jogszabályban és közösségi jogi aktusban
 
@@ -1725,7 +1728,9 @@ során a vizsgáztatásról, vizsgálatról és ellenőrzésről – adatrögzí
 - 31. síkosságmentesítés: olyan téli üzemeltetési feladat, amely a közút gépjármű-közlekedésre szolgáló felületének síkosság elleni védekezését és a hó eltakarítását foglalja magába; 31/A. Nemzeti Tengelysúlymérő Rendszer: a megengedett legnagyobb össztömeg és tengelyterhelés ellenőrzésének támogatására, az ellenőrzésre való kiválasztás előszűrése érdekében rendszeresített, hitelesített mérőeszközöknek és az ezekhez kapcsolódó hatósági informatikai rendszer szoftver- és hardverelemeinek rendszere;
 - 32. Komplex Közlekedési Ellenőrző Pont: a közúti forgalomban részt vevők több szempontú ellenőrzésére szolgáló, információgyűjtő, elemező és dokumentáló rendszernek az elektronikus észlelésre szolgáló elemei és az azok rögzítésére szolgáló tartószerkezet.
 - 33. közúti hírközlő hálózat: az országos közutak üzemeltetéséhez szükséges állami tulajdonú, az elektronikus hírközlésről szóló törvény szerinti elektronikus hírközlő hálózat nem aktív hálózati elemei, ideértve az elektronikus hírközlési építményeket is.
-- 34. tájékozódást segítő jelzést megjelenítő reklámcélú eszköz: a közúton közlekedők tájékozódását megkönnyítő vagy azt segítő, különböző szolgáltatások igénybevételének, kulturális, idegenforgalmi vagy egyéb tevékenység végzésének lehetőségét úticélként megjelölő, továbbá ezek irányát, távolságát vagy helyszínét mutató jelzést megjelenítő, közvilágítási-, villany- és telefonoszlopon elhelyezhető berendezés, amely tartalmazhat olyan szót, szóösszetételt, grafikai vagy egyéb ábrát, illetve szöveges vagy képi megjelenítést, jelet, amely a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény 3. § d) pontjának hatálya alá tartozik; a tájékozódást segítő jelzést megjelenítő reklámcélú eszköz nem minősül a 12. § (3b) bekezdés szerinti reklámtáblának, reklámhordozónak, sem egyéb reklámcélú berendezésnek.
+- 34. tájékozódást segítő jelzést megjelenítő reklámcélú eszköz: a közúton közlekedők tájékozódását megkönnyítő vagy azt segítő, különböző szolgáltatások igénybevételének, kulturális, idegenforgalmi vagy egyéb tevékenység végzésének lehetőségét úticélként megjelölő, továbbá ezek irányát, távolságát vagy helyszínét mutató jelzést megjelenítő, közvilágítási-, villany- és telefonoszlopon elhelyezhető berendezés, amely tartalmazhat olyan szót, szóösszetételt, grafikai vagy egyéb ábrát, illetve szöveges vagy képi megjelenítést, jelet, amely a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény 3. § d) pontjának hatálya alá tartozik; a tájékozódást segítő jelzést megjelenítő reklámcélú eszköz nem minősül a 12. § (3b) bekezdés szerinti reklámtáblának, reklámhordozónak, sem egyéb reklámcélú berendezésnek;
+- 35. közúti árutovábbítás: közúton tehergépjárművel végzett árufuvarozás, díj ellenében más által – gépjárművezetővel együtt – rendelkezésre bocsátott tehergépjármű áruszállítás céljára való felhasználása, valamint díj ellenében végzett vontatás;
+- 36. tehergépjármű: a tehergépkocsi, a vontató, a lassú jármű, valamint a tehergépkocsiból, vontatóból vagy lassú járműből és pótkocsiból (félpótkocsiból) álló járműszerelvény.
 
 47/A. § (1) A közlekedési hatóság jogosult a közútkezelői hozzájárulás kiadására jogosult útkezelő által kiadott közútkezelői hozzájárulásban feltüntetett adatok kezelésére.
 
