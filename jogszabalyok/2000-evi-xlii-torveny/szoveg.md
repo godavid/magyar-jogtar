@@ -269,7 +269,7 @@ lajstromban tartja nyilván.
 
 (2) Az üzemben tartónak a nyilvántartásba vételre kötelezett úszólétesítmény üzemképességének újbóli megállapítását kell a hajózási hatóságtól kérnie, ha az úszólétesítményben az üzemképességet érintő változás (sérülés, meghibásodás, illetve annak kijavítása) történt.
 
-20. § A kedvtelési célú vízijárművek tervezéséről, építéséről és megfelelőségének tanúsításáról szóló jogszabályban meghatározott kedvtelési célú vízijárművet kereskedelmi forgalomba hozni csak a megfelelőség tanúsításával lehet.
+20. § A kedvtelési célú vízijárművek tervezéséről, építéséről és megfelelőségének tanúsításáról szóló jogszabályban meghatározott kedvtelési célú vízi járművet és motoros vízi sporteszközt kereskedelmi forgalomba hozni csak a megfelelőség tanúsításával lehet.
 
 ### Biztonsági, egészségügyi, környezetvédelmi és munkavédelmi követelmények
 
@@ -1166,7 +1166,7 @@ rendeletben történő megállapítására.
 
 90. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-- a) az Európai Parlament és a Tanács 94/25/EK irányelve (1994. június 16.) a kedvtelési célú vízi járművekre vonatkozó tagállami törvényi, rendeleti és közigazgatási rendelkezések közelítéséről, 8. cikk;
+- a) a kedvtelési célú vízi járművekről és a motoros vízi sporteszközökről, valamint a 94/25/EK irányelv hatályon kívül helyezéséről szóló 2013. november 20-i 2013/53/EU európai parlamenti és tanácsi irányelv;
 - b) a Tanács 98/41/EK irányelve (1998. június 18.) a Közösség tagállamainak kikötőibe érkező vagy onnan induló személyhajókon utazó személyek nyilvántartásáról, 8. és 9. cikk;
 - c) a Tanács 1999/63/EK irányelve (1999. június 21.) az Európai Közösség Hajótulajdonosainak Szövetsége (ECSA) és a Közlekedési Dolgozók Szakszervezeteinek Szövetsége az Európai Unióban (FST) között a tengerészek munkaidejének szervezésére vonatkozóan kötött megállapodásról, az egyes foglalkoztatáspolitikai és egészségügyi tárgyú jogszabályokkal együtt;
 - d) a Tanács 93/104/EK irányelve (1993. november 23.) a munkaidő-szervezés egyes szempontjairól, a Mt.-vel együtt;

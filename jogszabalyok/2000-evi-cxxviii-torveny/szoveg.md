@@ -30,7 +30,7 @@ személy által – a vezetői engedéllyel vezethető járművekkel elkövetett
 - a) gondatlan bűncselekmény elkövetése esetén 9,
 - b) szándékos bűncselekmény elkövetése esetén 11,
 - c) szabálysértés elkövetése esetén 1–8,
-- d) a közigazgatási bírsággal sújtandó szabályszegés esetén 1–8 pont.
+- d) a közigazgatási bírsággal sújtandó szabályszegés esetén 1–9 pont.
 
 (2) A pontrendszer hatálya alá tartozó több szabályszegés egy eljárásban történő elbírálása esetén az elbírált
 
@@ -78,7 +78,7 @@ személy által – a vezetői engedéllyel vezethető járművekkel elkövetett
 
 6. § (1) A nyilvántartásba vett pontszámot a pontszám alapját képező szabályszegést megállapító határozat jogerőre emelkedésének, illetve a helyszíni bírság tudomásulvételének időpontjától számított legfeljebb három évig lehet a pontok összesítésénél figyelembe venni.
 
-(2) A Nyilvántartó értesíti a járművezetőt, ha pontjainak száma 13-át elérte, tájékoztatja a pontok csökkentését eredményező önkéntes utánképzés lehetőségéről, továbbá figyelmezteti a felső pontérték elérésének következményeire.
+(2) A Nyilvántartó értesíti a járművezetőt, ha pontjainak száma a 13-at elérte, – a 9. § (1a) bekezdésben foglalt korlátozás figyelembe vételével – tájékoztatja a pontok csökkentését eredményező önkéntes utánképzés lehetőségéről, továbbá figyelmezteti a felső pontérték elérésének következményeire.
 
 7. § (1) Ha a járművezető nyilvántartott pontjainak száma elérte vagy meghaladta a 18-at, a Nyilvántartó három napon belül értesíti az illetékes fővárosi és megyei kormányhivatal járási (fővárosi kerületi hivatalát (a továbbiakban: közlekedési igazgatási hatóság), amely ennek alapján a járművezető vezetői engedélyét határozattal, nyolc napon belül visszavonja.
 
@@ -86,14 +86,16 @@ személy által – a vezetői engedéllyel vezethető járművekkel elkövetett
 
 8. § (1) A 7. § (1) bekezdése alapján visszavont vezetői engedélyt annak leadásától számított hat hónapot követően vissza kell adni, ha
 
-- a) a járművezető a vezetői engedély visszavonását követően utánképzésen vett részt, és
+- a) a járművezető a vezetői engedély visszavonását követően utánképzésen vett részt – kivéve, ha a közúti közlekedésről szóló törvény alapján az utánképzési kötelezettség alól mentesül –, és
 - b) a vezetési jogosultság külön jogszabályban meghatározott egyéb feltételei fennállnak.
 
 (2) Az (1) bekezdésben megjelölt hat hónapos időtartamba be kell számítani azt az időt, amely alatt a visszavonást megelőző szabályszegés miatt a vezetői engedély a hatóság birtokában volt. Amennyiben ez az időtartam a hat hónapot elérte vagy meghaladta, a vezetői engedélyt a hatóság az utánképzés igazolását követően visszaadja.
 
 (3) Amennyiben a bíróság, szabálysértési hatóság a vezetői engedély pontrendszer alapján történő visszavonásának időtartama alatt járművezetéstől eltiltást alkalmazott, a vezetői engedély visszaadására legkorábban az eltiltás elrendelését követő utánképzés igazolása esetén kerülhet sor, kivéve, ha a bíróság a járművezetés ismételt gyakorlását a jártasság meghatározott formájának igazolásához kötötte.
 
-9. § (1) A járművezető nyilvántartott pontjainak számát utánképzésen való önkéntes részvétellel csökkentheti. Az engedély-nyilvántartásba elektronikus úton beérkezett utánképzési igazolás alapján, az igazolás kiállításának napján nyilvántartott pontok számát 13 pontig 9 ponttal, 14–17 pont között 6 ponttal kell csökkenteni.
+9. § (1) A járművezető nyilvántartott pontjainak számát – az (1a) bekezdésben meghatározott kivétellel – utánképzésen való önkéntes részvétellel csökkentheti. Az engedély-nyilvántartásba elektronikus úton beérkezett utánképzési igazolás alapján, az önkéntes utánképzés sikeres elvégzésének napján nyilvántartott pontok számát 13 pontig 9 ponttal, 14–17 pont között 6 ponttal kell csökkenteni.
+
+(1a) Amennyiben a nyilvántartott pontok között közigazgatási bírsággal sújtandó szabályszegés miatt rendelt 9 pontérték megállapítása is szerepel, a járművezető nyilvántartott pontjainak száma az utánképzésen való önkéntes részvétellel csak a közigazgatási bírsággal sújtandó szabályszegés miatt rendelt 9 pont feletti pontok tekintetében csökkenthető az (1) bekezdés szerint.
 
 (2) A nyilvántartott pontok száma az önkéntes utánképzésen való részvétel igazolásától számított egy éven belül ismételt önkéntes utánképzéssel nem csökkenthető.
 
