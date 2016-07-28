@@ -54,7 +54,7 @@ a Nemzeti Kulturális Alapról
 - d) a jogi személyek és természetes személyek befizetései;
 - e) költségvetési támogatás;
 - f) a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló 1996. évi CXXVI. törvény alapján felajánlott személyi jövedelemadó meghatározott része;
-- g) a szerzői jogról szóló törvény alapján a közös jogkezelő szervezetektől származó befizetések;
+- g) a szerzői jogok és a szerzői joghoz kapcsolódó jogok közös kezeléséről szóló törvény alapján a közös jogkezelő szervezetektől származó befizetések;
 - h) egyéb bevételek, ideértve a kezelő szerv által beszedett nevezési díj bevételt is.
 
 (2) Az (1) bekezdés d) pontjában foglalt befizetések a Ptk. szerinti közérdekű célra történő kötelezettségvállalásnak minősülnek.
