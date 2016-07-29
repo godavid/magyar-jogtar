@@ -1412,27 +1412,7 @@ teljesíti.
 
 #### 88. A találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény módosítása
 
-166. § A találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény (a továbbiakban: Szt.) 115/H. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A Hivatal a szerzői és a szerzői joghoz kapcsolódó jogokkal összefüggésben – külön jogszabályok alapján – különösen a következő feladatokat látja el:
-
-a) lefolytatja az árva művek felhasználásával összefüggő eljárásokat és az árva művek felhasználására kiadott engedélyekről nyilvántartást vezet,
-
-b) az árva művek kedvezményezett intézmények által történő felhasználásával kapcsolatban a kedvezményezett intézmények által bejelentett adatokat továbbítja az Európai Unió Szellemi Tulajdoni Hivatalának az általa vezetett nyilvánosan hozzáférhető egységes online nyilvántartásban történő rögzítés céljából,
-
-c) nyilvántartást vezet a szerzői jogok és kapcsolódó jogok kezelését végző közös jogkezelő szervezetekről és független jogkezelő szervezetekről,
-
-d) engedélyezi a közös jogkezelés reprezentatív közös jogkezelő szervezetként történő végzését,
-
-e) felügyeletet gyakorol a közös jogkezelési tevékenység és a független jogkezelő szervezetek jogkezelési tevékenysége felett,
-
-f) előkészíti a reprezentatív közös jogkezelő szervezetek díjszabásainak miniszteri jóváhagyását, és megteszi az ehhez szükséges intézkedéseket,
-
-g) a szerzői és szomszédos jogokra vonatkozó közös jogkezelésről és a zeneművek belső piacon történő online felhasználásának több területre kiterjedő hatályú engedélyezéséről szóló 2014. február 26-i 2014/26/EU európai parlamenti és tanácsi irányelv és a szerzői jogok és a szerzői joghoz kapcsolódó jogok közös kezeléséről szóló törvényben foglaltak szerint kapcsolatot tart a más EGT-államban működő, a közös jogkezelő szervezetek és független jogkezelő szervezetek felügyeletét ellátó hatóságokkal,
-
-h) önkéntes műnyilvántartást vezet,
-
-i) gondoskodik a Szerzői Jogi Szakértő Testület, valamint a Szerzői Jogi Szakértő Testületen belül létrehozott Egyeztető Testület működtetéséről.”
+166. §
 
 167. §
 
@@ -1446,136 +1426,11 @@ i) gondoskodik a Szerzői Jogi Szakértő Testület, valamint a Szerzői Jogi Sz
 
 #### 90. Az Szjt. egyes rendelkezéseinek módosítása
 
-173. § Az Szjt. 3. §-a helyébe a következő rendelkezés lép:
-
-„3. § (1) A szerzői jogok és a szerzői joghoz kapcsolódó jogok átszállására, átruházására, megterhelésére, valamint az e törvény hatálya alá tartozó művekkel és egyéb teljesítményekkel összefüggő egyéb személyi és vagyoni jogviszonyokban az e törvényben nem szabályozott kérdésekben a Polgári Törvénykönyv rendelkezései az irányadók.
-
-(2) A szerzői jogok és a szerzői joghoz kapcsolódó jogok közös kezelésére az e törvényben nem szabályozott kérdésekben a szerzői jogok és a szerzői joghoz kapcsolódó jogok közös kezeléséről szóló törvény (a továbbiakban: Kjkt.) rendelkezései az irányadók.”
-
-174. § Az Szjt. 6. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az együttesen létrehozott műre (pl. nemzeti szabványra) a szerzők jogutódjaként azt a természetes vagy jogi személyt illeti meg a szerzői jog, akinek vagy amelynek kezdeményezésére és irányításával a művet létrehozták, és aki vagy amely azt a saját nevében nyilvánosságra hozta.”
-
-175. § (1) Az Szjt. 16. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) Ha e törvény vagy a Kjkt. eltérően nem rendelkezik, a felhasználó köteles a szerzőt vagy jogutódját, illetve a közös jogkezelő szervezetet a felhasználás módjáról és mértékéről tájékoztatni.”
-
-(2) Az Szjt. 16. § a következő (8) bekezdéssel egészül ki:
-
-„(8) Ahol e törvény irodalmi és zenei művekkel kapcsolatos szerzői jogok közös kezelését végző szervezetet említ, azon azt a szervezetet kell érteni, amely az írók, a zeneszerzők és a szövegírók képviseletében az adott – irodalmi és zenei művekkel kapcsolatos – engedélyezési jog vagy díjigény gyakorlását a Kjkt. 33. § (2) bekezdése szerinti engedély alapján reprezentatív közös jogkezelő szervezetként végzi, és amely e körben a kiterjesztett hatályú közös jogkezelésre, valamint a jogdíjak megállapítására és beszedésére jogosult. Ezt a szabályt megfelelően kell alkalmazni akkor is, ha e törvény képzőművészeti és iparművészeti alkotásokra vonatkozó szerzői jogok kezelését végző közös jogkezelő szervezetet említ.”
-
-176. § Az Szjt. 19. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A zeneszerzők és a szövegírók a már nyilvánosságra hozott nem színpadi zeneműveknek és zeneszövegeknek, valamint az ilyen színpadi zeneművekből vett részleteknek hangfelvételen való újabb többszörözésére és példányonkénti terjesztésére vonatkozó jogukat csak közös jogkezelő szervezetük útján érvényesíthetik, díjukról csak a felosztás időpontját követő hatállyal, a rájuk jutó összeg erejéig mondhatnak le.”
-
-177. § Az Szjt. 21. §-a helyébe a következő rendelkezés lép:
-
-„21. § (1) Az olyan művek szerzőit, amelyeket fénymásolással vagy más hasonló módon, papíron vagy más hasonló hordozón (a továbbiakban együtt: reprográfiával) többszöröznek, a magáncélú másolásra tekintettel megfelelő díjazás illeti meg. A díjat a reprográfiára szolgáló készülék gyártójának, külföldön gyártott készülék esetében pedig a jogszabály szerint vám fizetésére kötelezett személynek vagy – vámfizetési kötelezettség hiányában – egyetemlegesen a készüléket az országba behozó személynek és az azt belföldön először forgalomba hozó személynek kell a 20. § (2) bekezdésének harmadik mondatában meghatározott határidőn belül megfizetnie. A jogdíj megfizetéséért az adott készülék összes belföldi forgalmazója is egyetemlegesen felel. E díjon felül a reprográfiára szolgáló készüléket ellenérték fejében üzemeltető is köteles díjat fizetni. Mindkét díjat a közös jogkezelő szervezetnek kell befizetni.
-
-(2) Azoknak a készülékeknek a felsorolását, amelyek reprográfiára szolgálnak, a Kormány rendeletben állapítja meg.
-
-(3) Az (1) bekezdésben említett díjat a közös jogkezelő szervezet állapítja meg. A díj megállapításakor figyelembe kell venni különösen a készülék használati módját, teljesítményét, az ellenérték fejében történő üzemeltetés esetében pedig a működés helyét is.
-
-(4) Az (1) bekezdésben említett díj mértéke legfeljebb a reprográfiára szolgáló készülék gyártói kibocsátási árának 2%-a, illetve külföldön gyártott készülék esetében pedig legfeljebb a jogszabály szerinti vám alapjának 2%-a.
-
-(5) A díjfizetési kötelezettség nem terjed ki a készülék export céljából történő forgalomba hozatalára.
-
-(6) A befolyt díjaknak a költségek, valamint a Kjkt. 12. § (3) bekezdése szerinti szerződés alapján – ha ilyen hatályban van – a kiadókat megillető részesedés levonása után fennmaradt összegéből a szakirodalmi, tudományos művek szerzőit negyvenkettő, a többi irodalmi mű szerzőit negyvenkettő, a képzőművészeket és a fotóművészeket tizenhat százalék illeti meg. A díjakat e felosztási arányok szerint a jogosultak közös jogkezelő szervezeteinek kell átutalni.
-
-(7) A (6) bekezdésben meghatározott felosztási arányokat akkor kell alkalmazni, ha az érintett közös jogkezelő, illetve érdek-képviseleti szervezetek évente március 31-ig másként nem állapodnak meg.
-
-(8) A szerzők – és a Kjkt. 12. § (3) bekezdése szerinti szerződés esetén a részesedésre jogosult kiadók – díjigényüket csak közös jogkezelő szervezeteik útján érvényesíthetik, díjukról csak a felosztás időpontját követő hatállyal, a rájuk jutó összeg erejéig mondhatnak le, ide nem értve Kjkt. 12. § (3) bekezdése alapján létrejött megállapodás esetét.
-
-178. § Az Szjt. 25. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az írók, a zeneszerzők és a szövegírók képviseletében a már nyilvánosságra hozott zenemű és irodalmi mű nyilvános előadásának engedélyezésére és az ennek fejében fizetendő díj mértékére vonatkozóan közös jogkezelő szervezet köt szerződést a felhasználóval, kivéve, ha a szerző a Kjkt. 18. § (1) bekezdése szerinti tiltakozó nyilatkozatot tett.”
-
-179. § (1) Az Szjt. 27. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az írók, a zeneszerzők és a szövegírók képviseletében – a színpadra szánt irodalmi művek és a zenedrámai művek vagy jeleneteik, illetve keresztmetszeteik, valamint a szakirodalmi művek és a nagyobb terjedelmű nem színpadra szánt szépirodalmi művek (pl. regények) felhasználása kivételével – a már nyilvánosságra hozott művek sugárzásának engedélyezésére és az ennek fejében fizetendő díjak mértékére vonatkozóan közös jogkezelő szervezet köt szerződést a felhasználóval.”
-
-(2) Az Szjt. 27. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-[Műhold útján történő sugárzás esetén az (1) bekezdés akkor alkalmazható, ha]
-
-„b) a szerző nem tett a Kjkt. 18. § (1) bekezdése szerinti tiltakozó nyilatkozatot.”
-
-(3) Az Szjt. 27. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A zeneszerzők és a szövegírók képviseletében – a zenedrámai művek vagy jeleneteik, illetve keresztmetszeteik kivételével – a már nyilvánosságra hozott nem színpadi zeneművek és zeneszövegek, valamint az ilyen színpadi zeneművekből vett részletek tekintetében a 26. §-ban szabályozott egyéb – az (1) és a (2) bekezdésben nem említett – felhasználások engedélyezésére és az ennek fejében fizetendő díjak mértékére vonatkozóan közös jogkezelő szervezet köt szerződést a felhasználóval, kivéve, ha a szerző a Kjkt. 18. § (1) bekezdése szerinti tiltakozó nyilatkozatot tett.”
-
-180. § Az Szjt. 33. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) E fejezet rendelkezéseinek alkalmazása szempontjából az iskolai oktatás célját szolgálja a felhasználás, ha az az óvodai nevelésben, az általános iskolai, középfokú iskolai oktatásban, az alapfokú művészeti iskolai oktatásban vagy a felsőoktatásról szóló törvény hatálya alá tartozó felsőfokú oktatásban a tantervnek, illetve a képzési követelményeknek megfelelően valósul meg.”
-
-181. § Az Szjt. 35. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Teljes könyv, továbbá a folyóirat vagy a napilap egésze magáncélra csak kézírással vagy írógéppel másolható szabadon.”
-
-182. § Az Szjt. 41/D. § (13) bekezdése helyébe a következő rendelkezés lép:
-
-„(13) Ha a Hivatal a (2) bekezdés szerinti írásbeli nyilatkozatot tett, az eljáró tanács elnöke e nyilatkozatot írásban közli a féllel, illetve a felekkel.”
-
-183. § Az Szjt. 41/E. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az (1) bekezdésben meghatározott, elektronikus úton benyújtott kérelem megérkezéséről a Hivatal elektronikus érkeztető számot tartalmazó automatikus értesítést küld a kérelmezőnek.”
-
-184. § Az Szjt. 64. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A film előállítója (a továbbiakban: előállító) az a természetes személy vagy jogi személy, aki vagy amely saját nevében kezdeményezi és megszervezi a film megvalósítását, gondoskodva ennek anyagi és egyéb feltételeiről.”
-
-185. § Az Szjt. 70. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) E § alkalmazásában műkereskedőnek minősül a műalkotásokat forgalmazó természetes vagy jogi személy.”
-
-186. § (1) Az Szjt. 84/A. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) Az (1)–(3) bekezdésben szabályozott jogok az adatbázis előállítójaként azt a természetes személyt vagy jogi személyt illetik meg, aki vagy amely saját nevében és kockázatára kezdeményezte az adatbázis előállítását, gondoskodva az ehhez szükséges ráfordításokról.”
-
-(2) Az Szjt. 84/A. § (9) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(Nemzetközi szerződés eltérő rendelkezése hiányában az e törvényben meghatározott védelem akkor illeti meg az adatbázis előállítóját, ha)
-
-„b) olyan jogi személy, amelyet az Európai Gazdasági Térség valamelyik tagállamának jogszabályaival összhangban vettek nyilvántartásba, és a létesítő okiratban megjelölt székhelye, a központi ügyvezetésének helye vagy az üzleti tevékenységének fő helye az Európai Gazdasági Térség területén van.”
-
-(3) Az Szjt. 84/A. § (10) bekezdése helyébe a következő rendelkezés lép:
-
-„(10) A (9) bekezdés b) pontjában szabályozott esetben az e törvényben meghatározott védelem akkor illeti meg azt a jogi személyt, amelynek csak a létesítő okiratban megjelölt székhelye van az Európai Gazdasági Térség területén, ha működése ténylegesen és folyamatosan kapcsolódik valamelyik tagállam gazdaságához.”
-
-187. § Az Szjt. 100. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A közös jogkezelő szervezet a járulék összegéről, annak felhasználásáról a nyilvánosságot évente, a Hivatal hivatalos lapja útján tájékoztatja; az erre vonatkozó közleményét a tárgyévet követő év második negyedévének végéig köteles megküldeni a Hivatal részére.”
-
-188. § Az Szjt. 102. §-a helyébe a következő rendelkezés lép:
-
-„102. § Ha a felhasználó és a jogosult között vagy a felhasználók vagy érdekképviseleti szervezetük és a jogosultak közös jogkezelő szervezete között nem jön létre megállapodás a díjazásról és a felhasználás egyéb feltételeiről, továbbá a közös jogkezelő szervezetek, a közös jogkezelő szervezetek tagjai, a jogosultak vagy a felhasználók között a közös jogkezeléssel összefüggésben felmerülő egyéb jogvita esetén bármelyik fél a 103. § alapján létrehozott egyeztető testülethez fordulhat.”
-
-189. § Az Szjt. 104. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az egyeztető testület eljárásának célja, hogy a felek közötti, a díjazásról és a felhasználás egyéb feltételeiről szóló megállapodás vagy a közös jogkezeléssel összefüggésben felmerült egyéb jogvitát lezáró egyezség létrehozását elősegítse. A reprezentatív közös jogkezelő szervezet által megállapított díjszabással kapcsolatos vitában kezdeményezett egyeztető testületi eljárásról a testület haladéktalanul tájékoztatja az igazságügyért felelős minisztert, a kultúráért felelős minisztert és a Hivatalt.”
-
-190. § Az Szjt. 106. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Ha az elhunyt személy hagyatékához szerzői jog tartozik, a közjegyző a hagyatéki eljárás megindításáról értesíti az elhunyt személy műveivel kapcsolatban érintett közös jogkezelő szervezetet. Ha nem állapítható meg, hogy melyik az érintett közös jogkezelő szervezet vagy a művek nem tartoznak a közös jogkezelés körébe, az értesítést az Szjt. 20. § (1) bekezdése szerinti vagyoni jog vonatkozásában az irodalmi és a zenei művekkel kapcsolatos szerzői jogok közös kezelését végző szervezetnek kell küldeni.”
-
-191. § Az Szjt. 113. §-a a következő k) ponttal egészül ki:
-
-(E törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:)
-
-„k) a szerzői és szomszédos jogokra vonatkozó közös jogkezelésről és a zeneművek belső piacon történő online felhasználásának több területre kiterjedő hatályú engedélyezéséről szóló (2014. február 26.) 2014/26/EU európai parlamenti és tanácsi irányelv.”
-
-192. § Az Szjt. 41/G. § (2) bekezdésében az „a Belső Piaci Harmonizációs Hivatalnak” szövegrész helyébe az „az Európai Unió Szellemi Tulajdoni Hivatalának” szöveg lép.
-
-193. § Hatályát veszti az Szjt.
-
-- a) 35. § (4) bekezdés d) pontja,
-- b) 85–92/P. §-a,
-- c) 112. § (4a) bekezdése és
-- d) 112. § (6) bekezdése.
+173–193. §
 
 #### 91. A Nemzeti Kulturális Alapról szóló 1993. évi XXIII. törvény módosítása
 
-194. § A Nemzeti Kulturális Alapról szóló 1993. évi XXIII. törvény 4. § (1) bekezdés g) pontjában a „szerzői jogról szóló törvény” szövegrész helyébe a „szerzői jogok és a szerzői joghoz kapcsolódó jogok közös kezeléséről szóló törvény” szöveg lép.
+194. §
 
 ### 1. melléklet a 2016. évi XCIII. törvényhez
 
