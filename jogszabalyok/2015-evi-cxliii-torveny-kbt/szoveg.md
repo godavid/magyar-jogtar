@@ -188,7 +188,7 @@ valósul meg.
 
 9. § (1) E törvényt nem kell alkalmazni
 
-- a) a külön törvényben – annak hatálybalépéséig e törvény felhatalmazása alapján kiadott kormányrendeletben – meghatározott védelmi és biztonsági tárgyú beszerzésekre azzal, hogy e beszerzésekre a külön törvényben – annak hatálybalépéséig e törvény felhatalmazása alapján kiadott kormányrendeletben – meghatározott szabályok alkalmazandók, valamint ha a beszerzés a külön törvény alkalmazása alól is kivételt képez és a b) pont ba) alpontjának megfelelő kivételi esetben az Országgyűlés illetékes bizottsága külön jogszabályban meghatározott feltételeknek megfelelő kezdeményezés alapján hozott előzetes döntésében a külön törvény alkalmazása alól felmentést adott, illetve a külön törvény hatályba lépéséig a b) pont ba) alpontjának megfelelő kivételi esetben e törvény felhatalmazása alapján kiadott kormányrendelet szerint a Kormány egyedi döntésének megfelelően az e törvény felhatalmazása alapján kiadott kormányrendelet sajátos szabályai alkalmazandók;
+- a) a külön törvényben meghatározott védelmi és biztonsági tárgyú beszerzésekre azzal, hogy e beszerzésekre a külön törvényben meghatározott szabályok alkalmazandók, valamint ha a beszerzés a külön törvény alkalmazása alól is kivételt képez és a b) pont ba) alpontjának megfelelő kivételi esetben az Országgyűlés illetékes bizottsága külön jogszabályban meghatározott feltételeknek megfelelő kezdeményezés alapján hozott előzetes döntésében a külön törvény alkalmazása alól felmentést adott,
 - b) az a) pont alá nem tartozó
   - ba) azon beszerzésekre, amelyek esetében a közbeszerzési szabályok alkalmazása olyan információk átadására kötelezné Magyarországot, amelyek felfedése ellentétes az állam biztonságához fűződő alapvető érdekeivel,
   - bb) olyan beszerzésekre, amelyek esetében Magyarország alapvető biztonsági, nemzetbiztonsági érdekei, a minősített adatok védelme vagy a szükséges különleges biztonsági intézkedések a közbeszerzési eljárásban előírható biztonsági intézkedésekkel nem garantálhatóak,
@@ -244,6 +244,16 @@ valósul meg.
 - d) logisztikai szolgáltatások (a fizikai kézbesítést, illetve a raktározást egyéb, nem postai funkciókkal vegyítő szolgáltatások).
 
 (10) Az (1) bekezdés b) pontja szerinti beszerzés során az ajánlatkérő jogosult a bűnügyi személyes adatok kezelésére.
+
+(11) Az (1) bekezdés b) pontjában meghatározott beszerzésekkel összefüggésben kezelt közérdekű adat, valamint közérdekből nyilvános adat megismerését az 5. § (1) bekezdés a)–c) pontjában meghatározott ajánlatkérő nemzetbiztonsági érdekből – az adat megismeréséhez és a megismerhetőség kizárásához fűződő közérdek súlyának mérlegelésével, legfeljebb az adat keletkezésétől számított tíz éves időtartam lejártáig – korlátozhatja.
+
+(12) A (11) bekezdés alapján az (1) bekezdés b) pontjában meghatározott
+
+- a) beszerzéssel összefüggésben feladat- és hatáskörében eljáró szerv határozatának,
+- b) beszerzési eljárás nyertes ajánlattevője személyének, valamint
+- c) beszerzésre vonatkozó szerződések megnevezésének, tárgyának, értékének, időtartamának, a szerződő felek nevének
+
+megismerése nem korlátozható.
 
 ### Közszolgáltató ajánlatkérők esetében alkalmazandó további kivételek
 
@@ -3243,7 +3253,7 @@ indult eljárásban kell alkalmazni.
 - 9. az építési beruházások, valamint az azokhoz kapcsolódó tervezői és mérnöki szolgáltatások közbeszerzéseire vonatkozó részletes – szükség esetén e törvénytől az ilyen tárgyú közbeszerzések sajátosságai miatt eltérő – szabályokat, valamint az ilyen tárgyú szerződések teljesítésére vonatkozó részletes szabályokat, továbbá az építési beruházások megvalósítására irányuló közbeszerzési szerződések esetén a szerződésben foglalt ellenérték kifizetésének – e törvénytől és a Ptk.-tól eltérő – szabályait;
 - 10. egyes beszerzési tárgyak tekintetében az alkalmazandó értékelési szempontrendszerre és módszerre vonatkozó részletes szabályokat, a szociális, különösen foglalkoztatási és környezetvédelmi, fenntarthatósági, energiahatékonysági szempontoknak a közbeszerzésben történő érvényesítése kötelező eseteit és módját, ideértve a fenntartott közbeszerzés kötelező alkalmazása előírását is;
 - 11. a gyógyszerek és az orvostechnikai eszközök közbeszerzésének – e törvénytől az ilyen eljárások sajátosságai miatt szükséges eltérő – sajátos szabályait;
-- 12. a minősített adatot, illetve alapvető biztonsági, nemzetbiztonsági érdeket érintő vagy különleges biztonsági intézkedést igénylő beszerzések, valamint azon beszerzések Országgyűlés általi mentesítésének kezdeményezésére vonatkozó feltételeket és eljárást, amelyek esetében a közbeszerzési szabályok alkalmazása olyan információk átadására kötelezné Magyarországot, amelyek felfedése ellentétes az állam biztonságához fűződő alapvető érdekeivel, valamint az ilyen beszerzések megvalósításakor az ajánlatkérő által érvényesítendő követelményeket;
+- 12. a 9. § (1) bekezdés b) pontjában meghatározott beszerzések Országgyűlés illetékes bizottsága általi mentesítésének kezdeményezésére vonatkozó feltételeket és eljárást, valamint az ilyen beszerzések megvalósításakor az ajánlatkérő által érvényesítendő követelményeket;
 - 13. a közúti járművek üzemeltetésével járó, a jármű teljes élettartamára vetített energetikai és környezeti hatások megállapítására és figyelembevételére vonatkozó sajátos közbeszerzési szabályokat, valamint a kapcsolódó jelentési kötelezettségre vonatkozó részletes szabályokat;
 - 14. az irányítása vagy felügyelete alá tartozó költségvetési szervek és intézményeik, a Kormány közalapítványai, valamint azon többségi állami tulajdonban lévő gazdálkodó szervezetek közbeszerzései megindításának engedélyezésére és lefolytatásának központi ellenőrzésére vonatkozó sajátos szabályokat, amelyekben az állam nevében a tulajdonosi (részvényesi, tagsági stb.) jogokat miniszteri rendelet vagy a Magyar Nemzeti Vagyonkezelő Zrt.-vel kötött megbízási szerződés alapján központi költségvetési szerv vagy intézménye gyakorolja, valamint e szervezetek közbeszerzési szerződései, építési vagy szolgáltatási koncessziói módosításának engedélyezésére vonatkozó sajátos szabályokat, valamint e szervezetek és a kezelésükben lévő vagy általuk alapított alapítványok nem közbeszerzés útján megkötött, beszerzést megvalósító szerződései megkötésének és módosításának engedélyezését, a közbeszerzések központi ellenőrzésével és engedélyezésével összefüggésben megküldendő adatok körét, továbbá a központi ellenőrzéssel összefüggésben a közbeszerzésekért felelős miniszter által kiszabható bírságot és – az adópolitikáért felelős miniszter egyetértésével – annak mértékét. Az engedélyezési és ellenőrzési tevékenység keretében a Kormány jogpolitikai céljainak érvényesítése érdekében a közbeszerzésre, illetve annak feltételeire vonatkozó tartalmi követelmények is előírhatóak;
 - 15. a részben vagy egészben nem hazai költségvetési forrásból megvalósuló, uniós értékhatárokat elérő vagy meghaladó értékű árubeszerzés, szolgáltatás és szolgáltatási koncesszió, továbbá a háromszázmillió forintot elérő vagy meghaladó értékű építési beruházás és építési koncesszió esetén a lefolytatott közbeszerzési eljárás ellenőrzésére, valamint az e közbeszerzési eljárások eredményeképpen létrejött szerződés módosításának engedélyezésére vonatkozó részletes szabályokat;
@@ -3251,9 +3261,9 @@ indult eljárásban kell alkalmazni.
 - 17. a védett munkahelyek, továbbá a szociális foglalkoztatási engedéllyel rendelkező vagy hátrányos helyzetű munkavállalókat foglalkoztató szervezetek részére fenntartott közbeszerzések kötelező eseteit;
 - 18. a NATO Biztonsági Beruházási Programja, valamint az egyéb közös finanszírozású NATO támogatott programok keretében megvalósuló beszerzésre vonatkozó részletes szabályokat;
 - 19. a közbeszerzési eljárásban részt vevők oktatására vonatkozó feltételrendszer kialakítására, valamint a közbeszerzési tárgyú képzések irányítására, felügyeletére és ellenőrzésére vonatkozó szabályokat;
-- 20. a 9. § (1) bekezdés a) pontja szerinti külön törvény hatálybalépéséig a védelem terén kifejezetten katonai, rendvédelmi, rendészeti célokra szánt áruk beszerzésére, szolgáltatások megrendelésére, valamint építési beruházásokra vonatkozó sajátos szabályokat;
+- 20.
 - 21. a tömeges bevándorlás okozta válsághelyzettel összefüggő intézkedésekhez kapcsolódó beszerzésekre vonatkozó sajátos szabályokat;
-- 22. a 9. § (1) bekezdés a) pontja szerinti külön törvény hatálybalépéséig a hírszerző és elhárítási tevékenységhez kapcsolódó beszerzésekre vonatkozó sajátos szabályokat.
+- 22.
 
 (2) Felhatalmazást kap a közbeszerzésekért felelős miniszter, hogy rendeletben szabályozza
 
@@ -3282,7 +3292,7 @@ indult eljárásban kell alkalmazni.
 - d) a 89/665/EGK és a 92/13/EGK tanácsi irányelveknek a közbeszerzési szerződések odaítélésére vonatkozó jogorvoslati eljárások hatékonyságának javítása tekintetében történő módosításáról szóló 2007. december 11-i 2007/66/EK európai parlamenti és tanácsi irányelvnek,
 - e) – a törvény végrehajtására a 198. § (1) bekezdés 13. pontjában adott felhatalmazás alapján megalkotott kormányrendelettel, valamint az autóbusszal végzett menetrend szerinti személyszállításról szóló 2004. évi XXXIII. törvénnyel együtt – a tiszta és energiahatékony közúti járművek használatának előmozdításáról szóló 2009. április 23-i 2009/33/EK európai parlamenti és tanácsi irányelvnek,
 - f) az illegálisan tartózkodó harmadik országbeli állampolgárokat foglalkoztató munkáltatókkal szembeni szankciókra és intézkedésekre vonatkozó minimumszabályokról szóló, 2009. június 18-i 2009/52/EK európai parlamenti és tanácsi irányelv 7. cikk (1) bekezdés b) pontjának,
-- g) – a törvény végrehajtására a 198. § (1) bekezdés 12. pontjában adott felhatalmazás alapján megalkotott kormányrendelettel együtt – a honvédelem és biztonság területén egyes építési beruházásra, árubeszerzésre és szolgáltatásnyújtásra irányuló, ajánlatkérő szervek vagy ajánlatkérők által odaítélt szerződések odaítélési eljárásainak összehangolásáról, valamint a 2004/17/EK és 2004/18/EK irányelv módosításáról szóló 2009. július 13-i 2009/81/EK európai parlamenti és tanácsi irányelvnek,
+- g)
 - h) a kereskedelmi ügyletekhez kapcsolódó késedelmes fizetések elleni fellépésről szóló 2011. február 16-i 2011/7/EU európai parlamenti és tanácsi irányelvnek,
 - i) a koncessziós szerződésekről szóló 2014. február 26-i 2014/23/EU európai parlamenti és tanácsi irányelvnek,
 - j) a közbeszerzésről és a 2004/18/EK irányelv hatályon kívül helyezéséről szóló 2014. február 26-i 2014/24/EU európai parlamenti és tanácsi irányelvnek,
