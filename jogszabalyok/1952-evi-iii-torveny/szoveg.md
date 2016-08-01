@@ -3179,6 +3179,8 @@ illetékes.
 - a) a Kecskeméti Közigazgatási és Munkaügyi Bíróság, ha az ajánlatkérő székhelye Bács-Kiskun megye, Békés megye, Borsod-Abaúj-Zemplén megye, Csongrád megye, Hajdú-Bihar megye, Heves megye, Jász-Nagykun-Szolnok megye, Nógrád megye vagy Szabolcs-Szatmár-Bereg megye területén; illetve
 - b) a Székesfehérvári Közigazgatási és Munkaügyi Bíróság, ha az ajánlatkérő székhelye Budapesten, valamint Baranya megye, Fejér megye, Győr-Moson-Sopron megye, Komárom-Esztergom megye, Pest megye, Somogy megye, Tolna megye, Vas megye, Veszprém megye vagy Zala megye területén található.
 
+(15) A védelmi és biztonsági célú beszerzésekről szóló törvény alapján indult közigazgatási perekre a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
+
 ### Felek
 
 327. § (1) A közigazgatási per indítására jogosult:

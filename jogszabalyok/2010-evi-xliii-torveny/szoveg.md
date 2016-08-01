@@ -680,7 +680,9 @@ helyettesíti.
 
 (2) A szervezeti és működési szabályzat rendelkezhet úgy, hogy az államtitkár munkáját kabinet segíti.
 
-(3) Vezetői kinevezés a szervezeti és működési szabályzatban meghatározott szervezeti egység tekintetében, e törvény rendelkezései szerint adható.
+(2a) A külképviselet törvényben meghatározottak szerint minisztériumba tagozódik.
+
+(3) Vezetői kinevezés a szervezeti és működési szabályzatban meghatározott szervezeti egység tekintetében, törvény rendelkezései szerint adható.
 
 64. § (1) A miniszter normatív utasításával – vagy a feladatkörükben érintett miniszterek együttes normatív utasításukkal – több közigazgatási államtitkár, helyettes államtitkár vagy főosztály feladatkörét érintő, eseti feladat elvégzésére a feladatkörükben érintett közigazgatási államtitkárokból, helyettes államtitkárokból, főosztályvezetőkből vagy vezetői munkakört betöltő kormánytisztviselőkből álló munkacsoportot hozhat vagy hozhatnak létre.
 

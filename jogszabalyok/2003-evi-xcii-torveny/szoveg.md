@@ -334,7 +334,7 @@ teljesíti;
 
 ### Iratbetekintés
 
-12. § (1) Az adózó, továbbá a 35. § (2) bekezdése szerint az adó megfizetésére kötelezett személy jogosult az adózásra vonatkozó iratok megismerésére. Minden olyan iratba betekinthet, arról másolatot készíthet vagy kérhet, amely jogainak érvényesítéséhez, kötelezettségeinek teljesítéséhez szükséges.
+12. § (1) Az adózó, továbbá a 35. § (2) és (7) bekezdése szerint az adó megfizetésére kötelezett személy jogosult az adózásra vonatkozó iratok megismerésére. Minden olyan iratba betekinthet, arról másolatot készíthet vagy kérhet, amely jogainak érvényesítéséhez, kötelezettségeinek teljesítéséhez szükséges.
 
 (2) Korlátozható az iratbetekintés az adatszolgáltatásra vonatkozó iratok tekintetében az ellenőrzés megkezdéséig, ha valószínűsíthető, hogy azok tartalmának megismerése a későbbi ellenőrzést meghiúsítaná. Az iratbetekintés korlátozásáról az adóhatóság végzéssel dönt.
 
@@ -704,7 +704,7 @@ került.
 
 ### A termékek közúti fuvarozásával kapcsolatos bejelentési kötelezettség
 
-22/E. § (1) Útdíjköteles gépjárművel végzett, közúti fuvarozással járó, e törvény végrehajtására kiadott miniszteri rendeletben meghatározott termékértékesítést, termékbeszerzést, egyéb célú termékmozgatást kizárólag érvényes Elektronikus Közúti Áruforgalom Ellenőrző Rendszer (a továbbiakban: EKAER) számmal rendelkező adózó folytathat.
+22/E. § (1) Útdíjköteles gépjárművel, továbbá a 3,5 tonna össztömeget meghaladó gépjárművel végzett, közúti fuvarozással járó, e törvény végrehajtására kiadott miniszteri rendeletben meghatározott termékértékesítést, termékbeszerzést, egyéb célú termékmozgatást kizárólag érvényes Elektronikus Közúti Áruforgalom Ellenőrző Rendszer (a továbbiakban: EKAER) számmal rendelkező adózó folytathat.
 
 (2) Az (1) bekezdést alkalmazni kell az e törvény végrehajtására kiadott miniszteri rendelet által kockázatosnak minősített termékre vonatkozóan, e törvény végrehajtására kiadott miniszteri rendeletben meghatározott esetben akkor is, ha a terméket olyan gépjárművel fuvarozzák, amely nem útdíjköteles.
 
@@ -1286,7 +1286,7 @@ a munkáltató a feltárt adókülönbözetet a feltárás időpontjában nyilv�
 - a) az állam kivételével az adózó örököse az örökrésze erejéig, több örökös esetében örökrészük arányában,
 - b) a megajándékozott, az adózó által az adókötelezettsége keletkezését követően okirattal juttatott ajándék értékének erejéig, kivéve, ha az ingyenes előnytől neki fel nem róható módon elesett,
 - c) az adózó jogutódja,
-- d) a 36. §-ban említett kezességet vállaló és az adótartozást átvállaló a jóváhagyott szerződésben foglalt adó tekintetében, valamint akinek a meg nem fizetett adóért való kezességét külön törvény írja elő,
+- d) a 36. §-ban említett kezességet vállaló és az adótartozást átvállaló a jóváhagyott szerződésben foglalt adó tekintetében, valamint akinek a meg nem fizetett adóért való kezességét törvény írja elő,
 - e) az adóbevétel csökkentésével kapcsolatos, valamint költségvetési csalás elkövetésével vagyoni hátrányt okozó bűncselekmény elkövetője az azzal összefüggő adó tekintetében,
 - f) a gazdasági társaság, a közös név alatt működő polgári jogi társaság adótartozásáért a rájuk vonatkozó szabályok szerint a helytállni köteles tag, vezető tisztségviselő, illetve szervezet, a jogi személy felelősségvállalásával működő vállalkozó esetében a felelősségvállaló, továbbá az a személy, amely (aki) a vállalkozás kötelezettségeiért törvény alapján felel,
 - g) a társasház (társasüdülő, társasgarázs), építőközösség adótartozása tekintetében a tulajdonostársak,
@@ -1303,7 +1303,22 @@ a munkáltató a feltárt adókülönbözetet a feltárás időpontjában nyilv�
 
 (6) Ha az adóhatóság utólag megállapítja, hogy az e törvény 20/A. §-a szerinti START, START PLUSZ, START EXTRA vagy START BÓNUSZ kártya igényléséhez kapcsolódó – külön jogszabályban előírt – nyilatkozattételi kötelezettségét az igénylő rosszhiszeműen, valótlan adatok feltüntetésével teljesítette, az így megszerzett kártya felhasználása esetén az adóhatóság a foglalkoztatót megillető kedvezményes mértékű szociális hozzájárulási adó, valamint az általános szabályok szerint kedvezmény nélkül megállapított szociális hozzájárulási adó közötti különbözet összegének megfizetésére a kártya tulajdonosát (felhasználóját) határozattal kötelezi.
 
-(7)
+(7) Az adó megfizetésére határozattal kötelezhető a jogi személy tartozásaiért korlátozottan felelős, részesedését átruházó tag vagy részvényes (ide nem értve a nyilvánosan működő részvénytársaság részvényesét) a jogi személytől nem behajtható adótartozás átruházott részesedéssel arányos részének erejéig, ha
+
+- a) a tag (részvényes) a részesedésének átruházásakor a jogi személyben a szavazati jogok 25%-át elérő vagy azt meghaladó részesedéssel rendelkezett, és
+- b) a részesedés átruházásakor a jogi személy – késedelmi pótlék és adóbírság nélküli és nettó módon számított – adótartozásának összege a jogi személy jegyzett tőkéjének 50%-át meghaladja,
+
+feltéve, hogy a tag (részvényes) a b) pontban foglalt körülményről a részesedés átruházásakor tudott, vagy az arra vonatkozó információkról az adóhatóságtól tájékoztatást kérhetett volna.
+
+(8) A tagot (részvényest) a (7) bekezdés szerinti helytállási kötelezettség nem terheli, ha a tag (részvényes) igazolja, hogy
+
+- a) a jogi személy a végrehajtható adótartozást a 24/C. § (5) bekezdés a) pontban foglalt okokból nem tudta megfizetni a részesedés átruházásáig, vagy
+- b) a részesedés átruházását megelőzően – a jogi személyre vonatkozó anyagi jogszabályban előírt módon –
+  - ba) sor került a legfőbb szerv kötelező összehívására és az előírt döntés meghozatalára,
+  - bb) sor került a tőkevesztésre tekintettel kötelező átalakulásra vagy az átalakulás helyett hozható más döntés meghozatalára, vagy
+  - bc) a jogi személy adótartozásának megfizetése, illetve a ba)–bb) alpont szerinti jogszabályi rendelkezések teljesítése érdekében a tag (részvényes) tagsági jogaival élve a tőle elvárható minden intézkedést megtett.
+
+(9) Az adóhatóság a (7) bekezdés szerinti határozatot az adótartozás behajtása eredménytelenségének megállapításától számított 90 napos jogvesztő határidőn belül hozhatja meg. Ha a részesedés átruházása a határozat meghozatalára nyitva álló határidő letelte után jut az adóhatóság tudomására, a határozatot a tudomásszerzéstől számított 30 napon belül az adóhatóság akkor is meghozhatja, ha a jogvesztő határidő már eltelt, vagy abból 30 napnál kevesebb van hátra.
 
 36. § (1) Az adó megfizetéséért a Polgári Törvénykönyv szerint kezességet lehet vállalni, illetve az adótartozást más átvállalhatja, amelynek során az adóhatóság követelésének jogcíme nem változik meg.
 
@@ -1450,7 +1465,7 @@ kell számítani.
 
 (4) Az adózó bevallásában rendelkezhet arról, hogy az igényelt költségvetési támogatást az adóhatóság az adózó által megjelölt adó, vagy egyéb fizetési kötelezettség (tételes elszámolású fizetési kötelezettség esetében a konkrét fizetési kötelezettség) megfizetésére számolja el. A jogszerűen igényelt költségvetési támogatás beszámításával az adó, vagy egyéb fizetési kötelezettség megfizetettnek, a költségvetési támogatás kiutaltnak minősül. A költségvetési támogatás kiutalása, illetve az adó, vagy egyéb fizetési kötelezettség megfizetése időpontjának az igénylés (bevallás) beérkezése, de legkorábban a támogatás esedékessége napját kell tekinteni.
 
-(5) Ha az adott adónem tekintetében az adózónak vagy a 35. § (2) bekezdése szerinti tartozás megfizetésére kötelezett személynek fizetési kötelezettségét meghaladó összeg áll az adószámlán a rendelkezésére (a továbbiakban: túlfizetés), az adóhatóság a túlfizetés összegét kérelemre az adózó, a tartozás megfizetésére kötelezett személy által megjelölt adószámlára, fizetési kötelezettségre, tételes elszámolású fizetési kötelezettség esetében a konkrét fizetési kötelezettségre számolja el. Csoportos adóalanynál fennálló túlfizetés összegét a csoportos adóalany képviselőjének kérelmére az adóhatóság a csoportos adóalany vagy a csoportos adóalanyiságban részt vevő bármelyik tag csoportos adóalany képviselője által megjelölt adószámlájára számolja el. A túlfizetés visszaigényléséhez való jog elévülését követően az adóhatóság a túlfizetés összegét – ideértve a tételes elszámolású fizetési kötelezettséget is – hivatalból vagy kérelemre az általa nyilvántartott, az adózót, a tartozás megfizetésére kötelezett személyt terhelő más tartozásra számolja el, vagy tartozás hiányában azt hivatalból törli. Az ugyanazon adóhatóságnál nyilvántartott, de téves adószámlára fizetett adót, vagy egyéb fizetési kötelezettséget teljesítettnek kell tekinteni. A csőd-, felszámolási, végelszámolási, valamint kényszertörlési eljárás kezdő napját, illetve amennyiben az adózót a csődeljárás elrendelését megelőzően ideiglenes fizetési haladék illeti meg, az ideiglenes fizetési haladék kezdő időpontját megelőző napon fennálló túlfizetés, valamint a jogutód nélkül megszűnt adózó adószámláján fennálló túlfizetés összegét az adóhatóság hivatalból számolja el az általa nyilvántartott, az adózót terhelő tartozásra.
+(5) Ha az adott adónem tekintetében az adózónak vagy a 35. § (2) és (7) bekezdése szerinti tartozás megfizetésére kötelezett személynek fizetési kötelezettségét meghaladó összeg áll az adószámlán a rendelkezésére (a továbbiakban: túlfizetés), az adóhatóság a túlfizetés összegét kérelemre az adózó, a tartozás megfizetésére kötelezett személy által megjelölt adószámlára, fizetési kötelezettségre, tételes elszámolású fizetési kötelezettség esetében a konkrét fizetési kötelezettségre számolja el. Csoportos adóalanynál fennálló túlfizetés összegét a csoportos adóalany képviselőjének kérelmére az adóhatóság a csoportos adóalany vagy a csoportos adóalanyiságban részt vevő bármelyik tag csoportos adóalany képviselője által megjelölt adószámlájára számolja el. A túlfizetés visszaigényléséhez való jog elévülését követően az adóhatóság a túlfizetés összegét – ideértve a tételes elszámolású fizetési kötelezettséget is – hivatalból vagy kérelemre az általa nyilvántartott, az adózót, a tartozás megfizetésére kötelezett személyt terhelő más tartozásra számolja el, vagy tartozás hiányában azt hivatalból törli. Az ugyanazon adóhatóságnál nyilvántartott, de téves adószámlára fizetett adót, vagy egyéb fizetési kötelezettséget teljesítettnek kell tekinteni. A csőd-, felszámolási, végelszámolási, valamint kényszertörlési eljárás kezdő napját, illetve amennyiben az adózót a csődeljárás elrendelését megelőzően ideiglenes fizetési haladék illeti meg, az ideiglenes fizetési haladék kezdő időpontját megelőző napon fennálló túlfizetés, valamint a jogutód nélkül megszűnt adózó adószámláján fennálló túlfizetés összegét az adóhatóság hivatalból számolja el az általa nyilvántartott, az adózót terhelő tartozásra.
 
 (5a) Az adóhatóságnál nyilvántartott adótartozással vagy köztartozással rendelkező adózó esetében az elektronikus fizetéseket és elszámolásokat biztosító alrendszer elszámolási számlájára átutalással teljesített, felosztási rendelkezéssel nem rendezett befizetéseket az adóhatóság először a magánszemély jövedelemadó előlegére, a levont jövedelemadóra, vagy a kifizető által a magánszemélytől levont járulékokra az esedékesség sorrendjében, azonos esedékesség esetén a tartozások arányában számolja el. Az ezt követően fennmaradó összeget először az egyéb, az állami adó- és vámhatóság által nyilvántartott tartozásokra kell elszámolni azok esedékességének sorrendjében, azonos esedékesség esetén a tartozások arányában. Az adóhatóság az átvezetésekről az adózót azok elvégzésével egyidejűleg értesíti. Az ezt követően fennmaradó összeget a köztartozás jogosultjainak kell átutalni a köztartozás erejéig, a tartozások arányában. Az ezt követően fennmaradó összegre a túlfizetésre vonatkozó szabályokat kell megfelelően alkalmazni. Az adók módjára behajtandó köztartozásra történő átvezetésről az adóhatóság az adózót végzéssel értesíti.
 
@@ -1773,6 +1788,8 @@ szükséges,
 
 (16) Az állami adó- és vámhatóság az adóazonosító jelet megkeresésre, elektronikus úton átadja a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szervnek az adóazonosító jelnek az állandó személyazonosító igazolvány tároló elemén történő elhelyezése céljából.
 
+(17) Az adóhatóság megkeresésre tájékoztatja az adó megfizetésére a 35. § (7) bekezdése szerint kötelezhető személyt vagy szervezetet az adózó végrehajtható adótartozásának összegéről.
+
 54/A. § Az állami adó- és vámhatóság az ingatlan forgalmi értékének megállapításához szükséges adatokat (a továbbiakban: összehasonlító értékadat) tartalmazó nyilvántartásából, az abban szereplő ingatlanok forgalmi értékéről – az ingatlantulajdonos személyazonosságának megállapítására alkalmatlan módon – kérelemre igazgatási szolgáltatási díj ellenében adatszolgáltatást teljesít.
 
 55. § (1) Ha az adózó adózásával összefüggésben olyan valótlan tényt, adatot vagy valós tényt, adatot megtévesztő módon tett közzé, amely alkalmas arra, hogy az államigazgatás munkájába vetett bizalmat megingassa, az adóhatóság jogosult ennek nyilvánosság előtt történő cáfolatára.
@@ -1996,6 +2013,10 @@ ellenőrzéssel valósítja meg.
 - e) – ha a kirakodási cím nem az általános forgalmi adóalany székhelye, telephelye, fióktelepe –, úgy az ingatlan használatának jogcíméről.
 
 (6b) Amennyiben kockázati tényezők – különösen a rakomány jellege, a szállítmány és a rendeltetési hely, illetve a fuvarozott termék mennyisége és a gépjármű típusa közötti összhang hiánya, folyamatban levő végrehajtási eljárás, közösségi adószám hiányában végzett közösségi kereskedelmi tevékenység, kirakodási helyként be nem jelentett telephely feltüntetése – indokolják, valamint abban az esetben, ha a termék fuvarozásában érintett általános forgalmiadó-alany a (6a) bekezdés szerinti nyilatkozattételt megtagadja – az élőállat, valamint a gyorsan romló termékek kivételével – az állami adó- és vámhatóság a szállítóeszközön a termék azonosságának biztosítása érdekében hatósági zárat alkalmazhat. A hatósági zár lehet hatósági pecséttel ellátott csomagzár vagy raktérzár. Az állami adó- és vámhatóság az alkalmazott hatósági zár sértetlenségét belföldön ellenőrizheti, illetve a hatósági zár alkalmazása indokának megszűnése esetén intézkedik annak eltávolítása iránt.
+
+(6c) A fuvarozó köteles az állami adó- és vámhatóság által felhelyezett hatósági zárat annak felhelyezésétől az állami adó- és vámhatóság által történő levételéig sértetlen állapotban megőrizni.
+
+(6d) Ha a közúti fuvarozással járó tevékenység során a hatósági zár baleset vagy egyéb tevékenységi körén kívül álló elháríthatatlan ok miatt megsérült, vagy az áru megrongálódott, illetve megsemmisült, a fuvarozó köteles erről az állami adó- és vámhatóságot haladéktalanul értesíteni.
 
 (7) Az Európai Közösség más tagállamában nyilvántartásba vett távolsági tömegközlekedési eszköz vezetőjét az állami adó- és vámhatóság ellenőrizheti annak megállapítása érdekében, hogy végez-e belföldön helyközi személyszállítási szolgáltatást és az üzemben tartó eleget tett-e bejelentkezési kötelezettségének.
 
@@ -2966,9 +2987,9 @@ végzés ellen.
 
 (4) A határozattal szemben felügyeleti intézkedés iránti kérelem nem terjeszthető elő.
 
-136/B. § (1) Az adó megfizetésére kötelezett a helytállási kötelezettségét megállapító – a 35. § (2) bekezdés f) pontja alapján meghozott – első fokú adóhatósági határozat elleni fellebbezésben vitathatja a helytállási kötelezettségét megalapozó, utólagos adómegállapítás tárgyában kiadott határozatot, amennyiben azt bíróság nem vizsgálta felül. Ez a jogosultság akkor is megilleti az adó megfizetésére kötelezettet, ha a vitatott kötelezettség tekintetében az adómegállapításhoz való jog már elévült.
+136/B. § (1) Az adó megfizetésére kötelezett a helytállási kötelezettségét megállapító – a 35. § (2) bekezdés f) pontja és (7) bekezdése alapján meghozott – első fokú adóhatósági határozat elleni fellebbezésben vitathatja a helytállási kötelezettségét megalapozó, utólagos adómegállapítás tárgyában kiadott határozatot, amennyiben azt bíróság nem vizsgálta felül. Ez a jogosultság akkor is megilleti az adó megfizetésére kötelezettet, ha a vitatott kötelezettség tekintetében az adómegállapításhoz való jog már elévült.
 
-(2) Az adóhatóság – a 35. § (2) bekezdés f) pontja alapján meghozott első fokú határozat közlésével egyidejűleg – az adó megfizetésére kötelezettnek megküldi a helytállási kötelezettséget megalapozó, utólagos adómegállapítás tárgyában kiadott első- és – amennyiben másodfokú határozat meghozatalára sor került – a másodfokú határozatot, valamint az utólagos adóellenőrzés megállapításairól felvett jegyzőkönyvet.
+(2) Az adóhatóság – a 35. § (2) bekezdés f) pontja és (7) bekezdése alapján meghozott első fokú határozat közlésével egyidejűleg – az adó megfizetésére kötelezettnek megküldi a helytállási kötelezettséget megalapozó, utólagos adómegállapítás tárgyában kiadott első- és – amennyiben másodfokú határozat meghozatalára sor került – a másodfokú határozatot, valamint az utólagos adóellenőrzés megállapításairól felvett jegyzőkönyvet.
 
 (3) Amennyiben az adó megfizetésére kötelezett a helytállási kötelezettségét megalapozó utólagos adómegállapítás tárgyában hozott határozatot az (1) bekezdés szerinti fellebbezésben vitatja, a fellebbezést elbíráló másodfokú adóhatóság elsőként az utólagos adómegállapítás jogszerűsége kérdésében dönt. Amennyiben a felettes szerv megállapítja, hogy az utólagos adómegállapítás részben vagy egészben jogszabálysértő, a fellebbezést benyújtó adó megfizetésére kötelezettel szemben a jogszabálysértő adómegállapítás tekintetében az adóvégrehajtáshoz való jogot korlátozza vagy megszünteti. Az utólagos adómegállapítás jogszerűsége, a végrehajtási jog korlátozása és az adó megfizetésére kötelezés tárgyában a másodfokú adóhatóság egy határozatban dönt. A határozat meghozatalára nyitva álló határidő az iratoknak a másodfokú adóhatósághoz történő megérkezését követő naptól számított 60 nap.
 
@@ -3117,7 +3138,7 @@ Külföldi magánszemély esetén a fővárosi főjegyző az illetékes önkorm�
 
 ### A végrehajtási eljárás megindítása
 
-150. § (1) Az adóhatóság az adótartozás megfizetésére az adózót, a 35. § (2) bekezdése szerint az adó megfizetésére kötelezett személyt (a továbbiakban együtt: adós) felhívhatja, eredménytelen felhívás esetén a végrehajtást megindítja. A végrehajtási eljárás a végrehajtási cselekmény foganatosításával indul.
+150. § (1) Az adóhatóság az adótartozás megfizetésére az adózót, a 35. § (2) és (7) bekezdése szerint az adó megfizetésére kötelezett személyt (a továbbiakban együtt: adós) felhívhatja, eredménytelen felhívás esetén a végrehajtást megindítja. A végrehajtási eljárás a végrehajtási cselekmény foganatosításával indul.
 
 (2) A végrehajtható okirat alapján foganatosított ingó-, ingatlan- illetve követelésfoglalás hatályát az adóhatóság kiterjesztheti a foglalást követően végrehajthatóvá vált tartozásokra, költségekre is (kiterjesztés), amely tényről az adóhatóság az adózót értesíti.
 
@@ -3442,9 +3463,9 @@ Külföldi magánszemély esetén a fővárosi főjegyző az illetékes önkorm�
 
 - a) az adózó kérelmére az adóhatóság fizetési halasztást vagy részletfizetést engedélyezett,
 - b) a fizetési halasztás, részletfizetés vagy az adótartozás mérséklésére irányuló kérelem tárgyában jogerős döntést még nem hoztak,
-- c) az adózó meghalt, illetőleg megszűnt, az adó megfizetésére határozattal kötelezett személyt megállapító határozat jogerőre emelkedéséig,
+- c) az adózó meghalt, illetőleg megszűnt, az adó megfizetésére határozattal kötelezett személy fizetési kötelezettségét megállapító határozat jogerőre emelkedéséig,
 - d) az adóhatósági határozat bírósági felülvizsgálata során az első alkalommal előterjesztett végrehajtás felfüggesztése iránti kérelmet jogerősen még nem bírálták el,
-- e) az adó megfizetésére való kötelezésre e törvény 35. § (2) bekezdésének f) pontja alapján került sor és az adózóval szemben felszámolási eljárás indult, a felszámolási eljárás megindításának közzétételétől a felszámolás jogerős befejezéséig,
+- e) az adó megfizetésére való kötelezésre e törvény 35. § (2) bekezdés f) pontja és (7) bekezdése alapján került sor és az adózóval szemben felszámolási eljárás indult, a felszámolási eljárás megindításának közzétételétől a felszámolás jogerős befejezéséig,
 - f) külön törvény így rendelkezik,
 - g) az adótartozás érvényesítése érdekében az adóhatóság polgári peres eljárást kezdeményezett, a peres eljárás jogerős befejeződéséig.
 
@@ -3739,6 +3760,8 @@ esetén, ha azt adóra, járulékra vagy költségvetési támogatásra követik
 
 (19a) Ha az állami adó- és vámhatóság az ellenőrzése során megállapítja, hogy az adózó a fuvarozott termék vagy annak egy része tekintetében nem tett eleget a 22/E. § (1)–(2) és (4) bekezdése szerinti kötelezettségnek, illetve a bejelentési kötelezettségét hibásan, valótlan adattartalommal vagy hiányosan teljesíti, úgy a termék vagy annak be nem jelentett része igazolatlan eredetűnek minősül, és az állami adó- és vámhatóság az adózó terhére az igazolatlan eredetű áru értékének 40 százalékáig terjedő mulasztási bírságot szabhat ki.
 
+(19b) Ha az állami adó- és vámhatóság az ellenőrzése során megállapítja, hogy az adózó a 22/E. § (1)–(2) és (4) bekezdése szerinti bejelentési kötelezettségét valótlan adattartalommal úgy teljesítette, hogy a bejelentett termék mennyisége meghaladja a ténylegesen fuvarozott termék mennyiségét, akkor az állami adó- és vámhatóság az adózó terhére a bejelentett, de ténylegesen nem fuvarozott áru értékének 40 százalékáig terjedő mulasztási bírságot szabhat ki.
+
 (20) Ha a magánszemély adózó a 31. § (4) bekezdése szerinti, a személyi jövedelemadó bevallás késedelmes benyújtására vonatkozó bejelentést tesz, a bevallási késedelem miatt mulasztási bírság a bevallás naptári éve november 20. napjáig nem szabható ki, kivéve, ha az adózó bevallását november 20-a előtt nyújtja be és késedelmét igazoltan nem menti ki.
 
 (20a) Az adózó 1 millió forintig terjedő mulasztási bírsággal sújtható, ha iratmegőrzési kötelezettségének nem tesz eleget. Amennyiben az adózó iratmegőrzési kötelezettségének a nyomdai úton előállított számla, nyugta megőrzésének elmulasztásával nem tesz eleget, függetlenül attól, hogy a számla, illetve nyugta felhasználása ténylegesen megtörtént-e, a kiszabható mulasztási bírság összege magánszemély esetén 200 ezer forint, más adózó esetében 500 ezer forint és a hiányzó számlák, illetve nyugták számának szorzata által meghatározott összegig terjedhet.
@@ -3761,6 +3784,8 @@ esetén, ha azt adóra, járulékra vagy költségvetési támogatásra követik
 - a) pénztárgép, taxaméter forgalmazási engedély nélküli forgalmazása, a forgalmazási engedély visszavonását követő továbbforgalmazása, továbbá engedélyezettől eltérő pénztárgép, taxaméter forgalmazása esetén 10 millió forintig terjedő mulasztási bírságot szab ki,
 - b) a pénztárgép, taxaméter forgalmazásával, üzemeltetésével, szervizelésével kapcsolatos, jogszabályban meghatározott kötelezettségek egyéb módon történő megszegése esetén a magánszemély kötelezettet (forgalmazót, üzemeltetőt, szervizt, műszerészt) 500 ezer forintig, nem magánszemély kötelezettet 1 millió forintig terjedő mulasztási bírsággal sújthatja.
 
+(20h) Ha a fuvarozó az Art. 88. § (6c) bekezdésében meghatározott kötelezettségeinek nem tesz eleget, az állami adó- és vámhatóság a magánszemély terhére legalább 200 000 Ft, legfeljebb 500 000 Ft, magánszemélynek nem minősülő fuvarozó terhére legalább 500 000 Ft, legfeljebb 1 000 000 Ft mulasztási bírságot szabhat ki.
+
 (21) A mulasztási bírság kiszabásánál – különös tekintettel a (4) és (5) bekezdésben meghatározott esetekre – az adóhatóság mérlegeli az eset összes körülményét, az adózó jogellenes magatartásának (tevékenységének vagy mulasztásának) súlyát, gyakoriságát, továbbá azt, hogy az adózó, illetve intézkedő képviselője, alkalmazottja, tagja vagy megbízottja az adott helyzetben a tőle elvárható körültekintéssel járt-e el. A körülmények mérlegelése alapján az adóhatóság a mulasztás súlyához igazodó az adózási érdeksérelemmel arányos bírságot szab ki, vagy a bírság kiszabását mellőzi.
 
 172/A. § Az adóhatóság a bejelentkezési kötelezettség, a foglalkoztatotti bejelentés, valamint az e törvény 22/E. §-a szerinti kötelezettség kivételével a bejelentési, bevallási, adatszolgáltatási kötelezettség elmulasztása vagy hibás teljesítése esetén a cégbejegyzésre nem kötelezett adózót mulasztási bírság kiszabása nélkül, határidő tűzésével felhívja a kötelezettség teljesítésére, vagy a hiba javítására. Mulasztási bírság kiszabásának csak a felhívás eredménytelensége esetén van helye.
@@ -3772,6 +3797,21 @@ esetén, ha azt adóra, járulékra vagy költségvetési támogatásra követik
 (2) Az adóhatóság a biztosítékként lefoglalt ingóságokat a végrehajtásra vonatkozó szabályok szerint értékesíti, ha az adózó a bírságot az esedékességtől számított 15 napon belül nem fizette meg.
 
 (3) Az áru értékesítéséből származó összegnek a bírságot, pótlékot és költségeket meghaladó részét az adóhatóság az adózónak visszatéríti.
+
+173/A. § (1) Ha az állami adó- és vámhatóság a 172. § (20h) bekezdés alapján mulasztási bírságot szab ki, a fuvarozás eszközét – a romlandó árut és az élő állatot szállító fuvareszközök kivételével – az általa lefolytatott ellenőrzés során a kiszabott bírság, illetve a pénzkövetelés biztosítás megfizetéséig, az erre vonatkozó külön határozat kiadása nélkül visszatarthatja.
+
+(2) A jármű nem tartható vissza abban az esetben, ha
+
+- a) a bírságfizetésre kötelezett (kötelezettek) székhelye, illetve lakóhelye vagy szokásos tartózkodási helye Magyarország területén van, és a kötelezett rendelkezik az állami adó- és vámhatóság által kiadott adószámmal, illetve adóazonosító jellel, vagy
+- b) a bírságfizetési kötelezettség teljesítéséért pénzügyi intézmény kezességet, garanciát vállal, vagy a kötelezettséget belföldön bejegyzett, adószámmal rendelkező gazdálkodó szervezet átvállalja és ezt a tényt a bírságfizetésre kötelezett az eljárás során hitelt érdemlően igazolja.
+
+(3) Ha a külföldi fuvarozó a 88. § (6b) bekezdésében foglalt előírásokat megszegve az állami adó- és vámhatóság által felhelyezett hatósági zár, állami adó- és vámhatóság által történő levételét megakadályozza, akkor bármely a fuvarozó tulajdonában vagy használatában lévő fuvareszköz tekintetében az állami adó- és vámhatóság a 172. § (20h) bekezdésében és az (1) bekezdésben foglaltakat alkalmazhatja.
+
+(4) E §, valamint a 172. § (20h) bekezdése alkalmazásában külföldi fuvarozó a Magyarország területén termékmozgatást végző
+
+- a) belföldön nem letelepedett és egyébként gazdasági (termelő, szolgáltató, üzemi, üzleti) tevékenységet nem folytató jogi személy és egyéb szervezet,
+- b) járművet vezető, belföldön lakóhellyel, szokásos tartózkodási hellyel nem rendelkező magánszemély, valamint
+- c) az a) pont szerinti jogi személy és egyéb szervezet tulajdonában álló termékmozgatást végző jármű belföldi magánszemély vezetője.
 
 174. § (1) Az adóhatóság mulasztási bírság kiszabása mellett az adóköteles tevékenység célját szolgáló helyiséget 12 nyitvatartási napra lezárhatja, ha az adózó
 
@@ -4544,7 +4584,7 @@ is alkalmazni kell.
 
 218. § (1) E törvénynek a Módtv.5-tel megállapított rendelkezéseit a (2) bekezdés kivételével a Módtv.5 hatálybalépésekor jogerősen el nem bírált ügyekben, továbbá a hatálybalépést követően az azt megelőző időszakra teljesítendő, illetve esedékessé vált kötelezettségekre is kell alkalmazni azzal, hogy ha a jogszabálysértés elkövetésének időpontjában hatályos rendelkezések az adózóra összességében kevésbé terhes bírság-, pótlékfeltételeket határoztak meg, a kötelezettségre legfeljebb az elkövetéskor hatályos törvényben meghatározott legmagasabb mérték alkalmazható.
 
-(2) E törvénynek a Módtv.5-tel megállapított 132. § (1) bekezdését a hatálybalépéseko folyamatban lévő ügyekben is alkalmazni kell.
+(2) E törvénynek a Módtv.5-tel megállapított 132. § (1) bekezdését a hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
 (3) E törvénynek a Módtv.5-tel megállapított végrehajtásra vonatkozó rendelkezéseit
 
@@ -4552,6 +4592,8 @@ is alkalmazni kell.
 - b) a Módtv.5 hatálybalépésekor folyamatban lévő
 
 végrehajtási eljárásokban is alkalmazni kell.
+
+(4) E törvénynek a Módtv.5-tel megállapított 35. § (7)–(9) bekezdése a 2016. szeptember 1-jét követő részesedés átruházások esetén alkalmazható.
 
 219. § Az állami adó- és vámhatóság első alkalommal 2016. harmadik negyedévét követően minősíti az adózókat e törvénynek a Módtv.5 által megállapított 6/A. § (1a) és (3) bekezdésében meghatározott rendelkezések alapján.
 

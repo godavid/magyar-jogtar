@@ -535,7 +535,7 @@ Tbj. 35. § (1) A megállapodásnak tartalmaznia kell a szerződő felek megneve
 
 (4) A megállapodás alapján megszerzett jogosultságra – ha e törvény másként nem rendelkezik – a Tny.tv., illetve az Eb.tv. rendelkezéseit kell alkalmazni.
 
-(5) A (4) bekezdés rendelkezéseitől eltérően a 34. § (10) és (12) bekezdése szerint kötött megállapodás alapján egészségügyi szolgáltatás – a sürgősségi ellátás kivételével – a megállapodás megkötését követő hatodik hónap első napjától jár, kivéve, ha a megállapodás megkötésével egyidejűleg az előírt járulék befizetése visszamenőleg hat hónapra megtörtént. Az utóbbi esetben az egészségügyi szolgáltatás a megállapodás megkötését követő hónap első napjától jár.
+(5) A (4) bekezdés rendelkezéseitől eltérően a 34. § (10) és (12) bekezdése szerint kötött megállapodás alapján egészségügyi szolgáltatás – a sürgősségi ellátás kivételével – a megállapodás megkötését követő huszonnegyedik hónap első napjától jár, kivéve, ha a megállapodás megkötésével egyidejűleg az előírt járulék befizetése visszamenőleg huszonnégy hónapra megtörtént. Az utóbbi esetben az egészségügyi szolgáltatás a megállapodás megkötését követő hónap első napjától jár.
 
 (6) Megállapodás alapján egészségügyi szolgáltatásra jogosult külföldi részére az igazolást a vele megállapodást kötő igazgatási szerv adja ki.
 
