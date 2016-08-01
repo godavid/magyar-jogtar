@@ -67,7 +67,7 @@ terjed ki.
 - 11. hozzátartozó: az egyeneságbeli rokon és annak házastársa; az örökbefogadó, mostoha- és a nevelőszülő; az örökbefogadott, mostoha- és a nevelt gyermek; a testvér; a házastárs, az élettárs, a bejegyzett élettárs, a jegyes; a házastársnak, a bejegyzett élettársnak egyeneságbeli rokona, testvére, valamint a testvér házastársa, bejegyzett élettársa;
 - 12. kompetencia-vizsgálat: a pályázóval szemben a különböző munkakörökre előírt követelmények és a pályázó tényleges készségeinek és képességeinek összevetése, munkaalkalmasságának felmérése, amely során személyes interjú, alkalmassági teszt, értékelő központ alkalmazható;
 - 13. kormánytisztviselő, köztisztviselő: az 1. és 2. §-ban felsorolt szervek (a továbbiakban együtt: közigazgatási szerv) feladat- és hatáskörében eljáró vezető és ügyintéző, aki előkészíti a közigazgatási szerv feladat- és hatáskörébe tartozó ügyeket érdemi döntésre, illetve – felhatalmazás esetén – a döntést kiadmányozza, kivéve, ha ezt a tevékenységet az 1. § c) pontja szerinti rendvédelmi feladatokat ellátó szervnél más jogviszonyban álló személy végzi;
-- 14. kormányzati, illetve közszolgálati ügykezelő: az, aki a közigazgatási szervnél közhatalmi, irányítási, ellenőrzési és felügyeleti tevékenység gyakorlásához kapcsolódó ügyviteli feladatot lát el, kivéve, ha ezt a tevékenységet az 1. § c) pontja szerinti rendvédelmi feladatokat ellátó szervnél vagy a Honvédségnél közalkalmazotti jogviszonyban álló személy végzi;
+- 14. kormányzati vagy közszolgálati ügykezelő: az, aki a közigazgatási szervnél közhatalmi, irányítási, ellenőrzési és felügyeleti tevékenység gyakorlásához kapcsolódó ügyviteli feladatot lát el, valamint a külképviseletekről és a tartós külszolgálatról szóló törvény szerinti adminisztratív és technikai személyzet tagja, kivéve, ha ezt a tevékenységet az 1. § c) pontja szerinti rendvédelmi feladatokat ellátó szervnél vagy a Honvédségnél közalkalmazotti jogviszonyban álló személy végzi;
 - 15.
 - 15a. kötelező orvosi vizsgálat: az az orvosi vizsgálat, amelyen a kormánytisztviselőnek jogszabály előírása alapján részt kell vennie, ideértve a várandós állapotra tekintettel előírt orvosi vizsgálatot is;
 - 16. közigazgatási gyakorlatnak kell tekinteni a közigazgatási szervnél, illetve annak jogelőd szervénél közszolgálati jogviszonyban, állami szolgálati jogviszonyban, államigazgatási munkaviszonyban töltött időt tekintet nélkül arra, hogy a jogviszony folyamatosan fennállt-e vagy sem; a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó szervnél szerzett gyakorlatot; továbbá a 247. § (1) bekezdés b) pontja vonatkozásában – jogi előadói vagy más jogi munkakörben megszerzett joggyakorlat kivételével – a jogi szakvizsga megtételéhez szükséges joggyakorlati időt is;
@@ -1011,19 +1011,9 @@ kell érteni.
 
 (2) Az (1) bekezdés szerinti esetben a 48. § (4)–(6) bekezdését alkalmazni kell.
 
-54/C. § (1) Az 54/A. §-tól eltérően Magyarország Európai Unió melletti Állandó Képviseletére (a továbbiakban: Állandó Képviselet) tartós külszolgálatra az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztérium kormánytisztviselője – ideértve az ágazati szakmai feladat ellátására e szervhez meghatározott időre áthelyezett kormánytisztviselőt is – helyezhető ki diplomataként, szakdiplomataként. E személyeket a munkáltatói jogok gyakorlója helyezi ki az Állandó Képviseletre tartós külszolgálatra.
+54/C. § (1)–(6)
 
-(2) Az Állandó Képviseletre nem diplomataként, szakdiplomataként való kihelyezésre az 54/A. § rendelkezései az irányadók.
-
-(3) A tartós külszolgálat tervezett időtartama – megszakítás nélkül – a három hónapot meghaladja.
-
-(4) A kormánytisztviselő tartós külszolgálatra a hozzájárulásával helyezhető ki.
-
-(5) Nem kell a kormánytisztviselő beleegyezése a kinevezés módosításához, ha a munkakör megváltoztatását a tartós külszolgálatra történő kihelyezés visszavonása indokolja.
-
-(6) Ha a tartós külszolgálatra kihelyezés visszavonására vonatkozó döntés közlésétől számított öt napon belül a kormánytisztviselő írásban úgy nyilatkozik, hogy nem kíván a megváltoztatott feltételek szerint munkát végezni, nyilatkozatát lemondásnak kell tekinteni azzal, hogy a lemondási idő tartamára a munkavégzés alól mentesíteni kell. A lemondási időre járó illetmény összegének, valamint az egyéb kifizetések összegének meghatározása szempontjából a munkakör megváltoztatása előtti illetményt kell figyelembe venni.
-
-(7) Az Állandó Képviseletre diplomataként, szakdiplomataként tartós külszolgálatra való kihelyezés céljából az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztériumba kormánytisztviselőként kinevezett vagy az ágazati szakmai feladat ellátására e szervhez meghatározott időre áthelyezett kormánytisztviselő felett a munkáltatói jogokat az európai uniós ügyek koordinációjáért felelős miniszter gyakorolja.
+(7) A Magyarország Európai Unió melletti Állandó Képviseletére (a továbbiakban: EU ÁK) diplomataként, szakdiplomataként tartós külszolgálatra való kihelyezés céljából az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztériumba kormánytisztviselőként kinevezett vagy az ágazati szakmai feladat ellátására e szervhez meghatározott időre áthelyezett kormánytisztviselő, az EU ÁK-ra kihelyezésre kerülő további kormánytisztviselő és kormányzati ügykezelő felett a munkáltatói jogokat az európai uniós ügyek koordinációjáért felelős miniszter gyakorolja.
 
 ### Kormányzati érdekből történő kirendelés
 
@@ -1041,11 +1031,11 @@ kell érteni.
 
 (3) A határozott idejű áthelyezésre megfelelően kell alkalmazni az 53. § (3) bekezdésében foglaltakat.
 
-### Európai Unió vagy nemzetközi szervezetek által finanszírozott fejlesztési programokban történő szakértői részvétel, Európai Unió Intézményeiben foglalkoztatott nemzeti szakértő
+### Európai Unió vagy nemzetközi szervezetek által finanszírozott fejlesztési programokban történő szakértői részvétel, Európai Unió Intézményeiben és nemzetközi szervezeteknél foglalkoztatott nemzeti szakértő
 
 57. § (1) Az államigazgatási szerv és a kormánytisztviselő megállapodhat abban, hogy a kormánytisztviselő határozott ideig az Európai Unió vagy nemzetközi szervezetek által finanszírozott fejlesztési programok keretében szakértői tevékenységet lát el. A kormánytisztviselő és a fejlesztési programok végrehajtásáért felelős szerv között a szakértői tevékenység gyakorlásával kapcsolatban kötött megállapodás nem hoz létre e törvény szerinti további jogviszonyt.
 
-(2) A nemzeti szakértőként történő foglalkoztatásról valamely európai uniós intézmény és a küldő államigazgatási szerv közötti megállapodás rendelkezik. A kormánytisztviselő kormányzati szolgálati jogviszonya a küldő államigazgatási szervnél a nemzeti szakértőként történő foglalkoztatás ideje alatt folyamatosan fennáll.
+(2) A nemzeti szakértőként történő foglalkoztatásról valamely európai uniós intézmény vagy nemzetközi szervezet és a küldő államigazgatási szerv közötti megállapodás rendelkezik. A kormánytisztviselő kormányzati szolgálati jogviszonya a küldő államigazgatási szervnél a nemzeti szakértőként történő foglalkoztatás ideje alatt folyamatosan fennáll.
 
 (3) A kormánytisztviselő kinevezését az (1)–(2) bekezdésekben foglalt tevékenység ellátásának időtartamára közös megegyezéssel módosítani kell. A határozott idő elteltével a kormánytisztviselőt az előmeneteli szabályok figyelembevételével vissza kell helyezni a szakértői tevékenységet megelőzően általa betöltött beosztásba.
 
@@ -2850,7 +2840,7 @@ terjed ki.
 
 (2) Az állami vezetők esetében a közszolgálati alapnyilvántartásban kell nyilvántartani a 2. mellékletben meghatározott adatokon túl az állami vezetői igazolvány számát, az EÜ VIP kártya számát, a diplomata útlevél számát, az állami vezetők és az államigazgatási szervek kormánytisztviselői számára biztosított juttatásokról és azok feltételeiről szóló kormányrendelet szerinti juttatások adatait is.
 
-(3) A tartós külszolgálatot teljesítő kormánytisztviselő esetében a 2. mellékletben meghatározott adatokon túl a közszolgálati alapnyilvántartásban kell nyilvántartani a külképviselet (állomáshely) megnevezését, a rangot (diplomáciai és konzuli), az ellátmányra, ellátmánypótlékra vonatkozó adatokat is.
+(3) A tartós külszolgálatot teljesítő kormánytisztviselő esetében a 2. mellékletben meghatározott adatokon túl a közszolgálati alapnyilvántartásban kell nyilvántartani a külképviselet megnevezését, a diplomáciai vagy konzuli rangot, valamint az átalány-költségtérítésre vonatkozó adatokat is.
 
 (4) A szakmai vezetők és a kormánytisztviselők önéletrajzát a minisztériumok a 185. § (4) bekezdésében meghatározott rendszerben tartják nyilván és kezelik.
 

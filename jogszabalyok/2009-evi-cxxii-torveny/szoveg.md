@@ -32,7 +32,7 @@ Az Országgyűlés a köztulajdonban álló gazdasági társaságok takarékosab
 
 (4) A (3) bekezdésben meghatározott szerződés értéke alatt a szerződés tárgyáért kikötött – általános forgalmi adó nélkül számított – ellenszolgáltatást kell érteni, ingyenes ügylet esetén pedig a vagyon piaci vagy könyv szerinti értéke közül a magasabb összeget kell figyelembe venni. Az időszakonként visszatérő – egy évnél hosszabb időtartamra kötött – szerződéseknél az érték kiszámításakor az ellenszolgáltatás egy évre számított összegét kell alapul venni. Az egy költségvetési évben ugyanazon szerződő féllel kötött azonos tárgyú szerződések értékét a (3) bekezdés szerinti közzétételi kötelezettség szempontjából egybe kell számítani.
 
-(5) A (3) bekezdés szerinti nyilvánosságra hozatali kötelezettség nem vonatkozik a nemzetbiztonsági, illetve honvédelmi érdekkel közvetlenül összefüggő beszerzésekre, valamint az államtitokká, illetve szolgálati titokká minősített adatokra.
+(5) A (3) bekezdés szerinti nyilvánosságra hozatali kötelezettség nem vonatkozik a védelmi és a biztonsági beszerzésekre, valamint a minősített adatokra.
 
 (6) A munkáltató működése szempontjából meghatározó jelentőségű munkakörnek minősül különösen az a munkakör, amely a gazdasági társaság vagyonával való gazdálkodás során döntési jogkört tartalmaz.
 
