@@ -565,32 +565,7 @@ részletes szabályait rendeletben állapítsa meg.
 
 #### 22. Módosító és hatályon kívül helyező rendelkezések
 
-61. § (1) A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) 6. § 14. pontja helyébe a következő rendelkezés lép:
-
-(6. § E törvény alkalmazásában)
-
-„14. kormányzati vagy közszolgálati ügykezelő: az, aki a közigazgatási szervnél közhatalmi, irányítási, ellenőrzési és felügyeleti tevékenység gyakorlásához kapcsolódó ügyviteli feladatot lát el, valamint a külképviseletekről és a tartós külszolgálatról szóló törvény szerinti adminisztratív és technikai személyzet tagja, kivéve, ha ezt a tevékenységet az 1. § c) pontja szerinti rendvédelmi feladatokat ellátó szervnél vagy a Honvédségnél közalkalmazotti jogviszonyban álló személy végzi;”
-
-(2) A Kttv. 54/C. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) A Magyarország Európai Unió melletti Állandó Képviseletére (a továbbiakban: EU ÁK) diplomataként, szakdiplomataként tartós külszolgálatra való kihelyezés céljából az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztériumba kormánytisztviselőként kinevezett vagy az ágazati szakmai feladat ellátására e szervhez meghatározott időre áthelyezett kormánytisztviselő, az EU ÁK-ra kihelyezésre kerülő további kormánytisztviselő és kormányzati ügykezelő felett a munkáltatói jogokat az európai uniós ügyek koordinációjáért felelős miniszter gyakorolja.”
-
-(3) A Kttv.
-
-- a) 57. §-át megelőző alcím címében az „Európai Unió Intézményeiben” szövegrész helyébe az „Európai Unió Intézményeiben és nemzetközi szervezeteknél” szöveg,
-- b) 57. § (2) bekezdésében az „európai uniós intézmény” szövegrész helyébe „európai uniós intézmény vagy nemzetközi szervezet” szöveg
-
-lép.
-
-(4) A Kttv. 186. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A tartós külszolgálatot teljesítő kormánytisztviselő esetében a 2. mellékletben meghatározott adatokon túl a közszolgálati alapnyilvántartásban kell nyilvántartani a külképviselet megnevezését, a diplomáciai vagy konzuli rangot, valamint az átalány-költségtérítésre vonatkozó adatokat is.”
-
-62. § (1) A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban: Ksztv.) 63. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) A külképviselet törvényben meghatározottak szerint minisztériumba tagozódik.”
-
-(2) A Ksztv. 63. § (3) bekezdésében az „e törvény” szövegrész helyébe a „törvény” szöveg lép.
+#### 61–62. §
 
 #### 63. §
 
@@ -598,7 +573,7 @@ lép.
 
 - a) a Kttv.
   - aa)
-  - ab) 54/C. § (1)–(6) bekezdése,
+  - ab)
   - ac)–ae)
 - b)
 
