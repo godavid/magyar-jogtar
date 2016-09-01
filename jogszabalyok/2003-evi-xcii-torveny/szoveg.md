@@ -441,11 +441,10 @@ teljesíti;
 
 (10) Az előtársaság a cégbejegyzési kérelme benyújtása napjáig tartó időszakában az Efo. tv.-ben meghatározott bejelentési kötelezettségének elektronikus úton, a központi elektronikus szolgáltató rendszeren keresztül, adószám feltüntetése nélkül tesz eleget. Az előtársaság az adószám megszerzésétől számított nyolc napon belül – az adószámot és a korábban teljesített bejelentés adóhatósági iktatószámát is feltüntetve – ismételten bejelenti a cégbejegyzési kérelem benyújtását megelőzően az Efo. tv. keretében általa foglalkoztatott természetes személy Efo. tv. 11. § (3) bekezdése szerinti adatait.
 
-(11) Az iskolaszövetkezetnek a Tbj. 5. § (1) bekezdés b) pontja alapján biztosítottnak nem minősülő, a munka törvénykönyvéről szóló 2012. évi I. törvény 223. §-a szerint megkötött munkaszerződéssel létesített munkaviszony keretében személyesen közreműködő tagja esetében – a (4) bekezdésben foglaltaktól eltérően – a munkáltató iskolaszövetkezet az állami adó- és vámhatóság felé köteles a munkaszerződés megkötésének napján bejelenteni
+(11) Az iskolaszövetkezetnek a Tbj. 5. § (1) bekezdés b) pontja alapján biztosítottnak nem minősülő, a szövetkezetekről szóló 2006. évi X. törvény 10/B. § (2) bekezdése szerinti megállapodás alapján személyesen közreműködő tagja esetében – a (4) bekezdésben foglaltaktól eltérően – az iskolaszövetkezet az állami adó- és vámhatóság felé köteles a külső szolgáltatásra vonatkozó tagsági megállapodás megkötésének napján bejelenteni
 
-- a) a munkáltató (iskolaszövetkezet) adószámát,
-- b) a munkavállaló iskolaszövetkezeti tag adóazonosító jelét és társadalombiztosítási azonosító jelét, diákigazolványa számát,
-- c) A munkáltató iskolaszövetkezet köteles az állami adó- és vámhatósághoz bejelenteni a jogviszony megszűnését követő 8 napon belül a munkavállaló iskolaszövetkezeti tag jogviszonya megszűnésének napját. Jogutódlás esetén a (4) bekezdés c) pontjában foglaltakat megfelelően alkalmazni kell.
+- a) az iskolaszövetkezet adószámát,
+- b) az iskolaszövetkezeti tag adóazonosító jelét és társadalombiztosítási azonosító jelét, diákigazolványa számát.
 
 (12) Az iskolaszövetkezet munkáltató bejelentési kötelezettségét az egyszerűsített foglalkoztatás bejelentésével azonos módon
 
@@ -1674,7 +1673,7 @@ szükséges,
 
 (11) Az állami adó- és vámhatóság vezetője a nemzetgazdaság aktuális állapotának, illetőleg az azt befolyásoló hatások, folyamatok elemzése, értékelése érdekében a 10 000 legnagyobb adóteljesítménnyel rendelkező adózót soron kívüli adatszolgáltatásra kötelezheti gazdasági tevékenységének olyan adatairól, amelyek a jogszabály alapján vezetett nyilvántartásaiból megállapíthatók és adókötelezettségeivel összefüggésben állnak.
 
-(12) E törvény 7. számú mellékletében meghatározott kamatjövedelem kifizetője, illetve az ezzel összefüggésben adatszolgáltatásra kötelezett más személy a 7. számú melléklet szerinti módon és tartalommal adatot szolgáltat az állami adó- és vámhatósághoz.
+(12)
 
 (12a) A nyugdíjat folyósító szerv az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény 19/A. § (2) bekezdés d) pontjában meghatározott jövedelemkategóriát érintő automatikus információcsere teljesítése érdekében a rendelkezésre álló azonosító adatok alapján az Európai Unió más tagállamában illetőséggel rendelkező személy részére kifizetett nyugellátás adóévi összegéről az adóévet követő év január 31-ig az adózó azonosításához rendelkezésre álló adatok feltüntetésével elektronikus úton adatot szolgáltat az állami adó- és vámhatóságnak.
 
@@ -5347,9 +5346,9 @@ a kifizetést követő hó 12-éig
 
 fizeti meg. A kifizető állapítja meg, vallja be és fizeti meg a külföldi illetőségű magánszemélyt terhelő adót, ha a kifizetés, juttatás nem pénzben történt. Ilyenkor a kifizető a megfizetett adót könyveiben a külföldi személlyel szembeni követelésként mutatja ki.
 
-A nemzetközi egyezmény szerinti adót vonja le a kifizető, ha a kifizetés időpontjáig a külföldi illetőségű magánszemély, illetőleg a képviseletében eljáró személy az e melléklet szerinti igazolásokat és nyilatkozatokat csatolja.
+A nemzetközi egyezmény szerinti adót vonja le a kifizető, ha a kifizetés időpontjáig a külföldi illetőségű magánszemély, illetőleg a képviseletében eljáró személy az e melléklet szerinti igazolásokat és nyilatkozatokat csatolja, illetve az illetőséget az e melléklet 7. pont szerint megállapította.
 
-3. Nem kell az adót levonni, bevallani és megfizetni, ha nemzetközi egyezmény szerint a bevétel nem adóztatható belföldön, és a külföldi illetőségű magánszemély illetőségét igazolja.
+3. Nem kell az adót levonni, bevallani és megfizetni, ha nemzetközi egyezmény szerint a bevétel nem adóztatható belföldön, és a külföldi illetőségű magánszemély illetőségét igazolja, vagy a kifizető az illetőségét az e melléklet 7. pont szerint megállapította..
 
 4.
 
@@ -5357,7 +5356,7 @@ A nemzetközi egyezmény szerinti adót vonja le a kifizető, ha a kifizetés id
 
 6. Az adó-visszatérítésre irányuló eljárásban a külföldi illetőségű magánszemélyt az adóhatóság előtti képviseleti jogosultságát igazoló letétkezelő, a kifizető részvénykönyvébe az osztalékfizetés időpontjában részvényesi meghatalmazottként bejegyzett személy is képviselheti. A letétkezelő, illetőleg a részvényesi meghatalmazott az erre jogosult személynek a képviseletre további meghatalmazást, megbízást adhat.
 
-7. A külföldi illetőség igazolására a külföldi adóhatóság – az adómentességhez való jogosultság igazolására a nemzetközi szervezet – által kiállított okirat angol nyelvű példánya, magyar nyelvű szakfordítása, vagy ezek egyikéről készült másolat szolgál (a továbbiakban: illetőségigazolás). Az illetőséget adóévenként akkor is igazolni kell, ha az illetőség a korábban benyújtott illetőségigazolás óta nem változott. A külföldi illetőségű magánszemély az illetőségigazolást az adóévben történt első kifizetés időpontját, illetősége változása esetén a változást követő első kifizetés időpontját megelőzően adja át. Amennyiben a külföldi illetőségű magánszemély a kifizetés időpontjáig nem tudja igazolni illetőségét, a kifizető az illetőségről írásbeli nyilatkozatát is elfogadhatja. Ha a külföldi illetőségű magánszemély az illetőségigazolást az adóbevallás benyújtásáig nem mutatja be, a kifizetéskor le nem vont (a juttatást követően meg nem fizetett) adót a kifizetőnek az adóév utolsó hónapját érintő kötelezettségként kell bevallania és megfizetnie. A bevallás benyújtását követően bemutatott illetőségigazolás alapján a kifizető az elévülési időn belül önellenőrzéssel helyesbíthet. A kifizető a nyilatkozatot és az illetőségigazolást megőrzi. Amennyiben hazai befektetési szolgáltató szolgáltatását határon átnyúló szolgáltatásként nyújtja, a külföldi illetőség igazolásaként elfogadhatja a szolgáltatást igénybe vevő személyazonosítására alkalmas okiratát, melyből a szolgáltatást igénybe vevő állampolgársága megállapítható és az adott személy illetőségére vonatkozó teljes bizonyító erejű nyilatkozatát.
+7. A külföldi illetőség igazolására a külföldi adóhatóság – az adómentességhez való jogosultság igazolására a nemzetközi szervezet – által kiállított okirat angol nyelvű példánya, magyar nyelvű szakfordítása, vagy ezek egyikéről készült másolat szolgál (a továbbiakban: illetőségigazolás). Az illetőséget adóévenként akkor is igazolni kell, ha az illetőség a korábban benyújtott illetőségigazolás óta nem változott. A külföldi illetőségű magánszemély az illetőségigazolást az adóévben történt első kifizetés időpontját, illetősége változása esetén a változást követő első kifizetés időpontját megelőzően adja át. Amennyiben a külföldi illetőségű magánszemély a kifizetés időpontjáig nem tudja igazolni illetőségét, a kifizető az illetőségről írásbeli nyilatkozatát is elfogadhatja. Ha a külföldi illetőségű magánszemély az illetőségigazolást az adóbevallás benyújtásáig nem mutatja be, a kifizetéskor le nem vont (a juttatást követően meg nem fizetett) adót a kifizetőnek az adóév utolsó hónapját érintő kötelezettségként kell bevallania és megfizetnie. A bevallás benyújtását követően bemutatott illetőségigazolás alapján a kifizető az elévülési időn belül önellenőrzéssel helyesbíthet. A kifizető a nyilatkozatot és az illetőségigazolást megőrzi. Amennyiben hazai befektetési szolgáltató szolgáltatását határon átnyúló szolgáltatásként nyújtja, a külföldi illetőség igazolásaként elfogadhatja a szolgáltatást igénybe vevő személyazonosítására alkalmas okiratát, melyből a szolgáltatást igénybe vevő állampolgársága megállapítható és az adott személy illetőségére vonatkozó teljes bizonyító erejű nyilatkozatát. Ha a kifizető az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény (a továbbiakban: Aktv.) 43/H. §-ában meghatározott adatszolgáltatási kötelezettség alanyának minősülő Jelentő Magyar Pénzügyi Intézmény, akkor a külföldi magánszemély illetőségének megállapításakor az Aktv. 1. melléklet II–IV. és VII. pontjában meghatározott átvilágítási szabályok alkalmazásával megállapított illetőséget veszi figyelembe. Ha a Jelentő Magyar Pénzügyi Intézmény a vizsgálat eredményeként azt állapítja meg, hogy a magánszemélynek több tagállamban, más államban, vagy más joghatósággal rendelkező területen van illetősége, a külföldi illetőség igazolására az illetőségigazolás szolgál.
 
 8. A külföldi illetőségű magánszemély a kifizetést megelőzően, szakfordítással ellátott okiratban nyilatkozik arról, hogy a kifizetés tekintetében haszonhúzónak minősül-e, ha az alkalmazandó kettős adózás elkerülésére kötött egyezmény szerint e körülmény az adókötelezettséget befolyásolja. A letétkezelő az adóért vállalt korlátlan és egyetemleges felelőssége mellett nyilatkozhat a kifizető részére arról, hogy a külföldi illetőségű magánszemély a kifizetés tekintetében haszonhúzónak minősül-e. A nyilatkozat az ugyanazon szerződés alapján, ugyanazon jogcímen a naptári évben kifizetett összegre terjed ki a körülmények megváltozásáig. A kifizető az adó összegét helyesbíti, amennyiben a külföldi illetőségű magánszemély a nyilatkozatot a kifizetést követően, de a kifizető bevallását megelőzően teszi meg. Ebben az esetben a kifizető bevallásában a haszonhúzói nyilatkozatra tekintettel megállapított kötelezettséget tünteti fel, a különbözetet megfizeti vagy visszaigényli, valamint a külföldi illetőségű magánszeméllyel elszámol a különbözetről. Ugyanígy kell eljárni akkor is, ha a külföldi illetőségű magánszemély a bevallást megelőzően korábbi nyilatkozatát helyesbíti. A bevallás benyújtását követően megtett nyilatkozat alapján a kifizető bevallását az elévülési időn belül önellenőrzéssel helyesbítheti. A kifizető a nyilatkozatot megőrzi.
 
@@ -5443,83 +5442,9 @@ c) A vállalkozó a megfizetett adóelőleg és az adóévre megállapított té
 
 Adatszolgáltatás a kamatjövedelemről
 
-1. A kifizető az adóévet követő év január 31-ig elektronikus úton az állami adó- és vámhatósághoz adatot szolgáltat
+1–17.
 
-a) saját cégnevéről (elnevezéséről), székhelyéről (telephelyéről),
-
-b) a haszonhúzó nevéről, állandó lakóhelyéről, ennek hiányában szokásos tartózkodási helyéről, ha az állandó lakóhely, ennek hiányában a szokásos tartózkodási hely nem állapítható meg, akkor a haszonhúzó útlevelét, személyazonosító igazolványát vagy személyazonosságának megállapítására alkalmas egyéb iratát kiállító tagállamról, ha rendelkezésre áll, az illetősége szerinti tagállamban megállapított adóazonosító számáról, ennek hiányában születési helyéről, idejéről,
-
-c) a haszonhúzó fizetési számlaszámáról, ennek hiányában a kamatkifizetés jogalapjáról, továbbá
-
-d) a kifizetett kamat összegéről az alábbiak szerint
-
-da) a 4. a) pontban meghatározott kifizetett vagy jóváírt kamat esetén a kamat összegéről,
-
-db) a 4. b) és d) pontban meghatározott kamat esetében a kamatjövedelem összegéről, ha ez nem állapítható meg, akkor a jövedelem teljes összegéről, ennek hiányában az átruházásból, beváltásból vagy visszavásárlásból származó bevétel összegéről,
-
-dc) a 4. c) pont esetén a befektetési alapkezelőkről és a kollektív befektetési formákról szóló 2011. évi ???. törvényben (Batv.) meghatározott ÁÉKBV, a 3. pont szerinti igazolás alapján ÁÉKBV-nek minősülő szervezet vagy az Európai Közösségen kívüli kollektív befektetési forma által közvetlenül, vagy a 3. pontban meghatározott szervezeten keresztül közvetve juttatott kamatjövedelem összegéről,
-
-dd) az 5. pont szerinti kamatjövedelem esetén a 3. pontban meghatározott szervezet azon tagjaihoz rendelhető kamat összegéről, amely tagok más tagállamban bírnak illetőséggel és haszonhúzónak minősülnek.
-
-2. E melléklet alkalmazásában kifizető az a gazdasági tevékenységet folytató jogi személy vagy egyéb szervezet, amely az Európai Közösség más tagállamában illetőséggel bíró haszonhúzónak közvetlenül kamatot fizet vagy jóváír.
-
-3. Adatszolgáltatásra kötelezett továbbá az a gazdasági tevékenységet folytató jogi személy, jogi személyiséggel nem rendelkező egyéb szervezet, amely bármely más közösségi tagállamban illetőséggel bíró szervezet útján a szervezet haszonhúzónak minősülő tagjainak juttat kamatjövedelmet. Az adatszolgáltatásra kötelezett az adóévet követő év március 20-ig elektronikus úton közli az állami adó- és vámhatósággal a szervezet nevét, címét és a részére kifizetett kamat összegét, kivéve, ha az hitelt érdemlően igazolja, hogy jogi személy, vagy az illetősége szerinti tagállamban a társasági adó alanya vagy ÁÉKBV-ként működik, illetve az illetősége szerinti tagállam hatósága által kiállított igazolás alapján ilyen alapnak minősül. E pont alkalmazásában nem minősül jogi személynek
-
-a) Finnországban: avion yhtiö (Ay) és kommandiittiyhtiö (Ky), valamint öppet bolag és kommanditbolag, illetőleg
-
-b) Svédországban: handelsbolag (HB) és kommanditbolag (KB).
-
-4. E melléklet alkalmazásában kamatnak minősül
-
-a) bármely követeléshez kapcsolódó jóváírt vagy kifizetett kamat – különösen az állampapírból, kötvényből, adósságlevélből származó kamat, az ezekhez kapcsolódó prémiumok és jutalmak –, kivéve a késedelmes teljesítéshez kapcsolódó kamat,
-
-b) az a) pontban meghatározott követelés átruházásakor, beváltásakor vagy visszavásárlásakor felhalmozódott vagy tőkésített kamat,
-
-c) az ÁÉKBV, a 3. pont szerinti igazolás alapján ÁÉKBV-nek minősülő szervezet, és az Európai Közösségen kívüli kollektív befektetési forma által közvetlenül, vagy a 3. pontban meghatározott szervezeten keresztül közvetve teljesített kamatkifizetés,
-
-d) az ÁÉKBV, a 3. pont szerinti igazolás alapján ÁÉKBV-nek minősülő szervezet vagy az Európai Közösségen kívüli kollektív befektetési forma részesedésének átruházásából, beváltásából vagy visszavásárlásából származó jövedelem, feltéve, ha ezen szervezetek közvetlenül vagy közvetetten ÁÉKBV-n, ilyennek minősülő szervezeten, vagy Európai Közösségen kívüli kollektív befektetési formán keresztül vagyonuk (eszközeik) több mint 40%-át az a) pontban meghatározott követelésekbe fektetik; ennek a jövedelemnek azon része minősül kamatjövedelemnek, amely megfelel az a) vagy b) pont szerinti közvetlen vagy közvetett úton szerzett kamatnak.
-
-5. Kamatjövedelemnek minősül az az összeg is, amelyet a 3. pont szerinti adatszolgáltatásra kötelezett a 3. pontban meghatározott szervezetnek juttat.
-
-6. Ha a kifizető a 4. d) pontban meghatározott követelésbe fektetett eszközök arányát nem tudja meghatározni, akkor az arány 40%-ot meghaladónak minősül.
-
-7. Amennyiben a kifizető nem tudja megállapítani a 4. c)–d) pontok szerinti kamatjövedelmet, akkor a jövedelem teljes összege kamatnak minősül. Ha a kifizető a haszonhúzó által elért jövedelmet sem tudja meghatározni, akkor a jövedelem megfelel a részesedések átruházásából, beváltásából vagy visszavásárlásából származó bevételnek.
-
-8. A 4. d) pontban említett arány meghatározásánál az alapszabályban vagy alapító okiratban meghatározott befektetési politika, ennek hiányában a szervezet vagyonának összetétele az irányadó.
-
-9. A 4. d), valamint a 6. pontban rögzített arány 2011. január 1-jétől 25%.
-
-10. E melléklet alapján haszonhúzónak minősül az a más tagállamban illetőséggel bíró magánszemély, akinek kamatot fizetnek vagy jóváírnak. Nem minősül haszonhúzónak az a magánszemély, aki igazolja, hogy a kamatot nem javára fizették ki, illetve írták jóvá, azaz
-
-a) kifizetőként jár el,
-
-b) jogi személy, az illetősége szerinti tagállam joga alapján a társasági adó alanya, ÁÉKBV-nek minősülő szervezet, vagy a 3. pontban meghatározott szervezet képviseletében jár el, feltéve, ha ez utóbbi esetben közli a részére kamatot juttató vagy jóváíró személlyel ezen szervezet nevét, címét és erről a kamatot juttató vagy jóváíró személy (adatszolgáltatásra kötelezett) adatot szolgáltat az állami adó- és vámhatóságnak,
-
-c) a haszonhúzó képviseletében jár el és annak nevéről és címéről a kifizető részére adatot szolgáltat.
-
-11. A kifizető köteles minden tőle elvárható intézkedést megtenni a haszonhúzó 12. pont szerinti azonosítása érdekében, ha a haszonhúzó helyett és nevében képviselője jár el, és erről a kifizető tudomással bír. Amennyiben a kifizető a haszonhúzót nem tudja azonosítani, akkor a képviselőként eljáró magánszemély minősül haszonhúzónak.
-
-12. A kifizető a haszonhúzó azonosítását
-
-a) a 2004. január 1-je előtt létrejött vagy teljesült, kamatkifizetést megalapozó szerződéses jogviszony, illetve egyéb ügylet esetén név, állandó lakóhely, szokásos tartózkodási hely feltüntetésével a pénzmosás megelőzéséről és megakadályozásáról szóló 2003. évi XV. törvény, valamint a hatályos jogszabályok alapján egyébként rendelkezésre álló adatok alapján végzi, illetve
-
-b) a 2004. január 1-jén, illetve azt követően létrejött vagy teljesült szerződéses jogviszony vagy egyéb ügylet esetén az a) pontban meghatározottakon túl, az illetősége szerinti tagállamban megállapított adóazonosító szám feltüntetésével a haszonhúzó által bemutatott útlevél vagy személyazonosító igazolvány alapján végzi. Amennyiben az állandó lakóhelyet vagy a szokásos tartózkodási helyet az útlevél vagy a személyazonosító igazolvány nem tartalmazza, a haszonhúzó állandó lakóhelyét, szokásos tartózkodási helyét egyéb okirat hiteles magyar nyelvű fordítása alapján kell megállapítani. Ha az adóazonosító számot az útlevél, a személyazonosító igazolvány vagy egyéb okirat – ideértve az illetőségigazolást – nem tartalmazza, akkor az azonosítási adatok között az útlevél vagy a személyazonosító igazolvány szerinti születési helyet és időt fel kell tüntetni.
-
-13. A haszonhúzó illetőségét állandó lakóhelye, ennek hiányában szokásos tartózkodási helye határozza meg. Ha tagállami hatóság által kibocsátott útlevéllel vagy személyazonosító igazolvánnyal rendelkező haszonhúzó állandó lakóhelye vagy ennek hiányában szokásos tartózkodási helye nem állapítható meg vagy állítása szerint az Európai Közösség egyik tagállamában sem bír illetőséggel, akkor a kifizető az illetőséget a hitelesen magyarra fordított illetőségigazolás alapján állapítja meg. Illetőségigazolás hiányában a haszonhúzó illetősége szerinti országnak az útlevelét, személyazonosító igazolványát vagy személyazonosságának megállapítására alkalmas egyéb iratát kiállító tagállam minősül.
-
-14. A melléklet alkalmazásában átmeneti időszaknak minősül a 2005. július 1-je és a 2010. december 31-e közötti időszak. Az adatszolgáltatási kötelezettséget első alkalommal 2006. március 20. napjáig kell teljesíteni a 2005. június 30-át követően keletkezett kamatjövedelmekről. Ha a 2005. június 30. napját követő kamatkifizetés, jóváírás 2005. július 1-jét megelőzően keletkezett kamatjövedelmet is tartalmaz, az adatszolgáltatásban csak a 2005. június 30-át követően keletkezett kamat-jövedelemrészt kell feltüntetni.
-
-15. Az állami adó- és vámhatóság az átmeneti időszak alatt a forrásadót alkalmazó tagállamokból a levont forrásadóból átutalt 75% adó fogadására euró devizanemben vezetett számlát nyit. A jóváírást követő 30 napon belül az adóhatóság az átutalt adót 25%-kal kiegészített összegben a jóváírás napján érvényes MNB által közzétett hivatalos devizaárfolyamon forintra átszámítva a haszonhúzó adószámláján jóváírja, feltéve, hogy az átutalást teljesítő illetékes tagállami hatóság az adózó azonosítására, illetve a levonás tényének és összegének megállapítására alkalmas adatokat közöl, vagy ezt a magánszemély más megfelelő módon hitelt érdemlően, hitelesen magyarra fordított okirattal igazolja. Az előző rendelkezésektől eltérően, a 2006. szeptember 1. napját követően megszerzett, belföldön adóköteles kamatjövedelem esetén a forrásadót alkalmazó tagállamból átutalt forrásadó elszámolása az adózó kérelmére történik. Az adózó kérelméhez csatolja az adózó azonosítására, a levonás tényének, összegének, a kamatjövedelem jogcímének és a kamatjövedelem megszerzése időpontjának megállapításához szükséges okiratok hiteles magyar fordítását. Az állami adó- és vámhatóság az adózó kérelmét abban az esetben teljesíti, ha az adózó a belföldön adóköteles kamatjövedelemről bevallási és adófizetési kötelezettségét teljesítette.
-
-16. Azok a kötvények, továbbá egyéb forgatható, hitelviszonyt megtestesítő értékpapírok, amelyeket 2001. február 28-ig bocsátottak ki, vagy amelyek kibocsátási tájékoztatóját a Pénzügyi Szervezetek Állami Felügyelete, a tagállamok, illetve harmadik országok illetékes hatósága ezen időpontig jóváhagyta, feltéve, hogy ilyen értékpapírok további kibocsátására 2002. február 28. után nem került sor, az átmeneti időszakban nem minősülnek a melléklet 4. a) pontja szerinti követelésnek.
-
-17. Amennyiben törvény az átmeneti időszakot meghosszabbítja, akkor a meghosszabbítás tartama alatt azok a forgatható, hitelviszonyt megtestesítő értékpapírok nem minősülnek a melléklet 4. a) pontja szerinti követelésnek, amelyek
-
-a) bruttósításra, illetve lejárat előtti visszavásárlásra vonatkozó záradékot tartalmaznak, és
-
-b) a kifizető forrásadót alkalmazó tagállamban bír illetőséggel és az értékpapírból származó kamatot más tagállamban illetőséggel bíró haszonhúzó részére fizeti ki vagy jóváírja.
-
-18. Az állami adó- és vámhatóság kormányrendeletben kijelölt szerve a kifizetőtől, illetve az ezzel összefüggésben adatot szolgáltató más személytől beérkező adóadatot a haszonhúzó illetősége szerinti tagállam illetékes hatóságának az adóévet követő év június 20. napjáig továbbítja.
+18.
 
 19. Az állami adó- és vámhatóság a forrásadót alkalmazó tagállamokból a levont forrásadóból átutalt 75% adó fogadására euró devizanemben vezetett számlát nyit. A jóváírást követő 30 napon belül az adóhatóság az átutalt adót 25%-kal kiegészített összegben a jóváírás napján érvényes MNB által közzétett hivatalos devizaárfolyamon forintra átszámítva a haszonhúzó adószámláján jóváírja, feltéve, hogy az átutalást teljesítő illetékes tagállami hatóság az adózó azonosítására, illetve a levonás tényének és összegének megállapítására alkalmas adatokat közöl, vagy ezt a magánszemély más megfelelő módon hitelt érdemlően, hitelesen magyarra fordított okirattal igazolja. Az előző rendelkezésektől eltérően, a belföldön adóköteles kamatjövedelem esetén a forrásadót alkalmazó tagállamból átutalt forrásadó elszámolása az adózó kérelmére történik. Az adózó kérelméhez csatolja az adózó azonosítására, a levonás tényének, összegének, a kamatjövedelem jogcímének és a kamatjövedelem megszerzése időpontjának megállapításához szükséges okiratok hiteles magyar fordítását. Az állami adó- és vámhatóság az adózó kérelmét abban az esetben teljesíti, ha az adózó a belföldön adóköteles kamatjövedelemről bevallási és adófizetési kötelezettségét teljesítette.
 

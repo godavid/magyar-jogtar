@@ -157,6 +157,8 @@ az állami adóhatóságtól – a 9. § (1), (4) és (5) bekezdése szerinti el
 
 (5) Az a hozzájárulásra kötelezett, aki az 5. § a) pont ab) alpontja szerint kötött tanulószerződés alapján gyakorlati képzés szervezésével teljesíti hozzájárulási kötelezettségét és csak részben rendelkezik a szakképzésről szóló törvényben meghatározott és a tanulószerződésben rögzített, a gyakorlati képzés teljesítéséhez szükséges feltételekkel, megállapodást köthet egy másik, gyakorlati képzés folytatására jogosult szervezettel vagy szakképző intézménnyel (a továbbiakban együtt: teljesítési megbízott), akihez gyakorlati képzésre átirányíthatja a tanulószerződéses tanulóját. Az átirányítás időtartama a tanulószerződésben meghatározott gyakorlati képzési idő legfeljebb 50%-a lehet, azzal, hogy a teljesítési megbízott a gyakorlati képzéssel kapcsolatosan költségei fedezetére díjat jogosult felszámítani a hozzájárulásra kötelezettel szemben. A teljesítési megbízott az általa végzett gyakorlati képzésre vonatkozóan nem érvényesítheti az (1) és (1a) bekezdésben foglaltakat.
 
+(5a) Az (5) bekezdéstől eltérően amennyiben a szakképzésről szóló törvény 8. § (6) bekezdése alapján a gyakorlati képzés egy része iskolai tanműhelyben valósul meg, az 5. § a) pont ab) alpontja szerint gyakorlati képzés szervezésével teljesítő hozzájárulásra kötelezettnek a gyakorlati képzés ezen részére a tanulószerződéses tanulója átirányítása érdekében a szakképző intézménnyel teljesítési megbízottként megállapodást kell kötnie. Az e megállapodás alapján megvalósuló átirányítás időtartama nem számít bele az (5) bekezdésben az átirányítás időtartamára meghatározott időtartamba azzal, hogy a teljesítési megbízottat a gyakorlati képzés költségeinek a szakképzési hozzájárulás terhére történő elszámolásánál figyelembe vehető gyakorlati képzési normatívák mértékéről és a csökkentő tétel számításáról szóló, e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott normatíva alapján számított összeg – a hozzájárulásra kötelezett által a tanulónak ezen időszakra is fizetett juttatással csökkentett – arányos része illeti meg.
+
 (6) Az átirányítással megvalósuló gyakorlati képzésre vonatkozó megállapodás tartalmazza:
 
 - a) a hozzájárulásra kötelezett és a teljesítési megbízott (a továbbiakban együtt: együttműködési megállapodást kötő felek)
@@ -171,7 +173,7 @@ az állami adóhatóságtól – a 9. § (1), (4) és (5) bekezdése szerinti el
 - d) a gyakorlati képzés tárgyi feltételrendszerének leírását, e feltételek biztosítását az együttműködési megállapodást kötő felek részéről,
 - e) az együttműködési megállapodást kötő feleknek a gyakorlati képzés végrehajtásával kapcsolatos jogait és kötelezettségeit,
 - f) a gyakorlati képzésre átirányított tanulókat a szakképzésről szóló törvény szerint megillető természetbeni juttatások biztosításának a rendjét, a tanuló felelősségbiztosításának a költségviselőjét,
-- g) a gyakorlati képzéssel összefüggésben a teljesítési megbízottat megillető díjazást,
+- g) a gyakorlati képzéssel összefüggésben a teljesítési megbízottat megillető díjazást vagy az (5a) bekezdésben meghatározott összeget,
 - h) a gyakorlati képzés időtartama alatt a tanuló felügyeletéről gondoskodni köteles személy megnevezését,
 - i) a gyakorlati képzés helyszínét.
 

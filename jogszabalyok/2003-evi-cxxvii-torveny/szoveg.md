@@ -1436,10 +1436,18 @@ minősül.
 
 52. § (1) Az adó mértéke – figyelemmel a (3)–(4) bekezdés rendelkezéseire is –:
 
-- a) a 2710 11 31, a 2710 11 41, a 2710 11 45 és a 2710 11 49 vámtarifaszám alatti ólmozatlan benzinre 120 000 Ft/ezer liter,
-- b) a 2710 11 31, a 2710 11 51 és a 2710 11 59 vámtarifaszám alatti ólmozott benzinre és a 2710 19 21 vámtarifaszám alatti petróleumra 124 200 Ft/ezer liter,
-- c) a 2710 19 41, a 2710 19 45, a 2710 19 49 vámtarifaszám alatti, tüzelő-, fűtőanyag célú gázolajra 110 350 Ft/ezer liter,
-- d) a 2710 19 41 vámtarifaszám alatti, üzemanyag célú gázolajra 110 350 Ft/ezer liter,
+- a) a 2710 11 31, a 2710 11 41, a 2710 11 45 és a 2710 11 49 vámtarifaszám alatti ólmozatlan benzinre
+  - aa) ha a kőolaj (9) bekezdés szerinti világpiaci ára az 50 amerikai dollár (a továbbiakban: USD)/hordó értéket meghaladja, 120 000 Ft/ezer liter,
+  - ab) ha a kőolaj (9) bekezdés szerinti világpiaci ára nem haladja meg az 50 USD/hordó értéket, 125 000 Ft/ezer liter,
+- b) a 2710 11 31, a 2710 11 51 és a 2710 11 59 vámtarifaszám alatti ólmozott benzinre és a 2710 19 21 vámtarifaszám alatti petróleumra
+  - ba) ha a kőolaj (9) bekezdés szerinti világpiaci ára meghaladja az 50 USD/hordó értéket, 124 200 Ft/ezer liter,
+  - bb) ha a kőolaj (9) bekezdés szerinti világpiaci ára nem haladja meg az 50 USD/hordó értéket, 129 200 Ft/ezer liter,
+- c) a 2710 19 41, a 2710 19 45, a 2710 19 49 vámtarifaszám alatti, tüzelő-, fűtőanyag célú gázolajra
+  - ca) ha a kőolaj (9) bekezdés szerinti világpiaci ára meghaladja az 50 USD/hordó értéket, 110 350 Ft/ezer liter,
+  - cb) ha a kőolaj (9) bekezdés szerinti világpiaci ára nem haladja meg az 50 USD/hordó értéket, 120 350 Ft/ezer liter,
+- d) a 2710 19 41 vámtarifaszám alatti, üzemanyag célú gázolajra
+  - da) ha a kőolaj (9) bekezdés szerinti világpiaci ára meghaladja az 50 USD/hordó értéket, 110 350 Ft/ezer liter,
+  - db) ha a kőolaj (9) bekezdés szerinti világpiaci ára nem haladja meg az 50 USD/hordó értéket, 120 350 Ft/ezer liter,
 - e) a 2710 19 61 vámtarifaszámú fűtőolajok közül azokra, amelyek viszkozitása 40 °C hőmérsékleten nagyobb, mint 4,5 mm2/s és a desztillációs vizsgálatnál a 250 °C hőmérsékletig átdesztilláló rész mennyisége nem haladja meg a 25%-ot és a 350 °C hőmérsékletig átdesztilláló rész mennyisége nem haladja meg a 80%-ot és 15 °C-on mért sűrűsége nagyobb 860 kg/m3-nél, 4 655 Ft/ezer kg, egyébként – ideértve az üzemanyagkénti kínálást, felhasználást, értékesítést is – 116 000 Ft/ezer kg; a 2710 19 63, a 2710 19 65 és a 2710 19 69 vámtarifaszám alá tartozó fűtőolajok közül azokra, amelyek viszkozitása 40 °C hőmérsékleten nagyobb, mint 4,5 mm2/s és a desztillációs vizsgálatnál a 250 °C hőmérsékletig átdesztilláló rész mennyisége nem haladja meg a 25%-ot és a 350 °C hőmérsékletig átdesztilláló rész mennyisége nem haladja meg a 80%-ot és 15 °C-on mért sűrűsége nagyobb 860 kg/m3-nél, 40 000 Ft/ezer kg, egyébként – ideértve az üzemanyagkénti kínálást, felhasználást, értékesítést is – 116 000 Ft/ezer kg,
 - f) a 2711 12, a 2711 13, a 2711 14 00, a 2711 19 00 vámtarifaszám alatti gáztermékekből arra a cseppfolyósított szénhidrogénre, amelyet közúti járművek üzemanyagaként értékesítenek, importálnak vagy használnak fel, 95 800 Ft/ezer kg, egyéb motorikus célú értékesítés, importálás vagy felhasználás esetén 12 725 Ft/ezer kg, egyébként 0 Ft/ezer kg,
 - g) a 2711 21 00 és a 2711 29 00 vámtarifaszám alatti gáztermékekből arra a sűrített gáz halmazállapotú szénhidrogénre, amelyet közúti járművek üzemanyagaként értékesítenek, importálnak vagy használnak fel, 28 Ft/nm3,
@@ -1466,6 +1474,8 @@ minősül.
 (7) Az adó mértéke az E85 esetében – a (2) bekezdés b) pontjától eltérően – az (1) bekezdés a) pont szerinti adómérték, amennyiben az E85-öt olyan adóraktár-engedélyes bocsátja szabadforgalomba, aki állami támogatásban részesült és az (1) bekezdés a) pont szerinti adómérték, valamint a (2) bekezdés b) pont szerinti adómérték különbségének és az (1) bekezdés a) pont szerinti adómérték alkalmazásával szabadforgalomba bocsátott E85 mennyiségének szorzata nem éri el a kapott állami támogatás összegét.
 
 (8) Az E85-öt szabadforgalomba bocsátó adóraktár-engedélyes külön jogszabály szerint nyilatkozik arról, hogy részesült-e állami támogatásban.
+
+(9) Az (1) bekezdés a)–d) pontja szerinti, január 1-jétől, április 1-jétől, július 1-jétől, illetve október 1-jétől érvényes adómértékek megállapítása a Platts Crude Oil Marketwire – tárgynegyedévet megelőző negyedév első hónapjának első napja és utolsó hónapjának 15. napja közötti időszakra vonatkozó – Brent (Dated) napi jegyzései Mid értékeinek és a tárgynegyedévet megelőző negyedév első hónapjának első napja és utolsó hónapjának 15. napja közötti időszak egyes napjaitól számított mindenkori harmadik havi szállítású Brent napi jegyzések Mid értékeinek számtani átlaga alapján történik. Az így meghatározott átlagos árat az állami adó- és vámhatóság internetes honlapján a tárgynegyedévet megelőző hónap 15. napját követő 5. munkanapig közzéteszi.
 
 ### Adómentes felhasználás
 
@@ -1580,10 +1590,10 @@ ténylegesen felhasznált, adózottan beszerzett 2710 11 31 vámtarifaszámú re
 
 57/C. § (1) A beszerzéskor megfizetett adóból
 
-- a) az üzemanyagtöltő-állomáson forgalmi rendszámra szóló üzemanyagkártyával megvásárolt,
+- a) az üzemanyagtöltő állomáson forgalmi rendszámra szóló üzemanyagkártyával megvásárolt,
 - b) a (2) bekezdés szerinti adó-visszaigénylésre jogosult magyarországi telephelyén üzemanyag-tárolásra rendszeresített – a tankolt mennyiséget rendszámonként, valamint a tankoló jármű kilométeróra állását rögzítő – üzemanyag-tankoló automatával ellátott üzemanyagtartályból elektronikus mérőeszközön keresztül betöltött
 
-kereskedelmi gázolaj után literenként 7 Ft visszaigényelhető.
+kereskedelmi gázolaj után az 52. § (1) bekezdés d) pont da) alpontja szerinti adómérték alkalmazása esetén literenként 7 Ft, az 52. § (1) bekezdés d) pont db) alpontja szerinti adómérték alkalmazása esetén literenként 17 Ft visszaigényelhető.
 
 (2) Az (1) bekezdés szerinti adó-visszaigénylésre – figyelemmel a (3) bekezdés rendelkezésére is – a 7. § 51. pontjában meghatározott gépjármű vagy nyerges járműszerelvény (a továbbiakban együtt: kereskedelmi jármű) vámhatóság által e célból nyilvántartásba vett üzembentartója, illetve – bérelt kereskedelmi jármű esetében – bérbe vevője jogosult. A jogosult a nyilvántartásba vétel iránti kérelmet az adóvisszaigénylési jogosultság első ízben történő érvényesítése előtt legalább 30 nappal köteles benyújtani a vámhatósághoz. A kérelemnek tartalmaznia kell a jogosult adószámát, valamint képviselője természetes személyazonosító adatait, személyazonosításra alkalmas okmányának számát. A jogosult a vámhatóság által nyilvántartásba vett adatok változását legkésőbb a változás bekövetkezésétől számított 10 napon belül köteles a vámhatósághoz bejelenteni.
 
@@ -2493,10 +2503,10 @@ kell tekinteni.
 
 (2) Az adó mértéke
 
-- a) a cigarettára 15 700 forint ezer darabonként és a kiskereskedelmi eladási ár 25 százaléka, de legalább 28 000 forint ezer darabonként,
-- b) a szivarra, a szivarkára a kiskereskedelmi eladási ár 14 százaléka, de legalább 4 000 forint ezer darabonként,
-- c) a finomra vágott fogyasztási dohányra 14 000 forint kilogrammonként,
-- d) az egyéb fogyasztási dohányra 14 000 forint kilogrammonként.
+- a) a cigarettára 15 700 forint ezer darabonként és a kiskereskedelmi eladási ár 25 százaléka, de legalább 28 400 forint ezer darabonként,
+- b) a szivarra, a szivarkára a kiskereskedelmi eladási ár 14 százaléka, de legalább 4 060 forint ezer darabonként,
+- c) a finomra vágott fogyasztási dohányra 15 100 forint kilogrammonként,
+- d) az egyéb fogyasztási dohányra 15 100 forint kilogrammonként.
 
 (3) A jövedéki adó megállapítása szempontjából a cigaretta darabszámát kétszerezni kell, ha annak hossza – füstszűrő és szopóka nélkül – meghaladja a 8 centimétert, de nem hosszabb, mint 11 centiméter, háromszorozni kell, ha annak hossza – füstszűrő és szopóka nélkül – meghaladja a 11 centimétert, de nem hosszabb, mint 14 centiméter, és így tovább.
 
@@ -3471,7 +3481,12 @@ határozatban állapítja meg az adót.
 
 129. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben határozza meg
 
-- a) a mezőgazdasági ágazatban a szántó, a kert, a gyümölcsös, a szőlő, a gyep, a halastó művelési ágban, valamint az erdőfelújításban felhasznált, de évente hektáronként legfeljebb 97 liter gázolaj jövedéki adója 82 százalékának a külön jogszabály szerint nyilvántartásba vett mezőgazdasági termelő részére történő visszatérítését, a visszatérítés feltételeit és szabályait,
+- a) a mezőgazdasági ágazatban a szántó, a kert, a gyümölcsös, a szőlő, a gyep, a halastó művelési ágban, valamint az erdőfelújításban felhasznált, de évente hektáronként legfeljebb 97 liter gázolaj jövedéki adója
+  - aa) az 52. § (1) bekezdés d) pont da) alpontja szerinti adómérték alkalmazása esetén 82 százalékának,
+  - ab) az 52. § (1) bekezdés d) pont db) alpontja szerinti adómérték alkalmazása esetén 83,5 százalékának
+
+a külön jogszabály szerint nyilvántartásba vett mezőgazdasági termelő részére történő visszatérítését, a visszatérítés feltételeit és szabályait,
+
 - b)
 - c) a központi kapcsolattartó szerv, a vegyvizsgáló szerv vagy szervek, valamint a csomagküldő kereskedő adóügyi képviselője nyilvántartásba vételét végző szerv kijelölését,
 - d) a szárított dohány, illetve fermentált dohány behozatalával, kivitelével, tárolásával illetve birtoklásával kapcsolatos e törvényben nem szabályozott követelményeket, illetve regisztrációs eljárás szabályait.

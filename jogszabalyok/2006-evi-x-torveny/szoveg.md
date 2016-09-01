@@ -49,15 +49,15 @@ a következő törvényt alkotja:
 
 (6) A gyakorlati képzéshez kapcsolódó, a felsőoktatási intézmény által meghatározott szakmai feltételeket az iskolaszövetkezet és a szolgáltatás fogadója együttesen biztosítja.
 
-(7) Az iskolaszövetkezet útján megszervezett gyakorlati képzés esetén a szakmai gyakorlatot – a szolgáltatás fogadója nyilatkozata alapján – az iskolaszövetkezet igazolhatja, feltéve, hogy a munkavégzés az iskolaszövetkezet hallgató tagjának felsőoktatási képzésben megszerzett elméleti ismereteinek felhasználását igényli, továbbá a szolgáltatás fogadója megfelel a szakmai gyakorlóhellyel, a munkavégzés tartalma pedig a szakmai gyakorlattal szemben jogszabály által támasztott követelményeknek.
+(7) Az iskolaszövetkezet útján megszervezett gyakorlati képzés esetén a szakmai gyakorlatot – a szolgáltatás fogadójának nyilatkozata alapján – az iskolaszövetkezet igazolhatja, feltéve, hogy a gyakorlati képzés az iskolaszövetkezet hallgató tagjának felsőoktatási képzésben megszerzett elméleti ismereteinek felhasználását igényli, továbbá a szolgáltatás fogadója megfelel a szakmai gyakorlóhellyel, a gyakorlati képzés tartalma pedig a szakmai gyakorlattal szemben jogszabály által támasztott követelményeknek.
 
 (8) Az iskolaszövetkezet a szolgáltatás fogadójával kötött megállapodást köteles az Oktatási Hivatalnak annak megkötésétől számított öt munkanapon belül megküldeni. Az Oktatási Hivatal a szakmai gyakorlattal kapcsolatos követelmények teljesülését a szolgáltatás fogadójánál is ellenőrizheti.
 
 (9) Az iskolaszövetkezet közhasznú jogállású lehet.
 
-8. § (1) Az iskolaszövetkezet alapításában és működésében nevelési-oktatási intézménynek tagként részt kell vennie. A nevelési-oktatási intézmény akkor lehet az iskolaszövetkezet tagja, ha ezt alapító okirata lehetővé teszi és a tagsághoz a nevelési-oktatási intézmény fenntartója hozzájárul.
+8. § (1) Az iskolaszövetkezet alapításában és működésében nevelési-oktatási intézménynek vagy felsőoktatási intézménynek tagként részt kell vennie.
 
-(2) Felsőoktatási intézmény is lehet iskolaszövetkezet tagja, ha a szenátus ezt támogatja, és a tagsághoz a felsőoktatási intézmény fenntartója hozzájárul.
+(2) A nevelési-oktatási intézmény akkor lehet az iskolaszövetkezet tagja, ha ezt alapító okirata lehetővé teszi és a tagsághoz a nevelési-oktatási intézmény fenntartója hozzájárul. Felsőoktatási intézmény akkor lehet iskolaszövetkezet tagja, ha a szenátus ezt támogatja, és a tagsághoz a felsőoktatási intézmény fenntartója hozzájárul.
 
 (3) Az iskolaszövetkezetnek a természetes személy tagjain kívül nevelési-oktatási intézmény és annak fenntartója, valamint felsőoktatási intézmény lehet a tagja.
 
@@ -65,9 +65,9 @@ a következő törvényt alkotja:
 
 (5) Az iskolaszövetkezetnek – a nevelési-oktatási intézményen és annak fenntartóján, valamint a felsőoktatási intézményen kívül – nem lehet személyes közreműködést nem vállaló tagja.
 
-9. § (1) Az iskolaszövetkezet felügyelő bizottságának egy-egy tagja az alapításában résztvevő nevelési-oktatási intézmény, továbbá a nevelési-oktatási intézmény fenntartója által delegált személy.
+9. § (1) Az iskolaszövetkezet felügyelő bizottságának egy-egy tagja az iskolaszövetkezet alapításában részt vevő, a 8. § (1) bekezdésében meghatározott intézmény, továbbá az intézmény fenntartója által delegált személy.
 
-(2) Az iskolaszövetkezet alapszabályának érvényességéhez a nevelési-oktatási intézmény fenntartójának jóváhagyása szükséges. Az iskolaszövetkezet alapszabályának jóváhagyása abban az esetben tagadható meg, ha az jogszabályba ütközik vagy ellentétes a nevelési-oktatási intézmény szervezeti és működési szabályzatában, illetve más belső szabályzatában foglaltakkal, továbbá, ha az iskolaszövetkezet tevékenysége veszélyezteti a nevelési-oktatási intézmény működését.
+(2) Az iskolaszövetkezet alapszabályának érvényességéhez a 8. § (1) bekezdésében meghatározott intézmény fenntartójának jóváhagyása szükséges. Az iskolaszövetkezet alapszabályának jóváhagyása abban az esetben tagadható meg, ha jogszabályba ütközik vagy ellentétes az intézmény szervezeti és működési szabályzatában, illetve más belső szabályzatában foglaltakkal, továbbá, ha az iskolaszövetkezet tevékenysége veszélyezteti az intézmény működését.
 
 10. § (1) Az iskolaszövetkezet közgyűlésére meg kell hívni a korlátozottan cselekvőképes kiskorú tag törvényes képviselőjét. A törvényes képviselő távolmaradása a közgyűlés határozatképességét nem érinti.
 
@@ -78,7 +78,39 @@ a következő törvényt alkotja:
 - a) az iskolaszövetkezet nevelési-oktatási intézmény tagjában működő iskolai szülői szervezet (közösség) és diákönkormányzat képviselője,
 - b) az iskolaszövetkezet felsőoktatási intézmény tagjában működő hallgatói önkormányzat képviselője.
 
-11. § (1) Ha az iskolaszövetkezet tagja a tizennyolcadik életévét még nem töltötte be, az iskolaszövetkezet üzletszerű gazdasági tevékenységében személyes közreműködésére – ideértve a munkaviszony, illetve a polgári jogi jogviszony keretében történő munkavégzés esetét is – csak a munka törvénykönyvéről szóló 2012. évi I. törvényben foglalt, valamint a fiatal munkavállalók munkajogi védelmére vonatkozó rendelkezések figyelembevételével kerülhet sor.
+10/A. § (1) Az iskolaszövetkezet és a tagja közötti gazdasági együttműködést, a személyes közreműködés módját – az alapszabály keretei között – a tagsági megállapodásban kell meghatározni.
+
+(2) A tagsági megállapodásnak tartalmaznia kell azokat a konkrét feladatokat, amelyek az iskolaszövetkezeti tag személyes közreműködése körébe tartoznak.
+
+10/B. § (1) Az iskolaszövetkezet nappali tagozatos tanuló, hallgató tagja személyes közreműködését az iskolaszövetkezet által harmadik személy részére nyújtott szolgáltatás (a továbbiakban: külső szolgáltatás) keretében is teljesítheti.
+
+(2) Az iskolaszövetkezet és az iskolaszövetkezet nappali tagozatos tanuló, hallgató tagja közötti külső szolgáltatásra vonatkozó tagsági megállapodásra a Ptk. megbízásra vonatkozó, valamint a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) e törvényben megjelölt szabályait kell megfelelően alkalmazni.
+
+(3) Az iskolaszövetkezet nappali tagozatos tanuló, hallgató tagja részére, ha a feladatteljesítés tartama a napi hat órát meghaladja, napi húsz, ha a napi kilenc órát meghaladja, további napi huszonöt perc munkaközi szünetet kell biztosítani. Az iskolaszövetkezet nappali tagozatos tanuló, hallgató tagja részére, ha két egymást követő napon végzi feladatát, a napi munka befejezése és a következő napi munka megkezdése között legalább tizenegy óra pihenőidőt kell biztosítani. Az Mt. szabadságra vonatkozó rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy munkában töltött időnek a külső szolgáltatás keretében végzett feladatteljesítés időtartama minősül, amelynek keretében minden tizenhárom feladatteljesítéssel töltött nap után egy nap szabadság jár.
+
+(4) A szolgáltatás fogadójánál történő feladatteljesítés tartamára járó, az egyes feladatokhoz kapcsolódó díjazásnak el kell érnie az Mt. 153. §-ában foglalt felhatalmazás alapján kiadott jogszabályban meghatározott minimális összeget.
+
+(5) A (2) bekezdésben foglalt megállapodásnak tartalmaznia kell
+
+- a) a tag által vállalt feladatok körét,
+- b) a tagnak a szolgáltatás fogadójánál történő feladatteljesítése tartamára járó, az egyes feladatokhoz kapcsolódó díjazások legkisebb összegét, valamint
+- c) az iskolaszövetkezet és a tag kapcsolattartásának módját a feladatteljesítéssel nem járó időtartamra.
+
+(6) A személyes közreműködés külső szolgáltatás keretében történő teljesítése megkezdésének feltétele, hogy az iskolaszövetkezet és a tag írásban megállapodjanak
+
+- a) a szolgáltatás fogadójának személyében,
+- b) a teljesítendő konkrét feladatban,
+- c) a tag díjazásának összegében és az összeg kifizetésének időpontjában,
+- d) a feladat teljesítésének helyében, valamint
+- e) a feladat teljesítésének tartamában.
+
+(7) A külső szolgáltatás teljesítésében résztvevő tag károkozása vagy személyiségi jog megsértése esetén az iskolaszövetkezet és a szolgáltatás fogadójának megállapodása alapján az alkalmazott károkozásáért való felelősség polgári jogi szabályait kell alkalmazni.
+
+(8) A szolgáltatás fogadója részére történő feladatteljesítés során a külső szolgáltatás teljesítésében résztvevő tagnak okozott kárért vagy személyiségi jogai megsértéséért az iskolaszövetkezet és a szolgáltatás fogadója egyetemlegesen felel.
+
+10/C. § A szolgáltatás fogadója együttműködik az iskolaszövetkezettel, így különösen biztosítja az iskolaszövetkezet képviselőjének a feladatteljesítés helyére történő belépést, tájékoztatja az iskolaszövetkezetet a feladatteljesítéssel kapcsolatos lényeges körülményekről.
+
+11. § (1) Ha az iskolaszövetkezet tagja a tizennyolcadik életévét még nem töltötte be, az iskolaszövetkezet üzletszerű gazdasági tevékenységében személyes közreműködésére – ideértve a munkaviszony, illetve a polgári jogi jogviszony keretében történő munkavégzés esetét is –, az Mt.-ben foglalt, a fiatal munkavállalók munkajogi védelmére vonatkozó rendelkezések figyelembevételével kerülhet sor.
 
 (2) Ha az iskolaszövetkezet üzletszerű gazdasági tevékenységében személyes közreműködésre munkaviszony, illetve polgári jogi jogviszony létrehozása nélkül kerül sor, az iskolaszövetkezet tizenhatodik életévét be nem töltött tagja csak olyan tevékenységet láthat el, amelyet a vele jogviszonyban álló nevelési-oktatási intézmény pedagógiai programja alapján a tanítási órák keretében is ellát, vagy amely kapcsolódik a nevelési-oktatási intézmény létesítményeinek rendeltetésszerű működésével összefüggő, a tanulói jogviszonyból származó kötelezettségeinek teljesítéséhez.
 
@@ -100,9 +132,19 @@ a következő törvényt alkotja:
 
 (3) Az iskolaszövetkezet egyesüléséről, szétválásáról, nem iskolaszövetkezetként való továbbműködéséről, jogutód nélküli megszűnéséről való döntéshez a nevelési-oktatási intézmény illetve a felsőoktatási intézmény hozzájárulása szükséges. A nevelési-oktatási intézmény illetve a felsőoktatási intézmény az iskolaszövetkezet ezen döntéseihez akkor járulhat hozzá, ha a döntés következtében a nevelési-oktatási intézmény illetve a felsőoktatási intézmény által az iskolaszövetkezetbe a 12. § szerint bevitt, illetve átengedett vagyon feletti rendelkezési jog továbbra is iskolaszövetkezetet illet meg, vagy az visszakerül az azt szolgáltatóhoz.
 
-(4) Az iskolaszövetkezet megszűnik, ha a nevelési-oktatási intézmény megszűnik, vagy a nevelési-oktatási intézmény kilép az iskolaszövetkezetből és a megszűnéstől vagy kilépéstől számított hat hónapon belül nem lép be tagként másik nevelési-oktatási intézmény.
+(4) Az iskolaszövetkezet megszűnik, ha a nevelési-oktatási intézmény, illetve felsőoktatási intézmény megszűnésével vagy kilépésével az iskolaszövetkezetnek nem marad a 8. § (1) bekezdése szerinti tagja, és a megszűnéstől vagy kilépéstől számított hat hónapon belül nem lép be tagként másik, a 8. § (1) bekezdése szerinti intézmény.
 
-13/A. § Az iskolaszövetkezet által nyújtott szolgáltatásokért minimális szolgáltatási díjat kell fizetni.
+13/A. § (1) Az iskolaszövetkezet által nyújtott szolgáltatásokért szolgáltatási díjat kell fizetni.
+
+(2) Az iskolaszövetkezet az éves nettó árbevételének legalább 85%-át a tagok között személyes közreműködésük arányában osztja fel.
+
+13/B. § (1) Az iskolaszövetkezet az adózott eredményének (nyereségének) legalább 10%-át oktatási, képzési célt szolgáló közösségi alapba köteles helyezni. Az iskolaszövetkezet oktatási, képzési célt szolgáló közösségi alapja fel nem osztható szövetkezeti vagyonnak minősül.
+
+(2) Az oktatási, képzési célt szolgáló közösségi alap felhasználása célhoz kötött, a szövetkezet tagjainak oktatását, képzését, továbbképzését fedezi.
+
+(3) Az iskolaszövetkezet jogutód nélküli megszűnése esetén – a hitelezőkkel való elszámolást követően – az oktatási, képzési célt szolgáló közösségi alapot az alapszabály rendelkezése szerinti iskolaszövetkezet vagy iskolaszövetkezeti szövetség részére kell átadni.
+
+(4) Az oktatási, képzési célt szolgáló közösségi alap terhére nyújtott szolgáltatás a nyereségből való részesedésként és a tagsági jogviszony megszűnéséhez kapcsolódó elszámolás során nem vehető figyelembe.
 
 #### 3. Szociális szövetkezet és foglalkoztatási szövetkezet
 
@@ -241,6 +283,16 @@ a következő törvényt alkotja:
 (4)
 
 108. § E törvénynek az egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2013. évi CCLII. törvénnyel (a továbbiakban: Ptk.htv.) megállapított rendelkezéseinek a Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő átmeneti és felhatalmazó rendelkezésekről szóló 2013. évi CLXXVII. törvényben (a továbbiakban: Ptké.) foglaltak szerint kell megfelelni azzal, hogy a Ptk.htv.-vel megállapított 15. § (3) bekezdésében foglalt korlátozást a Ptk. hatálybalépésekor a cégjegyzékbe bejegyzett, vagy a Ptké. szerint bejegyzés alatt álló szociális szövetkezet esetében nem kell alkalmazni, azonban a Ptk. rendelkezéseivel összhangban álló továbbműködés időpontját követően e szociális szövetkezet tagsága nem változtatható meg úgy, hogy a tagok számának aránya a 15. § (3) bekezdésében foglaltaktól – a változást megelőző állapothoz képest – nagyobb arányban térjen el.
+
+108/A. § (1) Az egyes iskolaszövetkezetekkel összefüggő törvények módosításáról szóló 2016. évi XLIX. törvény (a továbbiakban: Módtv.) hatálybalépésekor a cégjegyzékbe bejegyzett vagy bejegyzés alatt álló iskolaszövetkezet és ezen iskolaszövetkezet nappali tagozatos tanuló, hallgató tagja, aki a személyes közreműködését harmadik személy részére nyújtott szolgáltatás keretében teljesítette, a fennálló tagsági megállapodást a Módtv. rendelkezéseinek megfelelően 2016. december 31-ig módosítja.
+
+(2) A 10/B. § (2) bekezdésében foglalt megállapodás megkötésével egyidejűleg a Módtv. hatálybalépését megelőző napon hatályos Mt. 223. §-ában szabályozott munkaviszony megszűnik.
+
+(3) Amennyiben a felek az (1) bekezdésben meghatározott időpontig a tagsági megállapodást az (1) bekezdésben foglaltaknak megfelelően nem módosítják, a tagsági megállapodás, valamint a tagsági megállapodás keretében létrejött munkaviszony 2017. január 1-jén a törvény erejénél fogva megszűnik.
+
+(4) A munkaviszony megszűnése esetén az Mt. 80–81. §-a megfelelően alkalmazandó.
+
+(5) Az (1) bekezdés szerinti iskolaszövetkezet alapszabályának az (1) bekezdésben foglaltakhoz szükséges, valamint a Módtv.-vel módosított egyéb rendelkezéseknek való megfeleléshez szükséges módosítását 2016. december 31-ig köteles elvégezni. Az (1) bekezdés szerinti iskolaszövetkezetnek a Módtv.-vel módosított rendelkezéseknek az alapszabály-módosítás időpontjától, ennek hiányában 2017. január 1-jétől kell megfelelnie.
 
 109. § (1) E törvény 13/A. §-a a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 

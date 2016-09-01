@@ -635,7 +635,7 @@ kivételével más építési munkát végezni nem szabad.
 
 (5) Az építészeti-műszaki tervezési, valamint az építésügyi műszaki szakértői tevékenységet folytató személy csak olyan szakterületen végezhet tervezési vagy szakértői munkát, amelyhez e törvény szerint megfelelő tervezői vagy szakértői jogosultsággal rendelkezik.
 
-(6)
+(6) A 33/A. § szerinti lakóépületre vonatkozó építészeti-műszaki tervezői tevékenység végzéséhez kormányrendelet felelősségbiztosítást írhat elő.
 
 (7) Az építészeti-műszaki tervpályázat a (8) bekezdésben meghatározott tervezési feladatok előkészítésére szolgáló sajátos tervezési versenyforma, és az építészeti-műszaki pályamű alapján a tervező kiválasztásának egyik módja.
 
@@ -1508,6 +1508,8 @@ rendelettel állapítsa meg.
 - b) az 57/D. § (1) bekezdésében meghatározott Bizottság működésének rendjét, valamint a Bizottság véleményének kialakítása során irányadó részletes szempontrendszert
 
 rendeletben állapítsa meg.
+
+(1d) Felhatalmazást kap a Kormány arra, hogy az egyszerű bejelentéssel érintett 300 m2-t meg nem haladó összes hasznos alapterületű lakóépületek tekintetében az építészeti-műszaki tervezői tevékenység, valamint a vállalkozó kivitelezői tevékenység végzéséhez szükséges felelősségbiztosítási szerződés tartalmi elemeire és a meglétének az ellenőrzésére vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
 (1e) Felhatalmazást kap a Kormány arra, hogy a kötelező tervezői művezetés részletes szabályait, ennek keretében a tevékenységre vonatkozó szerződés egyes kötelező tartalmi elemeit (különös tekintettel a szerződés ellenértékére) rendeletben állapítsa meg.
 
