@@ -75,7 +75,8 @@ alapíthat és tarthat fenn, ha a tevékenység folytatásának jogát – jogsz
   - s) azoknak a sajátos nevelési igényű gyermekeknek, tanulóknak az óvodai nevelése, iskolai nevelése-oktatása, kollégiumi ellátása, akik az e célra létrehozott gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézményben, óvodai csoportban, iskolai osztályban, kollégiumi csoportban eredményesebben foglalkoztathatóak,
   - t) a gyermekgyógyüdülőkben, egészségügyi intézményekben rehabilitációs intézményekben tartós gyógykezelés alatt álló gyermekek tankötelezettségének teljesítéséhez szükséges oktatás,
   - u) pedagógiai-szakmai szolgáltatás,
-  - v) utazó gyógypedagógusi, utazó konduktori hálózat működtetése
+  - v) utazó gyógypedagógusi, utazó konduktori hálózat működtetése,
+  - x) készségfejlesztő iskolai nevelés-oktatás
 
 lehet,
 
@@ -117,7 +118,11 @@ lehet,
 - 34. telephely: a székhelyen kívül működő feladatellátási hely,
 - 35. térségi feladat ellátása: térségi feladatot lát el a köznevelési intézmény, ha öt év átlagában szolgáltatásait legalább ötvenegy százalékban – az intézmény székhelyét leszámítva – kettőnél több megyében, vagy a főváros határain kívül élők veszik igénybe,
 - 36. egyházi köznevelési intézmény: a 2. § (3) bekezdés b) pont bb) alpontjában meghatározott személy által fenntartott köznevelési intézmény,
-- 37. lemorzsolódással veszélyeztetett tanuló: az a tanuló, akinek az adott tanévben a tanulmányi átlageredménye közepes teljesítmény alatti vagy a megelőző tanévi átlageredményéhez képest legalább 1,1 mértékű romlást mutat, és esetében komplex, rendszerszintű pedagógiai intézkedések alkalmazása válik szükségessé.
+- 37. lemorzsolódással veszélyeztetett tanuló: az a tanuló, akinek az adott tanévben a tanulmányi átlageredménye közepes teljesítmény alatti vagy a megelőző tanévi átlageredményéhez képest legalább 1,1 mértékű romlást mutat, és esetében komplex, rendszerszintű pedagógiai intézkedések alkalmazása válik szükségessé,
+- 38. gyógypedagógus, konduktor: a sajátos nevelési igény típusának és súlyosságának megfelelő szakon, szakirányon végzett gyógypedagógus, gyógypedagógiai tanár, gyógypedagógiai terapeuta, konduktor, konduktor-tanító, konduktor-óvodapedagógus, konduktor (tanító) vagy konduktor (óvodapedagógus),
+- 39. utazó gyógypedagógus, utazó konduktor: az utazó gyógypedagógusi, utazó konduktori hálózat által foglalkoztatott gyógypedagógus, konduktor, aki az e törvényben meghatározott tevékenységét rendszeresen munkáltatója feladatellátási helyén kívül végzi,
+- 40. együttnevelést segítő pedagógus: az utazó gyógypedagógusi, utazó konduktori hálózat által foglalkoztatott gyógypedagógus, konduktor, továbbá a sajátos nevelési igényű gyermek, tanuló – közös vagy részben közös – nevelésében és oktatásában részt vevő óvoda és iskola által, a sajátos nevelési igényű gyermek, tanuló óvodai nevelése, tanuló iskolai nevelés-oktatása érdekében foglalkoztatott gyógypedagógus, konduktor,
+- 41. egyéni előrehaladású nevelés és oktatás: a sajátos nevelési igényű tanuló számára engedélyezhető, a tanuló egyéni adottságához, fejlettségéhez igazodó továbbhaladást biztosító nevelési-oktatási forma.
 
 #### 3. A pedagógiai munka szakaszai
 
@@ -130,14 +135,14 @@ lehet,
 
 tagozat,
 
-- c) a középfokú nevelés-oktatás szakasza, amely a – a hat és nyolc évfolyammal működő gimnázium kivételével – kilencedik évfolyamon kezdődik, és szakiskolában a tizenegyedik, középiskolában a tizenkettedik évfolyam végén fejeződik be (a továbbiakban a b)–c) pont alattiak együtt: az iskolai nevelés-oktatás szakasza),
-- d) az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakasza, amely – ha e törvény másképp nem rendelkezik – az alapfokú nevelés-oktatás szakasza után kezdődik, és a szakképző iskolában az Országos Képzési Jegyzékben meghatározott szakképzési évfolyamon fejeződik be.
+- c) a középfokú nevelés-oktatás szakasza, amely – a hat és nyolc évfolyammal működő gimnázium kivételével – a kilencedik évfolyamon kezdődik és a tizenkettedik, szakközépiskola esetében a tizenharmadik évfolyam végén fejeződik be,
+- d) az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakasza, amely az alapfokú nevelés-oktatás szakasza után kezdődik, és szakgimnáziumban a tizenharmadik vagy a tizennegyedik, szakközépiskolában a tizenegyedik, szakiskolában a kerettantervben meghatározott évfolyamon fejeződik be.
 
 (2) Az óvodai nevelés alapelveit az Óvodai nevelés országos alapprogramja határozza meg. Az óvodák az Óvodai nevelés országos alapprogramja alapján készítik el helyi pedagógiai programjukat.
 
 (3) Az egyes iskolai évfolyamok tananyaga és követelményei egymásra épülnek. A szakképző iskolában a középfokú nevelés-oktatás és az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakasza párhuzamosan folyik.
 
-(4) Az iskolai nevelés-oktatás tartalmi egységét, az iskolák közötti átjárhatóságot a Nemzeti alaptanterv (a továbbiakban: Nat) biztosítja, amely meghatározza az elsajátítandó műveltségtartalmat, valamint kötelező rendelkezéseket állapít meg az oktatásszervezés körében, így különösen a tanulók heti és napi terhelésének korlátozására. A szakiskolai közismereti nevelés-oktatás tartalmi követelményeire vonatkozó részletes szabályokat külön jogszabály állapítja meg a Nat-ban foglaltak figyelembevételével.
+(4) Az iskolai nevelés-oktatás tartalmi egységét, az iskolák közötti átjárhatóságot a Nemzeti alaptanterv (a továbbiakban: Nat) biztosítja, amely meghatározza az elsajátítandó műveltségtartalmat, valamint kötelező rendelkezéseket állapít meg az oktatásszervezés körében, így különösen a tanulók heti és napi terhelésének korlátozására. A szakközépiskolai közismereti nevelés-oktatás tartalmi követelményeire vonatkozó részletes szabályokat külön jogszabály állapítja meg a Nat-ban foglaltak figyelembevételével.
 
 (5) A Nat-ban foglaltak érvényesülését a kerettantervek biztosítják. Az egyes iskolatípusokban és oktatási szakaszokban a kerettantervek tartalmazzák a nevelés és oktatás céljait, a tantárgyi rendszert, az egyes tantárgyak témaköreit, tartalmát, a tantárgyak egy vagy két évfolyamra vonatkozó követelményeit, továbbá a tantárgyközi tudás- és képességterületek fejlesztésének feladatait, és meghatározzák a követelmények teljesítéséhez rendelkezésre álló kötelező, valamint az ajánlott időkeretet.
 
@@ -151,7 +156,7 @@ tagozat,
 
 #### 4. Az állami vizsgák rendszere
 
-6. § (1) Az érettségi vizsga állami vizsga, amelyet országosan egységes vizsgakövetelmények (a továbbiakban: központi vizsgakövetelmények) szerint kell megtartani. Az érettségi vizsga központi vizsgakövetelményeit a vizsgaszabályzat és az érettségi vizsga részletes vizsgakövetelményeiről szóló jogszabály alapján kell meghatározni. Az érettségi bizonyítvány érettségi végzettséget tanúsít, és jogszabályban meghatározottak szerint felsőoktatási intézménybe való felvételre, szakképzésbe való bekapcsolódásra, valamint munkakör betöltésére, tevékenység folytatására jogosít, a szakmai érettségi továbbá a szakképzésre vonatkozó jogszabályokban meghatározottak szerinti munkakör betöltésére képesít.
+6. § (1) Az érettségi vizsga állami vizsga, amelyet országosan egységes vizsgakövetelmények (a továbbiakban: központi vizsgakövetelmények) szerint kell megtartani. Az érettségi vizsga központi vizsgakövetelményeit a vizsgaszabályzat és az érettségi vizsga részletes vizsgakövetelményeiről szóló jogszabály alapján kell meghatározni. Az érettségi bizonyítvány érettségi végzettséget tanúsít, és jogszabályban meghatározottak szerint felsőoktatási intézménybe való felvételre, szakképzésbe való bekapcsolódásra, valamint munkakör betöltésére, tevékenység folytatására jogosít, a szakmai érettségi továbbá a szakképzésre vonatkozó jogszabályokban meghatározottak szerinti szakképesítés megszerzését is magában foglalja.
 
 (2) Az érettségi vizsgán a tanuló a következő vizsgatárgyakból ad számot tudásáról:
 
@@ -161,7 +166,7 @@ tagozat,
 - d) idegen nyelv – a nemzetiségi nevelés-oktatásban részt vevők számára anyanyelv és irodalom,
 - e) kötelezően választandó vizsgatárgy.
 
-(2a) Aki szakiskolában államilag elismert szakképesítést szerzett és a szakközépiskolában érettségi vizsgát kíván tenni, annak a (2) bekezdés e) pontjában foglalt tantárgyból nem kell számot adnia a tudásáról.
+(2a) Aki szakközépiskolában államilag elismert szakképesítést szerzett és a szakközépiskolában érettségi vizsgát kíván tenni, annak a (2) bekezdés e) pontjában foglalt tantárgyból nem kell számot adnia a tudásáról.
 
 (3) A kötelező és a kötelezően választandó mellett további vizsgatárgyakból is tehető érettségi vizsga.
 
@@ -183,13 +188,15 @@ tagozat,
 - a) óvoda,
 - b) általános iskola,
 - c) gimnázium,
-- d) szakközépiskola (a továbbiakban a c)–d) pont alattiak együtt: középiskola),
-- e) szakiskola (a továbbiakban a d)–e) pont alattiak együtt: szakképző iskola; a továbbiakban a c)–e) pont alattiak együtt: középfokú iskola),
-- f) alapfokú művészeti iskola (a továbbiakban a b)–f) pont alattiak együtt: iskola),
-- g) gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézmény,
-- h) kollégium (a továbbiakban: az a)–h) pont alattiak együtt: nevelési-oktatási intézmény),
-- i) pedagógiai szakszolgálati intézmény,
-- j) pedagógiai-szakmai szolgáltatást nyújtó intézmény (a továbbiakban: az a)–j) pont alattiak együtt: köznevelési intézmény).
+- d) szakgimnázium,
+- e) szakközépiskola [a továbbiakban a c)–e) pont alattiak együtt: középiskola],
+- f) szakiskola [a továbbiakban a d)–f) pont alattiak együtt: szakképző iskola],
+- g) készségfejlesztő iskola [a továbbiakban a c)–g) pont alattiak együtt: középfokú iskola],
+- h) alapfokú művészeti iskola [a továbbiakban a b)–h) pont alattiak együtt: iskola],
+- i) gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézmény,
+- j) kollégium [a továbbiakban az a)–j) pont alattiak együtt: nevelési-oktatási intézmény],
+- k) pedagógiai szakszolgálati intézmény,
+- l) pedagógiai-szakmai szolgáltatást nyújtó intézmény [a továbbiakban az a)–l) pont alattiak együtt: köznevelési intézmény].
 
 (2) A köznevelési intézmény több különböző típusú köznevelési intézmény feladatait is elláthatja, valamint nem köznevelési feladatot ellátó intézménnyel is összevonható az e törvényben meghatározott esetben, formában és eljárás megtartásával (a továbbiakban: többcélú intézmény). Nevelési-oktatási intézmény elláthatja a konduktív pedagógiai ellátás, gyógytestnevelés, kiemelten tehetséges gyermekek, tanulók gondozása pedagógiai szakszolgálati feladatot, jogszabályban meghatározott egyes pedagógiai-szakmai szolgáltatási feladatot, továbbá a gyermekétkeztetés feladatát anélkül is, hogy többcélú intézmény formájában működne.
 
@@ -207,7 +214,7 @@ tagozat,
 
 (2) A gyermek abban az évben, amelynek augusztus 31. napjáig a harmadik életévét betölti, a nevelési év kezdő napjától legalább napi négy órában óvodai foglalkozáson vesz részt. A jegyző – az egyházi és magán fenntartású intézmények esetében a fenntartó – a szülő kérelmére és az óvodavezető, valamint a védőnő egyetértésével, a gyermek jogos érdekét szem előtt tartva, az ötödik életév betöltéséig felmentést adhat a kötelező óvodai nevelésben való részvétel alól, ha a gyermek családi körülményei, képességeinek kibontakoztatása, sajátos helyzete indokolja.
 
-(3) Az óvodai nevelés 6. melléklet szerinti finanszírozott időkerete magába foglalja a gyermek napközbeni ellátásával összefüggő feladatokhoz, a teljes óvodai életet magában foglaló foglalkozásokra fordítható heti ötven óra időkeretet, továbbá a beilleszkedési, tanulási, magatartási nehézséggel küzdő gyermekek fejlesztő, valamint a sajátos nevelési igényű gyermekek egészségügyi, pedagógiai célú habilitációs, rehabilitációs foglalkoztatásának heti tizenegy óra időkeretét.
+(3) Az óvodai nevelés 6. melléklet szerinti finanszírozott időkerete magában foglalja a gyermek napközbeni ellátásával összefüggő feladatokhoz, a teljes óvodai életet magában foglaló foglalkozásokra fordítható heti ötven óra időkeretet. A fenntartó az óvodában heti tizenegy órás időkeretben köteles megszervezni a beilleszkedési, tanulási, magatartási nehézséggel küzdő gyermekek fejlesztő, valamint a sajátos nevelési igényű gyermekek egészségügyi, pedagógiai célú habilitációs, rehabilitációs foglalkoztatását.
 
 (4) A kötelező óvodai nevelés fejlesztő nevelésben is teljesíthető.
 
@@ -223,11 +230,11 @@ tagozat,
 
 (4) Az általános és középfokú iskolák az iskolai Nemzeti Összetartozás Napja bevezetéséről, a magyarországi és a külhoni magyar fiatalok közti kapcsolatok kialakításáról és erősítéséről a közoktatásban, valamint a Magyarország határain kívül élő magyarság bemutatásáról szóló országgyűlési határozat alapján a hét-tizenkettedik évfolyamok valamelyikén szervezik meg a határon túli kirándulásokat. A határon túli kirándulásokat a központi költségvetés támogatja. A költségvetési támogatás elbírálásakor előnyt élveznek a külhoni iskolával dokumentált cserekapcsolatban álló hazai iskolák.
 
-(5) A nyolcadik évfolyam sikeres elvégzéséről kiállított bizonyítvány – iskolatípustól függetlenül – alapfokú iskolai végzettséget tanúsít.
+(5) A nyolcadik évfolyam sikeres elvégzéséről kiállított bizonyítvány – iskolatípustól függetlenül – alapfokú iskolai végzettséget tanúsít. Alapfokú iskolai végzettség a Szakképzési Hídprogramban is szerezhető.
 
-(6) A középiskola befejező évfolyamának sikeres elvégzéséről kiállított bizonyítvány középfokú végzettséget tanúsít. Középfokú végzettségnek minősül továbbá a szakképzésről szóló törvényben meghatározott szakiskolai végzettség.
+(6) A középiskola és a készségfejlesztő iskola befejező évfolyamának sikeres elvégzéséről kiállított bizonyítvány középfokú végzettséget tanúsít. Középfokú végzettségnek minősül továbbá, ha a tanuló a szakközépiskola, illetve a szakiskola szakképzési évfolyamait elvégezte és sikeres komplex szakmai vizsgát tett.
 
-(7) A gimnáziumban az ötödik, hetedik és kilencedik, szakközépiskolában a kilencedik évfolyamot nyelvi előkészítő évfolyam előzheti meg, feltéve hogy a gimnázium, a szakközépiskola a külön jogszabályokban meghatározott feltételeknek megfelel.
+(7) A gimnáziumban az ötödik, hetedik és kilencedik, szakgimnáziumban a kilencedik évfolyamot nyelvi előkészítő évfolyam előzheti meg, feltéve hogy a gimnázium, a szakgimnázium a külön jogszabályokban meghatározott feltételeknek megfelel.
 
 (8) Az alternatív óvodák, iskolák az általuk készített és az oktatásért felelős miniszter által jóváhagyott óvodapedagógiai programban, kerettantervben meghatározottak szerint készítik el pedagógiai programjukat. Az alternatív óvodapedagógiai programban, az alternatív iskolai kerettantervben lehet meghatározni az általános szabályoktól eltérő, sajátos, az adott intézményben
 
@@ -256,45 +263,56 @@ tagozat,
 
 (2) A gimnázium a tehetséggondozás speciális feladatának ellátására akkor működhet hat vagy nyolc évfolyammal, ha az ott folyó oktatás külön jogszabályban meghatározott emelt szintű követelményeknek megfelel.
 
-#### 10. A szakközépiskola
+#### 10. A szakgimnázium
 
-12. § (1) A szakközépiskolának szakmai érettségi végzettséget adó érettségire, szakirányú felsőfokú iskolai továbbtanulásra, szakirányú munkába állásra felkészítő, valamint általános műveltséget megalapozó négy középiskolai évfolyama és a szakképzésről szóló törvény alapján az Országos Képzési Jegyzékben meghatározott számú szakképzési évfolyama van, ahol szakmai elméleti és gyakorlati oktatás is folyik. A szakközépiskolában a tizenkettedik évfolyamot követően az Országos Képzési Jegyzékben meghatározottak szerint az utolsó középiskolai évfolyam elvégzéséhez vagy érettségi végzettséghez kötött, a szakmai érettségi vizsga ágazatához tartozó szakképesítés szakmai vizsgájára történő felkészítés folyik. Szakközépiskolának minősül az az intézmény is, amely kizárólag a szakképzésről szóló törvény 22. § (7) bekezdésében meghatározott tevékenységet folytatja.
+12. § (1) A szakgimnáziumnak szakmai érettségi végzettséget adó érettségire és ehhez kapcsolódó szakképesítés megszerzésére, szakirányú felsőfokú iskolai továbbtanulásra, szakirányú munkába állásra felkészítő, valamint általános műveltséget megalapozó négy középiskolai évfolyama és a szakképzésről szóló törvény alapján az Országos Képzési Jegyzékben meghatározott számú szakképzési évfolyama van, ahol szakmai elméleti és gyakorlati oktatás is folyik. A szakgimnáziumban a tizenkettedik évfolyamot követően az Országos Képzési Jegyzékben meghatározottak szerint érettségi végzettséghez kötött, a szakmai érettségi vizsga ágazatához tartozó szakképesítés szakmai vizsgájára történő felkészítés folyik. Szakgimnáziumnak minősül az az intézmény is, amely a szakképzésről szóló törvény szerint kizárólag a szakmai érettségi vizsga ágazatához tartozó szakképesítés szakmai vizsgájára készít fel.
 
-(2) A szakközépiskolában az Országos Képzési Jegyzékről szóló kormányrendeletben meghatározott ágazatokban tehető munkakör betöltésére képesítő szakmai érettségi vizsga, továbbá az Országos Képzési Jegyzékben meghatározott, a szakmai érettségi vizsga ágazatához tartozó szakképesítés szerezhető.
+(2) A szakgimnáziumban az Országos Képzési Jegyzékről szóló kormányrendeletben meghatározott ágazatokban az érettségi vizsga keretében megszerezhető szakképesítéshez kapcsolódóan tehető szakmai érettségi vizsga, továbbá az Országos Képzési Jegyzékben meghatározott, a szakmai érettségi vizsga ágazatához tartozó szakképesítés szerezhető.
 
-(3) A kilencediktől a tizenkettedik évfolyamig az ágazathoz tartozó, érettségihez kötött szakképesítések közös elemeinek tartalmát magában foglaló szakmai elméleti és gyakorlati oktatás folyik, az egységes kerettanterv szerinti közismereti képzés mellett.
+(3) A kilencediktől a tizenkettedik évfolyamig az ágazathoz tartozó szakképesítések közös tartalmi elemeit, valamint az érettségi vizsga keretében megszerezhető szakképesítés tartalmi elemeit magában foglaló szakmai elméleti és gyakorlati oktatás folyik, az egységes kerettanterv szerinti közismereti képzés mellett.
 
-(4) Ha a művészeti szakközépiskola a tehetséggondozás keretében művészeti szakvizsgára készít fel, a szakképzés és az iskolai nevelés-oktatás szakasza követelményeinek teljesítése egymástól függetlenül is folyhat (a továbbiakban: párhuzamos oktatás).
+(4) A szakképesítés ágazata szerinti szakmai érettségi vizsgával nem rendelkező, érettségi végzettséget szerzett tanulók részére a szakgimnáziumban az érettségi végzettséghez kötött szakképesítésre történő felkészítés keretében a szakképzési évfolyamok száma kettő. Ebben az esetben a szakgimnázium a komplex szakmai vizsgára történő felkészítést a tizenharmadik-tizennegyedik (első-második szakképzési) évfolyamon szervezi meg.
 
-(5) Párhuzamos oktatás esetén a tanuló az iskolai nevelés-oktatás szakasza és a szakképzés követelményeit ugyanabban az iskolában, eltérő évfolyamokon is teljesítheti, a szakképzési kerettantervben meghatározottak szerint a nevelő és oktató munka az ötödik, hetedik vagy a kilencedik évfolyamon kezdődhet, a tanuló heti óraszáma legfeljebb negyven óra.
+(5) Ha a művészeti szakgimnázium a tehetséggondozás keretében művészeti szakvizsgára készít fel, a szakképzés és az alapfokú, továbbá a középfokú iskolai nevelés-oktatás szakasza követelményeinek teljesítése egymástól függetlenül is folyhat (a továbbiakban: párhuzamos oktatás).
 
-#### 11. A szakiskola
+(6) Párhuzamos oktatás esetén a tanuló az alapfokú, továbbá a középfokú iskolai nevelés-oktatás szakasza és a szakképzés követelményeit ugyanabban az iskolában, eltérő évfolyamokon is teljesítheti, a szakképzési kerettantervben meghatározottak szerint a nevelő és oktató munka az ötödik, hetedik vagy a kilencedik évfolyamon kezdődhet, a tanuló heti óraszáma legfeljebb negyven óra.
 
-13. § (1) A szakiskolának – a speciális és készségfejlesztő szakiskola kivételével, továbbá a szakképzésről szóló törvényben meghatározott szakiskolai képzési formák kivételével – három, az adott szakképesítés megszerzéséhez szükséges közismereti képzést és szakmai elméleti és gyakorlati oktatást magában foglaló szakképzési évfolyama van. Szakiskolának minősül az az intézmény is, amely kizárólag a szakképzésről szóló törvény 23. § (2)–(4) bekezdésében meghatározott tevékenységet folytatja.
+#### 11. A szakközépiskola
 
-(2) A szakiskolában az Országos Képzési Jegyzékben meghatározott, szakképesítések körében a szakképzési kerettanterv szerint folyhat szakképzés. A közismereti oktatás a szakiskolában a szakiskolai közismereti kerettanterv alapján folyik. A szakiskolában a szakmai vizsgára történő felkészítésre vonatkozó további rendelkezéseket a szakképzésről szóló törvény határozza meg. A szakiskolában, ha a művészeti szakmai vizsgára készít fel, párhuzamos oktatás is folyhat.
+13. § (1) A szakközépiskolának öt évfolyama van, amelyből
 
-(3) A szakmai vizsga letételét követően a tanuló két év alatt középiskolában készülhet fel az érettségi vizsgára.
+- a) három, az adott szakképesítés megszerzéséhez szükséges közismereti képzést és szakmai elméleti és gyakorlati oktatást magában foglaló szakképzési évfolyam, valamint
+- b) további kettő, érettségi vizsgára felkészítő évfolyam.
 
-(4) Alapfokú iskolai végzettség hiányában a szakiskolába történő felvétel feltétele:
+(2) Szakközépiskolának minősül az az intézmény is, amely a szakképzésről szóló törvény szerint kizárólag szakmai elméleti és gyakorlati oktatást folytat a szakképzési évfolyamokon.
 
-- a) a tizenhatodik életév betöltése, és
-- b) a szakiskolában szervezett Köznevelési Hídprogram szerinti tanév teljesítése.
+(3) A szakközépiskolában az Országos Képzési Jegyzékben meghatározott szakképesítések körében a szakképzési kerettanterv szerint folyhat szakképzés. A közismereti oktatás a szakközépiskolában a szakközépiskolai közismereti kerettanterv alapján folyik. A szakközépiskolában a szakmai vizsgára történő felkészítésre vonatkozó további rendelkezéseket a szakképzésről szóló törvény határozza meg. A szakközépiskolában, ha a művészeti szakmai vizsgára készít fel, párhuzamos oktatás is folyhat.
 
-(5) A sajátos nevelési igényű tanulók iskolai nevelés-oktatása céljából a szakiskola
+(4) A szakközépiskolában államilag elismert szakképesítést szerzett tanuló dönt arról, hogy továbbtanul-e az érettségi vizsgára felkészítő további két évfolyamon.
 
-- a) speciális szakiskolaként működik, ha a többi tanulóval sajátos nevelési igénye miatt együtt haladásra képteleneket készíti fel szakmai vizsgára, vagy nyújt részükre munkába álláshoz és életkezdéshez szükséges ismereteket; az évfolyamok száma a speciális kerettanterv szerint meghatározott,
-- b) készségfejlesztő speciális szakiskolaként működik, ha a középsúlyos értelmi fogyatékos tanulók részére biztosítja az életkezdéshez való felkészülést, a munkába állást lehetővé tevő egyszerű betanulást igénylő munkafolyamatok elsajátítását; az évfolyamok száma a speciális kerettanterv szerint meghatározott.
+(5) Alapfokú iskolai végzettség hiányában a szakközépiskolába történő felvétel feltétele:
 
-(6)
+- a) a tizennegyedik életév betöltése, és
+- b) a szakközépiskolában szervezett Szakképzési Hídprogram szerinti tanév teljesítése.
 
-#### 12. Köznevelési Hídprogramok
+#### 11/A. Szakiskola és készségfejlesztő speciális szakiskola
 
-14. § (1) A Köznevelési Hídprogramok segítséget nyújtanak a tanulónak a középfokú nevelés-oktatásba, szakképzésbe való bekapcsolódáshoz, vagy a munkába álláshoz, valamint az önálló életkezdéshez szükséges ismeretek megszerzéséhez a komplex, tanulmányi, szociális, kulturális, képességbeli és személyiségfejlesztését támogató pedagógiai tevékenységgel.
+13/A. § (1) A sajátos nevelési igényű tanulók iskolai nevelés-oktatása céljából
 
-(2)–(7)
+- a) a szakiskola a többi tanulóval sajátos nevelési igénye miatt együtthaladásra képtelen tanulókat készíti fel szakmai vizsgára és nyújt részükre a munkába álláshoz és az életkezdéshez szükséges ismereteket,
+- b) a készségfejlesztő speciális szakiskola a középsúlyos értelmi fogyatékos tanulók részére biztosítja az életkezdéshez való felkészülést, a munkába állást lehetővé tevő egyszerű betanulást igénylő munkafolyamatok elsajátítását.
 
-#### 13. A gyógypedagógiai nevelési-oktatási intézmény, konduktív pedagógiai intézmény
+(2) A szakiskolában, készségfejlesztő speciális szakiskolában az évfolyamok száma a speciális kerettanterv szerint meghatározott.
+
+#### 12. Köznevelési és Szakképzési Hídprogramok
+
+14. § (1) A Köznevelési és Szakképzési Hídprogramok segítséget nyújtanak a tanulónak a középfokú nevelés-oktatásba, szakképzésbe való bekapcsolódáshoz vagy a munkába álláshoz, valamint az önálló életkezdéshez szükséges ismeretek megszerzéséhez a komplex, tanulmányi, szociális, kulturális, képességbeli és személyiségfejlesztést támogató pedagógiai tevékenységgel.
+
+(2) A Köznevelési Hídprogram kerettantervét az oktatásért felelős miniszter rendeletben adja ki. A Szakképzési Hídprogram kerettantervét a szakképzésért és felnőttképzésért felelős miniszter az oktatásért felelős miniszter egyetértésével és a társadalmi felzárkózásért felelős miniszter véleményének kikérésével rendeletben adja ki.
+
+(3) A Köznevelési Hídprogramban közreműködő intézményeket az állami intézményfenntartó központ jelöli ki. A Szakképzési Hídprogramban közreműködő intézményeket a szakképzésért és felnőttképzésért felelős miniszter, valamint az agrárpolitikáért felelős miniszter – az általuk fenntartott szakképző iskolák tekintetében – az oktatásért felelős miniszter véleményének kikérésével és a társadalmi felzárkózásért felelős miniszter egyetértésével jelöli ki.
+
+#### 13. A gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézmény
 
 15. § (1) A gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézmény a kizárólag sajátos nevelési igényű gyermekeket, tanulókat ellátó nevelési-oktatási intézmény, amely a szakértői bizottság véleménye alapján vehető igénybe. A gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézmény fejlesztő nevelést-oktatást végző iskolaként működik, ha kizárólag súlyos és halmozottan fogyatékos gyermekeket lát el.
 
@@ -304,7 +322,7 @@ tagozat,
 - b) otthoni ellátás keretében,
 - c) abban az intézményben, amely a gyermek ápolását, gondozását ellátja.
 
-(3) A súlyos és halmozottan fogyatékos gyermek annak a tanítási évnek az első napjától, amelyben a hatodik életévét betölti, fejlesztő nevelés-oktatás keretében teljesíti a tankötelezettségét. A fejlesztő nevelés-oktatást az oktatásért felelős miniszter rendeletében foglaltak alkalmazásával, a sajátos nevelési igény típusának megfelelő gyógypedagógus, gyógypedagógiai tanár vagy terapeuta, konduktor, konduktor-tanító, konduktor-óvodapedagógus, konduktor(tanító) vagy konduktor (óvodapedagógus) foglalkoztatásával, a szülő igénye, a gyermek állapota és a szakértői bizottság fejlesztő foglalkozások heti óraszámára vonatkozó javaslatának figyelembevételével kell megszervezni. A heti fejlesztő foglalkozások száma nem lehet kevesebb húsz óránál. Indokolt esetben a szülő kérésére, ha a gyermek állapota szükségessé vagy lehetővé teszi, ennél több vagy kevesebb óraszám is megállapítható. Megszervezésekor e törvénynek a tankötelezettségre, a pedagógiai munka szakaszaira, a Nat-ra és a kerettantervekre, az intézménytípusokra, a tanítási év rendjére, a tanítási, képzési idő rendjére, a tanulói jogviszony létesítésére, a gyermek, tanuló kötelességének teljesítésére és a felnőttoktatásra vonatkozó rendelkezéseit nem lehet alkalmazni.
+(3) A súlyos és halmozottan fogyatékos gyermek annak a tanítási évnek az első napjától, amelyben a hatodik életévét betölti, fejlesztő nevelés-oktatás keretében teljesíti a tankötelezettségét. A fejlesztő nevelés-oktatást az oktatásért felelős miniszter rendeletében foglaltak alkalmazásával, a sajátos nevelési igény típusának megfelelő gyógypedagógus, konduktor foglalkoztatásával, a szülő igénye, a gyermek állapota és a szakértői bizottság fejlesztő foglalkozások heti óraszámára vonatkozó javaslatának figyelembevételével kell megszervezni. A heti fejlesztő foglalkozások száma nem lehet kevesebb húsz óránál. Indokolt esetben a szülő kérésére, ha a gyermek állapota szükségessé vagy lehetővé teszi, ennél több vagy kevesebb óraszám is megállapítható. Megszervezésekor e törvénynek a tankötelezettségre, a pedagógiai munka szakaszaira, a Nat-ra és a kerettantervekre, az intézménytípusokra, a tanítási év rendjére, a tanítási, képzési idő rendjére, a tanulói jogviszony létesítésére, a gyermek, tanuló kötelességének teljesítésére és a felnőttoktatásra vonatkozó rendelkezéseit nem lehet alkalmazni.
 
 (4) A fejlesztő nevelés-oktatásban a tanuló annak a tanítási évnek az utolsó napjáig köteles részt venni, amelyben betölti a tizenhatodik életévét és annak a tanítási évnek az utolsó napjáig vehet részt, amelyben betölti a huszonharmadik életévét. A fejlesztő nevelés-oktatásban a tanulókat a sajátos nevelési igényük, fejlettségük és életkoruk alapján osztják be fejlesztő csoportokba.
 
@@ -314,6 +332,14 @@ tagozat,
 - b) abban az intézményben, amely a gyermek ápolását, gondozását
 
 ellátja.
+
+#### 13/A. Az utazó gyógypedagógusi, utazó konduktori hálózat
+
+15/A. § (1) Az utazó gyógypedagógusi, utazó konduktori hálózat feladata a sajátos nevelési igényű gyermek, tanuló többi gyermekkel, tanulóval részben vagy egészben együtt, azonos óvodai csoportban, iskolai osztályban történő óvodai nevelését, tanuló iskolai nevelés-oktatását végző nevelési-oktatási intézmények számára a sajátos nevelési igényű gyermek, tanuló neveléséhez, oktatásához szükséges speciális szakképzettséggel rendelkező szakember biztosítása, amennyiben a nevelési-oktatási intézmény a 47. §-ában meghatározottak szerint alkalmazandó gyógypedagógus, konduktor szakképzettségű szakemberrel nem rendelkezik.
+
+(2) Az utazó gyógypedagógusi, utazó konduktori hálózat megszervezése és működtetése az állami intézményfenntartó központ feladata.
+
+(3) Az állami intézményfenntartó központ az e §-ban meghatározott feladatokra, állami felsőoktatási intézmény, továbbá egyházi jogi személy, vallási tevékenységet végző szervezet, vagy más nem állami, nem önkormányzati köznevelési intézményfenntartó által fenntartott utazó gyógypedagógusi, utazó konduktori hálózatot is felkérhet.
 
 #### 14. Az alapfokú művészeti iskola
 
@@ -446,7 +472,7 @@ nyújtható.
 - f) nevelési, oktatási feladatot ellátó feladatellátási helyenként felvehető maximális gyermek-, tanulólétszámot,
 - g) iskolatípusonként az évfolyamok számát,
 - h) alapfokú művészetoktatás esetén a művészeti ágak, azon belül a tanszakok megnevezését,
-- i) szakképzés esetén a szakmacsoportokat és az Országos Képzési Jegyzékben meghatározottak szerint a szakképesítés megnevezését és azonosító számát, szakközépiskola esetén az ágazatokat,
+- i) szakképzés esetén a szakmacsoportokat és az Országos Képzési Jegyzékben meghatározottak szerint a szakképesítés megnevezését és azonosító számát, szakgimnázium esetén az ágazatokat,
 - j) a feladatellátást szolgáló vagyont, továbbá a vagyon feletti rendelkezés vagy a vagyon használati jogát,
 - k) az önálló költségvetéssel rendelkező intézmény esetében a gazdálkodással összefüggő jogosítványokat.
 
@@ -564,7 +590,7 @@ rendelkezik.
 
 (6)
 
-(7) Az óvodai csoportok, iskolai osztályok, kollégiumi csoportok minimális, maximális és átlaglétszámát a 4. melléklet határozza meg. Az óvodai csoportra, iskolai osztályra, kollégiumi csoportra megállapított maximális létszám a nevelési év, illetőleg a tanítási év indításánál a fenntartó engedélyével legfeljebb húsz százalékkal átléphető, továbbá függetlenül az indított osztályok, csoportok számától, akkor is, ha a nevelési év, tanítási év során az új gyermek, tanuló átvétele, felvétele miatt indokolt. A minimális létszámtól csak akkor lehet eltérni, ha azt az óvodai, tanulói jogviszony nevelési, tanítási év közben történő megszűnése indokolja, továbbá szakképző iskolában akkor is, ha a képzés során tanulói jogviszony korábbi tanítási évben történő megszűnése miatt az érintett osztály, csoport létszáma a minimális létszám alá csökkent, és átszervezéssel – a tanulóra háruló aránytalan teher nélkül – nem alakítható ki a minimális létszámot elérő létszámú osztály, csoport.
+(7) Az óvodai csoportok, iskolai osztályok, kollégiumi csoportok minimális, maximális és átlaglétszámát a 4. melléklet határozza meg. Az óvodai csoportra, iskolai osztályra, kollégiumi csoportra megállapított maximális létszám a nevelési év, illetve a tanítási év indításánál a fenntartó engedélyével legfeljebb húsz százalékkal átléphető, továbbá függetlenül az indított osztályok, csoportok számától, akkor is, ha a nevelési év, tanítási év során az új gyermek, tanuló átvétele, felvétele miatt indokolt. A minimális létszámtól csak akkor lehet eltérni, ha azt az óvodai, tanulói jogviszony nevelési, tanítási év közben történő megszűnése indokolja, továbbá szakképző iskolában akkor is, ha a képzés során tanulói jogviszony korábbi tanítási évben történő megszűnése miatt az érintett osztály, csoport létszáma a minimális létszám alá csökkent, és átszervezéssel – a tanulóra háruló aránytalan teher nélkül – nem alakítható ki a minimális létszámot elérő létszámú osztály, csoport. A szakképző iskolában a gyakorlati képzésre megállapított minimális létszámtól el lehet térni akkor is, ha az osztályban a szakképzésről szóló törvény szerinti hiányszakképesítés megszerzésére irányuló nevelés-oktatás, képzés folyik. A művészeti felsőoktatási intézmény által fenntartott nyolc évfolyamos gimnázium osztályainak minimális, maximális és átlaglétszámát a szakközépiskola elméleti képzéshez rendelt létszámkeretei szerint kell meghatározni.
 
 (8) A köznevelési intézmény tantermeiben, címtábláján, épületének homlokzatán, továbbá az állami, települési önkormányzati fenntartású intézmények körbélyegzőjén Magyarország címerét el kell helyezni, más intézmények körbélyegzőjén el lehet helyezni.
 
@@ -614,6 +640,8 @@ váltható ki.
 (11a) Amennyiben a testnevelésóra keretében megvalósított úszásoktatás infrastrukturális feltételei a nevelési-oktatási intézményben nem állnak rendelkezésre, akkor heti egy alkalommal legfeljebb két testnevelésórát egy tanítási napon összevonva lehet megszervezni.
 
 (11b) A szakképzésről szóló 2011. évi CLXXXVII. törvény 8. § (2) bekezdése alkalmazásában az időkeret számítását a (11) bekezdés alkalmazása nem érinti.
+
+(11c) Ha a művészeti felsőoktatási intézmény által fenntartott nyolc évfolyamos gimnáziumban a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 101. § (7) bekezdése szerinti előkészítő jogviszony alapján a művészeti felsőoktatási intézménybe való belépésre való felkészítés keretében a tanuló részére legalább heti 15 tanóra van biztosítva, a mindennapos testnevelés az előkészítő jogviszony alapján a művészeti felsőoktatási intézménybe való belépésre való felkészítés keretében biztosított művészeti szakmai képzéssel váltható ki.
 
 (12) Az iskola a kötelező tanórai foglalkozások keretében gondoskodik a könnyített testnevelés szervezéséről.
 
@@ -710,7 +738,7 @@ rendkívüli szünetet rendel el.
 
 (4) A kormányhivatal törvényességi ellenőrzési eljárására a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény hatósági ellenőrzésre vonatkozó szabályait kell megfelelően alkalmazni.
 
-35. § (1) Az állam, a helyi önkormányzat vagy a nemzetiségi önkormányzat által fenntartott nevelési-oktatási intézményben a szülő, tanuló kérésére szervezett és nem a kötelező tanórai foglalkozások részét képező hitoktatást (a továbbiakban: fakultatív hitoktatás) és az erkölcstan óra helyett választható hit- és erkölcstanoktatást egyházi jogi személy szervezhet az e törvényben meghatározott keretek között.
+35. § (1) Az állam, a helyi önkormányzat vagy a nemzetiségi önkormányzat által fenntartott nevelési-oktatási intézményben a szülő, tanuló kérésére szervezett és nem a kötelező tanórai foglalkozások részét képező hitoktatást (a továbbiakban: fakultatív hitoktatás) és az etika óra helyett választható hit- és erkölcstanoktatást egyházi jogi személy szervezhet az e törvényben meghatározott keretek között.
 
 (2) A fakultatív hitoktatás az óvodában az óvodai foglalkozásoktól elkülönítve, az óvodai életrendet figyelembe véve – a nyitvatartási időn belül, de nevelési időnek nem minősülő időkeretben –, az iskolában a kötelező tanórai foglalkozások rendjéhez, a kollégiumban pedig a kollégiumi foglalkozások rendjéhez illeszkedően szervezhető.
 
@@ -718,7 +746,7 @@ rendkívüli szünetet rendel el.
 
 (4) A nevelési-oktatási intézmény és az egyházi jogi személy a fakultatív hitoktatással és a hit- és erkölcstanoktatással kapcsolatos feladatok ellátása során egymással kölcsönösen együttműködik.
 
-35/A. § Az állami iskola 1–8. évfolyamán az erkölcstan óra vagy az ehelyett választható, az egyházi jogi személy által szervezett hit- és erkölcstan óra a kötelező tanórai foglalkozások része.
+35/A. § Az állami iskola 1–8. évfolyamán az etika óra vagy az ehelyett választható, az egyházi jogi személy által szervezett hit- és etika óra a kötelező tanórai foglalkozások része.
 
 35/B. § (1) A fakultatív hitoktatásnál és a hit- és erkölcstanoktatásnál az egyházi jogi személynek a feladata a hit- és erkölcstanoktatás megszervezése, ennek keretében különösen
 
@@ -737,11 +765,11 @@ rendkívüli szünetet rendel el.
 
 (2) Ha nemzetközi szerződés másképp nem rendelkezik, a rendvédelmi szervek által fenntartott nevelési-oktatási intézmény tanulói jogviszonyt azzal létesíthet és tarthat fenn, aki büntetlen előéletű, magyar állampolgár vagy bevándorlási engedéllyel rendelkezik, és a szolgálatra alkalmas. A Magyar Honvédség által fenntartott nevelési-oktatási intézmény tanulói jogviszonyt azzal létesíthet és tarthat fenn, aki büntetlen előéletű, magyar állampolgár, a felvétel évében a 23. életévét nem tölti be, cselekvőképes, a szolgálatra alkalmas és vállalja, hogy a katonai szakképzés idejére honvéd altiszt-jelölti szolgálati viszonyt létesít, és tart fenn. A rendvédelmi szervek által fenntartott nevelési-oktatási intézményben SZMSZ, a Magyar Honvédség által fenntartott nevelési-oktatási intézmény esetében jogszabály a tanulmányi kötelezettség nem teljesítése miatt az évfolyamismétlést kizárhatja.
 
-(3) Ha a szakközépiskola, a szakiskola a Magyar Honvédségnél vagy rendvédelmi szervekben folyó hivatásos szolgálat ellátásához szükséges munkakör betöltésére, szakképesítés megszerzésére készít fel, létesítéséhez és működése megkezdésének engedélyezéséhez a szakképesítésért felelős miniszter engedélye szükséges.
+(3) Ha a szakgimnázium, a szakközépiskola a Magyar Honvédségnél vagy rendvédelmi szervekben folyó hivatásos szolgálat ellátásához szükséges munkakör betöltésére, szakképesítés megszerzésére készít fel, létesítéséhez és működése megkezdésének engedélyezéséhez a szakképesítésért felelős miniszter engedélye szükséges.
 
 (4) Ha a nevelési-oktatási intézményt a honvédelemért, valamint a rendvédelemért felelős miniszter tartja fenn,
 
-- a) a szakközépiskola és a szakiskola a 12–13. §-ban foglaltaktól eltérő számú évfolyammal működhet,
+- a) a szakgimnázium és a szakközépiskola a 12–13. §-ban foglaltaktól eltérő számú évfolyammal működhet,
 - b) a pedagógiai programban sajátos honvédelmi, rendvédelmi szempontok érvényesíthetőek, a honvédelemért felelős miniszter fenntartása esetén katonai szabályok és tevékenység, a rendvédelemért felelős miniszter által fenntartott nevelési-oktatási intézmény esetén a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény (a továbbiakban: Hszt.) szerinti szabályok és tevékenység írható elő,
 - c) a katonák jogállását szabályozó jogszabályok, az SZMSZ, a házirend a pedagógusok, a nevelő-oktató munkát közvetlenül segítők és a tanulók számára – a fenntartás függvényében – a Magyar Honvédségben érvényesülő, vagy a Hszt.-ben előírt viselkedési és megjelenési szabályokat, jogokat, kötelességeket, kiképzési tevékenységet írhat elő, ezek megsértése miatt fegyelmi eljárás kezdeményezhető, továbbá a jogellenesen okozott kár megtérítésére sajátos szabályokat írhat elő,
 - d) a nevelő-oktató munka pedagógus munkakörben szolgálati viszonyban is ellátható,
@@ -1047,7 +1075,7 @@ dönt.
 
 (6) Az iskola igazgatója a gyámhatóság és a gyermekjóléti szolgálat véleményének kikérése után dönt arról, hogy a tanuló a tankötelezettségének magántanulóként tehet eleget. Gyermekvédelmi gondoskodásban részesülő tanuló esetén az iskola igazgatójának a döntéséhez be kell szereznie a gyermekvédelmi gyám véleményét.
 
-(7) A tankötelezettség általános iskolában, középfokú iskolában, Köznevelési Hídprogram keretében, valamint fejlesztő nevelés-oktatásban teljesíthető.
+(7) A tankötelezettség általános iskolában, középfokú iskolában, Köznevelési és Szakképzési Hídprogram keretében, valamint fejlesztő nevelés-oktatásban teljesíthető.
 
 (8) A jegyző gondoskodik az óvodai nevelésben részvételre kötelezettek nyilvántartásáról, a nyilvántartásból rendszeresen adatot közöl a kormányhivatal számára. A járási hivatal gondoskodik a tankötelesek nyilvántartásáról, a nyilvántartásból rendszeresen adatot közöl az állami intézményfenntartó központ, és tanuló lakóhelye, ennek hiányában tartózkodási helye szerint illetékes települési önkormányzat jegyzője számára, továbbá hivatalból elrendeli és felügyeli a tankötelezettség teljesítését, a szakértői vizsgálatokon való megjelenést.
 
@@ -1155,8 +1183,8 @@ dönt.
 
 (4) A sajátos nevelési igényű gyermek, tanuló neveléséhez és oktatásához a következő feltételek szükségesek:
 
-- a) a gyermek, tanuló külön neveléséhez és oktatásához a sajátos nevelési igény típusának és súlyosságának megfelelő gyógypedagógus, gyógypedagógiai tanár vagy terapeuta, konduktor, konduktor-tanító, konduktor-óvodapedagógus, konduktor(tanító) vagy konduktor(óvodapedagógus) foglalkoztatása, a neveléshez és oktatáshoz szükséges speciális tanterv, tankönyv és egyéb segédlet,
-- b) egyéni előrehaladású képzéshez, integrált óvodai neveléshez, iskolai nevelés-oktatáshoz, fejlesztő neveléshez, fejlesztő nevelés-oktatáshoz, az illetékes szakértői bizottság által meghatározottak szerinti foglalkozáshoz a sajátos nevelési igény típusának és súlyosságának megfelelő gyógypedagógus, gyógypedagógiai tanár vagy terapeuta, konduktor, konduktor-tanító, konduktor-óvodapedagógus, konduktor(tanító) vagy konduktor(óvodapedagógus), a foglalkozásokhoz speciális tanterv, tankönyv, valamint speciális gyógyászati és technikai eszközök,
+- a) a gyermek, tanuló külön neveléséhez és oktatásához, a fejlesztő nevelés-oktatáshoz, a sajátos nevelési igény típusának és súlyosságának megfelelő gyógypedagógus, konduktor foglalkoztatása, a neveléshez és oktatáshoz szükséges speciális tanterv, tankönyv és egyéb segédlet,
+- b) egyéni előrehaladású neveléshez és oktatáshoz, integrált óvodai neveléshez, iskolai nevelés-oktatáshoz, az illetékes szakértői bizottság által meghatározottak szerinti foglalkozáshoz a sajátos nevelési igény típusának és súlyosságának megfelelő gyógypedagógus, konduktor foglalkoztatása, a foglalkozásokhoz speciális tanterv, tankönyv, valamint speciális gyógyászati és technikai eszközök,
 - c) a fejlesztési területek szakértői bizottság által történő meghatározása.
 
 (5) A gyermek külön óvodai nevelését végző óvodai csoportot, a tanulók külön iskolai nevelését, oktatását végző iskolai osztályt a sajátos nevelési igény típusának megfelelően kell létrehozni. A gyógypedagógiai nevelésben, oktatásban részt vevő nevelési-oktatási intézményben a gyermek, tanuló egészségügyi és pedagógiai célú habilitációs és rehabilitációs ellátásban is részesül.
@@ -1169,16 +1197,16 @@ dönt.
 
 (9) A gyógypedagógiai nevelésben, oktatásban részt vevő nevelési-oktatási intézményben
 
-- a) a sajátos nevelési igény típusának megfelelő szakirányon szerzett gyógypedagógusi, gyógypedagógiai tanár vagy terapeuta, konduktor, konduktor-tanító, konduktor-óvodapedagógus, konduktor(tanító) vagy konduktor(óvodapedagógus) szakképzettség kell, ha
+- a) a sajátos nevelési igény típusának megfelelő gyógypedagógus, konduktor foglalkoztatása kell, ha
   - aa) az óvodai foglalkozás vagy a tanórai foglalkozás elsődleges célja a sajátos nevelési igényből eredő hátrány csökkentése,
   - ab) az óvodai foglalkozás vagy a tanórai foglalkozás elsődleges célja az egészségügyi és pedagógiai célú habilitáció, rehabilitáció, valamint
-  - ac) az értelmi fogyatékossággal élő tanuló iskolai nevelés-oktatása a külön e célra létrehozott gyógypedagógiai nevelési-oktatási intézményben, óvodai csoportban, iskolai osztályban történik,
+  - ac) az értelmi fogyatékos gyermek, tanuló óvodai nevelése, iskolai nevelés-oktatása a külön e célra létrehozott gyógypedagógiai nevelési-oktatási intézményben, óvodai csoportban, iskolai osztályban történik,
 - b) az a) pontban meghatározott vagy az általános szabályok szerinti végzettség és szakképzettség kell,
   - ba) ha az óvodai foglalkozás, a tanórai foglalkozás elsődlegesen nem a sajátos nevelési igényből eredő hátrány csökkentését, a tanuló egészségügyi és pedagógiai célú habilitációját, rehabilitációját szolgálja,
   - bb) az egyéb foglalkozáshoz, a kollégiumi foglalkozáshoz,
 - c) az enyhe értelmi fogyatékos tanulók idegen nyelv oktatását elláthatja gyógypedagógus végzettséggel és szakképzettséggel, továbbá „komplex” típusú felsőfokú államilag elismert nyelvvizsga bizonyítvánnyal vagy azzal egyenértékű okirattal rendelkező pedagógus is.
 
-(10) A sajátos nevelési igényű gyermek, tanuló neveléséhez, oktatásához szükséges speciális szakképzettséggel rendelkező szakember utazó gyógypedagógusi, utazó konduktori hálózat útján is biztosítható. Az utazó gyógypedagógusi, utazó konduktori hálózat megszervezése és működtetése az állami intézményfenntartó központ feladata.
+(10) A sajátos nevelési igényű gyermek, tanuló neveléséhez, oktatásához szükséges speciális szakképzettséggel rendelkező szakember utazó gyógypedagógusi, utazó konduktori hálózat útján is biztosítható.
 
 (11) A tehetséggondozás kereteit a Nemzeti Tehetség Program jelöli ki, amelyet a Nemzeti Tehetség Alap támogat. A Nemzeti Tehetség Program és Alap az oktatásért felelős miniszter irányítása alatt, jogszabályban foglaltak szerint működik. A Nemzeti Tehetség Program elérendő célokat jelölhet ki a köznevelési intézmények számára, és tartalmazza a feladatok finanszírozásának módját is.
 
@@ -1354,7 +1382,7 @@ dönt.
 
 (7) A kiadott érettségi bizonyítványokról és a szakképesítést tanúsító bizonyítványokról – a vizsgaszabályzatban meghatározottak szerint – központi nyilvántartást kell vezetni.
 
-(8) Ha a szakiskola, a szakközépiskola párhuzamos oktatás keretében művészeti szakmai vizsgára készít fel, a tanuló magasabb évfolyamba lépéséről a szakképzés követelményei tekintetében külön is lehet dönteni és bizonyítványt kiállítani.
+(8) Ha a szakközépiskola, a szakgimnázium párhuzamos oktatás keretében művészeti szakmai vizsgára készít fel, a tanuló magasabb évfolyamba lépéséről a szakképzés követelményei tekintetében külön is lehet dönteni és bizonyítványt kiállítani.
 
 #### 32. A tanuló jutalmazása, fegyelmi és kártérítési felelőssége, a nevelési-oktatási intézmény kártérítési felelőssége
 
@@ -1415,7 +1443,7 @@ fegyelmi büntetés szabható ki.
 (2) A tanuló attól az évtől kezdődően, amelyben
 
 - a) nyolc évfolyamos általános iskola esetén tizenhetedik,
-- b) gimnázium és szakképző iskola esetén huszonötödik
+- b) középfokú iskola esetén huszonötödik
 
 életévét betölti, kizárólag felnőttoktatásban kezdhet új tanévet.
 
@@ -1425,12 +1453,12 @@ fegyelmi büntetés szabható ki.
 
 (5) A felnőttoktatás megszervezhető
 
-- a) az e célra létesített – 7. § (1) bekezdés b)–e) és g) pontjában felsorolt – iskolákban,
+- a) az e célra létesített – 7. § (1) bekezdés b)–f) és h) pontjában felsorolt – iskolákban,
 - b) a nappali rendszerű iskolai oktatás céljára létesített iskolának a felnőttoktatási osztályában.
 
 (6) A felnőttoktatásban a tizenhat-huszonnégy éves tanulók részére ifjúsági osztály, csoport szervezhető.
 
-(7) A felnőttoktatásban az oktatás megszervezhető a nappali oktatás munkarendje, továbbá esti, levelező vagy más sajátos munkarend szerint. Gimnáziumban a nappali oktatás munkarendje szerint azok részére szervezhető meg az oktatás, akik nem kizárólag felnőttoktatásban vehetnek részt. Szakképző iskolában a nappali oktatás munkarendje szerinti felnőttoktatás azok számára szervezhető meg, akik még nem rendelkeznek szakképesítéssel. A nappali oktatás munkarendje szerint folyó oktatás esetében a tanórák számának a kerettantervben a nappali rendszerű oktatás munkarendje szerinti kötelező tanórai foglalkozások legalább kilencven százalékát el kell érnie.
+(7) A felnőttoktatásban az oktatás megszervezhető a nappali oktatás munkarendje, továbbá esti, levelező vagy más sajátos munkarend szerint. Gimnáziumban a nappali oktatás munkarendje szerint azok részére szervezhető meg az oktatás, akik nem kizárólag felnőttoktatásban vehetnek részt. Szakképző iskolában a nappali oktatás munkarendje szerinti felnőttoktatás azok számára szervezhető meg, akik még nem rendelkeznek szakképesítéssel. Készségfejlesztő iskolában a nappali oktatás munkarendje szerinti felnőttoktatás azok számára szervezhető meg, akik az e törvény 13/B. § (2) bekezdés b) pontjában meghatározott két gyakorlati évfolyamot nem végezték el. A nappali oktatás munkarendje szerint folyó oktatás esetében a tanórák számának a kerettantervben a nappali rendszerű oktatás munkarendje szerinti kötelező tanórai foglalkozások legalább kilencven százalékát el kell érnie.
 
 (8) Az esti oktatás munkarendje szerint folyó oktatás esetében a tanórák számának a kerettantervben a nappali rendszerű oktatás munkarendje szerinti kötelező tanórai foglalkozások legalább ötven százalékát, levelező oktatás esetében legalább tíz százalékát el kell érnie. Más sajátos munkarend szerint is folyhat az oktatás, ha a tanulónak tanórai foglalkozáson egyáltalán nem kell részt vennie, továbbá, ha a tanórai foglalkozások száma nem éri el a levelező oktatásra meghatározott óraszámot. Más sajátos munkarend szerint folyik a felnőttoktatás különösen a távoktatási formában.
 
@@ -1479,7 +1507,7 @@ fegyelmi büntetés szabható ki.
 62. § (1) A pedagógus alapvető feladata a rábízott gyermekek, tanulók nevelése, oktatása, óvodában a gyermekek Óvodai nevelés országos alapprogramja szerinti nevelése, iskolában a kerettantervben előírt törzsanyag átadása, elsajátításának ellenőrzése, sajátos nevelési igényű tanuló esetén az egyéni fejlesztési tervben foglaltak figyelembevételével. Ezzel összefüggésben kötelessége különösen, hogy
 
 - a) nevelő és oktató munkája során gondoskodjék a gyermek személyiségének fejlődéséről, tehetségének kibontakoztatásáról, ennek érdekében tegyen meg minden tőle elvárhatót, figyelembe véve a gyermek egyéni képességeit, adottságait, fejlődésének ütemét, szociokulturális helyzetét,
-- b) a különleges bánásmódot igénylő gyermekekkel egyénileg foglalkozzon, szükség szerint együttműködjön gyógypedagógussal vagy a nevelést, oktatást segítő más szakemberekkel, a bármilyen oknál fogva hátrányos helyzetű gyermek, tanuló felzárkózását elősegítse,
+- b) a különleges bánásmódot igénylő gyermekekkel egyénileg foglalkozzon, szükség szerint együttműködjön gyógypedagógussal, konduktorral vagy a nevelést, oktatást segítő más szakemberekkel, a hátrányos helyzetű gyermek, tanuló felzárkózását elősegítse,
 - c) segítse a tehetségek felismerését, kiteljesedését, nyilvántartsa a tehetséges tanulókat,
 - d) előmozdítsa a gyermek, tanuló erkölcsi fejlődését, a közösségi együttműködés magatartási szabályainak elsajátítását, és törekedjen azok betartatására,
 - e) egymás szeretetére és tiszteletére, a családi élet értékeinek megismerésére és megbecsülésére, együttműködésre, környezettudatosságra, egészséges életmódra, hazaszeretetre nevelje a gyermekeket, tanulókat,
@@ -1896,9 +1924,9 @@ foglalkoztatott tekintetében is.
 
 (3) Ha a nevelési-oktatási intézményben az óvodai nevelés, iskolai nevelés és oktatás kizárólag nemzetiségi nyelven folyik, vagy a tanulók több mint fele két nyelven – nemzetiségi nyelven és magyarul – tanul, intézményvezetői megbízást az kaphat, aki a 3. mellékletben meghatározottak szerint a nemzetiségi óvodai nevelésben, iskolai nevelésben-oktatásban pedagógus-munkakört tölthet be. Azonos feltételek esetén előnyben kell részesíteni azt, aki a nemzetiséghez tartozik.
 
-(4) A kizárólag sajátos nevelési igényű gyermekek, tanulók nevelését, oktatását ellátó nevelési-oktatási intézményben intézményvezetői megbízást az kaphat, aki a gyermekek, tanulók sajátos nevelési igényének típusa szerinti gyógypedagógusi, gyógypedagógiai tanár vagy terapeuta, konduktor, konduktor-tanító, konduktor-óvodapedagógus, konduktor(tanító) vagy konduktor(óvodapedagógus) végzettséggel és szakképzettséggel, továbbá pedagógus-szakvizsgával rendelkezik.
+(4) A kizárólag sajátos nevelési igényű gyermekek, tanulók nevelését, oktatását ellátó nevelési-oktatási intézményben intézményvezetői megbízást az kaphat, aki az (1) bekezdésben meghatározott feltételek mellett felsőfokú végzettséggel és a gyermekek, tanulók sajátos nevelési igényének típusa és súlyossága szerinti gyógypedagógusi, gyógypedagógiai tanár vagy terapeuta, konduktor, konduktor-tanító, konduktor-óvodapedagógus, konduktor(tanító) vagy konduktor(óvodapedagógus) szakképzettséggel rendelkezik.
 
-(5) Ha nincs a képzés szakirányának megfelelő egyetemi szintű tanárképzés, szakközépiskola vezetésével megbízható az is, aki a képzés szakirányának megfelelő mesterképzésben szerzett szakképzettséggel rendelkezik.
+(5) Ha nincs a képzés szakirányának megfelelő egyetemi szintű tanárképzés, szakgimnázium vezetésével megbízható az is, aki a képzés szakirányának megfelelő mesterképzésben szerzett szakképzettséggel rendelkezik.
 
 (6) Többcélú intézményben intézményvezetői megbízást az kaphat, aki bármelyik, az intézmény által ellátott feladatra létesíthető intézmény vezetői megbízásához szükséges feltételekkel rendelkezik. Ha a feltételek bármelyike mesterfokozatot ír elő, az intézményvezetői megbízáshoz erre van szükség.
 
@@ -2747,7 +2775,7 @@ közalkalmazott illetménye, munkavállaló munkabére a 65. § (9a) bekezdésé
 
 (5) Idegen nyelv, nemzetiségi nyelv oktatására – minden iskolatípus bármely évfolyamán – alkalmazható az is, aki főiskolai szintű nyelvtanári vagy idegen nyelv- és irodalom szakos tanári felsőfokú végzettséggel és szakképzettséggel rendelkezik.
 
-(6) Az iskolai nevelés-oktatás ötödik-nyolcadik évfolyamán az erkölcstan tantárgy tanítására az alkalmazható, aki a tantárgynak megfelelő szakos tanári végzettséggel és szakképzettséggel rendelkezik, vagy az iskolai nevelés oktatás ötödik-nyolcadik évfolyamán pedagógus-munkakör betöltésére jogosító végzettséggel és szakképzettséggel rendelkezik, továbbá legalább hatvan órás pedagógus továbbképzés vagy szakirányú továbbképzés keretében elsajátította az erkölcstan oktatásához szükséges elméleti és módszertani ismereteket.
+(6) Az iskolai nevelés-oktatás ötödik-nyolcadik évfolyamán az etika tantárgy tanítására az alkalmazható, aki a tantárgynak megfelelő szakos tanári végzettséggel és szakképzettséggel rendelkezik, vagy az iskolai nevelés oktatás ötödik-nyolcadik évfolyamán pedagógus-munkakör betöltésére jogosító végzettséggel és szakképzettséggel rendelkezik, továbbá legalább hatvan órás pedagógus továbbképzés vagy szakirányú továbbképzés keretében elsajátította az etika oktatásához szükséges elméleti és módszertani ismereteket.
 
 (7) Iskolai, kollégiumi könyvtárostanárnak vagy könyvtárostanítónak alkalmazható az is, aki a 3. mellékletében foglaltak szerint az iskolában, kollégiumban pedagógus-munkakör betöltésére jogosító tanítói vagy tanári végzettséggel és szakképzettséggel, továbbá iskolarendszeren kívüli oktatásban szerzett emelt szintű könyvtárosi szakképesítéssel rendelkezik.
 
@@ -2760,7 +2788,7 @@ közalkalmazott illetménye, munkavállaló munkabére a 65. § (9a) bekezdésé
 
 (9) Gyakorlati oktató munkakörben történő alkalmazáskor a képzés szakirányának megfelelő főiskolai végzettségnek kell elfogadni a – képzésről rendelkező jogszabály szerint – felsőfokú végzettséget tanúsító műszaki oktatói, technikus tanári, szakoktatói oklevelet, bizonyítványt. A felsőfokú végzettséget nem tanúsító, tanfolyami képzésben szerzett műszaki szakoktatói (oktatói) bizonyítványt az alkalmazáskor a képzés szakirányának megfelelő középfokú szakképesítésnek kell elfogadni.
 
-(10) Ha nincs a képzés szakirányának megfelelő hazai felsőfokú képzés, szakiskolában – a szakképzési kerettantervben az adott gyakorlati tantárgyra vonatkozó eltérő rendelkezés hiányában – alkalmazható határozatlan időre az is, továbbá köznevelési szakértői tevékenységet végezhet, aki középiskolai végzettséggel és mestervizsgával rendelkezik; továbbá a népzenész- és a szórakoztatózenész-képzésben az, aki emelt szintű szakképesítéssel rendelkezik.
+(10) Ha nincs a képzés szakirányának megfelelő hazai felsőfokú képzés, szakközépiskolában – a szakképzési kerettantervben az adott gyakorlati tantárgyra vonatkozó eltérő rendelkezés hiányában – alkalmazható határozatlan időre az is, továbbá köznevelési szakértői tevékenységet végezhet, aki középiskolai végzettséggel és mestervizsgával rendelkezik; továbbá a népzenész- és a szórakoztatózenész-képzésben az, aki emelt szintű szakképesítéssel rendelkezik.
 
 (11) Aki az oktatásért felelős miniszter által kiállított igazolás alapján a Kormánnyal kötött, törvénnyel vagy kormányrendelettel kihirdetett nemzetközi szerződés vagy tárcaközi megállapodás keretében idegen nyelven folytatott nevelési, oktatási tevékenység ellátására anyanyelvi tanárként érkezik Magyarországra, mentesül a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvényben szabályozott elismerési eljárás alól. Az elismerési eljárás alóli mentesítés az oktatásért felelős miniszter által kiállított igazolásban megjelölt időtartamra, összesen maximum öt tanévre szól. Az e bekezdés szerinti anyanyelvi tanárral létesített óraadói megbízási jogviszonyra nem kell alkalmazni a 4. § 21. pontban az óraszámra vonatkozóan meghatározott korlátozást.
 
@@ -2817,6 +2845,8 @@ közalkalmazott illetménye, munkavállaló munkabére a 65. § (9a) bekezdésé
 (13) Ha a munkakör megfelelő végzettséggel és szakképzettséggel rendelkezővel nem tölthető be, óvodapszichológusként, iskolapszichológusként ötéves határozott időre alkalmazható az is, aki pszichológus végzettséggel és szakképzettséggel rendelkezik, de nem rendelkezik a szükséges pedagógus vagy szakpszichológus szakképzettséggel vagy szakiránnyal, feltéve, hogy öt éven belül vállalja a munkakör betöltéséhez szükséges szakképzettség, szakvizsga megszerzését.
 
 (14) Ha a pedagógus-munkakör megfelelő végzettséggel és szakképzettséggel rendelkezővel nem tölthető be, akkor legfeljebb egy alkalommal a gyakornoki idő lejártáig gyakornokként alkalmazható az is, aki a nyelvvizsga letétele kivételével a pedagógus-munkakör betöltéséhez előírt végzettséget és szakképzettséget igazoló oklevél kiadásának feltételeit teljesítette. Ebben az esetben a minősítő vizsga letételének feltétele az előírt nyelvvizsga-bizonyítvány megszerzése. Amennyiben a gyakornok az előírt határidőig a nyelvvizsga-bizonyítványt nem szerzi meg, közalkalmazotti jogviszonya, munkaviszonya e törvény erejénél fogva megszűnik.
+
+(15) 2016. szeptember 1-jétől szakközépiskolában a középfokú nevelés-oktatásban a 9–11. évfolyamon főiskolai szintű végzettséggel és tanári szakképzettséggel is betölthető pedagógus-munkakör, feltéve, hogy a mesterfokozatú, a tantárgynak megfelelő szakos tanári végzettséget és szakképzettséget 2021. szeptember 1-jéig megszerzi az érintett. Ezt a rendelkezést nem kell alkalmazni és pedagógus-munkakörben a szakközépiskolában továbbra is alkalmazható, de az érettségi vizsgán vizsgáztató tanár nem lehet az, akinek a rá irányadó öregségi nyugdíjjogosultság eléréséhez szükséges korhatárig tíz évnél kevesebb ideje van hátra.
 
 99/A. § A 78. § (2a) bekezdésében meghatározott feladat végrehajtásában a jogszabályban történő kijelölés esetén az állami intézményfenntartó központ részt vehet. Az e kijelölés alapján eljáró állami intézményfenntartó központ a költségvetésében e célra rendelkezésre álló előirányzat terhére támogatást nyújt.
 
@@ -2929,16 +2959,16 @@ kell 2016. szeptember 1-jétől kifutó jelleggel megszervezni.
 | 3 | Alsó tagozat | tanító | tanító |
 | 4 | 5–6. évfolyam | tanár | a tantárgynak megfelelő szakos tanár, tantárgynak megfelelő műveltségi területet végzett tanító |
 | 5 | 7–8. évfolyam | tanár | a tantárgynak megfelelő szakos tanár |
-| 6 | 9–12. évfolyam középiskolában/középfokú nevelés-oktatás | középiskolai tanár | egyetemi szintű vagy mesterfokozatú, a tantárgynak megfelelő szakos tanár |
+| 6. | 9–12. évfolyam gimnáziumban | gimnáziumi tanár | egyetemi szintű vagy mesterfokozatú, a tantárgynak megfelelő szakos tanár |
 | 7 |  |  |  |
-| 8 | Az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakasza | tanár a szakmai elméleti oktatásban | a szakképzés szakirányának megfelelő szakos tanár |
+| 8. | szakképző iskolában/középfokú nevelés-oktatás | szakmai elméleti tantárgyat oktató tanár | a szakmai tantárgynak megfelelő szakos felsőfokú végzettség és szakképzettség |
 | 9 | Az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakasza | szakmai tanár, szakoktató, gyakorlati oktató | a szakképzés szakirányának megfelelő szakos tanár, a szakképzés szakirányának megfelelő szakoktató, a szakképzés szakirányának megfelelő felsőfokú végzettség, középiskolai végzettség és a szakiránynak megfelelő államilag elismert legalább középszintű szakképesítés, továbbá legalább öt év, az adott szakiránynak megfelelő szakmai gyakorlat |
-| 10 | Alapfokú művészeti iskola és művészeti szakiskola | tanár | a művészeti tárgynak megfelelő szakirányú tanár, művészeti tárgynak megfelelő művész |
-| 11 | Művészeti szakközépiskola | tanár | a művészeti tárgynak megfelelő szakirányú egyetemi szintű vagy mesterfokozatú tanár, művészeti tárgynak megfelelő művész |
+| 10 | Alapfokú művészeti iskola és művészeti szakközépiskola | szakmai tantárgyat tanító tanár | a művészeti tárgynak megfelelő szakirányú tanár, művészeti tárgynak megfelelő művész |
+| 11 | Művészeti szakgimnázium | szakmai tantárgyat tanító tanár | a művészeti tárgynak megfelelő szakirányú egyetemi szintű vagy mesterfokozatú tanár, művészeti tárgynak megfelelő művész |
 | 12 | Kollégium | kollégiumi nevelőtanár | kollégiumi nevelőtanár, gyógypedagógus, szociálpedagógus, játék- és szabadidő-szervező tanár, tanulási és pályatanácsadó tanár, tehetségfejlesztő tanár, hittanár-nevelő tanár, a nevelő-oktató munka pedagógiai szakaszának megfelelően tanító, tanár |
 | 13 | Az alsó tagozaton az emelt szintű oktatásban a művészetek, idegen nyelv, nemzetiségi nyelv és irodalom tantárgyak esetében | tanár | a tantárgynak megfelelő szakos tanár |
 | 14 |  | könyvtárostanár (tanító) | könyvtárpedagógia-tanár, informatikus könyvtáros és tanító vagy tanár vagy szociálpedagógus |
-| 15 |  | óvodapszichológus/ iskolapszichológus | pszichológus és óvodapedagógus vagy gyógypedagógus vagy tanító vagy tanár, pszichológus tanácsadás és iskolapszichológia szakirányon, pedagógiai szakpszichológus óvoda- és iskola szakpszichológus tanácsadó szakpszichológus |
+| 15 |  | óvodapszichológus/ iskolapszichológus | pszichológus és óvodapedagógus vagy gyógypedagógus vagy tanító vagy tanár, pszichológus tanácsadás és iskolapszichológia szakirányon, pedagógiai szakpszichológus óvoda- és iskola-szakpszichológus óvoda- és iskolapszichológus tanácsadó szakpszichológus |
 | 16 |  | fejlesztő pedagógus | bármely pedagógus (óvodapedagógus, tanító, tanár, szociálpedagógus) és a beilleszkedési, tanulási, magatartási nehézségekkel küzdő gyermekek, tanulók szűrésére, csoportos és egyéni foglalkoztatására jogosító szakirányú továbbképzésben szerzett szakképzettség, oligofrénpedagógia szakos gyógypedagógiai tanár, gyógypedagógus, tanulásban akadályozottak pedagógiája vagy logopédia vagy pszichopedagógia szakos gyógypedagógiai tanár vagy terapeuta, gyógypedagógus, tanulásban akadályozottak pedagógiája vagy logopédia vagy pszichopedagógia szakirányon |
 | 17 |  | szociálpedagógus | szociálpedagógus |
 | 18 |  | konduktor | konduktor, konduktor-tanító, konduktor-óvodapedagógus, konduktor(tanító), konduktor(óvodapedagógus), speciális pedagógia szakos tanár és szakpedagógus és konduktor vagy konduktor-tanító vagy konduktor-óvodapedagógus |
@@ -2952,6 +2982,11 @@ kell 2016. szeptember 1-jétől kifutó jelleggel megszervezni.
 | 26 | Minden iskolatípusban és minden évfolyamon | testnevelő | testnevelő tanár |
 | 27 | Minden iskolatípusban és minden évfolyamon | ének-zene tanár | ének-zene szakos tanár |
 | 28 | Két tanítási nyelvű iskolai nevelés-oktatás | tanító, tanár | az adott évfolyamon az adott tantárgy tanításához előírt szakképzettség (tanító, tanár) és az iskolai nevelés-oktatás nyelvének tanítására jogosító tanító, tanár, nyelvtanár-szakképzettség vagy az adott tantárgy nem magyar nyelven történő oktatásához szükséges nyelvi ismeretek alapképzésben, mesterképzésben, szakirányú továbbképzésben történő elsajátításának igazolása, Magyarországon honosított oklevél alapján az adott évfolyamon az adott tantárgy tanításához előírt, a tanítás nyelvének megfelelő pedagógus-végzettség és -szakképzettség |
+| 29 |  | együttnevelést segítő pedagógus | az e mellékletben a gyógypedagógus és a konduktor munkakörre meghatározott végzettség és szakképzettség |
+| 30 | Készségfejlesztő iskolai nevelés-oktatás gyakorlati évfolyamon | tanár a szakmai elméleti oktatásban | gyógypedagógus, vagy a szakképzés szakirányának megfelelő szakos tanár |
+| 31 | Készségfejlesztő iskolai nevelés-oktatás gyakorlati évfolyamon | szakmai tanár, szakoktató, gyakorlati oktató | gyógypedagógus, vagy a szakképzés szakirányának megfelelő szakos tanár, a szakképzés szakirányának megfelelő szakoktató, a szakképzés szakirányának megfelelő felsőfokú végzettség, középiskolai végzettség és a szakiránynak megfelelő államilag elismert legalább középszintű szakképesítés, továbbá legalább öt év, az adott szakiránynak megfelelő szakmai gyakorlat |
+| 32. | 9–12. évfolyam a szakgimnáziumokban, 12–13. évfolyam a szakközépiskolában/ középfokú nevelés-oktatás | közismereti tantárgyat oktató középiskolai tanár | egyetemi szintű vagy mesterfokozatú, a tantárgynak megfelelő szakos tanár |
+| 33. | a szakközépiskola szakképzési évfolyamán/ középfokú nevelés-oktatás | közismereti tantárgyat oktató tanár | a tantárgynak megfelelő szakos tanár |
 
 ### 4. melléklet a 2011. évi CXC. törvényhez
 
@@ -2962,17 +2997,17 @@ kell 2016. szeptember 1-jétől kifutó jelleggel megszervezni.
 | 1 | Intézménytípus/Oktatási forma | Osztály- és csoportlétszámok |  |  |
 | 2 |  | BA minimum | BB maximum | BC átlag |
 | 3 | Óvoda | 13 | 25 | 20 |
-| 4 | Gyógypedagógiai óvodai csoport, iskolai osztály | 5 | 13 | 9 |
+| 4 | Gyógypedagógiai óvodai csoport, iskolai osztály, kollégiumi csoport | 5 | 13 | 9 |
 | 5 | Általános iskola 1–4. évfolyama | 14 | 27 | 23 |
 | 6 | Általános iskola 5–8. évfolyama | 14 | 27 | 23 |
-| 7 | Gimnázium és szakközépiskola | 26 | 34 | 28 |
+| 7 | Gimnázium és szakgimnázium | 26 | 34 | 28 |
 | 8 | Hat és nyolc évfolyamos gimnázium | 26 | 34 | 28 |
-| 9 | Szakiskola elméleti képzés | 16 | 28 | 24 |
-| 10 | Szakközépiskola, szakiskola gyakorlati képzés | 6 | 12 | 10 |
-| 11 | Alapfokú művészeti iskola, zeneművészeti ág | 6 | 15 | 8 |
+| 9 | Szakközépiskola elméleti képzés | 16 | 28 | 24 |
+| 10 | Szakgimnázium, szakközépiskola gyakorlati képzés | 6 | 12 | 10 |
+| 11 | Szakközépiskola, szakiskola gyakorlati képzés | 6 | 12 | 10 |
 | 12 | Alapfokú művészeti iskola, egyéb művészeti ág | 8 | 20 | 10 |
-| 13 | Művészeti szakközépiskola közismereti | 14 | 29 | 23 |
-| 14 | Művészeti szakközépiskola szakmai elmélet | 6 | 29 | 10 |
+| 13 | Művészeti szakgimnázium közismereti | 14 | 29 | 23 |
+| 14 | Művészeti szakgimnázium szakmai elmélet | 6 | 29 | 10 |
 | 15 | Kollégiumi nappali foglalkozás | 18 | 26 | 25 |
 | 16 | Kollégiumi éjszakai felügyelet épületenként és nemenként | – | 120 | – |
 | 17 | Hídprogram keretében szervezett osztály | 8 | 10 | 9 |
@@ -2993,6 +3028,7 @@ Intézményvezető heti tanóráinak száma (óvodapedagógus esetén óvodai fo
 | 8 | Kizárólag sajátos nevelési igényű tanulókat nevelő-oktató középfokú iskola | 2 | 4 | 6 | 8 |
 | 9 | Kizárólag sajátos nevelési igényű gyermekeket tanulókat nevelő-oktató kollégium | 4 | 6 | 8 | 10 |
 | 10 | Alapfokú művészeti iskola | 2 | 4 | 6 | 8 |
+| 11 | Fejlesztő nevelés-oktatást végző iskolaként működő gyógypedagógiai, konduktív pedagógiai intézmény | 2 | 4 | 6 | 8 |
 
 Az intézményvezető-helyettes, tagintézmény-vezető, intézményegység-vezető, tagintézményvezető-helyettes, intézményegységvezető-helyettes, gyakorlati oktatásvezető heti tanóráinak száma (óvodapedagógus esetén óvodai foglalkozásainak száma)
 
@@ -3008,18 +3044,20 @@ Az intézményvezető-helyettes, tagintézmény-vezető, intézményegység-veze
 | 8 | Kizárólag sajátos nevelési igényű tanulókat nevelő-oktató középfokú iskola | 4 | 6 | 8 | 10 |
 | 9 | Kizárólag sajátos nevelési igényű gyermekeket, tanulókat nevelő-oktató kollégium | 8 | 10 | 12 | 14 |
 | 10 | Alapfokú művészeti iskola | 4 | 6 | 8 | 10 |
+| 11 | Fejlesztő nevelés-oktatást végző iskolaként működő gyógypedagógiai, konduktív pedagógiai intézmény | 4 | 6 | 8 | 10 |
+| 12 | Utazó gyógypedagógusi, utazó konduktori hálózat | 4 | 6 | 8 | 10 |
 
 ### 6. melléklet a 2011. évi CXC. törvényhez
 
 #### Gyermekek, tanulók finanszírozott heti foglalkoztatási időkerete
 
-1M39693_0
+6K06690M_0
 
 |  | A | B |  |  | C |  |  | D | E |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | évfolyam | gyermek, tanuló heti óraszáma |  |  | osztályok heti időkerete |  |  | nemzeti- ségi iskolai nevelés-oktatás többlet tanórai foglal- kozásai- nak száma | sajátos nevelési igényű tanulók heti egészségügyi és pedagógiai célú habilitációs, rehabilitációs tanórai foglalkozásainak száma |  |  |  |  |
+| 1 | évfolyam | gyermek, tanuló heti óraszáma |  |  | osztályok heti időkerete |  |  | nemzeti- ségi iskolai nevelés-oktatás többlet tanórai foglal- kozásai- nak száma | sajátos nevelési igényű tanulók heti egészségügyi és pedagógiai célú habilitációs, rehabilitációs tanórai foglalkozásainak száma (óvoda esetében a beilleszkedési, tanulási, magatartási nehézséggel küzdő gyermekek fejlesztő, valamint a sajátos nevelési igényű gyermekek egészségügyi, pedagógiai célú habilitációs, rehabilitációs foglalkoztatásának időkerete) |  |  |  |  |
 | 2 |  | BA testne- velés nélkül | BB testne- velés | BC órák testne- veléssel | CA engedé- lyezett | CB a hittan több- let óra- kerete egyházi intéz- mények-ben | CC 6 és 8 évf. gimná- zium többlet- órái | DA nemzeti- ség | EA értelmi fogya- tékos | EB gyen- génlátó | EC vak, nagyot- halló, mozgás- és beszéd- fogyaté- kos | EE siket és autista | EF egyéb |
-| 3 | óvoda | 61 |  | 61 | 61 | 2 |  |  |  |  |  |  |  |
+| 3 | óvoda | 50 |  | 50 | 50 | 2 |  |  | 11 |  |  |  |  |
 | 4 | első évfolyam | 20 | 5 | 25 | 52 | 1 |  | 2 | 3 | 7 | 8 | 10 | 3 |
 | 5 | második évfolyam | 20 | 5 | 25 | 52 | 1 |  | 2 | 3 | 7 | 8 | 10 | 3 |
 | 6 | harmadik évfolyam | 20 | 5 | 25 | 52 | 1 |  | 2 | 3 | 7 | 8 | 10 | 3 |

@@ -350,7 +350,7 @@ folytathat tevékenységet.
 
 (6) A szakirányú továbbképzésben – az alap- vagy a mesterfokozatot követően további – szakirányú szakképzettség szerezhető. A szakirányú továbbképzésben legalább hatvan kreditet kell és legfeljebb százhúsz kreditet lehet megszerezni. A képzési idő legalább két, legfeljebb négy félév.
 
-16. § (1) A képzési program része a doktori képzés, amely a mesterfokozat megszerzését követő képzésben a doktori fokozat megszerzésére készít fel. Doktori képzésben legalább száznyolcvan kreditet kell szerezni. A képzési idő hat félév. A doktori képzés egységes, harminchat hónapos képzési időből áll, amely felosztható beszámoltatási szakaszokra.
+16. § (1) A képzési program része a doktori képzés, amely a mesterfokozat megszerzését követő képzésben a doktori fokozat megszerzésére készít fel. Doktori képzésben legalább kettőszáznegyven kreditet kell szerezni. A képzési idő – ha e törvény eltérően nem rendelkezik – nyolc félév.
 
 (2) Doktori képzésre az a felsőoktatási intézmény szerezhet jogosultságot, amelyben mesterképzés folyik az adott tudományterületen.
 
@@ -362,7 +362,7 @@ folytathat tevékenységet.
 
 #### 8. A képzés megszervezésének módozatai
 
-17. § (1) A felsőoktatásban a képzés, a képzési és kimeneti követelményekben foglaltak szerint, megszervezhető teljes idejű képzésként, részidős képzésként, továbbá távoktatásként. A teljes idejű képzés félévenként legalább háromszáz tanórából áll.
+17. § (1) A felsőoktatásban a képzés, a képzési és kimeneti követelményekben foglaltak szerint, megszervezhető teljes idejű képzésként, részidős képzésként, továbbá távoktatásként. A teljes idejű képzés félévenként legalább kettőszáz tanórából áll.
 
 (2) A teljes idejű képzést a nappali képzés munkarendje szerint heti öt napból álló tanítási hét keretében, a munkanapokon kell megszervezni. E rendelkezéstől a felsőoktatási intézmény hallgatói önkormányzatának egyetértésével el lehet térni. A teljes idejű képzés duális képzésként is megszervezhető.
 
@@ -898,10 +898,11 @@ esélyegyenlőségét az a)–d) pontban meghatározott hallgatói csoportok tek
 
 45. § (1) Ha a hallgató bejelenti, hogy a következő képzési időszakban hallgatói kötelezettségének nem kíván eleget tenni, illetve, ha a hallgató a soron következő képzési időszakra nem jelentkezik be, a hallgatói jogviszonya szünetel. A hallgatói jogviszony egybefüggő szüneteltetésének ideje nem lehet hosszabb, mint két félév. A hallgató, a tanulmányi és vizsgaszabályzatban meghatározottak szerint több alkalommal is élhet a hallgatói jogviszonyának szüneteltetésével.
 
-(2) Az intézmény a hallgató kérelmére engedélyezheti a hallgatói jogviszony szünetelését
+(2) A felsőoktatási intézmény a hallgató kérelmére engedélyezheti a hallgatói jogviszony szünetelését
 
-- a) az (1) bekezdésben meghatározottnál hosszabb, egybefüggő időtartamban is vagy
-- b) az intézményi szabályzat erre vonatkozó megengedő rendelkezése hiányában az első félév teljesítése előtt is,
+- a) az (1) bekezdésben meghatározottnál hosszabb, egybefüggő időtartamban is,
+- b) az intézményi szabályzat erre vonatkozó megengedő rendelkezése hiányában az első félév teljesítése előtt is, vagy
+- c) a már megkezdett képzési időszak végéig, az adott képzési időszakra vonatkozóan
 
 feltéve, hogy a hallgató a hallgatói jogviszonyból eredő kötelezettségeinek szülés, továbbá baleset, betegség vagy más váratlan ok miatt, önhibáján kívül nem tud eleget tenni.
 
@@ -949,7 +950,7 @@ feltéve, hogy a hallgató a hallgatói jogviszonyból eredő kötelezettségein
 
 (1a) A művészeti képzési terület szerinti nem tanári osztatlan szakkal párhuzamos képzésben vagy a nem tanári osztatlan szakot követően felvett művészeti tanárszakon, továbbá a Kormány rendeletében meghatározott azon tanárszakon folytatott tanulmányok esetén, amely csak a szakterülete szerinti nem tanári mesterképzési szakra épülően második, további mesterképzési szakon folyó tanári szakképzettség megszerzésére irányuló képzésben vehető fel, az (1) bekezdés szerinti támogatási idő további két félévvel lehet hosszabb.
 
-(2) A doktori képzésben részt vevő hallgató támogatási ideje legfeljebb hat félév.
+(2) A doktori képzésben részt vevő hallgató támogatási ideje legfeljebb nyolc félév.
 
 (3) Egy adott fokozat (oklevél) megszerzéséhez igénybe vehető támogatási idő legfeljebb két félévvel lehet hosszabb, mint az adott tanulmányok képzési ideje. Az adott szak támogatási idejébe az azonos szakon korábban igénybe vett támogatási időt be kell számítani. Ha a hallgató az így meghatározott támogatási idő alatt az adott fokozatot (oklevelet) nem tudja megszerezni, a tanulmányait e szakon önköltséges képzési formában folytathatja akkor is, ha az (1) bekezdés szerinti támogatási időt egyébként még nem merítette ki.
 
@@ -971,6 +972,8 @@ feltéve, hogy a hallgató a hallgatói jogviszonyból eredő kötelezettségein
 48. § (1) A hallgatót magyar állami (rész)ösztöndíjas vagy önköltséges képzési formára kell besorolni.
 
 (2) A felsőoktatási intézmény tanévenként köteles önköltséges képzésre átsorolni azt a magyar állami (rész)ösztöndíjjal támogatott képzésben részt vevő hallgatót, aki az utolsó két olyan félév átlagában, amelyben hallgatói jogviszonya nem szünetelt, illetve nem a 81. § (3) és (4) bekezdésében meghatározott külföldi képzésben vett részt, nem szerzett legalább tizennyolc kreditet, és nem érte el az intézmény szervezeti és működési szabályzatában – a Kormány rendeletében meghatározottak szerint – megállapított tanulmányi átlagot, továbbá azt, aki a 48/D. § (2) bekezdése szerinti nyilatkozatát visszavonja.
+
+(2a) A (2) bekezdés rendelkezéseit a doktori képzésben nem kell alkalmazni.
 
 (3) Ha a magyar állami (rész)ösztöndíjjal támogatott képzésre felvett hallgatónak a tanulmányai befejezése előtt megszűnik a hallgatói jogviszonya, vagy a hallgató a tanulmányait bármely okból önköltséges formában folytatja tovább, helyére – ilyen irányú kérelem esetén – a felsőoktatási intézményben önköltséges formában azonos szakon tanulmányokat folytató hallgató léphet. Az átsorolásról a felsőoktatási intézmény a magyar állami (rész)ösztöndíjjal támogatott képzésre átsorolását kérő önköltséges hallgatók tanulmányi teljesítménye alapján dönt.
 
@@ -1172,7 +1175,7 @@ vehessen fel.
 
 (4) Oklevél kiállítására csak az e törvény hatálya alá tartozó felsőoktatási intézmény jogosult. Az oklevél megnevezést csak a felsőoktatási intézmények által e törvény alapján kiállított szakképzettséget és – a felsőoktatási szakképzés és a szakirányú továbbképzés kivételével – felsőfokú végzettségi szintet, doktori fokozatot igazoló okiratra lehet használni.
 
-(5) Az oklevél Magyarország címerével ellátott közokirat, amely tartalmazza a kiállító felsőoktatási intézmény nevét, intézményi azonosító számát, az oklevél sorszámát, az oklevél tulajdonosának nevét, születési nevét, születésének helyét és idejét, a végzettségi szint, illetve az odaítélt fokozat és a szak, szakképzettség megnevezését, a kiállítás helyét, évét, hónapját és napját, az oklevél által tanúsított végzettségnek, szakképzettségnek a Magyar Képesítési Keretrendszer, az Európai Képesítési Keretrendszer szerinti besorolását, valamint a képzésnek a képzési és kimeneti követelmény szerinti időtartamát. Tartalmaznia kell továbbá a felsőoktatási intézmény vezetőjének – illetőleg a tanulmányi és vizsgaszabályzatban meghatározott vezetőnek – eredeti aláírását, a felsőoktatási intézmény bélyegzőjének lenyomatát.
+(5) Az oklevél Magyarország címerével ellátott közokirat, amely tartalmazza a kiállító felsőoktatási intézmény nevét, intézményi azonosító számát, az oklevél sorszámát, az oklevél tulajdonosának nevét, születési nevét, születésének helyét és idejét, a végzettségi szint, illetve az odaítélt fokozat és a szak, szakképzettség megnevezését, az oklevél minősítését, a kiállítás helyét, évét, hónapját és napját, az oklevél által tanúsított végzettségnek, szakképzettségnek a Magyar Képesítési Keretrendszer, az Európai Képesítési Keretrendszer szerinti besorolását, valamint a képzésnek a képzési és kimeneti követelmény szerinti időtartamát. Tartalmaznia kell továbbá a felsőoktatási intézmény vezetőjének – illetőleg a tanulmányi és vizsgaszabályzatban meghatározott vezetőnek – eredeti aláírását, a felsőoktatási intézmény bélyegzőjének lenyomatát.
 
 (6) A kiadott oklevelekről központi nyilvántartást kell vezetni.
 
@@ -1211,18 +1214,20 @@ vehessen fel.
 
 #### 31. A doktori képzés és a doktori fokozatszerzési eljárás
 
-53. § (1) A doktori képzés a tudományterület sajátosságaihoz és a doktorandusz igényeihez igazodó egyéni vagy csoportos felkészítés keretében folyó képzési, kutatási és beszámolási tevékenység. Doktori képzésben az vehet részt, aki mesterfokozatot szerzett.
+53. § (1) A doktori képzés a tudományterület sajátosságaihoz és a doktorandusz igényeihez igazodó egyéni vagy csoportos felkészítés keretében folyó képzési, kutatási és beszámolási tevékenység, amely képzési és kutatási, valamint kutatási és disszertációs szakaszból áll. A doktori képzés során, a negyedik félév végén, a képzés képzési és kutatási szakaszának lezárásaként és a kutatási és disszertációs szakasz megkezdésének feltételeként komplex vizsgát kell teljesíteni, amely méri, értékeli a tanulmányi, kutatási előmenetelt.
 
-(2) A doktori képzést követően a doktori fokozatot külön fokozatszerzési eljárás keretében lehet megszerezni. A doktori fokozatszerzési eljárásban részt vevő a doktorjelölt. Doktorjelölt lehet az is, aki nem vett részt a doktori képzésben, a fokozatszerzésre egyénileg készült fel, feltéve, hogy mesterfokozatot szerzett, és teljesítette a doktori képzés követelményeit. Ha a doktorandusz a képzési időn belül megkezdi a fokozatszerzési eljárást, akkor a hallgatói jogviszonya mellett egyidejűleg doktorjelölt is.
+(2) A doktori képzés során a komplex vizsgát követően a fokozatszerzési eljárásban a hallgató a kutatási és disszertációs szakasz teljesítésével vesz részt, amelynek célja a doktori fokozat megszerzése.
 
-(3) A doktorjelölti jogviszony a doktori fokozatszerzési eljárásra történő jelentkezéssel és annak elfogadásával jön létre. Nem utasíthatja el a jelentkezését a felsőoktatási intézmény annak, aki az adott felsőoktatási intézményben sikeresen befejezte a doktori képzést. A doktorjelölti jogviszony keretében kell teljesíteni az (5) bekezdésben meghatározott követelményeket.
+(3) A doktori képzésbe bekapcsolódhat az is, aki a fokozatszerzésre egyénileg készült fel, feltéve, hogy teljesítette a felvétel és a doktori képzés követelményeit. A hallgatói jogviszony ebben az esetben a komplex vizsgára történő jelentkezéssel és annak elfogadásával jön létre.
 
-(4) A doktorjelölti jogviszony megszűnik a fokozatszerzési eljárás lezárásával, illetve akkor is, ha a doktorjelölt a jogviszony létesítésének napjától számított két éven belül nem nyújtotta be a doktori értekezését. A doktorjelölt jogaira és kötelezettségeire – ha jogszabály másként nem rendelkezik – egyebekben a hallgatói jogokra és kötelezettségekre vonatkozó rendelkezéseket kell alkalmazni.
+(4) A doktorandusznak a komplex vizsgát követő három éven belül a doktori szabályzatban meghatározottak szerinti doktori értekezést kell benyújtania. Ez a határidő különös méltányolást érdemlő, a 45. § (2) bekezdésben szabályozott esetekben legfeljebb egy évvel a doktori szabályzatban meghatározottak szerint meghosszabbítható. A fokozatszerzési eljárásban a hallgatói jogviszony szünetelése legfeljebb két félév lehet.
+
+(4a) A felsőoktatási intézmény annak a doktorandusznak, aki a doktori képzésben az előírt krediteket megszerezte, végbizonyítványt (abszolutórium) állít ki.
 
 (5) A doktori fokozat megszerzésének feltételei:
 
-- a) a doktori szabályzat alapján előírt kötelezettségek teljesítése, továbbá a doktori szigorlat – legalább háromtagú – vizsgabizottság előtt történő eredményes letétele;
-- b) két idegen nyelv a tudományterület műveléséhez szükséges ismeretének a doktori szabályzatban meghatározottak szerinti igazolása, amely siket doktorjelölt esetében a nem magyar jelnyelv ismeretének az igazolásával is történhet;
+- a) a doktori szabályzat alapján előírt kötelezettségek teljesítése;
+- b) két idegen nyelv a tudományterület műveléséhez szükséges ismeretének a doktori szabályzatban meghatározottak szerinti igazolása, amely siketek esetében a nem magyar jelnyelv ismeretének az igazolásával is történhet;
 - c) az önálló tudományos munkásság, sporttudományi tevékenység bemutatása cikkekkel, tanulmányokkal vagy más módon, művészeti (DLA-) fokozat megszerzésének feltételeként önálló művészeti alkotótevékenység eredményeinek bemutatása;
 - d) a fokozat követelményeihez mért tudományos, illetve művészeti feladat önálló megoldása; értekezés, alkotás bemutatása; az eredmények megvédése nyilvános vitában.
 
@@ -1234,7 +1239,7 @@ vehessen fel.
 
 (2) A doktori értekezést és téziseit elektronikus formában az Adatbázisban, az általánosan elfogadott nemzetközi gyakorlatnak megfelelő (DOI) azonosítóval ellátva, mindenki számára hozzáférhetővé kell tenni.
 
-(3) Szabadalmi, oltalmi eljárással érintett doktori értekezés esetén a doktori értekezés és a doktori tézisek nyilvánosságra hozatala a doktorjelölt kérelmére, a bírálóbizottság támogató véleménye alapján és a doktori tanács jóváhagyásával, legfeljebb a szabadalom, oltalom bejegyzésének időpontjáig elhalasztható. Nemzetbiztonsági okból minősített adatot tartalmazó doktori értekezést és doktori téziseit a minősítés időtartamának letelte után kell nyilvánosságra hozni.
+(3) Szabadalmi, oltalmi eljárással érintett doktori értekezés esetén a doktori értekezés és a doktori tézisek nyilvánosságra hozatala az értekezést benyújtó kérelmére, a bírálóbizottság támogató véleménye alapján és a doktori tanács jóváhagyásával, legfeljebb a szabadalom, oltalom bejegyzésének időpontjáig elhalasztható. Nemzetbiztonsági okból minősített adatot tartalmazó doktori értekezést és doktori téziseit a minősítés időtartamának letelte után kell nyilvánosságra hozni.
 
 #### 32. Tehetséggondozás, tudományos diákkörök, szakkollégiumok
 
@@ -1305,7 +1310,7 @@ vehessen fel.
 (3) A 57. §-t, és az (1)–(2) bekezdésben foglaltakat megfelelően alkalmazni kell
 
 - a) a felsőoktatási intézménybe jelentkezőt,
-- b) a doktoranduszt és a doktorjelöltet, továbbá
+- b)
 - c) az időközben megszűnt hallgatói jogviszonnyal rendelkezett hallgatót
 
 érintő döntésekre, illetve mulasztásokra.
@@ -1319,12 +1324,15 @@ vehessen fel.
 - a) ha a hallgatót másik felsőoktatási intézmény átvette, az átvétel napján,
 - b) ha a hallgató bejelenti, hogy megszünteti a hallgatói jogviszonyát, a bejelentés napján,
 - c) ha a hallgató nem folytathatja tanulmányait magyar állami (rész)ösztöndíjjal támogatott képzésben, és önköltséges képzésben nem kívánja azt folytatni,
-- d) az adott képzési ciklust, illetve a szakirányú továbbképzés, felsőoktatási szakképzés esetén az utolsó képzési időszakot követő első záróvizsga-időszak utolsó napján, illetve a doktori képzés képzési idejének utolsó napján,
+- d) az adott képzési ciklust, illetve a szakirányú továbbképzés, felsőoktatási szakképzés esetén az utolsó képzési időszakot követő első záróvizsga-időszak utolsó napján,
 - e) felsőoktatási szakképzésben, ha a hallgató tanulmányainak folytatására egészségileg alkalmatlanná vált, és a felsőoktatási intézményben nem folyik másik, megfelelő felsőoktatási szakképzés, vagy a hallgató nem kíván továbbtanulni, illetve a továbbtanuláshoz szükséges feltételek hiányában nem tanulhat tovább, a megszüntetés tárgyában hozott döntés jogerőre emelkedésének napján,
 - f) ha a hallgató hallgatói jogviszonyát – fizetési hátralék miatt – a rektor a hallgató eredménytelen felszólítása és a hallgató szociális helyzetének vizsgálata után megszünteti, a megszüntetés tárgyában hozott döntés jogerőre emelkedésének napján,
 - g) a kizárás fegyelmi határozat jogerőre emelkedésének napján,
 - h) ha a hallgatói jogviszony létesítéséhez előírt e törvényben meghatározott feltétel a továbbiakban már nem áll fenn, az ennek tárgyában hozott megszüntető döntés jogerőre emelkedésének napján,
-- i) ha a magyar állami (rész)ösztöndíjjal támogatott képzésben részt vevő hallgató a 48/D. § (2) bekezdés szerinti nyilatkozatát visszavonja és nem vállalja az önköltséges képzésben való részvételt.
+- i) ha a magyar állami (rész)ösztöndíjjal támogatott képzésben részt vevő hallgató a 48/D. § (2) bekezdés szerinti nyilatkozatát visszavonja és nem vállalja az önköltséges képzésben való részvételt,
+- j) ha a doktorandusz a komplex vizsgát nem teljesíti, a kötelezettség elmulasztásának, illetve sikertelenségének napján,
+- k) a doktori képzésben az abszolutórium megszerzésével,
+- l) a doktori képzés azon nyolcadik féléve végén, amelyre a hallgató bejelentkezett.
 
 (2) Az (1) bekezdés d) pontjában foglaltak szerint nem szűnik meg az alapképzésben részt vevő hallgató hallgatói jogviszonya, ha az alapfokozat megszerzését követően a soron következő félévre mesterképzésre felvételt nyert.
 
@@ -1605,7 +1613,7 @@ irányuló eljárásban.
 
 (4) A Magyar Rektori Konferencia működésének gazdasági, igazgatási feltételeit a felsőoktatási intézmények biztosítják.
 
-(5) Az Országos Doktori Tanács a felsőoktatási intézmények doktori tanácsai elnökeiből álló testület, amely állást foglal a doktori képzéssel, fokozatadással kapcsolatos kérdésekben. Az Országos Doktori Tanács határozza meg a doktori képzésre biztosított magyar állami (rész)ösztöndíjjal támogatott hallgatói létszámkeret felsőoktatási intézmények közötti minőség- és teljesítményalapú elosztásának elveit.
+(5) Az Országos Doktori Tanács a felsőoktatási intézmények doktori tanácsai elnökeiből álló testület, amely állást foglal a doktori képzéssel, fokozatadással kapcsolatos kérdésekben, valamint – a Doktoranduszok Országos Szövetségével egyeztetve – meghatározza a komplex vizsga szervezésének elveit. Az Országos Doktori Tanács határozza meg a doktori képzésre biztosított magyar állami (rész)ösztöndíjjal támogatott hallgatói létszám felsőoktatási intézmények közötti minőség- és teljesítményalapú elosztásának elveit.
 
 (6) Az Országos Doktori Tanács jogi személy. Az Országos Doktori Tanács az oktatási hivatal által a felsőoktatási információs rendszer keretében vezetett hatósági nyilvántartásba való bejegyzéssel jön létre, képviseletére az elnök jogosult. Az Országos Doktori Tanács a közhasznúsági nyilvántartásba vétel nélkül közhasznú szervezet. Az Országos Doktori Tanács alapító okiratát a miniszter adja ki.
 
@@ -1777,7 +1785,7 @@ gyakorolja.
 
 81. § (1) A magyar állami (rész)ösztöndíjjal támogatott képzés keretében a hallgató által igénybe vehető szolgáltatások a következők:
 
-- a) a képzési programban meghatározott oktatási és tanulmányi követelmények teljesítéséhez, az oklevél, illetve doktori abszolutórium megszerzéséhez szükséges előadások, szemináriumok, konzultációk, gyakorlati foglalkozások, terepgyakorlatok első alkalommal történő felvétele, a beszámolók, vizsgák és a sikertelen beszámolók, illetve vizsgák egy alkalommal történő megismétlése, a záróvizsga letétele, továbbá a fokozatszerzési eljárás a hallgatói jogviszony fennállása alatt, az 53. § (2) bekezdésben foglaltak szerint,
+- a) a képzési programban meghatározott oktatási és tanulmányi követelmények teljesítéséhez, az oklevél, illetve doktori abszolutórium megszerzéséhez szükséges előadások, szemináriumok, konzultációk, gyakorlati foglalkozások, terepgyakorlatok első alkalommal történő felvétele, a beszámolók, vizsgák és a sikertelen beszámolók, illetve vizsgák egy alkalommal történő megismétlése, a záróvizsga letétele, továbbá a fokozatszerzési eljárás a hallgatói jogviszony fennállása alatt,
 - b) szakkollégiumi foglalkozások,
 - c) a felsőoktatási intézmény létesítményeinek – könyvtár és a könyvtári alapszolgáltatások, laboratórium, számítástechnikai, sport- és szabadidős létesítmények –, eszközeinek használata az ingyenes szolgáltatásokhoz kapcsolódóan,
 - d) a felsőoktatási szakképzésben a gyakorlati képzéshez biztosított munkaruha, egyéni védőfelszerelés (védőruha) és tisztálkodási eszköz, más képzésben az egyéni védőfelszerelés (védőruha) és tisztálkodási eszköz,
@@ -1870,7 +1878,7 @@ nyújtott támogatás.
 
 (3) A képzési támogatást – kifutó rendszerben – a felsőoktatásról szóló 2005. évi CXXXIX. törvény szerinti államilag támogatott képzésben részt vevő hallgatók számított létszáma alapján kell meghatározni. A képzési támogatás összegét a képzés szakmai jellegére tekintettel képzési ciklusokra kell meghatározni. A képzéseket a képzési támogatáshoz való jogosultság szempontjából finanszírozási csoportokba kell sorolni.
 
-(4)
+(4) A felsőoktatási intézménynek folyósított képzési támogatás összege a fokozatszerzési eljárás idejére az adott doktori képzésben részt vett hallgató után nyújtott képzési támogatás összegének felével csökkenthető, ha a felsőoktatási intézmény hallgatója nem szerez doktori fokozatot.
 
 (5) Az (1)–(3) bekezdés szerinti képzési támogatás rendszerét a Kormány rendeletében állapítja meg.
 
@@ -2394,8 +2402,9 @@ eltérő rendelkezéseket állapíthat meg,
 
 108. § E törvény alkalmazásában
 
-- 1. doktori értekezés: a doktorjelölt által készített írásmű, alkotás vagy munka, amellyel a doktorjelölt – a doktori fokozatszerzési eljárás során – bizonyítja, hogy a fokozat követelményeihez mért tudományos feladat önálló megoldására képes;
-- 1. a. duális képzés: a műszaki, informatika, agrár, természettudomány vagy gazdaságtudományok képzési területen indított gyakorlatigényes alapképzési szakon, szociális munka alapképzési szakon, illetve a felsorolt képzési területhez tartozó mesterképzési szakon folytatott képzés azon formája, amelyben a szak – képzési és kimeneti követelményeknek megfelelően meghatározott, teljes idejű, a képzési időszakra, a képzés módszereire, a tanórára, a megszerzett tudás értékelésére egyedi rendelkezéseket tartalmazó – tanterve szerint a gyakorlati képzés a Duális Képzési Tanács által meghatározott keretek között, minősített szervezetnél folyik;
+- 1. doktorandusz: a doktori képzésben részt vevő hallgató;
+- 1a. doktori értekezés: a doktorandusz által készített írásmű, alkotás vagy munka, amellyel bizonyítja, hogy a fokozat követelményeihez mért tudományos feladat önálló megoldására képes;
+- 1b. duális képzés: a műszaki, informatika, agrár, természettudomány vagy gazdaságtudományok képzési területen indított gyakorlatigényes alapképzési szakon, szociális munka alapképzési szakon, illetve a felsorolt képzési területhez tartozó mesterképzési szakon folytatott képzés azon formája, amelyben a szak – képzési és kimeneti követelményeknek megfelelően meghatározott, teljes idejű, a képzési időszakra, a képzés módszereire, a tanórára, a megszerzett tudás értékelésére egyedi rendelkezéseket tartalmazó – tanterve szerint a gyakorlati képzés a Duális Képzési Tanács által meghatározott keretek között, minősített szervezetnél folyik;
 - 2. egészségügyi alkalmassági vizsgálat: orvosi vizsgálat, amelynek célja annak megállapítása, hogy az egyén testi adottságai és egészségi állapota alapján képes-e felkészülni a választott tevékenység ellátására, ennek során nem kerül-e veszélybe egészsége;
 - 3. esti képzés munkarendje: olyan oktatásszervezési rend, mely szerint a hallgatók tanóráira a szorgalmi időszakban munkanapokon tizenhat óra után vagy a heti pihenőnapon kerül sor;
 - 4. felmenő rendszer: képzésszervezési elv, amely alapján az új vagy módosított tanulmányi és vizsgakövetelményt azokra a hallgatókra lehet érvényesíteni, akik a bevezetését követően kezdték meg tanulmányaikat, illetve azokra, akik azt megelőzően kezdték meg tanulmányaikat, de választásuk alapján az új vagy módosított tanulmányi és vizsgakövetelmények alapján készülnek fel;
@@ -2575,17 +2584,17 @@ e törvény szerint kell megállapítani a hallgatói juttatásokat.
 
 113. § (1) A nyelvvizsga-bizonyítványt az 1993. évi felsőoktatásról szóló törvény rendelkezései alapján az oklevél kiadásának előfeltételeként akkor kell megkövetelni, ha a képzés indításakor annak meglétét előírták.
 
-(2) E törvény hatálybalépése után az, aki igazolja, hogy a felsőoktatási intézményben költségtérítéses, önköltséges képzésben szerzett oklevelet, az jogosult igénybe venni a magyar állami (rész)ösztöndíjas hallgatói képzést. Azoknál, akik 2006. január 1-je után felsőoktatásban szerzett oklevéllel vagy bizonyítvánnyal kezdenek újabb felsőfokú tanulmányokat és nem tudják igazolni, hogy tanulmányaikat költségtérítés, önköltség fizetése mellett folytatták, – bármely képzési ciklus esetén – azt kell vélelmezni, hogy hét félévet vettek igénybe államilag támogatott képzésként. E vélelemmel szemben a hallgató, a felsőoktatási intézmény és az oktatási hivatal a beiratkozást megelőzően igazolással élhet.
+(2) E törvény hatálybalépése után az, aki igazolja, hogy a felsőoktatási intézményben költségtérítéses, önköltséges képzésben szerzett oklevelet, az jogosult igénybe venni a magyar állami (rész)ösztöndíjas hallgatói képzést. Azoknál, akik 2006. január 1-je után – felsőoktatásban szerzett oklevéllel vagy bizonyítvánnyal – kezdenek újabb felsőfokú tanulmányokat és nem tudják igazolni, hogy tanulmányaikat költségtérítés, önköltség fizetése mellett folytatták, – bármely képzési ciklus esetén – azt kell vélelmezni, hogy hét félévet vettek igénybe államilag támogatott képzésként. E vélelemmel szemben a hallgató, a felsőoktatási intézmény és az oktatási hivatal a beiratkozást megelőzően igazolással élhet.
 
 (3) A felsőoktatási intézmény kreditátviteli bizottsága határozza meg a 49. § (5)–(6) bekezdése alapján, hogy a felsőoktatásról szóló 1993. évi törvény rendelkezései alapján kiadott bizonyítványokat, illetve okleveleket az e törvény alapján induló képzésekben milyen feltételek mellett, hány kredittel számítja be. Az ismeretek összevetését el kell végezni, függetlenül attól, hogy a hallgató a korábbi oklevél megszerzéséért folytatott tanulmányai során kreditrendszerű képzésben vagy nem kreditrendszerű képzésben vett részt.
 
-(4) A 2005. évi felsőoktatási törvény rendelkezései szerint felsőfokú szakképzésben szerzett bizonyítvány alapján legalább harminc, legfeljebb hatvan kredit számítható be az azonos képzési területhez tartozó alapképzésbe. E keretek között a felsőoktatási intézmény kreditátviteli bizottsága határozza meg a 49. § (5)–(6) bekezdése alapján, hogy a kiadott bizonyítványokat, az e törvény alapján induló képzésben milyen feltételek mellett, hány kredittel számítja be. A 2005. évi felsőoktatási törvény alapján nyilvántartásba vett felsőfokú szakképzés 2012 szeptemberét követően nem indítható. A már megkezdett képzések változatlan feltételek mellett kifutó rendszerben – de legfeljebb a 2015/2016-os tanévben – fejezhetők be.
+(4) A 2005. évi felsőoktatási törvény rendelkezései szerint felsőfokú szakképzésben szerzett bizonyítvány alapján legalább harminc, legfeljebb hatvan kredit számítható be az azonos képzési területhez tartozó alapképzésbe. E keretek között a felsőoktatási intézmény kreditátviteli bizottsága határozza meg a 49. § (5)–(6) bekezdése alapján, hogy a kiadott bizonyítványokat, az e törvény alapján induló képzésben milyen feltételek mellett, hány kredittel számítja be.
 
 (5) A 15. § (2) bekezdésében foglaltakat a 2013 szeptemberében és azt követően induló képzésekre kell alkalmazni.
 
 114. § (1) Ha a doktorandusz a doktori képzést az 2005. évi felsőoktatásról szóló törvény rendelkezései alapján kezdte meg, azt az előírt követelmények szerint fejezheti be. A doktori képzés és fokozatszerzés eljárási kérdéseire e törvény rendelkezéseit kell alkalmazni. A doktori képzésben résztvevőknek az e törvényben meghatározott fokozatokat kell odaítélni. Az 1993. és a 2005. évi felsőoktatásról szóló törvény alapján odaítélt doktori fokozatok egyenértékűek az e törvény alapján kiadott doktori fokozatokkal.
 
-(2)
+(2) E törvénynek – az oktatás szabályozására vonatkozó egyes törvények módosításáról szóló 2015. évi CCVI. törvénnyel megállapított – 16. § (1) bekezdését, 47. § (2) bekezdését, 48. § (2a) bekezdését, 53. § (1)–(4a) bekezdését és (5) bekezdés a) és b) pontját, 53/A. § (3) bekezdését, 59. § (1) bekezdés j)–l) pontját, 72. § (5) bekezdését, 84/A. § (4) bekezdését, 108. § 1., 1a. pontját, 114/D. § (1) bekezdés b) pontját először a 2016/2017. tanév első félévében doktori képzésben hallgatói jogviszonyt létesítő hallgatókra kell alkalmazni.
 
 114/A. § (1) E törvénynek – az egyes törvényeknek a központi költségvetésről szóló törvény megalapozásával összefüggő, valamint egyéb célú módosításáról szóló 2012. évi CCVIII. törvénnyel megállapított – 39. § (5) és (6) bekezdése alapján 2013. szeptemberében és azt követően szakirányú továbbképzésre, doktori képzésre felvehető magyar állami (rész)ösztöndíjjal támogatott létszám megegyezik a Kormány által a 2012. évre vonatkozóan megállapított létszámmal; a mesterképzésbe felvehető magyar állami (rész)ösztöndíjas létszám az adott évet megelőző harmadik évben felsőfokú szakképzésbe – ennek hiányában felsőoktatási szakképzésbe –, alapképzésbe, egységes, osztatlan képzésbe államilag, illetve magyar állami (rész)ösztöndíjjal támogatott képzésre felvett létszám harmincöt százaléka.
 
@@ -2602,7 +2611,10 @@ e törvény szerint kell megállapítani a hallgatói juttatásokat.
 114/D. § (1) E törvénynek a 2012. évi CCVIII. törvénnyel megállapított 85/A. § (1) bekezdése alapján
 
 - a) az egy főre megállapított hallgatói normatíva 119 000 Ft/év,
-- b) a doktori képzésben részt vevők egy főre meghatározott támogatási normatívája 1 200 000 Ft/év,
+- b) a doktori képzésben részt vevők egy főre meghatározott támogatása
+  - ba) a képzési és kutatási szakaszban 1 680 000 Ft/év,
+  - bb) a kutatási és disszertációs szakaszban 2 160 000 Ft/év,
+  - bc) a doktori képzés során sikeres fokozatszerzés esetén egyszeri 400 000 Ft.
 - c) a nemzeti felsőoktatási ösztöndíjban részesülők normatívája 400 000 Ft/év,
 - d) a kollégiumi-diákotthoni elhelyezés normatívája 116 500 Ft/év,
 - e) a lakhatási támogatás normatívája 60 000 Ft/év,
@@ -2612,17 +2624,7 @@ e törvény szerint kell megállapítani a hallgatói juttatásokat.
 
 (3) A XXIV. Fejezet alkalmazásában államilag támogatott képzésben részt vevő hallgatónak minősül az államilag finanszírozott képzésre felvett, és
 
-- a) a 2000/2001-es, a 2001/2002-es tanévben hallgatói jogviszonyt létesített személy ezen jogviszonya keretében, ha
-  - aa) e jogviszony létesítése előtt még nem létesített hallgatói jogviszonyt és első alapképzésben vesz részt, és megkezdett féléveinek száma a képesítési követelményekben előírt képzési idő féléveinek számát nem haladja meg, vagy
-  - ab) tanulmányai megkezdésekor egyszakos tanári oklevéllel már rendelkezett, és a második egyszakos tanári végzettség megszerzését eredményező képzésben vesz részt, továbbá megkezdett féléveinek száma nem haladja meg a képesítési követelményekben előírt képzési idő féléveinek számát, vagy
-  - ac) olyan szakon folytat tanulmányokat, amelynek képesítési követelményei bemeneti követelményként előírják, hogy a hallgatónak felsőoktatási oklevéllel kell rendelkeznie, továbbá megkezdett féléveinek száma nem haladja meg a képesítési követelményekben előírt képzési idő féléveinek számát, vagy
-  - ad) első kiegészítő alapképzésben vesz részt, négy féléven keresztül;
-- b) a 2002/2003-as, 2003/2004-es, a 2004/2005-ös, 2005/2006-os tanévben hallgatói jogviszonyt létesített személy e jogviszonya keretében, ha
-  - ba) e jogviszony létesítése előtt még nem létesített hallgatói jogviszonyt, és első alapképzésben vesz részt, és megkezdett féléveinek száma nem haladja meg a képesítési követelményekben előírt képzési idő féléveinek számát legalább 8 féléves képzés esetén hárommal, egyébként kettővel megnövelt értéket, vagy
-  - bb) e jogviszony létesítése előtt hallgatói jogviszonyt létesített, de felvételi eljárás keretében e jogviszony megszüntetésével együtt új jogviszonyt hozott létre és első alapképzésben vesz részt, továbbá összes megkezdett féléveinek száma nem haladja meg a képesítési követelményekben előírt képzési idő féléveinek számát legalább 8 féléves képzés esetén hárommal, egyébként kettővel megnövelt értéket, vagy
-  - bc) tanulmányai megkezdésekor államilag finanszírozott egyszakos közismereti tanári vagy hittanár-nevelő képzésben vett részt, és a második egyszakos közismereti tanári végzettség megszerzését eredményező képzésben vesz részt, továbbá megkezdett féléveinek száma nem haladja meg a képesítési követelményekben előírt képzési idő féléveinek számát legalább 8 féléves képzés esetén hárommal, egyébként kettővel megnövelt értéket, vagy
-  - bd) olyan szakon folytat tanulmányokat, amelynek képesítési követelményei bemeneti követelményként előírják, hogy a hallgatónak felsőoktatási oklevéllel kell rendelkeznie, továbbá megkezdett féléveinek száma nem haladja meg a képesítési követelményekben előírt képzési idő féléveinek számát legalább 8 féléves képzés esetén hárommal, egyébként kettővel megnövelt értéket, vagy
-  - be) első kiegészítő alapképzésben vesz részt, hat féléven keresztül;
+- a)–b)
 - c) bármely szakon költségtérítéses képzésből az intézmény döntése alapján, az intézménynél már meglévő államilag finanszírozott helyre átvett hallgató a kilépett hallgató képzési idejéből még hátralévő időtartamban.
 
 #### 114/E. §
@@ -2699,7 +2701,7 @@ e törvény szerint kell megállapítani a hallgatói juttatásokat.
 
 (7) E törvénynek – az egyes, a felsőoktatás szabályozására vonatkozó törvények módosításáról szóló 2015. évi CXXXI. törvénnyel megállapított – 31. § (5) bekezdés a) pontja alapján a felülvizsgálatot, ellenőrzést a munkáltató első alkalommal 2016-ban folytatja le.
 
-(8) E törvénynek – az egyes, a felsőoktatás szabályozására vonatkozó törvények módosításáról szóló 2015. évi CXXXI. törvénnyel megállapított – 48. § (2) bekezdésében meghatározott feltételeket a 2016/2017. tanév első félévében tanulmányaikat megkezdő hallgatókra, majd azt követően felmenő rendszerben kell alkalmazni.
+(8) E törvénynek – az egyes, a felsőoktatás szabályozására vonatkozó törvények módosításáról szóló 2015. évi CXXXI. törvénnyel megállapított – 48. § (2) bekezdésében meghatározott feltételeket a 2016/2017. tanév első félévében tanulmányaikat megkezdő hallgatókra, majd azt követően felmenő rendszerben kell alkalmazni. A 2015/2016-os tanévben tanulmányait megkezdő, magyar állami ösztöndíjjal támogatott képzésben részt vevő hallgatót, aki az utolsó két olyan félévben, amelyben hallgatói jogviszonya nem szünetelt, nem szerezte meg legalább az ajánlott tantervben előírt kreditmennyiség ötven százalékát, illetve az intézmény szervezeti és működési szabályzatában ajánlott tanulmányi átlagot, továbbá azt, aki a 48/D. § (2) bekezdés szerinti nyilatkozatát visszavonja, a felsőoktatási intézmény tanévenként köteles önköltséges képzésre átsorolni.
 
 (9) E törvénynek – az egyes, a felsőoktatás szabályozására vonatkozó törvények módosításáról szóló 2015. évi CXXXI. törvénnyel megállapított – 48/E. § (4) bekezdésében foglaltakat a 2015. augusztus 31-ét megelőzően tett hallgatói nyilatkozaton – továbbá a 111. § (8) bekezdése alapján azzal egyenértékű jognyilatkozaton – alapuló magyar állami (rész)ösztöndíjas jogosultság, illetve kötelezettség esetén 2017. augusztus 1-jétől kezdődően kell alkalmazni.
 
@@ -2977,11 +2979,11 @@ ae) a felvételi eljárás adatai, a felvételi azonosító;
 
 af) a 48/D. § (2) bekezdése szerinti nyilatkozat azonosító száma;
 
-b) a hallgatói (doktorjelölt) jogviszonnyal összefüggő adatok:
+b) a hallgatói jogviszonnyal összefüggő adatok:
 
 ba) a hallgató neve, neme, születési neve, anyja neve, születési helye és ideje, állampolgársága, lakóhelye, tartózkodási helye, értesítési címe és telefonszáma, elektronikus levélcíme, nem magyar állampolgár esetén a Magyarország területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat – külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány – megnevezése, száma,
 
-bb) a hallgatói (doktorjelölti, vendéghallgatói) jogviszony típusa, keletkezésének és megszűnésének időpontja és módja, a hallgató által folytatott képzés megnevezése, a képzés költségviselési formája és munkarendje, a képzés befejezésének várható időpontja, a hallgató tanulmányainak értékelése, vizsgaadatok, megkezdett félévek, igénybe vett támogatási idő, a hallgatói jogviszony szünetelésének ideje,
+bb) a hallgatói (vendéghallgatói) jogviszony típusa, keletkezésének és megszűnésének időpontja és módja, a hallgató által folytatott képzés megnevezése, állami támogatottsága és munkarendje, a képzés befejezésének várható időpontja, a hallgató tanulmányainak értékelése, vizsgaadatok, megkezdett félévek, igénybe vett támogatási idő, a hallgatói jogviszony szünetelésének ideje,
 
 bc) a külföldi felsőoktatási résztanulmányok helye, ideje,
 
@@ -3125,19 +3127,19 @@ f) oktatói tevékenységét mely szak, szakok képzése keretében folytatja.
 
 3. Az 1. pontban felsorolt adatok továbbíthatók: a társadalombiztosítási, illetmény és munkabér vagy más juttatás kifizetőhelyének (minden olyan adat, amely az illetmény, munkabér vagy más juttatás, jogosultság megállapításához, igénybevételéhez szükséges); a bíróságnak, rendőrségnek, ügyészségnek, a bírósági végrehajtónak, államigazgatási szervnek (a konkrét ügy eldöntéséhez szükséges adatok); a nemzetbiztonsági szolgálatnak (az Nbtv.-ben meghatározott feladatok ellátásához szükséges valamennyi adat); a fenntartónak (a fenntartói jogok gyakorlásához szükséges valamennyi adat); a Magyar Felsőoktatási Akkreditációs Bizottságnak (a szakértői tevékenyég ellátásához szükséges valamennyi adat); a felsőoktatási intézménynek (az alkalmazottjával kapcsolatos minden adat); továbbá a köznevelési információs rendszernek (az 1. a) és b) pont szerinti adat annak biztosítása érdekében, hogy egy személynek csak egy azonosító száma legyen).
 
-II/C. A hallgatói, doktorjelölti személy törzs
+II/C. A hallgatói személy törzs
 
 1. E törvény alapján nyilvántartott adatok:
 
-a) a hallgatói (doktorjelölti) jogviszonnyal összefüggő adatok:
+a) a hallgatói jogviszonnyal összefüggő adatok:
 
-aa) a hallgató (doktorjelölt) neve, születési neve, anyja neve, születési helye és ideje, állampolgársága, neme, lakóhelye, tartózkodási helye, értesítési címe, telefonszáma, elektronikus levélcíme,
+aa) a hallgató neve, születési neve, anyja neve, születési helye és ideje, állampolgársága, neme, lakóhelye, tartózkodási helye, értesítési címe, telefonszáma, elektronikus levélcíme,
 
 ab) nem magyar állampolgár esetén a Magyarország területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat – külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány – megnevezése, száma,
 
 ac) a jogviszony típusa, keletkezésének és megszűnésének időpontja és módja,
 
-ad) a hallgató által folytatott képzés megnevezése, képzés költségviselési formája és munkarendje, megkezdett félévek, a hallgatói jogviszony szünetelésének ideje, a képzés befejezésének várható időpontja
+ad) a hallgató által folytatott képzés megnevezése, finanszírozásának módja és munkarendje, megkezdett félévek, a hallgatói jogviszony szünetelésének ideje, a képzés befejezésének várható időpontja
 
 ae) a képzés során, illetve azt megelőzően igénybe vett támogatási idő,
 
@@ -3187,11 +3189,9 @@ d) az adatokat igazoló okiratok azonosítására szolgáló adatok;
 
 e) a hallgató által fizetett díjak és térítések adatai;
 
-f) hallgatói támogatásban, gyermekgondozást segítő ellátásban, gyermekgondozási díjban, rendszeres gyermekvédelmi támogatásban, lakhatási támogatásban részesülés esetén e támogatások adatai;
+f) hallgatói támogatásban, gyermekellátási segélyben, gyermekgondozási díjban, rendszeres gyermekvédelmi támogatásban, lakhatási támogatásban részesülés esetén e támogatások adatai;
 
-g) a hallgató tanulmányai támogatása érdekében, a hallgató jogviszonyára tekintettel folyósított – a 85. § (1) és (2) bekezdésében foglaltak szerint a Kormány által rendelettel alapított – ösztöndíj adatai;
-
-h) a hallgató részére nyújtott pénzbeli juttatások adatai.
+g) a hallgató tanulmányai támogatása érdekében, a hallgató jogviszonyára tekintettel folyósított – a 85. § (1) és (2) bekezdésében foglaltak szerint a Kormány által rendelettel alapított – ösztöndíj adatai.
 
 2. Az 1. pontban fel nem sorolt személyes és különleges adat az érintett írásbeli hozzájárulásával tartható nyilván.
 
@@ -3219,7 +3219,7 @@ d) a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásá
 
 e) a társadalombiztosítási hatóságnak a társadalombiztosítási ellátásra való jogosultságot meghatározó adatok;
 
-f) a felsőoktatási intézménynek a hozzá jelentkező és vele hallgatói (doktorjelölti) jogviszonyban álló személyre vonatkozó valamennyi adat;
+f) a felsőoktatási intézménynek a hozzá jelentkező és vele hallgatói jogviszonyban álló személyre vonatkozó valamennyi adat;
 
 g) a felsőoktatási intézménynek a hozzá felvételre, átvételre került személyekre vonatkozó valamennyi adat;
 

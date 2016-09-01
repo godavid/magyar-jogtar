@@ -25,7 +25,7 @@ terjed ki.
 (2) E törvény
 
 - a) XVI. fejezetét a kölcsönvevőre,
-- b) XVII. fejezetét az iskolaszövetkezet által nyújtott szolgáltatás jogosultjára
+- b)
 
 alkalmazni kell.
 
@@ -2385,92 +2385,19 @@ foglaltakat nem lehet alkalmazni.
 
 (5) Kölcsönzésre irányuló munkaviszony esetén a 77. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy a végkielégítésre való jogosultság megállapításakor a munkaviszonynak az utolsó kikölcsönzés alatti tartamát kell figyelembe venni.
 
-### XVII. Fejezet — AZ ISKOLASZÖVETKEZET ÉS TAGJA KÖZÖTTI MUNKAVISZONY KÜLÖNÖS SZABÁLYAI
+### XVII. Fejezet
 
-223. § (1) Az iskolaszövetkezet (munkáltató) és a nappali tagozatos tanuló, hallgató tagja (munkavállaló) között harmadik személy (a szolgáltatás fogadója) részére nyújtott szolgáltatás teljesítése érdekében munkaviszony határozott időre létesíthető.
+#### 223. §
 
-(2) A munkaszerződésben meg kell határozni
+#### 224. §
 
-- a) a munkavállaló által vállalt feladatok körét,
-- b) a munkavállalónak a szolgáltatás fogadójánál történő munkavégzési kötelezettsége teljesítésének tartamára járó alapbérek legkisebb összegét,
-- c) a felek kapcsolattartásának módját a munkavégzési kötelezettséggel nem járó időtartamra.
+#### 225. §
 
-(3) A munkavégzés megkezdésének feltétele, hogy a felek írásban megállapodjanak
+#### 226. §
 
-- a) a szolgáltatás fogadójának személyében,
-- b) a munkavégzési kötelezettség teljesítése során ellátandó munkakörben,
-- c) az alapbérben,
-- d) a munkavégzés helyében,
-- e) a munkába lépés napjában,
-- f) a munkavégzés tartamában.
+#### 101.
 
-(4) A munkáltató a munkavállalót legkésőbb a munkavégzési kötelezettség megkezdésével egyidejűleg írásban köteles tájékoztatni
-
-- a) az irányadó munkarendről,
-- b) a bérfizetés napjáról,
-- c) a munkakörbe tartozó feladatokról,
-- d) az utasítást adó személyéről.
-
-224. § (1) A szolgáltatás fogadója a munkavállalónak utasítást adhat.
-
-(2) A szolgáltatás fogadója együttműködik a munkáltatóval, így különösen biztosítja a munkáltató képviselőjének a munkavégzés helyére történő belépést, tájékoztatja a munkáltatót a munkavégzéssel kapcsolatos lényeges körülményekről.
-
-(3) A munkavállaló munkavégzési kötelessége teljesítésének tartama alatt a szolgáltatás fogadója gyakorolja, illetve teljesíti azokat a munkáltatót megillető jogokat és terhelő kötelezettségeket, amelyek
-
-- a) a munkavédelemmel,
-- b) a nők, a fiatal munkavállalók, a megváltozott munkaképességűek foglalkoztatásával,
-- c) a munkaidővel, pihenőidővel és ezek nyilvántartásával
-
-kapcsolatosak.
-
-(4) A szolgáltatás fogadójánál történő munkavégzés tartama alatt az iskolaszövetkezet munkavállalója számára biztosítani kell a szolgáltatás fogadójával munkaviszonyban álló munkavállalókra irányadó – a 219. § (2) bekezdésében foglalt – alapvető munka– és foglalkoztatási feltételeket.
-
-(5) A (4) bekezdésben foglalt kötelezettség teljesítéséért a munkáltató és a szolgáltatás fogadója egyetemlegesen felel.
-
-225. § (1) A munkaviszony a tagsági jogviszony megszűnésének időpontjában megszűnik.
-
-(2) A munkavégzési kötelezettséggel nem járó idő tartama nem lehet kevesebb, mint a 116–117. § szerinti szabadság mértéke.
-
-(3) Arra az időre, amíg a munkavállaló a munkáltató vagy a szolgáltatás fogadója részére nem végez munkát – a 146. §-ban foglaltak kivételével – nem illeti meg díjazás.
-
-226. § (1) A munkavállaló károkozása vagy személyiségi jog sértése esetén a szolgáltatás fogadója a munkavállalóval szembeni igényét e törvény rendelkezései szerint érvényesítheti.
-
-(2) A munkáltató és a szolgáltatás fogadójának megállapodása alapján az (1) bekezdésben foglalt esetben az alkalmazott károkozásáért való felelősség polgári jogi szabályait kell alkalmazni.
-
-(3) A szolgáltatás fogadója részére történő munkavégzés során a munkavállalónak okozott kárért vagy a személyiségi jogai megsértéséért a munkáltató és a szolgáltatás fogadója egyetemlegesen felel.
-
-#### 101. Eltérő megállapodás
-
-227. § (1) A felek megállapodása vagy kollektív szerződés
-
-- a) a 223. § (1) bekezdésében,
-- b) a 224. § (1)–(2) bekezdésében, (3) bekezdés a) és b) pontjában, (4)–(5) bekezdésében,
-- c) a 225. § (1) bekezdésében,
-- d) a 226. § (3) bekezdésében
-
-foglaltaktól nem térhet el.
-
-(2) Kollektív szerződés
-
-- a) a 223. § (2)–(4) bekezdésében,
-- b) a 225. § (2)–(3) bekezdésében
-
-foglaltaktól csak a munkavállalóra javára térhet el.
-
-(3) E fejezet szerinti munkaviszonyra
-
-- a) a 115–133. §-ban,
-- b) a 192. § (2) és (4) bekezdésében
-
-foglaltakat nem kell alkalmazni.
-
-(4) E fejezet szerinti munkaviszonyra
-
-- a) a 193–195. §-ban,
-- b) a 198–200. §-ban,
-- c) a 228. §-ban
-
-foglaltakat nem lehet alkalmazni.
+#### 227. §
 
 ### XVIII. Fejezet — A MUNKAVISZONYHOZ KAPCSOLÓDÓ EGYES MEGÁLLAPODÁSOK
 

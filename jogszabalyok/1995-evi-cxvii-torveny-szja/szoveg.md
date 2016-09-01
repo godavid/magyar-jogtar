@@ -1828,7 +1828,7 @@ a (3)–(9) bekezdések rendelkezéseit, valamint az adózás rendjéről szól�
 
 - a) jövedelemként
   - aa) azt – a nyereményalapot meg nem haladó – összeget, amelyet a kifizető a nyereménybetét-számlán jóváírt nyeremény megváltásaként a magánszemélynek jóváír, kifizet;
-  - ab) azt a bevételt, amellyel összefüggésben az adózás rendjéről szóló törvény kamatjövedelemre vonatkozó adatszolgáltatási kötelezettséget ír elő;
+  - ab)
   - ac) az egyszeri díjas biztosításokból származó, az (1) bekezdés d) pontja szerinti kamatjövedelmet, ha a biztosítói teljesítés a szerződés létrejöttét követő 5. év elteltével vagy az után következik be, továbbá a rendszeres díjas biztosításokból származó, az (1) bekezdés d) pontja szerinti kamatjövedelmet, ha a biztosítói teljesítés a szerződés létrejöttét követő 10. év elteltével vagy az után következik be;
   - ad) az egyszeri díjas biztosításokból származó, az (1) bekezdés d) pontja szerinti kamatjövedelem 50 százalékát, ha a biztosítói teljesítés a szerződés létrejöttét követő 3. év elteltével vagy az után, de az 5. év elteltét megelőzően következik be, továbbá a rendszeres díjas biztosításokból származó, az (1) bekezdés d) pontja szerinti kamatjövedelem 50 százalékát, ha a biztosítói teljesítés a szerződés létrejöttét követő 6. év elteltével vagy az után, de a 10. év elteltét megelőzően következik be;
 - b) kamatjövedelemként
@@ -2675,7 +2675,18 @@ e tájékoztatási kötelezettség elmulasztása vagy nem megfelelő teljesíté
 
 (8) Az őstermelői nyilvántartásban kezelt adatok a Központi Statisztikai Hivatal részére statisztikai célra és az agrárgazdasági adatbázist működtető szerv részére statisztikai és gazdaságelemzési célra egyedi azonosításra alkalmas módon, egyéb statisztikai, illetve tudományos kutatási célra – személyazonosításra alkalmatlan módon – átadhatók és felhasználhatók.
 
-81/B. § A mezőgazdasági igazgatási szerv ellenőrzi az őstermelői igazolvány használatának jogszerűségét és az abban foglalt adatok valódiságát. A mezőgazdasági igazgatási szerv a jogszerűtlen használatot jelzi az adóhatóságnak a jogszerűtlen használat megállapításáról szóló döntés jogerőre emelkedése negyedévét követő hónap utolsó napjáig. A jelzés tartalmazza az érintett magánszemély nevét, adóazonosító jelét és jelzésre okot adó tényeket, körülményeket, a jogszerűtlen használat, a valóságtól eltérő adatok megállapításának időpontját, továbbá – ha az ismert –feltünteti azt, hogy a jogszerűtlen használat vagy az eltérés mely időponttól állt fenn.
+81/B. § (1) A széles körű fogyasztói tájékoztatás, az élelmiszer-biztonság, valamint a termék nyomon követhetősége érdekében az őstermelői nyilvántartás alábbi adatai – a (2) bekezdésben foglaltak szerint – bárki számára megismerhető, nyilvános adatok:
+
+- a) mezőgazdasági őstermelő neve,
+- b) mezőgazdasági őstermelő igazolványának száma,
+- c) az őstermelői igazolvány hatályossága és érvényessége,
+- d) az őstermelői igazolvány visszavonására, visszatartására vonatkozó adatok,
+- e) a mezőgazdasági őstermelő által termesztett növénykultúrák, -fajok megnevezése,
+- f) a mezőgazdasági őstermelő által tartott állatfajok megnevezése,
+- g) a mezőgazdasági őstermelő által értékesíteni kívánt növényi, illetve állati eredetű termékek megnevezése,
+- h) a mezőgazdasági őstermelő által vadon gyűjthető termékek köre.
+
+(2) Az Agrárkamara köteles az (1) bekezdés szerinti adatokat naprakészen bárki számára ingyenesen az interneten, valamint mobiltelefonokon használható alkalmazás keretében folyamatosan megismerhetővé tenni, az őstermelői nyilvántartást vezető szerv által ebből a célból szolgáltatott adatai alapján. Az így közzétett adatok tájékoztató jellegűek, azok nem közhitelesek.
 
 81/C. § A mezőgazdasági igazgatási szerv ellenőrzi az őstermelői igazolvány és az értékesítési betétlap használatának jogszerűségét, valamint az őstermelő által közölt és nyilvántartásba vett adatok és nyilatkozatok valódiságát. A mezőgazdasági igazgatási szerv a nem jogszerű használat megállapításáról szóló határozatot az adóhatóságnak megküldi.
 
@@ -2732,7 +2743,7 @@ e tájékoztatási kötelezettség elmulasztása vagy nem megfelelő teljesíté
 84. § (1) Ez a törvény a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt, az 1994. évi I. törvénnyel kihirdetett Európai Megállapodással összhangban az Európai Közösség következő jogszabályaihoz való közelítést célozza:
 
 - a) a Tanács 90/434/EGK irányelve a különböző tagállamok társaságait érintő egyesülésekre, szétválásokra, eszközátruházásokra és részesedéscserékre alkalmazandó közös adózási rendszerről;
-- b) a Tanács 2003/48/EK irányelve a kamatozó megtakarítási formákból eredő jövedelmek adóztatásáról;
+- b) a megtakarításokból származó kamatjövedelem adóztatásáról szóló 2003/48/EK irányelv hatályon kívül helyezéséről szóló 2015. november 10-i 2015/2060. tanácsi irányelv;
 - c) az Európai Közösségek Bizottsága 94/79/EGK ajánlása a magánszemély által nem az illetősége szerinti tagállamban szerzett egyes jövedelmek adóztatásáról.
 
 (2) Ez a törvény – az 1998. évi XV. törvénnyel kihirdetett, a Gazdasági Együttműködési és Fejlesztési Szervezet (OECD) Konvenciójának, az ahhoz kapcsolódó jegyzőkönyveknek és a csatlakozási nyilatkozatoknak megfelelően – a jövedelem- és vagyonadókra vonatkozó modellegyezmény figyelembevételével készült szabályozást tartalmaz.
