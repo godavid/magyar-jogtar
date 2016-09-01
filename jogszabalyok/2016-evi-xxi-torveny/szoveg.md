@@ -6,13 +6,21 @@ az Erzsébet-programot érintő egyes törvények módosításáról
 
 1–5. §
 
-6. §
+6. § Az Ept. a következő 6/B. §-sal egészül ki:
+
+„6/B. § (1) A 2. mellékletben szereplő ingatlanok, valamint az ingatlanok működtetéséhez és a 3. § (2) bekezdésben meghatározott közfeladatok ellátásához szükséges állami tulajdonú – az ingatlanokhoz kapcsolódó – ingóságoknak legkésőbb az ingatlanok tulajdonba adását megelőző 15. nappal – a tulajdonosi joggyakorló által megállapított – állománya az állami vagyonról szóló 2007. évi CVI. törvény 36. § (1) bekezdése alapján ingyenesen és illetékmentesen az Alapítvány tulajdonába kerülnek a 3. § (2) bekezdésben meghatározott közfeladatok ellátásának elősegítése érdekében, azzal a feltétellel, hogy az Alapítvány az érintett vagyonelemeket terhelő – a Magyar Nemzeti Vagyonkezelő Zrt. által meghatározott – kötelezettségeket teljeskörűen átvállalja.
+
+(2) Az (1) bekezdés szerinti tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a Magyar Nemzeti Vagyonkezelő Zrt. készíti elő és köti meg. A szerződésben az érintett vagyonelemek forgalmi értékeként a Magyar Nemzeti Vagyonkezelő Zrt. által megállapított forgalmi értéket kell megjelölni. A szerződés megkötése során a természet védelméről szóló 1996. évi LIII. törvény 68. § (8) bekezdés a) pontjában foglaltakat nem kell alkalmazni.
+
+(3) Az (1) és (2) bekezdést az ingatlan-nyilvántartásba történő bejegyzéshez szükséges telekalakítás következtében a 2. mellékletben szereplő ingatlanok helyébe lépő nem forgalomképtelen vagy nem korlátozottan forgalomképes ingatlanokra is alkalmazni kell.”
 
 7–8. §
 
 9. § (1)
 
-(2)–(3)
+(2) Az Ept. 1. melléklete helyébe a 2. melléklet lép.
+
+(3) Az Ept. a 3. melléklet szerinti 2. melléklettel egészül ki.
 
 10. § Hatályát veszti
 

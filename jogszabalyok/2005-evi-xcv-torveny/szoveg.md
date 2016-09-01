@@ -701,6 +701,8 @@ kérdésében a Polgári Törvénykönyv sérelemdíjra és termékfelelősségr
 
 (13) A (2), (6) és (6a) bekezdés szerinti eljárások igazgatási szolgáltatási díjmentesek.
 
+(14) A (2), (6) és (6a) bekezdéstől eltérően a mentés során történő gyógyszeralkalmazásra az egészségügyért felelős miniszter rendeletében foglaltak szerint kerülhet sor.
+
 25/A. §
 
 25/A. § A gyógyszerészeti államigazgatási szerv engedélyezi az 1. § 29. pontja szerinti forgalomba hozatali engedéllyel nem rendelkező fejlett (újszerű) terápiás gyógyszerkészítmény gyártását abban az esetben is, ha azt nem rendszeres jelleggel meghatározott minőségi követelményeknek megfelelően állítják elő és egy kezelőorvos kizárólagos szakmai felelőssége mellett használják fel egy adott fekvőbeteg-gyógyintézetben, egy adott beteg számára szóló, rendelésre készült készítményre vonatkozó egyedi orvosi rendelvény teljesítése érdekében [a továbbiakban: fejlett (újszerű) terápiás gyógyszerkészítmény kórházi eseti gyártása].

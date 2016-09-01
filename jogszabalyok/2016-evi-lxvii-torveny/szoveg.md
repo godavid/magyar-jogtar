@@ -28,7 +28,11 @@ lép.
 
 #### 7–12. §
 
-#### 13. §
+13. § Az államháztartásról szóló 2011. évi CXCV. törvény 58. §-a helyébe a következő rendelkezés lép:
+
+„58. § (1) A helyi önkormányzat az éves költségvetési beszámolójában számol el a számára a költségvetési évben folyósított támogatásokkal.
+
+(2) A helyi önkormányzat az éves költségvetési beszámolójában a költségvetési évben folyósított támogatások felhasználásával kapcsolatos önellenőrzést a költségvetési beszámoló teljesítésének határidejét követő második hónaptól a Kormány rendeletében meghatározott mértékű – a központi költségvetés 14. § (4) bekezdés d) pontja szerinti fejezetben elszámolandó – önellenőrzési pótlék megfizetésével egyidejűleg kezdeményezhet, legkésőbb annak az évnek az utolsó napjáig, amely évben az éves költségvetési beszámolót el kellett készítenie.”
 
 #### 14. §
 
@@ -119,21 +123,49 @@ lép.
 
 #### 58. §
 
-#### 59. §
+59. § A temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény a következő alcímmel egészül ki:
+
+„Temetkezési szolgáltatásért felszámítható díj
+
+28/A. § A temetkezési szolgáltató a 25. § (1) bekezdése szerinti szolgáltatásoknál a szerződéstől történő elállás vagy a szerződés felbontása esetére az eltemettetésre kötelezett személy részére foglalót, kötbért vagy egyéb szerződési biztosítékot nem köthet ki.”
 
 #### 60. §
 
 61. § (1)
 
-(2)
+(2) A temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény 30. § (2) bekezdése a következő f) ponttal egészül ki:
 
-#### 62. §
+(A temetkezési szolgáltatási tevékenység folytatását a temetkezési szolgáltatást engedélyező hatóság annak engedélyezi,)
 
-#### 63. §
+„f) aki vagy gazdálkodó szervezet esetében, amelynek vezető tisztségviselője a temetkezési szolgáltatásokat engedélyező hatóság 31. §-a szerinti nyilvántartásában nem szerepel.”
+
+62. § A temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény a következő 31. §-sal egészül ki:
+
+„31. § (1) A temetkezési szolgáltatást engedélyező hatóság a temetkezések szabályszerű megvalósítása, az átlátható gazdálkodás rendjének betartása, a szolgáltatók szabályszerű működésével a kegyeleti jog gyakorlásának biztosítása érdekében nyilvántartást vezet azon személyekről
+
+a) akinek a temetkezési szolgáltatást engedélyező hatóság a 30. § (1) bekezdése szerinti engedélyét azért vonta vissza, mert nem rendelkezett e törvény szerinti megfelelő pénzügyi teljesítőképességgel,
+
+b) aki olyan gazdálkodó szervezet vezető tisztségviselője, amelynek a 30. § (1) bekezdése szerinti engedélyét a vezetése alatt a temetkezési szolgáltatást engedélyező hatóság azért vonta vissza, mert nem rendelkezett e törvény szerinti megfelelő pénzügyi teljesítőképességgel.
+
+(2) Az (1) bekezdés szerinti nyilvántartás az érintett személy természetes személyazonosító adatait, lakóhelyét és – az (1) bekezdés b) pontja szerinti személy esetén – a gazdálkodó szervezet nevét és székhelyét tartalmazza.
+
+(3) A temetkezési szolgáltatást engedélyező hatóság a (2) bekezdésben megjelölt adatokat az (1) bekezdés szerinti engedély visszavonásáról szóló határozat jogerőre emelkedésétől számított 5 évig kezeli.”
+
+63. § A temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény 33. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) Ha a temetkezési szolgáltatónak meg nem fizetett köztartozása van, az (1) bekezdés a) pontjában szereplő adatokról nyilvántartást vezető hatóság értesíti erről a tényről a temetkezési szolgáltatásokat engedélyező hatóságot.”
 
 #### 64. §
 
-65. § (1)
+65. § (1) A temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény a következő 44/B. §-sal egészül ki:
+
+„44/B. § A 2017. január 1-jén a 30. § (1) bekezdés szerinti engedéllyel rendelkező szolgáltató a Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvénnyel megállapított 31. § szerinti nyilvántartásba a temetkezési szolgáltatást engedélyező hatóság azon személyeket veszi nyilvántartásba,
+
+a) akiknek engedélyét,
+
+b) gazdálkodó szervezet vezető tisztségviselője esetén, akinek vezetése alatt álló gazdálkodó szervezet engedélyét
+
+2016. augusztus 31-ét követően vonta vissza.”
 
 (2)
 
@@ -230,18 +262,20 @@ lép.
 
 #### 24. A nemzeti köznevelésről szóló 2011. évi CXC. törvény módosítása
 
-108. § (1)
+108. § (1) A nemzeti köznevelésről szóló 2011. évi CXC. törvény 8. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az óvodai nevelés 6. melléklet szerinti finanszírozott időkerete magában foglalja a gyermek napközbeni ellátásával összefüggő feladatokhoz, a teljes óvodai életet magában foglaló foglalkozásokra fordítható heti ötven óra időkeretet. A fenntartó az óvodában heti tizenegy órás időkeretben köteles megszervezni a beilleszkedési, tanulási, magatartási nehézséggel küzdő gyermekek fejlesztő, valamint a sajátos nevelési igényű gyermekek egészségügyi, pedagógiai célú habilitációs, rehabilitációs foglalkoztatását.”
 
 (2)
 
 #### 109–111. §
 
-#### 112. §
+112. § A nemzeti köznevelésről szóló 2011. évi CXC. törvény 6. melléklete az 5. melléklet szerint módosul.
 
 113. § A nemzeti köznevelésről szóló 2011. évi CXC. törvény
 
 - 1.
-- 2.
+- 2. 6. mellékletében foglalt táblázat E:1 mezőjében a „száma” szövegrész helyébe a „száma (óvoda esetében a beilleszkedési, tanulási, magatartási nehézséggel küzdő gyermekek fejlesztő, valamint a sajátos nevelési igényű gyermekek egészségügyi, pedagógiai célú habilitációs, rehabilitációs foglalkoztatásának időkerete)” szöveg
 
 lép.
 
@@ -634,6 +668,14 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 | Vas megye | Veszprém megye” |  |
 
 ### 5. melléklet a 2016. évi LXVII. törvényhez
+
+A nemzeti köznevelésről szóló 2011. évi CXC. törvény 6. mellékletében foglalt táblázat 3. sora helyébe következő rendelkezés lép:
+
+|  | (A | B |  |  | C |  |  | D | E |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | évfolyam | gyermek, tanuló heti óraszáma |  |  | osztályok heti időkerete |  |  | Nemzetiségi iskolai nevelés-oktatás többlet tanórai foglalko-zásainak száma | sajátos nevelési igényű tanulók hetiegészségügyi és pedagógiai célúhabilitációs, rehabilitációs tanóraifoglalkozásainak száma |  |  |  |  |
+| 2 |  | BA test-neve-lés nélkül | BBtest-neve-lés | BC órák test-neve-léssel | CA enge-délye-zett | CBa hittan többlet óra-kerete egy-háziintéz-mé-nyek-ben | CC6 és 8 évf. gimná-zium több-letórái | DA nemzeti-ség | EA értel-mifo-gya-tékos | EB gyen-gén-látó | EC vak, na-gyot-halló,moz-gás- és be-széd-fo-gya-tékos | EE siket és autis-ta | EF egyéb) |
+| 3 | óvoda | 50 |  | 50 | 50 | 2 |  |  | 11 |  |  |  |  |
 
 ### 6. melléklet a 2016. évi LXVII. törvényhez
 

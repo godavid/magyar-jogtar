@@ -1,7 +1,7 @@
 {
   "documentId": "1994-45-00-00",
   "megjeloles": "1994. évi XLV. törvény",
-  "cim": "a hadigondozásról a végrehajtásáról szóló 113/1994. (VIII. 31.) Korm. rendelettel egységes szerkezetben",
+  "cim": "a hadigondozásról",
   "rovidites": null,
   "slug": "1994-evi-xlv-torveny",
   "forras": "https://njt.jog.gov.hu/jogszabaly/1994-45-00-00",
@@ -46,6 +46,10 @@
     {
       "datum": "2016-01-01",
       "verzio": 20
+    },
+    {
+      "datum": "2016-09-01",
+      "verzio": 21
     }
   ]
 }

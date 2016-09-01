@@ -5671,7 +5671,7 @@ I. A PEDAGÓGUS-MUNKAKÖRBEN ÉS A NEVELŐ-OKTATÓ MUNKÁT KÖZVETLENÜL SEGÍT�
 
 1. Az átlagbér alapú támogatás alapja
 
-a) Az e törvény 40. § (1) bekezdés a) pontjában meghatározott átlagbér alapú támogatás alapja –az óvoda, egységes óvoda-bölcsőde kivételével – az állami köznevelési feladatellátás keretében állami intézményfenntartásra kijelölt szerv (a továbbiakban: állami intézményfenntartó központ) által fenntartott általános iskolában, középiskolában, szakiskolában, alapfokú művészeti iskolában (a továbbiakban együtt: iskola), kollégiumban, gyógypedagógiai, konduktív pedagógiai nevelési-oktatási, valamint pedagógiai szakszolgálati intézményben pedagógus-munkakörben, valamint nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottak után kifizetett személyi juttatás és járulék.
+a) Az e törvény 40. § (1) bekezdés a) pontjában meghatározott átlagbér alapú támogatás alapja –az óvoda, egységes óvoda-bölcsőde kivételével – az állami köznevelési feladatellátás keretében állami intézményfenntartásra kijelölt szerv (a továbbiakban: állami intézményfenntartó központ) által fenntartott általános iskolában, középfokú iskolában, alapfokú művészeti iskolában (a továbbiakban együtt: iskola), kollégiumban, gyógypedagógiai, konduktív pedagógiai nevelési-oktatási, valamint pedagógiai szakszolgálati intézményben pedagógus-munkakörben, valamint nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottak után kifizetett személyi juttatás és járulék.
 
 b) Az e törvény 40. § (1) bekezdés b) pontjában meghatározott átlagbér alapú támogatás alapja – az óvoda kivételével – az állami intézményfenntartó központ által fenntartott iskolában, kollégiumban, gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézményben pedagógus-munkakörben foglalkoztatottak után kifizetett személyi juttatás és járulék.
 
@@ -5699,19 +5699,19 @@ ab) gimnáziumra 4 615 100 forint/számított létszám/év,
 
 pótlólagosan elismert összeg a 2016/2017. tanítási évre 40 800 forint/számított létszám/3 hónap,
 
-ac) szakiskolára 4 615 100 forint/számított létszám/év,
+ac) szakközépiskolára 4 615 100 forint/számított létszám/év,
 
 pótlólagosan elismert összeg a 2016/2017. tanítási évre 40 800 forint/számított létszám/3 hónap,
 
-ad) speciális szakiskolára (készségfejlesztő speciális szakiskolára, előkészítő szakiskolára) 4 615 100 forint/számított létszám/év,
+ad) szakiskolára, készségfejlesztő speciális szakiskolára 4 615 100 forint/számított létszám/év,
 
 pótlólagosan elismert összeg a 2016/2017. tanítási évre 40 800 forint/számított létszám/3 hónap,
 
-ae) szakközépiskolára, nem szakképzési évfolyamon 4 615 100 forint/számított létszám/év,
+ae) szakgimnáziumra, nem szakképzési évfolyamon 4 615 100 forint/számított létszám/év,
 
 pótlólagosan elismert összeg a 2016/2017. tanítási évre 40 800 forint/számított létszám/3 hónap,
 
-af) szakközépiskolára szakképzési évfolyamon 4 615 100 forint/számított létszám/év,
+af) szakgimnáziumra szakképzési évfolyamon 4 615 100 forint/számított létszám/év,
 
 pótlólagosan elismert összeg a 2016/2017. tanítási évre 40 800 forint/számított létszám/3 hónap,
 
@@ -5723,7 +5723,7 @@ ah) alapfokú művészeti iskolára főtárgy szerinti csoportos foglalkozás ke
 
 pótlólagosan elismert összeg a 2016/2017. tanítási évre 36 800 forint/számított létszám/3 hónap,
 
-ai) művészeti szakközépiskolára 4 615 100 forint/számított létszám/év,
+ai) művészeti szakgimnáziumra 4 615 100 forint/számított létszám/év,
 
 pótlólagosan elismert összeg a 2016/2017. tanítási évre 40 800 forint/számított létszám/3 hónap,
 
@@ -5791,17 +5791,17 @@ a) általános iskolában 11,8 fő tanulónként 1 fő pedagógus,
 
 b) gimnáziumban – beleértve a hat és nyolc évfolyammal működő gimnáziumokat is – 12,5 fő tanulónként 1 fő pedagógus,
 
-c) szakiskolában – beleértve a Köznevelési Hídprogramokat is – 12 fő tanulónként 1 fő pedagógus,
+c) szakközépiskolában – beleértve a Köznevelési és Szakképzési Hídprogramot is – 12 fő tanulónként 1 fő pedagógus,
 
-d) szakközépiskolában, nem szakképzési évfolyamon 12,4 fő tanulónként 1 fő pedagógus,
+d) szakgimnáziumban, nem szakképzési évfolyamon 12,4 fő tanulónként 1 fő pedagógus,
 
-e) szakközépiskolában, szakképzési évfolyamon 13,7 fő tanulónként 1 fő pedagógus,
+e) szakgimnáziumban, szakképzési évfolyamon 13,7 fő tanulónként 1 fő pedagógus,
 
 f) alapfokú művészeti iskolában főtárgy szerinti egyéni foglalkozás keretében való részvétel esetében 19,9 fő tanulónként 1 fő pedagógus,
 
 g) alapfokú művészeti iskolában főtárgy szerinti csoportos foglalkozás keretében való részvétel esetében 78,8 fő tanulónként 1 fő pedagógus,
 
-h) művészeti szakközépiskola
+h) művészeti szakgimnázium
 
 ha) párhuzamos oktatásában részt vevő 6 fő tanulónként 1 fő pedagógus,
 
@@ -5852,7 +5852,7 @@ kb) általános iskolája esetében 3,7 fő tanulóként 1 fő pedagógus,
 
 kc) középiskolája esetében 6,2 fő tanulóként 1 fő pedagógus,
 
-kd) speciális szakiskolája és előkészítő szakiskolája esetében 6 fő tanulónként 1 fő pedagógus, készségfejlesztő speciális szakiskolája esetében 4 fő tanulónként 1 fő pedagógus,
+kd) szakiskolája esetében 6 fő tanulónként 1 fő pedagógus, készségfejlesztő speciális szakiskolája esetében 4 fő tanulónként 1 fő pedagógus,
 
 ke) kollégiuma esetében 7,8 fő tanulóként 1 fő pedagógus,
 
@@ -5938,7 +5938,7 @@ A kiegészítő támogatás fajlagos összege 28 400 forint/fő/év.
 
 VI. KIEGÉSZÍTŐ SZABÁLYOK
 
-1. Az átlagbér alapú támogatás a személyi juttatások és az azokhoz kapcsolódó 27%-os mértékkel számított munkaadókat terhelő járulék és szociális hozzájárulási adó kifizetéséhez, a dologi kiadások, az ellátottak pénzbeli juttatásai és egyéb működési célú kiadások, valamint felújítási kiadások finanszírozására használható fel a felújítási hitel felvétele és törlesztése kivételével. Az átlagbér alapú támogatás megbízási jogviszonyban óraadóként foglalkoztatottak megbízási díjára az Nkt. 22. § (2) bekezdésében, szakiskolák, szakközépiskolák esetében a szakképzésről szóló 2011. évi CLXXXVII. törvény (a továbbiakban: szakképzésről szóló törvény) 30. § (5) bekezdésében meghatározott alkalmazotti arány mértékéig használható fel.
+1. Az átlagbér alapú támogatás a személyi juttatások és az azokhoz kapcsolódó 27%-os mértékkel számított munkaadókat terhelő járulék és szociális hozzájárulási adó kifizetéséhez, a dologi kiadások, az ellátottak pénzbeli juttatásai és egyéb működési célú kiadások, valamint felújítási kiadások finanszírozására használható fel a felújítási hitel felvétele és törlesztése kivételével. Az átlagbér alapú támogatás megbízási jogviszonyban óraadóként foglalkoztatottak megbízási díjára az Nkt. 22. § (2) bekezdésében, szakképző iskolák esetében a szakképzésről szóló 2011. évi CLXXXVII. törvény (a továbbiakban: szakképzésről szóló törvény) 30. § (5) bekezdésében meghatározott alkalmazotti arány mértékéig használható fel.
 
 2. A fenntartó az I. és III. pontban meghatározott támogatásokat – azok folyósítását követő 15 napon belül – az általa fenntartott nevelési-oktatási, pedagógiai szakszolgálati intézménynek átadja úgy, hogy az általa fenntartott valamennyi nevelési-oktatási-, pedagógiai szakszolgálati intézmény kiegyensúlyozott működését biztosítsa.
 

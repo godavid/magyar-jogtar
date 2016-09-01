@@ -286,6 +286,10 @@ csak temetkezési szolgáltatói telephelyen végezheti.
 
 28. § A temetkezési szolgáltató a tevékenység ellátása során köteles az eltemettetőnek a temetési szertartásra vonatkozó rendelkezését – a vallási közösség által vallásos szertartás keretében végzett temetés esetén a vallásos szertartás rendjének megfelelően – tiszteletben tartani.
 
+### Temetkezési szolgáltatásért felszámítható díj
+
+28/A. § A temetkezési szolgáltató a 25. § (1) bekezdése szerinti szolgáltatásoknál a szerződéstől történő elállás vagy a szerződés felbontása esetére az eltemettetésre kötelezett személy részére foglalót, kötbért vagy egyéb szerződési biztosítékot nem köthet ki.
+
 ### A temetkezési szolgáltató
 
 29. § (1) Az egészségügyi intézménnyel vagy mentésre feljogosított szervezettel közalkalmazotti jogviszonyban, munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló, a halottak kezelésében, kiadásában érintett alkalmazott vagy vele közös háztartásban élő hozzátartozója nem lehet temetkezési szolgáltatást végző egyéni vállalkozó, egyéni cég, gazdasági társaság vezető tisztségviselője, alkalmazottja, vagy – a nyilvánosan működő részvénytársaságot kivéve – tagja.
@@ -300,7 +304,8 @@ csak temetkezési szolgáltatói telephelyen végezheti.
 - b) aki rendelkezik e törvény szerinti megfelelő pénzügyi teljesítőképességgel, valamint a törvény végrehajtására kiadott kormányrendelet szerinti vagyoni biztosítékkal,
 - c) aki rendelkezik az alapvető kegyeleti feltételeknek, valamint a munkavégzésre vonatkozó előírásoknak megfelelő, a tevékenység méltóságát nem sértő, a környezetben élők egészségét és a környezetet nem veszélyeztető telephellyel,
 - d) akivel szemben összeférhetetlenség nem áll fenn, és
-- e) aki saját maga, vagy legalább egy, a temetkezési szolgáltatási tevékenységben személyesen közreműködő alkalmazottja rendelkezik a kormányrendeletben meghatározott szakmai képesítéssel és megfelel az ott meghatározott feltételeknek.
+- e) aki saját maga, vagy legalább egy, a temetkezési szolgáltatási tevékenységben személyesen közreműködő alkalmazottja rendelkezik a kormányrendeletben meghatározott szakmai képesítéssel és megfelel az ott meghatározott feltételeknek,
+- f) aki vagy gazdálkodó szervezet esetében, amelynek vezető tisztségviselője a temetkezési szolgáltatásokat engedélyező hatóság 31. §-a szerinti nyilvántartásában nem szerepel.
 
 (3) A (2) bekezdésben meghatározott követelményeket – a (4) bekezdésben meghatározottakra figyelemmel –
 
@@ -319,7 +324,16 @@ csak temetkezési szolgáltatói telephelyen végezheti.
 - a) a temetkezési szolgáltatási tevékenység engedélyezése iránti eljárás jogerős befejezéséig vagy
 - b) a temetkezési szolgáltató nyilvántartásba vétele esetén a hatósági ellenőrzés időtartamára vagy a nyilvántartásból való törlésre irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
 
-31–32. §
+31. § (1) A temetkezési szolgáltatást engedélyező hatóság a temetkezések szabályszerű megvalósítása, az átlátható gazdálkodás rendjének betartása, a szolgáltatók szabályszerű működésével a kegyeleti jog gyakorlásának biztosítása érdekében nyilvántartást vezet azon személyekről
+
+- a) akinek a temetkezési szolgáltatást engedélyező hatóság a 30. § (1) bekezdése szerinti engedélyét azért vonta vissza, mert nem rendelkezett e törvény szerinti megfelelő pénzügyi teljesítőképességgel,
+- b) aki olyan gazdálkodó szervezet vezető tisztségviselője, amelynek a 30. § (1) bekezdése szerinti engedélyét a vezetése alatt a temetkezési szolgáltatást engedélyező hatóság azért vonta vissza, mert nem rendelkezett e törvény szerinti megfelelő pénzügyi teljesítőképességgel.
+
+(2) Az (1) bekezdés szerinti nyilvántartás az érintett személy természetes személyazonosító adatait, lakóhelyét és – az (1) bekezdés b) pontja szerinti személy esetén – a gazdálkodó szervezet nevét és székhelyét tartalmazza.
+
+(3) A temetkezési szolgáltatást engedélyező hatóság a (2) bekezdésben megjelölt adatokat az (1) bekezdés szerinti engedély visszavonásáról szóló határozat jogerőre emelkedésétől számított 5 évig kezeli.
+
+32. §
 
 33. § (1) A pénzügyi teljesítőképesség akkor megfelelő, ha az egyéni cég, a gazdasági társaság vagy az egyéni vállalkozó
 
@@ -332,6 +346,8 @@ csak temetkezési szolgáltatói telephelyen végezheti.
 - b) ilyen összeg erejéig vállalt bankgarancia vagy felelősségbiztosítás.
 
 (3) Ha a gazdasági társaság vagy az egyéni vállalkozó az (1) bekezdés a) pontjában meghatározott adatokat nem igazolja, és nem szerepel a köztartozásmentes adózói adatbázisban, a temetkezési szolgáltatásokat engedélyező hatóság – a pénzügyi teljesítőképesség igazolása céljából – megkeresi az (1) bekezdés a) pontjában szereplő adatokról nyilvántartást vezető hatóságot. A megkeresett hatóság az adatszolgáltatása körében arról ad tájékoztatást, hogy az alapítónak van-e meg nem fizetett, lejárt köztartozása.
+
+(4) Ha a temetkezési szolgáltatónak meg nem fizetett köztartozása van, az (1) bekezdés a) pontjában szereplő adatokról nyilvántartást vezető hatóság értesíti erről a tényről a temetkezési szolgáltatásokat engedélyező hatóságot.
 
 34. § (1) Ha a temetkezési szolgáltatásokat engedélyező hatóság megállapítja, hogy a temetkezési szolgáltató a tevékenységére vonatkozó, jogszabályban előírt feltételt nem teljesíti vagy az engedély kiadásának feltételei már nem állnak fenn, az engedélyt haladéktalanul visszavonja.
 
@@ -538,5 +554,12 @@ csak temetkezési szolgáltatói telephelyen végezheti.
 kell alkalmazni.
 
 44/A. § E törvénynek a temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény módosításáról szóló 2015. évi CLV. törvénnyel (a továbbiakban: Módtv.) megállapított szabályait a Módtv. hatálybalépésekor folyamatban lévő hatósági ellenőrzések során is alkalmazni kell.
+
+44/B. § A 2017. január 1-jén a 30. § (1) bekezdés szerinti engedéllyel rendelkező szolgáltató a Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvénnyel megállapított 31. § szerinti nyilvántartásba a temetkezési szolgáltatást engedélyező hatóság azon személyeket veszi nyilvántartásba,
+
+- a) akiknek engedélyét,
+- b) gazdálkodó szervezet vezető tisztségviselője esetén, akinek vezetése alatt álló gazdálkodó szervezet engedélyét
+
+2016. augusztus 31-ét követően vonta vissza.
 
 45. § Ez a törvény a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.

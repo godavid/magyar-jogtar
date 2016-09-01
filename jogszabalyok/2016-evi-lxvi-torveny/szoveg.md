@@ -44,11 +44,35 @@ az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti A
 
 20. §
 
-21. §
+21. § Az Szja tv. 81/B. §-a helyébe a következő rendelkezés lép:
+
+„81/B. § (1) A széles körű fogyasztói tájékoztatás, az élelmiszer-biztonság, valamint a termék nyomon követhetősége érdekében az őstermelői nyilvántartás alábbi adatai – a (2) bekezdésben foglaltak szerint – bárki számára megismerhető, nyilvános adatok:
+
+a) mezőgazdasági őstermelő neve,
+
+b) mezőgazdasági őstermelő igazolványának száma,
+
+c) az őstermelői igazolvány hatályossága és érvényessége,
+
+d) az őstermelői igazolvány visszavonására, visszatartására vonatkozó adatok,
+
+e) a mezőgazdasági őstermelő által termesztett növénykultúrák, -fajok megnevezése,
+
+f) a mezőgazdasági őstermelő által tartott állatfajok megnevezése,
+
+g) a mezőgazdasági őstermelő által értékesíteni kívánt növényi, illetve állati eredetű termékek megnevezése,
+
+h) a mezőgazdasági őstermelő által vadon gyűjthető termékek köre.
+
+(2) Az Agrárkamara köteles az (1) bekezdés szerinti adatokat naprakészen bárki számára ingyenesen az interneten, valamint mobiltelefonokon használható alkalmazás keretében folyamatosan megismerhetővé tenni, az őstermelői nyilvántartást vezető szerv által ebből a célból szolgáltatott adatai alapján. Az így közzétett adatok tájékoztató jellegűek, azok nem közhitelesek.”
 
 22. §
 
-23. §
+23. § Az Szja tv. 84. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+
+(Ez a törvény a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt, az 1994. évi I. törvénnyel kihirdetett Európai Megállapodással összhangban az Európai Közösség következő jogszabályaihoz való közelítést célozza:)
+
+„b) a megtakarításokból származó kamatjövedelem adóztatásáról szóló 2003/48/EK irányelv hatályon kívül helyezéséről szóló 2015. november 10-i 2015/2060. tanácsi irányelv;”
 
 24. §
 
@@ -83,7 +107,7 @@ lép.
 
 - 1.
 - 2.
-- 3.
+- 3. 65. § (3) bekezdés a) pont ab) alpontja,
 - 4–5.
 - 6.
 
@@ -221,7 +245,71 @@ lép.
 
 78. §
 
-79–82. §
+79. § (1) A Jöt. 52. § (1) bekezdés a)–d) pontja helyébe a következő rendelkezés lép:
+
+[Az adó mértéke – figyelemmel a (3)–(4) bekezdés rendelkezéseire is –:]
+
+„a) a 2710 11 31, a 2710 11 41, a 2710 11 45 és a 2710 11 49 vámtarifaszám alatti ólmozatlan benzinre
+
+aa) ha a kőolaj (9) bekezdés szerinti világpiaci ára az 50 amerikai dollár (a továbbiakban: USD)/hordó értéket meghaladja, 120 000 Ft/ezer liter,
+
+ab) ha a kőolaj (9) bekezdés szerinti világpiaci ára nem haladja meg az 50 USD/hordó értéket, 125 000 Ft/ezer liter,
+
+b) a 2710 11 31, a 2710 11 51 és a 2710 11 59 vámtarifaszám alatti ólmozott benzinre és a 2710 19 21 vámtarifaszám alatti petróleumra
+
+ba) ha a kőolaj (9) bekezdés szerinti világpiaci ára meghaladja az 50 USD/hordó értéket, 124 200 Ft/ezer liter,
+
+bb) ha a kőolaj (9) bekezdés szerinti világpiaci ára nem haladja meg az 50 USD/hordó értéket, 129 200 Ft/ezer liter,
+
+c) a 2710 19 41, a 2710 19 45, a 2710 19 49 vámtarifaszám alatti, tüzelő-, fűtőanyag célú gázolajra
+
+ca) ha a kőolaj (9) bekezdés szerinti világpiaci ára meghaladja az 50 USD/hordó értéket, 110 350 Ft/ezer liter,
+
+cb) ha a kőolaj (9) bekezdés szerinti világpiaci ára nem haladja meg az 50 USD/hordó értéket, 120 350 Ft/ezer liter,
+
+d) a 2710 19 41 vámtarifaszám alatti, üzemanyag célú gázolajra
+
+da) ha a kőolaj (9) bekezdés szerinti világpiaci ára meghaladja az 50 USD/hordó értéket, 110 350 Ft/ezer liter,
+
+db) ha a kőolaj (9) bekezdés szerinti világpiaci ára nem haladja meg az 50 USD/hordó értéket, 120 350 Ft/ezer liter,”
+
+(2) A Jöt. 52. §-a a következő új (9) bekezdéssel egészül ki:
+
+„(9) Az (1) bekezdés a)–d) pontja szerinti, január 1-jétől, április 1-jétől, július 1-jétől, illetve október 1-jétől érvényes adómértékek megállapítása a Platts Crude Oil Marketwire – tárgynegyedévet megelőző negyedév első hónapjának első napja és utolsó hónapjának 15. napja közötti időszakra vonatkozó – Brent (Dated) napi jegyzései Mid értékeinek és a tárgynegyedévet megelőző negyedév első hónapjának első napja és utolsó hónapjának 15. napja közötti időszak egyes napjaitól számított mindenkori harmadik havi szállítású Brent napi jegyzések Mid értékeinek számtani átlaga alapján történik. Az így meghatározott átlagos árat az állami adó- és vámhatóság internetes honlapján a tárgynegyedévet megelőző hónap 15. napját követő 5. munkanapig közzéteszi.”
+
+80. § A Jöt. 57/C. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A beszerzéskor megfizetett adóból
+
+a) az üzemanyagtöltő állomáson forgalmi rendszámra szóló üzemanyagkártyával megvásárolt,
+
+b) a (2) bekezdés szerinti adó-visszaigénylésre jogosult magyarországi telephelyén üzemanyag-tárolásra rendszeresített – a tankolt mennyiséget rendszámonként, valamint a tankoló jármű kilométeróra állását rögzítő – üzemanyag-tankoló automatával ellátott üzemanyagtartályból elektronikus mérőeszközön keresztül betöltött
+
+kereskedelmi gázolaj után az 52. § (1) bekezdés d) pont da) alpontja szerinti adómérték alkalmazása esetén literenként 7 Ft, az 52. § (1) bekezdés d) pont db) alpontja szerinti adómérték alkalmazása esetén literenként 17 Ft visszaigényelhető.”
+
+81. § A Jöt. 97. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az adó mértéke
+
+a) a cigarettára 15 700 forint ezer darabonként és a kiskereskedelmi eladási ár 25 százaléka, de legalább 28 400 forint ezer darabonként,
+
+b) a szivarra, a szivarkára a kiskereskedelmi eladási ár 14 százaléka, de legalább 4 060 forint ezer darabonként,
+
+c) a finomra vágott fogyasztási dohányra 15 100 forint kilogrammonként,
+
+d) az egyéb fogyasztási dohányra 15 100 forint kilogrammonként.”
+
+82. § A Jöt. 129. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+(Felhatalmazást kap a Kormány arra, hogy rendeletben határozza meg)
+
+„a) a mezőgazdasági ágazatban a szántó, a kert, a gyümölcsös, a szőlő, a gyep, a halastó művelési ágban, valamint az erdőfelújításban felhasznált, de évente hektáronként legfeljebb 97 liter gázolaj jövedéki adója
+
+aa) az 52. § (1) bekezdés d) pont da) alpontja szerinti adómérték alkalmazása esetén 82 százalékának,
+
+ab) az 52. § (1) bekezdés d) pont db) alpontja szerinti adómérték alkalmazása esetén 83,5 százalékának
+
+a külön jogszabály szerint nyilvántartásba vett mezőgazdasági termelő részére történő visszatérítését, a visszatérítés feltételeit és szabályait,”
 
 83. §
 
@@ -417,7 +505,7 @@ lép
 
 197–198. §
 
-199. § (1)
+199. § (1) Az Art. 4. számú melléklete a 13. melléklet szerint módosul.
 
 (2)
 
@@ -436,15 +524,16 @@ lép
 - 30.
 - 31.
 - 32.
-- 33–34.
+- 33. 4. számú melléklet A külföldi személyek egyes jövedelmei adózásának különös szabályairól c. fejezet 2. pontjában a „nyilatkozatokat csatolja.” szövegrész helyébe „nyilatkozatokat csatolja, illetve az illetőséget az e melléklet 7. pont szerint megállapította.” szöveg,
+- 34. 4. számú melléklet A külföldi személyek egyes jövedelmei adózásának különös szabályairól c. fejezet 3. pontjában az „illetőségét igazolja” szövegrész helyébe, „illetőségét igazolja, vagy a kifizető az illetőségét az e melléklet 7. pont szerint megállapította.” szöveg
 
 lép.
 
 201. § (1) Hatályát veszti az Art.
 
-- 1.
+- 1. 52. § (12) bekezdése,
 - 2–3.
-- 4.
+- 4. 7. számú melléklet 1–18. pontja.
 
 (2)
 
@@ -564,6 +653,10 @@ lép.
 
 ### 13. melléklet a 2016. évi LXVI. törvényhez
 
-### 14–16. melléklet a 2016. évi LXVI. törvényhez
+- 1. Az Art. 4. számú melléklet 7. pontja helyébe a következő rendelkezés lép:
+
+„7. A külföldi illetőség igazolására a külföldi adóhatóság – az adómentességhez való jogosultság igazolására a nemzetközi szervezet – által kiállított okirat angol nyelvű példánya, magyar nyelvű szakfordítása, vagy ezek egyikéről készült másolat szolgál (a továbbiakban: illetőségigazolás). Az illetőséget adóévenként akkor is igazolni kell, ha az illetőség a korábban benyújtott illetőségigazolás óta nem változott. A külföldi illetőségű magánszemély az illetőségigazolást az adóévben történt első kifizetés időpontját, illetősége változása esetén a változást követő első kifizetés időpontját megelőzően adja át. Amennyiben a külföldi illetőségű magánszemély a kifizetés időpontjáig nem tudja igazolni illetőségét, a kifizető az illetőségről írásbeli nyilatkozatát is elfogadhatja. Ha a külföldi illetőségű magánszemély az illetőségigazolást az adóbevallás benyújtásáig nem mutatja be, a kifizetéskor le nem vont (a juttatást követően meg nem fizetett) adót a kifizetőnek az adóév utolsó hónapját érintő kötelezettségként kell bevallania és megfizetnie. A bevallás benyújtását követően bemutatott illetőségigazolás alapján a kifizető az elévülési időn belül önellenőrzéssel helyesbíthet. A kifizető a nyilatkozatot és az illetőségigazolást megőrzi. Amennyiben hazai befektetési szolgáltató szolgáltatását határon átnyúló szolgáltatásként nyújtja, a külföldi illetőség igazolásaként elfogadhatja a szolgáltatást igénybe vevő személyazonosítására alkalmas okiratát, melyből a szolgáltatást igénybe vevő állampolgársága megállapítható és az adott személy illetőségére vonatkozó teljes bizonyító erejű nyilatkozatát. Ha a kifizető az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény (a továbbiakban: Aktv.) 43/H. §-ában meghatározott adatszolgáltatási kötelezettség alanyának minősülő Jelentő Magyar Pénzügyi Intézmény, akkor a külföldi magánszemély illetőségének megállapításakor az Aktv. 1. melléklet II–IV. és VII. pontjában meghatározott átvilágítási szabályok alkalmazásával megállapított illetőséget veszi figyelembe. Ha a Jelentő Magyar Pénzügyi Intézmény a vizsgálat eredményeként azt állapítja meg, hogy a magánszemélynek több tagállamban, más államban, vagy más joghatósággal rendelkező területen van illetősége, a külföldi illetőség igazolására az illetőségigazolás szolgál.””
+
+14–16. melléklet a 2016. évi LXVI. törvényhez
 
 ### 17–21. melléklet a 2016. évi LXVI. törvényhez
