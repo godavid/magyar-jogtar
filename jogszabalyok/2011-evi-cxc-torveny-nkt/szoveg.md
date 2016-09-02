@@ -295,14 +295,26 @@ tagozat,
 - a) a tizennegyedik életév betöltése, és
 - b) a szakközépiskolában szervezett Szakképzési Hídprogram szerinti tanév teljesítése.
 
-#### 11/A. Szakiskola és készségfejlesztő speciális szakiskola
+#### 11/A. Szakiskola
 
-13/A. § (1) A sajátos nevelési igényű tanulók iskolai nevelés-oktatása céljából
+13/A. § (1) A sajátos nevelési igényű tanulók iskolai nevelés-oktatása céljából a szakiskola a többi tanulóval sajátos nevelési igénye miatt együtthaladásra képtelen tanulókat készíti fel szakmai vizsgára.
 
-- a) a szakiskola a többi tanulóval sajátos nevelési igénye miatt együtthaladásra képtelen tanulókat készíti fel szakmai vizsgára és nyújt részükre a munkába álláshoz és az életkezdéshez szükséges ismereteket,
-- b) a készségfejlesztő speciális szakiskola a középsúlyos értelmi fogyatékos tanulók részére biztosítja az életkezdéshez való felkészülést, a munkába állást lehetővé tevő egyszerű betanulást igénylő munkafolyamatok elsajátítását.
+(2) A szakiskolában az Országos Képzési Jegyzékben meghatározott szakképesítések körében – a sajátos nevelési igény jellegétől függően – a szakképzési kerettanterv vagy a speciális kerettanterv szerint folyhat szakképzés. A közismereti oktatás a szakiskolában a sajátos nevelési igény jellegéhez igazodó közismereti kerettanterv alapján folyik. A szakmai vizsgára történő felkészítésre vonatkozó további rendelkezéseket a szakképzésről szóló törvény határozza meg.
 
-(2) A szakiskolában, készségfejlesztő speciális szakiskolában az évfolyamok száma a speciális kerettanterv szerint meghatározott.
+(3) A szakiskolában az évfolyamok száma a speciális kerettanterv szerint meghatározott.
+
+#### 11/B. Készségfejlesztő iskola
+
+13/B. § (1) A készségfejlesztő iskola a középsúlyos értelmi fogyatékos tanulók részére biztosítja az életkezdéshez való felkészülést, a munkába állást lehetővé tevő egyszerű betanulást igénylő munkafolyamatok elsajátítását, továbbá a szakképzésben részt venni nem tudó enyhe értelmi fogyatékos tanulók számára nyújt a munkába álláshoz és az életkezdéshez szükséges ismereteket.
+
+(2) A készségfejlesztő iskolának négy évfolyama van, amelyből
+
+- a) kettő közismereti képzést folytató évfolyam,
+- b) kettő, az életkezdéshez való felkészülést, a munkába állást lehetővé tevő egyszerű betanulást igénylő munkafolyamatok elsajátítását célzó gyakorlati jellegű évfolyam (a továbbiakban: gyakorlati évfolyam).
+
+(3) A közismereti oktatás a készségfejlesztő iskolában a sajátos nevelési igény jellegéhez igazodó közismereti kerettanterv alapján folyik. A készségfejlesztő iskola gyakorlati évfolyamainak képzése a készségfejlesztő kerettantervek szerint meghatározott.
+
+(4) A készségfejlesztő iskola sikeresen teljesített gyakorlati évfolyamai eltérő készségfejlesztő kerettantervek szerinti oktatással megismételhetőek.
 
 #### 12. Köznevelési és Szakképzési Hídprogramok
 

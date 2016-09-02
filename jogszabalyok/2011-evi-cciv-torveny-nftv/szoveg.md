@@ -2711,11 +2711,11 @@ e törvény szerint kell megállapítani a hallgatói juttatásokat.
 
 (12) E törvénynek – az oktatás szabályozására vonatkozó egyes törvények módosításáról szóló 2015. évi CCVI. törvénnyel megállapított – 24. § (6) bekezdése alapján a 2016. január 1-jét követő időszakra vonatkozó minősítésre tekintettel lehet vezetői illetménypótlékot megállapítani.
 
-117. § (1) 2013. június 30-án megszűnik a 2005. évi felsőoktatási törvény 96. § (5) és (10) bekezdése alapján második alkalommal hosszabbított vagy a hatvanöt éves életkoron túlnyúló magasabb vezetői megbízás.
+117. § (1)
 
 (2)
 
-(3) A 2005. évi felsőoktatási törvény rendelkezései szerint nyilvántartásba vett tanulói jogviszonyban folytatott felsőfokú szakképzéseket, valamint az azokra vonatkozó az információs rendszer által kezelt adatokat az oktatási hivatal a képzés kifutó rendszerű befejezésével, de legkésőbb 2016. szeptember 1-jén törli a nyilvántartásából.
+(3)
 
 (4) A 2005. évi felsőoktatási törvény 106. § (7) bekezdése alapján nyilvántartásba vett képzéseket valamint az azokra vonatkozó az információs rendszer által kezelt adatokat az oktatási hivatal a képzés kifutó rendszerű befejezésével, de legkésőbb 2017. szeptember 1-jén törli a nyilvántartásából, és kezdeményezi a felsőoktatási információs rendszerből való törlést.
 
