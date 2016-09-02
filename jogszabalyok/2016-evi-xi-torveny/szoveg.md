@@ -486,4 +486,4 @@ For the Government of the Republic of Slovenia”
 
 (4) Az e törvény végrehajtásához szükséges intézkedésekről a minősített adatok védelmének szakmai felügyeletéért felelős miniszter gondoskodik.
 
-5. § Hatályát veszti a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között a minősített katonai információk és eszközök védelméről szóló, Misefán, 1998. október 5-én aláírt Egyezmény megerősítéséről és kihirdetéséről szóló 1999. évi XXV. törvény.
+5. §

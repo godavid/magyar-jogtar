@@ -22,21 +22,13 @@ egyes egészségügyet érintő törvények módosításáról
 
 #### 3. Az egészségügyről szóló 1997. évi CLIV. törvény módosítása
 
-15. § Az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 94. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Az (1) bekezdés szerinti mentés során gyógyszer alkalmazására (a továbbiakban: prehospitális gyógyszeralkalmazás) az egészségügyért felelős miniszter rendeletében meghatározott szabályok szerint kerülhet sor.”
+15. §
 
 16–24. §
 
 25. § (1)–(3)
 
-(4) Az Eütv. 247. § (3) bekezdése a következő q) ponttal egészül ki:
-
-(Felhatalmazást kap a miniszter, hogy)
-
-„q) a prehospitális gyógyszeralkalmazás szabályait”
-
-(rendeletben állapítsa meg.)
+(4)
 
 (5)–(6)
 
@@ -62,9 +54,7 @@ egyes egészségügyet érintő törvények módosításáról
 
 44. § (1)
 
-(2) A Gytv. 25. §-a a következő (14) bekezdéssel egészül ki:
-
-„(14) A (2), (6) és (6a) bekezdéstől eltérően a mentés során történő gyógyszeralkalmazásra az egészségügyért felelős miniszter rendeletében foglaltak szerint kerülhet sor.”
+(2)
 
 45. §
 
