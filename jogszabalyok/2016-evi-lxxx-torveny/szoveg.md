@@ -27,31 +27,7 @@ szöveg lép.
 
 18–20. §
 
-21. § Az Nkt. 11/A. alcíme helyébe a következő rendelkezés lép:
-
-„11/A. Szakiskola
-
-13/A. § (1) A sajátos nevelési igényű tanulók iskolai nevelés-oktatása céljából a szakiskola a többi tanulóval sajátos nevelési igénye miatt együtthaladásra képtelen tanulókat készíti fel szakmai vizsgára.
-
-(2) A szakiskolában az Országos Képzési Jegyzékben meghatározott szakképesítések körében – a sajátos nevelési igény jellegétől függően – a szakképzési kerettanterv vagy a speciális kerettanterv szerint folyhat szakképzés. A közismereti oktatás a szakiskolában a sajátos nevelési igény jellegéhez igazodó közismereti kerettanterv alapján folyik. A szakmai vizsgára történő felkészítésre vonatkozó további rendelkezéseket a szakképzésről szóló törvény határozza meg.
-
-(3) A szakiskolában az évfolyamok száma a speciális kerettanterv szerint meghatározott.”
-
-22. § Az Nkt. a következő 11/B. alcímmel egészül ki
-
-„11/B. Készségfejlesztő iskola
-
-13/B. § (1) A készségfejlesztő iskola a középsúlyos értelmi fogyatékos tanulók részére biztosítja az életkezdéshez való felkészülést, a munkába állást lehetővé tevő egyszerű betanulást igénylő munkafolyamatok elsajátítását, továbbá a szakképzésben részt venni nem tudó enyhe értelmi fogyatékos tanulók számára nyújt a munkába álláshoz és az életkezdéshez szükséges ismereteket.
-
-(2) A készségfejlesztő iskolának négy évfolyama van, amelyből
-
-a) kettő közismereti képzést folytató évfolyam,
-
-b) kettő, az életkezdéshez való felkészülést, a munkába állást lehetővé tevő egyszerű betanulást igénylő munkafolyamatok elsajátítását célzó gyakorlati jellegű évfolyam (a továbbiakban: gyakorlati évfolyam).
-
-(3) A közismereti oktatás a készségfejlesztő iskolában a sajátos nevelési igény jellegéhez igazodó közismereti kerettanterv alapján folyik. A készségfejlesztő iskola gyakorlati évfolyamainak képzése a készségfejlesztő kerettantervek szerint meghatározott.
-
-(4) A készségfejlesztő iskola sikeresen teljesített gyakorlati évfolyamai eltérő készségfejlesztő kerettantervek szerinti oktatással megismételhetőek.”
+21–22. §
 
 23. §
 
@@ -160,7 +136,7 @@ szöveg lép.
 - 1–5.
 - 6.
 - 7–8.
-- 9. 117. § (1) és (3) bekezdése.
+- 9.
 
 #### 5. A köznevelési feladatot ellátó egyes önkormányzati fenntartású intézmények állami fenntartásba vételéről szóló 2012. évi CLXXXVIII. törvény módosítása
 
