@@ -652,23 +652,1001 @@ végezhető.
 
 ## MÁSODIK RÉSZ
 
-60–92. §
+### VII. Fejezet — A KAMARA
+
+#### 29. A Kamarára vonatkozó általános szabályok, a Kamara feladatai
+
+60. § (1) A Kamara önkormányzati elven alapuló, az igazságügyi szakértők érdekeit képviselő köztestület. A Kamara képviseleti, ügyintézői szervezettel és önálló költségvetéssel rendelkezik. Köztestületként az igazságügyi szakértői tevékenység tudományos művelésének támogatásával, a szakmai és fegyelmi elvek meghatározásával és érvényesítésével, valamint a szakértők képviseletével kapcsolatos közfeladatokat látja el.
+
+(2) A Kamarát a törvényszék nem veszi nyilvántartásba.
+
+(3) A Kamara jogosult Magyarország címerének használatára.
+
+(4) A Kamara az ország egész területére kiterjedő illetékességgel jár el, székhelye Budapest.
+
+61. § (1) A Kamara bevételei különösen:
+
+- a) az igazságügyi szakértők által a Kamara részére fizetett tagdíj,
+- b) a kamarai költségátalány,
+- c) a hatósági feladatai ellátásával összefüggésben beszedett igazgatási szolgáltatási díj, valamint
+- d) a fegyelmi eljárási díj és a fegyelmi eljárásban kirótt pénzbírság.
+
+(2) A Kamara a működésével kapcsolatban felmerülő kiadásokat a bevételeiből fedezi a felelős gazdálkodás és az átláthatóság elveire figyelemmel.
+
+(3) A Kamara az alapszabályában további bevételi forrásokat határozhat meg.
+
+62. § (1) A Kamara a szakértők szakmai irányításával, érdekképviseletével, valamint az igazságügyi szakértői tevékenységgel összefüggő közfeladatokat látja el. Ennek során:
+
+- a) az igazságügyi szakértői tevékenységgel összefüggő ügyekben képviseli és védi az igazságügyi szakértői kar tekintélyét, testületeinek és tagjainak érdekeit, az igazságügyi szakértők jogait,
+- b) képviseli az igazságügyi szakértői kart a nemzetközi szakmai szervezetekben,
+- c) megalkotja az alapszabályát,
+- d) véleményezési jogot gyakorol a szakértői tevékenységet érintő jogszabályok megalkotásánál,
+- e) szervezi az igazságügyi szakértők, szakértőjelöltek szakértői munkával összefüggő szakmai továbbképzését, ennek során együttműködik a szakmai, civil szervezetekkel, más szakmai kamarákkal,
+- f) megalkotja a fegyelmi eljárási szabályzatot, az igazságügyi szakértők etikai kódexét és az etikai eljárási szabályzatot, továbbá e törvényben meghatározott esetekben az igazságügyi szakértővel szemben fegyelmi eljárást folytat le, nyilvántartja a jogerős fegyelmi határozatokat,
+- g) az igazságügyi szakértői tevékenységre vonatkozó szakmai iránymutatást ad ki,
+- h) nyilvántartást vezet a szakértőjelöltekről, igazolja a szakértőjelöltek gyakorlatát, előírja a szakértőjelöltekre vonatkozó kötelező képzési és vizsgakövetelményeket, valamint kiállítja a szakértőjelöltek igazolványát,
+- i) rendszeresen értékeli az igazságügyi szakértő szakmai tevékenységét,
+- j) törvényben meghatározott esetekben kezdeményezi az igazságügyi szakértőnek a névjegyzékből való törlését és
+- k) a szakértők által beküldött statisztikai adatokat gyűjti és feldolgozza.
+
+(2) A Kamara a feladatellátásának érdekében jogosult az igazságügyi szakértők 1. melléklet 1.1.–1.6. pontjaiban, 1.15. pontjában és 1.18.1. alpontjában szereplő személyes adatait, valamint a szakértőjelöltek 3. melléklet szerinti személyes adatait kezelni.
+
+#### 30. A Kamarai hatósági ügyek eljárási szabályai
+
+63. § (1) A Kamara a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti közigazgatási hatóságként jár el – az e §-ban foglalt eltérésekkel – a következő ügyekben:
+
+- a) felvétel a szakértőjelölti nyilvántartásba, törlés a nyilvántartásból,
+- b) szakértőjelölti igazolvány kiállítása,
+- c) kamarai tagdíj meg nem fizetése miatt a kamarai tagság megszüntetése,
+- d) a kamarai tagság 68. § (1) bekezdésében meghatározott szüneteltetésének engedélyezése és
+- e) a kamarai tagság 69. § (1) bekezdésében meghatározott okból történő felfüggesztése.
+
+(2) A Kamara döntései ellen – ha e törvény eltérően nem rendelkezik – fellebbezésnek helye nincs.
+
+(3) A kamarai tagság megszüntetése iránti eljárást hivatalból meg kell indítani, ha a Kamara törlési okról tudomást szerez. A Kamara a törlési eljárás során az ügyfelet nyilatkozattételre és adatszolgáltatásra hívhatja fel.
+
+(4) Ha az ügyfél a kérelmet hiányosan nyújtotta be, a Kamara a kérelem beérkezésétől számított tizenöt napon belül – megfelelő határidő megjelölése és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – hiánypótlásra hívja fel.
+
+(5) A Kamara az alapszabályában vagy kamarai szabályzatában közigazgatási hatósági ügynek nem minősülő eljárásaiban is lehetővé teheti a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény, valamint az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti elektronikus kapcsolattartás szabályainak alkalmazását.
+
+### VIII. Fejezet — A KAMARA TAGJAI
+
+#### 31. A kamarai tagság keletkezése
+
+64. § Az igazságügyi szakértő a névjegyzéket vezető hatóság által a névjegyzékbe történő felvételével, a határozat jogerőre emelkedésének napján e törvény erejénél fogva a Kamara tagjává válik.
+
+#### 32. A kamarai tag jogai és kötelességei
+
+65. § (1) A Kamara tagjának joga, hogy
+
+- a) az igazságügyi szakértői címet viselje,
+- b) a küldöttgyűlésbe küldöttet válasszon és küldöttnek megválasszák,
+- c) kamarai tisztségviselőket válasszon és kamarai tisztséget viseljen, valamint
+- d) igénybe vegye a Kamara szolgáltatásait.
+
+(2) A Kamara tagjának kötelessége, hogy
+
+- a) megtartsa az alapszabályban és a Kamara egyéb szabályzatában foglaltakat,
+- b) megfizesse a kamarai tagdíjat és
+- c) részt vegyen a Kamara által szervezett – az alapszabályban előírt – szakmai képzéseken.
+
+(3) Az e törvény szerinti kamarai tagság nem zárja ki, hogy az igazságügyi szakértő más szakmai kamara tagja is legyen.
+
+#### 33. A kamarai tagság megszűnése és megszüntetése
+
+66. § (1) Megszűnik az igazságügyi szakértő kamarai tagsága, ha
+
+- a) a névjegyzékből törölték vagy
+- b) meghalt.
+
+(2) Az igazságügyi szakértő kamarai tagságát meg kell szüntetni, ha
+
+- a) ezt az igazságügyi szakértő kéri,
+- b) a Kamarából kizárták,
+- c) a kamarai tagdíjat felszólítás ellenére nem fizeti meg vagy
+- d) kötelező szakmai kamarai tagság esetén szakmai kamarai tagsága megszűnt.
+
+(3) A Kamara az igazságügyi szakértő névjegyzékből való törlését kezdeményezi, ha
+
+- a) az igazságügyi szakértőt a Kamarából kizárták vagy
+- b) a Kamara olyan tényről szerez tudomást, amely az igazságügyi szakértőnek a névjegyzékből való törlését alapozhatja meg.
+
+67. § (1) A kamarai tagdíjfizetés részletes szabályait – ide nem értve a kamarai tagdíj legalacsonyabb mértékét – az alapszabály állapítja meg.
+
+(2) Az igazságügyi szakértő kamarai tagságát a 66. § (2) bekezdés c) pontja alapján az elnökség szünteti meg. A kamarai tagság az erről szóló határozat jogerőre emelkedésének napján szűnik meg.
+
+(3) Ha az igazságügyi szakértő keresetében arra hivatkozik, hogy tagdíjfizetési kötelezettségének önhibáján kívül nem tett eleget, egyidejűleg mulasztását kimenti és a tagdíj befizetését igazolja, a kereset megérkezésekor az elnökség haladéktalanul intézkedik a határozata felülvizsgálatáról. Ha az elnökség annak helyt ad, a kamarai tagság megszűnését megállapító határozatát visszavonja.
+
+(4) Az elnökség a jogerős határozatát megküldi a névjegyzéket vezető hatóságnak. A névjegyzéket vezető hatóság az igazságügyi szakértőt a miniszter rendeletében meghatározott eljárás keretében törli a névjegyzékből.
+
+(5) Ha az igazságügyi szakértő kamarai tagsága a 66. § (2) bekezdés c) pontjában meghatározott okból szűnik meg, a megszűnést megállapító határozat jogerőre emelkedésétől számított egy évig ennek hatálya alatt áll.
+
+#### 34. A kamarai tagság szünetelése
+
+68. § (1) Az igazságügyi szakértő a Kamara engedélyével kamarai tagságát szüneteltetheti. A kamarai tagság abban az esetben szüneteltethető, ha az igazságügyi szakértő igazolja, hogy a folyamatban lévő ügyeit befejezte, a szakértői kirendelése alól felmentését kérte és azt az eljáró hatóság elfogadta, valamint a folyamatban lévő megbízásait felmondta.
+
+(2) Az igazságügyi szakértő a szünetelés alatt igazságügyi szakértői tevékenységet nem végezhet, hatóság előtt szakértőként nem járhat el, az e törvényből és a kamarai tagságból eredő jogai és kötelezettségei szünetelnek. A kamarai tagság szünetelésének ténye a 45. § (4) bekezdés c) pontja szerinti akadálynak minősül.
+
+(3) Az igazságügyi szakértő részére a szünetelés a jövőre nézve engedélyezhető. A szünetelés időtartama legfeljebb a szünetelést engedélyező kamarai határozat jogerőre emelkedésétől számított két év, amely indokolt esetben évente meghosszabbítható. A meghosszabbított szünetelés időtartama az öt évet nem haladhatja meg.
+
+(4) A Kamara a szünetelés iránti kérelemről harminc napon belül határoz. A Kamara a szünetelés tárgyában meghozott határozatot, a határozat meghozatalától számított tizenöt napon belül megküldi a névjegyzéket vezető hatóságnak.
+
+(5) A kamarai tagságát szüneteltető igazságügyi szakértő a szünetelést engedélyező határozatban foglaltaktól eltérően, a szünetelés időtartamának lejárta előtt kérheti a szünetelés megszüntetését. A szünetelés visszavonását kérelmező igazságügyi szakértő a szünetelés visszavonását megállapító határozat jogerőre emelkedéséig igazságügyi szakértői tevékenységet nem végezhet, hatóság előtt szakértőként nem járhat el, a kamarai tagságából eredő jogai és kötelezettségei szünetelnek.
+
+(6) A Kamara a jogerős határozatot megküldi a névjegyzéket vezető hatóságnak a névjegyzékbe történő bejegyzés céljából. A Kamara a szünetelés visszavonása tárgyában meghozott határozatot, a határozat meghozatalától számított tizenöt napon belül megküldi a névjegyzéket vezető hatóságnak. A szünetelés engedélyezésének és visszavonásának részletes szabályairól az alapszabály rendelkezik.
+
+(7) A Kamara engedélye nem szükséges a kamarai tagságnak
+
+- a) az országgyűlési képviselői, a nemzetiségi szószólói, az európai parlamenti képviselői, az önkormányzati képviselői vagy polgármesteri megbízatás,
+- b) az állami vezetői szolgálati jogviszony, az állami vezetőként betöltött jogviszony vagy
+- c) az Országgyűlés által választott közjogi tisztségviselő e megbízatása
+
+miatti szüneteléséhez. Ezen esetekben a szünetelés időtartama a megbízatás lejártáig tart. Az igazságügyi szakértő az e bekezdés szerinti szünetelést köteles a Kamarának bejelenteni, amely a szünetelés tényéről értesíti a névjegyzéket vezető hatóságot a névjegyzékbe történő bejegyzés céljából. Ebben az esetben a (2) bekezdés rendelkezéseit megfelelően alkalmazni kell.
+
+#### 35. A kamarai tagság felfüggesztése
+
+69. § (1) Az igazságügyi szakértő kamarai tagságát fel kell függeszteni, ha
+
+- a) az igazságügyi szakértő ellen közvádra üldözendő szándékos bűncselekmény miatt emel vádat az ügyész vagy
+- b) a kötelező szakmai kamarai tagsággal rendelkező igazságügyi szakértő szakmai kamarai tagsága felfüggesztésre került.
+
+(2) Az (1) bekezdés a) pontja szerinti vádemelésről az ügyész értesíti a Kamarát és a névjegyzéket vezető hatóságot.
+
+(3) Az igazságügyi szakértő kamarai tagságának felfüggesztését a névjegyzéket vezető hatóság kezdeményezheti.
+
+(4) A felfüggesztés az (1) bekezdés a) pontja esetében az eljárás jogerős befejezéséig, az (1) bekezdés b) pontja esetében pedig addig tart, amíg a szakértő szakmai kamarai tagsága felfüggesztése hatálya alatt áll.
+
+(5) Ha a Kamara határozatában nem dönt az igazságügyi szakértő felfüggesztéséről, a miniszter a határozat kézbesítésétől számított harminc napon belül bírósághoz fordulhat.
+
+(6) Az igazságügyi szakértő a felfüggesztés időtartama alatt igazságügyi szakértői tevékenységet nem végezhet, hatóság előtt nem járhat el, az e törvényből és a kamarai tagságból eredő jogai és kötelezettségei szünetelnek.
+
+### IX. Fejezet — A KAMARA SZERVEI
+
+#### 36. A Kamara szerveire vonatkozó általános szabályok
+
+70. § (1) A Kamara szervei
+
+- a) a küldöttgyűlés,
+- b) az elnökség,
+- c) a fegyelmi bizottság,
+- d) az etikai bizottság,
+- e) a számvizsgáló bizottság,
+- f) a minőségbiztosítási bizottság,
+- g) a szakterületet felülvizsgáló bizottság,
+- h) a szakmai tagozatok és
+- i) a hivatal.
+
+(2) Az (1) bekezdésben felsorolt szerveken kívül az alapszabályban meghatározott, más bizottság is alapítható.
+
+(3) A Kamara az igazságügyi szakértők területi megoszlására figyelemmel a hatékonyabb kamarai működés és az igazságügyi szakértők ügyintézésének megkönnyítése céljából területi ügyfélszolgálati pontokat működtet. A területi ügyfélszolgálati pontok a Kamara szerveként működnek, önálló jogi személyiséggel nem rendelkeznek.
+
+(4) A Kamara szervezetének és működésének e törvényben nem részletezett szabályait a Kamara szervezeti és működési szabályzata állapítja meg.
+
+#### 37. A küldöttgyűlés
+
+71. § (1) A Kamara legfőbb döntéshozó szerve a küldöttgyűlés.
+
+(2) A Kamara tagjai a küldöttgyűlésbe száznegyven küldöttet választanak. A küldöttgyűlésbe a szakmai tagozatok öt-öt küldöttet delegálnak, a további küldötteket a bejegyzett igazságügyi szakértők területi megoszlására figyelemmel kell megválasztani. A küldöttek megválasztásának részletes szabályait az alapszabály állapítja meg.
+
+(3) A küldöttgyűlés
+
+- a) kizárólagos hatáskörébe tartozik – az elnök, az elnökhelyettesek, a főtitkár és a titkárok kivételével – a Kamara tisztségviselőinek megválasztása, valamint a tisztségviselők – a főtitkár és a titkárok kivételével – visszahívása,
+- b) beszámoltatja a Kamara elnökét és az elnökséget,
+- c) elfogadja a Kamara éves költségvetését és elfogadja a főtitkár beszámolóját az éves költségvetés végrehajtásáról,
+- d) elfogadja a kamarai tagdíj mértékéről, a Kamara által nyújtott szolgáltatásokért fizetendő egyéb hozzájárulások mértékéről, a kamarai tagdíj alóli részleges vagy teljes mentesülésről szóló szabályzatot,
+- e) elfogadja az alapszabályt és a Kamara szervezeti és működési szabályzatát,
+- f) elfogadja a fegyelmi eljárási szabályzatot, az igazságügyi szakértők etikai kódexét, az etikai eljárási szabályzatot és
+- g) beszámoltatja a bizottságokat, azok tisztségviselőit és tagjait.
+
+(4) A küldöttgyűlés által elfogadott szabályzatokat a 78. § (1) bekezdésében meghatározott jóváhagyást követően a Kamara honlapján közzé kell tenni. A közzététel időpontjának egyértelműen megállapíthatónak kell lennie. A küldöttgyűlés által elfogadott szabályzatok – a szabályzat eltérő rendelkezése hiányában – a Kamara honlapján történő közzétételt követő harmincadik napon lépnek hatályba.
+
+(5) A küldöttgyűlés a döntéseit ülés tartásával vagy ülés tartása nélkül hozza. Az ülés tartásával vagy ülés tartása nélkül megtartott küldöttgyűlésen a küldöttek kizárólag személyesen járhatnak el.
+
+(6) Az elnökség szükség szerint, de évente legalább egy alkalommal összehívja a küldöttgyűlést. A küldöttek legalább tíz százalékának indítványára a küldöttgyűlést össze kell hívni. A küldötteket a (7) és (8) bekezdésben foglaltakra való figyelmeztetés mellett kell meghívni.
+
+(7) A küldöttgyűlés akkor határozatképes, ha azon a küldöttek több mint fele jelen van. A küldöttgyűlés határozatképtelensége esetén legalább nyolc nappal későbbre, azonos napirenddel összehívott küldöttgyűlés – a megjelentek számára tekintet nélkül – határozatképes.
+
+(8) A küldöttek a küldöttgyűlés ülésén szavazással hozzák meg a határozatukat. A küldöttgyűlés határozatának érvényességéhez a jelen lévő küldöttek többségének szavazata, az alapszabály elfogadásához, módosításához a jelen lévő küldöttek legalább kétharmadának szavazata szükséges. A küldöttgyűlésről jegyzőkönyvet kell készíteni, amelyet a Kamara elnöke és a jegyzőkönyvvezető aláírásával hitelesít.
+
+72. § (1) A küldöttek a küldöttgyűlés ülésén jogaikat – ha ezt az alapszabály lehetővé teszi – személyes részvétel helyett elektronikus hírközlő eszközök igénybevételével is gyakorolhatják. Az alapszabályban meg kell határozni az igénybe vehető elektronikus hírközlő eszközöket, valamint azok alkalmazásának feltételeit és módját akként, hogy a küldöttek azonosítása és a küldöttek közötti kölcsönös és befolyásmentes kommunikáció biztosított legyen.
+
+(2) Az elektronikus hírközlő eszköz közvetítésével tartott küldöttgyűlésen elhangzottakat és a meghozott határozatokat úgy kell rögzíteni, hogy azok utóbb is ellenőrizhetők legyenek. Az elektronikus hírközlő eszközök igénybevételével megtartott küldöttgyűlésről jegyzőkönyvet kell készíteni, amelyet a Kamara elnöke és a jegyzőkönyvvezető aláírásával hitelesít.
+
+73. § (1) Ülés tartása nélküli határozathozatal esetén a határozathozatalt az elnökség a határozat tervezetének a küldöttek részére postai úton hivatalos iratként vagy elektronikus úton történő megküldésével vagy a Kamara honlapján történő közzétételével is kezdeményezheti. A határozat tervezetének postai úton hivatalos iratként vagy elektronikus úton történő megküldésének, vagy a Kamara honlapján történő közzétételének részletes szabályait az alapszabály állapítja meg.
+
+(2) Ülés tartása nélküli döntéshozatal nem kezdeményezhető az alapszabály elfogadása tárgyában.
+
+(3) A küldöttek számára a határozat tervezetének kézhezvételétől vagy közzétételétől számított legalább nyolcnapos határidőt kell biztosítani arra, hogy szavazatukat megküldjék az elnökség részére.
+
+(4) A küldöttek a határozat tervezetére kizárólag támogató (igen) vagy a határozatot ellenző (nem) szavazatot küldhetnek. Az ülés tartása nélküli döntéshozatal során a küldötteknek – a (6) bekezdésben meghatározott kivétellel – indítványtételi joga nincs. A szavazatok megküldése postai úton vagy a Kamara által kialakított internetes felületen keresztül történhet.
+
+(5) Az ülés tartása nélküli döntéshozatal során a 71. § (7) és (8) bekezdésében foglalt rendelkezéseket azzal az eltéréssel kell alkalmazni, hogy a határozathozatali eljárás akkor érvényes, ha legalább annyi szavazatot megküldenek az elnökség részére, amennyi szavazati jogot képviselő küldött jelenléte a határozatképességhez szükséges lenne ülés tartása esetén.
+
+(6) Ha az összes küldött legalább egyharmada az ülés megtartását kívánja, a küldöttgyűlés ülését az elnökségnek harminc napon belül össze kell hívnia.
+
+(7) A szavazásra rendelkezésre álló határidő utolsó napját követő öt napon belül az elnökség megállapítja a szavazás érvényességét és eredményét, és azt további öt napon belül közli a Kamara tagjaival. A határozathozatal napja a szavazási határidő utolsó napja.
+
+74. § (1) A 71. § (3) bekezdés a) pontjában meghatározott esetben a határozattal érintett kamarai tag jogszabálysértésre hivatkozással, bírósági jogorvoslat iránt kérelmet nyújthat be. A küldöttek legalább egyharmada a küldöttgyűlés által meghozott egyéb határozattal szemben jogszabálysértésre hivatkozással – a (2) bekezdésben foglalt kivétellel – harminc napon belül bírósági jogorvoslat iránt kérelmet nyújthat be. A kérelem benyújtásával egyidejűleg a névjegyzéket vezető hatóságot értesíteni kell.
+
+(2) Az alapszabály elfogadása vagy módosítása tárgyában meghozott határozattal szemben a küldöttek legalább tizenöt százaléka a törvényességi felügyeletet gyakorló miniszter felé jelzéssel élhet. Az alapszabály elfogadása vagy módosítása tárgyában hozott határozat bírói úton kizárólag a törvényességi felügyeleti intézkedés elmaradása esetén támadható, ennek tényét a kérelem benyújtásával egyidejűleg igazolni kell.
+
+(3) A bíróság az (1) bekezdés alapján benyújtott kérelmet nemperes eljárásban bírálja el. Ha e törvényből vagy az eljárás nemperes jellegéből más nem következik, a bíróság eljárására a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó rendelkezéseit kell megfelelően alkalmazni. Az eljárásra a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
+
+#### 38. Az elnökség
+
+75. § (1) Az elnökség a Kamara elnökéből és négy elnökhelyettesből áll.
+
+(2) A Kamara elnökét és elnökhelyetteseit általános, egyenlő választójog alapján közvetlenül, négy évre, titkos szavazással választják.
+
+(3) A választói névjegyzékbe felvett igazságügyi szakértő választhat, és amennyiben jogszabály nem zárja ki, választható. Szavazni csak személyesen lehet. A választáson minden szavazásra jogosultnak egy szavazata van, minden szavazat egyenlő.
+
+(4) A Kamara elnöke az lesz, aki a választáson az egyéni jelöltek közül a legtöbb szavazatot kapta és legalább a leadott szavazatok egyharmadával rendelkezik. Amennyiben a legtöbb szavazatot kapott egyéni jelölt nem szerezte meg a leadott szavazatok legalább egyharmadát, második fordulót kell tartani.
+
+(5) A második fordulóban csak azok az egyéni jelöltek vesznek részt, akik az első fordulóban az első három hely valamelyikén végeztek és a leadott szavazatok legalább egyötödét megkapták. A második fordulóban a Kamara elnöke az lesz, aki az egyéni jelöltek közül a legtöbb szavazatot kapta. Szavazategyenlőség esetén – amennyiben azon az elnöki tisztség betöltése vagy a második fordulóban történő részvétel múlik – az azonos szavazatot kapott személyek közül a választási bizottság elnöke és legalább két tagja – az érintettek jelenlétében – sorsolással dönti el a Kamara elnökének vagy a továbbjutó egyéni jelölt személyének választását.
+
+(6) A Kamara elnökének és elnökhelyetteseinek megválasztását a miniszternek jóvá kell hagynia.
+
+(7) A Kamara elnökhelyettesei a választáson az egyéni jelöltek közül a négy legtöbb szavazatot kapó jelöltek lesznek.
+
+(8) Az elnökség megválasztására a 87. § rendelkezéseit megfelelően alkalmazni kell.
+
+(9) A jelölés módjáról, valamint az elnökség működési rendjéről az alapszabály rendelkezik.
+
+76. § (1) Az elnökség
+
+- a) összehívja a Kamara küldöttgyűlését, javaslatot tesz annak napirendjére, előkészíti a küldöttgyűlést és az annak hatáskörébe tartozó döntések meghozatalát,
+- b) előkészíti és a küldöttgyűlés elé terjeszti az alapszabály, valamint a Kamara szervezeti és működési szabályzatának tervezetét,
+- c) gondoskodik a küldöttgyűlés határozatainak végrehajtásáról,
+- d) előkészíti és a küldöttgyűlés elé terjeszti a Kamara éves költségvetését,
+- e) előkészíti és elfogadja a Kamara szakmai iránymutatásait,
+- f) előkészíti és a küldöttgyűlés elé terjeszti a kamarai tagdíj mértékéről, a Kamara által nyújtott szolgáltatásokért fizetendő egyéb hozzájárulások mértékéről, a kamarai tagdíj alóli részleges vagy teljes mentesülésről szóló szabályzatot,
+- g) előkészíti és elfogadja a szakértőjelölti igazolvány kiadásáról és külalakjáról szóló szabályzatot, a szakértőjelöltek kötelező képzéseiről és számonkéréseiről, különösen a szakértés alapismeretéről szóló elméleti képzésről szóló szabályzatot, a szakértőjelöltet foglalkoztató mentorokat megillető kedvezményeket és egyéb juttatásokat előíró szabályzatot, a szakértőjelöltekkel kapcsolatos egyéb szabályzatokat, valamint a módszertani levél kiadásának részletes szabályairól szóló szabályzatot,
+- h) előkészíti és a küldöttgyűlés elé terjeszti a fegyelmi eljárási szabályzatot, az igazságügyi szakértők etikai kódexét és az etikai eljárási szabályzatot,
+- i) elvégzi a küldöttgyűlés által meghatározott egyéb feladatokat,
+- j) kezdeményezheti a szakértő névjegyzékből történő törlését,
+- k) fegyelmi eljárást kezdeményezhet,
+- l) határoz a fegyelmi eljárás során a fegyelmi bizottság elnökével vagy a fegyelmi bizottság egészével szemben előterjesztett kizárási indítványról, és a fegyelmi bizottság kizárása esetén – ha a fegyelmi tanács határozatképtelenné válik – új fegyelmi tanácsot jelöl ki,
+- m) ellátja az igazságügyi szakértők képviseletét a belföldi és a külföldi szakmai szervezetekkel való kapcsolattartás során és
+- n) elfogadja a hivatal ügyrendjét.
+
+(2) Az elnökség által előkészített és elfogadott szabályzatokat a Kamara honlapján közzé kell tenni. Az elnökség által előkészített és elfogadott szabályzatok – a szabályzat eltérő rendelkezése hiányában – a Kamara honlapján történő közzétételt követő harmincadik napon lépnek hatályba.
+
+(3) Az (1) bekezdés j) és k) pontjában meghatározott esetben a határozattal érintett kamarai tag jogszabálysértésre hivatkozással, bírósági jogorvoslat iránt kérelmet nyújthat be. Az (1) bekezdés c), e), g) és n) pontjában meghatározott esetben a kamarai tagok legalább egynegyede jogszabálysértésre hivatkozással kezdeményezheti, hogy az elnökség határozatát vagy szabályzatát a küldöttgyűlés tárgyalja meg. A küldöttgyűlés az elnökség határozatának vagy szabályzatának vizsgálatát követően legalább kétharmados többséggel az elnökség határozatát vagy szabályzatát hatályon kívül helyezheti és az elnökséget új határozat vagy szabályzat meghozatalára utasíthatja. Az (1) bekezdés i) pontjában meghatározott esetben a tagok részére a feladat jellegétől függő megfelelő jogorvoslat áll rendelkezésére.
+
+(4) A bíróság a (3) bekezdés szerinti kérelmet nemperes eljárásban bírálja el. Ha e törvényből vagy az eljárás nemperes jellegéből más nem következik, a bíróság eljárására a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó rendelkezéseit kell megfelelően alkalmazni. Az eljárásra a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
+
+77. § (1) A Kamara elnöke
+
+- a) képviseli a Kamarát,
+- b) irányítja az elnökség és a bizottságok működését,
+- c) fegyelmi eljárást kezdeményezhet és
+- d) a miniszter jóváhagyásával kinevezi és felmenti a főtitkárt, valamint a küldöttgyűlés elé terjeszti a főtitkár díjazására vonatkozó javaslatát.
+
+(2) A Kamara elnöke a tevékenységéről beszámol a küldöttgyűlésnek.
+
+(3) Az elnökhelyettesek az alábbi feladatkörökben járnak el:
+
+- a) általános elnökhelyettes,
+- b) fegyelmi ügyekért felelős elnökhelyettes,
+- c) az igazságügyi szakértői tevékenység tudományos művelésének támogatásáért, módszertani levelekért és szakmai iránymutatásokért felelős elnökhelyettes és
+- d) az igazságügyi szakértői intézményekkel, intézetekkel, igazságügyi szakértői testületekkel és egyéb szakértői szervekkel, valamint a hatóságokkal való kapcsolattartásért felelős elnökhelyettes.
+
+(4) Az elnökhelyetteseknek a (3) bekezdés szerinti feladatkörét az elnök jelöli ki. Az elnökhelyettesek ellátják a Kamara elnöke által meghatározott feladatokat.
+
+(5) A Kamara elnökét távolléte vagy akadályoztatása esetén az általános elnökhelyettes helyettesíti.
+
+(6) A Kamara általános elnökhelyettese az etikai bizottság elnöke, a fegyelmi ügyekért felelős elnökhelyettese a fegyelmi bizottság elnöke, az igazságügyi szakértői tevékenység tudományos művelésének támogatásáért, módszertani levelekért és szakmai iránymutatásokért felelős elnökhelyettese a minőségbiztosítási bizottság elnöke, az igazságügyi szakértői intézményekkel, intézetekkel, igazságügyi szakértői testületekkel és egyéb szakértői szervekkel, valamint a hatóságokkal való kapcsolattartásért felelős elnökhelyettese pedig a számvizsgáló bizottság elnöke.
+
+78. § A Kamara elnöke az alapszabályt és a Kamara szervezeti és működési szabályzatát jóváhagyás végett a miniszternek, iránymutatásait és egyéb szabályzatait tájékoztatás végett a miniszternek és a szakterületet felügyelő miniszternek megküldi az elfogadástól számított tizenöt napon belül.
+
+#### 39. A fegyelmi bizottság
+
+79. § (1) A küldöttgyűlés a Kamara tagjai közül az igazságügyi szakértők területi eloszlására figyelemmel megválasztja a tizenöt tagú fegyelmi bizottság tizennégy tagját.
+
+(2) A fegyelmi bizottság felelős a fegyelmi eljárások lefolytatásáért. A fegyelmi bizottság évente egyszer beszámol a tevékenységéről a küldöttgyűlésnek.
+
+(3) A Kamara elnöke a fegyelmi bizottság elnökétől a folyamatban lévő ügyekről bármikor felvilágosítást kérhet. A fegyelmi bizottság elnöke a Kamara elnökének felhívására haladéktalanul, de legkésőbb nyolc napon belül köteles a tájékoztatást megadni.
+
+#### 40. Az etikai bizottság
+
+80. § (1) A küldöttgyűlés a Kamara tagjai közül az igazságügyi szakértők területi eloszlására figyelemmel megválasztja a tizenöt tagú etikai bizottság tizennégy tagját.
+
+(2) Az etikai bizottság felelős az etikai eljárások lefolytatásáért. Az etikai bizottság évente egyszer beszámol a tevékenységéről a küldöttgyűlésnek.
+
+(3) A Kamara elnöke az etikai bizottság elnökétől a folyamatban lévő ügyekről bármikor felvilágosítást kérhet. Az etikai bizottság elnöke a Kamara elnökének felhívására haladéktalanul, de legkésőbb nyolc napon belül köteles a tájékoztatást megadni.
+
+#### 41. A számvizsgáló bizottság
+
+81. § (1) A küldöttgyűlés a Kamara tagjai közül megválasztja a háromtagú számvizsgáló bizottság két tagját.
+
+(2) A számvizsgáló bizottság a Kamara gazdasági és pénzügyi működését ellenőrzi. A számvizsgáló bizottság évente egyszer köteles a küldöttgyűlésnek beszámolni.
+
+(3) A számvizsgáló bizottság munkája során bármely kamarai tagtól felvilágosítást kérhet, a Kamara irataiba betekinthet, intézkedést javasolhat a főtitkárnak. Az ellenőrzéssel kapcsolatban a számvizsgáló bizottság és tagjai jogait és kötelezettségeit az alapszabály határozza meg.
+
+#### 42. A minőségbiztosítási bizottság
+
+82. § (1) A küldöttgyűlés a szakmai tagozatok tagjai – elsősorban a miniszter rendeletében meghatározott külön minősítéssel rendelkező igazságügyi szakértők – közül megválasztja a minőségbiztosítási bizottság tagjait.
+
+(2) A bizottság tagjait a szakmai tagozatok tagjai közül kell megválasztani akként, hogy minden szakmai tagozatból egy igazságügyi szakértő választható. A minőségbiztosítási bizottság tagjának csak olyan igazságügyi szakértő választható meg, aki
+
+- a) a saját szakterületén magas szintű elméleti tudással, valamint jelentős gyakorlati tapasztalatokkal rendelkezik,
+- b) legalább tizenöt éves igazságügyi szakértői tapasztalattal rendelkezik és
+- c) a megválasztását megelőző tíz évben fegyelmi vagy etikai felelősségét fegyelmi vagy etikai eljárásban jogerősen nem állapították meg.
+
+(3) A minőségbiztosítási bizottság felelős az igazságügyi szakértők szakmai értékelésének lefolytatásáért, továbbá az alapszabály által a hatáskörébe utalt további feladatok végrehajtásáért.
+
+(4) A (3) bekezdésben meghatározott feladat ellátására a minőségbiztosítási bizottság szakmai értékelő tanácsot jelöl ki.
+
+(5) A minőségbiztosítási bizottság tevékenységéről évente egyszer beszámol a küldöttgyűlésnek.
+
+#### 43. A szakterületet felülvizsgáló bizottság
+
+83. § (1) A küldöttgyűlés a Kamara tagjai közül megválasztja a háromtagú szakterületet felülvizsgáló bizottság két tagját és az elnökét.
+
+(2) A bizottság figyelemmel kíséri a szakterületekhez kapcsolódó képesítési és továbbképzési követelményeket, és – szükség szerint – a Kamara módszertani levelekért és szakmai iránymutatásokért felelős elnökhelyettese útján javaslatot tesz a miniszternek az érintett jogszabály módosítására. A bizottság évente egyszer köteles a küldöttgyűlésnek beszámolni.
+
+(3) A bizottság üléseire köteles meghívni a miniszter, valamint a felülvizsgálandó szakterület ágazati irányításáért felelős miniszter és szakmai Kamara képviselőjét, a Kamara érintett szakmai tagozatának vezetőjét, akik a bizottság ülésén meghívottként vesznek részt, szavazati joggal nem rendelkeznek. A bizottságot megillető jogosultságokat és kötelezettségeket az alapszabály határozza meg.
+
+#### 44. A szakmai tagozatok
+
+84. § (1) A Kamara tagjai az igazságügyi szakértői szakterületekről, valamint az azokhoz kapcsolódó képesítési és egyéb szakmai feltételekről szóló rendelet mellékleteiben meghatározott szakterületek alapján szakmai tagozatokat alkotnak. A tagozat az első ülésén elnököt választ. A szakmai tagozatok létrehozásáról, működéséről és feladatairól az alapszabály rendelkezik.
+
+(2) A Kamara tagja egyidejűleg több szakmai tagozatnak is tagja lehet.
+
+(3) A szakmai tagozatok a saját szakterületüket érintő ügyekben véleményezési joggal rendelkeznek, továbbá közreműködnek a Kamara minőségbiztosítással összefüggő feladatainak végrehajtásában.
+
+#### 45. A hivatal
+
+85. § (1) A Kamara ügyviteli szerve a hivatal, amelynek vezetője a Kamara főtitkára.
+
+(2) A főtitkár:
+
+- a) felel – a számvizsgáló bizottság hatáskörébe tartozó ügyek kivételével – a Kamara gazdasági, pénzügyi, kontrolling, belső ellenőrzési és számviteli tevékenységéért,
+- b) felel a Kamara munkaügyi, jogi és igazgatási tevékenységéért,
+- c) felel a Kamara informatikai tevékenységéért,
+- d) felel a Kamara vagyongazdálkodásáért, ideértve a műszaki, létesítményhasznosítási, üzemeltetési, logisztikai, szolgáltatási, beszerzési és közbeszerzési ügyeket,
+- e) gondoskodik a gazdasági vezetői feladatok ellátásáról,
+- f) egyetértési jogot gyakorol a küldöttgyűlésnek és az elnökségnek a Kamara gazdálkodását, szervezetét, működését érintő gazdasági következménnyel járó döntései és intézkedései tekintetében; az egyetértés e döntések hatálybalépésének feltétele,
+- g) a Kamara rendelkezésére álló források felhasználásával gondoskodik annak feltételeiről, hogy a Kamara gazdálkodása a Kamara feladatainak ellátását biztosítsa,
+- h) munkáltatói jogot gyakorol a Kamara munkavállalói felett,
+- i) gondoskodik a jogszabályoknak megfelelő pénzügyi-szakmai kompetencia biztosításáról és
+- j) elfogadásra az elnökség elé terjeszti a hivatal ügyrendjének tervezetét.
+
+(3) A főtitkár egyetértési joga nem terjed ki a saját díjazásának mértékére, azt a Kamara elnökének előterjesztésére a küldöttgyűlés állapítja meg.
+
+(4) A főtitkár a (2) bekezdésben meghatározott hatásköreit esetenként vagy az ügyek meghatározott körében az általa kinevezett titkárokra átruházhatja. Az átruházott hatáskör gyakorlója a hatáskört nem adhatja tovább.
+
+(5) A főtitkár a (2) bekezdés e) pontjában meghatározott hatásköre ellátására titkárt nevez ki (a továbbiakban: gazdasági ügyekért felelős titkár). Gazdasági ügyekért felelős titkárnak az nevezhető ki, aki megfelel az államháztartásról szóló törvény végrehajtási rendelete gazdasági vezetőkre vonatkozó előírásainak.
+
+(6) A főtitkár feladatai ellátása során köteles a Kamara szerveivel – különösen a Kamara elnökével – együttműködni és részükre a szükséges tájékoztatást megadni.
+
+(7) A főtitkár évente beszámol a küldöttgyűlésnek a költségvetés végrehajtásáról.
+
+(8) A Kamarának a küldöttgyűlés, az elnökség, a bizottságok vagy valamely más kamarai szerv kizárólagos hatáskörébe nem tartozó feladatait a főtitkár irányítja és hangolja össze.
+
+86. § (1) Főtitkár az lehet, aki
+
+- a) jogász szakképzettséggel és
+- b) legalább nyolcéves közigazgatási gyakorlattal rendelkezik, amelyből legalább öt évet vezetői jogviszonyban töltött el.
+
+(2) Az (1) bekezdés b) pontja szerinti közigazgatási gyakorlatnak tekinthető köztestületnél közigazgatási ügyekben ügyintézőként szerzett gyakorlat is. Főtitkár nem csak kamarai tag lehet.
+
+(3) A főtitkárt a miniszter jóváhagyását követően a Kamara elnöke nevezi ki és menti fel.
+
+(4) A miniszter a jelölt kinevezéséhez a jóváhagyását nem adja meg, ha a jelölt
+
+- a) az (1) bekezdésben előírt képesítési és szakmai követelményeknek nem felel meg vagy
+- b) szakmai alkalmasságához egyéb okból nyomatékos kétség fér.
+
+(5) A főtitkár a Kamarával áll – a munka törvénykönyve szerinti – munkaviszonyban. A főtitkár felett a munkáltatói jogokat a Kamara elnöke gyakorolja.
+
+#### 46. A tisztségviselők megválasztása
+
+87. § (1) A tisztségviselők megbízatásának leghosszabb időtartama négy év azzal, hogy a tisztségviselők tisztségükre ismételten megválaszthatók, illetve a főtitkár és a titkárok ismételten kinevezhetők. A Kamara elnöke és az elnökhelyettesek legfeljebb egy alkalommal választhatók újra.
+
+(2) A választást jelölés előzi meg, egy tisztségre több személy is jelölhető.
+
+(3) A tisztségviselők megbízatása az új tisztségviselők megválasztásának vagy kinevezésének napján szűnik meg. Ha a tisztségviselő megbízatása egyéb okból szűnik meg, a választására jogosult szerv a megbízatás megszűnésétől számított harminc napon belül megválasztja az új tisztségviselőt.
+
+88. § (1) A tisztségviselő megbízatása megszűnik a tisztségviselő
+
+- a) lemondásával,
+- b) visszahívásával, illetve felmentésével,
+- c) kamarai tagságának megszűnésével, és
+- d) megbízatása idejének lejártával.
+
+(2) A tisztségviselő megbízatása akkor is megszűnik, ha az ellene indult fegyelmi vagy büntetőeljárás során jogerősen elmarasztalták.
+
+(3) A tisztségviselő visszahívását a Kamara tagjainak legalább egytizede kezdeményezheti, a visszahívott tisztségviselő tisztségét betöltő új jelölt megjelölésével egyidejűleg. A tisztségviselő visszahívása kizárólag akkor sikeres, ha a küldöttgyűlés az új tisztségviselőnek ajánlott jelöltet egyidejűleg megválasztja.
+
+(4) A visszahívásról és az új tisztségviselő megválasztásáról – titkos szavazással – a kezdeményezéstől számított harminc napon belül a küldöttgyűlés dönt.
+
+(5) Az (1) bekezdés c) pontja, valamint a (3) és (4) bekezdés a főtitkár és a titkárok tekintetében nem alkalmazható.
+
+### X. Fejezet — A MÓDSZERTANI LEVÉL
+
+#### 47. A módszertani levél kidolgozása és elfogadása
+
+89. § (1) Az elnökség az igazságügyi szakértői tevékenység egységes és magas színvonalú ellátása érdekében módszertani levelet ad ki. A módszertani levél kiadását a Kamara szervei, különösen a minőségbiztosítási bizottság, a Kamara szakmai tagozatai, igazságügyi szakértői intézmény, igazságügyi szakértői testület, Teljesítésigazolási Szakértői Szerv, valamint a névjegyzéket vezető hatóság indítványozhatja.
+
+(2) Az elnökség az indítvány alapján a módszertani levél kidolgozása érdekében a módszertani levéllel érintett igazságügyi szakértői szakterületen alapított szakmai tagozatból – a (4) és (5) bekezdés kivételével – öttagú bizottságot (e fejezet alkalmazásában a továbbiakban: bizottság) hív össze. A bizottságot az érintett igazságügyi szakértői tagozat elnöke vezeti. Ha a módszertani levél több igazságügyi szakértői szakterületet érint, a bizottság tagjai elnököt választanak.
+
+(3) Az igazságügyi szakértői intézmények tevékenységi körébe eső szakterületekhez tartozó szakkérdésekben – amennyiben az adott szakkérdés az igazságügyi szakértői intézmény kizárólagos hatáskörébe tartozik – a módszertani levél kiadásához az érintett igazságügyi szakértői intézmény egyetértése szükséges. Ebben az esetben a bizottság két tagját az érintett igazságügyi szakértői intézmény jelöli.
+
+(4) A Teljesítésigazolási Szakértői Szerv tevékenységi körébe eső szakterületekhez tartozó szakkérdésekben – amennyiben az adott szakkérdés a Teljesítésigazolási Szakértői Szerv hatáskörébe tartozik – a módszertani levél kiadásához a Teljesítésigazolási Szakértői Szerv egyetértése szükséges. Ebben az esetben a bizottság két tagját a Teljesítésigazolási Szakértői Szerv jelöli.
+
+(5) Olyan szakkérdésben, amelyre nézve a szakvélemény adására külön jogszabály kizárólagosan valamely szervet jogosít fel, a bizottság három tagját e szerv jelöli ki. Ha a szakvélemény adására több szerv jogosult, minden szerv két tagot jelöl a bizottságba.
+
+(6) A bizottság üléseire szükség esetén meg kell hívni a módszertani levéllel érintett tudományterület egyetemi képviselőit, valamint, ha ez indokolt, az eljárásokat jól ismerő szakjogászokat is. A meghívottak a bizottság ülésein tanácskozási joggal vesznek részt.
+
+(7) Az elnökség nem adhat ki módszertani levelet olyan szakterületen, amelyen az egészségügyért felelős miniszter vagy annak irányítása, felügyelete alatt működő szervezet külön jogszabály alapján módszertani levél kiadására jogosult.
+
+90. § (1) A módszertani levél tervezetét a bizottság elnöke terjeszti az elnökség elé.
+
+(2) A módszertani levelet az elnökség akkor fogadja el, ha azt a bizottság legalább három tagja támogatja. A bizottság azon tagja, aki a módszertani levelet nem támogatja, és a bizottság döntésével nem ért egyet, különvéleményét – annak írásbeli indokolásával együtt – jogosult a módszertani levélhez csatolni. A különvélemény – az elnökség döntése alapján – a módszertani levéllel együttesen közzétehető.
+
+(3) Az elnökség a módszertani levelet tájékoztatásul és közzétételre megküldi a miniszter részére, amelyhez csatolja a bizottság tagjainak névsorát és a tagok támogatását igazoló iratokat.
+
+#### 48. A módszertani levél közzététele
+
+91. § (1) A miniszter gondoskodik a módszertani levél közzétételéről a kormányzati portálon. A módszertani levél – annak visszavonásáig – a honlapról nem távolítható el.
+
+(2) Ha az elnökség nem csatolja a 90. § (3) bekezdésében megjelölt iratokat, a miniszter a módszertani levelet visszaküldi az elnökség részére.
+
+(3) Az elnökség figyelemmel kíséri a közzétett módszertani leveleket, és szükség esetén intézkedik – a módszertani levél kiadására vonatkozó rendelkezések szerint – azok visszavonásáról, illetve új módszertani levél kiadásáról.
+
+92. § A módszertani levél a kormányzati portálon történő közzétételétől a hatóság számára tájékoztatásul, a szakértőnek pedig a szakértői tevékenység ellátása során iránymutatásul szolgál.
 
 ## HARMADIK RÉSZ
 
-93–106. §
+### XI. Fejezet — A FEGYELMI ELJÁRÁS
 
-107. § (1)
+#### 49. A fegyelmi vétség
+
+93. § (1) Fegyelmi vétséget követ el az az igazságügyi szakértő, aki az e törvény hatálya alá tartozó tevékenységére vonatkozó jogszabályok, szakmai szabályok, kamarai szabályzatok – ide nem értve az igazságügyi szakértők etikai kódexét – és határozatok rendelkezéseit szándékosan vagy gondatlanul megszegi.
+
+(2) Fegyelmi vétséget követ el az az igazságügyi szakértő is,
+
+- a) akit öt éven belül három etikai vétség elkövetése miatt jogerősen elmarasztaltak vagy
+- b) akinek a 130. § szerinti etikai vétsége az etikai vétség súlyára, az etikai vétség elkövetésének ismétlődő jellegére vagy az etikai vétség elkövetésének körülményeire tekintettel fegyelmi vétségnek minősül.
+
+(3) A (2) bekezdés a) pontja szerinti esetet az etikai bizottság elnöke bejelenti az elnökségnek.
+
+(4) A (2) bekezdés b) pontja szerinti etikai vétségek fegyelmi vétségnek történő minősítéséről a fegyelmi tanács, a fegyelmi eljárás előkészítése során határoz. A fegyelmi tanács által meghozott határozat ellen a 126. §-ban meghatározottak szerinti bírósági jogorvoslatnak van helye.
+
+(5) A fegyelmi eljárás során szakmai szempontból nem vizsgálható az a szakvélemény, amelyet a hatóság jogerős határozatának meghozatala során elfogadott.
+
+#### 50. Fegyelmi büntetések
+
+94. § A fegyelmi vétséget elkövető igazságügyi szakértővel szemben kiszabható fegyelmi büntetések a következők:
+
+- a) figyelmeztetés,
+- b) írásbeli megrovás,
+- c) jövőbeni tisztségviseléstől meghatározott ideig történő eltiltás,
+- d) kamarai tisztségtől való megfosztás,
+- e) pénzbírság,
+- f) a kamarai tagság legfeljebb két évig terjedő felfüggesztése vagy
+- g) a Kamarából való kizárás.
+
+95. § (1) A Kamara fegyelmi tanácsa – a (2) bekezdésben foglaltak kivételével – a fegyelmi büntetést a fegyelmi vétség súlyára és ismétlődésére, valamint a fegyelmi vétséggel érintett ügy érdemére való kihatására tekintettel, az elkövetésre irányuló szándék vagy gondatlanság fokának megfelelően, az általa feltárt összes súlyosító és enyhítő körülmény figyelembevételével, mérlegelési jogkörében szabja ki.
+
+(2) A Kamara fegyelmi tanácsa a 94. § g) pontja szerinti büntetést szabja ki azzal az igazságügyi szakértővel szemben, akiről a Kamara öt éven belül harmadik alkalommal állapítja meg, hogy fegyelmi vétséget követ el.
+
+(3) A pénzbírság összege – a büntetés kiszabásának évében esedékes – éves kamarai tagdíj tízszereséig terjedhet. A pénzbírságot a Kamara részére kell megfizetni, felhasználására az alapszabály rendelkezései az irányadók.
+
+(4) A fegyelmi büntetéshez fűződő hátrányos jogkövetkezmények megszűnnek, ha a fegyelmi határozat jogerőre emelkedésétől számítva a figyelmeztetés és írásbeli megrovás esetén egy év, pénzbírság kiszabása esetén két év eltelt. Pénzbírság kiszabása esetén a fegyelmi büntetés hatálya – a két év eltelte után is – mindaddig fennáll, amíg a fegyelmi eljárás alá vont igazságügyi szakértő a pénzbírságot nem fizette meg. A felfüggesztés fegyelmi büntetéshez fűződő hátrányos jogkövetkezmények a felfüggesztésbüntetés lejártától számított három év elteltével szűnnek meg.
+
+(5) A 94. § b)–e) pontjában foglalt fegyelmi büntetések más fegyelmi büntetéssel együtt is kiszabhatók.
+
+#### 51. Elévülés
+
+96. § (1) Nem folytatható le fegyelmi eljárás, ha
+
+- a) azt a Kamara elnöke a cselekmény vagy mulasztás tudomására jutásától számított hat hónap alatt nem kezdeményezi vagy
+- b) a cselekmény befejezése vagy a mulasztás megszűnése óta öt év eltelt.
+
+(2) Ha az igazságügyi szakértő a szakvélemény elkészítése során vagy a szakvélemény elkészítését követően ahhoz kapcsolódóan több részcselekményt végez, az elévülési idő kezdőidőpontja az utolsó részcselekmény elvégzésének időpontja.
+
+(3) A bűncselekmény törvényi tényállását megvalósító fegyelmi vétség a bűncselekménnyel együtt évül el.
+
+(4) Ha a fegyelmi vétségnek is minősülő cselekmény miatt büntető, szabálysértési vagy szakmai kamara hatáskörébe tartozó fegyelmi eljárás indult, az eljárás jogerős befejezésétől számított három hónapon belül a fegyelmi eljárás akkor is megindítható, ha a (3) bekezdésben meghatározott határidő eltelt.
+
+#### 52. A fegyelmi tanácstagok listája
+
+97. § (1) A fegyelmi tanácstagok listája a fegyelmi eljárásban a fegyelmi tanács tagjaként eljárni jogosult igazságügyi szakértők névsorát tartalmazza.
+
+(2) A fegyelmi tanácstagok listájára minden szakmai tagozat öt igazságügyi szakértőt delegál.
+
+(3) A fegyelmi tanácstagok listájára történő felvétel módját és a nyilvántartás szabályait az alapszabály határozza meg azzal, hogy a fegyelmi tanácstagok listája nem hozható nyilvánosságra, de azt a névjegyzéket vezető hatóságnak meg kell küldeni.
+
+#### 53. Eljáró szervek
+
+98. § (1) A fegyelmi eljárást lefolytató fegyelmi tanács három tagból áll, amelyből egy fő kamarai tag, egy fő a szakvélemény tárgya szerinti szakterületen tapasztalattal rendelkező igazságügyi szakértő a 97. § szerinti fegyelmi tanácstagok listájáról, egy fő pedig – kirendelésen alapuló tevékenységgel összefüggő fegyelmi vétség elkövetésének gyanúja esetén – a hatóság képviseletében vesz részt. Kompetenciavétség gyanúja esetén a fegyelmi bizottság további egy taggal egészül ki a fegyelmi tanácstagok listájáról oly módon, hogy mind a vizsgálat alá vont igazságügyi szakértő, mind pedig az adott ügy szempontjából vélelmezett szakértői kompetenciaterület képviselete biztosított legyen.
+
+(2) Ha az igazságügyi szakértő felelősségre vonására nem kirendelésen alapuló tevékenységgel összefüggő fegyelmi vétség elkövetésének gyanúja miatt kerül sor, a fegyelmi tanács harmadik tagját a fegyelmi tanácstagok listájáról kell kijelölni. A fegyelmi tanács elnökét és tagjait a fegyelmi bizottság elnöke kéri fel.
+
+(3) A fegyelmi bizottság elnöke egy póttagot jelöl ki a fegyelmi tanácstagok listájáról. A póttag a fegyelmi tanács tagjának ideiglenes vagy a fegyelmi eljárás teljes lefolyását érintő akadályoztatása esetén jogosult eljárni.
+
+(4) A fegyelmi bizottság elnökének fegyelmi ügyében a fegyelmi tanács tagjait a Kamara elnöke jelöli ki. A Kamara elnökének fegyelmi ügyében a fegyelmi tanács tagjait a névjegyzéket vezető hatóság jelöli ki.
+
+99. § (1) Ha a fegyelmi tanács elnökének vagy tagjainak személyében a kizárás kimondása okán változás történik, vagy ha a fegyelmi tanács összetétele a 98. § (3) bekezdése alkalmazásával nem biztosítható, a fegyelmi tanács által lefolytatott eljárást meg kell ismételni. Ha a fegyelmi tanácsban a személyi változás a 98. § (3) bekezdésében foglaltak szerint következik be, a fegyelmi tanács elnöke ismerteti a keletkezett iratokat; az eljárási cselekményeket csak akkor kell megismételni, ha a fegyelmi tanács azt szükségesnek tartja.
+
+(2) A fegyelmi eljárás megindítása esetén a fegyelmi tanács munkájának előkészítését és a bizonyítás lefolytatását vizsgálóbiztos végzi, ha a 113. § (1) bekezdése alapján tárgyalás azonnali kitűzésének nincs helye. A vizsgálóbiztost a fegyelmi tanács jelöli ki a fegyelmi tanácstagok listájáról.
+
+(3) A fegyelmi bizottság és a fegyelmi tanács a fegyelmi eljárás során tudomására jutott adatokat, a megalapozott fegyelmi döntés meghozatala céljából jogosult kezelni. A fegyelmi bizottság a fegyelmi eljárás során tudomására jutott adatokat az eljárás befejezését követő hat hónap elteltével köteles zárolni. Amennyiben az igazságügyi szakértő a fegyelmi tanács határozatával szemben bírósági jogorvoslatot vesz igénybe, az adatok zárolására a fegyelmi bizottság a jogerős bírósági határozat közlését követő hat hónap elteltével köteles.
+
+(4) A fegyelmi bizottság elnökét és tagjait, a fegyelmi tanács elnökét és tagjait, a jegyzőkönyvvezetőt, valamint a vizsgálóbiztost a fegyelmi eljárás során tudomásukra jutott adatok, tények tekintetében – törvény eltérő rendelkezése hiányában – titoktartási kötelezettség terheli; e kötelezettség tisztségük megszűnését követően is fennmarad. A titoktartási kötelezettség alóli felmentést – indokolt esetben – a fegyelmi bizottság adja meg. A felmentés csak azokra a tényekre, adatokra terjedhet ki, amelyek nyilvánosságra hozatalához az érintett személy is hozzájárult.
+
+#### 54. Kizáró okok és a kizárási indítvány elbírálása
+
+100. § (1) A fegyelmi tanács elnökeként és tagjaként nem járhat el
+
+- a) a fegyelmi eljárás alá vont igazságügyi szakértő,
+- b) aki a fegyelmi eljárás alá vont igazságügyi szakértő hozzátartozója vagy képviselője,
+- c) a 104. § szerinti kezdeményező,
+- d) a vizsgálóbiztos, aki az ügyben eljárt,
+- e) akinek tanúként vagy igazságügyi szakértőként történő meghallgatása az ügyben szükségessé válhat,
+- f) aki ellen fegyelmi vagy szabálysértési eljárás van folyamatban, annak jogerős befejezéséig,
+- g) akinek a kamarai tagsága felfüggesztésre kerül vagy szünetel és
+- h) akitől az ügy elfogulatlan elbírálása egyéb okból nem várható el.
+
+(2) Az (1) bekezdésben meghatározott kizáró okokat a fegyelmi bizottság elnökére, a vizsgálóbiztosra, a 113. § (4) bekezdés b) pontja szerinti szakértőre és a jegyzőkönyvvezetőre megfelelően alkalmazni kell.
+
+(3) A fegyelmi bizottság elnöke, a fegyelmi tanács elnöke és tagja, a vizsgálóbiztos, a 113. § (4) bekezdés b) pontja szerinti szakértő, valamint a jegyzőkönyvvezető haladéktalanul köteles bejelenteni, ha vele szemben kizáró ok áll fenn.
+
+(4) A fegyelmi eljárás alá vont igazságügyi szakértő és a Kamara elnöke az (1) bekezdésben felsorolt körülményekre hivatkozással a fegyelmi bizottság elnökével, a fegyelmi tanács elnökével és tagjával, a vizsgálóbiztossal, a 113. § (4) bekezdés b) pontja szerinti szakértővel, valamint a jegyzőkönyvvezetővel szemben, a kizáró ok tudomására jutásától számított nyolc napon belül kizárási indítványt terjeszthet elő az eljáró fegyelmi tanácsnál.
+
+(5) A kizárási indítványról, ha az
+
+- a) a fegyelmi tanács elnökére, a fegyelmi tanács tagjára, a vizsgálóbiztosra, a 113. § (4) bekezdés b) pontja szerinti szakértőre vagy a jegyzőkönyvvezetőre vonatkozik, a fegyelmi bizottság vagy
+- b) a fegyelmi bizottság elnökére vonatkozik, az érintett tagja kivételével az elnökség
+
+hoz határozatot, és azt kézbesíti a fegyelmi eljárás alá vont igazságügyi szakértőnek és a kizárási indítvánnyal érintett személynek. A kizárási indítványt tizenöt napon belül el kell bírálni.
+
+(6) A kizárási indítványt elutasító határozat ellen a Kamara elnöke vagy az eljárás alá vont igazságügyi szakértő bírósági jogorvoslat iránti kérelmet nyújthat be a határozat kézbesítésétől számított harminc napon belül.
+
+(7) A (6) bekezdés szerinti kérelmet a bíróság nemperes eljárásban bírálja el. Ha e törvényből vagy az eljárás nemperes jellegéből más nem következik, a bíróság eljárására a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó rendelkezéseit kell megfelelően alkalmazni. Az eljárásra a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
+
+101. § (1) Ha a fegyelmi tanács határozatképtelenné válik, a fegyelmi bizottság elnöke új fegyelmi tanácsot jelöl ki. A fegyelmi bizottság elnökének kizárása esetén az elnökség jelöli ki az új fegyelmi tanácsot.
+
+(2) Ha a kizárási indítvány a fegyelmi bizottság egészét érinti, arról az érintett tagja kivételével az elnökség határoz.
+
+#### 55. A bejelentő részvétele az eljárásban
+
+102. § (1) Bejelentő az az igazságügyi szakértő eljárásával érintett, az alapeljárásban részt vevő személy, aki az igazságügyi szakértővel szemben, fegyelmi felelőssége megállapításának érdekében, a fegyelmi bizottsághoz benyújtott kérelem útján fegyelmi eljárást kezdeményez.
+
+(2) A bejelentő jogosult arra, hogy
+
+- a) – ha e törvény másként nem rendelkezik – az eljárási cselekményeknél jelen legyen, az eljárás őt érintő irataiba betekintsen,
+- b) az eljárás bármely szakaszában indítványokat és észrevételeket tegyen,
+- c) a fegyelmi eljárási jogairól a fegyelmi tanács elnökétől felvilágosítást kapjon és
+- d) az e törvényben meghatározott esetekben jogorvoslattal éljen.
+
+(3) A bejelentő – ha e törvény másként nem rendelkezik – a jogait meghatalmazott képviselője útján is gyakorolhatja. A meghatalmazást közokiratba vagy teljes bizonyító erejű magánokiratba kell foglalni, és azt a képviselő első eljárási cselekményével egyidejűleg kell benyújtani a fegyelmi tanácshoz.
+
+(4) A bejelentőt a fegyelmi eljárás során tudomására jutott adatok, tények tekintetében – törvény eltérő rendelkezése hiányában – titoktartási kötelezettség terheli. A titoktartási kötelezettség alóli felmentést – indokolt esetben – a fegyelmi bizottság adja meg. A felmentés csak azokra a tényekre, adatokra terjedhet ki, amelyek nyilvánosságra hozatalához az érintett személy is hozzájárult.
+
+#### 56. A fegyelmi eljárás alá vont igazságügyi szakértő részvétele az eljárásban
+
+103. § (1) A fegyelmi eljárás alá vont igazságügyi szakértő jogosult arra, hogy
+
+- a) az eljárási cselekményeknél jelen legyen, az eljárás irataiba betekintsen,
+- b) az eljárás bármely szakaszában indítványokat és észrevételeket tegyen, a meghallgatott tanúkhoz, szakértőkhöz kérdést intézzen, bizonyítási indítványt tegyen,
+- c) a fegyelmi eljárási jogairól a fegyelmi tanács elnökétől felvilágosítást kapjon és
+- d) az e törvényben meghatározott esetekben jogorvoslattal éljen.
+
+(2) A fegyelmi eljárás alá vont igazságügyi szakértőt az idézésében és meghallgatása kezdetekor az (1) bekezdésben foglalt jogok gyakorlásának lehetőségére figyelmeztetni kell. A figyelmeztetést jegyzőkönyvbe kell foglalni.
+
+(3) A fegyelmi eljárás alá vont igazságügyi szakértő nem kötelezhető arra, hogy önmagát terhelő vallomást tegyen vagy önmaga ellen bizonyítékot szolgáltasson, továbbá – meghallgatása esetén – a nyilatkozattételt bármikor megtagadhatja. Erre az igazságügyi szakértőt az idézésében és meghallgatása elején figyelmeztetni kell. A figyelmeztetést és az arra adott választ jegyzőkönyvbe kell foglalni. A jegyzőkönyvezés elmaradása esetén a fegyelmi eljárás alá vont igazságügyi szakértő vallomása bizonyítékként nem vehető figyelembe.
+
+(4) Amennyiben e törvény egyes eljárási cselekményekre vonatkozóan másként nem rendelkezik, a fegyelmi eljárás alá vont igazságügyi szakértő helyett meghatalmazott képviselője is eljárhat. A meghatalmazást közokiratba vagy teljes bizonyító erejű magánokiratba kell foglalni, és azt a képviselő első eljárási cselekményével egyidejűleg kell benyújtani a fegyelmi tanácshoz.
+
+(5) Ha a fegyelmi eljárás alá vont igazságügyi szakértő képviselővel jár el, az iratokat a képviselőnek kell kézbesíteni, és a tárgyalásra őt is meg kell idézni. Az igazságügyi szakértő személyes megjelenésére szóló idézést az igazságügyi szakértő részére kell kézbesíteni.
+
+(6) Ha a fegyelmi eljárás alá vont igazságügyi szakértő és a képviselő nyilatkozata egymástól eltér, az igazságügyi szakértő nyilatkozatát kell figyelembe venni.
+
+#### 57. A fegyelmi eljárás lefolytatása iránti kérelem és az igazságügyi szakértő tevékenységével kapcsolatos panasz
+
+104. § (1) Az igazságügyi szakértővel szemben – kérelem benyújtása útján –
+
+- a) az elnökség,
+- b) a Kamara elnöke,
+- c) a névjegyzéket vezető hatóság vagy
+- d) a bejelentő
+
+(a továbbiakban együtt: kezdeményező) kezdeményezhet fegyelmi eljárást.
+
+(2) Bejelentőként csak az igazságügyi szakértő eljárásával érintett, az alapeljárásban részt vevő személy nyújthat be kérelmet a fegyelmi eljárás kezdeményezése iránt.
+
+(3) Az igazságügyi szakértő tevékenységével kapcsolatban a panaszokról és a közérdekű bejelentésekről szóló törvény rendelkezéseinek megfelelően bárki panaszt tehet. A panaszt a fegyelmi ügyekért felelős elnökhelyetteshez kell benyújtani. A panasz vizsgálatát követően az elnökség az (1) bekezdés szerint fegyelmi eljárást kezdeményezhet, amennyiben úgy ítéli meg, hogy a fegyelmi eljárás kezdeményezése indokolt.
+
+#### 58. A fegyelmi eljárás díja és költségei
+
+105. § (1) A bejelentő a kérelem benyújtásával egyidejűleg – a Kamara alapszabályában meghatározott módon – köteles a Kamara részére fegyelmi eljárási díjat fizetni. A fegyelmi eljárási díj összege ötvenezer forint.
+
+(2) A fegyelmi eljárás költségeit – ha e törvény eltérően nem rendelkezik – a Kamara előlegezi. A fegyelmi eljárás költsége különösen
+
+- a) a fegyelmi tanács szükséges és igazolt készkiadásai és
+- b) az eljárás résztvevőinek az utazással felmerült szükséges és igazolt költségei.
+
+(3) A fegyelmi eljárás során keletkezett iratokból a másolat egyszeri kiadásának költségét a Kamara előlegezi, míg további másolat az alapszabályban meghatározott mértékű költségtérítés ellenében adható ki.
+
+(4) Ha a fegyelmi eljárás során a fegyelmi eljárás alá vont igazságügyi szakértő felelősségét megállapítják, köteles a fegyelmi eljárási díjat és az eljárásban felmerült egyéb költségeket viselni. Ha a kérelem elutasításra kerül, az eljárás költségeit a Kamara viseli.
+
+#### 59. A kérelem benyújtása és a fegyelmi bizottság elnökének intézkedései a kérelem elbírálásra való alkalmasságának vizsgálata körében
+
+106. § (1) A fegyelmi eljárás lefolytatása iránti kérelmet a fegyelmi bizottságnál írásban kell előterjeszteni, eggyel több példányban, mint a fegyelmi eljárás alá vont igazságügyi szakértők száma. A kérelemben meg kell jelölni
+
+- a) a fegyelmi eljárás alá vont igazságügyi szakértő nevét, igazságügyi szakértői igazolványának számát és a névjegyzék szerinti elérhetőségét,
+- b) a kezdeményező nevét, lakcímét (székhelyét) és elérhetőségét,
+- c) azt a cselekményt, amely miatt a kezdeményező szerint fegyelmi vétség elkövetésével gyanúsítható az igazságügyi szakértő,
+- d) azt az időpontot, amikor a kezdeményező tudomást szerzett az igazságügyi szakértő cselekményéről és
+- e) az előadottak alátámasztására alkalmas bizonyítási eszközöket, különösen a figyelembe venni kért okiratokat, a meghallgatni kért tanúk nevét, idézhető címét.
+
+(2) A kérelemhez csatolni kell:
+
+- a) az abban foglaltak alátámasztására alkalmas okiratokat és
+- b) ha a fegyelmi eljárást a bejelentő kezdeményezi, a fegyelmi eljárási díj megfizetését tanúsító bizonylatot.
+
+107. § (1) A kezdeményező a kérelmet és mellékleteit elektronikus formában is benyújthatja, ebben az esetben a fegyelmi eljárás folyamán a Kamarával a kapcsolatot elektronikus úton köteles tartani és a Kamara is valamennyi iratot elektronikus kapcsolattartás keretében kézbesít a kezdeményező részére. A kérelem és mellékletei elektronikus úton való benyújtását az elektronikus úton való kapcsolattartás vállalásának kell tekinteni.
 
 (2)
 
-(3)
+(3) Ha a kezdeményező az elektronikus úton való kapcsolattartást választotta, az elektronikus benyújtás alóli kivételt jelenti, ha a bizonyítási eljárásban az okirat papíralapú bemutatása, megtekintése szükséges; erre különösen akkor kerülhet sor,
 
-108–131. §
+- a) ha az eredetileg papíralapú bizonyítékok nagy mennyisége miatt azok digitalizálása aránytalan nehézséggel vagy jelentős költségtöbblettel járna vagy
+- b) ha a papíralapú okirat valódisága vitás.
+
+108. § (1) A fegyelmi eljárás kezdeményezésére irányuló kérelmet a fegyelmi bizottság elnöke a fegyelmi bizottsághoz érkezésétől számított nyolc napon belül megvizsgálja, és a (2) és (3) bekezdésben foglaltak szerint intézkedik vagy a kérelmet elutasítja, ha annak 109. § szerinti feltételei fennállnak.
+
+(2) Ha a kérelem nem tartalmazza a 106. § (1) bekezdésében előírt tartalmi elemeket, illetve a kérelemhez nem csatolták a 106. § (2) bekezdésében meghatározott mellékleteket, a fegyelmi bizottság elnöke azt a hiányok megjelölése mellett – nyolcnapos határidő tűzésével – hiánypótlásra küldi vissza azzal a figyelmeztetéssel, hogy a kérelmet elutasítja, ha a kezdeményező a felhívásban felsorolt hiányokat nem pótolja.
+
+(3) Ha a kérelem megfelel a törvény rendelkezéseinek, továbbá ha a kezdeményező a kérelem hiányait a megadott határidőben pótolta, a fegyelmi bizottság elnöke határozattal kijelöli az eljáró fegyelmi tanácsot. A határozatot kézbesíteni kell a kezdeményezőnek és a fegyelmi eljárás alá vont igazságügyi szakértőnek; a fegyelmi eljárás alá vont igazságügyi szakértő példányához a kérelmet és annak mellékleteit is csatolni kell.
+
+109. § (1) A fegyelmi bizottság elnöke a kérelmet – fegyelmi tanács kijelölése nélkül – határozattal elutasítja, ha
+
+- a) az abban megjelölt személy nem igazságügyi szakértő,
+- b) a kezdeményező az erre irányuló felhívás ellenére a megadott határidőben a kérelemnek a felhívásban megjelölt hiányait nem pótolta vagy
+- c) a bejelentő az erre irányuló felhívás ellenére a megadott határidőben a fegyelmi eljárási díjat nem fizette meg.
+
+(2) A fegyelmi eljárást kezdeményező kérelmet elutasító határozatot kézbesíteni kell a kezdeményezőnek és a fegyelmi eljárással érintett igazságügyi szakértőnek; a fegyelmi eljárással érintett igazságügyi szakértő példányához a kérelmet és annak mellékleteit is csatolni kell.
+
+(3) A fegyelmi eljárást kezdeményező kérelmet az (1) bekezdés alapján elutasító határozat ellen a kezdeményező bírósági jogorvoslat iránti kérelmet nyújthat be a határozat meghozatalától számított tizenöt napon belül.
+
+(4) A (3) bekezdés szerinti kérelmet a bíróság nemperes eljárásban bírálja el. Ha e törvényből vagy az eljárás nemperes jellegéből más nem következik, a bíróság eljárására a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó rendelkezéseit kell megfelelően alkalmazni. Az eljárásra a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
+
+#### 60. A fegyelmi eljárás előkészítése
+
+110. § (1) A fegyelmi tanács öt napon belül határozattal dönt az eljárás megindításáról.
+
+(2) A fegyelmi tanács az eljárás megindítását a kijelölés kézhezvételétől számított tizenöt napon belül megtagadja, ha a kérelemből és mellékleteiből megállapítható, hogy
+
+- a) a cselekmény elévült,
+- b) az annak tárgyát képező cselekményt fegyelmi vagy etikai eljárás során már jogerősen elbírálták,
+- c) a sérelmezett cselekmény a 93. § (1) vagy (2) bekezdése alapján nem minősül fegyelmi vétségnek,
+- d) a kérelem és mellékletei alapján a fegyelmi vétség elkövetésének alapos gyanúja nem állapítható meg,
+- e) a kérelemben foglaltak vizsgálatát jogszabály kizárja,
+- f) a bejelentő a szakértő elleni fegyelmi eljárásindítási jogát visszaélésszerűen gyakorolja vagy
+- g) a kérelmet a 109. § (1) bekezdése alapján el kellett volna utasítani.
+
+(3) Az eljárás megindításáról rendelkező határozatot a kezdeményezőnek, a fegyelmi eljárás alá vont igazságügyi szakértőnek és a Kamara elnökének, az eljárás megindításának megtagadásáról rendelkező határozatot a kezdeményezőnek és a fegyelmi eljárás alá vont igazságügyi szakértőnek kézbesíteni kell, az igazságügyi szakértő példányához a kérelmet és annak mellékleteit csatolni kell.
+
+#### 61. A kamarai tagság és az eljárás felfüggesztése
+
+111. § (1) Az eljárás megindításával egyidejűleg vagy azt követően az eljárás ideje alatt a fegyelmi tanács a fegyelmi eljárás alá vont igazságügyi szakértő kamarai tagságát – legfeljebb hat hónapra – határozattal felfüggesztheti, ha a fegyelmi vétség súlyára tekintettel ez indokolt, és a fegyelmi vétség elkövetése már az eljárást kezdeményező kérelem és mellékletei alapján valószínűsíthető. A határozatot kézbesíteni kell a fegyelmi eljárás alá vont igazságügyi szakértőnek, a Kamara elnökének, a névjegyzéket vezető hatóságnak és a kezdeményezőnek.
+
+(2) Ha a fegyelmi tanács a fegyelmi eljárás alá vont igazságügyi szakértő kamarai tagságát felfüggeszti, a fegyelmi eljárás alá vont igazságügyi szakértő érdekeinek védelme céljából az e törvényben, a fegyelmi eljárással összefüggésben előírt
+
+- a) tizenöt napos határidők nyolc napra,
+- b) harmincnapos határidők tizenöt napra,
+- c) negyvenöt napos határidők huszonöt napra és
+- d) hatvannapos határidők harminc napra
+
+csökkennek.
+
+(3) Ha a fegyelmi tanács úgy ítéli meg, hogy az ügy különösen bonyolult volta miatt a (2) bekezdés alkalmazása a tényállás helyes megállapítását akadályozná, indokolt határozatával a (2) bekezdés rendelkezéseinek alkalmazását mellőzheti. A határozatot kézbesíteni kell a fegyelmi eljárás alá vont igazságügyi szakértőnek, a Kamara elnökének és a névjegyzéket vezető hatóságnak.
+
+112. § Ha a cselekmény – amely miatt a kezdeményező szerint fegyelmi vétség elkövetésével gyanúsítható a fegyelmi eljárás alá vont igazságügyi szakértő – folyamatban lévő bírósági vagy más hatósági eljárást érint, a fegyelmi tanács a fegyelmi eljárást annak megindításával egyidejűleg határozattal felfüggeszti a bíróság vagy más hatóság határozatának jogerőre emelkedéséig. A határozatot kézbesíteni kell a fegyelmi eljárás alá vont igazságügyi szakértőnek, a Kamara elnökének, a névjegyzéket vezető hatóságnak és a kezdeményezőnek.
+
+#### 62. Fegyelmi vizsgálat
+
+113. § (1) A fegyelmi tanács, ha a kérelemből az állapítható meg, hogy a tényállás – az összes körülmény gondos mérlegelésével – a kérelem és mellékletei, valamint a fegyelmi eljárás alá vont igazságügyi szakértő és a kezdeményező tanúkénti meghallgatása alapján tisztázható, haladéktalanul – legkésőbb harminc napon belüli határnapra – tárgyalást tűz ki, egyéb esetben vizsgálóbiztost jelöl ki, és fegyelmi vizsgálat lefolytatását rendeli el.
+
+(2) Vizsgálóbiztosnak a fegyelmi tanácstagok listáján szereplő, az érintett szakterületre bejegyzett igazságügyi szakértő jelölhető ki.
+
+(3) A fegyelmi vizsgálat célja a fegyelmi vétséget megalapozó tényállás megállapítása és a fegyelmi tanács eljárásának előkészítése.
+
+(4) A fegyelmi vizsgálat során a vizsgálóbiztos tisztázza a tényállás megállapításához szükséges tényeket, ennek érdekében
+
+- a) meghallgathatja a fegyelmi eljárás alá vont igazságügyi szakértőt, a kezdeményezőt mint tanút, a további tanúkat,
+- b) szakértő közreműködését veheti igénybe, és
+- c) egyéb bizonyítást végezhet.
+
+(5) A vizsgálóbiztos a csatolt iratokba betekinthet, továbbá a kezdeményezőtől és a fegyelmi eljárás alá vont igazságügyi szakértőtől további, a tényállás megállapításához szükséges iratok csatolását kérheti.
+
+(6) A vizsgálóbiztos eljárásának nem akadálya, ha a fegyelmi eljárás alá vont igazságügyi szakértő a meghallgatáson nem jelenik meg vagy nem nyilatkozik. E tényről a fegyelmi eljárás alá vont igazságügyi szakértőt tájékoztatni kell.
+
+(7) A vizsgálóbiztos az eljárásának eredményéről jelentésben számol be a fegyelmi tanácsnak, amelyhez a bizonyítékként szolgáló iratokat csatolja. A vizsgálóbiztost a fegyelmi tanács meghallgathatja.
+
+(8) A fegyelmi vizsgálatot harminc nap alatt le kell zárni. Ezt a határidőt a fegyelmi tanács indokolt esetben, egy alkalommal további harminc nappal meghosszabbíthatja. A fegyelmi tanács a fegyelmi vizsgálat lezárását követő harminc napon belül tárgyalást tart.
+
+#### 63. A fegyelmi tanács eljárása
+
+114. § (1) A fegyelmi tanács eljárása nem nyilvános, az egyes eljárási cselekményeken csak azok a személyek vehetnek részt, akiknek a jelenlétét e törvény lehetővé teszi.
+
+(2) A fegyelmi tanács, ha azt a vizsgálóbiztos jelentése alapján indokoltnak tartja, a jelentés kézhezvételétől számított nyolc napon belül, zárt tanácsülésen dönt arról, hogy
+
+- a) megfelelő határidő kitűzésével a fegyelmi vizsgálat kiegészítését rendeli el és az iratokat visszaküldi a vizsgálóbiztosnak,
+- b) a fegyelmi tárgyalás mellőzésével megállapítja az igazságügyi szakértő fegyelmi felelősségét és figyelmeztetés vagy írásbeli megrovás fegyelmi büntetést szab ki,
+- c) a fegyelmi eljárást megszünteti vagy
+- d) fegyelmi tárgyalást tűz ki.
+
+(3) A fegyelmi tanács a (2) bekezdés b) és c) pontjaiban meghatározott intézkedéseiről határozattal dönt. A határozatot a meghozatalától számított nyolc napon belül írásba kell foglalni és az írásba foglalásától számított öt napon belül kézbesíteni kell a fegyelmi eljárás alá vont igazságügyi szakértőnek, a Kamara elnökének, a névjegyzéket vezető hatóságnak és a kezdeményezőnek.
+
+(4) A (2) bekezdés b) pontjában foglalt határozat akkor hozható meg, ha a vizsgálóbiztos jelentése és az iratok alapján a fegyelmi felelősség kétséget kizáróan megállapítható, a fegyelmi eljárás alá vont igazságügyi szakértő a fegyelmi vétség elkövetését elismeri és további bizonyításra nincs szükség.
+
+(5) A tárgyalás mellőzésével figyelmeztetés vagy írásbeli megrovás fegyelmi büntetést kiszabó határozat ellen fellebbezésnek nincs helye, de a fegyelmi eljárás alá vont igazságügyi szakértő és a Kamara elnöke a kézbesítésétől számított nyolc napon belül tárgyalás tartását kérheti, e tájékoztatást a határozat rendelkező részének tartalmaznia kell.
+
+(6) A tárgyalás tartása iránti kérelem alapján a fegyelmi tanács tárgyalást tart. A fegyelmi tanács a tárgyalás mellőzésével hozott határozatát a tárgyalás eredménye alapján hatályában fenntartja, vagy hatályon kívül helyezi, és új határozatot hoz. Az így meghozott határozatra a (3) bekezdés megfelelően alkalmazandó.
+
+(7) A fegyelmi tanács a (2) bekezdés c) pontja szerinti határozatot hoz, ha
+
+- a) a kérelmet már a fegyelmi tanács kijelölése nélkül el kellett volna utasítani, kivéve a 109. § (1) bekezdés c) pontjában foglalt okot,
+- b) a sérelmezett cselekmény a 93. § (1) és (2) bekezdése alapján nem minősül fegyelmi vétségnek,
+- c) a cselekmény elévülése miatt az eljárás megindítását meg kellett volna tagadni vagy
+- d) a fegyelmi eljárás alá vont igazságügyi szakértő kamarai tagsága megszűnt.
+
+115. § (1) Ha a fegyelmi tanács tárgyalást tűz ki, arra a tanács elnöke a tárgyalás helyének és időpontjának közlésével a fegyelmi eljárás alá vont igazságügyi szakértőt és képviselőjét, a tanút, a kirendelt szakértőt idézi; a vizsgálóbiztost és a Kamara elnökét értesíti. A tárgyaláson az idézett személyek és az értesítettek lehetnek jelen.
+
+(2) A bejelentőt – ha a meghallgatására még nem került sor és a fegyelmi tanács szerint az szükséges – mint tanút idézni, egyébként értesíteni kell.
+
+(3) A tárgyalás megtartására csak akkor kerülhet sor, ha azon a fegyelmi tanács elnöke és minden tagja jelen van. A tárgyalás a fegyelmi eljárás alá vont igazságügyi szakértő és képviselője távollétében is megtartható, erről őket az idézésben tájékoztatni kell.
+
+116. § (1) A tárgyalást a fegyelmi tanács elnöke vezeti, ennek keretében gondoskodik a tárgyalás rendjének fenntartásáról és kihirdeti a határozatokat. A tárgyalás során kihirdetett határozatokat a kihirdetést követő nyolc napon belül írásba kell foglalni és – e törvény eltérő rendelkezése hiányában – az írásba foglalástól számított öt napon belül a határozattal érintett személyek részére kézbesíteni kell.
+
+(2) A fegyelmi tanács a tárgyalás során megtekinti a rendelkezésre álló iratokat, szükség esetén meghallgatja a fegyelmi eljárás alá vont igazságügyi szakértőt és tanúként a kezdeményezőt, továbbá a vizsgálóbiztost, a tanút, illetve a kirendelt szakértőt vagy egyéb bizonyítást folytat le. A fegyelmi tanács a felelősség megállapítására szolgáló bizonyítékokat a maguk összességében, szabadon mérlegeli.
+
+(3) A fegyelmi eljárás alá vont igazságügyi szakértő részére a védekezés lehetőségét biztosítani kell, erről őt az idézésben tájékoztatni kell. A fegyelmi eljárás alá vont igazságügyi szakértő vagy képviselője a védekezését a tárgyalást megelőzően írásban vagy legkésőbb a tárgyaláson szóban terjesztheti elő.
+
+(4) A fegyelmi tanács a tárgyalást további bizonyítás lefolytatása érdekében legfeljebb tizenöt nappal elhalaszthatja.
+
+#### 64. Jegyzőkönyv
+
+117. § (1) A tárgyalásról és a fegyelmi vizsgálat eljárási cselekményeiről jegyzőkönyvet kell felvenni. A jegyzőkönyvet a tárgyaláson a főtitkár által kijelölt jegyzőkönyvvezető, a fegyelmi vizsgálat során a vizsgálóbiztos vagy a főtitkár által kijelölt jegyzőkönyvvezető vezeti.
+
+(2) A jegyzőkönyvben fel kell tüntetni
+
+- a) az eljáró fegyelmi tanács tagjait és a fegyelmi ügy számát,
+- b) az eljárás tárgyát, a fegyelmi eljárás alá vont igazságügyi szakértő nevét, szakértői igazolvány számát, és a kezdeményező nevét,
+- c) a tárgyalás (eljárási cselekmény) helyét és idejét,
+- d) a tanács elnökének, tagjainak, a vizsgálóbiztosnak és a jegyzőkönyvvezetőnek a nevét és
+- e) a jelen lévő fegyelmi eljárás alá vont igazságügyi szakértő és képviselője, valamint az egyéb idézettek és értesítettek nevét.
+
+(3) A jegyzőkönyvben röviden le kell írni az eljárás menetét és az annak során történteket, az idézettek és értesítettek nyilatkozatait, a tanúk vallomásait, valamint a bizonyítási eljárás során kirendelt szakértők véleményét.
+
+(4) A jegyzőkönyvet a fegyelmi tanács elnöke, a vizsgálóbiztos és – ha jegyzőkönyvvezető alkalmazására került sor – a jegyzőkönyvvezető írja alá.
+
+#### 65. A büntetőeljárással kapcsolatos intézkedések
+
+118. § (1) Ha a fegyelmi eljárás során rendelkezésre álló adatok alapján közvádra üldözendő bűncselekmény elkövetésének gyanúja merül fel, a fegyelmi tanács elnökét jelzési kötelezettség terheli a főtitkár felé. A főtitkárt – a fegyelmi tanács elnökével való egyetértés esetén – feljelentési kötelezettség terheli.
+
+(2) A büntetőügyben eljáró bíróság, ügyészség vagy nyomozó hatóság az igazságügyi szakértő ellen indított büntetőeljárás megindításáról és befejezéséről értesíti a Kamarát.
+
+(3) A büntetőeljárás jogerős befejezéséig a fegyelmi eljárást a fegyelmi tanácsnak határozattal fel kell függesztenie, a határozatot kézbesíteni kell a fegyelmi eljárás alá vont igazságügyi szakértőnek és a Kamara elnökének.
+
+#### 66. A határozatok meghozatala
+
+119. § (1) A fegyelmi tanács határozatait tárgyaláson zárt tanácskozás során vagy tárgyaláson kívül zárt tanácsülésen, szótöbbséggel hozza, utolsóként a tanács elnöke szavaz.
+
+(2) A fegyelmi tanács határozatképes, ha a tárgyaláson, illetve a tanácsülésen az elnöke és valamennyi tagja jelen van.
+
+120. § (1) A fegyelmi eljárás során hozott határozatnak tartalmaznia kell
+
+- a) a fegyelmi bizottság megjelölését és a fegyelmi ügy számát,
+- b) a fegyelmi eljárás alá vont igazságügyi szakértő nevét, igazolványszámát, valamint képviselője nevét,
+- c) a kezdeményező nevét,
+- d) a rendelkező részben
+  - da) a döntést,
+  - db) a jogorvoslati jogról történő kioktatást,
+- e) az indokolásban
+  - ea) a megállapított tényállást,
+  - eb) a figyelembe vett bizonyítékokat,
+  - ec) a bizonyítékok értékelésekor figyelembe vett körülményeket,
+  - ed) azokat az okokat, amelyek miatt valamely tény vagy körülmény bizonyítottnak vagy nem bizonyítottnak minősült,
+  - ee) az alkalmazott jogszabályok, valamint a fegyelmi eljárási szabályzat alkalmazott pontjainak megjelölését,
+- f) a határozathozatal helyét és idejét,
+- g) a fegyelmi tanács elnökének és tagjainak aláírását, vagy ha a határozat meghozatalára nem a fegyelmi tanács jogosult, akkor az azt meghozó aláírását és
+- h) a fegyelmi bizottság bélyegzőjének lenyomatát.
+
+(2) A fegyelmi tanácsnak a fegyelmi eljárást megszüntető, a 114. § (5) bekezdése szerinti, az igazságügyi szakértő felmentéséről rendelkező és az igazságügyi szakértő fegyelmi felelősségének megállapításáról rendelkező határozata rendelkező részében az eljárási költségek viseléséről és megfizetésének határidejéről is rendelkezni kell.
+
+(3) Ha a fegyelmi tanács a fegyelmi eljárás alá vont igazságügyi szakértő fegyelmi felelősségének megállapításáról rendelkező határozatában pénzbírságot szab ki, rendelkezni kell a pénzbírság megfizetésének határidejéről is.
+
+(4) Ha a határozat meghozatala és írásba foglalása nem ugyanazon időpontban történik, a határozatot az aláírásban akadályozott tag helyett a tanács elnöke – e minőségének feltüntetése mellett – aláírhatja.
+
+#### 67. A fegyelmi tanács tárgyaláson meghozott határozata
+
+121. § (1) A fegyelmi tanács a tárgyalás alapján meghozott határozatában
+
+- a) a fegyelmi eljárás alá vont igazságügyi szakértőt felmenti, ha nem követett el fegyelmi vétséget vagy a fegyelmi vétség elkövetése nem állapítható meg,
+- b) a fegyelmi eljárás alá vont igazságügyi szakértő fegyelmi felelősségét megállapítja, és fegyelmi büntetést szab ki vagy
+- c) a fegyelmi eljárást megszünteti, ha a 114. § (7) bekezdésében foglalt okok fennállását állapítja meg.
+
+(2) A fegyelmi tanács elnöke a határozatot és indokait szóban kihirdeti. A határozatot a kihirdetéstől számított nyolc napon belül írásba kell foglalni, és azt az írásba foglalástól számított öt napon belül kézbesíteni kell a fegyelmi eljárás alá vont igazságügyi szakértőnek, a Kamara elnökének, a névjegyzéket vezető hatóságnak és a kezdeményezőnek.
+
+#### 68. A fegyelmi eljárás során hozott határozatok kijavítása, kiegészítése
+
+122. § (1) A fegyelmi bizottság elnöke és a fegyelmi tanács a határozatát név-, szám- vagy számítási hiba és más hasonló elírás esetén kijavítja.
+
+(2) A fegyelmi bizottság elnöke és a fegyelmi tanács a határozatát kiegészítheti, ha az ügy érdeméhez tartozó kérdésben nem határozott. A kiegészítés a határozat egyéb részeit nem érintheti. A határozat kiegészítését legkésőbb a határozat kézbesítésétől számított tizenöt napon belül kérhetik azok, akiknek az kézbesítésre került.
+
+(3) A fegyelmi bizottság elnöke és a fegyelmi tanács a kijavításról és a kiegészítésről hivatalból vagy kérelemre – amennyiben szükséges, az érintettek meghallgatása után – hoz határozatot, és azt mindazok számára kézbesíti, akiknek a kijavítással vagy kiegészítéssel érintett határozatot kézbesíteni kellett.
+
+#### 69. A fegyelmi eljárás során hozott határozatok módosítása, visszavonása
+
+123. § (1) Ha a fegyelmi bizottság elnöke vagy a fegyelmi tanács megállapítja, hogy a miniszter által meg nem vizsgált vagy a bíróság által el nem bírált határozata jogszabályt, alapszabályt vagy kamarai szabályzatot sért, a határozatát módosítja vagy visszavonja. A határozatot annak kell kézbesíteni, akinek a módosított vagy visszavont határozatot kézbesítették.
+
+(2) Az (1) bekezdés szerinti eljárás lefolytatására, ha törvény eltérően nem rendelkezik, a fegyelmi bizottság elnöke vagy a fegyelmi tanács csak egy alkalommal, a határozat jogerőre emelkedésétől számított egy éven belül jogosult. Ha a határozatot bírósági eljárásban vizsgálják, a fegyelmi bizottság elnöke vagy a fegyelmi tanács az érdemi ellenkérelem előterjesztéséig módosíthatja vagy vonhatja vissza határozatát.
+
+#### 70. A határozat jogereje és végrehajthatósága
+
+124. § (1) A határozat a kihirdetés napján emelkedik jogerőre. Ha a határozat kihirdetve nem volt, a határozat a kézbesítés napján emelkedik jogerőre.
+
+(2) A határozatban foglalt teljesítési határidő kezdőnapja a határozat kézbesítésének napja.
+
+#### 71. A határozatok kézbesítése
+
+125. § A fegyelmi eljárásban meghozott határozatokat a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerint kell kézbesíteni azzal, hogy a kézbesítési vélelem
+
+- a) a vélelem beálltáról történő tudomásszerzéstől számított nyolc napon belül, de legkésőbb a kézbesítési vélelem beálltától számított harminc napon belül és
+- b) kizárólag a hivatalos iratokra vonatkozó kézbesítési szabályok megsértésére hivatkozással
+
+dönthető meg.
+
+#### 72. Jogorvoslat a fegyelmi eljárásban
+
+126. § (1) A fegyelmi tanács által hozott határozattal szemben fellebbezésnek helye nincs.
+
+(2) A fegyelmi tanács által hozott érdemi határozat ellen
+
+- a) a fegyelmi eljárás alá vont igazságügyi szakértő és képviselője,
+- b) a kezdeményező és
+- c) a Kamara elnöke
+
+a kézbesítéstől számított harminc napon belül, bírósági jogorvoslat iránti kérelmet nyújthat be. A keresetlevél benyújtásának a határozat végrehajtására halasztó hatálya nincs. A keresetlevelet a Kamarához kell benyújtani. A Kamara a keresetlevelet az ügy irataival együtt nyolc napon belül továbbítja az eljáró bírósághoz.
+
+(3) A jelen § alkalmazásában érdemi határozatnak minősül a fegyelmi tanácsnak az eljárás megindítását megtagadó, az eljárást megszüntető, a fegyelmi eljárás alá vont igazságügyi szakértő felelősségét megállapító vagy a fegyelmi eljárás alá vont igazságügyi szakértőt felmentő határozata. Az eljárás során hozott egyéb határozatok – ha e törvény eltérően nem rendelkezik – az érdemi határozat elleni jogorvoslati kérelemben támadhatók.
+
+(4) A bíróság a Kamara határozatát megváltoztathatja.
+
+(5) A kereset benyújtásáról a Kamara értesíti a névjegyzéket vezető hatóságot.
+
+(6) A bíróság eljárására a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó rendelkezéseit kell megfelelően alkalmazni.
+
+(7) A perre a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
+
+#### 73. Új eljárás kezdeményezése
+
+127. § (1) Jogerős határozattal befejezett fegyelmi eljárás esetén az igazságügyi szakértő, az elnökség és a Kamara elnöke új eljárás lefolytatását kezdeményezheti az igazságügyi szakértő javára, ha
+
+- a) olyan új tényre, bizonyítékra, jogerős bírói vagy hatósági határozatra hivatkozik, amelyet a fegyelmi eljárás során nem vettek figyelembe, és a jogerős határozatra lényeges kihatással lett volna, vagy
+- b) az alapügyben a fegyelmi tanács elnöke vagy tagja, illetve az eljárásban részt vevő személy a kötelességét a Büntető Törvénykönyvbe ütköző módon megszegte, és ezt jogerős bírósági ítélet megállapította, vagy a bűncselekmény megállapítását nem a bizonyítottság hiánya zárta ki.
+
+(2) Az új eljárás lefolytatása iránti kérelem előterjesztésének határideje hatvan nap; ezt a határidőt a határozat meghozatalától, ha pedig az új eljárás kezdeményezésének okáról a Kamara elnöke, az elnökség vagy az igazságügyi szakértő csak később szerzett tudomást vagy később jutott abba a helyzetbe, hogy új eljárást kezdeményezzen, ettől az időponttól kell számítani. A tudomásszerzés időpontját valószínűsíteni kell.
+
+(3) A határozat meghozatalától számított egy év elteltével új eljárás kezdeményezésének helye nincs.
+
+#### 74. A fegyelmi büntetések nyilvántartása
+
+128. § (1) A Kamara a tagjaival szemben hozott jogerős fegyelmi büntetésekről nyilvántartást vezet.
+
+(2) A névjegyzéket vezető hatóság a Kamara által megküldött – jogerős fegyelmi büntetést tartalmazó – határozat alapján a fegyelmi büntetést a névjegyzékbe bejegyzi.
+
+(3) A Kamara a tagjával szemben hozott jogerős fegyelmi büntetésre vonatkozó adatot a 95. § (4) bekezdésben meghatározott mentesülési idő lejártáig tárolja, ezt követően törli, amelyről értesíti a névjegyzéket vezető hatóságot.
+
+129. § A fegyelmi eljárásra vonatkozó, a törvényben nem szabályozott részletes rendelkezéseket a fegyelmi eljárási szabályzat állapítja meg.
+
+### XII. Fejezet — AZ ETIKAI ELJÁRÁS
+
+#### 75. Az etikai vétség
+
+130. § Etikai vétséget követ el az az igazságügyi szakértő,
+
+- a) aki az igazságügyi szakértők etikai kódexe szabályait szándékosan vagy gondatlanul megszegi vagy
+- b) aki az igazságügyi szakértői tevékenységen kívül szándékos vagy gondatlan magatartásával, illetve életvitelével a szakértői kar tekintélyét csorbítja.
+
+#### 76. Az etikai eljárás szabályai
+
+131. § Az etikai eljárás szabályait az etikai eljárási szabályzat állapítja meg azzal, hogy e törvénynek a fegyelmi eljárásra vonatkozó szabályai közül
+
+- a) az elévülésre,
+- b) az eljáró szervek tekintetében a kizáró okokra és a kizárási indítványra,
+- c) a kérelem benyújtására és a kérelem benyújtását követően a fegyelmi tanács intézkedéseire,
+- d) a bejelentő részvételére,
+- e) az eljárás alá vont igazságügyi szakértő részvételére,
+- f) a fegyelmi eljárási díjra és a fegyelmi eljárás költségeinek megtérítésére,
+- g) a fegyelmi eljárás megindítására,
+- h) a fegyelmi vizsgálatra,
+- i) a fegyelmi tanács eljárására,
+- j) a jegyzőkönyvvezetésre,
+- k) a büntetőeljárással kapcsolatos intézkedésekre,
+- l) a határozat meghozatalára, a fegyelmi tanács tárgyaláson meghozott határozatára, a határozat kiegészítésére és kijavítására, módosítására és visszavonására,
+- m) a jogerős határozatról történő értesítésre,
+- n) a határozatok kézbesítésére és
+- o) a fegyelmi büntetések nyilvántartására
+
+vonatkozó rendelkezéseit megfelelően alkalmazni kell.
 
 ## NEGYEDIK RÉSZ
 
-132–138. §
+### XIII. Fejezet — TÖRVÉNYESSÉGI FELÜGYELET
+
+#### 77. A törvényességi felügyelet általános szabályai
+
+132. § (1) A Kamara működésének törvényességi felügyeletét a miniszter látja el.
+
+(2) A miniszter törvényességi felügyeleti jogkörében eljárva törvényességi ellenőrzést folytat le, valamint – a törvényben foglalt feltételek fennállása esetén – törvényességi felügyeleti intézkedéseket tesz.
+
+(3) A törvényességi felügyelet nem terjed ki olyan ügyre, amelyben egyébként bírósági vagy más hatósági eljárásnak van helye.
+
+133. § (1) A miniszter ellenőrzi, hogy a Kamara
+
+- a) alapszabálya, szabályzatai, iránymutatásai, illetve azok módosításai megfelelnek-e a jogszabályoknak,
+- b) működése, határozatai nem sértik-e a jogszabályokat, az alapszabályt vagy az egyéb szabályzatokat és
+- c) jogszabályban, alapszabályban vagy egyéb szabályzatban foglalt kötelezettségét nem mulasztotta-e el.
+
+(2) A miniszter feladatai teljesítése érdekében – az ellenőrzés tárgyával összefüggő – kamarai iratokba, nyilvántartásokba betekinthet, az iratokból másolatot, a nyilvántartásokból adatszolgáltatást, valamint a Kamarától felvilágosítást, tájékoztatást kérhet.
+
+(3) A miniszter (2) bekezdésben foglalt megkeresésének a Kamara haladéktalanul, de legkésőbb a megkeresés kézhezvételétől számított tizenöt napon belül köteles eleget tenni.
+
+134. § (1) A Kamara az alapszabályát, szabályzatait, valamint iránymutatásait, illetve azok módosításait (e § alkalmazásában a továbbiakban együtt: szabályzat), az elfogadásuktól számított tizenöt napon belül köteles megküldeni a miniszternek törvényességi ellenőrzés céljából.
+
+(2) A Kamara az (1) bekezdésben megjelölt szabályzat tervezetét annak elfogadását megelőzően is megküldheti a miniszter részére előzetes véleményezésre; a miniszter előzetes véleményét a szabályzattervezet kézhezvételétől számított harminc napon belül küldi meg a Kamara részére.
+
+(3) Ha a szabályzat vagy annak valamely rendelkezése jogszabályba ütközik (e § alkalmazásában a továbbiakban: jogsértés) a miniszter a (6) bekezdésben foglaltakra való figyelmeztetés mellett felhívja a Kamarát, hogy a szabályzatot megfelelően módosítsa, valamint a módosított és elfogadott szabályzatot a felhívás kézhezvételétől számított harminc napon belül ismételten küldje meg, vagy egyet nem értése esetén a szabályzat jogszerűségének indokairól a megadott határidőn belül írásban tájékoztassa.
+
+(4) Ha a Kamara tájékoztatásában foglalt indokokkal a miniszter nem ért egyet vagy a (3) bekezdés szerinti módosított szabályzat tekintetében is fennáll a jogsértés, a (3) bekezdés szerinti felhívás még egyszer megismételhető.
+
+(5) Ha a (3) és (4) bekezdés szerinti felhívásban megjelölt határidő elteltét követően a jogsértés továbbra is megállapítható, a miniszter harminc napon belül bírósághoz fordulhat a jogsértés megszüntetése érdekében. Ha a bíróság a jogsértést megállapítja, a jogsértő szabályzatot hatályon kívül helyezi és új eljárás lefolytatását rendeli el.
+
+(6) A szabályzat nem lehet jogszabállyal ellentétes, a szabályzatnak jogszabályba ütköző rendelkezése semmis.
+
+135. § (1) Ha a miniszter azt állapítja meg, hogy a Kamara működése, határozatai jogszabályba, alapszabályba vagy egyéb szabályzatba ütköznek (e § alkalmazásában a továbbiakban együtt: jogsértő működés) a tudomásra jutástól számított tizenöt napon belül felhívja a Kamarát a jogsértő működés megszüntetésére.
+
+(2) A Kamara a miniszter (1) bekezdés szerinti felhívásának kézhezvételétől számított harminc napon belül köteles írásban tájékoztatni a minisztert a jogsértő működés megszüntetése érdekében tett intézkedésekről vagy egyet nem értése esetén működés jogszerűségének indokairól.
+
+(3) Ha a (2) bekezdés szerinti felhívásban megjelölt határidő elteltét követően a jogsértő működés továbbra is megállapítható, a miniszter harminc napon belül bírósághoz fordulhat a jogszerű működés helyreállítása érdekében.
+
+(4) Ha a bíróság a (3) bekezdés alapján indított eljárás során a jogsértő működést megállapítja,
+
+- a) a jogsértő határozatot hatályon kívül helyezi és az annak meghozatalára jogosult kamarai szervet (tisztségviselőt) új eljárásra utasítja,
+- b) a jogszerű működés helyreállítása céljából – megfelelő határidő tűzésével – elrendeli a jogsértően működő kamarai szerv (tisztségviselő) választására jogosult kamarai szerv összehívását vagy
+- c) a jogsértően működő kamarai szerv (tisztségviselő) működését felfüggeszti és a felfüggesztés időtartamára felügyelőbiztost rendel ki, akinek feladatait előírja.
+
+136. § (1) Ha a miniszter azt állapítja meg, hogy a Kamara jogszabályban, alapszabályban vagy egyéb szabályzatban foglalt kötelezettségét elmulasztotta, – megfelelő határidő tűzésével – felhívja a Kamarát az elmulasztott intézkedés megtételére. A felhívásban a mulasztás pótlására hatvan napnál hosszabb időtartam nem adható.
+
+(2) A Kamara köteles – a felhívásban megadott határidőn belül – az elmulasztott intézkedést megtenni vagy egyet nem értéséről a minisztert tájékoztatni.
+
+(3) Ha a mulasztás az (1) bekezdés szerinti felhívásban megadott határidő elteltét követően is megállapítható, a miniszter harminc napon belül bírósághoz fordul a mulasztás orvoslása érdekében. Ha a bíróság a mulasztás tényét megállapítja – megfelelő határidő tűzésével – kötelezi a Kamarát az elmulasztott intézkedés megtételére.
+
+(4) Ha a Kamara a bíróság határozatában megjelölt határidőn belül a mulasztást nem pótolja, a miniszter indítványára a bíróság a mulasztás pótlásának idejére felügyelőbiztost rendel ki, akinek feladatait előírja.
+
+137. § (1) A 135. § (4) bekezdés c) pontja és a 136. § (4) bekezdése alapján kirendelt felügyelőbiztos díjazását és költségtérítését a bíróság állapítja meg. A felügyelőbiztos díját és költségeit a Kamara viseli.
+
+(2) Felügyelőbiztosként kamarai tag nem rendelhető ki.
+
+(3) Felügyelőbiztos az lehet, aki
+
+- a) jogász szakképzettséggel és
+- b) legalább ötéves közigazgatási gyakorlattal rendelkezik.
+
+(4) A (3) bekezdés b) pontja szerinti közigazgatási gyakorlatnak tekinthető köztestületnél közigazgatási ügyekben ügyintézőként szerzett gyakorlat is.
+
+(5) A felügyelőbiztos a tevékenységéről és annak eredményéről a felfüggesztés időtartamának lejártát megelőző öt napon belül írásban tájékoztatja a bíróságot, valamint a minisztert.
+
+#### 78. A bírósági eljárás szabályai
+
+138. § A 134. § (5) bekezdése, 135. § (3) bekezdése, valamint a 136. § (3) bekezdése szerinti kérelemről a Fővárosi Közigazgatási és Munkaügyi Bíróság annak beérkezésétől számított harminc napon belül nemperes eljárásban dönt. A bíróság döntésével szemben fellebbezésnek nincs helye.
 
 ## ÖTÖDIK RÉSZ
 
@@ -938,7 +1916,7 @@ való megfelelést szolgálja.
 
 166. § (1)
 
-(2)
+(2) Hatályát veszti az igazságügyi szakértői kamaráról szóló 1995. évi CXIV. törvény.
 
 ### 1. melléklet a 2016. évi XXIX. törvényhez
 
