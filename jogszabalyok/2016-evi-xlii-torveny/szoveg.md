@@ -12,7 +12,7 @@ a fogyasztóvédelemről szóló 1997. évi CLV. törvény és a víziközmű-sz
 
 29. § (1)
 
-(2)
+(2) Hatályát veszti a Vksztv. 45. § (4) és (5) bekezdése.
 
 #### 3. Záró rendelkezések
 
