@@ -47,7 +47,15 @@ lép.
 
 34. §
 
-35. §
+35. § (1) A Tpt. 38. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Ha az értékpapír forgalomba hozatala a befektetők szempontjából fokozottan, illetve kiemelten kockázatos, a forgalmazó és a kibocsátó, az ajánlattevő vagy az értékpapír szabályozott piacra történő bevezetését, illetve a multilaterális kereskedési rendszerbe történő regisztrációt kezdeményező személy köteles ennek a tájékoztató elején, valamint kereskedelmi kommunikációjában feltűnő módon történő feltüntetésére, a vonatkozó arányszám egyidejű bemutatásával.”
+
+(2) A Tpt. 38. §-a a következő (4a) és (4b) bekezdéssel egészül ki:
+
+„(4a) Az értékpapír forgalomba hozatala a befektetők szempontjából fokozottan kockázatos, ha a hitelviszonyt megtestesítő értékpapír forgalomba hozatala következtében a tervezett kibocsátás mennyisége (vagy a kibocsátási program együttes keretösszege) és a kibocsátó legutolsó auditált beszámolójában szereplő mérlegfőösszeg saját tőkén felüli összege meghaladja a kibocsátó saját tőkéjét, hitelintézetek esetében a saját tőke tízszeresét.
+
+(4b) Az értékpapír forgalomba hozatala a befektetők szempontjából kiemelten kockázatos, ha a hitelviszonyt megtestesítő értékpapír kibocsátója kevesebb mint egy éve működik, ha a kibocsátó, az ajánlattevő, vagy az értékpapír szabályozott piacra történő bevezetését, illetve a multilaterális kereskedési rendszerbe történő regisztrációt kezdeményező személy és a forgalmazó felelőssége a tájékoztatóval kapcsolatosan nem egyetemleges, vagy ha a hitelviszonyt megtestesítő értékpapír forgalomba hozatala következtében a tervezett kibocsátás mennyisége (vagy a kibocsátási program együttes keretösszege) és a kibocsátó legutolsó auditált beszámolójában szereplő mérlegfőösszeg saját tőkén felüli összege meghaladja a saját tőke kétszeresét, hitelintézetek esetében a saját tőke hússzorosát.”
 
 36–37. §
 
@@ -91,9 +99,45 @@ lép.
 
 77–79. §
 
-#### 8.
+#### 8. A pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény módosítása
 
-80–84. §
+80. § A pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény (a továbbiakban: Pft.) 2. §-a a következő 8a. ponttal egészül ki:
+
+(E törvény alkalmazásában)
+
+„8a. fizetési számla váltása: fogyasztó kérésére a valamely fizetési számlán végrehajtott, rendszeres átutalásra, rendszeresen ismétlődő beszedésre és várhatóan rendszeresen beérkező átutalásokra vonatkozó fizetési megbízások mindegyikére vagy meghatározott megbízásokra vonatkozó információnak az egyik pénzforgalmi szolgáltatótól egy másik pénzforgalmi szolgáltatóhoz történő átadása, vagy az egyik fizetési számla pozitív számlaegyenlegének a másikra történő transzfere, vagy mindkettő, akár a korábbi fizetési számla lezárásával, akár anélkül,”
+
+81. § A Pft. „Szerződéskötést megelőző tájékoztatás” alcíme a következő 12/A. §-sal egészül ki:
+
+„12/A. § (1) Ha a pénzforgalmi szolgáltató a fizetési számla vezetésére irányuló keretszerződését fogyasztó részére más, fizetési számlához nem kapcsolódó szolgáltatással együtt ajánlja, a szerződéskötést megelőzően tájékoztatja a fogyasztót arról, hogy a fizetési számlához nem kapcsolódó szolgáltatásra köthető-e külön szerződés, és ha igen, az ezen szolgáltatáshoz kapcsolódó díjról, egyéb fizetési kötelezettségről.
+
+(2) Az (1) bekezdés alkalmazásában fizetési számlához nem kapcsolódó szolgáltatás
+
+a) a fizetési számla nyitásával, vezetésével, lezárásával összefüggő valamennyi szolgáltatáson, beleértve a pénzforgalmi szolgáltatásokat,
+
+b) fizetési műveletek fizetési számlák közötti, az ügyfél rendelkezésére álló hitelkeretből történő teljesítésén, ideértve a fizetési művelet teljesítésének a hitelkeret hallgatólagos túllépéséből történő teljesítését is, valamint
+
+c) fizetési műveletnek csekkel, váltóval, papír alapú utalvánnyal, utazási csekkel és Egyetemes Postaegyesület (UPU) által meghatározott papíralapú nemzetközi postautalvánnyal történő teljesítésén
+
+kívüli szolgáltatás.”
+
+82. § A Pft. VII. Fejezete a következő 36/C. §-sal egészül ki:
+
+„36/C. § Fogyasztónak fizetési számlát vezető pénzforgalmi szolgáltató jogszabályban meghatározott feltételek teljesülése esetén a fogyasztó kérésére köteles a fizetési számla váltásához kapcsolódó eljárással összefüggő szolgáltatást nyújtani.”
+
+83. § A Pft. 64/A. §-a helyébe a következő rendelkezés lép:
+
+„64/A. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg
+
+a) a fizetési számla váltására,
+
+b) a fogyasztók részére vezetett fizetési számlákhoz kapcsolódó díjakról történő tájékoztatásra
+
+vonatkozó részletes szabályokat.
+
+(2) Felhatalmazást kap a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter arra, hogy rendeletben állapítsa meg a 36/A. § (4) bekezdés c) pontja szerinti nyilatkozat tartalmára vonatkozó részletes szabályokat.”
+
+84. § A Pft. 2. §-ának nyitó szövegrészében az „E törvény alkalmazásában” szövegrész helyébe az „E törvényben, valamint az e törvény felhatalmazása alapján kiadott jogszabályok vonatkozásában” szöveg lép.
 
 #### 9. A fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény módosítása
 
@@ -113,7 +157,11 @@ lép.
 
 #### 12. Az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény módosítása
 
-116. §
+116. § Az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény (a továbbiakban: Fsztv.) 60. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+(Fizetési titok csak akkor adható ki harmadik személynek, ha)
+
+„a) a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény ügyfele, annak törvényes képviselője a rá vonatkozó kiszolgáltatható fizetési titokkört pontosan megjelölve közokiratba vagy teljes bizonyító erejű magánokiratba foglaltan kéri, vagy erre felhatalmazást ad; nem szükséges a közokiratba, teljes bizonyító erejű magánokiratba foglalás, ha az ügyfél ezt az írásbeli nyilatkozatát a pénzforgalmi intézménnyel, elektronikuspénz-kibocsátó intézménnyel történő szerződéskötés keretében – ideértve a fizetési számla váltását is – nyújtja,”
 
 117. §
 
@@ -123,11 +171,21 @@ lép.
 
 130. §
 
-131. §
+131. § A Hpt. 121. alcíme a következő 282/A. §-sal egészül ki:
+
+„282/A. § (1) Fogyasztó részére fizetési számlát vezető hitelintézet EGT-államban tartózkodásra jogosult fogyasztóval szemben állampolgárság vagy tartózkodási hely alapján nem alkalmazhat megkülönböztetést a fizetési számla-szerződés megkötése és vezetése tekintetében.
+
+(2) Fogyasztó részére fizetési számlát vezető hitelintézet jogszabályban meghatározott feltételek teljesülése esetén köteles a fogyasztó kérésére alapszintű szolgáltatásokat biztosító fizetési számlaként alapszámlát vezetni.”
 
 132. §
 
-133. § (1)
+133. § (1) A Hpt. 290. § (1) bekezdése a következő i) ponttal egészül ki:
+
+(Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg:)
+
+„i) az alapszámlához való hozzáférésre, az alapszámla jellemzőire, valamint díjára”
+
+(vonatkozó részletes szabályokat.)
 
 (2)
 

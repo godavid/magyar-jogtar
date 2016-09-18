@@ -269,7 +269,10 @@ lajstromban tartja nyilván.
 
 (2) Az üzemben tartónak a nyilvántartásba vételre kötelezett úszólétesítmény üzemképességének újbóli megállapítását kell a hajózási hatóságtól kérnie, ha az úszólétesítményben az üzemképességet érintő változás (sérülés, meghibásodás, illetve annak kijavítása) történt.
 
-20. § A kedvtelési célú vízijárművek tervezéséről, építéséről és megfelelőségének tanúsításáról szóló jogszabályban meghatározott kedvtelési célú vízi járművet és motoros vízi sporteszközt kereskedelmi forgalomba hozni csak a megfelelőség tanúsításával lehet.
+20. § Kereskedelmi forgalomba hozni csak a megfelelőség tanúsításával lehet:
+
+- a) a kedvtelési célú vízi járművek és a motoros vízi sporteszközök alapvető biztonsági követelményeiről szóló miniszteri rendeletben meghatározott kedvtelési célú vízi járművet és motoros vízi sporteszközt;
+- b) a tengeri hajók felszereléseinek megfelelőség tanúsításáról szóló miniszteri rendeletben meghatározott tengerészeti felszerelést.
 
 ### Biztonsági, egészségügyi, környezetvédelmi és munkavédelmi követelmények
 
@@ -1178,6 +1181,7 @@ rendeletben történő megállapítására.
 - i)
 - j) az Európai Parlament és a Tanács (2009. április 23.) a hajótulajdonosok tengeri biztosítási kárigényre vonatkozó biztosításáról szóló 2009/20/EK irányelve a tengeri hajók kötelező biztosításáról szóló kormányrendelettel együtt,
 - k) az Európai Parlament és a Tanács (2012. november 21.) a tengerészek képzésének minimumszintjéről szóló 2008/106/EK irányelv módosításáról szóló 2012/35/EU irányelve a hajózási képesítésekről és a hajózási egészségi alkalmasság feltételeiről és vizsgálati rendjéről szóló miniszteri rendeletekkel együtt,
-- l) a Bizottság (2013. október 11.) a belvízi hajókra vonatkozó műszaki követelmények megállapításáról szóló 2006/87/EK európai parlamenti és tanácsi irányelv II. mellékletének módosításáról szóló 2013/49/EU irányelve.
+- l) a Bizottság (2013. október 11.) a belvízi hajókra vonatkozó műszaki követelmények megállapításáról szóló 2006/87/EK európai parlamenti és tanácsi irányelv II. mellékletének módosításáról szóló 2013/49/EU irányelve,
+- m) a tengerészeti felszerelésekről és a 96/98/EK tanácsi irányelv hatályon kívül helyezéséről szóló 2014. július 23-i 2014/90/EU európai parlamenti és tanácsi irányelv.
 
 91–93. §

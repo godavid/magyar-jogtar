@@ -8,11 +8,21 @@ az engedély nélkül, személygépkocsival végzett személyszállító szolgá
 
 #### 2. A víziközlekedésről szóló 2000. évi XLII. törvény módosítása
 
-4. §
+4. § A víziközlekedésről szóló 2000. évi XLII. törvény (a továbbiakban: Vkt.) 20. §-a helyébe a következő rendelkezés lép:
+
+„20. § Kereskedelmi forgalomba hozni csak a megfelelőség tanúsításával lehet:
+
+a) a kedvtelési célú vízi járművek és a motoros vízi sporteszközök alapvető biztonsági követelményeiről szóló miniszteri rendeletben meghatározott kedvtelési célú vízi járművet és motoros vízi sporteszközt;
+
+b) a tengeri hajók felszereléseinek megfelelőség tanúsításáról szóló miniszteri rendeletben meghatározott tengerészeti felszerelést.”
 
 5. §
 
-6. §
+6. § A Vkt. 90. §-a a következő m) ponttal egészül ki:
+
+(Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:)
+
+„m) a tengerészeti felszerelésekről és a 96/98/EK tanácsi irányelv hatályon kívül helyezéséről szóló 2014. július 23-i 2014/90/EU európai parlamenti és tanácsi irányelv.”
 
 7. §
 

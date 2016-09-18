@@ -18,7 +18,7 @@ a pénzforgalmi szolgáltatás nyújtásáról
 
 ### Értelmező rendelkezések
 
-2. § E törvény alkalmazásában
+2. § E törvényben, valamint az e törvény felhatalmazása alapján kiadott jogszabályok vonatkozásában
 
 - 1. átutalás: a fizető fél rendelkezése alapján végzett olyan pénzforgalmi szolgáltatás, amelynek során a fizető fél fizetési számláját a kedvezményezett javára megterhelik, valamint a hatósági átutalás és az átutalási végzés alapján történő átutalás,
 - 2. beszedés: a kedvezményezett rendelkezése alapján végzett olyan pénzforgalmi szolgáltatás, amelynek során a fizető fél fizetési számlájának a kedvezményezett javára történő megterhelése a fizető fél által a kedvezményezettnek, a kedvezményezett pénzforgalmi szolgáltatójának vagy a fizető fél saját pénzforgalmi szolgáltatójának adott hozzájárulás alapján történik,
@@ -28,6 +28,7 @@ a pénzforgalmi szolgáltatás nyújtásáról
 - 6. fizetési megbízás: a fizető félnek vagy a kedvezményezettnek a saját pénzforgalmi szolgáltatója részére fizetési művelet teljesítésére adott megbízása, valamint a hatósági átutalási megbízás és az átutalási végzés,
 - 7. fizetési művelet: a fizető fél, a kedvezményezett, a hatósági átutalási megbízás adására jogosult és az átutalási végzést kibocsátó által kezdeményezett megbízás – valamely fizetési mód szerinti – lebonyolítása, függetlenül a fizető fél és a kedvezményezett közötti jogviszonytól,
 - 8. fizetési számla: fizetési műveletek teljesítésére szolgáló, a pénzforgalmi szolgáltató egy vagy több ügyfele nevére megnyitott számla, ideértve a bankszámlát is,
+- 8a. fizetési számla váltása: fogyasztó kérésére a valamely fizetési számlán végrehajtott, rendszeres átutalásra, rendszeresen ismétlődő beszedésre és várhatóan rendszeresen beérkező átutalásokra vonatkozó fizetési megbízások mindegyikére vagy meghatározott megbízásokra vonatkozó információnak az egyik pénzforgalmi szolgáltatótól egy másik pénzforgalmi szolgáltatóhoz történő átadása, vagy az egyik fizetési számla pozitív számlaegyenlegének a másikra történő transzfere, vagy mindkettő, akár a korábbi fizetési számla lezárásával, akár anélkül,
 - 9. fizető fél: az a jogalany,
   - a) aki a fizetési számla tulajdonosaként fizetési számlájáról fizetési megbízást hagy jóvá, vagy
   - b) aki a fizetési számla hiányában fizetési megbízást ad, vagy
@@ -155,6 +156,16 @@ vonatkoznak.
 
 - a) a kedvezményezett pénzforgalmi szolgáltatójának székhelye nem EGT-állam területén található, vagy a kis összegű készpénz-helyettesítő fizetési eszközzel teljesített fizetési művelet nem EGT-állam pénznemében történik, és
 - b) az adatok nem állnak a pénzforgalmi szolgáltató részére rendelkezésre.
+
+12/A. § (1) Ha a pénzforgalmi szolgáltató a fizetési számla vezetésére irányuló keretszerződését fogyasztó részére más, fizetési számlához nem kapcsolódó szolgáltatással együtt ajánlja, a szerződéskötést megelőzően tájékoztatja a fogyasztót arról, hogy a fizetési számlához nem kapcsolódó szolgáltatásra köthető-e külön szerződés, és ha igen, az ezen szolgáltatáshoz kapcsolódó díjról, egyéb fizetési kötelezettségről.
+
+(2) Az (1) bekezdés alkalmazásában fizetési számlához nem kapcsolódó szolgáltatás
+
+- a) a fizetési számla nyitásával, vezetésével, lezárásával összefüggő valamennyi szolgáltatáson, beleértve a pénzforgalmi szolgáltatásokat,
+- b) fizetési műveletek fizetési számlák közötti, az ügyfél rendelkezésére álló hitelkeretből történő teljesítésén, ideértve a fizetési művelet teljesítésének a hitelkeret hallgatólagos túllépéséből történő teljesítését is, valamint
+- c) fizetési műveletnek csekkel, váltóval, papír alapú utalvánnyal, utazási csekkel és Egyetemes Postaegyesület (UPU) által meghatározott papíralapú nemzetközi postautalvánnyal történő teljesítésén
+
+kívüli szolgáltatás.
 
 ### Szerződés formai és tartalmi követelményei
 
@@ -460,6 +471,8 @@ köteles megőrizni, illetve tárolni.
 (14) A pénzforgalmi szolgáltató az e §-ban foglaltaktól a fogyasztó számára kedvezőbb feltételt is megállapíthat.
 
 36/B. § A Magyarországon elhelyezett automata bankjegykiadó gépből készpénz-helyettesítő fizetési eszköz útján fizetési számláról történő készpénzfelvétel fizetési műveleti értékhatárának felső mértéke műveletenként hetvenötezer forintnál alacsonyabb összeg nem lehet.
+
+36/C. § Fogyasztónak fizetési számlát vezető pénzforgalmi szolgáltató jogszabályban meghatározott feltételek teljesülése esetén a fogyasztó kérésére köteles a fizetési számla váltásához kapcsolódó eljárással összefüggő szolgáltatást nyújtani.
 
 ### VIII. Fejezet — FIZETÉSI MŰVELETEK JÓVÁHAGYÁSA
 
@@ -806,7 +819,14 @@ haladéktalanul, de legkésőbb két munkanapon belül.
 
 ### Felhatalmazó rendelkezés
 
-64/A. § Felhatalmazást kap a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter, hogy a 36/A. § (4) bekezdés c) pontja szerinti nyilatkozat tartalmára vonatkozó részletes szabályokat rendeletben állapítsa meg.
+64/A. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg
+
+- a) a fizetési számla váltására,
+- b) a fogyasztók részére vezetett fizetési számlákhoz kapcsolódó díjakról történő tájékoztatásra
+
+vonatkozó részletes szabályokat.
+
+(2) Felhatalmazást kap a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter arra, hogy rendeletben állapítsa meg a 36/A. § (4) bekezdés c) pontja szerinti nyilatkozat tartalmára vonatkozó részletes szabályokat.
 
 ### Hatálybalépés
 
