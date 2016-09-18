@@ -4580,6 +4580,10 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 282. § A 212. § (4) bekezdésben meghatározott betétekből a kifizetéseket minden esetben a legrégebben befizetett összegből kell teljesíteni.
 
+282/A. § (1) Fogyasztó részére fizetési számlát vezető hitelintézet EGT-államban tartózkodásra jogosult fogyasztóval szemben állampolgárság vagy tartózkodási hely alapján nem alkalmazhat megkülönböztetést a fizetési számla-szerződés megkötése és vezetése tekintetében.
+
+(2) Fogyasztó részére fizetési számlát vezető hitelintézet jogszabályban meghatározott feltételek teljesülése esetén köteles a fogyasztó kérésére alapszintű szolgáltatásokat biztosító fizetési számlaként alapszámlát vezetni.
+
 #### 122. Pénzügyi szolgáltatásokhoz történő egyenlő esélyű hozzáférés előmozdítása
 
 283. § A hitelintézet mérete, tevékenységének jellege, nagysága és összetettsége arányában az irányítási jogkörrel rendelkező vezető testület által elfogadott stratégiával rendelkezik az általa nyújtott pénzügyi szolgáltatási szerződések fogyatékos személyek általi egyenlő esélyű hozzáférés lehetőségének elősegítéséhez. Az irányítási jogkörrel rendelkező vezető testület az elfogadott stratégiát legalább kétévente felülvizsgálja.
@@ -4693,6 +4697,7 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 - f) a közvetítői díj meghatározásának és kifizetésének módjára, időbeli ütemezésére,
 - g) a 2012. április 1-je előtt hatályos 1996. évi CXII. törvény 210/A. §-ában meghatározott szerződésekben előírt kamat a pénzügyi intézmény általi, az ügyfél számára kedvezőtlen egyoldalú módosításának eseteire, feltételeire és módjára,
 - h) a javadalmazási politikának az érintett hitelintézet mérete, tevékenységének jellege, köre és jogi formájából eredő sajátossága figyelembevételével történő alkalmazására
+- i) az alapszámlához való hozzáférésre, az alapszámla jellemzőire, valamint díjára
 
 vonatkozó részletes szabályokat.
 
