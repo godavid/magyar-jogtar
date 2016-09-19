@@ -17,7 +17,7 @@ Az Országgyűlés annak érdekében, hogy a gazdasági célú állattenyészté
 - e) hosszú távon megőrizhetők legyenek a nemzeti értéket képviselő fajták génjei, egyedei, illetve azok csoportjai, genetikai sokféleségük;
 - f) biztosítsa a nemzetközi előírásokhoz való alkalmazkodást.
 
-2. § A törvény hatálya kiterjed a szarvasmarha, bivaly, juh, kecske, ló, szamár, sertés, baromfi, házinyúl, csincsilla, eb, mézelő méh, ponty, és az egyéb állatok gazdasági célú tenyész- és haszonérték növelő köztenyésztésére, valamint a vadászható vadfajok zárttéri, élelmiszer-termelési célú köztenyésztésére.
+2. § A törvény hatálya kiterjed a szarvasmarha, bivaly, juh, kecske, ló, szamár, sertés, baromfi, házinyúl, csincsilla, magyar ebfajták, mézelő méh, ponty, és az egyéb állatok gazdasági célú tenyész- és haszonérték növelő köztenyésztésére, valamint a vadászható vadfajok zárttéri, élelmiszer-termelési célú köztenyésztésére.
 
 ### Fogalommeghatározások
 
@@ -467,7 +467,8 @@ Az Országgyűlés annak érdekében, hogy a gazdasági célú állattenyészté
 - h) az apaállat-használatra, a szaporítóanyag-előállításra, valamint a mesterséges termékenyítésre vonatkozó szabályokat megszegi;
 - i) adatszolgáltatási kötelezettségét nem teljesíti, a valóságnak nem megfelelő adatot szolgáltat, illetve az ellenőrzést egyéb módon akadályozza;
 - j) tenyészállatot, szaporítóanyagot jogosulatlanul forgalmaz;
-- k) tenyésztési bizonylatot, igazolást vagy nyilvántartást meghamisít.
+- k) tenyésztési bizonylatot, igazolást vagy nyilvántartást meghamisít;
+- l) határidőben nem tesz eleget a 48/A. § (2) bekezdésében foglalt kötelezettségének.
 
 (1a)
 

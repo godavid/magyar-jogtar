@@ -460,7 +460,7 @@ teszi szükségessé.
 
 - a) az eb tulajdonosának nevét, címét,
 - b) az ebtartó nevét, lakcímét, telefonszámát, elektronikus levélcímét,
-- c) az eb fajtáját, nemét, születési idejét, színét, hívónevét,
+- c) az eb fajtáját vagy fajtajellegét vagy a keverék mivoltára való utalást, nemét, születési idejét, színét, hívónevét,
 - d) az eb tartási helyét,
 - e) a beültetett transzponder sorszámát, a beültetés időpontját, a beültetést végző szolgáltató állatorvos nevét, kamarai bélyegzője számát,
 - f) ivartalanított eb esetén az ivartalanítás időpontját, az ivartalanítást végző szolgáltató állatorvos nevét, kamarai bélyegzője számát,
@@ -507,7 +507,7 @@ teszi szükségessé.
 
 (4) Nem szedhető ebrendészeti hozzájárulás
 
-- a) a védett őshonos vagy veszélyeztetett, magas genetikai értéket képviselő tenyésztett magyar állatfajták nemzeti kinccsé nyilvánításáról szóló 32/2004. (IV. 19.) OGY határozat mellékletében felsorolt magyar kutyafajtákba tartozó törzskönyvezett,
+- a) a magyar ebfajtának minősülő törzskönyvezett,
 - b) a mentő-, jelző-, vakvezető, rokkantsegítő, terápiás vagy az Országos Magyar Vadászkamara által kiállított vadászkutya alkalmassági vizsgaigazolvánnyal rendelkező
 - c) a Magyar Honvédségben, rendvédelmi szervben, nemzetbiztonsági szolgálatban vagy közfeladatot ellátó őrszolgálatban alkalmazott,
 - d) – a veszélyes eb kivételével – az ivartalanított,
