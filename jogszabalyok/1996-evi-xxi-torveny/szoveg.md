@@ -489,7 +489,7 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 
 ### A területrendezési terv készítésére és elfogadására vonatkozó eljárási szabályok
 
-23/C. § (1) A kiemelt térség és a megye területrendezési tervét (a továbbiakban együtt: tervjavaslatot) egyeztetni kell a külön jogszabályban meghatározott államigazgatási, önkormányzati és érdek-képviseleti szervekkel, valamint az érdekelt civil szervezetekkel. A véleményezésre legalább két hónap határidőt kell biztosítani.
+23/C. § (1) A kiemelt térség és a megye területrendezési tervét (a továbbiakban együtt: tervjavaslatot) egyeztetni kell a külön jogszabályban meghatározott államigazgatási, önkormányzati és érdek-képviseleti szervekkel, valamint az érdekelt civil szervezetekkel. A véleményezésre legalább egy hónap határidőt kell biztosítani.
 
 (1a) A területrendezési tervek rajzi munkarészeit egységes országos vetületi rendszerben, vektoros állományokkal, térinformatikai rendszerben kell elkészíteni.
 
