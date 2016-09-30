@@ -40,7 +40,7 @@ Mindezek érdekében – különös tekintettel a jogszabályi feltételeknek me
 
 (7) A (6) bekezdés szerinti vélelemre alapított határozat kizárólag a 3. § (1) bekezdés a)–b), valamint i) pontjainak megsértésével összefüggésben tartalmazhat rendelkezést. Az ebbe a körbe nem tartozó jogsértések miatt a tevékenységet ténylegesen irányító foglalkoztatóval szemben a vélelemmel megállapított munkaviszonyt érintően csak a vélelmet tartalmazó határozat jogerőre emelkedése után történt elkövetés esetén hozható határozat.
 
-(8)
+(8) A munkaügyi hatóság a fővállalkozó vagy a vele jogviszonyban álló köztes alvállalkozó helytállási kötelezettségét állapíthatja meg, ha az alvállalkozó olyan munkáltató, aki a külön jogszabály szerinti szezonális munka keretében harmadik országbeli állampolgárt foglalkoztat, és a részére járó munkabért a foglalkoztatás megszűnéséig nem fizette meg.
 
 2. § (1) A munkaügyi ellenőrzést – az e törvényben foglalt kivételekkel – a munkaügyi hatóság látja el.
 
@@ -81,7 +81,7 @@ Mindezek érdekében – különös tekintettel a jogszabályi feltételeknek me
 - p)
 - q)
 - r) a harmadik országbeli állampolgár és a szabad mozgás és tartózkodás jogával rendelkező személy magyarországi foglalkoztatásának bejelentésére vonatkozó jogszabályok,
-- s) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény (a továbbiakban: Harm.tv.) 71. §-ának (1)–(2) bekezdése szerinti kötelezettségek foglalkoztató általi
+- s) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény (a továbbiakban: Harm.tv.) 71. § (1), (2), és (8) bekezdése szerinti kötelezettségek foglalkoztató általi,
 - t) megtartására.
 
 (1a) A munkaügyi ellenőrzés kiterjed a más EGT-állam területén határokon átnyúló szolgáltatást nyújtó, Magyarországon letelepedett foglalkoztató tekintetében – a szolgáltatás-nyújtással érintett EGT-állam hatósága részéről érkezett megkeresés teljesítéséhez szükséges mértékben – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározottak szerint a foglalkoztató tevékenységével, az általa foglalkoztatott munkavállalók foglalkoztatási jogviszonyával kapcsolatos adatok beszerzésére.
@@ -123,8 +123,9 @@ Mindezek érdekében – különös tekintettel a jogszabályi feltételeknek me
 - d) munkaügyi bírságot szab ki a 6/A. §-ban és a 7. §-ban foglaltak szerint,
 - e) az 1. § (5) bekezdése alapján eljárva megállapítja a foglalkoztatásra irányuló jogviszonynak a munkába lépés napjától történő fennállását és kötelezi a foglalkoztatót a foglalkoztatásra irányuló jogviszonyra vonatkozó szabályok betartására,
 - f) eltiltja a foglalkoztatót tevékenysége folytatásától, ha foglalkoztatásra vonatkozó jogszabályban előírt engedéllyel, nyilvántartásba vétellel nem rendelkezik,
-- g) a 3. § (1) bekezdés a) pontjában foglalt, a munkavállalói jogalanyisággal kapcsolatos életkori feltételekre vonatkozó jogsértés megállapítása esetén a gyermek veszélyeztetettsége miatt jelzéssel él a gyermekjóléti szolgálatnál, vagy
-- h) a további jogsértés megelőzésének érdekében – a b) pont alkalmazhatóságának hiányában – megállapítja a munkáltató jogsértését,
+- g) a 3. § (1) bekezdés a) pontjában foglalt, a munkavállalói jogalanyisággal kapcsolatos életkori feltételekre vonatkozó jogsértés megállapítása esetén a gyermek veszélyeztetettsége miatt jelzéssel él a gyermekjóléti szolgálatnál,
+- h) a további jogsértés megelőzésének érdekében – a b) pont alkalmazhatóságának hiányában – megállapítja a munkáltató jogsértését, vagy
+- i) kötelezi az 1. § (8) bekezdése szerint felelős fővállalkozót vagy a köztes alvállalkozót az elmaradt munkabérnek a munkáltató helyett történő megfizetésére,
 - j) kötelezi a foglalkoztatót a 3. § (1a) bekezdés szerinti megkeresés teljesítéséhez szükséges adatok szolgáltatására.
 
 (2) A munkaügyi hatóság az (1) bekezdés a) pontjában foglalt határozatának munkaügyi okból fellebbezésre tekintet nélküli végrehajtását is elrendelheti.
@@ -421,6 +422,8 @@ is érteni kell.
 - m) az illegálisan tartózkodó harmadik országbeli állampolgárokat foglalkoztató munkáltatókkal szembeni szankciókra és intézkedésekre vonatkozó minimumszabályokról szóló, 2009. június 18-i 2009/52/EK európai parlamenti és tanácsi irányelv szerinti illegális foglalkoztatás tilalmának, a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény irányadó rendelkezéseivel együtt,
 - n) a munkaerő-kölcsönzés keretében történő munkavégzésről szóló 2008. november 17-i 2008/104/EK európai parlamenti és tanácsi irányelvnek,
 - o) a harmadik országbeli állampolgárok valamely tagállam területén való tartózkodására és munkavállalására vonatkozó összevont engedélyre irányuló összevont kérelmezési eljárásról, valamint a harmadik országból származó, valamely tagállam területén jogszerűen tartózkodó munkavállalók közös jogairól szóló, 2011. december 13-i, 2011/98/EU európai parlamenti és tanácsi irányelv,
+- p) a harmadik országbeli állampolgárok idénymunkásként való munkavállalás céljából való belépésének és tartózkodásának feltételeiről szóló 2014. február 26-ai 2014/36/EU európai parlamenti és tanácsi irányelv;
+- q) a harmadik országbeli állampolgárok vállalaton belüli áthelyezés keretében történő belépésének és tartózkodásának feltételeiről szóló 2014. május 15-ei 2014/66/EU európai parlamenti és tanácsi irányelv,
 - r) a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló 96/71/EK irányelv érvényesítéséről és a belső piaci információs rendszer keretében történő igazgatási együttműködésről szóló 1024/2012/EU rendelet (az IMI-rendelet) módosításáról szóló, 2014. május 15-i 2014/67/EU európai parlamenti és tanácsi irányelv.
 
 11. § (1) Az egyes munkaügyi tárgyú és más kapcsolódó törvények jogharmonizációs célú módosításáról szóló 2011. évi CV. törvény (a továbbiakban: Módtv.) hatálybalépésétől számított 30. napon a munkaügyi hatóság a foglalkoztatóknak a Módtv. hatályba lépéséig hatályos 8/C. § (4) és (5) bekezdése alapján nyilvánosságra hozott adatai közül törli azoknak a munkáltatóknak az adatait, amelyek közzétételi kötelezettségét – ideértve a folyamatban lévő bírósági felülvizsgálattal érintett határozatok adatait is – az államháztartásról szóló 1992. évi XXXVIII. törvény és a Kbt. a Módtv. hatályba lépéséig előírta.

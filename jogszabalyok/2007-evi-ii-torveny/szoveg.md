@@ -46,6 +46,21 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 - v) összevont engedély: olyan tartózkodási engedély, amely a harmadik országbeli állampolgárt Magyarország területén meghatározott foglalkoztatóval foglalkoztatási jogviszony létesítésére és tartózkodásra jogosítja;
 - w) összevont kérelmezési eljárás: olyan eljárás, amely az általa benyújtott kérelem alapján a harmadik országbeli állampolgárnak Magyarország területén való száznyolcvan napon belül kilencven napot meghaladó tartózkodása és meghatározott foglalkoztatóval foglalkoztatási jogviszony létesítése engedélyezésére irányul.
 
+2/A. § E törvény alkalmazásában
+
+- a) vállalaton belüli áthelyezés: a vállalaton belül áthelyezett személy számára szóló tartózkodásra jogosító engedély iránti kérelem benyújtásakor az Európai Unió tagállamai területén kívül lakóhellyel rendelkező harmadik országbeli állampolgárok foglalkoztatási vagy képzési célú ideiglenes kiküldetése az Európai Unió tagállamai területén kívül letelepedett olyan vállalkozástól, amelyhez a harmadik országbeli állampolgárt az ugyanahhoz a vállalkozáshoz vagy vállalkozáscsoporthoz tartozó, az adott tagállamban letelepedett szervezethez történő áthelyezést megelőzően és annak idejére munkaszerződés köti, illetve adott esetben az egy vagy több második tagállamban letelepedett fogadó szervezetek közötti mobilitása;
+- b) vállalaton belül áthelyezett személy: olyan harmadik országbeli állampolgár, aki a vállalaton belül áthelyezett személy számára szóló tartózkodási engedély iránti kérelem benyújtásakor az Európai Unió tagállamai területén kívül rendelkezik lakóhellyel, és akit vállalaton belül áthelyeztek;
+- c) fogadó szervezet: az a szervezet, amelyhez a vállalaton belül áthelyezett személyt áthelyezik, és amely jogi formájától függetlenül, jogszabályban meghatározottak szerint létrehozott jogi személy;
+- d) vállalaton belül áthelyezett személy számára szóló engedély: olyan tartózkodási engedély, amely a tulajdonosát feljogosítja az első tagállam és adott esetben a második tagállam területén való tartózkodásra és munkavállalásra a törvényben meghatározott feltételek szerint;
+- e) hosszú távú mobilitási engedély: olyan tartózkodási engedély, amely a vállalaton belül áthelyezett személy számára szóló tartózkodási engedély tulajdonosát feljogosítja a második tagállam területén való tartózkodásra és munkavállalásra törvényben meghatározott feltételek szerint;
+- f) vállalkozáscsoport: két vagy több, a következő módokon összekapcsoltként elismert vállalkozás: valamely vállalkozás egy másik tekintetében
+  - fa) közvetlenül vagy közvetve birtokolja ez utóbbi vállalkozás jegyzett tőkéjének a többségét;
+  - fb) ellenőrzést gyakorol a vállalkozás kibocsátott részvénytőkéjéhez kapcsolódó szavazati jogok többsége felett;
+  - fc) kinevezheti a szóban forgó vállalkozás igazgatási, irányító, illetve felügyelő testületei tagjainak több mint a felét; vagy
+  - fd) azt anyavállalatként egységes alapon irányítja;
+- g) első tagállam: az Európai Unió azon tagállama, amely elsőként állít ki valamely vállalaton belül áthelyezett személy számára szóló engedélyt az adott harmadik országbeli állampolgár részére;
+- h) második tagállam: az első tagállamtól eltérő minden olyan tagállam, amelyben a vállalaton belül áthelyezett személy gyakorolni kívánja vagy gyakorolja a törvény szerinti mobilitáshoz való jogot.
+
 3. § Harmadik országbeli állampolgárnak kell tekinteni
 
 - a) az ellenkező bizonyításig azt a személyt, aki állampolgársága igazolására harmadik ország által kiállított érvényes úti okmányt használ fel, vagy
@@ -64,6 +79,11 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 6. § (1) A harmadik országbeli állampolgár bármely száznyolcvan napon belül kilencven napot meg nem haladó, tervezett (a továbbiakban: kilencven napot meg nem haladó, tervezett) tartózkodás céljából a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határ-ellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlamenti és tanácsi rendeletben (a továbbiakban: Schengeni határ-ellenőrzési kódex) foglalt feltételek szerint utazhat be Magyarország területére.
 
 (2) A kilencven napot meg nem haladó, tervezett időtartamig az a harmadik országbeli állampolgár tartózkodhat Magyarország területén, aki teljesíti az (1) bekezdésben meghatározott feltételeket.
+
+(3) Az a harmadik országbeli állampolgár, aki vállalaton belüli áthelyezés céljából az Európai Unió tagállama által kiadott érvényes tartózkodási engedéllyel és érvényes úti okmánnyal rendelkezik és amennyiben a beutazása vagy tartózkodása Magyarország közrendjét, közbiztonságát vagy nemzetbiztonságát, illetve közegészségügyi érdekét nem sérti vagy veszélyezteti, jogosult
+
+- a) az Európai Unió tagállamai területén szabadon mozogni, kilencven napot meg nem haladó, tervezett időtartamig Magyarországra beutazni és ott tartózkodni,
+- b) külön engedély nélkül a vállalaton belüli áthelyezés keretében a magyarországi fogadó szervezetnél munkát végezni.
 
 7. § Ha valamely közvetlenül alkalmazandó európai közösségi jogi aktus, nemzetközi szerződés, e törvény vagy e törvény felhatalmazása alapján kormányrendelet másként nem rendelkezik, a harmadik országbeli állampolgár kilencven napot meg nem haladó, tervezett tartózkodás céljából történő beutazásához és tartózkodásához vízum szükséges.
 
@@ -128,26 +148,26 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 14. § (1) Száznyolcvan napon belül kilencven napot meghaladó tartózkodásra jogosító vízum:
 
 - a) tartózkodási engedély átvételére jogosító vízum, amely egyszeri, tartózkodási engedély átvétele vagy a 36. § (1) bekezdése alapján engedélyezett nemzeti letelepedési engedély átvétele céljából történő beutazásra és legfeljebb harminc napos tartózkodásra jogosít Magyarország területén;
-- b) szezonális munkavállalási vízum, amely egyszeri vagy többszöri beutazásra és száznyolcvan napon belül kilencven napot meghaladó, de legfeljebb hat hónapos szezonális munkavállalási célú tartózkodásra jogosít;
+- b)
 - c) nemzeti vízum, amely – nemzetközi szerződés alapján – többszöri beutazásra és száznyolcvan napon belül kilencven napot meghaladó időtartamú tartózkodásra jogosít Magyarország területén.
 
 (2) A száznyolcvan napon belül kilencven napot meghaladó tartózkodásra jogosító vízum érvényességi ideje:
 
-- a) az (1) bekezdés a) és b) pontjában meghatározott vízum esetén legfeljebb egy év,
+- a) az (1) bekezdés a) pontjában meghatározott vízum esetén legfeljebb egy év,
 - b) az (1) bekezdés c) pontjában meghatározott vízum esetén legfeljebb öt év.
 
 15. § (1) Tartózkodási engedély átvételére jogosító vízumot az a harmadik országbeli állampolgár kaphat, akinek a részére e törvény alapján tartózkodási engedély, vagy a 36. § (1) bekezdése alapján nemzeti letelepedési engedély kiadását engedélyezték.
 
 (2) A tartózkodási engedély átvételére jogosító vízum érvénytelen, ha a kiadása alapjául szolgáló tartózkodási engedélyt visszavonták vagy visszavonásának lenne helye.
 
-(3) Szezonális munkavállalási vízumot, illetve nemzeti vízumot az a harmadik országbeli állampolgár kaphat, aki eleget tesz a 13. § (1) bekezdés a), valamint c)–i) pontjaiban foglalt feltételeknek.
+(3) Nemzeti vízumot az a harmadik országbeli állampolgár kaphat, aki eleget tesz a 13. § (1) bekezdés a), valamint c)–i) pontjaiban foglalt feltételeknek.
 
-(4) A szezonális munkavállalási vízum, valamint a nemzeti vízum kiadását meg kell tagadni, illetve a kiadott vízumot vissza kell vonni, ha a harmadik országbeli állampolgár
+(4) A nemzeti vízum kiadását meg kell tagadni, illetve a kiadott nemzeti vízumot vissza kell vonni, ha a harmadik országbeli állampolgár
 
 - a) nem felel meg a 13. § (1) bekezdés a), valamint c)–i) pontjaiban foglalt valamely feltételnek;
 - b) a tartózkodási jogosultság megszerzése érdekében az eljáró hatósággal hamis adatot, valótlan tényt közölt.
 
-(5) A szezonális munkavállalási vízum, valamint a nemzeti vízum iránti kérelem, illetve a vízum visszavonása tárgyában hozott határozat ellen fellebbezésnek nincs helye.
+(5) A nemzeti vízum iránti kérelem, illetve a nemzeti vízum visszavonása tárgyában hozott határozat ellen fellebbezésnek nincs helye.
 
 ### Tartózkodási engedély
 
@@ -169,6 +189,8 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 - a) a kivételes méltánylást érdemlő körülményt igazolta,
 - b) a kilencven napot meghaladó tartózkodás célja kutatás, vagy
 - c) az 539/2001/EK rendelet II. mellékletében szereplő állam állampolgáraként vagy ilyen harmadik országbeli állampolgárral együtt, családtagként tartózkodik jogszerűen Magyarország területén.
+
+(1a) A Magyarország területén tartózkodó, az Európai Unió tagállama által vállalaton belüli áthelyezés céljából kiadott tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár vállalaton belüli áthelyezés céljából tartózkodási engedély (hosszú távú mobilitási engedély) kiadása iránti kérelmét, valamint az ilyen engedéllyel rendelkező harmadik országbeli állampolgárral együtt Magyarországon jogszerűen tartózkodó családtag tartózkodási engedély iránti kérelmét Magyarországon terjesztheti elő, amennyiben az első tagállam által kiadott tartózkodási engedélye érvényes.
 
 (2) Az (1) bekezdés a) pontjában meghatározott kivételesen méltányolható körülmény különösen a gyógykezeléssel, a családegyesítéssel vagy a keresőtevékenységgel összefüggő olyan tény, amely a harmadik országbeli állampolgárnak nem felróható okból következett be és akadályozza a jogszabályban meghatározott általános feltételeknek megfelelő helyen történő kérelmezést.
 
@@ -196,6 +218,31 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 - e) legalább egymást követő három hónapon keresztül nem áll foglalkoztatásra irányuló jogviszonyban,
 - f) foglalkoztatásra irányuló jogviszonya az EU Kék Kártya érvényességi ideje alatt legalább két alkalommal megszűnt, vagy
 - g) az EU Kék Kártya kiadását követő két évben előzetes írásbeli engedély nélkül végzett a korábban engedélyezettektől eltérő munkát.
+
+(1c) Szezonális munkavállalás céljából a tartózkodási engedély kiadását meg kell tagadni az (1) bekezdés a)–c) pontjában meghatározott eseteken túl akkor is, ha a harmadik országbeli állampolgár
+
+- a) a rendelkezésre álló adatok és tények alapján a tartózkodási engedély lejártakor az Európai Unió tagállamainak területét valószínűsíthetően nem hagyja el, vagy
+- b) tizenkét hónapon belül hat hónapig már rendelkezett szezonális munkavállalás céljából kiadott tartózkodási engedéllyel.
+
+(1d) Szezonális munkavállalás céljából a tartózkodási engedély meghosszabbítását meg kell tagadni, illetve a kiadott szezonális munkavállalás célú tartózkodási engedélyt vissza kell vonni az (1) bekezdés a)–c) pontjában meghatározott eseteken túl akkor is, ha a harmadik országbeli állampolgár a kérelem előterjesztését megelőző tizenkét hónapon belül hat hónapig már rendelkezett szezonális munkavállalás céljából kiadott tartózkodási engedéllyel.
+
+(1e) Szezonális munkavállalás céljából a tartózkodási engedély meghosszabbítását az idegenrendészeti hatóság megtagadhatja, illetve a kiadott szezonális munkavállalási célú tartózkodási engedélyt visszavonhatja az (1d) bekezdésben meghatározott eseteken túl akkor is, ha a harmadik országbeli állampolgár a menekültügyi hatóságtól menekültkénti elismerését kérte, vagy a menekültügyi hatóságtól ideiglenes vagy kiegészítő védelmet kért.
+
+(1f) Vállalaton belüli áthelyezés céljából a tartózkodási engedély kiadását, illetve a meghosszabbítását meg kell tagadni az (1) bekezdés b)–c) pontjában meghatározott eseteken túl akkor is, ha a harmadik országbeli állampolgár
+
+- a) nem teljesíti a 13. § (1) bekezdés a), c)–d), f)–i) pontjában foglalt feltételeket,
+- b) a fogadószervezetet kizárólag abból a célból hozták létre, hogy a vállalaton belüli áthelyezéseket elősegítse,
+- c) jogszabályban meghatározott vezető állású munkavállalók és szakértők esetében három évig, gyakornok-munkavállalók esetében pedig egy évig már rendelkezett vállalaton belüli áthelyezés céljából kiadott tartózkodási engedéllyel.
+
+(1g) A vállalaton belüli áthelyezés céljából kiadott tartózkodási engedélyt vissza kell vonni az (1f) bekezdés a)–b) pontjában meghatározott esetekben.
+
+(1h) Vállalaton belüli áthelyezés céljából a tartózkodási engedély meghosszabbítását az idegenrendészeti hatóság megtagadhatja, illetve a vállalaton belüli áthelyezés céljából kiadott tartózkodási engedélyt visszavonhatja az (1f) bekezdés a) és b) pontjában meghatározott eseteken túl akkor is, ha a harmadik országbeli állampolgár nem tartotta be az Európai Unión belüli mobilitásra vonatkozó, jogszabályban meghatározott kötelezettségeit.
+
+(1i) Az Európai Unió tagállama által vállalaton belüli áthelyezés céljából kiadott tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár vállalaton belüli áthelyezés céljából tartózkodási engedély (hosszú távú mobilitási engedély) kiadását az idegenrendészeti hatóság elutasíthatja, ha a harmadik országbeli állampolgár
+
+- a) nem felel meg a 20/F. §-ban foglalt feltételeknek,
+- b) esetében az (1) bekezdés b) pontjában vagy az (1f) bekezdésben foglaltak megvalósulnak, vagy
+- c) részére az Európai Unió tagállama által vállalaton belüli áthelyezés céljából kiadott tartózkodási engedély érvényességi ideje lejárt.
 
 (2) Az (1) bekezdésben foglaltaktól eltérően, nemzetközi kötelezettség teljesítése céljából, halaszthatatlan humanitárius okból vagy nemzeti érdekből a beutazási és tartózkodási tilalmat elrendelő SIS figyelmeztető jelzés hatálya alatt álló harmadik országbeli állampolgár tartózkodási engedélyt kaphat, illetve a részére kiadott tartózkodási engedélyt nem kell visszavonni.
 
@@ -247,10 +294,11 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 
 (4) Az (1) és a (2) bekezdés szerinti keresőtevékenységet – ha e törvény eltérően nem rendelkezik – az a harmadik országbeli állampolgár folytathat, aki
 
-- a) szezonális munkavállalási vízummal,
+- a) szezonális munkavállalás célú tartózkodási engedéllyel,
 - b) humanitárius célból kiadott tartózkodási engedéllyel,
-- c) keresőtevékenység folytatása céljából, jövedelemszerzés vagy munkavállalás céljából, családi együttélés biztosítása céljából, kutatás céljából vagy tanulmányi célból kiadott tartózkodási engedéllyel, vagy
-- d) EU Kék Kártyával
+- c) keresőtevékenység folytatása céljából, jövedelemszerzés vagy munkavállalás céljából, családi együttélés biztosítása céljából, kutatás céljából vagy tanulmányi célból kiadott tartózkodási engedéllyel,
+- d) EU Kék Kártyával vagy
+- e) vállalaton belüli áthelyezés céljából kiadott tartózkodási engedéllyel
 
 rendelkezik.
 
@@ -274,7 +322,7 @@ rendelkezik.
 - e) a külön törvényben meghatározottak szerint szabad mozgás és tartózkodás jogával rendelkező személy,
 - f) az a harmadik országbeli állampolgár, aki az Európai Unió más tagállama által kiadott huzamos tartózkodói jogállást igazoló EK tartózkodási engedéllyel rendelkezik,
 - g) az a harmadik országbeli állampolgár, aki a kereskedelem és befektetések terén tevékenykedő természetes személyek egyes kategóriáinak beutazását és tartózkodását megkönnyítő nemzetközi megállapodásban foglalt kötelezettségvállalás alapján utazott be Magyarország területére,
-- h) az a harmadik országbeli állampolgár, aki Magyarország területén szezonális munkavállalási vízummal tartózkodik, illetve az Európai Unió más tagállamában szezonális munkát végez,
+- h) az a harmadik országbeli állampolgár, aki Magyarország területén szezonális munkavállalás céljából kiadott tartózkodási engedéllyel tartózkodik, illetve az Európai Unió más tagállamában szezonális munkát végez,
 - i) a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló, 1996. december 16-i 96/71/EK európai parlamenti és tanácsi irányelv hatálya alá tartozó harmadik országbeli állampolgár, aki Magyarország területén kiküldetésben tartózkodik.
 
 (2a) Az EU kék kártya iránti kérelem tárgyában indult eljárásban az eljáró hatóság az érdemi döntést a kérelem benyújtásától számított kilencven napon belül hozza meg.
@@ -294,6 +342,46 @@ rendelkezik.
 - b) hazai foglalkoztatáspolitikai érdek mérlegelése alapján engedélyezett munkaviszonyban
 
 való, magas szintű képzettséget igénylő munkavállalásra jogosít.
+
+20/D. § (1) Szezonális munkavállalás céljából tartózkodási engedélyt az a harmadik országbeli állampolgár kaphat, akinek tartózkodási célja, hogy külön jogszabályban meghatározott szezonális munkát végezzen.
+
+(2) A szezonális munkavállalás céljából kiadott tartózkodási engedély érvényességi ideje legfeljebb hat hónap, amely tizenkét hónapon belül hat hónapot meg nem haladó időtartamig meghosszabbítható. A szezonális munkavállalás céljából kiállított tartózkodási engedély tizenkét hónapon belül hat hónapot meghaladó időtartamra nem adható ki és hat hónapot követően e célból nem hosszabbítható meg.
+
+(3) Nem kaphat szezonális munkavállalás céljából tartózkodási engedélyt az a harmadik országbeli állampolgár, aki
+
+- a) a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló, 1996. december 16-i 96/71/EK európai parlamenti és tanácsi irányelv hatálya alá tartozó harmadik országbeli állampolgár, aki Magyarország területén kiküldetésben tartózkodik, vagy
+- b) külön jogszabályban foglaltak alapján szabad mozgás és tartózkodás jogával rendelkezik.
+
+20/E. § (1) Vállalaton belüli áthelyezés céljából tartózkodási engedélyt az a harmadik országbeli állampolgár kap, aki
+
+- a) igazolja, hogy a fogadó szervezet és a harmadik országban letelepedett vállalkozás ugyanahhoz a vállalkozáshoz vagy vállalkozáscsoporthoz tartozik;
+- b) a 13. § (1) bekezdés a), d), valamint h) és i) pontjában foglalt feltételeknek megfelel, és vele szemben nem állnak fenn a (2) bekezdésben, valamint a 18. § (1f)–(1i) bekezdésben foglalt kizáró okok;
+- c) igazolja, hogy a vállalaton belüli áthelyezés időpontját jogszabályban meghatározott vezető állású munkavállaló és szakértő esetében legalább három, legfeljebb tizenkét hónapos, gyakornok-munkavállaló esetében pedig legalább három, legfeljebb hathónapos folyamatos munkaviszony előzte meg közvetlenül ugyanazon a vállalkozáson vagy vállalkozáscsoporton belül;
+- d) igazolja, hogy az Európai Unió tagállamai területén történő tartózkodás tekintetében Magyarországon a leghosszabb a vállalaton belüli áthelyezés időtartama;
+- e) rendelkezik az abban a fogadó szervezetben szükséges szakmai képesítéssel és tapasztalattal, amelyhez vezető állású munkavállalóként vagy szakértőként áthelyezik, vagy gyakornok-munkavállalók esetében a szükséges egyetemi oklevéllel;
+- f) foglalkoztatása jogszabályban meghatározott szempontok alapján, valamint hazai foglalkoztatáspolitikai érdekből támogatott;
+- g) az egészségügyi ellátások teljes körére biztosítottnak minősül, vagy kérelmezte azt minden olyan időszakra vonatkozóan, amikor a foglalkoztatásra irányuló jogviszonyból eredően nem minősül biztosítottnak;
+- h) a tartózkodás teljes időtartamára elegendő forrással rendelkezik önmaga és családtagjai számára ahhoz, hogy tartózkodásuk ne jelentsen indokolatlan terhet Magyarország szociális ellátórendszerére; és
+- i) Magyarország területén valós lakcímadatot szálláshelyként bejelentett.
+
+(2) Nem kaphat vállalaton belül áthelyezés céljából tartózkodási engedélyt:
+
+- a) az a harmadik országbeli állampolgár, aki kutatás céljából kiállított tartózkodási engedéllyel rendelkezik;
+- b) azon harmadik országbeli állampolgár, aki egyrészt az Európai Unió és tagállamai, másrészt harmadik országok közötti megállapodások alapján a szabad mozgás tekintetében az Unió polgáraival egyenértékű jogokat élvez, vagy akit ilyen harmadik országokban letelepedett vállalkozás foglalkoztat;
+- c) a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló, 1996. december 16-i 96/71/EK európai parlamenti és tanácsi irányelv hatálya alá tartozó harmadik országbeli állampolgár, aki Magyarország területén kiküldetésben tartózkodik;
+- d) az egyéni vállalkozó;
+- e) a munkaerő-közvetítő, munkaerő-kölcsönző vagy egyéb olyan vállalkozás megbízása alapján keresőtevékenységet folytató harmadik országbeli állampolgár, amelynek tevékenysége abból áll, hogy munkaerőt bocsát rendelkezésre egy másik vállalkozás felügyelete és irányítása alatti munkavégzés céljából;
+- f) aki tanulmányok folytatása célú tartózkodási engedéllyel rendelkezik, vagy aki tanulmányai részeként rövid távú, felügyelt szakmai gyakorlaton vesz részt.
+
+(3) Vállalaton belüli áthelyezés céljából kiállított tartózkodási engedély érvényességi ideje legalább egy év vagy az áthelyezés időtartamához igazodik. A két időtartam közül azt kell a tartózkodási engedély érvényességi idejeként meghatározni, amelyik rövidebb.
+
+(4) Vállalaton belüli áthelyezés céljából kiállított tartózkodási engedély érvényességi ideje vezető állású munkavállalók és szakértők esetében legfeljebb három év, gyakornok-munkavállalók esetében pedig legfeljebb egy év.
+
+(5) A vállalaton belüli áthelyezés céljából kiállított tartózkodási engedély a (4) bekezdésben meghatározott időtartamon belül és a (4) bekezdésben meghatározott időtartamig meghosszabbítható vállalaton belüli áthelyezés céljából.
+
+(6) Nem kaphat a 20. § (1) és (2) bekezdése alapján tartózkodási engedélyt az a harmadik országbeli állampolgár, aki 2/A. § a)–b) pontjában, valamint a 20/E. § (1) bekezdésében foglalt feltételeknek megfelel.
+
+20/F. § Az Európai Unió tagállama által vállalaton belüli áthelyezés céljából kiadott tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár vállalaton belüli áthelyezés céljából tartózkodási engedélyt (hosszú távú mobilitási engedély) kap, ha rendelkezik a 13. § (1) bekezdés a) és d) pontjában, valamint 20/E. § (1) bekezdés a)–b) és f)–i) pontjában meghatározott feltételekkel.
 
 21. § (1) Tanulmányi célból tartózkodási engedélyt az a harmadik országbeli állampolgár kaphat, aki Magyarországon a köznevelés információs rendszerében működőként regisztrált köznevelési intézménnyel nappali rendszerű iskolai oktatás, vagy nappali oktatás munkarendje szerint létesít vagy létesített tanulói jogviszonyt, vagy államilag elismert felsőoktatási intézmény vagy Magyarország területén engedéllyel működő külföldi felsőoktatási intézmény teljes idejű nappali képzése keretében tanulmányok folytatása, illetve a felsőoktatási intézmény által szervezett, a tanulmányok folytatását előkészítő képzésben való részvétel érdekében kíván Magyarország területén tartózkodni, és igazolja, hogy a tanulmányok folytatásához megfelelő nyelvismerettel rendelkezik.
 
@@ -410,8 +498,11 @@ kíván Magyarország területén tartózkodni.
 (2) Összevont kérelmezési eljárás keretében történik a tartózkodási engedély kiadása vagy meghosszabbítása akkor is, ha a harmadik országbeli állampolgár foglalkoztatásra irányuló jogviszonyt kíván létesíteni és
 
 - a) családi együttélés biztosítása céljából tartózkodási engedély,
-- b) EU Kék Kártya, vagy
-- c) kutatás célú tartózkodási engedély
+- b) EU Kék Kártya,
+- c) kutatás célú tartózkodási engedély,
+- d) szezonális munkavállalási célú tartózkodási engedély,
+- e) vállalaton belüli áthelyezés célú tartózkodási engedély, vagy
+- f) hosszú távú mobilitási engedély
 
 iránti kérelmet terjeszt elő.
 
@@ -421,7 +512,10 @@ iránti kérelmet terjeszt elő.
 - b) EU Kék Kártyával,
 - c) a 20. § (1) bekezdése alapján jövedelemszerzés céljából kiadott tartózkodási engedéllyel,
 - d) a 29. § (1) bekezdés a), illetve e)–f) pontja, vagy (1a) bekezdése alapján kiadott humanitárius célú tartózkodási engedéllyel,
-- e) kutatás céljából kiadott tartózkodási engedéllyel; rendelkezik.
+- e) kutatás céljából kiadott tartózkodási engedéllyel;
+- f) szezonális munkavállalási célú tartózkodási engedéllyel,
+- g) vállalaton belüli áthelyezés célú tartózkodási engedéllyel, vagy
+- h) hosszú távú mobilitási engedéllyel rendelkezik.
 
 (3a) A (3) bekezdés c) pontjában meghatározott esetben összevont kérelmezési eljárás keretében a harmadik országbeli állampolgár tartózkodási engedélye akkor hosszabbítható meg, ha a harmadik országbeli állampolgár a tartózkodási engedély meghosszabbítását munkavállalás céljából kérelmezi.
 
@@ -429,8 +523,8 @@ iránti kérelmet terjeszt elő.
 
 - a) a törvényben meghatározottak szerint szabad mozgás és tartózkodás jogával rendelkező személyre,
 - b) a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló, 1996. december 16-i, 96/71/EK európai parlamenti és tanácsi irányelv hatálya alá tartozó harmadik országbeli állampolgárra, aki Magyarország területén kiküldetésben tartózkodik,
-- c) arra a harmadik országbeli állampolgárra, aki Magyarország területén szezonális munkavállalási vízummal tartózkodik, illetve az Európai Unió más tagállamában szezonális munkát végez,
-- d) a vállalaton belül áthelyezett munkavállalóként, au pairként vagy tengerészként Magyarország területén tartózkodni szándékozó, illetve tartózkodó harmadik országbeli állampolgárra,
+- c)
+- d) au pairként vagy tengerészként Magyarország területén tartózkodni szándékozó, illetve tartózkodó harmadik országbeli állampolgárra,
 - e) arra a harmadik országbeli állampolgárra, aki a menekültügyi hatóságtól menekültkénti elismerését kérte vagy a menekültügyi hatóságtól ideiglenes vagy kiegészítő védelmet kért,
 - f) arra, akit Magyarország menekültként ismert el, avagy ideiglenes vagy kiegészítő védelemben részesített,
 - g) a befogadottra,
@@ -450,7 +544,7 @@ iránti kérelmet terjeszt elő.
 - a) foglalkoztatása jogszabályban meghatározott szempontok alapján, valamint hazai foglalkoztatáspolitikai érdekből támogatott, vagy külön jogszabály alapján ezen vizsgálat alól mentes és
 - b) a törvényben meghatározott tartózkodási feltételeket teljesíti.
 
-(8) Ha a tartózkodási engedély összevont engedélyként kerül kiállításra, a tartózkodási engedély érvényességi ideje – a családi együttélés biztosítása céljából kiadott tartózkodási engedély, a kutatás céljából kiadott tartózkodási engedély, az EU Kék Kártya, valamint a 29. § (1) bekezdés a), illetve e)–f) pontja vagy (1a) bekezdése alapján kiadott humanitárius tartózkodási engedély kivételével – legfeljebb a jogszabályban meghatározott szakhatósági állásfoglalásban szereplő időtartamig terjedhet, amely alkalmanként legfeljebb az új eljárásban adott szakhatósági állásfoglalásban szereplő időpontig meghosszabbítható.
+(8) Ha a tartózkodási engedély összevont engedélyként kerül kiállításra, a tartózkodási engedély érvényességi ideje – a családi együttélés biztosítása céljából, a szezonális munkavállalás céljából, vállalaton belüli áthelyezés céljából kiadott tartózkodási engedély, a hosszú távú mobilitási engedély, a kutatás céljából kiadott tartózkodási engedély, az EU Kék Kártya, valamint a 29. § (1) bekezdés a), illetve e)–f) pontja vagy (1a) bekezdése alapján kiadott humanitárius tartózkodási engedély kivételével – legfeljebb a jogszabályban meghatározott szakhatósági állásfoglalásban szereplő időtartamig terjedhet, amely alkalmanként legfeljebb az új eljárásban adott szakhatósági állásfoglalásban szereplő időpontig meghosszabbítható.
 
 (9) A harmadik országbeli állampolgár a meghatározott foglalkoztatóval történő foglalkoztatási jogviszony létesítésére irányuló szándékát köteles az idegenrendészeti hatóságnál bejelenteni, ha
 
@@ -484,8 +578,12 @@ iránti kérelmet terjeszt elő.
 (3) Az (1) bekezdés a) pontja alapján ideiglenes tartózkodásra jogosító igazolással ellátott harmadik országbeli állampolgár keresőtevékenységet akkor folytathat, ha
 
 - a) keresőtevékenység folytatására jogosító tartózkodási engedély birtokában jövedelemszerzési vagy munkavállalási célú tartózkodási engedély iránti kérelmet nyújtott be,
-- b) jövedelemszerzési vagy munkavállalási célú tartózkodási engedély birtokában jövedelemszerzési vagy munkavállalási célú tartózkodási engedély iránti kérelmet nyújtott be, vagy
-- c) a 29/A. § (2) vagy (3) bekezdése alapján tartózkodási engedély iránti kérelmet nyújtott be.
+- b) jövedelemszerzési vagy munkavállalási célú tartózkodási engedély birtokában jövedelemszerzési vagy munkavállalási célú tartózkodási engedély iránti kérelmet nyújtott be,
+- c) a 29/A. § (2) vagy (3) bekezdése alapján tartózkodási engedély iránti kérelmet nyújtott be,
+- d) szezonális munkavállalásra jogosító, kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízuma meghosszabbítása iránti kérelmet nyújtott be szezonális munkavállalás céljából;
+- e) szezonális munkavállalásra jogosító, kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízuma birtokában szezonális munkavállalás célú tartózkodási engedély kiadása iránti kérelmet nyújtott be;
+- f) szezonális munkavállalásra jogosító tartózkodási engedélye meghosszabbítása iránti kérelmet nyújtott be szezonális munkavállalás céljából;
+- g) az Európai Unió tagállama által vállalaton belüli áthelyezés céljából kiadott tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár vállalaton belüli áthelyezés céljából tartózkodási engedély (hosszú távú mobilitási engedély) kiadása iránti kérelmet nyújtott be, feltéve, hogy az első tagállam által kiadott tartózkodási engedélye érvényes, és a kérelmét a rövid távú mobilitási időszak lejárta előtt legalább 20 nappal nyújtotta be.
 
 (4) Az ideiglenes tartózkodásra jogosító igazolás nem hosszabbítható meg, illetve azt vissza kell vonni, ha a kiállítására okot adó körülmény már nem áll fenn.
 
@@ -856,9 +954,9 @@ csak akkor utasítható ki, ha további tartózkodása a nemzetbiztonságot, a k
 
 (8a) Az Európai Unió tagállama által kiadott, a tagállam területén tartózkodásra jogosító engedéllyel rendelkező harmadik országbeli állampolgárt az idegenrendészeti hatóság Magyarország területéről utasítja ki, elsődlegesen azon tagállamba, amelynek területére a tartózkodási engedélye érvényes.
 
-(8b) Az Európai Unió valamely tagállama által kiállított EU Kék Kártyával rendelkező harmadik országbeli állampolgárt azon tagállamba kell kiutasítani, amely az EU Kék Kártyát kiadta, még abban az esetben is, ha az EU Kék Kártya érvényességi ideje a magyarországi tartózkodás alatt lejárt.
+(8b) Az Európai Unió valamely tagállama által kiállított EU Kék Kártyával vagy vállalaton belüli áthelyezés céljából kiadott tartózkodási engedéllyel rendelkező harmadik országbeli állampolgárt és családtagját azon tagállamba kell kiutasítani, amely az EU Kék Kártyát vagy a vállalaton belüli áthelyezés célú, illetve családi együttélés biztosítása célú tartózkodási engedélyt kiadta, még abban az esetben is, ha az EU Kék Kártya vagy a vállalaton belüli áthelyezés, vagy családi együttélés biztosítása célú tartózkodási engedély érvényességi ideje a magyarországi tartózkodás alatt lejárt.
 
-(8c) Amennyiben az EU Kék Kártyával rendelkező harmadik országbeli állampolgárt az Európai Unió valamely tagállama kiutasítja, abban az esetben is lehetővé kell tenni a visszatérését Magyarország területére, ha az EU Kék Kártya érvényességi ideje lejárt. A visszafogadást követően a harmadik országbeli állampolgárra a 18. § (1b) bekezdésében foglalt rendelkezéseket kell alkalmazni.
+(8c) Amennyiben az EU Kék Kártyával vagy vállalaton belüli áthelyezés célú tartózkodási engedéllyel rendelkező harmadik országbeli állampolgárt vagy családtagját az Európai Unió valamely tagállama kiutasítja, abban az esetben is lehetővé kell tenni a visszatérését Magyarország területére, ha az EU Kék Kártya vagy a vállalaton belüli áthelyezés célú vagy a családi együttélés biztosítása céljából kiadott tartózkodási engedély érvényességi ideje lejárt. A visszafogadást követően a harmadik országbeli állampolgárra, valamint a családtagjára a 18. § (1) bekezdésben, az (1b) bekezdésben, illetve (1f)–(1i) bekezdésében foglalt rendelkezéseket kell alkalmazni.
 
 (9) Ha az idegenrendészeti hatóság a (3)–(5) bekezdésben meghatározott okokból a harmadik országbeli állampolgár kiutasításától eltekint, és a harmadik országbeli állampolgár nem rendelkezik a tartózkodás törvényi feltételeivel, az idegenrendészeti hatóság humanitárius tartózkodási engedéllyel látja el.
 
@@ -1295,29 +1393,29 @@ származó jövedelemmel rendelkezik.
 
 (2) Az (1) bekezdésben foglalt rendelkezéseket kell alkalmazni akkor is, ha a légifuvarozó hiányos adatokat vagy – az elvárható gondosság tanúsítása hiányában – valótlan adatot továbbít.
 
-71. § (1) A munkáltató legkésőbb a harmadik országbeli állampolgár munkába lépésének napján köteles meggyőződni arról, hogy a harmadik országbeli állampolgár érvényes tartózkodási engedéllyel vagy más tartózkodásra jogosító engedéllyel, valamint az e törvény alapján keresőtevékenység folytatására jogosító engedéllyel rendelkezik-e.
+71. § (1) A munkáltató vagy a fogadó szervezet legkésőbb a harmadik országbeli állampolgár munkába lépésének napján köteles meggyőződni arról, hogy a harmadik országbeli állampolgár érvényes tartózkodási engedéllyel vagy más tartózkodásra jogosító engedéllyel, valamint az e törvény alapján keresőtevékenység folytatására jogosító engedéllyel rendelkezik-e.
 
-(2) A munkáltató a harmadik országbeli állampolgár által bemutatott érvényes tartózkodási engedély vagy más, tartózkodásra jogosító engedély másolatát a foglalkoztatás időtartama alatt köteles megőrizni.
+(2) A munkáltató vagy a fogadó szervezet a harmadik országbeli állampolgár által bemutatott érvényes tartózkodási engedély vagy más, tartózkodásra jogosító engedély másolatát a foglalkoztatás időtartama alatt köteles megőrizni.
 
-(3) A munkáltató öt napon belül köteles bejelenteni az idegenrendészeti hatóságnak a harmadik országbeli állampolgár foglalkoztatásának megkezdését.
+(3) A munkáltató vagy a fogadó szervezet öt napon belül köteles bejelenteni az idegenrendészeti hatóságnak a harmadik országbeli állampolgár foglalkoztatásának megkezdését.
 
-(4) A munkáltató öt napon belül köteles bejelenteni az idegenrendészeti hatóságnak, amennyiben a harmadik országbeli állampolgár az engedélyezett munkáját nem kezdi meg, illetve a munkavégzés a munkavállalási engedély érvényességi idején belül megszűnik.
+(4) A munkáltató vagy a fogadó szervezet öt napon belül köteles bejelenteni az idegenrendészeti hatóságnak, ha a harmadik országbeli állampolgár az engedélyezett munkáját nem kezdi meg, illetve ha a munkavégzés a munkavállalási engedély, vagy az összevont engedély érvényességi idején belül megszűnik.
 
-(4a) A munkáltató a (3) és (4) bekezdésben meghatározott bejelentést a következő adatok közlésével köteles teljesíteni:
+(5) A munkáltató vagy a fogadó szervezet a (3)–(4) bekezdésben meghatározott bejelentést a következő adatok közlésével köteles teljesíteni:
 
-- a) munkáltató adatai (név, cím, székhely, telephely, gazdálkodási forma, cégjegyzékszám),
-- b) harmadik országbeli állampolgár munkavállaló természetes személyazonosító adatai,
-- c) harmadik országbeli állampolgár munkavállaló tartózkodásra jogosító engedélyének száma,
+- a) munkáltató vagy fogadó szervezet adatai (név, cím, székhely, telephely, gazdálkodási forma, cégjegyzékszám),
+- b) harmadik országbeli állampolgár munkavállaló vagy vállalaton belül áthelyezett természetes személyazonosító adatai,
+- c) harmadik országbeli állampolgár munkavállaló vagy vállalaton belül áthelyezett tartózkodásra jogosító engedélyének száma,
 - d) munkakör,
-- e) a tényleges munkavégzés megkezdésének, meg nem kezdésének vagy a munkavállalási engedély, vagy az összevont engedély érvényességi idején belül
+- e) a tényleges munkavégzés vagy vállalaton belül áthelyezés megkezdésének vagy meg nem kezdésének, vagy a munkavállalási engedély, vagy az összevont engedély érvényességi idején belül történő megszűnésének időpontja.
 
-történő megszűnésének időpontja.
+(6) Az idegenrendészeti hatóság az (1)–(4) bekezdésekben meghatározott kötelezettséget elmulasztó munkáltatót vagy fogadó szervezetet a foglalkoztatott harmadik országbeli állampolgárok számával arányos mértékű – jogszabályban meghatározott – közrendvédelmi bírsággal sújtja.
 
-(5) Az idegenrendészeti hatóság az (1)–(4) bekezdésekben meghatározott kötelezettséget elmulasztó munkáltatót a foglalkoztatott harmadik országbeli állampolgárok számával arányos mértékű – jogszabályban meghatározott – közrendvédelmi bírsággal sújtja.
+(7) A közrendvédelmi bírság megfizetésének kötelezettsége alól a munkáltató vagy a fogadó szervezet akkor mentesül, ha bizonyítja, hogy az (1)–(4) bekezdésben foglalt ellenőrzési és bejelentési kötelezettségének eleget tett, kivéve, ha tudott, vagy kellő gondosság mellett tudhatott volna arról, hogy az érvényes tartózkodási engedélyként vagy más, tartózkodásra jogosító engedélyként bemutatott okmány hamis volt.
 
-(6) A közrendvédelmi bírság megfizetésének kötelezettsége alól a munkáltató akkor mentesül, ha bizonyítja, hogy az (1)–(4) bekezdésben foglalt ellenőrzési és bejelentési kötelezettségének eleget tett, kivéve, ha tudott, vagy kellő gondosság mellett tudhatott volna arról, hogy az érvényes tartózkodási engedélyként vagy más, tartózkodásra jogosító engedélyként bemutatott okmány hamis volt.
+(8) A fővállalkozó és valamennyi közbenső alvállalkozó az alvállalkozó munkáltatóval vagy a fogadó szervezettel egyetemlegesen felel a közrendvédelmi bírság megfizetéséért akkor, ha tudott, vagy kellő gondosság mellett tudhatott volna arról, hogy az alvállalkozó munkáltató harmadik országbeli állampolgárt az e törvény szerinti tartózkodásra jogosító engedély nélkül foglalkoztat.
 
-(7) A fővállalkozó és valamennyi közbenső alvállalkozó az alvállalkozó munkáltatóval egyetemlegesen felel a közrendvédelmi bírság megfizetéséért akkor, ha tudott, vagy kellő gondosság mellett tudhatott volna arról, hogy az alvállalkozó munkáltató harmadik országbeli állampolgárt az e törvény szerinti tartózkodásra jogosító engedély nélkül foglalkoztat.
+(9) A fogadó szervezet legkésőbb a munkába állást követő öt napon belül köteles bejelenteni, ha az Európai Unió tagállama által, vállalaton belüli áthelyezés céljából kiállított tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár vállalaton belüli áthelyezés céljából, kilencven napot meg nem haladó, tervezett időtartamig Magyarországon a fogadó szervezetnél végez munkát. A bejelentésnek tartalmaznia kell a harmadik országbeli állampolgár természetes személyazonosító adatait, a vállalaton belüli áthelyezés tervezett időtartamát és a fogadó szervezet vállalkozáscsoporthoz való tartozását.
 
 72. § A meghívó a kötelezettsége elmulasztásával másnak okozott kárt köteles megtéríteni.
 
@@ -1452,7 +1550,7 @@ szerinti állam vonatkozásában.
 
 88. § (1) Az e törvényben szabályozott kérelemre indult eljárásokban kérelme előterjesztésekor az ügyfélnek – a (2) bekezdésben meghatározott kivétellel – az eljáró hatóság előtt személyesen meg kell jelennie. A személyes megjelenési kötelezettség teljesítésétől az eljáró hatóság eltekinthet, ha a kérelmező a megjelenésre egészségi állapota miatt képtelen.
 
-(2) A 29/A. § (1) bekezdésében, a 29/A. § (2) bekezdés b) pontjában, valamint a 29/A. § (3) bekezdés b) pontjában meghatározott esetekben, valamint a harmadik országbeli állampolgárral együtt kérelmező családtag esetén a tartózkodási engedély kiadására és meghosszabbítására irányuló kérelem külön jogszabályban meghatározott foglalkoztató útján is előterjeszthető, ha ehhez az ügyfél írásban hozzájárul.
+(2) A 29/A. § (1) bekezdésében, a 29/A. § (2) bekezdés b) és e) pontjában, valamint a 29/A. § (3) bekezdés b) és g) pontjában meghatározott esetekben, valamint a harmadik országbeli állampolgárral együtt kérelmező családtag esetén a tartózkodási engedély kiadására és meghosszabbítására irányuló kérelem külön jogszabályban meghatározott foglalkoztató vagy fogadó szervezet útján is előterjeszthető, ha ehhez az ügyfél írásban hozzájárul.
 
 (3) A (2) bekezdésben meghatározott esetben az eljáró hatóság az eljárás során a foglalkoztatóval is kapcsolatot tarthat, de minden eljárási cselekményről értesíteni kell az ügyfelet.
 
@@ -1977,6 +2075,13 @@ hatályát veszti.
 - u) a harmadik országok állampolgárainak, illetve a hontalan személyeknek menekültként vagy a más okból nemzetközi védelemre jogosultként való elismerésének feltételeiről és az e státuszok tartalmára vonatkozó minimumszabályokról szóló, 2004. április 29-i 2004/83/EK tanácsi irányelv;
 - v) a menekültstátusz megadására és visszavonására vonatkozó tagállami eljárások minimumszabályairól szóló, 2005. december 1-jei 2005/85/EK tanácsi irányelv;
 - w) a harmadik országbeli állampolgárok valamely tagállam területén való tartózkodására és munkavállalására vonatkozó összevont engedélyre irányuló összevont kérelmezési eljárásról, valamint a harmadik országból származó, valamely tagállam területén jogszerűen tartózkodó munkavállalók közös jogairól szóló, 2011. december 13-i, 2011/98/EU európai parlamenti és tanácsi irányelv.
+
+(1a) E törvény
+
+- a) a harmadik országbeli állampolgárok idénymunkásként való munkavállalás céljából való belépésének és tartózkodásának feltételeiről szóló, 2014. február 26-i 2014/36/EU európai parlamenti és tanácsi irányelvnek;
+- b) a harmadik országbeli állampolgárok vállalaton belüli áthelyezés keretében történő belépésének és tartózkodásának feltételeiről szóló, 2014. május 15-i 2014/66/EU európai parlamenti és tanácsi irányelvnek
+
+való megfelelést szolgálja.
 
 (2) E törvény
 
