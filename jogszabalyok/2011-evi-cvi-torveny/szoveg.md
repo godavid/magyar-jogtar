@@ -371,6 +371,6 @@ vonatkozó szabályai nem alkalmazhatók,
 
 59. § Nem lép hatályba az egyes munkaügyi tárgyú és más kapcsolódó törvények jogharmonizációs célú módosításáról szóló 2011. évi CV. törvény 24. § (1) bekezdése.
 
-60. § E törvénynek a szociális szövetkezetekkel összefüggésben egyes törvények, továbbá a közfoglalkoztatáshoz kapcsolódó egyes törvények módosításáról szóló 2013. évi XLI. törvénnyel megállapított 4/A. § (1) bekezdésének rendelkezéseit a 2013. szeptember 1-jét megelőzően létesített közfoglalkoztatási jogviszonyok esetén is alkalmazni kell.
+#### 60. §
 
-61. § E törvénynek az egyes törvényeknek a katasztrófák elleni védekezés hatékonyságának növelésével összefüggő módosításáról szóló 2013. évi CXCII. törvénnyel megállapított 2. §-ának a rendelkezései a 2014. január 1-jét megelőzően megkötött közfoglalkoztatási jogviszonyt szabályozó szerződésekre nem alkalmazhatók.
+#### 61. §

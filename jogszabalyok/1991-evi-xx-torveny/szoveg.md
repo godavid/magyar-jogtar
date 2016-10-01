@@ -20,7 +20,7 @@ E törvény célja, hogy— megállapítsa a helyi önkormányzati feladat- és 
 
 10-16. §
 
-17. § (1) A fővárosi és megyei kormányhivatal vezetője és a polgármester, a főpolgármester polgári védelmi feladatait a Kormány rendeletben állapítja meg.
+17. § (1)
 
 (2)
 
