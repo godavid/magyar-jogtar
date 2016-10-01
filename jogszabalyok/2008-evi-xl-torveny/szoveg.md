@@ -102,6 +102,7 @@ Az Országgyűlés a hatékonyan működő földgáz-versenypiac kialakítása, 
 - 44a. Kereskedési platform: a 312/2014/EU bizottsági rendelet 3. cikk 4. pontjában meghatározott fogalom.
 - 45. Kiegyensúlyozó földgáz: adott gáznapon a rendszerhasználók által az együttműködő földgázrendszerbe beadott és a ténylegesen vételezett földgázmennyiségek közötti különbség kiegyenlítésére a szállítási rendszerüzemeltető által felhasznált földgázmennyiség.
 - 46. Korlátozás: földgázellátási zavar esetén az egyes korlátozási kategóriákba besorolt felhasználók gázfogyasztásának csökkentése vagy megszüntetése annak érdekében, hogy az együttműködő földgázrendszeren vagy annak egy részén a hidraulikai egyensúly fenntartható vagy helyreállítható legyen.
+- 46a. Központi adatgyűjtő és feldolgozó rendszer: az együttműködő földgázrendszerben az e törvényben meghatározott elszámolási és egyéb feladatok – ideértve a földgázfelhasználás felosztását felhasználási hely egyedi azonosítónként (POD), a felhasználási hely egyedi azonosítónkénti tényleges földgázvételezés és a felhasználási hely egyedi azonosítónként felosztott földgázmennyiség különbségéből adódó eltérések korrekcióját, valamint a mérési adatok átszámítását – elvégzése érdekében létrehozott, és a központi adatgyűjtő és feldolgozó rendszert működtető engedélyes által működtetett adatforgalmi és informatikai rendszer.
 - 47. Lakossági fogyasztó: az a felhasználó, aki saját háztartása – egy felhasználási helyet képező egy vagy több lakóépület, lakás, üdülő vagy hétvégi ház, továbbá lakossági célra használt garázs – fogyasztása céljára vásárol földgázt földgáz vételezésére megkötött szerződés alapján, és az így vásárolt földgázzal nem folytat jövedelemszerzés céljából gazdasági tevékenységet. Ha a lakóépületben a műszakilag megosztott, önálló lakások száma meghaladja az épületben lévő önálló nem lakás céljára szolgáló helyiségek számát, a lakóépületet, mint felhasználót a közös fogyasztás vonatkozásában úgy kell tekinteni, hogy saját háztartás céljára vételez és a vásárolt földgázzal nem folytat jövedelemszerzés céljából gazdasági tevékenységet.
 - 48. Legkisebb költség: az engedélyezett tevékenység gyakorlásához az engedélyesnél, illetve nemzetgazdasági szinten szükséges és indokoltan felmerülő ráfordítás.
 - 49. Lekötött kapacitás: a betáplálási-kiadási pont, valamint a földgáztároló technikai kapacitásának az a része, amelyet adott kapacitáslekötési időszakra a rendszerhasználó rendszerhasználati szerződéssel leköt.
@@ -193,7 +194,7 @@ végzi.
 
 9. § (1) A szállítási rendszerüzemeltető rendszeregyensúlyozási tevékenységének végzéséhez szükséges földgáz adásvétele nem minősül az e törvény szerinti földgáz-kereskedelemnek.
 
-(2) A napi kiegyensúlyozási díjat a 312/2014/EU bizottsági rendeletben előírtak szerint meghatározott módszertan alapján kell kiszámítani. A módszertant a kereskedési platform szabályzata vagy – kereskedési platform hiányában – az egyensúlyozó platform szabályzata tartalmazza.
+(2) A napi kiegyensúlyozási díjat a 312/2014/EU bizottsági rendeletben előírtak szerint meghatározott módszertan alapján kell kiszámítani. A módszertant a szállítási rendszerüzemeltető a Hivatal részére jóváhagyásra benyújtja.
 
 (3) A szállítási rendszerüzemeltető a kereskedési platformon vagy az egyensúlyozó platformon tagsággal nem rendelkező rendszerhasználó felé a kiegyensúlyozó földgáz biztosításához közvetlenül kapcsolódó, igazolt napi kiegyensúlyozási díjakat, a Hivatal elnökének rendelete alapján meghatározott pótdíjat és a kiegyensúlyozó földgáz adott platformon történő beszerzésével kapcsolatban felmerült indokolt költségeket felszámolja az üzletszabályzatban foglaltak szerint.
 
@@ -259,6 +260,10 @@ végzi.
 - g) a felhasználót ellátó rendszerhasználó vagy a saját jogon eljáró felhasználó nem rendelkezik hatályos szállítói vagy elosztói rendszerhasználati szerződéssel, vagy
 - h) a szállítási rendszerüzemeltető felfüggesztette a szállítói rendszerhasználati szerződések teljesítését a felhasználó vagy a felhasználót ellátó rendszerhasználó vonatkozásában.
 
+(1a) A földgázelosztó az elosztási szolgáltatás megkezdésének vagy folytatásának megtagadásáról, felfüggesztéséről, a felhasználó kikapcsolásáról, a felhasználó által kezdeményezett rendszerhasználat szüneteltetésről és a szolgáltatás igénybevételének felhagyásáról köteles a központi adatgyűjtő és feldolgozó rendszert működtető engedélyest tájékoztatni.
+
+(1b) A földgázelosztó az elosztási szolgáltatás megkezdéséről, folytatásáról, a felhasználó visszakapcsolásáról, a rendszerhasználat szüneteltetését követő újraindításról köteles a központi adatgyűjtő és feldolgozó rendszert működtető engedélyest tájékoztatni.
+
 (2) A szolgáltatás nyújtása csak a kizárás alapjául szolgáló helyzet fennállásáig függeszthető fel, annak megszűnését követően a felhasználó részére a földgázelosztási szolgáltatást a megszűnés tényéről való tudomásszerzéstől számított 2 munkanapon – lakossági fogyasztó esetében 24 órán – belül biztosítani kell.
 
 (3) A földgázelosztó a felhasználási helyre való bejutás érdekében a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalához (a továbbiakban: járási hivatal) fordulhat, amennyiben a felhasználó akadályozza vagy meghiúsítja:
@@ -275,13 +280,16 @@ végzi.
 
 a tűrésére és együttműködésre vonatkozó kötelezettséget állapíthat meg.
 
-17. § (1) A földgázelosztó az e törvény rendelkezéseinek végrehajtásáról szóló jogszabályban meghatározottak szerint nyilvántartja az elosztóvezetékről vételező felhasználási helyek azonosítóit, fogyasztásmérő berendezése adatait, mérési és elszámolási adatait, valamint kapacitás adatait, amelyeket a felhasználási helyen vételező felhasználó vagy az általa megnevezett földgázkereskedő kérésére köteles átadni.
+17. § (1) A földgázelosztó az e törvény rendelkezéseinek végrehajtásáról szóló jogszabályban meghatározottak szerint nyilvántartja az elosztóvezetékről vételező felhasználási helyek azonosítóit, fogyasztásmérő berendezése adatait, mérési adatait és kapacitás adatait, amelyeket a felhasználási helyen vételező felhasználó kérésére köteles az e törvény rendelkezéseinek végrehajtásáról szóló jogszabályban meghatározottak szerint átadni.
 
 (1a) A földgázelosztó az (1) bekezdés szerinti adatokat – ide nem értve a vásárolt kapacitás adatokat – és az átszámításhoz szükséges adatokat az e törvény végrehajtására kiadott jogszabályokban meghatározott módon és formában köteles megküldeni a központi adatgyűjtő és feldolgozó rendszert működtető engedélyesnek.
 
 (1b) A központi adatgyűjtő és feldolgozó rendszert működtető engedélyes az e törvény rendelkezéseinek végrehajtásáról szóló jogszabályban meghatározottak szerint nyilvántartja a földgázelosztó által megküldött adatokat, a felhasználási hely elszámolási adatait és az annak kiszámításához szükséges adatokat.
 
-(2) A felhasználó hozzájáruló nyilatkozatával rendelkező földgázkereskedő részére a földgázelosztó köteles a felhasználó mérési adatait átadni.
+(2) A központi adatgyűjtő és feldolgozó rendszert működtető engedélyes köteles a felhasználó mérési és elszámolási adatait az e törvény rendelkezéseinek végrehajtásáról szóló jogszabályban meghatározottak szerint átadni
+
+- a) a felhasználó részére a földgázelosztó közreműködésével vagy
+- b) a felhasználó hozzájáruló nyilatkozatával rendelkező földgázkereskedő és a saját jogon eljáró felhasználó részére.
 
 (3) A felhasználó személyében történő változás esetén a földgázelosztó köteles jegyzőkönyvben rögzíteni a fogyasztásmérő berendezés állását és a mérőberendezés, illetve a zárópecsétek (plomba) szemrevételezéssel megállapított állapotát, és ennek egy példányát az új felhasználó, továbbá elektronikus úton a felhasználót ellátó földgázkereskedő, valamint a központi adatgyűjtő és feldolgozó rendszert működtető engedélyes részére megküldeni.
 
@@ -301,7 +309,14 @@ a tűrésére és együttműködésre vonatkozó kötelezettséget állapíthat 
 
 (2) A központi adatgyűjtő és feldolgozó rendszert működtető engedélyesnek meg kell felelnie a földgázelosztóra vonatkozó, XIII. fejezetben meghatározott szétválasztási szabályoknak.
 
-(3) A központi adatgyűjtő és feldolgozó rendszert működtető engedélyes főbb feladata az elosztóvezetékhez közvetlenül csatlakozó felhasználók, valamint a telephelyi vezetékhez közvetlenül csatlakozó, a földgázt közvetlenül földgázkereskedőtől beszerző telephelyi felhasználók felhasználási helye azonosítóinak, fogyasztásmérő berendezése adatainak, elszámolási mérési adatainak, lekötött kapacitás adatainak, elszámolási adatainak és az elszámolási adatok kiszámításához szükséges adatoknak, a felhasználót ellátó földgázkereskedő feltüntetésével együtt, az Üzemi és Kereskedelmi Szabályzatban meghatározottak szerinti nyilvántartása.
+(3) A központi adatgyűjtő és feldolgozó rendszert működtető engedélyes főbb feladatai az elosztóvezetékhez közvetlenül csatlakozó felhasználók, valamint a telephelyi vezetékhez közvetlenül csatlakozó, a földgázt közvetlenül földgázkereskedőtől beszerző telephelyi felhasználók vonatkozásában:
+
+- a) a felhasználási hely azonosítóinak, fogyasztásmérő berendezés adatainak, elszámolási mérési adatoknak, lekötött kapacitás adatoknak, elszámolási adatoknak és az elszámolási adatok kiszámításához szükséges adatoknak, a felhasználót ellátó földgázkereskedő feltüntetésével együtt, az Üzemi és Kereskedelmi Szabályzatban meghatározottak szerinti nyilvántartása,
+- b) a földgázfelhasználás felhasználási hely egyedi azonosítónkénti (POD) mennyiségekre történő felosztása,
+- c) a mérőleolvasás alapján meghatározott tényleges fogyasztás és felhasználási hely egyedi azonosítónként felosztott földgáz vételezés közötti különbség meghatározása és továbbítása a földgázelosztó, valamint a rendszerhasználók felé,
+- d) a mérési és az elszámolási adatok szolgáltatása a felhasználók és a felhasználó hozzájáruló nyilatkozatával rendelkező földgázkereskedő részére.
+
+(3a) A központi adatgyűjtő és feldolgozó rendszert működtető engedélyes korrekciós elszámolásához kapcsolódó földgáz adásvétele nem minősül e törvény szerinti földgáz-kereskedelemnek.
 
 (4) A központi adatgyűjtő és feldolgozó rendszert működtető engedélyes köteles az üzleti titoknak minősülő információk bizalmas kezelését az e törvényben előírtak szerint biztosítani. A központi adatgyűjtő és feldolgozó rendszert működtető engedélyes tevékenységének a piaci szereplők számára átláthatónak és diszkriminációmentesnek kell lennie.
 
@@ -313,7 +328,7 @@ a tűrésére és együttműködésre vonatkozó kötelezettséget állapíthat 
 
 (8) A központi adatgyűjtő és feldolgozó rendszert a magyar állam közvetlen vagy közvetett, kizárólagos tulajdonában lévő zártkörűen működő részvénytársaság működteti. A társaság átalakulásához, megszüntetéséhez, a központi adatgyűjtő és feldolgozó rendszer működtetését érintő vagyonelemeinek megterheléséhez vagy biztosítékul való lekötéséhez, elidegenítéséhez a Hivatal előzetes hozzájárulása szükséges.
 
-(9) A központi adatgyűjtő és feldolgozó rendszert működtető engedélyes az általános biztonsági, minőségi, műszaki, informatikai és adatvédelmi előírásainak szabályozására köteles szabályzatot készíteni. A központi adatgyűjtő és feldolgozó rendszer szabályzatát a Hivatal hagyja jóvá.
+(9) A központi adatgyűjtő és feldolgozó rendszert működtető engedélyes az általa nyújtott szolgáltatások általános biztonsági, minőségi, műszaki, informatikai és adatvédelmi előírásainak szabályozására, az elszámolási adatok meghatározására vonatkozó részletes szabályokra, valamint a részére fizetendő díjak elszámolási és fizetési szabályainak meghatározására köteles szabályzatot készíteni. A központi adatgyűjtő és feldolgozó rendszer szabályzatát a Hivatal hagyja jóvá.
 
 (10) A központi adatgyűjtő és feldolgozó rendszer működtetésére vonatkozó részletes szabályokat az e törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet, az Üzemi és Kereskedelmi Szabályzat, valamint a központi adatgyűjtő és feldolgozó rendszer szabályzata tartalmazza.
 
@@ -437,7 +452,7 @@ a tűrésére és együttműködésre vonatkozó kötelezettséget állapíthat 
 - c) munkaszüneti napot vagy ünnepnapot közvetlenül megelőző munkanapon,
 - d) külön jogszabályban meghatározott pihenőnapon.
 
-(5) Ha a földgázellátásból kikapcsolt felhasználó rendezi valamennyi lejárt tartozását és a földgáz rendszerüzemeltetők és egyetemes szolgáltatók által külön díj ellenében végezhető, valamint ingyenesen biztosítandó szolgáltatásokról szóló rendeletben (a továbbiakban: külön díj rendelet) meghatározott külön díjat (a továbbiakban: külön díj) is megfizeti, a földgázkereskedő annak tudomására jutását követően legkésőbb 24 órán belül köteles kezdeményezni a felhasználónak az ellátásba történő ismételt bekapcsolását, e kötelezettség elmulasztása a földgázkereskedő részéről súlyos szerződésszegésnek minősül.
+(5) Ha a földgázellátásból kikapcsolt felhasználó rendezi valamennyi lejárt tartozását és a 106. § (3) bekezdés szerinti határozatban és a 106/A. § (1) bekezdés szerinti rendeletben meghatározott külön díjat (a továbbiakban: külön díj) is megfizeti, a földgázkereskedő annak tudomására jutását követően legkésőbb 24 órán belül köteles kezdeményezni a felhasználónak az ellátásba történő ismételt bekapcsolását, e kötelezettség elmulasztása a földgázkereskedő részéről súlyos szerződésszegésnek minősül.
 
 (6) A földgázelosztó az (5) bekezdés szerinti kezdeményezésnek köteles az azt követő munkanapon eleget tenni.
 
@@ -451,7 +466,7 @@ a tűrésére és együttműködésre vonatkozó kötelezettséget állapíthat 
 
 (2) Az (1) bekezdés b) és c) pontja szerinti esetben a távhőtermelő engedélyes első értesítése postai vagy elektronikus úton, második értesítése tértivevényes levélben vagy a távhőtermelő engedélyes általi átvétel igazolására alkalmas egyéb módon történik. Az első és második értesítés elküldése között legalább 15 napnak el kell telnie.
 
-(3) Ha a földgázellátásból kikapcsolt távhőtermelő engedélyes rendezi valamennyi lejárt tartozását és a külön díj ellenében végezhető szolgáltatásokról szóló rendeletben meghatározott egyéb költségeket is megfizeti, a földgázkereskedő legkésőbb a lejárt tartozások és költségek megfizetésétől számított 24 órán belül köteles kezdeményezni a távhőtermelő engedélyes ellátásba történő ismételt bekapcsolását, e kötelezettség elmulasztása a földgázkereskedő részéről súlyos szerződésszegésnek minősül. A földgázelosztó a földgázkereskedő bekapcsolásra irányuló kezdeményezéséről való tudomásszerzéstől számított 24 órán belül biztosítja a földgázelosztási szolgáltatást.
+(3) Ha a földgázellátásból kikapcsolt távhőtermelő engedélyes rendezi valamennyi lejárt tartozását és a 106. § (3) bekezdés szerinti határozatban meghatározott egyéb költségeket is megfizeti, a földgázkereskedő legkésőbb a lejárt tartozások és költségek megfizetésétől számított 24 órán belül köteles kezdeményezni a távhőtermelő engedélyes ellátásba történő ismételt bekapcsolását, e kötelezettség elmulasztása a földgázkereskedő részéről súlyos szerződésszegésnek minősül. A földgázelosztó a földgázkereskedő bekapcsolásra irányuló kezdeményezéséről való tudomásszerzéstől számított 24 órán belül biztosítja a földgázelosztási szolgáltatást.
 
 (4) A földgázelosztóval szemben fennálló (1) bekezdés szerinti fizetési késedelem esetén a földgázelosztási szolgáltatásból történő kikapcsolásra az (1)–(3) bekezdés rendelkezéseit kell megfelelően alkalmazni azzal, hogy a földgázelosztónak a lejárt tartozás megfizetésétől számított 24 órán belül biztosítania kell a földgázelosztási szolgáltatást.
 
@@ -461,13 +476,13 @@ a tűrésére és együttműködésre vonatkozó kötelezettséget állapíthat 
 
 ### Kereskedőváltás
 
-31/A. § (1) Ha a felhasználó földgázkereskedőt kíván váltani, annak lebonyolítását az engedélyesek térítésmentesen végzik, és azzal összefüggésben a földgázkereskedő és a rendszerüzemeltető a felhasználónak díjat nem számíthat fel. A kereskedőváltás lebonyolítása céljából a felhasználó megbízása alapján az a földgázkereskedő is eljárhat, akivel a felhasználó az új földgáz-kereskedelmi szerződést megköti.
+31/A. § (1) Ha a felhasználó földgázkereskedőt kíván váltani, annak lebonyolítását az engedélyesek térítésmentesen végzik, és azzal összefüggésben díjat nem számíthatnak fel. A kereskedőváltás lebonyolítása céljából a felhasználó megbízása alapján az a földgázkereskedő is eljárhat, akivel a felhasználó az új földgáz-kereskedelmi szerződést megköti.
 
 (2) A felhasználó a földgáz-kereskedelmi szerződését az abban meghatározott feltételek szerint – a (3) bekezdésre figyelemmel – írásban felmondhatja. A felhasználó földgáz-kereskedelmi szerződésének kereskedőváltás miatti felmondása az elosztóhálózat-használati szerződés hatályát nem érinti.
 
 (3) Az egyetemes szolgáltatást igénybe vevő felhasználó a határozatlan időtartamra kötött egyetemes szolgáltatási szerződést 30 napos felmondási idővel, írásban mondhatja fel.
 
-(4) Az egyetemes szolgáltatásra jogosult felhasználó felmondási jogát időben korlátozó vagy kizáró szerződési kikötés semmis. A felhasználó és a földgázkereskedő az e törvény és a végrehajtásáról szóló kormányrendeletben, valamint a földgázkereskedő üzletszabályzatában rögzített feltételek betartásával a felmondás feltételeiben megállapodhat, ha az nem befolyásolja az érintett rendszerüzemeltető e törvényben és a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározott, kereskedőváltással kapcsolatos kötelezettségei teljesítését.
+(4) Az egyetemes szolgáltatásra jogosult felhasználó felmondási jogát időben korlátozó vagy kizáró szerződési kikötés semmis. A felhasználó és a földgázkereskedő az e törvény és a végrehajtásáról szóló kormányrendeletben, valamint a földgázkereskedő üzletszabályzatában rögzített feltételek betartásával a felmondás feltételeiben megállapodhat, ha az nem befolyásolja az érintett rendszerüzemeltető vagy a központi adatgyűjtő és feldolgozó rendszert működtető engedélyes e törvényben és a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározott, kereskedőváltással kapcsolatos kötelezettségei teljesítését.
 
 31/B. § (1) A földgázkereskedő köteles a felhasználó és – ha a felhasználó megbízásából az új földgázkereskedő jár el – az új földgázkereskedő részére a felmondás kézhezvételtől számított 5 napon belül írásban értesítést küldeni
 
@@ -478,17 +493,21 @@ a tűrésére és együttműködésre vonatkozó kötelezettséget állapíthat 
 
 (3) Ha a felhasználó önállóan jár el, köteles az (1) bekezdés a) pontja szerinti értesítést a korábbi kereskedő által kibocsátott utolsó számla másolatával együtt a kézhezvételt követően az új földgázkereskedőnek megfelelő időben eljuttatni a földgázkereskedő (4) bekezdés szerinti kötelezettsége teljesítése érdekében.
 
-(4) A korábbi földgázkereskedő az (1) bekezdés a) pontja szerinti visszaigazolással egyidejűleg köteles az érintett rendszerüzemeltetőnél és a központi adatgyűjtő és feldolgozó rendszert működtető engedélyesnél vagy a szállítási rendszerüzemeltetőnél bejelenteni az e törvény végrehajtásáról szóló kormányrendeletben meghatározottak szerint a kereskedőváltást és a földgáz-kereskedelmi szerződés megszűnésének időpontját. Az új földgázkereskedő az (1) bekezdés a) pontja szerinti visszaigazolás kézhezvételét követően haladéktalanul, de a földgáz-kereskedelmi szerződés megszűnésének időpontját legalább 21 nappal megelőzően az érintett rendszerüzemeltető és a központi adatgyűjtő és feldolgozó rendszert működtető engedélyes vagy szállítóvezetékről közvetlenül vételező felhasználó esetében a szállítási rendszerüzemeltető részére bejelenti az új földgáz-kereskedelmi szerződés hatálybalépésének időpontját, továbbá a felhasználási hely egyedi azonosító számának alkalmazásával kezdeményezi a rendszerhasználati szerződés megkötését vagy módosítását. A rendszerüzemeltető köteles a kereskedőváltással kapcsolatos rendszerhasználati szerződések megkötését vagy módosítását legkésőbb a földgáz-kereskedelmi szerződés megszűnésének időpontját megelőző 4. napig elvégezni, és a kapacitásadatokról a szállítórendszeri kapacitások átadás-átvételének határideje előtti munkanapig a rendszerhasználó és a központi adatgyűjtő és feldolgozó rendszert működtető engedélyes részére tájékoztatást nyújtani, amely határidőről a szállítási rendszerüzemeltető értesíti a rendszerhasználókat, földgázelosztókat és a központi adatgyűjtő és feldolgozó rendszert működtető engedélyest.
+(4) A korábbi földgázkereskedő az (1) bekezdés a) pontja szerinti visszaigazolással egyidejűleg köteles a központi adatgyűjtő és feldolgozó rendszert működtető engedélyesnél vagy szállítóvezetékről közvetlenül vételező felhasználó esetében a szállítási rendszerüzemeltetőnél bejelenteni az e törvény végrehajtásáról szóló kormányrendeletben meghatározottak szerint a kereskedőváltást és a földgáz-kereskedelmi szerződés megszűnésének időpontját. Az új földgázkereskedő az (1) bekezdés a) pontja szerinti visszaigazolás kézhezvételét követően haladéktalanul, de a földgáz-kereskedelmi szerződés megszűnésének időpontját legalább 21 nappal megelőzően a központi adatgyűjtő és feldolgozó rendszert működtető engedélyes vagy szállítóvezetékről közvetlenül vételező felhasználó esetében a szállítási rendszerüzemeltető részére bejelenti az új földgáz-kereskedelmi szerződés hatálybalépésének időpontját.
 
-(4c) A (4) bekezdésben előírt bejelentési, tájékoztatási és értesítési kötelezettséget szállítóvezetékre közvetlenül csatlakozó felhasználó esetén kizárólag az érintett szállítási rendszerüzemeltető felé kell teljesíteni.
+(4a) A központi adatgyűjtő és feldolgozó rendszert működtető engedélyes a (4) bekezdés szerinti bejelentés kézhezvételét követően haladéktalanul értesíti az érintett földgázelosztót a kereskedőváltásról, megjelölve a felhasználási hely egyedi azonosító számát, az érintett rendszerhasználókat és az új földgáz-kereskedelmi szerződés hatálybalépésének időpontját.
+
+(4b) A rendszerüzemeltető köteles a kereskedőváltással kapcsolatos rendszerhasználati szerződések megkötését vagy módosítását legkésőbb a földgáz-kereskedelmi szerződés megszűnésének időpontját megelőző 4. napig elvégezni, és a kapacitásadatokról a szállítórendszeri kapacitások átadás-átvételének határideje előtti munkanapig a rendszerhasználó és a központi adatgyűjtő és feldolgozó rendszert működtető engedélyes részére tájékoztatást nyújtani, amely határidőről a szállítási rendszerüzemeltető értesíti a rendszerhasználókat, a földgázelosztót és a központi adatgyűjtő és feldolgozó rendszert működtető engedélyest.
+
+(4c) A (4) bekezdésben előírt bejelentési és a (4b) bekezdésben előírt tájékoztatási és értesítési kötelezettséget szállítóvezetékre közvetlenül csatlakozó felhasználó esetén kizárólag az érintett szállítási rendszerüzemeltető felé kell teljesíteni.
 
 (5) Kereskedőváltás esetén az érintett földgázkereskedők az e törvény végrehajtásáráról szóló kormányrendeletben meghatározottak szerint egyeztetnek a rendszerüzemeltetőkkel a felhasználó ellátása érdekében lekötött gázátadó állomási és elosztói kiadási ponti kapacitások földgázkereskedők közötti átadásának részletes feltételeiről. Az engedélyesek kötelesek az egyeztetéseket úgy lefolytatni, hogy a kereskedőváltás az igénybejelentéstől számított legkésőbb 30 napon belül megtörténjen. Az egyeztetések eredménytelensége esetén a felhasználó a Hivatalhoz fordulhat, és kezdeményezheti a kapacitásátadásról történő döntést. A Hivatal 15 napon belül dönt a kapacitáslekötésekről.
 
-31/C. § (1) Az érintett rendszerüzemeltető köteles a földgázellátásról szóló törvény végrehajtásáról szóló kormányrendeletben a kereskedőváltással kapcsolatban meghatározott feladatait a földgáz-kereskedelmi szerződés megszűnésének időpontjáig teljesíteni. A földgáz-kereskedelmi szerződés megszűnésétől számított 20 napon belül a korábbi földgázkereskedő a felhasználóval és az új földgázkereskedővel egyeztetve köteles végszámlát kibocsátani. A kereskedőváltással érintett földgázkereskedők és a felhasználó kötelesek egymással és az érintett rendszerüzemeltetőkkel együttműködni.
+31/C. § (1) Az érintett rendszerüzemeltető és a központi adatgyűjtő és feldolgozó rendszert működtető engedélyes köteles a földgázellátásról szóló törvény végrehajtásáról szóló kormányrendeletben a kereskedőváltással kapcsolatban meghatározott feladatait a földgáz-kereskedelmi szerződés megszűnésének időpontjáig teljesíteni. A földgáz-kereskedelmi szerződés megszűnésétől számított 20 napon belül a korábbi földgázkereskedő a felhasználóval és az új földgázkereskedővel egyeztetve köteles végszámlát kibocsátani. A kereskedőváltással érintett földgázkereskedők és a felhasználó kötelesek egymással és az érintett rendszerüzemeltetőkkel, valamint a kereskedőváltással érintett földgázkereskedők és az érintett rendszerüzemeltetők a központi adatgyűjtő és feldolgozó rendszert működtető engedélyessel együttműködni.
 
 (2) A határozott időre kötött földgáz-kereskedelmi szerződés megszűnése esetén – ha a felhasználó a földgáz-kereskedelmi szerződés megszűnésének napját követő napi hatállyal másik földgázkereskedővel szerződést köt – akkor a kereskedőváltásnak a határozott idejű szerződés megszűnését követő nappal történő végrehajtása érdekében az új szerződés megkötését legalább a határozott idejű szerződés megszűnését 30 nappal megelőzően köteles a földgázkereskedőnek bejelenteni. Ebben az esetben a 31/A. § (1) és (4) bekezdése, a 31/B. § (1) bekezdés a) pontja, (3) és (4) bekezdése, valamint a 31/C. § (1) bekezdése szerinti rendelkezéseket kell alkalmazni azzal, hogy a 31/B. § (1) bekezdés a) pontjában a felmondás visszaigazolása alatt az e bekezdés szerinti bejelentést kell érteni.
 
-(3) Ha a felhasználó a (2) bekezdés szerinti határidőt elmulasztja, a földgázkereskedő és a rendszerüzemeltető – a 31/A–31/C. § szerinti határidők betartása esetén – nem felel azért, hogy a kereskedőváltás a határozott idejű földgáz-kereskedelmi szerződés megszűnését követő nappal nem kerül végrehajtásra.
+(3) Ha a felhasználó a (2) bekezdés szerinti határidőt elmulasztja, a földgázkereskedő, a központi adatgyűjtő és feldolgozó rendszert működtető engedélyes és a rendszerüzemeltető – a 31/A–31/C. § szerinti határidők betartása esetén – nem felel azért, hogy a kereskedőváltás a határozott idejű földgáz-kereskedelmi szerződés megszűnését követő nappal nem kerül végrehajtásra.
 
 (4) Ha az egyetemes szolgáltatásra jogosult nem lakossági fogyasztó földgáz-kereskedelmi szerződése megszűnését követően ismét egyetemes szolgáltatást kíván igénybe venni, az egyetemes szolgáltató jogosult a felhasználótól a földgázkereskedő arra vonatkozó igazolását kérni, hogy a földgáz-kereskedelmi szerződése nem a nemfizetésből eredő kikapcsolás miatt szűnt meg. A földgázkereskedő köteles az igazolást – a feltételek fennállása esetén – az egyetemes szolgáltatásra jogosult nem lakossági fogyasztó kérésére kiállítani.
 
@@ -1012,7 +1031,7 @@ földgázrendszerhez való hozzáférés
 
 72. § (1) A rendszerüzemeltető a rendszerhasználó részére a rendszerhez való hozzáférést a kapacitáslekötéssel érintett időszakra rendszerhasználati szerződés alapján biztosítja.
 
-(2) A rendszerhasználó a rendszerhasználati szerződés megkötését követően jogosult a betáplálási-kiadási pont vagy a földgáztároló lekötött kapacitásait, valamint az összekapcsolási pont technikai kapacitásait a rendszerhasználati szerződésben foglaltak szerint igénybe venni. A rendszerhasználó köteles a lekötött kapacitás után a Hivatal elnökének rendeletében meghatározott rendszerhasználati díjat megfizetni.
+(2) A rendszerhasználó a rendszerhasználati szerződés megkötését követően jogosult a betáplálási-kiadási pont vagy a földgáztároló lekötött kapacitásait, valamint az összekapcsolási pont technikai kapacitásait a rendszerhasználati szerződésben foglaltak szerint igénybe venni. A rendszerhasználó köteles a lekötött kapacitás után a Hivatal határozatában meghatározott rendszerhasználati díjat megfizetni.
 
 (3) Elosztóvezetékhez csatlakozó felhasználó részére az adott felhasználási helyen legfeljebb a felhasználási hely vásárolt kapacitásának mértékéig köthető le kapacitás. A szállítóvezetékhez csatlakozó felhasználó részére az érintett gázátadó állomáson mint kiadási ponton legfeljebb a felhasználási hely vásárolt kapacitásának mértékéig köthető le kapacitás.
 
@@ -1023,6 +1042,8 @@ földgázrendszerhez való hozzáférés
 (5a) Az elosztóvezetékhez közvetlenül csatlakozó felhasználó, valamint a telephelyi vezetékhez közvetlenül csatlakozó, a földgázt közvetlenül földgázkereskedőtől beszerző telephelyi felhasználó által lekötött kapacitás adatait a földgázelosztó köteles a központi adatgyűjtő és feldolgozó rendszert működtető engedélyes részére megküldeni.
 
 (6) A felhasználó kérésére a vásárolt kapacitásról, a lekötött kapacitásról, a felhasználói profilba történő besorolásról, továbbá a felhasználási hely – e törvény végrehajtásáról szóló kormányrendeletben meghatározott – jellemző adatairól a felhasználó csatlakozását biztosító rendszerüzemeltető köteles igazolást kiadni.
+
+(6a) A saját jogon eljáró felhasználó vagy a felhasználó hozzájáruló nyilatkozatával rendelkező földgázkereskedő kérésére – ide nem értve a szállítóvezetékhez közvetlenül csatlakozó felhasználót vagy ezen felhasználó hozzájáruló nyilatkozatával rendelkező földgázkereskedőt – a lekötött kapacitásról, a felhasználói profilba történő besorolásról, továbbá a felhasználási hely – e törvény végrehajtásáról szóló kormányrendeletben meghatározott – jellemző adatairól a központi adatgyűjtő és feldolgozó rendszert működtető engedélyes köteles igazolást kiadni.
 
 (7) A saját jogon eljáró felhasználó a betáplálási-kiadási ponton a saját földgáz felhasználása mértékéig kapacitást köthet le. Ha a felhasználó ezen kapacitáslekötési jogát átadta a földgázkereskedő részére, akkor a felhasználó rendszerhasználati szerződés megkötésére, valamint a betáplálási-kiadási ponton kapacitás lekötésére nem jogosult.
 
@@ -1219,7 +1240,7 @@ földgázrendszerhez való hozzáférés
 
 86. § (1) A rendszerüzemeltető – a szállító- és az elosztóvezetékek, valamint a tárolók együttműködése és az ahhoz való hozzáférés biztosítása érdekében – köteles az általa üzemeltetett szállító- és elosztóvezeték, valamint a tároló biztonságos, hatékony, zavartalan működtetéséről, karbantartásáról, fejlesztéséről, üzemeltetéséről a Hivatal által megállapított üzembiztonsági és a környezetvédelmi követelmények figyelembevételével gondoskodni, a tevékenységét átlátható módon, befolyásmentesen és az egyenlő bánásmód követelményének betartása mellett végezni. Az engedélyesek tevékenységére és a kapacitáslekötésre vonatkozó részletes szabályokat külön jogszabály tartalmazza.
 
-(2) Az együttműködő földgázrendszer egyensúlyának biztosítása érdekében a rendszerüzemeltetők kötelesek egymással és a rendszerhasználókkal folyamatosan együttműködni. Az együttműködés részletes szabályait külön jogszabály határozza meg.
+(2) Az együttműködő földgázrendszer egyensúlyának biztosítása érdekében a rendszerüzemeltetők, a központi adatgyűjtő és feldolgozó rendszert működtető engedélyes és a rendszerhasználók folyamatosan kötelesek együttműködni. Az együttműködés részletes szabályait külön jogszabály határozza meg.
 
 (3) A földgáz szagosítására vonatkozó rendelkezéseket külön jogszabály tartalmazza.
 
@@ -1304,7 +1325,7 @@ földgázrendszerhez való hozzáférés
 
 (3) A szállítási rendszerüzemeltető a hidraulikai egyensúly biztosításához saját egyensúlyozó eszközöket, a kereskedési platformról, az egyensúlyozó platformról és a szervezett földgázpiacról beszerzett vagy ott értékesített földgázmennyiségeket, továbbá más, az Üzemi és Kereskedelmi Szabályzatban meghatározott, átlátható módon beszerzett rendszeregyensúlyozási szolgáltatásokat vehet igénybe, valamint újranominálással vagy korlátozással élhet az egyensúly fenntartásához szükséges mértékig.
 
-(4) Az együttműködő földgázrendszer egyensúlyának biztosítása érdekében a szállítási rendszerirányító, a rendszerüzemeltetők és a rendszerhasználók folyamatosan együttműködnek.
+(4) Az együttműködő földgázrendszer egyensúlyának biztosítása érdekében a szállítási rendszerirányító, a rendszerüzemeltetők, a központi adatgyűjtő és feldolgozó rendszert működtető engedélyes és a rendszerhasználók folyamatosan együttműködnek.
 
 (5) Az egyensúlytartásra alkalmazott szabályoknak meg kell felelniük az objektivitás, átláthatóság és megkülönböztetés-mentesség elvének.
 
@@ -1535,7 +1556,18 @@ lehet igénybe venni.
 
 kiállított számla érvénytelen.
 
-(2) A szállítási rendszerüzemeltető és a földgázelosztó – a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben, üzletszabályzatban vagy a földgázkereskedővel kötött egyedi megállapodásban rögzített módon – gondoskodik a kereskedelmi számlakiállítás alapjául szolgáló – kezdő és záró mérőállást is tartalmazó – fogyasztási adatok összegyűjtéséről, a szükséges átszámítások és korrekciók elvégzéséről, és az adatoknak az Üzemi és Kereskedelmi Szabályzat szerinti tartalommal és formában az érintett földgázkereskedőnek történő továbbításáról. A mérési adatokat a földgázkereskedő – természetes személy esetén az információs önrendelkezési jogról és az információszabadságról szóló törvény rendelkezései szerint – az érintett felhasználó számára külön díj rendeletben meghatározottak szerint köteles hozzáférhetővé tenni.
+(2) A szállítási rendszerüzemeltető és a földgázelosztó – az e törvény rendelkezéseinek végrehajtásáról szóló jogszabályokban rögzített módon és formában – gondoskodik a kereskedelmi számlakiállítás alapjául szolgáló, kezdő és záró mérőállást is tartalmazó mérési adatoknak és az elszámolási adatok kiszámításához szükséges adatoknak a rögzítéséről, és a szállítóvezetékhez közvetlenül kapcsolódó felhasználókra vonatkozó adatok kivételével a központi adatgyűjtő és feldolgozó rendszert működtető engedélyesnek történő megküldéséről.
+
+(2a) A központi adatgyűjtő és feldolgozó rendszert működtető engedélyes gondoskodik:
+
+- a) a (2) bekezdés alapján megküldött adatok nyilvántartásáról, valamint – figyelemmel a (2b) bekezdésben foglaltakra – az átszámítás és a korrekció e törvény végrehajtásáról szóló kormányrendeletben meghatározottak szerinti elvégzéséről, és a kiszámított elszámolási adatok nyilvántartásáról, és
+- b) a kereskedelmi számlakiállítás alapjául szolgáló, kezdő és záró mérőállást is tartalmazó elszámolási adatok e törvény végrehajtására kiadott jogszabályokban meghatározott módon és formában történő továbbításáról az érintett rendszerüzemeltetők és rendszerhasználók részére.
+
+(2b) A központi adatgyűjtő és feldolgozó rendszert működtető engedélyes a (2) bekezdés alapján megküldött adatok központi adatgyűjtő és feldolgozó rendszer szabályzatában meghatározott eljárásrend szerinti ellenőrzését követően elvégzi a szükséges számításokat, és az e törvény végrehajtására kiadott jogszabályokban és az Üzemi és Kereskedelmi Szabályzat szerinti módon és formában meghatározza az elszámolási adatokat.
+
+(2c) A mérési és az elszámolási adatokat a központi adatgyűjtő és feldolgozó rendszert működtető engedélyes az érintett felhasználó számára a földgázelosztó közreműködésével – természetes személy esetén az információs önrendelkezési jogról és az információszabadságról szóló törvényben előírtak szerint – az e törvény végrehajtásáról szóló kormányrendeletben meghatározott módon, a Hivatal elnökének rendeletében meghatározott díj ellenében köteles hozzáférhetővé tenni.
+
+(2d) A szállítási rendszerüzemeltető – a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben, üzletszabályzatban vagy a földgázkereskedővel kötött egyedi megállapodásban rögzített módon – gondoskodik a kereskedelmi számlakiállítás alapjául szolgáló – kezdő és záró mérőállást is tartalmazó – szállítóvezetékhez közvetlenül kapcsolódó felhasználókra vonatkozó fogyasztási adatok összegyűjtéséről, a szükséges átszámítások és korrekciók elvégzéséről, és az adatoknak az Üzemi és Kereskedelmi Szabályzat szerinti tartalommal és formában az érintett földgázkereskedőnek történő továbbításáról. A szállítóvezetékhez közvetlenül kapcsolódó felhasználók mérési adatait a földgázkereskedő – természetes személy esetén az információs önrendelkezési jogról és az információszabadságról szóló törvény rendelkezései szerint – az érintett felhasználó számára külön díj rendeletben meghatározottak szerint köteles hozzáférhetővé tenni.
 
 (3) Az elszámolás során a számlában fel kell tüntetni az adott elszámolási időszakra vonatkozóan a fogyasztásmérő berendezés által tárolt kezdő és záró mérőállást is.
 
@@ -1549,7 +1581,7 @@ kiállított számla érvénytelen.
 
 100/A. § (1) A felhasználó esedékes díjfizetési kötelezettségének elmulasztása miatt – a 29. § (3) bekezdése szerinti feltételek teljesülése esetén – a földgázkereskedő a földgázelosztónál kezdeményezheti előre fizető mérő felszerelését.
 
-(2) (2) A szállítási rendszerüzemeltető és a földgázelosztó – eltérő megállapodás hiányában – térítésmentesen köteles biztosítani és felszerelni
+(2) A szállítási rendszerüzemeltető és a földgázelosztó – eltérő megállapodás hiányában – térítésmentesen köteles biztosítani és felszerelni
 
 - a) a felhasználó számára a fogyasztásmérő berendezést, valamint
 - b) az egyetemes szolgáltatásra nem jogosult felhasználó számára
@@ -1570,20 +1602,21 @@ kiállított számla érvénytelen.
 
 - a) a 105. § (1) bekezdése szerinti rendszerhasználati díj – kivéve a 105/A. § (6) bekezdés szerinti tárgyalásos földgáztárolási díjat –,
 - b) a 108. § (1) bekezdése szerinti csatlakozási díj,
-- c) az egyetemes szolgáltató által a felhasználó vagy a rendszerhasználó igénye alapján végzett alapszolgáltatásokon túli egyéb szolgáltatások 106. § szerinti díja,
+- c) a 106. § és a 106/A. § szerinti külön díjak,
 - d) az egyetemes szolgáltatás 107. § (3) bekezdése szerinti ára
 - e) a 141. § (3) bekezdése, a 141/A. § és a 141/J. § szerinti felajánlási ár,
 - f) az 1998. január 1. előtt termelésbe állított szénhidrogén mezőkből termelt földgáz (a továbbiakban: hazai termelésű földgáz) ára az egyetemes szolgáltatás keretében földgázt vételező felhasználók ellátásához szükséges – miniszteri rendeletben meghatározott – mennyiség mértékéig,
 - g) a vezetékes PB-gáz szolgáltatás és a PB-gáz tartályban történő értékesítésének lakossági PB-gáz fogyasztó által fizetendő ára, valamint
 - h) a 11,5 kg-os töltettömegű palackos PB-gáz
   - ha) gázkiskereskedő részére történő értékesítésének ára, és
-  - hb) palackos PB-gáz fogyasztó részére történő értékesítésének ára.
+  - hb) palackos PB-gáz fogyasztó részére történő értékesítésének ára,
+- i) a központi adatgyűjtő és feldolgozó rendszert működtető engedélyes által a felhasználók igénye alapján végzett adatszolgáltatás 100. § (2c) bekezdése szerinti díjai.
 
 (2a) A földgázellátással összefüggésben
 
 - a) a rendszerhasználó és a rendszerüzemeltető a (2) bekezdés a) pontjában,
 - b) a leendő felhasználó, a felhasználó és a földgáztermelő a (2) bekezdés b) pontjában,
-- c) miniszteri rendeletben meghatározott személyek a (2) bekezdés c) pontjában,
+- c) miniszteri rendeletben, továbbá a Hivatal elnökének rendeletében meghatározott személy a (2) bekezdés c) pontjában,
 - d) az egyetemes szolgáltatás keretében ellátott felhasználó a (2) bekezdés d) pontjában,
 - e) az egyetemes szolgáltató és a földgázkereskedő a (2) bekezdés e) pontjában,
 - f) az egyetemes szolgáltató és a földgázellátásról szóló 2003. évi XLII. törvény szerinti közüzemi nagykereskedő forrásaival rendelkező földgázkereskedő (a továbbiakban: volt közüzemi nagykereskedő) a (2) bekezdés f) pontjában
@@ -1598,7 +1631,7 @@ foglalt árat vagy díjat köteles megfizetni.
 
 foglalt árat köteles megfizetni.
 
-(3) Az együttműködő földgázrendszer használatáért fizetendő 105. § (1) bekezdése szerinti díjakat a Hivatal elnöke rendeletben állapítja meg. A földgázkereskedő által a felhasználónak értékesített földgáz árát a felek megállapodása vagy a földgázkereskedő üzletszabályzata tartalmazza. Az egyetemes szolgáltatás keretében értékesített földgáz árát, a vételre felajánlott földgázforrás árát, mennyiségét, valamint az egyetemes szolgáltatás keretében földgázt vételező felhasználók, illetve a 141/C. § (2) bekezdése szerinti földgázkereskedő által ellátott, egyetemes szolgáltatásra jogosult felhasználók ellátásához szükséges mennyiség mértékéig a hazai termelésű földgáz árát, valamint a 141/C. § (5) bekezdése és a 141/J. § (8) bekezdése szerinti mennyiséget és árat, továbbá a 141/J. § (3) bekezdés b) pontja szerinti árelemeket a Hivatal javaslata alapján a miniszter rendeletben állapítja meg.
+(3) Az együttműködő földgázrendszer használatáért fizetendő 105. § (1) bekezdése szerinti díjakat a Hivatal határozatban állapítja meg. A földgázkereskedő által a felhasználónak értékesített földgáz árát a felek megállapodása vagy a földgázkereskedő üzletszabályzata tartalmazza. Az egyetemes szolgáltatás keretében értékesített földgáz árát, a vételre felajánlott földgázforrás árát, mennyiségét, valamint az egyetemes szolgáltatás keretében földgázt vételező felhasználók és a 141/J. § (8) bekezdése szerinti mennyiséget és árat, továbbá a 141/J. § (3) bekezdés b) pontja szerinti árelemeket a Hivatal javaslata alapján a miniszter rendeletben állapítja meg.
 
 (4) A távhőszolgáltatás versenyképesebbé tételéről szóló 2008. évi LXVII. törvény és a közművezetékek adójáról szóló 2012. évi CLXVIII. törvény (a továbbiakban együtt: Különadó törvények) szerint külön jövedelemadó, illetve közművezetékek után fizetendő adó (a továbbiakban együtt: különadó) fizetésére kötelezett termelő, valamint e törvény szerinti engedélyes a különadót nem háríthatja át a vele szerződésben állóra. Ebből következően a különadó az engedélyes, illetve a termelő által nyújtott termék vagy szolgáltatás árába közvetlenül vagy közvetve semmilyen formában nem számítható be, illetve külön nem számlázható ki. Az adókötelezettség terhét a Különadó törvények szerinti adóalany önállóan viseli.
 
@@ -1610,21 +1643,21 @@ foglalt árat köteles megfizetni.
 
 (2) A hatósági ár megállapítása történhet tételesen vagy a hatósági ár kiszámítására vonatkozó előírásokkal.
 
-(3) A hatósági árat – a 105. § (2) és (3) bekezdésében és a 108. § (1) bekezdésében foglalt eltérésekkel – alkalmazási feltételeivel együtt kell megállapítani.
+(3) A hatósági árhoz kapcsolódó áralkalmazási feltételeket a hatósági ár megállapítója rendeletben határozza meg.
 
 (4) A hatósági ár megállapítása hivatalból történik.
 
-(4a) Az engedélyesek az általuk alkalmazott hatósági árat az árat meghatározó rendelet kihirdetését követő három munkanapon belül kötelesek holnapjukon nyilvánosságra hozni.
+(4a) Az engedélyesek az általuk alkalmazott hatósági árat az árat meghatározó rendelet kihirdetését vagy az árat meghatározó határozat kézhezvételét követő három munkanapon belül kötelesek honlapjukon nyilvánosságra hozni.
 
 (5) A hatósági ár megállapításakor rendelkezni kell arról, hogy a hatósági árat mikortól kell alkalmazni. E rendelkezésnek visszamenőleges hatálya nem lehet.
 
 (6) A hatósági árnak a szerződés megkötését követően bekövetkező változása esetén a felek eltérő rendelkezése hiányában a megváltozott hatósági ár az érvényes szerződés részévé válik.
 
-(7) A hatósági árnál magasabb árat a szerződésben érvényesen kikötni nem lehet. Ha a felek az árban nem állapodtak meg, és a termékre vagy szolgáltatásra hatósági ár van érvényben, az utóbbi az irányadó. A hatósági ár az irányadó akkor is, ha a felek a hatósági árat megállapító jogszabály megsértésével más árban állapodtak meg.
+(7) A hatósági árnál magasabb árat a szerződésben érvényesen kikötni nem lehet. Ha a felek az árban nem állapodtak meg, és a termékre vagy szolgáltatásra hatósági ár van érvényben, az utóbbi az irányadó. A hatósági ár az irányadó akkor is, ha a felek a hatósági árat megállapító jogszabály vagy határozat megsértésével más árban állapodtak meg.
 
 (8) A hatósági ártól lefelé megkülönböztetés mentesen, előre nyilvánosságra hozott módon el lehet térni.
 
-(9)
+(9) A 103. § (2) bekezdés szerinti hatósági árakra vonatkozó előírások betartását a Hivatal ellenőrzi.
 
 104/A. § (1) A rendszerhasználati díj, a külön díjak, valamint a csatlakozási díj a Hivatal elnökének rendeletében meghatározott elemeinek szabályozása négyéves árszabályozási ciklusokkal történik.
 
@@ -1636,53 +1669,72 @@ foglalt árat köteles megfizetni.
 
 (5) A Hivatal az (1) és (2) bekezdés szerinti árszabályozási ciklus indulását megelőzően eszköz- és költség-felülvizsgálatot végez.
 
-105. § (1) Az együttműködő földgázrendszer használatért a földgáz rendszerhasználati díjak megállapításáról szóló rendeletben meghatározottak szerint
+104/B. § (1) A rendszerhasználati díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat a Hivatal elnöke rendeletben állapítja meg a következő árszabályozási ciklus kezdetét megelőző év május 15-ig. A rendszerhasználati díjak szabályozása az árszabályozási cikluson belül évenkénti ármegállapítással történik.
+
+(2) Az (1) bekezdés szerinti rendelet figyelembevételével a Hivatal az árszabályozási ciklus
+
+- a) induló árainak meghatározását megelőző eszköz- és költség-felülvizsgálatra és
+- b) az egyes éveire vonatkozó ármegállapítás rendszerére
+
+vonatkozóan módszertani útmutatót (a továbbiakban együtt: módszertani útmutatók) ad ki.
+
+(3) A Hivatal
+
+- a) a (2) bekezdés a) pontja szerinti módszertani útmutatót a következő árszabályozási ciklus kezdetét megelőző év május 15-ig,
+- b) a (2) bekezdés b) pontja szerinti útmutatót a következő árszabályozási ciklus kezdetét legalább 60 nappal megelőzően
+
+a honlapján közzéteszi.
+
+(4) A rendszerhasználati díjak mértékét a Hivatal – figyelemmel az (1) bekezdés szerinti rendeletre és a (2) bekezdés szerinti módszertani útmutatókra – határozatban állapítja meg, legkésőbb a díjak alkalmazhatósága előtt 45 nappal. A Hivatal a határozatát a díjak alkalmazhatósága előtt legalább 25 nappal a honlapján közzéteszi.
+
+(5) A rendszerhasználati díjak fizetésére kötelezettek körét és a rendszerhasználati díjak alkalmazásának feltételeit a Hivatal elnöke rendeletben állapítja meg, amely rendelet kihirdetése és hatálybalépése között legalább 45 napnak el kell telnie.
+
+(6) Az (1) és (5) bekezdések szerinti rendeletek, valamint a módszertani útmutatók előkészítése során a Hivatal kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleteinek véleményét.
+
+105. § (1) Az együttműködő földgázrendszer használatért a 104/B. § (1) bekezdése szerinti rendeletben meghatározottak szerint
 
 - a) szállítási rendszerüzemeltetési díjat,
 - b) földgázelosztási díjat,
-- c) földgáztárolási díjat, és
-- d) rendszerirányítási díjat
-- e) földgáz elszámolási díjat (a továbbiakban együtt: rendszerhasználati díjak) kell fizetni. Az egyes rendszerhasználati díjak a díj alapjául szolgáló költségszerkezetnek megfelelő díjelemekből állhatnak.
+- c) elosztási átszállítási díjat,
+- d) földgáztárolási díjat és
+- e) földgáz elszámolási díjat
 
-(2) A rendszerhasználati díjak meghatározására és szabályozására vonatkozó keretszabályokat a Hivatal előterjesztése alapján a miniszter rendeletben állapítja meg.
+(a továbbiakban együtt: rendszerhasználati díjak) kell fizetni. Az egyes rendszerhasználati díjak a díj alapjául szolgáló költségszerkezetnek megfelelő díjelemekből állhatnak.
 
-(3) Az (1) bekezdés a), c) d) és e) pontjai szerinti díjak országosan egységes mértékűek, azokat és alkalmazásuk szabályait a Hivatal elnöke rendeletben állapítja meg. Az (1) bekezdés b) pontja szerinti díj mértékét és alkalmazásának szabályait a Hivatal elnöke rendeletben, a földgáz rendszerhasználat árszabályozásának kereteiről szóló jogszabályban meghatározott módon, földgázelosztónként állapítja meg. A Hivatal elnöke rendeletének a kihirdetése és a hatálybalépése között legalább 15 napnak el kell telnie.
+(2) Az (1) bekezdés a), d) és e) pontjai szerinti díjak országosan egységes mértékűek. Az (1) bekezdés b) és c) pontja szerinti díj mértéke földgázelosztónként kerül megállapításra.
 
-(4) A rendszerhasználati díjaknak, a csatlakozási díjnak és a külön díj ellenében végezhető szolgáltatások díjainak meg kell felelniük az átláthatóság, a nyilvánosság, és az arányosság elvének, valamint azokat objektív módon, megkülönböztetés nélkül kell alkalmazni. Nem sérti a megkülönböztetés-mentesség elvét az, ha az egyetemes szolgáltatásra jogosult felhasználók az önálló érdekérvényesítő képesség terén fennálló, a többi felhasználóhoz képest hátrányosabb helyzetének ellensúlyozása érdekében a rendszerhasználati díjak az egyetemes szolgáltatásra jogosult felhasználók részére differenciáltan kerülnek meghatározásra.
+(3) A rendszerhasználati díjaknak, a csatlakozási díjnak és a külön díj ellenében végezhető szolgáltatások díjainak meg kell felelniük az átláthatóság, a nyilvánosság és az arányosság elvének, valamint azokat objektív módon, megkülönböztetés nélkül kell alkalmazni.
 
-(5) A rendszerhasználati díjakat a hatékonyan működő engedélyes vállalkozások indokolt működési és tőkeköltsége, illetve összehasonlító elemzések alapján a legkisebb költség elvének érvényre juttatásával úgy kell meghatározni, hogy az érintett engedélyeseket rövid- és hosszútávon gazdálkodásuk hatékonyságának, és az általuk nyújtott szolgáltatás minőségének folyamatos javítására és az ellátásbiztonság növelésére ösztönözze.
+(4) A rendszerhasználati díjakat a hatékonyan működő engedélyes vállalkozások indokolt működési és tőkeköltsége, illetve összehasonlító elemzések alapján a legkisebb költség elvének érvényre juttatásával úgy kell meghatározni, hogy az érintett engedélyeseket rövid- és hosszútávon gazdálkodásuk hatékonyságának és az általuk nyújtott szolgáltatás minőségének folyamatos javítására és az ellátásbiztonság növelésére ösztönözze.
 
-(6) A rendszerüzemeltetés díjából származó árbevételt a földgázszállítás indokolt költségei arányában kell megosztani. Ennek érdekében a szállítói rendszerüzemeltetői engedélyesek, illetve a földgázszállítói engedélyesek között kiegyenlítő fizetéseket kell végrehajtani.
+(5) A szállítási rendszerüzemeltetési díjból származó árbevételt a földgázszállítás indokolt költségei arányában kell megosztani. Ennek érdekében a szállítási rendszerüzemeltetői engedélyesek között kiegyenlítő fizetéseket kell végrehajtani.
 
-105/A. § (1) A rendszerüzemeltetők és a központi adatgyűjtő és feldolgozó rendszert működtető engedélyes a Hivatal elnökének rendeletében meghatározott rendszerhasználati díjakat, csatlakozási díjakat és áralkalmazási feltételeket kötelesek alkalmazni és honlapjukon közzétenni.
+105/A. § (1) A központi adatgyűjtő és feldolgozó rendszert működtető engedélyes a Hivatal határozatában meghatározott rendszerhasználati díjat, a rendszerüzemeltető a Hivatal határozatában meghatározott rendszerhasználati díjat, csatlakozási díjat, külön díj ellenében végezhető szolgáltatások díjait, valamint a Hivatal elnöke által kiadott rendeletben szabályozott áralkalmazási feltételeket köteles alkalmazni.
 
-(2) A Hivatal a 105. § (2) bekezdésében meghatározott miniszteri rendelet előkészítése során kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleteinek véleményét.
+(2) A földgáztárolói verseny elősegítése érdekében a Hivatal az e § szerint meghatározott földgáztárolási díj alkalmazása alól felmentést adhat. A felmentés alapján alkalmazandó tárgyalásos földgáztárolói hozzáférési díjra a szerződő felek megállapodása az irányadó.
 
-(2a) A 104/A. § (3) bekezdésében nem szabályozott esetekben a Hivatal a miniszteri rendeletre vonatkozó előterjesztését a miniszteri rendelet tervezett hatálybalépését megelőzően legalább 40 nappal köteles megküldeni a miniszter részére.
+106. § (1) A Hivatal elnöke rendeletben állapítja meg a rendszerüzemeltető által
 
-(3) A miniszter a Hivatal előterjesztését a benyújtást követő 30 napon belül elfogadja vagy elutasítja. Az előterjesztés
+- a) a felhasználó és a rendszerhasználó igénye alapján, valamint
+- b) a felhasználó szerződésszegése esetén
 
-- a) elfogadása esetén a miniszter a rendszerhasználati díjak meghatározására és szabályozására vonatkozó keretszabályokat a Hivatal előterjesztésének elfogadását követő 30 napon belül rendelettel hirdeti ki,
-- b) elutasítása esetén a miniszter az elutasítás tényét és indokolását az elutasító döntés meghozatalát követő 15 napon belül nyilvánosságra hozza.
+külön díj ellenében végzett szolgáltatások meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, ezen szolgáltatások körét, a külön díjak megállapításának kereteit a következő árszabályozási ciklus kezdetét megelőző év május 15-ig.
 
-(4)–(5)
+(2) A Hivatal elnöke rendeletben állapítja meg a külön díjak fizetésére kötelezettek körét és a külön díjak alkalmazásának feltételeit, amely rendelet kihirdetése és hatálybalépése között legalább 45 napnak el kell telnie.
 
-(6) A földgáztárolói verseny elősegítése érdekében a Hivatal az e § szerint meghatározott földgáztárolási díj alkalmazása alól felmentést adhat. A felmentés alapján alkalmazandó tárgyalásos földgáztárolói hozzáférési díjra a szerződő felek megállapodása az irányadó.
+(3) Az (1) bekezdés szerinti külön díjak mértékét a Hivatal – figyelemmel az (1) bekezdés szerinti rendeletre – határozatban állapítja meg, legkésőbb a díjak alkalmazhatósága előtt 45 nappal. A Hivatal a határozatát a díjak alkalmazhatósága előtt legalább 25 nappal a honlapján közzéteszi.
 
-106. § A miniszter rendeletben állapítja meg
+(4) Az e § szerinti rendeletek előkészítése során a Hivatal kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleteinek véleményét.
 
-- a) a rendszerüzemeltető és az egyetemes szolgáltató által a felhasználó vagy a rendszerhasználó igénye alapján külön díj ellenében végezhető szolgáltatások körét és díjait,
-- b) a rendszerüzemeltető és az egyetemes szolgáltató által a felhasználó vagy a rendszerhasználó igénye alapján ingyenesen biztosítandó szolgáltatások legszűkebb körét, valamint
-- c) a rendszerüzemeltető és az egyetemes szolgáltató által a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások körét és díjait, a tárgyalásos földgáztárolói hozzáféréshez kapcsolódó, külön díj ellenében nyújtott szolgáltatások kivételével,
-- d) a szállítási rendszerüzemeltető által egy másik szállítási rendszerüzemeltető igénye alapján külön díj ellenében végezhető szolgáltatások körét és díjait, ideértve a határon átnyúló, de belföldi teljesítési helyű szolgáltatások körét.
+106/A. § (1) A miniszter a Hivatal javaslata alapján rendeletben állapítja meg az egyetemes szolgáltató által a felhasználó igénye vagy szerződésszegése esetén külön díj ellenében végzett szolgáltatások körét, díját és díjak alkalmazásának szabályait.
 
-(2) A földgázelosztó és az egyetemes szolgáltató az (1) bekezdés b) pontja szerinti szolgáltatásokat ingyenesen köteles biztosítani. Az (1) bekezdés b) pontja szerinti ingyenesen biztosítandó szolgáltatások költsége az árszabályozás során indokolt költségként nem vehető figyelembe.
+(2) A Hivatal az (1) bekezdés szerinti javaslatát legkésőbb a rendelet tervezett hatálybalépését megelőzően 45 nappal megküldi a miniszternek.
 
 107. § (1) Az egyetemes szolgáltatást méltányos, könnyen és tisztán összehasonlítható, átlátható árszabások alkalmazásával kell megvalósítani.
 
 (2) Az egyetemes szolgáltatás árát a hatékonyan működő engedélyesek indokolt működési és tőkeköltsége alapján kell meghatározni úgy, hogy a legkisebb költség elvének érvényre juttatása érdekében a szabályozás által érintett engedélyeseket gazdálkodásuk hatékonyságának, és az általuk nyújtott szolgáltatás minőségének folyamatos javítására ösztönözze. Emellett az árnak biztosítania kell az egyetemes szolgáltatás keretében földgázt vételező felhasználók költséghatékony ellátását is.
 
-(3) Az egyetemes szolgáltatás árát, az áralkalmazási feltételeket, valamint az árszabályozás kereteit a Hivatal javaslata alapján a miniszter rendeletben állapítja meg. A Hivatal a javaslatát legkésőbb a rendelet tervezett hatálybalépését megelőzően 40 nappal megküldi a miniszternek.
+(3) Az egyetemes szolgáltatás árát, az áralkalmazási feltételeket a Hivatal javaslata alapján a miniszter rendeletben állapítja meg. A Hivatal a javaslatát legkésőbb a rendelet tervezett hatálybalépését megelőzően 40 nappal megküldi a miniszternek.
 
 (4)
 
@@ -1720,19 +1772,20 @@ foglalt árat köteles megfizetni.
 
 (6)
 
-108. § (1) A földgázszállító vagy a földgázelosztó vezetékhez történő csatlakozásért vagy a korábban vásárolt kapacitást meghaladó többletkapacitásért csatlakozási díjat kell fizetni. A csatlakozási díjak meghatározásának szempontjait, a csatlakozási díjak elemeit, a csatlakozási díjakat és alkalmazásuk szabályait a Hivatal elnöke rendeletben állapítja meg. A csatlakozási díj általános forgalmiadó-fizetési kötelezettségére külön törvény rendelkezései irányadók.
+108. § (1) A földgázszállító vagy a földgázelosztó vezetékhez történő csatlakozásért vagy a korábban vásárolt kapacitást meghaladó többletkapacitásért díjat (a továbbiakban: csatlakozási díj) kell fizetni. A Hivatal elnöke rendeletben állapítja meg
 
-(2) A csatlakozási díjat úgy kell megállapítani, hogy az igények befolyásolásán keresztül segítse elő a legkisebb költség elvének érvényesülését, valamint vegye figyelembe a hálózatra később csatlakozott rendszerhasználók csatlakozásának hatásaiból származó előnyöket. A csatlakozási díj nem haladhatja meg a szállítási rendszerüzemeltető vagy a földgázelosztó által közvetlenül a csatlakozás érdekében végrehajtott hálózati beruházásra fordított összeg nagyságát.
+- a) a csatlakozási díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat a következő árszabályozási ciklus kezdetét megelőző év május 15-ig,
+- b) a csatlakozási díjak elemeit, a díjfizetésre kötelezettek körét és a csatlakozási díjak alkalmazásának szabályait, amely rendelet kihirdetése és hatálybalépése között legalább 45 napnak el kell telnie.
 
-(3) A csatlakozási díjból származó bevételt a csatlakozáshoz szükséges beruházásokra kell fordítani.
+(2) A csatlakozási díjak mértékét a Hivatal határozatban állapítja meg legkésőbb a díjak alkalmazhatósága előtt 45 nappal. A Hivatal a határozatát a csatlakozási díjak alkalmazhatósága előtt legkésőbb 25 nappal a honlapján közzéteszi.
 
-(3a) A rendszerüzemeltető köteles a Hivatal által megállapított áralkalmazási feltételeket alkalmazni.
+(3) A csatlakozási díjat úgy kell megállapítani, hogy az igények befolyásolásán keresztül segítse elő a legkisebb költség elvének érvényesülését, valamint figyelembe vegye a hálózatra később csatlakozott rendszerhasználók csatlakozásának hatásaiból származó előnyöket. A csatlakozási díj nem haladhatja meg a szállítási rendszerüzemeltető vagy a földgázelosztó által közvetlenül a csatlakozások érdekében végrehajtott hálózati beruházásokra fordított összegek nagyságát.
 
-(4) A Hivatal az (1) bekezdésben meghatározott elnöki rendelet előkészítése során kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleti szerveinek véleményét. A Hivatal a rendelet tervezetét az engedélyesek és a felhasználók reprezentatív érdekképviseleti szerveivel történő egyeztetést megelőzően a honlapján közzéteszi.
+(4) A csatlakozási díjból származó összes bevételt a csatlakozáshoz szükséges beruházásokra kell fordítani.
 
-(5) A csatlakozási díjból származó vagy a csatlakozási díj megállapításáról szóló külön jogszabályban meghatározott bevételből finanszírozott beruházást a rendszerhasználati díjak meghatározásával összefüggésben a tőkeköltség számításánál figyelmen kívül kell hagyni.
+(5) A Hivatal az (1) bekezdés szerinti rendelet előkészítése során kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleti szerveinek véleményét. A Hivatal a rendelet tervezetét az egyeztetést megelőzően a honlapján közzéteszi.
 
-(6)
+(6) Az (1) bekezdés szerinti rendeletben meghatározott bevételből finanszírozott beruházást a rendszerhasználati díjak meghatározásával összefüggésben a tőkeköltség és az értékcsökkenés számításánál figyelmen kívül kell hagyni.
 
 108/A. § (1) A vezetékes PB-gáz szolgáltatás lakossági PB-gáz fogyasztó részére történő értékesítésének általános forgalmi adót is tartalmazó ára nem haladhatja meg a 2012. december 1-jén a vezetékes PB-gáz szolgáltató által alkalmazott, a vezetékes PB-gáz szolgáltatás lakossági PB-gáz fogyasztó részére történő értékesítésére vonatkozó, általános forgalmi adót is tartalmazó ár 90%-át.
 
@@ -2365,7 +2418,7 @@ bármilyen módon való elidegenítése vagy átruházása esetén.
 
 (7) A rendszerüzemeltetők és a telephelyi szolgáltatók nem élhetnek vissza azokkal az üzleti érdeket érintő információkkal, amelyekhez a rendszerhasználóktól az együttműködő földgázrendszerhez való hozzáférés megvalósítása vagy tárgyalása során jutottak, és kötelesek továbbá mindazon üzleti titoknak nem minősülő információkat az összes érdekelt rendelkezésére bocsátani, amelyeket bármelyik érdekelt részére eljuttattak.
 
-(8) A rendszerhasználók és a rendszerüzemeltetők kötelesek a rendszeregyensúly fenntartásához szükséges operatív jellegű, az Üzemi és Kereskedelmi Szabályzatban meghatározott adatokat folyamatosan szolgáltatni. Az adatforgalomban résztvevők kötelesek biztosítani az üzleti titoknak minősülő információk bizalmas kezelését.
+(8) A rendszerhasználók, a rendszerüzemeltetők és a központi adatgyűjtő és feldolgozó rendszert működtető engedélyes kötelesek a rendszeregyensúly fenntartásához szükséges operatív jellegű, az Üzemi és Kereskedelmi Szabályzatban meghatározott adatokat folyamatosan szolgáltatni. Az adatforgalomban résztvevők kötelesek biztosítani az üzleti titoknak minősülő információk bizalmas kezelését.
 
 (9) A szállítási rendszerüzemeltető köteles a rendszerüzemeltetőknek, a szállítóvezetékhez közvetlenül kapcsolódó felhasználóknak, a földgáztermelőnek és a központi adatgyűjtő és feldolgozó rendszert működtető engedélyesnek a földgázszállítási alapszolgáltatás keretében a szállított földgáz minőségére vonatkozó napi elszámolási adatot szolgáltatni.
 
@@ -2393,7 +2446,11 @@ bármilyen módon való elidegenítése vagy átruházása esetén.
 
 (4) A szállítási rendszerüzemeltető, a földgáztermelő és a földgázkereskedő köteles a Hivatal és az Európai Bizottság rendelkezésére bocsátani a szállítási rendszerüzemeltető szétválasztási követelményeknek való megfelelésével kapcsolatban kért információkat.
 
-#### 125/B. §
+125/B. § (1) A központi adatgyűjtő és feldolgozó rendszert működtető engedélyes az adatforgalmi és informatikai rendszerén keresztül köteles adatot szolgáltatni az arra jogosult engedélyesek és rendszerhasználók részére. Az adatszolgáltatás részletes szabályait az e törvény végrehajtására kiadott jogszabályok, az Üzemi és Kereskedelmi Szabályzat, valamint a központi adatgyűjtő és feldolgozó rendszer szabályzata tartalmazza.
+
+(2) A központi adatgyűjtő és feldolgozó rendszert működtető engedélyes a Hivatal részére a központi adatgyűjtő és feldolgozó rendszerből adatszolgáltatást biztosít az e törvény végrehajtására kiadott jogszabályokban és az Üzemi és Kereskedelmi Szabályzatban meghatározottak szerint, valamint a Hivatal erre irányuló határozata vagy rendelete alapján.
+
+(3) A központi adatgyűjtő és feldolgozó rendszert működtető engedélyes a központi adatgyűjtő és feldolgozó rendszerben tárolt és feldolgozott adatokból kizárólag jogszabályban meghatározott esetben, a feltételek fennállása esetén az arra jogosult részére szolgáltathat adatokat.
 
 125/C. § (1) A rendszerüzemeltető az együttműködő földgázrendszer tulajdonában vagy üzemeltetésében lévő elemeiről és berendezéseiről köteles naprakész nyilvántartást vezetni.
 
@@ -2429,8 +2486,8 @@ bármilyen módon való elidegenítése vagy átruházása esetén.
 - e) ellenőrzi az e törvényben, a végrehajtására kiadott külön jogszabályokban, a 715/2009/EK rendeletben, a Hivatal által kiadott határozatokban, az Üzemi és Kereskedelmi Szabályzatban, üzletszabályzatokban, valamint a megfelelési programokban meghatározott kötelezettségek betartását, különösen a tevékenységek szétválasztásának teljesítésére és ennek keretében a keresztfinanszírozás-mentes működés érvényesülésére vonatkozó szabályokat, továbbá a 128. § szerinti eljárásban ellenőrzi a szállítási rendszerüzemeltető szétválasztási követelményeknek való megfelelését;
 - f) piacfelügyeleti tevékenysége során figyelemmel kíséri a földgázpiaci verseny jellemzőit, piacelemzést és hatósági ellenőrzést végez, figyelemmel kíséri továbbá a szállítási rendszerüzemeltető és a vertikálisan integrált vállalkozás közötti kommunikációt, valamint a kereskedelmi és pénzügyi kapcsolatokat;
 - g) ellátja a jelentős piaci erővel rendelkező engedélyes azonosításával, és az ilyen jellegű piac szabályozásával kapcsolatos, e törvény által hatáskörébe utalt teendőket;
-- gy) rendeletében meghatározza a rendszerhasználati és a csatlakozási díjak meghatározásának szempontjait, a csatlakozási díjak elemeit, a csatlakozási díjakat és alkalmazásuk szabályait, a rendszerüzemeltető által nyújtott szolgáltatás minőségének a rendszerhasználati díjakon keresztül történő ösztönzésének szabályait, a nyújtott szolgáltatás minőségétől függően alkalmazható rendszerhasználati díjakat, valamint az egyes díjak alkalmazásának feltételeit;
-- h) javaslatot tesz a rendszerüzemeltető és az egyetemes szolgáltató által külön díj ellenében végezhető szolgáltatások körére és díjaira, az ingyenesen biztosítandó szolgáltatások legszűkebb körére, valamint a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások körére és díjaira;
+- gy) rendeletben határozza meg a rendszerhasználati, a csatlakozási és a külön díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, a csatlakozási, a külön díjak és a rendszerhasználati díjak elemeit, a csatlakozási, a rendszerhasználati és a külön díjak fizetésére kötelezettek körét, a csatlakozási, a rendszerhasználati és a külön díjak alkalmazásának szabályait, a rendszerüzemeltető által nyújtott szolgáltatás minőségének a rendszerhasználati díjakon keresztül történő ösztönzésének szabályait, a nyújtott szolgáltatás minőségétől függően alkalmazható rendszerhasználati díjszabályozás kereteit, valamint alkalmazásának feltételeit;
+- h) javaslatot tesz az egyetemes szolgáltató által a felhasználó igénye vagy szerződésszegése esetén külön díj ellenében végzett szolgáltatások körére, díjaira és a díjak alkalmazásának szabályaira;
 - i) ellenőrzi a rendszerhasználati díjakra és a csatlakozási díjakra, valamint az egyetemes szolgáltatás áraira, az egyetemes szolgáltatás keretében értékesített mennyiségekre, a hatósági árral érintett földgázforrás felhasználására vonatkozó előírások teljesülését, és a tárgyalásos tárolói hozzáférés alkalmazására vonatkozó előírások betartását, ellenőrzi továbbá az egyetemes szolgáltatás keretében földgázt vételező felhasználók ellátására termelt hazai földgáz árképzésére vonatkozó szabályok betartását, valamint előkészíti az egyetemes szolgáltatás árképzésére vonatkozó szabályokat;
 - í) a külön jogszabályban az együttműködő földgázrendszer használatáért fizetendő díjakkal együtt kihirdetett számítási módszer szerint meghatározza a földgázelosztóknak a 105. § (4) bekezdés alapján teljesítendő kiegyenlítő fizetések összegét;
 - í) dönt a szállítási rendszerüzemeltető és a vertikálisan integrált földgázipari vállalkozás, valamint a 119/A. § (2) bekezdésének alkalmazása esetén a kijelölt rendszerüzemeltető és a szállítóhálózat tulajdonosa közötti panaszok ügyében;
@@ -2534,11 +2591,29 @@ bármilyen módon való elidegenítése vagy átruházása esetén.
 
 (2a) A (2) bekezdés a), c) és e) pontjában meghatározott eljárásokban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
 
-(3) A közigazgatási ügyekben eljáró bíróság a Hivatal határozatának bírósági felülvizsgálata során – a földgázellátási üzemzavar vagy válsághelyzet esetén a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet alapján meghozott döntés, valamint a tanúsítási eljárás eredményeképpen hozott és a rendszerhasználati vagy csatlakozási díjakat megállapító határozat kivételével – a határozatot jogosult megváltoztatni.
+(3)
 
-(3a) Ha a rendszerhasználati vagy a csatlakozási díjakat megállapító határozat bírósági felülvizsgálatának eredményeként a bíróság megállapítja, hogy a Hivatal határozatát hatályon kívül kell helyezni, a bíróság a Hivatal határozatát a Hivatal által lefolytatandó új hatósági eljárásban megállapítandó új rendszerhasználati vagy csatlakozási díjakat meghatározó határozat jogerőre emelkedésétől helyezi hatályon kívül.
+(3a)
 
 (4) Az Üzemi és Kereskedelmi Szabályzat jóváhagyására irányuló eljárásban az ügyfél jogai kizárólag az érintett engedélyeseket illeti meg.
+
+129/A. § (1) A közigazgatási ügyekben eljáró bíróság a Hivatal határozatának bírósági felülvizsgálata során – a földgázellátási üzemzavar vagy válsághelyzet esetén a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet alapján meghozott döntés, valamint a tanúsítási eljárás eredményeképpen hozott, valamint a rendszerhasználati vagy csatlakozási díjakat, valamint a külön díj ellenében végezhető szolgáltatások külön díjait megállapító határozat kivételével – a határozatot jogosult megváltoztatni.
+
+(2) Ha a rendszerhasználati, a csatlakozási vagy a külön díjakat megállapító határozat bírósági felülvizsgálatának eredményeként a bíróság megállapítja, hogy a Hivatal határozatát hatályon kívül kell helyezni, a bíróság a Hivatal határozatát a Hivatal által lefolytatandó új hatósági eljárásban megállapítandó új díjakat meghatározó határozat jogerőre emelkedésének napjától helyezi hatályon kívül.
+
+(3) A rendszerhasználati díjak, a rendszerüzemeltető által külön díj ellenében végezhető szolgáltatások díjainak és a csatlakozási díjak megállapítására irányuló eljárások szempontjából ügyfélnek kizárólag az érintett rendszerüzemeltető tekintendő.
+
+(4) A Hivatal rendszerhasználati díjakat, a rendszerüzemeltető által külön díj ellenében végezhető szolgáltatások díjait vagy a csatlakozási díjakat megállapító határozatának bírósági felülvizsgálatát az érintett ügyfél a határozat közlésétől számított 15 napon belül jogszabálysértésre hivatkozással kérheti a közigazgatási ügyekben eljáró bíróságtól a Hivatal elleni kereset indításával.
+
+(5) A rendszerhasználati díjakat, a rendszerüzemeltető által külön díj ellenében végezhető szolgáltatások díjait vagy a csatlakozási díjakat megállapító határozat bírósági felülvizsgálata iránti ügyben a bíróság soron kívül jár el, azzal hogy a bíróság határozatát legkésőbb a felülvizsgálati kérelem benyújtását követő 30 napig meghozza.
+
+(6) Ha a rendszerhasználati díjakat, a rendszerüzemeltető által külön díj ellenében végezhető szolgáltatások díjait vagy csatlakozási díjakat megállapító határozat bírósági felülvizsgálata során a bíróság a határozatot jogerősen hatályon kívül helyezi, mindaddig a jogerős bírósági döntést közvetlenül megelőzően alkalmazott díjakat és áralkalmazási feltételeket kell alkalmazni, amíg a Hivatal által jogerősen, a bírósági határozat alapján új eljárásban hozott határozat szerinti díjak nem alkalmazandóak.
+
+(7) Az (6) bekezdés szerinti bírósági felülvizsgálat során a határozat részbeni hatályon kívül helyezésének nincs helye.
+
+(8) A jogerős határozattal szemben perújítás iránti kérelem nem nyújtható be.
+
+(9) Az Üzemi és Kereskedelmi Szabályzat jóváhagyására irányuló eljárásban az ügyfél jogai kizárólag az érintett engedélyeseket illetik meg.
 
 ### Nemzetközi együttműködés és kapcsolat
 
@@ -2595,18 +2670,18 @@ tartalmazza.
 - 15. a jelentős piaci erőfölény megállapítása szempontjából releváns piacok területi meghatározására, valamint a piaci verseny hatékonyságának elemzésére, a nem kellően hatékony piacokon a jelentős piaci erővel rendelkező engedélyesek azonosítására és e törvényben, valamint a VET.-ben meghatározott kötelezettségek tartalmára, alkalmazási feltételeire vonatkozó részletes előírásokat,
 - 16. a kereskedési platform, egyensúlyozó platform és a kapacitáslekötési platform működési feltételeit, valamint az adás-vételi ügyletben résztvevők jogait és kötelezettségeit,
 - 17. a szervezett földgázpiaci tevékenységre és a tevékenység engedélyezésére, valamint a szervezett földgázpiac működtetésére vonatkozó részletes szabályokat,
-- 18. a földgázszállítási tevékenység végzésének és a földgázszállítói kapacitás értékesítésének részletes szabályait, az egyensúlytartással, az egyensúlyozó eszközökkel és felhasználásukkal kapcsolatos szabályokat, különösen a felhasználásukkal kapcsolatos jogokat és kötelezettségeket, valamint a kiegyensúlyozási pótdíj nyilvántartásával kapcsolatos rendelkezéseket,
-- 19. a földgázelosztási szolgáltatás végzésének, és a földgázelosztói kapacitás értékesítésének részletes szabályait, a földgázelosztási szabályzatot, valamint a földgázkereskedő, és az egyetemes szolgáltató által kezdeményezett földgázelosztási szüneteltetés eseteit, az elosztóhálózat-használati szerződés tartalmi és formai követelményeit, valamint a szerződésszegés eseteit és jogkövetkezményeit, továbbá az elosztóvezetékhez kapcsolódó fogyasztási helyek és az ott vételező felhasználók adatainak nyilvántartására, a nyilvántartásból történő adatszolgáltatásra vonatkozó rendelkezéseket,
+- 18. a földgázszállítási tevékenység végzésének részletszabályait és a földgázszállítói kapacitás értékesítésének alapelveit, az egyensúlytartással, az egyensúlyozó eszközökkel és felhasználásukkal kapcsolatos szabályok kialakításához szükséges alapelveket,
+- 19. a földgázelosztási szolgáltatás végzésének és a földgázelosztói kapacitás értékesítésének részletes szabályait, a földgázelosztási szabályzatot, valamint a szerződésszegésből vagy nemfizetésből eredő kikapcsolás és szüneteltetés eseteit, az elosztóhálózat-használati szerződés tartalmi és formai követelményeit, a szerződésszegés eseteit és jogkövetkezményeit, továbbá az elosztóvezetékhez kapcsolódó fogyasztási helyek és az ott vételező felhasználók adatainak nyilvántartására, a nyilvántartásból történő adatszolgáltatásra vonatkozó rendelkezéseket,
 - 20. a földgáztárolási tevékenység végzésére, ezen belül a kapacitáslekötésre és értékesítés feltételeire, valamint a földgáztárolási szolgáltatásra vonatkozó részletes szabályokat,
 - 21. az egyetemes szolgáltató által létesített ügyfélszolgálatok elhelyezésére és működtettetésére vonatkozó részletes szabályokat,
-- 22. az egyensúlytartás feltételeit, valamint a rendszerhasználók és rendszerüzemeltetők együttműködésének részletes szabályait,
+- 22.
 - 23. a vezetékes PB-gáz szolgáltatásra, ezen belül az elosztási és az értékesítési tevékenységre vonatkozó részletes szabályokat,
 - 24. az egyablakos kiszolgálású nemzetközi szállítóvezeték és az együttműködő földgázrendszer kapcsolódása esetén az egyablakos kapacitásértékesítő és a csatlakozó rendszerüzemeltető együttműködésének részletes szabályait,
 - 25. a felhasználó kereskedőváltásának és ellátási formaváltásának feltételeit, részletes szabályait, valamint az egyetemes szolgáltatásra jogosult nem lakossági fogyasztótól az egyetemes szolgáltatási szerződés megkötésének feltételeként kérhető pénzügyi biztosíték összegét,
 - 26. a védendő fogyasztók, valamint az őket az e törvényben meghatározottakon túlmenően megillető kedvezmények körét, biztosításuk és igénybevételük részletes szabályait, továbbá a fogyatékkal élő fogyasztókat megillető különleges bánásmód részletes szabályait, a védendő fogyasztói körbe tartozás igazolására alkalmas okiratok körét, tartalmi és formai követelményeit,
-- 27. a felhasználók és földgáztermelők földgázrendszerre történő csatlakozásának részletes szabályait, ezen belül a csatlakozás műszaki-gazdasági feltételeit, és azok közzétételét, a földgázelosztó és a földgázszállító csatlakozással kapcsolatos együttműködésének szabályait, a szerződéskötési kötelezettség részletes feltételeit, valamint jogsértés esetén a Hivatal által alkalmazható jogkövetkezményeket,
-- 28. a kapacitáslekötés részletes szabályait, ezen belül az igény kielégítés rendjét, a továbbértékesítés szabályait, a szabad kapacitás közzétételének, és lekötésének szabályait,
-- 29. a rendszerüzemeltető üzemeltetésében lévő rendszerhez való hozzáférés, a hozzáférés megtagadásának, felfüggesztésének, visszaállításának részletes szabályait,
+- 27. a felhasználók és földgáztermelők földgázrendszerre történő csatlakozására vonatkozó részletes szabályok kialakításához szükséges alapelveket, a csatlakozásra vonatkozó igénybejelentésre és a csatlakozási igény kielégítésére vonatkozó ajánlattal kapcsolatos általános szabályokat, a szerződéskötési kötelezettség feltételeit és a csatlakozási szerződés tartalmi elemeit, valamint jogsértése esetén a Hivatal által alkalmazható jogkövetkezményeket,
+- 28. a nem határponti betáplálási-kiadási pontokon történő kapacitáslekötés szabályait, ezen belül az igénykielégítés rendjét, a továbbértékesítés szabályait, a szabad kapacitás közzétételének, és lekötésének szabályait,
+- 29. a rendszerüzemeltető üzemeltetésében lévő rendszerhez való hozzáférés, a hozzáférés megtagadása, felfüggesztése és visszaállítása általános szabályainak részletes kialakításához szükséges iránymutatásokat,
 - 30. a földgáz szagosítására vonatkozó rendelkezéseket és a nem többségi földgázelosztói vagy földgázszállítói tulajdonban lévő vezeték szakaszok esetében az üzemeltetési szerződés kötelező tartalmi elemeit, valamint a szállító-, és az elosztóvezeték tulajdonosainak jogait és kötelezettségeit,
 - 31. a földgázrendszerek egymás közötti, valamint a földgázrendszerek és a földgáztermelő közötti betáplálási-kiadási ponti elszámolási mérési helyek és eszközök kiépítésében és üzemeltetésében érintettek együttműködési kötelezettségét,
 - 32. a földgázellátási válsághelyzet minősítését, kihirdetésének és megszüntetésének szabályait, valamint az intézkedésre jogosult szervezeteket, azok felelősségi és hatáskörét,
@@ -2644,21 +2719,21 @@ tartalmazza.
 133. § (1) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
 
 - 1.
-- 2. a rendszerhasználati díjak meghatározására és szabályozására vonatkozó keretszabályokat,
+- 2.
 - 3. az egyetemes szolgáltatáshoz kapcsolódóan az árakat, az áralkalmazási feltételeket, az árszabályozás kereteit és a nagycsaládosokat megillető kedvezményre vonatkozó szabályokat; a felajánlás részletszabályait, a felajánlott földgázforrás árát, az igénybevételre jogosultak körét, a földgázforrás átadására vonatkozó rugalmassági szabályokat; a felajánlás keretében, a 141–141/A. §, a 141/C. §, a 141/I. § és a 141/J. § szerinti szerződések alapján értékesített földgázforrás mennyiségét és árát, valamint az ezen földgázforrásokhoz kapcsolódóan a rendszerhasználati és mobilgáz-finanszírozási költségek indokolt értékeihez képest megképződő többlet, vagy veszteség elszámolásának szabályait; a 141/A–141/C. §-ban és a 141/I–141/J. §-ban foglaltak megsértése, valamint a rendeletben meghatározott mennyiségtől való eltérés esetén alkalmazandó jogkövetkezményeket; a kapcsolt termelésszerkezet-átalakítási hozzájárulás és a kiegyenlítő hozzájárulás mértékét,
 - 4. az együttműködő földgázrendszer kapacitásának rendszeres felülvizsgálatához és fejlesztéséhez a műszaki-gazdasági tervezési módszereket, az ehhez szükséges adatbázis tartalmi elemeit, az adatbázishoz való hozzáférés részletes szabályait és a szükséges adatszolgáltatást,
 - 5. az engedélyesek és a PB-gáz forgalmazók adatszolgáltatásának módszertani szabályait, a szolgáltatási kötelezettség alá eső – személyes adatot nem tartalmazó – adatokat, az adatszolgáltatásra kötelezettek és az adatokhoz való hozzáférésre jogosultak körét, a Hivatal által a felhasználói érdekek képviseletét ellátó egyesületek, a miniszter, illetőleg más szervezetek részére nyújtott adatszolgáltatás körét és rendjét, a Hivatal honlapján közzétételre kerülő adatok körét, továbbá az üzleti titoknak [Ptk. 2:47. § (1) bekezdése] minősülő tények, információk, megoldások és adatok (a továbbiakban: üzleti titok) védelmére vonatkozó részletes szabályokat,
 - 6.
 - 7.
-- 7. az egyetemes szolgáltató által a felhasználók igénye alapján külön díj ellenében végezhető szolgáltatások körét és annak díjait, a felhasználó vagy az engedélyes igénye alapján ingyenesen biztosítandó szolgáltatások legszűkebb körét, valamint a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások körét és azok díjait.
-- 8. az egyetemes szolgáltatás felmondása, valamint a földgázellátásról szóló 2003. évi XLII. törvény szerinti közüzemi szerződés megszűnése esetén a felhasználót megillető mobil tárolói készlet átadásának szabályait és az áralakítás elveit,
-- 9. a 74. § (2) bekezdése és a 105. § (12) bekezdése szerinti felmentésre, valamint a tárgyalásos tárolói hozzáférésre vonatkozó részletes szabályokat,
+- 7. az egyetemes szolgáltató által a felhasználók igénye alapján külön díj ellenében végezhető szolgáltatások körét és annak díjait, valamint a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások körét és azok díjait.
+- 8.
+- 9. a 74. § (2) bekezdése és a 105/A. § (2) bekezdése szerinti felmentésre, valamint a tárgyalásos tárolói hozzáférésre vonatkozó részletes szabályokat,
 - 10.
 - 11.
 - 12. a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. év CXXVII. törvény 57. § (2) bekezdés c) pont ca) alpontjában meghatározott minősített földgázellátási üzemzavar bekövetkezésének, illetve megszűnésének tényét és időpontját,
 - 12.
 - 13. földgázellátási válsághelyzet II. fokozata esetén a felhasználók ellátására vonatkozó szerződések teljesítése felfüggesztésének rendjét, a felhasználók földgázellátásának korlátozását, különösen a korlátozás elrendelésének, fenntartásának és feloldásának feltételeit, az engedélyesek jogait és kötelezettségeit, valamint a földgázellátáshoz kapcsolódó, a hatósági és a nem hatósági árak körébe tartozó valamennyi termék és szolgáltatás legmagasabb árát,
-- 14. a rendszerüzemeltetők által a felhasználók vagy az engedélyes igénye alapján külön díj ellenében végezhető szolgáltatások körét és díjait, a felhasználó vagy az engedélyes igénye alapján ingyenesen biztosítandó szolgáltatások legszűkebb körét, a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások körét és díjait, a tárgyalásos földgáztárolói hozzáféréshez kapcsolódó, külön díj ellenében nyújtott szolgáltatások kivételével.
+- 14.
 - 15. a Hivatal miniszter részére történő adatszolgáltatási és javaslattételi kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat,
 - 16. az 1227/2011/EU európai parlamenti és tanácsi rendelet 9. cikkében meghatározott nemzeti nyilvántartás létrehozásával és működtetésével kapcsolatos részletes szabályokat,
 - 17. az 1227/2011/EU európai parlamenti és tanácsi rendelet szerinti bennfentes információk közzétételével kapcsolatos részletszabályokat,
@@ -2679,16 +2754,21 @@ tartalmazza.
 
 133/A. § Felhatalmazást kap a Hivatal elnöke, hogy rendeletben állapítsa meg
 
-- 1. a rendszerhasználati díjakat, a rendszerüzemeltető által nyújtott szolgáltatás minőségének a rendszerhasználati díjakon keresztül történő ösztönzésének szabályait, a nyújtott szolgáltatás minőségétől függően alkalmazható rendszerhasználati díjakat, a megszakítható kapacitások felajánlhatóságának, valamint a rendszerhasználati díjak alkalmazásának feltételeit,
-- 2. a csatlakozási díjak meghatározásának szempontjait, a csatlakozási díjak elemeit, a csatlakozási díjakat és alkalmazásuk szabályait,
-- 3. a 104/A. § szerinti árszabályozási ciklus kezdetének időpontját és időtartamát,
-- 4. a rendszerüzemeltetési díjból származó árbevétel földgázszállítói engedélyesek, illetve szállítási rendszerüzemeltető engedélyesek közötti megosztására vonatkozó kiegyenlítő fizetések számítási módszerét, a kiegyenlítő fizetések részletes szabályait, összegét és mértékét,
-- 5. a rendszeregyensúlyozásra vonatkozó módszertant, részletszabályokat, különös tekintettel a rendszerüzemeltetői adatszolgáltatásokra, kiegyensúlyozási szolgáltatásokra, operatív egyensúlytartásra, napon belüli kötelezettségekre, vezetékkészletből nyújtott rugalmassági szolgáltatásra vonatkozóan,
-- 6. a rendszer-összekötési pontokra vonatkozó szabályok alkalmazhatóságát a harmadik országok felől való betáplálási pontokra és a harmadik országok felé való kiadási pontokra,
-- 7. e törvény szerint rendszeres adatszolgáltatásra kötelezettek által szolgáltatandó adatok körét, a teljesítés módjára vonatkozó követelményeket, az adatszolgáltatási kötelezettség határidejét, valamint a rendkívüli adatszolgáltatásra kötelezettek körét és a rendkívüli adatszolgáltatással kapcsolatos rendelkezéseket;
-- 8. az elosztóhálózat-használati szerződés és az egyetemes szolgáltatási szerződés felek általi megszegésére vonatkozó jogkövetkezmények mértékére és alkalmazására vonatkozó rendelkezéseket;
-- 9. a földgáz elszámolási díjból származó árbevétel elszámolásának részletes szabályait, összegét és mértékét,
-- 10. a központi adatgyűjtő és feldolgozó rendszert működtető engedélyes által a felhasználók mérési és elszámolási adataira vonatkozó, a felhasználók számára végzett adatszolgáltatás díjait.
+- 1. a rendszerhasználati díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat,
+- 2. a rendszerhasználati díjak elemeit, a rendszerhasználati díjak fizetésére kötelezettek körét, a rendszerhasználati díjak alkalmazásának szabályait, a rendszerüzemeltető által nyújtott szolgáltatás minőségének a rendszerhasználati díjakon keresztül történő ösztönzésének szabályait, a nyújtott szolgáltatás minőségétől függően alkalmazható rendszerhasználati díjszabályozás kereteit, valamint alkalmazásának feltételeit,
+- 3. a csatlakozási díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat,
+- 4. a csatlakozási díjak elemeit, a csatlakozási díjak fizetésére kötelezettek körét, a csatlakozási díjak alkalmazásának feltételeit,
+- 5. a külön díj ellenében végzett szolgáltatások meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, ezen szolgáltatások körét, a külön díjak megállapításának kereteit,
+- 6. a külön díjak fizetésére kötelezettek körét, a külön díjak alkalmazásának szabályait,
+- 7. a felhasználók és földgáztermelők földgázrendszerre történő csatlakozásának részletes szabályait, ezen belül a csatlakozás műszaki-gazdasági feltételeit, és azok közzétételét, a földgázelosztó és a földgázszállító csatlakozással kapcsolatos együttműködésének szabályait,
+- 8. a szállítási rendszerüzemeltetési díjból származó árbevétel szállítási rendszerüzemeltető engedélyesek közötti megosztására vonatkozó kiegyenlítő fizetések számítási módszerét, a kiegyenlítő fizetések részletes szabályait, összegét és mértékét,
+- 9. a rendszeregyensúlyozásra vonatkozó módszertant, részletszabályokat, különös tekintettel a rendszerüzemeltetői adatszolgáltatásokra, kiegyensúlyozási szolgáltatásokra, operatív egyensúlytartásra, napon belüli kötelezettségekre, vezetékkészletből nyújtott rugalmassági szolgáltatásra vonatkozóan,
+- 10. a rendszer-összekötési pontokra vonatkozó szabályok alkalmazhatóságát a harmadik országok felől való betáplálási pontokra és a harmadik országok felé való kiadási pontokra,
+- 11. e törvény szerint rendszeres adatszolgáltatásra kötelezettek által szolgáltatandó adatok körét, a teljesítés módjára vonatkozó követelményeket, az adatszolgáltatási kötelezettség határidejét, valamint a rendkívüli adatszolgáltatásra kötelezettek körét és a rendkívüli adatszolgáltatással kapcsolatos rendelkezéseket,
+- 12. az elosztóhálózat-használati szerződés és az egyetemes szolgáltatási szerződés engedélyes általi megszegésére vonatkozó jogkövetkezmények mértékére és alkalmazására vonatkozó rendelkezéseket,
+- 13. a földgáz elszámolási díjból származó árbevétel elszámolásának részletes szabályait, összegét és mértékét,
+- 14. a központi adatgyűjtő és feldolgozó rendszert működtető engedélyes által a felhasználók mérési és elszámolási adataira vonatkozó, a felhasználók számára végzett adatszolgáltatás díjait,
+- 15. a földgáztárolási díjból származó árbevétel földgáztárolói engedélyesek közötti megosztására vonatkozó kiegyenlítő fizetések számítási módszerét, a kiegyenlítő fizetések részletes szabályait, összegét és mértékét.
 
 ### XVIII. Fejezet — ÁTMENETI RENDELKEZÉSEK
 
@@ -3063,6 +3143,15 @@ köteles annak létrejöttét követő 7 munkanapon belül megküldeni a Hivatal
 146/K. § (1) E törvénynek az egyes energetikai tárgyú törvények módosításáról szóló 2016. évi LXXXI. törvénnyel megállapított 59. § (2) bekezdését a folyamatban lévő ügyekben is alkalmazni kell.
 
 (2) E törvénynek az egyes energetikai tárgyú törvények módosításáról szóló 2016. évi LXXXI. törvénnyel megállapított 100/A. § (2) bekezdés b) pont ba) alpontja szerinti telemechanikai rendszert 2017. január 1-ig kell kiépíteni.
+
+146/L. § (1) E törvénynek az energetikai tárgyú törvények jogharmonizációs célú módosításáról szóló 2016. évi LIX. törvény 17. § (1) bekezdésével megállapított 104/A. §-a szerinti árszabályozási ciklus kezdő időpontja 2017. január 1.
+
+(2) Az (1) bekezdés szerinti induló árszabályozási ciklus tekintetében
+
+- a) a 104/B. § (1) bekezdése szerinti rendeletet a Hivatal elnöke 2016. október 15-ig hirdeti ki;
+- b) a Hivatal a 104/B. § (2) bekezdés a) pontja szerinti módszertani útmutatót a honlapján 2016. október 25-ig teszi közzé;
+- c) a 106. § (1) bekezdése szerinti rendeletet a Hivatal elnöke 2016. október 15-ig hirdeti ki;
+- d) a 108. § (1) bekezdése szerinti rendeletet a Hivatal elnöke 2016. október 15-ig hirdeti ki.
 
 ### XIX. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

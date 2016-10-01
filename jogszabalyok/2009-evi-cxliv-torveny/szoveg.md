@@ -144,90 +144,11 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 
 11. § Az alapszabály módosítását – a mellékletek változásának kivételével – a változás megtörténtétől számított 30 napon belül kell bejelenteni a cégbíróságnak.
 
-### A társulat megalakulásának előkészítése
+12–16. §
 
-12. § (1) A társulat megalakulását szervezőbizottság készíti elő.
+17. §
 
-(2) A szervezőbizottságot a vízgazdálkodási közfeladat megvalósításában érdekeltek hozzák létre, illetve annak megalakítását a (3) bekezdésben megjelölt szervezetek is kezdeményezhetik.
-
-(3) A szervezőbizottságnak – amely legalább hét tagból áll – tagja a közfeladat szerint illetékes területi vízügyi és mezőgazdasági igazgatási szervezet, továbbá a vízgazdálkodási társulatok érdekképviseleti szervezetének képviselője is.
-
-(4) A szervezőbizottság tagjainak több mint a felét a társulat megalakításában érdekeltek alkotják.
-
-(5) A szervezőbizottság létrejön, ha kimondja megalakulását, tagjai maguk közül megválasztják annak elnökét, és megállapítják a bizottság működési rendjét.
-
-(6) A szervezőbizottság feladata a társulat megalakulásához szükséges vízgazdálkodási érdekeltségi és ezzel összefüggő egyéb feltételek vizsgálata és meghatározása, így különösen
-
-- a) a tervezett társulati közfeladat műszaki, vízgazdálkodási egységet jelentő területének megállapítása, amely a társulat megalakulása esetén a társulat működési területét képezi;
-- b) az alapszabály tervezetének elkészítése, mellékelve a tervezett működési területet, a területi egységeket és a társulati műveket ábrázoló helyszínrajzot;
-- c) a tervezett működési területen az ingatlantulajdonosok tájékoztatása a vízgazdálkodási közfeladatról és annak társulati úton történő ellátásával járó jogokról és kötelezettségekről;
-- d) a szándéknyilatkozatok nyilvántartásba vétele;
-- e) küldöttjelöltek nyilvántartásba vétele;
-- f) az alakuló gyűlés összehívása.
-
-13. § A társulati közfeladattal érintett működési terület meghatározásához a szervezőbizottságnak be kell szereznie az illetékes mezőgazdasági és vízügyi igazgatási szervezet javaslatát. A javaslatokat a helyszínrajz elkészítésénél figyelembe kell venni.
-
-14. § A szervezőbizottság a társulat nevében jogokat nem szerezhet, kötelezettségeket nem vállalhat, és működése a társulat megalakulásával megszűnik.
-
-15. § A szervezőbizottság az alakuló gyűlést akkor hívja össze, ha
-
-- a) a 12. § (6) bekezdésének a) pontja szerint meghatározott területen az érdekeltek érdekeltségi egység aránya szerint számított több mint 2/3-a két tanúval hitelesített szándéknyilatkozatban rögzíti, hogy a vízgazdálkodási közfeladatot társulat útján kívánja megvalósítani, és a területi egységekben a küldöttjelölteket megválasztották;
-- b) rendelkezésre állnak azok az okiratok, amelyek a társulat megalakulásához szükségesek.
-
-16. § (1) Az alakuló gyűlés időpontját, helyét és napirendjét tartalmazó értesítést – a szándéknyilatkozatot adó összes érdekeltnek – az alakuló gyűlés megtartására kitűzött időpontot legalább 8 nappal megelőzően meg kell küldeni, és a működési terület valamennyi érdekeltje tájékoztatásának érdekében a tervezett működési terület önkormányzatainak hirdetőtábláján is közzé kell tenni.
-
-(2) Az érdekeltet az alakuló gyűlésen két tanú által aláírt, írásbeli meghatalmazással rendelkező személy is képviselheti. A meghatalmazásban fel kell tüntetni a képviselt érdekelt 8. § (1) bekezdés szerinti adatait.
-
-### A küldöttek választása, visszahívása
-
-17. § (1) Az alakuló társulat szervezőbizottsága a területi egységekben megtartásra kerülő küldöttjelöltet állító fórum(ok)on a területi egységek ingatlantulajdonosai vagy használói javaslatára az önkormányzat(ok), mezőgazdasági termelő gazdasági szervezetek, a mezőgazdasági magántermelők és egyéb szervezetek jelöltjeit veheti fel a jelöltlistára. A területi egységek jelöltjeinek összetételét és számát az alapszabályban kell rögzíteni.
-
-(2) A küldötteket az alakuló gyűlés határozatlan időre választja.
-
-(3) A küldöttet az általa képviselt területi egységek tagjai több mint felének javaslatára a küldöttgyűlés felmenti.
-
-(4) Ha a küldött mandátuma bármely okból megszűnik, helyette az adott területi egység tagjai új küldöttet választanak.
-
-### A társulat megalakulása
-
-18. § (1) A társulat megalakul, ha a működési területen ingatlantulajdonnal rendelkező, illetve az ingatlant egyéb jogcímen használó természetes és jogi személyeknek, jogi személyiséggel nem rendelkező szervezeteknek (a továbbiakban: érdekelteknek) az érdekeltségi egység aránya szerint számított több mint kétharmada az alakuló gyűlésen
-
-- a) elfogadja a társulat alapszabályát;
-- b) megválasztja a társulat vezető testületi szerveit és tisztségviselőit;
-- c) kimondja megalakulását;
-- d) megválasztja a küldötteket.
-
-(2) Az alakuló gyűlést a szervezőbizottság elnöke vezeti. Jelenléti ívet kell vezetni, és jegyzőkönyvet kell készíteni, amelynek tartalmaznia kell különösen
-
-- a) az alakuló gyűlés helyét, idejét;
-- b) a jelenlevő, illetőleg a képviselt érdekeltek számát, az érdekeltség jogcímét, mértékét és arányát;
-- c) a gyűlésen hozott határozatokat annak megjelölésével, hogy azokat a megjelent (képviselt) érdekeltek milyen arányban szavazták meg;
-- d) a jegyzőkönyvvezető és a hitelesítők nevét.
-
-(3) A határozatképességet igazoló iratokat a jegyzőkönyvhöz mellékelni kell, ideértve az érdekeltek képviseletére adott meghatalmazásokat is.
-
-(4) A jegyzőkönyvet a jegyzőkönyvvezetőn kívül az alakuló gyűlés által megválasztott két hitelesítőnek is alá kell írnia. A jegyzőkönyv nem selejtezhető.
-
-(5) A társulat megalakulásával az érdekeltek tagokká válnak.
-
-19. § A társulat alapítását az alapszabály elfogadásától számított 30 napon belül – a külön törvény előírásai szerint – az intézőbizottság elnökének be kell jelentenie az illetékes cégbíróságnál.
-
-20. § A társulat a cégjegyzékbe való bejegyzésével a bejegyzés napján jön létre. Működését, gazdasági tevékenységét csak jogerős cégbejegyzést követően kezdheti meg.
-
-21. § (1) A társulat jogerős cégbejegyzéséig az alapszabály érvénytelenségére a Polgári Törvénykönyv (a továbbiakban: Ptk.) rendelkezéseit kell alkalmazni. A jogerős cégbejegyzés után az alapszabály megtámadására nincs mód, és az alapszabály semmisségét csak a következő okokból lehet megállapítani:
-
-- a) az alapszabály ügyvédi, illetve az alapító jogtanácsosa általi ellenjegyzésére vagy közjegyzői okiratba foglalására nem került sor;
-- b) az alapszabály nem tartalmazza a társulat nevét, főtevékenységét, jegyzett tőkéjét, a társulat működési területét, a társulati művek megnevezését;
-- c) a társulat tevékenységi köre jogszabályba ütközik;
-- d) a társulat alapításában részt vevő valamennyi tag cselekvőképtelen volt, vagy a társulat alakuló gyűlésén az összes érdekelt érdekeltségi egység szerint számított több mint kétharmadának igen szavazata hiányzott.
-
-(2) Ha a bíróság az (1) bekezdés alapján az alapszabály érvénytelenségét megállapítja, felhívja a társulat tagjait – amennyiben ez lehetséges – az érvénytelenség kiküszöbölésére. Ha erre nincs mód, a bíróság az alapszabályt a határozatában megjelölt időpontig hatályossá nyilvánítja, és szükség esetén felhívja a cégbíróságot törvényességi felügyeleti eljárás lefolytatására.
-
-(3) A jogerős cégbejegyzést követően az alapszabály érvénytelenségének megállapítása nem érinti azon kötelezettségek fennállását, amelyek a társulat terhére vagy javára az érvénytelenség megállapításáig keletkeztek.
-
-(4) Ha a cégbíróság a társulat bejegyzését megtagadta, a társulat tevékenységét a jogerős határozat kézhezvétele után meg kell szüntetni. Az alakuló gyűléstől a tevékenység megszüntetéséig terjedő időszakra vonatkozóan a tagok kötelesek egymással elszámolni. Az új társulat megalakulásig a társulati művek működtetéséről a vízügyi igazgatási szerv, illetve az önkormányzat gondoskodik.
-
-22. § A társulatra, valamint a társulat tagjaira, vezető tisztségviselőire vonatkozó, a cégnyilvántartás részét képező jogok, tények és adatok nyilvánosak.
+18–22. §
 
 ### A társulat szervei
 
@@ -487,113 +408,17 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 
 48–50. §
 
-### Csatlakozás a társulathoz, belépés
+51. §
 
-51. § (1) Csatlakozáskor a társulat működési területe azon területtel bővül, amelyen az érdekeltek több mint kétharmada az alakulás szabályai szerinti szándéknyilatkozatban nyilvánítja ki, hogy az adott társulat tagja kíván lenni. A csatlakozásról a társulat küldöttgyűlése az alapszabály egyidejű módosításával határoz.
+52. §
 
-(2) Amennyiben új ingatlantulajdonos természetes vagy jogi személyek, jogi személyiséggel nem rendelkező szervezetek lépnek be a már működő társulatba, a társulat működési területe a belépő tagok által képviselt területtel bővül ki.
+53–55. §
 
-(3) A működési terület kibővítésénél a területileg illetékes vízügyi igazgatási szervezet véleményét figyelembe kell venni. A belépésről a társulat küldöttgyűlése az alapszabály egyidejű módosításával határoz.
+56–58. §
 
-### A társulat megszűnése jogutódlással
+59–60. §
 
-52. § (1) Jogutóddal szűnik meg a társulat egyesülés és szétválás esetén.
-
-(2) Társulatok egyesülése esetén két vagy több társulatból egyetlen jogutód társulat keletkezik. Az egyesülés történhet összeolvadással vagy beolvadással.
-
-(3) Társulat szétválása esetén a társulat két vagy több társulatra válik szét.
-
-### Egyesülés
-
-53. § (1) A társulatok külön-külön tartott küldöttgyűlésen előzetesen elkészített vagyonmérleg alapján elhatározhatják egyesülésüket.
-
-(2) Az egyesülésre a megalakulás szabályait kell megfelelően alkalmazni, és a társulatok vagyonát – előzetesen elkészített vagyonmérleg alapján – egyesíteni kell.
-
-(3) A tisztségviselők elkészítik az egyesülő társulatok vagyonmérleg-tervezetét és vagyonleltár-tervezetét, a jogutód társulat (nyitó) vagyonmérleg-tervezetét és vagyonleltár-tervezetét, a jogutód társulat alapszabály-tervezetét, meghatározzák az új működési területet.
-
-(4) Az új társulat tervezett működési területének megállapítása után az egyesülő társulatok együttes küldöttgyűlésen fogadják el az új működési területet, az egyesülés időpontját, az új alapszabályt és választják meg a tisztségviselőket, küldötteket.
-
-(5) Az egyesüléssel létrejövő társulat az átalakult társulat általános jogutódja. A jogutód társulatot illetik meg a jogelőd társulatok jogai, és terhelik a jogelőd társulatok kötelezettségei, ideértve a munkavállalókkal kötött kollektív szerződésben foglalt kötelezettségeket is.
-
-(6) Az egyesülés elhatározásáról tájékoztatni kell a társulatnál működő munkavállalói érdekképviseleti szerveket.
-
-54. § (1) A társulat az egyesülés elhatározásáról szóló küldöttgyűlést követő 8 napon belül köteles erről a Cégközlönyben közleményt közzétenni.
-
-(2) A közleménynek tartalmaznia kell:
-
-- a) az egyesülő társulatok cégnevét, székhelyét és cégjegyzékszámát;
-- b) a létrejövő társulat cégnevét, székhelyét és cégjegyzékszámát;
-- c) a létrejövő társulat megalakulásának napját;
-- d) az egyesülő és a létrejövő társulat vagyonmérleg-tervezetének legfontosabb adatait, így különösen a jegyzett tőke és a társulati művek értékének összegét, valamint a mérlegfőösszeget;
-- e) a létrejövő társulat főtevékenységét; valamint
-- f) a hitelezőknek szóló felhívást.
-
-55. § (1) Az egyesülés az egyesülő társulatokkal szemben fennálló követeléseket nem teszi lejárttá.
-
-(2) Azok a hitelezők, akiknek az átalakuló társulattal szemben fennálló, le nem járt követelései az átalakulással hozott döntés első közzétételét megelőzően keletkeztek, követeléseik erejéig az átalakuló társulattól a döntés második közzétételét követő 30 napos jogvesztő határidőn belül biztosítékot követelhetnek.
-
-### Szétválás
-
-56. § (1) A társulat küldöttgyűlése előzetesen elkészített vagyonmérleg alapján elhatározhatja a társulat szétválást több társulatra. Szétválás esetén a szétváló társulat megszűnik, és vagyona a szétválással létrejövő társulatokra mint jogutódokra száll át. A társulat jogai és kötelezettségei a jogutód társulatokra szállnak át.
-
-(2) A szétválás esetén az új társulatok létrejötténél a megalakulás szabályait kell megfelelően alkalmazni.
-
-(3) A szétválás tervezetét a tisztségviselők készítik el. Ebben meg kell határozni
-
-- a) a szétváló társulat cégnevét, székhelyét és cégjegyzékszámát és a létrejövő társulatok cégnevét és székhelyét;
-- b) a szétválás módját (különválás, kiválás);
-- c) a vagyonmegosztási javaslatot, vagyis a szétváló társulat vagyonának a jogutódok közti megosztásának tervezett arányát;
-- d) az egyes jogosítványok, illetve kötelezettségek, valamint a folyamatban lévő peres és nem peres ügyek és hatósági eljárások tekintetében a jogutód nevesítését;
-- e) kiválás esetében a fennmaradó társulat alapszabályában a szükséges módosítások tervezetét, valamint a kiválással létrejövő társulat alapszabályának tervezetét;
-- f) különválás esetében a létrejövő új társulatok alapszabályának tervezetét;
-- g) mindazt, amit a szétváló társulat küldöttgyűlése szükségesnek tart.
-
-(4) A vezető tisztségviselők a szétváló társulat és a szétválás utáni valamennyi jogutód tekintetében elkészítik a vagyonmérleg- és vagyonleltár-tervezeteket.
-
-57. § (1) Az 56. § (3) bekezdésében meghatározott tervezetek és okiratok javaslatainak elfogadásáról a szétváló társulat küldöttgyűlése dönt, egyúttal megbízza a társaság tisztségviselőit, hogy a jogutódok alapszabályának (alapszabály-módosításának) tervezetét a szükséghez képest dolgozzák át.
-
-(2) A szétválás elhatározásáról szóló küldöttgyűlési döntést követő 15 napon belül a szétváló társulatnál működő munkavállalói érdekképviseleti szerveket értesíteni kell.
-
-(3) A szétválás elhatározását tartalmazó közleményt a szétváló társulat a küldöttgyűlési döntést követő nyolc napon belül köteles a Cégközlönyben közzétenni.
-
-(4) A szétválásról szóló közleményben a meg kell jelölni
-
-- a) a szétváló társulat cégnevét, székhelyét és cégjegyzékszámát;
-- b) a létrejövő társulat megalakulásának napját;
-- c) az átalakuló és a létrejövő társulatok vagyonmérleg-tervezetének legfontosabb adatait, így különösen a jegyzett tőke és a társulati művek értékének összegét, valamint a mérlegfőösszeget;
-- d) a létrejövő társulat főtevékenységét;
-- e) a hitelezőknek szóló felhívást, valamint azt, hogy a hirdetményi határidő alatt hol kaphatnak tájékoztatást a hitelezők a követelésüket érintő vagyonmegosztási rendelkezésekről;
-- f) a szétválás módját (különválás, kiválás);
-- g) a szétváló társulatot megillető jogok és terhelő kötelezettségek megosztására vonatkozó megállapodás legfontosabb rendelkezéseit, különösen a vagyonmegosztás arányát.
-
-58. § (1) A szétváló társulat jogutódai a szétváló társulatnak a szétválás előtt keletkezett kötelezettségeiért a szétválásról szóló küldöttgyűlési határozat rendelkezése szerint felelnek. A szétváló társulat vagyonmegosztás előtt szerzett jogainak érvényesítésére a szétválás után az a jogutód jogosult, amelyhez az adott jogot a szétválásról szóló küldöttgyűlési határozat telepítette.
-
-(2) Ha valamely vagyontárgyról vagy igényről a szétválásról szóló küldöttgyűlési határozatban nem rendelkeztek, vagy az csak utóbb vált ismertté, a vagyontárgy, igény, illetve annak ellenértéke (érvényesítési joga) valamennyi jogutód társulatot a vagyonmegosztás arányában illeti meg.
-
-(3) Ha a kötelezettségről a szétválásról szóló küldöttgyűlési határozatban nem rendelkeztek, vagy az csak a megállapodást követően válik ismertté, a jogutód szervezetek (ideértve a szétválás után megmaradó társulatot is) felelőssége egyetemleges.
-
-(4) A szétválásról szóló küldöttgyűlési határozatban nevesített követelést elsősorban azzal a jogutóddal szemben kell érvényesíteni, amelyhez az adott kötelezettséget a szétválásról szóló küldöttgyűlési határozat a vagyonmegosztás folytán telepítette.
-
-### Kiválás
-
-59. § (1) Kiválás esetében az a társulat, amelyből a kiválás történik, alapszabályának módosítását követően változatlan formában működik tovább, a kivált tagok részvételével és a társulati vagyon egy részének felhasználásával pedig új társulat vagy társulatok az alakulás szabályai szerint jönnek létre.
-
-(2) Kiválásra sor kerülhet úgy is, hogy a társulattól megváló tagok a társulati vagyon egy részével más, már működő társulathoz, mint átvevő társulathoz csatlakoznak. A kiválásról szóló küldöttgyűlési határozat megalkotásában ilyenkor az átvevő társulat is részt vesz.
-
-(3) A társulatból kiválni szándékozó területrészen a társulati tagok több mint kétharmada javaslatára a kiválásról döntő küldöttgyűlés megtartása előtt a kiváló területrészre az alakulás szabályát kell megfelelően alkalmazni, a kiválást elhatározó területrész társulati tagjai többségének szándéknyilatkozatát a kiválásról döntő küldöttgyűlés megtartása előtt be kell szerezni az új társulat megalakulására vonatkozóan.
-
-60. § A társulat más gazdálkodó szervezetté nem alakulhat át.
-
-### A társulat megszűnése jogutód nélkül
-
-61. § (1) A társulat jogutód nélkül megszűnik, ha
-
-- a) elhatározza a jogutód nélküli megszűnését (feloszlását);
-- b) a társulatot a bíróság felszámolási eljárás során megszünteti;
-- c) a 62. §-ban előírt kötelezettség teljesítésének felhívás ellenére történő elmaradása esetén a felügyeleti szerv kezdeményezésére a cégbíróság megszűntnek nyilvánítja;
-- d) a cégbíróság hivatalból elrendeli a törlését.
-
-(2) A társulat megszűnését követően az új társulat megalakulásig a társulat elkülönített vagyonát a társulati mű fekvése szerint illetékes vízügyi igazgatási szerv felelős őrzésbe veszi át és külön törvény szerint gondoskodik a társulati művek működtetéséről. Ez a szervezet a megszűnt társulat működési területén megalakuló új társulat(ok) részére az elkülönített vagyont térítésmentesen, területarányosan adja át a közfeladat ellátási kötelezettségével.
+61. §
 
 ### Felhatalmazó rendelkezések
 

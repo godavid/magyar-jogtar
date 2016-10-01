@@ -24,7 +24,7 @@ Az Országgyűlés a gazdasági növekedéshez szükséges hosszú lejáratú k�
 
 ### A jelzálog-hitelintézet fogalma, tevékenységi köre
 
-3. § (1) Jelzálog-hitelintézet pénzkölcsönt nyújt Magyarország, az Európai Unió más tagállama vagy az Európai Gazdasági Térségről szóló megállapodásban részes más állam (a továbbiakban: EGT-állam) területén lévő ingatlanon alapított jelzálogjog, ideértve az önálló zálogjogként alapított, valamint a különvált jelzálogjogot is (a továbbiakban együtt: jelzálogjog) fedezete mellett, amelyhez forrásait alapvetően jelzáloglevél kibocsátásával gyűjti.
+3. § (1) Jelzálog-hitelintézet pénzkölcsönt nyújt Magyarország, az Európai Unió más tagállama vagy az Európai Gazdasági Térségről szóló megállapodásban részes más állam (a továbbiakban: EGT-állam) területén lévő ingatlanon alapított jelzálogjog, ideértve az önálló zálogjogként alapított, átalakításos önálló zálogjoggá átalakított, valamint a különvált jelzálogjogot is (a továbbiakban együtt: jelzálogjog) fedezete mellett, amelyhez forrásait alapvetően jelzáloglevél kibocsátásával gyűjti.
 
 (2) Jelzálog-hitelintézet kizárólag az alábbi pénzügyi szolgáltatási, befektetési szolgáltatási, illetve kiegészítő befektetési szolgáltatási tevékenységeket végzi:
 
@@ -80,7 +80,7 @@ Az Országgyűlés a gazdasági növekedéshez szükséges hosszú lejáratú k�
 
 ### Jelzáloghitelezés
 
-5. § (1) A teljes hitelállományban a kölcsönszerződések megkötésekor, a jelzáloghitelek megvásárlásakor, a különvált jelzálogjog fedezete mellett történő pénzkölcsönnyújtáskor (a továbbiakban: refinanszírozási jelzáloghitel), valamint az önálló zálogjogvásárlások időpontjában a legalább ötéves futamidejű jelzálog-hitelintézeti követelések aránya nem lehet kevesebb nyolcvan százaléknál.
+5. § (1) A teljes hitelállományban a kölcsönszerződések megkötésekor, a jelzáloghitelek megvásárlásakor, a különvált jelzálogjog fedezete mellett történő pénzkölcsönnyújtáskor (a továbbiakban: refinanszírozási jelzáloghitel), valamint az önálló és átalakításos önálló zálogjog (a továbbiakban együtt: önálló zálogjog) megvásárlásának időpontjában a legalább ötéves futamidejű jelzálog-hitelintézeti követelések aránya nem lehet kevesebb nyolcvan százaléknál.
 
 (2)
 
@@ -114,7 +114,7 @@ Az Országgyűlés a gazdasági növekedéshez szükséges hosszú lejáratú k�
 
 (4) Jelzálog-hitelintézet olyan Magyarország területén lévő ingatlanon alapított önálló zálogjogot vásárolhat meg,
 
-- a) amelyet az eladó hitelintézet jelzáloghitel biztosítékaként a (2) bekezdésben meghatározott valamennyi egyéb feltételnek megfelelően alapított, és
+- a) amelyet az eladó hitelintézet jelzáloghitel biztosítékaként a (2) bekezdésben meghatározott valamennyi egyéb feltételnek megfelelően alapított vagy ilyenné átalakított, és
 - b) amelyet az eladó hitelintézet – az eladással egyidejűleg – részletvétel keretében vagy halasztott fizetés mellett azzal a feltétellel vásárol vissza, hogy a jelzálogjog a visszavásárló hitelintézetre a teljes vételár megfizetése napján száll át.
 
 (5) A jelzálog-hitelintézet (4) bekezdés b) pontja szerinti vételár-követelése (a továbbiakban: visszavásárlási vételár) nem haladhatja meg az önálló zálogjoggal biztosított jelzáloghitelből és a kapcsolódó kölcsönrészből még fennálló követelés mértékét.
@@ -202,7 +202,7 @@ Az Országgyűlés a gazdasági növekedéshez szükséges hosszú lejáratú k�
 - a) a fedezetként figyelembe vett tőkekövetelések értékvesztéssel csökkentett együttes értékének meg kell haladnia a forgalomban lévő jelzáloglevelek még nem törlesztett névértékének 100%-át,
 - b) a fedezetként figyelembe vett értékvesztéssel csökkentett tőkére járó kamat együttes értékének meg kell haladnia a forgalomban lévő jelzáloglevelek még nem törlesztett névértékére jutó kamatának 100%-át.
 
-(3) Rendes fedezetként azon jelzáloghitelből, illetve refinanszírozási jelzáloghitelből eredő tőkekövetelés és a szerződés alapján járó kamat, valamint a fennálló tőkekövetelés százalékában meghatározott, a kölcsönszerződés szerint a futamidő alatt rendszeresen felszámítható kezelési költség (a továbbiakban: kamat jellegű bevétel) vehető figyelembe, amely fedezetéül kikötött jelzálogjog a jelzálog-hitelintézet javára az ingatlan-nyilvántartásba bejegyzésre került. Rendes fedezetként a visszavásárlási vételár, valamint a kapcsolódó kölcsönrészből eredő tőkekövetelés és a szerződés alapján járó kamat, valamint kamat jellegű bevétel, továbbá a származtatott (derivatív) ügylet (6) bekezdés szerinti értéke is figyelembe vehető. Refinanszírozási jelzáloghitelből eredő tőkekövetelés, illetve önálló zálogjog vásárlása-visszavásárlása esetén a visszavásárlási vételár, továbbá a szerződés alapján járó kamat és kamat jellegű bevétel abban az esetben vehető figyelembe rendes fedezetként, ha a különvált zálogjog, illetve az önálló zálogjog alapítása, valamint a jelzálog-hitelintézet javára történő átruházása érvényesen megtörtént, és a jelzálog-hitelintézet feltétel nélkül jogosult kezdeményezni a különvált zálogjog, valamint az önálló zálogjog átjegyzését a saját javára az ingatlan-nyilvántartásban.
+(3) Rendes fedezetként azon jelzáloghitelből, illetve refinanszírozási jelzáloghitelből eredő tőkekövetelés és a szerződés alapján járó kamat, valamint a fennálló tőkekövetelés százalékában meghatározott, a kölcsönszerződés szerint a futamidő alatt rendszeresen felszámítható kezelési költség (a továbbiakban: kamat jellegű bevétel) vehető figyelembe, amely fedezetéül kikötött jelzálogjog a jelzálog-hitelintézet javára az ingatlan-nyilvántartásba bejegyzésre került. Rendes fedezetként a visszavásárlási vételár, valamint a kapcsolódó kölcsönrészből eredő tőkekövetelés és a szerződés alapján járó kamat, valamint kamat jellegű bevétel, továbbá a származtatott (derivatív) ügylet (6) bekezdés szerinti értéke is figyelembe vehető. Refinanszírozási jelzáloghitelből eredő tőkekövetelés, illetve önálló zálogjog vásárlása-visszavásárlása esetén a visszavásárlási vételár, továbbá a szerződés alapján járó kamat és kamat jellegű bevétel abban az esetben vehető figyelembe rendes fedezetként, ha az önálló zálogjog alapítása, illetve jelzálognak átalakításos önálló zálogjoggá való átalakítása, és ezeknek, illetve a jelzálognak különvált zálogjogként a jelzálog-hitelintézet javára történő átruházása érvényesen megtörtént, és a jelzálog-hitelintézet feltétel nélkül jogosult kezdeményezni a különvált zálogjog, valamint az önálló zálogjog átjegyzését a saját javára az ingatlan-nyilvántartásban.
 
 (4) A jelzáloglevelek mindenkori fedezetét – a (2) bekezdés szerinti megfelelés mellett – a jelzálog-hitelintézet a jelenérték alapján is biztosítani köteles.
 

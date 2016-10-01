@@ -16,7 +16,11 @@ a pénzügyi közvetítőrendszert érintő egyes törvények módosításáról
 
 20. § (1)
 
-(2)
+(2) A Jht. 8. § (4) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+(Jelzálog-hitelintézet olyan Magyarország területén lévő ingatlanon alapított önálló zálogjogot vásárolhat meg,)
+
+„a) amelyet az eladó hitelintézet jelzáloghitel biztosítékaként a (2) bekezdésben meghatározott valamennyi egyéb feltételnek megfelelően alapított vagy ilyenné átalakított, és”
 
 (3)
 
@@ -24,9 +28,10 @@ a pénzügyi közvetítőrendszert érintő egyes törvények módosításáról
 
 22. § A Jht.
 
-- a)–b)
+- a) 3. § (1) bekezdésében az „önálló zálogjogként alapított, valamint” szövegrész helyébe az „önálló zálogjogként alapított, átalakításos önálló zálogjoggá átalakított, valamint” szöveg,
+- b) 5. § (1) bekezdésében az „önálló zálogjogvásárlások” szövegrész helyébe az „önálló és átalakításos önálló zálogjog (a továbbiakban együtt: önálló zálogjog) megvásárlásának” szöveg,
 - c)–d)
-- e)
+- e) 14. § (3) bekezdésében az „a különvált zálogjog, illetve az önálló zálogjog alapítása, valamint” szövegrész helyébe az „az önálló zálogjog alapítása, illetve jelzálognak átalakításos önálló zálogjoggá való átalakítása, és ezeknek, illetve a jelzálognak különvált zálogjogként” szöveg,
 - f)
 
 lép.

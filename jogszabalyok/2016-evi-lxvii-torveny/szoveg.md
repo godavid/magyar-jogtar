@@ -153,21 +153,75 @@ lép.
 
 #### 70–73. §
 
-#### 74. §
+74. § A mozgóképről szóló 2004. évi II. törvény 9/B. § (1) bekezdése a következő k) ponttal egészül ki:
+
+(Az MNF feladatai különösen:)
+
+„k) a IV. fejezet szerinti közterület- és ingatlanhasználatra vonatkozó hatósági ügyekkel kapcsolatos eljárás lefolytatása.”
 
 #### 75–78. §
 
 #### 79. §
 
-#### 80–82. §
+80. § A mozgóképről szóló 2004. évi II. törvény IV. Fejezetének címe helyébe a következő rendelkezés lép:
+
+„A KÖZTERÜLETEK ÉS AZ ÁLLAM TULAJDONÁBAN ÁLLÓ EGYÉB INGATLANOK FILMFORGATÁSI CÉLÚ HASZNÁLATA”
+
+81. § (1) A mozgóképről szóló 2004. évi II. törvény 34. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A települési önkormányzat tulajdonában álló közterület, valamint a nemzeti vagyonról szóló törvény (a továbbiakban: Nvt.) szerinti tulajdonosi joggyakorló tulajdonosi joggyakorlása alatt álló ingatlan – a kiemelt nemzeti emlékhely kivételével – filmalkotás forgatása céljából történő igénybevételére e fejezetet kell alkalmazni. E fejezet alkalmazásában
+
+a) filmalkotásnak minősül a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló törvény hatálya alá tartozó reklámfilm is,
+
+b) filmforgatási célú közterület-használatnak minősül a közterület használata akkor is, ha az csak a filmforgatáshoz kapcsolódó technikai jellegű tevékenységhez, illetve a stáb parkolásához, a kiürítéshez, a forgalomtechnikai biztonság biztosításához szükséges.”
+
+(2) A mozgóképről szóló 2004. évi II. törvény 34. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A települési önkormányzat a közterületek filmforgatási célú használatát legfeljebb a 3. mellékletnek megfelelő mértékben meghatározott díj ellenében biztosíthatja. A naptári napon legfeljebb hat órával átnyúló éjszakai forgatások esetében a töredéknapra a 3. mellékletben meghatározott összegeket kell alkalmazni. A közterület használatáért megállapított díj a tulajdonosi joggyakorlót illeti meg. A 3. melléklet szerinti legmagasabb díjak évente a tárgyévet megelőző második évre közzétett éves fogyasztói árindexek szorzatával növelt mértékben emelkednek. A 3. melléklet e bekezdés szerinti módosított díjtételeit az MNF és a saját honlappal rendelkező települési önkormányzat az adott év elején honlapján közzéteszi.”
+
+82. § (1) A mozgóképről szóló 2004. évi II. törvény 35. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(1) Az MNF a közterület-használatról hatósági szerződésben állapodik meg a kérelmezővel. A hatósági szerződés a települési képviselő-testület jóváhagyásával válik érvényessé. A filmforgatáshoz kapcsolódó, jogszabály alapján hatósági engedélyhez, illetve hatósági bejelentéshez kötött tevékenységek a (3) és (4) bekezdésben foglaltak kivételével – a jogszabályban a kérelem, illetve bejelentés tartalmaként előírt adatok megadásával és mellékletei benyújtásával – bejelentés alapján gyakorolhatók. Az MNF a bejelentés tartalma vagy hatósági ellenőrzés alapján megállapított jogellenesség esetén a bejelentéssel érintett tevékenységet, magatartást, illetve helyzet fenntartását megtilthatja.
+
+(2) Az e fejezet szerinti, közterület filmforgatási célú használatára irányuló kérelmet, valamint a filmforgatáshoz kapcsolódó hatósági bejelentéseket az MNF-nél legalább 5 munkanappal, sürgős eljárás esetén legalább 2 munkanappal a filmforgatás tervezett megkezdése előtt kell előterjeszteni. A hatósági szerződésnek a Ket. 77. § (1) bekezdése szerinti módosítására az e bekezdés szerinti határidők az irányadók. A közterület-használathoz kapcsolódó, a települési önkormányzat valamely külön intézményének feladatkörét érintő kérelem az e törvény végrehajtására kiadott kormányrendeletben meghatározott intézményhez közvetlenül is benyújtható. Az Nvt. szerinti tulajdonosi joggyakorló tulajdonosi joggyakorlása alatt álló ingatlan filmforgatási célú használatára irányuló kérelem az MNF-nél is előterjeszthető, az MNF e rendelkezés alkalmazásában a Ket. 38/A. § (1) bekezdése szerinti közreműködő hatóságnak minősül. Az MNF a kérelmet haladéktalanul, de legkésőbb a benyújtást követő munkanapon továbbítja az ingatlan tulajdonosi joggyakorlójához vagy vagyonkezelőjéhez.”
+
+(2) A mozgóképről szóló 2004. évi II. törvény 35. § (4) és (5) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(4) Helyi jelentőségű védett természeti területen a filmforgatáshoz kapcsolódó természetvédelmi engedélyezési eljárásban az ügyintézési határidő 15 nap. A kérelmet az MNF-nél legalább a filmforgatás tervezett megkezdése előtt 15 nappal kell előterjeszteni, amelyet az MNF haladéktalanul, de legkésőbb a benyújtást követő munkanapon további ügyintézés céljából az eljárásra hatáskörrel rendelkező illetékes hatósághoz továbbít. A döntést a forgatás tervezett megkezdésének napjáig közölni kell a kérelmezővel. Ha a hatóság a rá vonatkozóan meghatározott határidőn belül nem nyilatkozik, engedélyét megadottnak kell tekinteni. Az eljárásban nincs helye fellebbezésnek.
+
+(5) Az e fejezet szerinti eljárások során a kérelmező, az MNF, a rendőrség, a települési önkormányzat, a tulajdonosi joggyakorló, a filmforgatással érintett hatóságok, szakhatóságok, továbbá az egyéb érintett intézmények elektronikus úton tartanak kapcsolatot egymással.”
+
+(3) A mozgóképről szóló 2004. évi II. törvény 35. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) A filmforgatáshoz kapcsolódó – az e törvény szerinti – hatósági bejelentés és kérelem kapcsán az egyébként eljáró hatóságot, szakhatóságot igazgatási szolgáltatási díj címén annak az összegnek a másfélszerese, sürgős eljárás esetén pedig annak az összegnek a tizenötszöröse illeti meg, mint amely összeg az adott eljárás kapcsán a hatóság, szakhatóság számára igazgatási szolgáltatási díjként jogszabály alapján járna. Az MNF-et a hatósági szerződéssel kapcsolatos eljárásért 10 000 forint, sürgős eljárás esetén pedig 50 000 forint igazgatási szolgáltatási díj illeti meg. Az MNF az igazgatási szolgáltatási díjat köteles visszafizetni, ha a számára az e törvény végrehajtására kiadott kormányrendeletben megállapított valamely határidőt elmulasztja, sürgős eljárás esetén pedig az adott eljárási cselekményt legkésőbb 1 munkanap alatt nem teljesíti.”
+
+(4) A mozgóképről szóló 2004. évi II. törvény 35. §-a következő (8) és (9) bekezdéssel egészül ki:
+
+„(8) A közút kezelője a korlátozott forgalmú övezetekben a közterület-használattal arányos mértékben lehetővé teszi a kérelmező engedélyköteles járműveinek térítésmentes behajtását oly módon, hogy a külön benyújtott behajtási engedély iránti kérelem alapján megvizsgálja, hogy a kérelmezett közterület nagysága elegendő-e a kérelmezett gépjárművek elhelyezésére, illetve a kérelmezett gépjárművek behajtásának egyéb (túlsúly, túlméret) akadálya nem áll-e fenn. Amennyiben a kérelmezett közterület elégséges mértékben rendelkezésre áll és egyéb akadály nem áll fenn, a behajtási engedélyt a kérelmező gépjárműveire a forgatás megkezdéséig ki kell adni. Ha a hatóság a határidőn belül nem nyilatkozik, engedélyét megadottnak kell tekinteni.
+
+(9) E törvény alapján az MNF erre kijelölt szervezeti egysége a filmforgatás engedélyezésére vonatkozó, e fejezetben meghatározott ügyek tekintetében hatósági jogkör gyakorlására jogosult, illetékessége az ország egész területére kiterjed.”
 
 #### 83. §
 
-#### 84. §
+84. § (1) A mozgóképről szóló 2004. évi II. törvény 37. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a települési önkormányzat tulajdonában álló közterület filmforgatási célú használata kapcsán a filmforgatáshoz kapcsolódó eljárások lefolytatásának és a hatósági bejelentések, kérelmek továbbításának a rendjét, valamint az MNF eljárásához kapcsolódó nyilvántartásokkal kapcsolatos részletes szabályokat.”
+
+(2) A mozgóképről szóló 2004. évi II. törvény 37. § (2) bekezdése a következő c) ponttal egészül ki:
+
+(Felhatalmazást kap a miniszter, hogy)
+
+„c) az adópolitikáért felelős miniszterrel egyetértésben az MNF-et a települési önkormányzat tulajdonában álló közterület filmforgatási célú használata kapcsán történő eljárásáért megillető igazgatási szolgáltatási díjjal kapcsolatos részletes szabályokat.”
+
+(rendeletben állapítsa meg.)
 
 #### 85. §
 
-#### 86–88. §
+86. § A mozgóképről szóló 2004. évi II. törvény 3. melléklete helyébe az 1. melléklet lép.
+
+87. § A mozgóképről szóló 2004. évi II. törvény 35. § (3) bekezdésében „a közterület fekvése szerint illetékes fővárosi és megyei kormányhivatalnál” szöveg helyébe „az MNF-nél” szöveg lép.
+
+88. § Hatályát veszti a mozgóképről szóló 2004. évi II. törvény 37. § (3), (3a) és (5) bekezdése.
 
 #### 16. Az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló
 
@@ -359,7 +413,7 @@ lép.
 
 #### 41. A helyi önkormányzatok és szerveik, a köztársasági megbízottak, valamint egyes centrális alárendeltségű szervek feladat- és hatásköreiről szóló 1991. évi XX. törvény módosítása
 
-#### 149. §
+149. § Hatályát veszti a helyi önkormányzatok és szerveik, a köztársasági megbízottak, valamint egyes centrális alárendeltségű szervek feladat- és hatásköreiről szóló 1991. évi XX. törvény 17. § (1) bekezdése.
 
 #### 42. A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény módosítása
 
@@ -373,7 +427,7 @@ lép.
 
 #### 43. A vízgazdálkodásról szóló 1995. évi LVII. törvény módosítása
 
-#### 151. §
+151. § Hatályát veszti a vízgazdálkodásról szóló 1995. évi LVII. törvény 45/B. §-a.
 
 #### 44. A területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény módosítása
 
@@ -441,17 +495,27 @@ lép.
 
 #### 59. A vízitársulatokról szóló 2009. évi CXLIV. törvény módosítása
 
-#### 201. §
+201. § Hatályát veszti a vízitársulatokról szóló 2009. évi CXLIV. törvény
+
+- 1. „A társulat megalakulásának előkészítése” alcíme,
+- 2. „A küldöttek választása, visszahívása” alcíme,
+- 3. „A társulat megalakulása” alcíme,
+- 4. „Csatlakozás a társulathoz, belépés” alcíme,
+- 5. „A társulat megszűnése jogutódlással” alcíme,
+- 6. „Egyesülés” alcíme,
+- 7. „Szétválás” alcíme,
+- 8. „Kiválás” alcíme, és
+- 9. „A társulat megszűnése jogutód nélkül” alcíme.
 
 #### 60. A közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény módosítása
 
-#### 202. §
+202. § Hatályát veszti a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény 60. és 61. §-a.
 
 #### 61. A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló
 
 2011. évi CXXVIII. törvény módosítása
 
-#### 203. §
+203. § Hatályát veszti a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 84. §-a.
 
 #### 62. A nemzeti köznevelésről szóló 2011. évi CXC. törvény módosítása
 
@@ -477,7 +541,7 @@ lép.
 
 #### 66. Egyes ingatlanok fővárosi önkormányzat részére történő átadásáról, valamint önkormányzatokat érintő egyes törvények módosításáról szóló 2012. évi CXC. törvény módosítása
 
-#### 209. §
+209. § Hatályát veszti az egyes ingatlanok fővárosi önkormányzat részére történő átadásáról, valamint önkormányzatokat érintő egyes törvények módosításáról szóló 2012. évi CXC. törvény 6. és 7. alcíme.
 
 #### 67. A fekvőbeteg-szakellátó és egyes fekvőbeteg-szakellátóhoz kapcsolódó egészségügyi háttérszolgáltatást nyújtó, 100%-os állami tulajdonban lévő, valamint azok 100%-os tulajdonában lévő gazdasági társaságok által ellátott feladatok központi költségvetési szervek általi átvételéről, valamint az ezzel kapcsolatos eljárási kérdések rendezéséről szóló 2013. évi XXV. törvény módosítása
 
@@ -487,9 +551,11 @@ lép.
 
 2013. évi L. törvény módosítása
 
-#### 211. §
+211. § Az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény 21. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-#### 212. §
+„(2) A Tanács tevékenységét az e-közigazgatásért felelős miniszter által delegált kiberkoordinátor, valamint a nem kormányzati szereplőkkel való együttműködésnek keretet biztosító kiberbiztonsági munkacsoportok és a Nemzeti Kiberbiztonsági Fórum (a továbbiakban: Fórum) támogatja.”
+
+212. § Hatályát veszti az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény 21. § (3) és (4) bekezdése.
 
 #### 69. A felnőttképzésről szóló 2013. évi LXXVII. törvény módosítása
 
@@ -538,7 +604,11 @@ lép.
 236. § Hatályát veszti
 
 - 1.
-- 2–6.
+- 2. a gázközmű-vagyonnal összefüggő önkormányzati igények rendezéséről szóló 2001. évi LVI. törvény,
+- 3. az 1993. augusztus 4-e és 1995. december 31-e között önkormányzati hozzájárulásból létesített gázközmű-vagyonnal kapcsolatos önkormányzati igények rendezéséről szóló 2002. évi LXIII. törvény,
+- 4. az egyes rendészeti tárgyú törvények módosításáról szóló 2013. évi XCIII. törvény,
+- 5. egyes törvényeknek a katasztrófák elleni védekezés hatékonyságának növelésével összefüggő módosításáról szóló 2013. évi CXCII. törvény,
+- 6. a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény módosításáról szóló 2015. évi LXXXII. törvény.
 
 ### V. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -587,6 +657,30 @@ való megfelelést szolgálja.
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### 1. melléklet a 2016. évi LXVII. törvényhez
+
+„3. számú melléklet a 2004. évi II. törvényhez
+
+A települési önkormányzat tulajdonában álló közterületek filmforgatási célú használatának díjai ahasználat célja szerint
+
+|  | A | B | C | D | E | F |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | Közterületbesorolás | forgatási terület | technikai terület | stáb- parkolási terület | kiürítési terület | forgalom- technikai biztonsági terület |
+| Ft/m2/nap | Ft/m2/nap | Ft/m2/nap | Ft/m2/nap | Ft/m2/nap |
+| 2 | A világörökségről szóló 2011. évi LXXVII. törvény 1. mellékletében felsorolt világörökségi területek és Budapest turisztikailag kiemelt központi területei | 2 084 | 1 042 | 521 | 521 | 100 |
+| töredéknap esetén1042 | töredéknap esetén521 | töredéknap esetén261 | töredéknap esetén261 | töredéknap esetén50 |
+| 3 | Budapest nagykörúton belüli területei, valamint Budapest Gellérthegy, Krisztinaváros, Rézmál, Rózsadomb, Tabán, Vérhalom,Viziváros városrészei | 833 | 416 | 208 | 208 | 40 |
+| töredéknap esetén416 | töredéknap esetén208 | töredéknap esetén104 | töredéknap esetén104 | töredéknap esetén20 |
+| 4 | Budapest közigazgatási területe a nagykörúton kívül | 312 | 156 | 104 | 104 | 10 |
+| töredéknap esetén156 | töredéknap esetén78 | töredéknap esetén52 | töredéknap esetén52 | töredéknap esetén5 |
+| 5 | a város, a megyei jogú város, a járásszékhely város, a község díszburkolatos vagy turisztikailag kiemelt központi területei | 521 | 208 | 208 | 208 | 20 |
+| töredéknap esetén261 | töredéknap esetén104 | töredéknap esetén104 | töredéknap esetén104 | töredéknap esetén10 |
+| 6 | a város, a megyei jogú város, a járásszékhely város, a község nem díszburkolatos vagy nem turisztikailag kiemelt központi területei | 208 | 156 | 104 | 104 | 10 |
+| töredéknap esetén104 | töredéknap esetén78 | töredéknap esetén52 | töredéknap esetén52 | töredéknap esetén5 |
+|  |  |  |  |  |  |  |
+| A melléklet alkalmazásában: |  |  |  |  |  |  |
+| a) forgalomtechnika biztonsági terület: A filmforgatás által nem használt, de a filmforgatás érdekében a gyalogos és a járműközlekedés elől elzárt terület. A biztonsági terület nagyságának a forgatási terület nagyságával arányos mértékben kell állnia. Az arányosság mértéke a közútkezelője által elfogadott forgalomtechnikai terv alapján kerül meghatározásra. b) forgatási terület: A filmforgatás során a felvételi képmezőben szereplő színészek, egyéb közreműködők, díszletelemek, berendezési tárgyak, kellékek, járművek által elfoglalt terület. c) kiürítési terület: A b), d) és e) pont szerinti kategóriákba tartozó területeken, a filmforgatási napot megelőző napon, kifejezetten a filmforgatási, technikai, illetve a parkolási terület kiürítésének szándékával igénybe vett terület, amennyiben a területen a d) pont szerinti tevékenységen kívül más nem történik. d) stábparkolási terület: A b) és e) pont szerinti kategóriákba nem tartozó, a forgatás és technikai kiszolgálás helyszínétől területileg elválasztható háttérkiszolgáló egységek és járművek által elfoglalt terület. e) technikai terület: A filmforgatási helyszín közvetlen környezetében felvonuló, a filmforgatás technikai megvalósulását elősegítő eszközök (különösen kamerák, világító és hangrögzítő berendezések), az azt kezelő stáb, műszaki személyzet, a filmforgatást közvetlenül kiszolgáló egyéb egységek és járművek által elfoglalt terület. |  |  |  |  |  |  |
+
+”
 
 ### 2. melléklet a 2016. évi LXVII. törvényhez
 

@@ -136,13 +136,14 @@ e törvény erejénél fogva a működési terület szerinti vízügyi igazgatá
 
 (2) Az (1) bekezdésben megjelölt feladat:
 
-- a) a vízbázisvédelem ellátása, a vízkészletek átcsoportosítását szolgáló vízelosztó rendszerek — ideértve a csatornákat is — létesítése, fenntartása és üzemeltetése, továbbá a többes rendeltetésű rendszerek fenntartása és üzemeltetése;
+- a) vízbázisvédelem ellátása;
 - b) a vízfolyások medrében (így például a kis-, a közép-, a nagyvízi mederben és a mellékágakban) a víz, a hordalék, a jég zavartalan levonulási lehetőségének megteremtése, a folyószabályozási, mederfenntartási munkálatok elvégzése, valamint a hajózható folyószakaszokon, természetes tavakon, csatornákon a hajóút kijelölése, kitűzése és fenntartása;
 - c) a természetes állóvizek, holtágak, patakok vagy patakszakaszok szabályozása, fenntartása, partvédelme és üzemeltetése, a vizek kártételeinek megelőzése, mérséklése;
 - d) az elsőrendű árvízvédelmi létesítmények (így például töltések, műtárgyak) fejlesztése és fenntartása, azokon a védekezés ellátása, az árvízmentesítés — ha az kettőnél több települést érint — a védelmi szakfelszerelés karbantartása és fejlesztése;
 - e) a vízépítési műtárgyak (vízlépcsők) — fenntartása és üzemeltetése a jogszabályok, üzemeltetési szabályzatok szerinti — működtetése;
 - f) a belvízelvezető művek (így például a belvízcsatornák, szivattyútelepek, belvíztározók) létesítése, fenntartása, bővítése, a belvízvédekezés irányítása és végrehajtása;
-- g) a vízkészlet-gazdálkodási célú feladatokat ellátó vízátvezető csatornák bővítése és üzemeltetése.
+- g) a vízkészlet-gazdálkodási célú feladatokat ellátó vízátvezető csatornák bővítése és üzemeltetése;
+- h) a vízkészletek átcsoportosítását szolgáló vízelosztó rendszerek – ideértve a csatornákat is – létesítése, fenntartása és üzemeltetése, a többes rendeltetésű rendszerek fenntartása és üzemeltetése, valamint a mezőgazdasági vízszolgáltatás biztosítása.
 
 (3) A helyi önkormányzat tulajdonában lévő vizekről és vízilétesítményekről a 9–10. §-okban és a 13. §-ban foglaltakra is figyelemmel a központi és az önkormányzati költségvetésben meghatározott pénzeszközök felhasználásával, illetve a külön törvényben szabályozott vízitársulat útján lehet gondoskodni.
 
@@ -333,9 +334,13 @@ alapján kell kiszámítania.
 - i) a felszíni vízből történő ökológiai célú vízhasználat vízmennyisége után,
 - j) ha a vízkészletjárulék tárgyévre vonatkozó összege nem haladja meg az 1000 forintot,
 - k) kármentesítés céljából történő vízkivétel esetén, ha az hatósági kötelezés vagy engedély alapján történt,
-- l) öntözési, rizstermelési és halgazdasági vízhasználatok vonatkozásában.
+- l) az öntözési célú vízhasználat esetében vízhasználónként az évi 50 000 m3-t, a halgazdálkodási és rizstermelési célú vízhasználat esetében vízhasználónként az évi 150 000 m3-t meg nem haladó vízmennyiség után,
+- m) a (9) bekezdés szerinti tartósan vízhiányos időszakban az öntözési, halgazdálkodási és rizstermelési vízhasználat vízmennyisége után,
+- n) a vízügyi hatósági jogkörben kiadott vízjogi engedélyben megadott vízmennyiségből a tél végi többletvizek – felszíni vizek, ár- és belvizek – visszatartásából és tározásából származó hasznosított vízkészlet után, amennyiben a vízügyi igazgatási szerv igazolja, hogy a vízkivételi ponton a többlet felszíni víz mennyisége rendelkezésre áll.
 
-(2) Az (1) bekezdés f), g) és l) pontjában foglalt esetben a vízkészletjárulék-fizetési kötelezettség alóli mentesítés nem érinti a vízhasználatra vonatkozó, 15/E. § szerinti nyilatkozattételi és adatszolgáltatási kötelezettségeket.
+(1a) Az (1) bekezdés l) pontja szerinti vízkészletjárulék fizetési kötelezettségre vonatkozó rendelkezéstől az állam szociális, környezeti és gazdasági hatásokra, valamint a földrajzi és éghajlati jellemzőkre alapított okból a vízhasználó javára eltérhet.
+
+(2) Az (1) bekezdés f), g), l)–n) pontjában foglalt esetben, továbbá az (1) bekezdés c) pontjában foglalt azon esetben, ha az engedélyes a vízügyi hatósági jogkörben kiadott vízjogi engedéllyel rendelkezik, a vízkészletjárulék-fizetési kötelezettség alóli mentesség nem érinti a vízhasználatra vonatkozó, a 15/E. § szerinti nyilatkozattételi és adatszolgáltatási kötelezettségeket.
 
 (3) A vízhasználónak az (1) bekezdés b) és f) pontjaiban megjelölt mentesség megállapítását az ok bekövetkezésétől számított hatvan napon belül az illetékes vízügyi hatóságtól kell kérnie. Hatvan nap után a mentességre hivatkozni nem lehet.
 
@@ -348,6 +353,8 @@ alapján kell kiszámítania.
 (7) Azt, hogy a vízkészletjárulék az államháztartás mely szervezete javára számolható fel, továbbá annak mértékét külön jogszabály állapítja meg.
 
 (8) A vízhasználó a kizárólag energiahasznosítás céljából kitermelt termálvíz használatára tekintettel általa fizetendő víz-készletjárulékot – legfeljebb a vízkészletjárulék összege erejéig – csökkentheti a termálvíz visszatáplálását biztosító kút kialakításával, illetve a berendezések korszerűsítésével összefüggésben, az adóévben felmerült igazolt és a vízügyi hatósági feladatokat ellátó szerv által elfogadott költségének az összegével.
+
+(9) A tartósan vízhiányos időszak várható kezdetét és végét a hidrometeorológiai előrejelzések figyelembevételével a vízgazdálkodásért felelős miniszter a Hivatalos Értesítőben közleményben közzéteszi.
 
 15/D. § (1) A vízhasználó a naptári év első három negyedévének vízigénybevétele után számított vízkészletjárulékot és az üzemi vízfogyasztó a vízkészletjárulékot – a (2) és (3) bekezdésben foglalt kivételekkel – a tárgynegyedévet követő hónap 15. napjáig köteles az illetékes vízügyi hatóság által megjelölt számlára befizetni.
 
@@ -987,12 +994,12 @@ rendeletben történő megállapítására.
 
 - a) a Tanács 91/271/EGK irányelve (1991. május 21.) a települési szennyvíztisztításról 2. cikkének (4) bekezdése, (6) bekezdése és (9) bekezdése, 3. cikke;
 - b) a Tanács 98/83/EK irányelve (1998. november 3.) az emberi fogyasztást szolgáló víz minőségéről;
-- c) az Európai Parlament és a Tanács 2000/60/EK irányelve (2000. október 23.) a közösségi cselekvés kereteinek a vízpolitika területén történő meghatározásáról 4. cikkének (1)–(2) bekezdése, 6. cikkének (2) bekezdése és 14. cikkének (1) bekezdése;
+- c) a vízpolitika terén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i 2000/60/EK európai parlamenti és tanácsi irányelv 4. cikk (1) és (2) bekezdése, 6. cikk (2) bekezdése, 9. cikke és 14. cikk (1) bekezdése;
 - d) az Európai Parlament és a Tanács 2004/35/EK irányelve (2004. április 21.) a környezeti károk megelőzése és helyreállítása tekintetében a környezeti felelősségről, a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvénnyel, a természet védelméről szóló 1996. évi LIII. törvénnyel, valamint a hulladékról szóló 2012. évi CLXXXV. törvénnyel, valamint azok kapcsolódó végrehajtási rendeleteivel együtt;
 - e) az Európai Parlament és a Tanács 2007/60/EK irányelve (2007. október 23.) az árvízkockázatok értékeléséről és kezeléséről 5. cikkének (1) bekezdése, 6. cikkének (1) bekezdése, 7. cikkének (1) bekezdése;
 - f) a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv.
 
-45/B. § E törvénynek az egyes törvényeknek a vízkárelhárítás hatékonyabbá tételével összefüggő módosításáról szóló 2011. évi XXII. törvénnyel (a továbbiakban: törvénymódosítás) megállapított rendelkezéseit a törvénymódosítás hatálybalépésekor a jogerősen még el nem bírált vízügyi és építésügyi hatósági eljárásokban is alkalmazni kell.
+45/B. §
 
 45/C. § (1) E törvénynek a hulladékról szóló 2012. évi CLXXXV. törvénnyel (a továbbiakban: Ht.) megállapított rendelkezéseit a Ht. hatálybalépésekor jogerősen még el nem bírált ügyekben is alkalmazni kell azzal, hogy a települési folyékony hulladék begyűjtése és szállítása iránti engedélykérelem a tervezett tevékenység bejelentésének minősül.
 

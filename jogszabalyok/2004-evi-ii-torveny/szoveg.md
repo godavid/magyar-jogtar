@@ -207,6 +207,7 @@ Magyarország Országgyűlése a magyar mozgóképkultúra értékeinek gyarapí
 - h) a mozgóképszakmai támogatási rendszer továbbfejlesztésére vonatkozó koncepciók elkészítése,
 - i) a magyar kultúra terjesztése, illetve Magyarország nemzetközi megítélése szempontjából kiemelkedő jelentőségű, filmforgatásra alkalmas állami és önkormányzati tulajdonban álló helyszínek nyilvántartása, valamint közreműködés filmgyártási célra történő hasznosításukban az azok felett rendelkezésre jogosultakkal kötött megállapodás alapján,
 - j) a 14. § (7) bekezdése szerinti forrás felhasználásával a mozgóképszakmai képzés támogatása,
+- k) a IV. fejezet szerinti közterület- és ingatlanhasználatra vonatkozó hatósági ügyekkel kapcsolatos eljárás lefolytatása.
 
 (2) Az MNF az e törvényben meghatározott pályázati és támogatási elvek, illetve feltételek érvényesülését biztosító, a pályázatokra és a támogatások nyújtására vonatkozó részletes szabályokat az alapszabályában, illetve a Támogatási Szabályzatában állapítja meg. Az MNF a Támogatási Szabályzatot a honlapján közzéteszi.
 
@@ -1044,16 +1045,16 @@ nem haladhatja meg.
 
 33/A. § A Hivatal ellátja Magyarország képviseletét az Európai Audiovizuális Obszervatóriumban.
 
-### IV. Fejezet — A TELEPÜLÉSI ÖNKORMÁNYZAT TULAJDONÁBAN ÁLLÓ KÖZTERÜLET FILMFORGATÁSI CÉLÚ HASZNÁLATA
+### IV. Fejezet — A KÖZTERÜLETEK ÉS AZ ÁLLAM TULAJDONÁBAN ÁLLÓ EGYÉB INGATLANOK FILMFORGATÁSI CÉLÚ HASZNÁLATA
 
-34. § (1) A települési önkormányzat tulajdonában álló közterület filmalkotás forgatása céljából történő igénybevételére e fejezetet kell alkalmazni. E fejezet alkalmazásában
+34. § (1) A települési önkormányzat tulajdonában álló közterület, valamint a nemzeti vagyonról szóló törvény (a továbbiakban: Nvt.) szerinti tulajdonosi joggyakorló tulajdonosi joggyakorlása alatt álló ingatlan – a kiemelt nemzeti emlékhely kivételével – filmalkotás forgatása céljából történő igénybevételére e fejezetet kell alkalmazni. E fejezet alkalmazásában
 
 - a) filmalkotásnak minősül a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló törvény hatálya alá tartozó reklámfilm is,
-- b) filmforgatási célú közterület-használatnak minősül a közterület használata akkor is, ha az csak a filmforgatáshoz kapcsolódó technikai jellegű tevékenységhez, illetve a stáb parkolásához szükséges.
+- b) filmforgatási célú közterület-használatnak minősül a közterület használata akkor is, ha az csak a filmforgatáshoz kapcsolódó technikai jellegű tevékenységhez, illetve a stáb parkolásához, a kiürítéshez, a forgalomtechnikai biztonság biztosításához szükséges.
 
 (2) Kérelmet filmelőállító vagy filmgyártó vállalkozás (a továbbiakban együtt: kérelmező) nyújthat be.
 
-(3) A települési önkormányzat képviselő-testülete a települési önkormányzat tulajdonában álló közterületek filmforgatási célú használatát legfeljebb a 3. mellékletnek – községi önkormányzat képviselő-testülete pedig a rendeletében foglalt felső határnak – megfelelő mértékben meghatározott díj ellenében biztosíthatja. A közterület használatáért megállapított díj a tulajdonos települési önkormányzatot illeti. A 3. melléklet szerinti legmagasabb díjak évente a tárgyévet megelőző második évre közzétett éves fogyasztói árindexek szorzatával növelt mértékben emelkednek. A 3. melléklet e bekezdés szerinti módosított díjtételeit a fővárosi és megyei kormányhivatal és a saját honlappal rendelkező települési önkormányzat a 2014. évtől kezdve az adott év elején a honlapján közzéteszi.
+(3) A települési önkormányzat a közterületek filmforgatási célú használatát legfeljebb a 3. mellékletnek megfelelő mértékben meghatározott díj ellenében biztosíthatja. A naptári napon legfeljebb hat órával átnyúló éjszakai forgatások esetében a töredéknapra a 3. mellékletben meghatározott összegeket kell alkalmazni. A közterület használatáért megállapított díj a tulajdonosi joggyakorlót illeti meg. A 3. melléklet szerinti legmagasabb díjak évente a tárgyévet megelőző második évre közzétett éves fogyasztói árindexek szorzatával növelt mértékben emelkednek. A 3. melléklet e bekezdés szerinti módosított díjtételeit az MNF és a saját honlappal rendelkező települési önkormányzat az adott év elején honlapján közzéteszi.
 
 (4) A közterület filmforgatási célú használata csak az elkerülhetetlenül szükséges mértékben korlátozhatja a közterülettel határos magántulajdonú ingatlanok használatát, és a korlátozás nem jelenthet aránytalan terhet a tulajdonos számára.
 
@@ -1061,19 +1062,23 @@ nem haladhatja meg.
 
 (6) Az (5) bekezdés alapján nyújtott mentesség vagy kedvezmény csekély összegű támogatásnak minősül, amelyet kizárólag az Európai Közösséget létrehozó Szerződés 87. és 88. cikkelyének a csekély összegű (de minimis) támogatásokra való alkalmazásáról szóló 2006. december 15-i 1998/2006/EK bizottsági rendelet (HL L 379/5. 2006.12.28.) szabályai alapján lehet nyújtani. Azonos támogatható költségek tekintetében a csekély összegű (de minimis) támogatás nem kumulálható állami támogatással, ha az ilyen jellegű kumuláció olyan támogatási intenzitást eredményezne, amely túllépi a Bizottság 800/2008/EK általános csoportmentességi rendeletében vagy az Európai Bizottság által elfogadott határozatban az egyes esetek meghatározott körülményeire vonatkozóan rögzített támogatási intenzitást.
 
-35. § (1) A fővárosi és megyei kormányhivatal a közterület-használatról hatósági szerződésben állapodik meg a kérelmezővel. A hatósági szerződés a települési képviselő-testület jóváhagyásával válik érvényessé. A filmforgatáshoz kapcsolódó, külön jogszabály alapján hatósági engedélyhez, illetve hatósági bejelentéshez kötött tevékenységek a (3)–(4) bekezdésben foglaltak kivételével – a külön jogszabályban a kérelem, illetve bejelentés tartalmaként előírt adatok megadásával és mellékletei benyújtásával – bejelentés alapján gyakorolhatók; a hatóság a bejelentés tartalma vagy hatósági ellenőrzés alapján, jogellenesség esetén a bejelentéssel érintett tevékenységet, magatartást, illetve helyzet fenntartását megtilthatja.
+35. § (1) Az MNF a közterület-használatról hatósági szerződésben állapodik meg a kérelmezővel. A hatósági szerződés a települési képviselő-testület jóváhagyásával válik érvényessé. A filmforgatáshoz kapcsolódó, jogszabály alapján hatósági engedélyhez, illetve hatósági bejelentéshez kötött tevékenységek a (3) és (4) bekezdésben foglaltak kivételével – a jogszabályban a kérelem, illetve bejelentés tartalmaként előírt adatok megadásával és mellékletei benyújtásával – bejelentés alapján gyakorolhatók. Az MNF a bejelentés tartalma vagy hatósági ellenőrzés alapján megállapított jogellenesség esetén a bejelentéssel érintett tevékenységet, magatartást, illetve helyzet fenntartását megtilthatja.
 
-(2) A települési önkormányzat tulajdonában álló közterület filmforgatási célú használatára irányuló kérelmet, valamint a filmforgatáshoz kapcsolódó hatósági bejelentéseket a közterület fekvése szerint illetékes fővárosi és megyei kormányhivatalnál legalább 5 munkanappal, sürgős eljárás esetén legalább 2 munkanappal a filmforgatás tervezett megkezdése előtt kell előterjeszteni. A közterület-használathoz kapcsolódó, a települési önkormányzat valamely külön intézményének feladatkörét érintő kérelem az e törvény végrehajtására kiadott kormányrendeletben meghatározott intézményhez közvetlenül is benyújtható.
+(2) Az e fejezet szerinti, közterület filmforgatási célú használatára irányuló kérelmet, valamint a filmforgatáshoz kapcsolódó hatósági bejelentéseket az MNF-nél legalább 5 munkanappal, sürgős eljárás esetén legalább 2 munkanappal a filmforgatás tervezett megkezdése előtt kell előterjeszteni. A hatósági szerződésnek a Ket. 77. § (1) bekezdése szerinti módosítására az e bekezdés szerinti határidők az irányadók. A közterület-használathoz kapcsolódó, a települési önkormányzat valamely külön intézményének feladatkörét érintő kérelem az e törvény végrehajtására kiadott kormányrendeletben meghatározott intézményhez közvetlenül is benyújtható. Az Nvt. szerinti tulajdonosi joggyakorló tulajdonosi joggyakorlása alatt álló ingatlan filmforgatási célú használatára irányuló kérelem az MNF-nél is előterjeszthető, az MNF e rendelkezés alkalmazásában a Ket. 38/A. § (1) bekezdése szerinti közreműködő hatóságnak minősül. Az MNF a kérelmet haladéktalanul, de legkésőbb a benyújtást követő munkanapon továbbítja az ingatlan tulajdonosi joggyakorlójához vagy vagyonkezelőjéhez.
 
-(3) Amennyiben a filmforgatáshoz alkalmazott színházi fegyverekhez rendőrhatósági engedély szükséges, a kérelmet legalább 10 munkanappal, sürgős eljárás esetén legalább 5 munkanappal a filmforgatás tervezett megkezdése előtt kell előterjeszteni a közterület fekvése szerint illetékes fővárosi és megyei kormányhivatalnál. A döntést a forgatás tervezett megkezdésének napjáig közölni kell a kérelmezővel. Az eljárásban nincs helye fellebbezésnek.
+(3) Amennyiben a filmforgatáshoz alkalmazott színházi fegyverekhez rendőrhatósági engedély szükséges, a kérelmet legalább 10 munkanappal, sürgős eljárás esetén legalább 5 munkanappal a filmforgatás tervezett megkezdése előtt kell előterjeszteni az MNF-nél. A döntést a forgatás tervezett megkezdésének napjáig közölni kell a kérelmezővel. Az eljárásban nincs helye fellebbezésnek.
 
-(4) Helyi jelentőségű védett természeti területen a filmforgatáshoz kapcsolódó természetvédelmi engedélyezési eljárásban az ügyintézési határidő 15 nap, amelyet a természetvédelmi hatóságnál legalább a filmforgatás tervezett megkezdése előtt 15 nappal kell benyújtani. A döntést a forgatás tervezett megkezdésének napjáig közölni kell a kérelmezővel. Az eljárásban nincs helye fellebbezésnek.
+(4) Helyi jelentőségű védett természeti területen a filmforgatáshoz kapcsolódó természetvédelmi engedélyezési eljárásban az ügyintézési határidő 15 nap. A kérelmet az MNF-nél legalább a filmforgatás tervezett megkezdése előtt 15 nappal kell előterjeszteni, amelyet az MNF haladéktalanul, de legkésőbb a benyújtást követő munkanapon további ügyintézés céljából az eljárásra hatáskörrel rendelkező illetékes hatósághoz továbbít. A döntést a forgatás tervezett megkezdésének napjáig közölni kell a kérelmezővel. Ha a hatóság a rá vonatkozóan meghatározott határidőn belül nem nyilatkozik, engedélyét megadottnak kell tekinteni. Az eljárásban nincs helye fellebbezésnek.
 
-(5) Az e fejezet szerinti eljárások során a kérelmező, a fővárosi és megyei kormányhivatal, a rendőrség, a települési önkormányzat, a filmforgatással érintett hatóságok, szakhatóságok, továbbá az egyéb érintett intézmények elektronikus úton tartanak kapcsolatot egymással.
+(5) Az e fejezet szerinti eljárások során a kérelmező, az MNF, a rendőrség, a települési önkormányzat, a tulajdonosi joggyakorló, a filmforgatással érintett hatóságok, szakhatóságok, továbbá az egyéb érintett intézmények elektronikus úton tartanak kapcsolatot egymással.
 
 (6) A közterület-használatról szóló, a települési önkormányzat által jóváhagyott hatósági szerződést olyan időben kell megkötni, hogy a filmforgatás a kérelemben tervezett időpontban megkezdhető legyen. A közterület-használat engedélyezésére és a hatósági bejelentések, kérelmek benyújtására vonatkozó részletes eljárási szabályokat e törvény végrehajtására kiadott kormányrendelet állapítja meg. Ha a közterület-használat engedélyezésében közreműködő hatóság, települési önkormányzat, illetve egyéb szerv vagy intézmény az e törvény végrehajtására kiadott kormányrendeletben rá vonatkozóan meghatározott határidőn belül nem nyilatkozik, hozzájárulását az ott szabályozott tartalommal és feltételek szerint megadottnak kell tekinteni.
 
-(7) A filmforgatáshoz kapcsolódó – az e törvény szerint – hatósági bejelentések és kérelmek kapcsán az egyébként eljáró hatóságot, szakhatóságot igazgatási szolgáltatási díj, illetve illeték címén annak az összegnek a másfélszerese, sürgős eljárás esetén pedig annak az összegnek a tizenötszöröse illeti meg, mint amely összeg az adott eljárás kapcsán a hatóság, szakhatóság számára igazgatási szolgáltatási díjként, illetve illetékként külön jogszabály alapján járna. A fővárosi és megyei kormányhivatalt a hatósági szerződéssel kapcsolatos eljárásért 5000 forint, sürgős eljárás esetén pedig 50 000 forint igazgatási szolgáltatási díj illeti meg. A fővárosi és megyei kormányhivatal az igazgatási szolgáltatási díjat köteles visszafizetni, ha a számára az e törvény végrehajtására kiadott kormányrendeletben megállapított valamely határidőt elmulasztja, sürgős eljárás esetén pedig az adott eljárási cselekményt legkésőbb 1 munkanap alatt nem teljesíti.
+(7) A filmforgatáshoz kapcsolódó – az e törvény szerinti – hatósági bejelentés és kérelem kapcsán az egyébként eljáró hatóságot, szakhatóságot igazgatási szolgáltatási díj címén annak az összegnek a másfélszerese, sürgős eljárás esetén pedig annak az összegnek a tizenötszöröse illeti meg, mint amely összeg az adott eljárás kapcsán a hatóság, szakhatóság számára igazgatási szolgáltatási díjként jogszabály alapján járna. Az MNF-et a hatósági szerződéssel kapcsolatos eljárásért 10 000 forint, sürgős eljárás esetén pedig 50 000 forint igazgatási szolgáltatási díj illeti meg. Az MNF az igazgatási szolgáltatási díjat köteles visszafizetni, ha a számára az e törvény végrehajtására kiadott kormányrendeletben megállapított valamely határidőt elmulasztja, sürgős eljárás esetén pedig az adott eljárási cselekményt legkésőbb 1 munkanap alatt nem teljesíti.
+
+(8) A közút kezelője a korlátozott forgalmú övezetekben a közterület-használattal arányos mértékben lehetővé teszi a kérelmező engedélyköteles járműveinek térítésmentes behajtását oly módon, hogy a külön benyújtott behajtási engedély iránti kérelem alapján megvizsgálja, hogy a kérelmezett közterület nagysága elegendő-e a kérelmezett gépjárművek elhelyezésére, illetve a kérelmezett gépjárművek behajtásának egyéb (túlsúly, túlméret) akadálya nem áll-e fenn. Amennyiben a kérelmezett közterület elégséges mértékben rendelkezésre áll és egyéb akadály nem áll fenn, a behajtási engedélyt a kérelmező gépjárműveire a forgatás megkezdéséig ki kell adni. Ha a hatóság a határidőn belül nem nyilatkozik, engedélyét megadottnak kell tekinteni.
+
+(9) E törvény alapján az MNF erre kijelölt szervezeti egysége a filmforgatás engedélyezésére vonatkozó, e fejezetben meghatározott ügyek tekintetében hatósági jogkör gyakorlására jogosult, illetékessége az ország egész területére kiterjed.
 
 ### IV/A. Fejezet
 
@@ -1146,23 +1151,23 @@ nem haladhatja meg.
 
 ### 2. CÍM — Felhatalmazó rendelkezések
 
-37. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a települési önkormányzat tulajdonában álló közterület filmforgatási célú használata kapcsán a filmforgatáshoz kapcsolódó eljárások lefolytatásának és a hatósági bejelentések, kérelmek továbbításának a rendjét, valamint fővárosi és megyei kormányhivatal eljárásához kapcsolódó nyilvántartásokkal kapcsolatos részletes szabályokat.
+37. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a települési önkormányzat tulajdonában álló közterület filmforgatási célú használata kapcsán a filmforgatáshoz kapcsolódó eljárások lefolytatásának és a hatósági bejelentések, kérelmek továbbításának a rendjét, valamint az MNF eljárásához kapcsolódó nyilvántartásokkal kapcsolatos részletes szabályokat.
 
 (2) Felhatalmazást kap a miniszter, hogy
 
 - a) a nem filmgyártásra vonatkozó mozgóképszakmai tevékenységek e törvény szerinti támogatásának szabályait,
 - b) a 25. § (2) bekezdése szerinti „art” mozivá minősítéshez szükséges feltételeket és a moziknak a fogyatékkal élő emberek számára való hozzáférhetőségének feltételeit,
-- c)
+- c) az adópolitikáért felelős miniszterrel egyetértésben az MNF-et a települési önkormányzat tulajdonában álló közterület filmforgatási célú használata kapcsán történő eljárásáért megillető igazgatási szolgáltatási díjjal kapcsolatos részletes szabályokat.
 
 rendeletben állapítsa meg.
 
-(3) Felhatalmazást kap a társadalompolitika összehangolásáért felelős miniszter, hogy rendeletben állapítsa meg a filmalkotás végefőcímében az állam támogatóként való feltüntetésének módját.
+(3)
 
-(3a) Felhatalmazást kap a közigazgatás-szervezésért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben szabályozza a fővárosi és megyei kormányhivatalt a települési önkormányzat tulajdonában álló közterület filmforgatási célú használata kapcsán történő eljárásáért megillető igazgatási szolgáltatási díjjal kapcsolatos részletes szabályokat.
+(3a)
 
 (4) Felhatalmazást kap a települési önkormányzat, hogy a tulajdonában álló közterületek filmforgatási célú használatának díjára vonatkozó – e törvény szabályait kiegészítő – részletes szabályokat, az alkalmazható mentességek és kedvezmények körét, a használat területi és időbeli korlátait és egyéb feltételeit, valamint a turisztikailag kiemelt közterületek körét rendeletben állapítsa meg.
 
-(5) Felhatalmazást kap a községi önkormányzat képviselő-testülete, hogy a tulajdonában álló közterületek filmforgatási célú használata díjának felső határát rendeletben állapítsa meg.
+(5)
 
 38. § Felhatalmazást kap az Elnök, hogy rendeletben állapítsa meg
 
@@ -1332,22 +1337,22 @@ C) Dokumentumfilm-alkotás és tudományos ismeretterjesztő filmalkotás
 
 ### 3. melléklet a 2004. évi II. törvényhez
 
-A városi, a megyei jogú városi, a fővárosi és a kerületi önkormányzat tulajdonában álló közterületek filmforgatási célú használatának díjai a használat célja szerint
+A települési önkormányzat tulajdonában álló közterületek filmforgatási célú használatának díjai ahasználat célja szerint
 
-|  | A | B | C | D | E |
-| --- | --- | --- | --- | --- | --- |
-| 1 | Közterület megnevezése | Forgatási helyszín | Technikai kiszolgálás | Stáb parkolás | Ha valamely közterület a táblázat alapján két különböző díjkategóriába eső területet is magában foglal, a közterület filmforgatási célú használatának díját a magasabb díjtétel szerinti kategória alapján kell meghatározni |
-| 2 |  | Ft/m2/nap | Ft/m2/nap | Ft/m2/nap |
-| 3 | a Világörökségről szóló 2011. évi LXXVII. törvényben felsorolt budapesti világörökségi területek és Budapest turisztikailag kiemelt központi területei | 2 000 | 1 000 | 500 |
-| 4 | Budapest nagykörúton belüli területei, valamint Budapest Gellérthegy, Krisztinaváros, Rézmál, Rózsadomb, Tabán, Vérhalom, Víziváros városrészei | 800 | 400 | 200 |
-| 5 | Budapest közigazgatási területe a nagykörúton kívül | 300 | 150 | 100 |
-| 6 | a város, a megyei jogú város díszburkolatos vagy turisztikailag kiemelt központi területei | 500 | 200 | 200 |
-| 7 | a város, a megyei jogú város közigazgatási területének nem díszburkolatos vagy nem turisztikailag kiemelt központi területei | 200 | 150 | 100 |
-
-E melléklet alkalmazásában:
-
-1. Forgatási helyszín: a forgatás során a felvételi képmezőben szereplő színészek, egyéb közreműködők, díszletelemek, berendezési tárgyak, kellékek, járművek által elfoglalt terület;
-
-2. Technikai kiszolgálás: a forgatási helyszín közvetlen környezetében felvonuló, a forgatás technikai megvalósulását elősegítő eszközök (különösen kamerák, világító és hangrögzítő berendezések), az azt kezelő stáb, műszaki személyzet, a forgatást közvetlenül kiszolgáló egyéb egységek és járművek által elfoglalt terület;
-
-3. Stáb parkolás: Az 1–2. kategóriába nem tartozó, a forgatás és a technikai kiszolgálás helyszínétől területileg elválasztható háttér-kiszolgáló egységek és járművek által elfoglalt terület.
+|  | A | B | C | D | E | F |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | Közterületbesorolás | forgatási terület | technikai terület | stáb- parkolási terület | kiürítési terület | forgalom- technikai biztonsági terület |
+| Ft/m2/nap | Ft/m2/nap | Ft/m2/nap | Ft/m2/nap | Ft/m2/nap |
+| 2 | A világörökségről szóló 2011. évi LXXVII. törvény 1. mellékletében felsorolt világörökségi területek és Budapest turisztikailag kiemelt központi területei | 2 084 | 1 042 | 521 | 521 | 100 |
+| töredéknap esetén1042 | töredéknap esetén521 | töredéknap esetén261 | töredéknap esetén261 | töredéknap esetén50 |
+| 3 | Budapest nagykörúton belüli területei, valamint Budapest Gellérthegy, Krisztinaváros, Rézmál, Rózsadomb, Tabán, Vérhalom,Viziváros városrészei | 833 | 416 | 208 | 208 | 40 |
+| töredéknap esetén416 | töredéknap esetén208 | töredéknap esetén104 | töredéknap esetén104 | töredéknap esetén20 |
+| 4 | Budapest közigazgatási területe a nagykörúton kívül | 312 | 156 | 104 | 104 | 10 |
+| töredéknap esetén156 | töredéknap esetén78 | töredéknap esetén52 | töredéknap esetén52 | töredéknap esetén5 |
+| 5 | a város, a megyei jogú város, a járásszékhely város, a község díszburkolatos vagy turisztikailag kiemelt központi területei | 521 | 208 | 208 | 208 | 20 |
+| töredéknap esetén261 | töredéknap esetén104 | töredéknap esetén104 | töredéknap esetén104 | töredéknap esetén10 |
+| 6 | a város, a megyei jogú város, a járásszékhely város, a község nem díszburkolatos vagy nem turisztikailag kiemelt központi területei | 208 | 156 | 104 | 104 | 10 |
+| töredéknap esetén104 | töredéknap esetén78 | töredéknap esetén52 | töredéknap esetén52 | töredéknap esetén5 |
+|  |  |  |  |  |  |  |
+| A melléklet alkalmazásában: |  |  |  |  |  |  |
+| a) forgalomtechnika biztonsági terület: A filmforgatás által nem használt, de a filmforgatás érdekében a gyalogos és a járműközlekedés elől elzárt terület. A biztonsági terület nagyságának a forgatási terület nagyságával arányos mértékben kell állnia. Az arányosság mértéke a közútkezelője által elfogadott forgalomtechnikai terv alapján kerül meghatározásra. b) forgatási terület: A filmforgatás során a felvételi képmezőben szereplő színészek, egyéb közreműködők, díszletelemek, berendezési tárgyak, kellékek, járművek által elfoglalt terület. c) kiürítési terület: A b), d) és e) pont szerinti kategóriákba tartozó területeken, a filmforgatási napot megelőző napon, kifejezetten a filmforgatási, technikai, illetve a parkolási terület kiürítésének szándékával igénybe vett terület, amennyiben a területen a d) pont szerinti tevékenységen kívül más nem történik. d) stábparkolási terület: A b) és e) pont szerinti kategóriákba nem tartozó, a forgatás és technikai kiszolgálás helyszínétől területileg elválasztható háttérkiszolgáló egységek és járművek által elfoglalt terület. e) technikai terület: A filmforgatási helyszín közvetlen környezetében felvonuló, a filmforgatás technikai megvalósulását elősegítő eszközök (különösen kamerák, világító és hangrögzítő berendezések), az azt kezelő stáb, műszaki személyzet, a filmforgatást közvetlenül kiszolgáló egyéb egységek és járművek által elfoglalt terület. |  |  |  |  |  |  |

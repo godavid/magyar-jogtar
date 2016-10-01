@@ -18,13 +18,15 @@ egyes energetikai tárgyú törvények módosításáról
 
 18. §
 
-19. §
+19. § A Get. 19/B. §-a a következő (3a) bekezdéssel egészül ki:
+
+„(3a) A központi adatgyűjtő és feldolgozó rendszert működtető engedélyes korrekciós elszámolásához kapcsolódó földgáz adásvétele nem minősül e törvény szerinti földgáz-kereskedelemnek.”
 
 20–24. §
 
 25. § (1)
 
-(2)
+(2) A Get. 9. § (2) bekezdésében a „kereskedési platform szabályzata vagy – kereskedési platform hiányában – az egyensúlyozó platform szabályzata tartalmazza” szövegrész helyébe a „szállítási rendszerüzemeltető a Hivatal részére jóváhagyásra benyújtja” szöveg lép.
 
 26. §
 

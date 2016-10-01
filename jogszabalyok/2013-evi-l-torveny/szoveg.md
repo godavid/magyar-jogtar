@@ -426,18 +426,9 @@ vonatkozásában – a (8) bekezdésben foglaltak kivételével – a Kormány r
 
 21. § (1) Az e-közigazgatásért felelős miniszter által vezetett Nemzeti Kiberbiztonsági Koordinációs Tanács (a továbbiakban: Tanács) a Kormány javaslattevő, véleményező szerveként gondoskodik a 2. § (1)–(6) bekezdésében, valamint a 14. § (1) bekezdésében meghatározott szervezetek e törvényben és végrehajtási rendeleteiben meghatározott tevékenységeinek összehangolásáról.
 
-(2) A Tanács az e-közigazgatásért felelős miniszter vezetésével és az általa delegált kiberkoordinátor támogatásával:
+(2) A Tanács tevékenységét az e-közigazgatásért felelős miniszter által delegált kiberkoordinátor, valamint a nem kormányzati szereplőkkel való együttműködésnek keretet biztosító kiberbiztonsági munkacsoportok és a Nemzeti Kiberbiztonsági Fórum (a továbbiakban: Fórum) támogatja.
 
-- a) összehangolja a törvény hatálya alá tartozó szervezetek együttműködését a kiberbiztonsággal összefüggő feladatok ellátásában;
-- b) elősegíti a kiberbiztonság szabályozását, valamint a kiberbiztonság ágazati munkacsoportjainak munkáját;
-- c) támogatja a nem kormányzati szereplőkkel való együttműködésnek keretet biztosító Nemzeti Kiberbiztonsági Fórum (a továbbiakban: Fórum) munkáját;
-- d) támogatja a források hatékony felhasználását;
-- e) figyelemmel kíséri Magyarország Nemzeti Kiberbiztonsági Stratégiájának végrehajtását és erről jelentést tesz a Nemzetbiztonsági Kabinetnek;
-- f) elősegíti a kiberbiztonságot érintő egységes magyar kormányzati álláspont kialakítását és hozzájárul Magyarország nemzetközi politikai képviseletéhez.
-
-(3) A Tanács munkáját az általa felkért szakmai, illetve nem kormányzati gazdasági vezetőkből álló Fórum és az ágazati kormányzati és nem kormányzati együttműködést biztosító kiberbiztonsági munkacsoportok segítik javaslattételi joggal és véleményezési lehetőséggel.
-
-(4) A külpolitikáért felelős miniszter figyelemmel kíséri és a kormány feladat- és hatáskörrel rendelkező szervei, valamint a Tanács felé jelzi az európai uniós kibertér-politikával kapcsolatos eseményeket és döntéseket, és a külpolitikáért való felelőssége körében képviseli a magyar álláspontot a nemzetközi fórumokon és a kétoldalú kapcsolatokban.
+(3)–(4)
 
 #### 12. Adatvédelmi rendelkezések
 
