@@ -24,7 +24,7 @@ Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával k
 
 (4) Magyarország területéről hírközlő eszköz és rendszer által részvételi jogosultságot biztosító szerencsejáték szervezési tevékenység kizárólag e törvény előírásainak megfelelően folytatható.
 
-(5) Hírközlő eszközök és rendszerek által szervezett szerencsejátékban való részvételre ajánlatok közzétételéhez az állami adóhatóság engedélye szükséges. Az engedély nélküli szerencsejátékban történő részvételre vonatkozó ajánlatok közzétételében, illetve elfogadásában a pénzügyi szervezetek és a hírközlési szolgáltatók nem működhetnek közre, ilyenekhez nem nyújthatnak technikai támogatást.
+(5) Hírközlő eszközök és rendszerek által szervezett szerencsejátékban való részvételre ajánlatok közzétételéhez az állami adóhatóság engedélye szükséges.
 
 (5a) A szerencsejáték-szervező az e törvény hatálya alá tartozó tevékenysége során a felelős játékszervezés elvének megfelelően köteles eljárni. A felelős játékszervezés elvének megfelelő szervezői tevékenységnek minősül különösen
 
@@ -290,7 +290,15 @@ végezheti.
 
 #### 3.
 
-13/A–13/D. §
+13/A. § (1) A pénzforgalmi szolgáltató nem működhet közre az e törvény szerint tiltott szerencsejáték szervezést megvalósító tevékenységhez kapcsolódó tét befizetésének és nyeremény kifizetésének teljesítésében.
+
+(2) A pénzforgalmi szolgáltató az (1) bekezdésben foglaltak végrehajtása során a külön jogszabályban meghatározottak szerint köteles eljárni.
+
+13/B. § (1) Az állami adóhatóság a 36/G. §–36/J. § szerinti eljárás keretében tudomására jutott információk alapján a tiltott szerencsejátékot szervező személlyel, szervezettel együttműködő, azonosítható elnevezéssel és székhellyel vagy elektronikus levélcímmel rendelkező pénzforgalmi szolgáltatót, elektronikus hírközlési szolgáltatót, elektronikus honlap üzemeltetőt, valamint a tiltott szerencsejáték szervezővel egyéb módon nem szervezőként együttműködő személyt, szervezetet írásban felhívja a tiltott szerencsejátékkal összefüggő tevékenységének felhagyására.
+
+(2) Az állami adóhatóság az (1) bekezdés szerinti felhívást pénzforgalmi szolgáltató esetén a Magyar Nemzeti Bank, elektronikus hírközlési szolgáltató esetén a Nemzeti Média- és Hírközlési Hatóság részére, egyéb szervezet esetén az ismert magyarországi felügyeleti szerv részére is megküldi.
+
+13/C–13/D. §
 
 13/E. §
 
@@ -574,10 +582,10 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 
 (4) Ha a szervező a (3) bekezdés szerinti felfüggesztés esetén a kötelezettség teljesítéséről, illetve az akadály elhárításáról 6 hónapon belül nem gondoskodik, az állami adóhatóság az engedélyt – jogorvoslatra, illetve a végrehajtás felfüggesztése iránti kérelemre tekintet nélkül végrehajtható döntésével – visszavonja.
 
-29/H. § (1) A szervező a játékost a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény 7–11. §-ában meghatározott ügyfél-átvilágítási intézkedések elvégzése érdekében a következő adatok rögzítésével nyilvántartásba veszi:
+29/H. § (1) A szervező a játékost a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben meghatározott ügyfél-átvilágítási intézkedések elvégzése, valamint a játékosvédelem biztosítása érdekében a következő adatok rögzítésével nyilvántartásba veszi:
 
 - a) családi és utónév, születési családi és utónév, anyja neve,
-- b) lakcím, külföldi esetében a magyarországi tartózkodási hely,,
+- b) lakcím, külföldi esetében a magyarországi tartózkodási hely,
 - c) állampolgárság,
 - d) azonosító okmány típusa, száma,
 - e) születési hely és idő.
@@ -594,7 +602,7 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 
 (4) Játékosként kizárólag természetes személy vehető nyilvántartásba. Ha a játékos életkora nem állapítható meg, vagy a 18. életév betöltése egyébként kétséges, a szervező a játékos nyilvántartásba vételét megtagadja.
 
-(5) A szervező a játékos nyilvántartásba vétele keretében a játékos részére játékosi egyenleget hoz létre. Egy játékos részére egy szervezőnél egy játékosi egyenleg nyitható. A játékosi egyenleget a szervező a felelős játékszervezés elvének tiszteletben tartásával, az e törvényben és külön jogszabályban meghatározottak szerint vezeti. A szervező a játékosi egyenlegeket egy minden egyéb pénzügyi eszköztől elkülönített magyarországi bankszámlán köteles tartani. Az elkülönített bankszámlán elhelyezett összegnek fedeznie kell a játékosi egyenlegek összegét. Ha a játékosi egyenlegek összege meghaladja az elkülönített bankszámlán található összeget, a szervező 30 napon belül köteles a különbözet pótlására. A játékosi egyenlegen a szervező az engedély felfüggesztésének időtartama alatt csak a felfüggesztés napját megelőző játékügyletek elszámolásával kapcsolatos terheléseket, jóváírásokat vezetheti át és csak ilyen játékügyletekkel kapcsolatos kifizetéseket teljesíthet. A játékosi egyenleg megszüntetése esetén a szervező a játékügyletekkel kapcsolatban a játékossal a külön jogszabályban meghatározottak szerint elszámol.
+(5) A szervező a játékos nyilvántartásba vételének megkezdésekor a játékos részére játékosi egyenleget hoz létre. Egy játékos részére egy szervezőnél egy játékosi egyenleg nyitható. A játékosi egyenleget a szervező a felelős játékszervezés elvének tiszteletben tartásával, az e törvényben és külön jogszabályban meghatározottak szerint vezeti. A szervező a kifizetésre alkalmas (ajándék bónuszok, bónusz nyeremények és speciális bónuszok nélküli) játékosi egyenlegek fedezetét egy minden egyéb pénzügyi eszköztől elkülönített magyarországi bankszámlán köteles tartani. Az elkülönített bankszámlán elhelyezett összegnek fedeznie kell az összes kifizetésre alkalmas játékosi egyenleg összegét. Ha a kifizetésre alkalmas játékosi egyenlegek összege meghaladja az elkülönített bankszámlán található összeget, a szervező 30 napon belül köteles a különbözet pótlására. A játékosi egyenlegen a szervező az engedély felfüggesztésének időtartama alatt csak a felfüggesztés napját megelőző játékügyletek elszámolásával kapcsolatos terheléseket, jóváírásokat vezetheti át és csak ilyen játékügyletekkel kapcsolatos kifizetéseket teljesíthet. A játékosi egyenleg megszüntetése esetén, valamint abban az esetben, ha a játékos végleges nyilvántartásba vételére nem kerül sor, a szervező a játékügyletekkel kapcsolatban a játékossal a külön jogszabályban meghatározottak szerint elszámol.
 
 29/I. § (1) A szervező távszerencsejáték-szervezéssel kapcsolatban használt honlapján az e törvény szerint nyújtott szerencsejáték-szolgáltatással kapcsolatban magyar nyelven kell feltüntetni legalább a következő információkat:
 
@@ -882,7 +890,9 @@ fizeti meg az állami adóhatósághoz a felügyeleti díj megfizetéséről sz�
 
 (3) A határozatra a 36/G. § (2)–(3) bekezdésében foglaltakat megfelelően kell alkalmazni.
 
-36/J. § Az állami adóhatóság a jogkövető magatartás elősegítése és a játékosok tájékoztatása érdekében honlapján az ezen alcím szerinti intézkedés végrehajtásának időtartama alatt közzéteszi a jogerős ideiglenes hozzáférhetetlenné tétel elrendelésével érintett honlap elnevezését.
+36/J. § Az állami adóhatóság a jogkövető magatartás elősegítése, valamint a játékosok és a pénzforgalmi szolgáltatók tájékoztatása érdekében honlapján az ezen alcím szerinti intézkedés végrehajtásának időtartama alatt közzéteszi a jogerős ideiglenes hozzáférhetetlenné tétel elrendelésével érintett honlap elnevezését, valamint – amennyiben az megállapítható – az ideiglenes hozzáférhetetlenné tétel elrendelésével érintett honlapon tiltott szerencsejáték-szervezést megvalósító szervezet vagy személy elnevezését, és a tiltott szerencsejáték szervezéséhez használt fizetési számla számát.
+
+36/K. § Az adópolitikáért felelős miniszter negyedéves gyakorisággal – a tárgyév április 20., július 20., október 20. és a tárgyévet követő január 20. napjáig – beszámol a Kormánynak a 13/A–13/B. §-ok és a IV. fejezet szerinti feladatok végrehajtásáról.
 
 ### V. Fejezet — Értelmező rendelkezések
 
@@ -953,7 +963,8 @@ fizeti meg az állami adóhatósághoz a felügyeleti díj megfizetéséről sz�
 - g) a szerencsejátékok szervezésének engedélyezéséért, ellenőrzéséért, illetve az állami adóhatóság által végzett egyes igazgatási szolgáltatások igénybevételéért fizetendő igazgatási-szolgáltatási díjakkal,
 - h)
 - i) a távszerencsejáték és az online kaszinójáték szervezésének engedélyezésével, ellenőrzésével, a szervezés személyi, tárgyi-műszaki és gazdasági feltételeivel és lebonyolításával, távszerencsejátékban és az online kaszinójátékban való részvétel feltételeivel, az engedély nélküli szerencsejátékok szolgáltatásában való közreműködők kötelezettségeivel és az állami adóhatóság feladataival,
-- j) a díjfizetés módjának meghatározása kivételével a felügyeleti díj fizetésével és nyilvántartásával kapcsolatos részletes szabályokat rendeletben határozza meg.
+- j) a díjfizetés módjának meghatározása kivételével a felügyeleti díj fizetésével és nyilvántartásával
+- k) a pénzforgalmi szolgáltató 13/A. § (1) bekezdés szerinti eljárásával és ezen eljárás ellenőrzésével kapcsolatos részletes szabályokat rendeletben határozza meg.
 
 (3) Felhatalmazást kap az agrárpolitikáért felelős miniszter a lóversenyek és az agárversenyek szabályainak rendeletben történő megállapítására.
 
