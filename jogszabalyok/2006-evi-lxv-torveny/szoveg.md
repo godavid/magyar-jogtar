@@ -6,6 +6,8 @@ Az Országgyűlés az államháztartási rendszer megújítása keretében a kö
 
 1. § (1) E törvény hatálybalépésével egyidejűleg hatályát veszti a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 74/G. §-a, azzal hogy azok a szervezetek, amelyek közalapítvány létrehozására e törvény hatálybalépése előtt a Ptk. 74/G. §-a alapján jogosultak voltak, alapítványt e törvény hatálybalépését követően sem alapíthatnak és ahhoz nem csatlakozhatnak.
 
+(1a) Az (1) bekezdés rendelkezéseitől eltérően a Kormány külön törvény rendelkezése alapján alapítványt hozhat létre.
+
 (2) Az e törvény hatálybalépése előtt nyilvántartásba vett közalapítvány (a továbbiakban: közalapítvány) működésére a Polgári Törvénykönyv alapítványra vonatkozó rendelkezéseit az alábbi eltéréssel kell alkalmazni:
 
 - a) A közalapítvány csak olyan gazdálkodó szervezetben vehet részt, amelyben legalább többségi befolyással (Polgári Törvénykönyv 8:2. §) rendelkezik, és amelyben felelőssége nem haladja meg vagyoni hozzájárulása mértékét. Közalapítvány által létrehozott gazdálkodó szervezet további gazdálkodó szervezetet nem alapíthat, és gazdálkodó szervezetben részesedést nem szerezhet.
