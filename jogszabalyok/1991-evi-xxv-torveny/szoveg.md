@@ -82,8 +82,8 @@ Az Országgyűlés a tulajdonviszonyok rendezése, a forgalmi viszonyok és a pi
 
 7. § (1) Az állam biztosítja, hogy a kárpótlási jegyet annak birtokosa az e törvényben foglalt feltételekkel
 
-- a) az állami tulajdon privatizációja során értékesítésre kerülő vagyontárgyak, részvények, üzletrészek megvásárlására, továbbá
-- b) termőföld tulajdon megszerzésére felhasználhatja.
+- a) az állami tulajdon privatizációja során értékesítésre kerülő vagyontárgyak, részvények, üzletrészek megvásárlására
+- b) felhasználhatja.
 
 (2) A kárpótlásra jogosult az e törvény alapján őt megillető kárpótlási jegyeket az állam tulajdonában álló, illetőleg az e törvény kihirdetése után az állam tulajdonából az önkormányzat tulajdonába ingyenesen kerülő lakás értékesítése során fizetőeszközként névértékben felhasználhatja.
 
@@ -165,58 +165,25 @@ Az Országgyűlés a tulajdonviszonyok rendezése, a forgalmi viszonyok és a pi
 
 (6) Nem lehet kijelölni a műemlékileg védett, eredetileg nem mezőgazdasági rendeltetésű épülethez, építményhez tartozó, illetve körülötte lévő eredetileg nem termőföld rendeltetésű földterületet.
 
-19. § Az állam a szövetkezeti földek árverésével egyidőben, illetőleg azt követően állami tulajdonú földeket is árverésre bocsát. Az így árverésre bocsátott termőföldek AK értékének el kell érnie a szövetkezetek által árverésre bocsátott termőföldek AK értékének legalább 20%-át.
+#### 19. §
 
-20. § (1) A 15—19. §-okban kijelölt termőföldek árverés útján kerülnek a kárpótlásra jogosultak részére értékesítésre. Ha a volt tulajdonos földje, mint állami tulajdonú föld került a szövetkezet közös használatába, a szövetkezet a közös használatában lévő állami tulajdonú termőföldeket is árverésre bocsáthatja.
+#### 20. §
 
-(2) Az árverés legkorábbi, illetve legkésőbbi időpontját a kárpótlás iránti kérelmek elbírálására tekintettel a kárpótlási hatóság állapítja meg.
+#### 21. §
 
-21. § (1) Az árverésen az őt megillető kárpótlási jegyekkel az a kárpótlásra jogosult vehet részt,
+#### 22. §
 
-- a) akinek az elvett termőföldje a szövetkezet tulajdonában vagy használatában van,
-- b) aki a termőföldet árverező szövetkezetnek 1991. január 1-jén és az árverés időpontjában is tagja, illetőleg az árverés időpontjában azért nem tagja, mert tagsági viszonya az [1992: II. tv.] Ámt. hatálybalépését követően kiválással, a szövetkezet gazdasági társasággá történő átalakulása vagy a szövetkezet megszűnése folytán szűnt meg.
-- c) akinek 1991. június 1-jén abban a községben, városban volt az állandó lakóhelye, ahol az árverező szövetkezet termőföldterülete van.
+#### 23. §
 
-(2) Az árverést a kárpótlási hatóság közigazgatási hatósági jogkörben eljáró alkalmazottja vezeti.
+#### 24. §
 
-22. § (1) Az árverésen résztvevők az egy aranykoronának megfelelő forintértékre licitálnak. A kikiáltási ár 3000 Ft/AK. Ha e kikiáltási áron vagy afelett nincs ajánlat, a kikiáltási ár folyamatosan, de legfeljebb 500 Ft/AK értékig csökkenthető.
+#### 25. §
 
-(2) Az árverést a végrehajtási rendeletben meghatározott módon kell lefolytatni. Az árverés során elfogadott ajánlatok tevői — az ajánlatukban foglaltaknak megfelelően — gyakorolhatják vételi jogukat a szövetkezet 15—18. §-okban meghatározott termőföldjének általuk kiválasztott részletére. A kárpótlásra jogosult tanyatulajdonost a tanyája körüli termőföldre az árverés során elővásárlási jog illeti meg.
+#### 26. §
 
-23. § (1) A 22. § (2) bekezdésében meghatározott vételi jogot az a jogosult gyakorolhatja, aki kötelezettséget vállal a termőföld mezőgazdasági hasznosítására és arra, hogy a termőföldet a mezőgazdasági termelésből öt éven belül nem vonja ki.
+#### 27. §
 
-(2) Azt a vételi jog alapján szerzett termőföldet, amelynek tulajdonosa az (1) bekezdésben vállalt kötelezettségét a tulajdonszerzéstől számított öt éven belül megszegi, kártalanítás nélkül állami tulajdonba kell venni és árverés útján kell értékesíteni. E bekezdést nem kell alkalmazni, ha a termőföld tulajdonjogának átruházására birtokösszevonási célú földcserével kerül sor.
-
-(3)
-
-24. § (1) Az a 21. §-ban meghatározott kárpótlásra jogosult, aki vállalja, hogy az adóhatóságnál az árveréstől számított 30 napon belül mezőgazdasági vállalkozóként bejelentkezik, mezőgazdasági vállalkozási támogatásként — az árverésen való termőföldvásárlás céljából — igényt tarthat a 3. § alapján megállapított kár mértéke és a 4. § szerinti kárpótlás összege közötti különbözetre. A kárpótlás és a támogatás együttes összege az 1 millió forintot nem haladhatja meg.
-
-(2) Ha az (1) bekezdésben említett támogatásban részesülő személy az előírt határidőn belül mezőgazdasági vállalkozóként nem jelentkezik be, vagy az adóhatóság a termőföld vásárlásától számított öt éven belül megállapítja, hogy ténylegesen nem folytat mezőgazdasági vállalkozói tevékenységet, a támogatás hitellé alakul át és azonnal esedékessé válik.
-
-(3) Arra a termőföldre, amelyet a kárpótolt az (1) bekezdésben említett támogatással szerez meg, az állam javára öt évi időtartamra jelzálogjogot és elidegenítési tilalmat kell bejegyezni. Amennyiben e határidőn belül a kárpótolt az adóhatóságnál a támogatás összegét befizeti, az állam javára bejegyzett jelzálogjogot és elidegenítési tilalmat törölni kell.
-
-(4) A mezőgazdasági vállalkozási támogatás összegéről — a jogosult kérelmére — a kárpótlási hatóság utalványt ad, amelyet az árverés során a kárpótlási jeggyel azonos módon lehet felhasználni. Az utalványból — a szövetkezet tulajdonában lévő föld árverésen történő megszerzése ellenében a kárpótlásra jogosult által — felhasznált összeg erejéig a szövetkezet kárpótlási jegyet igényelhet a kárpótlási hatóságtól.
-
-(5) Ha az árverés időpontjában a kárpótlásra jogosult még nincs a megszerzett termőföld birtokában, illetőleg azt további 15 napon belül sem veheti birtokba, az (1) bekezdésben megállapított határidőt a birtokbavétel lehetőségének megnyílásától kell számítani.
-
-25. § (1) A kárpótlásra jogosult az általa megvásárolt termőföld AK értékben ki nem fejezett értéknövekedésének állami támogatással csökkentett összegű megtérítésére köteles a földet az árverésen eladó részére.
-
-(2) A megvásárolt termőföld kijelölésével önálló ingatlanként történő kialakításával és ennek ingatlannyilvántartási bejegyzésével kapcsolatos költségek az állami költségvetést terhelik, a tulajdonszerzés mentes a vagyonszerzési illeték alól.
-
-26. § A 15—18. §-ok alapján kijelölt, s a szövetkezet által árverésen értékesített termőföld ellenértékeként megszerzett kárpótlási jegyeket a szövetkezet a 7. § (1) bekezdésében foglaltaknak megfelelően felhasználhatja, kivéve a használatában lévő állami tulajdonú termőföld értékesítése ellenében megszerzett kárpótlási jegyeket.
-
-27. § (1) Az állami gazdaságnak a kezelésében lévő állami tulajdonú termőföld kijelölése és árverezése tekintetében a 15—26. §-ban, továbbá a szövetkezeti törvény hatálybalépéséről és az átmeneti szabályokról szóló 1992. évi II. törvény 13—27. §-át kell megfelelően alkalmazni.
-
-(2) A 19. § alapján árverésre kijelölt állami tulajdonú termőföldek 80%-át a kijelöléssel érintett településeken azok között a kárpótlásra jogosultak között kell árverésre bocsátani, akiknek
-
-- a) állandó lakóhelye 1991. június 1-jén az érintett településen volt, és akik jelenleg is ott rendelkeznek állandó lakóhellyel, vagy
-- b) a kárpótlás alapjául szolgáló termőföld tulajdona a település közigazgatási határán belül volt.
-
-(3) A 19. § alapján árverésre kijelölt állami tulajdonú termőföldeket a (2) bekezdés a) pontjában meghatározott kárpótlásra jogosultak között kell árverésre bocsátani, ha annak nagysága a településen a 20 hektárt nem haladja meg.
-
-(4) A (2) bekezdésben megjelölt földterület fennmaradó részére kitűzött árverésen minden kárpótlásra jogosult az őt megillető kárpótlási jeggyel részt vehet. Az árverésre egyebekben a 22—23. § és a 25. §-ok rendelkezéseit kell alkalmazni.
-
-28. § Az állami tulajdonú termőföld ellenében az árverésen kapott kárpótlási jegyet a szövetkezet, illetőleg az állami gazdaság 30 napon belül köteles eljuttatni a kárpótlási hatósághoz.
+#### 28. §
 
 ### Zárórendelkezések
 
