@@ -621,7 +621,7 @@ a közönségarányát.
 
 ### Adatkezelés a vevőeszköz-támogatás érdekében
 
-44/A. § (1) A Hatóság a digitális vevődekóderek állami támogatására vonatkozó közfeladat ellátása során a támogatásra jogosultság megállapítása és a támogatás felhasználása jogszerűségének ellenőrzése céljából jogosult a támogatási jogosultsággal összefüggő – a (4)–(6a) bekezdésben meghatározott – személyes és különleges adatok kezelésére. A (6) bekezdésben meghatározott adatokat a települési önkormányzatok jegyzőivel, a fővárosi főjegyzővel, valamint a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalaival központi, közvetlen informatikai kapcsolattal rendelkező Közigazgatási és Igazságügyi Hivatal (a továbbiakban: KIH) változtatás nélkül, egységes adatbázis formájában dolgozza fel a Hatóság részére. A KIH biztosítja, hogy az általa feldogozott adatok legalább olyan védelemben részesüljenek, mint amilyenben a települési önkormányzatok jegyzőinél, a fővárosi főjegyzőnél, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalainál és a Hatóságnál részesülnek.
+44/A. § (1)
 
 (2) Az állami támogatásra való jogosultsággal összefüggő adatokat kezelő – a (3)–(6) bekezdés szerinti – állami, önkormányzati szerv a Hatóság megkeresésére 30 napon belül köteles adatot szolgáltatni a Hatóság részére. A megkeresés eljárási szabályait, az adatszolgáltatás teljesítésére vonatkozó rendelkezéseket a Hatóság elnöke – e törvény keretei között – az 53. § (2) bekezdésében foglalt felhatalmazás alapján kiadott rendeletében (e § alkalmazásában a továbbiakban: támogatási rendelet) határozza meg.
 

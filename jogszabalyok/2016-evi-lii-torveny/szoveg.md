@@ -72,18 +72,20 @@ szabható ki.
 
 (3) A munkáltató az állami szolgálati jogviszony létesítéséhez a jogszabályban meghatározott egyéb feltételeken túlmenően előírhatja, hogy az állami tisztviselő
 
-- a) törvényben meghatározott államtudományi és közigazgatási felsőfokú képzésben, az NKE képzése keretében megszerzett felsőfokú oklevéllel rendelkezzen, vagy
-- b) vállalja az oklevélnek a munkáltató által meghatározott időtartamon belüli megszerzését azzal, hogy a munkáltató által meghatározott időtartam legfeljebb a kinevezés időpontjától számított hetedik év végéig terjedhet.
+- a) törvényben meghatározott államtudományi és közigazgatási felsőfokú képzésben, az NKE képzése keretében megszerzett szakképzettséggel rendelkezzen, vagy
+- b) vállalja a szakképzettségnek a munkáltató által meghatározott időtartamon belüli megszerzését azzal, hogy a munkáltató által meghatározott időtartam legfeljebb a kinevezés időpontjától számított hetedik év végéig terjedhet.
 
-(4) Ha az állami tisztviselő a (2) és a (3) bekezdésben meghatározott határidőn belül felróhatóan elmulasztja a képesítés, illetve a szakképzettség megszerzését, állami szolgálati jogviszonya e törvény erejénél fogva a határidő leteltét követő napon megszűnik.
+(4) Ha az állami tisztviselő a (2) és a (3) bekezdésben meghatározott határidőn belül felróhatóan elmulasztja a szakképzettség megszerzését, állami szolgálati jogviszonya e törvény erejénél fogva a határidő leteltét követő napon megszűnik.
 
 (5) A (2) bekezdésben és a (3) bekezdés b) pontjában meghatározott határidőbe nem számít be a harminc napot meghaladó fizetés nélküli szabadság, a keresőképtelenség, továbbá a harminc napot meghaladó hivatalos kiküldetés időtartama.
 
 (6) A (2) bekezdés szerinti képzési kötelezettség alól mentesül az államtudományi mesterszintű szakképzettséggel, a közigazgatás-szervező alap- vagy mesterszintű szakképzettséggel rendelkező, illetve a (2) bekezdés szerinti kinevezését megelőzően közigazgatási szakvizsgát vagy jogszabály által azzal egyenértékűként elfogadott vizsgát, vagy az állam- és jogtudományok területén tudományos fokozatot szerzett állami tisztviselő.
 
-(7) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter (a továbbiakban: miniszter) jogszabályban meghatározhat olyan munkaköröket, amelyek betöltéséhez a (2) bekezdésben és a (3) bekezdés a) pontjában meghatározott képesítés, illetve szakképzettség megszerzése szükséges.
+(7) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter (a továbbiakban: miniszter) jogszabályban meghatározhat olyan munkaköröket, amelyek betöltéséhez a (3) bekezdés a) pontjában meghatározott szakképzettség megszerzése szükséges.
 
-(8) Állami szolgálati jogviszony létesíthető vagy fenntartható olyan személlyel is, aki a (2) és a (3) bekezdésben meghatározott feltételeknek nem felel meg, ha az a munkáltató hivatali érdekeit szolgálja és a miniszter a foglalkoztatást előzetesen jóváhagyta.
+(8) Állami szolgálati jogviszony létesíthető vagy fenntartható olyan személlyel is, aki a (2) bekezdésben meghatározott feltételeknek nem felel meg, ha az a munkáltató hivatali érdekeit szolgálja és a miniszter a foglalkoztatást előzetesen jóváhagyta.
+
+(9) Az állami tisztviselők képesítésére vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
 
 6. § (1) A kinevezési okmánynak tartalmaznia kell különösen az állami tisztviselő
 
@@ -205,7 +207,7 @@ lehet gyakorolni.
 
 (2) A vezetői munkakörbe kinevezett állami tisztviselőnek a vezetői munkakörbe történő kinevezésétől számított öt éven belül kormányzati tanulmányok szakirányú továbbképzés során kormányzati tanulmányok szakirányú szakképzettséget kell szereznie.
 
-(3) Ha a vezetői munkakört betöltő állami tisztviselő a (2) bekezdés szerinti szakképzettség megszerzését a megjelölt szerinti határidőn belül számára felróható okból elmulasztja, a határidő leteltét követő nappal nem vezetői munkakörbe kell helyezni.
+(3) Ha a vezetői munkakört betöltő állami tisztviselő a (2) bekezdés szerinti szakképzettség megszerzését a megjelölt határidőn belül számára felróható okból elmulasztja, a határidő leteltét követő nappal nem vezetői munkakörbe kell helyezni.
 
 (4) A (2) bekezdésben meghatározott határidőbe nem számít bele a harminc napot meghaladó fizetés nélküli szabadság, a keresőképtelenség, továbbá a harminc napot meghaladó hivatalos kiküldetés időtartama.
 
@@ -221,7 +223,7 @@ lehet gyakorolni.
 
 (3) Ha az állami tisztviselő az (1) és a (2) bekezdés szerinti képzést, továbbképzést vagy átképzést a szükséges oklevél, valamint a szakképzettség megszerzését – az e törvény alapján fennálló, vagy a munkáltató által előírt határidőn belül – számára felróható okból elmulasztja, a képzés, továbbképzés munkáltató által megfizetett költségét köteles megtéríteni a munkáltató számára.
 
-(4) Az e törvény alapján fennálló és előírható képzési, továbbképzési és átképzési kötelezettségek költségeivel összefüggő részletes szabályokat, valamint a képzések és továbbképzések finanszírozásának részletszabályait a Kormány rendeletben határozza meg.
+(4) Az e törvény alapján fennálló és előírható képzési, továbbképzési és átképzési kötelezettséggel összefüggő részletes szabályokat, valamint a képzések és továbbképzések finanszírozásának részletszabályait a Kormány rendeletben határozza meg.
 
 #### 11. Besorolás és előmenetel
 
@@ -264,9 +266,15 @@ feltételeket teljesítette.
 
 (10) Ha a határozott időre létesített állami szolgálati jogviszony időtartama az egy évet meghaladja, az állami tisztviselő előmenetelére e törvény rendelkezéseit kell alkalmazni. Ha az állami tisztviselő ismételten határozott idejű állami szolgálati jogviszonyt létesít, az egyéves határidő számítása szempontjából a határozott idejű jogviszonyok időtartamát össze kell számítani.
 
-14. § (1) Az állami tisztviselő az állami tanácsos I., állami főtanácsos I., állami vezető-főtanácsos I., állami szakértő tanácsos vagy állami szakértő főtanácsos előmeneteli fokozatba akkor sorolható, ha a közigazgatási tanulmányok szakirányú továbbképzés keretein belül szerzett közigazgatási tanulmányok szakirányú szakképzettséggel rendelkezik, vagy az e szakképzettség megszerzését vállalta.
+14. § (1) Az állami tisztviselő az állami tanácsos I., állami főtanácsos I., állami vezető-főtanácsos I., állami szakértő tanácsos vagy állami szakértő főtanácsos előmeneteli fokozatba akkor sorolható, ha a közigazgatási tanulmányok szakirányú továbbképzés keretein belül szerzett közigazgatási tanulmányok szakirányú szakképzettséggel rendelkezik, vagy vállalja, hogy e szakképzettséget három éven belül megszerzi.
 
-(2) Ha az állami tisztviselő kinevezésekor az 5. § (3) bekezdése alapján az NKE képzésén történő részvételét és az oklevélnek a munkáltató által meghatározott időtartamon belüli megszerzését vállalta, az állami tisztviselő az (1) bekezdés szerinti szakképzettség megszerzésére irányuló képzés megkezdése nélkül is besorolható az (1) bekezdés szerinti előmeneteli fokozatokba. Ebben az esetben az (1) bekezdés szerinti szakképzettséget az 5. § (3) bekezdése alapján vállalt kötelezettség teljesítését követő három éven belül kell megszereznie.
+(1a) Az (1) bekezdésben meghatározott határidőbe nem számít bele a harminc napot meghaladó fizetés nélküli szabadság, a keresőképtelenség, továbbá a harminc napot meghaladó hivatalos kiküldetés időtartama.
+
+(1b) Ha az állami tisztviselő az (1) és (2) bekezdésben meghatározott határidőn belül felróhatóan elmulasztja a szakképzettség megszerzését, magasabb előmeneteli fokozatba nem sorolható és illetményét – a határidő leteltének napját követő hónap első napjától – a besorolása szerinti előmeneteli fokozathoz tartozó alsó határnak megfelelő összegben kell megállapítani.
+
+(1c) A szakképzettség megszerzését követően az állami tisztviselőt az (1) bekezdésnek megfelelően kell besorolni és illetményét a 19. § rendelkezései szerint kell megállapítani.
+
+(2) Ha az állami tisztviselő kinevezésekor az 5. § (3) bekezdése alapján az NKE képzésén történő részvételét és a szakképzettségnek a munkáltató által meghatározott időtartamon belüli megszerzését vállalta, az állami tisztviselő az (1) bekezdés szerinti szakképzettség megszerzésére irányuló képzés megkezdése nélkül is besorolható az (1) bekezdés szerinti előmeneteli fokozatokba. Ebben az esetben az (1) bekezdés szerinti szakképzettséget az 5. § (3) bekezdése alapján vállalt kötelezettség teljesítését követő három éven belül kell megszereznie.
 
 (3) Az (1) bekezdés szerinti kötelezettség alól mentesül az államtudományi mesterszintű szakképzettséggel, a közigazgatás-szervező alap- vagy mesterszintű szakképzettséggel rendelkező, illetve aki közigazgatási szakvizsgát vagy jogszabály által azzal egyenértékűként elfogadott vizsgát vagy tudományos fokozatot szerzett.
 
@@ -352,8 +360,9 @@ feltételeket teljesítette.
 (5) Az állami tisztviselő illetményét csak
 
 - a) a (3) és (4) bekezdés szerinti felülvizsgálat,
-- b) a 16. § (5) bekezdése szerinti, a teljesítményértékelés, illetve a minősítés alapján végrehajtható munkáltatói intézkedések, valamint
-- c) a fegyelmi büntetésként végrehajtható munkáltatói intézkedések
+- b) a 16. § (5) bekezdése szerinti, a teljesítményértékelés, illetve a minősítés alapján végrehajtható munkáltatói intézkedések,
+- c) a fegyelmi büntetésként végrehajtható munkáltatói intézkedések, valamint
+- d) a 14. § (1b) bekezdésében meghatározott munkáltatói intézkedések
 
 során lehet csökkenteni. Az állami tisztviselő illetménye az (1) bekezdés szerinti összeg alá nem csökkenthető.
 
@@ -389,7 +398,7 @@ illetménynek megfelelő összeg.
 
 (2) A szolgálati idő elismeréseként az (1) bekezdésben meghatározott összeg az állami szolgálati jogviszonyban töltött idő elérésének napján esedékes.
 
-(3) A szolgálati idő elismerésére egyebekben a Kttv. 150. § (3) és (4) bekezdését kell alkalmazni.
+(3) A szolgálati idő elismerésére egyebekben a Kttv. 150. § (3) és (4) bekezdését kell alkalmazni azzal, hogy az állami tisztviselő nem jogosult az (1) bekezdés a) pontja szerinti elismerésre, ha másik foglalkoztatási jogviszonyban már magasabb fokozatú jubileumi jutalomban részesült.
 
 22. § (1) Az állami tisztviselő részére további, visszatérítendő, illetve vissza nem térítendő szociális jóléti, kulturális, egészségügyi juttatás biztosítható. Ilyen juttatás lehet különösen:
 
@@ -445,6 +454,8 @@ vonatkozó jogát a munkáltató vezetője egyetértésével gyakorolja.
 
 (2) Ahol a Kttv. kormányzati ügykezelőt említ, ott ezen alcím alkalmazásában állami ügykezelőt kell érteni.
 
+(3) E törvény rendelkezéseit az állami ügykezelőkre az ezen alcímben foglalt eltérésekkel kell alkalmazni.
+
 26. § (1) Az állami ügykezelő besorolására és előmenetelére az állami tisztviselők besorolására és előmenetelére vonatkozó szabályokat kell – az ezen alcímben meghatározott eltérésekkel – alkalmazni, azzal, hogy az állami ügykezelőt – az állami szolgálati jogviszonyban töltött ideje alapján – az 1. melléklet 5. pontjában foglalt táblázatban meghatározott megfelelő előmeneteli fokozatba kell besorolni.
 
 (2) Az állami ügykezelőt
@@ -473,14 +484,15 @@ munkanapra emelkedik.
 
 - a) az állami tisztviselők teljesítményértékelésének és minősítésének részletes szabályait;
 - b) az állami tisztviselő részére biztosítható visszatérítendő, illetve vissza nem térítendő szociális jóléti, kulturális, egészségügyi juttatásokkal összefüggő részletes szabályokat;
-- c) az állami tisztviselővé történő kinevezéshez előírható végzettség és képesítés feltételeit;
-- d) az e törvény alapján fennálló és előírható képzési és továbbképzési kötelezettségek költségeivel összefüggő részletes szabályokat, a képzések és továbbképzések finanszírozásának részletes szabályait.
+- c) az állami tisztviselők képesítésére vonatkozó részletes szabályokat;
+- d) az állami tisztviselők továbbképzésével, valamint az e törvény alapján fennálló és előírható képzési és továbbképzési kötelezettségekkel összefüggő részletes szabályokat, valamint a képzések és továbbképzések finanszírozásának részletes szabályait
+- e) azt a testületet, amely meghatározza azokat a szakképzettségeket és fokozatokat, melyek egyenértékűként elfogadottak az e törvény 5. § (6) bekezdésében, 11. § (6) bekezdésében és a 14. § (3) bekezdésében meghatározott szakképzettségekkel és fokozatokkal.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
 
 - a) a kiemelt ügyintézői osztályra vonatkozó részletes szabályokat,
-- b) az 5. §-ban és a 14. §-ban foglalt mentesítések részletes szabályait,
-- c) azon munkaköröket, amelyek betöltéséhez az NKE képzése keretében megszerzett oklevelet a munkakör betöltéséhez kötelező feltételként elő kell írni.
+- b) az 5. §-ban és a 11. §-ban foglalt mentesítések eljárási szabályait,
+- c) azon munkaköröket, amelyek betöltéséhez az NKE képzése keretében megszerzett szakképzettséget a munkakör betöltéséhez kötelező feltételként elő kell írni.
 
 #### 19. Hatályba léptető rendelkezések
 
@@ -561,7 +573,7 @@ munkanapra emelkedik.
 
 34. § Akinek a kormányzati szolgálati jogviszonya e törvény hatálybalépésének napján állami szolgálati jogviszonnyá alakul, és a jogviszonyának átalakulását megelőző napon a Magyar Kormánytisztviselői Kar tagja volt, annak a Magyar Kormánytisztviselői Karral fennálló tagsági viszonyát folyamatosnak kell tekinteni.
 
-35. § (1) Az 5. § szerint meghatározott képesítési feltételek csak az e törvény hatálybalépését követően létesített állami szolgálati jogviszony tekintetében írhatóak elő.
+35. § (1) Az 5. § (2) és (3) bekezdésében meghatározott feltételek csak az e törvény hatálybalépését követően létesített állami szolgálati jogviszony tekintetében írhatóak elő.
 
 (2) Annak az állami tisztviselőnek, akinek a munkáltatóval korábban fennállt kormányzati szolgálati jogviszonya e törvény hatálybalépésének napján állami szolgálati jogviszonnyá alakult, és e törvény hatálybalépésének napján vezetői munkakörben foglalkoztatják, a vezetői munkakör betöltéséhez e törvény alapján fennálló képzési kötelezettségét e törvény hatálybalépésének napjától számított öt éven belül kell teljesítenie.
 

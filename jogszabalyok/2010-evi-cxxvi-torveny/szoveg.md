@@ -47,7 +47,7 @@ gyakorolja.
 
 (5) A szakmai irányító miniszter a fővárosi és megyei kormányhivatal általa irányított szakmai feladatai tekintetében a miniszter közreműködésével hatékonysági ellenőrzést folytathat le.
 
-7. §
+7. § A szakmai irányító miniszter normatív utasításban szabályozhatja a fővárosi és megyei kormányhivatalnak, valamint a járási hivatalnak a szakmai irányító miniszter által irányított feladatai ellátásának szakmai szabályait.
 
 8. § A miniszter ellátja a központi államigazgatási szervek területi szervei feletti, jogszabályban szereplő, a fővárosi és megyei kormányhivatal által végzett ellenőrzés szakmai irányítását, és ennek keretében gyakorolja a szakmai irányító miniszter jogait.
 
@@ -125,6 +125,8 @@ gyakorolja.
 (2) A vagyonnyilatkozatot a miniszter kezeli.
 
 (3) A Vnytv. 9. §-át, 10. §-át és 14–16. §-át kell alkalmazni a kormánymegbízottal szemben lefolytatható vagyongyarapodási vizsgálat, valamint a kormánymegbízott vagyonnyilatkozat-tételi kötelezettségszegése esetén.
+
+11/D. § A kormánymegbízott jogviszonyára egyebekben a Kttv. 26–73. §, 80–88. §, 98. §, 100. § (1) bekezdése, 101. §, 116–130. §, 131. § (2)–(7) bekezdése, 133–142. §, 150. §, 152. § (1) bekezdés a) és b) pontja, 155–159. §, 181–183/B. §, 190–191. §, 195–225. § kivételével a Kttv. kormányzati szolgálati jogviszonyra vonatkozó rendelkezéseit kell megfelelően alkalmazni.
 
 12. § (1) A fővárosi és megyei kormányhivatal hivatali szervezetét főigazgató vezeti.
 
@@ -227,7 +229,7 @@ vonatkozó munkáltatói jogokat.
 
 20/D. § (1) A hivatalvezetőt a kormánymegbízott javaslatára a miniszter nevezi ki és menti fel. A hivatalvezető felett – a kinevezés és a felmentés kivételével – a munkáltatói jogokat a kormánymegbízott gyakorolja. Amennyiben a hivatalvezetővel szemben fegyelmi büntetésként hivatalvesztés büntetés kiszabása indokolt, a kormánymegbízott erre irányuló javaslatáról a miniszter dönt. A kormánymegbízott javaslatában tájékoztatja a minisztert a lefolytatott fegyelmi eljárás megállapításairól, eredményéről, valamint a fegyelmi vétség egyéb releváns körülményeiről.
 
-(2) Hivatalvezetői munkakörbe az nevezhető ki, aki büntetlen előéletű, az országgyűlési képviselők választásán választható, felsőfokú végzettséggel és legalább öt év közigazgatási gyakorlattal rendelkezik. E § tekintetében közigazgatási gyakorlatnak minősül az országgyűlési képviselői tevékenység, a megyei közgyűlési elnöki és a polgármesteri tisztség ellátása is.
+(2) Hivatalvezetői munkakörbe az nevezhető ki, aki büntetlen előéletű, az országgyűlési képviselők választásán választható, felsőfokú végzettséggel és legalább öt év közigazgatási gyakorlattal vagy felsőfokú végzettséggel és közigazgatási szervnél vezetői munkakörben eltöltött legalább három év gyakorlattal rendelkezik. E § tekintetében közigazgatási gyakorlatnak minősül az országgyűlési képviselői tevékenység, a megyei közgyűlési elnöki és a polgármesteri tisztség ellátása is.
 
 (3) A hivatalvezető a kinevezésében megjelölt időpontban lép hivatalba. A kinevezett hivatalvezető a miniszter előtt az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvény szerinti szöveggel esküt tesz.
 

@@ -953,6 +953,8 @@ esetében.
 
 87. § Az országos szinten működő, a területi közművelődési támogatások koordinálásában is részt vevő közművelődési szakmai szolgáltató szerv a helyi közművelődési tevékenységek és a területi, fővárosi feladatok segítése, fejlesztése érdekében közművelődési szakmai szolgáltatást biztosít.
 
+87/A. § Az országos és a területi szintű közművelődési szakmai szolgáltató szervezet feladatait – közszolgáltatási szerződés keretei között, ha a jogszabályi feltételeknek egyebekben megfelel – államháztartáson kívüli szervezet is elláthatja, ha a feladat szerepel a létesítő okiratában.
+
 ### IV. Fejezet — A miniszter közművelődési ágazati irányítóhatásköre
 
 88. § A miniszter ágazati irányító feladat- és hatáskörében
@@ -964,7 +966,7 @@ esetében.
 - e) véleményezési jogot gyakorol a települési önkormányzatok közművelődési intézményeinek létesítése, átszervezése, szüneteltetése, megszüntetése esetén,
 - f)
 - g) meghatározza a közművelődési statisztikai adatszolgáltatás tartalmát és rendjét,
-- h) felelősségi körében gondoskodik a felügyelete alatt működő, a közművelődést szolgáló központi költségvetési intézmény fenntartásáról, irányításáról,
+- h) gondoskodik az országos és területi közművelődési szakmai szolgáltatási feladatok ellátásáról,
 - i) a szakfelügyelet keretében közművelődési szakértő bevonásával ellenőrzi e törvény előírásainak, a közművelődési intézmények tevékenységére vonatkozó egyéb jogszabályoknak, szakmai követelményeknek a betartását és a központi támogatások felhasználását.
 
 ### V. Fejezet — A közművelődés finanszírozásánakés központi támogatásának alapelvei
@@ -975,7 +977,7 @@ esetében.
 
 91. § (1) A miniszter által vezetett minisztérium költségvetési fejezetében kell biztosítani
 
-- a) a közművelődés országos feladatainak finanszírozását,
+- a) az országos és a területi szintű közművelődési szakmai szolgáltatási feladatok ellátásának fedezetét,
 - b)
 - c) a Tudományos Ismeretterjesztő Társulat, Területi Művelődési Intézmények Egyesülete és a népfőiskolai mozgalmak működési támogatását,
 - d)

@@ -972,7 +972,7 @@ szolgáltat.
 
 103/A. § (1) A helyi földbizottság az állásfoglalását a települési önkormányzat jegyzője annak kézhezvételét követő 3 napon belül a települési önkormányzat polgármesteri hivatala, illetve közös önkormányzati hivatal esetében a közös önkormányzati hivatal hirdetőtábláján 5 napra kifüggeszti. Az állásfoglalás ellen – 5 napon belül – az eladó, a vevő, illetve a határidőben elfogadó nyilatkozatot tevő elővásárlásra jogosult kifogást terjeszthet elő a települési önkormányzat képviselő-testületénél. A kifogást a jegyzőhöz kell benyújtani. A kifogás benyújtásáról és annak időpontjáról a jegyző haladéktalanul értesíti a mezőgazdasági igazgatási szervet.
 
-(2) A képviselő-testület megváltoztatja a kifogással érintett állásfoglalást, ha annak kiadására a Földforgalmi törvény 23–25. §-a megsértésével került sor, egyébként a kifogást elutasítja. Az elkésett kifogást a képviselő-testület érdemi vizsgálat nélkül elutasítja. A képviselő-testület a kifogást 15 napon belül zárt ülésen bírálja el. A képviselő-testület a döntését jegyző útján közli a helyi földbizottsággal, a kifogást tevővel és a mezőgazdasági igazgatási szervvel.
+(2) A képviselő-testület megváltoztatja a kifogással érintett állásfoglalást, ha annak kiadására a Földforgalmi törvény 23–25. §-a megsértésével került sor, egyébként a kifogást elutasítja. Az elkésett kifogást a képviselő-testület érdemi vizsgálat nélkül elutasítja. A képviselő-testület a kifogást 15 napon belül zárt ülésen bírálja el. A képviselő-testület a döntését jegyző útján közli.
 
 (3) Kifogás benyújtása esetén e törvény és a Földforgalmi törvény alkalmazásában a helyi földbizottság állásfoglalásának közlésétől számított határidők a képviselő-testület döntése közlésétől számítandók.
 
