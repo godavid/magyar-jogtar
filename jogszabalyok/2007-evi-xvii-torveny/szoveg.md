@@ -42,7 +42,7 @@ Az Országgyűlés annak érdekében, hogy az Európai Mezőgazdasági Vidékfej
 
 - a) beruházás: az ügyfél által eszközölt, a számvitelről szóló törvény és a személyi jövedelemadóról szóló törvény által befektetett eszközként aktiválhatónak minősített ráfordítások összessége, valamint az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 71. §-a (1) bekezdésének a) pontjában megfogalmazott tevékenységek és az erdő faállományának minőségi javítását szolgáló törzsalakító nyesés. A társasági tulajdon, illetőleg szavazati jog megszerzésére fordított összeg csak abban az esetben minősül beruházásnak, ha a támogatás igénybevételi feltételeit megállapító jogszabály ezt kifejezetten lehetővé teszi;
 - b) egyéb szervezet: a szakcsoport, valamint a jogi személyiséggel nem rendelkező szervezet;
-- c) illetékes hatóság: az 1290/2005/EK tanácsi rendeletnek a kifizető ügynökségek és más testületek akkreditációja és az EMGA és az EMVA számláinak elszámolása tekintetében történő alkalmazására vonatkozó részletes szabályok megállapításáról szóló 885/2006/EK bizottsági rendelet (2006. június 21.) 1. cikkének (2) bekezdése, valamint az 1306/2013/EU európai parlamenti és tanácsi rendeletnek a kifizető ügynökségek és más szervek, a pénzgazdálkodás, a számlaelszámolás, az ellenőrzési szabályok, a biztosítékok és az átláthatóság tekintetében történő alkalmazására vonatkozó szabályok megállapításáról szóló 908/2014/EU bizottsági végrehajtási rendelet (2014. augusztus 6.) 1. cikk (1) bekezdése alapján az agrárpolitikáért felelős miniszter;
+- c) illetékes hatóság: az 1290/2005/EK tanácsi rendeletnek a kifizető ügynökségek és más testületek akkreditációja és az EMGA és az EMVA számláinak elszámolása tekintetében történő alkalmazására vonatkozó részletes szabályok megállapításáról szóló 885/2006/EK bizottsági rendelet (2006. június 21.) 1. cikkének (2) bekezdése, valamint az 1306/2013/EU európai parlamenti és tanácsi rendeletnek a kifizető ügynökségek és más szervek, a pénzgazdálkodás, a számlaelszámolás, az ellenőrzési szabályok, a biztosítékok és az átláthatóság tekintetében történő alkalmazására vonatkozó szabályok megállapításáról szóló 908/2014/EU bizottsági végrehajtási rendelet (2014. augusztus 6.) 1. cikk (1) bekezdése alapján az agrár-vidékfejlesztésért felelős miniszter;
 - d) irányító hatóság: az agrár-vidékfejlesztésért felelős miniszter mint
   - da) a 2007–2013 programozási időszakban az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet (2005. szeptember 20.) 75. cikke és az Európai Halászati Alapról szóló 1198/2006/EK tanácsi rendelet (2006. július 27.) 58. cikk (1) bekezdés a) pontja,
   - db) a 2014–2020 programozási időszakban az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról és az 1698/2005/EK tanácsi rendelet hatályon kívül helyezéséről szóló 1305/2013/EU európai parlamenti és tanácsi rendelet (2013. december 17.) 65. cikk (2) bekezdése és az Európai Halászati Alappal összefüggésben a 2014–2020 programozási időszakra vonatkozó közösségi jogi aktus
@@ -159,7 +159,7 @@ gyakorolja.
 
 (3) A mezőgazdasági és vidékfejlesztési támogatási szerv hatásköre az akkreditált feladataihoz kapcsolódó hatósági eljárás keretében kizárólagos.
 
-(4) Újrafelvételi eljárásnak és felügyeleti eljárásnak csak az EMVA-ból, illetve az EHA-ból folyósított támogatások esetében van helye azzal, hogy a felügyeleti eljárás során a felügyeleti szerv jogszabálysértés esetén a mezőgazdasági és vidékfejlesztési támogatási szerv által hozott döntést nem változtathatja meg.
+(4)
 
 (5) A törvény hatálya alá tartozó intézkedéssel kapcsolatban elektronikus kapcsolattartásra akkor van lehetőség, ha azt e törvény vagy az e törvény felhatalmazása alapján kiadott jogszabály az ügy típusának megjelölésével lehetővé teszi. Ez esetben a közigazgatási hatósági eljárás általános szabályairól szóló törvény elektronikus ügyintézésre vonatkozó rendelkezéseit kell alkalmazni.
 
@@ -171,18 +171,18 @@ gyakorolja.
 
 ### Az illetékes hatósági jogkör gyakorlása
 
-13. § (1) Az agrárpolitikáért felelős miniszter illetékes hatósági jogkörének gyakorlása során:
+13. § (1) Az agrár-vidékfejlesztésért felelős miniszter illetékes hatósági jogkörének gyakorlása során:
 
 - a) felelős a kifizető ügynökség akkreditációjáért, e feladatkörében – a közösségi jogi aktusokban foglaltak szerint – jogosult az akkreditáció megadására, illetve szükség esetén annak megvonására;
 - b) folyamatosan figyelemmel kíséri a kifizető ügynökségnél az akkreditációs feltételek teljesítését;
 - c)
-- d) közleményt ad ki a forrás kimerüléséről.
+- d)
 
-(2) Az agrárpolitikáért felelős miniszter (1) bekezdés szerinti illetékes hatósági feladatai ellátása érdekében a mezőgazdasági és vidékfejlesztési támogatási szerv tekintetében az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9. § e), h) és i) pontjában meghatározott hatásköröket gyakorolja.
+(2) Az agrár-vidékfejlesztésért felelős miniszter (1) bekezdés szerinti illetékes hatósági feladatai ellátása érdekében a mezőgazdasági és vidékfejlesztési támogatási szerv tekintetében az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9. § e), h) és i) pontjában meghatározott hatásköröket gyakorolja.
 
 (3)
 
-(4) Az (1) bekezdés d) pontja szerinti közleményeket az agrárpolitikáért felelős miniszter által vezetett minisztérium hivatalos lapjában és honlapján, valamint a mezőgazdasági és vidékfejlesztési támogatási szerv internetes honlapján kell közzétenni.
+(4)
 
 ### Az irányító hatósági jogkör gyakorlása
 

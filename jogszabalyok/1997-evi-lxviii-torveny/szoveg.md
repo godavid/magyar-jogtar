@@ -34,17 +34,9 @@ az igazságügyi alkalmazottak szolgálati jogviszonyáról
 
 2/A. § (1) E törvény eltérő rendelkezésének hiányában tisztviselő alatt a 2. § (2) bekezdés b) pontjában meghatározott igazságügyi alkalmazottat is érteni kell.
 
-(2) Ha e törvény másként nem rendelkezik,
+(2)
 
-- a) az egyéb igazságügyi szervre irányadó rendelkezéseket a rendőrség szakértői szervére is,
-- b) az egyéb igazságügyi szervnél létesített szolgálati jogviszony tekintetében irányadó rendelkezéseket a rendőrség szakértői szervénél létesített szolgálati jogviszonyra is alkalmazni kell.
-
-(3) A rendőrség szakértői szervére nem kell alkalmazni
-
-- a) a 35/A. §, valamint
-- b)
-
-rendelkezéseit.
+(3)
 
 3. § (1) A bírói tisztség ellátásához szükséges gyakorlati ismeretek megszerzése végett a bíróságokon fogalmazók működnek.
 
@@ -77,7 +69,7 @@ rendelkezéseit.
 - a) az OBH elnökhelyettese és egyéb alkalmazottai tekintetében az OBH elnöke,
 - b)
 - c) az igazságügyi szakértők, az egyéb igazságügyi szerv vezetője és helyettese tekintetében az igazságügyért felelős miniszter (a továbbiakban: miniszter),
-- d) a rendőrség szakértői szervénél foglalkoztatott igazságügyi alkalmazottak tekintetében jogszabályban meghatározott személy,
+- d)
 - e) a járásbírósági fogalmazók és titkárok, a bírósági ügyintézők, a végrehajtási ügyintézők tekintetében a törvényszék elnöke,
 - f) az egyéb igazságügyi alkalmazottak tekintetében az igazságügyi szerv vezetője (a továbbiakban együtt: munkáltató) gyakorolja.
 
@@ -152,7 +144,7 @@ rendelkezéseit.
 
 (2)
 
-(3) Egyéb igazságügyi szervhez és a rendőrség szakértői szervéhez igazságügyi szakértővé az nevezhető ki, aki az e törvényben meghatározott feltételeknek megfelel és az igazságügyi szakértői tevékenységről szóló törvény szerint igazságügyi szakértő.
+(3) Egyéb igazságügyi szervhez igazságügyi szakértővé az nevezhető ki, aki az e törvényben meghatározott feltételeknek megfelel és az igazságügyi szakértői tevékenységről szóló törvény szerint igazságügyi szakértő.
 
 (4) Szakértőjelöltnek a szakterületnek megfelelő egyetemi (főiskolai) végzettséggel rendelkező személy nevezhető ki.
 
@@ -1396,12 +1388,11 @@ a besorolása szerint azonos szolgálati idővel rendelkező kormánytisztvisel�
 
 (2a) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a gyermek születése esetén az apát megillető pótszabadság igénybevételére vonatkozó szabályokat.
 
-(3) Felhatalmazást kap a miniszter, hogy
+(3) Felhatalmazást kap az igazságügyért felelős miniszter, hogy
 
-- a)
-- b) az 1. § (1) bekezdés d) pontjában meghatározott személyi kör kivételével az igazságügyi alkalmazottak munkaköri elnevezéseit és a képesítési követelmények részletes szabályait, valamint a veszélyességi pótlékra jogosító munkaköröket – az OBH-ra és a bíróságokra vonatkozóan az OBH elnöke véleményének kikérésével–
-- c) a bírósági fogalmazók felvételi rendjére és joggyakorlatára vonatkozó részletes szabályokat az OBH elnöke véleményének kikérésével,
-- d) az 1. § (1) bekezdés d) pontjában meghatározott személyi kör kivételével az igazságügyi alkalmazottaknak, valamint a bíróságok által fenntartott üdülők, bölcsődék és óvodák alkalmazottainak igazolványára vonatkozó szabályokat
+- a) az 1. § (1) bekezdés c) pontjában meghatározott személyi kör kivételével az igazságügyi alkalmazottak munkaköri elnevezéseit és a képesítési követelmények részletes szabályait, valamint a veszélyességi pótlékra jogosító munkaköröket – az OBH-ra és a bíróságokra vonatkozóan az OBH elnöke véleményének kikérésével –,
+- b) a bírósági fogalmazók felvételi rendjére és joggyakorlatára vonatkozó részletes szabályokat az OBH elnöke véleményének kikérésével,
+- c) az 1. § (1) bekezdés c) pontjában meghatározott személyi kör kivételével az igazságügyi alkalmazottaknak, valamint a bíróságok által fenntartott üdülők, bölcsődék és óvodák alkalmazottainak igazolványára vonatkozó szabályokat
 
 rendeletben állapítsa meg.
 
