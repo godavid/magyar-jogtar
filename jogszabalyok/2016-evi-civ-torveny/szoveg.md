@@ -38,13 +38,7 @@ a központi hivatalok felülvizsgálatával és a járási (fővárosi kerületi
 
 3. § (1)
 
-(2) A Kkt. a következő 46/K. §-sal egészül ki:
-
-„46/K. § (1) A Közlekedésfejlesztési Koordinációs Központ (a továbbiakban: KKK) országos közúti vagyonkezelői feladatait 2017. január 1-jétől a Magyar Közút Nonprofit Zrt. látja el, ezzel összefüggésben megilletik a KKK magánjogi jogai és kötelezettségei.
-
-(2) Az (1) bekezdés alapján a a Magyar Közút Nonprofit Zrt. vagyonkezelői jogát a Magyar Közút Nonprofit Zrt. egyoldalú nyilatkozata alapján, annak kérelmére kell bejegyezni az ingatlan-nyilvántartásba azon ingatlanok vonatkozásban, amelyek bejegyzett vagyonkezelője a KKK, vagy annak valamely jogelőd szervezte.
-
-(3) A 32. § (6) bekezdése szerinti vagyonkezelői feladat ellátásával kapcsolatos jogviszonyokba és az (1) bekezdés szerinti feladatátadással összefüggő szerződésekbe, továbbá valamennyi, a korábban a KKK által a vagyonkezelésében álló vagyonra vonatkozóan megkötött szerződésbe – ide értve az ezen vagyonelemekre vonatkozó, de nem a vagyonkezelői jogviszonyon alapuló szerződéseket is, így különösen a tulajdonosi joggyakorlóval kötött megbízási szerződéseket – a KKK helyébe 2017. január 1-jén a Magyar Közút Nonprofit Zrt. lép.”
+(2)
 
 (3)
 
@@ -84,39 +78,7 @@ a központi hivatalok felülvizsgálatával és a járási (fővárosi kerületi
 
 #### 12. A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény módosítása
 
-12. § (1) A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 25/A. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) Ha a munkáltató személye azért változik meg, mert az alapító a költségvetési szerv útján ellátott közfeladatot
-
-a) az alapító közvetett vagy közvetlen, legalább többségi befolyása alatt álló, vagy
-
-b) az államháztartásról szóló törvény szerint az alapításra jogosult szerv által alapított és annak közvetett vagy közvetlen, legalább többségi befolyása alatt álló
-
-gazdasági társaság utódszervezet vagy alapítvány részére adja át közfeladat-ellátási és továbbfoglalkoztatási kötelezettséggel, a közalkalmazotti jogviszony megszűnik, és a megszűnését követő nappal az új munkáltatóval munkaviszony létesül. Ebben az esetben az átadó és átvevő munkáltatók tájékoztatási kötelezettsége kizárólag a (2) és (3) bekezdésben foglaltakra kiterjedően áll fenn. A munkaviszony tartalmi elemeit az e bekezdésben foglaltak szerint adott tájékoztatás és a 25/B. § rendelkezései alapján kell meghatározni és legkésőbb az átadás napjáig írásba foglalni.”
-
-(2) A Kjt. 25/C. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A munkáltató személyében a jogszabály rendelkezése folytán bekövetkező olyan változás esetén, ha a munkáltató egésze vagy egy része (szervezeti egysége, anyagi és nem anyagi erőforrásainak vagy feladat- és hatáskörének meghatározott csoportja) a közszolgálati tisztviselőkről szóló törvény, az állami tisztviselőkről szóló törvény vagy az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény hatálya alá tartozó munkáltatóhoz kerül, a munkáltató érintett szervezete vagy tevékenysége keretében foglalkoztatott közalkalmazott közalkalmazotti jogviszonya – a (6) és (7) bekezdésben, valamint a (12) bekezdésben foglalt kivétellel – a jogállásváltozás időpontjában kormányzati szolgálati, közszolgálati, állami szolgálati vagy igazságügyi szolgálati jogviszonnyá alakul át.”
-
-(3) A Kjt. 25/C. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) A (4) bekezdésben foglaltaktól eltérően nem alakul át a közalkalmazott jogviszonya, ha az átvevő munkáltató a közszolgálati tisztviselőkről szóló, az állami tisztviselőkről szóló vagy az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény rendelkezései alapján nem létesíthet kormányzati szolgálati, közszolgálati, állami szolgálati vagy igazságügyi szolgálati jogviszonyt az átadással érintett közalkalmazottal, ebben az esetben a közalkalmazotti jogviszony a törvény erejénél fogva az átadás időpontjában megszűnik. A jogviszony megszűnéséről a közalkalmazottat az átadás napjával írásban értesíteni kell. A jogviszony megszűnése esetén a közalkalmazott számára a 37. § (2) és (4)–(7) bekezdés alkalmazásával megállapított végkielégítést – határozott idejű jogviszony esetén a 27. § (2) bekezdésében meghatározott távolléti díjat – kell megfizetni.”
-
-(4) A Kjt. 25/C. § (8) és (9) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(8) A jogviszony kormányzati szolgálati, közszolgálati, állami szolgálati vagy igazságügyi szolgálati jogviszonnyá történő átalakulását követő negyvenöt napon belül a közalkalmazottat a kormányzati szolgálati jogviszonyra, közszolgálati jogviszonyra, állami szolgálati jogviszonyra vagy az igazságügyi szolgálati jogviszonyra vonatkozó szabályok szerint be kell sorolni, és illetményét meg kell állapítani.
-
-(9) Határozatlan időtartamú közalkalmazotti jogviszony – eltérő törvényi rendelkezés hiányában – határozatlan időtartamú kormányzati szolgálati, közszolgálati, állami szolgálati vagy igazságügyi szolgálati jogviszonnyá alakul át. Teljes munkaidőben történő foglalkoztatás esetén a jogviszony teljes munkaidős kormányzati szolgálati, közszolgálati, állami szolgálati vagy igazságügyi szolgálati jogviszonnyá alakul át.”
-
-(5) A Kjt. 25/C. § (11) bekezdése helyébe a következő rendelkezés lép:
-
-„(11) A közalkalmazotti jogviszonyban álló vezető jogviszonyának átalakulását követően – a kormányzati szolgálati jogviszonyra, közszolgálati jogviszonyra, állami szolgálati jogviszonyra vagy igazságügyi szolgálati jogviszonyra vonatkozó szabály figyelembevételével – kell a vezetői munkakör szintjét és megnevezését megállapítani.”
-
-(6) A Kjt. 37. § (2) bekezdése a következő c) ponttal egészül ki:
-
-(Nem jogosult végkielégítésre a közalkalmazott, ha felmentésére – az egészségügyi okot kivéve – tartós alkalmatlansága vagy nem megfelelő munkavégzése miatt került sor. Nem jár továbbá végkielégítés a közalkalmazottnak, ha)
-
-„c) közalkalmazotti jogviszonya a 25/A. § (7) bekezdése vagy a 25/C. § (12) bekezdése szerint alakult át.”
+12. §
 
 #### 13. A nemzeti gondozásról szóló 1992. évi LII. törvény módosítása
 
@@ -142,15 +104,7 @@ gazdasági társaság utódszervezet vagy alapítvány részére adja át közfe
 
 18. § (1)–(2)
 
-(3) Az NKA tv. a következő 10/C. §-sal egészül ki:
-
-„10/C. § (1) A Nemzeti Kulturális Alap Igazgatósága 2016. december 31-én, az Emberi Erőforrás Támogatáskezelőbe való beolvadással megszűnik.
-
-(2) A Nemzeti Kulturális Alap Igazgatósága állami vagy önkormányzati tulajdonban lévő ingó és ingatlan vagyonon fennálló vagyonkezelői joga 2017. január 1-jén, ingyenesen átszáll az Emberi Erőforrás Támogatáskezelőre.
-
-(3) A vagyonkezelői jog ingatlan-nyilvántartásba jogutódlás jogcímén történő bejegyeztetéséről – a Nemzeti Kulturális Alap Igazgatósága ingatlan-nyilvántartásban szereplő vagyonkezelői joga törlésének kezdeményezésével együtt – az Emberi Erőforrás Támogatáskezelő köteles legkésőbb 2017. február 1-jéig gondoskodni.
-
-(4) A vagyoni jogutódlással kapcsolatos részletes rendelkezéseket a felek közötti átadás-átvételi megállapodás rögzíti. Az átadás-átvételi megállapodás elválaszthatatlan mellékletét képezi az átadás-átvétel tárgyát képező ingatlanok azonosító adatokkal történő felsorolása, valamint ingó vagyontárgyak esetében az ingó vagyontárgyakról felvett teljes körű leltár.”
+(3)
 
 #### 19. A statisztikáról szóló 1993. évi XLVI. törvény módosítása
 
@@ -228,25 +182,11 @@ gazdasági társaság utódszervezet vagy alapítvány részére adja át közfe
 
 37. § (1)–(11)
 
-(12) Az Iasz. 135. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Felhatalmazást kap az igazságügyért felelős miniszter, hogy
-
-a) az 1. § (1) bekezdés c) pontjában meghatározott személyi kör kivételével az igazságügyi alkalmazottak munkaköri elnevezéseit és a képesítési követelmények részletes szabályait, valamint a veszélyességi pótlékra jogosító munkaköröket – az OBH-ra és a bíróságokra vonatkozóan az OBH elnöke véleményének kikérésével –,
-
-b) a bírósági fogalmazók felvételi rendjére és joggyakorlatára vonatkozó részletes szabályokat az OBH elnöke véleményének kikérésével,
-
-c) az 1. § (1) bekezdés c) pontjában meghatározott személyi kör kivételével az igazságügyi alkalmazottaknak, valamint a bíróságok által fenntartott üdülők, bölcsődék és óvodák alkalmazottainak igazolványára vonatkozó szabályokat
-
-rendeletben állapítsa meg.”
+(12)
 
 (13)–(14)
 
-(15) Hatályát veszti az Iasz.
-
-- a) 2/A. § (2) és (3) bekezdése,
-- b) 8. § (1) bekezdés d) pontja,
-- c) 13. § (3) bekezdésében az „és a rendőrség szakértői szervéhez” szövegrész.
+(15)
 
 #### 38. A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény módosítása
 
@@ -268,30 +208,11 @@ rendeletben állapítsa meg.”
 
 42. § (1)
 
-(2) A Kultv. a következő 87/A. §-sal egészül ki:
-
-„87/A. § Az országos és a területi szintű közművelődési szakmai szolgáltató szervezet feladatait – közszolgáltatási szerződés keretei között, ha a jogszabályi feltételeknek egyebekben megfelel – államháztartáson kívüli szervezet is elláthatja, ha a feladat szerepel a létesítő okiratában.”
-
-(3) A Kultv. 88. § h) pontja helyébe a következő rendelkezés lép:
-
-(A miniszter ágazati irányító feladat- és hatáskörében)
-
-„h) gondoskodik az országos és területi közművelődési szakmai szolgáltatási feladatok ellátásáról,”
-
-(4) A Kultv. 91. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(A miniszter által vezetett minisztérium költségvetési fejezetében kell biztosítani)
-
-„a) az országos és a területi szintű közművelődési szakmai szolgáltatási feladatok ellátásának fedezetét,”
+(2)–(4)
 
 (5)–(7)
 
-(8) A Kultv.
-
-- a) 85. § (2) bekezdésében a „közművelődési szakmai szolgáltató szervvel” szövegrész helyébe a „közművelődési szakmai szolgáltató szervezettel” szöveg,
-- b) 87. §-ában a „közművelődési szakmai szolgáltatást biztosító szerv” szövegrész helyébe a „közművelődési szakmai szolgáltatást biztosító szervezet” szöveg
-
-lép.
+(8)
 
 (9)
 
@@ -367,23 +288,7 @@ lép.
 
 60. § (1)–(5)
 
-(6) Az Mktv. V. Fejezet 1. Címe a következő 36/J. §-sal egészül ki:
-
-„36/J. § (1) A MaNDA 2016. december 31-én megszűnik. Az 1/A. Fejezet szerinti feladatok körében a nemzeti filmvagyonhoz kapcsolódó felhasználási és egyéb jogok – beleértve a 36/B. § (4) és (5) bekezdése szerinti jogok és kötelezettségek gyakorlását is –, a vagyonkezelői feladatellátáshoz szükséges eszközök és vagyoni értékű jogok, továbbá a 2013. december 31. előtt már a MaNDA vagy annak jogelődje vagyonkezelésében álló álló ingatlanok, így különösen az 1021 Budapest, Budakeszi út 51/E. (10937/26 hrsz.) és 1021 Budapest, Budakeszi út 51/C. (10937/18 hrsz.) ingatlanok, továbbá a vagyonkezelői feladatellátáshoz szükséges eszközök és vagyoni értékű jogok tekintetében a vagyonkezelési szerződésekben a MaNDA jogutódja az MNF.
-
-(2) Az (1) bekezdésben meghatározottakon túlmenően a jogutódlás és feladatátadás tárgyát képezi az átvett feladatok ellátásával összefüggő valamennyi jogviszony, beleértve a vagyoni jogokat és kötelezettségeket, az átvett feladatokhoz tartozó tárgyi eszközállományt, így különösen az archiválási és digitalizálási feladatok ellátásához kapcsolódó eszközöket és az MNF-nél e törvény szerinti feladatok ellátására az átadás-átvételt követően továbbfoglalkoztatottak foglalkoztatási jogviszonyát és a kapcsolódó munkáltatói jogok gyakorlását.
-
-(3) Az (1) és (2) bekezdés szerinti vagyonátadás ellenérték nélküli és illetékmentes, és azt az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa tv.) alkalmazásában olyan jogutódlással történő megszűnésnek kell tekinteni, amely az Áfa tv. 17. § (3) bekezdés h) pontjában leírt feltételeknek felel meg, és egyebekben adómentes.
-
-(4) Az (1) és (2) bekezdés szerinti jogok és kötelezettségek MaNDA megszűnéséből eredő átszállása a MaNDA-val szemben fennálló követeléseket nem teszi lejárttá, ezen okból szerződésszegésre való hivatkozásnak vagy biztosíték nyújtására vonatkozó igény érvényesítésének nincs helye, az átszállás szerzői jogdíj fizetési igényt nem keletkeztet.
-
-(5) Az (1) bekezdés szerinti jogutódlás alapján az ingatlanokra vonatkozóan a jogutód vagyonkezelői jogát az MNF egyoldalú nyilatkozata alapján, annak kérelmére kell – jogutódlás jogcímén – bejegyezni az ingatlan-nyilvántartásba azon ingatlanok vonatkozásban, amelyek bejegyzett vagyonkezelője a MaNDA vagy annak jogelődje.
-
-(6) A jogutódláshoz kapcsolódó vagyon- és létszámátcsoportosításról, valamint a MaNDA feladatait, kötelezettségvállalásait illetően a MaNDA és az MNF átadás-átvételi megállapodást köt. Az átadás-átvételi eljárásban a feladatok ellátása során keletkezett valamennyi iratot, elektronikusan tárolt adatot és egyéb dokumentumot legkésőbb 2016. december 31-ig át kell adni az MNF részére, amely azokat tárolja és kezeli.”
-
-(7) Az Mktv. 37. § (1) helyébe a következő rendelkezés lép:
-
-„(1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a települési önkormányzat, valamint az állam tulajdonában álló közterület filmforgatási célú használata kapcsán a filmforgatáshoz kapcsolódó eljárások lefolytatásának és a hatósági bejelentések, kérelmek továbbításának a rendjét, valamint az MNF eljárásához kapcsolódó nyilvántartásokkal kapcsolatos részletes szabályokat.”
+(6)–(7)
 
 (8)
 
@@ -433,16 +338,12 @@ lép.
 
 (9) A Támtv.
 
-- a) 9. § c) pontjában, 13. § (1) és (2) bekezdésében az „agrárpolitikáért” szövegrész helyébe az „agrár-vidékfejlesztésért” szöveg,
+- a)
 - b)–h)
 
 lép.
 
-(10) Hatályát veszti a Támtv.
-
-- a) 12. § (4) bekezdése,
-- b) 13. § (1) bekezdés d) pontja,
-- c) 13. § (4) bekezdése.
+(10)
 
 #### 72. A szabálysértési jogsegélyről szóló 2007. évi XXXVI. törvény módosítása
 
@@ -454,7 +355,7 @@ lép.
 
 #### 74. A műsorterjesztés és a digitális átállás szabályairól szóló 2007. évi LXXIV. törvény módosítása
 
-74. § Hatályát veszti a műsorterjesztés és a digitális átállás szabályairól szóló 2007. évi LXXIV. törvény 44/A. § (1) bekezdése.
+74. §
 
 #### 75. A villamos energiáról szóló 2007. évi LXXXVI. törvény módosítása
 
@@ -519,21 +420,15 @@ lép.
 
 88. § (1)–(2)
 
-(3) A Khtv. a következő 7. §-sal egészül ki:
-
-„7. § A szakmai irányító miniszter normatív utasításban szabályozhatja a fővárosi és megyei kormányhivatalnak, valamint a járási hivatalnak a szakmai irányító miniszter által irányított feladatai ellátásának szakmai szabályait.”
+(3)
 
 (4)
 
-(5) A Khtv. a következő 11/D. §-sal egészül ki:
-
-„11/D. § A kormánymegbízott jogviszonyára egyebekben a Kttv. 26–73. §, 80–88. §, 98. §, 100. § (1) bekezdése, 101. §, 116–130. §, 131. § (2)–(7) bekezdése, 133–142. §, 150. §, 152. § (1) bekezdés a) és b) pontja, 155–159. §, 181–183/B. §, 190–191. §, 195–225. § kivételével a Kttv. kormányzati szolgálati jogviszonyra vonatkozó rendelkezéseit kell megfelelően alkalmazni.”
+(5)
 
 (6)–(8)
 
-(9) A Khtv. 20/D. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Hivatalvezetői munkakörbe az nevezhető ki, aki büntetlen előéletű, az országgyűlési képviselők választásán választható, felsőfokú végzettséggel és legalább öt év közigazgatási gyakorlattal vagy felsőfokú végzettséggel és közigazgatási szervnél vezetői munkakörben eltöltött legalább három év gyakorlattal rendelkezik. E § tekintetében közigazgatási gyakorlatnak minősül az országgyűlési képviselői tevékenység, a megyei közgyűlési elnöki és a polgármesteri tisztség ellátása is.”
+(9)
 
 (10)–(14)
 
@@ -722,59 +617,7 @@ lép.
 
 131. § (1)
 
-(2) Az Áttv. 5. §-a a következő (9) bekezdéssel egészül ki:
-
-„(9) Az állami tisztviselők képesítésére vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.”
-
-(3) Az Áttv. 14. §-a a következő (1a), (1b) és (1c) bekezdéssel egészül ki:
-
-„(1a) Az (1) bekezdésben meghatározott határidőbe nem számít bele a harminc napot meghaladó fizetés nélküli szabadság, a keresőképtelenség, továbbá a harminc napot meghaladó hivatalos kiküldetés időtartama.
-
-(1b) Ha az állami tisztviselő az (1) és (2) bekezdésben meghatározott határidőn belül felróhatóan elmulasztja a szakképzettség megszerzését, magasabb előmeneteli fokozatba nem sorolható és illetményét – a határidő leteltének napját követő hónap első napjától – a besorolása szerinti előmeneteli fokozathoz tartozó alsó határnak megfelelő összegben kell megállapítani.
-
-(1c) A szakképzettség megszerzését követően az állami tisztviselőt az (1) bekezdésnek megfelelően kell besorolni és illetményét a 19. § rendelkezései szerint kell megállapítani.”
-
-(4) Az Áttv. 19. § (5) bekezdése a következő d) ponttal egészül ki:
-
-(Az állami tisztviselő illetményét csak)
-
-„d) a 14. § (1b) bekezdésében meghatározott munkáltatói intézkedések”
-
-[során lehet csökkenteni. Az állami tisztviselő illetménye az (1) bekezdés szerinti összeg alá nem csökkenthető.]
-
-(5) Az Áttv. 25. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) E törvény rendelkezéseit az állami ügykezelőkre az ezen alcímben foglalt eltérésekkel kell alkalmazni.”
-
-(6) Az Áttv. 28. § (1) bekezdés c) és d) pontja helyébe a következő rendelkezések lépnek és a 28. § kiegészül a következő e) ponttal:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg)
-
-„c) az állami tisztviselők képesítésére vonatkozó részletes szabályokat;
-
-d) az állami tisztviselők továbbképzésével, valamint az e törvény alapján fennálló és előírható képzési és továbbképzési kötelezettségekkel összefüggő részletes szabályokat, valamint a képzések és továbbképzések finanszírozásának részletes szabályait
-
-e) azt a testületet, amely meghatározza azokat a szakképzettségeket és fokozatokat, melyek egyenértékűként elfogadottak az e törvény 5. § (6) bekezdésében, 11. § (6) bekezdésében és a 14. § (3) bekezdésében meghatározott szakképzettségekkel és fokozatokkal.”
-
-(7) Az Áttv.
-
-- a) 5. § (3) bekezdés a) pontjában a „felsőfokú oklevéllel” szövegrész helyébe a „szakképzettséggel” szöveg,
-- b) 5. § (3) bekezdés b) pontjában „az oklevélnek” szövegrész helyébe az „a szakképzettségnek” szöveg,
-- c) 5. § (4) bekezdésében a „képesítés, illetve a szakképzettség” szövegrész helyébe a „szakképzettség” szöveg,
-- d) 5. § (7) bekezdésében az „a (2) bekezdésben és a (3) bekezdés a) pontjában meghatározott képesítés, illetve szakképzettség” szövegrész helyébe az „a (3) bekezdés a) pontjában meghatározott szakképzettség” szöveg,
-- e) 5. § (8) bekezdésében az „aki a (2) és (3) bekezdésben” szövegrész helyébe az „aki a (2) bekezdésben” szöveg,
-- f) 11. § (3) bekezdésében a „megjelölt szerinti” szövegrész helyébe a „megjelölt” szöveg,
-- g) 12. § (4) bekezdésében a „kötelezettségek költségeivel összefüggő” szövegrész helyébe a „kötelezettséggel összefüggő” szöveg,
-- h) 14. § (1) bekezdésében a „vagy az e szakképzettség megszerzését vállalta” szövegrész helyébe a „vagy vállalja, hogy e szakképzettséget három éven belül megszerzi” szöveg,
-- i) 14. § (2) bekezdésében az „az oklevélnek”szövegrész helyébe az „a szakképzettségnek” szöveg,
-- j) 19. § (5) bekezdés b) pontjában a „munkáltatói intézkedések, valamint” szövegrész helyébe a „munkáltatói intézkedések,” szöveg,
-- k) 19. § (5) bekezdés c) pontjában a „munkáltatói intézkedések” szövegrész helyébe a „munkáltatói intézkedések, valamint” szöveg,
-- l) 21. § (3) bekezdésében a „kell alkalmazni.” szövegrész helyébe a „kell alkalmazni azzal, hogy az állami tisztviselő nem jogosult az (1) bekezdés a) pontja szerinti elismerésre, ha másik foglalkoztatási jogviszonyban már magasabb fokozatú jubileumi jutalomban részesült.” szöveg,
-- m) 28. § (2) bekezdés b) pontjában a „14. §-ban” szövegrész helyébe a „11. §-ban”, a „részletes” szövegrész helyébe az „eljárási” szöveg,
-- n) 28. § (2) bekezdés c) pontjában az „oklevelet” szövegrész helyébe a „szakképzettséget” szöveg,
-- o) 35. § (1) bekezdésében az „5. § szerint meghatározott képesítési feltételek” szövegrész helyébe az „5. § (2) és (3) bekezdésében meghatározott feltételek” szöveg
-
-lép.
+(2)–(7)
 
 #### 132. A Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvény módosítása
 
