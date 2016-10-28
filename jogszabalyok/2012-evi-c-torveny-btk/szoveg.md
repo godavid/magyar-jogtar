@@ -752,33 +752,59 @@ de legfeljebb öt év, életfogytig tartó szabadságvesztésből engedélyezett
 74. § (1) Vagyonelkobzást kell elrendelni arra
 
 - a) a bűncselekmény elkövetéséből eredő vagyonra, amelyet az elkövető a bűncselekmény elkövetése során vagy azzal összefüggésben szerzett,
-- b) a vagyonra, amelyet az elkövető bűnszervezetben való részvétele ideje alatt szerzett,
-- c) a vagyonra, amelyet a kábítószer-kereskedelem vagy az embercsempészés elkövetője a bűncselekmény elkövetésének ideje alatt szerzett,
+- b)–c)
 - d) a vagyonra, amely a bűncselekmény elkövetéséből eredő, a bűncselekmény elkövetése során vagy azzal összefüggésben szerzett vagyon helyébe lépett,
 - e) a vagyonra, amelyet a bűncselekmény elkövetése céljából az ehhez szükséges vagy ezt könnyítő feltételek biztosítása végett szolgáltattak vagy arra szántak,
 - f) a vagyonra, amely az adott vagy ígért vagyoni előny tárgya volt.
 
 (2) A vagyonelkobzást el kell rendelni arra a bűncselekmény elkövetéséből eredő, a bűncselekmény elkövetése során vagy azzal összefüggésben szerzett vagyonra is, amellyel más gazdagodott. Ha gazdálkodó szervezet gazdagodott ilyen vagyonnal, a vagyonelkobzást a gazdálkodó szervezettel szemben kell elrendelni.
 
-(3) Ha az elkövető vagy a (2) bekezdés szerint gazdagodott személy meghalt, vagy a gazdálkodó szervezet átalakult, a vagyonelkobzást a jogutóddal szemben kell elrendelni arra az (1) bekezdés szerinti vagyonra, amelyre a jogutódlás történt.
+(3) Ha az elkövető vagy a (2) bekezdés szerint gazdagodott személy meghalt, vagy a gazdálkodó szervezet átalakult, a vagyonelkobzást a jogutóddal szemben kell elrendelni arra az (1) bekezdés vagy a 74/A. § szerinti vagyonra, amelyre a jogutódlás történt.
 
-(4) Az ellenkező bizonyításáig vagyonelkobzás alá eső vagyonnak kell tekinteni
-
-- a) az (1) bekezdés b) pontja esetében a bűnszervezetben való részvétel,
-- b) az (1) bekezdés c) pontja esetében a kábítószer forgalomba hozatalának, illetve az azzal való kereskedés, továbbá az embercsempészés üzletszerű vagy bűnszövetségben történő elkövetésének
-
-ideje alatt szerzett valamennyi vagyont.
+(4)
 
 (5) Nem rendelhető el vagyonelkobzás
 
 - a) arra a vagyonra, amely a büntetőeljárás során érvényesített polgári jogi igény fedezetéül szolgál,
 - b) arra a vagyonra, amelyet jóhiszeműen, ellenérték fejében szereztek,
-- c) az (1) bekezdés b) és c) pontja esetében, ha a vagyon törvényes eredete bizonyított.
+- c)
+
+74/A. § (1) Az ellenkező bizonyításáig vagyonelkobzás alá eső vagyonnak kell tekinteni, és vagyonelkobzást kell elrendelni arra a vagyonra, amelyet az elkövető
+
+- a) bűnszervezetben való részvétele,
+- b) a kábítószer forgalomba hozatala, illetve az azzal való kereskedés elkövetésének,
+- c) az üzletszerűen vagy bűnszövetségben elkövetett embercsempészés elkövetésének
+
+ideje alatt szerzett.
+
+(2) Az ellenkező bizonyításáig vagyonelkobzás alá eső vagyonnak kell tekinteni, és vagyonelkobzást kell elrendelni arra a vagyonra is, amelyet
+
+- a) a kábítószer forgalomba hozatala, illetve az azzal való kereskedés [176. § (1)–(4) és (6) bekezdés, 177. § (1) bekezdés b) pont, c) pont cb) alpont és (2)–(3) és (5) bekezdés], kábítószer termesztése, előállítása, az ország területére behozatala, kivitele, átszállítása [178. § (1)–(5) bekezdés és 179. §], a kábítószer készítésének elősegítése [182. § (1)–(4) bekezdés], a kábítószer-prekurzor forgalomba hozatala, szállítása, azzal közvetítői tevékenység végzése [183. § (1) bekezdés a) pont],
+- b) az új pszichoaktív anyag előállítása, az ország területére behozatala, kivitele, átszállítása, forgalomba hozatala, illetve az azzal való kereskedés [184. § (1)–(3) és (5) bekezdés, 184/A. § (1) bekezdés b) pont és c) pont cb) alpont, (2)–(3) és (5) bekezdés, 184/B. § (1) bekezdés a) pont, (2)–(5) bekezdés, 184/C. § (1) bekezdés a) pont aa) alpont, b) pont ba) alpont, (2)–(5) bekezdés],
+- c) az emberkereskedelem [192. § (1)–(7) bekezdés], a kényszermunka (193. §),
+- d) a kerítés (200. §), a prostitúció elősegítése (201. §), a kitartottság (202. §), a gyermekprostitúció kihasználása [203. § (1) és (3)–(4) bekezdés], a gyermekpornográfia [204. § (1) bekezdés b)–c) pont, (2)–(4) bekezdés, (5) bekezdés a) és c) pont és (6) bekezdés],
+- e) a gyermekmunka (209. §), a harmadik országbeli állampolgár jogellenes foglalkoztatása [356. § (1)–(2) bekezdés],
+- f) a haszonszerzési célból elkövetett személyes adattal visszaélés [219. § (1) és (3)–(4) bekezdés],
+- g) a vesztegetés, a vesztegetés elfogadása, a hivatali vesztegetés, a hivatali vesztegetés elfogadása (290–294. §),
+- h) a terrorcselekmény [314. §, 315. § (1)–(2) bekezdés és 316. §], a terrorizmus finanszírozása [318. § (1)–(2) bekezdés],
+- i) a bűnszervezetben részvétel [321. § (1) bekezdés],
+- j) az embercsempészés (353. §)
+- k) a zsarolás (367. §),
+- l) a különösen nagy vagy különösen jelentős értékre, bűnszervezetben elkövetett sikkasztás [372. § (5) bekezdés a) pontja és (6) bekezdése], a különösen nagy vagy különösen jelentős kárt okozó, bűnszervezetben elkövetett csalás [373. § (5) bekezdés a) pontja és (6) bekezdése], a különösen nagy vagy különösen jelentős vagyoni hátrányt okozó, bűnszervezetben elkövetett gazdasági csalás [374. § (5) bekezdés a) pontja és (6) bekezdése], a különösen nagy vagy különösen jelentős vagyoni hátrányt okozó, bűnszervezetben elkövetett hűtlen kezelés [376. § (5) bekezdés a) pontja és (6) bekezdése],
+- m) az információs rendszer felhasználásával elkövetett csalás [375. § (1)–(5) bekezdés],
+- n) a pénzhamisítás [389. § (1)–(3)], a pénzhamisítás elősegítése (390. §), a készpénz-helyettesítő fizetési eszköz hamisítása [392. § (1)–(2) bekezdés], a készpénz-helyettesítő fizetési eszközzel visszaélés [393. § (1)–(2) bekezdés], a készpénz-helyettesítő fizetési eszköz hamisításának elősegítése (394. §),
+- o) a bűnszervezetben elkövetett, különösen nagy vagy különösen jelentős vagyoni hátrányt okozó költségvetési csalás [396. § (4)–(5) bekezdés],
+- p) a pénzmosás (399. §),
+- q) a bűnszövetségben vagy üzletszerűen elkövetett tiltott adatszerzés [422. § (4) bekezdés b) és c) pont], az információs rendszer védelmét biztosító technikai intézkedés kijátszása [424. § (1) bekezdés]
+
+elkövetője a büntetőeljárás megindítását megelőző öt évben szerzett, ha a vagyon, illetve az elkövető életvitele az igazolható jövedelmi viszonyaihoz, személyi körülményeihez képest különösen aránytalan.
+
+(3) Nem rendelhető el vagyonelkobzás az (1) és (2) bekezdés esetében, ha az elkövető bizonyítja, hogy a vagyon nem bűncselekményből származik.
 
 75. § (1) A vagyonelkobzást pénzösszegben kifejezve kell elrendelni,
 
-- a) ha a vagyon már nem lelhető fel,
-- b) ha a 74. § (1) bekezdése alapján vagyonelkobzás alá eső vagyon az egyéb vagyontól nem különíthető el, vagy az elkülönítése aránytalan nehézséget okozna,
+- a) ha a vagyonelkobzás alá eső vagyon már nem lelhető fel,
+- b) ha a vagyonelkobzás alá eső vagyon az egyéb vagyontól nem különíthető el, vagy az elkülönítése aránytalan nehézséget okozna,
 - c) a 74. § (5) bekezdés b) pontjában meghatározott esetben.
 
 (2) A vagyonelkobzást akkor is el kell rendelni, ha
@@ -3245,6 +3271,13 @@ vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
 (2) Aki abból a célból, hogy az ellene folytatott büntetőeljárás alól kivonja magát, a lakhelyelhagyási tilalom tartama alatt a számára kijelölt területet, körzetet vagy a házi őrizet tartama alatt a kijelölt lakást és az ahhoz tartozó bekerített helyet a kényszerintézkedés szabályainak megszegésével elhagyja, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
+(2a) A (2) bekezdés szerint büntetendő, aki abból a célból, hogy az ellene folytatott kiadatási vagy átadási eljárás alól kivonja magát,
+
+- a) az ideiglenes kiadatási lakhelyelhagyási tilalom, illetve az ideiglenes átadási lakhelyelhagyási tilalom tartama alatt a számára kijelölt területet, körzetet, vagy
+- b) az ideiglenes kiadatási házi őrizet, illetve az ideiglenes átadási házi őrizet tartama alatt a számára kijelölt lakást és az ahhoz tartozó bekerített helyet
+
+a kényszerintézkedés szabályainak megszegésével elhagyja.
+
 (3) A büntetés egy évig terjedő szabadságvesztés, ha az elítélt a szabadságvesztés végrehajtása során a részére engedélyezett büntetés félbeszakítás, eltávozás, rövid tartamú eltávozás vagy kimaradás tartamának elteltével abból a célból nem tér vissza, hogy a büntetés végrehajtása alól kivonja magát.
 
 (3a) A büntetés egy évig terjedő szabadságvesztés, ha az elítélt a reintegrációs őrizet tartama alatt a számára kijelölt lakást és az ahhoz tartozó bekerített helyet vagy a számára meghatározott napirend szerinti tartózkodási helyet a reintegrációs őrizet szabályainak megszegésével abból a célból hagyja el, hogy a szabadságvesztés végrehajtása alól kivonja magát.
@@ -3899,10 +3932,10 @@ követik el.
 332. § Aki nagy nyilvánosság előtt
 
 - a) a magyar nemzet ellen,
-- b) valamely nemzeti, etnikai, faji, vallási csoport ellen, vagy
-- c) a lakosság egyes csoportjai ellen – különösen fogyatékosságra, nemi identitásra, szexuális irányultságra tekintettel –
+- b) valamely nemzeti, etnikai, faji, vallási csoport, illetve annak tagja ellen, vagy
+- c) a lakosság egyes csoportjai, illetve azok tagjai ellen – különösen fogyatékosságra, nemi identitásra, szexuális irányultságra tekintettel –
 
-gyűlöletre uszít, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
+erőszakra vagy gyűlöletre uszít, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
 ### A nemzetiszocialista vagy kommunista rendszerek bűneinek nyilvános tagadása
 
@@ -5200,22 +5233,46 @@ bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
 ### Bennfentes kereskedelem
 
-410. § Aki
+410. § (1) Aki
 
-- a) bennfentes információ felhasználásával pénzügyi eszközre vonatkozó ügyletet köt,
-- b) a birtokában lévő bennfentes információra tekintettel mást azzal bíz meg, hogy a bennfentes információval érintett pénzügyi eszközre vonatkozó ügyletet kössön, vagy
-- c) előnyszerzés végett bennfentes információt illetéktelen személynek átad,
+- a) bennfentes információ felhasználásával saját vagy más nevében a bennfentes információval érintett pénzügyi eszközre vonatkozó ügyletet köt, ügyletkötésre megbízást ad, megbízást visszavon vagy módosít, ajánlatot rögzít, visszavon vagy módosít,
+- b) a birtokában lévő bennfentes információra tekintettel mást vagy másokat a bennfentes információval érintett pénzügyi eszközre vonatkozó ügylet kötésére, ügyletkötésre vonatkozó megbízás adására, visszavonására vagy módosítására, ajánlat rögzítésére, visszavonására vagy módosítására hív fel, vagy bír rá,
 
 bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
-### Tőkebefektetési csalás
+(2) A büntetés öt évig terjedő szabadságvesztés, ha
 
-411. § Aki
+- a) a bűncselekményt hivatalos személyként követik el,
+- b) a bűncselekményt pénzügyi intézmény, befektetési vállalkozás, árutőzsdei szolgáltató, befektetési alapkezelő, kockázati tőkealap-kezelő, tőzsdei, központi értéktári vagy központi szerződő fél tevékenységet végző szervezet, biztosító, viszontbiztosító vagy független biztosításközvetítő, önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár, foglalkoztatói nyugdíjszolgáltató intézmény, vagy szabályozott ingatlanbefektetési társaság tisztségviselőjeként vagy alkalmazottjaként követik el,
+- c) a bűncselekménnyel érintett ügylet vagy ügyletek, megbízás vagy megbízások, ajánlat vagy ajánlatok abszolút értéke különösen nagy vagy ezt meghaladó értékű.
 
-- a) a gazdálkodó szervezet vagyoni helyzetéről vagy vezető állású személyéről e tevékenységével összefüggésben, illetve a gazdálkodó szervezetre vonatkozóan pénzügyi eszközről valótlan adat közlésével vagy híresztelésével, illetve adat elhallgatásával vagy
-- b) pénzügyi eszközre vonatkozó színlelt ügylet kötésével
+### Bennfentes információ jogosulatlan közzététele
 
-másokat tőkebefektetésre vagy a befektetés emelésére, illetve tőkebefektetés eladására vagy a befektetés csökkentésére rábír, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
+410/A. § Aki azért, hogy jogtalan előnyt szerezzen vagy jogtalan hátrányt okozzon, bennfentes információt illetéktelen személynek vagy személyeknek átad, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+
+### Tiltott piacbefolyásolás
+
+411. § (1) Aki
+
+- a) olyan ügyletet köt, megbízást ad, visszavon vagy módosít, saját számlás kereskedés során ajánlatot rögzít, visszavon vagy módosít, amely az adott pénzügyi eszköz vagy kapcsolódó azonnali árutőzsdei ügylet keresleti vagy kínálati viszonyairól, árfolyamáról vagy áráról hamis vagy félrevezető jelzéseket ad, azt mesterséges vagy rendellenes szinten rögzíti,
+- b) pénzügyi eszközre vonatkozó színlelt ügylet kötésével vagy más megtévesztő magatartással a pénzügyi eszköz vagy kapcsolódó azonnali árutőzsdei ügylet árfolyamát vagy árát befolyásolni törekszik,
+- c) a referenciaérték kiszámítását hamis vagy félrevezető információ közlésével vagy továbbításával, vagy megtévesztő módszer alkalmazásával befolyásolni törekszik,
+
+bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
+
+(2) Az (1) bekezdés szerint büntetendő, aki haszonszerzés céljából nagy nyilvánosság előtt olyan információt közöl vagy híresztel, amely az adott pénzügyi eszköz vagy kapcsolódó azonnali árutőzsdei ügylet keresleti vagy kínálati viszonyairól, árfolyamáról vagy áráról hamis vagy félrevezető jelzéseket ad, azt mesterséges vagy rendellenes szinten rögzíti.
+
+(3) Az (1) bekezdés szerint büntetendő az is, aki a gazdálkodó szervezet vagyoni helyzetéről vagy vezető állású személyéről e tevékenységével összefüggésben, illetve a gazdálkodó szervezetre vonatkozóan pénzügyi eszközről valótlan adat közlésével vagy híresztelésével, illetve adat elhallgatásával másokat tőkebefektetésre vagy a befektetés emelésére, illetve tőkebefektetés eladására vagy a befektetés csökkentésére rábír.
+
+(4) Aki az (1) bekezdésben meghatározott bűncselekményt
+
+- a) bűnszövetségben,
+- b) hivatalos személyként,
+- c) pénzügyi intézmény, befektetési vállalkozás, árutőzsdei szolgáltató, befektetési alapkezelő, kockázati tőkealap-kezelő, tőzsdei, központi értéktári vagy központi szerződő fél tevékenységet végző szervezet, biztosító, viszontbiztosító vagy független biztosításközvetítő, önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár, foglalkoztatói nyugdíjszolgáltató intézmény, vagy szabályozott ingatlanbefektetési társaság tisztségviselőjeként vagy alkalmazottjaként
+
+követi el, öt évig terjedő szabadságvesztéssel büntetendő.
+
+(5) Az (1)–(4) bekezdés alkalmazandó a piaci visszaélésekről, valamint a 2003/6/EK európai parlamenti és tanácsi irányelv és a 2003/124/EK, a 2003/125/EK és a 2004/72/EK bizottsági irányelv hatályon kívül helyezéséről szóló 2014. április 16-i 596/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 596/2014/EU rendelet) 2. cikk (2) bekezdés a) és b) pontjában meghatározott ügyletekre és eszközökre is, ha az ügylet, a megbízás, az ajánlat vagy a magatartás a pénzügyi eszköz vagy az azonnali árutőzsdei ügylet árára, árfolyamára vagy értékére hatást gyakorol.
 
 ### Piramisjáték szervezése
 
@@ -5232,13 +5289,11 @@ másokat tőkebefektetésre vagy a befektetés emelésére, illetve tőkebefekte
 
 ### Értelmező rendelkezések
 
-414. § (1) A 410. és a 411. § alkalmazásában pénzügyi eszközön
+414. § (1) A 410–411. § alkalmazásában pénzügyi eszközön a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvényben meghatározott pénzügyi eszközt kell érteni, feltéve, hogy az megfelel az 596/2014/EU rendelet 2. cikk (1) bekezdésében foglaltaknak, ide nem értve
 
-- a) a pénzügyi eszközt, az egyéb tőzsdei terméket és bármilyen más eszközt, amelynek a forgalmazását az Európai Unió valamely tagállama szabályozott piacán engedélyezték, vagy amelyre vonatkozóan az ilyen piacon történő forgalmazásra engedélyezés iránti kérelmet nyújtottak be,
-- b) azt a pénzügyi eszközt, amely nincs jelen szabályozott piacon, de értéke valamely, az a) pontban felsorolt pénzügyi eszköz értékétől vagy árfolyamától függ,
-- c) a rendszeres vagy rendkívüli tájékoztatási kötelezettség megszűnéséig a nyilvánosan forgalomba hozott értékpapírt
-
-is érteni kell.
+- a) az 596/2014/EU rendelet 5. cikk (1)–(3) bekezdésében meghatározott eseteket;
+- b) az 596/2014/EU rendelet 5. cikk (4) és (5) bekezdésében meghatározott eseteket;
+- c) az 596/2014/EU rendelet 6. cikk (1)–(4) bekezdésében meghatározott eseteket.
 
 (2) A 409. és a 411. § alkalmazásában vezető állású személy:
 
@@ -5991,6 +6046,8 @@ követik el.
 - g) 389. §-a az euró bevezetésével kapcsolatos pénzhamisítás elleni, büntetőjogi és egyéb szankciókkal megvalósuló védelem megerősítésről szóló, 2000. május 29-i 2000/383/IB tanácsi kerethatározat 3–6. cikkének,
 - h) 392–394. §-a a nem készpénzes fizetőeszközökkel összefüggő csalás és hamisítás elleni küzdelemről szóló, 2001. május 28-i 2001/413/IB tanácsi kerethatározat 2., 4. és 6. cikkének,
 - i) 399–400. §-a a pénzügyi rendszereknek a pénzmosás, valamint terrorizmus finanszírozása céljára való felhasználásának megelőzéséről szóló, 2005. október 26-i 2005/60/EK európai parlamenti és tanácsi irányelvnek
+- j) 410–411. §-a és 414. §-a a piaci visszaélések büntetőjogi szankcióiról (piaci visszaélésekről) szóló 2014. április 16-i 2014/57/EU európai parlamenti és tanácsi irányelvnek,
+- k) 72–76. §-a a bűncselekmény elkövetési eszközeinek és az abból származó jövedelemnek az Európai Unión belüli befagyasztásáról és elkobzásáról szóló 2014. április 3-i 2014/42/EU európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
