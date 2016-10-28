@@ -170,7 +170,7 @@ a büntetőeljárásról
 - s) a különösen jelentős vagyoni hátrányt okozó szerzői vagy szerzői joghoz kapcsolódó jogok megsértése [Btk. 385. § (4) bekezdés c) pont], a különösen jelentős vagyoni hátrányt okozó iparjogvédelmi jogok megsértése [Btk. 388. § (3) bekezdés c) pont];
 - t) a különösen nagy vagy a különösen jelentős vagyoni hátrányt okozó költségvetési csalás [Btk. 396. § (4) bekezdés a) pont és (5) bekezdés] és az ezzel összefüggésben elkövetett költségvetési csaláshoz kapcsolódó felügyeleti vagy ellenőrzési kötelezettség elmulasztása (Btk. 397. §);
 - u) a pénzmosás (Btk. 399. §);
-- v) a bennfentes kereskedelem (Btk. 410. §), a tőkebefektetési csalás (Btk. 411. §) és a piramisjáték szervezése (Btk. 412. §);
+- v) a bennfentes kereskedelem (Btk. 410. §), a bennfentes információ jogosulatlan közzététele (Btk. 410/A. §), a tiltott piacbefolyásolás (Btk. 411. §) és a piramisjáték szervezése (Btk. 412. §);
 - w) a katonai büntetőeljárás hatálya alá tartozó bűncselekmények;
 - x) az emberiesség elleni bűncselekmények büntetendőségéről és elévülésének kizárásáról, valamint a kommunista diktatúrában elkövetett egyes bűncselekmények üldözéséről szóló törvényben meghatározott kommunista bűncselekmények, valamint a nemzetközi jog szerint el nem évülő bűncselekmények.
 
@@ -2117,6 +2117,14 @@ ruházott át, úgyszintén arra a dologra, vagyoni értékű jogra, követelés
 
 (4) A zár alá vételt a vádirat benyújtásáig az ügyész is feloldhatja.
 
+160/A. § (1) Az elkobzás és a vagyonelkobzás érdekében lefoglalt dolog vagy a zár alá vett vagyon (a továbbiakban: bűnügyi vagyon) kezeléséről a lefoglalás, illetve a zár alá vétel során a rendes gazdálkodás szabályai szerint kell gondoskodni.
+
+(2) A lefoglalás és a zár alá vétel során gondoskodni kell arról, hogy a bűnügyi vagyon értéke a természetes mértéknél nagyobb arányban ne csökkenjen.
+
+(3) A bűnügyi vagyon kezelése során csak olyan rendelkezés tehető, amelynek célja a vagyon értékének a megőrzése.
+
+(4) A vagyonkezelés során tett intézkedés alapján átalakuló vagyontárgy az eredeti vagyontárgy helyébe lép, arra a lefoglalás és a zár alá vétel külön határozat nélkül kiterjed.
+
 ### X. CÍM — AZ ELJÁRÁS RENDJÉNEK BIZTOSÍTÁSA
 
 ### A rendbírság
@@ -2470,11 +2478,13 @@ indult eljárás során lehetővé kell tenni, hogy a nyomozási cselekményen a
 
 (9) Azoknál a nyomozási cselekményeknél, amelyeknél a sértett jelenléte kötelező, vagy amelyeknél jelen lehet, a sértett mellett képviselője, támogatója és – ha ez az eljárás érdekeit nem sérti – egy általa megjelölt nagykorú személy is jelen lehet. A sértett tanúkénti kihallgatásánál a 85. § (4) bekezdésében, illetve a 86. § (3) bekezdésében meghatározott személyek mellett – ha ez az eljárás érdekeit nem sérti – a sértett által megjelölt nagykorú személy is jelen lehet.
 
-185. § (1) A gyanúsított, a védő és a sértett jelen lehet a szakértő meghallgatásánál, a szemlénél, a bizonyítási kísérletnél és a felismerésre bemutatásnál, továbbá indítványt terjeszthet elő, észrevételt tehet, valamint a szakértőhöz kérdéseket intézhet. A felsoroltaknak a nyomozási cselekményről való értesítése kivételesen mellőzhető, ha ezt a nyomozási cselekmény sürgőssége indokolja. Az értesítést mellőzni kell, ha ennek következtében a tanú zártan kezelt adatai a gyanúsított, a védő és a sértett előtt ismertté válnának.
+185. § (1) A gyanúsított, a védő és a sértett jelen lehet a szakértő meghallgatásánál, a szemlénél, a bizonyítási kísérletnél és a felismerésre bemutatásnál, továbbá indítványt terjeszthet elő, észrevételt tehet, valamint a szakértőhöz kérdéseket intézhet. A felsoroltaknak a nyomozási cselekményről való értesítése kivételesen mellőzhető, ha ezt a nyomozási cselekmény sürgőssége indokolja. Az értesítést mellőzni kell, ha az eljárásban részt vevő személy védelme más módon nem biztosítható.
 
 (2) A gyanúsított a szemlére és a bizonyítási kísérletre idézhető, ebben az esetben a nyomozási cselekmény a gyanúsított távollétében nem tartható meg.
 
-(3) Az ügyész és a nyomozó hatóság a nyomozási cselekmény helyszínéről eltávolíthatja azt, akinek a jelenléte az eljárást akadályozza, a nyomozás elősegítése érdekében bárkit a nyomozási cselekmény helyszínén való tartózkodásra kötelezhet. Aki az eljárás rendjét zavarja, vagy a helyszínen tartózkodási kötelezettségének nem tesz eleget, rendbírsággal sújtható.
+(3) Az ügyész és a nyomozó hatóság a nyomozási cselekmény helyszínéről eltávolíthatja azt, akinek a jelenléte az eljárást akadályozza, aki a nyomozási cselekményen nem lehet jelen, vagy akinek az értesítését az (1) bekezdés alapján mellőzni kell. Az ügyész és a nyomozó hatóság a nyomozás elősegítése érdekében bárkit a nyomozási cselekmény helyszínén való tartózkodásra kötelezhet. Aki az eljárás rendjét zavarja, vagy a helyszínen tartózkodási kötelezettségének nem tesz eleget, rendbírsággal sújtható.
+
+(4) Az (1) bekezdésben meghatározott esetben az ügyész vagy a nyomozó hatóság a gyanúsítottat és védőjét az értesítés mellőzéséről utólag tájékoztatja. Ha a gyanúsított vagy a védő a tájékoztatástól számított három napon belül indítványozza, az ügyész vagy a nyomozó hatóság az értesítés mellőzését utólag határozatba foglalja, és azt közli az indítvány előterjesztőjével.
 
 186. § (1) Aki a nyomozási cselekményen jelen lehet, az arról készült jegyzőkönyvet nyomban megtekintheti.
 
@@ -2614,7 +2624,13 @@ indult eljárás során lehetővé kell tenni, hogy a nyomozási cselekményen a
 
 (5) A panasz elbírálásáról a panaszt tevőt – a határozat hatályon kívül helyezése, illetőleg a megváltoztatása esetén azokat is, akikkel a határozatot közölték – értesíteni kell. A panaszt elbíráló határozat ellen további jogorvoslatnak – a (6) bekezdés eseteit kivéve – nincs helye.
 
-(6) A 70/B. § (8) bekezdése, a 149. § (3) bekezdése, a 150. § (2) bekezdése, a 151. § (4) bekezdése, valamint a 153. § (2) bekezdése szerinti határozat, továbbá a 151. § (2) bekezdése és a 155. § (1) bekezdése szerinti ügyészi határozat elleni panaszt elutasító határozat ellen a kézbesítéstől számított nyolc napon belül a határozatot hozó ügyészségnél felülbírálati indítvány terjeszthető elő, az ügyészség a felülbírálati indítványt az iratokkal és indítványával együtt három napon belül megküldi a bíróságnak.
+(6) A panaszt elbíráló ügyészségnél a kézbesítéstől számított nyolc napon belül felülbírálati indítvány terjeszthető elő
+
+- a) a 70/B. § (8) bekezdése, a 149. § (3) bekezdése és a 150. § (2) bekezdése szerinti határozat elleni panaszt elutasító határozat ellen,
+- b) a gyanúsított vagy a védő által a 185. § (3) bekezdés alapján a nyomozási cselekményről történő eltávolítás elrendelése elleni panaszt elbíráló, illetve a 185. § (4) bekezdés szerinti értesítést mellőző határozat elleni panaszt elutasító határozat ellen, valamint
+- c) a 151. § (2) és (4) bekezdése, a 153. § (2) bekezdése és a 155. § (1) bekezdése szerinti ügyészi határozat elleni panaszt elutasító határozat ellen,
+
+amelyet az ügyészség az iratokkal és indítványával együtt három napon belül megküld a bíróságnak.
 
 (6a) Az őrizetbe vételt elrendelő határozat ellen tett panasz elbírását mellőzni kell, ha az ügyész a terhelt előzetes letartóztatásának elrendelésére indítványt tesz a bíróságnak.
 
@@ -6867,3 +6883,7 @@ az idézésekre, értesítésekre, határozatokra, jegyzőkönyvekre és az elj�
 (6) E törvény a büntetőeljárás során a tájékoztatáshoz való jogról szóló, 2012. május 22-i 2012/13/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 (7) E törvény a bűncselekmények áldozatainak jogaira, támogatására és védelmére vonatkozó minimumszabályok megállapításáról és a 2001/220/IB tanácsi kerethatározat felváltásáról szóló, 2012. október 25-i 2012/29/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+(8) E törvény a büntetőeljárás során és az európai elfogatóparancshoz kapcsolódó eljárásokban ügyvédi segítség igénybevételéhez való jogról, valamint valamely harmadik félnek a szabadságelvonáskor történő tájékoztatásához való jogról és a szabadságelvonás ideje alatt harmadik felekkel és a konzuli hatóságokkal való kommunikációhoz való jogról szóló 2013. október 22-i 2013/48/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+(9) E törvény a bűncselekmény elkövetési eszközeinek és az abból származó jövedelemnek az Európai Unión belüli befagyasztásáról és elkobzásáról szóló 2014. április 3-i 2014/42/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.

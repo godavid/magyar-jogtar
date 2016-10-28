@@ -96,6 +96,8 @@ az Európai Unió tagállamaival folytatott bűnügyi együttműködésről
 - i) a bűncselekmény elkövetési helye és ideje, a keresett személy részvételének módja a bűncselekményben,
 - j) a jogerősen kiszabott szabadságvesztés tartama, illetve a bűncselekmény miatt kiszabható szabadságvesztés tartamának felső határa.
 
+(4) A foganatosító szerv tájékoztatja a terheltet, hogy jogában áll az európai elfogatóparancsot kibocsátó tagállamban – annak szabályai szerint – ügyvédet megbízni, és ennek érdekében a kibocsátó tagállam illetékes hatóságától segítséget kérni. A terheltet tájékoztatni kell arról is, hogy a kibocsátó tagállamban megbízott ügyvédnek lehetősége van kapcsolatba lépni a terhelt védőjével, és ennek során információk rendelkezésre bocsátásával segítséget nyújtani a terhelt eljárási jogainak gyakorlásában. A foganatosító szerv a terheltnek a kibocsátó tagállambeli ügyvéd megbízásával kapcsolatos figyelmeztetését és nyilatkozatát jegyzőkönyvben rögzíti. Ha a terhelt a kibocsátó tagállamban ügyvédet kíván megbízni, a foganatosító szerv a terhelt nyilatkozatáról a miniszter útján haladéktalanul tájékoztatja a kibocsátó tagállami hatóságot.
+
 #### 5. Tárgyalás
 
 11. § (1) A Fővárosi Törvényszék tárgyalást tart, amelyen
@@ -239,7 +241,9 @@ az Európai Unió tagállamaival folytatott bűnügyi együttműködésről
 
 (8) Az európai elfogatóparancsot haladéktalanul vissza kell vonni, ha a kibocsátásának oka megszűnt. Az európai elfogatóparancs folyamatban lévő büntetőeljárás esetén az eljárás jogerős befejezéséig – a terhelt Magyarországon történő elfogásának vagy a terhelt halálának esetét kivéve – nem vonható vissza. Az európai elfogatóparancs visszavonásáról szóló végzést a kibocsátó bíróság haladéktalanul megküldi a terhelt bejelentett lakóhelye, ennek hiányában bejelentett tartózkodási helye – ha a terhelt egyikkel sem rendelkezik, a kibocsátó bíróság székhelye – szerint illetékes rendőrkapitányságnak és a NEBEK-nek.
 
-26. § Az európai elfogatóparancsot a bíróság a terhelt elfogásáról szóló értesítés kézhezvételét követően haladéktalanul a miniszternek küldi meg továbbítás céljából.
+26. § (1) Az európai elfogatóparancsot a bíróság a terhelt elfogásáról szóló értesítés kézhezvételét követően haladéktalanul a miniszternek küldi meg továbbítás céljából.
+
+(2) Az a bíróság, ügyészség vagy nyomozó hatóság, amely előtt az eljárás folyamatban van, a terhelt elfogásáról szóló értesítés kézhezvételét követően haladéktalanul védőt rendel ki, ha a terheltnek nincs védője, és ezzel egyidejűleg erről a minisztert értesíti. A miniszter a terhelt tájékoztatása érdekében a védő személyéről és elérhetőségéről értesíti a végrehajtó tagállam illetékes hatóságát.
 
 #### 14. Eljárás halmazati és összbüntetés esetén
 
@@ -695,7 +699,7 @@ belül teljesíti.
 
 (3) Az (1) bekezdés b)–f) pontjaiban meghatározott megtagadási okok fennállása esetén a nyomozási bíró a megtagadó határozat meghozatala előtt egyeztet a tagállami hatósággal, és azt felkérheti a döntéséhez szükséges tájékoztatás megadására.
 
-(4) A felügyeleti intézkedést elrendelő tagállami határozat elismerésének és végrehajtásának megtagadásáról a nyomozási bíró indokolt határozatot hoz, amelyet a tagállami hatóság részére haladéktalanul megküld. A határozat ellen jogorvoslatnak helye nincs.
+(4)
 
 78. § (1) A nyomozási bíró az elismerő határozatában a tagállami határozatban elrendelt felügyeleti intézkedésnek a magyar jog szerint leginkább megfelelő felügyeleti intézkedést állapítja meg alkalmazandó felügyeleti intézkedésként, azonban az nem lehet szigorúbb a tagállami határozatban elrendelt felügyeleti intézkedésnél.
 
@@ -1226,11 +1230,11 @@ határoz meg, rendel el, illetve szab ki.
 
 (3) A bíróság az alternatív szankciót kiszabó tagállami határozat elismerését és végrehajtását nem tagadhatja meg az adókkal és az illetékekkel, a vámokkal és a devizával kapcsolatos bűncselekmények esetén amiatt, hogy a magyar jog nem ismer ugyanolyan adót, illetéket, valamint vámmal, illetve adóval, illetékkel azonos hatású díjat, vagy nem tartalmaz ugyanolyan típusú szabályokat az adó-, illeték-, valamint vám- és devizaszabályozás terén, mint a kibocsátó tagállam joga.
 
-(4) Az alternatív szankciót kiszabó tagállami határozat elismerésének és végrehajtásának megtagadásáról a bíróság indokolt határozatot hoz, amelyet a tagállami hatóság részére haladéktalanul megküld. A határozat meghozatala előtt – ha az szükséges – a bíróság egyeztet a tagállami hatósággal. A határozat ellen jogorvoslatnak helye nincs.
+(4)
 
 (5) A bíróság haladéktalanul tájékoztatja a tagállami hatóságot, ha az alternatív szankciót kiszabó tagállami határozat végrehajtásának megkezdése akadályba ütközik, különösen, ha az elítélt Magyarország területén lakóhellyel vagy tartózkodási hellyel már nem rendelkezik.
 
-140. § (1) A bíróság az alternatív szankciót kiszabó tagállami határozat elismeréséről és végrehajtásáról hozott határozatát megküldi a tagállami hatóságnak.
+140. § (1)
 
 (2) A bíróság a határozatában az 137. § (2) bekezdése szerint állapítja meg az adott bűncselekményre alkalmazandó magatartási szabályt vagy alternatív szankciót, és ennek megfelelően rendelkezik ennek végrehajtásáról úgy, hogy az a lehető legnagyobb mértékben megfeleljen annak a magatartási szabálynak vagy alternatív szankciónak, amelyet a tagállami határozat tartalmaz.
 
@@ -1287,7 +1291,7 @@ a bíróság az ilyen felfüggesztett szabadságvesztést, próbára bocsátást
   - ae) az elítélt meghatározott helyen és időközönként, meghatározott szervnél vagy személynél jelentkezzék;
   - af) az elítélt meghatározott tanulmányokat folytasson;
   - ag) az elítélt – hozzájárulása esetén – meghatározott gyógykezelésnek vagy gyógyító eljárásnak vesse alá magát;
-  - ah) az elítélt, ha munkaképes – a lehetőségekhez képest – álljon munkaviszonyban, vagy egyéb kereső foglalkozást folytasson;
+  - ah)
   - ai) az elítélt a munkahelyének és a lakóhelyének megváltoztatására irányuló szándékát a pártfogó felügyelőnek előzetesen jelentse be;
   - aj) az elítélt a pártfogó felügyelővel rendszeres kapcsolatot tartson;
   - ak) az elítélt a bűncselekménnyel okozott kárt térítse meg,
@@ -1908,6 +1912,7 @@ a bíróság vagy az ügyész az európai védelmi határozatot megfelelően mó
 - 20. a joghatóság gyakorlásával kapcsolatos, büntetőeljárások során felmerülő összeütközések megelőzéséről és rendezéséről szóló, 2009. november 30-i 2009/948/IB tanácsi kerethatározatnak,
 - 21. az európai védelmi határozatról szóló, 2011. december 13-i 2011/99/EU európai parlamenti és tanácsi irányelvnek,
 - 22. a bűncselekmények áldozatainak jogaira, támogatására és védelmére vonatkozó minimumszabályok megállapításáról és a 2001/220/IB tanácsi kerethatározat felváltásáról szóló, 2012. október 25-i 2012/29/EU európai parlamenti és tanácsi irányelvnek
+- 23. a büntetőeljárás során és az európai elfogatóparancshoz kapcsolódó eljárásokban ügyvédi segítség igénybevételéhez való jogról, valamint valamely harmadik félnek a szabadságelvonáskor történő tájékoztatásához való jogról és a szabadságelvonás ideje alatt harmadik felekkel és a konzuli hatóságokkal való kommunikációhoz való jogról szóló 2013. október 22-i 2013/48/EU európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
