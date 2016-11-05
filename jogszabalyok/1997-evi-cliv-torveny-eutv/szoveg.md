@@ -74,8 +74,8 @@ céljából, és amely rendeltetésszerű hatását az emberi szervezetben vagy 
   - wa) költségvetési szerv egészségügyi szolgáltató esetén az alapító okiratban irányító szervként megjelölt állami szerv, helyi önkormányzat vagy önkormányzati társulás,
   - wb) egyházi jogi személy vagy vallási tevékenységet végző szervezet által fenntartott egészségügyi szolgáltató esetében az egészségügyi szolgáltató alapító okiratában fenntartóként megjelölt ilyen jogalany,
   - wc) alapítványi, közalapítványi egészségügyi szolgáltató esetén az alapítvány, közalapítvány,
-  - wd) egészségügyi felsőoktatási intézmény egészségügyi szolgáltatója esetén az egészségügyi felsőoktatási intézmény,
-  - we) más szervezet esetén a tulajdonosi jogokat gyakorló szervezet.
+  - wd) a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) 97. § (1) bekezdés a), b) és c) pontja szerinti esetben az egészségügyi felsőoktatási intézmény,
+  - we) más szervezet esetén a tulajdonosi jogokat gyakorló szervezet;
 - x) EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez;
 - y) egészségügyi tevékenység: az egészségügyi szolgáltatás részét képező minden tevékenység, kivéve azon tevékenységeket, amelyek végzéséhez nem szükséges
   - ya) egészségügyi szakképesítés vagy
@@ -2457,7 +2457,7 @@ költségének fedezetét.
 - c) a költségvetési irányítás tekintetében az intézmények éves költségvetési keretszámainak megállapítása és költségvetésének jóváhagyása, valamint az államháztartási törvény és végrehajtási rendelete szerint az irányító szerv jogkörébe tartozó és a középirányító szerv részére át nem adott intézkedések megtétele,
 - d) az intézmény vezetője, gazdasági igazgatója tekintetében a munkáltatói jogok gyakorlása közül a kinevezés vagy megbízás és felmentés vagy a megbízás visszavonása, illetve – költségvetési szerv esetében, ha a vezetővel a Munka Törvénykönyve vezető állású munkavállalóra vonatkozó rendelkezései alkalmazásával munkaviszonyt kell létesíteni – a munkaviszony létesítése és megszüntetése.
 
-(5) Az állami egészségügyi felsőoktatási intézmény egészségügyi szolgáltatója tekintetében – az (1) bekezdésben foglaltaktól eltérően – az alábbi eljárások vonatkozásában az egészségügyért felelős miniszter jár el – a fenntartó javaslatának és véleményének figyelembevételével – a fenntartói jogkör gyakorlójaként:
+(5) Az állami egészségügyi felsőoktatási intézmény által működtetett klinikai központ és egyetemi kórház tekintetében – az (1) bekezdésben foglaltaktól eltérően – az alábbi eljárások vonatkozásában az egészségügyért felelős miniszter jár el – az állami egészségügyi felsőoktatási intézmény javaslatának és véleményének figyelembevételével – a fenntartói jogkör gyakorlójaként:
 
 - a) az egészségügyi szolgáltató szakmai felügyelete,
 - b) az egészségügyi szolgáltató által kötendő egészségügyi ellátási szerződés jóváhagyása,
