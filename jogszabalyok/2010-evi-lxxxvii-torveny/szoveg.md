@@ -421,7 +421,7 @@ követő napon.
 
 27. § Az NFA a székhelyén, az internetes honlapján és a területi szervezeti egységeinél, a miniszter által vezetett minisztérium hivatalos lapjában, és honlapján, valamint az önkormányzat polgármesteri hivatalánál történő kifüggesztés útján rendszeresen közzéteszi a Nemzeti Földalapba tartozó értékesítésre vagy haszonbérbeadásra szánt földrészletek jegyzékét.
 
-28. § A Nemzeti Földalapba tartozó földrészletek hasznosításából származó bevételeket földvásárlásra, valamint a 15. §-ban foglaltak megvalósítására kell fordítani.
+28. § A Nemzeti Földalapba tartozó földrészletek hasznosításából származó bevételeket földvásárlásra, a 15. §-ban foglaltak megvalósítására vagy az államadósság csökkentésére kell fordítani.
 
 29. § Ha az NFA-át terhelő kártérítési, megtérítési, kártalanítási kötelezettség vagy a rábízott vagyon hasznosításával összefüggő egyéb szerződéses kötelezettség teljesítésére a tárgyévi bevétele vagy kiadási előirányzata nem nyújt fedezetet, a kötelezettség teljesítéséért az állam helytállni köteles.
 
@@ -525,7 +525,9 @@ követő napon.
 
 37. § Az állami földvagyon kezelésével összefüggő egyes törvények módosításáról szóló 2015. évi CCIV. törvény (a továbbiakban: Mód2tv.) hatálybalépése előtt megkötött és a Mód2tv. hatálybalépésekor fennálló, a Nemzeti Földalapba tartozó földre vonatkozó haszonbérleti szerződésnek hatályát veszti az a szerződési kikötése, amely szerint az állam nevében eljáró szerv a haszonbérlő javára előhaszonbérleti jogot alapít.
 
-38. §
+38. § (1) A „Földet a gazdáknak!” Programról szóló 2016. évi CVI. törvény (a továbbiakban: FAGtv.) hatályba lépését követően a jogszabályon alapuló, továbbá az ingatlanra közérdekből jogszabályban feljogosított szervek javára alapított használati jog, vezetékjog vagy ugyanezen okokból alapított szolgalom, valamint a helyi önkormányzat javára alapított vezetékjog kivételével a Nemzeti Földalapba tartozó földrészlet nem terhelhető meg, biztosítékul nem adható, azon – 100%-os állami tulajdonban álló gazdálkodó szervezet kivételével – harmadik személy javára osztott tulajdon nem létesíthető.
+
+(2) A FAGtv. hatályba lépésekor folyamatban lévő értékesítési eljárások során az (1) bekezdésben foglaltakat nem kell alkalmazni.
 
 39. § E törvénynek a nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházások megvalósításának gyorsításával összefüggésben egyes törvények módosításáról szóló 2015. évi LXXIX. törvénnyel (a továbbiakban: Módtv1.) megállapított rendelkezéseit a nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházással érintett földterületre a Módtv1. hatálybalépését megelőzően kötött, földrészlet hasznosítására irányuló jogviszonyokra is alkalmazni kell, ha a 31/A. § (1) bekezdése szerinti értesítésre a Módtv1. hatálybalépését követően kerül sor.
 

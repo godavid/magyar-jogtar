@@ -196,7 +196,7 @@ a megyei könyvtárak és a megyei hatókörű városi múzeumok feladatának el
 | 144 | Zala | Zalaegerszeg | Zalaegerszeg | 3618 | 1/1 |
 | 145 | Zala | Zalaegerszeg | Zalaegerszeg | 3622 | 1/1 |
 | 146 | Zala | Zalaegerszeg | Zalaegerszeg | 0548/1 | 1/1 |
-| 147 | Zala | Zalaegerszeg | Zalaegerszeg | 217/6 | 1/1 |
+| 147 |  |  |  |  |  |
 | 148 | Zala | Zalaegerszeg | Zalaegerszeg | 2980/A/7 | 1/1 |
 | 149 | Zala | Zalaegerszeg | Zalaegerszeg | 2980/A/8 | 1/1 |
 | 150 | Zala | Zalaegerszeg | Zalaegerszeg | 2980/A/9 | 1/1 |
