@@ -907,6 +907,8 @@ minősítést kap a közalkalmazott. Ettől eltérően, a közalkalmazott alkalm
 
 (2) Az Mt. 53. §-a alapján más munkáltatónál történő munkavégzésre akkor kerülhet sor, ha ez alapján a közalkalmazott az e törvény vagy a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény, az állami tisztviselőkről szóló törvény vagy a honvédek jogállásáról szóló törvény hatálya alá tartozó munkáltatónál végez munkát.
 
+(2a) Az Mt. 53. § (2) bekezdésétől eltérően a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 97. § (1)–(3) bekezdése szerinti egészségügyi felsőoktatási intézmény és a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 97. § (1) bekezdés a) és c) pontja, valamint (2) és (3) bekezdése szerinti egészségügyi szolgáltatók közötti viszonyban az Mt. 53. § (1) bekezdése szerinti foglalkoztatás időtartama naptári évenként a 220 beosztás szerinti munkanapot vagy 1760 órát nem haladhatja meg.
+
 (3) Az Mt. 53. § (2) bekezdésétől a Magyar Honvédségnél foglalkoztatott közalkalmazottak tekintetében a felek írásbeli megállapodás alapján eltérhetnek.
 
 (3a) A Magyar Honvédségnél foglalkoztatott közalkalmazottak tekintetében végrehajtási rendelet a honvédségi feladatok ellátásával összefüggésben, az Mt. 143. és 144. §-a szerinti pótlék helyett napi átalány illetménypótlékot is megállapíthat.
