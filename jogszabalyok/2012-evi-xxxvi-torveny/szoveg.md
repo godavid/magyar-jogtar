@@ -1365,6 +1365,8 @@ az (1) bekezdésben foglaltak biztosítására nem használható.
 
 (2) A független képviselő a képviselői tevékenységével járó kiadásokra a 104. § (1) bekezdésében meghatározott tiszteletdíj 40%-ának megfelelő összegre jogosult.
 
+(3) A kincstár a képviselőcsoport részére az (1) bekezdésben meghatározott összeg kezelésére fizetési számlát, illetve ahhoz kapcsolódó alszámlát vezet.
+
 114. § (1) A képviselőcsoport – működésének, valamint a képviselők képviselői tevékenységének biztosítására –
 
 - a) térítésmentesen az Országházban vagy az Országgyűlés Irodaházában irodákra,
@@ -1389,7 +1391,7 @@ jogosult.
 
 valamint ezen túlmenően a képviselőcsoport létszámával megegyező számú felső- vagy középfokú iskolai végzettségű köztisztviselő vagy munkavállaló segítheti.
 
-(3) A képviselőcsoport a (2) bekezdésben meghatározott személyek foglalkoztatására a (4) bekezdésben meghatározott bérkeret erejéig jogosult. A bérkeret terhére polgári jogi jogviszony is létesíthető.
+(3) A képviselőcsoport a (2) bekezdésben meghatározott személyek foglalkoztatására a (4) bekezdésben meghatározott bérkeret, illetve – a 118. § (1) bekezdése szerinti átcsoportosítás esetén – a (4) bekezdés szerinti bérkeret átcsoportosítással növelt összege erejéig jogosult. A bérkeret terhére polgári jogi jogviszony is létesíthető.
 
 (4) A képviselőcsoport a (2) bekezdés szerint megállapított létszám
 
@@ -1408,15 +1410,15 @@ szerinti, illetménykiegészítéssel növelt és a töredékszámításokat is 
 
 117. § A képviselőcsoport működési feltételeinek biztosítását szolgáló, 113–115. §-ban meghatározott támogatásokat az Országgyűlés Hivatala biztosítja.
 
-118. § (1) A képviselőcsoport a 113. § (1) bekezdésében meghatározott keret, valamint a 114. § (3) bekezdésében meghatározott keret között év közben átcsoportosítást hajthat végre.
+118. § (1) A képviselőcsoport vezetője a 112. § (4) bekezdése szerint rá átruházott keret, illetve a 113. § (1) bekezdésében, a 114. § (3) bekezdésében és a 115. § (4) és (6) bekezdésében meghatározott keretek között év közben átcsoportosítást hajthat végre.
 
-(2) A képviselőcsoport vezetője a 112. § (3) bekezdésében és a 115. § (4) és (6) bekezdésében meghatározott keretből a 113. § (1) bekezdésében, illetve a 114. § (3) bekezdésében meghatározott keretre év közben átcsoportosítást hajthat végre.
+(2) A 112. § (4) bekezdése szerint a képviselőcsoport vezetőjére átruházott keret és a 115. § (4) és (6) bekezdésében meghatározott keret javára történő átcsoportosítás esetén az Országgyűlés Hivatalának főigazgatója az átcsoportosított összeg erejéig az Országgyűlés Hivatala dologi kiadások és személyi juttatások költségvetési kiadási előirányzata között átcsoportosítást hajt végre, és ennek keretében a személyi juttatások költségvetési kiadási előirányzatot az átcsoportosított összeg erejéig növelheti.
 
-(3) A képviselőcsoport vezetője a 112. § (3) bekezdésében meghatározott keret, valamint a 115. § (4) és (6) bekezdésében meghatározott keretek között év közben átcsoportosítást hajthat végre.
+(3)
 
-(4) A (2) bekezdésben meghatározott átcsoportosítások során a munkáltatót terhelő járulékok összegét is figyelembe kell venni.
+(4) Az (1) bekezdésben meghatározott átcsoportosítások során a munkáltatót terhelő járulékok összegét is figyelembe kell venni.
 
-(5) A képviselőcsoport havonta, tárgyhónapot megelőző hónap 20-ig tájékoztatja az Országgyűlés Hivatalát a tárgyhónapra vonatkozó, az (1)–(3) bekezdésben meghatározott átcsoportosításokról.
+(5) A képviselőcsoport havonta, tárgyhónapot megelőző hónap 20-ig tájékoztatja az Országgyűlés Hivatalát a tárgyhónapra vonatkozó, az (1) bekezdésben meghatározott átcsoportosításokról.
 
 (5a) A képviselőcsoport megalakulásától megszűnéséig jogosult a működési feltételeinek biztosítását szolgáló, 113–115. §-ban meghatározott támogatások havi keretmaradványát a jogosultsági hónapot követően is felhasználni. Ha a képviselőcsoport az Országgyűlés megbízatásának megszűnésével szűnik meg, a megszűnés időpontjában – a 112. § (3) bekezdése szerinti keret vonatkozásában is – fennálló keretmaradvány felhasználására a következő Országgyűlésben is képviselettel rendelkező ugyanazon párt – önállóan, vagy más párttal közösen alakított – képviselőcsoportja jogosult.
 
