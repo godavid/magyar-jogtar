@@ -161,7 +161,7 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 - f) állandó jellegű földmérési jelek, földminősítési mintaterek, valamint villamosberendezések elhelyezését biztosító használati jog, továbbá vezetékjog, vízvezetési és bányaszolgalmi jog, valamint törvény rendelkezésén alapuló közérdekű szolgalmak és használati jogok,
 - g) elő- és visszavásárlási, vételi, valamint eladási jog,,
 - h) tartási és életjáradéki jog,
-- i) jelzálogjog,
+- i) jelzálogjog (önálló zálogjog, ideértve az átalakításos önálló zálogjogot is),
 - j) végrehajtási jog.
 
 16/A. §
@@ -191,7 +191,7 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 - 19. árverés vagy nyilvános pályázat kitűzése,
 - 20. a zárlat, a zár alá vétel, a zárlat az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására,
 - 21. a tulajdonjog fenntartással történt eladás,
-- 22. a jelzálogjog ranghelyének előzetes biztosítása,
+- 22. a jelzálogjog (önálló zálogjog) ranghelyének előzetes biztosítása,
 - 23. lemondás jelzálogjog előzetesen biztosított ranghelyével való rendelkezés jogáról,
 - 24. a ranghely megváltoztatása,
 - 25. a társasházakról szóló törvény szerinti, a közös tulajdon átruházására a tulajdonostársak összes tulajdoni hányadának legalább kétharmadát feljogosító alapító okirat elfogadása, módosítása, továbbá az elfogadás, illetve a módosítás időpontja,
@@ -435,6 +435,10 @@ alapján kerülhet sor.
 (4a) Jogtanácsos által teljesített ellenjegyzés esetében a székhely alatt az adott jogügyletben a jogtanácsos által képviselt szervezet székhelyét kell érteni.
 
 (5) Jelzálogjog alapítására, módosulására és megszűnésére vonatkozó bejegyzés olyan magánokirat alapján is teljesíthető, amelyet a nyilatkozattevő hitelintézet – nevének feltüntetésével – szabályszerűen és nyilvánvalóan azonosítható módon írt alá.
+
+(5a) E § alkalmazásában a jelzálogjog alapítására, módosulására és megszűnésére vonatkozó bejegyzés alatt az önálló zálogjog, a módosulás és megszűnés tekintetében pedig az átalakításos önálló zálogjog bejegyzését is érteni kell.
+
+(5b) Ha az átalakításos önálló zálogjog bejegyzése iránti eljárásban benyújtott okirat nem tartalmazza a zálogkötelezett (1) bekezdés a) pontja szerinti személyi azonosítóját, úgy ezt az ingatlanügyi hatóság a személyiadat- és lakcímnyilvántartást vezető szerv megkeresése útján, hivatalból pótolja.
 
 (6) A föld tulajdonjogának megszerzésére irányuló, ügyvéd által ellenjegyzett vagy közokiratba foglalt, a külön jogszabályban meghatározott biztonsági kellékekkel rendelkező okmányon elkészített, és hatósági jóváhagyáshoz kötött szerződés bejegyzés alapjául akkor szolgálhat, ha annak eredeti példányán szerepel a mezőgazdasági igazgatási szerv jóváhagyásáról szóló záradék. Az elővásárlásra jogosult javára történő bejegyzés iránti kérelemhez csatolandó bejegyzési engedélynek tartalmaznia kell a jogszerző bejegyzéshez szükséges adatait. Felszámolási, vagy önkormányzati adósságrendezési eljárás során történő tulajdonszerzés esetén a tulajdonjog bejegyzés iránti kérelemhez csatolt árverési jegyzőkönyvnek kell tartalmaznia a mezőgazdasági igazgatási szerv jóváhagyó záradékát.
 
@@ -692,9 +696,13 @@ kell csatolnia.
 (2) Hivatalból törölni kell az ingatlan-nyilvántartásból
 
 - a) a kisajátítási, illetőleg a telekalakítási eljárás megindítására vonatkozó bejegyzést az eljárás során hozott határozat alapján történt tulajdonváltozás,
-- b) a jelzálogjog ranghelye előzetes biztosításának tényét az ezen alapuló jelzálogjog,
+- b) a jelzálogjog ranghelye előzetes biztosításának tényét az ezen alapuló jelzálogjog (önálló zálogjog),
 - c) a jelzálogjog ranghelye fenntartásának tényét az ezen alapuló jelzálogjog, továbbá
-- d) az elő- és visszavásárlási jogot, a vételi jogot, az eladási jogot,, valamint a tulajdonjog fenntartásával történő eladás tényére vonatkozó feljegyzést az ezeken alapuló tulajdonszerzés bejegyzésével egyidejűleg. Törölni kell a tulajdonjog fenntartásával történő eladás tényére vonatkozó feljegyzést akkor is, ha a tény feljegyzése alapjául szolgáló okiratban a felek a tény feljegyzését meghatározott időtartamra kérték, és ez letelt.
+- d) az elő- és visszavásárlási jogot, a vételi jogot, az eladási jogot, valamint a tulajdonjog fenntartásával történő eladás tényére vonatkozó feljegyzést az ezeken alapuló tulajdonszerzés
+
+bejegyzésével egyidejűleg.
+
+(2a) A (2) bekezdés d) pont szerinti esetben törölni kell a tulajdonjog fenntartásával történő eladás tényére vonatkozó feljegyzést akkor is, ha a tény feljegyzése alapjául szolgáló okiratban a felek a tény feljegyzését meghatározott időtartamra kérték, és ez az időtartam letelt.
 
 (3) Az öröklési szerződésen alapuló elidegenítési és terhelési tilalmat a szerződési örökös tulajdonjogának bejegyzésével egyidejűleg hivatalból törölni kell. Ha az örökhagyóval szerződő fél az örökhagyó előtt halt meg, a tilalom ebből az okból nem törölhető.
 
@@ -852,7 +860,7 @@ kell csatolnia.
 - b) az ingatlan tulajdonjoga iránti,
 - c) az ingatlanon fennálló közös tulajdon megszüntetése iránti,
 - d) az ingatlanra vonatkozó házassági vagyonjogi,
-- e) a jelzáloggal biztosított követelés érvényesítése iránti, valamint
+- e) a jelzálogjoggal biztosított követelés vagy az önálló zálogjog – ideértve az átalakításos önálló zálogjogot is – alapján fennálló kielégítési jog érvényesítésére irányuló, valamint
 - f) az ingatlan határvonalával és területével kapcsolatos kiigazítási per megindítása tényének feljegyzése iránt.
 
 (1a) A büntetőeljárásról szóló 1998. évi XIX. törvény 214. § (1a) bekezdése vagy 284. § (3) bekezdése alapján a bíróságnak megküldött polgári jogi igény esetén, ha az (1) bekezdés a) vagy b) pontjában foglalt feltételek fennállnak, a bíróság az (1) bekezdés szerinti végzést hivatalból hozza meg.

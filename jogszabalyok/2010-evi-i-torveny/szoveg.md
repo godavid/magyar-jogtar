@@ -62,7 +62,7 @@ kapcsolatos, e törvényben felsorolt adatokat, valamint az azokban bekövetkeze
 - m) tolmács: a tolmács és a jelbeszédben jártas személy,
 - n) származási hely: az anya nyilatkozata alapján az anya lakóhelye vagy tartózkodási helye, ismeretlen anya esetén a gyámhatóság által megállapított hely, hazai anyakönyvezés esetén – kérelemre – az anya lakóhelye, illetve ha az nem ismert, a gyermek születési helye,
 - o) személyazonosság igazolására alkalmas hatósági igazolvány: a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény alapján személyazonosság igazolására alkalmas igazolványok,
-- p) családi név korrekciója: az 1953. január 1-jén hatályba lépett kötőjel kötelező használatával és a megkülönböztető betűjel eltörlésével kapcsolatos rendelkezések következtében kialakult névviselés rendezése,
+- p) családi név korrekciója: az 1953. január 1-jén hatályba lépett, a kötőjel kötelező használatával és megkülönböztető betűjel eltörlésével, valamint az anyakönyvekbe korábban bejegyzett ragadványnévvel kapcsolatos rendelkezések következtében kialakult névviselés rendezése,
 - q) adatbejegyzés: adat rögzítése az elektronikus nyilvántartásba,
 - r) adatmódosítás: adatváltozás bejegyzése vagy hibás adat javításának elvégzése,
 - s) adattörlés: az anyakönyvben szereplő adat vagy adatcsoport felismerhetetlenné tétele olyan módon, hogy a helyreállításuk többé nem lehetséges,
@@ -603,7 +603,7 @@ a hazai anyakönyvezést végző hatóság az igazságügyért felelős miniszte
 
 (3) Az (1) bekezdés szerinti névváltoztatásra a 49. § (2)–(4) bekezdése, valamint az 50. § (2) bekezdés b), c) és f) pontja kivételével a 49–51. §-ban foglaltakat megfelelően alkalmazni kell.
 
-### Megkülönböztető betűjel és egyéb jelzés
+### Megkülönböztető betűjel, ragadványnév és egyéb jelzés, valamint a családi név korrekciója
 
 53. § (1) Az egy családhoz tartozók vagy azonos családnevűek megkülönböztetésére szolgáló betűjelet a családi név részének kell tekinteni, az nem minősül külön tagnak.
 
@@ -611,7 +611,7 @@ a hazai anyakönyvezést végző hatóság az igazságügyért felelős miniszte
 
 #### 54. §
 
-55. § (1) Az anyakönyvbe korábban bejegyzett betűjel, a családi név részét nem képező ragadványnév és egyéb jelzés – az 53. §-ban foglaltak kivételével – nem viselhető, és azt az anyakönyvi kivonat kiállításánál, valamint az anyakönyvi kivonat adattartalmát képező adatokra vonatkozó adattovábbítás során figyelmen kívül kell hagyni.
+55. § (1) Az anyakönyvbe korábban bejegyzett betűjel, a családi név részét nem képező ragadványnév és egyéb jelzés – az 53. §-ban és a (2)–(5) bekezdésben foglaltak kivételével – nem viselhető, és azt az anyakönyvi kivonat kiállításánál, valamint az anyakönyvi kivonat adattartalmát képező adatokra vonatkozó adattovábbítás során figyelmen kívül kell hagyni.
 
 (1a) A doktori cím és más tudományos fokozat, valamint az egyes címek és rangok megszüntetéséről szóló 1947. évi IV. törvény szabályaival ellentétes adatok bejegyzését meg kell tagadni.
 
@@ -621,11 +621,13 @@ a hazai anyakönyvezést végző hatóság az igazságügyért felelős miniszte
 
 (4) A megkülönböztető betűjel megerősítésére vonatkozó nyilatkozatban csak annak a betűjeles névalaknak a viselése erősíthető meg, amelyet a kérelmező vagy a kérelmező 1953. január 1-je előtt született felmenőjének a születési bejegyzése tartalmaz.
 
+(5) Az anyakönyvbe korábban bejegyzett ragadványnév akkor viselhető többtagú családi névként, ha az erre irányuló szándékot az érintett az anyakönyvvezetőnél írásban bejelenti. Ebben az esetben is – a kérelmező erre irányuló nyilatkozata alapján választott – legfeljebb két tagú családi név viselhető.
+
 55/A. § (1) A családi név korrekciója iránti kérelmet bármely anyakönyvvezetőnél vagy bármely hivatásos konzuli tisztviselőnél személyesen lehet előterjeszteni. A hivatásos konzuli tisztviselő az első diplomáciai futárral köteles megküldeni a kérelmet a születést nyilvántartó anyakönyvvezetőnek vagy a hazai anyakönyvezést végző hatóságnak.
 
 (2) Ha a korrekcióval érintett anyakönyvi esemény külföldön történt, az eljárás feltétele a hazai anyakönyvezés.
 
-(3) Az eljárás lefolytatásához a kérelmezőnek igazolnia kell, hogy a saját vagy felmenőjének születési anyakönyvi bejegyzése a betűjeles névalakot tartalmazta. Ha a kérelmező nem rendelkezik a szükséges anyakönyvi okirattal, annak beszerzéséről – az ahhoz szükséges adatok közlése esetén – az anyakönyvvezető gondoskodik.
+(3) Az eljárás lefolytatásához a kérelmezőnek igazolnia kell, hogy a saját vagy felmenőjének születési anyakönyvi bejegyzése a betűjeles, valamint ragadványneves névalakot tartalmazta. Ha a kérelmező nem rendelkezik a szükséges anyakönyvi okirattal, annak beszerzéséről – az ahhoz szükséges adatok közlése esetén – az anyakönyvvezető gondoskodik.
 
 (4) A szülő családi nevének korrekciója a szülők erre irányuló kérelmére kiterjed a szülő családi nevét viselő cselekvőképtelen kiskorú gyermek családi nevére is. A szülő családi nevének korrekciója a szülők erre irányuló kérelmére és korlátozottan cselekvőképes kiskorú hozzájárulása esetén terjed ki a szülő családi nevét viselő korlátozottan cselekvőképes kiskorú gyermek családi nevére is.
 
@@ -1464,6 +1466,8 @@ részletes szabályait rendeletben állapítsa meg.
 100. § Az 59/A. § (1) és (2) bekezdését az e törvény hatálybalépését követően benyújtott névváltoztatási kérelemre kell alkalmazni.
 
 101. § E törvénynek a területi államigazgatási szervezetrendszer átalakításával összefüggő egyes törvények módosításáról szóló 2015. évi VIII. törvénnyel módosított rendelkezéseit a területi államigazgatási szervezetrendszer átalakításával összefüggő egyes törvények módosításáról szóló 2015. évi VIII. törvény hatálybalépése előtt indult, folyamatban lévő hazai anyakönyvezési ügyekben is alkalmazni kell.
+
+101/A. § E törvénynek az anyakönyvi eljárásról szóló 2010. évi I. törvény módosításáról szóló 2016. évi CIX. törvénnyel (a továbbiakban: Módtv.) módosított rendelkezéseit a Módtv. hatálybalépésekor folyamatban lévő ügyekben és a megismételt eljárásokban is alkalmazni kell.
 
 ### Az Európai Unió jogának való megfelelés
 
