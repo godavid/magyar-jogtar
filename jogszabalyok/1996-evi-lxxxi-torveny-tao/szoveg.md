@@ -759,6 +759,8 @@ azzal, hogy az e pontban foglaltakat a jótállási időn belül cserére vissza
 
 (4) Ahol e törvény bevételként, ráfordításként elszámolt összegekről rendelkezik, ott az (1) bekezdés szerinti adózó értelemszerűen az adózás előtti eredmény javára, terhére elszámolt összegeket veszi figyelembe.
 
+(5) Az az (1) bekezdés szerinti adózó, amely az IFRS 11 Közös megállapodások című standard szerinti olyan közös tevékenységgel rendelkezik, amelyet a számvitelről szóló törvény szerint részesedésként mutatna ki, az erre a tevékenységre vonatkozó társasági adókötelezettségét úgy határozza meg, mintha ezt a tevékenységet a számvitelről szóló törvény szerint számolta volna el.
+
 18/B. § (1) A 18/A. § (1) bekezdése szerinti adózó adózás előtti eredményét csökkenti:
 
 - a) a helyi iparűzési adó és az innovációs járulék tényleges nyereségadó-ráfordításként elszámolt adóévi összege,
@@ -790,6 +792,20 @@ azzal, hogy az e pontban foglaltakat a jótállási időn belül cserére vissza
 (3) A számvitelről szóló törvény 114/D. §-a, valamint a számvitelről szóló törvény 114/E. § (4) bekezdése hatálya alá tartozó adózó az IFRS-ek szerinti beszámolóról (könyvvezetésről) a számvitelről szóló törvény III. fejezete szerinti beszámolóra (könyvvezetésre) történő áttérés esetén az adóalapját – az adózás előtti eredménye módosítása révén – az (1) bekezdés b) pontja, a (2) bekezdés és a (4) bekezdés értelemszerű alkalmazásával határozza meg.
 
 (4) Amennyiben az (1) bekezdés b) pontja szerinti csökkentés és a (2) bekezdés szerinti növelés összege (egyenlege) negatív, akkor a 18/A. § (1) bekezdése szerinti adózó azt az áttérés adóévében és az azt követő két adóévben három egyenlő részletben – az adózás előtti eredmény csökkentése révén – érvényesíti az adóalapjában. Amennyiben az (1) bekezdés b) pontja szerinti csökkentés és a (2) bekezdés szerinti növelés összege (egyenlege) pozitív, akkor azt a 18/A. § (1) bekezdése szerinti adózó választása szerint az áttérés adóévében egy összegben vagy az áttérés adóévében és az azt követő két adóévben három egyenlő részletben – az adózás előtti eredmény növelése révén – érvényesíti az adóalapjában.
+
+(4a) A 18/A. § (1) bekezdése szerinti adózó választása szerint az áttérés adóévének első napját megelőző napon a könyveiben nyilvántartott összes eszköze és kötelezettsége, vagy kizárólag az összes immateriális jószága és tárgyi eszköze tekintetében – ideértve mindkét választás esetében azon eszközöket és kötelezettségeket is, amelyeket az áttérés adóévének első napját megelőző napon az adózónak az IFRS-ek szerint nyilván kell tartania –, az áttérés adóévében és az azt követő adóévekben adóalapját úgy határozza meg, mintha az IFRS-ek szerinti beszámolóra (könyvvezetésre) nem tért volna át.
+
+(4b) A 18/A. § (1) bekezdése szerinti adózó a (4a) bekezdés hatálya alá tartozó eszközeire és kötelezettségeire az (1) bekezdés b) pontjában, valamint a (2) bekezdés a) pontjában foglaltakat nem alkalmazza.
+
+(4c) A (4a) bekezdés hatálya alá tartozó tárgyi eszköz és immateriális jószág az áttérés adóéve első napjára vonatkozóan meghatározott, a 4. § 31/a. pontja szerinti bekerülési értékét az adózó az áttérés adóéve első napját megelőző napon fennálló, e törvényben meghatározott bekerülési értékkel azonos összegben állapítja meg, a 4. § 31/a. pontja szerinti számított nyilvántartási értékét az adózó az áttérés adóéve első napját megelőző napon fennálló e törvényben meghatározott számított nyilvántartási értékkel azonos összegben állapítja meg.
+
+(4d) A 18/A. § (1) bekezdése szerinti adózó a (4a) bekezdés hatálya alá tartozó tárgyi eszközeit, immateriális jószágait, eszközeit, kötelezettségeit elkülönítetten tartja nyilván és e nyilvántartásában feltünteti az áttérés adóéve első napját megelőző napra kimutatott, a (4c) bekezdés szerinti bekerülési értéket, könyv szerinti értéket és számított nyilvántartási értéket, továbbá az eszközre, a kötelezettségre vonatkozóan általa az áttérést követően az adózás előtti eredmény módosításaként elszámolt összeget.
+
+(4e) A 18/A. § (1) bekezdése szerinti adózó a (4a) bekezdés szerinti választást legkésőbb az áttérés adóévéről szóló társasági adóbevallásának benyújtásával egyidejűleg teheti meg. A (4a) bekezdés szerinti választás az áttérés adóévéről szóló társasági adóbevallás benyújtását követően nem módosítható és nem visszavonható.
+
+(4f) Az a 18/A. § (1) bekezdése szerinti adózó, amely nem választja a (4a) bekezdés szerinti adóalap-megállapítást, e törvény alkalmazása céljából az áttérés adóévének első napját megelőző napon a könyveiben nyilvántartott és az IFRS 1 A nemzetközi pénzügyi beszámolási standardok első alkalmazása című standard szerint vélelmezett bekerülési értéken nyilvántartott tárgyi eszköze és immateriális jószága bekerülési értékét és számított nyilvántartási értékét egyező összegben, az áttérés adóéve első napján fennálló, az IFRS-ek szerinti könyv szerinti értékkel megegyezően állapítja meg. Az adózó választása szerint az összes ilyen, az áttérés adóévének első napját megelőző napon nullától eltérő számított nyilvántartási értékű immateriális jószága és tárgyi eszköze vonatkozásában az áttérés adóévében és az azt követő adóévekben a 7. § (1) bekezdés d) pontja alkalmazásakor, az 1. számú melléklet és a 2. számú melléklet által meghatározott értékcsökkenési leírási kulcsok vetítési alapjául szolgáló bekerülési értéket – az áttérés adóévének első napjára – úgy állapítja meg, hogy az előzőek szerint meghatározott számított nyilvántartási értéket megszorozza az adott eszközre vonatkozó, az áttérés adóévének első napját megelőző napon fennálló bekerülési érték és számított nyilvántartási érték hányadosával.
+
+(4g) Az a 18/A. § (1) bekezdése szerinti adózó, amely nem választja a (4a) bekezdés szerinti adóalap-megállapítást, e törvény alkalmazása céljából az áttérés adóévének első napját megelőző napon a könyveiben nyilvántartott, a (4f) bekezdés hatálya alá nem tartozó tárgyi eszközeinek és immateriális jószágainak – ideértve azon eszközöket és kötelezettségeket is, melyeket az áttérés adóévének első napját megelőző napon az adózónak az IFRS-ek szerint nyilván kell tartania – áttérés adóévének első napján fennálló, a 7. § (1) bekezdés d) pontja alkalmazásakor, az 1. számú melléklet és a 2. számú melléklet által meghatározott értékcsökkenési leírási kulcsok vetítési alapjául szolgáló bekerülési értékét az IFRS-ek szerint az áttérés adóévének első napján nyilvántartott bekerülési értékkel egyező összegben, a számított nyilvántartási értékét ezen bekerülési érték és az adóalapnál értékcsökkenésként korábban már érvényesített összeg különbözeteként határozza meg.
 
 (5) A 18/A. § (1) bekezdése szerinti adózó a tárgyi eszköz bekerülési értékét a jövőbeni leszerelési költségekre tekintettel megállapított összeg figyelembe vétele nélkül állapítja meg. A 18/A. § (1) bekezdése szerinti adózó ezen eszközök bekerülési értékét és számított nyilvántartási értékét elkülönítetten tartja nyilván.
 
@@ -852,7 +868,7 @@ kapcsolatban az adóévi adózás előtti eredmény terhére elszámolt ráford�
 
 (8) Az adóhatóság a (7) bekezdés hatálya alá eső adózó társasági adóbevallásával egyidejűleg adóévenként előterjesztett kérelme alapján – amennyiben az az adózóra nézve kedvezőbb adókötelezettséget eredményez – a kérelemben megjelölt, a 6. § (2a) bekezdése és a II/A. fejezet figyelmen kívül hagyásával megállapított adóévi fizetendő adót tekinti fizetendő adónak, ha az adózó alátámasztja a 6. § (2a) bekezdése és a II/A. fejezet figyelmen kívül hagyásával megállapított fizetendő adó összegét. A határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye.
 
-(9) A (8) bekezdésben foglaltak alkalmazásától függetlenül a 18/A. § (1) bekezdése szerinti adózó a 18/C. § (4) bekezdése szerint meghatározott egyenleget a 6. § (2a) bekezdése és a II/A. fejezet figyelmen kívül hagyásával megállapított adóalapjában érvényesíti.
+(9) A (8) bekezdésben foglaltak alkalmazásától függetlenül a 18/A. § (1) bekezdése szerinti adózó a 18/C. § (4) bekezdése szerint meghatározott adóévi összeget a 6. § (2a) bekezdése és a II/A. fejezet figyelmen kívül hagyásával megállapított adóalapjában érvényesíti.
 
 ### AZ ADÓ MEGÁLLAPÍTÁSA
 
@@ -897,7 +913,7 @@ kapcsolatban az adóévi adózás előtti eredmény terhére elszámolt ráford�
 22. § (1) Az adózó a (2) és (4) bekezdés szerinti, részére kiadott támogatási igazolásban szereplő összegig – döntése szerint – a támogatás (juttatás) adóéve és az azt követő adóévek adójából, de utoljára a támogatás (juttatás) naptári évét követő hatodik naptári évben lezáruló adóév adójából adókedvezményt vehet igénybe, függetlenül attól, hogy e támogatással nem növeli adózás előtti eredményét az adóalap megállapításakor. Az adókedvezmény igénybevételének feltétele, hogy az adózó a (8) bekezdés szerint arra jogosult szervezet részére
 
 - a) a (6) bekezdésben meghatározott kiegészítő támogatást a támogatás juttatásának adóévében, valamint
-- b) a (7) bekezdés szerinti kiegészítő támogatást a támogatás adóévét követő 90 napon belül
+- b) a (7) bekezdés szerinti kiegészítő támogatást a támogatás adóévét követő 90 napon belül, de legkésőbb a támogatás adóévére vonatkozó társasági adóbevallás benyújtására nyitva álló határidőig
 
 megfizeti.
 
@@ -928,7 +944,11 @@ megfizeti.
 
 (10)
 
-(11)–(13)
+(11)
+
+(12) Amennyiben az adózó az (1) bekezdés a) pontjában meghatározott összeget a támogatás adóévét követően, de legkésőbb a támogatás adóévére vonatkozó társasági adóbevallás benyújtására nyitva álló határidőig fizeti meg, akkor a (2) bekezdés szerinti adókedvezményt legfeljebb a (3) bekezdés szerint a részére kiállított támogatási igazolásban szereplő összeg 80 százalékáig veheti igénybe.
+
+(13)
 
 (14) A szövetkezet a Ptk. alapján az adóévben képzett közösségi alap 6,5 százalékát adókedvezményként veheti igénybe. Az adókedvezmény az állami támogatásokra vonatkozó rendelkezések alkalmazásában az adóévben igénybe vett csekély összegű (de minimis) támogatásnak minősül.
 
@@ -988,9 +1008,9 @@ megfizeti.
 - b) kis- és középvállalkozás által a Közép-Magyarország régióban (ide nem értve a Közép-Magyarország régió kormányrendeletben meghatározott támogatható településeit) megvalósított beruházáshoz igényelt összes állami támogatás jelenértéken, adózónként meghaladja a 7,5 millió eurónak megfelelő forintösszeget;
 - c) az adózó vagy kapcsolt vállalkozása a kérelem, bejelentés benyújtását megelőző két naptári évben, a kérelem, bejelentés benyújtását követően, és a beruházás befejezését követő két naptári évig azonos vagy hasonló tevékenységet szüntet meg az Európai Gazdasági Térség területén, vagy tervezi ilyen tevékenység megszüntetését.
 
-(2b) Az adózó a (2a) bekezdésben meghatározott esetekben az adókedvezmény iránti kérelmet a kormányrendeletben előírt formában és tartalommal az adópolitikáért felelős miniszterhez nyújtja be. A kérelmet a benyújtást, hiánypótlás esetén a hiánypótlás benyújtását követő 90 napon belül kell a Kormány elé terjeszteni; a határidő egy alkalommal, legfeljebb 90 nappal meghosszabbítható. A (2a) bekezdésben felsorolt esetekben, a kérelem Kormány elé terjesztését megelőzően az adópolitikáért felelős miniszter – a az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet szabályaival összhangban – megkéri az Európai Bizottság engedélyét, azzal, hogy az ügyintézési határidőbe nem számít bele az Európai Bizottság megkeresésének napjától az Európai Bizottság válaszának megérkezéséig terjedő időtartam. Ha a kérelem nem felel meg a kormányrendeletben előírt formának vagy tartalomnak, és az adózó a hiányt felszólítás ellenére nem pótolja, az adópolitikáért felelős miniszter határozatban elutasítja a kérelmet.
+(2b) Az adózó a (2a) bekezdésben meghatározott esetekben az adókedvezmény iránti kérelmet a kormányrendeletben előírt formában és tartalommal az adópolitikáért felelős miniszterhez nyújtja be. A kérelmet a benyújtást, hiánypótlás esetén a hiánypótlás benyújtását követő 90 napon belül kell a Kormány elé terjeszteni; a határidő egy alkalommal, legfeljebb 90 nappal meghosszabbítható. A (2a) bekezdésben felsorolt esetekben, a kérelem Kormány elé terjesztését megelőzően az adópolitikáért felelős miniszter – az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet szabályaival összhangban – megkéri az Európai Bizottság engedélyét, azzal, hogy az ügyintézési határidőbe nem számít bele az Európai Bizottság megkeresésének napjától az Európai Bizottság válaszának megérkezéséig terjedő időtartam. Ha a kérelem nem felel meg a kormányrendeletben előírt formának vagy tartalomnak, és az adózó a hiányt felszólítás ellenére nem pótolja, az adópolitikáért felelős miniszter határozatban elutasítja a kérelmet.
 
-(3) Az adókedvezmény igénybevételének feltétele, hogy az adózó a beruházás megkezdése előtt
+(3) Az adókedvezmény igénybevételének feltétele, hogy az adózó a beruházás tervezett megkezdése előtt
 
 - a) az adópolitikáért felelős miniszternek bejelenti a kormányrendeletben meghatározott valamennyi adatot, vagy
 - b) a (2a) bekezdésben meghatározott esetekben az adókedvezmény iránti kérelmet a kormányrendeletben meghatározott tartalommal és formában benyújtja az adópolitikáért felelős miniszterhez.
@@ -1093,11 +1113,11 @@ megfizeti.
 
 a támogatás adóévében megfizetni.
 
-(3b) Az adózó a kiegészítő sportfejlesztési támogatás mértékét a 10 százalékos társasági adókulcs szerinti mértékkel akkor állapíthatja meg, ha a támogatás adóévében a 19 százalékos társasági adókulcs alkalmazására nem köteles. Ha az adózó a kiegészítő sportfejlesztési támogatás mértékét a várható fizetendő adó alapján a 10 százalékos társasági adókulcs alapján határozza meg és a támogatás adóévében a pozitív adóalapja meghaladja az 500 millió forintot, az adózó köteles a támogatás legalább 7 százalékát a támogatás adóévét követő 90 napon belül a (3a) bekezdésben meghatározott módon kiegészítő sportfejlesztési támogatásra fordítani.
+(3b) Az adózó a kiegészítő sportfejlesztési támogatás mértékét a 10 százalékos társasági adókulcs szerinti mértékkel akkor állapíthatja meg, ha a támogatás adóévében a 19 százalékos társasági adókulcs alkalmazására nem köteles. Ha az adózó a kiegészítő sportfejlesztési támogatás mértékét a várható fizetendő adó alapján a 10 százalékos társasági adókulcs alapján határozza meg és a támogatás adóévében a pozitív adóalapja meghaladja az 500 millió forintot, az adózó köteles a támogatás legalább 7 százalékát a támogatás adóévét követő 90 napon belül, de legkésőbb a támogatás adóévére vonatkozó társasági adóbevallás benyújtására nyitva álló határidőig a (3a) bekezdésben meghatározott módon kiegészítő sportfejlesztési támogatásra fordítani.
 
 (3c) Az adózó a támogatást és a kiegészítő sportfejlesztési támogatást az arra jogosult önálló fizetési számlájára történő átutalással a támogatási igazolás kézhezvételét követően teljesíti. A támogatás, illetve a kiegészítő sportfejlesztési támogatás fogadására szolgáló fizetési számlát támogatás esetében a támogatási igazolás, kiegészítő sportfejlesztési támogatás esetében az annak alapjául szolgáló szponzori vagy támogatási szerződés határozza meg. Ha a kiegészítő sportfejlesztési támogatás jogosultja nem országos sportági szakszövetség, az annak alapjául szolgáló szponzori vagy támogatási szerződés egy eredeti példányát az adózó a megkötését követő 8 napon belül megküldi a kiegészítő sportfejlesztési támogatásban részesített látvány-csapatsport országos sportági szakszövetsége részére.
 
-(3d) Az adózó a támogatás és a kiegészítő sportfejlesztési támogatás kifizetésének tényét – annak pénzügyi teljesítésétől számított 30 napon belül – az állami adóhatóság részére bejelenti.
+(3d) Az adózó a támogatás és a kiegészítő sportfejlesztési támogatás kifizetésének tényét – annak pénzügyi teljesítésétől számított 30 napon belül – az állami adóhatóság részére bejelenti. Amennyiben a kiegészítő sportfejlesztési támogatás pénzügyi teljesítésétől számított 30 nap a támogatás adóévére vonatkozó társasági adóbevallás benyújtását követően járna le, akkor az adózó a kiegészítő sportfejlesztési támogatás kifizetésének tényét a támogatás adóévére vonatkozó társasági adóbevallásában jelenti be az állami adóhatóság részére.
 
 (3e) A támogatási igazolást az (1) bekezdés a) és e) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelmére a sportpolitikáért felelős miniszter, az (1) bekezdés b)–d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelmére a látvány-csapatsport országos sportági szakszövetsége állítja ki azt követően, hogy a támogatás igénybevételére jogosult szervezet által benyújtott, a támogatás igénybevételének feltételét képező, tervezett támogatással érintett sportfejlesztési programot részben vagy egészben jóváhagyta. A sportfejlesztési program jóváhagyása során vizsgálni kell, hogy a benyújtott sportfejlesztési program megvalósítása összhangban van-e a szakági szövetség sportpolitikai érdekeivel, valamint azt, hogy az miként illeszkedik a nemzetgazdaság érdekeihez, különös figyelemmel a hosszú távú fenntarthatóság követelményére. A támogatási igazolás a sportfejlesztési program jóváhagyását követően arra tekintet nélkül állítható ki, hogy a támogatás elő- vagy utófinanszírozással valósul meg.
 
@@ -1170,7 +1190,7 @@ a támogatás adóévében megfizetni.
 
 (7) A támogatott szervezet a (6) bekezdés a) pontjában meghatározott piaci alapon történő hasznosítási kötelezettségtől – az elsődleges sportcél veszélyeztetése nélkül – a sportcélú ingatlan nem versenyrendszerben szervezett szabadidősport-események lebonyolítása, valamint a helyi önkormányzat sportról szóló törvényben meghatározott iskolai testneveléssel és diáksporttal kapcsolatos feladatainak ellátása, főiskolai-egyetemi sport események, valamint közösségi célú szabadidős, szórakoztató és kulturális események lebonyolítása céljából a (6) bekezdés ba)–bc) pontjában meghatározott mértékeken felül is eltérhet.
 
-(8) A támogatott szervezet az adott tárgyi eszköz beruházásra vonatkozó, első támogatási igazolás kiállítását követő 4. év végéig köteles a tárgyi eszköz beruházást üzembe helyezni a támogatás és annak jegybanki alapkamattal növelt összege Magyar Állam részére történő megfizetése terhével.
+(8) A támogatott szervezet az adott tárgyi eszköz beruházásra vonatkozó, első támogatási igazolás kiállítását követő évben kezdődő támogatási időszaktól számított 4. támogatási időszak végéig köteles a tárgyi eszköz beruházást üzembe helyezni a támogatás és annak jegybanki alapkamattal növelt összege Magyar Állam részére történő megfizetése terhével.
 
 (9) Az (1) bekezdés a) és e) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén a sportpolitikáért felelős miniszter a jelenértékén legalább 300 millió forint értékű sportfejlesztési program esetében az e törvény felhatalmazása alapján kiadott kormányrendelet alapján az adópolitikáért felelős miniszter véleményét figyelembe véve hoz döntést. Az adópolitikáért felelős miniszter az erre irányuló megkereséstől számított 10 napon belül közli álláspontját a sportpolitikáért felelős miniszterrel. A sportpolitikáért felelős miniszter az adópolitikáért felelős miniszter véleményét figyelembe véve jóváhagyja vagy elutasítja a sportfejlesztési program e törvény szerinti támogatását és az erről szóló döntést közli a támogatás igénybevételére jogosult szervezettel. Véleményeltérés esetén a sportfejlesztési program e törvény szerinti támogatására vonatkozó jóváhagyó döntést megelőzően a sportpolitikáért felelős miniszter a Kormány döntését kéri.
 
@@ -1179,6 +1199,8 @@ a támogatás adóévében megfizetni.
 (10) Az e § alapján folyó sportfejlesztési program jóváhagyására, valamint a támogatási igazolás kiállítására irányuló eljárás tekintetében a támogatás igénybevételére jogosult szervezet a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény elektronikus kapcsolattartásra vonatkozó rendelkezései alapján elektronikus úton tart kapcsolatot a sportfejlesztési program jóváhagyását, valamint a támogatási igazolás kiállítását végző szervezettel.
 
 (11) A beszerzéskor 100 ezer forintot meghaladó bekerülési értékű nyilvántartásba vett tárgyi eszköz a könyv szerinti érték leírásáig nem idegeníthető el, nem terhelhető meg, kivéve annak indoklásával és a jóváhagyást végző szervezet előzetes írásbeli hozzájárulásával.
+
+(12) Amennyiben az adózó a (3a) bekezdésben meghatározott összeget a támogatás adóévét követően, de legkésőbb a támogatás adóévére vonatkozó társasági adóbevallás benyújtására nyitva álló határidőig fizeti meg, akkor az adózó a (2) bekezdés szerinti adókedvezményt legfeljebb a (3) bekezdés szerint a részére kiállított támogatási igazolásban szereplő összeg 80 százalékáig veheti igénybe.
 
 ### Az olimpiai pályázat támogatásának adókedvezménye
 
@@ -1218,7 +1240,7 @@ a támogatás adóévében megfizetni.
 
 ### Rendelkezés az adóról
 
-24/A. § (1) Az adózó az esedékes adóelőleg-fizetési kötelezettségének teljesítésére nyitva álló határidőt megelőző hónap utolsó napjáig az állami adóhatóság által rendszeresített külön nyomtatványon, elektronikus úton tett rendelkező nyilatkozata útján a kedvezményezett szervezet(ek) nevének és adószámának megjelölésével rendelkezhet az e törvény 26. § (2) és (8) bekezdése szerint megállapított egyes havi, illetve negyedéves társasági adóelőleg-kötelezettsége 50 százalékának kedvezményezett célra történő felajánlásáról.
+24/A. § (1) Az adózó az esedékes adóelőleg-fizetési kötelezettségének teljesítésére nyitva álló határidőt megelőző hónap utolsó napjáig az állami adóhatóság által rendszeresített külön nyomtatványon, elektronikus úton tett rendelkező nyilatkozata útján a kedvezményezett szervezet(ek) nevének és adószámának megjelölésével rendelkezhet a 26. § (2), (3) és (8) bekezdése szerint megállapított egyes havi, illetve negyedéves társasági adóelőleg-kötelezettsége 50 százalékának kedvezményezett célra történő felajánlásáról.
 
 (2) Amennyiben az adózó az (1) bekezdés szerinti rendelkező nyilatkozatot nem tesz, vagy az (1) bekezdés szerint felajánlott és az adóhatóság által kedvezményezett célra átutalt összeg nem éri el az adózó által e törvény 24. §-a szerint fizetendő adó összegének 80 százalékát, az adózó
 
@@ -1299,7 +1321,7 @@ a felajánlás fogadására jogosult szervezetnek átutalja, feltéve, hogy telj
 
 (24) Az (1) bekezdés szerinti esetben, amennyiben az adózó az adóelőleg bevallás benyújtását követően az adózás rendjéről szóló törvény alapján az adóelőlege módosítását kéri, az állami adóhatóság – a módosítás jóváhagyása esetén – a (11), (12), (22), (25) bekezdés szerint átutalásra kerülő összeget a csökkentett összegű adóelőleggel arányosan mérsékli, vagy amennyiben az adózó számításai szerint adófizetési kötelezettsége várhatóan nem keletkezik, a rendelkező nyilatkozat szerinti átutalást nem teljesíti.
 
-(25) Az állami adó- és vámhatóság a (3) bekezdés c) pontja szerinti kedvezményezett célra történő felajánlás összegének a (9) bekezdésben foglalt kiegészítő sportfejlesztési támogatással csökkentett része 1 százalékának 1/3 részét a sportpolitikáért felelős miniszter által vezetett minisztérium által közzétett fizetési számlára, 2/3 részét az érintett országos sportági szakszövetség által közzétett fizetési számlára a (11) bekezdés szerint meghatározott határidőben átutalja. Az állami adó- és vámhatóság a Magyar Olimpiai Bizottság támogatása esetén a (3) bekezdés c) pontja szerinti kedvezményezett célra történő felajánlás összegének a (9) bekezdésben foglalt kiegészítő sportfejlesztési támogatással csökkentett része 1 százalékát a sportpolitikáért felelős miniszter által közzétett fizetési számlára utalja át
+(25) Az állami adó- és vámhatóság a (3) bekezdés c) pontja szerinti kedvezményezett célra történő felajánlás összegének a (9) bekezdésben foglalt kiegészítő sportfejlesztési támogatással csökkentett része 1 százalékának 1/3 részét a sportpolitikáért felelős miniszter által vezetett minisztérium által közzétett fizetési számlára, 2/3 részét az érintett országos sportági szakszövetség által közzétett fizetési számlára a (11) bekezdés szerint meghatározott határidőben átutalja. Az állami adó- és vámhatóság a Magyar Olimpiai Bizottság támogatása esetén a (3) bekezdés c) pontja szerinti kedvezményezett célra történő felajánlás összegének a (9) bekezdésben foglalt kiegészítő sportfejlesztési támogatással csökkentett része 1 százalékát a sportpolitikáért felelős miniszter által közzétett fizetési számlára utalja át.
 
 (26) Amennyiben az adóévre vonatkozóan a (11), (12), (22), (25) bekezdések szerint átutalt összeg meghaladja az e törvény 24. §-a szerinti fizetendő adóösszegének 80 százalékát, akkor a 80 százalékot meghaladó részt az (1)–(2) bekezdés szerinti rendelkező nyilatkozat megtétele adóévét követő adóév(ek)re felajánlott összegnek kell tekinteni, azzal, hogy az adózó a következő adóév(ek)ben az (1)–(2) bekezdés szerinti rendelkező nyilatkozatot ezen összeg teljes figyelembevételét követően tehet.
 
@@ -1355,7 +1377,7 @@ a felajánlás fogadására jogosult szervezetnek átutalja, feltéve, hogy telj
 
 (9)
 
-(10) A kettős könyvvitelt vezető belföldi illetőségű adózónak és a külföldi vállalkozónak az adóelőleget az adóévben az adóévi várható fizetendő adó összegére ki kell egészítenie, azzal, hogy a várható fizetendő adó – ha az adózó az Európai Uniótól és/vagy a költségvetésből támogatást kap – e támogatások miatt elszámolt adóévi bevételből az adóév utolsó hónapjának 15. napjáig meg nem kapott összeg figyelembe vétele nélkül számított adóalap alapján megállapított adó összegével azonos. E rendelkezés nem vonatkozik arra az adózóra, amelynek az adóévet megelőző adóévben az éves szinten számított árbevétele nem haladta meg a 100 millió forintot.
+(10) A kettős könyvvitelt vezető belföldi illetőségű adózónak és a külföldi vállalkozónak az adóelőleget az adóévben az adóévi várható fizetendő adó összegére ki kell egészítenie, azzal, hogy a várható fizetendő adó – ha az adózó az Európai Uniótól, illetve a költségvetésből támogatást kap – e támogatások miatt elszámolt adóévi bevételből az adóév utolsó hónapjának 15. napjáig meg nem kapott összeg figyelembevétele nélkül számított adóalap alapján megállapított adó összegével azonos. E rendelkezés nem vonatkozik arra az adózóra, amelynek az adóévet megelőző adóévben az éves szinten számított árbevétele nem haladta meg a 100 millió forintot.
 
 (11) Nem kell az (1)–(10) bekezdés rendelkezéseit alkalmaznia az adózónak megszűnésekor, valamint, ha adóbevallást a cégbejegyzési eljárás befejezése miatt ad be, továbbá az MRP-nek, a közhasznú nonprofit gazdasági társaságnak, a vízitársulatnak, az alapítványnak, a közalapítványnak, az egyesületnek, a köztestületnek, az egyházi jogi személynek, a lakásszövetkezetnek, a közhasznú szervezetként besorolt felsőoktatási intézménynek, az önkéntes kölcsönös biztosítópénztárnak, a szociális szövetkezetnek és az iskolaszövetkezetnek.
 
@@ -1539,11 +1561,23 @@ kell alkalmazni.
 
 e törvény 4. § 5/a. és 20. pontjának, 7. § (1) bekezdés c), e) és s) pontjának, (16) bekezdésének 2016. június 30-án hatályos szövege szerint meghatározott kedvezményt utoljára a 2021. június 30-ig lezáruló adóévi adóalapból veheti igénybe, figyelemmel a (30) és (31) bekezdésben foglaltakra.
 
-(30) A (29) bekezdés szerinti adózó a (29) bekezdés szerinti kedvezményt a 2016. június 30-ig szerzett, előállított, e törvény 2016. június 30-án hatályos 4. § 20. pontja szerinti jószág vagy a 2016. június 30-ig bejelentett immateriális jószág vonatkozásában alkalmazhatja.
+(30) A (29) bekezdés szerinti adózó a (29) bekezdés szerinti kedvezményt a 2016. június 30-ig szerzett, előállított, e törvény 2016. június 30-án hatályos 4. § 20. pontja szerinti jószág vagy a 2016. június 30-ig bejelentett immateriális jószág vonatkozásában alkalmazhatja abban az esetben is, ha az érintett jószággal kapcsolatban az adózónak 2016. június 30-át követően költsége, ráfordítása merül fel.
 
-(31) E törvény 2016. június 30-ig hatályos 7. § (1) bekezdés c), e) és s) pontja alapján az adózás előtti eredmény utoljára a 2016. december 31-ével végződő adóévben csökkenthető, ha az adózó 2016. január 1-je és 2016. június 30-a között kapcsolt vállalkozástól olyan, e törvény 2016. június 30-án hatályos 4. § 20. pontja szerinti jószágot szerzett be, amely nem jogosította a 7. § (1) bekezdés c), e), s) pontja szerinti vagy annak megfelelő kedvezményre a kapcsolt vállalkozást az átruházáskor.
+(31) A 2016. június 30-án hatályos 7. § (1) bekezdés c), e) és s) pontja alapján az adózás előtti eredmény utoljára a 2016. december 31-ével végződő adóévben csökkenthető a 2016. január 1-je és 2016. június 30-a között kapcsolt vállalkozástól beszerzett, a 2016. június 30-án hatályos 4. § 20. pontja szerinti jószágra tekintettel szerzett bevétel alapján, ha e jószág a kapcsolt vállalkozást nem jogosította a 7. § (1) bekezdés c), e), s) pontja szerinti vagy annak megfelelő kedvezményre az átruházáskor.
 
 (32) E törvénynek az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel megállapított 8. § (1) bekezdés c) és n) pontját kizárólag a 2016. június 30-át követően szerzett, előállított jogdíjra jogosító immateriális jószág vagy 2016. június 30-át követően bejelentett immateriális jószág vonatkozásában kell alkalmazni.
+
+(35) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel megállapított 18/A. § (5) bekezdését és 18/C. § (4a)–(4g) bekezdését a 2016. adóév vonatkozásában az adózó választása szerint alkalmazza.
+
+(36) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel módosított 22. § (1) bekezdés b) pontját első alkalommal a 2016. adóévi adózás előtti eredmény terhére nyújtott támogatásra (juttatásra) kell alkalmazni.
+
+(37) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel megállapított 22/C. § (3b) és (12) bekezdését első alkalommal a 2015–2016-os támogatási időszakra benyújtott sportfejlesztési programok támogatásával összefüggésben a 2016. adóévi adózás előtti eredmény terhére nyújtott támogatásra (juttatásra) kell alkalmazni.
+
+(38) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel megállapított 22/C. § (8) bekezdését az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvény hatálybalépésekor folyamatban lévő, 2013–2014-es támogatási időszaktól jóváhagyott sportfejlesztési programok megvalósítása során is alkalmazni kell.
+
+(39) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel módosított 29/ZS. § (1), (4), (10) bekezdés rendelkezései a 2015. évi és a 2016. évi adókötelezettség megállapításakor is alkalmazhatóak.
+
+(40) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel módosított 1. számú melléklet 5/b. pontja a 2016. évi adókötelezettség megállapításakor is alkalmazható.
 
 29/B. § (1) A tőkepiac stabilitásának erősítése érdekében tett egyes kárrendezési intézkedésekről szóló 2015. évi CCXIV. törvény (a továbbiakban: Kárrendezési Törvény) alapján a Kárrendezési Alap részére a Kárrendezési Törvény 11. § (1) bekezdése alapján befizetést teljesítő adózó által az adóévben, a Kárrendezési Törvény 11. § (2) bekezdésére figyelemmel megállapított, befizetett összeg (továbbiakban e §-ban: befizetés) csökkenti az adózó által fizetendő társasági adót, a fizetendő pénzügyi szervezetek különadóját vagy a fizetendő hitelintézeti különadót, a fizetendő pénzügyi tranzakciós illetéket.
 
@@ -1812,13 +1846,13 @@ az e törvény 2009. december 31-én hatályos 7. §-a (1) bekezdése ly) alpont
 
 (2) Az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvény 5. melléklet 2. pontjával megállapított 3. számú melléklet A) rész 16. pontját – a b) és c) alpontok kivételével – a 2014. évben kezdődő adóévi adókötelezettség megállapítása során is lehet alkalmazni.
 
-29/ZS. § (1) Ha a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire vonatkozó jogegységi határozatával kapcsolatos egyes kérdések rendezéséről szóló 2014. évi XXXVIII. törvény (a továbbiakban: 2014. évi XXXVIII. törvény) és a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire vonatkozó jogegységi határozatával kapcsolatos egyes kérdések rendezéséről szóló 2014. évi XXXVIII. törvényben rögzített elszámolás szabályairól és egyes egyéb rendelkezésekről szóló 2014. évi XL. törvény (a továbbiakban: elszámolási törvény, a 2014. évi XXXVIII. törvény és az elszámolási törvény együtt: Törvények) végrehajtása miatt – figyelemmel az elszámolási törvény 44. §-ában foglaltakra – a társasági adóban, társas vállalkozások különadójában, a helyi iparűzési adóban, az innovációs járulékban, a pénzügyi szervezetek különadójában a 2008–2014. adóévekre bevallott és megfizetett adó (a továbbiakban: összes bevallott adó) csökkentésének az adózás rendjéről szóló törvény szerinti önellenőrzés vagy ismételt ellenőrzés alkalmazásával azért lenne helye, mert az a számviteli beszámolóval lezárt 2008–2014. üzleti éveknek az említett adók alapját képező bevételeire, ráfordításaira és a 2009. üzleti év mérlegfőösszegére vonatkozna, akkor – önellenőrzés, ismételt ellenőrzés helyett – az adózó azzal az összeggel, amellyel a Törvények végrehajtása miatti önellenőrzés, ismételt ellenőrzés esetén az összes bevallott adót csökkentené (a továbbiakban e § alkalmazásában: különbözet), a 2015. adóévi fizetendő társasági adót csökkenti.
+29/ZS. § (1) Ha a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire vonatkozó jogegységi határozatával kapcsolatos egyes kérdések rendezéséről szóló 2014. évi XXXVIII. törvény (a továbbiakban: 2014. évi XXXVIII. törvény) és a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire vonatkozó jogegységi határozatával kapcsolatos egyes kérdések rendezéséről szóló 2014. évi XXXVIII. törvényben rögzített elszámolás szabályairól és egyes egyéb rendelkezésekről szóló 2014. évi XL. törvény (a továbbiakban: elszámolási törvény, a 2014. évi XXXVIII. törvény és az elszámolási törvény együtt: Törvények) végrehajtása miatt – figyelemmel az elszámolási törvény 44. §-ában és 5. § (1)–(2) bekezdésében foglaltakra – a társasági adóban, társas vállalkozások különadójában, a helyi iparűzési adóban, az innovációs járulékban, a pénzügyi szervezetek különadójában a 2008–2014. adóévekre bevallott és megfizetett adó (a továbbiakban: összes bevallott adó) csökkentésének az adózás rendjéről szóló törvény szerinti önellenőrzés vagy ismételt ellenőrzés alkalmazásával azért lenne helye, mert az a számviteli beszámolóval lezárt 2008–2014. üzleti éveknek az említett adók alapját képező bevételeire, ráfordításaira és a 2009. üzleti év mérlegfőösszegére vonatkozna, akkor – önellenőrzés, ismételt ellenőrzés helyett – az adózó azzal az összeggel, amellyel a Törvények végrehajtása miatti önellenőrzés, ismételt ellenőrzés esetén az összes bevallott adót csökkentené (a továbbiakban e § alkalmazásában: különbözet), a 2015. adóévi fizetendő társasági adót csökkenti.
 
 (2) Ha a különbözet összege több, mint a 2015. adóévi fizetendő társasági adó összege, akkor a fennmaradó különbözet a soron következő adóévek társasági adóját csökkenti, a 2015. adóévet követő adóévekben összesen legfeljebb a fennmaradó különbözet erejéig.
 
 (3) Az adóalany a 2015. adóévi társasági adóelőleg kiegészítésről tett bevallásban feltünteti, a 2015. adóévi társasági adóbevallásban bevallja az (1) bekezdésben említett adónként és adóévenként – a helyi iparűzési adó esetén azon településenként is, ahol az adóalanyt az adóévben helyi iparűzési adókötelezettség terhelte – a helyesbített adóalapot és adót, amelyeket egyébként az önellenőrzés esetén is kellene, illetve amelyeket ismételt ellenőrzés esetén a határozat tartalmazna.
 
-(4) Az elszámolási törvény 44. §-a szerint 2015. adóévben elszámolt rendkívüli ráfordítás a 8. § (1) bekezdés d) pontjának alkalmazásában a pénzügyi intézménynek minősülő adózónál nem a vállalkozási tevékenység érdekében felmerült ráfordításnak minősül.
+(4) Figyelemmel az (1) bekezdésre, az elszámolási törvény 44. §-a és 5. § (1)–(2) bekezdései alapján a 2004–2014 évekkel összefüggésben 2015. adóévben elszámolt rendkívüli ráfordítás a 8. § (1) bekezdés d) pontjának alkalmazásában a pénzügyi intézménynek minősülő adózónál nem a vállalkozási tevékenység érdekében felmerült ráfordításnak minősül.
 
 (5) Növeli az adózás előtti eredményt a pénzügyi intézménynél a Törvények végrehajtására tekintettel képzett bármely céltartalék, céltartalékot növelő összeg következtében elszámolt ráfordítás, feltéve, hogy azzal összefüggésben az adózó a 8. § (1) bekezdés a) pontja alapján nem növelte az adózás előtti eredményét.
 
@@ -1834,7 +1868,7 @@ az e törvény 2009. december 31-én hatályos 7. §-a (1) bekezdése ly) alpont
 
 (9) Az (5)–(6) bekezdést a 2014. adóévi adókötelezettség megállapítása során is alkalmazni kell.
 
-(10) Az elszámolási törvény 44. §-ának és az (1)–(8) bekezdés rendelkezéseit az elszámolási törvény hatálybalépésekor folyamatban lévő önellenőrzések esetében is alkalmazni kell.
+(10) Az elszámolási törvény 44. §-ának (figyelemmel az 5. § (1)–(2) bekezdéseire is) és az (1)–(8) bekezdés rendelkezéseit az elszámolási törvény hatálybalépésekor folyamatban lévő önellenőrzések esetében is alkalmazni kell.
 
 ### ZÁRÓ RENDELKEZÉSEK
 
@@ -1873,7 +1907,7 @@ az e törvény 2009. december 31-én hatályos 7. §-a (1) bekezdése ly) alpont
   - bb) időtartamát,
 - c) az előadó-művészeti szervezetnek a támogatás felhasználása során elszámolható költségei körét,
 - d) a támogatáshalmozódás szabályait,
-- e) a nem rendeltetésszerűen felhasznált támogatás visszafizetésének szabályait,
+- e) a fel nem használt, valamint a nem rendeltetésszerűen felhasznált támogatás visszafizetésének szabályait,
 - f) a támogatás felhasználásáról készült beszámoló formai és tartalmi követelményeit, a beszámoló benyújtásával és elfogadásával kapcsolatos részletes szabályokat,
 - g) a 22. § (4) bekezdése szerinti támogatási igazolás és a 24/A. §-a szerinti igazolás
   - ga) iránti kérelem tartalmát,
@@ -1883,6 +1917,10 @@ az e törvény 2009. december 31-én hatályos 7. §-a (1) bekezdése ly) alpont
 - i) a 22. § (1) bekezdése szerinti kiegészítő támogatás megfizetésének részletes szabályait
 
 rendeletben állapítsa meg.
+
+(12) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a korai fázisú vállalkozásként történő minősítés feltételeit, a korai fázisú vállalkozásokat támogató vállalkozásokra vonatkozó követelményeket, a korai fázisú vállalkozások és a korai fázisú vállalkozásokat támogató vállalkozások nyilvántartásba vételével kapcsolatos eljárást, a korai fázisú vállalkozásnak, a korai fázisú vállalkozásokat támogató vállalkozásnak minősülés igazolásának részletes feltételeit.
+
+(13) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza az energiahatékonysági célokat szolgáló beruházások adókedvezménye igénylésének, igénybevételének, az energiahatékonysági célokat szolgáló beruházási minőség igazolásának, az adózó nyilvántartási és adatszolgáltatási kötelezettségének részletes feltételeit.
 
 ### Jogharmonizációs záradék
 
@@ -1933,7 +1971,7 @@ hatálya alá tartozó támogatást tartalmaz.
 - 4. Nem számolható el értékcsökkenési leírás azon eszközre, amelyre a számvitelről szóló törvény szerint nem számolható el terv szerinti értékcsökkenés, vagy nem szabad elszámolni terv szerinti értékcsökkenést. Nem kell e rendelkezést figyelembe venni a nulla vagy – a terv szerinti értékcsökkenés elszámolása következtében – a maradványértéknek megfelelő könyv szerinti értékű eszköznél, valamint ha az adózó az eszközre e törvény külön rendelkezése alapján érvényesíti a számvitelről szóló törvény alapján megállapított terven felüli értékcsökkenést, továbbá az épületnél, építménynél. Ha a tárgyi eszközhöz telek is tartozik, a telek bekerülési értékét el kell különíteni.
 - 5. A számvitelről szóló törvény szerint megállapított terv szerinti értékcsökkenés (ideértve az egy összegben elszámolt értékcsökkenési leírást is) érvényesíthető
   - a) immateriális javaknál (kivéve az üzleti vagy cégértéket) és az ingatlanhoz kapcsolódó vagyoni értékű jogoknál,
-  - b) a koncesszió keretében megvalósult tárgyi eszközöknél,
+  - b) a koncesszió keretében megvalósult tárgyi eszközöknél, valamint a közfeladatot ellátó víziközmű-szolgáltató által vagyonkezelési jogviszony keretében üzemeltetett és az alaptevékenység ellátásához szükséges tárgyi eszközöknél,
   - c) az ipari park közműnek minősülő – út, víz- és csatornaellátás, energiaellátás, távközlés célját szolgáló – tárgyi eszközeinél,
   - d) a bányászatban a kizárólag egy bánya célját szolgáló épületek, építmények, speciális gépek, berendezések, felszerelések, a föld alatti bányatérségek és építmények, valamint az ezekhez tartozó speciális gépek és az igénybe vett földterület esetében, valamint a villamosenergia-iparban az atomerőművi technológiai épületek, építmények,
   - e) a legfeljebb kétszázezer forint bekerülési értékű, valamint a 2. számú melléklet IV. fejezetének a) pontja szerinti 33 százalékos kulcs alá sorolt tárgyi eszközök esetében,
@@ -1941,7 +1979,7 @@ hatálya alá tartozó támogatást tartalmaz.
   - g) a kizárólag alapkutatáshoz, alkalmazott kutatáshoz vagy kísérleti fejlesztéshez használt tárgyi eszköz esetében,
   - h) a közúti személyszállításhoz használt járműveknél.
 - 5/a. Az adózó választhat a mellékletben meghatározott értékcsökkenési leírási kulcsoknál alacsonyabb leírási kulcsokat, azonban az így érvényesített értékcsökkenés nem lehet kevesebb, mint a számvitelről szóló törvény szerint elszámolt terv szerinti értékcsökkenés.
-- 5/b. A számvitelről szóló törvény 3. § (5) bekezdés 1. pontja szerinti üzleti vagy cégérték után 10 százalék értékcsökkenési leírást érvényesíthet az adózó feltéve, hogy adóbevallásában nyilatkozik arról, hogy az üzleti vagy cégérték kimutatásának, kivezetésének körülményei megfelelnek a rendeltetésszerű joggyakorlás elvének.
+- 5/b. A számvitelről szóló törvény 3. § (5) bekezdés 1. pontja és 177. § (50) bekezdése szerinti üzleti vagy cégérték után 10 százalék értékcsökkenési leírást érvényesíthet az adózó feltéve, hogy adóbevallásában nyilatkozik arról, hogy az üzleti vagy cégérték kimutatásának, kivezetésének körülményei megfelelnek a rendeltetésszerű joggyakorlás elvének.
 - 6. Az 1995. december 31-e után az adózó vagy jogelődje által üzembe helyezett, más által korábban még használatba nem vett, a HR 8401, 8405–8408, 8410–8430, 8432–8447, 8449–8465, 8467, 8468, 8474–8485, 8508, 8515, 8701, 8709, 8716 vtsz.-ok alá tartozó gépek, gépi berendezések, a HR 8501, 8502, 8504–8507, 8511–8513, 8530, 8531, 8535–8537, 8539, 8543–8548, 9006, 9405 vtsz.-ok alá tartozó villamos készülékek, a HR 8403 vtsz. alá tartozó kazán és a HR 8402 vtsz. alá tartozó gőzfejlesztő berendezés esetében évi 30 százalék értékcsökkenési leírás érvényesíthető.
 - 7. A bérbeadó eszközei között kimutatott, bérbe adott épület, építmény és ültetvény esetében 5 százalék, minden egyéb bérbe adott tárgyi eszköz után 30 százalék értékcsökkenési leírást érvényesíthet a bérbeadó.
 - 7/a. A teljes adóévben a szálláshely szolgáltatás és vendéglátás ágba sorolt adózó a tárgyi eszközei között kimutatott és e tevékenységet közvetlenül szolgáló, hosszú élettartamú szerkezetű épület után 3 százalék értékcsökkenési leírást érvényesíthet.

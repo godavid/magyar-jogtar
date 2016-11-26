@@ -2058,7 +2058,7 @@ számlakibocsátási kötelezettséget jelent.
 
 (2) Az elektronikus számla 168/A. § (1) bekezdésében említett eredetének hitelességére és adattartalmának sértetlenségére vonatkozó követelményeknek történő megfelelése úgy is biztosítható, ha az elektronikus számlát
 
-- a) az elektronikus aláírásról szóló törvény rendelkezései szerinti minősített elektronikus aláírással látják el; vagy
+- a) minősített elektronikus aláírással látják el; vagy
 - b) az elektronikus adatcsererendszerben (a továbbiakban: EDI) elektronikus adatként hozzák létre és továbbítják.
 
 (3) Az elektronikus számla alkalmazásának feltétele
@@ -3410,6 +3410,13 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
 302. § E törvénynek az uniós vámjog végrehajtásáról szóló 2016. évi XIII. törvénnyel megállapított 4. számú melléklet 2. pont a) alpontját a 2016. április 30-át követően benyújtott kérelmek esetén kell alkalmazni.
 
 303. § E törvénynek az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel (a továbbiakban: Mód6 törvény) megállapított 8/A. számú melléklet 3. pontja szerinti államban letelepedett adóalanyok tekintetében a XVIII. Fejezet szerinti adó-visszatérítést azon ügyletek esetén kell először alkalmazni, amelyek teljesítési időpontja 2014. január 1. napjára esik vagy azt követi. E törvénynek a Mód6 törvénnyel megállapított 8/A. számú melléklet 3. pontja szerinti államban letelepedett adóalanyok a 2014. évre vonatkozó adó-visszatéríttetési kérelmeiket e törvény 251/C. § (1) bekezdésétől eltérően 2016. szeptember 30. napjáig nyújthatják be az állami adóhatósághoz.
+
+310. § (1) Az adóalany – az egyéb törvényi feltételek fennállása esetén – az alanyi adómentességet 2017. naptári évre abban az esetben választhatja, ha az adóalany 2. § a) pontja szerinti összes termékértékesítése, szolgáltatásnyújtása fejében megtérített vagy megtérítendő ellenértéknek – forintban kifejezett és éves szinten göngyölített – összege
+
+- a) sem a 2016. naptári évben ténylegesen,
+- b) sem a 2017. naptári évben észszerűen várhatóan, illetve ténylegesen nem haladja meg a 8 000 000 forintnak megfelelő pénzösszeget.
+
+(2) Az (1) bekezdésben foglalt feltételek fennállása esetén az adóalany az alanyi adómentességet 2017. naptári évre abban az esetben is választhatja, ha a 191. § (3) bekezdésében rögzített időtartam még nem telt el.
 
 ### 1. számú melléklet a 2007. évi CXXVII. törvényhez
 

@@ -335,7 +335,7 @@ azzal, hogy nem minősül versengő szolgáltatásnak a kézizálog fedezete mel
 - c) Tpt.-ben meghatározott feltételekkel értékpapír-kölcsönzést, részvényesi meghatalmazotti (nominee) tevékenységet, Bszt.-ben meghatározott feltételekkel befektetési szolgáltatási tevékenységet, befektetési szolgáltatási tevékenységet kiegészítő szolgáltatást, valamint a Bszt. 111–116. §-a szerinti közvetítői tevékenységet és árutőzsdei szolgáltató által végezhető tevékenységet,
 - d) aranykereskedelmi ügyletet,
 - e) részvénykönyvvezetést,
-- f) az elektronikus aláírásról szóló 2001. évi XXXV. törvény 6. § (1) bekezdésében foglalt szolgáltatást,
+- f) bizalmi szolgáltatást,
 - g) a hallgatói hitelrendszerről szóló kormányrendeletben meghatározott Diákhitel szervezet hitelezési tevékenységének elősegítése érdekében végzett tevékenységet,
 - h) az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény (a továbbiakban: Öpt.) 11/A. §-ában foglalt feltételekkel tagszervezési tevékenységet,
 - i) a pénzügyi szolgáltatásból származó veszteség mérséklése, illetve elhárítása érdekében fedezet, illetve biztosíték hasznosítására vagy az értékesítésben való közreműködésre irányuló tevékenységet,

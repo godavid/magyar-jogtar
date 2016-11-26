@@ -478,7 +478,7 @@ a bírósági végrehajtásról
 
 (2) A végrehajtó a kérelem teljesítése előtt a 47/A. § szerint ellenőrzi a személyazonosság és a lakóhely igazolására szolgáló személyazonosító okmány száma alapján annak érvényességét és adatainak valódiságát. Ha a fél nem szolgáltatja az (1) bekezdésben meghatározott adatokat, vagy a személyazonosságával kapcsolatban kétség merül fel, a végrehajtó a kérelem teljesítését megtagadja.
 
-(3) A kézbesítési rendszer használatához szükséges, hogy a felhasználó rendelkezzen a legalább az elektronikus aláírásról szóló törvény szerinti fokozott biztonságú aláírás létrehozásra képes aláírást létrehozó eszközzel, időbélyegzővel, továbbá titkosító és hitelesítési tanúsítvánnyal.
+(3) A kézbesítési rendszer használatához szükséges, hogy a felhasználó rendelkezzen a legalább fokozott biztonságú aláírás létrehozásra képes aláírást létrehozó eszközzel, időbélyegző-szolgáltatásra vonatkozó szerződéssel, továbbá titkosító és hitelesítési tanúsítvánnyal.
 
 (4) A fél köteles az (1) bekezdésben meghatározott adataiban bekövetkezett változást haladéktalanul bejelenteni.
 
@@ -693,7 +693,7 @@ ellenőrzése céljából megkeresheti a személyiadat- és lakcímnyilvántart�
 
 (6) Az adatigénylés iránti megkeresésre a 47. § (4) bekezdésében, a megkeresés teljesítésének díjkötelezettségére a 47. § (3) bekezdésében, az ellenőrzés során beszerzett adatok kezelésére pedig a 47. § (5) bekezdésében foglalt rendelkezéseket kell alkalmazni.
 
-(7) A nyilvántartást vezető hatóság az adatigénylés iránti megkeresés teljesítése előtt ellenőrzi a végrehajtó hivatali elektronikus aláírásához tartozó tanúsítvány érvényességét; a megkeresés teljesítését megtagadja, ha a tanúsítvány érvényességét a hitelesítés-szolgáltató felfüggesztette vagy a tanúsítványt visszavonta.
+(7) A nyilvántartást vezető hatóság az adatigénylés iránti megkeresés teljesítése előtt ellenőrzi a végrehajtó hivatali elektronikus aláírásához tartozó tanúsítvány érvényességét; a megkeresés teljesítését megtagadja, ha a tanúsítvány érvényességét a bizalmi szolgáltató felfüggesztette vagy a tanúsítványt visszavonta.
 
 (8) A végrehajtó a nyilvántartásnak az ellenőrzés során megismert, elektronikus formában lévő adatairól papír alapú másolatot készíthet, melyet a végrehajtási ügy iratai között zártan helyez el, és azt csak a bíróság, az ügyész, a büntetőügyben eljáró hatóság, valamint a végrehajtó tevékenységének ellenőrzésére a 230. § szerint jogosult Igazságügyi Hivatal részére adhatja ki, és részükre teheti lehetővé az adatokba történő betekintést. Az adatokat tartalmazó iratokat a végrehajtó a végrehajtási iratok irattárba helyezésétől számított öt évig tárolja, azt követően gondoskodik a megsemmisítésükről.
 
@@ -846,12 +846,12 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 57/A. § (1) A végrehajtó hivatali elektronikus aláírásaként – ha jogszabály a végrehajtó számára az elektronikus aláírás használatát előírja – csak olyan minősített elektronikus aláírás használható, amely megfelel a következő feltételeknek:
 
-- a) az elektronikus aláíráshoz tartozó tanúsítványban a hitelesítés-szolgáltató feltüntette, hogy az aláíró önálló bírósági végrehajtó, törvényszéki végrehajtó, önálló bírósági végrehajtó-helyettes vagy megyei bírósági végrehajtó-helyettes;
-- b) a hitelesítés-szolgáltató biztosítja, hogy a tanúsítvánnyal kapcsolatos érvényes visszavonási kérelem alapján a módosított visszavonási állapotot legfeljebb 3 percen belül közzéteszi a nyilvántartásában, és a tanúsítvány ellenőrzését kérő felhasználóknak a tanúsítvány visszavonási állapotáról folyamatos tájékoztatást ad.
+- a) az elektronikus aláíráshoz tartozó tanúsítványban a bizalmi szolgáltató feltüntette, hogy az aláíró önálló bírósági végrehajtó, törvényszéki végrehajtó, önálló bírósági végrehajtó-helyettes vagy megyei bírósági végrehajtó-helyettes;
+- b) a bizalmi szolgáltató biztosítja, hogy a tanúsítvánnyal kapcsolatos érvényes visszavonási kérelem alapján a módosított visszavonási állapotot legfeljebb 3 percen belül közzéteszi a nyilvántartásában, és a tanúsítvány ellenőrzését kérő felhasználóknak a tanúsítvány visszavonási állapotáról folyamatos tájékoztatást ad.
 
 (2) A törvényszéki végrehajtó és törvényszéki végrehajtó-helyettes hivatali elektronikus aláírására az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény 35/A. §-át kell alkalmazni; az önálló bírósági végrehajtó és önálló bírósági végrehajtó-helyettes részére pedig a Kar hivatali szerve rendszeresít hivatali elektronikus aláírást.
 
-(3) Az önálló bírósági végrehajtó és önálló bírósági végrehajtó-helyettes az elektronikus aláírásról szóló 2001. évi XXXV. törvény 13. §-a szerinti tájékoztatási kötelezettségének teljesítéséről a tájékoztatással egyidejűleg értesíti a Kar hivatali szervét is.
+(3) Az önálló bírósági végrehajtó és önálló bírósági végrehajtó-helyettes az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) 85. § (1) bekezdése és 97. § (4) bekezdése szerinti tájékoztatási kötelezettségének teljesítéséről a tájékoztatással egyidejűleg értesíti a Kar hivatali szervét is.
 
 (4) Az önálló bírósági végrehajtó és önálló bírósági végrehajtó-helyettes nem használhatja az elektronikus aláírást, ha
 
@@ -860,9 +860,9 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 - c) önálló bírósági végrehajtói szolgálatát szünetelteti,
 - d) az aláírás-létrehozó adat elvesztéséről vagy arról szerzett tudomást, hogy az aláírás létrehozására illetéktelen személy vált képessé.
 
-(5) A Kar hivatali szerve a (4) bekezdés a)–c) pontjában, az önálló bírósági végrehajtó és önálló bírósági végrehajtó-helyettes a d) pontjában foglalt esetben kezdeményezi a hitelesítés-szolgáltatónál az elektronikus aláíráshoz tartozó tanúsítvány érvényességének felfüggesztését, illetve visszavonását.
+(5) A Kar hivatali szerve a (4) bekezdés a)–c) pontjában, az önálló bírósági végrehajtó és önálló bírósági végrehajtó-helyettes a d) pontjában foglalt esetben kezdeményezi a bizalmi szolgáltatónál az elektronikus aláíráshoz tartozó tanúsítvány érvényességének felfüggesztését, illetve visszavonását.
 
-(6) A hitelesítés-szolgáltató az elektronikus aláíráshoz tartozó tanúsítvány érvényességét a Kar hivatali szerve megkeresésére haladéktalanul felfüggeszti, illetve a tanúsítványt visszavonja.
+(6) A bizalmi szolgáltató az elektronikus aláíráshoz tartozó tanúsítvány érvényességét a Kar hivatali szerve megkeresésére haladéktalanul felfüggeszti, illetve a tanúsítványt visszavonja.
 
 ## MÁSODIK RÉSZ — PÉNZKÖVETELÉS VÉGREHAJTÁSA
 

@@ -1158,13 +1158,13 @@ megállapítása iránti per
 
 (5) Ha a kérelmező vagy a cég, amellyel szemben a törvényességi felügyeleti eljárás folyik, jogi képviselővel jár el, kérelmét kizárólag elektronikus úton nyújthatja be. A jogi képviselő eljárására a 36. § (2) bekezdése és a 37. § megfelelően irányadó.
 
-(6) A 77. § (1) bekezdés a) és b) pontja szerinti kérelmező elektronikus kapcsolattartása során a kérelmet szervezeti aláírásával és időbélyegzővel is elláthatja, egyéb esetben a kérelmet minősített elektronikus aláírással és időbélyegzővel kell ellátni.
+(6) A 77. § (1) bekezdés a) és b) pontja szerinti kérelmező elektronikus kapcsolattartása során a kérelmet elektronikus bélyegzőjével és időbélyegzővel is elláthatja, egyéb esetben a kérelmet minősített elektronikus aláírással és időbélyegzővel kell ellátni.
 
 72/B. § (1) A céginformációs szolgálat a 38. § megfelelő alkalmazásával az elektronikus kérelmet informatikai és formai szempontból megvizsgálja és a kérelem cégbírósághoz történő továbbításáról vagy a kérelem hibájáról a benyújtót tájékoztatja.
 
 (2) A cégbíróság a törvényességi felügyeleti eljárásban az elektronikus úton kézbesítendő végzést a 36. § (2) bekezdése szerinti elektronikus aláírással és időbélyegzővel látja el, és a 39/A. § szerint kézbesíti.
 
-(3) Elektronikus kommunikáció esetén a cégbíróság az ügy valamennyi iratát elektronikus okirati formában tartja nyilván. A papír alapú iratokat a cégbíróság a papír alapú cégiratok elektronikus okirati formában történő másolatkiadási eljárásának megfelelően [17. § (2) bekezdés] elektronikus okirattá alakítja és azt szervezeti aláírásával látja el. Ettől csak abban az esetben lehet eltérni, ha az okirat elektronikus okirattá történő átalakítása annak terjedelme vagy formája miatt aránytalan nehézséggel járna. A papír alapú iratra ebben az esetben az elektronikus aktában utalni kell.
+(3) Elektronikus kommunikáció esetén a cégbíróság az ügy valamennyi iratát elektronikus okirati formában tartja nyilván. A papír alapú iratokat a cégbíróság a papír alapú cégiratok elektronikus okirati formában történő másolatkiadási eljárásának megfelelően [17. § (2) bekezdés] elektronikus okirattá alakítja és azt elektronikus bélyegzőjével látja el. Ettől csak abban az esetben lehet eltérni, ha az okirat elektronikus okirattá történő átalakítása annak terjedelme vagy formája miatt aránytalan nehézséggel járna. A papír alapú iratra ebben az esetben az elektronikus aktában utalni kell.
 
 73. § (1) E törvénynek a törvényességi felügyeletre vonatkozó rendelkezései az egyes cégformák esetében abban az esetben is irányadók, ha az adott cégre vonatkozó anyagi jogi szabályok a törvényességi felügyelet jogintézményéről nem rendelkeznek.
 
