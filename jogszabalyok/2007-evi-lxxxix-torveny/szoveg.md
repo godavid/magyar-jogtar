@@ -18,7 +18,7 @@ az államhatárról
 
 2. § E törvény alkalmazásában:
 
-- a) határátkelőhely: a személyek határátlépésére irányadó szabályok közösségi kódexének létrehozásáról szóló 562/2006/EK rendelet (a továbbiakban: Közösségi Kódex) 2. cikk 8. pontjában meghatározott fogalom,
+- a) határátkelőhely: a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet (a továbbiakban: Schengeni határ-ellenőrzési kódex) 2. cikk 8. pontjában meghatározott fogalom,
 - b) a határátkelőhely üzemeltetője: jogszabály eltérő rendelkezése hiányában a határátkelőhely ingatlan tulajdonosa, illetve szerződés vagy más jogcím alapján a határátkelőhely üzemben tartója,
 - c) határátlépési pont: személyforgalmat lebonyolító, határátkelőhelynek nem minősülő hely, amelyen az államhatáron átnyúló vagy annak közvetlen közelében levő területen található műemlék, természeti érték vagy más turisztikai látványosság megtekintése vagy rendezvény látogatása céljából lehet az államhatárt átlépni,
 - d) szomszédos állam: az az állam, amelynek államhatára Magyarország államhatárával részben megegyezik.
@@ -41,9 +41,9 @@ az államhatárról
 - a) amelynek a határvonallal megegyező határa, határszakasza van, vagy
 - b) amelyen határjelet helyeztek el. Az e tevékenységgel összefüggésben okozott kárért a Rendőrség, illetve a földmérési és térképészeti állami alapfeladatokat ellátó szervezet a polgári jog fokozott veszéllyel járó tevékenység folytatásáért viselt felelősségre vonatkozó szabályai szerint felel.
 
-5. § (1) Magyarország területének a Közösségi Kódex 2. cikk 2. pontjának megfelelő külső határ szerinti határvonaltól, illetve a határjeltől számított 60 méteres sávja az államhatár rendjének védelmét biztosító létesítmények – ideértve a 15/A. § szerinti létesítményeket is – építése, telepítése és üzemeltetése, valamint a honvédelmi, nemzetbiztonsági, katasztrófavédelmi, határőrizeti, menekültügyi és idegenrendészeti feladatok ellátása céljából e törvény szerint igénybe vehető.
+5. § (1) Magyarország területének a Schengeni határ-ellenőrzési kódex 2. cikk 2. pontjának megfelelő külső határ szerinti határvonaltól, illetve a határjeltől számított 60 méteres sávja az államhatár rendjének védelmét biztosító létesítmények – ideértve a 15/A. § szerinti létesítményeket is – építése, telepítése és üzemeltetése, valamint a honvédelmi, nemzetbiztonsági, katasztrófavédelmi, határőrizeti, menekültügyi és idegenrendészeti feladatok ellátása céljából e törvény szerint igénybe vehető.
 
-(1a) A rendőr Magyarország területének a Közösségi Kódex 2. cikk 2. pontjának megfelelő külső határ szerinti határvonaltól, illetve a határjeltől számított 8 km-es sávon belül feltartóztathatja a Magyarország területén jogellenesen tartózkodó külföldit, és az (1) bekezdés szerinti létesítmény legközelebbi kapuján átkísérheti, kivéve, ha bűncselekmény elkövetésének gyanúja merül fel.
+(1a) A rendőr Magyarország területének a Schengeni határ-ellenőrzési kódex 2. cikk 2. pontjának megfelelő külső határ szerinti határvonaltól, illetve a határjeltől számított 8 km-es sávon belül feltartóztathatja a Magyarország területén jogellenesen tartózkodó külföldit, és az (1) bekezdés szerinti létesítmény legközelebbi kapuján átkísérheti, kivéve, ha bűncselekmény elkövetésének gyanúja merül fel.
 
 (2) Az (1) bekezdés szerinti területen található ingatlan (a továbbiakban: ingatlan) tekintetében e törvény erejénél fogva az államot az (1) bekezdés szerinti feladatok ellátása céljából határozatlan időre szóló közérdekű használati jog illeti meg.
 
@@ -56,7 +56,7 @@ az államhatárról
 
 (5) A közérdekű használati jog ingatlan-nyilvántartásba történő bejegyzését az általános rendőrségi feladatok ellátására létrehozott szerv kezdeményezi. A közérdekű használati jog bejegyzését elrendelő határozat ellen közigazgatási úton fellebbezésnek helye nincs.
 
-(6) A közérdekű használati jog ingatlan-nyilvántartásból történő törlését az általános rendőrségi feladatok ellátására létrehozott szerv kezdeményezi, ha a közérdekű használati jog az ingatlanon azért szűnik meg, mert az államhatár (1) bekezdés szerinti szakasza a Közösségi Kódex 2. cikk 1. pontja szerinti belső határnak minősül.
+(6) A közérdekű használati jog ingatlan-nyilvántartásból történő törlését az általános rendőrségi feladatok ellátására létrehozott szerv kezdeményezi, ha a közérdekű használati jog az ingatlanon azért szűnik meg, mert az államhatár (1) bekezdés szerinti szakasza a Schengeni határ-ellenőrzési kódex 2. cikk 1. pontja szerinti belső határnak minősül.
 
 5/A. § (1) Az ingatlan tulajdonosát az 5. § (3) bekezdése szerinti korlátozás mértékének megfelelő kártalanítás illeti meg. A kártalanítás az ingatlan tulajdonosát
 
@@ -92,7 +92,7 @@ illeti meg.
 
 (2) Nemzetközi szerződés eltérő rendelkezése hiányában a vízen közlekedő jármű vagy más úszólétesítmény a határvízen való áthaladás közben – a kényszerkikötés kivételével – a határvíz partján nem köthet ki, arra fel- vagy arról leszállni, illetve arról dolgot levenni vagy feltenni nem szabad.
 
-(3) A (2) bekezdésben foglalt tilalom – a magyar vagy a szomszédos állam illetékes hatóságának eltérő rendelkezése hiányában – nem vonatkozik a Közösségi Kódex 2. cikk 1. pontjában meghatározott belső határon (a továbbiakban: belső határ) lévő határvízen közlekedő vízi járműre.
+(3) A (2) bekezdésben foglalt tilalom – a magyar vagy a szomszédos állam illetékes hatóságának eltérő rendelkezése hiányában – nem vonatkozik a Schengeni határ-ellenőrzési kódex 2. cikk 1. pontjában meghatározott belső határon (a továbbiakban: belső határ) lévő határvízen közlekedő vízi járműre.
 
 (4) Ha nemzetközi szerződés lehetővé teszi, akkor a Rendőrség – a nemzetközi és a belső határon lévő vízi út kivételével – engedélyezi a szomszédos állam illetékes szerveivel együttműködve:
 
@@ -130,7 +130,7 @@ az (1) bekezdésben foglaltak szerint kell kiadni.
 
 (4) Az (1) bekezdésben foglalt rendelkezések a belső határon nem alkalmazhatók.
 
-13. § A belső határon a határátlépés ellenőrzésének ideiglenes visszaállítását – a Közösségi Kódex 25. cikkében megjelölt valamely feltétel kivételével – a Kormány rendeletben hirdeti ki. A Közösségi Kódex 25. cikkében megjelölt valamely feltétel fennállása esetén, a belső határon a határátlépés ellenőrzésének azonnali visszaállítását a határrendészetért felelős miniszter rendeletével hirdeti ki.
+13. § A belső határon a határátlépés ellenőrzésének ideiglenes visszaállítását – a Schengeni határ-ellenőrzési kódex 28. cikkében megjelölt valamely feltétel kivételével – a Kormány rendeletben hirdeti ki. A Schengeni határ-ellenőrzési kódex 28. cikkében megjelölt valamely feltétel fennállása esetén, a belső határon a határátlépés ellenőrzésének azonnali visszaállítását a határrendészetért felelős miniszter rendeletével hirdeti ki.
 
 ### Határátkelőhely, határátlépési pont megnyitása, megszüntetése, működésének szüneteltetése
 
@@ -182,7 +182,7 @@ az (1) bekezdésben foglaltak szerint kell kiadni.
 - a) nemzetbiztonsági érdekből a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel és a polgári hírszerzési tevékenység irányításáért felelős miniszterrel egyetértésben
 - b) járványveszély megelőzése érdekében vagy az Egészségügyi Világszervezet 2009. évi XCI. törvénnyel kihirdetett Nemzetközi Egészségügyi Rendszabályainak végrehajtása érdekében nemzetközi horderejű közegészségügyi- járványügyi szükséghelyzet, illetőleg a közegészségügyi-járványügyi kockázat kezelése, elhárítása érdekében – ezek jellegétől függően – az egészségügyért felelős miniszterrel vagy az élelmiszerlánc- felügyeletért felelős miniszterrel egyetértésben rendeletében részleges határzárat rendelhet el.
 
-(9) Felhatalmazást kap a határrendészetért felelős miniszter, hogy a belső határon – a Közösségi Kódex 25. cikkében megjelölt valamely feltétel fennállása esetén – a határátlépés ellenőrzésének azonnali visszaállítását rendeletben hirdesse ki.
+(9) Felhatalmazást kap a határrendészetért felelős miniszter, hogy a belső határon – a Schengeni határ-ellenőrzési kódex 28. cikkében megjelölt valamely feltétel fennállása esetén – a határátlépés ellenőrzésének azonnali visszaállítását rendeletben hirdesse ki.
 
 17. § (1) A földmérési és térképészeti tevékenységről szóló 1996. évi LXXVI. törvény (a továbbiakban: Ftt.) 13. § (4) bekezdése helyébe a következő rendelkezés lép:
 

@@ -245,7 +245,7 @@ terjed ki.
 
 (3) Az (5) bekezdésben foglaltak kivételével írásbelinek kell tekinteni a jognyilatkozatot, ha annak közlése a jognyilatkozatban foglalt információ változatlan visszaidézésére, a nyilatkozattevő személyének és a jognyilatkozat megtétele időpontjának azonosítására alkalmas elektronikus dokumentumban (a továbbiakban: elektronikus dokumentum) kerül sor.
 
-(4) A nyilatkozatevő személyének (3) bekezdés szerinti azonosításához nem szükséges a nyilatkozattevő elektronikus aláírásról szóló törvény szerinti elektronikus aláírása vagy minősített elektronikus aláírása.
+(4) A nyilatkozatevő személyének (3) bekezdés szerinti azonosításához nem szükséges a nyilatkozattevő elektronikus aláírása vagy minősített elektronikus aláírása.
 
 (5) A kinevezés és annak elfogadása, a kinevezés módosítása, a közszolgálat megszüntetésével kapcsolatos jognyilatkozat, a fegyelmi, kártérítési ügyben hozott határozat, a sérelemdíj megfizetése ügyében hozott határozat, az összeférhetetlenség megszüntetésére irányuló felszólítás és a fizetési felszólítás a munkáltatói jogkör gyakorlója részéről elektronikusan legalább fokozott biztonságú elektronikus aláírással kiadmányozható.
 
@@ -2903,7 +2903,7 @@ kapcsolatos ügyekben. A Kormánytisztviselői Döntőbizottság döntésével s
 
 (6) A munkáltatói jogkör gyakorlójának mérlegelési jogkörébe tartozó döntése ellen a kormánytisztviselő a Kormánytisztviselői Döntőbizottsághoz, illetve a bírósághoz akkor fordulhat, ha e törvény megengedi.
 
-(7) A közszolgálati panasz, illetve a keresetlevél beadására megállapított határidőt megtartottnak kell tekinteni, ha a Kormánytisztviselői Döntőbizottsághoz intézett közszolgálati panaszt, illetve a bírósághoz intézett keresetlevelet legkésőbb a határidő utolsó napján postára adták. Ha a fél a közszolgálati panasz, illetve a keresetlevél beadására megállapított határidőt elmulasztja, igazolással élhet. Az igény hat hónap elteltével nem érvényesíthető.
+(7) A közszolgálati panasz, illetve a keresetlevél beadására megállapított határidőt megtartottnak kell tekinteni, ha a Kormánytisztviselői Döntőbizottsághoz intézett közszolgálati panaszt, illetve a bírósághoz intézett keresetlevelet legkésőbb a határidő utolsó napján megküldték. Ha a fél a közszolgálati panasz, illetve a keresetlevél beadására megállapított határidőt elmulasztja, igazolással élhet. Az igény hat hónap elteltével nem érvényesíthető.
 
 (8) A (2) bekezdés b) és c) pontjában, valamint a (3) bekezdés b) pontjában foglalt esetben a sérelmezett intézkedés, továbbá a fegyelmi és kártérítési ügyben hozott határozat – kivéve a hivatalvesztés fegyelmi büntetést kiszabó fegyelmi határozatot – a bíróság jogerős döntéséig nem hajtható végre.
 

@@ -1630,7 +1630,7 @@ részére.
 
 (3a) A rendőrség (3) bekezdésben meghatározott nyilvántartásából a (2) bekezdésben meghatározott adatokat a Terrorelhárítási Információs és Bűnügyi Elemző Központ – a terrorizmussal vagy a szervezett bűnözéssel összefüggő bűncselekmény elkövetésének lehetséges gyanúja esetén és az utasadatok kockázatelemzésére vonatkozó törvényi feltételek teljesülése esetén – a konkrét cél megjelölésével átveheti.
 
-(4) A hajó kapitánya vagy annak hiányában a hajótulajdonost a hajó felszerelésére vonatkozó kötelességével kapcsolatos minden ügyben képviselő személy vagy társasága a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i, 562/2006/EK európai parlamenti és tanácsi rendelet VI. melléklete 3.1.2. és 4.3. pontja szerinti előzetes tájékoztatást ad a rendőrségnek a vízi közlekedésben részt vevő azon utasok (6) bekezdésben meghatározott adatairól, akik csoportosan szándékoznak átlépni Magyarország schengeni külső határait.
+(4) A hajó felelős vezetője vagy annak hiányában az úszólétesítmény üzembentartója a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet VI. melléklete 4.3. pontja szerinti előzetes tájékoztatást ad a rendőrségnek a vízi közlekedésben részt vevő azon utasok (6) bekezdésben meghatározott adatairól, akik csoportosan szándékoznak átlépni Magyarország schengeni külső határait.
 
 (5) A fuvarozók vagy az utazásszervezők – az utasok hozzájárulása alapján – előzetes tájékoztatást adhatnak a rendőrségnek a közúti, vasúti közlekedésben részt vevő azon utasok (6) bekezdésben meghatározott adatairól, akik csoportosan szándékoznak átlépni Magyarország schengeni külső határait.
 
@@ -1644,7 +1644,7 @@ részére.
 
 (7) A (4)–(6) bekezdés szerint a rendőrség részére átadott adatok nyilvántartására a (3) bekezdést kell alkalmazni.
 
-91/N. § A rendőrség a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlamenti és tanácsi rendelet (Közösségi Kódex) II. melléklete szerinti adatokat egy évig kezeli.
+91/N. § A rendőrség a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet II. melléklete szerinti adatokat egy évig kezeli.
 
 91/O. § (1) A rendőrség a határellenőrzési feladatok folyamatos ellátása érdekében elektronikus úton technikai másolatot vehet át az alábbi nyilvántartásokból:
 

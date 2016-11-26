@@ -924,7 +924,7 @@ bejegyzésével egyidejűleg.
 
 (5) Tulajdoni lapról másolatot meghatározott formában lehet kiadni. Ha a hiteles tulajdonilap-másolat szolgáltatása elektronikus dokumentumként történik, e tényre a hitelesítési záradékban utalni kell.
 
-(6) A tulajdoni lapról elektronikus formában szolgáltatott hiteles másolat olyan elektronikus okirat, amelyet hitelesítési záradékkal láttak el, és amelyet a földmérési és térinformatikai államigazgatási szerv fokozott biztonságú elektronikus intézményi aláírással és időbélyegzővel hitelesített. Az ilyen módon hitelesített tulajdoni lap kizárólag elektronikus formában rendelkezik a 69. § szerinti tanúsító erővel.
+(6) A tulajdoni lapról elektronikus formában szolgáltatott hiteles másolat olyan elektronikus okirat, amelyet hitelesítési záradékkal láttak el, és amelyet a földmérési és térinformatikai államigazgatási szerv legalább fokozott biztonságú elektronikus bélyegzővel és időbélyegzővel hitelesített. Az ilyen módon hitelesített tulajdoni lap kizárólag elektronikus formában rendelkezik a 69. § szerinti tanúsító erővel.
 
 (6a) A tulajdoni lapról elektronikus formában szolgáltatott nem hiteles másolat, valamint a tulajdoni lapról részadat-szolgáltatás formájában szolgáltatott adat a 69. § szerinti tanúsító erővel nem rendelkezik, hivatalos célra nem használható, kizárólag tájékoztatásul szolgál.
 

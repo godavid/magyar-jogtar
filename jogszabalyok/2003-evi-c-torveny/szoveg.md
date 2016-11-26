@@ -1606,9 +1606,7 @@ nem kell alkalmazni.
 
 (3) Az elektronikus hírközlési szolgáltató a kormányzati eseménykezelő központ tájékoztatása alapján köteles értesíteni azon előfizetőjét vagy felhasználóját, amelynek elektronikus hírközlő végberendezése vagy információs rendszere a biztonsági esemény bekövetkezésében érintett vagy azt okozta, vagy az által tudomása szerint fenyegetett.
 
-### Terrorcselekmény bekövetkezése vagy annak veszélye esetén szükséges együttműködés
-
-92/C. § Az elektronikus hírközlési szolgáltató terrorcselekmény bekövetkezése vagy annak veszélye esetén biztosítani köteles – a Kormány által rendeletében meghatározott feltételek szerint – a rendészetért felelős miniszter által rendeletben meghatározott szervek által használt hívószámok tekintetében a folyamatos működést.
+92/C. §
 
 ### Űrszegmens használat
 
@@ -2992,14 +2990,14 @@ tekinthetnek be.
 
 182. § (1) Felhatalmazást kap a Kormány arra, hogy rendelettel állapítsa meg:
 
-- a) az elektronikus hírközlési szolgáltató által terrorcselekmény bekövetkezését követően vagy annak veszélye esetén kötelezően biztosítandó szolgáltatások részletszabályait.
+- a)
 - b) az elektronikus hírközlés különleges jogrend idejére irányuló felkészítésének rendszerét, az államigazgatási szervek feladatait, működésük feltételeinek biztosítását;
 - c) az elektronikus hírközlési feladatokat ellátó szervezetek és a titkos információgyűjtéssel, illetve titkos adatszerzéssel felhatalmazott szervezetek együttműködésének rendjét;
 - d) a kormányzati célú hálózatokra és az ilyen hálózatokkal kapcsolatos elektronikus hírközlési tevékenységre vonatkozó, e törvénytől eltérő szabályokat;
 - e) az e törvény szerinti egyablakos információs pontot működtető szervet, valamint az egyablakos információs pont működésére vonatkozó szabályokat;
 - f) a nagy sebességű elektronikus hírközlő hálózati elemek építési munkáinak összehangolási kötelezettsége alól mentesülő építési munkák körét, valamint a fizikai infrastruktúrával kapcsolatos átláthatóságra, a közműhálózatok fejlesztésének átláthatóságára, és az épületen belüli fizikai infrastruktúra kiépítésére vonatkozó rendelkezések alkalmazása alóli kivételeket.
 
-(2) Felhatalmazást kap a rendészetért felelős miniszter, hogy rendeletben határozza meg azon szervek körét, amelyek által használt hívószámok tekintetében a folyamatos működést az elektronikus hírközlési szolgáltató terrorcselekmény bekövetkezése vagy annak veszélye esetén is biztosítani köteles.
+(2)
 
 (3) Felhatalmazást kap az Elnök arra, hogy rendelettel állapítsa meg:
 

@@ -155,7 +155,7 @@ haladéktalanul törli.
 
 (2) A felügyelő a helyi közúton közterület-használati engedély nélkül tárolt, hatósági jelzéssel nem rendelkező azon járművön, amely a közúti forgalomban csak ilyen jelzéssel vehet részt, értesítést helyez el, amely tartalmazza a (3) bekezdés szerinti jogkövetkezményre történő figyelmeztetést.
 
-(3) A (2) bekezdés szerinti értesítés elhelyezésétől számított 30 napot követően a felügyelő az érintett járművet elszállítással eltávolíthatja.
+(3) A (2) bekezdés szerinti értesítés elhelyezésétől számított 10 napot követően a felügyelő az érintett járművet elszállítással eltávolíthatja.
 
 (4) A felügyelet a jármű elszállításáról az intézkedéssel egyidejűleg értesíti a rendőrséget. A felügyelet az (1) bekezdés alapján elszállított jármű forgalmi rendszámát – tájékoztatás céljából – a felügyeletet működtető önkormányzat polgármesteri hivatalának honlapján közzéteszi. Az önálló költségvetési szervként vagy költségvetési szerv belső szervezeti egységeként létrehozott felügyelet az (1) bekezdés alapján elszállított jármű forgalmi rendszámát a költségvetési szerv saját honlapján is közzéteszi.
 

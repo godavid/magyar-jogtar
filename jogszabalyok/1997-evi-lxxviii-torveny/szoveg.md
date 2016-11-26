@@ -623,6 +623,10 @@ kivételével más építési munkát végezni nem szabad.
 
 (5) Mind az építmény elhelyezése, mind pedig a külső megjelenését befolyásoló kialakítása, átalakítása, bővítése, felújítása, helyreállítása során különös figyelmet kell fordítani a településkép, a tájkép a beépítési vagy az építészeti jellegzetesség és látvány, a helyi jelleg védelmére, az épített örökség védett értékeinek érvényesülésére.
 
+(6) Az építésügyi műszaki irányelvek kidolgozásáért felelős bizottság kidolgozza az épített környezet létrehozása és fenntartása érdekében végzett tervezési, építési és üzemeltetési tevékenység területére kiterjedő, jogszabály, szabvány által nem szabályozott, azokkal nem ellentétes követelményeket, tevékenységekre vonatkozó módszereket tartalmazó építésügyi műszaki irányelveket. Az építésügyi műszaki irányelv alkalmazása önkéntes.
+
+(7) Amennyiben az építésügyi műszaki irányelv által szabályozott területen jogszabály vagy szabvány kerül kiadásra, az építésügyi műszaki irányelvet vissza kell vonni.
+
 ### Az építészeti-műszaki tervezési és az építésügyi műszaki szakértői tevékenység
 
 32. § (1) Építészeti-műszaki tervezési tevékenységnek minősül az építmény, építményrész, építményegyüttes megépítéséhez, bővítéséhez, felújításához, átalakításához, helyreállításához, korszerűsítéséhez, lebontásához, elmozdításához, rendeltetésének megváltoztatásához szükséges építészeti-műszaki dokumentáció elkészítése és kormányrendeletben foglaltak szerinti ellenőrzése, továbbá a 33. § (4) bekezdés szerinti tevékenység.
@@ -1520,7 +1524,8 @@ rendeletben állapítsa meg.
 - 3.
 - 4. a területek biológiai aktivitás értékének számítására vonatkozó részletes szabályokat – a környezetvédelemért felelős miniszterrel egyetértésben –,
 - 5. az igazgatási eljárásokban alkalmazandó telekár számításának szabályait,
-- 6. az Építőipari Ágazati Párbeszéd Bizottság ajánlásában a tárgyévre megállapított minimális építőipari rezsióradíj, vagy az ajánlás hiányában az előző évi minimális építőipari rezsióradíjnak a KSH által közzétett inflációs rátával növelt mértékét rendelettel állapítsa meg.
+- 6. az Építőipari Ágazati Párbeszéd Bizottság ajánlásában a tárgyévre megállapított minimális építőipari rezsióradíj, vagy az ajánlás hiányában az előző évi minimális építőipari rezsióradíjnak a KSH által közzétett inflációs rátával növelt mértékét,
+- 7. az építésügyi műszaki irányelvek kidolgozásáért felelős bizottság létrehozására, összetételére, feladatkörére és működésére vonatkozó részletes szabályokat rendelettel állapítsa meg.
 
 (3) Felhatalmazást kap a miniszter arra, hogy – az adópolitikáért felelős miniszterrel egyetértésben – rendelettel állapítsa meg
 

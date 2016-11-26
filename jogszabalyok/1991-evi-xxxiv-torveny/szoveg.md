@@ -119,6 +119,8 @@ végezheti.
 
 (2) Az államháztartásért felelős miniszter (a továbbiakban: miniszter) ellátja a szerencsejátékok szervezésének szakmai irányítását, valamint képviseli az államot az (1) bekezdés b) pontja és (1a) bekezdés b) pontja tekintetében.
 
+(2a) A szerencsejáték szervezéshez kapcsolódó nemzetközi szerződés esetén a miniszter, az egyéb, szerencsejáték szervezéshez kapcsolódó két vagy többoldalú szerződés esetén a miniszter vagy az állami adó- és vámhivatal vezetője jár el a szerződés előkészítése, megkötése, módosítása, megszüntetése során és felel a szerződésből eredő kötelezettségek teljesítéséért.
+
 (3) A számsorsjáték és – a lóversenyfogadás, a távszerencsejáték és a bukmékeri rendszerű fogadás kivételével – a fogadás szervezésére kizárólag az állami játékszervező jogosult.
 
 4. § (1) A koncessziós szerződés megkötésére a Ktv. 5. § (1) bekezdése szerinti nyilvános pályázatot a miniszter írja ki. A koncessziós pályázat kiírásához – országos pályázat kivételével – az érintett települési önkormányzat képviselő-testületének, Budapesten a fővárosi önkormányzat közgyűlésnek egyetértése is szükséges. Országos pályázattal elnyert koncessziós jog tekintetében az állami adóhatóság az engedélyt azokra a településekre adja ki, amelyek önkormányzatának képviselő-testülete – Budapesten a fővárosi önkormányzat közgyűlése is – hozzájárult a tevékenység területén történő gyakorlásához.
@@ -169,7 +171,7 @@ végezheti.
 
 (4) Az állami adóhatóság a szerencsejáték szervezésének engedélyezése iránti kérelem elbírálásáról két hónapon, játékautomata nyilvántartásba vételéről pedig tizenöt napon belül dönt . E törvény hatálya alá tartozó hatósági engedélyezési, ellenőrzési és bírságolási eljárások megindítása az ügyfél erről szóló értesítésének mellőzésével történik. A határozott időtartamra szóló engedély lejárati időpontja előtt ugyanarra a tevékenységre vonatkozó új engedélykérelem legfeljebb az engedély lejárata előtt 100 nappal benyújtható.
 
-(5)
+(5) A szerencsejáték ügyben, valamint ajándéksorsolás és játékautomata üzemeltetés tekintetében a nyilvántartásba vételi, ellenőrzési, továbbá jogkövetkezmények megállapítására irányuló eljárásokra tekintettel az ügyfél a képviselet ellátására állandó meghatalmazást vagy megbízást adhat és ezt az állami adóhatósághoz bejelentheti. Az állandó meghatalmazás, megbízás – a külön jogszabályban meghatározott feltételek teljesítésén túl – az állami adóhatóság előtti eljárásban akkor érvényes, ha azt az ügyfél, vagy annak képviselője az állami adóhatóság által rendszeresített formanyomtatványon jelenti be. Ha az állandó meghatalmazást, megbízást vagy annak megszűnését az ügyfél képviselője jelenti be, az állami adóhatóság a bejelentésről az ügyfelet írásban értesíti. Az ügyfél az eseti, illetve az állandó meghatalmazás, megbízás visszavonását, felmondását haladéktalanul köteles bejelenteni az állami adóhatósághoz, illetve a képviseleti jog megszűnését a meghatalmazott, megbízott is bejelentheti az állami adóhatóságnál. A képviseleti jog keletkezése és megszűnése az állami adóhatósággal szemben az állami adóhatósághoz történő bejelentéstől hatályos azzal, hogy a képviseleti jog megszűnésének bejelentése napján a meghatalmazottat még az állami adóhatósági iratok átvételére jogosult személynek kell tekinteni.
 
 (6) Az állami adóhatóság a 7. §-ban megjelölt feladatok ellátása érdekében a következők szerint jogosult a szerencsejáték-szervező vezető tisztségviselőjének, tagjának, a szerencsejáték-szervezővel munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló, továbbá a közigazgatási hatósági eljárásban ügyfél személyes adatainak kezelésére és feldolgozására: az állami adóhatóság az eljárásban olyan személyes adatokat kezelhet, amelyek a feladatai ellátása céljából elengedhetetlenek, így az érintett természetes személyazonosító adatait, állampolgárságát, bejelentett lakóhelyének, illetve azon tartózkodási helyének adatait, ahol 3 hónapnál tovább tartózkodik. Az állami adóhatóság a személyes adatokat az eljárás megindításától az alapul szolgáló irat selejtezéséig kezeli.
 
@@ -253,7 +255,7 @@ végezheti.
 
 (4)
 
-(5) Nem lehet bírságot kiszabni a mulasztásnak vagy a kötelezettségszegésnek az állami adóhatóság tudomására jutásától számított hat hónapon, illetve az elkövetéstől számított két éven túl.
+(5) Nem lehet bírságot kiszabni a mulasztásnak vagy a kötelezettségszegésnek az állami adóhatóság tudomására jutásától számított hat hónapon, illetve az elkövetéstől, illetve az új eljárás elrendelése esetén az új eljárás lefolytatását elrendelő ítélet jogerőre emelkedésétől számított két éven túl.
 
 (6) A bírság kiszabásánál figyelembe kell venni a mulasztás vagy a kötelezettségszegés súlyát, és azt, hogy a jogsértővel szemben az állami adóhatóság a jogsértést megelőző 2 éven belül – sorsolásos játék és fogadás esetén azonos értékesítőhelyhez, fogadóirodához köthetően – hasonló jogsértés miatt jogerősen szabott-e ki bírságot.
 
@@ -282,7 +284,7 @@ végezheti.
 
 (4) Ha a szerencsejáték szervező a működését az engedély megadásától számított hat hónapon belül nem kezdi meg, továbbá ha azt engedély nélkül szünetelteti, az engedély visszavonható.
 
-(5) Abban a kérdésben, hogy valamely játék szerencsejátéknak tekinthető-e vita esetén az állami adóhatóság dönt. Az állami adóhatóság véleménye az irányadó a szerencsejátékok fajtájának (14. §) meghatározására vonatkozóan is.
+(5) Abban a kérdésben, hogy valamely játék szerencsejátéknak tekinthető-e az állami adóhatóság dönt. Az állami adóhatóság véleménye az irányadó a szerencsejátékok fajtájának (14. §) meghatározására vonatkozóan is.
 
 (6) Ha az ügyfél a hivatalból indított eljárásban az állami adóhatóság felhívása ellenére nem közli az érdemi döntéshez szükséges adatot vagy valótlan adatot közöl, vele szemben a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti eljárási bírság szabható ki vagy az engedély visszavonható. A bírság ismételt alkalommal is kiszabható.
 
@@ -750,7 +752,7 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 
 34. § (1) A kártyaterem játékadója a tiszta játékbevétel 40%-a.
 
-(2) Az adóbefizetési kötelezettség elmulasztása esetén az állami adóhatóság a szerencsejáték-szervező engedélyeit köteles visszavonni. Ez a határozat a jogorvoslatra tekintet nélkül azonnal végrehajtató.
+(2)
 
 ### Játékkaszinó és online kaszinó játékadója
 
@@ -774,7 +776,17 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 
 (2) Az állami adóhatóság az ellenőrzési feladatok ellátására könyvvizsgálót vagy egyéb szakértőt bízhat meg. A megbízottnak meg kell felelnie a 8. § (1) és (3) bekezdésében leírtaknak. Az állami adóhatóság alkalmazottja valamint az állami adóhatóság által megbízott könyvvizsgáló, illetőleg a szakértő az ellenőrzési eljárás során hivatalos személynek minősül.
 
-(3) Az állami adóhatóság jogosult a szerencsejáték-szervezést, illetve az e törvény hatálya alá tartozó tevékenységet érintő kimutatásokat, adatokat, bizonylatokat, vizsgálati anyagokat bármikor bekérni, azokba betekinteni, illetve helyszíni vizsgálatot tartani. Az ellenőrzött szervezet vagy személy köteles a tevékenységgel kapcsolatos adatszolgáltatásra, valamint köteles biztosítani a tevékenységre vonatkozó hatósági jelzések ellenőrzésének lehetőségét.
+(3) Az állami adóhatóság jogosult az e törvény hatálya alá tartozó tevékenységet érintő kimutatásokat, adatokat, bizonylatokat, vizsgálati anyagokat bármikor bekérni, azokba betekinteni, illetve helyszíni vizsgálatot tartani. Az állami adóhatóság ellenőre a helyszíni ellenőrzés során jogosult azokba a helyiségekbe belépni, amelyek esetében valószínűsíthető, hogy azok az e törvény hatálya alá tartozó tevékenység végzésével érintettek, jogosult az ilyen tevékenységgel összefüggő helyiségeket, helyszínt, eszközöket átvizsgálni. Ha az ügyfél az e törvény hatálya alá tartozó tevékenység más személy ingatlanát veszi igénybe, az ingatlan tulajdonosa köteles tűrni az állami adóhatóság helyszíni ellenőrzését. Az állami adóhatóság az ellenőrzést vállalkozási tevékenységet nem folytató magánszemély lakásában is elvégezheti abban az esetben, ha valószínűsíthető, hogy a lakásban az e törvény hatálya alá tartozó tevékenységet, így különösen engedély nélküli szerencsejáték szervezést folytatnak.
+
+(3a) Az állami adóhatóság az ellenőrzés helyszínén jelenlévő személyeket tanúként hallgathatja meg. Amennyiben az ellenőrzés helyszínen az ellenőrzött nincs jelen, az állami adóhatóság a tanút az ellenőrzött előzetes értesítése mellőzésével is meghallgathatja.
+
+(3b) Az ellenőrzött szervezet vagy személy köteles a tevékenységgel kapcsolatos adatszolgáltatásra, valamint köteles biztosítani a tevékenységre vonatkozó hatósági jelzések ellenőrzésének lehetőségét. Az ellenőrzött szervezet vagy személy köteles továbbá az állami adóhatósággal az ellenőrzés során együttműködni, az ellenőrzés feltételeit a helyszíni ellenőrzés során biztosítani.
+
+(3c) Az állami adóhatóság az e törvényben előírt feladatainak teljesítése érdekében jogosult a magánszemélyt személyazonosságának igazolására felhívni akkor, ha a körülmények arra utalnak, hogy e törvény hatálya alá tartozó tevékenységet folytat, abban közreműködik, közvetít, vagy e törvény hatálya alá tartozó játékban részt vesz. Az igazoltatott köteles a személyazonosító adatait hitelt érdemlően igazolni. A személyazonosság igazolására elsősorban a személyi igazolvány szolgál, elfogadható továbbá minden olyan okmány, amelyből az igazoltatott kiléte hitelt érdemlően megállapítható. Az adóhatóság más jelen lévő, ismert személyazonosságú személy közlését is elfogadhatja igazolásként. A személyazonosság igazolásának megtagadása esetén a személyazonosság megállapítására az állami adóhatóság a rendőrség közreműködését veheti igénybe. Az igazoltatás csak a személyazonosság megállapításához szükséges ideig tarthat. Az igazoltatottal az igazoltatás során közölni kell annak okát.
+
+(3d) Az ellenőrzés során az ellenőrzött köteles felszólításra ruházatát kiüríteni és a birtokában lévő tárgyakat az ellenőröknek átadni.
+
+(3e) Ha a helyszíni ellenőrzés zavartalan lefolytatása másképpen nem biztosítható, az állami adóhatóság a rendőrségről szóló törvény szerinti rendőri intézkedés megtételét kezdeményezheti, vagy a NAV hivatásos állományú, jelen lévő tagja útján az eljárás zavartalan lefolytatását biztosíthatja a Nemzeti Adó- és Vámhivatalról szóló törvény szerinti intézkedések alkalmazásával.
 
 (4) Az állami adóhatóság ellenőrei az adatgyűjtésre irányuló, illetve a játékban való részvétel útján történő ellenőrzés esetén az eljárási cselekmény befejezésekor igazolják az ellenőrzési jogosultságot. Ha a tényállás további tisztázása szükséges és az ellenőrzés felfedése az eljárás eredményes lefolytatását veszélyeztetné, az állami adóhatóság ellenőrei az eljárási cselekmény befejezésekor sem igazolják ellenőrzési jogosultságukat és az ellenőrzésről felvett jegyzőkönyvet az állami adóhatóság legkésőbb a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény 70. § (1) bekezdésében meghatározott határidőig küldi meg az ügyfélnek, amennyiben a feltárt adatok alapján jogsértés állapítható meg és az állami adóhatóság hatósági eljárást indított. Az állami adóhatóság ellenőrei az ellenőrzött szerencsejátékban büntetőjogi, illetve szabálysértési jogkövetkezmények terhe nélkül vehetnek részt.
 
@@ -802,7 +814,7 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 - b) a nem folyamatosan szervezett sorsolásos játék és a totalizatőri rendszerű fogadás esetén a nyereményalap 1 ezreléke, de legalább 5 ezer forint, legfeljebb 500 ezer forint,
 - c) ajándéksorsolás esetén a kisorsolásra kerülő nyeremények forgalmi értékének 1 ezreléke, de legalább 5 ezer forint, legfeljebb 500 ezer forint,
 - d) a bukmékeri rendszerű fogadás esetén a negyedévi tiszta játékbevétel 4 ezreléke, de legalább 5 ezer forint, legfeljebb 10 millió forint,
-- e) a játékkaszinó üzemeltetése esetén a negyedévi tiszta játékbevétel 2,5%-a, de legalább 5 ezer forint és legfeljebb I. kategóriájú játékkaszinó esetén 20 millió forint, illetve II. kategóriájú játékkaszinó esetén 5 millió forint, online kaszinó üzemeltetése esetén 5 millió forint,
+- e) a játékkaszinó, online kaszinó üzemeltetése esetén a negyedévi tiszta játékbevétel 2,5%-a, de legalább 5 ezer forint és legfeljebb I. kategóriájú játékkaszinó esetén 20 millió forint, illetve II. kategóriájú játékkaszinó esetén 5 millió forint, online kaszinó üzemeltetése esetén 5 millió forint,
 - f) kártyaterem üzemeltetése esetén a negyedévi tiszta játékbevétel 5 ezreléke, de legalább 5 ezer forint, legfeljebb 1 millió forint,
 - g) játékautomata üzemeltetés esetén félévente játékautomatánként 10 ezer forint,
 - h) távszerencsejáték-szervezés esetén a negyedévi tiszta játékbevétel 2,5 százaléka, de legalább 100 ezer forint és legfeljebb 10 millió forint
@@ -840,7 +852,8 @@ fizeti meg az állami adóhatósághoz a felügyeleti díj megfizetéséről sz�
 
 - a) amelyet engedély nélküli szerencsejáték szervezés eszközéül használtak,
 - b) amelyet az engedély nélkül szervezett szerencsejátékban való részvételhez használtak fel (tét),
-- c) amely az engedély nélkül szervezett szerencsejátékban nyereményt képezett.
+- c) amely az engedély nélkül szervezett szerencsejátékban nyereményt képezett,
+- d) amely engedély nélkül végzett szerencsejáték szervezés eszközéül használt berendezésben található
 
 (2) Az (1) bekezdés alkalmazásában dolognak minősül a birtokba vehető ingó dolog, valamint a pénz és az értékpapír.
 
@@ -894,6 +907,26 @@ fizeti meg az állami adóhatósághoz a felügyeleti díj megfizetéséről sz�
 
 36/K. § Az adópolitikáért felelős miniszter negyedéves gyakorisággal – a tárgyév április 20., július 20., október 20. és a tárgyévet követő január 20. napjáig – beszámol a Kormánynak a 13/A–13/B. §-ok és a IV. fejezet szerinti feladatok végrehajtásáról.
 
+### Nemzetközi közigazgatási együttműködés
+
+36/L. § (1) Az EGT államok szerencsejáték szabályozó és felügyeleti hatóságai közötti, az online szerencsejátékkal összefüggő Együttműködési Megállapodás (a továbbiakban: Megállapodás) végrehajtása során a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény nemzetközi jogsegélyről szóló rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
+
+(2) A Megállapodás végrehajtása során a magyar hatáskörrel rendelkező hatóság (a továbbiakban: magyar hatóság) a miniszter. A magyar hatóság a Megállapodás végrehajtásával kapcsolatos eljárási cselekményeket az állami adóhatóság útján is teljesítheti.
+
+(3) A másik EGT állam hatáskörrel rendelkező hatósága (a továbbiakban: EGT társhatóság) megkeresésének teljesítését a magyar hatóság megtagadhatja abban az esetben is, ha a megkeresés teljesítése
+
+- a) a szerencsejáték szervezési tevékenység hatékony szakmai irányítását vagy hatósági felügyeletét, ellenőrzését, illetve a szerencsejáték-piac zavartalan és eredményes működését sérti vagy veszélyezteti, vagy
+- b) a magyar hatóság részére jelentős költséggel vagy indokolatlan adminisztratív teherrel járna és az EGT társhatóság a költségek viseléséről vagy az adminisztratív teher csökkentéséről szóló írásbeli egyeztetéstől elzárkózik vagy az írásbeli egyeztetés egyéb okból nem vezet ésszerű időben eredményre.
+
+(4) A magyar hatóság a Megállapodás végrehajtása során nem online kaszinójátékra vagy nem távszerencsejátékra vonatkozó megkeresést erre vonatkozó viszonosság esetén teljesít és kizárólag abban az esetben kezdeményez, ha az EGT társhatóság a nem online kaszinójátékra vagy a nem távszerencsejátékra vonatkozó megkeresés teljesítését a Megállapodás részét képező nemzeti kapcsolódási pontokról szóló dokumentumában viszonosságra hivatkozással vagy más módon lehetővé teszi.
+
+(5) A Megállapodás végrehajtása során
+
+- a) a magyar hatóság kizárólag írásbeli, magyar vagy angol nyelvű megkereséseket kezdeményez és teljesít, az egyéb EGT tagállami hivatalos nyelv használatára a magyar hatóság és az EGT társhatóság írásbeli egyeztetése alapján kerülhet sor,
+- b) a megkereséseket elsősorban elektronikus úton kell kezdeményezni és teljesíteni, megkeresés papír alapú vagy egyéb formájú kiadására és teljesítésére a megkereséssel érintett információ jellegére tekintettel, vagy a magyar hatóság és az EGT társhatóság írásbeli egyeztetése alapján kerülhet sor.
+
+(6) A megkeresés teljesítéséért – a jelentős költséggel járó megkeresés kivétel – a magyar hatóság az EGT társhatósággal szemben igényt nem érvényesít és az EGT társhatóság megkeresés teljesítésével összefüggő költségigényét nem teljesíti. A jelentős költséggel járó megkeresés esetén a költségek viseléséről előzetesen írásban egyeztetni kell. Előzetes írásbeli egyeztetés és a jelentős költségek viseléséről szóló eseti megállapodás hiányában az EGT társhatóság megkeresését a (3) bekezdés b) pontja szerint el kell utasítani, a magyar hatóság megkeresését vissza kell vonni.
+
 ### V. Fejezet — Értelmező rendelkezések
 
 37. §
@@ -917,7 +950,7 @@ fizeti meg az állami adóhatósághoz a felügyeleti díj megfizetéséről sz�
   - b) a 16. §-ban és — a 12. § tekintetében — a 23. §-ban meghatározott tevékenységet folytató szervezet vagy személy.
 - 16. Fogadási ajánlat: a fogadásszervező nyilvánosságra hozott ajánlata, amely tartalmazza a meghatározott fogadási esemény lefogadható bekövetkezését, kimeneteleit, valamint a totalizatőri rendszerű fogadás esetén a nyereményre fordítandó összeg meghatározásának módját, a bukmékeri rendszerű fogadás esetén pedig a nyereményszorzót.
 - 17. hírközlő eszköz és rendszer: bármely olyan eszköz és rendszer, amelynek alkalmazásával a játékos a törvény hatálya alá tartozó játékokban részvételi jogosultságot keletkeztető nyilatkozatot vagy cselekményt tehet. Ilyen különösen a címzett vagy címzés nélküli nyomtatvány, a szabványlevél, a sajtótermékben közzétett hirdetés megrendelőlapja, a katalógus, a telefon, az automata hívókészülék, a rádió, a videotelefon, a videotex (mikroszámítógép-képernyővel) billentyűzettel vagy érintőképernyővel, az Internet, az elektronikus levél (e-mail), a távmásoló (telefax) és televízió.
-- 18. Kaszinójáték: a játékkaszinó játéktervében jóváhagyott bármely olyan szerencsejáték, amelyet kizárólag a játékkaszinóban, az ott jelenlévők részvételével, azonnali tét- és nyereményfizetés mellett szerveznek. Online kaszinó esetében a kaszinójáték a játéktervben jóváhagyott bármely olyan szerencsejáték – ideértve a távszerencsejátékot is – amelyet nyilvántartásba vett játékosok részvételével szerveznek.
+- 18. Kaszinójáték: a játékkaszinó játéktervében jóváhagyott bármely olyan szerencsejáték, amelyet kizárólag a játékkaszinóban, az ott jelenlévők részvételével, azonnali tét- és nyereményfizetés mellett szerveznek. Online kaszinó esetében a kaszinójáték a játéktervben jóváhagyott bármely olyan szerencsejáték, amelyet nyilvántartásba vett játékosok részvételével szerveznek.
 - 19. Lóversenyfogadás: agár- és lóversenyre történő totalizatőri és bukmékeri rendszerű fogadás.
 - 20.
 - 21. Szerencsejáték ügy: a szerencsejáték-szervezés hatósági felügyeletének ellátása során lefolytatott hatósági engedélyezési, nyilvántartásba vételi, ellenőrzési és jogkövetkezmények megállapítására irányuló eljárás.
