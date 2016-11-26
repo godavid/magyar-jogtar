@@ -116,7 +116,7 @@ is alkalmazni kell.
 
 (4) A (6) bekezdésben foglaltak kivételével írásbelinek kell tekinteni a jognyilatkozatot akkor is, ha annak közlésére a jognyilatkozatban foglalt információ változatlan visszaidézésére, a nyilatkozattevő személyének és a jognyilatkozat megtétele időpontjának azonosítására alkalmas elektronikus dokumentumban (a továbbiakban: elektronikus dokumentum) kerül sor.
 
-(5) A nyilatkozattevő személyének (4) bekezdés szerinti azonosításához nem szükséges a nyilatkozattevő elektronikus aláírásról szóló törvény szerinti elektronikus aláírása vagy minősített elektronikus aláírása.
+(5) A nyilatkozattevő személyének (4) bekezdés szerinti azonosításához nem szükséges a nyilatkozattevő elektronikus aláírása vagy minősített elektronikus aláírása.
 
 (6) A szolgálati viszony létesítésével, a szolgálati viszony módosításával és a szolgálati viszony megszüntetésével kapcsolatos jognyilatkozat, a fegyelmi, méltatlansági vagy kártérítési ügyben hozott határozat, a sérelemdíj megfizetése ügyében hozott határozat, az összeférhetetlenség megszüntetésére irányuló felszólítás és a fizetési felszólítás a munkáltatói jogkör gyakorlója részéről elektronikusan legalább fokozott biztonságú elektronikus aláírással kiadmányozható.
 

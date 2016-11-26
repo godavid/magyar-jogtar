@@ -682,56 +682,67 @@ a lefoglalt nem uniós árut és eszközt a vámhatóság értékesíti. Az ért
 
 #### 26. A Vámkódex 92. cikkéhez
 
-60. § (1) A vámbiztosíték az annak nyújtására kötelezett személy választása szerint lehet
+60. § A Vámkódex 92. cikk (1) bekezdése alapján a biztosítékot nyújtó személy
 
-- a) a vámhatóság által kiadott kezességvállalási engedély alapján harmadik személy által vállalt kezesség,
-- b) hitelintézet által vállalt bankgarancia,
-- c) banki fedezetigazolás,
-- d) biztosítási szerződés alapján kiállított kötelezvény (a továbbiakban: biztosítói kötelezvény),
-- e) készpénz letétbe helyezése.
+- a) az ugyanezen cikk a) pontja szerinti biztosítékot hitelintézet által kiadott fedezetigazolással, vagy készpénz letétbe helyezésével,
+- b) az ugyanezen cikk b) pontja szerinti biztosítékot, mint kötelezettségvállalást a Ptk. szerinti garanciavállaló nyilatkozattal vagy készfizető kezesi szerződéssel teljesítheti.
 
-(2) Vámbiztosítékként azt az eredeti bankgaranciát kell elfogadni, amely tartalmazza
+60/A. § (1) A vámhatóság a 60. § a) pontja szerinti biztosítékként olyan eredeti fedezetigazolást fogadhat el, amely szerint
 
-- a) a garanciát nyújtó hitelintézet megnevezését, bankszámlaszámát,
-- b) a megbízó nevét, címét, pénzforgalmi számlaszámát és adószámát, EORI számát,
-- c) a megbízó által képviselt harmadik személy nevét, címét és adószámát, EORI számát,
-- d) annak a tevékenységnek (célnak) a megnevezését, amelynek alkalmazásával kapcsolatban a garancianyilatkozatot kiadták,
-- e) a garancia összegét – számmal és betűvel – és devizanemét,
-- f) a lejárat végső időpontját,
-- g) a kedvezményezett vámhivatal megnevezését,
-- h) a garanciavállaló feltétel nélküli kötelezettségvállalását arra vonatkozóan, hogy a kedvezményezett első írásbeli felszólítására – az alapjogviszony vizsgálata nélkül – a kézhezvételtől számított három banki munkanapon belül az igénybejelentésben megjelölt államháztartási számlára megfizeti megbízója, illetve megbízója által képviselt harmadik személy lejárt esedékességű tartozását, és
-- i) külföldi hitelintézet által kibocsátott garancia esetén a jogvita felmerülésekor alkalmazandó joggal, illetve a joghatósággal kapcsolatos kikötést.
+- a) az elkülönített számlán meghatározott összeg a vám és egyéb terhek kiegyenlítésére rendelkezésére áll,
+- b) az állami adó- és vámhatóság az igényét a számlával szemben benyújtott, a fedezetigazolásra hivatkozó azonnali beszedési megbízással érvényesítheti, és
+- c) a kibocsátó hitelintézet kötelezettséget vállal arra, hogy az azon feltüntetett összegről kizárólag a vámhatóság rendelkezhet.
 
-(3) A hitelintézet garanciavállalási kötelezettségének határidő előtti visszavonásáról hitelt érdemlő módon, tértivevényes levélpostai küldeményben köteles értesíteni a kedvezményezett vámhivatalt. A visszavonás az arról szóló értesítés átvételétől számított 16. napon lép hatályba. A hitelintézet a garanciavállalási kötelezettség alól akkor mentesül, ha a garancia érvényességi ideje alatt az annak alapján nyújtott biztosíték indokoltsága megszűnik vagy már nem merülhet fel.
+(2) A vámhatóság biztosítékként azt a készpénz letétbe helyezést fogadja el, amely a vámhatóság kezelésében lévő vámletét számlán a vámhatóság által meghatározott egyedi azonosítással a vámhatóság rendelkezése alá került. Az elfogadásról a vámhatóság az ügyfelet haladéktalanul értesíti. A készpénz formájában nyújtott biztosítékot kizárólag forintban lehet teljesíteni.
 
-(4) A vámhatóság vámbiztosítékként olyan eredeti fedezetigazolást fogadhat el, amely szerint elkülönített számlán meghatározott összeg a vámtartozás kiegyenlítésére rendelkezésére áll és a vámhatóság az igényét a számlával szemben benyújtott, a fedezetigazolásra hivatkozó azonnali beszedési megbízással érvényesítheti.
+(3) Ha a hitelintézet és a vámhatóság között kötött megállapodás szerint a hitelintézet az ügyfél által a nála visszavonhatatlanul befizetett összegről elektronikus úton értesíti a vámhatóságot, a közölt vámot és egyéb terheket biztosítottnak kell tekinteni, és az áru kiadható.
 
-(5) Vámbiztosítékként azt az eredeti biztosítói kötelezvényt kell elfogadni, amely a (2) és (3) bekezdésben meghatározott feltételeknek megfelel.
+60/B. § (1) A 60. § b) pontja szerinti garanciavállaló nyilatkozatra és a készfizető kezesi szerződésre vonatkozóan a Ptk. rendelkezéseit kell alkalmazni, ha az uniós vámjogszabályok másként nem rendelkeznek.
 
-(6) A biztosító a kötelezettségének határidő előtti visszavonási szándékáról tértivevényes levélpostai küldeményben köteles értesíteni a kedvezményezett vámhivatalt. A visszavonás az arról szóló értesítés átvételétől számított 16. napon lép hatályba. A biztosító kötelezettségvállalása alól akkor mentesül, ha megszűnik a biztosítéknyújtás indokoltsága.
+(2) A Ptk. rendelkezéseitől eltérően a készfizető kezesi szerződés a jogosult aláírása nélkül, kizárólag a kötelezettségvállaló által aláírva is érvényes. A készfizető kezesi szerződés a vámhatóság jóváhagyásával válik hatályossá.
 
-(7) Ha a vámhatóság bankgaranciát, fedezetigazolást, biztosítói kötelezvényt vámbiztosítékként elfogad, az arról szóló okmányok eredeti vagy közjegyző által hitelesített másolati példányát bevonja, és nyilvántartása mellékleteként kezeli.
+(3) Biztosítékként azt az eredeti garanciavállaló nyilatkozatot kell elfogadni, amely az uniós vámjogszabályok vonatkozó rendelkezésein túl tartalmazza
 
-(8) Az (1) bekezdés a) pontja szerinti kezes mentesül a fizetési kötelezettség alól, ha annak a vámeljárásnak a lezárásától számított 60 napon belül, amelyre a kezességi nyilatkozat biztosítékként szolgál, a biztosítékul szolgáló nyilatkozatot a vámhatóság nem érvényesíti.
+- a) a kötelezettségvállaló nevét, székhelyét, adószámát, bankszámlaszámát,
+- b) a kötelezettségvállalást kérő, mint megbízó nevét, címét, pénzforgalmi számlaszámát, adószámát vagy adóazonosító jelét, és EORI számát,
+- c) a megbízó által képviselt harmadik személy nevét, címét, adószámát vagy adóazonosító jelét és EORI számát,
+- d) a kötelezettségvállalás összegét – számmal és betűvel – és devizanemét,
+- e) a kötelezettségvállalás érvényességi idejére vonatkozó esetleges hivatkozást,
+- f) a kötelezettségvállaló vállalását arra vonatkozóan, hogy a kedvezményezett első írásos felszólításának kézhezvételétől számított 30 napon belül az igénybejelentésben megjelölt államháztartási számlára megfizeti a követelt összegeket,
+- g) a kötelezettségvállalás kezdő időpontjára vonatkozó hivatkozást,
+- h) azt a rendelkezést, hogy a kötelezettségvállaló által az adott garanciavállaló nyilatkozat kapcsán teljesített kifizetések összegével a kötelezettségvállalás összege csökken,
+- i) a kedvezményezett vámhatóság megnevezését.
 
-(9) Ha a hitelintézet és a vámhatóság között kötött megállapodás szerint a hitelintézet az ügyfél által a nála visszavonhatatlanul befizetett összegről elektronikus úton értesíti a vámhatóságot, vagy valós idejű elektronikus lekérdezési lehetőséget biztosít a vámhatóság számára, a közölt vámot és egyéb terheket biztosítottnak kell tekinteni, és az áru kiadható.
+(4) Biztosítékként azt az eredeti készfizető kezesi szerződést kell elfogadni, amely a (3) bekezdésében meghatározottakon túl tartalmazza még
 
-(10) Garancialehívás esetén az írásbeli felszólításnak, igénybejelentésnek tartalmaznia kell a fizetésre kötelezett azonosító adatait – név, cím, adószám, EORI szám, a jogutódlással kapcsolatos adatok –, a tartozás összegét, az előírt és nem teljesített fizetési határidőt, a tevékenységi engedély típusát és a határozat számát.
+- a) azokat a kezességgel biztosított kötelezettségből eredő, adott vámügyi művelet elintézése vagy lezárása kapcsán a fizetési felszólítás kézhezvételétől számított 30 napon belül megtehető kifogásokat, amelyekre a kezes a jogosulttal szemben hivatkozhat, és
+- b) az írásbeli felszólítást követő 30 napos határidő hosszabbítására vonatkozó lehetőséget az ahhoz kapcsolódó esetleges kamat és költségfizetési következményekkel.
 
-61. § (1) A vámhatóság vámbiztosítékként azt a készpénz letétbe helyezést fogadja el, amely a vámhatóság kezelésében lévő központi vámletét számlán a vámhatóság által meghatározott egyedi azonosítással a vámhatóság rendelkezése alá került. A készpénz formájában nyújtott vámbiztosítékot kizárólag forintban lehet teljesíteni.
+(5) A kedvezményezett vámhatóság a garanciavállaló nyilatkozat vagy készfizető kezesi szerződés jóváhagyásáról haladéktalanul tájékoztatja a kötelezettségvállalót.
 
-(2) A vámhatóság vámbiztosítékként azt a banki fedezetigazolást fogadja el, amelyen a kibocsátó hitelintézet kötelezettséget vállal arra, hogy az azon feltüntetett összegről kizárólag a vámhatóság rendelkezhet.
+(6) A VA 151. cikk (3) bekezdés esetén a kötelezettségvállaló tértivevényes levélpostai küldeményben köteles értesíteni a (6) bekezdés szerinti kedvezményezett vámhatóságot.
 
-(3) A 60. § (1) bekezdés a) pontja szerinti kezességet az vállalhat, akit a vámhatóság a Vámkódex 9. cikke alapján nyilvántartásba vett, és rendelkezik a vámhatóság által a (4) bekezdésben meghatározott feltételekkel kiadott érvényes kezességvállalási engedéllyel.
+(7) A kötelezettségvállaló helytállási kötelezettséghez kapcsolódó, a kedvezményezett vámhatóság általi igénybejelentés esetén az az írásbeli felszólításnak tartalmaznia kell a kötelezettségvállalást kérő azonosító adatait – név, cím, adószám vagy adóazonosító jel, EORI szám, a jogutódlással kapcsolatos adatok –, a tartozás összegét, az előírt és nem teljesített fizetési határidőt, a fizetési kötelezettséggel érintett határozat számát és a vámügyi művelet típusát.
 
-(4) A vámhatóság a 60. § (1) bekezdés a) pontja szerinti kezességvállalásra az engedélyt annak a kérelmezőnek adja ki, aki
+(8) A külföldi hitelintézet, pénzintézet vagy biztosítótársaság által kiállított kötelezettségvállalás esetén a (3) és (4) bekezdésben foglaltakat nem kell alkalmazni.
 
-- a) biztosítékot nyújt bankgarancia, banki fedezetigazolás, biztosítói kötelezvény vagy készpénz formájában, és
-- b) kérelméhez csatolja a képviseletre jogosult személy(ek) hiteles cégaláírási nyilatkozatát (közjegyzői aláírás-hitelesítéssel ellátott címpéldány) vagy cégbírósághoz benyújtott, ügyvéd által ellenjegyzett aláírásmintát.
+#### 26/A. A Vámkódex 94. cikkéhez
 
-(5) A (4) bekezdés szerinti engedélyben meg kell határozni – a nyújtott biztosítékkal összhangban – a kezességgel összességében vállalható legmagasabb összeghatárt, valamint az engedély érvényességi idejét.
+61. § (1) Ha a Vámkódex 94. cikk (1) bekezdés szerinti vámhatósági jóváhagyás szükséges, akkor a vám és egyéb terhekre vonatkozó, egyetlen műveletre kiterjedő biztosítéknyújtásra a jóváhagyást engedély formájában (kötelezettségvállalási engedély) a vámhatóság annak a kérelmezőnek adja ki, aki
 
-(6) A vámhatóság az engedély kiadásának feltételeit bármikor vizsgálhatja.
+- a) nem áll csődeljárás, felszámolási eljárás, végelszámolási eljárás és kényszertörlési eljárás alatt,
+- b) biztosítékot nyújt garanciavállaló nyilatkozat vagy készpénz formájában, és
+- c) kérelméhez csatolja a képviseletre jogosult személy(ek) hiteles cégaláírási nyilatkozatát (közjegyzői aláírás-hitelesítéssel ellátott címpéldány) vagy cégbírósághoz benyújtott, ügyvéd által ellenjegyzett aláírásmintát.
+
+(2) Az (1) bekezdés szerinti engedélyben meg kell határozni – a nyújtott biztosítékkal összhangban – a kötelezettségvállalással összességében vállalható legmagasabb összeghatárt, valamint szükség esetén engedély érvényességi idejét.
+
+(3) Az (1) bekezdés szerinti engedély esetén a Vámkódex 22–28. cikkének, az FJA 11–18. cikkének és a VA 10–15. cikkének kérelem alapján hozott határozatokra vonatkozó rendelkezéseit kell alkalmazni.
+
+(4) A garanciajegyek formájában nyújtott egyedi kötelezettségvállalás jóváhagyása esetén e szakasz rendelkezéseit kell alkalmazni.
+
+#### 26/B. A Vámkódex 95. cikkéhez
+
+61/A. § Az FJA 84. cikk (3) bekezdés k) és l) pontokban meghatározott feltételt teljesítettnek kell tekinteni, ha kérelmező a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló törvény szerinti állami fenntartású muzeális intézmény és a kérelem kizárólag árutovábbítási eljárásra vonatkozik.
 
 ### IX. Fejezet — A BEHOZATALI VAGY KIVITELI VÁM ÖSSZEGÉNEK BESZEDÉSE, MEGFIZETÉSE, VISSZAFIZETÉSE ÉS ELENGEDÉSE
 
@@ -1456,6 +1467,8 @@ rendeletben állapítsa meg.
 (9) Ha az ÁFJA annak vizsgálatát írja elő, hogy megsértették-e súlyosan vagy ismételten a vámjogszabályokat vagy adószabályokat, a 23. § (2) bekezdését és a 24. §-t kell alkalmazni.
 
 (10) A vámhatóság az általa elfogadott vámbiztosítékoknak a vámjogszabályokban meghatározott célok biztosítása érdekében a VA 147. cikke szerinti Uniós Vámkódex – Biztosítékkezelés (GUM) rendszer telepítési időpontjáig köteles olyan ellenőrzési rendszert működtetni, amely a biztosítéknyújtás és felszabadítás folyamatát kezeli.
+
+(14) A 26. és 26/A. alcím hatályba lépése előtt kiadott bankgaranciák és biztosítói kötelezvények a lejáratukig vagy visszavonásukig, de legkésőbb 2019. április 30-ig érvényesek. Amennyiben e biztosítékok alapján az adott áruk 2019. április 30-át követően átmeneti megőrzésben vannak vagy vámeljárás alatt állnak, úgy a biztosíték nyújtására kötelezett köteles az e törvényben foglaltaknak megfelelően új biztosítékot nyújtani.
 
 ### XXVIII. Fejezet — AZ EURÓPAI UNIÓ JOGÁNAK VALÓ MEGFELELÉS
 

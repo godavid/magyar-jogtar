@@ -850,7 +850,7 @@ fokozott körültekintéssel kell eljárni.
 
 (3) A kapcsolattartó szervezetek az elektronikus kapcsolattartásra szolgáló informatikai rendszerük által támogatott dokumentumformátumokat a szervezet központi honlapján közzéteszik.
 
-(4) A kapcsolattartó szervezet a küldendő hivatalos iratot szervezeti elektronikus aláírással vagy minősített elektronikus aláírással látja el, kivéve, ha a biztonságos kézbesítési szolgáltatás más módon biztosított. E törvény minősített elektronikus aláírás alkalmazását kötelezővé teheti. A szervezeti elektronikus aláírással ellátott hivatalos irat közokiratnak minősül.
+(4) A kapcsolattartó szervezet a küldendő hivatalos iratot minősített vagy legalább minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással vagy bélyegzővel látja el. E törvény minősített elektronikus aláírás alkalmazását kötelezővé teheti. A legalább fokozott biztonságú elektronikus aláírással vagy bélyegzővel ellátott hivatalos irat is közokiratnak minősül.
 
 (5) A kézbesítési rendszer útján a kapcsolattartó szervezet által küldött hivatalos irat és melléklete informatikai szempontból ellenőrzésre kerül, és ha az nem felel meg a másik kapcsolattartó informatikai követelményeinek, erről a hivatalos irat kézbesítését kezdeményező közvetlenül értesítést kap. Ha a kézbesítendő hivatalos irat és melléklete az informatikai követelményeknek megfelel, erről a kézbesítést kezdeményező a kézbesítési rendszer útján értesítést kap. Ez esetben az értesítés a következő adatokat tartalmazza:
 

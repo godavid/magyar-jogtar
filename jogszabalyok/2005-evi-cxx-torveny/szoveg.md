@@ -246,7 +246,7 @@ köteles adóbevallásában feltüntetni és a bevallás benyújtására előír
 
 ### A magánszemélyt terhelő ekho mértékének helyesbítése
 
-7. § Ha a magánszemély a 4. § (2) bekezdése szerinti nyilatkozattételi lehetőségével – annak feltételei fennállta ellenére – nem élt, illetőleg nyugdíjjárulék fizetésére a Tbj. rendelkezései szerint nem volt kötelezett, a magánszemélyt terhelő ekho nyugdíjjáruléknak minősülő részének megfelelő különbözetet a Tbj.-nek és Art.-nak a nyugdíjjárulék különbözet visszaigénylésére vonatkozó szabályai alkalmazásával igényli vissza.
+7. § Ha a magánszemély a 4. § (2) bekezdése szerinti nyilatkozattételi lehetőségével – annak feltételei fennállta ellenére – nem élt, vagy nyugdíjjárulék fizetésére a Tbj. rendelkezései szerint nem volt kötelezett, a magánszemélyt terhelő ekho nyugdíjjáruléknak minősülő részének megfelelő különbözetet a személyi jövedelemadó bevallásban igényli vissza.
 
 ### Az ekhóval teljesített közterhek
 
@@ -328,3 +328,5 @@ minősül.
 (2) A 3. § (4) bekezdés db) alpontjának a sport támogatásával összefüggő egyes törvények módosításáról szóló 2011. évi LXXXII. törvénnyel megállapított rendelkezését a 2011. január 1-jétől megszerzett bevételekre kell alkalmazni.
 
 14/C. § E törvény 2012. december 31-én hatályos 4. § (2) bekezdését kell alkalmazni a 2013. január 10-éig megszerzett, 2012. decemberi ekho alapot képező olyan jövedelmekre, amelyeket a 2012. december hónapra vonatkozóan benyújtott bevallásban kell bevallani.
+
+14/D. § E törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel megállapított 7. §-a a 2016. évi adókötelezettség megállapításánál is alkalmazható.

@@ -1088,7 +1088,7 @@ a) Magyarország esetében minden Jelentő Magyar Pénzügyi Intézmény minden 
 
 (A) a teljes bruttó kamat összege, a teljes bruttó osztalék összege, és a számlán birtokolt eszközök vonatkozásában keletkező teljes bruttó egyéb bevétel összege, amely minden esetben befizetésre vagy jóváírásra került a számlán (vagy a számlával összefüggésben) az adott naptári év során vagy más megfelelő jelentéstételi időszakban, és
 
-(B) az ingatlaneladásból vagy azzal kapcsolatban a tartozások rendezéséből származó teljes bruttó bevétel, amely az adott naptári évben vagy más megfelelő jelentéstételi időszakban a számlán befizetésre vagy jóváírásra kerül, és amelynek tekintetében a Jelentő Magyar Pénzügyi Intézmény letétkezelőként, brókerként, meghatalmazottként vagy más módon a Számlatulajdonos ügynökeként működött közre;
+(B) a vagyoneladásból vagy azzal kapcsolatban a tartozások rendezéséből származó teljes bruttó bevétel, amely az adott naptári évben vagy más megfelelő jelentéstételi időszakban a számlán befizetésre vagy jóváírásra kerül, és amelynek tekintetében a Jelentő Magyar Pénzügyi Intézmény letétkezelőként, brókerként, meghatalmazottként vagy más módon a Számlatulajdonos ügynökeként működött közre;
 
 (6) bármely Betéti Számla esetében a számlára fizetett vagy jóváírt kamat teljes bruttó összege az adott naptári évben vagy egyéb megfelelő jelentéstételi időszakban; és
 

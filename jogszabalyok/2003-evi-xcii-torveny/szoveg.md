@@ -216,6 +216,8 @@ teljesíti;
 
 6/L. § Ha az adózó vitatja a 6/J. § szerinti minősítését, a minősítéstől vagy a minősítés elmaradásától számított hat hónapon belül kifogást nyújthat be az állami adó- és vámhatósághoz. A határidő elmulasztása esetén igazolási kérelem benyújtásának helye nincs. Ha az állami adó- és vámhatóság a kifogásnak helyt ad, határozathozatal nélkül a kifogásnak megfelelően módosítja az adózó minősítését, melyről az adózót elektronikus úton értesíti. A kifogás elutasításáról az állami adó- és vámhatóság határozatban rendelkezik.
 
+6/M. § Ha a 6/C. § (2)–(4) bekezdése és a 6/I. § alapján egyidejűleg kellene alkalmazni megbízható és kockázatos minősítésre vonatkozó szabályt is, a bírságot e rendelkezések figyelmen kívül hagyásával kell kiszabni.
+
 ### Az adózó képviselete
 
 7. § (1) Magánszemélyt az adóhatóság, az adópolitikáért felelős miniszter által vezetett minisztérium előtt – ha nem kíván személyesen eljárni –
@@ -445,6 +447,8 @@ teljesíti;
 
 - a) az iskolaszövetkezet adószámát,
 - b) az iskolaszövetkezeti tag adóazonosító jelét és társadalombiztosítási azonosító jelét, diákigazolványa számát.
+
+(11a) Az iskolaszövetkezet köteles az állami adó- és vámhatósághoz bejelenteni a jogviszony megszűnését követő 8 napon belül az iskolaszövetkezeti tag jogviszonya megszűnésének napját. Jogutódlás esetén a (4) bekezdés c) pontjában foglaltakat megfelelően alkalmazni kell.
 
 (12) Az iskolaszövetkezet munkáltató bejelentési kötelezettségét az egyszerűsített foglalkoztatás bejelentésével azonos módon
 
@@ -688,9 +692,10 @@ adóazonosító számát, ennek hiányában magánszemély esetén a természete
 22/D. § (1) Az élelmiszer-értékesítést kezelőszemélyzet nélkül végző automata berendezést (a továbbiakban: automataberendezés) üzemeltető adózó köteles a külön jogszabályban meghatározott adattartalommal az állami adó- és vámhatósághoz elektronikus úton bejelenteni:
 
 - a) az értékesítés megkezdését, legkésőbb az értékesítés megkezdését megelőző napon,
-- b) az értékesítés megszüntetését, legkésőbb az azt megelőző napon,
-- c) az értékesítésnek az adózó érdekkörén kívül eső okból bekövetkezett megszűnését, legkésőbb az értékesítés megszűnésének napján,
-- d) haladéktalanul, a külön jogszabályban meghatározott adattartalomban bekövetkezett bármely változást.
+- b) az üzemeltetés szüneteltetésének megkezdését és befejezését legkésőbb a szüneteltetés megkezdésének, illetve befejezésének napján,
+- c) az értékesítés megszüntetését, legkésőbb az azt megelőző napon,
+- d) az értékesítésnek az adózó érdekkörén kívül eső okból bekövetkezett megszűnését, legkésőbb az értékesítés megszűnésének napján,
+- e) haladéktalanul, a külön jogszabályban meghatározott adattartalomban bekövetkezett bármely változást.
 
 (2) Az (1) bekezdés a) pontja szerinti bejelentés igazgatási szolgáltatási díjköteles. A díj mértéke 30 000 Ft, amelyet az állami adó- és vámhatóság által meghatározott számla javára kell megfizetni.
 
@@ -700,6 +705,12 @@ adóazonosító számát, ennek hiányában magánszemély esetén a természete
 - b) az automataberendezés gyártási száma bejelentésre
 
 került.
+
+(4) Az automataberendezéseket automata felügyeleti egységgel (a továbbiakban: AFE) kell ellátni, amely önállóan elkülöníthető zárt, elektronikus adattárolást és adatkommunikációt végez. Az AFE-ben tárolt adatokról az adózó rendszeresen adatszolgáltatást teljesít az állami adó- és vámhatóság részére, amely adatokat az állami adó- és vámhatóság kizárólag az e törvény szerinti adózók ellenőrzéséhez, ellenőrzésre történő kiválasztásához, törvényben meghatározott feladatai ellátásához használhatja fel az adó megállapításához való jog elévülési idején belül.
+
+(5) Az automataberendezések működését az állami adó- és vámhatóság hírközlő eszköz és rendszer útján felügyeli.
+
+(6) A (4)–(5) bekezdésben foglaltak végrehajtása érdekében az automataberendezés üzemeltetőjének szerződést kell kötnie egy felügyeleti szolgáltatóval. A felügyeleti szolgáltató az adatok rögzítésének és a NAV felé történő szolgáltatásának technikai lebonyolítását végzi az AFE automataberendezésbe történő beszerelésével, és az automataberendezés működése során történő folyamatos működtetésével. A felügyeleti szolgáltatás minimális tartalma hatósági ár-köteles.
 
 ### A termékek közúti fuvarozásával kapcsolatos bejelentési kötelezettség
 
@@ -3873,12 +3884,12 @@ esetén, ha azt adóra, járulékra vagy költségvetési támogatásra követik
 
 (4a) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy
 
-- a) az automataberendezések üzemeltetőinek adókötelezettségével,
-- b) a bejelentési eljárásért fizetendő igazgatási szolgáltatási díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével,
-- c) az automataberendezések műszaki követelményeivel, üzemeltetésüknek és szervizelésüknek, valamint az automataberendezésekben rögzített adatok adóhatóság felé történő szolgáltatásával,
-- d) a felügyeleti szolgáltatóval kapcsolatos követelményekkel és az automataberendezéshez kapcsolódó felügyeleti szolgáltatás minimális tartalmával, a hatósági árral és annak alkalmazási feltételeivel
+- a) az automataberendezések üzemeltetőinek adókötelezettségeinek, az automataberendezés és az AFE üzemeltetésével, szervizelésével kapcsolatos kötelezettségek ellenőrzésének,
+- b) a bejelentési eljárásért fizetendő igazgatási szolgáltatási díj beszedésének, kezelésének, nyilvántartásának, visszatérítésének,
+- c) az AFE műszaki követelményeinek, üzemeltetésének és szervizelésének, az AFE által rögzített adatok állami adó- és vámhatóság felé történő szolgáltatásának, a felügyeleti szolgáltatókat tanúsító független tanúsító szervezet tevékenységének, a felügyeleti szolgáltatói szerződésnek, valamint a felügyeleti szolgáltató felelősségének,
+- d) a felügyeleti szolgáltatóval szemben támasztott követelményeknek, a felügyeleti szolgáltatói engedélyezési eljárásért és az engedély módosításáért fizetendő igazgatási szolgáltatási díj fizetésének, a felügyeleti szolgáltató regisztrációjának, a felügyeleti szolgáltatás minimális tartalmának, a hatósági árnak és annak alkalmazási feltételeinek
 
-kapcsolatos részletes szabályokat rendeletben határozza meg.
+részletes szabályait rendeletben határozza meg.
 
 (5) Az adóhatóság a fizetési meghagyást, a fizetési felszólítást és az adóívet nyomtatványon is kiadhatja.
 
@@ -4124,13 +4135,16 @@ besorolási rendjét kell irányadónak tekinteni. A besorolási rend ezt követ
 - a) a külön jogszabály szerint pénztárgép használatra kötelezett, vagy
 - b) a külön jogszabály szerint pénztárgép használatra nem kötelezett, de pénztárgépet saját döntése alapján használó.
 
-176/H. § (1) A hatósági ár az e törvény végrehajtására kiadott miniszteri rendeletben rögzített ár.
+(3) Ezen alcím alkalmazásában hatósági ár az üzemeltető részére nyújtott, az automataberendezések adatszolgáltatását biztosító minimális felügyeleti szolgáltatás ára.
+
+176/H. § (1) A hatósági ár
+
+- a) az általános forgalmi adóról szóló törvény szerinti, a nyugtaadási kötelezettség gépi kiállítással történő megvalósítása esetén kötelező, közvetlen adatlekérdezéssel megvalósított adatszolgáltatás esetén az e törvény végrehajtására kiadott miniszteri rendeletben rögzített ár,
+- b) az automataberendezések adatszolgáltatását biztosító minimális felügyeleti szolgáltatás esetén az e törvény végrehajtására kiadott miniszteri rendeletben meghatározott legmagasabb ár.
 
 (2) A hatósági ár megállapítása történhet tételesen vagy a hatósági ár kiszámítására vonatkozó előírásokkal.
 
 (3) A hatósági árat alkalmazási feltételeivel együtt az adópolitikáért felelős miniszter állapítja meg.
-
-(3) Ezen alcím alkalmazásában hatósági ár az üzemeltető részére nyújtott, az automataberendezések adatszolgáltatását biztosító valamennyi szolgáltatás ára.
 
 (4) A hatósági ár megállapítása hivatalból történik.
 
@@ -4155,6 +4169,39 @@ besorolási rendjét kell irányadónak tekinteni. A besorolási rend ezt követ
 (11) A (10) bekezdés c) pontja szerinti bírság mértéke legalább a jogsértő magatartással elért anyagi előny, és nem haladhatja meg a jogsértő magatartással elért anyagi előny kétszeresét.
 
 (12) A Nemzeti Média és Hírközlési Hatóság (10) bekezdésben szabályozott eljárására a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
+
+### Az élelmiszer-értékesítést kezelőszemélyzet nélkül végző automataberendezésben elhelyezett Automata Felügyeleti Egységgel és a felügyeleti szolgáltatóval szembeni követelmények
+
+176/I. § (1) A felügyeleti szolgáltatói tevékenység hatósági engedélyhez kötött tevékenység.
+
+(2) A felügyeleti szolgáltatói engedélyezési eljárás tekintetében a Magyar Kereskedelmi Engedélyezési Hivatal (a továbbiakban: engedélyező hatóság) jár el.
+
+(3) A felügyeleti szolgáltatói tevékenységre vonatkozó engedélyezési eljárás lefolytatásához szükséges, adótitoknak minősülő adatokról az állami adó- és vámhatóság tájékoztatja az engedélyező hatóságot.
+
+(4) Az engedélyező hatóság honlapján folyamatosan nyilvánosságra hozza
+
+- a) az érvényes engedéllyel rendelkező felügyeleti szolgáltatók nevét és címét,
+- b) a visszavont engedélyű felügyeleti szolgáltató nevét és címét, engedélyszámát, az engedély visszavonásának dátumát, a visszavonás okát, valamint a visszavonással érintett AFE-k megnevezését,
+- c) a felügyeleti szolgáltató jogutód nélküli megszűnése miatt érvénytelenné vált engedély számát és az érvénytelenné válás időpontját,
+- d) a felügyeleti szolgáltató jogutóddal történő megszűnése esetén a jogelőd és a jogutód nevét és címét, valamint az engedély engedélyszámát és átírásának időpontját.
+
+(5) A felügyeleti szolgáltatói tevékenységre vonatkozó engedély kiadásáért, módosításáért jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni.
+
+(6) Független tanúsító szervezet igazolja, hogy a felügyeleti szolgáltató az e törvény végrehajtására kiadott rendelet szerinti informatikai és biztonsági követelményeknek megfelel.
+
+(7) A 22/D. § (6) bekezdése szerinti felügyeleti szolgáltatási szerződés a felügyeleti szolgáltatás nyújtásáról a felügyeleti szolgáltató és az üzemeltető között jön létre. A felügyeleti szolgáltatási szerződés részletes szabályait az e törvény végrehajtására kiadott rendelet tartalmazza.
+
+(8) A felügyeleti szolgáltató a szolgáltatást szünetelteti, ha az üzemeltető a felügyeleti szolgáltatónak bejelentette az automataberendezés üzemeltetésének 30 napot meghaladó szünetelését.
+
+(9) Az AFE jogszerű működéséért és a 22/D. § (4) bekezdés szerinti adatszolgáltatás teljesítéséért a felügyeleti szolgáltató a felelős.
+
+(10) Az automataberendezések üzemeltetésével és az AFE-val kapcsolatos, az e törvény végrehajtására kiadott rendeletben meghatározott kötelezettségeket – a kötelezettség fennállása alatt és az azt követő ötödik naptári év végéig – az állami adó- és vámhatóság ellenőrzi.
+
+(11) Az állami adó- és vámhatóság az üzemeltető, a felügyeleti szolgáltató vagy más személy (10) bekezdés szerinti ellenőrzése során talált automataberendezést, illetve AFE-t vizsgálat céljából átvételi elismervény ellenében legfeljebb 15 napra bevonhatja, ha az automataberendezéssel, illetve AFE-val történő visszaélés gyanúját észleli, és a tényállás másként nem tisztázható. A bevont automataberendezést, illetve AFE berendezést az állami adó- és vámhatóság annak megállapítása érdekében, hogy az automataberendezés, illetve AFE megfelel az e törvény végrehajtására kiadott rendeletben meghatározott műszaki követelményeknek (a továbbiakban: ellenőrző vizsgálat), átadja az engedélyező hatóság részére.
+
+(12) A (11) bekezdést kell alkalmazni, ha az AFE működésének az e törvény végrehajtására kiadott rendeletben meghatározott hírközlő eszköz és rendszer útján történő felügyelete során az állami adó- és vámhatóság AFE-val történő visszaélés gyanúját észleli, és a tényállás másként nem tisztázható.
+
+(13) Ha az ellenőrző vizsgálat eredményeként megállapítást nyer, hogy az AFE az e törvény végrehajtására kiadott rendeletben meghatározott követelményeknek nem felel meg, és ez befolyásolja az adózással összefüggő funkciókat és a hiba, hiányosság nem küszöbölhető ki, vagy azt az arra kötelezett az előírt határidőn belül nem teljesíti, az engedélyező hatóság határozattal előírja az AFE engedélyező hatóság részére történő leadását. A leadott AFE-t az engedélyező hatóság megsemmisíti, és erről az állami adó- és vámhatóságot értesíti.
 
 ### A hallgatói hitel törlesztésére vonatkozó különösszabályok
 
@@ -4633,6 +4680,16 @@ végrehajtási eljárásokban is alkalmazni kell.
 223. § (1) Az adószámmal nem rendelkező adózó a 2015. december 31-ig jogerőre emelkedett, adó feltételes megállapítását tartalmazó határozat alapjául szolgáló tényállás megvalósulására irányuló ellenőrzés iránti kérelmet nyújthat be az adóhatósághoz 2016. július 31-ig. A határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye. Az ellenőrzést az adóhatóság a kérelem benyújtását követő két hónapon belül megindítja.
 
 (2) Ha az (1) bekezdés szerint az adózó kérelmére megindított ellenőrzés során az adóhatóság azt állapította meg, hogy a feltételes adómegállapítás az adóhatóságra a tényállás megváltozása miatt nem kötelező, akkor az ellenőrzést lezáró határozatában megállapítja a feltételes adómegállapítás iránti kérelemben meghatározott ügylet keretében az adózó által 2015. december 31-ig megszerzett, a jövedelemszerzés időpontjában hatályos jogszabályi rendelkezések szerint adóköteles jövedelmet terhelő adót is. Az adót az adóhatóság a jövedelemszerzés időpontjában hatályos jogszabályok szerinti legalacsonyabb adómérték szerint állapítja meg.
+
+226. § E törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel (a továbbiakban: Módtv.6.) megállapított rendelkezéseit a hatálybalépésekor jogerősen el nem bírált ügyekben, továbbá a hatálybalépést követően az azt megelőző időszakra teljesítendő, illetve esedékessé vált kötelezettségekre is kell alkalmazni azzal, hogy ha a jogszabálysértés elkövetésének időpontjában hatályos rendelkezések az adózóra összességében kevésbé terhes bírság-, pótlékfeltételeket határoztak meg, a kötelezettségre legfeljebb az elkövetéskor hatályos törvényben meghatározott legmagasabb mérték alkalmazható.
+
+230. § (1) A 22/D. § (4)–(5) bekezdés szerinti kötelezettség 2017. június 30. napjától terheli az üzemeltetőt.
+
+(2) Ha e törvény másként nem rendelkezik, 2017. június 30-tól kizárólag AFE-val ellátott automataberendezés üzemeltethető.
+
+(3) Az (1) bekezdéstől eltérően, 2018. január 1-ig mentesül az adózó a 22/D. § (4) bekezdése szerinti adatszolgáltatási kötelezettség alól, ha valamennyi felügyeleti szolgáltató nyilatkozik arról, hogy az automataberendezésnek az AFE-val való ellátási igényét nem képes teljesíteni.
+
+(4) A (3) bekezdés szerinti automataberendezés 2017. december 31-ig üzemeltethető.
 
 ### 1. számú melléklet a 2003. évi XCII. törvényhez
 

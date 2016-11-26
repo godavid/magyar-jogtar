@@ -378,9 +378,9 @@ tekintetében.
 - 20. központi kézbesítési ügynök,
 - 21. jogszabályban szabályozott elektronikus ügyintézési szolgáltatásként nevesített további elektronikus ügyintézéssel kapcsolatos szolgáltatás.
 
-30/B. § (1) Az ügyész hivatali elektronikus aláírása a Legfőbb Ügyészség által rendszeresített minősített elektronikus aláírás. Az ügyész a hatáskörébe tartozó ügyben elkészített, a kiadmányozási jogkörébe tartozó elektronikus okiratot hivatali elektronikus aláírással látja el.
+30/B. § (1) Az ügyész hivatali elektronikus aláírása a Legfőbb Ügyészség által rendszeresített elektronikus aláírás. Az ügyész a hatáskörébe tartozó ügyben elkészített, a kiadmányozási jogkörébe tartozó elektronikus okiratot elektronikus aláírásával látja el.
 
-(2) A 30/A. § (2) bekezdése szerint szabályozott elektronikus ügyintézési szolgáltatás során kiállított, szervezeti elektronikus aláírással ellátott irat közokirat.
+(2) Az ügyészség által szabályozott elektronikus ügyintézési szolgáltatás során kiállított, minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással ellátott irat közokirat.
 
 #### 9/B. Az elektronikus űrlap
 

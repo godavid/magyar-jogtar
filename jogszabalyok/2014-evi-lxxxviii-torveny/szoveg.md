@@ -1956,7 +1956,7 @@ van összefüggésben.
 
 154. § (1) A biztosító a tájékoztatást elektronikus kereskedelmi szolgáltatás nyújtása esetén az ügyfél számára folyamatosan és könnyen elérhető módon elektronikus úton is köteles elérhetővé tenni.
 
-(2) Ha a biztosító elfogadó nyilatkozatát az elektronikus aláírásról szóló törvényben meghatározott fokozott biztonságú elektronikus aláírást tartalmazó elektronikus dokumentum igazolja, a biztosító köteles a 152. § (2) bekezdésében meghatározott tájékoztatót az ügyfél számára folyamatosan és könnyen elérhető módon elektronikus úton hozzáférhetővé tenni.
+(2) Ha a biztosító elfogadó nyilatkozatát fokozott biztonságú elektronikus aláírást tartalmazó elektronikus dokumentum igazolja, a biztosító köteles a 152. § (2) bekezdésében meghatározott tájékoztatót az ügyfél számára folyamatosan és könnyen elérhető módon elektronikus úton hozzáférhetővé tenni.
 
 155. § (1) A biztosító – ha törvény eltérően nem rendelkezik – bizonyítható módon köteles beszerezni ügyfele arra vonatkozó külön nyilatkozatát, hogy a 152. § (1) bekezdésében és a 153. § (2) bekezdésében meghatározott tájékoztatást megkapta.
 

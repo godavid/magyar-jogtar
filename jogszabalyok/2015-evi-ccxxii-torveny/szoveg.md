@@ -47,7 +47,8 @@ Az Országgyűlés az elektronikus ügyintézés széles körű elterjedése, az
   - i) a hegyközségek kivételével a köztestületek,
   - j) a közüzemi szolgáltatók,
   - k) a törvényben vagy kormányrendeletben elektronikus ügyintézésre kötelezett közfeladatot ellátó vagy közszolgáltatást nyújtó jogalanyok, valamint
-  - l) a Kormány által rendeletben meghatározott ügyek e törvény szerinti elektronikus intézését önkéntesen vállaló, az e törvényben meghatározott feltételeknek megfelelően biztosító, az a)–k) alpont hatálya alá nem tartozó jogalanyok;
+  - l) a meghatározott ügyek e törvény szerinti elektronikus intézését önkéntesen vállaló, az e törvényben meghatározott feltételeknek megfelelően biztosító és ezt az Elektronikus Ügyintézési Felügyeletnek bejelentő, az a)–k) alpont hatálya alá nem tartozó jogalanyok;
+- 17a. Elektronikus ügyintézés biztosítására kötelezett állami szerv: az 17. pont a), b), d)–f) alpontja szerinti szervek, valamint a 17. pont c), k) és l) pontja szerinti állami vagy önkormányzati jogalanyok;
 - 18. Elektronikus Ügyintézési Felügyelet (a továbbiakban: Felügyelet): az elektronikus ügyintézés előmozdításáért, az elektronikus ügyintézés felügyeletéért, az együttműködő szervek együttműködéséért és koordinációjáért felelős, e törvényben és a törvény végrehajtására kiadott kormányrendeletben meghatározott feladatokat ellátó, Kormány által kijelölt szerv;
 - 19. elektronikus űrlapkitöltés-támogatási szolgáltatás: olyan szolgáltatás, amelynek keretében a jogszabályban kijelölt szolgáltató biztosítja az elektronikus ügyintézést biztosító szerv által meghatározott adattartalmú elektronikus űrlapok létrehozását, azok ügyfél általi kitöltésének és benyújtásának lehetőségét;
 - 20. érvényesítési adat: az eIDAS Rendelet 3. cikk 40. pontja szerinti adat;
@@ -129,7 +130,7 @@ kell alkalmazni.
 
 (6) A bizalmi szolgáltató jogosult arra, hogy bizalmi szolgáltatását különböző feltételekkel (így különösen eltérő felelősségvállalással vagy eltérő bizalmi szolgáltatási rendnek való megfelelés szerint) nyújtsa.
 
-(7) A bizalmi szolgáltató a szerződéskötést követően tartós adathordozón a bizalmi szolgáltatás ügyfelének rendelkezésére bocsátja a szolgáltatási szerződést, a bizalmi szolgáltatási rendet és a szolgáltatási szabályzatot.
+(7) A bizalmi szolgáltató a szerződéskötést követően tartós adathordozón vagy a bizalmi szolgáltatási ügyfél számára letölthető módon a bizalmi szolgáltatás ügyfelének rendelkezésére bocsátja a szolgáltatási szerződést, a bizalmi szolgáltatási rendet és a szolgáltatási szabályzatot.
 
 #### 51. A bizalmi szolgáltatás keretében kibocsátott tanúsítványokkal kapcsolatos ellenőrzés
 
@@ -411,7 +412,7 @@ egyidejűleg tartalmazza.
 
 (6) Az e § szerint előállított elektronikus kiadmány bizonyító ereje az alapul szolgáló papír alapú irattal megegyezik.
 
-104. § (1) Az informatikai fejlesztések egységességének, az informatikai rendszerek együttműködési képességének biztosítása érdekében minden állami szerv köteles bejelenteni az elektronikus kapcsolattartást vagy az informatikai rendszerek együttműködési képességét érintő informatikai fejlesztési terveit a Kormány rendeletében kijelölt szervnek a rendeletben meghatározottak szerint.
+104. § (1) Az informatikai fejlesztések egységességének, az informatikai rendszerek együttműködési képességének biztosítása érdekében minden elektronikus ügyintézés biztosítására kötelezett állami szerv a Kormány rendeletében meghatározottak szerint, az elektronikus kapcsolattartást vagy az informatikai rendszerek együttműködési képességét érintő fejlesztései tekintetében informatikai fejlesztési tervet készít és azt bejelenti a Kormány rendeletében kijelölt szervnek a rendeletben meghatározottak szerint.
 
 (2) A kijelölt szerv az elektronikus kormányzati stratégiai célokhoz és az infokommunikációs infrastruktúrához történő illeszkedés szempontjára figyelemmel kialakított álláspontjáról tizenöt munkanapon belül tájékoztatja a bejelentő szervet.
 
@@ -444,7 +445,7 @@ egyidejűleg tartalmazza.
 (3) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
 - a)–k)
-- l) a 104. § (1) bekezdés szerinti bejelentés részletes szabályait,
+- l) a 104. § (1) bekezdés szerinti informatikai fejlesztési tervre, valamint bejelentésre és a bejelentés jogkövetkezményeire vonatkozó részletes szabályokat,
 - m)–n)
 
 (4)
@@ -460,7 +461,7 @@ egyidejűleg tartalmazza.
 
 - a) a bizalmi szolgáltatásokkal kapcsolatos részletes követelményeket, így különösen a bizalmi szolgáltatók pénzügyi és személyzeti megfelelőségével, a tevékenységével és az általa használt eszközökkel kapcsolatos követelményeket, az igénybe vevők szerződésének megkötésével és a szerződéskötéssel összefüggő tájékoztatási kötelezettségével kapcsolatos követelményeket, valamint a szolgáltatási szerződésre, a bizalmi szolgáltatás nyújtásának egyéb feltételeire (így a bizalmi szolgáltatási rendre és szolgáltatási szabályzatra) vonatkozó részletes feltételeket,
 - b) a bizalmi felügyelet által vezetett nyilvántartás tartalmával és a bizalmi szolgáltatás nyújtásával összefüggő bejelentésekkel kapcsolatos követelményeket,
-- c) az adópolitikáért felelős miniszterrel egyetértésben a bizalmi felügyeletnek fizetendő igazgatási szolgáltatási díjak mértékét rendeletben állapítsa meg.
+- c) az adópolitikáért felelős miniszterrel egyetértésben a bizalmi felügyeletnek fizetendő igazgatási szolgáltatási díjak mértékét, valamint a díj megfizetésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat; rendeletben állapítsa meg.
 
 #### 61. Hatályba léptető rendelkezések
 

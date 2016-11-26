@@ -467,7 +467,7 @@ Tbj. 31. § (1) Több biztosítási kötelezettséggel járó jogviszony egyidej
 (4) A természetbeni és pénzbeli egészségbiztosítási járulék, valamint a nyugdíjjárulék alapja a ténylegesen elért járulékalapot képező jövedelem, eva adózó egyéni vállalkozó esetében az Eva tv.-ben meghatározott adóalap 4 százaléka, átalányadózó egyéni vállalkozó esetében az átalányban megállapított jövedelem, ha
 
 - a) az egyéni vállalkozó, a társas vállalkozó legalább heti 36 órás foglalkoztatással járó munkaviszonyban is áll, vagy
-- b) az egyéni vállalkozó, a társas vállalkozó közép- vagy felsőfokú oktatási intézményben nappali rendszerű oktatás keretében folytat tanulmányokat. A heti 36 órás foglalkoztatás megállapításánál az egyidejűleg fennálló munkaviszonyokban előírt munkaidőt össze kell számítani.
+- b) az egyéni vállalkozó, a társas vállalkozó a nemzeti köznevelésről szóló törvény, valamint a nemzeti felsőoktatásról szóló törvény szerinti közép- vagy felsőfokú oktatási intézményben, az Európai Gazdasági Térség tagállamában vagy Svájcban közép- vagy felsőoktatási intézményben nappali rendszerű oktatás keretében folytat tanulmányokat. A heti 36 órás foglalkoztatás megállapításánál az egyidejűleg fennálló munkaviszonyokban előírt munkaidőt össze kell számítani.
 
 (5) Amennyiben a társas vállalkozóként biztosított több gazdasági társaság személyesen közreműködő tagja vagy ügyvezetője, a járulékfizetési alsó határ utáni járulékot – évente egy alkalommal történő választása szerint – egyszer kell figyelembe venni. A társas vállalkozó e választásáról a tárgyév január 31-éig nyilatkozik a társas vállalkozásnak.
 
@@ -1047,5 +1047,7 @@ Tbj. 65/D. § A 43/A. §-ban meghatározott adatátadást első alkalommal a 201
 Tbj. 65/E. § Az esedékességet követően a 2015. január 1-jét megelőző időszakra kifizetett (juttatott) járulékalapot képező jövedelmekre a 2014. december 31-én hatályos 18. § (1) bekezdés e) pontját, 19. § (6) bekezdését, 20/A. §-át, 27. § (5) bekezdését, 29. § (8) bekezdését, valamint az egyes adótörvények módosításáról szóló 2007. évi CXXVI. törvény XXVII. Fejezetét kell alkalmazni.
 
 Tbj. 65/G. § A 11/B. § a 2016. január 1-jétől megkezdett kiküldetések esetén is alkalmazható.
+
+Tbj. 65/H. § Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel megállapított 31. § (4) bekezdés b) pontja az Art. szerinti elévülési időn belül visszamenőlegesen alkalmazható.
 
 ### Melléklet az 1997. évi LXXX. törvényhez

@@ -124,7 +124,7 @@ a megfelelőségértékelő szervezetek tevékenységéről
 - b) a kijelölési eljárásnak az adott termékszabályozás sajátosságaival összefüggő különös szabályait – ideértve a kérelmező szervezet alkalmassága és felkészültsége igazolásának módját, valamint az engedély hatályának meghatározását –,
 - c) a kijelölt szervezetek éves jelentésének tartalmi követelményeit, benyújtásának idejét és módját,
 - d) a kijelölt szervezetek kijelölést követő ellenőrzésének az adott termékszabályozás sajátosságaival összefüggő különös szabályait, valamint
-- e) – az adópolitikáért felelős miniszterrel egyetértésben – a kijelölési eljárásért fizetendő igazgatási szolgáltatási díjak mértékét és a megfizetésükre, felhasználásukra vonatkozó szabályokat rendeletben határozza meg.
+- e) – az adópolitikáért felelős miniszterrel egyetértésben – a kijelölési eljárásért fizetendő igazgatási szolgáltatási díjak mértékét és a díj megfizetésével, kezelésével, nyilvántartásával. visszatérítésével kapcsolatos szabályokat rendeletben határozza meg.
 
 ### Hatálybalépés és átmeneti rendelkezések
 

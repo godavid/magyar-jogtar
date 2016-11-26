@@ -401,15 +401,15 @@ az igazságügyi alkalmazottak szolgálati jogviszonyáról
 
 ### Az elektronikus aláírási jog
 
-35/A. § (1) Az igazságügyi alkalmazott az igazságügyi szerv döntésétől függően fokozott biztonságú vagy minősített – hivatali – elektronikus aláírásával látja el a hatáskörébe vagy munkakörébe tartozó ügyben készült elektronikus okiratot. A bíróságokkal létesített igazságügyi szolgálati viszonyban álló igazságügyi alkalmazottak vonatkozásában az igazságügyi szervet megillető jogokat és terhelő kötelezettségeket az elektronikus aláírási jogosultsággal kapcsolatos kérdésekben az OBH elnöke gyakorolja.
+35/A. § (1) Az igazságügyi alkalmazott minősített – hivatali – elektronikus aláírásával látja el a hatáskörébe vagy munkakörébe tartozó ügyben készült elektronikus okiratot. A bíróságokkal létesített igazságügyi szolgálati viszonyban álló igazságügyi alkalmazottak vonatkozásában az igazságügyi szervet megillető jogokat és terhelő kötelezettségeket az elektronikus aláírási jogosultsággal kapcsolatos kérdésekben az OBH elnöke gyakorolja.
 
-(2) Az igazságügyi alkalmazott a fokozott biztonságú vagy minősített elektronikus aláírással (a továbbiakban: elektronikus aláírás) kapcsolatos szolgáltatáshoz az igazságügyi szerv által megjelölt, az elektronikus aláírásról szóló 2001. évi XXXV. törvény (a továbbiakban: Eat.) szerinti elektronikus aláírással kapcsolatos szolgáltatást nyújtót (a továbbiakban: Szolgáltatót) veszi igénybe.
+(2) Az igazságügyi alkalmazott a minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással (a továbbiakban: elektronikus aláírás) kapcsolatos szolgáltatáshoz az igazságügyi szerv által megjelölt elektronikus aláírással kapcsolatos szolgáltatást nyújtót (a továbbiakban: Bizalmi szolgáltató) vesz igénybe.
 
-(3) Az igazságügyi alkalmazott az elektronikus aláírásával kapcsolatos szolgáltatás igénybevétele, fenntartása, illetve megszüntetése során az Eat. rendelkezései szerint jár el. Az igazságügyi alkalmazott a Szolgáltató részére nyújtott tájékoztatással egyidejűleg értesíti az igazságügyi szervet az Eat. 13. §-ában foglalt tájékoztatási kötelezettségének teljesítéséről.
+(3) Az igazságügyi alkalmazott az elektronikus aláírásával kapcsolatos szolgáltatás igénybevétele, fenntartása, illetve megszüntetése során az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) rendelkezései szerint jár el. Az igazságügyi alkalmazott a Bizalmi szolgáltató részére nyújtott tájékoztatással egyidejűleg értesíti az igazságügyi szervet az E-ügyintézési tv. 97. § (4) bekezdése szerinti tájékoztatási kötelezettségének teljesítéséről.
 
-(4) Az aláírás-létrehozó adat elvesztését vagy illetéktelen személy tudomására jutását az igazságügyi alkalmazott az igazságügyi szervnek is haladéktalanul jelenti, amely arról értesíti a Szolgáltatót. A Szolgáltató az igazságügyi szerv megkeresésére akkor köteles a tanúsítványt haladéktalanul visszavonni, ha az aláírás-létrehozó adat elvesztéséről vagy illetéktelen személy tudomására jutásáról szóló bejelentést részére az igazságügyi alkalmazott korábban nem tette meg.
+(4) Az aláírás-létrehozó adat elvesztését vagy illetéktelen személy tudomására jutását az igazságügyi alkalmazott az igazságügyi szervnek is haladéktalanul jelenti, amely arról értesíti a Bizalmi szolgáltatót. A Bizalmi szolgáltató az igazságügyi szerv megkeresésére akkor köteles a tanúsítványt haladéktalanul visszavonni, ha az aláírás-létrehozó adat elvesztéséről vagy illetéktelen személy tudomására jutásáról szóló bejelentést részére az igazságügyi alkalmazott korábban nem tette meg.
 
-(5) Az igazságügyi szerv az elektronikus aláírás hitelesítése céljából kiállított tanúsítvány visszavonását, illetve felfüggesztését az igazságügyi alkalmazott beosztásának megváltozása, szolgálati viszonyának megszűnése, illetve egyéb ok esetén a Szolgáltatónál kezdeményezi. A Szolgáltató köteles az igazságügyi szerv megkeresésére a tanúsítványt haladéktalanul visszavonni, illetve felfüggeszteni.
+(5) Az igazságügyi szerv az elektronikus aláírás hitelesítése céljából kiállított tanúsítvány visszavonását, illetve felfüggesztését az igazságügyi alkalmazott beosztásának megváltozása, szolgálati viszonyának megszűnése, illetve egyéb ok esetén a Bizalmi szolgáltatónál kezdeményezi. A Bizalmi szolgáltató köteles az igazságügyi szerv megkeresésére a tanúsítványt haladéktalanul visszavonni, illetve felfüggeszteni.
 
 (6) Az igazságügyi alkalmazottak elektronikus aláírásával kapcsolatos részletes igazgatási szabályokat az OBH elnöke határozza meg.
 
@@ -984,7 +984,7 @@ okozta.
 
 (3) Az adatok közül az igazságügyi szerv megnevezése, az igazságügyi alkalmazott neve, munkakörének az elnevezése, valamint elektronikus aláírási jogosultsága és annak típusa közérdekből nyilvános adatnak minősül, bármely más adat – a (4) bekezdésben foglalt kivétellel – nem igazságügyi szerv részére csak a személyazonosításra alkalmatlan módon adható ki.
 
-(4) Az igazságügyi szerv – a bíróságokkal létesített igazságügyi szolgálati viszony esetén az OBH – jogosult az elektronikus aláírási jogosultságról vezetett nyilvántartás adataiból a Szolgáltató részére az elektronikus aláírással kapcsolatos szolgáltatás biztosításához az Eat. szerint szükséges mértékben adatot továbbítani.
+(4) Az igazságügyi szerv – a bíróságokkal létesített igazságügyi szolgálati viszony esetén az OBH – jogosult az elektronikus aláírási jogosultságról vezetett nyilvántartás adataiból a Bizalmi szolgáltató részére az elektronikus aláírással kapcsolatos szolgáltatás biztosításához az E-ügyintézési tv. szerint szükséges mértékben adatot továbbítani.
 
 (5) A személyi nyilvántartást a szolgálati viszony megszűnését követően – a 37/B. § (4) bekezdésben meghatározott kivétellel – ötven évig kell megőrizni.
 

@@ -43,7 +43,7 @@ után 14 százalékos mértékű egészségügyi hozzájárulást fizet mindaddi
 - b) szociális hozzájárulási adó alapját képezi, vagy
 - c) az Szja tv. alapján adómentes vagy nem kell a jövedelemszámítás során figyelembe venni.
 
-(6) Az Szja tv. 70. § (4) bekezdés második mondata szerinti egyes meghatározott juttatás utáni 27 százalékos mértékű egészségügyi hozzájárulás összegét az adóévet követő év május hónapjának kötelezettségeként kell bevallani és megfizetni, azzal, hogy a fizetési kötelezettséget csökkenti az ugyanazon alap (Szja tv. 70. § (4) bekezdés második mondata) után számított, a (4) bekezdés alapján megállapított egészségügyi hozzájárulás.
+(6)
 
 (7) Az Szja tv. 28. § (2) bekezdése szerinti jövedelem után a jövedelmet szerző magánszemélyt terhelő egészségügyi hozzájárulás mértéke – az (1) bekezdésben foglaltaktól eltérően – 14 százalék, ha a jövedelem megszerzésének időpontja a lejárati szolgáltatással nem bíró, teljes életre (kizárólag halál esetére) szóló, visszavásárlási értékkel bíró életbiztosítás megkötésétől – de legkorábban 2013. január 1-jétől – számított 10 évet követő időpontra esik.
 

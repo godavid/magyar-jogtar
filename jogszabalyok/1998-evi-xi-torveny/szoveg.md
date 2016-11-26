@@ -144,12 +144,12 @@ az ügyvédekről
 
 12/B. § (1) Ügyvédi tevékenység végzése során – ha jogszabály az ügyvéd számára elektronikus aláírás használatát írja elő – csak a következő feltételeknek megfelelő minősített elektronikus aláírás használható:
 
-- a) az elektronikus aláíráshoz tartozó tanúsítványban a hitelesítés-szolgáltató feltüntette az aláíró ügyvédi kamarai tagságának fennállását;
-- b) a hitelesítés-szolgáltató biztosítja, hogy a tanúsítvánnyal kapcsolatos érvényes visszavonási kérelem alapján a módosított visszavonási állapotot legfeljebb 3 percen belül közzéteszi a nyilvántartásában, és a tanúsítvány ellenőrzését kérő felhasználóknak a tanúsítvány visszavonási állapotáról folyamatos tájékoztatást ad.
+- a) az elektronikus aláíráshoz tartozó tanúsítványban a bizalmi szolgáltató feltüntette az aláíró ügyvédi kamarai tagságának fennállását;
+- b) a bizalmi szolgáltató biztosítja, hogy a tanúsítvánnyal kapcsolatos érvényes visszavonási kérelem alapján a módosított visszavonási állapotot legfeljebb 3 percen belül közzéteszi a nyilvántartásában, és a tanúsítvány ellenőrzését kérő felhasználóknak a tanúsítvány visszavonási állapotáról folyamatos tájékoztatást ad.
 
-(2) A hitelesítés-szolgáltató az (1) bekezdés szerinti elektronikus aláírás tanúsítványát csak abban az esetben bocsáthatja ki, ha az aláíró ügyvédi kamarai tagságának fennállását részére a területi ügyvédi kamara igazolta.
+(2) A bizalmi szolgáltató az (1) bekezdés szerinti elektronikus aláírás tanúsítványát csak abban az esetben bocsáthatja ki, ha az aláíró ügyvédi kamarai tagságának fennállását részére a területi ügyvédi kamara igazolta.
 
-(3) A hitelesítés-szolgáltató értesíti a területi ügyvédi kamarát a tanúsítvány kibocsátásáról.
+(3) A bizalmi szolgáltató értesíti a területi ügyvédi kamarát a tanúsítvány kibocsátásáról.
 
 (4) Az ügyvéd az elektronikus aláírásról szóló 2001. évi XXXV. törvény 13. §-a szerinti tájékoztatási kötelezettségének teljesítéséről a tájékoztatással egyidejűleg értesíti a területi ügyvédi kamarát is.
 
@@ -160,9 +160,9 @@ az ügyvédekről
 - c) ügyvédi tevékenységét szünetelteti,
 - d) az aláírás-létrehozó adat elvesztéséről vagy arról szerzett tudomást, hogy az aláírás létrehozására illetéktelen személy vált képessé.
 
-(6) A területi ügyvédi kamara az (5) bekezdés a)–c) pontjában, az ügyvéd a d) pontjában foglalt esetben kezdeményezi a hitelesítés-szolgáltatónál az elektronikus aláíráshoz tartozó tanúsítvány érvényességének felfüggesztését, illetve visszavonását.
+(6) A területi ügyvédi kamara az (5) bekezdés a)–c) pontjában, az ügyvéd a d) pontjában foglalt esetben kezdeményezi a bizalmi szolgáltatónál az elektronikus aláíráshoz tartozó tanúsítvány érvényességének felfüggesztését, illetve visszavonását.
 
-(7) A hitelesítés-szolgáltató a tanúsítvány érvényességét a területi ügyvédi kamara megkeresésére haladéktalanul felfüggeszti, illetve a tanúsítványt visszavonja.
+(7) A bizalmi szolgáltató a tanúsítvány érvényességét a területi ügyvédi kamara megkeresésére haladéktalanul felfüggeszti, illetve a tanúsítványt visszavonja.
 
 12/C. § A Magyar Ügyvédi Kamara és a kamara az alapszabályában vagy kamarai szabályzatában közigazgatási hatósági ügynek nem minősülő eljárásaiban is lehetővé teheti a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti elektronikus kapcsolattartás szabályainak alkalmazását. A Magyar Ügyvédi Kamara és a kamara a közigazgatási hatósági eljárás általános szabályairól szóló törvény alapján szabályozott elektronikus ügyintézési szolgáltatásokat vehet igénybe.
 
@@ -398,7 +398,7 @@ megállapítása céljából megkeresheti a személyiadat- és lakcímnyilvánta
 
 (2) Az ellenőrzés elektronikus úton történő adatigényléssel valósul meg; az adatigénylés iránti megkeresést az ügyvéd elektronikus aláírásával látja el.
 
-(3) A nyilvántartást vezető hatóság az adatigénylés iránti megkeresés teljesítése előtt ellenőrzi az elektronikus aláíráshoz tartozó tanúsítvány érvényességét; a megkeresés teljesítését megtagadja, ha a tanúsítvány érvényességét a hitelesítés-szolgáltató felfüggesztette vagy a tanúsítványt visszavonta.
+(3) A nyilvántartást vezető hatóság az adatigénylés iránti megkeresés teljesítése előtt ellenőrzi az elektronikus aláíráshoz tartozó tanúsítvány érvényességét; a megkeresés teljesítését megtagadja, ha a tanúsítvány érvényességét a bizalmi szolgáltató felfüggesztette vagy a tanúsítványt visszavonta.
 
 (4) Az okirat elkészítése előtt az ügyvéd köteles a felet az ellenőrzés megkezdését megelőzően írásban tájékoztatni az ellenőrzés lehetőségéről, céljáról, módjáról és tartalmáról, a közreműködés megtagadásának kötelezettségéről, a 27/D. § (2) bekezdésében megjelölt bejelentési kötelezettségéről, valamint az ellenőrzés során megismert adatok kezeléséről.
 
@@ -1202,7 +1202,7 @@ szerint illetékes kamaránál kell előterjeszteni.
 - k) saját EGT-állama nevét,
 - l) saját EGT-állama szerinti szakmai megnevezését (szükség szerint annak magyar nyelvű kiegészítő magyarázatával együtt), továbbá
 - m) saját EGT-állama szerinti ügyvédi társulásának szakmai megnevezését,
-- n) ügyvédi tevékenység végzése érdekében beszerzett elektronikus aláírás tanúsítványa érvényességének kezdetét és lejártát, valamint a hitelesítés-szolgáltató megnevezését,
+- n) ügyvédi tevékenység végzése érdekében beszerzett elektronikus aláírás tanúsítványa érvényességének kezdetét és lejártát, valamint a bizalmi szolgáltató megnevezését,
 - o) jogosultságát az elektronikus cégeljárásban való részvételre.
 
 (1a) Az európai közösségi jogászok névjegyzéke az (1) bekezdésben foglalt adatok vonatkozásában – az (1) bekezdés a)–e), valamint k)–n) pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
@@ -1682,7 +1682,7 @@ szerint illetékes kamaránál kell előterjeszteni.
 - j) nyelvtudását,
 - k) kitüntetéseit,
 - l) kamarai tisztségét,
-- m) a kamarai tagnak az ügyvédi tevékenység végzése érdekében beszerzett elektronikus aláírás tanúsítványa érvényességének kezdetét és lejártát, valamint a hitelesítés-szolgáltató megnevezését,
+- m) a kamarai tagnak az ügyvédi tevékenység végzése érdekében beszerzett elektronikus aláírás tanúsítványa érvényességének kezdetét és lejártát, valamint a bizalmi szolgáltató megnevezését,
 - n) a kamarai tag jogosultságát az elektronikus cégeljárásban való részvételre,
 - o) a kamarai tagnak az ügyvédjelölt foglalkoztatására vonatkozó jogosultságát.
 - p) az ügyvéd elektronikus elérhetőségét (elektronikus levélcím, honlap),
