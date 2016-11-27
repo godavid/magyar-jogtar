@@ -26,12 +26,7 @@ az egységes elektronikus ügyintézési rendszer kialakításához szükséges 
 
 6. § (1)–(5)
 
-(6) A Kjtv.
-
-- a) 21/A. § (3) bekezdés a) és b) pontjában, valamint (6) bekezdésében, 122. § (4) bekezdésében a „hitelesítés-szolgáltató” szövegrész helyébe a „bizalmi szolgáltató” szöveg,
-- b) 21/A. § (5) bekezdésében a „hitelesítés-szolgáltatónál” szövegrész helyébe a „bizalmi szolgáltatónál” szöveg
-
-lép.
+(6)
 
 (7)
 
@@ -42,7 +37,7 @@ lép.
 (2) A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény
 
 - a)–b)
-- c) 49/G. § (1) bekezdésében a „hitelesítés-szolgáltató” szövegrész helyébe a „bizalmi szolgáltató” szöveg
+- c)
 
 lép.
 
@@ -56,91 +51,45 @@ lép.
 
 #### 10. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
 
-10. § (1) A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény (a továbbiakban: Nytv.) 4. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(A törvény hatálya alá tartoznak:)
-
-„a) Magyarország területén élő magyar állampolgárok, a bevándorolt és – azon nem Magyarországon élő külföldi, valamint a házastársa és eltartott leszármazója, valamint eltartott szülője kivételével, aki számára az idegenrendészeti hatóság a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 35/A. § (1) bekezdése alapján adott ki nemzeti letelepedési engedélyt – a letelepedett jogállású, valamint a menekültként vagy oltalmazottként elismert személyek,”
+10. § (1)
 
 (2)
 
 (3)–(4)
 
-(5) Az Nytv. 9. § (2) bekezdés g) pontja a következő gb) alponttal egészül ki:
-
-[A központi szerv
-
-a polgárnak a személyazonosító igazolványban szereplő adatai alapján történő azonosítása, illetőleg azok igazolása céljából a személyazonosító igazolvány nyilvántartásban kezeli a 29. § (2) bekezdése szerinti adatokat, továbbá a személyazonosító igazolvány elvesztésére, illetve találására utaló adatokat, valamint a személyazonosító igazolvány elvételének vagy bevonásának tényét és következő indokait:]
-
-„gb) nem magyar állampolgár esetén Magyarország területének külföldi letelepedés szándékával történő elhagyását,”
+(5)
 
 (6)
 
-(7) Az Nytv. 21. § b) pontja helyébe a következő rendelkezés lép:
-
-[E törvény felhatalmazása alapján a 17. § (2) bekezdésének b) pontja szerinti adatokat jogosultak igényelni:]
-
-„b) a személyazonosító igazolványt kiadó és nyilvántartó hatóság, valamint a személyazonosító igazolvány kiadása során közreműködő hatóságként eljáró bv. szerv, az ezzel kapcsolatosan előírt feladatai végrehajtásához;”
+(7)
 
 (8)
 
 (9)
 
-(10) Az Nytv. 24/F. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) Az arcképelemzési nyilvántartás vezetéséért és az arcképelemző rendszer működtetéséért felelős központi szerv a törvényben előírt feladatainak ellátása érdekében az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 11. § (4) bekezdésében és 12. § (6) bekezdésében meghatározott adatokat igényelheti a nyilvántartásból.”
+(10)
 
 (11)–(18)
 
-(19) Az Nytv. 29/A. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A 29. § (9) bekezdésében foglalt esetek kivételével a személyazonosító igazolvány kiadása iránti kérelem előterjesztésekor a nyilvántartás szerve az ujjnyomatnak a személyazonosító igazolvány tároló elemén történő elhelyezése céljából rögzíti a polgár ujjnyomatát, ha a polgár a kérelem benyújtásakor 12. életévét betöltötte. Ha a polgár az ujjnyomat rögzítését visszautasítja, a személyazonosító igazolványt anélkül kell kiadni.”
+(19)
 
 (20)
 
-(21) Az Nytv. 29/C. § (1)–(3) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(1) Az állandó személyazonosító igazolvány tároló eleme minősített elektronikus aláírást létrehozó eszköz.
-
-(2) A korlátozottan cselekvőképes kiskorú, a cselekvőképességében részlegesen korlátozott vagy a cselekvőképes nagykorú polgár kérelmére
-
-a) a központi szerv a b) pont szerinti szolgáltató megbízásából az állandó személyazonosító igazolvány tároló elemén aláírás létrehozó adatot helyez el,
-
-b) a Kormány által kijelölt szolgáltató elektronikus aláírással kapcsolatos szolgáltatást nyújt,
-
-c) a Kormány által kijelölt szolgáltató a b) ponthoz kapcsolódóan a Kormány rendeletében meghatározott bizalmi szolgáltatást nyújt.
-
-(3) Az állandó személyazonosító igazolvány tároló elemének a (2) bekezdés a) és b) pontja szerinti funkciója (a továbbiakban: e-aláírási funkció), valamint c) pontja szerinti szolgáltatás vonatkozásában az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény rendelkezéseit az e §-ban, valamint e törvény felhatalmazása alapján kiadott kormányrendeletben foglalt eltérésekkel kell alkalmazni.”
-
-(22) Az Nytv. 29/C. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A személyazonosító igazolvány kiadására irányuló kérelem ügyében eljáró szerv az e-aláírási funkció és a (2) bekezdés c) pontja szerinti szolgáltatás biztosítása érdekében felveszi a polgár elektronikus levélcímét. A központi szerv a (2) bekezdés b) pontja szerinti szolgáltató részére a (2) bekezdésben megjelölt feladatok ellátása érdekében a 29. § (2) bekezdés a)–c), e), i) és j) pontjában megjelölt adatokról, a polgár által megadott elektronikus levélcímről, az állandó személyazonosító igazolvány érvénytelenné válásáról, valamint arról, ha a polgár a személyazonosító igazolványt 60 napon belül nem vette át, adatot szolgáltat. A (2) bekezdés b) pontja szerinti szolgáltató – feladatainak ellátása érdekében – a szolgáltatásra való jogosultság megszűnésétől számított 10 évig kezelheti ezen adatokat.”
+(21)–(22)
 
 (23)
 
-(24) Az Nytv. 29/F. § (5) bekezdése a következő d) ponttal egészül ki:
-
-(Megszűnik a személyazonosító igazolványra való jogosultság, ha)
-
-„d) a nem magyar állampolgár Magyarország területét a külföldön történő letelepedés szándékával elhagyja.”
+(24)
 
 (25)–(26)
 
-(27) Az Nytv. a következő 52/A. §-sal egészül ki:
-
-„52/A. § A központi szerv az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról szóló 2016. évi CXXI. törvény által megállapított 29/C. § (5) bekezdése hatálybalépését követő 15 napon belül adatot szolgáltat a 29/C. § (2) bekezdés b) pontja szerinti szolgáltatónak arról a tényről, hogy a polgár a tároló elemet tartalmazó személyazonosító igazolványt 60 napon belül nem vette át.”
+(27)
 
 (28)
 
 (29) Az Nytv.
 
-- a) 6. § (2) bekezdésében a „konzuli tisztviselő” szövegrész helyébe a „hivatásos konzuli tisztviselő (a továbbiakban: konzuli tisztviselő)” szöveg,
-- b) 11. § (1) bekezdés l) pontjában, 15. § (2) bekezdésében és a 29. § (2) bekezdés h) pontjában az „a 12. életévét betöltötte” szövegrész helyébe a „12. életévét betöltötte, valamint nem írásképtelen vagy írástudatlan” szöveg,
-- c) 29. § (1) bekezdésében az „az ügyfél” szövegrész helyébe az „a polgár” szöveg,
-- d) 29/C. § (4) bekezdésében az „e-aláírási funkcióval” szövegrész helyébe az „e-aláírási funkcióval és a (2) bekezdés c) pontja szerinti szolgáltatással” szöveg,
-- e) 47. § (1) bekezdés g) pontjában az „e-aláírási funkcióra” szövegrész helyébe az „e-aláírás funkcióra és az ahhoz kapcsolódó bizalmi szolgáltatásokra” szöveg,
-- f) 47. § (1) bekezdés g) pontjában a „b) pontja” szövegrész helyébe a „b) és c) pontja” szöveg,
-- g) 52. § (5) bekezdésében a „Magyarország területének” szövegrész helyébe a „magyar állampolgár által Magyarország területének” szöveg,
+- a)–g)
 - h)
 
 lép.
@@ -148,8 +97,7 @@ lép.
 (30) Hatályát veszti az Nytv.
 
 - a)
-- b) 29. § (17) bekezdése,
-- c) 52. § (2) bekezdése.
+- b)–c)
 
 #### 11. A magyar állampolgárságról szóló 1993. évi LV. törvény módosítása
 
@@ -161,22 +109,11 @@ lép.
 
 #### 13. A bírósági végrehajtásról szóló 1994. évi LIII. törvény módosítása
 
-13. § (1) A bírósági végrehajtásról szóló 1994. évi LIII. törvény (a továbbiakban: Vht.) 35/D. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A kézbesítési rendszer használatához szükséges, hogy a felhasználó rendelkezzen a legalább fokozott biztonságú aláírás létrehozásra képes aláírást létrehozó eszközzel, időbélyegző-szolgáltatásra vonatkozó szerződéssel, továbbá titkosító és hitelesítési tanúsítvánnyal.”
-
-(2) A Vht. 57/A. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az önálló bírósági végrehajtó és önálló bírósági végrehajtó-helyettes az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) 85. § (1) bekezdése és 97. § (4) bekezdése szerinti tájékoztatási kötelezettségének teljesítéséről a tájékoztatással egyidejűleg értesíti a Kar hivatali szervét is.”
+13. § (1)–(2)
 
 (3)–(6)
 
-(7) A Vht.
-
-- a) 47/A. § (7) bekezdésében, 57/A. § (1) bekezdés a) és b) pontjában, valamint 57/A. § (6) bekezdésében a „hitelesítés-szolgáltató” szövegrész helyébe a „bizalmi szolgáltató” szöveg,
-- b) A Vht. 57/A. § (5) bekezdésében a „hitelesítés-szolgáltatónál” szövegrész helyébe a „bizalmi szolgáltatónál” szöveg
-
-lép.
+(7)
 
 (8)
 
@@ -226,25 +163,7 @@ lép.
 
 #### 25. Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény módosítása
 
-25. § (1) Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény (a továbbiakban: Iasz.) 35/A. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(2) Az igazságügyi alkalmazott a minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással (a továbbiakban: elektronikus aláírás) kapcsolatos szolgáltatáshoz az igazságügyi szerv által megjelölt elektronikus aláírással kapcsolatos szolgáltatást nyújtót (a továbbiakban: Bizalmi szolgáltató) vesz igénybe.
-
-(3) Az igazságügyi alkalmazott az elektronikus aláírásával kapcsolatos szolgáltatás igénybevétele, fenntartása, illetve megszüntetése során az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) rendelkezései szerint jár el. Az igazságügyi alkalmazott a Bizalmi szolgáltató részére nyújtott tájékoztatással egyidejűleg értesíti az igazságügyi szervet az E-ügyintézési tv. 97. § (4) bekezdése szerinti tájékoztatási kötelezettségének teljesítéséről.”
-
-(2) Az Iasz. 94. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Az igazságügyi szerv – a bíróságokkal létesített igazságügyi szolgálati viszony esetén az OBH – jogosult az elektronikus aláírási jogosultságról vezetett nyilvántartás adataiból a Bizalmi szolgáltató részére az elektronikus aláírással kapcsolatos szolgáltatás biztosításához az E-ügyintézési tv. szerint szükséges mértékben adatot továbbítani.”
-
-(3) Az Iasz.
-
-- a) 35/A. § (4) és (5) bekezdésében a „Szolgáltató” szövegrész helyébe a „Bizalmi szolgáltató” szöveg,
-- b) 35/A. § (4) bekezdésében a „Szolgáltatót” szövegrész helyébe a „Bizalmi szolgáltatót” szöveg,
-- c) 35/A. § (5) bekezdésében a „Szolgáltatónál” szövegrész helyébe a „Bizalmi szolgáltatónál” szöveg
-
-lép.
-
-(4) Hatályát veszti az Iasz. 35/A. § (1) bekezdésében az „az igazságügyi szerv döntésétől függően fokozott biztonságú vagy” szövegrész.
+25. §
 
 #### 26. Az épített környezet alakításáról és védelméről 1997. évi LXXVIII. törvény módosítása
 
@@ -266,7 +185,7 @@ lép.
 
 30. § (1)
 
-(2) Az Inytv. 68. § (6) bekezdésében a „fokozott biztonságú elektronikus intézményi aláírással” szövegrész helyébe a „legalább fokozott biztonságú elektronikus bélyegzővel” szöveg lép.
+(2)
 
 (3)
 
@@ -274,12 +193,7 @@ lép.
 
 31. § (1)–(6)
 
-(7) Az Üt.
-
-- a) 12/B. § (1) bekezdés a) és b) pontjában, (2), (3) és (7) bekezdésében, 27/B. § (3) bekezdésében, 89/E. § (1) bekezdés n) pontjában és 116. § (1) bekezdés m) pontjában a „hitelesítés-szolgáltató” szövegrész helyébe a „bizalmi szolgáltató” szöveg,
-- b) 12/B. § (6) bekezdésében a „hitelesítés-szolgáltatónál” szövegrész helyébe a „bizalmi szolgáltatónál” szöveg
-
-lép.
+(7)
 
 #### 32. A külföldre utazásról szóló 1998. évi XII. törvény módosítása
 
@@ -289,9 +203,7 @@ lép.
 
 33. § (1)
 
-(2) A Be. 69/A. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A kapcsolattartó szervezet a küldendő hivatalos iratot minősített vagy legalább minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással vagy bélyegzővel látja el. E törvény minősített elektronikus aláírás alkalmazását kötelezővé teheti. A legalább fokozott biztonságú elektronikus aláírással vagy bélyegzővel ellátott hivatalos irat is közokiratnak minősül.”
+(2)
 
 (3)–(6)
 
@@ -358,7 +270,7 @@ lép.
 (6) A Ctv.
 
 - a)–d)
-- e) 72/A. § (6) bekezdésében és 72/B. § (3) bekezdésében a „szervezeti aláírásával” szövegrész helyébe az „elektronikus bélyegzőjével” szöveg
+- e)
 
 lép.
 
@@ -398,7 +310,7 @@ lép.
 
 #### 57. Az általános forgalmi adóról szóló 2007. évi CXXVII. törvény módosítása
 
-57. § Hatályát veszti az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 175. § (2) bekezdés a) pontjában az „az elektronikus aláírásról szóló törvény rendelkezései szerinti” szövegrész.
+57. §
 
 #### 58. Az egyes közjegyzői nemperes eljárásokról szóló 2008. évi XLV. törvény módosítása
 
@@ -422,13 +334,7 @@ lép.
 
 #### 63. A megfelelőségértékelő szervezetek tevékenységéről szóló 2009. évi CXXXIII. törvény módosítása
 
-63. § A megfelelőségértékelő szervezetek tevékenységéről szóló 2009. évi CXXXIII. törvény 13. § (2) bekezdés e) pontja helyébe a következő rendelkezés lép:
-
-[Felhatalmazást kap a termékre vonatkozó forgalmazási követelmény tekintetében szabályozási feladatkörrel rendelkező miniszter vagy önálló szabályozó szerv vezetője, hogy]
-
-„e) – az adópolitikáért felelős miniszterrel egyetértésben – a kijelölési eljárásért fizetendő igazgatási szolgáltatási díjak mértékét és a díj megfizetésével, kezelésével, nyilvántartásával. visszatérítésével kapcsolatos szabályokat”
-
-[rendeletben határozza meg.]
+63. §
 
 #### 64. Az anyakönyvi eljárásról szóló 2010. évi I. törvény módosítása
 
@@ -456,35 +362,11 @@ lép.
 
 #### 70. A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény módosítása
 
-70. § (1) A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény (a továbbiakban: Bjt.) 46. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(2) A bíró az elektronikus aláírással kapcsolatos szolgáltatáshoz az OBH elnöke által megjelölt elektronikus aláírással kapcsolatos szolgáltatást nyújtót (a továbbiakban: Bizalmi szolgáltatót) veszi igénybe.
-
-(3) A bíró az elektronikus aláírásával kapcsolatos szolgáltatás igénybevétele, fenntartása, illetve megszüntetése során az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) rendelkezései szerint jár el. A bíró a Bizalmi szolgáltató részére nyújtott tájékoztatással egyidejűleg értesíti az OBH elnökét az E-ügyintézési tv. 85. § (1) bekezdése és 97. § (4) bekezdése szerinti tájékoztatási kötelezettségének teljesítéséről.”
-
-(2) A Bjt. 148. § (3) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-(A bírónak a személyi nyilvántartásban szereplő adatairól és az iratok tartalmáról)
-
-„c) az elektronikus aláírási jogosultságról vezetett nyilvántartás adataiból az elektronikus aláírással kapcsolatos szolgáltatás biztosításához az E-ügyintézési tv. szerint szükséges mértékben a Bizalmi szolgáltató részére”
-
-(lehet adatot továbbítani.)
-
-(3) A Bjt.
-
-- a) 46. § (4) bekezdésében a „Szolgáltatót” szövegrész helyébe a „Bizalmi szolgáltatót” szöveg,
-- b) 46. § (4) és (5) bekezdésében a „Szolgáltató” szövegrész helyébe a „Bizalmi szolgáltató” szöveg,
-- c) 46. § (5) bekezdésében a „Szolgáltatónál” szövegrész helyébe a „Bizalmi szolgáltatónál” szöveg
-
-lép.
+70. §
 
 #### 71. Az ügyészségről szóló 2011. évi CLXIII. törvény módosítása
 
-71. § (1) Az ügyészségről szóló 2011. évi CLXIII. törvény (a továbbiakban: Ütv.) 30/B. §-a helyébe a következő rendelkezés lép:
-
-„30/B. § (1) Az ügyész hivatali elektronikus aláírása a Legfőbb Ügyészség által rendszeresített elektronikus aláírás. Az ügyész a hatáskörébe tartozó ügyben elkészített, a kiadmányozási jogkörébe tartozó elektronikus okiratot elektronikus aláírásával látja el.
-
-(2) Az ügyészség által szabályozott elektronikus ügyintézési szolgáltatás során kiállított, minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással ellátott irat közokirat.”
+71. § (1)
 
 (2)–(3)
 
@@ -498,14 +380,14 @@ lép.
 
 (4) A Kttv.
 
-- a) 190. § (7) bekezdésében a „postára adták” szövegrész helyébe a „megküldték” szöveg
+- a)
 - b)–c)
 
 lép.
 
 (5) Hatályát veszti a Kttv.
 
-- a) 20. § (4) bekezdésében az „elektronikus aláírásról szóló törvény szerinti” szövegrész,
+- a)
 - b)
 
 #### 74. A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény módosítása
@@ -558,15 +440,9 @@ lép.
 
 #### 86. A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény módosítása
 
-86. § A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 7. § (3) bekezdés f) pontja helyébe a következő rendelkezés lép:
+86. §
 
-(A pénzügyi intézmény, ha törvény másként nem rendelkezik, pénzügyi szolgáltatáson kívül üzletszerűen kizárólag:)
-
-„f) bizalmi szolgáltatást,
-
-(végezhet.)
-
-87. A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény módosítása
+#### 87. A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény módosítása
 
 87. §
 
@@ -580,13 +456,13 @@ lép.
 
 #### 90. A biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény módosítása
 
-90. § Hatályát veszti a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény 154. § (2) bekezdésében az „az elektronikus aláírásról szóló törvényben meghatározott” szövegrész.
+90. §
 
 #### 90. A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény módosítása
 
 91. § (1)–(9)
 
-(10) Hatályát veszti a Hszt. 6. § (5) bekezdésében az „elektronikus aláírásról szóló törvény szerinti” szövegrész.
+(10)
 
 #### 92. A vasútnak nem minősülő egyéb kötöttpályás közlekedésről szóló 2015. évi CII. törvény módosítása
 
@@ -596,7 +472,7 @@ lép.
 
 93. § (1) A természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény (a továbbiakban: Are. tv.)
 
-- a) 4. § (5) bekezdésében a „szervezeti aláírással” szövegrész helyébe az „elektronikus bélyegzővel” szöveg,
+- a)
 - b)–e)
 
 lép.
@@ -605,19 +481,7 @@ lép.
 
 #### 94. Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló2015. évi CCXXII. törvény módosítása
 
-94. § (1) Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) 1. §-a 17. pont l) alpontja helyébe a következő rendelkezés lép:
-
-[E törvény alkalmazásában
-
-elektronikus ügyintézést biztosító szerv:]
-
-„l) a meghatározott ügyek e törvény szerinti elektronikus intézését önkéntesen vállaló, az e törvényben meghatározott feltételeknek megfelelően biztosító és ezt az Elektronikus Ügyintézési Felügyeletnek bejelentő, az a)–k) alpont hatálya alá nem tartozó jogalanyok;”
-
-(2) Az E-ügyintézési tv. 1. §-a a következő 17a. ponttal egészül ki:
-
-(E törvény alkalmazásában)
-
-„17a. Elektronikus ügyintézés biztosítására kötelezett állami szerv: az 17. pont a), b), d)–f) alpontja szerinti szervek, valamint a 17. pont c), k) és l) pontja szerinti állami vagy önkormányzati jogalanyok;”
+94. § (1)–(2)
 
 (3) Az E-ügyintézési tv. 3. §-a a következő szöveggel lép hatályba:
 
@@ -773,25 +637,11 @@ olyan technológiai megoldást kell alkalmazni, ami garantálja, hogy az ügyfé
 
 o) összerendelési nyilvántartás.”
 
-(15) Az E-ügyintézési tv. 104. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az informatikai fejlesztések egységességének, az informatikai rendszerek együttműködési képességének biztosítása érdekében minden elektronikus ügyintézés biztosítására kötelezett állami szerv a Kormány rendeletében meghatározottak szerint, az elektronikus kapcsolattartást vagy az informatikai rendszerek együttműködési képességét érintő fejlesztései tekintetében informatikai fejlesztési tervet készít és azt bejelenti a Kormány rendeletében kijelölt szervnek a rendeletben meghatározottak szerint.”
+(15)
 
 (16)
 
-(17) Az E-ügyintézési tv. 105. § (3) bekezdés l) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg)
-
-„l) a 104. § (1) bekezdés szerinti informatikai fejlesztési tervre, valamint bejelentésre és a bejelentés jogkövetkezményeire vonatkozó részletes szabályokat,”
-
-(18) Az E-ügyintézési tv. 106. § c) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap az e-közigazgatásért felelős miniszter, hogy)
-
-„c) az adópolitikáért felelős miniszterrel egyetértésben a bizalmi felügyeletnek fizetendő igazgatási szolgáltatási díjak mértékét, valamint a díj megfizetésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat;”
-
-(rendeletben állapítsa meg.)
+(17)–(18)
 
 (19) Az E-ügyintézési tv. 108. § (2) bekezdése a következő szöveggel lép hatályba:
 
@@ -827,7 +677,7 @@ l) 108. § (5) bekezdése az „a gazdálkodó szervezet” szövegrész helyett
 
 lép hatályba.
 
-(24) Az E-ügyintézési tv. 81. § (7) bekezdésében a „tartós adathordozón” szövegrész helyébe a „tartós adathordozón vagy a bizalmi szolgáltatási ügyfél számára letölthető módon” szöveg lép.
+(24)
 
 (25) Nem lép hatályba az E-ügyintézési tv.
 

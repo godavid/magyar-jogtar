@@ -6,13 +6,7 @@ az egyes belügyi tárgyú törvények módosításáról
 
 1–3. §
 
-4. § Az Rtv. 91/M. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A hajó felelős vezetője vagy annak hiányában az úszólétesítmény üzembentartója a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet VI. melléklete 4.3. pontja szerinti előzetes tájékoztatást ad a rendőrségnek a vízi közlekedésben részt vevő azon utasok (6) bekezdésben meghatározott adatairól, akik csoportosan szándékoznak átlépni Magyarország schengeni külső határait.”
-
-5. § Az Rtv. 91/N. §-a helyébe a következő rendelkezés lép:
-
-„91/N. § A rendőrség a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet II. melléklete szerinti adatokat egy évig kezeli.”
+4–5. §
 
 6–7. §
 
@@ -46,7 +40,7 @@ szöveg lép.
 
 #### 7. A közterület-felügyeletről szóló 1999. évi LXIII. törvény módosítása
 
-28. § A közterület-felügyeletről szóló 1999. évi LXIII. törvény 20. § (3) bekezdésében a „30 napot” szövegrész helyébe a „10 napot” szöveg lép.
+28. §
 
 #### 8. A kulturális örökség védelméről szóló 2001. évi LXIV. törvény módosítása
 
@@ -58,71 +52,19 @@ szöveg lép.
 
 #### 10. Az elektronikus hírközlésről szóló 2003. évi C. törvény módosítása
 
-34. § Hatályát veszti az elektronikus hírközlésről szóló 2003. évi C. törvény
-
-- a) 92/C. §-a és az azt megelőző alcíme,
-- b) 182. § (1) bekezdés a) pontja és
-- c) 182. § (2) bekezdése.
+34. §
 
 #### 11. A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény módosítása
 
-35. § A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény (a továbbiakban: 2007. évi I. törvény) 3. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A beutazásra a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendeletben (a továbbiakban: Schengeni határ-ellenőrzési kódex) foglalt szabályokat is alkalmazni kell.”
-
-36. § (1) A 2007. évi I. törvény 129. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(Ez a törvény)
-
-„a) a Schengeni határ-ellenőrzési kódex 6. és 14. cikkének;”
-
-(végrehajtásához szükséges rendelkezéseket állapít meg.)
-
-(2) A 2007. évi I. törvény 129. § (2) bekezdés h) pontja helyébe a következő rendelkezés lép:
-
-(Ez a törvény)
-
-„h) Schengeni határ-ellenőrzési kódex, a Schengeni Megállapodás végrehajtásáról szóló egyezmény, a 810/2009/EK európai parlamenti és tanácsi rendelet, az 1683/95/EK tanácsi rendelet, az 539/2001/EK tanácsi rendelet, valamint a 767/2008/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2013. június 26-i 610/2013/EU európai parlamenti és tanácsi rendelet;”
-
-(végrehajtásához szükséges rendelkezéseket állapít meg.)
+35–36. §
 
 #### 12. A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény módosítása
 
-37. § A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény (a továbbiakban: Harmtv.) 6. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A harmadik országbeli állampolgár bármely száznyolcvan napon belül kilencven napot meg nem haladó, tervezett (a továbbiakban: kilencven napot meg nem haladó, tervezett) tartózkodás céljából a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendeletben foglalt feltételek szerint utazhat be Magyarország területére.”
-
-38. § (1) A Harmtv. 120. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(E törvény)
-
-„a) a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet; [6. §; 40. §]”
-
-(végrehajtásához szükséges rendelkezéseket állapít meg.)
-
-(2) A Harmtv. 120. § (2) bekezdés k) pontja helyébe a következő rendelkezés lép:
-
-(E törvény)
-
-„k) a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet, a Schengeni Megállapodás végrehajtásáról szóló egyezmény, a 810/2009/EK európai parlamenti és tanácsi rendelet, az 1683/95/EK tanácsi rendelet, az 539/2001/EK tanácsi rendelet, valamint a 767/2008/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2013. június 26-i 610/2013/EU európai parlamenti és tanácsi rendelet;”
-
-(végrehajtásához szükséges rendelkezéseket állapít meg.)
+37–38. §
 
 #### 13. Az államhatárról szóló 2007. évi LXXXIX. törvény módosítása
 
-39. § Az államhatárról szóló 2007. évi LXXXIX. törvény (a továbbiakban: Átv.) 2. § a) pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában:)
-
-„a) határátkelőhely: a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet (a továbbiakban: Schengeni határ-ellenőrzési kódex) 2. cikk 8. pontjában meghatározott fogalom,”
-
-40. § Az Átv.
-
-- a) 5. § (1), (1a) és (6) bekezdésében, 7. § (3) bekezdésében a „Közösségi Kódex” szövegrész helyébe a „Schengeni határ-ellenőrzési kódex”,
-- b) 13. §-ában a „Közösségi Kódex 25. cikkében” szövegrészek helyébe a „Schengeni határ-ellenőrzési kódex 28. cikkében”,
-- c) 16. § (9) bekezdésében a „Közösségi Kódex 25. cikkében” szövegrész helyébe a „Schengeni határ-ellenőrzési kódex 28. cikkében”
-
-szöveg lép.
+39–40. §
 
 #### 14. A vízitársulatokról szóló 2009. évi CXLIV. törvény módosítása
 
@@ -185,27 +127,7 @@ szöveg lép.
 
 #### 25. A kéményseprő-ipari tevékenységről szóló 2015. évi CCXI. törvény módosítása
 
-109. § (1) A kéményseprő-ipari tevékenységről szóló 2015. évi CCXI. törvény (a továbbiakban: Kit.)
-
-- a) 1. § 6. pontjában és 5. § (2) bekezdés b) pontjában a „kéményseprő-ipari szervnek” szövegrész helyébe a „kéményseprő-ipari szervnek, a kéményseprő-ipari szolgáltatónak”,
-- b) 2. § (6) bekezdésében
-  - ba) az „A kéményseprő-ipari szerv a kéményseprő-ipari tevékenységet” szövegrész helyébe az „A kéményseprő-ipari szerv a (4) bekezdés szerinti kéményseprő-ipari tevékenységet”,
-  - bb) a „díjfizetés ellenében végzi” szövegrész helyébe a „díjfizetés ellenében végzi a 10. § (5) bekezdésben meghatározott eltéréssel”,
-- c) 2. § (12) bekezdésében, 3. § (1) bekezdésében és 5. § (2) bekezdés f) pontjában a „kéményseprő-ipari szerv” szövegrész helyébe a „kéményseprő-ipari szerv, a 10. § (3) bekezdés szerinti szolgáltató”,
-- d) a 3. § (4) bekezdésében a „követően térítésmentesen” szövegrész helyébe a „követően – a 2. § (1) bekezdés a) pont aa) és ab) alpontja szerinti ingatlanok esetében – térítésmentesen”,
-- e) 3. § (5) bekezdésében az „ellenében végzi” szövegrész helyébe az „ellenében, a 10. § (3) bekezdés szerinti szolgáltató a 2. § (1) bekezdés a) pont aa) és ab) alpontja szerinti ingatlanok esetében térítésmentesen végzi”,
-- f) 6. § (1) bekezdés c) pontjában az „ingyenesen a céginformációs szolgálattól,” szövegrész helyébe az „ingyenesen csoportosan a céginformációs szolgálattól és a civil szervezetek bírósági nyilvántartásából,”,
-- g) 6. § (4) bekezdésben a „szükséges, a 2. § (9) bekezdésben” szövegrész helyébe a „szükséges, a 2. § (8) bekezdés szerinti dokumentum másolatát, a 2. § (9) bekezdésben”,
-- h) 10. § (10) bekezdésében a „megfelelő összeget” szövegrész helyébe a „megfelelő összeget, ha a (3) bekezdés szerinti szolgáltató a kéményseprő-ipari tevékenységet e törvény alapján térítésmentesen végezte”,
-- i) 10. § (17) bekezdésében a „kéményseprő-ipari szerv e törvény hatálybalépésétől” szövegrész helyébe a „kéményseprő-ipari szerv, a 10. § (3) bekezdés szerinti szolgáltató e törvény hatálybalépésétől”
-
-szöveg lép.
-
-(2) Hatályát veszti a Kit.
-
-- a) 5. § (2) bekezdés c) pontja,
-- b) 6. § (4) bekezdésében az „és c)” szövegrész,
-- c) 6. § (5) bekezdésében a „ , valamint az 5. § (2) bekezdés c) pontja” szövegrész.
+109. §
 
 #### 26. Záró rendelkezések
 
