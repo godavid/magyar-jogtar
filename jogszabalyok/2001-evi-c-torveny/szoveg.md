@@ -66,7 +66,7 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 (2) Az Európai Bizottság megkeresésére az segítségnyújtó központ a megkeresés kézhezvételétől számított két hónapon belül tájékoztatja az Európai Bizottságot annak a tevékenységének az eredményéről, amelyet az (1) bekezdés b) pontjának rendelkezései alapján folytat.
 
-5. § (1) Az eljáró hatóság az elismeréssel vagy honosítással kapcsolatos szakértői feladatok ellátására szakértői bizottságot vagy szakértői bizottságokat hozhat létre.
+5. § (1) Az eljáró hatóság az elismeréssel vagy honosítással kapcsolatos szakértői feladatok ellátására szakértőt rendelhet ki. Szakértő az a személy lehet, aki oktatási intézményben foglalkoztatásra irányuló jogviszonnyal és legalább tízéves oktatási vagy oktatásigazgatási szakmai tapasztalattal rendelkezik.
 
 (2) Az oktatási intézmény végzettségi szint továbbtanulási céllal történő elismerése, továbbá résztanulmányok, vizsga beszámítása esetén szakértőként a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóságot is megkeresheti.
 
@@ -162,7 +162,7 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 10. § A kérelmező az elismerési és honosítási eljárás eredményeként meghozott határozat jogerőre emelkedésétől számított három évig jogosult újrafelvételi kérelmet benyújtani.
 
-11. § (1) Oktatási intézmény eljárása esetén az elsőfokú döntés ellen az oktatásért felelős miniszterhez lehet fellebbezni.
+11. § (1) Ha az eljáró hatóság oktatási intézmény, az elsőfokú döntés ellen az oktatásért felelős miniszterhez, más esetben a Kormány rendeletében kijelölt hatósághoz lehet fellebbezni.
 
 (2) Résztanulmányok beszámítása esetén, ha közoktatási intézmény jár el, az elsőfokú határozat ellen a fenntartóhoz lehet fellebbezni.
 
