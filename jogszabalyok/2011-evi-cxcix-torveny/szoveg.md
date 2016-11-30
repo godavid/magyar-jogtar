@@ -39,7 +39,7 @@ terjed ki.
 
 (8) A politikai vezető állami vezetői szolgálati jogviszonyára a 26–50. §, 53. §, 55–73. §, 80–88. §, 98. §, 100. § (1) bekezdése, 101. §, 116–130. §, 133–142. §, 143. § (2) bekezdése, 150. §, 152. § (1) bekezdés a) és b) pontja, 154–159. §, 181–183. §, 190–191. §, 195–225. § kivételével e törvény kormányzati szolgálati jogviszonyra vonatkozó rendelkezéseit kell megfelelően alkalmazni. A politikai vezető, valamint a munkáltató az állami vezetői szolgálati jogviszonyból származó igényt a 238. § megfelelő alkalmazásával érvényesítheti.
 
-(9) Törvény eltérő rendelkezése hiányában az állami intézményfenntartó központ kormánytisztviselőjének, kormányzati ügykezelőjének kormányzati szolgálati jogviszonyára is e törvény rendelkezéseit kell alkalmazni.
+(9) Törvény eltérő rendelkezése hiányában az állami intézményfenntartó központ, valamint a köznevelési közfeladat ellátásában fenntartóként részt vevő tankerületi központ kormánytisztviselőjének, kormányzati ügykezelőjének kormányzati szolgálati jogviszonyára is e törvény rendelkezéseit kell alkalmazni, azzal, hogy a tankerületi központban foglalkoztatott kormánytisztviselők esetében a 134. § (3) bekezdésében foglaltak az irányadóak, a tankerületi központ vezetőjének az illetményalap huszonhatszorosát meg nem haladó mértékű illetményét az állami intézményfenntartó központ vezetőjének javaslatára a kinevezési jogkör gyakorlója állapítja meg.
 
 4. § E törvény hatálya nem terjed ki
 
@@ -606,7 +606,7 @@ Az MKK Országos Közgyűlésének és Területi tisztségviselők és bizottsá
 
 - a) büntetlen előéletű,
 - b) cselekvőképes,
-- c) legalább középiskolai végzettséggel rendelkező
+- c) legalább érettségi végzettséggel rendelkező
 
 magyar állampolgárral létesíthető és tartható fenn. Nem létesíthető kormányzati szolgálati jogviszony azzal, aki állam elleni bűncselekmény [a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) XXIV. Fejezet, illetve a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) X. fejezet], igazságszolgáltatás elleni bűncselekmény (Btk. XXVI. Fejezet, illetve az 1978. évi IV. törvény XV. fejezet VI. cím), korrupciós bűncselekmény (Btk. XXVII. Fejezet) vagy közélet tisztasága elleni, valamint a nemzetközi közélet tisztasága elleni bűncselekmény (1978. évi IV. törvény XV. fejezet VII. és VIII. cím), hivatali bűncselekmény (Btk. XXVIII. Fejezet, illetve az 1978. évi IV. törvény XV. fejezet IV. cím), illetve közbizalom elleni bűncselekmény (Btk. XXXIII. Fejezet, illetve az 1978. évi IV. törvény XVI. fejezet III. cím) miatt indult büntetőeljárás hatálya alatt áll.
 
@@ -670,7 +670,7 @@ a munkáltató a kormánytisztviselő részére más, nemzetbiztonsági ellenőr
 (6) Jogszabály vagy jogszabály által meghatározott esetben a munkáltatói jogkör gyakorlója
 
 - a) a kormányzati szolgálati jogviszony létesítését az (1) bekezdésben foglaltakon túlmenően meghatározott iskolai végzettséghez és szakképzettséghez, szakképesítéshez, munkaköri követelményhez, illetve gyakorlati idő letöltéséhez, valamint egészségi és pszichikai alkalmassághoz, továbbá képességhez kötheti,
-- b) a kizárólag helyszíni hatósági ellenőrzési tevékenység ellátására irányuló kormányzati szolgálati jogviszony létesítéséhez követelményként – a 40. § (2) bekezdésétől eltérően – középiskolai végzettséget is megállapíthat.
+- b) a kizárólag helyszíni hatósági ellenőrzési tevékenység ellátására irányuló kormányzati szolgálati jogviszony létesítéséhez követelményként – a 40. § (2) bekezdésétől eltérően – érettségi végzettséget is megállapíthat.
 
 (6a) Nem nevezhető ki kormánytisztviselőnek a 7. § (1) bekezdés a) pontjában meghatározott öregségi nyugdíjra való jogosultsággal rendelkező személy, kivéve ha a Kormány a munkáltató kérelmére hozzájárul a kormánytisztviselő foglalkoztatásához.
 
@@ -678,7 +678,7 @@ a munkáltató a kormánytisztviselő részére más, nemzetbiztonsági ellenőr
 
 40. § (1) Ha a központi államigazgatási szerv alaptevékenysége körében felsőfokú iskolai végzettségű pályakezdő kormánytisztviselőt kíván alkalmazni, a kormányzati szolgálati jogviszony létesítéséhez a 39. §-ban meghatározott feltételeken túlmenően a kormánytisztviselőnek angol, francia vagy német nyelvből államilag elismert nyelvvizsgával kell rendelkeznie. Ha a központi államigazgatási szervnél betöltendő munkakör ellátásához az előbbiekben felsoroltakon kívül más idegen nyelv használata szükséges, akkor az e nyelvből meglévő, államilag elismert nyelvvizsgát az angol, francia vagy német nyelvből meglévő nyelvvizsga helyett alkalmazási feltételnek kell tekinteni.
 
-(2) Központi államigazgatási szerv alaptevékenysége keretében – ide nem értve a funkcionális tevékenységet – középiskolai végzettségű kormánytisztviselőt nem alkalmazhat. Az államigazgatási szerv alaptevékenységének az alkalmazási és a képesítési követelmények szempontjából az minősül, amit jogszabály a szerv feladatkörébe utal, továbbá amit a miniszter, kormányhivatal vagy központi hivatal vezetője e körben alaptevékenységként határoz meg.
+(2) Központi államigazgatási szerv alaptevékenysége keretében – ide nem értve a funkcionális tevékenységet – érettségi végzettségű kormánytisztviselőt nem alkalmazhat. Az államigazgatási szerv alaptevékenységének az alkalmazási és a képesítési követelmények szempontjából az minősül, amit jogszabály a szerv feladatkörébe utal, továbbá amit a miniszter, kormányhivatal vagy központi hivatal vezetője e körben alaptevékenységként határoz meg.
 
 41. § (1) A hivatásos szolgálati, illetve katonai szolgálati jogviszonyban állók a tartalékállomány (73. §) útján kormányzati szolgálati jogviszonyt létesíthetnek
 
@@ -793,7 +793,7 @@ azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiál
 
 45. § (1) Jogszabály vagy az államigazgatási szerv döntése alapján a kinevezés meghívásos vagy pályázati eljárás alapján történhet. Pályázati eljárás esetén kinevezést adni csak olyan személynek lehet, aki a pályázaton részt vett és a pályázati feltételeknek megfelelt.
 
-(2) A személyügyi központ toborzási adatbázist működtet a kiválasztás, a lehetséges pályázók tájékoztatásának elősegítésére. A toborzási adatbázisba az a magyar állampolgár kérheti felvételét, aki büntetlen előéletű, cselekvőképes és legalább középiskolai végzettséggel rendelkezik. A 4. melléklet határozza meg azokat az adatokat, amelyeket a toborzási adatbázisba felvételét kérő személynek kötelezően kell, illetve választhatóan lehet megadnia.
+(2) A személyügyi központ toborzási adatbázist működtet a kiválasztás, a lehetséges pályázók tájékoztatásának elősegítésére. A toborzási adatbázisba az a magyar állampolgár kérheti felvételét, aki büntetlen előéletű, cselekvőképes és legalább érettségi végzettséggel rendelkezik. A 4. melléklet határozza meg azokat az adatokat, amelyeket a toborzási adatbázisba felvételét kérő személynek kötelezően kell, illetve választhatóan lehet megadnia.
 
 (3) Az államigazgatási szerv vezetője a betöltetlen álláshely betöltése céljából a toborzási adatbázisban nyilvántartott személyek egyéni azonosításra alkalmas módon nyilvántartott adataihoz közvetlenül hozzáférhet.
 
@@ -1789,7 +1789,7 @@ megfelelő mértékű szabadidő jár.
 - d) főtanácsos besorolásnál kilenc munkanap,
 - e) vezető-főtanácsos besorolásnál tizenegy munkanap.
 
-(4) A középiskolai végzettségű kormánytisztviselő esetén a pótszabadság mértéke évente
+(4) A érettségi végzettségű kormánytisztviselő esetén a pótszabadság mértéke évente
 
 - a) előadó besorolásnál öt munkanap,
 - b) főelőadó besorolásnál nyolc munkanap,
@@ -1971,7 +1971,7 @@ időtartamát.
 
 besorolást kap.
 
-(3) A középiskolai végzettségű kormánytisztviselő
+(3) A érettségi végzettségű kormánytisztviselő
 
 - a) két év gyakornoki besorolásban töltött idő után előadó,
 - b) tizenkét év kormányzati szolgálati jogviszonyban töltött idő után főelőadó,
@@ -2083,7 +2083,7 @@ besorolást kap.
 
 (5) A hivatali szervezet vezetője visszavonhatja a szakmai tanácsadói, főtanácsadói címet, ha a kormánytisztviselő két egymást követő minősítés alkalmával a korábbinál alacsonyabb teljesítményszintet ér el.
 
-128. § (1) A hivatali szervezet vezetője a tartósan kiemelkedő munkát végző felsőfokú iskolai végzettségű, közigazgatási szakvizsgával rendelkező kormánytisztviselőnek címzetes vezető-tanácsosi, címzetes főtanácsosi, címzetes vezető-főtanácsosi, a középiskolai végzettségű kormánytisztviselőnek címzetes főmunkatársi címet adományozhat.
+128. § (1) A hivatali szervezet vezetője a tartósan kiemelkedő munkát végző felsőfokú iskolai végzettségű, közigazgatási szakvizsgával rendelkező kormánytisztviselőnek címzetes vezető-tanácsosi, címzetes főtanácsosi, címzetes vezető-főtanácsosi, a érettségi végzettségű kormánytisztviselőnek címzetes főmunkatársi címet adományozhat.
 
 (2) Címzetes vezető-tanácsosi cím a legalább öt, címzetes főtanácsosi cím a legalább tizenkettő, címzetes vezető-főtanácsosi cím a legalább húsz, címzetes főmunkatársi cím a legalább tizennyolc év kormányzati szolgálati jogviszonyban töltött idővel rendelkező kormánytisztviselőnek adományozható.
 
@@ -2151,7 +2151,7 @@ kell megállapítani.
 
 (6) A tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó havi illetmény nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét.
 
-(7) A felsőfokú iskolai végzettségű kormánytisztviselőt az I., a középiskolai végzettségű kormánytisztviselőt a II. osztályba kell besorolni (a továbbiakban: besorolási osztály). A besorolási osztály fizetési fokozatokból áll.
+(7) A felsőfokú iskolai végzettségű kormánytisztviselőt az I., a érettségi végzettségű kormánytisztviselőt a II. osztályba kell besorolni (a továbbiakban: besorolási osztály). A besorolási osztály fizetési fokozatokból áll.
 
 132. § Az illetményalap összegét évente az állami költségvetésről szóló törvény állapítja meg úgy, hogy az nem lehet alacsonyabb, mint az előző évi illetményalap.
 
@@ -2193,11 +2193,11 @@ kell megállapítani.
 - 13. – azok belső igazgatási szervei kivételével – az egészségügyről szóló törvény szerinti egészségbiztosítási szerv központi szervénél és a Nyugdíjbiztosítási Alap kezeléséért felelős központi hivatalnál,
 - 14.
 - 15.
-- 16. honvédelemért felelős miniszter irányítása alatt álló, a honvédelmi igazgatás központi döntés-előkészítő és végrehajtás-koordináló szakmai szervénél, valamint a honvédelmi ágazat országos illetékességű integrált katonai hatóságánál foglalkoztatott felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 50%-a, középiskolai végzettségű kormánytisztviselő esetében az alapilletményének 15%-a.
+- 16. honvédelemért felelős miniszter irányítása alatt álló, a honvédelmi igazgatás központi döntés-előkészítő és végrehajtás-koordináló szakmai szervénél, valamint a honvédelmi ágazat országos illetékességű integrált katonai hatóságánál foglalkoztatott felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 50%-a, érettségi végzettségű kormánytisztviselő esetében az alapilletményének 15%-a.
 
-(2) Az (1) bekezdésben nem említett központi államigazgatási szervnél, a rendőrség, a büntetés-végrehajtás és a katasztrófavédelem szervezeteinél, a fővárosi és megyei kormányhivatalnál, továbbá a Nyugdíjbiztosítási Alap kezeléséért felelős központi hivatal központi igazgatási szerveinél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 35%-a, középiskolai végzettségű kormánytisztviselő esetében az alapilletményének 15%-a.
+(2) Az (1) bekezdésben nem említett központi államigazgatási szervnél, a rendőrség, a büntetés-végrehajtás és a katasztrófavédelem szervezeteinél, a fővárosi és megyei kormányhivatalnál, továbbá a Nyugdíjbiztosítási Alap kezeléséért felelős központi hivatal központi igazgatási szerveinél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 35%-a, érettségi végzettségű kormánytisztviselő esetében az alapilletményének 15%-a.
 
-(3) A központi államigazgatási szerv legalább megyei szintű területi szervénél, valamint a rendőrség, a katasztrófavédelem és a büntetés-végrehajtás, a Kormány által intézményfenntartásra kijelölt szerv és az egészségügyről szóló törvény szerinti egészségbiztosítási szerv legalább megyei szintű belső igazgatási szerveinél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 30%-a, a középiskolai végzettségű kormánytisztviselő esetében az alapilletményének 10%-a.
+(3) A központi államigazgatási szerv legalább megyei szintű területi szervénél, valamint a rendőrség, a katasztrófavédelem és a büntetés-végrehajtás, a Kormány által intézményfenntartásra kijelölt szerv és az egészségügyről szóló törvény szerinti egészségbiztosítási szerv legalább megyei szintű belső igazgatási szerveinél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 30%-a, a érettségi végzettségű kormánytisztviselő esetében az alapilletményének 10%-a.
 
 (4) A (3) bekezdésben felsorolt államigazgatási szerv, továbbá a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) szintű, valamint az egészségügyről szóló törvény szerinti egészségbiztosítási szerv és a Nyugdíjbiztosítási Alap kezeléséért felelős központi hivatal legalább helyi szintű belső szerveinél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 10%-a.
 
@@ -3586,9 +3586,9 @@ munkanapra emelkedik.
 
 ### Illetménykiegészítés
 
-234. § (1) Törvény eltérő rendelkezése hiányában a Gazdasági Versenyhivatalnál, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, Magyar Tudományos Akadémia Titkárságánál, a Magyar Művészeti Akadémia Titkárságánál, a Közbeszerzési Hatóságnál, az Állambiztonsági Szolgálatok Történeti Levéltáránál és a Nemzeti Emlékezet Bizottságának Hivatalánál az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű köztisztviselő esetében az alapilletményének 50%-a, középiskolai végzettségű köztisztviselő esetében az alapilletményének 15%-a.
+234. § (1) Törvény eltérő rendelkezése hiányában a Gazdasági Versenyhivatalnál, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, Magyar Tudományos Akadémia Titkárságánál, a Magyar Művészeti Akadémia Titkárságánál, a Közbeszerzési Hatóságnál, az Állambiztonsági Szolgálatok Történeti Levéltáránál és a Nemzeti Emlékezet Bizottságának Hivatalánál az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű köztisztviselő esetében az alapilletményének 50%-a, érettségi végzettségű köztisztviselő esetében az alapilletményének 15%-a.
 
-(2) Az Országgyűlés Hivatalánál, a Köztársasági Elnöki Hivatalnál, az Alkotmánybíróság Hivatalánál, az Alapvető Jogok Biztosának Hivatalában, az Állami Számvevőszéknél, a Nemzeti Választási Irodánál, a Magyar Energetikai és Közmű-szabályozási Hivatalnál és a Nemzeti Média- és Hírközlési Hatóságnál, valamint az Országgyűlési Őrségnél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű köztisztviselő esetében az alapilletményének 80%-a, a középiskolai végzettségű köztisztviselő esetében az alapilletményének 35%-a.
+(2) Az Országgyűlés Hivatalánál, a Köztársasági Elnöki Hivatalnál, az Alkotmánybíróság Hivatalánál, az Alapvető Jogok Biztosának Hivatalában, az Állami Számvevőszéknél, a Nemzeti Választási Irodánál, a Magyar Energetikai és Közmű-szabályozási Hivatalnál és a Nemzeti Média- és Hírközlési Hatóságnál, valamint az Országgyűlési Őrségnél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű köztisztviselő esetében az alapilletményének 80%-a, a érettségi végzettségű köztisztviselő esetében az alapilletményének 35%-a.
 
 (3) A helyi önkormányzat rendeletben egységesen valamennyi felsőfokú iskolai végzettségű köztisztviselőnek a tárgyévre illetménykiegészítést állapíthat meg, amelynek mértéke a köztisztviselő alapilletményének
 
@@ -3596,7 +3596,7 @@ munkanapra emelkedik.
 - b) községi önkormányzatnál legfeljebb 20%-a,
 - c) az a) és b) pontban nem szereplő önkormányzatnál legfeljebb 30%-a.
 
-(4) A helyi önkormányzat a (3) bekezdés szerint rendeletben illetménykiegészítést állapíthat meg egységesen valamennyi középiskolai végzettségű köztisztviselőnek, amelynek mértéke legfeljebb 20%.
+(4) A helyi önkormányzat a (3) bekezdés szerint rendeletben illetménykiegészítést állapíthat meg egységesen valamennyi érettségi végzettségű köztisztviselőnek, amelynek mértéke legfeljebb 20%.
 
 (5) A (3) és (4) bekezdésben meghatározott illetménykiegészítések egymástól függetlenül is megállapíthatóak.
 
@@ -4055,7 +4055,7 @@ részletes szabályokat.
 |  | 16 | 33–37 | 5,8 |
 |  | 17 | 37 év felett | 6,0 |
 
-#### II. BESOROLÁSI OSZTÁLY (középiskolai végzettségű kormánytisztviselők)
+#### II. BESOROLÁSI OSZTÁLY (érettségi végzettségű kormánytisztviselők)
 
 | Besorolási fokozat megnevezése | Fizetési fokozat | Kormányzati szolgálati jogviszony időtartama (év) | Szorzószám |
 | --- | --- | --- | --- |
