@@ -271,7 +271,9 @@ az egészségügyi hatósági és igazgatási tevékenységről
 
 (5) Az (1) bekezdés szerinti nyilvántartást az egészségügyi államigazgatási szerv a honlapján közzéteszi.
 
-8–9. §
+#### 8. §
+
+#### 9. §
 
 ### Az egészségügyi államigazgatási szerv hatósági jogköre
 
@@ -417,7 +419,7 @@ körében a kérelemre lefolytatott közigazgatási eljárásáért – ideértv
 - b) természetes ásványvíz elnevezésének engedélyezése,
 - c) gyógyvíz természetes gyógyhatásra utaló elnevezésének engedélyezése.
 
-(6) Az ivóvíz-biztonsági terv felülvizsgálatára, illetve jóváhagyására irányuló eljárás ügyintézési határideje 45 nap.
+(6)
 
 (6)
 
@@ -495,7 +497,9 @@ vonatkozó szabályokat.
 
 (14) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az élelmiszerlánc-felügyeletért felelős miniszterrel egyetértésben a közétkeztetők minősítésének táplálkozás-egészségügyi feltételeit és azok ellenőrzési módszereit rendeletben határozza meg.
 
-15/A–15/B. §
+#### 15/A. §
+
+#### 15/B. §
 
 15/C. § (1) A 2013. december 1-jét megelőzően az ivó- és használatimelegvíz-ellátásban, valamint a medencés közfürdőkben a vízzel közvetlenül érintkező anyagok, termékek és a víz kezelésére alkalmazni kívánt technológiák alkalmazására kiadott engedélyekről az egészségügyi államigazgatási szerv az adott, a vízzel közvetlenül érintkező anyag vagy termék bejelentésének nyilvántartásba vételéig, illetve az adott, a víz kezelésére alkalmazni kívánt technológia ivóvíz-biztonsági engedélyezéséig vezet nyilvántartást.
 
