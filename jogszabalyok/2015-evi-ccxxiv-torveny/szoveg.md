@@ -10,7 +10,7 @@ az egyes egészségügyi és egészségbiztosítási tárgyú törvények módos
 
 3–5. §
 
-6. § Hatályát veszti az Ehi. 14/B. § (6) bekezdése.
+6. §
 
 #### 2. Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény módosítása
 
