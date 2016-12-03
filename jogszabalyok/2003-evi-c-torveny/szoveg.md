@@ -304,6 +304,12 @@ kapcsolatban.
 
 (4) A Hatóság és a miniszter az együttműködésük, valamint ennek keretében az adatátadás és -felhasználás részletes szabályairól – évente felülvizsgálatra kerülő – megállapodást kötnek. A megállapodást a Hatóság és a miniszter a nyilvánosság számára hozzáférhetővé teszi.
 
+### Együttműködés az e-közműt üzemeltető szervezettel
+
+22/B. § (1) A Hatóság és az egységes elektronikus közműnyilvántartást (a továbbiakban: e-közmű) üzemeltető szervezet együttműködik az elektronikus hírközlő hálózat üzemeltetőjének, az egységes elektronikus közműnyilvántartásról szóló kormányrendeletben meghatározott adatszolgáltatási kötelezettségével kapcsolatos ügyekben.
+
+(2) A Hatóság negyedévente, az e törvény felhatalmazása alapján kiadott kormányrendeletben előírt adatokat az ott meghatározott módon szolgáltatja az e-közműt üzemeltető szervezet számára.
+
 ### IV. Fejezet — A HATÓSÁG ELJÁRÁSÁRA VONATKOZÓ ÁLTALÁNOS SZABÁLYOK
 
 ### A közigazgatási hatósági eljárás általános szabályainak alkalmazása
@@ -681,6 +687,8 @@ jogerős vagy fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított
 
 (3) A Hatóság az e törvény hatálya alá tartozó elektronikus hírközlési tevékenységet végzőt, elektronikus hírközlési szolgáltatót hatósági határozatában a helyszínre vagy a hatósági nyilvántartáshoz telepített vagy folyamatba épített ellenőrző rendszerből történő táv-adatszolgáltatásra kötelezheti.
 
+(3a) A Hatóság ellenőrzi a törvény hatálya alá tartozó elektronikus hírközlési építmények építtetőinek, valamint az elektronikus hírközlő hálózatok üzemeltetőinek az egységes elektronikus közműnyilvántartásról szóló kormányrendeletben meghatározott adatszolgáltatási és a közműegyeztetés során nyilatkozattételi kötelezettségének az egységes elektronikus közműnyilvántartási rendszer felé történő teljesítését. Az adatszolgáltatás vagy a nyilatkozattétel nem vagy nem megfelelő teljesítése esetén a Hatóság kötelezi az elektronikus hírközlési építmények építtetőit, valamint az elektronikus hírközlő hálózatok üzemeltetőit az adatszolgáltatási vagy nyilatkozattételi kötelezettség teljesítésére. A Hatóság által kiszabott bírság összegére tekintettel az elektronikus hírközlési építmények építtetői, valamint az elektronikus hírközlő hálózatok üzemeltetői a szolgáltatásért megállapított díjat nem emelhetik.
+
 (4) A piacmeghatározás és piacelemzés érdekében az elektronikus hírközlési szolgáltatók adatszolgáltatásra kötelesek. A Hatóság a 62–66. § szerinti eljárásában a más eljárásában szolgáltatott adatokat is felhasználhatja, amennyiben azokat az elektronikus hírközlési szolgáltató a Hatóság kötelező döntése vagy jogszabályban előírt, a Hatóság erre irányuló külön döntése nélküli adatszolgáltatási kötelezettség alapján szolgáltatta. A Hatóság az elektronikus hírközlési szolgáltatót az általa más eljárásban szolgáltatott adatok 62–66. § szerinti eljárásban való lehetséges felhasználására előzetesen figyelmeztetni köteles.
 
 (5) A Hivatal (1)–(3) bekezdés szerinti határozata ellen fellebbezésnek helye nincs. A határozat felülvizsgálatát az ügyfél kérheti – jogszabálysértésre hivatkozással – a hatósági határozat közlésétől számított tizenöt napon belül a Fővárosi Közigazgatási és Munkaügyi Bíróságtól. A bíróság az ügyben, szükség esetén a felek meghallgatása alapján, tizenöt napon belül nemperes eljárásban határoz. A nemperes eljárás iránti kérelem benyújtásának a határozat végrehajtására halasztó hatálya van. A bíróság végzése ellen fellebbezésnek nincs helye.
@@ -689,7 +697,7 @@ jogerős vagy fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított
 
 (7) Az (1)–(3) bekezdésben foglalt határozatok ellen kizárólag az az ügyfél élhet jogorvoslati kérelemmel, aki a hatósági eljárásban részt vett.
 
-(8) Amennyiben az adatszolgáltatásra kötelezett az (1)–(3) bekezdésben foglalt adatszolgáltatási kötelezettséget nem vagy nem megfelelően teljesíti, a Hatóság bírságot szabhat ki, amelynek mértéke – a jogsértő előző évben elért, 49. § (11) bekezdése szerinti nettó árbevételét és a jogsértés ismételtségét figyelembe véve – a jogsértő nettó árbevételének legfeljebb 0,05%-a, de legalább 100 000 Ft. Árbevételi adatok vagy az árbevétel közlésének hiányában a bírság mértéke legalább ötvenezer forint, legfeljebb százmillió forint. Ezen túlmenően az adatszolgáltatás nem vagy nem megfelelő teljesítése esetén a Hatóság ötvenezer forinttól hárommillió forintig terjedő bírsággal sújthatja a jogsértő szolgáltató vezető tisztségviselőjét is.
+(8) Amennyiben az adatszolgáltatásra kötelezett az (1)–(3a) bekezdésben foglalt adatszolgáltatási kötelezettséget nem vagy nem megfelelően teljesíti, a Hatóság bírságot szabhat ki, amelynek mértéke – a jogsértő előző évben elért, 49. § (11) bekezdése szerinti nettó árbevételét és a jogsértés ismételtségét figyelembe véve – a jogsértő nettó árbevételének legfeljebb 0,05%-a, de legalább 100 000 Ft. Árbevételi adatok vagy az árbevétel közlésének hiányában a bírság mértéke legalább ötvenezer forint, legfeljebb százmillió forint. Ezen túlmenően az adatszolgáltatás nem vagy nem megfelelő teljesítése esetén a Hatóság ötvenezer forinttól hárommillió forintig terjedő bírsággal sújthatja a jogsértő szolgáltató vezető tisztségviselőjét is.
 
 (9) A (8) bekezdésben foglalt határozatok ellen e törvény szerinti jogorvoslatnak van helye.
 
@@ -1616,7 +1624,7 @@ nem kell alkalmazni.
 
 93/A. § (1) A fizikai infrastruktúra 94. § (2a) bekezdése szerinti felhasználása céljából az elektronikus hírközlési szolgáltató jogosult megismerni az érintett fizikai infrastruktúrára vonatkozóan legalább a földrajzi elhelyezkedést, nyomvonalat, a fizikai infrastruktúra típusát és aktuális felhasználását, valamint a hálózatüzemeltető elérhetőségeit.
 
-(2) Az elektronikus hírközlési szolgáltató az (1) bekezdés szerinti adatokhoz kormányrendeletben meghatározott feltételekkel férhet hozzá a közmű- és nyomvonal jellegű építmények egységes elektronikus nyilvántartásából (a továbbiakban: e-közmű).
+(2) Az elektronikus hírközlési szolgáltató az (1) bekezdés szerinti adatokhoz kormányrendeletben meghatározott feltételekkel férhet hozzá az e-közműből.
 
 (3) Ha az (1) bekezdés szerinti adat nem áll rendelkezésre az e-közműben, az elektronikus hírközlési szolgáltató írásbeli megkereséssel fordulhat a hálózatüzemeltetőhöz az adathoz való hozzáférés érdekében. A megkeresésben pontosan meg kell határozni azt a földrajzi területet, amelyre vonatkozóan az elektronikus hírközlési szolgáltató az adatszolgáltatást kéri.
 
@@ -2995,7 +3003,8 @@ tekinthetnek be.
 - c) az elektronikus hírközlési feladatokat ellátó szervezetek és a titkos információgyűjtéssel, illetve titkos adatszerzéssel felhatalmazott szervezetek együttműködésének rendjét;
 - d) a kormányzati célú hálózatokra és az ilyen hálózatokkal kapcsolatos elektronikus hírközlési tevékenységre vonatkozó, e törvénytől eltérő szabályokat;
 - e) az e törvény szerinti egyablakos információs pontot működtető szervet, valamint az egyablakos információs pont működésére vonatkozó szabályokat;
-- f) a nagy sebességű elektronikus hírközlő hálózati elemek építési munkáinak összehangolási kötelezettsége alól mentesülő építési munkák körét, valamint a fizikai infrastruktúrával kapcsolatos átláthatóságra, a közműhálózatok fejlesztésének átláthatóságára, és az épületen belüli fizikai infrastruktúra kiépítésére vonatkozó rendelkezések alkalmazása alóli kivételeket.
+- f) a nagy sebességű elektronikus hírközlő hálózati elemek építési munkáinak összehangolási kötelezettsége alól mentesülő építési munkák körét, valamint a fizikai infrastruktúrával kapcsolatos átláthatóságra, a közműhálózatok fejlesztésének átláthatóságára, és az épületen belüli fizikai infrastruktúra kiépítésére vonatkozó rendelkezések alkalmazása alóli kivételeket;
+- g) a Hatóság általi, az e-közműt üzemeltető szervezet számára történő adatszolgáltatás formátumára, rendjére és az adatok körére, valamint az elektronikus hírközlési építmények építtetői és az elektronikus hírközlő hálózatok üzemeltetői regisztrációs és adatszolgáltatási kötelezettségének Hatóság általi ellenőrzésére és – annak nem megfelelő teljesítése vagy a közműnyilatkozat elmaradása esetén – az alkalmazható bírság kiszabására vonatkozó szabályokat.
 
 (2)
 

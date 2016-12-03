@@ -39,6 +39,8 @@ Az Országgyűlés a társadalom széles körét érintő egyes ipari, közmű-s
 
 (3) A Hivatal látja el a (2) bekezdésben meghatározott feladatkörében az általános hatályú közvetlenül alkalmazandó uniós jogi aktusban, az uniós jogi rendelkezésben, az ezek alapján kiadott kötelező erejű határozatban foglaltak végrehajtását.
 
+3/A. § A Hivatal ellenőrzi a felügyelete alá tartozó szolgáltatóknak az egységes elektronikus közműnyilvántartásról szóló kormányrendeletben meghatározott adatszolgáltatási és a közműegyeztetés során nyilatkozattételi kötelezettségének az egységes elektronikus közműnyilvántartási rendszer felé történő teljesítését. Az adatszolgáltatás vagy a nyilatkozattétel nem vagy nem megfelelő teljesítése esetén a Hivatal kötelezi a szolgáltatókat az adatszolgáltatási vagy nyilatkozattételi kötelezettség teljesítésére. A Hatóság által kiszabott bírság összegére tekintettel a szolgáltató a szolgáltatásért megállapított díjat nem emelheti.
+
 4. § (1) A Hivatal nyilvános elektronikus információs rendszert működtet annak érdekében, hogy a 3. § (2) bekezdésében meghatározott jogszabályok hatálya alá tartozó személyek és szervezetek által a nyilvánosság felé a Hivatal közreműködése által nyújtandó információk nyilvánosan elérhetők legyenek.
 
 (2) A Hivatal a honlapján közzéteszi
@@ -87,6 +89,8 @@ Az Országgyűlés a társadalom széles körét érintő egyes ipari, közmű-s
 (7) Ha a (6) bekezdés szerinti esetekben az ERRA a vagyon sorsáról nem rendelkezett, a vagyont a hitelezők kielégítése után a tagok között kell olyan arányban felosztani, amilyen arányban az egyes tagok vagyoni hozzájárulást teljesítettek. A ki nem elégített követelésekért a tagok egyetemlegesen felelnek.
 
 (8) Az ERRA a nyilvántartásból való törléssel szűnik meg.
+
+5/C. § A Hivatal és az egységes elektronikus közműnyilvántartást üzemeltető szervezet együttműködik a 3. § (2) bekezdés a), c), d) és e) pontjában meghatározott szervezeteknek, személyeknek az egységes elektronikus közműnyilvántartásról szóló kormányrendeletben meghatározott adatszolgáltatási kötelezettségével kapcsolatos ügyekben.
 
 ### II. Fejezet — A HIVATAL SZERVEZETE ÉS GAZDÁLKODÁSA
 
@@ -272,6 +276,8 @@ fordítható.
 
 #### 8. Felhatalmazó rendelkezések
 
+20/A. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a Hivatal általi, az egységes elektronikus közműnyilvántartást üzemeltető szervezet számára történő adatszolgáltatás formátumának, rendjének ellenőrzésére és annak nem megfelelő teljesítése vagy a közműnyilatkozat elmaradása esetén alkalmazható bírság kiszabására vonatkozó szabályokat.
+
 21. § Felhatalmazást kap a Hivatal elnöke, hogy rendeletben állapítsa meg
 
 - 1. a Hivatal elnökének rendelet kiadásában helyettesítését ellátó elnökhelyettest,
@@ -295,7 +301,7 @@ fordítható.
 
 #### 11. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-25. § Az 1–3. § és a 6–21. § az Alaptörvény 23. cikke alapján sarkalatosnak minősül.
+25. § Az 1–3/A. § és a 6–21. § az Alaptörvény 23. cikke alapján sarkalatosnak minősül.
 
 #### 12. Az Európai Unió jogának való megfelelés
 
