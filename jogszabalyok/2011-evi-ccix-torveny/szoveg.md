@@ -84,7 +84,7 @@ szolgálja,
 
 (2) A Hivatal eljárására a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény szabályait az e törvényben meghatározott kivételekkel kell alkalmazni.
 
-(3) Az ügyintézési határidő a Hivatal eljárásaiban a (4) bekezdésben foglalt kivétellel 60 nap.
+(3) Az ügyintézési határidő a Hivatal eljárásaiban a (4) és (4a) bekezdésben foglalt kivétellel 60 nap.
 
 (4) Az ügyintézési határidő a Hivatal
 
@@ -93,6 +93,14 @@ szolgálja,
 - c) 31/B. § szerinti eljárásában 30 nap,
 - d) 36. § szerinti eljárásában 135 nap,
 - e) 37. § és 37/A. § (2)–(7) bekezdés szerinti eljárásában 90 nap.
+
+(4a) Az ügyintézési határidő a Hivatal
+
+- a) 36. § szerinti eljárásában 75 nap,
+- b) 37. § szerinti eljárásában 60 nap,
+- c) 37/A. § szerinti eljárásában 45 nap,
+
+ha az eljárás a 2003. évi uniós csatlakozási szerződésben rögzített derogációval összefüggő feladat végrehajtásához kapcsolódik, és erre való tekintettel kormányrendelet azt kiemelt jelentőségű közigazgatási hatósági üggyé nyilvánította.
 
 (5) Ha az ügyfél a kérelmet hiányosan nyújtotta be, a Hivatal a kérelem beérkezését követő naptól számított harminc napon belül hiánypótlási felhívást bocsát ki.
 
@@ -106,7 +114,7 @@ szolgálja,
 
 4. § (1) A bíróság a Hivatal határozatát nem változtathatja meg.
 
-(2) Közérdekű üzemeltetőt kijelölő határozat bírósági felülvizsgálata során a végrehajtás felfüggesztésének nincs helye.
+(2) Közérdekű üzemeltetőt kijelölő, valamint az átmeneti díjat megállapító határozat bírósági felülvizsgálata során a végrehajtás felfüggesztésének nincs helye.
 
 (3) A Hivatal jogerős döntéseivel szemben újrafelvételi kérelemnek nincs helye.
 
@@ -158,9 +166,9 @@ szolgálja,
 
 (3) A (2) bekezdésben meghatározott határidő lejártát követően a Hivatal véglegesíti az ellenőrzést lezáró jegyzőkönyvet, amelyben az ellenőrzött szerv elutasított észrevételeit külön megindokolja.
 
-5/D. § (1) A Hivatal részére a felügyeleti tevékenységéért a víziközmű-szolgáltató felügyeleti díjat fizet, amelynek éves mértéke a tárgyév január 1-jén hatályos működési engedélyben meghatározott, az 1. mellékletben meghatározott képlet szerint kiszámított felhasználói egyenérték és százötven forint szorzata.
+5/D. § (1) A Hivatal részére a felügyeleti tevékenységéért a víziközmű-szolgáltató felügyeleti díjat fizet, amelynek éves mértéke a tárgyév január 1-jén hatályos működési engedélyben meghatározott felhasználói egyenérték és százötven forint szorzata.
 
-(2) A víziközmű-szolgáltató a felhasználói egyenérték kiszámításához szükséges adatokat a tárgyévet megelőző év október 31-ig küldi meg a Hivatalnak.
+(2) A víziközmű-szolgáltató a felhasználói egyenértékre vonatkozó rendszeres adatszolgáltatását minden év március 31-ig küldi meg a Hivatalnak.
 
 #### 2/c. A víziközmű-szolgáltatással kapcsolatos egyéb hatósági feladatok
 
@@ -464,6 +472,10 @@ alapul.
 
 (4) Az ideiglenes szolgáltatást végző szerződött víziközmű-szolgáltató az (1) bekezdésben meghatározott kérelemmel együtt az ideiglenes szolgáltatás díjára (a továbbiakban: átmeneti díj) vonatkozó kérelmet is előterjeszthet azzal, hogy a kérelemben az analitikus és főkönyvi nyilvántartás vagy más ellenőrizhető adatbázisból származó adatokig követhető módon részletes díjkalkulációt készít az átmeneti díjaiban megtérítésre javasolt víziközmű működtetési költségekről és ráfordításokról (díjigény alátámasztó számítás).
 
+(4a) A (4) bekezdésben meghatározott kérelem benyújtását megelőzően a szerződött víziközmű-szolgáltató a díjigény alátámasztó számítást megküldi az ellátásért felelősnek, hogy arról az ellátásért felelős véleményt alkosson. Az ellátásért felelős a véleményt a megkeresés kézhezvételétől számított 15 napon belül adja meg.
+
+(4b) Az ellátásért felelős véleménye a (4) bekezdésben meghatározott kérelem mellékletét képezi. Ha az ellátásért felelős a megadott határidőben nem élt a véleményalkotás lehetőségével, a szerződött víziközmű-szolgáltató a (4a) bekezdés szerinti megkeresésnek a postai szolgáltatásokról szóló törvény szerinti tértivevény-szolgáltatással történő feladását és kézhezvételét igazoló okiratot csatolja a (4) bekezdésben meghatározott kérelemhez.
+
 (5) Amennyiben az ideiglenes szolgáltatás ellátásának lehetősége meglévő víziközmű-rendszer bővítéseként nyílt meg és az arról ellátott településeken azonos víziközmű-szolgáltatási díjat alkalmaznak, úgy a (4) bekezdés szerinti kérelem előterjesztésének nincs helye és a szerződött víziközmű-szolgáltató az ideiglenes szolgáltatás tekintetében a víziközmű-rendszer egészére megállapított díjat alkalmazhatja.
 
 (6) Az ideiglenes szolgáltatásról – a (4) bekezdésben meghatározott bővítésként megvalósított víziközmű-rendszeren nyújtott szolgáltatás kivételével – a szerződött víziközmű-szolgáltató elkülönített pénzügyi-számviteli nyilvántartást vezet.
@@ -472,9 +484,11 @@ alapul.
 
 (2) A Hivatal az átmeneti díjat a szerződött víziközmű-szolgáltató díjigény alátámasztó számítás eredményéhez képest alacsonyabb mértékben is megállapíthatja.
 
+(2a) Önkormányzati rendelet a (2) bekezdés szerinti határozatban megállapított díjhoz képest – a rezsicsökkentésről szóló törvényben meghatározott kedvezményen felül – további kedvezményt állapíthat meg, ha az önkormányzat gondoskodik a rendeletében meghatározott díjkedvezmény miatt keletkező bevételkiesés megtérítéséhez szükséges forrás elkülönítéséről, és a szerződött víziközmű-szolgáltató díjszámlázási rendjének megfelelő ütemezés szerinti utólagos megfizetéséről a szerződött víziközmű-szolgáltató által jogszerűen igényelt összegben.
+
 (3) A szerződött víziközmű-szolgáltató a Hivatal által meghatározott átmeneti díjról szóló határozat kézhezvételét követően, a soron következő számlában, az ideiglenes szolgáltatás kezdete napjára visszamenőleges hatállyal érvényesítheti díjigényét az ideiglenes szolgáltatással érintett vízközmű-rendszerre csatlakozott felhasználóval szemben.
 
-(4) A Hivatal az átmeneti díjat megállapító határozatot tájékoztatásul megküldi a miniszternek.
+(4) A Hivatal az átmeneti díjat megállapító határozatot megküldi az ellátásért felelős részére, valamint a miniszternek.
 
 (5) Az átmeneti díjat megállapító határozat hatályát veszti, ha
 
@@ -1251,6 +1265,8 @@ rendeletben állapítsa meg.
 - 2. a rendszeres adatszolgáltatásra kötelezett engedélyesek vagy ellátásért felelősök és az általuk szolgáltatandó adatok körét, valamint az adatszolgáltatási kötelezettség határidejét,
 - 3. a közszolgáltatási szerződés felek általi megszegésére vonatkozó jogkövetkezmények mértékére és alkalmazására vonatkozó rendelkezéseket,
 - 4. a víziközmű-fejlesztési hozzájárulás mértékét rendeletben állapítsa meg.
+
+(5) Felhatalmazást kap a helyi önkormányzat képviselő-testülete, hogy a Hivatal határozatában megállapított átmeneti díjra vonatkozóan – akár a rezsicsökkentésről szóló törvényekben meghatározott kedvezményen felül további – díjkedvezményt, az arra jogosultak körét, valamint a díjkedvezmény mértékét rendeletben állapítsa meg.
 
 #### 24. Hatályba léptető rendelkezések
 
