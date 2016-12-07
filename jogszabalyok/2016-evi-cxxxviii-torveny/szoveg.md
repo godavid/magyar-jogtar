@@ -36,44 +36,7 @@ lép.
 
 #### 3. A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény módosítása
 
-16. § A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény (a továbbiakban: Vksztv.) 3. §-a a következő (4a) bekezdéssel egészül ki:
-
-„(4a) Az ügyintézési határidő a Hivatal
-
-a) 36. § szerinti eljárásában 75 nap,
-
-b) 37. § szerinti eljárásában 60 nap,
-
-c) 37/A. § szerinti eljárásában 45 nap,
-
-ha az eljárás a 2003. évi uniós csatlakozási szerződésben rögzített derogációval összefüggő feladat végrehajtásához kapcsolódik, és erre való tekintettel kormányrendelet azt kiemelt jelentőségű közigazgatási hatósági üggyé nyilvánította.”
-
-17. § A Vksztv. 31/A. §-a a következő (4a) és (4b) bekezdéssel egészül ki:
-
-„(4a) A (4) bekezdésben meghatározott kérelem benyújtását megelőzően a szerződött víziközmű-szolgáltató a díjigény alátámasztó számítást megküldi az ellátásért felelősnek, hogy arról az ellátásért felelős véleményt alkosson. Az ellátásért felelős a véleményt a megkeresés kézhezvételétől számított 15 napon belül adja meg.
-
-(4b) Az ellátásért felelős véleménye a (4) bekezdésben meghatározott kérelem mellékletét képezi. Ha az ellátásért felelős a megadott határidőben nem élt a véleményalkotás lehetőségével, a szerződött víziközmű-szolgáltató a (4a) bekezdés szerinti megkeresésnek a postai szolgáltatásokról szóló törvény szerinti tértivevény-szolgáltatással történő feladását és kézhezvételét igazoló okiratot csatolja a (4) bekezdésben meghatározott kérelemhez.”
-
-18. § A Vksztv. 31/B. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) Önkormányzati rendelet a (2) bekezdés szerinti határozatban megállapított díjhoz képest – a rezsicsökkentésről szóló törvényben meghatározott kedvezményen felül – további kedvezményt állapíthat meg, ha az önkormányzat gondoskodik a rendeletében meghatározott díjkedvezmény miatt keletkező bevételkiesés megtérítéséhez szükséges forrás elkülönítéséről, és a szerződött víziközmű-szolgáltató díjszámlázási rendjének megfelelő ütemezés szerinti utólagos megfizetéséről a szerződött víziközmű-szolgáltató által jogszerűen igényelt összegben.”
-
-19. § A Vksztv. 31/B. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A Hivatal az átmeneti díjat megállapító határozatot megküldi az ellátásért felelős részére, valamint a miniszternek.”
-
-20. § A Vksztv. 74. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) Felhatalmazást kap a helyi önkormányzat képviselő-testülete, hogy a Hivatal határozatában megállapított átmeneti díjra vonatkozóan – akár a rezsicsökkentésről szóló törvényekben meghatározott kedvezményen felül további – díjkedvezményt, az arra jogosultak körét, valamint a díjkedvezmény mértékét rendeletben állapítsa meg.”
-
-21. § A Vksztv.
-
-- a) 3. § (3) bekezdésében a „Hivatal eljárásaiban a (4) bekezdésben” szövegrész helyébe a „Hivatal eljárásaiban a (4) és (4a) bekezdésben” szöveg
-- b) 4. § (2) bekezdésében a „Közérdekű üzemeltetőt kijelölő határozat” szövegrész helyébe a „Közérdekű üzemeltetőt kijelölő, valamint az átmeneti díjat megállapító határozat” szöveg
-- c) 5/D. § (1) bekezdésében a „meghatározott, az 1. mellékletben meghatározott képlet szerint kiszámított felhasználói” szövegrész helyébe a „meghatározott felhasználói” szöveg,
-- d) 5/D. § (2) bekezdésében az „egyenérték kiszámításához szükséges adatokat a tárgyévet megelőző év október 31-ig” szövegrész helyébe az „egyenértékre vonatkozó rendszeres adatszolgáltatását minden év március 31-ig” szöveg
-
-lép.
+16–21. §
 
 #### 4.
 
@@ -115,13 +78,7 @@ lép.
 
 #### 6. A villamos energiáról szóló 2007. évi LXXXVI. törvény, valamint az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvény módosításáról szóló 2016. évi LXXXII. törvény módosítása
 
-55. § A villamos energiáról szóló 2007. évi LXXXVI. törvény, valamint az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvény módosításáról szóló 2016. évi LXXXII. törvény (a továbbiakban: Vet. mód.) 13. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az 1. § (1) bekezdése, a 2. §, a 3. §, az 5–7. § és a 9–12. § 2017. január 1-jén lép hatályba.”
-
-56. § A Vet. mód. a következő 14. §-sal egészül ki:
-
-„14. § E törvény az Európai Unió működéséről szóló szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187., 2014.6.26., 1–78. o.) 4. cikk (1) bekezdés v) pontjának, valamint 42. és 43. cikkének hatálya alá tartozó támogatást tartalmaz.”
+55–56. §
 
 57. § Nem lép hatályba a Vet. mód.
 
@@ -129,7 +86,7 @@ lép.
 - b) 4. §-a,
 - c) 8. §-a.
 
-58. § Hatályát veszti a Vet. mód. 13. § (3) bekezdése.
+58. §
 
 #### 7. Záró rendelkezések
 
