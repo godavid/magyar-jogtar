@@ -3154,7 +3154,7 @@ a közjegyző felhívásának kézbesítésétől számított tizenöt napon bel
 - h) az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény,
 - i) az árak megállapításáról szóló törvény,
 - j) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény,
-- k) a nemzeti akkreditálásról szóló törvény,
+- k)
 - l) a Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló törvény,
 - m) a külföldre utazásról szóló törvény,
 - n) a nemzeti köznevelés tankönyvellátásáról szóló törvény,
@@ -4477,6 +4477,8 @@ kell alkalmazni.
 - e) 394/C. § (2) bekezdését a 2016. július 1. napján és az azt követően indult perekben
 
 kell alkalmazni.
+
+397/K. § A polgári perrendtartásról szóló 1952. évi III. törvény, valamint a nemzeti akkreditálásról szóló 2015. évi CXXIV. törvény módosításáról szóló 2016. évi CXXXIV. törvény (a továbbiakban: Módtv.) hatálybalépését megelőzően indult eljárásokban a 326. § (12) bekezdés Módtv. hatálybalépését megelőző napon hatályos k) pontját alkalmazni kell.
 
 398. § E törvény 313–323. §-a összeegyeztethető szabályozást tartalmaz az Európai Parlament és a Tanács a kereskedelmi ügyletekhez kapcsolódó késedelmes fizetések elleni fellépésről szóló 2011/7/EU irányelvének 10. cikkével.
 
