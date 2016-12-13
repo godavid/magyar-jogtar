@@ -29,7 +29,9 @@ Az Országgyűlés annak érdekében, hogy biztosítsa az európai és a nemzetk
 
 3. § (1) Az akkreditálási eljárásra, a felügyeleti vizsgálati eljárásra, az akkreditált szervezet, illetve természetes személy akkreditált tevékenységével kapcsolatos panasz intézésére a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) rendelkezéseit az e törvényben és a felhatalmazása alapján kiadott kormányrendeletben meghatározott eltérésekkel kell alkalmazni.
 
-(2) Az akkreditáló szerv által hozott határozattal szemben fellebbezésnek nincs helye. Az akkreditálási eljárásban újrafelvételi eljárásnak nincs helye.
+(2) Az akkreditáló szerv által hozott határozattal és önállóan fellebbezhető végzéssel szemben bírósági felülvizsgálatnak van helye. Az akkreditálási eljárásban újrafelvételi eljárásnak nincs helye.
+
+(3) Az akkreditáló szerv által hozott határozattal és önállóan fellebbezhető végzéssel kapcsolatban kezdeményezett bírósági felülvizsgálat esetén az eljárás lefolytatására a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
 
 4. § Az akkreditáló szerv által lefolytatott eljárásokban a következő alapelveket kell érvényesíteni:
 
@@ -78,6 +80,8 @@ nyújthat be az akkreditáló szervhez.
 
 (8) Az akkreditáló szervnek az akkreditált státuszra vonatkozó határozata elismeri és igazolja, hogy egy szervezet vagy természetes személy alkalmas meghatározott megfelelőségértékelési feladat elvégzésére.
 
+(9) Az akkreditált státuszra vonatkozó határozat mellékletét képezi a részletező okirat.
+
 7. § Az akkreditálási eljárásáért, az akkreditált státusz területének bővítési eljárásáért, a kérelemre indult felügyeleti vizsgálati eljárásért, továbbá a külföldi akkreditált státusz elismerési eljárásáért igazgatási szolgáltatási díjat kell fizetni.
 
 #### 4. Az akkreditált szervezet és természetes személy felügyeleti vizsgálata
@@ -94,7 +98,7 @@ nyújthat be az akkreditáló szervhez.
 
 (6) A felügyeleti vizsgálati eljárás értékelési és döntéshozatali szakaszból áll. Az értékelési szakasz ügyintézési határideje hatvanöt nap. A döntéshozatali szakasz ügyintézési határideje tizenöt nap.
 
-(7) A felügyeleti vizsgálati eljárás esedékességéről a (4) bekezdésben szabályozott esetben a legutolsó helyszíni szemle után tizenkilenc hónappal, az (5) bekezdésben szabályozott esetben a legutolsó helyszíni szemle után hét hónappal az akkreditáló szerv értesíti az akkreditált szervezetet vagy természetes személyt a felügyeleti vizsgálati eljárás kezdeményezésének kötelezettségéről és a kérelem benyújtásának határidejéről.
+(7) A felügyeleti vizsgálat kezdeményezési kötelezettségének esedékességéről és a felügyeleti vizsgálati kérelem benyújtásának határidejéről a (4) bekezdésben szabályozott esetben az első felügyeleti vizsgálat esetén a legutolsó helyszíni szemle után legfeljebb kilenc hónappal, a további felügyeleti vizsgálatok esetén legfeljebb tizenkilenc hónappal, az (5) bekezdésben szabályozott esetben a legutolsó helyszíni szemle után legfeljebb kilenc hónappal az akkreditáló szerv értesíti az akkreditált szervezetet vagy személyt. Az akkreditáló szerv a felügyeleti vizsgálati eljárások időpontját jogszabály, szabvány vagy nemzetközi előírás szabályozása, a szervezet korábbi tevékenysége, irányítási rendszerének stabilitása és nyújtott teljesítménye alapján határozza meg. Erről az akkreditáló szerv köteles tájékoztatni az akkreditált szervezetet.
 
 (8) Az akkreditáló szerv a felügyeleti vizsgálat eredményétől függően az akkreditált státuszt
 
@@ -123,8 +127,9 @@ nyújthat be az akkreditáló szervhez.
 - a) az akkreditált szervezet jogi, tulajdonosi vagy szervezeti formájában, felépítésében, vezetésében,
 - b) az akkreditált tevékenységet ellátó személyek létszámában, fél éven belül, 30%-ot elérő vagy meghaladó mértékben,
 - c) az akkreditált szervezeti egység vezetőjének, minőségirányítási vezetőjének vagy olyan munkatársának személyében, aki az adott akkreditálási tevékenységet kizárólagosan végezte,
-- d) az akkreditált szervezet székhelyében, telephelyében, az akkreditált természetes személy lakcímében, valamint
-- e) az akkreditált területben
+- d) az akkreditált szervezet székhelyében, telephelyében, az akkreditált természetes személy lakcímében,
+- e) az akkreditált területben, valamint
+- f) egyéb, az akkreditált szervezet vagy természetes személy akkreditált státuszára számottevő hatással bíró, a tevékenységére vonatkozó jogszabályokban, az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusaiban, nemzeti szabványként közzétett európai és nemzetközi szabványokban és a rá vonatkozó szakmai szabályokban foglalt lényeges követelményeknek való megfelelésben
 
 bekövetkezett változás.
 
@@ -156,7 +161,7 @@ bekövetkezett változás.
 - c) a Nemzetközi Laboratóriumakkreditálási Együttműködés vagy a Nemzetközi Akkreditálási Fórum Kölcsönös Elismerési Megállapodásának tagja a megfelelőségértékelés tevékenység területén, vagy
 - d) az akkreditáló szerv kétoldalú elismerési megállapodást kötött, amelynek feltételeit a megállapodás tartalmazza.
 
-(3) A (2) bekezdés a) pontja szerinti nemzeti akkreditáló testület által lefolytatott akkreditálási eljárás és odaítélt akkreditált státusz tekintetében az egyenértékűség hatóságok általi elismeréséhez nincs szükség az e § szerinti eljárás lefolytatására.
+(3) A (2) bekezdés a) és b) pontja szerinti nemzeti akkreditáló testület által lefolytatott akkreditálási eljárás és odaítélt akkreditált státusz tekintetében az egyenértékűség hatóságok általi elismeréséhez nincs szükség az e § szerinti eljárás lefolytatására.
 
 #### 6. Az akkreditált szervezetek és természetes személyek nyilvántartása
 
@@ -215,6 +220,10 @@ rendeletben határozza meg.
 (9) A 2016. január 1-jén folyamatban lévő peres és nemperes eljárásokban a Nemzeti Akkreditáló Testület helyébe az akkreditáló szerv lép.
 
 (10) A 2016. január 1-jét megelőzően kiadott, az akkreditálás odaítéléséről szóló határozatok a bennük foglalt időpontig, illetve az e törvény szerinti visszavonásukig érvényesek.
+
+16/A. § (1) E törvénynek a polgári perrendtartásról szóló 1952. évi III. törvény, valamint a nemzeti akkreditálásról szóló 2015. évi CXXIV. törvény módosításáról szóló 2016. évi CXXXIV. törvénnyel (a továbbiakban: Módtörvény) megállapított 6. § (9) bekezdését, 8. § (7) bekezdését, 11. § (3) bekezdését a Módtörvény hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
+
+(2) E törvénynek a Módtörvénnyel megállapított 3. § (3) bekezdését a Módtörvény hatálybalépését követően indult eljárásokban kell alkalmazni.
 
 17. § (1) Ez a törvény az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről szóló, 2004. április 29-i 2004/38/EK európai parlamenti és tanácsi irányelv 24. cikkének való megfelelést szolgálja.
 
