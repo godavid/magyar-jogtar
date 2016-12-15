@@ -219,6 +219,10 @@ alkalmazható.
 
 38/C. § Az állami tulajdonban lévő, jogszabály alapján védett vagy hatósági eljárás során védetté nyilvánított kulturális javak vagyonkezelésére a Magyar Nemzeti Vagyonkezelő Zrt. a miniszter által a nemzeti kulturális érdekre figyelemmel kijelölt személlyel vagy szervezettel vagyonkezelési szerződést köt.
 
+38/D. § (1) Az állami vagy helyi önkormányzati fenntartású közgyűjteményekben őrzött, kulturális javak – a 38/A–38/C. §-ban meghatározottaktól eltérő hasznosítása céljából történő – birtokba adásáról a tulajdonosi joggyakorló vagy a vagyonkezelő a kulturális örökség védelméért felelős miniszter javaslata alapján, a miniszter előzetes véleményének kikérése mellett – különös méltánylást érdemlő körülmények fennállása esetén a versenyeztetés mellőzésével – dönt és ezt követően a hasznosításra szerződést köt.
+
+(2) Az (1) bekezdés szerinti eljárásra, valamint a hasznosítási szerződésre vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
+
 ### Muzeális intézmények működési engedélyének kiadása, módosítása, visszavonása
 
 39. § (1) Muzeális intézményt bármely jogi és természetes személy vagy törvény alapíthat. A muzeális intézménnyé nyilvánítást – a törvény által alapított muzeális intézmény kivételével – a miniszter által kiadott működési engedély igazolja.
@@ -1123,7 +1127,8 @@ kapcsolatos szakmai mutatók alapján készíti el.
 - j) a bérpótlék mértékét és az arra jogosultak körét,
 - k) a kiadványok kötelespéldányainak szolgáltatására kötelezettek körét, a kötelespéldány-szolgáltatással összefüggő jelentés szabályait, az e törvényben előírt kötelespéldány-szám szolgáltatása alóli kivételeket, a kötelespéldány-szolgáltatás módját és határidejét, a kötelespéldányra jogosult szervezetek körét, a kötelespéldányok szétosztásának módját, a kötelespéldányok megőrzésének és használatának szabályait, valamint a kötelespéldány-szolgáltatás jogszabálynak nem megfelelő teljesítése esetén követendő eljárást,
 - l) az e törvény hatálya alá tartozó intézményekben teljes munkaidőben szakmai munkakörben foglalkoztatott munkavállalók dokumentum vásárlási, illetve könyvtári szolgáltatások térítési kedvezményét,
-- m) az állami vagy helyi önkormányzati fenntartású közgyűjteményekben őrzött olyan kulturális javak visszaadásának rendjét, amelyek állami tulajdonba tartozása minden kétséget kizáró módon nem igazolható.
+- m) az állami vagy helyi önkormányzati fenntartású közgyűjteményekben őrzött olyan kulturális javak visszaadásának rendjét, amelyek állami tulajdonba tartozása minden kétséget kizáró módon nem igazolható,
+- n) az állami vagy helyi önkormányzati fenntartású közgyűjteményekben őrzött kulturális javak 38/D. §-ban meghatározottak szerinti birtokba adásának rendjét, a hasznosításukra vonatkozó szerződés tartalmi elemeit és a szerződés megszüntetésére vonatkozó – a nemzeti vagyonról szóló törvényben és az állami vagyonról szóló törvényben nem szabályozott – részletes rendelkezéseket.
 
 (2)
 
