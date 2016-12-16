@@ -15,9 +15,9 @@ az államháztartásról szóló 2011. évi CXCV. törvény és egyes kapcsolód
 14. § Az államháztartásról szóló 2011. évi CXCV. törvény
 
 - 1–5.
-- 6. 109. § (1) bekezdés 16. pontjában a „szabályokat, valamint az” szövegrész helyébe a „szabályokat, az 58. § (2) bekezdése szerinti önellenőrzési pótlék alapját, mértékét, megállapításának és megfizetésének szabályait, a” szöveg,
+- 6.
 - 7–10.
-- 11. 109. § (2) bekezdésében az „ellenőrzései” szövegrész helyébe az „ellenőrzései, valamint a 109. § (11) bekezdése szerinti Likviditási Bizottság összetételének és működésének” szöveg
+- 11.
 
 lép.
 
@@ -35,7 +35,7 @@ lép.
 
 #### 5. A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény módosítása
 
-18. § A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 10. § (3) bekezdésében az „igazgatótanácsának tagjaira,” szövegrész helyébe az „igazgatótanácsának tagjaira, a Szanálási Alap igazgatótanácsának tagjaira, a Likviditási Bizottság tagjaira, a közvetlen vagy közvetett többségi állami tulajdonban lévő befektetési alapkezelő irányító testületének, illetve felügyeleti feladatokat ellátó irányító testületének tagjaira,” szöveg lép.
+18. §
 
 #### 6. A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény módosítása
 
