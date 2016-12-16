@@ -12,7 +12,7 @@ Magyarország Országgyűlése a magyar mozgóképkultúra értékeinek gyarapí
 
 (2) E törvény hatálya nem terjed ki a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet (a továbbiakban: gazdálkodó szervezet) és egyéb szervezetek, továbbá az állami szervek által feladataik ellátása céljából, kizárólag belső használatára készített audiovizuális alkotásaira, továbbá a külön törvényben meghatározott audiovizuális médiaszolgáltatási tevékenységre, valamint a játék céljára forgalomba hozott multimédia alkotásokra.
 
-(3) E törvényt kell alkalmazni a mozgóképszakmai célok megvalósulását szolgáló támogatásokra, ha azok forrása a központi költségvetésről szóló törvényben, helyi önkormányzat vagy nemzetiségi önkormányzat költségvetésében meghatározott előirányzat, a 14. § (7) bekezdésében meghatározott hozzájárulás, vagy ha a támogatást a Kormány, a helyi vagy nemzetiségi önkormányzat által alapított alapítvány vagy közalapítvány nyújtja.
+(3) E törvényt kell alkalmazni a mozgóképszakmai célok megvalósulását szolgáló támogatásokra, ha azok forrása a központi költségvetésről szóló törvényben, helyi önkormányzat vagy nemzetiségi önkormányzat költségvetésében meghatározott előirányzat, a 31/B. § (2c) bekezdésében meghatározott hozzájárulás, vagy ha a támogatást a Kormány, a helyi vagy nemzetiségi önkormányzat által alapított alapítvány vagy közalapítvány nyújtja.
 
 ### 2. CÍM — Értelmező rendelkezések
 
@@ -39,14 +39,14 @@ Magyarország Országgyűlése a magyar mozgóképkultúra értékeinek gyarapí
 - 12.
 - 13.
 - 14. támogató: a mozgóképszakmai célok támogatását végző szervezet vagy intézmény;
-- 15. filmterjesztés: a filmalkotás nyilvános előadása, nyilvánossághoz közvetítése sugárzás útján vagy oly módon, hogy a nyilvánosság tagjai a hozzáférés helyét és idejét egyénileg választhatják meg, továbbá a filmalkotás eredeti példányának vagy többszörözött példányainak a nyilvánosság számára történő hozzáférhetővé tétele, különösen
-  - a) forgalmazással, illetve az arra történő felkínálással,
-  - b) moziüzemeltetéssel,
+- 15. filmterjesztés: a filmalkotás nyilvános előadása, továbbá a filmalkotás eredeti példányának vagy többszörözött példányainak a nyilvánosság számára történő hozzáférhetővé tétele, különösen
+  - a) forgalmazással, vagy az arra történő felkínálással,
+  - b) moziüzemeltetéssel, vagy
   - c) filmalkotás bármely adathordozón történő kiadásával, értékesítésével, bérbeadásával, haszonkölcsönbe adásával;
-- 16. mozi: filmalkotások belépti díj ellenében történő nyilvános bemutatására rendszeresen vagy alkalomszerűen szolgáló, a 19/A. § (1) bekezdése szerinti Hatóság által ekként nyilvántartott helyiség;
+- 16. mozi: filmalkotások belépti díj ellenében történő nyilvános bemutatására rendszeresen vagy alkalomszerűen szolgáló, a 19/L. § szerint ekként nyilvántartott helyiség;
 - 17. moziüzemeltetés: filmalkotások közönség előtti, moziban történő bemutatására irányuló üzletszerű tevékenység;
 - 17a. moziüzemeltető: a moziüzemeltetést folytató természetes személy vagy jogi személy;
-- 18. filmterjesztő: filmterjesztéssel üzletszerűen foglalkozó gazdasági társaság vagy egyéb szervezet;
+- 18. filmterjesztő: filmterjesztéssel üzletszerűen foglalkozó természetes személy, gazdasági társaság vagy egyéb szervezet;
 - 19. filmterv fejlesztés: filmterv és forgatókönyv létrejöttét, eladhatóságát és eladását, illetve megvalósíthatóságát és későbbi megvalósítását célzó kutatói, alkotói, tervezési és szervezési munkák összessége;
 - 20. filmgyártás: a filmgyártás előkészítésétől a filmalkotás első eredeti példányának előállításáig vezető alkotói, szervezési, gazdasági és műszaki tevékenységek összessége; az első eredeti példány az első, közönség előtti bemutatásra alkalmas végleges kópia;
 - 20a. filmgyártó vállalkozás: az a jogi személy, amely a film gyártására vonatkozó szerződés alapján szervezi a filmalkotás megvalósítását, és ezen tevékenysége révén az adott film tekintetében nem minősül filmelőállítónak;
@@ -58,7 +58,7 @@ Magyarország Országgyűlése a magyar mozgóképkultúra értékeinek gyarapí
 - 25. közvetlen filmgyártási költség: az adott filmalkotás költségvetésében szereplő, a filmalkotás előállítója, vagy megrendelésre készülő filmalkotás esetében a gyártásában részt vevő magyar filmgyártó vállalkozás által pénzügyileg teljesített, bizonylattal igazolt kifizetés, amely megfelel az e törvényben meghatározott feltételeknek;
 - 26.
 - 27. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez.
-- 28. kulturális értéket műfaja alapján létrehozó filmalkotás: a játékfilm, a kisjátékfilm, a kísérleti film, a dokumentumfilm, a tudományos ismeretterjesztő film, az animációs film, a rövidfilm, a tv-film és a tv-sorozat, kivéve az olyan film vagy filmsorozat, amely valós szereplők és események elsődlegesen szórakoztató célú nyomon követésén alapul és kulturális értéket nem hoz létre (valóságshow), továbbá az olyan fikciós filmsorozat, amely heti többszöri televíziós bemutatásra készült, több mint húsz epizódból áll, lezáratlan dramaturgiájából adódóan végtelenül folytatható, és kulturális értéket nem hoz létre (szappanopera);
+- 28. kulturális értéket műfaja alapján létrehozó filmalkotás: a játékfilm, a kisjátékfilm, a kísérleti film, a dokumentumfilm, a tudományos ismeretterjesztő film, az animációs film, a rövidfilm, a tv-film és a tv-sorozat, kivéve az olyan film vagy filmsorozat, amely valós szereplők és események elsődlegesen szórakoztató célú nyomon követésén alapul és kulturális értéket nem hoz létre (valóságshow), az olyan fikciós filmsorozat, amely heti többszöri televíziós bemutatásra készült, több mint húsz epizódból áll, lezáratlan dramaturgiájából adódóan végtelenül folytatható, és kulturális értéket nem hoz létre (szappanopera), továbbá az olyan részben fikciós film vagy filmsorozat, amely a szereplők természetes élethelyzeteit a jelenetek előre meghatározott dramaturgiájával, írásba foglalt és rögtönzött párbeszédekkel mutatja be (scripted reality);
 - 29. közvetlen magyar filmgyártási költség: a közvetlen filmgyártási költségek azon csoportja, amely adó vagy egyéb közteher-fizetési kötelezettség formájában merül fel, vagy amelynek felmerülése Magyarországon adó- vagy járulékfizetési kötelezettséget keletkeztet és megfelel az e törvényben meghatározott követelményeknek.
 - 30. mozgóképszakmai képzés: a filmipar szakemberigényének kielégítését célzó, a filmalkotás előállítása során felhasználható speciális szakismeret, kompetencia megszerzése vagy fejlesztése;
 - 31. közterület: az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 2. § 13. pontja szerinti földterület;
@@ -160,7 +160,7 @@ Magyarország Országgyűlése a magyar mozgóképkultúra értékeinek gyarapí
 
 7. § (1) A mozgóképszakmai célok támogatása
 
-- a) a központi költségvetésből nyújtott költségvetési támogatás és a helyi önkormányzat, nemzetiségi önkormányzat által, saját költségvetéséből nyújtott támogatás, valamint a 14. § (7) bekezdésében meghatározott hozzájárulásból nyújtott támogatás (a továbbiakban együtt: közvetlen támogatás) és
+- a) a központi költségvetésből nyújtott költségvetési támogatás és a helyi önkormányzat, nemzetiségi önkormányzat által, saját költségvetéséből nyújtott támogatás, valamint a 31/B. § (2c) bekezdésében meghatározott hozzájárulásból nyújtott támogatás (a továbbiakban együtt: közvetlen támogatás) és
 - b) a társasági adó alanya által a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvényben (a továbbiakban: Tao. tv.) meghatározott adókedvezményre, vagy rendelkezés alapján felajánlott adóra tekintettel biztosított, a Tao. tv.-ben meghatározott kiegészítő támogatásból származó forrásból nyújtott, valamint a 31/D. § alapján az állami adóhatóságon keresztül biztosított támogatás (a továbbiakban: közvetett támogatás).
 
 útján valósul meg.
@@ -206,7 +206,7 @@ Magyarország Országgyűlése a magyar mozgóképkultúra értékeinek gyarapí
 - g) az MNF tulajdonában vagy kezelésében lévő vagyontárgyak kezelése, hasznosítása,
 - h) a mozgóképszakmai támogatási rendszer továbbfejlesztésére vonatkozó koncepciók elkészítése,
 - i) a magyar kultúra terjesztése, illetve Magyarország nemzetközi megítélése szempontjából kiemelkedő jelentőségű, filmforgatásra alkalmas állami és önkormányzati tulajdonban álló helyszínek nyilvántartása, valamint közreműködés filmgyártási célra történő hasznosításukban az azok felett rendelkezésre jogosultakkal kötött megállapodás alapján,
-- j) a 14. § (7) bekezdése szerinti forrás felhasználásával a mozgóképszakmai képzés támogatása,
+- j) a 31/B. § (2c) bekezdése szerinti forrás felhasználásával a mozgóképszakmai képzés támogatása,
 - k) a IV. fejezet szerinti közterület- és ingatlanhasználatra vonatkozó hatósági ügyekkel kapcsolatos eljárás lefolytatása.
 
 (2) Az MNF az e törvényben meghatározott pályázati és támogatási elvek, illetve feltételek érvényesülését biztosító, a pályázatokra és a támogatások nyújtására vonatkozó részletes szabályokat az alapszabályában, illetve a Támogatási Szabályzatában állapítja meg. Az MNF a Támogatási Szabályzatot a honlapján közzéteszi.
@@ -319,9 +319,7 @@ az időpontja.
 
 (6) Közvetlen támogatás kizárólag a támogatott és a támogató közötti szerződéskötést követően nyújtható. Ha a támogatott szerződésszegése folytán a támogatott cél nem valósul meg, a támogatás összegét a támogatott köteles a támogatónak visszafizetni.
 
-(7) Az e törvény szerinti közvetett támogatásban részesült filmelőállító vagy filmgyártó vállalkozás a Hivatal által kiállított támogatási igazolásban vagy a Hivatal által lefolytatott, költségellenőrzési eljárásban hozott jogerős határozatban meghatározott közvetlen magyar filmgyártási költség 0,5%-át, de filmalkotásonként legfeljebb tizenötmillió forintot mozgóképszakmai képzési hozzájárulás címén megfizet az e törvényben meghatározott módon. A mozgóképszakmai képzési hozzájárulás a 31/F. § szerinti közvetlen filmgyártási költségnek minősül.
-
-(8) Nem kell mozgóképszakmai képzési hozzájárulást fizetni a tízmillió forintot el nem érő közvetlen filmgyártási költséggel rendelkező filmalkotásra.
+(7)–(8)
 
 14/A. § (1) Nem nyújtható közvetlen támogatás a támogató támogatásokról döntő tisztségviselőjének, valamint annak a Polgári Törvénykönyv (a továbbiakban: Ptk.) szerinti közeli hozzátartozójának (a továbbiakban: közeli hozzátartozó), továbbá olyan pályázó szervezetnek, amelyben a fenti személy képviseletre jogosult vezető tisztségviselő, vagy abban a Ptk.-nak a gazdasági társaságokra vonatkozó rendelkezései szerint többségi befolyást biztosító tulajdoni részesedéssel rendelkezik.
 
@@ -498,7 +496,7 @@ az időpontja.
 
 - a) ha a filmterjesztő a Hivatal korhatár besorolása nélkül terjeszti a filmalkotást, vagy a mozielőzetest, illetve, ha a Hivatal döntése ellenére a korhatár szerinti jelzés nem vagy nem megfelelően kerül feltüntetésre, valamint a terjesztésre kerülő filmalkotások nyilvántartásában nem szereplő filmalkotás jogellenes terjesztése esetén a Hivatal a filmterjesztőt, illetve a jogellenes helyzet kialakulásáért felelős személyt vagy szervezetet, ideértve a filmalkotást kereskedelmi forgalomba hozó személyt vagy szervezetet is, tízezer forinttól hárommillió forintig terjedő bírság megfizetésére kötelezheti;
 - b) a jogsértőt kötelezheti közleménynek a jogsértő internetes honlapja nyitóoldalán, sajtótermékben vagy más megjelölt módon történő közzétételére a határozatban meghatározott módon és ideig;
-- c) ha e törvény vagy e törvény felhatalmazása keretében kibocsátott jogszabály alapján adatszolgáltatásra vagy bejelentésre kötelezett az adatszolgáltatási vagy bejelentési kötelezettségét nem vagy késedelmesen teljesíti, a Hivatal háromezer forinttól ötszázezer forintig terjedő bírságot szabhat ki;
+- c) ha e törvény vagy e törvény felhatalmazása keretében kibocsátott jogszabály alapján adatszolgáltatásra vagy bejelentésre kötelezett az adatszolgáltatási vagy bejelentési kötelezettségét nem vagy késedelmesen teljesíti, a Hivatal harmincezer forinttól ötszázezer forintig terjedő bírságot szabhat ki;
 - d) e törvény vagy e törvény felhatalmazása keretében kibocsátott jogszabály a) és c) pontokban nem szabályozott rendelkezéseinek, valamint a Hatóság hatósági döntésének e törvényben nem szabályozott egyéb megsértése esetén a Hivatal háromezer forinttól egymillió forintig terjedő bírságot szabhat ki;
 - e) e törvényben meghatározott egyéb jogkövetkezményeket alkalmazhat.
 
@@ -530,36 +528,79 @@ az időpontja.
 
 #### 2/A. Cím
 
-### A filmalkotások besorolása
+### Jogosultság magyarországi filmterjesztésre
 
-19/K. § (1) A játékfilmalkotásokat, a kisjátékfilmeket, az animációs filmalkotásokat, dokumentumfilm-alkotásokat és a tudományos ismeretterjesztő filmalkotásokat, az 1. melléklet szerinti táblázat alapján elért pontszámoknak megfelelően kell besorolni a magyar filmalkotás, a magyar részvételű filmalkotás, az egyéb magyar részvételű filmalkotás és az egyéb filmalkotás elnevezésű kategóriák valamelyikébe.
+19/K. § (1) Az e törvény hatálya alá tartozó, Magyarországon letelepedett filmterjesztő által végzett 2. § 15. pont a) alpontja szerinti forgalmazói, illetve 2. § 15. pont b) alpontja szerinti moziüzemeltetési tevékenység bejelentés és a Hatóság általi hatósági nyilvántartásba vétel után végezhető.
 
-(2) A kísérleti filmek és az e törvényben nem szabályozott egyéb műfajok esetében az 1. mellékletnek a dokumentumfilm-alkotások és a tudományos ismeretterjesztő filmalkotások besorolására vonatkozó szempontjait azzal az eltéréssel kell alkalmazni, hogy ha a besorolandó filmalkotás által – a táblázat alapján értékelhető tényleges alkotói részvétel, illetve feltételek alapján – elérhető legmagasabb pontszám 100 pontnál kevesebb, a 2. § 7. pontja szerinti kategóriák valamelyikébe való besorolás feltétele, hogy az elérhető pontszámot 100%-nak tekintve az adott filmalkotás elérje a 2. § 7. pontjában meghatározott pontszámoknak megfelelő százalékot.
+(2) A nyilvántartásba vételt kezdeményező bejelentő – e törvény keretei között – bármely természetes személy és jogi személy lehet.
 
-(3) Az e § szerinti pontszámok kiszámításakor a filmalkotás magyar elemeire adható egyes pontszámokat az egyes elemeken belüli magyar részvétel arányához kell igazítani. Ha a filmalkotásban magyar filmelőállító vagy producer vesz részt, részükre, a magyar hozzájárulás arányától függetlenül a legmagasabb elérhető pontszámot kell adni.
+(3) A bejelentéssel összefüggő eljárásban a Hatóság a filmterjesztőt az (1) bekezdés szerinti bejelentés megérkezését követő naptól számított nyolc napon belül hivatalból nyilvántartásba veszi.
+
+(4) Ha a filmterjesztő filmforgalmazási és moziüzemeltetési tevékenységet is végez, köteles a forgalmazói és moziüzemeltetési tevékenységet külön-külön bejelenteni.
+
+(5) A Hatóság nyilvántartást vezet
+
+- a) a forgalmazói tevékenységet folytató szolgáltatókról, valamint
+- b) a moziüzemeltető tevékenységet folytató szolgáltatókról.
+
+(6) Az (5) bekezdés szerinti nyilvántartásoknak a forgalmazók és a moziüzemeltetők nevére, elérhetőségére, valamint a mozik elnevezésére, címére és teremszámára vonatkozó adatai nyilvánosak és a Hatóság internetes honlapjáról elérhetők. A Hatóság a forgalmazói és moziüzemeltetési tevékenység ellenőrzése céljából a forgalmazói, illetve moziüzemeltetési tevékenységet folytató természetes személy személyazonosító adatait kezeli a nyilvántartásból való törlésig.
+
+(7) Az (5) bekezdés szerinti nyilvántartások a (6) bekezdésben foglalt adatok tekintetében – a természetes személyazonosító, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősülnek.
 
 #### 2/B. Cím
 
 ### Moziüzemeltetési tevékenység bejelentése
 
-19/L. § (1) A moziüzemeltető legalább 30 nappal a mozi üzemeltetésének megkezdését megelőzően bejelenti a Hatóság részére a moziüzemeltetésre irányuló tevékenységét. A bejelentésre a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényt kell alkalmazni.
+19/L. § (1) A moziüzemeltető legalább 30 nappal a mozi üzemeltetésének megkezdését megelőzően bejelenti a Hatóság részére a moziüzemeltetésre irányuló tevékenységét.
 
-(2) A bejelentés a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározottakon túl tartalmazza:
+(2) A bejelentés tartalmazza:
 
 - a) a moziüzemeltető
-  - aa) telefonszámát és elektronikus levelezési címét,
-  - ab) – nem természetes személy esetén – székhelyét, képviselőjének, illetve a Hatósággal való kapcsolattartásra kijelölt személy nevét, telefonszámát, postai és elektronikus levelezési címét,
-  - ac) cégjegyzékszámát, adószámát,
-- b) az üzemeltetett mozi nevét, címét és
-- c) a moziban rendelkezésre álló vetítőtermek számát, az egyes vetítőtermek befogadóképességét.
+  - aa) nevét,
+  - ab) lakcímét, szervezet esetén székhelyét,
+  - ac) telefonszámát és elektronikus levelezési címét,
+  - ad) – nem természetes személy esetén – képviselőjének, illetve a Hatósággal való kapcsolattartásra kijelölt személy nevét, telefonszámát, postai és elektronikus levelezési címét,
+  - ae) cégjegyzékszámát, illetve nyilvántartási számát, adószámát,
+- b) az üzemeltetett mozi nevét, címét,
+- c) a moziban rendelkezésre álló vetítőtermek számát, az egyes vetítőtermek befogadóképességét, valamint
+- d) a moziüzemeltetés megkezdésének tervezett időpontját.
 
 (3) Jogszabály eltérő rendelkezése hiányában a nem természetes személy moziüzemeltető a bejelentéshez mellékeli a képviseleti jogosultságot igazoló okirat másolatát.
 
-(4) Ha a moziüzemeltető a moziüzemeltetési tevékenységét a nyilvántartásba vételtől számított két éven belül nem kezdi meg, vagy azt öt évnél hosszabb időre megszakítja, a Hatóság a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározottakon túl a 19/H. § szerinti jogkövetkezményeket alkalmazhatja.
+(4) Ha a bejelentő cégjegyzékben nyilvántartott cég és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd által ellenjegyzett aláírásmintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, a Hatóság az iratot a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
-(5) A Hatóság hivatalból törli a (2) bekezdés b) és c) pontjában meghatározott adatokat a nyilvántartásból, ha a moziüzemeltető a mozi üzemeltetését a nyilvántartásba vételtől számított két éven belül nem kezdi meg, vagy azt öt évnél hosszabb időre megszakítja, és a (4) bekezdés szerinti jogkövetkezmény nem alkalmazható.
+(5) A Hatóság a bejelentés megérkezését követően haladéktalanul ellenőrzi, hogy a bejelentés megfelel-e a (2) és (3) bekezdésben meghatározott követelményeknek. Ha a bejelentés megfelel a (2) és (3) bekezdésben meghatározott követelményeknek, és az igazgatási szolgáltatási díjat megfizették, legkésőbb a bejelentés megérkezésétől számított nyolc napon belül a Hatóság a bejelentőt erről a tényről értesíti.
 
-(6) A mozi hatósági nyilvántartásba vett címe tekintetében adatváltozási bejelentés nem tehető.
+(6) Ha a moziüzemeltető a moziüzemeltetési tevékenységét a nyilvántartásba vételtől számított két éven belül nem kezdi meg, vagy azt öt évnél hosszabb időre megszakítja, a Hatóság a 19/H. § szerinti jogkövetkezményeket alkalmazhatja.
+
+(7) A Hatóság hivatalból törli a (2) bekezdés b) és c) pontjában meghatározott adatokat a nyilvántartásból, ha a moziüzemeltető a mozi üzemeltetését a nyilvántartásba vételtől számított két éven belül nem kezdi meg, vagy azt öt évnél hosszabb időre megszakítja, és a (6) bekezdés szerinti jogkövetkezmény nem alkalmazható.
+
+(8) Törölni kell a nyilvántartásból a moziüzemeltetésre irányuló tevékenységet, ha
+
+- a) a moziüzemeltető kérte a nyilvántartásból való törlését, vagy
+- b) a jogi személy jogutód nélkül megszűnt.
+
+(9) Amennyiben a moziüzemeltető személyében változás következik be, az eredeti bejelentést tevő moziüzemeltetőnek kezdeményeznie kell a nyilvántartásban szereplő adatok módosítását.
+
+#### 2/C. Cím
+
+### Filmforgalmazói tevékenység bejelentése
+
+19/M. § (1) A filmforgalmazó legalább 30 nappal a filmforgalmazói tevékenység megkezdését megelőzően bejelenti a Hatóság részére a filmforgalmazásra irányuló tevékenységét. A bejelentésre a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényt kell alkalmazni.
+
+(2) A bejelentés a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározottakon túl tartalmazza:
+
+- a) a filmforgalmazó
+  - aa) telefonszámát és elektronikus levelezési címét,
+  - ab) – nem természetes személy esetén – képviselőjének, illetve a Hatósággal való kapcsolattartásra kijelölt személy nevét, telefonszámát, postai és elektronikus levelezési címét,
+  - ac) cégjegyzékszámát, illetve nyilvántartási számát, adószámát, valamint
+- b) annak megjelölését, hogy a filmforgalmazói tevékenységen belül a bejelentő mozifilm, illetve filmalkotások adathordozón történő forgalmazásával foglalkozik.
+
+(3) Jogszabály eltérő rendelkezése hiányában a nem természetes személy filmforgalmazó a bejelentéshez mellékeli a képviseleti jogosultságot igazoló okirat másolatát.
+
+(4) Ha a bejelentő cégjegyzékben nyilvántartott cég és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd által ellenjegyzett aláírásmintáját a cégbírósághoz benyújtotta, és ezt a tényt a cégjegyzék tartalmazza, a Hatóság az iratot a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+
+(5) A Hatóság a filmforgalmazót a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározottakon túl törli a nyilvántartásból, ha a nem természetes személy filmforgalmazó jogutód nélkül megszűnt.
 
 ### 3. CÍM — Besorolási eljárások
 
@@ -648,7 +689,7 @@ az időpontja.
 
 (4) A Korhatár Bizottság tagjai az Elnök által megállapított tiszteletdíjban, az eljáró Korhatár Bizottság tagjai az Elnök által megállapított költségtérítésben részesülnek.
 
-(5) A miniszter, az oktatásért felelős miniszter, a gyermekek és az ifjúság védelméért felelős miniszter és a Médiatanács egy-egy, a gyermek- és ifjúságvédelem területén tapasztalattal rendelkező delegáltja a Korhatár Bizottság ülésein szakértőként részt vehet.
+(5) A miniszter, az oktatásért felelős miniszter, a gyermekek és az ifjúság védelméért felelős miniszter, a Médiatanács és az MNF egy-egy, a gyermek- és ifjúságvédelem területén tapasztalattal rendelkező delegáltja a Korhatár Bizottság ülésein szakértőként részt vehet.
 
 ### A filmalkotások besorolásának közzététele
 
@@ -696,18 +737,15 @@ az időpontja.
 
 26/A. § (1) A filmelőállító vagy filmterjesztő a terjesztés megkezdésének tervezett időpontja előtt legalább 30 nappal kérheti a Hivataltól a terjeszteni kívánt filmalkotás „art” filmalkotássá minősítését. A kérelemnek tartalmaznia kell a filmalkotás címét, előállítójának, producerének, rendezőjének, forgatókönyvírójának, zeneszerzőjének, operatőrének, főszereplőinek nevét.
 
-(2) Az (1) bekezdésben meghatározott kérelemmel egyidejűleg be kell nyújtani a filmalkotás egy megtekintésre alkalmas példányát. Idegen nyelvű filmalkotás esetén, ha a filmalkotásból magyar nyelven szinkronizált vagy magyar feliratos változat nem áll rendelkezésre, be kell nyújtani a filmalkotás magyar vagy angol nyelvű dialóglistáját is.
+(2) Az (1) bekezdésben meghatározott kérelemmel egyidejűleg be kell nyújtani a filmalkotás egy megtekintésre alkalmas példányát. Idegen nyelvű filmalkotás esetén, ha a filmalkotásból magyar nyelven szinkronizált vagy magyar feliratos változat nem áll rendelkezésre, be kell nyújtani a filmalkotás magyar nyelvű dialóglistáját is.
 
 (3) A kérelemnek tartalmaznia kell a filmalkotás ismertetését és a filmalkotás „art” minősítésére vonatkozó javaslatot. Azon filmalkotások esetében, amelyek nemzetközileg elismert filmfesztiválon díjat nyertek, a kérelmezőnek meg kell jelölnie a filmfesztivált és a kategóriát, amelyben a filmalkotás díjat nyert.
 
-(4) A Hivatal a kérelem beérkezését követően haladéktalanul megkeresi a minisztert a szakhatósági állásfoglalás megadása érdekében. A miniszter szakhatósági eljárásának ügyintézési határideje harminc nap.
+(4)
 
 (5)
 
-(5a) A filmalkotások „art” minősítésére irányuló eljárásban, ha a szakhatóság az előírt határidőn belül nem ad állásfoglalást, a Hivatal az eset összes körülményét mérlegelve
-
-- a) a hozzájárulást megadottnak tekinti, vagy
-- b) a 26. § (2) bekezdés szerinti szakkérdésben maga dönt, melynek során szakértőt rendelhet ki.
+(5a)
 
 (6) A filmalkotások „art” besorolása esetében a Hivatal az e tárgyában hozott határozat jogerőre emelkedését követően haladéktalanul bejegyzi – hivatalból indított eljárásban – az „art” minősítésűnek besorolt filmalkotást az „art” besorolású filmalkotások nyilvántartásába.
 
@@ -719,6 +757,12 @@ az időpontja.
 - b) magyar részvételű filmalkotás,
 - c) egyéb magyar részvételű filmalkotás,
 - d) egyéb filmalkotás.
+
+(1a) A játékfilmalkotásokat, a kisjátékfilmeket, az animációs filmalkotásokat, dokumentumfilm-alkotásokat és a tudományos ismeretterjesztő filmalkotásokat az 1. melléklet szerinti táblázat alapján elért pontszámoknak megfelelően kell besorolni.
+
+(1b) A kísérleti filmek és az e törvényben nem szabályozott egyéb műfajok esetében az 1. mellékletnek a dokumentumfilm-alkotások és a tudományos ismeretterjesztő filmalkotások besorolására vonatkozó szempontjait azzal az eltéréssel kell alkalmazni, hogy ha a besorolandó filmalkotás által – a táblázat alapján értékelhető tényleges alkotói részvétel, illetve feltételek alapján – elérhető legmagasabb pontszám 100 pontnál kevesebb, a 2. § 7. pontja szerinti filmalkotás típusok valamelyikébe való besorolás feltétele, hogy az elérhető pontszámot 100%-nak tekintve az adott filmalkotás elérje a 2. § 7. pontjában meghatározott filmalkotás típusok pontszámainak megfelelő százalékot.
+
+(1c) Az (1a) és (1b) bekezdés szerinti pontszámok kiszámításakor a filmalkotás magyar elemeire adható egyes pontszámokat az egyes elemeken belüli magyar részvétel arányához kell igazítani. Ha a filmalkotásban magyar filmelőállító vagy producer vesz részt, részükre a magyar hozzájárulás arányától függetlenül, a legmagasabb elérhető pontszámot kell adni.
 
 (2) A közvetlen támogatás nyújtásának feltétele a filmalkotások magyar részvételi arányok szerinti besorolása. Az (1) bekezdés szerinti besorolási eljárást lezáró hatósági határozat jogerőre emelkedését követően a Hivatal haladéktalanul bejegyzi – hivatalból indított eljárásban – a besorolt filmalkotást és a hatósági döntés alapjául szolgáló adatokat, illetve tényeket a támogatásra jogosult filmalkotásokról vezetett hatósági nyilvántartásába. Amennyiben a filmalkotás a nyilvántartásban már szerepel, a Hivatal az (1) bekezdés szerinti besorolási eljárást lezáró jogerős hatósági határozatban megállapított adatokkal tényekkel egészíti ki a nyilvántartás adatait.
 
@@ -789,7 +833,7 @@ a Hivatal a nyilvántartásba vett természetes személyt vagy szervezetet törl
 
 (11) A Hivatal a nyilvántartásba vett természetes személyt és szervezetet az e törvényben meghatározott esetekben hivatalból vagy a nyilvántartásba vett kérelmére törli a nyilvántartásból. Hivatalból való törlésnek van helye
 
-- a) a (7) bekezdésben, a 19/I. § (2) és (3) bekezdésében, a 26/C. § (2) bekezdésében és a 31/C. § (6b) bekezdésében meghatározott esetekben, és
+- a) a (7) bekezdésben, a 19/I. § (2) és (3) bekezdésében, a 26/C. § (2) bekezdésében meghatározott esetekben, és
 - b) akkor, ha a nyilvántartásba vétel megtagadásának lett volna helye, azonban a megtagadási ok a nyilvántartásba vételt követően jutott a Hivatal tudomására vagy az nyilvántartásba vételt követően merül fel.
 
 (12) A Hivatal a nyilvántartásból való törlésről értesíti az MNF-et, a minisztert és az egyéb támogatót.
@@ -843,8 +887,9 @@ a Hivatal a nyilvántartásba vett természetes személyt vagy szervezetet törl
 (2) Az (1) bekezdés szerinti kérelemhez mellékelni kell
 
 - a) a filmalkotás teljes magyar nyelvű forgatókönyvét vagy a filmalkotás egy megtekintésre alkalmas példányát,
-- b) a filmelőállító vagy a filmgyártó vállalkozás vagy filmterjesztő nyilatkozatát a 2. mellékletben meghatározott kulturális követelmények teljesítéséről az ott foglalt táblázat alapján, és
-- c) az igazgatási szolgáltatási díj megfizetésének igazolását.
+- b) a filmelőállító vagy a filmgyártó vállalkozás vagy filmterjesztő nyilatkozatát a 2. mellékletben meghatározott kulturális követelmények teljesítéséről az ott foglalt táblázat alapján,
+- c) az igazgatási szolgáltatási díj megfizetésének igazolását, és
+- d) a filmelőállító vagy a filmgyártó vállalkozás bejelentését a filmgyártásban közvetlenül közreműködő külföldi illetőségű előadóművész és nem előadóművész magánszemély stábtagok nevére, állampolgárságára, születési helyére és idejére, anyja nevére, külföldi lakóhelyére, valamint arra vonatkozóan, hogy előadóművészként vagy nem előadóművészként működnek közre a film gyártása során.
 
 (2a) A kérelem benyújtásával egyidejűleg vagy azt megelőzően a filmelőállító, illetve a filmgyártó vállalkozás bejelenti a gyártási időszak (előkészítés) kezdetének napját legkésőbb annak kezdő napjáig, valamint a forgatás (ideértve az előforgatást is) megkezdésének időpontját azt megelőzően legalább 30 nappal. A forgatás első napját legalább 30 nappal megelőzően – ha a gyártási folyamatból csak az utómunkát végzik Magyarországon, az utómunka megkezdését legalább 30 nappal megelőzően – a kérelem benyújtásával egyidejűleg be kell nyújtani
 
@@ -854,13 +899,23 @@ a Hivatal a nyilvántartásba vett természetes személyt vagy szervezetet törl
 - d) a filmalkotás közvetlen filmgyártási költségeire vonatkozó költségvetését (valamennyi társelőállító és támogató által ellenjegyezve), pénzügyi tervét és finanszírozási tervét,
 - e) a filmelőállító, illetve a filmgyártó vállalkozás arra vonatkozó nyilatkozatát, hogy milyen ütemezésben kéri a támogatási igazolás vagy a költségellenőrzésre irányuló eljárást lezáró határozat kiállítását, és
 - f) a filmelőállító vagy a filmgyártó vállalkozás nyilatkozatát arra vonatkozóan, hogy a filmalkotás gyártása során vállalja
-  - fa) a tízmillió forintot elérő, vagy azt meghaladó, de százmillió forintot meg nem haladó közvetlen filmgyártási költséggel rendelkező filmalkotások esetében legalább egy;
+  - fa) a tízmillió forintot elérő vagy azt meghaladó, de százmillió forintot meg nem haladó közvetlen filmgyártási költséggel rendelkező filmalkotások esetében legalább egy;
   - fb) a százmillió forintot meghaladó, de ötszázmillió forintot meg nem haladó közvetlen filmgyártási költséggel rendelkező filmalkotások esetében legalább kettő;
   - fc) az ötszázmillió forintot meghaladó közvetlen filmgyártási költséggel rendelkező filmalkotások esetében legalább öt
 
-mozgóképszakmai képzésben részt vevő, korábban részt vett vagy legalább egy játékfilm gyártásában gyakorlatot szerzett gyakornok legalább öt héten át tartó foglalkoztatását bármely gyártási részlegben, amelyben a gyakornokok szakmai felügyelete biztosítható.
+mozgóképszakmai képzésben részt vevő, korábban részt vett vagy legalább egy játékfilm gyártásában gyakorlatot szerzett gyakornok legalább öt héten át tartó foglalkoztatását bármely gyártási részlegben, amelyben a gyakornokok szakmai felügyelete biztosítható. Amennyiben a filmalkotás magyarországi gyártásának azon szakasza, amelyben a gyakornok foglalkoztatható lenne, nem éri el az öt hetet, a foglalkoztatási kötelezettség a teljes magyarországi gyártási szakasz időszakára vonatkozik.
 
 (2b) A (2a) bekezdés f) pontja szerinti kötelezettség nem vonatkozik a filmművészeti állami felsőoktatási képzés keretében készülő filmalkotások gyártására.
+
+(2c) Az e törvény szerinti közvetett támogatásban részesülő filmelőállító vagy filmgyártó vállalkozás a Hivatal támogatásra jogosultságot megállapító döntésében meghatározott közvetlen filmgyártási költség 0,5%-át, de filmalkotásonként legfeljebb tizenötmillió forintot mozgóképszakmai képzési hozzájárulás címén az e törvényben meghatározott módon megfizet az MNF-nek.
+
+(2d) A mozgóképszakmai képzési hozzájárulást az MNF-nek a Magyar Államkincstárnál (a továbbiakban: kincstár) e célra vezetett számlájára a támogatásra jogosultságot megállapító döntés jogerőre emelkedésétől számított hatvan napon belül kell befizetni.
+
+(2e) A mozgóképszakmai képzési hozzájárulás befizetési határidejének elmulasztása esetén a Hivatal jogkövetkezményként hivatalból indított hatósági eljárásban a támogatásra jogosultságot megállapító döntését akként módosítja, hogy a támogatásra jogosultságot elutasítja. A hivatalból indított eljárásban a Hivatal tizenöt napos határidő tűzése mellett felszólítja a késedelmesen fizető filmelőállítót vagy a filmgyártó vállalkozást a (2c) bekezdés szerinti mozgóképszakmai képzési hozzájárulás megfizetésére. Amennyiben a hatósági eljárás érdemi lezárása előtt a filmelőállító vagy a filmgyártó vállalkozás megfizeti a (2c) bekezdés szerinti mozgóképszakmai képzési hozzájárulást, úgy a Hivatal a 19/H. § (8) bekezdés d) pontjában foglalt jogkövetkezményt alkalmazhatja.
+
+(2f) Nem kell mozgóképszakmai képzési hozzájárulást fizetni a tízmillió forintot el nem érő közvetlen filmgyártási költséggel rendelkező filmalkotások után.
+
+(2g) Az MNF az általa kezelt, az egyes filmalkotásokra vonatkozó, mozgóképszakmai képzési hozzájárulás címén megfizetett összegekről, a Hivatal a mozgóképszakmai képzési hozzájárulás összegét magában foglaló támogatásra jogosultságot megállapító döntésekről nyilvántartást vezet. A Ket. elektronikus kapcsolattartásra vonatkozó rendelkezései alapján a Hivatal elektronikus úton a jogerős döntéseket az MNF részére megküldi, az MNF a Hivatalt abban az esetben tájékoztatja, ha a Hivatalnak hivatalból eljárást szükséges indítania a támogatásra jogosultságot megállapító döntés módosítása iránt.
 
 (3) Az (1) bekezdés szerinti kérelem a terjesztésre kerülő filmalkotások nyilvántartásba vételére irányuló, továbbá a 26/A. §-ban és a 26/B. §-ban meghatározott eljárásban előterjesztett kérelemmel együtt is benyújtható. Ebben az esetben a Hivatal a kérelmeket egy eljárás keretében bírálja el.
 
@@ -893,6 +948,12 @@ mozgóképszakmai képzésben részt vevő, korábban részt vett vagy legalább
 
 (11) A Hivatal a támogatásra jogosultság megállapítása esetén az e tárgyban lefolytatott hatósági eljárásban hozott határozat jogerőre emelkedését követően, hivatalból indított eljárásban haladéktalanul bejegyzi a filmalkotást és a hatósági döntés alapjául szolgáló adatokat és tényeket a támogatásra jogosult filmalkotásokról vezetett hatósági nyilvántartásába. Ha a filmalkotás a nyilvántartásban már szerepel, a Hivatal a hatósági eljárásban hozott határozatban megállapított adatokkal egészíti ki a nyilvántartás adatait. A támogatásra jogosultság megállapítása és igazolása az e törvény szerinti támogatás nyújtásának feltétele.
 
+(12) A Hivatal a (2) bekezdés d) pontjában bejelentett adatokról igazolást állít ki a filmelőállító vagy filmgyártó vállalkozás kérelmére.
+
+(13) A filmelőállító vagy filmgyártó vállalkozás a (2) bekezdés d) pontja szerint bejelentett adatokban bekövetkezett változást köteles bejelenteni a Hivatalnak.
+
+(14) A Hivatal a (2) bekezdés d) pontja szerinti adatokat támogatás megállapítására és az ezzel összefüggő nyilvántartás vezetésére irányuló feladatai ellátása céljából, a kérelem elbírálását követő öt évig kezeli. A Hivatal az így tudomására jutott adatokat törvény eltérő rendelkezése hiányában harmadik személlyel nem közölheti, kivéve ha az más hatóságok eljárásához történő adatszolgáltatás teljesítését célozza.
+
 ### A támogatási igazolás
 
 31/C. § (1) A Hivatal a 19. § (1) bekezdés f) pontja alapján a filmelőállítónak, illetve a filmgyártó vállalkozásnak a kérelmére költségellenőrzési eljárásban ellenőrzi a filmelőállító, illetve a filmgyártó vállalkozás által a filmalkotás tekintetében közvetlen filmgyártási költségként elszámolni kívánt költségeket, és határozatban állapítja meg a közvetlen filmgyártási költséget és a Tao. tv. 22. § (3) bekezdése szerinti adókedvezményre jogosító, valamint a Tao. tv. 24/A. § (3) bekezdés a) pontja szerint felajánlható közvetett támogatás összegét.
@@ -922,7 +983,7 @@ kérelmére a közvetett támogatás igénybevételére jogosító támogatási 
 - a) kérelemben – ha a közvetett támogatás forrását biztosító szervezet a filmelőállítóval, illetve filmgyártó vállalkozással köt szerződést a filmalkotás támogatásáról és a kérelmező a közvetett támogatás forrását biztosító szervezet vagy az MNF – a támogatási igazolás kiadása iránti kérelem benyújtásával egyidejűleg, egyéb esetben legkésőbb a kérelem benyújtását követő 30 napon belül meg kell jelölni a közvetett támogatás forrását biztosító szervezet nevét, székhelyét, adószámát és csatolni kell a filmalkotás támogatására vonatkozó szerződést,
 - b) kérelemhez – ha azt a Hivatal az MNF kérelmére adja ki – csatolni kell az MNF és a közvetett támogatás forrását biztosító szervezet között létrejött megállapodást, továbbá a közvetett támogatás forrásának a kincstárnál e célra vezetett letéti számlára (a továbbiakban: letéti számla) történt megfizetést igazoló, a kincstár által kiállított okiratot,
 - c) a kérelemhez csatolni kell a (2) bekezdésben meghatározott iratokat,
-- d) kérelemhez, ha azt költségellenőrzési eljárás előzte meg, csatolni kell a 14. § (7) bekezdésben meghatározott hozzájárulás megfizetését igazoló iratot.
+- d) kérelemhez, ha azt költségellenőrzési eljárás előzte meg, csatolni kell a 31/B. § (2c) bekezdésében meghatározott hozzájárulás megfizetését igazoló iratot.
 
 (6) A támogatási igazolás tartalmazza
 
@@ -931,9 +992,7 @@ kérelmére a közvetett támogatás igénybevételére jogosító támogatási 
 - c) a kérelemben feltüntetett időszakot és a közvetlen filmgyártás költségeinek erre az időszakra eső összegét
 - d) a Tao. tv. 22. § (3) bekezdése és a Tao. tv. 24/A. § (3) bekezdés a) pontja szerinti adókedvezményre jogosító közvetett támogatás összegét.
 
-(6a) A 31/D. § (9) bekezdésében meghatározott esetben az MNF a filmelőállítóval vagy a filmgyártó vállalkozással kötött megállapodás alapján jogosult a 14. § (7) bekezdése szerinti összeget a letéti számláról közvetlenül az MNF-nek a kincstárnál e célra vezetett számlájára átutalni.
-
-(6b) A (6a) bekezdés körébe nem tartozó esetekben a filmelőállító vagy filmgyártó vállalkozás a 14. § (7) bekezdése szerinti összeget a Hivatal által lefolytatott költségellenőrzési eljárásban hozott határozat jogerőre emelkedésétől számított hatvan napon belül fizeti meg az MNF-nek a kincstárnál e célra vezetett számlájára. Ennek elmulasztása esetén a Hivatal a filmelőállítót a 28. § szerinti nyilvántartásból törli.
+(6a)–(6b)
 
 (7) Az MNF kérelmére kiadott támogatási igazolás kizárólag a (6) bekezdés a) és d) pontjában meghatározott adatokat tartalmazza.
 
@@ -996,14 +1055,16 @@ nem haladhatja meg.
 
 (9) Nem számolható el közvetlen filmgyártási költségként az a költség, amelyre vonatkozóan a pénzügyi teljesítést váltó kibocsátásával vagy termékek és szolgáltatások beszámításával valósítják meg, kivéve az MNF által nyújtott termékértékesítéseknek és szolgáltatásoknak azon ellenértékét, amelyet az MNF az általa pénzügyileg folyósított támogatásból visszatart vagy a támogatás részeként biztosít.
 
+(10) A 31/B. § (2c) bekezdése szerinti mozgóképszakmai képzési hozzájárulás közvetlen filmgyártási költségként elszámolható.
+
 31/F. § (1) A közvetlen magyar filmgyártási költségek között az a közvetlen filmgyártási költségnek minősülő filmgyártási és filmgyártás-előkészítési költség vagy ráfordítás ismerhető el,
 
-- a) amelyet az Szt. 160. § (3) bekezdés a)–b) pontjában megnevezett számlákon számolnak el,
+- a) amelyet az Szt. 160. § (3a) és (3b) bekezdésében megnevezett számlákon számolnak el,
 - b) amely
   - ba) a személyi jövedelemadóról szóló törvény (a továbbiakban: Szja tv.), az egyszerűsített vállalkozói adóról szóló törvény, a Tao. tv., a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény, az egyszerűsített foglalkoztatásról szóló törvény vagy az egyszerűsített közteherviselési hozzájárulásról szóló törvény szerinti adó- vagy közteher-kötelezettség alá eső, illetve a költségvetési szervnél bevételt eredményező kötelezettség teljesítésével keletkezett,
   - bb) a filmgyártással kapcsolatban teljesített személyi juttatások után fizetendő járulékkötelezettség teljesítésével összefüggésben keletkezett, vagy
   - bc) az adózás előtti eredmény terhére elszámolt adókötelezettségek teljesítésével keletkezett, ideértve a számlában feltüntetett, a számla kibocsátója által fizetendő adókötelezettséget is, így különösen az előzetesen felszámított, nem levonható általános forgalmi adó vagy egyéb, számlában feltüntetett fogyasztást terhelő és nem visszaigényelhető adó, és
-- c) megfelel a 31/E. § (2)–(9) bekezdésében foglalt feltételeknek.
+- c) amely megfelel a 31/E. § (2)–(10) bekezdésében foglalt feltételeknek.
 
 (2) Az (1) bekezdésben meghatározottakon túl közvetlen magyar filmgyártási költségként számolható el a filmgyártásban közvetlenül közreműködő külföldi előadóművészek és stábtagok javadalmazásának költsége is, akkor is, ha az nem a filmelőállító vagy a filmgyártó vállalkozás könyveiben merül fel, feltéve hogy az így keletkezett jövedelmet az Szja tv. alapján Magyarországon adókötelezettség terheli, és az adót (adóelőleget) a kifizető a kifizetéskor a jogszabályoknak megfelelően levonta és az állami adóhatóságnak befizette, vagy kifizető hiányában a magánszemély ezt a jövedelmét terhelő adót (adóelőleget) az adóhatóságnak befizette. Az adó megfizetését a filmelőállító vagy filmgyártó vállalkozás köteles hitelt érdemlően igazolni.
 
@@ -1050,7 +1111,7 @@ nem haladhatja meg.
 34. § (1) A települési önkormányzat tulajdonában álló közterület, valamint a nemzeti vagyonról szóló törvény (a továbbiakban: Nvt.) szerinti tulajdonosi joggyakorló tulajdonosi joggyakorlása alatt álló ingatlan – a kiemelt nemzeti emlékhely kivételével – filmalkotás forgatása céljából történő igénybevételére e fejezetet kell alkalmazni. E fejezet alkalmazásában
 
 - a) filmalkotásnak minősül a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló törvény hatálya alá tartozó reklámfilm is,
-- b) filmforgatási célú közterület-használatnak minősül a közterület használata akkor is, ha az csak a filmforgatáshoz kapcsolódó technikai jellegű tevékenységhez, illetve a stáb parkolásához, a kiürítéshez, a forgalomtechnikai biztonság biztosításához szükséges.
+- b) filmforgatási célú közterület-használatnak minősül a közterület használata akkor is, ha az csak a filmforgatáshoz kapcsolódó technikai jellegű tevékenységhez, illetve a stáb parkolásához, a kiürítéshez, közlekedés elől elzárt terület biztosításához szükséges.
 
 (2) Kérelmet filmelőállító vagy filmgyártó vállalkozás (a továbbiakban együtt: kérelmező) nyújthat be.
 
@@ -1060,9 +1121,9 @@ nem haladhatja meg.
 
 (5) A települési önkormányzat tulajdonában álló közterületek filmforgatási célú használatával kapcsolatos egyes feltételeket a települési önkormányzat képviselő-testülete rendeletben szabályozza. Ennek keretében meghatározza a forgatást akadályozó, de a kérelmezőnek nem felróható, valamint a rendkívüli természeti események esetére vonatkozó külön feltételeket is, különösen azt, hogy ilyen esemény esetén hány napon belül köteles újra biztosítani a közterület-használatot. A települési önkormányzat képviselő-testülete a rendeletben mentességet vagy kedvezményt állapíthat meg a meghatározott időtartamot vagy területmértéket el nem érő, valamint a közérdekű célokat szolgáló (különösen oktatási, tudományos vagy ismeretterjesztő témájú, vagy filmművészeti állami felsőoktatási képzés keretében készülő) filmalkotások forgatásához szükséges közterület-használat díjával összefüggésben. A saját honlappal rendelkező települési önkormányzat a közterület-használathoz kapcsolódó feltételeket a honlapján közzéteszi.
 
-(6) Az (5) bekezdés alapján nyújtott mentesség vagy kedvezmény csekély összegű támogatásnak minősül, amelyet kizárólag az Európai Közösséget létrehozó Szerződés 87. és 88. cikkelyének a csekély összegű (de minimis) támogatásokra való alkalmazásáról szóló 2006. december 15-i 1998/2006/EK bizottsági rendelet (HL L 379/5. 2006.12.28.) szabályai alapján lehet nyújtani. Azonos támogatható költségek tekintetében a csekély összegű (de minimis) támogatás nem kumulálható állami támogatással, ha az ilyen jellegű kumuláció olyan támogatási intenzitást eredményezne, amely túllépi a Bizottság 800/2008/EK általános csoportmentességi rendeletében vagy az Európai Bizottság által elfogadott határozatban az egyes esetek meghatározott körülményeire vonatkozóan rögzített támogatási intenzitást.
+(6) Az (5) bekezdés alapján nyújtott mentesség vagy kedvezmény csekély összegű támogatásnak minősül, amelyet kizárólag az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet szabályai alapján lehet nyújtani. Azonos támogatható költségek tekintetében a csekély összegű (de minimis) támogatás nem kumulálható állami támogatással, ha az ilyen jellegű kumuláció olyan támogatási intenzitást eredményezne, amely túllépi a csoportmentességi rendeletekben vagy az Európai Bizottság által elfogadott határozatban az egyes esetek meghatározott körülményeire vonatkozóan rögzített támogatási intenzitást.
 
-35. § (1) Az MNF a közterület-használatról hatósági szerződésben állapodik meg a kérelmezővel. A hatósági szerződés a települési képviselő-testület jóváhagyásával válik érvényessé. A filmforgatáshoz kapcsolódó, jogszabály alapján hatósági engedélyhez, illetve hatósági bejelentéshez kötött tevékenységek a (3) és (4) bekezdésben foglaltak kivételével – a jogszabályban a kérelem, illetve bejelentés tartalmaként előírt adatok megadásával és mellékletei benyújtásával – bejelentés alapján gyakorolhatók. Az MNF a bejelentés tartalma vagy hatósági ellenőrzés alapján megállapított jogellenesség esetén a bejelentéssel érintett tevékenységet, magatartást, illetve helyzet fenntartását megtilthatja.
+35. § (1) Az MNF a közterület-használatról hatósági szerződésben állapodik meg a kérelmezővel. A hatósági szerződés a települési képviselő-testület jóváhagyásával válik érvényessé. A filmforgatáshoz kapcsolódó, jogszabály alapján hatósági engedélyhez, illetve hatósági bejelentéshez kötött tevékenységek a (3) és (4) bekezdésben foglaltak kivételével – a jogszabályban a kérelem, illetve bejelentés tartalmaként előírt adatok megadásával és mellékletei benyújtásával – bejelentés alapján gyakorolhatók. Az MNF a bejelentés tartalma vagy hatósági ellenőrzés alapján megállapított jogellenesség esetén a bejelentéssel érintett tevékenységet, magatartást, illetve helyzet fenntartását megtilthatja. Az MNF közterület-használati kérelmet elutasító döntése ellen nincs helye fellebbezésnek.
 
 (2) Az e fejezet szerinti, közterület filmforgatási célú használatára irányuló kérelmet, valamint a filmforgatáshoz kapcsolódó hatósági bejelentéseket az MNF-nél legalább 5 munkanappal, sürgős eljárás esetén legalább 2 munkanappal a filmforgatás tervezett megkezdése előtt kell előterjeszteni. A hatósági szerződésnek a Ket. 77. § (1) bekezdése szerinti módosítására az e bekezdés szerinti határidők az irányadók. A közterület-használathoz kapcsolódó, a települési önkormányzat valamely külön intézményének feladatkörét érintő kérelem az e törvény végrehajtására kiadott kormányrendeletben meghatározott intézményhez közvetlenül is benyújtható. Az Nvt. szerinti tulajdonosi joggyakorló tulajdonosi joggyakorlása alatt álló ingatlan filmforgatási célú használatára irányuló kérelem az MNF-nél is előterjeszthető, az MNF e rendelkezés alkalmazásában a Ket. 38/A. § (1) bekezdése szerinti közreműködő hatóságnak minősül. Az MNF a kérelmet haladéktalanul, de legkésőbb a benyújtást követő munkanapon továbbítja az ingatlan tulajdonosi joggyakorlójához vagy vagyonkezelőjéhez.
 
@@ -1145,7 +1206,7 @@ nem haladhatja meg.
 
 36/G. § Az egyes törvényeknek a gazdasági növekedéssel összefüggésben történő módosításáról szóló 2015. évi CCXII. törvény (a továbbiakban: Módtv1.) hatálybalépésekor moziüzemeltetési tevékenységet végző természetes vagy jogi személy a Módtv1. hatálybalépését követő 60 napon belül köteles a moziüzemeltetési tevékenység végzését a 19/L. §-ban foglaltak szerint bejelenteni a Hatóság számára.
 
-36/H. § E törvénynek a Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvénnyel megállapított 14. § (7) és (8) bekezdését, 31/B. § (2a) bekezdés f) pontját és (2b) bekezdését, 31/C. § (4) bekezdését, (5) bekezdés d) pontját, valamint (6a) és (6b) bekezdését azokban az eljárásokban kell alkalmazni, amelyekben a támogatási jogosultság megállapítására irányuló kérelmet a Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvény kihirdetését követő harmincadik nap után nyújtottak be.
+36/H. § E törvénynek a Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvénnyel megállapított 14. § (7) és (8) bekezdését, 31/B. § (2a) bekezdés f) pontját és (2b) bekezdését, 31/C. § (4) bekezdését, (5) bekezdés d) pontját azokban az eljárásokban kell alkalmazni, amelyekben a támogatási jogosultság megállapítására irányuló kérelmet 2016. július 17-e után nyújtották be.
 
 36/I. § Az MNF és a saját honlappal rendelkező települési önkormányzat köteles a Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvénnyel megállapított 34. § (3) bekezdése szerinti díjtételeit – az e törvényben meghatározott közzétételi kötelezettségen túl – 2016. szeptember 30. napjáig a honlapján közzétenni. A települési önkormányzatok 2016. szeptember 30. napjáig kötelesek a 34. § (5) bekezdése szerinti rendeleteiket e törvénynek a Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvénnyel módosított rendelkezéseivel összhangba hozni.
 
@@ -1160,6 +1221,20 @@ nem haladhatja meg.
 (5) Az (1) bekezdés szerinti jogutódlás alapján az ingatlanokra vonatkozóan a jogutód vagyonkezelői jogát az MNF egyoldalú nyilatkozata alapján, annak kérelmére kell – jogutódlás jogcímén – bejegyezni az ingatlan-nyilvántartásba azon ingatlanok vonatkozásban, amelyek bejegyzett vagyonkezelője a MaNDA vagy annak jogelődje.
 
 (6) A jogutódláshoz kapcsolódó vagyon- és létszámátcsoportosításról, valamint a MaNDA feladatait, kötelezettségvállalásait illetően a MaNDA és az MNF átadás-átvételi megállapodást köt. Az átadás-átvételi eljárásban a feladatok ellátása során keletkezett valamennyi iratot, elektronikusan tárolt adatot és egyéb dokumentumot legkésőbb 2016. december 31-ig át kell adni az MNF részére, amely azokat tárolja és kezeli.
+
+36/K. § (1) E törvénynek a mozgóképről szóló 2004. évi II. törvény módosításáról szóló 2016. évi CLXIII. törvénnyel (a továbbiakban: Módtv2.) megállapított 31/B. § (2c)–(2e) bekezdését a Módtv2. hatálybalépését követően benyújtott a támogatási jogosultság megállapítására irányuló kérelem alapján indult eljárásokban kell alkalmazni.
+
+(2) E törvénynek a Módtv2. által megállapított 31/F. § (2) bekezdését először azon filmalkotások tekintetében kell alkalmazni, amelyek tekintetében a filmelőállító vagy a filmgyártó vállalkozás a támogatásra való jogosultság megállapítására irányuló kérelmet 2016. december 31-ét követően nyújtotta be a Hatósághoz. A Módtv2. által megállapított 31/F. § (2) bekezdését a filmgyártásban közvetlenül közreműködő külföldi előadóművészek és stábtagok részére 2017. december 31-ét követően kifizetett javadalmazás tekintetében benyújtott támogatási igazolás kiadására irányuló kérelem vagy költségellenőrzési eljárásra irányuló kérelem alapján folytatott eljárás során akkor is alkalmazni kell, ha a filmalkotásra vonatkozó, támogatásra jogosultság megállapítására irányuló kérelem benyújtása 2017. január 1-je előtt történt.
+
+(3) E törvénynek a Módtv2. által megállapított 31/E. § (10) bekezdését és 31/F. § (1) bekezdés c) pontját a Hatósághoz 2016. július 17-ét követően benyújtott kérelemre induló, a támogatásra jogosultság megállapítására irányuló, a Módtv2. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
+
+(4) A Módtv2. hatálybalépésekor filmforgalmazási tevékenységet végző természetes vagy jogi személy a Módtv2. hatálybalépését követő 30 napon belül köteles a filmforgalmazási tevékenység végzését a 19/M. §-ban foglaltak szerint bejelenteni a Hatóság számára.
+
+(5) Azon filmforgalmazási tevékenységet végző természetes vagy jogi személy, amely a Módtv2. által megállapított 19/N. § hatálybalépésekor a film magyarországi forgalmazására vonatkozó szerződéssel rendelkezik, a Módtv2. által megállapított 19/N. § hatálybalépését követő 30 napon belül köteles a filmalkotást a Hatóság által erre a célra létrehozott online felületen regisztrálni.
+
+(6) A filmalkotások „art” minősítésére irányuló eljárásban szakhatóságként eljáró miniszter által működtetett Filmszakmai Bizottság öt tagjának megbízatása 2017. január 1-jétől megszűnik.
+
+(7) A 2016. év negyedik negyedévében a letéti számlára gyűjtött közvetett támogatás összege meghaladhatja a 31/D. § (7) bekezdés d) pontjában meghatározott keretösszeg időarányos részét a Tao. tv. 22. § (3) bekezdése és a Tao. tv. 24/A. § (3) bekezdés a) pontja alapján. Amennyiben a letéti számlára beérkezett összeg az éves összesítésben meghaladja a 31/D. § (7) bekezdés d) pontjában meghatározott keret összegét, az állami adóhatóságnak nincs a 31/D. § (13) bekezdése szerinti megfizetési kötelezettsége a 2016. év negyedik negyedévre vonatkozóan.
 
 ### 2. CÍM — Felhatalmazó rendelkezések
 
@@ -1202,6 +1277,15 @@ rendeletben állapítsa meg.
 ### 4. CÍM — Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
 38/B. § E törvény III. Fejezete az Alaptörvény IX. cikk (3) bekezdése alapján sarkalatosnak minősül.
+
+### 5. CÍM — Az Európai Unió jogának állami támogatásokra vonatkozó szabályaival való összhang
+
+38/C. § Ez a törvény
+
+- a) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet, valamint
+- b) a Magyarország filmszakmai támogatási programjáról szóló SA.36579 számú határozattal meghosszabbított N 202/2008. számú és az azt módosító SA.38425 számú európai bizottsági határozat
+
+hatálya alá tartozó támogatást tartalmaz.
 
 ### VI. Fejezet
 
@@ -1349,22 +1433,36 @@ C) Dokumentumfilm-alkotás és tudományos ismeretterjesztő filmalkotás
 
 ### 3. melléklet a 2004. évi II. törvényhez
 
-A települési önkormányzat tulajdonában álló közterületek filmforgatási célú használatának díjai ahasználat célja szerint
+A települési önkormányzat tulajdonában álló közterületek filmforgatási célú használatának díjai a használat célja szerint
 
-|  | A | B | C | D | E | F |
+| A |  | B | C | D | E | F |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Közterületbesorolás | forgatási terület | technikai terület | stáb- parkolási terület | kiürítési terület | forgalom- technikai biztonsági terület |
+| 1 | Közterület-besorolás | Forgatási terület (F) | Technikai terület (T) | Stábparkolási terület (P) | Kiürítési terület (K) | Közlekedés elől elzárt terület (E) |
 | Ft/m2/nap | Ft/m2/nap | Ft/m2/nap | Ft/m2/nap | Ft/m2/nap |
-| 2 | A világörökségről szóló 2011. évi LXXVII. törvény 1. mellékletében felsorolt világörökségi területek és Budapest turisztikailag kiemelt központi területei | 2 084 | 1 042 | 521 | 521 | 100 |
-| töredéknap esetén1042 | töredéknap esetén521 | töredéknap esetén261 | töredéknap esetén261 | töredéknap esetén50 |
-| 3 | Budapest nagykörúton belüli területei, valamint Budapest Gellérthegy, Krisztinaváros, Rézmál, Rózsadomb, Tabán, Vérhalom,Viziváros városrészei | 833 | 416 | 208 | 208 | 40 |
-| töredéknap esetén416 | töredéknap esetén208 | töredéknap esetén104 | töredéknap esetén104 | töredéknap esetén20 |
-| 4 | Budapest közigazgatási területe a nagykörúton kívül | 312 | 156 | 104 | 104 | 10 |
-| töredéknap esetén156 | töredéknap esetén78 | töredéknap esetén52 | töredéknap esetén52 | töredéknap esetén5 |
-| 5 | a város, a megyei jogú város, a járásszékhely város, a község díszburkolatos vagy turisztikailag kiemelt központi területei | 521 | 208 | 208 | 208 | 20 |
-| töredéknap esetén261 | töredéknap esetén104 | töredéknap esetén104 | töredéknap esetén104 | töredéknap esetén10 |
-| 6 | a város, a megyei jogú város, a járásszékhely város, a község nem díszburkolatos vagy nem turisztikailag kiemelt központi területei | 208 | 156 | 104 | 104 | 10 |
-| töredéknap esetén104 | töredéknap esetén78 | töredéknap esetén52 | töredéknap esetén52 | töredéknap esetén5 |
-|  |  |  |  |  |  |  |
-| A melléklet alkalmazásában: |  |  |  |  |  |  |
-| a) forgalomtechnika biztonsági terület: A filmforgatás által nem használt, de a filmforgatás érdekében a gyalogos és a járműközlekedés elől elzárt terület. A biztonsági terület nagyságának a forgatási terület nagyságával arányos mértékben kell állnia. Az arányosság mértéke a közútkezelője által elfogadott forgalomtechnikai terv alapján kerül meghatározásra. b) forgatási terület: A filmforgatás során a felvételi képmezőben szereplő színészek, egyéb közreműködők, díszletelemek, berendezési tárgyak, kellékek, járművek által elfoglalt terület. c) kiürítési terület: A b), d) és e) pont szerinti kategóriákba tartozó területeken, a filmforgatási napot megelőző napon, kifejezetten a filmforgatási, technikai, illetve a parkolási terület kiürítésének szándékával igénybe vett terület, amennyiben a területen a d) pont szerinti tevékenységen kívül más nem történik. d) stábparkolási terület: A b) és e) pont szerinti kategóriákba nem tartozó, a forgatás és technikai kiszolgálás helyszínétől területileg elválasztható háttérkiszolgáló egységek és járművek által elfoglalt terület. e) technikai terület: A filmforgatási helyszín közvetlen környezetében felvonuló, a filmforgatás technikai megvalósulását elősegítő eszközök (különösen kamerák, világító és hangrögzítő berendezések), az azt kezelő stáb, műszaki személyzet, a filmforgatást közvetlenül kiszolgáló egyéb egységek és járművek által elfoglalt terület. |  |  |  |  |  |  |
+| 2 | A világörökségről szóló 2011. évi LXXVII. törvény 1. mellékletében felsorolt világörökségi területek | 2 084 | 1 042 | 521 | 521 | 100 |
+| Töredék nap esetén az alábbi díjak érvényesek* |  |  |  |  |
+| 1042* | 521* | 261* | 261* | 50* |
+| 3 | Budapest turisztikailag kiemelt területei | 833 | 416 | 208 | 208 | 40 |
+| Töredék nap esetén az alábbi díjak érvényesek* |  |  |  |  |
+| 416* | 208* | 104* | 104* | 20* |
+| 4 | Budapest közigazgatási határán belüli területek az 1–2. kategórián kívül | 312 | 156 | 104 | 104 | 10 |
+| Töredék nap esetén az alábbi díjak érvényesek* |  |  |  |  |
+| 156* | 78* | 52* | 52* | 5* |
+| 5 | A város, a megyei jogú város, a járásszékhely város, a község turisztikailag kiemelt területei | 521 | 208 | 208 | 208 | 20 |
+| Töredék nap esetén az alábbi díjak érvényesek* |  |  |  |  |
+| 261* | 104* | 104* | 104* | 10* |
+| 6 | A város, a megyei jogú város, a járásszékhely város, a község nem turisztikailag kiemelt területei | 208 | 156 | 104 | 104 | 10 |
+| Töredék nap esetén az alábbi díjak érvényesek* |  |  |  |  |
+| 104* | 78* | 52* | 52* | 5* |
+
+A melléklet alkalmazásában:
+
+a) közlekedés elől elzárt terület: A filmforgatás által nem használt, de a filmforgatás érdekében a gyalogos és a járműközlekedés elől elzárt terület. A biztonsági terület nagyságának a forgatási terület nagyságával arányos mértékben kell állnia. Az arányosság mértéke a közút kezelője által elfogadott forgalomtechnikai terv alapján kerül meghatározásra.
+
+b) forgatási terület: A filmforgatás során a felvételi képmezőben szereplő színészek, egyéb közreműködők, díszletelemek, berendezési tárgyak, kellékek, járművek által elfoglalt terület.
+
+c) kiürítési terület: A b), d) és e) pont szerinti kategóriákba tartozó területeken, a filmforgatási napot megelőző napon, kifejezetten a forgatási, technikai, illetve a stábparkolási terület kiürítésének szándékával igénybe vett terület, amennyiben a területen a d) pont szerinti tevékenységen kívül más nem történik.
+
+d) stábparkolási terület: A b) és e) pont szerinti kategóriákba nem tartozó, a forgatás és technikai kiszolgálás helyszínétől területileg elválasztható háttérkiszolgáló egységek és járművek által elfoglalt terület.
+
+e) technikai terület: A filmforgatási helyszín közvetlen környezetében felvonuló, a filmforgatás technikai megvalósulását elősegítő eszközök (különösen kamerák, világító és hangrögzítő berendezések), az azt kezelő stáb, műszaki személyzet, a filmforgatást közvetlenül kiszolgáló egyéb egységek és járművek által elfoglalt terület.

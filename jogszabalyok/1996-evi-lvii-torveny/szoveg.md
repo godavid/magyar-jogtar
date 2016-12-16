@@ -1343,7 +1343,7 @@ hozza meg, és gondoskodik annak az érintett ügyféllel való közléséről.
 
 (3) A tanú meghallgatásán nem lehet jelen az ügyfél és az eljárás egyéb résztvevője, ha a meghallgatás során a bírság mellőzése, illetve csökkentése iránti kérelem benyújtásának ténye vagy az ezzel összefüggésben szolgáltatott bizonyítékok e jellegének a (2) bekezdés szerinti védelme nem biztosítható. Ebben az esetben zárt meghallgatást kell tartani, és nincs helye az ügyfél értesítésének.
 
-79. § Az eljáró versenytanács határozatában tíz százalékkal csökkenti az e törvény egyéb rendelkezései alapján kiszabandó bírság mértékét azzal a vállalkozással szemben, amelyik a 73/A. § szerinti egyezségi nyilatkozatot tett.
+79. § Az eljáró versenytanács határozatában legalább tíz, de legfeljebb harminc százalékkal csökkenti az e törvény egyéb rendelkezései alapján kiszabandó bírság mértékét azzal a vállalkozással szemben, amelyik a 73/A. § szerinti egyezségi nyilatkozatot tett.
 
 ### Nélkülözhetetlen bizonyíték szolgáltatásáért járó díj
 
@@ -1728,6 +1728,8 @@ végrehajtása
 (4) E törvénynek a Módtv2.-vel hatályon kívül helyezett 55/B. § (5) bekezdése azon eljárásokban nem alkalmazandó, amelyekben még nem került sor az eljáró versenytanács előzetes álláspontjának vagy a vizsgálatot lezáró jelentésnek a 73. § szerint az ügyfelek részére való megküldésére.
 
 (5) E törvénynek a Módtv2.-vel megállapított 93/A. §-át a hatálybalépésekor folyamatban lévő ügyekben és megismételt eljárásokban is alkalmazni kell.
+
+95/E. § E törvénynek a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény, valamint a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvény módosításáról szóló 2016. évi CLXI. törvénnyel megállapított 79. §-át azokban az eljárásokban kell alkalmazni, amelyekben az e rendelkezés hatálybalépéséig még nem került sor az eljáró versenytanács előzetes álláspontjának vagy a vizsgálatot lezáró jelentésnek a 73. § szerint az ügyfelek részére való megküldésére.
 
 96. § Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a megállapodások egyes csoportjainak a 11. §-ban foglalt tilalom alól történő mentesülését.
 
