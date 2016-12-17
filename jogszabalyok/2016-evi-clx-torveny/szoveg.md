@@ -24,7 +24,7 @@ a közbeszerzésekről szóló 2015. évi CXLIII. törvény és az azzal összef
 
 47–49. §
 
-50. § (1) Hatályát veszti a Kbt. 31. § (5) bekezdése, 32. § (3) bekezdése és 196. § (2) bekezdése.
+50. § (1)
 
 (2)
 
