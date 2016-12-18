@@ -43,40 +43,7 @@ lép.
 
 #### 7. A Városliget megújításáról és fejlesztéséről szóló 2013. évi CCXLII. törvény módosítása
 
-20. § A Városliget megújításáról és fejlesztéséről szóló 2013. évi CCXLII. törvény 1. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) A vagyonkezelő felügyelőbizottsága három, legfeljebb hat természetes személy tagból áll.”
-
-21. § A Városliget megújításáról és fejlesztéséről szóló 2013. évi CCXLII. törvény 3. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) A városligeti ingatlanon megvalósuló értéknövelő beruházásokkal, felújításokkal, új eszköz létrehozásával kapcsolatosan a tulajdonosok sem a vagyonkezelővel, sem egymással szemben nem jogosultak a beruházások, fejlesztések során a meglévő vagyontárgyakkal kapcsolatosan felmerülő terven felüli értékcsökkenés miatti megtérítési igény érvényesítésére.”
-
-22. § A Városliget megújításáról és fejlesztéséről szóló 2013. évi CCXLII. törvény 3. §-a a következő (3a) és (3b) bekezdéssel egészül ki:
-
-„(3a) Az építtető a városligeti ingatlanon végzett beruházások megvalósításának időtartama alatt a helyi önkormányzat tulajdonát képező más ingatlanon – az ingatlan tulajdonosával kötött, a beruházás idejére az ingatlan ingyenes használatát biztosító írásbeli megállapodás alapján – jogosult beruházásokat végezni. Az építtető e beruházások tekintetében feladatait az állam nevében és javára eljárva látja el. A beruházás közérdekű célú fejlesztésnek minősül.
-
-(3b) A (3a) bekezdés szerint megvalósult beruházást ingyenesen az ingatlantulajdonos helyi önkormányzat tulajdonába kell adni.”
-
-23. § A Városliget megújításáról és fejlesztéséről szóló 2013. évi CCXLII. törvény a következő 3/A. §-sal egészül ki:
-
-„3/A. § (1) A 3. § (3) bekezdésében meghatározott beruházásokhoz közvetlenül kapcsolódó útépítési, közműcsatlakozási, fejlesztési, bontási és kiváltási munkák elvégzésével érintett vagyonelemek értékének változásával az építtető a beruházások teljes megvalósítását követően, a teljes beruházás időszakát figyelembe véve köteles elszámolni a beruházással érintett közművagyonelemek tulajdonosával, víziközművek esetén az ellátásért felelős Budapest Főváros Önkormányzatával. A felek kötelesek a (2) bekezdés szerinti értesítést követő 90 napon belül megállapodást kötni – a teljes beruházási időszakban elvégzésre kerülő munkálatok figyelembevételével – az elszámolás feltételeiről, valamint a felmerülő terhek viselésének megosztásáról.
-
-(2) Az építtető haladéktalanul köteles írásban értesíteni a 3. § (3) bekezdésében megjelölt beruházással érintett közmű tulajdonosát és üzemeltetőjét arról, hogy a beruházás során mely közműszakasz bontása, kiváltása vagy fejlesztése (a továbbiakban: a közműszakaszt érintő munka) szükséges.
-
-(3) Az építtető a közműszakaszt érintő munka elvégzésére vagy elvégeztetésére a körülmények által indokolt mértékű – a közmű tulajdonosa számára biztosított, legalább 10 napos határidőn belül adott véleménye figyelembevételével –, 30 napnál nem rövidebb határidőt határoz meg. A közmű tulajdonosa az egyeztetett határidőn belül köteles a közműszakaszt érintő munkát elvégezni vagy elvégeztetni.
-
-(4) Ha a közmű tulajdonosa a közműszakaszt érintő munkát a (3) bekezdés szerinti véleménye szerint nem kívánja elvégezni vagy elvégeztetni, és az építtetővel másképp nem állapodik meg, akkor az építtető jogosult a közműszakaszt érintő munkát megfelelő szakmai képesítéssel rendelkező vállalkozóval elvégeztetni, amit a közmű tulajdonosa tűrni köteles.
-
-(5) Ha a közmű tulajdonosa neki felróható módon a (2) bekezdés szerinti értesítésben szereplő közműszakaszt érintő munka elvégzésére vagy elvégeztetésére vonatkozó kötelezettségét késedelmesen teljesíti, vagy egyébként nem megfelelő módon végzi vagy végezteti el azt, köteles az ezzel okozott kárt a polgári jog általános szabályai szerint megtéríteni.
-
-(6) A közmű tulajdonosa által elvégzett, a közműszakaszt érintő munka indokolt költségeit az építtető a közmű tulajdonosának köteles megfizetni. Ha a közműszakaszt érintő munkára a műszakilag feltétlenül szükséges mértéket meghaladóan került sor, akkor a műszakilag feltétlenül szükséges mértéket meghaladó munkák költségét a közmű tulajdonosa köteles megtéríteni illetve viselni. Az építtető által létrehozott közmű – a közmű műszaki átadás-átvételi eljárása eredményes lezárását követően – e törvény erejénél fogva, ingyenesen, az építtető által nyilvántartott nyilvántartási értéken való átvezetéssel az (1) bekezdés szerinti közműtulajdonos tulajdonába, a víziközmű az ellátásért felelős Budapest Főváros Önkormányzat tulajdonába és a közmű üzemeltetőjének üzemeltetésébe kerül.”
-
-24. § A Városliget megújításáról és fejlesztéséről szóló 2013. évi CCXLII. törvény
-
-- 1. 3. § (7) bekezdésében az „az Inytv. 8. §-át” szövegrész helyébe az „a Polgári Törvénykönyvről szóló 2013. V. törvény (a továbbiakban: Ptk.) 5:167. §-át” szöveg,
-- 2. 5. § (3) bekezdésében az „az Inytv. 8. §-át” szövegrész helyébe az „a Ptk. 5:167. §-át” szöveg
-
-lép.
+20–24. §
 
 ### III. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
