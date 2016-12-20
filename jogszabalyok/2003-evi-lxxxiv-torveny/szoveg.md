@@ -531,6 +531,20 @@ részt vehet.
 
 19/A. § A beteg, illetve hozzátartozója az egészségügyi szolgáltatás során vagy az azzal összefüggésben keletkezett kára megtérítésére vonatkozó igényét közvetlenül a közszolgáltatást nyújtó egészségügyi szolgáltatóval szemben érvényesítheti, függetlenül attól, hogy az egészségügyi közszolgáltató milyen jogviszonyban foglalkoztatta a kárt okozó egészségügyi dolgozót.
 
+### Kollektív szerződés kiterjesztése az egészségügyi ágazatban
+
+19/B. § (1) A munkáltató vagy a tagok felhatalmazása alapján a munkáltatói érdek-képviseleti szervezet és a szakszervezet vagy szakszervezeti szövetség által kötött kollektív szerződésnek a jogviszonyból származó jogokat és kötelezettségeket, ezek gyakorlásának, illetve teljesítésének módját, az ezzel kapcsolatos eljárás rendjét érintő szabályainak hatályát a kollektív szerződést kötő két oldal együttes kérelmének megfelelően a foglalkoztatáspolitikáért felelős miniszter az egészségügyi ágazatban főtevékenység alapján besorolt munkáltatókra kiterjesztheti, a Nemzeti Gazdasági és Társadalmi Tanácsról szóló 2011. évi XCIII. törvény szerinti országos munkáltatói és munkavállalói érdekképviseletek, illetve érdek-képviseleti szövetségek képviselői, valamint az egészségügyért felelős miniszter véleményének kikérése után.
+
+(2) A kollektív szerződés egészségügyi ágazatra történő kiterjesztésének feltétele, hogy a kollektív szerződést kötő munkáltató, munkáltatók vagy munkáltatói érdekképviseleti szervezet munkáltató tagjai az egészségügyi ágazatban közalkalmazotti jogviszonyban és munkajogviszonyban állók többségét foglalkoztassák, valamint a kollektív szerződést kötő szakszervezet, szakszervezetek között legyen legalább egy olyan szakszervezet, amelynek az egészségügyi ágazatban közalkalmazotti jogviszonyban és munkajogviszonyban álló tagjainak száma eléri az egészségügyi ágazatban foglalkoztatott közalkalmazotti jogviszonyban és munkajogviszonyban állók létszámának 10%-át.
+
+(3) A kiterjesztés iránti kérelem a Gazdasági Tevékenységek Egységes Ágazati Osztályozási Rendszere TEÁOR '08 szerinti ágazatra, alágazatra, szakágazatra vonatkozhat. A (2) bekezdés szerinti feltételeket ennek megfelelően kell teljesíteni.
+
+(4) A (2) bekezdésben foglalt feltételek fennállását a kérelmezőknek a foglalkoztatáspolitikáért felelős miniszter előtti eljárásban a kiterjesztés iránti kérelem benyújtásának időpontját hat hónappal megelőző időpontjára vonatkozó tényadatokkal kell alátámasztaniuk. A foglalkoztatáspolitikáért felelős miniszter az eljárása során az adatok igazolására megkeresheti az adatok nyilvántartását ellátó vagy kezelő illetékes hatóságot, bíróságot, közigazgatási szervet, köztestületet, érdekvédelmi, illetve érdekképviseleti szervet vagy fórumot, munkáltatót, munkáltatói érdek-képviseleti szervezetet, szakszervezetet vagy szakszervezeti szövetséget.
+
+(5) A kiterjesztés iránti kérelem benyújtására csak a foglalkoztatáspolitikáért felelős miniszter által vezetett, a kollektív szerződések nyilvántartásába bejegyzett kollektív szerződés esetén kerülhet sor. A foglalkoztatáspolitikáért felelős miniszter a kiterjesztés elrendeléséről szóló döntés meghozatala érdekében megvizsgálja a kiterjesztést alátámasztó gazdasági, költségvetési, államháztartási, foglalkoztatási, szociális tényezőkhöz kapcsolódó adatokat és indokokat.
+
+(6) Az egészségügyi ágazatra történő kiterjesztésre alkalmazni kell az ágazati párbeszéd bizottságokról és a középszintű szociális párbeszéd egyes kérdéseiről szóló 2009. évi LXXIV. törvény 17. § (3) és (4) bekezdésének, 18. § (1)–(3) bekezdésének és 26. § 13. pontjának rendelkezéseit.
+
 ### IV. Fejezet — AZ EGÉSZSÉGÜGYI TEVÉKENYSÉG VÉGZÉSÉRE VALÓ ALKALMASSÁG
 
 20. § (1) Egészségügyi tevékenység végzésére csak az az egészségügyi dolgozó jogosult, aki egészségi, mentális és fizikai (a továbbiakban együtt: egészségi) állapotára tekintettel az adott tevékenység végzésére képes és alkalmas (a továbbiakban: munkaköri alkalmasság).

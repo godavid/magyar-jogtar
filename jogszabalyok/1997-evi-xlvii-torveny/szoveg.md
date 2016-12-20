@@ -632,13 +632,14 @@ meghatározott egészségügyi dokumentáció elhelyezéséről, illetve feldolg
 
 (2) A működtető az EESZT felhasználó azonosítása, valamint az EESZT útján történő adatkezelés jogszerűségének ellenőrzése és biztosítása céljából egységes azonosítási és jogosultságkezelési nyilvántartást vezet.
 
-(3) Az azonosítási és jogosultságkezelési nyilvántartás az Eütv. szerinti működési nyilvántartás, az önálló orvosi tevékenységről szóló törvényben meghatározott praxisjogokról vezetett nyilvántartás, továbbá a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló törvény szerinti, gyógyszertárakkal és személyi joggal rendelkező gyógyszerészekkel kapcsolatos nyilvántartás adatai közül
+(3) Az azonosítási és jogosultságkezelési nyilvántartás
 
-- a) a működési nyilvántartásban szereplő EESZT felhasználó működési nyilvántartási számát,
-- b) az egészségügyi szolgáltató intézményi azonosítóját, valamint
-- c) a gyógyszertár nevét és a személyi joggal rendelkező gyógyszerészek nevét
+- a) tartalmazza a felhasználó természetes személyazonosító adatait, lakcímét,
+- b) tartalmazza az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartásában szereplő EESZT felhasználó esetén annak alapnyilvántartási számát,
+- c) tartalmazhatja a felhasználó e-mail címét, telefonszámát,
+- d) tartalmazza a felhasználó számára megállapított jogosultságokat.
 
-az állami és önkormányzati nyilvántartások együttműködésének általános szabályairól szóló törvény szerinti származtatott adatként tartalmazza.
+Az azonosítási és jogosultságkezelési nyilvántartás az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartásában szereplő felhasználók a) és b) pont szerinti adatait az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartásából veszi át.
 
 35/D. § (1) A működtető az EESZT útján történő adatkezelések jogszerűségének ellenőrzése, valamint az érintett tájékoztatása céljából a személyes adatok EESZT útján történő kezelése tekintetében nyilvántartást vezet, amely tartalmazza
 
