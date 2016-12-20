@@ -454,8 +454,8 @@ körében a kérelemre lefolytatott közigazgatási eljárásáért – ideértv
 
 (9) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben
 
-- a) a munkavállalók fizikai tényezők (mesterséges optikai sugárzás) hatásának való expozíciójára vonatkozó egészségügyi és biztonsági minimumkövetelményeket,
-- b) a munkavállalók fizikai tényezők (elektromágneses terek) hatásából keletkező kockázatoknak való expozíciójára vonatkozó egészségügyi és biztonsági minimumkövetelményeket,
+- a) a munkavállalók fizikai tényezők (mesterséges optikai sugárzás) hatásának való expozíciójára vonatkozó egészségügyi és biztonsági minimumkövetelményeket, és ennek kapcsán az egészségügyi államigazgatási szervnek teljesítendő bejelentésre vonatkozó eljárás részletes szabályait,
+- b) a munkavállalók fizikai tényezők (elektromágneses terek) hatásából keletkező kockázatoknak való expozíciójára vonatkozó egészségügyi és biztonsági minimumkövetelményeket, és ennek kapcsán az egészségügyi államigazgatási szervnek teljesítendő bejelentésre vonatkozó eljárás részletes szabályait, és a kockázatértékelés elkészítéséhez szükséges képesítés feltételeit,
 - c) a kórházakban és más egészségügyi szolgáltatóknál az éles vagy hegyes eszközök által okozott sérülések megelőzésére, az éles vagy hegyes eszközök használatából eredő kockázatok kezelésére, valamint az egészségügyi tevékenységet végző személyek tájékoztatására és képzésére vonatkozó követelményeket
 
 rendeletben állapítsa meg.

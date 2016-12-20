@@ -72,7 +72,7 @@ nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüg
 (5) Az ügyintézési határidő
 
 - a) a környezet védelmének általános szabályairól szóló törvény szerinti előzetes vizsgálati eljárás esetén az ott meghatározott határidő,
-- b)
+- b) az elektronikus hírközlésről szóló törvény szerinti elektronikus hírközlési építményekkel kapcsolatos építésügyi hatósági eljárások esetén az ott meghatározott határidő,
 - c) a közúti közlekedésről szóló törvény szerinti közlekedési hatósági engedélyezési eljárások esetén harminc nap,
 - d) a villamos energiáról szóló törvény szerinti villamosenergia-ipari építésügyi hatósági engedélyezési eljárások esetén harminc nap.
 

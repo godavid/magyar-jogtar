@@ -1435,12 +1435,14 @@ vonatkozó előírásokat ismételten és súlyosan megsérti.
 - g) a gyógyszertár működtetője azt kéri,
 - h) a gyógyszertár működtetője jogutód nélkül megszűnik,
 - i) a gyógyszertár a működését a pályázatban meghatározott határidőben a nyertes pályázónak felróható okból nem kezdte meg,
-- j) a pályázatban vállalt többletszolgáltatást a pályázat nyertese nem teljesíti.
+- j) a pályázatban vállalt többletszolgáltatást a pályázat nyertese nem teljesíti,
+- k) a közforgalmú gyógyszertárat működtető gazdasági társaság nem felel meg a 74. § (1) bekezdésében foglaltaknak,
+- l) a gyógyszertár egészségbiztosítási szervvel fennálló ártámogatási szolgáltatói jogviszonya megszűnik.
 
 (3) A működési engedélyt a (2) bekezdés
 
 - a)
-- b) a)–b) pontjában foglalt esetben a változás bekövetkezésének napjával,
+- b) a), b) és k) pontjában foglalt esetben a változás bekövetkezésének napjával,
 - c) c) pontjában foglalt esetben a tudomásszerzés napjával
 
 kell visszavonni.
@@ -1812,7 +1814,9 @@ fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint a d
 
 (6) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben határozza meg a házi oxigénellátáshoz szükséges oxigénpalack vagy tartályrendszer beteg által fizetett letéti díjához nyújtható támogatás szabályait.
 
-78. §
+78. § (1) A 2017. január 1-jén érvényes működési engedéllyel rendelkező közforgalmú gyógyszertárat működtető gazdasági társaság köteles 2017. január 31-ig benyújtani a kormányrendeletben foglalt tartalommal, valamint a 74. § (2) bekezdése szerinti, egységes szerkezetbe foglalt, benyújtáskor hatályos állapot szerinti társasági szerződés vezető tisztségviselők által hitelesített másolatát az egészségügyi államigazgatási szervnek.
+
+(2) Ha a közforgalmú gyógyszertár 2017. január 1-jén hatályos társasági szerződése nem felel meg a 74. § (1) bekezdésében foglaltaknak, az egészségügyi államigazgatási szerv az erről való tudomásszerzéstől számított 15 napon belül 2017. január 1. napjával visszavonja a közforgalmú gyógyszertár létesítési és működési engedélyét.
 
 79–82. §
 
@@ -1844,7 +1848,7 @@ lép hatályba.
 
 (5) 2011. január 1-jén személyi joggal rendelkező, e joguk alapján közforgalmú gyógyszertárat vezető gyógyszerészek személyi joga a jelenleg általuk vezetett közforgalmú gyógyszertár vezetésére és működtetésére szóló engedéllyé alakul át. Abban az esetben, ha a személyi joggal rendelkező gyógyszerész nem vezet közforgalmú gyógyszertárat, személyi joga gyógyszertár vezetésére és működtetésére irányuló szándék esetén érvényes, azt ismételten kérelmezni az egészségügyi államigazgatási szervnél nem kell.
 
-(6) A 74. § (1) bekezdésében és az (1) bekezdésben foglalt gyógyszerészi tulajdoni hányadba a Kisvállalkozás-fejlesztő Pénzügyi Zrt. (a továbbiakban: KvfP. Zrt.) 2016. december 31-ig közforgalmú gyógyszertárat működtető gazdasági társaságban szerzett tulajdonhányadát is bele kell számítani, ha a gyógyszerész a KvfP. Zrt. tulajdonszerzésétől számított 5 éven belül a tulajdonhányad tekintetében vételi jogot érvényesíthet. A KvfP. Zrt. e bekezdés szerinti tulajdonszerzése a magyarországi székhelyű kis- és középvállalkozások tevékenységét szolgáló tőkefinanszírozás céljából megvalósuló fejlesztési célú befektetésnek minősül. A KvfP. Zrt. e bekezdés alapján történő tulajdonszerzése esetén a (7) bekezdés, a 74. § (3) bekezdése és a 75. § nem alkalmazandó. A KvfP. Zrt. által e bekezdés alapján szerzett tulajdonhányadnak az e bekezdésben említett vételi jog jogosultja részére történő értékesítése esetében a (7) bekezdés nem alkalmazandó.
+(6) A 74. § (1) bekezdésében és az (1) bekezdésben foglalt gyógyszerészi tulajdoni hányadba a Corvinus Kockázati Tőkealap-kezelő Zrt. (a továbbiakban: CKTA) által kezelt Tőkealap 2016. december 31-ig közforgalmú gyógyszertárat működtető gazdasági társaságban szerzett tulajdonhányadát is bele kell számítani, ha a gyógyszerész a CKTA által kezelt Tőkealap tulajdonszerzésétől számított 7 éven belül a tulajdonhányad tekintetében vételi jogot érvényesíthet. A CKTA által kezelt Tőkealap e bekezdés szerinti tulajdonszerzése a magyarországi székhelyű kis- és középvállalkozások tevékenységét szolgáló tőkefinanszírozás céljából megvalósuló fejlesztési célú befektetésnek minősül. A CKTA által kezelt Tőkealap e bekezdés alapján történő tulajdonszerzése esetén a (7) bekezdés, a 74. § (3) bekezdése és a 75. § nem alkalmazandó. A CKTA által kezelt Tőkealap által e bekezdés alapján szerzett tulajdonhányadnak az e bekezdésben említett vételi jog jogosultja részére történő értékesítése esetében a (7) bekezdés nem alkalmazandó.
 
 (7) A közeli hozzátartozók közötti átruházás kivételével, közforgalmú gyógyszertárat működtető gazdasági társaság tulajdoni hányadának átruházása esetén – más jogszabályon alapuló elővásárlási jogot megelőzően – az érintett gazdasági társaságban tulajdoni hányaddal rendelkező gyógyszerészt, az érintett gazdasági társaság által működtetett közforgalmú gyógyszertárban munkaviszonnyal vagy munkavégzésre irányuló egyéb jogviszonnyal rendelkező gyógyszerészt, bármely más, az egészségügyi dolgozók működési nyilvántartásában szereplő gyógyszerészt, az államot – ebben a sorrendben – elővásárlási jog illeti meg. Az állam elővásárlási jogát, illetve tulajdonosi jogait gyakorló szervet a Kormány rendeletben jelöli ki. Az e bekezdés alapján történő állami tulajdonszerzés esetén a 74. § (3) bekezdése és a 75. § nem alkalmazandó. Ha az elővásárlási jog jogosultja az átruházási szándék és a vételár vele való közlésétől számított 30 napon belül nem nyilatkozik, úgy kell tekinteni, hogy nem kíván élni az elővásárlási jogával. Az állam mint elővásárlásra jogosult által így szerzett tulajdoni hányadot az (1) bekezdésben és a 74. § (1) bekezdésében foglalt feltételek teljesítése tekintetében be kell számítani.
 
