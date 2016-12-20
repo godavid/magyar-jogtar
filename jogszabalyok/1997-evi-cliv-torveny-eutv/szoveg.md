@@ -2005,7 +2005,7 @@ a (3) bekezdésben meghatározott módon kezeli, feldolgozza és azok alapján e
 
 (4) Az akkreditációs felülvizsgálatot a miniszter által kijelölt szerv végzi, a felülvizsgálat alapján az akkreditációs dokumentumot a miniszter adja ki.
 
-(5) Az akkreditációs felülvizsgálati eljárásért a miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott igazgatási szolgáltatási díjat kell fizetni.
+(5) Az akkreditációs felülvizsgálati eljárásért költségtérítést kell fizetni.
 
 124/A. § (1) A tanúsítás az egészségügyi szolgáltató nemzetközi vagy magyar egészségügyi ellátási standardok szerinti minőségirányítási rendszerének nemzetközi szabvány alapján történő felülvizsgálata és elismerése.
 
