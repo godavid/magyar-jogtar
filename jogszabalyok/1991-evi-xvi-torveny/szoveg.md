@@ -121,9 +121,11 @@ A kizárólagos állami, önkormányzati vagy önkormányzati társulási tulajd
 
 (2) Az ágazati miniszter mellőzheti a nyilvános koncessziós pályázat kiírását, ha a koncessziós szerződés megkötésére megbízható dohánykereskedővel, vagy e személy legalább többségi tulajdonában álló gazdasági társasággal is sor kerülhet.
 
-(3) A dohánykiskereskedelem-ellátási tevékenység végzésére a megbízható dohánykereskedő ajánlatot tesz. Az ajánlattevő ajánlatában megjelöli azt a területet (megyékre lebontva), ahol a dohánykiskereskedelem-ellátási tevékenységet folytatni kívánja, bemutatja a rendelkezésére álló eszközállományt és vállalja, hogy egységenként (megyénként) a mindenkori központi költségvetésről szóló törvényben meghatározott – ennek hiányában az általa megajánlott – koncessziós díjat fizet azzal, hogy a koncessziós szerződés keltét követő öt naptári évben a koncessziós díj mértéke az ajánlattevő vállalása szerint alakul.
+(3) A dohánykiskereskedelem-ellátási tevékenység végzésére a megbízható dohánykereskedő ajánlatot tesz. Az ajánlattevő ajánlatában megjelöli azt a területet (megyékre lebontva), ahol a dohánykiskereskedelem-ellátási tevékenységet folytatni kívánja, bemutatja a rendelkezésére álló eszközállományt és vállalja, hogy egységenként (megyénként) jogszabályban meghatározott – ennek hiányában az általa megajánlott – koncessziós díjat fizet.
 
 (4) Az ágazati miniszter az ajánlat elfogadásáról a megbízható dohánykereskedő írásbeli ajánlatának átvételét követő 30 napon belül dönt. Az ajánlat elfogadása esetén 30 napon belül megköti a koncessziós szerződést az ajánlattevővel vagy az ajánlattevő legalább többségi tulajdonában álló (e célból alapított) gazdasági társasággal.
+
+(5) Az a gazdasági társaság, amellyel e § rendelkezései szerint a dohánykiskereskedelem-ellátási tevékenység elvégzése céljából koncessziós szerződést kötöttek, e törvény alkalmazásában koncessziós társaságnak minősül.
 
 10/E. § (1) Az ágazati törvényben meghatározott dohánykiskereskedelem-ellátási feladatokra vonatkozó koncesszió nyilvános pályázatára e törvény rendelkezéseit az e §-ban meghatározott eltéréssel kell alkalmazni.
 
@@ -220,3 +222,5 @@ A kizárólagos állami, önkormányzati vagy önkormányzati társulási tulajd
 (5)
 
 (6) E törvény hatályba lépését megelőzően engedélyezett koncessziós vagy koncessziós jellegű tevékenységet a törvény hatályba lépésekor folytató személyek vagy szervezetek — amennyiben az ágazati törvény másként nem rendelkezik — változatlan feltételekkel folytathatják.
+
+30. § Felhatalmazást kap a Kormány, hogy a megbízható dohánykereskedővel vagy e személy legalább többségi tulajdonában álló gazdasági társasággal az ágazati törvényben meghatározott dohánykiskereskedelem-ellátási tevékenység elvégzése céljából megkötött koncessziós szerződés alapján fizetendő koncessziós díj legkisebb mértékét és fizetési ütemezését rendeletben meghatározza.

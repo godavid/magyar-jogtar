@@ -757,7 +757,7 @@ kiállított számla érvénytelen.
 - c) munkaszüneti napot vagy ünnepnapot közvetlenül megelőző munkanapon,
 - d) külön jogszabályban meghatározott pihenőnapon.
 
-(9) Amennyiben a villamosenergia-ellátásból kikapcsolt lakossági fogyasztó rendezi valamennyi lejárt tartozását, valamint a 146. § (1) bekezdése szerinti rendeletben és 146. § (4) bekezdése szerinti határozatban meghatározott külön díjat is megfizeti, a villamosenergia- kereskedő annak tudomására jutását követően 24 órán belül köteles kezdeményezni a lakossági fogyasztónak az ellátásba történő ismételt bekapcsolását.
+(9) Amennyiben a villamosenergia-ellátásból kikapcsolt lakossági fogyasztó rendezi valamennyi lejárt tartozását, valamint a 146. § (1) bekezdése szerinti rendeletben és a 146. § (4) bekezdése szerinti rendeletben meghatározott külön díjat is megfizeti, a villamosenergia- kereskedő annak tudomására jutását követően 24 órán belül köteles kezdeményezni a lakossági fogyasztónak az ellátásba történő ismételt bekapcsolását.
 
 (10) Az elosztó a (7) és a (9) bekezdés szerinti kezdeményezésnek köteles 24 órán belül eleget tenni.
 
@@ -765,7 +765,7 @@ kiállított számla érvénytelen.
 
 (2) Az egyetemes szolgáltatásra jogosult nem lakossági felhasználóval a kikapcsolásra és az azzal járó szolgáltatásszüneteltetésre vonatkozó értesítést tértivevényes levélben vagy az egyetemes szolgáltatásra jogosult nem lakossági felhasználó általi átvétel igazolására alkalmas más módon kell közölni.
 
-(3) Amennyiben a villamosenergia-ellátásból kikapcsolt, egyetemes szolgáltatásra jogosult nem lakossági felhasználó rendezi valamennyi lejárt tartozását, valamint a 146. § (1) bekezdése szerinti rendeletben és 146. § (4) bekezdése szerinti határozatban meghatározott díjat is megfizeti, a villamosenergia-kereskedő annak tudomására jutását követően 24 órán belül köteles kezdeményezni az egyetemes szolgáltatásra jogosult nem lakossági felhasználó ellátásba történő ismételt bekapcsolását.
+(3) Amennyiben a villamosenergia-ellátásból kikapcsolt, egyetemes szolgáltatásra jogosult nem lakossági felhasználó rendezi valamennyi lejárt tartozását, valamint a 146. § (1) bekezdése szerinti rendeletben és a 146. § (4) bekezdése szerinti rendeletben meghatározott díjat is megfizeti, a villamosenergia-kereskedő annak tudomására jutását követően 24 órán belül köteles kezdeményezni az egyetemes szolgáltatásra jogosult nem lakossági felhasználó ellátásba történő ismételt bekapcsolását.
 
 (4) Az elosztó az (1) és (3) bekezdés szerinti kezdeményezésnek legkésőbb annak kézhezvételét követő munkanapon köteles eleget tenni.
 
@@ -2485,7 +2485,7 @@ ELJÁRÁSOK
 
 (6) Az (1) bekezdés szerinti hatósági árakat legmagasabb áraknak kell tekinteni. A legmagasabb ártól lefelé megkülönböztetés-mentesen, előre nyilvánosságra hozott módon lehet eltérni.
 
-(7) A legmagasabb hatósági árnál magasabb árat a szerződésben érvényesen kikötni nem lehet. Ha a felek az árban nem állapodtak meg, és a termékre vagy szolgáltatásra hatósági ár van érvényben, az utóbbi az irányadó. A hatósági ár az irányadó akkor is, ha a felek a hatósági árat megállapító jogszabály vagy határozat megsértésével más árban állapodtak meg.
+(7) A legmagasabb hatósági árnál magasabb árat a szerződésben érvényesen kikötni nem lehet. Ha a felek az árban nem állapodtak meg, és a termékre vagy szolgáltatásra hatósági ár van érvényben, az utóbbi az irányadó. A hatósági ár az irányadó akkor is, ha a felek a hatósági árat megállapító jogszabály megsértésével más árban állapodtak meg.
 
 (8) A legmagasabb hatósági árnak a szerződés megkötését követően bekövetkező változása esetén a felek eltérő rendelkezése hiányában a megváltozott hatósági ár az érvényes szerződés részévé válik.
 
@@ -2541,19 +2541,19 @@ vonatkozóan módszertani útmutatót (a továbbiakban együtt: módszertani út
 
 a honlapján közzéteszi.
 
-(5) A rendszerhasználati díjak mértékét a Hivatal – figyelemmel a (2) bekezdés szerinti rendeletre és a módszertani útmutatókra – határozatban állapítja meg, legkésőbb a díjak alkalmazhatósága előtt 45 nappal. A Hivatal a határozatát a rendszerhasználati díjak alkalmazhatósága előtt legalább 25 nappal a honlapján közzéteszi.
+(5) A rendszerhasználati díjak mértékét a Hivatal elnöke – figyelemmel a (2) bekezdés szerinti rendeletre és módszertani útmutatókra – rendeletben állapítja meg.
 
-(6) A 142. § (6) bekezdése szerinti kiegyenlítő fizetések mértékét a Hivatal a rendszerhasználati díjakról kiadott határozatában – a rendszerhasználati díjakkal egyidejűleg – állapítja meg.
+(6) A 142. § (6) bekezdése szerinti kiegyenlítő fizetések mértékét a Hivatal elnöke a rendszerhasználati díjakat megállapító rendeletében – a rendszerhasználati díjakkal egyidejűleg – állapítja meg.
 
 (7) A rendszerhasználati díjak fizetésére kötelezettek körét és a rendszerhasználati díjak alkalmazásának szabályait a Hivatal elnöke rendeletben állapítja meg, amely rendelet kihirdetése és hatálybalépése között legalább 45 napnak el kell telnie.
 
-(8) Az e § szerinti rendeletek, valamint a módszertani útmutatóinak előkészítése során a Hivatal kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleteinek véleményét.
+(8) A (2) és a (7) bekezdés szerinti rendeletek, valamint a módszertani útmutatóinak előkészítése során a Hivatal kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleteinek véleményét.
 
 (9) A hálózati engedélyesek a Hivatal elnökének határozatában meghatározott rendszerhasználati díjakat és áralkalmazási feltételeket kötelesek a honlapjukon 3 munkanapon belül közzétenni.
 
-144. § (1) A Hivatal 143. § (5) bekezdés szerinti határozatában rögzített, éves ármegállapítás alapján keletkező, az átviteli rendszerirányítónak járó, a következő évek díjaiban elismerendő különbözeteket – az Szt. általános szabályaitól eltérően – az átviteli rendszerirányító köteles az éves beszámolójának mérlegében aktív időbeli elhatárolásként szerepeltetni. Köteles továbbá az átviteli rendszerirányító az éves beszámolójának mérlegében az átviteli rendszerirányítótól a következő évek díjaiban elvonandó különbözeteket a határkeresztező aukcióból származó tárgyévi bevételeivel együtt passzív időbeli elhatárolásként szerepeltetni. Az ebben a bekezdésben foglaltak alapján elkészített beszámoló a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 1. § (5) bekezdése alkalmazásában az Szt. rendelkezéseire figyelemmel megállapítottnak, azokkal összhangban állónak minősül.
+144. § (1) A Hivatal 143. § (5) bekezdés szerinti rendeletében rögzített, éves ármegállapítás alapján keletkező, az átviteli rendszerirányítónak járó, a következő évek díjaiban elismerendő különbözeteket – az Szt. általános szabályaitól eltérően – az átviteli rendszerirányító köteles az éves beszámolójának mérlegében aktív időbeli elhatárolásként szerepeltetni. Köteles továbbá az átviteli rendszerirányító az éves beszámolójának mérlegében az átviteli rendszerirányítótól a következő évek díjaiban elvonandó különbözeteket a határkeresztező aukcióból származó tárgyévi bevételeivel együtt passzív időbeli elhatárolásként szerepeltetni. Az ebben a bekezdésben foglaltak alapján elkészített beszámoló a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 1. § (5) bekezdése alkalmazásában az Szt. rendelkezéseire figyelemmel megállapítottnak, azokkal összhangban állónak minősül.
 
-(2) Az átviteli rendszerirányító átviteli rendszerirányítási díjból származó bevételének – a 142. § (6) bekezdés szerinti kiegyenlítő fizetések végrehajtása érdekében – az elosztók között megosztott, 143. § (6) bekezdés szerinti határozatban foglalt része árengedménynek minősül. A megosztott részre az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 71. § (1) bekezdésében és 77. § (3) bekezdésében meghatározottakat kell alkalmazni.
+(2) Az átviteli rendszerirányító átviteli rendszerirányítási díjból származó bevételének – a 142. § (6) bekezdés szerinti kiegyenlítő fizetések végrehajtása érdekében – az elosztók között megosztott, 143. § (6) bekezdés szerinti rendeletben foglalt része árengedménynek minősül. A megosztott részre az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 71. § (1) bekezdésében és 77. § (3) bekezdésében meghatározottakat kell alkalmazni.
 
 (3) A rendszerszintű szolgáltatás keretében az átviteli rendszerirányító által lekötött kapacitások, valamint a rendszerszintű szolgáltatás szempontjából annak elválaszthatatlan részét képező, igénybevett villamos energia számviteli szempontból a helyi adókról szóló 1990. évi C. törvény 52. § 40. pontja szerinti közvetített szolgáltatásnak minősül.
 
@@ -2587,7 +2587,7 @@ külön díj ellenében végzett szolgáltatások meghatározására és szabál
 
 (3) A Hivatal elnöke rendeletben állapítja meg a külön díjak fizetésére kötelezettek körét és a külön díjak alkalmazásának szabályait, amely rendelet kihirdetése és hatálybalépése között legalább 45 napnak el kell telnie.
 
-(4) A Hivatal határozatban állapítja meg a (2) bekezdés a) és b) pontjában meghatározott szolgáltatások külön díjait a tervezett alkalmazhatóságuk előtt legalább 45 nappal. A Hivatal a határozatát a külön díjak alkalmazhatósága előtt legalább 25 nappal a honlapján közzéteszi.
+(4) A Hivatal elnöke rendeletben állapítja meg a (2) bekezdés a) és b) pontjában meghatározott szolgáltatások külön díjait.
 
 (5) Az e § szerinti rendeletek előkészítése során a Hivatal kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleteinek véleményét.
 
@@ -2597,7 +2597,7 @@ külön díj ellenében végzett szolgáltatások meghatározására és szabál
 
 (2) A Hivatal elnöke rendeletben állapítja meg a csatlakozási díj fizetésére kötelezettek körét és a csatlakozási díjak alkalmazásának szabályait, amely rendelet kihirdetése és hatálybalépése között legalább 45 napnak el kell telnie.
 
-(3) A csatlakozási díjak mértékét a Hivatal határozatban állapítja meg legkésőbb a díjak tervezett alkalmazhatósága előtt 45 nappal. A Hivatal a határozatát a csatlakozási díjak alkalmazhatósága előtt legalább 25 nappal a honlapján közzéteszi.
+(3) A csatlakozási díjak mértékét a Hivatal elnöke rendeletben állapítja meg.
 
 (4) A Hivatal az (1) bekezdésben meghatározott rendelet előkészítése során kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleti szerveinek véleményét.
 
@@ -2740,11 +2740,11 @@ villamos energia képezi.
 - 2. jóváhagyja az engedélyesek által kidolgozott üzletszabályzatokat és belső kiválasztási szabályzatokat, valamint azok módosítását, illetve e törvényben meghatározott esetekben hivatalból módosítja, vagy visszavonja azokat,
 - 3. jóváhagyja a villamosenergia-ellátási szabályzatokat, a szervezett villamosenergia-piaci szabályzatot, valamint azok módosítását, illetve e törvényben meghatározott esetekben hivatalból módosítja, vagy visszavonja azokat,
 - 4. ellenőrzi az e törvényben, a végrehajtására kiadott külön jogszabályokban, 714/2009/EK rendeletben, valamint az annak felhatalmazása alapján kiadott európai bizottsági rendeletben, a Hivatal által kiadott határozatokban, a villamosenergia-ellátási szabályzatokban, valamint az üzletszabályzatokban meghatározott kötelezettségek betartását,
-- 5. rendeletben határozza meg az egyes rendszerhasználati díjak elemeit, a díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, a rendszerhasználati díjak fizetésére kötelezettek körét és a rendszerhasználati díjak alkalmazásának szabályait,
-- 6. rendeletben határozza meg a csatlakozási díjak elemeit, a díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, a csatlakozási díj fizetésére kötelezettek körét és a csatlakozási díjak alkalmazásának szabályait.
+- 5. rendeletben határozza meg az egyes rendszerhasználati díjak elemeit, a díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, a rendszerhasználati díjak fizetésére kötelezettek körét és a rendszerhasználati díjak alkalmazásának szabályait, valamint a rendszerhasználati díjak mértékét,
+- 6. rendeletben határozza meg a csatlakozási díjak elemeit, a díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, a csatlakozási díj fizetésére kötelezettek körét és a csatlakozási díjak alkalmazásának szabályait, valamint a csatlakozási díjak mértékét,
 - 7. előkészíti az egyetemes szolgáltatás árképzésére vonatkozó szabályokat,
 - 8. javaslatot tesz az egyetemes szolgáltató által a felhasználók igénye alapján külön díj ellenében végzett szolgáltatások körére, azok külön díjaira és ezen külön díjak alkalmazásának szabályaira, valamint az egyetemes szolgáltató által a felhasználó szerződésszegése esetén külön díj ellenében végzett szolgáltatások körére, azok külön díjaira és ezen külön díjak alkalmazásának szabályaira,
-- 8a. rendeletben határozza meg az elosztó által a felhasználó vagy az engedélyes igénye alapján külön díj ellenében, valamint az elosztó által a felhasználó szerződésszegése esetén külön díj ellenében végzett szolgáltatások meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, ezen szolgáltatások körét a külön díjak megállapításának kereteit, valamint a külön díjak alkalmazásának szabályait,
+- 8a. rendeletben határozza meg az elosztó által a felhasználó vagy az engedélyes igénye alapján külön díj ellenében, valamint az elosztó által a felhasználó szerződésszegése esetén külön díj ellenében végzett szolgáltatások meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, ezen szolgáltatások körét a külön díjak megállapításának kereteit, valamint a külön díjak alkalmazásának szabályait és a külön díjak mértékét,
 - 9. dönt a közcélúvá, ezen belül átviteli vagy elosztó hálózati elemmé történő minősítésről vagy átminősítésről,
 - 10. a 37. §-ban meghatározott szabályok szerint dönt a rendszerösszekötő vezeték tekintetében benyújtott mentesítési kérelemről,
 - 11. a Vhr.-ben meghatározott szempontrendszer alapján jóváhagyja az átviteli rendszerirányító által készített hálózatfejlesztési tervet, figyelemmel kíséri annak megvalósítását és évente értékeli azt,
@@ -3001,7 +3001,7 @@ jár el, 45 nap,
 
 (9) A Hivatal köteles határozatait nyilvánosan közzétenni.
 
-(10) A közigazgatási ügyekben eljáró bíróság a Hivatal határozatának bírósági felülvizsgálata során – a villamosenergia-rendszer jelentős zavara és a villamosenergia-ellátási válsághelyzet esetén szükséges intézkedésekről szóló kormányrendelet alapján meghozott döntés, valamint a tanúsítási eljárás eredményeképpen hozott határozat, a más engedélyes kijelölési eljárás során hozott határozat, továbbá a rendszerhasználati díjakat, az elosztó által külön díj ellenében végezhető szolgáltatások díjait, a csatlakozási díjakat megállapító határozat, továbbá a végső menedékes kijelölési eljárásban hozott határozat kivételével – a határozatot jogosult megváltoztatni.
+(10) A közigazgatási ügyekben eljáró bíróság a Hivatal határozatának bírósági felülvizsgálata során – a villamosenergia-rendszer jelentős zavara és a villamosenergia-ellátási válsághelyzet esetén szükséges intézkedésekről szóló kormányrendelet alapján meghozott döntés, valamint a tanúsítási eljárás eredményeképpen hozott határozat, a más engedélyes kijelölési eljárás során hozott határozat, továbbá a végső menedékes kijelölési eljárásban hozott határozat kivételével – a határozatot jogosult megváltoztatni.
 
 (11) A Hivatal jogerős határozatával lezárt ügyben nem nyújtható be újrafelvételi kérelem.
 
@@ -3021,7 +3021,7 @@ jár el, 45 nap,
 - d) a magánvezeték üzemeltetésére átmenetileg elosztót jelöl ki,
 - e) a folyamatos ellátás vagy a folyamatos közvilágítás biztosítása érdekében más engedélyest jelöl ki,
 - f) a más engedélyes kijelölése érdekében a korábbi engedélyes vagy az eszköz tulajdonosának jogait, kötelezettségeit korlátozza,
-- g) rendszerhasználati díjakat, az elosztó által külön díj ellenében végezhető szolgáltatások díjait vagy csatlakozási díjakat állapít meg.
+- g)
 
 (16) A Hivatal engedélyezési eljárásai során hirdetményt tesz közzé az eljárás megindításáról.
 
@@ -3031,15 +3031,7 @@ jár el, 45 nap,
 
 (19) A Hivatalnak a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésében nem kell rendelkezni a kérelmezett jog gyakorlásáról.
 
-168/A. § (1) A rendszerhasználati díjak, az elosztó által külön díj ellenében végezhető szolgáltatások díjainak és a csatlakozási díjak megállapítására irányuló eljárások szempontjából ügyfélnek kizárólag az érintett hálózati engedélyes tekintendő.
-
-(2) A Hivatal a rendszerhasználati díjakat, az elosztó által külön díj ellenében végezhető szolgáltatások díjait vagy a csatlakozási díjakat megállapító határozatának bírósági felülvizsgálatát az érintett ügyfél a határozat közlésétől számított 15 napon belül jogszabálysértésre hivatkozással kérheti a közigazgatási ügyekben eljáró bíróságtól a Hivatal elleni kereset indításával.
-
-(3) A rendszerhasználati díjakat, az elosztó által külön díj ellenében végezhető szolgáltatások díjait vagy a csatlakozási díjakat megállapító határozat bírósági felülvizsgálata iránti ügyben a bíróság soron kívül jár el, azzal hogy a bíróság határozatát legkésőbb a felülvizsgálati kérelem benyújtását követő 30 napig meghozza.
-
-(4) Ha a rendszerhasználati díjakat, az elosztó által külön díj ellenében végezhető szolgáltatások díjait vagy csatlakozási díjakat megállapító határozat bírósági felülvizsgálata során a bíróság a határozatot jogerősen hatályon kívül helyezi, mindaddig a jogerős bírósági döntést közvetlenül megelőzően alkalmazott díjakat és áralkalmazási feltételeket kell alkalmazni, amíg a Hivatal által jogerősen, a bírósági határozat alapján új eljárásban hozott határozat szerinti díjak nem alkalmazandóak.
-
-(5) A (4) bekezdés szerinti bírósági felülvizsgálat során a határozat részbeni hatályon kívül helyezésének nincs helye.
+#### 168/A. §
 
 ### Energetikai Állandó Választottbíróság
 
@@ -3194,11 +3186,11 @@ rendeletben állapítsa meg.
 
 (5) Felhatalmazást kap a Hivatal elnöke, hogy rendeletben állapítsa meg
 
-- 1. az egyes rendszerhasználati díjak elemeit, a díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, a rendszerhasználati díjfizetésre kötelezettek körét és a rendszerhasználati díjak alkalmazásának szabályait,
-- 2. a csatlakozási díjak elemeit, a díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, a csatlakozási díjfizetésre kötelezettek körét és a csatlakozási díjak alkalmazásának szabályait,
+- 1. az egyes rendszerhasználati díjak elemeit, a díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, a rendszerhasználati díjfizetésre kötelezettek körét és a rendszerhasználati díjak alkalmazásának szabályait, valamint a rendszerhasználati díjak mértékét,
+- 2. a csatlakozási díjak elemeit, a díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, a csatlakozási díjfizetésre kötelezettek körét és a csatlakozási díjak alkalmazásának szabályait, valamint a csatlakozási díjak mértékét,
 - 3. az elosztók közötti kiegyenlítő fizetések mértékét,
 - 4. e törvény szerint rendszeres adatszolgáltatásra kötelezettek által szolgáltatandó adatok körét, a teljesítés módjára vonatkozó követelményeket, valamint az adatszolgáltatási kötelezettség határidejét, továbbá a rendkívüli adatszolgáltatásra kötelezettek körét és a rendkívüli adatszolgáltatással kapcsolatos rendelkezéseket;
-- 5. a hálózathasználati szerződés és az egyetemes szolgáltatásra jogosult felhasználó esetén a villamosenergia-vásárlási szerződés engedélyes általi megszegésére vonatkozó jogkövetkezmények mértékére és alkalmazására vonatkozó rendelkezéseket; 9. az elosztó által a felhasználók vagy az engedélyes igénye alapján külön díj ellenében végzett szolgáltatások körét, valamint az elosztó által a felhasználó szerződésszegése esetén külön díj ellenében végzett szolgáltatások meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, ezen szolgáltatások körét, a külön díjak megállapításának kereteit és a külön díjak alkalmazásának szabályait.
+- 5. a hálózathasználati szerződés és az egyetemes szolgáltatásra jogosult felhasználó esetén a villamosenergia-vásárlási szerződés engedélyes általi megszegésére vonatkozó jogkövetkezmények mértékére és alkalmazására vonatkozó rendelkezéseket; 9. az elosztó által a felhasználók vagy az engedélyes igénye alapján külön díj ellenében végzett szolgáltatások körét, valamint az elosztó által a felhasználó szerződésszegése esetén külön díj ellenében végzett szolgáltatások meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, ezen szolgáltatások körét, a külön díjak megállapításának kereteit és a külön díjak alkalmazásának szabályait, valamint a külön díjak mértékét.
 
 ### XXI. Fejezet — ÁTMENETI RENDELKEZÉSEK
 
@@ -3420,6 +3412,14 @@ e törvény, valamint a villamosenergia-ipari építésügyi hatósági engedél
 - b) a Hivatal a 143. § (3) bekezdés a) pontja szerinti módszertani útmutatót a honlapján 2016. október 25-ig teszi közzé;
 - c) a 146. § (2) bekezdése szerinti rendeletet a Hivatal elnöke 2016. október 15-ig hirdeti ki;
 - d) a 146/A. § (1) bekezdése szerinti rendeletet a Hivatal elnöke 2016. október 15-ig hirdeti ki.
+
+178/U. § (1) E törvénynek az egyes energetikai tárgyú törvények árszabályozási célú módosításáról szóló 2016. évi CLXXXIII. törvénnyel megállapított 143. § (5) bekezdése, 146. § (4) bekezdése és 146/A. § (3) bekezdése szerinti rendeleteket első alkalommal a 2017. január 1-jétől alkalmazandó díjak mértékének megállapítása során kell alkalmazni.
+
+(2) E törvénynek az energetikai tárgyú törvények jogharmonizációs célú módosításáról szóló 2016. évi LIX. törvénnyel megállapított 143. § (5) bekezdése, 146. § (4) bekezdése és 146/A. § (3) bekezdése alapján kiadott határozatok nem lépnek hatályba.
+
+(3) Amennyiben az egyes energetikai tárgyú törvények árszabályozási célú módosításáról szóló 2016. évi CLXXXIII. törvény hatálybalépésekor az energetikai tárgyú törvények jogharmonizációs célú módosításáról szóló 2016. évi LIX. törvénnyel megállapított 143. § (5) bekezdése, 146. § (4) bekezdése és 146/A. § (3) bekezdése alapján kiadott határozatok bírósági felülvizsgálata folyamatban van, a bíróság az eljárását megszünteti.
+
+(4) E törvénynek az egyes energetikai tárgyú törvények árszabályozási célú módosításáról szóló 2016. évi CLXXXIII. törvénnyel megállapított rendelkezéseit a folyamatban lévő hatósági eljárásokban és bírósági eljárásokban is alkalmazni kell.
 
 ### HATÁLYBA LÉPTETŐ RENDELKEZÉSEK
 
