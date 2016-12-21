@@ -34,6 +34,16 @@ az egyes sportcélú ingatlanok tulajdoni helyzetének rendezéséről
 
 (9) Az (5) bekezdés b) pontja alapján szerzett vagy épített sportcélú ingatlanra és a csereingatlanra e törvényt alkalmazni kell, azzal, hogy az elidegenítési és terhelési tilalom időtartamát a méltányossággal érintett ingatlan tulajdonjogának megszerzésétől kell számítani.
 
+(10) A sportigazgatási szerv a sportcélú ingatlan elidegenítéséhez szükséges hozzájárulást az erre irányuló kérelem benyújtásától számított 8 napon belül – az (5) bekezdés szerinti feltételektől függetlenül – köteles kiadni abban az esetben, ha a (4) bekezdés szerinti elidegenítési tilalom időtartamából hátralevő idő nem haladja meg az 5 évet és az érintett sportcélú ingatlan elidegenítése folytán a magyar állam szerzi meg 1/1 tulajdoni arányban a sportcélú ingatlan tulajdonjogát.
+
+(11) A (10) bekezdés szerinti esetben a (4) bekezdés szerinti elidegenítési és terhelési tilalom a magyar állam tulajdonjogának megszerzésével egyidejűleg megszűnik.
+
+(12) A sportigazgatási szerv a sportcélú ingatlan megterheléséhez szükséges hozzájárulást az erre irányuló kérelem benyújtásától számított 8 napon belül – az (5) bekezdés szerinti feltételektől függetlenül – köteles kiadni abban az esetben, ha a (4) bekezdés szerinti terhelési tilalom időtartamából hátralevő idő nem haladja meg az 5 évet és a megterhelés folytán a magyar állam szerez jogosultságot az érintett sportcélú ingatlanon.
+
+(13) A (10) bekezdés, illetve a (12) bekezdés alkalmazása esetén a magyar állam által a tulajdonjog, illetve egyéb vagyoni értékű jog megszerzéséért teljesítendő ellenérték nem haladhatja meg az érintett ingatlan, illetve vagyoni értékű jog igazságügyi ingatlanforgalmi szakértő által megállapított értékének az 1. számú mellékletben meghatározott értékekkel csökkentett összegét.
+
+(14) A (10) és (12) bekezdés szerinti kérelemhez a sportszervezet mint kérelmező az ingatlan tulajdonjoga megszerzésének időpontját igazoló okiratot, valamint az ingatlan (10) bekezdés szerinti elidegenítésére, illetve (12) bekezdés szerinti terhelésére vonatkozó okiratokat, valamint a (13) bekezdés szerinti értékbecslést köteles csatolni.
+
 6. §
 
 7. § (1) Az e törvény alapján átadott sportcélú ingatlanok működtetését, a sportigazgatási szerv jogszabályban meghatározottak szerint ellenőrzi. Jogsértés észlelése esetén a sportcélú ingatlan tulajdonosát határidő tűzésével felhívja a jogszerű állapot helyreállítására, a határidő eredménytelen lejártát követően kezdeményezi a szerződés felmondását a Magyar Nemzeti Vagyonkezelő Zrt.-nél (a továbbiakban: MNV Zrt.).
@@ -62,4 +72,17 @@ az egyes sportcélú ingatlanok tulajdoni helyzetének rendezéséről
 
 15. § Az egyes sportcélú ingatlanok tulajdoni helyzetének rendezéséről szóló törvény módosításáról szóló 2012. évi LXXX. törvénnyel megállapított 5. § (5)–(9) bekezdését az egyes sportcélú ingatlanok tulajdoni helyzetének rendezéséről szóló törvény módosításáról szóló 2012. évi LXXX. törvény hatálybalépésekor fennálló elidegenítési és terhelési tilalom tekintetében is alkalmazni kell.
 
-16. § 2012. január 1-je után ingyenesen szerzett sportcélú ingatlanok esetében az 5. § (5) bekezdés a) és b) pontjában foglalt rendelkezések nem alkalmazhatóak.
+16. § 2012. január 1-je után ingyenesen szerzett sportcélú ingatlanok esetében az 5. § (5) bekezdés a) és b) pontjában foglalt rendelkezések, valamint a (10) bekezdés rendelkezései nem alkalmazhatóak.
+
+16/A. § Az 5. § (10) bekezdése alapján a magyar állam tulajdonába került sportcélú ingatlan esetében a Kormány nyilvános határozatban dönthet az ingatlan sportcéltól eltérő hasznosításáról.
+
+### 1. melléklet az egyes sportcélú ingatlanok tulajdoni helyzetének rendezéséről szóló 1996. évi LXV. törvényhez
+
+| Forgalmi értéket az elidegenítési és terhelési tilalomból még fennálló évek alapján csökkentő összeg |  |
+| --- | --- |
+| fennálló elidegenítési és terhelési tilalom időtartama (év) | értékcsökkenés mértéke = forgalmi érték x [elidegenítési és terhelési tilalom fennálló időtartama (év)/15] |
+| 1 | értékcsökkenés mértéke = forgalmi érték x 1/15 |
+| 2 | értékcsökkenés mértéke = forgalmi érték x 2/15 |
+| 3 | értékcsökkenés mértéke = forgalmi érték x 3/15 |
+| 4 | értékcsökkenés mértéke = forgalmi érték x 4/15 |
+| 5 | értékcsökkenés mértéke = forgalmi érték x 5/15 |

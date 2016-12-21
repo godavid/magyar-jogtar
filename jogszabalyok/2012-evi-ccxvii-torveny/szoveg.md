@@ -118,6 +118,8 @@ Az Országgyűlésnek e törvény megalkotásával az a célja, hogy megteremtse
 
 (3a) A hatóság a kibocsátási engedélyben végrehajtott módosításról, illetve az engedély visszavonásáról tájékoztatja az államháztartásért felelős minisztert (a továbbiakban: miniszter). A miniszter tájékoztatja a hatóságot minden olyan, az üzemeltetők és a légi jármű üzembentartók működésével kapcsolatos adatról, amely adatot közvetlenül a miniszterhez nyújtottak be, és az adat megismerése a hatóság e törvény és a végrehajtására kiadott kormányrendelet szerinti feladat- és hatáskörébe tartozik.
 
+(3b) A hatóság a térítésmentes kiosztásra megállapított ÜHG-egységek mennyiségének alapjául szolgáló adatok megfelelőségének felülvizsgálatát a miniszterrel együttműködve, hatósági ellenőrzés keretében végzi.
+
 (4) A kibocsátási engedély egyazon üzemeltető által egy – a társasági adóról és az osztalékadóról szóló törvény szerinti – telephelyen üzemeltetett egy vagy több létesítményre is vonatkozhat.
 
 (5) A kibocsátási engedély kötelező tartalmi elemei:
@@ -307,7 +309,7 @@ a (2)–(4) bekezdésben foglaltak figyelembevételével, kizárólag a derogác
 
 20. § (1) A légi jármű üzembentartó minden egyes kereskedési időszakra a miniszterhez benyújtott kérelemmel igényelheti a térítésmentesen kiosztható légiközlekedési kibocsátási egységek kiosztását. A kérelmet legalább 21 hónappal az érintett kereskedési időszak kezdetét megelőzően kell benyújtani. A kérelemhez mellékelni kell az ellenőrzési évre vonatkozó hitelesített tonnakilométer-adatokat tartalmazó jelentést.
 
-(2) A kérelmet a miniszter a kérelemmel érintett kereskedési időszak kezdetét megelőzően legalább 18 hónappal, a légiközlekedésre vonatkozó Nemzeti Végrehajtási Intézkedés tervezeteként jóváhagyásra megküldi az Európai Bizottságnak. Az Európai Bizottság által elfogadott nemzeti légiközlekedési kiosztási táblát vagy annak a 21. § (5) bekezdése szerinti módosítását a miniszter az általa vezetett minisztérium honlapján közleményben teszi közzé és gondoskodik annak Hivatalos Értesítőben való közzétételéről.
+(2) A kérelmet a miniszter a kérelemmel érintett kereskedési időszak kezdetét megelőzően legalább 18 hónappal, a légiközlekedési kibocsátási egységek térítésmentes kiosztására vonatkozó alap-adatszolgáltatás tervezeteként jóváhagyásra megküldi az Európai Bizottságnak. Az Európai Bizottság által elfogadott nemzeti légiközlekedési kiosztási táblát vagy annak a 21. § (5) bekezdése szerinti módosítását a miniszter az általa vezetett minisztérium honlapján közleményben teszi közzé és gondoskodik annak Hivatalos Értesítőben való közzétételéről.
 
 (3) A kérelmet a miniszter a kérelemmel érintett kereskedési időszak kezdetét megelőzően legalább 18 hónappal, a légiközlekedésre vonatkozó Nemzeti Végrehajtási Intézkedés tervezeteként jóváhagyásra megküldi az Európai Bizottságnak. Az Európai Bizottság által elfogadott nemzeti légiközlekedési kiosztási táblát vagy annak a 21. § (5) bekezdése szerinti módosítását a miniszter az általa vezetett minisztérium honlapján közleményben teszi közzé és gondoskodik annak Hivatalos Értesítőben való közzétételéről.A miniszter az Európai Bizottság határozata alapján, annak elfogadását követő 3 hónapon belül megállapítja a kérelmet benyújtó összes légi jármű üzembentartó részére az adott időszakra kiosztott légiközlekedési kibocsátási egységek teljes számát, és az egyes üzemben tartók számára az egyes évekre kiosztott légiközlekedési kibocsátási egységek számát. A kereskedési időszakra vonatkozó nemzeti légiközlekedési kiosztási tábla tervezetét a miniszter megküldi az Európai Bizottságnak jóváhagyásra. Amennyiben az Európai Bizottság elutasítja a nemzeti légiközlekedési kiosztási táblára vonatkozó javaslatot, a miniszter 3 hónapon belül új javaslatot nyújt be.
 
@@ -421,6 +423,8 @@ akkor a részükre a nemzeti kiosztási táblában és a nemzeti légiközleked�
 
 (4) A nemzeti tisztviselő megőriz valamennyi releváns kiotói folyamatra, naplózási adatra és a kiotói számlák számlatulajdonosaira vonatkozó adatot, amíg az esetleges velük kapcsolatos folyamatban lévő végrehajtási ügyek le nem zárulnak, de legfeljebb a számla lezárását követően tizenöt évig.
 
+30/B. § A forgalmi jegyzékben szereplő számla kezeléséért az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában való részvételről szóló 2012. évi CCXVII. törvény végrehajtásának egyes szabályairól szóló kormányrendeletben meghatározott mértékű számlavezetési díjat kell fizetni.
+
 #### 12. Az ÜHG-egységek kereskedelmének nyilvánossága
 
 31. § Az ÜHG-egységek kereskedelmével kapcsolatos adatok, így különösen
@@ -475,9 +479,17 @@ a hatóság a 601/2012/EU bizottsági rendelet 70. cikke alapján konzervatív b
 
 (3) A 32. § és 33. § (1) bekezdése szerinti bírság megfizetésére tekintet nélkül, amennyiben az üzemeltető vagy a légi jármű üzembentartó a jelentési vagy hitelesítési kötelezettségének, vagy az ÜHG-egységek visszaadására irányuló kötelezettségének részben vagy egészben nem tesz eleget, a hatóság az üzemeltető vagy a légi jármű üzembentartó nevét és a kötelességszegés tényét honlapján nyilvánosságra hozza.
 
-(4) A 32. § és 33. § (1) bekezdése szerinti bírság megfizetésére tekintet nélkül az üzemeltető és a légi jármű üzembentartó köteles az elmulasztott ÜHG-egységekkel egyező mennyiségű ÜHG-egységet a tárgyévet követő második év április 30-ig az állam részére visszaadni. Ennek elmulasztása esetén a tárgyévet követő harmadik évben az üzemeltető és a légi jármű üzembentartó számláján a mulasztással érintett mennyiséggel csökkentett mennyiségű ÜHG-egység kerül jóváírásra.
+(4)
 
 (5) A visszaadás elmulasztása esetén a hatóság zárolja az üzemeltető vagy a légi jármű üzembentartó forgalmi jegyzékbeli számláját. A zárolást a jegyzékkezelő akkor oldja fel, ha a (4) bekezdésben előírt ÜHG-egység visszaadásra kerül.
+
+(6) Ha az üzemeltető vagy a légi jármű üzembentartó a felügyeleti díjat határidőben nem fizeti meg, a hatóság a határidő lejártát követő 8 napon belül fizetési kötelezettség teljesítésének elmulasztását megállapító és a felügyeleti díj megfizetésére kötelező határozatot hoz. A jogerős határozatban megállapított teljesítési határidő eredménytelen elteltét követően a hatóság a felügyeleti díj behajtása érdekében soron kívül megkeresi az állami adóhatóságot. A felügyeleti díj megfizetéséig a hatóság zárolja az üzemeltető vagy a légi jármű üzembentartó forgalmi jegyzékbeli számláját, és arról tájékoztatást nyújt a miniszter részére. A számla zárolásának feloldását a jegyzékkezelő a követelés beérkezését követő 15 napon belül végzi el. A felügyeleti díj üzemeltetői és légi jármű üzembentartói teljesítéséhez kapcsolódó zárolásról és a zárolás feloldás tényéről a jegyzékkezelő minden esetben értesíti az érintetteket, és arról tájékoztatást nyújt a miniszter részére a zárolást és a zárolás feloldását követő 8 napon belül.
+
+(7) A (6) bekezdés alapján jogerősen kiszabott és meg nem fizetett felügyeleti díj adók módjára behajtandó köztartozásnak minősül.
+
+34/A. § (1) A hatóság a 30/B. § szerinti számlavezetési díj vonatkozásában jogerős határozatban megállapított teljesítési határidő eredménytelen lejártát követően, a meg nem fizetett számlavezetési díj 110%-ával megegyező mértékű bírságot szab ki. A bírság megfizetésével a számlavezetési díj megfizetettnek minősül.
+
+(2) A bírságnak a meg nem fizetett számlavezetési díj fedezetéül szolgáló része a jegyzékkezelő bevételét képezi.
 
 #### 14. Felügyeleti díj
 
@@ -491,9 +503,9 @@ a hatóság a 601/2012/EU bizottsági rendelet 70. cikke alapján konzervatív b
 
 (5) Ha a légi jármű üzembentartója év közben beszünteti tevékenységét, vagy tevékenysége az 1. melléklet XXII. pontja alóli kivételnek minősül, ezen események bejelentésével egyidejűleg az e törvény hatálya alá tartozó tevékenység utolsó évére megállapított felügyeleti díj teljes összegét megfizeti.
 
-(6) Ha az üzemeltető vagy a légi jármű üzembentartó a felügyeleti díjat határidőben nem fizeti meg, a hatóság a határidő lejártát követő 8 napon belül fizetési kötelezettség teljesítésének elmulasztását megállapító és a felügyeleti díj megfizetésére kötelező határozatot hoz. A felügyeleti díjat esedékességétől a jegybanki alapkamat kétszeresének megfelelő mértékű késedelmi pótlék terheli. A jogerős határozatban megállapított teljesítési határidő eredménytelen elteltét követően a hatóság a felügyeleti díj behajtása érdekében soron kívül megkeresi az állami adóhatóságot. A felügyeleti díj és a késedelmi pótlék megfizetéséig a hatóság zárolja az üzemeltető vagy a légi jármű üzembentartó forgalmi jegyzékbeli számláját, és arról tájékoztatást nyújt a miniszter részére. A számla zárolásának feloldását a jegyzékkezelő a követelés beérkezését követő 15 napon belül végzi el. A felügyeleti díj és a késedelmi pótlék üzemeltetői és légi jármű üzembentartói teljesítéséhez kapcsolódó zárolás és a zárolás feloldás tényéről a jegyzékkezelő minden esetben értesíti az érintetteket, és arról tájékoztatást nyújt a miniszter részére a zárolást és a zárolás feloldását követő 8 napon belül.
+(6)
 
-(7) A (6) bekezdés alapján jogerősen kiszabott és meg nem fizetett felügyeleti díj, és az emiatt jogerősen kiszabott és meg nem fizetett késedelmi pótlék adók módjára behajtandó köztartozásnak minősül.
+(7)
 
 #### 15. Nemzetközi jelentéstétel az ÜHG-egység kereskedelmi rendszer működéséről
 
@@ -530,7 +542,7 @@ a hatóság a 601/2012/EU bizottsági rendelet 70. cikke alapján konzervatív b
 
 (5) A (4) bekezdés szerinti értékesítési bevétel felhasználásáról a miniszter előterjesztése alapján a Kormány dönt.
 
-(6) A bevételek felhasználásáról a miniszter évente beszámol az Országgyűlésnek.
+(6) A bevételek felhasználásáról a miniszter a bevétel keletkezését követő évben beszámol az Országgyűlésnek.
 
 #### 17. Záró rendelkezések
 

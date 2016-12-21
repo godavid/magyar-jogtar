@@ -18,11 +18,16 @@ az Országgyűlés a dohánytermék-kiskereskedelem állami monopóliummá téte
 
 ### 1. CÍM — Általános rendelkezések
 
-1. § (1) Dohánytermékek, elektronikus cigaretták és dohányzást imitáló elektronikus eszközök kiskereskedelme Magyarországon kizárólag e törvény rendelkezéseinek betartásával folytatható.
+1. § (1) Dohánytermékek, elektronikus cigaretták, dohányzást imitáló elektronikus eszközök, füst nélküli dohánytermékek, valamint az új dohánytermék-kategóriák kiskereskedelme Magyarországon kizárólag e törvény rendelkezéseinek betartásával folytatható.
 
-(2) A dohánytermék-kiskereskedelem folytatásakor mindenkor arra kell törekedni, hogy dohánytermék értékesítése a fiatalkorúak elől elzárt módon történjék, illetve dohánytermék a fiatalkorúak számára ne legyen hozzáférhető.
+(2) A dohánytermék-kiskereskedelem, továbbá az elektronikus cigaretták, a dohányzást imitáló elektronikus eszközök, a füst nélküli dohánytermékek, valamint az új dohánytermék-kategóriák forgalmazása mindenkor kizárólag a fiatalkorúak elől elzárt módon történhet. Az (1) bekezdésben meghatározott termékeket fiatalkorúaknak értékesíteni, vagy más módon hozzáférhetővé tenni tilos.
 
-(3) E törvény hatálya nem terjed ki a dohánytermékek nemzetközi közforgalmú repülőtéren a repülésre nyilvántartásba vett induló utasok tartózkodására szolgáló helyen kialakított, kizárólag nem helyben fogyasztásra történő értékesítést végző üzlet és az üzlet áruellátását biztosító raktár együttes területén, valamint a büntetés-végrehajtási intézetek területén történő kiskereskedelmi értékesítésére.
+(3) E törvény hatálya nem terjed ki az (1) bekezdésben meghatározott termékek
+
+- a) nemzetközi közforgalmú repülőtéren a repülésre nyilvántartásba vett induló utasok tartózkodására szolgáló helyen kialakított, kizárólag nem helyben fogyasztásra történő értékesítést végző üzlet és az üzlet áruellátását biztosító raktár együttes területén történő,
+- b) a büntetés-végrehajtási intézetek területén történő
+
+kiskereskedelmi értékesítésére.
 
 2. § (1) Dohánytermékek kiskereskedelme Magyarországon kizárólagosan az állam hatáskörébe utalt tevékenység, melynek gyakorlását az állam a koncesszióról szóló 1991. évi XVI. törvény (a továbbiakban: „Ktv.”), és e törvény rendelkezéseinek megfelelően megkötött koncessziós szerződéssel meghatározott időre átengedheti.
 
@@ -34,16 +39,16 @@ az Országgyűlés a dohánytermék-kiskereskedelem állami monopóliummá téte
 
 3. § E törvény alkalmazásában
 
-- 1. dohánytermék(ek): cigaretta, szivar, szivarka, pipadohány és más fogyasztási dohány, vagy egyéb, külön jogszabály szerint dohányzásra szánt, dohány alapanyagú termék;
-- 2. dohányterméket kiegészítő termék: olyan áru, amely a dohánytermék fogyasztását közvetlen módon elősegíti, így különösen cigarettahüvely, cigarettapapír, gyújtóeszköz, pipa, dohánylevél-töltő, továbbá az ezen termék használatához, működtetéséhez kapcsolódó termék (alkatrész) is (különösen öngyújtó újratöltő, tűzkő, szivar- és cigarettapiszka);
+- 1. dohánytermék(ek): cigaretta, szivar, szivarka, pipadohány és más fogyasztási dohány, továbbá egyéb, külön jogszabály szerinti dohányzásra szánt dohánytermék;
+- 2. dohányterméket kiegészítő termék: olyan áru, amely a dohánytermék fogyasztását közvetlen módon elősegíti, így különösen cigarettahüvely, cigarettapapír, gyújtóeszköz, pipa, dohánylevél-töltő, továbbá az ezen termék használatához, működtetéséhez kapcsolódó termék (alkatrész) is (különösen öngyújtó újratöltő, tűzkő);
 - 3. dohánytermékek kiskereskedelme (a továbbiakban: dohánytermék-kiskereskedelem): üzletszerű gazdasági tevékenység keretében dohánytermék forgalmazása, értékesítése és az ezzel közvetlenül összefüggő szolgáltatások nyújtása a fogyasztók részére az e törvényben meghatározott feltételek szerint;
 - 4. dohánytermék-kiskereskedő: az a jogosult, aki koncessziós szerződés alapján a dohánytermékek kiskereskedelmét – ide nem értve a dohánykiskereskedelem-ellátást – e törvény rendelkezéseinek megfelelően végezheti;
 - 5. elkülönített hely: az üzletben fenntartott olyan, térben leválasztott helyiségrész, amely a dohányterméknek az üzletben kötött egyéb jogügyletektől elkülönített módon történő értékesítését teszi lehetővé úgy, hogy a dohánytermék az üzletben megforduló fiatalkorú számára sem a dohánytermék fogyasztó számára történő értékesítésekor, sem azt megelőzően, illetve azt követően ne legyen látható;
 - 6. fiatalkorú: minden természetes személy, aki a 18. életévét nem töltötte be;
-- 7. fogyasztó: minden természetes személy, függetlenül attól, hogy saját, vagy más nevében jár el, illetve más természetes, vagy jogi személyt, vagy jogi személyiség nélküli szervezetet képvisel;
+- 7. fogyasztó: minden természetes személy, függetlenül attól, hogy saját vagy más nevében jár el, illetve más természetes vagy jogi személyt, vagy szervezetet képvisel;
 - 8. dohánybolt: nem mozgó (és részekre bontás nélkül nem is mozgatható), más üzlettől elkülönült olyan önálló üzlethelyiség, amelynek külső felületére tekintve dohánytermék nem látható, csak az üzlethelyiségbe belépve, és amelyben kizárólag
   - a) dohánytermék,
-  - b) dohányterméket kiegészítő termék,
+  - b) dohányterméket kiegészítő termék, valamint a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvényben (a továbbiakban: Nvt.) meghatározott új dohánytermék-kategóriák kiegészítő terméke,
   - c) a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény Különös Rendelkezések I. fejezet 1. és 4. címében szabályozott sorsolásos játék és fogadás bonyolításával kapcsolatos termék,
   - d) a kereskedelemről szóló 2005. évi CLXIV. törvényben meghatározott szeszes ital,
   - e) a népegészségügyi termékadóról szóló 2011. évi CIII. törvényben meghatározott energiaital,
@@ -54,7 +59,7 @@ az Országgyűlés a dohánytermék-kiskereskedelem állami monopóliummá téte
   - j) rágógumi, valamint a mentolos cukorka és lapocska,
   - k) tömegközlekedési eszközök vonaljegye (gyűjtőjegye),
   - l) a dohányboltban forgalmazható termékek fogyasztók általi átvételére, szállítására szolgáló csomagolóeszköz, hordtasak vagy hordtáska,
-  - m) a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvényben meghatározott elektronikus cigaretta, utántöltő flakon és dohányzást imitáló elektronikus eszköz,
+  - m) az Nvt.-ben meghatározott elektronikus cigaretta, utántöltő flakon és dohányzást imitáló elektronikus eszköz, füst nélküli dohánytermék, továbbá új dohánytermék-kategóriák, valamint
   - n) jogszabály által meghatározott más termék forgalmazható, továbbá,
   - o) az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatások egyenlegének feltöltésére irányuló szolgáltatás nyújtható;
 - 9. üzlet: kereskedelmi tevékenység folytatása céljából létesített vagy használt épület, illetve önálló rendeltetési egységet képező épületrész, helyiség, ideértve az elsődlegesen raktározás, tárolás célját szolgáló olyan épületet vagy épületrészt is, amelyben kereskedelmi tevékenységet folytatnak;
@@ -73,7 +78,16 @@ az Országgyűlés a dohánytermék-kiskereskedelem állami monopóliummá téte
 
 4. § (1) Az állami vagyonnal való gazdálkodás szabályozásáért felelős miniszter (a továbbiakban: miniszter) ellátja a dohánytermék-kiskereskedelmi tevékenység szervezésének szakmai irányítását, melynek során mindenkor – e törvény alapvető céljának – a fiatalkorúak védelmének elsődlegessége alapján kell tevékenykednie.
 
-(2) A dohánytermék-kiskereskedelem szervezésének előmozdítására, a dohánytermék-kiskereskedelmi jogosultság átengedéséről szóló pályázat kiírásának, elbírálásának, a koncessziós szerződés megkötésének előkészítésére, a megkötött koncessziós szerződés ellenőrzésére, valamint a dohánytermék-kiskereskedők számára országos szakmai képzés megszervezésére és lebonyolítására a miniszter 100%-os állami tulajdonban lévő zártkörűen működő nonprofit részvénytársaságot (a továbbiakban: a részvénytársaság) alapít.
+(2) Az (1) bekezdésben foglaltak teljesülése érdekében a miniszter 100%-os állami tulajdonban lévő zártkörűen működő nonprofit részvénytársaságot (a továbbiakban: részvénytársaság) alapít
+
+- a) a dohánytermék-kiskereskedelem szervezett működésének előmozdítására, szakmai állásfoglalások kibocsátására,
+- b) a dohánytermék-kiskereskedelmi jogosultság átengedéséről szóló pályázatok kiírásának, elbírálásának, a koncessziós szerződések megkötésének (módosításának, megszüntetésének) előkészítésére,
+- c) a dohánytermék-kiskereskedőkkel, valamint a dohány-kiskereskedelmi ellátóval megkötött koncessziós szerződésekben foglaltak betartásának ellenőrzésére; a koncessziós szerződésekből eredő jogok és vállalt kötelezettségek érvényesítésében való közreműködésre,
+- d) a dohánytermék-kiskereskedők részére országos szakmai képzési rendszer működtetésére és oktatási feladatok ellátására,
+- e) a dohányipari ágazati konzultációs fórum létrehozására és folyamatos működtetésére,
+- f) a dohánytermék-nagykereskedők, a dohánytermék-kiskereskedők, valamint a dohány-kiskereskedelmi ellátó közötti vitás kérdések rendezésére vonatkozó mediációs tevékenységre,
+- g) a külön jogszabályban meghatározottak szerint a dohányboltban forgalmazható termékek regisztrációs adatainak fogadására, és ezeknek a dohány-kiskereskedők, valamint a dohány-kiskereskedelmi ellátó részére történő publikálására; készletnyilvántartó minősítési rendszer működtetésére, a dohánytermék-kiskereskedők készlet és forgalmi adatainak kezelésére, feldolgozására, valamint
+- h) a jövedéki adóról szóló törvény alapján a dohánytermékek árainak közzététele érdekében a külön jogszabályban meghatározottak szerint a szolgáltatott árbejelentések rendszerezésére, feldolgozására és továbbítására.
 
 (3) A részvénytársaság e törvényben meghatározott tevékenységével összefüggő költségeihez a miniszter a központi költségvetésről szóló törvényben e célra meghatározott fejezeti kezelésű előirányzat terhére támogatást nyújt.
 
@@ -98,7 +112,7 @@ jogosult végezhesse.
 
 (4) Minden egyes dohánytermék-kiskereskedelmi jogosultság átengedésére külön nyilvános pályázatot kell kiírni.
 
-(5) A település állandó lakosainak számát a Központi Statisztikai Hivatal által a tárgyévet megelőző utolsó három évben közzétett tájékoztatási adatbázis Magyarország lakónépességének továbbszámított, éves és települési bontásban megadott adatainak számtani átlaga alapján kell megállapítani.
+(5) A település állandó lakosainak számát a Központi Statisztikai Hivatal tájékoztatási adatbázisában a tárgyévet megelőző utolsó három évben közzétett, Magyarország lakónépességének továbbvezetett, január 1-jei, települési bontásban megadott adatainak számtani átlaga alapján kell megállapítani.
 
 7. § (1) A dohánytermék-kiskereskedelmi koncesszió nyilvános pályázatára a Ktv.-ben előírt szabályokat az e törvényben foglalt eltéréssel kell alkalmazni.
 
@@ -127,7 +141,7 @@ jogosult végezhesse.
 
 8. § (1) A miniszter, illetve a miniszter által megbízott és a nevében eljáró természetes személy a pályázat nyertesével köti meg a koncessziós szerződést a pályázat eredményének kihirdetését követő 30 napon belül.
 
-(2) A koncessziós szerződésben a koncesszióról szóló 1991. évi XVI. törvény 13. § (2) bekezdésében meghatározottakon túl a koncessziós díj ellentételezéséről is rendelkezni kell.
+(2) A koncessziós szerződésben a Ktv. 13. § (2) bekezdésében meghatározottakon túl a koncessziós díj ellentételezéséről is rendelkezni kell.
 
 (3) Egy személlyel egy időpontban legfeljebb öt megkötött koncessziós szerződés lehet hatályban. Azoknál az egy közigazgatási egységet képező településeknél, ahol egynél több dohánytermék-kiskereskedelmi jogosultság kerül kiadásra, egy személy nem birtokolhatja az összes dohánytermék-kiskereskedelmi jogosultság több mint kétharmadát.
 
@@ -254,7 +268,7 @@ feltéve, hogy az üzlet egyébként megfelel a dohánytermékek értékesítés
 
 (2) A dohánytermék-kiskereskedő az (1) bekezdésben meghatározott termékek forgalmazását a dohányboltban az (1) bekezdés szerinti bejelentést követően kezdheti meg. Amennyiben a dohánytermék-kiskereskedő az (1) bekezdés szerinti bejelentést a 13. §-ban meghatározott engedélyezési eljárás megkezdésekor vagy annak során nyújtja be, úgy az (1) bekezdésben meghatározott termékek forgalmazását a dohányboltban csak az engedély kézhezvételét követően kezdheti meg.
 
-(3) A vámhatóság az (1) bekezdés szerinti bejelentésről értesíti a bejelentés-köteles kereskedelmi tevékenységet folytató kereskedők nyilvántartását vezető kereskedelmi hatóságot.
+(3)
 
 14. § A dohánytermék-kiskereskedelmi jogosultság megszűnik, és új koncessziós pályázatot kell kiírni:
 
@@ -278,6 +292,8 @@ feltéve, hogy az üzlet egyébként megfelel a dohánytermékek értékesítés
 
 (2) A dohánytermék-nagykereskedők az általuk forgalmazott termékek megrendelésére (megvásárlására) vonatkozó felhívással a dohánytermék-kiskereskedőket közvetlenül is megkereshetik, a dohánytermékek megrendelésére vonatkozó nyilatkozatok megtételében közreműködhetnek, azonban a dohánytermékek megrendelésére vonatkozó nyilatkozatokat csak a dohánytermék-kiskereskedő és kizárólag közvetlenül a dohány-kiskereskedelmi ellátó felé jogosult megtenni. A dohánytermék-nagykereskedő, vagy az általa kijelölt személy részére e bekezdés szerinti nyilatkozatok megtételére meghatalmazás nem adható.
 
+(3) Az (1) bekezdésben foglaltaktól eltérően a dohánytermék-kiskereskedelmet folytató a dohánytermék-kiskereskedelmi jogosultsága megszűnését követő 60 napon belül jogosult a készletében lévő dohányterméket más dohánytermék-kiskereskedelmi jogosultsággal rendelkező részére – a vonatkozó jövedéki szabályok betartása mellett – értékesíteni.
+
 ### 4. CÍM — A dohány-kiskereskedelmi ellátó
 
 15/A. § (1) A dohány-kiskereskedelmi ellátót szerződéskötési kötelezettség terheli minden olyan dohánytermék-nagykereskedővel, aki Magyarországon dohányterméket kíván értékesíteni. A dohány-kiskereskedelmi ellátó általános szerződési feltételt alkalmaz annak érdekében, hogy a dohánytermék-nagykereskedőkkel kötött szerződések feltételei azonosak, versenysemlegesek legyenek.
@@ -288,7 +304,7 @@ feltéve, hogy az üzlet egyébként megfelel a dohánytermékek értékesítés
 
 (4) A dohány-kiskereskedelmi ellátó az egyes dohánytermékekre vonatkozó adásvételi szerződést – a dohánytermék-nagykereskedő felé kiállított, elektronikus úton megtett nyilatkozattal, vagy a dohányterméknek a dohánytermék-kiskereskedő részére történő kiszállításhoz való összekészítésével – egyoldalúan hozza létre a dohánytermék-nagykereskedő és dohány-kiskereskedelmi ellátó között. Arról a tényről, hogy az adásvételi szerződés a dohányterméknek a kiszállításhoz való összekészítésével jött létre a dohány-kiskereskedelmi ellátó a dohánytermék-nagykereskedőt haladéktalanul értesíteni köteles.
 
-(5) A létrejött adásvételi szerződésekről és azok tartalmáról a dohány-kiskereskedelmi ellátó legkésőbb a naptári hónap végét követő tíz napon belül összesített jelentést készít a dohánytermék-nagykereskedő részére, melynek alapján a dohánytermék-nagykereskedő jogosult a dohánytermékek értékesítéséről a számlát – a kiskereskedelmi árrésre vonatkozó szabályok betartása mellett – a dohány-kiskereskedelmi ellátó felé kiállítani. A dohány-kiskereskedelmi ellátó az általa a dohánytermék-nagykereskedőtől megvásárolt dohánytermékek után a fizetési kötelezettségét a számla kézhezvételét követő legfeljebb 60 napon belül köteles teljesíteni.
+(5) A létrejött adásvételi szerződésekről és azok tartalmáról a dohány-kiskereskedelmi ellátó legkésőbb a naptári hónap végét követő tíz napon belül összesített jelentést készít a dohánytermék-nagykereskedő részére, melynek alapján a dohánytermék-nagykereskedő jogosult a dohánytermékek értékesítéséről a számlát – a kiskereskedelmi árrésre vonatkozó szabályok betartása mellett – a dohány-kiskereskedelmi ellátó felé kiállítani. A dohány-kiskereskedelmi ellátó az általa a dohánytermék-nagykereskedőtől megvásárolt dohánytermékek után a fizetési kötelezettségét a számla kézhezvételét követő legfeljebb 20 napon belül köteles teljesíteni.
 
 15/B. § (1) A dohány-kiskereskedelmi ellátó köteles olyan informatikai rendszert, vagy ügyfélszolgálatot működtetni, melynek útján a dohánytermék-kiskereskedők az általuk megvásárolni kívánt dohánytermékekre vonatkozó megrendeléseiket bármikor eljuttathatják. A dohány-kiskereskedelmi ellátó köteles a megrendeléseket azok beérkezésétől legkésőbb három napon belül visszaigazolni, a szállítási időpont megjelölésével. A visszaigazolással az adásvételi szerződés létrejön azzal, hogy amennyiben a visszaigazolás a megrendelt mennyiségnél kisebb mennyiségről szól, úgy a szerződés e mennyiségre jön létre. A felek eltérő megállapodásának hiányában a dohánytermék-kiskereskedő és a dohány-kiskereskedelmi ellátó közötti szerződéses feltételekre a dohány-kiskereskedelmi ellátó által közzétett általános szerződési feltételek az irányadók azzal, hogy az ettől eltérő megállapodás – kivéve, ha azt e törvény kifejezetten lehetővé teszi – nem tartalmazhat hátrányos megkülönböztetést a dohánytermék-kiskereskedőre nézve.
 
@@ -298,9 +314,13 @@ feltéve, hogy az üzlet egyébként megfelel a dohánytermékek értékesítés
 
 (4) A (3) bekezdésben foglalt esetben a 15/A. § (4) bekezdése rendelkezéseit megfelelően alkalmazni kell azzal, hogy – erre vonatkozó elektronikus nyilatkozat hiányában – az adásvételi szerződés a dohánytermék-nagykereskedő és a dohány-kiskereskedelmi ellátó között akkor jön létre, amikor a dohány-kiskereskedelmi ellátó a dohányterméket a C+C raktárba betárolja. Arról a tényről, hogy az adásvételi szerződés a dohányterméknek a C+C raktárba történt betárolásával jött létre a dohány-kiskereskedelmi ellátó a dohánytermék-nagykereskedőt haladéktalanul értesíteni köteles.
 
-(5) A dohány-kiskereskedelmi ellátó a tevékenysége során egyetlen dohányterméket sem részesíthet semmilyen megkülönböztetésben; a dohánytermék-kiskereskedő megrendelését nem bírálhatja felül, vagy helyettesítheti más dohánytermékkel. Ha készlethiány miatt a dohányterméket nem lehet az e törvény által előírt határidőn belül kiszállítani, úgy a dohány-kiskereskedelmi ellátó köteles a dohánytermék beszerzése céljából a dohánytermék-nagykereskedőt megkeresni, egyúttal a készlethiányról a dohánytermék-kiskereskedőt értesíteni. Ebben az esetben a készlethiánnyal érintett dohánytermék beérkezését követően a dohánytermék-ellátó ésszerű időn belül gondoskodik a dohánytermék kiszállításáról.
+(5) A dohány-kiskereskedelmi ellátó a tevékenysége során egyetlen dohányterméket sem részesíthet semmilyen megkülönböztetésben; a dohánytermék-kiskereskedő megrendelését nem bírálhatja felül vagy helyettesítheti más dohánytermékkel. Ha készlethiány miatt a dohányterméket nem lehet az e törvény által előírt határidőn belül kiszállítani, akkor a dohány-kiskereskedelmi ellátó köteles a dohánytermék beszerzése céljából a dohánytermék-nagykereskedőt megkeresni, egyúttal a készlethiányról a dohánytermék-kiskereskedőt értesíteni. Ebben az esetben a készlethiánnyal érintett dohánytermék beérkezését követően a dohány-kiskereskedelmi ellátó ésszerű időn belül gondoskodik a dohánytermék kiszállításáról, feltéve, hogy a dohánytermék-kiskereskedő a készlethiánnyal érintett dohánytermékre a vásárlási szándékát fenntartja és azt a dohány-kiskereskedelmi ellátóval közli.
 
 (6) A dohány-kiskereskedelmi ellátó a tevékenységét – a jogszabályok és a koncessziós szerződés keretei között – maga látja el, melyhez közreműködőt csak akkor vehet igénybe, ha ezt jogszabály, vagy a koncessziós szerződés lehetővé teszi.
+
+(7) A dohány-kiskereskedelmi ellátó tevékenysége során a dohánytermék-nagykereskedőtől csak azon adatok szolgáltatását kérheti, amelyek a tevékenysége ellátásához elengedhetetlenül szükségesek. A dohánytermék-nagykereskedő olyan időben köteles a kért adatokat rendelkezésére bocsátani, hogy az a dohány-kiskereskedelmi ellátó folyamatos működését ne akadályozza, illetve korlátozza.
+
+(8) A dohánykiskereskedelem-ellátással szervesen összefüggő tevékenységnek a 3. § 8. pont b) és m) alpontja szerinti termékek dohány-kiskereskedelmi ellátó általi forgalmazása minősül.
 
 ### 5. CÍM — A dohánytermékek értékesítésével összefüggő különös szabályok
 
@@ -314,7 +334,7 @@ feltéve, hogy az üzlet egyébként megfelel a dohánytermékek értékesítés
 
 fogadhatja el.
 
-15/D. § (1) A dohánytermék-kiskereskedő köteles valamennyi általa forgalmazott dohánytermékből – a szivarokat kivéve – típusonként, márkajelzésenként, illetve – ha ilyen van – a márkajelzések minden alfajtája után egyet-egyet a dohányboltban a pultvonal felett, illetve az elkülönített helyen belül a fogyasztók számára jól láthatóan – amennyiben a csomagoláson ilyen van – a képpel kombinált figyelmeztetést tartalmazó oldalával, egyébként pedig a csomagolás előlapjával megjeleníteni.
+15/D. § (1) A dohánytermék-kiskereskedő köteles valamennyi általa forgalmazott dohánytermékből – a szivarokat kivéve – típusonként, márkajelzésenként, illetve – ha ilyen van – a márkajelzések minden alfajtája után egyet-egyet a dohányboltban a pultvonal felett, illetve az elkülönített helyen belül a fogyasztók számára jól láthatóan megjeleníteni. A szivarok kivételével minden olyan dohánytermék, amelynek csomagolása képpel kombinált figyelmeztetést tartalmaz, csak olyan módon helyezhető az értékesítési csatornába (polchelyre), hogy a képpel kombinált figyelmeztetés a fogyasztó felé láthatóvá váljék; minden más esetben a terméket a csomagolás előlapjával kell megjeleníteni.
 
 (2) Amennyiben a dohánytermék-nagykereskedő az általa gyártott, vagy forgalmazott (szabadforgalomba bocsátott) dohánytermék(ek), vagy termékcsoport(ok) kedvezőbb (így különösen nagyobb felületen, vagy kiemeléssel történő) megjelenítését kívánja a dohányboltban, úgy erről a dohánytermék-kiskereskedővel határozott időre – írásban – polckép-szerződést köthet. A polckép-szerződésnek tartalmaznia kell legalább
 
@@ -345,11 +365,15 @@ fogadhatja el.
 
 (7) A legkisebb kiskereskedelmi árrésre vonatkozó rendelkezéseket akkor is megfelelően alkalmazni kell, ha a dohánytermék értékesítésére a 11. §-ban meghatározottak szerint kerül sor.
 
+(8) A (6) bekezdésben foglaltaktól eltérően a dohány-kiskereskedelmi ellátó a dohánytermék-nagykereskedők számára a dohány-kiskereskedelmi ellátó által a tárgyévben értékesített dohánytermékek kiskereskedelmi eladási áron számolt összértéke és az egyes dohánytermék-nagykereskedők dohánytermékeinek ebből való részesedése alapján a dohány-kiskereskedelmi ellátó által alkalmazott általános szerződési feltételek keretein belül, valamennyi szerződött dohánytermék-nagykereskedőre kiterjedően, versenysemleges módon pénzbeli visszatérítést adhat. A visszatérítés mértéke nem haladhatja meg a dohány-kiskereskedelmi ellátó tárgyévre vonatkozó, a számvitelről szóló törvény alapján meghatározott adózott eredménye összegét.
+
 15/F. § A dohánytermék-kiskereskedő köteles a készletéről, illetve annak forgalmáról külön jogszabály szerint nyilvántartást vezetni, illetve elektronikus úton adatot szolgáltatni.
+
+15/G. § A módosított hatású termékek forgalmazására, illetve e termékek ismertetésére jogszabály különös, a 11. § (1) bekezdésében foglaltaktól is eltérő, de az 1. § (2) bekezdése rendelkezéseinek mindenkor megfelelő szabályokat állapíthat meg.
 
 ### 6. CÍM — A fiatalkorúak különös védelme
 
-16. § (1) A dohánytermék-kiskereskedelmi tevékenység folytatása során törekedni kell arra, hogy fiatalkorú dohánytermékhez ne juthasson.
+16. § (1) A dohánytermék-kiskereskedelmi tevékenység folytatása során fiatalkorú dohánytermékhez nem juthat; fiatalkorú részére dohányterméket értékesíteni, illetve kiszolgálni tilos.
 
 (2) Amennyiben annak gyanúja merül fel, hogy a dohánytermék értékesítési helyére (dohányboltba, elkülönített helyre) fiatalkorú személy lépett be, illetve a dohányterméket fiatalkorú kívánja megvásárolni, a dohánytermék-kiskereskedő köteles a fogyasztót életkora hitelt érdemlő igazolására felhívni.
 
@@ -373,7 +397,7 @@ fogadhatja el.
 
 17. § (1) A vámhatóság – a (2) bekezdésben foglalt kivétellel – a dohánytermék-kiskereskedelem hatósági felügyeletét látja el, tevékenységének célja a dohánytermék-kiskereskedelmi piac zavartalan és eredményes működésének, a fiatalkorúak védelmének, továbbá a dohánytermék-kiskereskedelemmel szembeni bizalom erősítésének érdekében a dohánytermék-kiskereskedelmi piac folyamatos felügyelete.
 
-(2) Az 1. § (2) bekezdése, a 12. §, a 16. §, valamint a 16/A. § a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezés.
+(2) Az 1. § (2) bekezdése, a 12. §, a 16. §, a 16/A. §, valamint a dohányboltban forgalmazható termékek láthatóságának korlátozására vonatkozó, a 3. § 8. pontjában, továbbá a 15/D. § (1) bekezdésében foglalt rendelkezés a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezés.
 
 (3) A fogyasztóvédelmi hatóság a dohánytermék-kereskedelmi tevékenységgel összefüggő szabályok megsértése miatt hozott jogerős határozatát megküldi a vámhatóságnak.
 
@@ -397,13 +421,13 @@ fogadhatja el.
 
 22. § (1) A vámhatóság az e törvény hatálya alá tartozó tevékenységet folytató személyt a (2)–(3) bekezdésben foglaltak szerinti esetekben az ott írt mértékű bírság megfizetésére kötelezi.
 
-(2) A bírság összege a dohánytermék-kiskereskedővel szemben 30 ezer forinttól 10 millió forintig terjedhet, ha a dohánytermék-kiskereskedő
+(2) A bírság összege a dohánytermék-kiskereskedővel, vagy a részvénytársaság által a 10. § (1) bekezdése alapján feljogosított személlyel szemben 30 ezer forinttól 10 millió forintig terjedhet, ha a dohánytermék-kiskereskedő (feljogosított személy)
 
-- a) az engedélyben foglaltaktól eltér vagy a dohánytermékek kiskereskedelmére vonatkozó jogszabályi rendelkezéseket megsérti,
+- a) az engedélyben foglaltaktól eltér vagy a dohánytermékek kiskereskedelmére, továbbá a 3. § 8. pont m) alpontjában felsorolt termékek, a cigarettahüvely, a cigarettapapír vagy a dohánylevél-töltő üzletszerű értékesítésére vonatkozó jogszabályi rendelkezéseket megsérti,
 - b) az állammal szembeni kötelezettségét nem teljesíti,
 - c) a számára előírt nyilvántartási, könyvvezetési előírásoknak nem tesz eleget vagy hamis adatot tüntet fel.
 
-(3) Ha valaki az e törvényben foglaltak ellenére dohánytermék-kiskereskedelmi jogosultság, vagy engedély nélkül folytat dohányáru üzletszerű értékesítésére vonatkozó tevékenységet, úgy őt a vámhatóság 5 milliótól 500 millió forintig terjedő bírsággal sújthatja.
+(3) Ha valaki az e törvényben foglaltak ellenére dohánytermék-kiskereskedelmi jogosultság vagy engedély nélkül folytat dohánytermék, a 3. § 8. pont m) alpontjában felsorolt termékek, cigarettahüvely, cigarettapapír vagy dohánylevél-töltő üzletszerű értékesítésére vonatkozó tevékenységet, akkor őt a vámhatóság 5 millió forinttól 500 millió forintig terjedő bírsággal sújthatja.
 
 (4) A bírság együttesen, illetve a 23. § rendelkezései szerint hozott intézkedés mellett is kiszabható.
 
@@ -449,12 +473,18 @@ fogadhatja el.
 
 (4) A Módtv.-vel megállapított 11. § (2) bekezdés b) pontjában foglaltakat a Módtv. hatálybalépését követően indult pályázati eljárások alapján megkötött koncessziós szerződések esetén kell alkalmazni.
 
+(5) A dohányzás visszaszorításával összefüggő egyes törvények módosításáról szóló 2016. évi CXXXV. törvénnyel (a továbbiakban: Módtv.2.) megállapított 24/F. §-ban foglaltakat a Módtv.2. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
+
+(6) A Módtv.2.-vel megállapított 15. § (3) bekezdésében foglaltakat 2017. január 31. napjáig azon dohánytermék-kiskereskedelmet folytató is alkalmazhatja, akinek a dohánytermék-kiskereskedelmi jogosultsága a Módtv.2. hatálybalépését megelőzően szűnt meg, és ezt követően árukészlete maradt fent.
+
 #### 24/B. §
 
 24/C. § Felhatalmazást kap a Kormány, hogy
 
 - a) az e törvényben nem szabályozott, a dohánytermék-kiskereskedelmi tevékenység biztonságos, szakszerű lebonyolításához szükséges személyi, tárgyi és gazdasági feltételeket, valamint az engedélyezési eljárásra vonatkozó további szabályokat,
-- b) a dohánytermék-kiskereskedők által a nyilvántartások vezetésére és a dohányboltban forgalmazott egyes jövedéki termékekre vonatkozó adatszolgáltatási kötelezettség teljesítésére irányadó részletes szabályokat
+- b) a dohánytermék-kiskereskedők által a nyilvántartások vezetésére és a dohányboltban forgalmazott egyes jövedéki termékekre vonatkozó adatszolgáltatási kötelezettség teljesítésére irányadó részletes szabályokat,
+- c) a módosított hatású termékek forgalmazására, illetve e termékek ismertetésére vonatkozó különös szabályokat,
+- d) a dohánygyártmányok árának bejelentésére és az állami adó- és vámhatóság honlapján történő közzétételére, valamint az ezekkel összefüggő eljárási szabályokra vonatkozó részletes rendelkezéseket
 
 rendeletben állapítsa meg.
 
@@ -466,6 +496,10 @@ rendeletben állapítsa meg.
 - b) legalább két országos napilapban és a honlapján a dohánytermék-kiskereskedővel kötendő szerződéses feltételeit közzétette
 
 a dohánytermék-kiskereskedő a dohányterméket a 2015. október 31-én hatályos jogszabályi rendelkezések alapján szerezheti be, ideértve – különösen – a legkisebb kiskereskedelmi árrésre vonatkozó szabályok alkalmazását is.
+
+24/F. § (1) A dohánytermék-kiskereskedelmi tevékenység folytatására megkötött koncessziós szerződésben meghatározott, a szerződést biztosító átalány-kártalanításra hivatkozással igényt érvényesíteni a szerződésszegésről való tudomásszerzést követő 6 hónapon belül, de legkésőbb a szerződésszegés bekövetkezésétől számított egy éves határidőn belül lehet.
+
+(2) Az (1) bekezdés szerinti határidő számításának kezdő időpontja kétség esetén az érintett koncessziós szerződés létrejöttének napja.
 
 ### VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

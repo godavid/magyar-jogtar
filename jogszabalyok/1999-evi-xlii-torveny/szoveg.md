@@ -27,7 +27,13 @@ Az Országgyűlés– tekintettel a magyar lakosság kedvezőtlen népegészség
   - ob) más esetben: ha a kiskereskedelmi egység létesítő okirat szerinti székhelye, központi ügyintézésének helye vagy telephelye – beleértve a fióktelepet, az ügynökséget vagy bármely más létesítményt – az adott tagállamban található;
 - p) elektronikus cigaretta: olyan egyszer használatos, vagy utántöltő flakonnal és tartállyal vagy egyszer használatos patronokkal utántölthető elektronikus termék, amely szopókán keresztül nikotintartalmú pára fogyasztását teszi lehetővé, vagy annak bármely alkatrésze, beleértve a patronokat, a tartályokat és a patron vagy tartály nélküli készüléket is;
 - q) utántöltő flakon: az elektronikus cigaretta utántöltésére szolgáló, nikotintartalmú folyadékot tartalmazó tartály;
-- r) dohányzást imitáló elektronikus eszköz: olyan egyszer használatos elektronikus termék, amely szopókán keresztül nikotinmentes pára fogyasztását teszi lehetővé.
+- r) dohányzást imitáló elektronikus eszköz: olyan egyszer használatos elektronikus termék, amely szopókán keresztül nikotinmentes pára fogyasztását teszi lehetővé;
+- s) füst nélküli dohánytermék: olyan dohánytermék, amelynek a felhasználása nem jár égési folyamattal, beleértve a rágódohányt, a tüsszentésre szolgáló dohányterméket és a szájon át fogyasztott dohányterméket;
+- t) új dohánytermék-kategóriák: olyan dohánytermék,
+  - ta) amely nem tartozik a következő kategóriák egyikébe sem: cigaretta, cigarettadohány, pipadohány, vízipipadohány, szivar, szivarka, rágódohány, tüsszentésre szolgáló dohánytermék vagy szájon át fogyasztott dohánytermék, és
+  - tb) amelyet 2014. május 19-e után hoznak forgalomba;
+- u) új dohánytermék-kategóriák kiegészítő terméke: olyan áru, amely az új dohánytermék-kategóriák fogyasztását közvetlen módon elősegíti, így különösen a fogyasztáshoz szükséges kiegészítő eszköz, továbbá az új dohánytermék-kategóriák használatához, tárolásához, karbantartásához, működtetéséhez kapcsolódó termékek (tartozék, alkatrész);
+- v) módosított hatású termék: olyan, az új dohánytermék-kategóriákba tartozó, fogyasztható nikotin tartalmú termék, amelyet ilyen termékként nyilvántartásba vettek, továbbá a 2014. május 19-e után az Európai Unió területén jogszerűen forgalomba hozott elektronikus cigaretta.
 
 ### A dohánytermékek fogyasztásának alapvető szabályai
 
@@ -246,6 +252,26 @@ hozható meg.
 
 7/I. § Ezen alcím rendelkezéseit a dohányzást imitáló elektronikus eszközre is alkalmazni kell.
 
+### Az új dohánytermék-kategóriákra vonatkozó szabályok
+
+7/J. § (1) Az új dohánytermék-kategóriákra az elektronikus cigarettákra vonatkozó, a 7/D–7/H. §-ban megállapított rendelkezéseket az ezen alcímben foglaltak szerint kell alkalmazni.
+
+(2) Az új dohánytermék-kategóriák előzetes bejelentést követően hozhatók kereskedelmi forgalomba. A bejelentés és az első forgalomba hozatal között legalább három hónapnak kell eltelnie.
+
+(3) Jogszabály az új dohánytermék-kategóriák forgalmazására és ismertetésére különös szabályokat állapíthat meg.
+
+7/K. § (1) Az egészségügyi államigazgatási szerv az új dohánytermék-kategóriák gyártójának vagy forgalomba hozójának kérelmére folytatja le a Magyarországon forgalomba hozni kívánt termék módosított hatású terméknek történő minősítésére irányuló eljárást.
+
+(2) Az egészségügyi államigazgatási szerv a módosított hatású terméknek minősített terméket – a (3) bekezdésben foglaltakra figyelemmel – nyilvántartásba veszi.
+
+(3) Az egészségügyi államigazgatási szerv az eljárás során megkeresi az egészségügyért felelős miniszter által létrehozott szakmai bizottságot (a továbbiakban: Bizottság).
+
+(4) A Bizottságra a szakértőkre vonatkozó szabályokat kell alkalmazni.
+
+7/L. § (1) A Bizottság a Kormány rendeletében meghatározott tudományos és egészségügyi szempontok alapján vizsgálja, hogy a kérelmező által bemutatott új dohánytermék-kategóriákba tartozó dohánytermék a cigarettához képest a legtöbb tulajdonságát tekintve jelentősen eltérő hatású-e az emberi egészségre.
+
+(2) A Bizottság a véleményét a megkeresésétől számított 90 napon belül hozza meg, mely határidő egy alkalommal 90 nappal meghosszabbítható.
+
 ### Záró rendelkezések
 
 8. § (1) Ez a törvény a kihirdetését követő hetedik hónap első napján lép hatályba azzal, hogy a hatálybalépésének napján – érvényes működési engedély alapján – működő vagy folyamatban lévő működési engedélyezési eljárás alapján a működésüket a törvény hatálybalépését követően megkezdő szórakoztató, vendéglátóipari szolgáltatást nyújtó közforgalmú intézmények tekintetében a dohányzási korlátozást, illetőleg a dohányzóhely kijelölésére vonatkozó kötelezettséget 2001. január 1-jétől kell alkalmazni.
@@ -267,6 +293,8 @@ rendeletben határozza meg.
 
 (4c) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az elektronikus cigaretta, az utántöltő flakon és a dohányzást imitáló elektronikus eszköz forgalomba hozatalának és az ezzel kapcsolatos változások bejelentésére vonatkozó igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat rendeletben határozza meg.
 
+(4d) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a módosított hatású terméknek történő minősítésre irányuló eljárás igazgatási szolgáltatási díját, valamint a Bizottság véleményére vonatkozó díj mértékét, továbbá a díjak beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat rendeletben határozza meg.
+
 (5) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
 - a) a kombinált figyelmeztetéseket, egészségvédő figyelmeztetéseket, valamint azok alkalmazásának részletes szabályait, a dohánytermékek fogyasztói csomagolási egységeire és az elektronikus cigaretta, az utántöltő flakon és a dohányzást imitáló elektronikus eszköz csomagolási egységeire vonatkozó részletes szabályokat, a dohányzási korlátozásra, valamint a dohányzóhelyek és elektronikus cigaretta, valamint dohányzást imitáló elektronikus eszköz használatának kijelölésére vonatkozó feliratok és jelzések tartalmát, formáját, továbbá a dohánytermékek, valamint az elektronikus cigaretta,utántöltő flakon és dohányzást imitáló elektronikus eszköz előállításának, forgalmazásának és ellenőrzésének a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló törvény szabályozási körébe nem tartozó egyéb feltételeit,
@@ -277,7 +305,9 @@ rendeletben határozza meg.
 - f) a dohánytermékekben megtalálható adalékanyagok jelentéstételi kötelezettségére vonatkozó részletes szabályokat,
 - g) a dohánytermékek csomagolására és címkézésére vonatkozó részletes szabályokat,
 - h) az új dohánytermékek forgalomba hozatalának szabályait,
-- i) a dohányzási célú gyógynövénytermékekre vonatkozó részletes szabályokat.
+- i) a dohányzási célú gyógynövénytermékekre vonatkozó részletes szabályokat,
+- j) az új dohánytermék-kategóriák forgalmazásának és ismertetésének különös szabályait,
+- k) a módosított hatású terméknek történő minősítésre irányuló eljárásban vizsgálandó tudományos és egészségügyi szempontokat, az eljárás részletes szabályai, valamint a Bizottság összetételére és működésére vonatkozó különös szabályokat.
 
 (6) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 

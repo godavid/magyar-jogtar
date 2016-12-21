@@ -4,7 +4,7 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 ### A törvény hatálya
 
-1. § A törvény hatálya az üvegházhatású gázok kibocsátásának csökkentésével, nyelőkkel való eltávolításával, valamint az éghajlatváltozás elkerülhetetlen hatásaihoz való alkalmazkodással összefüggő tevékenységekre terjed ki.
+1. § A törvény hatálya az üvegházhatású gázok kibocsátásának csökkentésével, nyelőkkel való eltávolításával, valamint az alkalmazkodással összefüggő tevékenységekre terjed ki.
 
 ### Alapfogalmak
 
@@ -32,20 +32,21 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 - 20. akkreditált független hitelesítő: a Kiotói Jegyzőkönyvben részes felek találkozójául szolgáló Felek Konferenciája első ülésszakán elfogadott, a Kiotói Jegyzőkönyv 6. cikkének végrehajtásáról szóló 9/CMP.1 határozatban (a továbbiakban: együttes végrehajtás határozat) felállított, az Együttes Végrehajtás Felügyeleti Bizottság által az együttes végrehajtás határozat rendelkezéseinek megfelelően akkreditált független hitelesítő;
 - 21. más EGT-államban feljogosított hitelesítő: az együttes végrehajtásban résztvevő, az Európai Gazdasági Térségről szóló megállapodásban részes állam (a továbbiakban: EGT-állam) területén az együttes végrehajtással kapcsolatos hitelesítői tevékenység végzésére az adott EGT-állam által feljogosított független hitelesítő;
 - 22. kibocsátási jogosultság: a kiotói egység, valamint az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló törvény szerinti ÜHG-egység és ESD-egység;
-- 23.
+- 23. alkalmazkodás: olyan átfogó intézkedések összessége, amelynek célja az éghajlatváltozás káros hatásainak megelőzése, csökkentése, terjedésének korlátozása, a környezeti egyensúly helyreállítása, valamint az éghajlatváltozásból eredő előnyös hatások kiaknázása;
+- 24. kitettség: olyan állapotleírás, amely azt mutatja meg, hogy a vizsgált földrajzi területre a földrajzi adottságaiból eredően milyen mértékben gyakorol hatást az egyes éghajlati tényezők változása, valamint a veszélyforrások.
 
 2/A. § Az e törvényben nem meghatározott, a fluortartalmú üvegházhatású gázokra vonatkozó fogalmak esetében az 517/2014/EU európai parlamenti és tanácsi rendelet 2. cikkében és a rendelet végrehajtására kiadott uniós jogi normákban meghatározottak az irányadóak.
 
 ### A Nemzeti Éghajlatváltozási Stratégia
 
-3. § (1) Az Országgyűlés az éghajlatváltozással kapcsolatos célok, eszközök, prioritások, így különösen az éghajlatváltozással, az azt kiváltó folyamatokkal és a hatásokkal kapcsolatos hazai kutatásokkal, az üvegházhatású gázok hazai kibocsátásainak csökkentésével és az éghajlatváltozás hazai hatásaihoz való alkalmazkodással, valamint a hazai hatásokra való felkészüléssel kapcsolatos feladatok, és ezen célok végrehajtásához szükséges eszközök meghatározása érdekében Nemzeti Éghajlatváltozási Stratégiát (a továbbiakban: Éghajlatváltozási Stratégia) fogad el.
+3. § (1) Az Országgyűlés az éghajlatváltozással kapcsolatos célok, eszközök, prioritások, így különösen az éghajlatváltozással, az azt kiváltó folyamatokkal és a hatásokkal kapcsolatos hazai kutatásokkal, az üvegházhatású gázok hazai kibocsátásainak csökkentésével és az alkalmazkodással, valamint a hazai hatásokra való felkészüléssel kapcsolatos feladatok, és ezen célok végrehajtásához szükséges eszközök meghatározása érdekében Nemzeti Éghajlatváltozási Stratégiát (a továbbiakban: Éghajlatváltozási Stratégia) fogad el.
 
 (2) Az Éghajlatváltozási Stratégiát első alkalommal a 2008–2025-ig tartó időszakra kell kidolgozni a nemzetközi kötelezettségvállalásoknak megfelelően. A Kormány az Éghajlatváltozási Stratégiát a Keretegyezményből fakadó 2018. évi döntésekre tekintettel 2019-ben, majd a nemzetközi döntésekben meghatározott ütemezés szerint, de legkésőbb ötévente felülvizsgálja. A felülvizsgálat előkészítéséről az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) gondoskodik. A felülvizsgált Éghajlatváltozási Stratégiát az Országgyűlés fogadja el. Az Éghajlatváltozási Stratégia különösen az alábbiakat tartalmazza:
 
 - a) az éghajlatváltozás várható magyarországi hatásainak, természeti és társadalmi-gazdasági következményeinek, valamint az ökoszisztémák és az ágazatok éghajlati sérülékenységének értékelését;
 - b) az üvegházhatású gázok kibocsátáscsökkentésének céljait, prioritásait és cselekvési irányait tartalmazó hazai dekarbonizációs útitervet az alacsony karbontartalmú, versenyképes gazdaságra történő, 2050-ig tartó átmenetről, figyelembe véve az Európai Bizottság hasonló időtávú stratégiai dokumentumait;
-- c) egy nemzeti alkalmazkodás stratégiai keretrendszert, különös tekintettel az éghajlatváltozással és a klímabiztonsággal összefüggő kockázatok megelőzésére és károk mérséklésére; a stratégiai keretrendszer támogatásául a nemzeti alkalmazkodási térinformatikai rendszer és az arra épülő területi és ágazati éghajlati sérülékenységvizsgálatok eredményei szolgálnak;
-- d) az éghajlatváltozás megelőzését, valamint az éghajlatváltozásra való felkészülést és alkalmazkodást szolgáló szemléletformálási tevékenységek célrendszerét.
+- c) a nemzeti alkalmazkodás stratégiai keretrendszerét, különös tekintettel az éghajlatváltozással és a klímabiztonsággal összefüggő kockázatok megelőzésére és károk mérséklésére, valamint a kitettségre; a stratégiai keretrendszer támogatásául a nemzeti alkalmazkodási térinformatikai rendszer és az arra épülő területi és ágazati éghajlati sérülékenység vizsgálatok eredményei szolgálnak;
+- d) az éghajlatváltozás megelőzését, valamint az éghajlatváltozásra való felkészülést és az alkalmazkodást szolgáló szemléletformálási tevékenységek célrendszerét.
 
 (3) A miniszter az Éghajlatváltozási Stratégia elfogadását követően annak végrehajtásáról szükség szerint, de legalább háromévente beszámol a Kormánynak, valamint az Országgyűlés hatáskörrel rendelkező szakbizottságának.
 
@@ -118,7 +119,7 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 (2) A nemzetközi és európai kibocsátás-kereskedelem keretében az államháztartásért felelős miniszter az állam nevében kibocsátási jogosultságokat értékesíthet és vehet e törvény céljának hatékonyabb elérése céljából. Az értékesítés a Vtv. és az értékesítés részletszabályait meghatározó jogszabály rendelkezéseinek megfelelően, árverésen, versenyeztetés mellőzésével vagy közvetetten végezhető.
 
-(3) A kiotói egységek átruházásából származó bevételt az üvegházhatású gázok hazai kibocsátásának csökkentését célzó tevékenységek, intézkedések támogatására, nyelők általi eltávolításának növelésére, az éghajlatváltozás hatásaihoz való alkalmazkodásra kell fordítani külön jogszabály rendelkezéseinek megfelelően.
+(3) A kiotói egységek átruházásából származó bevételt az üvegházhatású gázok hazai kibocsátásának csökkentését célzó tevékenységek, intézkedések támogatására, nyelők általi eltávolításának növelésére, az alkalmazkodásra kell fordítani külön jogszabály rendelkezéseinek megfelelően.
 
 (4) A (3) bekezdés szerinti kiotói egységek átruházásából 2015. január 1-jét követően keletkezett bevétel
 
@@ -129,7 +130,7 @@ az Éghajlatváltozási Stratégiával összhangban gondoskodik.
 
 (4a)
 
-(5) A bevételek felhasználásáról a Kormány évente beszámol az Országgyűlésnek.
+(5) A bevételek felhasználásáról a Kormány a bevétel keletkezését követő évben beszámol az Országgyűlésnek.
 
 A fluortartalmú üvegházhatású gázokra vonatkozó általános szabályok
 
@@ -143,9 +144,14 @@ A fluortartalmú üvegházhatású gázokra vonatkozó általános szabályok
 
 A fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységek és az ahhoz kapcsolódó kötelezettségek
 
-10/B. § (1) Vállalkozások – ideértve az egyéni vállalkozót is – csak a klímavédelemért felelős hatóság által kiadott képesítési igazolás birtokában jogosultak bármilyen, az 517/2014/EU európai parlamenti és tanácsi rendeletben meghatározott fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységet végezni. A képesítési igazolás a vállalkozásnak a klímavédelemért felelős hatóság által vezetett adatbázisban történő regisztrációját és a vállalkozó által a klímavédelemért felelős hatósághoz benyújtott megfelelési nyilatkozat elfogadását követően kerül kiállításra.
+10/B. § (1) Vállalkozások – ideértve az egyéni vállalkozót is – az (1a) bekezdésben foglalt kivétellel csak a klímavédelemért felelős hatóság által kiadott képesítési igazolás birtokában jogosultak bármilyen, az 517/2014/EU európai parlamenti és tanácsi rendeletben meghatározott fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységet végezni. A képesítési igazolás a vállalkozásnak a klímavédelemért felelős hatóság által vezetett adatbázisban történő regisztrációját és a vállalkozó által a klímavédelemért felelős hatósághoz benyújtott megfelelési nyilatkozat elfogadását követően kerül kiállításra.
 
-(2) Természetes személy kizárólag az 517/2014/EU európai parlamenti és tanácsi rendelet 10. cikk (4) és (7) bekezdése szerinti képesítéssel, a képesítésének megfelelő kategóriájú képesített vállalkozás alkalmazottjaként végezheti a fluortartalmú üvegházhatású gázokkal és az ózonréteget lebontó anyagokkal kapcsolatos tevékenységek végzésének feltételeiről szóló kormányrendeletben meghatározottak szerint F-ÜHG-t tartalmazó és azzal üzemelő, a HR szektor berendezéseinek és az MR szektor hűtőegységeinek telepítését, beüzemelését, szervizelését, karbantartását, javítását vagy használaton kívül helyezését, szivárgásvizsgálatát, valamint F-ÜHG visszanyerését a HR szektor berendezései tekintetében, az MR szektor hűtőegységei tekintetében, valamint bármilyen, F-ÜHG környezetbe jutását okozó egyéb tevékenységet az F-ÜHG közeg kezelése, tisztítása, átfejtése, regenerálása, ártalmatlanítása esetén.
+(1a) Vállalkozások – ideértve az egyéni vállalkozókat is – csak a klímavédelemért felelős hatóság által kiadott jogerős engedély birtokában, a jogerős engedély keretei között jogosultak a fluortartalmú üvegházhatású gázok 517/2014/EU európai parlamenti és tanácsi rendeletben nem szabályozott felhasználása céljából, különösen kutatási, fejlesztési, gyógyászati célból fluortartalmú üvegházhatású gázzal kapcsolatos tevékenységet – felügyeleti díjfizetési kötelezettség nélkül – végezni, kötelesek továbbá
+
+- a) a klímavédelemért felelős hatóság által üzemeltetett adatbázisban regisztrálni; valamint
+- b) az adatszolgáltatási és jelentéstételi kötelezettségének eleget tenni – a 10/G. §-ban és az e törvény végrehajtására kiadott kormányrendeletben meghatározott adattartalommal és módon.
+
+(2) Természetes személy kizárólag az 517/2014/EU európai parlamenti és tanácsi rendelet 10. cikk (4) és (7) bekezdése szerinti képesítéssel, a képesítésének megfelelő kategóriájú képesített vállalkozás alkalmazottjaként végezheti a fluortartalmú üvegházhatású gázokkal és az ózonréteget lebontó anyagokkal kapcsolatos tevékenységek végzésének feltételeiről szóló kormányrendeletben meghatározottak szerint F-ÜHG-t tartalmazó és azzal üzemelő, a HR szektor berendezéseinek és az MR szektor hűtőegységeinek telepítését, beüzemelését, szervizelését, karbantartását, javítását vagy használaton kívül helyezését, szivárgásvizsgálatát, valamint F-ÜHG visszanyerését a HR szektor berendezései tekintetében, az MR szektor hűtőegységei tekintetében.
 
 (3) A fluortartalmú üvegházhatású gázokkal összefüggő tevékenységet végzőkkel kapcsolatos képzési, képesítési és vizsgáztatási feladatok ellátásáról a klímavédelemért felelős hatóság gondoskodik. A hatósági képzésért, a képzést lezáró vizsgáért és a képesítést igazoló okirat kiállításáért képzési és vizsgáztatási díjat kell fizetni. A képzési és vizsgáztatási díjat a klímavédelemért felelős hatóság a képzési, képesítési és vizsgáztatási tevékenységével összefüggő feladatainak ellátására fordítja.
 
@@ -153,13 +159,13 @@ A fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységek és az 
 
 10/C. § (1) A fluortartalmú üvegházhatású gázokat tartalmazó vagy azzal működtetett termékeknek, berendezéseknek és létesítményeknek az e törvény végrehajtására kiadott kormányrendeletben meghatározott tulajdonosai, üzemeltetői, valamint az e gázokkal tevékenységet folytató vállalkozások az 517/2014/EU európai parlamenti és tanácsi rendelet, az e törvény, valamint e törvény végrehajtására kiadott kormányrendelet szerinti nyilvántartásokat vezetik.
 
-(2) Minden olyan vállalkozás, amely fluortartalmú üvegházhatású gázokkal kapcsolatos, az 517/2014/EU európai parlamenti és tanácsi rendelet szerinti tevékenységet végez, köteles
+(2) Minden olyan vállalkozás, amely fluortartalmú üvegházhatású gázokkal kapcsolatos, az 517/2014/EU európai parlamenti és tanácsi rendelet hatálya alá tartozó gázt tartalmazó hűtőkört, terméket, berendezést gyárt, az 517/2014/EU európai parlamenti és tanácsi rendelet hatálya alá tartozó gázt gyárt, ártalmatlanít, regenerál, valamint az 517/2014/EU európai parlamenti és tanácsi rendelet szerinti egyéb tevékenységet végez, köteles
 
 - a) a klímavédelemért felelős hatóság által üzemeltetett adatbázisban regisztrálni,
-- b) – a 10/G. §-ban és az e törvény végrehajtására kiadott kormányrendeletben meghatározott adattartalommal és módon – adatszolgáltatási és jelentéstételi kötelezettségének eleget tenni és
+- b) adatszolgáltatási és jelentéstételi kötelezettségének eleget tenni – a 10/G. §-ban és az e törvény végrehajtására kiadott kormányrendeletben meghatározott adattartalommal és módon –, valamint
 - c) éves klímavédelmi felügyeleti díjat fizetni.
 
-(3) A fluortartalmú üvegházhatású gázokkal és az ózonréteget lebontó anyagokkal kapcsolatos tevékenységek végzésének feltételeiről szóló kormányrendeletben meghatározott HR szektorban az 517/2014/EU európai parlamenti és tanácsi rendelet 4. cikk (1) és (2) bekezdése szerint szivárgásvizsgálatra kötelezett alkalmazások üzemeltetői és tulajdonosai kötelesek
+(3) A fluortartalmú üvegházhatású gázokkal és az ózonréteget lebontó anyagokkal kapcsolatos tevékenységek végzésének feltételeiről szóló kormányrendeletben meghatározott HR szektorban és MR szektorban az 517/2014/EU európai parlamenti és tanácsi rendelet 4. cikk (1) és (2) bekezdése szerint szivárgásvizsgálatra kötelezett alkalmazások, valamint üvegházhatású gázokkal töltött elektromos kapcsolóberendezések üzemeltetői és tulajdonosai kötelesek
 
 - a) a klímavédelemért felelős hatóság által üzemeltetett adatbázisban regisztrálni és
 - b) éves klímavédelmi felügyeleti díjat fizetni.
@@ -184,9 +190,11 @@ A fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységek és az 
 
 (8)
 
-(9) A felügyeleti díj határidőben történő megfizetésének elmulasztása esetén, a klímavédelemért felelős hatóság a határidő lejártát követő 15 napon belül fizetési kötelezettség teljesítésének elmulasztását megállapító és a felügyeleti díj megfizetésére kötelező határozatot hoz. A felügyeleti díjat esedékességétől a jegybanki alapkamat kétszeresének megfelelő mértékű késedelmi pótlék terheli. A jogerős határozatban megállapított teljesítési határidő eredménytelen elteltét követően a klímavédelemért felelős hatóság a felügyeleti díj behajtása érdekében soron kívül megkeresi az illetékes adóhatóságot. A felügyeleti díj és a késedelmi pótlék megfizetéséig a klímavédelemért felelős hatóság az adatbázison keresztül korlátozza a vállalkozás tevékenységét oly módon, hogy a vállalkozás az 517/2014/EU európai parlamenti és tanácsi rendelet szerint képesített személy által végezhető tevékenység tekintetében új megbízást nem fogadhat el. A klímavédelemért felelős hatóság a fizetési kötelezettség teljesítését követően haladéktalanul, de legkésőbb 8 napon belül intézkedik a korlátozás adatbázison keresztül történő megszüntetése iránt.
+(9) A felügyeleti díj határidőben történő megfizetésének elmulasztása esetén, a klímavédelemért felelős hatóság a határidő lejártát követő 15 napon belül fizetési kötelezettség teljesítésének elmulasztását megállapító és a felügyeleti díj megfizetésére kötelező határozatot hoz. A jogerős határozatban megállapított teljesítési határidő eredménytelen elteltét követően a klímavédelemért felelős hatóság a felügyeleti díj behajtása érdekében soron kívül megkeresi az illetékes adóhatóságot. A felügyeleti díj és a késedelmi pótlék megfizetéséig a klímavédelemért felelős hatóság az adatbázison keresztül korlátozza a vállalkozás tevékenységét oly módon, hogy a vállalkozás az 517/2014/EU európai parlamenti és tanácsi rendelet szerint képesített személy által végezhető tevékenység tekintetében új megbízást nem fogadhat el. A klímavédelemért felelős hatóság a fizetési kötelezettség teljesítését követően haladéktalanul, de legkésőbb 8 napon belül intézkedik a korlátozás adatbázison keresztül történő megszüntetése iránt.
 
-(10) A meg nem fizetett felügyeleti díj, és az emiatt jogerősen kiszabott és meg nem fizetett késedelmi pótlék adók módjára behajtandó köztartozásnak minősül.
+(10) A meg nem fizetett felügyeleti díj adók módjára behajtandó köztartozásnak minősül.
+
+(11) Felügyeleti díj, valamint klímavédelmi bírság megfizetésének elmulasztása esetén késedelmi pótlék felszámításának nincs helye.
 
 10/D. § (1) A gyártók és importőrök fluortartalmú üvegházhatású gázokat csak az 517/2014/EU európai parlamenti és tanácsi rendeletben foglaltak szerint hozhatnak forgalomba Magyarország területén.
 
@@ -215,6 +223,41 @@ A fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységek és az 
 - a) a fluortartalmú üvegházhatású gázokkal végzett tevékenységekre vonatkozó jogok és kötelezettségek teljesülésének ellenőrzése,
 - b) regisztrációs, nyilvántartási, képesítési, valamint adatszolgáltatási és tájékoztatási kötelezettségek teljesítése,
 - c) a fluortartalmú üvegházhatású gázokkal végzett tevékenységgel kapcsolatos fizetési kötelezettségek megállapítása, ellenőrzése.
+
+(1a) Bizonyítási eszközök – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvényben meghatározottakon túl – különösen a próbavásárlás, a fel nem fedett próbavásárlás, a helyszíni leltározás, valamint a fluortartalmú üvegházhatású gázokkal tevékenységet végző más ügyfélnél elrendelt ellenőrzés (a továbbiakban: kapcsolódó vizsgálat) megállapításai.
+
+(1b) A klímavédelemért felelős hatóság ellenőrzésre jogosult alkalmazottja (a továbbiakban: ellenőr) az ellenőrzés során
+
+- a) átvizsgálhatja az ellenőrzés alá vont ügyfél által fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenység végzéséhez használt járművet, jármű rakományát, a tevékenység végzésének helyszínét,
+- b) felhívhatja a fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységben résztvevőket személyazonosságuk igazolására,
+- c) próbavásárlást, fel nem fedett próbavásárlást, leltárfelvételt végezhet,
+- d) kapcsolódó vizsgálatot végezhet az ellenőrzés alá vont ügyféllel kapcsolatban álló más fluortartalmú üvegházhatású gázokkal tevékenységet folytatónál, valamint
+- e) mintavételre jogosult.
+
+(1c) Próbavásárlás esetén az ellenőrzési jogosultságot a próbavásárlás befejezésekor kell igazolni. Ezzel egyidejűleg az eladó a vételárat köteles visszatéríteni, ennek megtörténte után a klímavédelemért felelős hatóság a terméket visszaszolgáltatja. Ha az eladó a termék visszavételét és a vételár visszafizetését megtagadja, a vételár eljárási költségnek minősül, amelyet az eladó visel. A terméket a klímavédelemért felelős hatóság a végrehajtás szabályai szerint értékesíti, ennek meghiúsulása esetén megsemmisíti.
+
+(1d) Ha a próbavásárlással lefolytatott hatósági ellenőrzés során a termék károsodik, részben vagy egészben megsemmisül, a vételár eljárási költségnek minősül, amelyet az eljáró klímavédelemért felelős hatóság visel, és a terméket a forgalmazónak nem kell visszavennie.
+
+(1e) Ha a próbavásárlásra elektronikus kereskedelmi szolgáltatást nyújtó vagy egyéb, megrendelésen alapuló termékértékesítést végző fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységet folytatónál kerül sor, és a kiszállított termékhez az értékesítéshez kapcsolódó bizonylatot nem mellékelték, az ellenőr jogosult annak csomagolását megbontani és meggyőződni arról, hogy a bizonylatot az eladó a csomagoláson belül elhelyezte-e.
+
+(1f) Szolgáltatás próbavásárlása esetén a szolgáltatás díja egyéb eljárási költségnek minősül.
+
+(1g) A próbavásárláshoz a klímavédelemért felelős hatóság közreműködő személyt vehet igénybe. A klímavédelemért felelős hatóság a közreműködő személlyel megbízási szerződést köt, amely alapján a közreműködő személy megbízási díjra jogosult. A közreműködő személyre az ügyintézőre vonatkozó kizárási szabályokat kell alkalmazni. A közreműködő személy részére a közreműködést igénybe vevő klímavédelemért felelős hatóság megbízólevelet állít ki.
+
+(1h) A megbízólevél az erre utaló megnevezés mellett a következőket tartalmazza:
+
+- a) a közreműködő személy személyazonosító igazolványának vagy más személyazonosításra alkalmas igazolványának számát;
+- b) az ellenőrzésre vonatkozó jogszabályi vagy egyéb felhatalmazásra történő hivatkozást;
+- c) a megbízólevél érvényességi idejét;
+- d) a kiállítás keltét;
+- e) a kiállításra jogosult aláírását, bélyegzőlenyomatát, továbbá
+- f) azt a tényt, hogy a közreműködő személy mely ellenőrzés alá vont ügyfélnél, ügyfélcsoportnál milyen típusú ellenőrzésben vehet részt.
+
+(1i) A megbízólevél hatálya kiterjed a benne szereplő ellenőrzés alá vont ügyfél ellenőrzésével kapcsolatban a klímavédelemért felelős hatóság által elrendelt kapcsolódó vizsgálatban való részvételre is. A közreműködő személy a megbízólevél birtokában próbavásárlást, fel nem fedett próbavásárlást önállóan is végezhet, egyéb ellenőrzési tevékenységben kizárólag az ellenőr jelenlétében vehet részt.
+
+(1j) Fel nem fedett próbavásárlás esetén – ha az ellenőr jogsértést nem állapít meg – az ellenőrzési jogosultságot a próbavásárlás befejezésekor nem kell igazolni, azt a fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységet folytató részére kézbesített jegyzőkönyv tanúsítja. Egyebekben az e törvény próbavásárlásra vonatkozó rendelkezéseit – a fel nem fedett próbavásárlás sajátosságaira tekintettel – kell alkalmazni.
+
+(1k) Ha a klímavédelemért felelős hatóság az ellenőrzés alá vont ügyfél ellenőrzése során indokoltnak tartja, akkor a tényállás tisztázása érdekében kapcsolódó vizsgálatot rendel el. A kapcsolódó vizsgálattal egy tekintet alá esik az ügyfélnél vagy a vele kapcsolatban állt vagy álló ügyfélnél már folyamatban lévő ellenőrzés is, ha annak eredménye a tényállás tisztázásához szükséges.
 
 (2) Az (1) bekezdésben meghatározott célra az F-Gáz ügyfélazonosító alatt az adatbázisban nyilvántartható:
 
@@ -247,35 +290,58 @@ A fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységek és az 
   - cj) a fluortartalmú üvegházhatású gázt tartalmazó terméket, berendezést és létesítményt érintő telepítés, karbantartás, szivárgásvizsgálat címe, jármű esetén forgalmi rendszám és üzemben tartó megnevezése, az intézkedéssel érintett berendezés vagy létesítmény megnevezése, funkciója, típusszáma,
   - ck) minden egyéb olyan adat, amelynek jelentésére és nyilvántartására az F-Gáz ügyfélazonosítóval rendelkező vállalkozás az uniós jogi aktus rendelkezései folytán köteles.
 
+(2a) A klímavédelemért felelős hatóság által vezetett adatbázis az üvegházhatású gázokkal kapcsolatos jogosultságokra vonatkozó adatokat közhitelesen tartalmazza, ezen adatok tekintetében az adatbázis közhiteles hatósági nyilvántartásnak minősül.
+
+(2b) A nyilvántartásban szereplők az adataikban bekövetkezett változást kötelesek a klímavédelemért felelős hatóságnak a változást követő 8 munkanapon belül bejelenteni. A változásbejelentési kötelezettségeket a klímavédelemért felelős hatóság által az erre a célra rendszeresített nyomtatványon kell teljesíteni.
+
+(2c) A nyilvántartásban szereplők
+
+- a) személyazonosító és lakcímadatai tekintetében a személy- és lakcímnyilvántartásban szereplő adatok,
+- b) a 10/G. § (2) bekezdés b) pontja szerinti adatai tekintetében a cégnyilvántartás és az egyéni vállalkozók nyilvántartásában szereplő adatok az irányadók.
+
+(2d) A klímavédelemért felelős hatóság a lakcímre is kiterjedő adatfelhasználás esetén a nyilvántartásba bejegyzett lakcímadatot – az adatfelhasználást megelőzően – összeveti a személy- és lakcímnyilvántartásban szereplő adattal. Ha a nyilvántartásba bejegyzett lakcímadat nem egyezik meg a személy- és lakcímnyilvántartásban szereplő adattal, a klímavédelemért felelős hatóság a személy- és lakcímnyilvántartásban szereplő adatot használja fel, és az adatváltozást az adatbázisban hivatalból átvezeti.
+
+(2e) A klímavédelemért felelős hatóság a cégadatokra is kiterjedő adatfelhasználás esetén a nyilvántartásba bejegyzett cégadatot – az adatfelhasználást megelőzően – összeveti a cégnyilvántartásban – egyéni vállalkozó esetén az egyéni vállalkozók nyilvántartásában – szereplő adattal. Ha a nyilvántartásba bejegyzett cégadat nem egyezik meg a cégnyilvántartásban – egyéni vállalkozó esetén az egyéni vállalkozók nyilvántartásában – szereplő adattal, a klímavédelemért felelős hatóság a cégnyilvántartásban – egyéni vállalkozó esetén az egyéni vállalkozók nyilvántartásban – szereplő adatot használja fel, és az adatváltozást az adatbázisban hivatalból átvezeti.
+
 (3) A (2) bekezdés szerinti adatok statisztikai célra felhasználhatók és statisztikai célra – személyazonosításra alkalmatlan módon – átadhatók.
 
 (4) A klímavédelemért felelős hatóság az F-Gáz ügyfélazonosítóval rendelkező ügyfelek számára biztosítja az elektronikus kapcsolattartást és ügyintézést, amelynek részletes szabályait miniszteri rendelet állapítja meg.
 
 (5) Az adatbázisban tárolt, F-Gáz ügyfélazonosítóhoz tartozó személyes adatokat a tevékenység megszűnését vagy megszüntetését követő 5 év elteltével törölni kell.
 
+(5a) A klímavédelemért felelős hatóság hivatalból törli azokat az F-Gáz azonosítóhoz tartozó adatokat, amelyek a cégnyilvántartás – egyéni vállalkozó esetén az egyéni vállalkozók nyilvántartása – szerint jogutód nélkül megszűnt vállalkozáshoz vagy a személy- és lakcímnyilvántartást vezető hatóság nyilvántartása szerint elhunyt személyhez tartoztak.
+
 (6) Az energiapolitikáért felelős miniszter felügyelete alatt álló klímavédelemért felelős hatóság döntése ellen fellebbezésnek helye nincs.
 
 10/H. § (1) Aki tevékenységével vagy mulasztásával a fluortartalmú üvegházhatású gázokkal kapcsolatos jogszabály, az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa vagy a klímavédelemért felelős hatóság határozatában foglalt előírásait megsérti, az azokban foglalt kötelezettségeit nem vagy nem megfelelően teljesíti, vagy a tevékenységet nyilvántartásba vétel nélkül vagy attól eltérően végzi, azt a klímavédelemért felelős hatóság klímavédelmi bírság megfizetésére kötelezi.
 
-(2) A klímavédelmi bírság kiszabására irányuló eljárásban az ügyintézési határidő 21 nap.
-
-(3) A klímavédelmi bírság kiszabására a klímavédelemért felelős hatóságnak az (1) bekezdésben meghatározott cselekményről való tudomásszerzésétől számított 1 éven túl nincs lehetősége. A cselekmény elkövetésétől számított 5 éven túl nem szabható ki klímavédelmi bírság, kivéve ha a cselekmény jogszerűtlen állapot fenntartásával valósul meg. Ebben az esetben az elévülés mindaddig nyugszik, amíg a jogszerűtlen állapot fennáll. Ha jogerős másodfokú hatósági határozat vagy jogerős bírói ítélet az eljárt klímavédelemért felelős hatóságot új eljárás lefolytatására utasítja, az egyéves határidőt a másodfokú határozat vagy bírói ítélet jogerőre emelkedésétől kell számítani, de 5 éven túl ebben az esetben sincs helye klímavédelmi bírság kiszabásának.
+(2)–(3)
 
 (4) A klímavédelmi bírság összegét a klímavédelemért felelős hatóság az eset összes körülményeire – így különösen a jogsértés súlyára, időtartamára, a mulasztás körülményeire, a kötelezettségszegés időtartamára és ismétlődésére, a jogsértő magatartás konkrét veszélyességére vagy károsító hatására, a jogsértéssel szerzett előnyre, továbbá a termékekben és berendezésekben használt fluortartalmú üvegházhatású gázok mennyiségére és annak a klímavédelemmel összefüggésben kitűzött célok megvalósítására való veszélyességére – tekintettel határozza meg.
 
-(5) Ha a jogsértés a tevékenység vagy mulasztás súlyára, az elkövetés vagy kötelezettségszegés következményeire tekintettel annyira csekély, hogy bírság alkalmazása szükségtelen, a klímavédelemért felelős hatóság mérlegelési jogkörben eljárva dönthet a klímavédelmi bírság kiszabásának mellőzéséről, egyidejűleg figyelmeztetve az elkövetőt az ismételt jogsértés jogkövetkezményeire.
+(5) Ha a jogsértés a tevékenység vagy mulasztás súlyára, az elkövetés vagy kötelezettségszegés következményeire tekintettel annyira csekély, hogy bírság alkalmazása szükségtelen, a klímavédelemért felelős hatóság mérlegelési jogkörben eljárva dönthet a klímavédelmi bírság kiszabásának mellőzéséről, egyidejűleg figyelmeztetve a jogsértőt az ismételt jogsértés jogkövetkezményeire.
 
-(6) A klímavédelemért felelős hatóság – figyelemmel az eset összes körülményére – méltányosságból, ha a klímavédelmi bírság célja csökkentett összeggel is elérhető, az e törvény végrehajtására kiadott kormányrendeletben meghatározott bírság mértékének csökkentéséről is dönthet, egyidejűleg figyelmeztetve az elkövetőt az ismételt jogsértés jogkövetkezményeire.
+(6) A klímavédelemért felelős hatóság – figyelemmel az eset összes körülményére – méltányosságból, ha a klímavédelmi bírság célja csökkentett összeggel is elérhető, az e törvény végrehajtására kiadott kormányrendeletben meghatározott bírság mértékénél alacsonyabb összegű klímavédelmi bírság kiszabásáról is dönthet, egyidejűleg figyelmeztetve a jogsértőt az ismételt jogsértés jogkövetkezményeire.
 
 (7) Ismételt jogsértés esetén az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint kell a klímavédelmi bírság összegét megállapítani.
 
 10/I. § (1) A klímavédelmi bírság a központi költségvetés bevétele.
 
-(2) A klímavédelmi bírságot a határozat jogerőre emelkedésétől számított 15 napon belül kell megfizetni. A klímavédelmi bírság kiszabásáról szóló határozatban rendelkezni kell arról a számlaszámról is, amelyre a klímavédelmi bírságot meg kell fizetni.
+(2) A klímavédelmi bírságot a határozat jogerőre emelkedésétől számított 45 napon belül kell átutalás vagy postai befizetés útján megfizetni. A klímavédelmi bírság kiszabásáról szóló határozatban rendelkezni kell arról a számlaszámról is, amelyre a klímavédelmi bírságot meg kell fizetni.
+
+(2a) A klímavédelemért felelős hatóság a természetes személy részére a klímavédelmi bírság megfizetésére, a megfizetésre nyitva álló határidőben előterjesztett kérelemre, egy alkalommal legfeljebb hathavi fizetési halasztást adhat vagy engedélyezheti a klímavédelmi bírság legfeljebb hat hónapon keresztül, részletekben történő megfizetését. A kérelem benyújtására irányadó határidő jogvesztő, a határidő elmulasztása esetén igazolási kérelem benyújtásának nincs helye.
+
+(2b) A fizetési halasztás és részletfizetés a 10/H. § (4) bekezdésében foglalt szempontok figyelembevétele mellett abban az esetben engedélyezhető, ha
+
+- a) a fizetési nehézség a kérelmezőnek nem róható fel, vagy annak elkerülése érdekében úgy járt el, ahogy az az adott helyzetben tőle elvárható,
+- b) a fizetési nehézség átmeneti jellegű, tehát a bírság későbbi megfizetése valószínűsíthető, valamint
+- c) a kérelmezőn kívül álló ok lehetetlenné teszi a határidőre való teljesítést.
+
+(2c) A fizetési halasztás határidejének elmulasztása esetén a jogerősen kiszabott klímavédelmi bírságot, illetve meg nem fizetett részét az e törvényben foglaltak szerint kell végrehajtani. Részletfizetés engedélyezése esetén bármely részlet megfizetésének elmulasztásakor a jogerősen kiszabott klímavédelmi bírság teljes összege, illetve az abból még fennmaradó összeg egésze azonnal esedékes.
 
 (3) A jogerősen kiszabott klímavédelmi bírság adók módjára behajtandó köztartozás.
 
-(4) Amennyiben a jogsértő a klímavédelmi bírság kiszabását követő 30 napon belül nem tesz eleget a bírságot megállapító határozat rendelkezésének, ismételt bírság kiszabásának van helye.
+(4) Ha a jogsértő a klímavédelmi bírságot kiszabó határozat jogerőre emelkedését követő 45 napon belül nem tesz eleget a határozat rendelkezésének, ismételt bírság kiszabásának van helye.
 
 (5) A klímavédelmi bírság kiszabásával egyidejűleg a klímavédelemért felelős hatóság kezdeményezheti a hatáskörrel rendelkező engedélyező hatóságnál a jogszabálysértő tevékenysége folytatásának felülvizsgálatát.
 
@@ -374,7 +440,8 @@ A fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységek és az 
 - e) a fluortartalmú üvegházhatású gázokra vonatkozó adatbázis részét képező, 10/G. § szerinti nyilvántartás részére történő adatközlés formájának és módjának, tartalmának, kezelésének, üzemeltetésének és fenntartásának, felügyeletének, valamint az adatközlés és adatszolgáltatás rendjének részletes szabályait;
 - f) a fluortartalmú üvegházhatású gázokra vonatkozó adatbázis F-Gáz ügyfélazonosítóval rendelkező ügyfelek általi igénybevételének és használatának, az abban való regisztrációnak és nyilvántartásba vételnek a részletes szabályait;
 - g) az üvegházhatású gázokkal kapcsolatos tevékenységeket végző természetes személyek képzésére, képesítésére és vizsgáztatására, a vonatkozó tananyagra, szakmai és vizsgakövetelményekre, a szerzett tudás elismerésére, a vizsgáztatás és képesítés rendjére, a vállalkozások képesítési rendszerére, a képesítések nyilvántartására, az igazolás kiadására, az ahhoz fűződő formai és tartalmi követelmények meghatározásának rendjére vonatkozó részletes szabályokat;
-- h) a 10/B. § (3) bekezdése szerinti képzési, képesítési és vizsgáztatási díj mértékét és megfizetésének részletes szabályait.
+- h) a 10/B. § (3) bekezdése szerinti képzési, képesítési és vizsgáztatási díj mértékét és megfizetésének részletes szabályait;
+- i) a fluortartalmú üvegházhatású gázok 517/2014/EU európai parlamenti és tanácsi rendeletben nem szabályozott felhasználási céljából a fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységet végző vállalkozások részére az e tevékenység végzésére jogosító engedély kiadásának részletes szabályait.
 
 (7) Felhatalmazást kap a miniszter, hogy az együttes végrehajtási hitelesítői névjegyzékbe és a külföldi együttes végrehajtási hitelesítői névjegyzékbe történő bejegyzésért, továbbá a hitelesítői jogosultság felfüggesztésének megszüntetéséért fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének részletes szabályait az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
 
