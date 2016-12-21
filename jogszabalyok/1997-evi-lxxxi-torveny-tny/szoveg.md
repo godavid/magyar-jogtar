@@ -959,6 +959,8 @@ módosítja vagy visszavonja.
 - a) a nyugellátások, illetőleg a nyugdíjbiztosítás szerveinek hatáskörébe utalt más ellátások megállapítása, folyósítása és ellenőrzése, továbbá
 - b) a nyugdíjbiztosítást illető befizetések érdekében tarthat nyilván.
 
+(1a) A nyugdíjbiztosítási igazgatási szervek a nyugdíjbiztosítás szervei közreműködésével nyújtott juttatások nyújtása, valamint a nyugdíjfolyósító szerv által folyósított ellátásokkal és a nyugdíjbiztosítás szervei közreműködésével nyújtott juttatásokkal kapcsolatos kormányzati tájékoztatás céljából, a tájékoztatás teljesítéséhez, valamint a juttatás nyújtásához és nyújtásának ellenőrzéséhez szükséges időtartamban kezelhetik az ellátásban, juttatásban részesülő személyek nevére, lakcímére, nyugdíjfolyósítási törzsszámára és a folyósított ellátásra, nyújtott juttatásra vonatkozó adatokat.
+
 (2) Az (1) bekezdésben meghatározott célra a társadalombiztosítási jogszabályban, illetve törvényben meghatározott
 
 - a) természetes személyazonosító adatok,
