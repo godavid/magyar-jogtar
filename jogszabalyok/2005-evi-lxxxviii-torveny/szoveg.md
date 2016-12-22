@@ -52,7 +52,7 @@ közérdekű önkéntes tevékenységre terjed ki.
 - d) a magyarországi székhelyű civil szervezet, közhasznú szervezet a közhasznú és a működésével összefüggő tevékenysége körében;
 - e) a magyarországi székhelyű egyházi jogi személy vagy vallási tevékenységet végző szervezet a hitéleti, a közcélú és a működésével összefüggő tevékenysége körében;
 - f) a jogszabályban meghatározott közszolgáltatásai, vagy e közszolgáltatásokhoz kapcsolódóan a közszolgáltatásait igénybevevőknek nyújtott többletszolgáltatások körében a magyarországi székhelyű, illetve magyar hatóság által kiadott működési engedéllyel rendelkező, jogképes
-  - fa) szociális, gyermekjóléti, gyermekvédelmi szolgáltató, illetve intézmény,
+  - fa) szociális, gyermekjóléti, gyermekvédelmi szolgáltató, intézmény vagy hálózat,
   - fb) egészségügyi szolgáltató,
   - fc) köznevelési intézmény,
   - fd) felsőoktatási intézmény,
@@ -194,13 +194,13 @@ az önkéntes jogviszonnyal összefüggésben következett be, a fogadó szervez
 - b) civil szervezet és közhasznú szervezet esetén
   - ba) a hatályos létesítő okirat másolatát, és
   - bb) a fogadó szervezet adatairól a nyilvántartást vezető bíróság által kiállított, harminc napnál nem régebbi kivonatot, a cégkivonat kivételével;
-- c) az egyházi jogi személy esetében a nyilvántartásba vett adataira vonatkozóan kiállított, harminc napnál nem régebbi igazolást.
+- c) nyilvántartásba nem vett belső egyházi jogi személy esetén a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 16. § (2) bekezdése szerinti igazolás másolatát,
 - d) egyéni vállalkozó esetén az egyéni vállalkozók nyilvántartásába történő bejelentkezésről, illetve a változás-bejelentésről kiadott, az egyéni vállalkozó hatályos adatait tartalmazó igazolás (igazolások) másolatát, vagy az egyéni vállalkozónak az egyéni vállalkozók nyilvántartásában szereplő hatályos adatait igazoló, harminc napnál nem régebbi hatósági bizonyítványt;
 - e) fogadó intézmény, illetve annak fenntartója esetén annak igazolását, hogy a fogadó intézmény jogszerűen működik.
 
 (4) Ha a bejelentéshez
 
-- a) a civil szervezet, közhasznú szervezet nem csatolta a (3) bekezdés b) pont bb) alpontja szerinti iratot, a miniszter a civil szervezet, közhasznú szervezet bírósági nyilvántartásba vett adatait a bíróság nyilvántartásából szerzi be, illetve ellenőrzi,
+- a) a civil szervezet, közhasznú szervezet nem csatolta a (3) bekezdés b) pont bb) alpontja szerinti iratot, a miniszter a civil szervezet, közhasznú szervezet bírósági nyilvántartásba vett adatait a civil és egyéb, bírósági bejegyzéssel létrejött, cégnek nem minősülő szervezetek országos névjegyzékéből szerzi be, illetve ellenőrzi,
 - b) az egyéni vállalkozó nem csatolta a (3) bekezdés d) pontja szerinti iratot, a miniszter az adatokat az egyéni vállalkozók nyilvántartásából szerzi be, illetve ellenőrzi.
 
 (4a) A bejelentést benyújtó egyházi jogi személy adatait, a (3) bekezdés c) pontja szerinti esetben pedig a bevett egyház és a nyilatkozatot kiállító személy adatait a miniszter a bevett egyházak nyilvántartásából szerzi be, illetve ellenőrzi.
@@ -212,6 +212,8 @@ az önkéntes jogviszonnyal összefüggésben következett be, a fogadó szervez
 (6) Közhasznú szervezet esetén az adatváltozás bejelentésekor a létesítő okirat másolatát csak akkor kell mellékelni, ha az abban megjelölt cél, illetve tevékenységi kör megváltozott.
 
 (7) Az (1)–(2) bekezdések szerinti változásbejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a fogadó szervezet kéri – az (2) bekezdésben meghatározott határidőn belül értesíti a családpolitikáért felelős minisztert.
+
+(8) A fogadó szervezetek bejelentésére, az adatváltozás bejelentésére és a fogadó szervezetek nyilvántartásából történő törlésre irányuló eljárások költségmentesek.
 
 12. § (1) A 11. §-ban foglaltak szerint bejelentett adatokról a miniszter a fogadó szervezetek nyilvánossága és az önkéntesek védelme érdekében nyilvántartást vezet.
 
