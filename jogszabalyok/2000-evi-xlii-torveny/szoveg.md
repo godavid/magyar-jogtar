@@ -83,6 +83,8 @@ látja el.
 
 (6) A kikötő létesítésével, fennmaradásával, továbbá az úszólétesítmény építési (átépítési) terveinek felülvizsgálatával és jóváhagyásával, valamint a komp- és révátkelőhely létesítésével és fennmaradásával, üzemben tartásával kapcsolatos ügyekben az ügyintézési határidő 30 nap.
 
+(7) Az országos illetékességgel eljáró fővárosi és megyei kormányhivatal által első fokon meghozott hajózási hatósági döntéssel szemben – ideértve a nemzetgazdasági szempontból kiemelt jelentőségűvé nyilvánított közlekedési beruházásokat is – fellebbezésnek van helye.
+
 5. § A hajózással kapcsolatos rendőrhatósági és határrendészeti tevékenységet a rendészetért felelős miniszter és a határrendészetért felelős miniszter – a rendőrség vízirendészeti feladatokat ellátó szervei útján – a vízirendészettel és a víziközlekedéssel kapcsolatos rendőri feladatokról szóló jogszabályban foglaltak alapján látja el.
 
 5/A. § (1) A veszélyes vagy szennyező áru belvízi szállításának hatósági ellenőrzését a veszélyes áruk belvízi szállításának ellenőrzésére vonatkozó jogszabályokban meghatározottak szerint a hajózási hatóság, a rendőrség vízirendészeti szerve és a hivatásos katasztrófavédelmi szerv látja el.
@@ -278,6 +280,10 @@ lajstromban tartja nyilván.
 
 21. § (1) Az úszólétesítmény üzemben tartója köteles gondoskodni az úszólétesítményen biztonsági, humán-, állat- és növényegészségügyi, valamint környezetvédelmi követelmények, továbbá az egészséget nem veszélyeztető és biztonságos munkavégzés feltételeinek megtartásáról.
 
+(1a) Belvízi hajózási tevékenységet folytató úszólétesítmény utazó munkavállalója minden 2040 hajózással teljesített munkaórát követően ingyenes egészségügyi szűrővizsgálatra jogosult a munkáltató által meghatározott feltételekkel. A vizsgálat során különös figyelmet kell fordítani arra a tünetre vagy állapotra, amely összefüggésben lehet a 44/G. § alapján biztosított minimális napi pihenőidővel és minimális pihenőnapokkal végzett fedélzeti munkával.
+
+(1b) Az (1a) bekezdés szerinti egészségügyi szűrővizsgálat a nemzeti egészségügyi rendszer keretében is elvégezhető belvízi hajós-orvosi vizsgálatokra jogosult orvos által.
+
 (2) A 20 tengeri mérföldnél hosszabb utakon közlekedő tengeri személyhajó és tengeri gyorsjáratú vízijármű, illetve az államhatárt átlépő belvízi személyhajó üzemben tartója köteles felkutatási és mentési, valamint hatósági feladatok végrehajtását biztosító célokra a hajón utazó személyek nevét, életkorát, nemét és állampolgárságát tartalmazó utasnyilvántartást vezetni, és azt szükség esetén a felkutató és mentőszolgálatok, valamint – a hatóság adatkérése esetén – a 48/A. § (1) bekezdésében megjelölt hatóságok rendelkezésére bocsátani.
 
 (3) A hajózási hatóság – az indulási és érkezési kikötő szerinti állam hatóságának hozzájárulásával – felmentheti az utasnyilvántartás vezetése alól a védett tengeri területen, illetve egy óránál rövidebb utakon közlekedő tengeri személyhajót és tengeri gyorsjáratú vízijárművet.
@@ -463,9 +469,11 @@ nyújtani, valamint – szükség esetén – gondoskodni arról, hogy a beteg a
 
 ### VI. Fejezet — AZ ÚSZÓLÉTESÍTMÉNY SZEMÉLYZETÉNEK MUNKAIDEJE
 
+### A tengeri kereskedelmi hajó, a tengeri halászhajó és a tengeren ásványi készletek kitermelésével összefüggő hajózási tevékenységet folytató úszólétesítmény személyzete
+
 42. § Az úszólétesítmény személyzetének munka- és pihenőidejére a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezéseit az e törvényben, az STCW Egyezményben és a Tengerészeti Munkaügyi Egyezményben meghatározott eltérésekkel kell alkalmazni.
 
-43. § (1) A belvízi személyszállítási és árufuvarozási tevékenységet végző úszólétesítmény, a tengeri kereskedelmi hajó, a tengeri halászhajó, valamint a tengeren ásványi készletek kitermelésével összefüggő hajózási tevékenységet folytató úszólétesítmény személyzete tekintetében kollektív szerződés az Mt. munkaközi szünetre, a napi pihenőidőre, a heti pihenőnapra vagy pihenőidőre, a vasárnapi és a munkaszüneti napon történő munkavégzésre, valamint a rendkívüli munkavégzés éves mértékére vonatkozó rendelkezéseitől eltérhet, ezen túlmenően legfeljebb egy éves vagy legfeljebb ötvenkét heti munkaidőkeretet állapíthat meg.
+43. § (1) A tengeri kereskedelmi hajó, a tengeri halászhajó, valamint a tengeren ásványi készletek kitermelésével összefüggő hajózási tevékenységet folytató úszólétesítmény személyzete tekintetében kollektív szerződés az Mt. munkaközi szünetre, a napi pihenőidőre, a heti pihenőnapra vagy pihenőidőre, a vasárnapi és a munkaszüneti napon történő munkavégzésre, valamint a rendkívüli munkavégzés éves mértékére vonatkozó rendelkezéseitől eltérhet, ezen túlmenően legfeljebb egyéves vagy legfeljebb ötvenkét heti munkaidőkeretet állapíthat meg.
 
 (2) Az (1) bekezdésben meghatározott munkavállalók tekintetében kollektív szerződés a napi munkavégzés időtartamát legfeljebb tizennégy órában határozhatja meg, amelybe a rendes és a rendkívüli munkavégzés időtartama is beszámít.
 
@@ -474,22 +482,79 @@ nyújtani, valamint – szükség esetén – gondoskodni arról, hogy a beteg a
 44/A. § (1) Tengeri halászhajó és tengeri kereskedelmi hajó személyzete tekintetében kollektív szerződés az Mt. pihenőidőre vonatkozó szabályaitól eltérhet, de ebben az esetben
 
 - a) a napi pihenőidő tíz óránál, a napi és a heti pihenőidő együttes időtartama hetvenhét óránál kevesebb nem lehet;
-- b) bármely hét napos időszak vonatkozásában legalább hetvenhét óra pihenőidőt biztosítani kell, amelybe a napi és a heti pihenőidő számít be;
+- b) bármely hétnapos időszak vonatkozásában legalább hetvenhét óra pihenőidőt biztosítani kell, amelybe a napi és a heti pihenőidő számít be;
 - c) a napi pihenőidőt nem lehet kettőnél több részre osztani, ezek közül az egyiknek legalább hat óra tartamúnak kell lennie, továbbá a pihenőidő megszakításának időtartama a tizennégy órát nem haladhatja meg.
 
-(2) Az (1) bekezdésben meghatározott rendelkezésektől kollektív szerződés eltérhet, ha a munkavállaló évi rendes szabadságán túlmenően legalább évente egy hónap egybefüggő fizetett szabadságot biztosít. Ebben az esetben kollektív szerződés a napi pihenőidő minimális mértékét nyolc órában, a napi és a heti pihenőidő együttes mértékét legalább hetven órában állapíthatja meg.
+(2) Az (1) bekezdéstől kollektív szerződés eltérhet, ha a munkavállaló évi rendes szabadságán túlmenően legalább évente egy hónap egybefüggő fizetett szabadságot biztosít. Ebben az esetben kollektív szerződés a napi pihenőidő minimális mértékét nyolc órában, a napi és a heti pihenőidő együttes mértékét legalább hetven órában állapíthatja meg.
 
-(3) Az (1)–(2) bekezdés alkalmazásában napi pihenőidőnek minősül a napi munka befejezése és a másnapi munkakezdés közötti időtartam, továbbá a munkaidő-beosztás alapján az egy napon belüli, két munkával töltött időszak közötti időtartam is, amennyiben annak hossza az egy órát eléri.
+(3) Az (1) és (2) bekezdés alkalmazásában napi pihenőidőnek minősül a napi munka befejezése és a másnapi munkakezdés közötti időtartam, továbbá a munkaidő-beosztás alapján az egy napon belüli, két munkával töltött időszak közötti időtartam is, ha annak hossza az egy órát eléri.
 
-44/B. § A hajók üzemképességi vizsgálatait, a tűzvédelmi és mentőcsónak gyakorlatokat, továbbá az egyéb gyakorlatokat úgy kell végezni, hogy azok a pihenőidőt a lehető legkisebb mértékben vegyék igénybe, és ne idézzenek elő kimerültséget.
+44/B. § A hajók üzemképességi vizsgálatait, a tűzvédelmi és mentőcsónak-gyakorlatokat, továbbá az egyéb gyakorlatokat úgy kell végezni, hogy azok a pihenőidőt a lehető legkisebb mértékben vegyék igénybe.
 
 44/C. § (1) Ha tengeri nagyhajón a készenlét alatt a személyzet számára munkavégzést rendeltek el, a készenlétet követően a munkavégzés időtartamával azonos tartamú pihenőidőt kell biztosítani.
 
 (2) Ha tengeri nagyhajón a munkavállaló számára havária vagy más úszólétesítmény mentése esetén rendkívüli munkavégzést rendeltek el, a munkavállaló részére a normál üzemelési körülmények helyreállítását követően a 44/A. §-ban meghatározott pihenőidőt kell biztosítani.
 
-44/D. § (1) Az úszólétesítmények személyzetének munkaidejét szabályozó jogszabályokat és kollektív szerződést a személyzet részére könnyen megközelíthető helyen elérhetővé kell tenni.
+### Belvízi hajózási tevékenységet folytató úszólétesítmény utazó munkavállalója
 
-(2) Az úszólétesítményeken a munkarendre, a munkavállaló munkaidő-beosztására, valamint munkaidejére és pihenőidejére vonatkozó szabályok megtartását a hajózási hatóság ellenőrzi. A hajózási hatóság az ellenőrzés során feltárt szabálytalanság megszüntetése érdekében az úszólétesítmény üzemeltetését megtilthatja.
+44/D. § (1) Az Mt. rendelkezéseit a 44/D–44/J. §-ban meghatározott eltérésekkel kell alkalmazni a belvízi hajózási tevékenységet folytató úszólétesítmény utazó munkavállalója tekintetében.
+
+(2) A belvízi hajózási tevékenységet folytató úszólétesítmény utazó munkavállalója tekintetében kollektív szerződés az Mt. napi munkavégzés időtartamára, a munkaközi szünetre, a napi pihenőidőre, a heti pihenőnapra vagy pihenőidőre, a vasárnapi és a munkaszüneti napon történő munkavégzésre, valamint a rendkívüli munkavégzés éves mértékére vonatkozó rendelkezéseitől eltérhet.
+
+(3) A 21. § (1a) és (1b) bekezdése, a 44/D–44/J. § és a 47/B. § alkalmazásában
+
+- a) belvízi hajózás: a belvízi személyszállítási, árufuvarozási, valamint rév- és komphajózási tevékenység;
+- b) belvízi hajózási vállalkozó: belvízi hajózási ágazatban saját számlájára, jövedelemszerzés céljából úszólétesítményt működtető személy;
+- c) éjszakai munka: a 23:00 óra és a 6:00 óra közötti időszakban teljesített munkavégzés;
+- d) munkaidő: az az időtartam, amely alatt a munkavállaló a munkáltató utasítására az úszólétesítmény fedélzetén, az úszólétesítménynél vagy ahhoz kapcsolódóan munkát végez, munkára van beosztva, vagy munka céljából rendelkezésre kell állnia (készenléti idő);
+- e) nem hajós személyzet: a fedélzeten valamennyi nem hajós munkavállaló;
+- f) pihenőidő: az az időtartam, amely nem minősül munkaidőnek, ebbe beletartozik az úszólétesítményen és a szárazföldön eltöltött pihenőidő, ide nem értve a munkaközi szünetet;
+- g) több műszakos tevékenység keretében foglalkoztatott munkavállaló: olyan munkavállaló, aki több műszakos tevékenységet folytató munkáltatónál váltott műszak szerinti munkarendben kerül beosztásra;
+- h) utazó munkavállaló: az a munkavállaló, akit egy belvízi hajózási tevékenységet végző munkáltató az utazó személyzet tagjaként alkalmaz, ide nem értve a belvízi hajózási vállalkozót.
+
+44/E. § (1) A munkáltató az egészséges és biztonságos munkavégzés, továbbá a közlekedésbiztonság követelményeire is figyelemmel készíti el az utazó munkavállaló munkaidő-beosztását.
+
+(2) Munkaidőkeret alkalmazása esetén a munkaidőkeret tartama legfeljebb tizenkét hónap lehet.
+
+(3) A munkaidőkeret átlagában a heti munkaidő a negyvennyolc órát nem haladhatja meg.
+
+(4) A munkaidőkeret időtartamánál rövidebb ideig tartó munkaviszony esetében a maximális munkaidőt időarányosan kell kiszámítani.
+
+(5) A (3) bekezdés alkalmazása során az Mt. 107. § b) pontja szerinti rendkívüli munkaidőt is figyelembe kell venni.
+
+44/F. § (1) A napi munkavégzés időtartama legfeljebb tizennégy óra, amelybe a rendes és a rendkívüli munkavégzés időtartama is beszámít.
+
+(2) A munkaidő heti átlagban a nyolcvannégy órát nem haladhatja meg.
+
+(3) Ha a munkarendben több munkanap, mint pihenőnap szerepel, az átlagos heti munkaidő négy hónap alatt nem lehet több mint hetvenkét óra.
+
+44/G. § (1) Az egymást követő munkanapok száma legfeljebb harmincegy nap lehet.
+
+(2) Eltérő megállapodás hiányában a közvetlenül egymást követő munkanapok után ugyanannyi egymást követő pihenőnapot kell biztosítani.
+
+(3) Ha a munkarend szerint több a munkanap, mint a pihenőnap, akkor a közvetlenül az egymást követő munkanapok után biztosítandó, egymást követő pihenőnapok minimális számát a következőképpen kell meghatározni:
+
+- a) az 1–10. egymást követő munkanap esetében minden egyes egymást követő munkanapra 0,2 pihenőnap jár;
+- b) a 11–20. egymást követő munkanap esetében minden egyes egymást követő munkanapra 0,3 pihenőnap jár;
+- c) a 21–31. egymást követő munkanap esetében minden egyes egymást követő munkanapra 0,4 pihenőnap jár.
+
+(4) A (3) bekezdés a)–c) pontjában meghatározottak tekintetében a töredék pihenőnapok hozzáadódnak a minimálisan járó, egymást követő pihenőnapokhoz, és kizárólag teljes pihenőnapként biztosítandók.
+
+44/H. § (1) Az utazó munkavállaló esetében a napi pihenőidő hossza huszonnégy órás időszakonként tíz óra, ebből megszakítás nélkül legalább hat óra.
+
+(2) A munkaidőkeret átlagában legalább nyolcvannégy óra heti pihenőidőt kell biztosítani.
+
+(3) A hajók üzemképességi vizsgálatait, a tűzvédelmi és mentőcsónak-gyakorlatokat, továbbá az egyéb gyakorlatokat úgy kell végezni, hogy azok a pihenőidőt a lehető legkisebb mértékben vegyék igénybe.
+
+44/I. § Az éjszakai munkaidő felső határa hétnapos időszakonként negyvenkét óra.
+
+44/J. § Ha belvízi hajózási tevékenységet folytató úszólétesítményen a munkavállaló számára havária vagy más úszólétesítmény mentése esetén rendkívüli munkavégzést rendeltek el, a munkavállaló részére a normál üzemelési körülmények helyreállítását követően a 44/H. §-ban meghatározott pihenőidőt kell biztosítani.
+
+### Hatósági ellenőrzés
+
+44/K. § (1) Az úszólétesítményen a munkarendre, a munkavállaló munkaidő-beosztására, valamint munkaidejére és pihenőidejére vonatkozó szabályok megtartását a hajózási hatóság ellenőrzi. A hajózási hatóság az ellenőrzés során feltárt szabálytalanság megszüntetése érdekében az úszólétesítmény üzemeltetését megtilthatja, és a 60. § (1) bekezdés l) pontja alapján a munkavállalókat védő rendelkezések megsértőit bírság megfizetésére kötelezheti.
+
+(2) Jogaik gyakorlása és kötelezettségeik teljesítése érdekében az úszólétesítmény személyzetének munkaidejét szabályozó jogszabályokat és kollektív szerződést a személyzet részére könnyen megközelíthető helyen elérhetővé kell tenni.
 
 ### VII. Fejezet — AZ ÚSZÓLÉTESÍTMÉNY ÉS SZEMÉLYZETÉNEK OKMÁNYAI
 
@@ -538,9 +603,24 @@ nyújtani, valamint – szükség esetén – gondoskodni arról, hogy a beteg a
 
 (2) A munkaidő-beosztást magyarul, angolul, illetve a munkavállalók által értett nyelven is ki kell függeszteni.
 
-47/B. § (1) A tengeri nagyhajók munkavállalóinak napi munkaidejéről és pihenőidejéről nyilvántartást kell vezetni. A nyilvántartásnak a hajóparancsnok vagy megbízottja és a munkavállaló által aláírt másodpéldányát a munkavállaló rendelkezésére kell bocsátani.
+47/B. § (1) A tengeri nagyhajó munkavállalójának és a belvízi hajózási tevékenységet folytató úszólétesítmény utazó munkavállalójának napi munkaidejéről és pihenőidejéről nyilvántartást kell vezetni. A nyilvántartásnak az úszólétesítmény vezetője vagy megbízottja és a munkavállaló által aláírt másodpéldányát a kihajózáskor a munkavállaló (kölcsönzött munkavállaló esetén a kölcsönbeadó) rendelkezésére kell bocsátani.
 
-(2) A nyilvántartást a 47/A. § (2) bekezdésében meghatározott nyelveken kell vezetni.
+(2) A belvízi hajózási tevékenységet folytató úszólétesítmény utazó munkavállalójának napi munkaidejéről és pihenőidejéről vezetett nyilvántartást a kihajózásig (legkésőbb a következő hónap végéig – munkaidőkeret alkalmazása esetén az adott munkaidőkeret végéig) meg kell őrizni a fedélzeten.
+
+(3) A belvízi hajózási tevékenységet folytató úszólétesítmény utazó munkavállalójának a nyilvántartás másodpéldányát egy évig meg kell őriznie.
+
+(4) A nyilvántartást a 47/A. § (2) bekezdésében meghatározott nyelveken kell vezetni.
+
+(5) A belvízi hajózási tevékenységet folytató úszólétesítmény utazó munkavállalójának napi munkaidejéről és pihenőidejéről vezetett nyilvántartást a felelős hajóvezetőnek, valamint az utazó munkavállalónak kihajózáskor (legkésőbb a következő hónap végéig) közösen ellenőrizniük kell, és aláírásukkal igazolni azok helyességét.
+
+(6) A belvízi hajózási tevékenységet folytató úszólétesítmény utazó munkavállalójának napi munkaidejéről és pihenőidejéről vezetett nyilvántartásba feljegyzendő minimális adatok a következők:
+
+- a) a hajó neve;
+- b) a munkavállaló neve;
+- c) a felelős hajóparancsnok neve;
+- d) dátum;
+- e) munkanap vagy pihenőnap;
+- f) a napi munka- és pihenőidők kezdete és vége.
 
 ### Szolgálati könyv
 
@@ -756,7 +836,7 @@ kezeli.
 
 (2) A hajóútnak hajózási létesítmény és hajózást befolyásoló vízilétesítmény előre nem látható üzemzavara vagy meghibásodása, továbbá elemi csapás vagy havaria által okozott elzárása esetén, a létesítmény fenntartója a helyreállítást a lehető legrövidebb időn belül köteles megkezdeni, és a hajóút elzárását minden rendelkezésre álló eszköz felhasználásával a lehető legrövidebb időre korlátozni.
 
-58. § (1) A Balatonon, a Velencei-tó és a Fertő tó teljes területén, továbbá a Ráckevei-Dunaág és a Tisza-tó a víziközlekedés egyes belvízi utakon környezetvédelmi okokból való korlátozásáról és a korlátozás alá eső területeken kiadható üzemeltetési engedélyről szóló Kormány rendeletben meghatározott részein belső égésű motorral hajtott kishajót és csónakot üzemeltetni tilos.
+58. § (1) A Balatonon, a Velencei-tó és a Fertő tó teljes területén, továbbá a Ráckevei (Soroksári)–Dunaágnak és a Tisza-tónak a víziközlekedés egyes belvízi utakon környezetvédelmi okokból való korlátozásáról és a korlátozás alá eső területeken kiadható üzemeltetési engedélyről szóló kormányrendeletben meghatározott részein belső égésű motorral hajtott kishajót és csónakot üzemeltetni tilos.
 
 (2) Motoros vízi sporteszközt a hajózási hatóság által – a illetékes települési önkormányzat egyetértésével – kijelölt pálya kivételével tilos üzemeltetni. Az (1) bekezdésben feltüntetett belvízi utakon, továbbá a határvízen motoros vízi sporteszköz pályát kijelölni tilos.
 
@@ -767,7 +847,8 @@ kezeli.
 - c) a katasztrófaelhárításban közreműködő szervezetek,
 - d) a víziút fenntartását, valamint a természet- és környezetvédelmi feladatot ellátó hatóság vízijárműveire,
 - e) a hajózási hatóság által a Kormány rendeletében kiadott üzemeltetési engedéllyel rendelkező vízijárművekre,
-- f) a Magyar Honvédség lőszerek, robbanótestek felkutatását, hatástalanítását és megsemmisítését végző katonai úszólétesítményeire.
+- f) a Magyar Honvédség lőszerek, robbanótestek felkutatását, hatástalanítását és megsemmisítését végző katonai úszólétesítményeire,
+- g) az országos illetékességgel eljáró halgazdálkodási hatóság ellenőrzési tevékenysége során e célra rendszeresített szolgálati célú vízijárműveire.
 
 ### X/A. Fejezet — Belvízi hajózási alapprogram
 
@@ -795,7 +876,8 @@ kezeli.
 - h) víziközlekedés forgalmának irányítására és a hajóút kitűzésére szolgáló jelek létesítésére, üzemeltetésére és megszüntetésére,
 - i) hajózási tevékenység végzésére,
 - j) belvízi utakon közlekedési korlátozás alá eső területen üzemeltetett belsőégésű motorral hajtott kishajó, csónak és motoros vízi sporteszköz használatára,
-- k) úszólétesítmény rendeltetésszerű üzemeltetéséhez előírt személyzet létszámára és képesítésére vonatkozó rendelkezések megsértőit a hajózási hatóság – a hajózási bírság mértékéről és kivetésének szabályairól szóló kormányrendeletben előírtak szerint – bírság megfizetésére kötelezheti.
+- k) úszólétesítmény rendeltetésszerű üzemeltetéséhez előírt személyzet létszámára és képesítésére,
+- l) úszólétesítményen a munkarendre, a munkavállaló munkaidő-beosztására, valamint munkaidejére és pihenőidejére vonatkozó rendelkezések megsértőit a hajózási hatóság – a hajózási bírság mértékéről és kivetésének szabályairól szóló kormányrendeletben előírtak szerint – bírság megfizetésére kötelezheti.
 
 (2) A bírság összege legfeljebb 1 000 000 forint.
 
@@ -939,40 +1021,52 @@ kezeli.
 
 ### A víziutak, a meder, a parton lévő létesítmények, továbbá az országos közforgalmú kikötők és az úszólétesítmények fejlesztésének megvalósítása
 
-78/A. § (1) Fejlesztési közreműködőként a NIF Nemzeti Infrastruktúra Fejlesztő Zártkörűen Működő Részvénytársaság (a továbbiakban: NIF Zrt.) mint építtető az állami tulajdonon megvalósuló fejlesztés és eszközbeszerzés esetén az állam nevében és javára jár el, tevékenysége fontos közérdekű és közcélú tevékenységnek minősül.
+78/A. § (1) Az állam tulajdonában lévő víziút, meder, parton lévő létesítmény és kapcsolódó ingatlanok, továbbá az országos közforgalmú kikötők létesítését, felújítását és fejlesztését, valamint ezekkel összefüggő úszólétesítmény- és egyéb eszközbeszerzéseket és -felújításokat az előzőek tulajdonosa, vagyonkezelője, működtetője vagy üzemben tartója (a továbbiakban: tulajdonos vagy működtető szervezet) vagy a fejlesztési közreműködő végezheti (a továbbiakban együtt: megvalósító szervezet).
 
-(2) A fejlesztési közreműködő felelős az építési munkák előkészítéséért. A fejlesztési közreműködő a fejlesztés érdekében teljeskörűen elkészítteti a szükséges műszaki terveket (így különösen az engedélyezési tervet vagy a kiviteli tervet), tanulmányokat, ügyfélként részt vesz a hatósági és egyéb igazgatási eljárásokban, saját nevére megszerzi az építési, illetve vízjogi létesítési engedélyeket, elvégzi vagy elvégezteti a munkaterület előkészítését (beleértve különösen a területszerzést, próba- vagy megelőző régészeti feltárást, közmű-kiváltást), továbbá lefolytatja a közbeszerzési eljárásokat. A fejlesztési közreműködő kivitelezési szerződéseket köt a megvalósításra, gondoskodik az építési műszaki ellenőri tevékenység ellátásáról, lebonyolítja a műszaki átadás-átvételt és közreműködik az üzemeltetési engedélyezési eljárás során.
+(2) Ha a létesítést, felújítást és fejlesztést a fejlesztési közreműködő végzi, a létesítésben, felújításban és fejlesztésben az (1) bekezdés szerinti, érintett tulajdonos vagy működtető szervezet közreműködik. A tulajdonos vagy működtető szervezet és a fejlesztési közreműködő a feladatok megosztásáról megállapodást köt.
 
-(3) A fejlesztési közreműködő az általa felhasznált forrásokkal és létrehozott eszközökkel a fejlesztés és eszközbeszerzés pénzügyi zárását követően elszámol a forrást rendelkezésre bocsátó szervvel.
+(3) A megvalósító szervezet, mint építtető az állami tulajdonon megvalósuló fejlesztés és eszközbeszerzés esetén az állam nevében és javára jár el, tevékenysége fontos közérdekű és közcélú tevékenységnek minősül.
 
-(4) Törvény eltérő rendelkezése hiányában az állam tulajdonába és ellenérték nélkül a fejlesztési közreműködő vagyonkezelésébe kerül
+(4) A megvalósító szervezet felelős az építési munkák előkészítéséért. A megvalósító szervezet a fejlesztés érdekében gondoskodik a szükséges műszaki tervek (így különösen az engedélyezési terv vagy a kiviteli terv) és tanulmányok elkészítéséről, ügyfélként részt vesz a hatósági és egyéb igazgatási eljárásokban, saját nevére megszerzi az építési, illetve vízjogi létesítési engedélyeket, elvégzi vagy elvégezteti a munkaterület előkészítését (beleértve különösen a területszerzést, próba- vagy megelőző régészeti feltárást, közműkiváltást), továbbá lefolytatja a közbeszerzési eljárásokat. A megvalósító szervezet kivitelezési szerződéseket köt a megvalósításra, gondoskodik az építési műszaki ellenőri tevékenység ellátásáról, lebonyolítja a műszaki átadás-átvételt és közreműködik az üzemeltetési engedélyezési eljárás során.
 
-- a) a fejlesztési közreműködő által megvásárolt vagy kisajátított terület,
+(5) A megvalósító szervezet az általa felhasznált forrásokkal és létrehozott eszközökkel a fejlesztés és eszközbeszerzés pénzügyi zárását követően elszámol a forrást rendelkezésre bocsátó szervvel.
+
+(6) Törvény eltérő rendelkezése hiányában az állam tulajdonába és ellenérték nélkül a megvalósító szervezet vagyonkezelésébe kerül
+
+- a) a megvalósító szervezet által megvásárolt vagy kisajátított terület,
 - b) az egyes fejlesztéssel és eszközbeszerzéssel kapcsolatban létrehozott vagy megszerzett eszköz (így különösen úszólétesítmény, víziközlekedés forgalmának irányítására és a hajóút kitűzésére szolgáló jel, eszköz, hordalékvizsgálatot lehetővé tevő eszköz, szoftver, egyéb eszköz).
 
-(5) Ellenérték nélkül a fejlesztési közreműködő vagyonkezelésébe kerül – törvény eltérő rendelkezése hiányában – az állam tulajdonában és a fejlesztési közreműködőtől eltérő vagyonkezelő vagyonkezelésében álló és a fejlesztéshez szükséges terület, vízilétesítmény.
+(7) Ellenérték nélkül a megvalósító szervezet vagyonkezelésébe kerül – törvény eltérő rendelkezése hiányában – az állam tulajdonában és a megvalósító szervezettől eltérő vagyonkezelő vagyonkezelésében álló és a fejlesztéshez szükséges terület, vízilétesítmény.
 
-(6) A vagyonkezelői jog ingatlan-nyilvántartásba, úszólétesítmények esetén a tulajdonjog hajólajstromba történő bejegyzéséről a fejlesztési közreműködő gondoskodik. A fejlesztési közreműködő a vagyonkezelői jog, valamint a tulajdonjog bejegyzésére vonatkozó hatósági határozatokat annak kézhezvételét követően haladéktalanul megküldi a Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.) részére. A fejlesztési közreműködő vagyonkezelői jogának ingatlan-nyilvántartásba, valamint úszólétesítmények esetén a tulajdonjog hajólajstromba történő bejegyzése vagy törlése mentes az igazgatási szolgáltatási díjfizetési kötelezettség alól.
+(8) A vagyonkezelői jog ingatlan-nyilvántartásba, úszólétesítmények esetén a tulajdonjog hajólajstromba történő bejegyzéséről a megvalósító szervezet gondoskodik. A megvalósító szervezet a vagyonkezelői jog, valamint a tulajdonjog bejegyzésére vonatkozó hatósági határozatokat annak kézhezvételét követően haladéktalanul megküldi a Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.) részére. A megvalósító szervezet vagyonkezelői jogának ingatlan-nyilvántartásba, valamint úszólétesítmények esetén a tulajdonjog hajólajstromba történő bejegyzése vagy törlése mentes az igazgatási szolgáltatási díjfizetési kötelezettség alól.
 
-(7) Ha a fejlesztési közreműködő jogerős építési, illetve vízjogi létesítési engedély alapján az állam tulajdonában és más vagyonkezelésében levő ingatlanon közcélú tevékenységet folytat, a vagyonkezelő az érintett ingatlanokat külön megállapodás alapján a szükséges előkészítő munkálatok, illetve az építési munkák idejére köteles térítésmentesen a fejlesztési közreműködő birtokába és használatába adni.
+(9) Ha a megvalósító szervezet jogerős építési, illetve vízjogi létesítési engedély alapján az állam tulajdonában és más vagyonkezelésében levő ingatlanon közcélú tevékenységet folytat, a vagyonkezelő az érintett ingatlanokat külön megállapodás alapján a szükséges előkészítő munkálatok, illetve az építési munkák idejére köteles térítésmentesen a megvalósító szervezet birtokába és használatába adni.
 
-(8) Ha a fejlesztési közreműködő jogerős építési, illetve vízjogi létesítési engedély alapján helyi önkormányzat tulajdonát képező ingatlanon közcélú tevékenységet folytat, a fejlesztési közreműködő és az érintett helyi önkormányzat köteles az előkészítés és építés idejére, ezek céljából az ingatlan ingyenes használatára írásban megállapodást kötni a fejlesztési közreműködő megkeresésétől számított 60 napon belül.
+(10) Ha a megvalósító szervezet jogerős építési, illetve vízjogi létesítési engedély alapján helyi önkormányzat tulajdonát képező ingatlanon közcélú tevékenységet folytat, a megvalósító szervezet és az érintett helyi önkormányzat köteles az előkészítés és építés idejére, ezek céljából az ingatlan ingyenes használatára írásban megállapodást kötni a megvalósító szervezet megkeresésétől számított 60 napon belül.
 
-(9) A fejlesztési közreműködő az állami tulajdonú ingatlanon megvalósított fejlesztést és eszközt az állam által kijelölt vagyonkezelő szervezet részére adja át. A vagyonkezelő és a fejlesztési közreműködő az ingyenes átadás-átvételről elszámolási megállapodást készít az átadás-átvétel fordulónapjától számított hat hónapon belül az MNV Zrt. mint tulajdonosi joggyakorló egyidejű tájékoztatása mellett annak céljából, hogy az érintett fejlesztést, eszközt az átadás-átvétel fordulónapján nyilvántartott könyv szerinti értéken a könyveiből kivezesse és a vagyonkezelő könyveiben azokat nyilvántartásba vegye. Ezen eljárások ellenérték nélkül a fejlesztési közreműködő által nyilvántartott könyv szerinti értéken adó- és illetékmentesen történnek azzal, hogy az általános forgalmi adó tekintetében az általános forgalmi adóról szóló törvény vonatkozó rendelkezései alkalmazandóak.
+(11) A megvalósító szervezet az állami tulajdonú ingatlanon megvalósított fejlesztést és eszközt az állam által kijelölt vagyonkezelő szervezet részére adja át. A vagyonkezelő és a megvalósító szervezet az ingyenes átadás-átvételről elszámolási megállapodást készít az átadás-átvétel fordulónapjától számított hat hónapon belül az MNV Zrt. mint tulajdonosi joggyakorló egyidejű tájékoztatása mellett annak céljából, hogy az érintett fejlesztést, eszközt az átadás-átvétel fordulónapján nyilvántartott könyv szerinti értéken a könyveiből kivezesse és a vagyonkezelő könyveiben azokat nyilvántartásba vegye. Ezen eljárás ellenérték nélkül a megvalósító szervezet által nyilvántartott könyv szerinti értéken történik azzal, hogy az általános forgalmi adó tekintetében az általános forgalmi adóról szóló törvény vonatkozó rendelkezései alkalmazandóak.
 
-(10) A más vagyonkezelésében álló, állami tulajdonú vagyonelemen végzett, nem a közcélú tevékenység folytatásához kapcsolódó fejlesztés és eszközbeszerzés tekintetében a fejlesztési közreműködő átadás-átvétel fordulónapjától számított egy éven belül elszámolási megállapodást készít a tulajdonosi joggyakorló egyidejű tájékoztatása mellett annak céljából, hogy az ingatlan vagyonkezelője a vagyonelemeket nyilvántartásba vegye.
+(12) A más vagyonkezelésében álló, állami tulajdonú vagyonelemen végzett, nem a közcélú tevékenység folytatásához kapcsolódó fejlesztés és eszközbeszerzés tekintetében a megvalósító szervezet az átadás-átvétel fordulónapjától számított egy éven belül elszámolási megállapodást készít a tulajdonosi joggyakorló egyidejű tájékoztatása mellett annak céljából, hogy az ingatlan vagyonkezelője a vagyonelemeket nyilvántartásba vegye.
 
-(11) A helyi önkormányzat tulajdonában álló ingatlanon a helyi önkormányzat érdekében megvalósított fejlesztés e törvény erejénél fogva az átadás-átvétel fordulónapján a helyi önkormányzat tulajdonába kerül a helyi önkormányzat és a fejlesztési közreműködő elszámolási kötelezettsége mellett.
+(13) A helyi önkormányzat tulajdonában álló ingatlanon a helyi önkormányzat érdekében megvalósított fejlesztés e törvény erejénél fogva az átadás-átvétel fordulónapján a helyi önkormányzat tulajdonába kerül a helyi önkormányzat és a megvalósító szervezet elszámolási kötelezettsége mellett.
 
-(12) Az elszámolási megállapodásnak tartalmaznia kell az átadott fejlesztésnek, eszköznek a tulajdonos és vagyonkezelő eszköz-nyilvántartási rendje szerinti, az állami vagyon nyilvántartására vonatkozó jogszabályoknak, a számviteli törvénynek megfelelően szolgáltatandó adatait, az európai uniós és a költségvetési forrásokkal történő eszközönkénti elszámolást.
+(14) Az elszámolási megállapodásnak tartalmaznia kell az átadott fejlesztésnek, eszköznek a tulajdonos és vagyonkezelő eszköz-nyilvántartási rendje szerinti, az állami vagyon nyilvántartására vonatkozó jogszabályoknak, a számviteli törvénynek megfelelően szolgáltatandó adatait, az európai uniós és a költségvetési forrásokkal történő eszközönkénti elszámolást.
 
-78/B. § (1) A fejlesztési közreműködő a fejlesztéssel érintett közcélú tevékenység meghatározását követően haladéktalanul köteles írásban értesíteni a fejlesztéssel érintett közmű üzemeltetőjét és tulajdonosát arról, hogy a fejlesztési tevékenység során mely közműszakasz átalakítása, áthelyezése (a továbbiakban együtt: kiváltása) vagy fejlesztése szükséges.
+78/B. § (1) A megvalósító szervezet a fejlesztéssel érintett közcélú tevékenység meghatározását követően haladéktalanul köteles írásban értesíteni a fejlesztéssel érintett közmű üzemeltetőjét és tulajdonosát arról, hogy a fejlesztési tevékenység során mely közműszakasz átalakítása, áthelyezése (a továbbiakban együtt: kiváltása) vagy fejlesztése szükséges.
 
-(2) A tulajdonos az (1) bekezdés szerinti értesítés kézhezvétele után az abban feltüntetett határidőn belül köteles a közmű kiváltását vagy -fejlesztését elvégezni vagy elvégeztetni. A fejlesztési közreműködő, a műszakilag feltétlenül szükséges mértékű, a tulajdonossal egyeztetett – 30 napnál nem rövidebb – határidőt határoz meg a közmű kiváltására vagy fejlesztésére. A tulajdonos a véleményét a fejlesztési közreműködő értesítésének kézhezvételétől számított nyolc munkanapos határidőn belül köteles közölni a fejlesztési közreműködővel. A fejlesztési közreműködő köteles a közműkiváltás vagy -fejlesztés indokolt költségét a tulajdonosnak vagy annak jogutódjának megfizetni, vagy a fejlesztési közreműködő által létrehozott közművet, a közmű műszaki átadás-átvételi eljárásának eredményes lezárását követően, e törvény erejénél fogva, ellenérték nélkül a fejlesztési közreműködő által nyilvántartott könyv szerinti értéken, adó- és illetékmentesen, a közműkiváltás, illetve -fejlesztés megvalósítása előtti tulajdonos vagy annak jogutódja tulajdonába, üzemeltetőjének üzemeltetésébe adni azzal, hogy az általános forgalmi adó tekintetében az általános forgalmi adóról szóló törvény vonatkozó rendelkezései alkalmazandóak. A közmű ellenérték nélkül, adó- és illetékmentesen akkor adható át a tulajdonosnak, ha a közmű kiváltására vagy -fejlesztésére műszakilag feltétlenül szükséges mértékben került sor és a közműkiváltás vagy -fejlesztés költségei nem haladták meg a közmű szokásos piaci árát. Amennyiben a közműkiváltásra vagy -fejlesztésre a műszakilag feltétlenül szükséges mértéket meghaladóan került sor, úgy a műszakilag feltétlenül szükséges mértéket meghaladó közműkiváltással vagy -fejlesztéssel arányos költséget a tulajdonos köteles megtéríteni. A közműkiváltás vagy -fejlesztés elvégzését követő 90 napon belül a fejlesztési közreműködő és a tulajdonos kötelesek egymással tételesen elszámolni, illetve megállapodást kötni.
+(2) A tulajdonos az (1) bekezdés szerinti értesítés kézhezvétele után az abban feltüntetett határidőn belül köteles a közmű kiváltását vagy -fejlesztését elvégezni vagy elvégeztetni. A megvalósító szervezet a műszakilag feltétlenül szükséges mértékű, a tulajdonossal egyeztetett – 30 napnál nem rövidebb – határidőt határoz meg a közmű kiváltására vagy fejlesztésére. A tulajdonos a véleményét a megvalósító szervezet értesítésének kézhezvételétől számított nyolc munkanapos határidőn belül köteles közölni a megvalósító szervezettel.
+
+(2a) A megvalósító szervezet tulajdonos által elvégzett vagy elvégeztetett közműkiváltás vagy -fejlesztés indokolt költségét a tulajdonosnak vagy annak jogutódjának megfizeti.
+
+(2b) Az építtető az általa létrehozott közművet a közmű műszaki átadás-átvételi eljárásának eredményes lezárását követően, e törvény erejénél fogva, ellenérték nélkül a megvalósító szervezet által nyilvántartott könyv szerinti értéken, a közműkiváltás vagy -fejlesztés megvalósítása előtti tulajdonos vagy annak jogutódja tulajdonába, üzemeltetőjének üzemeltetésébe adja. Az általános forgalmi adó tekintetében az általános forgalmi adóról szóló törvény vonatkozó rendelkezései alkalmazandóak.
+
+(2c) A közmű ellenérték nélkül akkor adható át a tulajdonosnak, ha a közmű kiváltására vagy -fejlesztésére műszakilag feltétlenül szükséges mértékben került sor és a közműkiváltás vagy -fejlesztés költségei nem haladták meg a közmű szokásos piaci árát. Ha a közműkiváltásra vagy -fejlesztésre a műszakilag feltétlenül szükséges mértéket meghaladóan került sor, úgy a műszakilag feltétlenül szükséges mértéket meghaladó közműkiváltással vagy -fejlesztéssel arányos költséget a tulajdonos köteles megtéríteni.
+
+(2d) A közműkiváltás vagy -fejlesztés elvégzését követő 90 napon belül a megvalósító szervezet és a tulajdonos kötelesek egymással tételesen elszámolni, illetve megállapodást kötni.
 
 (3) Ha a tulajdonos neki felróható módon az (1) bekezdés szerinti értesítésben szereplő közműszakasz kiváltására vagy fejlesztésére vonatkozó közműkiváltási vagy -fejlesztési kötelezettségét késedelmesen teljesíti, vagy egyébként a közmű-kiváltást vagy -fejlesztést nem megfelelően végzi el, illetve annak elvégzését vagy elvégeztetését megtagadja, köteles az ezzel okozott kárt a polgári jog általános szabályai szerint megtéríteni.
 
-(4) A közműkiváltás vagy -fejlesztés elvégzésének vagy elvégeztetésének megtagadása esetén a fejlesztési közreműködő jogosult a közmű-kiváltást vagy -fejlesztést a megfelelő szakmai képesítéssel rendelkező vállalkozóval elvégeztetni, amelyet a tulajdonos tűrni köteles.
+(4) A közműkiváltás vagy -fejlesztés elvégzésének vagy elvégeztetésének megtagadása esetén a megvalósító szervezet jogosult a közműkiváltást vagy -fejlesztést a megfelelő szakmai képesítéssel rendelkező vállalkozóval elvégeztetni, amelyet a tulajdonos tűrni köteles.
 
 (5) A tulajdonost a – közműkiváltással vagy -fejlesztéssel összefüggésben bekövetkezett – vagyonnövekedés tekintetében illetékfizetési kötelezettség nem terheli.
 
@@ -1032,7 +1126,7 @@ kezeli.
   - a) emberi erővel hajtott, felépítménnyel nem rendelkező vízijármű, amelynek testhossza nem haladja meg a kishajóra megállapított mértéket,
   - b) szélerővel vagy gépi berendezéssel hajtott vízijármű, amelynek hossza a 7 métert, névleges vitorlafelülete a 10 m2-t nem éri el, vagy motorteljesítménye legfeljebb 7,5 kW, ide nem értve az építése, berendezése és felszerelése alapján vízen való közlekedésre nem szolgáló úszóeszközt;
 - 4. egyéb úszólétesítmény: vízijárműnek, úszómunkagépnek vagy úszóműnek nem minősülő úszólétesítmény;
-- 4a. fejlesztési közreműködő: központi költségvetési és európai uniós támogatásból az állam tulajdonában lévő víziút, meder, parton lévő létesítmény és kapcsolódó ingatlanok, továbbá az országos közforgalmú kikötők létesítését, felújítását és fejlesztését, valamint ezekkel összefüggő úszólétesítmény- és egyéb eszközbeszerzéseket és -felújításokat célzó projektjavaslatok megvalósítójaként kormányhatározatban kijelölt NIF Zrt.;
+- 4a. fejlesztési közreműködő: központi költségvetési és európai uniós támogatásból az állam tulajdonában lévő víziút, meder, parton lévő létesítmény és kapcsolódó ingatlanok, továbbá az országos közforgalmú kikötők létesítését, felújítását és fejlesztését, valamint ezekkel összefüggő úszólétesítmény- és egyéb eszközbeszerzéseket és -felújításokat célzó projektjavaslatok megvalósítójaként jogszabályban vagy kormányhatározatban kijelölt szervezet;
 - 5. fordítóhely: az úszólétesítmény megfordulására alkalmas hely;
 - 5a. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet;
 - 6. gazdasági célú hajózási tevékenység: ellenszolgáltatásért, illetőleg egyéb gazdasági tevékenység kiszolgálása során, vagy annak érdekében végzett hajózási tevékenység;
@@ -1182,6 +1276,7 @@ rendeletben történő megállapítására.
 - j) az Európai Parlament és a Tanács (2009. április 23.) a hajótulajdonosok tengeri biztosítási kárigényre vonatkozó biztosításáról szóló 2009/20/EK irányelve a tengeri hajók kötelező biztosításáról szóló kormányrendelettel együtt,
 - k) az Európai Parlament és a Tanács (2012. november 21.) a tengerészek képzésének minimumszintjéről szóló 2008/106/EK irányelv módosításáról szóló 2012/35/EU irányelve a hajózási képesítésekről és a hajózási egészségi alkalmasság feltételeiről és vizsgálati rendjéről szóló miniszteri rendeletekkel együtt,
 - l) a Bizottság (2013. október 11.) a belvízi hajókra vonatkozó műszaki követelmények megállapításáról szóló 2006/87/EK európai parlamenti és tanácsi irányelv II. mellékletének módosításáról szóló 2013/49/EU irányelve,
-- m) a tengerészeti felszerelésekről és a 96/98/EK tanácsi irányelv hatályon kívül helyezéséről szóló 2014. július 23-i 2014/90/EU európai parlamenti és tanácsi irányelv.
+- m) a tengerészeti felszerelésekről és a 96/98/EK tanácsi irányelv hatályon kívül helyezéséről szóló 2014. július 23-i 2014/90/EU európai parlamenti és tanácsi irányelv,
+- n) az Európai Hajózási Szövetség (EBU), az Európai Hajósok Szervezete (ESO) és az Európai Közlekedési és Szállítási Dolgozók Szövetsége (ETF) által kötött, a munkaidő-szervezés egyes szempontjainak a belvízi hajózási ágazaton belüli szabályozásáról szóló európai megállapodás végrehajtásáról szóló, 2014. december 19-i 2014/112/EU tanácsi irányelv, az egyes foglalkoztatáspolitikai és egészségügyi tárgyú jogszabályokkal együtt.
 
 91–93. §

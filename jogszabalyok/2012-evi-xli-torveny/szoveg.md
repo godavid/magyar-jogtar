@@ -758,7 +758,7 @@ alapján meghatározott számviteli politikában rögzített, az átcsoportosít
 - b) azon utazási kedvezmények után, amelyet a támogatás alanya üzletpolitikai céllal nyújt, vagy
 - c) a nevelési-oktatási vagy gyermekvédelmi szakellátási feladatot ellátó intézménnyel (a továbbiakban együtt: intézmény) jogviszonyban álló gyermek, tanuló, ellátott részére – az állami intézményfenntartó központ (a továbbiakban: Központ) által fenntartott intézmény esetében a Központ, egyéb esetben az intézmény vagy annak fenntartója által történő vásárlások kivételével – a jogi személyek és a jogi személyiséggel nem rendelkező szervezetek által vásárolt jegyek, bérletek után.
 
-(5) A nemzeti mobil fizetési szervezet általi továbbértékesítés esetén a (4) bekezdés alkalmazásában a jegy vagy bérlet megvásárlójának az a személy minősül, aki azt a nemzeti mobil fizetési szervezettől vagy annak viszonteladójától megvásárolja.
+(5) A nemzeti mobil fizetési szervezet vagy közlekedésszervező általi továbbértékesítés esetén a (4) bekezdés alkalmazásában 2016. november 1-jétől a jegy vagy bérlet megvásárlójának az a személy minősül, aki azt a nemzeti mobil fizetési szervezettől vagy a közlekedésszervezőtől vagy ezek viszonteladójától megvásárolja.
 
 (6) A szociálpolitikai menetdíj-támogatást igénylő közlekedési szolgáltató köteles a (7)–(8) bekezdésekben meghatározott, támogatás igénybevételére nem jogosító jegy- és bérleteladásokat darabszám, érték és kedvezményes díjtípus szerint a támogatásra jogosító jegy- és bérleteladásoktól elkülönítve nyilvántartani.
 

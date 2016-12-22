@@ -98,27 +98,7 @@ lép.
 
 #### 17. Az egyes sportcélú ingatlanok tulajdoni helyzetének rendezéséről szóló 1996. évi LXV. törvény módosítása
 
-47. § Az egyes sportcélú ingatlanok tulajdoni helyzetének rendezéséről szóló 1996. évi LXV. törvény 5. §-a a következő (10)–(14) bekezdéssel egészül ki:
-
-„(10) A sportigazgatási szerv a sportcélú ingatlan elidegenítéséhez szükséges hozzájárulást az erre irányuló kérelem benyújtásától számított 8 napon belül – az (5) bekezdés szerinti feltételektől függetlenül – köteles kiadni abban az esetben, ha a (4) bekezdés szerinti elidegenítési tilalom időtartamából hátralevő idő nem haladja meg az 5 évet és az érintett sportcélú ingatlan elidegenítése folytán a magyar állam szerzi meg 1/1 tulajdoni arányban a sportcélú ingatlan tulajdonjogát.
-
-(11) A (10) bekezdés szerinti esetben a (4) bekezdés szerinti elidegenítési és terhelési tilalom a magyar állam tulajdonjogának megszerzésével egyidejűleg megszűnik.
-
-(12) A sportigazgatási szerv a sportcélú ingatlan megterheléséhez szükséges hozzájárulást az erre irányuló kérelem benyújtásától számított 8 napon belül – az (5) bekezdés szerinti feltételektől függetlenül – köteles kiadni abban az esetben, ha a (4) bekezdés szerinti terhelési tilalom időtartamából hátralevő idő nem haladja meg az 5 évet és a megterhelés folytán a magyar állam szerez jogosultságot az érintett sportcélú ingatlanon.
-
-(13) A (10) bekezdés, illetve a (12) bekezdés alkalmazása esetén a magyar állam által a tulajdonjog, illetve egyéb vagyoni értékű jog megszerzéséért teljesítendő ellenérték nem haladhatja meg az érintett ingatlan, illetve vagyoni értékű jog igazságügyi ingatlanforgalmi szakértő által megállapított értékének az 1. számú mellékletben meghatározott értékekkel csökkentett összegét.
-
-(14) A (10) és (12) bekezdés szerinti kérelemhez a sportszervezet mint kérelmező az ingatlan tulajdonjoga megszerzésének időpontját igazoló okiratot, valamint az ingatlan (10) bekezdés szerinti elidegenítésére, illetve (12) bekezdés szerinti terhelésére vonatkozó okiratokat, valamint a (13) bekezdés szerinti értékbecslést köteles csatolni.”
-
-48. § Az egyes sportcélú ingatlanok tulajdoni helyzetének rendezéséről szóló 1996. évi LXV. törvény 16. §-a helyébe a következő rendelkezés lép:
-
-„16. § 2012. január 1-je után ingyenesen szerzett sportcélú ingatlanok esetében az 5. § (5) bekezdés a) és b) pontjában foglalt rendelkezések, valamint a (10) bekezdés rendelkezései nem alkalmazhatóak.”
-
-49. § Az egyes sportcélú ingatlanok tulajdoni helyzetének rendezéséről szóló 1996. évi LXV. törvény a következő 16/A. §-sal egészül ki:
-
-„16/A. § Az 5. § (10) bekezdése alapján a magyar állam tulajdonába került sportcélú ingatlan esetében a Kormány nyilvános határozatban dönthet az ingatlan sportcéltól eltérő hasznosításáról.”
-
-50. § Az egyes sportcélú ingatlanok tulajdoni helyzetének rendezéséről szóló 1996. évi LXV. törvény a 2. melléklet szerinti 1. melléklettel egészül ki.
+47–50. §
 
 #### 18. Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény módosítása
 
@@ -126,9 +106,7 @@ lép.
 
 #### 19. A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény módosítása
 
-52. § A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 96. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) A nyugdíjbiztosítási igazgatási szervek a nyugdíjbiztosítás szervei közreműködésével nyújtott juttatások nyújtása, valamint a nyugdíjfolyósító szerv által folyósított ellátásokkal és a nyugdíjbiztosítás szervei közreműködésével nyújtott juttatásokkal kapcsolatos kormányzati tájékoztatás céljából, a tájékoztatás teljesítéséhez, valamint a juttatás nyújtásához és nyújtásának ellenőrzéséhez szükséges időtartamban kezelhetik az ellátásban, juttatásban részesülő személyek nevére, lakcímére, nyugdíjfolyósítási törzsszámára és a folyósított ellátásra, nyújtott juttatásra vonatkozó adatokat.”
+52. §
 
 #### 20. A gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló2008. évi XLVIII. törvény módosítása
 
@@ -159,14 +137,3 @@ lép.
 ### 1. melléklet a 2016. évi CLXXXII. törvényhez
 
 ### 2. melléklet a 2016. évi CLXXXII. törvényhez
-
-„1. melléklet az egyes sportcélú ingatlanok tulajdoni helyzetének rendezéséről szóló 1996. évi LXV. törvényhez
-
-| Forgalmi értéket az elidegenítési és terhelési tilalomból még fennálló évek alapján csökkentő összeg |  |
-| --- | --- |
-| fennálló elidegenítési és terhelési tilalom időtartama (év) | értékcsökkenés mértéke = forgalmi érték x [elidegenítési és terhelési tilalom fennálló időtartama (év)/15] |
-| 1 | értékcsökkenés mértéke = forgalmi érték x 1/15 |
-| 2 | értékcsökkenés mértéke = forgalmi érték x 2/15 |
-| 3 | értékcsökkenés mértéke = forgalmi érték x 3/15 |
-| 4 | értékcsökkenés mértéke = forgalmi érték x 4/15 |
-| 5 | értékcsökkenés mértéke = forgalmi érték x 5/15 |

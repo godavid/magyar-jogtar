@@ -16,8 +16,8 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
 
 2. § E törvény alkalmazása során
 
-- 1. Engedély-nyilvántartás: a járművezető és a járművezetésre jogosító okmány adatait, továbbá a járművezető forgalomban való részvételével összefüggő egyes jogosultságok és kötelezettségek fennállását igazoló adatokat tartalmazó nyilvántartás.
-- 2. Járműnyilvántartás: a járműtulajdonos (üzembentartó), a közúti közlekedésről szóló külön törvény alapján nyilvántartott jármű, illetve a járműokmány adatait, valamint az adatokban bekövetkezett változásokat (történeti állomány) tartalmazó nyilvántartás.
+- 1. Engedély-nyilvántartás: a járművezető és a járművezetésre jogosító okmány adatait, továbbá a járművezető forgalomban való részvételével összefüggő egyes jogosultságok és kötelezettségek fennállását igazoló adatokat tartalmazó elektronikus nyilvántartás.
+- 2. Járműnyilvántartás: a járműtulajdonos (üzembentartó), a közúti közlekedésről szóló külön törvény alapján nyilvántartott jármű, illetve a járműokmány adatait, valamint az adatokban bekövetkezett változásokat (történeti állomány) tartalmazó elektronikus nyilvántartás.
 - 3. Okmánytár: a nyilvántartás alapiratainak, a nyilvántartásban szereplő adatok változását igazoló okmányok, a cserélt, leadott és a visszavont okmányok nyilvántartása.
 - 4.
 - 5. Járműazonosító adat: a jármű hatósági jelzése (rendszám) és alvázszáma.
@@ -26,12 +26,12 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
 - 8. Csoportos adatszolgáltatás: az adatigénylő által meghatározott szempontok szerint képzett csoportba tartozó nyilvántartási adatok közlése.
 - 9. Üzembentartó: a jármű tulajdonosa, illetve akit a jármű jogszerű üzemeltetésére szerződés vagy más hitelt érdemlően igazolt jogcím alapján a járműnyilvántartásba bejegyeztek.
 - 10. A jármű előzetes eredetiségvizsgálata: olyan hatósági eljárás, melynek célja a járművek azonosító adatai és a jármű okmányok valódiságának megállapítása.
-- 11. Származás-ellenőrzési nyilvántartás: a külföldről belföldi forgalomba helyezés céljából behozott használt járművek és azok tulajdonosai (üzembentartói) adatainak, valamint a jármű származását igazoló okmányok adatainak és a származás-ellenőrzés eredményének nyilvántartása.
-- 12. Előzetes eredetiségvizsgálati nyilvántartás: az előzetes eredetiségvizsgálat során a vizsgált jármű megállapított műszaki és azonosító adatait, rögzített képi adatait, a kérelmező nevét és lakcímét, a vizsgálat eredményét, valamint a vizsgáló jogosultságazonosítóját tartalmazó nyilvántartás.
+- 11. Származás-ellenőrzési nyilvántartás: a külföldről belföldi forgalomba helyezés céljából behozott használt járművek és azok tulajdonosai (üzembentartói) adatainak, valamint a jármű származását igazoló okmányok adatainak és a származás-ellenőrzés eredményének elektronikus nyilvántartása.
+- 12. Előzetes eredetiségvizsgálati elektronikus nyilvántartás: az előzetes eredetiségvizsgálat során a vizsgált jármű megállapított műszaki és azonosító adatait, rögzített képi adatait, a kérelmező nevét és lakcímét, a vizsgálat eredményét, valamint a vizsgáló jogosultságazonosítóját tartalmazó elektronikus nyilvántartás.
 - 13. Történeti állomány: a járműnyilvántartás történeti állománya tartalmazza a járműnyilvántartás hatálya alá tartozó járműtulajdonos (üzembentartó) és a jármű minden eddigi, e törvény hatálya alá tartozó adatát és adatváltozását.
 - 14. Automatizált keresés: egy másik szerv automatizált állományaihoz való közvetlen hozzáférés, amely eljárás során a válasz is teljesen automatizált módon érkezik.
-- 15. Parkolási igazolvány nyilvántartása: az igazolvány használatára a mozgásában korlátozott személy parkolási igazolványáról szóló kormányrendeletben meghatározott jogosultak, valamint az igazolvány adatait tartalmazó közhiteles hatósági nyilvántartás.
-- 16. Útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartása: az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvény, valamint az autópályák, autóutak és főutak használati díjáról szóló miniszteri rendelet alapján mentességet élvező szervezetekről és járművekről vezetett nyilvántartás.
+- 15. Parkolási igazolvány nyilvántartása: az igazolvány használatára a mozgásában korlátozott személy parkolási igazolványáról szóló kormányrendeletben meghatározott jogosultak, valamint az igazolvány adatait tartalmazó közhiteles hatósági elektronikus nyilvántartás.
+- 16. Útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartása: az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvény, valamint az autópályák, autóutak és főutak használati díjáról szóló miniszteri rendelet alapján mentességet élvező szervezetekről és járművekről vezetett elektronikus nyilvántartás.
 
 ### II. Fejezet — A KÖZÚTI KÖZLEKEDÉSI NYILVÁNTARTÁS SZERVEZETE ÉS AZ ADATSZOLGÁLTATÁSI HATÁSKÖRÖK
 
@@ -145,7 +145,7 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
 
 (2) A járműnyilvántartás a külön jogszabályban meghatározottak szerint tartalmazza a jármű
 
-- a) azonosító és műszaki adatait, valamint motorjának egyedi azonosító jelét, illetve kódját,
+- a) azonosító és műszaki adatait, a műszaki érvényesség időtartamának végét vagy a műszaki alkalmatlanságának tényét, valamint motorkódját,
 - b) forgalomban tarthatóságának feltételeit,
 - c) forgalmazási korlátozására vonatkozó adatokat, ideértve az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására elrendelt zárlatra vonatkozó adatokat is,
 - d) a járműokmányok és a hatósági igazolványok, bizonyítványok, tanúsítványok okmányazonosító jelére, kiadására, érvényességére, cseréjére, visszavonására,
@@ -346,7 +346,8 @@ igényelhető.
 - b) a hivatásos katasztrófavédelmi szerv, a megyei, fővárosi védelmi bizottság elnöke és a polgármester törvényben meghatározott polgári védelmi feladatai ellátásához a 8. § (1) bekezdés a) pont ac), ad), ag), ah) alpontjában és a 9. § (1) bekezdés c) pontjában, és d) pont dc) alpontjában meghatározott adatok kivételével;
 - c) a közlekedési hatóság a 9/A–9/C. §-ban meghatározott nyilvántartási adatok kivételével
   - ca) a pályaalkalmassági, képzési, utánképzési és vizsgáztatási feladatai ellátásához a 8. §-ban meghatározott adatokat,
-  - cb) a jármű műszaki adatainak és alkalmasságának megállapításával kapcsolatos feladataik ellátásához a 9. §-ban meghatározott adatokat.
+  - cb) a jármű műszaki adatainak és alkalmasságának megállapításával kapcsolatos feladataik ellátásához a 9. §-ban meghatározott adatokat;
+- d) a közfeladatot ellátó személyek vagy szervezetek, továbbá a 19. §-ban nem nevesített egyéb hatóságok, állami vagy önkormányzati szervek a rájuk vonatkozó jogszabályban meghatározott célok és feltételek teljesülése esetén, az ott meghatározott adatokra vonatkozóan,
 
 (3) A külpolitikáért felelős miniszter által vezetett minisztérium konzuli szolgálata adatszolgáltatást igényelhet az érintett személy által közölt és a nyilvántartásban szereplő adatok egyezőségéről.
 
@@ -598,7 +599,8 @@ továbbítására jogosult.
   - bb) a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB tanácsi határozat végrehajtásáról szóló, 2008. június 23-i, 2008/616/IB tanácsi határozatnak,
   - bc) az egyrészről az Európai Unió, másrészről Izland és Norvégia között a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB tanácsi határozat, valamint a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB tanácsi határozat végrehajtásáról szóló, 2008/616/IB tanácsi határozat és melléklete egyes rendelkezéseinek alkalmazásáról szóló megállapodásnak az Európai Unió nevében történő aláírásáról és e megállapodás egyes rendelkezéseinek ideiglenes alkalmazásáról szóló, 2009. szeptember 21-i, 2009/1023/IB tanácsi határozatnak, továbbá
 - c) 27/B–27/C. §-a, 32. § (5)–(8) bekezdése és 32/A. §-a a közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértésekre vonatkozó információk határokon átnyúló cseréjének elősegítéséről szóló, 2015. március 11-i, 2015/413/EU európai parlamenti és tanácsi irányelv 4. és 7. cikkének, valamint I. Mellékletének
-- d) 27/D. §-a a vezetői engedélyekről szóló, 2006. december 20-ai 2006/126/EK európai parlamenti és tanácsi irányelv 7. cikk (5) bekezdésének
+- d) 27/D. §-a a vezetői engedélyekről szóló, 2006. december 20-ai 2006/126/EK európai parlamenti és tanácsi irányelv 7. cikk (5) bekezdésének,
+- e) a járművek nyilvántartásba vételéhez kapcsolódó okmányokról szóló 1999/37/EK tanácsi irányelv módosításáról szóló, 2014. április 3-i 2014/46/EU európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 

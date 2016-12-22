@@ -149,7 +149,7 @@ a–c)
 
 #### 14. Záró rendelkezések
 
-49. § (1) Ez a törvény – a (2)–(8) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+49. § (1) Ez a törvény – a (2)–(9) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
 
 (2) A 17. §, a 24. §, a 25. § i) pontja, a 3. alcím, az 5. és a 6. alcím, a 9. és a 10. alcím, a 46. § a) pontja a kihirdetést követő 8. napon lép hatályba.
 
@@ -163,7 +163,9 @@ a–c)
 
 (7) A 14. § (1) bekezdése, a 15. és a 16. §, a 21. § (4) bekezdése, a 22. § (2) bekezdése és a 23. § (2) bekezdése 2016. május 1-jén lép hatályba.
 
-(8) A 3. § (2) bekezdése, a 7. § (1) bekezdése, a 8. § (2) bekezdése és a 25. § g) pontja 2016. december 31-én lép hatályba.
+(8) A 3. § (2) bekezdése és a 25. § g) pontja 2017. február 22-én lép hatályba.
+
+(9) A 7. § (1) bekezdése és a 8. § (2) bekezdése 2017. szeptember 19-én lép hatályba.
 
 50. § Ez a törvény
 
