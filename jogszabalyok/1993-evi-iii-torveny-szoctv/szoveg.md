@@ -714,7 +714,7 @@ kell ismét folyósítani.
 
 (2) A 34. § (2) bekezdésében foglaltakon túl meg kell szüntetni az aktív korúak ellátására való jogosultságát annak a foglalkoztatást helyettesítő támogatásra jogosult személynek
 
-- a) aki az állami foglalkoztatási szervvel való együttműködés keretében számára felajánlott, az Flt. 54. § (10a), (10b), (10c) bekezdésében foglaltak szerinti munkalehetőséget nem fogadja el vagy a közfoglalkoztatásra irányuló jogviszonyát jogellenesen megszünteti, továbbá akinek a közfoglalkoztatásra irányuló jogviszonyát a munkáltató a munka törvénykönyvéről szóló 2012. évi I. törvény 78. §-a szerint azonnali hatályú felmondással szüntette meg;
+- a) aki az állami foglalkoztatási szervvel való együttműködés keretében számára felajánlott, az Flt. 54. § (10a), (10b), (10c) bekezdésében foglaltak szerinti munkalehetőséget nem fogadja el vagy a közfoglalkoztatásra irányuló jogviszonyát jogellenesen megszünteti, továbbá akinek a közfoglalkoztatásra irányuló jogviszonyát a munkáltató a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 78. §-a szerint azonnali hatályú felmondással szüntette meg;
 - b) akit az állami foglalkoztatási szerv – neki felróható okból – törölt az álláskeresők nyilvántartásából;
 - c) aki az állami foglalkoztatási szervnél az aktív korúak ellátásának megállapításáról szóló határozatban foglalt határidőig nem kérelmezi az álláskeresőként történő nyilvántartásba vételét; vagy
 - d)
@@ -1320,7 +1320,7 @@ miatt.
 
 63. § (1) Házi segítségnyújtás keretében a szolgáltatást igénybe vevő személy saját lakókörnyezetében kell biztosítani az önálló életvitel fenntartása érdekében szükséges ellátást.
 
-(2) A házi segítségnyújtás keretében szociális segítést vagy személyi gondozást kell nyújtani.
+(2) A házi segítségnyújtás keretében szociális segítést vagy – a szociális segítés tevékenységeit is magába foglaló – személyi gondozást kell nyújtani.
 
 (3) Szociális segítés keretében biztosítani kell
 
@@ -1486,7 +1486,7 @@ részére biztosít lehetőséget a napközbeni tartózkodásra, társas kapcsol
 66/A. § (1) Fogyatékos, pszichiátriai vagy szenvedélybeteg személyek számára a 67. § szerinti ellátást
 
 - a) nagy létszámú intézmény átalakítása esetén támogatott lakhatás,
-- b) új intézmény vagy új férőhely létrehozása esetén – a (2)–(5) bekezdésben foglaltak kivételével – a 75. § (2) bekezdés a) vagy b) pontja szerinti támogatott lakhatás
+- b) új intézmény vagy új férőhely létrehozása esetén – a (2) és (3) bekezdésben foglaltak kivételével – a 75. § (2) bekezdés a) vagy b) pontja szerinti támogatott lakhatás
 
 formájában kell nyújtani.
 
@@ -1893,11 +1893,11 @@ rendeletet alkot.
 
 (3) Azt a személyes gondoskodást végző személyt, aki szociális szakvizsgát tett, az ezt igazoló oklevél bemutatását követő harmadik hónap első napjától kezdődően a szakvizsga figyelembevételével kell besorolni.
 
-(4) Megszüntethető – a munka törvénykönyvéről szóló 2012. évi I. törvény 66. § (2) bekezdése, illetve a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 30. §-a (1) bekezdésének c) pontjára hivatkozással – annak a személyes gondoskodást végző személynek a munkaviszonya, illetve közalkalmazotti jogviszonya, aki a továbbképzési kötelezettséget a külön jogszabályban meghatározott időtartam alatt nem teljesíti.
+(4) Megszüntethető – az Mt. 66. § (2) bekezdése, illetve a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 30. §-a (1) bekezdésének c) pontjára hivatkozással – annak a személyes gondoskodást végző személynek a munkaviszonya, illetve közalkalmazotti jogviszonya, aki a továbbképzési kötelezettséget a külön jogszabályban meghatározott időtartam alatt nem teljesíti.
 
 92/E. § (1) A személyes gondoskodást végző személy e törvényben meghatározott adatait működési nyilvántartásba kell venni.
 
-(2) A működési nyilvántartás célja a személyes gondoskodást végző személy szakvizsgáztatásának, továbbképzésének megszervezése, valamint a képzési követelmények teljesítésének ellenőrzése.
+(2) A működési nyilvántartás célja a személyes gondoskodást végző személy szakvizsgáztatásának, továbbképzésének és a vezetői megbízással rendelkező személyek képzésének megszervezése, valamint a képzési követelmények teljesítésének ellenőrzése.
 
 (3) A szociális személyes gondoskodást, valamint a gyermekjóléti, gyermekvédelmi személyes gondoskodást végző személy esetében a működési nyilvántartást a szociál- és nyugdíjpolitikáért felelős miniszter által kijelölt szerv vezeti.
 
@@ -2205,7 +2205,7 @@ való jogra.
 
 (2) Az Eütv. 192. §-a alkalmazása során az Eütv. szerinti kezelőorvos feladatait az intézmény orvosa látja el, valamint a korlátozó módszerek, eljárások (a továbbiakban együtt: korlátozó intézkedés) alkalmazását a külön jogszabályban meghatározott írásos formában kell dokumentálni. Az intézmény orvosának elérhetősége hiányában az intézményvezető által műszakonként kijelölt, a korlátozó intézkedés alkalmazására döntési joggal rendelkező ápoló jogosult az intézkedés elrendelésére, ebben az esetben az intézmény orvosát és az intézmény vezetőjét a korlátozó intézkedés alkalmazásáról haladéktalanul tájékoztatni kell.
 
-(3) Az intézmény orvosa a korlátozó intézkedés alkalmazásáról tájékoztatja az intézmény vezetőjét. Az intézményvezető feladata az intézkedéshez szükséges feltételek, illetve szükség esetén a többi ellátott védelmének biztosítása. A korlátozásról az intézményvezető negyvennyolc órán belül köteles tájékoztatni a törvényes képviselőt és az ellátottjogi képviselőt.
+(3) Az intézmény orvosa a korlátozó intézkedés alkalmazásáról tájékoztatja az intézmény vezetőjét. Az intézményvezető feladata az intézkedéshez szükséges feltételek, illetve szükség esetén a többi ellátott védelmének biztosítása. A korlátozásról az intézményvezető haladéktalanul köteles tájékoztatni a törvényes képviselőt és az ellátottjogi képviselőt.
 
 (4) A korlátozó intézkedés alkalmazása ellen az ellátást igénybe vevő vagy törvényes képviselője panasszal élhet az intézmény fenntartójánál. A panasz kivizsgálásához és a döntéshez a fenntartó szakértőként pszichiáter szakorvost vesz igénybe.
 
@@ -2324,7 +2324,7 @@ való jogra.
 - c) a bentlakásos intézményi elhelyezéskor a jogosult és hozzátartozói közötti kapcsolattartás, különösen a látogatás, a távozás és a visszatérés rendjéről;
 - d) panaszjoguk gyakorlásának módjáról;
 - e) az intézményi jogviszony megszűnésének eseteiről;
-- f) az intézmény házirendjéről;
+- f) az intézmény házirendjéről, támogatott lakhatás esetén az együttélés szabályairól;
 - g) a fizetendő térítési díjról, teljesítési feltételeiről, továbbá a mulasztás következményeiről.
 - h) a jogosult jogait és érdekeit képviselő társadalmi szervezetekről.
 
@@ -2449,7 +2449,7 @@ való jogra.
 
 - a) az intézmény jogutód nélküli megszűnésével,
 - b) a jogosult halálával,
-- c) a határozott idejű intézeti elhelyezés esetén a megjelölt időtartam lejártával, kivéve ha e törvény rendelkezései alapján az elhelyezés időtartama meghosszabbítható,
+- c) a határozott idejű intézeti elhelyezés esetén a megjelölt időtartam lejártával, kivéve ha e törvény rendelkezései alapján az elhelyezés időtartamát meghosszabbítják,
 - d) a 94/C. § szerinti megállapodás felmondásával.
 
 101. § (1) A 94/C. § szerinti megállapodást
@@ -2466,12 +2466,15 @@ való jogra.
 
 - a) az ellátott másik intézményben történő elhelyezése indokolt vagy további intézményi elhelyezése nem indokolt,
 - b) az ellátott a házirendet súlyosan megsérti,
-- c) az ellátott, a törvényes képviselője vagy a térítési díjat megfizető személy térítésidíj-fizetési kötelezettségének – a 102. § szerint – nem tesz eleget.
+- c) az ellátott, a törvényes képviselője vagy a térítési díjat megfizető személy térítésidíj-fizetési kötelezettségének – a 102. § szerint – nem tesz eleget,
+- d) az ellátott jogosultsága megszűnik.
 
 (3) A felmondási idő, ha a 94/C. § szerinti megállapodás másként nem rendelkezik
 
 - a) alapszolgáltatás esetén tizenöt nap,
 - b) bentlakásos intézmény esetén három hónap.
+
+(3a) Ha a jogosultság jogszabályváltozás miatt szűnik meg, alapszolgáltatás esetén a megállapodást a jogszabályban megjelölt időponttal a (3) bekezdés a) pontja szerinti időtartamon belül is fel lehet mondani.
 
 (4) Az (1) bekezdés b) pontja szerinti esetben, ha a felmondás jogszerűségét az ellátott, a törvényes képviselője, a térítési díjat vagy az egyszeri hozzájárulást megfizető személy vitatja, az arról szóló értesítés kézhezvételétől számított nyolc napon belül a fenntartóhoz fordulhat.
 
@@ -2544,7 +2547,8 @@ való jogra.
 
 - a) egészségi állapotának megváltozása miatt indokolt, vagy nem egészségi állapotának megfelelő intézménybe került elhelyezésre,
 - b) az adott intézményben állapotára tekintettel tovább nem rehabilitálható,
-- c) a házirendet többször, súlyosan megsérti és emiatt az érdekképviseleti fórum a jogosult áthelyezését javasolja.
+- c) a házirendet többször, súlyosan megsérti és emiatt az érdekképviseleti fórum a jogosult áthelyezését javasolja,
+- d) támogatott lakhatás esetében az együttélés szabályait olyan súlyosan megszegi, hogy azzal az igénybevevők testi és lelki épségét vagy vagyonát veszélyezteti.
 
 (3) Ha az intézményi jogviszonyt
 
@@ -2914,7 +2918,7 @@ járul hozzá.
 
 131. § A szociális szakmai programok meghirdetésével kell elősegíteni a fenntartó számára a szociális intézmények olyan mértékű fejlesztésének támogatását, hogy az érintett önkormányzatok eleget tudjanak tenni az e törvényben előírt kötelezettségüknek.
 
-131/A. § A szenvedélybetegek részére nyújtott alacsonyküszöbű ellátás és az utcai szociális munka működtetését az állam – a jogszabályban meghatározott eljárási rend szerint kiválasztott – fenntartókkal kötött finanszírozási szerződések útján támogatja. A finanszírozási szerződést – ha jogszabály másként nem rendelkezik – három évre kell megkötni. Az éves támogatási összeget a költségvetési törvény állapítja meg.
+131/A. § A szenvedélybetegek részére nyújtott alacsonyküszöbű ellátás, utcai szociális munka és a fejlesztő foglalkoztatás működtetését az állam – a jogszabályban meghatározott eljárási rend szerint kiválasztott – fenntartókkal kötött finanszírozási szerződések útján támogatja. A finanszírozási szerződést – ha jogszabály másként nem rendelkezik – három évre kell megkötni. Az éves támogatási összeget a költségvetési törvény állapítja meg.
 
 131/B. § Az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv által fenntartott szociális szolgáltatások fenntartásának költségeit az állam feladatfinanszírozás útján biztosítja.
 
@@ -2936,7 +2940,7 @@ járul hozzá.
 - m) a szociális foglalkoztatás engedélyezésének és ellenőrzésének, valamint a szociális foglalkoztatási támogatás igénylésének és a támogatás felhasználása ellenőrzésének szabályait,
 - n) a szociális hatóság és a szociális szakértői szerv kijelölését;
 - o) az idősek otthonában nyújtott tartós szakápolás igénybevételének módját és annak egyéb feltételeit,
-- p) a szenvedélybetegek részére nyújtott alacsonyküszöbű ellátás és az utcai szociális munka finanszírozásának rendjére vonatkozó részletes szabályokat;
+- p) a szenvedélybetegek részére nyújtott alacsonyküszöbű ellátás, utcai szociális munka és a fejlesztő foglalkoztatás finanszírozásának rendjére vonatkozó részletes szabályokat;
 - q) a személyes gondoskodás igénybevételével kapcsolatos eljárásokban közreműködő szakértőkre, szakértői szervekre vonatkozó részletes szabályokat;
 - r) a szociális intézményekben ellátott személyek állapotának felülvizsgálatára, a rehabilitációs alkalmassági vizsgálatra, a fogyatékos személyek alapvizsgálatára, valamint a komplex szükségletfelmérésre vonatkozó szabályokat;
 - s) a bírság megállapításának és megfizetésének részletes eljárási szabályait;
@@ -3067,7 +3071,21 @@ járul hozzá.
 
 (4) A 2016. évben a szociális ágazati pótlékhoz és annak közterheihez nyújtott támogatásra a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény (a továbbiakban: Kvtv.) 8. melléklet IV. pontjában foglaltakon túl, az ott meghatározottak szerint az a fenntartó is jogosult, amely a Kvtv. 9. melléklet I. pontja alapján támogatásban részesül.
 
-138. §
+138. § (1) A házi segítségnyújtás gondozási óraszámának az egyes szociális és gyermekvédelmi tárgyú törvények módosításáról szóló 2016. évi CLXVI. törvénnyel történő hatályon kívül helyezése miatt a gondozási szükséglet vizsgálatát nem kell ismételten elvégezni. A hatályos megállapodásoknak a gondozási óraszámot meghatározó rendelkezése törvény erejénél fogva hatályát veszti, a megállapodásból csak annak soron következő módosítása során kell törölni. Egyebekben a szolgáltatást változatlan feltételek mellett kell tovább biztosítani.
+
+(2) A fejlesztő foglalkoztatás állami támogatásának az egyes szociális és gyermekvédelmi tárgyú törvények módosításáról szóló 2016. évi CLXVI. törvénnyel megállapított 131/A. §-ban foglalt szabályait a 2017. április 1-jétől járó állami támogatásra kell először alkalmazni azzal, hogy a 2017. évi fajlagos támogatási összeget nem a központi költségvetésről szóló törvény állapítja meg. A szociális foglalkoztatási támogatásra kötött, 2016. december 31-éig hatályos támogatási szerződések hatálya 2017. március 31-éig meghosszabbodik, esetükben a támogatási időszak 2017. március 31-éig tart. A szociális foglalkoztatás 2017. április 1-jét megelőző időszakra nyújtott állami támogatására 2017. március 31-ét követően is a 2017. március 31-én hatályos rendelkezéseket kell alkalmazni.
+
+(3) A 2017. március 31-én hatályos 99/C. § (1) bekezdése szerinti nyilvántartás adatait 2019. január 2-án kell törölni.
+
+(4) Átmeneti elhelyezést nyújtó intézmény – az éjjeli menedékhely és a hajléktalan személyek átmeneti szállása kivételével – 2022. december 31-éig működhet. Az e szabály alapján, az egyes szociális és gyermekvédelmi tárgyú törvények módosításáról szóló 2016. évi CLXVI. törvény hatálybalépését követően átalakuló átmeneti elhelyezést nyújtó intézmények az átalakulást megelőzően befogadott férőhelyszámuk erejéig a finanszírozási rendszerbe az átalakulást követően is befogadottnak minősülnek a törvény erejénél fogva.
+
+(5) A 2016. február 1-jén házi segítségnyújtásra befogadott ellátotti számmal rendelkező, 63. § (9) bekezdése alá nem tartozó intézmény, szolgáltató (székhely, telephely) esetében a 2016. február 1-jén az adott intézményben, szolgáltatónál (székhelyen, telephelyen) személyi gondozásra megállapodással rendelkező ellátottak száma törvény erejénél fogva befogadottnak minősül az egyes szociális és gyermekvédelmi tárgyú törvények módosításáról szóló 2016. évi CLXVI. törvény hatálybalépésének időpontjában. A személyi gondozásra megállapodással rendelkező ellátottak számának meghatározásakor az igénybevevői nyilvántartás adatai az irányadóak.
+
+(6) A személyi gondozás (5) bekezdés szerint meghatározott létszámához képest a személyi gondozásra vonatkozó megállapodások számának növekedése esetén a személyi gondozásra történő további befogadás a szociál- és nyugdíjpolitikáért felelős miniszter által közzétett közleményben meghatározott kapacitás szerint történik, amelynek mértéke – a 2016. február 1-jei állapotnak megfelelően személyi gondozásra irányuló megállapodásokkal egybeszámítva – nem haladhatja meg országosan a 35 000 fős ellátotti számot.
+
+(7) A 2008. január 1-jét megelőzően hatályos jogszabályok szerinti, a szolgáltatói nyilvántartásba jogerősen bejegyzett emelt szintű férőhelyekre – ha a fenntartó nem dönt a 140/W. § alkalmazásáról – a 2007. december 31-én hatályos 92/C. §-a (5) bekezdés b) pontját és 117/B. §-t alkalmazni kell.
+
+(8) Az egyes szociális és gyermekvédelmi tárgyú törvények módosításáról szóló 2016. évi CLXVI. törvénnyel megállapított 20. § (2) bekezdés e) pontjában, 114. § (3) bekezdésében és 117/D. §-ában foglaltakat a 2017. január 1-jét követően létrejövő tartós bentlakásos intézményi jogviszonyok esetében kell alkalmazni.
 
 139. § (1) A törvény 18—24. §-ainak rendelkezéseit kell alkalmazni a törvény által nem szabályozott, az önkormányzat képviselő-testülete, a polgármester, valamint a jegyző, a járási hivatal feladat- és hatáskörébe tartozó szociális ellátásokról és szolgáltatásokról vezetett, személyes adatokat is tartalmazó nyilvántartásokra.
 
