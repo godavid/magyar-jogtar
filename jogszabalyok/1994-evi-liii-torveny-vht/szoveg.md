@@ -1780,7 +1780,7 @@ eredő követelések fejében vonható végrehajtás alá.
 
 140. § (1) A végrehajtó az ingatlan értékesítése előtt a 6 hónapnál nem régebbi adó- és értékbizonyítványt is figyelembe véve vagy – bármelyik fél erre irányuló kérelmére – igazságügyi szakértő szakvéleménye alapján megállapítja az ingatlan becsértékét mind a beköltözhető, mind pedig a lakott állapotban történő értékesítés esetére. Az adó- és értékbizonyítványnak, illetve a igazságügyi szakértő szakvéleményének tartalmaznia kell azt, hogy az ingatlan a 147. § (3) bekezdése szerint lakóingatlannak minősül-e.
 
-(2) A végrehajtó az ingatlan becsértékét közli a felekkel és azokkal, akiknek az ingatlanra vonatkozóan az ingatlan-nyilvántartásba bejegyzett joguk van.
+(2) A végrehajtó az ingatlan becsértékét közli a felekkel és azokkal, akiknek az ingatlanra vonatkozóan az ingatlan-nyilvántartásba bejegyzett joguk van, valamint föld értékesítése esetében a Nemzeti Földalappal is.
 
 (3) Ha nem állnak fenn a 141. § (3) bekezdésének a)–d) pontjában foglalt feltételek, a végrehajtó a becsérték közlésével egyidejűleg tájékoztatja a végrehajtást kérőt arról, hogy az ingatlan lakott állapotban történő értékesítésére akkor kerül sor, ha az erre irányuló kérelmét a tájékoztatás kézhezvételétől számított 15 napon belül előterjeszti a végrehajtónál.
 
@@ -4367,6 +4367,8 @@ a lakóingatlan kiürítését – a (3) bekezdésben foglalt kivétellel – a 
 (3) E törvénynek a 2016. évi XXXII. törvénnyel megállapított 147. § (5) bekezdését a 2016. évi XXXII. törvény hatályba lépését követően megindított végrehajtási eljárásban lefoglalt, illetve értékesített, valamint azokra a lakóingatlanokra kell alkalmazni, amelyek kiürítését a 2016. évi XXXII. törvény hatályba lépését követően kérelmezték.
 
 (4) E törvénynek a 2016. évi XXXII. törvénnyel megállapított 154/A. § (11) és (12) bekezdését azokra a lakóingatlanokra kell alkalmazni, amelyek kiürítését a 2016. évi XXXII. törvény hatályba lépését követően kérelmezték.
+
+306/W. § E törvénynek a jogi segítségnyújtásról szóló 2003. évi LXXX. törvény és egyes törvények eljárásjogi kérdésekkel összefüggő módosításáról szóló 2016. évi CLVIII. törvénnyel (a továbbiakban: Módtv.) megállapított 140. § (2) bekezdését azokban a Módtv. hatálybalépésekor folyamatban lévő végrehajtási eljárásokban is alkalmazni kell, amelyekben a Módtv. hatálybalépését megelőzően a becsérték közlésére már sor került, de a végrehajtó még nem küldte meg a mező- és erdőgazdasági hasznosítású földek végrehajtási, felszámolási vagy önkormányzati adósságrendezési eljárás keretében árverés útján történő értékesítésének szabályairól szóló 191/2014. (VII. 31.) Korm. rendelet 1. §-a szerinti megkeresést az árverés lefolytatása érdekében a föld fekvése szerint illetékes mezőgazdasági igazgatási szervnek.
 
 ### Felhatalmazás
 
