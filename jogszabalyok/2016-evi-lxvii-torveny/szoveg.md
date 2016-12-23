@@ -562,7 +562,7 @@ lép.
 
 (6) A 39–44. § 2017. január 18-án lép hatályba.
 
-(7) A 143. § és a 6. melléklet 2017. december 31-én lép hatályba.
+(7)
 
 (8) A 61. § (1) bekezdése és a 65. § (2) bekezdése 2018. január 1-jén lép hatályba.
 

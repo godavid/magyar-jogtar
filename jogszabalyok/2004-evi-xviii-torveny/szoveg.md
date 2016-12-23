@@ -66,6 +66,8 @@ terület lehet.
 
 (3) A hegybíró kezdeményezi az arra jogosult szervnél az eredeti állapot helyreállításának elrendelését, ha megállapítja, hogy a hegyközség hozzájárulása nélkül került sor a termőhelyi kataszterbe sorolt területen a (2) bekezdés szerinti, csemegeszőlő kivételével gyümölcsös, erdő telepítésére, fásításra vagy halastó, nádas létesítésére.
 
+(4) Borszőlő termőhelyi kataszterbe sorolt zártkertként nyilvántartott ingatlan művelési ágának az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 89/A. §-a alapján művelés alól kivett területként történő átvezetésének kezdeményezéséhez mellékelni kell a hegybíró igazolását arról, hogy az ingatlanon az ültetvény kivágásra került.
+
 ### Telepíthető fajták
 
 5. § (1) Árutermő szőlőültetvény létesítésére és pótlására az e törvény felhatalmazása alapján kiadott rendeletben meghatározott, engedélyezettként osztályba sorolt borszőlőfajta használható fel.
