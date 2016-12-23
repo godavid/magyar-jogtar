@@ -989,6 +989,8 @@ igényli.
 
 (2) Az ingatlan-nyilvántartási hatóság kérelemre, az (1) bekezdésben foglaltakon kívül más közigazgatási hatóságok részére a törvényben meghatározott adatátvételi joguk gyakorlása során a hatósági ügyek ellátásához szükséges egyedi adatok lekérdezése céljából lehetővé teszi, hogy saját számítástechnikai eszközeikkel, az adatkezelést végzők megfelelő azonosítása mellett a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait igénybe vegyék.
 
+(3) A miniszter a szakmai irányításával összefüggő feladatai ellátása érdekében térítésmentesen és korlátlanul hozzáférhet a földmérési és térinformatikai államigazgatási szerv által kezelt és üzemeltetett adatbázisokhoz.
+
 73. § (1) A közjegyző a közjegyzői okirat és tanúsítvány kiállítása, valamint a hatáskörébe utalt hagyatéki és egyéb nem peres eljárás lefolytatása céljából a székhelyén lévő irodájában működtetett saját számítástechnikai eszközével köteles a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait igénybe venni. Közös irodát fenntartó közjegyzők személyük azonosítására alkalmas módon közös számítástechnikai eszközt működtethetnek. Az ingatlan-nyilvántartási hatóság a közjegyző részére kérelem alapján biztosítja a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait.
 
 (2) A közjegyzőkről, a közjegyzői szolgálat megszűnéséről, illetve a közjegyzőnek a hivatalából való felfüggesztéséről – azzal egyidejűleg – az illetékes közjegyzői kamara elnöke értesíti az ingatlanügyi hatóságot, amely ennek alapján a közjegyző hozzáférési jogosultságát felfüggeszti vagy visszavonja.
@@ -1100,7 +1102,7 @@ a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait.
 
 ### Zártkerti ingatlan művelés alóli kivonása
 
-89/A. § (1) A tulajdonos – e törvény végrehajtására kiadott rendeletben meghatározottak szerint – 2016. december 31-ig kérheti az ingatlan-nyilvántartásban zártkertként nyilvántartott ingatlana (a továbbiakban: zártkerti ingatlan) művelési ágának művelés alól kivett területként történő átvezetését.
+89/A. § (1) A tulajdonos – e törvény végrehajtására kiadott rendeletben meghatározottak szerint – 2017. december 31-ig kérheti az ingatlan-nyilvántartásban zártkertként nyilvántartott ingatlana (a továbbiakban: zártkerti ingatlan) művelési ágának művelés alól kivett területként történő átvezetését.
 
 (2) A zártkerti ingatlan művelési ágának művelés alól kivett területként történő átvezetése a zártkerti ingatlan meghatározott részére is kérhető. Ez esetben a zártkerti ingatlant meg kell osztani.
 
