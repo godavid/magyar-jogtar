@@ -43,7 +43,11 @@ lép.
 
 #### 5. A műsorterjesztés és a digitális átállás szabályairól szóló 2007. évi LXXIV. törvény módosítása
 
-34–35. §
+34. § A műsorterjesztés és a digitális átállás szabályairól szóló 2007. évi LXXIV. törvény (a továbbiakban: Dtv.) 43/A. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) Az (1) bekezdés b) pontja alapján ideiglenes digitális műsorszórási jogosultsággal is rendelkező médiaszolgáltató a Hivatalnál kezdeményezheti az általa üzemeltetett digitális műsorszóró adó ellátottság-növekedéssel járó teljesítmény emelése érdekében rádióengedélye módosítását legkésőbb a helyi és körzeti vételkörzetű, földfelszíni műsorszórás útján terjesztett audiovizuális médiaszolgáltatások digitális műsorszórásra történő átállásának 38. § (1) bekezdésében meghatározott határideje előtt 24 hónappal. A médiaszolgáltató kérelme előterjesztésével egyidejűleg nyilatkozatában tudomásul veszi, hogy az ellátottság-növekedéssel járó teljesítményemelés engedélyezése esetén az Mttv. 44. §-a alapján a médiaszolgáltatás után a vételkörzet növekedéssel arányos, módosított médiaszolgáltatási díjat kell fizetnie. A rádióengedély módosításáról szóló határozat jogerőre emelkedését követő öt napon belül a médiaszolgáltató köteles kezdeményezni médiaszolgáltatási jogosultságának módosítását.”
+
+35. § A Dtv. 38. § (1) bekezdésében a „2017. december 31-ig” szövegrész helyébe a „2020. szeptember 5-ig” szöveg lép.
 
 #### 6. A településkép védelméről szóló 2016. évi LXXIV. törvény módosítása
 
