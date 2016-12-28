@@ -177,9 +177,13 @@ az egyes fizetési szolgáltatókról
 
 12/A. § (1) A fizetési számlavezetésre engedéllyel rendelkező pénzforgalmi intézménynek és elektronikuspénz-kibocsátó intézménynek a tevékenysége végzésére csak olyan informatikai rendszer felhasználásával kerülhet sor, amely biztosítja a rendszerelemek zártságát, és megakadályozza az informatikai rendszerhez történő jogosulatlan hozzáférést, valamint észrevétlen módosítását. Az informatikai rendszernek meg kell felelnie az általános információbiztonsági zártsági követelményeknek is. Ennek érdekében a pénzforgalmi intézménynek és elektronikuspénz-kibocsátó intézménynek adminisztratív, fizikai és logikai intézkedésekkel biztosítani kell az általános információbiztonsági zártsági követelmények teljesülését.
 
-(2) Az (1) bekezdésben meghatározott követelményeknek való megfelelést külső szakértő (a továbbiakban: tanúsító szervezet) által kiadott, az informatikai rendszerre vonatkozó tanúsítással kell igazolni. A tanúsító szervezettel és a tanúsítással szemben támasztott követelményeket külön jogszabály határozza meg.
+(2) Az (1) bekezdésben meghatározott követelményeknek való megfelelést külső szakértő (a továbbiakban: tanúsító szervezet) által kiadott, az informatikai rendszerre vonatkozó tanúsítással kell igazolni. A tanúsító szervezettel, a tanúsítással és a tanúsítási eljárás – általános forgalmi adó nélkül számított – maximális díjával szemben támasztott követelményeket külön jogszabály határozza meg.
 
 (3) A (2) bekezdés szerinti tanúsító szervezet írásban haladéktalanul tájékoztatja a Felügyeletet, ha a pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmény informatikai rendszerével kapcsolatosan olyan tényt állapít meg, amely a pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmény folyamatos működését kedvezőtlenül érinti, vagy bűncselekmény elkövetésére, jogszabály megsértésére vagy a pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmény belső szabályzatának súlyos megsértésére vagy ezek veszélyére utaló körülményeket észlel.
+
+(4) A tanúsító szervezet és alvállalkozója a vizsgált intézmény kezelésében lévő, a tanúsítás lefolytatásához szükséges adatokat – ideértve a személyes adatokat és üzleti titkokat is – a tanúsítással igazolandó követelmények teljesülésének vizsgálata céljából, a tanúsítási eljárás lefolytatásához szükséges mértékben, a tanúsítási eljárás befejezéséig jogosult kezelni, azokat harmadik személy részére nem továbbíthatja.
+
+(5) A tanúsító szervezet és alvállalkozója köteles szabályzatban rögzíteni azon munkaköröket, amelyeket betöltő személyek a tanúsítási eljárás során az üzleti titkokhoz hozzáférhetnek, annak tartalmát megismerhetik. Az eljárásban részt vevő munkatársakat a tanúsítási eljárás során tudomásukra jutott üzleti titok tekintetében titoktartási kötelezettség terheli a tanúsító szervezetnél fennálló jogviszonyuk megszűnését követően is
 
 13. § A pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény befolyásoló részesedéssel rendelkező tulajdonosa csak olyan személy lehet,
 
@@ -808,7 +812,8 @@ szemben.
 
 - a) a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény ügyfele, annak törvényes képviselője a rá vonatkozó kiszolgáltatható fizetési titokkört pontosan megjelölve közokiratba vagy teljes bizonyító erejű magánokiratba foglaltan kéri, vagy erre felhatalmazást ad; nem szükséges a közokiratba, teljes bizonyító erejű magánokiratba foglalás, ha az ügyfél ezt az írásbeli nyilatkozatát a pénzforgalmi intézménnyel, elektronikuspénz-kibocsátó intézménnyel történő szerződéskötés keretében – ideértve a fizetési számla váltását is – nyújtja,
 - b) e törvény a fizetési titok megtartásának kötelezettsége alól felmentést ad,
-- c) a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény érdeke ezt az ügyféllel szemben fennálló követelése eladásához vagy lejárt követelése érvényesítéséhez szükségessé teszi.
+- c) a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény érdeke ezt az ügyféllel szemben fennálló követelése eladásához vagy lejárt követelése érvényesítéséhez szükségessé teszi,
+- d) a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény által megbízott tanúsító szervezet és alvállalkozója ezt a tanúsítási eljárás lefolytatása keretében ismeri meg.
 
 (2) Az (1) bekezdés b) pontjában foglaltak alapján a fizetési titok megtartásának kötelezettsége nem áll fenn
 
@@ -1292,7 +1297,7 @@ végzését.
 
 88. § Felhatalmazást kap a Kormány, hogy rendeletben szabályozza
 
-- a) a pénzforgalmi intézmény, az elektronikuspénz-kibocsátó intézmény és a pénzforgalmi szolgáltatási, elektronikuspénz-kibocsátási tevékenységet végző Posta Elszámoló Központot működtető intézmény informatikai rendszerének biztonsági követelményeit, és
+- a) a pénzforgalmi intézmény, az elektronikuspénz-kibocsátó intézmény és a pénzforgalmi szolgáltatási, elektronikuspénz-kibocsátási tevékenységet végző Posta Elszámoló Központot működtető intézmény informatikai rendszerének biztonsági követelményeit, továbbá a pénzforgalmi intézmény, az elektronikuspénz-kibocsátó intézmény vonatkozásában a biztonsági tanúsítási eljárás lefolytatásának – általános forgalmi adó nélkül számított – maximális díjára vonatkozó mértéket és
 - b) a közvetítői díj meghatározásának és kifizetésének módját, időbeli ütemezését.
 
 89. § (1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – 2014. január 1-jén lép hatályba.

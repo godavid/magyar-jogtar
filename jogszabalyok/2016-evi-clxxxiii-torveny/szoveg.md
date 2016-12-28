@@ -8,7 +8,9 @@ egyes energetikai tárgyú törvények árszabályozási célú módosításár�
 
 2. § (1)
 
-(2)
+(2) A Vet. 146. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) Az egyetemes szolgáltató az (1) bekezdés szerinti külön díjakat és alkalmazásuk szabályait legkésőbb a külön díjak alkalmazhatósága előtt 1 nappal a honlapján és az ügyfélszolgálaton közzéteszi.”
 
 3. §
 
@@ -17,7 +19,7 @@ egyes energetikai tárgyú törvények árszabályozási célú módosításár�
 5. § A Vet.
 
 - 1–4.
-- 5.
+- 5. 143. § (9) bekezdésében a „határozatában” szövegrész helyébe a „rendeletében” szöveg és a „20” szövegrész helyébe az „1” szöveg,
 - 6–11.
 
 lép.
@@ -31,7 +33,7 @@ lép.
 11. § A Get.
 
 - 1–3.
-- 4.
+- 4. 104. § (4a) bekezdésében az „az árat meghatározó rendelet kihirdetését követő 3 munkanapon belül vagy az árat meghatározó határozat esetében” szövegrész helyébe a „legkésőbb” szöveg és a „20” szövegrész helyébe az „1” szöveg,
 - 5–9.
 
 lép.

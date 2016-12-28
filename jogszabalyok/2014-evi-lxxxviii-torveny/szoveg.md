@@ -1160,9 +1160,13 @@ kapcsolatos, a biztosítók és a viszontbiztosítók szavatolótőkéjéről é
 
 (4) A biztosítónak és a viszontbiztosítónak a tevékenysége végzésére csak olyan informatikai rendszer felhasználásával kerülhet sor, amely biztosítja a rendszerelemek zártságát, és megakadályozza az informatikai rendszerhez történő jogosulatlan hozzáférést, valamint észrevétlen módosítását. Az informatikai rendszernek meg kell felelnie az általános információbiztonsági zártsági követelményeknek is. Ennek érdekében a biztosítónak és a viszontbiztosítónak adminisztratív, fizikai és logikai intézkedésekkel biztosítania kell az általános információbiztonsági zártsági követelmények teljesülését.
 
-(5) A (4) bekezdésben meghatározott követelményeknek való megfelelést külső szakértő (a továbbiakban: tanúsító szervezet) által kiadott, az informatikai rendszerre vonatkozó tanúsítással kell igazolni. A tanúsító szervezettel és a tanúsítással szemben támasztott követelményeket külön jogszabály határozza meg.
+(5) A (4) bekezdésben meghatározott követelményeknek való megfelelést külső szakértő (a továbbiakban: tanúsító szervezet) által kiadott, az informatikai rendszerre vonatkozó tanúsítással kell igazolni. A tanúsító szervezettel, a tanúsítással és a tanúsítási eljárás – általános forgalmi adó nélkül számított – maximális díjával szemben támasztott követelményeket külön jogszabály határozza meg.
 
 (6) Az (5) bekezdés szerinti tanúsító szervezet írásban haladéktalanul tájékoztatja a Felügyeletet, ha a biztosító és a viszontbiztosító informatikai rendszerével kapcsolatosan olyan tényt állapít meg, amely a biztosító és a viszontbiztosító folyamatos működését kedvezőtlenül érinti vagy bűncselekmény elkövetésére, jogszabály megsértésére vagy a biztosító és a viszontbiztosító belső szabályzatának súlyos megsértésére vagy ezek veszélyére utaló körülményeket észlel.
+
+(7) A tanúsító szervezet és alvállalkozója a vizsgált intézmény kezelésében lévő, a tanúsítás lefolytatásához szükséges adatokat – ideértve a személyes adatokat és üzleti titkokat is – a tanúsítással igazolandó követelmények teljesülésének vizsgálata céljából, a tanúsítási eljárás lefolytatásához szükséges mértékben, a tanúsítási eljárás befejezéséig jogosult kezelni, azokat harmadik személy részére nem továbbíthatja.
+
+(8) A tanúsító szervezet és alvállalkozója köteles szabályzatban rögzíteni azon munkaköröket, amelyeket betöltő személyek a tanúsítási eljárás során az üzleti titkokhoz hozzáférhetnek, annak tartalmát megismerhetik. Az eljárásban részt vevő munkatársakat a tanúsítási eljárás során tudomásukra jutott üzleti titok tekintetében titoktartási kötelezettség terheli a tanúsító szervezetnél fennálló jogviszonyuk megszűnését követően is.
 
 #### 34. Az üzleti terv
 
@@ -1672,7 +1676,8 @@ céljából a nemi hovatartozásra vonatkozó, illetve azzal összefüggő adato
 137. § Biztosítási titok csak akkor adható ki harmadik személynek, ha
 
 - a) a biztosító vagy a viszontbiztosító ügyfele vagy annak képviselője a kiszolgáltatható biztosítási titokkört pontosan megjelölve, erre vonatkozóan írásban felmentést ad,
-- b) e törvény alapján a titoktartási kötelezettség nem áll fenn.
+- b) e törvény alapján a titoktartási kötelezettség nem áll fenn,
+- c) a biztosító vagy a viszontbiztosító által megbízott tanúsító szervezet és alvállalkozója ezt a tanúsítási eljárás lefolytatása keretében ismeri meg.
 
 138. § (1) A biztosítási titok megtartásának kötelezettsége nem áll fenn
 
@@ -5393,7 +5398,7 @@ rendelkezni.
 
 - a)
 - b) a biztosítók és a viszontbiztosítók szavatolótőkéjére és biztosítástechnikai tartalékaira,
-- c) a biztosítók és viszontbiztosítók informatikai rendszere védelmének követelményeire,
+- c) a biztosítók és viszontbiztosítók informatikai rendszere védelmének követelményeire és a tanúsítási eljárás – általános forgalmi adó nélkül számított – maximális díjával szemben támasztott követelményeire,
 - d)
 - e) a többes ügynöki és az alkuszi felelősségbiztosítási szerződés minimális tartalmi követelményeire,
 - f) a biztosítási és a viszontbiztosítási tevékenységhez kapcsolódó fizetőképességről és pénzügyi helyzetről szóló jelentéssel összefüggő részletszabályokra
