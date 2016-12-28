@@ -58,7 +58,7 @@ Az Országgyűlés a polgárok, így különösen a fiatalkorúak egészségéne
 
 (5) A reklám közzétevője vagy a nevében eljáró médiahirdetésifelület-értékesítő a szolgáltatásról kiállított számlát a vele a reklám közzétételére szerződő fél nevére állítja ki. A számlán valamennyi alkalmazott árengedményt fel kell tüntetni. A pénzügyi teljesítés határideje a számla kézhezvételét követő harmincadik nap.
 
-5/C. § (1) A reklámközvetítő a reklám közzétevőjétől vagy más személytől a reklámközvetítés során vagy a reklámközvetítési tevékenységével összefüggésben közvetve vagy közvetlenül – a reklámközvetítési tevékenységre vonatkozó díjon felül – ajándékot, a reklám közzétevőjétől vagy a nevében eljáró médiahirdetésifelület-értékesítőtől kapott árengedmény kivételével vagyoni előnyt vagy más juttatást nem fogadhat el.
+5/C. § (1) A reklámközvetítő a reklám közzétevőjétől vagy más személytől a reklámközvetítés során vagy a reklámközvetítési tevékenységével összefüggésben közvetve vagy közvetlenül – a reklámközvetítési tevékenységre vonatkozó díjon felül – ajándékot, a reklám közzétevőjétől vagy a nevében eljáró médiahirdetésifelület-értékesítőtől kapott árengedmény kivételével vagyoni előnyt vagy más juttatást nem fogadhat el. A reklám közzétevője vagy a nevében eljáró médiahirdetésifelület-értékesítő a reklámközvetítő részére árengedmény kivételével vagyoni előnyt vagy más juttatást nem adhat.
 
 (2) A kapott árengedményt
 
@@ -69,7 +69,7 @@ köteles teljes mértékben érvényesíteni.
 
 (3) A reklámközvetítő a reklámozótól díjra jogosult, amelynek mértéke a reklám közzétételi díjának 15%-a.
 
-5/D. § (1) Az a reklámszolgáltató, aki a reklám közzététele tekintetében tervezési, tanácsadási vagy a reklám közzétételére alkalmas eszköz kiválasztására – ide nem értve a reklámközvetítést – vonatkozó szolgáltatást nyújt, a reklám közzétételére alkalmas eszközzel rendelkező személytől vagy a nevében eljáró médiahirdetésifelület-értékesítőtől ajándékot, árengedményt, kedvezményt, vagyoni előnyt vagy más juttatást nem fogadhat el.
+5/D. § (1) Az a reklámszolgáltató, aki a reklám közzététele tekintetében tervezési, tanácsadási vagy a reklám közzétételére alkalmas eszköz kiválasztására – ide nem értve a reklámközvetítést – vonatkozó szolgáltatást nyújt, a reklám közzétételére alkalmas eszközzel rendelkező személytől vagy a nevében eljáró médiahirdetésifelület-értékesítőtől ajándékot, árengedményt, kedvezményt, vagyoni előnyt vagy más juttatást nem fogadhat el. A reklám közzétételére alkalmas eszközzel rendelkező személy vagy a nevében eljáró médiahirdetésifelület-értékesítő a reklám közzététele tekintetében tervezési, tanácsadási vagy a reklám közzétételére alkalmas eszköz kiválasztására – ide nem értve a reklámközvetítést – vonatkozó szolgáltatást nyújtó reklámszolgáltató részére árengedményt, kedvezményt, vagyoni előnyt vagy más juttatást nem adhat.
 
 (2) Az (1) bekezdés szerinti reklámszolgáltató és a reklámközvetítő köteles tájékoztatni az általa nyújtott szolgáltatás igénybevevőjét arról, ha
 
@@ -92,6 +92,8 @@ közvetlenül vagy közvetetetten tulajdoni részesedéssel rendelkezik.
 5/E. § A reklámközvetítő nem minősül a kereskedelemről szóló 2005. évi CLXIV. törvény szerinti kereskedelmi ügynöknek.
 
 5/F. § Az 5/C. § és az 5/D. § (1) és (4) bekezdésének megsértése esetén a fogyasztóvédelmi hatóság jár el, a fogyasztóvédelmi bírság összege az elért vagyoni előny tízszerese. A fogyasztóvédelmi bírságot azzal szemben kell kiszabni, akinél a vagyoni előny jelentkezik.
+
+5/G. § Az 5/C. § és az 5/D. § (1) és (4) bekezdésének megsértése esetén a Gazdasági Versenyhivatal köteles versenyfelügyeleti eljárást lefolytatni az érintett személyekkel, illetve szervezetekkel szemben.
 
 6. § (1) Ha külön törvény eltérően nem rendelkezik, reklám természetes személynek mint reklám címzettjének közvetlen megkeresése módszerével (a továbbiakban: közvetlen üzletszerzés), így különösen elektronikus levelezés vagy azzal egyenértékű más egyéni kommunikációs eszköz útján – a (4) bekezdésben meghatározott kivétellel – kizárólag akkor közölhető, ha ahhoz a reklám címzettje előzetesen egyértelműen és kifejezetten hozzájárult.
 

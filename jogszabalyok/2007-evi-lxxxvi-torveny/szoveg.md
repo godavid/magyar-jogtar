@@ -2599,7 +2599,7 @@ a honlapján közzéteszi.
 
 (8) A (2) és a (7) bekezdés szerinti rendeletek, valamint a módszertani útmutatóinak előkészítése során a Hivatal kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleteinek véleményét.
 
-(9) A hálózati engedélyes a Hivatal elnökének (5) bekezdés szerinti határozatában meghatározott rendszerhasználati díjakat és a (7) bekezdés szerinti rendeletben megállapított alkalmazási feltételeket legkésőbb a rendszerhasználati díjak alkalmazhatósága előtt 20 nappal a honlapján közzéteszi.
+(9) A hálózati engedélyes a Hivatal elnökének (5) bekezdés szerinti rendeletében meghatározott rendszerhasználati díjakat és a (7) bekezdés szerinti rendeletben megállapított alkalmazási feltételeket legkésőbb a rendszerhasználati díjak alkalmazhatósága előtt 1 nappal a honlapján közzéteszi.
 
 144. § (1) A Hivatal 143. § (5) bekezdés szerinti rendeletében rögzített, éves ármegállapítás alapján keletkező, az átviteli rendszerirányítónak járó, a következő évek díjaiban elismerendő különbözeteket – az Szt. általános szabályaitól eltérően – az átviteli rendszerirányító köteles az éves beszámolójának mérlegében aktív időbeli elhatárolásként szerepeltetni. Köteles továbbá az átviteli rendszerirányító az éves beszámolójának mérlegében az átviteli rendszerirányítótól a következő évek díjaiban elvonandó különbözeteket a határkeresztező aukcióból származó tárgyévi bevételeivel együtt passzív időbeli elhatárolásként szerepeltetni. Az ebben a bekezdésben foglaltak alapján elkészített beszámoló a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 1. § (5) bekezdése alkalmazásában az Szt. rendelkezéseire figyelemmel megállapítottnak, azokkal összhangban állónak minősül.
 
@@ -2641,7 +2641,7 @@ külön díj ellenében végzett szolgáltatások meghatározására és szabál
 
 (5) A (2) és (3) bekezdés szerinti rendelet és az (1) bekezdés szerinti rendeletre vonatkozó javaslat előkészítése során a Hivatal kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleteinek véleményét.
 
-(6) Az egyetemes szolgáltató az (1) bekezdés szerinti külön díjakat és alkalmazásuk szabályait a külön díjak kihirdetését követő 3 munkanapon belül, az elosztó a (4) bekezdés szerinti külön díjakat legkésőbb azok alkalmazhatósága előtt 20 nappal a honlapján és az ügyfélszolgálaton közzéteszi.
+(6) Az egyetemes szolgáltató az (1) bekezdés szerinti külön díjakat és alkalmazásuk szabályait legkésőbb a külön díjak alkalmazhatósága előtt 1 nappal a honlapján és az ügyfélszolgálaton közzéteszi.
 
 146/A. § (1) A közcélú hálózathoz történő csatlakozással összefüggésben csatlakozási díjat kell fizetni. A csatlakozási díjak elemeit, a díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat a Hivatal elnöke rendeletben állapítja meg a következő árszabályozási ciklust megelőző év május 15-ig.
 
