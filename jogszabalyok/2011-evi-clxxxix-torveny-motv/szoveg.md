@@ -740,7 +740,7 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 72. § (1) A 3000 fő és az az alatti lakosságszámú település polgármesterének, valamint a 3000 fő feletti település társadalmi megbízatású polgármesterének összeférhetetlenségére a 36. §-t kell alkalmazni.
 
-(2) Az 1500 fő feletti lakosságszámú település főállású polgármestere – a tudományos, oktatói, lektori, szerkesztői, művészeti, jogi oltalom alá eső szellemi tevékenység és a nevelőszülői foglalkoztatási jogviszony kivételével – egyéb, munkavégzésre irányuló jogviszonyt nem létesíthet, más keresőfoglalkozást nem folytathat, nem lehet gazdasági társaság személyesen közreműködő tagja.
+(2) A 3000 fő feletti lakosságszámú település főállású polgármestere – a tudományos, oktatói, lektori, szerkesztői, művészeti, jogi oltalom alá eső szellemi tevékenység és a nevelőszülői foglalkoztatási jogviszony kivételével – egyéb, munkavégzésre irányuló jogviszonyt nem létesíthet, más kereső foglalkozást nem folytathat, nem lehet gazdasági társaság személyesen közreműködő tagja.
 
 (3)
 
@@ -779,7 +779,7 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 (1a) A 10 000 fő vagy az alatti lakosságszámú település alpolgármestere illetményének összegét a képviselő-testület állapítja meg úgy, hogy az nem haladhatja meg a polgármester illetménye 90%-át.
 
-(2) A társadalmi megbízatású alpolgármester tiszteletdíját a képviselő-testület a társadalmi megbízatású polgármester tiszteletdíja 70–90%-a közötti összegben állapítja meg, melynek egészéről vagy meghatározott részéről a képviselő-testülethez intézett írásbeli nyilatkozatával lemondhat.
+(2) A társadalmi megbízatású alpolgármester tiszteletdíját a képviselő-testület állapítja meg úgy, hogy az nem haladhatja meg a társadalmi megbízatású polgármester tiszteletdíja 90%-át. A társadalmi megbízatású alpolgármester a tiszteletdíja egészéről vagy meghatározott részéről a képviselő-testülethez intézett írásbeli nyilatkozatával lemondhat.
 
 (3) A főpolgármester-helyettes, a főállású alpolgármester, a társadalmi megbízatású alpolgármester, a megyei közgyűlés alelnöke havonta az illetményének, tiszteletdíjának 15%-ában meghatározott összegű költségtérítésre jogosult.
 
@@ -1521,7 +1521,7 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 
 ### Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-145. § (1) Az 1–83. §, a 84. § (1)–(4) bekezdése, a 85–109. §, a 125–142. §, a 143. § (1) bekezdés a)–g) pontja, a 143. § (2)–(4) bekezdése, a 144. §, valamint a 146. § az Alaptörvény 31. cikk (3) bekezdése alapján sarkalatosnak minősül.
+145. § (1) Az 1–83. §, a 84. § (1)–(4) bekezdése, a 85–109. §, a 125–142. §, a 143. § (1) bekezdés a)–g) pontja, a 143. § (2)–(4) bekezdése, a 144. §, a 146. §, a 146/C. §, valamint a 146/F. § az Alaptörvény 31. cikk (3) bekezdése alapján sarkalatosnak minősül.
 
 (2) E törvény 42. § 16. és 17. pontja, 108. §-a, valamint 143. § (1) bekezdésének f) pontja az Alaptörvény 38. cikk (1) bekezdése alapján is sarkalatosnak minősül.
 
@@ -1553,6 +1553,8 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 146/E. § (1) A polgármesteri hivatal, vagy körjegyzőség a 146/B. § (1) bekezdése, (2) bekezdés a) pontja, valamint a 146/D. § alapján történő megszűnése olyan átszervezésnek minősül, amely alapján a jegyző (körjegyző), valamint a közszolgálati jogviszonyban állók jogviszonya a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 63. § (1) bekezdés c) pontja alapján felmentéssel szüntethető meg.
 
 (2) Ha a polgármesteri hivatal, körjegyzőség megszűnésének időpontjában a jegyző, körjegyző felmentési védelem alatt áll, akkor a jegyző, körjegyző jogviszonyának megszüntetéséről szóló intézkedést – eltérő megállapodás hiányában – a megszűnt polgármesteri hivatalt, körjegyzőséget alkotó önkormányzatok polgármesterei legkorábban a felmentési védelem lejártát követő napon hozhatják meg. E rendelkezéseket a közszolgálati jogviszonyban állókra megfelelően alkalmazni kell azzal az eltéréssel, hogy – eltérő megállapodás hiányában – a munkáltatói intézkedést az érintett jegyző hozza meg.
+
+146/F. § Azon 3000 fő és ez alatti lakosságszámú település polgármesterére, akivel szemben az összeférhetetlenség a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosításáról szóló 2016. évi CLXXXV. törvény hatálybalépését megelőző napon hatályos 72. § (2) bekezdése alapján merült fel, az összeférhetetlenség jogkövetkezményeit nem kell alkalmazni.
 
 ### Módosító rendelkezések
 

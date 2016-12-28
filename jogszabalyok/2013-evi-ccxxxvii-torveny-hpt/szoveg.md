@@ -1199,9 +1199,13 @@ szükséges sorolni azzal, hogy e követelések a követelések arányában ker�
 
 67/A. § (1) A pénzügyi szolgáltatói tevékenység – a kiegészítő pénzügyi szolgáltatás kivételével – végzésére csak olyan informatikai rendszer felhasználásával kerülhet sor, amely biztosítja a rendszerelemek zártságát, és megakadályozza az informatikai rendszerhez történő jogosulatlan hozzáférést, valamint észrevétlen módosítását. Az informatikai rendszernek meg kell felelnie az általános információbiztonsági zártsági követelményeknek is. Ennek érdekében a hitelintézetnek adminisztratív, fizikai és logikai intézkedésekkel biztosítania kell az általános információbiztonsági zártsági követelmények teljesülését.
 
-(2) Az (1) bekezdésben meghatározott követelményeknek való megfelelést külső szakértő (a továbbiakban: tanúsító szervezet) által kiadott, az informatikai rendszerre vonatkozó tanúsítással kell igazolni. A tanúsító szervezettel és a tanúsítással szemben támasztott követelményeket külön jogszabály határozza meg.
+(2) Az (1) bekezdésben meghatározott követelményeknek való megfelelést külső szakértő (a továbbiakban: tanúsító szervezet) által kiadott, az informatikai rendszerre vonatkozó tanúsítással kell igazolni. A tanúsító szervezettel, a tanúsítással és a tanúsítási eljárás – általános forgalmi adó nélkül számított – maximális díjával szemben támasztott követelményeket külön jogszabály határozza meg.
 
 (3) A (2) bekezdés szerinti tanúsító szervezet írásban haladéktalanul tájékoztatja a Felügyeletet, ha a hitelintézet informatikai rendszerével kapcsolatosan olyan tényt állapít meg, amely a hitelintézet folyamatos működését kedvezőtlenül érinti vagy bűncselekmény elkövetésére, jogszabály megsértésére vagy a hitelintézet belső szabályzatának súlyos megsértésére vagy ezek veszélyére utaló körülményeket észlel.
+
+(4) A tanúsító szervezet és alvállalkozója a vizsgált intézmény kezelésében lévő, a tanúsítás lefolytatásához szükséges adatokat – ideértve a személyes adatokat és üzleti titkokat is – a tanúsítással igazolandó követelmények teljesülésének vizsgálata céljából, a tanúsítási eljárás lefolytatásához szükséges mértékben, a tanúsítási eljárás befejezéséig jogosult kezelni, azokat harmadik személy részére nem továbbíthatja.
+
+(5) A tanúsító szervezet és alvállalkozója köteles szabályzatban rögzíteni azon munkaköröket, amelyeket betöltő személyek a tanúsítási eljárás során az üzleti tikokhoz hozzáférhetnek, annak tartalmát megismerhetik. Az eljárásban részt vevő munkatársakat a tanúsítási eljárás során tudomásukra jutott üzleti titok tekintetében titoktartási kötelezettség terheli a tanúsító szervezetnél fennálló jogviszonyuk megszűnését követően is
 
 #### 28. Kiszervezés
 
@@ -2743,7 +2747,8 @@ az államháztartásért felelős miniszter és a pénz-, tőke- és biztosítá
 
 - a) a pénzügyi intézmény ügyfele, annak törvényes képviselője a rá vonatkozó kiszolgáltatható banktitok-kört pontosan megjelölve közokiratba vagy teljes bizonyító erejű magánokiratba foglaltan kéri vagy erre felhatalmazást ad; nem szükséges a közokiratba, teljes bizonyító erejű magánokiratba foglalás, ha az ügyfél ezt az írásbeli nyilatkozatát a pénzügyi intézménnyel történő szerződéskötés keretében – ideértve a fizetési számla váltásának kezdeményezését is – nyújtja,
 - b) e törvény a banktitok megtartásának kötelezettsége alól felmentést ad,
-- c) a pénzügyi intézmény érdeke ezt az ügyféllel szemben fennálló követelése eladásához vagy lejárt követelése érvényesítéséhez szükségessé teszi.
+- c) a pénzügyi intézmény érdeke ezt az ügyféllel szemben fennálló követelése eladásához vagy lejárt követelése érvényesítéséhez szükségessé teszi,
+- d) a pénzügyi intézmény által megbízott tanúsító szervezet és alvállalkozója ezt a tanúsítási eljárás lefolytatása keretében ismeri meg.
 
 (2) Az (1) bekezdés b) pontjában foglaltak alapján a banktitok megtartásának kötelezettsége nem áll fenn
 
@@ -4691,7 +4696,7 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 - a) a 3. § (1) bekezdésében, valamint a 3. § (2) bekezdésének a) és d) pontjában meghatározott szolgáltatások végzésére, illetve kiegészítő pénzügyi szolgáltatások végzésére, valamint a szolgáltatások nyújtása során kötött szerződések kötelező tartalmi elemeire,
 - b) az egységesített betéti kamatláb mutató számítására és közzétételére,
-- c) a 3. § (1) bekezdésében, valamint a 3. § (2) bekezdésében meghatározott pénzügyi szolgáltatások, illetve kiegészítő pénzügyi szolgáltatások folytatásához szükséges személyi és tárgyi feltételekre,
+- c) a 3. § (1) bekezdésében, valamint a 3. § (2) bekezdésében meghatározott pénzügyi szolgáltatások, illetve kiegészítő pénzügyi szolgáltatások folytatásához szükséges személyi és tárgyi feltételekre, továbbá a tanúsítási eljárás – általános forgalmi adó nélkül számított – maximális díjával szemben támasztott feltételekre,
 - d) a hitelintézet nyilvánosságra hozatali követelményeinek teljesítésére,
 - e) a független közvetítők, valamint a jelzáloghitel közvetítői tevékenységet végző függő közvetítők felelősségbiztosítási szerződéseinek tartalmi követelményeire,
 - f) a közvetítői díj meghatározásának és kifizetésének módjára, időbeli ütemezésére,
