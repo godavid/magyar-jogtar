@@ -549,13 +549,28 @@ kell érteni.
 
 (3) Ezen fejezet alkalmazásában a közös tulajdonban álló földön fennálló haszonélvezeti jog esetében a tulajdonostárs alatt a haszonélvezőt is érteni kell.
 
-70. § A tulajdonostársak mindegyike jogosult a saját tulajdoni hányadának megfelelő terület használatára, valamint a saját tulajdoni hányadának megfelelő terület vagy annak egy meghatározott része használatának másik tulajdonostárs vagy harmadik személy részére történő átengedésére. E jogosultság gyakorlása, valamint a földhasznosítási kötelezettség teljesítése érdekében a tulajdonostársak – a 71. §-ban meghatározottak szerint – kötelesek a közös tulajdonban álló földön belül az egyes tulajdonostársak részére a tulajdoni hányaduknak megfelelő vagy attól eltérő mértékű területek elhelyezkedését kijelölni (a továbbiakban: használati rend).
+70. § (1) A tulajdonostársak mindegyike jogosult a közös tulajdonban álló föld területéből a saját tulajdoni hányadának megfelelő terület használatára.
 
-71. § (1) A közös tulajdonban álló földön a 70. § szerinti használati rend kialakításához az e §-ban meghatározottak szerint valamennyi tulajdonostárs egyhangú döntése szükséges. A használati rendet a használati megosztásról szóló megállapodásban kell rögzíteni.
+(2) Az (1) bekezdés szerinti jogosultság gyakorlása, valamint a földhasznosítási kötelezettség teljesítése érdekében a tulajdonostársak – a 71. §-ban meghatározottak szerint – kötelesek a közös tulajdonban álló földön belül az egyes tulajdonostársak részére a tulajdoni hányaduknak megfelelő területek elhelyezkedését kijelölni (a továbbiakban: használati rend).
+
+(3) Az (1) bekezdésben foglaltakon túl a tulajdonostárs jogosult a használati rendben meghatározott terület egésze vagy ezen terület egy meghatározott része használati jogosultságának
+
+- a) tulajdoni hányadot meghaladó mértékű többlethasználati megállapodással (a továbbiakban: többlethasználati megállapodás) másik tulajdonostárs vagy
+- b) a Földforgalmi törvény 38. § (1) bekezdése szerinti és e törvény 72–75. §-a szerint létrehozott földhasználati szerződéssel harmadik személy
+
+javára történő átengedésére.
+
+(4) A többlethasználati megállapodást írásba kell foglalni. Ha a többlethasználati megállapodásban a (3) bekezdésben foglaltak szerint a terület egy része használatának átengedése történik, úgy a többlethasználati megállapodás a 71. § (9) bekezdése szerint elkészített térképi kimutatással együtt érvényes, amely a megállapodás elválaszthatatlan mellékletét képezi. A térképi kimutatást a többlethasználati megállapodásban részes tulajdonostársaknak kell aláírniuk.
+
+(5) A tulajdonostársak között többlethasználati megállapodás jön létre a haszonbérleti szerződés szerinti tartalommal akkor is, ha a tulajdonostárs részéről a Földforgalmi törvény 46. § (2) bekezdése vagy a Ptk. 5:81. § (1) bekezdése szerinti előhaszonbérleti jog gyakorlására kerül sor.
+
+71. § (1) A közös tulajdonban álló földön a 70. § szerinti használati rend kialakításához az e §-ban meghatározottak szerint a tulajdonostársak tulajdoni hányad alapján számított többségi döntése szükséges azzal, hogy ha a tulajdonostársak tulajdoni hányad alapján számított legalább egytizede a használati megosztásról szóló (5) bekezdés szerinti ajánlatban foglaltakkal nem ért egyet, akkor a használati rend kialakításához a tulajdonostársak tulajdoni hányad alapján számított kétharmados döntése szükséges. A használati rendet a használati megosztásról szóló megállapodásban kell rögzíteni.
+
+(1a) Mellőzhető a használati megosztásáról szóló megállapodás, ha a földrészlet teljes területét egyetlen személy használatába adják.
 
 (2) A használati megosztásról szóló megállapodásban rögzíteni kell a megállapodás időtartamát, vagy ha azt a tulajdonostársak határozatlan időre hozták létre, akkor ennek tényét.
 
-(2a) A használati megosztásról szóló megállapodásban a használati rend meghatározása során több tulajdonostárs tulajdoni hányadának megfelelő vagy attól eltérő mértékű terület is kijelölhető, ha a tulajdoni hányaduknak megfelelő vagy attól eltérő mértékű területet közülük valamelyik tulajdonostárs használja vagy annak használatát harmadik személy részére kívánják átengedni.
+(2a) A használati megosztásról szóló megállapodásban a használati rend meghatározása során több tulajdonostárs tulajdoni hányadának megfelelő mértékű terület egyben is kijelölhető, ha annak használatát egységesen egy harmadik személy részére kívánják átengedni.
 
 (3) A használati megosztáshoz való hozzájárulást megadottnak kell tekinteni az olyan tulajdonostárs esetében, akinek a részére a használati megosztásról szóló ajánlat vagy a tervezett megállapodás közlése
 
@@ -574,7 +589,7 @@ kell érteni.
 
 (5) A használati rend kialakítását kezdeményező tulajdonostársnak a használati megosztásról szóló ajánlatot vagy tervezett megállapodást írásban, igazolt módon kell közölnie a tulajdonostársakkal. Az ajánlat vagy a tervezett megállapodás elfogadására biztosított határidő nem lehet kevesebb 30 napnál.
 
-(6) A használati megosztásról szóló megállapodást egységes okiratba kell foglalni. A megállapodást valamennyi tulajdonostársnak alá kell írnia, ide nem értve azt a tulajdonostársat, akinek esetében a használati megosztáshoz való hozzájárulást – a (3) bekezdésben foglaltak alapján, az ott meghatározott valamely körülmény miatt – megadottnak kell tekinteni. A használati megosztásról szóló megállapodás valamennyi tulajdonostársra kiterjed.
+(6) A használati megosztásról szóló megállapodást egységes okiratba kell foglalni. A megállapodást legalább azoknak a tulajdonostársaknak alá kell írnia, akik az (1) bekezdés szerinti döntést jóváhagyták, ide nem értve azt a tulajdonostársat, akinek esetében a használati megosztáshoz való hozzájárulást – a (3) bekezdésben foglaltak alapján, az ott meghatározott valamely körülmény miatt – megadottnak kell tekinteni. A használati megosztásról szóló megállapodás valamennyi tulajdonostársra kiterjed.
 
 (7) A (6) bekezdésben meghatározott egységes okiratnak minősül az is, ha a használati megállapodás több példányban készül és az egyes példányokat a (6) bekezdésben meghatározott tulajdonostársak (e fejezetben a továbbiakban: a használati megállapodásban részes tulajdonostársak) külön-külön írják alá.
 
@@ -816,7 +831,7 @@ kezeli a mezőgazdasági igazgatási szerv.
 
 - a) a hatósági jóváhagyáshoz kötött földhasználati szerződés esetén a szerződésnek a jóváhagyó záradékával ellátott egyik eredeti példányát vagy annak a mezőgazdasági igazgatási szerv, illetve a közjegyző által hitelesített másolatát,
 - b) a hatósági jóváhagyáshoz nem kötött földhasználati szerződés esetén a szerződés eredeti példányát vagy annak közjegyző által hitelesített másolatát,
-- c) közös tulajdonban álló föld használata esetén a 71. §-ban meghatározott használati megosztásról szóló megállapodás eredeti példányát vagy annak közjegyző által hitelesített másolatát, vagy a 76. §-ban meghatározott sorsolás eredményéről szóló jegyzőkönyv eredeti vagy hitelesített másolatát és az ezekhez – szükség esetén – csatolt térképi kimutatást.
+- c) közös tulajdonban álló föld használata esetén a 71. §-ban meghatározott használati megosztásról szóló megállapodás vagy többlethasználati megállapodás eredeti példányát vagy annak közjegyző által hitelesített másolatát, vagy a 76. §-ban meghatározott sorsolás eredményéről szóló jegyzőkönyv eredeti vagy hitelesített másolatát és az ezekhez – szükség esetén – csatolt térképi kimutatást.
 
 (4) A (3) bekezdés b) pontjában meghatározott esetben a földhasználó, részesművelés esetén a képviselő (e fejezet alkalmazásában a továbbiakban együtt: földhasználó) a bejelentési adatlapon köteles nyilatkozni arról, hogy a földhasználata a törvényben meghatározott korlátozásokat nem sérti.
 
