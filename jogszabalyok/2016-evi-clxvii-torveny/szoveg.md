@@ -52,7 +52,7 @@ a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény
 
 #### 10. Az egyes egészségügyet érintő törvények módosításáról szóló 2016. évi XXXIV. törvény módosítása
 
-46. §
+46. § Nem lép hatályba az egyes egészségügyet érintő törvények módosításáról szóló 2016. évi XXXIV. törvény 11. § (1) bekezdése.
 
 #### 11. Záró rendelkezések
 
