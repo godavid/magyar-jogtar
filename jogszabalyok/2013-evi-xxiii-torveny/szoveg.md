@@ -129,15 +129,15 @@ figyelembevételével kell számítani.
 
 14. § (1) A 40. § (2) bekezdése szerinti tevékenységet végző gazdasági szereplő kötelezően a Szövetség tagja.
 
-(2) A szövetségi tagság a 40. § (2) bekezdés szerinti tevékenység megkezdésének időpontjában jön létre. A szövetségi tagság megszűnik, ha a tag a készletezési kötelezettséggel járó tevékenységet legalább egy évig nem folytatja.
+(2) A szövetségi tagság a 40. § (2) bekezdés szerinti tevékenység megkezdésének időpontjában jön létre. A szövetségi tagság megszűnik, ha a tag a készletezési kötelezettséggel járó tevékenységet megszünteti. A tagsági jogviszony fennállása során felmerült kötelezettségek az elszámolásban foglaltak szerint az elszámolások lezárásának napjáig terhelik a tagot.
 
 15. § A 9. § (4) bekezdés c) pontja alapján a miniszter által meghatározott célból kijelölt felhasználók ellátására felszabadított készleten felül, a felszabadított készletek vonatkozásában a kőolaj szekció tagjait, a készlet felszabadítást megelőző naptári év forgalmának egyenlege alapján esedékessé vált és teljesített nettó tagi hozzájárulásuk arányában elővásárlási jog illeti meg. A nettó tagi hozzájárulás összege a befizetett, valamint a visszaigényelt és levont tagi hozzájárulás egyenlege.
 
-16. § A Szövetség az e törvényben és az Fbkt.-ben előírt földgáz biztonsági készletezési tevékenységen kívül, csak az azzal összefüggő – az alapszabályban meghatározott – tevékenységek gyakorlására jogosult.
+16. § A Szövetség az e törvényben és az Fbkt.-ben előírt földgáz biztonsági készletezési tevékenységen kívül, csak az azzal összefüggő – a Szövetség Alapszabályában (a továbbiakban: alapszabály) meghatározott – tevékenységek gyakorlására jogosult.
 
 17. § (1) A Szövetség a miniszter által jóváhagyott alapszabály alapján működik.
 
-(2) A Szövetség alapszabályában meg kell határozni:
+(2) Az alapszabályban meg kell határozni:
 
 - a) a Szövetség székhelyét,
 - b) a Szövetség szervezeti felépítését és működését,
@@ -154,13 +154,13 @@ figyelembevételével kell számítani.
 - j) a tag és a Szövetség közötti elektronikus kapcsolattartás szabályait, valamint az üzemszüneti rendelkezéseket,
 - k) a földgázkészletezés rendszerének részletes szabályait,
 - l) a Szövetség adatszolgáltatási kötelezettségét,
-- m) a 38. § (3) bekezdése szerinti fizetési haladék esetén alkalmazandó kamat és biztosíték összegét, valamint a fizetési haladék iránti kérelem elbírálása során alkalmazandó mérlegelési szempontokat,
-- n) a 40. § (6) bekezdése szerinti vagyoni biztosítékadás részletszabályait,
+- m)
+- n)
 - o) mindazokat a kérdéseket, amelyeket e törvény és az Fbkt. kötelezően előír.
 
-(3) A Szövetség alapszabályát a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és a Szövetség honlapján közzé kell tenni.
+(3) Az alapszabályt a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és a Szövetség honlapján közzé kell tenni.
 
-(4) A Szövetség alapszabálya és annak módosítása a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben való közzétételtől kezdődően alkalmazandó.
+(4) Az alapszabály és annak módosítása a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben való közzétételtől kezdődően alkalmazandó.
 
 18. § A Szövetség szervei a közgyűlés, az igazgatótanács, a felügyelő bizottság és az igazgatóság.
 
@@ -172,7 +172,7 @@ figyelembevételével kell számítani.
 
 (2) Rendkívüli közgyűlést kell összehívni, ha az összes szavazatok legalább 15%-ával rendelkező tagok – ok és cél megjelölésével – írásban kérik.
 
-(3) A közgyűlés összehívásáról az igazgató értesíti a tagokat – a közgyűlés időpontját megelőzően legalább 4 héttel – a napirendi javaslat egyidejű megküldésével.
+(3) A közgyűlés összehívásáról az igazgató értesíti a tagokat – a közgyűlés időpontját megelőzően legalább 15 nappal – a napirendi javaslat egyidejű megküldésével.
 
 (4) A közgyűlés határozatképes, ha azon mindkét szekcióban az összes szavazatok több mint 50%-át képviselő tag jelen van.
 
@@ -180,15 +180,17 @@ figyelembevételével kell számítani.
 
 21. § A közgyűlés feladata
 
-- a) a Szövetség alapszabályának elfogadása és módosítása,
+- a) az alapszabály elfogadása és módosítása,
 - b) az igazgatótanács és a felügyelő bizottság tagjainak megválasztása, felmentése, tagjai díjazásának megállapítása, az igazgató és az igazgatóhelyettes megválasztása, és felmentése,
 - c) döntéshozatal minden olyan ügyben, amelyet e törvény, az Fbkt. vagy az alapszabály a közgyűlés hatáskörébe utal.
 
-22. § A közgyűlés a 21. § a) és b) pontjaiban meghatározott ügyekben a jelenlévő tagok kétharmados szavazattöbbségével, más ügyekben – ha az alapszabály minősített többséget nem ír elő – a jelen lévő tagok egyszerű szavazattöbbségével határoz.
+22. § (1) A közgyűlés határozatait a jelenlévő tagok egyszerű szavazattöbbségével hozza.
 
-23. § (1) A közgyűlés döntésének meghozatala során minden szövetségi tag rendelkezik egy szavazattal. Ez jelenti az összes szavazatok 50%-át. A szavazatok másik fele olyan arányban oszlik meg a két szekció tagjai között, amilyen mértékben az előző naptári évben nettó tagi hozzájárulást fizettek.
+(2) A közgyűlés a 21. § a) és b) pontjaiban, továbbá az Alapszabályban meghatározott ügyekben a jelenlévő tagok kétharmados szavazattöbbségével határoz.
 
-(2) A közgyűlési határozat érvényességéhez a kőolaj- és kőolajtermék-készletezéssel kapcsolatos kérdésben az ezen szekciót képviselő tagok többségi szavazata, a földgáz-készletezéssel kapcsolatos kérdésben a földgáz szekciót képviselő tagok többségi szavazata szükséges.
+(3) A közgyűlési határozat érvényességéhez az (1)–(2) bekezdésben előírtak mellett a kőolaj- és kőolajtermék-készletezéssel kapcsolatos kérdésben a kőolaj szekciót képviselő, jelenlévő tagok többségi szavazata, a földgázkészletezéssel kapcsolatos kérdésben a földgáz szekciót képviselő, jelenlévő tagok többségi szavazata is szükséges.
+
+23. § A közgyűlés döntésének meghozatala során minden szövetségi tag rendelkezik egy szavazattal. Ez jelenti az összes szavazatok 50%-át. A szavazatok másik fele olyan arányban oszlik meg a két szekció tagjai között, amilyen mértékben az előző naptári évben esedékes nettó tagi hozzájárulást megfizették.
 
 #### 5. Az igazgatótanács
 
@@ -200,7 +202,7 @@ figyelembevételével kell számítani.
 - d) jóváhagyja a Szövetség üzletszabályzatát,
 - e) javaslatot tesz a közgyűlésnek e törvényben meghatározott feladatainak ellátásához szükséges hitel felvételére,
 - f) felügyeli az igazgatóság tevékenységét,
-- g) megbízást ad az e törvényben meghatározott ellenőrzés folytatására,
+- g) megbízást adhat az e törvényben meghatározott ellenőrzés folytatására,
 - h) megvitat minden olyan kérdést, amelyet az igazgatóság számára előterjeszt,
 - i) javaslatot tesz a miniszternek a 9. § szerinti intézkedés kezdeményezésére,
 - j) javaslatot tesz az igazgató és az igazgató-helyettes személyére.
@@ -209,17 +211,19 @@ figyelembevételével kell számítani.
 
 (3) Az igazgatótanács csak olyan személyt javasolhat igazgatónak vagy igazgató-helyettesnek, akit a miniszter, az államháztartásért felelős miniszter és a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: MEKH) képviselői közül legalább három támogat.
 
-25. § Az igazgatótanács tizennégy tagból áll. Hat tagot a kőolaj szekcióból, négy tagot a földgáz szekcióból a közgyűlés választ három évre. A további négy tagja közül kettő a miniszter, egy az államháztartásért felelős miniszter és egy a MEKH képviselője.
+25. § (1) Az igazgatótanács tizennégy tagból áll. Hat tagot a kőolaj szekcióból, négy tagot a földgáz szekcióból a közgyűlés választ három évre. A további négy tag közül kettő a miniszter, egy az államháztartásért felelős miniszter és egy a MEKH képviselője.
 
-26. § Az igazgatótanács tagjai közül egy elnököt és egy elnökhelyettest választ. A választás egyszerű szavazattöbbséggel történik.
+(2) Az igazgatótanács tagja személyesen köteles eljárni.
+
+26. § Az igazgatótanács tagjai közül egy elnököt és egy elnökhelyettest választ. A választás a jelenlévő tagok egyszerű szavazattöbbségével történik.
 
 27. § Ha az igazgatótanács választott tagjának megbízatása a 25. §-ban meghatározott időtartam letelte előtt megszűnik, a hátralévő időre új tagot kell választani. Az új tagot a legközelebbi közgyűlésen választják meg.
 
 28. § (1) Az igazgatótanács akkor határozatképes, ha legalább nyolc tag és ebből a mindkét szekció 50%-át képviselő tag jelen van.
 
-(2) Az igazgatótanács határozatait általában egyszerű szavazattöbbséggel hozza, szavazategyenlőség esetén az elnök szavazata dönt. A 30. § (2) bekezdés szerinti új igazgatósági tag kijelöléséhez a jelenlévő tagok kétharmados szavazattöbbsége szükséges.
+(2) Az igazgatótanács határozatait a jelenlévő tagok egyszerű szavazattöbbségével hozza, szavazategyenlőség esetén az elnök szavazata dönt. A 30. § (2) bekezdés szerinti új igazgatósági tag kijelöléséhez a jelenlévő tagok kétharmados szavazattöbbsége szükséges.
 
-(3) Az igazgatótanácsi határozat érvényességéhez szükséges a kőolaj- és kőolajtermék-készletezéssel kapcsolatos kérdésben ezt a szekciót képviselő tagok többségi szavazata, a földgázkészletezéssel kapcsolatos kérdésben a földgáz szekciót képviselő tagok többségi szavazata.
+(3) Az igazgatótanácsi határozat érvényességéhez a kőolaj- és kőolajtermék-készletezéssel kapcsolatos kérdésben a kőolaj szekciót képviselő, jelenlévő tagok többségi szavazata, a földgázkészletezéssel kapcsolatos kérdésben a földgáz szekciót képviselő, jelenlévő tagok többségi szavazata is szükséges.
 
 #### 6. A felügyelő bizottság
 
@@ -239,7 +243,7 @@ figyelembevételével kell számítani.
 
 (6) A felügyelő bizottság tagjai személyesen kötelesek eljárni. A Szövetség vezetőitől felvilágosítást, jelentést kérhetnek, a Szövetség könyveit és iratait megvizsgálhatják.
 
-(7) Amennyiben a Szövetség tevékenysége jogszabályba, a Szövetség alapszabályába vagy határozatába ütközik, a felügyelő bizottság jogosult rendkívüli közgyűlést összehívni és annak napirendjére javaslatot tenni.
+(7) Amennyiben a Szövetség tevékenysége jogszabályba, az alapszabályba vagy határozatába ütközik, a felügyelő bizottság jogosult rendkívüli közgyűlést összehívni és annak napirendjére javaslatot tenni.
 
 (8) Ha a felügyelő bizottság tagjának megbízatása az (1) bekezdésben meghatározott időtartam letelte előtt megszűnik, a hátralévő időre új tagot kell választani. Az új tagot a legközelebbi közgyűlésen választják meg.
 
@@ -249,7 +253,7 @@ figyelembevételével kell számítani.
 
 30. § (1) Az igazgatótanács javaslata alapján a közgyűlés választja meg a Szövetség igazgatóját és igazgató-helyettesét (a továbbiakban együtt: igazgatóság tagjai). A Szövetség igazgatóságának ügyvezetője az igazgató, akit akadályoztatása esetén az igazgató-helyettes teljes jogkörrel helyettesít. Az igazgatót és az igazgató-helyettest a közgyűlés határozatlan időre választja meg.
 
-(2) A közgyűlés az igazgatót vagy az igazgató-helyettest a Szövetség alapszabályában meghatározott okból felmentheti. Ha az igazgató vagy az igazgató-helyettes megbízatása megszűnik, az igazgatótanács jogosult az új igazgatósági tagot kijelölni, akit a közgyűlés a következő ülésén tisztségében megerősít vagy új tagot választ.
+(2) A közgyűlés az igazgatót vagy az igazgató-helyettest az alapszabályban meghatározott okból felmentheti. Ha az igazgató vagy az igazgató-helyettes megbízatása megszűnik, az igazgatótanács jogosult az új igazgatósági tagot kijelölni, akit a közgyűlés a következő ülésén tisztségében megerősít vagy új tagot választ.
 
 31. § Az igazgató
 
@@ -258,7 +262,7 @@ figyelembevételével kell számítani.
 - c) határoz a Szövetség azon ügyeiben, amelyek más szerv hatáskörébe nem tartoznak,
 - d) megküldi a miniszternek a közgyűlés határozatát, valamint a miniszternek és az államháztartásért felelős miniszternek a Szövetség éves költségvetését és annak végrehajtásáról szóló beszámolót,
 - e) ha e törvény másképpen nem rendelkezik, képviseli a Szövetséget,
-- f)
+- f) megbízást ad a tagvállalatok, valamint a készletek ellenőrzésére.
 
 #### 8. A Szövetség gazdálkodása
 
@@ -298,9 +302,9 @@ figyelembevételével kell számítani.
 
 37. § (1) A Szövetség a naptári évvel azonos üzleti évről éves beszámolót készít, legkésőbb az üzleti évet követő év május 31-ig. A költségvetés teljesítésének részletes, számszerű és szöveges indokolását az üzleti jelentés tartalmazza.
 
-(2) A mérleget a Számvtv. 1. számú mellékletében előírt szerkezetben és tartalommal kell elkészíteni, továbbrészletezését a Szövetség alapszabálya tartalmazza.
+(2) A mérleget a Számvtv. 1. számú mellékletében előírt szerkezetben és tartalommal kell elkészíteni, továbbrészletezését az alapszabály tartalmazza.
 
-(3) Az eredménykimutatást a Számvtv. 2. számú mellékletében előírt szerkezetben és tartalommal kell elkészíteni. Az eredménykimutatás éves költségvetéssel azonos továbbrészletezését – a (4) bekezdésben foglaltak figyelembevételével – a Szövetség alapszabálya tartalmazza.
+(3) Az eredménykimutatást a Számvtv. 2. számú mellékletében előírt szerkezetben és tartalommal kell elkészíteni. Az eredménykimutatás éves költségvetéssel azonos továbbrészletezését – a (4) bekezdésben foglaltak figyelembevételével – az alapszabály tartalmazza.
 
 (4) A tagi hozzájárulás összegét a Szövetség az egyéb bevételek között számolja el.
 
@@ -308,15 +312,15 @@ figyelembevételével kell számítani.
 
 #### 9. A Szövetség követeléseinek behajtása és elszámolása
 
-38. § (1) A Szövetséget megillető kötelező befizetésekre az adózás rendjéről szóló törvény rendelkezéseit kell alkalmazni az e törvényben foglalt eltérésekkel és azzal, hogy azokat a Szövetség szedi be.
+38. § (1) A Szövetséget megillető tagi hozzájárulás hátralék, az azzal összefüggésben megállapított késedelmi kamat, valamint a behajtás egyéb költségei adók módjára behajtandó köztartozásnak minősülnek.
 
 (2) Az a tag, aki (amely) az esedékessé vált tagi hozzájárulást nem fizette meg, vagy jogalap nélkül vont le, illetve igényelte vissza tagi hozzájárulást, köteles az adózás rendjéről szóló törvényben előírt késedelmi pótlékkal azonos mértékű kamatot fizetni.
 
-(3) Az igazgatótanács a Szövetség követeléseinek teljesülésére kivételes és indokolt esetben haladékot adhat kamat felszámítása mellett és biztosíték nyújtása ellenében. A kamat és a biztosíték mértékét, valamint a fizetési haladék iránti kérelem elbírálása során alkalmazandó mérlegelési szempontokat az alapszabály határozza meg.
+(3)
 
-39. § (1) Az esedékesség időpontjáig nem teljesített kötelezettséget a tag terhére a Szövetség igazgatója határozatban írja elő. A teljesítési határidő eredménytelen eltelte esetén a Szövetség igazgatója intézkedik a végrehajtás iránt vagy kezdeményezheti a tag fizetésképtelenségének megállapítását és felszámolását.
+39. § (1) A nem teljesített fizetési kötelezettség esedékességének időpontjától számított nyolc napon belül a Szövetség nyolcnapos fizetési határidő kitűzésével fizetési felszólítást küld a tag részére.
 
-(2) Ha a tag a határozatban foglaltakat sérelmesnek tartja, a határozatot a kézhezvételtől számított 30 napon belül a bíróságnál keresettel támadhatja meg a Polgári Perrendtartás általános szabályai szerint. A kereset benyújtásának a követelés behajtására nincs halasztó hatálya, de a bíróság kérelemre a végrehajtási eljárást felfüggesztheti.
+(2) A felszólítás eredménytelensége esetén a Szövetség – a felszólítás megtörténtének igazolása mellett – kezdeményezi a tagi hozzájárulás, továbbá a késedelmi kamata adók módjára történő behajtását az adó- és vámhatóságnál.
 
 (3) A Szövetséggel szemben fennálló tartozásra befizetett vagy behajtott összeget a késedelmi kamatra, a felmerült költségekre, ezt követően a tagi hozzájárulásra kell elszámolni.
 
@@ -340,21 +344,23 @@ figyelembevételével kell számítani.
 
 (5) A tag az (1) bekezdés szerinti tagi hozzájárulást az egyéb ráfordítások között köteles elszámolni.
 
-(6) A Szövetség a tagi hozzájárulásból eredő költségvetési bevételének biztosítása érdekében vagyoni biztosíték nyújtását írhatja elő. A vagyoni biztosíték mértéke új belépő tagnál a tervezett forgalom, már működő tag esetén a tagsági viszonyt eredményező tevékenység után befizetett tagi hozzájárulás háromhavi átlagának figyelembevételével, legalább egy- és legfeljebb háromhavi, a befizetendő tagi hozzájárulás fedezetét biztosító összegben állapítható meg. A vagyoni biztosíték óvadék jogcímén készpénz vagy belföldi székhelyű bank által vállalt garancia lehet. A vagyoni biztosíték nyújtásának részletes szabályait a Szövetség az alapszabályban határozza meg.
+(6)
 
-41. § (1) Nem kell tagi hozzájárulást fizetni vagy a befizetett tagi hozzájárulás a 42. § (3) bekezdése szerint visszaigényelhető a 4. mellékletben meghatározott kőolajtermékek azon mennyisége után, amelyet a tag
+41. § (1) Az alapszabályban meghatározott feltételekkel visszaigényelhető a 4. mellékletben meghatározott kőolajtermékek után bevallott tagi hozzájárulásnak az a része, amelyet a tag igazoltan
 
-- a) katonai célra,
-- b) Magyarország vagy az Európai Unió más tagállamának készletezési kötelezettsége teljesítése érdekében, vagy
-- c) igazoltan vegyipari, kenéstechnikai, illetve korrózióvédelmi célokra hoz be, vagy értékesít közvetlenül a végső felhasználó számára.
+- a) katonai célra hoz be, vagy értékesít közvetlenül a végső felhasználó számára,
+- b) gazdasági célú légiközlekedési tevékenységet végző szervezet nemzetközi légiforgalomban részt vevő – külföldi vagy magyar lajstromjelű – légijárművek üzemeltetésére használ fel, vagy számára ilyen célra értékesítenek, vagy a légitársaság saját felhasználásra tartalékol,
+- c) vegyipari, kenéstechnikai, illetve korrózióvédelmi célokra hoz be, vagy értékesít közvetlenül a végső felhasználó számára.
 
-(2) Nem kell tagi hozzájárulást fizetni vagy a tagi hozzájárulás a 42. § (3) bekezdése szerint visszaigényelhető a 4. mellékletben meghatározott kőolajtermékek azon mennyisége után, amelyet a gazdasági célú légiközlekedési tevékenységet végző szervezet nemzetközi légiforgalomban részt vevő – külföldi vagy magyar lajstromjelű – légijárműve üzemeltetésére használ fel, vagy számára ilyen célra értékesítenek, vagy a légitársaság saját felhasználásra tartalékol.
+(2) Az alapszabályban meghatározottak szerint, az ott rögzített feltételek fennállása esetén a tag évente kérelmet terjeszthet elő a Szövetséghez, amely alapján a Szövetség igazgatója engedélyezheti, hogy a tag az (1) bekezdés szerinti esetekben a kőolajtermékek után fizetendő tagi hozzájárulás összegét havonta csökkentse a visszaigényelhető tagi hozzájárulás összegével.
 
-42. § (1) A tag minden hónap 15-éig a Szövetségnek nyilatkozik arról, hogy a megelőző hónapban mennyi volt az e törvény hatálya alá tartozó, a tagi hozzájárulás fizetése alapjául szolgáló szabad forgalomba bocsátott, kitárolt, behozott, feladott, beszerzett, felhasznált, illetve hajók üzemanyag-tartályába betöltött kőolajtermék mennyisége. A Szövetség felhívására a tag minden olyan adatot, dokumentációt haladéktalanul benyújt, amely a tagi hozzájárulás teljesítésének ellenőrzéséhez szükséges.
+(3) Nem kell tagi hozzájárulást fizetni a 4. mellékletben meghatározott kőolajtermékek azon mennyisége után, amelyet a tag Magyarország vagy nemzetközi megállapodás alapján más állam készletezési kötelezettsége teljesítése érdekében hoz be vagy értékesít.
+
+42. § (1) A tag minden hónap 20-áig a Szövetségnek nyilatkozik arról, hogy a megelőző hónapban mennyi volt az e törvény hatálya alá tartozó, a tagi hozzájárulás fizetése alapjául szolgáló szabad forgalomba bocsátott, kitárolt, behozott, feladott, beszerzett, felhasznált, továbbá hajók és légi járművek üzemanyag-tartályába betöltött kőolajtermék mennyisége. A Szövetség felhívására a tag minden olyan adatot, dokumentációt haladéktalanul benyújt, amely a tagi hozzájárulás teljesítésének ellenőrzéséhez szükséges.
 
 (2) Az (1) bekezdés szerinti havi nyilatkozatban közölt adatok alapján a tag kiszámítja az esedékes tagi hozzájárulás-fizetési kötelezettség összegét, és azt a hónap utolsó munkanapjáig a Szövetség pénzforgalmi számlájára befizeti. A tagi hozzájárulás megfizetésének időpontja az a nap, amikor a Szövetség számláján a befizetést jóváírják.
 
-(3) A tagi hozzájárulás befizetésétől számított 90 napon belül visszaigényelhető a Szövetségtől a 4. melléklet szerinti kombinált nomenklatúra (a továbbiakban: KN) számával azonosított kőolajtermék azon mennyisége után befizetett tagi hozzájárulás, amelyet a tag a 41. §-ban meghatározott célra értékesített vagy használt fel. Az adott KN számú kőolajtermékre vonatkozóan, a visszaigényelt tagi hozzájárulás alapját képező mennyiség nem haladhatja meg a kőolajterméknek a visszaigénylést megelőző 90 napra benyújtott nyilatkozatokban megadott, tagi hozzájárulás fizetési kötelezettség alá eső, összesített mennyiségét. A Szövetség a visszaigénylést annak beérkezésétől és a felhasználás könyvelésen alapuló igazolásától számított 15 napon belül köteles elbírálni, valamint a jóváhagyott visszaigénylés összegét jóváírni vagy visszautalni. A visszautalás teljesítésének feltétele, hogy a tagnak ezáltal nem keletkezhet tartozása a Szövetség felé.
+(3) A tagi hozzájárulási nyilatkozat benyújtásától számított 90 napon belül visszaigényelhető a Szövetségtől a 4. melléklet szerinti kombinált nomenklatúra (a továbbiakban: KN) kóddal azonosított kőolajtermék azon mennyisége után bevallott tagi hozzájárulás, amelyet a tag a 41. §-ban meghatározott célra értékesített vagy használt fel. Az adott KN kódú kőolajtermékre vonatkozóan, a visszaigényelt tagi hozzájárulás alapját képező mennyiség nem haladhatja meg a kőolajterméknek a visszaigénylést megelőző 90 napra benyújtott nyilatkozatokban megadott, tagi hozzájárulás fizetési kötelezettség alá eső, összesített mennyiségét. A Szövetség a visszaigénylést annak beérkezésétől, a felhasználás könyvelésen alapuló igazolásától, és a tagi hozzájárulás megfizetésétől számított 15 napon belül köteles elbírálni, valamint a jóváhagyott visszaigénylés összegét jóváírni vagy visszautalni. A visszautalás teljesítésének feltétele, hogy a tagnak ezáltal nem keletkezhet tartozása a Szövetség felé.
 
 (4) A tag az esedékessé vált tagi hozzájárulásból a kiviteltől számított 90 napon belül levonhatja az olyan kőolajtermék mennyiség után megfizetett tagi hozzájárulást, amelyet külföldön értékesített.
 
@@ -382,7 +388,7 @@ figyelembevételével kell számítani.
 - b) a tagi hozzájárulás befizetésének ellenőrzéséhez,
 - c) a Szövetség adatszolgáltatási kötelezettségének teljesítéséhez
 
-a tagok által szabad forgalomba bocsátott, kitárolt, behozott, feladott, beszerzett, felhasznált, hajók üzemanyag-tartályba betöltött, kivitt, szabad forgalomból visszavont – a törvény hatálya alá tartozó termékkörbe tartozó – kőolaj és kőolajtermékek mennyiségéről.
+a tagok által szabad forgalomba bocsátott, kitárolt, behozott, feladott, beszerzett, felhasznált, hajók és légi járművek üzemanyag-tartályba betöltött, kivitt, szabad forgalomból visszavont – a törvény hatálya alá tartozó termékkörbe tartozó – kőolaj és kőolajtermékek mennyiségéről.
 
 (2) A Központi Statisztikai Hivatal adatszolgáltatása nem terjedhet ki a statisztikáról szóló törvény szerinti egyedi adatokra.
 
@@ -394,7 +400,7 @@ a tagok által szabad forgalomba bocsátott, kitárolt, behozott, feladott, besz
 
 (2) A miniszter felügyeleti jogkörében:
 
-- a) jóváhagyja a Szövetség alapszabályát és annak módosítását,
+- a) közzéteszi az alapszabályt és annak módosítását,
 - b) kötelezheti az igazgatótanácsot a közgyűlés összehívására, ha a Szövetség testületeinek jogszabálysértő határozatát észleli,
 - c) a Szövetségtől tájékoztatást kérhet és a Szövetségnek jelentési kötelezettséget írhat elő,
 - d) a Szövetség irataiba betekinthet.
@@ -430,9 +436,11 @@ a tagok által szabad forgalomba bocsátott, kitárolt, behozott, feladott, besz
 
 #### 14. Tagi és egyéb kötelezettség megszegése és jogkövetkezményei
 
-48. § (1) Ha a 46. §-ban meghatározott ellenőrzés során a Szövetség az ellenőr jelentése alapján hiányosságot, illetve a tag jogellenes működését állapítja meg, továbbá ha a tag a 42. § (1) bekezdésében meghatározott adatszolgáltatási, bejelentési kötelezettségének nem vagy nem megfelelően tesz eleget, a Szövetség határidő tűzésével felszólítja a tagot a jogszerű állapot helyreállítására.
+48. § (1) Ha a Szövetség hiányosságot vagy a tag jogellenes működését állapítja meg, továbbá ha a tag a 42. § (1) bekezdésében meghatározott adatszolgáltatási, bejelentési kötelezettségének nem vagy nem megfelelően tesz eleget, a Szövetség határidő tűzésével felszólítja a tagot a jogszerű állapot helyreállítására.
 
-(2) A Szövetség a felszólítás eredménytelensége esetén, vagy ha alaposan feltételezhető, hogy az ellenőrzött személy jogosulatlanul végez tagsági viszony alapjául szolgáló tevékenységet, eljárást kezdeményezhet a hatáskörrel rendelkező hatóságnál.
+(2) Ha a tag a megadott határidőn belül adatszolgáltatási, bejelentési kötelezettségének nem tesz eleget, akkor a Szövetség igazgatója jogosult a rendelkezésére álló adatok alapján határozattal kiszabni a tagot terhelő tagi hozzájárulást.
+
+(3) Ha alaposan feltételezhető, hogy az ellenőrzött személy jogosulatlanul végez tagsági viszony alapjául szolgáló tevékenységet, a Szövetség eljárást kezdeményez a hatáskörrel rendelkező hatóságnál.
 
 #### 15. Záró rendelkezések
 
@@ -455,13 +463,11 @@ rendeletben állapítsa meg.
 
 (2) E törvény hatálybalépése az igazgatóság, az igazgatótanács és a felügyeleti bizottság tagjainak tagsági viszonyát nem érinti.
 
-52. §
+52. § E törvénynek az energetikai tárgyú törvények módosításáról szóló 2016. évi CXLIII. törvény (a továbbiakban: Módtv.) 75. §-ával megállapított 38. § (1) bekezdését a Módtv. hatálybalépésekor fennálló tagi hozzájárulás tartozásokra is alkalmazni kell.
 
 52/A. §
 
-53. § (1) E törvény 54. § (2) bekezdése a tengeri balesetek és események kivizsgálására szolgáló, a 2009/18/EK európai parlamenti és tanácsi rendelet 5. cikkének (4) bekezdése szerint kidolgozott közös módszertan elfogadásáról szóló, 2011. december 9-i 1286/2011/EU bizottsági rendelet végrehajtását szolgálja.
-
-(2) Ez a törvény – az 54. § (2) bekezdésében foglalt kivétellel – a tagállamok minimális kőolaj- és/vagy kőolajtermék-készletezési kötelezettségéről szóló, 2009. szeptember 14-i 2009/119/EK tanácsi irányelvnek való megfelelést szolgálja.
+53. § Ez a törvény a tagállamok minimális kőolaj- és/vagy kőolajtermék-készletezési kötelezettségéről szóló, 2009. szeptember 14-i 2009/119/EK tanácsi irányelvnek való megfelelést szolgálja.
 
 54. § (1)–(2)
 
@@ -612,6 +618,6 @@ E pont alkalmazásában „nemzetközi tartályhajón szállított mennyiség”
 | 27101949 | 27101947, 27102017 |
 |  | 27101948, 27102019 |
 | Alacsony és magas kéntartalmú fűtőolajok | 27101961 | 27101962, 27102031 |
-| 27101963 | 27101964, 27101935 |
+| 27101963 | 27101964, 27102035 |
 | 27101965 | 27101968, 27102039 |
 | 27101969 |  |

@@ -61,7 +61,7 @@ A szociális biztonság erősítése sürgető társadalmi érdek. A szociális 
 
 (5) E törvény alkalmazásában a kiegészítő nyugdíjpénztárnál
 
-- a) nyugdíjkorhatár: a társadalombiztosítási nyugellátásról szóló törvény szerinti öregségi nyugdíjkorhatár, továbbá az az időpont, amelytől a pénztártag öregségi nyugdíjban, korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban, átmeneti bányászjáradékban, rokkantsági ellátásban, a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított öregségi, rokkantsági nyugdíjsegélyben (nyugdíjban), növelt összegű öregségi, munkaképtelenségi járadékban vagy nyugdíj előtti álláskeresési segélyben részesül, vagy amelytől a pénztártag a honvédek jogállásáról szóló törvény vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti nyugdíj előtti rendelkezési állományba áthelyezésre kerül. A nyugdíjkorhatár betöltése után a pénztártag a várakozási idő időtartamától függetlenül jogosulttá válik a nyugdíjszolgáltatásra;
+- a) nyugdíjkorhatár: a társadalombiztosítási nyugellátásról szóló törvény szerinti öregségi nyugdíjkorhatár, továbbá az az időpont, amelytől a pénztártag öregségi nyugdíjban, korhatár előtti ellátásban, szolgálati járandóságban, táncművészeti életjáradékban, átmeneti bányászjáradékban, rokkantsági ellátásban, a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított öregségi, rokkantsági nyugdíjsegélyben (nyugdíjban), növelt összegű öregségi, munkaképtelenségi járadékban vagy nyugdíj előtti álláskeresési segélyben részesül, vagy amelytől a pénztártag a honvédek jogállásáról szóló törvény vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti nyugdíj előtti rendelkezési állományba áthelyezésre kerül. A nyugdíjkorhatár betöltése után a pénztártag a várakozási idő időtartamától függetlenül jogosulttá válik a nyugdíjszolgáltatásra;
 - b) felhalmozási időszak: a tagsági viszonynak a belépéstől a c) pont szerinti nyugdíjszolgáltatás megnyílásáig terjedő időszaka;
 - c) nyugdíjszolgáltatás (kiegészítő nyugdíj): A nyugdíjkorhatár elérése után a pénztártag részére, az egyéni számláján nyilvántartott összeg terhére, az alapszabályban rögzített módozatoknak megfelelően választása szerint egy összegben vagy járadék formájában, illetőleg e kettő kombinációjaként történő pénzbeni kifizetés;
 - d) értékelési különbözet céltartaléka: az önkéntes kölcsönös nyugdíjpénztárak befektetési és gazdálkodási tevékenységéről szóló jogszabályban felsorolt eszközcsoportokba tartozó eszközök esetében az üzleti év mérleg-fordulónapjára, illetve a negyedév utolsó napjára meghatározott felhalmozott kamatot is tartalmazó piaci értéke és könyv szerinti értéke közötti különbözet összegében képzett céltartalék. Az értékelési különbözet az adott eszközcsoportokon belül elkülönítetten, a források között a működési, a fedezeti (választható befektetési portfóliót biztosító rendszert működtető pénztárak esetén választható befektetési portfóliónként), illetve a likviditási céltartalékon belül értékelési különbözetből képzett céltartalékként jelenik meg;
@@ -448,7 +448,7 @@ A szociális biztonság erősítése sürgető társadalmi érdek. A szociális 
 
 (2) A pénztár megalakulásakor és a vezető tisztségviselők, az ügyvezető (helyettes ügyvezető), illetve a kötelező alkalmazottak, megbízottak változása esetén – ideértve azok újraválasztását vagy újbóli kinevezését is – figyelemmel a (3) bekezdésben foglaltakra a pénztár csatolja
 
-- a) a 20. § (2) bekezdésében meghatározott kizáró ok hiányát igazoló hatósági bizonyítvány eredeti példányát,
+- a) a 20. § (2) bekezdésében meghatározott kizáró ok hiányát igazoló hatósági bizonyítvány eredeti vagy hiteles másolati példányát,
 - b) az érintett személy nyilatkozatát arról, hogy vele szemben jogszabályban meghatározott összeférhetetlenségi ok nem áll fenn,
 - c) a jogszabály által előírt végzettségét vagy gyakorlatát igazoló dokumentumok hiteles másolatát és
 - d) a vezető tisztségviselő esetén annak nyilatkozatát a tisztség elfogadásáról.
@@ -591,7 +591,7 @@ képviseli.
 - b) a telefonon közölt szóbeli panaszt legalább a hét egy munkanapján 8 órától 20 óráig,
 - c) elektronikus eléréssel – üzemzavar esetén megfelelő más elérhetőséget biztosítva – folyamatosan fogadja.
 
-(3) Telefonon történő panaszkezelés esetén a pénztár biztosítja az ésszerű várakozási időn belüli hívásfogadást és ügyintézést.
+(3) Telefonon történő panaszkezelés esetén a pénztár biztosítja az ésszerű várakozási időn belüli hívásfogadást és ügyintézést. A pénztár az ügyintézőjének – a pénztár felé indított hívás sikeres felépülésének időpontjától számított – öt percen belüli élőhangos bejelentkezése érdekében úgy köteles eljárni, ahogy az az adott helyzetben általában elvárható.
 
 (4) Telefonon történő panaszkezelés esetén a pénztár és a pénztártag közötti telefonos kommunikációt a pénztár hangfelvétellel rögzíti, és a hangfelvételt öt évig megőrzi. Erről a pénztártagot a telefonos ügyintézés kezdetekor tájékoztatni kell. A pénztártag kérésére biztosítani kell a hangfelvétel visszahallgatását, továbbá térítésmentesen rendelkezésre kell bocsátani a hangfelvételről készített hitelesített jegyzőkönyvet.
 
@@ -1552,7 +1552,7 @@ nyújthat.
 - d) a gazdálkodási vagy befektetési üzletmenet kihelyezése esetén az erre vonatkozó szerződést;
 - e)
 - f) az egészségpénztáraknak, amennyiben kötöttek, az egészségbiztosítási szervvel, illetve a helyi önkormányzattal (önkormányzatokkal) kötött szerződést;
-- g) a nyugdíjpénztáraknak, amennyiben kötöttek, a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szervvel kötött szerződést;
+- g) a nyugdíjpénztáraknak, amennyiben kötöttek, a központi nyugdíjbiztosítási szervvel kötött szerződést;
 - h) a bírósági nyilvántartásba vétel iránti kérelem benyújtását igazoló iratot.
 
 (5) Az induló gazdálkodási tervnek tartalmaznia kell

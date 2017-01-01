@@ -10,7 +10,7 @@ Az Országgyűlés azon kötelezettségére tekintettel, hogy a közügyek szaba
 
 (2) Az ekho az e törvényben meghatározott megoszlásban a központi költségvetést és a társadalombiztosítás pénzügyi alapjait – magánnyugdíjpénztár-tag magánszemély esetében a magánszemély javára a magánnyugdíjpénztárát is – illeti meg.
 
-(3) A kifizető és a magánszemély az ekhóval összefüggő adókötelezettségeit e törvény, valamint az adózás rendjéről szóló törvény (a továbbiakban: Art.) rendelkezései szerint teljesíti.
+(3) A kifizető és a magánszemély az ekhóval összefüggő adókötelezettségeit e törvény, a személyi jövedelemadóról szóló törvény (a továbbiakban: Szja tv.) és az adózás rendjéről szóló törvény (a továbbiakban: Art.) rendelkezései szerint teljesíti.
 
 (4) Az ekhóval összefüggő adóztatási feladatok az állami adóhatóság hatáskörébe tartoznak.
 
@@ -32,7 +32,7 @@ Az Országgyűlés azon kötelezettségére tekintettel, hogy a közügyek szaba
   - aa) munkaviszonyból származó,
   - ab) egyéni vállalkozóként vállalkozói kivét címén,
   - ac) társas vállalkozás tagjaként személyes közreműködés ellenértéke címén,
-  - ad) vállalkozási, megbízási szerződés alapján a személyi jövedelemadóról szóló törvény (a továbbiakban: Szja tv.) szerint egyéni vállalkozónak nem minősülő magánszemélyként
+  - ad) vállalkozási, megbízási szerződés alapján az Szja tv. szerint egyéni vállalkozónak nem minősülő magánszemélyként
 
 olyan jövedelmet szerez, amely után a közteherviselési kötelezettségek (EGT-államban biztosított személy esetében a személyi jövedelemadó fizetési kötelezettség) teljesítése az általános szabályok szerint történik, vagy
 
@@ -307,7 +307,7 @@ minősül.
 
 (7) Az ekhót fizető magánszemély biztosítási jogviszonyára és e jogviszonyával összefüggő nyilvántartási, adatszolgáltatási, a járulékfizetési kötelezettség teljesítésére, valamint jogosultságaira az e törvényben meghatározott eltéréssel a Tbj. rendelkezéseit megfelelően alkalmazni kell.
 
-(8) Az ekhót választó magánszemély önadózóként az adóévről személyi jövedelemadó bevallást nyújt be, amelyben feltünteti a jogszerűen ekhóalapként figyelembe vett bevételét és az abból levont ekho összegét. Az 5. § (3) bekezdése szerinti nyilatkozat esetén a magánszemély az általa megállapított ekhot negyedévente, a negyedévet követő hó 12. napjáig fizeti meg, az e nyilatkozat szerinti ekho alapját és fizetendő összegét – a kifizetőtől átvállalt és a magánszemélyt terhelő összegek szerint külön – negyedéves bontásban a negyedév utolsó hónapjának kötelezettségeként az éves személyi jövedelemadó bevallásában vallja be.
+(8) Az ekhót választó magánszemély önadózóként az adóévről az adóhatóság közreműködése nélkül elkészített bevallás benyújtásával vagy az állami adóhatóság által összeállított adóbevallási tervezettel teljesíti bevallási kötelezettségét, amelyben feltünteti a jogszerűen ekhoalapként figyelembe vett bevételét és az abból levont ekho összegét. Az 5. § (3) bekezdése szerinti nyilatkozat esetén a magánszemély az általa megállapított ekhot negyedévente, a negyedévet követő hó 12. napjáig fizeti meg, az e nyilatkozat szerinti ekho alapját és fizetendő összegét – a kifizetőtől átvállalt és a magánszemélyt terhelő összegek szerint külön – negyedéves bontásban a negyedév utolsó hónapjának kötelezettségeként az éves személyi jövedelemadó bevallásában vagy az állami adóhatóság által összeállított adóbevallási tervezet felhasználásával elkészített bevallásban vallja be.
 
 (9) A kifizetőt és a magánszemélyt az ekho alapját képező bevétellel összefüggésben az e törvényben szabályozott kötelezettségeken túlmenően – ide nem értve a kifizető e törvényben szabályozott kötelezettségei megsértésével összefüggő, az Art. szerint kiszabható mulasztási bírságot – egyéb adóval és más közteherrel összefüggő fizetési kötelezettség nem terheli.
 

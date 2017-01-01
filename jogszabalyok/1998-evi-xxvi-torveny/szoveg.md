@@ -234,15 +234,15 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 
 ### Hatásköri, eljárási szabályok
 
-23/B. § (1) A fogyatékossági támogatás megállapítására irányuló eljárás kérelemre indul. A fogyatékossági támogatás megállapítása a fővárosi és megyei kormányhivatal hatáskörébe tartozik.
+23/B. § (1) A fogyatékossági támogatás megállapítására irányuló eljárás kérelemre indul. A fogyatékossági támogatás megállapítása a fogyatékossági támogatási szerv hatáskörébe tartozik.
 
-(2) A 23. § (2) bekezdésében meghatározott személy vonatkozásában a fogyatékossági támogatás megállapítása a fővárosi és megyei kormányhivatal hatáskörébe tartozik.
+(2)
 
 (3)
 
 (4) Ha a fogyatékossági támogatásra irányuló kérelmet azért utasították el, mert a kérelmező ügyfél nem súlyosan fogyatékos, az elutasító határozat jogerőre emelkedését követő egy éven belül előterjesztett újabb fogyatékossági támogatás megállapítására irányuló kérelemre a bizonyítási eljárást csak abban az esetben kell lefolytatni, ha az orvos igazolja, hogy az igénylő állapota az elutasítás óta rosszabbodott; egyébként – a jogszabályváltozás esetét kivéve – a kérelmet érdemi vizsgálat nélkül el kell utasítani.
 
-23/C. § (1) A fővárosi és megyei kormányhivatal az eljárásában a súlyosan fogyatékos állapotot szakkérdésként vizsgálja.
+23/C. § (1) A fogyatékossági támogatási szerv az eljárásában a súlyosan fogyatékos állapotot szakkérdésként vizsgálja.
 
 (2) Ha a kérelmező súlyos fogyatékosságát a rehabilitációs szakértői szerv vagy jogelődjének hatályos határozata, szakhatósági állásfoglalása vagy szakvéleménye korábban nem állapította meg, az elsőfokú eljárásban az ügyintézési határidő negyven nap.
 
@@ -250,7 +250,7 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 
 (2)
 
-(3) A fogyatékossági támogatásban részesülő, illetve annak gondnoka a jogosultság feltételeit érintő lényeges tények, körülmények megváltozásáról 15 napon belül köteles értesíteni a fővárosi és megyei kormányhivatalt.
+(3) A fogyatékossági támogatásban részesülő, illetve annak gondnoka a jogosultság feltételeit érintő lényeges tények, körülmények megváltozásáról 15 napon belül köteles értesíteni a fogyatékossági támogatási szervet.
 
 (4) Ha a támogatásra vonatkozó igényt jogerősen megállapítják, az ellátás a kérelem benyújtásától esedékes.
 
@@ -258,7 +258,7 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 
 ### A fogyatékossági támogatás folyósítása, finanszírozása, a jogalap nélkül felvett ellátás visszafizetése
 
-23/E. § (1) A fogyatékossági támogatást a fővárosi és megyei kormányhivatal folyósítja.
+23/E. § (1) A fogyatékossági támogatást a Kormány által kijelölt szerv folyósítja.
 
 (2) A bentlakásos intézményben lakó súlyosan fogyatékos cselekvőképtelen személy ellátását az intézmény vezetőjének kell folyósítani. Az intézmény vezetője a jogosult személy fogyatékossági támogatását az intézmény költségvetésétől elkülönítetten kezeli és biztosítja a személyre szóló felhasználást.
 
@@ -273,17 +273,17 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 
 (6) Az (5) bekezdésben meghatározott idő elteltével a jogalap nélkül felvett fogyatékossági támogatást attól lehet visszakövetelni, akinek az ellátás felvétele felróható, feltéve, hogy az ellátás megszűnésétől számított kevesebb mint három év telt el.
 
-(7) Ha a fogyatékossági támogatást jogalap nélkül igénybe vett személy igazolja, hogy tartozásának azonnali vagy egyösszegben való megfizetése családi, jövedelmi, vagyoni és szociális körülményeire való tekintettel magának vagy a tartásra szoruló hozzátartozónak aránytalanul súlyos anyagi megterhelést jelentene, részére a fővárosi és megyei kormányhivatal legfeljebb tizenkét hónapi halasztást engedélyezhet, illetőleg azt, hogy a tartozást harminchat hónapon belül részletekben fizesse meg.
+(7) Ha a fogyatékossági támogatást jogalap nélkül igénybe vett személy igazolja, hogy tartozásának azonnali vagy egyösszegben való megfizetése családi, jövedelmi, vagyoni és szociális körülményeire való tekintettel magának vagy a tartásra szoruló hozzátartozónak aránytalanul súlyos anyagi megterhelést jelentene, részére a fogyatékossági támogatási szerv legfeljebb tizenkét hónapi halasztást engedélyezhet, illetőleg azt, hogy a tartozást harminchat hónapon belül részletekben fizesse meg.
 
 (8) Aki a jogosult halála esetén a kiutalt fogyatékossági támogatást jogalap nélkül vette fel, köteles azt visszafizetni, ha erre határozatban kötelezték.
 
-(9) A jogosult halálának hónapját követően belföldi pénzforgalmi szolgáltatónál vezetett fizetési számlára átutalt jogalap nélküli ellátásnak a fizetési számla terhére történő visszafizetésére a fővárosi és megyei kormányhivatal a pénzforgalmi szolgáltatót kötelezi, feltéve hogy a fizetési számla feletti rendelkezésre más személy nem jogosult és a visszautalás a fizetési számla terhére megtörténhet. A fizetési számla felett rendelkezésre jogosult más személy természetes személyazonosító adatait és lakcímét a pénzforgalmi szolgáltató a fővárosi és megyei kormányhivatalnak átadja. A fővárosi és megyei kormányhivatal a követelését – visszafizetésre kötelező határozat kibocsátásával – akkor is e személlyel szemben érvényesíti, ha a jogalap nélkül kiutalt ellátást az elhunyt számlájáról még nem vették fel.
+(9) A jogosult halálának hónapját követően belföldi pénzforgalmi szolgáltatónál vezetett fizetési számlára átutalt jogalap nélküli ellátásnak a fizetési számla terhére történő visszafizetésére a fogyatékossági támogatási szerv a pénzforgalmi szolgáltatót kötelezi, feltéve hogy a fizetési számla feletti rendelkezésre más személy nem jogosult és a visszautalás a fizetési számla terhére megtörténhet. A fizetési számla felett rendelkezésre jogosult más személy természetes személyazonosító adatait és lakcímét a pénzforgalmi szolgáltató a fogyatékossági támogatási szervnek átadja. A fogyatékossági támogatási szerv a követelését – visszafizetésre kötelező határozat kibocsátásával – akkor is e személlyel szemben érvényesíti, ha a jogalap nélkül kiutalt ellátást az elhunyt számlájáról még nem vették fel.
 
 (10) A jogerősen megállapított és nem teljesített visszafizetési kötelezettség alapján a jogalap nélkül felvett fogyatékossági támogatás és annak kamatai – a (9) bekezdésben meghatározott kivétellel – köztartozásnak minősül, és adók módjára kell behajtani.
 
 ### A nyilvántartásra, adatvédelemre vonatkozó rendelkezések
 
-23/F. § (1) A fővárosi és megyei kormányhivatal, valamint a fogyatékossági támogatás ügyében másodfokon eljáró hatóság (a továbbiakban együtt: nyilvántartást vezető szerv) a fogyatékossági támogatásra való jogosultság megállapítása, az ellátás biztosítása céljából nyilvántartást vezet. A nyilvántartás tartalmazza
+23/F. § (1) A Kormány által a nyilvántartás vezetésére kijelölt szerv (a továbbiakban: nyilvántartást vezető szerv) a fogyatékossági támogatásra való jogosultság megállapítása, az ellátás biztosítása céljából nyilvántartást vezet. A nyilvántartás tartalmazza
 
 - a) a jogosult természetes személyazonosító adatait;
 - b) a jogosult állampolgárságát, illetve bevándorolt, letelepedett, menekült vagy hontalan jogállását;
@@ -346,7 +346,7 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 
 (2) A vakok személyi járadéka 2013. június 1-jétől havi 16 160 forint összegben jár. A kincstár a 2013. június hónapra járó vakok személyi járadékát a jogosultak számára már emelt összegben folyósítja. A vakok személyi járadékát 2014. január 1-jétől a társadalombiztosítási nyugellátásról szóló törvénynek a nyugellátások évenkénti rendszeres emelésére vonatkozó szabályai szerint, azzal megegyező mértékben emelni kell.
 
-29/B. §
+29/B. § Felhatalmazást kap a Kormány, hogy a fogyatékossági támogatás ügyében első- és másodfokon eljáró fogyatékossági támogatási szervet, a fogyatékossági támogatást folyósító szervet, valamint a nyilvántartást vezető szervet rendeletben jelölje ki.
 
 30. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg
 

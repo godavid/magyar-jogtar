@@ -6,7 +6,7 @@ a büntetés-végrehajtási szervezetről
 
 ### A büntetés-végrehajtási szervezet jogállása
 
-1. § (1) A büntetés-végrehajtási szervezet (a továbbiakban: bv. szervezet) a külön törvényben meghatározott szabadság-elvonással járó büntetéseket, intézkedéseket, büntetőeljárási kényszerintézkedéseket, a szabálysértési elzárást, a szabadságvesztésből szabadultak utógondozásával, az utógondozás keretében végzett börtönpártfogolási tevékenységgel és a feltételes szabadságra bocsátással összefüggésben elrendelt pártfogó felügyelői vélemény elkészítésével, valamint a feltételes szabadság tartamára törvény alapján fennálló vagy elrendelt pártfogó felügyelettel kapcsolatos pártfogó felügyelői feladatokat végrehajtó állami, fegyveres rendvédelmi szerv.
+1. § (1) A büntetés-végrehajtási szervezet (a továbbiakban: bv. szervezet) a külön törvényben meghatározott szabadságelvonással járó büntetéseket, intézkedéseket, büntetőeljárási kényszerintézkedéseket, a szabadságvesztésből szabadultak utógondozását, valamint a büntetés-végrehajtási pártfogó felügyelői feladatokat végrehajtó állami, fegyveres rendvédelmi szerv.
 
 (2) A bv. szervezet a feladatainak törvényes ellátásával járul hozzá a közrend és a közbiztonság erősítéséhez.
 
@@ -75,7 +75,7 @@ a büntetés-végrehajtási szervezetről
 5. § Az Országos Parancsnokság a jogszabályok, a miniszter döntései és az országos parancsnok utasításai, valamint egyedi intézkedései alapján
 
 - a) előkészíti az országos parancsnok utasításait, parancsait és előterjesztéseit;
-- b) felügyeli, ellenőrzi és szakmailag irányítja a bv. szervek szolgálati feladatainak a végrehajtását, így különösen a fogvatartás biztonságával, a fogvatartottak nevelésével, foglalkoztatásával, egészségügyi ellátásával, szállításával és nyilvántartásával, valamint a szabadságvesztésből szabadultak utógondozásával, az utógondozás keretében végzett börtönpártfogolási tevékenységgel, pártfogó felügyelői vélemény elkészítésével, valamint a feltételes szabadság tartamára törvény alapján fennálló vagy elrendelt pártfogó felügyelet végrehajtásával kapcsolatos tevékenységet;
+- b) felügyeli, ellenőrzi és szakmailag irányítja a bv. szervek szolgálati feladatainak a végrehajtását, így különösen a fogvatartás biztonságával, a fogvatartottak reintegrációjával, foglalkoztatásával, egészségügyi ellátásával, szállításával és nyilvántartásával, szabadulásra felkészítés körében a gondozással és a szabadságvesztésből szabadultak utógondozásával, valamint a büntetés-végrehajtási pártfogó felügyelői feladatok végrehajtásával kapcsolatos tevékenységet;
 - c) bv. szervezet költségvetésének keretei között biztosítja a bv. szervek feladatainak ellátásához szükséges feltételeket;
 - d) a fogvatartottak foglalkoztatását végző gazdasági társaságok (a továbbiakban: gazdasági társaságok) és a fogvatartottak foglalkoztatására létrehozott költségvetési szervek működésével kapcsolatban ellátja a miniszter által meghatározott büntetés-végrehajtási feladatokat;
 - e) végzi a honvédelemmel, a polgári és katasztrófavédelmi tevékenységgel, a munkavédelemmel, környezetvédelemmel, energetikai tevékenységgel, elektronikus információbiztonsággal és a tűzvédelemmel kapcsolatos központi feladatokat;
@@ -142,6 +142,8 @@ a büntetés-végrehajtási szervezetről
 (6) A személyi állomány egyenruha viselésére kötelezett tagját az intézkedése során az egyenruhája és az azon elhelyezett azonosítószáma, a nem egyenruhában szolgálatot teljesítő tagját a szolgálati igazolványa igazolja.
 
 (7) Ha az intézkedések a személyi állomány vagy a fogvatartottak életének és testi épségének a megvédésére, a fogvatartás törvényes biztosítására, a fogolyszökés megakadályozására nem elegendők, a bv. szerv köteles más rendvédelmi szerv közreműködését kérni.
+
+(8) A végrehajtás rendjének és a fogvatartás biztonságának fenntartása érdekében foganatosított intézkedéssel érintett személyről, valamint az intézkedés szempontjából lényeges körülményről, tárgyról mobil elektronikus megfigyelési eszközzel képfelvétel, hangfelvétel vagy kép- és hangfelvétel készíthető. A mobil elektronikus megfigyelési eszközzel rögzített felvétel és az abban szereplő személyes adat felhasználására és kezelésére a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvénynek az elektronikus megfigyelési eszköz által rögzített felvétel és az abban szereplő személyes adat felhasználására és kezelésére vonatkozó rendelkezéseit kell alkalmazni.
 
 ### Titoktartási kötelezettség
 

@@ -174,7 +174,7 @@ nem gyakorolhatja, követeléseinek a zálogtárgyból (az óvadék tárgyából
 - f) a határidők tekintetében megállapított jogkövetkezmények,
 - g) a hitelezői igények elfogadására jogosult testület vagy hatóság megjelölése.
 
-(3) A kérelemhez az eredeti okiraton túl csatolni kell annak hiteles magyar fordítását is, valamint mellékelni kell a közzétételi költségtérítés megfizetésének igazolását.
+(3) A kérelemhez az eredeti okiraton vagy hiteles másolatán túl csatolni kell annak hiteles magyar fordítását is, valamint mellékelni kell a közzétételi költségtérítés megfizetésének igazolását.
 
 (4) Ha az adósnak, aki ellen a Tanács fizetésképtelenségi eljárásokról szóló 1346/2000/EK rendelete alapján az Európai Unió más tagállamában főeljárás indult, Magyarországon telephelye van, a főeljárásban kijelölt felszámoló köteles kérni a főeljárást megindító határozat, illetve a felszámolót kijelölő határozat lényeges tartalmának közzétételét. A felszámoló felel az ennek elmulasztásával okozott kárért.
 
@@ -182,7 +182,7 @@ nem gyakorolhatja, követeléseinek a zálogtárgyból (az óvadék tárgyából
 
 6/C. § (1) Ha az adósnak, aki ellen a Tanács fizetésképtelenségi eljárásokról szóló 1346/2000/EK rendelete alapján az Európai Unió más tagállamában főeljárás indult, Magyarországon ingatlan vagyona vagy egyéb, közhitelű nyilvántartásba bejegyzett vagyona vagy telephelye van, a főeljárás során kijelölt felszámoló köteles kérni, hogy a bíróság rendelje el a főeljárást megindító határozat tényének bejegyzését az ingatlan-nyilvántartásba, illetve egyéb közhitelű nyilvántartásba. A felszámoló felel az ennek elmulasztásával okozott kárért.
 
-(2) A kérelemhez az eredeti okiraton túl csatolni kell annak hiteles magyar fordítását is.
+(2) A kérelemhez az eredeti okiraton vagy hiteles másolatán túl csatolni kell annak hiteles magyar fordítását is.
 
 6/D. § A 6/B. és a 6/C. §-ok szerinti kérelmet a Fővárosi Törvényszékhez kell benyújtani, amely nemperes eljárásban dönt a kérelemről a beérkezéstől számított legfeljebb 30 napon belül, a 6/B. § szerinti kérelem esetében az igények bejelentésére a közzéteendő határozatban előírt határidők figyelembevételével. A határozat ellen jogorvoslatnak nincs helye.
 
@@ -726,7 +726,7 @@ kapcsolatos kiadások fedezetére.
 - f) írásban vállalja, hogy az a)–e) pontokban és a (4) bekezdésben meghatározott adatokról, feltételekről, azok változásáról, valamint a (3) bekezdésben jelölt tényről a névjegyzéket vezető szervezetet legkésőbb a változás, illetve tény bekövetkezését követő öt napon belül írásban tájékoztatja, továbbá közzéteszi a honlapján azoknak a gazdálkodó szervezeteknek a nevét, székhelyét, cégjegyzékszámát, ahová felszámolóként, ideiglenes vagyonfelügyelőként, vagyonfelügyelőként, vagy végelszámolóként, pénzügyi gondnokként kirendelték, a kirendelés kezdetének és megszűnésének dátumával, továbbá az általa felszámolóbiztosként illetve vagyonfelügyelői tevékenység ellátásáért felelős, az e törvényben meghatározott szakirányú szakképzettséggel rendelkező személy nevével, hivatali levelezési címével együtt,,
 - g) igazolja, hogy a gazdasági társaság legalább két-két felszámolási és vagyonfelügyeleti szakirányú szakképzettséggel rendelkező személyt, továbbá közgazdászt, jogi szakvizsgát tett jogászt, a Magyar Könyvvizsgálói Kamaránál bejegyzett és könyvvizsgálói igazolvánnyal rendelkező könyvvizsgálót foglalkoztat. Az említettek közül – a könyvvizsgálót kivéve – legalább egy-egy főnek munkaviszonyban kell állnia a gazdasági társasággal.
 
-(2a) A (2) bekezdés g) pontja szerinti személyek esetében a 27/B. § (9) bekezdés szerinti hatósági bizonyítvány eredeti példányával kell igazolni, hogy velük szemben nem áll fenn a 27/B. § (8) bekezdésében meghatározott körülmény.
+(2a) A (2) bekezdés g) pontja szerinti személyek esetében a 27/B. § (9) bekezdés szerinti hatósági bizonyítvány eredeti vagy hiteles másolati példányával kell igazolni, hogy velük szemben nem áll fenn a 27/B. § (8) bekezdésében meghatározott körülmény.
 
 (3) A felszámoló addig, amíg a felszámolói névjegyzékben szerepel:
 
@@ -1210,7 +1210,7 @@ kapcsolatos kiadások fedezetére.
 - a) az adóst terhelő munkabér és egyéb bérjellegű juttatások, ideértve
   - aa) a munkaviszony megszűnésekor járó végkielégítést, valamint a kollektív szerződésben, illetve a munkaszerződésben meghatározott juttatásokat,
   - ab) az adós által a kölcsönbeadóval kötött munkaerő-kölcsönzési szerződésben foglalt, az adóst, mint kölcsönvevőt terhelő díjból az adóshoz kölcsönzött munkavállalók részére járó, a kölcsönbeadó által fizetendő munkabért és egyéb bérjellegű juttatásokat, és
-  - ac) az adós által az iskolaszövetkezettel megkötött szerződésben foglalt, az adóst, mint az iskolaszövetkezet szolgáltatását igénybevevőjét terhelő díj 85 %-át – amely az iskolaszövetkezetnek járó díjból az iskolaszövetkezeti tag munkavállalók részére járó munkabér, egyéb bérjellegű juttatás összegét foglalja magában –, továbbá
+  - ac) az adós által az iskolaszövetkezettel megkötött szerződésben foglalt, az adóst, mint az iskolaszövetkezet szolgáltatásának igénybevevőjét terhelő díj 85%-át – amely az iskolaszövetkezetnek járó díjból a feladatteljesítés során személyesen közreműködő iskolaszövetkezeti tagok részére járó díj és a díjhoz kapcsolódó egyéb juttatások összegét foglalja magában –, továbbá
   - ad) ha a felszámolás kezdő időpontját megelőzően esedékessé vált munkabért és egyéb bérjellegű juttatásokat a felszámoló a felszámolás kezdő időpontja után fizette ki, az ezeket terhelő adó- és járulékfizetési kötelezettséget is (ideértve az egészségügyi hozzájárulást);
 - b) a felszámolás kezdő időpontja után az adós gazdasági tevékenységének ésszerű befejezésével, továbbá vagyonának megőrzésével kapcsolatos költségek, ideértve a környezeti károsodások és terhek rendezésének, az engedély nélkül más célra hasznosított termőföld eredeti állapotba történő helyreállításának, valamint a termőföldvédelmi követelmények betartásának a költségeit is, továbbá a 27/A. § (13) bekezdése szerint létesített polgári jogi jogviszonnyal összefüggésben felmerült kiadásokat, valamint az adósnak azokat a tartozásait, adó-, járulék- és egyéb közteherfizetési, kártérítési, kártalanítási kötelezettségeit, amelyek a felszámolási eljárás kezdő időpontja utáni gazdasági tevékenységből keletkeztek, kivéve a nyereségből fizetendő adókat;
 - c) a vagyon értékesítésével és a követelések érvényesítésével kapcsolatos igazolt költségek;
@@ -1595,6 +1595,8 @@ A csődeljárásról, a felszámolási eljárásról és a végelszámolásról 
 83/N. § E törvénynek a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény módosításáról szóló 2015. évi CLXXI. törvénnyel (a továbbiakban: 2015. évi CLXXI. törvény) megállapított 27/D. §-ában foglaltakat a 2015. évi CLXXI. törvény hatálybalépésekor folyamatban lévő és a megismételt közigazgatási hatósági eljárásokban, a 49/E. § (6) bekezdését pedig a 2015. évi CLXXI. törvény hatálybalépésekor folyamatban lévő elektronikus értékesítési eljárásokban is alkalmazni kell.
 
 83/O. § E törvénynek a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény, valamint a bírósági végrehajtásról szóló 1994. évi LIII. törvény módosításáról szóló 2015. évi CXCIII. törvénnyel (a továbbiakban: 2015. évi CXCIII. törvény) megállapított 6. § (3) bekezdés b) pont bd) alpontját, 12. § (6) és (7) bekezdését, 26. § (5) bekezdését, 27. § (7) és (8) bekezdését, 38/A. §-át, 49/D. § (1) bekezdését, valamint 57. § (2) bekezdés j) pontját a 2015. évi CXCIII. törvény hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
+
+83/P. § E törvénynek az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról szóló 2016. évi CXXI. törvénnyel megállapított 6/B. § (3) bekezdését, 6/C. § (2) bekezdését és 27/C. § (2a) bekezdését 2017. december 31-ig csak akkor kell alkalmazni, ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
 84. § (1) Ha a felszámoló vagy annak tagja nem felel meg a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény és egyéb törvények módosításáról szóló 2012. évi CIV. törvénnyel módosított 27/A. § (2) bekezdés szerinti átlátható és megismerhető tulajdonosi szerkezeti feltételeknek, a felszámolónak 2012. szeptember 1-jéig kell igazolnia a feltételek teljesítését a felszámolók névjegyzékét vezető szervnek.
 

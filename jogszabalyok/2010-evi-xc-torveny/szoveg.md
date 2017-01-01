@@ -27,29 +27,26 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 
 (4) Ha a foglalkoztató elmulasztja a regisztrációs díjfizetési kötelezettségét és/vagy a bejelentési kötelezettségét teljesíteni, a mulasztással érintett naptári hónapokban a háztartási alkalmazottnak kifizetett bevétel teljes összege után a személyi jövedelemadóról szóló törvény és a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény rendelkezései szerint az adót és a járulékokat meg kell fizetni. Ha a mulasztás a foglalkoztató érdekkörére vezethető vissza, a magánszemélyt terhelő közterheket is a foglalkoztató köteles megfizetni.
 
-3. § (1) Háztartási alkalmazott foglalkoztatása esetén a foglalkoztató az állami adóhatóságnak havonta vagy több hónapra előre a munkavégzés megkezdése előtt bejelenti a (3) bekezdés szerinti adatokat. A foglalkoztató bejelentési kötelezettségét – választása szerint –
+3. § (1) Háztartási alkalmazott foglalkoztatása esetén a foglalkoztató az állami adóhatóságnak havonta vagy több hónapra előre a munkavégzés megkezdése előtt bejelenti a (2) bekezdés szerinti adatokat. A foglalkoztató, választása szerint, bejelentési kötelezettségét
 
-- a) elektronikus úton, a kormányzati kézbesítési szolgáltatás alkalmazásával (a továbbiakban: ügyfélkapu),
-- b) telefonos ügyfélszolgálaton keresztül telefonon, vagy
-- c)
+- a) elektronikus azonosítását követő elektronikus kapcsolattartás útján, vagy
+- b) az országos telefonos ügyfélszolgálaton keresztül telefonon
 
-teljesítheti.
+teljesíti.
 
-(2) A foglalkoztató akkor élhet az (1) bekezdés a) pontjában foglalt bejelentési lehetőséggel, ha előzetesen regisztráltatta magát az ügyfélkapu használata céljából.
-
-(3) A foglalkoztató bejelentési kötelezettségét az alábbi adatok közlésével teljesíti:
+(2) A foglalkoztató bejelentési kötelezettségét az alábbi adatok közlésével teljesíti:
 
 - a) a foglalkoztató adóazonosító jele,
 - b) a háztartási alkalmazott adóazonosító jele és társadalombiztosítási azonosító jele,
 - c) a tényleges foglalkoztatás kezdő napja.
 
-(3a) Az állami adóhatóság a (3) bekezdésben meghatározott adattartalmú bejelentésekről nyilvántartást vezet, amely – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül.
+(3) Az állami adóhatóság a (2) bekezdésben meghatározott adattartalmú bejelentésekről nyilvántartást vezet, amely a (2) bekezdés c) pontja szerinti adat tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
-(4) A háztartási alkalmazott (1) bekezdés b) pontja szerint történő bejelentése a kormányzati tájékoztató szolgáltatás (a továbbiakban: központi ügyfélszolgálat) útján történik, a bejelentő adóazonosító jelének megadásával. A központi ügyfélszolgálat a bejelentést az elektronikus közszolgáltatásokról szóló törvény szabályai szerint rögzíti, és a bejelentőt a bejelentés eredményéről egyidejűleg tájékoztatja. A központi ügyfélszolgálat a bejelentett adatokat haladéktalanul továbbítja az állami adóhatósághoz, és a bejelentett adatokat a bejelentést követő ötödik év december 31-éig őrzi meg, azt követően törli azokat. A központi ügyfélszolgálat az e fejezetben meghatározott személyes adatokat, továbbá az adótitkot feladata teljesítéséhez szükséges mértékben megismerheti és kezelheti.
+(4) A háztartási alkalmazott (1) bekezdés b) pontja szerint történő bejelentése az országos telefonos ügyfélszolgálat útján történik, a foglalkoztató adóazonosító jelének megadásával. Az országos telefonos ügyfélszolgálat a bejelentést az elektronikus közszolgáltatásokról szóló törvény szabályai szerint rögzíti, és a foglalkoztatót a bejelentés eredményéről egyidejűleg tájékoztatja. Az országos telefonos ügyfélszolgálat a bejelentett adatokat haladéktalanul továbbítja az állami adóhatósághoz, és a bejelentett adatokat a bejelentést követő ötödik év december 31-éig őrzi meg, azt követően törli azokat. Az országos telefonos ügyfélszolgálat az e fejezetben meghatározott személyes adatokat, továbbá az adótitkot feladata teljesítéséhez szükséges mértékben megismerheti és kezelheti.
 
 (5) Az (1) bekezdés szerinti bejelentés a teljesítés napját magában foglaló hónap utolsó napjáig, több hónapra vonatkozó bejelentés esetén a bejelentett időszak utolsó napjáig terjedő időszakra vonatkozik. Ugyanazon foglalkoztatott következő hónapban, vagy újabb több hónapos időszakra történő ismételt foglalkoztatása esetén a bejelentést az (1) bekezdés szabályainak megfelelően újra teljesíteni kell.
 
-(6) Az adóhatóság részére teljesített bejelentés visszavonására és módosítására a bejelentő vagy a háztartási alkalmazott adatainak téves közlése, illetve a munkavégzés meghiúsulása esetén a bejelentést követő 24 órán belül van lehetőség.
+(6) Az adóhatóság részére teljesített bejelentés visszavonására és módosítására a foglalkoztató vagy a háztartási alkalmazott adatainak téves közlése, illetve a munkavégzés meghiúsulása esetén a bejelentést követő 24 órán belül van lehetőség.
 
 4. § (1) A foglalkoztatót az adóhatósági nyilvántartásba vétel, regisztráció céljából a 3. § szerint teljesített bejelentéssel érintett háztartási alkalmazottanként havonta 1000 forint összegű regisztrációs díjfizetési kötelezettség terheli. A regisztrációs díj összege független attól, hogy az adott hónapon belül hány napon történt a foglalkoztatás. A havi regisztrációs díj nem jár vissza akkor, ha a háztartási alkalmazott foglalkoztatására az adott hónapban nem kerül sor.
 
@@ -61,7 +58,7 @@ teljesítheti.
 
 5. § (1) A háztartási alkalmazott az őt megillető adórendszeren kívüli bevétel összegéről a bevétel megszerzése időpontjában igazolást kérhet a foglalkoztatótól. Ha a hónapban a háztartási alkalmazottat ugyanaz a foglalkoztató több napon is foglalkoztatja, a háztartási alkalmazott az igazolást az adott hónapban az utolsó munkavégzéssel töltött napon kérheti.
 
-(2) A foglalkoztatott kérésére a foglalkoztató az igazolást havonta köteles kiállítani és kiadni. A foglalkoztató által kiadott igazolásnak a 3. § (3) bekezdésében meghatározottakon túl a háztartási alkalmazott részére teljesített kifizetés összegét, a kifizetés időpontját, a hónap során munkavégzéssel töltött napok felsorolását, a foglalkoztatás helyének címét, a foglalkoztató és a háztartási alkalmazott aláírását is tartalmaznia kell.
+(2) A foglalkoztatott kérésére a foglalkoztató az igazolást havonta köteles kiállítani és kiadni. A foglalkoztató által kiadott igazolásnak a 3. § (2) bekezdésében meghatározottakon túl a háztartási alkalmazott részére teljesített kifizetés összegét, a kifizetés időpontját, a hónap során munkavégzéssel töltött napok felsorolását, a foglalkoztatás helyének címét, a foglalkoztató és a háztartási alkalmazott aláírását is tartalmaznia kell.
 
 (3) A foglalkoztató által kiadott igazolás bélyegzőlenyomat nélkül is érvényes.
 
@@ -85,7 +82,7 @@ ib) a nyugdíjbiztosítási igazgatási szerv részére a nyugellátásra való 
 
 (2) Az e fejezetben nem szabályozott kérdésekben az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) rendelkezései az irányadók.
 
-9. § (1) Különadó fizetésére köteles az a költségvetési szervnél, állami, önkormányzati, közalapítványi forrásból alapított, fenntartott vagy működési támogatásban részesített más szervezetnél foglalkoztatott magánszemély, aki munkavégzésre irányuló jogviszonya alapján, továbbá aki a takarékos állami gazdálkodásról és a költségvetési felelősségről szóló 2008. évi LXXV. törvény vagy a köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló 2009. évi CXXII. törvény szerinti munkavégzésre irányuló jogviszonyban a (2) bekezdésben foglalt különadó alapnak minősülő bevételt szerez, kivéve azt, akinek a jogviszonya megszűnését követő naptári naptól a társadalombiztosítási nyugellátásról szóló törvényben meghatározott saját jogú nyugellátás, korhatár előtti ellátás, szolgálati járandóság, balettművészeti életjáradék vagy átmeneti bányászjáradék kerül megállapításra.
+9. § (1) Különadó fizetésére köteles az a költségvetési szervnél, állami, önkormányzati, közalapítványi forrásból alapított, fenntartott vagy működési támogatásban részesített más szervezetnél foglalkoztatott magánszemély, aki munkavégzésre irányuló jogviszonya alapján, továbbá aki a takarékos állami gazdálkodásról és a költségvetési felelősségről szóló 2008. évi LXXV. törvény vagy a köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló 2009. évi CXXII. törvény szerinti munkavégzésre irányuló jogviszonyban a (2) bekezdésben foglalt különadó alapnak minősülő bevételt szerez, kivéve azt, akinek a jogviszonya megszűnését követő naptári naptól a társadalombiztosítási nyugellátásról szóló törvényben meghatározott saját jogú nyugellátás, korhatár előtti ellátás, szolgálati járandóság, táncművészeti életjáradék vagy átmeneti bányászjáradék kerül megállapításra.
 
 (1a) Különadó fizetésére köteles
 
@@ -93,7 +90,7 @@ ib) a nyugdíjbiztosítási igazgatási szerv részére a nyugellátásra való 
 - b) a polgármester, a főpolgármester, a megyei közgyűlés elnöke (a továbbiakban együtt: polgármester), az alpolgármester, a főpolgármester-helyettes, a megyei közgyűlés alelnöke (a továbbiakban együtt: alpolgármester), ha e jogviszonyának megszűnésével összefüggésben a polgármesteri tisztség ellátásának egyes kérdéseiről és az önkormányzati képviselők tiszteletdíjáról szóló 1994. évi LXIV. törvény alapján vagy más jogcímen,
 - c) az európai parlamenti képviselő, ha megbízatásának megszűnésével összefüggésben az Európai Parlament magyarországi képviselőinek jogállásáról szóló 2004. évi LVII. törvény alapján vagy más jogcímen
 
-a (2) bekezdésben foglalt különadó alapnak minősülő bevételt szerez, kivéve azt, akinek a jogviszonya megszűnését követő naptári naptól a társadalombiztosítási nyugellátásról szóló törvényben meghatározott saját jogú nyugellátás, korhatár előtti ellátás, szolgálati járandóság, balettművészeti életjáradék vagy átmeneti bányászjáradék kerül megállapításra.
+a (2) bekezdésben foglalt különadó alapnak minősülő bevételt szerez, kivéve azt, akinek a jogviszonya megszűnését követő naptári naptól a társadalombiztosítási nyugellátásról szóló törvényben meghatározott saját jogú nyugellátás, korhatár előtti ellátás, szolgálati járandóság, táncművészeti életjáradék vagy átmeneti bányászjáradék kerül megállapításra.
 
 (1b) Az (1)–(1a) bekezdés alkalmazásában saját jogú nyugellátásnak minősül a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény alapján megállapított rokkantsági ellátás és rehabilitációs ellátás.
 
@@ -119,11 +116,12 @@ a (2) bekezdésben foglalt különadó alapnak minősülő bevételt szerez, kiv
 
 (3) A különadó alapjának 9. § szerint meghatározott összegét
 
-- a) az Szja tv. rendelkezéseinek alkalmazásában a jövedelem kiszámításánál nem kell figyelembe venni, azonban a kifizetés évére vonatkozó személyi jövedelemadó-bevallásban elkülönítve be kell vallani;
-- b) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény alkalmazásában – figyelemmel a c) pont rendelkezésre – nem kell járulékalapnak tekinteni;
-- c) a b) pont rendelkezésétől eltérően, a felmentési (felmondási) időnek a munkavégzési kötelezettséggel nem járó részére kifizetett munkabért, illetmény összegét társadalombiztosítási járulékalapként és nyugdíj alapjául szolgáló jövedelemként, valamint a munkavégzési kötelezettség alóli mentesítés idejét nyugdíjra jogosító szolgálati időként kell figyelembe venni.
+- a) az Szja tv. rendelkezéseinek alkalmazásában a jövedelem kiszámításánál nem kell figyelembe venni, azonban a kifizetés évére vonatkozó személyi jövedelemadóbevallásban elkülönítve be kell vallani vagy fel kell tüntetni az állami adóhatóság által összeállított adóbevallási tervezet felhasználásával elkészített személyi jövedelemadó bevallásban;
+- b) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény alkalmazásában – figyelemmel a d) pont rendelkezésére – nem kell járulékalapnak tekinteni;
+- c) az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény (a továbbiakban: Eat.) alkalmazásában – figyelemmel a d) pont rendelkezésére – nem kell a szociális hozzájárulási adó alapjának tekinteni;
+- d) a b) és c) pont rendelkezésétől eltérően, a felmentési (felmondási) időnek a munkavégzési kötelezettséggel nem járó részére kifizetett munkabért, illetmény összegét szociális hozzájárulási adó alapként és nyugdíj alapjául szolgáló jövedelemként, valamint a munkavégzési kötelezettség alóli mentesítés idejét nyugdíjra jogosító szolgálati időként kell figyelembe venni.
 
-(4) A társadalombiztosítási járulékalapnak nem minősülő különadó-alap után a kifizető az egészségügyi hozzájárulásról szóló törvény rendelkezései szerint 27 százalékos mértékű egészségügyi hozzájárulást fizet. A (3) bekezdés c) pontjában említett különadó-alap után a kifizető 27 százalék társadalombiztosítási járulékot fizet, továbbá a magánszemély a járulékfizetési kötelezettségét is a 10. § szerinti adó megfizetésével teljesíti.
+(4) A szociális hozzájárulási adó alapjának nem minősülő különadó-alap után a kifizető az egészségügyi hozzájárulásról szóló 1998. évi LXVI. törvény 3. § (1) bekezdése szerinti egészségügyi hozzájárulást fizet. A (3) bekezdés d) pontjában említett különadó-alap után a kifizető az Eat. 459. § (1) bekezdésében meghatározott mértékű szociális hozzájárulási adót fizet, továbbá a magánszemély a járulékfizetési kötelezettségét is a 10. § szerinti adó megfizetésével teljesíti.
 
 (5) A magánszemély az adóbevallásában bevallott különadó-kötelezettséggel szemben adóelőlegként veszi figyelembe a kifizető által levont különadót.
 
@@ -315,7 +313,9 @@ az átalányközteher mértéke, feltéve, hogy a magánszemély kizárólag jog
 
 147. § A 154. § 2010. augusztus 15-én lép hatályba.
 
-148–154. §
+148. § Ha az eljáró hatóság az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+
+149–154. §
 
 ### 1. melléklet a 2010. évi XC. törvényhez
 

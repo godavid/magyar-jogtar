@@ -246,13 +246,13 @@ Az Országgyűlés az épített környezet alakításával és védelmével kapc
 
 13. § (1) Az építés helyi rendjének biztosítása érdekében a települési önkormányzatnak az országos szabályoknak megfelelően, illetve az azokban megengedett eltérésekkel a település közigazgatási területének felhasználásával és beépítésével, továbbá a környezet természeti, táji és épített értékeinek védelmével kapcsolatos, a telkekhez fűződő sajátos helyi követelményeket, jogokat és kötelezettségeket helyi építési szabályzatban kell megállapítania.
 
-(2) A 33/A. § (1) bekezdésében meghatározott lakóépület létesítésekor a helyi építési szabályzatban meghatározott
+(2) A 33/A. § (1) bekezdésében meghatározott építési tevékenység esetén a helyi építési szabályzatban meghatározott
 
 - a) övezet, építési övezet területi lehatárolását;
 - b) övezetre, építési övezetre vonatkozóan
   - ba) a védelemmel és korlátozásokkal érintett területeken a szennyvízelvezetés vagy tisztítás szabályait közegészségügyi szempont szerint,
   - bb) a megengedett legnagyobb beépítettséget,
-  - bc) a telken, az építési telken elhelyezhető épület, valamint az önálló rendeltetési egység számát,
+  - bc) a telken, az építési telken elhelyezhető épület, valamint az önálló rendeltetési egység számát és a megengedett vagy kizárt rendeltetését,
   - bd) a megengedett legnagyobb beépítési magasságot vagy építménymagasságot,
   - be) a szabályozási vonalat,
   - bf) a beépítési módot, az építési helyet és
@@ -639,7 +639,7 @@ kivételével más építési munkát végezni nem szabad.
 
 (5) Az építészeti-műszaki tervezési, valamint az építésügyi műszaki szakértői tevékenységet folytató személy csak olyan szakterületen végezhet tervezési vagy szakértői munkát, amelyhez e törvény szerint megfelelő tervezői vagy szakértői jogosultsággal rendelkezik.
 
-(6) A 33/A. § szerinti lakóépületre vonatkozó építészeti-műszaki tervezői tevékenység végzéséhez kormányrendelet felelősségbiztosítást írhat elő.
+(6) A 33/A. § szerinti építési tevékenységre vonatkozó építészeti-műszaki tervezői tevékenység végzéséhez kormányrendelet felelősségbiztosítást írhat elő.
 
 (7) Az építészeti-műszaki tervpályázat a (8) bekezdésben meghatározott tervezési feladatok előkészítésére szolgáló sajátos tervezési versenyforma, és az építészeti-műszaki pályamű alapján a tervező kiválasztásának egyik módja.
 
@@ -673,18 +673,23 @@ kivételével más építési munkát végezni nem szabad.
 
 ### Egyszerű bejelentéshez kötött építési tevékenység
 
-33/A. § (1) A legfeljebb 300 négyzetméter összes hasznos alapterületű új lakóépület építése esetén
+33/A. § (1) A legfeljebb 300 négyzetméter összes hasznos alapterületű új lakóépület építése, valamint műemlék kivételével meglévő lakóépület 300 négyzetméter összes hasznos alapterületet meg nem haladó méretűre bővítése és a legfeljebb 300 négyzetméter összes hasznos alapterületű lakóépület kormányrendeletben meghatározottá átalakítása és ezen építési munkákhoz szükséges tereprendezés, támfalépítés esetén
 
-- a) az építtető az építési tevékenységet a kivitelezés tervezett megkezdése előtt tizenöt nappal – kormányrendeletben meghatározottak szerint – a nevének és lakcímének, szervezet esetén a megnevezésének és székhelyének megjelölésével, kizárólag elektronikus úton bejelenti az építésügyi hatóságnak,
+- a) az építtető az építési tevékenységet a kivitelezés tervezett megkezdése előtt tizenöt nappal – kormányrendeletben meghatározottak szerint – a nevének és lakcímének, szervezet esetén a megnevezésének és székhelyének megjelölésével, kizárólag elektronikus úton bejelenti a kormányrendeletben kijelölt szervnek,
 - b) ha a tervező a tervezés során a közműellátás és az égéstermék-elvezető megvalósítása érdekében az arra jogosult szolgáltató hozzájárulását vagy jóváhagyását kéri, és arra nyolc napon belül nem kap érdemi választ, a hozzájárulást vagy jóváhagyást megadottnak kell tekinteni,
 - c) a bejelentéshez kormányrendeletben meghatározott tartalmú kivitelezési dokumentációt kell mellékelni,
-- d) a kivitelezési dokumentációtól kormányrendeletben meghatározott eltérést be kell jelenteni.
+- d) a bejelentéstől a kormányrendeletben meghatározottak szerint lehet eltérni.
 
-(1a) Az (1) bekezdés szerinti épület építése esetén az építtető köteles építész tervezőt tervezői művezetésre megbízni.
+(1a) Az (1) bekezdés szerinti építési tevékenység esetén az építtető köteles építész tervezőt tervezői művezetésre megbízni.
 
-(2) Az (1) bekezdés szerinti épületet az (1) bekezdés a) pontja szerinti bejelentéstől számított tíz éven belül fel kell építeni és a felépítés megtörténtét tanúsító hatósági bizonyítványt kell kérni a kormányrendeletben kijelölt szervtől.
+(2) Az (1) bekezdés szerinti építési tevékenységet a bejelentéstől számított tíz éven belül meg kell valósítani és a felépítés megtörténtét tanúsító hatósági bizonyítványt kell kérni a kormányrendeletben kijelölt szervtől.
 
-(3) Ha a bejelentéstől számított tíz éven belül nem építették fel az (1) bekezdés szerinti épületet, az elkészült építményt le kell bontani.
+(3) Ha a bejelentéstől számított tíz éven belül nem valósították meg az (1) bekezdés szerinti építési tevékenységet,
+
+- a) új lakóépület építése esetén az elkészült építményt le kell bontani,
+- b) meglévő lakóépület bővítése esetén az építési tevékenységgel érintett építményrészt a visszamaradó lakóépület állékonyságára és rendeltetésszerű használatára tekintettel le kell bontani,
+
+és a terep felszínének eredeti állapotát vissza kell állítani.
 
 (4) A (2) bekezdés szerinti hatósági bizonyítványért az 1. mellékletben meghatározott igazgatási szolgáltatási díjat kell fizetni.
 
@@ -779,6 +784,10 @@ helyszíni szemle alapján hatósági bizonyítványt állít ki.
 (4) Az energetikai tanúsítói tevékenységet végző személyt, ha adatszolgáltatásra vonatkozó jogszabályi kötelezettségét megszegi, a névjegyzéket vezető szerv 20 000 forintig terjedő közigazgatási bírsággal sújtja.
 
 (5) A Budapesti és Pest Megyei Mérnöki Kamara független ellenőrzési rendszert működtet az energetikai tanúsítványok tekintetében. Ennek keretében jogszabályban meghatározott tartalmú ellenőrzés céljából évente véletlenszerűen kiválasztja a Nyilvántartásban rendelkezésre álló összes energetikai tanúsítványnak kormányrendeletben meghatározott statisztikailag jelentős hányadát, és az ellenőrzések alapján a hatáskörrel rendelkező szervnél kezdeményezi a jogszabályban meghatározott hatósági intézkedéseket.
+
+(6) A Budapesti és Pest Megyei Mérnöki Kamara az (5) bekezdésben foglalt ellenőrzésen kívül bármely más energetikai tanúsítványt is ellenőrizhet.
+
+(7) A Budapesti és Pest Megyei Mérnöki Kamara a jogszabályi rendelkezések megsértésével kiállított energetikai tanúsítvány kiállítójával szemben figyelmeztetéssel élhet, vagy kormányrendeletben meghatározott bírságot szabhat ki.
 
 38/D. § (1) Jogi személy vagy jogi személyiséggel nem rendelkező szervezet kormányrendeletben meghatározott feltételek mellett vállalhatja és folytathatja a 16. §, a 32. §, a 38/A. § és a 38/C. § szerinti tevékenységet.
 
@@ -923,7 +932,7 @@ helyszíni szemle alapján hatósági bizonyítványt állít ki.
   - ea) az építőipari kivitelezési tevékenység folytatását megtilthatja,
   - eb) a szabálytalan állapot megszüntetése érdekében bontást, átalakítást rendel el, vagy a fennmaradási engedélyezés feltételeinek fennállása esetén megkeresi az eljárás lefolytatására hatáskörrel rendelkező építésügyi hatóságot.
 
-(4) Az építésfelügyeleti hatóság az ellenőrzés során feltárt szabálytalan tevékenységről való tudomásszerzésétől számított 90 napon belül indítja meg a (2) bekezdés szerinti intézkedések megtételére irányuló eljárást. Ezen intézkedéseknek
+(4) Az építésfelügyeleti hatóság a hatósági ellenőrzést a megindításától számított 60 napon belül lefolytatja. Szabálytalanság észlelése esetén haladéktalanul megindítja a (2) bekezdés szerinti intézkedések megtételére irányuló eljárást. Ezen intézkedéseknek
 
 - a) a (2) bekezdés a)–c) pontja esetében a szabálytalan tevékenységtől számított öt éven belül,
 - b) a (2) bekezdés d)–e) pontja esetében a szabálytalan tevékenységtől számított tíz éven belül
@@ -945,7 +954,7 @@ van helyük.
 - c) az építmény, építményrész hibáinak, hiányosságainak megszüntetését,
   - ca) ha azt rendeltetésszerű és biztonságos használatra nem alkalmas módon építették meg, vagy ezáltal idegen ingatlanban az állékonyságot, az életet és egészséget, a köz- és vagyonbiztonságot veszélyeztető állapot keletkezett,
   - cb)–cc)
-- d) jogszerűtlen építési tevékenység esetében az építési tevékenység végzésének megszüntetését, valamint a hatósági eljárásban záradékolt építészeti-műszaki dokumentációnak vagy a 33/A. § szerinti egyszerű bejelentésnek megfelelő állapot kialakítását,
+- d) az építésügyi hatósági eljárásban záradékolt építészeti-műszaki dokumentációnak megfelelő állapot kialakítását, amennyiben a jogerős és végrehajtható építési engedélytől való eltérés építési engedélyhez kötött, de attól építésügyi hatósági engedély nélkül tértek el,
 - e) az építmény környezetéből az építési tevékenység során keletkezett építési hulladék, maradék építőanyag és építési segédeszközök elszállítását, a környezetnek és a terep felszínének az eredeti vagy az engedélyezett állapotban történő kialakítását, a környezetben okozott károk megszüntetését, valamint
 - f) energetikai tanúsítvány elkészíttetését.
 
@@ -974,7 +983,7 @@ megkezdett és végzett tevékenység.
   - ad) a jogerős engedély végrehajthatóságának felfüggesztése ellenére;
 - b) a 33/A. § szerinti egyszerű bejelentéshez kötött építési tevékenységet
   - ba) bejelentés nélkül, vagy
-  - bb) a bejelentett és a kormányrendeletben meghatározott mértékű változás bejelentésétől eltérően;
+  - bb) bejelentéssel, de a 300 négyzetméter összes hasznos alapterületet meghaladva,
 - c) ahhoz jogszabály alapján építési napló vezetése szükséges és a tevékenységet építési napló hiányában
 
 végzik.
@@ -1006,7 +1015,7 @@ végzik.
 
 (4) Veszélyhelyzet elhárítása érdekében történő vagy kihirdetett veszélyhelyzet következtében szükségessé váló, továbbá tömeges bevándorlás okozta válsághelyzetben nemzetbiztonsági érdekből végzett építési tevékenységek, valamint az építmények, építményszerkezetek veszélyes állapotának jogszerűtlen építési tevékenységgel történő, halasztást nem tűrő elhárítása vagy részleges elbontása esetén az építésügyi hatóság a megvalósult építmény, építményrész, építményszerkezet fennmaradását vagy elbontását – ha az az (1) bekezdésben előírtaknak, jogszabályban meghatározottak szerint megfelel – kérelemre tudomásul veszi.
 
-(5) az építésügyi és az építésfelügyeleti hatóság jogszabályban meghatározott esetekben és módon az ellenőrzés során feltárt szabálytalan tevékenységről való tudomásszerzéstől számított 90 napon belül indítja meg az (1)–(4) bekezdés szerinti intézkedések megtételére irányuló eljárást. Az eljárás megindításának legkésőbb az építés befejezésétől – ha az nem állapítható meg, akkor az építmény használatbavételétől – számított tíz éven belül van helye.
+(5) Az építésügyi és az építésfelügyeleti hatóság jogszabályban meghatározott esetekben és módon 60 napon belül folytatja le a hatósági ellenőrzést és ha szabálytalanságot állapít meg, hivatalból megindítja az eljárást és megteszi az (1)–(4) bekezdésben meghatározott intézkedéseket. Az eljárás megindításának legkésőbb az építés befejezésétől – ha az nem állapítható meg, akkor az építmény használatbavételétől – számított tíz éven belül van helye.
 
 (6) az (5) bekezdés szerinti 90 napos időtartam újrakezdődik
 
@@ -1063,7 +1072,7 @@ végzik.
 - d) bírság megállapítása,
 - e) a névjegyzéket vezető kamaránál eljárás kezdeményezése.
 
-(2) A névjegyzéket vezető kamara a névjegyzékben szereplő szakmagyakorlóval, valamint a vállalkozó kivitelezővel szemben – az e törvény végrehajtására kiadott kormányrendeletben meghatározott módon és mértékben, a 48. § szerinti szabálytalanságok esetén – a következő jogkövetkezményeket alkalmazza:
+(2) Ha e törvény másként nem rendelkezik, a névjegyzéket vezető kamara a névjegyzékben szereplő szakmagyakorlóval, valamint a vállalkozó kivitelezővel szemben – az e törvény végrehajtására kiadott kormányrendeletben meghatározott módon és mértékben, a 48. § szerinti szabálytalanságok esetén – a következő jogkövetkezményeket alkalmazza:
 
 - a) figyelmeztetés,
 - b) bírság megállapítása,
@@ -1108,11 +1117,9 @@ amely idő alatt az építésügyi vagy az építésfelügyeleti hatóságnak d�
 
 ### Az építésügyi és építésfelügyeleti hatósági eljárás szabályai
 
-53/A. § (1) A kormányrendeletben meghatározott építésügyi vagy építésfelügyeleti eljárásban az ügyfél a kérelmet elektronikusan is benyújthatja.
+53/A. § (1) Az építésügyi és építésfelügyeleti eljárásokban az eljáró hatóság és szakhatóság az eljárást és annak eljárási cselekményeit elektronikus ügyintézés keretében folytatja le.
 
-(2) Az építésügyi hatósági engedélyezési eljárásban az építésügyi hatóság és az eljáró szakhatóság az eljárást és annak eljárási cselekményeit elektronikus ügyintézés keretében folytatja le. A megkeresett szakhatóság elektronikus úton küldi meg állásfoglalását az építésügyi hatóság számára.
-
-(3) Az építésügyi és építésfelügyeleti hatóság az ellenőrzési feladatokba szakértőként a területi építész és területi mérnöki kamarákat, valamint az országos építész és országos mérnöki kamarákat (a továbbiakban együtt: szakmai kamarák) és a Magyar Kereskedelmi és Iparkamarát vagy jogosult szakintézményt, valamint jogszabályban meghatározottak szerint egyéb szakértőt vehet igénybe. Ha az építésügyi és építésfelügyeleti hatóság eljárásában szakértőt hallgat meg, szakértői véleményt kér, ellenőrzésébe szakértőt von be, a hatóság az ügyfelet a szakértői vizsgálatban való közreműködésre kötelezheti.
+(2) Az építésügyi és építésfelügyeleti hatóság az ellenőrzési feladatokba szakértőként a területi építész és területi mérnöki kamarákat, valamint az országos építész és országos mérnöki kamarákat (a továbbiakban együtt: szakmai kamarák) és a Magyar Kereskedelmi és Iparkamarát vagy jogosult szakintézményt, valamint jogszabályban meghatározottak szerint egyéb szakértőt vehet igénybe. Ha az építésügyi és építésfelügyeleti hatóság eljárásában szakértőt hallgat meg, szakértői véleményt kér, ellenőrzésébe szakértőt von be, a hatóság az ügyfelet a szakértői vizsgálatban való közreműködésre kötelezheti.
 
 53/B. § Azon építési beruházás építésügyi hatósági eljárására, amely legalább – az építésügyi bírság megállapításának részletes szabályairól szóló kormányrendelet szerint számított – 90 millió forint építmény értékű, és ipari vagy szolgáltatási rendeltetésű, a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény (a továbbiakban: Ngtv.) rendelkezéseit kell alkalmazni, az Ngtv. 2. §-a kivételével.
 
@@ -1267,6 +1274,8 @@ első fokú végzés ellen.
 
 - a) szerezzen be a kérelmezőtől kiegészítő adatokat és információkat, továbbá
 - b) szerezze be az érintett települési önkormányzatok, fogyasztói, környezetvédelmi érdek-képviseleti, valamint más érintett civil szervezetek véleményét.
+
+57/E. § Ha az 57/C. § (1) bekezdése szerinti eljárásban hozott döntéssel szemben benyújtott fellebbezés érinti a Kormányhivatal szakhatósági állásfoglalását, a másodfokú eljárásban szakhatóságként országos illetékességgel a Heves Megyei Kormányhivatal jár el.
 
 ### V. Fejezet — VEGYES ÉS ZÁRÓ RENDELKEZÉSEK
 
@@ -1457,6 +1466,8 @@ hatályban lévő, településrendezési eszközre vonatkozó előírásai.
 
 60/C. § A kereskedelemről szóló 2005. évi CLXIV. törvény szerinti üzlet és bevásárlóközpont építésére vonatkozó, 2015. január 1-jét követően benyújtott építésügyi hatósági engedély iránti kérelmekre e törvénynek az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvénynek az egyes kereskedelmi építmények engedélyezése fenntarthatósági szempontjainak érvényesítése érdekében történő módosításáról szóló 2014. évi CXIII. törvénnyel megállapított rendelkezéseit kell alkalmazni azzal, hogy a 2015. január 1. és 2015. január 31. között benyújtott építésügyi hatósági engedély iránti kérelmek esetében az ügyintézési határidő 2015. február 1-jén kezdődik, a kérelmek elbírálását ezen a napon kell elkezdeni.
 
+60/D. § Az egyszerű bejelentés körének bővítésére és az építésügy területén érvényesítendő további bürokráciacsökkentésre vonatkozóan az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény módosításáról szóló 2016. évi CLXXIII. törvénnyel megállapított 57/E. §-t a folyamatban lévő másodfokú eljárásokban is alkalmazni kell.
+
 61. § (1) Ahol jogszabály
 
 - a) általános rendezési tervet említ, azon településszerkezeti tervet,
@@ -1464,6 +1475,8 @@ hatályban lévő, településrendezési eszközre vonatkozó előírásai.
 - c) a településrendezés vonatkozásában ,,államigazgatás'' kifejezést használ, ott ,,közigazgatás'' kifejezést kell érteni.
 
 (2)
+
+61/A. § Ha az építésügyi vagy építésfelügyeleti hatóság az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az 53/A. §-nak a 2016. december 31-én hatályos előírásait kell alkalmazni.
 
 62. § (1) Felhatalmazást kap a Kormány arra, hogy
 
@@ -1513,7 +1526,7 @@ rendelettel állapítsa meg.
 
 rendeletben állapítsa meg.
 
-(1d) Felhatalmazást kap a Kormány arra, hogy az egyszerű bejelentéssel érintett 300 m2-t meg nem haladó összes hasznos alapterületű lakóépületek tekintetében az építészeti-műszaki tervezői tevékenység, valamint a vállalkozó kivitelezői tevékenység végzéséhez szükséges felelősségbiztosítási szerződés tartalmi elemeire és a meglétének az ellenőrzésére vonatkozó részletes szabályokat rendeletben állapítsa meg.
+(1d) Felhatalmazást kap a Kormány arra, hogy az egyszerű bejelentéssel érintett építési tevékenységek tekintetében az építészeti-műszaki tervezői tevékenység, valamint a vállalkozó kivitelezői tevékenység végzéséhez szükséges felelősségbiztosítási szerződés tartalmi elemeire és a meglétének az ellenőrzésére vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
 (1e) Felhatalmazást kap a Kormány arra, hogy a kötelező tervezői művezetés részletes szabályait, ennek keretében a tevékenységre vonatkozó szerződés egyes kötelező tartalmi elemeit (különös tekintettel a szerződés ellenértékére) rendeletben állapítsa meg.
 

@@ -28,7 +28,7 @@ Az Országgyűlés a szőlőtermesztésnek és a borgazdálkodásnak az Európai
 - 10. telepítés: a földterület beültetése borszőlővel, ideértve a terület előkészítését, az ültetvény ápolását az ültetvény termőre fordulásáig, illetve a támrendszer létesítését is.
 - 11. pótlás: a borszőlőültetvény hiányzó tőkéi helyének beültetése, ideértve a döntést és a bujtást is.
 - 12. kivágás: a borszőlőültetvény felszámolása, amelynek során a tőkéket és a támrendszert a földterületről eltávolítják.
-- 13. VINGIS: a szőlőágazati kataszterek közösségi szabályozásnak megfelelő térinformatikai rendszere, amely a borszőlő termőhelyi kataszterének, a kivágási, szerkezetátalakítási és -átállítási támogatások kifizetésének, valamint az oltalom alatt álló földrajzi jelzést, illetve az oltalom alatt álló eredetmegjelölést viselő borok termőhelyei földrajzi lehatárolásának térképi ellenőrzési alapja, és amelynek adatbázisa az ellenkező bizonyításáig hitelesen tanúsítja az abban rögzített adattartalom fennállását.
+- 13. VINGIS: a szőlőágazati kataszterek közösségi szabályozásnak megfelelő térinformatikai rendszere, amely a borszőlő termőhelyi kataszterének, a kivágási, szerkezetátalakítási és -átállítási támogatások kifizetésének, valamint az oltalom alatt álló földrajzi jelzést, illetve az oltalom alatt álló eredetmegjelölést viselő borok termőhelyei földrajzi lehatárolásának térképi ellenőrzési alapja.
 - 14. borászati üzem: borászati termékek előállítására, kiszerelésére és tárolására vonatkozó működési engedéllyel rendelkező üzem.
 - 15. borászati termék: a mezőgazdasági termékpiacok közös szervezésének létrehozásáról, és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1308/2013/EU rendelet) VII. melléklet II. részében szereplő szőlőből készült termékek.
 - 16. gazdasági akta: a 479/2008/EK tanácsi rendeletnek a szőlőkataszter, a kötelező bejelentések, a piaci felügyelethez szükséges információgyűjtés, a borászati termékek fuvarozásához szükséges kísérőokmányok, valamint a borágazatban vezetendő nyilvántartás tekintetében történő alkalmazására vonatkozó részletes szabályok megállapításáról szóló, 2009. május 26-i 436/2009/EK rendelet I. melléklet 1. pontja szerinti adattartalmú, egy természetes személyre, jogi személyre vagy jogi személyiség nélküli szervezetre vonatkozó, azonosító számmal ellátott nyilvántartás.
@@ -92,7 +92,7 @@ terület lehet.
 
 ### Telepítés, kivágás
 
-7. § (1) Árutermő, törzs- és kísérleti célú borszőlőt telepíteni, illetve kivágni csak engedéllyel lehet. Borszőlőültetvény telepítése abban az esetben is engedélyköteles, amennyiben annak területe az 1000 m2-t nem haladja meg, de a telepítő használatában lévő borszőlőültetvény és az új telepítésű ültetvényrész összefüggő ültetvényt képez, és együttes nagysága eléri az árutermő ültetvény méretét. Összefüggő ültetvénynek tekintendő a hegybírótól telepítési engedélyt kérő használatában lévő, akár több helyrajzi számon nyilvántartott terület, amelyet a telepítéssel nem érintett terület, – kivéve út, csatorna, árok – vagy más gazdálkodó használatában álló terület nem szakít meg. Az ültetvény más fajtára történő cseréje esetén a telepítésre vonatkozó rendelkezéseket kell alkalmazni. Az engedélyezési eljárás részletes szabályait e törvény felhatalmazása alapján kiadott rendelet tartalmazza.
+7. § (1) Árutermő borszőlőültetvényt, ideértve a törzsültetvényt és a kísérleti célú borszőlőt, csak engedéllyel lehet telepíteni. Borszőlőültetvény telepítése abban az esetben is engedélyköteles, ha annak területe az 1000 m2-t nem haladja meg, de a telepítő használatában lévő borszőlőültetvény és az új telepítésű ültetvényrész összefüggő ültetvényt képez, és együttes nagysága eléri az árutermő ültetvény méretét. Összefüggő ültetvénynek kell tekinteni a hegybírótól telepítési engedélyt kérő használatában lévő, akár több helyrajzi számon nyilvántartott területet, amelyet – az út, csatorna, árok kivételével – telepítéssel nem érintett terület vagy más gazdálkodó használatában álló terület nem szakít meg. Az ültetvény más fajtára történő cseréje esetén a telepítésre vonatkozó rendelkezéseket kell alkalmazni. Az engedélyezési eljárás részletes szabályait e törvény felhatalmazása alapján kiadott rendelet állapítja meg.
 
 (2) Az új telepítési engedély kiadására irányuló eljárásban az ügyintézési határidő 70 nap.
 
@@ -100,11 +100,9 @@ terület lehet.
 
 (4) Az új telepítési engedély, az újratelepítési engedély és az átváltott telepítési engedély (a továbbiakban együtt: telepítési engedély) feltételeire és az engedélyezési eljárásra vonatkozó részletes szabályokat e törvény végrehajtására kiadott rendelet tartalmazza.
 
-8. § (1) A telepítést és a fajtaváltást a növénytermesztési hatóság ellenőrzi.
+8. § (1) Az árutermő borszőlőültetvény – ideértve a törzsültetvényt és a kísérleti célú borszőlőt – kivágásának tényét a kivágást követő 15 napon belül be kell jelenteni a hegybírónak. A telepítés és a kivágás megtörténtét a hegybíró ellenőrzi. Ha a hegybíró az ellenőrzés során jogszabálysértést állapít meg, akkor az erről készült jegyzőkönyvet megküldi a növénytermesztési hatóságnak.
 
-(2) A kivágás megkezdése előtti ültetvényellenőrzést a növénytermesztési hatóság végzi.
-
-(3) A kivágás megtörténtét a hegybíró ellenőrzi.
+(2) A hegybíró megfelelő határidő tűzésével felszólítja a telepítőt a telepítési engedély módosításának kezdeményezésére, ha a borszőlőültetvényt a telepítési engedélyben foglaltaktól eltérően telepítették.
 
 9. § Európai borszőlőfajta saját gyökerű szaporítóanyagával való telepítés és pótlás kizárólag filoxérának ellenálló homoktalajra engedélyezhető. A talaj e tulajdonságát laboratóriumi vizsgálattal kell igazolni.
 
@@ -116,7 +114,7 @@ terület lehet.
 
 11. § (1) Aki 1000 m2-nél nagyobb területen borszőlőt művel vagy területnagyságtól függetlenül borszőlőültetvényének termését értékesíti, illetve értékesítésre bort készít, továbbá, aki borszőlőt, mustot, illetve bort továbbfeldolgozás vagy továbbfeldolgozásra értékesítés céljából vásárol (a továbbiakban együttesen: adatszolgáltató), köteles a borszőlőterületéről, a bor tárolására alkalmas eszközeiről, tárolóteréről, szüretelési, feldolgozási, értékesítési, felhasználási tevékenységéről nyilvántartást vezetni, adatot szolgáltatni a hegyközségnek.
 
-(2) A hegybíró az adatszolgáltatóról gazdasági aktát vezet. A gazdasági akta tartalmazza az adatszolgáltató nevét, lakcímét, illetve székhelyét, adószámát, adóazonosító jelét, gazdasági akta számát, valamint a mezőgazdasági és vidékfejlesztési támogatási szerv által adott ügyfél-azonosítóját. A gazdasági aktára vonatkozó adatközlés módját, a gazdasági akta vezetésének szabályait, adattartalmának felhasználását e törvény felhatalmazása alapján kiadott rendelet tartalmazza.
+(2) A hegybíró az adatszolgáltatóról gazdasági aktát vezet. A gazdasági akta tartalmazza az adatszolgáltató nevét, lakcímét, illetve székhelyét, adószámát, adóazonosító jelét, gazdasági akta számát, valamint a mezőgazdasági és vidékfejlesztési támogatási szerv által adott ügyfél-azonosítót, ha az adatszolgáltató azzal rendelkezik. A gazdasági aktára vonatkozó adatközlés módját, a gazdasági akta vezetésének szabályait, adattartalmának felhasználását e törvény felhatalmazása alapján kiadott rendelet tartalmazza.
 
 (3) Az adatszolgáltató a gazdasági aktában szereplő adataiban történő változást minden borpiaci év végéig köteles a hegybírónak bejelenteni.
 
@@ -130,17 +128,13 @@ terület lehet.
 
 ### A művelésre vonatkozó előírások
 
-13. § (1) A borszőlőültetvény használója köteles az ültetvényt rendeltetésének megfelelően művelni.
+13. § (1) A borszőlőültetvényt az ültetvény rendeltetésének megfelelően kell megművelni.
 
-(2) Amennyiben az ültetvény használója az ültetvényét egy éven keresztül nem műveli, a hegybíró felszólítja az ültetvény rendeltetésszerű művelésére.
+(2) Amennyiben a borszőlőültetvény egy éven keresztül nem áll művelés alatt, a hegybíró felszólítja a borszőlőültetvény tulajdonosát a borszőlőültetvény rendeltetésszerű művelésére. A felszólítás alapján a tulajdonosnak harminc napon belül nyilatkoznia kell arról, hogy az ültetvény rendeltetésszerű művelését megkezdte. Az ültetvény tulajdonosa a nyilatkozattétel helyett bemutathatja az ültetvény megfelelő hasznosítását biztosító szerződést.
 
-(3) Ha az ültetvény használója a (2) bekezdés szerinti felszólítás ellenére továbbra sem műveli az ültetvényét, a hegybíró kezdeményezi a növénytermesztési hatóságnál az ültetvény növény-egészségügyi szemléjét. Amennyiben a növénytermesztési hatóság szemléje azt állapítja meg, hogy az ültetvény kivágása növény-egészségügyi okok miatt indokolt, felszólítja az ültetvény használóját az ültetvény 45 napon belül történő kivágására. A kivágásra vonatkozó döntés egy példányát meg kell küldeni a hegybíró részére. Amennyiben a növénytermesztési hatóság szemléje során növény-egészségügyi kockázatot nem állapít meg, abban az esetben a művelés elmulasztása miatt hektáronként kétszázezer forint bírságot szab ki.
+(3) Ha a borszőlőültetvény tulajdonosa a (2) bekezdésben foglalt kötelezettségének nem tesz eleget, a hegybíró a művelés elmulasztása miatt hektáronként kétszázezer forint bírságot szab ki. A művelés elmulasztása miatt kiszabott bírság az ültetvény fekvési helye szerinti hegyközség bevétele.
 
-(4)–(6)
-
-(7) Amennyiben az ültetvény használója kivágási kötelezettségének nem tesz eleget a hegybíró az ültetvény használójának a költségére az ültetvényt kivágattatja.
-
-(8)
+(4) A hegybíró a felszólítást követő év május 1. napjának hatályával a tulajdonos költségére az ültetvény kivágását rendeli el, ha a borszőlőültetvény tulajdonosa a (2) bekezdésben foglalt kötelezettségének a (3) bekezdés alapján kiszabott bírság ellenére sem tesz eleget.
 
 ### II/A. Fejezet — BORÁSZATI TERMÉKEK EREDETMEGJELÖLÉSEI ÉS FÖLDRAJZI JELZÉSEI
 
@@ -221,7 +215,7 @@ terület lehet.
 
 - a) a származási helyet,
 - b) a borszőlőtermés, illetve a bor mennyiségét,
-- c)
+- c) az édesítés tényét,
 - d) a borszőlő és a bor alkoholtartalmát, valamint az alkoholtartalom módosítására vonatkozó tényt,
 - e) hogy a borszőlőtermés, illetve a bor oltalom alatt álló eredetmegjelöléssel vagy földrajzi jelzéssel rendelkező bor, illetve valamely, a 13/C. §-ban – kivéve a muzeális bort – meghatározott bortípus készítésére alkalmas,
 - f) a borszőlő fajtáját,
@@ -362,21 +356,15 @@ terület lehet.
 
 43. §
 
-43/A. § (1) Amennyiben a növénytermesztési hatóság ellenőrzése során megállapítja, hogy az ültetvényt engedély nélkül vágták ki, tizenöt napon belül határidő megjelölésével felszólítja a kivágást végzőt, hogy nyújtsa be a kivágási engedély iránti kérelmét a hegybíróhoz kivágás utólagos engedélyezése céljából. A felszólításról a növénytermesztési hatóság értesíti a hegybírót.
+43/A. §
 
-(2) Amennyiben a hegybíró eljárása során megállapítja, hogy a kivágás az előírt követelményeknek megfelel, a kivágást utólagosan engedélyezi.
+43/B. § (1) A növénytermesztési hatóság a 8. § szerinti hegybírói ellenőrzésről megküldött jegyzőkönyv megállapításai alapján elrendeli a borszőlőültetvény kivágását, ha a telepítést nem engedélyezett borszőlőfajtával vagy telepítésre fel nem használható szaporítóanyaggal végezték. A növénytermesztési hatóság a kivágás elrendeléséről értesíti a telepítési engedélyt kiadó hegybírót.
 
-(3) Amennyiben a kivágást az engedély kiadását megelőzően már megkezdték, illetve elvégezték, és a kérelem az előírt követelményeknek megfelel, a kivágást a hegybíró utólag engedélyezi.
+(2) Amennyiben a telepítő kivágási kötelezettségének nem tesz eleget, a növénytermesztési hatóság a borszőlőültetvényt kivágattatja. A kivágás megtörténtéről a növénytermesztési hatóság értesíti a hegybírót.
 
-43/B. § (1) Amennyiben a növénytermesztési hatóság ellenőrzése során megállapítja, hogy a borszőlőültetvényt a telepítési engedélyben foglaltaktól eltérően telepítették, úgy a telepítőt megfelelő határidő kitűzésével felszólítja, hogy kezdeményezze a telepítési engedély módosítását. A felszólításról a növénytermesztési hatóság értesíti az engedélyt kiadó hegybírót.
+43/C. § A növénytermesztési hatóság a 8. § szerinti hegybírói ellenőrzésről megküldött jegyzőkönyv megállapításai alapján azt a személyt, aki borszőlőültetvényt a telepítési engedélyben foglaltaktól eltérően telepített, ötvenezer forint mulasztási bírság megfizetésére kötelezi.
 
-(2) Amennyiben a növénytermesztési hatóság ellenőrzése során megállapítja, hogy a telepítést nem engedélyezett borszőlőfajtával vagy fel nem használható szaporítóanyaggal végezték, a növénytermesztési hatóság elrendeli a borszőlőültetvény kivágását. A kivágás elrendeléséről a növénytermesztési hatóság értesíti az engedélyt kiadó hegybírót.
-
-(3) Amennyiben a telepítő kivágási kötelezettségének nem tesz eleget, úgy a növénytermesztési hatóság a borszőlőültetvényt kivágattatja. A kivágás megtörténtéről a növénytermesztési hatóság értesíti a hegybírót.
-
-43/C. § Azt a személyt, aki borszőlőültetvényt engedély nélkül vágott ki vagy a telepítési engedélyben foglaltaktól eltérően telepített a növénytermesztési hatóság ötvenezer forint mulasztási bírság megfizetésére kötelezi.
-
-43/D. § (1) A növénytermesztési hatóság a használót az ültetvény kivágására kötelezi, ha az ellenőrzése során megállapítja, hogy a használó telepítési engedély nélkül telepített.
+43/D. § (1) A növénytermesztési hatóság a 8. § szerinti hegybírói ellenőrzésről megküldött jegyzőkönyv megállapításai alapján a használót az ültetvény kivágására kötelezi, ha a használó telepítési engedély nélkül telepített.
 
 (2) A növénytermesztési hatóság a telepítési engedély nélkül telepített ültetvény telepítőjét az alábbi összegű bírság megfizetésére kötelezi:
 
@@ -471,13 +459,13 @@ terület lehet.
 
 ### Mulasztási bírság
 
-51/A. § (1) A borászati hatóság vagy a hegybíró mulasztási bírságot szab ki, ha a borászati hatóság vagy a hegyközség felé előírt bejelentési vagy adatszolgáltatási kötelezettséget elmulasztották, a bejelentésköteles tevékenységet bejelentés nélkül végezték el, vagy az adatszolgáltatást hiányosan vagy valótlan adattartalommal teljesítették.
+51/A. § (1) A borászati hatóság vagy a hegybíró mulasztási bírságot szab ki, ha a borászati hatóság vagy a hegybíró felé előírt bejelentési vagy adatszolgáltatási kötelezettséget elmulasztották, a bejelentésköteles tevékenységet bejelentés nélkül végezték el, vagy az adatszolgáltatást hiányosan vagy valótlan adattartalommal teljesítették.
 
 (2) A mulasztási bírság mértéke legfeljebb ötszázezer forint összeg erejéig terjedhet.
 
 (3) A borászati hatóság a bírság kiszabása során figyelembe veszi a jogsértéssel érintett borászati termék mennyiségét, a mulasztás gyakoriságát.
 
-(4) A hegybíró a bírság kiszabása során figyelembe veszi a szolgáltatandó adatok körét és a jogsértés gyakoriságát. A hegybíró által kiszabott mulasztási bírság a hegyközség bevétele.
+(4) A hegybíró a bírság kiszabása során figyelembe veszi a szolgáltatandó adatok körét és a jogsértés gyakoriságát. A hegybíró által kiszabott mulasztási bírság a Hegyközségek Nemzeti Tanácsának bevétele.
 
 (5)
 
@@ -498,7 +486,7 @@ terület lehet.
 - a) a szőlő termőhelyi katasztere felvételezésének, a kataszterbe sorolás, a kataszteri osztály módosítás, a kataszterből való törlés szabályait;
 - b) a borvidékeket és a hozzájuk tartozó települések listáját, a borrégiókat és működésükre vonatkozó szabályokat, a védett eredetű borokat, a védett eredetű borok készítésére, kiszerelésére, jelölésére, minősítésének eljárására és ellenőrzésére vonatkozó szabályokat;
 - c) a borkészítésre alkalmas szőlőfajtákat és a borkészítésre alkalmas szőlőfajták osztályba sorolásának rendjét;
-- d) a termelési potenciálra, valamint a kivágási engedély feltételeire és az engedélyezési eljárásra vonatkozó részletes szabályokat;
+- d) a termelési potenciálra vonatkozó részletes szabályokat;
 - e) a borászati termékek, valamint a bortípusok meghatározását, az előállításukra és kezelésükre, kiszerelésükre, minősítésükre, jelölésükre, forgalomba hozatalukra és ellenőrzésükre vonatkozó előírásokat, a borászati termékek megsemmisítésének rendjét;
 - f) a borászati melléktermékek kötelező kivonásának rendjét;
 - g) a származási bizonyítványok részletes adattartalmát, kiadási rendjét;
@@ -508,13 +496,14 @@ terület lehet.
 - k) a pince- és borhigiéniai követelményeket, a borászati üzemek működését, illetve a borászati üzemek működésének és a borászati termékek kiszerelésének engedélyezési rendjét;
 - l)
 - m) a forgalomba hozatali, illetve Magyarország területéről történő kiszállítás esetén a továbbfeldolgozásra vonatkozó engedély kiadásához szükséges kémiai és érzékszervi vizsgálatok végzésére jogosult szervezet elismerésének feltételeit, valamint a laboratóriumi és érzékszervi vizsgálatok rendjét;
-- n)
+- n) a borversenyekre vonatkozó részletes szabályokat;
 - o) a szőlő- és borágazat szakmaközi szervezetének elismerési rendjét.
 
 (2) Felhatalmazást kap a miniszter, hogy az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben
 
 - a) a borászati termékek kötelező egységes bizonylatolási, nyilvántartási és elszámolási rendjét,
-- b) a gazdasági aktára vonatkozó adatközlés módját, a gazdasági akta vezetésének szabályait, adattartalmának felhasználását szabályozza.
+- b) a gazdasági aktára vonatkozó adatközlés módját, a gazdasági akta vezetésének szabályait, adattartalmának felhasználását,
+- c) a kisüzemi bortermelő által vezetett nyilvántartás tartalmát szabályozza.
 
 (3) Felhatalmazást kap a Kormány, hogy
 

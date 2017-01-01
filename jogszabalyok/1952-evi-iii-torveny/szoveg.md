@@ -1311,6 +1311,8 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 (3) Ha az ügyben a fél, az ügyész, illetve a külön jogszabállyal erre feljogosított személy vagy szervezet keresete alapján a per tárgyában már jogerős ítéletet hoztak, az ezt követően ugyanabból a ténybeli alapból származó, ugyanazon jog iránt indított újabb keresetet a bíróság az (1) bekezdés d) pontja alapján elutasítja, feltéve, hogy az ítéletet annak a félnek is kézbesítették, akinek jogát a perben érvényesítették, és az vele szemben is jogerőre emelkedett (228. §).
 
+(4) Ha olyan végrehajtás megszüntetése, illetve korlátozása iránti per van folyamatban, amelyben a felperes a 369. § a) pontjában foglaltakra, érvénytelenségre alapítva hivatkozik, a bíróság az ezen felperes által a végrehajtási záradékkal ellátott okiratba foglalt szerződés vagy végrehajtási záradékkal ellátott okiratba foglalt egyoldalú kötelezettségvállaló nyilatkozat esetén az annak alapjául szolgáló szerződés érvénytelensége tárgyában külön per megindítására előterjesztett keresetlevelet az (1) bekezdés d) pontja alapján elutasítja.
+
 131. § Ha valamely bíróság hatáskörének vagy illetékességének hiányát valamely okból már jogerősen megállapította, az utóbb eljáró bíróság nem hozhat ezzel az okkal ellentétes olyan határozatot, amellyel a saját hatáskörét vagy illetékességét megtagadva, az ügyet az előbb eljárt bírósághoz utalja vissza.
 
 ### A keresetlevél beadásához fűződő jogi hatályokfenntartása
@@ -2016,7 +2018,7 @@ elektronikus úton vagy az adatbázisok közvetlen elérésével is meggyőződh
 - d) a gazdálkodó szervezet által üzleti körében kiállított okiratot szabályszerűen aláírták;
 - e) ügyvéd (jogtanácsos) az általa készített okirat szabályszerű ellenjegyzésével bizonyítja, hogy a kiállító a nem általa írt okiratot előtte írta alá vagy aláírását előtte saját kezű aláírásának ismerte el, illetőleg a kiállító minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírásával aláírt vagy minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus bélyegzővel ellátott elektronikus okirat tartalma az ügyvéd által készített elektronikus okiratéval megegyezik;
 - f) az elektronikus okiraton kiállítója minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírást, minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus bélyegzőt helyezett el;
-- g) olyan zárt rendszerben alkalmazott bizalmi szolgáltatás keretében jött létre, ahol a szolgáltató az okiratot a kiállító azonosításán keresztül a kiállító személyéhez rendeli és a személyhez rendelést a kiállító saját kezű aláírására egyértelműen visszavezethető adatokkal együtt hitelesen igazolja; továbbá a szolgáltató bizalmi szolgáltatások vagy bizalmi szolgáltatást megvalósító termékek megfelelőségének értékelésére feljogosított és kijelölt szervezet által értékelt rendszer felhasználásával az egyértelmű személyhez rendelésről kiállított igazolást elektronikus dokumentumba kapcsolt, elválaszthatatlan záradékba foglalja és azt az okirattal együtt legalább fokozott biztonságú elektronikus bélyegzővel és legalább fokozott biztonságú időbélyegzővel látja el.
+- g) olyan, törvényben vagy kormányrendeletben meghatározott szolgáltatás keretében jött létre, ahol a szolgáltató az okiratot a kiállító azonosításán keresztül a kiállító személyéhez rendeli, és a személyhez rendelést a kiállító saját kezű aláírására egyértelműen visszavezethető adattal együtt vagy az alapján hitelesen igazolja; továbbá a szolgáltató az egyértelmű személyhez rendelésről kiállított igazolást elektronikus dokumentumba kapcsolt, elválaszthatatlan záradékba foglalja és azt az okirattal együtt legalább fokozott biztonságú elektronikus bélyegzővel és legalább fokozott biztonságú időbélyegzővel látja el.
 
 (2) Gazdálkodó szervezet által kiállított vagy őrzött okiratról készült felvétel [195. § (2) bek.], továbbá bármilyen adathordozó útján készített okirat – értve ezalatt az elektronikus okiratról készített papír alapú okiratot is – teljes bizonyító erővel bizonyítja, hogy tartalma megegyezik az eredeti okiratéval, feltéve, hogy a gazdálkodó szervezet, amely a felvételt készítette vagy az okiratot kiállította, illetve őrzi, a felvétel vagy az okirat azonosságát szabályszerűen igazolta. Gazdálkodó szervezet által kiállított vagy őrzött okiratról készült elektronikus okirat akkor bizonyítja teljes bizonyító erővel azt, hogy tartalma megegyezik az eredeti okiratéval, ha az okiratról elektronikus okiratot készítő azt minősített elektronikus aláírással vagy bélyegzővel, vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással vagy bélyegzővel, és – ha jogszabály így rendelkezik – minősített bizalmi szolgáltatás keretében kibocsátott időbélyegzővel látta el, illetve külön jogszabály által meghatározott eljárás szerint készítette el. Gazdálkodó szervezet által kiállított vagy őrzött okiratról készült okirat bizonyító ereje – az okirat tartalmát illetően – az eredeti okiratéval, közokiratról készült okirat esetében pedig a teljes bizonyító erejű magánokiratéval azonos.
 
@@ -2033,6 +2035,10 @@ elektronikus úton vagy az adatbázisok közvetlen elérésével is meggyőződh
 (4) Ha a legalább fokozott biztonságú elektronikus aláírással vagy bélyegzővel ellátott elektronikus okirat aláírójának vagy bélyegző létrehozójának azonossága, illetve az okirat hamisítatlansága kétséges, ezek megállapítása érdekében a bíróság elsősorban az elektronikus aláíráshoz vagy bélyegzőhöz tartozó tanúsítványt kibocsátó bizalmi szolgáltatót keresi meg. Az elektronikus okirathoz kapcsolt időbélyegző által igazolt adatokkal kapcsolatos kétség esetén a bíróság elsősorban az időbélyegzést végző bizalmi szolgáltatót keresi meg. Az olyan zárt rendszerben alkalmazott bizalmi szolgáltatás keretében kiállított elektronikus okirat esetében, ahol a szolgáltató az okiratot a kiállító személyéhez rendeli és a személyhez rendelést a kiállító saját kezű aláírására egyértelműen visszavezethető adatokkal együtt hitelesen igazolja, a bíróság elsősorban a zárt rendszer bizalmi szolgáltatóját keresi meg.
 
 (5) A bíróság a 8. § megfelelő alkalmazásával pénzbírsággal sújtja azt a felet vagy képviselőt, aki a saját, illetőleg az általa képviselt fél aláírásának valódiságát jobb tudomása ellenére vagy nagyfokú gondatlanságból tagadta.
+
+(6) A lenyomatképző algoritmusok biztonsági gyengülése ellen védett, minősített bizalmi szolgáltató vagy archiválási rendszerek megfelelőségének értékelésére feljogosított szervezet által értékelt zárt rendszerben alkalmazott bizalmi szolgáltatás, jogszabályban meghatározott hosszú távú megőrzésre alkalmas archiváló rendszerében tárolt, legalább fokozott biztonságú elektronikus aláírással vagy bélyegzővel ellátott elektronikus okirat valódiságát vélelmezni kell.
+
+(7) A 196. § (1) bekezdés g) pontja szerinti bizalmi szolgáltató által kiállított, bizalmi szolgáltató vagy archiválási rendszerek megfelelőségének értékelésére feljogosított szervezet által értékelt zárt rendszerben alkalmazott bizalmi szolgáltatás, jogszabályban meghatározott hosszú távú megőrzésre alkalmas, a lenyomatképző algoritmusok biztonsági gyengülése ellen védett archiváló rendszerében tárolt elektronikus okirat valódiságát vélelmezni kell.
 
 198. § A 196. és 197. §-ok rendelkezéseit a külföldön kiállított magánokiratokra is alkalmazni kell azzal, hogy
 
@@ -3801,6 +3807,8 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 (2) Az első tárgyalás megtartásának nem akadálya az, ha a felperes vagy az alperes nem jelent meg, ha azonban egyik fél sem jelent meg az első tárgyaláson, az eljárást meg kell szüntetni.
 
+(2a) Ha a kereseti kérelem a végrehajtás megszüntetésére irányul, de korlátozásnak is helye lehet, a bíróság erre a feleket figyelmezteti és lehetőséget biztosít, hogy a felek ezzel összefüggésben az érdemi nyilatkozataikat megtegyék.
+
 (3) Bizonyítás felvételének csak olyan bizonyítékokra vonatkozóan van helye, amelyek a tárgyaláson rendelkezésre állnak, és amelyek alkalmasak lehetnek arra, hogy a keresetlevélben előadottakat vagy az alperes védekezését igazolják. Bizonyítás felvételének helye van a felek által nyomban felajánlott bizonyítékokra is.
 
 (4) A tárgyalást – legfeljebb 8 napra – csak akkor lehet elhalasztani, ha ez a felek által felajánlott bizonyítás lefolytatása érdekében szükséges.
@@ -3808,6 +3816,21 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 (5) A bíróság a keresetlevelet azzal küldi meg az ügyben eljárt végrehajtónak, hogy nyilatkozzon az eljárással kapcsolatban felmerült költségeiről, díjáról, valamint az azokat megalapozó körülményekről és az általa lefolytatott eljárási cselekményéről. A végrehajtót a tárgyalás napjáról értesíteni kell.
 
 (6) Ha a végrehajtó az (5) bekezdés szerinti nyilatkozatot a perben előterjesztette, a bíróságnak a végrehajtást megszüntető határozatában a végrehajtási költségek viseléséről is döntenie kell. A bíróság határozata ellen a végrehajtási költségek tekintetében a végrehajtó is fellebbezhet.
+
+370/B. § (1) Ha a felperes a végrehajtás megszüntetése, illetve korlátozása iránti perben a 369. § a) pontjában foglaltakra, érvénytelenségre alapítva hivatkozik, ebben a perben a végrehajtási záradékkal ellátott okiratba foglalt szerződés vagy végrehajtási záradékkal ellátott okiratba foglalt egyoldalú kötelezettségvállaló nyilatkozat esetén az annak alapjául szolgáló szerződés érvénytelensége tárgyában is keresetet kell előterjesztenie.
+
+(2) Az (1) bekezdés szerinti esetben, ha a felperes – hiánypótlási felhívás ellenére – nem terjeszti elő a végrehajtási záradékkal ellátott okiratba foglalt szerződés vagy végrehajtási záradékkal ellátott okiratba foglalt egyoldalú kötelezettségvállaló nyilatkozat esetén az annak alapjául szolgáló szerződés érvénytelensége tárgyában a keresetet, a kizárólag a 369. § a) pontjában foglaltakra alapított kereset esetén a keresetlevelet idézés kibocsátása nélkül el kell utasítani, vagy ha a keresetlevél idézés kibocsátása nélküli elutasításának már nincs helye, a pert meg kell szüntetni. Nincs helye a keresetlevél idézés kibocsátása nélküli elutasításának vagy a per megszüntetésének, ha a felperes a 369. § a) pontja mellett a végrehajtás megszüntetését, illetve korlátozását más okra alapítottan is kéri; ebben az esetben úgy kell tekinteni, hogy a 369. § a) pontjára alapított kereseti kérelmet nem tartja fenn.
+
+(3) Az (1) bekezdés szerinti esetben a végrehajtási záradékkal ellátott okiratba foglalt szerződés vagy végrehajtási záradékkal ellátott okiratba foglalt egyoldalú kötelezettségvállaló nyilatkozat esetén az annak alapjául szolgáló szerződés érvénytelensége tárgyában a keresetet mindazokkal szemben elő kell terjeszteni, akiknek egyébként perben kellene állnia a szerződés érvénytelensége tárgyában indított perben.
+
+(4) Az (1) bekezdés szerinti esetben a perben a végrehajtás megszüntetése, illetve korlátozása iránti perre hatáskörrel és illetékességgel rendelkező bíróság jár el akkor is, ha a végrehajtási záradékkal ellátott okiratba foglalt szerződés vagy végrehajtási záradékkal ellátott okiratba foglalt egyoldalú kötelezettségvállaló nyilatkozat esetén az annak alapjául szolgáló szerződés érvénytelensége tárgyában indított per más bíróság hatáskörébe és illetékességébe tartozna.
+
+(5) Azt a végrehajtás megszüntetése, illetve korlátozása iránti pert, amelyben a felperes a 369. § a) pontjára, érvénytelenségre alapítva hivatkozik, a bíróság felfüggeszti a végrehajtási záradékkal ellátott okiratba foglalt szerződés vagy végrehajtási záradékkal ellátott okiratba foglalt egyoldalú kötelezettségvállaló nyilatkozat esetén az annak alapjául szolgáló szerződés érvénytelensége tárgyában folyamatban lévő per jogerős elbírálásáig, ha
+
+- a) az érvénytelenség iránti per korábban került megindításra, mint a 369. § a) pontjára alapított per, vagy
+- b) az érvénytelenség iránti pert a 369. § a) pontjára alapított per felperesétől eltérő személy indította.
+
+(6) Az (1) bekezdés szerinti esetben a 370/A. § (3) és (4) bekezdése nem alkalmazható.
 
 ### Igényper
 
@@ -4227,9 +4250,9 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 ### Az elektronikus kapcsolattartás szabályai
 
-394/F. § (1) Ahol e törvény elektronikus kapcsolattartást rendel, ott a (2) bekezdésben meghatározottak szerint a Ket. elektronikus kapcsolattartásra vonatkozó rendelkezéseit kell megfelelően alkalmazni.
+394/F. § (1) A bíróság az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) és a végrehajtására kiadott kormányrendelet szerinti szabályozott vagy központi elektronikus ügyintézési szolgáltatásokat nyújthatja az ott meghatározott szabályok szerint, valamint az E-ügyintézési tv. és a végrehajtására kiadott kormányrendelet szerinti szabályozott és központi elektronikus ügyintézési szolgáltatásokat veheti igénybe az ott meghatározott, az Elektronikus Ügyintézési Felügyelet által nyilvántartásba vett szolgáltatótól.
 
-(2) A bíróság a Ket. és a végrehajtására kiadott kormányrendelet szerinti szabályozott elektronikus ügyintézési szolgáltatásokat nyújthatja az ott meghatározott szabályok szerint, valamint a Ket. és a végrehajtására kiadott kormányrendelet szerinti szabályozott elektronikus ügyintézési szolgáltatásokat veheti igénybe az ott meghatározott, az elektronikus ügyintézési felügyelet által nyilvántartásba vett szolgáltatótól.
+(2) Az elektronikus kapcsolattartás tekintetében 2017. december 31-ig az E-ügyintézési tv. 12., 20., és 57. §-át, a 101–103. §-át, valamint a VII., VIII. és XIV. Fejezetét kell alkalmazni.
 
 394/G. § (1) Ha a polgári perben a kapcsolattartás elektronikus úton történik (321/A. §, 340/B. §, 341/J. §, 394/B–394/E. §), úgy arra a (2)–(10) bekezdésben és a 394/H–394/M. §-ban foglalt szabályokat is alkalmazni kell.
 
@@ -4252,7 +4275,7 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 (8) Az Országos Bírósági Hivatal az űrlapokat a honlapon közzéteszi. A honlapon fel kell tüntetni az űrlapok közzétételének időpontját. A közzététel időpontjától az űrlap alkalmazása kötelező.
 
-(9) Ha az űrlap módosítására kerül sor, az Országos Bírósági Hivatal e tényről a honlapon a módosított űrlap közzététele előtt hét nappal tájékoztatást ad. Az Országos Bírósági Hivatal a módosított űrlap közzétételét követően a honlapon tizennégy napon keresztül jelzi annak tényét, hogy az űrlap megváltozott. A honlapot el kell látni a nem rendszeresített űrlapok előterjesztésének jogkövetkezményeire, valamint az űrlap kitöltésének módjára vonatkozó tájékoztatással. Ha az űrlap nem felel meg a jogszabályoknak, az Országos Bírósági Hivatal az űrlapot haladéktalanul módosítja vagy új űrlapot rendszeresít. A fél a módosított űrlap közzétételét követően a beadványát lejárt űrlapon nem nyújthatja be. Az Országos Bírósági Hivatal az ilyen beadványt nem fogadja be, erről a felet automatikus hibaüzenettel értesíti. A lejárt űrlapon benyújtott kérelmet be nem nyújtottnak kell tekinteni.
+(9) Ha az űrlap módosítására kerül sor, az Országos Bírósági Hivatal e tényről a honlapon a módosított űrlap közzététele előtt harminc nappal tájékoztatást ad. Az Országos Bírósági Hivatal a módosított űrlap közzétételét követően a honlapon tizennégy napon keresztül jelzi annak tényét, hogy az űrlap megváltozott. A honlapot el kell látni a nem rendszeresített űrlapok előterjesztésének jogkövetkezményeire, valamint az űrlap kitöltésének módjára vonatkozó tájékoztatással. Ha az űrlap nem felel meg a jogszabályoknak, az Országos Bírósági Hivatal az űrlapot haladéktalanul módosítja vagy új űrlapot rendszeresít. A fél a módosított űrlap közzétételét követően a beadványát lejárt űrlapon nem nyújthatja be. Az Országos Bírósági Hivatal az ilyen beadványt nem fogadja be, erről a felet automatikus hibaüzenettel értesíti. A lejárt űrlapon benyújtott kérelmet be nem nyújtottnak kell tekinteni.
 
 (10) A törvény, illetve a bíróság által meghatározott határidőbe nem számít bele az a nap, amely során legalább négy órán át nem üzemelt a kézbesítési rendszer vagy az Országos Bírósági Hivatal rendszere.
 
@@ -4281,7 +4304,7 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 (6) Az elektronikus úton kapcsolatot tartó a bírósági irat kézbesítéséről, annak az elektronikus kézbesítési tárhelyén történő elhelyezéséről a kézbesítési rendszer útján az általa megadott elektronikus levélcímére – az érkezést követően haladéktalanul, majd három nap elteltével ismételten – értesítést kap.
 
-(7) Az elektronikus úton kapcsolatot tartó az iratot az iratra mutató internetes hivatkozás megnyitásával veheti át. Az internetes hivatkozás megnyitásával elektronikus tértivevény jön létre, amely automatikusan megküldésre kerül a bíróság és az elektronikus úton kapcsolatot tartó részére; az elektronikus tértivevény igazolja, hogy az iratot átvették. Az internetes hivatkozás megnyitását megelőzően a kézbesítési rendszer útján az elektronikus úton kapcsolatot tartó számára megismerhetővé kell tenni legalább a bíróság és a felek nevét, az ügy tárgyát, a bírósági irat érkezésének időpontját, és az ügy számát.
+(7) Az elektronikus úton kapcsolatot tartó az iratot az iratra mutató internetes hivatkozás megnyitásával veheti át. Az internetes hivatkozás megnyitásával elektronikus tértivevény jön létre, amely automatikusan megküldésre kerül a bíróság részére; az elektronikus tértivevény igazolja, hogy az iratot átvették. Az internetes hivatkozás megnyitását megelőzően a kézbesítési rendszer útján az elektronikus úton kapcsolatot tartó számára megismerhetővé kell tenni legalább a bíróság és a felek nevét, az ügy tárgyát, a bírósági irat érkezésének időpontját, és az ügy számát.
 
 (8) Ha a kézbesítési rendszer a bíróság részére azt igazolja vissza, hogy a bíróság által megküldött bírósági iratot az elektronikus úton kapcsolatot tartó kétszeri értesítése ellenére nem vette át, a második értesítésigazolásban feltüntetett időpontot követő ötödik munkanapon a bírósági iratot kézbesítettnek kell tekinteni (kézbesítési vélelem). Ha a kézbesítési vélelem beállta megállapításának van helye, a bíróság és az elektronikus úton kapcsolatot tartó a kézbesítési rendszer útján automatikus tájékoztatást kap.
 
@@ -4291,7 +4314,7 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 (10) A kézbesítésre a 99. § (5) bekezdését nem lehet alkalmazni.
 
-(11) A kézbesítési rendszer az (1)–(10) bekezdésben szabályozott elektronikus igazolások és tértivevények másolatát automatikusan megküldi a küldeményt feladó és fogadó félnek is.
+(11)
 
 394/I. § (1) Ha a polgári perben a kapcsolattartás valamely fél részéről elektronikus úton történik, és az elektronikus úton kapcsolatot tartó beadványát nem elektronikus úton terjeszti elő, amennyiben e törvény másként nem rendelkezik,
 
@@ -4479,6 +4502,14 @@ kell alkalmazni.
 kell alkalmazni.
 
 397/K. § A polgári perrendtartásról szóló 1952. évi III. törvény, valamint a nemzeti akkreditálásról szóló 2015. évi CXXIV. törvény módosításáról szóló 2016. évi CXXXIV. törvény (a továbbiakban: Módtv.) hatálybalépését megelőzően indult eljárásokban a 326. § (12) bekezdés Módtv. hatálybalépését megelőző napon hatályos k) pontját alkalmazni kell.
+
+397/L. § (1) E törvénynek a jogi segítségnyújtásról szóló 2003. évi LXXX. törvény és egyes törvények eljárásjogi kérdésekkel összefüggő módosításáról szóló 2016. évi CLVIII. törvénnyel megállapított rendelkezéseit – a (2)–(5) bekezdésben foglalt kivétellel – a 2017. január 1-jén és az azt követően indult ügyekben kell alkalmazni.
+
+(2) Ha a 2017. január 1-jén folyamatban lévő végrehajtás megszüntetése, illetve korlátozása iránti perben a felperes 2017. január 1-jén vagy azt követően terjeszt elő a 369. § a) pontja szerinti kérelmet, e törvénynek a jogi segítségnyújtásról szóló 2003. évi LXXX. törvény és egyes törvények eljárásjogi kérdésekkel összefüggő módosításáról szóló 2016. évi CLVIII. törvénnyel megállapított rendelkezéseit a 2017. január 1-jén folyamatban lévő ügyben is alkalmazni kell.
+
+(3) E törvénynek a jogi segítségnyújtásról szóló 2003. évi LXXX. törvény és egyes törvények eljárásjogi kérdésekkel összefüggő módosításáról szóló 2016. évi CLVIII. törvénnyel megállapított 370/A. § (2a) bekezdését azokban a (2) bekezdés hatálya alá nem tartozó, 2017. január 1-jén folyamatban lévő ügyekben is alkalmazni kell, amelyekben az elsőfokú ítélet meghozatalát megelőző tárgyalás berekesztésére még nem került sor.
+
+(4) Ha 2017. január 1-jén a 369. § a) pontja szerinti, érvénytelenségre alapított végrehajtás megszüntetése, illetve korlátozása iránti per, valamint a végrehajtási záradékkal ellátott okiratba foglalt szerződés vagy végrehajtási záradékkal ellátott okiratba foglalt egyoldalú kötelezettségvállaló nyilatkozat esetén az annak alapjául szolgáló szerződés érvénytelensége tárgyában indított per is folyamatban van, a 369. § a) pontján alapuló perben eljáró bíróság az eljárást felfüggeszti a végrehajtási záradékkal ellátott okiratba foglalt szerződés vagy végrehajtási záradékkal ellátott okiratba foglalt egyoldalú kötelezettségvállaló nyilatkozat esetén az annak alapjául szolgáló szerződés érvénytelensége tárgyában folyamatban lévő per jogerős elbírálásáig.
 
 398. § E törvény 313–323. §-a összeegyeztethető szabályozást tartalmaz az Európai Parlament és a Tanács a kereskedelmi ügyletekhez kapcsolódó késedelmes fizetések elleni fellépésről szóló 2011/7/EU irányelvének 10. cikkével.
 

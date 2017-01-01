@@ -429,7 +429,7 @@ különbözőségének figyelembevételével kitermelési helyenként állapítj
 
 (7) Nyílt területen geotermikus energia nem vízjogi engedély alapján végzett kinyerésének és hasznosításának engedélyezésére a bányafelügyelet hatáskörébe tartozó, sajátos építményfajtákra vonatkozó külön jogszabály rendelkezéseit kell alkalmazni.
 
-(8) A természetes felszíntől mért 20 méteres mélységet el nem érő földkéreg részből történő geotermikus energia kinyerés és hasznosítás nem engedélyköteles. E rendelkezés nem mentesíti a tevékenységet végzőt a más jogszabályban előírt engedély megszerzése alól.
+(8)
 
 ### A szénhidrogén mezők ismételt kutatása
 
@@ -673,7 +673,7 @@ vonatkozó információ.
 
 ### A kitermelés szüneteltetése
 
-30. § (1) A bányavállalkozó a kitermelésre jóváhagyott műszaki üzemi terv időtartama alatt, legfeljebb 6 hónapig a kitermelést szüneteltetheti. A kitermelést 6 hónapot meghaladóan szüneteltetni a bányafelügyelet engedélyével, a jóváhagyott szüneteltetési műszaki üzemi terv alapján lehet.
+30. § (1) A bányavállalkozó a kitermelésre jóváhagyott műszaki üzemi terv időtartama alatt, legfeljebb 12 hónapig a kitermelést szüneteltetheti. A kitermelést 12 hónapot meghaladóan szüneteltetni a bányafelügyelet engedélyével, a jóváhagyott szüneteltetési műszaki üzemi terv alapján lehet.
 
 (2) A szüneteltetés időtartamára a miniszter a koncessziós szerződésben, más bányavállalkozó esetében a bányafelügyelet a szüneteltetésre készült műszaki üzemi tervet jóváhagyó határozatban a kieső bányajáradék pótlására díjfizetési kötelezettséget állapít meg. A bányajáradék pótlására díj nem állapítható meg, ha a kitermelés szüneteltetését elemi csapás vagy bányaveszély tette szükségessé.
 
@@ -809,7 +809,7 @@ foglaltakat kell alkalmazni.
 
 (6) Az ingatlan igénybevétele során okozott kárt a bányakárokra vonatkozó szabályok szerint kell megtéríteni. A szolgalom szerinti korlátozással megegyezően kell az ingatlanban keletkezett kárt megtéríteni. A szolgalom alapításáról, továbbá a kártalanítás módjáról és mértékéről a bányavállalkozónak, az egyéb gáz- és gáztermékvezeték üzemeltetőjének az ingatlan tulajdonosával, vagyonkezelőjével vagy használójával – ajánlat megküldésével – kell az egyezség létrehozását megkísérelnie.
 
-(6a) Megegyezés hiányában a szolgalom alapítását és az annak fejében járó kártalanítást a bányavállalkozó vagy az egyéb gáz- és gáztermékvezeték üzemeltetője kérelmére a fővárosi és megyei kormányhivatal állapítja meg. A szolgalom alapítására irányuló eljárásra a kisajátítási eljárás szabályait kell alkalmazni. A megállapodáson és a hatósági határozaton alapuló jog a Polgári Törvénykönyv 5:27. és 5:164. §-ában, valamint az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 16. § f) pontjában foglalt rendelkezések alkalmazása során azonos megítélés alá esik.
+(6a) Megegyezés hiányában a szolgalom alapítását és az annak fejében járó kártalanítást a bányavállalkozó vagy az egyéb gáz- és gáztermékvezeték üzemeltetője kérelmére a kisajátítási hatóság állapítja meg. A szolgalom alapítására irányuló eljárásra a kisajátítási eljárás szabályait kell alkalmazni. A megállapodáson és a hatósági határozaton alapuló jog a Polgári Törvénykönyv 5:27. és 5:164. §-ában, valamint az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 16. § f) pontjában foglalt rendelkezések alkalmazása során azonos megítélés alá esik.
 
 (7) A koncessziós szerződésben az állam által vállalt kisajátítással kapcsolatban felmerült kiadásokat (kártalanítás, eljárási költségek stb.) a bányavállalkozó köteles viselni. A kiadások összegét a bányavállalkozó köteles a kisajátítási eljárásban az állam képviseletében eljáró szervezetnek megelőlegezni. Egyéb esetben a bányászati célból történő kisajátítást a bányavállalkozó harmadik személy kisajátítást kérőként kérheti, a kisajátítással kapcsolatos kártalanítást, költségeket a bányavállalkozó köteles megfizetni. A kisajátított ingatlan mindkét esetben az állam tulajdonába kerül, a kisajátított ingatlanon – a bányászati jogosultság időtartama alatt – a bányavállalkozót megilletik az ingatlan birtoklására és ingyenes használatára vonatkozó jogok.
 
@@ -995,6 +995,21 @@ gyakorolja.
 (7) A bányafelügyelet bírsággal sújtja azt a cseppfolyós propán-, butángázok és ezek elegyei tartályban vagy palackban történő forgalmazásának szabályairól és hatósági felügyeletéről szóló rendelet szerinti gázforgalmazói engedélyest, aki a nyomástartó berendezés használatbavételére vonatkozó bejelentési kötelezettségét elmulasztja.
 
 (8) A bányafelügyelet bírsággal sújtja azt, a 3. § (1a) bekezdésében meghatározott személyt, aki a 25. § (2a) bekezdésében meghatározott adatszolgáltatási kötelezettségét nem teljesíti.
+
+(9) A bányafelügyelet bírsággal sújtja azt
+
+- a) a hites bányamérőt,
+- b) a nyomástartó berendezést vizsgáló szakembert vagy felügyeleti személyt és
+- c) a földtani szakértőt,
+
+aki a tevékenységére, továbbá a hites bányamérő tekintetében a bányatérképre is vonatkozó, az e törvény végrehajtására szolgáló jogszabályokban meghatározott követelményeket megsértette.
+
+(10) Amennyiben a hites bányamérő, a nyomástartó berendezést vizsgáló szakember vagy felügyeleti személy, valamint a földtani szakértő a (9) bekezdés szerinti követelményeket, továbbá a bányaüzemi felelős műszaki vezető az (5) bekezdés szerinti követelményeket
+
+- a) ismételten megszegte, vagy
+- b) úgy sértette meg, hogy ezzel a bányafelügyelet hatáskörébe tartozó tevékenység során bekövetkezett súlyos üzemzavar és súlyos baleset bejelentésének és vizsgálatának rendjéről szóló jogszabályban meghatározott súlyos üzemzavart, súlyos balesetet vagy harmadik személynek kárt okozott
+
+a bányafelügyelet bírság kiszabása mellett két évre eltiltja a tevékenység folytatásától.
 
 ### Bányabezárás, mező felhagyás
 
@@ -1218,7 +1233,7 @@ gyakorolja.
 
 ### A felelősség átadása
 
-42/T. § (1) A bányafelügyelet a tárolóhely 42/S. § (1) bekezdése szerinti bezárását követően a tárolóhellyel kapcsolatos valamennyi kötelezettség teljesítéséért fennálló felelősséget átveszi, ha a következő feltételek teljesülnek:
+42/T. § (1) A bányafelügyelet a tárolóhely 42/S. § (1) bekezdése szerinti bezárását követően a tárolóhellyel kapcsolatos valamennyi kötelezettség teljesítéséért fennálló felelősséget – saját kezdeményezésére vagy üzemeltetői kérelemre – átveszi, ha a következő feltételek teljesülnek:
 
 - a) az üzemeltető által készített biztonságos tárolási jelentés igazolja, hogy a tárolt szén-dioxid teljes egészében és tartósan a tárolóhelyen belül marad,
 - b) a bányafelügyelet által a tárolási engedélyben meghatározott, de a tárolóhely bezárásától számított legalább 20 éves időtartam eltelt, kivéve ha az a) pontban foglalt feltétel ezen időszak letelte előtti teljesülését a bányafelügyelet határozatában megállapította,
@@ -1276,7 +1291,7 @@ gyakorolja.
 
 (3) A bányafelügyelet a hatósági felügyelete keretében – az e törvényben és a külön jogszabályokban meghatározott – műszaki-biztonsági, munkavédelmi, építésügyi hatósági, építésfelügyeleti, ásványvagyon-gazdálkodási, piacfelügyeleti és földtani hatásköröket gyakorol. A bányafelügyelet tűzvédelmi hatósági jogköre a bányák föld alatti, valamint ezzel egy tekintet alá eső külszíni részére terjed ki.
 
-(4) A bányafelügyelet és az állami földtani feladatokat ellátó szerv központi szervének döntéseit felügyeleti jogkörben megváltoztatni vagy megsemmisíteni nem lehet.
+(4) Hatósági ügyekben országos illetékességgel eljáró bányafelügyeleti és állami földtani feladatokat ellátó szerv döntéseit felügyeleti jogkörben megváltoztatni vagy megsemmisíteni nem lehet.
 
 (5)–(6)
 
@@ -1339,6 +1354,8 @@ gyakorolja.
 (2) Ha az ügyfél a kérelmet hiányosan nyújtotta be, a bányafelügyelet a kérelem beérkezésétől számított tizenöt napon belül hiánypótlásra hívja fel.
 
 (3) A bányafelügyelet eljárásaiban hozott döntésekkel szembeni fellebbezést indokolni kell. Fellebbezni csak a megtámadott döntésre vonatkozóan, tartalmilag közvetlenül összefüggő okból, illetve csak a döntésből közvetlenül adódó jog- vagy érdeksérelemre hivatkozva lehet.
+
+(3a) A bányafelügyelet bányászati szakigazgatási hatósági elsőfokú műszaki-biztonsági, munkavédelmi, építésügyi hatósági, építésfelügyeleti, bányászati tevékenység engedélyezésével és felügyeletével kapcsolatos, piacfelügyeleti és földtani hatáskörében, valamint a 44. § (1) bekezdés b)–o), q), s) és t) pontjában meghatározott ügyekben hozott döntéseivel szemben fellebbezésnek van helye.
 
 (4) A műszaki üzemi tervek jóváhagyására indított eljárásban e törvény alapján iratbetekintésre jogosult a műszaki üzemi tervben körülhatárolt terület 500 méteres környezetében lévő ingatlan tulajdonosa, továbbá az, akinek az ingatlanra vonatkozó jogát az ingatlan-nyilvántartásba bejegyezték.
 
@@ -1477,7 +1494,7 @@ bányahatósági felügyelete
 - e) a kitermelt ásványi nyersanyag felhasználásának helyét,
 - f) az anyagnyerő helyről kitermelhető ásványi nyersanyag mennyiségét m3-ben,
 - g) a tevékenységet végző megnevezését, székhelyét,
-- h) az engedélyező bányászati hatáskörében eljáró illetékes kormányhivatal megnevezését.
+- h) az engedélyező bányafelügyelet megnevezését.
 
 47/D. § (1) Az anyagnyerő hely engedélyesének a 28. §-ban foglaltak szerint bányaüzemi felelős műszaki vezetőt és helyettest kell megbíznia.
 
@@ -1579,7 +1596,7 @@ bányahatósági felügyelete
 - 50. Használaton kívüli bányászati célú mélyfúrás, kút: a meddő szénhidrogén kutatófúrás, kút, illetve a termelésből kivont, a mező termeltetéséhez már nem szükséges vagy műszakilag alkalmatlanná vált szénhidrogénkút.
 - 51. Meddő szénhidrogén kutatófúrás, kút: olyan kutatófúrás (kút), amely szénhidrogén-indikációt nem eredményezett vagy olyan mértékben eredményezett, amely alapján a szénhidrogén nem termelhető ki gazdaságosan.
 - 52. „Föld alatti szénelgázosítás”: olyan bányaművelési technológia, amely a felszín alatt feltárt széntelep fúrólyukon keresztül végzett részleges oxidációja során képződő szintézisgáz fúrólyukon való, szabályozott kitermelésével történik.
-- 53. „Kitermelés szüneteltetése”: amikor a bányában 6 hónapot meghaladóan nem folytatnak kitermelést.
+- 53. „Kitermelés szüneteltetése”: amikor a bányában 12 hónapot meghaladóan nem folytatnak kitermelést.
 - 54. „Együttes művelési terv”: az a műszaki dokumentáció, amelyet akkor kell készíteni, ha a szénhidrogén-lelőhely feltárására és kitermelésére több, a kitermeléshez szükséges feltételekkel rendelkező bányavállalkozó jogosult.
 
 ## VI. RÉSZ — A BÁNYÁSZOK ERKÖLCSI ÉS ANYAGI MEGBECSÜLÉSE
@@ -1770,7 +1787,7 @@ rendeletben történő megállapítására.
 
 50/D. § (1) 2004. január 1-je előtt idegen ingatlanon megépült és üzembe helyezett, az 50/C. § szabályozási körén kívüli, a törvény hatálya alá tartozó létesítmények tekintetében, amennyiben azok üzemeltetésére a szolgalmi jog alapítását követően, annak az ingatlan-nyilvántartásba való bejegyzése nem történt meg, a bejegyzésre a bányafelügyelet által kiadott jogerős és végrehajtható használatbavételi engedély alapján kerülhet sor. Amennyiben a szolgalmi jog nem az egész földrészletet érinti, akkor a határozathoz mellékelni kell az ingatlan érintett részét ábrázoló, az ingatlanügyi hatóság által záradékolt változási vázrajzot is.
 
-(2) 2004. január 1-je előtt idegen ingatlanon megépült és üzembe helyezett, az 50/C. § szabályozási körén kívüli, a törvény hatálya alá tartozó létesítmények tekintetében, amennyiben azok üzemeltetésére a szolgalmi jog alapítása nem történt meg, vagy az (1) bekezdésben meghatározott használatbavételi engedély nem lelhető fel, a fővárosi és megyei kormányhivatal az érintett létesítmények tekintetében a bányavállalkozó 2016. december 31. napjáig benyújtott kérelmére szolgalmi jogot állapít meg. A jogerős és végrehajtható határozattal a fővárosi és megyei kormányhivatal megkeresi az ingatlanügyi hatóságot a szolgalmi jog ingatlan-nyilvántartásba történő bejegyzése iránt.
+(2) 2004. január 1-je előtt idegen ingatlanon megépült és üzembe helyezett, az 50/C. § szabályozási körén kívüli, a törvény hatálya alá tartozó létesítmények tekintetében, amennyiben azok üzemeltetésére a szolgalmi jog alapítása nem történt meg, vagy az (1) bekezdésben meghatározott használatbavételi engedély nem lelhető fel, a kisajátítási hatóság az érintett létesítmények tekintetében a bányavállalkozó 2016. december 31. napjáig benyújtott kérelmére szolgalmi jogot állapít meg. A jogerős és végrehajtható határozattal kisajátítási hatóság megkeresi az ingatlanügyi hatóságot a szolgalmi jog ingatlan-nyilvántartásba történő bejegyzése iránt.
 
 (3) A szolgalmi jog (1) bekezdés szerinti utólagos bejegyzése, az ingatlannal kapcsolatban többlet jogokat és kötelezettségeket nem keletkeztethet, így nem teremt jogalapot kártalanítási igény érvényesítésére sem.
 

@@ -29,7 +29,7 @@ a szabálysértési jogsegélyről
 
 - a) az eljárási jogsegély külföldi hatóság részére történő nyújtásával, valamint a külföldi hatóság eljárási jogsegély iránti megkeresésével kapcsolatban – a c) pontban foglaltak kivételével – a legfőbb ügyész,
 - b) a pénzbírságot kiszabó jogerős szabálysértési határozat átvételével, valamint átadásával kapcsolatban a szabálysértési szabályozásért felelős miniszter rendeletében meghatározott szerv, valamint
-- c) a közúti közlekedési nyilvántartás jármű nyilvántartásából történő automatizált adatkeresés esetén a központi közúti közlekedési nyilvántartó szerv.
+- c) a közúti közlekedési nyilvántartás jármű nyilvántartásából történő automatizált adatkeresés esetén a közúti közlekedési nyilvántartó szerv.
 
 ### II. Fejezet — ÁLTALÁNOS ELJÁRÁSI ÉS KÖLTSÉGVISELÉSI SZABÁLYOK
 
@@ -49,17 +49,17 @@ a szabálysértési jogsegélyről
 
 (4) Ha valamely állam központi hatósága elfogadja a magyar nyelvű megkereséseket, akkor a magyar központi hatóság is elfogadja az adott állam hivatalos nyelvén előterjesztett valamennyi megkeresést.
 
-5. § (1) A külföldi hatóságtól érkezett szabálysértési jogsegély iránti megkeresést a központi hatóság fogadja, és – ha a jogsegély teljesítésének törvényben meghatározott előfeltételei fennállnak – továbbítja a hatáskörrel és illetékességgel rendelkező szabálysértési hatóságnak, vagy a bíróságnak, illetve a központi közúti közlekedési nyilvántartó szervnek.
+5. § (1) A külföldi hatóságtól érkezett szabálysértési jogsegély iránti megkeresést a központi hatóság fogadja, és – ha a jogsegély teljesítésének törvényben meghatározott előfeltételei fennállnak – továbbítja a hatáskörrel és illetékességgel rendelkező szabálysértési hatóságnak, vagy a bíróságnak, illetve a közúti közlekedési nyilvántartó szervnek.
 
 (2) A külföldi hatósághoz intézett szabálysértési jogsegély iránti megkeresést a szabálysértési hatóság, illetve a bíróság a központi hatósághoz küldi meg továbbítás végett.
 
 6. § (1) Ha a külföldi hatóságtól érkezett megkeresés olyan mértékben hiányos vagy pontatlan, hogy emiatt a teljesíthetősége kérdésében nem lehet állást foglalni, vagy szakszerűen nem lehet teljesíteni, a központi hatóság a megkereső külföldi hatóságot felhívja a hiány pótlására, illetve kiegészítő adat közlésére. Ha a felhívás alapján a hiányt nem pótolják, illetve nem közlik a kért kiegészítő adatot, a központi hatóság megtagadja a megkeresés teljesítését.
 
-(2) Ha a külföldi hatóságtól érkezett megkeresés teljesítése akadályba ütközik, vagy eredménytelen, illetve ha a megkeresést részben teljesítették, a megkeresés teljesítésére illetékes szabálysértési hatóság, vagy a bíróság, illetve a központi közúti közlekedési nyilvántartó szerv az iratokat – az akadály, az eredménytelenség, illetve a részleges teljesítés okának megjelölésével – a központi hatósághoz terjeszti fel. A központi hatóság a megkeresés teljesítésének akadályáról, eredménytelenségéről, a részleges teljesítés okáról értesíti a megkeresést előterjesztő külföldi hatóságot.
+(2) Ha a külföldi hatóságtól érkezett megkeresés teljesítése akadályba ütközik, vagy eredménytelen, illetve ha a megkeresést részben teljesítették, a megkeresés teljesítésére illetékes szabálysértési hatóság, vagy a bíróság, illetve a közúti közlekedési nyilvántartó szerv az iratokat – az akadály, az eredménytelenség, illetve a részleges teljesítés okának megjelölésével – a központi hatósághoz terjeszti fel. A központi hatóság a megkeresés teljesítésének akadályáról, eredménytelenségéről, a részleges teljesítés okáról értesíti a megkeresést előterjesztő külföldi hatóságot.
 
-(3) Ha a külföldi hatóságtól érkezett megkeresést a szabálysértési hatóság vagy a bíróság, illetve a központi közúti közlekedési nyilvántartó szerv teljesítette, az iratokat a központi hatósághoz felterjeszti, amely azokat továbbítja a megkereső külföldi hatósághoz.
+(3) Ha a külföldi hatóságtól érkezett megkeresést a szabálysértési hatóság vagy a bíróság, illetve a közúti közlekedési nyilvántartó szerv teljesítette, az iratokat a központi hatósághoz felterjeszti, amely azokat továbbítja a megkereső külföldi hatósághoz.
 
-(4) Ha a megkeresés teljesítésében a központi hatóság hiányosságot vagy hibát észlel, annak pótlására, kijavítására vagy kiegészítésére a továbbítást megelőzően felhívja a megkeresést teljesítő szabálysértési hatóságot, vagy a bíróságot, illetve a központi közúti közlekedési nyilvántartó szervet.
+(4) Ha a megkeresés teljesítésében a központi hatóság hiányosságot vagy hibát észlel, annak pótlására, kijavítására vagy kiegészítésére a továbbítást megelőzően felhívja a megkeresést teljesítő szabálysértési hatóságot, vagy a bíróságot, illetve a közúti közlekedési nyilvántartó szervet.
 
 7. § (1) Ha a külföldi hatóság azt a tájékoztatást adja a központi hatóságnak, hogy a szabálysértési jogsegély iránti megkeresés hiányos vagy pontatlan, és egyidejűleg a hiány pótlását, illetve kiegészítő adat közlését kéri, a megkeresést előterjesztő szabálysértési hatóság, illetve bíróság a központi hatóság felhívásának megfelelően a hiányt pótolja, a kért kiegészítő adatot közli.
 
@@ -111,7 +111,7 @@ a szabálysértési jogsegélyről
 
 ### 1. CÍM — ELJÁRÁSI JOGSEGÉLY NYÚJTÁSA KÜLFÖLDI HATÓSÁG RÉSZÉRE
 
-12. § (1) Külföldi hatóság megkeresésére a szabálysértési hatóság vagy a bíróság, illetve a központi közúti közlekedési nyilvántartó szerv eljárási jogsegélyt nyújt.
+12. § (1) Külföldi hatóság megkeresésére a szabálysértési hatóság vagy a bíróság, illetve a közúti közlekedési nyilvántartó szerv eljárási jogsegélyt nyújt.
 
 (2) Az eljárási jogsegély kiterjedhet a tanú, a szakértő és az eljárás alá vont személy meghallgatására, okirat vagy a szabálysértési eljárás iratainak a külföldi hatóság részére történő megküldésére, a szabálysértési eljárás iratainak a kézbesítésére, és a szabálysértési eljárás alá vont személy hatósági nyilvántartásban szereplő személyes adatairól történő adatszolgáltatásra.
 
@@ -176,9 +176,9 @@ a szabálysértési jogsegélyről
 
 ### A szabálysértési eljárás alá vont személy hatósági nyilvántartásban szereplő személyes adatairól történő adatszolgáltatás
 
-19. § (1) Ha a szabálysértési ügyben eljáró külföldi hatóság, amely előtt olyan cselekmény miatt van eljárás folyamatban, amelynek az elkövetéséhez gépjárművet használtak, és megkeresésében a gépjármű rendszámának és gyártmányának megküldésével, annak a személynek a közúti közlekedési nyilvántartásról szóló törvény szerinti járműnyilvántartásban rögzített adatait kéri, aki a cselekmény elkövetésekor a gépjármű üzembentartója volt, a legfőbb ügyész a megkeresést válaszadás céljából továbbítja a központi közúti közlekedési nyilvántartó szervnek.
+19. § (1) Ha a szabálysértési ügyben eljáró külföldi hatóság, amely előtt olyan cselekmény miatt van eljárás folyamatban, amelynek az elkövetéséhez gépjárművet használtak, és megkeresésében a gépjármű rendszámának és gyártmányának megküldésével, annak a személynek a közúti közlekedési nyilvántartásról szóló törvény szerinti járműnyilvántartásban rögzített adatait kéri, aki a cselekmény elkövetésekor a gépjármű üzembentartója volt, a legfőbb ügyész a megkeresést válaszadás céljából továbbítja a közúti közlekedési nyilvántartó szervnek.
 
-(2) A központi közúti közlekedési nyilvántartó szerv a gépjármű üzembentartójának a közúti közlekedési nyilvántartásról szóló törvény szerinti járműnyilvántartásban rögzített – a megkeresésben megjelölt – adatait a megkeresés hozzá való megérkezésétől számított tizenöt napon belül megküldi a legfőbb ügyésznek, aki azt továbbítja a megkeresést előterjesztő külföldi hatósághoz.
+(2) A közúti közlekedési nyilvántartó szerv a gépjármű üzembentartójának a közúti közlekedési nyilvántartásról szóló törvény szerinti járműnyilvántartásban rögzített – a megkeresésben megjelölt – adatait a megkeresés hozzá való megérkezésétől számított tizenöt napon belül megküldi a legfőbb ügyésznek, aki azt továbbítja a megkeresést előterjesztő külföldi hatósághoz.
 
 (3) A 2008/615/IB tanácsi határozaton, valamint a 2008/616/IB tanácsi határozaton alapuló automatizált keresés elrendelése esetén az Európai Unió más tagállamának kijelölt nemzeti kapcsolattartó pontja részére a 3. § (4) bekezdés c) pontja szerinti központi hatóság biztosítja az (1) bekezdésben meghatározott adatokhoz elektronikus úton történő hozzáférést. E bekezdés alkalmazásában az Európai Unió más tagállama alatt mindazon államokat is érteni kell, amelyek nem tagjai az Európai Uniónak, de amelyekkel az Európai Unió Tanácsa határozattal jóváhagyta a 2008/615/IB tanácsi határozat, valamint a 2008/616/IB tanácsi határozat és melléklete egyes rendelkezéseinek alkalmazásáról szóló megállapodás megkötését és alkalmazását.
 

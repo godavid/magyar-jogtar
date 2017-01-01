@@ -19,14 +19,17 @@ Az Országgyűlés az élet és az anyagi javak védelmének, az alapvető szolg
 
 #### 2. A nemzeti létfontosságú rendszerelemek kijelölése
 
-2. § (1) Nemzeti létfontosságú rendszerelemmé történő kijelölést vagy a kijelölés visszavonását
+2. § (1) Nemzeti létfontosságú rendszerelemmé történő kijelölési eljárást az 1–3. mellékletben meghatározott ágazatokhoz tartozás alapján, a kormányrendeletben kijelölt szerv (a továbbiakban: ágazati kijelölő hatóság) hivatalból folytatja le
 
-- a) az üzemeltető vagy
-- b) kormányrendeletben meghatározott szerv (a továbbiakban: javaslattevő hatóság)
+- a) az üzemeltető által lefolytatott azonosítási eljárás alapján elkészített azonosítási jelentés benyújtását követően,
+- b) kormányrendeletben meghatározott szerv (a továbbiakban: javaslattevő hatóság) javaslata alapján.
 
-kezdeményezheti az 1–3. mellékletben meghatározott ágazatokhoz tartozás alapján kormányrendeletben kijelölt szervnél (a továbbiakban: ágazati kijelölő hatóság) az azonosítási eljárás lefolytatása után azonosítási jelentés benyújtásával.
+(2) Az ágazati kijelölő hatóság a kijelölés visszavonásáról
 
-(2) Az ágazati kijelölő hatóság a kijelölés visszavonásáról hivatalból is dönthet.
+- a) hivatalból az (1) bekezdésben meghatározottak szerint, vagy
+- b) az üzemeltető kérelmére
+
+dönthet.
 
 (3) Az ágazati kijelölő hatóság az ágazati és horizontális kritériumok alapján a közigazgatási hatósági eljárás szabályainak megfelelően határozatban dönt a nemzeti létfontosságú rendszerelem kijelöléséről vagy a kijelölés visszavonásáról, meghatározza az üzemeltetői biztonsági terv kidolgozásának határidejét, valamint a létfontosságú rendszerelem védelmével összefüggő, a rendszerelem egyedi sajátosságaihoz, környezetéhez, a rendszerelem által potenciálisan előidézhető veszély mértékéhez igazodó feltételeket írhat elő az üzemeltető részére.
 
@@ -34,14 +37,21 @@ kezdeményezheti az 1–3. mellékletben meghatározott ágazatokhoz tartozás a
 
 #### 3. Az európai létfontosságú rendszerelemek kijelölése
 
-3. § (1) Európai létfontosságú rendszerelem kijelölésére vagy a kijelölés visszavonására irányuló folyamat
+3. § (1) Európai létfontosságú rendszerelemmé történő kijelölési eljárást az ágazati kijelölő hatóság hivatalból folytatja le
 
-- a) az üzemeltetőnek vagy a javaslattevő hatóságnak a nemzeti létfontosságú rendszerelemmé történő kijelölésre vagy a kijelölés visszavonására irányuló eljárás megindításával együtt, vagy önállóan előterjesztett kérelme, vagy
-- b) EGT-állam kezdeményezése
+- a) az üzemeltető által lefolytatott azonosítási eljárás alapján elkészített azonosítási jelentés benyújtását követően,
+- b) EGT-állam kezdeményezése alapján, vagy
+- c) a javaslattevő hatóság ágazati kijelölő hatóságnál tett kezdeményezése alapján.
 
-alapján indulhat meg.
+(1a) Az ágazati kijelölő hatóság a kijelölés visszavonásáról
 
-(2) Európai létfontosságú rendszerelemmé kijelölésre irányuló kérelmet vagy kezdeményezést – az (1) bekezdés b) pontja esetén a javaslattevő hatóság bevonásával – az ágazati kijelölő hatóság megvizsgálja és az európai létfontosságú rendszerelemmé nyilvánítással kapcsolatos álláspontjáról az ágazatért felelős miniszter útján a katasztrófák elleni védekezésért felelős minisztert tájékoztatja.
+- a) hivatalból,
+- b) EGT-állam kezdeményezése alapján hivatalból, vagy
+- c) az üzemeltető kérelme alapján
+
+dönthet.
+
+(2) Európai létfontosságú rendszerelemmé kijelölésre irányuló kezdeményezést, illetve az üzemeltető által benyújtott azonosítási jelentést – az (1) bekezdés c) pontja kivételével a javaslattevő hatóság bevonásával – az ágazati kijelölő hatóság megvizsgálja és az európai létfontosságú rendszerelemmé nyilvánítással kapcsolatos álláspontjáról az ágazatért felelős miniszter útján a katasztrófák elleni védekezésért felelős minisztert tájékoztatja.
 
 (3) Az európai létfontosságú rendszerelemmé nyilvánítással kapcsolatos nemzetközi szerződés megkötését a katasztrófák elleni védekezésért felelős miniszter az adott ágazat szerint feladat- és hatáskörrel rendelkező miniszterrel együtt kezdeményezi.
 
@@ -62,7 +72,7 @@ a hatóságok és a szakhatóságok részéről csak olyan személy vehet részt
 - b) a biztonsági összekötő személy természetes személyazonosító adatait, telefon- és telefaxszámát, e-mail címét, szakirányú végzettségét, a végzettséget igazoló okirat sorszámát,
 - c) a nemzeti létfontosságú rendszerelemek és azon európai létfontosságú rendszerelemek megnevezését, amelyek esetében Magyarország érintett fél,
 - d) az üzemeltetői biztonsági tervet,
-- e) az ágazati kijelölő hatóságnak az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem kijelölése visszavonásáról szóló határozatát.
+- e) az ágazati kijelölő hatóságnak az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem kijelöléséről és a kijelölés visszavonásáról szóló határozatát.
 
 (2) Az (1) bekezdésben meghatározott adatok kezelésének célja
 
@@ -77,26 +87,35 @@ a hatóságok és a szakhatóságok részéről csak olyan személy vehet részt
 - a) az azonosítási eljárásban, a kijelölési eljárásban, a kijelölés visszavonására vonatkozó eljárásban részt vevő javaslattevő hatóság, ágazati kijelölő hatóság, szakhatóságok részére az azonosítási eljárás, a kijelölési eljárás, a kijelölés visszavonására vonatkozó eljárás lefolytatásának biztosítása céljából,
 - b) az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem ellenőrzését koordináló szerv (a továbbiakban: ellenőrzést koordináló szerv) részére a koordinációs feladatok biztosítása céljából,
 - c) az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem helyszíni ellenőrzését lefolytató szerv (a továbbiakban: helyszíni ellenőrzést lefolytató szerv) részére a helyszíni ellenőrzés lefolytatása céljából,
-- d) az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem hatósági ellenőrzésére jogszabály alapján feladat- és hatáskörrel rendelkező hatóságok részére a hatósági ellenőrzések lefolytatása céljából.
+- d) az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem hatósági ellenőrzésére jogszabály alapján feladat- és hatáskörrel rendelkező hatóságok részére a hatósági ellenőrzések lefolytatása céljából,
+- e) rendkívüli esemény bekövetkezése esetén az eseménykezelésben és a helyreállításban részt vevő szervek tevékenységének támogatása céljából,
+- f) a hivatásos katasztrófavédelmi szerv területi és helyi szervei részére hatósági, megelőzési, kapcsolattartási és tájékoztatási feladatai elvégzése, illetve rendkívüli esemény kezelése céljából.
 
 (5) Az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem adatait az (1) bekezdésben meghatározott nyilvántartásból, valamint a kijelölési eljárásban érintett valamennyi hatóság nyilvántartásából
 
 - a) az ágazati kijelölő hatóságnak rendszerelem kijelölése visszavonásáról szóló határozatának jogerőre emelkedése után egy évvel, vagy
 - b) a kijelölést elutasító határozat jogerőre emelkedésekor törölni kell, és erről az üzemeltetőt írásban értesíteni kell.
 
-(6) Az ágazati kijelölő hatóság a kijelölés visszavonására, vagy elutasítására vonatkozó jogerős határozatot haladéktalanul köteles megküldeni a nyilvántartó hatóságnak és valamennyi érintett hatóságnak.
+(6) Az ágazati kijelölő hatóság haladéktalanul köteles megküldeni
 
-6. § (1) Az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem üzemeltetője az ágazati kijelölő hatóság határozatában meghatározott határidőn belül – amely nem lehet rövidebb a kijelölő határozat közlésétől számított hatvan napnál – kidolgozza az ágazati hatóság kijelölő döntésében meghatározott tartalmi és formai követelmények szerinti üzemeltetői biztonsági tervet, és azt másolatban megküldi a nyilvántartó hatóságnak és az ágazati kijelölő hatóságnak.
+- a) a kijelölés visszavonására vagy elutasítására vonatkozó jogerős határozatot a kijelölési eljárásban érintett valamennyi hatóságnak,
+- b) a kijelölés visszavonására vonatkozó jogerős határozatot a nyilvántartó hatóságnak.
+
+6. § (1) Az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem üzemeltetője az ágazati kijelölő hatóság határozatában meghatározott határidőn belül – amely nem lehet rövidebb a kijelölő határozat közlésétől számított hatvan napnál – kidolgozza az ágazati hatóság kijelölő döntésében meghatározott tartalmi és formai követelmények szerinti üzemeltetői biztonsági tervet, és azt papír alapon és elektronikus adathordozón megküldi az ágazati kijelölő hatóságnak.
+
+(1a) Az üzemeltetői biztonsági tervet az ágazati kijelölő hatóság a határozatában meghatározott tartalmi és formai követelmények teljesülése érdekében a nyilvántartásba vételt megelőzően formailag és tartalmilag ellenőrzi, hiányosság esetén az üzemeltetőt hiánypótlásra szólítja fel. Az ágazati kijelölő hatóság az ellenőrzött üzemeltetői biztonsági tervet megküldi a nyilvántartó hatóságnak és az üzemeltetőnek.
 
 (2) Az üzemeltetői biztonsági tervben kell megjelölni a létfontosságú rendszerelemeket és azt a szervezeti és eszközrendszert, amely biztosítja azok védelmét. Az üzemeltetői biztonsági tervben kell megjelölni azokat a biztonsági intézkedéseket, amelyek kialakítása és működtetése biztosítja az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem védelmét, továbbá meg kell határozni azokat az ideiglenes intézkedéseket, amelyeket a különböző kockázati és veszélyszinteknek megfelelően foganatosítani kell.
 
 (3) Az üzemeltetői biztonsági tervben kell rögzíteni az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem védelmét szolgáló meglévő vagy kialakítás alatt álló biztonsági megoldásokkal kapcsolatos eljárást. Az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem működésének védelmét és folyamatosságát az üzemeltetői biztonsági tervvel összhangban kell megszervezni.
 
-(4) Ha az üzemeltető a létfontosságú rendszerelem európai létfontosságú rendszerelemmé vagy nemzeti létfontosságú rendszerelemmé történő kijelöléskor rendelkezik olyan biztonsági dokumentummal, mely az üzemeltetői biztonsági terv tartalmi elemeit magába foglalja, akkor az ágazati kijelölő hatóság határozatában rendelkezhet úgy, hogy a biztonsági dokumentum az üzemeltetői biztonsági tervet helyettesíti.
+(4) Ha az üzemeltető a létfontosságú rendszerelem európai létfontosságú rendszerelemmé vagy nemzeti létfontosságú rendszerelemmé történő kijelöléskor rendelkezik olyan biztonsági dokumentummal, amely az üzemeltetői biztonsági terv tartalmi elemeit magában foglalja, akkor kérelmére az ágazati kijelölő hatóság rendelkezhet úgy, hogy a biztonsági dokumentum az üzemeltetői biztonsági tervet helyettesíti. Az üzemeltetői biztonsági terv és mellékletei, vagy az azokat helyettesítő biztonsági dokumentum nem nyilvános.
 
 (5) A (4) bekezdés szerinti esetben a biztonsági dokumentumot kell megküldeni a nyilvántartó hatóságnak az 5. § szerinti nyilvántartásba vétel céljából.
 
-(6) Az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem üzemeltetője módosítja az üzemeltetői biztonsági tervet, ha tevékenységében olyan változás áll be, amely érinti a létfontosságú rendszerelem európai létfontosságú rendszerelemmé vagy nemzeti létfontosságú rendszerelemmé történő kijelölését vagy azonosítását, a védelmét, továbbá az üzemeltetői biztonsági tervben meghatározott, bekövetkezett rendkívüli eseményekről haladéktalanul tájékoztatja a hivatásos katasztrófavédelmi szerv területi szervének ügyeleti szolgálatát.
+(6) Az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem üzemeltetője soron kívül módosítja az üzemeltetői biztonsági tervet, ha olyan változás áll be, amely érinti a létfontosságú rendszerelem tevékenységét, működését vagy védelmét. A módosított üzemeltetői biztonsági tervet az ágazati kijelölő hatóság a formai és tartalmi ellenőrzést követően megküldi az (1a) bekezdésben megjelölt szervek részére.
+
+(6a) Az üzemeltető a bekövetkezett rendkívüli eseményekről haladéktalanul tájékoztatja a hivatásos katasztrófavédelmi szerv területi szervének ügyeleti szolgálatát, valamint a jogszabályban kijelölt ágazati szervet. Ha a bekövetkezett rendkívüli eseménnyel összefüggő kockázatot az üzemeltetői biztonsági tervben nem vizsgálták, úgy az újonnan felmerülő kockázat kezelésére az üzemeltető a (6) bekezdésben foglaltak szerint soron kívül módosítja az üzemeltetői biztonsági tervet.
 
 (7) Az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem üzemeltetője gondoskodik a biztonsági összekötő személy foglalkoztatásáról, és folyamatosan biztosítja a tevékenységéhez szükséges feltételeket. A biztonsági összekötő személy feladata a kapcsolattartás az üzemeltető és a kijelölési eljárásban részt vevő hatóságok, szakhatóságok között. Biztonsági összekötőnek az a büntetlen előéletű személy jelölhető ki, aki kormányrendeletben meghatározott képzettséggel rendelkezik. A büntetlen előéletre vonatkozó követelmény teljesülését a biztonsági összekötő igazolja.
 
@@ -228,12 +247,10 @@ kezeli.
 |  | A | B |
 | --- | --- | --- |
 |  | ÁGAZAT | ALÁGAZAT |
-| 24 | Infokommunikációs technológiák | információs rendszerek és hálózatok |
-| 25 | eszköz-, automatikai és ellenőrzési rendszerek |
-| 26 | internet-infrastruktúra és hozzáférés |
-| 27 | vezetékes és mobil távközlési szolgáltatások |
-| 28 | rádiós távközlés és navigáció |
-| 29 | műholdas távközlés és navigáció |
+| 26 | Infokommunikációs technológiák | internet-infrastruktúra és internet hozzáférés szolgáltatás |
+| 27 | vezetékes és vezeték nélküli elektronikus hírközlési szolgáltatások, vezetékes és vezeték nélküli hírközlő hálózatok |
+| 28 | rádiós távközlés |
+| 29 | űrtávközlés |
 | 30 | műsorszórás |
 | 31 | postai szolgáltatások |
 | 32 | kormányzati informatikai, elektronikus hálózatok |
@@ -246,4 +263,4 @@ kezeli.
 | 39 | közigazgatási szolgáltatások |
 | 40 | igazságszolgáltatás |
 | 41 | Közbiztonság – Védelem | rendvédelmi szervek infrastruktúrái |
-| 42 | honvédelmi rendszerek és létesítmények |
+| 42 | Honvédelem | honvédelmi rendszerek és létesítmények |

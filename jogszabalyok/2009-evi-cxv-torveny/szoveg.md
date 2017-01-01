@@ -44,17 +44,17 @@ miatt jogerősen végrehajtandó szabadságvesztésre ítéltek, amíg az elít�
 
 ### A nyilvántartást vezető szerv és a Hatóság feladatai
 
-3/A. § (1) A Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala (a továbbiakban: nyilvántartást vezető szerv)
+3/A. § (1) A nyilvántartást vezető szerv
 
 - a) vezeti az egyéni vállalkozók nyilvántartását,
 - b) működteti a nyilvántartási és ügyviteli feladatokat szolgáló informatikai rendszert,
 - c) a 19/B. § szerint hatósági ellenőrzést végez, valamint
 - d) ellátja a jogszabály által hatáskörébe utalt egyéb feladatokat.
 
-(2) A fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: Hatóság)
+(2) Az egyéni vállalkozói tevékenységgel kapcsolatos ügyekben eljáró, Kormány által rendeletben kijelölt szerv (a továbbiakban: Hatóság)
 
 - a) országos illetékességgel ellátja az egyéni vállalkozói tevékenység megkezdésének és megszüntetésének 5. § (2) bekezdés a) pontja szerinti bejelentésével kapcsolatos feladatokat,
-- b) ügyfélkaput létesít a bejelentést személyesen kezdeményező és ügyfélkapuval nem rendelkező bejelentő számára,
+- b) a Kormány által nyújtott elektronikus azonosítási szolgáltatáshoz és biztonságos kézbesítési szolgáltatáshoz regisztrációt biztosít a bejelentést személyesen kezdeményező, elektronikus azonosítással és biztonságos kézbesítési szolgáltatással nem rendelkező bejelentő számára,
 - c) tájékoztatást nyújt az egyéni vállalkozói tevékenység folytatásához szükséges információkról, az egyéni vállalkozói tevékenység folytatásáról, a képesítéshez, valamint a hatósági engedélyhez vagy bejelentéshez kötött gazdasági tevékenységekről,
 - d) ellátja az egyéni vállalkozói igazolvány kiállításával és nyilvántartásával kapcsolatos feladatokat,
 - e) az egyéni vállalkozó székhelye szerinti illetékességgel hatósági ellenőrzést folytat, valamint
@@ -62,23 +62,25 @@ miatt jogerősen végrehajtandó szabadságvesztésre ítéltek, amíg az elít�
 
 ### Az egyéni vállalkozói tevékenység megkezdésének bejelentése
 
-4. § (1) Az egyéni vállalkozói tevékenység nyilvántartásával kapcsolatos hatósági feladatokra az e törvényben foglalt eltérésekkel megfelelően alkalmazni kell a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a nyelvhasználatra és a tolmács igénybevételére, az adatkezelésre, a joghatóságra, hatáskörre és illetékességre, a kapcsolattartás általános szabályaira, valamint az elektronikus kapcsolattartásra és az elektronikus tájékoztatásra, a képviseletre, az iratra, a határidő számítására, a kérelemre, a közreműködő hatóságra, az igazolási kérelemre, a hatósági ellenőrzésre, a jogorvoslatra, az eljárási bírság kiszabására, továbbá a költségmentességre vonatkozó rendelkezéseit azzal, hogy ahol a közigazgatási hatósági eljárás általános szabályairól szóló törvény ügyfelet említ, azon a bejelentőt kell érteni.
+4. § (1) Az egyéni vállalkozói tevékenység nyilvántartásával kapcsolatos hatósági feladatokra az e törvényben foglalt eltérésekkel megfelelően alkalmazni kell a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a nyelvhasználatra és a tolmács igénybevételére, az adatkezelésre, a joghatóságra, hatáskörre és illetékességre, a kapcsolattartás általános szabályaira, a képviseletre, az iratra, a határidő számítására, a kérelemre, a közreműködő hatóságra, az igazolási kérelemre, a hatósági ellenőrzésre, a jogorvoslatra, az eljárási bírság kiszabására, továbbá a költségmentességre vonatkozó rendelkezéseit azzal, hogy ahol a közigazgatási hatósági eljárás általános szabályairól szóló törvény ügyfelet említ, azon a bejelentőt kell érteni.
 
 (2) Az egyéni vállalkozói tevékenység megkezdésének, megszüntetésének bejelentése, továbbá az egyéni vállalkozói igazolvány igénylése
 
-- a) elektronikus úton, ügyfélkapun keresztül vagy
+- a) elektronikus úton, elektronikus azonosítást követően vagy
 - b) a Hatóságnál
 
 kezdeményezhető.
 
-(3) Az egyéni vállalkozói tevékenység szünetelésének bejelentésével, valamint a változás-bejelentéssel kapcsolatos eljárások kizárólag elektronikus úton, ügyfélkapun keresztül kezdeményezhetők.
+(3) Az egyéni vállalkozói tevékenység szünetelésének bejelentésével, valamint a változás-bejelentéssel kapcsolatos eljárások kizárólag elektronikus úton, elektronikus azonosítást követően kezdeményezhetők.
+
+(4) Az egyéni vállalkozói tevékenység megkezdése iránti eljárás hangkapcsolatot biztosító elektronikus úton nem folytatható le.
 
 5. § (1) Az egyéni vállalkozói tevékenység megkezdésének feltétele, hogy az erre irányuló szándékáról a természetes személy a nyilvántartást vezető szervhez e törvény rendelkezéseinek megfelelő bejelentést nyújtson be.
 
 (2) Az (1) bekezdés szerinti bejelentést
 
 - a) a Hatóság útján vagy
-- b) ügyfélkapun keresztül az erre a célra rendszeresített űrlapon (a továbbiakban: elektronikus bejelentés)
+- b) elektronikus azonosítást követően az erre a célra rendszeresített űrlapon (a továbbiakban: elektronikus bejelentés)
 
 kell megtenni.
 
@@ -146,7 +148,8 @@ kell megtenni.
 - i) a törlés időpontját és okát,
 - j) ha az egyéni vállalkozó halála esetén a 17. § (1) bekezdése szerint a tevékenység folytatására kerül sor, az egyéni vállalkozói tevékenység özvegy, illetve örökös általi folytatásának tényét,
 - k) ha az egyéni vállalkozó gondnokság alá helyezése esetén az egyéni vállalkozói tevékenységet a 17. § (2) bekezdése szerint a törvényes képviselő folytatja, a tevékenység folytatásának tényét, a törvényes képviselő természetes személyazonosító adatait, lakcímét, valamint
-- l) elektronikus dokumentumtárként a megtett bejelentéseket és az azokkal összefüggésben kiállított értesítéseket.
+- l) elektronikus dokumentumtárként a megtett bejelentéseket és az azokkal összefüggésben kiállított értesítéseket,
+- m) az egyéni vállalkozónak az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény (a továbbiakban: E-ügyintézési tv.) szerinti hivatalos elérhetőségét.
 
 (1a) Az egyéni vállalkozók nyilvántartása az (1) bekezdés b)–k) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
@@ -156,7 +159,9 @@ kell megtenni.
 
 (4) A személyiadat- és lakcímnyilvántartást, valamint a központi idegenrendészeti nyilvántartást vezető szerv haladéktalanul értesíti a nyilvántartást vezető szervet az egyéni vállalkozó halálának tényéről, valamint időpontjáról.
 
-(5)–(6)
+(5) A nyilvántartást vezető szerv az (1) bekezdés m) pontja szerinti adatot az E-ügyintézési tv. szerinti rendelkezési nyilvántartásból átveszi, ha azt az egyéni vállalkozó oda jelentette be.
+
+(6) Ha az egyéni vállalkozó az (1) bekezdés m) pontja szerinti adatot a nyilvántartást vezető szerv felé jelentette be, a nyilvántartást vezető szerv azt az (5) bekezdés szerinti nyilvántartásnak haladéktalanul átadja.
 
 12. § (1) A nyilvántartást vezető szerv az állami adóhatóság elektronikus értesítése alapján, hivatalból intézkedik az egyéni vállalkozó adószáma alkalmazásának felfüggesztése, törlése, a felfüggesztés megszüntetése, valamint e határozatok megsemmisítése vagy hatályon kívül helyezése, továbbá a határozat jogerőre emelkedése napjának bejegyzéséről.
 
@@ -170,7 +175,9 @@ kell megtenni.
 - b) a rendőrség a bűncselekmények és szabálysértések felderítése céljából,
 - c) a nyomozó hatóság és az ügyészség büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából.
 
-(3) Adatigényléssel jogosult átvenni az egyéni vállalkozónak a nyilvános nyilvántartásban nem szereplő adatai közül az egyéni vállalkozó anyja nevét, születési helyét és idejét, valamint lakcímét a bíróság, az ügyészség, a közjegyző, a bírósági végrehajtó, a gazdasági vagy szakmai kamara, valamint a közigazgatási szerv közfeladatai, valamint a jogi képviselő jogi képviselettel kapcsolatos feladatai ellátása érdekében.
+(3) Adatigényléssel jogosult átvenni az egyéni vállalkozónak a nyilvános nyilvántartásban nem szereplő adatai közül az egyéni vállalkozó anyja nevét, születési helyét és idejét és elektronikus elérhetőségét, valamint lakcímét a bíróság, az ügyészség, a közjegyző, a bírósági végrehajtó, a gazdasági vagy szakmai kamara, valamint a közigazgatási szerv közfeladatai, valamint a jogi képviselő jogi képviselettel kapcsolatos feladatai ellátása érdekében.
+
+(4) A nyilvántartást vezető szerv és a Hatóság kérelemre adatszolgáltatást teljesít és hatósági bizonyítványt állít ki.
 
 ### Az egyéni vállalkozói tevékenység gyakorlásával kapcsolatos változások bejelentése
 
@@ -214,7 +221,7 @@ kell megtenni.
 
 ### Az egyéni vállalkozói tevékenység szünetelése
 
-18. § (1) Az egyéni vállalkozó egyéni vállalkozói tevékenységét legalább egy hónapig és legfeljebb öt évig szüneteltetheti. A szünetelés bejelentésére az e §-ban meghatározott eltérésekkel az egyéni vállalkozói tevékenység megkezdésének bejelentésére vonatkozó szabályokat kell megfelelően alkalmazni.
+18. § (1) Az egyéni vállalkozó egyéni vállalkozói tevékenységét legalább egy hónapig és legfeljebb két évig szüneteltetheti. A szünetelés bejelentésére az e §-ban meghatározott eltérésekkel az egyéni vállalkozói tevékenység megkezdésének bejelentésére vonatkozó szabályokat kell megfelelően alkalmazni.
 
 (2) Amennyiben az egyéni vállalkozó egyéni vállalkozói tevékenységét szüneteltetni kívánja, köteles azt a változásbejelentési űrlapon a nyilvántartást vezető szervnél megfelelő módon bejelenteni, amely a szünetelés tényét és kezdő időpontját az egyéni vállalkozók nyilvántartásába bejegyzi. A szünetelés kezdő napja a bejelentést követő nap. A nyilvántartást vezető szerv a szünetelésről haladéktalanul, elektronikus úton értesíti az állami adóhatóságot a Központi Statisztikai Hivatalt, valamint a Hatóságot.
 
@@ -236,7 +243,7 @@ kell megtenni.
 - d) az egyéni vállalkozó gondnokság alá helyezéséről szóló bírósági határozat jogerőre emelkedésének a napján,
 - e) ha az adóhatóság törölte az egyéni vállalkozó adószámát, a törlést kimondó határozat jogerőre emelkedésének napján,
 - f) a 3. § (2) bekezdés b), illetve c) pontjaiban meghatározott kizáró ok bekövetkezése esetén, a 19/B. §-ban foglalt összeférhetetlenség megállapításakor, valamint
-- g) ha az egyéni vállalkozó a 18. § (1) bekezdésben foglalt időpontig nem jelentette be az egyéni vállalkozói tevékenység folytatását vagy megszüntetését, a szünetelés kezdőnapját követő öt év elteltét követő napon.
+- g) ha az egyéni vállalkozó a 18. § (1) bekezdésben foglalt időpontig nem jelentette be az egyéni vállalkozói tevékenység folytatását vagy megszüntetését, a szünetelés kezdőnapját követő két év elteltét követő napon.
 
 (2) Az egyéni vállalkozói tevékenységre való jogosultság megszűnése alapjául szolgáló tényről
 
@@ -466,9 +473,13 @@ számítandó.
 
 38/B. § A Módtv2. hatályba lépését követő 30 napon belül az egyéni vállalkozó adatai közül az értesítési címet a nyilvántartást vezető szerv hivatalból törli a nyilvántartásból.
 
+38/C. § Az egyéni vállalkozó a 11. § (1) bekezdés szerinti adat nyilvántartásba vétele 2018. január 1-jétől kötelező, ezt megelőzően a bejelentő kérheti az adat nyilvántartásba vételét.
+
+38/D. § Ha a nyilvántartást vezető szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az eljáró szerv vonatkozásában az elektronikus kapcsolattartásra az e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni azzal, hogy – az 5. § szerinti ügy kivételével – a megfelelő technológiai lehetőség biztosításának esetén az ügyfélkapu alatt a részleges kódú telefonos azonosítást is érteni kell.
+
 ### Felhatalmazások
 
-39. § (1)
+39. § (1) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a nyilvántartást vezető szervet és a Hatóságot.
 
 (2) Felhatalmazást kap az igazságügyért felelős miniszter, hogy – az adópolitikáért felelős miniszterrel, az e-közigazgatásért felelős miniszterrel és a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszterrel egyetértésben – rendeletben állapítsa meg az egyéni vállalkozói tevékenység megkezdésével, szünetelésével, változás-bejelentésével és megszüntetésével kapcsolatos űrlapok tartalmát.
 

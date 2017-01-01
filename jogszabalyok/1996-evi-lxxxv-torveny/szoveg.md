@@ -106,7 +106,8 @@ kéri.
 32/B. § (1) Az ingatlan-nyilvántartási eljárás díja alól teljes személyes díjmentességben részesül:
 
 - a) a Magyar Állam,
-- b)–d)
+- b) a fővárosi és megyei kormányhivatal, valamint a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala,
+- c)–d)
 - e) az egyházi jogi személy,
 - f)–j)
 - k) az Észak-atlanti Szerződés Szervezete, továbbá az Észak-atlanti Szerződés tagállamainak és az Észak-atlanti Szerződés Szervezetével aláírt „Békepartnerség” program Keretdokumentumának törvénybe iktatásáról, és annak a Magyar Köztársaság által történő végrehajtásáról szóló törvényben kihirdetett Békepartnerség más részt vevő államainak Magyarországon tartózkodó fegyveres erői – ideértve az azok alkalmazásában álló nem magyar állampolgárságú, hivatásos szolgálatban lévő és polgári állományú személyeket is – kizárólag a szolgálati kötelezettségükkel összefüggő ingatlanügyek tekintetében.
@@ -198,7 +199,7 @@ biztosító jelzálogjog, valamint ezzel összefüggően a Magyar Állam, mint a
 
 (9) A díj megfizetésének elmulasztása, valamint a (7) bekezdésben megjelölt adatok hiányában nem beazonosítható díjbefizetés esetén a hiánypótlási felhívás kézhezvételétől számított tizenöt napon belül kell megfizetni a díjat és igazolni annak megfizetését.
 
-(10) Ha jogerős hagyatékátadó végzés, bírósági és hatósági határozat, illetve bírósági, bírósági végrehajtói vagy hatósági megkeresés alapján induló eljárás esetén a díj megfizetésére kötelezett nem tesz eleget a (9) bekezdés szerinti hiánypótlási felhívásban foglaltaknak, az ingatlanügyi hatóság az eljárást lefolytatja, azonban a meg nem fizetett díj és annak járulékai adók módjára behajtandó köztartozásnak minősülnek.
+(10) Jogerős hagyatékátadó végzés, bírósági és hatósági határozat, illetve bírósági vagy hatósági megkeresés alapján induló eljárás esetén, amennyiben a díj fizetésére kötelezett a kérelem, illetve a megkeresés benyújtásával egyidejűleg nem tesz eleget a díjfizetési kötelezettségének, akkor az ingatlanügyi hatóság az eljárást lefolytatja és a díj megfizetése iránt – a döntés kézhezvételétől számított 15 napos határidő tűzésével – a döntésében intézkedik, azzal, hogy a meg nem fizetett díj és annak járulékai adók módjára behajtandó köztartozásnak minősülnek.
 
 (11) A végrehajtást kérő, illetve a végrehajtási jog vagy a jelzálogjog bejegyzést elrendelő hatóság az ingatlanügyi hatóságnak a végrehajtási jog vagy jelzálogjog bejegyzéséért fizetendő (előlegezendő) díjat azt követő 8 napon belül fizeti meg (utólagos díjfizetés), miután annak teljes összegét végrehajtási költségként az adóssal (ingatlantulajdonossal) szemben, illetve az adók módjára behajtandó köztartozás jogosultjával szemben az eljárás eredménytelenségének megállapítását követően, mint végrehajtási költséget érvényesítette, ha a követelés
 
@@ -207,7 +208,7 @@ biztosító jelzálogjog, valamint ezzel összefüggően a Magyar Állam, mint a
 - c) az a)–b) pontokba nem tartozó más köztartozás, és
 - d) az a)–c) pontok valamelyikében foglalt feltétel teljesülését, valamint az utólagos díjfizetésre irányuló igényt a megkeresés tartalmazza.
 
-(12) Ha a díj megfizetését a végrehajtást kérő az (1) bekezdés szerint, vagy a (9) bekezdés alapján történő fizetést követően a végrehajtási eljárásban igazolta, továbbá utólagos díjfizetés igénybevétele esetén a díjat a végrehajtási eljárásban végrehajtási költségként kell behajtani.
+(12)
 
 (13) A 32/A. § (4) bekezdésében meghatározott díjat a soron kívüli eljárás lefolytatása iránti kérelem előterjesztésével egyidejűleg kell az ingatlanügyi hatóság pénztárába befizetni, vagy amennyiben az ingatlanügyi hatóság hivatali helyiségében erre lehetőség van, az eljárás megindításával egyidejűleg bankkártyával megfizetni, illetve a díj készpénz-átutalási megbízással, illetve átutalási megbízással történő megfizetése esetén mellékelni kell a kérelemhez a díj megfizetését igazoló bizonylatot vagy annak másolatát.
 

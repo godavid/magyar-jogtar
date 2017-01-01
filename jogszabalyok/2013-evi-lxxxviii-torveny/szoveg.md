@@ -19,7 +19,7 @@ a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatás
 
 #### 2. A körözési nyilvántartási rendszer felépítése
 
-2. § (1) A körözési nyilvántartási rendszer (a továbbiakban: nyilvántartás) – a nyilvántartás használatára jogosultak nyilvántartása kivételével – közhiteles, hatósági nyilvántartás. A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény nyilvántartás vezetésével kapcsolatos hatósági eljárásra vonatkozó rendelkezéseit az e törvényben meghatározott, az elektronikus kapcsolattartás formájára és módjára vonatkozó rendelkezéseit az e törvény végrehajtására kiadott miniszteri rendeletben meghatározott eltéréssel kell alkalmazni.
+2. § (1) A körözési nyilvántartási rendszer (a továbbiakban: nyilvántartás) – a nyilvántartás használatára jogosultak nyilvántartása kivételével – közhiteles, hatósági nyilvántartás.
 
 (2) A nyilvántartás
 
@@ -106,7 +106,7 @@ a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatás
 
 (7) A nyilvántartó a (2) bekezdés a) pontjában szereplő adatokat – azok változásának nyomon követése céljából – a (2) bekezdés a)–l) pontjában meghatározott adatok rögzítésekor, módosításakor vagy javításakor, valamint a nyilvántartásból való adatigénylést vagy adattovábbítást megelőzően elektronikus úton összehasonlítja
 
-- a) a személyiadat- és lakcímnyilvántartás hatálya alá tartozó személyek esetében a személyiadat- és lakcímnyilvántartás központi szerve által kezelt adatokkal,
+- a) a személyiadat- és lakcímnyilvántartás hatálya alá tartozó személyek esetében a személyiadat és lakcímnyilvántartást kezelő szerv által kezelt adatokkal,
 - b) az idegenrendészeti nyilvántartások hatálya alá tartozó személyek esetében a központi idegenrendészeti nyilvántartást vezető szerv által kezelt adatokkal.
 
 (8) Az adatváltozást a (7) bekezdés szerinti adategyeztetés után a körözött személyek nyilvántartásában haladéktalanul át kell vezetni.
@@ -311,11 +311,13 @@ meghatározott adat.
 - e) az ügyészség a törvényességi felügyelet gyakorlása céljából,
 - f) a rendőrségről szóló törvényben meghatározott általános rendőrségi feladatok ellátására létrehozott szerv a rendőrségről szóló törvényben meghatározott határrendészeti feladatainak ellátása céljából, továbbá az ezzel kapcsolatos személyazonosság megállapítása céljából,
 - g) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv bűnüldözési feladatai ellátása céljából,
-- h) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv a terrorcselekmények vagy azzal összefüggésben elkövetett más bűncselekmények megelőzése, felderítése és megszakítása, továbbá kiemelt személyvédelmi feladatai ellátása céljából.
+- h) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv a terrorcselekmények vagy azzal összefüggésben elkövetett más bűncselekmények megelőzése, felderítése és megszakítása, továbbá kiemelt személyvédelmi feladatai ellátása céljából,
+- i) a Terrorelhárítási Információs és Bűnügyi Elemző Központ az utasadatok kockázatelemzése céljából,
+- j) a Nemzeti Adó- és Vámhivatal nyomozó hatósági és vámellenőrzési feladatai ellátása céljából.
 
 (2) Az igazságügyért felelős miniszter a kegyelmi ügyek intézése céljából, valamint az igazságügyért felelős miniszter és az ügyészség a jogsegélykérelem elintézése céljából, továbbá a nemzetközi szerződésekben meghatározott és a viszonossági gyakorlatból eredő feladatai teljesítése céljából közvetlen hozzáféréssel jogosult átvenni adatot a körözött személyek nyilvántartásából, a körözött dolgok nyilvántartásából, valamint az ismeretlen holttestek, holttestrészek nyilvántartásából.
 
-(3) A menekültügyi hatóság és az idegenrendészeti hatóság a személyazonosság megállapítása céljából közvetlen hozzáféréssel jogosult átvenni adatot a körözött személyek nyilvántartásából.
+(3) A menekültügyi hatóság, az idegenrendészeti hatóság és az állampolgársági ügyekben eljáró szerv a személyazonosság megállapítása céljából közvetlen hozzáféréssel jogosult átvenni adatot a körözött személyek nyilvántartásából.
 
 (4) Az Országgyűlési Őrség az Országgyűlésről szóló törvényben meghatározott személy- és létesítményvédelmi feladatainak ellátása céljából közvetlen hozzáféréssel jogosult átvenni adatot a körözött személyek nyilvántartásából.
 
@@ -323,7 +325,7 @@ meghatározott adat.
 
 (5) A bíróság a holttá nyilvánítási eljárása során közvetlen hozzáféréssel jogosult átvenni adatot a körözött személyek nyilvántartásából.
 
-(6) A polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv, az útlevélhatóság és a központi közúti közlekedési nyilvántartó szerv okmány kiadásával kapcsolatos eljárása során az e törvény szerinti azonosítási tevékenység céljából közvetlen hozzáféréssel jogosult adatot átvenni a körözött személyek nyilvántartásából és a körözött dolgok nyilvántartásából.
+(6) A jogszabály alapján személyazonosító igazolvány, útlevél, állampolgársági bizonyítvány, honosítási okirat, illetve járművezetésre jogosító okmány kiadására feladat- és hatáskörrel rendelkező szerv okmány kiadásával kapcsolatos eljárása során az e törvény szerinti azonosítási tevékenység céljából közvetlen hozzáféréssel jogosult adatot átvenni a körözött személyek nyilvántartásából és a körözött dolgok nyilvántartásából.
 
 (7) A bűnügyi nyilvántartó szerv a hatósági bizonyítvány kiadására irányuló eljárása vagy a bűnügyi nyilvántartási rendszerben kezelt adatokra vonatkozó tájékoztatás iránti kérelmek teljesítése során az e törvény szerinti azonosítási tevékenység céljából közvetlen hozzáféréssel jogosult adatot átvenni a körözött személyek nyilvántartásából.
 
@@ -437,7 +439,7 @@ előírja.
 
 (3a) Ha az NBSZ a személyazonosítást elősegítő informatikai rendszere üzemeltetése során olyan találatot észlel, amely olyan körözött személy azonosítását segíti elő, akinek az adatai közérdekből nyilvánosak és a találat jelzése a 8. § (6) bekezdése szerinti egyedi ügy érdekeit nem sérti, a rendszer értesíti a körözési eljárást lefolytató szervet a találatról.
 
-(4) A polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv, az útlevélhatóság és a központi közúti közlekedési nyilvántartó szerv okmány kiadásával kapcsolatos eljárása során ellenőrzi a körözött személyek nyilvántartását. Ha a szerv az ügyfelet a körözött személyek nyilvántartásában azonosítja, e tényről a rendőrséget értesíti.
+(4) A jogszabály alapján személyazonosító igazolvány, útlevél, állampolgársági bizonyítvány, honosítási okirat, illetve járművezetésre jogosító okmány kiadására feladat- és hatáskörrel rendelkező szerv okmány kiadásával kapcsolatos eljárása során ellenőrzi a körözött személyek nyilvántartását és a körözött dolgok nyilvántartását. Ha a szerv az ügyfelet a körözött személyek nyilvántartásában, illetve az ügyfél által az eljárás során felhasznált okmányt a körözött dolgok nyilvántartásában azonosítja, e tényről a rendőrséget értesíti.
 
 (5) A bűnügyi nyilvántartó szerv a hatósági bizonyítvány kiadására irányuló eljárása vagy a bűnügyi nyilvántartási rendszerben kezelt adatokra vonatkozó tájékoztatás iránti kérelmek teljesítése során ellenőrzi a körözött személyek nyilvántartását. Ha a szerv az ügyfelet a körözött személyek nyilvántartásában azonosítja, e tényről a rendőrséget értesíti.
 
@@ -820,7 +822,7 @@ sarkalatosnak minősül.
 
 #### 45. §
 
-#### 46. §
+46. § E törvénynek az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról szóló 2016. évi CXXI. törvénnyel megállapított 2. § (1) bekezdését 2017. december 31-ig csak akkor kell alkalmazni, ha a nyilvántartó az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig a nyilvántartó vonatkozásában az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
 47. § (1)–(2)
 

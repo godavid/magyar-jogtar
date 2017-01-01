@@ -42,7 +42,7 @@ a Nemzeti Kulturális Alapról
 
 (5) Ha az érintett az összeférhetetlenség fennállásáról valótlanul nyilatkozik vagy valótlan adatot szolgáltat, az Alap alelnöke javaslatot tesz a miniszternek a tisztségviselő visszahívására.
 
-2/B. § Az Alapot a miniszter felügyelete alá tartozó, önálló költségvetési szerv, a Nemzeti Kulturális Alap Igazgatósága (a továbbiakban: Igazgatóság) kezeli. Az Igazgatóság felel a bizottsági és kollégiumi döntések előkészítésének és végrehajtásának törvényességéért, valamint ellátja az Áht.-ban meghatározott feladatokat.
+2/B. § Az Alapot az Emberi Erőforrás Támogatáskezelő (a továbbiakban: kezelő szerv) kezeli. A kezelő szerv felel a bizottsági és kollégiumi döntések előkészítésének és végrehajtásának törvényességéért, valamint ellátja az Áht.-ban meghatározott feladatokat.
 
 3. § Az Alap pótlólagos forrást biztosít a célja szerint megvalósítandó feladatokhoz.
 
@@ -63,7 +63,7 @@ a Nemzeti Kulturális Alapról
 
 (4) Költségvetési támogatás felhasználását a miniszter e törvényben foglaltaktól eltérően szabályozhatja.
 
-(5) Az Alap, valamint a kezelő szervének bevétele és év végi maradványa nem vonható el. Az év végi maradvány a tárgyévi bevételi terv teljesülése előtt igénybe vehető a kiadási és bevételi előirányzat egyidejű módosításával. Az Alap költségvetésének tervezésére, végrehajtására és zárszámadására egyebekben az Áht. és az éves költségvetési törvény vonatkozó rendelkezéseit kell alkalmazni.
+(5) Az Alap bevétele és év végi maradványa, valamint kezelő szervének az Alap kezelésével összefüggő bevétele és év végi maradványa nem vonható el. Az év végi maradvány a tárgyévi bevételi terv teljesülése előtt igénybe vehető a kiadási és bevételi előirányzat egyidejű módosításával. Az Alap költségvetésének tervezésére, végrehajtására és zárszámadására egyebekben az Áht. és az éves költségvetési törvény vonatkozó rendelkezéseit kell alkalmazni.
 
 (6)
 

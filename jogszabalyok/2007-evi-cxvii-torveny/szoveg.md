@@ -55,7 +55,7 @@ Az Országgyűlés a foglalkoztatók nyugdíjcélú megtakarítások terén tör
 - 24. nyugdíjkonstrukció: egy foglalkoztató munkavállalói részére nyújtott foglalkoztatói nyugdíjszolgáltatás feltétel- és teljesítésrendszere;
 - 25. nyugdíjkorhatár:
   - a) az az életkor, melyet a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény az öregségi nyugdíjra való jogosultság feltételeként meghatároz,
-  - b) az az időpont, amelytől a tag öregségi nyugdíjban, korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban, átmeneti bányászjáradékban, a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított öregségi, rokkantsági nyugdíjsegélyben (nyugdíjban) vagy növelt összegű öregségi, munkaképtelenségi járadékban részesül,
+  - b) az az időpont, amelytől a tag öregségi nyugdíjban, korhatár előtti ellátásban, szolgálati járandóságban, táncművészeti életjáradékban, átmeneti bányászjáradékban, a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított öregségi, rokkantsági nyugdíjsegélyben (nyugdíjban) vagy növelt összegű öregségi, munkaképtelenségi járadékban részesül,
   - c) határon átnyúló tevékenység esetében a foglalkoztató székhelye szerinti állam irányadó szociális és munkajoga alapján a tagra irányadó öregségi nyugdíjkorhatár;
 - 26. önfoglalkoztató: a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 4. § b) pontjának 1–6. alpontjában, valamint c) pontjában megjelölt személyek;
 - 27. szavatoló tőke: a foglalkoztatói nyugdíjszolgáltató intézmény rendelkezésére álló, e törvény szabályai szerint megállapított tőkeösszeg, amely a foglalkoztatói nyugdíjszolgáltató intézménnyel szemben fennálló követelések kielégítésébe tőkeként azonnal, harmadik fél hozzájárulása nélkül bevonható, és amely arra szolgál, hogy a foglalkoztatói nyugdíjszolgáltató intézmény akkor is teljesíteni tudja kötelezettségeit, ha erre a beérkezett hozzájárulások, illetve a nyugdíjtechnikai tartalékok nem nyújtanak fedezetet;
@@ -550,7 +550,7 @@ szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végreh
 - b) a telefonon közölt szóbeli panaszt legalább a hét egy munkanapján 8 órától 20 óráig,
 - c) elektronikus eléréssel – üzemzavar esetén megfelelő más elérhetőséget biztosítva – folyamatosan fogadja.
 
-(3) Telefonon történő panaszkezelés esetén a foglalkoztatói nyugdíjszolgáltató intézmény biztosítja az ésszerű várakozási időn belüli hívásfogadást és ügyintézést.
+(3) Telefonon történő panaszkezelés esetén a foglalkoztatói nyugdíjszolgáltató intézmény biztosítja az ésszerű várakozási időn belüli hívásfogadást és ügyintézést. A foglalkoztatói nyugdíjszolgáltató intézmény az ügyintézőjének – a foglalkoztatói nyugdíjszolgáltató intézmény felé indított hívás sikeres felépülésének időpontjától számított – öt percen belüli élőhangos bejelentkezése érdekében úgy köteles eljárni, ahogy az az adott helyzetben általában elvárható.
 
 (4) Telefonon történő panaszkezelés esetén a foglalkoztatói nyugdíjszolgáltató intézmény és a tag közötti telefonos kommunikációt a foglalkoztatói nyugdíjszolgáltató intézmény hangfelvétellel rögzíti, és a hangfelvételt öt évig megőrzi. Erről a tagot a telefonos ügyintézés kezdetekor tájékoztatni kell. A tag kérésére biztosítani kell a hangfelvétel visszahallgatását, továbbá térítésmentesen rendelkezésre kell bocsátani a hangfelvételről készített hitelesített jegyzőkönyvet.
 

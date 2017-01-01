@@ -697,7 +697,7 @@ véleményezésre megküldi.
 
 50. § (1) A környezethasználó köteles a tevékenysége során okozott környezetterhelést, környezet-igénybevételt — jogszabályban meghatározott módon — mérni, vagy technológiai számítással alátámasztani, nyilvántartani, nyilvántartását a hatáskörrel és illetékességgel rendelkező hatóságok rendelkezésére bocsátani, illetőleg adatszolgáltatást teljesíteni.
 
-(1a) A környezethasználó az Információs Rendszerrel kapcsolatos adatszolgáltatási kötelezettségeit – ha kormányrendelet vagy miniszteri rendelet eltérően nem rendelkezik – a közigazgatási hatósági eljárás általános szabályairól szóló törvény elektronikus kapcsolattartásra vonatkozó szabályai szerint teljesíti.
+(1a) Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény szerinti gazdálkodó szervezet környezethasználó az Információs Rendszerrel kapcsolatos adatszolgáltatási kötelezettségeit elektronikusan teljesíti.
 
 (1b) Az (1a) bekezdés szerinti adatszolgáltatás rendjét meghatározó tájékoztatót, továbbá az adatszolgáltatás teljesítéséhez szükséges elektronikus űrlapokat az 51/A. § szerinti publikus felületen közzé kell tenni.
 
@@ -1142,6 +1142,10 @@ közös szabályai
 
 (2) Megkülönböztető jelzés jogosulatlan használata külön jogszabályban meghatározott környezetvédelmi bírságot von maga után.
 
+(3) A környezetbarát vagy környezetkímélő termékek minősítő-tanúsító rendszerének működtetését, továbbá egyes környezetvédelmi igazgatási feladatokat a magyar állam kizárólagos tulajdonában álló Herman Ottó Intézet Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Herman Ottó Intézet) látja el.
+
+(4) A Herman Ottó Intézet tekintetében a magyar államot megillető tulajdonosi jogok és kötelezettségek összességét a környezetvédelemért felelős miniszter gyakorolja.
+
 ### Határértékek
 
 87. § (1) A határértékeket igénybevételi [17. § (1) bek.; 19. § (1) bek.; 23. § (3) bek.], illetőleg kibocsátási és szennyezettségi (35. §) határértékként kell meghatározni.
@@ -1183,7 +1187,7 @@ közös szabályai
 
 (2) Környezetveszélyeztetés, valamint környezetkárosítás esetén a környezetveszélyeztetés, illetve a környezetkárosítás hatásterületén levő ingatlan tulajdonosa, jogszerű használója és az, akinek az ingatlanra vonatkozó jogát az ingatlan-nyilvántartásba bejegyezték, ügyfélnek minősül.
 
-(3) A környezetvédelmi hatóság részére a környezetvédelmi engedély és az egységes környezethasználati engedély iránti kérelmet, illetve azoknak a 69. § (2) bekezdés és a 70. § (2) bekezdés szerinti jogszabályban meghatározott mellékletét egy példányban elektronikus adathordozón is be kell nyújtani, amelyet a környezetvédelmi hatóság elektronikus úton közzétesz.
+(3) Elektronikus ügyintézés kivételével a környezetvédelmi hatóság részére a környezetvédelmi engedély és az egységes környezethasználati engedély iránti kérelmet, illetve azoknak a 69. § (2) bekezdés és a 70. § (2) bekezdés szerinti jogszabályban meghatározott mellékletét egy példányban elektronikus adathordozón is be kell nyújtani, amelyet a környezetvédelmi hatóság elektronikus úton közzétesz.
 
 91. § (1) A környezetvédelmi engedély megszerzésére, továbbá a működési engedély kiadására irányuló eljárásban az ügyintézési határidő hetven nap.
 
@@ -1565,6 +1569,8 @@ rendeletben határozza meg.
   - bb) a hatósági eljárásokban vizsgálandó környezetvédelmi és vízvédelmi
 
 szakkérdéseket.
+
+110/B. § E törvénynek az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról szóló 2016. évi CXXI. törvénnyel megállapított 50. § (1a) bekezdését és 90. § (3) bekezdését 2017. december 31-ig csak akkor kell alkalmazni, ha a hatóság az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
 111. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 

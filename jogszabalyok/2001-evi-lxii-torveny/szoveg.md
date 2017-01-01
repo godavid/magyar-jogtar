@@ -156,7 +156,7 @@ Ezek az információk szolgálják
 
 19. § (1) Az e törvényben meghatározott egyes kedvezményekre való jogosultságot az 1. § (1) és (2) bekezdésének hatály alá tartozó személyek esetében a ,,Magyar igazolvány'', illetőleg a ,,Magyar hozzátartozói igazolvány'' igazolja.
 
-(2) A Kormány által erre kijelölt magyar központi közigazgatási szervtől (a továbbiakban: elbíráló hatóság)
+(2) A Kormány által erre kijelölt közigazgatási szervtől (a továbbiakban: elbíráló hatóság)
 
 - a) arcképes ,,Magyar igazolvány'' kiadását kérheti az 1. § (1) bekezdésének hatálya alá tartozó, magát magyar nemzetiségűnek valló személy, kiskorú esetén törvényes képviselője útján;
 - b) ha nemzetközi szerződés ettől eltérően nem rendelkezik arcképes ,,Magyar hozzátartozói igazolvány'' kiadását kérheti az 1. § (2) bekezdésének hatálya alá tartozó hozzátartozó (kiskorú esetén törvényes képviselője).
@@ -238,7 +238,7 @@ Ezek az információk szolgálják
 
 (5) Ha az igazolvány melléklete a kedvezmények igénybevételre jogosító igazolások bejegyzésére alkalmatlanná vált, betelt, akkor az adott kedvezmény (utazási, diák-, pedagógus-) igénybevételére jogosító pótfüzetet kell kérvényezni, amely nem minősül új igazolvány iránti kérelemnek. A pótfüzetnek tartalmaznia kell a „Magyar igazolvány”, illetve a „Magyar hozzátartozói igazolvány” okmányszámát és a jogosult nevét. A pótfüzet a „Magyar igazolvány”, illetve a „Magyar hozzátartozói igazolvány” elválaszthatatlan részét képezi.
 
-(6) Az igazolvány hitelességének biztosítása, valamint a kedvezmények folyósításának ellenőrzése céljából az elbíráló hatóság (e rendelkezések alkalmazásában: adatkezelő szerv) nyilvántartást vezet, amely nyilvántartás tartalmazza:
+(6) Az igazolvány hitelességének biztosítása, valamint a kedvezmények folyósításának ellenőrzése céljából a Kormány által kijelölt szerv (a továbbiakban: nyilvántartó szerv) nyilvántartást vezet, amely nyilvántartás tartalmazza:
 
 - a) az igazolványba bejegyzett adatokat,
 - b) az igazolvány tulajdonosának külföldi lakóhelyét,
@@ -250,7 +250,7 @@ Ezek az információk szolgálják
 
 (6a) A (6) bekezdés szerinti nyilvántartás a (2) bekezdésben, a (3) bekezdés e)–g) pontjában, valamint a (6) bekezdés a) és d)–g) pontjában foglalt adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
 
-(6b) Az adatkezelő szerv a nyilvántartásban tárolt adatokat az igazolvány visszavonásáig, illetőleg a tulajdonos haláláig kezelheti. A nyilvántartásban kezelt adatokból – a személyes adatok védelméről szóló nemzetközi egyezménnyel összhangban – adat továbbítható a jogosultság ellenőrzésére és a visszaélések megakadályozása céljából a kedvezményt, támogatást nyújtó szerv, a kedvezményeket és támogatásokat nyilvántartó szerv, a diplomáciai és konzuli képviseletek, továbbá a büntetőügyben eljáró bíróság, a bűnüldöző szervek, az idegenrendészeti hatóság, a menekültügyi hatóság, illetve a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv részére. Az adatkezelő szerv a (6) bekezdés szerinti nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
+(6b) A nyilvántartó szerv a nyilvántartásban tárolt adatokat az igazolvány visszavonásáig, illetőleg a tulajdonos haláláig kezelheti. A nyilvántartásban kezelt adatokból – a személyes adatok védelméről szóló nemzetközi egyezménnyel összhangban – adat továbbítható a jogosultság ellenőrzésére és a visszaélések megakadályozása céljából a kedvezményt, támogatást nyújtó szerv, a kedvezményeket és támogatásokat nyilvántartó szerv, a diplomáciai és konzuli képviseletek, továbbá a büntetőügyben eljáró bíróság, a bűnüldöző szervek, az idegenrendészeti hatóság, a menekültügyi hatóság, illetve a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv részére. A nyilvántartó szerv a (6) bekezdés szerinti nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
 
 (7) Az elbíráló hatóság a kérelem elbírálásához, illetőleg a visszavonási ok fennállásának vizsgálatához a következő szervektől igényelhet adatokat:
 
@@ -261,7 +261,7 @@ Ezek az információk szolgálják
 
 (7a) Az idegenrendészeti hatóság a kiutasításról szóló jogerős határozata közlésével, illetve a beutazási és tartózkodási tilalom elrendelésével, a menekültügyi hatóság a menekültkénti, menedékeskénti elismerésről szóló jogerős határozata közlésével, a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv a magyarországi bejelentett lakóhely címét tartalmazó, a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiadásával egyidejűleg – ha az idegenrendészeti hatóság, a menekültügyi hatóság vagy a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv a (6) bekezdés szerinti adatigénylés során megállapítja, hogy az eljárásával érintett személy szerepel a (6) bekezdés szerinti nyilvántartásban – az igazolvány visszavonása érdekében haladéktalanul értesíti az elbíráló hatóságot.
 
-21/A. § Az elbíráló hatóság által vezetett közhiteles hatósági nyilvántartásba történő bejegyzés, valamint az onnan való törlés során az alábbi bizonyítási eszközök használhatóak fel:
+21/A. § A 21. § (6) bekezdése szerinti közhiteles hatósági nyilvántartásba történő bejegyzés, valamint az onnan való törlés során az alábbi bizonyítási eszközök használhatóak fel:
 
 - a) okirat,
 - b) az ügyfél nyilatkozata.
@@ -304,13 +304,13 @@ Ezek az információk szolgálják
 
 28. § (1) A Kormány felhatalmazást kap arra, hogy rendeletben szabályozza
 
-- a) a ,,Magyar igazolvány'' és a ,,Magyar hozzátartozói igazolvány'', továbbá önálló mellékletei kiállítására, visszavonására, illetőleg nyilvántartására jogosult központi közigazgatási szerv, valamint annak felettes szerve kijelöléséről, hatáskörének meghatározásáról, továbbá az igazolvány kiadásának, cseréjének, visszavonásának és nyilvántartásának eljárási szabályairól szóló előírásokat;
+- a) az elbíráló hatóság és a nyilvántartó szerv kijelöléséről, hatáskörének meghatározásáról, továbbá a „Magyar igazolvány” és a „Magyar hozzátartozói igazolvány” kiadásának, cseréjének, visszavonásának eljárási szabályairól szóló előírásokat;
 - b) a 8. § (4) bekezdése alapján, az 1. § (1) és (2) bekezdésének hatálya alá tartozó személyeket megillető, a 8. § (1)–(3) bekezdése szerinti utazási kedvezmények részletes szabályait;
 - c) az 1. § (1) és (2) bekezdésének hatálya alá tartozó személyeket a 10. § alapján megillető diákkedvezmények részletes szabályait;
 - d) az 1. § (1) és (2) bekezdésének hatálya alá tartozó személyeket a 11. § (1)–(3) bekezdése alapján megillető pedagógus-továbbképzési kedvezmények, valamint a 12. § alapján járó pedagógus és oktatói kedvezmények részletes szabályait;
 - e) a 14. § (3) bekezdése alapján, az 1. § (1) és (2) bekezdésének hatálya alá tartozó személyeket a 14. § (1)–(2) bekezdése szerint megillető támogatások odaítélésének és folyósításának részletes szabályait;
 - f) a 25. § alapján a szomszédos államokban igénybe vehető támogatások igénylési rendjének részletes szabályait;
-- g)
+- g) a „Magyar igazolvány” és a „Magyar hozzátartozói igazolvány”, továbbá önálló mellékleteinek nyilvántartására vonatkozó, valamint a nyilvántartásból adatszolgáltatásra jogosult központi államigazgatási szerv kijelöléséről és a nyilvántartás eljárási szabályairól szóló előírásokat;
 - h) a 27. § (5) bekezdése alapján, az 1. § (1) és (2) bekezdésének hatálya alá nem tartozó személyeket a 10. és 14. §-ban, továbbá a 11. és 12. §-ban meghatározott kedvezményekkel és támogatásokkal kapcsolatos részletes szabályokat.
 
 (2) A Kormány a 3. § (2) bekezdése alapján felhatalmazást kap a 14. § (1) és (2) bekezdésében meghatározott támogatásoknak a szomszédos államokban történő folyósítását, valamint a 27. § (3) és (4) bekezdésének végrehajtását szolgáló nemzetközi szerződések megkötésére.
@@ -331,4 +331,9 @@ Ezek az információk szolgálják
 
 (7) Az oktatásért felelős miniszter – a nemzetpolitikáért felelős miniszterrel egyetértésben – rendeletben határozza meg a magyar kultúra tárgyában folytatott felsőoktatási tanulmányok és magyar kultúra tárgyában való oktatatás részletes szabályait.
 
-30. § E törvény alkalmazásában magyar kultúrán különösen a magyar nyelvet, az irodalmat, a történelmet, a művelődéstörténetet és a magyar tudományosságot kell érteni.
+30. § E törvény alkalmazásában
+
+- a) magyar kultúra különösen: a magyar nyelv, az irodalom, a történelem, a művelődéstörténet és a magyar tudományosság;
+- b) adatszolgáltatás: a nyilvántartásban szereplő polgárok és igazolványok adatainak a törvényben meghatározott tartalmú és terjedelmű közlése. Ezen belül
+  - ba) egyedi adatszolgáltatás: egy polgár vagy igazolvány adatainak közlése,
+  - bb) csoportos adatszolgáltatás: az adatigénylő által vagy jogszabályban meghatározott szempontok szerint képzett csoportba tartozó polgárok vagy igazolványok adatainak rendszeres vagy eseti közlése.

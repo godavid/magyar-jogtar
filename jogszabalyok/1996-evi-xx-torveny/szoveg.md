@@ -63,7 +63,7 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 
 7. § (1) Az adatkezelő az érintettel, illetve más adatkezelővel való, meghatározott célú kapcsolattartása során csak azt az azonosító kódot használhatja, amelyre a feladatot meghatározó törvény őt felhatalmazza.
 
-(2) Az az adatkezelő, akit törvény azonosító kód használatára nem hatalmaz fel, a 6. §-ban meghatározott azonosító kódot csak a polgár előzetes, írásbeli hozzájárulása vagy a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény (a továbbiakban: Ket.) szerinti ügyintézési rendelkezésében tett hozzájárulása alapján használhatja fel.
+(2) Az az adatkezelő, akit törvény azonosító kód használatára nem hatalmaz fel, a 6. §-ban meghatározott azonosító kódot csak a polgár előzetes, írásbeli hozzájárulása vagy az ügyintézési rendelkezésében tett hozzájárulása alapján használhatja fel.
 
 (3) A polgárt a hozzájárulás megadása, megtagadása, illetve visszavonása miatt hátrány nem érheti, a hozzájárulás megadásáért bármilyen előny kilátásba helyezése tilos.
 
@@ -87,7 +87,7 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 
 ### Összerendelési nyilvántartás
 
-10/A. § (1) Az összerendelési nyilvántartás olyan szabályozott elektronikus ügyintézési szolgáltatás, amelynek célja a (2) bekezdésben meghatározott azonosító kódok és azonosító adatok (jelen alcím alkalmazásában a továbbiakban: azonosító) kezelésére feljogosított nyilvántartások együttműködési képességének biztosítása, az azonosítóhoz tartozó titkosított kapcsolati kódon alapuló adatcsere útján.
+10/A. § (1) Az összerendelési nyilvántartás olyan központi elektronikus ügyintézési szolgáltatás, amelynek célja a (2) bekezdésben meghatározott azonosító kódok és azonosító adatok (ezen alcím alkalmazásában a továbbiakban együtt: azonosító) kezelésére feljogosított nyilvántartások együttműködési képességének biztosítása, az azonosítóhoz tartozó titkosított kapcsolati kódon alapuló adatcsere útján.
 
 (2) Az összerendelési nyilvántartásban az alábbi azonosítók alapján képzett összerendelési kapcsolati kódok titkosított változatát (a továbbiakban: titkosított összerendelési kapcsolati kód) kell tárolni:
 
@@ -98,11 +98,14 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 - e) a kártya formátumú, állandó és ideiglenes személyazonosító igazolvány (a továbbiakban együtt: személyazonosító igazolvány) okmányszáma,
 - f) az útlevél okmányszáma,
 - g) kártya formátumú vezetői engedély (a továbbiakban: vezetői engedély) okmányszáma,
-- h) a Ket. szerint a Kormány által kötelezően biztosított azonosítási szolgáltatáshoz kapcsolódó egyedi azonosító,
-- i) a Ket. szerinti személyre szabott ügyintézési felület szolgáltatáshoz kapcsolódó azonosító,
+- h) a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatáshoz kapcsolódó egyedi azonosító,
+- i) a személyre szabott ügyintézési felület szolgáltatáshoz kapcsolódó azonosító,
 - j) az ügyfél ügyintézési rendelkezésének nyilvántartási azonosítója,
 - k) az elektronikus ügyintézést igénybevevő, külföldön élő természetes személyek személyi nyilvántartásának nyilvántartási azonosítója,
 - l) az egységes elektronikuskártya-kibocsátási keretrendszerről szóló törvény szerinti, törvény alapján személyazonosság közhiteles igazolására alkalmas kártya egyedi sorszáma.
+- m) az oktatási igazolvány egyedi azonosítója,
+- n) a fővárosi és megyei kormányhivatal által a természetes személy ügyfelek tekintetében képzett belső technikai azonosító,
+- o) a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló törvény szerinti aláírásminta-nyilvántartásban alkalmazott kapcsolati kód.
 
 (3) A természetes személyhez tartozó új összerendelési bejegyzés felvételét a (2) bekezdés a), b) és k) pontja szerinti azonosító képzésére jogosult nyilvántartás adatkezelője kezdeményezi.
 
@@ -120,7 +123,7 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 - f) az úti okmány-nyilvántartást vezető szerv az útlevél érvényességének megszűnéséről, ideértve az útlevél állampolgárság igazolására szolgáló érvényessége lejáratának idejét is;
 - g) a társadalombiztosítási azonosító jelet tartalmazó hatósági nyilvántartást vezető szerv a hozzá beérkezett adatszolgáltatást követően a hatósági igazolványra való jogosultság megszüntetéséről;
 - h) az adóazonosító jelről szóló hatósági igazolvány nyilvántartást vezető szerv a hatósági igazolványra való jogosultság megszüntetéséről;
-- i) a Ket. szerinti, a Kormány által kötelezően biztosított azonosítási szolgáltatáshoz kapcsolódó egyedi azonosítót nyilvántartó szerv az egyedi azonosító jogosultjához tartozó adatok kezelésének nyilvántartásban történt megszüntetéséről;
+- i) a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatáshoz kapcsolódó egyedi azonosítót nyilvántartó szerv az egyedi azonosító jogosultjához tartozó adatok kezelésének nyilvántartásban történt megszüntetéséről;
 - j) a Nemzeti Egységes Kártyarendszer központi nyilvántartás működtetője a törvény alapján személyazonosításra alkalmas elsődleges kártya adatainak törléséről.
 
 (7) A (6) bekezdés szerinti értesítés a változással érintett természetes személyazonosító adatait, a megszüntetésre került összerendelési titkosított kapcsolati kódot, annak típusmegjelölését, valamint a megszüntetés okát és időpontját tartalmazza.
@@ -166,7 +169,7 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 
 (5) Az adatkezelő az adatigénylésre kapott válaszüzenet megérkezését követően haladéktalanul törli a polgár által az (1)–(4) bekezdés szerinti adatigénylés érdekében a (2) bekezdés szerint megadott azonosítót, kivéve ha annak kezelésére törvény feljogosítja.
 
-10/D. § (1) Ha valamely, az összerendelési nyilvántartás szolgáltatáshoz csatlakozott adatkezelő törvényi felhatalmazás alapján a természetes személyazonosító adatoktól eltérő azonosítót használ, az azonosítót, illetve személyazonosságát a polgár az adatkezelő által használt azonosítót igazoló igazolvány helyett a Ket. szerinti azonosítás szolgáltatás útján is igazolhatja, feltéve hogy azt a polgár a Ket. szerinti ügyintézési rendelkezésében megengedte.
+10/D. § (1) Ha valamely, az összerendelési nyilvántartás szolgáltatáshoz csatlakozott adatkezelő törvényi felhatalmazás alapján a természetes személyazonosító adatoktól eltérő azonosítót használ, az azonosítót, illetve személyazonosságát a polgár az adatkezelő által használt azonosítót igazoló igazolvány helyett az elektronikus azonosítás szolgáltatás útján is igazolhatja, feltéve, hogy ahhoz az ügyféli ügyintézési rendelkezésében, vagy az ügyintézés során hozzájárult.
 
 (2) Az (1) bekezdés szerinti ellenőrzés során az adatkezelő elektronikus úton olyan módon azonosítja a polgárt, hogy az azonosítás korábban elvégzett, az ügyfél személyes megjelenését igénylő személyazonosításra visszavezethető, és a (3) bekezdésben foglaltak szerint személye valamely személlyel egyértelműen megfeleltethető legyen.
 
@@ -174,13 +177,13 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 
 - a) a személyiadat- és lakcímnyilvántartásban vagy a központi idegenrendészeti nyilvántartásban szereplő természetes személyazonosító adatokkal,
 - b) az összerendelési nyilvántartás adatainak felhasználásával igényelt, a személyiadat- és lakcímnyilvántartásban, a központi idegenrendészeti nyilvántartásban vagy az elektronikus ügyintézést igénybe vevő, külföldön élő természetes személyek személyi nyilvántartásában szereplő természetes személyazonosító adatokkal,
-- c) a Ket. szerinti ügyintézési rendelkezésében az ügyfél által megadott azonosítási szolgáltató regisztrációs nyilvántartásában szereplő azonosító adatokkal,
+- c) az ügyintézési rendelkezésében az ügyfél által megadott azonosítási szolgáltató regisztrációs nyilvántartásában szereplő azonosító adatokkal,
 - d) olyan, a hatóság informatikai rendszerében kezelt személyazonosító adatokkal, amelyekből valamely közhiteles nyilvántartáson keresztüli ellenőrzés útján az ügyfél személyének az adott személyhez rendeltségét ellenőrizheti, vagy
 - e) a hatóság saját nyilvántartásában szereplő, egyértelmű hozzárendeléshez elegendő adatokkal, feltéve hogy a nyilvántartásba vétel a (2) bekezdés rendelkezéseinek megfelelt.
 
 (4) Ha az adatkezelő a (2) és (3) bekezdés rendelkezései szerint sikeresen azonosította a polgárt, az azonosító, illetve személyazonosság igazolására a továbbiakban a 10/C. § rendelkezései irányadók azzal, hogy az összerendelési nyilvántartás útján történő lekérdezés az azonosítás szolgáltatója által igazolt, az összerendelési nyilvántartás hatálya alá tartozó valamely azonosító alapján történhet.
 
-10/E. § Ha a polgár ahhoz az ügyintézési rendelkezésében hozzájárult, a polgár azonosítására az összerendelési nyilvántartás hatálya alá tartozó azonosító használatára jogosult, az összerendelési nyilvántartást igénybevevő adatkezelő a polgárnak az összerendelési nyilvántartás hatálya alá tartozó más azonosítója igazolásával is kérhet adatszolgáltatást a 10/C. § megfelelő alkalmazásával
+10/E. § Ha a polgár ahhoz az ügyféli ügyintézési rendelkezésében, vagy az ügyintézés során hozzájárult, a polgár azonosítására az összerendelési nyilvántartás hatálya alá tartozó azonosító használatára jogosult, az összerendelési nyilvántartás szolgáltatást igénybevevő adatkezelő a polgárnak az összerendelési nyilvántartás hatálya alá tartozó más azonosítója igazolásával is kérhet adatszolgáltatást a 10/C. § megfelelő alkalmazásával
 
 - a) a polgárok személyiadat- és lakcímnyilvántartásából,
 - b) a központi idegenrendészeti nyilvántartásból, vagy
@@ -206,7 +209,7 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 
 13. §
 
-14. § A polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv az újszülött születési családi és utónevét, születési helyét és idejét, anyja nevét, valamint lakcímét közli az állami adóhatósággal. Az újszülött részére az állami adóhatóság a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv adatszolgáltatása alapján az adóigazolványt hivatalból adja ki.
+14. § A polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv az újszülött születési családi és utónevét, születési helyét és idejét, anyja nevét, valamint lakcímét közli az állami adóhatósággal. Az újszülött részére az állami adóhatóság a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv adatszolgáltatása alapján az adóigazolványt hivatalból adja ki.
 
 15. § (1) Az adóigazolványt a polgár köteles megőrizni, és annak adatait felhívásra – személyazonosságának hitelt érdemlő igazolása mellett – megismerhetővé tenni az adóhatóság, valamint az adózással kapcsolatban adatszolgáltatásra kötelezett szerv számára.
 
@@ -244,15 +247,16 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 - c) a bíróság, igazságszolgáltatási feladatának ellátásával, valamint az adózással kapcsolatos közigazgatási határozat törvényességi felülvizsgálatával összefüggésben;
 - d) a nyomozó hatóság, az ügyész által jóváhagyott megkeresés alapján, ha az adóazonosító jel megismerése a büntetőeljárás megindítása vagy lefolytatása érdekében szükséges;
 - e) a nemzetbiztonsági szolgálatok, a rájuk vonatkozó törvényekben meghatározott feladataik ellátásához;
-- f) a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala az egyéni vállalkozóról szóló törvényben meghatározott feladatai ellátásához;
-- g) a kincstár az önkormányzatokat és a nem állami humánszolgáltatókat megillető normatív hozzájárulásokkal, támogatásokkal, a családtámogatási és fogyatékossági ellátásokkal, az energiafelhasználási támogatásokkal, valamint a lakástámogatásokkal kapcsolatos feladatai teljesítéséhez, a hozzájárulások, támogatások, ellátások megállapításával, érvényesítésével, a jogszerű igénybevétel ellenőrzésével és a jogosulatlanul igénybe vett összeg visszakövetelésével összefüggésben;
-- h)
-- i) az egészségbiztosítási szerv, a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv, a nyugdíjbiztosítási igazgatási szerv, valamint a rehabilitációs hatóság a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvényben, a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvényben, továbbá a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvényben meghatározott feladatai ellátásához;
+- f) az egyéni vállalkozók nyilvántartását vezető szerv, az egyéni vállalkozói tevékenységgel kapcsolatos ügyekben eljáró, az egyéni vállalkozóról és az egyéni cégről szóló törvény szerinti szerv az egyéni vállalkozóról és az egyéni cégről szóló törvényben meghatározott hatósági feladatai ellátásához;
+- g) a kincstár az önkormányzatokat és a nem állami humánszolgáltatókat megillető normatív hozzájárulásokkal, támogatásokkal, továbbá a lakástámogatásokkal kapcsolatos feladatai teljesítéséhez, valamint a családtámogatások és a bányászati keresetkiegészítések ügyében eljáró szerv a családtámogatási ellátásokkal és a bányászati keresetkiegészítéssel kapcsolatos feladatai teljesítéséhez, az ellátások megállapításával, a jogszerű igénybevétel ellenőrzésével és a jogosulatlanul igénybe vett összeg visszakövetelésével összefüggésben;
+- h) a lakáscélú támogatási hatáskörében eljáró hatóság a lakástámogatásokkal kapcsolatos feladatai teljesítéséhez a hozzájárulások, támogatások megállapításával, érvényesítésével, a jogszerű igénybevétel ellenőrzésével és a jogosulatlanul igénybe vett összeg visszakövetelésével összefüggésben;
+- i) az egészségbiztosítási szerv, a központi nyugdíjbiztosítási szerv, a nyugdíjbiztosítási igazgatási szerv, valamint a rehabilitációs hatóság a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvényben, a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvényben, továbbá a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvényben meghatározott feladatai ellátásához;
 - j) a Diákhitel Központ a hallgatói hitelek folyósításával, nyilvántartásával és törlesztésével összefüggésben;
 - k) a Vám- és Pénzügyőrség, illetve a vámhatóság törvényben meghatározott feladat- és hatáskörébe tartozó ügyekben a természetes személyek azonosításával összefüggésben.
 - l) a mezőgazdasági igazgatási szerv a mezőgazdasági és vidékfejlesztési támogatások folyósításával, nyilvántartásával és ellenőrzésével;
 - m) az élelmiszerlánc-felügyeleti szerv az élelmiszerláncról és hatósági felügyeletéről szóló törvény szerinti felügyeleti díj bevallásának, illetve megfizetésének ellenőrzésével, továbbá az élelmiszerlánc szereplőinek nyilvántartásával összefüggésben;
-- n) a mezőgazdasági igazgatási szerv a föld tulajdonjoga vagy a földhasználati jogosultság megszerzésének a hatósági jóváhagyásával, a szerzési korlátozások hatósági ellenőrzésével, továbbá a földművesek és a mezőgazdasági termelőszervezetek nyilvántartásba vételével kapcsolatos eljárással összefüggésben.
+- n) a mezőgazdasági igazgatási szerv a föld tulajdonjoga vagy a földhasználati jogosultság megszerzésének a hatósági jóváhagyásával, a szerzési korlátozások hatósági ellenőrzésével, továbbá a földművesek és a mezőgazdasági termelőszervezetek nyilvántartásba vételével kapcsolatos eljárással összefüggésben;
+- o) az ügyfél ügyintézési rendelkezési nyilvántartását vezető szerv az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvénnyel szabályozott, a rendelkezési nyilvántartással kapcsolatos feladatai ellátásával összefüggésben.
 
 ### IV. Fejezet — A TAJ szám és annak használata
 
@@ -280,7 +284,7 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 
 (6) E törvény 8. §-ának (1) bekezdése szerinti hatósági igazolvánnyal esik egy tekintet alá a külön törvény szerint kiállított, az egészségügyi szolgáltatásra való jogosultságot is igazoló okirat.
 
-(7) A polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv az újszülött családi és utónevét, születési helyét és idejét, anyja nevét, állampolgárságát, valamint lakcímét közli az egészségbiztosítási szervvel. Az újszülött részére az egészségbiztosítási szerv a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv adatszolgáltatása alapján a TAJ-számot tartalmazó hatósági igazolványt hivatalból adja ki.
+(7) A polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv az újszülött családi és utónevét, születési helyét és idejét, anyja nevét, állampolgárságát, valamint lakcímét közli az egészségbiztosítási szervvel. Az újszülött részére az egészségbiztosítási szerv a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv adatszolgáltatása alapján a TAJ-számot tartalmazó hatósági igazolványt hivatalból adja ki.
 
 (8) Amennyiben a rendőrség tudomást szerez a TAJ számot tartalmazó hatósági igazolvány eltulajdonításáról, haladéktalanul értesíti az egészségbiztosítási szervet.
 
@@ -296,13 +300,14 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 - f) a munkaügyi igazgatás szerve a munkanélküli ellátással, a foglalkoztatást elősegítő támogatással és munkaerő-piaci szolgáltatással kapcsolatos, valamint a foglalkoztatottakkal összefüggő, jogszabályban meghatározott egyéb tevékenysége, valamint ellenőrzési eljárása során, továbbá a munkaügyi adatszolgáltatásra kötelezett foglalkoztató e tevékenysége körében.);
 - g) a fogva tartó szerv, a fogvatartott egészségügyi szolgáltatásra jogosultsága keletkezésével, megszűnésével összefüggő adatszolgáltatás, illetve a fogvatartott nem büntetés-végrehajtási egészségügyi intézményben való ellátása érdekében;
 - h) a kincstár a 20. § (2) bekezdés g) pontjában meghatározott feladata teljesítéséhez.
-- i) a kincstár, a családtámogatási kifizetőhely a családtámogatási ellátások, illetőleg a fogyatékossági támogatás megállapítása feladatkörében a külön törvényben meghatározott nyilvántartási és adatszolgáltatási kötelezettség teljesítése során.
+- i) a családtámogatások, a fogyatékossági támogatás és a bányászati keresetkiegészítés ügyében eljáró szerv a családtámogatási ellátások, a fogyatékossági támogatás, a vakok személyi járadéka, a bányászati keresetkiegészítés megállapításával és ellenőrzésével, a jogosulatlanul igénybe vett összeg visszakövetelésével összefüggésben, valamint a törvényben meghatározott nyilvántartási és adatszolgáltatási kötelezettségének teljesítése során, továbbá a nagycsaládos gázdíjkedvezmény ügyében eljáró szerv a nagycsaládos gázdíjkedvezmény megállapításával, érvényesítésével és a jogszerű igénybevétel ellenőrzésével összefüggésben;
 - j) a kincstár a helyi önkormányzatokat megillető, a központi költségvetésből származó források igénybevételének és elszámolásának szabályszerűsége megállapításához, valamint a nem állami intézmények fenntartói részére folyósított humánszolgáltatások normatív támogatási előirányzataival kapcsolatos adatszolgáltatási, folyósítási és ellenőrzési feladatai ellátása érdekében.
 - j) a Magyar Honvédség a törvényben meghatározott hadkiegészítési és érdekvédelmi feladatai ellátásához.
 - j) a szociális hatóság a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 20/C. §-a, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 139. § (2) bekezdése szerinti feladata teljesítésével, továbbá a szociális, gyermekjóléti és gyermekvédelmi szolgáltató, intézmény vezetője a szociális, gyermekjóléti és gyermekvédelmi szolgáltatások, ellátások biztosításával összefüggésben.
 - k) az Elektronikus Egészségügyi Szolgáltatási Tér működtetője az Egészségügyi Szolgáltatási Tér útján történt adatkezelések jogszerűségének ellenőrzése, az érintett tájékoztatása, az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény (a továbbiakban: Eüak.) 35/F. §-a, 35/J. és 35/K. §-a, valamint 35/M. §-a szerinti szolgáltatások működtetése céljából,
 - l) az Eüak. 35/H. §-a szerinti elektronikus önrendelkezési nyilvántartást vezető szerv az érintettek önrendelkezési nyilatkozatainak érvényesítése és nyilvántartása céljából,
-- m) az Eüak. 35/L. §-a szerinti elektronikus betegségregiszterek kapcsolati kódjának képzése és nyilvántartása céljából.
+- m) az Eüak. 35/L. §-a szerinti elektronikus betegségregiszterek kapcsolati kódjának képzése és nyilvántartása céljából,
+- n) a családtámogatási kifizetőhely a családtámogatási ellátások megállapításával és ellenőrzésével, a jogosulatlanul igénybe vett összeg visszakövetelésével összefüggésben, valamint a törvényben meghatározott nyilvántartási és adatszolgáltatási kötelezettségének teljesítése során.
 
 24. § A TAJ szám továbbítására jogosultak:
 
@@ -317,7 +322,8 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 - i) a munkaügyi igazgatás szerve, a munkanélküli ellátással, a foglalkoztatást elősegítő támogatással és munkaerő-piaci szolgáltatással kapcsolatos tevékenysége, valamint ellenőrzési eljárása során, továbbá a munkaügyi adatszolgáltatásra kötelezett munkáltató, e tevékenységével összefüggésben;
 - j) a fogva tartó szervek egymás között, továbbá az egészségügyi ellátó hálózat szervének a fogvatartott egészségügyi szolgáltatásra jogosultságának keletkezésével, megszűnésével összefüggő adatszolgáltatása, illetve a fogvatartott nem büntetés-végrehajtási egészségügyi intézményben való ellátása érdekében;
 - k) a kincstár a 20. § (2) bekezdés g) pontjában meghatározott feladata teljesítéséhez.
-- l) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve és a katonai igazgatás területi szervei egymás között a törvényben meghatározott hadkiegészítési és érdekvédelmi feladataik ellátásához.
+- l) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve és a katonai igazgatás területi szervei egymás között a törvényben meghatározott hadkiegészítési és érdekvédelmi feladataik ellátásához;
+- m) a családtámogatások, a fogyatékossági támogatás és a bányászati keresetkiegészítés ügyében eljáró szerv, valamint a családtámogatási kifizetőhely a 23. § i) és n) pontjában meghatározott feladatainak teljesítéséhez.
 
 25. § (1) A 23. és 24. §-ban meghatározott szerv kérésére a polgár – személyazonosságának hitelt érdemlő igazolása mellett – TAJ számát köteles megismerhetővé tenni.
 
@@ -335,7 +341,7 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 
 ### A személyi azonosító
 
-28. § A személyi azonosítót a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény (a továbbiakban: Nytv.) hatálya alá tartozó polgárok azonosítására a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv képezi.
+28. § A személyi azonosítót a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény (a továbbiakban: Nytv.) hatálya alá tartozó polgárok azonosítására a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv képezi.
 
 29. §
 
@@ -365,11 +371,12 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 - n) a bíróság, a nemzetbiztonsági szolgálatok, a rájuk vonatkozó törvényekben meghatározott feladataik ellátásához;
 - o) a nyomozó hatóságok a bűnüldözési célú feladataik ellátásához;
 - p) a közúti közlekedési nyilvántartást vezető szerv a nyilvántartási eljáráshoz;
-- q) a lakáscélú állami támogatás nyilvántartását vezető és ellenőrzést végző kincstár, fővárosi és megyei kormányhivatal, valamint lakásgazdálkodásért és lakáspolitikáért felelős miniszter feladatai ellátásához;
+- q) a lakáscélú állami támogatás nyilvántartását vezető és ellenőrzést végző kincstár, lakáscélú állami támogatások ügyében eljáró szerv, valamint lakásgazdálkodásért és lakáspolitikáért felelős miniszter feladatai ellátásához;
 - r) a szabálysértési hatóság, valamint a szabálysértési nyilvántartó szerv az eljárás alá vont személy személyazonosságának ellenőrzéséhez;
 - s) a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló törvényben meghatározott földhasználati összesítő igénylése céljából az ingatlanügyi hatóság, az ügyész, a mezőgazdasági igazgatási szerv, valamint a mezőgazdasági és vidékfejlesztési támogatási szerv;
 - t) a mezőgazdasági igazgatási szerv a földművesek, a mezőgazdasági termelőszervezetek, valamint a mezőgazdasági üzemközpontok nyilvántartásának vezetéséhez belső azonosítóként, törvényben meghatározottak szerint a polgár azonosításához;
 - u) a gondnokoltak nyilvántartását és az előzetes jognyilatkozatok nyilvántartását vezető szerv a nyilvántartás vezetéséhez.
+- v) az ügyfél ügyintézési rendelkezési nyilvántartását vezető szerv az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvénnyel szabályozott, a rendelkezési nyilvántartással kapcsolatos feladatai ellátásával összefüggésben.
 
 33. § (1) A polgár a személyi azonosítóját – személyazonosságának hitelt érdemlő igazolása mellett – a 32. §-ban felsorolt szerveknek az ott megjelölt feladataik ellátásához köteles megismerhetővé tenni.
 
@@ -379,7 +386,7 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 
 (2) Az (1) bekezdésben megjelölt szerv és polgár az aláírások gyűjtése során jogosult a személyi azonosító kezelésére.
 
-35. § A személyi azonosítót a polgár előzetes írásbeli vagy a Ket. szerinti ügyintézési rendelkezésében tett hozzájárulásának tartalma szerint jogosult kezelni az az adatkezelő, akit az érintett erre feljogosít.
+35. § A személyi azonosítót a polgár előzetes írásbeli vagy az ügyintézési rendelkezésében tett hozzájárulásának tartalma szerint jogosult kezelni az az adatkezelő, akit az érintett erre feljogosít.
 
 ### A személyi azonosító továbbítása
 
@@ -397,7 +404,7 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 - j) a polgári kézilőfegyverekkel, lőszerekkel, gáz- és riasztófegyverekkel, ipari célokat szolgáló robbantóanyagokkal, pirotechnikai termékek gyártásával, forgalmazásával, a kábítószerekkel és pszichotrop anyagokkal kapcsolatos engedélyezési és nyilvántartási eljárást lefolytató rendőrségi szervek egymás között, valamint a nyomozó hatóság részére;
 - k) a 32. § f) pontjában felsorolt szervek egymás között az ott meghatározott feladataik ellátásához;
 - l) a külképviseleti hatóság, a hatáskörébe utalt ügyek intézése keretében a hatáskörrel rendelkező hazai hatóságnak;
-- m) a központi nyilvántartási szerv és az elektronikus anyakönyvbe bejegyzés teljesítésére jogosult személy az anyakönyvi eljárásról szóló törvényben meghatározott adattovábbítás teljesítése céljából, ha az adattovábbítást a személyi azonosító átvételére feljogosított adatkérő részére teljesíti;
+- m) a nyilvántartási szerv és az elektronikus anyakönyvbe bejegyzés teljesítésére jogosult személy az anyakönyvi eljárásról szóló törvényben meghatározott adattovábbítás teljesítése céljából, ha az adattovábbítást a személyi azonosító átvételére feljogosított adatkérő részére teljesíti;
 - n)
 - o) a jelöltajánlást gyűjtő szerv és személy, az ajánlásoknak vagy aláírásgyűjtő íveknek a választási szervhez történő továbbításakor;
 - p) a bíróság, a nemzetbiztonsági szolgálatok, a rájuk vonatkozó törvényekben meghatározott feladataik ellátásához;
@@ -405,7 +412,8 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 - s) az érintett előzetes, írásbeli hozzájárulása szerint a továbbításra feljogosított adatkezelő;
 - t) feladatai ellátásához a választási szerv és a választási munkacsoport egymás között, illetve a bíróságnak, a választási eljárással összefüggő kifogások elbírálásához;
 - u) a szabálysértési nyilvántartó szerv a szabálysértési eljárás alá vont személy személyazonosságának ellenőrzéséhez;
-- v) a 32. § e) és t) pontjában felsorolt szervek egymás között, az ott meghatározott feladataik ellátásához.
+- v) a 32. § e) és t) pontjában felsorolt szervek egymás között, az ott meghatározott feladataik ellátásához;
+- x) a körözési nyilvántartó szerv a körözött személy személyazonosságának ellenőrzéséhez.
 
 ### Rendszeres adatátadás a személyiadat- és lakcímnyilvántartásból
 
@@ -415,10 +423,11 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 - b) a társadalombiztosítási szervnek az egészségbiztosítási nyilvántartásában szereplő polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, családi állapotának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról, a külföldön történő letelepedésről, továbbá az Nytv. hatálya alá tartozó újszülöttek nyilvántartásában szereplő adatairól;
 - c) a társadalombiztosítási szervnek a nyugdíj-biztosítási nyilvántartásában szereplő polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, családi állapotának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról, a külföldön történő letelepedésről;
 - d) az egészségügyi dolgozók alap- és működési nyilvántartását vezető egészségügyi államigazgatási szervnek az alap- és működési nyilvántartásban szereplő egészségügyi dolgozó természetes személyazonosító adatainak, lakóhelyének és tartózkodási helyének, valamint állampolgárságának a változásáról, valamint az egészségügyi dolgozó elhalálozásának tényéről és időpontjáról;
-- e) a kincstárnak, a kincstár által folyósított ellátásban részesülő személy és a külön törvényben meghatározott kincstár által vezetett egységes szociális nyilvántartásban szereplő személy családi és utónevének, anyja nevének, születési helyének és időpontjának, lakóhelyének, tartózkodási helyének változásáról, továbbá az érintett elhalálozásáról;
+- e) a családtámogatások és a fogyatékossági támogatás ügyében eljáró szerv részére az ellátásban részesülő személy és a családok támogatásáról szóló 1998. évi LXXXIV. törvény 49/B. §-a szerinti egységes szociális nyilvántartásban szereplő személy családi és utónevének, anyja nevének, születési helyének és időpontjának, lakóhelyének, tartózkodási helyének változásáról, továbbá az érintett elhalálozásáról;
 - f) a társadalombiztosítási szervnek a megváltozott munkaképességű személyek nyilvántartásában szereplő polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, családi állapotának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról, a külföldön történő letelepedésről;
-- g) az ügyfél-regisztrációs szerv részére az adatbázisban szereplő adatok változásainak folyamatos követése érdekében az ügyfél-regisztrációs adatbázisban szereplő személy családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, állampolgárságának, nemének változásáról, valamint az érintett elhalálozásáról;
-- g) az egyéni vállalkozók nyilvántartását vezető szervnek az egyéni vállalkozók nyilvántartásában szereplő polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, állampolgárságának, lakcímének változásáról, az érintett elhalálozásáról.
+- g) a központi ügyfél-regisztrációs szerv részére az adatbázisban szereplő adatok változásainak folyamatos követése érdekében az ügyfél-regisztrációs adatbázisban szereplő személy családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, állampolgárságának, nemének változásáról, valamint az érintett elhalálozásáról;
+- g)
+- h) az egyéni vállalkozók nyilvántartását vezető szervnek az egyéni vállalkozók nyilvántartásában szereplő polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, állampolgárságának, lakcímének változásáról, az érintett elhalálozásáról.
 
 (1a) A személyiadat- és lakcímnyilvántartás szerve – kapcsolati kód alkalmazásával – a hallgatói hitelrendszert működtető szervezet erre irányuló igénye esetén adatszolgáltatási engedély alapján rendszeres adatátadást teljesít a hallgatói hitelrendszert működtető szervezet részére a hallgatói hitelt felvett polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, lakóhelyének, tartózkodási helyének változásáról, a külföldön történő letelepedésről, valamint az érintett elhalálozásáról.
 
@@ -433,12 +442,12 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 - a) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szervének a katonai nyilvántartásban szereplő polgár családi és utónevének, anyja nevének, születési helyének és időpontjának, személyi azonosítójának, családi állapotának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról, a külföldön történő letelepedésről, továbbá a honvédelmi kötelezettséggel érintett polgárok első alkalommal történő nyilvántartásba vételéhez a polgár természetes személyazonosító adatairól, személyi azonosítójáról, családi állapotáról, lakóhelyéről, tartózkodási helyéről;
 - b) az idegenrendészeti hatóságnak a bevándorolt és a letelepedett polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, családi állapotának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról, a külföldön történő letelepedésről;
 - c) a bűntettesek nyilvántartását kezelő szervnek, a bűntettesek nyilvántartásában szereplő polgár természetes személyazonosító adatainak, személyi azonosítójának, lakóhelyének változásáról, továbbá az érintett elhalálozásáról;
-- d) a központi közúti közlekedési nyilvántartó szervnek a központi közúti közlekedési nyilvántartás hatálya alá tartozó polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, állampolgárságának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról;
+- d) a közúti közlekedési nyilvántartó szervnek a központi közúti közlekedési nyilvántartás hatálya alá tartozó polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, állampolgárságának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról;
 - e) a központi menekültügyi szervnek a menekült és oltalmazott jogállású személyek családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, családi állapotának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról, a külföldön történő letelepedésről.
 - f) a gondnokoltak és az előzetes jognyilatkozatok nyilvántartását vezető szervnek a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásában szereplő polgár természetes személyazonosító adatainak, személyi azonosítójának, lakóhelyének és tartózkodási helyének változásáról, továbbá az érintett elhalálozásáról;
 - g) a választójoggal nem rendelkező polgárok nyilvántartását vezető szervnek a választójoggal nem rendelkező polgárok nyilvántartásában szereplő polgár természetes személyazonosító adatainak, személyi azonosítójának, lakóhelyének és tartózkodási helyének változásáról, továbbá az érintett elhalálozásáról.
 
-(3) Az adatszolgáltatást az (1), (1a) és (2) bekezdés alapján igénybe vevő szervek az adatátadást kizárólag akkor kezdeményezhetik, ha jogszabályban előírt feladataik ellátása érdekében az általuk kezelt adatok időszerűségét biztosítani kell, és csak azokra az érintettekre vonatkozóan, akiknek az adataira nézve az időszerűséget biztosítani kell.
+(3) Az adatszolgáltatást az (1), (1a) és (2) bekezdés alapján igénybe vevő szervek – az (1) bekezdés g) pontja szerinti központi ügyfél-regisztrációs szerv kivételével – az adatátadást kizárólag akkor kezdeményezhetik, ha jogszabályban előírt feladataik ellátása érdekében az általuk kezelt adatok időszerűségét biztosítani kell, és csak azokra az érintettekre vonatkozóan, akiknek az adataira nézve az időszerűséget biztosítani kell.
 
 ### VI. Fejezet — A személyazonosító jel kezelésére, továbbítására vonatkozó átmeneti rendelkezések
 

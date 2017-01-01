@@ -274,9 +274,11 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 (2) A Szellemi Tulajdon Nemzeti Hivatala hatáskörébe tartoznak a formatervezési minták közösségi oltalmának rendszerére (VIII/A. fejezet) és az ipari minták nemzetközi lajstromozására (VIII/B. fejezet) vonatkozó rendelkezések alkalmazásából eredő ügyek is.
 
-### A közigazgatási hatósági eljárás általános szabályainak alkalmazása
+### A közigazgatási hatósági eljárás és az elektronikus ügyintézés általános szabályainak alkalmazása
 
-31. § A Szellemi Tulajdon Nemzeti Hivatala a hatáskörébe tartozó mintaoltalmi ügyekben – az e törvényben meghatározott eltérésekkel – a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint jár el.
+31. § (1) A Szellemi Tulajdon Nemzeti Hivatala a hatáskörébe tartozó mintaoltalmi ügyekben – az e törvényben meghatározott eltérésekkel – a közigazgatási hatósági eljárás általános szabályairól szóló törvény, valamint az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény rendelkezései szerint jár el.
+
+(2) A Szellemi Tulajdon Nemzeti Hivatala hatáskörébe tartozó mintaoltalmi ügyekben – tájékoztatás kérése és annak teljesítése, az iratokba való betekintés, valamint a szóbeli tárgyalás kivételével – kapcsolattartásnak csak írásbeli, valamint azonosításhoz kötött elektronikus úton van helye; tájékoztatás azonban nem kérhető és ilyen kérés nem teljesíthető rövid szöveges üzenet útján.
 
 ### A Szellemi Tulajdon Nemzeti Hivatala döntései
 
@@ -312,31 +314,9 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 ### Elektronikus ügyintézés és hatósági szolgáltatás
 
-32/B. § (1) Mintaoltalmi ügyekben az ügyfél – a (2)–(3) bekezdésben meghatározott esetek kivételével – nem jogosult a Szellemi Tulajdon Nemzeti Hivatalával, a Szellemi Tulajdon Nemzeti Hivatala pedig nem köteles az ügyféllel elektronikus úton írásban kapcsolatot tartani.
+32/B. § (1) Mintaoltalmi ügyekben a Szellemi Tulajdon Nemzeti Hivatala az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény és e törvény rendelkezései szerint biztosítja az elektronikus ügyintézést.
 
-(2) Elektronikus úton is be lehet nyújtani
-
-- a) a mintaoltalmi bejelentést,
-- b) a megújítási kérelmet,
-- c) a 34. § (2) bekezdés e)–g) pontjában meghatározott tényekben bekövetkezett változásoknak a mintaoltalmi lajstromban való feltüntetésére irányuló kérelmet,
-- d) a lajstromkivonat igénylésére vonatkozó kérelmet,
-- e) az iratbetekintésre vonatkozó kérelmet.
-
-(3) Ha az ügyfél a (2) bekezdés b)–e) pontja alapján elektronikus úton, a Kormány által biztosított azonosítási szolgáltatáson keresztül kezdeményezett eljárást, a Szellemi Tulajdon Nemzeti Hivatala elektronikus úton közli vele a kérelem kapcsán hozott döntéseket, illetve küldi meg neki a hiteles elektronikus lajstromkivonatot.
-
-(4) A (2) bekezdésben meghatározott beadványokat a Szellemi Tulajdon Nemzeti Hivatala által erre rendszeresített elektronikus űrlap használatával lehet elektronikus úton benyújtani.
-
-(5) Az elektronikus úton benyújtott beadvány megérkezéséről a Szellemi Tulajdon Nemzeti Hivatala – külön jogszabályban meghatározott módon – elektronikus érkeztető számot tartalmazó automatikus értesítést küld az ügyfélnek.
-
-(6) A Szellemi Tulajdon Nemzeti Hivatala az elektronikus úton benyújtott beadvány megérkezését követően haladéktalanul megvizsgálja, hogy az megfelel-e az elektronikus ügyintézésre vonatkozó jogszabályi követelményeknek.
-
-(7) Elektronikus beküldés esetén a beadvány az elektronikus érkeztetésről szóló automatikus visszaigazolásnak az ügyfél részére történő elküldésével tekintendő benyújtottnak, kivéve, ha a Szellemi Tulajdon Nemzeti Hivatala a kapott dokumentum értelmezhetetlenségét állapítja meg, és erről az ügyfelet elektronikus levélben értesíti.
-
-(8) Az értelmezhetetlen dokumentumot beküldő ügyfél a (7) bekezdés szerinti értesítés visszaigazolására köteles. Ha az ügyfél az értesítés átvételét tizenöt napon belül nem igazolja vissza, a Szellemi Tulajdon Nemzeti Hivatala postai úton továbbítja számára az iratot.
-
-(9) A (2) bekezdésben meghatározott beadványok elektronikus úton való benyújtására vonatkozó részletes szabályokat külön jogszabály állapítja meg.
-
-(10) Mintaoltalmi ügyekben tájékoztatás kérésének és teljesítésének rövid szöveges üzenet útján nincs helye.
+(2) Mintaoltalmi ügyekben a gazdálkodó szervezet és az ügyfél jogi képviselője nem köteles elektronikus ügyintézésre.
 
 ### A mintaoltalmi eljárások egyéb általánosszabályai
 
@@ -799,6 +779,8 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 - a) megkezdett hasznosításra a mintaoltalom tartalma, terjedelme és – az oltalom kimerülésével kapcsolatos kérdések kivételével – a mintaoltalom bitorlása tekintetében a hasznosításnak a 2004. május 1-jén meglévő mértékéig,
 - b) megvalósult hasznosításra a mintaoltalom kimerülése tekintetében e törvénynek a 2004. április 30-án hatályos rendelkezéseit kell alkalmazni.
+
+67/B. § Ha a Szellemi Tulajdon Nemzeti Hivatala az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
 ### Felhatalmazás
 

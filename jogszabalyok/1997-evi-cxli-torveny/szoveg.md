@@ -37,7 +37,7 @@ az ingatlan-nyilvántartásról
 
 (3) Az ingatlan-nyilvántartásba bejegyzett jogosultak személyazonosító és lakcímadatai tekintetében a személy- és lakcímnyilvántartás adatai az irányadóak.
 
-(3a) Az ingatlanok címadatát az ingatlan-nyilvántartás az állami és önkormányzati nyilvántartások együttműködésének általános szabályairól szóló törvényben (a továbbiakban: Interop. tv.) meghatározott központi címregiszterből (a továbbiakban: KCR) történő automatikus adatátvétel útján származtatott adatként tartalmazza.
+(3a) Az ingatlanok címadatát – a közterület ingatlanok kivételével – az ingatlan-nyilvántartás az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben (a továbbiakban: E-ügyintézési tv.) meghatározott központi címregiszterből (a továbbiakban: KCR) történő automatikus adatátvétel útján származtatott adatként tartalmazza.
 
 (4) Az állami ingatlan-nyilvántartási térképi adatbázis – az ellenkező bizonyításáig – hitelesen tanúsítja a földmérési és térképészeti tevékenységről szóló törvény rendelkezései szerint meghatározott állami alapadat-tartalmat.
 
@@ -274,7 +274,7 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 
 (2) Az ingatlan-nyilvántartási eljárásban ügyfél az a természetes vagy jogi személy, jogi személyiséggel nem rendelkező szervezet, akit (amelyet) az ingatlan-nyilvántartásba jogosultként bejegyeztek, illetve aki (amely) a bejegyzés folytán jogosulttá, illetve kötelezetté válna, a feljegyzés rá nézve előnyt vagy terhet jelentene, továbbá az ingatlan-nyilvántartási eljárás bejegyzett joga vagy a javára, illetve terhére feljegyzett tény megváltozását vagy törlését eredményezné. Az ingatlan-nyilvántartási eljárásban ügyfél az eljárást kezdeményező hatóság, valamint az adatváltozást bejelentő személy is.
 
-(3) Az ingatlan-nyilvántartási eljárásban az elektronikus kapcsolattartás, valamint az elektronikus ügyintézés – az e törvényben meghatározott kivételekkel – kizárt.
+(3)
 
 (4) Az a beadvány, amelyhez melléklet nem tartozik, a miniszter e törvény felhatalmazása alapján kiadott rendeletében meghatározott elektronikus űrlap alkalmazásával elektronikus úton is benyújtható.
 
@@ -353,7 +353,7 @@ azon változásokat, amelyeket eljárása során észlel.
 
 (8) A jogosult a tulajdonjog-bejegyzés iránti kérelem benyújtásával egyidejűleg kérheti lakcíme ehhez kapcsolódó megváltozásának ingatlan-nyilvántartásban történő átvezetését is. A kérelem alapján az ingatlanügyi hatóság a tulajdonjog bejegyzésről szóló határozat jogosult részére történő közlésétől számított 30 nap elteltét követő 30 napon belül, a személyiadat- és lakcímnyilvántartásból történő adatátvétel alapján, amennyiben a bejelentett lakcímváltozás regisztrációja megtörtént, gondoskodik a változás ingatlan-nyilvántartásban történő átvezetéséről.
 
-27/A. § Az eljárás megindításáról az ingatlanügyi hatóság azt az ügyfelet értesíti, akinek az ingatlan-nyilvántartásba bejegyzett tulajdonjogának törlését, illetve akivel szemben vételi jog bejegyzését kérik. Az értesítést az ingatlanügyi hatóság az ügyfél ingatlan-nyilvántartásba bejegyzett lakcímére, illetve székhelyére kézbesíti. Az értesítés mellőzhető, ha a hatóság az eljárás megindítását követő nyolc napon belül a kérelmet érdemi vizsgálat nélkül elutasítja, vagy az eljárást megszünteti.
+27/A. § Az eljárás megindításáról az ingatlanügyi hatóság azt az ügyfelet értesíti, akinek az ingatlan-nyilvántartásba bejegyzett tulajdonjogának törlését, illetve akivel szemben vételi jog bejegyzését kérik. Az értesítés mellőzhető, ha a tulajdonjog törlése jogerős hatósági határozaton vagy bírósági döntésen alapul.
 
 ### Az adatváltozásátvezetése alapjául szolgáló okiratok
 
@@ -401,6 +401,8 @@ alapján kerülhet sor.
 (2b) A Ptk. bejegyeztetési kötelezettségre vonatkozó rendelkezéseit nem kell alkalmazni, ha a közbenső jogszerzést jogerős bírói döntés, vagy jogerős közjegyzői végzés megállapítja.
 
 (3) Nincs szükség okiratra és kérelemre, ha olyan jogot vagy tényt kell törölni, amelynek megszűnése az ingatlan-nyilvántartásból kétségtelenül megállapítható.
+
+(4) Nem kell okiratot csatolni a kérelemhez, amennyiben a haszonélvezeti, a tartási vagy az életjáradéki jog, továbbá a használat jogának a jogosult elhalálozása következtében történő megszűnése a személyiadat- és lakcímnyilvántartásban szereplő adatokból kétségtelenül megállapítható.
 
 31. § (1) Az ingatlanügyi hatóság zálogjogi bejegyzést az örökössel szemben tulajdonjogának bejegyzése előtt is teljesíthet. Ez a bejegyzés azonban csak az örökös – ha pedig az örökös az ingatlant a hagyaték átadása előtt elidegenítette, a szerző – tulajdonjogának bejegyzésével válik hatályossá. A függő jogi helyzetre a bejegyzésben utalni kell.
 
@@ -657,7 +659,7 @@ kell csatolnia.
 
 (1b) Függőben tartja továbbá az ingatlanügyi hatóság a beadvány intézését a felmérési, térképezési és területszámítási hiba kijavítására irányuló eljárás megindítása tényének feljegyzésétől a kijavítás tárgyában hozott döntésben foglaltak ingatlan-nyilvántartási átvezetéséig.
 
-(2) A függőben tartásról az ingatlanügyi hatóság a beadvány beérkezését követő nyolc napon belül értesítés megküldésével tájékoztatja a kérelmezőt.
+(2) A függőben tartásról az ingatlanügyi hatóság – az (1) bekezdés b) pontjában meghatározott eset kivételével – a beadvány beérkezését követő nyolc napon belül értesítés megküldésével tájékoztatja a kérelmezőt.
 
 (3) A függőben tartást a tulajdoni lapra nem kell feljegyezni.
 
@@ -708,9 +710,9 @@ bejegyzésével egyidejűleg.
 
 (3a) A bizalmi vagyonkezelés alapján fennálló kezelt vagyonba tartozó tulajdonjog tényét az ingatlan elidegenítése esetén a vevő tulajdonjogának bejegyzésével egyidejűleg hivatalból törölni kell.
 
-(4) Ha az ingatlanügyi hatóság valamely kérelem, megkeresés elintézése során észleli, hogy valamely jog vagy tény megszűnése az ingatlan-nyilvántartásból kétségtelenül megállapítható, határozatban köteles ennek törléséről is rendelkezni. Ha hivatalos eljárás során egyébként észleli, hogy törlésre van szükség, erről a tényről hivatalos feljegyzést készít, és a törlésről külön határozatot hoz. Ezt a határozatot csak az ingatlan tulajdonosának és annak az érdekeltnek kell kézbesíteni, akinek a joga megszűnt.
+(4) Ha az ingatlanügyi hatóság valamely kérelem, megkeresés elintézése során vagy hivatalból folytatott eljárása során észleli, hogy valamely jog vagy tény megszűnése az ingatlan-nyilvántartásból kétségtelenül megállapítható, határozatban köteles ennek törléséről is rendelkezni.
 
-(5) A (4) bekezdésben foglaltak szerint kell eljárni akkor is, ha az ingatlanügyi hatóság a kérelemre, illetve megkeresésre indult, vagy hivatalból folytatott eljárása során az ingatlan-nyilvántartásban rendelkezésre álló, valamint a személyiadat- és lakcímnyilvántartásban szereplő adatok alapján kétségtelenül megállapítja, hogy a bejegyzett haszonélvezeti jog, valamint használat joga jogosultja elhunyt.
+(5) A (4) bekezdésben foglaltak szerint kell eljárni akkor is, ha az ingatlanügyi hatóság a kérelemre, illetve megkeresésre indult, vagy hivatalból folytatott eljárása során az ingatlan-nyilvántartásban rendelkezésre álló, valamint a személyiadat- és lakcímnyilvántartásban szereplő adatok alapján kétségtelenül megállapítja, hogy a bejegyzett haszonélvezeti, tartási vagy életjáradéki jog, valamint használat joga jogosultja elhunyt.
 
 51. § (1) El kell utasítani a bejegyzési kérelmet, ha a bejegyzés alapjául szolgáló okiratnak olyan tartalmi vagy alaki hiányossága van, amely miatt az nyilvánvalóan érvénytelen. Az érvénytelenség akkor nyilvánvaló, ha ez a tény önmagában az okiratból megállapítható.
 
@@ -731,7 +733,11 @@ bejegyzésével egyidejűleg.
 - i) adó- és illetéktartozás behajtására irányuló végrehajtási jog bejegyzéséről az állami adóhatóságnak,
 - j) ha az érdekelt kiskorú vagy gondnokság alatt áll, a gyámhatóságnak,
 - k) felszámolás vagy végelszámolás alatt álló jogosult esetében a felszámolónak, illetve a végelszámolónak,
-- l) a föld tulajdonjogának szerzése esetén – a bejegyzés alapját képező okirat másolatával együtt – a mezőgazdasági igazgatási szervnek.
+- l) a föld
+  - la) tulajdonjogának hatósági jóváhagyáshoz kötött szerzése esetén,
+  - lb) tulajdonjogának hatósági jóváhagyáshoz nem kötött szerzése esetén a bejegyzés alapját képező okirat másolatával együtt
+
+a mezőgazdasági igazgatási szervnek.
 
 (2) Az elutasító határozatot kézbesíteni kell
 
@@ -745,7 +751,7 @@ bejegyzésével egyidejűleg.
 
 (5) A jogorvoslati kérelem benyújtása tényének bejegyzését a beadványra vezetett határozattal (záradékkal) kell igazolni. Erről a kérelmezőt értesíteni nem kell.
 
-(6) Hirdetményi úton kézbesíti az ingatlanügyi hatóság a döntését azon jogosult részére, akinek az ingatlan-nyilvántartásba lakcíme nincs bejegyezve, vagy a személyiadat- és lakcímnyilvántartásban szereplő adattal történő összevetés alapján megállapítható, hogy az ingatlan-nyilvántartásba felvett lakcím időközben megszűnt.
+(6) Hirdetményi úton kézbesíti az ingatlanügyi hatóság a döntését azon jogosult részére, akinek az ingatlan-nyilvántartásba lakcíme nincs bejegyezve, vagy a személyiadat- és lakcímnyilvántartásban szereplő adattal történő összevetés alapján megállapítható, hogy az ingatlan-nyilvántartásba felvett lakcím időközben megszűnt és a jogosult nem rendelkezik érvényes lakcímmel.
 
 (7) Az elsőfokú döntést hozó hatóság a fellebbezés és az iratok felterjesztését követően
 
@@ -1070,9 +1076,9 @@ a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait.
 
 ### Rendezetlen tulajdoni állású ingatlanokkalkapcsolatos eljárás
 
-85. § Azon ingatlanok esetében, amelyeknél a körzeti földhivatalhoz 2000. január 1. előtt benyújtott okirat hiányossága miatt a benyújtáskor hatályos jogszabály alapján a bejegyzési kérelem nem volt teljesíthető (rendezetlen tulajdoni állású ingatlanok), a IV. fejezet rendelkezéseit a 86–88. §-okban foglalt eltéréssel kell alkalmazni.
+85. § Azon ingatlanok esetében, amelyeknél az elsőfokú ingatlanügyi hatósághoz 2000. január 1. előtt benyújtott okirat hiányossága miatt a benyújtáskor hatályos jogszabály alapján a bejegyzési kérelem nem volt teljesíthető (rendezetlen tulajdoni állású ingatlanok), a IV. fejezet rendelkezéseit a 86–88. §-okban foglalt eltéréssel kell alkalmazni.
 
-86. § A rendezetlen tulajdoni állású ingatlanokkal kapcsolatos változás vezetésére irányuló eljárás engedélyezése tárgyában az ügyfél kérelmére az ingatlanügyi hatóság végzéssel dönt. A végzés ellen nincs helye fellebbezésnek és felügyeleti jogkör gyakorlásának.
+86. §
 
 87. § (1) Az eljárás során pótolni kell a szükséges bejegyzést, ha
 
@@ -1090,7 +1096,7 @@ a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait.
 
 (3) Ha a közbenső átruházó hatósági határozattal (bírósági ítélettel, hagyatékátadó végzéssel) szerzett tulajdonjogot, csak ettől a szerzéstől kell a további jogszerzést igazolni.
 
-(4) Az eljárás során határozatot kell hozni, amely ellen az érdekeltek az V. fejezetben szabályozott jogorvoslattal élhetnek.
+(4) Az eljárást lezáró döntésnek tartalmaznia kell az ingatlanügyi hatóságnak a rendezetlen tulajdoni állású ingatlanokkal kapcsolatos eljárás lefolytathatóságára vonatkozó döntését is.
 
 ### A számítógéppel kezelt tulajdoni lap pótlása
 

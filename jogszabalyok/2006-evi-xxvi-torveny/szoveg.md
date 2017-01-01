@@ -14,6 +14,8 @@ Az Országgyűlés a földgázellátás biztonságának fokozása érdekében a 
 - d) a földgáz felhasználókra a földgáz határon keresztül történő beszállítása, illetve a földgáz szervezett piacon történő vásárlása körében, valamint
 - e) a földgáz biztonsági készletezésben és az azzal összefüggő tevékenységekben közreműködő szervezetek eljárására.
 
+1/A. § E törvényben nem szabályozott kérdésekben a behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 2013. évi XXIII. törvény rendelkezései az irányadók.
+
 ### Értelmező rendelkezések
 
 2. § E törvény alkalmazásában
@@ -104,7 +106,7 @@ közül az eladáskori magasabb értéknek.
 - c) ellenőrzi az e törvényben meghatározott tagsági jogviszonnyal kapcsolatos kötelezettségek teljesítését;
 - d) gondoskodik a felhasznált földgáz biztonsági készlet e törvény szerinti visszapótlásáról;
 - e) vezeti a tagsági nyilvántartást;
-- f) meghatározza a tagi hozzájárulás mértékét – a Közgyűlés által – az éves költségvetés keretében az Alapszabályban rögzített szabályok szerint, és jóváhagyásra a miniszter elé terjeszti;
+- f) meghatározza a tagi hozzájárulás mértékét – a Közgyűlés által – az éves költségvetés keretében a Szövetség Alapszabályában (a továbbiakban: Alapszabály) rögzített szabályok szerint, és közzétételre a miniszter elé terjeszti;
 - g) gondoskodik a tagi hozzájárulás beszedéséről;
 - h) e törvény 10. §-ában foglalt rendelkezések szerint adatszolgáltatást végez.
 
@@ -122,21 +124,20 @@ közül az eladáskori magasabb értéknek.
 - b) felhasználóknak földgázt értékesítő földgáztermelő;
 - c) az a felhasználó, aki földgázt határon keresztül történő beszállítással, illetve földgázt szervezett piacon vásárol.
 
-(2) A szövetségi tagság
+(2) A szövetségi tagság az (1) bekezdés
 
-- a) az engedéllyel rendelkezők és a földgáztermelők az e törvény hatálybalépésének időpontjában,
-- b) a később engedélyt szerzők az engedélyessé válásuk időpontjában,
-- c) a felhasználóknak földgázt értékesítő földgáztermelők értékesítő tevékenységük megkezdésekor,
-- d) a felhasználók a földgáz határon keresztül történő első beszállításának, illetve a földgáz szervezett piacon történő első vásárlásának időpontjában
+- a) a) pontja esetében a tevékenység megkezdésének, illetve az engedélyessé válás időpontja közül a korábbi időpontban,
+- b) b) pontja esetében az értékesítő tevékenysége megkezdésekor,
+- c) c) pontja esetében a földgáz határon keresztül történő első beszállításának, vagy a földgáz szervezett piacon történő első vásárlásának időpontjában
 
 jön létre.
 
 (3) A szövetségi tagság megszűnik, ha
 
 - a) a tag engedélyét a Hivatal visszavonja,
-- b) a földgáztermelő felhasználók részére történő értékesítő tevékenységét megszünteti.
+- b) az (1) bekezdés a) pontja szerinti engedélyes tag a földgázipari tevékenységét, a földgáztermelő a felhasználók részére történő értékesítő tevékenységét, a felhasználó a földgáz határon keresztül történő beszállítói, illetve a földgáz szervezett piacon történő vásárlási tevékenységét megszünteti.
 
-(4) A tagsági jogviszony megszűnik, ha a földgáztermelő felhasználók részére történő értékesítő tevékenységét, illetve más tag a földgázipari tevékenységét, illetve a felhasználó a földgáz határon keresztül történő beszállítói, illetve a földgáz szervezett piacon történő vásárlási tevékenységét legalább egy évig nem gyakorolja.
+(4) A tagsági jogviszony fennállása során keletkezett kötelezettségek az elszámolásban foglaltak szerint az elszámolások lezárásának napjáig terhelik a tagot.
 
 8. § (1) A tag a földgázipari, illetve földgáztermelői tevékenységével összefüggésben, illetve a felhasználó a földgáz határon keresztül történő beszállítási vagy a földgáz szervezett piacon történő vásárlási tevékenysége után a Szövetség részére tagi hozzájárulást fizet.
 
@@ -151,7 +152,7 @@ jön létre.
 
 (3) A tagi hozzájárulás megfizetése a (2) bekezdés a) pontja esetében a földgáz egyetemes szolgáltatót, b) pontja esetében a földgázkereskedőt, c) pontja esetében a földgáztermelőt, d)–f) pontjai esetében a felhasználót terheli.
 
-(4) A tagi hozzájárulás alapja a (2) bekezdés a)–c) pontja esetén az értékesített földgáz hőmennyisége, a (2) bekezdés d)–f) pontjai esetén a vásárolt vagy importált földgáz hőmennyisége gigajoule-ban mérve.
+(4) A tagi hozzájárulás alapja a (2) bekezdés a)–c) pontjai esetén az értékesített földgáz mennyisége, a (2) bekezdés d)–f) pontjai esetén a vásárolt vagy importált földgáz mennyisége kilowattórában mérve.
 
 (4a) A 4. § (5) bekezdés szerinti készletértékesítés esetén a tagi hozzájárulás mértékének a (4) bekezdés szerint történő megállapítása során az értékesített földgáz ellenértékeként befolyt pénzösszeget csökkentő tételként kell figyelembe venni.
 
@@ -166,27 +167,29 @@ vonatkozik.
 
 (7) A tag a tagi hozzájárulást az egyéb ráfordítások között köteles elszámolni.
 
-(8) Visszaigényelhető
+(8) Az Alapszabályban meghatározott feltételekkel visszaigényelhető
 
-- a) a (2) bekezdés a) pontja szerinti tagi hozzájárulásnak az a része, amelyet az egyetemes szolgáltató lakossági fogyasztó részére történő földgáz értékesítés után a Szövetség részére megfizetett,
-- b) azon földgáz mennyiség után megfizetett tagi hozzájárulás, amelyet igazoltan nem energetikai célra, hanem vegyipari célra, vegyipari alapanyagként hoznak be, használnak fel vagy értékesítenek.
+- a) a (2) bekezdés a) pontja szerinti tagi hozzájárulásnak az a része, amelyet az egyetemes szolgáltató a lakossági fogyasztó részére történő földgáz értékesítés után a Szövetség részére bevallott és
+- b) azon földgázmennyiség után bevallott tagi hozzájárulás, amelyet igazoltan nem energetikai célra, hanem vegyipari alapanyagként hoznak be, használnak fel vagy értékesítenek.
 
-(8a) Az a lakossági fogyasztót ellátó, egyetemes szolgáltatónak nem minősülő földgázkereskedő, amely az általa ellátott lakossági fogyasztó számára
+(8a)–(8b)
 
-- a) a földgáz-kereskedelmi szolgáltatást a földgázpiaci egyetemes szolgáltatáshoz kapcsolódó árszabások megállapításáról szóló miniszteri rendelet szerinti árszabásokhoz kötötten, az adott felhasználási helyre vonatkozó díjelemekkel azonos, de legalább egy díjelem tekintetében alacsonyabb árakon nyújtja, és
-- b) az egyetemes szolgáltatás keretében ellátott lakossági fogyasztó által igénybe vehető, a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározott szolgáltatásokat biztosítja, visszaigényelheti a 8. § (2) bekezdés b) pontja szerinti tagi hozzájárulásnak azt a részét, amelyet az a)–b) pont szerint ellátott lakossági fogyasztó részére történő földgáz értékesítés után a Szövetség részére megfizetett.
+(9) A (8) bekezdés szerinti visszaigénylésre a tag a tagi hozzájárulási nyilatkozat benyújtásától számított 90 napon belül jogosult. A Szövetség a visszaigénylést annak beérkezésétől, a felhasználás könyvelésen alapuló igazolásától, valamint a tagi hozzájárulás megfizetésétől számított 15 napon belül köteles elbírálni, és a jóváhagyott visszaigénylés összegét jóváírni vagy visszautalni. A visszautalás teljesítésének feltétele, hogy a tagnak ezáltal nem keletkezhet tartozása a Szövetség felé.
 
-(8b) A (8a) bekezdés a) pontja szerinti alacsonyabb ár díjkedvezmény nyújtásával is biztosítható.
+(10) A tagi hozzájárulás visszaigénylésének jogosságát a tag az erre vonatkozó okiratok, nyilvántartások benyújtásával hitelt érdemlően köteles a Szövetség és a Hivatal részére igazolni.
 
-(9) A (8) és (8a) bekezdés szerinti visszaigénylésre az egyetemes szolgáltató, valamint a földgázkereskedő a tagi hozzájárulás befizetésétől számított 90 napon belül jogosult. A Szövetség a visszautalást az igénylésnek és az értékesítés könyvelésen alapuló igazolásának a Szövetséghez történő beérkezésétől számított 15 napon belül teljesíti.
+(11) A tagi hozzájárulás fizetésre, az ellenőrzésre és a visszaigénylésre vonatkozó részletszabályokat az Alapszabályban kell meghatározni.
 
-(10) A tagi hozzájárulás visszaigénylésének jogosságát a tag az erre vonatkozó okiratok, nyilvántartások benyújtásával hitelt érdemlően köteles a Szövetség és a Hivatal részére igazolni. Az ellenőrzésre és a visszaigénylésre vonatkozó részletszabályokat az Alapszabályban kell meghatározni.
+9. § (1) A Szövetség tagja minden hónap 20. napjáig köteles a Szövetségnek
 
-9. § (1) A Szövetség tagja minden hó 15-éig köteles a Szövetségnek nyilatkozni arról, hogy a megelőző hónapban mennyi volt az e törvény hatálya alá tartozó, a tagi hozzájárulás fizetése alapjául szolgáló földgáz hőmennyisége. A Szövetség felhívására a tag köteles minden olyan adatot, dokumentációt haladéktalanul benyújtani, amely a tagi hozzájárulás teljesítésének ellenőrzéséhez szükséges.
+- a) nyilatkozni arról, hogy a megelőző hónapban mennyi volt az e törvény hatálya alá tartozó, a tagi hozzájárulás fizetése alapjául szolgáló földgáz mennyisége, és
+- b) benyújtani a nyilatkozatban foglaltakat alátámasztó adatokat az Alapszabályban rögzítetteknek megfelelően.
 
-(2) A havi nyilatkozatban közölt adatok alapján a tag kiszámítja az esedékes tagi hozzájárulás-fizetési kötelezettség összegét, és azt a következő hónap utolsó munkanapjáig köteles a Szövetség pénzforgalmi számlájára átutalni.
+(2) A Szövetség felhívására a tag köteles továbbá minden olyan adatot, dokumentációt haladéktalanul benyújtani, amely a tagi hozzájárulás teljesítésének ellenőrzéséhez szükséges.
 
-10. § A Szövetség a tagok részére igazolást állít ki a Szövetség felé fennálló nyilatkozattételi, valamint tagi hozzájárulás-fizetési kötelezettség teljesítéséről. Erről tájékoztatja a Hivatalt, az állami adóhatóságot és a vámhatóságot.
+(3) A havi nyilatkozatban közölt adatok alapján a tag kiszámítja az esedékes tagi hozzájárulás-fizetési kötelezettség összegét, és azt a következő hónap utolsó munkanapjáig köteles a Szövetség pénzforgalmi számlájára átutalni. A tagi hozzájárulás megfizetésének időpontja az a nap, amikor a Szövetség számláján a befizetést jóváírják.
+
+10. § A Szövetség a tag kérésére igazolást állít ki a Szövetség felé fennálló nyilatkozattételi, valamint tagi hozzájárulás-fizetési kötelezettség teljesítéséről. A Szövetség a tag részére kiállított igazolásról megkeresésre tájékoztatja a Hivatalt és az adó- és vámhatóságot.
 
 ### Záró és átmeneti rendelkezések
 
@@ -200,14 +203,14 @@ vonatkozik.
 
 (5) A Szövetség e törvény hatálybalépése napjától haladéktalanul intézkedik a névváltozás bírósági bejelentéséről, valamint a földgáz biztonsági készletezéssel foglalkozó munkaszervezet kialakításáról.
 
-(6) A Szövetség jogállására, szervezetére, gazdálkodására, a követeléseinek behajtására és elszámolására, a felügyeletére, az ellenőrzésre, valamint a tagok jogaira és kötelezettségeire vonatkozóan a Kt. rendelkezéseit az e törvényben foglalt kiegészítéssel kell alkalmazni.
+(6)
 
 12. § (1) E törvény hatálybalépésétől 2009. december 31-ig a jelenlegi földgáztárolók szabad kapacitása határozza meg a földgáz biztonsági készlet mértékét, amely megfelelő mértékű szabad kapacitás rendelkezésre állása esetén nem lehet kevesebb
 
 - a) 2006. október 1. és 2007. szeptember 30. között 150 millió m3-nél,
 - b) 2007. október 1. és 2009. december 31. között 300 millió m3-nél. A földgáztárolók szabad kapacitásának földgáz biztonsági készletezésre történő felhasználását a Hivatal elnöke saját hatáskörben engedélyezi, illetve elrendeli. A Hivatal elnöke a tárolói szerződések megkötésére az ÜKSZ által megszabott határidő lejárta után nem tagadhatja meg a hozzáférésre jogosultak által le nem kötött szabad kapacitások biztonsági készletek céljára való feltöltésének engedélyezését.
 
-(2) Ha a földgáz biztonsági készletezési célra rendelkezésre álló szabad kapacitás mértéke a tárgyi évben nem éri el az (1) bekezdésben meghatározott legkisebb mértéket, a földgáz biztonsági készlet kiegészíthető tüzelési célra felhasználható kőolajtermékekkel. A földgáz biztonsági készlethez tartozó kőolajtermékek felhasználása esetén azok árát a miniszter a készlet visszapótlásának várható költségeinél alacsonyabban is meghatározhatja azzal, hogy az ár ebben az esetben sem lehet alacsonyabb, mint a tüzelési célra felhasználható kőolajtermékkel helyettesített földgáz hatásfokkal korrigált hőmennyiségben kifejezett ára. Az e bekezdés szerinti kőolajtermék rendeletben meghatározott ára és a készlet visszapótlásának költségei közötti különbözetet a Magyar Szénhidrogén Készletező Szövetség költségvetésében a bevételek és a ráfordítások különbözetének számításakor figyelembe kell venni.
+(2) Ha a földgáz biztonsági készletezési célra rendelkezésre álló szabad kapacitás mértéke a tárgyi évben nem éri el az (1) bekezdésben meghatározott legkisebb mértéket, a földgáz biztonsági készlet kiegészíthető tüzelési célra felhasználható kőolajtermékekkel. A földgáz biztonsági készlethez tartozó kőolajtermékek felhasználása esetén azok árát a miniszter a készlet visszapótlásának várható költségeinél alacsonyabban is meghatározhatja azzal, hogy az ár ebben az esetben sem lehet alacsonyabb, mint a tüzelési célra felhasználható kőolajtermékkel helyettesített földgáz hatásfokkal korrigált mennyiségben kifejezett ára. Az e bekezdés szerinti kőolajtermék rendeletben meghatározott ára és a készlet visszapótlásának költségei közötti különbözetet a Magyar Szénhidrogén Készletező Szövetség költségvetésében a bevételek és a ráfordítások különbözetének számításakor figyelembe kell venni.
 
 (3) A hozzáférésre jogosultak az ÜKSZ által megszabott határidőig az előző évben biztonsági készlet céljára lekötött kapacitáshoz is hozzáférhetnek. A bejelentett kapacitás lekötési igény esetén, annak mértékéig – amennyiben a biztonsági készlet más tárolóba nem helyezhető el – a készlet értékesítésre kerülhet. A biztonsági készlet e részét a Szövetség szabadon értékesítheti.
 
@@ -215,7 +218,9 @@ vonatkozik.
 
 (5) Az 5. §-ban foglalt a készlet felhasználására vonatkozó szabályokat a (2) bekezdés szerinti tüzelési célra felhasználható kőolajtermékek vonatkozásában is alkalmazni kell.
 
-12/A. § E törvénynek a földgáz biztonsági készletezéssel összefüggésben egyes törvények módosításáról szóló 2012. évi CCXVIII. törvénnyel (a továbbiakban: Mód. tv.) megállapított 4. § (7) bekezdését 2013. július 1-jétől kell alkalmazni.
+12/A. § (1) E törvénynek az energetikai tárgyú törvények módosításáról szóló 2016. évi CXLIII. törvény (a továbbiakban: Mód. tv.) 21. § (1) bekezdésével megállapított 8. § (4) bekezdését a 2017. január 1-jével kezdődő elszámolási időszakra kell először alkalmazni.
+
+(2) E törvénynek a Mód. tv. 21. § (2) bekezdésével megállapított 8. § (8) bekezdés b) pontját a folyamatban lévő visszaigénylésekre is alkalmazni kell.
 
 13. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a biztonsági készlet felhasználására, a felhasználásra vonatkozó döntés előkészítésére, az előkészítésben közreműködő szervezetek vagy testületek jogaira és kötelezettségeire vonatkozó részletes szabályokat.
 
@@ -227,7 +232,7 @@ vonatkozik.
 
 (4) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg a készletbeszerzés mértékére és feltételeire, továbbá készletértékesítés esetén az értékesítendő földgáz mennyiségére, az értékesítés módjára, a földgáz értékének és a kedvezményezettek körére, a földgáz visszapótlásra kötelezettekre és a visszapótlás feltételeire, rendjére, valamint a szabad kapacitások értékesítésére vonatkozó szabályokat.
 
-14. § Ez a törvény a Tanács 2004/67/EK, a földgázellátás biztonságának megőrzését szolgáló intézkedésekről szóló irányelvének való megfelelést szolgálja.
+14. §
 
 14/A. § Ez a törvény a földgázellátás biztonságának megőrzését szolgáló intézkedésekről és a 2004/67/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2010. október 20-i 994/2010/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 

@@ -113,11 +113,11 @@ elektronikus úton, egyedi informatikai alkalmazás igénybevételével haladék
 
 által kezelt adatokkal.
 
-(1a) A bűnügyi nyilvántartó szerv az anyakönyvi eljárásról szóló törvény alapján a központi anyakönyvi szerv által a névváltoztatással érintett, a személyiadat- és lakcímnyilvántartás aktív nyilvántartásában nem szereplő személyek adatairól történt értesítés kézhezvételét követően haladéktalanul egyedileg összehasonlítja az érintett személyazonosító adatait az értesítésben megküldött adatokkal.
+(1a) A bűnügyi nyilvántartó szerv az anyakönyvi eljárásról szóló törvény alapján a Kormány által rendeletben kijelölt anyakönyvi szerv által a névváltoztatással érintett, a személyiadat- és lakcímnyilvántartás aktív nyilvántartásában nem szereplő személyek adatairól történt értesítés kézhezvételét követően haladéktalanul egyedileg összehasonlítja az érintett személyazonosító adatait az értesítésben megküldött adatokkal.
 
 (2) A bűnügyi nyilvántartó szerv az összehasonlítást követően haladéktalanul gondoskodik a személyazonosító adatokban bekövetkező változásoknak a személyazonosító adatok és fényképek nyilvántartásában történő átvezetéséről.
 
-(3) Az (1a) bekezdésben meghatározott összehasonlítást követően a bűnügyi nyilvántartó szerv a központi anyakönyvi szerv értesítésében megküldött adatokat haladéktalanul törli, ha az érintett személyazonosító adatait a személyazonosító adatok és fényképek nyilvántartásában nem kezeli.
+(3) Az (1a) bekezdésben meghatározott összehasonlítást követően a bűnügyi nyilvántartó szerv a Kormány által rendeletben kijelölt anyakönyvi szerv értesítésében megküldött adatokat haladéktalanul törli, ha az érintett személyazonosító adatait a személyazonosító adatok és fényképek nyilvántartásában nem kezeli.
 
 (4) Ha a bűnügyi nyilvántartó szerv EGT-állam, harmadik ország vagy nemzetközi szervezet tájékoztatása alapján arról értesül, hogy a személyiadat- és lakcímnyilvántartás hatálya alá nem tartozó érintett személyazonosító adatai a személyazonosító adatok és fényképek nyilvántartásában szereplő adatoktól eltérnek, akkor a személyazonosító adatok változását haladéktalanul átvezeti a személyazonosító adatok és fényképek nyilvántartásában.
 
@@ -522,11 +522,11 @@ kell nyilvántartani, és – amennyiben ilyen adattovábbítást kell teljesít
 
 33/A. § (1) A bűnügyi nyilvántartó szerv az érintett személyazonosító adatait bejegyzéskor, a tagállami ítéletek nyilvántartása adatainak módosításakor vagy javításakor, valamint a kérelemre történő adattovábbítást megelőzően – a változások nyomon követése céljából – elektronikus úton egyedileg összehasonlítja a személyiadat- és lakcímnyilvántartás központi szerve által kezelt adatokkal.
 
-(2) A bűnügyi nyilvántartó szerv az anyakönyvi eljárásról szóló törvény alapján a központi anyakönyvi szerv által a névváltoztatással érintett, a személyiadat- és lakcímnyilvántartás aktív nyilvántartás hatálya alá nem tartozó személyek adatairól történt értesítés kézhezvételét követően haladéktalanul egyedileg összehasonlítja az érintett személyazonosító adatait az értesítésben megküldött adatokkal.
+(2) A bűnügyi nyilvántartó szerv az anyakönyvi eljárásról szóló törvény alapján a Kormány által rendeletben kijelölt anyakönyvi szerv által a névváltoztatással érintett, a személyiadat- és lakcímnyilvántartás aktív nyilvántartás hatálya alá nem tartozó személyek adatairól történt értesítés kézhezvételét követően haladéktalanul egyedileg összehasonlítja az érintett személyazonosító adatait az értesítésben megküldött adatokkal.
 
 (3) A bűnügyi nyilvántartó szerv az összehasonlítást követően haladéktalanul átvezeti a személyazonosító adatokban bekövetkezett változást.
 
-(4) A (2) bekezdésben meghatározott összehasonlítást követően a bűnügyi nyilvántartó szerv a központi anyakönyvi szerv értesítésében megküldött adatokat haladéktalanul törli, ha az érintett adatait a tagállami ítéletek nyilvántartásában nem kezeli.
+(4) A (2) bekezdésben meghatározott összehasonlítást követően a bűnügyi nyilvántartó szerv a Kormány által rendeletben kijelölt anyakönyvi szerv értesítésében megküldött adatokat haladéktalanul törli, ha az érintett adatait a tagállami ítéletek nyilvántartásában nem kezeli.
 
 (5) Ha az elítélt személy személyazonossága az Európai Unió más tagállamának kijelölt központi hatósága által a bűnügyi nyilvántartó szerv részére megküldött személyazonosító adatok alapján kétséget kizáró módon nem állapítható meg, a bűnügyi nyilvántartó szerv – ha az Európai Unió más tagállamának kijelölt központi hatósága erre vonatkozóan küldött adatot –
 
@@ -1026,7 +1026,7 @@ előírja.
 
 (6)
 
-72. § (1) A hatósági erkölcsi bizonyítvány kiállítása iránti kérelmet az erre a célra rendszeresített űrlapon papír alapon, a bűnügyi nyilvántartó szerv által működtetett ügyfélszolgálaton személyesen szóban vagy ügyfélkapun keresztül egyedi informatikai alkalmazás igénybevételével, elektronikus úton kell előterjeszteni.
+72. § (1) A hatósági erkölcsi bizonyítvány kiállítása iránti kérelmet az erre a célra rendszeresített űrlapon papír alapon, a bűnügyi nyilvántartó szerv által működtetett ügyfélszolgálaton személyesen szóban vagy elektronikus azonosítását követően, elektronikus úton kell előterjeszteni.
 
 (1a) A kérelmező elektronikus azonosítását követően és az információ megőrzését biztosító módon történő hangrögzítés mellett, a kérelem telefonon is előterjeszthető.
 
@@ -1059,7 +1059,7 @@ előírja.
 - e) a hatósági erkölcsi bizonyítvány kiállításának helyét és időpontját, valamint
 - f) a hatósági erkölcsi bizonyítvány kiadmányozására jogosult aláírását.
 
-(2) A bűnügyi nyilvántartó szerv az (1) bekezdés a) pontjában meghatározott adattartalmat – az 5. § (1) és (1a) bekezdésében meghatározott összehasonlítást követően – a kérelmező személyiadat- és lakcímnyilvántartásban vagy a központi idegenrendészeti nyilvántartásban kezelt adataival, vagy a központi anyakönyvi szerv értesítésében megküldött adatokkal egyező módon határozza meg.
+(2) A bűnügyi nyilvántartó szerv az (1) bekezdés a) pontjában meghatározott adattartalmat – az 5. § (1) és (1a) bekezdésében meghatározott összehasonlítást követően – a kérelmező személyiadat- és lakcímnyilvántartásban vagy a központi idegenrendészeti nyilvántartásban kezelt adataival, vagy a Kormány által rendeletben kijelölt anyakönyvi szerv értesítésében megküldött adatokkal egyező módon határozza meg.
 
 (3) A hatósági erkölcsi bizonyítvány érvényességi ideje a kiállításától számított kilencven nap.
 
@@ -1318,7 +1318,7 @@ automatikus találati adathozzáférés útján összehasonlítja az együttműk
 
 ### Az érintett tájékoztatása
 
-87. § (1) Az érintett az e törvény hatálya alá tartozó nyilvántartásokban szereplő adatai kezelésére vonatkozó, az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti tájékoztatásra, valamint az adatok törlésére, helyesbítésére irányuló kérelmét ügyfélkapun keresztül elektronikus úton is előterjesztheti.
+87. § (1)
 
 (2) Az adatkezelő az érintettet az információs önrendelkezési jogról és az információszabadságról szóló törvény szerint megillető tájékoztatásból az adatai továbbítására vonatkozó tájékoztatását mellőzi, ha az e törvény szerint az adatok átvételére jogosult az adatok átvételével egyidejűleg jelzi, hogy az adattovábbításra vonatkozó adatok közlésének teljesítése
 
@@ -1476,9 +1476,11 @@ rendeletben állapítsa meg.
 
 (2) A bűnügyi nyilvántartó szerv e törvénynek a Módtv.-vel megállapított 4/A. §-a szerinti adatközlést a 2016. január 1-jét követően megindított büntetőeljárások esetén teljesíti.
 
+100. § Ha a bűnügyi nyilvántartó szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig a bűnügyi nyilvántartó szerv vonatkozásában az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+
 ### Módosuló jogszabályok
 
-#### 100–105. §
+#### 101–105. §
 
 106. § (1)–(2)
 

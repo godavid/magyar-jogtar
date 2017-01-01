@@ -263,9 +263,9 @@ törvényt alkot a lakástakarékpénztárakról.
 
 (6a) A jogerős fizetési meghagyás és a fizetési kötelezettséget megállapító jogerős bírósági határozat végrehajtható okirat, amely alapján a lakás-takarékpénztár megkeresésére a tartozást az állami adóhatóság a központi költségvetés javára adók módjára hajtja be. A lakás-takarékpénztár az adózás rendjéről szóló törvényben meghatározott költségminimum megelőlegezésére és viselésére nem köteles.
 
-(6b) A követeléssel kapcsolatos – az adózás rendjéről szóló törvényben meghatározott – fizetési könnyítés (részletfizetés, illetve a követelés részben vagy egészben történő elengedése) iránti kérelmek ügyében a fővárosi és megyei kormányhivatal jár el. A visszakövetelt támogatás visszafizetésének részben vagy egészben történő elengedése akkor engedélyezhető, ha a kérelmező és a vele közös háztartásban élő hozzátartozójának egy főre eső jövedelme – a kérelem benyújtását megelőző három hónap átlagában – nem haladja meg a mindenkori öregségi nyugdíjminimum összegének kétszeresét. A kérelemhez csatolni kell a kérelmező és a vele közös háztartásban élők jövedelmére vonatkozó igazolásokat.
+(6b) A követeléssel kapcsolatos – az adózás rendjéről szóló törvényben meghatározott – fizetési könnyítés (részletfizetés, illetve a követelés részben vagy egészben történő elengedése) iránti kérelmek ügyében a lakáscélú állami támogatások ügyében eljáró szerv jár el. A visszakövetelt támogatás visszafizetésének részben vagy egészben történő elengedése akkor engedélyezhető, ha a kérelmező és a vele közös háztartásban élő hozzátartozójának egy főre eső jövedelme – a kérelem benyújtását megelőző három hónap átlagában – nem haladja meg a mindenkori öregségi nyugdíjminimum összegének kétszeresét. A kérelemhez csatolni kell a kérelmező és a vele közös háztartásban élők jövedelmére vonatkozó igazolásokat.
 
-(6c) A fővárosi és megyei kormányhivatalnak a (6b) bekezdés rendelkezései alapján hozott döntésével szemben, annak kézhezvételétől számított 15 napon belül a kérelmező kifogást nyújthat be a kincstár részére.
+(6c)
 
 (7) A lakás-takarékpénztár a betétre jóváírt állami támogatás és az állami támogatás után a felvételéig jóváírt betéti kamat összegével készfizető kezesként felel:
 

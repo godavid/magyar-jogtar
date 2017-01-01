@@ -31,7 +31,7 @@ Az államháztartás feladatainak ellátásához szükséges bevételek biztosí
 - 13. referencia gépjármű:
   - a) az adó különös szabályok szerinti megállapítása alá tartozó gépjárművel azonos gyártmányú, típusú, változatú és kivitelű gépjármű, amelyet az adó különös szabályok szerinti megállapítása alá tartozó gépjármű forgalomba helyezésének időszakában új állapotban vezettek be a belföldi piacra, vagy
   - b) azonos gépjármű vagy arra vonatkozó adatok hiányában az adó különös szabályok szerinti megállapítása alá tartozó gépjárműhöz az a) pontban felsorolt ismérveket tekintve hasonló gépjármű.
-- 14. elektronikus eljárás: a vámhatóság által üzemeltetett informatikai rendszeren vagy a központi elektronikus szolgáltató rendszeren (ügyfélkapun) keresztül kezdeményezett, az adó megállapítására irányuló elsőfokú adóigazgatási eljárás.
+- 14.
 - 15. gépjárműflotta-üzemeltető: az az Európai Gazdasági Térségben székhellyel rendelkező, gépjármű-bérbeadással foglalkozó személy, szervezet, amely tárgyév január 1-jén legalább 50 darab, külföldi hatósági jelzéssel ellátott személygépkocsi tulajdonosa, üzembentartója és a bérbeadást megelőző utolsó lezárt üzleti éve árbevételének legalább 75% -a gépjármű bérbeadásból, lízingbeadásból származik.
 
 ### Adókötelezettség
@@ -104,6 +104,8 @@ keletkezik.
 
 (4) Ha az adókötelezettség átalakítás miatt keletkezik, az adó alanya köteles a területileg illetékes közlekedési hatósághoz benyújtott előzetes engedély iránti kérelmet benyújtani. A közlekedési hatóság az átalakítási engedély kiadásakor, annak egy példánya megküldésével haladéktalanul értesíti a vámhatóságot az adóalany átalakítási szándékáról, közölve minden, az e törvény szerinti adókötelezettség megállapításához szükséges adatot (az eredeti és az átalakított gépjármű hengerűrtartalmát, üzemanyag fajtáját és környezetvédelmi osztályba sorolását, valamint az e törvény szerinti adó alanyának beazonosításához szükséges adatokat).
 
+(4a) A közlekedési hatóság gépjármű-átalakítás engedélyezése iránti eljárásában hozott elsőfokú döntéssel szemben nincs helye fellebbezésnek.
+
 (5) A közlekedési igazgatási hatóság a gépjármű alvázszámáról, gyártmányáról, típusáról és a motor egyedi azonosító jeléről, illetve kódjáról az adategyezőség ellenőrzésének céljából adatokat kérhet a vámhatóságtól.
 
 (6) A közúti közlekedési nyilvántartást vezető szerv a tárgyhónapot követő hónap 15. napjáig a tárgyhónapban forgalomba helyezett, e törvény alkalmazásában személygépkocsinak és motorkerékpárnak minősülő gépjárművekről a vámhatóság részére adatot szolgáltat a következő tartalommal:
@@ -117,18 +119,7 @@ keletkezik.
 
 (9) Az e törvény hatálya alá tartozó személyek vámazonosító szám megállapításával összefüggő nyilvántartásba vételével és nyilvántartásával kapcsolatos ügyben az állami adó- és vámhatóság jár el. Az említett eljárásra vonatkozó részletes szabályokat az uniós vámjog végrehajtásáról szóló törvény tartalmazza.
 
-### Az elektronikus eljárás szabályai
-
-10. § (1) Elektronikus eljárás a Regisztrációs Adó Adatlap (a továbbiakban: RAA) elektronikus beküldésével kezdeményezhető.
-
-(2) Nincs helye elektronikus eljárásnak:
-
-- a) az adó különös szabályok szerinti megállapítására irányuló eljárásban,
-- b) az adó-visszaigénylésre irányuló eljárásban,
-- c) jogorvoslati eljárásban,
-- d) a gépjárműflotta-üzemeltető által bérbe adott személygépkocsikkal kapcsolatos adóigazgatási eljárásban.
-
-(3) Elektronikus eljárást az kezdeményezhet, aki – az elektronikus adatküldéssel összefüggő azonosíthatóság érdekében – a vámhatóság által üzemeltetett informatikai rendszer igénybevétele esetén a vámhatóságnál, az ügyfélkapu igénybevétele esetén az fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalánál és a vámhatóságnál regisztráltatta magát. Az elektronikus RAA-t a regisztrált személy a vámhatóság által közzétett tájékoztatás szerint küldi be.
+10. §
 
 ### Az adó különös szabályok szerinti megállapítása
 
@@ -265,7 +256,9 @@ kell igazolni.
 
 21. § A 2. § 3. pontjának az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított módosítását az e módosítás hatálybalépését követően indult eljárásokban kell alkalmazni.
 
-22. § A Melléklet I. rész 1. pontja alatti táblázat szerinti 8. adókategória az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 1407/2013/EU bizottsági rendelet (HL L 352., 2013.12.24., 1.o.) hatálya alá tartozó támogatást tartalmaz.
+21/A. § Ha a vámhatóság az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+
+22. §
 
 ### Melléklet a 2003. évi CX. törvényhez
 
@@ -304,7 +297,7 @@ Az adó összegének meghatározása a gépjármű forgalomba helyezésétől sz
 
 Az adó összegét a vámhatóság az alábbi táblázat és képlet együttes alkalmazásával állapítja meg. A számításnál minden megkezdett hónap egész hónapnak minősül. E melléklet alkalmazásában forgalomba helyezés alatt a közlekedési hatóság által lefolytatott eljárásban, a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet 1. számú melléklet II. részében meghatározott Műszaki adatlapon vagy az egyedi forgalomba helyezési engedélyen rögzített első forgalomba helyezés vagy az első hazai nyilvántartásba vétel időpontja értendő. Ezen adatok hiányában a gépjármű esetében e melléklet I. részében meghatározott adótételek e melléklet II. részében található előírások figyelembevétele nélkül alkalmazandók.
 
-Elektronikus eljárás esetén a Műszaki adatlap meglétét és adatai valódiságát a vámhatóság a Nemzeti Közlekedési Hatóság és a vámhatóság között fennálló elektronikus adatkapcsolaton keresztül ellenőrzi.
+A Műszaki adatlap meglétét és adatai valódiságát a vámhatóság a Nemzeti Közlekedési Hatóság és a vámhatóság között fennálló elektronikus adatkapcsolaton keresztül ellenőrzi.
 
 | I. A gépjármű forgalomba helyezésétől az adóigazgatási eljárás kezdetének hónapjáig eltelt hónapok száma | II. A Melléklet I. része szerinti adótétel csökkenés mértéke |
 | --- | --- |

@@ -241,7 +241,7 @@ alapján kell kiadni.
 25. § (1) Temetkezési szolgáltatási tevékenység:
 
 - a) a temetésfelvétel,
-- b) az elhunytnak a kegyeleti igényeknek megfelelő temetésre való – az egészségügyi szolgáltató halottkezelési feladatkörébe nem tartozó és az egészségügyi intézmény területén kívül végzett – előkészítése,
+- b) az elhunytnak a kegyeleti igényeknek megfelelő temetésre való előkészítése,
 - c) a temetéshez szükséges kellékekkel való ellátás, ideértve az eltemettető felé történő értékesítést is,
 - d) a ravatalozás,
 - e)
@@ -260,6 +260,8 @@ alapján kell kiadni.
 
 - a) a vallási közösség tulajdonában lévő temetőben, temetkezési emlékhelyen a vallási közösség által vallási szertartás keretében végzett urnaelhelyezés,
 - b) a felnőtt hospice-palliatív vagy gyermek palliatív ellátás nyújtására működési engedéllyel rendelkező fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatónál végzett ravatalozás.
+
+(4) Az (1) bekezdés a) pontja szerinti szolgáltatást nyújtó temetkezési szolgáltató az eltemettetésre kötelezett személy megbízása alapján az elhalálozással kapcsolatos, a Kormány rendeletében meghatározott ügyekben az egészségügyi intézmény, valamint az állami és önkormányzati szervek előtt az eltemettetésre kötelezett személy képviseletében eljár. E feladat ellátása céljából az eltemettetésre kötelezett által megadott, valamint a statisztikáról szóló törvényben meghatározott adatgyűjtéssel kapcsolatos feladatai teljesítése céljából a haláleset jegyzőkönyvezéséhez és a halálesettel kapcsolatos népmozgalmi adatszolgáltatáshoz szükséges személyes adatok kezelésére a temetkezési szolgáltató jogosult.
 
 26. § (1) Temetkezési szolgáltatási tevékenység kormányrendeletben meghatározott műszaki, közegészségügyi és alapvető kegyeleti, illetve személyi feltételek szerint gyakorolható.
 
@@ -290,6 +292,10 @@ csak temetkezési szolgáltatói telephelyen végezheti.
 
 28/A. § A temetkezési szolgáltató a 25. § (1) bekezdése szerinti szolgáltatásoknál a szerződéstől történő elállás vagy a szerződés felbontása esetére az eltemettetésre kötelezett személy részére foglalót, kötbért vagy egyéb szerződési biztosítékot nem köthet ki.
 
+28/B. § (1) A temetkezési szolgáltató a 25. § (1) bekezdésében foglalt tevékenységéért a Kormány rendeletében meghatározott tartalmú és formátumú számlát állít ki.
+
+(2) Temetkezéssel összefüggésben a temetkezési szolgáltató a 25. § (1) bekezdésében foglalt szolgáltatási elemeken kívül a Kormány rendeletében meghatározott tevékenységért vagy termékért számíthat fel díjat.
+
 ### A temetkezési szolgáltató
 
 29. § (1) Az egészségügyi intézménnyel vagy mentésre feljogosított szervezettel közalkalmazotti jogviszonyban, munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló, a halottak kezelésében, kiadásában érintett alkalmazott vagy vele közös háztartásban élő hozzátartozója nem lehet temetkezési szolgáltatást végző egyéni vállalkozó, egyéni cég, gazdasági társaság vezető tisztségviselője, alkalmazottja, vagy – a nyilvánosan működő részvénytársaságot kivéve – tagja.
@@ -301,16 +307,16 @@ csak temetkezési szolgáltatói telephelyen végezheti.
 (2) A temetkezési szolgáltatási tevékenység folytatását a temetkezési szolgáltatást engedélyező hatóság annak engedélyezi,
 
 - a) aki büntetlen előéletű, és nem áll a temetkezési szolgáltatási tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt,
-- b) aki rendelkezik e törvény szerinti megfelelő pénzügyi teljesítőképességgel, valamint a törvény végrehajtására kiadott kormányrendelet szerinti vagyoni biztosítékkal,
+- b) aki rendelkezik e törvény szerinti megfelelő pénzügyi teljesítőképességgel,
 - c) aki rendelkezik az alapvető kegyeleti feltételeknek, valamint a munkavégzésre vonatkozó előírásoknak megfelelő, a tevékenység méltóságát nem sértő, a környezetben élők egészségét és a környezetet nem veszélyeztető telephellyel,
 - d) akivel szemben összeférhetetlenség nem áll fenn, és
 - e) aki saját maga, vagy legalább egy, a temetkezési szolgáltatási tevékenységben személyesen közreműködő alkalmazottja rendelkezik a kormányrendeletben meghatározott szakmai képesítéssel és megfelel az ott meghatározott feltételeknek,
 - f) aki vagy gazdálkodó szervezet esetében, amelynek vezető tisztségviselője a temetkezési szolgáltatásokat engedélyező hatóság 31. §-a szerinti nyilvántartásában nem szerepel.
 
-(3) A (2) bekezdésben meghatározott követelményeket – a (4) bekezdésben meghatározottakra figyelemmel –
+(3) A (2) bekezdésben meghatározott követelményeket – a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló törvényben (a továbbiakban: Bnytv.) meghatározottakra figyelemmel –
 
 - a) egyéni vállalkozás esetén az egyéni vállalkozónak,
-- b) a gazdasági társaság vezetőjének,
+- b) a gazdasági társaság vezető tisztségviselőjének,
 - c) az egyéni cég tagjának kell igazolnia.
 
 (4)
@@ -319,7 +325,7 @@ csak temetkezési szolgáltatói telephelyen végezheti.
 
 (6)
 
-(7) A (4) és (6) bekezdés alapján megismert személyes adatokat a temetkezési szolgáltatásokat engedélyező hatóság
+(7) A (2) bekezdés a) pontjában meghatározott feltételt igazolására szolgáló személyes adatokat a temetkezési szolgáltatásokat engedélyező hatóság
 
 - a) a temetkezési szolgáltatási tevékenység engedélyezése iránti eljárás jogerős befejezéséig vagy
 - b) a temetkezési szolgáltató nyilvántartásba vétele esetén a hatósági ellenőrzés időtartamára vagy a nyilvántartásból való törlésre irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
@@ -516,7 +522,13 @@ csak temetkezési szolgáltatói telephelyen végezheti.
 - j) a szociális temetési helyekre vonatkozó eltérő szabályok, a szociális temetés igénybevételének részletes szabályait;
 - k) a szociális temetés esetén a holttest egészségügyi intézményben történő hűtésének részletes szabályait.
 
-(2)
+(2) Felhatalmazást kap a Kormány, hogy
+
+- a) a temetkezési szolgáltatásért kiállítható számla tartalmát és formátumát,
+- b) a temetkezéssel összefüggésben a temetkezési szolgáltató által végezhető egyéb tevékenységek és termékek körét,
+- c) a 25. § (4) bekezdésében meghatározott, az elhalálozással kapcsolatos ügyeket
+
+rendeletben állapítsa meg.
 
 (3) A települési önkormányzat, fővárosban a közgyűlés rendeletben állapítja meg – a köztemetőre vonatkozóan – különösen
 

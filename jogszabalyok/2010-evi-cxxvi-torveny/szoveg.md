@@ -32,20 +32,23 @@ Az Országgyűlés a jó állam kialakítása keretében, a területi államigaz
 
 #### 4. A fővárosi és megyei kormányhivatal irányítása
 
-6. § (1) A fővárosi és megyei kormányhivatalt az ebben az alcímben meghatározott eltérésekkel a Kormány a miniszter útján irányítja. A szakmai irányító miniszter által irányított feladatok ellátásával összefüggő ágazati és szakpolitikai kérdésekben a szakmai irányító miniszter egyedi utasítást adhat a kormánymegbízottnak.
+6. § (1) A fővárosi és megyei kormányhivatalt az ebben az alcímben meghatározott eltérésekkel a Kormány a miniszter útján irányítja. A szakmai irányító miniszter által irányított feladatok ellátásával összefüggő ágazati és szakpolitikai kérdésekben a szakmai irányító miniszter egyedi utasítást adhat a kormánymegbízottnak, illetve a kormánymegbízott útján a járási hivatal vezetőjének. A 6. § (3) bekezdés b) pontja szerinti esetben a központi államigazgatási szerv vezetője ágazati kérdésekben egyedi utasítást adhat a kormánymegbízottnak.
 
 (2) A fővárosi és megyei kormányhivatal tekintetében – a kormányhivatal alapítása, a kormánymegbízott kinevezése és felmentése kivételével – az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9. §-ában meghatározott hatásköröket a miniszter gyakorolja.
 
 (3) Kormányrendelet rendelkezhet úgy, hogy
 
 - a) ügyek egyes csoportjaival összefüggésben az Áht. 9. § f)–i) pontjában meghatározott, valamint a törvényességi és a szakszerűségi ellenőrzési hatásköröket a szakmai irányító miniszter,
-- b) közigazgatási hatósági ügyekkel összefüggésben az Áht. 9. § f) és g) pontjában, valamint kizárólag ezekhez kapcsolódva az Áht. 9. § h) pontjában meghatározott hatásköröket a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben foglaltak szerint a fellebbezés elbírálására jogosult hatóság, illetve a felügyeleti szerv
+- b) a megyei kormányhivatalok európai uniós és nemzeti mezőgazdasági és vidékfejlesztési támogatásokkal összefüggő feladatai tekintetében az Áht. 9. § g)–i) pontjában meghatározott, valamint a törvényességi és a szakszerűségi ellenőrzési hatásköröket központi államigazgatási szerv vezetője,
+- c) közigazgatási hatósági ügyekkel összefüggésben az Áht. 9. § f) és g) pontjában, valamint kizárólag ezekhez kapcsolódva az Áht. 9. § h) pontjában meghatározott hatásköröket a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben foglaltak szerint a fellebbezés elbírálására jogosult hatóság, illetve a felügyeleti szerv
 
 gyakorolja.
 
-(4) A miniszter a szakmai irányító miniszter közreműködésével a fővárosi és megyei kormányhivatal bármely tevékenysége tekintetében törvényességi és szakszerűségi ellenőrzést folytathat le.
+(4) A miniszter a szakmai irányító miniszter és a (3) bekezdés b) pontja esetében a központi államigazgatási szerv vezetője közreműködésével a fővárosi és megyei kormányhivatal, illetve a járási hivatal bármely tevékenysége tekintetében törvényességi és szakszerűségi ellenőrzést folytathat le.
 
-(5) A szakmai irányító miniszter a fővárosi és megyei kormányhivatal általa irányított szakmai feladatai tekintetében a miniszter közreműködésével hatékonysági ellenőrzést folytathat le.
+(5) A szakmai irányító miniszter és a (3) bekezdés b) pontja esetében a központi államigazgatási szerv vezetője a fővárosi és megyei kormányhivatal, illetve a járási hivatal általa irányított szakmai feladatai tekintetében a miniszter közreműködésével hatékonysági ellenőrzést folytathat le.
+
+(6) A (3) bekezdésben meghatározott hatásköröket a szakmai irányító miniszter, illetve a felügyeleti szerv a járási hivatal tekintetében a kormánymegbízott útján gyakorolja.
 
 7. § A szakmai irányító miniszter normatív utasításban szabályozhatja a fővárosi és megyei kormányhivatalnak, valamint a járási hivatalnak a szakmai irányító miniszter által irányított feladatai ellátásának szakmai szabályait.
 
@@ -112,7 +115,7 @@ gyakorolja.
 
 (4)
 
-11/A. § (1) A kormánymegbízott feladat- és hatáskörének gyakorlásáért a miniszterelnöknek politikai, a szakmai irányító miniszternek szakmai felelősséggel tartozik.
+11/A. § (1) A kormánymegbízott feladat- és hatáskörének gyakorlásáért a miniszterelnöknek politikai, a szakmai irányító miniszternek, illetve a 6. § (3) bekezdés b) pontja esetében a központi államigazgatási szerv vezetőjének szakmai felelősséggel tartozik.
 
 (2) A kormánymegbízott a tisztségéből eredő kötelezettség vétkes megszegésével okozott kárért való fegyelmi, illetve kártérítési felelősségével összefüggésben a munkáltatói jogkör gyakorlója a miniszter. A miniszter által a fegyelmi, illetve kártérítési felelősség megállapítása iránt indított eljárásban tanács jár el, amelynek tagjait a miniszter jelöli ki. A kijelölt vizsgálóbiztosnak legalább államtitkári megbízatást betöltő állami vezetőnek kell lennie. A fegyelmi, illetve kártérítési eljárás szabályaira egyebekben a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) fegyelmi eljárásra vonatkozó szabályait kell alkalmazni.
 
@@ -136,7 +139,7 @@ gyakorolja.
 
 (4) Főigazgatói munkakörbe az nevezhető ki, aki felsőfokú iskolai végzettséggel és legalább 5 év vezetői gyakorlattal rendelkezik. A kormányhivatalt vezető kormánymegbízott kérelmére, valamint a fővárosi és megyei kormányhivatalok működését irányító államtitkár javaslatára a miniszter a vezetői gyakorlat megléte alól kivételesen indokolt esetben felmentést adhat.
 
-(5) A főigazgató minisztériumi főosztályvezetői besorolású, határozatlan időre kinevezett kormánytisztviselő. A főigazgató illetményét a munkáltatói jogkör gyakorlója állapítja meg azzal, hogy az illetmény az illetményalap huszonhatszorosát nem haladhatja meg.
+(5) A főigazgató minisztériumi főosztályvezetői besorolású, határozatlan időre kinevezett kormánytisztviselő. A főigazgató illetményét a munkáltatói jogkör gyakorlója állapítja meg azzal, hogy az illetmény az illetményalap huszonhatszorosát nem haladhatja meg. A főigazgatóra a Kttv. 151. §-a nem alkalmazható.
 
 13. § (1) A főigazgató munkáját általános helyettesként igazgató segíti.
 
@@ -144,7 +147,7 @@ gyakorolja.
 
 (3) Igazgatói munkakörbe az nevezhető ki, aki felsőfokú igazgatásszervezői, okleveles jogász képesítéssel vagy okleveles közigazgatási menedzser, illetve egyetemi vagy főiskolai szintű közgazdász szakképesítéssel, valamint jogi vagy közigazgatási szakvizsgával, vagy kormányzati tanulmányok szakirányú szakképzettséggel és legalább 5 év közigazgatási szakmai gyakorlattal rendelkezik.
 
-(4) Az igazgató minisztériumi főosztályvezető-helyettesi besorolású, határozatlan időre kinevezett kormánytisztviselő. Az igazgató illetményét a munkáltatói jogkör gyakorlója állapítja meg azzal, hogy az illetmény az illetményalap huszonnégyszeresét nem haladhatja meg.
+(4) Az igazgató minisztériumi főosztályvezető-helyettesi besorolású, határozatlan időre kinevezett kormánytisztviselő. Az igazgató illetményét a munkáltatói jogkör gyakorlója állapítja meg azzal, hogy az illetmény az illetményalap huszonnégyszeresét nem haladhatja meg. Az igazgatóra a Kttv. 151. §-a nem alkalmazható.
 
 #### 7.
 
@@ -152,7 +155,7 @@ gyakorolja.
 
 #### 8. A munkáltatói jogok gyakorlása
 
-15. § (1) A fővárosi és megyei kormányhivatal kormánytisztviselői és állami tisztviselői, valamint munkavállalói felett a munkáltatói jogokat – ha jogszabály kivételt nem tesz – a kormánymegbízott gyakorolja. A fővárosi és megyei kormányhivatalnál szolgálatot teljesítő katonák, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek hivatásos állományú tagjai, illetve a honvédelemért felelős miniszter által vezetett minisztérium, illetve a rendészetért felelős miniszter által vezetett minisztérium állományába tartozó, de a fővárosi és megyei kormányhivatalnál munkát végző kormánytisztviselők esetében a munkáltatói jogok gyakorlásának szabályait külön jogszabály határozza meg.
+15. § (1) A fővárosi és megyei kormányhivatal állami tisztviselői, valamint munkavállalói felett a munkáltatói jogokat – ha jogszabály kivételt nem tesz – a kormánymegbízott gyakorolja. A fővárosi és megyei kormányhivatalnál szolgálatot teljesítő katonák, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek hivatásos állományú tagjai, illetve a honvédelemért felelős miniszter által vezetett minisztérium, illetve a rendészetért felelős miniszter által vezetett minisztérium állományába tartozó, de a fővárosi és megyei kormányhivatalnál munkát végző kormánytisztviselők esetében a munkáltatói jogok gyakorlásának szabályait külön jogszabály határozza meg.
 
 (2)–(3)
 
@@ -192,9 +195,9 @@ gyakorolja.
 
 (5) A fővárosi és megyei kormányhivatal az általa megismerhető iratokban foglalt, valamint a részére nyújtott tájékoztatás alapján tudomására jutott személyes adatok kezelésére az (1)–(2) bekezdésben meghatározott eljárás lefolytatása céljából addig az időpontig jogosult, amíg az a feladata ellátásához szükséges.
 
-19/A. § (1) A fővárosi és megyei kormányhivatal kormánytisztviselője és állami tisztviselője az illetékes fővárosi és megyei kormányhivatal vagy a járási (fővárosi kerületi) hivatal hatáskörében az erre jogosító igazolvány birtokában hatósági ellenőrzést végezhet.
+19/A. § (1) A fővárosi és megyei kormányhivatal állami tisztviselője az illetékes fővárosi és megyei kormányhivatal vagy a járási (fővárosi kerületi) hivatal hatáskörében az erre jogosító igazolvány birtokában hatósági ellenőrzést végezhet.
 
-(2) Az igazolvány tartalmazza az igazolvány sorszámát, a fővárosi és megyei kormányhivatal vagy a járási (fővárosi kerületi) hivatal nevét, valamint a kormánytisztviselő, illetve állami tisztviselő nevét és fényképét.
+(2) Az igazolvány tartalmazza az igazolvány sorszámát, a fővárosi és megyei kormányhivatal vagy a járási (fővárosi kerületi) hivatal nevét, valamint az állami tisztviselő nevét és fényképét.
 
 20. § A fővárosi és megyei kormányhivatal
 
@@ -204,7 +207,9 @@ gyakorolja.
 - d) – a rendvédelmi szervek, valamint a Nemzeti Adó- és Vámhivatal kivételével – gondoskodik a területi államigazgatási szervek ellenőrzési tevékenységének összehangoltságáról,
 - e) közigazgatási informatikai közreműködői tevékenységet lát el,
 - f) ügyfélszolgálatot működtethet,
-- g) ellátja a jogszabályban meghatározott egyéb feladatait.
+- g) jogszabályban meghatározottak szerint nyilvántartást vezet,
+- h) – jogszabályban meghatározott szolgáltató feladatkörébe tartozó informatikai szolgáltatások kivételével – ügyintézéshez kapcsolódó informatikai szolgáltatást biztosít,
+- i) ellátja a jogszabályban meghatározott egyéb feladatait.
 
 #### 9/A. A járási (fővárosi kerületi) hivatal
 
@@ -251,11 +256,65 @@ vonatkozó munkáltatói jogokat.
 
 (3) A hivatalvezető-helyettes illetményét a hivatalvezető javaslatára a kormánymegbízott – tekintettel az adott járás, járási hivatal adottságaira, így különösen a járás lakosságszámára, a járási hivatal szervezetére, feladatára és állományára – legfeljebb az állami költségvetésről szóló törvényben megállapított közszolgálati tisztviselői illetményalap 21-szeresében állapítja meg.
 
-20/F. §
+20/F. § A Kormány rendeletben jelöli ki Pest megyében a megyeszékhely járási hivatalának feladatait ellátó járási hivatalt, illetve a fővárosban a megyeszékhely járási hivatalának feladatait ellátó kerületi hivatalt.
 
 20/G. § (1) Amennyiben jogszabály olyan közigazgatási hatósági eljárásért határoz meg igazgatási szolgáltatási díjat, amely a kormányablak hatáskörébe tartozik, ideértve, amikor a kormányablak a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény (a továbbiakban: Ket.) 19. § (1a) bekezdése alapján jár el, úgy a kormányablak eljárásáért a jogszabályban meghatározott igazgatási szolgáltatási díj – ha jogszabály eltérően nem rendelkezik – a fővárosi és megyei kormányhivatal bevételét képezi, és azt a miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott módon kell megfizetni.
 
 (2) Amennyiben jogszabály olyan közigazgatási hatósági eljárásért határoz meg igazgatási szolgáltatási díjat, amely eljárásban a kormányablak a Ket. szerinti közreműködő hatóságként jár el, és a kérelem a kormányablakhoz kerül benyújtásra, úgy a jogszabályban meghatározott igazgatási szolgáltatási díjat a miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott módon kell megfizetni.
+
+#### 9/B. A fővárosi és megyei kormányhivatal adatkezelésével összefüggő rendelkezések
+
+20/H. § (1) Ha a fővárosi és megyei kormányhivatal törvény alapján valamely, személyes adatokat tartalmazó nyilvántartás tekintetében adatkezelői jogokkal rendelkezik, a fővárosi és megyei kormányhivatal az érintett adatok tekintetében megfelelő műszaki és technikai intézkedésekkel gondoskodik a személyes adatok célhoz kötött kezelése elvének érvényesítéséről.
+
+(2) Ha a fővárosi és megyei kormányhivatal jogszabályban meghatározott feladat- és hatáskörében olyan közigazgatási hatósági eljárásban jár el, amely alapján döntését más szerv által vezetett nyilvántartásban rögzíti, e döntésével összefüggő adattartalom tekintetében – a nyilvántartás vonatkozásában – adatkezelőnek minősül.
+
+(3) Ha a fővárosi és megyei kormányhivatal törvény alapján valamely, személyes adatokat tartalmazó nyilvántartás tekintetében adatkezelői jogokkal rendelkezik, e nyilvántartások adattartalmát – törvény eltérő rendelkezése hiányában – nem kapcsolhatja össze, a törvényben meghatározott céltól eltérő céllal nem használhatja fel, illetve nem továbbíthatja.
+
+20/I. § (1) A fővárosi és megyei kormányhivatal a természetes személy ügyfelek tekintetében belső technikai azonosítót alkalmaz, amely
+
+- a) sem az ügyintéző, sem az ügyfél által nem megismerhető, az informatikai rendszerből továbbításra nem kerül,
+- b) semmilyen módon nem származtatható az ügyfél valamely azonosítójából, és
+- c) a természetes személyhez rendelése a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény előírásai szerinti titkosított kapcsolati kódokkal történik.
+
+(2) Az (1) bekezdés szerinti belső technikai azonosító alkalmazásának célja a fővárosi és megyei kormányhivatal működéséhez szükséges egységes, közös informatikai támogatási szolgáltatásoknál a különböző személyhez rendelt azonosítók jogosulatlan összevonásának kizárása.
+
+20/J. § (1) A fővárosi és megyei kormányhivatal ügyfélszolgálatain, a járási (fővárosi kerületi) hivatal kormányablakaiban, illetve a települési ügysegédnél az elektronikus dokumentumok ügyfél általi hitelesítésére az aláírás képi, dinamikai és íráserősségi adatainak elektronikus felvételezésére képes hitelesítő eszköz rendszeresíthető.
+
+(2) Az (1) bekezdés szerinti eszközök rendszeresítése esetén a Kormány által rendeletben kijelölt fővárosi és megyei kormányhivatal az aláírás képi, dinamikai és íráserősségi adatait tartalmazó kormányhivatali aláírás-minta nyilvántartást vezet.
+
+(3) A kormányhivatali aláírás-minta nyilvántartás a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény szerinti összerendelési nyilvántartással, annak szabályai szerint kapcsolati kóddal rendelhető a természetes személyhez, az aláírás-minta kiértékeléshez szükséges adatokon túl egyéb személyazonosító vagy biometrikus adatot nem tartalmazhat.
+
+(4) A nyilvántartásba csak az ügyfél önkéntes beleegyezésével lehet mintát rögzíteni, az ügyfél az (1) bekezdés szerinti hitelesítési mód alkalmazására nem kötelezhető.
+
+(5) Az (1) bekezdés szerint rendszeresített eszközön történő aláírásnál csak a mintával való egyezés ellenőrizhető, a vizsgálat eredményéről tanúsított, zárt rendszer által kiállított, a dokumentumazonosítót is tartalmazó elektronikus igazolást a dokumentumhoz kell csatolni. Az igazolás az aláírás dinamikai és íráserősségi adatait nem tartalmazhatja.
+
+(6) Az (5) bekezdés szerinti elektronikus igazolással ellátott dokumentum teljes bizonyító erejű magánokirat.
+
+(7) A kormányhivatali aláírás-minta nyilvántartás kizárólag az aláírások egyezőségének ellenőrzése céljából, az (5) bekezdésben meghatározottak szerint használható fel, a kormányhivatali aláírás-minta nyilvántartásból adattovábbítást – törvény eltérő rendelkezése hiányában – nem lehet teljesíteni.
+
+#### 9/C. Egyedi eljárásrend alkalmazhatósága a fővárosi és megyei kormányhivatal eljárásaiban
+
+20/K. § (1) A fővárosi és megyei kormányhivatal – ha törvény eltérően nem rendelkezik – jogosult mind a hatósági, mind a működéséhez kapcsolódó egyéb ügyviteli eljárást elektronikusan lefolytatni, határozatait elektronikusan meghozni.
+
+(2) Az (1) bekezdésben foglaltak érdekében a fővárosi és megyei kormányhivatal jogosult a részére benyújtott papír alapú iratokról a szabályozott elektronikus ügyintézési szolgáltatásokról és az állam által kötelezően nyújtandó szolgáltatásokról szóló jogszabály rendelkezései szerint hiteles elektronikus másolat készítésére, és az eljárás hiteles másolatra alapozott lefolytatására.
+
+(3) Ha a fővárosi és megyei kormányhivatal elektronikus dokumentumban (különösen elektronikus űrlapon) készíti el az eljárás valamely dokumentumát, és az ügyfél annak kinyomtatott példányát hitelesíti, akkor az eljárás az ügyintéző által hitelesített elektronikus dokumentum felhasználásával lefolytatható.
+
+(4) A fővárosi és megyei kormányhivatal az eljárások lefolytatásának támogatására zártnak minősülő informatikai szakrendszert alkalmazhat, ennek használatakor az ügyintéző általi hitelesítésre a zárt rendszeren belüli működés szabályi alkalmazhatók.
+
+(5) Ha az ügyféllel a kapcsolattartás papír alapon történik, a fővárosi és megyei kormányhivatal az érintett hiteles elektronikus dokumentumról a szabályozott elektronikus ügyintézési szolgáltatásokról és az állam által kötelezően nyújtandó szolgáltatásokról szóló jogszabály rendelkezései szerinti hiteles papír alapú másolatot készít vagy az arra kijelölt szolgáltatóval készíttet és az ügyfelet azzal értesíti.
+
+(6) A (2) és (3) bekezdés szerinti ügyfél által aláírt papír alapú dokumentumot a fővárosi és megyei kormányhivatal
+
+- a) az iratkezelési szabályzata szerint őrzi és jogvita esetén bemutathatóságát biztosítja, vagy
+- b) megőrzési és bemutatási kötelezettséggel visszaadja az ügyfélnek vagy a képviseletében eljáró személynek.
+
+(7) A (6) bekezdés b) pontja szerinti eljárás alkalmazása esetén az ügyfél az általa bemutatott papír alapú irat megőrzésére, és felszólításra annak bemutatására köteles. A miniszteri rendeletben meghatározott megőrzési kötelezettségről és a megőrzési időről az ügyfelet tájékoztatni kell.
+
+(8) A (6) bekezdés b) pontja alkalmazható
+
+- a) az ügyfél által átadott közokiratnak minősülő iratra,
+- b) a miniszteri rendeletben ebbe az eljárási körbe sorolt iratra.
 
 #### 10. Záró rendelkezések
 
@@ -266,13 +325,14 @@ vonatkozó munkáltatói jogokat.
 - c) a fővárosi és megyei kormányhivatal, valamint a járási hivatalok irányításának részletes szabályait,
 - d) az 1. § 3. pontjában meghatározott rendelkezéstől eltérő szakmai irányító minisztert
 - e) a fővárosi és megyei kormányhivatal funkcionális feladatait, valamint az azok irányítását ellátó szervet vagy szerveket,
-- f) a fővárosi és megyei kormányhivatalra vonatkozó gazdálkodási szabályokat
+- f) a fővárosi és megyei kormányhivatalra vonatkozó gazdálkodási szabályokat,
+- g) a fővárosi és megyei kormányhivatal elektronikus űrlapra épülő ügyintézésnél alkalmazott egyedi eljárásrendjének, az automatikus döntéshozatalnak, a kapcsolódó nyilvántartási és ügyfélkapcsolati szolgáltatásoknak a részletes szabályait
 
 rendeletben határozza meg.
 
 21/A. § Felhatalmazást kap a Kormány, hogy
 
-- a) a járási hivatalok – kivéve a fővárosi kerületi hivatalok – székhelyeit, illetékességi területét,
+- a) a járási hivatalok – kivéve a fővárosi kerületi hivatalok – székhelyeit, illetékességi területét, Pest megyében a megyeszékhely járási hivatal feladatait ellátó járási hivatalt, a fővárosban a megyeszékhely járási hivatal feladatait ellátó kerületi hivatalt,
 - b) a járási (fővárosi kerületi) hivatalok feladat- és hatásköreit, a kormányablakok illetékességi területét és működése szabályait,
 - c) a kormányablakkal összefüggő feladatokat ellátó személyek kiválasztásának és képzésének szabályait
 
@@ -283,6 +343,8 @@ rendeletben határozza meg.
 (2) Felhatalmazást kap a miniszter, hogy a kormányablaknak a saját hatáskörben, illetve közreműködő hatóságként történő eljárására vonatkozóan az igazgatási szolgáltatási díjjal kapcsolatos részletes szabályokat az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
 
 (3) Felhatalmazást kap a miniszter, hogy a fővárosi és megyei kormányhivatalok informatikai működésére vonatkozó szakmai követelményeket – a szakmai irányító miniszter véleményének kikérésével – rendeletben határozza meg.
+
+(4) Felhatalmazást kap a miniszter, hogy a szakmai irányító miniszter egyetértésével kiadott rendeletben a fővárosi és megyei kormányhivataloknál az ügyfelek megőrzésében maradó papír alapú iratok körét, a megőrzés időtartamát meghatározza.
 
 22. § (1) Ez a törvény – a (2)–(4) bekezdésben meghatározott kivétellel – a kihirdetését követő 8. napon lép hatályba.
 

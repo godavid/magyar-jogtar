@@ -121,12 +121,14 @@ irányul.
 
 4/A. § (1) Az OKJ-ban meghatározott szakképesítésben és az ezeket megalapozó ágazati szakgimnáziumi képzésben államilag támogatott iskolai rendszerű szakképzés
 
-- a) – a (2) bekezdés szerinti miniszter, a honvédelemért felelős miniszter vagy a rendészetért felelős miniszter által alapított és fenntartott szakképző iskola, valamint az állami intézményfenntartó központ által fenntartott szakképző iskola kivételével – kizárólag a szakképzésért és felnőttképzésért felelős miniszter által alapított és fenntartott köznevelési intézményben,
-- b) – a szakképzésért és felnőttképzésért felelős miniszter, valamint az OKJ-ban az agrárágazatba sorolt szakképesítések és az ezeket megalapozó szakgimnáziumi ágazatok tekintetében a (2) bekezdés szerinti miniszter egyetértésével kötött szakképzési megállapodás alapján – nem állami fenntartó által fenntartott köznevelési intézményben folyhat.
+- a) – a (2) bekezdés szerinti miniszter, a honvédelemért felelős miniszter vagy a rendészetért felelős miniszter által alapított és fenntartott szakképző iskola, valamint a tankerületi központ által fenntartott szakképző iskola kivételével – kizárólag a szakképzésért és felnőttképzésért felelős miniszter által alapított és fenntartott köznevelési intézményben,
+- b) nem állami fenntartó által fenntartott köznevelési intézményben folyhat.
 
 (2) Az OKJ-ban az agrárágazatba sorolt szakképesítésben és az ezeket megalapozó ágazati szakgimnáziumi képzésben államilag támogatott iskolai rendszerű szakképzés az agrárpolitikáért felelős miniszter, az élelmiszerlánc-felügyeletért felelős miniszter, az élelmiszeriparért felelős miniszter, az erdőgazdálkodásért felelős miniszter, a földügyért felelős miniszter, a halgazdálkodásért felelős miniszter, az ingatlan-nyilvántartásért felelős miniszter, a környezetvédelemért felelős miniszter, a természetvédelemért felelős miniszter, a térképészetért felelős miniszter vagy a vadgazdálkodásért felelős miniszter hozzájárulása nélkül kizárólag az általa alapított és fenntartott szakképző iskolában folyhat. Az e bekezdés szerinti miniszter által fenntartott szakképző iskola az e bekezdés szerinti miniszter jogszabályban meghatározott feladatkörébe tartozó szakképesítés megszerzésére irányuló képzésen és az ezeket megalapozó ágazati szakgimnáziumi képzésen túli szakképzést csak az állami szakképzési és felnőttképzési szerv hozzájárulásával indíthat.
 
 (3) Az állami felsőoktatási intézmény által fenntartott köznevelési intézmény a szakképesítésért felelős miniszter hozzájárulásával folytathat államilag támogatott iskolai rendszerű szakképzést, ha a 2014/2015. tanévben az OKJ-ban az agrárágazatba sorolt szakképzést indított.
+
+(4) Ha a (2) bekezdésben meghatározott miniszter feladatkörébe tartozó szakképzés tekintetében a szakmai feladatok végrehajtása körében a magyar állam kizárólagos tulajdonában álló gazdasági társaság működik közre, e gazdasági társaság vezető tisztségviselője jogosult a szakképesítések vizsgafeladataival kapcsolatos, a kezelésében lévő adatok minősítésére a minősített adat védelméről szóló törvényben meghatározottak szerint.
 
 4/B. § (1) A felelősségi körébe tartozó szakképzési feladatot a szakképzésért és felnőttképzésért felelős miniszter az általa alapított és fenntartott szakképzési centrumok szakképző iskolai feladatot ellátó tagintézményei keretében látja el. A szakképzésért és felnőttképzésért felelős miniszter megyénként legfeljebb három, a fővárosban legfeljebb tíz, költségvetési szervként működő szakképzési centrumot hozhat létre.
 
@@ -176,7 +178,7 @@ irányul.
 
 (16) A honvédelemért felelős miniszter által fenntartott, kizárólag a honvédelemért felelős miniszter hatáskörébe tartozó szakképesítésekre való felkészítést folytató szakképző iskola esetében a térségi integrált szakképző központ keretében történő működés nem kötelező.
 
-5/A. § A Kormány az állami intézményfenntartó központ szakképzéssel kapcsolatos feladat- és hatáskörét az állami intézményfenntartó központról szóló rendeletében szabályozza.
+5/A. § A Kormány a tankerületi központ szakképzéssel kapcsolatos feladat- és hatáskörét az állami intézményfenntartó központról szóló rendeletében szabályozza.
 
 ## HARMADIK RÉSZ — A SZAKKÉPZÉS DOKUMENTUMAI
 
@@ -335,11 +337,11 @@ külön engedély nélkül szervezhet komplex szakmai vizsgát.
 
 14. § (1) Az OKJ-ban meghatározott szakképesítés megszerzésére a komplex szakmai vizsgát a szakmai és vizsgakövetelmény alapján és a szakmai vizsgaszabályzat rendelkezései szerint kell megtartani. A komplex szakmai vizsgát szakmai vizsgabizottság előtt kell letenni.
 
-(2) A szakmai vizsgabizottság független szakmai testület, amely négy tagból áll. A szakmai vizsgabizottság munkájában az elnök mellett három tag vesz részt, akik közül legalább egy tag szakirányú felsőfokú végzettséggel rendelkezik, egy tag pedig a képzést folytató intézmény által – a vizsgaszabályzatban meghatározottak szerint – javasolt, a képzésben részt vett oktató. A szakmai vizsgabizottság elnökét és tagjait a szakképzésért és felnőttképzésért felelős miniszter az állami szakképzési és felnőttképzési szerv útján bízza meg. Azokban a szakképesítésekben, amelyekben a gazdasági kamara a szakképesítésért felelős miniszterrel kötött megállapodás alapján kidolgozza és gondozza a szakmai és vizsgakövetelményt, az állami szakképzési és felnőttképzési szerv a vizsgaelnököt a gazdasági kamara javaslata alapján bízza meg.
+(2) A szakmai vizsgabizottság független szakmai testület, amely négy tagból áll. A szakmai vizsgabizottság munkájában az elnök mellett három tag vesz részt, akik közül legalább egy tag szakirányú felsőfokú végzettséggel rendelkezik, egy tag pedig a képzést folytató intézmény által – a vizsgaszabályzatban meghatározottak szerint – javasolt, a képzésben részt vett oktató. A szakmai vizsgabizottság elnökét és tagjait a szakképzésért és felnőttképzésért felelős miniszter a szakképzési feladatot ellátó hatóság útján bízza meg. Azokban a szakképesítésekben, amelyekben a gazdasági kamara a szakképesítésért felelős miniszterrel kötött megállapodás alapján kidolgozza és gondozza a szakmai és vizsgakövetelményt, a szakképzési feladatot ellátó hatóság a vizsgaelnököt a gazdasági kamara javaslata alapján bízza meg.
 
 (3) A szakmai vizsgabizottság munkájában csak olyan személy vehet részt, aki a szakmai elméleti tantárgyak oktatásához vagy a gyakorlati képzés ellátásához jogszabályban előírt szakképesítéssel vagy szakképzettséggel rendelkezik.
 
-(4) Vizsgaelnöki megbízást csak az állami szakképzési és felnőttképzési szerv által vezetett országos szakképzési névjegyék részét képező vizsgaelnöki névjegyzéken (a továbbiakban: vizsgaelnöki névjegyzék) szereplő vizsgaelnök kaphat.
+(4) Vizsgaelnöki megbízást csak a szakképzési feladatot ellátó hatóság által vezetett országos szakképzési névjegyék részét képező vizsgaelnöki névjegyzéken (a továbbiakban: vizsgaelnöki névjegyzék) szereplő vizsgaelnök kaphat.
 
 (5) A szakmai vizsgabizottsági tagságra vonatkozó megbízás – a képzést folytató intézmény által javasolt, a képzésben részt vett oktató vizsgabizottsági tag kivételével – az országos szakképzési névjegyzék részét képező vizsgabizottsági névjegyzéken (a továbbiakban: vizsgabizottsági névjegyzék) szereplő személynek adható.
 
@@ -353,13 +355,13 @@ külön engedély nélkül szervezhet komplex szakmai vizsgát.
 
 (9) A (7) bekezdésben meghatározott törvényességi kérelmet a kormányhivatal a beérkezést követő naptól számított öt napon belül bírálja el. A törvényességi kérelemmel és a kérelem tárgyában hozott határozat bírósági felülvizsgálatával kapcsolatban a közigazgatási hatósági eljárás általános szabályait kell alkalmazni. A benyújtásra meghatározott határidő elmulasztása jogvesztő, igazolásnak helye nincs.
 
-15. § (1) A szakképesítésért felelős miniszter elkészíti, és az állami szakképzési és felnőttképzési szerv részére megküldi az ágazatába tartozó szakképesítések tekintetében a vizsgaelnöknek javasoltak listáját. Az állami szakképzési és felnőttképzési szerv a vizsgaelnöki névjegyzékre történő felvételt megtagadja, ha a vizsgaelnöknek javasolt személy nem felel meg az e törvényben és a vizsgaelnöki névjegyzékre kerülésről szóló jogszabályban előírt feltételeknek.
+15. § (1) A szakképesítésért felelős miniszter elkészíti, és a szakképzési feladatot ellátó hatóság részére megküldi az ágazatába tartozó szakképesítések tekintetében a vizsgaelnöknek javasoltak listáját. A szakképzési feladatot ellátó hatóság a vizsgaelnöki névjegyzékre történő felvételt megtagadja, ha a vizsgaelnöknek javasolt személy nem felel meg az e törvényben és a vizsgaelnöki névjegyzékre kerülésről szóló jogszabályban előírt feltételeknek.
 
-(2) Azokban a szakképesítésekben, amelyekben a gazdasági kamara a szakképesítésért felelős miniszterrel kötött megállapodás alapján kidolgozza és gondozza a szakmai és vizsgakövetelményt, a gazdasági kamara közvetlenül tesz javaslatot az állami szakképzési és felnőttképzési szerv részére a vizsgaelnöki névjegyzékre.
+(2) Azokban a szakképesítésekben, amelyekben a gazdasági kamara a szakképesítésért felelős miniszterrel kötött megállapodás alapján kidolgozza és gondozza a szakmai és vizsgakövetelményt, a gazdasági kamara közvetlenül tesz javaslatot a szakképzési feladatot ellátó hatóság részére a vizsgaelnöki névjegyzékre.
 
-(3) A vizsgaelnöki névjegyzékre javaslatot tevő szakképesítésért felelős miniszter és gazdasági kamara a vizsgaelnöki és a vizsgabizottsági névjegyzékre történő felvételre vonatkozó javaslatát évente kettő alkalommal küldi meg az állami szakképzési és felnőttképzési szervnek.
+(3) A vizsgaelnöki névjegyzékre javaslatot tevő szakképesítésért felelős miniszter és gazdasági kamara a vizsgaelnöki és a vizsgabizottsági névjegyzékre történő felvételre vonatkozó javaslatát évente kettő alkalommal küldi meg a szakképzési feladatot ellátó hatóságnak.
 
-(4) Az állami szakképzési és felnőttképzési szerv által vezetett vizsgabizottsági névjegyzékre a szakképesítésért felelős miniszteren keresztül jelentkezhet az, aki az e törvényben és a szakmai vizsgaszabályzatban meghatározott feltételeknek megfelel. A vizsgabizottsági névjegyzékre javaslatot tehet a szakképesítés szerint illetékes területi gazdasági kamara, vagy ha a szakképesítés nem tartozik egyik gazdasági kamara hatáskörébe sem, akkor a szakmai szervezet vagy szakmai kamara is.
+(4) A szakképzési feladatot ellátó hatóság által vezetett vizsgabizottsági névjegyzékre a szakképesítésért felelős miniszteren keresztül jelentkezhet az, aki az e törvényben és a szakmai vizsgaszabályzatban meghatározott feltételeknek megfelel. A vizsgabizottsági névjegyzékre javaslatot tehet a szakképesítés szerint illetékes területi gazdasági kamara, vagy ha a szakképesítés nem tartozik egyik gazdasági kamara hatáskörébe sem, akkor a szakmai szervezet vagy szakmai kamara is.
 
 #### 11. A komplex szakmai vizsgát szervező intézmény adatszolgáltatása
 
@@ -375,9 +377,9 @@ külön engedély nélkül szervezhet komplex szakmai vizsgát.
 - f) a vizsgázó természetes személyazonosító adatait,
 - g) továbbá az iskolai rendszerű szakképzésben a tanulónak a nemzeti köznevelésről szóló törvényben meghatározott oktatási azonosító (a továbbiakban: oktatási azonosító) számát
 
-tartalmazó törzslapot kiállítani, és azt elektronikusan a vizsgaszabályzatban meghatározott határidőn belül az állami szakképzési és felnőttképzési szervnek megküldeni. Ha az állami szakképzési és felnőttképzési szerv a beküldött törzslapok hibás vagy hiányos kitöltését észleli, akkor felhívja a beküldőt az észlelt hibák harminc napon belüli kijavítására.
+tartalmazó törzslapot kiállítani, és azt elektronikusan a vizsgaszabályzatban meghatározott határidőn belül a szakképzési feladatot ellátó hatóságnak megküldeni. Ha a szakképzési feladatot ellátó hatóság a beküldött törzslapok hibás vagy hiányos kitöltését észleli, akkor felhívja a beküldőt az észlelt hibák harminc napon belüli kijavítására.
 
-(3) Az állami szakképzési és felnőttképzési szerv folyamatosan ellenőrzi az elektronikusan beérkező adatokat és a vizsgaelnöki kijelölések alapján a beérkezett törzslapokat, és ha a komplex szakmai vizsgát szervező intézmény (2) bekezdésben foglalt, a törzslapok megküldésére vagy kijavítására vonatkozó kötelezettségének elmulasztását észleli, tájékoztatja a vizsgaszervező székhelye szerint illetékes hivatalt. A hivatal a 17. § (2) bekezdésében foglaltak szerint jár el.
+(3) A szakképzési feladatot ellátó hatóság folyamatosan ellenőrzi az elektronikusan beérkező adatokat és a vizsgaelnöki kijelölések alapján a beérkezett törzslapokat, és ha a komplex szakmai vizsgát szervező intézmény (2) bekezdésben foglalt, a törzslapok megküldésére vagy kijavítására vonatkozó kötelezettségének elmulasztását észleli, tájékoztatja a vizsgaszervező székhelye szerint illetékes hivatalt. A hivatal a 17. § (2) bekezdésében foglaltak szerint jár el.
 
 #### 12. A komplex szakmai vizsgát szervező intézmény jogszabálysértése
 
@@ -395,7 +397,7 @@ tartalmazó törzslapot kiállítani, és azt elektronikusan a vizsgaszabályzat
 
 (3) A hivatal a komplex szakmai vizsga szervezésére engedéllyel rendelkező intézményekről az intézmény megnevezését, székhelyét, a vizsgaszervezési engedélyben szereplő szakképesítések azonosító számát, megnevezését és a vizsgaszervezési engedély kiadásának időpontját tartalmazó közhiteles hatósági nyilvántartást vezet, továbbá ellenőrzi az engedéllyel rendelkező intézmények vizsgaszervezéssel összefüggő tevékenységét.
 
-(4) A (3) bekezdés szerinti nyilvántartás nyilvános, azt a szakképzésért és felnőttképzésért felelős miniszter az általa vezetett minisztérium, valamint a hivatal saját honlapján közzéteszi. A közzétett adatokat a hatóság döntését követő nyolc napon belül frissíteni kell. A hivatal a vizsgaszervezési engedélyt megadó döntés egy példányát megküldi az érintett szakképesítésért felelős miniszternek és az állami szakképzési és felnőttképzési szervnek.
+(4) A (3) bekezdés szerinti nyilvántartás nyilvános, azt a szakképzésért és felnőttképzésért felelős miniszter az általa vezetett minisztérium, valamint a hivatal saját honlapján közzéteszi. A közzétett adatokat a hatóság döntését követő nyolc napon belül frissíteni kell. A hivatal a vizsgaszervezési engedélyt megadó döntés egy példányát megküldi az érintett szakképesítésért felelős miniszternek, az állami szakképzési és felnőttképzési szervnek és a szakképzési feladatot ellátó hatóságnak.
 
 (5) A Magyar Honvédség, a Nemzeti Adó- és Vámhivatal és a rendvédelmi szervek esetén szolgálati beosztás betöltéséhez előírt szakképesítések komplex szakmai vizsgáit csak a 12. § (2) bekezdés b) pontja szerint kijelölt – a szakmai vizsgaszervezési tevékenység folytatásának általános és speciális szakmai, tárgyi és személyi feltételeivel rendelkező – intézmény szervezheti.
 
@@ -404,7 +406,9 @@ tartalmazó törzslapot kiállítani, és azt elektronikusan a vizsgaszabályzat
 - a) a feltárt jogszabálysértést nem szünteti meg,
 - b) a mulasztott kötelezettségét nem teljesíti,
 - c) ismételten jogszabálysértést követ el, vagy
-- d) a már lebonyolított komplex szakmai vizsga eredményének megsemmisítését eredményező jogszabálysértést követ el, a hivatal – a komplex szakmai vizsga szakmai ellenőrzésére jogosult szerv megkeresése alapján vagy egyébként hivatalból – az intézmény vizsgaszervezési engedélyét visszavonja, és négy évre eltiltja a szakmai vizsgaszervezési tevékenységtől. Erről a jogsértést megállapító határozatban a komplex szakmai vizsgát szervező intézményt tájékoztatni kell. A hivatal a vizsgaszervezési engedélyt visszavonó és a vizsgaszervezési tevékenységtől eltiltó határozat egy példányát megküldi az érintett szakképesítésért felelős miniszternek és az állami szakképzési és felnőttképzési szervnek.
+- d) a már lebonyolított komplex szakmai vizsga eredményének megsemmisítését eredményező jogszabálysértést követ el,
+
+a hivatal – a komplex szakmai vizsga szakmai ellenőrzésére jogosult szerv megkeresése alapján vagy egyébként hivatalból – az intézmény vizsgaszervezési engedélyét visszavonja, és négy évre eltiltja a szakmai vizsgaszervezési tevékenységtől. Erről a jogsértést megállapító határozatban a komplex szakmai vizsgát szervező intézményt tájékoztatni kell. A hivatal a vizsgaszervezési engedélyt visszavonó és a vizsgaszervezési tevékenységtől eltiltó határozat egy példányát megküldi az érintett szakképesítésért felelős miniszternek, az állami szakképzési és felnőttképzési szervnek és a szakképzési feladatot ellátó hatóságnak.
 
 (2) Az (1) bekezdés szerinti határozatot a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és a szakképesítésért felelős miniszter által vezetett minisztérium, valamint a hivatal honlapján közzé kell tenni.
 
@@ -800,7 +804,7 @@ kezeli.
 
 (4) A gyakorlati képzést szervező szervezet megszűnése esetén a nyilvántartást vezető szerv a szervezetet törli a nyilvántartásból a szervezet bejelentése alapján vagy hivatalból.
 
-(5) A nyilvántartást vezető szerv döntésével szemben fellebbezésnek a közigazgatási hatósági eljárás általános szabályai szerint van helye. A nyilvántartásba vétel során a nyilvántartást vezető szerv által hozott döntéssel szemben benyújtott fellebbezést az állami szakképzési és felnőttképzési szerv bírálja el. A fellebbezést az állami szakképzési és felnőttképzési szervnek kell címezni, de az első fokú határozatot meghozó, területileg illetékes gazdasági kamaránál kell benyújtani. A nyilvántartást vezető szerv a fellebbezést az eljárás összes irataival, valamint a fellebbezéshez fűzött szakmai véleményével együtt tíz napon belül továbbítja az állami szakképzési és felnőttképzési szervnek.
+(5) A nyilvántartást vezető szerv döntésével szemben fellebbezésnek a közigazgatási hatósági eljárás általános szabályai szerint van helye. A nyilvántartásba vétel során a nyilvántartást vezető szerv által hozott döntéssel szemben benyújtott fellebbezést a szakképzési feladatot ellátó hatóság bírálja el. A fellebbezést a szakképzési feladatot ellátó hatóságnak kell címezni, de az első fokú határozatot meghozó, területileg illetékes gazdasági kamaránál kell benyújtani. A nyilvántartást vezető szerv a fellebbezést az eljárás összes irataival, valamint a fellebbezéshez fűzött szakmai véleményével együtt tíz napon belül továbbítja a szakképzési feladatot ellátó hatóságnak.
 
 (6) A gyakorlati képzés folytatására jogosult szervezetek nyilvántartása tartalmának és a nyilvántartásba vételi eljárás részletes szabályait kormányrendelet állapítja meg.
 
@@ -963,7 +967,7 @@ vonatkozóan.
 - h) azt, hogy a gyakorlati képzési idő egyes szakaszaiban hol valósul meg a gyakorlati képzés, és – szakközépiskolai vagy szakiskolai tanuló esetén – azt, hogy a gyakorlati képzés helye kizárólag gyakorlati képzési célt szolgáló tanműhely-e, továbbá ki gondoskodik a tanulók felügyeletéről,
 - i) az együttműködési megállapodást kötő felek között a gyakorlati képzési költségek viselésének, megosztásának és átadásának módját,
 - j) a szakképző iskola nyilatkozatát arra vonatkozóan, hogy az együttműködés keretében megszervezett képzés az iskolai rendszerű szakképzésben a nappali, az esti vagy a levelező oktatás, vagy az oktatás egyéb sajátos munkarendjében, vagy a nappali oktatás munkarendje szerint szervezett felnőttoktatásban folyik,
-- k) ha az együttműködési megállapodás nem állami fenntartású szakképző iskolával jön létre, a szakképző iskola nyilatkozatát arra vonatkozóan, hogy a képzés megszervezésére szakképzési megállapodás alapján, az állam által költségvetési hozzájárulásban részesített iskolai rendszerű szakképzés keretében kerül sor.
+- k) nem állami fenntartású szakképző iskolával létrejött együttműködési megállapodás esetén a szakképző iskola nyilatkozatát arra vonatkozóan, hogy a képzés megszervezésére a Kormány 84. § (5) bekezdése szerinti döntése alapján, az állam által költségvetési hozzájárulásban részesített iskolai rendszerű szakképzés keretében kerül sor.
 
 ### XV. Fejezet — AZ ELLENŐRZÉS
 
@@ -971,11 +975,11 @@ vonatkozóan.
 
 58. § (1) A szakképzés ellenőrzési rendszere hatósági és törvényességi, továbbá szakmai ellenőrzésből áll.
 
-(2) Az iskolai rendszerű szakképzésben a szakmai elméleti és a szakképző iskola által szervezett gyakorlati képzés hatósági és törvényességi ellenőrzése a nemzeti köznevelésről szóló törvényben meghatározottak szerint folyik. A tanulószerződés és az együttműködési megállapodás alapján folyó gyakorlati képzés komplex szakmai és hatósági ellenőrzését a gazdasági kamara végzi. A komplex szakmai vizsga hatósági ellenőrzését a területileg illetékes megyei, fővárosi kormányhivatal végzi.
+(2) Az iskolai rendszerű szakképzésben a szakmai elméleti és a szakképző iskola által szervezett gyakorlati képzés hatósági és törvényességi ellenőrzése a nemzeti köznevelésről szóló törvényben meghatározottak szerint folyik. A tanulószerződés és az együttműködési megállapodás alapján folyó gyakorlati képzés komplex szakmai és hatósági ellenőrzését a gazdasági kamara végzi. A komplex szakmai vizsga hatósági ellenőrzését a területileg illetékes fővárosi és megyei kormányhivatal végzi.
 
-(3) Az iskolai rendszerű szakképzésben a szakmai elméleti képzés és a szakképző iskola által szervezett gyakorlati képzés szakmai ellenőrzése az országos szakképzési névjegyzék részét képező szakértői névjegyzékben (a továbbiakban: szakértői névjegyzék) szereplő szakértő bevonásával a nemzeti köznevelésről szóló törvényben meghatározottak szerint folyik. A komplex szakmai vizsga szakmai ellenőrzését a szakképesítésért felelős miniszter végzi. A szakértői névjegyzéket az állami szakképzési és felnőttképzési szerv vezeti.
+(3) Az iskolai rendszerű szakképzésben a szakmai elméleti képzés és a szakképző iskola által szervezett gyakorlati képzés szakmai ellenőrzése az országos szakképzési névjegyzék részét képező szakértői névjegyzékben (a továbbiakban: szakértői névjegyzék) szereplő szakértő bevonásával a nemzeti köznevelésről szóló törvényben meghatározottak szerint folyik. A komplex szakmai vizsga szakmai ellenőrzését a szakképesítésért felelős miniszter végzi. A szakértői névjegyzéket a szakképzési feladatot ellátó hatóság vezeti.
 
-(4) A szakképesítésért felelős miniszter kezdeményezheti a komplex szakmai vizsgát szervező vagy a 12. § (1) bekezdésében szereplő szakképzést folytató intézmény vizsgaszervezési tevékenységének – a (2) bekezdés szerinti – ellenőrzését. A szakképesítésért felelős miniszter által kezdeményezett ellenőrzést a megyei, fővárosi kormányhivatal köteles lefolytatni. A komplex szakmai vizsgát vizsgaszervezési engedély alapján szervező intézmény vizsgaszervezési tevékenységének ellenőrzése a 18. § (3) bekezdése szerint történik.
+(4) A szakképesítésért felelős miniszter kezdeményezheti a komplex szakmai vizsgát szervező vagy a 12. § (1) bekezdésében szereplő szakképzést folytató intézmény vizsgaszervezési tevékenységének – a (2) bekezdés szerinti – ellenőrzését. A szakképesítésért felelős miniszter által kezdeményezett ellenőrzést a fővárosi és megyei kormányhivatal köteles lefolytatni. A komplex szakmai vizsgát vizsgaszervezési engedély alapján szervező intézmény vizsgaszervezési tevékenységének ellenőrzése a 18. § (3) bekezdése szerint történik.
 
 (5) Az iskolarendszeren kívüli szakmai képzés ellenőrzése – a (4) bekezdésben foglaltak kivételével – a felnőttképzésről szóló törvényben meghatározottak szerint folyik.
 
@@ -1165,7 +1169,7 @@ köteles fizetni.
   - eb) a szakgimnáziumokban a kilencedik-tizenkettedik évfolyamon ágazatonként és szakképesítésenként a szakmai elméletre, továbbá a szakmai gyakorlatra, valamint
   - ec) a szakgimnáziumokban szakképesítésenként az érettségi vizsgát követő szakképzési évfolyamokra a szakmai elmélet, továbbá a szakmai gyakorlat kötelező szakképzési kerettanterveit,
 - f) kezdeményezi a közismereti tárgyak oktatásához a szakközépiskolákban, továbbá a szakgimnáziumokban kötelezően alkalmazandó ágazatonként differenciált kerettantervek elkészítését és kiadását az oktatásért felelős miniszternél,
-- g) közvetlenül – vagy az állami szakképzési és felnőttképzési szerv vezetője útján, a 14. § (2) bekezdésében foglaltak figyelembevételével – valamennyi szakképesítés tekintetében megbízza a szakmai vizsgabizottság elnökét,
+- g) közvetlenül – vagy a szakképzési feladatot ellátó hatóság vezetője útján, a 14. § (2) bekezdésében foglaltak figyelembevételével – valamennyi szakképesítés tekintetében megbízza a szakmai vizsgabizottság elnökét,
 - h) kidolgoztatja és működteti a 16. § szerinti, a komplex szakmai vizsgák lebonyolításának és az adatszolgáltatásnak az informatikai támogatását és a 9. § szerinti, a komplex szakmai vizsgán kiadott bizonyítványok központi elektronikus nyilvántartását.
 
 (3) A szakképzésért és felnőttképzésért felelős miniszter az OKJ alapján hatáskörébe utalt szakképesítések tekintetében ellátja a szakképesítésért felelős miniszter 73. §-ban meghatározott feladatait.
@@ -1205,32 +1209,52 @@ köteles fizetni.
 
 (5) A honvédelemért, a rendészetért, valamint az adópolitikáért felelős miniszter az ágazatához tartozó szakképesítések tekintetében meghatározhatják a szakképesítés birtokában végzett tevékenység gyakorlásához szükséges szakmai ismeretek megújításának rendjét és szabályait.
 
-#### 46. Az állami szakképzési és felnőttképzési szerv
+#### 46. Az állami szakképzési és felnőttképzési szerv, és a szakképzési feladatot ellátó hatóság
 
 74. § (1) Az állami szakképzési és felnőttképzési szerv
 
 - a) a szakmai követelménymodulokról szóló kormányrendelet alapján összeállítja és nyilvánosságra hozza az országos modultérképet,
 - b) működteti a nemzeti referencia és koordináló központot, valamint a szakképzési tájékoztatási és információs központot,
-- c) kezeli a komplex szakmai vizsgák adatait és a törzslapokat magába foglaló központi nyilvántartást, valamint az abban szereplő, a vizsgázóra vonatkozó természetes személyazonosító adatokat,
+- c)
 - d) ellátja a szakképzési hozzájárulással, valamint a szakképzési és felnőttképzési támogatások kezelésével összefüggő, a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló törvényben meghatározott feladatokat,
 - e)–f)
-- g) vezeti az országos szakképzési névjegyzéket.
+- g)
 
-(2) Az állami szakképzési és felnőttképzési szerv feladatainak ellátása során együttműködik a szakképesítésért felelős miniszter által vezetett minisztériummal, a 73. § (4) bekezdésében meghatározott kutató- és fejlesztő-szolgáltató intézetekkel és – az állami szakképzési és felnőttképzési szerv szakképzéssel összefüggő és köznevelést érintő feladatai tekintetében – a megyei, fővárosi kormányhivatalokkal.
+(2) Az állami szakképzési és felnőttképzési szerv feladatainak ellátása során együttműködik a szakképesítésért felelős miniszter által vezetett minisztériummal, a 73. § (4) bekezdésében meghatározott kutató- és fejlesztő-szolgáltató intézetekkel és – az állami szakképzési és felnőttképzési szerv szakképzéssel összefüggő és köznevelést érintő feladatai tekintetében – a fővárosi és megyei kormányhivatalokkal.
 
-(3) Az állami szakképzési és felnőttképzési szerv az (1) bekezdés c) pontjában szereplő törzslapokat tartalmazó központi nyilvántartás adatait elzártan, ötven évig más által nem hozzáférhető módon őrzi.
+(3)–(4)
 
-(4) Az állami szakképzési és felnőttképzési szerv az általa őrzött törzslapokat ötven év után átadja az illetékes levéltárnak, és az átadott törzslapok központi nyilvántartási adatait törli.
+(4a)
 
-(4a) Az (1) bekezdés c) pontjában foglalt nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(5)
 
-(5) A nyilvántartás alapján az elveszett, ellopott, megrongálódott vagy megsemmisült bizonyítványról bizonyítványmásodlatot állít ki kérelemre az állami szakképzési és felnőttképzési szerv.
+(5a)
 
-(5a) Az iskolarendszeren kívüli szakképzésben szerzett szakképesítésről az (5) bekezdés alapján készült bizonyítványmásodlat kiállítására alkalmazni kell a nevelési-oktatási intézmények működéséről és a köznevelési intézmények névhasználatáról szóló rendelet bizonyítványmásodlatra vonatkozó rendelkezéseit.
+(6)
 
-(6) A jogutód nélkül megszűnt szakmai vizsgaszervező esetében az állami szakképzési és felnőttképzési szerv kérelemre kiállítja az Europass bizonyítvány-kiegészítőt.
+(7)
 
-(7) Az állami szakképzési és felnőttképzési szerv által elkészített szakmai vizsgatételeknek az általa működtetett vizsgaközpontok részére történő eljuttatásával kapcsolatos feladatokat a megyei, fővárosi kormányhivatal látja el az állami szakképzési és felnőttképzési szerv feladat- és hatásköréről szóló kormányrendeletben meghatározottak szerint.
+74/A. § (1) A szakképzési feladatot ellátó hatóság
+
+- a) a megyei fejlesztési és képzési bizottságoknak a 81. § (3) bekezdése szerinti javaslatait összesíti és megküldi az állami szakképzési és felnőttképzési szervnek,
+- b) kezeli a komplex szakmai vizsgák adatait és a törzslapokat magába foglaló központi nyilvántartást, valamint az abban szereplő, a vizsgázóra vonatkozó természetes személyazonosító adatokat,
+- c) vezeti az országos szakképzési névjegyzéket.
+
+(2) A szakképzési feladatot ellátó hatóság feladatainak ellátása során együttműködik a szakképesítésért felelős miniszter által vezetett minisztériummal, a 73. § (4) bekezdésében meghatározott kutató- és fejlesztő-szolgáltató intézetekkel, a gazdasági kamarákkal és az állami szakképzési és felnőttképzési szervvel.
+
+(3) A szakképzési feladatot ellátó hatóság az (1) bekezdés b) pontjában szereplő törzslapokat tartalmazó központi nyilvántartás adatait elzártan, ötven évig más által nem hozzáférhető módon őrzi.
+
+(4) A szakképzési feladatot ellátó hatóság az általa őrzött törzslapokat ötven év után átadja az illetékes levéltárnak, és az átadott törzslapok központi nyilvántartási adatait törli.
+
+(5) Az (1) bekezdés b) pontjában foglalt nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
+(6) A nyilvántartás alapján az elveszett, ellopott, megrongálódott vagy megsemmisült bizonyítványról bizonyítványmásodlatot állít ki kérelemre a szakképzési feladatot ellátó hatóság.
+
+(7) Az iskolarendszeren kívüli szakképzésben szerzett szakképesítésről a (6) bekezdés alapján készült bizonyítványmásodlat kiállítására alkalmazni kell a nevelési-oktatási intézmények működéséről és a köznevelési intézmények névhasználatáról szóló rendelet bizonyítványmásodlatra vonatkozó rendelkezéseit.
+
+(8) A jogutód nélkül megszűnt szakmai vizsgaszervező esetében a szakképzési feladatot ellátó hatóság kérelemre kiállítja az Europass bizonyítvány-kiegészítőt.
+
+(9) Az állami szakképzési és felnőttképzési szerv által elkészített szakmai vizsgatételeknek a komplex szakmai vizsgákra történő eljuttatásával kapcsolatos feladatokat a szakképzési feladatot ellátó hatóság látja el a szakképzési feladatot ellátó hatóság feladatairól szóló kormányrendeletben meghatározottak szerint.
 
 ### XVIII. Fejezet — AZ ORSZÁGOS GAZDASÁGI KAMARA
 
@@ -1327,7 +1351,7 @@ köteles fizetni.
 
 (5) A bizottság a szakképzést érintő (3) bekezdés szerinti javaslatát a javaslattal érintett tanévet megelőző évben március utolsó munkanapjáig teszi meg elsősorban a munkaerő-piaci kereslet, a hiány-szakképesítések és a 82. § a) pontjában meghatározott szakképzés-fejlesztési koncepciója alapján.
 
-(6) A bizottság a szakképzést érintő (3) bekezdés szerinti javaslatát az állami szakképzési és felnőttképzési szerv készíti elő a Kormány 84. §-ban meghatározott döntésének meghozatala céljából.
+(6) A bizottságnak a szakképzést érintő (3) bekezdés szerinti, a szakképzési feladatot ellátó hatóság által összesített javaslatát az állami szakképzési és felnőttképzési szerv a Kormány 84. § (5) bekezdése szerinti döntésének meghozatala céljából előkészíti, és megküldi a szakképzésért és felnőttképzésért felelős miniszternek.
 
 (7) A bizottság az iskolarendszeren kívüli szakmai képzéseket érintő (3) bekezdés szerinti javaslatát a szakképesítésekre vonatkozó munkaerő-piaci kereslet és a hiány-szakképesítések figyelembevétele alapján, de évente legalább egy alkalommal teszi meg.
 
@@ -1382,15 +1406,11 @@ köteles fizetni.
 
 (5d) A Kormány (5) bekezdés c) pontja szerinti, a keretszámok fenntartónkénti elosztására vonatkozóan megyénként és a fővárosra tekintettel hozott döntését az iskolai rendszerű szakképzés tekintetében az (5a)–(5c) bekezdés alapján tett javaslatok alapján hozza meg az érintett tanévet megelőző év szeptember utolsó munkanapjáig. A Kormány (5) bekezdés szerinti döntése nem terjed ki a honvédelemért felelős miniszter hatáskörébe tartozó szakképesítésekre.
 
-(6) A Kormány (5) bekezdés szerinti döntése kiterjed minden olyan szakképző iskolai fenntartóra, amelynek a fővárosban vagy a megyében e törvény vagy a nemzeti köznevelésről szóló törvény alapján szakképzési feladatellátási kötelezettsége van, továbbá amely szakképzési megállapodást kötött a szakképzési feladatok ellátására. A szakképző iskolai fenntartó a Kormány (5) bekezdés szerinti döntése alapján a döntéssel érintett tanévtől kezdődő képzés tekintetében az adott képzés kifutásáig jogosult költségvetési hozzájárulásra.
+(6) A szakképző iskolai fenntartó a Kormány (5) bekezdés szerinti döntése alapján a döntéssel érintett tanévtől kezdődő képzés tekintetében az adott képzés kifutásáig, az ingyenes képzésben való részvétéire jogosult tanulói után jogosult költségvetési hozzájárulásra.
 
-(7) Az iskolai rendszerű szakképzésben ellátott feladatok után a szakképző iskola nem állami fenntartója akkor jogosult költségvetési hozzájárulásra, ha a fővárosi, megyei kormányhivatallal szakképzési megállapodást kötött.
+(7)–(9)
 
-(8) A fővárosi, megyei kormányhivatal – a szakképzésért és felnőttképzésért felelős miniszter egyetértésével – legfeljebb öt évre szakképzési megállapodást köthet a szakképző iskola azon nem állami fenntartójával, amelynek nincs jogszabály alapján feladatellátási kötelezettsége az e törvény szerint ellátott vagy ellátni kívánt feladatok tekintetében az adott megyében vagy a fővárosban. A szakképzésért és felnőttképzésért felelős miniszter egyetértési jogát az állami szakképzési és felnőttképzési szerv vezetője útján gyakorolja. A szakképzési megállapodás alapján a szakképző iskola nem állami fenntartója költségvetési hozzájárulásra csak az (5) bekezdés szerinti döntésnek megfelelő képzések után, az ingyenes képzésben való részvételre jogosult tanulói után jogosult.
-
-(9) Amennyiben a szakképző iskola szakképzési megállapodással rendelkező nem állami fenntartója a szakképző iskolának a nemzeti köznevelésről szóló törvény szerinti átszervezéséről dönt, a fenntartó kezdeményezésére a szakképzési megállapodást a döntést követő harminc napon belül felül kell vizsgálni, és szükség esetén módosítani kell.
-
-(10) A költségvetési hozzájárulást folyósító szerv, valamint a kormányhivatal hatósági ellenőrzése keretében ellenőrzi a szakképzési megállapodásban foglaltak és az (5) bekezdésben foglalt döntés betartását.
+(10) A költségvetési hozzájárulást folyósító szerv, valamint a kormányhivatal hatósági ellenőrzése keretében a (6) bekezdésben foglaltak figyelembevételével ellenőrzi az (5) bekezdésben foglalt döntés betartását.
 
 (11) Az állam az e törvény értelmében ingyenesen biztosítandó képzésekhez költségvetési hozzájárulást biztosít.
 
@@ -1473,6 +1493,8 @@ vonatkozó adatokat, valamint
 
 88. § (1) Felhatalmazást kap a Kormány, hogy az állami szakképzési és felnőttképzési szervet rendeletben jelölje ki.
 
+(1a) Felhatalmazást kap a Kormány, hogy a szakképzési feladatot ellátó hatóságot rendeletben kijelölje és a feladatait meghatározza.
+
 (2) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
 
 - a) a gyakorlati képzés folytatására jogosult szervezetek nyilvántartása tartalmának és a nyilvántartásba-vételi eljárásnak a részletes szabályait, a nyilvántartásba vétel részletes feltételeit, valamint a 26. § (1) bekezdésében meghatározott, a gyakorlati képzés folytatására jogosult szervezet kizárólag gyakorlati képzési célt szolgáló tanműhelyként történő nyilvántartásba vétel részletes feltételeit,
@@ -1486,7 +1508,7 @@ vonatkozó adatokat, valamint
 - c) a szakmai vizsgaszabályzatot, a komplex szakmai vizsgák szakmai ellenőrzésének általános szabályait, a komplex szakmai vizsgák – személyes adatok körét nem érintő – adatait tartalmazó központi nyilvántartás vezetésének szabályait, valamint a modulzáró vizsgák szervezésének és lebonyolításának részletes szabályait,
 - d) a szakmai vizsgadíj és a vizsgáztatási díjak kereteit,
 - e) a szakképzés megkezdésének és folytatásának feltételeit,
-- f) a szakképzési megállapodás tartalmát és megkötésének részletes szabályait,
+- f)
 - g) a pályaorientációval és az egész életen át tartó életpálya-tanácsadással kapcsolatos szolgáltatások részletes szabályait, valamint a pályaorientációval és az egész életen át tartó életpálya-tanácsadással kapcsolatos szolgáltatásokat koordináló szervezetet, továbbá az életpálya-tanácsadást nyújtó szervezetek feladatait,
 - h) a pályakövetési rendszer működtetésének részletes szabályait, a pályakövetési rendszer részére történő adatszolgáltatás eljárási rendjét, továbbá kijelöli a pályakövetési rendszer működtetéséért felelős szervet.
 
@@ -1653,7 +1675,7 @@ szerezhetnek.
 
 (1a)
 
-(2) Az állami intézményfenntartó központ által fenntartott intézmény esetében az oktatásért felelős miniszter a nemzeti köznevelésről szóló 2011. évi CXC. törvény 84. § (7) bekezdése szerinti, szakképzési feladatellátást érintő döntést kizárólag a szakképzésért és felnőttképzésért felelős miniszter egyetértésével hozhat.
+(2) A tankerületi központ által fenntartott intézmény esetében az oktatásért felelős miniszter a nemzeti köznevelésről szóló 2011. évi CXC. törvény 84. § (7) bekezdése szerinti, szakképzési feladatellátást érintő döntést kizárólag a szakképzésért és felnőttképzésért felelős miniszter egyetértésével hozhat.
 
 (3) Az önkormányzat tulajdonosi részesedésével működő gazdasági társaság a térségi integrált szakképző központ feladatait és az ezzel összefüggő projekt-végrehajtási és projekt-fenntartási kötelezettségeit 2015. július 1-jei hatállyal átadja a szakképzési centrum részére.
 

@@ -87,7 +87,7 @@ rendelkezéseivel összhangban kell alkalmazni.
 
 (4) Bírósági felülvizsgálat iránti kérelem esetén a határozat végrehajtása felfüggesztésének nincs helye, ha a Hivatal a távhőszolgáltatási támogatás igénybevételének jogszerűsége tárgyában döntött.
 
-5. § (1) A Hivatal eljárására a Vet.-ben a Hivatal eljárására vonatkozó általános szabályokat kell alkalmazni. A Hivatal eljárásának megindítását kérelmező elektronikus úton nem jogosult a Hivatallal kapcsolatot tartani.
+5. § (1) A Hivatal eljárására a Vet.-ben a Hivatal eljárására vonatkozó általános szabályokat kell alkalmazni.
 
 (2) A Hivatal részére felügyeleti tevékenységéért a hatáskörébe tartozó engedélyesek felügyeleti díjat kötelesek fizetni, amelynek mértéke az engedélyes tevékenysége előző évi nettó árbevételének 0,06%-a. Ha a tárgyévet megelőző évben az engedélyesnek nem volt nettó árbevétele, vagy nem volt teljes évre vonatkozó nettó árbevétele, akkor éves felügyeleti díj előleget kell fizetni, amelynek mértéke a tárgyévre vonatkozó üzleti tervben az engedélyköteles tevékenységből elérni tervezett nettó árbevétel 0,06%-a. Ha a tárgyév tényleges nettó árbevétele nem azonos az üzleti tervben tervezettel, a különbözet 0,06%-ával a tárgyévet követő évben a fizetendő felügyeleti díj mértékét megfelelően módosítani kell.
 
@@ -340,13 +340,13 @@ okozott kárt az ingatlan tulajdonosának, használójának (a továbbiakban egy
 
 (5) Az előmunkálati jog időbeli hatálya egyszer, további egy évvel meghosszabbítható.
 
-(6) Az előmunkálati jogot a műszaki biztonsági szerv engedélyezi. Az eljárásban az ügyfél nem jogosult és a hatóság nem köteles elektronikus úton kapcsolatot tartani. Az eljárás részletes szabályait a Kormány rendeletben határozza meg.
+(6) Az előmunkálati jogot a műszaki biztonsági szerv engedélyezi. Az eljárás részletes szabályait a Kormány rendeletben határozza meg.
 
 ### Vezetékjog
 
 23. § (1) Távhővezeték-hálózat vagy annak részét képező vezeték közterületnek, közútnak és vasúti pályának (a továbbiakban együtt: közterület) nem minősülő idegen ingatlanon történő elhelyezésére és üzemeltetésére kártalanítás ellenében, hatósági határozattal vezetékjog létesíthető a távhőszolgáltató javára, ha az az ingatlan használatát lényegesen nem akadályozza. Nem kell vezetékjogot megállapítani a közterületen létesített távhővezeték-hálózatra vagy annak részét képező vezetékre és annak idegen ingatlant érintő biztonsági övezetére. Ebben az övezetben építmény létesítése esetén, ha az építmény használati jellege indokolja, az illetékes vezetékjogot engedélyező hatóság kötelezheti az engedélyest a biztonsági övezet csökkentésére.
 
-(2) A vezetékjogot a műszaki biztonsági szerv engedélyezi. Az eljárásban az ügyfél nem jogosult és a hatóság nem köteles elektronikus úton kapcsolatot tartani. A vezetékjog iránti kérelemhez csatolandó műszaki leírásokat, helyszínrajzokat, ütemtervet a kormány az e törvény végrehajtására kiadott rendeletében meghatározott tartalommal, méretben és példányszámban az engedélyesnek kell elkészítenie.
+(2) A vezetékjogot a műszaki biztonsági szerv engedélyezi. A vezetékjog iránti kérelemhez csatolandó műszaki leírásokat, helyszínrajzokat, ütemtervet a kormány az e törvény végrehajtására kiadott rendeletében meghatározott tartalommal, méretben és példányszámban az engedélyesnek kell elkészítenie.
 
 (3) Az engedélyes a vezetékjog alapján az idegen ingatlanon
 
@@ -425,7 +425,12 @@ A FELHASZNÁLÓ ÉS A DÍJFIZETŐ KÖZÖTTI JOGVISZONY
 
 ### A távhőtermelő és a távhőszolgáltató közötti jogviszony
 
-35. § A távhőtermelőt és a távhőszolgáltatót egymással a polgári jog szabályai szerinti, éves és hosszú távú szerződéskötési kötelezettség terheli a távhőellátás biztonságát garantáló kapacitás mértékéig.
+35. § A távhőtermelőt és a távhőszolgáltatót egymással a polgári jog szabályai szerinti
+
+- a) éves és
+- b) az éves szerződés lejártát követő legalább további két évre szóló
+
+szerződéskötési kötelezettség terheli a távhőellátás biztonságát garantáló kapacitás mértékéig.
 
 ### Igénybejelentés, tájékoztatás
 
@@ -627,13 +632,26 @@ meghatározott szerződésszegést követi el.
 
 (7) A távhőszolgáltatás felfüggesztésével, valamint a felfüggesztés megszüntetésével felmerült költségeket a távhőszolgáltató jogosult a szerződésszegés elkövetőjére áthárítani. A közszolgáltatási szerződés nélküli távhőfogyasztás esetén – az ebből származó jogkövetkezményekért – az érintett ingatlan ingatlan-nyilvántartás szerinti tulajdonosa felel.
 
-(8) A járási hivatal elrendelheti a távhőszolgáltató bejutását a felhasználási helyre, ha a felhasználó, illetve díjfizető nem teszi lehetővé:
+(8) A járásbíróság nemperes eljárásban elrendelheti a távhőszolgáltató bejutását a felhasználási helyre, ha a felhasználó, illetve díjfizető nem teszi lehetővé:
 
 - a) a távhőelszámolási vagy költségmegosztó mérőeszköz leolvasását, ellenőrzését,
 - b) szerződésszegés vagy szabálytalan vételezés esetén a távhőszolgáltatás felfüggesztését, illetve
 - c) a felhasználói berendezés ellenőrzését.
 
-(9) A járási hivatal a (8) bekezdés szerinti határozatát az energiaellátás folyamatos biztosítása érdekében fellebbezésre tekintet nélkül végrehajthatóvá nyilváníthatja.
+(9) A távhőszolgáltató akkor kezdeményezheti a felhasználási helyre való bejutás biztosítása iránti kérelem elbírálását, ha
+
+- a) a felhasználót a felhasználási helyre történő bejutás lehetőségének biztosítására legalább két alkalommal írásban felhívta, és
+- b) az adott felhasználási helyre történő bejutási kísérlete sikertelen volt.
+
+(10) A nemperes eljárásban bírósági titkár első fokon önállóan eljárhat.
+
+(11) A nemperes eljárásban a bíróság elsődlegesen a rendelkezésre álló iratok és adatok alapján dönt.
+
+(12) A bíróság – ha a döntéséhez szükséges – a feleket meghallgathatja és a felek indítványára további bizonyítást rendelhet el.
+
+(13) A polgári nemperes eljárásban nincs helye perújításnak és felülvizsgálatnak.
+
+(14) A polgári nemperes eljárásra egyebekben a polgári perrendtartásról szóló 1952. évi III. törvény – a nemperes eljárás sajátosságaiból eredő eltérésekkel – megfelelően irányadó.
 
 ### A közszolgáltatási szerződés felmondása alóli mentesség
 
@@ -864,5 +882,7 @@ megállapodásokat.
 (5)
 
 (6)
+
+61/A. § Ha a Hivatal az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
 62. § Ez a törvény az energiahatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módosításáról, valamint a 2004/8/EK és a 2006/32/EK irányelv hatályon kívül helyezéséről szóló, 2012. október 25-i 2012/27/EU európai parlamenti és tanácsi irányelv 9–11. cikkének való megfelelést szolgálja.

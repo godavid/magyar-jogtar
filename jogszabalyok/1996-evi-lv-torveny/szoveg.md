@@ -496,9 +496,33 @@ hivatalból visszavonja.
 
 (7) Magyarország állatföldrajzi környezetében nem honos vadfaj vadászati célú telepítését a vadászati hatóság csak vadaskertbe engedélyezheti. A vadászati hatóság idegenhonos inváziós faj telepítését nem engedélyezi.
 
+(8) Ha a vadászati hatóság eljárása idegenhonos inváziós fajt érint, a vadászati hatóság
+
+- a) az 1143/2014/EU európai parlamenti és tanácsi rendelet, valamint
+- b) a természet védelméről szóló törvény idegenhonos inváziós fajokkal kapcsolatos
+
+rendelkezéseit is alkalmazza.
+
 29. § (1) Tilos a vad kínzása. A vad elejtése, elfogása nem járhat annak kínzásával.
 
 (2) A vadász köteles az általa sebzett vagy az egyébként súlyosan beteg vadat annak elejtése céljából felkutatni. A vadat – kímélete érdekében – gyors és azonnali halált okozó lövéssel kell elejteni.
+
+29/A. § (1) Vadászterületen vadgazdálkodási, vadászati létesítmény a föld használójának előzetes hozzájárulásával létesíthető.
+
+(2) Ha a vadászterületen korábban létesített létesítmények, berendezések tulajdonjogának, illetve használatának kérdésében a vadgazdálkodási üzemterv jóváhagyásáig nem jön létre megállapodás, a létesítmények, berendezések létesítője a jogalap nélküli gazdagodás szabályai szerint megtérítési igénnyel léphet fel a vadászatra jogosulttal szemben.
+
+(3) Vadgazdálkodási, vadászati létesítmény
+
+- a) védett természeti területen a természetvédelmi hatóság, illetve
+- b) a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen a katonai hatóság
+
+engedélyével létesíthető.
+
+(4) Vadászterületen – a (3) bekezdésben meghatározott, illetve az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény hatálya alá tartozó területeket kivéve – a vad mozgását befolyásoló, tartós telepítésű kerítés a vadászatra jogosult hozzájárulásával, és a vadászati hatóság engedélyével létesíthető.
+
+(5) A vadászterületen, a (4) bekezdés szerinti kerítés létesítésekor, figyelemmel kell lenni a vad természetes életfeltételeire, jellemző mozgásirányára.
+
+(6) A vadászterületen engedély nélkül létesített kerítés esetén a vadászterületen kerítés létesítését engedélyező hatóság határoz a vad mozgását befolyásoló, tartós telepítésű kerítés fennmaradásáról vagy annak lebontásáról. A kerítés fennmaradásának engedélyezése nem mentesíti a kerítés létesítőjét az engedély nélküli kerítés létesítése miatti felelőssége alól.
 
 #### 30. §
 
@@ -674,26 +698,38 @@ kell biztosítani.
 
 ### Vadgazdálkodási üzemterv
 
-44. § (1) A vadászati jogot a vadászterületre vonatkozóan a tájegységi vadgazdálkodási terv alapján elkészített – e törvény eltérő rendelkezése hiányában – tíz évre szóló vadgazdálkodási üzemterv előírásai szerint lehet gyakorolni vagy hasznosítani.
+44. § (1) A vadászati jogot a vadászterületre vonatkozóan a tájegységi vadgazdálkodási terv alapján elkészített, húsz évre szóló vadgazdálkodási üzemterv előírásai szerint lehet gyakorolni vagy hasznosítani.
 
-(2) A körzeti vadgazdálkodási terv a vadgazdálkodási üzemterv hatályát az (1) bekezdésben foglaltaknál rövidebb időtartamban is meghatározhatja, feltéve, ha a vadászati jog szakszerű hasznosítása egyébként biztosítható.
+(2) A tájegységi vadgazdálkodási terv hatálybalépésétől számított három hónapon belül a tájegységi fővadász elkészíti a vadászatra jogosult részére a vadgazdálkodási üzemtervre vonatkozó javaslatát. A vadászatra jogosult a tájegységi vadgazdálkodási terv hatálybalépésétől számított hat hónapon belül jóváhagyásra benyújtja a vadászati hatóság részére a vadászterületre vonatkozó vadgazdálkodási üzemtervet.
 
-(3) A vadgazdálkodási üzemterv elkészítése során figyelemmel kell lenni a vadászterületen élő vadfajok genetikai értékének megőrzésére, továbbá a vadállomány túlszaporodásából eredő károk megelőzésére.
+(3) A vadgazdálkodási üzemterv elkészítése során figyelemmel kell lenni
 
-(4) A vadászatra jogosult a vadgazdálkodási üzemterv elkészítéséről a tájegységi vadgazdálkodási tervnek az adott vadászterületre vonatkozó előírásai szerint köteles gondoskodni.
+- a) a vadászterületen élő vadfajok genetikai értékének megőrzésére,
+- b) a vadállomány egyedsűrűségének megnövekedéséből eredő károk megelőzésére, és
+- c) a környezetével egyensúlyban élő egyedsűrűségű vadállomány tartamos hasznosítására.
+
+(4) A tájegységi fővadász a vadgazdálkodási üzemtervre vonatkozó javaslattételről, illetve a vadászatra jogosult az üzemterv elkészítéséről a tájegységi vadgazdálkodási tervnek az adott vadászterületre vonatkozó előírásai szerint köteles gondoskodni.
 
 (5) A vadászatra jogosult felel a vadgazdálkodási üzemtervben foglaltak végrehajtásáért.
 
 45. § (1) A vadgazdálkodási üzemterv tartalmazza:
 
 - a) a vadászterület azonosító adatait;
-- b) az élőhely általános jellemzését;
+- b)
 - c) a vadászterületen található vadállomány jellemzőit;
 - d) a vadállomány-szabályozás helyi irányelveit;
-- e) a vad takarmányozására, a vadföldgazdálkodásra vonatkozó előírásokat;
+- e)
 - f) a vad és élőhelyének védelmével, továbbá a természet- és tájvédelemmel kapcsolatos kötelezettségeket.
 
 (2) A vadgazdálkodási üzemtervet a vadászati hatóság hagyja jóvá.
+
+(2a) Az üzemtervet és az üzemterv szerinti szakszerű vadgazdálkodást a vadászati hatóság
+
+- a) a tájegységi fővadász szakvéleményének figyelembevételével,
+- b) a tájegységi vadgazdálkodási terv módosításakor, illetve
+- c) ha az élőhely állapotában, a vadászterületen vagy a vadállományban bekövetkezett változás ezt indokolja
+
+kérelemre vagy hivatalból, de legalább hétévenként felülvizsgálja, és szükség esetén dönt a vadgazdálkodási üzemterv módosításáról.
 
 (3) Ha a vadgazdálkodási üzemterv elkészítésekor nem ismert a vadállomány, valamint ha az élőhely állapotában bekövetkezett változás ezt indokolja, a vadászati hatóság kérelemre vagy hivatalból a vadgazdálkodási üzemterv módosításáról határoz.
 
@@ -703,20 +739,20 @@ kell biztosítani.
 
 ### Az éves vadgazdálkodási terv
 
-47. § (1) A jogosult a vadgazdálkodási üzemterv alapján köteles legalább a tárgyév február hónapjának tizenötödik napjáig a vadászterület éves vadgazdálkodási tervét elkészíteni, és azt a vadászati hatósághoz jóváhagyás végett benyújtani.
+47. § (1) A vadászatra jogosult a vadgazdálkodási üzemterv alapján köteles a vadászterület éves vadgazdálkodási tervét elkészíteni és azt legalább a tárgyév február hónapjának tizenötödik napjáig a vadászati hatósághoz jóváhagyás céljából benyújtani.
 
 (2) Az éves vadgazdálkodási terv tartalmazza:
 
 - a)
 - b) vadfajonként az elejthető, elfogható vadlétszámot;
 - c) a vadászterületen vadászat céljából szabadon engedhető mesterségesen tenyésztett vad faját és darabszámát;
-- d) a vad vagy a vadhús értékesítési, illetve vadászrészként történő juttatási tervét;
-- e) a vad takarmányozásával kapcsolatos feladatokat.
+- d) e törvény végrehajtására kiadott rendeletben meghatározott egyéb apróvadfajok gyérítésének végrehajtási tervszámait, eszközeit és ütemezését;
+- e)
 - f)
 
 (3) Az éves vadgazdálkodási tervet a vadászati hatóság hagyja jóvá.
 
-(4) A vadgazdálkodási terv elkészítésének részletes szabályait a miniszter az e törvény felhatalmazása alapján kiadott rendeletben állapítja meg.
+(4) Az éves vadgazdálkodási terv elkészítésének részletes szabályait a miniszter az e törvény felhatalmazása alapján kiadott rendeletben állapítja meg.
 
 ### Országos Vadgazdálkodási Adattár
 
@@ -977,7 +1013,7 @@ lehet elejteni, illetve elfogni.
 
 69. § (1) Vadászni csak a törvény által nem tiltott módon és csak a vadászat rendjének megfelelően lehet.
 
-(2) A vadászatra jogosult felelős a vadászat rendjének megtartásáért. A hatósági vadászaton a vadászat rendjének megtartásáért a vadászati hatóság felel.
+(2) A vadászatra jogosult felelős a vadászat rendjének megtartásáért. A hatósági vadászaton a vadászat rendjének megtartásáért a hatósági vadászat irányítója felel.
 
 (3) A vadász saját felelősségére vesz részt a vadászaton, köteles azonban megtartani a vadászat rendjéért felelős által meghatározott szabályokat.
 
@@ -1266,7 +1302,7 @@ VALAMINT A VADVÉDELMI BÍRSÁG
 
 során közigazgatási eljárásban hozott döntése ellen közigazgatási eljárás keretében fellebbezésnek helye nincs.
 
-89. § (1) A vadászati hatósági feladatokat ellátó személy feladatainak ellátása során jogosult:
+89. § (1) A vadászati hatósági feladatokat ellátó személy, illetve a tájegységi fővadász feladatainak ellátása során jogosult:
 
 - a) külön térítés fizetése nélkül magánúton közlekedni, a vadászterületet bejárni;
 - b) a vadásztól felvilágosítást, adatot, igazolást kérni;
@@ -1304,6 +1340,8 @@ során közigazgatási eljárásban hozott döntése ellen közigazgatási eljá
 - e) ellátja a nemzetközi vadászati együttműködésből adódó kormányzati feladatokat, és kapcsolatot tart a nemzetközi vadászati szervekkel.
 - f)
 
+(3a) A miniszter a fenntartható és szakszerű vadgazdálkodással és vadvédelemmel összefüggő feladatokat tájegységenként tájegységi fővadászok útján látja el.
+
 (4) A miniszter a vadgazdálkodással, a vad, valamint élőhelyének védelmével, továbbá a vadászattal összefüggő szervezési feladatkörében:
 
 - a)
@@ -1327,7 +1365,35 @@ során közigazgatási eljárásban hozott döntése ellen közigazgatási eljá
 - a) természetes személy esetén a nevet, születési nevet, születési helyet, születési időt, anyja nevét, állampolgárságot, lakóhelyet, telephelyet, elérhetőséget (telefonszám, faxszám, e-mail cím, levelezési cím);
 - b) jogi személy, valamint jogi személyiséggel nem rendelkező szervezet esetén a cégnevet, adószámot, székhelyet, telephelyet, elérhetőséget (telefonszám, faxszám, e-mail cím, levelezési cím).
 
-#### 93. §
+93. § (1) A tájegységi fővadász szakirányítási és szaktanácsadási feladatokat lát el.
+
+(2) A tájegységi fővadász szakirányítási feladatkörében eljárva
+
+- a) kezdeményezheti a vadászati jog kényszerhasznosítását;
+- b) közreműködik a zárttéri vadtartás jogszerűségének ellenőrzésében;
+- c) tagként részt vesz a vadászvizsga bizottság munkájában;
+- d) közreműködik a hivatásos vadász jogszerű alkalmazási feltételeinek ellenőrzésében;
+- e) közreműködik a vadgazdálkodási és vadászati tevékenység hatósági ellenőrzésében;
+- f) javaslatot tesz a vadászati tilalom elrendelésére;
+- g) javaslatot tesz vadászati kíméleti területté történő nyilvánításra;
+- h) irányítja a hatósági vadászatot;
+- i) javaslatot tesz a vadgazdálkodási üzemterv tartalmára;
+- j) a vadgazdálkodási üzemtervek időszakos felülvizsgálata során módosítási szakvéleményt ad a vadászati hatóságnak;
+- k) kapcsolatot tart az önkormányzatokkal, a vadászati érdekképviseleti szervekkel, a tulajdonosi közösség képviselőjével, a vadászati és természetvédelmi hatósággal, valamint a nemzeti park igazgatósággal.
+
+(3) A tájegységi fővadász szaktanácsadási feladatkörében eljárva
+
+- a) segíti a vadászatra jogosultat és a gazdálkodót a vadkármegelőzésben és vadkárelhárításban;
+- b) a vadászatra jogosultat segíti a szakszerű vadkár felmérési és térítési eljárásban;
+- c) közreműködik a hivatásos vadászok szakmai tájékoztatásában, továbbképzésében;
+- d) közreműködik a vadászatra jogosultak és a gazdálkodók időszakos szakmai tájékoztatásában, továbbképzésében;
+- e) segíti a szakszerű vadgazdálkodást és vadállomány-hasznosítást;
+- f) a vadászatra jogosult meghívása esetén részt vesz a vadászatra jogosult éves közgyűlésén;
+- g) a vadászatra jogosultnak szakmai segítséget nyújt az éves vadgazdálkodási terv kidolgozásában.
+
+(4) Tájegységi fővadász munkakör ellátására felsőfokú szakirányú végzettséggel, és legalább öt éves szakmai gyakorlattal rendelkező személyt lehet kinevezni.
+
+(5) A tájegységi fővadász a tájegységben levő vadásztársaságnál felelős személy, és a tájegységben levő tulajdonosi közösség képviselője nem lehet.
 
 #### 94. §
 
@@ -1398,6 +1464,8 @@ való megfelelést szolgálja.
 102. § E törvény 37/B. § (1) bekezdése és 67. § (1) és (3) bekezdése a lábfogó csapóvasak Közösségen belüli használatának tilalmáról, valamint a lábfogó csapóvassal, vagy a kíméletes csapdázási szabványoknak nem megfelelő módszerekkel való elejtést alkalmazó országokból származó egyes vadon élő állatfajok prémjének és belőlük előállított árunak a Közösségbe történő behozatala tilalmáról szóló, 1991. november 4-i 3254/91/EGK tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 103. § E törvény 27/A–27/F. §-a a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+103/A. § Ez a törvény az idegenhonos inváziós fajok betelepítésének vagy behurcolásának és terjedésének megelőzéséről és kezeléséről szóló, 2014. október 22-i, 1143/2014/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### Átmeneti rendelkezések
 

@@ -181,24 +181,7 @@ a légiközlekedés biztonsága, a tevékenyég ellátásához szükséges alkal
 
 (10)
 
-3/D. § (1) A következő ügyekben az ügyfél nem jogosult és a hatóság nem köteles elektronikus úton kapcsolatot tartani:
-
-- a) légijármű lajstromba vétele,
-- b) légijármű és légijármű komponens karbantartó szervezetek jóváhagyása,
-- c) légijármű üzemben tartási engedély kiadása és módosítása,
-- d) a 2042/2003/EK rendelet I. melléklet M. rész A. szakasz G. alrész szerinti folyamatos légialkalmasság-irányító szervezet jóváhagyása,
-- e) a 2042/2003/EK rendelet IV. melléklet 147. rész A. szakasz szerinti karbantartó oktató szervezetek jóváhagyása,
-- f) légijármű típusalkalmassági vizsgálata,
-- g) légijármű légialkalmassági felülvizsgálata,
-- h) légijárművet terhelő jelzálogjog és egyéb jog bejegyzése,
-- i)
-- j) a léginavigációs szolgálatok tanúsítása a léginavigációs szolgálatoknak az egységes európai égbolt keretében történő ellátásáról szóló, 2004. március 10-i 550/2004/EK európai parlamenti és tanácsi rendelet alapján,
-- k) üzemben tartók műszaki dokumentációjának jóváhagyása,
-- l) földi kiszolgálási engedély kiadása,
-- m) a légiközlekedéssel kapcsolatos létesítmények és földi berendezések létesítésének, megváltoztatásának és üzemben tartásának, valamint megszüntetésének engedélyezése, állapotának és üzemben tartásának vizsgálata,
-- n) repülőtér létesítésére, fejlesztésére és megszüntetésére vonatkozó engedély kiadása,
-- o) zajgátló védőövezet kijelölése,
-- p) a légiközlekedési balesetekkel és repülőeseményekkel kapcsolatos közigazgatási hatósági eljárás lefolytatása.
+3/D. § (1)
 
 (2) A légiközlekedési hatóságnak a tagállamok és harmadik országok közötti légiközlekedési szolgáltatásokra vonatkozó megállapodások tárgyalásáról és végrehajtásáról szóló, 2004. április 29-i 847/2004/EK európai parlamenti és tanácsi rendelet alapján a korlátozott légiközlekedési jog igénybevétele tárgyában hozott határozata ellen közigazgatási úton fellebbezésnek nincs helye.
 
@@ -399,15 +382,20 @@ a légiközlekedés biztonsága, a tevékenyég ellátásához szükséges alkal
 
 20/A. § (1) Ha e törvény vagy a felhatalmazása alapján kiadott jogszabály légiközlekedési szakkérdésben szakértő igénybevételét írja elő, vagy szakértő igénybevételéhez jogkövetkezményt állapít meg, – az igazságügyi szakértőkről szóló törvény szerint igazságügyi szakértői tevékenység végzésére jogosult szakértő kivételével – szakértőként kizárólag az a személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak annak a szakértőnek az igénybevételéhez fűződnek, aki büntetlen előéletű, nem áll a légiközlekedési szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, továbbá rendelkezik a Kormány rendeletében meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
 
-(2) Aki az (1) bekezdés szerinti szakértői tevékenységet kíván folytatni, köteles az erre irányuló szándékát a légiközlekedési hatóságnak vagy – a Kormány rendeletében meghatározott szakterületek esetében – a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló törvényben meghatározott területi mérnöki kamarának (a továbbiakban: kamara) bejelenteni. A bejelentésben meg kell jelölni a bejelentő természetes személyazonosító adatait, lakcímét, elérhetőségét és iskolai végzettségét.
+(2) Aki az (1) bekezdés szerinti szakértői tevékenységet kíván folytatni, köteles az erre irányuló szándékát
 
-(3) A légiközlekedési hatóság, illetve a kamara a szakértői tevékenység végzésére jogosult, a (2) bekezdés szerinti bejelentést tevő személyekről nyilvántartást vezet, amely tartalmazza a szakértői tevékenység végzésére jogosult személy természetes személyazonosító adatait, lakcímét, elérhetőségét és iskolai végzettségét. A nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
+- a) polgári célú légiközlekedéssel összefüggő szakértői tevékenység esetén a légiközlekedési hatóságnak,
+- b) állami célú légiközlekedéssel kapcsolatos szakértői tevékenység esetén a katonai légügyi hatóságnak, vagy – a Kormány rendeletében meghatározott szakterületek esetében – a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló törvényben meghatározott területi mérnöki kamarának (a továbbiakban: kamara)
+
+bejelenteni. A bejelentésben meg kell jelölni a bejelentő természetes személyazonosító adatait, lakcímét, elérhetőségét és iskolai végzettségét.
+
+(3) A légiközlekedési hatóság, a katonai légügyi hatóság, illetve a kamara a szakértői tevékenység végzésére jogosult – (2) bekezdés szerinti – bejelentést tevő személyekről nyilvántartást vezet, amely tartalmazza a szakértői tevékenység végzésére jogosult személy természetes személyazonosító adatait, lakcímét, elérhetőségét és iskolai végzettségét. A nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 
 (4) Ha hatósági eljárásban légiközlekedési szakkérdésben szakértő kirendelése szükséges, és jogszabály meghatározott szakértő igénybevételét nem írja elő, e § szerinti szakértőt, ennek hiányában az igazságügyi szakértői tevékenységről szóló törvény szerinti igazságügyi szakértői tevékenység végzésére jogosult szakértőt kell kirendelni.
 
-(5) A légiközlekedési hatóság vagy a kamara a légiközlekedési szakértői tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a szakértő büntetlen előéletű-e, és hogy nem áll-e a légiközlekedési szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából a légiközlekedési hatóság vagy a kamara adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a szakértő büntetlen előéletű-e, valamint hogy a légiközlekedési szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
+(5) A légiközlekedési hatóság, a katonai légügyi hatóság, vagy a kamara a légiközlekedési szakértői tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a szakértő büntetlen előéletű-e, és hogy nem áll-e a légiközlekedési szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából a légiközlekedési hatóság, a katonai légügyi hatóság, vagy a kamara adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a szakértő büntetlen előéletű-e, valamint hogy a légiközlekedési szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
 
-(6) Az (5) bekezdés alapján megismert személyes adatokat a légiközlekedési hatóság vagy a kamara a hatósági ellenőrzés időtartamára vagy a szakértő nyilvántartásból való törléséről szóló döntés jogerőre emelkedéséig kezeli.
+(6) Az (5) bekezdés alapján megismert személyes adatokat a légiközlekedési hatóság, a katonai légügyi hatóság, vagy a kamara a hatósági ellenőrzés időtartamára vagy a szakértő nyilvántartásból való törléséről szóló döntés jogerőre emelkedéséig kezeli.
 
 20/B. § (1) A 20. § (4) bekezdését a tevékenységnek a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató által határon átnyúló szolgáltatásnyújtás keretében történő folytatására is alkalmazni kell.
 
@@ -415,7 +403,7 @@ a légiközlekedés biztonsága, a tevékenyég ellátásához szükséges alkal
 
 (3) A légijárművel folytatott, gazdasági célú légiközlekedési tevékenységnek nem minősülő személyszállítás és árufuvarozás (ideértve a postai küldemények fuvarozását is), továbbá a bajba jutott vagy eltűnt légijármű megsegítésére, valamint a katasztrófák elleni védekezéssel és a mentéssel összefüggő tevékenység ellátására irányuló kutató-mentő repülés, a légijárművel végzett egészségügyi mentőrepülés és az állami légijárművel végzett repülés határon átnyúló szolgáltatás keretében nem folytatható.
 
-21. § Állami légijármű polgári célú igénybevételéhez az üzemben tartó hozzájárulása után a katonai légügyi hatóság engedélye szükséges.
+21. § Állami légijármű polgári célú igénybevételéhez a katonai légügyi hatóság engedélye szükséges.
 
 ### III. Fejezet — A légiközlekedési, valamint a légiközlekedéssel összefüggő tevékenységek
 
@@ -592,40 +580,55 @@ kezelheti, továbbíthatja, ha az adattovábbítás törvényi feltételei az ad
 
 (8) A személyszállítást végző légifuvarozó köteles az utasokat az adatok felvételével egyidejűleg tájékoztatni az adatok kezelőjéről és az esetleges adatfeldolgozójáról, a róla kezelt adatokról való tájékozódás és az adatok helyesbítésének jogáról, valamint arról, hogy adatait mely szervnek és milyen célból továbbíthatja.
 
-27/C. § (1) A légiközlekedés és az utasok védelmének biztosítása, a terrorizmussal és a szervezett bűnözéssel összefüggő bűncselekmények felderítésének és nyomozásának elősegítése, a nemzetbiztonságot veszélyeztető törekvések és tevékenységek elhárítását célzó intézkedések elősegítése és az illegális migráció megelőzésével, megakadályozásával kapcsolatos feladatok elősegítése céljából a személyszállítást végző légifuvarozó az utas vagy megbízottja, illetve a személyszállítást végző légifuvarozó megbízásából jegyértékesítést végző szolgáltató adatszolgáltatása alapján, schengeni határátlépési államon kívülről Magyarország területére mint cél vagy tranzitállomásra utazó, valamint Magyarország területéről schengeni határátlépési államon kívülre induló utassal összefüggésben az alábbi adatokat kezelheti:
+27/C. § (1) A légiközlekedés és az utasok védelmének biztosítása érdekében, a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény (a továbbiakban: Nbtv.) 3. számú melléklete szerinti bűncselekmények megelőzésének, felderítésének, nyomozásának és üldözésének elősegítésével kapcsolatos feladatok elősegítése céljából a személyszállítást végző légifuvarozó az utas vagy megbízottja, illetve a személyszállítást végző légifuvarozó megbízásából jegyértékesítést végző szolgáltató adatszolgáltatása alapján, a Magyarország területére mint cél- vagy tranzitállomásra utazó, valamint Magyarország területén kívülre induló utassal összefüggésben az alábbi adatokat kezelheti:
 
-- 1. név (az utas teljes neve, ha a foglalást végző az utastól különböző személy, abban az esetben e személy neve is),
-- 2. az utas neme,
-- 3. az utazási iroda, utazásközvetítő neve,
-- 4. a járat száma,
-- 5. a járat indulási és érkezési ideje,
-- 6. az indulási, a tranzit- és a célállomás,
-- 7. a nyilvántartási helymeghatározó kód (rekord lokátor),
-- 8. a jegykiállítás időpontja,
-- 9. az ülőhely száma és az ülőhellyel kapcsolatos különleges igények és információk,
-- 10. az utas által feladott és kézi poggyászként a légijármű fedélzetére vitt poggyászok száma és az ezekkel kapcsolatos adatok,
-- 11. az utassal együtt utazók neve és utazók száma,
-- 12. az utas által közölt kapcsolattartási adatok, különösen az utas és a vele utazók lakó- és tartózkodási helyének címei, telefonszámaik, e-mail címeik,
-- 13. a hitelkártyával vagy bankszámlával kapcsolatos, az utazási tranzakcióhoz nem kötődő tranzakciós adatok kivételével valamennyi rendelkezésre álló fizetési vagy számlázási információ,
-- 14. a repülőjegyre vonatkozó adatok, így különösen az azt kibocsátó légitársaság neve és a repülőjegy sorszáma,
-- 15. az utazás körülményeire vonatkozó adatok,
-- 16. az úti okmánnyal kapcsolatban rendelkezésre álló adatok (úti okmány típusa, száma, állampolgárság, kibocsátó ország, úti okmány lejárati ideje, születési idő), valamint
-- 17. az 1–16. pontban meghatározott adatok módosításai.
+- a) az utas neve (az utas teljes neve, ha a foglalást végző az utastól különböző személy, abban az esetben e személy neve is),
+- b) az utazási iroda, utazásközvetítő neve,
+- c) a járat indulási és érkezési ideje,
+- d) a járat indulási, tranzit- és célállomása,
+- e) a 2016/681/EU parlamenti és tanács irányelv szerinti nyilvántartási helymeghatározó kód (PNR rekord lokátor),
+- f) a helyfoglalás, a jegykiállítás időpontja,
+- g) az ülőhely száma és az ülőhellyel kapcsolatos különleges igények és információk,
+- h) az utas által feladott és kézi poggyászként a légijármű fedélzetére vitt poggyászok száma és az ezekkel kapcsolatos adatok,
+- i) a 2016/681/EU parlamenti és tanács irányelv szerinti megosztott/kettős utas-nyilvántartási információ, valamint az egy utas-nyilvántartási adathoz kapcsolódó utazók száma, ezek nevei,
+- j) az utas által közölt kapcsolattartási adatok, különösen az utas és a vele utazók lakó- és tartózkodási helyének címe, telefonszámaik, e-mail címeik,
+- k) a hitelkártyával vagy bankszámlával kapcsolatos, az utazási tranzakcióhoz nem kötődő tranzakciós adatok kivételével valamennyi rendelkezésre álló fizetési vagy számlázási információ,
+- l) a repülőjegyre vonatkozó adatok, így különösen az azt kibocsátó légitársaság neve és a repülőjegy sorszáma, a jegykiállítás és az egy útra szóló jegyek dátuma, az automatikus árlekérdezés,
+- m) az utasra vonatkozó, a személyszállítást végző légifuvarozó által kezelt törzsutas-adat információk,
+- n) az utas utazási státusza, ideértve a visszaigazolásokat, az utasfelvételi státuszt, annak a tényét, hogy az utas a jegykezelésre nem jelentkezett, illetve foglalás nélkül utazik,
+- o) 2016/681/EU parlamenti és tanács irányelv szerinti általános megjegyzések (beleértve a felügyelet nélkül utazó kiskorúakra vonatkozó minden rendelkezésre álló információt, így a kiskorú nevét és nemét, életkorát, az általa beszélt nyelvet vagy nyelveket, az indulási oldalon megjelent gondviselő nevét és elérhetőségét, valamint a kiskorúhoz fűződő kapcsolatát, az érkezési oldalon a kiskorút váró gondviselő nevét és elérhetőségét, valamint a kiskorúhoz fűződő kapcsolatát, az indulási és az érkezési oldalon a kiskorú kíséretével megbízott személyt),
+- p) az a–o) pontban meghatározott adatok összes korábbi módosítása.
 
 (2) Az utas az (1) bekezdésben meghatározott adatoknak a személyszállítást végző légifuvarozó által meghatározott körét köteles a személyszállítást végző légifuvarozó számára hozzáférhetővé tenni.
 
+(2a) A személyszállítást végző légifuvarozó – az utas hozzájárulásával – kezelheti 2016/681/EU parlamenti és tanács irányelv szerinti előzetes utasinformációs adatokat (a továbbiakban: előzetes utasinformációs adat), különösen az utas személyi azonosító okmánya típusát, számát, kiállító országát és lejárati idejét, az utas állampolgárságát, családi nevét, utónevét, nemét, születési idejét, a járatszámot, az indulás dátumát, az érkezés dátumát, az indulási repülőteret, az érkezési repülőteret, az indulási időt és az érkezési időt.
+
+(2b) Ha a személyszállítást végző légifuvarozó előzetes utasinformációs adatot gyűjt, a személyszállítást végző légifuvarozó az előzetes utasinformációs adatokat az (1) bekezdésben meghatározottak adatokra vonatkozó szabályok szerint és módszerrel köteles kezelni és továbbítani a Terrorelhárítási Információs és Bűnügyi Elemző Központ felé.
+
 (3) A személyszállítást végző légifuvarozó a légi jármű indulását megelőző 345. naptól
 
-- a) az (1) bekezdés 1., 6. és 13. pontjában – továbbá ezekhez kapcsolódóan az (1) bekezdés 17. pontjában – meghatározott adatok tekintetében, ha az utas ettől eltérő időtartamú adatkezeléshez, megfelelő tájékoztatást követően, önkéntesen és kifejezetten nem járult hozzá, a légi jármű utolsó célállomáshelyére történő beérkezésétől számított 60 napig, valamint
-- b) az (1) bekezdés 2–5., 7–12. és 14–16. pontjában – továbbá ezekhez kapcsolódóan az (1) bekezdés 17. pontjában – meghatározott adatokat a légi jármű utolsó célállomáshelyére történő beérkezésétől számított 24 óráig
+- a) az (1) bekezdés a), d) és k) pontjában – továbbá ezekhez kapcsolódóan az (1) bekezdés p) pontjában – meghatározott adatok tekintetében, ha az utas ettől eltérő időtartamú adatkezeléshez, megfelelő tájékoztatást követően, önkéntesen és kifejezetten nem járult hozzá, a légi jármű utolsó célállomáshelyére történő beérkezésétől számított 60 napig, valamint
+- b) az (1) bekezdés b) és c) pontjában, e–j) pontjában, l–o) pontjában és (2a) bekezdésében – továbbá ezekhez kapcsolódóan az (1) bekezdés p) pontjában – meghatározott adatokat a légi jármű utolsó célállomáshelyére történő beérkezésétől számított 24 óráig
 
 kezelheti.
 
 (4) Az (1) bekezdésben meghatározott adatok – a foglaló kezdeményezése alapján – mindaddig megváltoztathatók, amíg az érintett járatra történő utasfelvételi eljárás be nem fejeződik.
 
-(5) A személyszállítást végző légifuvarozó köteles az (1) bekezdésben meghatározott adatok közül a rendelkezésére álló adatokat a járat tervezett indulási ideje előtt 12 órával, valamint az utasfelvételi eljárás befejezését követően, közvetlenül a légi jármű felszállása után haladéktalanul továbbítani a Terrorelhárítási Információs és Bűnügyi Elemző Központnak az utasadat-információs tevékenységéhez kapcsolódó feladatellátáshoz.
+(5) A személyszállítást végző légifuvarozó köteles az (1) és (2a) bekezdésben meghatározott adatok közül a rendelkezésére álló adatokat
+
+- a) a járat tervezett indulási ideje előtt 24 órával, valamint közvetlenül a beszállás lezárását követően haladéktalanul továbbítani a Terrorelhárítási Információs és Bűnügyi Elemző Központnak az utasadat-információs tevékenységéhez kapcsolódó feladatellátáshoz,
+- b) – ha az adatokhoz való hozzáférés az Nbtv. 3. számú melléklete szerinti bűncselekménnyel kapcsolatos konkrét és tényleges fenyegetésre adandó válaszhoz szükséges – a Terrorelhárítási Információs és Bűnügyi Elemző Központ egyedi megkeresése alapján a Terrorelhárítási Információs és Bűnügyi Elemző Központ elemző-értékelő tevékenysége végzéséhez továbbítani.
+
+(5a) Az (5) bekezdés a) pontja szerinti esetben a személyszállítást végző légifuvarozó a második adattovábbítást az első adattovábbításhoz képesti változások megjelölésével is teljesítheti.
+
+(5b) Ha a légi járat utashelyeit egy vagy több személyszállítást végző légifuvarozó közösen értékesíti, a járaton utazó összes utas (1) és (2a) bekezdésben meghatározott adatait a légi járatot üzemeltető személyszállítást végző légifuvarozó köteles továbbítani.
 
 (6) A személyszállítást végző légifuvarozó köteles az utasokat az adatok felvételével egyidejűleg tájékoztatni az adatok átadásáról, kezelőjéről, az adatkezelés céljáról, időtartamáról és az esetleges adatfeldolgozóról, valamint az utasról kezelt adatokról való tájékozódás és az adatok helyesbítésének jogáról, továbbá arról, hogy adatait mely szervnek és milyen célból továbbíthatja.
+
+27/D. § A 27/C. § alkalmazásában
+
+- a) beszállás lezárása: amikor az utasok beszálltak a felszállásra készülő repülőgépre és az utasok beszállása, vagy kiszállása már nem lehetséges,
+- b) utas: a személyzet tagja kivételével az egy légi jármű fedélzetén a személyszállítást végző légifuvarozó hozzájárulásával szállított vagy szállítandó személy – beleértve a tranzit- vagy átszálló utasokat is –, akinek a személyes adatai kezeléséhez való hozzájárulását az utasjegyzékbe történő felvétele igazolja.
 
 ### A légijárművel végzett egyéb gazdasági tevékenység
 
@@ -1105,7 +1108,7 @@ továbbá Magyarország légterében a légiforgalmi navigációs, távközlési
 
 (2) A repülőtéri repüléstájékoztató szolgálatot a miniszter abban az esetben jelöli ki, ha a repülőtér üzemben tartója és a szolgálatot ellátni kívánó szervezet között érvényes megállapodás van és a szolgálatot ellátni kívánó szervezet rendelkezik a légiközlekedési hatóság által kiadott érvényes tanúsítvánnyal.
 
-(3) A kijelölés iránti kérelmet az érintett repülőtér üzemben tartója a légiközlekedési hatóság útján juttatja el a miniszterhez. A kérelemhez a repülőtér üzemben tartója mellékeli a közte és a repülőtéri repüléstájékoztató szolgálat között a szolgálat ellátása céljából megkötött megállapodás és a szolgálatot ellátni kívánó szervezet légiközlekedési hatóság által kiadott, a szolgálat ellátására jogosító tanúsítványának másolatát. A légiközlekedési hatóság a kérelmet és mellékleteit az adott szervezet részére kiadott, a nyújtani kívánt szolgálat ellátására jogosító tanúsítvány érvényességére vonatkozó nyilatkozatával együtt továbbítja a miniszternek.
+(3) A kijelölés iránti kérelmet az érintett repülőtér üzemben tartója a légiközlekedési hatóság útján juttatja el a miniszterhez. A kérelemhez a repülőtér üzemben tartója mellékeli a közte és a repülőtéri repüléstájékoztató szolgálat között a szolgálat ellátása céljából megkötött megállapodás másolatát. A légiközlekedési hatóság a kérelmet és mellékleteit az adott szervezet részére kiadott, a nyújtani kívánt szolgálat ellátására jogosító tanúsítvány érvényességére vonatkozó nyilatkozatával együtt továbbítja a miniszternek.
 
 63. § A légiforgalmi szolgálatok ellátásának és eljárásainak részletes szabályait a miniszter a honvédelemért felelős miniszterrel egyetértésben rendeletben határozza meg.
 
@@ -1171,7 +1174,7 @@ továbbá Magyarország légterében a légiforgalmi navigációs, távközlési
 
 (6) A Repülésbiztonság-irányítási Rendszer működését a légiközlekedési hatóság ellenőrzi. Ennek keretében a légiközlekedési hatóság jogosult a kiadott engedélyek felfüggesztésére vagy visszavonására.
 
-(7) A légiközlekedési hatóság a közlekedésbiztonsági szervezettel együttműködve végzi el a 376/2014/EU európai parlamenti és tanácsi rendelet 13. cikk (6) bekezdésében meghatározott események elemzését.
+(7) A légiközlekedési hatóság a közlekedésbiztonsági szervvel együttműködve végzi el a 376/2014/EU európai parlamenti és tanácsi rendelet 13. cikk (6) bekezdésében meghatározott események elemzését.
 
 (8) A repülésbiztonsági kockázatok azonosítása és a szükséges intézkedések meghozatala érdekében a 376/2014/EU európai parlamenti és tanácsi rendeletben meghatározott szervezetek a 376/2014/EU európai parlamenti és tanácsi rendelet 13. cikk (4) bekezdésében meghatározott elemzést megküldik a közlekedésbiztonsági szervnek.
 
@@ -1424,7 +1427,7 @@ folytatja le.
 
 ## KILENCEDIK RÉSZ — VEGYES ÉS ZÁRÓ RENDELKEZÉSEK
 
-#### 72. §
+72. § Ha a hatóság az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
 72/A. § Az Európai Légiközlekedés Biztonsági Ügynökségben való magyar képviselet biztosításáról, az ügyek viteléről és a döntések végrehajtásáról a miniszter gondoskodik.
 
@@ -1589,7 +1592,8 @@ rendeletben állapítsa meg.
 - b) a Tanács 2000/79/EK irányelve (2000. november 27.) az Európai Légitársaságok Szövetsége (AEA), az Európai Közlekedési és Szállítási Dolgozók Szövetsége (ETF), az Európai Közforgalmú Pilóták Szövetsége (ECA), az Európai Regionális Légitársaságok Szövetsége (ERA) és a Légiszállítók Nemzetközi Szövetsége (IACA) által kötött, a polgári repülésben dolgozó utazó munkavállalók munkaidejének szervezéséről szóló európai megállapodásról – a polgári repülés hajózó személyzete egyes tagjainak repülési idejéről szóló 44/2009. (IX. 4.) KHEM rendelettel együtt;
 - c) az Európai Parlament és a Tanács 2004/36/EK irányelve (2004. április 21.) a harmadik országok közösségi repülőtereket használó légijárműveinek biztonságáról, a 3. cikk kivételével;
 - d) a Tanács 2004/82/EK irányelve (2004. április 29.) a fuvarozóknak az utasokkal kapcsolatos adatok közlésére vonatkozó kötelezettségéről, 3. és 6. cikk;
-- e) Az Európai Parlament és a Tanács 2009/12/EK irányelve (2009. március 11.) a repülőtéri díjakról.
+- e) Az Európai Parlament és a Tanács 2009/12/EK irányelve (2009. március 11.) a repülőtéri díjakról;
+- f) az utas-nyilvántartási adatállománynak (PNR) a terrorista bűncselekmények és súlyos bűncselekmények megelőzése, felderítése és a vádeljárás lefolytatása érdekébe történő felhasználásáról szóló 2016. április 27-i 2016/681/EU európai parlamenti és tanácsi irányelv.
 
 75. § (1) Ez a törvény 1996. július 1. napján lép hatályba.
 

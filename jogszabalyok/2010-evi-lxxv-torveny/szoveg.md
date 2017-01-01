@@ -7,7 +7,7 @@ az egyszerűsített foglalkoztatásról
 - a) mezőgazdasági, továbbá turisztikai idénymunkára vagy
 - b) alkalmi munkára.
 
-(1a) E törvény szabályait kell alkalmazni továbbá abban az esetben, ha foglalkoztatási szövetkezet a tagjait munkaerő-kölcsönzés keretében a 2. § 1. és 2. pontjában meghatározott idénymunkára kölcsönzi ki azzal, hogy munkáltató alatt a foglalkoztatási szövetkezetet kell érteni.
+(1a)
 
 (2) Az alkalmi munkára irányuló egyszerűsített foglalkoztatás esetén az egyszerűsített munkaviszonyban egy naptári napon legfeljebb foglalkoztatott munkavállalók létszáma – a munkáltatónak a tárgyév első, illetve hetedik hónapját megelőző hat havi, ha a munkáltató ennél rövidebb ideje működik, működésének egész hónapjaira eső átlagos statisztikai létszámát alapul véve – nem haladhatja meg
 
@@ -99,7 +99,7 @@ kiadása érdekében.
 (5) Az (1) bekezdésben foglaltaktól eltérően, ha
 
 - a) a munkavállaló a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek, vagy a Magyarország által kötött kétoldalú szociálpolitikai, szociális biztonsági egyezmény alapján másik tagállamban, illetve egyezményben részes másik államban biztosított és
-- b) a 11. § (4) bekezdés szerinti igazolással, vagy az egyezmény alapján kiállított, az egyezményben részes másik államban fennálló biztosítást tanúsító igazolással rendelkezik,
+- b) a 11. § (3) bekezdése szerinti igazolással, vagy az egyezmény alapján kiállított, az egyezményben részes másik államban fennálló biztosítást tanúsító igazolással rendelkezik,
 
 a munkáltató közterhet nem fizet.
 
@@ -107,7 +107,7 @@ a munkáltató közterhet nem fizet.
 
 (2) A 7. § (2) bekezdésében említett foglalkoztatásból származó bevételből a természetes személynek nem kell jövedelmet megállapítania és bevallást benyújtania, feltéve hogy az egyszerűsített foglalkoztatásból származó bevétele nem haladja meg az egyszerűsített foglalkoztatás naptári napjainak száma és az adóév első napján hatályos kötelező legkisebb munkabér (minimálbér) vagy – ha részére alapbérként, illetve teljesítménybérként legalább a garantált bérminimum 87 százaléka jár – a garantált bérminimum napibérként meghatározott összegének szorzatát (e szorzat a továbbiakban: mentesített keretösszeg).
 
-(3) Amennyiben a természetes személynek a személyi jövedelemadó-bevallási kötelezettségét teljesítenie kell, jövedelemként az (1) bekezdés szerinti összegnek a mentesített keretösszeget meghaladó részét kell figyelembe venni.
+(3) Amennyiben a természetes személynek a személyi jövedelemadó-bevallási kötelezettségét teljesítenie kell, az adóhatóság közreműködése nélkül elkészített bevallásban vagy az állami adóhatóság által összeállított adóbevallási tervezet felhasználásával elkészített személyi jövedelemadó bevallásban jövedelemként az (1) bekezdés szerinti összegnek a mentesített keretösszeget meghaladó részét kell figyelembe venni.
 
 (4) A (2)–(3) bekezdés rendelkezésétől eltérően a természetes személynek a filmipari statisztaként végzett – e törvény hatálya alá tartozó – alkalmi munkából származó bevételéből nem kell jövedelmet megállapítania és bevallást benyújtania.
 
@@ -124,42 +124,39 @@ a munkáltató közterhet nem fizet.
 
 ### Bejelentési és bevallási szabályok
 
-11. § (1) Egyszerűsített foglalkoztatás esetén a munkáltató köteles az illetékes elsőfokú állami adóhatóságnak a munkavégzés megkezdése előtt bejelenteni a (3) bekezdés szerinti adatokat. A munkáltató bejelentési kötelezettségét – választása szerint –
+11. § (1) Egyszerűsített foglalkoztatás esetén a munkáltató köteles az illetékes elsőfokú állami adóhatóságnak a munkavégzés megkezdése előtt bejelenteni a (2) bekezdés szerinti adatokat. A munkáltató bejelentési kötelezettségét
 
-- a) elektronikus úton, kormányzati kézbesítési szolgáltatás igénybevételével (a továbbiakban: ügyfélkapu), vagy
-- b) országos telefonos ügyfélszolgálaton keresztül telefonon teljesítheti.
-- c)
+- a) elektronikus azonosítását követő elektronikus kapcsolattartás útján, vagy
+- b) országos telefonos ügyfélszolgálaton keresztül telefonon
 
-(2) A munkáltató akkor élhet az (1) bekezdés a)–b) pontjában felsorolt bejelentési lehetőségek valamelyikével, ha előzetesen regisztrálta magát az ügyfélkapun.
+teljesíti.
 
-(3) A (2) bekezdés szerinti regisztrációt követően a munkáltató bejelentési kötelezettségét az (1) bekezdés a)–b) pontjában meghatározott módon, az egyszerűsített foglalkoztatás céljából létesített munkaviszonyra vonatkozó alábbi adatok közlésével teljesíti:
+(2) A munkáltató bejelentési kötelezettségét az (1) bekezdésben meghatározott módon, az egyszerűsített foglalkoztatás céljából létesített munkaviszonyra vonatkozó alábbi adatok közlésével teljesíti:
 
 - a) a munkavállaló neve,
 - b) a munkáltató adószáma,
 - c) a munkavállaló adóazonosító jele és társadalombiztosítási azonosító jele,
-- d) az egyszerűsített foglalkoztatás 1. § (1) bekezdése szerinti jellege,
+- d) az egyszerűsített foglalkoztatás 1. § (1) bekezdés szerinti jellege,
 - e) a munkaviszony napjainak száma.
 
-(4) Amennyiben a munkavállaló a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek, vagy a Magyarország által kötött kétoldalú szociálpolitikai, szociális biztonsági egyezmény alapján másik tagállamban, illetve egyezményben részes másik államban biztosított és ezt a munkáltató előtt igazolta, az egyszerűsített foglalkoztatásra irányuló jogviszony létesítésekor ezen körülményt az illetékes állami adóhatóságnak a munkáltató az egyszerűsített foglalkoztatás bejelentésével egyidejűleg bejelenteni köteles.
+(3) Ha a munkavállaló a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek, vagy a Magyarország által kötött kétoldalú szociálpolitikai, szociális biztonsági egyezmény alapján másik tagállamban, illetve egyezményben részes másik államban biztosított, és ezt a munkáltató előtt igazolta, az egyszerűsített foglalkoztatásra irányuló jogviszony létesítésekor ezen körülményt az illetékes állami adóhatóságnak a munkáltató az egyszerűsített foglalkoztatás bejelentésével egyidejűleg bejelenteni köteles.
 
-(5) A munkáltató az (1) bekezdés a)–b) pontjaiban meghatározott esetekben a tárgyhót követő hó 12-éig az egyszerűsítetten foglalkoztatott munkavállaló foglalkoztatásával járó közteher-fizetési kötelezettségének tesz eleget. Bevallási kötelezettségét ezen időpontig az ügyfélkapun történő bevallás benyújtásával teljesíti.
+(4) A munkáltató az (1) bekezdésben meghatározott esetekben a tárgyhót követő hó 12-éig az egyszerűsítetten foglalkoztatott munkavállaló foglalkoztatásával járó közteher-fizetési kötelezettségének tesz eleget. Bevallási kötelezettségét ezen időpontig elektronikusan teljesíti.
 
-(6) Az a munkáltató, aki a 300 ezer forintot, vagy ezt meghaladó összegű adótartozást halmoz fel a 8. § (2) bekezdésében és/vagy a 8. § (3) bekezdés a) pontjában szereplő adók tekintetében, további egyszerűsített foglalkoztatásra nem jogosult mindaddig, míg adótartozását ki nem egyenlíti.
+(5) Az a munkáltató, aki a 300 ezer forintot, vagy ezt meghaladó összegű adótartozást halmoz fel a 8. § (2) bekezdésében és/vagy a 8. § (3) bekezdés a) pontjában szereplő adók tekintetében, további egyszerűsített foglalkoztatásra nem jogosult mindaddig, míg adótartozását ki nem egyenlíti.
 
-(7) Az egyszerűsített foglalkoztatás (1) bekezdés b) pontja szerint történő bejelentése a jogszabályban meghatározott központi ügyfélszolgálat által fenntartott ügyfélvonalon keresztül történik, a bejelentő adóazonosító jelének megadásával. A központi ügyfélszolgálat a bejelentést a jogszabályban meghatározott módon rögzíti, és a bejelentőt a bejelentés eredményéről egyidejűleg tájékoztatja. A központi ügyfélszolgálat az adatokat haladéktalanul továbbítja az állami adóhatóság számára. A központi ügyfélszolgálat a bejelentett adatokat a bejelentést követő ötödik év december 31-éig őrzi meg, azt követően törlésre kerül. A központi ügyfélszolgálat e törvényben meghatározott személyes adatokat, továbbá az adótitkot feladat a teljesítéséhez szükséges mértékben megismerheti és kezelheti.
+(6) Az egyszerűsített foglalkoztatás (1) bekezdés b) pontja szerint történő bejelentése a jogszabályban meghatározott országos telefonos ügyfélszolgálat által fenntartott ügyfélvonalon keresztül történik, a bejelentő adóazonosító jelének megadásával. Az országos telefonos ügyfélszolgálat a bejelentést a jogszabályban meghatározott módon rögzíti, és a bejelentőt a bejelentés eredményéről egyidejűleg tájékoztatja. Az országos telefonos ügyfélszolgálat az adatokat haladéktalanul továbbítja az állami adóhatóság számára. Az országos telefonos ügyfélszolgálat a bejelentett adatokat a bejelentést követő ötödik év december 31-éig őrzi meg, azt követően törlésre kerül. Az országos telefonos ügyfélszolgálat e törvényben meghatározott személyes adatokat, továbbá az adótitkot a feladat teljesítéséhez szükséges mértékben megismerheti és kezelheti.
 
-(8) Az adóhatóság részére teljesített bejelentés esetleges visszavonására és módosítására – így különösen a foglalkoztatás jellegének változása, illetve a munkavégzés meghiúsulása esetén –
+(7) Az adóhatóság részére teljesített bejelentés esetleges visszavonására és módosítására
 
-- a) az egyszerűsített foglalkoztatás bejelentését követő két órán belül,vagy
+- a) az egyszerűsített foglalkoztatás bejelentését követő két órán belül, vagy
 - b) ha a bejelentésben foglaltak szerint a foglalkoztatás a bejelentés napját követő napon kezdődött, vagy ha a bejelentés egy napnál hosszabb időtartamú munkaviszonyra vonatkozott, a módosítás bejelentés napján délelőtt 8 óráig
 
-van lehetőség, ezt követően a munkáltató a közteher-fizetési kötelezettségének köteles eleget tenni. A bejelentés módosítására az (1) bekezdés a)–b) pontjaiban foglaltak szerint kerülhet sor, függetlenül attól, hogy bejelentési kötelezettségének eredetileg a munkáltató melyik módon tett eleget.
+van lehetőség, ezt követően a munkáltató a közteher-fizetési kötelezettségének köteles eleget tenni. A bejelentés módosítására az (1) bekezdésben foglaltak szerint kerülhet sor, függetlenül attól, hogy bejelentési kötelezettségének eredetileg a munkáltató melyik módon tett eleget.
 
-(9) Az állami adóhatóság a hozzá elektronikus úton teljesített bejelentést, illetve a központi ügyfélszolgálattól hozzá érkező bejelentett adatokat az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 16. § (5)–(6) bekezdésének és az egyes pénzügyi tárgyú törvények módosításáról szóló 2006. évi CXXXI. törvény 203. §-ának rendelkezései szerint továbbítja.
+12. § (1) A munkáltató az egyszerűsített foglalkoztatással összefüggő bevallási kötelezettségét az Art. 31. §-ának (2) bekezdése szerint az elektronikusan keresztül teljesíti.
 
-12. § (1) A munkáltató az egyszerűsített foglalkoztatással összefüggő bevallási kötelezettségét az Art. 31. §-ának (2) bekezdése szerint az ügyfélkapun keresztül teljesíti.
-
-(2) Az (1) bekezdéstől eltérően – az Art. 31. § (2) bekezdése szerinti bevallásra elektronikusan kötelezettek kivételével – a munkáltató választhatja azt, hogy bevallási kötelezettségét az Art. 31. § (2) bekezdésében meghatározott adattartalommal papír alapon havonta, a tárgyhót követő hó 12-éig teljesíti.
+(2)
 
 13. § (1) A munkáltató a közteher-fizetési kötelezettséget az Art. 38. §-a rendelkezéseinek megfelelően a tárgyhót követő hó 12-éig, az állami adóhatóság által erre a célra meghatározott beszedési számla javára teljesíti.
 
@@ -167,7 +164,7 @@ van lehetőség, ezt követően a munkáltató a közteher-fizetési kötelezett
 
 (3) A (2) bekezdésben meghatározott átutalást naponta, ettől eltérően a magánnyugdíjpénztárnak történő átutalás esetén a bevallás feldolgozását követően haladéktalanul kell teljesíteni.
 
-(4) A 2010. november 1-je és 2011. december 31-e közötti időszakban esedékes, a magán-nyugdíjpénztári tag után fizetendő közteher összegéből – a (2) bekezdés a) pontjától eltérően – a Nyugdíjbiztosítási Alapot 91,8% illeti meg, és a (2) bekezdés b) pontja nem alkalmazható.
+(4)
 
 14. § Az e törvényben nem szabályozott adózást érintő kérdésekben az Art. rendelkezéseit kell alkalmazni. Nem kell alkalmazni az Art. 46. §-ának azon előírását, hogy a munkáltató az elszámolási évet követő év január 31-éig összesített igazolást ad a magánszemélynek.
 
@@ -199,7 +196,7 @@ rendeletben szabályozza.
 
 17. § Az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvénnyel megállapított 9. § (2) bekezdése az egyszerűsített foglalkoztatásból 2014. évben megszerzett jövedelem személyi jövedelemadó-kötelezettségének megállapítása során is alkalmazható, ha az a természetes személy számára kedvezőbb.
 
-#### 18. §
+18. § Ha az eljáró hatóság az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
 #### 19. §
 

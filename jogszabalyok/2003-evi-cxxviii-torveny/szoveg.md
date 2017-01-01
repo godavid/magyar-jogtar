@@ -165,7 +165,7 @@ ha azt előzetesen a közlekedési hatóság engedélyezte.
 
 (9) A (3)–(4) bekezdés szerinti tilalommal, illetve használati korlátozással bekövetkező akadályoztatás (az ingatlannak gyorsforgalmi út céljára történő rendelkezésre tartása) miatt a tulajdonos (haszonélvező) javára az akadályoztatás (rendelkezésre tartás) időtartamára, jellegére, az akadályoztatást megelőző használathoz képest megállapítható mértékére figyelemmel egyszeri kártalanítást kell fizetni. Ha az ingatlan gyorsforgalmi út céljára történő megszerzése adásvétellel történik, a kártalanítás az építtető és a tulajdonos (haszonélvező) közötti megállapodás tárgya, azt a kisajátítás esetén pedig a kisajátítási kártalanítás összegének megállapítása során, a kisajátítással kapcsolatos esetleges értékveszteség körében kell figyelembe venni.
 
-(10) A (9) bekezdés szerinti kártalanítást adásvételi szerződés vagy kisajátítási eljárás hiányában a tulajdonos kérelmére fővárosi és megyei kormányhivatal állapítja meg a gyorsforgalmi úthálózat fejlesztésére rendelkezésre álló keret terhére. A kártalanítás megállapítására vonatkozó eljárásra a kisajátítási eljárás szabályait kell alkalmazni.
+(10) A (9) bekezdés szerinti kártalanítást adásvételi szerződés vagy kisajátítási eljárás hiányában a tulajdonos kérelmére a kisajátítási hatóság állapítja meg a gyorsforgalmi úthálózat fejlesztésére rendelkezésre álló keret terhére. A kártalanítás megállapítására vonatkozó eljárásra a kisajátítási eljárás szabályait kell alkalmazni.
 
 (11) Az Országos Területrendezési Tervről szóló 2003. évi XXVI. törvény 9. §-ában foglaltakra tekintettel, az (1) bekezdésben említett jóváhagyott tanulmánytervet az érintett települési önkormányzatoknak a – külön jogszabályban meghatározott – településrendezési eszközeikben figyelembe kell venniük és amennyiben szükséges, azt a 18. §-ban említett kormányrendelet hatálybalépésétől számított hat hónapon belül a települési rendezési tervükben, illetve a helyi építési szabályzatukban át kell vezetniük. Az ehhez szükséges pénzügyi fedezetet az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 6. §-ának (4) bekezdésében foglaltak szerint a Kormány a gyorsforgalmi úthálózat fejlesztésére rendelkezésre álló keretből biztosítja az önkormányzatok számára.
 
@@ -238,7 +238,7 @@ ha azt előzetesen a közlekedési hatóság engedélyezte.
 - e) a töltésanyag felhasználásának pontos helyét (a megadott autópálya-szakaszokat km-szelvényekkel),
 - f) a célkitermelőhelyről kitermelhető töltésanyag mennyiségét m3-ben,
 - g) a tevékenységet végző megnevezését, székhelyét,
-- h) a célkitermelőhellyel érintett illetékes bányászati hatáskörében eljáró illetékes kormányhivatal megnevezését.
+- h) a célkitermelőhellyel érintett illetékes bányafelügyelet megnevezését.
 
 (3) Cél-kitermelőhely létesítése nem engedélyezhető külszíni művelésre megállapított bányatelek területén, illetve vízbázisok védőterületén, védett természeti területeken és védetté nyilvánított régészeti lelőhelyeken.
 

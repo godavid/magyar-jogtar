@@ -430,7 +430,7 @@ használhatja fel.
 
 15/B. § Az agrárkamara ellátja:
 
-- a) a mezőgazdasági, vidékfejlesztési szaktanácsadói engedély kiadásával,
+- a) a mezőgazdasági, vidékfejlesztési szaktanácsadói tevékenység végzésére irányuló szándék bejelentésével,
 - b) a mezőgazdasági, vidékfejlesztési szaktanácsadói névjegyzék vezetésével,
 - c) a mezőgazdasági szaktanácsadók képzésének, továbbképzésének és vizsgáztatásának ellenőrzésével,
 - d) a támogatott szaktanácsadói tevékenység szervezésével, koordinálásával,
@@ -504,7 +504,7 @@ használhatja fel.
 - s) az e törvényben meghatározottakon túl a kamarai tisztségviselők összeférhetetlenségének eseteit;
 - t) mindazt, amiben e törvény az alapszabály rendelkezését írja elő.
 
-18/A. § Az agrárkamara az alapszabályában vagy kamarai szabályzatában közigazgatási hatósági ügynek nem minősülő eljárásaiban is lehetővé teheti a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti elektronikus kapcsolattartás szabályainak alkalmazását. Az agrárkamara a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény alapján szabályozott elektronikus ügyintézési szolgáltatásokat vehet igénybe.
+18/A. § Az agrárkamara az alapszabályban vagy kamarai szabályzatában meghatározhatja azon ügyeket, amelyek intézése során akkor is az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény elektronikus ügyintézéssel kapcsolatos rendelkezéseinek alkalmazásával jár el, ha az ügyfél a kamara tagja vagy alkalmazottja, és az eljárás nem minősül közigazgatási hatósági ügynek.
 
 ### Az országos küldöttgyűlés
 

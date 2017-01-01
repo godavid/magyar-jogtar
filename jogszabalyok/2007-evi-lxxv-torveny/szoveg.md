@@ -184,7 +184,7 @@ A piacgazdaság működéséhez szükséges, hogy a gazdálkodók a vagyoni, pé
 
 9/A. § A közérdeklődésre számot tartó gazdálkodók jogszabályi kötelezettségen alapuló könyvvizsgálatát ellátó kamarai tag könyvvizsgálók, könyvvizsgáló cégek minőségellenőrzése esetében hozott döntés ellen a kamarai tag könyvvizsgáló, könyvvizsgáló cég – jogszabály megsértésére való hivatkozással – a határozat közlésétől számított 30 napon belül a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerint bírósághoz fordulhat.
 
-9/B. § A kamara az alapszabályában vagy kamarai önkormányzati szabályzatában közigazgatási hatósági ügynek nem minősülő eljárásaiban is lehetővé teheti a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti elektronikus kapcsolattartás szabályainak alkalmazását. A kamara a közigazgatási hatósági eljárás általános szabályairól szóló törvény alapján szabályozott elektronikus ügyintézési szolgáltatásokat vehet igénybe.
+9/B. § A kamara az alapszabályban vagy kamarai szabályzatában meghatározhatja azon ügyeket, amelyek intézése során akkor is az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény elektronikus ügyintézéssel kapcsolatos rendelkezéseinek alkalmazásával jár el, ha az ügyfél a kamara tagja vagy alkalmazottja, és az eljárás nem minősül közigazgatási hatósági ügynek.
 
 9/C. § A közfelügyeleti hatóság által a 49. § szerinti minősítés tekintetében hozott döntése ellen a kamarai tag könyvvizsgáló, könyvvizsgáló cég – jogszabály megsértésére való hivatkozással – a határozat közlésétől számított 30 napon belül a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerint bírósághoz fordulhat.
 

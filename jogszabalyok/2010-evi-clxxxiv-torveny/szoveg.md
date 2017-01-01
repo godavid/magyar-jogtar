@@ -42,6 +42,8 @@ a bíróságok elnevezéséről, székhelyéről és illetékességi területén
 
 7. § A bíróságok elnevezéséről, székhelyéről és illetékességi területének meghatározásáról szóló 2010. évi CLXXXIV. törvény módosításáról szóló 2015. évi LX. törvény 2. § (1) bekezdésével megállapított 1. mellékletet a 2015. július 1-jét követően indult ügyekben kell alkalmazni.
 
+8. § A Székesfehérvári Törvényszék, valamint a Székesfehérvári Törvényszék illetékességi területéhez tartozó járásbíróságok határozata ellen a 2016. december 31-ét követően előterjesztett jogorvoslatot a Győri Ítélőtábla bírálja el.
+
 ### 1. melléklet a 2010. évi CLXXXIV. törvényhez
 
 A törvényszékek, a járásbíróságok, valamint a közigazgatási és munkaügyi bíróságok illetékességi területe
@@ -1071,14 +1073,11 @@ A törvényszékek, a járásbíróságok, valamint a közigazgatási és munka�
 
 14/9. Ráckevei Járásbíróság
 
-| Apaj | Áporka | Délegyháza |
+| Apaj | Áporka | Dömsöd |
 | --- | --- | --- |
-| Dömsöd | Dunaharaszti | Dunavarsány |
-| Halásztelek | Kiskunlacháza | Lórév |
-| Majosháza | Makád | Ráckeve |
-| Szigetbecse | Szigetcsép | Szigethalom |
-| Szigetszentmárton | Szigetszentmiklós | Szigetújfalu |
-| Taksony | Tököl |  |
+| Kiskunlacháza | Lórév | Makád |
+| Ráckeve | Szigetbecse | Szigetcsép |
+| Szigetszentmárton | Szigetújfalu |  |
 
 14/10. Szentendrei Járásbíróság
 
@@ -1113,10 +1112,17 @@ A törvényszékek, a járásbíróságok, valamint a közigazgatási és munka�
 | Sóskút | Százhalombatta | Tárnok |
 | Törökbálint |  |  |
 
-14/13. Budapest Környéki Közigazgatási és Munkaügyi Bíróság
+14/13. Szigetszentmiklósi Járásbíróság
 
-| Pest megye |  |
-| --- | --- |
+| Délegyháza | Dunaharaszti | Dunavarsány |
+| --- | --- | --- |
+| Halásztelek | Majosháza | Szigethalom |
+| Szigetszentmiklós | Taksony | Tököl |
+
+14/14. Budapest Környéki Közigazgatási és Munkaügyi Bíróság
+
+| Pest megye |  |  |
+| --- | --- | --- |
 
 15. KAPOSVÁRI TÖRVÉNYSZÉK (székhelye: Kaposvár)
 
@@ -1724,9 +1730,8 @@ A törvényszékek, a járásbíróságok, valamint a közigazgatási és munka�
 
 - 1. FŐVÁROSI ÍTÉLŐTÁBLA
 
-| Budapest főváros | Fejér megye | Nógrád megye |
+| Budapest főváros | Nógrád megye | Pest megye |
 | --- | --- | --- |
-| Pest megye |  |  |
 
 - 2. SZEGEDI ÍTÉLŐTÁBLA
 
@@ -1747,9 +1752,9 @@ A törvényszékek, a járásbíróságok, valamint a közigazgatási és munka�
 
 - 5. GYŐRI ÍTÉLŐTÁBLA
 
-| Győr-Moson-Sopron megye | Komárom-Esztergom megye | Vas megye |
+| Fejér megye | Győr-Moson-Sopron megye | Komárom-Esztergom megye |
 | --- | --- | --- |
-| Veszprém megye |  |  |
+| Vas megye | Veszprém megye |  |
 
 ### 3. melléklet a 2010. évi CLXXXIV. törvényhez
 

@@ -152,9 +152,9 @@ Az Országgyűlés a politikai okból életüktől és szabadságuktól jogtalan
 - a) a jogosult 2012. március 30-ig kezdeményezett bírósági eljárásban hozott, elítélését törvénysértővé vagy semmissé nyilvánító jogerős bírósági határozat kézbesítését követő 4 hónapon belül a kárpótlási hatósághoz kárpótlás iránti kérelmet nyújthat be; a határidő elmulasztása jogvesztéssel jár, a mulasztás miatt igazolásnak nincs helye;
 - b) a kárpótlási hatóság az újrafelvételi kérelmet érdemi vizsgálat nélkül elutasítja, ha a határozat jogerőre emelkedésétől számított egy év eltelt;
 - c) ha a 2. § (1) bekezdésének b) pontjában meghatározott sérelem bekövetkezésének a körülményeit okirattal kétséget kizáróan nem lehet bizonyítani, a kárpótlási hatóság az iratokat a további eljárás végett az illetékes bíróságnak küldi meg; a bíróság a Be. 356. §-ában foglalt szabályok szerinti eljárás lefolytatása után dönt; valamint
-- d) a kárpótlási hatóság első fokú határozatának felülvizsgálata iránti perre a kárpótlásra jogosult lakóhelye szerinti közigazgatási és munkaügyi bíróság az illetékes. Ha a kárpótlásra jogosultnak belföldi lakóhelye nincs, a Fővárosi Közigazgatási és Munkaügyi Bíróság jár el.
+- d)
 
-14/A. § A kérelmező nem jogosult elektronikus úton kapcsolatot tartani a kárpótlási hatósággal.
+#### 14/A. §
 
 14/B. § (1) Ha az eljárás során a jogosulttal való kapcsolattartás lehetetlenné vált, a kárpótlási hatóság a döntését a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény hirdetményi kézbesítésre vonatkozó szabályai szerint közli.
 
@@ -188,15 +188,17 @@ Az Országgyűlés a politikai okból életüktől és szabadságuktól jogtalan
 
 20/A. § (1) A pénzben fizetendő kárpótlás kifizetéséről – a kárpótlási hatóság döntése alapján – a nyugdíjfolyósító szerv gondoskodik.
 
-(2) A kifizetéshez szükséges pénzügyi fedezetet a központi költségvetésben tervezni kell, és azt a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv részére havonta – az államháztartásért felelős miniszterrel és a kincstárral kötött megállapodás szerint – át kell utalni. A pénzbeli kárpótlás fizetésének (egyszeri kifizetés, illetőleg életjáradék-folyósítás) költségeit a központi költségvetés biztosítja.
+(2) A kifizetéshez szükséges pénzügyi fedezetet a központi költségvetésben tervezni kell, és azt a központi nyugdíjbiztosítási szerv részére havonta – az államháztartásért felelős miniszterrel és a kincstárral kötött megállapodás szerint – át kell utalni. A pénzbeli kárpótlás fizetésének (egyszeri kifizetés, illetőleg életjáradék-folyósítás) költségeit a központi költségvetés biztosítja.
 
-(3) A Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv a (2) bekezdés szerint rendelkezésre bocsátott összeget elkülönítetten kezeli és tartja nyilván, azt egyéb célokra nem használhatja fel.
+(3) A központi nyugdíjbiztosítási szerv a (2) bekezdés szerint rendelkezésre bocsátott összeget elkülönítetten kezeli és tartja nyilván, azt egyéb célokra nem használhatja fel.
 
 ### Hatálybalépés
 
 21. § (1) Ez a törvény a kihirdetése napját követő 30. napon lép hatályba.
 
 (2) Felhatalmazást kap a Kormány, hogy megállapítsa e törvény végrehajtásához szükséges eljárási szabályokat és a kárpótlás folyósításának szabályait.
+
+22. § Ha a kárpótlási hatóság az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
 ### Melléklet az 1992. évi XXXII. törvény 7. §-ának (1) bekezdéséhez
 

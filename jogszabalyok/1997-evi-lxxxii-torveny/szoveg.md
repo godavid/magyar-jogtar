@@ -452,7 +452,7 @@ kell alkalmazni.
 - c) ugyanazon pénztárnál vezetett saját egyéni számlájára átvezetteti,
 - d) más pénztárnál vezetett egyéni számlájára átutaltatja.
 
-(10) A (9) bekezdés b) pontjában meghatározott esetben a hozzátartozói nyugellátás összegének a Tny. 12. § (6) bekezdésében foglalt rendelkezés szerinti megállapításáról a nyugdíjbiztosítási igazgatási szerv értesíti a magánnyugdíjpénztárat. A magánnyugdíjpénztár a pénztártag tagdíj-kiegészítéssel csökkentett követelését a Tbj. 45. §-ának (4) bekezdésében foglaltak szerint köteles a Nyugdíjbiztosítási Alap részére átutalni.
+(10) A (9) bekezdés b) pontjában meghatározott esetben a hozzátartozói nyugellátás összegének a Tny. 20–21. §-ában foglalt rendelkezés szerinti megállapításáról a nyugdíjbiztosítási igazgatási szerv értesíti a magánnyugdíjpénztárat. A magánnyugdíjpénztár a pénztártag tagdíj-kiegészítéssel csökkentett követelését köteles a Nyugdíjbiztosítási Alap részére átutalni.
 
 ### A szolgáltatás alapvető feltételei,a járadék legkisebb összege
 
@@ -699,7 +699,7 @@ elkövetése miatt jogerős ítéletben megállapította, addig az időpontig, a
 
 (5) A pénztár a nevében, székhelyében, a bevételek tartalékok közötti megosztásának arányában, vezető tisztségviselőiben, és a (2) bekezdésben meghatározott személyekben bekövetkező változást annak időpontját követő 30 napon belül a Felügyeletnek bejelenti. A pénztár a megalakulásakor és a vezető tisztségviselők, illetve a kötelező alkalmazottak, megbízottak változása esetén – ideértve azok újraválasztását vagy újbóli kinevezését is – figyelemmel a (6) bekezdésben foglaltakra csatolja az érintett személy
 
-- a) vonatkozásában a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítványának eredeti példányát,
+- a) vonatkozásában a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítványának eredeti vagy hiteles másolati példányát,
 - b) nyilatkozatát arról, hogy vele szemben jogszabályban meghatározott összeférhetetlenségi ok nem áll fenn,
 - c) a jogszabály által előírt végzettségét, vagy gyakorlatát igazoló dokumentumok hiteles másolatát,
 - d) vezető tisztségviselők esetén nyilatkozatát a tisztség elfogadásáról.
@@ -1396,7 +1396,7 @@ sorolja be.
 - b) a telefonon közölt szóbeli panaszt legalább a hét egy munkanapján 8 órától 20 óráig,
 - c) elektronikus eléréssel – üzemzavar esetén megfelelő más elérhetőséget biztosítva – folyamatosan fogadja.
 
-(3) Telefonon történő panaszkezelés esetén a pénztár biztosítja az ésszerű várakozási időn belüli hívásfogadást és ügyintézést.
+(3) Telefonon történő panaszkezelés esetén a pénztár biztosítja az ésszerű várakozási időn belüli hívásfogadást és ügyintézést. A pénztár az ügyintézőjének – a pénztár felé indított hívás sikeres felépülésének időpontjától számított – öt percen belüli élőhangos bejelentkezése érdekében úgy köteles eljárni, ahogy az az adott helyzetben általában elvárható.
 
 (4) Telefonon történő panaszkezelés esetén a pénztár és a pénztártag közötti telefonos kommunikációt a pénztár hangfelvétellel rögzíti, és a hangfelvételt öt évig megőrzi. Erről a pénztártagot a telefonos ügyintézés kezdetekor tájékoztatni kell. A pénztártag kérésére biztosítani kell a hangfelvétel visszahallgatását, továbbá térítésmentesen rendelkezésre kell bocsátani a hangfelvételről készített hitelesített jegyzőkönyvet.
 
@@ -2139,7 +2139,7 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 
 (11) Ahol jogszabály az Önkéntes Kölcsönös Biztosító Pénztárak Felügyeletét említi, azon az e törvény szerinti Állami Pénztárfelügyeletet kell érteni.
 
-(12) A Felügyelet az érintettek írásbeli tájékoztatása céljából a pénztártagi azonosításhoz szükséges adatokat (pénztártag neve, lakcíme, valamint a pénztártag társadalombiztosítási azonosító jele) átadja a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv részére.
+(12) A Felügyelet az érintettek írásbeli tájékoztatása céljából a pénztártagi azonosításhoz szükséges adatokat (pénztártag neve, lakcíme, valamint a pénztártag társadalombiztosítási azonosító jele) átadja a központi nyugdíjbiztosítási szerv részére.
 
 (13)
 

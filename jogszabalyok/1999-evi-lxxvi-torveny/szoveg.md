@@ -466,16 +466,19 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 (8) Az árva művek felhasználásának engedélyezésével kapcsolatos részletes szabályokat és a (7) bekezdés szerinti díj mértékét kormányrendelet állapítja meg.
 
-41/C. § (1) A Hivatalnak a 41/B. §-ban szabályozott eljárására a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezéseit a következő eltérésekkel kell alkalmazni:
+41/C. § (1) A Hivatal a 41/B. §-ban szabályozott eljárásban – az e törvényben meghatározott eltérésekkel – a közigazgatási hatósági eljárás általános szabályairól szóló törvény, valamint az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény rendelkezései szerint jár el.
+
+(2) A közigazgatási hatósági eljárás általános szabályairól szóló törvényt a következő eltérésekkel kell alkalmazni:
 
 - a) nem alkalmazhatóak a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek azok a rendelkezései, amelyek az eljárás megindításával kapcsolatos – hivatalból vagy kérelemre történő – értesítésre vonatkoznak;
 - b) a Hivatal a tényeket a kérelem keretei között, az ügyfél nyilatkozatai és állításai alapján vizsgálja;
 - c) nem alkalmazhatóak a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a határozat közzétételére, az ügygondnokra, a költségmentességre és a végrehajtásra vonatkozó rendelkezései;
-- d) a Hivatal döntéseivel szemben nincs helye fellebbezésnek, újrafelvételi és felügyeleti eljárásnak, valamint az ügyészségről szóló törvény szerinti felhívás kibocsátásnak; a Hivatal határozatát, valamint azokat a végzéseit, amelyekkel szemben a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerint önálló fellebbezésnek van helye, a bíróság – a 41/D. §-ban foglaltak szerint – nemperes eljárásban vizsgálja felül;
-- e) nincs helye közmeghallgatásnak;
-- f) az eljárásban rövid szöveges üzenet útján nincs helye kapcsolattartásnak, elektronikus úton írásban csak a 41/E. §-ban meghatározott esetekben van helye kapcsolattartásnak.
+- d) a Hivatal döntéseivel szemben nincs helye fellebbezésnek, újrafelvételi és felügyeleti eljárásnak, valamint az ügyészségről szóló törvény szerinti felhívás kibocsátásnak, a Hivatal határozatát, valamint azokat a végzéseit, amelyekkel szemben a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerint önálló fellebbezésnek van helye, a bíróság – a 41/D. §-ban foglaltak szerint – nemperes eljárásban vizsgálja felül;
+- e) nincs helye közmeghallgatásnak.
 
-(2) A Hivatal által hozott határozat felülvizsgálatát az ügyész is kérheti; az eljárás megindítására a Fővárosi Főügyészség rendelkezik kizárólagos illetékességgel. A Hivatal a határozatát a Fővárosi Főügyészséggel is közli.
+(3) A 41/B. §-ban szabályozott eljárásban – tájékoztatás kérése és annak teljesítése, valamint az iratokba való betekintés kivételével – kapcsolattartásnak csak írásbeli, valamint azonosításhoz kötött elektronikus úton van helye azzal, hogy az ügyfél adatainak változásáról más hatóságtól kapott értesítés nem tekinthető írásban előterjesztett kérelemnek, tájékoztatás pedig nem kérhető és ilyen kérés nem teljesíthető rövid szöveges üzenet útján. Az eljárásban rövid szöveges üzenet útján nincs helye kapcsolattartásnak. A kérelemre megtekinthető iratokba való betekintést a Hivatal személyes megjelenéshez kötötten biztosítja.
+
+(4) A Hivatal által hozott határozat felülvizsgálatát az ügyész is kérheti, az eljárás megindítására a Fővárosi Főügyészség rendelkezik kizárólagos illetékességgel. A Hivatal a határozatát a Fővárosi Főügyészséggel is közli.
 
 41/D. § (1) A 41/C. § (1) bekezdés d) pontja szerinti nemperes eljárás megindítására irányuló kérelmet a döntés közlésétől számított harminc napon belül a Hivatalnál kell benyújtani, amely azt az ügy irataival együtt – a (2) bekezdésben szabályozott eset kivételével – tizenöt napon belül továbbítja a bírósághoz.
 
@@ -516,15 +519,7 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 (18) Ha a kérelem bírósághoz való továbbítását követően a Hivatal a döntését visszavonta, a bíróság az eljárást megszünteti. Ha a Hivatal a döntését módosította, a bírósági eljárás folytatásának csak a még vitás kérdésekben van helye.
 
-41/E. § (1) Az árva mű felhasználására vonatkozó engedély megadására és a felhasználási engedély visszavonására irányuló kérelmet – a Hivatal által erre a célra rendszeresített elektronikus űrlap használatával – elektronikus úton is be lehet nyújtani.
-
-(2) Az (1) bekezdésben meghatározott, elektronikus úton benyújtott kérelem megérkezéséről a Hivatal elektronikus érkeztető számot tartalmazó automatikus értesítést küld a kérelmezőnek.
-
-(3) A Hivatal az (1) bekezdésben meghatározott, elektronikus úton benyújtott kérelem megérkezését követően haladéktalanul megvizsgálja, hogy az megfelel-e az elektronikus úton történő kapcsolattartásra vonatkozó jogszabályi követelményeknek.
-
-(4) Elektronikus beküldés esetén az (1) bekezdésben meghatározott kérelem az elektronikus érkeztetésről szóló automatikus visszaigazolásnak a kérelmező részére történő elküldésével tekintendő benyújtottnak, kivéve ha a Hivatal a kapott dokumentum értelmezhetetlenségét állapítja meg és erről az ügyfelet elektronikus levélben értesíti.
-
-(5) Az értelmezhetetlen dokumentumot beküldő ügyfél a (4) bekezdés szerinti értesítés visszaigazolására köteles. Ha az ügyfél az értesítés átvételét tizenöt napon belül nem igazolja vissza, a Hivatal postai úton továbbítja számára az iratot.
+41/E. §
 
 ### Árva mű kedvezményezett intézmény által történő felhasználása
 
@@ -1146,6 +1141,12 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 (4) Ha a (3) bekezdés sem alkalmazható, az ellenkező bizonyításáig azt kell szerzőnek tekinteni, aki a művet először hozta nyilvánosságra.
 
+94/C. § (1) A mű önkéntes nyilvántartásba vételére irányuló eljárásban a Hivatal az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény és e törvény rendelkezései szerint biztosítja az elektronikus ügyintézést.
+
+(2) Az e §-ban szabályozott eljárásban – tájékoztatás kérése és annak teljesítése kivételével – elektronikus kapcsolattartásnak csak azonosításhoz kötött elektronikus úton van helye, tájékoztatás azonban nem kérhető és ilyen kérés nem teljesíthető rövid szöveges üzenet útján. A kérelemre megtekinthető iratokba való betekintést a Hivatal személyes megjelenéshez kötötten biztosítja.
+
+(3) Nincs helye elektronikus ügyintézésnek abban az esetben, ha a nyilvántartásba vétel iránti kérelem tárgyát képező műről nem állítható elő elektronikus műpéldány, vagy az elektronikus műpéldány mérete meghaladja a miniszteri rendeletben meghatározott mértéket.
+
 ### Védelema műszaki intézkedések megkerülésével szemben
 
 95. § (1) A szerzői jog megsértésének következményeit kell alkalmazni a szerzői jog védelmére szolgáló hatásos műszaki intézkedés megkerülésére, feltéve, hogy az említett cselekményt olyan személy hajtja végre, aki tudja, vagy akinek az adott helyzetben általában elvárható gondosság mellett tudnia kellene, hogy a cselekmény célja a műszaki intézkedés megkerülése.
@@ -1341,6 +1342,8 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 (2) E törvénynek a szellemi tulajdonra vonatkozó egyes törvények módosításáról szóló 2013. évi CLIX. törvénnyel megállapított 89. § (11a) bekezdésében foglaltakat első alkalommal a 2013. évben beszedett bevételekre kell alkalmazni. A közös jogkezelő szervezet által a 20. és 21. §-ban meghatározott díjakból származó, 2013. évben beszedett bevételéből 2014. január 1-jét megelőzően az NKA részére kulturális célú felhasználásra átadott összeget a 89. § (11a) bekezdésében előírt átadási kötelezettség teljesítése során be kell számítani.
 
 111/G. § E törvénynek a szellemi tulajdonra vonatkozó egyes törvények módosításáról szóló 2013. évi CLIX. törvénnyel megállapított 41/F–41/K. §-át az olyan műre és hangfelvételre kell alkalmazni, amelyet 2014. október 29-én vagy azt követően e törvény szerint védelem illet meg.
+
+111/H. § Ha a Hivatal az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni
 
 ### Felhatalmazások
 

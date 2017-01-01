@@ -35,20 +35,14 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
 
 ### II. Fejezet — A KÖZÚTI KÖZLEKEDÉSI NYILVÁNTARTÁS SZERVEZETE ÉS AZ ADATSZOLGÁLTATÁSI HATÁSKÖRÖK
 
-3. § Az e törvényben meghatározott adatkezelési és hatósági feladatokat a központi közúti közlekedési nyilvántartó szerv (a továbbiakban: nyilvántartó), valamint – az okmánytár, az előzetes eredetiségvizsgálati nyilvántartás adatait kivéve – a közlekedési igazgatási hatóság látja el.
+3. § Az e törvényben meghatározott adatkezelési és hatósági feladatokat a közúti közlekedési nyilvántartó szerv (a továbbiakban: nyilvántartó), valamint a közlekedési igazgatási hatóság látja el.
 
 4. § (1) A nyilvántartó feladat- és hatásköre:
 
-- a) szakmai ellenőrzést gyakorol az e törvényben meghatározott közlekedési igazgatási, valamint a parkolási igazolványok kiadásával kapcsolatos feladatok ellátása felett;
+- a) engedélyezi az adatigénylő részére a közvetlen hozzáféréssel történő adatszolgáltatást:
 - b) kezeli a nyilvántartás adatállományát és biztosítja a nyilvántartásban kezelt adatok helyességét, a feltárt adathibák megszüntetése érdekében – az érintett szerv útján vagy saját hatáskörben – intézkedik a nyilvántartás adatainak javítására;
 - c) a nyilvántartásból a törvényben meghatározott feltételek fennállása esetében adatszolgáltatást teljesít;
-- d) eljár az 5. § (1) bekezdésében meghatározott, továbbá a külön jogszabályban hatáskörébe utalt közlekedési igazgatási ügyekben;
-- e) végzi a járművek előzetes eredetiségvizsgálatát;
-- f) ellátja a járművek előzetes eredetiségvizsgálata során a tényállás felderítésében közreműködő tanúsító szervezetek, valamint az adminisztrátorok és a vizsgálók tekintetében a szolgáltatás felügyeletét;
-- g) a külföldről behozott használt jármű származásellenőrzési nyilvántartásba vételét követően, az első magyarországi forgalomba helyezését megelőzően a jármű származását ellenőrzi, és ennek érdekében:
-  - ga) jogosult a nemzetközi körözési nyilvántartásból, a Schengeni Információs Rendszerből, valamint más külföldi hatóság nyilvántartásából adatot igényelni,
-  - gb) jogosult, az Európai Unión kívüli országok részére nemzetközi szerződés, viszonosság alapján, illetve az Európai Unió tagállamának közlekedési nyilvántartása felé a 9. § (1) és (2) bekezdésében meghatározott adatokat továbbítani,
-  - gc) a ga) pontban meghatározott adatigénylés lehetőségének hiányában, illetve annak kiegészítése céljából jogosult a jármű- és okmányazonosító, valamint műszaki adatok átadásával technikai adatok beszerzésére, illetőleg a körözés tényének a nemzeti nyilvántartásokban történő ellenőrzésére külön jogszabály szerint közreműködő igénybevételére.
+- d)–g)
 
 (2) A nyilvántartó a jogszabályban meghatározott, lefoglalásra vagy – a körözési nyilvántartási rendszert vezető szerv által az okmány adatainak a körözési nyilvántartási rendszerbe rögzítéséről küldött elektronikus értesítés alapján – büntetőeljárásban bizonyítékként való felhasználásra irányuló figyelmeztető jelzés (a továbbiakban: figyelmeztető jelzés) elhelyezése céljából haladéktalanul a Schengeni Információs Rendszerbe (a továbbiakban: SIS II) továbbítja annak a forgalmi engedélynek, vezetői engedélynek, illetve a jármű hatósági jelzésének a törvényben meghatározott adatait, amelynek elvesztését, eltulajdonítását vagy az egyéb jogszabályban meghatározott okból történő érvénytelenítését az engedély-, illetve a járműnyilvántartásba bejegyezték, ha az okmány, illetve a hatósági jelzés nincs a hatóság birtokában.
 
@@ -72,12 +66,16 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
 - j) a vezetői engedélyt – ha a járművezető nyilvántartott pontjainak száma a nyilvántartó értesítése szerint elérte vagy meghaladta a 18-at – az értesítéstől számított nyolc napon belül határozattal visszavonja, és a határozat jogerőre emelkedésekor nyilvántartott pontokat törli;
 - k) jogosult a törvényben meghatározottak szerint a SIS II-ből adatot igényelni.
 
-(2)
+(2) A Kormány által rendeletben kijelölt közlekedési igazgatási hatóság
 
-6. § A fővárosi és megyei kormányhivatal
+- a) végzi a járművek előzetes eredetiségvizsgálatát;
+- b) lefolytatja a járművek azonosító jellel történő utólagos ellátásának engedélyezési eljárását;
+- c) a külföldről behozott használt jármű származásellenőrzési nyilvántartásba vételét követően, az első magyarországi forgalomba helyezését megelőzően a jármű származását ellenőrzi, és ennek érdekében
+  - ca) jogosult a nemzetközi körözési nyilvántartásból, a SIS II-ből, valamint más külföldi hatóság nyilvántartásából adatot igényelni,
+  - cb) jogosult, az Európai Unión kívüli országok részére nemzetközi szerződés, viszonosság alapján, illetve az Európai Unió tagállamának közlekedési nyilvántartása számára a 9. § (1) és (2) bekezdésében meghatározott adatokat továbbítani,
+  - cc) a ca) pontban meghatározott adatigénylés lehetőségének hiányában, illetve annak kiegészítése céljából jogosult a jármű- és okmányazonosító, valamint műszaki adatok átadásával technikai adatok beszerzésére, és a körözés tényének a nemzeti nyilvántartásokban történő ellenőrzésére külön jogszabály szerint közreműködő igénybevételére.
 
-- a)
-- b) felügyeli a nyilvántartás adatainak kezelését.
+6. §
 
 ### A nyilvántartás, az engedély és a járműokmányok adattartalma
 
@@ -159,7 +157,7 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
 
 (5) A 3,5 tonna megengedett legnagyobb össztömeget meghaladó tehergépkocsiból, vontatóból, pótkocsiból és autóbuszból
 
-- a) 10-nél többet üzemeltető üzemben tartó az (1) bekezdés b) pontja és d) pont db) alpontja szerinti székhely, telephely címként olyan települési cím bejegyzését kérheti, amelyet a cégjegyzék vagy a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatal általa vezetett egyéni vállalkozók nyilvántartása tartalmaz,
+- a) 10-nél többet üzemeltető üzemben tartó az (1) bekezdés b) pontja és d) pont db) alpontja szerinti székhely, telephely címként olyan települési cím bejegyzését kérheti, amelyet a cégjegyzék vagy a Kormány által rendeletben kijelölt szerv által vezetett egyéni vállalkozók nyilvántartása tartalmaz,
 - b) legfeljebb 10-et üzemeltető üzemben tartó az (1) bekezdés b) pontja és d) pont db) alpontja szerinti székhely, telephely címként olyan települési cím bejegyzését is kérheti, amely alkalmasságát a települési önkormányzat jegyzője igazolja,
 
 feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolgál. Azt a tényt, hogy a települési cím szerinti ingatlan alkalmas a járművek tárolására, a települési önkormányzat jegyzője igazolja.
@@ -286,12 +284,12 @@ feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolg
 
 16. § (1) A nyilvántartásból
 
-- a) egyedi és csoportos adatszolgáltatás a nyilvántartótól,
-- b) egyedi adatszolgáltatás a közlekedési igazgatási hatóságtól
+- a) a nyilvántartótól csoportos adatszolgáltatás és – a Kormány által rendeletben az e törvény szerint adatigénylésre jogosult szervek közül kijelölt szervek eseti jellegű megkeresése esetén – egyedi adatszolgáltatás,
+- b) a közlekedési igazgatási hatóságtól egyedi adatszolgáltatás
 
 igényelhető.
 
-(2) Az okmánytárból, az előzetes eredetiségvizsgálati nyilvántartásból adatszolgáltatás e törvény szabályai szerint a nyilvántartótól igényelhető.
+(2) Az okmánytárból, az előzetes eredetiségvizsgálati nyilvántartásból adatszolgáltatás e törvény szabályai szerint a közlekedési igazgatási hatóságtól igényelhető.
 
 (3) A 8. § (2) bekezdésében, illetve a 9. § (2) bekezdés f) pontjában meghatározott adatokról adatszolgáltatás a Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény rendelkezéseivel összhangban teljesíthető.
 
@@ -519,7 +517,7 @@ továbbítására jogosult.
 
 (3) A jármű üzemben tartója (tulajdonosa), ha törvény eltérően nem rendelkezik, köteles a rendőrhatóság – adatkérés célját tartalmazó – felhívására a szabályszegés elkövetésekor a járművet vezető személyről adatot szolgáltatni. Az adatszolgáltatási kötelezettség legfeljebb az adatkérést megelőző hat hónap időtartamra terjed ki.
 
-(4) Ha a jármű új tulajdonosa az (1) bekezdés b) pontjában meghatározott kötelezettségének önhibájából nem tett eleget, és a késedelmes teljesítéssel egyidejűleg a mulasztást nem igazolja, a járművet az illetékes hatóság a külön jogszabályban meghatározott időtartamra kivonja a forgalomból.
+(4) Ha a jármű új tulajdonosa az (1) bekezdés b) pontjában meghatározott kötelezettségének nem tett eleget, a járművet az illetékes hatóság a külön jogszabályban meghatározott időtartamra kivonja a forgalomból.
 
 (5) A jármű tulajdonosa (üzembentartója) a járműokmány és a jármű hatósági jelzése, a jogosított – parkolási igazolvány esetében a jogosított vagy annak törvényes képviselője – a járművezetésre jogosító okmány, illetve a parkolási igazolvány elvesztését, megsemmisülését, eltulajdonítását a közlekedési igazgatási hatóságnál köteles haladéktalanul, de legkésőbb a tudomására jutástól számított három munkanapon belül bejelenteni.
 
@@ -584,6 +582,8 @@ továbbítására jogosult.
 - c) a közlekedési igazgatási eljárásban a közreműködő hatóságok körét, feladatait és a közreműködő hatóságra vonatkozó részletes eljárási szabályokat, valamint
 - d) a közreműködők nyilvántartása személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésének részletes szabályait, a közreműködőre, a vizsgáló állomásra és a vizsgálóra vonatkozó követelményeket, az előzetes eredetiségvizsgálati eljárásban alkalmazható vizsgálati módszert, valamint a vizsgáló képzésének és továbbképzésének szabályait,
 - e) a 27/A. § (2)–(5) bekezdésében és a 27/C. §-ban meghatározott automatizált keresés részletes szabályait rendeletben állapítsa meg.
+
+41/B. § Felhatalmazást kap a Kormány, hogy kijelölje azokat az e törvény szerint adatigénylésre jogosult szerveket, amelyek eseti jellegű megkeresése esetén a nyilvántartó egyedi adatszolgáltatást végez a nyilvántartásból.
 
 42. § Felhatalmazást kap a közlekedésért felelős miniszter, hogy rendeletben állapítsa meg
 

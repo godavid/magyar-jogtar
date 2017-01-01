@@ -375,7 +375,7 @@ tevékenységét.
 
 (3) Az alapvető jogok biztosának a vizsgálata során beszerzett iratok és tárgyi bizonyítási eszközök nem nyilvánosak.
 
-(4) Az alapvető jogok biztosa és a hatóság, a közreműködésre kötelezett szervezet vagy személy, valamint a kivételes vizsgálattal érintett szervezet között a kapcsolat elektronikus aláírással ellátott elektronikus dokumentum alkalmazásával is fenntartható.
+(4)
 
 28. § (1) Az alapvető jogok biztosa az általa lefolytatott vizsgálatról jelentést készít, amely tartalmazza a feltárt tényeket, az ezeken alapuló megállapításokat és következtetéseket.
 
@@ -466,7 +466,7 @@ tevékenységét.
 
 39. § (1) Ha a beadvány alapján feltehető, hogy – a 18. § (3) bekezdésben megjelölt szervek kivételével – a hatóságnak nem minősülő szervezet tevékenysége vagy mulasztása természetes személyek nagyobb csoportjának alapvető jogait súlyosan sérti, az alapvető jogok biztosa kivételesen eljárhat (a továbbiakban: kivételes vizsgálat).
 
-(2) A kivételes vizsgálatra a 18. § (5)–(8) bekezdését, a 19. §-t, a 20. §-t, a 27. § (1), (3) és (4) bekezdését, a 28–30. §-t és a 34–37. §-t kell alkalmazni.
+(2) A kivételes vizsgálatra a 18. § (5)–(8) bekezdését, a 19. §-t, a 20. §-t, a 27. § (1) és (3) bekezdését, a 28–30. §-t és a 34–37. §-t kell alkalmazni.
 
 (3) A kivételes vizsgálat lefolytatása érdekében a hatóságnak nem minősülő szervezet együttműködésre köteles.
 
@@ -573,6 +573,8 @@ tevékenységét.
 (6) A köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 14. § (1) bekezdés c) pontjának alkalmazása szempontjából az Országgyűlési Biztos Hivatala jogutódjának a Hivatalt kell tekinteni.
 
 45/A. § E törvénynek az egyes igazságügyi tárgyú törvények módosításáról szóló 2012. évi CCXI. törvénnyel megállapított 34/A. §-át a 2013. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
+
+45/B. § Ha az alapvető jogok biztosa az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartás tekintetében e törvény 2016. december 31-én hatályos 39. § (2) bekezdését és 27. § (4) bekezdését kell alkalmazni.
 
 #### 16. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 

@@ -51,7 +51,7 @@ a választási eljárásról
 - 10. polgármester: a polgármester és a főpolgármester,
 - 11. település: a község, a város, járásszékhely város, megyei jogú város és a fővárosi kerület,
 - 12. települési szintű lakóhely: olyan lakóhely, amely esetében a polgárok személyi és lakcím adatait tartalmazó nyilvántartás a bejelentett település neve mellett a „lakcím nélküli” bejegyzést tartalmazza,
-- 13. ügyfélkapu: a magyar kormányzat elektronikus ügyfélbeléptető és azonosító rendszere,
+- 13.
 - 14. választási szerv: a választási bizottság és a választási iroda.
 
 #### 4. A nemzetközi megfigyelő
@@ -785,15 +785,15 @@ bejegyzését a központi névjegyzékbe, illetve a bejegyzés törlését.
 91. § (1) A magyarországi lakcímmel rendelkező választópolgár a központi névjegyzékkel kapcsolatos kérelmet
 
 - a) személyesen a lakóhelye vagy tartózkodási helye szerinti helyi választási irodához vagy
-- b) levélben, az ügyfélkapun vagy a választások hivatalos honlapján keresztül a lakcíme szerinti helyi választási irodához
+- b) levélben, elektronikus azonosítását követően elektronikusan vagy anélkül elektronikusan a lakcíme szerinti helyi választási irodához
 
 nyújthatja be.
 
 (2) A magyarországi lakcímmel nem rendelkező választópolgár a központi névjegyzékkel kapcsolatos kérelmet
 
 - a) levélben,
-- b) az ügyfélkapun keresztül,
-- c) a választások hivatalos honlapján keresztül
+- b) elektronikus azonosítását követően elektronikusan,
+- c) elektronikusan azonosítás nélkül elektronikusan
 
 nyújthatja be a Nemzeti Választási Irodához.
 

@@ -316,9 +316,9 @@ tartózkodási jogát igazoló okmány
 
 27. § (1) Az EGT-állampolgár, valamint a családtag Magyarország területén lévő első lakóhelyét, korábbi szokásos tartózkodási hely szerinti országát a regisztrációs igazolás, illetve a tartózkodási kártya kiállításával kapcsolatos eljárásban jelenti be a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény rendelkezéseinek megfelelően.
 
-(2) Az eljáró hatóság a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiadása céljából az EGT-állampolgár, valamint a családtag nyilvántartott személyazonosító adatairól és lakcím adatairól, valamint regisztrációs igazolásának vagy tartózkodási kártyájának adatairól értesíti a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szervet.
+(2) Az eljáró hatóság a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiadása céljából az EGT-állampolgár, valamint a családtag nyilvántartott személyazonosító adatairól és lakcím adatairól, valamint regisztrációs igazolásának vagy tartózkodási kártyájának adatairól értesíti a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szervet.
 
-(3) A regisztrációs igazolás, illetve a tartózkodási kártya érvénytelenségéről az eljáró hatóság értesíti a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szervet.
+(3) A regisztrációs igazolás, illetve a tartózkodási kártya érvénytelenségéről az eljáró hatóság értesíti a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szervet.
 
 28. § (1) Az EGT-állampolgár, valamint a családtag úti okmányának, személyazonosító igazolványának, illetve a tartózkodási jogát igazoló okmányának eltulajdonítását, megsemmisülését, elvesztését, továbbá az elveszettnek hitt és bejelentett okmány megtalálását köteles bejelenteni.
 
@@ -698,6 +698,8 @@ meghosszabbítása
 
 (2) Az eljáró hatóság az (1) bekezdésben meghatározott kötelezettségét elmulasztó munkáltatót közrendvédelmi bírsággal sújthatja.
 
+(3) A munkáltató az (1) bekezdés szerinti bejelentését elektronikus azonosítását követően elektronikus úton is megteheti.
+
 68. § A fuvarozó és a munkáltató a felelősségének megállapítására irányuló eljárás felfüggesztését nem kérheti.
 
 ### V. Fejezet — AZ ELJÁRÁS KÖZÖS SZABÁLYAI
@@ -839,7 +841,7 @@ meghosszabbítása
 
 (2) Az idegenrendészeti hatóság az (1) bekezdésben meghatározott adatokat az okmány megtalálásáig, ennek hiányában az adatrögzítéstől számított legfeljebb 10 évig kezeli.
 
-81. § (1) Az eljáró hatóság a törvényben meghatározott feladata ellátása céljából és adatkörben a 75. § (1) bekezdésében meghatározott résznyilvántartásokból – a (2) bekezdésben foglalt kivétellel – az igazságszolgáltatási és a bűnüldöző szervek, a nemzetbiztonsági szolgálatok, az adóhatóság, az állampolgársági ügyekben eljáró szerv, az állampolgársági ügyekért felelős miniszter, a menekültügyi hatóság, a munkaügyi hatóság, a 75. § (1) bekezdés a)–c) pontjában foglalt résznyilvántartásokból a szabálysértési hatóság, a szabálysértési előkészítő eljárást folytató hatóság a szabálysértési eljárás alá vont személy személyazonosságának ellenőrzéséhez, valamint a 75. § (1) bekezdés a)–c) és g) pontjában foglalt résznyilvántartásokból a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv, a helyi önkormányzat hatósági feladatot ellátó szerve, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala, a nyugdíjbiztosítási igazgatási szerv részére az adatszolgáltatás céljának és jogalapjának megjelölése mellett szolgáltathat adatot.
+81. § (1) Az eljáró hatóság a törvényben meghatározott feladata ellátása céljából és adatkörben a 75. § (1) bekezdésében meghatározott résznyilvántartásokból – a (2) bekezdésben foglalt kivétellel – az igazságszolgáltatási és a bűnüldöző szervek, a nemzetbiztonsági szolgálatok, az adóhatóság, az állampolgársági ügyekben eljáró szerv, az állampolgársági ügyekért felelős miniszter, a menekültügyi hatóság, a munkaügyi hatóság, a 75. § (1) bekezdés a)–c) pontjában foglalt résznyilvántartásokból a szabálysértési hatóság, a szabálysértési előkészítő eljárást folytató hatóság a szabálysértési eljárás alá vont személy személyazonosságának ellenőrzéséhez, valamint a 75. § (1) bekezdés a)–c) és g) pontjában foglalt résznyilvántartásokból a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv, a helyi önkormányzat hatósági feladatot ellátó szerve, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala, a nyugdíjbiztosítási igazgatási szerv részére az adatszolgáltatás céljának és jogalapjának megjelölése mellett szolgáltathat adatot.
 
 (2) A munkaügyi hatóság csak arra a személyre vonatkozó adatot igényelhet a 75. § (1) bekezdés a)–c) és g) pontjában foglalt résznyilvántartásokból, akit Magyarország más elbánásban részesít, mint amit a munkavállalók Közösségen belüli szabad mozgásáról szóló 1612/68/EGK rendelet 1–6. cikke előír.
 
@@ -867,13 +869,13 @@ meghosszabbítása
 
 (2) Az (1) bekezdés d) pontjában meghatározott nyilvántartásból az eljáró hatóság csak akkor igényelhet adatot, ha az EGT-állampolgárt vagy a családtagot Magyarország más elbánásban részesíti, mint amit a munkavállalók Közösségen belüli szabad mozgásáról szóló 1612/68/EGK rendelet 1–6. cikke előír.
 
-83. § (1) A polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv értesíti a központi adatkezelő szervet az EGT-állampolgár és a családtag
+83. § (1) A polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv értesíti a központi adatkezelő szervet az EGT-állampolgár és a családtag
 
 - a) Magyarországon bekövetkezett haláláról, nevének megváltoztatásáról,
 - b) bejelentett lakóhelyének megszűnéséről,
 - c) adatai nyilvántartásának megszüntetéséről.
 
-(2) Az eljáró hatóság tájékoztatja a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szervet
+(2) Az eljáró hatóság tájékoztatja a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szervet
 
 - a) a tartózkodási jog megszűnéséről és a tartózkodási jog gyakorlásával való felhagyás megállapításáról,
 - b) az EGT-állampolgár és a családtag külföldön bekövetkezett haláláról, nevének megváltozásáról.
@@ -1012,7 +1014,7 @@ b) akit menekültként elismertek, valamint
 
 c) aki a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvényben meghatározottak szerint a szabad mozgáshoz és tartózkodáshoz való jogát Magyarországon gyakorolja, és bejelentési kötelezettségének eleget tett.”
 
-#### 93. §
+93. § E törvénynek az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról szóló 2016. évi CXXI. törvénnyel megállapított 67. § (3) bekezdését 2017. december 31-ig csak akkor kell alkalmazni, ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
 #### 94. §
 

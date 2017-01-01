@@ -114,7 +114,7 @@ kell alkalmazni.
 - 25. betárolás: az adófelfüggesztéssel, illetve a közösségi adófelfüggesztési eljárásban szállított jövedéki termék fizikai mozgatása, amelynek közvetlen következményeként a jövedéki termék a címzett adóraktárába, illetve üzemébe, raktárába beszállításra és a címzett által az e törvény szerinti okmányon feltüntetett rendeltetési helyen ténylegesen átvételre kerül. Amennyiben a harmadik országból vámeljárás keretében behozott és közvetlenül adóraktárba beszállított jövedéki termék vámjogi szabad forgalomba bocsátása adóraktárban, illetve adómentes felhasználó üzemében, raktárában történik, a betárolás a jövedéki termék vámjogi szabad forgalomba bocsátásával valósul meg;
 - 26. jövedéki termék fogadása: bejegyzett kereskedő részére más tagállamból közösségi adófelfüggesztési eljárásban belföldre szállított jövedéki termék tényleges átvétele az e-TKO-n feltüntetett rendeltetési helyen;
 - 27. jövedéki ügy: a jövedéki termékkel, az adójeggyel, a zárjeggyel összefüggő adó- és egyéb kötelezettségek teljesítése, hatósági felügyelete, jövedéki ellenőrzése és az ezekkel kapcsolatos eljárás;
-- 28. jövedéki adóügy: az olyan jövedéki ügy, amely a jövedéki adóztatási feladat ellátásával függ össze – ideértve az adójeggyel megfizetett általános forgalmi adó bevallását és az egyéb adókötelezettségek teljesítését, ellenőrzését is –, valamint az ezekkel kapcsolatos eljárás;
+- 28. jövedéki adóügy: az olyan jövedéki ügy, amely a jövedéki adóztatási feladat ellátásával függ össze – ideértve az egyéb adókötelezettségek teljesítését, ellenőrzését is –, valamint az ezekkel kapcsolatos eljárás;
 - 29. importáló: az a személy, aki először szerez jogot arra, hogy az importált termék felett saját nevében rendelkezzen, illetve ilyen személy hiányában az, aki az adófizetési kötelezettség keletkezésének időpontjában az importált jövedéki terméket birtokolja;
 - 30. közösségi kereskedő: az a személy, aki jövedéki terméket gazdasági tevékenység keretében, más tagállam felé értékesít vagy továbbértékesítési célra más tagállamból beszerez;
 - 31. exportáló: az a személy, aki olyan jövedéki terméket értékesít, amelyet a vámhatóság végleges rendeltetéssel harmadik országba kiléptet, ideértve azt is, aki az üzemanyag petróleumot és a repülőbenzint nemzetközi légi forgalomban résztvevő külföldi vagy magyar lajstromjelű, gazdasági célú légi közlekedési tevékenységet végző olyan légi jármű üzemanyagtartályába tölti, amelynek külföldre távozását a légi jármű parancsnoka (megbízottja) és a repülőtér üzembentartója (megbízottja) együttesen igazolja;
@@ -146,7 +146,9 @@ kell alkalmazni.
 - 55. csekély összegű (de minimis) támogatás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet szerinti támogatás;
 - 56. szárított dohány: a tőről leszakított nyersdohány, valamint a 2401 vámtarifaszámú feldolgozatlan dohány, továbbá a dohányhulladék;
 - 57. fermentált dohány: az a dohány, amelyben a megfelelő eljárások mellett olyan változások játszódtak le, amelyek következtében a dohány élvezeti célra alkalmassá vált;
-- 58. dohánylevél-töltő: az a kizárólag emberi erővel – így különösen nem elemmel, akkumulátorral, vagy elektromos áramforrásról – működtethető eszköz, amelyik egyszerre egy vagy több, de legfeljebb óránként 200 darab kézi töltésű cigaretta elkészítésére szolgál.
+- 58. dohánylevél-töltő: az a kizárólag emberi erővel – így különösen nem elemmel, akkumulátorral, vagy elektromos áramforrásról – működtethető eszköz, amelyik egyszerre egy vagy több, de legfeljebb óránként 200 darab kézi töltésű cigaretta elkészítésére szolgál;
+- 59. új dohánytermék-kategóriák: e törvény szerint cigarettának, szivarnak, szivarkának, fogyasztási dohánynak vagy olyan folyadéknak, amely az elektronikus cigarettába a gyártási folyamat során kerül betöltésre, ideértve az elektronikus cigaretta utántöltésére szolgáló folyadékot is (a továbbiakban: töltőfolyadék) nem minősülő, a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló törvényben ekként meghatározott dohánytermékek;
+- 60. elektronikus cigaretta: a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló törvény szerinti elektronikus cigaretta, utántöltő flakon és dohányzást imitáló elektronikus eszköz.
 
 ### II. Fejezet — ADÓKÖTELEZETTSÉG, ADÓFELFÜGGESZTÉS, ADÓFIZETÉSI KÖTELEZETTSÉG
 
@@ -462,7 +464,7 @@ használnak fel;
 
 19. § (1) Az adóraktár-engedélyes – a (2) bekezdésben foglalt eltéréssel – az adóraktárából a jövedéki termék közösségi adófelfüggesztési eljárásban más tagállamba történő szállítása vagy más tagállam(ok)on keresztül harmadik országba történő kivitele esetén köteles a közösség valamennyi tagállamában érvényes jövedéki biztosítékot (a továbbiakban: szállítási jövedéki biztosíték) nyújtani olyan összegben, amely a szállított jövedéki termék belföldi szabadforgalomba bocsátása esetén beálló adófizetési kötelezettségét fedezi.
 
-(2) A szállítási jövedéki biztosíték nyújtása a 38. § szerinti jövedéki biztosíték – a dohánygyártmányok esetében a 98. § (6) bekezdés szerint a halasztott fizetési kötelezettség biztosítékaként figyelembe veendő jövedéki biztosíték – összegéig teljesítettnek tekinthető, az – a kiszállított jövedéki termék adótartalmának mértékéig – szállítási jövedéki biztosítéknak minősül, amennyiben megfelel az (1) bekezdésben foglalt feltételnek és – pénzügyi biztosítékban nyújtott jövedéki biztosíték esetén – a pénzügyi biztosíték a jövedéki termék kiszállítását követően legalább még 180 napig érvényes. Szállítási jövedéki biztosítékot akkor kell külön teljesíteni, ha a kiszállított, de a 21. § (1) bekezdése szerint [figyelembe véve e § (6) bekezdésének rendelkezését is] még vissza nem igazolt jövedéki termékekre számított adó összege a kiszállításra kerülő jövedéki termékekre számított adó összegével együtt meghaladja a 38. § szerint nyújtott jövedéki biztosíték összegét. Az adóraktár-engedélyes által nyújtandó szállítási biztosíték összege a dohánygyártmányok és az alkoholtermékek esetében legfeljebb 600 millió forint, az ásványolajtermékek esetében legfeljebb 3 milliárd forint.
+(2) A szállítási jövedéki biztosíték nyújtása a 38. § szerinti jövedéki biztosíték összegéig teljesítettnek tekinthető, az – a kiszállított jövedéki termék adótartalmának mértékéig – szállítási jövedéki biztosítéknak minősül, amennyiben megfelel az (1) bekezdésben foglalt feltételnek és – pénzügyi biztosítékban nyújtott jövedéki biztosíték esetén – a pénzügyi biztosíték a jövedéki termék kiszállítását követően legalább még 180 napig érvényes. Szállítási jövedéki biztosítékot akkor kell külön teljesíteni, ha a kiszállított, de a 21. § (1) bekezdése szerint [figyelembe véve e § (6) bekezdésének rendelkezését is] még vissza nem igazolt jövedéki termékekre számított adó összege a kiszállításra kerülő jövedéki termékekre számított adó összegével együtt meghaladja a 38. § szerint nyújtott jövedéki biztosíték összegét. Az adóraktár-engedélyes által nyújtandó szállítási biztosíték összege a dohánygyártmányok és az alkoholtermékek esetében legfeljebb 600 millió forint, az ásványolajtermékek esetében legfeljebb 3 milliárd forint.
 
 (3) A (2) bekezdés rendelkezésétől eltérően nem kell szállítási jövedéki biztosítékot nyújtani az ásványolajnak más tagállamba csővezetéken történő, valamint az egyszerűsített adóraktár-engedélyes adóraktárából kitárolt szőlőbornak más tagállamba történő szállítása esetén.
 
@@ -634,7 +636,7 @@ adókötelezettsége keletkezik, amely egyidejűleg – a 10–11. § rendelkez�
 - c) biztosítja a jövedéki termék ellenőrzésének lehetőségét;
 - d) megfelel a 35. § (1) bekezdésének b)–c) és – a 35. § (2) bekezdésében foglalt eltéréssel – e) pontjában, valamint (3) bekezdésében foglaltaknak;
 - e)
-- f) – a (6)–(7) bekezdésben foglalt eltéréssel – jövedéki biztosítékot nyújt az éves szinten várhatóan beszerzésre kerülő
+- f) – a (6) bekezdésben foglalt eltéréssel – jövedéki biztosítékot nyújt az éves szinten várhatóan beszerzésre kerülő
   - fa) egyéb ellenőrzött ásványolaj – kivéve a 2901 10 vámtarifaszámú cseppfolyósított szénhidrogént – mennyiségére az 52. § (1) bekezdés a) pontjában meghatározott adómértékkel számított adó,
   - fb) 2901 10 vámtarifaszámú cseppfolyósított szénhidrogén mennyiségére az 52. § (1) bekezdés f) pontja szerinti legmagasabb adómértékkel számított adó,
   - fc) – az fa) és fb) pontban nem említett – jövedéki termék mennyiségére számított adótartalom
@@ -649,7 +651,7 @@ egytizenketted részének megfelelő összegben.
 
 számított adónak megfelelő összegben történő előzetes jövedékibiztosíték-nyújtás esetén.
 
-(3) Az (1) bekezdés szerinti bejegyzett kereskedő 25. § szerinti, nem teljesített adófizetési kötelezettségének összege – a (7) bekezdésben foglalt eltéréssel – 50 százalékkal, de legfeljebb 50 millió forinttal haladhatja meg a jövedéki biztosíték összegét, egyébként a jövedéki biztosítékot legalább a nem teljesített adófizetési kötelezettség összegére ki kell egészíteni. A jövedéki biztosíték megemelésének elmaradása esetén a vámhatóság a bejegyzett kereskedői engedélyt az eset összes körülményeinek figyelembevételével, különös tekintettel a nem teljesített adófizetési kötelezettség összegére, legfeljebb 30 napra felfüggesztheti. Ha a bejegyzett kereskedő a felfüggesztés elrendelésétől számított 30 nap elteltével jövedéki biztosítékát nem emeli meg, a vámhatóság a bejegyzett kereskedői engedélyt visszavonja.
+(3) Az (1) bekezdés szerinti bejegyzett kereskedő 25. § szerinti, nem teljesített adófizetési kötelezettségének összege 50 százalékkal, de legfeljebb 50 millió forinttal haladhatja meg a jövedéki biztosíték összegét, egyébként a jövedéki biztosítékot legalább a nem teljesített adófizetési kötelezettség összegére ki kell egészíteni. A jövedéki biztosíték megemelésének elmaradása esetén a vámhatóság a bejegyzett kereskedői engedélyt az eset összes körülményeinek figyelembevételével, különös tekintettel a nem teljesített adófizetési kötelezettség összegére, legfeljebb 30 napra felfüggesztheti. Ha a bejegyzett kereskedő a felfüggesztés elrendelésétől számított 30 nap elteltével jövedéki biztosítékát nem emeli meg, a vámhatóság a bejegyzett kereskedői engedélyt visszavonja.
 
 (4) Az e § szerinti jövedéki biztosítékra a 19. § (5) bekezdésének rendelkezéseit kell értelemszerűen alkalmazni azzal, hogy a vámhatóság akkor hagyja jóvá, illetve engedi meg a pénzügyi biztosítékban, illetve a készpénzben nyújtott jövedéki biztosíték visszavonását, ha a bejegyzett kereskedő a 25. § szerinti adófizetési kötelezettségét teljesítette.
 
@@ -662,9 +664,7 @@ számított adónak megfelelő összegben történő előzetes jövedékibiztos�
 
 is rendelkezik és kizárólag a keretengedélyes vagy felhasználói engedélyes tevékenységi körében beszerezhető jövedéki termékekre kéri az engedélyt, részére azt a külön jogszabály szerinti egyszerűsített eljárásban kell kiadni, és az e § szerinti jövedéki biztosítékot nem kell külön megkövetelni.
 
-(7) Ha a bejegyzett kereskedő dohánygyártmány beszerzését végzi, a jövedéki biztosíték nem lehet kevesebb az egy hónap alatt ténylegesen átvételre kerülő adójegyek utáni fizetési kötelezettség összegénél.
-
-(8) Ha az eseti bejegyzett kereskedő dohánygyártmányt szerez be, a jövedéki biztosítékot az átvett adójegyek értékének [98. § (2) bekezdés] megfelelő összegben kell nyújtani.
+(7)–(8)
 
 (9) Az (1) és (2) bekezdés szerinti engedély iránti kérelmet írásban, a külön jogszabály rendelkezése szerint kell benyújtani. A vámhatóság az (1) bekezdés szerinti bejegyzett kereskedő esetében harmincöt napon belül, az eseti bejegyzett kereskedő esetében tizenöt napon belül bírálja el a kérelmet.
 
@@ -963,7 +963,7 @@ a 38. § (4) bekezdésének figyelembevételével.
 
 (11) A jövedéki biztosíték készpénz vagy a 7. § 43. pontja szerinti pénzügyi biztosíték lehet. A készpénzben nyújtott jövedéki biztosíték után a vámhatóságnak kamatfizetési kötelezettsége nincs. Pénzügyi biztosítékként a visszavonhatatlan vagy a kizárólag olyan visszavonható pénzügyi biztosíték fogadható el, amely a visszavonás lehetőségét a vámhatóság jóváhagyásához is köti. A vámhatóság a pénzügyi biztosíték visszavonását akkor hagyja jóvá, ha az adóraktár-engedélyesnek nincs adótartozása. A pénzügyi biztosíték érvényességének lejártát legalább 60 nappal megelőzően az érvényesség lejártának napját követő naptól érvényes újabb pénzügyi biztosítékot kell a vámhatósághoz benyújtani, hogy a 35. § (1) bekezdésének d) pontjában foglalt feltétel teljesítettnek tekinthető legyen.
 
-(12) A jövedéki biztosíték az esedékességkor, végrehajtható adó-, adóelőleg-, bírság-, pótléktartozás, zárjegyhiány [73. § (5) bekezdés], a 98. § (7) bekezdés rendelkezései szerint teljesíteni elmulasztott halasztott fizetési kötelezettségre és az adóraktár engedélyesét terhelő költség fedezetére vehető igénybe a végrehajtás szabályai szerint, ha az adóraktár engedélyese önkéntesen nem teljesít. A követelés érvényesítésére külön végzés nélkül a vámhatóság jogosult.
+(12) A jövedéki biztosíték az esedékességkor, végrehajtható adó-, adóelőleg-, bírság-, pótléktartozás, zárjegyhiány [73. § (5) bekezdés], adójegyhiány [98. § (2) bekezdés] és az adóraktár engedélyesét terhelő költség fedezetére vehető igénybe a végrehajtás szabályai szerint, ha az adóraktár engedélyese önkéntesen nem teljesít. A követelés érvényesítésére külön végzés nélkül a vámhatóság jogosult.
 
 ### Adóraktári engedély megszűnése
 
@@ -1256,7 +1256,7 @@ adófizetési kötelezettsége esetén – a vevő, a hitelező, illetve a jöve
 
 (11) A felszámolási és a végelszámolási eljárás miatti megszűnés kivételével, az adóraktári engedélyének vagy a keretengedélyének megszűnését követő 30 napon belül az adóraktár engedélyesének vagy a keretengedélyesnek bevallást kell benyújtania. A felszámolási és a végelszámolási eljárás miatti megszűnés esetében az adóbevallásra az Art., illetve a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló, illetve a csődeljárásról és a felszámolási eljárásról szóló törvény rendelkezéseit kell alkalmazni.
 
-(12) Az adóraktár engedélyese adóelőleget fizet, amennyiben az előző év azonos negyedévében keletkezett adófizetési kötelezettsége elérte a hatmillió forintot. Az adóelőleg mértéke az előző év azonos negyedévében keletkezett adó egyhatod része. Ha az adóraktár engedélyese a tárgyévet megelőző évben nem fizetett adót, de a tárgyév első negyedévében az adó várható összege eléri a hatmillió forintot, akkor a várható adóösszeg egyhatodát kell adóelőlegként fizetni. A II., III., IV. negyedévben akkor kell adóelőleget fizetni, ha az előző negyedévi adó összege a hatmillió forintot meghaladja. Az adóelőleg összege az előző negyedévi adó egyhatod része.
+(12) Az adóraktár engedélyese – kivéve a dohánygyártmány-adóraktár engedélyesét – adóelőleget fizet, amennyiben az előző év azonos negyedévében keletkezett adófizetési kötelezettsége elérte a hatmillió forintot. Az adóelőleg mértéke az előző év azonos negyedévében keletkezett adó egyhatod része. Ha az adóraktár engedélyese a tárgyévet megelőző évben nem fizetett adót, de a tárgyév első negyedévében az adó várható összege eléri a hatmillió forintot, akkor a várható adóösszeg egyhatodát kell adóelőlegként fizetni. A II., III., IV. negyedévben akkor kell adóelőleget fizetni, ha az előző negyedévi adó összege a hatmillió forintot meghaladja. Az adóelőleg összege az előző negyedévi adó egyhatod része.
 
 (13) Az adó-visszaigénylést a vámhatóság az adó-visszaigénylésre jogosult kérelmére, a kérelem e törvényben foglaltak szerinti elbírálása után teljesíti. Az adó-visszaigénylésre jogosult az adó-visszaigénylést (adó-visszatérítést) havonta – a tárgyhó 1. napjától a tárgyhó utolsó napjáig terjedő időszakra – igényelheti. Az adó-visszaigénylés megtagadásáról a vámhatóság határozatot hoz.
 
@@ -2478,7 +2478,9 @@ adható.
 - c) a kocsányozott dohánykeverékből készült szivarbélből, valamint a szivar szokásos színével megegyező színű, regenerált dohánylevélből készült, és a terméket – adott esetben a füstszűrőt is beleértve, a szopókával ellátott szivaroknál azonban a szopóka kivételével – teljesen körülölelő, külső borítékból álló dohányrúd, amelynek tömege – füstszűrő vagy szopóka nélkül – legalább 2,3 gramm és legfeljebb 10 gramm, valamint amely hosszának legalább egyharmadánál mért kerülete eléri a 34 millimétert [a továbbiakban a b)–c) pont együtt: szivar, szivarka],
 - d)–e)
 - f) olyan, további ipari feldolgozás nélkül dohányzásra alkalmas kész dohányvágat, amelyben a dohányrészecskék tömegének több mint 25 százaléka kisebb mint 1,5 milliméter szélességűre vágott (a továbbiakban: finomra vágott fogyasztási dohány),
-- g) az f) pont alá nem tartozó, további ipari feldolgozás nélkül dohányzásra alkalmas kész dohányvágat (a továbbiakban: egyéb fogyasztási dohány) [a továbbiakban: az f) és g) pont együtt: fogyasztási dohány].
+- g) az f) pont alá nem tartozó, további ipari feldolgozás nélkül dohányzásra alkalmas kész dohányvágat (a továbbiakban: egyéb fogyasztási dohány) [a továbbiakban: az f) és g) pont együtt: fogyasztási dohány],
+- h) a töltőfolyadék,
+- i) az új dohánytermék-kategóriák.
 
 (2) Kész dohányvágat alatt olyan dohánygyártmányt kell érteni, amely pipadohány esetében pipában történő elszívásra, cigaretta dohány esetében kézi töltésű cigaretta elkészítésére szolgál, beleértve a dohányzásra alkalmas, ilyenkénti értékesítésre felkínált dohánytörmeléket is. Dohánytörmeléknek kell tekinteni a dohány feldolgozása és a dohánytermékek előállítása során keletkező dohánylevél-maradványokat és melléktermékeket.
 
@@ -2503,29 +2505,33 @@ kell tekinteni.
 
 (2) Az adó mértéke
 
-- a) a cigarettára 15 700 forint ezer darabonként és a kiskereskedelmi eladási ár 25 százaléka, de legalább 28 400 forint ezer darabonként,
-- b) a szivarra, a szivarkára a kiskereskedelmi eladási ár 14 százaléka, de legalább 4 060 forint ezer darabonként,
-- c) a finomra vágott fogyasztási dohányra 15 100 forint kilogrammonként,
-- d) az egyéb fogyasztási dohányra 15 100 forint kilogrammonként.
+- a) a cigarettára 16 200 forint ezer darabonként és a kiskereskedelmi eladási ár 25 százaléka, de legalább 28 800 forint ezer darabonként,
+- b) a szivarra, a szivarkára a kiskereskedelmi eladási ár 14 százaléka, de legalább 4 120 forint ezer darabonként,
+- c) a finomra vágott fogyasztási dohányra 16 200 forint kilogrammonként,
+- d) az egyéb fogyasztási dohányra 16 200 forint kilogrammonként,
+- e) a töltőfolyadékra 55 forint milliliterenként,
+- f) az új dohánytermék-kategóriák dohányt tartalmazó, vagy dohánnyal együtt fogyasztott
+  - fa) egyszer használatos termékeire 10 forint darabonként (szálanként),
+  - fb) folyadékára 70 forint milliliterenként.
 
 (3) A jövedéki adó megállapítása szempontjából a cigaretta darabszámát kétszerezni kell, ha annak hossza – füstszűrő és szopóka nélkül – meghaladja a 8 centimétert, de nem hosszabb, mint 11 centiméter, háromszorozni kell, ha annak hossza – füstszűrő és szopóka nélkül – meghaladja a 11 centimétert, de nem hosszabb, mint 14 centiméter, és így tovább.
 
 (4) Az általános forgalmi adó alapja az (5) bekezdés szerinti, az általános forgalmi adót is tartalmazó kiskereskedelmi eladási ár. Az általános forgalmi adó mértéke az áfatörvény általános adó mértékének megfelelő azon százalékérték, amelyet akkor kell alkalmazni, amikor az adott pénzösszeget úgy kell tekinteni, mint amely fizetendő általános forgalmi adót is tartalmaz.
 
-(5) Kiskereskedelmi eladási ár – a (6) bekezdésben foglalt eltéréssel – a dohánygyártmány adóraktár engedélyese, a bejegyzett kereskedő, illetve az importáló által meghatározott, az adójegyen feltüntetett, az adót és az általános forgalmi adót tartalmazó ár.
+(5) Kiskereskedelmi eladási ár – a (6) bekezdésben foglalt eltéréssel – a vámhatóság honlapján közzétett, a jövedéki adót és az általános forgalmi adót tartalmazó kiskereskedelmi eladási ár.
 
 (6) Az adójegy nélküli dohánygyártmány esetében, ha ugyanazon termékválasztékot
 
-- a) belföldön is forgalmazzák, az adó- és általánosforgalmiadó-fizetési kötelezettség (adó- és általánosforgalmiadó-visszaigénylési, -levonási jogosultság) keletkezésének időpontjáig ezen termékválasztékra a vámhatóság által legutoljára kiadott adójegyen feltüntetett, az adót és az általános forgalmi adót tartalmazó árat,
-- b) belföldön nem forgalmazzák, az áfatörvény szerint meghatározott általánosforgalmiadó-alap általános forgalmi adóval növelt összegét
+- a) belföldön is forgalmazzák, a vámhatóság honlapján közzétett, a jövedéki adót és az általános forgalmi adót tartalmazó árat,
+- b) belföldön nem forgalmazzák, a vámhatóság honlapján közzétett, az adott dohánygyártmány típusra és kiszerelési mennyiségre vonatkozó legmagasabb, adót tartalmazó kiskereskedelmi árat
 
 kell kiskereskedelmi eladási árnak tekinteni.
 
 ### Adójegy alkalmazása
 
-98. § (1) A dohánygyártmány szabadforgalomba bocsátása – ideértve az adóraktáron belüli elfogyasztását, illetve az importált dohánygyártmány vámjogi szabadforgalomba bocsátását, ha az importáló nem adóraktárba szállítja az importált terméket, de kivéve az árumintaként harmadik országból vagy tagállamból behozott dohánygyártmányt, a harmadik országból adómentesen behozható dohánygyártmányt, valamint a 99/A. § szerinti esetet – kizárólag olyan adójeggyel ellátva megengedett, amelyen a kiskereskedelmi eladási ár feltüntetésre került. A dohánygyártmány tranzitadóraktárból olyan utas részére, akinek végső úti célja Közösségen belül van, kizárólag adójeggyel ellátva, olyan utas részére, akinek végső úti célja harmadik országban van, kizárólag adójegy nélkül értékesíthető.
+98. § (1) A dohánygyártmány szabad forgalomba bocsátása – ideértve az adóraktáron belüli elfogyasztását, illetve az importált dohánygyártmány vámjogi szabadforgalomba bocsátását, ha az importáló nem adóraktárba szállítja az importált terméket, kivéve az árumintaként harmadik országból importált vagy tagállamból behozott dohánygyártmányt, a harmadik országból adómentesen behozható dohánygyártmányt, valamint a 99/A. § szerinti esetet, továbbá a töltőfolyadékot, valamint az új dohánytermék-kategóriák egyszer használatos termékeit és folyadékait – kizárólag adójeggyel ellátva megengedett. A dohánygyártmány tranzitadóraktárból olyan utas részére, akinek végső úti célja Közösségen belül van, kizárólag adójeggyel ellátva, olyan utas részére, akinek végső úti célja harmadik országban van, kizárólag adójegy nélkül értékesíthető.
 
-(2) A cigaretta adójegye az adójegyen feltüntetett mennyiség és kiskereskedelmi eladási ár alapján számított adó –, illetve ha ez az adó kisebb, az adójegyen feltüntetett mennyiség és a 97. § (2) bekezdés a) pontjában előírt, ezer darabra meghatározott legkisebb adómérték alapján számított adó –, valamint a kiskereskedelmi eladási ár és a 97. § (4) bekezdése szerinti százalékérték szorzatának egy század részeként számított általános forgalmi adó együttes összegének megfelelő értéket testesít meg. A cigarettán kívüli dohánygyártmány adójegye az adójegyen feltüntetett kiskereskedelmi eladási ár alapján számított adó –, illetve ha ez az adó kisebb, az adójegyen feltüntetett mennyiség és a finomra vágott fogyasztási dohány esetében a 97. § (2) bekezdés c) pontjában, az egyéb fogyasztási dohány esetében d) pontjában előírt, 1 kilogrammra meghatározott legkisebb adómérték alapján számított adó –, valamint a kiskereskedelmi eladási ár és a 97. § (4) bekezdése szerinti százalékérték szorzatának egy század részeként számított általános forgalmi adó együttes összegének megfelelő értéket testesít meg.
+(2) A dohánygyártmány adójegye darabonként 1500 forint értéket képvisel, amelyet arra az adójegyre kell megfizetni, amellyel az adóraktár engedélyese, a bejegyzett kereskedő és az importáló nem tud elszámolni (a továbbiakban: adójegyhiány). Az adójegyhiány megfizetésére az Art.-nak az adóra vonatkozó rendelkezéseit kell alkalmazni.
 
 (3) Adójegyet igényelhet
 
@@ -2535,26 +2541,15 @@ kell kiskereskedelmi eladási árnak tekinteni.
 
 (4) Az adójegy igényléséhez az importálónak a 104. § szerinti, a dohánygyártmányok importálására, a bejegyzett kereskedőnek a 24. § szerinti, a dohánygyártmányok más tagállamból való behozatalára jogosító engedéllyel kell rendelkeznie.
 
-(5) Az adójegy átvételekor meg kell fizetni azt az adó- és általánosforgalmiadó-összeget, amelyet az igényelt adójegyek a dohánygyártmány szabadforgalomba bocsátásakor – figyelemmel a 98/A. § (1) bekezdésében foglaltakra – a (2) bekezdés alapján képviselnek (a továbbiakban: fizetési kötelezettség).
-
-(6) A fizetési kötelezettség halasztására jogosult az adóraktár engedélyese, a bejegyzett kereskedő és az importáló, amennyiben biztosítékot nyújt. A dohánygyártmány adóraktár engedélyese által a 100. § szerint nyújtott jövedéki biztosíték a halasztott fizetési kötelezettség biztosítékaként figyelembe veendő azzal, hogy az adóraktárába betárolásra kerülő, más tagállamban gyártott dohánygyártmányra általa átvett adójegy utáni fizetési kötelezettségre külön jövedéki biztosítékot kell nyújtani a 24. § (7) bekezdése szerint meghatározott összegben, de figyelembe véve a 19. § (2) bekezdésének a dohánygyártmányokra vonatkozó rendelkezését is. A 24. § (1) bekezdés szerinti bejegyzett kereskedő által a 24. § (7) bekezdése szerint nyújtott jövedéki biztosíték a halasztott fizetési kötelezettség biztosítékának minősül. Az importáló és az eseti bejegyzett kereskedő a fizetési kötelezettség halasztására abban az esetben jogosult, ha az átvett adójegy értékének megfelelő nagyságú biztosítékot nyújt.
-
-(7) A halasztott fizetési kötelezettséget a tárgyhóban átvett adójegyek vonatkozásában
-
-- a) havonta legfeljebb kétmilliárd forint összeghatárig a tárgyhónapot követő második hónap huszonötödik napjáig,
-- b) az a) pontban írt összeghatárt meghaladó összegre a tárgyhónapot követő hónap tizenötödik napjáig
-
-kell teljesíteni.
-
-E bekezdés alkalmazása során az adóalany által a tárgyhóban különböző időpontokban átvett adójegyei után fizetendő adóösszeget együttesen kell figyelembe venni úgy, hogy ha az adóalany összesített halasztott fizetési kötelezettsége a tárgyhóban meghaladja a kétmilliárd forintot, akkor a kétmilliárd forintot meghaladó összegre az adóalany halasztott fizetési kötelezettsége már a b) pontban foglaltak szerint alakul.
+(5)–(7)
 
 (8) Az adóraktár engedélyesének és a bejegyzett kereskedőnek havonta el kell számolnia – a külön jogszabály rendelkezései szerint – az átvett adójegy mennyiségével.
 
-(9) A 99. § (5) bekezdése alapján az importáló és az eseti bejegyzett kereskedő fizetési kötelezettsége legkorábban a fizetési halasztás lejártakor csökkenthető.
+(9)
 
-(10) Az adófizetési és az általánosforgalmiadó-fizetési kötelezettségét, illetve az adó- és az általánosforgalmiadó-visszaigénylési (levonási) jogosultságát az adóraktár engedélyese a 8–14., illetve a 47. §, a bejegyzett kereskedő a 25. § szerint állapítja meg. Ezen belül az adóbevallásban ki kell mutatni a bevallási időszakban adójeggyel szabadforgalomba bocsátott dohánygyártmányok után adójeggyel megfizetett vagy megfizetésre kerülő adónak és általános forgalmi adónak az összegét.
+(10) Az adófizetési és az általánosforgalmiadó-fizetési kötelezettségét, illetve az adó- és az általánosforgalmiadó-visszaigénylési (levonási) jogosultságát az adóraktár engedélyese a 8–14., illetve a 47. §, a bejegyzett kereskedő a 25. § szerint állapítja meg.
 
-(11) Az importáló adófizetési kötelezettségének vámhatóság általi megállapításakor az adóból és az általános forgalmi adóból le kell vonni az importált dohánygyártmányra felragasztott adójeggyel megfizetett vagy megfizetésre kerülő összeget, feltéve, hogy az importáló a vámjogi szabadforgalomba bocsátáskor az adójegy kivitelét igazolja, vagy – az adójegy nélkül importált dohánygyártmány esetében – a dohánygyártmány vámjogi szabadforgalomba bocsátása előtt az adójegyet az (5)–(6) bekezdés szerint vette át.
+(11)
 
 (12)–(13)
 
@@ -2587,27 +2582,22 @@ kell érteni.
 
 - a) a dohánygyártmány megnevezését (cigaretta, szivar, szivarka, finomra vágott fogyasztási dohány, egyéb fogyasztási dohány),
 - b) a dohánygyártmány fogyasztói csomagolási egységben foglalt mennyiségét (darab, kilogramm) – darabonként csomagolt szivar kivételével –,
-- c) a fogyasztói csomag kiskereskedelmi eladási árát,
+- c)
 - d) az adójegy sorszámát (vonalkód formájában is), valamint
-- e) annak – külön jogszabályban foglalt módon való – jelölését, hogy az adójegy által képviselt fizetési kötelezettség milyen időpontban hatályba lépett (lépő) adó- és általánosforgalmiadó-mérték alapján került meghatározásra.
+- e) annak – jogszabályban meghatározott módon történő – megjelölését, hogy a dohánygyártmány milyen időpontban hatályba lépett (lépő) adó- és általánosforgalmiadó-mérték alapján került szabadforgalomba bocsátásra.
 
-(4) Az adójegyet a Magyar Állam állíttatja elő, és a vámhatóság bocsátja – elektronikus úton, az ügyfélkapun keresztül benyújtott megrendelés alapján és elszámolási kötelezettség mellett – a 98. § (3) bekezdésében megjelöltek rendelkezésére.
+(4) A dohánygyártmány adójegyet a Magyar Állam állíttatja elő, és a vámhatóság bocsátja – elektronikus úton, ügyfélkapun keresztül benyújtott megrendelés alapján, elszámolási kötelezettség mellett és az adójegy előállítási költségének a megfizetése ellenében – a 98. § (3) bekezdésében megjelöltek rendelkezésére.
 
-(5) A vámhatósághoz visszaküldött adójegy 98. § (2) bekezdése szerinti értékével
-
-- a) a hibás, sérült, továbbá a vámhatóság felügyelete mellett megsemmisített, az adójegy igénylőjének tevékenységi körén kívül eső elháríthatatlan ok miatt – ide nem értve a lopás esetét –, illetve jogszabályban meghatározott egyéb módon megsemmisült adójegyek esetében a tárgyhót követő hóban esedékes,
-- b) a sértetlen állapotú adójegy esetén az arra adott fizetési halasztás lejártának hónapjában vagy azt követően esedékes,
-
-a 98. § (6) bekezdése szerint halasztott fizetési kötelezettség csökkenthető vagy annak értéke visszatéríthető a külön jogszabályban meghatározott feltételek mellett.
-
-(6) A halasztott fizetési kötelezettség csökken azon dohánygyártmányra felragasztott adójegy adó és általános forgalmi adó értékével, amely utáni felfüggesztett adófizetési kötelezettség alól a 13. § (3) bekezdés b)–f) pontja, valamint (9)–(10) bekezdése alapján az adóraktár engedélyese véglegesen mentesül.
+(5)–(6)
 
 (7) A dohánygyártmány-adóraktár engedélyese, a bejegyzett kereskedő és az importáló a szabadforgalomból visszaszállított (visszáru) dohánygyártmány adóját és általános forgalmi adóját visszaigényelheti (levonhatja), amennyiben
 
 - a) a dohánygyártmányt a dohánygyártmány-adóraktár engedélyese az adóraktárában újrafeldolgozza vagy megsemmisíti, illetve a bejegyzett kereskedő és az importáló megsemmisítteti, vagy
 - b) a cigarettán kívüli dohánygyártmányok esetében a dohánygyártmány-adóraktár engedélyese, a bejegyzett kereskedő és az importáló az adójegyet eltávolítja, valamint a bejegyzett kereskedő és az importáló egyúttal új adójegyet helyez fel.
 
-(8) A dohánygyártmány-adóraktár engedélyese, a bejegyzett kereskedő és az importáló a (7) bekezdés b) pontja szerint eltávolított és megsemmisített adójegyek után darabonként 6 Ft átalány-költségtérítést köteles fizetni a vámhatóság által megjelölt bankszámlára.
+(7a) A (7) bekezdés szerinti adó-visszaigénylés esetén a cigaretta, szivar, szivarka kiskereskedelmi eladási áraként a (10) bekezdés szerinti adatszolgáltatás tárgynapja és az adó-visszaigénylés vámhatósághoz történő benyújtásának napja közötti időszakban az adott dohánygyártmányra vonatkozóan a vámhatóság által a 97. § (5) bekezdés szerint közzétett legalacsonyabb kiskereskedelmi eladási ár vehető figyelembe.
+
+(8)
 
 (9) Az adó- és általánosforgalmiadó-visszaigénylés (levonás) joga
 
@@ -2654,15 +2644,15 @@ de adóraktáranként, illetve a több adóraktárral rendelkező engedélyes es
 
 (6) Dohánygyártmány gyártására alkalmas gépet és egyéb eszközt – az e törvényben meghatározott dohánylevél-töltőt ide nem értve – kizárólag adóraktári engedéllyel rendelkező dohányüzem vagy dohánygyár tarthat birtokában, csak részére lehet értékesíteni, importálni.
 
-### Az adójegyen feltüntetett ár
+### Kiskereskedelmi értékesítés
 
-101. § A dohánygyártmány a nem jövedéki engedélyes kereskedelmi tevékenység keretében csak az adójegyen feltüntetett áron értékesíthető, attól eltérni nem lehet.
+101. § Az adójegyköteles dohánygyártmány a fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. évi törvény (a továbbiakban: Dohánytörvény) szerinti dohánytermék-kiskereskedelem keretében, továbbá a Dohánytörvény 1. § (3) bekezdésében meghatározott kiskereskedelmi értékesítés keretében csak az állami adó- és vámhatóság honlapján közzétett áron értékesíthető, kivéve a 99. § (7) bekezdése szerinti esetet.
 
 ### Az adójeggyel ellátott dohánygyártmányok általános forgalmi adóztatásával összefüggő egyéb szabályok
 
 102. § (1) Az az általánosforgalmiadó-alany, aki (amely) az adójeggyel ellátott dohánygyártmányok értékesítése után e törvény rendelkezései szerint köteles az általános forgalmi adót fizetni, e tevékenysége tekintetében az áfatörvénynek a tételes átalányadózásra, valamint az alanyi adómentességre vonatkozó rendelkezéseit nem alkalmazhatja.
 
-(2) Az általánosforgalmiadó-alany az adójeggyel ellátott dohánygyártmányok értékesítése tekintetében az áfatörvényben meghatározott számlaadási kötelezettségének olyan módon tesz eleget, hogy ezen termékértékesítéséről kibocsátott számlában, egyszerűsített számlában nem tüntethet fel áthárított általános forgalmi adót, felszámított általánosforgalmiadó-mértéket és annak az általános forgalmi adót is tartalmazó ellenértékre vetített százalékértékét, továbbá – a nem jövedéki engedélyes kereskedelmi tevékenység keretében végzett termékértékesítés kivételével – a termék megnevezése mellett tájékoztató adatként fel kell tüntetnie az értékesített dohánygyártmány adójegyén szereplő kiskereskedelmi eladási árat is.
+(2) Az általánosforgalmiadó-alany az adójeggyel ellátott dohánygyártmányok értékesítése tekintetében az áfatörvényben meghatározott számlaadási kötelezettségének olyan módon tesz eleget, hogy ezen termékértékesítéséről kibocsátott számlában, egyszerűsített számlában nem tüntethet fel áthárított általános forgalmi adót, felszámított általánosforgalmiadó-mértéket és annak az általános forgalmi adót is tartalmazó ellenértékre vetített százalékértékét, továbbá – a nem jövedéki engedélyes kereskedelmi tevékenység keretében végzett termékértékesítés kivételével – a termék megnevezése mellett tájékoztató adatként fel kell tüntetnie az értékesített dohánygyártmány kiskereskedelmi eladási árat is.
 
 (3) Az általánosforgalmiadó-alany az adójeggyel ellátott dohánygyártmányok értékesítése tekintetében – az áfatörvény alkalmazásában – adólevonásra jogosító termékértékesítést végez, és – az áfatörvény visszaigénylésre jogosító feltételei szempontjából – az adójeggyel ellátott dohánygyártmányok értékesítéséből származó, az általános forgalmi adót nem tartalmazó ellenérték a visszaigénylésre jogosító adóköteles termékértékesítés összesített adóalapjába tartozónak tekinthető.
 
@@ -2883,7 +2873,9 @@ A jövedéki engedélyes kereskedő a nyilvántartás adatait számítógépes a
 - e) a sör 110 litert,
 - f) a köztes alkoholtermék 20 litert,
 - g) az alkoholtermék 10 litert,
-- h) a bor és pezsgő együttesen 90 litert (ebből pezsgő legfeljebb 60 liter)
+- h) a bor és pezsgő együttesen 90 litert (ebből pezsgő legfeljebb 60 liter),
+- i) az új dohánytermék-kategóriák 800 darabot,
+- j) a töltőfolyadék 300 millilitert
 
 meghaladó mennyisége minősül.
 
@@ -2944,7 +2936,7 @@ meghaladó mennyisége minősül.
 111. § (1) A vámhatóság a jövedéki szabályok megtartásának ellenőrzése érdekében
 
 - a) a kereskedő üzelethelyiségének, a kereskedelmi raktárának, az üzemanyagtöltő állomásnak, a kiskereskedelmi tárolótelepnek az árukészletét ellenőrizheti, abból szakértői vizsgálat céljára mintát vehet, az e törvényben előírt, külön vezetett nyilvántartásokat, továbbá az üzleti könyveket vizsgálhatja, az árukészlet mennyiségét, eredetét, adózott vagy adózatlan voltát megállapíthatja;
-- b) ellenőrizheti, hogy a nem jövedéki engedélyes kereskedő a jövedéki termékek tekintetében az áfatörvény szerinti nyugtakibocsátási kötelezettségének, illetve az e törvényben előírt számlaadásra vonatkozó kötelezettségének eleget tesz-e, a dohánygyártmányok adójegyén feltüntetett ártól eltérő árat érvényesít-e;
+- b) ellenőrizheti, hogy a nem jövedéki engedélyes kereskedő a jövedéki termékek tekintetében az áfatörvény szerinti nyugtakibocsátási kötelezettségének, illetve az e törvényben előírt számlaadásra vonatkozó kötelezettségének eleget tesz-e, a dohánygyártmányok értékesítése során a 101. §-ban meghatározott kiskereskedelmi eladási ártól eltérő árat érvényesít-e;
 - c) ellenőrizheti az e törvényben és a végrehajtási rendeletekben előírt, az a)–b) pontban nem említett egyéb kötelezettségek megtartását.
 
 (2) A vámhatóság az olyan jövedéki termék felderítése érdekében, amely után az adót nem fizették meg,
@@ -3087,7 +3079,7 @@ szorzatának kétszerese, de legalább 30 ezer forint.
 
 büntetendő.
 
-(2) Az adójegy hamisítása, a hamis, a hamisított vagy a jogtalanul megszerzett adójegy birtokolása, továbbadása, értékesítése, átvétele, felhasználása a megtalált adójegy által képviselt adóösszeg ötszörösével azonos összegű, de legalább 200 ezer forint bírsággal büntetendő.
+(2) Az adójegy hamisítása, a hamis, a hamisított vagy a jogtalanul megszerzett adójegy darabszámával és a 98. § (2) bekezdésében meghatározott értékkel büntetendő.
 
 (3) Cukorcefre, illetve a cukorcefréből alkoholtermék vagy a 2204, 2205, 2206 vámtarifaszám alá tartozó termék jogosulatlan előállítása, értékesítése, megvásárlása, birtoklása, továbbá – amennyiben külön jogszabály szerint minőségvédelmi bírság kiszabásának nincs helye – a bor külön jogszabályban meghatározott eljárástól eltérő előállítása vagy kezelése, illetve az így előállított vagy kezelt bor értékesítése, birtoklása, valamint – a szőlőtörköly kivételével – a borászati melléktermék jogosulatlan értékesítése, megvásárlása, birtoklása esetén literenként, illetve kilogrammonként 3000 forint, de legalább 100 ezer forint, a szőlőtörköly jogosulatlan értékesítése, megvásárlása, birtokolása esetén 100 kilogrammonként 3000 forint jövedéki bírságot kell kivetni.
 
@@ -3477,6 +3469,14 @@ határozatban állapítja meg az adót.
 - b) 2017. február 28. napjáig lehet a dohány-kiskereskedelmi ellátó raktárába beszállítani,
 - c) 2017. május 20. napjáig lehet a kiskereskedelmi forgalomban forgalomba hozni.
 
+128/P. § A jövedéki biztosíték 2017. december 31-ig a 38. § (12) bekezdésében foglaltak szerint az adójegy átvételével keletkező adó- és általános forgalmi adó fizetési kötelezettségre is igénybe vehető.
+
+128/Q. § (1) A 2016. december 31. napjáig szabadforgalomba bocsátott dohánygyártmányokra és a kiskereskedelmi eladási árat tartalmazó adójegyekre e törvény 2016. december 31. napján hatályos rendelkezéseit kell alkalmazni.
+
+(2) A dohány-kiskereskedelmi ellátó részére legkésőbb 2017. március 1-jéig adható át kiskereskedelmi eladási árat tartalmazó adójeggyel ellátott dohánygyártmány.
+
+128/R. § A 99. § (4) bekezdését a kiskereskedelmi eladási árat nem tartalmazó adójegyekre kell alkalmazni.
+
 ### Felhatalmazás
 
 129. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben határozza meg
@@ -3498,7 +3498,7 @@ a külön jogszabály szerint nyilvántartásba vett mezőgazdasági termelő r�
 - c) az e törvényben előírt nyilvántartások vezetésére, a vámhatóság felé a nyilvántartások alapján teljesítendő adatszolgáltatás tartalmára, módjára és technikai feltételeire, a bizonylatok kiállítására, az adófelfüggesztéssel végzett szállítások során használt okmányok EK rendelet szerint kötelezően kitöltendővé tehető rovatainak meghatározására, a 40. § (1) bekezdés a) pont ab) alpont szerinti bizonylatok adataira, valamint ezen bizonylatok adatainak a 40. § (9) bekezdésben előírt megküldésére, az e-TKO tervezet és az elektronikus átvételi elismervény EK rendeleten felüli kiegészítő adattartalmára, a jövedéki termékek és a megfigyelt termékek elszámolására vonatkozó részletes szabályokat;
 - d) az adófizetési kötelezettség, adó-visszaigénylés elszámolására, a motorfejlesztésről történő bejelentés tartalmára és benyújtásának módjára, a hatósági felügyelet ellátásának esetleges különleges módjára és feltételeire, a jövedéki ellenőrzésre, a lefoglalásra, elkobzásra, az elkobzott termék felhasználására, illetve megsemmisítésére vonatkozó részletes szabályokat;
 - e) a gázolaj jelölésével kapcsolatos egyes rendelkezéseket;
-- f) a zárjegy, valamint a hordós és kannás kiszerelésű borra előírt hivatalos zár alkalmazásának, a zárjegy megrendelésének, a zárjeggyel való elszámolásnak, a zárjegy felhasználásával, illetve a zárjegykészlet egyéb változásaival kapcsolatos napi adatszolgáltatás tartalmának, az adójegy igénylésének, visszavételének, alkalmazásának, az adójegy felhasználásával, illetve az adójegy-készlet egyéb változásaival kapcsolatos napi adatszolgáltatás tartalmának, valamint a párlat adójegy beszerzésének részletes szabályait;
+- f) a zárjegy, valamint a hordós és kannás kiszerelésű borra előírt hivatalos zár alkalmazásának, a zárjegy megrendelésének, a zárjeggyel való elszámolásnak, a zárjegy felhasználásával, illetve a zárjegykészlet egyéb változásaival kapcsolatos napi adatszolgáltatás tartalmának, az adójegy megrendelésének, alkalmazásának, az adójeggyel való elszámolásnak, az adójegy felhasználásával, illetve az adójegykészlet egyéb változásaival kapcsolatos napi adatszolgáltatás tartalmának, valamint a párlat adójegy beszerzésének részletes szabályait;
 - g) a denaturált alkohol előállításához felhasználható denaturáló szer alkalmazására és az alkohol denaturálási eljárására vonatkozó szabályokat, valamint a desztillálókészülék előállítására, birtokban tartására, értékesítésére, továbbá a tudományos és oktatási célra használt nem üveg desztillálóberendezésen előállított alkoholtermék bejelentésére és a felhasználásról vagy megsemmisítésről kiállítandó jegyzőkönyvre vonatkozó szabályokat;
 - h) a bérfőzött párlat bérfőzető részére történő kiadásának és a bérfőzető általi továbbértékesítésének szabályait, valamint a 67/A. § (8) bekezdés szerinti igazolás adattartalmára és kiállítására vonatkozó részletes szabályokat;
 - i) a terítőjáratok működési és adminisztrációs rendjére vonatkozó egyes rendelkezések részletes szabályait;

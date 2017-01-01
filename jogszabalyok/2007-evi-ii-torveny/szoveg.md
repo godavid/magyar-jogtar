@@ -614,13 +614,13 @@ kapott.
 
 (4) A letelepedettet megilletik a tartózkodási engedéllyel rendelkezők külön jogszabályok szerinti jogosultságai is.
 
-(5) Az eljáró hatóság – a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény hatálya alá tartozó esetben – értesíti a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szervet
+(5) Az eljáró hatóság – a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény hatálya alá tartozó esetben – értesíti a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szervet
 
 - a) a meglévő jogállás mellett az újabb jogállás nyilvántartásba vétele céljából a menekültként vagy oltalmazottként nyilvántartott harmadik országbeli állampolgár részére kiadott letelepedési engedélyről,
 - b) a letelepedési, az ideiglenes, a nemzeti és az EK letelepedési engedély visszavonásáról, valamint
 - c) a bevándorlási engedély visszavonásáról.
 
-(6) Az idegenrendészeti hatóság a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv értesítését mellőzi, amennyiben a 35/A. § (1) bekezdése alapján nemzeti letelepedési engedélyt állít ki.
+(6) Az idegenrendészeti hatóság a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv értesítését mellőzi, amennyiben a 35/A. § (1) bekezdése alapján nemzeti letelepedési engedélyt állít ki.
 
 33. § (1) Az a harmadik országbeli állampolgár kaphat ideiglenes letelepedési engedélyt, nemzeti letelepedési engedélyt vagy EK letelepedési engedélyt,
 
@@ -1417,6 +1417,8 @@ származó jövedelemmel rendelkezik.
 
 (9) A fogadó szervezet legkésőbb a munkába állást követő öt napon belül köteles bejelenteni, ha az Európai Unió tagállama által, vállalaton belüli áthelyezés céljából kiállított tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár vállalaton belüli áthelyezés céljából, kilencven napot meg nem haladó, tervezett időtartamig Magyarországon a fogadó szervezetnél végez munkát. A bejelentésnek tartalmaznia kell a harmadik országbeli állampolgár természetes személyazonosító adatait, a vállalaton belüli áthelyezés tervezett időtartamát és a fogadó szervezet vállalkozáscsoporthoz való tartozását.
 
+(10) A munkáltató elektronikus azonosítását követően a (3), (4) és (9) bekezdés szerinti bejelentését elektronikus úton is megteheti.
+
 72. § A meghívó a kötelezettsége elmulasztásával másnak okozott kárt köteles megtéríteni.
 
 ### VII. Fejezet — BEJELENTÉSI KÖTELEZETTSÉGEK
@@ -1444,12 +1446,14 @@ származó jövedelemmel rendelkezik.
 
 ### Az oktatási intézmények bejelentési kötelezettsége
 
-74/A. § Az e törvényben meghatározott eljárások lefolytatása céljából az oktatási intézmény azokról a külföldi hallgatókról, akik a tanulmányaikat megkezdték, befejezték vagy megszakították, illetve akik a beiratkozási kötelezettségüknek nem tettek eleget, vagy akiknek a hallgatói jogviszonya megszűnt, e tények bekövetkeztétől számított nyolc munkanapon belül a következő adatok közlésével köteles tájékoztatni az oktatási intézmény székhelye szerint illetékes idegenrendészeti hatóságot:
+74/A. § (1) Az e törvényben meghatározott eljárások lefolytatása céljából az oktatási intézmény azokról a külföldi hallgatókról, akik a tanulmányaikat megkezdték, befejezték vagy megszakították, illetve akik a beiratkozási kötelezettségüknek nem tettek eleget, vagy akiknek a hallgatói jogviszonya megszűnt, e tények bekövetkeztétől számított nyolc munkanapon belül a következő adatok közlésével köteles tájékoztatni az oktatási intézmény székhelye szerint illetékes idegenrendészeti hatóságot:
 
 - a) oktatási intézmény adatai (név, cím),
 - b) harmadik országbeli állampolgár természetes személyazonosító adatai, tartózkodásra jogosító okmányának száma,
 - c) a hallgatói jogviszony típusa, keletkezésének, szünetelésének és megszűnésének időpontja és módja,
 - d) a hallgató által folytatott képzés megnevezése, finanszírozásának módja és munkarendje, megkezdett félévek, a hallgatói jogviszony szünetelésének ideje, a képzés befejezésének várható időpontja.
+
+(2) Az oktatási intézmény az (1) bekezdés szerinti bejelentését elektronikus azonosítását követően elektronikus úton is megteheti.
 
 ### A harmadik országbeli állampolgár személyi okmányaival kapcsolatos bejelentési kötelezettségek és hatósági intézkedések
 
@@ -1981,6 +1985,8 @@ hatályát veszti.
 (17) A 37. § (1) bekezdés c) pontjában meghatározott visszavonási ok nem alkalmazható a 2016. július 1. napja előtt nemzetgazdasági érdekre hivatkozással kiadott nemzeti letelepedési engedélyekre és az ezen az alapon kiadott nemzeti letelepedési engedéllyel rendelkező harmadik országbeli állampolgár családtagja részére kiadott nemzeti letelepedési engedélyekre.
 
 (18) A (13)–(17) bekezdésben foglaltakon kívül e törvénynek az egyes migrációs tárgyú és ezekkel összefüggésben más törvények módosításáról szóló 2016. évi XXXIX. törvénnyel megállapított rendelkezéseit a hatálybalépést követően megindult ügyekben kell alkalmazni.
+
+(19) E törvénynek az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról szóló 2016. évi CXXI. törvénnyel megállapított 71. § (10) bekezdését és 74/A. § (2) bekezdését 2017. december 31-ig csak akkor kell alkalmazni, ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
 ### Felhatalmazó rendelkezések
 

@@ -2,7 +2,7 @@
 
 az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról, valamint egyes nyugdíjbiztosítási tárgyú és más kapcsolódó törvények módosításáról
 
-#### 1. Értelmező rendelkezések
+#### 1. Általános rendelkezések
 
 1. § E törvény alkalmazásában
 
@@ -16,18 +16,20 @@ az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítá
 - h)
 - i) uniós tisztviselő: az a személy, aki az SR.-ben foglaltak szerint uniós intézménnyel fennálló vagy korábban fennállt jogviszonya alapján nyugdíjbiztosítási átutalásra vagy visszautalásra jogosult.
 
+1/A. § Ha jogszabály másként nem rendelkezik, a nyugdíjbiztosítási átutalással és a nyugdíjbiztosítási visszautalással kapcsolatos eljárásokban a társadalombiztosítási nyugellátásra vonatkozó szabályokat kell alkalmazni.
+
 #### 2. Nyugdíjbiztosítási átutalás
 
 2. § (1) Nem kérhető nyugdíjbiztosítási átutalás, ha
 
-- a) az uniós tisztviselő részére öregségi nyugdíjat, korhatár előtti öregségi nyugdíjat, korhatár előtti ellátást, szolgálati járandóságot, balettművészeti életjáradékot vagy átmeneti bányászjáradékot állapítottak meg, vagy magánnyugdíj-pénztári szolgáltatást nyújtottak, vagy
+- a) az uniós tisztviselő részére öregségi nyugdíjat, korhatár előtti öregségi nyugdíjat, korhatár előtti ellátást, szolgálati járandóságot, táncművészeti életjáradékot vagy átmeneti bányászjáradékot állapítottak meg, vagy magánnyugdíj-pénztári szolgáltatást nyújtottak, vagy
 - b) az uniós tisztviselő után a társadalombiztosítási nyugellátásról szóló törvény szerinti hozzátartozói nyugellátást állapítottak meg, vagy magánnyugdíj-pénztári szolgáltatást nyújtottak.
 
 (2) A társadalombiztosítási nyugdíjrendszerből történő nyugdíjbiztosítási átutalást a Nyugdíjbiztosítási Alap terhére, a magánnyugdíjpénztárból történő nyugdíjbiztosítási átutalást a magánnyugdíjpénztár terhére, forintban kell teljesíteni.
 
 (3) Ha a nyugdíjbiztosítási átutalás megtörtént, nyugdíjbiztosítási visszautalás hiányában
 
-- a) az uniós tisztviselő öregségi nyugdíjra, korhatár előtti ellátásra, szolgálati járandóságra, balettművészeti életjáradékra, átmeneti bányászjáradékra és magánnyugdíj-pénztári szolgáltatásra, valamint
+- a) az uniós tisztviselő öregségi nyugdíjra, korhatár előtti ellátásra, szolgálati járandóságra, táncművészeti életjáradékra, átmeneti bányászjáradékra és magánnyugdíj-pénztári szolgáltatásra, valamint
 - b) az uniós tisztviselő után más személy hozzátartozói nyugellátásra és magánnyugdíj-pénztári szolgáltatásra
 
 a nyugdíjbiztosítási átutalással érintett időre nem jogosult.
@@ -48,6 +50,8 @@ a nyugdíjbiztosítási átutalással érintett időre nem jogosult.
 (6) A társadalombiztosítási nyugdíjrendszerből történő nyugdíjbiztosítási átutalás összegét úgy kell meghatározni, hogy a (4) és (5) bekezdés szerinti összegeket össze kell adni.
 
 4. § (1) A társadalombiztosítási nyugdíjrendszerből történő nyugdíjbiztosítási átutalás összegét a nyugdíjbiztosítási igazgatási szerv állapítja meg.
+
+(1a) A valorizációs szorzószámok alkalmazásával megállapításra kerülő nyugdíjbiztosítási átutalás esetén az ügyintézési határidő tárgyév április 15-én jár le, ha a nyugdíjbiztosítási átutalás iránti kérelmet a tárgyévi nyugdíj-megállapításhoz tartozó valorizációs szorzószámok hatálybalépését megelőzően nyújtották be, és az általános ügyintézési határidő tárgyév április 15-ét megelőzően telne le.
 
 (2) A nyugdíjbiztosítási átutalásról hozott jogerős határozat akkor hajtható végre, ha
 

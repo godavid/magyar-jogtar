@@ -49,6 +49,8 @@ a következő törvényt alkotja:
 
 (6) A gyakorlati képzéshez kapcsolódó, a felsőoktatási intézmény által meghatározott szakmai feltételeket az iskolaszövetkezet és a szolgáltatás fogadója együttesen biztosítja.
 
+(6a) Az iskolaszövetkezet útján megszervezett gyakorlati képzés esetén a szakmai gyakorlatot az (1) bekezdés szerinti hallgató – a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 44. § (1) bekezdésétől eltérően – a 10/B. § (2) bekezdése szerinti külső szolgáltatásra vonatkozó tagsági megállapodás alapján is elláthatja.
+
 (7) Az iskolaszövetkezet útján megszervezett gyakorlati képzés esetén a szakmai gyakorlatot – a szolgáltatás fogadójának nyilatkozata alapján – az iskolaszövetkezet igazolhatja, feltéve, hogy a gyakorlati képzés az iskolaszövetkezet hallgató tagjának felsőoktatási képzésben megszerzett elméleti ismereteinek felhasználását igényli, továbbá a szolgáltatás fogadója megfelel a szakmai gyakorlóhellyel, a gyakorlati képzés tartalma pedig a szakmai gyakorlattal szemben jogszabály által támasztott követelményeknek.
 
 (8) Az iskolaszövetkezet a szolgáltatás fogadójával kötött megállapodást köteles az Oktatási Hivatalnak annak megkötésétől számított öt munkanapon belül megküldeni. Az Oktatási Hivatal a szakmai gyakorlattal kapcsolatos követelmények teljesülését a szolgáltatás fogadójánál is ellenőrizheti.
@@ -59,11 +61,11 @@ a következő törvényt alkotja:
 
 (2) A nevelési-oktatási intézmény akkor lehet az iskolaszövetkezet tagja, ha ezt alapító okirata lehetővé teszi és a tagsághoz a nevelési-oktatási intézmény fenntartója hozzájárul. Felsőoktatási intézmény akkor lehet iskolaszövetkezet tagja, ha a szenátus ezt támogatja, és a tagsághoz a felsőoktatási intézmény fenntartója hozzájárul.
 
-(3) Az iskolaszövetkezetnek a természetes személy tagjain kívül nevelési-oktatási intézmény és annak fenntartója, valamint felsőoktatási intézmény lehet a tagja.
+(3) Az iskolaszövetkezetnek természetes személy és jogi személy tagja lehet.
 
 (4) Az iskolaszövetkezet tagjainak legalább nyolcvanöt százaléka olyan természetes személy, aki nevelési-oktatási intézménnyel tanulói vagy felsőoktatási intézménnyel hallgatói jogviszonyban áll.
 
-(5) Az iskolaszövetkezetnek – a nevelési-oktatási intézményen és annak fenntartóján, valamint a felsőoktatási intézményen kívül – nem lehet személyes közreműködést nem vállaló tagja.
+(5) Az iskolaszövetkezetnek nem lehet személyes közreműködést nem vállaló természetes személy tagja.
 
 9. § (1) Az iskolaszövetkezet felügyelő bizottságának egy-egy tagja az iskolaszövetkezet alapításában részt vevő, a 8. § (1) bekezdésében meghatározott intézmény, továbbá az intézmény fenntartója által delegált személy.
 
@@ -84,29 +86,33 @@ a következő törvényt alkotja:
 
 10/B. § (1) Az iskolaszövetkezet nappali tagozatos tanuló, hallgató tagja személyes közreműködését az iskolaszövetkezet által harmadik személy részére nyújtott szolgáltatás (a továbbiakban: külső szolgáltatás) keretében is teljesítheti.
 
-(2) Az iskolaszövetkezet és az iskolaszövetkezet nappali tagozatos tanuló, hallgató tagja közötti külső szolgáltatásra vonatkozó tagsági megállapodásra a Ptk. megbízásra vonatkozó, valamint a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) e törvényben megjelölt szabályait kell megfelelően alkalmazni.
+(2) A külső szolgáltatás nyújtására irányuló jogviszony az iskolaszövetkezet és az iskolaszövetkezet nappali tagozatos tanuló, hallgató tagja közötti külső szolgáltatásra vonatkozó tagsági megállapodás alapján létrejött, olyan sajátos jogviszony, amelynek keretében az iskolaszövetkezet nappali tagozatos tanuló, hallgató tagja teljesíti személyes közreműködését, és amelyre a Ptk. megbízásra vonatkozó, valamint a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) e törvényben meghatározott szabályait kell megfelelően alkalmazni.
 
-(3) Az iskolaszövetkezet nappali tagozatos tanuló, hallgató tagja részére, ha a feladatteljesítés tartama a napi hat órát meghaladja, napi húsz, ha a napi kilenc órát meghaladja, további napi huszonöt perc munkaközi szünetet kell biztosítani. Az iskolaszövetkezet nappali tagozatos tanuló, hallgató tagja részére, ha két egymást követő napon végzi feladatát, a napi munka befejezése és a következő napi munka megkezdése között legalább tizenegy óra pihenőidőt kell biztosítani. Az Mt. szabadságra vonatkozó rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy munkában töltött időnek a külső szolgáltatás keretében végzett feladatteljesítés időtartama minősül, amelynek keretében minden tizenhárom feladatteljesítéssel töltött nap után egy nap szabadság jár.
+(3) A külső szolgáltatás nyújtása során a külső szolgáltatás fogadója az iskolaszövetkezet nappali tagozatos tanuló, hallgató tagját közvetlenül utasíthatja. Az utasításadási jog kiterjed különösen a feladatteljesítés módjának, idejének és ütemezésének meghatározására.
 
-(4) A szolgáltatás fogadójánál történő feladatteljesítés tartamára járó, az egyes feladatokhoz kapcsolódó díjazásnak el kell érnie az Mt. 153. §-ában foglalt felhatalmazás alapján kiadott jogszabályban meghatározott minimális összeget.
+(4) Az iskolaszövetkezet nappali tagozatos tanuló, hallgató tagja részére, ha a feladatteljesítés tartama a napi hat órát meghaladja, napi húsz, ha a napi kilenc órát meghaladja, további napi huszonöt perc munkaközi szünetet kell biztosítani. Az iskolaszövetkezet nappali tagozatos tanuló, hallgató tagja részére, ha két egymást követő napon végzi feladatát, a napi munka befejezése és a következő napi munka megkezdése között legalább tizenegy óra pihenőidőt kell biztosítani.
 
-(5) A (2) bekezdésben foglalt megállapodásnak tartalmaznia kell
+(5) Az Mt. szabadságra vonatkozó rendelkezéseit az iskolaszövetkezet személyes közreműködést teljesítő, nappali tagozatos tanulói vagy hallgatói jogviszonyban nem álló tagja esetében kell alkalmazni, azzal az eltéréssel, hogy munkában töltött időnek a külső szolgáltatás keretében végzett feladatteljesítés időtartama minősül, amelynek keretében minden tizenhárom feladatteljesítéssel töltött nap után egy nap szabadság jár.
+
+(6) A külső szolgáltatás fogadójánál történő feladatteljesítés tartamára járó, az egyes feladatokhoz kapcsolódó díj nem lehet alacsonyabb, mint az Mt. 153. §-ában foglalt felhatalmazás alapján kiadott jogszabályban meghatározott minimális összeg.
+
+(7) A (2) bekezdés szerinti megállapodásnak tartalmaznia kell
 
 - a) a tag által vállalt feladatok körét,
-- b) a tagnak a szolgáltatás fogadójánál történő feladatteljesítése tartamára járó, az egyes feladatokhoz kapcsolódó díjazások legkisebb összegét, valamint
+- b) a tagnak a külső szolgáltatás fogadójánál történő feladatteljesítése tartamára járó, az egyes feladatokhoz kapcsolódó díj és a díjhoz kapcsolódó egyéb juttatás legkisebb összegét, valamint
 - c) az iskolaszövetkezet és a tag kapcsolattartásának módját a feladatteljesítéssel nem járó időtartamra.
 
-(6) A személyes közreműködés külső szolgáltatás keretében történő teljesítése megkezdésének feltétele, hogy az iskolaszövetkezet és a tag írásban megállapodjanak
+(8) A személyes közreműködés külső szolgáltatás keretében történő teljesítése megkezdésének feltétele, hogy az iskolaszövetkezet és a tag írásban megállapodjanak
 
 - a) a szolgáltatás fogadójának személyében,
 - b) a teljesítendő konkrét feladatban,
-- c) a tag díjazásának összegében és az összeg kifizetésének időpontjában,
+- c) a tag díjának és a díjhoz kapcsolódó egyéb juttatások összegében és az összeg kifizetésének időpontjában,
 - d) a feladat teljesítésének helyében, valamint
-- e) a feladat teljesítésének tartamában.
+- e) a feladat teljesítésének időtartamában.
 
-(7) A külső szolgáltatás teljesítésében résztvevő tag károkozása vagy személyiségi jog megsértése esetén az iskolaszövetkezet és a szolgáltatás fogadójának megállapodása alapján az alkalmazott károkozásáért való felelősség polgári jogi szabályait kell alkalmazni.
+(9) A külső szolgáltatás teljesítésében részt vevő tag károkozása vagy személyiségi jog megsértése esetén az iskolaszövetkezet és a külső szolgáltatás fogadójának megállapodása alapján az alkalmazott károkozásáért való felelősség polgári jogi szabályait kell alkalmazni, azzal, hogy a harmadik személynek okozott kárért vagy személyiségi jogsértésért az iskolaszövetkezet és a külső szolgáltatás fogadója egyetemlegesen felelnek.
 
-(8) A szolgáltatás fogadója részére történő feladatteljesítés során a külső szolgáltatás teljesítésében résztvevő tagnak okozott kárért vagy személyiségi jogai megsértéséért az iskolaszövetkezet és a szolgáltatás fogadója egyetemlegesen felel.
+(10) A külső szolgáltatás fogadója részére történő feladatteljesítés során a külső szolgáltatás teljesítésében részt vevő tagnak okozott kárért vagy személyiségi jogai megsértéséért az iskolaszövetkezet és a szolgáltatás fogadója egyetemlegesen felel.
 
 10/C. § A szolgáltatás fogadója együttműködik az iskolaszövetkezettel, így különösen biztosítja az iskolaszövetkezet képviselőjének a feladatteljesítés helyére történő belépést, tájékoztatja az iskolaszövetkezetet a feladatteljesítéssel kapcsolatos lényeges körülményekről.
 
@@ -146,15 +152,15 @@ a következő törvényt alkotja:
 
 (4) Az oktatási, képzési célt szolgáló közösségi alap terhére nyújtott szolgáltatás a nyereségből való részesedésként és a tagsági jogviszony megszűnéséhez kapcsolódó elszámolás során nem vehető figyelembe.
 
-#### 3. Szociális szövetkezet és foglalkoztatási szövetkezet
+#### 3. Szociális szövetkezet
 
 14. § (1) A szociális szövetkezet célja a hátrányos helyzetben lévő tagjai számára munkafeltételek teremtése, valamint szociális helyzetük javításának egyéb módon történő elősegítése.
 
-(2) A szociális szövetkezetnek a nevében viselnie kell a „szociális szövetkezet” megnevezést.
+(2) A szociális szövetkezetnek a nevében viselnie kell a fő tevékenységére utaló megjelölést, valamint a „szociális szövetkezet” megnevezést.
 
 (3) A szociális szövetkezet közhasznú jogállású lehet.
 
-15. § (1) A szociális szövetkezetnek a természetes személy tagjain kívül helyi önkormányzat vagy nemzetiségi önkormányzat, illetve ezek jogi személyiségű társulása (a továbbiakban együtt: önkormányzat), továbbá jogszabályban meghatározott karitatív tevékenységet ellátó közhasznú jogállású szervezet lehet a tagja.
+15. § (1) A szociális szövetkezetnek a természetes személy tagjain kívül legalább egy helyi önkormányzat vagy nemzetiségi önkormányzat, illetve ezek jogi személyiségű társulása (a továbbiakban együtt: önkormányzat), vagy jogszabályban meghatározott karitatív tevékenységet ellátó közhasznú jogállású szervezet tagjának kell lennie.
 
 (2) Szociális szövetkezetnek – az önkormányzat, továbbá karitatív tevékenységet ellátó közhasznú jogállású szervezet tag kivételével – nem lehet személyes közreműködést nem vállaló tagja.
 
@@ -164,17 +170,20 @@ a következő törvényt alkotja:
 
 (2) A szociális szövetkezet karitatív tevékenységet ellátó közhasznú jogállású szervezet tagja a közhasznú jogállásának megszűnéséről köteles haladéktalanul tájékoztatni a szociális szövetkezet vezető tisztségviselőjét.
 
-17. § (1) A foglalkoztatási szövetkezet olyan szociális szövetkezet, amelynek legalább ötszáz természetes személy és legalább egy országos nemzetiségi önkormányzat a tagja.
-
-(2) A foglalkoztatási szövetkezet a hátrányos helyzetben lévő tagjai számára a munkafeltételek megteremtését elsősorban munkaerő-kölcsönzés, valamint munkaközvetítő tevékenység útján valósítja meg, amelyre a munkaerő-kölcsönzésre, a közhasznú kölcsönzőre vonatkozó, valamint a magán-munkaközvetítői tevékenység folytatásának feltételeit szabályozó jogszabályok rendelkezéseit kell alkalmazni azzal, hogy a saját tagjai tekintetében munkaerő-kölcsönzési tevékenységet láthat el.
+17. §
 
 18. § (1) A szociális szövetkezetek esetében a személyes közreműködés sajátos formája a közös termelésben való, a tagsági jogviszonyon alapuló közvetlen közreműködés (a továbbiakban: tagi munkavégzés).
 
 (2) A tagi munkavégzés önálló, más munkavégzésre irányuló jogviszonyt szabályozó törvény hatálya alá nem tartozó jogviszony, amelyben az elvégzett munka ellentételezése a tagi munkavégzés arányában részben vagy egészben a tagok által közösen megtermelt javak természetben történő átadásával is megvalósulhat.
 
-(3) Tagi munkavégzésre irányuló jogviszonyt a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény szerint regisztrált álláskereső, illetve a közfoglalkoztatási jogviszonyban lévő személy létesíthet és tarthat fenn.
+(2a) A szociális szövetkezet tagja tagi munkavégzés keretében más munkáltatónál nem végezhet munkát.
 
-19. § (1) Ha a szociális szövetkezet tagi munkavégzési jogviszonyban lévő tagja munkavégzésre irányuló más jogviszonyt létesít vagy tart fenn, e más jogviszony fennállása alatt a tagi munkavégzési jogviszony szünetel.
+(3) Tagi munkavégzésre irányuló jogviszonyt az létesíthet és tarthat fenn
+
+- a) akit az állami foglalkoztatási szerv a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény szerint legalább három hónapja nyilvántart, vagy
+- b) aki legalább három hónapja közfoglalkoztatási jogviszonyban áll.
+
+19. § (1) A szociális szövetkezet a tagi munkavégzésre irányuló jogviszonyban álló tagjával a tagsági jogviszony fennállása alatt munkavégzésre irányuló további jogviszonyt nem létesíthet. Ha a szociális szövetkezet tagi munkavégzési jogviszonyban lévő tagja a tagsági jogviszonya fennállása alatt más foglalkoztatóval munkavégzésre irányuló jogviszonyt létesít vagy tart fenn, e jogviszony tartama alatt a szociális szövetkezettel fennálló tagi munkavégzési jogviszonya szünetel.
 
 (2) A szociális szövetkezet alapszabályának tartalmaznia kell
 
@@ -293,6 +302,12 @@ a következő törvényt alkotja:
 (4) A munkaviszony megszűnése esetén az Mt. 80–81. §-a megfelelően alkalmazandó.
 
 (5) Az (1) bekezdés szerinti iskolaszövetkezet alapszabályának az (1) bekezdésben foglaltakhoz szükséges, valamint a Módtv.-vel módosított egyéb rendelkezéseknek való megfeleléshez szükséges módosítását 2016. december 31-ig köteles elvégezni. Az (1) bekezdés szerinti iskolaszövetkezetnek a Módtv.-vel módosított rendelkezéseknek az alapszabály-módosítás időpontjától, ennek hiányában 2017. január 1-jétől kell megfelelnie.
+
+108/B. § (1) Az egyes foglalkoztatási tárgyú törvények módosításáról szóló 2016. évi CXLV. törvény (a továbbiakban: Módtv1.) hatálybalépését megelőző napig a cégjegyzékbe bejegyzett foglalkoztatási szövetkezet a Módtv1. hatálybalépésétől szociális szövetkezetként folytatja tevékenységét.
+
+(2) A Módtv1. hatálybalépését megelőző napig a cégjegyzékbe bejegyzett foglalkoztatási szövetkezet és a tagja között, ebben az időpontban fennálló, munkaerő-kölcsönzés céljából létesített munkaviszony a Módtv1. hatálybalépése napján megszűnik. Ha a foglalkoztatási szövetkezet és a kölcsönbevevő megállapodása alapján a tag munkavégzése a kölcsönbevevőnél ezen időpontnál későbbi időpontban fejeződik be, a munkaviszony megszűnésének napja a munkaerő-kölcsönzés alapján történő munkavégzés utolsó napja.
+
+(3) Az (1) bekezdés szerinti szövetkezet, továbbá a Módtv1. hatálybalépésének időpontjában a cégjegyzékbe bejegyzett, vagy a bejegyzés alatt álló szociális szövetkezet e törvénynek a Módtv1.-gyel megállapított rendelkezéseinek 2018. január 1-jéig köteles megfelelni, és az ahhoz szükséges alapszabály-módosítást elvégezni.
 
 109. § (1) E törvény 13/A. §-a a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 

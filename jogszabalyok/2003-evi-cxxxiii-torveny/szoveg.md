@@ -42,11 +42,11 @@ Az Országgyűlés a társasháztulajdon létesítése és biztonságos fenntart
 
 6. § A társasháztulajdon földrészletre való feljegyzésének vagy meglevő épületre való bejegyzésének feltétele, hogy az ingatlan-nyilvántartásban feltüntetett jogokat töröljék, vagy az érdekeltek megegyezzenek abban, hogy azok a társasházzá történő átalakítás után mely ingatlanokat fogják terhelni.
 
-7. § (1) Társasház felépítendő épületre úgy alapítható, hogy az épület engedélyezési záradékkal ellátott tervrajzának megfelelően a földrészlet tulajdonosa vagy valamennyi tulajdonostársa az alapítási szándékot alapító okiratba foglalja, és az előzetes alapítás tényét az ingatlan-nyilvántartásban a földrészlet tulajdoni lapjára feljegyzik.
+7. § (1) Társasház felépítendő épületre úgy alapítható, hogy a földrészlet tulajdonosa vagy valamennyi tulajdonostársa az alapítási szándékot alapító okiratba foglalja, és az előzetes alapítás tényét az ingatlan-nyilvántartásban a földrészlet tulajdoni lapjára feljegyzik.
 
 (2) A feljegyzett alapítás ténye kihat arra is, aki később az ingatlanra nézve jogot szerez.
 
-(3) A feljegyzett alapítást követően a társasház ingatlan-nyilvántartási bejegyzése a jogerős és végrehajtható használatbavételi engedély alapján kérhető. Ha a használatbavételi engedély eltér az építési engedélytől, a bejegyzés feltétele, hogy a változás szerint az alapító okiratot 60 napon belül módosítják és a szintenkénti alaprajzot a módosított alapító okirathoz csatolják.
+(3) Az épület felépítését követően kérhető a társasház ingatlan-nyilvántartásba történő bejegyzése. Ha a felépült épület nem felel meg az (1) bekezdés szerinti alapító okiratban foglaltaknak, a társasház ingatlan-nyilvántartási bejegyzéséhez az alapító okirat megfelelő módosítása szükséges.
 
 8. § (1) A közös tulajdonnak társasháztulajdonná való átalakítását bármelyik tulajdonostárs kérelmére a bíróság is elrendelheti. Az alapító okiratot ilyenkor a bírósági határozat pótolja.
 
@@ -74,7 +74,7 @@ Az Országgyűlés a társasháztulajdon létesítése és biztonságos fenntart
 
 (5) A (2)–(3) bekezdések szerinti határozatot közokiratba vagy ügyvéd – jogkörén belül jogtanácsos – által ellenjegyzett magánokiratba kell foglalni.
 
-(6) A közgyűlés határozata alapján – ha az (1)–(3) bekezdésekben meghatározott feltételek egyike sem áll fenn – bármely tulajdonostárs kérheti a bíróságtól, hogy a közös tulajdonban álló olyan épületrészre, amely önálló ingatlanként kialakítható, vagy amellyel a meglevő külön tulajdon tárgya bővíthető, megszüntesse a közös tulajdont, ha az a kisebbség méltányos érdekét nem sérti. A kereseti kérelemhez mellékelni kell az önálló ingatlan kialakítására vonatkozó, az építésügyi hatóság által engedélyezett építési tervet.
+(6) A közgyűlés határozata alapján – ha az (1)–(3) bekezdésekben meghatározott feltételek egyike sem áll fenn – bármely tulajdonostárs kérheti a bíróságtól, hogy a közös tulajdonban álló olyan épületrészre, amely önálló ingatlanként kialakítható, vagy amellyel a meglevő külön tulajdon tárgya bővíthető, megszüntesse a közös tulajdont, ha az a kisebbség méltányos érdekét nem sérti.
 
 ### Alapító okirat létrehozásának és módosításának közös szabálya
 
@@ -158,9 +158,9 @@ vonatkozó részletes szabályokat.
 
 (2) Az építtető tulajdonostárs a többi tulajdonostárs hozzájáruló nyilatkozatának beszerzése nélkül jogosult a lakásában tervezett olyan építkezés elvégzésére, amely miatt az alapító okiratot nem kell módosítani és az (1) bekezdésben említett körülmények nem állnak fenn.
 
-(3) Ha a (2) bekezdésben említett – az építésügyi hatóság jogerős és végrehajtható építési engedélye alapján elvégzett – munka olyan lakásmegosztást vagy lakásösszevonást eredményez, amelynek alapján a többi tulajdonostárs alapító okiratban meghatározott tulajdoni hányada változatlan marad, a közgyűlés az összes tulajdoni hányad szerinti legalább egyszerű szavazattöbbségű határozatával az alapító okiratot módosíthatja.
+(3) Ha a (2) bekezdésben említett munka olyan lakásmegosztást vagy lakásösszevonást eredményez, amelynek alapján a többi tulajdonostárs alapító okiratban meghatározott tulajdoni hányada változatlan marad, a közgyűlés az összes tulajdoni hányad szerinti legalább egyszerű szavazattöbbségű határozatával az alapító okiratot módosíthatja.
 
-(4) A közgyűlés (3) bekezdésben említett határozata az ingatlan-nyilvántartásba bejegyzésre alkalmas okirat; a határozatot közokiratba vagy ügyvéd – jogkörén belül jogtanácsos – által ellenjegyzett magánokiratba kell foglalni. A változás ingatlan-nyilvántartásba történő bejegyzésének feltétele, hogy az építtető tulajdonostárs az építésügyi hatóság jogerős és végrehajtható használatbavételi engedélyét az ingatlan-nyilvántartási iratokhoz csatolja.
+(4) A közgyűlés (3) bekezdésben említett határozata az ingatlan-nyilvántartásba bejegyzésre alkalmas okirat; a határozatot közokiratba vagy ügyvéd – jogkörén belül jogtanácsos – által ellenjegyzett magánokiratba kell foglalni.
 
 22. § (1) A szervezeti-működési szabályzat előírhatja, hogy a tulajdonostárs köteles a közös képviselőnek vagy az intézőbizottság elnökének bejelenteni:
 
@@ -454,7 +454,7 @@ vonatkozó részletes szabályokat.
 
 (4) A kijelölt szerv a kizáró ok fennállásának megállapítása céljából kezeli a tisztségviselőként, társasházkezelőként, ingatlankezelőként jogviszonyt létesíteni szándékozó személy, illetve a tisztségviselő, a társasházkezelő, az ingatlankezelő azon személyes adatait, amelyeket a kizáró ok fennállásának megállapítása céljából a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalmaz. A személyes adatokat a tisztségviselő megbízatásának, a társasház-kezelői, az ingatlankezelői tevékenység megkezdésének időpontjáig, vagy – a megbízatás elfogadása, a tevékenység megkezdése esetén – a tisztségviselői megbízatás, a társasház-kezelői, az ingatlankezelői tevékenység megszűnéséig lehet kezelni.
 
-(5) A tisztségviselői, társasház-kezelői, ingatlankezelői jogviszonyt létesíteni kívánó személy, illetve a közgyűlés felhívására a tisztségviselő, társasházkezelő, ingatlankezelő a megbízásának időtartama alatt a tevékenységével összefüggésben a nemleges köztartozásról szóló igazolást a kijelölt szerv részére köteles bemutatni.
+(5) A tisztségviselői, társasház-kezelői, ingatlankezelői jogviszonyt létesíteni kívánó személy, illetve a közgyűlés felhívására a tisztségviselő, társasházkezelő, ingatlankezelő a megbízásának időtartama alatt a tevékenységével összefüggésben a nemleges köztartozásról szóló igazolást – amennyiben a köztartozásmentes adózói adatbázisban nem szerepel – a kijelölt szerv részére köteles bemutatni.
 
 (6) A közgyűlés azonnali hatállyal felmenti a tisztségviselőt, visszavonja a társasház-kezelői, az ingatlankezelői tevékenység végzésére vonatkozó megbízatást, ha
 
@@ -630,6 +630,8 @@ kezeli.
 66. § Felhatalmazást kap a lakásgazdálkodásért és lakáspolitikáért felelős miniszter, hogy az e törvény szerinti üzletszerűen végzett társasház-kezelői, illetőleg üzletszerűen végzett ingatlankezelői tevékenység folytatásának részletes feltételeit, a tevékenység bejelentésének és a tevékenységet folytatókról vezetett nyilvántartásnak a személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket rendeletben szabályozza.
 
 67. § Felhatalmazást kap a települési (Budapesten a kerületi) önkormányzat képviselő-testülete, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat közgyűlése, hogy városképi vagy kereskedelmi szempontok alapján – az építésügyi, illetve a kereskedelmi jogszabályokkal összhangban – rendeletben határozhassa meg a nem lakás céljára szolgáló helyiség használatának, hasznosításának, illetve ezek megváltoztatásának módját, feltételeit.
+
+68. § Felhatalmazást kap az ingatlan-nyilvántartásért felelős miniszter, hogy a társasház alapítással, valamint az alapító okirat módosításával összefüggésben az ingatlan-nyilvántartási eljáráshoz benyújtandó dokumentumokat rendeletben szabályozza.
 
 ### 1. melléklet a 2003. évi CXXXIII. törvényhez
 

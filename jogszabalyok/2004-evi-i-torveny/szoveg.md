@@ -2,7 +2,7 @@
 
 a sportról
 
-Magyarország Országgyűlése kinyilvánítja, hogy a nemzet közössége a test művelését, a sportot, a nemzet alapértékének, kívánatos célnak tekinti. A nemzet értékei között tartja számon a sport által elért eredményeket, és elismeri a sport egyént és közösséget erősítő értékeit.Magyarország sportnemzet, amely e törvénnyel is tiszteleg azon tagjai előtt, akik tevékenységükkel dicsőséget, elismerést és megbecsülést szereztek hazánknak. Az e törvényben meghatározott célok megvalósítása biztosítja továbbá azt, hogy Magyarország sportoló nemzetté is váljék.A sport legelőbb is a lelki egészség alapja, amely hozzátartozik az egészséges nemzet, az egészségét megőrizni akaró polgár értékrendjéhez.A sport a közjó része. Erősíti a közösség tagjainak egymáshoz tartozását, miként az egyén testi és lelki egészségét.A sport magába foglalja a nemzet által vallott értékeket, az összetartozás és a versenyzés szellemét, a részvételt és a győzelmet, a teljesítmény elismerését, vagyis a munka becsületét, az önfegyelem és az öngondoskodás fontosságát, az egyén közösségért viselt felelősségét.Magyarország Országgyűlése kinyilvánítja, hogy minden embernek alapvető joga van a sporthoz, és e jogát az állam biztosítja, függetlenül attól, hogy versenysportról, a szabadidő eltöltéséről, a diák-, főiskolai-egyetemi sportról, a fogyatékkal élők sportjáról vagy az egészség megőrzéséről van szó.Magyarország Országgyűlése elfogadja az Európai Sport Chartát, és sportról szóló törvényét azzal összhangban az alábbiak szerint alkotja meg.
+Magyarország Országgyűlése kinyilvánítja, hogy a nemzet közössége a test művelését, a sportot, a nemzet alapértékének, kívánatos célnak tekinti. A nemzet értékei között tartja számon a sport által elért eredményeket, és elismeri a sport egyént és közösséget erősítő értékeit.Magyarország sportnemzet, amely e törvénnyel is tiszteleg azon tagjai előtt, akik tevékenységükkel dicsőséget, elismerést és megbecsülést szereztek hazánknak. Az e törvényben meghatározott célok megvalósítása biztosítja továbbá azt, hogy Magyarország sportoló nemzetté is váljék.A sport legelőbb is a lelki egészség alapja, amely hozzátartozik az egészséges nemzet, az egészségét megőrizni akaró polgár értékrendjéhez.A sport a közjó része. Erősíti a közösség tagjainak egymáshoz tartozását, miként az egyén testi és lelki egészségét.A sport magába foglalja a nemzet által vallott értékeket, az összetartozás és a versenyzés szellemét, a részvételt és a győzelmet, a teljesítmény elismerését, vagyis a munka becsületét, az önfegyelem és az öngondoskodás fontosságát, az egyén közösségért viselt felelősségét.Magyarország Országgyűlése kinyilvánítja, hogy minden embernek alapvető joga van a sporthoz, és e jogát az állam biztosítja, függetlenül attól, hogy versenysportról, a szabadidő eltöltéséről, a diák-, egyetemi-főiskolai sportról, a fogyatékkal élők sportjáról vagy az egészség megőrzéséről van szó.Magyarország Országgyűlése elfogadja az Európai Sport Chartát, és sportról szóló törvényét azzal összhangban az alábbiak szerint alkotja meg.
 
 ### I. Fejezet — A SPORTOLÓ JOGÁLLÁSA
 
@@ -48,15 +48,15 @@ Magyarország Országgyűlése kinyilvánítja, hogy a nemzet közössége a tes
 
 (4) A sportszövetség – a 8. § (5) bekezdésében foglaltakra figyelemmel – szabályzatban határozza meg, hogy mennyiben, illetve milyen versenyrendszer vagy verseny esetén írja elő a versenyengedély (rajtengedély) megszerzésének előfeltételéül a versenyző sporttevékenységével összefüggő biztosítását azzal, hogy a 18. életévét be nem töltött versenyző javára a sporttevékenységével összefüggő biztosítás megkötése – az e törvény felhatalmazására kiadott kormányrendeletben meghatározottak szerint – kötelező. A versenyengedély – ha a sportorvoslás szabályairól és a sportegészségügyi hálózatról szóló kormányrendelet kivételt nem tesz – csak a sportegészségügyi ellenőrzés adatait tartalmazó dokumentummal (sportorvosi engedély) együtt érvényes. A szövetség szabályzatában foglaltak szerint lehetővé teheti, hogy a 14. életévét be nem töltött, rajtengedélyt igénylő sportoló háziorvosi igazolással is részt vehessen a szövetség versenyrendszerében szervezett, rajtengedéllyel való induláshoz kötött versenyen (mérkőzésen).
 
-(5) A sportszövetség folyamatosan – a nemzeti sportinformációs rendszerről szóló kormányrendeletben meghatározottak szerint – köteles adatot szolgáltatni a sportpolitikáért felelős miniszter által működtetett elektronikus nyilvántartási rendszer (a továbbiakban: nemzeti sportinformációs rendszer) részére az általa kiadott versenyengedélyek számáról, a versenyengedéllyel rendelkezők versenyeken vagy versenyrendszerben való tényleges részvételéről. Az adatszolgáltatás személyes adatra nem terjedhet ki.
+(5)
 
-(6) Ha a sportszövetség erre jogosult szerve a versenyengedély kiadását megtagadja, e határozat kézhezvételétől számított 8 napon belül a kérelmező panaszt nyújthat be a sportszövetség elnökségéhez. Ha a panasznak a benyújtásától számított 15 napon belül az elnökség nem ad helyt, a kérelmező a sportszövetség határozatával szemben, annak kézbesítésétől számított 30 napos jogvesztő határidőn belül keresettel a bírósághoz vagy a Sport Állandó Választottbírósághoz fordulhat. Ez a szabály irányadó a versenyengedély visszavonására, valamint az igazolással, továbbá az átigazolással kapcsolatos jogvitákra is.
+(6) Ha a sportszövetség erre jogosult szerve a versenyengedély kiadását megtagadja, e határozat kézhezvételétől számított 8 napon belül a kérelmező panaszt nyújthat be a sportszövetség elnökségéhez. Ha a panasznak a benyújtásától számított 15 napon belül az elnökség nem ad helyt, a kérelmező a sportszövetség határozatával szemben, annak kézbesítésétől számított 30 napos jogvesztő határidőn belül keresettel a bírósághoz vagy a választottbírósághoz fordulhat. Ez a szabály irányadó a versenyengedély visszavonására, valamint az igazolással, továbbá az átigazolással kapcsolatos jogvitákra is.
 
 (7) A versenyengedély és a rajtengedély kiadását a sportszövetség a szabályzatában megállapított díj megfizetéséhez kötheti.
 
-(8) A sportszövetség a versenyengedélyeket a nemzeti sportinformációs rendszerben, amatőr, hivatásos és vegyes versenyrendszerenként, bajnoki osztályonként és nemenként, korcsoportonként, valamint – amennyiben az értelmezhető – szakáganként elkülönítve, a kiadástól számított négy évig tartja nyilván. A sportszövetség köteles gondoskodni arról, hogy a versenyengedély nyilvántartási száma egyértelmű és egységes jelölésű legyen. A versenyengedély kiállítása érdekében kezelt adatok statisztikai célra felhasználhatók, és statisztikai célú felhasználásra – személyazonosításra alkalmatlan módon – átadhatók.
+(8) A sportszövetség a versenyengedélyeket amatőr, hivatásos és vegyes versenyrendszerenként, bajnoki osztályonként és nemenként, korcsoportonként, valamint – amennyiben az értelmezhető – szakáganként elkülönítve, a kiadástól számított négy évig tartja nyilván. A sportszövetség köteles gondoskodni arról, hogy a versenyengedély nyilvántartási száma egyértelmű és egységes jelölésű legyen. A versenyengedély kiállítása érdekében kezelt adatok statisztikai célra felhasználhatók, és statisztikai célú felhasználásra – személyazonosításra alkalmatlan módon – átadhatók.
 
-(9) A sportszövetség köteles gondoskodni a versenyengedélyben feltüntetett, valamint az annak kiállításához felhasznált személyes adatoknak a személyes adatok védelméről szóló törvény szerinti kezeléséről.
+(9) A sportszövetség és sportszervezet köteles gondoskodni a versenyengedélyben feltüntetett, valamint az annak kiállításához felhasznált személyes adatoknak a személyes adatok védelméről szóló törvény szerinti kezeléséről.
 
 4. § (1) A versenyző tartózkodni köteles – a doppingellenes tevékenység szabályairól szóló kormányrendeletben meghatározott és a nemzeti doppingellenes szervezet által honlapján, hatóanyag szerinti alfabetikus rendben, a hozzá tartozó magyarországi forgalomban levő gyógyszerek neveivel, magyar és angol nyelven, valamint gyógyszernév szerinti alfabetikus rendben közzétett – tiltott teljesítményfokozó szerekre és módszerekre vonatkozó, doppingvétséget vagy büntetőeljárást megalapozó magatartások vagy azok kísérletének elkövetésétől.
 
@@ -74,14 +74,14 @@ Magyarország Országgyűlése kinyilvánítja, hogy a nemzet közössége a tes
 
 (4) A 18. életévét még be nem töltött sportolóval kötött sportszerződés csak a sportoló törvényes képviselőjének előzetes irásbeli beleegyezésével válik érvényessé.
 
-(5) Az amatőr sportoló sporttevékenységéért attól a sportszervezettől, sportiskolától vagy utánpótlás-nevelés fejlesztését végző alapítványtól, amellyel az (1) bekezdés szerint tagsági, szerződéses vagy tanulói jogviszonyban áll, valamint más természetes és jogi személytől díjazásban nem részesülhet. Ha a sportszövetség szabályzata a sportág jellegére és a nemzetközi szövetség követelményeire tekintettel másként nem rendelkezik, nem minősül ilyen díjazásnak,
+(5) Az amatőr sportoló sporttevékenységéért attól a sportszervezettől, amellyel az (1) bekezdés szerint tagsági, szerződéses vagy tanulói jogviszonyban áll, valamint más természetes és jogi személytől díjazásban nem részesülhet. Ha a sportszövetség szabályzata a sportág jellegére és a nemzetközi szövetség követelményeire tekintettel másként nem rendelkezik, nem minősül ilyen díjazásnak,
 
 - a) az amatőr sportoló felkészüléssel és versenyzéssel összefüggő indokolt és igazolt költségeinek megtérítése, az ezzel kapcsolatos természetbeni juttatás, valamint a Gerevich Aladár-sportösztöndíjrendszer keretében kapott támogatás,
 - b) a kiemelkedő sportteljesítményért nyújtott eredményességi elismerés (pénzbeli elismerés, érem, ajándéktárgy stb.).
 
 (6) A sportszövetség versenyszabályzatában határozza meg, hogy az amatőr sportoló milyen feltételekkel vehet részt hazai, illetve nemzetközi pénzdíjas versenyen, továbbá hivatásos, vegyes (nyílt) és amatőr versenyrendszerben.
 
-(7) A tagsági viszony, a sportszerződés vagy a tanulói jogviszony létrejöttével az amatőr sportoló játékjogának használatát e jogviszony fennállásának időtartamára – figyelemmel a 7. § (1) és (2) bekezdésében foglaltakra – sportszervezetének, sportiskolájának vagy az utánpótlás-nevelés fejlesztését végző alapítványnak ingyenesen átengedi.
+(7) A tagsági viszony, a sportszerződés vagy a tanulói jogviszony létrejöttével az amatőr sportoló játékjogának használatát e jogviszony fennállásának időtartamára – figyelemmel a 7. § (1) és (2) bekezdésében foglaltakra – sportszervezetének ingyenesen átengedi.
 
 6. § (1) Az amatőr sportoló a sportszövetség versenyrendszerében csak akkor vehet részt, ha versenyengedéllyel rendelkezik. A versenyengedélyt az amatőr sportoló
 
@@ -96,7 +96,7 @@ Magyarország Országgyűlése kinyilvánítja, hogy a nemzet közössége a tes
 - c) az iskolaként működő sportiskola tanulójaként, azon az oktatási intézményen keresztül, amellyel tanulói jogviszonyban áll vagy
 - d) a jogi személy nonprofit gazdasági társaságként működő sportiskola sportolójaként azon a nonprofit gazdasági társaságon keresztül, amellyel szerződéses jogviszonyban áll nyújthatja be a sportszövetséghez.
 
-7. § (1) Ha az amatőr sportoló sportszerződés alapján sportol, e szerződés fennállásának időtartama alatt csak a sportszervezete, sportiskolája vagy utánpótlás-nevelést végző alapítványa (jelen § alkalmazásában a továbbiakban: átadó sportszervezet) előzetes írásbeli hozzájárulásával igazolhat át ideiglenesen vagy véglegesen másik sportszervezethez, sportiskolához vagy utánpótlás-nevelést végző alapítványhoz (jelen § alkalmazásában a továbbiakban: átvevő sportszervezet). Az ideiglenes átigazolással (jelen § alkalmazásában a továbbiakban: kölcsönadás) vagy a végleges átigazolással az amatőr sportoló játékjogának használatát az átvevő sportszervezet szerzi meg. Az átadó sportszervezet – amennyiben azt a sportszövetség, szabályzatában foglaltak szerint lehetővé teszi – a hozzájárulás megadását költségtérítés fizetéséhez kötheti. A költségtérítés az amatőr sportoló kinevelésének ellenértéke, amely az adózás szempontjából szolgáltatásnyújtásnak minősül.
+7. § (1) Ha az amatőr sportoló sportszerződés alapján sportol, e szerződés fennállásának időtartama alatt csak a sportszervezete (jelen § alkalmazásában a továbbiakban: átadó sportszervezet) előzetes írásbeli hozzájárulásával igazolhat át ideiglenesen vagy véglegesen másik sportszervezethez (jelen § alkalmazásában a továbbiakban: átvevő sportszervezet). Az ideiglenes átigazolással (jelen § alkalmazásában a továbbiakban: kölcsönadás) vagy a végleges átigazolással az amatőr sportoló játékjogának használatát az átvevő sportszervezet szerzi meg. Az átadó sportszervezet – amennyiben azt a sportszövetség, szabályzatában foglaltak szerint lehetővé teszi – a hozzájárulás megadását költségtérítés fizetéséhez kötheti. A költségtérítés az amatőr sportoló kinevelésének ellenértéke, amely az adózás szempontjából szolgáltatásnyújtásnak minősül.
 
 (2) A költségtérítés mértékét és fizetésének feltételeit a sportszövetség szabályzatban határozhatja meg, ennek hiányában a költségtérítés mértékére és fizetésének feltételeire az átadó és az átvevő sportszervezet egymás közötti megállapodása az irányadó.
 
@@ -219,7 +219,9 @@ szabható ki.
 
 14. § (1) A sportfegyelmi eljárást első fokon a sportszövetség sportfegyelmi bizottsága, vagy a sportszövetség sportfegyelmi szabályzata alapján a sportszövetség területi szervezeti egységének vagy tagozatának sportfegyelmi bizottsága, másodfokon a sportszövetség sportfegyelmi szabályzatában meghatározott fellebbviteli szerv (elnökség vagy fellebbviteli bizottság) folytatja le. A másodfokon hozott határozat a kézbesítésével végrehajtható. A sportszövetség versenyein történő részvételtől és a sportszakmai tevékenységtől való eltiltás fegyelmi büntetést az elsőfokú fegyelmi bizottság a másodfokú határozat meghozataláig azonnal végrehajthatóvá nyilváníthatja.
 
-(2) A sportszövetség által a versenyzővel szemben a 12. § (4) bekezdés d) pontja és (5) bekezdése alapján, a sportszakemberre a 12. § (4) bekezdés d) pontja és (6) bekezdése alapján, továbbá a sportszervezetre a 13. § (3) bekezdés b), e), f), i)–l), n) és o) pontja alapján kiszabott másodfokú fegyelmi büntetéssel szemben a határozat kézbesítésétől számított 30 napos jogvesztő határidővel az érintett keresettel bírósághoz vagy a Sport Állandó Választottbírósághoz fordulhat.
+(2) A sportszövetség által a versenyzővel szemben a 12. § (4) bekezdés d) pontja és (5) bekezdése alapján, a sportszakemberre a 12. § (4) bekezdés d) pontja és (6) bekezdése alapján, továbbá a sportszervezetre a 13. § (3) bekezdés b), e), f), i)–l), n) és o) pontja alapján kiszabott másodfokú fegyelmi büntetéssel szemben a határozat kézbesítésétől számított 30 napos jogvesztő határidővel az érintett keresettel bírósághoz vagy a választottbírósághoz fordulhat.
+
+(2a) Nemzetközi minősítésű sportoló doppingellenes jogerős sportfegyelmi büntetéssel szemben kizárólag a CAS-hoz fordulhat.
 
 (3) A sportfegyelmi felelősségre, a sportfegyelmi eljárásra és a sportfegyelmi büntetésekre vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg. A sportszövetségnek – e törvény és a külön jogszabály alapján – sportfegyelmi szabályzatban kell meghatároznia a sportszövetség sportfegyelmi eljárásának részletes szabályait.
 
@@ -227,21 +229,21 @@ szabható ki.
 
 ### A sportszervezetek típusai
 
-15. § (1) Sportszervezetek a sportegyesületek és a sportvállalkozások.
+15. § (1) Sportszervezetek a sportegyesületek, a sportvállalkozások, a sportiskolák, valamint az utánpótlás-nevelés fejlesztését végző alapítványok.
 
 (2) A sportszervezetekre vonatkozó szabályokat megfelelően alkalmazni kell:
 
 - a) a nemzeti válogatott sportolók, illetve válogatott csapatok (keretek) működése kapcsán a nemzeti válogatottakat működtető sportszövetségekre,
 - b) a fogyatékosok sportja, illetve a szabadidősport területén működő azon sportszövetségekre, amelyek keretében sportolók közvetlenül – a sportszövetség alapszabályában biztosított lehetőség alapján – sporttevékenységet fejtenek ki,
-- c) a sportiskolákra, valamint az utánpótlás-nevelés fejlesztését végző alapítványokra.
+- c)
 
-(3) A sportszervezetek, a sportiskolák, valamint az utánpótlás-nevelés fejlesztését végző alapítványok a nemzeti sportinformációs rendszerről szóló kormányrendeletben foglaltak szerint adatokat szolgáltatnak a nemzeti sportinformációs rendszerbe.
+(3)
 
 ### A sportegyesület
 
 16. § (1) Sportegyesület – az e törvényben megállapított eltérésekkel – az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény (továbbiakban: Civil tv.) és a Polgári Törvénykönyv szabályai szerint működő olyan egyesület, amelynek alaptevékenysége a sporttevékenység szervezése, valamint a sporttevékenység feltételeinek megteremtése.
 
-(2) A sportegyesület a magyar sport hagyományos szervezeti alapegysége, a versenysport, a tehetséggondozás, az utánpótlás-nevelés és a szabadidősport műhelye. Sportegyesület – az állami sportcélú támogatásokról szóló miniszteri rendeletben meghatározott feltételek teljesülése esetén – közvetlenül is részesíthető állami támogatásban. A sportszakmai szempontból kiemelt, utánpótlás-nevelési, illetve felnőtt korosztályok felkészítését több sportágban egyaránt végző – az állami sportcélú támogatásokról szóló miniszteri rendeletben meghatározott feltételeknek megfelelő – sportegyesülettel – a 15. § (2) bekezdés c) pontjára figyelemmel ideértve az egyesületi jellegű sportiskolát is – kiemelt sportegyesületként (egyesületi jellegű sportiskolaként) a MOB olimpiai, paralimpiai, siketlimpiai ciklusokra szóló együttműködési megállapodást köthet.
+(2) A sportegyesület a magyar sport hagyományos szervezeti alapegysége, a versenysport, a tehetséggondozás, az utánpótlás-nevelés és a szabadidősport műhelye. Sportegyesület – az állami sportcélú támogatásokról szóló kormányrendeletben meghatározott feltételek teljesülése esetén – közvetlenül is részesíthető állami támogatásban. A sportszakmai szempontból kiemelt, utánpótlás-nevelési, illetve felnőtt korosztályok felkészítését több sportágban egyaránt végző – az állami sportcélú támogatásokról szóló kormányrendeletben meghatározott feltételeknek megfelelő – sportegyesülettel – ideértve az egyesületi jellegű sportiskolát is – kiemelt sportegyesületként (egyesületi jellegű sportiskolaként) a sportpolitikáért felelős miniszter olimpiai, paralimpiai, siketlimpiai ciklusokra szóló megállapodást köthet.
 
 (3) Az egyesületekről vezetett bírósági nyilvántartásban a sportegyesület sportegyesületi jellegét kifejezetten fel kell tüntetni.
 
@@ -259,15 +261,15 @@ szabható ki.
 
 (4) A sportegyesület jogutód nélküli megszűnése esetén a szakosztály jogi személyisége is megszűnik. A jogi személy szakosztály kötelezettségeiért a sportegyesület kezesi felelősséggel tartozik.
 
-(5) A sportegyesület alapszabálya vagy a jogvitában érintett személyek megállapodása a tagsági jogviszonyból, továbbá a sportegyesület vagy önálló jogi személy szervezeti egységei és a tagok egymás közötti jogviszonyából eredő jogvitákra a Sport Állandó Választottbíróság eljárását kötheti ki.
+(5) A sportegyesület alapszabálya vagy a jogvitában érintett személyek megállapodása a tagsági jogviszonyból, továbbá a sportegyesület vagy önálló jogi személy szervezeti egységei és a tagok egymás közötti jogviszonyából eredő jogvitákra a választottbíróság eljárását kötheti ki.
 
 (6) A sportegyesület bírósági feloszlatása esetén a hitelezők kielégítése után fennmaradó vagyon állami tulajdonba kerül, és azt a sportpolitikáért felelős miniszter által vezetett minisztérium költségvetésében az utánpótlás-nevelés támogatására kell fordítani.
 
-(7) A sportegyesületnek a bírósági nyilvántartásból való törlésére akkor kerülhet sor, ha a MOB igazolja, hogy a sportegyesület az állami sportcélú támogatás felhasználásával e törvényben, valamint az államháztartás működésére vonatkozó jogszabályokban foglaltaknak megfelelően elszámolt, vagy azt, hogy a sportegyesület állami sportcélú támogatásban nem részesült.
+(7) A sportegyesületnek a bírósági nyilvántartásból való törlésére akkor kerülhet sor, ha a sportpolitikáért felelős miniszter igazolja, hogy a sportegyesület az állami sportcélú támogatás felhasználásával e törvényben, valamint az államháztartás működésére vonatkozó jogszabályokban foglaltaknak megfelelően elszámolt, vagy azt, hogy a sportegyesület állami sportcélú támogatásban nem részesült.
 
 ### A sportvállalkozás
 
-18. § (1) Sportvállalkozásnak minősül az a gazdasági társaság, amelynek a cégnyilvántartásról, a cégnyilvánosságról és a bírósági cégeljárásról szóló törvény alapján a cégjegyzékbe bejegyzett főtevékenysége sporttevékenység, továbbá a gazdasági társaság célja sporttevékenység szervezése, valamint a sporttevékenység feltételeinek megteremtése egy vagy több sportágban.
+18. § (1) Sportvállalkozásnak minősül az a gazdasági társaság, amelynek a cégnyilvántartásról, a cégnyilvánosságról és a bírósági cégeljárásról szóló törvény alapján a cégjegyzékbe bejegyzett tevékenysége sporttevékenység, továbbá a gazdasági társaság célja sporttevékenység szervezése, valamint a sporttevékenység feltételeinek megteremtése egy vagy több sportágban.
 
 (2) Sportvállalkozás korlátolt felelősségű társasági, illetve részvénytársasági formában alapítható, illetve működhet a gazdasági társaságokról szóló törvény szabályai szerint.
 
@@ -287,25 +289,25 @@ szabható ki.
 - b) sportági szövetségek,
 - c) szabadidősport szövetségek,
 - d) fogyatékosok sportszövetségei,
-- e) diák- és főiskolai-egyetemi sport sportszövetségei.
+- e) diák- és egyetemi-főiskolai sport sportszövetségei.
 
 (4) A sportszövetség sportszövetségi jellegét és típusát a bírósági nyilvántartásban fel kell tüntetni.
 
 (5) A sportszövetségre megfelelően alkalmazni kell a Cstv. szabályait. Csőd- vagy felszámolási eljárás lefolytatása esetén a sportszövetség bírósági nyilvántartási adatai között be kell jegyezni a csőd- vagy felszámolási eljárás kezdő időpontját és befejezését, a felszámoló, felszámolóbiztos nevét, székhelyét és levelezési címét.
 
-(6) A sportszövetségnek a bírósági nyilvántartásból való törlésére akkor kerülhet sor, ha a MOB igazolja, hogy a sportszövetség az állami sportcélú támogatás felhasználásával e törvényben, valamint az államháztartás működésére vonatkozó jogszabályokban foglaltaknak megfelelően elszámolt vagy azt, hogy a sportszövetség állami sportcélú támogatásban nem részesült.
+(6) A sportszövetségnek a bírósági nyilvántartásból való törlésére akkor kerülhet sor, ha a sportpolitikáért felelős miniszter igazolja, hogy a sportszövetség az állami sportcélú támogatás felhasználásával e törvényben, valamint az államháztartás működésére vonatkozó jogszabályokban foglaltaknak megfelelően elszámolt vagy azt, hogy a sportszövetség állami sportcélú támogatásban nem részesült.
 
-(7) A sportszövetségek a nemzeti sportinformációs rendszerről szóló kormányrendeletben foglaltak szerint adatokat szolgáltatnak a nemzeti sportinformációs rendszerbe.
+(7)
 
 (7a) A sportszövetség bírósági nyilvántartás szerint képviseletre jogosult vezető tisztségviselői nem minősülnek a Civil tv. 53/A. §-a alkalmazásában kötelezettnek.
 
-(8) Az országos sportági szakszövetségeket megillető, illetve terhelő jogokra és kötelezettségekre vonatkozó szabályokat megfelelően alkalmazni kell a nyári és a téli olimpiai, ifjúsági olimpiai és paralimpiai (e rendelkezés alkalmazásában a továbbiakban: olimpiai) játékok hivatalos időszaka alatt az olimpiai kerettag nemzeti válogatott sportolók, illetve válogatott csapatok (keretek) működése kapcsán a MOB-ra.
+(8) Az országos sportági szakszövetségeket megillető, illetve terhelő jogokra és kötelezettségekre vonatkozó szabályokat megfelelően alkalmazni kell a nyári és a téli olimpiai, ifjúsági olimpiai és paralimpiai (e rendelkezés alkalmazásában a továbbiakban: olimpiai) játékok hivatalos időszaka alatt az olimpiai és paralimpiai kerettag nemzeti válogatott sportolók, illetve válogatott csapatok (keretek) működése kapcsán a MOB-ra és MPB-re.
 
 ### Az országos sportági szakszövetség
 
 20. § (1) Az országos sportági szakszövetség (a továbbiakban: szakszövetség) olyan sportszövetség, amely sportágában kizárólagos jelleggel az e törvényben, valamint más jogszabályokban meghatározott feladatokat lát el és e törvényben megállapított különleges jogosítványokat gyakorol. A szakszövetség jogi személy.
 
-(2) A szakszövetség nyilvántartott tagsággal rendelkező szervezet, amelyet a sportág versenyrendszerében részt vevő sportszervezetek, sportiskolák és utánpótlás-nevelés fejlesztését végző alapítványok hozhatnak létre. A sportág versenyrendszerében részt vevő sportszervezetek, sportiskolák és utánpótlás-nevelés fejlesztését végző alapítványok tagként való felvétele a szakszövetségbe nem tagadható meg, ha azok a szakszövetség alapszabályát magukra nézve kötelezőnek fogadják el.
+(2) A szakszövetség nyilvántartott tagsággal rendelkező szervezet, amelyet a sportág versenyrendszerében részt vevő sportszervezetek hozhatnak létre. A sportág versenyrendszerében részt vevő sportszervezetek tagként való felvétele a szakszövetségbe nem tagadható meg, ha azok a szakszövetség alapszabályát magukra nézve kötelezőnek fogadják el.
 
 (3) A szakszövetségre – amennyiben e törvény eltérően nem rendelkezik – a Civil tv. és a Polgári Törvénykönyv egyesületekre vonatkozó szabályait kell megfelelően alkalmazni. Egy sportágban csak egy szakszövetség működhet. A szakszövetség közvetlenül is részesíthető állami támogatásban.
 
@@ -331,7 +333,7 @@ szabható ki.
 - c) részt venni a sportág nemzetközi szövetségének munkájában, szervezni a sportág részvételét a nemzetközi sportkapcsolatokban,
 - d) működtetni a nemzeti válogatott kereteket, elősegíteni a sportágához tartozó sportolók részvételét a nemzetközi sporteseményeken,
 - e) meghatározni a sportág stratégiai fejlesztési koncepcióit (ideértve az utánpótlás-nevelés fejlesztését is) és gondoskodni ezek megvalósításáról,
-- f) képviselni a sportág érdekeit az állami szervek, a MOB és annak szakmai tagozatai, a többi sportszövetség, más egyesületek, szövetségek előtt, valamint a nemzetközi sportéletben,
+- f) képviselni a sportág érdekeit az állami szervek, a sportköztestületek, a többi sportszövetség, más egyesületek, szövetségek előtt, valamint a nemzetközi sportéletben,
 - g) az alapszabályában meghatározott módon szolgáltatásokat nyújtani tagjainak, közreműködni a tagok közötti viták rendezésében, elősegíteni a sportágában működő sportszakemberek képzését és továbbképzését,
 - h) meghatározni a sportág utánpótlás-fejlesztési koncepcióját és gondoskodni annak végrehajtásáról,
 - i) a 23. § (1) bekezdés d) pontja szerinti szabályzatában meghatározottak alapján ellenőrizni az adott sportág versenyrendszerében szervezett, vagy versenynaptárában egyébként szereplő sportrendezvények biztonságos lebonyolítását,
@@ -339,7 +341,7 @@ szabható ki.
 
 (2) A szakszövetség ellátja az alapszabályában, a sportága nemzetközi szövetségének szabályzataiban, illetve a jogszabályokban meghatározott feladatokat. Ennek keretében különösen:
 
-- a) gondoskodik a sportágában a versenyzők nyilvántartásáról, igazolásáról, átigazolásáról, valamint nyilvántartási rendszere alapján adatokat szolgáltat az állami sportinformációs rendszernek,
+- a) gondoskodik a sportágában a versenyzők nyilvántartásáról, igazolásáról, átigazolásáról,
 - b) megadja vagy megtagadja a sportági nemzetközi szövetsége, illetve a külföldi sportszövetség által megkívánt hozzájárulást magyar versenyzők külföldi, valamint a külföldi versenyzők Magyarországon történő versenyzéséhez,
 - c) a versenyszabályzatot, illetve a sportág egyéb szabályzatait megszegő versenyzőkkel, sportszakemberekkel és sportszervezetekkel szemben az e törvényben és a külön jogszabályban meghatározottak szerint sportfegyelmi jogkört gyakorol,
 - d) érvényesíti a doppingtilalmat,
@@ -354,7 +356,8 @@ szabható ki.
   - fg) a látvány-csapatsportok támogatásával összefüggő adatszolgáltatási tevékenységet végez,
   - fh) ellátja a Tao. 24/A. § (20) bekezdésében meghatározott igazolás kiállításával összefüggő feladatokat,
 - g) sportágában elláthatja a sportág fogyatékosok sportjával összefüggő feladatait, amit az állami sportcélú támogatás elosztásáról szóló döntés során figyelembe kell venni,
-- h) sportágában elláthat szabadidős sporttevékenységgel összefüggő feladatokat is, amit az állami sportcélú támogatás elosztásáról szóló döntés során figyelembe kell venni.
+- h) sportágában elláthat szabadidős sporttevékenységgel összefüggő feladatokat is, amit az állami sportcélú támogatás elosztásáról szóló döntés során figyelembe kell venni,
+- i) stratégiai jellegű feladatai körében meghatározza a versenyzők minősítési szintjeit.
 
 (3) A látvány-csapatsportban működő szakszövetség a (2) bekezdés f) pont fa) és fb) alpontjában meghatározott feladatok ellátása során közigazgatási hatósági jogkörben jár el a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) rendelkezései alapján.
 
@@ -373,12 +376,14 @@ szabható ki.
 23. § (1) A sportág rendeltetésszerű működése érdekében – a külön jogszabályokban előírt más szabályzatok mellett – a szakszövetség az alábbi sporttevékenységgel összefüggő szabályzatokat köteles megalkotni:
 
 - a) versenyszabályzat,
-- b) igazolási (nyilvántartási) és átigazolási szabályzat, amely tartalmazza a versenyzők sporttevékenységére és érdekvédelmére vonatkozó szakmai és etikai előírásokat is, kiemelt figyelemmel a kiskorú versenyzőkre,
+- b) igazolási (nyilvántartási) és átigazolási szabályzat, amely tartalmazza a versenyzők sporttevékenységére és érdekvédelmére vonatkozó szakmai előírásokat is,
 - c) sportfegyelmi szabályzat,
 - d) a sportrendezvény biztonságos lebonyolításával kapcsolatos előírásokat tartalmazó szabályzat,
 - e) doppingszabályzat,
-- f) gazdálkodási, pénzügyi szabályzat, amely tartalmazza az állami sportcélú támogatások e törvénynek, valamint az államháztartás működésére vonatkozó jogszabályoknak és az állami sportcélú támogatások felhasználásáról és elosztásáról szóló miniszteri rendeletnek megfelelő felhasználására vonatkozó előírásokat is,
-- g) a sportszakemberek képesítési követelményeit és feladatait tartalmazó szabályzat.
+- f) gazdálkodási, pénzügyi szabályzat, amely tartalmazza az állami sportcélú támogatások e törvénynek, valamint az államháztartás működésére vonatkozó jogszabályoknak és az állami sportcélú támogatások felhasználásáról és elosztásáról szóló kormányrendeletnek megfelelő felhasználására vonatkozó előírásokat is,
+- g) a sportszakemberek képesítési követelményeit és feladatait tartalmazó szabályzat,
+- h) etikai és gyermekvédelmi szabályzat,
+- i) sportegészségügyi szabályzat, amely tartalmazza különösen a sportsérülések megelőzésére, a sportegészségügyi ellátás biztosítására és a sportbiztosításra vonatkozó sportági előírásokat is.
 
 (2) Amennyiben a szakszövetség hivatásos vagy vegyes (nyílt) versenyrendszert (bajnokságot) működtet, úgy a versenyszabályzatban külön rendelkeznie kell a hivatásos vagy a vegyes bajnokságban részt vevő sportszervezetekkel, illetve sportolókkal szemben támasztott követelményekről.
 
@@ -437,7 +442,7 @@ szabható ki.
 - a) a jogi személyiségét a Fővárosi Törvényszék nyilvántartásába történő bejegyzéssel szerzi meg,
 - b) nevét, székhelyét, képviselőjének nevét és lakóhelyét a Fővárosi Törvényszék külön alszámon tartja nyilván.
 
-(6) A szakszövetség alapszabályának felhatalmazása alapján a tagsági jogviszonyból, továbbá a szakszövetség vagy önálló jogi személy szervezeti egységei és a tagok egymás közötti jogviszonyából eredő jogvitákra a Sport Állandó Választottbíróság eljárása az alapszabályban – a felek kölcsönös alávetési nyilatkozata nélkül – is kiköthető.
+(6) A szakszövetség alapszabályának felhatalmazása alapján a tagsági jogviszonyból, továbbá a szakszövetség vagy önálló jogi személy szervezeti egységei és a tagok egymás közötti jogviszonyából eredő jogvitákra a választottbíróság eljárása az alapszabályban – a felek kölcsönös alávetési nyilatkozata nélkül – is kiköthető.
 
 26. § (1) A szakszövetség elsősorban a tagdíjakból, szponzori bevételekből, a kereskedelmi jogai értékesítéséből származó bevételekből, valamint központi költségvetési, önkormányzati, köztestületi, közalapítványi és egyéb támogatásokból gazdálkodik.
 
@@ -449,11 +454,11 @@ szabható ki.
 
 (2) Az ügyész keresete alapján a bíróság akkor is felfüggesztheti a szakszövetség ügyintéző-képviselő szervének tevékenységét, és a tevékenység irányítására felügyelő biztost rendelhet ki, ha a szakszövetség számviteli jogszabályok szerinti eredménye egymást követő két évben negatív, és kötelezettségei legalább ötven százalékkal meghaladják saját vagyonának mértékét. Ha a rendeltetésszerű gazdálkodás nem állítható helyre, a felügyelő biztos javaslatot tesz az ügyésznek a szakszövetség bírósági feloszlatásának kezdeményezésére.
 
-(3) A szakszövetség feloszlatása vagy jogutód nélküli megszűnése esetén a hitelezők kielégítése után fennmaradó vagyont a MOB rendelkezésére kell bocsátani és azt az adott sportág utánpótlás-nevelési programjainak támogatására kell fordítani.
+(3) A szakszövetség jogutód nélküli megszűnése esetén a hitelezők kielégítése után fennmaradó vagyont a sportpolitikáért felelős miniszter által vezetett minisztérium fizetési számlájára kell befizetni, és azt az utánpótlás-nevelés központi költségvetési támogatására kell fordítani.
 
 ### A sportági szövetségek
 
-28. § (1) A sportági szövetség a Civil tv. és a Polgári Törvénykönyv előírásai alapján – az e törvényben meghatározott eltérésekkel – működő szövetség, amelynek tagjai kizárólag sportszervezetek, sportiskolák és utánpótlás-nevelés fejlesztését végző alapítványok lehetnek. Sportági szövetség országos jelleggel is működhet. Egy sportágban csak egy országos sportági szövetség működhet.
+28. § (1) A sportági szövetség a Civil tv. és a Polgári Törvénykönyv előírásai alapján – az e törvényben meghatározott eltérésekkel – működő szövetség, amelynek tagjai kizárólag sportszervezetek lehetnek. Sportági szövetség országos jelleggel is működhet. Egy sportágban csak egy országos sportági szövetség működhet.
 
 (2) A szakszövetségnek az e törvényben és a külön jogszabályokban meghatározott feladatait az országos sportági szövetség akkor láthatja el, ha nem felel meg a 20. § (4)–(5) bekezdésében meghatározott feltételeknek és:
 
@@ -466,7 +471,7 @@ szabható ki.
 
 (3) Az országos sportági szövetséget megfelelően megilletik és terhelik a szakszövetségekre e törvényben és más jogszabályokban meghatározott jogok és kötelezettségek.
 
-(4) Az országos sportági szövetség felvételét kérheti a MOB-ba.
+(4)
 
 (5) Az országos sportági szövetség közvetlenül is részesíthető állami támogatásban.
 
@@ -482,15 +487,15 @@ szabható ki.
 
 (3) A fogyatékosok országos sportszövetségeit megilletik és terhelik a szakszövetségekre e törvényben és más jogszabályokban meghatározott jogok és kötelezettségek.
 
-### A diák- és a főiskolai-egyetemi sport sportszövetségei
+### A diák- és az egyetemi-főiskolai sport sportszövetségei
 
-30. § (1) A diák- és főiskolai-egyetemi sport sportszövetségei a diák- és főiskolai-egyetemi sport versenyeinek (a továbbiakban együtt: diáksportverseny) szervezésére, illetve az abban való közreműködésre létrehozott sportszövetségek. A diák- és főiskolai-egyetemi sport sportszövetsége országos jelleggel is működhet.
+30. § (1) A diák- és egyetemi-főiskolai sport sportszövetségei a diák- és egyetemi-főiskolai sport versenyeinek (a továbbiakban együtt: diáksportverseny) szervezésére, illetve az abban való közreműködésre létrehozott sportszövetségek. A diák- és egyetemi-főiskolai sport sportszövetsége országos jelleggel is működhet.
 
-(2) Az országos diák- és főiskolai-egyetemi sport sportszövetségei által, illetve közreműködésükkel szervezett diáksport versenyeken résztvevő sportoló a tanulói, hallgatói jogviszonya alapján diáksportolónak minősül függetlenül attól, hogy versenyző vagy szabadidős sportoló.
+(2) Az országos diák- és egyetemi-főiskolai sport sportszövetségei által, illetve közreműködésükkel szervezett diáksportversenyeken résztvevő sportoló a tanulói, hallgatói jogviszonya alapján diáksportolónak minősül függetlenül attól, hogy versenyző vagy szabadidős sportoló.
 
-(3) A diáksport versenyek elkülönülnek a szakszövetség vagy az országos sportági szövetség versenyrendszerében szervezett versenyektől.
+(3) A diáksportversenyek elkülönülnek a szakszövetség vagy az országos sportági szövetség versenyrendszerében szervezett versenyektől.
 
-(4) A diáksport versenyeket a diák- és főiskolai-egyetemi sport sportszövetségei önállóan – az adott sportág szövetségével egyeztetve – írják ki.
+(4) A diáksportversenyeket a diák- és egyetemi-főiskolai sport sportszövetségei önállóan – az adott sportág szövetségével egyeztetve – írják ki.
 
 ### IV. Fejezet — A SPORT VERSENYRENDSZERE
 
@@ -531,13 +536,13 @@ versenyrendszert működtethet (bajnokságot írhat ki).
 
 (3) Ha a sportszervezet általános jogutóddal szűnik meg, az indulási jog az általános jogutódra átszáll. Ha a sportszervezet általános jogutód nélkül szűnik meg, az indulási jog megszűnik.
 
-(4) Ha a sportszervezet székhelyét, telephelyét, illetve nevét megváltoztatja és a változás a sportszervezet indulási jogát érinti, a sportszövetség szabályzatában megjelölt szerve hivatalból vagy kérelemre megvizsgálhatja, hogy a változás az indulási jog joggal való visszaélést megvalósító átruházására irányul-e. A vizsgálat eredménye alapján a sportszövetség elnöksége az eset összes körülményei mérlegelése alapján dönt arról, hogy a változást végrehajtó sportszervezet részt vehet-e a versenyrendszerben. Az elnökségnek az indulás jogát megtagadó határozatával szemben az érintett sportszervezet a határozat kézbesítésétől számított harminc napos jogvesztő határidőn belül keresettel bírósághoz, illetve a 47. § szerint a Sport Állandó Választottbírósághoz fordulhat.
+(4) Ha a sportszervezet székhelyét, telephelyét, illetve nevét megváltoztatja és a változás a sportszervezet indulási jogát érinti, a sportszövetség szabályzatában megjelölt szerve hivatalból vagy kérelemre megvizsgálhatja, hogy a változás az indulási jog joggal való visszaélést megvalósító átruházására irányul-e. A vizsgálat eredménye alapján a sportszövetség elnöksége az eset összes körülményei mérlegelése alapján dönt arról, hogy a változást végrehajtó sportszervezet részt vehet-e a versenyrendszerben. Az elnökségnek az indulás jogát megtagadó határozatával szemben az érintett sportszervezet a határozat kézbesítésétől számított harminc napos jogvesztő határidőn belül keresettel bírósághoz, illetve választottbírósághoz fordulhat.
 
 34. § (1) A sportszövetségnek a versenyszabályzatában a hivatásos, illetve a vegyes (nyílt) versenyrendszerben (bajnokságban) részt vevő sportszervezetek számára azonos pénzügyi, adminisztratív, technikai és szakmai követelményeket kell megállapítania.
 
 (2) A sportszövetség a hivatásos, illetve vegyes versenyrendszerre (bajnokságra) vonatkozó szabályzatában:
 
-- a) előírhatja a nevezés leadásával egyidejűleg meghatározott összegű óvadék letételét. Az óvadékot a sportszövetségnek kamatozó külön számlán kell kezelnie, és azt a bajnokság befejezésekor a kamatokkal együtt a bajnokság befejezésétől számított nyolc napon belül vissza kell fizetnie a sportszervezetnek. Ha a sportszervezet a bajnokságot nem fejezi be, az óvadék a sportszövetséget illeti,
+- a) előírhatja a nevezés leadásával egyidejűleg meghatározott összegű óvadék letételét. Az óvadékot a sportszövetségnek kamatozó külön számlán kell kezelnie, és azt a bajnokság befejezésekor a kamatokkal együtt a bajnokság befejezésétől számított nyolc napon belül vissza kell fizetnie a sportszervezetnek. Ha a sportszervezet a bajnokságot nem fejezi be, az óvadék és a kamat arányos része a sportszövetséget illeti,
 - b) a sportlétesítmény technikai színvonalával, illetve a sportesemény rendezésével kapcsolatban az amatőr bajnoksághoz képest többletkövetelményeket állapíthat meg,
 - c) meghatározhatja a sportszervezet által kötelezően foglalkoztatandó hivatásos sportolók, továbbá a sportszervezet által az utánpótlás (tartalék) bajnokság(ok)ban indítandó csapatok, illetve versenyzők számát,
 - d) előírhatja a sportszervezet előző évi pénzügyi beszámolójának, illetve tárgyévi pénzügyi tervének a sportszövetséghez történő benyújtását,
@@ -587,13 +592,13 @@ versenyrendszert működtethet (bajnokságot írhat ki).
 
 (4) Ha a verseny (sportrendezvény) nem képezi a sportszövetség versenyrendszerének részét, a szervező a versenykiírásban úgy rendelkezhet, hogy a versennyel kapcsolatos vagyoni értékű jogok hasznosítását magának tartja fenn.
 
-### VI. Fejezet — A SPORT CIVIL IRÁNYÍTÁSI RENDSZERE
+### VI. Fejezet — A SPORT CIVIL IGAZGATÁSI ÉS ÉRDEKKÉPVISELETI RENDSZERE
 
 ### A Magyar Olimpiai Bizottság
 
-38. § (1) A MOB a Nemzetközi Olimpiai Bizottság (a továbbiakban NOB) által kizárólagos nemzeti olimpiai bizottságként elismert, a sporttal összefüggő – e törvényben meghatározott – országos közfeladatokat ellátó köztestület, amely a Civil tv. szerinti nyilvántartásba vétel nélkül közhasznú szervezetnek minősül. A MOB-ot a Fővárosi Törvényszék tartja nyilván.
+38. § (1) A MOB a Nemzetközi Olimpiai Bizottság (a továbbiakban: NOB) által kizárólagos nemzeti olimpiai bizottságként elismert, az olimpiai mozgalommal kapcsolatos szervezett versenysporttal összefüggő – e törvényben meghatározott –, országos közfeladatokat ellátó köztestület, amely a Civil tv. szerinti nyilvántartásba vétel nélkül közhasznú szervezetnek minősül. A MOB-ot a Fővárosi Törvényszék tartja nyilván.
 
-(2) A MOB működésének részletes szabályait a NOB szabályainak (különösen az Olimpiai Chartának), valamint e törvény és a külön jogszabályok rendelkezéseinek figyelembevételével a közgyűlés által elfogadott alapszabály határozza meg.
+(2) A MOB működésének részletes szabályait a NOB alapszabályának és egyéb szabályzatainak (különösen az Olimpiai Chartának), valamint e törvény és a külön jogszabályok rendelkezéseinek figyelembevételével a közgyűlés által elfogadott alapszabály határozza meg.
 
 (3) A MOB feladatai az olimpiai mozgalom területén elsősorban:
 
@@ -604,104 +609,52 @@ versenyrendszert működtethet (bajnokságot írhat ki).
 - e) az olimpiai mozgalom érdekében védi az olimpiai jelképeket, szimbólumokat,
 - f) kizárólagos jogokat gyakorol – a NOB előírásaival összhangban – az alábbi területeken:
   - fa) a sportágak és a sportolók nevezése és sportszakemberek akkreditálása a nyári és téli olimpiai játékokra, a nyári és téli ifjúsági olimpiai játékokra, valamint az európai ifjúsági olimpiai fesztiválra, a NOB és az Európai Olimpiai Bizottság által elismert sporteseményekre, játékokra, továbbá a nyári és a téli európai ifjúsági olimpiai fesztiválokra,
-  - fb) a NOB szabályzataiban – különösen az olimpiai szimbólumnak, zászlónak, jelmondatnak, lángnak, fáklyának az „olimpia” és „olimpiai” elnevezésnek –, valamint azok bármely nyelvű fordításának bármilyen módon és formában történő megjelenítése, felhasználása, illetve ezek mások általi bármilyen módon és formában történő megjelenítésének, felhasználásának engedélyezése, valamint az ezzel kapcsolatos vagyoni jogok gyakorlása, illetve az ezekkel való rendelkezés. Az olimpiai tulajdonelemek megjelenítésének tekintendők az olimpiai tulajdonelemekhez hasonló, azokkal összevethető, azokra közvetett, de egyértelműen azonosítható formában utaló megjelenítések.
+  - fb) a NOB szabályzataiban meghatározott olimpiai tulajdonelemeknek – különösen az olimpiai szimbólumnak, zászlónak, jelmondatnak, lángnak, fáklyának az „olimpia” és „olimpiai” elnevezésnek –, valamint azok bármely nyelvű fordításának bármilyen módon és formában történő megjelenítése, felhasználása, illetve ezek mások általi bármilyen módon és formában történő megjelenítésének, felhasználásának engedélyezése, valamint az ezzel kapcsolatos vagyoni jogok gyakorlása, illetve az ezekkel való rendelkezés. Az olimpiai tulajdonelemek megjelenítésének tekintendők az olimpiai tulajdonelemekhez hasonló, azokkal összevethető, azokra közvetett, de egyértelműen azonosítható formában utaló megjelenítések,
+- g) jóváhagyja a sportszövetségek éves olimpiai felkészülési programját és nyomon követi annak megvalósítását,
+- h) elfogadja a sportszövetségek olimpiai felkészülési programjáról készített szakmai beszámolót,
+- i) ellátja az olimpiai pályázattal összefüggésben, a NOB alapszabályában és egyéb szabályzataiban a nemzeti olimpiai bizottságok részére megállapított feladatokat.
 
-(4) A MOB feladatai a fogyatékosok sportja területén – az (5) bekezdésben foglaltakra is figyelemmel – elsősorban:
+(4) A MOB feladatai az utánpótlás-nevelés területén elsősorban:
 
-- a) a Nemzetközi Paralimpiai Bizottság magyarországi tagszervezeteként működő, Magyar Paralimpiai Bizottság útján végrehajtja a Nemzetközi Paralimpiai Bizottság alapszabályában és egyéb szabályzataiban a nemzeti paralimpiai bizottságok és tagszervezetei részére megállapított célkitűzéseket és feladatokat,
-- b) a szakszövetségekkel, sportszövetségekkel együttműködve elősegíti a sportolók nyári és téli paralimpiai játékokra, és egyéb nemzetközi versenyekre történő felkészülését, illetve részvételét,
-- c) fejleszti a paralimpiai mozgalmat,
-- d) a paralimpiai mozgalom érdekében védi a paralimpiai játékok jelképeit,
-- e) a paralimpiai mozgalom eszményének jegyében segíti az érintett ifjúság testi, erkölcsi és kulturális nevelését, támogatja a tisztességes játék (fair play) szellemében való versenyzést, fellép a sportmozgalomra ható káros jelenségek ellen,
-- f) közreműködik az olimpiai központok fogyatékosok sportjának speciális igényeit szolgáló fejlesztésében és szakmai tevékenységének kidolgozásában,
-- g) a Nemzetközi Paralimpiai Bizottság magyarországi tagszervezeteként működő, Magyar Paralimpiai Bizottság részére biztosítja kizárólagos jogok gyakorlását – a Nemzetközi Paralimpiai Bizottság előírásaival összhangban – az alábbi területeken:
-  - ga) a sportágak és a sportolók nevezése a paralimpiai játékokra,
-  - gb) a paralimpiai jelkép, zászló, jelvény, jelmondat, himnusz kereskedelmi vagy egyéb célú használata, illetve ezek mások általi használatának, hasznosításának engedélyezése,
-- h) a Siketek Nemzetközi Sportbizottsága hazai tagszervezetével együttműködve elősegíti a sportolók nyári és téli siketlimpiai játékokra, és egyéb nemzetközi versenyekre történő felkészülését, illetve részvételét,
-- i) végrehajtja a Nemzetközi Speciális Olimpia, a Szervátültetettek Világjátékainak Szövetsége, a Siketek Nemzetközi Sportbizottsága alapszabályában és egyéb szabályzataiban a nemzeti speciális világjáték szervezetek részére megállapított célkitűzéseket és feladatokat,
-- j) az érintett sportszövetségekkel együttműködve elősegíti és koordinálja a magyar sportolók speciális világjátékokon való részvételét,
-- k) támogatja a nem paralimpiai versenyekhez illeszkedő, nemzetközi versenyrendszerrel rendelkező, fogyatékos sportszövetségek hazai sportrendezvényeit,
-- l) részt vesz a fogyatékosok nemzetközi sportszervezeteinek tevékenységében,
-- m) közös és integrált sportrendezvényeket, verseny- és szabadidősport programokat szervez a különböző fogyatékosságú, valamint nem sérült emberek számára, fejleszti a fogyatékosok sportjának egyes területeit,
-- n) a fogyatékosok diák- és szabadidősportja területén népszerűsíti a fogyatékosok sportját, aminek keretén belül a fogyatékosok diák- és szabadidősportjával foglalkozó sportszervezetek programjainak megvalósításával szélesíti a sport tömegbázisát,
-- o) részt vesz a fogyatékosok szabadidősportjának nemzetközi együttműködésében.
-
-(5) A (4) bekezdés a)–e) és g) pontjában meghatározott kizárólagos jogokat a MOB a 45. § (2) bekezdés d) pontjában meghatározott, a paralimpiai mozgalmat képviselő, a Nemzetközi Paralimpiai Bizottság magyarországi tagszervezeteként működő, fogyatékosok országos sportszövetségének minősülő – 29. § (3) bekezdése szerinti – tagja útján gyakorolja.
-
-(6) A MOB feladatai a nem olimpiai sportágak területén elsősorban:
-
-- a) szervezi a Világjátékok Nemzetközi Szövetsége (IWGA) Világjátékain és a Nemzetközi Sportszövetségek Szövetségének (Sportaccord) Világjátékain való magyar részvételt és az arra való felkészülés szakmai feladatait,
-- b) részt vesz a nem kormányzati nemzetközi sportszervezetek, különösen az Európai Nem Kormányzati Sportszervezetek Szövetségének (ENGSO) tevékenységében, amely feladatkört nem kizárólag a nem olimpiai sportágakkal összefüggésben gyakorolja.
-
-(7) A MOB feladatai az utánpótlás-nevelés területén elsősorban:
-
-- a) elkészíti a magyar sport utánpótlás-nevelési koncepcióját,
-- b) megszervezi, integrálja és végrehajtja a fiatal sportolók általános és sportági felkészítésének tudományos vizsgálatát, közreműködik a korszerű edzésmódszerek kidolgozásában, alkalmazásában, és segíti a hatékony módszerek és eljárások széles körű elterjesztését,
-- c) irányítja, felügyeli és működteti a tehetséggondozó, élutánpótlás-nevelő programokat és a sportiskolai programot, együttműködik a programokban szereplő országos sportági szakszövetségekkel,
-- d) – a nemzeti sportinformációs rendszer részeként – kialakítja és működteti az utánpótlás-nevelés információs és továbbképzési rendszerét,
-- e) megszervezi és biztosítja a tehetséggondozó programokba bekerült sportolók magas színvonalú edzésmunkájának feltételeit, szakmai segítséget nyújt a sportszövetségek ez irányú munkájához,
-- f) szervezeti egységén keresztül sportkutatási-módszertani és tudományos tevékenységet folytat: megfogalmazza a szakmai-kutatási feladattervezeteket, ellátja és koordinálja a kutatási feladatokat, részt vesz a működő sportágfejlesztési programokban, ellátja azok szakmai – tudományos felügyeletét, sportszakmai fórumokat hív össze, valamint részt vesz a hazai és nemzetközi sportkutatási feladatok elvégzésében, kutatási programok szervezésében, végrehajtásában,
-- g) együttműködik, folyamatos szakmai kapcsolatot tart a sport területén felsőfokú képzést, szakképzést, továbbképzést folytató felsőoktatási intézményekkel, valamint a sportegészségügyi feladatokat ellátó egészségügyi intézményekkel,
-- h) a köznevelési típusú sportiskolák szakmai és módszertani feladatainak ellátása érdekében közoktatási szakértői tevékenységet lát el,
-- i) az utánpótlás-nevelési források hatékony felhasználása érdekében szakmai fejlesztési és támogatási rendszert működtet.
-
-(8) A MOB feladatai a diák-hallgatói sport területén elsősorban:
-
-- a) a sportszövetségi integrált működés keretében a diák- és főiskolai-egyetemi sport országos sportszövetségével együttműködve biztosítja a sportszövetségek és a diák- és főiskolai-egyetemi sportszövetségek, valamint a diák- és főiskolai-egyetemi sport területén működő sportszervezetek közötti szakmai feladatok összehangolt ellátását,
-- b) támogatja a sportolói kettős karrier (életút) program bevezetését, működését;
-- c) a diák- és főiskolai-egyetemi sport országos sportszövetségével együttműködve szervezi a diák és főiskolai-egyetemi sport kiemelkedő nemzetközi sporteseményein való magyar részvételt és az arra való felkészülést.
-
-(9) A MOB feladatai a szabadidősport területén elsősorban:
-
-- a) a szabadidősportot népszerűsítő tevékenységet végez, aminek keretében a szabadidősporttal foglalkozó integrált sportszövetségi és diák-, főiskolai-egyetemi sportprogramok megvalósításán, valamint elsődlegesen szabadidősport-tevékenység szervezésére létrehozott sportszervezetek támogatásán keresztül szélesíti a sport tömegbázisát, a testmozgás, egészséges életmód népszerűsítésére vonatkozó programok támogatásával hozzájárul a sport kedvező hatásainak, értékeinek elterjesztéséhez,
-- b) részt vesz a szabadidősporttal kapcsolatos nemzetközi együttműködésben.
+- a) szakmai javaslatot tesz a magyar sport utánpótlás-nevelési koncepciójára, valamint az utánpótlás-nevelés szakmai programjaira,
+- b) sportszakmai javaslatot tesz a tehetséggondozó, élutánpótlás-nevelő programokra és a sportiskolai programra, egyeztet a programokban szereplő országos sportági szakszövetségekkel és sportiskolákkal.
 
 39. § A MOB stratégiai jellegű feladatai elsősorban:
 
-- a) a sport civil szervezetei közötti koordinációs tevékenységet végez, előkészíti a sport átfogó fejlesztési koncepcióját,
-- b) a sport stratégiai fejlesztési céljainak meghatározásában együttműködik a sportpolitikáért felelős miniszterrel,
-- c) figyelemmel kíséri a sportszövetségek által elkészített sportági stratégiai fejlesztési koncepciók megvalósítását,
-- d) részt vesz a versenysporttal, az utánpótlás-neveléssel, a diák- és főiskolai-egyetemi sporttal, a fogyatékosok sportjával, valamint a szabadidősporttal kapcsolatos döntés-előkészítésben,
-- e) együttműködik az állami szervekkel, valamint a civil szervezetekkel a sport stratégiai fejlesztési céljainak meghatározásában, illetve megvalósításában,
-- f) az olimpiai mozgalom eszményének jegyében segíti az ifjúság testi, erkölcsi és kulturális nevelését, felvilágosító kampánnyal és más eszközökkel támogatja a tisztességes játék (fair play) szellemében való versenyzést, fellép a sportmozgalomra ható káros jelenségek (különösen a tiltott teljesítményfokozás, valamint a verseny, mérkőzés eredményének tiltott eszközökkel, módszerekkel történő befolyásolása és a fogadási csalás) ellen,
-- g) meghatározza a versenyzők minősítési szintjeit – együttműködésben az országos sportági szakszövetségekkel és az országos sportági szövetségekkel –,
-- h)
-- i) kidolgozza a sportolóvá válás gondozásának módszertanát a kiválasztástól a nemzetközi szintű teljesítményig,
-- j) segíti, koordinálja a sport különböző területeinek szakmai munkáját,
-- k) kialakítja a támogatási rendszerek minőségbiztosítási rendszerét és követelményeit,
-- l) négyéves ciklusokban megtervezi az olimpiai, paralimpiai és siketlimpiai játékokra, valamint a világjátékokra és a speciális világjátékokra történő felkészülés, támogatás rendszerét,
-- m) hozzájárul a nemzetközi szintű felkészülés és versenyzés feltételeinek biztosításához,
-- n) segíti a korszerű szakmai munkához szükséges ismeretek széles körben terjesztését, azok alkalmazását.
+- a) javaslatot tesz az olimpiai mozgalommal kapcsolatos szervezett versenysport stratégiai fejlesztési céljaira és irányaira, és ezek meghatározásában együttműködik a sportpolitikáért felelős miniszterrel,
+- b) figyelemmel kíséri a sportszövetségek által elkészített sportági stratégiai fejlesztési koncepciók megvalósítását,
+- c) együttműködik a sportpolitikáért felelős miniszterrel és a további sportköztestületekkel a sport stratégiai fejlesztési céljainak meghatározásában és megvalósításában,
+- d) az olimpiai mozgalom eszményének jegyében segíti az ifjúság testi, erkölcsi és kulturális nevelését, felvilágosító kampánnyal és más eszközökkel támogatja a tisztességes játék (fair play) szellemében való versenyzést, fellép a sportmozgalomra ható káros jelenségek (különösen a tiltott teljesítményfokozás, valamint a verseny, mérkőzés eredményének tiltott eszközökkel, módszerekkel történő befolyásolása és a fogadási csalás) ellen,
+- e) javaslatot tesz a sportpolitikáért felelős miniszter részére a sportolóvá válás gondozásának módszertanára a kiválasztástól a nemzetközi szintű teljesítményig,
+- f) javaslatot tesz a sportpolitikáért felelős miniszternek a támogatási rendszerek minőségbiztosítási rendszerére (benchmark-rendszer) és követelményeire,
+- g) négyéves ciklusokban megtervezi az olimpiai felkészülés rendszerét és szakmai javaslatot tesz a sportpolitikáért felelős miniszter részére a sport világesemények támogatására,
+- h) együttműködik a sportpolitikáért felelős miniszterrel a sportszakemberek képzési, továbbképzési, valamint foglalkoztatási céljait szolgáló programok meghatározásában, segíti a sportszövetségek kötelező sportszakember-továbbképzési feladataik ellátását,
+- i) együttműködik a sportpolitikáért felelős miniszterrel a sporttudomány fejlesztésével összefüggő szakmai feladatok ellátásában,
+- j) közreműködik a korszerű edzésmódszerek kidolgozásában, alkalmazásában, és segíti a hatékony módszerek és eljárások széleskörű terjesztését,
+- k) a doppingellenes tevékenységről szóló kormányrendeletben meghatározottak szerint közreműködik a doppingellenes tevékenységgel összefüggő sportszakmai feladatok ellátásában.
 
 40. § A MOB sportigazgatási feladatai elsősorban:
 
-- a) kezdeményezi a sporttal kapcsolatos kormányzati intézkedések, szabályozási koncepciók megtételét, véleményezi a sporttal kapcsolatos jogszabálytervezeteket,
-- b) a doppingellenes tevékenységről szóló kormányrendeletben meghatározottak szerint ellátja a doppingellenes tevékenységgel összefüggő sportszakmai feladatait,
-- c) ellátja az olimpiai járadékkal és a Nemzet Sportolója Címmel összefüggő, e törvényben, továbbá az olimpiai járadékról és a Nemzet Sportolója Cím adományozásáról szóló kormányrendeletekben meghatározott közigazgatási hatósági feladatokat,
-- d) ellátja a versenyengedélyek kiadásával kapcsolatos – a nemzeti sportinformációs rendszerről szóló kormányrendeletben meghatározott – adminisztratív feladatokat, meghatározza a versenyengedély sportágaktól függetlenül egységes formáját, valamint együttműködik a sportpolitikáért felelős miniszterrel a nemzeti sportinformációs rendszer működtetésében, továbbá adatot szolgáltat a nemzeti sportinformációs rendszer részére,
-- e) együttműködik a sportpolitikáért felelős miniszterrel a sportszakemberek képzési, továbbképzési, valamint foglalkoztatási céljait szolgáló programok meghatározásában, segíti a sportszövetségek kötelező sportszakember-továbbképzési feladataik ellátását,
-- f) együttműködik a sportpolitikáért felelős miniszterrel a sporttudomány fejlesztésével összefüggő szakmai feladatok ellátásában,
-- g) az országos sportági szakszövetségi és az országos sportági szövetségi jogállás bírósági bejegyzését megelőzően igazolja a 20. § (4)–(5) bekezdésében és a 28. § (1)–(2) bekezdésében meghatározott feltételek fennállását,
-- h) biztosítja a Sport Állandó Választottbíróság működési feltételeit.
+- a) javaslatot tesz a sportpolitikáért felelős miniszter részére az olimpiai mozgalommal kapcsolatos szervezett versenysporttal összefüggő kormányzati intézkedések, szabályozási koncepciók megtételére, véleményezi az olimpiai mozgalommal kapcsolatos szervezett versenysporttal összefüggő jogszabálytervezeteket,
+- b) biztosítja a Sport Állandó Választottbíróság működési feltételeit.
 
-41. § A MOB feladatai a sportpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetéből származó állami sportcélú támogatások tervezésével, elosztásával, felhasználásával, elszámolásával és ellenőrzésével kapcsolatos – az e törvényben és az állami sportcélú támogatások felhasználásáról és elosztásáról szóló miniszteri rendeletben meghatározottak szerint – a következők:
+41. § A MOB feladatai a sportpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetéből származó, az olimpiai mozgalommal kapcsolatos szervezett versenysporttal összefüggő állami sportcélú támogatások tervezésével, elosztásával, felhasználásával, elszámolásával és ellenőrzésével kapcsolatos – az e törvényben és az állami sportcélú támogatások felhasználásáról és elosztásáról szóló kormányrendeletben meghatározottak szerint – a következők:
 
-- a) a központi költségvetés tervezésének időszakában – az 57. § (5) bekezdésében foglaltakra figyelemmel, minden év június 30-ig – a központi költségvetési támogatások elosztásának irányaira és arányaira vonatkozó javaslatot küld a sportpolitikáért felelős miniszter részére a 39. § c) pontja szerinti sportági stratégiai fejlesztési koncepciók figyelembevételével,
-- b) meghatározza az állami sportcélú támogatások felosztási elveit,
-- c) dönt a feladatkörébe tartozó, költségvetési törvényben meghatározott állami sportcélú támogatások felhasználásáról és folyósítja a támogatásokat,
-- d) koordinálja és folyamatosan nyomon követi az állami sportcélú támogatás felhasználását,
-- e) ellenőrzi az éves támogatási programok megvalósításának folyamatában (az adminisztratív célú támogatások kivételével) benyújtott negyedéves szakmai előrehaladási jelentéseket és azok eredményéről tájékoztatja a sportpolitikáért felelős minisztert,
-- f) részt vesz az állami sportcélú támogatás felhasználásával kapcsolatos elszámolási feladatokban, ennek keretében:
+- a) az államháztartásért felelős miniszter által meghatározott, a sportpolitikáért felelős miniszter által a MOB részére megadott határidőben a központi költségvetési támogatások elosztásának irányaira és arányaira vonatkozó javaslatot küld a sportpolitikáért felelős miniszter részére a 39. § b) pontja szerinti sportági stratégiai fejlesztési koncepciók figyelembevételével,
+- b) javaslatot tesz az olimpiai mozgalommal kapcsolatos szervezett versenysporttal összefüggő állami sportcélú támogatások felosztási elveire,
+- c) dönt a részére rendelkezésre bocsátott állami sportcélú támogatások felhasználásáról és folyósítja a támogatásokat,
+- d) koordinálja és folyamatosan nyomon követi a rendelkezésére bocsátott állami sportcélú támogatás felhasználását,
+- e) szakmailag véleményezi az éves támogatási programok megvalósításának folyamatában (az adminisztratív célú támogatások kivételével) benyújtott negyedéves szakmai előrehaladási jelentéseket és azok eredményéről tájékoztatja a sportpolitikáért felelős minisztert,
+- f) részt vesz a részére juttatott állami sportcélú támogatás felhasználásával kapcsolatos elszámolási feladatokban, ennek keretében
   - fa) elszámoltatja a kedvezményezettet a továbbadott állami sportcélú támogatásról,
-  - fb) elszámol a 46/A. § (1) bekezdésében meghatározott állami sportcélú támogatással,
-- g) működteti a sportösztöndíjrendszert,
-- h) a sportpolitikáért felelős miniszter közreműködésével ellátja a nyugdíjas olimpiai és világbajnoki érmes sportolók, azok özvegyei, valamint a kiemelkedő sporteredmények elérésében közreműködő nyugdíjas sportszakemberek erkölcsi és anyagi megbecsülését, gondozza a sporttémájú művészeti pályázati programokat.
+  - fb) elszámol a 46. § (1) bekezdésében meghatározott állami sportcélú támogatással,
+- g) az 58. § (2) bekezdésében meghatározottak szerint részt vesz a Gerevich Aladár-sportösztöndíj működtetésében,
+- h) ellátja a nyugdíjas olimpiai és világbajnoki érmes sportolók, azok özvegyei, valamint a kiemelkedő sporteredmények elérésében közreműködő nyugdíjas sportszakemberek erkölcsi és anyagi megbecsülését, gondozza a sporttémájú művészeti pályázati programokat.
 
 42. § (1) A MOB tagjai
 
-- a) azok a büntetlen előéletű magyar állampolgárok, valamint az olimpiai sportágak azon képviselői, akik elismerik és magukénak vallják az olimpiai eszmét, készek elősegíteni a MOB működését, akiket a MOB alapszabályában felsorolt szervek és szervezetek képviselőiként taggá delegálnak, illetve akik a MOB alapszabályában foglaltak szerint személyes jogosultság alapján válnak tagokká
-- b) – a MOB alapszabályának elfogadása esetén – alanyi jogon a szakszövetségek, az országos sportági szövetségek, az országos szabadidősport-szövetségek, valamint az országos diák- és hallgatói sportszövetségek,
-- c) alanyi jogon a fogyatékosok országos sportszövetségei, azok a szakszövetségek és országos sportági szövetségek, amelyek sportága szerepel a Paralimpia, illetve a Siketlimpia programjában vagy tevékenységi köre kiterjed a fogyatékossággal élők versenysportjára, vagy amelyek integrált versenyrendszert működtetnek, vagy amelyeknél az épek versenyrendszerében fogyatékos sportolók is részt vesznek.
+- a) azok a büntetlen előéletű magyar állampolgárok, valamint az olimpiai sportágak azon képviselői, akik elismerik és magukénak vallják az olimpiai eszmét, készek elősegíteni a MOB működését, akiket a MOB alapszabályában felsorolt szervek és szervezetek képviselőiként taggá delegálnak, illetve akik a MOB alapszabályában foglaltak szerint személyes jogosultság alapján válnak tagokká,
+- b) – a MOB alapszabályának elfogadása esetén – alanyi jogon az olimpiai sportágak országos sportági szakszövetségei.
 
 (2) A MOB tagjait a főtitkár vagy az azzal azonos jogállású tisztségviselő (a továbbiakban együtt: MOB-főtitkár) tartja nyilván.
 
@@ -712,7 +665,9 @@ versenyrendszert működtethet (bajnokságot írhat ki).
 (5) A
 
 - a) MOB tagja a tagság fennállása alatt a MOB elnökének felhívására,
-- b) MOB elnökségi tagja az elnökségi megbízatásának időtartama alatt a közgyűlés írásbeli – a mulasztás jogkövetkezményeinek ismertetését tartalmazó – felhívására a felhívástól számított tizenöt munkanapon belül, vagy ha e határidőn belül a felhívott személyén kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul, a MOB főtitkár részére hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű.
+- b) MOB elnökségi tagja az elnökségi megbízatásának időtartama alatt a közgyűlés írásbeli – a mulasztás jogkövetkezményeinek ismertetését tartalmazó – felhívására
+
+a felhívástól számított tizenöt munkanapon belül, vagy ha e határidőn belül a felhívott személyén kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul, a MOB főtitkár részére hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű.
 
 (6) Ha a MOB tagja, illetve a MOB elnökségi tagja igazolja, hogy büntetlen előéletű, a MOB a bűnügyi nyilvántartó szerv által az igazolás céljából kiállított hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat részére megtéríti.
 
@@ -722,9 +677,11 @@ versenyrendszert működtethet (bajnokságot írhat ki).
 
 - a) a (3) bekezdés alapján megismert személyes adatokat a MOB-tagságról meghozott döntés időpontjáig,
 - b) a (4) bekezdés alapján megismert személyes adatokat a MOB elnökségi tagságról meghozott döntés időpontjáig,
-- c) az (5) bekezdés alapján megismert személyes adatokat a MOB-tag tagsági viszonyának megszűnéséig kezeli.
+- c) az (5) bekezdés alapján megismert személyes adatokat a MOB-tag tagsági viszonyának megszűnéséig
 
-43. § (1) A MOB legfelsőbb szerve a közgyűlés, amely a tagok összességéből áll. A közgyűlésben az alapszabályban rögzített számú helyet kell biztosítani az olimpiai sportágak országos szakszövetségei által jelölt személyeknek azzal, hogy számuknak meg kell haladnia a MOB tagjai létszámának felét. A MOB alapszabálya lehetővé teheti, hogy – az arányosság elvének betartásával – egy tag több képviselőt is küldjön – tagsági jogokkal – a közgyűlésbe. A MOB közgyűlésének részletes összetételét a MOB alapszabálya határozza meg.
+kezeli.
+
+43. § (1) A MOB legfelsőbb szerve a közgyűlés, amely a tagok összességéből áll. A közgyűlésben a MOB alapszabályában rögzített számú helyet kell biztosítani az olimpiai sportágak szakszövetségei által jelölt személyeknek azzal, hogy számuknak meg kell haladnia a MOB tagjai létszámának felét. A MOB alapszabálya lehetővé teheti, hogy – az arányosság elvének betartásával – egy tag több képviselőt is küldjön – tagsági jogokkal – a közgyűlésbe. A MOB közgyűlésének részletes összetételét a MOB alapszabálya határozza meg.
 
 (2) A közgyűlés kizárólagos hatáskörébe tartozik:
 
@@ -736,7 +693,7 @@ versenyrendszert működtethet (bajnokságot írhat ki).
 
 (3) A MOB közgyűlésén a sportpolitikáért felelős miniszter által vezetett minisztérium képviselője, valamint a felügyelőbizottság elnöke tanácskozási joggal vehetnek részt.
 
-(4) A MOB-ügyintéző és képviseleti szerve a tagok által ilyen célból – az alapszabályban meghatározottak szerint – közvetlenül vagy közvetett úton választott testület (elnökség). A MOB elnökségének tagjai: az elnök, alelnökökként a 45. § (2) bekezdés szerinti tagozatok vezetői, valamint a MOB alapszabályában meghatározott további személyek és szervezetek képviselői. Az elnökség tagja büntetlen előéletű magyar állampolgár lehet. A MOB elnökségének tagja nem lehet állami vezető.
+(4) A MOB-ügyintéző és képviseleti szerve a tagok által ilyen célból – az alapszabályban meghatározottak szerint – közvetlenül választott testület (elnökség). A MOB elnökségének tagjai: az elnök, valamint a MOB alapszabályában meghatározott további személyek és szervezetek képviselői. Az elnökség tagja büntetlen előéletű magyar állampolgár lehet. A MOB elnökségének tagja nem lehet állami vezető.
 
 (5) Az elnökség ülésére – tanácskozási joggal – meg kell hívni a felügyelőbizottság tagjait, valamint a sportpolitikáért felelős miniszter által vezetett minisztérium képviselőjét.
 
@@ -744,7 +701,7 @@ versenyrendszert működtethet (bajnokságot írhat ki).
 
 (2) A felügyelőbizottság – a MOB közgyűlése által elfogadott – éves ellenőrzési munkaterv alapján látja el feladatát.
 
-(3) A felügyelőbizottság írásbeli jelentése hiányában a közgyűlés a 43. § (2) bekezdés c)–d) pontjai szerinti beszámolókról és a MOB költségvetéséről nem dönthet. A MOB alapszabálya határozza meg a MOB közgyűlése és elnöksége elé kizárólag a felügyelőbizottság előzetes véleménye alapján terjesztendő további ügyek körét. A felügyelőbizottság feladatkörében eljárva, azzal összefüggésben a MOB irataiba betekinthet, a MOB tagjától és tisztségviselőjétől felvilágosítást kérhet.
+(3) A felügyelőbizottság írásbeli jelentése hiányában a közgyűlés a 43. § (2) bekezdés c) és d) pontjai szerinti beszámolókról és a MOB költségvetéséről nem dönthet. A MOB alapszabálya határozza meg a MOB közgyűlése és elnöksége elé kizárólag a felügyelőbizottság előzetes véleménye alapján terjesztendő további ügyek körét. A felügyelőbizottság feladatkörében eljárva, azzal összefüggésben a MOB irataiba betekinthet, a MOB tagjától és tisztségviselőjétől felvilágosítást kérhet.
 
 (4) Ha a felügyelőbizottság a feladatai ellátása során jogszabályt, az alapszabályt, a MOB valamely testületének döntését vagy egyébként a MOB érdekeit sértő körülményt észlel, az arra jogosult számára intézkedési javaslatot tesz, illetve jogosult – jogszabály vagy az alapszabály megsértése esetén köteles – a napirend megjelölésével a közgyűlés összehívását kezdeményezni.
 
@@ -752,44 +709,9 @@ versenyrendszert működtethet (bajnokságot írhat ki).
 
 (6) A MOB elnökségének tagjai és azok Polgári Törvénykönyv szerinti hozzátartozói nem lehetnek a felügyelőbizottság tagjai. Az alapszabály az összeférhetetlenség további eseteit is megállapíthatja, valamint rendelkezik az összeférhetetlenségi ok felmerülése esetén követendő eljárásról.
 
-(7) A MOB gazdálkodását a felügyelőbizottság mellett az elnökség által megbízott könyvvizsgáló is ellenőrzi. A könyvvizsgáló írásbeli jelentése hiányában a közgyűlés a 43. § (2) bekezdés c)–d) pontjai szerinti beszámolókról és költségvetésről nem dönthet.
+(7) A MOB gazdálkodását a felügyelőbizottság mellett az elnökség által megbízott könyvvizsgáló is ellenőrzi. A könyvvizsgáló írásbeli jelentése hiányában a közgyűlés a 43. § (2) bekezdés c) és d) pontjai szerinti beszámolókról és költségvetésről nem dönthet.
 
-45. § (1) A MOB e törvényben meghatározott közfeladatainak ellátását a versenysport, az utánpótlás-nevelés és a diák- és főiskolai-egyetemi sport, a fogyatékosok sportja, valamint a szabadidősport területén működő szervezeti egységek (a továbbiakban: szakmai tagozat) segítik. A szakmai tagozatok létrehozásáról, feladat- és hatáskörükről, működésükről és gazdálkodásukról – e törvény rendelkezéseinek megfelelően – a MOB alapszabálya rendelkezik.
-
-(2) A MOB-ban
-
-- a) olimpiai sportágak versenysportjáért,
-- b) nem olimpiai sportágak versenysportjáért,
-- c) utánpótlás-nevelésért és diák- és főiskolai-egyetemi sportért,
-- d) fogyatékosok sportjáért, valamint
-- e) szabadidősportért
-
-felelős szakmai tagozatok működnek.
-
-(3) A szakmai tagozatokat, valamint más szervezeti egységeket a MOB az alapszabályában jogi személyiséggel ruházhatja fel.
-
-(4) A MOB tagját a választása szerinti – tevékenysége alapján meghatározott – szakmai tagozatokba fel kell venni. A MOB tagja egyidejűleg több szakmai tagozat tagja is lehet, de szavazati joggal két közgyűlés közötti időszakban csak a választása szerinti egy szakmai tagozatban rendelkezik, egyéb szakmai tagozatban tagként tanácskozásra jogosult.
-
-(5) A szakmai tagozat a MOB alapszabályában meghatározott módon:
-
-- a) megállapíthatja a szervezetére és működésére vonatkozó szabályokat és megválaszthatja a tisztségviselőit azzal, hogy a szakmai tagozat elnöke a MOB alelnöke,
-- b) a működéséhez szükséges vagyonnal rendelkezhet azzal, hogy a MOB 46/A. § szerinti bevételeiből az alapszabályban meghatározott módon részesedhet és – ha a működéséhez szükséges vagyonnal rendelkezik, akkor – a szakmai tagozat működéséhez szükséges vagyont önálló pénzforgalmi számlán kell nyilvántartania és kezelnie,
-- c) kidolgozza a tevékenységi körére vonatkozó szakmai programját,
-- d) koordinálja a szakmai tagozat tevékenységi körébe tartozó sportágfejlesztési tervek kidolgozását a szakmai tagozat tagsága tekintetében,
-- e) összehangolja a szakmai tagozat tagjainak a d) pont szerint kidolgozásra kerülő szövetségi szintű sportágfejlesztési terveit,
-- f) javaslatot tesz a MOB részére a tevékenységének támogatására szolgáló állami sportcélú támogatás felhasználására,
-- g) közreműködik az állami sportcélú támogatás felhasználásával kapcsolatos elszámolási feladatok előkészítésében,
-- h) javaslatot tehet a szervezetére és működésére vonatkozó szabályok megállapítására, módosítására,
-- i) meghatározhatja a szakmai tagozat MOB közgyűlésében való képviseletének szabályait,
-- j) használhatja a MOB „szakmai tagozata” elnevezést.
-
-(6) A szakmai tagozatok véleményezési és – az alapszabályban foglaltak szerint a szakmai területüket érintő ügyekben – egyetértési joggal rendelkeznek.
-
-(7) A szakmai tagozatra vonatkozó részletes szabályokat, így különösen a szakmai tagozatok vezetésének, – a (8) bekezdésre is figyelemmel – képviseletének, működésének és gazdálkodásának rendjét a MOB alapszabálya tartalmazza.
-
-(8) A fogyatékosok sportjáért felelős szervezeti egységben a MOB alapszabályban rögzített számú helyet kell biztosítani a Magyar Paralimpiai Bizottság tagszervezetei által jelölt személyeknek azzal, hogy számuknak meg kell haladnia a szervezeti egység MOB tagjai létszámának felét.
-
-46. § (1) A MOB működése felett a törvényességi ellenőrzést az ügyészség látja el.
+45. § (1) A MOB működése felett a törvényességi ellenőrzést az ügyészség látja el.
 
 (2) Ha a működés törvényessége másképpen nem biztosítható, az ügyész keresettel a bírósághoz fordulhat. Az ügyész által indított perek a Fővárosi Törvényszék hatáskörébe tartoznak. A Fővárosi Törvényszék az ügyész keresete alapján szükség esetén:
 
@@ -799,13 +721,389 @@ felelős szakmai tagozatok működnek.
 
 (3) A Fővárosi Törvényszék meghatározhatja a felügyelő biztos feladatait, a jogszerűség helyreállítására határidőt szabhat, és szükség szerint – a felügyelő biztos felmentésével vagy anélkül – új felügyelő biztost rendelhet ki. A felügyelő biztos – szükség esetén – köteles a működés törvényességének helyreállítása céljából haladéktalanul összehívni a MOB illetékes szervét. Ha a MOB a működés törvényességét helyreállította, működésének felfüggesztését meg kell szüntetni.
 
-(4) Nem rendelhet ki felügyelő biztosként az, aki nem lehet a MOB elnökségének tagja. A felügyelő biztos tevékenységéről és annak eredményéről tájékoztatja a Fővárosi Törvényszéket és a sportpolitikáért felelős minisztert. A felügyelő biztos költségtérítését a bíróság állapítja meg, és a MOB viseli.
+(4) Nem rendelhető ki felügyelő biztosként az, aki nem lehet a MOB elnökségének tagja. A felügyelő biztos tevékenységéről és annak eredményéről tájékoztatja a Fővárosi Törvényszéket és a sportpolitikáért felelős minisztert. A felügyelő biztos költségtérítését a bíróság állapítja meg, és a MOB viseli.
 
 (5) A felügyelő biztos e jogkörében végzett tevékenysége során, azzal összefüggésben nem utasítható.
 
-46/A. § (1) Az állam – a (2) bekezdésben meghatározottak szerint – évente biztosítja a MOB működési kiadásait.
+46. § (1) Az állam – a (2) bekezdésben meghatározottak szerint – évente biztosítja a MOB közfeladat ellátással összefüggő működési kiadásait.
 
-(2) A MOB az állami támogatás mellett a tagdíjból és a tagok által nyújtott más hozzájárulásokból, szponzori és egyéb bevételekből gazdálkodik. A MOB a tagdíjakból, a tagok által nyújtott más hozzájárulásokból, szponzori és egyéb forrásból származó bevételeinek, az alapszabályban meghatározott részét átadhatja a szakmai tagozatai részére azok működésének biztosítására.
+(2) A MOB az állami támogatás mellett a tagdíjból és a tagok által nyújtott más hozzájárulásokból, szponzori és egyéb bevételekből gazdálkodik.
+
+### A Magyar Paralimpiai Bizottság
+
+46/A. § (1) A Magyar Paralimpiai Bizottság (a továbbiakban: MPB) a Nemzetközi Paralimpiai Bizottság által kizárólagos nemzeti paralimpiai bizottságként elismert, a paralimpiai mozgalommal kapcsolatos szervezett versenysporttal és a fogyatékosok verseny-, diák- és hallgatói sportjával, valamint szabadidősportjával összefüggő – e törvényben meghatározott –, országos közfeladatokat ellátó köztestület, amely a Civil tv. szerinti nyilvántartásba vétel nélkül közhasznú szervezetnek minősül. Az MPB-t a Fővárosi Törvényszék tartja nyilván. Az MPB jogosult Magyarország címerének és zászlajának használatára.
+
+(2) Az MPB működésének részletes szabályait a Nemzetközi Paralimpiai Bizottság szabályainak, valamint e törvény és a külön jogszabályok rendelkezéseinek figyelembevételével a közgyűlés által elfogadott alapszabály határozza meg.
+
+(3) Az MPB feladatai a paralimpiai mozgalom területén elsősorban:
+
+- a) a Nemzetközi Paralimpiai Bizottság magyarországi tagszervezeteként végrehajtja a Nemzetközi Paralimpiai Bizottság alapszabályában és egyéb szabályzataiban a nemzeti paralimpiai bizottságok és tagszervezetei részére megállapított célkitűzéseket és feladatokat,
+- b) a szakszövetségekkel, sportszövetségekkel együttműködve elősegíti a sportolók nyári és téli paralimpiai játékokra, és egyéb nemzetközi versenyekre történő felkészülését, illetve részvételét,
+- c) fejleszti a paralimpiai mozgalmat,
+- d) a paralimpiai mozgalom érdekében védi a paralimpiai játékok jelképeit,
+- e) a paralimpiai mozgalom eszményének jegyében segíti az érintett ifjúság testi, erkölcsi és kulturális nevelését, támogatja a tisztességes játék (fair play) szellemében való versenyzést, fellép a sportmozgalomra ható káros jelenségek (különösen a tiltott teljesítményfokozás, valamint a verseny, mérkőzés eredményének tiltott eszközökkel, módszerekkel történő befolyásolása és a fogadási csalás) ellen,
+- f) a Nemzetközi Paralimpiai Bizottság magyarországi tagszervezeteként – a Nemzetközi Paralimpiai Bizottság előírásaival összhangban –:
+  - fa) nevezi a sportágakat és a sportolókat a paralimpiai játékokra,
+  - fb) engedélyezi a paralimpiai jelkép, zászló, jelvény, jelmondat, himnusz kereskedelmi vagy egyéb célú használata, illetve ezek mások általi használatát, hasznosítását.
+
+(4) Az MPB feladatai a fogyatékosok sportja területén elsősorban:
+
+- a) a Siketek Nemzetközi Sportbizottsága hazai tagszervezetével együttműködve elősegíti a sportolók nyári és téli siketlimpiai játékokra, és egyéb nemzetközi versenyekre történő felkészülését, illetve részvételét,
+- b) felügyeli a Nemzetközi Speciális Olimpia, a Szervátültetettek Világjátékainak Szövetsége, a Siketek Nemzetközi Sportbizottsága alapszabályában és egyéb szabályzataiban a nemzeti speciális világjáték szervezetek részére megállapított célkitűzések és feladatok végrehajtását,
+- c) az érintett sportszövetségekkel együttműködve elősegíti és koordinálja a magyar sportolók speciális világjátékokon való részvételét,
+- d) elősegíti a nem paralimpiai versenyekhez illeszkedő, nemzetközi versenyrendszerrel rendelkező, fogyatékos sportszövetségek hazai sportrendezvényeinek megrendezését,
+- e) részt vesz a fogyatékosok nemzetközi sportszervezeteinek tevékenységében,
+- f) közreműködik az olimpiai központok, és más sportcélú ingatlanok fogyatékosok sportjának speciális igényeit szolgáló fejlesztésében és szakmai tevékenységének kidolgozásában,
+- g) közös és integrált sportrendezvényeket, verseny- és szabadidősport programokat szervez a különböző fogyatékosságú, valamint nem sérült emberek számára, fejleszti a fogyatékosok sportjának egyes területeit,
+- h) a fogyatékosok diák- és szabadidősportja területén népszerűsíti a fogyatékosok sportját, aminek keretén belül a fogyatékosok diák- és szabadidősportjával foglalkozó sportszervezetek programjainak megvalósításával szélesíti a sport tömegbázisát,
+- i) részt vesz a fogyatékosok szabadidősportjának nemzetközi együttműködésében.
+
+(5) Az MPB stratégiai jellegű feladatai elsősorban:
+
+- a) javaslatot tesz a sportpolitikáért felelős miniszter részére a fogyatékosok sportjával kapcsolatos kormányzati intézkedések, szabályozási koncepciók megtételére, véleményezi a fogyatékosok sportjával kapcsolatos jogszabály-tervezeteket,
+- b) javaslatot tesz a fogyatékosok sportja stratégiai fejlesztési céljaira és irányaira, és ezek meghatározásában együttműködik a sportpolitikáért felelős miniszterrel,
+- c) figyelemmel kíséri a sportszövetségek által elkészített sportági stratégiai fejlesztési koncepciókban a fogyatékosok sportját érintő integráció megvalósulását,
+- d) együttműködik a sportpolitikáért felelős miniszterrel és a további sportköztestületekkel a sport stratégiai fejlesztési céljainak meghatározásában és megvalósításában,
+- e) a fogyatékosok sportjában javaslatot tesz a sportpolitikáért felelős miniszternek a támogatási rendszerek minőségbiztosítási rendszerére (benchmark-rendszer) és követelményeire,
+- f) négyéves ciklusokban megtervezi a paralimpiai és siketlimpiai játékokra és a speciális világjátékokra történő felkészülés irányait, és javaslatot tesz a támogatásuk rendszerére, valamint szakmai javaslatot tesz a sportpolitikáért felelős miniszter részére a sport világesemények támogatására,
+- g) együttműködik a sportpolitikáért felelős miniszterrel a sportszakemberek képzési, továbbképzési, valamint foglalkoztatási céljait szolgáló programok meghatározásában, segíti a sportszövetségek kötelező sportszakember-továbbképzési feladataik ellátását,
+- h) együttműködik a sportpolitikáért felelős miniszterrel a sporttudomány fejlesztésével összefüggő szakmai és sportegészségügyi feladatok ellátásában,
+- i) közreműködik a korszerű edzésmódszerek kidolgozásában, alkalmazásában, és segíti a hatékony módszerek és eljárások széleskörű terjesztését,
+- j) a doppingellenes tevékenységről szóló kormányrendeletben meghatározottak szerint közreműködik a doppingellenes tevékenységgel összefüggő sportszakmai feladatok ellátásában.
+
+(6) Az MPB feladatai a sportpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetéből származó, a paralimpiai mozgalommal kapcsolatos szervezett versenysporttal és a fogyatékosok verseny-, diák- és hallgatói sportjával, valamint szabadidősportjával összefüggő állami sportcélú támogatások tervezésével, elosztásával, felhasználásával, elszámolásával és ellenőrzésével kapcsolatos – az e törvényben és az állami sportcélú támogatások felhasználásáról és elosztásáról szóló kormányrendeletben meghatározottak szerint – a következők:
+
+- a) az államháztartásért felelős miniszter által meghatározott, a sportpolitikáért felelős miniszter által az MPB részére megadott határidőben a központi költségvetési támogatások elosztásának irányaira és arányaira vonatkozó javaslatot küld a sportpolitikáért felelős miniszter részére az (5) bekezdés c) pontja szerinti sportági stratégiai fejlesztési koncepciók figyelembevételével,
+- b) javaslatot tesz a paralimpiai mozgalommal kapcsolatos szervezett versenysporttal és a fogyatékosok verseny-, diák- és hallgatói sportjával, valamint szabadidősportjával összefüggő állami sportcélú támogatások felosztási elveire,
+- c) dönt a részére rendelkezésre bocsátott állami sportcélú támogatások felhasználásáról és folyósítja a támogatásokat,
+- d) koordinálja és folyamatosan nyomon követi a rendelkezésére bocsátott állami sportcélú támogatás felhasználását,
+- e) szakmailag véleményezi az éves támogatási programok megvalósításának folyamatában (az adminisztratív célú támogatások kivételével) benyújtott negyedéves szakmai előrehaladási jelentéseket és azok eredményéről tájékoztatja a sportpolitikáért felelős minisztert,
+- f) részt vesz a részére juttatott állami sportcélú támogatás felhasználásával kapcsolatos elszámolási feladatokban, ennek keretében
+  - fa) elszámoltatja a kedvezményezettet a továbbadott állami sportcélú támogatásról,
+  - fb) elszámol a 46/F. § (1) bekezdésében meghatározott állami sportcélú támogatással,
+- g) az 58. § (2) bekezdésében meghatározottak szerint részt vesz a Gerevich Aladár-sportösztöndíj működtetésében.
+
+46/B. § (1) Az MPB tagjai – az MPB alapszabályának elfogadása esetén –
+
+- a) alanyi jogon azok a szakszövetségek és országos sportági szövetségek, amelyek sportága szerepel a Paralimpia, illetve a Siketlimpia programjában,
+- b) alanyi jogon a fogyatékosok országos sportszövetségei,
+- c) azok a szakszövetségek és országos sportági szövetségek, amelyek
+  - ca) tevékenységi köre kiterjed a fogyatékossággal élők versenysportjára, vagy
+  - cb) integrált versenyrendszert működtetnek, vagy
+  - cc) versenyrendszerében fogyatékos sportolók is részt vesznek,
+- d) a fogyatékosok sportjának működését segítő más személyek, amennyiben az alapszabály így rendelkezik.
+
+(2) Az MPB tagjait a főtitkár vagy az azzal azonos jogállású tisztségviselő (a továbbiakban együtt: MPB-főtitkár) tartja nyilván.
+
+(3) Az MPB leendő tagja tagfelvételi kérelmének, illetve a személyes jogosultság alapján az MPB tagjává váló személy a tagfelvételre irányuló nyilatkozatának benyújtásával egyidejűleg hatósági bizonyítvánnyal igazolja az MPB-főtitkár részére azt a tényt, hogy büntetlen előéletű.
+
+(4) Az MPB elnökségi tagjának jelölt személy az elnökségi taggá választását megelőzően az MPB-főtitkár részére hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű.
+
+(5) Az
+
+- a) MPB tagja a tagság fennállása alatt az MPB elnökének felhívására,
+- b) MPB elnökségi tagja az elnökségi megbízatásának időtartama alatt a közgyűlés írásbeli – a mulasztás jogkövetkezményeinek ismertetését tartalmazó – felhívására
+
+a felhívástól számított tizenöt munkanapon belül, vagy ha e határidőn belül a felhívott személyén kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul, az MPB főtitkár részére hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű.
+
+(6) Ha az MPB tagja, illetve az MPB elnökségi tagja igazolja, hogy büntetlen előéletű, az MPB a bűnügyi nyilvántartó szerv által az igazolás céljából kiállított hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat részére megtéríti.
+
+(7) Ha az MPB tagja, illetve az MPB elnökségi tagja büntetett előéletűvé válik, vagy az (5) bekezdésben meghatározott igazolási kötelezettségének a teljesítését elmulasztja, tagsági jogviszonya, illetve elnökségi tagsági megbízatása megszűnik.
+
+(8) Az MPB-főtitkár
+
+- a) a (3) bekezdés alapján megismert személyes adatokat az MPB-tagságról meghozott döntés időpontjáig,
+- b) a (4) bekezdés alapján megismert személyes adatokat az MPB elnökségi tagságról meghozott döntés időpontjáig,
+- c) az (5) bekezdés alapján megismert személyes adatokat az MPB-tag tagsági viszonyának megszűnéséig
+
+kezeli.
+
+46/C. § (1) Az MPB legfelsőbb szerve a közgyűlés, amely a tagok összességéből áll. A közgyűlésben az MPB alapszabályában rögzített számú helyet kell biztosítani a paralimpia programján szereplő sportágak országos sportági szakszövetségei, országos sportági szövetségei és a fogyatékosok országos sportszövetségei által jelölt személyeknek azzal, hogy számuknak meg kell haladnia az MPB tagjai létszámának felét. Az MPB alapszabálya lehetővé teheti, hogy – az arányosság elvének betartásával – egy tag több képviselőt is küldjön – tagsági jogokkal – a közgyűlésbe. Az MPB közgyűlésének részletes összetételét az MPB alapszabálya határozza meg.
+
+(2) A közgyűlés kizárólagos hatáskörébe tartozik:
+
+- a) az alapszabály megállapítása és módosítása,
+- b) az elnök, valamint az elnökség többi tagjának, a felügyelő szerv (felügyelőbizottság) elnökének és választott tagjainak megválasztása és visszahívása,
+- c) az előző évre vonatkozó szakmai és pénzügyi beszámoló, valamint a tárgyévi költségvetés (pénzügyi és szakmai terv) elfogadása,
+- d) az ügyintéző és képviseleti szerv (elnökség) éves beszámolójának elfogadása,
+- e) döntés minden olyan ügyben, amelyet az alapszabály a közgyűlés kizárólagos hatáskörébe utal.
+
+(3) Az MPB közgyűlésén a sportpolitikáért felelős miniszter által vezetett minisztérium képviselője, valamint a felügyelőbizottság elnöke tanácskozási joggal vehetnek részt.
+
+(4) Az MPB ügyintéző és képviseleti szerve a tagok által ilyen célból – az alapszabályban meghatározottak szerint – közvetlenül választott testület (elnökség). Az MPB elnökségének tagjai: az elnök, valamint az MPB alapszabályában meghatározott további személyek és szervezetek képviselői. Az elnökség tagja büntetlen előéletű magyar állampolgár lehet. Az MPB elnökségének tagja nem lehet állami vezető.
+
+(5) Az elnökség ülésére – tanácskozási joggal – meg kell hívni a felügyelőbizottság tagjait, valamint a sportpolitikáért felelős miniszter által vezetett minisztérium képviselőjét.
+
+46/D. § (1) Az MPB működését és gazdálkodását felügyelőbizottság ellenőrzi. A felügyelőbizottság elnökét és két tagját a közgyűlés választja meg és hívja vissza, egy tagját a sportpolitikáért felelős miniszter, egy tagját pedig az Országgyűlés sportért felelős bizottsága nevezi ki és hívja vissza. A felügyelőbizottság tagjainak megbízatása öt évre szól.
+
+(2) A felügyelőbizottság – az MPB közgyűlése által elfogadott – éves ellenőrzési munkaterv alapján látja el feladatát.
+
+(3) A felügyelőbizottság írásbeli jelentése hiányában a közgyűlés a 46/C. § (2) bekezdés c) és d) pontjai szerinti beszámolókról és az MPB költségvetéséről nem dönthet. Az MPB alapszabálya határozza meg az MPB közgyűlése és elnöksége elé kizárólag a felügyelőbizottság előzetes véleménye alapján terjesztendő további ügyek körét. A felügyelőbizottság feladatkörében eljárva, azzal összefüggésben az MPB irataiba betekinthet, az MPB tagjától és tisztségviselőjétől felvilágosítást kérhet.
+
+(4) Ha a felügyelőbizottság a feladatai ellátása során jogszabályt, az alapszabályt, az MPB valamely testületének döntését vagy egyébként az MPB érdekeit sértő körülményt észlel, az arra jogosult számára intézkedési javaslatot tesz, illetve jogosult – jogszabály vagy az alapszabály megsértése esetén köteles – a napirend megjelölésével a közgyűlés összehívását kezdeményezni.
+
+(5) A felügyelőbizottság – az alapszabály vonatkozó rendelkezéseire figyelemmel – maga állapítja meg működésének részletes szabályait, amit a közgyűlés hagy jóvá.
+
+(6) Az MPB elnökségének tagjai és azok Polgári Törvénykönyv szerinti hozzátartozói nem lehetnek a felügyelőbizottság tagjai. Az alapszabály az összeférhetetlenség további eseteit is megállapíthatja, valamint rendelkezik az összeférhetetlenségi ok felmerülése esetén követendő eljárásról.
+
+(7) Az MPB gazdálkodását a felügyelőbizottság mellett az elnökség által megbízott könyvvizsgáló is ellenőrzi. A könyvvizsgáló írásbeli jelentése hiányában a közgyűlés a 46/C. § (2) bekezdés c) és d) pontjai szerinti beszámolókról és költségvetésről nem dönthet.
+
+46/E. § (1) Az MPB működése felett a törvényességi ellenőrzést az ügyészség látja el.
+
+(2) Ha a működés törvényessége másképpen nem biztosítható, az ügyész keresettel a bírósághoz fordulhat. Az ügyész által indított perek a Fővárosi Törvényszék hatáskörébe tartoznak. A Fővárosi Törvényszék az ügyész keresete alapján szükség esetén:
+
+- a) hatályon kívül helyezheti az MPB bármely szervének törvénysértő határozatát, és szükség szerint új határozat meghozatalát rendelheti el,
+- b) a működés törvényességének helyreállítása céljából összehívhatja az MPB közgyűlését, vagy határidő tűzésével a törvényes működés helyreállítására kötelezheti a közgyűlést, és minderről értesíti a MOB-nál választott felügyelőbizottságot is,
+- c) ismételt vagy súlyos törvénysértés esetén, vagy ha az MPB-nek nincs szabályosan megválasztott ügyintéző és képviseleti szerve, vagy az a törvénysértő állapot megszüntetéséhez szükséges intézkedéseket nem teszi meg, az MPB-nek vagy egyes szerveinek működését felfüggeszti, egyidejűleg – a törvénysértő állapot megszüntetésének időtartamára, de legfeljebb a kijelöléstől számított kilencven napra – felügyelő biztost jelöl ki.
+
+(3) A Fővárosi Törvényszék meghatározhatja a felügyelő biztos feladatait, a jogszerűség helyreállítására határidőt szabhat, és szükség szerint – a felügyelő biztos felmentésével, vagy anélkül – új felügyelő biztost rendelhet ki. A felügyelő biztos – szükség esetén – köteles a működés törvényességének helyreállítása céljából haladéktalanul összehívni az MPB illetékes szervét. Ha az MPB a működés törvényességét helyreállította, működésének felfüggesztését meg kell szüntetni.
+
+(4) Nem rendelhető ki felügyelő biztosként az, aki nem lehet az MPB elnökségének tagja. A felügyelő biztos tevékenységéről és annak eredményéről tájékoztatja a Fővárosi Törvényszéket és a sportpolitikáért felelős minisztert. A felügyelő biztos költségtérítését a bíróság állapítja meg, és az MPB viseli.
+
+(5) A felügyelő biztos e jogkörében végzett tevékenysége során, azzal összefüggésben nem utasítható.
+
+46/F. § (1) Az állam – a (2) bekezdésben meghatározottak szerint – évente biztosítja az MPB közfeladat ellátással összefüggő működési kiadásait.
+
+(2) Az MPB az állami támogatás mellett a tagdíjból és a tagok által nyújtott más hozzájárulásokból, szponzori és egyéb bevételekből gazdálkodik.
+
+### Nemzeti Versenysport Szövetség
+
+46/G. § (1) A Nemzeti Versenysport Szövetség (a továbbiakban: NVESZ) a nem olimpiai sportágak szervezett versenysportjában működő – e törvényben meghatározott – országos közfeladatokat ellátó köztestület, amely a Civil tv. szerinti nyilvántartásba vétel nélkül közhasznú szervezetnek minősül. Az NVESZ-t a Fővárosi Törvényszék tartja nyilván. Az NVESZ jogosult Magyarország címerének és zászlajának használatára.
+
+(2) Az NVESZ működésének részletes szabályait e törvény és a külön jogszabályok rendelkezéseinek figyelembevételével a közgyűlés által elfogadott alapszabály határozza meg.
+
+(3) Az NVESZ feladatai a nem olimpiai sportágak szervezett versenysportjának területén elsősorban:
+
+- a) szervezi a Világjátékok Nemzetközi Szövetsége (IWGA) Világjátékain és a Nemzetközi Sportszövetségek Szövetségének (Sportaccord) Világjátékain való magyar részvételt és az arra való felkészülés szakmai feladatait,
+- b) részt vesz a nem kormányzati nemzetközi sportszervezetek, különösen az Európai Nem Kormányzati Sportszervezetek Szövetségének (ENGSO) tevékenységében, amely feladatkört nem kizárólag a nem olimpiai sportágakkal összefüggésben gyakorolja,
+- c) segíti az érintett ifjúság testi, erkölcsi és kulturális nevelését, támogatja a tisztességes játék (fair play) szellemében való versenyzést, fellép a sportmozgalomra ható káros jelenségek (különösen a tiltott teljesítményfokozás, valamint a verseny, mérkőzés eredményének tiltott eszközökkel, módszerekkel történő befolyásolása és a fogadási csalás) ellen.
+
+(4) Az NVESZ stratégiai jellegű feladatai elsősorban:
+
+- a) javaslatot tesz a sportpolitikáért felelős miniszter részére a nem olimpiai sportágak szervezett versenysportjával kapcsolatos kormányzati intézkedések, szabályozási koncepciók megtételére, véleményezi a nem olimpiai sportágak szervezett versenysportjával kapcsolatos jogszabály-tervezeteket,
+- b) javaslatot tesz a nem olimpiai sportágak szervezett versenysportja stratégiai fejlesztési céljaira és irányaira, és ezek meghatározásában együttműködik a sportpolitikáért felelős miniszterrel,
+- c) figyelemmel kíséri a sportszövetségek által elkészített sportági stratégiai fejlesztési koncepciókban a nem olimpiai sportágak szervezett versenysportját érintő integráció megvalósulását,
+- d) együttműködik a sportpolitikáért felelős miniszterrel és a további sportköztestületekkel a sport stratégiai fejlesztési céljainak meghatározásában és megvalósításában,
+- e) a nem olimpiai sportágak szervezett versenysportjában javaslatot tesz a sportpolitikáért felelős miniszternek a támogatási rendszerek minőségbiztosítási rendszerére (benchmark-rendszer) és követelményeire,
+- f) megtervezi a világjátékokra történő felkészülés irányait, és javaslatot tesz a támogatásuk rendszerére, valamint szakmai javaslatot tesz a sportpolitikáért felelős miniszter részére a sport világesemények támogatására,
+- g) együttműködik a sportpolitikáért felelős miniszterrel a sportszakemberek képzési, továbbképzési, valamint foglalkoztatási céljait szolgáló programok meghatározásában, segíti a sportszövetségek kötelező sportszakember-továbbképzési feladataik ellátását,
+- h) együttműködik a sportpolitikáért felelős miniszterrel a sporttudomány fejlesztésével összefüggő szakmai feladatok ellátásában,
+- i) közreműködik a korszerű edzésmódszerek kidolgozásában, alkalmazásában, és segíti a hatékony módszerek és eljárások széleskörű terjesztését,
+- j) a doppingellenes tevékenységről szóló kormányrendeletben meghatározottak szerint közreműködik a doppingellenes tevékenységgel összefüggő sportszakmai feladatok ellátásában.
+
+(5) Az NVESZ feladatai a sportpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetéből származó, a nem olimpiai sportágak szervezett versenysportjával összefüggő állami sportcélú támogatások tervezésével, elosztásával, felhasználásával, elszámolásával és ellenőrzésével kapcsolatos – az e törvényben és az állami sportcélú támogatások felhasználásáról és elosztásáról szóló kormányrendeletben meghatározottak szerint – a következők:
+
+- a) az államháztartásért felelős miniszter által meghatározott, a sportpolitikáért felelős miniszter által az NVESZ részére megadott határidőben a központi költségvetési támogatások elosztásának irányaira és arányaira vonatkozó javaslatot küld a sportpolitikáért felelős miniszter részére a (4) bekezdés c) pontja szerinti sportági stratégiai fejlesztési koncepciók figyelembevételével,
+- b) javaslatot tesz a nem olimpiai sportágak szervezett versenysportjával összefüggő állami sportcélú támogatások felosztási elveire,
+- c) dönt a részére rendelkezésre bocsátott állami sportcélú támogatások felhasználásáról és folyósítja a támogatásokat,
+- d) koordinálja és folyamatosan nyomon követi a rendelkezésére bocsátott állami sportcélú támogatás felhasználását,
+- e) szakmailag véleményezi az éves támogatási programok megvalósításának folyamatában (az adminisztratív célú támogatások kivételével) benyújtott negyedéves szakmai előrehaladási jelentéseket és azok eredményéről tájékoztatja a sportpolitikáért felelős minisztert,
+- f) részt vesz a részére juttatott állami sportcélú támogatás felhasználásával kapcsolatos elszámolási feladatokban, ennek keretében
+  - fa) elszámoltatja a kedvezményezettet a továbbadott állami sportcélú támogatásról,
+  - fb) elszámol a 46/L. § (1) bekezdésében meghatározott állami sportcélú támogatással.
+
+46/H. § (1) Az NVESZ tagjai – az NVESZ alapszabályának elfogadása esetén –
+
+- a) alanyi jogon azok a szakszövetségek és országos sportági szövetségek, amelyek sportága szerepel a Világjátékok Nemzetközi Szövetsége (IWGA) Világjátékainak és a Nemzetközi Sportszövetségek Szövetsége (Sportaccord) Világjátékainak programján,
+- b) a nem olimpiai sportágakban működő – a) pont hatálya alá nem tartozó – sportszövetségek,
+- c) a nem olimpiai sportágak szervezett versenysportjának működését segítő más személyek, amennyiben az alapszabály így rendelkezik.
+
+(2) Az NVESZ tagjait a főtitkár vagy az azzal azonos jogállású tisztségviselő (a továbbiakban együtt: NVESZ-főtitkár) tartja nyilván.
+
+(3) Az NVESZ leendő tagja tagfelvételi kérelmének, illetve a személyes jogosultság alapján az NVESZ tagjává váló személy a tagfelvételre irányuló nyilatkozatának benyújtásával egyidejűleg hatósági bizonyítvánnyal igazolja az NVESZ-főtitkár részére azt a tényt, hogy büntetlen előéletű.
+
+(4) Az NVESZ elnökségi tagjának jelölt személy az elnökségi taggá választását megelőzően az NVESZ-főtitkár részére hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű.
+
+(5) Az
+
+- a) NVESZ tagja a tagság fennállása alatt az NVESZ elnökének felhívására,
+- b) NVESZ elnökségi tagja az elnökségi megbízatásának időtartama alatt a közgyűlés írásbeli – a mulasztás jogkövetkezményeinek ismertetését tartalmazó – felhívására
+
+a felhívástól számított tizenöt munkanapon belül, vagy ha e határidőn belül a felhívott személyén kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul, az NVESZ főtitkár részére hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű.
+
+(6) Ha az NVESZ tagja, illetve az NVESZ elnökségi tagja igazolja, hogy büntetlen előéletű, az NVESZ a bűnügyi nyilvántartó szerv által az igazolás céljából kiállított hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat részére megtéríti.
+
+(7) Ha az NVESZ tagja, illetve az NVESZ elnökségi tagja büntetett előéletűvé válik, vagy az (5) bekezdésben meghatározott igazolási kötelezettségének a teljesítését elmulasztja, tagsági jogviszonya, illetve elnökségi tagsági megbízatása megszűnik.
+
+(8) Az NVESZ-főtitkár
+
+- a) a (3) bekezdés alapján megismert személyes adatokat az NVESZ-tagságról meghozott döntés időpontjáig,
+- b) a (4) bekezdés alapján megismert személyes adatokat az NVESZ elnökségi tagságról meghozott döntés időpontjáig,
+- c) az (5) bekezdés alapján megismert személyes adatokat az NVESZ-tag tagsági viszonyának megszűnéséig
+
+kezeli.
+
+46/I. § (1) Az NVESZ legfelsőbb szerve a közgyűlés, amely a tagok összességéből áll. Az NVESZ alapszabálya lehetővé teheti, hogy – az arányosság elvének betartásával – egy tag több képviselőt is küldjön – tagsági jogokkal – a közgyűlésbe. Az NVESZ közgyűlésének részletes összetételét az NVESZ alapszabálya határozza meg.
+
+(2) A közgyűlés kizárólagos hatáskörébe tartozik:
+
+- a) az alapszabály megállapítása és módosítása,
+- b) az elnök, valamint az elnökség többi tagjának, a felügyelő szerv (felügyelőbizottság) elnökének és választott tagjainak megválasztása és visszahívása,
+- c) az előző évre vonatkozó szakmai és pénzügyi beszámoló, valamint a tárgyévi költségvetés (pénzügyi és szakmai terv) elfogadása,
+- d) az ügyintéző és képviseleti szerv (elnökség) éves beszámolójának elfogadása,
+- e) döntés minden olyan ügyben, amelyet az alapszabály a közgyűlés kizárólagos hatáskörébe utal.
+
+(3) Az NVESZ közgyűlésén a sportpolitikáért felelős miniszter által vezetett minisztérium képviselője, valamint a felügyelőbizottság elnöke tanácskozási joggal vehetnek részt.
+
+(4) Az NVESZ-ügyintéző és képviseleti szerve a tagok által ilyen célból – az alapszabályban meghatározottak szerint – közvetlenül választott testület (elnökség). Az NVESZ elnökségének tagjai: az elnök, valamint az NVESZ alapszabályában meghatározott további személyek és szervezetek képviselői. Az elnökség tagja büntetlen előéletű magyar állampolgár lehet. Az NVESZ elnökségének tagja nem lehet állami vezető.
+
+(5) Az elnökség ülésére – tanácskozási joggal – meg kell hívni a felügyelőbizottság tagjait, valamint a sportpolitikáért felelős miniszter által vezetett minisztérium képviselőjét.
+
+46/J. § (1) Az NVESZ működését és gazdálkodását felügyelőbizottság ellenőrzi. A felügyelőbizottság elnökét és két tagját a közgyűlés választja meg és hívja vissza, egy tagját a sportpolitikáért felelős miniszter, egy tagját pedig az Országgyűlés sportért felelős bizottsága nevezi ki és hívja vissza. A felügyelőbizottság tagjainak megbízatása öt évre szól.
+
+(2) A felügyelőbizottság – az NVESZ közgyűlése által elfogadott – éves ellenőrzési munkaterv alapján látja el feladatát.
+
+(3) A felügyelőbizottság írásbeli jelentése hiányában a közgyűlés a 46/I. § (2) bekezdés c)–d) pontjai szerinti beszámolókról és az NVESZ költségvetéséről nem dönthet. Az NVESZ alapszabálya határozza meg az NVESZ közgyűlése és elnöksége elé kizárólag a felügyelőbizottság előzetes véleménye alapján terjesztendő további ügyek körét. A felügyelőbizottság feladatkörében eljárva, azzal összefüggésben az NVESZ irataiba betekinthet, az NVESZ tagjától és tisztségviselőjétől felvilágosítást kérhet.
+
+(4) Ha a felügyelőbizottság a feladatai ellátása során jogszabályt, az alapszabályt, az NVESZ valamely testületének döntését vagy egyébként az NVESZ érdekeit sértő körülményt észlel, az arra jogosult számára intézkedési javaslatot tesz, illetve jogosult – jogszabály vagy az alapszabály megsértése esetén köteles – a napirend megjelölésével a közgyűlés összehívását kezdeményezni.
+
+(5) A felügyelőbizottság – az alapszabály vonatkozó rendelkezéseire figyelemmel – maga állapítja meg működésének részletes szabályait, amit a közgyűlés hagy jóvá.
+
+(6) Az NVESZ elnökségének tagjai és azok Polgári Törvénykönyv szerinti hozzátartozói nem lehetnek a felügyelőbizottság tagjai. Az alapszabály az összeférhetetlenség további eseteit is megállapíthatja, valamint rendelkezik az összeférhetetlenségi ok felmerülése esetén követendő eljárásról.
+
+(7) Az NVESZ gazdálkodását a felügyelőbizottság mellett az elnökség által megbízott könyvvizsgáló is ellenőrzi. A könyvvizsgáló írásbeli jelentése hiányában a közgyűlés a 46/I. § (2) bekezdés c)–d) pontjai szerinti beszámolókról és költségvetésről nem dönthet.
+
+46/K. § (1) Az NVESZ működése felett a törvényességi ellenőrzést az ügyészség látja el.
+
+(2) Ha a működés törvényessége másképpen nem biztosítható, az ügyész keresettel a bírósághoz fordulhat. Az ügyész által indított perek a Fővárosi Törvényszék hatáskörébe tartoznak. A Fővárosi Törvényszék az ügyész keresete alapján szükség esetén:
+
+- a) hatályon kívül helyezheti az NVESZ bármely szervének törvénysértő határozatát, és szükség szerint új határozat meghozatalát rendelheti el,
+- b) a működés törvényességének helyreállítása céljából összehívhatja az NVESZ közgyűlését, vagy határidő tűzésével a törvényes működés helyreállítására kötelezheti a közgyűlést, és minderről értesíti a NVESZ-nél választott felügyelőbizottságot is,
+- c) ismételt vagy súlyos törvénysértés esetén, vagy ha az NVESZ-nek nincs szabályosan megválasztott ügyintéző és képviseleti szerve, vagy az a törvénysértő állapot megszüntetéséhez szükséges intézkedéseket nem teszi meg, az NVESZ-nek vagy egyes szerveinek működését felfüggeszti, egyidejűleg – a törvénysértő állapot megszüntetésének időtartamára, de legfeljebb a kijelöléstől számított kilencven napra – felügyelő biztost jelöl ki.
+
+(3) A Fővárosi Törvényszék meghatározhatja a felügyelő biztos feladatait, a jogszerűség helyreállítására határidőt szabhat, és szükség szerint – a felügyelő biztos felmentésével vagy anélkül – új felügyelő biztost rendelhet ki. A felügyelő biztos – szükség esetén – köteles a működés törvényességének helyreállítása céljából haladéktalanul összehívni az NVESZ illetékes szervét. Ha az NVESZ a működés törvényességét helyreállította, működésének felfüggesztését meg kell szüntetni.
+
+(4) Nem rendelhető ki felügyelő biztosként az, aki nem lehet az NVESZ elnökségének tagja. A felügyelő biztos tevékenységéről és annak eredményéről tájékoztatja a Fővárosi Törvényszéket és a sportpolitikáért felelős minisztert. A felügyelő biztos költségtérítését a bíróság állapítja meg, és az NVESZ viseli.
+
+(5) A felügyelő biztos e jogkörében végzett tevékenysége során, azzal összefüggésben nem utasítható.
+
+46/L. § (1) Az állam – a (2) bekezdésben meghatározottak szerint – évente biztosítja az NVESZ közfeladat ellátással összefüggő működési kiadásait.
+
+(2) Az NVESZ az állami támogatás mellett a tagdíjból és a tagok által nyújtott más hozzájárulásokból, szponzori és egyéb bevételekből gazdálkodik.
+
+### Nemzeti Diák, Hallgatói és Szabadidősport Szövetség
+
+46/M. § (1) A Nemzeti Diák, Hallgatói és Szabadidősport Szövetség (a továbbiakban: NDHSZ) a diák-hallgatói és a szabadidősportban működő – e törvényben meghatározott – országos közfeladatokat ellátó köztestület, amely a Civil tv. szerinti nyilvántartásba vétel nélkül közhasznú szervezetnek minősül. Az NDHSZ-t a Fővárosi Törvényszék tartja nyilván. Az NDHSZ jogosult Magyarország címerének és zászlajának használatára.
+
+(2) Az NDHSZ működésének részletes szabályait e törvény és a külön jogszabályok rendelkezéseinek figyelembevételével a közgyűlés által elfogadott alapszabály határozza meg.
+
+(3) Az NDHSZ feladatai a diák-hallgatói sport területén elsősorban:
+
+- a) a sportszövetségi integrált működés keretében a diák- és egyetemi-főiskolai sport országos sportszövetségével együttműködik a sportszövetségek és a diák- és egyetemi-főiskolai sportszövetségek, valamint a diák- és egyetemi-főiskolai sport területén működő sportszervezetek közötti szakmai feladatok összehangolt ellátásában,
+- b) szakmai javaslatot tesz a sportolói kettős karrier programok bevezetésére és működtetésére;
+- c) a diák- és egyetemi-főiskolai sport országos sportszövetségével együttműködve elősegíti a versenyzők diák- és egyetemi-főiskolai sport kiemelkedő nemzetközi sporteseményeire való felkészülését, illetve részvételét.
+
+(4) Az NDHSZ feladatai a szabadidősport területén elsősorban:
+
+- a) szabadidősportot népszerűsítő tevékenységet végez,
+- b) közreműködik az integrált szabadidősportos feladatokban,
+- c) részt vesz a szabadidősporttal kapcsolatos nemzetközi együttműködésben,
+- d) segíti az ifjúság testi, erkölcsi és kulturális nevelését, támogatja a tisztességes játék (fair play) szellemében való versenyzést, fellép a sportmozgalomra ható káros jelenségek (különösen a tiltott teljesítményfokozás, valamint a verseny, mérkőzés eredményének tiltott eszközökkel, módszerekkel történő befolyásolása és a fogadási csalás) ellen.
+
+(5) Az NDHSZ stratégiai jellegű feladatai elsősorban:
+
+- a) javaslatot tesz a sportpolitikáért felelős miniszter részére a diák-hallgatói és a szabadidősporttal kapcsolatos kormányzati intézkedések, szabályozási koncepciók megtételére, véleményezi a diák-hallgatói és a szabadidősporttal kapcsolatos jogszabály-tervezeteket,
+- b) javaslatot tesz a diák-hallgatói és a szabadidősport stratégiai fejlesztési céljaira és irányaira, és ezek meghatározásában együttműködik a sportpolitikáért felelős miniszterrel,
+- c) együttműködik a sportpolitikáért felelős miniszterrel és a további sportköztestületekkel a sport stratégiai fejlesztési céljainak meghatározásában és megvalósításában,
+- d) együttműködik a sportpolitikáért felelős miniszterrel a sportszakemberek képzési, továbbképzési, valamint foglalkoztatási céljait szolgáló programok meghatározásában, segíti a sportszövetségek kötelező sportszakember-továbbképzési feladatainak ellátását,
+- e) együttműködik a sportpolitikáért felelős miniszterrel a sporttudomány fejlesztésével összefüggő szakmai feladatok ellátásában,
+- f) közreműködik a korszerű edzésmódszerek kidolgozásában, alkalmazásában, és segíti a hatékony módszerek és eljárások széleskörű terjesztését,
+- g) a doppingellenes tevékenységről szóló kormányrendeletben meghatározottak szerint közreműködik a doppingellenes tevékenységgel összefüggő sportszakmai feladatok ellátásában.
+
+(6) Az NDHSZ feladatai a sportpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetéből származó, a diák-hallgatói és a szabadidősporttal összefüggő állami sportcélú támogatások tervezésével, elosztásával, felhasználásával, elszámolásával és ellenőrzésével kapcsolatos – az e törvényben és az állami sportcélú támogatások felhasználásáról és elosztásáról szóló kormányrendeletben meghatározottak szerint – a következők:
+
+- a) az államháztartásért felelős miniszter által meghatározott, a sportpolitikáért felelős miniszter által az NDHSZ részére megadott határidőben a központi költségvetési támogatások elosztásának irányaira és arányaira vonatkozó javaslatot küld a sportpolitikáért felelős miniszter részére az (5) bekezdés c) pontja szerinti, a sport stratégiai fejlesztési céljainak figyelembevételével,
+- b) javaslatot tesz a diák-hallgatói és a szabadidősporttal összefüggő állami sportcélú támogatások felosztási elveire,
+- c) dönt a részére rendelkezésre bocsátott állami sportcélú támogatások felhasználásáról és folyósítja a támogatásokat,
+- d) koordinálja és folyamatosan nyomon követi a rendelkezésére bocsátott állami sportcélú támogatás felhasználását,
+- e) szakmailag véleményezi az éves támogatási programok megvalósításának folyamatában (az adminisztratív célú támogatások kivételével) benyújtott negyedéves szakmai előrehaladási jelentéseket és azok eredményéről tájékoztatja a sportpolitikáért felelős minisztert,
+- f) részt vesz a részére juttatott állami sportcélú támogatás felhasználásával kapcsolatos elszámolási feladatokban, ennek keretében
+  - fa) elszámoltatja a kedvezményezettet a továbbadott állami sportcélú támogatásról,
+  - fb) elszámol a 46/R. § (1) bekezdésében meghatározott állami sportcélú támogatással.
+
+(7) Az NDHSZ feladatai az egyetemi versenysport területén elsősorban:
+
+- a) a Nemzetközi Egyetemi Sportszövetség (a továbbiakban: FISU) által kizárólagos nemzeti egyetemi sportszövetségként elismert Magyar Egyetemi – Főiskolai Sportszövetségen (a továbbiakban: MEFS) keresztül részt vesz a nemzetközi egyetemi sportszervezetek tevékenységében, szervezi a FISU egyetemi világjátékain (Universiade) és egyetemi világbajnokságain, valamint az Európai Egyetemi Sportszövetség (a továbbiakban: EUSA) európai egyetemi játékain és európai egyetemek bajnokságain való magyar részvételt és az arra való felkészülés szakmai feladatait,
+- b) a MEFS-en keresztül, az érintett sportszövetségekkel együttműködve szervezi a FISU és az EUSA hazai eseményeit, továbbá a Magyar Egyetemi – Főiskolai Országos Bajnokságokat.
+
+46/N. § (1) Az NDHSZ tagjai – az NDHSZ alapszabályának elfogadása esetén –
+
+- a) a diák- és hallgatói sport területén országos jelleggel működő sportszövetségek,
+- b) a szabadidősport területén országos jelleggel működő sportszövetségek, valamint
+- c) a diák-hallgatói, valamint a szabadidősport működését segítő más személyek, amennyiben az alapszabály így rendelkezik.
+
+(2) Az NDHSZ tagjait a főtitkár vagy az azzal azonos jogállású tisztségviselő (a továbbiakban együtt: NDHSZ-főtitkár) tartja nyilván.
+
+(3) Az NDHSZ leendő tagja tagfelvételi kérelmének, illetve a személyes jogosultság alapján az NDHSZ tagjává váló személy a tagfelvételre irányuló nyilatkozatának benyújtásával egyidejűleg hatósági bizonyítvánnyal igazolja az NDHSZ-főtitkár részére azt a tényt, hogy büntetlen előéletű.
+
+(4) Az NDHSZ elnökségi tagjának jelölt személy az elnökségi taggá választását megelőzően az NDHSZ-főtitkár részére hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű.
+
+(5) Az
+
+- a) NDHSZ tagja a tagság fennállása alatt az NDHSZ elnökének felhívására,
+- b) NDHSZ elnökségi tagja az elnökségi megbízatásának időtartama alatt a közgyűlés írásbeli – a mulasztás jogkövetkezményeinek ismertetését tartalmazó – felhívására
+
+a felhívástól számított tizenöt munkanapon belül, vagy ha e határidőn belül a felhívott személyén kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul, az NDHSZ főtitkár részére hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű.
+
+(6) Ha az NDHSZ tagja, illetve az NDHSZ elnökségi tagja igazolja, hogy büntetlen előéletű, az NDHSZ a bűnügyi nyilvántartó szerv által az igazolás céljából kiállított hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat részére megtéríti.
+
+(7) Ha az NDHSZ tagja, illetve az NDHSZ elnökségi tagja büntetett előéletűvé válik, vagy az (5) bekezdésben meghatározott igazolási kötelezettségének a teljesítését elmulasztja, tagsági jogviszonya, illetve elnökségi tagsági megbízatása megszűnik.
+
+(8) Az NDHSZ-főtitkár
+
+- a) a (3) bekezdés alapján megismert személyes adatokat az NDHSZ-tagságról meghozott döntés időpontjáig,
+- b) a (4) bekezdés alapján megismert személyes adatokat az NDHSZ elnökségi tagságról meghozott döntés időpontjáig,
+- c) az (5) bekezdés alapján megismert személyes adatokat az NDHSZ-tag tagsági viszonyának megszűnéséig
+
+kezeli.
+
+46/O. § (1) Az NDHSZ legfelsőbb szerve a közgyűlés, amely a tagok összességéből áll. Az NDHSZ alapszabálya lehetővé teheti, hogy – az arányosság elvének betartásával – egy tag több képviselőt is küldjön – tagsági jogokkal – a közgyűlésbe. Az NDHSZ közgyűlésének részletes összetételét az NDHSZ alapszabálya határozza meg.
+
+(2) A közgyűlés kizárólagos hatáskörébe tartozik:
+
+- a) az alapszabály megállapítása és módosítása,
+- b) az elnök, valamint az elnökség többi tagjának, a felügyelő szerv (felügyelőbizottság) elnökének és választott tagjainak megválasztása és visszahívása,
+- c) az előző évre vonatkozó szakmai és pénzügyi beszámoló, valamint a tárgyévi költségvetés (pénzügyi és szakmai terv) elfogadása,
+- d) az ügyintéző és képviseleti szerv (elnökség) éves beszámolójának elfogadása,
+- e) döntés minden olyan ügyben, amelyet az alapszabály a közgyűlés kizárólagos hatáskörébe utal.
+
+(3) Az NDHSZ közgyűlésén a sportpolitikáért felelős miniszter által vezetett minisztérium képviselője, valamint a felügyelőbizottság elnöke tanácskozási joggal vehetnek részt.
+
+(4) Az NDHSZ-ügyintéző és képviseleti szerve a tagok által ilyen célból – az alapszabályban meghatározottak szerint – közvetlenül választott testület (elnökség). Az NDHSZ elnökségének tagjai: az elnök, valamint az NDHSZ alapszabályában meghatározott további személyek és szervezetek képviselői. Az elnökség tagja büntetlen előéletű magyar állampolgár lehet. Az NDHSZ elnökségének tagja nem lehet állami vezető.
+
+(5) Az elnökség ülésére – tanácskozási joggal – meg kell hívni a felügyelőbizottság tagjait, valamint a sportpolitikáért felelős miniszter által vezetett minisztérium képviselőjét.
+
+46/P. § (1) Az NDHSZ működését és gazdálkodását felügyelőbizottság ellenőrzi. A felügyelőbizottság elnökét és két tagját a közgyűlés választja meg és hívja vissza, egy tagját a sportpolitikáért felelős miniszter, egy tagját pedig az Országgyűlés sportért felelős bizottsága nevezi ki és hívja vissza. A felügyelőbizottság tagjainak megbízatása öt évre szól.
+
+(2) A felügyelőbizottság – az NDHSZ közgyűlése által elfogadott – éves ellenőrzési munkaterv alapján látja el feladatát.
+
+(3) A felügyelőbizottság írásbeli jelentése hiányában a közgyűlés a 46/O. § (2) bekezdés c)–d) pontjai szerinti beszámolókról és az NDHSZ költségvetéséről nem dönthet. Az NDHSZ alapszabálya határozza meg az NDHSZ közgyűlése és elnöksége elé kizárólag a felügyelőbizottság előzetes véleménye alapján terjesztendő további ügyek körét. A felügyelőbizottság feladatkörében eljárva, azzal összefüggésben az NDHSZ irataiba betekinthet, az NDHSZ tagjától és tisztségviselőjétől felvilágosítást kérhet.
+
+(4) Ha a felügyelőbizottság a feladatai ellátása során jogszabályt, az alapszabályt, az NDHSZ valamely testületének döntését vagy egyébként az NDHSZ érdekeit sértő körülményt észlel, az arra jogosult számára intézkedési javaslatot tesz, illetve jogosult – jogszabály vagy az alapszabály megsértése esetén köteles – a napirend megjelölésével a közgyűlés összehívását kezdeményezni.
+
+(5) A felügyelőbizottság – az alapszabály vonatkozó rendelkezéseire figyelemmel – maga állapítja meg működésének részletes szabályait, amit a közgyűlés hagy jóvá.
+
+(6) Az NDHSZ elnökségének tagjai és azok Polgári Törvénykönyv szerinti hozzátartozói nem lehetnek a felügyelőbizottság tagjai. Az alapszabály az összeférhetetlenség további eseteit is megállapíthatja, valamint rendelkezik az összeférhetetlenségi ok felmerülése esetén követendő eljárásról.
+
+(7) Az NDHSZ gazdálkodását a felügyelőbizottság mellett az elnökség által megbízott könyvvizsgáló is ellenőrzi. A könyvvizsgáló írásbeli jelentése hiányában a közgyűlés a 46/O. § (2) bekezdés c) és d) pontjai szerinti beszámolókról és költségvetésről nem dönthet.
+
+46/Q. § (1) Az NDHSZ működése felett a törvényességi ellenőrzést az ügyészség látja el.
+
+(2) Ha a működés törvényessége másképpen nem biztosítható, az ügyész keresettel a bírósághoz fordulhat. Az ügyész által indított perek a Fővárosi Törvényszék hatáskörébe tartoznak. A Fővárosi Törvényszék az ügyész keresete alapján szükség esetén:
+
+- a) hatályon kívül helyezheti az NDHSZ bármely szervének törvénysértő határozatát, és szükség szerint új határozat meghozatalát rendelheti el,
+- b) a működés törvényességének helyreállítása céljából összehívhatja az NDHSZ közgyűlését, vagy határidő tűzésével a törvényes működés helyreállítására kötelezheti a közgyűlést, és minderről értesíti a NDHSZ-nél választott felügyelőbizottságot is,
+- c) ismételt vagy súlyos törvénysértés esetén, vagy ha az NDHSZ-nek nincs szabályosan megválasztott ügyintéző és képviseleti szerve, vagy az a törvénysértő állapot megszüntetéséhez szükséges intézkedéseket nem teszi meg, az NDHSZ-nek vagy egyes szerveinek működését felfüggeszti, egyidejűleg – a törvénysértő állapot megszüntetésének időtartamára, de legfeljebb a kijelöléstől számított kilencven napra – felügyelő biztost jelöl ki.
+
+(3) A Fővárosi Törvényszék meghatározhatja a felügyelő biztos feladatait, a jogszerűség helyreállítására határidőt szabhat, és szükség szerint – a felügyelő biztos felmentésével vagy anélkül – új felügyelő biztost rendelhet ki. A felügyelő biztos – szükség esetén – köteles a működés törvényességének helyreállítása céljából haladéktalanul összehívni az NDHSZ illetékes szervét. Ha az NDHSZ a működés törvényességét helyreállította, működésének felfüggesztését meg kell szüntetni.
+
+(4) Nem rendelhet ki felügyelő biztosként az, aki nem lehet az NDHSZ elnökségének tagja. A felügyelő biztos tevékenységéről és annak eredményéről tájékoztatja a Fővárosi Törvényszéket és a sportpolitikáért felelős minisztert. A felügyelő biztos költségtérítését a bíróság állapítja meg, és az NDHSZ viseli.
+
+(5) A felügyelő biztos e jogkörében végzett tevékenysége során, azzal összefüggésben nem utasítható.
+
+46/R. § (1) Az állam – a (2) bekezdésben meghatározottak szerint – évente biztosítja az NDHSZ közfeladat ellátással összefüggő működési kiadásait.
+
+(2) Az NDHSZ az állami támogatás mellett a tagdíjból és a tagok által nyújtott más hozzájárulásokból, szponzori és egyéb bevételekből gazdálkodik.
 
 ### A Sport Állandó Választottbíróság
 
@@ -842,9 +1140,9 @@ felelős szakmai tagozatok működnek.
 49. § A sport társadalmilag hasznos céljainak megvalósítása érdekében az állam:
 
 - a) meghatározza a szervezett formában történő sporttevékenység gyakorlásának jogszabályi feltételeit,
-- b) gondoskodik – a köznevelésről szóló törvényben meghatározottak szerint – a mindennapos testedzés feltételeinek megteremtéséről a közoktatásban, továbbá közreműködik ezek biztosításában a felsőoktatási intézményekben és a felsőoktatási kollégiumokban,
+- b) gondoskodik – a nemzeti köznevelésről szóló törvényben meghatározottak szerint – a mindennapos testnevelés feltételeinek megteremtéséről a köznevelésben, továbbá közreműködik ezek biztosításában a felsőoktatási intézményekben és a felsőoktatási kollégiumokban,
 - c) elősegíti az egészséges életmód és a szabadidősport gyakorlása feltételeinek megteremtését,
-- d) az e törvényben, a költségvetési törvényben, az államháztartás működésére vonatkozó jogszabályokban, valamint az állami sportcélú támogatásokról szóló miniszteri rendeletben meghatározottak szerint – elsősorban a sportfejlesztési programokon alapuló támogatás előtérbe helyezésével, pályázati úton történő források rendelkezésre bocsátásával – részt vesz a versenysport, az utánpótlás-nevelés, az iskolai és diáksport, a főiskolai-egyetemi sport, a szabadidősport és a fogyatékosok sportja, valamint a helyi önkormányzatok által ellátott sportfeladatok finanszírozásában,
+- d) az e törvényben, a költségvetési törvényben, az államháztartás működésére vonatkozó jogszabályokban, valamint az állami sportcélú támogatásokról szóló kormányrendeletben meghatározottak szerint – elsősorban a sportfejlesztési programokon alapuló támogatás előtérbe helyezésével, pályázati úton történő források rendelkezésre bocsátásával – részt vesz a versenysport, az utánpótlás-nevelés, az iskolai és diáksport, az egyetemi-főiskolai sport, a szabadidősport és a fogyatékosok sportja, valamint a helyi önkormányzatok által ellátott sportfeladatok finanszírozásában,
 - e) az esélyegyenlőség jegyében támogatja a gyermek- és ifjúsági sportot, a nők és a családok sportját, a hátrányos helyzetű társadalmi csoportok, valamint a fogyatékosok sportját,
 - f) korlátozza a sport önveszélyeztető, káros megnyilvánulását és ellenőrzi a doppingtilalom betartását,
 - g) ösztönzi a sportpiac kialakulását és működését,
@@ -865,7 +1163,7 @@ felelős szakmai tagozatok működnek.
 
 (3) A Kormány:
 
-- a) a költségvetésről szóló törvénnyel összhangban – figyelemmel a környezet- és természetvédelem érdekeire, valamint az egészségügyi és az esélyegyenlőséget biztosító egyéb követelményekre – meghatározza a sport állami támogatásának, valamint az állami támogatás felhasználásának és ellenőrzésének alapvető célkitűzéseit, rendszerét, módszereit,
+- a) a költségvetésről szóló törvénnyel összhangban – figyelemmel a környezet- és természetvédelem érdekeire, valamint az egészségügyi és az esélyegyenlőséget biztosító egyéb követelményekre – meghatározza a sport állami támogatásának, az állami támogatás felhasználásának és ellenőrzésének alapvető célkitűzéseit, rendszerét, módszereit, valamint a sportpolitikáért felelős miniszter által vezetett minisztérium fejezethez tartozó állami sport célú támogatások felhasználásának és elosztásának részletes szabályait,
 - b) részt vesz a sporttal kapcsolatos nemzetközi együttműködésben, ideértve a sporttal kapcsolatos feladatokat ellátó nemzetközi szervezetek munkájában való részvételt,
 - c) előkészíti és megköti a sporttal kapcsolatos, a hatáskörébe tartozó nemzetközi szerződéseket,
 - d) a sportpolitikáért felelős miniszter javaslata alapján a nemzetközi sportszervezetek (jogtulajdonosok) által megkívánt garanciát vállal a kiemelt nemzetközi sportrendezvények (különösen olimpia, Paralimpia, Siketlimpia és speciális világjátékok, világbajnokság, Európa-bajnokság) és sportdiplomáciai események magyarországi megrendezéséhez,
@@ -875,38 +1173,42 @@ felelős szakmai tagozatok működnek.
 
 (2) A sportpolitikáért felelős miniszter:
 
-- a) A MOB által a sport valamennyi területére nézve előkészített, a sport állami támogatásának is alapjául szolgáló sportfejlesztési stratégia, és a sportszövetségek által elkészített, a MOB egyes szakmai tagozatai által összehangolt, a MOB-on keresztül a sportpolitikáért felelős minisztériumhoz benyújtott sportágfejlesztési tervek alapján előkészíti a sporttal kapcsolatos kormányzati döntéseket,
-- b) az 56. § (3) bekezdésében foglaltakra is figyelemmel ellátja a sportcélú központi állami pénzeszközök tervezésével, elosztásával kapcsolatos, e törvényben és az államháztartás működésére, valamint az állami sportcélú támogatásra vonatkozó jogszabályokban meghatározott feladatokat, – a MOB-bal történő, e törvényben meghatározott együttműködés alapján – meghatározza a pénzeszközök elosztásának részletes előírásait, ellenőrzi a pénzeszközök felhasználását, gondoskodik a jogosulatlanul igénybe vett állami támogatás visszafizettetéséről,
+- a) a sportszövetségek által elkészített sportágfejlesztési tervek alapján előkészíti a sporttal kapcsolatos kormányzati döntéseket,
+- b) ellátja a sportcélú központi állami pénzeszközök tervezésével, elosztásával kapcsolatos, e törvényben és az államháztartás működésére, valamint az állami sportcélú támogatásra vonatkozó jogszabályokban meghatározott feladatokat, ellenőrzi a pénzeszközök felhasználását, gondoskodik a jogosulatlanul igénybe vett állami támogatás visszafizettetéséről,
 - c) gondoskodik a sporttal kapcsolatos kormányzati döntések végrehajtásáról,
 - d) szakmai támogatást nyújt a helyi önkormányzatok sporttal összefüggő feladatainak ellátásához,
-- e) együttműködik az Országos Területfejlesztési Tanáccsal, az érintett megyei önkormányzatokkal, a főváros esetén a fővárosi önkormányzattal és a térségi fejlesztési tanácsokkal,
-- f) együttműködik a MOB-bal, valamint kapcsolatot tart a sport területén működő civil, érdek-képviseleti szervekkel,
+- e) együttműködik az Országos Területfejlesztési Érdekegyeztető Fórummal, az érintett megyei önkormányzatokkal, a főváros esetén a fővárosi önkormányzattal,
+- f) együttműködik a sportköztestületekkel, valamint kapcsolatot tart a sport területén működő civil szervekkel,
 - g) a látvány-csapatsportok támogatásával összefüggésben – a ga) és gb) alpontban meghatározott feladatok esetén a Ket. rendelkezései alapján közigazgatási hatósági jogkörben – ellátja a sportfejlesztési programok jóváhagyásával és a támogatási igazolásokkal kapcsolatban a hatáskörébe utalt feladatokat, valamint a látvány-csapatsport támogatás felhasználásának ellenőrzésével kapcsolatos elszámolással, részelszámolással összefüggő feladatokat:
   - ga) a Tao. 22/C. § (1) bekezdés a) és e) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén dönt a Tao. 4. § 44. pontjában és 22/C. §-ában meghatározott támogatás feltételét képező sportfejlesztési program, valamint a Tao. 22/C. § (9) bekezdés szerinti sportfejlesztési program jóváhagyásáról,
   - gb) a Tao. 22/C. § (1) bekezdés a) és e) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén igazolja a támogatások igénybevételére vonatkozó jogosultságot, továbbá kiállítja az adókedvezményekre jogosító, a Tao. 22/C. §-a szerinti támogatási igazolást,
   - gc) a látvány-csapatsportok támogatásával összefüggő adatszolgáltatási tevékenységet végez,
   - gd) a Tao. 22/C. § (1) bekezdés a) és e) pontjában, valamint a Tao. 22/C. § (9a) bekezdése szerinti esetben a Tao. 22/C. § (1) bekezdés b)–d) pontjában meghatározott támogatott szervezetek jóváhagyott sportfejlesztési programjai vonatkozásában ellenőrzi a Tao. 4. § 44. pontjában és 22/C. §-ában meghatározott támogatás rendeltetésszerű felhasználását, a támogatással megvalósuló beruházásokkal érintett sportcélú ingatlanok és a támogatásból megvalósuló tárgyi eszköz felújítások sportcélú hasznosításának fenntartását, valamint a 22. § (2) bekezdés f) pont ff) alpontja szerinti, a szakszövetség által készített, ellenőrzésre vonatkozó összesítő elszámolást jóváhagyja,
   - ge) a szakszövetség kezdeményezésére intézkedik a Tao. 22/C. § (6) bekezdés a) és d) pontjában meghatározott jelzálogjognak az állam javára az ingatlan-nyilvántartásba történő bejegyeztetésére vonatkozó kérelem benyújtásáról;
-  - gf) kötelezi a támogatott szervezetet a Tao. 4. § 44. pontja, a 24/A. §-a és 22/C. §-a szerinti támogatás, valamint annak a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló kormányrendeletben meghatározottak szerinti kamata állam részére történő befizetésére, ha a támogatás felhasználásának ellenőrzése során megállapítja, hogy a támogatott szervezet a támogatást nem rendeltetésszerűen vette igénybe;
+  - gf) kötelezi a támogatott szervezetet a Tao. 4. § 44. pontja, a 22/C. §-a és 24/A. §-a szerinti támogatás, valamint annak a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló kormányrendeletben meghatározottak szerinti kamata állam részére történő befizetésére, ha a támogatás felhasználásának ellenőrzése során megállapítja, hogy a támogatott szervezet a támogatást nem rendeltetésszerűen vette igénybe;
   - gg) kezdeményezi az adók módjára behajtandó köztartozásnak minősülő, szabálytalanul igénybe vett és be nem fizetett támogatás, valamint annak a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló kormányrendeletben meghatározottak szerint megnövelt összege és kamata behajtását, ha a gf) pont szerinti kötelezés ellenére a támogatott szervezet a nem rendeltetésszerűen igénybe vett támogatást és annak kamatát nem fizeti be az állam részére;
   - gh) ellátja a jogszabályokban meghatározott egyéb feladatokat;
   - gi) kapcsolatot tart az állami adóhatósággal, a Tao. szerint nyújtott támogatás ellenőrzésére jogosult más szervekkel, valamint a 22. § (2) bekezdés f) pontjában meghatározott jogkörében eljáró látvány-csapatsportág országos sportági szakszövetségével, ennek keretében a kérelem elbírálását követő 8 napon belül tájékoztatja a látvány-csapatsportág országos sportági szakszövetségét az általa kiadott támogatási igazolásokról;
   - gj) ellátja a Tao. 24/A. § (19) bekezdésében meghatározott igazolás kiállításával összefüggő feladatokat;
-- h) gyakorolja az e törvényben, valamint külön jogszabályokban meghatározott hatósági jogköröket,
-- i) a MOB-bal együttműködve programokat dolgoz ki
+- h) gyakorolja az e törvényben, valamint külön jogszabályokban meghatározott hatósági jogköröket, különösen az olimpiai járadékkal és a Nemzet Sportolója Címmel összefüggő, e törvényben, továbbá az olimpiai járadékról és a Nemzet Sportolója Cím adományozásáról szóló kormányrendeletekben meghatározott közigazgatási hatósági feladatokat;
+- i) programokat dolgoz ki:
   - ia) a versenysportnak,
   - ib) az utánpótlás-nevelésnek,
-  - ic) a diák- és főiskolai-egyetemi sportnak,
+  - ic) a diák- és egyetemi-főiskolai sportnak,
   - id) a fogyatékosok sportjának,
   - ie) a szabadidősportnak (ideértve különösen a gyermek- és ifjúsági sport, a nők és a családok sportja, a munkahelyi sport, a hátrányos helyzetű társadalmi csoportok sportja és a szenior sport),
   - if) a sportszakemberek képzésének és kötelező továbbképzésének,
   - ig) a sportkultúra fenntartásának és a határon túli magyar sportkapcsolatok ápolásának, fejlesztésének,
   - ih) a sport szakmúzeumi rendszere fenntartása biztosításának,
   - ii) a sportpiac fejlődésének,
-  - ij) a sport egyéb területeinek támogatására és e programokban elősegíti az esélyegyenlőséget, továbbá a programok kidolgozását a népegészségügyi érdekek hatékony érvényesítése céljából az illetékes miniszterekkel együttműködve végzi,
-- j) biztosítja a nemzeti sportinformációs rendszer döntés-előkészítési, statisztikai, valamint sportszakmai, továbbá szolgáltató elemeinek működési feltételeit, üzemeltetését és fejlesztését azzal, hogy biztosítja a nemzeti sportinformációs rendszerben nyilvántartott adatok statisztikai célokra történő felhasználását és statisztikai felhasználás céljából a hivatalos statisztikai szolgálat részére történő átadását,
-- k) közreműködik a sportszakember-képzésben és -továbbképzésben a hatáskörébe tartozó feladatok teljesítésében, valamint a sport szakmai (oktatási, továbbképzési, kutatási, sporttudományos, sportegészségügyi) hátterének biztosítása érdekében együttműködik az e feladatokat ellátó intézmények felügyeletét ellátó minisztériumokkal,
-- l) a MOB-bal együttműködésben meghatározza az állami sportcélú támogatásban részesülő kiemelkedő jelentőségű sportegészségügyi és sporttudományos feladatokat, javaslatot tesz a sportegészségügyi és a sporttudományos feladatok ellátásának szervezeti kereteire, és figyelemmel kíséri a feladatok megvalósítását.
+  - ij) a sport egyéb területeinek
+
+támogatására és e programokban elősegíti az esélyegyenlőséget, továbbá a programok kidolgozását a népegészségügyi érdekek hatékony érvényesítése céljából a feladat- és hatáskörrel rendelkező miniszterekkel együttműködve végzi,
+
+- j) közreműködik a sportszakember-képzésben és -továbbképzésben a hatáskörébe tartozó feladatok teljesítésében, valamint a sport szakmai (oktatási, továbbképzési, kutatási, sporttudományos, sportegészségügyi) hátterének biztosítása érdekében együttműködik az e feladatokat ellátó intézmények felügyeletét ellátó minisztériumokkal,
+- k) meghatározza az állami sportcélú támogatásban részesülő kiemelkedő jelentőségű sportegészségügyi és sporttudományos feladatokat, javaslatot tesz a sportegészségügyi és a sporttudományos feladatok ellátásának szervezeti kereteire, és figyelemmel kíséri a feladatok megvalósítását,
+- l) az országos sportági szakszövetségi és az országos sportági szövetségi jogállás bírósági bejegyzését megelőzően igazolja a 20. § (4)–(5) bekezdésében és a 28. § (1)–(2) bekezdésében meghatározott feltételek fennállását,
+- m) meghatározza a támogatási rendszerek minőségbiztosítási rendszerét (benchmark-rendszer) és követelményeit.
 
 (2a)
 
@@ -918,7 +1220,20 @@ felelős szakmai tagozatok működnek.
 
 (6) A Tao. 22/C. § (1) bekezdés a) és e) pontjában meghatározott támogatás igénybevételére jogosult szervezetet nem illeti meg a Ket. 71. § (2) bekezdés a) pontjában meghatározott kérelmezett jog gyakorlása, ha a sportpolitikáért felelős miniszter az (5) bekezdésben előírt határidőben nem hoz döntést.
 
-52–54. §
+52. § A sportpolitikáért felelős miniszter feladatai az utánpótlás-nevelés területén elsősorban:
+
+- a) megszervezi, integrálja a fiatal sportolók általános és sportági felkészítésének tudományos vizsgálatát és gondoskodik annak végrehajtásáról,
+- b) irányítja, felügyeli, támogatja, és a sportszövetségek bevonásával működteti a tehetséggondozó, élutánpótlás-nevelő programokat és a sportiskolai programot, együttműködik a programokban szereplő sportszövetségekkel,
+- c) a tehetséggondozó programokban részt vevő sportszövetségek bevonásával meghatározza a programokba bekerült sportolók magas színvonalú edzésmunkájának szakmai feltételeit, és ez alapján biztosítja a támogatást a sportszövetségek ez irányú munkájához,
+- d) sportkutatási-módszertani és tudományos tevékenységet folytat: megfogalmazza a szakmai-kutatási feladattervezeteket, ellátja és koordinálja a kutatási feladatokat, részt vesz a működő sportágfejlesztési programokban, sportszakmai fórumokat hív össze, valamint részt vesz a hazai és nemzetközi sportkutatási feladatok elvégzésében, kutatási programok szervezésében, végrehajtásában.
+
+53. § A sportpolitikáért felelős miniszter feladatai a diák- és hallgatói sport területén elsősorban:
+
+- a) az országos jelleggel működő diák- és hallgatói sportszövetségeken keresztül támogatja a diák- és hallgatói sport területén megvalósuló szervezett sporttevékenységet,
+- b) támogatja a sportolói kettős karrier programok, különösen a Magyar Sportcsillagok Ösztöndíj bevezetését, működését,
+- c) működteti a Magyar Sportcsillagok Ösztöndíj programot.
+
+54. § A sportpolitikáért felelős miniszter feladata a szabadidősport területén, hogy az országos jelleggel működő szabadidősport szövetségeken keresztül támogatja a szabadidősportot népszerűsítő tevékenységet, aminek keretében a szabadidősporttal foglalkozó integrált sportszövetségi és diák-, egyetemi-főiskolai sportprogramok megvalósításán, valamint elsődlegesen szabadidősport-tevékenység szervezésére létrehozott sportszervezetek támogatásán keresztül szélesíti a sport tömegbázisát, a testmozgás, egészséges életmód népszerűsítésére vonatkozó programok támogatásával hozzájárul a sport kedvező hatásainak, értékeinek elterjesztéséhez.
 
 ### A helyi önkormányzatok sporttal kapcsolatos feladatai
 
@@ -937,7 +1252,7 @@ felelős szakmai tagozatok működnek.
 - b) közreműködik a sportszakemberek képzésében és továbbképzésében,
 - c) segíti a sportági és iskolai területi versenyrendszerek kialakítását, illetve az e körbe tartozó sportrendezvények lebonyolítását,
 - d) adottságainak megfelelően részt vesz a nemzetközi sportkapcsolatokban,
-- e) ellátja a nemzeti sportinformációs adatszolgáltatással összefüggő területi feladatokat,
+- e)
 - f) közreműködik a sport népszerűsítésében, a mozgásgazdag életmóddal kapcsolatos sporttudományos felvilágosító tevékenység szervezésében,
 - g) közreműködik a sportorvosi tevékenység feltételeinek biztosításában.
 
@@ -953,13 +1268,13 @@ felelős szakmai tagozatok működnek.
 
 56. § (1) Az állam a sporttevékenység gyakorlásához az e törvényben, a központi költségvetési törvényben és más, a sport állami támogatásáról rendelkező jogszabályban meghatározottak szerint pénzügyi támogatást nyújt. Az állami támogatás:
 
-- a) jogszabályban normatív módon meghatározott feltételek szerint és mértékben jogosultság biztosítására, vagy a MOB útján – a versenysport támogatása esetén – pontértéktáblázat alapján – előzetesen kiszámított működési támogatásként szerződés alapján,
-- b) a sportszervezetek, sportszövetségek, helyi önkormányzatok és a MOB által összeállított, a szakmai feladatok ellátásának következő évi szakmai tervét, valamint annak finanszírozási koncepcióját tartalmazó támogatási kérelem benyújtását és annak elbírálását követően, szerződés alapján, vagy
-- c) a versenysport, az utánpótlás-nevelés, az iskolai és diáksport, a főiskolai-egyetemi sport, a szabadidősport és a fogyatékosok sportja, valamint a helyi önkormányzatok által ellátott sportfeladatok támogatására kiírásra kerülő pályázat útján, szerződés alapján vehető igénybe. Az a)–c) pont szerint biztosított állami sportcélú támogatásokhoz való hozzáférés, a támogatások felhasználásának, elszámolásának és ellenőrzésének részletes szabályaira az e törvényben foglaltakon túl az államháztartás működési rendjéről szóló jogszabályokat és az állami sportcélú támogatásról szóló miniszteri rendeletben foglaltakat kell alkalmazni.
+- a) jogszabályban normatív módon meghatározott feltételek szerint és mértékben jogosultság biztosítására, vagy – a versenysport támogatása esetén – pontértéktáblázat alapján – előzetesen kiszámított működési támogatásként szerződés alapján,
+- b) a sportszervezetek, sportszövetségek, helyi önkormányzatok és a sportköztestületek által összeállított, a szakmai feladatok ellátásának következő évi szakmai tervét, valamint annak finanszírozási koncepcióját tartalmazó támogatási kérelem benyújtását és annak elbírálását követően, szerződés alapján, vagy
+- c) a versenysport, az utánpótlás-nevelés, az iskolai és diáksport, a egyetemi-főiskolai sport, a szabadidősport és a fogyatékosok sportja, valamint a helyi önkormányzatok által ellátott sportfeladatok támogatására kiírásra kerülő pályázat útján, szerződés alapján vehető igénybe. Az a)–c) pont szerint biztosított állami sportcélú támogatásokhoz való hozzáférés, a támogatások felhasználásának, elszámolásának és ellenőrzésének részletes szabályaira az e törvényben foglaltakon túl az államháztartás működési rendjéről szóló jogszabályokat és a sportpolitikáért felelős miniszter által vezetett minisztérium fejezethez tartozó állami sport célú támogatások felhasználásának és elosztásának szabályairól szóló kormányrendeletben foglaltakat kell alkalmazni.
 
 (2) A sorsolásos szerencsejátékok játékadójának tizenkét százalékát, a bukmékeri rendszerű fogadások játékadójának ötven százalékát, a távszerencsejáték játékadóját, valamint a sportfogadás (TOTÓ) játékadóját a központi költségvetésről szóló törvényben meghatározottak szerint, a sport – a bukmékeri rendszerű fogadások, a sportfogadás (TOTÓ) és a távszerencsejáték játékadója tekintetében a Magyar Labdarúgó Szövetség útján a labdarúgás – támogatására kell felhasználni.
 
-(3) A sportpolitikáért felelős miniszter a MOB tárgyévet megelőző év november 30-ig tett javaslatára rendeletben határozza meg az általa vezetett minisztérium költségvetési fejezetéhez tartozó állami sportcélú támogatások felhasználásának részletes szabályait.
+(3)
 
 57. § (1) Állami támogatás csak annak részére nyújtható, akinek:
 
@@ -972,8 +1287,8 @@ felelős szakmai tagozatok működnek.
 - a) az a sportvállalkozás, amellyel szemben a bíróság elrendelte a csődeljárást vagy a sportvállalkozás felszámolását, továbbá amely sportvállalkozás végelszámolás vagy kényszer-végelszámolás alatt áll,
 - b) az a sportszövetség vagy sportegyesület, amelynek működését a bíróság felfüggesztette, valamint amelynek megszüntetésére a Civil tv. szerint eljárás van folyamatban,
 - c) az a sportszövetség vagy sportegyesület, amellyel szemben a Cstv. szerint a bíróság elrendelte a csődeljárást vagy a sportszövetség vagy sportegyesület felszámolását,
-- d) a sportegyesület, a sportvállalkozás, a sportiskola, az utánpótlás-nevelés fejlesztését végző alapítvány, a sportszövetség, a MOB, valamint a helyi önkormányzat, ha nem tesz eleget a nemzeti sportinformációs rendszer részére való adatszolgáltatási kötelezettségének,
-- e) a sportegyesület, a sportvállalkozás, a sportiskola, az utánpótlás-nevelés fejlesztését végző alapítvány, sportszövetség, valamint a MOB, ha nem teljesíti a doppingellenes tevékenységről szóló kormányrendeletben meghatározott doppingellenes feladatait,
+- d) a sportszervezet, a sportszövetség, a sportköztestület, valamint a helyi önkormányzat, ha nem tesz eleget a nemzeti sportinformációs rendszer részére való adatszolgáltatási kötelezettségének,
+- e) a sportszervezet, a sportszövetség, valamint a sportköztestület, ha nem teljesíti a doppingellenes tevékenységről szóló kormányrendeletben meghatározott doppingellenes feladatait,
 - f) az a sportegyesület, sportvállalkozás, sportiskola, utánpótlás-nevelés fejlesztését végző alapítvány és sportszövetség, amely az e törvényben és a sportrendezvények biztonságáról rendelkező kormányrendeletben meghatározott, a sportrendezvények biztonságos lebonyolításával összefüggő kötelezettségeinek nem tesz eleget,
 - g) az a sportszövetség, amely az e törvényben és a sport területén képesítéshez kötött tevékenységek jegyzékéről rendelkező kormányrendeletben meghatározott, képzéssel, szakképzéssel, továbbképzéssel összefüggő kötelezettségeinek nem tesz eleget,
 - h) az a sportszövetség, amely nem rendelkezik a sportágára vonatkozóan stratégiai fejlesztési koncepcióval,
@@ -990,7 +1305,7 @@ felelős szakmai tagozatok működnek.
 
 (4) A sportpolitikáért felelős minisztérium írásbeli megkeresésére, annak kézhezvételétől számított harminc napon belül az állami adóhatóság tájékoztatást köteles nyújtani a sportszervezetek, illetve a sportszövetségek köztartozásairól.
 
-(5) A sportszövetség minden év június 15-ig elkészíti és megküldi a MOB részére a működésével összefüggő, valamint szakmai feladatai ellátásának következő évi szakmai tervét, valamint annak finanszírozási koncepcióját. A MOB a sportszövetség által megküldött szakmai tervek és finanszírozási koncepciók figyelembevételével dönt a sportszövetség állami sportcélú támogatások felhasználásáról és elosztásáról szóló miniszteri rendeletben meghatározottak szerinti támogatásáról.
+(5) A sportszövetség a sportköztestület – sportpolitikáért felelős miniszter által meghatározott időpontban tett – felhívására elkészíti és megküldi a sportköztestület részére a működésével összefüggő, valamint szakmai feladatai ellátásának következő évi szakmai tervét, valamint annak finanszírozási koncepcióját. A sportköztestület a sportszövetség által megküldött szakmai tervek és finanszírozási koncepciók figyelembevételével az államháztartásért felelős miniszter által meghatározott, a sportpolitikáért felelős miniszter által a sportköztestület részére megadott határidőben javaslatot tesz a miniszter részére a sportszövetség állami sportcélú támogatások felhasználásáról és elosztásáról szóló kormányrendeletben meghatározottak szerinti támogatásáról.
 
 57/A. § A Kormány a sporteredmények anyagi támogatása céljából az e törvényben meghatározott támogatások mellett további támogatási formákat is meghatározhat.
 
@@ -998,7 +1313,7 @@ felelős szakmai tagozatok működnek.
 
 58. § (1) Az olimpián, a paralimpián, a sakkolimpián és a speciális világjátékon kiemelkedő sporteredmény elérése érdekében az olimpiai, a paralimpiai, a sakkolimpiai és a speciális világjáték kerettag sportolók, továbbá a felkészülésükben közreműködő sportszakemberek részére – legfeljebb négy évre – Gerevich Aladár-sportösztöndíj adható. A sportösztöndíj versenyszerűen sportolók tanulmányainak elősegítésére is biztosítható.
 
-(2) A Gerevich Aladár-sportösztöndíj mértékét és adományozásának részletes feltételeit – az állami sportcélú támogatások felhasználásáról és elosztásáról szóló miniszteri rendeletben foglaltakra figyelemmel – a MOB állapítja meg és folyósítja.
+(2) A Gerevich Aladár-sportösztöndíj mértékét, tárgyévi szövetségi keretösszegét és adományozásának részletes feltételeit – az állami sportcélú támogatások felhasználásáról és elosztásáról szóló kormányrendeletben foglaltakra figyelemmel – a sportpolitikáért felelős miniszter a MOB és az MPB, a nem olimpiai sportágak tekintetében az NVESZ javaslatának figyelembe vételével állapítja meg és folyósítja.
 
 ### Az olimpiai járadék
 
@@ -1009,7 +1324,7 @@ felelős szakmai tagozatok működnek.
 
 első, második vagy harmadik helyezést ért el (a továbbiakban: érmes).
 
-(2) Az érmes a járadék megállapítására és folyósítására irányuló kérelmét a harmincötödik életévének betöltését követő hónap 1. napjától kezdődően terjesztheti elő a MOB-hoz. A MOB a kérelem jóváhagyása esetén a járadékot a kérelem benyújtásának időpontjától kezdődően – a kérelem benyújtása és a folyósítás időpontja közötti időtartamra jegybanki alapkamattal növelt értékben – folyósítja.
+(2) Az érmes a járadék megállapítására és folyósítására irányuló kérelmét a harmincötödik életévének betöltését követő hónap 1. napjától kezdődően terjesztheti elő a sportpolitikáért felelős miniszterhez. A sportpolitikáért felelős miniszter a kérelem jóváhagyása esetén a járadékot a kérelem benyújtásának időpontjától kezdődően – a kérelem benyújtása és a folyósítás időpontja közötti időtartamra jegybanki alapkamattal növelt értékben – folyósítja.
 
 (3) Élete végéig járadékra jogosult az érmes halálának időpontját követő hónaptól kezdődően annak özvegye, ha magyar állampolgár és az érmessel annak házastársaként a halála időpontjában és legalább az azt megelőző tíz évben megszakítás nélkül közös háztartásban élt.
 
@@ -1021,26 +1336,26 @@ első, második vagy harmadik helyezést ért el (a továbbiakban: érmes).
 - b) a sport területén képesítéshez kötött tevékenységek jegyzékéről szóló kormányrendeletben meghatározott és a szövetség által az érmes felkészítéséhez előírt edzői képesítési szinttel rendelkezik,
 - c) a sportszervezettel vagy – a szövetségi kapitány vagy a nemzeti válogatottat vezető edző esetén – a sportszövetséggel kötött, legalább a felkészítés vagy az abban való közreműködés időszakára vonatkozó munkaszerződéssel vagy munkavégzésre irányuló egyéb szerződéssel rendelkezik,
 - d) az érmest a járadékra jogosultságát megalapozó versenyre a versenyt megelőzően közvetlenül, legalább egy évig folyamatosan felkészítette vagy a felkészítésben közreműködött,
-- e) az érmes által, a járadékra jogosító eredmény elérését megalapozó, az (1) bekezdés a)–b) pontjaiban meghatározott sportesemények hivatalos időszakát legalább harminc nappal megelőzően a szövetség, valamint a MOB részére írásban eljuttatott javaslatban szerepel.
+- e) az érmes által, a járadékra jogosító eredmény elérését megalapozó, az (1) bekezdés a)–b) pontjaiban meghatározott sportesemények hivatalos időszakát legalább harminc nappal megelőzően a szövetség, valamint a MOB és a sportpolitikáért felelős miniszter részére írásban eljuttatott javaslatban szerepel.
 
 (6) Edzői járadék szövetségi kapitány vagy a nemzeti válogatottat vezető edző és – abban az esetben, ha az érmest utánpótlás korosztályokban legalább három évig folyamatosan felkészítette vagy a felkészítésben közreműködött – nevelőedző részére is megállapítható, ha az edző az (5) bekezdés e) pontja szerinti javaslatban szerepel.
 
-(7) Megszűnik az érmes, az edzője és az özvegye járadékra való jogosultsága, ha az érmes a járadékra jogosító helyezését elveszíti. A helyezés elveszítését az érmes vagy az illetékes sportszövetség a tudomásszerzéstől számított nyolc napon belül bejelenti a MOB-nak. A járadékra való jogosultság megszűnését a MOB közigazgatási hatósági eljárás keretében állapítja meg.
+(7) Megszűnik az érmes, az edzője és az özvegye járadékra való jogosultsága, ha az érmes a járadékra jogosító helyezését elveszíti. A helyezés elveszítését az érmes vagy az illetékes sportszövetség a tudomásszerzéstől számított nyolc napon belül bejelenti a sportpolitikáért felelős miniszternek. A járadékra való jogosultság megszűnését a sportpolitikáért felelős miniszter közigazgatási hatósági eljárás keretében állapítja meg.
 
 (8) Érdemtelen és nem részesül járadékban az a jogosult, aki
 
 - a) büntetett előéletű,
 - b) büntetlen előéletű, de akivel szemben a bíróság bűncselekmény elkövetése miatt próbára bocsátást alkalmazott a próbaidő, annak meghosszabbítása esetén a meghosszabbított próbaidő elteltéig.
 
-(9) A jogosult a bíróság jogerős határozatának közlésétől számított nyolc napon belül bejelenti a MOB-nak, ha a (8) bekezdés szerint érdemtelenné vált a járadékra. Ha az érdemtelenség már nem áll fenn, ennek megfelelő igazolásával a jogosult kérheti a járadék ismételt folyósítását.
+(9) A jogosult a bíróság jogerős határozatának közlésétől számított nyolc napon belül bejelenti a sportpolitikáért felelős miniszternek, ha a (8) bekezdés szerint érdemtelenné vált a járadékra. Ha az érdemtelenség már nem áll fenn, ennek megfelelő igazolásával a jogosult kérheti a járadék ismételt folyósítását.
 
-(10) Fel kell függeszteni a járadék folyósítását annak a jogosultnak a részére, aki büntetőeljárás – ide nem értve a magánvád vagy pótmagánvád alapján indult büntetőeljárást – hatálya alatt áll. A jogosult az alapos gyanú közlésétől számított nyolc napon belül bejelenti a MOB-nak, ha ellene büntetőeljárás indult.
+(10) Fel kell függeszteni a járadék folyósítását annak a jogosultnak a részére, aki büntetőeljárás – ide nem értve a magánvád vagy pótmagánvád alapján indult büntetőeljárást – hatálya alatt áll. A jogosult az alapos gyanú közlésétől számított nyolc napon belül bejelenti a sportpolitikáért felelős miniszternek, ha ellene büntetőeljárás indult.
 
-(11) Ha a jogosult igazolja, hogy a vele szemben lefolytatott büntetőeljárásban a nyomozást megszüntették, vagy a büntetőeljárást jogerősen befejezték, és nem következett be a (8) bekezdés szerinti érdemtelenségi ok, a MOB az igazolástól számított harminc napon belül – a folyósítás felfüggesztésének napjától számított jegybanki alapkamattal növelve – egy összegben folyósítja részére az elmaradt járadékot. Amennyiben a büntetőeljárás jogerős befejezésével a jogosult érdemtelenné válik, a (10) bekezdés alapján felfüggesztett járadék nem kerül részére folyósításra.
+(11) Ha a jogosult igazolja, hogy a vele szemben lefolytatott büntetőeljárásban a nyomozást megszüntették, vagy a büntetőeljárást jogerősen befejezték, és nem következett be a (8) bekezdés szerinti érdemtelenségi ok, a sportpolitikáért felelős miniszter az igazolástól számított harminc napon belül – a folyósítás felfüggesztésének napjától számított jegybanki alapkamattal növelve – egy összegben folyósítja részére az elmaradt járadékot. Amennyiben a büntetőeljárás jogerős befejezésével a jogosult érdemtelenné válik, a (10) bekezdés alapján felfüggesztett járadék nem kerül részére folyósításra.
 
-(12) A járadék iránti kérelem benyújtásával egyidejűleg a jogosult harminc napnál nem régebbi hatósági bizonyítvánnyal igazolja azt a tényt, hogy nem áll fenn a (8) bekezdés szerinti érdemtelenség, továbbá azt, hogy nem áll büntetőeljárás hatálya alatt, vagy írásban kérheti, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a MOB részére – a járadékra való jogosultság megállapítása és folyósítása iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a MOB arra vonatkozóan igényelhet adatot a bűnügyi nyilvántartó szervtől, hogy a jogosult nem érdemtelen és nem áll büntetőeljárás hatálya alatt.
+(12) A járadék iránti kérelem benyújtásával egyidejűleg a jogosult harminc napnál nem régebbi hatósági bizonyítvánnyal igazolja azt a tényt, hogy nem áll fenn a (8) bekezdés szerinti érdemtelenség, továbbá azt, hogy nem áll büntetőeljárás hatálya alatt, vagy írásban kérheti, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a sportpolitikáért felelős miniszter részére – a járadékra való jogosultság megállapítása és folyósítása iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a sportpolitikáért felelős miniszter arra vonatkozóan igényel adatot a bűnügyi nyilvántartó szervtől, hogy a jogosult nem érdemtelen és nem áll büntetőeljárás hatálya alatt.
 
-(13) A jogosulatlanul felvett járadékot az erről való tudomásszerzést vagy a MOB felhívását követő hatvan napon belül vissza kell fizetni.
+(13) A jogosulatlanul felvett járadékot az erről való tudomásszerzést vagy a sportpolitikáért felelős miniszter felhívását követő hatvan napon belül vissza kell fizetni.
 
 60. § (1) Az első helyezést elért érmes járadékának mértéke a bérből és fizetésből élők előző évi – a Központi Statisztikai Hivatal által számított – országos szintű bruttó nominál átlagkeresetének megfelelő összeg. A második helyezést elért érmes járadékának mértéke az első helyezett részére meghatározott járadék hatvan százalékának, a harmadik helyezést elért érmes járadékának mértéke az első helyezett részére meghatározott járadék negyven százalékénak megfelelő összeg.
 
@@ -1056,27 +1371,27 @@ első, második vagy harmadik helyezést ért el (a továbbiakban: érmes).
 
 (6) Az érmes – legjobb helyezése után –, valamint az özvegy és az edző csak egy járadékra jogosult, de azt, aki érmesként, özvegyként, illetve edzőként is járadékra jogosult, a járadék halmozottan is megilleti.
 
-61. § (1) A járadékra jogosultságot és a járadékot a MOB a jogosult kérelmére közigazgatási hatósági eljárás keretében állapítja meg és gondoskodik annak havonta történő folyósításáról. A járadék fedezetét és a végrehajtás költségeit a sportpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetében kell biztosítani.
+61. § (1) A járadékra jogosultságot és a járadékot a sportpolitikáért felelős miniszter a jogosult kérelmére közigazgatási hatósági eljárás keretében állapítja meg és gondoskodik annak havonta történő folyósításáról. A járadék fedezetét és a végrehajtás költségeit a sportpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetében kell biztosítani.
 
-(2) A járadékra való jogosultság megszűnéséről és a már folyósított járadék visszafizetéséről, továbbá a járadék folyósításának felfüggesztéséről a MOB a Ket. rendelkezései szerint dönt.
+(2) A járadékra való jogosultság megszűnéséről és a már folyósított járadék visszafizetéséről, továbbá a járadék folyósításának felfüggesztéséről a sportpolitikáért felelős miniszter a Ket. rendelkezései szerint dönt.
 
-(3) A MOB a járadék visszafizetésére vonatkozó igényét a járadék jogosulatlan felvételétől számított öt éven belül érvényesítheti.
+(3) A sportpolitikáért felelős miniszter a járadék visszafizetésére vonatkozó igényét a járadék jogosulatlan felvételétől számított öt éven belül érvényesítheti.
 
-(4) A MOB a járadékra jogosultság időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a jogosult nem vált-e érdemtelenné és nem áll-e büntetőeljárás hatálya alatt. A MOB e célból adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a jogosult nem érdemtelen és nem áll büntetőeljárás hatálya alatt.
+(4) A sportpolitikáért felelős miniszter a járadékra jogosultság időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a jogosult nem vált-e érdemtelenné és nem áll-e büntetőeljárás hatálya alatt. A sportpolitikáért felelős miniszter e célból adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a jogosult nem érdemtelen és nem áll büntetőeljárás hatálya alatt.
 
-(5) A MOB a (4) bekezdésben meghatározott hatósági ellenőrzést a jogosulttal szemben kötelezően lefolytatja, ha
+(5) A sportpolitikáért felelős miniszter a (4) bekezdésben meghatározott hatósági ellenőrzést a jogosulttal szemben kötelezően lefolytatja, ha
 
 - a) a jogosult az 59. § (8) és (10) bekezdés szerinti ok, illetve körülmény bekövetkezését bejelenti, és a bejelentéshez nem csatol hatósági bizonyítványt,
 - b) megalapozottan feltehető, hogy a jogosult érdemtelenné vált vagy büntetőeljárás hatálya alatt áll.
 
-(6) A MOB annak megállapítása céljából, hogy a jogosult nem érdemtelen és nem áll büntetőeljárás hatálya alatt – a járadékra való jogosultságról szóló döntés meghozataláig, a járadék jogosultság megállapítása esetén a jogosultság megszűnéséig – kezeli
+(6) A sportpolitikáért felelős miniszter annak megállapítása céljából, hogy a jogosult nem érdemtelen és nem áll büntetőeljárás hatálya alatt – a járadékra való jogosultságról szóló döntés meghozataláig, a járadék jogosultság megállapítása esetén a jogosultság megszűnéséig – kezeli
 
 - a) a járadék iránti kérelmet benyújtó személy,
 - b) a járadékra jogosult azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalmaz.
 
-(7) A MOB törli a járadékra jogosultnak az 59. § (10) bekezdése alapján megismert személyes adatait, ha a büntetőeljárásban a jogosulttal szemben a nyomozást megszüntették, vagy a büntetőeljárást jogerősen befejezték, és a jogosult nem vált érdemtelenné. A járadék továbbfolyósításáról szóló döntésben a felfüggesztésre okot adó körülmény megszűnését kell feltüntetni.
+(7) A sportpolitikáért felelős miniszter törli a járadékra jogosultnak az 59. § (10) bekezdése alapján megismert személyes adatait, ha a büntetőeljárásban a jogosulttal szemben a nyomozást megszüntették, vagy a büntetőeljárást jogerősen befejezték, és a jogosult nem vált érdemtelenné. A járadék továbbfolyósításáról szóló döntésben a felfüggesztésre okot adó körülmény megszűnését kell feltüntetni.
 
-(8) A MOB a jogosulttal szemben az 59. § (7), (8) és (10) bekezdése szerinti bejelentési kötelezettség elmulasztása miatt eljárási bírságot szabhat ki.
+(8) A sportpolitikáért felelős miniszter a jogosulttal szemben az 59. § (7), (8) és (10) bekezdése szerinti bejelentési kötelezettség elmulasztása miatt eljárási bírságot szabhat ki.
 
 (11) Az olimpiai járadékra vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
 
@@ -1086,9 +1401,9 @@ első, második vagy harmadik helyezést ért el (a továbbiakban: érmes).
 - b) Sakkolimpiának minősülnek a Nemzetközi Siket Sakkszövetség (ICSC) és a Vakok Nemzetközi Sakkszövetsége (IBCA) által a siketek és nagyothallók, valamint a vakok és gyengénlátók számára 1984-től kezdődően megrendezett sakkolimpiák is.
 - c) az olimpiánként, paralimpiánként, sakkolimpiánként és siketlimpiánként érmes helyezés csak akkor keletkeztet járadékra való jogosultságot, ha az érmes helyezést megalapozó versenyszám kvalifikációs versenyrendszerben került megrendezésre, vagy az érmes helyezést megalapozó versenyszámban legalább 8 nemzet vett részt (indult).
 
-61/A. § (1) Ha az eljárásban ellenérdekű ügyfél nem vesz részt, az érmest, az özvegyet, az edzőt megilleti az e törvény szerint megállapítható olimpiai járadék, ha a MOB a kérelem megérkezését követő naptól számított harminc napon belül nem hoz döntést.
+61/A. § (1) Ha az eljárásban ellenérdekű ügyfél nem vesz részt, az érmest, az özvegyet, az edzőt megilleti az e törvény szerint megállapítható olimpiai járadék, ha a sportpolitikáért felelős miniszter a kérelem megérkezését követő naptól számított harminc napon belül nem hoz döntést.
 
-(2) Az érmes – halála esetén az özvegye –, illetőleg edzője az olimpiai járadék, az özvegyi járadék, valamint az edzői járadék megállapítása iránti eljárásban a MOB-bal elektronikus úton nem tarthat kapcsolatot.
+(2)
 
 ### A Nemzet Sportolója
 
@@ -1096,15 +1411,15 @@ első, második vagy harmadik helyezést ért el (a továbbiakban: érmes).
 
 (2) A „Nemzet Sportolója” cím elnyerésének részletes feltételeit és az életjáradék mértékét a Kormány rendeletben állapítja meg. Annak, aki a „Nemzet Sportolója” címmel járó életjáradékban részesül, olimpiai járadék nem folyósítható.
 
-(3) A „Nemzet Sportolója” cím nem adományozható olyan személy részére, akivel szemben az 59. § (8) bekezdése szerinti érdemtelenségi ok vagy az 59. § (10) bekezdésében meghatározott körülmény áll fenn. A cím birtokosa érdemtelenné válására, valamint az életjáradék felfüggesztésére az olimpiai járadékra vonatkozó szabályokat megfelelően alkalmazni kell azzal, hogy a MOB az (1) bekezdés szerinti javaslat Kormány elé terjesztése céljából is jogosult adatot igényelni a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a Nemzet Sportolói által javasolt személlyel szemben az 59. § (8) bekezdése szerinti érdemtelenségi ok vagy az 59. § (10) bekezdésében meghatározott körülmény fennáll-e. Ha a Nemzet Sportolói által javasolt személlyel szemben az 59. § (8) bekezdése szerinti érdemtelenségi ok vagy az 59. § (10) bekezdésében meghatározott körülmény áll fenn, az erről szóló adatszolgáltatástól számított tizenöt napon belül a MOB új javaslat megtételére kéri fel a Nemzet Sportolóit. A MOB a Kormány döntéséig tarthatja nyilván és kezelheti az adatokat.
+(3) A „Nemzet Sportolója” cím nem adományozható olyan személy részére, akivel szemben az 59. § (8) bekezdése szerinti érdemtelenségi ok vagy az 59. § (10) bekezdésében meghatározott körülmény áll fenn. A cím birtokosa érdemtelenné válására, valamint az életjáradék felfüggesztésére az olimpiai járadékra vonatkozó szabályokat megfelelően alkalmazni kell azzal, hogy a sportpolitikáért felelős miniszter az (1) bekezdés szerinti javaslat Kormány elé terjesztése céljából is jogosult adatot igényelni a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a Nemzet Sportolói által javasolt személlyel szemben az 59. § (8) bekezdése szerinti érdemtelenségi ok vagy az 59. § (10) bekezdésében meghatározott körülmény fennáll-e. Ha a Nemzet Sportolói által javasolt személlyel szemben az 59. § (8) bekezdése szerinti érdemtelenségi ok vagy az 59. § (10) bekezdésében meghatározott körülmény áll fenn, az erről szóló adatszolgáltatástól számított tizenöt napon belül a sportpolitikáért felelős miniszter új javaslat megtételére kéri fel a Nemzet Sportolóit. A sportpolitikáért felelős miniszter a Kormány döntéséig tarthatja nyilván és kezelheti az adatokat.
 
-(4) A „Nemzet Sportolója” címet elnyert személy a bíróság jogerős határozatának közlésétől számított nyolc napon belül bejelenti a MOB-nak, ha a (3) bekezdés szerint érdemtelenné vált a járadékra. Érdemtelenség esetén a Kormány a „Nemzet Sportolója” címet és az azzal járó életjáradékot a sportpolitikáért felelős miniszter javaslatára visszavonja. Érdemtelenség esetén a MOB az életjáradék folyósítását megszünteti. A bíróság ítéletének jogerőre emelkedésétől folyósított életjáradék jogosulatlanul felvett járadéknak minősül, amelyet a járadékra jogosultnak vissza kell fizetnie.
+(4) A „Nemzet Sportolója” címet elnyert személy a bíróság jogerős határozatának közlésétől számított nyolc napon belül bejelenti a sportpolitikáért felelős miniszternek, ha a (3) bekezdés szerint érdemtelenné vált a járadékra. Érdemtelenség esetén a Kormány a „Nemzet Sportolója” címet és az azzal járó életjáradékot a sportpolitikáért felelős miniszter javaslatára visszavonja. Érdemtelenség esetén a sportpolitikáért felelős miniszter az életjáradék folyósítását megszünteti. A bíróság ítéletének jogerőre emelkedésétől folyósított életjáradék jogosulatlanul felvett járadéknak minősül, amelyet a járadékra jogosultnak vissza kell fizetnie.
 
-(5) Fel kell függeszteni az életjáradék folyósítását annak a „Nemzet Sportolója” címet elnyert személynek, aki szándékos bűncselekmény elkövetésének megalapozott gyanúja miatt büntetőeljárás – ide nem értve a magánvád vagy pótmagánvád alapján indult büntetőeljárást – hatálya alatt áll. A járadékra jogosult az alapos gyanú közlésétől számított nyolc napon belül bejelenti a MOB-nak, ha ellene büntetőeljárás indult.
+(5) Fel kell függeszteni az életjáradék folyósítását annak a „Nemzet Sportolója” címet elnyert személynek, aki szándékos bűncselekmény elkövetésének megalapozott gyanúja miatt büntetőeljárás – ide nem értve a magánvád vagy pótmagánvád alapján indult büntetőeljárást – hatálya alatt áll. A járadékra jogosult az alapos gyanú közlésétől számított nyolc napon belül bejelenti a sportpolitikáért felelős miniszternek, ha ellene büntetőeljárás indult.
 
-(6) Ha a „Nemzet Sportolója” címet elnyert személy igazolja, hogy a vele szemben lefolytatott büntetőeljárásban a nyomozást megszüntették, vagy a büntetőeljárást jogerősen befejezték és nem következett be az 59. § (8) bekezdés szerinti érdemtelenségi ok, a MOB az igazolástól számított harminc napon belül – a folyósítás felfüggesztésének napjától számított jegybanki alapkamattal növelve – egy összegben folyósítja részére az elmaradt életjáradékot.
+(6) Ha a „Nemzet Sportolója” címet elnyert személy igazolja, hogy a vele szemben lefolytatott büntetőeljárásban a nyomozást megszüntették, vagy a büntetőeljárást jogerősen befejezték és nem következett be az 59. § (8) bekezdés szerinti érdemtelenségi ok, a sportpolitikáért felelős miniszter az igazolástól számított harminc napon belül – a folyósítás felfüggesztésének napjától számított jegybanki alapkamattal növelve – egy összegben folyósítja részére az elmaradt életjáradékot.
 
-(7) A MOB a (6) bekezdés alapján megismert személyes adatokat az életjáradék továbbfolyósítására irányuló eljárás jogerős befejezéséig kezelheti.
+(7) A sportpolitikáért felelős miniszter a (6) bekezdés alapján megismert személyes adatokat az életjáradék továbbfolyósítására irányuló eljárás jogerős befejezéséig kezelheti.
 
 ### Az olimpiai pályázat adókedvezményének támogatási szabályai
 
@@ -1143,11 +1458,11 @@ első, második vagy harmadik helyezést ért el (a továbbiakban: érmes).
 
 (4) Sportlétesítményben sportszövetségi versenyt rendezni csak a sportszövetség által évente az első verseny megkezdése előtt kiadott engedély alapján lehet. Az engedély megtagadásával szemben az üzemeltető a sportszövetség elnökségénél 15 napon belül panasszal élhet.
 
-(5) A sportlétesítmény tulajdonosa, illetve üzemeltetője vagy használója a nemzeti sportinformációs rendszerről szóló kormányrendeletben foglaltak szerint adatot szolgáltat a nemzeti sportinformációs rendszerbe.
+(5)
 
 64. § (1) A Kormány által külön jogszabályban olimpiai központnak minősített, állami tulajdonban lévő ingatlanok vagyonkezelője köteles az olimpiai központokat elsődlegesen sportcélokra használni, ezt a célt az olimpiai központok másodlagos használata során sem veszélyeztetheti.
 
-(2) Az olimpiai központok sportszakmai felügyeletét a MOB látja el.
+(2) Az olimpiai központok sportszakmai felügyeletét a MOB és a Magyar Paralimpiai Bizottság közreműködésével a sportpolitikáért felelős miniszter, a vagyongazdálkodási és létesítményfejlesztési szakmai felügyeletét az állami vagyon felügyeletéért felelős miniszter látja el.
 
 (3) Az ingatlan-nyilvántartásban sporttelepként nyilvántartott állami tulajdonú ingatlanok a sportpolitikáért felelős miniszter által vezetett minisztérium előzetes egyetértésével adhatók ingyenesen önkormányzati tulajdonba.
 
@@ -1194,7 +1509,7 @@ első, második vagy harmadik helyezést ért el (a továbbiakban: érmes).
 
 (4) A szervező a sportrendezvény jellegének megfelelően köteles a fogyatékos résztvevőknek a helyszínre való akadálymentes bejutását és távozását, ott az akadálymentes közlekedést biztosítani, és a helyszín kommunikációs akadálymentesítését elvégezni.
 
-(5) A fogyatékos sportolók részvételével tartandó sportrendezvények szervezésénél figyelembe kell venni a fogyatékos személyek különleges szükségleteit, amelyeket a MOB állapít meg.
+(5) A fogyatékos sportolók részvételével tartandó sportrendezvények szervezésénél figyelembe kell venni a fogyatékos személyek különleges szükségleteit, amelyeket az MPB állapít meg.
 
 68. § (1) A szervező köteles a jogszabályban meghatározott sportrendezvény esetében a belépőjegy-eladást, a sportrendezvény helyszínére történő beléptetést, a szurkolótáborok elhelyezését és folyamatos figyelemmel kísérését, valamint a sportrendezvény helyszínének elhagyását – a rendőrség által meghatározottak szerint – a szükséges műszaki és biztonsági intézkedéseket megtéve úgy megszervezni, hogy a szurkolótáborok elkülönítése biztosított legyen.
 
@@ -1484,13 +1799,51 @@ adatokat továbbítja.
 
 76/C. § A 76/B. § alapján keletkező vagyonkezelői jogviszonyra egyebekben a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársasággal kötött vagyonkezelési szerződésre vonatkozó jogszabályi rendelkezéseket kell alkalmazni azzal, hogy a vagyonkezelési szerződés felmondása csak jogszabályban meghatározott rendkívüli felmondási okok bekövetkezte esetén lehetséges bármelyik fél részéről.
 
+### X/B. Fejezet — NEMZETI SPORTINFORMÁCIÓS RENDSZER
+
+76/D. § (1) A nemzeti sportinformációs rendszer a sportolókra, a sportszakemberekre, a sportszervezetekre, a sportszövetségekre, a sportköztestületekre, ezek tevékenységére, valamint a sportlétesítményekre vonatkozó adatoknak a nyilvántartását szolgáló elektronikus nyilvántartási rendszer.
+
+(2) A nemzeti sportinformációs rendszert a sportpolitikáért felelős miniszter működteti. A sportpolitikáért felelős miniszter e feladatkörében biztosítja a nemzeti sportinformációs rendszer döntés-előkészítési, statisztikai, valamint sportszakmai, továbbá szolgáltató elemeinek működési feltételeit, üzemeltetését és fejlesztését azzal, hogy biztosítja a nemzeti sportinformációs rendszerben nyilvántartott adatok statisztikai célokra történő felhasználását és statisztikai felhasználás céljából a hivatalos statisztikai szolgálat részére történő átadását.
+
+(3) A sportpolitikáért felelős miniszter a nemzeti sportinformációs rendszer személyes adatokra vonatkozó adattartalmát az e törvényben meghatározott esetben kezelheti.
+
+(4) A nemzeti sportinformációs rendszer személyes adatokra vonatkozó adattartalmából – ha törvény eltérően nem rendelkezik – adattovábbítás nem teljesíthető.
+
+76/E. § (1) A sportszervezet adatot szolgáltat a nemzeti sportinformációs rendszerbe a sportszervezettel tagsági, szerződéses vagy tanulói jogviszonyban álló sportolókról. Az adatszolgáltatás a 3. § (3) bekezdés a) pontjában meghatározott személyes adatokra terjed ki.
+
+(2) A sportszövetség a versenyengedélyeket a nemzeti sportinformációs rendszerben tartja nyilván. A sportszövetség ennek keretében adatot szolgáltat a nemzeti sportinformációs rendszer részére az általa kiadott versenyengedélyekről, a versenyengedéllyel rendelkezők versenyeken vagy versenyrendszerben való tényleges részvételéről. Az adatszolgáltatás a 3. § (3) bekezdés a) pontjában meghatározott személyes adatokra is kiterjed.
+
+(3) A nemzeti sportinformációs rendszerben szereplő, (1) és (2) bekezdés szerinti személyes adatokat az e törvényben meghatározottak szerint
+
+- a) a sportszervezet a versenyengedély igénylése, és a versenyengedélyben foglaltak fennállásának igazolása céljából,
+- b) a sportszövetség a versenyengedély kiállítása, az abban meghatározott jogosultságok fennállásának ellenőrzése, továbbá a versenyengedély visszavonása céljából,
+- c) a sportpolitikáért felelős miniszter az adatszolgáltatás validitásának ellenőrzése céljából
+
+a versenyengedély érvényességi ideje alatt kezelheti.
+
+76/F. § (1) A sportszövetség és a sportszervezet adatot szolgáltat a nemzeti sportinformációs rendszerbe az általa foglalkoztatott sportszakemberekről. Az adatszolgáltatás a sportszakember nevét, születési helyét és idejét, képmását, valamint a sport területén képesítéshez kötött tevékenységek jegyzékéről rendelkező kormányrendeletben meghatározott képesítések, szakképzettség megnevezését tartalmazza.
+
+(2) A nemzeti sportinformációs rendszerben szereplő, (1) bekezdés szerinti személyes adatokat
+
+- a) a sportszövetség és a sportszervezet a sportszakember jogviszonyának fennállása alatt,
+- b) a sportpolitikáért felelős miniszter az adatszolgáltatás validitásának ellenőrzése céljából a sportszakember jogviszonyának fennállása alatt
+
+kezelheti.
+
+76/G. § A nemzeti sportinformációs rendszerbe a nemzeti sportinformációs rendszerről szóló kormányrendeletben foglaltak szerint személyes adatnak nem minősülő adatokat szolgáltatnak
+
+- a) a sportszervezetek,
+- b) a sportszövetségek,
+- c) a sportköztestületek,
+- d) a sportlétesítmény tulajdonosa, illetve üzemeltetője vagy használója.
+
 ### XI. Fejezet — ÉRTELMEZŐ ÉS ZÁRÓ RENDELKEZÉSEK
 
 ### Értelmező rendelkezések
 
 77. § E törvény alkalmazásában:
 
-- a) nemzeti sportinformációs rendszer: a sportolókra, a sportszervezetekre, a sportköztestületekre, a, ezek tevékenységére, valamint a sportlétesítményekre vonatkozó adatoknak az állam által rendszerezett és nyilvánosan hozzáférhetővé tett összessége,
+- a)
 - b) edző: a külön jogszabályban meghatározott szakképesítéssel rendelkező természetes személy, aki a sportolónak a sporttevékenységre való felkészítését végzi,
 - c) csapatsportág: azoknak a sportágaknak az összessége, amelyekben sporttevékenységet folytatni a játék jellegéből és a versenyrendszer szabályaiból adódóan kizárólag úgy lehet, hogy legalább három természetes személy alkot egy résztvevőt, és a sportágnak nincs egyéni változata,
 - d) építészeti akadálymentesítés: annak biztosítása, hogy az épített környezet kényelmes, biztonságos, önálló használata minden ember számára biztosított legyen, ideértve azokat a fogyatékos személyeket is, akiknek ehhez speciális létesítményekre, eszközökre, illetve műszaki megoldásokra van szükségük,
@@ -1500,11 +1853,11 @@ adatokat továbbítja.
 - h) kommunikációs akadálymentesítés: annak biztosítása, hogy a fogyatékos személy a sportrendezvény helyszínén az információhoz hozzáférhessen, azt érzékelhesse és megfelelően értelmezhesse,
 - i) közterület: a mindenki számára korlátozás nélkül igénybe vehető terület, út, utca, tér,
 - j) nyilvános hely: az olyan épület, építmény vagy a közterületnek sportrendezvény megtartása céljából lezárt része, ahová a sportrendezvény szervezője által meghatározott feltételek mellett bárki bemehet vagy ott tartózkodhat,
-- k) országos jellegű szervezet a szabadidősport, a fogyatékosok sportja, a diák- és a főiskolai-egyetemi sport területén: a szervezet közhasznúnak minősül, és legalább 7 megyében székhellyel rendelkező, országosan legalább 20 jogi személy taggal működik,
+- k) országos jellegű szervezet a szabadidősport, a fogyatékosok sportja, a diák- és az egyetemi-főiskolai sport területén: a szervezet közhasznúnak minősül, és legalább 7 megyében székhellyel rendelkező, országosan legalább 20 jogi személy taggal működik,
 - l)
 - m) sportiskola: az a köznevelési intézmény, jogi személy nonprofit gazdasági társaság, sportegyesület, sportvállalkozás, vagy utánpótlás-nevelés fejlesztését végző alapítvány, amely az alábbiak szerint utánpótlás-nevelési feladatokat lát el vagy közreműködik azok ellátásában:
   - ma) köznevelési típusú sportiskola: az a köznevelésről szóló törvény hatálya alá tartozó, évfolyamos vagy korcsoportos sportági képzést biztosító köznevelési intézmény, amely a helyi pedagógiai programját – az országos sportági szakszövetség, illetve országos sportági szövetség vagy fogyatékosok országos sportszövetségének szakmai javaslata alapján, az országos sportági szakszövetség, az országos sportági szövetség, vagy a fogyatékosok országos sportszövetsége és a köznevelési típusú sportiskola közötti együttműködési megállapodásban foglaltakra is figyelemmel – sportiskolai kerettanterv alapján készíti el, és biztosítja a testnevelés tantárgy emelt szintű oktatását, valamint a helyi pedagógiai programja összeállítása során figyelemmel van a sportolók felkészítési és versenyeztetési tevékenységére, továbbá a sportági programok megvalósításával kapcsolatos felkészítéssel és versenyeztetéssel összefüggő feladatait jogi személy nonprofit gazdasági társasággal, sportegyesülettel, sportvállalkozással vagy utánpótlás-nevelés fejlesztését végző alapítvánnyal fennálló együttműködési megállapodás alapján végzi,
-  - mb) egyesületi jellegű sportiskola: az a korcsoportos sportági képzést biztosító jogi személy nonprofit gazdasági társaság, sportegyesület, sportvállalkozás, vagy utánpótlás-nevelés fejlesztését végző alapítvány (utánpótlás akadémia), amely köznevelési intézménnyel, a MOB-bal, országos sportági szakszövetséggel, országos sportági szövetséggel, vagy fogyatékosok országos sportszövetségével kötött együttműködési megállapodás alapján vesz részt az utánpótlás-nevelési feladatok ellátásban, sportolók magas szintű felkészítésében és versenyeztetésében, vagy közreműködik az utánpótlás-nevelési feladat-ellátás feltételeinek biztosításában.
+  - mb) egyesületi jellegű sportiskola: az a korcsoportos sportági képzést biztosító jogi személy nonprofit gazdasági társaság, sportegyesület, sportvállalkozás, vagy utánpótlás-nevelés fejlesztését végző alapítvány (utánpótlás akadémia), amely köznevelési intézménnyel, a sportköztestülettel, országos sportági szakszövetséggel, országos sportági szövetséggel, vagy fogyatékosok országos sportszövetségével kötött együttműködési megállapodás alapján vesz részt az utánpótlás-nevelési feladatok ellátásban, sportolók magas szintű felkészítésében és versenyeztetésében, vagy közreműködik az utánpótlás-nevelési feladat-ellátás feltételeinek biztosításában.
 - n) sportrendezvény helyszíne: az a nyilvános hely vagy a közterület meghatározott része, ahol a sportrendezvényt megtartják, és ahol néző tartózkodhat,
 - o) sportrendezvény résztvevője: az a természetes személy, aki a sportrendezvény helyszínén annak időtartama alatt, valamint a sportrendezvényt megelőzően vagy követően másfél órával tartózkodik. A néző (szurkoló) résztvevőnek minősül,
 - p) sportszakember: az a természetes személy, aki a KSH elnökének a Foglalkozások Egységes Osztályozási Rendszeréről (FEOR) szóló 7/2010. (IV. 23.) KSH közleménye szerinti sport-foglalkozást folytat, vagy a sportszervezettel, sportszövetséggel munkaviszonyban vagy polgári jogi jogviszonyban sporttevékenységgel kapcsolatban közvetlenül vagy közvetetten feladatot lát el, sportszakembernek minősül továbbá a sportszervezet és a sportszövetség ügyintéző és képviseleti szervének vezetője. Sportszakember különösen a versenyző felkészítését végző vagy azzal kapcsolatba hozható edző, a csapatvezető, a mérkőzésvezető, a versenybíró, a sportegészségügyi szakember (pl. sportorvos, sportpszichológus, gyúró, masszőr). A sportszövetség szabályzatában határozza meg, hogy az adott sportágban kik minősülnek további sportszakembernek.
@@ -1514,7 +1867,9 @@ adatokat továbbítja.
 - t) utánpótlás-nevelés fejlesztését végző alapítvány: alapító okiratában meghatározott tartós közérdekű cél szerinti tevékenysége – elsősorban utánpótláskorú versenyzőkkel kapcsolatos – sporttevékenység elősegítése, feltételeinek biztosítása, felkészítő (edzéssel összefüggő) és versenyeztetési feladatok szervezése.
 - u) sportrendezvény: sportszervezet vagy sportszövetség által versenyrendszerben vagy azon kívül, résztvevők jelenlétében megtartott verseny, mérkőzés. A sportesemény sportrendezvénynek minősül,
 - v) olimpiai pályázat: a 2024. évi XXXIII. Nyári Olimpiai és XVII. Paralimpiai Játékok budapesti rendezésére vonatkozó pályázat,
-- w) olimpiai pályázat lebonyolításáért felelős nonprofit gazdasági társaság: Budapest Főváros Önkormányzata és a Magyar Olimpiai Bizottság közös és kizárólagos tulajdonában álló, az olimpiai pályázat lebonyolításáért felelős zártkörűen működő nonprofit részvénytársaság.
+- w) olimpiai pályázat lebonyolításáért felelős nonprofit gazdasági társaság: Budapest Főváros Önkormányzata és a Magyar Olimpiai Bizottság közös és kizárólagos tulajdonában álló, az olimpiai pályázat lebonyolításáért felelős zártkörűen működő nonprofit részvénytársaság,
+- x) CAS: Nemzetközi Sportdöntőbíróság,
+- y) nemzetközi szintű sportoló: olyan sportoló, aki sportversenyeken vesz részt nemzetközi szinten (az egyes nemzetközi szövetségek általi meghatározás szerint).
 
 ### Hatályba léptető és átmeneti rendelkezések
 
@@ -1556,6 +1911,18 @@ adatokat továbbítja.
 
 (5) A MOB és az MPB, a MOB és az NVESZ, a MOB és az NDHSZ 2016. december 31-ig a Módtv3-ban meghatározott közfeladatok feladat- és hatáskör változásának átadás-átvételéről megállapodást köt.
 
+78/E. § (1) A MOB jogutódja az olimpiai járadékkal és a Nemzet Sportolója Címmel összefüggésben a Módtv3. hatálybalépésekor folyamatban lévő hatósági ügyekben a sportpolitikáért felelős miniszter.
+
+(2) A Módtv3-mal megállapított 23. § (1) bekezdés h) és i) pontja szerinti szabályzatok megalkotására az országos sportági szakszövetség és az országos sportági szövetség a Módtv3. hatálybalépésétől számított 45 napon belül köteles.
+
+(3) A MOB jogutódja a paralimpiai mozgalommal kapcsolatos szervezett versenysporttal és a fogyatékosok verseny-, diák- és hallgatói sportjával, valamint szabadidősportjával összefüggő feladatai tekintetében az MPB.
+
+(4) A MOB jogutódja a nem olimpiai sportágak szervezett versenysportjával kapcsolatos feladatai tekintetében az NVESZ.
+
+(5) A MOB jogutódja diák-hallgatói és a szabadidősporttal kapcsolatos feladatai tekintetében az NDHSZ.
+
+78/F. § Ha a sportpolitikáért felelős miniszter az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+
 ### Felhatalmazó rendelkezések
 
 79. § (1) Felhatalmazást kap a Kormány, hogy
@@ -1574,7 +1941,8 @@ adatokat továbbítja.
   - bj) az 57/A. § szerinti támogatás mértékét, a támogatásban részesíthető személyek körét és feltételeit, valamint a támogatás nyújtásának eljárásrendjét,
   - bk) a sportrendezvény térítés ellenében végzett biztosítására vonatkozó részletes szabályokat,
   - bl) a biztonságtechnikai fejlesztésre kötelezettek körét, és
-  - bm) a 18. életévét be nem töltött versenyző javára a sporttevékenységével összefüggő biztosításra vonatkozó részletes szabályokat.
+  - bm) a 18. életévét be nem töltött versenyző javára a sporttevékenységével összefüggő biztosításra vonatkozó részletes szabályokat,
+  - bn) a sportpolitikáért felelős miniszter által vezetett minisztérium fejezethez tartozó állami sport célú támogatások felhasználásának és elosztásának részletes szabályait.
 
 (2) Felhatalmazást kap a sportpolitikáért felelős miniszter, hogy rendeletben állapítsa meg
 
@@ -1601,7 +1969,7 @@ adatokat továbbítja.
 | 3 | Budapest, 38440/53 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
 | 4 | Budapest, 38440/54 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
 | 5 | Budapest, 38293/78 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
-| 6 | Budapest, 74333 | Újpesti Torna Egylet (székhely: Budapest 1044, Megyeri út 13.) |
+| 6 | Budapest, 74333/1 | Újpesti Torna Egylet (székhely: Budapest 1044, Megyeri út 13.) |
 | 7 | Budapest, 74232 | Újpesti Torna Egylet (székhely: Budapest 1044, Megyeri út 13.) |
 | 8 | Budapest, 38852/6 | Magyar Testgyakorlók Köre (székhely: Budapest 1073, Erzsébet krt. 24. I. emelet) |
 | 9 | Budapest, 38821/4 | Magyar Testgyakorlók Köre (székhely: Budapest 1073, Erzsébet krt. 24. I. emelet) |

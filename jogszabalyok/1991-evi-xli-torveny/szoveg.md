@@ -74,9 +74,9 @@ a közjegyzőkről
 
 (2) A kamarai hatósági eljárásban ügyfélnek minősül a közjegyzőjelölt, a közjegyzőhelyettes, illetőleg az őket foglalkoztató vagy foglalkoztatni kívánó közjegyző, valamint a közjegyzői iroda tagja és volt tagja.
 
-(3) A kamarai hatósági eljárás lefolytatása iránti kérelmet csak a területi kamaránál, szóbeli kérelmet pedig csak személyesen lehet előterjeszteni. Kamarai hatósági eljárásban a kérelem telefaxon nem nyújtható be.
+(3) A kamarai hatósági eljárás lefolytatása iránti kérelmet csak a területi kamaránál, szóbeli kérelmet pedig csak személyesen lehet előterjeszteni.
 
-(4) A kamarai hatósági eljárást első fokon a területi kamara elnöksége folytatja le, az elnökség döntése elleni fellebbezést az országos kamara bírálja el. A kamarai hatósági eljárásban az ügyfél nem jogosult elektronikus úton írásban kapcsolatot tartani a hatósággal.
+(4) A kamarai hatósági eljárást első fokon a területi kamara elnöksége folytatja le, az elnökség döntése elleni fellebbezést az országos kamara bírálja el.
 
 (5)
 
@@ -93,7 +93,7 @@ a közjegyzőkről
 - c) közjegyzőhelyettes és közjegyzőjelölt névjegyzékbe vétele esetén nevét, születési helyét és időpontját, anyja nevét, a névjegyzékbe vétel időpontját, az alkalmazó közjegyző nevét és székhelyét,
 - d) szükség esetén a közjegyzői iroda nevét, székhelyét, cégjegyzékszámát, tagjainak nevét és személyazonosító adatait.
 
-(10) A Magyar Országos Közjegyzői Kamara és a területi közjegyzői kamara az alapszabályában vagy kamarai szabályzatában közigazgatási hatósági ügynek nem minősülő eljárásaiban is lehetővé teheti a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti elektronikus kapcsolattartás szabályainak alkalmazását. A Magyar Országos Közjegyzői Kamara és a területi közjegyzői kamara a közigazgatási hatósági eljárás általános szabályairól szóló törvény alapján szabályozott elektronikus ügyintézési szolgáltatásokat vehet igénybe.
+(10) A Magyar Országos Közjegyzői Kamara és a területi közjegyzői kamara az alapszabályában vagy kamarai szabályzatában meghatározhatja azon ügyeket, amelyek intézése során akkor is az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési törvény) elektronikus ügyintézéssel kapcsolatos rendelkezéseinek alkalmazásával jár el, ha az ügyfél a kamara tagja vagy alkalmazottja és az eljárás nem minősül közigazgatási hatósági ügynek.
 
 ### A közjegyző illetékességi területe
 
@@ -604,7 +604,8 @@ illetékességi területén.
 - d) az alapítási engedély megadásának időpontja,
 - e) a cégjegyzékbe történő bejegyzés időpontja, cégjegyzékszám,
 - f) a nyilvántartásba történő bejegyzés időpontja,
-- g) a nyilvántartásból történő törlés időpontja.
+- g) a nyilvántartásból történő törlés időpontja,
+- h) a közjegyzői iroda E-ügyintézési tv. szerinti hivatalos elérhetősége.
 
 (6) A területi elnökség a közjegyzőjelöltet, illetve a közjegyzőhelyettest törli a kamarai névjegyzékből, ha
 
@@ -622,6 +623,10 @@ illetékességi területén.
 (8) Ha a közjegyzői iroda a (2) bekezdés szerinti adatokat a bejelentésben nem közli, a kamara az adatok közlése iránt megkeresi a közjegyzői iroda bejegyzését végző cégbíróságot.
 
 (9) A (2) és a (4) bekezdés szerinti névjegyzék – a (2) bekezdés a), d) és e) pontjában foglalt adatok kivételével –, valamint az (5) bekezdés szerinti nyilvántartás – az (5) bekezdés a)–c) és e) pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
+(10) A kamara az (5) bekezdés h) pontja szerinti adatot az E-ügyintézési tv. szerinti rendelkezési nyilvántartásból átveszi, ha azt a közjegyzői iroda oda jelentette be.
+
+(11) Ha a közjegyzői iroda az (5) bekezdés h) pontja szerinti adatot a kamara felé jelentette be, a cégbíróság azt a (10) bekezdés szerinti nyilvántartásnak haladéktalanul átadja.
 
 49/B. § A Magyar Országos Közjegyzői Kamara a közjegyzőt, a közjegyzőhelyettest és a közjegyzőjelöltet külön jogszabály szerinti arcképes igazolvánnyal látja el.
 
@@ -1587,7 +1592,11 @@ kommunikálhat.
 - j) 1956-ban született közjegyző 65. életévének betöltését követő 183. napon,
 - k) 1957-ben született közjegyző 65. életévének betöltése napján.
 
-#### 179–182. §
+179. § (1) E törvénynek az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról szóló 2016. évi CXXI. törvénnyel megállapított 11/A. § (3), (4) és (10) bekezdését, 21/A. § (3) bekezdés a) és b) pontját, (5) és (6) bekezdését, valamint 122. § (4) bekezdését 2017. december 31-ig csak akkor kell alkalmazni, ha az érintett szerv az E-ügyintézési tv. 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+
+(2) A 49/A. § (5) bekezdés h) pontja szerinti adat nyilvántartása 2018. január 1-jétől kötelező, ezt megelőzően a közjegyzői iroda kérheti az adat nyilvántartásba vételét.
+
+#### 180–182. §
 
 ### Felhatalmazás
 

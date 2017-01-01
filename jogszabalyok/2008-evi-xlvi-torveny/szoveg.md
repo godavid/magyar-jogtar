@@ -373,7 +373,7 @@ terheli.
 - c) a takarmány-ellenőrzési feladatokat,
 - d) az állat-egészségügyi, állatvédelmi, állattenyésztési, élelmiszerbiztonsági- és élelmiszerminőség-ellenőrzési feladatokat.
 
-(2) Az élelmiszerlánc-felügyeleti szerv az (1) bekezdés a) és b) pontjában meghatározott feladatokat ellátó szervezeti egységeinek összefoglaló elnevezése növény- és talajvédelmi szolgálat, az (1) bekezdés c) és d) pontjában meghatározott feladatokat ellátó szervezeti egységeinek összefoglaló elnevezése állat-egészségügyi és élelmiszer-ellenőrző szolgálat.
+(2)
 
 27. § (1) E törvény szerinti élelmiszerlánc-felügyeleti állami feladatokat látnak el
 
@@ -758,7 +758,7 @@ terheli.
   - aa) természetes személy esetében az ügyfél neve és születési dátuma,
   - ab) jogi személy, valamint jogi személyiséggel nem rendelkező szervezet esetén a cégnév és az adószám;
 - b) honlapján elektronikusan hitelesített módon közzéteszi az a) pontban szereplő adatok mellett az ügyfél által bejelentett tevékenységek és tevékenységi helyek listáját;
-- c) ügyfélkapun keresztül történő ügyintézés esetén a nyilvántartásba vétel, illetve az adatok módosítása esetén a közigazgatási felhasználásra vonatkozó követelményeknek megfelelő elektronikus aláírással ellátott, az a) és b) pont szerinti adatokat tartalmazó dokumentumot küld az ügyfél központi elektronikus szolgáltató rendszerben fenntartott ügyfélkapus tárhelyére;
+- c) elektronikus ügyintézés esetén a nyilvántartásba vétel, illetve az adatok módosítása esetén a közigazgatási felhasználásra vonatkozó követelményeknek megfelelő elektronikus aláírással ellátott, az a) és b) pont szerinti adatokat tartalmazó dokumentumot küld az ügyfélnek az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti hivatalos elérhetőségére vagy – ha az ügyfél elektronikus ügyintézésre nem köteles – az ennek megfelelő egyéb tárhelyére;
 - d) az ügyfél írásbeli kérelmére az a) és b) pont szerinti adatok igazolására, a külön jogszabályban foglalt díj ellenében papír alapú igazolást állít ki.
 
 38/C. § (1) E törvény hatálya alá tartozó terméket nyilvántartásba nem vett élelmiszerlánc szereplőtől tilos vásárolni, illetve átvenni értékesítésre, szállításra és tárolásra. E rendelkezés megsértése esetén az élelmiszerlánc-felügyeleti szerv a vásárló, illetve az átvevő vonatkozásában is alkalmazza az 57. § és a 63/A. § szerinti jogkövetkezményeket.
@@ -838,6 +838,13 @@ eljárásban hozott döntés ellen közigazgatási eljárás keretében fellebbe
 41. § (1) Az élelmiszerlánc-felügyeleti szerv a növényvédő szer forgalomba hozatali és felhasználási engedélyezési eljárása során ha az e törvény végrehajtására kiadott jogszabályban meghatározott védelmi célok érdekében szükséges, elrendelheti, hogy az engedélyezési eljárás ideje alatt a növényvédő szerek alkalmazásáról meghatározott ismereteket kell nyerni, gyűjteni és értékelni. Az eredményeket az engedélyező hatóságnak meghatározott időn belül meg kell küldeni, felhívásra a megfelelő dokumentumokat és mintákat be kell mutatni.
 
 (2) Az élelmiszerlánc-felügyeleti szerv a már engedélyezett növényvédő szer esetében az engedélyestől adatokat és mintákat kérhet be, amennyiben új ismeretek az engedély felülvizsgálatát teszik szükségessé.
+
+41/A. § Ha az élelmiszerlánc-felügyeleti szerv eljárása idegenhonos inváziós fajt érint, az élelmiszerlánc-felügyeleti szerv
+
+- a) az 1143/2014/EU európai parlamenti és tanácsi rendelet, valamint
+- b) a természet védelméről szóló törvény idegenhonos inváziós fajokkal kapcsolatos
+
+rendelkezéseit is alkalmazza.
 
 42. § (1) Az élelmiszerlánc-felügyeleti szerv
 
@@ -1078,7 +1085,7 @@ határozatát a miniszter által vezetett minisztérium hivatalos lapjában, hon
 
 52. § (1) Az állat-járványügyi intézkedések közül egyszerre több is elrendelhető.
 
-(2) Az 51. § (3) bekezdésének d)–g), valamint s) és t) pontjában meghatározott állat-járványügyi intézkedések elrendeléséről szóló határozatot egyidejűleg az illetékes járási (fővárosi körzeti) hivatallal is közölni kell. Az illetékes járási (fővárosi körzeti) hivatal köteles a megküldött határozatokat a helyben szokásos módon közzétenni.
+(2) Az 51. § (3) bekezdésének d)–g), valamint s) és t) pontjában meghatározott állat-járványügyi intézkedések elrendeléséről szóló határozatot egyidejűleg az illetékes járási (fővárosi kerületi) hivatal vezetőjével is közölni kell. Az illetékes járási (fővárosi kerületi) hivatal vezetője köteles a megküldött határozatokat a helyben szokásos módon közzétenni.
 
 (3) Nagy gazdasági kárral fenyegető, illetve nemzetközi kereskedelmet akadályozó fertőző állatbetegség kitörésekor – amennyiben azt a fertőző állatbetegség rendkívüli veszélye indokolja – a miniszter megtilthatja az élő állat, állati eredetű termék és élelmiszer, takarmány, továbbá járványos állatbetegség terjesztésére alkalmas egyéb áru Magyarország területéről történő kiszállítását, behozatalát, illetve a betegség terjedésének megállításához, valamint a betegség felszámolásához szükséges állat-járványügyi intézkedéseket foganatosíthat.
 
@@ -1531,7 +1538,7 @@ vonatkozó előírásokat.
 
 77. § (1) Ez a törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg:
 
-- a)
+- a) az idegenhonos inváziós fajok betelepítésének vagy behurcolásának és terjedésének megelőzéséről és kezeléséről szóló, 2014. október 22-i, 1143/2014/EU európai parlamenti és tanácsi rendelet;
 - b) a Bizottság 98/139/EK határozata (1998. február 4.) a Bizottság szakértői részéről az állat-egészségügy területén végrehajtott helyszíni ellenőrzésekre vonatkozó szabályok megállapításáról;
 - c) az Európai Parlament és a Tanács 178/2002/EK rendelete (2002. január 28.) az élelmiszerjog általános elveiről és követelményeiről, az Európai Élelmiszerbiztonsági Hatóság létrehozásáról és az élelmiszer-biztonságra vonatkozó eljárások megállapításáról;
 - d) az Európai Parlament és a Tanács 1774/2002/EK rendelete (2002. október 3.) a nem emberi fogyasztásra szánt állati melléktermékekre vonatkozó egészségügyi előírások megállapításáról;
@@ -1575,7 +1582,7 @@ vonatkozó előírásokat.
 
 80. § A 31. §-ban meghatározott technikai jellegű előírásoknak nem kell megfelelnie az olyan laboratóriumi vizsgálatnak, amelyet az Európai Unió valamely tagállamában vagy Törökországban végeztek, vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely EFTA-államban végeztek az ott irányadó előírásoknak megfelelően, feltéve, hogy az irányadó előírások a közerkölcs, a közbiztonság, az emberi egészség és élet védelme, illetve a fogyasztók védelme tekintetében az e törvényben meghatározottal egyenértékű védelmet nyújtanak.
 
-#### 81. §
+81. § E törvénynek az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról szóló 2016. évi CXXI. törvénnyel megállapított 38/B. § (6) bekezdés c) pontját 2017. december 31-ig csak akkor kell alkalmazni, ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
 #### 82. §
 

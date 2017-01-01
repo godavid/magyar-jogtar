@@ -28,7 +28,7 @@ az egyes sportcélú ingatlanok tulajdoni helyzetének rendezéséről
 
 (6) Az (5) bekezdésben meghatározott méltányosság iránti kérelemhez jogszabályban meghatározott okiratokat, terveket és adatokat kell csatolni. A méltányossági eljárás szabályait jogszabály határozza meg.
 
-(7) Kizárólag sportcélú használatra létrehozott repülőtér esetében az (5) bekezdés szerinti méltányosság gyakorlásának feltétele a közlekedésért felelős miniszter egyetértése.
+(7) Kizárólag sportcélú használatra létrehozott repülőtér esetében az (5) bekezdés szerinti méltányosság gyakorlásának feltétele a közlekedésért felelős miniszter, valamint a honvédelemért felelős miniszter feladat- és hatáskörük figyelembevételével gyakorolt egyetértése. A honvédelemért felelős miniszter egyetértési jogát a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény szerinti honvédelmi érdekek figyelembevételével gyakorolja.
 
 (8) Az (5) bekezdés szerinti méltányosság gyakorlásakor a természet védelméről szóló törvény rendelkezéseit figyelembe kell venni.
 
@@ -75,6 +75,8 @@ az egyes sportcélú ingatlanok tulajdoni helyzetének rendezéséről
 16. § 2012. január 1-je után ingyenesen szerzett sportcélú ingatlanok esetében az 5. § (5) bekezdés a) és b) pontjában foglalt rendelkezések, valamint a (10) bekezdés rendelkezései nem alkalmazhatóak.
 
 16/A. § Az 5. § (10) bekezdése alapján a magyar állam tulajdonába került sportcélú ingatlan esetében a Kormány nyilvános határozatban dönthet az ingatlan sportcéltól eltérő hasznosításáról.
+
+17. § E törvénynek az egyes törvények honvédelmi kérdésekkel összefüggő módosításáról szóló 2016. évi CLXXXIV. törvénnyel megállapított 5. § (7) bekezdését az egyes törvények honvédelmi kérdésekkel összefüggő módosításáról szóló 2016. évi CLXXXIV. törvény hatálybalépésekor fennálló elidegenítési és terhelési tilalom tekintetében is alkalmazni kell.
 
 ### 1. melléklet az egyes sportcélú ingatlanok tulajdoni helyzetének rendezéséről szóló 1996. évi LXV. törvényhez
 

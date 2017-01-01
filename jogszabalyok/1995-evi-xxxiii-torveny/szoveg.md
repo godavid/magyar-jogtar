@@ -546,17 +546,21 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 (5) A Szellemi Tulajdon Nemzeti Hivatala jár el a 816/2006/EK rendelet [33/A. § (1) bek.] hatálya alá tartozó kényszerengedélyekkel összefüggő ügyekben (83/A–83/H. §-ok) is.
 
-### A közigazgatási hatósági eljárás általános szabályainak alkalmazása
+### A közigazgatási hatósági eljárás és az elektronikus ügyintézés általános szabályainak alkalmazása
 
-45. § (1) A Szellemi Tulajdon Nemzeti Hivatala a hatáskörébe tartozó szabadalmi ügyekben – az e törvényben meghatározott eltérésekkel – a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint jár el.
+45. § (1) A Szellemi Tulajdon Nemzeti Hivatala a hatáskörébe tartozó szabadalmi ügyekben – az e törvényben meghatározott eltérésekkel – a közigazgatási hatósági eljárás általános szabályairól szóló törvény, valamint az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény rendelkezései szerint jár el.
 
 (2) A Szellemi Tulajdon Nemzeti Hivatala a hatáskörébe tartozó szabadalmi ügyekben – jogszabály eltérő rendelkezése hiányában – kérelemre jár el.
+
+(2a) A Szellemi Tulajdon Nemzeti Hivatala hatáskörébe tartozó szabadalmi ügyekben – tájékoztatás kérése és annak teljesítése, az iratokba való betekintés, valamint a szóbeli tárgyalás kivételével – kapcsolattartásnak csak írásbeli, valamint azonosításhoz kötött elektronikus úton van helye, tájékoztatás azonban nem kérhető és ilyen kérés nem teljesíthető rövid szöveges üzenet útján.
 
 (3) A közigazgatási hatósági eljárás általános szabályairól szóló törvénynek azok a rendelkezései, amelyek az eljárás megindításával és az első kapcsolatfelvétellel összefüggő – hivatalból vagy kérelemre történő – értesítésre és figyelemfelhívásra vonatkoznak, nem alkalmazhatók szabadalmi ügyekben.
 
 (4) Szabadalmi ügyekben nem alkalmazhatók a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a jogutódlásra vonatkozó rendelkezései.
 
 (5) Szabadalmi ügyekben nem alkalmazhatók a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a közvetítő igénybevételére vonatkozó rendelkezései.
+
+(6) A nemzetközi szabadalmi bejelentések elektronikus úton kizárólag a Szellemi Tulajdon Világszervezete által üzemeltetett elektronikus kommunikációs és ügyviteli rendszer (a továbbiakban: ePCT rendszer) használatával nyújthatók be a Szellemi Tulajdon Nemzeti Hivatalához mint átvevő hivatalhoz. Azzal a bejelentővel és képviselőjével, aki az ePCT rendszeren keresztül nyújtotta be a nemzetközi szabadalmi bejelentést, a Szellemi Tulajdon Nemzeti Hivatala mint átvevő hivatal az ePCT rendszer szabályai szerint tartja a kapcsolatot.
 
 ### A Szellemi Tulajdon Nemzeti Hivatala döntései
 
@@ -659,6 +663,8 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 (6) Az ügygondnok költségének és munkadíjának előlegezésére azt kell kötelezni, aki a kirendelést kérte.
 
+(7) Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény, valamint e törvény elektronikus ügyintézésre vonatkozó rendelkezéseinek alkalmazásában szabadalmi ügyekben jogi képviselőnek minősül a szabadalmi ügyvivő, a szabadalmi ügyvivői iroda és a szabadalmi ügyvivői társaság is.
+
 ### Nyelvhasználat
 
 52. § (1) A szabadalmi eljárások magyar nyelven folynak, a szabadalmi leírást az igényponttal, a rajz feliratát és a kivonatot – ha e törvény eltérően nem rendelkezik – magyar nyelven kell elkészíteni.
@@ -670,6 +676,8 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 ### Nyilvánosság
 
 53. § (1) A szabadalmi bejelentés közzétételéig csak a bejelentő, a képviselő, a szakértő, illetve a szakvélemény adására felkért szerv, valamint – ha ez törvényben meghatározott feladataik ellátásához szükséges – a bíróság, az ügyész vagy a nyomozó hatóság tekintheti meg az iratokat. A feltaláló az iratokat megtekintheti akkor is, ha nem ő az igényjogosult. A közzétételt követően a szabadalmi bejelentés iratait – a (2) bekezdésben foglalt kivételekkel – bárki megtekintheti.
+
+(1a) A kérelemre megtekinthető iratokba való betekintést a Szellemi Tulajdon Nemzeti Hivatala személyes megjelenéshez kötötten biztosítja.
 
 (2) A közigazgatási hatósági eljárás általános szabályairól szóló törvényben szabályozott eseteken kívül a közzétételt követően sem tekinthetők meg
 
@@ -741,33 +749,9 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 ### Elektronikus ügyintézés és hatósági szolgáltatás
 
-53/D. § (1) Szabadalmi ügyekben az ügyfél – a (2)–(3) bekezdésben meghatározott esetek kivételével – nem jogosult a Szellemi Tulajdon Nemzeti Hivatalával, a Szellemi Tulajdon Nemzeti Hivatala pedig nem köteles az ügyféllel elektronikus úton írásban kapcsolatot tartani.
+53/D. § (1) Szabadalmi ügyekben a Szellemi Tulajdon Nemzeti Hivatala az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény és e törvény rendelkezései szerint biztosítja az elektronikus ügyintézést.
 
-(2) Elektronikus úton is be lehet nyújtani
-
-- a) a szabadalmi bejelentést,
-- b) az igénypont-közzétételi kérelmet és az igénypontok magyar nyelvű fordítását,
-- c) az európai szabadalom igénypontjainak magyar nyelvű fordítását, illetve az európai szabadalom szövegének angol vagy magyar nyelvű fordítását,
-- d) a b) és a c) pontban meghatározott fordítás kijavítására irányuló kérelmet,
-- e) az 54. § (2) bekezdés d)–f) pontjában meghatározott tényekben bekövetkezett változásoknak a szabadalmi lajstromban való feltüntetésére irányuló kérelmet,
-- f) a lajstromkivonat igénylésére vonatkozó kérelmet,
-- g) az iratbetekintésre vonatkozó kérelmet.
-
-(3) Ha az ügyfél a (2) bekezdés b)–g) pontja alapján elektronikus úton, a Kormány által biztosított azonosítási szolgáltatáson keresztül kezdeményezett eljárást, a Szellemi Tulajdon Nemzeti Hivatala elektronikus úton közli vele a kérelem kapcsán hozott döntéseket, illetve küldi meg neki a hiteles elektronikus lajstromkivonatot.
-
-(4) A (2) bekezdésben meghatározott beadványokat a Szellemi Tulajdon Nemzeti Hivatala által erre rendszeresített elektronikus űrlap használatával lehet elektronikus úton benyújtani.
-
-(5) Az elektronikus úton benyújtott beadvány megérkezéséről a Szellemi Tulajdon Nemzeti Hivatala – külön jogszabályban meghatározott módon – elektronikus érkeztető számot tartalmazó automatikus értesítést küld az ügyfélnek.
-
-(6) A Szellemi Tulajdon Nemzeti Hivatala az elektronikus úton benyújtott beadvány megérkezését követően haladéktalanul megvizsgálja, hogy az megfelel-e az elektronikus ügyintézésre vonatkozó jogszabályi követelményeknek.
-
-(7) Elektronikus beküldés esetén a beadvány az elektronikus érkeztetésről szóló automatikus visszaigazolásnak az ügyfél részére történő elküldésével tekintendő benyújtottnak, kivéve, ha a Szellemi Tulajdon Nemzeti Hivatala a kapott dokumentum értelmezhetetlenségét állapítja meg, és erről az ügyfelet elektronikus levélben értesíti.
-
-(8) Az értelmezhetetlen dokumentumot beküldő ügyfél a (7) bekezdés szerinti értesítés visszaigazolására köteles. Ha az ügyfél az értesítés átvételét tizenöt napon belül nem igazolja vissza, a Szellemi Tulajdon Nemzeti Hivatala postai úton továbbítja számára az iratot.
-
-(9) A (2) bekezdésben meghatározott beadványok elektronikus úton való benyújtására vonatkozó részletes szabályokat külön jogszabály állapítja meg.
-
-(10) Szabadalmi ügyekben tájékoztatás kérésének és teljesítésének rövid szöveges üzenet útján nincs helye.
+(2) Szabadalmi ügyekben a gazdálkodó szervezet és az ügyfél jogi képviselője nem köteles elektronikus ügyintézésre.
 
 ### A Szabadalmi Jogi Szerződés alkalmazása
 
@@ -807,7 +791,7 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 55. § (1) A szabadalmi lajstromba a Szellemi Tulajdon Nemzeti Hivatala a saját döntése, más hatóság döntése vagy a bíróság határozata alapján tesz bejegyzést, továbbá feltünteti abban a szabadalmi eljárásokban bekövetkezett tényeket. A 85. § (1) bekezdése szerinti döntések alapján tett bejegyzések tekintetében a lajstrom tartalmazza a döntések jogerőre emelkedésének napját is. Ha a 85. § (1) bekezdése szerinti valamely döntés ellen megváltoztatási kérelmet nyújtottak be, ezt a tényt, valamint azt, hogy a döntés nem jogerős, szintén fel kell tüntetni.
 
-(2) A szabadalmi oltalommal összefüggő jogok és tények tudomásulvétele, illetve bejegyzése ügyében – a szabadalmi eljárásokban bekövetkezett tények kivételével – a Szellemi Tulajdon Nemzeti Hivatala írásban előterjesztett kérelem alapján dönt. A kérelemhez csatolni kell az alapul szolgáló közokiratot vagy megfelelő bizonyító erejű magánokiratot. Ha ugyanabban az ügyben olyan kérelmeket nyújtanak be, amelyek teljesítése kizárná egymást, a kérelmeket a beérkezésük sorrendjében kell elbírálni.
+(2) A szabadalmi oltalommal összefüggő jogok és tények tudomásulvétele, illetve bejegyzése ügyében – a szabadalmi eljárásokban bekövetkezett tények kivételével – a Szellemi Tulajdon Nemzeti Hivatala írásban előterjesztett kérelem alapján dönt, azzal, hogy az ügyfél adatainak változásáról más hatóságtól kapott értesítés nem tekinthető írásban előterjesztett kérelemnek. A kérelemhez csatolni kell az alapul szolgáló közokiratot vagy megfelelő bizonyító erejű magánokiratot. Ha ugyanabban az ügyben olyan kérelmeket nyújtanak be, amelyek teljesítése kizárná egymást, a kérelmeket a beérkezésük sorrendjében kell elbírálni.
 
 (2a) A Szellemi Tulajdon Nemzeti Hivatala a szabadalmi lajstromnak a feltalálóra és a szerzőségi arányra vonatkozó bejegyzését kérelemre a lajstromban feltüntetett valamennyi feltaláló és valamennyi kérelmező egybehangzó nyilatkozata vagy a kérelemhez mellékelt jogerős bírósági ítélet alapján módosítja.
 
@@ -1977,17 +1961,9 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 (8) E törvény eltérő rendelkezése hiányában a (7) bekezdés c)–e) pontjaiban említett kérdésekben hozott – az eljárást befejező – döntését a Szellemi Tulajdon Nemzeti Hivatala megváltoztatási kérelem alapján is csak akkor módosíthatja vagy vonhatja vissza, ha megállapítja, hogy döntése jogszabályt sért, vagy ha a felek a döntés módosítását vagy visszavonását egybehangzóan kérik.
 
-(9) A növényfajta-oltalmi eljárások általános szabályaira az (1)–(8) bekezdésben nem szabályozott kérdésekben a VII. fejezet rendelkezéseit kell megfelelően alkalmazni azzal, hogy növényfajta-oltalmi ügyekben az ügyfél – a (10) és (11) bekezdésben meghatározott esetek kivételével – nem jogosult elektronikus úton írásban kapcsolatot tartani a Szellemi Tulajdon Nemzeti Hivatalával, a Szellemi Tulajdon Nemzeti Hivatala pedig nem köteles elektronikus úton írásban kapcsolatot tartani az ügyféllel.
+(9) A növényfajta-oltalmi eljárások általános szabályaira az (1)–(8) bekezdésben nem szabályozott kérdésekben a VII. fejezet rendelkezéseit kell megfelelően alkalmazni.
 
-(10) Elektronikus úton is be lehet nyújtani
-
-- a) az 54. § (2) bekezdés d)–f) pontjában meghatározott tényekben bekövetkezett változásoknak a növényfajta-oltalmi lajstromban való feltüntetésére irányuló kérelmet,
-- b) a lajstromkivonat igénylésére vonatkozó kérelmet,
-- c) az iratbetekintésre vonatkozó kérelmet.
-
-(11) Ha az ügyfél a (10) bekezdés alapján elektronikus úton, a Kormány által biztosított azonosítási szolgáltatáson keresztül kezdeményezett eljárást, a Szellemi Tulajdon Nemzeti Hivatala elektronikus úton közli az eljárás során hozott döntéseket, illetve küldi meg a hiteles elektronikus lajstromkivonatot.
-
-(12) A (10) bekezdésben meghatározott beadványok elektronikus úton való benyújtására az 53/D. § (4)–(9) bekezdésében foglaltakat megfelelően alkalmazni kell.
+(10)–(12)
 
 ### Növényfajta-oltalmi lajstrom, hatósági tájékoztatás
 
@@ -2374,6 +2350,8 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 (7) A 2008. január 1-jét megelőzően megkezdett hasznosításra a szabadalmi oltalom terjedelme tekintetében a korábban hatályos rendelkezéseket kell alkalmazni a hasznosításnak a 2008. január 1-jén meglévő mértékéig.
 
 117/A. § E törvénynek a szellemi tulajdonra vonatkozó egyes törvények módosításáról szóló 2013. évi CLIX. törvénnyel megállapított 69/A. §-át és 115/S. § (3) bekezdését azokban az ügyekben is alkalmazni kell, amelyekben a szellemi tulajdonra vonatkozó egyes törvények módosításáról szóló 2013. évi CLIX. törvény hatálybalépését megelőzően hatályos rendelkezések szerint az írásos véleménnyel kiegészített újdonságkutatási jelentés iránti kérelem benyújtására nyitva álló határidő már eltelt.
+
+117/B. § Ha a Szellemi Tulajdon Nemzeti Hivatala az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
 ### Felhatalmazások
 

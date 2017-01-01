@@ -405,55 +405,15 @@ d) a földtani szerkezetek megismerése szénhidrogén, valamint energetikai és
 
 „(4) A pályázati kiírásnak részletes leírást kell adnia a pályázati eljárásról, továbbá a pályázat értékelési szempontjairól.”
 
-27. § A VET. 9. §-a helyébe a következő rendelkezés lép:
+27–28. §
 
-„9. § (1) A környezet és a természet védelme, a felhasználók ellátása, az elsődleges energiaforrások felhasználásának megtakarítása, valamint a felhasználható energiaforrások bővítése érdekében elő kell segíteni a megújuló energiaforrás, a hulladék, mint energiaforrás, valamint az olyan elsődleges energiaforrás felhasználását, amely a termálvíz kitermelése során a környezetbe kerülve nagyobb környezetterhelést okozna, mint amelyet az energetikai hasznosítása során annak felhasználása okoz (a továbbiakban együtt: támogatási célok).
-
-(2) A támogatási célok elérésének elősegítése érdekében e törvény és a felhatalmazása alapján kiadott külön jogszabály energiaforrásokra, termelési eljárásokra, az erőművi névleges teljesítőképességre, az energiaátalakítás hatásfokára, hatékonyságára, valamint az erőmű létesítésének időpontjára tekintettel differenciált, kötelező átvételi rendszert hoz létre.
-
-(3) A 11. § (1) bekezdés b) pontja szerinti kötelező átvétel hulladékból nyert energia esetén az előállított energiamennyiség 50%-ára, de legfeljebb a 11. § (4) bekezdésében meghatározott mértékig biztosítható.”
-
-28. § (1) A VET. 10. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-[A 9. §-ban meghatározott kötelező átvételi rendszer részletes szabályainak kialakítása során a Kormány az alábbiakat veszi figyelembe:]
-
-„a) a támogatási célok elérésének elősegítésére létrehozott kötelező átvételi rendszernek biztosítania kell a szükséges hosszú távú kiszámíthatóságot, a fenntartható fejlődést és az energiapolitikai elvekkel való összhangot,”
-
-(2) A VET. 10. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) A kötelező átvétel bázisárát és annak indexálási módját, a kötelező átvétel időtartamát és a kötelező átvétel maximális mennyiségét a megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos energia kötelező átvételéről és átvételi áráról szóló kormányrendeletben meghatározott feltételekkel lehet módosítani, és ezen módosított bázisár, indexálási mód, időtartam és maximális mennyiség kizárólag arra az erőműre, illetve erőműegységre alkalmazandó, amelyik a módosítás hatálybalépését követően kezdte meg a termelést.”
-
-(3) A VET. 10. § (4) bekezdése helyébe a következő rendelkezés lép, és a § a következő (5) bekezdéssel egészül ki:
-
-„(4) Az átvételi kötelezettség alá eső villamos energia termelője a 13. § (1a) bekezdés a) pontjában meghatározott mérlegkörben történő értékesítés esetén az átviteli rendszerirányító üzletszabályzata szerinti mérlegköri szerződést köt, és az átviteli rendszerirányító által az átvételi kötelezettség alá eső villamos energia elszámolására létrehozott mérlegkörhöz csatlakozik.
-
-(5) Az átvételi kötelezettség alá eső villamos energia termelője és az átviteli rendszerirányító a kötelező átvétel feltételeinek az adott termelő vonatkozásában történő meghatározása érdekében az árra, a mennyiségre és a termelő besorolására irányadó előírásokkal összhangban szerződést köt. A szerződés a (4) bekezdés szerinti mérlegköri szerződéssel egybefoglalható.”
-
-29. § (1) A VET. 11. §-a helyébe a következő rendelkezés lép:
-
-„11. § (1) A 10. § szerinti szempontok alapján meghatározott kötelező átvétel történhet
-
-a) piaci áron vagy
-
-b) 10. § (1a) bekezdés szerinti kormányrendeletben meghatározott átvételi áron.
-
-(2) Az (1) bekezdés a) pontja szerinti, piaci áron történő kötelező átvétel részletszabályait, illetve az (1) bekezdés b) pontja szerinti kötelező átvétel keretében biztosított támogatás mértékét – beleértve a kötelező átvételi árat, a kötelező átvétel időtartamát, és a kötelező átvétel alá eső maximális mennyiséget –, a támogatásra jogosultak körét, a támogatás feltételeit és módját a 10. §-ban meghatározott keretek között kormányrendeletben kell megállapítani.
-
-(3) A kötelező átvétel keretében biztosított támogatás mértékét energiaforrásonként, termelési eljárásonként és az erőművi névleges teljesítőképességre való tekintettel a 10. § (1a) bekezdés szerinti kormányrendelet eltérő mértékben is megállapíthatja.
-
-(4) Az (1) bekezdés b) pontja szerinti kötelező átvétel keretében biztosított támogatás legfeljebb az egyes termelési eljárásokra jellemző beruházások indokolt megtérülésének mértékéig biztosítható. A kötelező átvételre való jogosultság lejártát követően a termelő az adott erőműegység vonatkozásában – új beruházás nélkül – a (1) bekezdés b) pontja szerinti kötelező átvételben nem részesülhet.
-
-(5) A kötelező átvétel időtartamának meghatározásakor csökkentő tényezőként kell figyelembe venni az egyéb módon nyújtott támogatásokat, és a környezetvédelmi termékdíjról szóló külön törvény szerinti hulladékhasznosítói szolgáltatásra vonatkozó megrendelést.
-
-(6) Az átviteli rendszerirányító a 10. § (5) bekezdés szerinti szerződés megkötéséről a szerződéskötést követő 30 napon belül tájékoztatja a Hivatalt. A Hivatal a szerződéskötést követő 1 éven belül a termelő vonatkozásában hatósági ellenőrzést folytat le.”
+29. § (1)
 
 (2) A VET. a következő 11/A. §-sal egészül ki:
 
 „11/A. § A Hivatal a Nemzeti Cselekvési Tervben foglalt, termelésre vonatkozó célok teljesülését legalább kétévente felülvizsgálja, erről nyilvános jelentést és a Kormány számára szükség szerint a 11. § (2) bekezdésben meghatározottakra kiterjedő javaslatot készít.”
 
-30. § A VET. 12. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A termelő kérelmére a Hivatal – figyelembe véve a megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos energia kötelező átvételéről és átvételi áráról szóló kormányrendeletben, valamint a nagy hatásfokú, hasznos hőenergiával kapcsoltan termelt villamos energia és a hasznos hő mennyisége megállapításának számítási módjáról szóló miniszteri rendeletben meghatározott feltételeket – az eredetigazolás kiállításával igazolja a megújuló energiaforrásból vagy hulladékból nyert energiával előállított villamos energia és a nagyhatékonyságú hasznos hőigényen alapuló kapcsolt hő- és villamosenergia-termelésből származó villamos energia mennyiségét.”
+30. §
 
 31. §
 
@@ -2039,13 +1999,7 @@ c) a rendszerösszekötő vezetékhez való hozzáférés feltételeit, beleért
 
 [rendeletben állapítsa meg.]
 
-(6) A VET. 170. § (1) bekezdés 29. pontja helyébe a következő rendelkezés lép:
-
-[Felhatalmazást kap a Kormány, hogy]
-
-„29. a megújuló energiaforrásból, valamint a hulladékból nyert energiával, továbbá a jogszabályban meghatározott egyéb módon termelt villamos energia felhasználását elősegítő kötelező átvételi rendszer részletes szabályait – különösen az átvételi kötelezettség alá eső villamos energia átvételi árát, a kötelező átvétel időtartamát és az egy erőműre vonatkozó kötelező átvétel alá eső maximális villamos energia mennyiséget – a kötelező átvételi rendszer keretében végrehajtandó elszámolások részletes szabályait, az átvételi kötelezettség alá eső villamos energia befogadásának és kötelező átvételének részletes szabályait, valamint az egyes termelési eljárások, különösen a biomasszával termelt villamos energia kötelező átvételéhez szükséges minimális hatásfokot,”
-
-[rendeletben állapítsa meg.]
+(6)
 
 (7) A VET. 170. § (1) bekezdés 31. pontja helyébe a következő rendelkezés lép:
 
@@ -2295,7 +2249,7 @@ végrehajtásához szükséges rendelkezéseket állapítja meg.”
 
 (20) A VET. 7. § (2) bekezdésében az „a Hivatal által – az átviteli rendszer rendszerirányító közreműködésével – külön jogszabályban” szövegrész helyébe az „a szélerőmű kapacitás létesítésére irányuló pályázati kiírás feltételeiről, a pályázat minimális tartalmi követelményeiről, valamint a pályázati eljárás szabályairól szóló miniszteri rendeletben” szöveg, 171. § (14) bekezdésében az „az egyes időszakonként a bányavállalkozó széntermeléssel összefüggő indokolt folyó költségének és ráfordításának és a szén értékesítéséből, illetve felhasználásából származó bevételét meghaladó részének figyelembevételével – a Tanács szénipar részére nyújtott állami támogatásról szóló 2002. július 23-i 1407/2002/EK tanácsi rendelettel” szövegrész helyébe a „– a versenyképtelen szénbányák bezárását elősegítő állami támogatásról szóló, 2010. december 10-i 2010/787/EU európai tanácsi határozattal” szöveg lép.
 
-(21) A VET. 10. § (1) bekezdés c) pontjában a „mennyiségének” szövegrész helyébe az „az átvételi árhoz tartozó maximális mennyiségének” szöveg, a „megállapításakor” szövegrész helyébe az „előíráskor” szöveg, az „átlagos” szövegrész helyébe az „indokolt” szöveg, a „villamosenergia-rendszer működésére” szövegrész helyébe a „villamosenergia-rendszer szabályozhatóságára, működésére” szöveg, 10. § (1) bekezdés e) pontjában a „c) pont alapján meghatározott” szövegrész helyébe a „c) ponttal összhangban előírt” szöveg, 10. § (2) bekezdés c) pontjában az „az erdőről és az erdő védelméről szóló 1996. évi LIV. törvény” szövegrész helyébe az „az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény” szöveg, a „bármely, vagy” szövegrész helyébe a „faválaszték vagy” szöveg lép.
+(21)
 
 (22) A VET. 171. § (13) bekezdésében a „2010.” szövegrész helyébe „2018.” szöveg lép.
 
@@ -2309,7 +2263,7 @@ végrehajtásához szükséges rendelkezéseket állapítja meg.”
 
 (2) Hatályát veszti a VET. 170. § (1) bekezdés 25. pontjában a „közérdekű” szövegrész, a „körét és a” szövegrész, 170. § (2) bekezdés 3. pontja, 170. § (2) bekezdés 14. pontja, 170. § (2) bekezdés 19. pont d) alpontja.
 
-(3) Hatályát veszti a VET. 171. § (2) bekezdésében az „és a (3)–(4) bekezdés szerint meghatározott” szövegrész, 171. § (3) és (4) bekezdése.
+(3)
 
 (4) Hatályát veszti a VET. 171. § (5)–(5c) és (5e) bekezdése.
 
@@ -4385,7 +4339,7 @@ f) az engedélyes és az értékesítő által a Hivatal részére teljesítend�
 
 „(2a) A Hivatal megtagadja a 93. § (5) és (6) bekezdésében meghatározott jogügylet jóváhagyását, ha a tanúsítási eljárásban azt állapította meg, hogy a jogügylet végrehajtása eredményeként az átviteli rendszerirányító nem felelne meg a rá vonatkozó szétválasztási szabályoknak, vagy azt, hogy a jogügylet megvalósítása veszélyeztetné az ország vagy az Európai Unió más tagállam energiaellátásának biztonságát.”
 
-(3) Hatályát veszti a VET. 159. § (3) bekezdés 7. pontja.
+(3)
 
 238. § (1) A Get. 16. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
 

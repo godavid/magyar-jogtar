@@ -593,7 +593,7 @@ esetében.
 - b) a könyvtári dokumentumok lelőhely-nyilvántartását együttesen megvalósító Magyar Országos Közös Katalógus adatbázist és az erre épülő Országos Dokumentumellátási Rendszer elektronikus szolgáltató központot,
 - c) a könyvtárak gyűjteményéből kivont dokumentumok hasznosítását a könyvtári rendszer számára.
 
-(2) A kiadványokból országosan hat kötelespéldányt kell szolgáltatni a könyvtári rendszer számára, törvényben, illetve kormányrendeletben meghatározott módon.
+(2) A kiadványokból hat kötelespéldányt kell szolgáltatni az országos könyvtári rendszer számára. Archiválásra alkalmas kötelespéldányt kell szolgáltatni a nyomtatott formában megjelenő kiadványok elektronikus formában létrehozott, a kiadvánnyal szövegében és megjelenésében megegyező változatából is. Elektronikus formában létrehozott kiadványokból és az egyéb kiadványok elektronikus változatából kormányrendeletben meghatározott formátumban kell kötelespéldányt szolgáltatni.
 
 (2a) Kormányrendelet a kötelespéldányok számát a (2) bekezdésben meghatározottnál kisebb számban is megállapíthatja, valamint meghatározhatja a kötelespéldány-szolgáltatás teljesítése alóli mentességek eseteit.
 
@@ -616,7 +616,7 @@ esetében.
 
 (5) A miniszter működteti a Neumann János Multimédia Központ és Digitális Könyvtárt, amely a multimédia és elektronikus dokumentumok nemzeti szolgáltató központja. Az informatikáért felelős miniszter külön jogszabályban meghatározottak szerint működteti a Nemzeti Audiovizuális Archívumot (a továbbiakban: NAVA). A NAVA szakmai felügyeletét az informatikáért felelős miniszter, valamint a miniszter közösen látja el.
 
-(6) A Magyar Nemzeti Digitális Archívum és Filmintézet a mozgóképről szóló törvényben meghatározott közgyűjteményi feladatain túl részt vesz a magyar kulturális örökség digitális megőrzésében és széleskörű hozzáférhetőségének megteremtésében.
+(6)
 
 (7)
 
@@ -692,7 +692,8 @@ esetében.
 - j) könyvtári dokumentumokról hitelesített másolatok készítése,
 - k) a miniszter által megállapított további feladatok végzése,
 - l) a Magyar Országos Közös Katalógus adatbázis működtetése és fejlesztése,
-- m) a könyvtárakban őrzött kulturális javak digitalizálása az Országos Könyvtári Digitalizálási Stratégia szerint.
+- m) a könyvtárakban őrzött kulturális javak digitalizálása az Országos Könyvtári Digitalizálási Stratégia szerint,
+- n) részt vesz a magyar kulturális örökség digitális megőrzésében és széleskörű hozzáférhetőségének megteremtésében.
 
 (5) A nemzeti könyvtárt nyilvános könyvárveréseken – a védett kulturális javak kivételével – elővásárlási jog illeti meg.
 
@@ -1109,13 +1110,17 @@ kapcsolatos szakmai mutatók alapján készíti el.
 
 (5)–(7)
 
-99. §
+99. § (1) A közművelődési szakmai szolgáltató szervezet feladatait ellátó költségvetési szerv jogutód nélküli megszűnése, valamint a 85. § és a 87. § szerinti feladatainak államháztartáson kívüli szervezet részére a 87/A. § alapján történő átadása esetén az átvevő szervezetet a közművelődési szakmai szolgáltató szervezet feladatait ellátó költségvetési szerv jogutódjának kell tekinteni azzal, hogy a megszűnő költségvetési szerv közfeladata ellátásával összefüggő magánjogi jogviszonyaiból eredő valamennyi joga és kötelezettsége e törvény erejénél fogva a közfeladat ellátását átvevő új közművelődési szakmai szolgáltató szervezetre száll át.
+
+(2) Az (1) bekezdés szerinti feladatátadás a megszűnő közművelődési szakmai szolgáltató szervezet feladatait ellátó költségvetési szervvel szemben fennálló követeléseket nem teszi lejárttá, ez okból szerződésszegésre hivatkozásnak vagy biztosíték nyújtására vonatkozó igény érvényesítésének nincs helye, az átszállás szerzői jogdíjfizetési igényt nem keletkeztet.
+
+(3) Az (1) bekezdés szerinti feladatátadást a megszűnő költségvetési szerv tekintetében az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa tv.) alkalmazásában olyan jogutódlással történő megszűnésnek kell tekinteni, amely az Áfa tv. 17. § (3) bekezdés h) pontjában meghatározottaknak felel meg.
 
 ### Felhatalmazások
 
 100. § (1) Felhatalmazást kap a Kormány, hogy a törvény végrehajtásaként rendeletben szabályozza
 
-- a) a könyvtári intézet, valamint a közművelődési szakmai szolgáltató szerv vagy szervek kijelölését,
+- a) a könyvtári intézet kijelölését,
 - b) a muzeális intézmények látogatóit és a könyvtárhasználókat megillető kedvezményeket,
 - c) a muzeális intézményben folytatható kutatást,
 - d) a műkereskedelemmel kapcsolatos kérdéseket,
@@ -1272,12 +1277,12 @@ e) az Országgyűlési Könyvtár,
 
 f) az Országos Idegen nyelvű Könyvtár,
 
-g) az Oktatáskutató és Fejlesztő Intézet Pedagógiai Könyvtár és Múzeum,
+g) Országos Pedagógiai Könyvtár és Múzeum,
 
 h) a Fővárosi Szabó Ervin Könyvtár,
 
 i) a Központi Statisztikai Hivatal Könyvtár,
 
-j) a Magyar Nemzeti Digitális Archívum és Filmintézet Könyvtára,
+j) Magyar Nemzeti Filmarchívum Könyvtára,
 
 k) a HM Hadtörténeti Intézet és Múzeum Hadtörténeti Könyvtár.

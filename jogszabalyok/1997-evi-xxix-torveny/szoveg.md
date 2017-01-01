@@ -22,7 +22,7 @@ Az életüktől és szabadságuktól politikai okból jogtalanul megfosztottak k
 
 (7) A hivatalból indult eljárás ügyintézési határideje azonos a kérelemre indult eljáráséval, a határidő kezdete e törvény hatálybalépésének napja.
 
-(8) A KKI határozatának felülvizsgálata során eljáró bíróság illetékességére a Tv. 14. §-ának d) pontját kell alkalmazni.
+(8)
 
 7/A. § (1) Ha az eljárás során a jogosulttal való kapcsolattartás lehetetlenné vált, a kárpótlási hatóság a döntését aközigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény hirdetményi kézbesítésre vonatkozó szabályai szerint közli.
 

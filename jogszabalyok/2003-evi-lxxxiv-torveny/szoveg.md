@@ -588,7 +588,7 @@ részt vehet.
 
 (2) Az (1) bekezdésben foglaltaktól függetlenül is jogosult az egészségügyi szolgáltató az általa foglalkoztatott egészségügyi dolgozó soron kívüli alkalmassági vizsgálatát elrendelni. A vizsgálatot írásban, indoklással ellátva kezdeményezheti a szolgáltató és a dolgozó ebben az esetben is élhet a 20. § (4) bekezdésben biztosított lehetőséggel.
 
-(3) Az egyéni egészségügyi vállalkozók, az egyéni cég, illetve a társas vállalkozás tagjaként egészségügyi tevékenységet végző egészségügyi dolgozók időszakos, illetve soron kívüli egészségi alkalmasságának vizsgálatát a tevékenységüket engedélyező egészségügyi hatóság kezdeményezheti, illetve a kezdeményezés eredménytelensége esetén a vizsgálatot elrendelheti.
+(3) Az egyéni egészségügyi vállalkozók, az egyéni cég, illetve a társas vállalkozás tagjaként egészségügyi tevékenységet végző egészségügyi dolgozók időszakos, illetve soron kívüli egészségi alkalmasságának vizsgálatát a tevékenységüket engedélyező egészségügyi hatóság elrendelheti.
 
 26. § (1) Az egészségügyi tevékenység végzésére alkalmasnak minősített egészségügyi dolgozó sem végezhet egészségügyi tevékenységet, amennyiben pillanatnyi egészségi állapota következtében a beteg számára nagyobb kockázatot jelentene a tevékenységével, mint amelyet annak elmaradásával okozna.
 
@@ -666,9 +666,7 @@ részt vehet.
 
 34. § Az egyes egészségügyet érintő törvények módosításáról szóló 2016. évi XXXIV. törvénnyel megállapított 15/A. §-ban foglaltakat az egészségügyi felsőfokú szakirányú szakképzésüket 2015. július 1-jét követően megkezdőkre kell alkalmazni.
 
-35. § (1) Az az egészségügyi ágazati előmeneteli rendszer hatálya alá tartozó, 2016. július 1-jén alkalmazásban álló foglalkoztatott, aki a munkában eltöltött évei alapján az 1. vagy 2. mellékletben foglalt táblázat 15–17. sora szerinti szintbe sorolandó, az egyes egészségügyet érintő törvények módosításáról szóló 2016. évi XXXIV. törvénnyel (a továbbiakban: Módtv.) megállapított bérnövelésre 2016. január 1-jétől, de legfeljebb az adott munkáltatónál fennálló, az egészségügyi ágazati előmeneteli rendszer hatálya alá tartozó munkakörben történő foglalkoztatásának kezdő időpontjától jogosult.
-
-(2) Az 2016. január 1. és 2016. június 30. közötti időszak vonatkozásában a bérnövelés megvalósítása érdekében az (1) bekezdés szerint béremelésre jogosult foglalkoztatott részére – legfeljebb az egészségügyi ágazati előmeneteli rendszer hatálya alá tartozó munkakörben történő foglalkoztatásának időtartamára – jogszabályi rendelkezések alapján megillető alapbér és a Módtv.-vel megállapított alapbér különbözetét egyösszegű bérkülönbözetként kell megállapítani, és azt a 2016. július havi munkabér kifizetésével egyidejűleg kell kifizetni.
+#### 35. §
 
 ### 1. melléklet a 2003. évi LXXXIV. törvényhez
 

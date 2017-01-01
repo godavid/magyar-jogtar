@@ -127,9 +127,15 @@ kötelezheti a negyven hektárnál nagyobb halgazdálkodási vízterülettel ren
 
 (2) Haltermelő létesítménybe a Pannon biogeográfiai régión kívülről származó hal a halgazdálkodási hatóság engedélyével, az e törvény végrehajtására kiadott rendeletben szabályozott esetekben, feltételekkel és módon telepíthető.
 
-(3) Az idegen és nem honos fajoknak haltermelő létesítménybe történő telepítése az idegen és nem honos fajoknak az akvakultúrában történő alkalmazásáról szóló, 2007. június 11-i 708/2007/EK tanácsi rendelet (a továbbiakban: Tanácsi Rendelet) és az e törvény végrehajtására kiadott rendelet alapján végezhető.
+(3) Az idegen és nem honos fajoknak haltermelő létesítménybe történő telepítése
 
-(4) A Tanácsi Rendeletben meghatározott halfaj halgazdálkodási vízterületre történő telepítésére – a természet védelméről szóló törvényben meghatározott előírásokra is figyelemmel – engedély csak akkor adható, ha
+- a) az idegen és nem honos fajoknak az akvakultúrában történő alkalmazásáról szóló, 2007. június 11-i 708/2007/EK tanácsi rendelet (a továbbiakban: 708/2007/EK tanácsi rendelet),
+- b) az 1143/2014/EU európai parlamenti és tanácsi rendelet 8. és 9. cikke, valamint
+- c) az e törvény végrehajtására kiadott rendelet
+
+alapján végezhető.
+
+(4) A 708/2007/EK tanácsi rendeletben meghatározott halfaj halgazdálkodási vízterületre történő telepítésére – a természet védelméről szóló törvényben meghatározott előírásokra is figyelemmel – engedély csak akkor adható, ha
 
 - a) a telepíteni kívánt vízterület teljesen zárt, lefolyástalan, vagy
 - b) a telepíteni kívánt állomány szaporodásra képtelen és a természetvédelmi hatóság véleménye alapján ökológiai kockázatot nem jelent.
@@ -208,6 +214,8 @@ különleges rendeltetésűvé nyilvánítható.
 #### 6. Haltermelés, akvakultúra
 
 20. § (1) Hal és más hasznos víziállat haltermelési létesítményben úgy termelhető, hogy nem veszélyezteti természetes vagy természetközeli vízi élőhelyek őshonos faunáját és flóráját.
+
+(1a) Idegenhonos inváziós hallal és más hasznos víziállattal kapcsolatos haltermelő létesítményben végezni kívánt tevékenységet a halgazdálkodási hatóság csak az 1143/2014/EU európai parlamenti és tanácsi rendelet 8. és 9. cikke szerinti esetekben engedélyezheti.
 
 (2) A haltermelési létesítmények típusait és a telepíthető halfajokat a miniszter az e törvény végrehajtására kiadott rendeletben határozza meg.
 
@@ -827,6 +835,13 @@ tekintetében adatot szolgáltat.
 
 (3) A halgazdálkodási hatóságnál kérelemre indult eljárásban az e törvény végrehajtására kiadott rendeletben meghatározott igazgatási szolgáltatási díjat kell megfizetni.
 
+61/A. § Ha a halgazdálkodási hatóság eljárása idegenhonos inváziós fajt érint, a halgazdálkodási hatóság
+
+- a) az 1143/2014/EU európai parlamenti és a tanácsi rendelet, valamint
+- b) a természet védelméről szóló törvény idegenhonos inváziós fajokkal kapcsolatos
+
+rendelkezéseit is alkalmazza.
+
 62. § A miniszter munkáját – az e törvényben meghatározott feladat- és hatáskörébe tartozó ügyekben véleményező, javaslattevő tevékenységet ellátó – halgazdálkodási kérdésekkel foglalkozó testület segíti, amely a halgazdálkodási jog gyakorlásával összefüggő egyéni és közérdek közötti összhang megteremtését szolgálja. A miniszter felkérése alapján a halgazdálkodási kérdésekkel foglakozó testület véleményt nyilvánít halgazdálkodási szakmai kérdésekben, valamint az azokra vonatkozó jogalkotási elképzelésekről.
 
 #### 20. A halgazdálkodásból származó bevételek
@@ -977,6 +992,10 @@ veszi figyelembe.
 - c) a nem nyilvántartott halgazdálkodási vízterületen halfogásra jogosító okmányok nélkül horgászott, de a halgazdálkodási hatóság által előírt határidőn belül bemutatja a horgászat időpontjában érvényes állami horgászjegyét és fogási naplóját, valamint a személyazonosság igazolására szolgáló arcképes igazolványát, amennyiben az ellenőrzés időpontjáig az előírás ellenére a fogási naplóban nem rögzített halat nem tartotta meg, vagy
 - d) a horgászat megkezdésének a fogási napló naptárában való megjelölését első alkalommal mulasztja el.
 
+#### 21/A. A fellebbezés kizárása
+
+70/A. § A halgazdálkodási hatóság elsőfokú hatósági döntése ellen nincs helye fellebbezésnek.
+
 ### V. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
 #### 22. Felhatalmazó rendelkezések
@@ -1067,6 +1086,8 @@ veszi figyelembe.
 #### 26. Az Európai Unió jogának való megfelelés
 
 76. § Ez a törvény a természetes élőhelyek, valamint a vadon élő állatok és növények védelméről szóló, 1992. május 21-i 92/43/EGK tanácsi irányelv 15. cikkének és a VI. számú mellékletének való megfelelést szolgálja.
+
+76/A. § Ez a törvény az idegenhonos inváziós fajok betelepítésének vagy behurcolásának és terjedésének megelőzéséről és kezeléséről szóló, 2014. október 22-i, 1143/2014/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 27. Hatályon kívül helyező rendelkezések
 

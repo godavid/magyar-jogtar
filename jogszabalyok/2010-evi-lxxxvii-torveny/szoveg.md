@@ -69,7 +69,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 (3) Az NFA elnöke és elnökhelyettese magyar állampolgár lehet. Az NFA elnöke, és elnökhelyettese nem lehet
 
 - a) országgyűlési, európai parlamenti vagy helyi, nemzetiségi önkormányzati képviselő, nemzetiségi szószóló, megyei közgyűlés tagja, állami vezető, polgármester, főpolgármester, alpolgármester, főpolgármester-helyettes;
-- b) a Nemzeti Földalap Ellenőrző Bizottságának (a továbbiakban: ellenőrző bizottság) tagja;
+- b)
 - c) gazdálkodó szervezet tagja vagy vezető tisztségviselője, illetve olyan magánszemély, vagy ezek jogi képviselője, aki az NFA-val a Nemzeti Földalapba tartozó földrészletet érintően szerződéses viszonyban áll.
 
 (4) Az NFA elnökének és elnökhelyettesének e megbízatásával összeférhetetlen az is, ha a (3) bekezdés szerinti tisztséget vagy jogviszonyt a Polgári Törvénykönyv szerinti közeli hozzátartozója vagy az élettársa tölti be.
@@ -84,7 +84,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 (9) Az NFA alapító okiratát, és a szervezeti és működési szabályzatát a miniszter a Magyar Közlönyben teszi közzé.
 
-5. § A Kormány a miniszter útján évente beszámol az Országgyűlésnek a földbirtok-politikai irányelvek érvényesüléséről, a Nemzeti Földalap helyzetéről és az NFA tevékenységéről. A beszámolóhoz csatolni kell az ellenőrző bizottság és a Birtokpolitikai Tanács (a továbbiakban: Tanács) észrevételeit.
+5. § A Kormány a miniszter útján évente beszámol az Országgyűlésnek a földbirtok-politikai irányelvek érvényesüléséről, a Nemzeti Földalap helyzetéről és az NFA tevékenységéről. A beszámolóhoz csatolni kell a Birtokpolitikai Tanács (a továbbiakban: Tanács) észrevételeit.
 
 6. § A miniszter a 3. §-ban és az 5. §-ban foglaltakon túl
 
@@ -105,7 +105,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 - e) a d) pontban foglaltak kivételével dönt az NFA-t érintő kötelezettség-vállalásról;
 - f) elkészíti az 5. § szerinti beszámolót, az NFA államháztartási számviteli kormányrendelet szerinti elemi költségvetési beszámolót, valamint a rábízott földvagyonról szóló éves beszámolóját;
 - g) képviseli az NFA-t harmadik személyekkel szemben;
-- h) kapcsolatot tart az ellenőrző bizottsággal;
+- h)
 - i) felelős a Tanács döntéseinek végrehajtásáért;
 - j) felelős a Nemzeti Földalapba tartozó földrészletek naprakész nyilvántartásáért;
 - k) felelős a Nemzeti Földalapba tartozó földrészletek törvényes, szakszerű, hatékony és gazdaságos hasznosításáért;
@@ -136,7 +136,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 (3) A Tanács tagja személyesen köteles eljárni, képviseletnek vagy helyettesítésnek a Tanács működése során nincs helye.
 
-(4) A Tanács ülésein tanácskozási joggal vehet részt az ellenőrző bizottság tagja.
+(4)
 
 (5) A Tanács működésével kapcsolatos költségeket az NFA működési költségeitől elkülönítetten kell kezelni.
 
@@ -147,22 +147,22 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 (2) A Tanács elnöke és tagja (a továbbiakban együtt: tag) magyar állampolgár lehet. A Tanács tagja nem lehet:
 
 - a) országgyűlési, európai parlamenti vagy helyi, nemzetiségi önkormányzati képviselő, nemzetiségi szószóló, miniszter, polgármester, főpolgármester, alpolgármester, főpolgármester-helyettes;
-- b) az ellenőrző bizottságának tagja;
+- b)
 - c) olyan gazdálkodó szervezet tagja vagy vezető tisztségviselője, illetve olyan magánszemély, vagy ezek jogi képviselője, aki az NFA-val a Nemzeti Földalapba tartozó földrészletet érintően szerződéses viszonyban áll.
 
 (3) A Tanács tagjának e megbízatásával összeférhetetlen az is, ha a (2) bekezdés szerinti tisztséget vagy jogviszonyt a Polgári Törvénykönyv szerinti közeli hozzátartozója vagy az élettársa tölti be.
 
 11. § (1) Az NFA elnöke, elnökhelyettese, a Tanács tagja, valamint ezen személyek Polgári Törvénykönyv szerinti közeli hozzátartozója és élettársa e jogviszony fennállása alatt nem lehet tagja vagy vezető tisztségviselője mezőgazdasági, erdőgazdasági tevékenységet folytató gazdálkodó szervezetnek, ilyen szervezetben nem szerezhet társasági részesedést, a Nemzeti Földalapba tartozó földrészlet hasznosítására irányuló pályázaton nem indulhat, árverésen nem licitálhat, a Nemzeti Földalapba tartozó földrészletet érintően szerződést az NFA-val nem köthet.
 
-(2) Az NFA ellenőrző bizottság tagja, valamint ezen személyek Polgári Törvénykönyv szerinti közeli hozzátartozója és élettársa e jogviszony fennállása alatt nem lehet tagja vagy vezető tisztségviselője mezőgazdasági, erdőgazdasági tevékenységet folytató állami részvétellel működő gazdálkodó szervezetnek, ilyen szervezetben nem szerezhet társasági részesedést, a Nemzeti Földalapba tartozó földrészlet hasznosítására irányuló pályázaton nem indulhat, árverésen nem licitálhat, a Nemzeti Földalapba tartozó földrészletet érintően szerződést az NFA-val nem köthet.
+(2)
 
 (3) Nem vonatkozik az (1) és (2) bekezdés arra az esetre, ha az adásvételi (haszonbérleti) szerződés megkötésére jogszabályon alapuló elővásárlási (előhaszonbérleti) jog alapján kerül sor.
 
-(4) Az NFA elnöke, elnökhelyettese, a Tanács és az ellenőrző bizottság tagja mint az állami vagyonnal való gazdálkodás tekintetében javaslattételi, döntési vagy ellenőrzési joggal rendelkező személy, az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló törvény szerint köteles vagyonnyilatkozatot tenni.
+(4) Az NFA elnöke, elnökhelyettese, a Tanács tagja mint az állami vagyonnal való gazdálkodás tekintetében javaslattételi, döntési vagy ellenőrzési joggal rendelkező személy, az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló törvény szerint köteles vagyonnyilatkozatot tenni.
 
-12. § (1) Az NFA elnöke, a Tanács és az ellenőrző bizottság tagja a feladatait az ilyen tisztséget betöltő személytől elvárható fokozott gondossággal, e törvényben foglaltak és az állam érdekeinek elsődlegessége alapján köteles ellátni.
+12. § (1) Az NFA elnöke, a Tanács tagja a feladatait az ilyen tisztséget betöltő személytől elvárható fokozott gondossággal, e törvényben foglaltak és az állam érdekeinek elsődlegessége alapján köteles ellátni.
 
-(2) Az NFA elnöke korlátlanul felel a Magyar Állammal és az NFA-val szemben a jogszabályok megsértésével, a kötelezettségei felróható megszegésével okozott károkért. A Tanács és az ellenőrző bizottság tagjai – a Polgári Törvénykönyv közös károkozásra vonatkozó szabályai szerint – korlátlanul és egyetemlegesen felelnek a Magyar Állammal és az NFA-val szemben a jogszabályok megsértésével, s kötelezettségeik felróható megszegésével okozott károkért. Mentesül a felelősség alól az a tag, aki a döntésben nem vett részt, vagy a döntés ellen szavazott.
+(2) Az NFA elnöke korlátlanul felel a Magyar Állammal és az NFA-val szemben a jogszabályok megsértésével, a kötelezettségei felróható megszegésével okozott károkért. A Tanács tagjai – a Polgári Törvénykönyv közös károkozásra vonatkozó szabályai szerint – korlátlanul és egyetemlegesen felelnek a Magyar Állammal és az NFA-val szemben a jogszabályok megsértésével, s kötelezettségeik felróható megszegésével okozott károkért. Mentesül a felelősség alól az a tag, aki a döntésben nem vett részt, vagy a döntés ellen szavazott.
 
 13. § (1) A Tanács tagjának megbízatása megszűnik:
 
@@ -186,38 +186,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 14. § (1) A Nemzeti Földalap feletti tulajdonosi joggyakorlással kapcsolatos tevékenységet az Állami Számvevőszék évente ellenőrzi.
 
-(2) Az NFA tevékenységét az öttagú ellenőrző bizottság ellenőrzi, melynek tagjait az Országgyűlés mezőgazdasági ügyekkel foglalkozó bizottsága választja, illetve menti fel. Az ellenőrző bizottság egy-egy tagját
-
-- a) az elsősorban egyéni mezőgazdasági termelők érdekképviseletét ellátó országos érdek-képviseleti szervezetek,
-- b) az elsősorban a társas mezőgazdasági vállalkozások érdekképviseletét ellátó országos érdek-képviseleti szervezetek,
-- c) az erdőgazdálkodók érdekképviseletét ellátó országos érdek-képviseleti szervezetek,
-- d) az országos önkormányzati érdekszövetségek és
-- e) a Magyar Agrárkamara által jelölt természetes személyek közül kell megválasztani.
-
-(3) Az ellenőrző bizottság tagja magyar állampolgár lehet. Az ellenőrző bizottság tagja nem lehet:
-
-- a) országgyűlési, európai parlamenti vagy helyi, nemzetiségi önkormányzati képviselő, állami vezető, polgármester, főpolgármester, alpolgármester, főpolgármester-helyettes;
-- b) az NFA elnöke, elnökhelyettese, alkalmazottja;
-- c) a Tanács tagja;
-- d) olyan gazdálkodó szervezet tagja vagy vezető tisztségviselője, vagy olyan magánszemély, illetve ezek jogi képviselője, aki az NFA-val szerződéses viszonyban áll.
-
-(4) Az ellenőrző bizottság tagjának e megbízatásával összeférhetetlen az is, ha a (3) bekezdés szerinti tisztséget vagy jogviszonyt a Polgári Törvénykönyv szerinti közeli hozzátartozója vagy az élettársa tölti be.
-
-(5) Az NFA elnöke és elnökhelyettese, a Tanács tagja a megbízatása megszűnésétől számított két évig nem lehet az ellenőrző bizottság tagja.
-
-(6) Az ellenőrző bizottság tagjai közül elnököt választ, és a tagok többségével elfogadott ügyrend szerint működik.
-
-(7) Az ellenőrző bizottság tagja a feladatának ellátása érdekében jogosult az NFA és a Tanács elnökétől tájékoztatást kérni, amelyet a szervezeti és működési szabályzatban meghatározott módon és határidőben kell teljesíteni. Az ellenőrző bizottság tagja jogosult – a titokvédelmi szabályok betartása mellett – bármely, az NFA tevékenységével kapcsolatos iratba betekinteni, azokat – szükség esetén szakértő bevonásával – megvizsgálhatja.
-
-(8) Az ellenőrző bizottság a működéséről évente, a tárgyévet követő év szeptember 1. napjáig beszámolót készít a miniszter részére.
-
-(9) Ha az ellenőrző bizottság megítélése szerint az NFA tevékenysége jogszabályba, az alapító okiratba, a szervezeti és működési szabályzatba ütközik, vagy egyébként sérti a Magyar Állam érdekeit, ezt köteles jelezni a miniszternek.
-
-(10) Az ellenőrző bizottság véleményezi Nemzeti Földalap helyzetéről és az NFA tevékenységéről készült éves országgyűlési beszámolót.
-
-(11) Az ellenőrző bizottság működéséhez szükséges feltételek megteremtéséről az NFA gondoskodik.
-
-(12) Az ellenőrző bizottság üléséről összefoglaló készül, amely tartalmazza az ülés helyét és időpontját, az ülésen résztvevők nevét, a tárgyalt írásbeli anyagok címét és az előterjesztő megjelölését, a napirenden kívül szóba került ügyek tárgy szerinti ismertetését, a hozzászólók nevét, szavazás esetén annak tárgyát és számszerű arányát, a testületi döntés lényegét. Kérelmére az ülésen résztvevő nyilatkozatát, egyet nem értését szó szerint kell rögzíteni. Az összefoglaló mellékleteként meg kell őrizni az előterjesztést, továbbá az ellenőrző bizottság által hozott döntést tartalmazó iratoknak az ellenőrző bizottság elnöke általi aláírással ellátott eredeti egy-egy példányát.
+(2)–(12)
 
 ### A Nemzeti Földalapba tartozó földrészletek és azok hasznosítása
 
@@ -489,7 +458,7 @@ követő napon.
 - e) a 3. § (3) bekezdés hatálya alá tartozó ingatlanok hasznosításával kapcsolatos tulajdonosi joggyakorlás eljárásrendjének részletes szabályait.
 - f) a Nemzeti Földalapba tartozó földrészletek közfoglalkoztatási program megvalósítása céljából az önkormányzatok számára történő vagyonkezelésbe adásának szabályait;
 
-(2) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy rendeletben állapítsa meg az ellenőrző bizottság működési rendjének, valamint működési költségei megtérítésének a szabályait.
+(2)
 
 33. § E törvény 2010. szeptember 1-jén lép hatályba.
 

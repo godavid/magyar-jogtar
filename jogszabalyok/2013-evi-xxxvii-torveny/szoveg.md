@@ -30,7 +30,7 @@ az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együt
 - 1. CCN-hálózat: a közös kommunikációs hálózaton (CCN) alapuló, a hatáskörrel rendelkező hatóságok között a vám- és adóügyek területén teljes körű elektronikus információtovábbításhoz az Európai Unió által kifejlesztett közös felület;
 - 2. elektronikus úton: az adatok (információk) elektronikus berendezések segítségével történő feldolgozása (a digitális tömörítést is ideértve) és tárolása vezetékes vagy rádión keresztül történő továbbítás optikai technológiák vagy más elektromágneses megoldás alkalmazásával;
 - 3. hatáskörrel rendelkező hatóság: az Európai Unió tagállamának hatáskörrel rendelkező hatóságként kijelölt hatósága;
-- 4. magyar hatáskörrel rendelkező hatóság: az adópolitikáért felelős miniszter.
+- 4. magyar hatáskörrel rendelkező hatóság: az az adópolitikáért felelős miniszter vagy a Kormány által kijelölt hatóság.
 
 (3) E törvény II. Fejezete alkalmazásában
 
@@ -61,7 +61,8 @@ A formanyomtatványban olyan személy neve és címe is megjelölhető, aki a me
   - e) a magyar jogszabályok alkalmazásában az a)–d) pont hatálya alá nem tartozó adózó;
 - 15. életbiztosítás: a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) 3. § 92. pontjában meghatározott személybiztosítás;
 - 16. nyugdíj: az Szja tv. 3. § 23. pontjában meghatározott jövedelem (ide nem értve a 23. pont c) alpontja szerinti nyugdíjszolgáltatást);
-- 17. ingatlan hasznosításából származó jövedelem: az ingatlan birtoklásának, használatának átengedéséből és hasznainak szedéséből, az ingatlan feletti rendelkezési jog gyakorlásából származó jövedelem (így különösen az ingatlan értékesítéséből, bérbeadásából, haszonbérbe adásából, az ingatlanra vonatkozó vagyoni értékű jog ellenérték fejében történő alapításából, az arról való lemondásból, illetve a joggyakorlás átengedéséből származó jövedelem).
+- 17. ingatlan hasznosításából származó jövedelem: az ingatlan birtoklásának, használatának átengedéséből és hasznainak szedéséből, az ingatlan feletti rendelkezési jog gyakorlásából származó jövedelem (így különösen az ingatlan értékesítéséből, bérbeadásából, haszonbérbe adásából, az ingatlanra vonatkozó vagyoni értékű jog ellenérték fejében történő alapításából, az arról való lemondásból, illetve a joggyakorlás átengedéséből származó jövedelem);
+- 18. központi adattár: az adózás területén való közigazgatási együttműködésről és a 77/799/EGK irányelv hatályon kívül helyezéséről szóló 2011. február 15-i 2011/16/EU tanácsi irányelv 21. cikk (5) bekezdése alapján és ezen irányelv 26. cikk (2) bekezdése szerinti eljárással összhangban az Európai Bizottság által létrehozott, a határokon átnyúló feltételes adómegállapításra és szokásos piaci ár megállapítására vonatkozó határozatokkal kapcsolatos információk rögzítésére szolgáló központi adatbázis.
 
 (4) E törvény III. Fejezete alkalmazásában
 
@@ -100,7 +101,12 @@ A formanyomtatványban olyan személy neve és címe is megjelölhető, aki a me
 (6) Az V/B. Fejezet alkalmazásában
 
 - 1. adóév: a naptári év;
-- 2. automatikus információcsere: az Európai Unió más tagállamában (a továbbiakban: tagállam) vagy a Pénzügyi Számlákkal kapcsolatos információk automatikus cseréjéről szóló, illetékes hatóságok közötti többoldalú Megállapodást kihirdető törvény (a továbbiakban: Megállapodást kihirdető törvény) 1. mellékletében felsorolt államban (a továbbiakban: más állam) illetőséggel rendelkező személyekre vonatkozó, előre meghatározott információk előzetes megkeresés nélküli, előre meghatározott időszakonként történő rendszeres közlése e személy illetősége szerinti állam hatáskörrel rendelkező hatóságával;
+- 2. automatikus információcsere:
+  - a) az Európai Unió más tagállamában (a továbbiakban: tagállam) vagy a Pénzügyi Számlákkal kapcsolatos információk automatikus cseréjéről szóló, illetékes hatóságok közötti többoldalú Megállapodást kihirdető törvény (a továbbiakban: Megállapodást kihirdető törvény) 1. mellékletében felsorolt államban (a továbbiakban: más állam), valamint
+  - b) az Európai Unióval az 1. melléklet I. pontjában meghatározott adatok automatikus cseréjéről szóló, az V/B. fejezet szabályaihoz képest különös szabálynak minősülő hatályos megállapodással rendelkező joghatóság területén
+
+illetőséggel rendelkező személyre vonatkozó, előre meghatározott információk előzetes megkeresés nélküli, előre meghatározott időszakonként történő rendszeres közlése e személy illetősége szerinti állam hatáskörrel rendelkező hatóságával;
+
 - 3. Betéti Számla: az 1. melléklet VIII/C/2. pontja szerinti Pénzügyi Számla;
 - 4. Ellenőrzést gyakorló személy: az 1. melléklet VIII/D/5. pontja szerinti ellenőrzést gyakorló személy;
 - 5. hatáskörrel rendelkező hatóság: az Európai Unió tagállamának vagy más államnak hatáskörrel rendelkező hatóságként kijelölt hatósága;
@@ -247,11 +253,11 @@ A b) pont szerinti esetben az információ felhasználása nem járhat a bírós
 
 (6) A magyar megkeresett hatóság és más magyar közigazgatási hatóság az adómegállapítási jogsegély keretében jogszerűen megszerzett információkat, okiratokat (ideértve a jelentéseket, nyilatkozatokat, az okiratok hitelesített másolatait vagy kivonatait) a belföldi jogsegély keretében szerzett hasonló információra, okiratra vonatkozó magyar jogszabályok szerinti rendelkezéseknek megfelelően használhatja fel bizonyítékként.
 
-(7) A központi kapcsolattartó iroda által a 20. § alapján az Európai Bizottság részére megküldött információk, valamint az ezen információk felhasználásával az Európai Bizottság által készített jelentések és más okiratok továbbíthatók az Európai Unió más tagállama részére.
+(7) A központi kapcsolattartó iroda által a 20. § alapján az Európai Bizottság részére megküldött információk, valamint az ezen információk felhasználásával az Európai Bizottság által készített jelentések és más okiratok továbbíthatók az Európai Unió más tagállama részére. A központi kapcsolattartó iroda által így továbbított információ adótitoknak minősül.
 
-(8) A magyar hatáskörrel rendelkező hatóság és más magyar közigazgatási hatóság az Európai Bizottság által az adózás területén való közigazgatási együttműködésről és a 77/799/EK irányelv hatályon kívül helyezéséről szóló 2011. február 15-i 2011/16/EU tanácsi irányelv 23. cikk (6) bekezdése szerint készített jelentést és más okiratát kizárólag elemzési célokra használhatja fel, azt az Európai Bizottság kifejezett írásbeli hozzájárulása nélkül nem teheti közzé és nem bocsáthatja más személy vagy szervezet rendelkezésére.
+(8) A magyar hatáskörrel rendelkező hatóság és más magyar közigazgatási hatóság az Európai Bizottság által az adózás területén való közigazgatási együttműködésről és a 77/799/EK irányelv hatályon kívül helyezéséről szóló 2011. február 15-i 2011/16/EU tanácsi irányelv 23 cikk szerint készített jelentést és más okiratát kizárólag elemzési célokra használhatja fel, azt az Európai Bizottság kifejezett írásbeli hozzájárulása nélkül nem teheti közzé és nem bocsáthatja más személy vagy szervezet rendelkezésére.
 
-(9) A magyar megkereső hatóság vagy magyar megkeresett hatóság által az adómegállapítási jogsegély keretében szerzett vagy szolgáltatott információt kizárólag a CCN-hálózat gondozásához, karbantartásához, fejlesztéséhez szükséges mértékben lehet az Európai Bizottság biztonsági akkreditációs hatósága által akkreditált személyek rendelkezésére bocsátani.
+(9) A magyar megkereső hatóság vagy magyar megkeresett hatóság által az adómegállapítási jogsegély keretében szerzett vagy szolgáltatott információt kizárólag a központi adattár és a CCN-hálózat gondozásához, karbantartásához, fejlesztéséhez szükséges mértékben lehet az Európai Bizottság biztonsági akkreditációs hatósága által akkreditált személyek rendelkezésére bocsátani.
 
 (10) Az adómegállapítási jogsegély teljesítése körében a személyes adatok kezelésére az információs önrendelkezésről és az információszabadságról szóló törvény és az Art., valamint az állami adóhatóságra vonatkozó törvényi rendelkezések előírásait az e §-ban meghatározott kiegészítésekkel kell alkalmazni.
 
@@ -285,7 +291,7 @@ A b) pont szerinti esetben az információ felhasználása nem járhat a bírós
 - d) a magyar megkereső hatóság indokoltan feltételezi, hogy a vállalkozáscsoporton belüli mesterséges nyereségátvitel adómegtakarítást eredményezhet,
 - e) az egyik tagállam hatáskörrel rendelkező hatósága által a magyar megkeresett hatóságnak továbbított információ olyan adatokhoz juttatta a magyar megkeresett hatóságot, amely releváns lehet a hatáskörrel rendelkező hatóság tagállamában adókötelezettség megállapítása szempontjából.
 
-(3) Az (1)–(2) bekezdésben foglaltakon kívül a magyar megkereső hatóság előzetes megkeresés nélküli információcserét abban az esetben teljesíthet, ha álláspontja szerint az információ az Európai Unió érintett tagállama hatáskörrel rendelkező hatósága részére hasznos lehet.
+(3) Az (1)–(2) bekezdésben foglaltakon kívül a magyar megkereső hatóság spontán információcserét abban az esetben teljesíthet, ha álláspontja szerint az információ az Európai Unió érintett tagállama hatáskörrel rendelkező hatósága részére hasznos lehet.
 
 19/A. § (1) A magyar hatáskörrel rendelkező hatóság automatikus információcsere keretében, a 2014. január 1-jétől kezdődő adómegállapítási időszakokat illetően, legkésőbb az információ rendelkezésre állásának adóévét követő év június 30-ig közli más tagállam hatáskörrel rendelkező hatóságával a (2) bekezdésben meghatározott jövedelem- és tőkekategóriákra vonatkozóan az Európai Unió más tagállamában illetőséggel rendelkező adózóról a nyilvántartása alapján rendelkezésére álló információkat.
 
@@ -296,6 +302,43 @@ A b) pont szerinti esetben az információ felhasználása nem járhat a bírós
 - c) életbiztosítási szerződésből származó jövedelem (kivéve az információcserével kapcsolatos egyéb uniós jogi aktus hatálya alá tartozó életbiztosítási szerződésből származó jövedelem),
 - d) nyugdíj,
 - e) ingatlan hasznosításából származó jövedelem.
+
+19/B. § (1) A magyar hatáskörrel rendelkező hatóság automatikus információcsere keretében a 2017. január 1-je után kiadott, módosított vagy meghosszabbított feltételes adómegállapításra, valamint szokásos piaci ár megállapítására vonatkozó határozatoknak a (4) bekezdésben meghatározott adatait a határozatok kiadása, módosítása vagy meghosszabbítása napjának naptári félévét követő három hónapon belül közli a többi tagállam hatáskörrel rendelkező hatóságával.
+
+(2) Az (1) bekezdés feltételes adómegállapítás esetében a következő feltételek együttes fennállása, illetve a szokásos piaci ármegállapítás vonatkozásában az a) és d) pontok együttes fennállása esetében nem alkalmazandó, ha:
+
+- a) a határozattal érintett ügyletben vagy ügyletsorozatban részes összes fél kizárólag belföldön rendelkezik adóügyi illetőséggel,
+- b) a határozattal érintett ügyletben vagy ügyletsorozatban részes felek egyike sem folytat más állambeli állandó telephelyen olyan tevékenységet, amelynek a határozattal érintett ügylet vagy ügyletsorozat egészét vagy részét képezi,
+- c) a határozat nem egy személy más állambeli állandó telephelyén folytatott tevékenységéhez kapcsolódó intézkedéseire vonatkozik, és
+- d) a határozattal érintett ügylet vagy ügyletsorozat nem fejt ki határokon átnyúló hatást.
+
+(3) Az (1) bekezdés szerinti adatszolgáltatási kötelezettség az alábbi esetekre nem terjed ki:
+
+- a) ha a szokásos piaci ár megállapítására vonatkozó határozat érvényessége olyan harmadik országokkal kötött két- vagy többoldalú megállapodástól függ, amelyet harmadik országok részére történő adatszolgáltatást tiltó nemzetközi adóegyezmény alapján kötöttek. Ebben az esetben a spontán információcsere 19. §-ban foglalt szabályai az irányadók, feltéve, hogy a nemzetközi adóegyezmény szabályai az információátadást lehetővé teszik és a harmadik ország hatáskörrel rendelkező hatósága az információ átadásához hozzájárul. Ha a nemzetközi adóegyezmény szabályai az információátadást nem teszik lehetővé, vagy a harmadik ország hatáskörrel rendelkező hatósága az információ átadásához nem járul hozzá, az információcserére a szokásos piaci ár megállapítására irányuló adózói kérelemnek a (4) bekezdésben meghatározott adatai alapján kerül sor.
+- b) ha a határozat kizárólag természetes személy adókötelezettségének vagy annak hiányának megállapítására irányul.
+
+(4) Az (1) bekezdés szerinti adatszolgáltatási kötelezettséggel érintett információk a következők:
+
+- 1. az adózó (kérelmező), illetve az adózói csoport (kérelmezői csoport) neve;
+- 2. a határozatnak a kérelemmel érintett gazdasági tevékenység, ügylet vagy ügyletsorozat általános jellegű leírását tartalmazó összefoglalása, amely nem eredményezheti üzleti, ipari, szakmai titok, kereskedelmi folyamat, vagy a magyar jogrendbe ütköző információ felfedését;
+- 3. a határozat kiadásának, módosításának vagy meghosszabbításának időpontja;
+- 4. a határozat érvényességi idejének kezdő időpontja (ha a határozat azt tartalmazza);
+- 5. a határozat érvényességi idejének lejárati időpontja (ha a határozat azt tartalmazza);
+- 6. a határozat típusa;
+- 7. a határozat tárgyát képező ügylet értéke (ha a határozat tartalmazza);
+- 8. a szokásos piaci ár képzésére vagy a szokásos piaci ár megállapítására vonatkozó feltételek ismertetése;
+- 9. a szokásos piaci ár képzésére vagy a szokásos piaci ár megállapítására alkalmazott módszer ismertetése;
+- 10. annak a tagállamnak a megnevezése, amelyet a határozat rendelkezései érinthetnek (feltéve, ha ilyen van);
+- 11. a természetes személy kivételével annak a más tagállambeli személynek, illetve e személyhez kapcsolható tagállam megnevezése, amelyet a határozat rendelkezései érinthetnek (feltéve, ha ilyenek vannak);
+- 12. annak megjelölése, hogy a más tagállam hatáskörrel rendelkező hatósága részére nyújtott adatszolgáltatás a határozat rendelkezésein, vagy a szokásos piaci ár megállapítására irányuló adózói kérelem adatain alapul.
+
+(5) Ha az automatikus információcsere keretében beérkező információ a magyar hatáskörrel rendelkező hatóságnak a (4) bekezdés 10. pontjában meghatározott érintettségét jelzi, a központi adattár működésének megkezdéséig a magyar hatáskörrel rendelkező hatóság az információ beérkezését követően haladéktalanul, de legfeljebb a beérkezésétől számított hét munkanapon belül – lehetőség szerint elektronikus úton – visszaigazolja az információk kézhezvételét az információkat közlő tagállam hatáskörrel rendelkező hatóságának.
+
+(6) A magyar hatáskörrel rendelkező hatóság az automatikus információcsere keretében beérkezett információkkal összefüggésben a 18. § (1) bekezdésében foglaltak figyelembevételével – különösen a határozatok teljes szövegére vonatkozóan – a tagállami hatáskörrel rendelkező hatóságoktól további információkat kérhet.
+
+(7) A magyar hatáskörrel rendelkező hatóság az (1) bekezdésben meghatározott automatikus információcserét a 16. § (5) bekezdésében meghatározott formátumnak megfelelően végzi.
+
+(8) A magyar hatáskörrel rendelkező hatóság az (1) bekezdésben meghatározott automatikus információcsere tárgyát képező adatokat az Európai Bizottság által az adózás területén való közigazgatási együttműködésről és a 77/799/EGK irányelv hatályon kívül helyezéséről szóló 2011. február 15-i 2011/16/EU tanácsi irányelv 26. cikk (2) bekezdése szerinti eljárásnak megfelelően meghatározott nyelvhasználati szabályok szerint továbbítja. E nyelvhasználati szabályok hiányában a 16. § (4) bekezdésében foglaltak megfelelően alkalmazandók.
 
 #### 8. Tájékoztatási kötelezettség
 
@@ -314,7 +357,8 @@ A b) pont szerinti esetben az információ felhasználása nem járhat a bírós
 
 - a) megküldi az Európai Bizottság részére az adómegállapítási jogsegéllyel kapcsolatos statisztikai adatok jegyzékét, ideértve az automatikus információcsere forgalmára, annak költségeire és az automatikus információcsere éves értékelésére vonatkozó adatokat,
 - b) tájékoztathatja az Európai Bizottságot az olyan releváns információkról, amelyek az adócsalás és az adóelkerülés elleni küzdelem érdekében az adómegállapítási jogsegély hatékonyságának értékeléséhez szükségesek,
-- c) tájékoztathatja az Európai Bizottságot és az Európai Unió tagállamainak hatáskörrel rendelkező hatóságait az adómegállapítási jogsegéllyel kapcsolatos tapasztalatokról, gyakorlatról a bevált tapasztalatok és gyakorlatok megosztása iránti eljárásban.
+- c) tájékoztathatja az Európai Bizottságot és az Európai Unió tagállamainak hatáskörrel rendelkező hatóságait az adómegállapítási jogsegéllyel kapcsolatos tapasztalatokról, gyakorlatról a bevált tapasztalatok és gyakorlatok megosztása iránti eljárásban,
+- d) a 19/B. § és a 45/D. § szerinti adatszolgáltatást a 19/B. § (4) bekezdésében meghatározott adattartalommal – a 19/B. § (4) bekezdés 1., 2., 8. és 11. pontjában foglaltak kivételével – az Európai Bizottság részére is teljesíti.
 
 (4) A magyar központi kapcsolattartó iroda tájékoztatja az Európai Bizottságot az automatikus információcsere 19/A. § (2) bekezdés a)–e) pontjában rögzített jövedelemtípusait érintő két- vagy többoldalú nemzetközi megállapodásokról, továbbá a jövedelemtípusok körét érintő változásokról.
 
@@ -591,9 +635,11 @@ formanyomtatvány használatával, elektronikus úton továbbítja a magyar megk
 
 - a) a 2014. adóévre vonatkozóan a FATCA Megállapodás 3. cikk 3. pont a) alpont (1) bekezdése szerinti adattartalommal,
 - b) a 2015. adóévre vonatkozóan a FATCA Megállapodás 3. cikk 3. pont a) alpont (2) bekezdése szerinti adattartalommal,
-- c) a 2016. adóévre és az azt követő adóévekre vonatkozóan a FATCA Megállapodás 3. cikk 3. pont a) alpont (3) bekezdése szerinti adattartalommal
+- c) a 2016. adóévre vonatkozóan a FATCA Megállapodás 3. cikk 3. pont a) alpont (3) bekezdése szerinti adattartalommal
 
 teljesíti a FATCA Megállapodás 3. cikk 4. pontjában foglaltak figyelembe vételével.
+
+(3) A Jelentő Magyar Pénzügyi Intézmény az (1) bekezdés szerinti kötelezettségét a 2017. adóévre és az azt követő adóévekre vonatkozóan a FATCA Megállapodás 2. cikk 2. pont a) alpont(1)–(7) bekezdésben meghatározott adattartalommal teljesíti.
 
 43/C. § A Jelentő Magyar Pénzügyi Intézmény a 2015. és 2016. adóévre vonatkozóan a FATCA Megállapodás 4. cikk 1. pont b) alpontja szerinti adatszolgáltatási kötelezettségét az adóévet követő június 30. napjáig teljesíti az állami adóhatósághoz.
 
@@ -635,15 +681,15 @@ teljesíti a FATCA Megállapodás 3. cikk 4. pontjában foglaltak figyelembe vé
 
 43/H. § A Jelentő Magyar Pénzügyi Intézmény az 1. melléklet II-VII. pontjában meghatározott átvilágítási szabályoknak megfelelően megszerzett adatok kapcsán fennálló adatszolgáltatási kötelezettségét az adóévet követő év június 30. napjáig az 1. melléklet I. pontja szerinti adattartalommal teljesíti az állami adóhatósághoz.
 
-43/I. § (1) Az állami adóhatóság automatikus információcsere keretében, a 2016. január 1-jétől kezdődő adatszolgáltatás alapjául szolgáló időszakokat illetően, az adóévet követő év szeptember 30-ig közli az Európai Unió tagállama vagy más állam hatáskörrel rendelkező hatóságával a Jelentendő Pénzügyi Számlákra vonatkozóan a (2) bekezdésben meghatározott információkat. Más állam tekintetében e bekezdés szerinti első információközlésre kizárólag azon adatszolgáltatás alapjául szolgáló időszak adatai vonatkozásában kerülhet sor, amely időszak bármely napján a Pénzügyi Számlákkal kapcsolatos információk automatikus cseréjéről szóló, illetékes hatóságok közötti többoldalú Megállapodás hatályba lép. Az állami adóhatóság az e bekezdés szabályai szerint nem továbbítható adatokat az információközlés adóévének utolsó napjáig törli a nyilvántartásából.
+43/I. § (1) Az állami adóhatóság automatikus információcsere keretében, a 2016. január 1-jétől kezdődő adatszolgáltatás alapjául szolgáló időszakokat illetően, az adóévet követő év szeptember 30-ig közli az Európai Unió tagállama, más állam vagy az Európai Unióval az 1. melléklet I. pontjában meghatározott adatok automatikus cseréjéről szóló, az V/B. fejezet szabályaihoz képest különös szabálynak minősülő megállapodással rendelkező joghatóság hatáskörrel rendelkező hatóságával a Jelentendő Pénzügyi Számlákra vonatkozóan a (2) bekezdésben meghatározott információkat. Más állam, illetve az Európai Unióval az 1. melléklet I. pontjában meghatározott adatok automatikus cseréjéről szóló, az V/B. fejezet szabályaihoz képest különös szabálynak minősülő megállapodással rendelkező joghatóság tekintetében e bekezdés szerinti első információközlésre kizárólag azon adatszolgáltatás alapjául szolgáló időszak adatai vonatkozásában kerülhet sor, amely időszak bármely napján a Pénzügyi Számlákkal kapcsolatos információk automatikus cseréjéről szóló, illetékes hatóságok közötti többoldalú Megállapodás vagy az Európai Unió e bekezdésben említett megállapodása hatályba lép. Az állami adóhatóság az e bekezdés szabályai szerint nem továbbítható adatokat az információközlés adóévének utolsó napjáig törli a nyilvántartásából.
 
 (2) Az (1) bekezdés szerinti információk a következők:
 
-- 1. a Jelentendő Pénzügyi Számla tulajdonosának neve, címe, adóazonosító száma (ha ilyennel rendelkezik), magánszemély esetében születési helye, ideje;
-- 2. a Jelentendő Ellenőrzést gyakorló személy neve, lakcíme adóazonosító száma, születési helye és ideje;
-- 3. a Jelentendő Pénzügyi Számla száma (vagy annak megfelelő egyéb azonosító);
+- 1. a Jelentendő Pénzügyi Számla tulajdonosának neve, címe, adóazonosító száma (ha ilyennel rendelkezik), magánszemély esetében születési helye, ideje, Passzív Nem Pénzügyi Jogalany esetében e jogalanyiság ténye;
+- 2. a Jelentendő Ellenőrzést gyakorló személy neve, lakcíme adóazonosító száma, születési helye és ideje, továbbá – amennyiben ez az információ rendelkezésre áll – az Ellenőrzést gyakorló személy típusa;
+- 3. a Jelentendő Pénzügyi Számla száma (vagy annak megfelelő egyéb azonosító), valamint a számlaszám (vagy azonosító) típusa;;
 - 4. a Jelentő Magyar Pénzügyi Intézmény neve és azonosító száma;
-- 5. a számlának az adóév utolsó napján fennálló egyenlege, továbbá a Visszavásárlási Értékkel rendelkező Biztosítási Szerződés vagy Járadékbiztosítási Szerződés esetén – ideértve a készpénz-egyenértéket vagy Visszavásárlási Értéket – annak értéke. Ha a számlát az adóév folyamán lezárták, akkor a lezárás időpontját megelőző nap és az ebben az időpontban fennálló egyenleg vagy érték;
+- 5. a számlának az adóév utolsó napján fennálló egyenlege, továbbá a Visszavásárlási Értékkel rendelkező Biztosítási Szerződés vagy Járadékbiztosítási Szerződés esetén – ideértve a készpénz-egyenértéket vagy Visszavásárlási Értéket – annak értéke. Ha a számlát az adóév folyamán lezárták, a lezárás ténye.
 - 6. a Letétkezelői Számla esetében
   - a) az adóévben a számlára befizetett vagy jóváírt kamat, osztalék, továbbá a számlán tartott eszközökhöz kapcsolódóan keletkező egyéb bevétel bruttó összege;
   - b) az adóévben a számlára befizetett vagy jóváírt, a pénzügyi eszközök értékesítéséből vagy visszaváltásából származó bevétel bruttó összege, amely tekintetében a Jelentő Magyar Pénzügyi Intézmény letétkezelőként, befektetési vállalkozásként, meghatalmazottként vagy más módon a Számlatulajdonos megbízottjaként járt el;
@@ -670,7 +716,7 @@ teljesíti a FATCA Megállapodás 3. cikk 4. pontjában foglaltak figyelembe vé
 
 ### V/C. Fejezet — IMMATERIÁLIS JAVAK TÁRSASÁGI ADÓALAP-KEDVEZMÉNYEIRE VONATKOZÓ INFORMÁCIÓK ELŐZETES MEGKERESÉS NÉLKÜLI CSERÉJE
 
-43/M. § A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao. törvény) 7. § (1) bekezdés c), e), s) pontja szerinti adóalap-kedvezményt a Tao. törvény 29/A. § (29)–(30) bekezdése alapján érvényesítő adózó nevéről, székhelyéről, adóazonosító számáról az adóbevallás benyújtását követő 1 éven belül az állami adóhatóság spontán információcsere keretében tájékoztatja az illetékes hatóságot, ha az adózó 2015. február 6. előtt nem vette igénybe az adóalap-kedvezményt.
+43/M. § A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao. törvény) 7. § (1) bekezdés c), e), s) pontja szerinti adóalap-kedvezményt a Tao. törvény 29/A. § (29)–(30) bekezdése alapján érvényesítő adózó nevéről, székhelyéről, adóazonosító számáról az adóbevallás benyújtását követő 1 éven belül az állami adóhatóság spontán információcsere keretében tájékoztatja az illetékes hatóságot, ha az adózó 2015. február 6. előtt nem vette igénybe az adóalap-kedvezményt, vagy 2015. február 6. után olyan jószágra veszi igénybe, amelyre 2015. február 6. előtt nem vette igénybe az adóalap-kedvezményt.
 
 ### VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -700,6 +746,14 @@ teljesíti a FATCA Megállapodás 3. cikk 4. pontjában foglaltak figyelembe vé
 
 (2) A Jelentő Magyar Pénzügyi Intézmény a Módtv.-nyel megállapított 43/H. §-a szerinti adatszolgáltatási kötelezettségét először 2017. június 30-ig teljesíti az állami adóhatósághoz.
 
+45/D. § (1) A magyar hatáskörrel rendelkező hatóság automatikus információcsere keretében, 2017. december 31-ig közli a többi tagállam hatáskörrel rendelkező hatóságával a 2012. január 1-je és 2017. január 1-je között kiadott, módosított vagy meghosszabbított feltételes adómegállapításra, vagy szokásos piaci ár megállapítására vonatkozó határozatoknak a 19/B. § (4) bekezdésében meghatározott adatait. A 19/B. § (2)–(3) bekezdését az e bekezdés szerinti információcsere esetében is alkalmazni kell.
+
+(2) Az (1) bekezdésben meghatározott más tagállamba irányuló adatszolgáltatási kötelezettség a 2012. január 1-e és 2013. december 31-e között kiadott, módosított vagy meghosszabbított határozatokra csak abban az esetben terjed ki, ha e határozatok alkalmazhatósága 2014. január 1-jén fennállt.
+
+(3) Az (1) bekezdésben meghatározott kötelezettség nem áll fenn – a főként pénzügyi vagy befektetési tevékenységet folytató adózó (kérelmező) vagy adózói csoport (kérelmezői csoport) kivételével –, ha a 2016. április 1-je előtt kiadott, módosított, vagy meghosszabbított határozatot olyan adózó (kérelmező) vagy adózói csoport (kérelmezői csoport) részére adták ki, amelynek a határozat kiadását, módosítását, vagy meghosszabbítását megelőző adóévben a csoportszintű nettó árbevétele nem éri el a 40 millió EUR-t, illetve ennek forintban vagy külföldi fizetési eszközben (devizában) kifejezett értékét.
+
+45/E. § E törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel megállapított 43/I. § (2) bekezdés 2–3. és 5. pontját, valamint az 1. melléklet I.A.1.b), I.A.2. és I.A.4. pontját a 2016. adóévre vonatkozó adatszolgáltatási kötelezettségre is alkalmazni kell.
+
 #### 17. Az Európai Unió jogának való megfelelés
 
 46. § (1) A 4. § (1)–(3) bekezdés és a II. Fejezet az adózás területén való közigazgatási együttműködésről és a 77/799/EK irányelv hatályon kívül helyezéséről szóló, 2011. február 15-i 2011/16/EU tanácsi irányelvnek való megfelelést szolgálja.
@@ -707,6 +761,8 @@ teljesíti a FATCA Megállapodás 3. cikk 4. pontjában foglaltak figyelembe vé
 (2) A 4. § (1), (2) és (4) bekezdése, valamint a III. Fejezet az adókból, vámokból, illetékekből, és egyéb intézkedésekből eredő követelések behajtására irányuló kölcsönös segítségnyújtásról szóló, 2010. március 16-i 2010/24/EU tanácsi irányelvnek való megfelelést szolgálja.
 
 (3) A 4. § (6) bekezdése, az V/B. fejezet, valamint az 1. és 2. melléklet a 2011/16/EU tanácsi irányelvnek az adózás területére vonatkozó kötelező automatikus információcsere tekintetében történő módosításáról szóló, 2014. december 9-i 2014/107/EU tanácsi irányelvnek való megfelelést szolgálja.
+
+(4) A 4. § (3) bekezdés 12a. és 18. pontja, a 15. § (7)–(10) bekezdése, 16. § (4)–(5) bekezdése, a 19/B. §, a 20. § (3) bekezdése, valamint a 45/D. § az adózás területén való közigazgatási együttműködésről és a 77/799/EGK irányelv hatályon kívül helyezéséről szóló, 2011. február 15-i 2011/16/EU tanácsi irányelvnek az adózás területére vonatkozó kötelező automatikus információcsere tekintetében történő módosításáról szóló, 2015. december 8-i 2015/2376/EU tanácsi irányelvnek való megfelelést szolgálja.
 
 #### 18. Módosító rendelkezések
 
@@ -744,15 +800,15 @@ I. Általános adatszolgáltatási szabályok
 
 A. A C–E. pontban foglaltakra is figyelemmel a Jelentő Magyar Pénzügyi Intézmény valamennyi általa vezetett Jelentendő Pénzügyi Számlával kapcsolatban a következő adatokat jelenti be az állami adóhatósághoz:
 
-1. a) a Jelentendő Pénzügyi Számla tulajdonosának neve, címe, az illetősége szerinti tagállama vagy más állama, adóazonosító száma (ha ilyennel rendelkezik), továbbá magánszemély esetében születési helye és ideje;
+1. a) a Jelentendő Pénzügyi Számla tulajdonosának neve, címe, az illetősége szerinti tagállama vagy más állama, adóazonosító száma (ha ilyennel rendelkezik), továbbá magánszemély esetében születési helye és ideje, Passzív Nem Pénzügyi Jogalany esetében e jogalanyiság ténye;
 
-b) jogalany esetében – ha az V., a VI. és a VII. ponttal összhangban lévő átvilágítási eljárás eredményeként az Ellenőrzést gyakorló egy vagy több személy Jelentendő Személynek minősül – a Jogalany neve, címe, tagállama vagy más állama és (ha ilyen van) az illetősége szerinti más, joghatósággal rendelkező terület, továbbá adóazonosító száma (ha ilyennel rendelkezik), valamint a Jelentendő Személy neve, lakcíme, az illetősége szerinti tagállam vagy más állam, adóazonosító szám (ha ilyennel rendelkezik), születési helye és ideje;
+b) jogalany esetében – ha az V., a VI. és a VII. ponttal összhangban lévő átvilágítási eljárás eredményeként az Ellenőrzést gyakorló egy vagy több személy Jelentendő Személynek minősül – a Jogalany neve, címe, tagállama vagy más állama és (ha ilyen van) az illetősége szerinti más, joghatósággal rendelkező terület, továbbá adóazonosító száma (ha ilyennel rendelkezik), valamint a Jelentendő Személy neve, lakcíme, az illetősége szerinti tagállam vagy más állam, adóazonosító szám (ha ilyennel rendelkezik), születési helye és ideje, továbbá – amennyiben ez az információ rendelkezésre áll – az Ellenőrzést gyakorló személy típusa;
 
-2. a Jelentő Pénzügyi Számla száma (ennek hiányában azzal egyenértékű azonosító);
+2. a Jelentendő Pénzügyi Számla száma (ennek hiányában azzal egyenértékű azonosító), valamint a számlaszám (vagy azonosító) típusa;
 
 3. a Jelentő Magyar Pénzügyi Intézmény neve és azonosító száma (ha van);
 
-4. a számla egyenlege vagy értéke (Visszavásárlási értékkel rendelkező Biztosítási szerződés vagy Járadékbiztosítási Szerződés esetén, ideértve a készpénz-egyenértéket vagy Visszavásárlási értéket) az adóév végén, illetve ha a számlát évközben lezárták, a számla lezárását megelőző napon;
+4. a számla egyenlege vagy értéke (Visszavásárlási értékkel rendelkező Biztosítási szerződés vagy Járadékbiztosítási Szerződés esetén, ideértve a készpénz-egyenértéket vagy Visszavásárlási értéket) az adóév végén, illetve ha a számlát évközben lezárták, a számla lezárásának ténye;
 
 5. Letétkezelői Számla esetében:
 
@@ -866,11 +922,11 @@ f) a számlához kapcsolódó meghatalmazás vagy aláírási jog.
 
 a) ha a Magas Értékű Számlákra vonatkozó, a C. pont szerinti kiterjesztett ellenőrzés a B/2. pontban szereplő egyetlen szempontra sem eredményez találatot és a C/4. pont alapján a Számlatulajdonos nem minősül Jelentendő Személynek, akkor nincs szükség további intézkedésre, amíg a körülményekben olyan változás nem áll be (2. melléklet 1. pont), amelynek eredményeképpen egy vagy több, a B/2. pontban meghatározott szempont a számlához kapcsolódik.
 
-b) ha a Magas Értékű Számlákra vonatkozó, a C. pont szerinti kiterjesztett ellenőrzés a B/2. A)–B/2.e) pontban felsorolt bármely szempontra találatot ad, vagy a körülményekben később olyan változás áll be, amelynek eredményeképpen egy vagy több szempont a számlához kapcsolódik, akkor a Jelentő Magyar Pénzügyi Intézménynek minden olyan tagállam vagy más állam tekintetében Jelentő Számláknak kell tekintetni a számlát, amelyre a keresés találatot adott ki, kivéve, ha a B/6. pont alkalmazása mellet dönt, és a számlával kapcsolatban az említett pontban megállapított valamely kivétel alkalmazható.
+b) ha a Magas Értékű Számlákra vonatkozó, a C. pont szerinti kiterjesztett ellenőrzés a B/2. A)–B/2.e) pontban felsorolt bármely szempontra találatot ad, vagy a körülményekben később olyan változás áll be, amelynek eredményeképpen egy vagy több szempont a számlához kapcsolódik, akkor a Jelentő Magyar Pénzügyi Intézménynek minden olyan tagállam vagy más állam tekintetében Jelentendő Számlának kell tekinteni a számlát, amelyre a keresés találatot adott ki, kivéve, ha a B/6. pont alkalmazása mellet dönt, és a számlával kapcsolatban az említett pontban megállapított valamely kivétel alkalmazható.
 
-c) ha a Magas Értékű számlákra vonatkozó, a C. pont szerinti kiterjesztett ellenőrzés „postán maradó” vagy „kézbesítési megbízott” megbízásra hoz ki találatot, de más címet és a B/2.a)–B/2.e) pontban felsorolt egyéb szempontokra való utalást a Számlatulajdonosra vonatkozóan nem talál, akkor a Jelentő Magyar Pénzügyi Intézmény beszerzi a Számlatulajdonostól annak adóügyi illetőségére vonatkozó nyilatkozatát vagy más okirati bizonyítékot. Ha a Jelentő Magyar Pénzügyi Intézmény a nyilatkozatot vagy az okirati bizonyítékot nem tudja beszerezni, a 43/G. § (5) bekezdésében foglaltaknak megfelelően bejelenti az állami adóhatóságnak, hogy a számla nem dokumentált számla.
+c) ha a Magas Értékű számlákra vonatkozó, a C. pont szerinti kiterjesztett ellenőrzés „postán maradó” vagy „kézbesítési megbízott” megbízásra hoz ki találatot, de más címet és a B/2.a)–B/2.e) pontban felsorolt egyéb szempontokra való utalást a Számlatulajdonosra vonatkozóan nem talál, akkor a Jelentő Magyar Pénzügyi Intézmény beszerzi a Számlatulajdonostól annak adóügyi illetőségére vonatkozó nyilatkozatát vagy más okirati bizonyítékot. Ha a Jelentő Magyar Pénzügyi Intézmény a nyilatkozatot vagy az okirati bizonyítékot nem tudja beszerezni, a 43/G. § (5) bekezdésében foglaltaknak megfelelően bejelenti az állami adóhatóságnak, hogy a számla Nem dokumentált Pénzügyi Számla.
 
-6. Ha egy Meglévő Egyéni Számla 2015. december 31-én nem minősül Magas Értékű Számlának, de valamely ezt követő adóév utolsó napján Magas Értékű Számlává válik, a Jelentő Magyar Pénzügyi Intézmény az azon adóévet követő adóév folyamán, amelyben a számla Magas Értékű Számlává vált, a számlára vonatkozóan a C. pont szerinti kiterjesztett ellenőrzési eljárást kell lefolytatnia. Ha az ellenőrzés megállapítja, hogy a számla Jelentendő Számla, a Jelentő Magyar Pénzügyi Intézmény évente köteles adatot szolgáltatni az érintett számláról arra az adóévre vonatkozóan, amelyben a számla Jelentendő Számlának minősült, valamint az azt követő adóévekre vonatkozóan is, kivéve, ha a Számlatulajdonos már nem minősül Jelentendő Személynek.
+6. Ha egy Meglévő Egyéni Számla 2015. december 31-én, illetve azon más államok esetében, amelyek a Megállapodást kihirdető törvény 1. számú mellékletébe 2017. január 1-jei vagy azt követő hatállyal kerülnek be, a mellékletbe való bekerülés évét megelőző adóév utolsó napján nem minősül Magas Értékű Számlának, de valamely ezt követő adóév utolsó napján Magas Értékű Számlává válik, a Jelentő Magyar Pénzügyi Intézmény az azon adóévet követő adóév folyamán, amelyben a számla Magas Értékű Számlává vált, a számlára vonatkozóan a C. pont szerinti kiterjesztett ellenőrzési eljárást kell lefolytatnia. Ha az ellenőrzés megállapítja, hogy a számla Jelentendő Számla, a Jelentő Magyar Pénzügyi Intézmény évente köteles adatot szolgáltatni az érintett számláról arra az adóévre vonatkozóan, amelyben a számla Jelentendő Számlának minősült, valamint az azt követő adóévekre vonatkozóan is, kivéve, ha a Számlatulajdonos már nem minősül Jelentendő Személynek.
 
 7. Ha a Jelentő Magyar Pénzügyi Intézmény egy Magas Értékű Számla esetében elvégezte a C. pont szerinti kiterjesztett ellenőrzési eljárást, ugyanazon Magas Értékű Számlával kapcsolatban – az ügyfélkapcsolati felelősnek a C/4. pont szerinti megkérdezése kivételével – egyetlen következő adóévben sem köteles az eljárást megismételni, kivéve, ha Nem dokumentált Számláról van szó, amely esetben a Jelentő Magyar Pénzügyi Intézménynek mindaddig évente újra el kell végeznie az ellenőrzést, amíg a számla nem dokumentált jellege meg nem szűnik.
 
@@ -878,7 +934,7 @@ c) ha a Magas Értékű számlákra vonatkozó, a C. pont szerinti kiterjesztett
 
 9. A Jelentő Magyar Pénzügyi Intézménynek olyan eljárásokat kell alkalmaznia, amelyek biztosítják, hogy az ügyfélkapcsolati felelős észlelje az adott számlához kapcsolódó körülmények megváltozását. Így, ha egy ügyfélkapcsolati felelős arról értesül, hogy a Számlatulajdonosnak új levelezési címe van valamely tagállamban vagy más államban, akkor a Jelentő Magyar Pénzügyi Intézménynek az új címet a körülmények megváltozásának kell tekintenie, és ha a B/6. pont alkalmazása mellett dönt, akkor a Számlatulajdonostól beszerzi a megfelelő dokumentációt.
 
-D. A Meglévő Magas Értékű Egyéni Számlák ellenőrzését 2016. december 31-ig, a Meglévő Alacsonyabb Értékű Számlák ellenőrzését 2017. december 31-ig kell lezárni.
+D. A Meglévő Magas Értékű Egyéni Számlák ellenőrzését 2016. december 31-ig, a Meglévő Alacsonyabb Értékű Egyéni Számlák ellenőrzését 2017. december 31-ig kell lezárni. Azon más államok esetében, amelyek a Megállapodást kihirdető törvény 1. számú mellékletébe 2017. január 1-jei vagy azt követő hatállyal kerülnek be a Meglévő Magas Értékű Egyéni Számlák és Meglévő Alacsonyabb Értékű Egyéni Számlák ellenőrzését a mellékletbe való bekerülés évének utolsó napjáig kell lezárni.
 
 E. A III. rész alapján Jelentendő Pénzügyi Számlának minősített, Meglévő Egyéni Számlákat minden további adóévben Jelentendő Pénzügyi Számlának kell tekinteni, kivéve, ha a Számlatulajdonos már nem minősül Jelentendő Személynek.
 
@@ -898,11 +954,11 @@ A Meglévő Jogalanyi Számlák közül a Jelentendő Pénzügyi Számlák kivá
 
 A. Az átvilágítás, az azonosítás vagy az adatszolgáltatás alól mentesíthető Jogalanyi számlák
 
-A Jelentő Magyar Pénzügyi Intézménynek mindaddig nem kell ellenőriznie, azonosítania vagy Jelentendő Pénzügyi Számlaként kezelnie, a 2015. december 31-én 250 000 USD-t nem meghaladó, forintban vagy külföldi fizetési eszközben (devizában) kifejezett összesített egyenlegű vagy értékű Meglévő Jogalanyi Számlát, amíg a számla összesített egyenlege vagy értéke valamely következő adóév utolsó napján nem haladja meg az említett összeget vagy értéket.
+A Jelentő Magyar Pénzügyi Intézménynek mindaddig nem kell ellenőriznie, azonosítania vagy Jelentendő Pénzügyi Számlaként kezelnie a 2015. december 31-én vagy azon más államok esetében, amelyek a Megállapodást kihirdető törvény 1. számú mellékletébe 2017. január 1-jei vagy azt követő hatállyal kerülnek be, a mellékletbe való bekerülés évét megelőző adóév utolsó napján 250 000 USD-t nem meghaladó, forintban vagy külföldi fizetési eszközben (devizában) kifejezett összesített egyenlegű vagy értékű Meglévő Jogalanyi Számlát, amíg a számla összesített egyenlege vagy értéke valamely következő adóév utolsó napján nem haladja meg az említett összeget vagy értéket.
 
 B. Átvilágítandó Jogalanyi Számlák
 
-A Meglévő Jogalanyi Számlák, amelyek összesített egyenlege vagy értéke 2015. december 31-én meghaladja a 250 000 USD-nak megfelelő, forintban vagy külföldi fizetési eszközben (devizában) kifejezett összeget, valamint a Meglévő Jogalanyi Számlák, amelyek összesített egyenlege vagy értéke 2015. december 31-én nem haladja meg az említett összeget, de bármely későbbi adóév utolsó napján meghaladja azt, a D. pontban meghatározott eljárásoknak megfelelően kell átvilágítani.
+A Meglévő Jogalanyi Számlák, amelyek összesített egyenlege vagy értéke 2015. december 31-én illetve azon más államok esetében, amelyek a Megállapodást kihirdető törvény 1. számú mellékletébe 2017. január 1-jei vagy azt követő hatállyal kerülnek be, a mellékletbe való bekerülés évét megelőző adóév utolsó napján meghaladja a 250 000 USD-nak megfelelő, forintban vagy külföldi fizetési eszközben (devizában) kifejezett összeget, valamint a Meglévő Jogalanyi Számlák, amelyek összesített egyenlege vagy értéke 2015. december 31-én illetve azon más államok esetében, amelyek a Megállapodást kihirdető törvény 1. számú mellékletébe 2017. január 1-jei vagy azt követő hatállyal kerülnek be, a mellékletbe való bekerülés évét megelőző adóév utolsó napján nem haladja meg az említett összeget, de bármely későbbi adóév utolsó napján meghaladja azt, a D. pontban meghatározott eljárásoknak megfelelően kell átvilágítani.
 
 C. Jelentendő Jogalanyi Számlák
 
@@ -910,21 +966,21 @@ A B. pontban említett Meglévő Jogalanyi Számlák közül azon számlákat ke
 
 D. Átvilágítás a Jelentendő Jogalanyi Számlák kiszűrésére
 
-A B. pontban említett Meglévő Jogalanyi Számlák esetében a Jelentő Magyar Pénzügyi Intézmény a következő átvilágítási eljárásokat alkalmazza annak megállapítására, hogy a számla tulajdonosa egy vagy több Jelentendő személy vagy olyan Passzív Nem Pénzügyi Jogalany, amely egy vagy több, Jelentendő személynek minősülő, Ellenőrzést gyakorló személy ellenőrzése alatt áll:
+A B. pontban említett Meglévő Jogalanyi Számlák esetében a Jelentő Magyar Pénzügyi Intézmény a következő átvilágítási eljárásokat alkalmazza annak megállapítására, hogy a számla tulajdonosa egy vagy több Jelentendő Személy vagy olyan Passzív Nem Pénzügyi Jogalany, amely egy vagy több, Jelentendő Személynek minősülő, Ellenőrzést gyakorló személy ellenőrzése alatt áll:
 
-1. Annak megállapítására, hogy a Jogalany Jelentendő Személy-e:
+1. Annak megállapítása, hogy a Jogalany Jelentendő Személy-e:
 
 a) Ellenőrizni kell a jogszabályban előírt vagy ügyfélkapcsolati célokból nyilvántartott adatokat (beleértve a pénzmosás elleni fellépés vagy az ügyfél-azonosítás keretében gyűjtött információkat is) annak megállapítása céljából, hogy az adatok arra utalnak-e, hogy a Számlatulajdonos tagállami vagy más állami illetőségű személy. E tekintetben tagállami vagy más állami illetőségre utaló adatnak tekintendő a tagállamban vagy más államban található székhely, bejegyzési hely vagy más cím is.
 
 b) Ha az adatok arra utalnak, hogy a Számlatulajdonos tagállami vagy más állami illetőségű, a Jelentő Magyar Pénzügyi Intézmény a számlát Jelentendő Pénzügyi Számlaként kezeli, kivéve, ha a Számlatulajdonos nyilatkozik arról, hogy Nem Jelentendő Személy vagy a Jelentő Magyar Pénzügyi Intézmény a rendelkezésére álló vagy nyilvánosan hozzáférhető adatokat mérlegelve megállapítja, hogy a Számlatulajdonos Nem Jelentendő Személy.
 
-2. Annak megállapítása, hogy a Jogalany egy vagy több Jelentendő Személynek minősülő, Ellenőrzést gyakorló személy ellenőrzése alatt álló Passzív Nem Pénzügyi Jogalany
+2. Annak megállapítása, hogy a Jogalany egy vagy több Jelentendő Személynek minősülő, Ellenőrzést gyakorló személy ellenőrzése alatt álló Passzív Nem Pénzügyi Jogalany-e:
 
 Meglévő Jogalanyi Számlák tulajdonosai esetében (ideértve a Jelentendő Személynek minősülő Jogalanyokat is) a Jelentő Magyar Pénzügyi Intézmény megállapítja, hogy a Számlatulajdonos olyan Passzív Nem Pénzügyi Jogalany-e, amely egy vagy több, Jelentendő Személynek minősülő, Ellenőrzést gyakorló személy ellenőrzése alatt áll. Ha az Ellenőrzést gyakorló személy, akinek/amelynek a Passzív Nem Pénzügyi Jogalany az ellenőrzése alatt áll, Jelentendő Személynek minősül, a számlát Jelentendő Pénzügyi Számlaként kell kezelni. A mérlegelés során a Jelentő Magyar Pénzügyi Intézmény a D/2.a)–c) pontokban foglaltak alapján jár el.
 
 a) A Számlatulajdonos passzív nem pénzügyi jogalanyiságának megállapítása
 
-A Jelentő Magyar Pénzügyi Intézmény a Számlatulajdonos passzív nem pénzügyi jogalanyiságának megállapítása céljából a Számlatulajdonost nyilatkozattételre szólítja fel , kivéve, ha a rendelkezésére álló vagy nyilvánosan hozzáférhető adatokat mérlegelve megállapítja, hogy a Számlatulajdonos Aktív Nem Pénzügyi Jogalany vagy olyan egyéb, a VIII/A/6.b) pontjában említett Befektetési jogalanytól eltérő Pénzügyi Intézmény, amely nem minősül Résztvevő joghatóság Pénzügyi Intézményének. A Számlatulajdonos a passzív nem pénzügyi jogalanyiságáról a Jelentő Magyar Pénzügyi Intézmény felszólítására írásban tesz nyilatkozatot.
+A Jelentő Magyar Pénzügyi Intézmény a Számlatulajdonos passzív nem pénzügyi jogalanyiságának megállapítása céljából a Számlatulajdonost nyilatkozattételre szólítja fel, kivéve, ha a rendelkezésére álló vagy nyilvánosan hozzáférhető adatokat mérlegelve megállapítja, hogy a Számlatulajdonos Aktív Nem Pénzügyi Jogalany vagy olyan, a VIII/A/6. b) pontja szerinti Pénzügyi Intézmény, amely nem Résztvevő joghatóság Pénzügyi Intézménye. A Számlatulajdonos a passzív nem pénzügyi jogalanyiságáról a Jelentő Magyar Pénzügyi Intézmény felszólítására írásban tesz nyilatkozatot.
 
 b) A Számlatulajdonos felett Ellenőrzést gyakorló személyek azonosítása
 
@@ -942,7 +998,9 @@ E. Meglévő Jogalanyi Számlákra vonatkozó ellenőrzési határidő és egyé
 
 1. A 2015. december 31-én 250 000 USD-t meghaladó, forintban vagy külföldi fizetési eszközben (devizában) kifejezett, összesített egyenlegű vagy értékű Meglévő Jogalanyi Számlák ellenőrzését 2017. december 31-ig kell elvégezni.
 
-2. Azoknak a Meglévő Jogalanyi Számláknak az ellenőrzését, amelyek összesített egyenlege vagy értéke 2015. december 31-én nem haladja meg a 250 000 USD-nak megfelelő, forintban vagy külföldi fizetési eszközben (devizában) kifejezett összeget, de egy későbbi adóév december 31-én meghaladja azt, az ezen összeghatár túllépését követő adóév végéig kell elvégezni.
+1a. Az 1. bekezdés rendelkezéseitől eltérően azon más államok esetében, amelyek a Megállapodást kihirdető törvény 1. számú mellékletébe 2017. január 1-jei vagy azt követő hatállyal kerülnek be, a mellékletbe való bekerülés évét megelőző adóév utolsó napján 250 000 USD-t meghaladó, forintban vagy külföldi fizetési eszközben (devizában) kifejezett, összesített egyenlegű vagy értékű Meglévő Jogalanyi Számlák ellenőrzését a mellékletbe való bekerülés évének utolsó napjáig kell elvégezni.
+
+2. Azoknak a Meglévő Jogalanyi Számláknak az ellenőrzését, amelyek összesített egyenlege vagy értéke 2015. december 31-én vagy azon más államok esetében, amelyek a Megállapodást kihirdető törvény 1. számú mellékletébe 2017. január 1-jei vagy azt követő hatállyal kerülnek be, a mellékletbe való bekerülés évét megelőző adóév utolsó napján nem haladja meg a 250 000 USD-nak megfelelő, forintban vagy külföldi fizetési eszközben (devizában) kifejezett összeget, de egy későbbi adóév december 31-én meghaladja azt, az ezen összeghatár túllépését követő adóév végéig kell elvégezni.
 
 3. Ha a Meglévő Jogalanyi Számlával kapcsolatos körülményekben olyan változás áll be (2. melléklet 1. pont), melynek eredményeként a Jelentő Magyar Pénzügyi Intézménynek tudomására jut vagy alappal feltételezi, hogy a számlához kapcsolódó nyilatkozat vagy más dokumentáció hibás vagy nem megalapozott, akkor a Jelentő Magyar Pénzügyi Intézmény a D. pontban meghatározott szabályoknak megfelelően újra elvégzi a számla minősítését.
 
@@ -962,11 +1020,11 @@ b) Ha a nyilatkozat alapján a Számlatulajdonos tagállami vagy más állami il
 
 a) A Számlatulajdonos passzív nem pénzügyi jogalanyiságának megállapítása
 
-A Jelentő Magyar Pénzügyi Intézmény a Számlatulajdonos passzív nem pénzügyi jogalanyiságának megállapítása céljából a Számlatulajdonost nyilatkozattételre szólítja fel, kivéve, ha a rendelkezésére álló vagy nyilvánosan hozzáférhető adatokat mérlegelve megállapítja, hogy a Számlatulajdonos Aktív Nem Pénzügyi Jogalany vagy olyan egyéb, a VIII/A/6. b) pontjában említett Befektetési jogalanytól eltérő Pénzügyi Intézmény, amely nem minősül Résztvevő joghatóság Pénzügyi Intézményének. A Számlatulajdonos a passzív nem pénzügyi jogalanyiságáról a Jelentő Magyar Pénzügyi Intézmény felszólítására írásban tesz nyilatkozatot.
+A Jelentő Magyar Pénzügyi Intézmény a Számlatulajdonos passzív nem pénzügyi jogalanyiságának megállapítása céljából a Számlatulajdonost nyilatkozattételre szólítja fel, kivéve, ha a rendelkezésére álló vagy nyilvánosan hozzáférhető adatokat mérlegelve megállapítja, hogy a Számlatulajdonos Aktív Nem Pénzügyi Jogalany vagy olyan, a VIII/A/6. b) pontja szerinti Pénzügyi Intézmény, amely nem Résztvevő joghatóság Pénzügyi Intézménye. A Számlatulajdonos a passzív nem pénzügyi jogalanyiságáról a Jelentő Magyar Pénzügyi Intézmény felszólítására írásban tesz nyilatkozatot.
 
 b) A Számlatulajdonos felett Ellenőrzést gyakorló személy azonosítása
 
-A Számlatulajdonos felett Ellenőrzést gyakorló személy azonosítása céljából a Jelentő Magyar Pénzügyi Intézmény támaszkodhat a pénzmosás elleni fellépés, illetve az ügyfél-azonosítás kapcsán végzendő átvilágítási eljárások eredményeként rendelkezésére álló adatokat veheti figyelembe.
+A Számlatulajdonos felett Ellenőrzést gyakorló személy azonosítása céljából a Jelentő Magyar Pénzügyi Intézmény a pénzmosás elleni fellépés, illetve az ügyfél-azonosítás kapcsán végzendő átvilágítási eljárások eredményeként rendelkezésére álló adatokat veheti figyelembe.
 
 c) Annak megállapítása, hogy a Passzív Nem Pénzügyi Jogalany felett Ellenőrzést gyakorló személy Jelentendő Személy-e
 
@@ -980,7 +1038,7 @@ A Jelentő Magyar Pénzügyi Intézmény nem veheti figyelembe azt a nyilatkozat
 
 B. A Visszavásárlási értékkel rendelkező Biztosítási Szerződések és a Járadékbiztosítási Szerződések egyedi kedvezményezettjeinek, valamint a Visszavásárlási értékkel rendelkező csoportos Biztosítási Szerződések és a Csoportos Járadékbiztosítási Szerződések kedvezményezettjeinek Pénzügyi Számláira vonatkozó különös eljárási szabályok.
 
-1. A Jelentő Magyar Pénzügyi Intézmény egy olyan személyről, aki Visszavásárlási értékkel rendelkező Biztosítási Szerződés vagy Járadékbiztosítási Szerződés haláleseti juttatásban részesülő egyedi kedvezményezettje (de a biztosítási szerződésben nem szerződő fél), feltételezheti, hogy Nem Jelentendő Személy, és Pénzügyi Számláját Kizárt Számlaként kezelheti, kivéve, ha ténylegesen tudomása van arról, vagy alappal feltételezi, hogy a kedvezményezett Jelentendő Személy. A Jelentő Magyar Pénzügyi Intézmény okkal feltételezheti, hogy a Visszavásárlási értékkel rendelkező biztosítási szerződés vagy Járadékbiztosítási Szerződés haláleseti juttatásban részesülő egyedi kedvezményezettje Jelentendő személy, ha a Jelentő Magyar Pénzügyi Intézmény rendelkezésére álló, a kedvezményezettel kapcsolatos adatok a III/B. pontban említett utalásokat tartalmazzák. Ha egy Jelentő Magyar Pénzügyi Intézménynek tudomása van arról, vagy okkal feltételezheti, hogy a kedvezményezett Jelentendő Személy, akkor a III./B. pontban foglaltak alapján jár el.
+1. A Jelentő Magyar Pénzügyi Intézmény egy olyan személyről, aki Visszavásárlási értékkel rendelkező Biztosítási Szerződés vagy Járadékbiztosítási Szerződés haláleseti juttatásban részesülő egyedi kedvezményezettje (de a biztosítási szerződésben nem szerződő fél), feltételezheti, hogy Nem Jelentendő Személy, és Pénzügyi Számláját Kizárt Számlaként kezelheti, kivéve, ha ténylegesen tudomása van arról, vagy alappal feltételezi, hogy a kedvezményezett Jelentendő Személy. A Jelentő Magyar Pénzügyi Intézmény okkal feltételezi, hogy a Visszavásárlási értékkel rendelkező Biztosítási Szerződés vagy Járadékbiztosítási Szerződés haláleseti juttatásban részesülő egyedi kedvezményezettje Jelentendő személy, ha a Jelentő Magyar Pénzügyi Intézmény rendelkezésére álló, a kedvezményezettel kapcsolatos adatok a III/B. pontban említett utalásokat tartalmazzák. Ha egy Jelentő Magyar Pénzügyi Intézménynek tudomása van arról, vagy okkal feltételezheti, hogy a kedvezményezett Jelentendő Személy, akkor a III./B. pontban foglaltak alapján jár el.
 
 2. A Jelentő Magyar Pénzügyi Intézmény a Visszavásárlási értékkel rendelkező Csoportos Biztosítási Szerződésben vagy Csoportos Járadékbiztosítási Szerződésben fennálló tagsághoz kapcsolódó Pénzügyi Számlákat mindaddig Kizárt Számlaként kezelheti, amíg a munkavállaló/a biztosítási igazolás birtokosa vagy a kedvezményezett részére valamely kifizetés esedékessé nem válik, feltéve, hogy a Visszavásárlási értékkel rendelkező Csoportos Biztosítási Szerződésben vagy Csoportos Járadékbiztosítási Szerződésben fennálló tagsághoz kapcsolódó Pénzügyi Számla megfelel az alábbi követelményeknek:
 
@@ -1024,7 +1082,7 @@ A. Jelentő Magyar Pénzügyi Intézmény
 
 Résztvevő joghatóságban illetőséggel rendelkező Pénzügyi Intézmény (kivéve ennek Résztvevő joghatóságon kívüli fióktelepét), valamint a Résztvevő joghatóság területén kívüli illetőséggel rendelkező Pénzügyi Intézmény Résztvevő joghatóságban illetőséggel rendelkező fióktelepe.
 
-3. Pénzügyi Intézmény: bármely Letétkezelő intézmény, Betéti Intézmény, Befektetési Jogalany vagy Meghatározott biztosító Társaság.
+3. Pénzügyi Intézmény: bármely Letétkezelő Intézmény, Betéti Intézmény, Befektetési Jogalany vagy Meghatározott biztosító Társaság.
 
 4. Letétkezelő Intézmény: olyan Jogalany, amely üzleti tevékenysége meghatározó részeként mások számláján Pénzügyi Eszközök rendelkezésre tartásával foglalkozik. Erre a tevékenységre akkor kerül sor, ha a Jogalany Pénzügyi Eszközök tartásából és ehhez kapcsolódó pénzügyi szolgáltatásokból származó bruttó bevételének legalább 20%-a a következő két időtartam közül a rövidebb során keletkezik:
 
@@ -1048,7 +1106,7 @@ vagy
 
 b) amelynek bruttó bevétele elsősorban Pénzügyi Eszközökbe való befektetésből, újrabefektetésből, illetve azokkal való kereskedésből származik, feltéve, hogy a Jogalany olyan Jogalany irányítása alatt áll, amely Betéti Intézmény, Letétkezelő Intézmény, Meghatározott biztosító Társaság vagy az A/6. pont a) alpontban említett Befektetési Jogalany.
 
-6.1. Egy Jogalany üzleti tevékenységét akkor alkotja az A/6. a) pontban említett tevékenység, illetve az A/6. b) pont alkalmazásában egy Jogalany bruttó bevétele akkor származik elsősorban Pénzügyi Eszközökbe való befektetésből, újrabefektetésből, illetve azokkal való kereskedésből, ha a Jogalanynak az érintett tevékenységből származó bruttó bevétele a következő két időszak közül a rövidebb időszak alatt keletkező teljes bruttó bevételének legalább az 50%-át teszi ki:
+6.1. Egy Jogalany üzleti tevékenységét akkor alkotja az A/6. a) pontban említett tevékenység, illetve az A/6. b) pont alkalmazásában egy Jogalany bruttó bevétele akkor származik elsősorban Pénzügyi Eszközökbe való befektetésből, újrabefektetésből, illetve azokkal való kereskedésből, ha a Jogalanynak az érintett tevékenységből származó bruttó bevétele a következő két időszak közül a rövidebb időszak alatt keletkező bruttó bevételének legalább az 50%-át teszi ki:
 
 a) a tevékenység minősítésének időpontja szerinti adóévet megelőző adóév december 31-ével záruló hároméves időszak; vagy
 
@@ -1056,7 +1114,7 @@ b) a Jogalany fennállásának időtartama.
 
 6.2. A Befektetési Jogalany fogalma nem foglalja magában a D/8. d)–g) pontokban foglalt bármely feltételnek megfelelő Aktív Nem Pénzügyi Jogalanyt.
 
-A Pénzügyi Intézmény e pontban való meghatározását a Gazdasági Együttműködési Szervezet (OECD) Pénzügyi Akció Munkacsoportjának ajánlásaiban foglalt rendelkezésekkel összhangban kell értelmezni.
+A Pénzügyi Intézmény e pontban való meghatározását a Gazdasági Együttműködési és Fejlesztési Szervezet (OECD) Pénzügyi Akció Munkacsoportjának ajánlásaiban foglalt rendelkezésekkel összhangban kell értelmezni.
 
 7. Pénzügyi Eszköz: értékpapír (például: részvény; tulajdonjogot megtestesítő részesedés vagy tényleges tulajdoni részesedés valamely széles tulajdonosi körrel rendelkező, illetve tőzsdén jegyzett gazdasági társulásban vagy vagyonkezelői alapban; váltó, kötvény, illetve egyéb hitelviszonyt megtestesítő instrumentum), a gazdasági társulásokban fennálló részesedés, az árutőzsdei ügylet, a swapügylet (például: kamatláb-csereügylet, deviza-csereügylet, bázisswap-ügylet, felső-kamathatár, alsó kamathatár ügylet, árutőzsdei csereügylet, részvényalapú és részvényindex-alapú swapügylet és egyéb hasonló megállapodás), Biztosítási Szerződés vagy Járadékbiztosítási Szerződés, továbbá az értékpapírban, gazdasági társulásban, árutőzsdei ügyletben, csereügyletben, illetve Biztosítási vagy Járadékbiztosítási Szerződésben fennálló bárminemű érdekeltség (ideértve a tőzsdei vagy tőzsdén kívüli határidős ügyletet vagy opciót is). A Pénzügyi Eszköz fogalma nem tartalmazza az ingatlanban fennálló nem adósságjellegű, közvetlen érdekeltséget.
 
@@ -1074,11 +1132,11 @@ c) minden egyéb Jogalany, amellyel összefüggésben csekély az adókijátszá
 
 d) Nem Jelentő Kollektív Befektetési Eszköz; vagy
 
-e) vagyonkezelői alap, ha annak kezelője olyan Jelentő Magyar Pénzügyi Intézmény, amelyet az e melléklet I. pontja alapján jelentendő minden adatot bejelent, az alap Jelentendő Számlái tekintetében adatszolgáltatási kötelezettség terhel.
+e) vagyonkezelői alap, ha annak kezelője olyan Jelentő Magyar Pénzügyi Intézmény, amely az e melléklet I. pontja alapján jelentendő minden adatot bejelent, az alap valamennyi Jelentendő Számlája tekintetében.
 
 2. Kormányzati Jogalany: Magyarország Kormánya, Magyarország bármely politikai alegysége (amely magába foglalja az államot, megyét vagy önkormányzatot), vagy Magyarország, illetve az előzőek közül egynek vagy többnek a teljes tulajdonában levő ügynökséget vagy szervet (ezek mindegyike egy Magyar Kormányzati Jogalany) valamely politikai egység tulajdonában álló hivatal vagy szerv. Ez a kategória Magyarország szerves részeit, ellenőrzött jogalanyait és politikai alegységeit foglalja magában.
 
-a) Magyarország szerves része minden olyan személy, ügynökség, hivatal, iroda, alap, szerv vagy más testület – megnevezésétől függetlenül –, amely Magyarország kormányzó hatóságának minősül. A kormányzó hatóság nettó bevételét a saját vagy Magyarország más számláin kell jóváírni, és az nem tartalmazhat olyan részt, amely bármely magánszemély hasznára száll át. Nem minősül Magyarország szerves részének az a természetes személy, aki független állami minőségben hivatalnokként vagy ügyintézőként, mint magánszemély jár el.
+a) Magyarország szerves része minden olyan személy, szervezet, hivatal, iroda alap, szerv vagy más testület – megnevezésétől függetlenül –, amely Magyarország kormányzó hatóságának minősül. A kormányzó hatóság nettó bevételét a saját vagy Magyarország más számláin kell jóváírni, és az nem tartalmazhat olyan részt, amely bármely magánszemély hasznára száll át. Nem minősül Magyarország szerves részének az a természetes személy, aki független állami minőségben hivatalnokként vagy ügyintézőként, mint magánszemély jár el.
 
 b) Ellenőrzött Jogalany: olyan Jogalany, amely formailag Magyarországtól elkülönül, vagy külön jogi személynek minősül, feltéve, hogy:
 
@@ -1114,7 +1172,7 @@ cb) az alapba érkező járulékbefizetések legalább 50%-a [a B/5–7. pontokb
 
 cc) az alapból történő kifizetések vagy kivonások csak a nyugdíjazással, fogyatékossággal vagy halálesettel kapcsolatos bizonyos események bekövetkezése esetén engedélyezettek [kivéve a B/5–7. pontokban említett más nyugdíjalapokba teljesített vagy a C/17. a) pontban említett nyugdíj-előtakarékossági és egyéb nyugdíjszámlákra való átvitelekkel kapcsolatos kifizetéseket], vagy az ilyen események bekövetkezése előtt végrehajtott kifizetésekre, illetve kivonásokra jogkövetkezmények vonatkoznak;
 
-cd) az alapba történő munkavállalói járulékbefizetés (egyes pótlólagos járulékbefizetések kivételével) a munkavállaló által megszerzett jövedelem függvényében korlátozott vagy évente nem haladhatja meg az 50 000 USD-nak megfelelő, forintban vagy külföldi fizetési eszközben (devizában) kifejezett összeget, a VII/C. pontban meghatározott számlaösszesítési és deviza-átváltási szabályok alkalmazásával.
+cd) az alapba történő munkavállalói járulékbefizetés (egyes pótlólagos járulékbefizetések kivételével) a munkavállaló által megszerzett jövedelem függvényében korlátozott vagy évente nem haladja meg az 50 000 USD-nak megfelelő, forintban vagy külföldi fizetési eszközben (devizában) kifejezett összeget, a VII/C. pontban meghatározott számlaösszesítési és deviza-átváltási szabályok alkalmazásával.
 
 6. Korlátozott Részvételű Nyugdíjalap: olyan Magyarországon létrehozott alap, amely öregségi nyugdíjat, rokkantsági ellátást vagy haláleseti juttatást biztosít jelenlegi vagy volt munkavállalók (vagy a munkavállalók által kijelölt magánszemélyek) mint kedvezményezettek számára, e munkavállalók által a munkáltatójuknak nyújtott szolgáltatásoknak megfelelően, feltéve, hogy:
 
@@ -1188,7 +1246,7 @@ be) biztosításidíj-előleg vagy biztosításidíj-letét visszatérítése ol
 
 9. Meglévő Pénzügyi Számla:
 
-a) a Jelentő Magyar Pénzügyi Intézménynél vezetett, 2015. december 31-én már meglévő Pénzügyi Számla;
+a) a Jelentő Magyar Pénzügyi Intézménynél vezetett, 2015. december 31-én vagy azon más államok esetében, amelyek a Megállapodást kihirdető törvény 1. számú mellékletébe 2017. január 1-jei vagy azt követő hatállyal kerülnek be, a mellékletbe való bekerülés évét megelőző adóév utolsó napján már meglévő Pénzügyi Számla;
 
 b) bármely Számlatulajdonos bármely Pénzügyi Számlája, a számlanyitás dátumától függetlenül, feltéve, ha:
 
@@ -1200,7 +1258,7 @@ bc) olyan Pénzügyi Számla esetében, amelyre vonatkozóan el kell végezni a 
 
 bd) a Pénzügyi Számla nyitása nem kívánja meg, hogy a Számlatulajdonos – az e melléklet alkalmazásában közlendő adatokon túl – új, kiegészítő vagy módosított ügyfél-információkat adjon meg.
 
-10. Új Számla: a Jelentő Magyar Pénzügyi Intézménynél vezetett, 2016. január 1-jén vagy azt követően nyitott Pénzügyi Számla, amely a C/9. pont b) alpontja alapján nem minősül Meglévő Számlának.
+10. Új Számla: a Jelentő Magyar Pénzügyi Intézménynél vezetett, 2016. január 1-jén vagy azt követően nyitott Pénzügyi Számla, amely a C/9. pont b) alpontja alapján nem minősül Meglévő Számlának. Azon más államok esetében, amelyek a Megállapodást kihirdető törvény 1. számú mellékletébe 2017. január 1-jei vagy azt követő hatállyal kerülnek be, a mellékletbe való bekerülés adóévének 1. napján vagy azt követően nyitott Pénzügyi Számla, amely a C/9. pont b) alpontja alapján nem minősül Meglévő Számlának.
 
 11. Meglévő Egyéni Számla: olyan Meglévő Számla, amelynek Számlatulajdonosa egy vagy több magánszemély.
 
@@ -1208,9 +1266,9 @@ bd) a Pénzügyi Számla nyitása nem kívánja meg, hogy a Számlatulajdonos �
 
 13. Meglévő Jogalanyi Számla: olyan Meglévő Számla, amelynek Számlatulajdonosa egy vagy több Jogalany.
 
-14. Alacsonyabb Értékű Számla: olyan, Magánszemély tulajdonában lévő Meglévő Számla, amelynek összesített egyenlege vagy értéke 2015. december 31-én nem haladja meg az 1 000 000 USD-nak megfelelő, forintban vagy külföldi fizetési eszközben (devizában) kifejezett összeget.
+14. Alacsonyabb Értékű Számla: olyan, Magánszemély tulajdonában lévő Meglévő Számla, amelynek összesített egyenlege vagy értéke 2015. december 31-én vagy azon más államok esetében, amelyek a Megállapodást kihirdető törvény 1. számú mellékletébe 2017. január 1-jei vagy azt követő hatállyal kerülnek be, a mellékletbe való bekerülés évét megelőző adóév utolsó napján nem haladja meg az 1 000 000 USD-nak megfelelő, forintban vagy külföldi fizetési eszközben (devizában) kifejezett összeget.
 
-15. Magas Értékű Számla: olyan, Magánszemély tulajdonában lévő meglévő számla, amelynek összesített egyenlege vagy értéke 2015. december 31-én vagy azt követően bármely adóév utolsó napján meghaladja az 1 000 000 USD-nak megfelelő, forintban vagy külföldi fizetési eszközben (devizában) kifejezett összeget.
+15. Magas Értékű Számla: olyan, Magánszemély tulajdonában lévő meglévő számla, amelynek összesített egyenlege vagy értéke 2015. december 31-én vagy azt követően bármely adóév utolsó napján, illetve azon más államok esetében, amelyek a Megállapodást kihirdető törvény 1. számú mellékletébe 2017. január 1-jei vagy azt követő hatállyal kerülnek be, a mellékletbe való bekerülés évét megelőző adóév utolsó napján vagy azt követően bármely adóév utolsó napján meghaladja az 1 000 000 USD-nak megfelelő, forintban vagy külföldi fizetési eszközben (devizában) kifejezett összeget.
 
 16. Új Jogalanyi Számla: olyan Új számla, amelynek Számlatulajdonosa egy vagy több Jogalany.
 
@@ -1264,11 +1322,11 @@ ea) bírósági végzés vagy ítélet, továbbá hatósági döntés;
 
 eb) ingatlan vagy személyes vagyontárgy értékesítése, cseréje vagy bérbeadása, feltéve, ha a számla megfelel az alábbi követelményeknek:
 
-eba) a számlára kizárólag a következők kerülnek: az ügylethez közvetlenül kapcsolódó kötelezettség teljesítéséhez szükséges foglaló, előleg vagy letét, vagy hasonló befizetés, illetve olyan Pénzügyi Eszköz, amelyet az ingatlan vagy vagyontárgy értékesítéséhez, cseréjéhez vagy bérbeadásához kapcsolódóan helyeznek a számlára,
+eba) a számlára kizárólag a következők kerülnek: az ügylethez közvetlenül kapcsolódó kötelezettség teljesítéséhez szükséges foglaló, előleg vagy letét, vagy hasonló befizetés, illetve olyan Pénzügyi Eszköz, amelyet az ingatlan vagy személyes vagyontárgy értékesítéséhez, cseréjéhez vagy bérbeadásához kapcsolódóan helyeznek a számlára,
 
-ebb) a számlát kizárólag azért hozták létre és arra használják, hogy biztosítsa a vásárlónak az ingatlan vagy vagyontárgy vételárának kifizetéséhez kapcsolódó kötelezettsége teljesítését, az eladó bármely függő kötelezettségének kifizetését, vagy a bérleti szerződésnek megfelelően a bérelt ingatlanhoz vagy vagyontárgyhoz kapcsolódó bármely kárból eredő kártérítési kötelezettségnek a bérbeadó vagy a bérlő általi teljesítését,
+ebb) a számlát kizárólag azért hozták létre és arra használják, hogy biztosítsa a vásárlónak az ingatlan vagy személyes vagyontárgy vételárának kifizetéséhez kapcsolódó kötelezettsége teljesítését, az eladó bármely függő kötelezettségének kifizetését, vagy a bérleti szerződésnek megfelelően a bérelt ingatlanhoz vagy vagyontárgyhoz kapcsolódó bármely kárból eredő kártérítési kötelezettségnek a bérbeadó vagy a bérlő általi teljesítését,
 
-ebc) a számlán lévő eszközöket (ideértve az azokból származó jövedelmet is) a vevő, az eladó, a bérbeadó vagy a bérlő javára fizetik ki vagy más módon írják jóvá (ideértve az említett személyek kötelezettségeinek teljesítését is), az ingatlan vagy vagyontárgy eladása, cseréje, a bérleti szerződés felmondása vagy megszűnése időpontjában,
+ebc) a számlán lévő eszközöket (ideértve az azokból származó jövedelmet is) a vevő, az eladó, a bérbeadó vagy a bérlő javára fizetik ki vagy más módon írják jóvá (ideértve az említett személyek kötelezettségeinek teljesítését is), az ingatlan vagy személyes vagyontárgy eladása, cseréje, a bérleti szerződés felmondása vagy megszűnése időpontjában,
 
 ebd) a számla nem Pénzügyi Eszköz eladásával vagy cseréjével összefüggésben létrehozott tőkeáttételes kereskedési számla vagy hasonló számla, és
 
@@ -1322,7 +1380,7 @@ ca) amellyel az Európai Uniónak olyan hatályos megállapodása van, amelynek 
 
 cb) amely szerepel az Európai Bizottság által közzétett jegyzékben.
 
-5. Ellenőrzést gyakorló személy: olyan természetes személy, aki ellenőrzést gyakorol egy Jogalany felett. Bizalmi vagyonkezelés esetében ez a fogalom a vagyonrendelőt, a vagyonkezelőt, a védnököt (ha van ilyen), a kedvezményezettet vagy a kedvezményezettek csoportját, illetve bármely más természetes személyt jelent, aki vagy amely a vagyon felett tényleges ellenőrzést gyakorol. A fentiektől eltérő jogi forma esetén Ellenőrzést gyakorló személynek az egyenértékű vagy hasonló felelősségi körbe tartozó személyek minősülnek. Az Ellenőrzést gyakorló személy fogalmát a Pénzügyi Akció Munkacsoport ajánlásaival összhangban kell értelmezni.
+5. Ellenőrzést gyakorló személy: olyan természetes személy, aki ellenőrzést gyakorol egy Jogalany felett. Bizalmi vagyonkezelési szerződés esetében ez a fogalom a vagyonrendelőt, a vagyonkezelőt, a védnököt (ha van ilyen), a kedvezményezettet vagy a kedvezményezettek csoportját, illetve bármely más természetes személyt jelent, aki vagy amely a vagyon felett tényleges ellenőrzést gyakorol. A fentiektől eltérő jogi forma esetén Ellenőrzést gyakorló személynek az egyenértékű vagy hasonló felelősségi körbe tartozó személyek minősülnek. Az Ellenőrzést gyakorló személy fogalmát a Gazdasági Együttműködési és Fejlesztési Szervezet (OECD) Pénzügyi Akció Munkacsoport ajánlásaival összhangban kell értelmezni.
 
 6. Nem Pénzügyi Jogalany: olyan Jogalany, amely nem Pénzügyi Intézmény.
 
@@ -1408,7 +1466,7 @@ Ha a vagyonkezelői alapnak nem minősülő Pénzügyi Intézmény két vagy tö
   - b) Betéti Számla esetében az a Pénzügyi Intézmény, amely a számla tekintetében kifizetéseket teljesít (kivéve a Pénzügyi Intézmény megbízottját, függetlenül attól, hogy maga a megbízott Pénzügyi Intézmény-e).
   - c) Pénzügyi Intézményben fennálló Tőkerészesedés vagy Pénzügyi Intézmény által kibocsátott hitelviszonyt megtestesítő értékpapír esetében – ha a részesedés vagy értékpapír Pénzügyi Számlának tekintendő – a Pénzügyi Intézmény.
   - d) Visszavásárlási értékkel rendelkező Biztosítási Szerződés vagy Járadékbiztosítási Szerződés esetében az a Pénzügyi Intézmény, amely a szerződés alapján a kifizetéseket teljesíti.
-- 5. Passzív Nem Pénzügyi Jogalanynak minősülő vagyonkezelői alap Az adóügyi illetőséggel nem rendelkező Jogalanyt (különösen gazdasági társaságot, polgári jogi társasági szerződést vagy hasonló jogi megállapodást) az 1. melléklet VIII/D/3. pontja alapján a tényleges irányításának a helye szerinti joghatóság területén illetőséggel rendelkezőnek kell tekinteni. E rendelkezés alkalmazásában egy jogi személy vagy jogi megállapodás akkor tekintendő gazdasági társasághoz vagy polgári jogi társasági szerződéshez hasonlónak, ha egy tagállam vagy más állam adóügyi jogszabályainak értelmében az adott tagállamban vagy más államban nem tekintendő adóalanynak. A kétszeres adatszolgáltatás elkerülése érdekében azonban (tekintettel arra, hogy vagyonkezelői alapok esetében az Ellenőrzést gyakorló személy fogalma tágan értelmezhető) a Passzív Nem Pénzügyi Jogalanynak minősülő vagyonkezelői alapok nem tekinthetők hasonló jogi megállapodásnak.
-- 6. A Jogalany székhelyének címe Az 1. melléklet VIII/E/6. c) pontjában előírt követelmények egyike szerint egy Jogalany hivatalos dokumentációjának tartalmaznia kell vagy a Jogalany abban a tagállamban, más államban vagy joghatósággal rendelkező területen lévő székhelyének a címét, ahol a Jogalany állítása szerint adóügyi illetőséggel bír, vagy annak a tagállamnak, más államnak vagy joghatósággal rendelkező területnek a megnevezését, ahol a Jogalanyt bejegyezték vagy alapították. A Jogalany székhelyének címe általában az a hely, ahol a Jogalany tényleges üzletvezetésének a helye található. Nem tekinthető a Jogalany székhelyének annak a Pénzügyi Intézménynek a címe, amelynél a Jogalany számlát tart fenn, illetve a postafiók vagy a kizárólag levelezési célokat szolgáló cím, kivéve, ha ez a Jogalany által használt egyetlen cím, és a Jogalany létesítő okiratában a Jogalany bejegyzett címeként jelenik meg. Nem tekinthető végül a Jogalany székhelyének az olyan cím, amelyre vonatkozóan „postán maradó” megbízás van érvényben.
+- 5. Passzív Nem Pénzügyi Jogalanynak minősülő vagyonkezelői alap Az adóügyi illetőséggel nem rendelkező Jogalanyt (különösen gazdasági társaságot, polgári jogi társasági szerződést vagy hasonló jogi megállapodást) az 1. melléklet VIII/D/3. pontja alapján a tényleges üzletvezetésének helye szerinti joghatóság területén illetőséggel rendelkezőnek kell tekinteni. E rendelkezés alkalmazásában egy jogi személy vagy jogi megállapodás akkor tekintendő gazdasági társasághoz vagy polgári jogi társasági szerződéshez hasonlónak, ha egy tagállam vagy más állam adóügyi jogszabályainak értelmében az adott tagállamban vagy más államban nem tekintendő adóalanynak. A kétszeres adatszolgáltatás elkerülése érdekében azonban (tekintettel arra, hogy vagyonkezelői alapok esetében az Ellenőrzést gyakorló személy fogalma tágan értelmezhető) a Passzív Nem Pénzügyi Jogalanynak minősülő vagyonkezelői alapok nem tekinthetők hasonló jogi megállapodásnak.
+- 6. A Jogalany székhelyének címe Az 1. melléklet VIII/E/6. c) pontjában előírt követelmények egyike szerint egy Jogalany hivatalos dokumentációjának tartalmaznia kell vagy a Jogalany abban a tagállamban, más államban vagy joghatósággal rendelkező területen lévő székhelyének a címét, ahol a Jogalany nyilatkozata szerint adóügyi illetőséggel bír, vagy annak a tagállamnak, más államnak vagy joghatósággal rendelkező területnek a megnevezését, ahol a Jogalanyt bejegyezték vagy alapították. A Jogalany székhelyének címe általában az a hely, ahol a Jogalany tényleges üzletvezetésének a helye található. Nem tekinthető a Jogalany székhelyének annak a Pénzügyi Intézménynek a címe, amelynél a Jogalany számlát tart fenn, illetve a postafiók vagy a kizárólag levelezési célokat szolgáló cím, kivéve, ha ez a Jogalany által használt egyetlen cím, és a Jogalany létesítő okiratában a Jogalany bejegyzett címeként jelenik meg. Nem tekinthető végül a Jogalany székhelyének az olyan cím, amelyre vonatkozóan „postán maradó” megbízás van érvényben.
 
 ### 3. melléklet a 2013. évi XXXVII. törvényhez
