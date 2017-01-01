@@ -1267,31 +1267,7 @@ szükséges sorolni azzal, hogy e követelések a követelések arányában ker�
 
 (9) A többes ügynök az általa megbízott közvetítői alvállalkozó személyét, valamint a közvetítői alvállalkozó megbízásának megszűnését két munkanapon belül bejelenti a megbízó pénzügyi intézményének annak érdekében, hogy a pénzügyi intézmény teljesíteni tudja a 21. § (2) bekezdésében foglalt kötelezettségét.
 
-70. § (1) A független közvetítő a pénzügyi szolgáltatás közvetítését megelőzően a szolgáltatását igénybe venni szándékozó ügyfél részére írásban vagy más tartós adathordozón egyértelmű tájékoztatást ad
-
-- a) a cégnevéről, székhelyéről, levelezési címéről és felügyeleti hatóságának megjelöléséről,
-- b) a felügyeleti nyilvántartásról, amelyben szerepel, és annak módjáról, ahogyan nyilvántartását ellenőrizni lehet,
-- c) arról, hogy a tevékenysége során okozott kárért az ügyfél felé ki áll helyt,
-- d) arról, hogy többes kiemelt közvetítőként, többes ügynökként a pénzügyi intézmény megbízásából jár el a pénzügyi intézmény vagy a pénzügyi intézmények nevének feltüntetésével vagy alkuszként a pénzügyi szolgáltatást igénybe venni szándékozó ügyfél megbízásából jár el,
-- e) arról, hogy nyújt-e hiteltanácsadást,
-- f) arról, hogy a pénzügyi szolgáltatás közvetítéséért közvetítői díjat kizárólag a megbízótól fogadhat el,
-- g) többes kiemelt közvetítőként és többes ügynökként arról, hogy a megbízó pénzügyi intézménytől kap-e közvetítői díjat és
-  - ga) ha ismert, annak összegéről,
-  - gb) ha nem ismert a tájékoztatás időpontjában, jelzáloghitel közvetítése esetén arról, hogy a tényleges díj a személyre szóló tájékoztatóban fog szerepelni,
-- h) alkuszként a fogyasztó által fizetendő közvetítői díjról, ha annak megadása másként nem lehetséges a díj kiszámításának módjáról, valamint
-- i) adott esetben a közvetítővel kapcsolatos panasz kezeléséről, valamint fogyasztó esetében a Pénzügyi Békéltető Testület eljárásának igénybevételére vonatkozó lehetőségről.
-
-(2)
-
-(3) Pénzügyi intézménytől díjazásban részesülő független közvetítő a fogyasztó kérésére tájékoztatást ad arról, hogy mennyiben tér el egymástól a fogyasztónak kínált hiteleket nyújtó pénzügyi intézmények által fizetendő díjazás mértéke. A fogyasztót tájékoztatni kell arról, hogy jogosult ilyen információt kérni.
-
-71. § (1) A független közvetítő – ide nem értve az alkuszt – a pénzügyi szolgáltatási szerződés megkötésének elősegítése során az ügyfélnek kielégítő mennyiségű, de – ha a piacon hozzáférhető – legalább három szolgáltató versengő szolgáltatásnak minősülő ajánlatát elemzi és átadja. Ha kizárólag kettő versengő szolgáltatást közvetít, akkor kettő ajánlatot elemez és ad át.
-
-(2) A pénzügyi szolgáltatás közvetítését megelőzően a független közvetítő az ügyfél tájékoztatása alapján felméri az ügyfél igényeit és szükségleteit, valamint azokat az indokokat, amelyek a független közvetítő által e tevékenységével összefüggésben adott tanácsot alátámasztják.
-
-(3) Az alkusz a pénzügyi szolgáltatás megkötésének elősegítése során feltár és elemez minden olyan lehetséges ajánlatot, amely az ügyfél céljainak elérésére alkalmas.
-
-(4) A többes ügynök és az alkusz felelős a téves tanácsadásért, az iratok és a nyilatkozatok késedelmes továbbításáért.
+#### 70–71. §
 
 #### 30. Függő közvetítő
 
@@ -1303,16 +1279,7 @@ szükséges sorolni azzal, hogy e követelések a követelések arányában ker�
 
 (3a) A (3) bekezdés vonatkozásában közvetítői díjnak kell tekinteni minden olyan pénzben vagy természetben juttatott további térítést, amelyet a közvetítő vagy a közvetítővel kapcsolatban álló harmadik személy a pénzügyi szolgáltatást nyújtó személytől, pénzügyi szolgáltatást nyújtó személy felett ellenőrző befolyással rendelkező személytől vagy az utóbbi ellenőrző befolyása alatt álló más személytől kap bármely pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási, befektetési szolgáltatási és kiegészítő befektetési szolgáltatási tevékenységnek nem minősülő jogviszony alapján, ide nem értve, ha a közvetítő és a pénzügyi szolgáltatást nyújtó személy között ellenőrző befolyásnak minősülő kapcsolat áll fenn, vagy mindketten ugyanazon pénzügyi intézmény ellenőrző befolyása alatt állnak.
 
-(4) A függő közvetítő a pénzügyi szolgáltatás közvetítését megelőzően az ügyfél részére írásban vagy más tartós adathordozón tájékoztatást ad:
-
-- a) a cégnevéről, székhelyéről, levelezési címéről és felügyeleti hatóságának megjelöléséről,
-- b) a felügyeleti nyilvántartásról, amelyben szerepel és annak módjáról, ahogyan nyilvántartását ellenőrizni lehet,
-- c) arról, hogy függő közvetítőként a megbízó nevében és javára jár el, a megbízó érdekeit képviseli a pénzügyi intézmény nevének feltüntetésével,
-- d) arról, hogy a pénzügyi szolgáltatási szerződés megkötéséért közvetítői díjazásban részesül és
-  - da) ha ismert annak összegéről,
-  - db) ha nem ismert a tájékoztatás időpontjában, jelzáloghitel közvetítése esetén arról, hogy a tényleges díj a személyre szóló tájékoztatóban fog szerepelni,
-- e) arról, hogy nyújt-e hiteltanácsadást, valamint
-- f) a közvetítővel kapcsolatos panasz kezeléséről, valamint fogyasztó esetében a Pénzügyi Békéltető Testület eljárásának igénybevételére vonatkozó lehetőségről.
+(4)
 
 (5) A függő ügynök az általa megbízott közvetítői alvállalkozó személyét, valamint a közvetítői alvállalkozó megbízásának megszűnését két munkanapon belül bejelenti a megbízó pénzügyi intézménynek annak érdekében, hogy a pénzügyi intézmény teljesíteni tudja a 21. § (2) bekezdésében foglalt kötelezettségét.
 
@@ -2760,10 +2727,10 @@ az államháztartásért felelős miniszter és a pénz-, tőke- és biztosítá
 - f) a külön törvényben meghatározott feltételek megléte esetén a titkosszolgálati eszközök alkalmazására, titkos információgyűjtésre felhatalmazott szervvel,
 - g) a főigazgató eseti engedélye alapján a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálattal,
 - h) az adó-, vám- és egészségbiztosítási, nyugdíjbiztosítási igazgatási kötelezettség teljesítésének ellenőrzése, valamint az ilyen tartozást megállapító végrehajtható okirat végrehajtása, továbbá a jogalap nélkül felvett ellátás összegének megtérülése érdekében eljáró adóhatósággal, vámhatósággal, illetve egészségbiztosítási szervvel, nyugdíjbiztosítási igazgatási szervvel,
-- i) bírósági végrehajtási eljárásban és a bírósági végrehajtó által lefolytatott közigazgatási végrehajtási eljárásban – ideértve a bírósági végrehajtásról szóló 1994. évi LIII. törvény 79/C. § (2) bekezdése alapján a közös számla nem adós tulajdonosának nevére és címére vonatkozó megkeresést is – eljáró végrehajtóval, valamint a bírósági végrehajtási eljárásba a lakáscélú állami támogatásokról szóló kormányrendeletek alapján bekapcsolódni szándékozó fővárosi és megyei kormányhivatallal,
+- i) bírósági végrehajtási eljárásban és a bírósági végrehajtó által lefolytatott közigazgatási végrehajtási eljárásban – ideértve a bírósági végrehajtásról szóló 1994. évi LIII. törvény 79/C. § (2) bekezdése alapján a közös számla nem adós tulajdonosának nevére és címére vonatkozó megkeresést is – eljáró végrehajtóval, valamint a bírósági végrehajtási eljárásba a lakáscélú állami támogatásokról szóló kormányrendeletek alapján bekapcsolódni szándékozó lakáscélú állami támogatások ügyében eljáró szervvel,
 - j) a feladatkörében eljáró alapvető jogok biztosával,
 - k) a pénzügyi közvetítőrendszer stabilitásáról szóló törvény szerinti feladatkörében eljáró államháztartásért felelős miniszterrel, a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszterrel és az Európai Unió működéséről szóló szerződés 107. cikk hatálya alá tartozó állami támogatások – az Európai Unió működéséről szóló szerződésben szereplő mezőgazdasági termékek előállításához és kereskedelméhez nyújtott támogatások és az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott támogatások, valamint jogszabályban más miniszter feladatkörébe utalt támogatások kivételével – versenyszempontú ellenőrzésének hazai koordinálásáért felelős miniszterrel,
-- l) a lakáscélú támogatások igénybevételének és felhasználásának jogszerűsége céljából feladatkörében ellenőrzést végző fővárosi és megyei kormányhivatallal, kincstárral, lakásgazdálkodásért és lakáspolitikáért felelős miniszterrel, valamint pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszterrel, továbbá a jogalap nélkül felvett fogyatékossági támogatás összegének megtérülése érdekében eljáró fővárosi és megyei kormányhivatallal,
+- l) a lakáscélú támogatások igénybevételének és felhasználásának jogszerűsége céljából feladatkörében ellenőrzést végző lakáscélú állami támogatások ügyében eljáró szervvel, kincstárral, lakásgazdálkodásért és lakáspolitikáért felelős miniszterrel, valamint pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszterrel, továbbá a jogalap nélkül felvett fogyatékossági támogatás összegének megtérülése érdekében eljáró lakáscélú állami támogatások ügyében eljáró szervvel,
 - m) a feladatkörében eljáró Nemzeti Adatvédelmi és Információszabadság Hatósággal,
 - n) a Magyar Könyvvizsgálói Kamara által a pénzügyi intézménynél működő vagy volt könyvvizsgálója ellen indított fegyelmi eljárás keretében a Magyar Könyvvizsgálói Kamarával,
 - o) a feladatkörében eljáró kormányzati ellenőrzési szervvel,
@@ -2917,7 +2884,7 @@ szükséges.
 
 (5) Ha a Felügyelet azt állapítja meg, hogy a hitelintézet által a tőkekövetelmény számításra alkalmazott belső módszer indokolatlanul jelentősen alulbecsüli a tőkekövetelmény mértékét, akkor a Felügyelet kötelezheti a hitelintézetet a belső módszer módszertanának vagy az egyes paramétereknek a megváltoztatására.
 
-168. § A pénzügyi intézmény és magyarországi fióktelepe és a kiegészítő pénzügyi szolgáltatást végző egyéb jogi személy – jogszabályban meghatározott tartalommal, módon és formában, rendszeres időközönként – a Felügyeletnek adatszolgáltatást teljesít.
+168. § A pénzügyi intézmény és magyarországi fióktelepe, a kiegészítő pénzügyi szolgáltatást végző egyéb jogi személy, valamint a független közvetítő – ide nem értve a 69. § (7) bekezdésében meghatározott tevékenységet végző független közvetítőt – jogszabályban meghatározott tartalommal, módon és formában, rendszeres időközönként adatszolgáltatást teljesít a Felügyeletnek.
 
 169. § A pénzügyi intézmény számára a Felügyelet – határozott időre – az általa meghatározott tartalommal és rendszerességgel történő olyan (rendkívüli) adatszolgáltatási kötelezettséget írhat elő, amelyet
 
@@ -4482,6 +4449,8 @@ rendelkezhet.
 - b) az ügyfelek számára ajánlott pénzügyi és kiegészítő pénzügyi szolgáltatásokkal (ügyletekkel) kapcsolatos szerződési feltételeket,
 - c) a kamatokat, szolgáltatási díjakat, az ügyfelet terhelő egyéb költségeket, a késedelmi kamatokat, valamint a kamatszámítás módszerét.
 
+(1a) Ha az általános szerződési feltételt is tartalmazó üzletszabályzat, valamint bármely egyéb szabályzat módosítása fogyasztóval már megkötött szerződést is érint, a pénzügyi intézmény az internetes honlapján könnyen elérhető módon legalább 5 évig a módosítást megelőzően hatályos üzletszabályzatát, valamint egyéb szabályzatát is hozzáférhetővé teszi. Ha a pénzügyi intézmény nem rendelkezik internetes honlappal, a korábban hatályos üzletszabályzathoz, valamint egyéb szabályzathoz történő hozzáférést az ügyfélfogadásra nyitva álló helyiségében biztosítja.
+
 (2) A pénzügyi intézmény az ügyfél kérésére ingyenesen rendelkezésre bocsátja
 
 - a) üzletszabályzatait, és
@@ -4621,43 +4590,13 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 288. § (1) A pénzügyi intézmény és a független közvetítő biztosítja, hogy az ügyfél a pénzügyi intézmény és a független közvetítő magatartására, tevékenységére vagy mulasztására vonatkozó panaszát szóban (személyesen, telefonon) vagy írásban (személyesen vagy más által átadott irat útján, postai úton, telefaxon, elektronikus levélben) közölhesse.
 
-(2) A pénzügyi intézmény és a független közvetítő
+(2) Telefonon történő panaszkezelés esetén a pénzügyi intézmény, független közvetítő és az ügyfél közötti telefonos kommunikációt a pénzügyi intézmény hangfelvétellel rögzíti, és a hangfelvételt öt évig megőrzi. Erről az ügyfelet a telefonos ügyintézés kezdetekor tájékoztatni kell. Az ügyfél kérésére biztosítani kell a hangfelvétel visszahallgatását, továbbá térítésmentesen tizenöt napon belül rendelkezésre kell bocsátani a hangfelvételről készített hitelesített jegyzőkönyvet.
 
-- a) a szóbeli panaszt valamennyi, az ügyfelek számára nyitva álló helyiségben, annak nyitvatartási idejében, ennek hiányában a székhelyén minden munkanapon 8 órától 16 óráig,
-- b) a telefonon közölt szóbeli panaszt minden munkanapon és legalább a hét egy munkanapján 8 órától 20 óráig,
-- c) elektronikus eléréssel – üzemzavar esetén megfelelő más elérhetőséget biztosítva – az írásbeli panaszt folyamatosan fogadja.
+(3) A pénzügyi intézmény és a független közvetítő a panaszt és az arra adott választ öt évig őrzi meg, és azt a Felügyelet kérésére bemutatja.
 
-(3) Telefonon történő panaszkezelés esetén a pénzügyi intézmény biztosítja az ésszerű várakozási időn belüli hívásfogadást és ügyintézést.
+(4) A pénzügyi intézmény és a független közvetítő a panasz kivizsgálásáért a fogyasztóval szemben külön díjat nem számíthat fel.
 
-(4) Telefonon történő panaszkezelés esetén a pénzügyi intézmény, független közvetítő és az ügyfél közötti telefonos kommunikációt a pénzügyi intézmény hangfelvétellel rögzíti, és a hangfelvételt öt évig megőrzi. Az ügyfél kérésére biztosítani kell a hangfelvétel visszahallgatását, továbbá térítésmentesen tizenöt napon belül rendelkezésre kell bocsátani a hangfelvételről készített hitelesített jegyzőkönyvet.
-
-(5) A pénzügyi intézmény és a független közvetítő a szóbeli panaszt – a (6) bekezdésben meghatározott kivétellel – azonnal megvizsgálja, és szükség szerint orvosolja. Ha az ügyfél a panasz kezelésével nem ért egyet, a pénzügyi intézmény és a független közvetítő a panaszról és az azzal kapcsolatos álláspontjáról jegyzőkönyvet vesz fel, és annak egy másolati példányát a személyesen közölt szóbeli panasz esetén az ügyfélnek átadja, telefonon közölt szóbeli panasz esetén az ügyfélnek – a (7) bekezdésben foglaltakkal egyidejűleg – megküldi, egyebekben az írásbeli panaszra vonatkozó rendelkezések szerint jár el.
-
-(6) Ha a panasz azonnali kivizsgálása nem lehetséges, a pénzügyi intézmény és a független közvetítő a panaszról jegyzőkönyvet vesz fel, és annak egy másolati példányát a személyesen közölt szóbeli panasz esetén az ügyfélnek átadja, telefonon közölt szóbeli panasz esetén az ügyfélnek – a (7) bekezdésben foglaltakkal egyidejűleg – megküldi, egyebekben az írásbeli panaszra vonatkozó rendelkezések szerint jár el.
-
-(7) A pénzügyi intézmény és a független közvetítő az írásbeli panasszal kapcsolatos, indokolással ellátott álláspontját a panasz közlését követő 30 napon belül megküldi az ügyfélnek. A pénzügyi intézmény és a független közvetítő a panaszkezelés során köteles úgy eljárni, hogy a körülmények által adott lehetőségekhez mérten elkerülje a pénzügyi fogyasztói jogvita kialakulását.
-
-(8) A panasz elutasítása esetén a pénzügyi intézmény és független közvetítő válaszában tájékoztatja az ügyfelet arról, hogy az MNB tv. szerinti fogyasztóvédelmi rendelkezések megsértése esetén a Felügyeletnél fogyasztóvédelmi eljárást kezdeményezhet, vagy a szerződés létrejöttével, érvényességével, joghatásaival és megszűnésével, továbbá a szerződésszegéssel és annak joghatásaival kapcsolatos jogvita esetén bírósághoz fordulhat, vagy a Pénzügyi Békéltető Testület eljárását kezdeményezheti, amennyiben a Pénzügyi Békéltető Testület eljárására vonatkozó szabályok alapján fogyasztónak minősül. A pénzügyi intézménynek vagy független közvetítőnek tájékoztatnia kell e fogyasztót arról, hogy tett-e általános alávetési nyilatkozatot, meg kell adnia a Pénzügyi Békéltető Testület székhelyét, telefonos és internetes elérhetőségét, valamint a levelezési címét, továbbá a fogyasztó külön kérésére meg kell küldenie a Pénzügyi Békéltető Testület által készített és a pénzügyi intézmény, független közvetítő rendelkezésére bocsátott kérelem nyomtatványt.
-
-(9) A pénzügyi intézmény és a független közvetítő a panaszt és az arra adott választ öt évig őrzi meg, és azt a Felügyelet kérésére bemutatja.
-
-(10) A pénzügyi intézmény és a független közvetítő az ügyfelek panaszai hatékony, átlátható és gyors kezelésének eljárásáról, a panaszügyintézés módjáról, valamint a (13) bekezdés szerinti nyilvántartás vezetésének szabályairól szabályzatot (a továbbiakban: panaszkezelési szabályzat) készít. A pénzügyi intézmény és a független közvetítő a panaszkezelési szabályzatban tájékoztatja az ügyfelet a panaszügyintézés helyéről, levelezési címéről, elektronikus levelezési címéről, telefonszámáról és telefaxszámáról.
-
-(11) A pénzügyi intézmény és a független közvetítő az ügyfelek panaszairól, valamint az azok rendezését, megoldását szolgáló intézkedésekről nyilvántartást vezet.
-
-(12) A (11) bekezdés szerinti nyilvántartás tartalmazza
-
-- a) a panasz leírását, a panasz tárgyát képező esemény vagy tény megjelölését,
-- b) a panasz benyújtásának időpontját,
-- c) a panasz rendezésére vagy megoldására szolgáló intézkedés leírását, elutasítás esetén annak indokát,
-- d) a c) pont szerinti intézkedés teljesítésének határidejét és a végrehajtásért felelős személy megnevezését, továbbá
-- e) a panasz megválaszolásának időpontját.
-
-(13) A pénzügyi intézmény és a független közvetítő a panaszkezelési szabályzatot a honlapján közzéteszi és az ügyfelek számára nyitva álló helyiségében, ennek hiányában a székhelyén kifüggeszti.
-
-(14) A pénzügyi intézmény és a független közvetítő a panasz kivizsgálásáért a fogyasztóval szemben külön díjat nem számíthat fel.
-
-(15) A pénzügyi intézmény és a független közvetítő fogyasztóvédelmi ügyekben fogyasztóvédelmi ügyekért felelős kapcsolattartót kijelöli, és a Felügyeletnek 15 napon belül a felelős személyét, illetve annak változását írásban bejelenti.
+(5) A pénzügyi intézmény és a független közvetítő fogyasztóvédelmi ügyekben fogyasztóvédelmi ügyekért felelős kapcsolattartót kijelöli, és a Felügyeletnek 15 napon belül a felelős személyét, illetve annak változását írásban bejelenti.
 
 #### 126/A. A FATCA-törvény alapján fennálló kötelezettségek
 
@@ -4702,7 +4641,8 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 - f) a közvetítői díj meghatározásának és kifizetésének módjára, időbeli ütemezésére,
 - g) a 2012. április 1-je előtt hatályos 1996. évi CXII. törvény 210/A. §-ában meghatározott szerződésekben előírt kamat a pénzügyi intézmény általi, az ügyfél számára kedvezőtlen egyoldalú módosításának eseteire, feltételeire és módjára,
 - h) a javadalmazási politikának az érintett hitelintézet mérete, tevékenységének jellege, köre és jogi formájából eredő sajátossága figyelembevételével történő alkalmazására
-- i) az alapszámlához való hozzáférésre, az alapszámla jellemzőire, valamint díjára
+- i) az alapszámlához való hozzáférésre, az alapszámla jellemzőire, valamint díjára,
+- j) a pénzügyi intézmények és a független közvetítők panaszkezelésének eljárására, valamint a panaszkezelési szabályzatára
 
 vonatkozó részletes szabályokat.
 

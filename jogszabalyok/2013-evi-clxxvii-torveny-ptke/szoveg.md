@@ -89,11 +89,11 @@ elrendelt – cselekvőképességet kizáró gondnokság alá helyezésről szó
 
 ### (A Ptk. 3:1–3:48. §-ához, 3:63–3:87. §-ához és 3:378–3:404. §-ához)
 
-11. § (1) A Ptk. hatálybalépésekor nyilvántartásba bejegyzett, illetve a 9. § (1) bekezdése szerint bejegyzés alatt álló egyesület és alapítvány 2017. március 15. napjáig köteles a létesítő okiratának mindazon rendelkezését felülvizsgálni és szükség szerint módosítani, amelyek nem felelnek meg a Ptk. szabályainak. Egyesület esetében nem kell módosítani az alapszabályt abból az okból, hogy az tartalmazza az egyesület alapító tagjainak nevét, és azok lakóhelyét vagy székhelyét.
+11. § (1) A Ptk. hatálybalépésekor nyilvántartásba bejegyzett, illetve a 9. § (1) bekezdése szerint bejegyzés alatt álló egyesület és alapítvány a 2017. január 1-jét követő első létesítő okirat módosítással együtt köteles a létesítő okiratának mindazon rendelkezését felülvizsgálni és szükség szerint módosítani, amelyek nem felelnek meg a Ptk. szabályainak. Egyesület esetében nem kell módosítani az alapszabályt abból az okból, hogy az tartalmazza az egyesület alapító tagjainak nevét és azok lakóhelyét vagy székhelyét.
 
 (2) Az egyesület és az alapítvány a létesítő okiratát a Ptk.-val összefüggésben nem köteles módosítani, ha az csak abból az okból volna szükséges, hogy abban olyan hivatkozások, utalások és elnevezések szerepelnek, amelyek a Ptk. és a létesítő okirat tartalmát érintő más törvény rendelkezéseinek már nem felelnek meg. Ha azonban a létesítő okirat egyéb okból módosul, a szervezet az ilyen változásokat is köteles azon átvezetni.
 
-(3) Az (1) bekezdés szerinti egyesület és alapítvány a létesítő okirata (1) bekezdés szerinti módosításának bírósági nyilvántartásba vételét, legkésőbb azonban 2017. március 15. napját követően csak a Ptk. rendelkezéseinek megfelelő létesítő okirat alapján és a Ptk. rendelkezéseinek megfelelően működhet.
+(3) Az (1) bekezdés szerinti egyesületnek és alapítványnak a létesítő okirata (1) bekezdés szerinti módosításának napjától a Ptk. rendelkezéseit kell alkalmaznia.
 
 (4) A létesítő okirat – a Ptk. rendelkezéseinek megfelelő – módosítását változásbejegyzési kérelemként kell benyújtani a bírósághoz.
 
@@ -489,3 +489,7 @@ kell alkalmaznia [az a) és a b) pontban megjelölt időpont ezen alcím alkalma
 70. § E törvényt más jogszabályokban „Ptké.” rövidítéssel kell megjelölni.
 
 71. § E törvény 2014. március 15-én lép hatályba.
+
+### XI. Fejezet — ÁTMENETI RENDELKEZÉSEK
+
+72. § A 11. §-nak a civil szervezetek és a cégek nyilvántartásával összefüggő eljárások módosításáról és gyorsításáról szóló 2016. évi CLXXIX. törvény 35. §-ával megállapított rendelkezéseit arra az egyesületre és alapítványra kell alkalmazni, amely 2017. január 1-jéig jogerősen még nem tett eleget a civil szervezetek és a cégek nyilvántartásával összefüggő eljárások módosításáról és gyorsításáról szóló 2016. évi CLXXIX. törvény hatálybalépését megelőző napon hatályos 11. §-ban foglalt létesítő okirat módosítási kötelezettségének, ideértve azt az esetet is, ha 2017. január 1. napján a 11. § (4) bekezdés szerinti változásbejegyzési kérelme még nem került benyújtásra.

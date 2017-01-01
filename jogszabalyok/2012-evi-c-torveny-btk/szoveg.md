@@ -1004,6 +1004,8 @@ házi őrizetben töltött idő felel meg.
 
 (3) Ha a feltételes szabadságra bocsátás lehetősége nem kizárt, annak legkorábbi időpontját a legszigorúbb rendelkezés alapján kell meghatározni. Nem bocsátható feltételes szabadságra az elítélt az összbüntetésből, ha bármelyik szabadságvesztés esetén a feltételes szabadságra bocsátás lehetősége kizárt.
 
+(4) Ha azt a szabadságvesztést, amellyel kapcsolatosan az elítéltet önhibájából eredően zárták ki a feltételes szabadságra bocsátás lehetőségéből, utóbb összbüntetésbe foglalják, akkor az elítélt az összbüntetésből sem bocsátható feltételes szabadságra.
+
 96. § (1) Ha a foglalkozástól eltiltást, a járművezetéstől eltiltást, a kitiltást, a sportrendezvények látogatásától való eltiltást vagy a kiutasítást szabadságvesztés mellett szabták ki, és a szabadságvesztés büntetéseket összbüntetésbe foglalták, akkor több, azonos tartalmú foglalkozástól eltiltás, járművezetéstől eltiltás, kitiltás, sportrendezvények látogatásától való eltiltás vagy kiutasítás közül azt kell végrehajtani, amelyik az elítéltre hátrányosabb.
 
 (2) A közügyektől eltiltás mellékbüntetés nem foglalható összbüntetésbe. Több közügyektől eltiltás mellékbüntetés közül azt kell végrehajtani, amelyik a leghosszabb tartamú.

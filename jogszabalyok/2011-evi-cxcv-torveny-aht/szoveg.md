@@ -183,13 +183,13 @@ jelennek meg.
 - b) a fejezetet irányító szerv feladatait
   - ba) a központi kezelésű előirányzatok tekintetében a Kormány rendeletében meghatározott kivételekkel az államháztartásért felelős miniszter,
   - bb) az elkülönített állami pénzalap tekintetében az elkülönített állami pénzalapért felelős személy, testület,
-  - bc) a társadalombiztosítás pénzügyi alapjai tekintetében a törvényben kijelölt kezelő szerv
+  - bc)
 
 látja el.
 
 (2) A fejezetet irányító szervnek címzett hatásköröket a fejezetet irányító szerv vezetője gyakorolja.
 
-(3) A központi kezelésű előirányzat, a fejezeti kezelésű előirányzat és az elkülönített állami pénzalapok előirányzata esetében jogszabály a fejezetet irányító szerv (1) bekezdésben meghatározott feladatai ellátására – a tervezéssel, az előirányzatok módosításával, átcsoportosításával és az éves költségvetési beszámoló jóváhagyásával kapcsolatos feladatok kivételével – kezelő szervet jelölhet ki. Ha e törvény központi kezelésű előirányzat, fejezeti kezelésű előirányzat vagy elkülönített állami pénzalapok előirányzata kezelő szervéről rendelkezik, azon – kezelő szerv kijelölése hiányában – a fejezetet irányító szervet kell érteni.
+(3) A központi kezelésű előirányzat, a fejezeti kezelésű előirányzat, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai előirányzata esetében jogszabály a fejezetet irányító szerv (1) bekezdésben meghatározott feladatai ellátására – a tervezéssel, az előirányzatok módosításával, átcsoportosításával és az éves költségvetési beszámoló jóváhagyásával kapcsolatos feladatok kivételével – kezelő szervet jelölhet ki. Ha e törvény központi kezelésű előirányzat, fejezeti kezelésű előirányzat vagy elkülönített állami pénzalapok előirányzata kezelő szervéről rendelkezik, azon – kezelő szerv kijelölése hiányában – a fejezetet irányító szervet kell érteni.
 
 6/C. § (1) A helyi önkormányzat bevételeit és kiadásait a helyi önkormányzat költségvetése tartalmazza. A helyi önkormányzat bevételeivel és kiadásaival kapcsolatban a tervezési, gazdálkodási, ellenőrzési, finanszírozási, adatszolgáltatási és beszámolási feladatok ellátásáról az önkormányzati hivatal gondoskodik.
 
@@ -522,7 +522,7 @@ költségvetési bevételeit és költségvetési kiadásait.
 
 (3)
 
-21. § (1) A központi költségvetésről szóló törvényben rendkívüli kormányzati intézkedésekre szolgáló tartalékot kell képezni az év közben meghozott kormányzati döntésekből következő feladatok finanszírozására és az előirányzott, de elháríthatatlan ok miatt elmaradó költségvetési bevételek pótlására.
+21. § (1) A központi költségvetésről szóló törvényben rendkívüli kormányzati intézkedésekre szolgáló tartalékot kell képezni az év közben meghozott kormányzati döntésekből következő feladatok finanszírozására és az előirányzott, de elháríthatatlan ok miatt elmaradó költségvetési bevételek pótlására. A rendkívüli kormányzati intézkedésekre szolgáló tartalék felhasználásáról a Kormány a 33. § (2) bekezdése szerint, egyedi határozatban rendelkezik.
 
 (2) A rendkívüli kormányzati intézkedésekre szolgáló tartalék előirányzata nem lehet több a központi költségvetésről szóló törvény kiadási főösszegének 2%-ánál, és nem lehet kevesebb 0,5%-ánál.
 
@@ -530,9 +530,11 @@ költségvetési bevételeit és költségvetési kiadásait.
 
 (4) A céltartalék olyan, a központi költségvetésről szóló törvényben meghatározott költségvetési kiadási előirányzat, amely évközi kormányzati intézkedés fedezetéül szolgál, és amelynek célját és rendeltetését egyidejűleg meghatározták, azonban a költségvetési kiadási előirányzat felhasználásának fejezet, cím, alcím szerinti megoszlása a központi költségvetésről szóló törvény elfogadásakor még nem ismert.
 
+(4a) A központi költségvetésről szóló törvényben fejezeti stabilitási tartalékot kell képezni a fejezetet irányító szerv érdekkörében felmerülő okból a központi költségvetésről szóló törvényben nem szerepeltetett új feladatok, valamint az abban szerepeltetett feladatok bővítése előirányzati fedezetének biztosítására, valamint a fegyelmezett és hatékony gazdálkodás ösztönzésére. A fejezeti stabilitási tartalék felhasználásának szabályait a Kormány rendeletben állapítja meg.
+
 (5) Ha a központi költségvetésről szóló törvény – ide nem értve a fejezeti általános tartalékot – az (1)–(4) bekezdésben foglaltakon kívül más tartalék létrehozásáról rendelkezik, a központi költségvetésről szóló törvényben meg kell határozni a tartalék célját, felhasználásának módját és feltételeit.
 
-(6) A központi költségvetésről szóló törvény eltérő rendelkezése hiányában az e § szerinti tartalékok felhasználásáról a Kormány a 33. § (2) bekezdése szerint, egyedi határozatban rendelkezik.
+(6)
 
 #### 13. A központi költségvetésről szóló törvény elfogadása
 
@@ -673,11 +675,13 @@ a költségvetési évet követő három évre várható összegét.
 
 31. § (1) A központi kezelésű előirányzatok, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai költségvetési bevételi előirányzatait – és szükség szerint ezzel összhangban a költségvetési kiadási előirányzatait – módosítani kell, ha az adott költségvetési bevételre vonatkozó jogszabályi előírások év közben változnak.
 
-(2) Az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai költségvetési bevételi előirányzatait és költségvetési kiadási előirányzatait az (1) bekezdésben meghatározott eseten kívül – a 86. § (4) bekezdése szerint esetben az államháztartásért felelős miniszter hozzájárulásával – a fejezetet irányító szerv módosíthatja, ha a költségvetési bevételi előirányzatok túlteljesítése vagy a felülvizsgált és jóváhagyott előző évi költségvetési maradvány erre fedezetet biztosít.
+(2) Az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai költségvetési bevételi előirányzatait és költségvetési kiadási előirányzatait az (1) bekezdésben meghatározott eseten kívül – a 86. § (3) bekezdése szerinti esetben az Országgyűlés döntése alapján, (4) bekezdése szerinti esetben az államháztartásért felelős miniszter hozzájárulásával – a fejezetet irányító szerv módosíthatja, ha a költségvetési bevételi előirányzatok túlteljesítése vagy a felülvizsgált és jóváhagyott előző évi költségvetési maradvány erre fedezetet biztosít.
 
 (2a) A 14. § (4) bekezdés b) pontja szerinti fejezetbe sorolt központi kezelésű előirányzatok kezelő szerve mint kedvezményezett számára biztosított, a fejezet költségvetési bevételi előirányzatai javára elszámolandó európai uniós forrásból származó költségvetési támogatások összegével a fejezet költségvetési kiadási előirányzatait a fejezetet irányító szerv módosíthatja.
 
 (2b) A fejezetet irányító szerv a törvényben meghatározott kibocsátási egységek értékesítéséből származó, a központi költségvetésről szóló törvényben megtervezetten felül pénzforgalmilag teljesült bevételeknek a központi költségvetésről szóló törvényben meghatározott mértékével megnövelheti a bevétel felhasználására szolgáló kiadási előirányzatot.
+
+(2c) A 14. § (4) bekezdés b) pontja szerinti fejezetbe sorolt, ingatlanok fejlesztését, vásárlását szolgáló kiadási előirányzatokat – az ezen előirányzatok terhére finanszírozott határozott idejű programok, projektek megvalósítása érdekében – a fejezetet irányító szerv javaslata alapján az államháztartásért felelős miniszter módosíthatja.
 
 (3) Az államháztartás központi alrendszerébe tartozó költségvetési szerv és a fejezeti kezelésű előirányzat bevételi előirányzatai és kiadási előirányzatai a Kormány rendeletében foglalt esetekben módosíthatók.
 
@@ -692,7 +696,7 @@ a költségvetési évet követő három évre várható összegét.
 - g) adósságszolgálattal kapcsolatos kiadás,
 - h) a jegybanki alapkamat előző évi átlagától függő költségvetési kiadás.
 
-33. § (1) A fejezetet irányító szerv a Kormány rendeletében meghatározott esetekben a költségvetési évben a fejezeten belül új alcímet, jogcímcsoportot, jogcímet hozhat létre. Más esetben a fejezet címrendjének és a címrend alá rendezett alcímek, jogcímcsoportok módosítására, kiegészítésére a Kormány irányítása alá tartozó fejezetek esetén a Kormány, a Kormány irányítása alá nem tartozó fejezetek esetén az Országgyűlés egyedi határozatban jogosult.
+33. § (1) A fejezetet irányító szerv a Kormány rendeletében meghatározott esetekben a költségvetési évben a fejezeten belül új alcímet, jogcímcsoportot, jogcímet hozhat létre. Más esetben a fejezet címrendjének, valamint a címrend alá rendezett alcímek, jogcímcsoportok módosítására, kiegészítésére a Kormány irányítása alá tartozó fejezetek esetén a Kormány, a Kormány irányítása alá nem tartozó fejezetek esetén az Országgyűlés egyedi határozatban jogosult.
 
 (1a) Ha az Országgyűlés a központi költségvetésről szóló törvény elfogadását követően olyan központi költségvetési szervet alapított, amelynek költségvetési bevételei és költségvetési kiadásai a központi költségvetésben önálló fejezetet alkotnak, a Kormány irányítása alá tartozó fejezetek esetén a Kormány, a nem a Kormány irányítása alá tartozó fejezetek esetén az Országgyűlés egyedi határozatban jogosult a fejezetrend ezzel összefüggő kiegészítésére.
 
@@ -757,14 +761,19 @@ kerülhet sor.
 
 vállalható.
 
-(4a) A (4) bekezdés b) pontja szerinti, ötmilliárd forintot elérő vagy azt meghaladó értékű, többéves fizetési kötelezettséggel járó szerződések megkötéséhez a Kormány előzetes jóváhagyása szükséges.
+(4a) Ha a következő évre szóló központi költségvetési törvény kihirdetésre kerül, a (4) bekezdés b) pontját a fejezeti kezelésű előirányzatok esetében azzal az eltéréssel kell alkalmazni, hogy a következő évekre vállalható kötelezettségvállalás
 
-(4b) A Kormány
+- a) alapja a következő évre szóló központi költségvetési törvény kihirdetett szövegében megállapított kiadási előirányzat összege,
+- b) a tárgyévet követő évre vonatkozó mértéke a következő évre megállapított kiadási előirányzat mértékének legfeljebb száz százaléka.
+
+(4b) A (4) bekezdés b) pontja és a (4a) bekezdés szerinti, ötmilliárd forintot elérő vagy azt meghaladó értékű kötelezettségvállalás megtételéhez a Kormány előzetes jóváhagyása szükséges.
+
+(4c) A Kormány
 
 - a) egyedi határozatával az irányítása alá tartozó fejezetek tekintetében a (4) bekezdés b) pontjában és a (4a) bekezdésben meghatározott értékhatártól eltérő mértéket is megállapíthat,
 - b) – a központi költségvetésről szóló törvény eltérő rendelkezése hiányában – egyedi határozatával egyes, tárgyévi előirányzattal nem rendelkező programok, beruházások és más fejlesztések tárgyévet követő évet, éveket terhelő kötelezettségvállalásának összegszerű keretét megállapíthatja.
 
-(4c) A 49. § szerinti lebonyolító szerv számára a Kormány rendeletében meghatározottak szerinti rendelkezésre bocsátott összeg terhére – a 32. § a) pontja szerinti költségvetési kiadási előirányzatok kivételével – több évre vagy a költségvetési éven túli évre szóló kötelezettség nem vállalható.
+(4d) A 49. § szerinti lebonyolító szerv számára a Kormány rendeletében meghatározottak szerint rendelkezésre bocsátott összeg terhére – a 32. § a) pontja szerinti költségvetési kiadási előirányzatok kivételével – több évre vagy a költségvetési éven túli évre szóló kötelezettség nem vállalható.
 
 (5) A Kormány által egyedi határozatban biztosított beruházásösztönzési célú költségvetési támogatások esetén a költségvetési éven túli évek költségvetési kiadási előirányzatai terhére vállalható kötelezettségek felső korlátját a központi költségvetésről szóló törvény állapítja meg. A költségvetési év költségvetési kiadási előirányzatain felül a költségvetési évben a Kormány egyedi döntésével vállalható kötelezettség.
 
@@ -837,6 +846,8 @@ vállalható.
 42. § (1) Az önálló szabályozó szerv kivételével az államháztartás központi alrendszerébe tartozó költségvetési szerv által kiszabott és beszedett bírság, annak késedelmi kamata és pótléka a költségvetési szervnél és területi szerveinél nem használható fel. A beszedett bírság, késedelmi kamat, pótlék – a bírságból jogszabály alapján a helyi önkormányzatot megillető rész kivételével – a 14. § (4) bekezdés d) pontja szerinti fejezet javára elszámolandó költségvetési bevételt képez.
 
 (2) A beszedett bírság tekintetében keletkező visszafizetési kötelezettséget a bírságot felhasználó költségvetési szerv vagy – az (1) bekezdés szerinti esetben – a 14. § (4) bekezdés d) pontja szerinti fejezet terhére kell teljesíteni.
+
+(2a) A költségvetési szerv által fel nem használható bírságot, valamint más olyan bevételt, amely jogszabály alapján a központi költségvetés központosított bevételét képezi, kizárólag a kincstár által e célra létrehozott központosított beszedési számlára lehet beszedni. A központosított beszedési számla felett a bevételt beszedő költségvetési szerv a Kormány rendeletében foglaltak szerint korlátozottan rendelkezik.
 
 (3) Törvény eltérő rendelkezése hiányában – a bíróság, ügyészség által kiszabott eljárási bírság és rendbírság kivételével – a jogerősen kiszabott és meg nem fizetett bírság, valamint a meg nem fizetett bírság miatt jogerősen kiszabott és meg nem fizetett késedelmi pótlék köztartozásnak minősül, és adók módjára kell behajtani.
 
@@ -1063,7 +1074,7 @@ szerint ellenőrzi.
 
 56/B. § (1) A kincstár monitoringrendszert működtet a költségvetési támogatásokról és a költségvetési támogatásnak nem minősülő csekély összegű támogatásokról, valamint közreműködik a támogatások felhasználásának összehangolásában.
 
-(2) A monitoringrendszerben nem rögzített támogatási döntés alapján érvényesen támogatás nem nyújtható.
+(2) A monitoringrendszerben nem rögzített támogatási döntés alapján az (1) bekezdés szerinti támogatás érvényesen nem nyújtható.
 
 56/C. § (1) A támogató a monitoringrendszerbe történő adatátadással gondoskodik
 
@@ -1332,7 +1343,7 @@ vizsgálatára terjed ki.
 
 78. § (1) A kincstár a likvidásmenedzsment keretében folyamatosan figyelemmel kíséri a bevételek alakulását s ennek figyelembevételével biztosítja a kiadások rendelkezésre állását.
 
-(2) A költségvetési szerv, a helyi önkormányzat, a nemzetiségi önkormányzat, a társulás és a térségi fejlesztési tanács a bevételek beérkezésének és a kiadások teljesítésének ütemezéséről likviditási tervet készít.
+(2) A helyi önkormányzat, a nemzetiségi önkormányzat, a társulás, a térségi fejlesztési tanács, és az általuk irányított költségvetési szerv a bevételek beérkezésének és a kiadások teljesítésének ütemezéséről likviditási tervet készít.
 
 (3) A központi kezelésű előirányzatokból a kincstár által folyósított ellátási kiadásokat havi bontású finanszírozási terv alapján kell folyósítani.
 
@@ -1407,7 +1418,7 @@ vizsgálatára terjed ki.
 
 (4) A kincstár jogosult az államháztartás központi alrendszerébe tartozó költségvetési szerv fizetési számláját a költségvetési szervet terhelő közterhek megfizetése céljából megterhelni.
 
-(5) A fejezeti kezelésű előirányzatok költségvetési kiadásai teljesítéséhez szükséges központi támogatás biztosítása, valamint a fejezeti kezelésű előirányzatok felhasználása finanszírozási terv alapján történik.
+(5) A fejezeti kezelésű előirányzatok költségvetési kiadásai teljesítéséhez szükséges központi támogatás biztosítása, valamint a fejezeti kezelésű előirányzatok felhasználása a Kormány rendeletében megállapított eljárásrendben történik.
 
 #### 55. Az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai finanszírozása
 
@@ -1467,7 +1478,7 @@ vizsgálatára terjed ki.
 
 #### 59. Maradványelszámolás
 
-86. § (1) Az államháztartás központi alrendszerébe tartozó költségvetési szerv és a fejezeti kezelésű előirányzat bevételi és kiadási előirányzatai a költségvetési évet megelőző év maradványának összegével a Kormány rendeletében meghatározott esetben és módon megnövelhetőek.
+86. § (1) Az államháztartás központi alrendszerébe tartozó költségvetési szerv és a fejezeti kezelésű előirányzat kezelő szerve a költségvetési szerv és a fejezeti kezelésű előirányzat bevételi és kiadási előirányzatait a költségvetési évet megelőző év maradványának összegével megnöveli.
 
 (2) A központi kezelésű előirányzatok szabad előirányzatai a költségvetési év utolsó napján törlésre kerülnek, költségvetési maradvánnyal nem rendelkeznek.
 
@@ -1502,7 +1513,7 @@ kell készíteni.
 
 - a) a 22. § (4) bekezdése szerinti mérlegeket és kimutatásokat, az államháztartás költségvetési mérlegében az államháztartás központi alrendszerén belül költségvetési szervek és fejezeti kezelésű előirányzatok, állami vagyon, egyéb központi kezelésű előirányzatok, elkülönített állami pénzalapok és társadalombiztosítás pénzügyi alapjai szerinti bontásban,
 - b) az államháztartás központi alrendszerében a finanszírozási bevételekről és kiadásokról készített összegzést,
-- c) a Gst. 2. § (2)–(4) bekezdése szerinti bontásban az államadósságot, és kapcsolatát a 479/2009/EK rendelet szerinti kormányzati szektor adósságával,
+- c) a Gst. 2. § (2)–(4) bekezdése szerinti bontásban az államadósságot és az államadósság állományának változását bemutató összegzést, valamint az államadósság kapcsolatát a 479/2009/EK rendelet szerinti kormányzati szektor adósságával,
 - d) az állami kezességek, állami garanciák és állami viszontgaranciák állományát,
 - e) az állam tulajdonában álló részesedések, valamint az állam többségi befolyása alatt álló gazdasági társaságok kötelezettségállománya alakulását,
 - f) a középtávú tervezés során figyelembe vett makrogazdasági és költségvetési előrejelzés értékelését,
@@ -1708,9 +1719,9 @@ kezelésére.
 
 106/C. § (1) A lakáscélú állami támogatást nyújtó hitelintézet a támogatási szerződés megkötésének, módosításának, illetve megszűnésének időpontjától számított harminc napon belül továbbítja a lakáscélú állami támogatásban részesülő személy és – ha a támogatás megállapításának a támogatottnak más személlyel való együttköltözése a feltétele – az együttköltöző személy természetes személyazonosító adatait, adóazonosító jelét és a támogatási szerződésben vállalt kötelezettségekre vonatkozó adatokat a kincstár részére. A kincstár a lakáscélú állami támogatást nyújtó hitelintézet által továbbított adatokról nyilvántartást vezet.
 
-(2) Az (1) bekezdés szerinti adatokat a kincstár és a fővárosi és megyei kormányhivatal a lakáscélú állami támogatás szabályszerű igénybevételének és felhasználásának ellenőrzése céljából a támogatásra vonatkozó visszakövetelési jog vagy a támogatással megszerzett ingatlanon az állami igényt biztosító jelzálogjog, illetve elidegenítési és terhelési tilalom fennállásáig jogosult kezelni.
+(2) Az (1) bekezdés szerinti adatokat a kincstár és a lakáscélú állami támogatások ügyében eljáró szerv a lakáscélú állami támogatás szabályszerű igénybevételének és felhasználásának ellenőrzése céljából a támogatásra vonatkozó visszakövetelési jog vagy a támogatással megszerzett ingatlanon az állami igényt biztosító jelzálogjog, illetve elidegenítési és terhelési tilalom fennállásáig jogosult kezelni.
 
-(3) Az állami adóhatóság a lakáscélú állami támogatások megállapítása és ellenőrzése céljából a fővárosi és megyei kormányhivatal, illetve a kincstár részére teljesített adatszolgáltatása keretében törvényben meghatározott személyes adatok mellett feltünteti a lakáscélú állami támogatásban részesülő személy adóazonosító jelét is. A fővárosi és megyei kormányhivatal, illetve a kincstár a jogosulatlan támogatások igénybe vevőiről adóazonosító jel feltüntetésével tájékoztatja az állami adóhatóságot, ha a jogosulatlanul igénybe vett támogatás visszakövetelésére vagy behajtására az állami adóhatóság jogosult.
+(3) Az állami adóhatóság a lakáscélú állami támogatások megállapítása és ellenőrzése céljából a lakáscélú állami támogatások ügyében eljáró szerv, illetve a kincstár részére teljesített adatszolgáltatása keretében törvényben meghatározott személyes adatok mellett feltünteti a lakáscélú állami támogatásban részesülő személy adóazonosító jelét is. A lakáscélú állami támogatások ügyében eljáró szerv, illetve a kincstár a jogosulatlan támogatások igénybe vevőiről adóazonosító jel feltüntetésével tájékoztatja az állami adóhatóságot, ha a jogosulatlanul igénybe vett támogatás visszakövetelésére vagy behajtására az állami adóhatóság jogosult.
 
 #### 70. Adatszolgáltatási kötelezettségek
 
@@ -1734,13 +1745,21 @@ a kincstár számára.
 
 a Kormány rendeletében meghatározott mértékű bírságot fizet, amelyet a kincstár határozatban szab ki.
 
+(3a) Ha az adatszolgáltatás kötelezettje olyan helyi önkormányzat vagy az irányítása alá tartozó költségvetési szerv, amely tervezési, gazdálkodási, ellenőrzési, finanszírozási, adatszolgáltatási és beszámolási feladatai ellátásáról közös önkormányzati hivatal gondoskodik, a bírságot a közös önkormányzati hivatal székhelye szerinti helyi önkormányzattal szemben kell kiszabni.
+
 (4) A (3) bekezdés a) pontjának alkalmazásában lényegesnek minősül az adatszolgáltatás szempontjából minden olyan információ, amelynek elhagyása vagy téves bemutatása – közvetlenül és hátrányosan – befolyásolja az adatszolgáltatásban közölt adatokat felhasználók döntéseit.
 
-(5) Ha a bírság kiszabására okot adó körülmény az irányító szerv vagy a helyi nemzetiségi önkormányzat érdekkörében merül fel, a bírságot az irányító szervvel, a helyi nemzetiségi önkormányzattal szemben kell kiszabni. Az adatszolgáltatásnak a határozat közlésétől számított 15 napon belül történő teljesítése esetén a (3) bekezdés alapján kiszabott bírság korlátlanul mérsékelhető. A kincstár e bekezdés szerinti határozata tekintetében az 57. § (6) és (7) bekezdését kell alkalmazni, azzal hogy a bíróság határozata ellen felülvizsgálatnak nincs helye.
+(5) Ha a bírság kiszabására okot adó körülmény az irányító szerv érdekkörében merül fel, a bírságot az irányító szervvel szemben kell kiszabni. Az adatszolgáltatásnak a határozat közlésétől számított 15 napon belül történő teljesítése esetén a (3) bekezdés alapján kiszabott bírság korlátlanul mérsékelhető. A kincstár e bekezdés szerinti határozata tekintetében az 57. § (6) és (7) bekezdését kell alkalmazni, azzal hogy a bíróság határozata ellen felülvizsgálatnak nincs helye.
 
 (6) Azon központi kezelésű előirányzatok esetében, amelyek tekintetében a Kormány rendeletében foglaltak szerint a beszámolási és könyvvezetési feladatokat a kincstár látja el, a bírságot a Kormány rendeletében meghatározott részletező nyilvántartások vezetésére és azok adatai alapján a kincstár számára adatszolgáltatásra köteles szervezetekkel szemben kell kiszabni, ha a bírság kiszabására okot adó körülmény e szervezet mulasztása miatt keletkezett.
 
 (7) A kincstár jogosult az államháztartás központi alrendszerébe tartozó költségvetési szerv, az elkülönített állami pénzalap, a társadalombiztosítás pénzügyi alapja kezelő szerve, a központi kezelésű előirányzat kezelő szerve és a fejezeti kezelésű előirányzat kezelő szerv fizetési számláját a bírság összegével megterhelni.
+
+(8) A kincstár jogosult a helyi önkormányzattal szemben fennálló bírság befizetésére vonatkozó követelését elengedni, ha a bírság alapjául szolgáló körülmény a helyi önkormányzatnál a munkaszervezés vagy a pénzügyi-számviteli munkakört betöltő személyek hiánya miatt következett be, és a helyi önkormányzat igazolja, hogy a közös önkormányzati hivatalhoz csatlakozás vagy a közös önkormányzati hivatali feladatellátás javítása céljából a szükséges intézkedéseket megtette, és ezt az elmaradt adatszolgáltatások pótlása, a hibás adatszolgáltatások javítása, valamint legalább két egymást követő adatszolgáltatás tapasztalatai a kincstár megítélése szerint alátámasztják.
+
+108/A. § (1) A Kormány rendeletben előírhatja, hogy az államháztartás központi alrendszerébe tartozó költségvetési szerv, a központi kezelésű előirányzat, a fejezeti kezelésű előirányzat, az elkülönített állami pénzalap és a társadalombiztosítás pénzügyi alapja kezelő szerve rendszeres adatszolgáltatást teljesítsen a költségvetési évben várhatóan felmerülő kiadásairól és bevételeiről, valamint kötelezettségvállalásairól, más fizetési kötelezettségeiről és követeléseiről a Kormány rendeletében meghatározott módon és gyakorisággal.
+
+(2) A Kormány rendeletben előírhatja az előre jelzett és a tényértékek eltérése esetére a szabad előirányzatoknak – így különösen a fejezeti stabilitási tartalék kiadási előirányzatainak – az előrejelzések javításának ösztönzését szolgáló átmeneti vagy tartós csökkentését vagy befizetési kötelezettség teljesítését.
 
 ### XIII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -1752,7 +1771,7 @@ a Kormány rendeletében meghatározott mértékű bírságot fizet, amelyet a k
 - 2. a költségvetési szervek gazdasági szervezetének és gazdasági vezetőjének feladatait, a gazdasági szervezettel nem rendelkező költségvetési szerv pénzügyi-gazdasági feladatainak ellátását, a gazdasági vezető képesítési előírásait, továbbá a 10. § (5) bekezdése szerinti belső szabályzatok tartalmi követelményeire vonatkozó részletszabályokat,
 - 3. a központi költségvetés tervezéséhez kapcsolódóan a központi költségvetésről szóló törvény fejezeteinek tervezett kiadási főösszegei megállapításának módját, a középtávú tervezéshez szükséges adatszolgáltatás módját,
 - 4. az elfogadott központi költségvetésről szóló törvény alapján fejezetenként a fejezetet irányító szervet, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai kezelő szervét, a központi kezelésű előirányzatok, fejezeti kezelésű előirányzatok esetén a kezelő szerv kijelölésének módját, feltételeit, a kezelő szerv által ellátható feladatokat, a központi és fejezeti kezelésű előirányzat, elkülönített állami pénzalap nem költségvetési szervi formában működő kezelő szervének szabályzataira, szervezeti felépítésére, pénzügyi feladatokat ellátó alkalmazottaira vonatkozó sajátos követelményeket, az államháztartás önkormányzati alrendszerében az irányító szervet,
-- 5. a rendkívüli kormányzati intézkedésekre szolgáló tartalék felhasználásának rendjét,
+- 5. a rendkívüli kormányzati intézkedésekre szolgáló tartalék és a fejezeti stabilitási tartalék felhasználásának rendjét,
 - 6.
 - 7. a fejezetet irányító szerv által az adott költségvetési évre az államháztartásért felelős miniszter egyetértésével kiadott rendelet, szabályzat tartalmi követelményeit,
 - 8. az elemi költségvetés készítésével kapcsolatos tartalmi és formai követelményeket, a bevételi kiemelt előirányzatokat, az egységes rovatrendet,
@@ -1776,16 +1795,16 @@ részletes szabályait,
 - 15d. az állami támogatási programokra és az egyedi állami támogatásokra vonatkozó szabályozásoknak az Európai Unió versenyjogi szabályaival való összehangolása rendjét, beleértve az intézményi és az eljárási szabályokat,
 - 16. a 14. § (3) bekezdése szerinti fejezetben meghatározott támogatások igénylésére, az arról történő lemondásra, az évközi módosításra, az igénylés, igénybevétel évközi felülvizsgálatára, a felülvizsgálati eljárásra, a hatósági eljárásban meghozott határozatok, végzések kötelező tartalmi elemeire vonatkozó részletes szabályokat, az 58. § (2) bekezdése szerinti önellenőrzési pótlék alapját, mértékét, megállapításának és megfizetésének szabályait, a 60/A. § (2) bekezdése szerinti kamat alapját, mértékét, felszámításának szabályait, kezdő és záró napját, valamint a 83. § (5) és (6) bekezdésében a nettó finanszírozás keretében felfüggesztett támogatás visszatérítésének szabályait,
 - 17. a kormányzati ellenőrzéssel, a belső kontrollrendszerrel, a belső ellenőrzéssel, a belső ellenőrzési tevékenységre vonatkozó jogosultsággal rendelkezőkről vezetett nyilvántartáshoz kapcsolódó bizonyítási eszközökkel, a belső kontrolrendszerrel és a belső ellenőrzéssel kapcsolatos kötelező továbbképzésekkel, a kormányzati szektorba sorolt egyéb szervezetek belső kontrollrendszerével, az önkormányzati biztos kijelöléséhez kapcsolódó, jogállásával, hatáskörével, a gazdálkodási önállóságában korlátozott költségvetési szerv működésével kapcsolatos részletes szabályokat,
-- 18. a 81. § szerinti előirányzat-felhasználási keret tervezésének, megállapításának, megnyitásának, előrehozásának, köztartozás fennállása esetén zárolásának, az államháztartás központi alrendszerébe tartozó költségvetési szerv fizetési számlája – a költségvetési szervet terhelő közterhek megfizetése céljából történő – megterhelésének, továbbá a költségvetési szerv által beszedett központosított bevételek befizetésének szabályait,
-- 19. a fejezeti kezelésű előirányzatok finanszírozási terve elkészítésének szabályait, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai finanszírozási, elszámolási rendjét, az államháztartás önkormányzati alrendszere finanszírozási rendjének részletes szabályait,
+- 18. a 81. § szerinti előirányzat-felhasználási keret tervezésének, megállapításának, megnyitásának, előrehozásának, köztartozás fennállása esetén zárolásának, az államháztartás központi alrendszerébe tartozó költségvetési szerv fizetési számlája – a költségvetési szervet terhelő közterhek megfizetése céljából történő – megterhelésének, továbbá a költségvetési szerv által beszedett központosított bevételek befizetésének, valamint a központosított beszedési számla feletti rendelkezés szabályait,
+- 19. a fejezeti kezelésű előirányzatok, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai finanszírozási, elszámolási rendjét, az államháztartás önkormányzati alrendszere finanszírozási rendjének részletes szabályait,
 - 20. a 78. § (2) bekezdése szerinti likviditási tervek tartalmát, elkészítésének, aktualizálásának, valamint a 78. § (4) bekezdése szerinti finanszírozási igényeket és azok megelőlegezése feltételeinek, a megelőlegezett összeg visszapótlásának szabályait,
 - 21. a helyi önkormányzat, a nemzetiségi önkormányzat, a társulás, és a térségi fejlesztési tanács fizetési számláinak és az ahhoz kapcsolódó alszámlák körét, felhasználásuk szabályait, a kincstár által végzett fedezetvizsgálat szempontjait, a fedezetvizsgálat alóli kivételeket, és a 80. § (2) bekezdése szerinti szabályzat további tartalmi elemeit,
 - 22. az államháztartás alrendszereiben a készpénzhasználat és a házipénztár működtetésének részletes szabályait,
-- 23. a költségvetési maradvány megállapításának, felhasználhatóságának, jóváhagyásának részletes szabályait,
+- 23. a maradvány megállapításának, felhasználhatóságának, jóváhagyásának részletes szabályait,
 - 24. a költségvetési beszámolás, az irányító szerv és a beszámolást készítő feladatait, a zárszámadáshoz kapcsolódó adatszolgáltatási feladatokat,
 - 25. az állami kezesség, állami garancia, állami viszontgarancia, kiállítási garancia és kiállítási viszontgarancia vállalásának, módosításának, beváltásának, nyilvántartásának eljárási és részletszabályait,
 - 26. a külföldi követelések értékesítésének szabályait,
-- 27. az államháztartás információs rendszerében vezetett nyilvántartások körét, tartalmát, az államháztartás információs rendszerébe teljesített adatszolgáltatások kötelezettjeit, az adatszolgáltatások gyakoriságát, módját, a szolgáltatandó adatok körét, az egyes adatszolgáltatási kötelezettségek teljesítésének elmulasztása esetén kiróható bírság mértékét és a kiszabás módját, valamint a 103. § (4) bekezdése szerint közzétett adatok körét és a közzétételre vonatkozó szabályokat,
+- 27. az államháztartás információs rendszerében vezetett nyilvántartások körét, tartalmát, az államháztartás információs rendszerébe teljesített adatszolgáltatások kötelezettjeit, az adatszolgáltatások gyakoriságát, módját, a szolgáltatandó adatok körét, az egyes adatszolgáltatási kötelezettségek teljesítésének elmulasztása esetén kiróható bírság mértékét és a kiszabás módját, a 103. § (4) bekezdése szerint közzétett adatok körét és a közzétételre vonatkozó szabályokat, valamint a 108/A. § (2) bekezdése szerinti intézkedések körét és végrehajtásának szabályait,
 - 28. a honvédelemért felelős miniszter által vezetett minisztérium, az irányítása alá tartozó költségvetési szervek és a nemzetbiztonsági szolgálatok költségvetése tervezésének, pénzellátásának, előirányzat-felhasználásának, gazdálkodásának, adatszolgáltatásainak, könyvvezetési és beszámoló készítési kötelezettségének a kincstári rendszer, illetve az államháztartási számvitel általános előírásaitól eltérő sajátos szabályait,
 - 29. a Kormány irányítása vagy felügyelete alatt álló rendvédelmi szervekről, a honvédelemért felelős miniszter által vezetett minisztériumról, az irányítása alá tartozó költségvetési szervekről és a nemzetbiztonsági szolgálatokról a kincstárnál nyilvántartásba vehető adatok körét, a kincstári nyilvántartásba nem vehető adatokat nyilvántartó szerv kijelölését, továbbá az ezen adatokra vonatkozó nyilvántartás sajátos eljárási szabályait,
 - 30. a Magyar Honvédség szervei, valamint a rendvédelmi szervek tekintetében az irányítói jogok középirányító szervre történő átruházásának részletszabályait,
@@ -1821,13 +1840,13 @@ részletes szabályait,
 - 3.
 - 4. a belső ellenőrzési tevékenység folytatásának részletes feltételeit, az e tevékenységre jogosító bejelentés rendjét, a bejelentések alapján vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a belső ellenőrzési tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket, a kötelező szakmai továbbképzés és a kapcsolódó vizsgáztatás szabályait, továbbá a nyilvántartásba vétel iránti eljárásért, valamint a nyilvántartásba bejegyzett adatok módosítása vagy törlése iránti eljárásért fizetendő igazgatási szolgáltatási díj szabályait,
 - 5.
-- 6. a bevételek és kiadások kormányzati funkciók szerinti besorolásának szabályait, a szakfeladatrendet, a szakfeladatok tartalmi meghatározását és azok mutatószámait,
+- 6. a bevételek és kiadások kormányzati funkciók szerinti besorolásának szabályait,
 - 7. a 103. § (3) bekezdése szerinti adminisztratív osztályozás alapjául szolgáló államháztartási egyedi azonosítók alkalmazásának rendjét, és
 - 8. a kötelező gépjármű-felelősségbiztosítás 1991. július 1. előtti rendszeréből származó állami kötelezettségek teljesítésének feltételeit, módját, részletes eljárási szabályait, a járadékok emelésének mértékét, valamint a költségvetési szervek vagyonbiztosítása alapján az 1971. január 1. napja előtt gépjárművel okozott káreseményekkel összefüggésben a központi költségvetést terhelő keresetpótló baleseti, illetve költségpótló baleseti kártérítési járadékok folyósításával kapcsolatos kötelezettségek feltételeit, módját, részletes eljárási szabályait, a járadékok emelésének mértékét
 
 rendeletben szabályozza.
 
-(4)
+(4) Felhatalmazást kap az államháztartásért felelős miniszter, hogy rendeletben állapítsa meg az ár- és belvízvédelmi kártalanítás céljából létrehozott fejezeti kezelésű előirányzat felhasználási szabályait, valamint a Wesselényi Miklós Ár- és Belvízvédelmi Kártalanítási Alapból 2016. december 31-én kártalanításra jogosult személy befizetési kötelezettségére és a kártalanításra való jogosultságára vonatkozó szabályokat.
 
 (5) Felhatalmazást kap a Kormány tagja, hogy – ha azt törvény, kormányrendelet vagy a Kormány egyedi határozata nem állapítja meg, az államháztartás központi alrendszerébe tartozó költségvetési szervek költségvetési kiadási előirányzata és a társadalombiztosítás pénzügyi alapjai előirányzatai kivételével – az államháztartásért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg az általa irányított fejezetbe sorolt
 
@@ -1901,19 +1920,17 @@ rendeletben szabályozza.
 
 (24)
 
-(25) A helyi nemzetiségi önkormányzat által 2013. évben a 14. § (3) bekezdése szerinti fejezetből igénybe vett támogatások elszámolására és kincstári felülvizsgálatára e törvény 2013. december 31-én hatályos 57/A. §-ában, 57/B. §-ában, 60. §-ában, 83. § (4)–(6) bekezdésében, 106. § (10) bekezdésében foglaltakat kell alkalmazni.
+(25)
 
 (26) A Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvénnyel megállapított 8/A. § (2) bekezdése nem érinti a Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvény hatálybalépésekor már megalapított költségvetési szervek alapításának érvényességét, azonban a költségvetési szerv alapító okiratának a Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvény hatálybalépését követő módosításánál az alapító okiratot a kincstár által közzétett formanyomtatványnak megfelelően módosítani kell.
 
-(27) A Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvénnyel megállapított 10. § (4a) bekezdésének a Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvény hatálybalépésekor a törzskönyvi nyilvántartásban szereplő költségvetési szerv legkésőbb 2015. április 1-jén kell, hogy megfeleljen.
-
-(28) A honvédelemért felelős miniszter által vezetett minisztérium, a nemzetbiztonsági szolgálatok és a nem a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek kincstár útján történő központosított illetményszámfejtése 2016. január 1-jétől valósul meg. E határnapot megelőzően a honvédelemért felelős miniszter által vezetett minisztérium, a nemzetbiztonsági szolgálatok és a nem a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek a központosított illetményszámfejtéshez a kincstárral kötött megállapodás alapján csatlakozhatnak.
+(27)–(28)
 
 (29) A Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvénnyel megállapított 105. § (4) bekezdésének a költségvetési szerv által megkötött szerződés érvénytelenségére vonatkozó rendelkezését a 2015. február 28-át követően megkötött szerződések tekintetében kell alkalmazni. Az irányító szerv e határidőt megelőzően köteles gondoskodni a költségvetési szerv alapító okiratának a törzskönyvi nyilvántartásba elmulasztott bejegyzésének pótlásáról.
 
-(30) A kincstár által működtetett monitoringrendszer keretében a pályázati kiírásra vonatkozó adatok közzétételét és a monitoringrendszerben nyilvántartott adatok csoportosított lekérdezhetőségét 2016. január 1-től kell biztosítani. A helyi önkormányzat által nyújtott támogatás esetén az 56/B. § (2) bekezdését és az 56/C. § (1) bekezdését 2016. március 1-jétől kell alkalmazni azzal, hogy a támogatónak a 2016. január 1-je és 2016. február 29-e közötti támogatási döntéseknek az e célra rendszeresített honlapon való közzétételéről 2016. április 15-éig kell a monitoringrendszerbe történő adatátadással gondoskodnia.
+(30)
 
-(31) A Magyar Művészeti Akadémia a törzskönyvi nyilvántartásba vételét az egyes törvényeknek a Nemzeti Adó- és Vámhivatal átalakításával, valamint a költségvetési tervezéssel és gazdálkodással kapcsolatos módosításáról szóló 2015. évi CXCI. törvény hatálybalépését követő 45 napon belül kérheti. A törzskönyvi nyilvántartásba vételre vonatkozó határozatot a kincstár a Magyar Művészeti Akadémiát bírósági nyilvántartásba vevő bírósággal közli. A bíróság a kincstár határozata alapján a Magyar Művészeti Akadémiát hivatalból törli a civil és egyéb cégnek nem minősülő szervezetek nyilvántartásából. A törlésről nem kell végzést hozni.
+(31)
 
 (32) Azon kincstári körön kívüli számlatulajdonosok, amelyek a Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvénnyel megállapított 79. § (3a) bekezdése értelmében értékpapírszámlával nem rendelkezhetnek, a Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvény hatálybalépésekor meglévő értékpapírszámláikat legkésőbb 2016. december 31-éig kötelesek megszüntetni.
 

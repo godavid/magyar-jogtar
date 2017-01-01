@@ -150,13 +150,7 @@ jogosult folytatni.
 
 (7) Ha a felsőoktatási intézmény hivatalos neve megváltozik, az erről szóló bejelentést az oktatási hivatal tudomásul veszi, és kezdeményezi a miniszter útján e törvény 1. mellékletének módosítását.
 
-10. § (1) A miniszter nemzetstratégiai célok megvalósítása érdekében, – kormányrendeletben meghatározottak szerint – felsőoktatási intézményt kiemelt felsőoktatási intézménnyé minősíthet.
-
-(2) A kiemelkedő színvonalú képzést nyújtó, a tudományos életben elismert egyetem, vagy egyetemi kar – a Kormány által meghatározott feltételekkel – „kutató” minősítést kaphat.
-
-(3) A több képzési területen képzést folytató, magas színvonalú gyakorlatorientált képzést folytató, az alkalmazott tudományok területén nemzetközileg elismert, valamint a képzés terén széles körű nemzetközi együttműködést folytató főiskola – a Kormány által meghatározott feltételekkel – „alkalmazott tudományok főiskolája” minősítést kaphat.
-
-(4) A miniszter az (1)–(3) bekezdésben meghatározott szervezetek, szervezeti egységek működését – a Kormány rendeletében meghatározottak alapján – támogatásban részesítheti.
+10. § A miniszter nemzetközi szerződésben foglaltak szerint felsőoktatási intézményt kiemelt felsőoktatási intézménnyé minősíthet.
 
 ### III. Fejezet — A FELSŐOKTATÁSI INTÉZMÉNY MŰKÖDÉSÉNEK ALAPELVEI
 
@@ -335,6 +329,16 @@ folytathat tevékenységet.
 (3a) Az állami felsőoktatási intézmény által fenntartott köznevelési intézmény tekintetében a 4. § (4) bekezdése szerinti jogosult a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) szerint dönt a köznevelési intézmény létesítéséről, nevének megállapításáról, átszervezéséről, megszüntetéséről, tevékenységi körének módosításáról.
 
 (4) A felsőoktatási intézményben – szervezeti és működési szabályzatában meghatározottak szerint – gazdasági tanács működtethető.
+
+14/A. § (1) Az állami felsőoktatási intézmény által ellátott, a 2. § (1) bekezdés szerinti alaptevékenysége körébe nem tartozó, ahhoz közvetlenül nem kapcsolódó, törvényben vagy kormányrendeletben meghatározott és a felsőoktatási intézmény alapító okiratában megjelenített közfeladat tekintetében – ha e törvény eltérően nem rendelkezik – a (2)–(5) bekezdés szerinti sajátos döntéshozatali, működési szabályokat kell alkalmazni.
+
+(2) Az (1) bekezdés szerinti közfeladat ellátására a felsőoktatási intézményben külön szervezeti egységet kell létrehozni. A szervezeti egység éves munkaterv alapján végzi feladatait. A felsőoktatási intézmény éves költségvetésében jóváhagyott kiadási előirányzatokból évente meg kell állapítani azokat az összegeket, amelyek a szervezeti egység feladatait szolgálják (e § alkalmazásában a továbbiakban: költségvetési keretek). A költségvetési keretek felett kötelezettségvállalásra a szervezeti egység vezetője jogosult.
+
+(3) A szervezeti egység – a fenntartó döntésétől függően – a rektor vagy a kancellár irányítása alá tartozik.
+
+(4) A (3) bekezdés szerint az irányítási jogok gyakorlására kijelölt személynek a szervezeti egység vezetője megbízásához, felmentéséhez kapcsolódó döntései meghozatalához a fenntartó egyetértése szükséges. A fenntartó egyetértése szükséges továbbá a szervezeti egység éves munkatervének és költségvetési kereteinek megállapításához, valamint a szervezeti és működési szabályzat szervezeti egységet érintő szabályainak meghatározásához és módosításához.
+
+(5) A felsőoktatási intézmény a költségvetési keretekről elkülönített részletező nyilvántartásokat vezet. A költségvetési keretek felhasználásáról a költségvetési év lezárását követően éves elszámolást kell készíteni, amelyet a felsőoktatási intézmény a fenntartónak megküld.
 
 ### IV. Fejezet — A FELSŐOKTATÁSBAN FOLYÓ KÉPZÉS RENDSZERE
 
@@ -1883,7 +1887,7 @@ nyújtott támogatás.
 
 #### 84/B. §
 
-84/C. § A 10. § alapján a kiemelt felsőoktatási intézmény, kutatóegyetem, kutató kar, az alkalmazott tudományok főiskolája – kormányrendeletben meghatározott feltételek szerint – támogatásban részesíthető.
+84/C. § A kiemelt felsőoktatási intézmény működése támogatásban részesíthető.
 
 84/D. § Az állami felsőoktatási intézmény költségvetésében a köznevelési feladatellátáshoz biztosított költségvetési támogatás legfeljebb 85%-a munkabérre, illetményre, legalább 15%-a a működtetésre (különösen a közüzemi költségekre, dologi és karbantartási kiadásokra, szakmai anyagokra) fordítható.
 
@@ -2521,7 +2525,7 @@ tartalmazza, a képzés részletes szabályaival, különösen a tantervvel, ill
 
 110. § (1) A Kormány felhatalmazást kap arra, hogy rendelettel szabályozza
 
-- 1. a kiemelt felsőoktatási intézmény, a kutatóegyetem, kutató kar, az alkalmazott tudományok főiskolája minősítés feltételeit, rendjét, a minősítésre tekintettel megállapított támogatás felhasználási feltételeit,
+- 1.
 - 2. a ciklusokra bontott, osztott és az osztatlan képzések szerkezetét,
 - 3. a felsőoktatási intézmény, valamint a közösségi felsőoktatási képzési központ, a diákotthon minimális létesítési és működési feltételeit, az alapítással kapcsolatos eljárás rendjét, a gyakorló köznevelési intézmény, a nem Magyarország területén folytatott székhelyen kívüli képzés létesítésének feltételeit, a konzisztórium tagjaira való javaslattétel rendjét,
 - 4. a képesítési keretet, a doktori képzés szabályait,
@@ -2588,7 +2592,7 @@ rendeletben jelölje ki.
 - a) az oktatási jogok biztosa hivatalának feladatait, szervezetének és működésének szabályait, a hivatal vezetőjének juttatásait, tevékenységének irányítását,
 - b) a felsőoktatási szakképzés, az alapképzés és a mesterképzés képzési és kimeneti követelményeit,
 - c) a szakirányú továbbképzés szervezésének általános feltételeit,
-- d) az államilag elismert nyelvvizsgáztatáshoz, a felsőoktatási információs rendszer működtetéséhez kapcsolódó igazgatási szolgáltatási díjakat és azok mértékét, valamint a felsőoktatási hatósági eljárási díjakat és azok mértékét.
+- d) az államilag elismert nyelvvizsgáztatáshoz, a külföldi bizonyítványok és oklevelek elismeréséhez és honosításához, az oklevelekről és bizonyítványokról kiállított hatósági bizonyítványokhoz, a felsőoktatási információs rendszer működtetéséhez kapcsolódó igazgatási szolgáltatási díjak mértékét, a felsőoktatási hatósági eljárásokhoz kapcsolódó igazgatási szolgáltatási díjak mértékét, valamint a díjak beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat.
 
 (4) A miniszter a (3) bekezdés d) pontjában kapott szabályozási jogkörét az adópolitikáért felelős miniszter egyetértésével gyakorolja.
 
@@ -2697,6 +2701,8 @@ e törvény szerint kell megállapítani a hallgatói juttatásokat.
 - a) az ezt megelőzően megkezdett képzés tekintetében a magyar állami (rész)ösztöndíj összege a 48/C. § (2) bekezdése szerint – a képzés megkezdésekor – meghatározott költség összegét nem haladhatja meg,
 - b) a 84. § (2) bekezdés b) pontja alapján folyósított támogatás összege – e törvény eltérő rendelkezése hiányában – nem lehet kevesebb a képzési támogatás címén folyósított támogatás összegénél.
 
+114/H. § Az eljáró szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+
 #### 70. Szervezeti, foglalkoztatási rendelkezések
 
 115. § (1) E törvénynek a felsőoktatási intézmények működéséhez kapcsolódó eljárási szabályait a 2012. szeptember 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
@@ -2746,6 +2752,8 @@ e törvény szerint kell megállapítani a hallgatói juttatásokat.
 (19) A Károly Róbert Főiskola és az Eszterházy Károly Főiskola összeolvadásával az Eszterházy Károly Egyetem 2016. július 1. napjától jön létre.
 
 (20) A Zsigmond Király Főiskola 2016. augusztus 1. napjától Zsigmond Király Egyetem megnevezéssel működik.
+
+(21) A (17)–(19) bekezdés alapján létesített felsőoktatási intézmény tekintetében a konzisztórium alakuló üléséig a 13/A–13/D. §-t olyan módon kell alkalmazni, hogy a konzisztórium egyetértési jogosultságait a kancellári hatáskörben eljárni jogosult személy gyakorolja.
 
 116. § (1) E törvénynek – az egyes, a felsőoktatás szabályozására vonatkozó törvények módosításáról szóló 2015. évi CXXXI. törvénnyel megállapított – 9. § (3) bekezdésében foglalt feltételeket az 1. mellékletben meghatározott egyetemeknek 2017. szeptember 1-jéig kell teljesíteniük.
 
@@ -3306,17 +3314,17 @@ ad) a felvételi kérelem elbírálásához szükséges adatok,
 
 ae) a felvételi eljárás adatai,
 
-af) a jelentkező ügyfélkapus kapcsolati kódja.
+af) a jelentkező központi ügyfél-regisztrációs nyilvántartási (a továbbiakban: KÜNY) kapcsolati kódja.
 
 2. A vallási, világnézeti elkötelezettségre, annak igazolására mint jelentkezési feltételre vonatkozó személyes adatot nem lehet nyilvántartani. A többi adat az érintett hozzájárulásával tartható nyilván.
 
-3. Az adatok továbbíthatók: a bíróságnak, rendőrségnek, ügyészségnek, a bírósági végrehajtónak, államigazgatási szervnek a konkrét ügy eldöntéséhez szükséges adat; a nemzetbiztonsági szolgálatnak az Nbtv.-ben meghatározott feladatok ellátásához szükséges valamennyi adat; a felsőoktatási intézménynek a hozzá jelentkező személyre vonatkozó valamennyi adat; a felsőoktatási intézménynek a hozzá felvett személyekre vonatkozó valamennyi adat; a köznevelés információs rendszere, továbbá a nyelvvizsgák nyelvvizsga-anyakönyvei nyilvántartásának adatkezelője részére a felvételi kérelmek elbírálásához szükséges valamennyi adat; a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv részére a jelentkező oktatási azonosítója, ügyfélkapus kapcsolati kódja.
+3. Az adatok továbbíthatók: a bíróságnak, rendőrségnek, ügyészségnek, a bírósági végrehajtónak, államigazgatási szervnek a konkrét ügy eldöntéséhez szükséges adat; a nemzetbiztonsági szolgálatnak az Nbtv.-ben meghatározott feladatok ellátásához szükséges valamennyi adat; a felsőoktatási intézménynek a hozzá jelentkező személyre vonatkozó valamennyi adat; a felsőoktatási intézménynek a hozzá felvett személyekre vonatkozó valamennyi adat; a köznevelés információs rendszere, továbbá a nyelvvizsgák nyelvvizsga-anyakönyvei nyilvántartásának adatkezelője részére a felvételi kérelmek elbírálásához szükséges valamennyi adat; a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv részére a jelentkező oktatási azonosítója, KÜNY kapcsolati kódja.
 
 III. Az adatkezelésnek és az adattovábbításnak a felsőoktatási információs rendszer működéséhez kapcsolódó egyes kérdései
 
 1. A felsőoktatás információs rendszeréből – törvény eltérő rendelkezésének hiányában – személyes adat csak az érintett kérése, illetve írásbeli hozzájárulása esetén, az érintett egyidejű értesítése mellett adható ki. A felsőoktatási információs rendszer keretében folyó adatkezelés jogszerűségéért a miniszter felelős. A felsőoktatási információs rendszerbe az érintett – saját adatai tekintetében – jogosult betekinteni. Az érintett a felsőoktatási információs rendszerben tárolt adatainak helyesbítését – a jogszabályban elrendelt adatkezelések kivételével –, törlését az adatot szolgáltató felsőoktatási intézménytől jogosult kérni. Az információs rendszerbe történő betekintés, az adatok felsőoktatási intézmény általi helyesbítése, törlése minden esetben ingyenes.
 
-2. A felsőoktatási információs rendszer működtetéséért felelős szerv a felsőoktatási információs rendszerben nyilvántartott személyek természetes személyazonosító adatairól, állampolgárságáról, a személyiadat- és lakcímnyilvántartásból kikerülés okáról és időpontjáról, és lakcíméről – azonosítás, ellenőrzés és hitelesítés céljából – térítésmentesen, elektronikus úton vagy optikai adathordozón (a továbbiakban együtt: elektronikus úton) adatot igényelhet a személyiadat- és lakcímnyilvántartás központi szervétől. A felsőoktatási információs rendszer működéséért felelős szerv a felsőoktatási információs rendszerben nyilvántartott személyek természetes személyazonosító adatait, személyi igazolvány számát és lakcímét elektronikus úton megküldi a személyiadat- és lakcímnyilvántartás központi szervének. A sikeres azonosítást követően a személyiadat- és lakcímnyilvántartás központi szerve kapcsolati kódot képez, amelyet azonosítás céljából megküld a felsőoktatási információs rendszer működtetőjének. A személyiadat- és lakcímnyilvántartás központi szerve az azonosított természetes személy természetes személyazonosító adatainak, lakcímének, állampolgárságának a személyiadat- és lakcímnyilvántartásban bekövetkezett változásáról és a természetes személynek a személyiadat- és lakcímnyilvántartásból kikerülése okáról és időpontjáról a kapcsolati kódon értesíti a felsőoktatási információs rendszer működéséért felelős szervet. Ha a beazonosítás sikertelen, a két szerv további adategyeztetést végez. A felsőoktatási információs rendszer működtetéséért felelős szerv a kapcsolati kódon elektronikus úton a nyilvántartott személyek természetes személyazonosító adataira, állampolgárságára, a személyiadat- és lakcímnyilvántartásból kikerülés okára és időpontjára, és lakcímére nézve szükség esetén adatot igényelhet. A felsőoktatási információs rendszer működtetéséért felelős szerv a jelen pont szerint tudomására jutott adatokat – az e törvényben meghatározott ideig – tárolhatja, és felhasználhatja az érintett személyek és adatszolgáltató intézmények tájékoztatására.
+2. A felsőoktatási információs rendszer működtetéséért felelős szerv a felsőoktatási információs rendszerben nyilvántartott személyek természetes személyazonosító adatairól, állampolgárságáról, a személyiadat- és lakcímnyilvántartásból kikerülés okáról és időpontjáról, és lakcíméről – azonosítás, ellenőrzés és hitelesítés céljából – térítésmentesen, elektronikus úton vagy optikai adathordozón (a továbbiakban együtt: elektronikus úton) adatot igényelhet a személyiadat- és lakcímnyilvántartást kezelő szervétől. A felsőoktatási információs rendszer működéséért felelős szerv a felsőoktatási információs rendszerben nyilvántartott személyek természetes személyazonosító adatait, személyi igazolvány számát és lakcímét elektronikus úton megküldi a személyiadat- és lakcímnyilvántartást kezelő szervének. A sikeres azonosítást követően a személyiadat- és lakcímnyilvántartást kezelő szerve kapcsolati kódot képez, amelyet azonosítás céljából megküld a felsőoktatási információs rendszer működtetőjének. A személyiadat- és lakcímnyilvántartást kezelő szerve az azonosított természetes személy természetes személyazonosító adatainak, lakcímének, állampolgárságának a személyiadat- és lakcímnyilvántartásban bekövetkezett változásáról és a természetes személynek a személyiadat- és lakcímnyilvántartásból kikerülése okáról és időpontjáról a kapcsolati kódon értesíti a felsőoktatási információs rendszer működéséért felelős szervet. Ha a beazonosítás sikertelen, a két szerv további adategyeztetést végez. A felsőoktatási információs rendszer működtetéséért felelős szerv a kapcsolati kódon elektronikus úton a nyilvántartott személyek természetes személyazonosító adataira, állampolgárságára, a személyiadat- és lakcímnyilvántartásból kikerülés okára és időpontjára, és lakcímére nézve szükség esetén adatot igényelhet. A felsőoktatási információs rendszer működtetéséért felelős szerv a jelen pont szerint tudomására jutott adatokat – az e törvényben meghatározott ideig – tárolhatja, és felhasználhatja az érintett személyek és adatszolgáltató intézmények tájékoztatására.
 
 3. A felsőoktatási információs rendszer működéséért felelős szerv annak, akit oktatói, kutatói, illetve tanári munkakörben foglalkoztatnak, oktatói azonosító számot ad ki. Az azonosító szám a tanári, az oktatói, illetve a kutatói munkakörben történő foglalkoztatás figyelemmel kísérésére szolgál. A felsőoktatási információs rendszer tartalmazza azoknak a nyilvántartását, akik azonosító számmal rendelkeznek, továbbá azokét, akik a 25. § (3) bekezdése szerint megbízási jogviszonyban oktatói feladatot látnak el. A nyilvántartásból személyes adat – az érintetten kívül – csak az egyes, a foglalkoztatáshoz kapcsolódó juttatások jogszerű igénybevételének megállapítása céljából továbbítható, a szolgáltatást nyújtó vagy az igénybevétel jogosságának ellenőrzésére hivatott részére. Az információs rendszerben adatot az érintett foglalkoztatásának megszűnésére vonatkozó bejelentéstől számított öt évig lehet kezelni, kivéve, ha ez alatt az idő alatt az érintettet ismét bejelentik a nyilvántartásba.
 
@@ -3326,19 +3334,17 @@ III. Az adatkezelésnek és az adattovábbításnak a felsőoktatási informáci
 
 6. A hallgató vagy a hallgató kérelmére a felsőoktatási intézmény diákigazolvány kiadását kezdeményezi a felsőoktatási információs rendszer működéséért felelős szervnél. A felsőoktatási intézménynek a hallgató kérelmét a bejelentéstől számított nyolc napon belül kell továbbítania a felsőoktatási rendszer működéséért felelős szerv részére a szerv által meghatározott módon. A diákigazolvány elkészítéséről a felsőoktatási információs rendszer működéséért felelős szerv mint a diákigazolvány az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvény (a továbbiakban: Nektv.) szerinti kártyakibocsátója gondoskodik. A diákigazolvány előállításának határideje az igénylésnek a felsőoktatási információs rendszer működéséért felelős szervhez történő beérkezésétől számított negyvenöt nap.
 
-A diákigazolvány a Nektv. 2. § 3. pontja szerinti kártya, amely közokirat. A diákigazolvány birtokosa az elektronikus kártyakibocsátó rendszerhez (a továbbiakban: NEK) kártyafelhasználóként csatlakozik. A NEK működtetője és a diákigazolvány megszemélyesítője a diákigazolvány kiállítása céljából kezeli a Nektv. 16. § (2) bekezdés a)–b) pontja szerinti adatokat, valamint a kártya kézbesítéséhez szükséges adatokat. A diákigazolvány kiadására irányuló kérelem a Nektv. 16. §-ában előírt adatokon túl tartalmazza:
+A diákigazolvány a Nektv. 2. § 3. pontja szerinti kártya, amely közokirat. A diákigazolvány birtokosa az elektronikus kártyakibocsátó rendszerhez (a továbbiakban: NEK) kártyafelhasználóként csatlakozik. A NEK működtetője és a diákigazolvány megszemélyesítője a diákigazolvány kiállítása céljából kezeli a Nektv. 16. § (2) bekezdés a)–b) pontja szerinti adatokat. A diákigazolvány kiadására irányuló kérelem a Nektv. 16. §-ában előírt adatokon túl tartalmazza:
 
 a) azon legfeljebb két felsőoktatási intézmény rövidített nevét, székhelye vagy telephelye címének települését, amellyel a hallgató jogviszonyban áll,
 
 b) a hallgató lakcímtípusát, amelyhez tartozó lakcím települése a diákigazolványon megjelenítésre kerül,
 
-c) a hallgató azonosítószámát,
+c) a hallgató azonosítószámát, továbbá
 
-d) a hallgató képzésének munkarendjét, továbbá
+d) a hallgató képzésének munkarendjét.
 
-e) az igazolvány kézbesítéséhez szükséges, a hallgató által megadott kézbesítési lakcímtípust vagy a kézbesítési címet.
-
-A diákigazolványt a felsőoktatási információs rendszer működéséért felelős szerv a megszemélyesítő útján küldi meg a jogosult részére.
+A diákigazolványt a felsőoktatási információs rendszer működéséért felelős szerv a megszemélyesítő útján küldi meg a jogosult részére a közreműködő intézménybe.
 
 6.1. A diákigazolvány a Nektv. 5. § (1) bekezdése és (2) bekezdés a) pont aa) alpontja szerinti adatokon túl az alábbi adatokat tartalmazza:
 
@@ -3360,7 +3366,7 @@ A felsőoktatási információs rendszer működéséért felelős szerv a diák
 
 A diákigazolványhoz a Nektv. 2. §-a szerinti másodlagos kártya rendelhető.
 
-6.2. A diákigazolvány elkészítésére irányuló eljárásban – ha jogszabály eltérően nem rendelkezik –
+6.2. A diákigazolvány elkészítésére irányuló eljárásban – ha jogszabály eltérően nem rendelkezik -
 
 a) a hallgató vagy a felsőoktatási intézmény elektronikus úton terjeszti elő a diákigazolvány iránti kérelmet és tesz jogszabályban meghatározott más eljárási cselekményeket,
 
@@ -3370,11 +3376,27 @@ b) a felsőoktatási információs rendszer működéséért felelős szerv elek
 
 6.4. A felsőoktatási információs rendszer működéséért felelős szerv a diákigazolvány igényléséhez és előállításához szükséges személyes adatokat, a diákigazolvány egyedi azonosítóját, a kiadott érvényesítő matrica sorszámát, valamint a jogosultság ellenőrzéséhez és nyilvántartásához szükséges további, személyes adatnak nem minősülő adatot tartalmazó nyilvántartást vezet.
 
-7. A felsőoktatási információs rendszer működéséért felelős szerv kezelheti a felsőoktatási intézmények felvételi eljárásával összefüggő adatokat. A köznevelés információs rendszere szolgáltathatja a felsőoktatási információs rendszer működéséért felelős szerv részére a felvételi kérelmek elbírálásához szükséges érettségi adatokat. Ehhez kapcsolódóan megküldi a tanulói azonosító számot is. A felvételi eljárással kapcsolatos személyes és különleges adatot – ha az eljárás eredményeként hallgatói jogviszony létesítésére nem kerül sor – a felvételi jelentkezési lap benyújtásától számított egy évig lehet kezelni.
+7. A felsőoktatási információs rendszer működéséért felelős szerv kezelheti a felsőoktatási intézmények felvételi eljárásával összefüggő adatokat.
 
-8. A felsőoktatási információs rendszerből személyes adat az adatok pontosságának, teljességének, időszerűségének biztosítása céljából rendszeresen, valamint az oktatói és diákigazolvány igénylés keretében továbbítható a személyi és lakcímnyilvántartás szerve részére.
+A felvételi kérelmek elbírálásához a felsőoktatási információs rendszer részére
 
-9. A köznevelési információs rendszer szolgáltathatja a felsőoktatás információs rendszer működéséért felelős szerv részére a felvételi kérelmek elbírálásához szükséges adatokat, valamint a jelentkező, hallgató tanulói azonosító számát.
+a) a 19. § (2) bekezdés c) és d) pontja szerinti alrendszere szolgáltatja a nyilvántartásban rendelkezésre álló korábbi, felsőoktatásban megszerzett oklevéllel, támogatási idővel, hallgatói azonosító számmal kapcsolatos adatokat;
+
+b) a nyelvvizsga-anyakönyvi nyilvántartásának adatkezelője szolgáltatja a nyelvvizsga-adatokat;
+
+c) az egységes szociális nyilvántartással kapcsolatos adatfeldolgozási feladatokat ellátó szerv szolgáltatja a gyermekgondozást segítő ellátás igénybevételére vonatkozó adatokat;
+
+d) az egészségbiztosítási szerv szolgáltatja a gyermekgondozási díj igénybevételére vonatkozó adatokat;
+
+e) a szakképzési ágazati nyilvántartás szolgáltatja az Országos Képzési Jegyzék szerinti, a szakképzésben megszerzett végzettségre és szakképesítésre vonatkozó adatokat;
+
+f) az idegenrendészeti hatóság szolgáltatja a külföldiek magyarországi tartózkodási jogcímére vonatkozó adatokat.
+
+A felvételi eljárással kapcsolatos személyes és különleges adatot – ha az eljárás eredményeként hallgatói jogviszony létesítésére nem kerül sor – a felvételi jelentkezési lap benyújtásától számított két évig lehet kezelni.
+
+8. A felsőoktatási információs rendszerből személyes adat az adatok pontosságának, teljességének, időszerűségének biztosítása céljából rendszeresen, valamint a diákigazolvány igénylés keretében továbbítható a személyi és lakcímnyilvántartás szerve részére.
+
+9. A köznevelési információs rendszer szolgáltatja a felsőoktatás információs rendszer működéséért felelős szerv részére a felvételi kérelmek elbírálásához szükséges adatokat, valamint a jelentkező, hallgató tanulói azonosító számát.
 
 IV. A FELSŐOKTATÁSI INTÉZMÉNY FENNTARTÓJA ÁLTAL NYILVÁNTARTOTT ÉS KEZELT SZEMÉLYES ÉS KÜLÖNLEGES ADATOK
 
@@ -3462,7 +3484,7 @@ a) a jelentkező természetes személyazonosító adatai, felsőoktatási képz�
 
 b) a jelentkező hallgatói azonosítója,
 
-c) a jelentkező ügyfélkapus kapcsolati kódja.
+c) a jelentkező KÜNY kapcsolati kódja.
 
 2. Az 1–1/A. pontban megjelölt – az 1. pont a), b), i)–m) alpont, illetve az 1/A. pont szerinti adatok tekintetében a felsőoktatási információs rendszer működtetéséért felelős szerv által átadott – adatok kezelésére a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv jogosult.
 
@@ -3482,13 +3504,13 @@ b) a nemzetbiztonsági szolgálatnak az Nbtv.-ben meghatározott feladatok ellá
 
 c) a miniszternek egyedileg vagy informatikai rendszerben biztosított közvetlen elérés útján az ágazati irányítással összefüggő feladatok ellátása, a miniszteri hatósági jogkör gyakorlása céljából a feladatok ellátásához szükséges valamennyi adat.
 
-6. A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv a nyilvántartott személyek azonosítása és a változások követése, ellenőrzése céljából térítésmentesen, elektronikus úton az 1. pont szerinti, az adott szerv által nyilvántartott adatot igényelheti a személyiadat- és lakcímnyilvántartás központi szervétől, az állami foglalkoztatási szervtől a kincstártól, az egészségbiztosítási szervtől, a nyugdíjbiztosítási igazgatási szervtől, a felsőoktatási információs rendszer működéséért felelős szervtől és az adóhatóságtól.
+6. A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv a nyilvántartott személyek azonosítása és a változások követése, ellenőrzése céljából térítésmentesen, elektronikus úton az 1. pont szerinti, az adott szerv által nyilvántartott adatot igényelheti a személyiadat- és lakcímnyilvántartást kezelő szervétől, az állami foglalkoztatási szervtől a kincstártól, az egészségbiztosítási szervtől, a nyugdíjbiztosítási igazgatási szervtől, a felsőoktatási információs rendszer működéséért felelős szervtől és az adóhatóságtól.
 
-A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv a (volt) állami (rész)ösztöndíjas hallgató természetes személyazonosító adatait és lakcímét azonosítás céljából elektronikus úton megküldi a személyiadat- és lakcímnyilvántartás központi szervének. A sikeres azonosítást követően a személyiadat- és lakcímnyilvántartás központi szerve kapcsolati kódot képez, amelyet azonosítás céljából megküld a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szervnek. A személyiadat- és lakcímnyilvántartás központi szerve az azonosított természetes személy természetes személyazonosító adatainak és lakcímének a személyiadat- és lakcímnyilvántartásban bekövetkezett változásáról a kapcsolati kódon értesíti a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szervet.
+A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv a (volt) állami (rész)ösztöndíjas hallgató természetes személyazonosító adatait és lakcímét azonosítás céljából elektronikus úton megküldi a személyiadat- és lakcímnyilvántartást kezelő szervének. A sikeres azonosítást követően a személyiadat- és lakcímnyilvántartást kezelő szerve kapcsolati kódot képez, amelyet azonosítás céljából megküld a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szervnek. A személyiadat- és lakcímnyilvántartást kezelő szerve az azonosított természetes személy természetes személyazonosító adatainak és lakcímének a személyiadat- és lakcímnyilvántartásban bekövetkezett változásáról a kapcsolati kódon értesíti a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szervet.
 
-7. A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv azonosítás és a változások követése, ellenőrzése céljából történő adatigényléshez a személyiadat- és lakcímnyilvántartás központi szervének, az állami foglalkoztatási szervnek, a kincstárnak, az egészségbiztosítási szervnek, a nyugdíjbiztosítási igazgatási szervnek, a felsőoktatási információs rendszer működéséért felelős szervnek és az adóhatóságnak megküldheti a nyilvántartott személyek természetes személyazonosító adatait, továbbá hallgatói azonosítóját, adóazonosító jelét és társadalombiztosítási azonosító jelét. A sikeres azonosítást követően
+7. A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv azonosítás és a változások követése, ellenőrzése céljából történő adatigényléshez a személyiadat- és lakcímnyilvántartást kezelő szervének, az állami foglalkoztatási szervnek, a kincstárnak, az egészségbiztosítási szervnek, a nyugdíjbiztosítási igazgatási szervnek, a felsőoktatási információs rendszer működéséért felelős szervnek és az adóhatóságnak megküldheti a nyilvántartott személyek természetes személyazonosító adatait, továbbá hallgatói azonosítóját, adóazonosító jelét és társadalombiztosítási azonosító jelét. A sikeres azonosítást követően
 
-a) a személyiadat- és lakcímnyilvántartás központi szerve a (volt) magyar állami ösztöndíjas hallgató családi és utónevére, születési családi és utónevére, lakcímére (lakóhely és tartózkodási hely), értesítési címére, a személyiadat- és lakcímnyilvántartásból kikerülés okára és időpontjára, állampolgárságára,
+a) a személyiadat- és lakcímnyilvántartást kezelő szerve a (volt) magyar állami ösztöndíjas hallgató családi és utónevére, születési családi és utónevére, lakcímére (lakóhely és tartózkodási hely), értesítési címére, a személyiadat- és lakcímnyilvántartásból kikerülés okára és időpontjára, állampolgárságára,
 
 b) az állami foglalkoztatási szerv a (volt) magyar állami ösztöndíjas hallgatónak a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvényben meghatározott álláskeresőként történő nyilvántartásba vételére, valamint az álláskeresőként eltöltött időtartamra,
 
@@ -3524,7 +3546,8 @@ vonatkozóan kért nyilvántartott adatokat átadja a magyar állami ösztöndí
 
 - 1. A nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartásában nyilvántartott adatok:
   - a) a vizsgázó személy természetes személyazonosító adatai;
-  - b) a nyelvvizsgára vonatkozó következő adatok: ba) a vizsgaközpont megnevezése, bb) a vizsgahely megnevezése, bc) a vizsgaidőszak megjelölése, bd) a vizsga neve, szintje, típusa (szóbeli vagy írásbeli), be) a vizsga helye, ideje, bf) a vizsgáztató és a feladatjavító neve, bg) a vizsga eredménye (sikeres vagy sikertelen), bh) a vizsgarészenként elért pontok és bi) a vizsgán elért pontszám az elérhető összpontszám százalékában kifejezve; valamint bj) a vizsga anyakönyvi száma;c) a bizonyítványra vonatkozó adatok: ca) a bizonyítvány száma, cb) a bizonyítvány státusza: beterjesztés, jóváhagyás, a nyomdába és a nyomdából érkezés időpontja, cc) a bizonyítvány hitelessége.
+  - b) a nyelvvizsgára vonatkozó következő adatok: ba) a vizsgaközpont megnevezése, bb) a vizsgahely megnevezése, bc) a vizsgaidőszak megjelölése, bd) a vizsga neve, szintje, típusa (szóbeli vagy írásbeli), be) a vizsga helye, ideje, bf) a vizsgáztató és a feladatjavító neve, bg) a vizsga eredménye (sikeres vagy sikertelen), bh) a vizsgarészenként elért pontok és bi) a vizsgán elért pontszám az elérhető összpontszám százalékában kifejezve; valamint bj) a vizsga anyakönyvi száma;
+  - c) a bizonyítványra vonatkozó adatok: ca) a bizonyítvány száma, cb) a bizonyítvány státusza: beterjesztés, jóváhagyás, a nyomdába és a nyomdából érkezés időpontja, cc) a bizonyítvány hitelessége.
 - 2. Az adatkezelés célja: A nyelvvizsga-bizonyítványok nyomtatása, hitelesítése, az elveszett nyelvvizsga-bizonyítványok után hatósági igazolvány kiállítása.
 - 3. Az adatkezelés időtartama: A nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartásában adatot a nyelvvizsga letételétől számított nyolcvan évig lehet kezelni.
 - 4. Továbbítható:

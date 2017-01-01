@@ -41,9 +41,11 @@ Az adóbevételek biztosítása érdekében, az állampolgárok közterhekhez va
 
 (5) Az (1) és (3) bekezdésben meghatározott esetben a kifizető a magánszemély nyilatkozata alapján alkalmazhatja a kedvezményre vonatkozó szabályokat, ideértve különösen az adó, adóelőleg megállapítását. Az (1) és (3) bekezdésben meghatározott esetben a magánszemély kedvezményre való jogosultságának hatósági eljárás során történő igazolására a másik államban érvényesített kedvezményt is tartalmazó, az említett állam joga szerint az adókötelezettség megállapítására szolgáló okirat (így különösen bevallás, határozat) szolgál.
 
-1/B. § (1) A külföldi illetőségű előadóművész választhatja, hogy az előadóművészi minőségében Magyarországon kifejtett tevékenységével összefüggésben megszerzett, kifizetőnek nem minősülő személytől származó, nemzetközi egyezmény alapján, vagy nemzetközi egyezmény hiányában belföldön adóztatható jövedelme után keletkező adókötelezettségét e § rendelkezései szerint teljesíti. A választás feltétele, hogy a magánszemély bármely 12 hónapos időszakban 183 napot meg nem haladóan tartózkodik Magyarországon és a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény szerint nem belföldi.
+1/B. § (1) A külföldi illetőségű előadóművész választhatja, hogy az előadóművészi minőségében Magyarországon kifejtett tevékenységével összefüggésben megszerzett, kifizetőnek nem minősülő személytől származó, nemzetközi egyezmény alapján, vagy nemzetközi egyezmény hiányában belföldön adóztatható jövedelme után keletkező adókötelezettségét e § rendelkezései szerint teljesíti. A választás feltétele, hogy a magánszemély ideiglenesen tartózkodik Magyarországon és a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény szerint nem belföldi. Ideiglenesnek tekinthető a magyarországi tartózkodás, ha a magánszemély bármely 12 hónapos időszakban 183 napot meg nem haladóan tartózkodik Magyarországon; filmalkotás esetén nem változtat a tartózkodás ideiglenes jellegén, ha a filmalkotás gyártási időszakának (ideértve az előkészítést is) időtartama meghaladja a 183 napot.
 
-(2) Az (1) bekezdés szerinti bevételből – ideértve a tevékenységgel összefüggésben fizetett költségtérítést és a biztosított szállás ellenértékét is – a magánszemély a jövedelmet 30 százalék átalányköltség levonásával állapítja meg. Ez a jövedelem nem tartozik az összevont adóalapba.
+(1a) Az (1) bekezdés szerinti valamennyi feltétel teljesülése esetén a mozgóképről szóló 2004. évi II. törvény 31/B. § (2) bekezdés d) pontja szerint bejelentett külföldi illetőségű nem előadóművész magánszemély (külföldi stábtag) is választhatja az e § szerinti adózást.
+
+(2) Nem képezi az (1) bekezdés szerinti bevétel részét a tevékenység ellátásával összefüggésben utazásra és szállásra fizetett költségtérítés, ideértve a magánszemély részére biztosított utazás, szállás ellenértékét is. Az előzőek szerint megállapított bevételből a magánszemély a jövedelmet költség levonása nélkül állapítja meg, amely jövedelem nem tartozik az összevont adóalapba.
 
 (3) Amennyiben a (2) bekezdés szerinti bevétel nem önálló tevékenységre tekintettel illeti meg a magánszemélyt, és annak összege másként nem állapítható meg, a magánszemély azt – választása szerint – a (2) bekezdés szerinti tevékenysége szokásos díjazásának a Magyarországon végzett tevékenysége napjaival arányos részeként is megállapíthatja.
 
@@ -111,7 +113,7 @@ azzal, hogy a létérdekek központja az az állam, amelyhez a magánszemélyt a
   - m)
   - n) a társasági adóról és az osztalékadóról szóló törvény szerinti ingatlannal rendelkező társaságban lévő részesedés ellenérték fejében történő átruházása, kölcsönbe adása vagy ilyen társaságból történő kivonása révén megszerzett jövedelem esetében – az a), az i), a k) és az o) alpontban foglaltaktól függetlenül – belföld;
   - o) az a)–n) alpontokban nem említett esetben a magánszemély illetősége szerinti állam.
-- 5. Alacsony adókulcsú állam: az az állam, amelyben törvény nem ír elő a társasági adónak megfelelő adókötelezettséget vagy az előírt adómérték legfeljebb 10 százalék, kivéve, ha az állammal Magyarország egyezményt kötött a kettős adóztatás elkerülésére a jövedelem- és a vagyonadók területén.
+- 5. Alacsony adókulcsú állam: az az állam, amelyben törvény nem ír elő a társasági adónak megfelelő adókötelezettséget vagy az előírt adómérték kevesebb, mint 9 százalék, kivéve, ha az állammal Magyarország egyezményt kötött a kettős adóztatás elkerülésére a jövedelem- és a vagyonadók területén.
 - 6. Adóév: az az időszak, amelyre vonatkozóan az adó alapját meg kell állapítani; ez a naptári év, az e törvényben meghatározott kivételekkel.
 - 7. Jóváírás: az a pénzügyi művelet, amelynek eredményeként a magánszemély az adott bevétel felett rendelkezhet.
 - 8. Adókötelezettség: a bejelentésre, a nyilatkozattételre, az adóalap- és adómegállapításra, a bevallásra, az adóelőleg- és adófizetésre, az adólevonásra, a nyilvántartás-vezetésre, a bizonylatkiállításra, az adatszolgáltatásra, az iratok megőrzésére vonatkozóan a bevételt szerző magánszemély és az adóztatásban közreműködő kifizető számára e törvény és az adózás rendjéről szóló törvény rendelkezései szerint előírt tennivalók összessége.
@@ -156,7 +158,7 @@ azzal, hogy munkaerő-kölcsönzés, illetve egy munkakörre több munkáltatóv
   - c) a szociális igazgatásról és szociális ellátásokról szóló törvény alapján folyósított adóköteles ellátás;
   - d) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény alapján folyósított álláskeresési járadék, álláskeresési segély, ha ennek megállapítására nem a magánszemélyre irányadó öregségi nyugdíjkorhatár öt évet meg nem haladó időtartamon belüli betöltésére is figyelemmel került sor, továbbá a keresetkiegészítés és keresetpótló juttatás;
   - e) a Magyar Honvédségnél tartalékos katonai szolgálatot teljesítő magánszemély illetménye;
-  - f) az a)–e) pontban meghatározott jövedelmet pótló kártérítés (keresetpótló járadék), ideértve a felelősségbiztosítás alapján ilyen címen fizetett kártérítést is, de ide nem értve a nyugdíjban részesülő magánszemélyt megillető baleseti járadékot;
+  - f) az a)–e) pontban meghatározott jövedelmet pótló kártérítés (keresetpótló járadék), ideértve a rendvédelmi egészségkárosodási keresetkiegészítést és rendvédelmi egészségkárosodási járadékot, valamint a honvédelmi egészségkárosodási keresetkiegészítést és honvédelmi egészségkárosodási járadékot a felelősségbiztosítás alapján ilyen címen fizetett kártérítést is, de ide nem értve a nyugdíjban részesülő magánszemélyt megillető baleseti járadékot;
   - g) a nevelőszülői foglalkoztatási jogviszonyban végzett tevékenység díjazása.
 - 22. Munkaviszonyból származó jövedelem: a magánszemélyt munkaviszonyára (ideértve a munkaviszonynak megfelelő, külföldi jog szerinti jogviszonyt is) tekintettel megillető adóköteles bevétel.
 - 23. Nyugdíj:
@@ -166,7 +168,7 @@ azzal, hogy munkaerő-kölcsönzés, illetve egy munkakörre több munkáltatóv
   - d)
   - e) az egyes nyugdíjak felülvizsgálatáról, illetőleg egyes nyugdíjkiegészítések megszüntetéséről szóló törvény alapján folyósított, a nyugdíj-kiegészítésnek megfelelő, valamint azzal azonos pótlék;
   - f) a társadalombiztosítási nyugellátásról szóló törvény hatálybalépése előtt hatályos jogszabály alapján megállapított saját jogú és hozzátartozói nyugellátások (így különösen a társadalombiztosításról szóló törvényben és a végrehajtásáról rendelkező kormányrendeletben meghatározott, mezőgazdasági szövetkezeti tagságon alapuló öregségi, munkaképtelenségi és özvegyi járadék, valamint a szakszövetkezeti tagságon alapuló növelt összegű öregségi, munkaképtelenségi és özvegyi járadék);
-  - g) a Kiváló és Érdemes Művészeket, valamint a Népművészet Mestereit és özvegyüket megillető, törvényben meghatározott járadék (nyugdíj-kiegészítés), az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló törvényben meghatározott balettművészeti életjáradék, valamint a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított ellátás;
+  - g) a Kiváló és Érdemes Művészeket, valamint a Népművészet Mestereit és özvegyüket megillető, törvényben meghatározott járadék (nyugdíj-kiegészítés), az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló törvényben meghatározott táncművészeti életjáradék, valamint a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított ellátás;
   - h) a bányászatról szóló törvényben meghatározott átmeneti bányászjáradék, a nyugdíjas bányászok szénjárandóságának pénzbeli megváltásáról szóló kormányrendelet alapján folyósított pénzbeli szénjárandóság, valamint ugyanezen kormányrendelet szerint a pénzbeli szénjárandóságra jogosult magánszemély – a jogosult elhalálozása esetén a kormányrendeletben meghatározott közeli hozzátartozója – számára a jogosult volt munkáltatója, vagy a munkáltató jogutódja által folyósított pénzbeli szénjárandóságnak a kormányrendeletben meghatározott mértéket meg nem haladó része;
   - i) a nemzeti helytállásért elnevezésű pótlék bevezetéséről szóló kormányrendeletben meghatározott pótlék;
   - j) a bevett egyház belső szabálya szerint létrehozott és az egyházi jogi személy által működtetett nyugdíjalapból a bevett egyház idős, rokkant egyházi személy tagja vagy az említett tag özvegye számára folyósított nyugellátás vagy nyugdíjkiegészítés;
@@ -208,7 +210,7 @@ azzal, hogy munkaerő-kölcsönzés, illetve egy munkakörre több munkáltatóv
 - 50. Halászati csekély összegű (de minimis) támogatás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra- ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendelet (HL L 190., 2014.06.28., 45–54. o.) szerinti támogatás.
 - 51. Termőföld: a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott mező-, erdőgazdasági hasznosítású föld.
 - 52.
-- 53. Termőföld haszonbérbe adása: a termőföld, illetve halastó magánszemély tulajdonosa vagy haszonélvezője által egy vagy több évre, írásban kötött megállapodás alapján, bérleti díj ellenében mező-, erdőgazdasági, illetve halászati hasznosításra történő földterület-bérbeadás, továbbá erdő művelési ágban nyilvántartott föld hasznosításának a tulajdonos által az erdőbirtokossági társulatban fennálló tagsági viszonya alapján az erdőbirtokossági társulat részére történő átadása.
+- 53. Termőföld haszonbérbe adása: a termőföld, illetve halastó magánszemély tulajdonosa vagy haszonélvezője által egy vagy több évre, írásban kötött megállapodás alapján, ellenérték fejében a föld használati jogosultságának mező-, erdőgazdasági, illetve halászati hasznosításra történő átengedése.
 - 54. Beruházási költség: az e törvény szerint költségként elismert, igazolt, a tárgyi eszköz, a nem anyagi javak üzembe helyezése érdekében az üzembe helyezés napjáig felmerült, az előírt nyilvántartásban feltüntetett kiadás.
 - 55–57.
 - 58.
@@ -240,26 +242,26 @@ azzal, hogy munkaerő-kölcsönzés, illetve egy munkakörre több munkáltatóv
 - 82.
 - 83. Kiküldetési rendelvény: a kifizető által két példányban kiállított bizonylat, amely tartalmazza a magánszemély nevét, adóazonosító jelét, a gépjármű gyártmányának, típusának megnevezését, forgalmi rendszámát, a hivatali, üzleti utazás(ok) célját, időtartamát, útvonalát, a futásteljesítményt, az utazás költségtérítését, valamint ezen költségtérítés kiszámításához szükséges adatokat (üzemanyag-fogyasztási norma, üzemanyagár stb.), azzal, hogy kiküldetési rendelvénynek minősül az említett adatokat tartalmazó, a digitális archiválás szabályairól szóló jogszabály rendelkezéseit is figyelembe véve zárt rendszerben kezelt és tárolt, elektronikus úton előállított bizonylat is. A papír alapon kiállított kiküldetési rendelvény eredeti példányát a kifizető, másolatát a magánszemély a bizonylatmegőrzésre vonatkozó rendelkezések betartásával megőrzi.
 - 84.
-- 85. Ellenőrzött külföldi társaság: a társasági adóról és az osztalékadóról szóló törvény szerinti ellenőrzött külföldi társaság.
+- 85.
 - 86.
-- 87. Erzsébet-utalvány: a Magyar Nemzeti Üdülési Alapítvány által papír alapon vagy elektronikus formában kibocsátott, fogyasztásra kész étel és melegkonyhás vendéglátóhelyeken étkezési szolgáltatás vásárlására felhasználható utalvány.
+- 87.
 - 88. Iskolarendszeren kívüli képzés: olyan képzés, amelynek résztvevői nem állnak a képző intézménnyel tanulói vagy hallgatói jogviszonyban.
 - 89. Adóköteles biztosítási díj: magánszemély biztosítottra kötött biztosítási szerződés alapján más személy által fizetett díj (ide nem értve a magánnyugdíjpénztár által biztosítóintézettől történő járadékvásárlás ellenértékét és a biztosítás 1. számú melléklet szerint adómentes díját) a biztosított magánszemélynél.
 - 90. Személybiztosítás: az élet-, a baleset- és a betegségbiztosítás.
 - 91. Kockázati biztosítás: az olyan személybiztosítás, amely esetében biztosítási esemény bekövetkezése nélkül vagyoni érték kivonására nincs lehetőség (így különösen nincs lejárati szolgáltatása és visszavásárlási értéke), azzal, hogy kockázati biztosításnak minősül a kockázati biztosítási elemeket is magában foglaló biztosítások esetében az igazoltan elkülönített kockázati biztosítási rész is, de nem minősül kockázati biztosításnak az olyan biztosítás – akkor sem, ha a biztosító teljesítését biztosítási esemény váltja ki –, ha az adott biztosítási szerződés vonatkozásában a biztosítási feltételek szerint a biztosító teljesítésének összege nem haladhatja meg az adott biztosítási szerződésre befizetett biztosítási díj és az azzal kapcsolatosan képződő hozam együttes összegét; e rendelkezés alkalmazásában nem minősül vagyoni érték kivonásának az a biztosítási esemény bekövetkezése nélküli biztosítói teljesítés (így különösen a díjkedvezmény, díjengedmény, díjvisszatérítés), amelyre a díjat fizető személy jogosult, de vagyoni érték kivonásának minősül, ha a személybiztosítás díját más személy – ide nem értve a kifizetőnek nem minősülő magánszemélyt – fizette és a biztosítási esemény bekövetkezése nélküli biztosítói teljesítésre a biztosítás feltételei szerint magánszemély jogosult, ez utóbbi esetben azzal, hogy amennyiben a magánszemély erre a szerződéskötést követően egy későbbi időpontban válik jogosulttá, akkor a biztosítás a teljes tartam alatt nem minősül kockázati biztosításnak.
 - 92. Életbiztosítás: az olyan személybiztosítás, amely alapján a biztosító a természetes személy halála, meghatározott életkor vagy időpont elérése vagy más esemény bekövetkezése esetére a szerződésben meghatározott biztosítási összeg kifizetésére, járadék élethosszig tartó vagy meghatározott időszakra történő folyósítására vállal kötelezettséget.
-- 93. Nyugdíjbiztosítás: az olyan életbiztosítás, ahol a biztosító teljesítésére – a haláleseti szolgáltatást kivéve – a nyugdíjbiztosítási szerződés egész tartama alatt a biztosított jogosult, és a biztosítói teljesítést a biztosított
+- 93. Nyugdíjbiztosítás: az olyan életbiztosítás, ahol a biztosító teljesítésére – a haláleseti szolgáltatást kivéve – a nyugdíjbiztosítási szerződés egész tartama alatt a biztosított jogosult, és a biztosító szolgáltatását a biztosított
   - a) halála,
   - b) társadalombiztosítási nyugellátásról szóló jogszabály szerinti saját jogú nyugellátásra való jogosultságának megszerzése (ez alatt a tényleges nyugdíjas állapotot kell érteni),
   - c) egészségi állapotának legalább 40%-os mértéket elérő károsodása, feltéve, hogy a nyugdíjbiztosítási szerződés létrejöttének időpontjában a biztosított egészségkárosodása a 40%-os mértéket nem éri el (függetlenül attól, hogy rokkantsági vagy rehabilitációs ellátásra jogosult-e vagy sem), vagy
   - d) a szerződés létrejöttekor érvényes öregségi nyugdíjkorhatár biztosított általi betöltése
 
-váltja ki, feltéve, hogy a nyugdíjbiztosítási szerződés létrejöttétől (az ajánlat vagy a szerződésmódosítás ügyfél részéről történő aláírásának napjától) a biztosító biztosítási eseményre tekintettel történő teljesítéséig (kivéve a biztosított halálát, a biztosított legalább 40%-os mértékű egészségkárosodását, valamint kivéve, ha a biztosító teljesítése nem csökkenő összegű járadékszolgáltatás és a járadékszolgáltatást a szerződés létrejöttétől számított legalább 10. év végéig vagy a biztosított haláláig nyújtják) legalább 10 év eltelik, azzal, hogy a nyugdíjbiztosítási szerződésnek az a)–d) pontokban szereplő biztosítási eseményeket – a c) pont kivételével, ha a biztosított egészségkárosodása a nyugdíjbiztosítási szerződés létrejöttekor a 40%-os mértéket már eléri – tartalmaznia kell, és az a)–d) pontokban szereplő biztosítási eseményeken kívül más biztosítási eseményt nem tartalmazhat. Amennyiben a járadékszolgáltatás egy hónapra jutó várható összege a 10 ezer forintot nem éri el, a járadékszolgáltatás – a szerződés létrejöttétől számított 10. év letelte előtt – egy összegben is teljesíthető.
+váltja ki, feltéve, hogy a nyugdíjbiztosítási szerződés létrejöttétől (az ajánlat vagy a szerződésmódosítás ügyfél részéről történő aláírásának napjától) a biztosító biztosítási eseményre tekintettel történő teljesítéséig (kivéve a biztosított halálát, a biztosított legalább 40%-os mértékű egészségkárosodását, valamint kivéve, ha a biztosító teljesítése nem csökkenő összegű járadékszolgáltatás és a járadékszolgáltatást a szerződés létrejöttétől számított legalább 10. év végéig vagy a biztosított haláláig nyújtják) legalább 10 év eltelik, azzal, hogy a nyugdíjbiztosítási szerződésnek az a)–d) pontokban szereplő biztosítási eseményeket – a c) pont kivételével, ha a biztosított egészségkárosodása a nyugdíjbiztosítási szerződés létrejöttekor a 40%-os mértéket már eléri – tartalmaznia kell, és az a)–d) pontokban szereplő biztosítási eseményeken kívül más biztosítási eseményt nem tartalmazhat. Amennyiben a járadékszolgáltatás egy hónapra jutó várható összege az ötezer forintot nem éri el, a járadékszolgáltatás – a szerződés létrejöttétől számított 10. év letelte előtt – egy összegben is teljesíthető.
 
 - 94. Betegségbiztosítás (vagy egészségbiztosítás): az olyan személybiztosítás, amely alapján a biztosító a biztosított megbetegedése esetén a szerződésben meghatározott szolgáltatások teljesítésére vállal kötelezettséget, azzal, hogy betegségbiztosítás esetében a biztosító szolgáltatása kiterjedhet a szerződésben meghatározott, biztosítási eseménnyel kapcsolatban álló egészségügyi szolgáltatások miatt felmerült költségek egészségügyi szolgáltató számára történő megtérítésére is.
 - 95. Balesetbiztosítás: az olyan betegségbiztosítás (vagy egészségbiztosítás), amely alapján a biztosító a biztosított baleset miatt bekövetkező halála, egészségkárosodása vagy rokkantsága esetére a szerződésben meghatározott biztosítási összeg vagy járadék fizetésére, valamint a szerződésben meghatározott egyéb szolgáltatásra vállal kötelezettséget.
 - 96. Járadékbiztosítás: az olyan életbiztosítás – ideértve az azonnal induló, nem csökkenő összegű járadékbiztosítást is –, ahol a járadékszolgáltatást legalább a folyósítás megkezdésétől számított 10. év végéig, vagy a biztosított haláláig nyújtják, feltéve, hogy a járadék nem csökkenő összegű és legalább évente vagy annál gyakoribb kifizetéssel valósul meg.
-- 97. Nem csökkenő összegű járadékszolgáltatás: a biztosító olyan szolgáltatása, amikor a biztosító rendszeres teljesítései közül a mindenkori utolsó teljesítés – pénzben vagy más egységben kifejezett – összege nagyobb vagy egyenlő a mindenkori utolsó teljesítést közvetlenül megelőző biztosítói teljesítés összegénél, ideértve azt az esetet is, amikor a biztosítói teljesítés összege igazolhatóan kizárólag a biztosítói teljesítés gyakoriságának és/vagy a folyósítás tartamának módosulása miatt változik.
+- 97. Nem csökkenő összegű járadékszolgáltatás: a biztosító olyan szolgáltatása, amikor a biztosító rendszeres teljesítései közül a mindenkori utolsó teljesítés – pénzben vagy más egységben kifejezett – összege nagyobb vagy egyenlő a mindenkori utolsó teljesítést közvetlenül megelőző biztosítói teljesítés összegénél, ideértve azt az esetet is, amikor a biztosítói teljesítés összege igazolhatóan kizárólag a biztosítói teljesítés gyakoriságának és/vagy a folyósítás tartamának módosulása vagy a magánszemély rendelkezése alapján a nyugdíjbiztosítási szerződésen jóváírt adó kedvezményezett magánszemély részére történő kiutalása miatt változik.
 - 98. Biztosító teljesítése: a biztosító által a biztosítási jogviszonyra tekintettel bármilyen jogcímen kifizetett összeg, juttatott vagyoni érték, tekintettel az 1. számú melléklet rendelkezéseire is.
 - 99. Kiegészítő biztosítás: a nyugdíjbiztosításra vonatkozó rendelkezések alkalmazása során kiegészítő biztosítás az olyan biztosítás – függetlenül attól, hogy az milyen kockázatra nyújt fedezetet –, amelynek saját különös szerződési feltétele van és díja a nyugdíjbiztosítás díjától a számviteli jogszabályok szerint elkülönített (ideértve a szerződéses feltételek szerint rögzített módon meghatározott, levonással érvényesített díjat is).
 - 100. Pénzügyi intézmény: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti hitelintézet és pénzügyi vállalkozás, továbbá a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvény szerinti befektetési vállalkozás.
@@ -392,13 +394,13 @@ juttatott támogatást;
 
 alapján illeti meg.
 
-(1c) A 9. § (3a) bekezdésében említett esetet kivéve nem szerez bevételt a biztosított magánszemély, ha a más személy által kötött biztosítási jogviszonyba a szerződő helyébe lép, és a szerződő által korábban megfizetett biztosítási díjat a szerződőnek nem téríti meg.
+(1c) A 9. § (3a) és (3b) bekezdésében meghatározott eseteket kivéve nem szerez bevételt a biztosított magánszemély, ha a más személy által kötött biztosítási jogviszonyba a szerződő helyébe lép, és a szerződő által korábban megfizetett biztosítási díjat a szerződőnek nem téríti meg.
 
 (1d) A magánszemély részére nem eredményez adókötelezettséget – bármely adóévre vonatkozóan –, ha a magánszemély pénzügyi intézménnyel szemben fennálló követelését eredményező jogviszonya a pénzügyi intézmény felszámolása miatt szűnik meg, ideértve az adó feletti rendelkezés esetére meghatározott visszafizetési kötelezettséget is. A pénzügyi intézmény felszámolásával összefüggésben kárrendezés címén a magánszemélyt megillető összeg után adókötelezettség megállapításának nincs helye.
 
 (1e) Nem szerez bevételt a magánszemély a javadalmazási politika keretében megszerezhető pénzügyi eszközök kezelését szolgáló MRP szervezet résztvevőjeként az MRP szervezet tagi részesedésének és a szervezet által kezelt pénzügyi eszköz megszerzésével összefüggő kedvezmény révén.
 
-(2) Nem számít költségnek az a kiadás, amely alacsony adókulcsú államban székhellyel, állandó lakóhellyel rendelkező személy vagy egyébként ellenőrzött külföldi társaság részére juttatott ellenérték következtében merült fel, kivéve, ha a magánszemély bizonyítja, hogy a kiadás a bevételszerző tevékenységgel közvetlen összefüggésben, kizárólag a bevétel megszerzése, a tevékenység folytatása érdekében merült fel. Szintén nem számít költségnek az a kiadás, amely
+(2) Nem számít költségnek az a kiadás, amely alacsony adókulcsú államban székhellyel, állandó lakóhellyel rendelkező személy részére juttatott ellenérték következtében merült fel, kivéve, ha a magánszemély bizonyítja, hogy a kiadás a bevételszerző tevékenységgel közvetlen összefüggésben, kizárólag a bevétel megszerzése, a tevékenység folytatása érdekében merült fel. Szintén nem számít költségnek az a kiadás, amely
 
 - a) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvényben meghatározott vesztegetés, befolyással üzérkedés, vesztegetés nemzetközi kapcsolatokban vagy befolyással üzérkedés nemzetközi kapcsolatokban,
 - b) a Büntető Törvénykönyvről szóló 2012. évi C. törvényben meghatározott vesztegetés, vesztegetés elfogadása, hivatali vesztegetés, hivatali vesztegetés elfogadása, vesztegetés bírósági vagy hatósági eljárásban, vesztegetés elfogadása bírósági vagy hatósági eljárásban vagy befolyással üzérkedés
@@ -481,12 +483,10 @@ bűncselekmény elkövetése érdekében vagy azzal összefüggésben merült fe
 
 11. § (1) Az adót adóévenként be kell vallani. A magánszemély bevallási kötelezettségét a (2) bekezdés szerint önadózással vagy a 14. § rendelkezései szerint munkáltatói adómegállapítás révén teljesíti, annak figyelembevételével, hogy bármely esetben jogosult az összevont adóalapja adójának külön törvény szerint meghatározott részéről rendelkező nyilatkozatot adni.
 
-(2) A magánszemély – ha nem adott nyilatkozatot munkáltatói adómegállapításra, adójának megállapítását a munkáltatója nem vállalja vagy nem tett bevallási nyilatkozatot – az adózás rendjéről szóló törvény szerint előírt módon és határidőben önadózóként
+(2) A magánszemély – ha nem adott nyilatkozatot munkáltatói adómegállapításra vagy adójának megállapítását a munkáltatója nem vállalja – az adózás rendjéről szóló törvény szerint előírt módon és határidőben önadózóként
 
-- a) az adóhatóság közreműködése nélkül elkészített bevallást vagy
-- b) az állami adóhatóság által összeállított adóbevallási tervezet felhasználásával elkészített bevallást
-
-nyújt be az adóhatósághoz.
+- a) az adóhatóság közreműködése nélkül elkészített bevallást nyújt be az adóhatósághoz vagy
+- b) az adóbevallási tervezet adatait javítja, kiegészíti, vagy az adóbevallási tervezetben feltüntetett adatokkal egyetért azzal, hogy a b) pont alkalmazásában az adóbevallási tervezetben szereplő adatokkal való egyetértésnek kell tekinteni azt is, ha az adóbevallási tervezet az adózás rendjéről szóló törvény rendelkezése szerint a magánszemély bevallásának minősül.
 
 (3) Az (1)–(2) bekezdésben foglaltakat nem kell alkalmazni, ha a magánszemély az adóévben egyáltalán nem szerzett bevételt, vagy kizárólag olyan bevételt szerzett, amelyet nem kell bevallania. Nem kell bevallani azt a bevételt,
 
@@ -505,29 +505,7 @@ nyújt be az adóhatósághoz.
 
 12. §
 
-### Bevallási nyilatkozat
-
-12/A. § (1) A magánszemély az adóbevallási kötelezettségét bevallási nyilatkozattal teljesítheti, ha megfelel a (2) bekezdésben foglalt feltételeknek és
-
-- a) az adóévben kizárólag adóelőleget megállapító munkáltatótól szerzett belföldön adóköteles jövedelmet, ide nem értve
-  - aa) a kamatjövedelmet [65. §],
-  - ab) az osztalékból származó jövedelmet [66. §],
-  - ac) az árfolyamnyereségből származó jövedelmet [67. §],
-  - ad) a vállalkozásból kivont jövedelmet [68. §],
-  - ae) az ingatlan bérbeadásból származó jövedelmet, ha annak összege az egymillió forintot meghaladja,
-  - af) az önkéntes kölcsönös biztosítópénztár által a magánszemély javára jóváírt támogatói adományt;
-- b) tételes költségelszámolással költséget, költséghányadot – kivéve a 10 százalék költséghányadot – nem számol el, és az adóelőleg megállapítása során sem számolt el;
-- c) a jövedelemből adóalap-kedvezményt, az adóból adókedvezményt nem érvényesít, és az adóelőleg megállapítása során sem érvényesített;
-- d) az adójáról rendelkező önkéntes kölcsönös pénztári nyilatkozatot, nyugdíj-előtakarékossági nyilatkozatot, valamint nyugdíjbiztosítási nyilatkozatot nem ad;
-- e) más okból nem köteles adóhatósági közreműködés nélküli bevallást benyújtani.
-
-(2) Nem zárja ki a bevallási nyilatkozat megtételét, ha a magánszemély az adóévben
-
-- a) a közterhek teljesítéséhez az egyszerűsített közteherviselési hozzájárulásról szóló törvény szerinti közteherfizetésről jogszerűen tett nyilatkozatot az adóelőleget megállapító munkáltatónak,
-- b) egyszerűsített foglalkoztatásról szóló törvény szerinti jogviszonyból származó jövedelmet szerzett,
-- c) a magánszemélyek egyes jövedelmeinek különadójáról szóló jogszabály hatálya alá tartozó bevételt szerzett.
-
-(3) E § alkalmazásában nem minősül adóelőleget megállapító munkáltatónak az a társas vállalkozás, amellyel a magánszemély tagi jogviszonyban áll, és e jogviszonya alapján a magánszemély a társas vállalkozásnál díj ellenében személyes közreműködésre köteles.
+12/A. §
 
 ### Adóbevallási tervezettel összefüggő eljárás
 
@@ -552,7 +530,7 @@ nyújt be az adóhatósághoz.
 - m) valamely bevételével összefüggésben az egyszerűsített közteherviselési hozzájárulásról szóló törvény szabályai szerint különadót köteles fizetni, vagy a kifizetőt és az őt terhelő egyszerűsített közteherviselési hozzájárulás megállapítását, bevallását és megfizetését a kifizetőtől átvállalta;
 - n) valamely bevételével összefüggésben egészségügyi hozzájárulásra előleg-fizetési kötelezettsége keletkezett;
 - o) adóját e törvény külön rendelkezése szerint adóbevallásában kell (lehet) megállapítani;
-- p) az a)–o) pontban nem említett esetben – figyelemmel a 12. §, valamint a 14. § rendelkezéseire is –, ha nem tehet vagy nem tesz egyszerűsített bevallásra vagy munkáltatói elszámolásra vonatkozó nyilatkozatot.
+- p) az a)–o) pontban nem említett esetben – figyelemmel a 12. §, valamint a 14. § rendelkezéseire is –, ha nem tehet vagy nem tesz munkáltatói elszámolásra vonatkozó nyilatkozatot.
 
 (2) A magánszemély a külön adózó jövedelmei közül annak a jövedelemnek az adóját, amely nem kifizetőtől származik vagy egyébként, amely jövedelem adójának megállapítására maga köteles – ha az nem tartozik az adóelőleg megállapítására irányadó rendelkezések hatálya alá – az adóhatóság közreműködése nélkül elkészített bevallásában az adófizetési kötelezettség gyakoriságának megfelelő (havi, negyedéves) bontásban, negyedéves gyakoriságú adófizetési kötelezettség esetében a negyedév utolsó hónapjának kötelezettségeként vallja be.
 
@@ -581,7 +559,7 @@ nyújt be az adóhatósághoz.
 - b)
 - c) nyugdíj-előtakarékossági nyilatkozat alapján adójának átutalásáról rendelkezik;
 - d)
-- e) az adóévre a biztosítások kedvezménye miatt levont adó növelt összegű bevallására és megfizetésére köteles;
+- e) az adóévre a nyugdíjbiztosítás miatt az adóhatóság által korábban kiutalt összeg növelt összegű bevallására és megfizetésére köteles;
 - f) az adóévre az önkéntes kölcsönös egészségpénztári egyéni számláján lekötött összeg miatt levont, kiutalt adó növelt összegű bevallására és megfizetésére köteles;
 - g) nyugdíj-előtakarékossági számláról nem-nyugdíj szolgáltatásként felvett összeg vagy a nyugdíj-előtakarékossági számla tartós befektetési szerződéssel történő átalakítása miatt a kiutalt adó növelt összegű bevallására és megfizetésére köteles.
 
@@ -712,7 +690,7 @@ nyújt be az adóhatósághoz.
 - a) az utazási bérlettel, az utazási jeggyel történő, az említett kormányrendelet által előírt elszámolás ellenében, legfeljebb a bérlet, a jegy árát meg nem haladó értékben (ideértve azt az esetet is, ha a juttatás a munkáltató nevére szóló számla ellenében történő térítés formájában valósul meg), vagy
 - b) költségtérítés címén (ideértve különösen a saját gépjárművel történő munkába járás költségtérítését is)
   - ba) a munkában töltött napokra a munkahely és a lakó- vagy tartózkodási hely között és/vagy
-  - bb) hazautazásra a munkahely és a lakóhely között közforgalmi úton mért oda-vissza távolság figyelembevételével kilométerenként 9 forint értékben kap a magánszemély.
+  - bb) hazautazásra a munkahely és a lakóhely között közforgalmi úton mért oda-vissza távolság figyelembevételével kilométerenként 15 forint értékben kap a magánszemély.
 
 (3) A (2) bekezdés b) pontjában meghatározott összeget meghaladó költségtérítés – ha a törvény másként nem rendelkezik – a magánszemély (1) bekezdés szerinti jövedelme.
 
@@ -800,9 +778,9 @@ kell jövedelemnek tekinteni. A kötelező várakozási időszak leteltét köve
 
 (11)
 
-(12) Egyéb jövedelem az alacsony adókulcsú államban székhellyel rendelkező jogi személy, egyéb szervezet, vagy egyébként az ellenőrzött külföldi társaság (e § alkalmazásában bármelyik: ellenőrzött külföldi adózó) által, vagy az ellenőrzött külföldi adózó megbízása alapján fizetett kamat és osztalék, valamint az ellenőrzött külföldi adózó által kibocsátott értékpapír elidegenítéséért kapott bevételnek az értékpapír megszerzésére fordított értéket meghaladó része. Az értékpapír megszerzésére fordított értéket az árfolyamnyereségből származó jövedelemre vonatkozó rendelkezések megfelelő alkalmazásával kell megállapítani. Ugyancsak egyéb jövedelem az olyan államban belföldi illetőséggel bíró személy által fizetett kamat, amely állammal Magyarországnak nincs hatályos egyezménye a kettős adóztatás elkerülésére a jövedelem- és a vagyonadók területén.
+(12) Egyéb jövedelem az alacsony adókulcsú államban székhellyel rendelkező jogi személy, egyéb szervezet által vagy az ilyen jogi személy, egyéb szervezet megbízása alapján fizetett kamat és osztalék, valamint az alacsony adókulcsú államban székhellyel rendelkező jogi személy, egyéb szervezet által kibocsátott értékpapír elidegenítéséért kapott bevételnek az értékpapír megszerzésére fordított értéket meghaladó része. Az értékpapír megszerzésére fordított értéket az árfolyamnyereségből származó jövedelemre vonatkozó rendelkezések megfelelő alkalmazásával kell megállapítani. Ugyancsak egyéb jövedelem az olyan államban belföldi illetőséggel bíró személy által fizetett kamat, amely állammal Magyarországnak nincs hatályos egyezménye a kettős adóztatás elkerülésére a jövedelem- és a vagyonadók területén.
 
-(13) Egyéb jövedelem az ellenőrzött külföldi adózó jogutód nélküli megszűnése, jegyzett tőkéjének tőkekivonás útján történő leszállítása következtében a magánszemély által – tagi (részvényesi, üzletrész-tulajdonosi) jogviszonya alapján – az ellenőrzött külföldi adózó vagyonából megszerzett bevételnek az ellenőrzött külföldi adózó által kibocsátott részvény, üzletrész, más hasonló értékpapír vagy jog megszerzésére fordított értéket meghaladó része. Ugyancsak egyéb jövedelem az ellenőrzött külföldi adózó vagyonából a magánszemély által – tagi (részvényesi, üzletrész-tulajdonosi) jogviszonya megszűnése (ide nem értve a részvény, az üzletrész, más hasonló értékpapír vagy jog átruházását) következtében – megszerzett bevételnek az ellenőrzött külföldi adózó által kibocsátott részvény, üzletrész, más hasonló értékpapír vagy jog megszerzésére fordított értéket meghaladó része. Az értékpapír (a jog) megszerzésére fordított értéket az árfolyamnyereségből származó jövedelemre vonatkozó, a jövedelemszerzés időpontját a vállalkozásból kivont jövedelemre vonatkozó rendelkezések megfelelő alkalmazásával kell megállapítani.
+(13) Egyéb jövedelem az alacsony adókulcsú államban székhellyel rendelkező jogi személy, egyéb szervezet jogutód nélküli megszűnése, jegyzett tőkéjének tőkekivonás útján történő leszállítása következtében a magánszemély által – tagi (részvényesi, üzletrész-tulajdonosi) jogviszonya alapján – a jogi személy, egyéb szervezet vagyonából megszerzett bevételnek a jogi személy, egyéb szervezet által kibocsátott részvény, üzletrész, más hasonló értékpapír vagy jog megszerzésére fordított értéket meghaladó része. Ugyancsak egyéb jövedelem az alacsony adókulcsú államban székhellyel rendelkező jogi személy, egyéb szervezet vagyonából a magánszemély által – tagi (részvényesi, üzletrész-tulajdonosi) jogviszonya megszűnése (ide nem értve a részvény, az üzletrész, más hasonló értékpapír vagy jog átruházását) következtében – megszerzett bevételnek a jogi személy, egyéb szervezet által kibocsátott részvény, üzletrész, más hasonló értékpapír vagy jog megszerzésére fordított értéket meghaladó része. Az értékpapír (a jog) megszerzésére fordított értéket az árfolyamnyereségből származó jövedelemre vonatkozó, a jövedelemszerzés időpontját a vállalkozásból kivont jövedelemre vonatkozó rendelkezések megfelelő alkalmazásával kell megállapítani.
 
 (14) Értékpapír vagy más vagyoni érték átruházása esetén egyéb jövedelem az átruházás ellenében megszerzett bevételből az a rész, amely meghaladja az ellenértékre a szerződéskötés időpontjában ismert szokásos piaci értéket, kivéve, ha adókötelezettségének e törvény szerinti jogcíme egyébként megállapítható.
 
@@ -823,29 +801,11 @@ kell jövedelemnek tekinteni. A kötelező várakozási időszak leteltét köve
 
 - a)–e)
 
-(20) Ha a magánszemély ellenőrzött külföldi társaság tagja, és/vagy abban más társaság(ok) révén közvetett részesedéssel/szavazattal rendelkezik annak adóéve (üzleti éve) utolsó napján, és abban a saját, valamint a Polgári Törvénykönyv szerinti közeli hozzátartozói együtt számított részesedése/közvetett részesedése vagy szavazati aránya/közvetett szavazati aránya eléri a 25 százalékot, egyéb jövedelem az ellenőrzött külföldi társaság adóéve (üzleti éve) utolsó napján kimutatott, a felosztott osztalékkal csökkentett adózott eredményéből, a magánszemély közvetlen és/vagy közvetett részesedésének arányában megállapított rész. A magánszemély e bekezdés szerint megállapított jövedelmének halmozott összegéről – figyelemmel a (21) bekezdésben foglaltakra is – nyilvántartást vezet. E rendelkezés alkalmazásában
-
-- a) közvetett részesedés, közvetett szavazati arány: a b) pont szerint számított, két tizedesre kerekítve százalékban kifejezett részesedési arány;
-- b) részesedési/szavazati arány számítása: a magánszemély közvetett részesedést/szavazatot biztosító társaságban lévő részesedésének/szavazati arányának és a köztes társaságban, illetve társaságokban fennálló részesedés(ek)nek/szavazati arány(ok)nak a szorzata azzal, hogy ha a köztes társaságban fennálló részesedés/szavazati arány mértéke az ötven százalékot meghaladja, akkor azt egy egészként kell figyelembe venni;
-- c) közvetett részesedést/szavazatot biztosító társaság: az a társaság, amelyben a magánszemély a közvetett részesedésre/szavazatra jogosító közvetlen részesedéssel/szavazattal rendelkezik;
-- d) köztes társaság: az a társaság, amelyben a magánszemély közvetett részesedést/szavazatot biztosító társasága közvetlen vagy más társaság(ok) révén közvetett részesedéssel/szavazattal rendelkezik;
-- e) a jövedelem megszerzésének időpontja: az a nap, amelyen az adózott eredményt a társaság arra jogosult szerve (taggyűlés, közgyűlés, más hasonló szerv) jóváhagyta.
-
-(21) A (20) bekezdés rendelkezésében említett nyilvántartás alapján a nyilvántartott összeget csökkenti, és
-
-- a) nem kell jövedelemként figyelembe venni
-  - aa) közvetlen részesedés esetén az ellenőrzött külföldi társaságtól
-  - ab) közvetett részesedés esetén – a közvetett részesedés arányában – a közvetett részesedést biztosító társaságtól
-
-a nyilvántartott (halmozott) adózott jövedelem összegét meg nem haladóan osztalék, felosztott nyereség vagy más hasonló címen megszerzett bevételt;
-
-- b) az ellenőrzött külföldi társaságban, illetve a közvetett részesedést biztosító társaságban, lévő részesedés ellenérték fejében történő átruházása, illetve a társaságból történő kivonása, valamint a társaság jogutód nélküli megszűnése esetén a részesedés megszerzésére fordított értéket növeli a nyilvántartott (halmozott) adózott jövedelemnek az átruházott, kivont, megszűnt részesedéssel arányos része azzal, hogy a jövedelem megállapítására az árfolyamnyereség, illetve a vállalkozásból kivont jövedelem megállapítására vonatkozó rendelkezések az irányadóak.
-
-(22) A (21) bekezdés rendelkezéseit értelemszerűen alkalmazni kell a (12)–(13) bekezdésben említett esetekben is.
+(20)–(22)
 
 ### Az összevont adóalap megállapítása
 
-29. § Az összevont adóalap az adóévben adókötelezettség alá eső valamennyi önálló, nem önálló tevékenységből származó, valamint egyéb bevételből megállapított jövedelem, továbbá átalányadózás esetén az egyéni vállalkozói, a mezőgazdasági kistermelői bevételből az átalányban megállapított jövedelem. Ha a jövedelem után a magánszemély kötelezett a szociális hozzájárulási adó, a 27 százalékos mértékű egészségügyi hozzájárulás megfizetésére (kivéve, ha az költségként elszámolható, vagy azt számára megtérítették), a megállapított jövedelem 78 százalékát kell jövedelemként figyelembe venni.
+29. § Az összevont adóalap az adóévben adókötelezettség alá eső valamennyi önálló, nem önálló tevékenységből származó, valamint egyéb bevételből megállapított jövedelem, továbbá átalányadózás esetén az egyéni vállalkozói, a mezőgazdasági kistermelői bevételből az átalányban megállapított jövedelem. Ha a jövedelem után a magánszemély kötelezett a szociális hozzájárulási adó, a 22 százalékos mértékű egészségügyi hozzájárulás megfizetésére (kivéve, ha az költségként elszámolható, vagy azt számára megtérítették), a megállapított jövedelem 82 százalékát kell jövedelemként figyelembe venni.
 
 ### Családi kedvezmény
 
@@ -872,7 +832,7 @@ kapja;
 
 - b) a várandós nő és a vele közös háztartásban élő házastársa;
 - c) a családi pótlékra saját jogán jogosult gyermek (személy);
-- d) a rokkantsági járadékban részesülő magánszemély a c)–d) pont szerinti esetben azzal, hogy az ott említett jogosult és a vele közös háztartásban élő hozzátartozói közül egy – a döntésük szerinti – minősül jogosultnak.
+- d) a rokkantsági járadékban részesülő magánszemély a c)–d) pont szerinti esetben azzal, hogy az ott említett jogosult és a vele közös háztartásban élő hozzátartozói (ideértve a gyermek szüleinek hozzátartozóit is) közül egy – a döntésük szerinti – minősül jogosultnak.
 
 (4) Kedvezményezett eltartott
 
@@ -884,7 +844,7 @@ kapja;
 (5) Eltartott
 
 - a) a kedvezményezett eltartott,
-- b) az, aki a családok támogatásáról szóló törvény szerint a családi pótlék összegének megállapítása szempontjából figyelembe vehető.
+- b) az, aki a családok támogatásáról szóló törvény szerint a családi pótlék összegének megállapítása szempontjából figyelembe vehető vagy figyelembe vehető lenne, akkor is, ha a kedvezményezett eltartott után nem családi pótlékot állapítanak meg, családi pótlékot nem állapítanak meg, vagy a családi pótlék összegét a gyermekek száma nem befolyásolja.
 
 (6) E § alkalmazásában jogosultsági hónap az a hónap,
 
@@ -902,7 +862,7 @@ kapja;
 
 (1d) Több jogosult vagy a kedvezmény megosztása esetén az igénybevétel feltétele az érintett magánszemélyek – adóbevallásban, munkáltatói adómegállapításban közösen tett, egymás adóazonosító jelét is feltüntető – nyilatkozata, amely tartalmazza, hogy a kedvezményt melyikük veszi igénybe, továbbá a kedvezmény összegének – az összeg vagy a kedvezményezett eltartottak számának felosztásával történő – közös igénybevételére, megosztására vonatkozó döntésüket.
 
-(1e) Ha jogerős bírósági döntés, egyezség alapján a szülők egyenlő időszakokban felváltva gondozzák gyermeküket, és ezért a családi pótlékra 50-50 százalékos arányban mindkét szülő jogosult, a gyermek mindkét szülő – valamint a szülő házastársa – vonatkozásában kedvezményezett eltartottnak minősül. A felváltva gondozott gyermek után a szülő (házastársa) a családi kedvezmény 29/A. § (2) bekezdés szerint meghatározott összege 50 százalékának érvényesítésére jogosult. A gyermeket felváltva gondozó szülők a családi kedvezmény közös érvényesítésére egymás között nem jogosultak.
+(1e) Ha jogerős bírósági döntés, egyezség, közös nyilatkozat alapján a szülők egyenlő időszakokban felváltva gondozzák gyermeküket, és ezért a családi pótlékra 50-50 százalékos arányban mindkét szülő jogosult, a gyermek mindkét szülő – valamint a szülő házastársa – vonatkozásában kedvezményezett eltartottnak minősül. A felváltva gondozott gyermek után a szülő (házastársa) a családi kedvezmény 29/A. § (2) bekezdés szerint meghatározott összege 50 százalékának érvényesítésére jogosult. A gyermeket felváltva gondozó szülők a családi kedvezmény közös érvényesítésére egymás között nem jogosultak.
 
 (2) A családi kedvezmény érvényesítésének feltétele a magánszemély adóbevalláshoz vagy munkáltatói adómegállapításhoz tett írásbeli nyilatkozata
 
@@ -937,7 +897,7 @@ esetén a bevallásban, munkáltatói adómegállapításban – a másik jogosu
 
 (3) A házastársak által együttesen érvényesíthető kedvezmény jogosultsági hónaponként 33 335 forint.
 
-(4) Jogosultsági hónapként a házassági életközösség fennállása alatt a házasságkötést követő hónaptól (azt első jogosultsági hónapnak tekintve) legfeljebb 24 hónap vehető figyelembe, de az említett időtartamon belül utoljára az a hónap, amelyet követően a magánszemély magzatra vagy gyermekre (ide nem értve a nevelt gyermeket) tekintettel családi kedvezményre válik jogosulttá.
+(4) Jogosultsági hónapként a házassági életközösség fennállása alatt a házasságkötést követő hónaptól (azt első jogosultsági hónapnak tekintve) legfeljebb 24 hónap vehető figyelembe.
 
 (5) A kedvezményt a házastársak – döntésük szerint – az összeg megosztásával közösen érvényesítik, ideértve azt az esetet is, ha a kedvezményt kizárólag egyikük veszi igénybe. A kedvezmény közös igénybevétele az adóbevallásban, munkáltatói adómegállapításban független attól, hogy az adóelőleg megállapításánál mely házastársnál történt annak figyelembevétele.
 
@@ -1014,7 +974,7 @@ esetén a bevallásban, munkáltatói adómegállapításban – a másik jogosu
 
 de legfeljebb az adóévben – az a)–b) pontok vonatkozásában együttesen – 150 ezer forint.
 
-(2) Az önkéntes kölcsönös pénztári nyilatkozatban a magánszemély által meghatározott összeg(ek) átutalását az adóhatóság – ha a magánszemélynek nincs az állami adóhatóságnál nyilvántartott adótartozása, és az adóbevallása alapján fizetendő adóját megfizette, az adózás rendjéről szóló törvénynek a visszatérítendő jövedelemadóra vonatkozó rendelkezései szerint, egyébként a magánszemély kérelmére az adótartozás, illetőleg az adóbevallás, adóhatósági adómegállapítás szerinti adó megfizetését követő 30 napon belül – a (6) bekezdésben említett esetet kivéve, a magánszemély által megjelölt olyan, önkéntes kölcsönös biztosító pénztár pénzforgalmi számlájára teljesíti, amelynél (jogelődjénél) a pénztár igazolása szerint történt az adóévben a rendelkezési jogosultságot megalapozó befizetés, jóváírás, lekötés, illetve rendelkezési jogosultságot megalapozó szolgáltatás igénybevétele. Több ilyen pénztár esetén is csak egy jelölhető meg. A pénztár végelszámolása, felszámolása, tevékenységének felfüggesztésének esetén, az előbbi rendelkezésektől eltérően, az adóhatóság értesítése alapján a magánszemély a teljesítést kérheti – nyilatkozata szerint – ha van más önkéntes kölcsönös pénztárban fennálló tagsága, ezen pénztár pénzforgalmi számlájára, ennek hiányában a saját pénzforgalmi számlájára (lakcímére). Amennyiben a megjelölt pénztárnak a magánszemély a teljesítéskor már nem tagja, a befolyt összeget a pénztár a magánszemély
+(2) Az önkéntes kölcsönös pénztári nyilatkozatban a magánszemély által meghatározott összeg(ek) átutalását az adóhatóság – ha a magánszemélynek nincs az állami adóhatóságnál ezer forintot meghaladó nyilvántartott adótartozása, és az adóbevallása alapján fizetendő adóját megfizette, az adózás rendjéről szóló törvénynek a visszatérítendő jövedelemadóra vonatkozó rendelkezései szerint, egyébként az adótartozás vagy az adóbevallás szerinti adó megfizetését követő 30 napon belül – a (6) bekezdésben említett esetet kivéve, a magánszemély által megjelölt olyan, önkéntes kölcsönös biztosító pénztár pénzforgalmi számlájára teljesíti, amelynél (jogelődjénél) a pénztár igazolása szerint történt az adóévben a rendelkezési jogosultságot megalapozó befizetés, jóváírás, lekötés, illetve rendelkezési jogosultságot megalapozó szolgáltatás igénybevétele. Több ilyen pénztár esetén is csak egy jelölhető meg. A pénztár végelszámolása, felszámolása, tevékenységének felfüggesztésének esetén, az előbbi rendelkezésektől eltérően, az adóhatóság értesítése alapján a magánszemély a teljesítést kérheti – nyilatkozata szerint – ha van más önkéntes kölcsönös pénztárban fennálló tagsága, ezen pénztár pénzforgalmi számlájára, ennek hiányában a saját pénzforgalmi számlájára (lakcímére). Amennyiben a megjelölt pénztárnak a magánszemély a teljesítéskor már nem tagja, a befolyt összeget a pénztár a magánszemély
 
 - a) más pénztárba történő átlépése esetén a befogadó pénztárhoz továbbutalja;
 - b) tagsági jogviszonyának nyugdíjszolgáltatás miatti megszűnése esetén minden további rendelkezés nélkül a magánszemélynek kiutalja;
@@ -1031,7 +991,7 @@ de legfeljebb az adóévben – az a)–b) pontok vonatkozásában együttesen �
 
 44/B. § (1) A nyugdíj-előtakarékossági számla-tulajdonos magánszemély az adóbevallásában tett nyilatkozat alapján rendelkezhet – akkor is, ha a nyugdíj-előtakarékossági számlát a nyilatkozattétel időpontját megelőzően nyugdíjszolgáltatásra jogosultsága miatt megszüntette, de a rendelkezést megalapozó befizetés évének utolsó napján az adott nyugdíj-előtakarékossági számláját még nem mondta fel – az adóévben általa nyugdíj-előtakarékossági számlára Magyarország törvényes fizetőeszközében befizetett összeg 20 százalékának, de legfeljebb az adóévben 100 ezer forintnak (annál a magánszemélynél, aki 2020. január 1. előtt tölti be a jogszabályok alapján reá irányadó öregségi nyugdíjkorhatárt, 130 ezer forintnak) az összevont adóalapja adójának az adókedvezmények levonása után fennmaradó részéből történő átutalásáról (nyugdíj-előtakarékossági nyilatkozat).
 
-(2) A nyugdíj-előtakarékossági nyilatkozatban meghatározott összeg átutalását az adóhatóság – ha a magánszemélynek az állami adóhatóságnál nincs nyilvántartott adótartozása, és az adóbevallása alapján fizetendő adóját megfizette, az adózás rendjéről szóló törvénynek a visszatérítendő jövedelemadóra vonatkozó rendelkezései szerint, egyébként a magánszemély kérelmére az adótartozás, illetőleg az adóbevallás szerinti adó megfizetését követő 30 napon belül – a magánszemély nyugdíj-előtakarékossági számláját vezető számlavezetőhöz, vagy ha az adott nyugdíj-előtakarékossági számla nyugdíjszolgáltatás igénylése miatt a nyilatkozattétel időpontjára már megszűnt, a nyilatkozatban megjelölt címre (számlára), illetve ha a magánszemély nyilatkozattételének időpontja után a kiutalás teljesülésének időpontjáig szűnt meg, a számlavezető által az adóhatóságnál erre a célra nyitott beszedési számlára történt visszautalást követően, kérelemre az abban megjelölt címre (számlára) utalja azzal, hogy ez a kiutalás más (újonnan nyitott) nyugdíj-előtakarékossági számlára nem teljesíthető.
+(2) A nyugdíj-előtakarékossági nyilatkozatban meghatározott összeg átutalását az adóhatóság – ha a magánszemélynek nincs az állami adóhatóságnál ezer forintot meghaladó nyilvántartott adótartozása, és az adóbevallása alapján fizetendő adóját megfizette, az adózás rendjéről szóló törvénynek a visszatérítendő jövedelemadóra vonatkozó rendelkezései szerint, egyébként az adótartozás vagy az adóbevallás szerinti adó megfizetését követő 30 napon belül – a magánszemély nyugdíj-előtakarékossági számláját vezető számlavezetőhöz, vagy ha az adott nyugdíj-előtakarékossági számla nyugdíjszolgáltatás igénylése miatt a nyilatkozattétel időpontjára már megszűnt, a nyilatkozatban megjelölt címre (számlára), illetve ha a magánszemély nyilatkozattételének időpontja után a kiutalás teljesülésének időpontjáig szűnt meg, a számlavezető által az adóhatóságnál erre a célra nyitott beszedési számlára történt visszautalást követően, kérelemre az abban megjelölt címre (számlára) utalja azzal, hogy ez a kiutalás más (újonnan nyitott) nyugdíj-előtakarékossági számlára nem teljesíthető.
 
 (3) A nyugdíj-előtakarékossági nyilatkozatot a magánszemély a nyugdíj-előtakarékossági számla vezetője által – az adózás rendjéről szóló törvénynek az adókedvezményre jogosító igazolás kiállítására vonatkozó előírásai szerint – kiadott igazolás alapján teheti meg, amely tartalmazza a rendelkezési jogosultság alapjául szolgáló összeget.
 
@@ -1063,7 +1023,7 @@ de legfeljebb az adóévben – az a)–b) pontok vonatkozásában együttesen �
 - b) a bekezdés b) pontja szerinti áthelyezés esetén a (4) bekezdés rendelkezését csak akkor nem kell alkalmazni, ha az áthelyezést követő 30 napon belül, vagy az átruházásra vonatkozó ügyletben jogszabály alapján meghatározott időpontig a magánszemély nyugdíj-előtakarékossági pénzszámlájára az értékpapír eladására adott megbízás teljesítés-igazolása szerinti összeget az ügyletben közreműködő befektetési szolgáltató átutalta, vagy ennek hiányában a magánszemély az értékpapír áthelyezés napján irányadó szokásos piaci értékének megfelelő összeget befizette, azzal, hogy az átutalt/befizetett összeg nem minősül nyugdíj-előtakarékossági nyilatkozat adására jogosító befizetésnek;
 - c) a bekezdés c) pontja szerinti áthelyezés esetén a (4) bekezdés rendelkezését csak akkor nem kell alkalmazni, ha az átalakításban, átalakulásban, egyesülésben, szétválásban közreműködő befektetési szolgáltató a kicserélt értékpapírt az ügyletben meghatározott időpontig a magánszemély nyugdíj-előtakarékossági értékpapírszámlájára áthelyezte.
 
-(8) A számlavezető az adóévet követő év február 15-éig adatot szolgáltat az állami adóhatóságnak
+(8) A számlavezető az adóévet követő év január 31-éig adatot szolgáltat az állami adóhatóságnak
 
 - a) a magánszemély „NYESZ-R” megkülönböztető jelzésre vonatkozó nyilatkozatáról a nyilatkozat keltének feltüntetésével;
 - b) a nyugdíj-előtakarékossági nyilatkozathoz a (3) bekezdés szerint kiadott igazolás tartalmáról;
@@ -1076,29 +1036,30 @@ de legfeljebb az adóévben – az a)–b) pontok vonatkozásában együttesen �
 
 (11) Ha a „NYESZ-R” jelzéssel ellátott számláról az adóhatóság a (8) bekezdés a) pontja szerinti adatszolgáltatás, valamint a (9) bekezdés alapján megállapítja a jelzés jogtalan használatát, az emiatt mutatkozó adóhiányt és annak késedelmi pótlékát a magánszemélynek az adóhatóság határozata alapján kell megfizetnie.
 
-44/C. § (1) A nyugdíjbiztosítási szerződés szerződője – figyelemmel a (11) bekezdésben foglalt rendelkezésre – az adóbevallásában tett nyilatkozat, munkáltatói adómegállapítás esetén a munkáltatónak átadott nyugdíjbiztosítási nyilatkozat alapján rendelkezhet az összevont adóalapja adójának az adókedvezmények levonása után fennmaradó részéből a következők szerint meghatározott összegek átutalásáról (a továbbiakban: nyugdíjbiztosítási nyilatkozat): a Magyarországon vagy – figyelemmel a (10) bekezdés rendelkezéseire is – más EGT-államban letelepedett biztosítóval kötött nyugdíjbiztosítási szerződés(ek)re az adóévben az általa szerződőként befizetett – az adott naptári évben a nyugdíjbiztosítási szerződésen jóváírt – összeg (ideértve a kifizetőnek nem minősülő más személy által fizetett adómentes bevételnek minősülő, továbbá az összevont adóalapba tartozó jövedelemként adóköteles díjat is) 20 százaléka, de legfeljebb az adóévben 130 ezer forint, azzal, hogy a nyugdíjbiztosításhoz mint alapbiztosításhoz kötött kiegészítő biztosítás(ok)ra befizetett összeg alapján nyugdíjbiztosítási nyilatkozat nem tehető, továbbá azzal, hogy amennyiben az alapbiztosítás kockázati biztosítási díjrésze meghaladja az alapbiztosítás díjának 10 százalékát, akkor az alapbiztosítás kockázati biztosítási díjrésze alapján nyugdíjbiztosítási nyilatkozat nem tehető.
+44/C. § (1) A nyugdíjbiztosítási szerződés szerződője – figyelemmel a (11) bekezdésben foglalt rendelkezésre – az adóbevallásában tett nyilatkozat, munkáltatói adómegállapítás esetén a munkáltatónak átadott nyugdíjbiztosítási nyilatkozat alapján rendelkezhet az összevont adóalapja adójának az adókedvezmények levonása után fennmaradó részéből a következők szerint meghatározott összegek átutalásáról (a továbbiakban: nyugdíjbiztosítási nyilatkozat): a Magyarországon vagy – figyelemmel a (10) bekezdés rendelkezéseire is – más EGT-államban letelepedett biztosítóval kötött nyugdíjbiztosítási szerződés(ek)re az adóévben az általa szerződőként befizetett összeg (ideértve a szerződésen az adóévben jóváírt olyan összeget is, amely korábban nem jogosított e § szerint adóról való rendelkezésre, valamint ideértve a kifizetőnek nem minősülő más személy által fizetett adómentes bevételnek minősülő, továbbá az összevont adóalapba tartozó jövedelemként adóköteles díjat is) 20 százaléka, de legfeljebb az adóévben 130 ezer forint, azzal, hogy a nyugdíjbiztosításhoz mint alapbiztosításhoz kötött kiegészítő biztosítás(ok)ra befizetett összeg alapján nyugdíjbiztosítási nyilatkozat nem tehető, továbbá azzal, hogy amennyiben az alapbiztosítás kockázati biztosítási díjrésze meghaladja az alapbiztosítás díjának 10 százalékát, akkor az alapbiztosítás kockázati biztosítási díjrésze alapján nyugdíjbiztosítási nyilatkozat nem tehető.
 
 (2) Az adóról való rendelkezés alapjául szolgáló összeg meghatározásakor a nem forintban fizetett díjat az adóév utolsó napján érvényes MNB hivatalos devizaárfolyamon, olyan külföldi pénznem esetében, amely nem szerepel az MNB hivatalos devizaárfolyam-lapján, az MNB által közzétett euróban megadott árfolyamon kell forintra átszámítani.
 
 (3) A nyugdíjbiztosítás szerződője a biztosító első nyugdíjszolgáltatásnak minősülő teljesítéséig, részteljesítéséig – ide nem értve az egészségkárosodás miatti részteljesítést –, de legkésőbb az öregségi nyugdíjkorhatár eléréséig befizetett díj alapján rendelkezhet az adójáról.
 
-(4) A nyugdíjbiztosítási nyilatkozatban a magánszemély által meghatározott összeg átutalását az adóhatóság (ha a magánszemélynek nincs az állami adóhatóságnál nyilvántartott adótartozása, és az adóbevallása alapján fizetendő adóját megfizette, az adózás rendjéről szóló törvénynek a visszatérítendő jövedelemadóra vonatkozó rendelkezései szerint, egyébként a magánszemély kérelmére az adótartozás, illetve az adóbevallás, adóhatósági adómegállapítás szerinti adó megfizetését követő 30 napon belül) – a (7) bekezdésben említett esetet kivéve – szerződésenként a szerződésszám, a magánszemély adóazonosító jele feltüntetésével a biztosító pénzforgalmi számlájára teljesíti, azzal, hogy a magánszemély által meghatározott összeget – a 44/D. § (2) bekezdésében foglaltakra is tekintettel – az adóhatóság a rendelkezési jogosultságot megalapozó nyugdíjbiztosítási szerződésekre történő befizetésekkel arányosan teljesíti, ha a rendelkezési jogosultságot több nyugdíjbiztosításra befizetett összeg alapozza meg. Amennyiben a magánszemély a teljesítéskor már nem rendelkezik azzal a nyugdíjbiztosítási szerződéssel, amelyre a befizetett díj a rendelkezési jogosultságot megalapozta, akkor a következők szerint kell eljárni:
+(4) Jogosult – feltéve, hogy annak egyéb törvényi feltételei fennállnak – a biztosító(k) által kiadott igazolás alapján nyilatkozat megtételére az a magánszemély is, aki e jog gyakorlásának időpontjában nyugdíjbiztosítási szerződéssel az a)–c) pontokban felsorolt esetek miatt már nem rendelkezik:
 
-- a) ha a szerződő magánszemély helyébe egy másik személy lép (ideértve a szerződő örökösét is) és a nyugdíjbiztosítási szerződés alapján a (8) bekezdés szerinti visszafizetési kötelezettséget kiváltó esemény nem történt, akkor az adóhatóság által teljesített összeget a biztosító a nyugdíjbiztosítási szerződésen jóváírja;
-- b) a nyugdíjbiztosítási szerződés nyugdíjszolgáltatás miatti megszűnése esetén minden további rendelkezés nélkül a biztosító a biztosított magánszemélynek (a biztosított halála esetén az örökösének) kiutalja;
-- c) az a)–b) pontban nem említett esetben a biztosító az adóhatóságnál erre a célra nyitott beszedési számlára visszautalja, azzal, hogy a visszautalt összegre a magánszemély az adóhatósághoz benyújtott kérelme alapján akkor tarthat igényt, ha igazolja, hogy nyugdíjbiztosítási szerződése neki fel nem róható okból (így különösen a biztosító felszámolása következtében) szűnt meg. Amennyiben a magánszemély a visszautalt összegre jogosult, úgy az adóhatóság, ha a magánszemélynek van más nyugdíjbiztosítási szerződése, akkor a magánszemély nyilatkozata alapján e szerződésre, ennek hiányában a magánszemély saját pénzforgalmi számlájára (lakcímére) teljesíti.
-
-(5) A nyugdíjbiztosítási nyilatkozatot a magánszemély a biztosító által – az adózás rendjéről szóló törvénynek az adókedvezményre jogosító igazolás kiállítására vonatkozó előírásai szerint – kiadott igazolás alapján teheti meg, amely tartalmazza a rendelkezési jogosultság alapjául szolgáló összeget, valamint a biztosító nevét, pénzforgalmi számlaszámát és a nyugdíjbiztosítási szerződés egyedi azonosító számát (szerződésszámát), továbbá a magánszemély adóazonosító jelét. A biztosító a kiadott igazolásról az adózás rendjéről szóló törvényben az adókedvezményre jogosító igazolás adatszolgáltatására előírt határidőig adatot szolgáltat az adóhatóságnak. Ha az adóévben a (8) bekezdés szerinti visszafizetési kötelezettséget kiváltó esemény történik, akkor az adóévre a biztosító adókedvezményre jogosító igazolást nem állíthat ki.
-
-(6) Az (1)–(5) bekezdés szerint jogosult – feltéve, hogy annak egyéb törvényi feltételei fennállnak – a biztosító(k) által kiadott igazolás alapján nyilatkozat megtételére az a magánszemély is, aki e jog gyakorlásának időpontjában nyugdíjbiztosítási szerződéssel az a)–c) pontokban felsorolt esetek miatt már nem rendelkezik:
-
-- a) a szerződő magánszemély helyébe egy másik személy lép (ideértve a szerződő örökösét is), feltéve, hogy a nyugdíjbiztosítási szerződés alapján a (8) bekezdés szerinti visszafizetési kötelezettséget kiváltó esemény nem történt;
+- a) a szerződő magánszemély helyébe egy másik személy lép, feltéve, hogy a nyugdíjbiztosítási szerződés alapján a (8) bekezdés szerinti visszafizetési kötelezettséget kiváltó esemény nem történt;
 - b) a nyugdíjbiztosítási szerződés nyugdíjszolgáltatás miatt megszűnt;
 - c) a nyugdíjbiztosítási szerződés a magánszemélynek fel nem róható okból (így különösen a biztosító felszámolása következtében) szűnt meg.
 
-(7) A (6) bekezdésben említett esetek kivételével nem tehet nyugdíjbiztosítási nyilatkozatot az a magánszemély, aki a nyilatkozattétel időpontjában nyugdíjbiztosítási szerződéssel már nem rendelkezik. E törvény alkalmazásában az a magánszemély rendelkezik nyugdíjbiztosítási szerződéssel, aki az adott időpontban e törvény szerint nyugdíjbiztosításnak minősülő biztosítási szerződés szerződője.
+(5) A nyugdíjbiztosítási nyilatkozatot a magánszemély a biztosító által – az adózás rendjéről szóló törvénynek az adókedvezményre jogosító igazolás kiállítására vonatkozó előírásai szerint – kiadott igazolás alapján teheti meg, amely tartalmazza a rendelkezési jogosultság alapjául szolgáló összeget, valamint a biztosító nevét, pénzforgalmi számlaszámát és a nyugdíjbiztosítási szerződés egyedi azonosító számát (szerződésszámát), továbbá a magánszemély adóazonosító jelét. A biztosító a kiadott igazolásról az adózás rendjéről szóló törvényben az adókedvezményre jogosító igazolás adatszolgáltatására előírt határidőig adatot szolgáltat az adóhatóságnak. Ha az adóévben a (8) bekezdés szerinti visszafizetési kötelezettséget kiváltó esemény történik, akkor az adóévre a biztosító adókedvezményre jogosító igazolást nem állíthat ki.
 
-(8) Az (1) bekezdés alapján átutalt teljes összeget (ideértve a korábbi szerződők rendelkezése alapján átutalt összeget is, de ide nem értve az adóhatóságnak ebből az összegből korábban már visszafizetett összeget) – figyelemmel a (9) bekezdésre is – a magánszemélynek húsz százalékkal növelten kell visszafizetnie, ha a nyugdíjbiztosítás alapján nyugdíjbiztosítási szolgáltatásnak nem minősülő vagyoni érték kivonására kerül sor (ideértve különösen a szerződés visszavásárlását, részvisszavásárlását, a kötvénykölcsön törlesztő részletének nyugdíjcélú megtakarítással szembeni elszámolását, valamint, ha díjfizetéssel részben vagy egészben nem fedezett időszakban a nyugdíjcélú megtakarítással szemben több, mint hat havi kockázati biztosítási díjrész (kivéve az alapbiztosítás legalacsonyabb összegű kötelező kockázati biztosítási díjrészét) elszámolására kerül sor, továbbá ideértve a törvényi rendelkezésnek meg nem felelő járadékszolgáltatást is, de ide nem értve az elvárt díjon felüli díj elvárt díjra történő átvezetését), függetlenül attól, hogy a szerződés ennek következtében megszűnik-e vagy sem, vagy a szerződés úgy módosul, hogy az a szerződésmódosítást követően e törvény rendelkezései szerint már nem minősül nyugdíjbiztosításnak. Nem terheli visszafizetési kötelezettség a magánszemélyt, ha az adómentes nyugdíjszolgáltatás feltételei maradéktalanul teljesültek. Nem váltja ki a visszafizetési kötelezettséget az sem, ha a szerződés a biztosító felszámolása miatt szűnik meg. A magánszemély visszafizetési kötelezettségét a biztosító megállapítja, a magánszemély részére kifizetendő összegből – ha van ilyen – levonja, a visszafizetési kötelezettséget kiváltó eseményt követő hónap 12. napjáig az adóhatósághoz személyi jövedelemadóként befizeti. A biztosító a magánszemély visszafizetési kötelezettségét és az abból levont összeget az adózás rendjéről szóló törvény 31. § (2) bekezdése szerinti bevallásában külön jogcímen bevallja, és arról a magánszemély számára igazolást állít ki. Amennyiben az említett kötelezettség levonására részben vagy egészben bármely oknál fogva nincs lehetőség, akkor a biztosító az igazoláson feltünteti a részben vagy egészben le nem vont összeget, és felhívja a magánszemély figyelmét arra, hogy a le nem vont részt a magánszemély köteles megfizetni. A magánszemély a biztosító által kiadott igazolás alapján az adóhatóság közreműködése nélkül elkészített adóbevallásában vallja be a visszafizetési kötelezettség biztosító által le nem vont összegét, és azt a bevallás benyújtására előírt határidőig fizeti meg.
+(6) A (4) bekezdésben említett esetek kivételével nem tehet nyugdíjbiztosítási nyilatkozatot az a magánszemély, aki a nyilatkozattétel időpontjában nyugdíjbiztosítási szerződéssel már nem rendelkezik, vagy az említett időpontig a (8) bekezdés szerinti visszafizetési kötelezettséget kiváltó esemény történik. E törvény alkalmazásában az a magánszemély rendelkezik nyugdíjbiztosítási szerződéssel, aki az adott időpontban e törvény szerint nyugdíjbiztosításnak minősülő biztosítási szerződés szerződője.
+
+(7) A nyugdíjbiztosítási nyilatkozatban a magánszemély által meghatározott összeg átutalását az adóhatóság (ha a magánszemélynek nincs az állami adóhatóságnál ezer forintot meghaladó nyilvántartott adótartozása, és az adóbevallása alapján fizetendő adóját megfizette, az adózás rendjéről szóló törvénynek a visszatérítendő jövedelemadóra vonatkozó rendelkezései szerint, egyébként az adótartozás vagy az adóbevallás szerinti adó megfizetését követő 30 napon belül) szerződésenként a szerződésszám, a magánszemély adóazonosító jele feltüntetésével a biztosító pénzforgalmi számlájára teljesíti, azzal, hogy a magánszemély által meghatározott összeget – a 44/D. § (2) bekezdésében foglaltakra is tekintettel – az adóhatóság a rendelkezési jogosultságot megalapozó nyugdíjbiztosítási szerződésekre történő befizetésekkel arányosan teljesíti, ha a rendelkezési jogosultságot több nyugdíjbiztosításra befizetett összeg alapozza meg. Az adóhatóság által átutalt összeget a biztosító – kivéve, ha a rendelkezés évében a szerződésen történő jóváírás időpontját megelőzően a (8) bekezdés szerinti visszafizetési kötelezettséget kiváltó esemény történt – a nyugdíjbiztosítási szerződésen jóváírja. Amennyiben a magánszemély a teljesítéskor már nem rendelkezik azzal a nyugdíjbiztosítási szerződéssel, amelyre a befizetett díj a rendelkezési jogosultságot megalapozta, akkor a következők szerint kell eljárni:
+
+- a) ha a szerződő magánszemély helyébe egy másik személy lép és a nyugdíjbiztosítási szerződés alapján a (8) bekezdés szerinti visszafizetési kötelezettséget kiváltó esemény nem történt, akkor az adóhatóság által teljesített összeget a biztosító a nyugdíjbiztosítási szerződésen jóváírja;
+- b) a nyugdíjbiztosítási szerződés nyugdíjszolgáltatás miatti megszűnése esetén minden további rendelkezés nélkül a biztosító a biztosított magánszemélynek (a biztosított halála esetén a kedvezményezettnek) kiutalja.
+
+(7a) Minden, a (7) bekezdésben meghatározottól eltérő esetben (ideértve azt is, ha a rendelkezés évében a szerződésen történő jóváírás időpontját megelőzően a (8) bekezdés szerinti visszafizetési kötelezettséget kiváltó esemény történt) a biztosító – az adóhatóság által átutalt összeget – az adóhatóságnál erre a célra nyitott beszedési számlára visszautalja, azzal, hogy a visszautalt összegre a magánszemély az adóhatósághoz benyújtott kérelme alapján akkor tarthat igényt, ha igazolja, hogy nyugdíjbiztosítási szerződése neki fel nem róható okból (így különösen a biztosító felszámolása következtében) szűnt meg. Amennyiben a magánszemély a visszautalt összegre jogosult, úgy az adóhatóság, ha a magánszemélynek van más nyugdíjbiztosítási szerződése, akkor a magánszemély nyilatkozata alapján e szerződésre, ennek hiányában a magánszemély saját pénzforgalmi számlájára (lakcímére) teljesíti.
+
+(8) Az (1) bekezdés alapján átutalt és a biztosítási szerződésen jóváírt teljes összeget (ideértve a korábbi szerződők rendelkezése alapján átutalt összeget is, de ide nem értve az adóhatóságnak ebből az összegből korábban már visszafizetett összeget) – figyelemmel a (9) bekezdésre is – a magánszemélynek húsz százalékkal növelten kell visszafizetnie, ha a nyugdíjbiztosítás nyugdíjbiztosítási szolgáltatás nélkül megszűnik (ideértve különösen a szerződés visszavásárlását) vagy nyugdíjbiztosítás alapján nyugdíjbiztosítási szolgáltatásnak nem minősülő vagyoni érték kivonására kerül sor (ideértve különösen a szerződés részvisszavásárlását, a kötvénykölcsön törlesztőrészletének nyugdíjcélú megtakarítással szembeni elszámolását, valamint, ha díjfizetéssel részben vagy egészben nem fedezett időszakban a nyugdíjcélú megtakarítással szemben több, mint hathavi kockázati biztosítási díjrész (kivéve az alapbiztosítás legalacsonyabb összegű kötelező kockázati biztosítási díjrészét) elszámolására kerül sor, továbbá ideértve a törvényi rendelkezésnek meg nem felelő járadékszolgáltatást is, de ide nem értve az elvárt díjon felüli díj elvárt díjra történő átvezetését), vagy a szerződés úgy módosul, hogy az a szerződésmódosítást követően e törvény rendelkezései szerint már nem minősül nyugdíjbiztosításnak. Nem terheli visszafizetési kötelezettség a magánszemélyt, ha az adómentes nyugdíjszolgáltatás feltételei maradéktalanul teljesültek. Nem váltja ki a visszafizetési kötelezettséget az sem, ha a szerződés a biztosító felszámolása miatt szűnik meg. A magánszemély visszafizetési kötelezettségét a biztosító megállapítja, a magánszemély részére kifizetendő összegből – ha van ilyen – levonja, a visszafizetési kötelezettséget kiváltó eseményt követő hónap 12. napjáig az adóhatósághoz személyi jövedelemadóként befizeti. A biztosító a magánszemély visszafizetési kötelezettségét és az abból levont összeget az adózás rendjéről szóló 2003. évi XCII. törvény 31. § (2) bekezdése szerinti bevallásában külön jogcímen bevallja, és arról a magánszemély számára igazolást állít ki. Amennyiben az említett kötelezettség levonására részben vagy egészben bármely oknál fogva nincs lehetőség, akkor a biztosító az igazoláson feltünteti a részben vagy egészben le nem vont összeget, és felhívja a magánszemély figyelmét arra, hogy a le nem vont részt a magánszemély köteles megfizetni. A magánszemély a biztosító által kiadott igazolás alapján adóbevallásában vallja be a visszafizetési kötelezettség biztosító által le nem vont összegét, és azt a bevallás benyújtására előírt határidőig fizeti meg.
 
 (9) A (8) bekezdésben foglaltak alkalmazása során a vagyoni érték kivonásának időpontja az a nap, amikor a biztosító pénzforgalmi számláját a biztosító teljesítésének összegével megterhelik, vagy az a nap, amikor a (8) bekezdés szerinti tényállások valamelyike megvalósul.
 
@@ -1125,6 +1086,8 @@ de legfeljebb az adóévben – az a)–b) pontok vonatkozásában együttesen �
 44/E. § (1) A magánnyugdíjpénztár tagja társadalombiztosítási nyugdíjrendszerbe történő visszalépése esetén a visszalépés évének adóbevallásában (munkáltatói adómegállapítás esetén a munkáltatónak átadott) vagy önellenőrzésében tett nyilatkozattal, a pénztár igazolása alapján rendelkezhet az összevont adóalapja adójának az adókedvezmények, valamint a 44/A–44/D. § rendelkezései szerinti átutalási összeg(ek) levonása után fennmaradó részéből a magánnyugdíjpénztár által önkéntes kölcsönös nyugdíjpénztárba az adóévben átutalt visszalépő tagi kifizetések 20 százalékának megfelelő, de legfeljebb 300 000 forint adó visszatérítéséről.
 
 (2) Az adóhatóság – egyebekben a 44/A. § rendelkezéseinek értelemszerű alkalmazásával – az adó-visszatérítés kiutalását annak az önkéntes kölcsönös nyugdíjpénztárnak a pénzforgalmi számlájára teljesíti, amelyhez az (1) bekezdés szerinti összeg átutalása történt.
+
+44/F. § Az adóbevallási tervezettel összefüggő eljárásban a magánszemély adó feletti rendelkezésének minősül az adóhatóság által elkészített és az adóbevallási tervezetben feltüntetett 44/A–44/E. § szerinti nyilatkozat is, ha a magánszemély az adóbevallási tervezetet az adóévet követő év május 20-ig nem egészíti ki, nem javítja, bevallási kötelezettségét más módon nem teljesíti.
 
 45. § A magánszemély külön törvényben rögzített mértékben, megjelölt kedvezményezett(ek) javára és eljárás szerint nyilatkozatban rendelkezhet az összevont adóalapja adójának az adókedvezmények, továbbá az önkéntes kölcsönös pénztári nyilatkozat, a nyugdíj-előtakarékossági nyilatkozat és a nyugdíjbiztosítási nyilatkozat szerinti átutalás(ok) levonása (a külön törvény alkalmazásában kedvezmények levonása) után fennmaradó része (befizetett adó) meghatározott részéről, amelynek átutalásáról az állami adóhatóság a külön törvényben meghatározott szabályok szerint gondoskodik.
 
@@ -1188,13 +1151,13 @@ de legfeljebb az adóévben – az a)–b) pontok vonatkozásában együttesen �
 
 (4) Nem kell adóelőleg-alapot megállapítani az őstermelői tevékenységből származó bevétel esetén, amíg annak összege az adóév elejétől összesítve az adóévben nem haladja meg a nemleges bevallási nyilatkozat megtételére jogosító összeghatárt, ha azonban meghaladta, akkor az adóelőleg-alapot az adóévben megszerzett összes őstermelői tevékenységből származó bevétel alapján kell megállapítani.
 
-(5) A (2) bekezdés alkalmazásában az adóelőleg-alap számításnál figyelembe vett jövedelemnek a bevételből a bekezdés rendelkezése szerint megállapított rész 78 százaléka minősül, ha a jövedelem után a magánszemély kötelezett a szociális hozzájárulási adó, a 27 százalékos mértékű egészségügyi hozzájárulás megfizetésére (kivéve, ha az költségként elszámolható, vagy azt számára megtérítették).
+(5) A (2) bekezdés alkalmazásában az adóelőleg-alap számításnál figyelembe vett jövedelemnek a bevételből a bekezdés rendelkezése szerint megállapított rész 82 százaléka minősül, ha a jövedelem után a magánszemély kötelezett a szociális hozzájárulási adó, a 22 százalékos mértékű egészségügyi hozzájárulás megfizetésére (kivéve, ha az költségként elszámolható, vagy azt számára megtérítették).
 
 (6)–(9)
 
 ### Az adóelőleg-nyilatkozat
 
-48. § (1) Az adóelőleg-megállapításra kötelezett kifizető a bevételt terhelő adóelőleget a magánszemély által írásban adott nyilatkozat (adóelőleg-nyilatkozat) figyelembevételével állapítja meg, ha a nyilatkozatot felszólítására vagy önként a magánszemély a kifizetést megelőzően rendelkezésére bocsátja. Nyilatkozat adható esetenként vagy az adóéven belül visszavonásig (újabb nyilatkozattételig) érvényesen. A nyilatkozat tartalmát érintő bármely változás esetén a magánszemély köteles haladéktalanul új nyilatkozatot tenni.
+48. § (1) Az adóelőleg-megállapításra kötelezett kifizető a bevételt terhelő adóelőleget a magánszemély által írásban adott nyilatkozat (adóelőleg-nyilatkozat) figyelembevételével állapítja meg, ha a nyilatkozatot felszólítására vagy önként a magánszemély a kifizetést megelőzően rendelkezésére bocsátja. Nyilatkozat adható esetenként vagy az adóéven belül visszavonásig (újabb nyilatkozattételig) érvényesen. A nyilatkozat tartalmát érintő bármely változás esetén a magánszemély köteles haladéktalanul új nyilatkozatot tenni. Nem kell új nyilatkozatot tenni, ha a magánszemély a családi kedvezményt már a magzatra tekintettel is érvényesítette.
 
 (2) Az adóelőleg-nyilatkozatban a magánszemély az adott esettől függően nyilatkozik
 
@@ -1208,7 +1171,7 @@ de legfeljebb az adóévben – az a)–b) pontok vonatkozásában együttesen �
 
 - a) a nyilatkozó magánszemély(ek) nevét és adóazonosító jelét;
 - b) minden eltartott (kedvezményezett eltartott) nevét és adóazonosító jelét, magzat (ikermagzat) esetében a várandósság tényére vonatkozó kijelentést;
-- c) a nyilatkozó magánszemély(ek) adóelőleget megállapító munkáltatójának, rendszeres bevételt juttató kifizetőjének nevét (elnevezését) és adószámát, valamint a nyilatkozatban foglaltak tudomásulvételét igazoló kijelentését, míg e munkáltató, kifizető hiányában az erre vonatkozó kijelentést.
+- c) a nyilatkozó magánszemély(ek) adóelőleget megállapító munkáltatójának, rendszeres bevételt juttató kifizetőjének nevét (elnevezését) és adószámát.
 
 (3a) A magánszemély az első házasok kedvezményének érvényesítésére vonatkozó nyilatkozatot az adóelőleget megállapító munkáltató, a magánszemély részére az összevont adóalapba tartozó rendszeres bevételt (különösen havi, heti bért, munkadíjat, tiszteletdíjat, személyes közreműködés ellenértékét, egyéb juttatást) juttató kifizető számára adhat. A jogosult házastársak a nyilatkozatot – a változás bejelentésének kötelezettsége mellett – közösen teszik meg. A jogosult házastársakat jogosultsági hónaponként együttesen megillető kedvezményt az adóelőleget megállapító munkáltató, a rendszeres bevételt juttató kifizető a nyilatkozat szerint veszi figyelembe. A kedvezményre vonatkozó adóelőleg-nyilatkozat legalább a következő adatokat tartalmazza:
 
@@ -1230,7 +1193,7 @@ de legfeljebb az adóévben – az a)–b) pontok vonatkozásában együttesen �
 (2) Az (1) bekezdés szerint kiszámított összeget legfeljebb annak mértékéig csökkenti – az adóelőleget megállapító munkáltatótól származó bevétel esetében a magánszemély adóelőleg-nyilatkozata alapján –
 
 - a)
-- b) a súlyosan fogyatékos magánszemélynél az erről szóló igazolás alapján a fogyatékos állapot kezdő napjának hónapjától ezen állapot fennállása idején havonta a személyi kedvezmény.
+- b) a súlyosan fogyatékos magánszemélynél az erről szóló igazolás, határozat alapján a fogyatékos állapot kezdő napjának hónapjától ezen állapot fennállása idején havonta a személyi kedvezmény.
 
 (3) Az adóelőleg-levonásra kötelezett kifizető (ideértve az adóelőleget megállapító munkáltatót is) az állami adóhatósághoz bejelentett módszerrel állapítja meg az adóelőleget, ha ez által az adóévi adó megállapításánál jelentkező adókülönbözet mérsékelhető. Nem kell bejelentést tenni olyan módszer választása esetén, amelyet a számítástechnikai program kidolgozója az állami adóhatósághoz bejelentett.
 
@@ -1239,7 +1202,9 @@ de legfeljebb az adóévben – az a)–b) pontok vonatkozásában együttesen �
 - a) a negyedévben elszámolt vállalkozói kivét után az (1) bekezdés szerint megállapított összeg, amelyet a személyi kedvezmény csökkent;
 - b) a vállalkozói adóelőleg-alap után számított vállalkozói személyi jövedelemadónak az a része, amely meghaladja
   - ba) a vállalkozói bevétel alapján az egyéni vállalkozó által az adóévre már megállapított adóelőleg(ek), valamint
-  - bb) az egyéni vállalkozót – az adóévben már megfizetett, igazolt kamat alapján – a negyedév végéig megillető kisvállalkozások adókedvezménye összegét azzal, hogy a vállalkozói személyi jövedelemadó-előleget az adóelőleg-alap 500 millió forintot meg nem haladó összegére 10 százalékkal, a meghaladó részre 19 százalékkal állapítja meg.
+  - bb) az egyéni vállalkozót – az adóévben már megfizetett, igazolt kamat alapján – a negyedév végéig megillető kisvállalkozások adókedvezménye
+
+összegét azzal, hogy a vállalkozói személyi jövedelemadó-előleg az adóelőleg-alap 9 százaléka.
 
 (5) Ha a magánszemély saját maga köteles az adóelőleg megállapítására és megfizetésére, az (1) bekezdés szerint megállapított összeget csökkenti a személyi kedvezmény.
 
@@ -1327,7 +1292,7 @@ de legfeljebb az adóévben – az a)–b) pontok vonatkozásában együttesen �
 
 a felsőoktatási intézmény, a Magyar Tudományos Akadémia, továbbá bármelyikük által vagy közösen alapított kutatóintézet, kutatóhely (ideértve az Európai Unió tagállamának vagy az Európai Gazdasági Térségről szóló megállapodásban részes államnak a megfelelő szervezetét is) és az egyéni vállalkozó által írásban kötött szerződés alapján az egyéni vállalkozó tevékenységi körében közösen végzett alapkutatás, alkalmazott kutatás vagy kísérleti fejlesztés esetén az egyéni vállalkozó az előző rendelkezés alkalmazásakor az ott meghatározott összeg háromszorosát veheti (de legfeljebb 50 millió forintot vehet) figyelembe, amelynek a (9)–(10) bekezdés szerinti adókulccsal számított értéke az állami támogatásokra vonatkozó rendelkezések alkalmazásában az adóévben igénybe vett csekély összegű (de minimis) támogatásnak minősül;
 
-- d) a 250 főnél kevesebb alkalmazottat foglalkoztató egyéni vállalkozónál évi 30 millió forinttal, de legfeljebb a (12) bekezdés rendelkezésében meghatározott összeggel (a továbbiakban: kisvállalkozói kedvezmény), azzal, hogy az egyéni vállalkozó által az adóévben érvényesített kisvállalkozói kedvezmény és a (9)–(10) bekezdésben meghatározott adókulcs szorzata az állami támogatásokra irányadó rendelkezések alkalmazásában az egyéni vállalkozó választása szerint
+- d) a 250 főnél kevesebb alkalmazottat foglalkoztató egyéni vállalkozónál legfeljebb a (12) bekezdésben meghatározott összeggel (a továbbiakban: kisvállalkozói kedvezmény), azzal, hogy az egyéni vállalkozó által az adóévben érvényesített kisvállalkozói kedvezmény és a (9)–(10) bekezdésben meghatározott adókulcs szorzata az állami támogatásokra irányadó rendelkezések alkalmazásában az egyéni vállalkozó választása szerint
   - da) agrár csoportmentességi (ABER) támogatásnak vagy mezőgazdasági csekély összegű (de minimis) támogatásnak minősül, ha a beruházás elsődleges mezőgazdasági termelést szolgál,
   - db) halászati csekély összegű (de minimis) támogatásnak minősül, ha a beruházás a halászati és akvakultúra-termékek piacának közös szervezéséről szóló, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU rendelet I. mellékletében felsorolt halászati és akvakultúra-termékek előállításával, feldolgozásával és forgalmazásával kapcsolatos tevékenységet szolgál,
   - dc) agrár csoportmentességi (ABER) támogatásnak, az adóévben igénybe vett csekély összegű (de minimis) támogatásnak vagy a kis- és középvállalkozásoknak nyújtott állami támogatásra vonatkozó bizottsági rendeletben foglaltak szerinti támogatásnak minősül, ha a beruházás mezőgazdasági termék feldolgozását vagy forgalmazását szolgálja,
@@ -1358,12 +1323,12 @@ a felsőoktatási intézmény, a Magyar Tudományos Akadémia, továbbá bármel
   - ba) adóbevallásában az adózás rendjéről szóló törvény 91/A. §-ának (1) bekezdése szerinti nyilatkozatot tesz, vagy
   - bb) a (23) bekezdésben foglaltak alkalmazásával a jövedelem-(nyereség-)minimumot tekinti vállalkozói adóalapnak. Ha az egyéni vállalkozó külföldön is rendelkezik telephellyel (állandó bázissal), akkor az a) pont és a bb) alpont szerinti vállalkozói adóalapot – figyelemmel a (15) bekezdés rendelkezésére – úgy módosítja, hogy az ne tartalmazza a külföldi telephelynek betudható vállalkozói adóalapot, ha nemzetközi szerződés így rendelkezik.
 
-(9) A vállalkozói személyi jövedelemadó a (8) bekezdés rendelkezése szerint megállapított vállalkozói adóalap – ha nemzetközi szerződés rendelkezéséből következik, a módosított vállalkozói adóalap – 500 millió forintot meg nem haladó összege után 10 százalék, az e feletti összegre 19 százalék. Ezt az adót legfeljebb annak összegéig csökkenti
+(9) A vállalkozói személyi jövedelemadó a (8) bekezdés rendelkezése szerint megállapított vállalkozói adóalap – ha nemzetközi szerződés rendelkezéséből következik, a módosított vállalkozói adóalap – 9 százaléka. Ezt az adót legfeljebb annak összegéig csökkenti
 
 - a) nemzetközi szerződés vagy viszonosság hiányában külföldi telephelynek betudható vállalkozói adóalap után az adóévben külföldön igazoltan megfizetett adó 90 százaléka, de legfeljebb erre az adóalapra az átlagos vállalkozói személyi jövedelemadó szerint kiszámított adó; az átlagos vállalkozói személyi jövedelemadó az e rendelkezés alkalmazása nélkül, a b) pontban foglaltak figyelembevételével megállapított vállalkozói személyi jövedelemadó osztva a vállalkozói adóalappal; e hányadost két tizedesre kerekítve kell meghatározni; nem vehető figyelembe külföldön megfizetett adóként az az összeg, amely törvény, nemzetközi szerződés rendelkezése, viszonosság vagy külföldi jog alapján a jövedelem után fizetett adó összegéből a magánszemély részére visszajár;
 - b) továbbá – azzal a korlátozással, hogy a csökkentés mértéke nem lehet több az a) pont alkalmazása nélkül megállapított vállalkozói személyi jövedelemadó 70 százalékánál – a 13. számú melléklet rendelkezései szerint megadott módon és feltételekkel, valamint az átmeneti rendelkezések szerint a vállalkozói adókedvezmény, azzal, hogy az ugyanazon beruházáshoz kapcsolódó több kedvezmény – ideértve a kisvállalkozói kedvezményt is – esetén az egyéni vállalkozó választása szerint egyet érvényesíthet; a kisvállalkozói kedvezmény és a 13. számú melléklet szerinti kisvállalkozások adókedvezménye ugyanazon beruházásra egymás mellett is érvényesíthető.
 
-(10) A (9) bekezdés rendelkezésének alkalmazása esetén a vállalkozói bevételt csökkentő kedvezmények alapján a csekély összegű (de minimis) támogatás adóévi összegét az adóévben érvényesített összes kedvezmény értékéből az 500 millió forintot meg nem haladó rész után 10 százalék, az e feletti összegre 19 százalék adómértékkel kell kiszámítani.
+(10) A (9) bekezdés rendelkezésének alkalmazása esetén a vállalkozói bevételt csökkentő kedvezmények alapján a csekély összegű (de minimis) támogatás adóévi összege az adóévben érvényesített összes kedvezmény 9 százaléka.
 
 (11) Amennyiben a kisvállalkozói kedvezmény érvényesítésének évét követő negyedik adóév utolsó napjáig a (14) bekezdés rendelkezéseiben említett esetek bármelyike bekövetkezik (kivéve, ha annak oka a hibás teljesítés miatt a jótállási időn belüli visszaadás), az ott meghatározott összeg kétszeresének a kisvállalkozói kedvezmény érvényesítésének évében hatályos (9) bekezdésben meghatározott adókulcs szerinti százalékát adóként kell megfizetni.
 
@@ -1597,7 +1562,7 @@ akkor, ha az egyéni vállalkozó a társadalombiztosítás ellátásaira és a 
 
 (3) Tételes átalányadózás esetén a tevékenységgel kapcsolatos valamennyi bizonylatot az e törvényben foglalt szabályok szerint kell megőrizni. A tételes átalányadózás választása a magánszemélyt nem mentesíti az őt más jogszabály előírása szerint terhelő kötelezettségek (így különösen a számlaadási és a nyugtaadási kötelezettség) teljesítése alól.
 
-(4) A tételes átalányadó évi összege szobánként 32 ezer forint. A tételes átalányadót egyenlő részletekben, az adózás rendjéről szóló törvény rendelkezései szerint – a tevékenység megszüntetése esetén a megszüntetés napját követő 15 napon belül – kell megfizetni.
+(4) A tételes átalányadó évi összege szobánként 38 ezer 400 forint. A tételes átalányadót egyenlő részletekben, az adózás rendjéről szóló törvény rendelkezései szerint – a tevékenység megszüntetése esetén a megszüntetés negyedévét követő 15 napon belül – kell megfizetni.
 
 (5) Ha a magánszemély a tételes átalányadózást jogszerűen választotta, de a választást követően bekövetkezett változás miatt már nem felel meg a választás bármely feltételének, akkor a fizetővendéglátó tevékenysége révén a változás bekövetkezésének negyedévének első napjától kezdődően megszerzett bevételének adókötelezettségére az önálló tevékenységből származó jövedelemre vonatkozó rendelkezéseket kell alkalmazni. Ilyenkor a magánszemély a (4) bekezdés szerinti összegnek az adóév megelőző negyedévére (negyedéveire) jutó arányos részét fizeti meg tételes átalányadóként.
 
@@ -1694,34 +1659,28 @@ kell azonosnak tekinteni.
 
 (3a) Ha az ingatlan értékesítése – kivéve, ha a magánszemély a bevételt egyéni vállalkozói tevékenysége keretében szerzi meg – gazdasági tevékenység [3. § 46. pont] keretében történik, az (1)–(3) bekezdés rendelkezései szerint megállapított jövedelem önálló tevékenységből származó jövedelemnek minősül.
 
-(4) Az ingatlan, ingatlanra vonatkozó vagyoni értékű jog átruházásából származó jövedelem, ha az átruházás a megszerzés évében vagy az azt követő öt évben történik, az (1)–(3) bekezdés szerint kiszámított összeg (e § alkalmazásában: számított összeg). Ezt követően a jövedelmet úgy kell megállapítani, hogy a számított összeget csökkenteni kell, ha az átruházás – a megszerzés évét követő évet első évnek tekintve –,
+(4) Az ingatlan, ingatlanra vonatkozó vagyoni értékű jog átruházásából származó jövedelem, ha az átruházás a megszerzés évében vagy az azt követő öt évben történik, az (1)–(3) bekezdés szerint kiszámított összeg (e § alkalmazásában: számított összeg)
 
-- a) a hatodik évben történik, a számított összeg 10 százalékával,
-- b) a hetedik évben történik, a számított összeg 20 százalékával,
-- c) a nyolcadik évben történik, a számított összeg 30 százalékával,
-- d) a kilencedik évben történik, a számított összeg 40 százalékával,
-- e) a tizedik évben történik, a számított összeg 50 százalékával,
-- f) a tizenegyedik évben történik, a számított összeg 60 százalékával,
-- g) a tizenkettedik évben történik, a számított összeg 70 százalékával,
-- h) a tizenharmadik évben történik, a számított összeg 80 százalékával,
-- i) a tizennegyedik évben történik, a számított összeg 90 százalékával,
-- j) a tizenötödik évben vagy később történik, a számított összeg 100 százalékával.
+- 1. 100 százaléka a megszerzés évében és az azt követő évben,
+- 2. 90 százaléka a megszerzés évét követő második évben,
+- 3. 60 százaléka a megszerzés évét követő harmadik évben,
+- 4. 30 százaléka a megszerzés évét követő negyedik évben,
+- 5. 0 százaléka a megszerzés évét követő ötödik és további évben.
 
 (5)
 
-(6) A (4)–(5) bekezdés rendelkezéseitől eltérően, az ingatlanügyi hatóság nyilvántartása szerint
+(6)
 
-- a) lakóház vagy lakás megnevezéssel nyilvántartott vagy ilyenként feltüntetésre váró építmény és a hozzá tartozó földrészlet (ideértve azt is, amelyet a lakáshoz tartozó földhasználati jog terhel),
-- b) lakásra vonatkozó vagyoni értékű jog átruházása esetén a jövedelem a számított összeg 1. 100 százaléka a megszerzés évében és az azt követő évben, 2. 90 százaléka a megszerzés évét követő második évben, 3. 60 százaléka a megszerzés évét követő harmadik évben, 4. 30 százaléka a megszerzés évét követő negyedik évben, 5. 0 százaléka a megszerzés évét követő ötödik és további évben.
-
-(7) Az Szja tv. 2008. január 1-je előtt hatályos rendelkezései szerint lakásszerzési kedvezménnyel szerzett lakás átruházása esetén a (6) bekezdés alkalmazásában számított összegbe be kell számítani a lakásszerzési kedvezmény alapjaként érvényesített összeget, ha az ilyen lakás átruházása a lakásszerzési kedvezmény érvényesítésének évében vagy azt követő negyedik naptári év utolsó napját megelőzően történt.
+(7)
 
 (8) Nem kell jövedelmet megállapítani az ingatlan, vagyoni értékű jog átruházására tekintettel megszerzett bevétel után, ha azt a bevételt az adózó a természetes személyek adósságrendezéséről szóló törvényben szabályozott bíróságon kívüli adósságrendezési megállapodás, bírósági adósságrendezési egyezség vagy adósságtörlesztési határozat alapján teljes egészében a tartozásai megfizetésére fordítja. Abban az esetben, ha a bevételt a magánszemély csak részben fordítja a tartozásai megfizetésére, akkor azt a jövedelemrészt kell megállapítani, amely a tartozások megfizetésére fordított bevétel és a teljes bevétel különbözete alapján meghatározható.
 
 62/A. § (1) Ha a termőföldből átminősített ingatlan átruházásából származó bevételnek a bevételből – a 62. § (1) bekezdése szerint – levonható költségeket meghaladó része (e meghaladó rész a továbbiakban: hozam) nagyobb, mint az ingatlan tulajdonban tartásának időszakára kiszámított szokásos hozam, akkor is, ha az értékesítés gazdasági tevékenység [3. § 46. pont] keretében történik, az adó alapja
 
 - a) a szokásos hozam, és
-- b) a hozam a) pont szerinti összeget meghaladó részének a háromszorosa, azzal, hogy az átruházásból származó jövedelem megállapításához a 62. § (4) és (6) bekezdése nem alkalmazhatók.
+- b) a hozam a) pont szerinti összeget meghaladó részének a háromszorosa,
+
+azzal, hogy az átruházásból származó jövedelem megállapításához a 62. § (4) bekezdése nem alkalmazható.
 
 (2) Ha a társasági adóról és az osztalékadóról szóló törvény szerinti termőföldből átminősített ingatlant tulajdonában tartó társaságban részesedéssel rendelkező magánszemély tag részesedését ellenérték fejében átruházza, illetve azt a társaságból kivonja, az árfolyamnyereséget, illetve a vállalkozásból kivont jövedelmet növeli a részesedés tulajdonban tartásának időszakára kiszámított szokásos hozamot meghaladó árfolyamnyereség, vállalkozásból kivont jövedelem kétszerese.
 
@@ -1761,7 +1720,7 @@ kell azonosnak tekinteni.
 
 (9) E § rendelkezései irányadók a nem egyéni vállalkozó magánszemély ingatlanlízing-ügylet (ideértve a futamidő végén automatikus tulajdonátszállást jelentő vagy az ingatlan megszerzésére lehetőséget biztosító ügyletet) meghiúsulásából, valamint engedményezéséből származó jövedelmére is.
 
-(10) A (9) bekezdésben említett jövedelmet az ügyleti szerződésben foglaltak alapján a magánszemélyt a meghiúsulás miatt megillető (kifizetett, jóváírt) bevételből, valamint a magánszemélyt az engedményezésről szóló szerződés alapján megillető (kifizetett, jóváírt) bevételből a 62. § (4), illetve (6) bekezdésének rendelkezései szerint kell értelemszerűen megállapítani [figyelemmel a 63. § (8) bekezdésében foglaltakra is] azzal, hogy az említett rendelkezések alkalmazásában számított összegnek a bevétel, megszerzés évének az ügyleti szerződés megkötésének éve minősül.
+(10) A (9) bekezdésben említett jövedelmet az ügyleti szerződésben foglaltak alapján a magánszemélyt a meghiúsulás miatt megillető (kifizetett, jóváírt) bevételből, valamint a magánszemélyt az engedményezésről szóló szerződés alapján megillető (kifizetett, jóváírt) bevételből a 62. § (4) bekezdésének rendelkezései szerint kell értelemszerűen megállapítani [figyelemmel a 63. § (8) bekezdésében foglaltakra is] azzal, hogy az említett rendelkezések alkalmazásában számított összegnek a bevétel, megszerzés évének az ügyleti szerződés megkötésének éve minősül.
 
 63/A. §
 
@@ -1838,7 +1797,7 @@ a (3)–(9) bekezdések rendelkezéseit, valamint az adózás rendjéről szól�
 (3a) A (3) bekezdés a) pont ac) és ad) alpontja alkalmazásában nem minősül sem egyszeri díjas biztosításnak, sem rendszeres díjas biztosításnak a biztosítás, ha
 
 - a) a biztosítási szerződésre a biztosítás teljes tartama alatt a szerződés szerint elvárt díjon felül díjfizetés (ideértve különösen az eseti, a rendkívüli, a soron kívüli díjat) történt, kivéve, ha a szerződés szerint elvárt díjon felüli díjfizetést a hozzá tartozó biztosítástechnikai tartalékkal vagy díjtartalékkal együtt elkülönítetten (vagy a tartalék befizetett díjhoz való egyértelmű hozzárendelésével) tartja nyilván a biztosító; az így elkülönített összegeket – az elvárt díjon felüli díjfizetés időpontját tekintve a szerződés létrejötte időpontjának – az adókötelezettség megállapításakor úgy kell tekinteni, mint önálló biztosítási szerződés szerinti díjat, biztosítástechnikai tartalékot, díjtartalékot,
-- b) a rendszeres díjak (díjelőírások) előző biztosítási évhez viszonyított növekedésének (ideértve az indexálást is) mértéke meghaladja a Központi Statisztikai Hivatal által közzétett, a díjnövekedés évét megelőző második évre vonatkozó éves fogyasztói áremelkedés 30 százalékponttal növelt értékét azzal, hogy a rendszeres díjak növekedése mértékének meghatározásakor a kockázati biztosítás díját figyelmen kívül kell hagyni, továbbá azzal, hogy a biztosítási szerződési feltételekben rögzített események bekövetkezése miatt átmeneti időre lehetővé tett díj-nemfizetés (szüneteltetés, díjmentesítés) időszakára is figyelembe vehető az ezen időszakot megelőző utolsó rendszeres díj alapulvételével a díj-nemfizetési időszak hosszával arányos biztosítási díj.
+- b) a rendszeres díjak (díjelőírások) előző biztosítási évhez viszonyított növekedésének (ideértve az indexálást is) mértéke meghaladja a Központi Statisztikai Hivatal által közzétett, a díjnövekedés évét megelőző második évre vonatkozó éves fogyasztói áremelkedés 30 százalékponttal növelt értékét (fogyasztói árcsökkenés esetén a 30 százalékpontot) azzal, hogy a rendszeres díjak növekedése mértékének meghatározásakor a kockázati biztosítás díját figyelmen kívül kell hagyni, továbbá azzal, hogy a biztosítási szerződési feltételekben rögzített események bekövetkezése miatt átmeneti időre lehetővé tett díj-nemfizetés (szüneteltetés, díjmentesítés) időszakára is figyelembe vehető az ezen időszakot megelőző utolsó rendszeres díj alapulvételével a díj-nemfizetési időszak hosszával arányos biztosítási díj.
 
 (3b) A (3a) bekezdés szerinti, sem egyszeri díjas biztosításnak, sem rendszeres díjas biztosításnak nem minősülő biztosításra és az erre a biztosításra történő díjfizetésre a biztosítás teljes tartama alatt – kivéve, ha az utolsó elvárt díjon felüli díjfizetés, vagy az utolsó, a törvényi követelményeket ki nem elégítő díjnövekedés időpontjától a (3) bekezdés a) pont ac) és ad) alpontjában meghatározott idő már eltelt – nem alkalmazhatók a (3) bekezdés szerinti jövedelemcsökkentő rendelkezések.
 
@@ -1912,7 +1871,7 @@ a (3)–(9) bekezdések rendelkezéseit, valamint az adózás rendjéről szól�
   - aa) a társas vállalkozás magánszemély tagja számára a társas vállalkozás által felosztani rendelt, a számviteli törvény szerint meghatározott adóévi adózott eredmény, illetve a szabad eredménytartalékkal kiegészített adóévi adózott eredmény terhére jóváhagyott részesedés;
   - ab) a kamatozó részvény kamata;
   - ac) a külföldi állam joga szerint osztaléknak minősülő jövedelem;
-  - ad) a kockázatitőkealap-jegy hozama;
+  - ad) az alternatív befektetési alap által kibocsátott befektetési jegy hozama;
   - ae) a bizalmi vagyonkezelési szerződés alapján a kezelt vagyon hozamainak terhére a vagyonkezelő által a kedvezményezett vagy a vagyonrendelő magánszemély részére juttatott vagyoni érték;
   - af) a kisadózó vállalkozás kisadózóként be nem jelentett tagja részére a társaság nyereségéből való részesedésként kifizetett összeg.
 - b) osztalékelőleg az adóévi várható osztalékra tekintettel az adóévben kapott bevétel.
@@ -2002,7 +1961,7 @@ a napjára kell megállapítani.
 
 (3d) Az ügyletek eredményében figyelembe nem vett járulékos költségekként a beszerzéshez és az értékesítéshez illetve a pozíció nyitásához és zárásához közvetlenül nem kapcsolódó költségek vehetők figyelembe.
 
-(4) Az e törvény és az adózás rendjéről szóló törvény szerint kifizetőnek minősülő befektetési szolgáltató az adóévet követő év február 15-éig – a magánszemély nevének, adóazonosító számának feltüntetésével – adatot szolgáltat az állami adóhatósághoz a magánszemély adóévben megvalósult ügyleteiben megszerzett bevételek összegéről, az ügyletek – üzletszabályzat vagy a magánszeméllyel kötött hasonló, az ügyletek elszámolási rendjét (ideértve különösen a pénzügyi eszköz megszerzésére fordított összeg figyelembevételének szabályait) szabályozó szerződés szerint megállapított – összesített eredménye (nyereség, veszteség) összegéről és az adóévben felmerült, az ügyletek eredményében figyelembe nem vett járulékos költségek összegéről a (3b)–(3d) bekezdésekben foglaltaknak megfelelően. Az ellenőrzött tőkepiaci ügylettel összefüggésben a befektetési szolgáltatót adó (adóelőleg)-levonási kötelezettség nem terheli.
+(4) Az e törvény és az adózás rendjéről szóló törvény szerint kifizetőnek minősülő befektetési szolgáltató az adóévet követő év január 31-éig – a magánszemély nevének, adóazonosító számának feltüntetésével – adatot szolgáltat az állami adóhatósághoz a magánszemély adóévben megvalósult ügyleteiben megszerzett bevételek összegéről, az ügyletek – üzletszabályzat vagy a magánszeméllyel kötött hasonló, az ügyletek elszámolási rendjét (ideértve különösen a pénzügyi eszköz megszerzésére fordított összeg figyelembevételének szabályait) szabályozó szerződés szerint megállapított – összesített eredménye (nyereség, veszteség) összegéről és az adóévben felmerült, az ügyletek eredményében figyelembe nem vett járulékos költségek összegéről a (3b)–(3d) bekezdésekben foglaltaknak megfelelően. Az ellenőrzött tőkepiaci ügylettel összefüggésben a befektetési szolgáltatót adó (adóelőleg)-levonási kötelezettség nem terheli.
 
 (5) A jövedelmet és az adót a jövedelmet szerző magánszemély
 
@@ -2023,9 +1982,9 @@ a napjára kell megállapítani.
 
 ### Tartós befektetésből származó jövedelem
 
-67/B. § (1) E törvény külön rendelkezéseitől eltérően tartós befektetésből származó jövedelemnek minősül a (2)–(9) bekezdés rendelkezéseiben foglalt feltételek és adókötelezettség mellett pénzösszeg befektetési szolgáltatóval, illetőleg hitelintézettel megkötött tartós befektetési szerződéssel történő lekötése révén, a magánszemélyt a lekötés megszűnésekor, megszakításakor megillető bevételnek – ide nem értve abból az árfolyamnyereségnek minősülő részt [67/A. § (9) bekezdés], de ideértve a befektetésben lévő pénzügyi eszköznek a lekötés megszűnésekor, megszakításakor irányadó szokásos piaci értékét is – az említett rendelkezések szerint lekötött pénzösszeget meghaladó része [e § (4)–(5) bekezdésének alkalmazásában: lekötési hozam]. A tartós befektetési szerződés arra vonatkozó külön megállapodás, hogy a felek az említett jövedelem tekintetében az e § szerinti adózási szabályokat alkalmazzák.
+67/B. § (1) E törvény külön rendelkezéseitől eltérően tartós befektetésből származó jövedelemnek minősül a (2)–(9) bekezdés rendelkezéseiben foglalt feltételek és adókötelezettség mellett pénzösszeg befektetési szolgáltatóval, hitelintézettel megkötött tartós befektetési szerződéssel történő lekötése révén, a magánszemélyt a lekötés megszűnésekor, megszakításakor megillető bevételnek – ide nem értve abból az árfolyamnyereségnek minősülő részt [67/A. § (9) bekezdés], de ideértve különösen a befektetésben lévő pénzügyi eszköznek, külföldi fizetési eszköznek a lekötés megszűnésekor, megszakításakor irányadó szokásos piaci értékét, valamint a szerződés megszűnése, megszakítása időpontjára megállapított betéti kamatkövetelést is – az említett rendelkezések szerint lekötött pénzösszeget meghaladó része (e § (4)–(5) bekezdésének alkalmazásában: lekötési hozam). A tartós befektetési szerződés arra vonatkozó külön megállapodás, hogy a felek az említett jövedelem tekintetében az e § szerinti adózási szabályokat alkalmazzák.
 
-(2) Lekötött pénzösszegnek minősül az (1) bekezdésben említett tartós befektetési szerződés alapján az adóévben egy összegben vagy részletekben történő, első alkalommal legalább 25 ezer forint (vagy annak megfelelő külföldi fizető eszköz) befizetés, amelyet a (3) bekezdés szerint történő befektetések hozamaival (kamat, árfolyamnyereség, ügyleti nyereség, osztalék stb.) együtt a magánszemély a befizetés naptári évét követő legalább három naptári évben (a továbbiakban: hároméves lekötési időszak), valamint a lekötés folytatólagos meghosszabbítása esetén további két naptári évben (a továbbiakban: kétéves lekötési időszak, a három- és kétéves időszak együtt a továbbiakban: ötéves lekötési időszak), a vállalt lekötési időszak utolsó napján is még a befektetési szolgáltató, illetőleg a hitelintézet által szerződésenként vezetett lekötési nyilvántartásban tart. A lekötött pénzösszeg az elhelyezés naptári évét követően a hároméves, illetve ötéves lekötési időszakban az említett hozamok jóváírásán kívül további befizetéssel nem növelhető és az egyes tartós befektetési szerződések alapján fennálló állományok között átcsoportosítás nem lehetséges. Egy naptári éven belül ugyanazon befektetési szolgáltatóval, hitelintézettel (3) bekezdés a), illetve b) pontjában említett célra egyaránt egy-egy tartós befektetési szerződés köthető. Más tekintetben a magánszemély ilyen szerződéseinek száma nem korlátozott.
+(2) Lekötött pénzösszegnek minősül az (1) bekezdésben említett tartós befektetési szerződés alapján az adóévben egyösszegben vagy részletekben történő, első alkalommal legalább 25 ezer forint (vagy annak megfelelő külföldi fizetőeszköz) befizetés, amelyre vonatkozóan a magánszemély a tartós befektetési szerződésben arra vállal kötelezettséget, hogy a (3) bekezdés szerint történő befektetések hozamaival (kamat, árfolyamnyereség, ügyleti nyereség, osztalék stb.) együtt a befizetés naptári évét követő legalább három naptári évben (a továbbiakban: hároméves lekötési időszak), valamint a lekötés folytatólagos meghosszabbítása esetén további két naptári évben (a továbbiakban: kétéves lekötési időszak, a három- és kétéves időszak együtt a továbbiakban: ötéves lekötési időszak), a vállalt lekötési időszak utolsó napján is még a befektetési szolgáltató, illetőleg a hitelintézet által szerződésenként vezetett lekötési nyilvántartásban tart. A lekötött pénzösszeg az elhelyezés naptári évét követően a hároméves, illetve ötéves lekötési időszakban az említett hozamok jóváírásán kívül további befizetéssel nem növelhető és az egyes tartós befektetési szerződések alapján fennálló állományok között átcsoportosítás nem lehetséges. Egy naptári éven belül ugyanazon befektetési szolgáltatóval, hitelintézettel (3) bekezdés a), illetve b) pontjában említett célra egyaránt egy-egy tartós befektetési szerződés köthető, ide nem értve a tartós befektetési szerződésnek a (10) bekezdés b) pontja szerinti újrakötését. Más tekintetben a magánszemély ilyen szerződéseinek száma nem korlátozott.
 
 (3) A lekötött pénzösszeg és a (4) bekezdésben meghatározott időpontig elért befektetési hozamok állománya terhére a magánszemély az általa külön-külön megkötött tartós befektetési szerződés alapján
 
@@ -2037,7 +1996,7 @@ a napjára kell megállapítani.
 - a) a lekötési időszak megszűnése esetén (az ötéves lekötési időszak utolsó napjára, vagy – ha a magánszemély a lekötési időszakot nem hosszabbítja meg – a hároméves lekötési időszak utolsó napjára);
 - b) a lekötés megszakítása esetén (ha a magánszemély a lekötött pénzösszeget, és/vagy a befektetési hozamo(ka)t akár részben felveszi vagy a befektetésben lévő pénzügyi eszközt (eszközök bármelyikét) a lekötési nyilvántartásból kivonja)
 
-az említett napra vonatkozó állapot szerint kell megállapítani. Amennyiben a lekötési időszak utolsó napja munkaszüneti nap, akkor a hitelintézet, befektetési szolgáltató a lekötési hozamot a lekötési időszak utolsó napját megelőző utolsó ismert árfolyam alapján állapítja meg. Ha a magánszemély a hároméves lekötési időszak utolsó napját megelőzően tett nyilatkozatával a hároméves lekötési időszakot a lekötött pénzösszegnek csak egy részére – de legalább 25 ezer forintnak megfelelő összegben – hosszabbítja meg, ezen rész tekintetében a lekötési időszak nem szakad meg. Nem kell a bevételből jövedelmet megállapítani a tartós befektetési szerződéssel rendelkező magánszemély halála esetén, ha az a lekötési időszak megszűnése előtt következett be.
+az említett napra vonatkozó állapot szerint kell megállapítani. Amennyiben a lekötési időszak utolsó napja munkaszüneti nap, akkor a hitelintézet, befektetési szolgáltató a lekötési hozamot a lekötési időszak utolsó napját megelőző utolsó ismert árfolyam alapján állapítja meg. Ha a magánszemély a hároméves lekötési időszak utolsó napját megelőzően tett nyilatkozatával a hároméves lekötési időszakot a lekötési nyilvántartásban lévő pénzügyi eszköznek, pénzösszegnek csak egy részére – de legalább 25 ezer forintnak megfelelő összegben – hosszabbítja meg, a meghosszabbítással érintett rész tekintetében a lekötési időszak nem szakad meg. Nem kell a bevételből jövedelmet megállapítani a tartós befektetési szerződéssel rendelkező magánszemély halála esetén, ha az a lekötési időszak megszűnése előtt következett be.
 
 (4a) Nem minősül a lekötési időszak megszakításának a lekötési nyilvántartásban szereplő értékpapír átalakítása (kicserélése), ha az átalakított (kicserélt) értékpapír vagy – ha a magánszemély az átalakított (kicserélt) értékpapír helyett az értékpapírt kibocsátó szervezettől az őt megillető vagyonhányadra tart igényt – az értékpapír helyett kapott pénzösszeg legkésőbb az értékpapír átalakítását, a pénzösszeg kifizetését követő 15 napon belül a lekötési nyilvántartásba kerül. Nyilvánosan forgalomba hozott értékpapír zártkörűvé történő átalakítása (kicserélése) csak abban az esetben nem minősül a lekötési időszak megszakításának, ha a magánszemély az átalakított (kicserélt) értékpapír helyett az őt megillető vagyonhányadra tart igényt és arra pénzben jogosult, feltéve, hogy ez a pénzösszeg a kifizetését követő 15 napon belül a lekötési nyilvántartásba kerül. A 15 napos határidő elmulasztását a lekötési időszak megszakításának kell tekinteni.
 
@@ -2046,33 +2005,37 @@ az említett napra vonatkozó állapot szerint kell megállapítani. Amennyiben 
 - a) nulla százalék az ötéves lekötési időszak utolsó napjára,
 - b) 10 százalék, ha a magánszemély
   - ba) a lekötést nem hosszabbítja meg, a hároméves lekötési időszak utolsó napjára,
-  - bb) a lekötést a lekötött pénzösszegnek egy részére nem hosszabbítja meg, az e résszel arányos, a hároméves lekötési időszak utolsó napjára,
+  - bb) a lekötést a lekötési nyilvántartásban lévő pénzügyi eszköznek, pénzösszegnek egy részére nem hosszabbítja meg, az e résszel arányos, a hároméves lekötési időszak utolsó napjára,
   - bc) a lekötést a kétéves lekötési időszakban szakítja meg, a megszakítás napjára,
 - c) 15 százalék, ha a magánszemély a lekötést az elhelyezést követően a hároméves lekötési időszak vége előtt szakítja meg, a megszakítás napjára megállapított lekötési hozam után.
 
 (6) Az e törvény és az adózás rendjéről szóló törvény szerint kifizetőnek minősülő hitelintézet, befektetési szolgáltató
 
-- a) a tartós befektetésből származó jövedelemről, a tartós lekötés napjáról, valamint a lekötési időszak megszűnésének vagy megszakításának napjáról a jövedelem keletkezésének adóévét követő év február 15-éig igazolást ad a magánszemélynek,
+- a) a tartós befektetésből származó jövedelemről, az első befizetés napjáról (a szerződés újrakötése esetén a befizetés napjának minősülő napról), valamint a lekötési időszak megszűnésének vagy megszakításának napjáról a jövedelem keletkezésének adóévét követő év január 31-éig igazolást ad a magánszemélynek,
 - b) az igazolás tartalmáról – a magánszemély nevének, adóazonosító számának feltüntetésével – adatot szolgáltat az adóhatóságnak,
 - c) a lekötési nyilvántartásban rögzített osztalékra jogosító értékpapír esetében az osztalékfizetést megelőzően értesíti a kibocsátót, hogy e jövedelemből adót nem kell levonnia.
 
 (7) A tartós befektetésből származó jövedelmet a magánszemélynek nem kell bevallania, ha az adójának mértéke nulla százalék. Egyéb esetben az adót a magánszemély az adóbevallásában állapítja meg, és a bevallás benyújtására nyitva álló határidőig fizeti meg.
 
-(8) Amennyiben a befektetési szolgáltató, illetőleg a hitelintézet adatszolgáltatásra nem kötelezett, e § rendelkezései akkor alkalmazhatóak, ha a magánszemély a befektetési szolgáltatóval, illetőleg a hitelintézettel megkötött tartós befektetési szerződéssel igazolhatóan – neve, adóazonosító jele, a lekötött pénzösszeg feltüntetésével – az első befizetést követő 30 napon belül bejelenti az adóhatóságnak, és rendelkezik a befektetési szolgáltató, illetőleg a hitelintézet által a (6) bekezdés szerinti tartalommal kiállított olyan igazolással, amelyből a tartós befektetésből származó jövedelem megállapítható.
+(8) Ha a befektetési szolgáltató, illetőleg a hitelintézet adatszolgáltatásra nem kötelezett, e § rendelkezései akkor alkalmazhatóak, ha a magánszemély a befektetési szolgáltatóval, illetőleg a hitelintézettel megkötött tartós befektetési szerződéssel igazolhatóan a szerződéskötést, lekötési átutalás esetén e tényt – neve, adóazonosító jele, a befizetett pénzösszeg, az átutalt pénzügyi eszközök, pénzösszeg értékének feltüntetésével – az első befizetést, lekötési átutalás esetén a lekötési átutalást követő 30 napon belül bejelenti az adóhatóságnak, és rendelkezik a befektetési szolgáltató, illetőleg a hitelintézet által a (6) bekezdés szerinti tartalommal kiállított olyan igazolással, amelyből a tartós befektetésből származó jövedelem megállapítható.
 
 (9) A lekötési időszak megszűnését, a lekötés megszakítását követő időszakra tartós befektetésből származó jövedelem az adott szerződés alapján nem állapítható meg, a megszűnés, a megszakítás napját követően keletkező tőkejövedelemre – jogcíme szerint – a rávonatkozó rendelkezéseket kell alkalmazni azzal, hogy
 
-- a) ha a jövedelmet szerzési érték figyelembevételével kell megállapítani, a megszűnés, megszakítás napján irányadó szokásos piaci érték, illetve a megszerzésre fordított összeg közül a nagyobb vehető figyelembe,
-- b) adókiegyenlítés ellenőrzött tőkepiaci ügyletből származó veszteség esetén akkor érvényesíthető, ha az a megszűnés, a megszakítás napját követően kötött ügyletekből keletkezett.
+- a) ha betéti kamatjövedelmet kell megállapítani, a lekötési hozam részeként figyelembe vett betéti kamatkövetelést figyelmen kívül kell hagyni,
+- b) ha a jövedelmet szerzési érték figyelembevételével kell megállapítani, a megszűnés, megszakítás napján irányadó szokásos piaci érték, illetve a megszerzésre fordított összeg közül a nagyobb vehető figyelembe,
+- c) adókiegyenlítés ellenőrzött tőkepiaci ügyletből származó veszteség esetén akkor érvényesíthető, ha az a megszűnés, a megszakítás napját követően kötött ügyletekből keletkezett.
 
 (10) A (2) bekezdés rendelkezésének alkalmazásában befizetésnek minősül továbbá
 
 - a) ha a magánszemély tartós befektetési szerződés alapján a nyugdíj-előtakarékossági számláját megszünteti, és a nyugdíj-előtakarékossági értékpapírszámlán nyilvántartott pénzügyi eszköznek a befektetési szolgáltató által vezetett lekötési nyilvántartásba helyezésével a követelését lekötött pénzösszeggé alakítja át (azzal, hogy az átalakítás napjának a nyilvántartásba vétel napját kell tekinteni);
-- b) az ötéves lekötési időszak utolsó napján lekötési nyilvántartásban lévő pénzeszköznek, pénzügyi eszköznek az ötéves lekötési időszak megszűnésének napjáig újra megkötött tartós befektetési szerződés alapján a befektetési szolgáltató által vezetett lekötési nyilvántartásban tartása, azzal, hogy
-  - ba) a pénzügyi eszköz tekintetében befizetett pénzösszegként a pénzügyi eszköznek az ötéves lekötési időszak megszűnésének utolsó napján irányadó szokásos piaci értéke, illetve a megszerzésre fordított összeg közül a nagyobbat;
-  - bb) a befizetés naptári éveként az ötéves lekötési időszak utolsó évét
+- b) figyelemmel a (10a) bekezdésben foglaltakra, az ötéves lekötési időszak utolsó napján lekötési nyilvántartásban lévő pénzeszköznek, pénzügyi eszköznek az ötéves lekötési időszak megszűnésének napjáig újra megkötött tartós befektetési szerződés alapján a befektetési szolgáltató által vezetett lekötési nyilvántartásban tartása, azzal, hogy
+  - ba) befizetett pénzösszegként kell figyelembe venni a lekötési időszak utolsó napjára megállapított betéti kamatkövetelést is;
+  - bb) a pénzügyi eszköz tekintetében befizetett pénzösszegként a pénzügyi eszköznek az ötéves lekötési időszak megszűnésének utolsó napján irányadó szokásos piaci értéke vagy a megszerzésre fordított összeg közül a nagyobbat;
+  - bc) a befizetés naptári éveként az ötéves lekötési időszak utolsó évét
 
 kell figyelembe venni.
+
+(10a) A tartós befektetési szerződés (10) bekezdés b) pont szerinti újrakötése esetén a magánszemély dönthet arról, hogy a befektetésének csak egy részét tartja a lekötési nyilvántartásban, feltéve, hogy a befizetésnek minősülő összeg a 25 ezer forintot eléri.
 
 (11) A magánszemély a tartós befektetési szerződés megszüntetésével a befektetési szolgáltató, illetve a hitelintézet által vezetett lekötési nyilvántartásban rögzített pénzösszegek, pénzügyi eszközök egészét – a megszűnt szerződéssel azonos, a (3) bekezdés a) vagy b) pontja szerinti célra – a lekötés megszakítása nélkül másik befektetési szolgáltatóhoz, illetve hitelintézethez utalhatja (transzferálhatja) át (lekötési átutalás). Amennyiben a magánszemély a lekötést átvevő befektetési szolgáltatónál, illetve hitelintézetnél a lekötési átutalással érintett állomány elhelyezési éve tekintetében már rendelkezik tartós befektetési szerződéssel, úgy a lekötést átvevő befektetési szolgáltató, illetve hitelintézet az általa az adott naptári év tekintetében vezetett lekötési nyilvántartásban rögzíti a lekötési átutalásban szereplő pénzösszegeket, pénzügyi eszközöket. Amennyiben a pénzügyi eszköz transzferálása nem lehetséges, valamint a (3) bekezdés b) pontja szerinti pénzlekötés esetén, a lekötési átutalást megelőzően a pénzügyi eszközt értékesíteni kell, valamint a betét lekötését meg kell szüntetni és mint pénzeszközt kell átutalni.
 
@@ -2116,7 +2079,7 @@ kell figyelembe venni.
 
 69. § (1) Béren kívüli juttatásnak nem minősülő egyes meghatározott juttatások [70. §], valamint a béren kívüli juttatások [71. §] után az adó a kifizetőt terheli.
 
-(2) Az (1) bekezdés hatálya alá tartozó juttatás esetében jövedelemnek minősül a juttatás értéke, ingyenesen vagy kedvezményesen juttatott termék, szolgáltatás esetén annak szokásos piaci értéke, illetőleg abból az a rész, amelyet a magánszemély nem köteles megfizetni. A kifizetőt terhelő adó alapja az előzőek szerinti jövedelem 1,19-szerese.
+(2) Az (1) bekezdés hatálya alá tartozó juttatás esetében jövedelemnek minősül a juttatás értéke, ingyenesen vagy kedvezményesen juttatott termék, szolgáltatás esetén annak szokásos piaci értéke vagy abból az a rész, amelyet a magánszemély nem köteles megfizetni. A kifizetőt terhelő adó alapja az előzőek szerinti jövedelem 1,18-szorosa.
 
 (3) Ha a juttatás utalvány, készpénz-helyettesítő fizetési eszköz, e törvény külön rendelkezése alapján vagy annak hiányában is akkor minősül e § szerinti juttatásnak, ha a juttatási feltételek alapján megállapítható, hogy az mely termékre, szolgáltatásra, vagy milyen termék- vagy szolgáltatáskörben használható fel, továbbá ha az utalvány – a magánszemélynek ki nem osztott (nem juttatott) utalványok visszaváltása kivételével – nem visszaváltható, és egyebekben a juttatás körülményei megfelelnek a 70–71. § rendelkezéseinek.
 
@@ -2129,10 +2092,8 @@ kell figyelembe venni.
 
 - a) a juttatás hónapja kötelezettségeként;
 - b) a 70. § (2a) bekezdése szerint adókötelezettség alá eső érték után az adóévre elszámolt éves összes bevétel megállapítására előírt időpontot követően az elszámolt éves összes bevétel megállapítása hónapjának kötelezettségeként;
-- c) a 70. § (4) bekezdés a)–c) pontja szerinti esetben az ott említett meghaladó rész után a juttatás hónapja kötelezettségeként;
-- d) a 70. § (4) bekezdés b) és c) pontja szerinti esetben – a c) ponttól eltérően – ha a magánszemély béren kívüli juttatásra jogosító jogviszonya úgy szűnik meg, hogy a megszűnéskor a munkáltatótól az adóévben – az adott juttatásokra vonatkozóan meghatározott értékhatárokat meg nem haladóan – szerzett béren kívüli juttatások együttes értéke a 70. § (4) bekezdés b) pontja esetében az éves keretösszeget, a 70. § (4) bekezdés c) pontja esetében az éves rekreációs keretösszeget meghaladja, a meghaladó rész(ek) után a jogviszony megszűnésekor, a megszűnés hónapja kötelezettségeként, a meghaladó rész(ek) után a (2) bekezdés szerinti közteheralap szerint már teljesített közteher beszámításával
-
-kell megállapítania és a kifizetésekkel, juttatásokkal összefüggő adó és járulékok bevallására, megfizetésére az adózás rendjéről szóló törvényben előírt módon és határidőre kell bevallania, illetve megfizetnie.
+- c) a 70. § (4) bekezdés a)–b) pontja szerinti esetben az ott említett meghaladó rész után a juttatás hónapja kötelezettségeként;
+- d) a 70. § (4) bekezdés b) pontja szerinti esetben – a c) ponttól eltérően – ha a magánszemély béren kívüli juttatásra jogosító jogviszonya úgy szűnik meg, hogy a megszűnéskor a munkáltatótól az adóévben – az adott juttatásokra vonatkozóan meghatározott értékhatárokat meg nem haladóan – szerzett béren kívüli juttatások együttes értéke a 70. § (4) bekezdés b) pontja esetében az éves rekreációs keretösszeget meghaladja, a meghaladó rész után a jogviszony megszűnésekor, a megszűnés hónapja kötelezettségeként, a meghaladó rész után a (2) bekezdés szerinti közteheralap szerint már teljesített közteher beszámításával kell megállapítania és a kifizetésekkel, juttatásokkal összefüggő adó és járulékok bevallására, megfizetésére az adózás rendjéről szóló törvényben előírt módon és határidőre kell bevallania és megfizetnie.
 
 (6) Ha a magánszemély a kifizetőt terhelő adó mellett nem pénzben juttatott vagyoni értéket elidegeníti, annak szerzési értéke az a jövedelem, amely után a kifizető az adót megfizette.
 
@@ -2173,27 +2134,25 @@ részére, azonos feltételekkel és módon ingyenesen vagy kedvezményesen áta
 - c) a kifizető által törvény vagy törvény felhatalmazása alapján más jogszabály rendelkezése következtében a magánszemélynek ingyenesen vagy kedvezményesen átadott termék, nyújtott szolgáltatás révén juttatott adóköteles jövedelem;
 - d) az olyan adómentesnek, üzleti ajándéknak nem tekinthető üzletpolitikai (reklám) célú juttatás, amely nem tartozik a szerencsejáték szervezéséről szóló törvény hatálya alá, azzal, hogy a kifizető rosszhiszemű vagy jogszerűtlen eljárása esetén a kiszabható mulasztási bírság az adóalap 50 százaléka.
 
-(3a) Egyes meghatározott juttatásnak minősül az önkéntes kölcsönös biztosító pénztárakról szóló törvény előírásai szerint célzott szolgáltatásra befizetett azon összeg, amely nem minősül béren kívüli juttatásnak.
+(3a) Egyes meghatározott juttatásnak minősül az önkéntes kölcsönös biztosító pénztárakról szóló törvény előírásai szerint célzott szolgáltatásra befizetett összeg.
 
 (4) Egyes meghatározott juttatásnak minősül
 
-- a) az a juttatás, amely megfelel a 71. §-ban meghatározott béren kívüli juttatás feltételeinek, de az ott meghatározott értékhatárt meghaladja,
-- b) az adott juttatásokra vonatkozóan meghatározott értékhatárokat meg nem haladóan biztosított béren kívüli juttatások – ide nem értve a 71. § (1) bekezdés c) pontja szerinti juttatást – adóévi együttes értékének az éves keretösszeget meghaladó része,
-- c) a 71. § (1) bekezdés c) pontja szerinti juttatást nem tartalmazó (az adott juttatásokra vonatkozóan meghatározott értékhatárokat meg nem haladóan biztosított) béren kívüli juttatások adóévi értékének az éves keretösszeget meg nem haladó része és a 71. § (1) bekezdés c) pontja szerint (az adott juttatásra vonatkozóan meghatározott értékhatárt meg nem haladóan) az adóévben biztosított juttatások együttes értékének az éves rekreációs keretösszeget meghaladó része.
+- a) a 71. § (1) bekezdés b) szerinti juttatásnak az ott meghatározott értékhatárt meghaladó része;
+- b) a 71. § (1) bekezdés a) pontja szerinti pénzösszeg adóévi értékének az éves keretösszeget [71. § (6) bekezdés e) pont] meg nem haladó része és a 71. § (1) bekezdés b) pontja szerint – az ott meghatározott értékhatárokat meg nem haladóan – az adóévben biztosított juttatások együttes értékének az éves rekreációs keretösszeget meghaladó része.
 
-(4a) A (4) bekezdés b) pont alkalmazásában az éves keretösszeg
+(4a) A (4) bekezdés b) pont alkalmazásában az éves rekreációs keretösszeg
 
-- a) évi 200 ezer forint, ha a munkavállaló munkaviszonya egész évben fennáll;
-- b) a 200 ezer forintnak a munkavállaló által az adott munkáltatónál az adóévben a juttatás alapjául szolgáló jogviszonyban töltött napokkal arányos összege, ha a munkavállaló munkaviszonya csak az év egy részében áll fenn;
-- c) évi 200 ezer forint, ha a magánszemély munkaviszonya a magánszemély halála miatt szűnik meg,
+- a) – ha a munkáltató költségvetési szerv –
+  - aa) évi 200 ezer forint, ha a munkavállaló munkaviszonya egész évben fennáll;
+  - ab) a 200 ezer forintnak a munkavállaló által az adott munkáltatónál az adóévben a juttatás alapjául szolgáló jogviszonyban töltött napokkal arányos összege, ha a munkavállaló munkaviszonya csak az év egy részében áll fenn;
+  - ac) évi 200 ezer forint, ha a magánszemély munkaviszonya a magánszemély halála miatt szűnik meg;
+- b) más munkáltató esetében
+  - ba) évi 450 ezer forint, ha a munkavállaló munkaviszonya egész évben fennáll;
+  - bb) a 450 ezer forintnak a munkavállaló által az adott munkáltatónál az adóévben a juttatás alapjául szolgáló jogviszonyban töltött napokkal arányos összege, ha a munkavállaló munkaviszonya csak az év egy részében áll fenn;
+  - bc) évi 450 ezer forint, ha a magánszemély munkaviszonya a magánszemély halála miatt szűnik meg.
 
-azzal, hogy a keretösszeg számításánál a munkavállalót megillető béren kívüli juttatásnak kell tekinteni a munkavállalóra tekintettel más magánszemélynek biztosított béren kívüli juttatást is.
-
-(4b) A (4) bekezdés c) pont alkalmazásában az éves rekreációs keretösszeg
-
-- a) évi 450 ezer forint, ha a munkavállaló munkaviszonya egész évben fennáll;
-- b) a 450 ezer forintnak a munkavállaló által az adott munkáltatónál az adóévben a juttatás alapjául szolgáló jogviszonyban töltött napokkal arányos összege, ha a munkavállaló munkaviszonya csak az év egy részében áll fenn;
-- c) évi 450 ezer forint, ha a magánszemély munkaviszonya a magánszemély halála miatt szűnik meg, azzal hogy a keretösszeg számításánál a munkavállalót megillető béren kívüli juttatásnak kell tekinteni a munkavállalóra tekintettel más magánszemélynek biztosított béren kívüli juttatást is.
+(4b)
 
 (5) E § alkalmazásában
 
@@ -2205,56 +2164,35 @@ azzal, hogy a keretösszeg számításánál a munkavállalót megillető béren
 
 ### Béren kívüli juttatások
 
-71. § (1) Béren kívüli juttatásnak minősül – ha a juttató a munkáltató – a munkavállalónak
+71. § (1) Béren kívüli juttatásnak minősül – ha a juttató a munkáltató – a munkavállalónak az adóévben
 
-- a) személyére és közeli hozzátartozói személyére tekintettel a munkáltató tulajdonában, vagyonkezelésében lévő üdülőben nyújtott üdülési szolgáltatás révén juttatott jövedelemből az adóévben személyenként a minimálbér összegét meg nem haladó rész;
-- b) a munkavállaló választása szerint
-  - ba) munkahelyi (üzemi) étkeztetésnek minősülő szolgáltatás keretében a munkáltató telephelyén működő étkezőhelyen megvalósuló ételfogyasztás formájában juttatott jövedelemből a havi 12 ezer 500 forintot meg nem haladó rész [ideértve a kizárólag az adott munkáltató telephelyén működő munkahelyi (üzemi) étkezőhelyen az említett értékben és célra felhasználható – a munkáltató vagy az étkezőhelyet üzemeltető személy által kibocsátott – utalványt, elektronikus adathordozót is], és/vagy
-  - bb) Erzsébet-utalvány formájában juttatott jövedelemből (az adóéven belül utólagosan adva is) a juttatás alapjául szolgáló jogviszony minden megkezdett hónapjára a havi 8 ezer forintot meg nem haladó rész;
-- c) az adóévben Széchenyi Pihenő Kártya
-  - ca) szálláshely alszámlájára utalt, kormányrendeletben meghatározott szálláshely-szolgáltatásra felhasználható – több juttatótól származóan együttvéve – legfeljebb 225 ezer forint támogatás;
-  - cb) vendéglátás alszámlájára utalt, melegkonyhás vendéglátóhelyeken (ideértve a munkahelyi étkeztetést is) kormányrendeletben meghatározott étkezési szolgáltatásra felhasználható – több juttatótól származóan együttvéve – legfeljebb 150 ezer forint támogatás;
-  - cc) szabadidő alszámlájára utalt, a szabadidő-eltöltést, a rekreációt, az egészségmegőrzést szolgáló, kormányrendeletben meghatározott szolgáltatásra felhasználható – több juttatótól származóan együttvéve – legfeljebb 75 ezer forint támogatás;
-- d)
-- e) iskolakezdési támogatás címén juttatott jövedelemből gyermekenként, tanulónként a minimálbér 30 százalékát meg nem haladó rész;
-- f) a munkáltató nevére szóló számlával megvásárolt, kizárólag a munkavállaló helyi utazására szolgáló bérlet formájában juttatott jövedelem;
-- g) az iskolarendszerű képzési költsége munkáltató által történő átvállalása révén juttatott jövedelemből a minimálbér két és félszeresét meg nem haladó rész, azzal, hogy ez a rendelkezés akkor alkalmazható, ha a képzés – akkor is, ha a költséget nem a munkáltató viseli – munkáltatói elrendelés alapján a munkakör betöltéséhez szükséges, vagy egyébként a munkáltató tevékenységével összefüggő szakmai ismeretek megszerzését, bővítését szolgálja.
+- a) juttatott pénzösszegnek az éves keretösszeget meg nem haladó része;
+- b) a Széchenyi Pihenő Kártya
+  - ba) szálláshely alszámlájára utalt, kormányrendeletben meghatározott szálláshely-szolgáltatásra felhasználható – több juttatótól származóan együttvéve – legfeljebb 225 ezer forint támogatás;
+  - bb) vendéglátás alszámlájára utalt, melegkonyhás vendéglátóhelyeken (ideértve a munkahelyi étkeztetést is) kormányrendeletben meghatározott étkezési szolgáltatásra felhasználható – több juttatótól származóan együttvéve – legfeljebb 150 ezer forint támogatás;
+  - bc) szabadidő alszámlájára utalt, a szabadidő-eltöltést, a rekreációt, az egészségmegőrzést szolgáló, kormányrendeletben meghatározott szolgáltatásra felhasználható – több juttatótól származóan együttvéve – legfeljebb 75 ezer forint támogatás.
 
 (2) Béren kívüli juttatásnak minősül
 
-- a) a szakképző iskolai tanulónak, kötelező szakmai gyakorlatának ideje alatt a hallgatónak, duális képzésben hallgatói munkaszerződés alapján részt vevő hallgatónak, valamint – ha a juttató a volt munkáltató (annak jogutódja) – a nyugdíjban részesülő magánszemélynek és közeli hozzátartozójának, továbbá az elhunyt munkavállaló közeli hozzátartozójának a juttató tulajdonában, vagyonkezelésében lévő üdülőben nyújtott üdülési szolgáltatás révén juttatott jövedelemből az adóévben személyenként a minimálbér összegét meg nem haladó rész;
-- b) a szakképző iskolai tanulónak, kötelező szakmai gyakorlatának ideje alatt a hallgatónak, duális képzésben hallgatói munkaszerződés alapján részt vevő hallgatónak a juttatás alapjául szolgáló jogviszony minden megkezdett hónapjára, valamint – ha a juttató a volt munkáltató (vagy annak jogutódja) – a nyugdíjban részesülő magánszemélynek választása szerint
-  - ba) munkahelyi (üzemi) étkeztetésnek minősülő szolgáltatás keretében a munkáltató telephelyén működő étkezőhelyen megvalósuló ételfogyasztás formájában juttatott jövedelemből a havi 12 ezer 500 forintot meg nem haladó rész [ideértve a kizárólag az adott munkáltató telephelyén működő munkahelyi (üzemi) étkezőhelyen az említett értékben és célra felhasználható – a munkáltató vagy az étkezőhelyet üzemeltető személy által kibocsátott – utalványt, elektronikus adathordozót is], és/vagy
-  - bb) Erzsébet-utalvány formájában juttatott jövedelemből (az adóéven belül utólagosan adva is) a juttatás alapjául szolgáló jogviszony minden megkezdett hónapjára a havi 8 ezer forintot meg nem haladó rész;
-- c) a szakszervezet által a tagjának, a nyugdíjas tagjának, az említett magánszemélyek közeli hozzátartozójának, az elhunyt tag (nyugdíjas tag) közeli hozzátartozójának üdülőben nyújtott üdülési szolgáltatás révén juttatott jövedelemből az adóévben személyenként a minimálbér összegét meg nem haladó rész;
-- d) a szövetkezet közösségi alapjából a szövetkezet magánszemély tagja részére a szövetkezet alapszabályában foglaltaknak megfelelően az adóévben nem pénzben juttatott – egyébként adóköteles – jövedelem együttes értékéből személyenként a minimálbér havi összegének 50 százalékát meg nem haladó rész.
+- a) a szakszervezet által a tagjának, a nyugdíjas tagjának, az említett magánszemélyek közeli hozzátartozójának, az elhunyt tag (nyugdíjas tag) közeli hozzátartozójának üdülőben nyújtott üdülési szolgáltatás révén juttatott jövedelemből az adóévben személyenként a minimálbér összegét meg nem haladó rész;
+- b) a szövetkezet közösségi alapjából a szövetkezet magánszemély tagja részére a szövetkezet alapszabályában foglaltaknak megfelelően az adóévben nem pénzben juttatott – egyébként adóköteles – jövedelem együttes értékéből személyenként a minimálbér havi összegének 50 százalékát meg nem haladó rész.
 
-(3) Béren kívüli juttatásnak minősül a magánszemély javára átutalt munkáltatói/foglalkoztatói havi hozzájárulásból
+(3) A kifizető az adókötelezettség megállapításához a béren kívüli juttatásra vonatkozó rendelkezésekben foglalt feltételek általa nem ismert fennállását a magánszemélynek az adott juttatásra vonatkozó nyilatkozata alapján veszi figyelembe.
 
-- a) az önkéntes kölcsönös nyugdíjpénztár(ak)ba a minimálbér 50 százalékát,
-- b) az önkéntes kölcsönös egészségpénztár(ak)ba/önsegélyező pénztár(ak)ba együttvéve a minimálbér 30 százalékát,
-- c) foglalkoztatói nyugdíjszolgáltató intézménybe a minimálbér 50 százalékát meg nem haladó rész akkor, ha a magánszemély nyilatkozik, hogy az adott jogcímen bevétele az adott hónapra más juttatótól nem volt, továbbá akkor, ha a juttató a hozzájárulást havonta, vagy – az adott hónapokra vonatkozó összegek közlésével – több hónapra előre, vagy utólagosan legfeljebb három hónapra utalja át egy összegben. Egyösszegű utalás esetében azt a magánszemélynél a közölt összegeknek megfelelő hónap(ok) szerinti juttatásnak kell tekinteni. A megállapított adót a kifizető a közölt összegeknek megfelelőhónapokra vonatkozó szabályok szerint és mértékkel, előre történő utalás esetén a juttatás közölt hónapjának, utólagos utalás esetén az utalás hónapjának kötelezettségeként vallja be és fizeti meg.
+(4) Ha béren kívüli juttatásra vonatkozóan az adóhatóság a feltételek fennállásának hiányát állapítja meg, a jogkövetkezményeket – ha nem rendelkezik a magánszemély nyilatkozatával – a kifizető viseli. Ha az adóhiány a magánszemély valótlan nyilatkozatának a következménye, illetve a magánszemély a nyilatkozat átadását nem tudja igazolni, akkor az adóhiányt és jogkövetkezményeit a magánszemélynek az adóhatóság határozata alapján kell viselnie.
 
-(3a) Béren kívüli juttatásnak minősül a munkáltatói tag vagy a munkáltató mint támogató által az önkéntes kölcsönös biztosító pénztárakról szóló törvény előírásai szerint célzott szolgáltatásra befizetett összegből az a rész, amely évente nem haladja meg a pénztártag alkalmazottak létszáma és a minimálbér szorzatát azzal, hogy
-
-- a) a befizetett összegnek az értékhatárt meghaladó része egyes meghatározott juttatásnak minősül,
-- b) a béren kívüli juttatásnak az egy magánszemélyre jutó összegét a 70. § (4a) bekezdés szerinti éves keretösszeg számításánál figyelmen kívül kell hagyni,
-- c) az alkalmazottak létszámaként a befizetéskor – az adóéven belül több befizetés esetén az első befizetéskor – pénztártag alkalmazottak létszáma vehető figyelembe.
-
-(4) A kifizető az adókötelezettség megállapításához a béren kívüli juttatásra vonatkozó rendelkezésekben foglalt feltételek általa nem ismert fennállását a magánszemélynek az adott juttatásra vonatkozó nyilatkozata alapján veszi figyelembe.
-
-(5) Ha béren kívüli juttatásra vonatkozóan az adóhatóság a feltételek fennállásának hiányát állapítja meg, a jogkövetkezményeket – ha nem rendelkezik a magánszemély nyilatkozatával – a kifizető viseli. Ha az adóhiány a magánszemély valótlan nyilatkozatának a következménye, illetve a magánszemély a nyilatkozat átadását nem tudja igazolni, akkor az adóhiányt és jogkövetkezményeit a magánszemélynek az adóhatóság határozata alapján kell viselnie.
+(5) Amennyiben az (1) bekezdés a) pontban említett juttatás összege az adóévben az éves keretösszeget meghaladja, e meghaladó rész után a juttatásra jogosító jogviszony alapján kell – a kifizetés hónapjára – az adókötelezettséget megállapítani. Ha a magánszemély béren kívüli juttatásra jogosító jogviszonya úgy szűnik meg, hogy a megszűnéskor a munkáltatótól az adóévben szerzett (1) bekezdés a) pont szerinti juttatás értéke az éves keretösszeget meghaladja, a meghaladó rész után a jogviszony megszűnésekor, a megszűnés hónapja kötelezettségeként a juttatásra jogosító jogviszony alapján kell az adókötelezettséget megállapítani azzal, hogy e meghaladó rész a 69. § (2) bekezdés szerinti közteheralap számításánál figyelmen kívül hagyható vagy az e (meghaladó) közteheralap után már megfizetett közterhek az önellenőrzésre vonatkozó szabályok szerint helyesbíthetők.
 
 (6) E § alkalmazásában
 
 - a) munkáltatónak minősül a társas vállalkozás is;
-- b) munkavállalónak minősül a Munka Törvénykönyvéről szóló törvény előírásai szerint a munkáltatóhoz kirendelt munkavállaló és a társas vállalkozás személyesen közreműködő tagja is;
+- b) munkavállalónak minősül a munka törvénykönyvéről szóló törvény előírásai szerint a munkáltatónál másik munkáltató utasítása alapján a munkaszerződésében rögzített munkahelytől eltérő helyen munkát végző munkavállaló és a társas vállalkozás személyesen közreműködő tagja is;
 - c) üdülőnek minősül a nem üzleti célú közösségi szabadidős szálláshely-szolgáltatásról szóló kormányrendelet szerint üdülőként nyilvántartásba vett szálláshely;
-- d) a munkáltató tulajdonában, vagyonkezelésében lévő üdülőnek kell tekinteni a munkáltató cégnek a társasági adóról és az osztalékadóról szóló törvény szerinti kapcsolt vállalkozásának, költségvetési szerv esetében felügyeleti szerv és miniszter irányítása alatt álló szerv tulajdonában, vagyonkezelésében lévő üdülőt is;
-- e) a Magyar Tudományos Akadémia által fenntartott üdülőkben nyújtott szolgáltatás esetében a Magyar Tudományos Akadémia munkáltatónak, a Magyar Tudományos Akadémia tagja, a tudományos fokozattal rendelkező személy is munkavállalónak minősül;
-- f) a Széchenyi Pihenő Kártya az arra jogosult intézmény által kibocsátott olyan fizetési eszköz, amellyel a munkavállalónak a munkáltató által utalt támogatás terhére – az arra felhatalmazott és a rendszerbe bevont szolgáltatóknál – szolgáltatások vásárolhatók;
-- g) iskolakezdési támogatásnak minősül az a juttatás, amelyet a munkáltató a köznevelésben (vagy bármely EGT-államban ennek megfelelő oktatásban) részt vevő gyermekre, tanulóra tekintettel a tanév első napját megelőző 60. naptól a kibocsátás évének utolsó napjáig tankönyv, taneszköz, ruházat vásárlására jogosító – papír alapon vagy elektronikus formában kibocsátott –utalvány formájában juttat, feltéve, hogy a juttatásban részesülő magánszemély a juttató olyan munkavállalója, aki az említett gyermeknek, tanulónak a családok támogatásáról szóló törvény vagy bármely EGT-állam hasonló jogszabálya alapján családi pótlék juttatásra vagy hasonló ellátásra jogosult szülője, gyámja (ide nem értve a gyermekvédelmi gyámot) vagy e szülőnek, gyámnak (ide nem értve a gyermekvédelmi gyámot) vele közös háztartásban élő házastársa, és a juttatásra való jogosultság feltételeinek fennállásáról a munkáltatónak nyilatkozatot tesz;
-- h) iskolarendszerű a képzés, ha az abban részesülő a képző intézménnyel tanulói vagy hallgatói jogviszonyban áll.
+- d) a Széchenyi Pihenő Kártya az arra jogosult intézmény által kibocsátott olyan fizetési eszköz, amellyel a munkavállalónak a munkáltató által utalt támogatás terhére – az arra felhatalmazott és a rendszerbe bevont szolgáltatóknál – szolgáltatások vásárolhatók;
+- e) éves keretösszeg
+  - ea) évi 100 ezer forint, ha a munkavállaló munkaviszonya egész évben fennáll;
+  - eb) a 100 ezer forintnak a munkavállaló által az adott munkáltatónál az adóévben a juttatás alapjául szolgáló jogviszonyban töltött napokkal arányos összege, ha a munkavállaló munkaviszonya csak az év egy részében áll fenn;
+  - ec) évi 100 ezer forint, ha a magánszemély munkaviszonya a magánszemély halála miatt szűnik meg.
 
 ### Kamatkedvezményből származó jövedelem
 
@@ -2550,7 +2488,7 @@ e tájékoztatási kötelezettség elmulasztása vagy nem megfelelő teljesíté
 - a) letétbe helyezett összes értékpapírnak a letétbe helyezés időpontjára és/vagy
 - b) az (1) bekezdés c) pontja szerint vételi, jegyzési vagy más hasonló jog gyakorlása révén megszerzett értékpapír(ok) esetében a jog gyakorlásának napjára megállapított – ha a magánszemély az értékpapírt nem ingyenesen szerezte, akkor az értékpapír megszerzésére fordított értékkel csökkentett – együttes szokásos piaci értéke meghaladja az 1 millió forintot, az adózó az (1)–(17) bekezdésben foglaltakat csak azokra az értékpapírokra alkalmazza, amelyeknek – a letétbe helyezés, illetőleg a joggyakorlás sorrendjében – összesített együttes (csökkentett) szokásos piaci értéke nem haladja meg az említett összeget. A magánszemély által program keretében megszerzett többi értékpapírra a 77/A. § rendelkezései az irányadók. Ha a magánszemély az adóévben több program keretében szerez értékpapírt, az említett összeghatár eléréséről haladéktalanul köteles tájékoztatni valamennyi program szervezőjét.
 
-(19) A program szervezője a kötelező tartási időszak kezdő napját követő hónap 20. napjáig megküldi az adóhatóságnak a program meghirdetéséről a munkavállalók, vezető tisztségviselők részére kiadott tájékoztató vagy más hasonló irat másolati példányát.
+(19) A program szervezője a kötelező tartási időszak kezdő napját követő hónap 20. napjáig, az (1) bekezdés a) és c) pontja szerinti program esetén a program elindítását követő hónap 20. napjáig megküldi az állami adóhatóságnak a program meghirdetéséről a munkavállalók, vezető tisztségviselők részére kiadott tájékoztató vagy más hasonló irat másolati példányát.
 
 (19a)
 
@@ -2617,7 +2555,7 @@ e tájékoztatási kötelezettség elmulasztása vagy nem megfelelő teljesíté
 
 80. § Felhatalmazást kap a Kormány, hogy rendeletben meghatározza
 
-- a) a közműfejlesztés támogatásának rendjét;
+- a)
 - b) egyes költségtérítések formáit és a jövedelemadó szempontjából igazolás nélkül elszámolható költségek mértékeit;
 - c) a közlekedési kedvezmények azon körét, amely adómentes juttatásnak minősül;
 - d) a Széchenyi Pihenő Kártya kibocsátásának és felhasználásának részletes szabályait;
@@ -2641,6 +2579,8 @@ e tájékoztatási kötelezettség elmulasztása vagy nem megfelelő teljesíté
 (4)
 
 (5) Felhatalmazást kap a vendéglátásért felelős miniszter, hogy rendeletben meghatározza a felszolgálási díj alkalmazásának, kifizetésének és felhasználásának részletes szabályait.
+
+(6) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben határozza meg azokat az egészségügyi ellátásokat, amelyeket a munkáltató – nem pénzben kapott juttatásként – adómentesen biztosíthat a munkavállaló számára.
 
 81/A. § (1) A mezőgazdasági őstermelők adatairól – a mezőgazdasági őstermelők tevékenységének átláthatóbbá tétele és az ellenőrzés hatékonyságának biztosítása céljából – az őstermelői nyilvántartást vezető szerv az élelmiszerlánc-felügyeleti információs rendszerben – a (2) bekezdés c), d) és f) pontjában meghatározott adatok tekintetében közhiteles – hatósági nyilvántartást (a továbbiakban: őstermelői nyilvántartás) vezet.
 
@@ -2701,7 +2641,7 @@ e tájékoztatási kötelezettség elmulasztása vagy nem megfelelő teljesíté
 
 (2) Az állami adóhatóság havonta, a tárgyhónapot megelőző hónap huszonötödik napjáig a Magyar Közlönyben közzéteszi a tárgyhónapban a fogyasztási norma szerinti üzemanyagköltség-elszámolással kapcsolatosan alkalmazható üzemanyagárat. Az üzemanyagárat három – az előző évben nagy forgalmat bonyolító – belföldi üzemanyag-forgalmazó cég által alkalmazott, a tárgyhónapot megelőző hónap első napján érvényes fogyasztói üzemanyagár számtani átlagának literenként egy forinttal növelt összegében, forintra kerekítve kell megállapítani. Ha a fogyasztói üzemanyagárat törvényben vagy kormányrendeletben előírt szabályok változásának következményeként növelik, az adott hónapra közzétett üzemanyagárat az említett szabályok változásával összefüggő fogyasztói áremelés időpontjától az adott hónap végéig a bejelentett áremelés mértékével növelten lehet alkalmazni.
 
-(3) Az állami adóhatóság az adott év november 30-áig honlapján közzéteszi a külföldi biztosítóval kötött nyugdíjbiztosítási szerződés alapján tehető nyugdíjbiztosítási nyilatkozat feltételeként meghatározott [44/C. § (7) bekezdés], a külföldi biztosító által kiállítandó igazolás formáját. Az igazoláson a kért adatokat magyar és angol nyelven kell szerepeltetni.
+(3) Az állami adóhatóság az adott év november 30-áig honlapján közzéteszi a külföldi biztosítóval kötött nyugdíjbiztosítási szerződés alapján tehető nyugdíjbiztosítási nyilatkozat feltételeként meghatározott [44/C. § (10) bekezdés], a külföldi biztosító által kiállítandó igazolás formáját. Az igazoláson a kért adatokat magyar és angol nyelven kell szerepeltetni.
 
 ### Hatályba léptető és átmeneti rendelkezések
 
@@ -2899,7 +2839,7 @@ e tájékoztatási kötelezettség elmulasztása vagy nem megfelelő teljesíté
 
 a 2012. adóévre vonatkozó adónyilatkozat megtétele esetében is alkalmazni kell.
 
-(3) Ha a biztosító 2012. december 31-ét követően olyan teljes életre szóló kockázati élet- és balesetbiztosításra teljesít kifizetést, amelynek volt adómentes díja, úgy a 2012. december 31-éig megfizetett díjra és az ahhoz kapcsolódó biztosítói teljesítésre e törvény 2012. december 31-én hatályos rendelkezéseit lehet alkalmazni, ha az a magánszemély számára kedvezőbb.
+(3)
 
 (4) E törvény
 
@@ -3016,6 +2956,8 @@ a magánszemély tartós befektetési szerződése lekötési nyilvántartásáb
 
 (7) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel megállapított 1. számú melléklet 4. pont 4.11. alpontja a 2016. szeptember 1-jétől keletkezett adókötelezettségre is alkalmazható.
 
+91. § A magánszemély 2016-ra és az azt megelőző bármely adóévre választhatja, hogy adókötelezettségeit a közteherviselést és az állami szervek feladatellátását érintő egyes törvények módosításáról szóló 2016. évi CLXXI. törvénnyel módosított 7. § (2) bekezdése és 28. § (12)–(13) bekezdés szerint, a közteherviselést és az állami szervek feladatellátását érintő egyes törvények módosításáról szóló 2016. évi CLXXI. törvénnyel hatályon kívül helyezett 3. § 85. pontja és 28. § (20)–(22) bekezdése figyelmen kívül hagyásával teljesíti.
+
 ### 1. számú melléklet az 1995. évi CXVII. törvényhez
 
 #### Az adómentes bevételekről
@@ -3046,7 +2988,7 @@ b) jövedelempótló kártérítési járadék, feltéve, hogy a rá irányadó 
 
 1.10. a menedékjogról szóló törvény végrehajtásról szóló kormányrendeletben felsorolt támogatások: az étkezési hozzájárulás, a higiénés hozzájárulás, a szabad felhasználású költőpénz, az oktatási, nevelési költségek megtérítése, a beiskolázási támogatás, a letelepedéshez nyújtott egyszeri támogatás, a rendszeres létfenntartási támogatás, lakhatási támogatás, lakáscélú támogatás és az integrációs támogatás.
 
-1.11. a honvédek jogállásáról szóló törvényben meghatározott kiegészítő rokkantsági támogatás és kiegészítő hozzátartozói támogatás.
+1.11. a honvédek jogállásáról szóló törvényben meghatározott árvák kiegészítő támogatása, kiegészítő rokkantsági támogatás és kiegészítő hozzátartozói támogatás.
 
 2. A lakáshoz kapcsolódóan adómentes:
 
@@ -3086,6 +3028,18 @@ kap;
 
 2.10. a nemzeti otthonteremtési közösségekről szóló törvény alapján a tag részére nyújtott valamennyi juttatás és azok hozama, valamint a tagot megillető állami támogatás összege.
 
+2.11. az ugyanazon munkáltató által nyújtott mobilitási célú lakhatási támogatás havi értékéből
+
+a) a foglakoztatás első 24 hónapjában a minimálbér 40 százalékát,
+
+b) a foglakoztatás második 24 hónapjában a minimálbér 25 százalékát,
+
+c) a foglakoztatás b) pont szerinti időszakát követő 12 hónapban a minimálbér 15 százalékát
+
+meg nem haladó összeg, figyelemmel a 9. pont 9.7. alpont előírásaira is.
+
+2.11. a hősi halottá nyilvánított katonák hozzátartozói (katonaözvegyek és az elhunyt saját háztartásában eltartott, árván maradt gyermekek, hadiárvák) részére belső szabályzat szerint biztosított lakhatási támogatás, lakáscélra adott vissza nem térítendő támogatás.
+
 3. A közcélú juttatások körében adómentes:
 
 3.1. a közhasznú alapítványból, közalapítványból annak alapszabályban rögzített közhasznú céljával összhangban a magánszemély részére kifizetett azon összeg, amelyet az oktatási intézményekben folytatott tanulmányokra, kutatásra, külföldi tanulmányútra (ösztöndíj címén) folyósítanak, a szociálisan rászoruló részére szociális segély címén folyósítanak, a diák- és szabadidősport résztvevőjének alkalmanként legfeljebb az 500 forintot meg nem haladóan folyósítanak;
@@ -3110,7 +3064,7 @@ kap;
 
 nyújt.
 
-3.3. a közérdekű kötelezettségvállalásból, a közhasznú egyesületből, alapítványból, közalapítványból annak létesítő okiratában rögzített közhasznú céljával összhangban a közhasznú cél szerint címzett magánszemélynek, valamint munkavállalói-érdekképviseleti szervezet által magánszemélynek nem pénzben adott juttatás értéke (ide nem értve az e törvény szerint béren kívüli juttatásnak minősülő juttatásokat), pénzben történő juttatás esetén legfeljebb a minimálbér 50 százalékát meg nem haladó összegben havonta adott támogatás, továbbá a 2008. január 1-je előtt alapított, a magyar kultúra, tudomány, művészet és sport érdekében kiemelkedő tevékenységet folytató és kimagasló eredményt elérő magánszemélynek nyilvános jelölés alapján odaítélt és nyilvánosan átadott szakmai díj;
+3.3. a jótékony célú közadakozásból, a közérdekű kötelezettségvállalásból, a közhasznú egyesületből, alapítványból, közalapítványból annak létesítő okiratában rögzített közhasznú céljával összhangban a közhasznú cél szerint címzett magánszemélynek, valamint munkavállalói-érdekképviseleti szervezet által magánszemélynek nem pénzben adott juttatás értéke (ide nem értve az e törvény szerint béren kívüli juttatásnak minősülő juttatásokat), pénzben történő juttatás esetén legfeljebb a minimálbér 50 százalékát meg nem haladó összegben havonta adott támogatás, továbbá a 2008. január 1-je előtt alapított, a magyar kultúra, tudomány, művészet és sport érdekében kiemelkedő tevékenységet folytató és kimagasló eredményt elérő magánszemélynek nyilvános jelölés alapján odaítélt és nyilvánosan átadott szakmai díj;
 
 3.4. a 3.1–3.3. pontokban foglaltak esetében sem adómentes az a kifizetés (juttatás)
 
@@ -3148,9 +3102,9 @@ vállalkozási tevékenységet nem folytató alapítványtól, közalapítványt
 
 4.4. a külföldi középfokú és felsőoktatási intézmény nem magyar állampolgár hallgatójának belföldi szakmai gyakorlaton végzett munkájából származó jövedelem;
 
-4.5. a Magyar Corvin-lánc kitüntetés alapításáról és alapszabályáról szóló miniszterelnöki rendelet alapján a Magyar Corvin-lánc Testület által a tagja javaslatára megítélt ösztöndíj, továbbá a Nobel-díjhoz, az Abel-díjhoz, a „The Brain Prize”-díjhoz, valamint az Európai Unió Descartes-díjához kapcsolódó, a díj tulajdonosának a díjat adományozó szervezet által adott pénzjutalom, továbbá a kizárólag magánszemélyek által létrehozott, gazdasági tevékenységet nem folytató alapítvány által a tudományos kutatás, fejlesztés, utánpótlás-nevelés területén nemzetközi szinten is kimagasló eredményt elért személyek részére adott díj és az ahhoz kapcsolódó pénzjutalom (ideértve különösen a Bolyai János Alkotói Díjat);
+4.5. a Magyar Corvin-lánc Testület által megítélt ösztöndíj, továbbá a Nobel-díjhoz, az Abel-díjhoz, a „The Brain Prize”-díjhoz, valamint az Európai Unió Descartes-díjához kapcsolódó, a díj tulajdonosának a díjat adományozó szervezet által adott pénzjutalom, továbbá a kizárólag magánszemélyek által létrehozott, gazdasági tevékenységet nem folytató alapítvány által a tudományos kutatás, fejlesztés, utánpótlás-nevelés területén nemzetközi szinten is kimagasló eredményt elért személyek részére adott díj és az ahhoz kapcsolódó pénzjutalom (ideértve különösen a Bolyai János Alkotói Díjat);
 
-4.6. a Nobel-díj és az Európai Unió Descartes-díjának tárgyiasult formája, továbbá a Kossuth- és a Széchenyi-díj tárgyiasult formája, a Magyar Köztársaság Babérkoszorúja, a Magyar Érdemrend és Magyar Érdemkereszt tárgyiasult formája, a Magyar Köztársaság Kiváló Művésze, a Magyar Köztársaság Érdemes Művésze, a Népművészet Mestere díj tárgyiasult formája, továbbá a kultúráért felelős miniszter által adományozott, jogszabályban meghatározott művészeti és szakmai díj tárgyiasult formája, az életmentő emlékérem tárgyiasult formája, az olimpiai játékokon és a fogyatékos sportolók világjátékán (Paralimpia, Siketlimpia, Speciális Olimpia, Szervátültetettek Világjátéka) szerzett 1–6. helyezéshez kapcsolódó érem, trófea tárgyiasult formája, továbbá a Kormány, a miniszterelnök, a rendészetért felelős miniszter, a honvédelemért felelős miniszter, a Honvéd Vezérkar főnöke, valamint a büntetés-végrehajtásért, az adópolitikáért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, a katasztrófák elleni védekezésért felelős miniszter, az Országgyűlés elnöke és a vallási közösség által adományozott emléktárgy (különösen szál- vagy lőfegyver, dísztőr, gyűrű) értékéből a Kossuth-díjjal járó pénzjutalom 1/10-ed részét meg nem haladó mértékű rész;
+4.6. a Nobel-díj és az Európai Unió Descartes-díjának tárgyiasult formája, továbbá a Kossuth- és a Széchenyi-díj tárgyiasult formája, a Magyar Köztársaság Babérkoszorúja, a Magyar Érdemrend és Magyar Érdemkereszt tárgyiasult formája, a Magyar Köztársaság Kiváló Művésze, a Magyar Köztársaság Érdemes Művésze, a Népművészet Mestere díj tárgyiasult formája, a Magyar Corvin-lánc kitüntetés tárgyiasult formája, továbbá a kultúráért felelős miniszter által adományozott, jogszabályban meghatározott művészeti és szakmai díj tárgyiasult formája, az életmentő emlékérem tárgyiasult formája, az olimpiai játékokon és a fogyatékos sportolók világjátékán (Paralimpia, Siketlimpia, Speciális Olimpia, Szervátültetettek Világjátéka) szerzett 1–6. helyezéshez kapcsolódó érem, trófea tárgyiasult formája, továbbá a Kormány, a miniszterelnök, a rendészetért felelős miniszter, a honvédelemért felelős miniszter, a Honvéd Vezérkar főnöke, valamint a büntetés-végrehajtásért, az adópolitikáért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, a katasztrófák elleni védekezésért felelős miniszter, az Országgyűlés elnöke és a vallási közösség által adományozott emléktárgy (különösen szál- vagy lőfegyver, dísztőr, gyűrű) értékéből a Kossuth-díjjal járó pénzjutalom 1/10-ed részét meg nem haladó mértékű rész;
 
 4.7. a) kormányrendeletben szabályozott feltételek alapján két- és többoldalú nemzetközi oktatási együttműködési megállapodás keretében az oktatásért felelős miniszter által a Magyar Ösztöndíj Bizottság vagy a Magyar Ösztöndíj Bizottság Irodája javaslatára adományozott ösztöndíj, egyéb juttatás,
 
@@ -3167,6 +3121,8 @@ c) a két- és többoldalú nemzetközi megállapodások alapján, valamint eur�
 d) a határon túli magyarok részére felajánlott képzési és kutatási lehetőségek keretében ösztöndíjban részesülő külföldi oktatók, kutatók részére folyósított juttatás, nyújtott kedvezmény,
 
 e) az ikerintézményi (Twinning) program keretében a magánszemély számára adott olyan juttatás, amelyet az Európai Unió finanszíroz, melynek mértékét az Európai Unió rendelkezése szerint állapítják meg, és amely a magánszemély külföldre történő kiutazásának és külföldi tartózkodásának költségei fedezetére szolgál (ideértve különösen az utazási költségtérítést és a napidíjat, de ide nem értve a szakértői díjat) azzal, hogy az adómentesség alkalmazása esetén a magánszemély a külföldre történő kiutazással és a külföldi tartózkodással kapcsolatban felmerülő költségeit semmilyen tevékenységéből származó bevételével szemben nem számolhatja el,
+
+f) a Balassi Bálint-ösztöndíjprogram keretében folyósított ösztöndíjak
 
 bármely esetben feltéve, hogy az nem minősül tevékenység ellenértékének;
 
@@ -3210,7 +3166,7 @@ c) folyósított Klebelsberg Képzési Ösztöndíj, Magyar Sportcsillagok Öszt
 
 4.16. az „Útravaló” Ösztöndíjprogram keretében a Kormány rendeletében meghatározott feltételekkel és módon adományozott tanuló és mentori ösztöndíj, a nemzetiségpolitikáért felelős miniszter rendeletével alapított anyanyelvű és kétnyelvű nemzetiségi program szerint működő középfokú iskolák, valamint – amennyiben az adott nemzetiség ilyen intézményt nem tart fenn – nemzetiségi nyelvoktatást folytató középfokú iskolák tanulói részére adományozható ösztöndíj;
 
-4.17. a kormányrendeletben meghatározott Magyar Állami Eötvös Ösztöndíj, a Deák Ferenc Ösztöndíj, valamint a Kormány rendeletével alapított felsőoktatási ösztöndíj;
+4.17. a kormányrendeletben meghatározott Magyar Állami Eötvös Ösztöndíj, valamint a Kormány rendeletével alapított felsőoktatási ösztöndíj;
 
 4.18. a nemzeti felsőoktatásról szóló törvény alapján adományozott arany, gyémánt, vas, illetve rubin díszoklevélhez kapcsolódóan a felsőoktatási intézmény által a Szabályzatában meghatározott feltételek szerint kifizetett pénzbeli juttatásnak az a része, amely nem haladja meg az adóév első napján érvényes minimálbér havi összegének négyszeresét;
 
@@ -3324,7 +3280,7 @@ c) a baleset- és betegségbiztosítás alapján járó jövedelmet pótló szol
 
 6.8. a 6.6. pont alkalmazásában biztosító a biztosítóintézetekről és a biztosítási tevékenységről szóló törvényben meghatározott, belföldön székhellyel vagy fiókteleppel rendelkező biztosító, továbbá az olyan államban székhellyel rendelkező, ezen állam joga szerinti biztosító, amely állammal Magyarországnak hatályos egyezménye van a kettős adóztatás elkerülésére a jövedelem- és a vagyonadók területén.
 
-6.9. a kockázati biztosításnak nem minősülő, határozatlan idejű, kizárólag halál esetére szóló életbiztosítás - szerződőként vagy a biztosítóhoz bejelentett díjfizetőként más személy által fizetett - rendszeres díja (díjelőírása), azzal, hogy rendszeres díjnak minősül az a díj, amelyet a biztosítási szerződés alapján legalább évente egy alkalommal kell fizetni, és amelynek összege az adott biztosítási évben nem haladja meg az előző biztosítási évben fizetett rendszeres díjak együttes összegének a Központi Statisztikai Hivatal által közzétett, a díjnövekedés évét megelőző második évre vonatkozó éves fogyasztói áremelkedés 30 százalékponttal növelt értékét, azzal, hogy a biztosítási szerződési feltételekben rögzített események bekövetkezése miatt átmeneti időre lehetővé tett díj-nemfizetés (szüneteltetés, díjmentesítés) időszakára is figyelembe vehető az ezen időszakot megelőző utolsó rendszeres díj alapulvételével a díj-nemfizetési időszak hosszával arányos biztosítási díj;
+6.9. a kockázati biztosításnak nem minősülő, határozatlan idejű, kizárólag halál esetére szóló életbiztosítás - szerződőként vagy a biztosítóhoz bejelentett díjfizetőként más személy által fizetett - rendszeres díja (díjelőírása), azzal, hogy rendszeres díjnak minősül az a díj, amelyet a biztosítási szerződés alapján legalább évente egy alkalommal kell fizetni, és amelynek összege az adott biztosítási évben nem haladja meg az előző biztosítási évben fizetett rendszeres díjak együttes összegének a Központi Statisztikai Hivatal által közzétett, a díjnövekedés évét megelőző második évre vonatkozó éves fogyasztói áremelkedés 30 százalékponttal növelt értékét (fogyasztói árcsökkenés esetén a 30 százalékpontot), azzal, hogy a biztosítási szerződési feltételekben rögzített események bekövetkezése miatt átmeneti időre lehetővé tett díj-nemfizetés (szüneteltetés, díjmentesítés) időszakára is figyelembe vehető az ezen időszakot megelőző utolsó rendszeres díj alapulvételével a díj-nemfizetési időszak hosszával arányos biztosítási díj;
 
 6.10. az a juttatás, amelyet az önkéntes kölcsönös biztosító pénztárakról szóló törvény előírásai szerint célzott szolgáltatásként kap a magánszemély.
 
@@ -3426,6 +3382,8 @@ c) a hitelezőkkel kötött megállapodásban, egyezségben, a bíróság által
 
 7.33. az az összeg, amelyet a magánszemély mint kérelmező ügyfél, a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény rendelkezései szerint a hatóság által hozott függő hatályú döntés alapján kap.
 
+7.34. a 17. FINA Úszó-, Vízilabda-, Műugró-, Műúszó- és Nyíltvízi Világbajnokság megrendezésével összefüggésben a FINA-tisztségviselők, a versenybírók részére kifizetett juttatás (különösen: a napidíj, valamint a szállás- és utazási költségek megtérítése), a sportolók részére kifizetett pénzdíj, a FINA-tisztségviselők, versenybírók, szervezőbizottsági tisztségviselők, a sportolók és önkéntesek részére adott formaruhák, természetben biztosított ellátás, a versenyekhez kapcsolódóan adott promóciós jellegű juttatások.
+
 8. A nem pénzben kapott juttatások közül adómentes:
 
 8.1. az állam, a helyi önkormányzat vagy az egyházi jogi személy forrásából nyújtott oktatási, egészségügyi és szociális ellátás (ideértve a gyermek, a tanuló, a beteg, illetve a szociális ellátásra jogosult részére ingyenesen vagy kedvezményesen természetben biztosított étkeztetést is) azzal, hogy az üdültetés és a gyógyüdültetés nem minősül egészségügyi, illetőleg szociális ellátásnak;
@@ -3444,15 +3402,13 @@ a) a gyermeknek vagy rá tekintettel más magánszemélynek a köznevelésről s
 
 b) a köznevelésről szóló törvény szerinti nevelési-oktatási intézmény által az intézmény tanulói számára adott, a helyi vagy helyközi tömegközlekedési eszköz igénybevételét szolgáló bérlet, jegy;
 
-c) bölcsődei szolgáltatás;
+c) bölcsődei, óvodai szolgáltatás, bölcsődei, óvodai ellátás;
 
 d) a foglalkozás-egészségügyi ellátás;
 
 e) a kegyeleti ellátás;
 
-f) a szolgálati lakásban, munkásszálláson történő elhelyezés; e rendelkezés alkalmazásában munkásszállás a kifizető tulajdonát képező vagy általa bérelt olyan szálláshely, amely lakóhelyiségenként egynél több, a kifizetővel munkaviszonyban lévő olyan magánszemély elhelyezésére szolgál, akinek nincs lakóhelye azon a településen, ahol munkahelye van; nem munkásszállás az a szálláshely, ahol a kifizető olyan magánszemélyt, illetve ennek hozzátartozóját szállásolja el, akivel a társasági adóról szóló törvény szerinti kapcsolt vállalkozásnak minősülő esetekben meghatározott kapcsolat áll fenn;
-
-g)
+f) a szolgálati lakásban, munkásszálláson történő elhelyezés; e rendelkezés alkalmazásában munkásszállás a kifizető tulajdonát képező vagy általa bérelt olyan szálláshely, amely egy lakóhelyiséggel rendelkező önálló ingatlan esetében a lakóhelyiségben egynél több, több lakóhelyiséggel rendelkező önálló ingatlan esetében pedig lakóhelyiségenként legalább egy, a kifizetővel munkaviszonyban lévő olyan magánszemély elhelyezésére szolgál, akinek nincs lakóhelye azon a településen, ahol a munkahelye van; nem munkásszállás az a szálláshely, ahol a kifizető olyan magánszemélyt, illetve ennek hozzátartozóját szállásolja el, akivel a társasági adóról szóló törvény szerinti kapcsolt vállalkozásnak minősülő esetekben meghatározott kapcsolat áll fenn;
 
 8.7. az a szolgáltatás, amelyet a kifizető az általa fenntartott vagy használt sportlétesítményben szervezett sportrendezvényen nyújt (kivéve az utazást, az elszállásolást), továbbá az a sportszolgáltatás, amelyet a kifizető az általa fenntartott sportlétesítmény használata útján juttat, valamint az a szolgáltatás, amelyet a sportszervezet, országos sportági szakszövetség a versenysport, diáksport érdekében szervezett edzés vagy verseny – vele munkaviszonyban, megbízási vagy vállalkozási jogviszonyban nem álló – résztvevőjének az edzési vagy versenyfeladathoz tartozó utazás, szállás és étkezési szolgáltatás révén juttat, azzal hogy a sportoló 30 napnál hosszabb folyamatos elszállásolására (így különösen szállodai elhelyezésére) csak akkor lehet e rendelkezést alkalmazni, ha az az olimpiai játékokon, a világbajnokságon, az Európa-bajnokságon, a speciális világjátékokon vagy a Heraklész program keretében való versenyzést, illetve az arra történő közvetlen felkészülést szolgálja;
 
@@ -3494,7 +3450,7 @@ b) üzleti forgalmának növelése érdekében valamely termék megismertetése 
 
 8.19. a)
 
-b) a köztársasági elnök, az Országgyűlés elnöke, a miniszterelnök, a külpolitikáért felelős miniszter, a gazdaságpolitikáért felelős miniszter, valamint a honvédelemért felelős miniszter által az államközi és az államok feletti szervezetekkel kapcsolatos diplomáciai esemény alkalmával nyújtott vendéglátás (étel, ital) és az ahhoz kapcsolódó szolgáltatás (utazás, szállás, szabadidőprogram stb.), adott ajándék; a külpolitikáért felelős miniszter, a gazdaságpolitikáért felelős miniszter, valamint a honvédelemért felelős miniszter esetében ide kell érteni azt az esetet is, amikor az előzőeket külképviselet által közvetve nyújtja;
+b) a köztársasági elnök, az Országgyűlés elnöke, a miniszterelnök, az európai uniós ügyek koordinációjáért felelős miniszter, a külpolitikáért felelős miniszter, a gazdaságpolitikáért felelős miniszter, valamint a honvédelemért felelős miniszter által az államközi és az államok feletti szervezetekkel kapcsolatos diplomáciai esemény alkalmával nyújtott vendéglátás (étel, ital) és az ahhoz kapcsolódó szolgáltatás (utazás, szállás, szabadidőprogram stb.), adott ajándék; az európai uniós ügyek koordinációjáért felelős miniszter, a külpolitikáért felelős miniszter, a gazdaságpolitikáért felelős miniszter, valamint a honvédelemért felelős miniszter esetében ide kell érteni azt az esetet is, amikor az előzőeket külképviselet által közvetve nyújtja;
 
 8.20. a bevett egyház belső szabályában meghatározott tartási kötelezettségből adódó juttatás, ideértve az egyházi jogi személy által a kezelésében levő egyházi üdülőben egyházi személynek nyújtott ingyenes üdülést is, valamint a bejegyzett szerzetesrend közösségében élő magánszemély tagnak a rendtől – egyéni szükségleteinek fedezetére – kapott pénzbeli vagy nem pénzbeli juttatás;
 
@@ -3648,6 +3604,42 @@ A jövedelem megállapítására értelemszerűen e törvénynek az ingatlan, va
 
 9.6. A kifizető az adózás rendjéről szóló törvény 31. § (2) bekezdése szerinti rendben, magánszemélyenkénti elkülönítésben adatot szolgáltat az állami adóhatóság részére a kockázati biztosításnak nem minősülő, határozatlan idejű, kizárólag halál esetére szóló életbiztosítás díjaként adómentesen fizetett összegről, a biztosító nevéről és székhelyéről.
 
+9.7. A munkáltató által nyújtott mobilitási célú lakhatási támogatás adómentességével kapcsolatos szabályok
+
+9.7.1. A lakhatási támogatás havi értékeként
+
+a) a munkavállaló által bérelt lakás bizonylattal igazolt havi bérleti díjából a munkáltató által térített rész,
+
+b) a munkáltató által bérelt lakás bizonylattal igazolt havi bérleti díjából a munkavállaló által meg nem térített rész,
+
+c) a munkáltató tulajdonában álló lakásban biztosított lakhatás szokásos piaci értékéből a munkavállaló által meg nem térített rész
+
+vehető figyelembe.
+
+9.7.2. A munkáltató által nyújtott lakhatási támogatás abban az esetben tekinthető mobilitási célú lakhatási támogatásnak, ha a munkáltató azt olyan munkavállalónak nyújtja
+
+a) akivel határozatlan időtartamra szóló és legalább heti 36 óra munkaidejű munkaviszonyt létesít, amely esetben az állandó lakóhelye és a munkavégzés helye legalább 60 km-re van egymástól, vagy a munkavégzés helye és az állandó lakóhelye közötti, naponta, tömegközlekedési eszközzel történő oda- és visszautazás ideje a 3 órát meghaladja,
+
+b) aki nem rendelkezett a munkaviszony létrejöttét megelőző 12 hónapban, és nem rendelkezik a támogatás nyújtásának időpontjában lakás tulajdonjogával, haszonélvezeti jogával a munkavégzés helyén, valamint olyan településen, amelynek a munkavégzés helyétől való távolsága nem éri el a 60 km-t, vagy amelytől a munkavégzési helyéig, tömegközlekedési eszközzel történő oda- és visszautazás ideje nem éri el a 3 órát.
+
+9.7.3. Amennyiben munkavállaló által bérelt ugyanazon lakás tekintetében több magánszemély is jogosult adómentes lakhatási támogatás igénybevételére, azt közülük csak – a döntésük szerinti – egyikük veheti igénybe.
+
+9.7.4. A munkavállaló a 9.7.2. és 9.7.3. alpont szerinti feltételek teljesüléséről vagy azok megszűnéséről a munkáltatónak nyilatkozatot tesz. Valótlan tartalmú nyilatkozat esetén vagy a nyilatkozat módosításának elmulasztása esetén az adókötelezettséget a munkaviszonyból származó jövedelemre vonatkozó szabályok szerint kell megállapítani azzal, hogy az adóhatóság határozatában az egyébként a munkáltatót (foglalkoztatót) terhelő közterheket és azok teljesítése elmulasztásának jogkövetkezményeit a magánszemély terhére állapítja meg.
+
+9.7.5. A munkáltató által nyújtott mobilitási célú lakhatási támogatás adómentességével kapcsolatos szabályok alkalmazásában
+
+a) ugyanazon munkáltatónak minősül az a személy is, aki (amely) a munkáltatónak a társasági adóról és az osztalékadóról szóló törvény szerinti kapcsolt vállalkozása,
+
+b) nem tekinthető munkavállalónak az a magánszemély, akivel a munkáltató a társasági adóról és az osztalékadóról szóló törvény szerinti kapcsolt vállalkozásnak minősülő eset szerinti kapcsolatban áll.
+
+9.7.6. A munkáltató az adóévet követő év január 31-ig munkavállalónként adatot szolgáltat az adómentes támogatásban részesített magánszemélyek nevéről, adóazonosító jeléről, a munkavállaló által bérelt lakás címéről.
+
+9.8. Az erdőnek minősülő termőföld haszonbérbe adásából származó jövedelem adómentességére vonatkozó szabályok
+
+9.8.1. Adómentes az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény szerint erdőnek vagy erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületnek minősülő föld (a továbbiakban: erdőnek minősülő föld) használati jogosultságának átengedése fejében, vagy az erdőnek minősülő földön folytatott társult erdőgazdálkodási tevékenységre tekintettel az erdőnek minősülő föld tulajdonosa vagy a haszonélvezője által megszerzett jövedelem, ha az erdőnek minősülő föld használatba adására vagy a társult erdőgazdálkodásra kötött megállapodás (szerződés, illetve alapító okirat) alapján – határozatlan időre szóló megállapodás esetén a jogosult adóhatóság részére tett kiegészítő nyilatkozata alapján – a használatba adás vagy a társult erdőgazdálkodás időtartama az 5 évet (az adómentesség feltételéül szabott időtartam) eléri.
+
+9.8.2. A magánszemély köteles a 9.8.1 pont szerinti mentesség alapján korábban meg nem fizetett adót késedelmi pótlékkal növelt összegben a szerződés megszűnése éve kötelezettségeként megállapítani, bevallani és megfizetni, ha a mentesség alapjául szolgáló szerződés az adómentesség feltételéül szabott időtartamon belül bármely okból (ide nem értve a szerződő feleken kívül álló okot, valamint a haszonbérleti szerződés azonnali hatályú felmondását) megszűnik.
+
 ### 2. számú melléklet az 1995. évi CXVII. törvényhez
 
 #### Az összevont adóalapba tartozó bevételek elszámolásáról
@@ -3658,7 +3650,7 @@ Az önálló tevékenységből származó jövedelem megállapításához bevét
 
 Bevétel különösen a tevékenység keretében vagy azzal összefüggésben
 
-- 1. az értékesített termék, áru, szolgáltatás ellenértékeként, vagy ezek előlegeként befolyt vagy váltóval kiegyenlített összeg, természetben kapott ellenérték (valamennyi esetben a felár, az engedmény, az árkiegészítés, a fogyasztási adó figyelembevételével), továbbá az áru szállításáért vagy csomagolásáért külön felszámított összeg;
+- 1. az értékesített termék, áru, szolgáltatás ellenértékeként, vagy ezek előlegeként befolyt vagy váltóval kiegyenlített összeg, természetben kapott ellenérték, ide nem értve a tárgyi eszközök, nem anyagi javak értékesítésekor kapott előleget (valamennyi esetben a felár, az engedmény, az árkiegészítés, a fogyasztási adó figyelembevételével), továbbá az áru szállításáért vagy csomagolásáért külön felszámított összeg;
 - 2. a kizárólag üzemi célt szolgáló tárgyi eszköz – ideértve a selejtezett tárgyi eszközt is –, nem anyagi javak, anyag, félkész termék (a továbbiakban együtt: vagyontárgy) értékesítésekor kapott ellenérték, illetőleg a szokásos piaci érték (ha ez utóbbi a több), ha annak beszerzési, előállítási költségét a magánszemély bármelyik évben költségei között elszámolta, vagy értékcsökkenési leírást számolt el, azzal, hogy ha az önálló tevékenységet folytató magánszemély olyan ingó vagyontárgyat, ingatlant, vagyoni értékű jogot idegenít el, amelyet nem kizárólag üzemi célból használt, akkor az ebből származó jövedelem adózására egészében a XI. fejezetben foglalt rendelkezéseket kell alkalmaznia;
 - 3. a kapott kamat;
 - 4. a kötbér, a késedelmi kamat, a bírság, a büntetés címén kapott összeg, valamint a fizetett kötbér, kamat, bírság, büntetés visszatérítése címén kapott összeg, kivéve, ha korábban költségként nem vették figyelembe;
@@ -3690,7 +3682,7 @@ A tevékenység megszüntetésének évében bevétel
 
 Az összevont adóalap megállapításához elszámolható költségekről
 
-E törvénynek az elismert költségekre és a költségek elszámolására vonatkozó általános rendelkezéseit is figyelembe véve, az e mellékletben foglaltakat kell alkalmazni, ha az önálló tevékenységet folytató magánszemély a jövedelmét tételes költségelszámolással állapítja meg, valamint minden olyan esetben, amikor a magánszemély kiadásainak elszámolása, megtérítése (ideértve a jogszabály alapján történő költségtérítést is) szempontjából minősíteni szükséges, hogy az beletartozik-e az elismert költségek körébe. Kizárólag üzemi célt szolgálnak azok a tárgyi eszközök és nem anyagi javak, amelyeket a magánszemély önálló tevékenységével (tevékenységeivel) kapcsolatban használ, azokat más célra részben sem használja és üzleti nyilvántartásai ezt egyértelműen alátámasztják. Nem minősülhet kizárólag üzemi célt szolgáló tárgyi eszköznek a személygépkocsi. A magánszemély költségként számolhatja el a bevétel megszerzésével közvetlenül összefüggő kiadásokat, korlátozott mértékű átalányban az értékcsökkenést.
+E törvénynek az elismert költségekre és a költségek elszámolására vonatkozó általános rendelkezéseit is figyelembe véve, az e mellékletben foglaltakat kell alkalmazni, ha az önálló tevékenységet folytató magánszemély a jövedelmét tételes költségelszámolással állapítja meg, valamint minden olyan esetben, amikor a magánszemély kiadásainak elszámolása, megtérítése (ideértve a jogszabály alapján történő költségtérítést is) szempontjából minősíteni szükséges, hogy az beletartozik-e az elismert költségek körébe. Kizárólag üzemi célt szolgálnak azok a tárgyi eszközök és nem anyagi javak, amelyeket a magánszemély önálló tevékenységével (tevékenységeivel) kapcsolatban használ, azokat más célra részben sem használja és üzleti nyilvántartásai ezt egyértelműen alátámasztják. Nem minősülhet kizárólag üzemi célt szolgáló tárgyi eszköznek a személygépkocsi. A magánszemély költségként számolhatja el a bevétel megszerzésével közvetlenül összefüggő kiadásokat, az adott előleget, ide nem értve a tárgyi eszközök, nem anyagi javak beszerzésekor adott előleget, korlátozott mértékű átalányban az értékcsökkenést.
 
 A több önálló tevékenységhez használt tárgyi eszközök, nem anyagi javak esetében a magánszemély választhat, hogy melyik tevékenységének bevételével szemben számolja el az e melléklet rendelkezései szerint érvényesíthető költséget. A költség (az értékcsökkenési leírás a teljes leírásig) nem osztható meg a különböző tevékenységek bevételei között.
 
@@ -3764,9 +3756,9 @@ d) a munkáltató székhelyétől, telephelyétől elkülönült munkavégzési 
 
 25. az európai parlamenti, az országgyűlési, a helyi önkormányzati képviselői és a nemzetiségi szószólói tevékenységgel összefüggésben megszerzett bevétel esetén, valamint a polgármester költségátalánya esetén az adott tisztséggel összefüggő feladat ellátása érdekében felmerült, a magánszemély nevére kiállított bizonylattal igazolt kiadás – ideértve különösen a lakhatási támogatásra jogosult országgyűlési képviselő vagy nemzetiségi szószóló szállásra fordított kiadását –, valamint az adott tisztséggel összefüggő feladat ellátása érdekében használt tárgyi eszközök átalány-értékcsökkenése.
 
-II. Igazolás nélkül elszámolható költségek
+II. Igazolás nélkül, költségként elszámolható tételek
 
-Az e törvényben elismert költségek esetében, ha törvény vagy kormányrendelet (a továbbiakban: jogszabály) költségtérítésről rendelkezik, akkor a ténylegesen felmerült és igazolt kiadás érvényesítése helyett a jogszabályban meghatározott mértékig igazolás nélkül számolható el az adott címen költség azzal, hogy akkor ezt a költséget teljes egészében elszámoltnak kell tekinteni. Ilyen költségnek minősül különösen
+Igazolás nélkül, költségként elszámolható tételek a következők:
 
 1. a bedolgozó részére e tevékenységével összefüggésben kifizetett évi munkabér, illetve munkadíj 30 százalékát meg nem haladó összeg, feltéve, hogy a magánszemély e jogviszonyával összefüggésben más költséget nem számol el;
 
@@ -3778,7 +3770,7 @@ Az e törvényben elismert költségek esetében, ha törvény vagy kormányrend
 
 5. az Európai Parlament által az európai parlamenti megfigyelő és az európai parlamenti tag számára fizetett költségtérítés;
 
-6. a kifizető által a magánszemélynek a saját személygépkocsi használata miatt fizetett költségtérítés összegéből a kiküldetési rendelvényben feltüntetett km-távolság szerint az üzemanyag-fogyasztási norma és legfeljebb az állami adóhatóság által közzétett üzemanyagár, valamint 9 Ft/km általános személygépkocsi normaköltség alapulvételével kifizetett összeg;
+6. a kifizető által a magánszemélynek a saját személygépkocsi használata miatt fizetett költségtérítés összegéből a kiküldetési rendelvényben feltüntetett km-távolság szerint az üzemanyag-fogyasztási norma és legfeljebb az állami adóhatóság által közzétett üzemanyagár, valamint 15 Ft/km általános személygépkocsi normaköltség alapulvételével kifizetett összeg;
 
 7. külföldi kiküldetés esetén
 
@@ -3790,7 +3782,7 @@ b) az a) pontban nem említett esetben a külföldi kiküldetésre tekintettel m
 
 III. Az értékcsökkenési leírás elszámolása
 
-1. Kizárólag üzemi célt szolgáló tárgyi eszközökre, nem anyagi javakra csak a kormányrendeletben meghatározott regisztrált mezőgazdasági termelő, valamint a mezőgazdasági őstermelő jogosult értékcsökkenési leírást elszámolni. Ennek során a kormányrendeletben meghatározott regisztrált mezőgazdasági termelő, valamint a mezőgazdasági őstermelő az egyéni vállalkozóra vonatkozó rendelkezéseket alkalmazza, azzal az eltéréssel, hogy a kormányrendeletben meghatározott regisztrált mezőgazdasági termelő, valamint az adóév utolsó napján az erre a célra létesített nyilvántartásban családi gazdálkodóként bejegyzett magánszemély és a családi gazdaságban nem foglalkoztatottként közreműködő családtagja a családi gazdaság részét képező, vagy ahhoz tartozó tárgyi eszköznek, nem anyagi javaknak az üzembe helyezés időpontjára megállapított beruházási költségét – választása szerint – az üzembe helyezés adóévében jogosult egy összegben költségként elszámolni. Más önálló tevékenységet végző magánszemély (ide nem értve az egyéni vállalkozót) a kizárólag üzemi célt szolgáló tárgyi eszközökre, nem anyagi javakra a 2. pont rendelkezéseit alkalmazza.
+1. Kizárólag üzemi célt szolgáló tárgyi eszközökre, nem anyagi javakra csak a mezőgazdasági őstermelő jogosult értékcsökkenési leírást elszámolni. Ennek során a mezőgazdasági őstermelő az egyéni vállalkozóra vonatkozó rendelkezéseket alkalmazza, azzal az eltéréssel, hogy az adóév utolsó napján az erre a célra létesített nyilvántartásban családi gazdálkodóként bejegyzett magánszemély és a családi gazdaságban nem foglalkoztatottként közreműködő családtagja a családi gazdaság részét képező, vagy ahhoz tartozó tárgyi eszköznek, nem anyagi javaknak az üzembe helyezés időpontjára megállapított beruházási költségét – választása szerint – az üzembe helyezés adóévében jogosult egy összegben költségként elszámolni. Más önálló tevékenységet végző magánszemély (ide nem értve az egyéni vállalkozót) a kizárólag üzemi célt szolgáló tárgyi eszközökre, nem anyagi javakra a 2. pont rendelkezéseit alkalmazza.
 
 2. A nem kizárólag üzemi célt szolgáló saját tulajdonú gép, berendezés, felszerelés esetében az önálló tevékenységet folytató magánszemély átalányban számolhat el értékcsökkenési leírást olyan nyilvántartás vezetése mellett, amely a nem kizárólagosan üzemi célt szolgáló említett tárgyi eszköz azonosításra alkalmas megnevezését, beszerzési (előállítási) árát – mint nyilvántartási értéket –, továbbá a beszerzés (előállítás) és a használatbavétel időpontját tartalmazza. Az átalány összege több ilyen eszköz használata mellett is legfeljebb az éves bevétel 1 százalékáig, ezen belül is az említett nyilvántartásban szereplő eszköz(ök) nyilvántartási értékének legfeljebb 50 százalékáig terjedhet. Egy adott nem kizárólagosan üzemi célt szolgáló eszköz értéke alapján csak egy ízben, a használatbavétel évében vehető figyelembe ez az átalány.
 
@@ -3808,7 +3800,7 @@ azzal, hogy a magánszemély az adóév egy negyedévén belül a negyedév els�
 
 2. A saját tulajdonú nem kizárólag üzemi célú jármű – kivéve a személygépkocsit – beszerzési árával szemben a III. 2. pont szerint átalányban érvényesíthető értékcsökkenési leírás. Személygépkocsi esetén az átalány szerinti elszámolás a következő módon érvényesíthető: az ott említett nyilvántartás vezetése mellett az éves bevételnek 1 százaléka, de legfeljebb egy személygépkocsi beszerzési árának a 10 százaléka vehető figyelembe, illetőleg a hivatkozott pontban meghatározott átalány címén egyébként elszámolt költség ezzel az összeggel növelhető. Egy adott személygépkocsi értéke alapján csak egy ízben, a használatbavétel évében vehető figyelembe ez az átalány.
 
-3. A saját tulajdonú személygépkocsi esetében az üzemanyagköltségen kívül a 2. pontban foglaltak helyett és minden más költség (pl. fenntartás, javítás, felújítás) címén 9 Ft/km (általános személygépkocsi-normaköltség) elszámolása választható.
+3. A saját tulajdonú személygépkocsi esetében az üzemanyagköltségen kívül a 2. pontban foglaltak helyett és minden más költség (pl. fenntartás, javítás, felújítás) címén 15 Ft/km (általános személygépkocsi-normaköltség) elszámolása választható.
 
 4. A nem saját tulajdonú kizárólag üzemi célra használt jármű esetében elszámolható
 
@@ -4151,7 +4143,7 @@ I. Jellemzően előforduló bevételek
 
 Bevétel különösen a tevékenység keretében vagy azzal összefüggésben
 
-1. az értékesített termék, áru, szolgáltatás ellenértékeként, vagy ezek előlegeként befolyt vagy váltóval kiegyenlített összeg, természetben kapott ellenérték (valamennyi esetben a felár, az engedmény, az árkiegészítés, a fogyasztási adó figyelembevételével), továbbá az áru szállításáért vagy csomagolásáért külön felszámított összeg;
+1. az értékesített termék, áru, szolgáltatás ellenértékeként, vagy ezek előlegeként befolyt vagy váltóval kiegyenlített összeg, természetben kapott ellenérték, ide nem értve a tárgyi eszközök, nem anyagi javak értékesítésekor kapott előleget (valamennyi esetben a felár, az engedmény, az árkiegészítés, a fogyasztási adó figyelembevételével), továbbá az áru szállításáért vagy csomagolásáért külön felszámított összeg;
 
 2. a kizárólag üzemi célt szolgáló tárgyi eszköz – ideértve a selejtezett tárgyi eszközt is –, nem anyagi javak, anyag, félkész termék (a továbbiakban együtt: vagyontárgy) értékesítésekor kapott ellenérték, illetőleg a szokásos piaci érték (ha ez utóbbi a több), ha annak beszerzési, előállítási költségét az egyéni vállalkozó bármelyik évben költségei között elszámolta, vagy értékcsökkenési leírást számolt el, azzal, hogy ha olyan ingó vagyontárgyat, ingatlant, vagyoni értékű jogot idegenít el, amelyet nem kizárólag üzleti célból használt, akkor az ebből származó jövedelem adózására egészében a XI. fejezetben foglalt rendelkezéseket kell alkalmaznia;
 
@@ -4217,7 +4209,7 @@ Az egyéni vállalkozó költségként számolhatja el
 
 a) a vállalkozói kivétet;
 
-b) a bevétel megszerzésével közvetlenül összefüggő kiadásokat, az adott előleget;
+b) a bevétel megszerzésével közvetlenül összefüggő kiadásokat, az adott előleget, ide nem értve a tárgyi eszközök, nem anyagi javak beszerzésekor adott előleget;
 
 c) a tárgyi eszközök és nem anyagi javak értékcsökkenési leírását;
 
@@ -4586,7 +4578,7 @@ azzal, hogy a magánszemély az adóév egy negyedévén belül a negyedév els�
 
 5. A saját tulajdonú nem kizárólag üzemi célú jármű – kivéve a személygépkocsit – beszerzési árával szemben a II. fejezet szerint átalányban érvényesíthető értékcsökkenési leírás. Az 1. pontban nem említett személygépkocsi esetén az átalány szerinti elszámolás a következő módon érvényesíthető: a II. fejezetben említett nyilvántartás vezetése mellett az éves bevételnek 1 százaléka, de legfeljebb egy személygépkocsi beszerzési árának a 10 százaléka vehető figyelembe, illetőleg a hivatkozott pontban meghatározott átalány címén egyébként elszámolt költség ezzel az összeggel növelhető. Egy adott személygépkocsi értéke alapján csak egy ízben, a használatbavétel évében vehető figyelembe ez az átalány. Más költségek az üzemi használattal arányosan számolhatók el az 1. pont vonatkozó rendelkezése szerint.
 
-6. Saját tulajdonú személygépkocsi esetében az üzemanyagköltségen kívül az 5. pontban foglaltak helyett és minden más költség (pl. fenntartás, javítás, felújítás) címén 9 Ft/km (általános személygépkocsi-normaköltség) elszámolása választható.
+6. Saját tulajdonú személygépkocsi esetében az üzemanyagköltségen kívül az 5. pontban foglaltak helyett és minden más költség (pl. fenntartás, javítás, felújítás) címén 15 Ft/km (általános személygépkocsi-normaköltség) elszámolása választható.
 
 7. A nem saját tulajdonú kizárólag üzemi célra használt jármű (kivéve a személygépkocsit) esetében elszámolható az üzemi használatra eső
 
@@ -4630,7 +4622,7 @@ IV. A jövedelem megállapításakor költségként figyelembe nem vehető kiad�
 
 7. azok a kiadások, amelyek az I–III. fejezetben és az általános, valamint a vállalkozói tevékenységre vonatkozó rendelkezések között említett költségek esetében az ott leírt rendelkezéseknek (mértékek, feltételek stb.) nem felelnek meg;
 
-8. az egyéni vállalkozó személyi jövedelemadója, vállalkozói személyi jövedelemadója és a vállalkozói osztalékalap után fizetett személyi jövedelemadója;
+8. az egyéni vállalkozó személyi jövedelemadója, vállalkozói személyi jövedelemadója és a vállalkozói osztalékalap után fizetett személyi jövedelemadója, a vállalkozói személyi jövedelemadó, illetve az átalányadózás szabályai szerinti adózásra történő áttérést megelőző időszakra tekintettel megfizetett egyszerűsített vállalkozói adó, kisadózó vállalkozások tételes adója és a 40 százalékos mértékű adó;
 
 9. a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény rendelkezései szerint nem megállapodás alapján fizetett saját nyugdíjjárulék és egészségbiztosítási járulék, a magánnyugdíjról és a magánnyugdíjpénztárakról szóló törvény rendelkezései szerint nem megállapodás alapján és nem kiegészítésként fizetett saját tagdíj;
 
@@ -4655,10 +4647,10 @@ IV. A jövedelem megállapításakor költségként figyelembe nem vehető kiad�
 A vállalkozói jövedelem szerinti adózást alkalmazó egyéni vállalkozó a vállalkozói személyi jövedelemadóját az e mellékletben foglalt vállalkozói adókedvezményekkel csökkentheti.
 
 - 1–8. Kisvállalkozások adókedvezménye
-- 9. A 250 főnél kevesebb alkalmazottat foglalkoztató egyéni vállalkozó – kivéve a tevékenysége alapján mezőgazdasági, vadgazdálkodási, erdőgazdálkodási ágazatba vagy halgazdálkodási ágba sorolt egyéni vállalkozó – 2000. december 31-ét követően megkötött hitelszerződés (ideértve a pénzügyi lízinget is) alapján tárgyi eszköz beszerzéséhez, előállításához pénzügyi intézménytől igénybe vett hitel kamata alapján adókedvezményt vehet igénybe.
-- 10. Az adókedvezmény a 9. pontban meghatározott hitelre az adóévben fizetett kamat 40 százaléka, 2013. december 31-ét követően megkötött hitelszerződések esetében a kamat 60 százaléka.
+- 9. A 250 főnél kevesebb alkalmazottat foglalkoztató egyéni vállalkozó hitelszerződés (ideértve a pénzügyi lízinget is) alapján kizárólag üzemi célt szolgáló tárgyi eszköz beszerzéséhez, előállításához pénzügyi intézménytől igénybe vett hitel kamata alapján adókedvezményt vehet igénybe.
+- 10. Az adókedvezmény a 9. pontban meghatározott hitelre az adóévben fizetett kamat 40 százaléka, 2013. december 31-ét követően, de 2017. január 1-jét megelőzően megkötött hitelszerződések esetében a kamat 60 százaléka. A 2016. december 31-ét követően megkötött hitelszerződések esetében a kamat teljes összege adókedvezményként érvényesíthető.
 - 11.
-- 12. A 9. pont alapján igénybe vett adókedvezmény összege adóévenként nem haladhatja meg a 6 millió forintot. A magánszemély által az adóévben érvényesített adókedvezmény összege az állami támogatásokra vonatkozó rendelkezések alkalmazásában az egyéni vállalkozó választása szerint
+- 12. A 9. pont alapján igénybe vett adókedvezmény összege a 2016. december 31-ét megelőzően megkötött hitelszerződések esetében adóévenként nem haladhatja meg a 6 millió forintot. A magánszemély által az adóévben érvényesített adókedvezmény összege az állami támogatásokra vonatkozó rendelkezések alkalmazásában az egyéni vállalkozó választása szerint
   - a) agrár csoportmentességi (ABER) támogatásnak vagy mezőgazdasági csekély összegű (de minimis) támogatásnak minősül, ha a beruházás elsődleges mezőgazdasági termelést szolgál,
   - b) halászati csekély összegű (de minimis) támogatásnak minősül, ha a beruházás a halászati és akvakultúra-termékek piacának közös szervezéséről szóló, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint az 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU rendelet I. mellékletében felsorolt halászati és akvakultúra-termékek előállításával, feldolgozásával és forgalmazásával kapcsolatos tevékenységet szolgál,
   - c) agrár csoportmentességi (ABER) támogatásnak, az adóévben igénybe vett csekély összegű (de minimis) támogatásnak vagy a kis- és középvállalkozásoknak nyújtott állami támogatásra vonatkozó bizottsági rendeletben foglaltak szerinti támogatásnak minősül, ha a beruházás mezőgazdasági termék feldolgozását vagy forgalmazását szolgálja,

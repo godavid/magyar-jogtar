@@ -2001,7 +2001,7 @@ számlakibocsátási kötelezettséget jelent.
 - d) a termék beszerzőjének, szolgáltatás igénybevevőjének
   - da) adószáma, amely alatt mint adófizetésre kötelezettnek a termék értékesítését, szolgáltatás nyújtását teljesítették, vagy
   - db) adószáma, amely alatt a 89. §-ban meghatározott termékértékesítést részére teljesítették, vagy
-  - dc) adószámának vagy csoportos általános forgalmiadó-alanyiság esetén csoportazonosító számának első nyolc számjegye, amely alatt, mint belföldön nyilvántartásba vett adóalany részére a termékértékesítést, szolgáltatásnyújtást teljesítették, feltéve, hogy a terméket beszerző, szolgáltatást igénybevevő adóalanyra a k) pont szerinti áthárított adó az 1 000 000 forintot eléri vagy meghaladja és a termék értékesítője, szolgáltatás nyújtója gazdasági céllal belföldön telepedett le, gazdasági célú letelepedés hiányában pedig lakóhelye vagy szokásos tartózkodási helye van belföldön;
+  - dc) adószámának vagy csoportos általános forgalmiadó-alanyiság esetén csoportazonosító számának első nyolc számjegye, amely alatt, mint belföldön nyilvántartásba vett adóalany részére a termékértékesítést, szolgáltatásnyújtást teljesítették, feltéve, hogy a terméket beszerző, szolgáltatást igénybevevő adóalanyra a k) pont szerinti áthárított adó a 100 000 forintot eléri vagy meghaladja és a termék értékesítője, szolgáltatás nyújtója gazdasági céllal belföldön telepedett le, gazdasági célú letelepedés hiányában pedig lakóhelye vagy szokásos tartózkodási helye van belföldön;
 - e) a termék értékesítőjének, szolgáltatás nyújtójának, valamint a termék beszerzőjének, szolgáltatás igénybevevőjének neve és címe;
 - f) az értékesített termék megnevezése, annak jelölésére – a számlakibocsátásra kötelezett választása alapján – az e törvényben alkalmazott vtsz., továbbá mennyisége vagy a nyújtott szolgáltatás megnevezése, annak jelölésére – a számlakibocsátásra kötelezett választása alapján – az e törvényben alkalmazott SZJ, továbbá mennyisége, feltéve, hogy az természetes mértékegységben kifejezhető;
 - g) a 163. § (1) bekezdés a) és b) pontjában említett időpont, ha az eltér a számla kibocsátásának keltétől;
@@ -2194,7 +2194,7 @@ vonatkozó mennyiségi felvétellel. A leltározásra a Számv. tv. rendelkezés
 
 nem haladja meg a (2) bekezdésben meghatározott felső értékhatárt.
 
-(2) Az alanyi adómentesség választására jogosító felső értékhatár: 6 000 000 forintnak megfelelő pénzösszeg.
+(2) Az alanyi adómentesség választására jogosító felső értékhatár: 8 000 000 forintnak megfelelő pénzösszeg.
 
 (3) Az alanyi adómentesség választására jogosító felső értékhatárba nem számítandó be:
 
@@ -3064,7 +3064,7 @@ jogosult az adó e fejezet szerinti visszatéríttetésére.
 - 6. ellenérték: bármilyen vagyoni előny, ideértve a meglévő követelés mérséklésére elismert vagyoni értéket is, de ide nem értve a kártérítést; 6/A. eredet hitelessége: a terméket értékesítő, a szolgáltatást nyújtó vagy a számlát kibocsátó azonosságának biztosítása.
 - 7. építési telek: az olyan
   - a) telek, amely beépítésre szánt területen fekszik, az építési szabályoknak megfelelően kialakított, a közterületnek gépjármű-közlekedésre alkalmas részéről az adott közterületre vonatkozó jogszabályi előírások szerint, vagy önálló helyrajzi számon útként nyilvántartott magánútról gépjárművel közvetlenül, zöldfelület, illetve termőföld sérelme nélkül megközelíthető, és amelynek a közterülettel vagy magánúttal közös határvonala legalább 3,00 m, továbbá amely egyúttal nem minősül beépített ingatlannak,
-  - b) telek vagy telkek csoportja, amely a nyomvonal jellegű építmények elhelyezésére szolgál (építési terület) és amely egyúttal nem minősül beépített ingatlannak. 7/A. halottszállító személygépkocsi: az olyan személygépkocsi, amelyet a közúti járművek műszaki megvizsgálásáról szóló rendelet szerinti halottszállító kocsiként tüntetnek fel a járműnyilvántartásban.
+  - b) telek vagy telkek csoportja, amely a nyomvonal jellegű építmények elhelyezésére szolgál (építési terület) és amely egyúttal nem minősül beépített ingatlannak. 7/A. halottszállító személygépkocsi: az olyan személygépkocsi, amelyet a közúti járművek műszaki megvizsgálásáról szóló rendelet szerinti halottszállító kocsiként tüntetnek fel a járműnyilvántartásban. 7/B. internet-hozzáférési szolgáltatás: csomagkapcsolt módon felépülő, a nyílt internet-hozzáférés megteremtéséhez szükséges intézkedések meghozataláról, továbbá az egyetemes szolgáltatásról, valamint az elektronikus hírközlő hálózatokhoz és elektronikus hírközlési szolgáltatásokhoz kapcsolódó felhasználói jogokról szóló 2002/22/EK irányelv és az Unión belüli nyilvános mobilhírközlő hálózatok közötti barangolásról (roaming) szóló 531/2012/EU rendelet módosításáról szóló 2015/2120/EU európai parlament és tanácsi rendelet 2. cikk 2. pontja szerinti internet-hozzáférési szolgáltatás;
 - 8. készpénz-helyettesítő fizetési eszköz: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben meghatározott készpénz-helyettesítő fizetési eszköz; 8/A. kísérleti fejlesztés: a meglévő tudományos, technológiai, üzleti és egyéb, vonatkozó ismeretek és szakértelem megszerzése, összesítése, megosztása és felhasználása új, módosított vagy javított termékek, eljárások vagy szolgáltatások terveinek és szabályainak létrehozása vagy megtervezése céljából;
 - 9. kis érték: a juttatott vagyoni előny értéke nem haladja meg az 5000 forintnak megfelelő pénzösszeget, amelyet a termék átengedéskori – adót is tartalmazó – szokásos piaci árának alapulvételével kell megállapítani; 9/A. közcélú adomány: a közhasznú szervezet részére törvényben meghatározott közhasznú tevékenysége támogatására, az oktatási intézmény részére az alapító okiratában meghatározott tevékenysége támogatására, valamint az egyházi jogi személy részére törvényben meghatározott tevékenysége támogatására fordított termék, szolgáltatás, feltéve hogy
   - a) az ügyletre vonatkozó okirat, egyéb körülmény valós tartalma alapján nem állapítható meg, hogy az nem vagy csak látszólag szolgálja a közhasznú, a közérdekű, az oktatási intézmény esetében az alapító okiratában meghatározott, továbbá az egyházi jogi személy esetében törvényben meghatározott tevékenységét,
@@ -3411,6 +3411,25 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
 
 303. § E törvénynek az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel (a továbbiakban: Mód6 törvény) megállapított 8/A. számú melléklet 3. pontja szerinti államban letelepedett adóalanyok tekintetében a XVIII. Fejezet szerinti adó-visszatérítést azon ügyletek esetén kell először alkalmazni, amelyek teljesítési időpontja 2014. január 1. napjára esik vagy azt követi. E törvénynek a Mód6 törvénnyel megállapított 8/A. számú melléklet 3. pontja szerinti államban letelepedett adóalanyok a 2014. évre vonatkozó adó-visszatéríttetési kérelmeiket e törvény 251/C. § (1) bekezdésétől eltérően 2016. szeptember 30. napjáig nyújthatják be az állami adóhatósághoz.
 
+304. § (1) A 3. számú melléklet I. részének a Mód6 törvénnyel megállapított 52–54. pontját azokban az esetekben kell alkalmazni először, amelyekben a 84. § szerint megállapított időpont 2017. január 1-jére vagy azt követő időpontra esik.
+
+(2) A 3/A. számú melléklet I. részének Mód6 törvénnyel módosított 1. pontját azokban az esetekben kell alkalmazni először, amelyekben a 84. § szerint megállapított időpont 2017. január 1-jére vagy azt követő időpontra esik.
+
+305. § (1) A 3/A. számú melléklet II. részének a Mód6 törvénnyel megállapított 3. pontját
+
+- a) az olyan 2016. december 31-ét követően kezdődő elszámolással vagy fizetéssel érintett időszakokra kell először alkalmazni, amelyek tekintetében a fizetés esedékessége, valamint a számla vagy a nyugta kibocsátásának időpontja 2016. december 31-ét követő időpont, ha a teljesítés időpontját az 58. § szerint kell megállapítani,
+- b) az a) pont alá nem tartozó esetekben akkor kell először alkalmazni, amikor a 84. § szerint megállapított időpont 2017. január 1-jére vagy azt követő időpontra esik.
+
+(2) A 3/A. számú melléklet II. részének a Mód6 törvénnyel megállapított 4. pontját azokban az esetekben kell alkalmazni először, amelyekben a 84. § szerint megállapított időpont 2017. január 1-jére vagy azt követő időpontra esik.
+
+306. § (1) A 6. számú melléklet Mód6 törvénnyel megállapított 30. és 31. pontját – a (2) és (3) bekezdésben meghatározott eltéréssel – azon ügyletek esetén kell először alkalmazni, amelyek teljesítési időpontja 2017. január 1-jére vagy azt követő időpontra esik.
+
+(2) A 6. számú melléklet Mód6 törvénnyel megállapított 30. és 31. pontjában meghatározott termékek értékesítése esetén a 142. § (1) bekezdés d) pontja nem alkalmazandó, ha a teljesítés időpontja 2017. január 1-jére vagy azt követő időpontra esik, de a terméket beszerző adóalanynak a 60. § (1)–(3) bekezdése szerint a fizetendő adót 2017. január 1-jét megelőzően kellene megállapítani.
+
+(3) Ha a 6. számú melléklet Mód6 törvénnyel megállapított 30. és 31. pontjában meghatározott termékek értékesítéséhez fizetett előleg jóváírásának, kézhezvételének, megszerzésének időpontja 2017. január 1-jét megelőző napra esik, az előleg jóváírására, kézhezvételére, megszerzésére tekintettel fizetendő adót az ügyletet saját nevében teljesítő adóalany fizeti az 59. § (1) és (2) bekezdésének megfelelően, a termék beszerzőjének adófizetési kötelezettsége – a (2) bekezdésben foglaltak figyelembevételével – az adóalapnak az előleg adót nem tartalmazó összegével csökkentett része után keletkezik.
+
+307. § Az adólevonási jog gyakorlására vonatkozó tárgyi feltételt – az egyéb, e törvényben meghatározott feltételek fennállása esetén – teljesíti az olyan 2016. évben, de 2017. évi teljesítési időponttal kiállított, 1 000 000 forintot el nem érő áthárított adót tartalmazó számla is, amely nem tartalmazza a Mód6 törvénnyel módosított 169. § d) pont dc) alpontja szerinti adatot.
+
 310. § (1) Az adóalany – az egyéb törvényi feltételek fennállása esetén – az alanyi adómentességet 2017. naptári évre abban az esetben választhatja, ha az adóalany 2. § a) pontja szerinti összes termékértékesítése, szolgáltatásnyújtása fejében megtérített vagy megtérítendő ellenértéknek – forintban kifejezett és éves szinten göngyölített – összege
 
 - a) sem a 2016. naptári évben ténylegesen,
@@ -3520,6 +3539,9 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
 | 49. | Házi sertéshús frissen, hűtve vagy fagyasztva | 0203-ból (kivéve: 0203 1110, 0203 2110) |
 | 50. | A 86. § (1) bekezdés j) pont ja) vagy jb) alpontja alá tartozó olyan, többlakásos lakóingatlanban kialakítandó vagy kialakított lakás, amelynek összes hasznos alapterülete nem haladja meg a 150 négyzetmétert |  |
 | 51. | A 86. § (1) bekezdés j) pont ja) vagy jb) alpontja alá tartozó olyan egylakásos lakóingatlan, amelynek összes hasznos alapterülete nem haladja meg a 300 négyzetmétert |  |
+| 52. | A 0105 vtsz. alá tartozó baromfi élelmezési célra alkalmas húsa, vágási mellékterméke és belsősége frissen, hűtve vagy fagyasztva | 0207 |
+| 53. | Madártojás héjában, frissen | 0407-ből |
+| 54. | Tej (kivéve az anyatejet, az ultramagas hőmérsékleten hőkezelt tejet és az ESL tejet) | 0401 10-ből 0401 20-ból |
 
 #### I/A. rész: termékek a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló 14/2007. (III. 14.) EüM rendelet 2012. január 1. napján hatályos 10. számú mellékletében meghatározott gyógyászati segédeszközök közül
 
@@ -3560,7 +3582,7 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
 
 | Sorszám | Megnevezés | vtsz. |
 | --- | --- | --- |
-| 1. | Tej és tejtermékek (kivéve az anyatejet) | 0401-ből 0402 0403 0404 10 0405-től 0406-ig |
+| 1. | Tej és tejtermékek (kivéve az anyatejet, továbbá a 3. számú melléklet I. rész 54. pontja szerinti termékeket) | 0401-ből 0402 0403 0404 10 0405-től 0406-ig |
 | 2. | Tejtermékek (kivéve az italként közvetlen fogyasztásra alkalmas, tej pótlására szolgáló olyan imitátumokat, amelyek általában tej és permeátum – esetenként savó és/vagy tejszín – különböző arányú keverékéből állnak, és amelyek minősége, mennyiségi összetétele különbözik a természetes tejétől, tejfehérje tartalma lényegesen alacsonyabb a természetes tejénél) | 0404 90-ből |
 | 3. | Ízesített tej | 2202 90 91-ből 2202 90 95-ből 2202 90 99-ből |
 | 4. | Gabona, liszt, keményítő vagy tej felhasználásával készült termék | 1901 (kivéve: 1901 10 00 02) 1903 1904 1905 10 1905 40 1905 90 |
@@ -3571,6 +3593,8 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
 | --- | --- |
 | 1. | Kereskedelmi szálláshely-szolgáltatás |
 | 2. | A zenés, táncos rendezvények működésének biztonságosabbá tételéről szóló 23/2011. (III. 8.) Korm. rendelet 2012. január 1. napján hatályos állapota szerint meghatározott alkalmi szabadtéri rendezvényre történő, kizárólag belépést biztosító szolgáltatás. |
+| 3. | Internet-hozzáférési szolgáltatás |
+| 4. | Étkezőhelyi vendéglátásban az étel- és a helyben készített, nem alkoholtartalmú italforgalom (SZJ 55.30.1-ből) |
 
 ### 4. számú melléklet a 2007. évi CXXVII. törvényhez
 
@@ -3728,6 +3752,8 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
 | 27. | Szemcse és por nyersvasból, tükörvasból, vasból vagy acélból | 7205 |
 | 28. | Használt vagy új rongy, zsineg-, kötél-, hajókötél-hulladék és használt textiláru zsinegből, kötélből vagy hajókötélből | 6310 |
 | 29. | Használt primer cella, primer elem és elektromos akkumulátor, ezeknek hulladéka; kimerült primer elem és kimerült elektromos akkumulátor | 8548 10 |
+| 30. | Krómhulladék és -törmelék | 8112 22 |
+| 31. | Vanádiumhulladék és -törmelék | 8112 40 19 |
 
 ### 6/A. számú melléklet a 2007. évi CXXVII. törvényhez
 

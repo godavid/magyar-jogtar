@@ -720,17 +720,19 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 71. § (1) A főpolgármester megbízatásának időtartamára havonta illetményre jogosult, amelynek összege megegyezik a miniszter központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvényben meghatározott alapilletményéből, illetménykiegészítéséből, és vezetői illetménypótlékából álló illetményének összegével. A főpolgármester havonta az illetményének 15%-ában meghatározott költségtérítésre, valamint a minisztert jogszabály alapján megillető egyéb juttatásokra jogosult.
 
-(2) A megyei jogú város polgármestere, a fővárosi kerületi önkormányzat polgármestere megbízatásának időtartamára havonta illetményre jogosult, amelynek összege megegyezik a helyettes államtitkár közszolgálati tisztviselőkről szóló törvényben meghatározott alapilletményéből, illetménykiegészítéséből, vezetői illetménypótlékából álló illetményének összegével.
+(2) A megyei jogú város polgármestere, a fővárosi kerületi önkormányzat polgármestere megbízatásának időtartamára havonta illetményre jogosult, amelynek összege megegyezik az államtitkárnak a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvényben meghatározott alapilletményéből, illetménykiegészítéséből és vezetői illetménypótlékából álló illetményének összegével.
 
 (3) A megyei önkormányzat közgyűlésének elnöke megbízatásának időtartamára havonta illetményre jogosult, amelynek összege megegyezik a (2) bekezdésben meghatározott illetmény 90%-ának összegével.
 
 (4) A polgármester illetménye a (2) bekezdésben meghatározott összeg
 
-- a) 20%-a az 500 fő lakosságszám alatti település polgármestere esetében;
+- a) 30%-a az 500 fő és az az alatti lakosságszámú település polgármestere esetében;
 - b) 40%-a az 501–1500 fő lakosságszámú település polgármestere esetében;
-- c) 60%-a az 1501–10 000 fő lakosságszámú település polgármestere esetében;
-- d) 70%-a a 10 001–30 000 fő lakosságszámú település polgármestere esetében;
-- e) 80%-a a 30 000 fő lakosságszám feletti település polgármestere esetében.
+- c) 50%-a az 1501–2000 fő lakosságszámú település polgármestere esetében;
+- d) 55%-a a 2001–5000 fő lakosságszámú település polgármestere esetében;
+- e) 60%-a az 5001–10000 fő lakosságszámú település polgármestere esetében;
+- f) 70%-a a 10 001–30000 fő lakosságszámú település polgármestere esetében;
+- g) 80%-a a 30000 fő lakosságszám feletti település polgármestere esetében.
 
 (5) A társadalmi megbízatású polgármester havonta a polgármester illetménye 50%-ával megegyező mértékű tiszteletdíjra jogosult, melynek egészéről vagy meghatározott részéről a képviselő-testülethez intézett írásbeli nyilatkozatával lemondhat.
 
@@ -1491,7 +1493,7 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 - e) a helyi önkormányzatok törvényességi felügyeletének részletes szabályait;
 - f) a helyi önkormányzat tulajdonában lévő társasági részesedés vagy ingatlan cseréje esetén a csereügylet kormányhivatal általi jóváhagyására vonatkozó részletes eljárási szabályokat;
 - g) a 14/A. § (2) bekezdés b) pontjában foglalt – ennek keretében a közterületek elnevezésénél használható közterületjellegekre vonatkozó – követelményeket és a 14/A. § (2) bekezdés c) pontja szerinti technikai feltételeket;
-- h) az önkormányzati ASP rendszerhez való csatlakozás módját, a csatlakozás végső határidejét, az önkormányzati ASP rendszer szakrendszereit, az önkormányzati adattárházat működtető szervet, az önkormányzati adattár adatainak forrását és az önkormányzati adattárházból történő adatlekérdezés, adatösszegzés és adatszolgáltatás feltételeit.
+- h) az önkormányzati ASP rendszer elemeit és működtetésének szabályait, az önkormányzati ASP rendszerhez való csatlakozás módját, a csatlakozás végső határidejét, az önkormányzati adattárházat működtető szervet, az önkormányzati adattár adatainak forrását és az önkormányzati adattárházból történő adatlekérdezés, adatösszegzés és adatszolgáltatás feltételeit.
 
 (2) Felhatalmazást kap a helyi önkormányzatok törvényességi felügyeletéért felelős miniszter, hogy az önkormányzati rendeletnek és a jegyzőkönyvnek a kormányhivatal részére történő megküldése rendjét rendeletben szabályozza.
 
@@ -1546,7 +1548,7 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 
 (5) Ha a (3) bekezdés szerinti felülvizsgálattal érintett szerződésnek a (4) bekezdés b) pontja szerinti módosítása nem lehetséges, a szerződésnek az ASP rendszerhez történő csatlakozás időpontjára történő felmondásából adódó, az önkormányzatot terhelő, jogerős bírósági döntésben megítélt összeg erejéig az állam az önkormányzatot utólag kártalanítja.
 
-#### 146/C. §
+146/C. § A 2016. december 31-én hatályos 71. § (4) és (5) bekezdés szerinti polgármesteri illetmény és a tiszteletdíj, és a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosításáról szóló 2016. évi CLXXXV. törvénnyel módosított 71. § (4) bekezdés szerinti polgármesteri illetmény és a 71. § (5) bekezdése szerinti tiszteletdíj összegének különbözetét az állam a központi költségvetésből – a települési önkormányzat egy lakosra jutó adóerő-képességének figyelembevételével – a Magyarország központi költségvetéséről szóló törvényben meghatározott mértékben a helyi önkormányzatok számára évente megtéríti.
 
 #### 146/D. §
 

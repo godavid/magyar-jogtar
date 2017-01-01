@@ -214,7 +214,7 @@ feltéve hogy a vele szembeni végrehajtás eredménytelen volt.
 
 11/A. § A cégbíróság és a céginformációs szolgálat a cégnyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
 
-11/B. § Az e törvény szerint a cégeljárásban fizetendő közzétételi költségtérítés és a céginformációért fizetendő költségtérítés együttesen – a cégeljárás, az e törvény szerinti nemperes eljárások és szolgáltatások során az elektronikus eljárást és ügyintézést támogató rendszer üzemeltetésével és fejlesztésével, az adatok feldolgozásával, továbbá a Cégközlöny szerkesztésével, kiadásával összefüggésben felmerült szükséges és igazolt költségek levonását követően – a központi költségvetés bevételét képezi.
+11/B. § Az e törvény szerint a cégeljárásban fizetendő közzétételi költségtérítés és a céginformációért fizetendő költségtérítés a központi költségvetés bevételét képezi. A cégeljárás, az e törvény szerinti nemperes eljárások és szolgáltatások során az elektronikus eljárást és ügyintézést támogató rendszer üzemeltetésével és fejlesztésével, az adatok feldolgozásával, továbbá a Cégközlöny szerkesztésével, kiadásával összefüggésben felmerült szükséges és igazolt költségeket a központi költségvetés utólagos elszámolási kötelezettség mellett legkésőbb a tárgyév február 15-éig biztosítja.
 
 ### 2. CÍM — A papír alapú, valamint az elektronikus
 
@@ -237,7 +237,7 @@ feltéve hogy a vele szembeni végrehajtás eredménytelen volt.
 (3) Az (1)–(2) bekezdésben meghatározott adatok, illetve cégiratok
 
 - a) a céginformációs szolgálat honlapjáról, illetve
-- b) a kormányzati portál útján is
+- b) a személyre szabott ügyintézési felület útján is
 
 megismerhetők.
 
@@ -271,9 +271,9 @@ megismerhetők.
 
 (2) A cégbíróságtól illeték ellenében, illetve a céginformációs szolgálattól – külön jogszabályban meghatározott költségtérítés ellenében – az elektronikus okiratok (ideértve a cégjegyzékadatokról kiállított elektronikus okiratot) elektronikus úton történő megküldése is kérhető.
 
-(3) Az (1) és (2) bekezdésben, valamint a 17. § (2) bekezdésében meghatározott esetben a kérelem benyújtható írásban vagy a kormányzati portálon keresztül, illetve közvetlenül a céginformációs szolgálat elektronikus ügyfélszolgálatán, elektronikus úton.
+(3) Az (1) és (2) bekezdésben, valamint a 17. § (2) bekezdésében meghatározott esetben a kérelem benyújtható írásban vagy a személyre szabott ügyintézési felületen keresztül, illetve közvetlenül a céginformációs szolgálat elektronikus ügyfélszolgálatán, elektronikus úton.
 
-(4) Az elektronikus úton benyújtott kérelmet – kivéve, ha azt a kormányzati portálon keresztül nyújtják be – legalább fokozott biztonságú elektronikus aláírással kell ellátni. A céginformációs szolgálat a kérelem érkezéséről a kérelmet benyújtó személynek elektronikus igazolást küld, amelyet fokozott biztonságú elektronikus aláírással és időbélyegzővel kell ellátni.
+(4) Az elektronikus úton benyújtott kérelmet – kivéve, ha azt a személyre szabott ügyintézési felületen keresztül nyújtják be – legalább fokozott biztonságú elektronikus aláírással kell ellátni. A céginformációs szolgálat a kérelem érkezéséről a kérelmet benyújtó személynek elektronikus igazolást küld, amelyet fokozott biztonságú elektronikus aláírással és időbélyegzővel kell ellátni.
 
 (5) Ha a kérelmet elektronikus úton terjesztik elő, az illeték, illetve a költségtérítés megfizetésére a 37. § (4) bekezdésében foglaltak megfelelően irányadók.
 
@@ -283,7 +283,7 @@ megismerhetők.
 
 ### 3. CÍM — A beszámoló letétbe helyezése és közzététele
 
-18. § (1) A cégnek a számviteli törvény szerinti beszámolót elektronikus úton, a kormányzati portál útján kell a céginformációs szolgálat részére megküldeni; ennek során nincs helye a papír alapú beszámoló képi formátumú elektronikus okirattá történő átalakításának. A beszámolóhoz – a cég, a beszámolót benyújtó természetes személy azonosíthatósága, valamint a benyújtás jogszerűségének igazolása érdekében – elektronikus űrlapot kell mellékelni.
+18. § (1) A cégnek a számviteli törvény szerinti beszámolót elektronikus úton, személyre szabott ügyintézési felület útján kell a céginformációs szolgálat részére megküldeni; ennek során nincs helye a papír alapú beszámoló képi formátumú elektronikus okirattá történő átalakításának. A beszámolóhoz – a cég, a beszámolót benyújtó természetes személy azonosíthatósága, valamint a benyújtás jogszerűségének igazolása érdekében – elektronikus űrlapot kell mellékelni.
 
 (2) Az elektronikus űrlapot a céginformációs szolgálat továbbítja – az érkezést követően haladéktalanul – az állami adóhatóság részére.
 
@@ -301,7 +301,7 @@ megismerhetők.
 
 (9)
 
-19. § (1) A kormányzati portál a beszámoló közzétételre történő megküldésének teljesítéséről az időpont megjelölésével elektronikus igazolást küld a beszámolót benyújtó személynek. A beszámoló megküldésére vonatkozó határidők tekintetében a céginformációs szolgálathoz történő – az informatikai szempontból szabályszerű – érkezés időpontja irányadó.
+19. § (1) A személyre szabott ügyintézési felület a beszámoló közzétételre történő megküldésének teljesítéséről az időpont megjelölésével elektronikus igazolást küld a beszámolót benyújtó személynek. A beszámoló megküldésére vonatkozó határidők tekintetében a céginformációs szolgálathoz történő – az informatikai szempontból szabályszerű – érkezés időpontja irányadó.
 
 (2) Az állami adóhatóság az elektronikus űrlap adatai alapján ellenőrzi a beszámoló megküldésének tényét és időpontját. Amennyiben az állami adóhatóság azt állapítja meg, hogy a cég a letétbe helyezésre és közzétételre előírt törvényi határidőig nem küldte meg a beszámolót, az adózás rendjéről szóló törvényben meghatározottak szerint jár el.
 
@@ -417,7 +417,8 @@ megismerhetők.
 - j) a cég valamennyi pénzforgalmi számláját, valamint az azokat vezető pénzforgalmi szolgáltatók nevét és székhelyét,
 - k) a cégbejegyzési (változásbejegyzési) végzés meghozatalának időpontját,
 - l) a k) pontban foglalt végzésnek megfelelően – elektronikus bejegyzéssel – a cégjegyzékadatok, illetve azok törlése bejegyzésének Cégközlönyben történő közzétételének napját,
-- m) a cég elektronikus kézbesítési címét.
+- m) a cég elektronikus kézbesítési címét,
+- n) a cégnek az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény (a továbbiakban: E-ügyintézési tv.) szerinti hivatalos elérhetőségét
 
 (2)
 
@@ -436,6 +437,10 @@ megismerhetők.
 (7) Ha a cég felszámolás alatt áll, az (1) bekezdés h) pontja szerinti adatok között a felszámolóbiztos lakóhelye helyett a személyi adat- és lakcímnyilvántartásban szereplő értesítési címe is feltüntethető.
 
 (8) Az (1) bekezdés m) pontja szerinti kézbesítési címen a cég a részére elektronikus úton megküldött hivatalos iratok átvételét biztosítja. A cégbíróság e címre a 39/A. § alkalmazásával kézbesít.
+
+(9) A cégbíróság az (1) bekezdés n) pontja szerinti adatot az E-ügyintézési tv. szerinti rendelkezési nyilvántartást vezető szerv elektronikus értesítése alapján, hivatalból jegyzi be, ha azt a cég oda jelentette be.
+
+(10) Ha a cég az (1) bekezdés n) pontja szerinti adatot a cégbíróság felé jelentette be, a cégbíróság a bejegyzésről a (9) bekezdés szerinti nyilvántartást vezető szervet elektronikus úton értesíti.
 
 25. § (1) A cégjegyzék szükség szerint, valamennyi cég esetében tartalmazza
 
@@ -735,7 +740,7 @@ is fel kell tüntetni a cégjegyzékben.
 
 (2) A jogi képviselő az eredetileg nem elektronikus formában készült okiratok (hiteles másolatuk) megőrzéséről az ügyvédi törvényben, illetve a közjegyzőkről szóló törvényben szabályozott módon gondoskodik. A jogi képviselő köteles a papíralapú okiratot a cégbíróság felhívására bemutatni az elektronikus okirattal való egyezőség megállapítása érdekében, ha e tekintetben a cégbíróságnak alapos kétsége merül fel. Az országos ügyvédi levéltárban elhelyezett okiratok bemutatásáról a Magyar Ügyvédi Kamara, a közjegyzői levéltárban elhelyezett okiratok bemutatásáról pedig a közjegyzői levéltár vezetője gondoskodik.
 
-(3) A bejegyzési (változásbejegyzési) kérelmet és annak mellékleteit a jogi képviselő elektronikus okirat formájában, elektronikus úton a céginformációs szolgálathoz küldi meg. A bejegyzési (változásbejegyzési) kérelem a kormányzati portál útján is benyújtható. A bejegyzési (változásbejegyzési) kérelem benyújtására vonatkozó határidők szempontjából a céginformációs szolgálathoz, illetve a kormányzati portálhoz érkezés időpontja irányadó.
+(3) A bejegyzési (változásbejegyzési) kérelmet és annak mellékleteit a jogi képviselő elektronikus okirat formájában, elektronikus úton a céginformációs szolgálathoz küldi meg. A bejegyzési (változásbejegyzési) kérelem benyújtására vonatkozó határidők szempontjából a céginformációs szolgálathoz érkezés időpontja irányadó.
 
 (4) Az eljárási illetéket és a közzétételi költségtérítést elektronikus úton kell megfizetni a bejegyzési (változásbejegyzési) kérelem benyújtását megelőzően, a céginformációs szolgálat honlapjáról letöltött illeték, valamint költségtérítési ügyazonosító szám feltüntetésével. Az illetéket a cégbíróságnak a kincstárnál vezetett illetékbevételi számlájára, a közzétételi költségtérítést pedig az igazságügyért felelős miniszter által vezetett minisztériumnak a kincstárnál vezetett számlájára kell utalni. Az illeték és a költségtérítés befizetésének összegéről és időpontjáról a kincstár – a bejegyzést kérő jogi képviselőjének minősített elektronikus aláírással ellátott kérelmére, amelyben az ügyazonosító számokat fel kell tüntetni – egy munkanapon belül elektronikus úton fokozott biztonságú aláírással ellátott igazolást küld. Az igazolásokat a bejegyzési (változásbejegyzési) kérelemhez mellékelni kell. Az illeték és a költségtérítés elektronikus úton történő megfizetésének részletes szabályait külön jogszabály állapítja meg.
 
@@ -747,7 +752,7 @@ is fel kell tüntetni a cégjegyzékben.
 
 (2) A céginformációs szolgálat a kérelem megérkezéséről, és arról, hogy azt továbbította a cégbírósághoz, a kérelem cégbírósághoz való sikeres továbbításával egyidejűleg elektronikus igazolást küld a jogi képviselőnek. A céginformációs szolgálat abban az esetben is igazolást küld a jogi képviselő számára, amennyiben az iratokat nem továbbítja a cégbíróság számára. Az elektronikus igazolást fokozott biztonságú elektronikus aláírással és időbélyegzővel kell ellátni.
 
-(3) Ha a céginformációs szolgálatnál, illetve a kormányzati portálnál felmerült üzemzavar akadályozta a kérelem határidőben történő benyújtását, erre hivatkozással – a jogvesztő határidő esetét is ideértve – akkor is van helye igazolásnak, ha azt egyébként törvény kizárja.
+(3) Ha a céginformációs szolgálatnál, illetve a személyre szabott ügyintézési felület működése során felmerült üzemzavar akadályozta a kérelem határidőben történő benyújtását, erre hivatkozással – a jogvesztő határidő esetét is ideértve – akkor is van helye igazolásnak, ha azt egyébként törvény kizárja.
 
 39. § (1) A cégbíróságra vonatkozó ügyintézési határidő – amennyiben adóregisztrációs eljárásra nincs szükség – az azt követő első munkanapon kezdődik, amikor a céginformációs szolgálattól az informatikai szempontból szabályszerű bejegyzési (változásbejegyzési) kérelem a cégbírósághoz megérkezik. A cégbíróság tanúsítványt, illetve elektronikus igazolást csak az informatikai szempontból szabályszerűen érkezett kérelem alapján ad ki.
 
@@ -894,9 +899,19 @@ hiánypótlás nélküli elutasítása
 
 (4) Ha a cégbíróság a céget a 23/A. §-a alapján az Európai Unió valamely hivatalos nyelvén is nyilvántartja, a változásbejegyzési kérelemhez csatolni kell a megváltozott cégjegyzékadatok hiteles fordítását, a létesítő okirat tartalmának változása esetén a létesítő okirat módosításának, illetve a létesítőokirat-változásokkal egységes szerkezetbe foglalt szövegének hiteles fordítását is.
 
-### 12. CÍM
+### 12. CÍM — A zártkörűen működő részvénytársaság működési formája megváltoztatásának – a cég részvényeinek tőzsdei bevezetése előtti – bejegyzésére irányuló eljárás
 
-#### 52. §
+52. § (1) A zártkörűen működő részvénytársaság a működési formájának megváltoztatására irányuló változásbejegyzési kérelmét – a cég részvényeinek tőzsdei bevezetése előtt – a működési formája megváltoztatásáról hozott döntésének meghozatalát követő harminc napon belül is benyújthatja. Ebben az esetben a kérelméhez a 2. számú melléklet II. 2. d) pont da) és db) alpontjaiban meghatározott mellékleteket nem kell csatolnia.
+
+(2) Az (1) bekezdés szerinti esetben a cégbíróság a benyújtott iratok megfelelősége esetén a változást a cégjegyzékbe bejegyzi, azonban – a cég részvényeinek tőzsdei bevezetéséig – a változás időpontját (hatályát) nem tünteti fel. A bejegyzett adatokat a cég cégkivonata nem tartalmazza, azonban a cégmásolatban feltüntetésre kerülnek.
+
+(3) A (2) bekezdés szerinti bejegyzéstől számított egy éven belül – a cég részvényei tőzsdei bevezetésének igazolására – a cég – illeték és közzétételi költségtérítés megfizetése nélkül – köteles a 2. számú melléklet II.2. d) pont da) és db) alpontjában meghatározott mellékleteket a cégbírósághoz benyújtani. Az iratok szabályszerű benyújtása esetén a cégbíróság – további vizsgálat nélkül – három munkanapon belül a cégjegyzékbe bejegyzi a (2) bekezdéssel bejegyzett adatok változásának időpontját (hatályát). Az e bekezdés szerinti bejegyzés napja a 2. számú melléklet II.2. d) pont da) alpontban meghatározott igazolásban meghatározott, a részvények tőzsdei bevezetésének időpontja, ezen adat hiányában vagy ellentmondásos adatok esetén a változás időpontja (hatálya) az e bekezdés szerinti bejegyzés napja.
+
+(4) A zártkörűen működő részvénytársaság a (2) és a (3) bekezdés szerinti bejegyzés közötti időszakban is nyújthat be változásbejegyzési kérelmet. A nyilvánosan működő részvénytársaság (2) bekezdés szerint már bejegyzett adatait a cégbíróság a (3) bekezdés szerinti bejegyzéskor az időközben történt változásokkal jegyzi be, kivéve, ha a cég az időközbeni változásokra tekintet nélkül kéri a nyilvánosan működő részvénytársaság (2) bekezdés szerinti adatait hatályosítani.
+
+(5) Ha a cég a (3) bekezdés szerinti bejelentéssel együtt a nyilvánosan működő részvénytársaság létesítő okiratát – a (4) bekezdés szerinti változások átvezetésén túl – módosítja, a cégbíróság a kérelmet a változásbejegyzési eljárás szabályai szerint bírálja el, amelynek során a (2) bekezdés szerinti döntéséhez nincs kötve. A zártkörűen működő részvénytársaság nyilvánosan működő részvénytársasággá alakulása esetére előírt illetéket azonban ismételten megfizetni nem kell.
+
+(6) Ha a cég a (3) bekezdés szerinti kötelezettségének határidőben nem tesz eleget, a (2) bekezdés szerinti eljárásban a cégjegyzékbe bejegyzett adatokat a cégbíróság automatikusan meghozott végzéssel a (3) bekezdés szerinti egyéves határidő lejártának időpontjával a cégjegyzékből törli.
 
 ### 13. CÍM — A változásbejegyzési kérelemre vonatkozó
 
@@ -1020,7 +1035,7 @@ irányuló eljárás
 
 illetve a cég tájékoztatási kötelezettsége
 
-63. § (1) A cégbíróság a cég bejegyzéséről, a cégnyilvántartásban átvezetett változásokról (pl. a cég székhelyének, a tulajdonosok személyének változásáról), valamint az eljárás megszüntetéséről, a bejegyzési kérelem elutasításáról, illetve a cég törléséről értesíti a területileg illetékes gazdasági, illetve szakmai kamarát, adóhatóságot, valamint a Központi Statisztikai Hivatalt, egyéni cég bejegyzése esetén az egyéni vállalkozók nyilvántartását vezető szervet. A cégbíróság a cég bejegyzéséről, székhelyének változásáról, a cég törléséről, az eljárás megszüntetéséről adatot szolgáltat a Magyar Nemzeti Bank, az egészségbiztosítási szerv, a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv, és a nyugdíjbiztosítási igazgatási szerv részére. Az értesítést, illetve az adatszolgáltatást a céginformációs szolgálat elektronikus úton teljesíti.
+63. § (1) A cégbíróság a cég bejegyzéséről, a cégnyilvántartásban átvezetett változásokról (pl. a cég székhelyének, a tulajdonosok személyének változásáról), valamint az eljárás megszüntetéséről, a bejegyzési kérelem elutasításáról, illetve a cég törléséről értesíti a területileg illetékes gazdasági, illetve szakmai kamarát, adóhatóságot, valamint a Központi Statisztikai Hivatalt, egyéni cég bejegyzése esetén az egyéni vállalkozók nyilvántartását vezető szervet. A cégbíróság a cég bejegyzéséről, székhelyének változásáról, a cég törléséről, az eljárás megszüntetéséről adatot szolgáltat a Magyar Nemzeti Bank, az egészségbiztosítási szerv, a központi nyugdíjbiztosítási szerv, és a nyugdíjbiztosítási igazgatási szerv részére. Az értesítést, illetve az adatszolgáltatást a céginformációs szolgálat elektronikus úton teljesíti.
 
 (1a) A cégbíróság a cég bejegyzett adatainak változásáról, a cég törléséről – a céginformációs szolgálat útján és az (1) bekezdés szerinti elektronikus úton – értesíti azt a közhiteles nyilvántartást vezető szervet, amely a nyilvántartásában a cégre vonatkozóan cégjegyzékadatot is nyilvántart, feltéve, hogy a céginformációs szolgálat elektronikus értesítésének feltételei biztosítottak.
 
@@ -1150,7 +1165,7 @@ megállapítása iránti per
 
 72/A. § (1) A törvényességi felügyeleti eljárásban az e §-ban foglaltakkal összhangban megfelelően alkalmazni kell a Pp. 394/B. § (2), (6), (8) és (9) bekezdése, valamint 394/E. §-a szerinti elektronikus kommunikációra vonatkozó szabályait.
 
-(2) A törvényességi felügyeleti eljárás iránti elektronikus kérelmet, illetve a törvényességi felügyeleti eljárás során benyújtandó egyéb beadványt, valamint azok mellékleteit (a továbbiakban e § alkalmazásában együttesen: kérelem) a céginformációs szolgálathoz kell megküldeni. A kérelem a kormányzati portálon keresztül is benyújtható. A kérelemhez elektronikus űrlapot kell mellékelni. A kérelem és az űrlap informatikai feltételeire – a (4) bekezdésben foglalt kivétellel – a cégbejegyzési eljárásban benyújtható okiratokra vonatkozó szabályokat kell alkalmazni.
+(2) A törvényességi felügyeleti eljárás iránti elektronikus kérelmet, illetve a törvényességi felügyeleti eljárás során benyújtandó egyéb beadványt, valamint azok mellékleteit (a továbbiakban e § alkalmazásában együttesen: kérelem) a céginformációs szolgálathoz kell megküldeni. A kérelemhez elektronikus űrlapot kell mellékelni. A kérelem és az űrlap informatikai feltételeire – a (4) bekezdésben foglalt kivétellel – a cégbejegyzési eljárásban benyújtható okiratokra vonatkozó szabályokat kell alkalmazni.
 
 (3) A cég a törvényességi felügyeleti eljárásban kérelmét kizárólag elektronikus úton nyújthatja be.
 
@@ -1867,6 +1882,10 @@ vonatkozó részletes szabályokat rendelettel állapítsa meg.
 
 (2) A 2014. július 1-jén folyamatban lévő kényszertörlési eljárásokban a cégbíróság a kényszertörlési eljárás lezárásáról szóló végzésében a céggel szemben bejelentett követelések jogosultjait, valamint a követelések és a fellelhető vagyon összesített – valószínűsíthető – mértékét is feltünteti.
 
+131/G. § A 24. § (1) bekezdés n) pontja szerinti adat nyilvántartása 2018. január 1-jétől kötelező, ezt megelőzően a cég kérheti az adat nyilvántartásba vételét.
+
+131/H. § E törvénynek az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról szóló 2016. évi CXXI. törvénnyel megállapított 13. § bekezdés b) pontját, 16. § (3) és (4) bekezdését, 18. § (1) bekezdését, 19. § (1) bekezdését, 38. § (3) bekezdését, valamint 72/A. § (2) bekezdését az elektronikus kapcsolattartás tekintetében 2017. december 31-ig csak akkor kell alkalmazni, ha az eljáró szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az eljáró szerv vonatkozásában az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+
 132. § (1) E törvény – végrehajtási rendeleteivel, valamint a Ptk.-val és az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló törvénnyel együtt – a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 - a) a Szerződés 54. cikke (3) bekezdésének g) pontja alapján a részvénytársaságok szétválásáról szóló, 1982. december 17-i 82/891/EGK tanácsi irányelv;
@@ -2207,7 +2226,7 @@ d) zártkörűen működő részvénytársaság nyilvánosan működővé válá
 
 da) a tőzsde igazolása a részvények tőzsdei bevezetéséről, és idegen nyelvű igazolás esetén annak hiteles magyar nyelvű fordítása;
 
-db) a kibocsátás helye szerint illetékes hatóság által jóváhagyott, az értékpapír nyilvános kibocsátásához szükséges tájékoztató és idegen nyelvű tájékoztató és jóváhagyás esetén azok hiteles magyar nyelvű fordítása;
+db) a kibocsátás helye szerint illetékes hatóság által jóváhagyott, az értékpapír nyilvános kibocsátásához szükséges tájékoztató (összefoglaló) és idegen nyelvű tájékoztató (összefoglaló) és jóváhagyás esetén azok hiteles magyar nyelvű fordítása;
 
 dc) a vezető tisztségviselő nyilatkozata a várható költségekről, és azon kedvezményekről, amelyeket a társaság a működési forma változására tekintettel biztosít;
 

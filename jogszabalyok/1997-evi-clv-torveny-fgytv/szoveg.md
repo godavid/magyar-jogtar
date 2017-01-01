@@ -587,7 +587,7 @@ foglalt személyes adatait.
 
 (6) Ha a kézbesítési vélelemre tekintettel végrehajtási záradékkal ellátott kötelezést tartalmazó határozat alapján végrehajtási eljárás indult, és a címzett a kézbesítési vélelem megdöntése iránti kérelmet terjeszt elő, a kérelemnek a végrehajtásra nincs halasztó hatálya. Ha azonban a kérelemben foglalt tények fennállása valószínűnek mutatkozik, erről a kérelmet elbíráló békéltető testület elnöke – a valószínűségre vonatkozó álláspontja és a kérelem megküldésével – haladéktalanul értesíti a bíróságot. A vállalkozás a kézbesítési vélelem megdöntése iránti kérelmében kérheti a végrehajtás felfüggesztését, amit a bíróság a fogyasztó meghallgatása nélkül is elrendelhet.
 
-36/A. § (1) A békéltető testület tevékenységéről évente összefoglaló tájékoztatót készít, és azt a tárgyévet követő év január 31-éig megküldi a fogyasztóvédelemért felelős miniszternek, valamint azt külön kérésre az igénylő számára elektronikus úton rendelkezésre bocsátja.
+36/A. § (1) A békéltető testület tevékenységéről évente összefoglaló tájékoztatót készít, és azt a tárgyévet követő év március 1-jéig megküldi a fogyasztóvédelemért felelős miniszternek, valamint azt külön kérésre az igénylő számára elektronikus úton rendelkezésre bocsátja.
 
 (2) A békéltető testület éves tevékenységéről elkészült összefoglaló tartalmazza legalább:
 
@@ -866,7 +866,7 @@ vonatkozó rendelkezések betartását, és eljár azok megsértése esetén.
 
 (7) Nincs helye az (1) bekezdés szerinti jogkövetkezmény alkalmazásának a fogyasztóvédelmi hatósággal hatósági szerződést kötő ügyféllel szemben a szerződésben megállapított teljesítési határidőn belül azon jogsértés miatt, amelynek megszüntetése érdekében a szerződés megkötésére sor került.
 
-(8) A fogyasztóvédelmi hatóság az (1) bekezdés d), g), illetve h) pontja szerinti jogkövetkezmény megállapításáról szóló döntését közli a vállalkozásról, illetve az üzletről nyilvántartást vezető kereskedelmi hatósággal.
+(8) A fogyasztóvédelmi hatóság az (1) bekezdés g), illetve h) pontja szerinti jogkövetkezmény megállapításáról szóló döntését közli a vállalkozásról, illetve az üzletről nyilvántartást vezető kereskedelmi hatósággal.
 
 (9) A hatósági ellenőrzés, illetve a fogyasztóvédelmi hatóság eljárása során a vállalkozás köteles közölni a tevékenységével kapcsolatos – az ellenőrzés lefolytatásához, illetve az érdemi döntéshez szükséges – adatokat a nyilvános vagy valamely hatóság, bíróság vagy a Magyar Országos Közjegyzői Kamara jogszabállyal rendszeresített nyilvántartásában szereplő adatok kivételével. Ha a fogyasztóvédelmi hatóság felhívására a vállalkozás az adatokat nem közli, vagy valótlan adatot közöl, vele szemben eljárási bírság kiszabásának van helye.
 
@@ -902,6 +902,13 @@ vonatkozó rendelkezések betartását, és eljár azok megsértése esetén.
 
 - a) az Szt. hatálya alá tartozó, 100 millió forintot meghaladó éves nettó árbevétellel rendelkező, a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény hatálya alá nem tartozó vállalkozás esetében a vállalkozás éves nettó árbevételének 5%-áig, de legfeljebb 500 millió forintig, illetve a fogyasztók széles körének testi épségét, egészségét sértő vagy veszélyeztető, továbbá a fogyasztók széles körének jelentős vagyoni hátrányt okozó jogsértés esetén legfeljebb 2 milliárd forintig,
 - b) az a) pont hatálya alá nem tartozó vállalkozás esetében 500 ezer forintig, illetve a fogyasztók széles körének testi épségét, egészségét sértő vagy veszélyeztető, továbbá a fogyasztók széles körének jelentős vagyoni hátrányt okozó jogsértés esetén a vállalkozás éves nettó árbevételének 5%-áig, az Szt. hatálya alá nem tartozó vállalkozás esetén 5 millió forintig
+
+terjedhet.
+
+(1a) Az (1) bekezdéstől eltérően az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény 2. § a) pontja szerinti elektronikus kereskedelmi szolgáltatást nyújtó vállalkozás elektronikus kereskedelmi szolgáltatással összefüggő ismételten megállapított jogsértése esetén a bírság összege 200 ezer forinttól
+
+- a) az (1) bekezdés a) pont hatálya alá tartozó vállalkozás esetében a vállalkozás éves nettó árbevételének 5%-áig, de legfeljebb 500 millió forintig, illetve a fogyasztók széles körének testi épségét, egészségét sértő vagy veszélyeztető, továbbá a fogyasztók széles körének jelentős vagyoni hátrányt okozó jogsértés esetén 2 milliárd forintig,
+- b) az (1) bekezdés a) pont hatálya alá nem tartozó vállalkozás esetében 2 millió forintig, illetve a fogyasztók széles körének testi épségét, egészségét sértő vagy veszélyeztető, továbbá a fogyasztók széles körének jelentős vagyoni hátrányt okozó jogsértés esetén a vállalkozás éves nettó árbevételének 5%-áig, az Szt. hatálya alá nem tartozó vállalkozás esetén 5 millió forintig
 
 terjedhet.
 
@@ -962,7 +969,7 @@ terjedhet.
 
 (2) A fogyasztóvédelmi hatóság közzéteszi a 49. § (1) bekezdése szerinti végzését.
 
-(3) A fogyasztóvédelmi hatóság jogerős határozatát közzéteszi.
+(3) A fogyasztóvédelmi hatóság jogerős határozatát közzéteszi, ide nem értve az 51/B. §-ban meghatározott közzétételi kötelezettséggel érintett határozatokat.
 
 (4) A döntés közzététele a fogyasztóvédelmi hatóság honlapján, továbbá – amennyiben szükséges – a fogyasztóvédelmi hatóság által célszerűnek tartott egyéb módon történik. A közzétett döntésről a fogyasztóvédelmi hatóság a nemzeti hírügynökséget is tájékoztathatja.
 
@@ -998,6 +1005,44 @@ terjedhet.
 - c) a kötelezettségvállalás tartalmát közérthetően összefoglalva, valamint
 - d) az arra vonatkozó figyelemfelhívást, hogy a hatósági szerződés a hatóságnál megtekinthető.
 
+51/B. § (1) A fogyasztóvédelemért felelős miniszter által vezetett minisztérium honlapján közzé kell tenni az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott elektronikus kereskedelmi szolgáltatással összefüggő súlyos jogsértést megállapító, a fogyasztóvédelmi hatóság, a Gazdasági Versenyhivatal vagy a bíróság által hozott jogerős döntést, valamint az azzal kapcsolatos alábbi adatokat:
+
+- a) a közzététel e § szerinti jogcímét,
+- b) a jogerő beálltára történő utalást,
+- c) az eljáró hatóság vagy bíróság megnevezését,
+- d) az ügy számát és tárgyát,
+- e) a jogsértő vállalkozás nevét, székhelyét, a nyilvántartási számát vagy cégjegyzékszámát és adószámát,
+- f) a vállalkozás elektronikus kereskedelmi szolgáltatás nyújtása során használt, a fogyasztók számára beazonosítható elnevezését, honlapjának címét,
+- g) a döntéssel szembeni jogorvoslati eljárás tényére történő utalást,
+- h) a megsértett jogszabályi rendelkezés megjelölését, valamint
+- i) a közzététel napját és a honlapról történő törlés (7) bekezdés szerinti várható időpontját.
+
+(2) A fogyasztóvédelemért felelős miniszter a jogorvoslat során hozott és a közzétett döntés érdemében változást eredményező közigazgatási vagy bírósági döntés tudomására jutásakor az (1) bekezdés szerinti módon közzéteszi:
+
+- a) a jogorvoslattal érintett döntésre vonatkozó, (1) bekezdés szerinti információkat, ha azok törlésre kerültek a honlapról,
+- b) a jogorvoslat során hozott közigazgatási vagy bírósági döntést.
+
+(3) A bíróság, a fogyasztóvédelmi hatóság és a Gazdasági Versenyhivatal az (1) és (2) bekezdés hatálya alá tartozó döntését, valamint az (1) bekezdés b) és g) pontjában meghatározott adatokat a döntés kézbesítését követő 30 napon belül, elektronikus úton megküldi közzététel céljából a fogyasztóvédelemért felelős miniszter részére. A bíróságnak nem kell külön értesítenie a fogyasztóvédelemért felelős minisztert, ha a fogyasztóvédelmi hatóság a perben félként vesz részt.
+
+(4) A (3) bekezdés szerint megküldendő közigazgatási döntésből
+
+- a) a fogyasztóvédelmi hatóság döntése esetében a Ket. 69/A. § (2) bekezdése alapján a személyes adatot és védett adatot,
+- b) a Gazdasági Versenyhivatal döntése esetében a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 55/C. § (2) bekezdése alapján a korlátozottan megismerhető adatot
+
+törölni kell.
+
+(5) A (3) bekezdés szerint megküldött bírósági döntések közzétételére a bíróságok szervezetéről és igazgatásáról szóló 2011. évi CLXI. törvény (a továbbiakban: Bszi.) 166. §-át azzal az eltéréssel kell alkalmazni, hogy
+
+- a) a bírósági döntésben szereplő személyek azonosítását lehetővé tevő adatok törlésére a fogyasztóvédelemért felelős miniszter köteles, ha azt a bíróság saját hatáskörében nem végezte el,
+- b) a bírósági határozatból a jogsértő vállalkozás (1) bekezdésben meghatározott adatait nem kell törölni,
+- c) a Bszi. 166. § (4) bekezdését nem kell alkalmazni.
+
+(6) A fogyasztóvédelemért felelős miniszter az (1) és (2) bekezdés szerinti közzétételt a közigazgatási vagy bírósági döntés kézhezvételétől számított 15 napon belül köteles elvégezni.
+
+(7) A fogyasztóvédelemért felelős miniszter az (1) és (2) bekezdés alapján közzétett adatokat – feltéve, hogy a vállalkozás felelősségét az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott újabb súlyos jogsértésért a fogyasztóvédelmi hatóság, a Gazdasági Versenyhivatal vagy a bíróság jogerősen meg nem állapította – a közzétételtől számított két év elteltével törli a honlapról.
+
+(8) A fogyasztóvédelemért felelős miniszter biztosítja, hogy a honlapon az (1) bekezdés alapján közzétett közigazgatási vagy bírósági döntés, valamint az azzal kapcsolatos adatok szövegében a vállalkozás nevére, annak az elektronikus kereskedelmi szolgáltatás nyújtása során használt, a fogyasztók számára beazonosítható elnevezésére, honlapjának címére, a fogyasztóvédelmi hatóság, a Gazdasági Versenyhivatal, valamint a bíróság jogerős döntésére, a jogorvoslati eljárás tényére és a megsértettként megjelölt jogszabályi rendelkezésre keresni lehessen.
+
 ## HARMADIK RÉSZ — Záró rendelkezések
 
 ### Hatálybalépés
@@ -1016,7 +1061,8 @@ terjedhet.
 
 - a)
 - b) a mintavételi költség, továbbá a laboratóriumi, illetve az egyéb vizsgálatok költségének mértékére és megfizetésére,
-- c)–e)
+- c) az elektronikus kereskedelmi szolgáltatással összefüggő, az 51/B. § (1) bekezdésében előírt közzétételi kötelezettséggel járó súlyos jogsértések eseteire,
+- d)–e)
 - f) a fogyasztóvédelmi hatóság által kiszabott bírságok befizetésére és a jogszabály alapján az eljáró hatóságot megillető eljárási költség felhasználására,
 - g) a békéltető testületi tagok díjazására,
 - h) a fogyasztóvédelmi hatóság vagy hatóságok kijelölésére, feladat- és hatáskörére,

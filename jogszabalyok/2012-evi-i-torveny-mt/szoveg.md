@@ -735,7 +735,7 @@ munkaviszonyát kívánja – figyelemmel a (3) bekezdésben foglaltakra – har
 
 (3) Ha a munkáltatónak több telephelye van, az (1) bekezdésben foglalt feltételek fennállását telephelyenként kell megállapítani azzal, hogy az azonos megyében (fővárosban) található telephelyek esetében a munkavállalók létszámát össze kell számítani. A munkavállalót azon a telephelyen kell számításba venni, amelyen a csoportos létszámcsökkentésről szóló döntés meghozatalakor irányadó beosztása szerint végez munkát.
 
-(4) A csoportos létszámcsökkentésre vonatkozó szabályokat a tengerjáró hajók legénységére nem kell alkalmazni.
+(4) A tengeri hajó személyzetének tagjait érintő csoportos létszámcsökkentés esetén, a munkáltató előzetesen értesíti annak az államnak az illetékes hatóságát, amelynek lobogója alatt a hajó közlekedik.
 
 72. § (1) A munkáltató, ha csoportos létszámcsökkentés végrehajtását tervezi, az üzemi tanáccsal tárgyalni köteles.
 
@@ -1161,21 +1161,22 @@ munkaközi szünetet kell biztosítani.
 
 #### 53. A napi pihenőidő
 
-104. § (1) A munkavállaló részére a napi munkájának befejezése és a következő napi munkakezdés között legalább tizenegy óra egybefüggő pihenőidőt (napi pihenőidő) kell biztosítani.
+104. § (1) A napi munka befejezése és a következő munkanapi munkakezdés között legalább tizenegy óra egybefüggő pihenőidőt (a továbbiakban: napi pihenőidő) kell biztosítani.
 
-(2) Legalább nyolc óra napi pihenőidőt kell biztosítani
+(2) A napi pihenőidő időtartama legalább nyolc óra
 
 - a) az osztott munkaidőben,
 - b) a megszakítás nélküli,
-- c) a több műszakos,
-- d) az idényjellegű tevékenység keretében,
-- e) a készenléti jellegű munkakörben
+- c) a több műszakos vagy
+- d) az idényjellegű tevékenység keretében
 
 foglalkoztatott munkavállaló esetében.
 
-(3) A napi pihenőidő, ha az a nyári időszámítás kezdetének időpontjára esik, legalább hét óra.
+(3) A napi pihenőidő, ha az a nyári időszámítás kezdetének időpontjára esik, legalább tíz, a (2) bekezdés alkalmazásakor legalább hét óra.
 
-(4) A munkavállalót a készenlétet követően, ha munkát nem végzett, nem illeti meg pihenőidő.
+(4) A (2) vagy a (3) bekezdés alkalmazása esetén a két egymást követően beosztott napi pihenőidők együttes tartama legalább huszonkét óra.
+
+(5) A készenlétet követően nem kell pihenőidőt beosztani, ha a munkavállaló munkát nem végzett.
 
 #### 54. A heti pihenőnap
 
@@ -3118,3 +3119,4 @@ a kiküldetés teljes időtartama alatt a munkavégzés helyén, valamint annak 
 - l) az Európai Parlament és a Tanács 2003/88/EK irányelve (2003. november 4.) a munkaidő-szervezés egyes szempontjairól,
 - m) az Európai Parlament és Tanács 2008/104/EK irányelve (2008. november 19.) a munkaerő-kölcsönzés egyes szabályairól,
 - n) az Európai Parlament és Tanács 2014/67/EU irányelve (2014. május 15.) a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló 96/71/EK irányelv érvényesítéséről és a belső piaci információs rendszer keretében történő igazgatási együttműködésről szóló 1024/2012/EU rendelet (az IMI-rendelet) módosításáról,
+- o) az Európai Parlament és a Tanács 2015/1794/EU irányelve (2015. október 6.) a 2008/94/EK, a 2009/38/EK és a 2002/14/EK európai parlamenti és tanácsi irányelvnek, valamint a 98/59/EK és a 2001/23/EK tanácsi irányelvnek a tengerészek tekintetében történő módosításáról.

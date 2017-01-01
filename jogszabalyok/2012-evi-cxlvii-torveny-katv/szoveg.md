@@ -34,7 +34,8 @@ Az Országgyűlés abból a meggyőződésből kiindulva, hogy a kiegyensúlyozo
   - d) a kétoldalú szociálpolitikai, szociális biztonsági egyezmény alapján más államban biztosítottnak minősül,
   - e) olyan magánszemély, aki 2011. december 31-én – a társadalombiztosítási nyugellátásról szóló törvény alapján megállapított – I., II., vagy III. csoportos rokkantsági, baleseti rokkantsági nyugdíjra volt jogosult, és a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 32–33. §-a alapján rokkantsági ellátásban vagy rehabilitációs ellátásban részesül,
   - f) rokkantsági ellátásban részesül és egészségi állapota a rehabilitációs hatóság komplex minősítése alapján 50 százalékos vagy kisebb mértékű,
-  - g) a kisadózó vállalkozáson kívül más vállalkozásban nem kiegészítő tevékenységet folytató egyéni vállalkozónak vagy társas vállalkozónak minősül, ideértve más kisadózó vállalkozásban fennálló főállású kisadózó jogállást is;
+  - g) a kisadózó vállalkozáson kívül más vállalkozásban nem kiegészítő tevékenységet folytató egyéni vállalkozónak vagy társas vállalkozónak minősül, ideértve más kisadózó vállalkozásban fennálló főállású kisadózó jogállást is,
+  - h) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerinti nevelőszülői foglalkoztatási jogviszonyban áll;
 - 9. kapcsolt vállalkozás: a Tao. tv. 4. § 23. pontja szerinti vállalkozás;
 - 10. kisadózó vállalkozás: a kisadózó vállalkozások tételes adóját jogszerűen választó egyéni vállalkozó, egyéni cég, közkereseti társaság és betéti társaság;
 - 11. kisadózó: a kisadózó vállalkozások tételes adóját jogszerűen választó egyéni vállalkozó esetében az egyéni vállalkozó mint magánszemély, egyéni cég esetén annak tagja, közkereseti társaság és betéti társaság esetén a társaság kisadózóként bejelentett tagja;
@@ -53,6 +54,7 @@ azzal, hogy a külföldi pénznemben keletkezett bevételét a Magyar Nemzeti Ba
   - b) igénybe vett szolgáltatás esetében az a nap, amelyen a szolgáltatás nyújtójának vagy igénybevevőjének az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa tv.) rendelkezései szerint adófizetési kötelezettsége keletkezik, vagy keletkezne;
   - c) jog esetében az a nap, amelytől kezdődően az adóalany a jog gyakorlására, átruházására, átengedésére vagy megszüntetésére jogosult;
   - d) elengedett követelés és átvállalt tartozás esetében az a nap, amelyen az adóalany kötelezettsége, illetve tartozása megszűnik;
+  - e) az adóalanyiság megszűnésének napja, amennyiben az általa kiállított bizonylat ellenértékét az adóalanyiság utolsó napjáig nem szerezte meg.
 - 14. külföldi személy: a Tao. tv. 4. § 27. pontja szerinti személy;
 - 15. külföldi vállalkozó: a külföldi személy, illetve az üzletvezetés helye alapján külföldi illetőségű személy vagy szervezet, ha belföldi telephelyen végez vállalkozási tevékenységet, feltéve, hogy az üzletvezetésének helyére tekintettel nem tekinthető belföldi illetőségű adózónak;
 - 16. szokásos piaci ár: az az ellenérték, amelyet független felek összehasonlítható körülmények között egymás közötti szerződésükben vagy megállapodásukban érvényesítenek vagy érvényesíthetnének;
@@ -62,10 +64,14 @@ azzal, hogy a külföldi pénznemben keletkezett bevételét a Magyar Nemzeti Ba
   - a) az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény (a továbbiakban: Eat.) 462/B. § (2) bekezdése, 462/C. §-a és 462/D. §-a szerinti személy; és
   - b) az Eat. 461. §-a és 462/B. § (3) bekezdése szerinti személy;
 - 20. kedvezményezett foglalkoztatott munkabére után érvényesíthető kedvezmény: kedvezményezett foglalkoztatottanként a bruttó munkabér havi összege, de havonta legfeljebb
-  - a) a 19. pont a) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként 100 ezer forint a foglalkoztatás első két évében;
-  - b) a 19. pont b) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként 50 ezer forint és a foglalkoztatás harmadik évében a 19. pont a) alpontja szerinti foglalkoztatott esetében – az Eat. 462/B. § (2) bekezdése szerinti személy kivételével – személyenként 50 ezer forint. A kedvezmény részmunkaidős foglalkoztatás esetén legfeljebb az a) pont szerinti esetben 100 ezer, a b) pont szerinti esetben 50 ezer forintnak a részmunkaidő és a teljes munkaidő arányában csökkentett része után érvényesíthető;
+  - a) a 19. pont a) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként 100 ezer forint a foglalkoztatás első két évében, továbbá személyenként 50 ezer forint – az Eat. 462/B. § (2) bekezdése szerinti személy kivételével – a foglalkoztatás harmadik évében;
+  - b) a 19. pont b) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként 50 ezer forint,
+
+azzal, hogy a kedvezmény részmunkaidős foglalkoztatás esetén legfeljebb az a) pont szerinti esetben a foglalkoztatás első két évében 100 ezer, a foglalkoztatás harmadik évében – az Eat. 462/B. § (2) bekezdése szerinti személy kivételével – 50 ezer, a b) pont szerinti esetben 50 ezer forintnak a részmunkaidő és a teljes munkaidő arányában csökkentett része után érvényesíthető;
+
 - 21. részmunkaidős foglalkoztatás: az a foglalkoztatás, amelynek munkaszerződésben meghatározott időtartama nem éri el a betöltött munkakörre érvényes teljes munkaidőt.
 - 22. költségek fedezetére vagy fejlesztési célra folyósított támogatás: a költségek fedezetére vagy fejlesztési célra folyósított olyan támogatás, amelyet az adózó kizárólag a ténylegesen felmerült, igazolt kiadásainak a folyósítóval történő elszámolási kötelezettsége mellett kap, ideértve az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők számára nyújtandó támogatások részletes feltételeiről szóló miniszteri rendelet szerinti támogatást is.
+- 23. pénztár mentesített értéke: a tárgyévi összes bevétel 5 százaléka, de legalább 1 millió forint vagy az adóalanyiság első évének nyitó mérlegében a pénztár kimutatott értéke; a kisvállalati adózásra 2016. december 31-ig áttért adózónál a tárgyévi összes bevétel 5 százaléka, de legalább 1 millió forint vagy a 2017. év nyitó mérlegében a pénztár kimutatott értéke.
 
 ### II. Fejezet — A KISADÓZÓ VÁLLALKOZÁSOK TÉTELES ADÓJA
 
@@ -113,9 +119,11 @@ azzal, hogy a külföldi pénznemben keletkezett bevételét a Magyar Nemzeti Ba
 - l) a 4. § (4) bekezdése szerinti tevékenységből származó bevétel megszerzése esetén a bevétel megszerzését megelőző nappal;
 - m) az átalakulást, egyesülést, szétválást megelőző nappal, ha az átalakulás, egyesülés, szétválás következtében a vállalkozás már nem felel meg a 3. §-ban foglalt feltételeknek.
 
+(1a) A kisadózó vállalkozás a 4. § (4) bekezdése szerinti tevékenységből származó bevétel megszerzését követő 15 napon belül köteles az állami adóhatósághoz bejelenteni ezen bevétel megszerzésének időpontját.
+
 (2) Az adóalanyiság megszűnéséről – az (1) bekezdés a)–d) pontjában meghatározott okok kivételével – az adóhatóság határozatot hoz.
 
-6. § Az adóalanyiság megszűnésétől számított 24 hónapban az adóalanyiság ismételten nem választható.
+6. § Az adóalanyiság megszűnésének évében és az azt követő 12 hónapban az adóalanyiság ismételten nem választható.
 
 #### 3. A bejelentett kisadózó
 
@@ -125,7 +133,7 @@ azzal, hogy a külföldi pénznemben keletkezett bevételét a Magyar Nemzeti Ba
 
 (3) A bejelentésben nyilatkozni kell arról, hogy a kisadózó főállású kisadózónak minősül-e, a biztosítása a kisadózókénti bejelentéssel jön-e létre, valamint nyilatkozni lehet arról, ha a kisadózó vállalkozás a főállású kisadózó után magasabb összegű tételes adó [8. § (4a) bekezdés] megfizetését választja.
 
-(3a) A magasabb összegű tételes adó a bejelentést követően is választható. A magasabb összegű fizetési kötelezettséget a választásról szóló nyilatkozat megtételének hónapjától kell teljesíteni. A magasabb összegű tételes adót a választás visszavonása hónapjáig, a kisadózó vállalkozó főállású jogállásának megszűnése hónapjáig, vagy a kisadózó vállalkozás e fejezet szerinti adóalanyiságának megszűnése hónapjáig kell teljesíteni.
+(3a) A magasabb összegű tételes adó a bejelentést követően is választható. A magasabb összegű fizetési kötelezettséget a választás bejelentését követő hónaptól kell teljesíteni. A magasabb összegű tételes adót a választás visszavonása hónapjáig, a kisadózó vállalkozó főállású jogállásának megszűnése hónapjáig, vagy a kisadózó vállalkozás e fejezet szerinti adóalanyiságának megszűnése hónapjáig kell teljesíteni.
 
 (4) Az adóalanyiság akkor jöhet létre, ha a kisadózó vállalkozások tételes adóját választó kisadózó vállalkozás legalább egy kisadózót bejelent.
 
@@ -149,7 +157,7 @@ azzal, hogy a külföldi pénznemben keletkezett bevételét a Magyar Nemzeti Ba
 
 (5) A kisadózó vállalkozások tételes adóját a kisadózó vállalkozás a tárgyhónapot követő hónap 12. napjáig megfizeti.
 
-(6) Azon kisadózó vállalkozás, mely a naptári év minden hónapjára köteles az (1)–(2), valamint a (4a) bekezdés szerinti adót megfizetni, a kisadózó vállalkozás bevételének naptári évben elért összegéből a 6 millió forintot meghaladó rész után 40 százalékos mértékű adót fizet. Ha a kisadózó vállalkozás nem köteles a naptári év minden hónapjára az (1)–(2), valamint a (4a) bekezdés szerinti adót megfizetni, a 40 százalékos mértékű adót a kisadózó vállalkozás bevételének a kisadózó vállalkozási jogállás fennállásának az (1)–(2), valamint a (4a) bekezdés szerinti adófizetési kötelezettséggel érintett hónapjai és 500 ezer forint szorzatát meghaladó része után fizeti meg.
+(6) Azon kisadózó vállalkozás, amely a naptári év minden hónapjára köteles az (1)–(2), valamint a (4a) bekezdés szerinti adót megfizetni, a kisadózó vállalkozás bevételének naptári évben elért összegéből a 12 millió forintot meghaladó rész után 40 százalékos mértékű adót fizet. Ha a kisadózó vállalkozás nem köteles a naptári év minden hónapjára az (1)–(2), valamint a (4a) bekezdés szerinti adót megfizetni, a 40 százalékos mértékű adót a kisadózó vállalkozás bevételének a kisadózó vállalkozási jogállás fennállásának az (1)–(2), valamint a (4a) bekezdés szerinti adófizetési kötelezettséggel érintett hónapjai és 1 millió forint szorzatát meghaladó része után fizeti meg.
 
 (7) Amennyiben a kisadózó vállalkozás az általa kiállított számlán nem tünteti fel a „Kisadózó” szöveget, az Art. 172. § (1) bekezdése szerinti mulasztási bírsággal sújtható.
 
@@ -160,7 +168,8 @@ azzal, hogy a külföldi pénznemben keletkezett bevételét a Magyar Nemzeti Ba
 - a) táppénzben, baleseti táppénzben, csecsemőgondozási díjban, gyermekgondozási díjban, gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban vagy ápolási díjban részesül,
 - b) katonai szolgálatot teljesítő önkéntes tartalékos katona,
 - c) fogvatartott,
-- d) egyéni vállalkozói tevékenységét szüneteltette, kivéve ha a kisadózóként folytatott tevékenységébe tartozó munkát végez.
+- d) egyéni vállalkozói tevékenységét szüneteltette,
+- e) a Tbj. szerinti kiegészítő tevékenységet folytatóként keresőképtelen kivéve ha a kisadózóként folytatott tevékenységébe tartozó munkát végez.
 
 (10) Nem kell megfizetni a kisadózó után az (1), a (2), valamint a (4a) bekezdés szerinti adót azon hónapokra vonatkozóan sem, amelyben a (9) bekezdés a)–c) pontjai szerinti állapot megszűnik akkor, ha ez az állapot legalább 30 napig fennállt. A 30 nap számítása szempontjából figyelmen kívül kell hagyni azt az időszakot, amelyre vonatkozóan a (9) bekezdés szerint a kisadózó után az adót nem kell megfizetni.
 
@@ -179,13 +188,13 @@ azzal, hogy a külföldi pénznemben keletkezett bevételét a Magyar Nemzeti Ba
 
 #### 6. A kisadózót megillető ellátások és a kisadózó jövedelme
 
-10. § (1) A főállású kisadózó e jogállásának időtartama alatt biztosítottnak minősül, a Tbj.-ben és a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvényben meghatározott valamennyi ellátásra jogosultságot szerezhet, ezen ellátások számításának alapja havi 81 300 forint, magasabb összegű tételes adó fizetése esetén 136 250 forint. Az állami adóhatóság a 7. § és a 8. § (11) bekezdése szerinti bejelentések adattartalma alapján adatot szolgáltat az egészség- és nyugdíjbiztosítási szervek felé a főállású kisadózó biztosítotti jogállásának időtartamáról és az ellátások alapjáról.
+10. § (1) A főállású kisadózó e jogállásának időtartama alatt biztosítottnak minősül, a Tbj.-ben és a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvényben meghatározott valamennyi ellátásra jogosultságot szerezhet, ezen ellátások számításának alapja havi 90 000 forint forint, magasabb összegű tételes adó fizetése esetén 150 000 forint. Az állami adóhatóság a 7. § és a 8. § (11) bekezdése szerinti bejelentések adattartalma alapján adatot szolgáltat az egészség- és nyugdíjbiztosítási szervek felé a főállású kisadózó biztosítotti jogállásának időtartamáról és az ellátások alapjáról.
 
 (1a) Szünetel a főállású kisadózó biztosítása abban a hónapban, amelyben a főállású kisadózó után az adót a 8. § (9) bekezdés d) pontja alapján nem kell megfizetni.
 
 (2) A nem főállású kisadózó – e jogviszonya alapján – biztosítottnak nem minősül, társadalombiztosítási ellátásra és álláskeresési ellátásra jogosultságot nem szerez.
 
-(3) Más jogszabályok alkalmazásában, különösen az Art. szerinti jövedelemigazolás kiállításának szempontjából a kisadózó jövedelmének a kisadózó vállalkozás utolsó, a megszerzett bevételről tett nyilatkozatában feltüntetett bevételének 60 százaléka, több tag esetén annak fejenként egyenlő része, de legalább a minimálbér minősül.
+(3) Más jogszabályok alkalmazásában, különösen az Art. szerinti jövedelemigazolás kiállításának szempontjából a kisadózó jövedelmének a kisadózó vállalkozás utolsó, a megszerzett bevételről tett nyilatkozatában feltüntetett bevételének 60 százaléka, több tag esetén annak fejenként egyenlő része, de legalább a tételes adófizetési kötelezettséggel érintett hónapok és a havi minimálbér szorzata minősül.
 
 #### 7. Nyilatkozat a bevételről
 
@@ -267,11 +276,11 @@ amely megfelel az e törvényben meghatározott valamennyi feltételnek, és az 
 
 (2) Az (1) bekezdésben meghatározott személy az adóévre akkor választhatja a kisvállalati adó szerinti adózást, ha
 
-- a) az átlagos statisztikai állományi létszáma az adóévet megelőző adóévben várhatóan nem haladja meg a 25 főt;
+- a) az átlagos statisztikai állományi létszáma az adóévet megelőző adóévben várhatóan nem haladja meg az 50 főt;
 - b) az adóévet megelőző adóévben elszámolandó bevétele várhatóan nem haladja meg az 500 millió forintot, 12 hónapnál rövidebb adóév esetén az 500 millió forint időarányos részét;
 - c) az adóévet megelőző két naptári évben adószámát az állami adóhatóság jogerősen nem törölte vagy függesztette fel;
 - d) üzleti évének mérlegforduló napja december 31.;
-- e) az adóévet megelőző adóévéről készítendő beszámolójában a mérlegfőösszege várhatóan nem haladja meg az 500 millió forintot, 12 hónapnál rövidebb adóév esetén az 500 millió forint időarányos részét.
+- e) az adóévet megelőző adóévéről készítendő beszámolójában a mérlegfőösszege várhatóan nem haladja meg az 500 millió forintot.
 
 (3) A (2) bekezdésben meghatározott állományi létszám és bevételi határok számítása során a kapcsolt vállalkozások átlagos statisztikai állományi létszámát és bevételét együttesen, az utolsó beszámolóval lezárt üzleti év adatai alapján kell figyelembe venni.
 
@@ -293,14 +302,14 @@ amely megfelel az e törvényben meghatározott valamennyi feltételnek, és az 
 
 (5) A kisvállalati adóalanyiság megszűnik
 
-- a) az adóalanyiság választására jogosító bevételi értékhatár negyedév első napján történő meghaladása esetén, a túllépést megelőző nappal;
+- a) az 1 milliárd forintos bevételi értékhatár negyedév első napján történő meghaladása esetén, a túllépést megelőző nappal;
 - b) a végelszámolás, a felszámolás, a kényszertörlési eljárás kezdő időpontját megelőző nappal;
 - c) ha az adóalany végelszámolási vagy felszámolási eljárás nélkül szűnik meg, a megszűnés napjával;
 - d) az adóalany egyesülését, szétválását megelőző nappal;
 - e) az adóhatósági határozat jogerőre emelkedésének napját megelőző hónap utolsó napjával, ha az adóalany terhére az adó- vagy vámhatóság számla- vagy nyugtaadási kötelezettség elmulasztásáért, be nem jelentett alkalmazott foglalkoztatásáért vagy igazolatlan eredetű áru forgalmazásáért jogerősen mulasztási bírságot, jövedéki bírságot állapított meg;
 - f) az adóalany adószámának alkalmazását felfüggesztő vagy törlő határozat jogerőre emelkedésének hónapját megelőző hónap utolsó napjával;
-- g) a naptári negyedév utolsó napjával, ha az adóalany az állami adó- és vámhatóságnál nyilvántartott, végrehajtható adó- és vámtartozása a naptári negyedév utolsó napján meghaladja az 1 millió forintot;
-- h) a létszámváltozás hónapjának utolsó napjával, ha a létszámnövekedés miatt az adóalany átlagos statisztikai állományi létszáma meghaladta az 50 főt.
+- g) az adóalanyiság megszűnéséről rendelkező határozat jogerőre emelkedésének napját magában foglaló negyedév utolsó napjával, ha az adóalany állami adó- és vámhatóságnál nyilvántartott, végrehajtható, nettó módon számított adótartozása a naptári év utolsó napján meghaladja az 1 millió forintot;
+- h) a létszámváltozás hónapjának utolsó napjával, ha a létszámnövekedés miatt az adóalany átlagos statisztikai állományi létszáma meghaladta a 100 főt.
 
 (6) Nem szűnik meg az egyéni cég adóalanyisága, ha a tag halála esetén özvegye, özvegy hiányában vagy annak egyetértésével örököse (örökösei), illetve a tag cselekvőképtelenségét vagy cselekvőképességének korlátozását kimondó bírósági határozat esetén a tag nevében és javára eljárva törvényes képviselője az egyéni cég tagjává válik, és az e törvény szerinti adóalanyiságot választja. Választását az ok bekövetkeztétől számított harminc napon belül jelenti be az adóhatóságnak.
 
@@ -308,111 +317,49 @@ amely megfelel az e törvényben meghatározott valamennyi feltételnek, és az 
 
 (8) Az adóalanyiság megszűnésétől számított 24 hónapban az adóalanyiság ismételten nem választható.
 
-(9) Az (1) bekezdéstől eltérően az adóévben újonnan alakuló adózó adóalanyisága a létesítő okirata közokiratba foglalásának, ellenjegyzésének napján kezdődik, ha vállalkozási tevékenységét a cégnyilvántartásba történő bejegyzése előtt megkezdheti, az első jognyilatkozat megtételének napján, ha belföldi illetősége az üzletvezetés helyére tekintettel keletkezik, más esetben azon a napon, amelyen az alapítását szabályozó jogszabály szerint létrejön, feltéve, hogy a kisvállalati adó szerinti adóalanyiság választását a létesítő okirata közokiratba foglalásának, ellenjegyzésének, az első jognyilatkozat megtételének, illetve az alapítását szabályozó jogszabály szerinti létrejövetelének napjától számított 30 napon belül bejelenti az állami adóhatóságnak. A határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye.
+(9) A tevékenységét év közben kezdő vállalkozás bejelentését az állami adóhatósághoz való bejelentkezéssel egyidejűleg teljesíti. Az (1) bekezdéstől eltérően a tevékenységét év közben kezdő vállalkozás adóalanyisága a létesítő okirata közokiratba foglalásának, ellenjegyzésének napján kezdődik, ha vállalkozási tevékenységét a cégnyilvántartásba történő bejegyzése előtt megkezdheti, az első jognyilatkozat megtételének napján, ha belföldi illetősége az üzletvezetés helyére tekintettel keletkezik, más esetben az állami adóhatósághoz történő bejelentkezése napjával. Amennyiben a tevékenységét év közben kezdő vállalkozás az állami adóhatósághoz való bejelentkezését nem elektronikus úton teljesíti, úgy az (1) bekezdés szerinti bejelentését is azonos formában teheti meg.
 
 #### 14. A kisvállalati adó alapja
 
-20. § (1) A kisvállalati adó alapja a (2)–(20) bekezdésre figyelemmel:
+20. § (1) A kisvállalati adó alapja a (2)–(7) bekezdésre figyelemmel:
 
-- a) az adózó pénzforgalmi szemléletű eredményének
-- b) személyi jellegű kifizetésekkel
+- a) a (3)–(5) bekezdés szerinti tételek egyenlegének
+- b) a személyi jellegű kifizetésekkel
 
 növelt összege, de legalább a b) pont szerinti összeg.
 
-(2) A III. Fejezet alkalmazásában az adózó pénzforgalmi szemléletű eredménye a pénzeszközök Szt. szerinti beszámolóban kimutatott tárgy üzleti évi összege, csökkentve a pénzeszközök tárgyévet megelőző üzleti évben kimutatott összegével, korrigálva a (4)–(20) bekezdés szerinti tételekkel. A kisvállalati adóalanyiság első adóévében a kisvállalati adó hatálya alá bejelentkező, az Szt. hatálya alá nem tartozó, bevételi nyilvántartást vezető egyszerűsített vállalkozói adóalany vagy kisadózó vállalkozás pénzforgalmi szemléletű eredménye a pénzeszközök Szt. szerinti beszámolóban kimutatott tárgy üzleti évi összege, csökkentve a pénzeszközök Szt. 2/A. § (4) bekezdése szerinti nyitó mérlegben kimutatott összegével, korrigálva a (4)–(20) bekezdés szerinti tételekkel. Az ügyvédi iroda az e rendelkezésben foglaltakat azzal az eltéréssel alkalmazza, hogy nem minősül pénzeszköznek az ügyvédi letétként kezelt pénzeszköz.
-
-(3) A III. Fejezet alkalmazásában személyi jellegű kifizetésnek azon személyi jellegű ráfordítás minősül, amely a Tbj. szerint járulékalapot képez az adóévben (ide nem értve a kedvezményezett foglalkoztatott után érvényesíthető kedvezmény éves összegét). A tag esetében személyi jellegű kifizetésként (Tbj. szerint járulékalapot képező összes jövedelemként) a minimálbér 112,5%-át kell figyelembe venni, ha a tagra jutó személyi jellegű ráfordítás ennél alacsonyabb. E bekezdés alkalmazásában
+(2) E fejezet alkalmazásában személyi jellegű kifizetésnek azon személyi jellegű ráfordítás minősül, amely a Tbj. szerint járulékalapot képez az adóévben (ide nem értve a kiegészítő tevékenységet folytató egyéni vagy társas vállalkozó járulékalapját, valamint a kedvezményezett foglalkoztatott után érvényesíthető kedvezmény éves összegét). A tag esetében személyi jellegű kifizetésként (Tbj. szerint járulékalapot képező összes jövedelemként) a minimálbér 112,5%-át kell figyelembe venni, ha a tagra jutó személyi jellegű ráfordítás ennél alacsonyabb. E bekezdés alkalmazásában
 
 - a) minimálbér a Tbj. 4. § s) pont 2. alpontja szerinti minimálbér,
-- b) tag a Tbj. szerinti társas vállalkozó azzal, hogy a tagra jutó személyi jellegű kifizetés meghatározása során nem kell figyelembe venni a minimálbér 112,5%-át arra az időszakra, amelyre a társas vállalkozónak nem keletkezik a Tbj. 27. § (2) bekezdése szerinti járulékalap utáni járulékfizetési kötelezettsége.
+- b) tag a Tbj. szerinti társas vállalkozó
 
-(4) A pénzforgalmi szemléletű eredményt csökkenti a következő ügyletekből a tárgyévben befolyt pénzeszköz:
+azzal, hogy a tagra jutó személyi jellegű kifizetés meghatározása során nem kell figyelembe venni a minimálbér 112,5%-át arra az időszakra, amelyre a társas vállalkozónak nem keletkezik a Tbj. 27. § (2) bekezdése szerinti járulékalap utáni járulékfizetési kötelezettsége.
 
-- a) hitel vagy kölcsön felvétele,
-- b) az adózó által nyújtott hitel vagy kölcsön törlesztése, visszafizetése esetén a hitel vagy kölcsön nyújtásakor a pénzforgalmi szemléletű eredményt növelő tételként elszámolt összeg arányos része,
-- c) kötvény vagy hitelviszonyt megtestesítő értékpapír kibocsátása,
-- d) hitelviszonyt megtestesítő értékpapír beváltása, eladása, valamint tulajdoni részesedést jelentő befektetés eladása esetén a beváltott, eladott értékpapírok, befektetések vásárlásakor a pénzforgalmi szemléletű eredményt növelő tételként elszámolt összeg arányos része,
-- e) tőkebevonás (különösen jegyzett tőke emelése),
-- f) osztalék és osztalékelőleg megszerzése,
-- g) elszámolásra kiadott előleg visszafizetése,
-- h) az e törvény alapján megfizetett adó visszatérítése.
+(3) Az adóalap megállapításakor növelő tételként kell figyelembe venni:
 
-(5) A pénzforgalmi szemléletű eredményt növeli
+- a) a tőkekivonás (különösen a jegyzett tőke leszállítás) cégbírósági bejegyzésére tekintettel az adóévben a saját tőke csökkenéseként elszámolt összeget,
+- b) az adóévben jóváhagyott fizetendő osztalék összegét (ide nem értve a kisvállalati adóalanyiságot megelőző adóévek adózott eredménye és eredménytartaléka terhére a kisvállalati adóalanyiság időszakában jóváhagyásra kerülő osztalékot),
+- c) a pénztár értékének tárgyévi növekményét, de legfeljebb a pénztár tárgyévi mérlegben kimutatott értékének a mentesített értéket meghaladó részét,
+- d) a Tao. tv. 3. számú melléklet A) részében meghatározott, a nem a vállalkozási tevékenység érdekében felmerülő egyes költségeket, ráfordításokat,
+- e) az adóalanyiság időszakában bármely időszakra megállapított és megfizetett bírság, pótlék összegét,
+- f) a behajthatatlannak nem minősülő követelés elengedése esetén az elengedett követelés összegét, kivéve ha 1. a követelés elengedése magánszemély javára történik, vagy 2. az adózó olyan külföldi személlyel vagy magánszemélynek nem minősülő belföldi személlyel szemben fennálló követelését engedi el, amellyel kapcsolt vállalkozási viszonyban nem áll.
 
-- a) az adózónak nyújtott hitel vagy kölcsön törlesztése, visszafizetése esetén a hitel vagy kölcsön felvételekor a pénzforgalmi szemléletű eredményt csökkentő tételként elszámolt összeg arányos része,
-- b) a hitel vagy kölcsön nyújtása,
-- c) a saját kibocsátású kötvény vagy hitelviszonyt megtestesítő értékpapír beváltása, törlesztése esetén a beváltott, eladott értékpapírok kibocsátásakor a pénzforgalmi szemléletű eredményt csökkentő tételként elszámolt összeg arányos része,
-- d) a hitelviszonyt megtestesítő értékpapír vagy tulajdoni részesedést jelentő befektetés vásárlása,
-- e) a tőkekivonás (különösen jegyzett tőke leszállítása),
-- f) az osztalék fizetése (ide nem értve a kisvállalati adóalanyiságot megelőző adóévek adózott eredménye és eredménytartaléka terhére a kisvállalati adóalanyiság időszakában kifizetésre kerülő osztalékot), osztalékelőleg fizetése,
-- g) az elszámolásra kiadott előleg kifizetése és,
-- h) az e törvény alapján megfizetett adó és adóelőleg
+(4) Az adóalap megállapításakor csökkentő tételként kell figyelembe venni:
 
-miatt a tárgyévben teljesített pénzeszköz kifizetés.
+- a) a tőkebevonás (különösen a jegyzett tőke emelés) cégbírósági bejegyzésére tekintettel az adóévben a saját tőke növekedéseként elszámolt összeget,
+- b) a kapott (járó) osztalék címén az adóévben elszámolt bevétel összegét,
+- c) a pénztár értékének tárgyévi csökkenését, de legfeljebb a pénztár előző évi mérlegben kimutatott értékének a mentesített értéket meghaladó részét; a kisvállalati adóalanyiság megszűnésének adóévében a pénztár előző évi mérlegben kimutatott értékének és mentesített értékének pozitív különbözetét,
+- d) a 2017. január 1-je előtt a kisvállalati adó hatálya alá tartozó vállalkozásnál e törvény 2013. január 1-je és 2016. december 31-e között hatályos 20. § (4) bekezdés e) és f) pontjai szerint elszámolt csökkentés, e törvény 2013. január 1-je és 2016. december 31-e között hatályos 20. § (5) bekezdés e) és f) pontja és 20. § (6)–(8) bekezdése szerint elszámolt növelés összegével csökkentett, a 2013–2016. adóévek pénzforgalmi szemléletű eredményével növelt pozitív összegét.
 
-(6) Nem a vállalkozás érdekében felmerült, vállalkozásból kivont vagyonnak minősül különösen és a pénzforgalmi szemléletű eredményt növeli a következő ügyletekhez kapcsolódóan a tárgyévben teljesített pénzeszköz kifizetés:
+(5) Amennyiben az adózó kapcsolt vállalkozásával kötött szerződésében (megállapodásában) olyan ellenértéket (ügyleti értéket) határoz meg, amely nem felel meg a szokásos piaci árnak, – az (1)–(4) bekezdésben foglaltaktól függetlenül, és függetlenül attól, hogy az ügylet az adózó pénzeszközeinek változásával jár-e – az adóalapot a szokásos piaci ár és az ügyleti érték különbségével úgy módosítja, hogy az olyan adóalapnak feleljen meg, mint ha független vállalkozással kötött volna szerződést (megállapodást), feltéve, hogy a szerződés (megállapodás) alapján az adóévben teljesítés történt. A szokásos piaci árat a Tao. tv. 18. § (2) bekezdésében meghatározott módszer szerint kell megállapítani.
 
-- a) végleges pénzeszközátadás,
-- b) 50 ezer forintot meghaladó bekerülési értékű szolgáltatás igénybevétele, eszköz beszerzése, ha a körülmények (így különösen az adózó vállalkozási tevékenysége, árbevétele, a szolgáltatás jellege, a szolgáltatás ellenértéke) alapján egyértelműen megállapítható, hogy a szolgáltatás igénybevétele vagy az eszköz beszerzése ellentétes az ésszerű gazdálkodás követelményeivel,
-- c) a Tbj. rendelkezései szerinti megállapodás alapján egészségbiztosítási járulék megfizetése,
-- d) kiadás, amely
-  - da) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvényben meghatározott vesztegetés, befolyással üzérkedés, vesztegetés nemzetközi kapcsolatokban vagy befolyással üzérkedés nemzetközi kapcsolatokban,
-  - db) a Büntető Törvénykönyvről szóló 2012. évi C. törvényben meghatározott vesztegetés, vesztegetés elfogadása, hivatali vesztegetés, hivatali vesztegetés elfogadása, vesztegetés bírósági vagy hatósági eljárásban, vesztegetés elfogadása bírósági vagy hatósági eljárásban vagy befolyással üzérkedés
+(6) Ha a (3)–(5) bekezdés szerint megállapított egyenleg bármely adóévben negatív, ez az összeg a következő adóévekben – a (7) bekezdésben foglaltakat figyelembe véve – csökkenti a (3)–(5) bekezdés szerint megállapított pozitív egyenleget a kisvállalati adó alapja meghatározásakor, feltéve, hogy a (3)–(5) bekezdés szerint megállapított negatív egyenleg a rendeltetésszerű joggyakorlás elvének betartásával keletkezett (a továbbiakban: elhatárolt veszteség). A kisvállalati adó alanya elhatárolt veszteségként veheti figyelembe az e törvény szerint meghatározott adóalanyiság időszaka előtt, a társasági adóalanyiság alatt keletkezett negatív társasági adóalapjának azt a részét, amelyet a társasági adóalap csökkentéseként korábban nem vett figyelembe.
 
-bűncselekmény elkövetése érdekében vagy azzal összefüggésben merült fel, és az elkövetés tényét jogerős bírósági ítélet megállapította,
-
-- e) az ellenőrzött külföldi társasággal szemben teljesített kifizetés,
-- f) az adóalanyiság időszakát megelőző időszakra megállapított, az adóalanyiság időszaka alatt teljesített adófizetési kötelezettség (ide nem értve az általános forgalmi adó-fizetési kötelezettséget), továbbá az adóalanyiság időszakában bármely időszakra megállapított és megfizetett bírság, pótlék,
-- g) a jegyzett tőke, a tőketartalék, az eredménytartalék és a lekötött tartalék napi átlagos állományának háromszorosát meghaladó, napi átlagos állományon meghatározott kötelezettségrészre jutó kamatkifizetés (ide nem értve a pénzügyi intézménnyel szemben fennálló kötelezettség alapján elszámolt kamatkifizetést), függetlenül attól, hogy azt az adóalany eszköz bekerülési értékének részeként számolja-e el, azzal, hogy e rendelkezés alkalmazásában kötelezettség a kapott kölcsön, a zárt körben forgalomba hozott hitelviszonyt megtestesítő értékpapír miatt fennálló tartozás és a váltótartozás (kivéve a szállítói tartozás kiegyenlítése miatt fennálló váltótartozást), valamint minden más, a mérlegben kimutatott kölcsönnek, hitelviszonyt megtestesítő értékpapírnak, illetve váltótartozásnak nem minősülő kötelezettség.
-
-(7) Nem a vállalkozás érdekében felmerült, vállalkozásból kivont vagyonnak minősül különösen és a pénzforgalmi szemléletű eredményt növeli a következő ügyletekhez kapcsolódóan elszámolt ráfordítás:
-
-- a) behajthatatlannak nem minősülő követelés elengedése, kivéve 1. ha a követelés elengedése magánszemély javára történik, vagy 2. ha az adózó olyan külföldi személlyel vagy magánszemélynek nem minősülő belföldi személlyel szemben fennálló követelését engedi el, amellyel kapcsolt vállalkozási viszonyban nem áll,
-- b) a térítés nélküli eszközátadás,
-- c) a térítés nélkül nyújtott szolgáltatás,
-- d) eszköz hiányának elszámolása, ha egyértelműen megállapítható, hogy a hiány (különös tekintettel az eszköz fizikai jellemzőire, értékére, a tárolás körülményeire) megfelelő gondosság mellett nem merült volna fel, vagy ha az adózó – az ésszerű gazdálkodás követelményeit figyelembe véve – nem tett meg mindent a hiányból eredő veszteség mérséklésére,
-- e) tartozás térítés nélküli átvállalása.
-
-(8) Amennyiben az adózó kapcsolt vállalkozásával kötött szerződésében (megállapodásában) olyan ellenértéket (ügyleti értéket) határoz meg, amely nem felel meg a szokásos piaci árnak,– az (1)–(7) bekezdésben foglaltaktól függetlenül, és függetlenül attól, hogy az ügylet az adózó pénzeszközeinek változásával jár-e – az adóalapot a szokásos piaci ár és az ügyleti érték különbségével úgy módosítja, hogy az olyan adóalapnak feleljen meg, mint ha független vállalkozással kötött volna szerződést (megállapodást), feltéve, hogy a szerződés (megállapodás) alapján az adóévben teljesítés történt. A szokásos piaci árat a Tao. tv. 18. § (2) bekezdésében meghatározott módszer szerint kell megállapítani.
-
-(9) Ha a pénzforgalmi szemléletű eredmény bármely adóévben negatív, ezzel az összeggel az adózó a következő adóévekben – a (10)–(12) bekezdésekben foglaltakat figyelembe véve – csökkentheti a pénzforgalmi szemléletű pozitív eredményét, feltéve, hogy a pénzforgalmi szemléletű eredmény csökkenése a rendeltetésszerű joggyakorlás elvének betartásával keletkezett (a továbbiakban: elhatárolt veszteség). A kisvállalati adó alanya elhatárolt veszteségként veheti figyelembe az e törvény szerint meghatározott adóalanyiság időszaka előtt, a társasági adóalanyiság alatt keletkezett negatív társasági adóalapjának azt a részét, amelyet a társasági adóalap csökkentéseként korábban nem vett figyelembe.
-
-(10) Az elhatárolt veszteség összegét az adózó 10 év alatt, egyenlő részletekben használhatja fel a következő adóévekben.
-
-(11) A (10) bekezdéstől eltérően az elhatárolt veszteség összegéből a beszerzett, előállított, korábban még használatba nem vett tárgyi eszközökkel (beruházással) szellemi termékekkel, kísérleti fejlesztés aktivált értékével kapcsolatos adóévi kifizetések összegével az adózó döntése szerint, az (1) bekezdéstől függetlenül, teljes mértékben csökkentheti a következő adóévek adóalapját, függetlenül attól, hogy az érintett eszközöket rendeltetésszerűen használatba vették-e az adóévben.
-
-(12) Az elhatárolt veszteségeket keletkezésük sorrendjének megfelelően kell felhasználni.
-
-(13) A (2) bekezdés alkalmazásában a pénzforgalmi szemléletű eredmény meghatározása során figyelmen kívül kell hagyni
-
-- a) az olyan bevételt, kiadást, amelyet az adózó az adóalanyiság időszakát megelőző időszakra vonatkozó eredménykimutatásában bevételként, ráfordításként számol el,
-- b) a megelőző időszakra vonatkozóan teljesített kiadást, elszámolt bevételt, ha az adóalanyiság időszakát megelőző időszakban az adóalany az Szt. hatálya alá nem tartozott,
-- c) az e törvény szerinti adóalanyiság időszakát megelőző időszakban teljesített és az adóalanyiság időszaka alatt visszatérített pótbefizetést.
-
-(14) Az e törvény hatálya alá kerülés időpontjában állományban lévő hitel- és kölcsöntartozásokkal, kötvénykibocsátásból származó kötelezettségekkel, hitelviszonyt megtestesítő értékpapírokkal, tulajdoni részesedést jelentő befektetésekkel kapcsolatos, (4) bekezdés b) és d) pontja, valamint az (5) bekezdés a) és c) pontja szerinti pénzforgalmi szemléletű eredményt módosító tételek helyett módosító tételként ezen eszközök, kötelezettségek e törvény hatálya alá kerülés időpontjában kimutatott nyilvántartás szerinti (arányos) értékét kell figyelembe venni.
-
-(15) Az adóalap megállapítása során csökkentő tételként kell figyelembe venni az olyan kisvállalati adóalanyiságot megelőző adóévben teljesített kifizetést, amely a kisvállalati adóalanyiság időszakára vonatkozik, és az adóévet megelőző adóévre vonatkozó eredménykimutatásban költségként, ráfordításként nem került elszámolásra.
-
-(16) A kisvállalati adó alanya az e törvény szerint meghatározott adóalanyiság időszaka előtt megszerzett immateriális jószág, tárgyi eszköz (ideértve a beruházást is) Tao. tv. 4. § 31/a. pontja szerinti számított nyilvántartási értékével 10 év alatt, egyenlő részletekben csökkentheti a pénzforgalmi szemléletű eredményét. Amennyiben az e törvény szerint meghatározott adóalanyiság időszaka előtt megszerzett, kifizetett immateriális jószág, tárgyi eszköz (ideértve a beruházást is) 10 éven belül kivezetésre kerül, a pénzforgalmi szemléletű eredmény a könyvekből történő kivezetés adóévében csökkenthető – a kisvállalati adóalanyiság adóévét megelőző adóévben meghatározott – a számított nyilvántartási érték azon részével, amellyel a kisvállalati adó alanya e bekezdés alapján a pénzforgalmi szemléletű eredményt még nem csökkentette.
-
-(17) Amennyiben a kisvállalati adóalanyiság első adóéve zárókészlet állományának értéke nem éri el a kisvállalati adóalanyiságot megelőző adóév zárókészlet állományának értékét, a különbözet összege csökkenti a pénzforgalmi szemléletű eredményt.
-
-(18) A társasági adóalanyiságot megelőzően a kisvállalati adóalanyiság megszűnésének adóévére vonatkozó pénzforgalmi szemléletű eredmény megállapítása során növelő tételként kell figyelembe venni:
-
-- a) a kisvállalati adóalanyiság időszakára vonatkozó, be nem folyt bevétel összegét (ideértve az időbeli elhatárolást is),
-- b) a kisvállalati adóalanyiság időszaka alatt teljesített, időbelileg elhatárolt pénzeszköz kifizetést, amely nem a kisvállalati adóalanyiság időszakára vonatkozik,
-- c) a kisvállalati adóalanyiság időszaka alatt beszerzett, kifizetett év végén kimutatott készlet értékét.
-
-(19) A társasági adóalanyiságot megelőzően a kisvállalati adóalanyiság megszűnésének adóévére vonatkozó pénzforgalmi szemléletű eredmény megállapítása során csökkentő tételként kell figyelembe venni:
-
-- a) a kisvállalati adóalanyiság időszaka alatt befolyt bevétel elhatárolt összegét, amely nem a kisvállalati adóalanyiság időszakára vonatkozik,
-- b) a kisvállalati adóalanyiság időszakára vonatkozó, ki nem fizetett költség, ráfordítás összegét (ideértve az időbeli elhatárolást is).
-
-(20) A pénzforgalmi szemléletű eredményt csökkenti az e törvény szerinti adóalanyiság időszakát megelőző időszakra vonatkozó és az adóalanyiság időszaka alatt visszatérített adó.
+(7) A beszerzett, előállított, korábban még használatba nem vett tárgyi eszközökkel (beruházással), szellemi termékekkel, kísérleti fejlesztés aktivált értékével kapcsolatos adóévi kifizetések összegéig, a korábbi évek elhatárolt veszteségének a (3)–(5) bekezdés szerinti tárgyévi negatív egyenleggel növelt összege, az (1) bekezdéstől függetlenül, a személyi jellegű kifizetések terhére is csökkenti a tárgyév és a következő adóévek adóalapját – függetlenül attól, hogy az érintett eszközöket rendeltetésszerűen használatba vették-e az adóévben. Az adózó által a tárgyévi adóalap csökkentéseként felhasznált tárgyévi negatív egyenleg a (6) bekezdéstől eltérően nem csökkenti a következő évek pozitív adóalapját.
 
 #### 15. Az adó mértéke
 
-21. § (1) Az adó mértéke az adó alapjának 16 százaléka.
+21. § (1) Az adó mértéke az adó alapjának 14 százaléka.
 
 (2) A kisvállalati adó adóalanya mentesül:
 
@@ -434,30 +381,16 @@ bevallása és megfizetése alól.
 
 #### 17. Az adóelőleg és az adó megfizetése
 
-23. § (1) Az adózó az adóévre teljesítendő adóelőleg megállapítási, bevallási és fizetési kötelezettségének az e §-ban foglaltak szerint tesz eleget.
+23. § (1) Az adózó az adóelőleg megállapítási, bevallási és fizetési kötelezettségének negyedévente, a tárgynegyedévet követő hónap 20-áig tesz eleget.
 
-(2) Az adózó az adóelőleg megállapítási, bevallási és fizetési kötelezettségének negyedévente, a tárgynegyedévet követő hónap 20-áig tesz eleget.
+(2) Az adóelőleg összege
 
-(3)
+- a) az adóelőleg-megállapítási időszakban az adóalany által fizetendő, e törvény 20. § (2) bekezdése szerint meghatározott személyi jellegű kifizetések összege, és
+- b) az adóelőleg-megállapítási időszakban jóváhagyott fizetendő osztalék (ide nem értve a kisvállalati adóalanyiságot megelőző adóévek adózott eredménye és eredménytartaléka terhére a kisvállalati adóalanyiság időszakában jóváhagyásra kerülő osztalékot), csökkentve az adóelőleg-megállapítási időszakban bevételként elszámolt osztalék összegével
 
-(4) Az adóelőleg összege, figyelemmel a (6) bekezdésben foglaltakra is
+együttes összegének a 14 százaléka.
 
-- a) az Szt. szerinti pénzeszközök az adóelőleg-megállapítási időszakban realizált változása,
-- b) az adóelőleg-megállapítási időszakban az adóalany által fizetendő, Tbj. szerint járulékalapot képező összes jövedelem, csökkentve a kedvezményezett foglalkoztatott után érvényesíthető kedvezménnyel,
-- c) az adóelőleg-megállapítási időszakban e törvény szerint megfizetett adó, adóelőleg,
-- d) az adóelőleg-megállapítási időszakban kifizetett osztalék (ide nem értve a kisvállalati adóalanyiságot megelőző adóévek adózott eredménye és eredménytartaléka terhére a kisvállalati adóalanyiság időszakában kifizetésre kerülő osztalékot) és a kifizetett osztalékelőleg
-
-együttes összegének a 16 százaléka.
-
-(5) A (4) bekezdéstől eltérően az adóelőleg összege – az adózó választása esetén – a (4) bekezdés a) és b) pontja szerint megállapított összeg, módosítva az e törvény 20. § (4)–(20) bekezdésében meghatározott – a 20. § (9)–(12) és (16) bekezdése esetében az adóelőleg-megállapítási időszakra jutó arányosított – módosító tételekkel. Ha az adózó valamely adóelőleg-megállapítási időszakban e bekezdés szerint állapítja meg az adóelőleg-fizetési kötelezettségét, akkor az adóelőleg összegét az adóév végéig minden esetben e bekezdés alkalmazásával állapítja meg.
-
-(6) A (4)–(5) bekezdéstől függetlenül az adóelőleg összege legalább az adóelőleg-megállapítási időszakban az adóalany által fizetendő – a kedvezményezett foglalkoztatott után érvényesíthető kedvezménnyel csökkentett – Tbj. szerint járulékalapot képező összes jövedelem 16 százaléka.
-
-(7) Ha a (4) és (5) bekezdés szerint meghatározott és az adóelőleg-megállapítási időszakban az adóalany által fizetendő – a kedvezményezett foglalkoztatott után érvényesíthető kedvezménnyel csökkentett – Tbj. szerint járulékalapot képező összes jövedelemmel csökkentett összeg negatív, az adózó jogosult annak összegével a következő adóelőleg-megállapítási időszakokban – de legfeljebb ugyanabban az adóévben – a (4)–(5) bekezdés alkalmazásával megállapított összegnek – a kedvezményezett foglalkoztatott után érvényesíthető kedvezménnyel csökkentett – Tbj. szerint járulékalapot képező jövedelmet meghaladó részét csökkenteni.
-
-(8) Az adóalany az adóévre e törvény szerint megállapított adót – az adóévre már megfizetett adóelőlegek beszámításával – a bevallás benyújtására előírt határidőig megfizeti. Ha az adóévre már megfizetett adóelőlegek összege meghaladja az adóévre megállapított adó összegét, a különbözetet az adóalany bevallásában, az igény (bevallás) beérkezésének napjától, de legkorábban a bevallás benyújtására előírt határidő napjától (esedékességtől) jogosult visszaigényelni.
-
-(9) A kisvállalati adó hatálya alá bejelentkező, az Szt. hatálya alá nem tartozó, bevételi nyilvántartást vezető egyszerűsített vállalkozói adóalany vagy kisadózó vállalkozás a kisvállalati adóalanyiság első adóévében a kisvállalati adóelőleg megállapítási, bevallási és fizetési kötelezettségének az Szt. 2/A. § (4) bekezdése szerinti nyitó mérlegében kimutatott pénzeszközök figyelembevételével tesz eleget.
+(3) Az adóalany az adóévre e törvény szerint megállapított adót – az adóévben már megfizetett adóelőlegek beszámításával – a bevallás benyújtására előírt határidőig megfizeti. Ha az adóévre már megfizetett adóelőlegek összege meghaladja az adóévre megállapított adó összegét, a különbözetet az adóalany bevallásában, a bevallás beérkezésének napjától, de legkorábban a bevallás benyújtására előírt határidő napjától (esedékességtől) jogosult visszaigényelni.
 
 #### 18. A kettős adóztatás elkerülése
 
@@ -507,7 +440,7 @@ együttes összegének a 16 százaléka.
 
 csökkentve azzal az eredménytartalékkal, eredménytartalékból lekötött tartalékkal, eredménytartalékból jóváhagyott osztalékfizetési kötelezettséggel, adózott eredmény terhére fizetett (jóváhagyott) osztalékfizetési kötelezettséggel, adózott eredménnyel, amely az adóalany egyszerűsített vállalkozói adó szerinti adóalanyiságának időtartama alatt keletkezett..
 
-(3) A (2) bekezdés szerinti összeg után a közkereseti társaság, a betéti társaság és az egyéni cég adót (a továbbiakban: az osztalék utáni adót kiváltó adó) fizet. Az osztalék utáni adót kiváltó adó a (2) bekezdés szerinti összeg 16 százaléka, amelyet az adózó az üzleti évre vonatkozó társaságiadó-bevallásában, vagy egyszerűsített vállalkozói adóról szóló bevallásában, vagy kisvállalatiadó-bevallásában elkülönítetten vall be. A bevallott összeget három egyenlő részletben, az üzleti évre vonatkozó társaságiadó-bevallás, vagy egyszerűsített vállalkozói adóról szóló bevallás, vagy kisvállalatiadó-bevallás benyújtására előírt határidőig és az üzleti évet követő két adóévre – de legkésőbb a kisadózó vállalkozások tételes adója szerinti adóalanyisága megszűnése évét követő év február 25-ig – az adóév február 25-ig fizet meg.
+(3) A (2) bekezdés szerinti összeg után a közkereseti társaság, a betéti társaság és az egyéni cég adót (a továbbiakban: az osztalék utáni adót kiváltó adó) fizet. Az osztalék utáni adót kiváltó adó a (2) bekezdés szerinti összeg 15 százaléka, amelyet az adózó az üzleti évre vonatkozó társaságiadó-bevallásában, vagy egyszerűsített vállalkozói adóról szóló bevallásában, vagy kisvállalatiadó-bevallásában elkülönítetten vall be. A bevallott összeget három egyenlő részletben, az üzleti évre vonatkozó társaságiadó-bevallás, vagy egyszerűsített vállalkozói adóról szóló bevallás, vagy kisvállalatiadó-bevallás benyújtására előírt határidőig és az üzleti évet követő két adóévre – de legkésőbb a kisadózó vállalkozások tételes adója szerinti adóalanyisága megszűnése évét követő év február 25-ig – az adóév február 25-ig fizet meg.
 
 (4) A közkereseti társaság, a betéti társaság és az egyéni cég, ha olyan immateriális jószágot vagy tárgyi eszközt ad ingyenesen vagy kedvezményesen magánszemély részére, amely eszköz könyv szerinti értéke alapján az osztalék utáni adót kiváltó adó alapját csökkentette, akkor az ezen juttatás könyv szerinti értékének megfelelő jövedelemre – az Szja tv.-nek és az Art.-nak egyes, a kifizetőt terhelő adó mellett adható juttatásokra vonatkozó rendelkezései szerint – a személyi jövedelemadót megállapítja, megfizeti és bevallja.
 
@@ -527,7 +460,11 @@ csökkentve azzal az eredménytartalékkal, eredménytartalékból lekötött ta
 
 (3) A Tao. tv. 22/A. § (5) bekezdésében meghatározott esetben az e törvényben meghatározott adóalany a visszafizetendő társasági adókedvezményt az adókötelezettség keletkezését kiváltó esemény évéről benyújtott bevallásában vallja be.
 
-(4) Az e törvény szerint meghatározott adóalanyiság időszaka alatt megszerzett immateriális jószág, tárgyi eszköz alapján az adózó az adóalanyiság megszűnése után a társasági adó alapjánál értékcsökkenési leírást nem érvényesíthet.
+(4) Az e törvény szerint meghatározott adóalanyiság időszaka alatt megszerzett, előállított immateriális jószág, tárgyi eszköz alapján az adózó az adóalanyiság megszűnése után a társasági adó alapjánál értékcsökkenési leírást nem érvényesíthet.
+
+(4a) Amennyiben a kisvállalati adóalanyiság időszaka alatt keletkezett eredménytartaléknak a kisvállalati adóalanyiság időszaka alatt bevételként elszámolt osztalék összegével, a kisvállalati adóalanyiság időszaka alatt megszerzett, előállított immateriális jószág, tárgyi eszköz könyv szerinti értékével csökkentett értéke pozitív, akkor az adózó a kisvállalati adóalanyiság megszűnésére tekintettel az eredménytartalékból ezzel az értékkel azonos összegű lekötött tartalékot képez. Az így keletkező lekötött tartalék felhasználásával és feloldásával összefüggésben – a társasági adóalanyiság időszaka alatt – a fejlesztési tartalékra vonatkozó szabályokat kell alkalmazni, azzal, hogy a szóban forgó összeggel az adózás előtti eredmény nem csökkenthető, továbbá, hogy a nem beruházási célra történő feloldás esetén késedelmi pótlékot nem kell érvényesíteni.
+
+(4b) A kisvállalati adóalanyiság időszaka alatt keletkezett elhatárolt veszteségnek a kisvállalati adóalanyiság időszakában az adóalap csökkentéseként fel nem használt részét a kisvállalati adóalanyiság megszűnését követően a társasági adó alanya – a visszatérést követő 5 adóéven belül – elhatárolt veszteségként figyelembe veheti. Amennyiben a (4a) bekezdés szerint meghatározott érték negatív, annak abszolút értéke az elhatárolt veszteséget növeli.
 
 (5) Az adózó választása szerint nem alkalmazza a Tao. tv. 16. § (1) bekezdés c) pont ca) alpontjában foglaltakat.
 
@@ -535,7 +472,7 @@ csökkentve azzal az eredménytartalékkal, eredménytartalékból lekötött ta
 
 (7) Az e törvény szerint meghatározott adóalanyiság időszakában lezárt adóévet figyelembe kell venni az olyan adókedvezmény tekintetében, amelyet az adózó a Tao. tv. rendelkezései szerint meghatározott számú adóévben vehet igénybe.
 
-(8) A kisvállalati adóalanyiság előtt megszerzett immateriális jószág, tárgyi eszköz (ideértve a beruházást is) számított nyilvántartási értéke az e törvény szerinti adóalanyiságot megelőző utolsó adóévben meghatározott Tao. tv. 4. § 31/a. pontja szerinti számított nyilvántartási érték, csökkentve a kisvállalati adóalanyiság időszakában a 20. § (16) bekezdése alapján a pénzforgalmi szemléletű eredmény csökkentéseként figyelembe vett összeggel.
+(8) A kisvállalati adóalanyiság előtt megszerzett immateriális jószág, tárgyi eszköz (ideértve a beruházást is) számított nyilvántartási értéke az e törvény szerinti adóalanyiságot megelőző utolsó adóévben meghatározott Tao. tv. 4. § 31/a. pontja szerinti számított nyilvántartási érték, csökkentve a kisvállalati adóalanyiság időszakában elszámolt számviteli értékcsökkenés összegével.
 
 (9) E törvénynek az egyes törvényeknek a központi költségvetésről szóló törvény megalapozásával összefüggő, valamint egyéb célú módosításáról szóló 2012. évi CCVIII. törvénnyel megállapított 19. § (3) bekezdését az egyes törvényeknek a központi költségvetésről szóló törvény megalapozásával összefüggő, valamint egyéb célú módosításáról szóló 2012. évi CCVIII. törvény hatálybalépésekor folyamatban lévő bejelentésekre is alkalmazni kell.
 
@@ -574,6 +511,16 @@ csökkentve azzal az eredménytartalékkal, eredménytartalékból lekötött ta
 (4) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 23. § (5) bekezdés rendelkezését a 2013. adóévre az adózó választása szerint alkalmazza.
 
 (5) Az állami adó- és vámhatóság e törvénynek az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel megállapított módosításairól 2016. november 1-jéig tájékoztatást nyújt az érintett adózónak.
+
+(6) Az állami adó- és vámhatóság a nyilvántartásában szereplő adatok alapján megállapítja az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel megállapított 20. § (4) bekezdés d) pontja szerinti csökkentő tétel összegét és arról, valamint annak levezetéséről 2017. december 31-ig tájékoztatást küld az érintett adózónak.
+
+(7) E törvénynek az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel megállapított 20. § (4) bekezdés d) pontját az adózó abban az adóévben alkalmazhatja, melynek első napja 2017-ben van.
+
+(8) E törvénynek az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel megállapított 20. § (3) bekezdés b) pontját és 20. § (4) bekezdés b) pontját a 2017. adóévi adókötelezettség megállapításakor a kisvállalati adóalanyiság időszaka alatt jóváhagyott, de még be nem folyt vagy ki nem fizetett osztalék összegére is alkalmazni kell.
+
+(9) E törvénynek az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel megállapított 20. § (3) bekezdés b) pontja szerint meghatározott módosító tétel összegét csökkenti a 2017. adóévi adókötelezettség megállapításakor a 2017. adóévben jóváhagyott osztalékra tekintettel a kisvállalati adóalanyiság időszaka alatt, 2016. december 31-ig kifizetett osztalékelőleg összege.
+
+(10) E törvénynek az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel megállapított 20. § (4) bekezdés b) pontja szerint meghatározott módosító tétel összegét növeli a 2017. adóévi adókötelezettség megállapításakor a 2017. adóévben jóváhagyott osztalékra tekintettel kisvállalati adóalanyiság időszaka alatt, 2016. december 31-ig kapott osztalékelőleg összege.
 
 32/A. § Ahol e törvény csecsemőgondozási díjat említ, azon terhességi-gyermekágyi segélyt kell érteni, ha az ellátásra való jogosultság 2015. január 1-jét megelőzően nyílt meg.
 

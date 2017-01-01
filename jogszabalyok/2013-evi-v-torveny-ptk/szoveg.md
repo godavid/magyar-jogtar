@@ -1139,7 +1139,7 @@ Az egyesület létrehozásához alapszabály elfogadása, az alapszabály elfoga
 
 (3) A tag tagsági jogait személyesen gyakorolhatja. A tag tagsági jogait akkor gyakorolhatja képviselőn keresztül, ha azt az alapszabály lehetővé teszi. A tagsági jogok forgalomképtelenek és nem örökölhetők.
 
-(4) A tagok – a tagdíj megfizetésén túl – az egyesület tartozásaiért saját vagyonukkal nem felelnek.
+(4) Az egyesület tagja nem köteles vagyoni hozzájárulást teljesíteni. A tag az egyesület tartozásaiért saját vagyonával nem felel.
 
 #### 3:66. § [A tagok kötelezettsége]
 
@@ -1172,67 +1172,82 @@ Az egyesület létrehozásához alapszabály elfogadása, az alapszabály elfoga
 
 #### 3:70. § [A tag kizárása]
 
-(1) A tagnak jogszabályt, az egyesület alapszabályát vagy közgyűlési határozatát súlyosan vagy ismételten sértő magatartása esetén a közgyűlés – bármely egyesületi tag vagy egyesületi szerv kezdeményezésére – a taggal szemben kizárási eljárást folytathat le, ha az alapszabály a tisztességes eljárást biztosító szabályokat meghatározta.
+(1) A tagnak jogszabályt, az egyesület alapszabályát vagy közgyűlési határozatát súlyosan vagy ismételten sértő magatartása esetén – bármely egyesületi tag vagy egyesületi szerv kezdeményezésére – a taggal szemben kizárási eljárás folytatható le, ha az alapszabály a kizárást lefolytató szervet és a tisztességes eljárást biztosító szabályokat meghatározta.
 
 (2) A tag kizárását kimondó határozatot írásba kell foglalni és indokolással kell ellátni; az indokolásnak tartalmaznia kell a kizárás alapjául szolgáló tényeket és bizonyítékokat, továbbá a jogorvoslati lehetőségről való tájékoztatást. A kizáró határozatot a taggal közölni kell.
 
 (3) Az alapszabály a kizáró határozat ellen fellebbezési lehetőséget biztosíthat, ebben az esetben az alapszabályban rendelkezni kell a fellebbezési eljárásról és a fellebbezést elbíráló egyesületi szervről.
 
-### VIII. CÍM — AZ EGYESÜLET ALAPSZABÁLYA ÉS SZERVEI
+(4) Semmis az alapszabály olyan rendelkezése, amely az (1)–(3) bekezdésben foglalt szabályoktól eltér.
 
-#### 3:71. § [Az alapszabály tartalmi elemei és értelmezése]
+### VIII. CÍM — AZ EGYESÜLET SZERVEI
 
-(1) A jogi személy létesítő okiratának általános kötelező tartalmi elemein túl az egyesület alapszabályában meg kell határozni
-
-- a) a tag jogait és kötelezettségeit;
-- b) az egyesület szerveit és azok hatáskörét, továbbá a tagokra, a vezető tisztségviselőkre és a felügyelőbizottsági tagokra vonatkozó kizáró és összeférhetetlenségi szabályokat;
-- c) a jogszabályt, az alapszabályt vagy az egyesületi határozatot sértő vagy az egyesület céljával összeegyezhetetlen tagi magatartás esetén alkalmazható jogkövetkezményeket és a taggal szembeni eljárás szabályait vagy mindezeknek a mellőzését;
-- d) a közgyűlés összehívásának és lebonyolításának, a közgyűlés helye meghatározásának, a közgyűlési meghívó tartalmának, a napirendnek, a közgyűlés tisztségviselőinek, a levezető elnöknek, a szavazatszámlálók megválasztásának, a határozatképességnek, a szavazásnak, a jegyzőkönyvvezetésnek, valamint a határozatok kihirdetésének szabályait; és
-- e) a szavazati jog gyakorlásának feltételeit.
-
-(2) Az alapszabályt az egyesület céljának figyelembevételével kell értelmezni.
-
-#### 3:72. § [Közgyűlés, küldöttgyűlés]
+#### 3:71. § [Közgyűlés, a közgyűlés hatásköre. A küldöttgyűlés]
 
 (1) Az egyesület döntéshozó szerve a közgyűlés.
 
 (2) A tag jogosult a közgyűlésen részt venni, szavazati jogát gyakorolni, a közgyűlés rendjének megfelelően felszólalni, kérdéseket feltenni, javaslatokat és észrevételeket tenni.
 
-(3) Ha az alapszabály küldöttgyűlés működését írja elő, meg kell határoznia a küldöttek választásának módját. A küldöttgyűlésre egyebekben a közgyűlés szabályait kell megfelelően alkalmazni.
+(3) A közgyűlés hatáskörébe tartozik az alapszabály módosítása; az alapszabály ettől eltérő rendelkezése semmis.
 
-#### 3:73. § [A közgyűlés ülésezése]
+(4) Ha az alapszabály küldöttgyűlés működését írja elő, meg kell határoznia a küldöttek választásának módját. A küldöttgyűlésre egyebekben a közgyűlés szabályait kell megfelelően alkalmazni.
 
-(1) A közgyűlés évente legalább egy alkalommal ülésezik. A létesítő okirat ennél ritkább ülésezést előíró rendelkezése semmis.
+#### 3:72. § [A közgyűlés összehívása és napirendje]
 
-(2) A közgyűlés nem nyilvános; azon a tagokon és az ügyvezetésen kívül a közgyűlés összehívására jogosult által meghívottak és az alapszabály vagy a közgyűlés határozata alapján tanácskozási joggal rendelkező személyek vehetnek részt.
+(1) A közgyűlés évente legalább egy alkalommal ülésezik. Az alapszabály négy évnél ritkább ülésezést előíró rendelkezése semmis. A közgyűlési meghívó elküldése és a közgyűlés napja között legalább tizenöt napnak kell eltelnie.
 
-#### 3:74. § [A közgyűlés hatásköre]
+(2) A közgyűlési meghívó az általános tartalmi elemeken túl tartalmazza
 
-A közgyűlés hatáskörébe tartozik
+- a) határozatképtelenség esetére a megismételt közgyűlés időpontját, helyét és az eltérő határozatképességi szabályokra vonatkozó figyelemfelhívást; és
+- b) küldöttgyűlés tartása esetén az erre a körülményre történő utalást.
 
-- a) az alapszabály módosítása;
-- b) az egyesület megszűnésének, egyesülésének és szétválásának elhatározása;
-- c) a vezető tisztségviselő megválasztása, visszahívása és díjazásának megállapítása;
-- d) az éves költségvetés elfogadása;
-- e) az éves beszámoló – ezen belül az ügyvezető szervnek az egyesület vagyoni helyzetéről szóló jelentésének – elfogadása;
-- f) a vezető tisztségviselő feletti munkáltatói jogok gyakorlása, ha a vezető tisztségviselő az egyesülettel munkaviszonyban áll;
-- g) az olyan szerződés megkötésének jóváhagyása, amelyet az egyesület saját tagjával, vezető tisztségviselőjével, a felügyelőbizottság tagjával vagy ezek hozzátartozójával köt;
-- h) a jelenlegi és korábbi egyesületi tagok, a vezető tisztségviselők és a felügyelőbizottsági tagok vagy más egyesületi szervek tagjai elleni kártérítési igények érvényesítéséről való döntés;
-- i) a felügyelőbizottság tagjainak megválasztása, visszahívásuk és díjazásuk megállapítása;
-- j) a választott könyvvizsgáló megválasztása, visszahívása és díjazásának megállapítása; és
-- k) a végelszámoló kijelölése.
+(3) A közgyűlés helyszínét elegendő a meghívóban megjelölni akkor is, ha az eltér az egyesület székhelyétől.
 
-#### 3:75. § [A napirend kiegészítése]
+(4) A közgyűlés napirendjére tűzött ügyekre vonatkozóan az ügyvezetés a tagnak – kérelmére – köteles felvilágosítást adni.
+
+#### 3:73. § [A napirend kiegészítése]
 
 (1) A közgyűlési meghívó kézbesítésétől vagy közzétételétől számított, az alapszabályban meghatározott időn belül a tagok és az egyesület szervei a közgyűlést összehívó szervtől vagy személytől a napirend kiegészítését kérhetik, a kiegészítés indokolásával.
 
 (2) A napirend kiegészítésének tárgyában a közgyűlést összehívó szerv vagy személy jogosult dönteni. Ha a napirend kiegészítése iránti kérelemről a közgyűlést összehívó szerv vagy személy nem dönt vagy azt elutasítja, a közgyűlés a napirend elfogadásáról szóló határozat meghozatalát megelőzően külön dönt a napirend kiegészítésének tárgyában.
 
-#### 3:76. § [Határozathozatal]
+#### 3:74. § [A közgyűlés ülésezése]
 
-(1) Az egyesület alapszabályának módosításához a jelen lévő tagok háromnegyedes szótöbbséggel hozott határozata szükséges.
+(1) A közgyűlés nem nyilvános; azon a tagokon és az ügyvezetésen kívül a közgyűlés összehívására jogosult által meghívottak és az alapszabály vagy a közgyűlés határozata alapján tanácskozási joggal rendelkező személyek vehetnek részt.
+
+(2) A tag a közgyűlés ülésén tagsági jogait személyes részvétel helyett elektronikus hírközlő eszközök igénybevételével akkor gyakorolhatja, ha az alapszabály az igénybe vehető elektronikus hírközlő eszközöket, valamint azok alkalmazásának feltételeit és módját úgy határozza meg, hogy a tagok azonosítása és a tagok közötti kölcsönös és korlátozásmentes kommunikáció biztosított legyen.
+
+(3) Ha a közgyűlést nem szabályszerűen hívták össze, az ülést akkor lehet megtartani, ha az ülésen a részvételre jogosultak legalább háromnegyede jelen van, és egyhangúlag hozzájárul az ülés megtartásához.
+
+(4) A szabályszerűen közölt napirenden szereplő kérdésben hozható határozat, kivéve, ha a részvételre jogosultak legalább háromnegyede jelen van és a napirenden nem szereplő kérdés megtárgyalásához egyhangúlag hozzájárul.
+
+(5) A (3) és (4) bekezdésekben foglalt esetek körébe nem eső, nem szabályosan összehívott vagy megtartott közgyűlésen elfogadott és ebből az okból érvénytelen határozat az elfogadásának időpontjára visszamenő hatállyal érvényessé válik, ha a határozatot a közgyűlés napjától számított harminc napon belül valamennyi tag egyhangúlag érvényesnek ismeri el. Semmis az alapszabály olyan rendelkezése, amely az egyhangúságra vonatkozó feltételtől eltér.
+
+#### 3:75. § [Jelenléti ív. Jegyzőkönyv]
+
+(1) A közgyűlésen megjelent tagokról jelenléti ívet kell készíteni, amelyen fel kell tüntetni a tag, valamint – ha az alapszabály a képviselő útján történő részvételt lehetővé teszi – képviselője nevét és lakóhelyét vagy székhelyét, és – ha a tagokat nem azonos számú szavazat illeti meg – a tagot megillető szavazatok számát. A jelenléti ívet a közgyűlés levezető elnöke és a jegyzőkönyvvezető aláírásával hitelesíti.
+
+(2) A közgyűlésről jegyzőkönyvet kell készíteni, amely tartalmazza
+
+- a) az egyesület nevét és székhelyét;
+- b) a közgyűlés helyét és idejét;
+- c) a közgyűlés levezető elnökének, a jegyzőkönyvvezetőnek, a jegyzőkönyv hitelesítőjének a nevét;
+- d) a közgyűlésen lezajlott fontosabb eseményeket, az elhangzott indítványokat;
+- e) a határozati javaslatokat, a leadott szavazatok és ellenszavazatok, valamint a szavazástól tartózkodók számát.
+
+(3) A jegyzőkönyvet a jegyzőkönyvvezető és a közgyűlés levezető elnöke írja alá, és egy erre megválasztott, jelen lévő tag hitelesíti.
+
+(4) Az egyesület ügyvezetése köteles a közgyűlési jegyzőkönyvet, valamint a jelenléti ívet az egyesület dokumentumai között elhelyezni és megőrizni.
+
+(5) Bármely tag a közgyűlési jegyzőkönyv másolatának vagy a jegyzőkönyv egy részét tartalmazó kivonatának a kiadását kérheti az ügyvezetéstől.
+
+#### 3:76. § [Határozathozatal, megismételt közgyűlés]
+
+(1) Az egyesület alapszabályának módosításához, az egyesület egyesüléséhez és szétválásához a közgyűlés háromnegyedes szótöbbséggel hozott határozata szükséges.
 
 (2) Az egyesület céljának módosításához és az egyesület megszűnéséről szóló közgyűlési döntéshez a szavazati joggal rendelkező tagok háromnegyedes szótöbbséggel hozott határozata szükséges.
+
+(3) Ha a közgyűlés határozatképtelen, a megismételt közgyűlés az eredeti napirenden szereplő ügyekben a megjelent tagok számára tekintet nélkül határozatképes, ha azt az eredeti időpontot legalább három és legfeljebb tizenöt nappal követő időpontra hívják össze.
 
 #### 3:77. § [Az ügyvezetés ellátása]
 
@@ -1240,7 +1255,7 @@ Az egyesület ügyvezetését az egyesület ügyvezetője vagy az elnökség lá
 
 #### 3:78. § [Elnökség]
 
-(1) Az elnökség három tagból áll. Az elnökség az elnökét maga választja tagjai közül.
+(1) Az elnökség három tagból áll. Semmis az alapszabály olyan rendelkezése, amely háromnál kevesebb tagú elnökség felállítását írja elő.
 
 (2) Az elnökség tagjai kötelesek a közgyűlésen részt venni, a közgyűlésen az egyesülettel kapcsolatos kérdésekre válaszolni, az egyesület tevékenységéről és gazdasági helyzetéről beszámolni.
 
@@ -1282,9 +1297,11 @@ Az ügyvezetés feladatkörébe tartozik
 
 (2) Az (1) bekezdés alapján összehívott közgyűlésen a tagok kötelesek az összehívásra okot adó körülmény megszüntetése érdekében intézkedést tenni vagy az egyesület megszüntetéséről dönteni.
 
+(3) Semmis az alapszabály olyan rendelkezése, amely az (1) és a (2) bekezdésben foglalt szabályoknál az egyesületre nézve enyhébb követelményeket ír elő.
+
 #### 3:82. § [A felügyelőbizottság létrehozásának kötelező esetei]
 
-(1) Kötelező felügyelőbizottságot létrehozni, ha a tagok több mint fele nem természetes személy, vagy ha a tagság létszáma a száz főt meghaladja.
+(1) Kötelező felügyelőbizottságot létrehozni, ha a tagok több mint fele nem természetes személy, vagy ha a tagság létszáma a száz főt meghaladja. Az alapszabály ettől eltérő rendelkezése semmis
 
 (2) A felügyelőbizottság feladata az egyesületi szervek, valamint a jogszabályok, az alapszabály és az egyesületi határozatok végrehajtásának, betartásának ellenőrzése.
 
@@ -11966,19 +11983,15 @@ Ha jogszabály a jogszerűen okozott kárért kártalanítási kötelezettséget
 
 ## ÖTÖDIK RÉSZ — AZ ÉRTÉKPAPÍR
 
-### XXIX. CÍM — ÁLTALÁNOS SZABÁLYOK
+### XXIX. CÍM — AZ ÉRTÉKPAPÍR FOGALMA ÉS ALAKI LEGITIMÁCIÓS HATÁSA
 
 #### 6:565. § [Az értékpapír fogalma]
 
-(1) Ha valaki írásban, nem elektronikus formában vagy elektronikus formában rögzített és értékpapírszámlán nyilvántartott (dematerializált) módon egyoldalúan kötelezettséget vállal arra, hogy ő maga vagy a nyilatkozatában megjelölt más személy a nyilatkozatban rögzített jog gyakorlását a nyilatkozatban meghatározott feltételek szerint az okirat vagy az értékpapírszámla által jogosultként igazolt személy részére biztosítja, vagy az okiratban, illetve az elektronikus úton rögzített nyilatkozat szerinti szolgáltatást az okirat vagy az értékpapírszámla által jogosultként igazolt személy részére teljesíti, az okirat, illetve a nyilatkozatot rögzítő elektronikus jelsorozat értékpapírnak minősül.
+(1) Az értékpapír olyan egyoldalú jognyilatkozat, amely papíralapú okiratként vagy jogszabályban megjelölt más módon létrehozott, rögzített, nyilvántartott és továbbított adatösszességként (dematerializált értékpapírként) a benne foglalt jogot úgy testesíti meg, hogy azt a jogot gyakorolni, arról rendelkezni csak az értékpapír által, annak birtokában lehet.
 
-(2) Aki a kötelezettségvállalását tartalmazó értékpapírt a kötelezettség vállalásának céljával más birtokába adja, vagy intézkedik annak érdekében, hogy a dematerializált értékpapír a jogosult értékpapírszámláján nyilvántartásba vételre kerüljön, az értékpapír tartalma szerint válik kötelezetté az értékpapír által jogosultként igazolt személlyel szemben.
+(2) Ha jogszabály meghatározza egyes értékpapírfajták kötelező tartalmi elemeit, kizárólag az ezeknek megfelelő okiratot vagy dematerializált értékpapírt lehet az adott értékpapírfajtába tartozó értékpapírnak tekinteni.
 
-(3) Az értékpapírban rögzített jog gyakorlása vagy követelés érvényesítése, továbbá a jog vagy követelés bizonyítása, illetve átruházása kizárólag az értékpapír által lehetséges.
-
-(4) Ha jogszabály meghatározza egyes értékpapírfajták kötelező tartalmi elemeit, kizárólag az ezeknek megfelelő okiratot vagy számítógépes jelet lehet az adott értékpapírfajtába tartozó értékpapírnak tekinteni.
-
-(5) Jogszabály által nem szabályozott értékpapírfajta estében az okirat vagy számítógépes jel akkor minősül értékpapírnak, ha a kibocsátója az értékpapírban legalább az alábbi tartalmi elemeket feltünteti:
+(3) Ha az adott értékpapírfajta kötelező tartalmi elemeit más jogszabály nem határozza meg, az csak akkor minősül értékpapírnak, ha azon a kibocsátója legalább az alábbiakat feltünteti:
 
 - a) a kibocsátó nevét és címét;
 - b) azt, hogy a nyilatkozat értékpapírnak minősül;
@@ -11987,123 +12000,73 @@ Ha jogszabály a jogszerűen okozott kárért kártalanítási kötelezettséget
 - e) a kibocsátás helyét és időpontját;
 - f) okirati formában kibocsátott értékpapír esetén a kibocsátó aláírását.
 
-(6) Az értékpapír átruházható. A kibocsátó az értékpapír átruházását - a tilalomnak az értékpapírban való feltüntetésével - megtilthatja.
+(4) Okirati formában egyedileg vagy sorozatban kibocsátott értékpapírt lehet előállítani. Értékpapírnak minősülő okiratot bemutatóra vagy névre szólóan lehet kiállítani.
 
-#### 6:566. § [Kifogáskorlátozás]
+(5) Dematerializált értékpapírként sorozatban kibocsátott, névre szóló értékpapírt lehet előállítani.
 
-Az értékpapír kötelezettje a jóhiszemű jogosulttal szemben az értékpapír vagy az értékpapírszámla tartalmából kitűnő kifogásokon kívül nem hivatkozhat olyan kifogásokra, amelyek valamely korábbi jogosulttal szemben fennálló személyes viszonyán alapulnak.
+(6) Az értékpapír átruházható. A kibocsátó az értékpapír átruházását – a tilalomnak az értékpapírban való feltüntetésével – megtilthatja.
 
-#### 6:567. § [Az eltérő szabályozás lehetősége]
+(7) Nem szünteti meg az értékpapír által megtestesített kötelmet az, ha az értékpapírt annak kibocsátója szerzi meg.
 
-Jogszabály az értékpapírokra nemzetközi egyezmény alapján az e részben foglalt rendelkezésektől eltérő szabályokat állapíthat meg.
+#### 6:566. § [Az értékpapírok alaki legitimációs hatása és kibocsátásának hibája]
 
-### XXX. CÍM — AZ OKIRATI FORMÁBAN ELŐÁLLÍTOTT ÉRTÉKPAPÍROK
+(1) Az értékpapír kiállítóját az értékpapír jóhiszemű jogosultjával szemben akkor is terhelik az értékpapírban rögzített kötelezettségek, ha az értékpapír kibocsátás nélkül vagy érvénytelen ügylettel került forgalomba.
 
-#### 6:568. § [Az okirati formában előállított értékpapír kibocsátásának hibája]
+(2) Az értékpapír jóhiszemű jogosultjának az értékpapírból eredő jogosultságát nem befolyásolja az, ha valamely korábbi átruházásnak vagy más tulajdonszerzésnek nem volt jogcíme, vagy ha a jogcím érvénytelen vagy hatálytalan volt.
 
-Az okirati formában előállított értékpapír kiállítóját az értékpapír jóhiszemű jogosultjával szemben akkor is terhelik az értékpapírban rögzített kötelezettségek, ha az értékpapír kibocsátás nélkül vagy érvénytelen ügylettel került forgalomba.
+(3) A bemutatóra szóló értékpapír esetén az értékpapír birtokosát kell az értékpapírban rögzített jog gyakorlására jogosult személynek tekinteni.
 
-#### 6:569. § [Az okirati formában előállított értékpapírok átruházásának módja]
+(4) Névre szóló értékpapír esetén azt kell az értékpapírban rögzített jog gyakorlására jogosult személynek tekinteni, akit az értékpapír jogosultként megjelöl, vagy akit a forgatmányok megszakítatlan láncolata jogosultként igazol. Ha az utolsó forgatmány üres, az értékpapír birtokosát kell jogosultnak tekinteni, feltéve, hogy a forgatmányok láncolata megszakítatlan. Ha valamely üres forgatmányra újabb forgatmány következik, az utóbbi aláíróját úgy kell tekinteni, mint aki az értékpapírt üres forgatmány útján szerezte meg.
 
-(1) Az olyan okirati formában előállított értékpapír, amely nem tartalmazza a jogosult megnevezését, vagy tartalmazza ugyan, de az értékpapír tartalma szerint a kötelezett nemcsak a megjelölt személynek, hanem az értékpapír bármely bemutatójának köteles teljesíteni (a továbbiakban: bemutatóra szóló értékpapír), az átruházásra irányuló jogcímen alapuló birtokátruházással ruházható át.
+(5) Ha a névre szóló értékpapír jogosultjának személye nem átruházás útján változik meg, az új jogosult a jogszerzését igazolni köteles. A nem átruházás útján való jogszerzést követően az értékpapírra vezetett forgatmányok megszakítatlan láncolata az értékpapír birtokosát a nem átruházás útján való jogszerzés igazolásától függően igazolja jogosultként. Ha jogszabály meghatározott személyt feljogosít a nem átruházás útján való igazolt jogszerzésnek a forgatmányi láncolatban való feltüntetésére, az ilyen bejegyzés biztosítja a forgatmányi láncolat megszakítatlanságát, és a jogszerzés hiánya, érvénytelensége vagy hatálytalansága az értékpapír jogosultjának tekintendő jóhiszemű harmadik személynek az értékpapírból eredő jogosultságát nem befolyásolja.
 
-(2) Az olyan okirati formában előállított értékpapír átruházásához, amely tartalmazza a jogosult megnevezését, és nem tartalmaz olyan kikötést, amely szerint a kötelezett az értékpapír bármely bemutatójának köteles teljesíteni (a továbbiakban: névre szóló értékpapír), az átruházásra irányuló jogcímen alapuló birtokátruházáson kívül teljes vagy üres forgatmány szükséges.
+(6) A dematerializált értékpapír jogosultjának – ellenkező bizonyítás hiányában – annak az értékpapírszámlának a jogosultját kell tekinteni, amelyiken a dematerializált értékpapírt nyilvántartják.
 
-(3) A teljes forgatmány a névre szóló értékpapírra vagy az ahhoz csatolt lapra (a továbbiakban: toldatra) vezetett, az átruházó által aláírt írásbeli nyilatkozat, amely kifejezi az értékpapír átruházásának szándékát, és megjelöli azt a személyt, akire az értékpapírt átruházzák.
+#### 6:567. § [Kifogáskorlátozás]
 
-(4) Az üres forgatmány az értékpapír hátlapjára vagy a toldatra rávezetett, az átruházó által aláírt írásbeli nyilatkozat, amely kifejezi az értékpapír átruházásának szándékát, de nem tartalmazza annak a személynek a megjelölését, akire az értékpapírt átruházzák. Üres forgatmánynak minősül az átruházónak az értékpapír hátlapján vagy a toldaton szereplő aláírása is.
+Az értékpapír kötelezettje a jóhiszemű jogosulttal szemben az értékpapír vagy az értékpapírszámla tartalmából kitűnő kifogásokon kívül nem hivatkozhat olyan kifogásokra, amelyek valamely korábbi jogosulttal szembeni jogviszonyán alapulnak.
 
-(5) Az okirati formában előállított értékpapír üres forgatmánnyal való átruházása esetén az értékpapír birtokosa
+#### 6:568. § [Az e részben foglalt szabályoktól való eltérés lehetősége]
+
+Az e részben foglalt rendelkezésektől annyiban lehet eltérni, amennyiben azt más jogszabály lehetővé teszi.
+
+### XXX. CÍM — AZ ÉRTÉKPAPÍROK ÁTRUHÁZÁSÁNAK MÓDJA ÉS SEMMISSÉ NYILVÁNÍTÁSA
+
+#### 6:569. § [Az értékpapírok átruházásának módja]
+
+(1) Az olyan okirati formában előállított értékpapír, amely nem tartalmazza a jogosult megnevezését vagy tartalmazza ugyan, de az értékpapír tartalma szerint a kötelezett nemcsak a megjelölt személynek, hanem az értékpapír bármely bemutatójának köteles teljesíteni, az átruházásra irányuló jogcímen alapuló birtokátruházással ruházható át.
+
+(2) Az olyan okirati formában előállított értékpapír átruházásához, amely tartalmazza a jogosult megnevezését, és nem tartalmaz olyan kikötést, amely szerint a kötelezett az értékpapír bármely bemutatójának köteles teljesíteni, az átruházásra irányuló jogcímen alapuló birtokátruházáson kívül teljes vagy üres forgatmány szükséges.
+
+(3) A teljes forgatmány a névre szóló okirati formában előállított értékpapírra vagy az ahhoz csatolt lapra (a továbbiakban: toldatra) vezetett, az átruházó által aláírt írásbeli nyilatkozat, amely kifejezi az értékpapír átruházásának szándékát, és megjelöli azt a személyt, akire az értékpapírt átruházzák.
+
+(4) Az üres forgatmány a névre szóló okirati formában előállított értékpapír hátlapjára vagy a toldatra rávezetett, az átruházó által aláírt írásbeli nyilatkozat, amely kifejezi az értékpapír átruházásának szándékát, de nem tartalmazza annak a személynek a megjelölését, akire az értékpapírt átruházzák. Üres forgatmánynak minősül az átruházónak az értékpapír hátlapján vagy a toldaton szereplő aláírása is.
+
+(5) A névre szóló okirati formában előállított értékpapír üres forgatmánnyal való átruházása esetén az értékpapír birtokosa
 
 - a) az üres forgatmányt kitöltheti a saját vagy más személy nevére;
 - b) az értékpapírt átruházhatja üres vagy teljes forgatmánnyal;
 - c) az értékpapír birtokát harmadik személyre átruházhatja anélkül, hogy az üres forgatmányt kitöltené és az értékpapírt újabb forgatmánnyal látná el.
 
-(6) Ha jogszabály felhatalmazása alapján a kibocsátó a névre szóló értékpapírba felvett írásbeli nyilatkozatával a forgatmány útján való átruházás lehetőségét kizárja (a továbbiakban: negatív rendeleti záradék), az értékpapír az engedményezés hatályával ruházható át.
+(6) Ha jogszabály felhatalmazása alapján a kibocsátó a névre szóló okirati formában előállított értékpapírba felvett írásbeli nyilatkozatával a forgatmány útján való átruházás lehetőségét kizárja (a továbbiakban: negatív rendeleti záradék), az okirati értékpapír az engedményezés hatályával ruházható át.
 
-#### 6:570. § [Az okirati formában előállított értékpapír átruházásának joghatása]
+(7) A dematerializált értékpapír átruházásához az átruházásra irányuló szerződés vagy más jogcím, valamint az átruházó értékpapírszámlájának megterhelése és az új jogosult értékpapírszámláján a dematerializált értékpapír jóváírása szükséges.
 
-A bemutatóra szóló és a negatív rendeleti záradékot nem tartalmazó névre szóló értékpapír átruházásával az értékpapírban rögzített jogok és követelések átszállnak az értékpapír új jogosultjára, függetlenül attól, hogy az átruházó milyen jogokkal rendelkezett.
+#### 6:570. § [Az értékpapírok átruházásának joghatása]
 
-#### 6:571. § [Az okirati formában előállított értékpapírok alaki legitimációs hatása]
+A negatív rendeleti záradékot tartalmazó névre szóló értékpapír kivételével, az értékpapír átruházásával az értékpapírban rögzített jogok átszállnak az értékpapír új jogosultjára, függetlenül attól, hogy az átruházó rendelkezett-e az értékpapírban rögzített jogokkal.
 
-(1) A bemutatóra szóló értékpapír esetén az értékpapír birtokosát kell az értékpapírban rögzített jog gyakorlására vagy követelés érvényesítésére jogosult személynek tekinteni.
+#### 6:571. § [Az értékpapírok semmissé nyilvánítása]
 
-(2) Névre szóló értékpapír esetén az értékpapírnak azt a birtokosát kell az értékpapírban rögzített jog gyakorlására vagy követelés érvényesítésére jogosult személynek tekinteni, akit az értékpapír szövege jogosultként megjelöl, vagy akit a forgatmányok megszakítatlan láncolata jogosultként igazol. Ha az utolsó forgatmány üres, az értékpapír birtokosát kell jogosultnak tekinteni, feltéve, hogy a forgatmányok láncolata megszakítatlan. Ha valamely üres forgatmányra újabb forgatmány következik, az utóbbi aláíróját úgy kell tekinteni, mint aki az értékpapírt üres forgatmány útján szerezte meg.
+(1) Ha az értékpapír azonosíthatatlanná válik, elvész, fizikailag megsemmisül, vagy oly mértékben megrongálódik, hogy tartalma nem ismerhető meg, erre irányuló eljárás eredményeként az értékpapír semmissé nyilvánítására kerülhet sor.
 
-(3) A jogosultnak tekintendő jóhiszemű személynek az értékpapírból eredő jogosultságát nem befolyásolja az, ha valamely korábbi átruházásnak vagy más tulajdonszerzésnek nem volt jogcíme, vagy ha a jogcím érvénytelen vagy hatálytalan volt.
+(2) Az értékpapír semmissé nyilvánítása esetén a semmissé nyilvánított értékpapírhoz nem fűződnek többé értékpapírjogi joghatások; az értékpapírba foglalt jogot az e jogra irányadó általános szabályok szerint lehet érvényesíteni.
 
-(4) Ha a névre szóló értékpapír jogosultjának személye nem átruházás útján változik meg, az új jogosult a jogszerzését igazolni köteles. A nem átruházás útján való jogszerzést követően az értékpapírra vezetett forgatmányok megszakítatlan láncolata az értékpapír birtokosát a nem átruházás útján való jogszerzés igazolásától függően igazolja jogosultként. Ha jogszabály meghatározott személyt feljogosít a nem átruházás útján való igazolt jogszerzésnek a forgatmányi láncolatban való feltüntetésére, az ilyen bejegyzés biztosítja a forgatmányi láncolat megszakítatlanságát, és a jogszerzés hiánya, érvénytelensége vagy hatálytalansága az értékpapír jogosultjának tekintendő jóhiszemű harmadik személynek az értékpapírból eredő jogosultságát nem befolyásolja.
+#### 6:572. §
 
-#### 6:572. § [Az okirati formában előállított értékpapírok megsemmisítése]
+### XXXI. CÍM
 
-(1) Ha az okirati formában előállított értékpapír elvész, fizikailag megsemmisül vagy oly mértékben megrongálódik, hogy tartalma nem ismerhető meg, erre irányuló eljárás eredményeként az értékpapír megsemmisítésére kerülhet sor.
-
-(2) Az értékpapír megsemmisítése esetén a megsemmisített értékpapírhoz nem fűződnek többé értékpapírjogi joghatások; az értékpapírba foglalt jogot az e jogra irányadó általános szabályok szerint lehet érvényesíteni.
-
-### XXXI. CÍM — A DEMATERIALIZÁLT ÉRTÉKPAPÍR
-
-#### 6:573. § [A dematerializált értékpapír előállítása]
-
-(1) Dematerializált értékpapírként sorozatban kibocsátott értékpapírt lehet előállítani.
-
-(2) A dematerializált értékpapírt a központi értéktár a kibocsátó megbízása alapján megnyitott központi értékpapírszámlákon tartja nyilván.
-
-(3) A központi értékpapírszámlákat a központi értéktár értékpapír-sorozatonként, azoknak az értékpapír-számlavezetőknek a nevén vezeti, akik az adott értékpapír-sorozatba tartozó értékpapírokra vonatkozó értékpapírszámlát vezetnek. A központi értékpapírszámlán az értékpapír-számlavezető által nyilvántartott, azonos sorozatba tartozó dematerializált értékpapírok mindenkori darabszámát kell nyilvántartani.
-
-(4) A központi értékpapírszámlák megnyitásához a kibocsátónak a központi értéktárnál letétbe helyezett, értékpapírnak nem minősülő okiratban kell közölnie a központi értéktárral
-
-- a) a kibocsátásról szóló döntés tartalmát és a döntés meghozatalának időpontját;
-- b) a kibocsátandó értékpapír-sorozatba tartozó dematerializált értékpapírok jogszabály által meghatározott tartalmi kellékeit, ha pedig jogszabály a kötelező tartalmi elemeket nem határozza meg, akkor a dematerializált értékpírban rögzítendő tartalmi elemeket;
-- c) a kibocsátandó értékpapír-sorozatba tartozó dematerializált értékpapírok darabszámát és - ha ilyennel rendelkezik - névértékét;
-- d) azoknak az értékpapírszámla-vezetőknek a megjelölését, akik a kibocsátandó értékpapír-sorozatba tartozó értékpapírokat az értékpapírok jogosultjainak értékpapírszámláin nyilván fogják tartani;
-- e) az egyes értékpapír-számlavezetők által nyilvántartandó értékpapírok darabszámát.
-
-(5) Ha a dematerializált értékpapírként kibocsátott értékpapír-sorozatba tartozó újabb dematerializált értékpapírok kibocsátására kerül sor, vagy a központi értéktárnál letétbe helyezett okirat tartalmában más változás áll be, a kibocsátónak a (3) bekezdésben meghatározott tartalommal újabb okiratot kell benyújtania a központi értéktárhoz. Az újabb okirat benyújtásával a dematerializált értékpapír előállításának alapjául szolgáló korábbi okirat érvényét veszti.
-
-#### 6:574. § [Értékpapírok dematerializált értékpapírrá alakítása]
-
-(1) Ha a kibocsátó a nyomdai úton előállított értékpapír dematerializált értékpapírrá történő átalakítását határozza el, hirdetményben köteles felhívni az értékpapírok jogosultjait az okirati formában előállított értékpapíroknak a kibocsátónál való benyújtására, és annak közlésére, hogy melyik értékpapír-számlevezetőnél nyitott, milyen számú értékpapírszámlán kívánják nyilvántartatni a dematerializált értékpapírt. A hirdetményben tájékoztatást kell adni arról, hogy a be nem nyújtott, tagsági jogot megtestesítő értékpapírok milyen módon kerülnek értékesítésre, illetve bevonásra.
-
-(2) A felhívásban meg kell jelölni azt a - hatvan napnál nem rövidebb - időtartamot, ameddig az értékpapírok jogosultjai értékpapírjaikat benyújthatják.
-
-(3) A kibocsátó a benyújtásra előírt határidő leteltét vagy valamennyi átalakítandó értékpapír benyújtását követő első munkanapon készíti el és nyújtja be a központi értéktárnak a dematerializált értékpapír előállításához szükséges okiratot. Ennek alapján a központi értéktár megnyitja a központi értékpapírszámlát, és azon a nyomdai úton előállított értékpapírokkal azonos darabszámú és tartalmú dematerializált értékpapírt ír jóvá. Ezzel egyidejűleg az okirati formában előállított értékpapírok érvénytelenné válnak.
-
-#### 6:575. § [Az átalakításra be nem nyújtott értékpapírokra vonatkozó szabályok]
-
-(1) A nyomdai úton előállított értékpapír jogosultja által az előző §-nak megfelelően be nem nyújtott értékpapírok helyett előállított dematerializált értékpapírokat a központi értéktár a kibocsátó részére vezetett központi értékpapírszámlán írja jóvá. Ezen a központi értékpapírszámlán nyilvántartott értékpapírokkal kapcsolatban a kibocsátó az e §-ban meghatározottak szerint rendelkezhet.
-
-(2) A szabályszerűen be nem nyújtott értékpapírok helyett előállított dematerializált értékpapírok lejárta esetén a kibocsátó a dematerializált értékpapírok pénzbeli ellenértékét köteles a jogosult javára letétbe helyezni.
-
-(3) A kibocsátó a szabályszerűen be nem nyújtott, tagsági viszonyt megtestesítő értékpapírokat a hirdetményben megjelölt feltételek szerint értékesítheti vagy bevonhatja. Az értékesítésből befolyó ellenértéket, illetve az értékpapír bevonása esetén a jogosultnak fizetendő pénzösszeget a kibocsátó köteles a jogosult javára hitelintézetnél letétbe helyezni.
-
-(4) Az okirati formában előállított értékpapír azon jogosultja, aki elmulasztotta az értékpapírját szabályszerűen benyújtani, a késedelemből eredően a kibocsátónál felmerült költségek megtérítése mellett kérheti a dematerializált értékpapír jóváírását az értékpapírszámláján, illetve a javára letétbe helyezett pénzösszeg kiadását.
-
-#### 6:576. § [Az értékpapírszámla]
-
-(1) Az értékpapírszámla a dematerializált értékpapíroknak és azok jogosultjainak nyilvántartására szolgáló elektronikus számla, amelyet az értékpapírszámla vezetésére feljogosított szervezet a dematerializált értékpapír jogosultjával kötött szerződés alapján nyit meg.
-
-(2) Az értékpapír-számlavezető az értékpapírszámla vezetésére vonatkozó szerződés megkötésekor rögzíti a számla jogosultjának azonosításához szükséges adatokat.
-
-(3) A központi értékpapírszámla megnyitásáról a központi értéktár értesíti azokat az értékpapír-számlavezetőket, akiknek a nevén a dematerializált értékpapírok a központi értékpapírszámlán nyilvántartásba kerültek. Az értékpapír-számlavezetők az értesítés alapján, az értesítésben meghatározott időponttal kezdődően írhatják jóvá a dematerializált értékpapír jogosultjának értékpapírszámláján a dematerializált értékpapírt.
-
-#### 6:577. § [A dematerializált értékpapírok átruházása]
-
-(1) A dematerializált értékpapír átruházásához az átruházásra irányuló szerződés vagy más jogcím, valamint az átruházó értékpapírszámlájának megterhelése és az új jogosult értékpapírszámláján a dematerializált értékpapír jóváírása szükséges.
-
-(2) Ha a dematerializált értékpapír új jogosultjának értékpapírszámláját nem az átruházó számlavezetője vezeti, akkor az átruházó számlavezetője az értékpapírszámla megterhelésével egyidejűleg köteles közölni a központi értéktárral, hogy melyik értékpapír-számlavezető által vezetett értékpapírszámlán kell jóváírni az átruházásra kerülő dematerializált értékpapírt. A központi értéktár az átruházó számlavezetőjének központi értékpapírszámláját az átruházandó mennyiséggel megterheli és az új jogosult értékpapírszámláját vezető számlavezető központi értékpapírszámláján az átruházandó mennyiséget jóváírja. A jóváírásról a központi értéktár értesíti az új jogosult számlavezetőjét, aki ezt követően az új jogosult értékpapírszámláján az átruházandó dematerializált értékpapírt jóváírja.
-
-(3) A dematerializált értékpapír átruházásával az értékpapírban rögzített jogok átszállnak az értékpapír új jogosultjára, függetlenül attól, hogy az átruházó milyen jogokkal rendelkezett.
-
-#### 6:578. § [A dematerializált értékpapír alaki legitimációs hatása]
-
-(1) A dematerializált értékpapír jogosultjának annak az értékpapírszámlának a jogosultját kell tekinteni, amelyiken a dematerializált értékpapírt nyilvántartják.
-
-(2) A dematerializált értékpapír jogosultja jogosultságát az értékpapírszámla vezetője által kiállított számlakivonattal vagy jogosulti igazolással igazolhatja a számlakivonat vagy a jogosulti igazolás kiállításának időpontjában. A számlakivonat és a jogosulti igazolás nem minősül értékpapírnak. A számla adatainak és a számláról kiállított okirat tartalmának eltérése esetén a számla adatait kell valósnak tekinteni.
-
-(3) A jogosultnak tekintendő jóhiszemű személynek a dematerializált értékpapírból eredő jogosultságát nem érinti, ha valamely korábbi átruházásnak vagy más tulajdonszerzésnek nem volt jogcíme, vagy ha a jogcím érvénytelen vagy hatálytalan volt.
-
-(4) Ha a dematerializált értékpapír jogosultjának személye nem átruházás útján változik meg, az új jogosult a jogszerzés igazolása mellett kérheti, hogy a dematerializált értékpapírt az értékpapírszámláján írják jóvá. A korábbi jogosult számlájának megterhelését és a dematerializált értékpapírnak az új jogosult számláján való jóváírását a dematerializált értékpapírok átruházására vonatkozó szabályok megfelelő alkalmazásával kell végrehajtani.
+#### 6:573–6:578. §
 
 ## HATODIK RÉSZ — EGYÉB KÖTELEMKELETKEZTETŐ TÉNYEK
 
