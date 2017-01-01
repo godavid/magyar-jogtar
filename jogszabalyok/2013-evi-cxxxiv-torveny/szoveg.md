@@ -6,7 +6,7 @@ egyes közszolgáltatások ellátásáról és az ezzel összefüggő törvénym
 
 (2) A települési önkormányzat az (1) bekezdésben meghatározott körülmény bekövetkezéséről haladéktalanul, de legfeljebb 3 napon belül tájékoztatja a kormányrendeletben kijelölt állami szervet (a továbbiakban: állami szerv).
 
-(3) Az állami szerv a hulladékgazdálkodási közszolgáltatás ideiglenes ellátására (a továbbiakban: ideiglenes ellátás) a (2) bekezdésben meghatározott tájékoztatást követő 15 napon belül hatósági eljárás keretében közérdekű szolgáltatót jelöl ki a hulladékgazdálkodási engedéllyel, illetve a minősítési engedéllyel rendelkező szolgáltatók közül. A közérdekű szolgáltató a szolgáltatást a szolgáltatással érintett területre irányadó közszolgáltatási díj fejében köteles elvégezni.
+(3) Az állami szerv a hulladékgazdálkodási közszolgáltatás ideiglenes ellátására (a továbbiakban: ideiglenes ellátás) a (2) bekezdésben meghatározott tájékoztatást követő 15 napon belül hatósági eljárás keretében közérdekű szolgáltatót jelöl ki a hulladékgazdálkodási engedéllyel és minősítési engedéllyel rendelkező szolgáltatók közül. A közérdekű szolgáltató a szolgáltatást a Ht. 32/A. § (2) bekezdése szerinti szervezet (a továbbiakban: Koordináló szerv) által meghatározott szolgáltatási díj fejében köteles elvégezni. A szolgáltatási díj mértékét és megállapításának rendjét miniszteri rendelet határozza meg.
 
 (4) Az állami szerv kijelölésre irányuló eljárásban hozott döntésével szemben fellebbezésnek és újrafelvételi eljárásnak nincs helye.
 
@@ -27,6 +27,10 @@ egyes közszolgáltatások ellátásáról és az ezzel összefüggő törvénym
 2. § Ha az egészségügyi államigazgatási szerv határozattal megállapítja, hogy a hulladékgazdálkodási közszolgáltatás ellátásának kiesése miatt járványveszély vagy más súlyos közegészségügyi kockázat alakult ki, a települési hulladék elszállításának megszervezéséről és elvégzéséről (a továbbiakban: szükségellátás) az állami szerv gondoskodik.
 
 3. § (1) A környezetvédelmi hatóság, valamint a helyi önkormányzat – az ideiglenes ellátás, továbbá a szükségellátás megszervezéséhez szükséges – nyilvántartásában szereplő és rendelkezésére álló adatokat az állami szerv kérésére haladéktalanul szolgáltatja.
+
+(1a) A kijelölt közérdekű szolgáltató megad minden adatot és információt, amely a Koordináló szerv díjbeszedési feladatkörének gyakorlásához szükséges, ideértve a Ht. 38. § (3) bekezdésében meghatározott adatokat is. Az adatokat, személyes adatokat a Koordináló szerv az állami hulladékgazdálkodási közfeladat ellátása érdekében kezelheti és nyilvántarthatja.
+
+(1b) A kijelölt közérdekű szolgáltató a Ht. 38. § (3) bekezdésében meghatározott adatokat, személyes adatokat az általa ellátandó feladatok, valamint jogszabályban foglalt kötelezettségei teljesítése érdekében kezelheti és nyilvántarthatja. A kijelölt közérdekű szolgáltató a kezelt személyes adatokat haladéktalanul köteles törölni, ha az adatkezelés nem az e bekezdésben meghatározott célból történt vagy az adatkezelés célja megszűnt.
 
 (2) Kártalanítás mellett az ideiglenes ellátáshoz és a szükségellátáshoz szükséges szállítóeszköz rendelkezésre bocsátására kötelezhető
 

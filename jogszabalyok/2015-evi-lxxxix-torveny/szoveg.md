@@ -20,6 +20,8 @@ a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Meg�
 
 (3) Az adatokat a bizonyítvány érvényességi idejének lejártától számított 5 évig kell megőrizni.
 
+4/A. § A veszélyes anyagot szállító járművekre előírt „jóváhagyási igazolás” kiadásával kapcsolatos hatósági eljárásban hozott döntéssel szemben nincs helye fellebbezésnek.
+
 5. § Felhatalmazást kap a közlekedésért felelős miniszter, hogy
 
 - a) a környezetvédelemért felelős miniszterrel, az egészségügyért felelős miniszterrel és az atomenergia-felügyeleti szerv felügyeletét ellátó miniszterrel egyetértésben az ADR „A” és „B” Melléklet belföldi alkalmazásához szükséges részletes szabályokat és kiegészítéseket,

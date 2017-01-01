@@ -8,14 +8,23 @@ Az Országgyűlés — eleget téve a honvédelemről szóló 1993. évi CX. tö
 
 ### Hadigondozottak
 
-1. § E törvényben megállapított feltételek alapján hadigondozásra jogosult az a magyar állampolgár, aki
+1. § (1) E törvényben megállapított feltételek alapján hadigondozásra jogosult az a magyar állampolgár, aki
 
-- a) katonai szolgálat;
-- b) kötelező katonai előképzés;
-- c) légitámadás és hadművelet;
-- d) visszamaradt robbanóanyag felrobbanása
+- a) katonai szolgálat,
+- b) kötelező katonai előképzés,
+- c) légitámadás,
+- d) hadművelet, vagy
+- e) visszamaradt robbanóanyag felrobbanása
 
-(a továbbiakban együtt: szolgálat) során vagy következtében (a továbbiakban: következtében) testi épségének vagy egészségének károsodása folytán hadieredetű fogyatkozást szenvedett (a továbbiakban: hadirokkant), továbbá akit hadigyámoltként, hadiözvegyként, hadiárvaként, hadigondozott családtagként, a 14/A. § szerinti volt hadiárvaként, a 15/A. § szerinti volt hadigyámoltként vagy volt hadigondozott családtagként kell gondozásba venni. (A továbbiakban együtt: hadigondozott.)
+(a továbbiakban együtt: szolgálat) során vagy következtében (a továbbiakban együtt: következtében) testi épségének vagy egészségének károsodása folytán hadieredetű fogyatkozást szenvedett (a továbbiakban: hadirokkant), továbbá akit hadigyámoltként, hadiözvegyként, hadiárvaként, hadigondozott családtagként, a 14/A. § szerinti volt hadiárvaként, a 15/A. § szerinti volt hadigyámoltként vagy volt hadigondozott családtagként kell gondozásba venni.
+
+(1a) Az (1) bekezdésben foglaltakat megfelelően kell alkalmazni arra a nem magyar állampolgárra is, aki a szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény alapján kiadott „Magyar igazolvány”-nyal vagy „Magyar hozzátartozói igazolvány”-nyal rendelkezik, feltéve, hogy a lakóhelye szerinti szomszédos állam joga szerint a magyar állampolgárság felvétele a szomszédos állam szerinti állampolgárságtól való megfosztással jár.
+
+(1b) Az (1a) bekezdés szerinti állam állampolgársági szabályozásáról az eljáró hatóság megkeresésére az igazságügyért felelős miniszter felvilágosítást ad.
+
+(2) Hadigondozásra jogosultnak kell tekinteni azt a magyar állampolgárt is, aki az 1945. március 31. és 1954. október 31. közötti időszakban a fegyveres erőknél – néphadseregnél, a Belügyminisztérium csapatainál, a polgári védelem szerveinél – hivatásos, továbbszolgáló vagy hadkötelezettség alapján teljesített szolgálata során hadirokkanttá vált, valamint az e törvény szerint hadigondozásra jogosult hozzátartozóit.
+
+(3) Nem jogosult hadigondozásra, aki 1954. október 31-ét követően a Magyar Néphadseregnél, a Belügyminisztérium csapatainál, a polgári védelem szerveinél, valamint ezek jogutód szervezeteinél hivatásos, továbbszolgáló, szerződéses vagy hadkötelezettség alapján teljesített szolgálata során vált hadirokkanttá, valamint ezek hozzátartozói.
 
 ### Fogalommeghatározások
 
@@ -25,12 +34,11 @@ Az Országgyűlés — eleget téve a honvédelemről szóló 1993. évi CX. tö
 - b) hadifogság: a szolgálat teljesítése közben bekövetkező fogságba ejtés és fogságban tartás, beleértve az idegen haderő által nem katonai szolgálatot teljesítők fogságba ejtését, illetőleg polgári személyek elhurcolását is, valamint ezek időtartamát;
 - c) munkaszolgálat: közérdekű vagy kisegítő munkaszolgálat (beleértve a kényszerű munkaszolgálatot is), továbbá hadi vagy közérdekű munkára, illetőleg légoltalmi szolgálatra történő igénybevétel;
 - d) kötelező katonai előképzés: leventekötelezettség teljesítése;
-- e) légitámadás és hadművelet: Magyarország területét érintő, illetve Magyarország mint hadviselő fél részvételével bekövetkezett
-  - ea) légitámadás, illetve annak következményei felszámolásával kapcsolatos tevékenység vagy
-  - eb) hadművelet – ide értve a hadműveletnek nem minősülő bármely harci cselekményt is –;
+- e) légitámadás: Magyarország területét érintő, illetve Magyarország mint hadviselő fél részvételével bekövetkezett légitámadás, valamint következményeinek felszámolásával kapcsolatos tevékenység;
 - f) visszamaradt robbanóanyag felrobbanása: Magyarország területét érintő, illetve Magyarország mint hadviselő fél részvételével bekövetkezett háborúból, megszállásból, fegyveres konfliktusokból vagy ezekkel összefüggésben egyéb módon visszamaradt, illetve akár a megszállók, akár a magyar fegyveres alakulatok által elhagyott robbanóanyag vagy robbanó szerkezet felrobbanása, kivéve, ha a robbanás hivatásszerűen (tűzszerész) végzett mentesítés során történt;
 - g) hadieredetű fogyatkozás (hadirokkantak esetében): a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló törvény szerinti egészségkárosodás (a továbbiakban: egészségkárosodás), valamint a szolgálattal össze nem függő egészségkárosodásnak a szolgálat folytán bekövetkező súlyosbodása;
-- h) veszteség: a hadigondozásra való jogosultságot megalapozó bármely hátrány.
+- h) veszteség: a hadigondozásra való jogosultságot megalapozó bármely hátrány;
+- i) hadművelet: Magyarország területét érintő, illetve Magyarország mint hadviselő fél részvételével bekövetkezett hadművelet, ideértve a hadműveletnek nem minősülő bármely harci cselekményt is;
 
 ### A hadirokkantak járadékosztályba sorolása
 
@@ -56,7 +64,12 @@ Az Országgyűlés — eleget téve a honvédelemről szóló 1993. évi CX. tö
 
 ### Hadiözvegy
 
-5. § (1) Hadiözvegy a szolgálat következtében meghalt személy – katonai szolgálat esetén a Magyarország területéről katonai szolgálatra bevonult és a katonai szolgálat következtében meghalt személy – özvegye. Hadiözvegy továbbá a hadirokkantként hadigondozásba vett személy özvegye is, ha a házasságot a hadieredetű sérülés bekövetkezte előtt kötötték, vagy a házastárs halálakor már legalább 5 éve együtt éltek, vagy házasságukból gyermek született.
+5. § (1) Hadiözvegy a szolgálat következtében meghalt személy – katonai szolgálat esetén a Magyarország területéről katonai szolgálatra bevonult és a katonai szolgálat következtében meghalt személy – özvegye. Hadiözvegy továbbá
+
+- a) a hadirokkantként hadigondozásba vett, vagy
+- b) okirattal bizonyított hadieredetű fogyatkozást szenvedett
+
+személy özvegye is, ha a házasságot a hadieredetű sérülés bekövetkezte előtt kötötték, vagy a házastárs halálakor már legalább 5 éve együtt éltek, vagy házasságukból gyermek született.
 
 (2) A külön élő, illetőleg az elvált házastárs hadiözvegy, amennyiben a bíróság a házastársát tartásdíj fizetésére kötelezte.
 
@@ -72,11 +85,24 @@ Az Országgyűlés — eleget téve a honvédelemről szóló 1993. évi CX. tö
 
 ### Volt hadiárva, volt hadigyámolt és volt hadigondozott családtag
 
-7/A. § (1) Volt hadiárva, akit a szolgálat következtében meghalt szülője – katonai szolgálat esetén a Magyarország területéről katonai szolgálatra bevonult és a katonai szolgálat következtében meghalt szülője – halála miatt hadiárvaként hadigondozásba vettek, vagy aki okirattal bizonyítja, hogy ezen ellátás iránti igénye fennállt, ha a 4. §-ban meghatározott feltételek már nem állnak fenn.
+7/A. § (1) Volt hadiárva,
 
-(2) Volt hadigyámolt, akit szülője hadirokkantsága miatt hadigyámoltként hadigondozásba vettek, vagy aki okirattal bizonyítja, hogy ezen ellátások valamelyike iránti igénye fennállt, ha a 4. §-ban meghatározott feltételek már nem állnak fenn.
+- a) akit a szolgálat következtében meghalt szülője – katonai szolgálat esetén a Magyarország területéről katonai szolgálatra bevonult és a katonai szolgálat következtében meghalt szülője – halála miatt hadiárvaként hadigondozásba vettek, vagy
+- b) aki a hadigondozásba vétel bármely okból történt elmaradása esetén okirattal bizonyítja, hogy szülője a szolgálat következtében halt meg,
 
-(3) Volt hadigondozott családtag, akit a szolgálat következtében meghalt unokája, gyermeke vagy testvére halála miatt hadigondozott családtagként hadigondozásba vettek, vagy aki okirattal bizonyítja, hogy ezen ellátások valamelyike iránti igénye fennállt.
+ha a 4. §-ban meghatározott feltételek már nem állnak fenn.
+
+(2) Volt hadigyámolt,
+
+- a) akit szülője hadirokkantsága miatt hadigyámoltként hadigondozásba vettek, vagy
+- b) aki a hadigondozásba vétel bármely okból történt elmaradása esetén okirattal bizonyítja, hogy valamelyik szülője a gyermek 4. § a) vagy b) pontjában meghatározott életkorának betöltése előtt hadirokkanttá vált,
+
+ha a 4. §-ban meghatározott feltételek már nem állnak fenn.
+
+(3) Volt hadigondozott családtag,
+
+- a) akit a szolgálat következtében meghalt unokája, gyermeke, testvére, vagy féltestvére halála miatt hadigondozott családtagként hadigondozásba vettek, vagy
+- b) aki a hadigondozásba vétel bármely okból történt elmaradása esetén okirattal bizonyítja, hogy unokája, gyermeke, testvére, vagy féltestvére a szolgálat következtében halt meg.
 
 ### A hadigondozásra jogosultság kizárása és megszűnése, egyes nemzeti gondozottak hadigondozottá történő átminősítése
 
@@ -89,7 +115,7 @@ Az Országgyűlés — eleget téve a honvédelemről szóló 1993. évi CX. tö
 
 (3) Megszűnik a hadigondozásra jogosultság, ha
 
-- a) a hadiözvegy újból megházasodik, kivéve, ha hadirokkanttal köt házasságot. A szolgálat következtében meghalt, illetve hadirokkantként elhunyt házastársára tekintettel feléled a hadigondozásra jogosultság, ha az özvegy újabb házasságában is megözvegyül;
+- a) a hadiözvegy újból megházasodik, kivéve, ha hadirokkanttal köt házasságot. A szolgálat következtében meghalt, illetve hadirokkantként elhunyt házastársára tekintettel feléled a hadigondozásra jogosultság, ha a özvegy újabb házasságában is megözvegyül;
 - b) a hadiárva, hadigyámolt betölti a 4. §-ban meghatározott életkor;
 - c) a hadigondozott meghal;
 - d) a hadirokkant egészségkárosodása megszűnt, vagy egészségkárosodása 20%-nál kisebb mértékűvé vált;
@@ -216,7 +242,13 @@ egyéb ellátásától függetlenül havi rendszeres járadékra jogosult, amely
 
 ### Gyógyászati segédeszköz ellátás
 
-18. § A hadirokkant térítésmentesen jogosult a hadieredetű fogyatkozása folytán használhatatlanná vált vagy hiányzó testrészének mesterséges pótlására és azokra a gyógyászati segédeszközökre, műlábcipőre (a továbbiakban: gyógyászati segédeszköz), amelyekkel életvitele, munkaképessége helyreállítható vagy javítható. Térítésmentesen jogosult a gyógyászati segédeszköz javítására, valamint szükséges pótlására.
+18. § A hadirokkant térítésmentesen jogosult
+
+- a) a hadieredetű fogyatkozása
+  - aa) folytán használhatatlanná vált vagy hiányzó testrészének mesterséges pótlására, és
+  - ab) következtében szükségessé váló gyógyászati segédeszközökre és műlábcipőre (a továbbiakban együtt: gyógyászati segédeszköz),
+- b) az a) pont szerinti gyógyászati segédeszköz javítására, valamint szükséges pótlására és
+- c) kormányrendeletben meghatározott támogatási mértékig azokra a kormányrendeletben meghatározott egyéb olyan – egészségügyi szempontból indokolt, de gyógyászati segédeszköznek nem minősülő – eszközökre, amelyekkel életvitele, munkaképessége helyreállítható vagy javítható.
 
 ### III. Fejezet — FOLYÓSÍTÁSI SZABÁLYOK
 
@@ -278,22 +310,22 @@ egyéb ellátásától függetlenül havi rendszeres járadékra jogosult, amely
 
 26. § (1) A hadigondozás iránti kérelem határidő-korlátozás nélkül bármikor előterjeszthető.
 
-(2) A hadigondozotti ügyekben az elsőfokú hadigondozási hatóság a hadigondozott lakóhelye vagy tartózkodási helye szerint illetékes fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala.
+(2) A hadigondozotti ügyekben első- és másodfokon a Kormány által rendeletben, hadigondozási hatóságként kijelölt szerv jár el.
 
-(2a) A (2) bekezdésben foglaltaktól eltérően a külföldön élő, Magyarországon lakóhellyel vagy tartózkodási hellyel nem rendelkező magyar állampolgár kérelmező esetében az elsőfokú hadigondozási hatóság Budapest Főváros Kormányhivatala, a másodfokú hadigondozási hatóság a honvédelemért felelős miniszter.
+(2a)
 
 (2b) Az elsőfokú hadigondozási hatóság határozatban dönt:
 
 - a) a hadigondozási igényjogosultságról, a hadirokkant járadékosztályba sorolásáról és az orvosszakértői szerv szakvéleményében megjelölt gyógyászati segédeszköz, valamint a hadieredetű fogyatkozás megnevezéséről,
 - b) a pénzellátások – beleértve az egyösszegű térítést és a temetési hozzájárulást is – megállapításáról és összegszerűségéről,
-- c) a hadigondozott közgyógyellátásra jogosító igazolványa és a hadigondozotti igazolvány kiadásáról,
+- c) a hadirokkant közgyógyellátásra jogosító igazolványa, valamint a hadirokkantat és a hadiözvegyet megillető hadigondozotti igazolvány kiadásáról, és
 - d) a pénzellátás szüneteltetéséről, megszüntetéséről, valamint a jogalap nélkül felvett pénzellátás visszafizetéséről.
 
 (3) Az elsőfokú hadigondozási hatóság a hadigondozásba vett személyről a következő nyilvántartást vezeti:
 
 - a) a hadigondozott gondozási minősítését (hadirokkant, hadiözvegy, hadiárva, hadigyámolt, hadigondozott családtag);
 - b) a megállapított ellátást;
-- c) a hadigondozotti igazolvány számát;
+- c) hadirokkant és hadiözvegy esetében a hadigondozotti igazolvány számát;
 - d) a természetes személyazonosító adatait, lakcímét, családi állapotát, az elhalálozás helyét és idejét.
 
 (4) A jogosultság hadi eredetét egykorú szolgálati, katonai, kórházi iratokkal és hatósági igazolásokkal, ezek hiányában más hitelt érdemlő módon kell igazolni.
@@ -323,9 +355,11 @@ egyéb ellátásától függetlenül havi rendszeres járadékra jogosult, amely
 - a) a külföldön történő kérelem benyújtásának;
 - b) az egyösszegű térítés és a hadigondozotti járadék megállapításának és folyósításának;
 - c) a hadigondozotti ellátások és kedvezmények igénybevételére jogosító hadigondozotti igazolvány tartalmi és formai kellékeinek, az igazolvány kiadásának, valamint a hadieredetű fogyatkozás megállapítása orvosszakmai szempontjainak;
-- d) a hadirokkantak gyógyászati segédeszköz ellátásának;
+- d) a hadirokkantak gyógyászati segédeszközzel történő ellátásának, valamint a 18. § (1) bekezdés c) pontja szerinti eszközök körének és a támogatás mértékének;
 
 részletes szabályait rendeletben állapítsa meg.
+
+28/A. § Felhatalmazást kap a Kormány, hogy a hadigondozási hatóságot vagy hatóságokat rendeletben jelölje ki.
 
 ### Hatálybalépés
 

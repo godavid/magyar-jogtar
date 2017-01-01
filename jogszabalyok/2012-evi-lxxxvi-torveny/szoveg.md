@@ -155,6 +155,8 @@ ha tudott vagy kellő gondosság mellett tudhatott volna arról, hogy a foglalko
 
 19/B. § Az Mt.-nek a Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvénnyel (a továbbiakban: Módtv2.) megállapított 65. § (5) és (6) bekezdését a Módtv2. hatálybalépését követően közölt, munkaviszonyt megszüntető jognyilatkozatra kell alkalmazni.
 
+19/C. § Az Mt.-nek a Módtv2.-vel megállapított 104. §-át a 2017. január 1-jét követően kezdődő munkaidőkeret, elszámolási időszak vagy közölt munkaidő-beosztás tekintetében kell alkalmazni.
+
 ## MÁSODIK RÉSZ — MÓDOSÍTÓ RENDELKEZÉSEK
 
 #### 1. A polgári perrendtartásról szóló 1952. évi III. törvény módosítása

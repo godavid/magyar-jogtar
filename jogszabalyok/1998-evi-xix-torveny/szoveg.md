@@ -838,17 +838,13 @@ fokozott körültekintéssel kell eljárni.
 
 ### Az elektronikus kapcsolattartás szabályai
 
-69/A. § (1) A bíróság, az ügyészség, a nyomozó hatóság és a büntetés-végrehajtási szervezet (e cím alkalmazásában a továbbiakban együtt: kapcsolattartó szervezet) egymással az írásbeli kapcsolatot elektronikus úton tarthatja.
+69/A. § (1) A bíróság, az ügyészség, a nyomozó hatóság és a büntetés-végrehajtási szervezet (e cím alkalmazásában a továbbiakban együtt: kapcsolattartó szervezet) szervezeti keretein belül egymás között és a kapcsolattartó szervezetek egymással az írásbeli kapcsolatot elektronikus úton tarthatják.
 
-(2) Az (1) bekezdés alapján
+(1a) A bíróság, az ügyészség és a nyomozó hatóság a 71. § szerinti megkeresést elektronikus úton is intézheti, ha a 71. § (1) és (2) bekezdése szerinti megkeresendő szerv, illetve szervezet az elektronikus kapcsolattartást vállalja és az ehhez szükséges elérhetőségét a honlapján közzétette. Ez esetben a megkeresett szerv vagy szervezet is elektronikusan küldi meg a válaszát, kivéve, ha az eredetileg papír alapú iratok nagy mennyisége vagy sajátos alakja miatt azok digitalizálása aránytalan nehézséggel járna, vagy a megkeresés az eredeti irat, illetve okirat vagy más adathordozó megküldésére irányult.
 
-- a) a bíróságok,
-- b) a bíróság és
-  - ba) az ügyészség,
-  - bb) a nyomozó hatóság,
-  - bc) a büntetés-végrehajtási szervezet közötti elektronikus kapcsolattartás során a hivatalos iratok elektronikus kézbesítését a biztonságos kézbesítési szolgáltatás [70. § (1) bekezdés f) pont] útján (a továbbiakban: kézbesítési rendszer) kell végezni. A kapcsolattartó szervezet az erre szolgáló informatikai rendszer alkalmazásával biztosítja, hogy a kézbesítési rendszer útján folyamatosan lehessen kapcsolatot tartani. Az Országos Bírósági Hivatal a bíróság és más kapcsolattartó szervezet közötti elektronikus kapcsolattartás biztosítása céljából jogosult a hozzá érkezett adatok kezelésére.
+(2) Az (1) és (1a) bekezdés szerinti elektronikus úton az elektronikus ügyintézés és bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) szerinti biztonságos elektronikus kapcsolattartást kell érteni, azzal hogy a kapcsolattartó szervezetek a hivatalos irat kézbesítését egymás felé az E-ügyintézési tv. szerinti biztonságos kézbesítési szolgáltatás útján végzik.
 
-(3) A kapcsolattartó szervezetek az elektronikus kapcsolattartásra szolgáló informatikai rendszerük által támogatott dokumentumformátumokat a szervezet központi honlapján közzéteszik.
+(3) Az Országos Bírósági Hivatal az (1) és (1a) bekezdés szerinti elektronikus kapcsolattartás biztosítása céljából jogosult a hozzá érkezett adatok kezelésére.
 
 (4) A kapcsolattartó szervezet a küldendő hivatalos iratot minősített vagy legalább minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással vagy bélyegzővel látja el. E törvény minősített elektronikus aláírás alkalmazását kötelezővé teheti. A legalább fokozott biztonságú elektronikus aláírással vagy bélyegzővel ellátott hivatalos irat is közokiratnak minősül.
 
@@ -870,13 +866,13 @@ fokozott körültekintéssel kell eljárni.
 
 (8) A törvény vagy a bíróság által meghatározott határidőbe nem számít bele az a nap, amelynek során legalább négy órán át fennálló, a kézbesítési rendszerben, illetve a kapcsolattartó szervezet informatikai rendszerében fellépő üzemzavar akadályozta az elektronikus kapcsolattartást. Az üzemzavar idején a kapcsolattartó szervezeteket a kézbesítési rendszer útján a kézbesítés megkísérlésekor erről értesíteni kell. Üzemzavarnak kell tekinteni a tervezett leállást is. A kapcsolattartó szervezet köteles a szervezet központi honlapján legalább hetvenkét órával megelőzően közzé tenni a tervezett leállás időpontját és tartamát.
 
-69/B. § (1) Ahol e törvény elektronikus kapcsolattartást rendel vagy arra lehetőséget biztosít, az elektronikus kapcsolattartásra – e törvény eltérő rendelkezése hiányában – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény (a továbbiakban: Ket.) elektronikus kapcsolattartásra vonatkozó rendelkezéseit kell megfelelően alkalmazni.
+69/B. § (1) A kapcsolattartó szervezet az E-ügyintézési tv. és a végrehajtására kiadott kormányrendelet szerinti szabályozott vagy központi elektronikus ügyintézési szolgáltatásokat nyújthatja az ott meghatározott szabályok szerint.
 
-(2) A bíróság, az ügyészség, a nyomozó hatóság és a büntetés-végrehajtási szervezet a Ket. és a végrehajtására kiadott kormányrendelet szerinti szabályozott elektronikus ügyintézési szolgáltatásokat nyújthatja az ott meghatározott szabályok szerint, valamint a Ket. és a végrehajtására kiadott kormányrendelet szerinti szabályozott elektronikus ügyintézési szolgáltatásokat veheti igénybe az ott meghatározott, az elektronikus ügyintézési felügyelet által nyilvántartásba vett szolgáltatótól.
+(2) Az elektronikus kapcsolattartás tekintetében 2017. december 31-ig az E-ügyintézési tv. 12., 25., 57–58. és 101–103. §-át, valamint a VII., VIII. és XIV. Fejezetét, továbbá a 69/D. § vonatkozásában az E-ügyintézési tv. 26. § (1) bekezdését kell alkalmazni.
 
 69/C. § A bíróság és a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: NMHH) közötti elektronikus kapcsolattartás során a hivatalos iratok kézbesítése a 69/A. § (2) bekezdése szerinti kézbesítési rendszer útján is végezhető. Ez esetben az Országos Bírósági Hivatal a bíróság és az NMHH közötti elektronikus kapcsolattartás biztosítása céljából jogosult a hozzá érkezett adatok kezelésére.
 
-69/D. § Az összbüntetésbe foglalás (574. §) és az utólagos összbüntetésbe foglalás (575. §) iránti indítványt, valamint ezen indítvány visszavonását az elítélt védője a bíróság e célra biztosított elektronikus rendszerén keresztül is benyújthatja.
+69/D. § Az összbüntetésbe foglalás (574. §) és az utólagos összbüntetésbe foglalás (575. §) iránti indítványt, valamint ezen indítvány visszavonását az elítélt védője a személyének teljes körű azonosítását biztosító, az E-ügyintézési tv. 1. § 1. pontja szerinti szolgáltatás igénybevételével elektronikus úton is benyújthatja a bírósághoz.
 
 ### A kézbesítés
 
@@ -887,7 +883,7 @@ fokozott körültekintéssel kell eljárni.
 - c) hirdetményi úton,
 - d) a bíróság, az ügyész, illetőleg a nyomozó hatóság kézbesítője útján,
 - e) nemzetközi jogsegély keretében,
-- f) a Ket. és végrehajtási rendeletében szabályozott biztonságos kézbesítési szolgáltatás útján,
+- f) törvényben meghatározott feltételek mellett biztonságos kézbesítési szolgáltatás, illetve a biztonságos elektronikus kapcsolattartásra szolgáló elérhetőségre történő kézbesítés útján,
 - g) az elektronikus adathoz való hozzáférés ideiglenes és végleges megakadályozásáról szóló határozat esetén az NMHH elektronikus kézbesítési rendszerén keresztül.
 
 (2) A címzett az iratot az azt küldőnél is átveheti.
@@ -904,7 +900,7 @@ fokozott körültekintéssel kell eljárni.
 
 (7) A kézbesítési bizonyítvánnyal (tértivevénnyel) feladott hivatalos iratot a kézbesítés második megkísérlésének napját követő ötödik munkanapon kézbesítettnek kell tekinteni, ha a kézbesítés azért volt eredménytelen, mert a címzett az iratot nem vette át.
 
-(7a) A 69/A. § (1) bekezdése alapján létrejött elektronikus kapcsolattartás során a bíróság részére a hivatalos iratot a kézbesítési rendszer alkalmazásával az Országos Bírósági Hivatal útján kell megküldeni.
+(7a) A 69/A. § (1) és (1a) bekezdése és a 69/C–69/D. § szerinti elektronikus kapcsolattartás során a bíróság részére a hivatalos iratot a kézbesítési rendszer alkalmazásával az Országos Bírósági Hivatal útján kell megküldeni.
 
 (7b) Az (1) bekezdés g) pontja esetén a bíróság határozatát az elektronikus hírközlési szolgáltatók részére az NMHH kézbesítési rendszerén keresztül küldött értesítés napját követő munkanapon kell kézbesítettnek tekinteni.
 
@@ -1026,11 +1022,26 @@ fokozott körültekintéssel kell eljárni.
 
 (2) A lakóhely, illetőleg a tartózkodási hely megállapítása iránt a személyi adat- és lakcímnyilvántartást kell megkeresni. A körözést a külön törvényben meghatározott szabályok szerint a rendőrség végzi.
 
-(3) Szabadságvesztéssel büntetendő bűncselekmény esetén, valamint az e törvényben meghatározott más esetekben a terhelt elfogása és megtalálása esetén meghatározott bíróság, ügyész, illetőleg nyomozó hatóság elé állítása is elrendelhető (elfogatóparancs). Azt, aki ellen elfogatóparancsot bocsátottak ki, megtalálása esetén őrizetbe kell venni, és huszonnégy órán belül az elfogatóparancsot kibocsátó vagy az abban megjelölt más ügyész, illetve nyomozó hatóság, illetőleg hetvenkét órán belül az elfogatóparancsot kibocsátó vagy az abban megjelölt más bíróság elé kell állítani.
+(3) Szabadságvesztéssel büntetendő bűncselekmény esetén, valamint az e törvényben meghatározott más esetekben a terhelt elfogása és megtalálása esetén meghatározott bíróság, ügyész, illetve nyomozó hatóság elé állítása is elrendelhető (elfogatóparancs).
 
-(4) Ha hatóság vagy hivatalos személy olyan terhelt lakóhelyéről, illetőleg tartózkodási helyéről szerez tudomást, akivel szemben az (1) és a (3) bekezdés szerinti intézkedést rendeltek el, köteles erről az elrendelő bíróságot, ügyészt, illetőleg nyomozó hatóságot értesíteni.
+(3a) Szabadságvesztéssel büntetendő bűncselekmény esetén a terhelttel szemben akkor is elfogatóparancs kibocsátásának lehet helye, ha a terhelt tartózkodási helye ismert, azonban előzetes letartóztatásának elrendelése és előzetes letartóztatással elérni kívánt célok érdekében elfogása és bíróság, ügyész, illetve nyomozó hatóság elé állítása indokolt.
 
-(5) Az (1) és (3) bekezdésben meghatározott intézkedéseket vissza kell vonni, mihelyt az elrendelésük oka megszűnt. A visszavonásról az elrendelő haladéktalanul intézkedik. A nyomozó hatóság által elrendelt körözést az ügyész is visszavonhatja. Ha a körözés elrendelésének oka a bírósági eljárás során szűnik meg, a körözést a bíróság is visszavonhatja.
+(3b) Ha nemzetközi, illetve európai elfogatóparancs kibocsátásának feltételei fennállnak, és a büntetőeljárás lefolytatása végett a külföldön fogvatartásban lévő terhelt Magyarországra történő átadása, illetve kiadatása indokolt, elfogatóparancsot kell kibocsátani.
+
+(3c) Azt, aki ellen elfogatóparancsot bocsátottak ki, megtalálása, illetve elfogása esetén őrizetbe kell venni, és
+
+- a) huszonnégy órán belül az elfogatóparancsot kibocsátó vagy az abban megjelölt más ügyész, illetve nyomozó hatóság, vagy
+- b) hetvenkét órán belül az elfogatóparancsot kibocsátó vagy az abban megjelölt más bíróság
+
+elé kell állítani.
+
+(4) Ha hatóság vagy hivatalos személy olyan terhelt lakóhelyéről, illetőleg tartózkodási helyéről szerez tudomást, akivel szemben az (1), a (3), a (3a) vagy a (3b) bekezdés szerinti intézkedést rendeltek el, köteles erről az elrendelő bíróságot, ügyészt, illetőleg nyomozó hatóságot értesíteni.
+
+(5) Az (1) és a (3)–(3b) bekezdésben meghatározott intézkedést az eljárás jogerős befejezését megelőzően haladéktalanul vissza kell vonni, ha az elrendelés oka megszűnt.
+
+(5a) Az (1) és a (3)–(3b) bekezdésben meghatározott intézkedés visszavonásáról vagy módosításáról az a bíróság, ügyész vagy nyomozó hatóság intézkedik, amely előtt az eljárás folyamatban van. Ha a visszavonásra vagy a módosításra a nyomozó hatóság jogosult, az intézkedést az ügyész is visszavonhatja vagy módosíthatja.
+
+(5b) Ha az eljárás már nem az előtt a bíróság, ügyész vagy nyomozó hatóság előtt van folyamatban, amely az intézkedést elrendelte, valamint ha változik az (5a) bekezdés alapján visszavonásra vagy módosításra jogosult bíróság, ügyész vagy nyomozó hatóság, és az intézkedés alkalmazásának feltételei továbbra is fennállnak, az eljáró bíróság, ügyész vagy nyomozó hatóság az (1) és a (3)–(3b) bekezdésben meghatározott körözés, illetve elfogatóparancs visszavonása helyett intézkedik e körülmény körözési nyilvántartási rendszerben történő rögzítése érdekében.
 
 (6) Ha a bűncselekmény elkövetésével gyanúsítható személy lakóhelye, illetőleg tartózkodási helye vagy személyazonossága ismeretlen, lakóhelyének, illetőleg tartózkodási helyének vagy személyazonosságának megállapítása érdekében a körözését lehet elrendelni. A lakóhelyének, illetőleg a tartózkodási helyének megállapítása érdekében a bíróság vagy az ügyész annak a személynek a körözését is elrendelheti, akinek a tanúkénti kihallgatása a bírósági eljárásban szükséges. A körözést vissza kell vonni, ha az elrendelésének oka megszűnt.
 
@@ -1040,9 +1051,17 @@ fokozott körültekintéssel kell eljárni.
 
 (9) A lakóhely, illetőleg tartózkodási hely megállapításának elrendelésére tett intézkedés, illetőleg a körözés elrendeléséről, valamint az elfogatóparancs kibocsátásáról szóló határozat ellen nincs helye jogorvoslatnak.
 
-73/A. § (1) Európai elfogatóparancs, illetve a nemzetközi bűnügyi jogsegélyről szóló törvény alapján nemzetközi elfogatóparancs kibocsátása esetén a 73. § rendelkezéseit kell alkalmazni.
+73/A. § (1) Nemzetközi, illetve európai elfogatóparancs kibocsátására kerülhet sor
+
+- a) a 73. § (3) bekezdése alapján kibocsátott elfogatóparancs esetén, ha az eljárás adatai alapján feltehető, hogy a terhelt nem tartózkodik Magyarország területén,
+- b) a 73. § (3a) bekezdése alapján kibocsátott elfogatóparancs esetén, ha a terhelt külföldön tartózkodik,
+- c) a 73. § (3b) bekezdése esetén.
 
 (2) Ha a bíróság, az ügyész, illetőleg a nyomozó hatóság a terhelt ellen elfogatóparancsot bocsátott ki, és tudomást szerez arról, hogy más eljárásban a terhelt ellen európai elfogatóparancsot, illetve a nemzetközi bűnügyi jogsegélyről szóló törvény alapján nemzetközi elfogatóparancsot bocsátottak ki – ha annak a terhelt, illetve az elfogatóparanccsal érintett bűncselekmény tekintetében a törvényben meghatározott feltételei fennállnak –, európai elfogatóparancsot, illetve nemzetközi elfogatóparancsot is kibocsát, illetve ennek érdekében intézkedik.
+
+(3) Ha a 73. § alapján az elfogatóparancsot nem a bíróság bocsátotta ki, nemzetközi, illetve európai elfogatóparancs kibocsátására az (1) és (2) bekezdés megfelelő alkalmazásával az ügyész által kibocsátott, vagy a nyomozó hatóság által kibocsátott és ügyészi jóváhagyással ellátott elfogatóparancs alapján kerülhet sor.
+
+(4) A nemzetközi, illetve európai elfogatóparancs kibocsátása esetén a 73. § (5a), (5b) és (8) bekezdését megfelelően alkalmazni kell.
 
 ### A bűnügyi költség
 
@@ -1062,7 +1081,7 @@ fokozott körültekintéssel kell eljárni.
 
 (4) A személyes költségmentesség tárgyában hozott határozat, illetőleg az okozott költség viselésére kötelező határozatnak a költség viselésére vonatkozó rendelkezése elleni jogorvoslat halasztó hatályú.
 
-(5) Az elővezetéssel (162. §), valamint a terhelt elfogása és megtalálása esetén meghatározott bíróság, ügyész, illetőleg nyomozó hatóság elé állításával [73. § (3) bek.] felmerült költség nem számolható el bűnügyi költségként, az ilyen eljárási cselekménnyel okozott költség megtérítésére külön jogszabály az irányadó.
+(5) Az elővezetéssel (162. §), valamint a terhelt elfogása és megtalálása esetén meghatározott bíróság, ügyész, illetőleg nyomozó hatóság elé állításával [73. § (3c) bekezdés] felmerült költség nem számolható el bűnügyi költségként, az ilyen eljárási cselekménnyel okozott költség megtérítésére külön jogszabály az irányadó.
 
 ### III. CÍM — FELVILÁGOSÍTÁS-ADÁS ÉS A NYILVÁNOSSÁG TÁJÉKOZTATÁSA
 
@@ -1975,7 +1994,7 @@ vezet.
 
 (3) A megőrzésre kötelezett a határozat vele történő közlésének időpontjától köteles a határozatban megjelölt információs rendszerben tárolt adatot változatlanul megőrizni, és – szükség esetén más adatállománytól elkülönítve – biztosítani annak biztonságos tárolását. A megőrzésre kötelezett köteles az információs rendszerben tárolt adat megváltoztatását, törlését, megsemmisülését, valamint annak továbbítását, másolat jogosulatlan készítését, illetőleg az adathoz való jogosulatlan hozzáférést megakadályozni.
 
-(4) A megőrzésre kötelezést elrendelő a megőrzéssel érintett adatot fokozott biztonságú elektronikus aláírással láthatja el. Ha az adat eredeti helyen történő megőrzése az érintettnek az adat feldolgozásával, kezelésével, tárolásával vagy továbbításával kapcsolatos tevékenységét jelentősen akadályozná, az elrendelő engedélyével az adat megőrzéséről annak más adathordozóra vagy más információs rendszerbe történő átmásolásával gondoskodhat. Az átmásolást követően az elrendelő az eredeti adatot tartalmazó adathordozóra és információs rendszerre a korlátozásokat részlegesen vagy teljesen feloldhatja.
+(4) A megőrzésre kötelezést elrendelő a megőrzéssel érintett adatot legalább fokozott biztonságú elektronikus aláírással láthatja el. Ha az adat eredeti helyen történő megőrzése az érintettnek az adat feldolgozásával, kezelésével, tárolásával vagy továbbításával kapcsolatos tevékenységét jelentősen akadályozná, az elrendelő engedélyével az adat megőrzéséről annak más adathordozóra vagy más információs rendszerbe történő átmásolásával gondoskodhat. Az átmásolást követően az elrendelő az eredeti adatot tartalmazó adathordozóra és információs rendszerre a korlátozásokat részlegesen vagy teljesen feloldhatja.
 
 (5) Ahhoz az adathoz, amelyet a megőrzésre kötelezés érint, az intézkedés tartama alatt kizárólag az elrendelő bíróság, ügyész, illetőleg nyomozó hatóság, valamint az elrendelő engedélyével az adat birtokosa vagy kezelője jogosult hozzáférni. Arról az adatról, amelyet a megőrzésre kötelezés érint, az adat birtokosa vagy kezelője az intézkedés tartama alatt csak az elrendelő kifejezett engedélyével adhat más részére tájékoztatást.
 
@@ -2512,7 +2531,8 @@ indult eljárás során lehetővé kell tenni, hogy a nyomozási cselekményen a
 - f) nem magyar állampolgár által külföldön elkövetett bűncselekmény miatt a büntetőeljárás megindításához szükséges döntést kell beszerezni,
 - g) nemzetközi büntető bíróság a joghatóságába tartozó ügyben a magyar hatóságot a büntetőeljárás átadása végett megkeresi,
 - h) a kábítószer-élvező gyanúsított önként alávetette magát a kábítószer-függőséget gyógyító kezelésen, kábítószer-használatot kezelő más ellátáson vagy megelőző-felvilágosító szolgáltatáson való részvételnek, és az a büntethetőség megszűnését eredményezheti, feltéve hogy további nyomozási cselekmény elvégzése nem szükséges,
-- i) az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény alapján konzultációs eljárás lefolytatására kerül sor.
+- i) az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény alapján konzultációs eljárás lefolytatására kerül sor,
+- j) az eljárás azért nem folytatható, mert a külföldi igazságügyi hatóság a terhelt kiadatásának vagy átadásának a végrehajtását a külföldön folyamatban lévő büntetőeljárás lefolytatására vagy a külföldön kiszabott szabadságvesztés, illetve szabadságelvonással járó intézkedés végrehajtására tekintettel elhalasztotta, és az eljárás a terhelt távollétében nem folytatható.
 
 (2) A nyomozást folytatni kell, ha a felfüggesztés oka megszűnt, illetve az (1) bekezdés g) pontja esetén, ha a nemzetközi büntető bíróság alapokmányát kihirdető, illetve alapokmányából fakadó kötelezettségek végrehajtásáról szóló törvény azt előírja. A nyomozás folytatását elrendelő határozat ellen nincs helye panasznak.
 
@@ -3554,9 +3574,10 @@ ellen.
 
 - a) ha a vádlott huzamosabb ideig külföldön tartózkodik,
 - b) ha az ügyész megkeresése a vádirat hiányosságainak pótlására, a bizonyítási eszköz felkutatására, biztosítására, megvizsgálására és arra irányult, hogy a bizonyítékok a tárgyaláson rendelkezésre álljanak [268. § (1) bek.],
-- c) a közvetítői eljárás lefolytatása érdekében, legfeljebb hat hónapra.
+- c) a közvetítői eljárás lefolytatása érdekében, legfeljebb hat hónapra,
+- d) ha az eljárás azért nem folytatható, mert a külföldi igazságügyi hatóság a vádlott kiadatásának vagy átadásának a végrehajtását a külföldön folyamatban lévő büntetőeljárás lefolytatására vagy a külföldön kiszabott szabadságvesztés, illetve szabadságelvonással járó intézkedés végrehajtására tekintettel elhalasztotta, és az eljárás a vádlott távollétében nem folytatható.
 
-(4) Ha a bíróság a (3) bekezdés a) pontjában meghatározott intézkedést nem tartja indokoltnak, és a vádlott külföldi tartózkodási helye ismert, a bíróság nemzetközi, illetve európai elfogatóparancsot bocsát ki, és a vádlott kiadatása vagy európai elfogatóparancs alapján történő átadása iránti eljárást kezdeményez. Ha a vádlott kiadatását, illetve európai elfogatóparancs alapján történő átadását megtagadták, illetőleg a kiadatásra vagy átadásra nincs lehetőség, a bíróság – ha a feltételek fennállnak – a büntetőeljárás átadását kezdeményezheti.
+(4) Ha a bíróság a (3) bekezdés a) és d) pontjában meghatározott intézkedést nem tartja indokoltnak, a bíróság a büntetőeljárás átadását kezdeményezheti, vagy az ügyészt tájékoztatja a XXV. Fejezet rendelkezései alapján az eljárás külföldön tartózkodó terhelt távollétében történő lefolytatásának lehetőségéről.
 
 (5) Ha az eljárás felfüggesztésének oka megszűnt, illetve a 188. § (1) bekezdésének g) pontja alapján történt felfüggesztés esetén, ha a nemzetközi büntető bíróság alapokmányát kihirdető, illetve alapokmányából fakadó kötelezettségek végrehajtásáról szóló törvény azt előírja, a bíróság az eljárást folytatja.
 
@@ -4297,11 +4318,13 @@ ellen.
 
 (9) A pótmagánvád alapján lefolytatott eljárásban hozott jogerős ügydöntő határozatot a bíróság megküldi az ügyben korábban eljárt ügyésznek.
 
-344. § (1)
+344. § (1) A pótmagánvádló viseli a 74. § (1) bekezdésében meghatározott bűnügyi költségből azt a költséget, amely a pótmagánvádló fellépése után keletkezett, ha a vádlottat felmentették, vagy vele szemben az eljárást megszüntették.
 
 (2) A pótmagánvádlót csak azzal a cselekménnyel, illetőleg a tényállásnak azzal a részével kapcsolatban felmerült bűnügyi költség viselésére lehet kötelezni, amelyre a vádindítványt előterjesztette, és amelyre a bíróság felmentő ítéletet hozott vagy az eljárást megszüntette. A vádlott felmentése vagy az eljárás megszüntetése esetén az ügyben fellépő pótmagánvádlókat külön-külön kell kötelezni a bűnügyi költség fizetésére. Ha a bűnügyi költség, illetőleg annak meghatározott része a pótmagánvádlók szerint nem különíthető el, a bíróság a pótmagánvádlókat egyetemlegesen kötelezi a bűnügyi költség fizetésére.
 
 (3) Ha a pótmagánvádlók bűnügyi költségben való marasztalásának van helye, a pótmagánvádat elejtő pótmagánvádlót a bűnügyi költség arányos részének megfizetésére kell kötelezni.
+
+(4) Ha a vádat pótmagánvádló képviselte, és a bíróság a vádlottat felmenti, vagy vele szemben az eljárást a pótmagánvádló vádelejtése miatt megszünteti, a pótmagánvádló a határozat jogerőre emelkedésétől számított harminc napon belül – a külön jogszabályban meghatározott mértékben – megtéríti a vádlott meghatalmazott védőjének azon díját és költségét, amely a pótmagánvádló fellépése után keletkezett. A megtérítésre a (2) és (3) bekezdés rendelkezéseit megfelelően alkalmazni kell.
 
 ### XIV. Fejezet — A MÁSODFOKÚ BÍRÓSÁGI ELJÁRÁS
 
@@ -5265,20 +5288,22 @@ II. a terhelt javára:
 
 454. § (1) A fiatalkorú előzetes letartóztatásának a 129. § (2) bekezdésében megállapított okok esetében is csak akkor van helye, ha az a bűncselekmény különös tárgyi súlya folytán szükséges.
 
-(2) A fiatalkorú előzetes letartóztatását – az (5a) bekezdésben foglalt kivétellel –
+(2) A fiatalkorú előzetes letartóztatását
 
-- a) javítóintézetben,
-- b) büntetés-végrehajtási intézetben
+- a) ha az előzetes letartóztatás elrendelésekor a tizennegyedik életévét nem töltötte be, javítóintézetben,
+- b) ha az előzetes letartóztatás elrendelésekor a tizennegyedik életévét betöltötte, de a tizennyolcadik életévét nem töltötte be, javítóintézetben, kivételesen büntetés-végrehajtási intézetben,
+- c) ha az előzetes letartóztatás elrendelésekor a tizennyolcadik életévét betöltötte, de a huszadik életévét nem töltötte be, büntetés-végrehajtási intézetben, kivételesen javítóintézetben,
+- d) ha az előzetes letartóztatás elrendelésekor a huszadik életévét betöltötte, büntetés-végrehajtási intézetben
 
 kell végrehajtani.
 
-(3) A bíróság dönt arról, hogy az előzetes letartóztatást – a fiatalkorú személyiségére vagy a terhére rótt bűncselekmény jellegére tekintettel – hol kell végrehajtani.
+(3) A (2) bekezdés b) és c) pontjában meghatározott esetben a bíróság dönt arról, hogy az előzetes letartóztatást – a fiatalkorú személyiségére vagy a terhére rótt bűncselekmény jellegére tekintettel – hol kell végrehajtani.
 
 (4) Az előzetes letartóztatás tartama alatt a bíróság az előzetes letartóztatás végrehajtásának helyét az ügyész, a terhelt vagy a védő indítványára megváltoztathatja. Erről – a tárgyalás előkészítése során hozott határozatig – az előzetes letartóztatást elrendelő bíróság, azt követően az a bíróság határoz, amelyik előtt a büntetőeljárás folyik.
 
 (5) Ha a fiatalkorú előzetes letartóztatását javítóintézetben hajtják végre, és a fiatalkorú büntetés-végrehajtási intézetben vagy rendőrségi fogdában történő ideiglenes elhelyezéséről a bíróság határoz, a bíróság hatáskörére és illetékességére a (4) bekezdést kell alkalmazni.
 
-(5a) A bűncselekmény elkövetésekor tizennegyedik életévét be nem töltött fiatalkorú előzetes letartóztatását javítóintézetben kell végrehajtani.
+(5a)
 
 (6) Az előzetes letartóztatás végrehajtása során a fiatalkorúakat a felnőttkorúaktól el kell különíteni.
 
@@ -5736,6 +5761,8 @@ kell végrehajtani.
 
 (5) Ha a bűnügyi költséget a magánvádlók viselik, a vádat elejtő magánvádlót az eljárásban való részvételéhez igazodóan kell a bűnügyi költség arányos részének megfizetésére kötelezni.
 
+(6) Ha a vádat magánvádló képviselte, és a bíróság a vádlottat felmenti, vagy vele szemben az eljárást a magánvádló vádelejtése miatt megszünteti, a magánvádló a határozat jogerőre emelkedésétől számított harminc napon belül – a külön jogszabályban meghatározott mértékben – megtéríti a vádlott azon költségét, továbbá meghatalmazott védőjének azon díját és költségét, amely a magánvádas eljárásban keletkezett. A megtérítésre a (2)–(5) bekezdés rendelkezéseit megfelelően alkalmazni kell.
+
 ### A perújítási indítvány
 
 515. § (1) A magánvádló csak akkor terjeszthet elő perújítási indítványt, ha a terheltet felmentették, vagy az eljárást megszüntették.
@@ -5797,7 +5824,7 @@ kell végrehajtani.
 
 ### Nyomozás és vádemelés az ismeretlen helyen tartózkodó terhelttel szemben
 
-527. § (1) A nyomozásnak nem akadálya, hogy a terhelt ismeretlen helyen tartózkodik; ebben az esetben a tartózkodási helyének felkutatása iránt kell intézkedni [73. § (1)–(3) bek.], és gondoskodni kell a bizonyítási eszközök felderítéséről és biztosításáról.
+527. § (1) A nyomozásnak nem akadálya, hogy a terhelt ismeretlen helyen tartózkodik; ebben az esetben a tartózkodási helyének felkutatása iránt kell intézkedni [73. § (1)–(3c) bekezdés], és gondoskodni kell a bizonyítási eszközök felderítéséről és biztosításáról.
 
 (2) Szabadságvesztéssel büntetendő bűncselekmény miatt indult nyomozás során – ha a terhelt tartózkodási helyének felkutatása iránt tett más intézkedés nem vezetett eredményre – elfogatóparancsot kell kibocsátani, ezzel egyidejűleg a terhelt részére, ha nincs meghatalmazott védője, védőt kell kirendelni.
 
@@ -5856,13 +5883,27 @@ az ügyész vádat emel.
 
 ### Eljárás a külföldön tartózkodó terhelt távollétében
 
-532. § (1) Ha a terhelt külföldön tartózkodik, és kiadatásának vagy az európai elfogatóparancs alapján történő átadásának nincs helye, illetve kiadatását vagy az európai elfogatóparancs alapján történő átadását megtagadták, és a büntetőeljárás átadására sem került sor, az ügyész a vádiratban indítványozhatja, hogy a tárgyalást a vádlott távollétében tartsák meg.
+532. § (1) Ha a terhelt külföldön ismert helyen tartózkodik, és
 
-(2) Ha a bírósági eljárásban állapítják meg, hogy a vádlott külföldön ismert helyen tartózkodik, a bíróság felhívhatja az ügyészt, hogy kívánja-e indítványozni a tárgyalásnak a vádlott távollétében történő folytatását.
+- a) európai vagy nemzetközi elfogatóparancs kibocsátásának nincs helye, vagy arra azért nem kerül sor, mert a vádiratban az ügyész végrehajtandó szabadságvesztés büntetés kiszabására vagy javítóintézeti nevelés alkalmazására nem tesz indítványt, és
+  - aa) a terhelt szabályszerű idézés ellenére nem jelent meg, vagy
+  - ab) a terhelt külföldön fogvatartásban van,
+- b) európai vagy nemzetközi elfogatóparancsot bocsátottak ki, de a terhelt elfogását követően a terhelt átadására vagy kiadatására tizenkét hónapon belül nem került sor, és a büntetőeljárás átadására sem került sor,
+- c) európai vagy nemzetközi elfogatóparancsot bocsátottak ki, de a terhelt átadását vagy kiadatását megtagadták, és a büntetőeljárás átadására sem került sor,
+- d) európai vagy nemzetközi elfogatóparancsot bocsátottak ki, és a terhelt halasztott átadását vagy kiadatását rendelték el,
 
-(3) Ha az ismeretlen helyen tartózkodó vádlott távollétében megkezdett tárgyalás során állapítják meg, hogy a terhelt külföldön ismert helyen tartózkodik a bíróság az ügyész felhívása nélkül folytatja a tárgyalást.
+az ügyész a vádiratban indítványozhatja, hogy a tárgyalást a terhelt távollétében tartsák meg.
 
-(4) Külföldön ismert helyen tartózkodó terhelttel szemben elfogató parancs kibocsátásának nincs helye, ha a vádiratban az ügyész szabadságvesztés büntetés kiszabására nem tett indítványt.
+(2) Ha a bírósági eljárásban állapítják meg, hogy a terhelt külföldön ismert helyen tartózkodik, és
+
+- a) a terhelt szabályszerű idézés ellenére nem jelenik meg, vagy
+- b) külföldön fogvatartásban van,
+
+az (1) bekezdésben meghatározottak megfelelő alkalmazásával a bíróság felhívhatja az ügyészt, hogy az (1) bekezdés alapján kívánja-e indítványozni a tárgyalásnak a terhelt távollétében történő folytatását.
+
+(3) Ha a terhelt külföldön fogvatartásban van, az (1) és (2) bekezdés alapján az eljárás terhelt távollétében történő folytatásának csak a terhelt hozzájárulásával van helye. Ha terhelt az eljárás folytatásához nem járul hozzá, a bíróság az eljárást felfüggeszti.
+
+(4) Ha az ismeretlen helyen tartózkodó vádlott távollétében megkezdett tárgyalás során állapítják meg, hogy a terhelt külföldön ismert helyen tartózkodik, a bíróság az (1)–(3) bekezdés alkalmazásával az ügyész felhívása nélkül folytatja a tárgyalást.
 
 (5) Ha az eljárást a külföldön tartózkodó terhelttel szemben folytatják, illetve, ha a terhelt hazatért, az 527–531. § rendelkezéseit értelemszerűen kell alkalmazni.
 
@@ -6785,7 +6826,7 @@ felterjeszti. A kegyelmi kérelemnek az eljárás folytatására nincs halasztó
 
 - a) az ismeretlen helyen tartózkodó terhelt, illetve a bűncselekmény elkövetésével alaposan gyanúsítható ismeretlen személy tartózkodási helye felkutatásának, lakóhelye, illetőleg személyazonossága megállapításának és körözése elrendelésének részletes szabályait az érintett miniszterekkel egyetértésben,
 - b) büntetőeljárás során kirendelt védő, a büntetőeljárásban részt vevő személyek költségeit, e személyek képviselőinek – ide nem értve a pártfogó ügyvédek – díját és költségeit, valamint a terhelt személyes költségmentességével kapcsolatos részletes szabályokat a rendészetért felelős miniszter és az államháztartásért felelős miniszter egyetértésével kiadott,
-- c) a bűnügyi költségek előlegezésének és az államot illető bűnügyi költségek behajtásának és elszámolásának, valamint a vádlott és a védő készkiadása, illetőleg a védő díja állam általi megtérítésének szabályait az államháztartásért felelős miniszter és a rendészetért felelős miniszter egyetértésével kiadott,
+- c) a bűnügyi költségek előlegezésének és az államot illető bűnügyi költségek behajtásának és elszámolásának, valamint a vádlott és a meghatalmazott védő készkiadása, illetve a meghatalmazott védő díja állam, pótmagánvádló vagy magánvádló általi megtérítésének szabályait az államháztartásért felelős miniszter és a rendészetért felelős miniszter egyetértésével kiadott,
 - d) a szaktanácsadó díjazására, illetve a tanú által felszámítható költségekre vonatkozó részletes szabályokat az államháztartásért felelős miniszterrel egyetértésben,
 - e)
 - f) az elmeállapot megfigyelésére kijelölt egészségügyi intézményeket, a pszichiátriai fekvőbeteg-intézetben az elmeállapot megfigyelésével kapcsolatos költségeket és ezek elszámolását az egészségügyért felelős miniszter egyetértésével kiadott,

@@ -86,6 +86,8 @@ géntechnológiai módosítás által megváltozott génállományú természete
 
 5. § (1) Magyarországon a Nemzeti Fajtajegyzékbe való felvétel céljából a külön jogszabályban felsorolt növényfajok fajtáit állami elismerésben kell részesíteni. Egyéb növényfajok fajtái esetében állami elismerés adható.
 
+(1a) Az 1143/2014/EU európai parlamenti és tanácsi rendelet szerinti, az Európai Unió, egy adott régió vagy Magyarország számára veszélyt jelentő idegenhonos inváziós fajok listáján szereplő növényfajok fajtái állami elismerésben nem részesíthetők.
+
 (2) Az állami elismerésre bejelentett növényfajta meghatározott ideig, legfeljebb az állami elismerés időpontjáig kaphat egyedi szaporítási engedélyt. Az engedély kiadásának feltételeit külön jogszabály határozza meg.
 
 (3) Az állami elismerés növényfajonkénti, valamint növényfajon belüli felhasználási cél szerinti feltételeit külön jogszabály határozza meg.
@@ -158,6 +160,8 @@ géntechnológiai módosítás által megváltozott génállományú természete
 (2) Az állami elismerés időtartama szőlő-, gyümölcs-, erdészeti fajták és fásszárú energetikai célú fajták, illetve fásszárú dísznövények esetében a megadástól számított 30. év végéig, egyéb növényfajták esetében a megadástól számított 10. év végéig tart, amely a bejelentő kérelmére további 30, illetve 10 éves időtartamra többször is meghosszabbítható.
 
 (3) Az állami elismerés megszűnik a növényfajta elismerési idejének lejárta esetén, a bejelentő kérelmére, illetve külön jogszabályban meghatározott esetekben.
+
+(4) Amennyiben a növényfaj felkerül az Európai Unió, egy adott régió vagy a Magyarország számára veszélyt jelentő idegenhonos inváziós fajok listájára, a növénytermesztési hatóság a növényfaj fajtájának állami elismerését hivatalból visszavonja.
 
 12. § (1) A növénytermesztési hatóság az állami elismerésben részesített növényfajtákról közhitelű nyilvántartást vezet és közzéteszi a Nemzeti Fajtajegyzéket.
 
@@ -415,13 +419,20 @@ megsemmisítését rendelheti el.
 
 (3) A növénytermesztési hatóság hatósági igazolványt állít ki az ellenőrzést végző munkatársa részére. A növénytermesztési hatóság ellenőrzési tevékenysége kiterjed minden olyan helyre, ahol a szaporítóanyag előállítását, kezelését, tárolását végzik, továbbá, ahol szaporítóanyagot forgalomba hoznak vagy szaporító alapanyagot felhasználnak. A termelő, illetve a forgalmazó köteles az ellenőrzést végző személy bejutását biztosítani az ellenőrizendő helyre és együttműködni az ellenőrzést végzővel.
 
-(4) A növénytermesztési hatóság közigazgatási eljárásban országos illetékességgel hozott döntése ellen közigazgatási eljárás keretében fellebbezésnek helye nincs.
+(4) A növénytermesztési hatóság közigazgatási eljárásban hozott döntése ellen közigazgatási eljárás keretében fellebbezésnek helye nincs.
 
 (5) A növénytermesztési hatóság az (1) bekezdés a) pontja szerinti nyilvántartásban lévő adatokat az élelmiszerlánc-felügyeleti információs rendszerben kezeli.
 
 23/A. § (1) A szaporítóanyag jelölésére (címkézésére) vonatkozóan e törvényben és a végrehajtására kiadott jogszabályban meghatározott rendelkezések megsértése esetén az eljárás lefolytatására a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvényben (a továbbiakban: Fttv.) meghatározott hatóság jogosult, ha a jogsértés az Fttv. 2. §-ának a) pontja értelmében vett fogyasztót érint. Az eljáró hatóság az Fttv.-ben meghatározott szabályok szerint jár el.
 
 (2) Az (1) bekezdésben említett rendelkezések a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezések.
+
+23/B. § Ha a növénytermesztési hatóság eljárása idegenhonos inváziós fajt érint, a növénytermesztési hatóság
+
+- a) az 1143/2014/EU európai parlamenti és tanácsi rendelet, valamint
+- b) a természet védelméről szóló törvény idegenhonos inváziós fajokkal kapcsolatos
+
+rendelkezéseit is alkalmazza.
 
 24. § A Fajtaminősítő Bizottság
 
@@ -521,5 +532,7 @@ a miniszter e törvény felhatalmazása alapján kiadott rendeletében meghatár
 - l) a Tanács 2008/90/EK irányelve a gyümölcstermő növények szaporítóanyagai, illetve a gyümölcstermesztésre szánt gyümölcstermő növények forgalmazásáról,
 - m) a Bizottság 2008/62/EK irányelve a helyi és a regionális feltételekhez természetes módon alkalmazkodott, és génerózió által veszélyeztetett mezőgazdasági honos fajok és fajták elfogadása, és ezen honos fajok és fajták vetőmagjának, valamint vetőburgonyájának forgalmazása esetében alkalmazható eltérésekről,
 - n) a Bizottság 2009/145/EK irányelve az egy adott helyen és régióban hagyományosan termesztett és génerózió által veszélyeztetett honos zöldségfajok és fajták, illetve a kereskedelmi növénytermesztési szempontból tényleges értékkel nem rendelkező, csupán bizonyos feltételek melletti termesztésre nemesített zöldségek fajtáinak elismerése, és ezen honos fajok és fajták vetőmagjának forgalmazása esetében alkalmazható eltérésekről.
+
+31/A. § Ez a törvény az idegenhonos inváziós fajok betelepítésének vagy behurcolásának és terjedésének megelőzéséről és kezelésről szóló, 2014. október 22-i, 1143/2014/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 32. § A törvény 2. § 35. pontjának és 21/A. §-ának a műszaki szabványok és szabályok terén történő információszolgáltatási eljárás megállapításáról szóló 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv – 98/48/EK európai parlamenti és tanácsi irányelvvel módosított – 8–10. cikke szerinti előzetes bejelentése megtörtént.

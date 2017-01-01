@@ -14,13 +14,15 @@ Az Országgyűlés annak érdekében, hogy a Közösség területére belépő, 
 
 3. § A vámhatóság a készpénzforgalom ellenőrzése érdekében, a Rendelet 3. cikkében meghatározott nyilatkozattételi kötelezettség teljesítésének ellenőrzése céljából vámigazgatási jogkörben jogosult a természetes személyek, poggyászuk és szállítóeszközük ellenőrzésére.
 
+3/A. § A Rendelet 3. cikk (2) bekezdése szerinti nyilatkozattételi kötelezettség elmulasztása esetén a vámhatóság a készpénzt határozattal foglalja le.
+
 4. § (1) A Rendelet 5. cikk (1) bekezdése alapján a vámhatóság nyilvántartásba veszi és 2 évig, a (2)–(4) bekezdés szerinti tájékoztatás és adattovábbítás esetén – kizárólag a tájékoztatás, adattovábbítás jogszerűségének megállapítása céljából – a tájékoztatástól, illetve az adattovábbítástól számított további 5 évig kezeli a Rendelet 3. cikke szerint közölt és a 3. § alapján végzett ellenőrzés során szerzett adatokat.
 
 (2) A Rendelet 5. cikke által meghatározott kötelezettség végrehajtása érdekében a vámhatóság az (1) bekezdés alapján nyilvántartásba vett adatokról írásbeli megkeresésre tájékoztatja a pénzügyi információs egységként működő hatóságot.
 
 (2a) A pénzügyi információs egységként működő hatóság törvényben meghatározott feladatainak teljesítése érdekében a vámhatóság által nyilvántartásba vett adatot – ha a technikai feltételek mindkét félnél adottak – közvetlen elektronikus adatkapcsolat útján is beszerezheti.
 
-(3) Amennyiben a Rendelet 3. cikke szerint közölt vagy a 3. § alapján végzett ellenőrzés során szerzett adat pénzmosásra vagy terrorizmus finanszírozására utal, a vámhatóság köteles azt haladéktalanul a pénzügyi információs egységként működő hatóságnak továbbítani.
+(3) Amennyiben a Rendelet 3. cikke szerint közölt vagy a 3. § alapján végzett ellenőrzés során szerzett adat pénzmosásra vagy terrorizmus finanszírozására utal, a vámhatóság köteles azt haladéktalanul a pénzügyi információs egységként működő hatóságnak továbbítani és a hatóság visszajelzéséig az adat alapjául szolgáló készpénz teljes összegét visszatartani.
 
 (4) A Rendelet 5. cikk (2) bekezdésének végrehajtása esetén a vámhatóság a Rendelet 5. cikk (2) bekezdésében meghatározott adatokat nyilvántartásba veszi, a nyilvántartásba vételtől számított 2 évig kezeli, és a (3) bekezdés szerint továbbítja.
 
@@ -35,17 +37,30 @@ Az Országgyűlés annak érdekében, hogy a Közösség területére belépő, 
 5/A. § (1) Az Európai Unió területére belépő vagy azt elhagyó természetes személynek, aki a nála lévő, a Rendelet 2. cikk 2. pontja szerinti készpénz vonatkozásában a Rendelet 3. cikk (1) bekezdése szerinti nyilatkozattételi kötelezettségét tévesen, hiányosan vagy egyáltalán nem teljesíti, a Rendelet 9. cikkének megfelelően
 
 - a) 10 000 euró vagy azt meghaladó, de 20 000 eurót meg nem haladó összegű készpénz esetén a birtokában lévő összeg 10%-ának,
-- b) 20 000 eurót meghaladó, de 50 000 eurót meg nem haladó összegű készpénz esetén a birtokában lévő összeg 40%-ának,
+- b) 20 000 eurót meghaladó, de 50 000 eurót meg nem haladó összegű készpénz esetén a birtokában lévő összeg 30%-ának,
 - c) 50 000 eurót meghaladó összegű készpénz esetén a birtokában lévő összeg 50%-ának megfelelő, forintban meghatározott összegű bírságot kell a helyszínen fizetnie.
 
 megfelelő, forintban meghatározott összegű bírságot kell a helyszínen fizetnie.
 
 (2) A bírság összegét 1000 forintra kerekítve kell alkalmazni. A bírság összegének forintban történő meghatározásához a 2. § (3) bekezdését kell alkalmazni.
 
+5/B. § (1) A bírság megfizetésére kötelezett személy (a továbbiakban: kötelezett személy) a bírság mérséklése érdekében, a bírságot tartalmazó határozat kézhezvételétől számított 15 napon belül méltányossági kérelemmel élhet. A kérelmet a bírságot kiszabó vámhatóságnál kell benyújtani.
+
+(2) A kérelemben ismertetni kell minden olyan tényt, adatot, okiratot, amely a be nem jelentett készpénz eredetét hitelt érdemlően igazolja. Hitelt érdemlő igazolásnak számít különösen
+
+- a) közokirat, vagy
+- b) teljes bizonyító erejű magánokirat.
+
+(3) A magyar nyelvet nem ismerő kötelezett személy a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény nyelvhasználatra vonatkozó rendelkezései szerint kérheti a kérelmében ismertetett tény, adat, okirat vámhatóság általi elbírálását.
+
+(4) Amennyiben a vámhatóság a kérelemnek helyt ad a kiszabott bírságösszeget 50%-al csökkenti és a kötelezett személy részére történő visszafizetéséről határozattal dönt. A visszafizetést a vámhatóság a bírság megfizetésének biztosítására ideiglenes biztosítási intézkedésként visszatartott készpénz esetén készpénzben, az 5/A. § (1) bekezdése alapján a helyszínen forintban megfizetett bírság esetén átutalással, a kötelezett személy által a kérelemben megjelölt fizetési számlára teljesíti. A tranzakció illetéke a kötelezett személyt terheli.
+
+(5) A bírság visszafizetése nem keletkeztet kamatfizetést, valamint az átváltásból és időmúlásból eredő árfolyamveszteség nem keletkeztet fizetési kötelezettséget a vámhatóság részéről.
+
 6. § (1) E törvény 2007. június 15. napján lép hatályba.
 
-(2)
+(2) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel megállapított 3/A. §-át, 4. § (3) bekezdését és az 5/B. §-át a törvény hatályba lépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
 (3) E törvény a Közösség területére belépő, illetve a Közösség területét elhagyó készpénz ellenőrzéséről szóló 2005. október 26-i 1889/2005/EK európai parlamenti és tanácsi rendelet végrehajtását szolgálja.
 
-7. § Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben szabályozza az Európai Unió területére belépő vagy azt elhagyó készpénz ellenőrzésének végrehajtását, annak részletes szabályait, az ideiglenes biztosítási intézkedésként visszatartott készpénz kezelésére, letétbe helyezésére és őrzésére vonatkozó részletes szabályokat, a bírság kiszabására vonatkozó részletes eljárási szabályokat, valamint a kiszabott bírság bevételezésének rendjét.
+7. § Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben szabályozza az Európai Unió területére belépő vagy azt elhagyó készpénz ellenőrzésének végrehajtását, annak részletes szabályait, a lefoglalt, visszatartott, és ideiglenes biztosítási intézkedésként visszatartott készpénz kezelésére, letétbe helyezésére és őrzésére vonatkozó részletes szabályokat, a bírság kiszabására vonatkozó részletes eljárási szabályokat, valamint a kiszabott bírság bevételezésének rendjét.

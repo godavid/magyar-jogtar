@@ -19,6 +19,7 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 - 5. ellátja a közterület rendjének fenntartásával kapcsolatos rendészeti feladatokat,
 - 6. gondoskodik a büntetőeljárásban részt vevők és az eljárást folytató hatóság tagjainak személyi védelméről, valamint a büntetőeljárásban részt vevők, az igazságszolgáltatást segítők Védelmi Programjának (a továbbiakban: Védelmi Program) végrehajtásáról, továbbá védi a Magyarország szempontjából – külön jogszabályban meghatározott – különösen fontos személyek (a továbbiakban: védett személy) életét, testi épségét, őrzi a kijelölt létesítményeket,
 - 7. engedélyezi és felügyeli a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenységet,
+- 7a. engedélyezi – nemzetközi megállapodás eltérő rendelkezése hiányában – a szolgálati lőfegyverek és lőszerek szolgálati célból történő külföldre vitelét és az együttműködő, külföldi rendészeti feladatokat ellátó hatóságok szolgálati lőfegyvereinek és lőszereinek az országba történő behozatalát,
 - 8. büntetés-végrehajtási feladatokat lát el,
 - 9. ellátja a rendkívüli állapot, a szükségállapot, a megelőző védelmi helyzet, a terrorveszélyhelyzet, a váratlan támadás és a veszélyhelyzet esetén a hatáskörébe utalt rendvédelmi feladatokat, továbbá rendkívüli állapot idején és váratlan támadás esetén közreműködik az államhatárt fegyveresen vagy felfegyverkezve átlépő személyek kiszorításában, valamint elfogásában és lefegyverzésében,
 - 10. őrzi az államhatárt, megelőzi, felderíti, megszakítja az államhatár jogellenes átlépését, ellátja a hatáskörébe utalt idegenrendészeti és menekültügyi feladatokat,
@@ -39,7 +40,7 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 
 (2) A rendőrség a feladatának ellátása során
 
-- a) együttműködik az állami és a helyi önkormányzati szervekkel, a társadalmi és a gazdálkodó szervezetekkel, az állampolgárokkal és azok közösségeivel;
+- a) együttműködik az állami és a helyi önkormányzati szervekkel, a civil szervezetekkel és a gazdálkodó szervezetekkel, az állampolgárokkal és azok közösségeivel;
 - b) segítséget nyújt — jogszabályban meghatározott esetben — az állami és a helyi önkormányzati szervek hivatalos eljárásának zavartalan lefolytatásához;
 - c) támogatja a helyi önkormányzatoknak és az állampolgárok közösségeinek a közbiztonság javítására irányuló önkéntes tevékenységét.
 
@@ -61,7 +62,7 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 
 (3) A Kormány a rendőrséget a rendészetért felelős miniszter (a továbbiakban: miniszter) útján irányítja.
 
-4/A. § (1) Az általános rendőrségi feladatok ellátására létrehozott szerv központi szervre (a továbbiakban: központi szerv), megyei (fővárosi) rendőr-főkapitányságokra, rendőrkapitányságokra és kirendeltségekre tagozódik. Egyes feladatok ellátására törvény vagy kormányrendelet más rendőri szervet is létrehozhat.
+4/A. § (1) Az általános rendőrségi feladatok ellátására létrehozott szerv központi szervre (a továbbiakban: központi szerv), megyei (fővárosi) rendőr-főkapitányságokra, rendőrkapitányságokra és határrendészeti kirendeltségekre tagozódik. Egyes feladatok ellátására törvény vagy kormányrendelet más rendőri szervet is létrehozhat.
 
 (2) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv és a terrorizmust elhárító szerv szervezeti egységeként kormányrendelet kirendeltséget hozhat létre.
 
@@ -398,7 +399,7 @@ követelményei
 
 ### Az intézkedések és a kényszerítő eszközök alkalmazásának közös elvei és szabályai
 
-17. § (1) A rendőrség a feladatának ellátása során a testi épséghez, a személyes szabadsághoz, a magánlakás, a magántitok és a levéltitok sérthetetlenségéhez, a személyes adatokhoz, valamint a tulajdonhoz fűződő jogokat a törvényben foglaltak szerint korlátozhatja.
+17. § (1) A rendőrség a feladatának ellátása során a testi épséghez, a személyi szabadsághoz, a magánlakás, a magántitok és a levéltitok sérthetetlenségéhez, a személyes adatokhoz, valamint a tulajdonhoz fűződő jogokat a törvényben foglaltak szerint korlátozhatja.
 
 (2) A rendőri intézkedés során a kényszerítő eszköz alkalmazása esetén lehetőleg kerülni kell a sérülés okozását, az emberi élet kioltását. Az intézkedés folytán megsérült személy részére — amint ez lehetséges — segítséget kell nyújtani, szükség esetén a rendőr gondoskodik arról, hogy a sérültet orvos elláthassa, kórházi elhelyezése esetén a hozzátartozó vagy más, a sérülttel kapcsolatban álló személy erről értesüljön.
 
@@ -580,7 +581,7 @@ igazolja.
 
 35. § (1) A rendőrség nemzetközi szerződés alapján végrehajtja a személyek államhatáron történő átadását, átvételét, valamint más államok között átadásra kerülő személyeknek az átadás helyére kíséréssel történő átszállítását, valamint részt vesz az Európai Unió tagállamai által közösen, kísérővel végrehajtott hazatérésekben.
 
-(2) A rendőrség az idegenrendészeti hatáskörben elrendelt személyes szabadságot korlátozó kényszerintézkedéseket a tranzitterületen is alkalmazhatja.
+(2) A rendőrség az idegenrendészeti hatáskörben elrendelt személyi szabadságot korlátozó kényszerintézkedéseket a tranzitterületen is alkalmazhatja.
 
 ### Határforgalom-ellenőrzés
 
@@ -921,7 +922,7 @@ törölni kell.
 - h)
 - i) azzal szemben, aki a nála lévő fegyver vagy élet kioltására alkalmas más eszköz letételére irányuló rendőri felszólításnak nem tesz eleget, és magatartása a fegyver vagy más az élet kioltására alkalmas eszköz ember elleni közvetlen felhasználására utal;
 - j) az elfogott, bűncselekmény elkövetése miatt őrizetbe vett, vagy bírói döntés alapján fogva tartott személy erőszakos kiszabadításának megakadályozására, az azt megkísérlővel szemben.
-- k) a saját élete, testi épsége, személyes szabadsága ellen intézett támadás elhárítására.
+- k) a saját élete, testi épsége, személyi szabadsága ellen intézett támadás elhárítására.
 
 (2) Nemzetközi szerződés vagy az Európai Unió kötelező jogi aktusa alapján más állam területén szolgálatot ellátó rendőr a nemzetközi szerződésben vagy az Európai Unió kötelező jogi aktusában meghatározott esetekben és módon használhat lőfegyvert.
 
@@ -1323,6 +1324,18 @@ kezeli.
 
 (4) A (2) bekezdés a) pontjában meghatározott jogok gyakorlásának megtagadását vagy korlátozását írásban indokolni kell. Az indokolás csak akkor mellőzhető, ha azt e törvény lehetővé teszi. Az érintett a korlátozás vagy az indokolás mellőzésének indokolatlanságára tekintettel a Nemzeti Adatvédelmi és Információszabadság Hatósághoz vagy a bírósághoz fordulhat. Erről az érintettet tájékoztatni kell.
 
+80/A. § (1) Az állam működése, illetve a lakosság ellátása szempontjából kiemelten fontos létesítmények biztonságos üzemeltetésével közvetlenül összefüggő műszaki adatok, valamint a létesítmény működéséhez kapcsolódó, a létesítmény- és személyvédelemre vonatkozó adatok megismerése iránti igényt nemzetbiztonsági érdekből, illetve a bűncselekmények megelőzése érdekében a Rendőrségről szóló 1994. évi XXXIV. törvény, valamint az elektronikus hírközlésről szóló 2003. évi C. törvény módosításáról szóló 2016. évi CXXVIII. törvény (a továbbiakban: Mód. törvény) hatálybalépésétől vagy – ha az későbbi – az adat keletkezésétől számított legfeljebb 30 évig, de legfeljebb az érintett létesítmény használatának végéig el kell utasítani, ha az adat megismerése Magyarország nemzetbiztonsági érdekeit vagy a bűncselekmények megelőzéséhez fűződő érdekeit veszélyezteti.
+
+(2) Az (1) bekezdés szerinti igény teljesíthetőségéről – Magyarország nemzetbiztonsági érdekeit, illetve a bűncselekmények megelőzéséhez fűződő érdekeit mérlegelve – az adatkezelő
+
+- a) honvédelmi célú létesítmény esetén a honvédelemért felelős miniszter,
+- b) polgári hírszerzési célú létesítmény esetén a polgári hírszerzési tevékenység irányításáért felelős miniszter,
+- c) az a) és b) pont hatálya alá nem tartozó esetben a terrorizmus elleni küzdelemért és a bűncselekmények megelőzéséért felelős miniszter
+
+véleményének kikérésével dönt.
+
+(3) A (2) bekezdésben meghatározott véleményt legkésőbb tizenöt napon belül kell megadni. A vélemény megkérésétől annak megadásáig vagy a véleményadási határidő eredménytelen elteltéig terjedő időtartam az adat megismerése iránti igény teljesítésére rendelkezésre álló határidőbe nem számít bele.
+
 ### A rendőrségi feladatok ellátásához szükséges
 
 adatok köre
@@ -1452,18 +1465,24 @@ adatok köre
 
 91/A. § (1) A rendőrségi adatkezelő szerv az e törvényben meghatározott bűnüldözési feladatok ellátása céljából bűnüldözési adatállományban kezeli az alábbi adatokat:
 
-- a) a felderítetlenül maradt bűncselekmény kriminalisztikai szempontból fontos jellemzőit a bűncselekmény elkövetőjének felderítéséig vagy – ennek hiányában – a bűncselekmény büntethetőségének elévüléséig;
+- a) a felderítetlenül maradt bűncselekmény kriminalisztikai szempontból fontos jellemzőit a bűncselekmény elkövetőjének felderítéséig vagy – ennek hiányában – a bűncselekmény büntethetőségének elévüléséig, ha pedig a büntethetőség elévülése kizárt, az adatok bűnüldözési adatállományba történt bekerülésének időpontjától számított ötven évig;
 - b) a bűncselekmény helyszínén rögzített nyomokat, anyagmaradványokat, eszközöket a c) pontban meghatározott ideig;
-- c) a szándékos bűncselekmény elkövetésének megalapozott gyanúja miatt kihallgatott személy adatait, személyleírását, fényképét, hangmintáját, valamint az elvégzett kriminalisztikai szakértői vizsgálatok adatait a bűncselekmény büntethetőségének elévülésétől vagy elítélés esetén a büntetett előélethez fűződő hátrányok alóli mentesítéstől számított húsz évig;
-- d) a rendőrségen fogvatartott, a házi őrizet, illetve a lakhelyelhagyási tilalom alá helyezett és azon személyek adatait, akikkel szemben távoltartást rendeltek el, valamint akiknek óvadék vagy biztosíték letétbe helyezését engedélyezték, a bűncselekmény büntethetőségének elévüléséig vagy elítélés esetén a büntetett előélethez fűződő hátrányok alóli mentesítésig;
-- e) súlyos bűncselekmény esetén, vagy ha a bűncselekmény 1. élet, testi épség, emberi szabadság és vagyon elleni erőszakos bűntett, illetve az emberkereskedelem és az embercsempészet három évig terjedő szabadságvesztéssel fenyegetett alakzata, 2. nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény három évig terjedő szabadságvesztéssel fenyegetett alakzata, 3. gyermekkorú személy sérelmére elkövetett, három évig terjedő szabadságvesztéssel fenyegetett bűntett, 4. üzletszerűen vagy bűnszövetségben elkövetett, három évig terjedő szabadságvesztéssel büntetendő bűncselekmény, 5. kábítószer-kereskedelem, kábítószer birtoklása, kóros szenvedélykeltés, kábítószer készítésének elősegítése, kábítószer-prekurzorral visszaélés, új pszichoaktív anyaggal visszaélés, radioaktív anyaggal visszaélés, nukleáris létesítmény üzemeltetésével visszaélés, atomenergia alkalmazásával visszaélés, 6. pénzhamisítás elősegítése, készpénz-helyettesítő fizetési eszköz hamisítása, készpénz-helyettesítő fizetési eszközzel visszaélés, pénzmosás, információs rendszer felhasználásával elkövetett csalás, a korrupciós bűncselekmények öt évet el nem érő szabadságvesztéssel büntetendő alakzata, a bűncselekmény elkövetésével gyanúsított személyek és kapcsolataik adatait, kriminalisztikai szempontból fontos jellemzőit húsz évig vagy a nemzetközi kötelezettségvállalásban meghatározott ideig;
-- f) a nemzetközi kötelezettségvállalás alapján mindazon személyek, cselekményeik, valamint kapcsolataik adatait, akikkel szemben nemzetközi bűnüldözési vagy egyéb nyomozási intézkedéseket kell foganatosítani, a büntethetőség elévüléséig vagy a nemzetközi kötelezettségvállalásban meghatározott ideig;
-- g) a szervezett bűnözésre utaló cselekményekben érintett, illetőleg a bűnözői csoportban résztvevő vagy azzal együttműködő személyek, valamint kapcsolataik adatait és kriminalisztikai szempontból fontos jellemzőit az érintett személyre vonatkozóan keletkezett utolsó adatot követő húsz évig;
-- h) az egyes bűncselekmények nyomozása során a felderítés és a bizonyítás kapcsán keletkező iratokban szereplő személyekről, azok kapcsolatairól, eljárási helyzetéről, a hozzá fűződő nyomozási adatokról az ügyben hozott jogerős ítéletig vagy a nyomozás megszüntetése esetén a bűncselekmény büntethetőségének elévüléséig;
+- c) a szándékos bűncselekmény elkövetésének megalapozott gyanúja miatt kihallgatott személy adatait, személyleírását, fényképét, hangmintáját, valamint az elvégzett kriminalisztikai szakértői vizsgálatok adatait a bűncselekmény büntethetőségének elévülésétől számított húsz évig – ha a büntethetőség elévülése kizárt, az adatok bűnüldözési adatállományba történt bekerülésétől számított ötven évig – vagy elítélés esetén a büntetett előélethez fűződő hátrányok alóli mentesítésről való hivatalos rendőrségi tudomásszerzés időpontjától számított húsz évig, ennek hiányában az adatok bűnüldözési adatállományba történt bekerülésétől számított harminc évig;
+- d) a rendőrségen fogvatartott, a házi őrizet, illetve a lakhelyelhagyási tilalom alá helyezett és azon személyek adatait, akikkel szemben távoltartást rendeltek el, valamint akiknek óvadék vagy biztosíték letétbe helyezését engedélyezték, a bűncselekmény büntethetőségének elévüléséig – ha a büntethetőség elévülése kizárt, az adatok bűnüldözési adatállományba történt bekerülésének időpontjától számított ötven évig – vagy elítélés esetén a büntetett előélethez fűződő hátrányok alóli mentesítésről való hivatalos rendőrségi tudomásszerzés időpontjáig, ennek hiányában az adatok bűnüldözési adatállományba történt bekerülésének időpontjától számított harminc évig;
+- e) súlyos bűncselekmény esetén, vagy ha a bűncselekmény
+  - ea) élet, testi épség, emberi szabadság és vagyon elleni erőszakos bűntett, illetve az emberkereskedelem és az embercsempészet három évig terjedő szabadságvesztéssel büntetendő alakzata,
+  - eb) nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény három évig terjedő szabadságvesztéssel büntetendő alakzata,
+  - ec) gyermekkorú személy sérelmére elkövetett, három évig terjedő szabadságvesztéssel büntetendő bűntett,
+  - ed) üzletszerűen vagy bűnszövetségben elkövetett, három évig terjedő szabadságvesztéssel büntetendő bűncselekmény,
+  - ee) kábítószer-kereskedelem, kábítószer birtoklása, kóros szenvedélykeltés, kábítószer készítésének elősegítése, kábítószer-prekurzorral visszaélés, új pszichoaktív anyaggal visszaélés, radioaktív anyaggal visszaélés, nukleáris létesítmény üzemeltetésével visszaélés, atomenergia alkalmazásával visszaélés,
+  - ef) pénzhamisítás elősegítése, készpénz-helyettesítő fizetési eszköz hamisítása, készpénz-helyettesítő fizetési eszközzel visszaélés, pénzmosás, információs rendszer felhasználásával elkövetett csalás, a korrupciós bűncselekmények öt évet el nem érő szabadságvesztéssel büntetendő alakzata, a bűncselekmény elkövetésével gyanúsított személyek és kapcsolataik adatait, kriminalisztikai szempontból fontos jellemzőit a bűncselekmény büntethetőségének elévülésétől számított húsz évig – ha a büntethetőség elévülése kizárt, az adatok bűnüldözési adatállományba történt bekerülésének időpontjától számított ötven évig – vagy a nemzetközi kötelezettségvállalásban meghatározott ideig;
+- f) a nemzetközi kötelezettségvállalás alapján mindazon személyek, cselekményeik, valamint kapcsolataik adatait, akikkel szemben nemzetközi bűnüldözési vagy egyéb nyomozási intézkedéseket kell foganatosítani, a bűncselekmény büntethetőségének elévüléséig – ha a büntethetőség elévülése kizárt, az adatok bűnüldözési adatállományba történt bekerülésének időpontjától számított ötven évig – vagy nemzetközi kötelezettségvállalásban meghatározott ideig;
+- g) a szervezett bűnözésre utaló cselekményekben érintett, illetve a bűnözői csoportban résztvevő vagy azzal együttműködő személyek, valamint kapcsolataik adatait és kriminalisztikai szempontból fontos jellemzőit az érintett személyre vonatkozó utolsó adatnak a bűnüldözési adatállományba történt bekerülése időpontjától számított harminc évig;
+- h) az egyes bűncselekmények nyomozása során a felderítés és a bizonyítás kapcsán keletkező iratokban szereplő személyekről, azok kapcsolatairól, eljárási helyzetéről, a hozzá fűződő nyomozási adatokról az ügyben hozott jogerős ítéletig, a nyomozás megszüntetése vagy a büntetőeljárás egyéb módon történt jogerős befejezése esetén a bűncselekmény büntethetőségének elévüléséig, ha pedig a büntethetőség elévülése kizárt, az adatok bűnüldözési adatállományba történt bekerülésének időpontjától számított ötven évig;
 - i) a 73. § (3) bekezdése alá tartozók kivételével a titkos információgyűjtés alkalmazásával érintett személyek adatait és az alkalmazás eredményeként keletkezett adatokat,
   - ia) ha büntetőeljárás nem indul, a titkos információgyűjtés lezárását követő legfeljebb két évig,
-  - ib) büntetőeljárás lefolytatása esetén a büntethetőség elévüléséig,
-  - ic) elítélés esetén a büntetett előélethez fűződő hátrányok alóli mentesítésig, de legfeljebb húsz évig,
+  - ib) büntetőeljárás lefolytatása esetén a büntethetőség elévülésétől számított 10 évig, ha pedig a büntethetőség elévülése kizárt, az adatok bűnüldözési adatállományba történt bekerülésének időpontjától számított ötven évig,
+  - ic) elítélés esetén a büntetett előélethez fűződő hátrányok alóli mentesítésről való hivatalos rendőrségi tudomásszerzés esetén a mentesítéstől számított 10 évig, a hivatalos tudomásszerzés hiányában az adatok bűnüldözési adatállományba történt bekerülésének időpontjától számított harminc évig;
 - j) a rendőrséggel titkosan együttműködő személyek, valamint a fedett nyomozók személyes adatait és az alkalmazás eredményét az együttműködés, illetve a fedett nyomozói tevékenység megszűnésétől számított húsz évig;
 - k) a szándékos bűncselekmény elkövetésének megalapozott gyanúja miatt kihallgatott személy szagmintáját, valamint az ismeretlen tettes által elkövetett bűncselekmény ügyében lefolytatott büntetőeljárás során rögzített helyszíni szagmaradványokat a rögzítésüktől számított három évig.
 
@@ -1616,9 +1635,16 @@ részére.
 - f) vízumának számát, típusát és
 - g) határátlépés során használt gépjárműve rendszámát.
 
-(2) A rendőrség az (1) bekezdés szerinti nyilvántartásból törvényben meghatározott feladat teljesítése érdekében adatot szolgáltat a bíróságnak, az ügyészségnek, a nyomozó hatóságnak, az idegenrendészeti hatóságnak, a menekültügyi hatóságnak, továbbá a nemzetbiztonsági szolgálatoknak.
+(1a) A rendőrség az (1) bekezdésben meghatározottakon túl, a terrorizmus megelőzése céljából a határátlépéstől számított öt évig a határrendészeti nyilvántartásban kezeli azon harmadik országbeli személyek ujjnyomatát, akik
 
-(3) A rendőrség a határrendészeti adatállományból a 86. § és 87. § figyelembevételével külföldre határrendészeti, bűnüldözési, bűnmegelőzési célból, valamint az érintett vagy mások jogának védelme céljából továbbíthat adatot.
+- a) Magyarország államhatárát nem határátkelőhelyen vagy határátlépési ponton lépték át, vagy
+- b) személyazonosságukat hitelt érdemlően nem tudják igazolni.
+
+(2) A rendőrség az (1) és (1a) bekezdés szerinti nyilvántartásból törvényben meghatározott feladat teljesítése érdekében adatot szolgáltat a bíróságnak, az ügyészségnek, a nyomozó hatóságnak, az idegenrendészeti hatóságnak, a menekültügyi hatóságnak, továbbá a nemzetbiztonsági szolgálatoknak.
+
+(2a) A rendőrség (1) bekezdésben meghatározott nyilvántartásából az (1) bekezdésben meghatározott adatokat az idegenrendészeti hatóság – a huzamos tartózkodás jogszerűségének ellenőrzése céljából – a konkrét cél megjelölésével átveheti.
+
+(3) A rendőrség a határrendészeti adatállományból a 86. § és 87. § figyelembevételével külföldre határrendészeti, bűnüldözési, bűnmegelőzési, terrorelhárítása célból valamint az érintett vagy mások jogának védelme céljából továbbíthat adatot.
 
 91/M. § (1) A rendőrség a határforgalom-ellenőrzés során – az illegális bevándorlás elleni intézkedések elősegítése céljából – az utasok repülésre történő bejelentkezése befejezésének időpontjától jogosult a személyszállítást végző légi fuvarozótól a (2) bekezdésben felsorolt adatokat kérni azokról az utasokról, akiket nem az Európai Unió valamely tagállamának vagy a schengeni vívmányoknak az Európai Unió keretében történő beillesztéséről szóló jegyzőkönyv 6. cikke alapján az Európai Unió Tanácsával kötött, a schengeni vívmányok végrehajtásában, alkalmazásában és fejlesztésében való részvételről szóló megállapodásban részes állam területéről szállít a személyszállítást végző légi fuvarozó Magyarország területére.
 
@@ -1676,7 +1702,7 @@ részére.
 
 91/Q. § (1) A rendőrség a közigazgatási feladatainak ellátása céljából – a külön törvény alapján kezelhető adatokon kívül – kezeli:
 
-- a) a nukleáris, a radioaktív anyag, az ionizáló sugárzást létrehozó berendezés, a kábítószer, a pszichotróp anyag, a kábítószer-prekurzor, a polgári felhasználású robbanóanyag, a pirotechnikai termék (a továbbiakban együtt: közbiztonságra veszélyes anyag és eszköz) gyártására, kereskedelmére, az ország területére történő behozatalára, kivitelére, átszállítására, megszerzésére, felhasználására, tárolására, szállítására, a haditechnikai termékek gyártására és a kapcsolódó szolgáltatásokra vonatkozó engedéllyel rendelkezők, ezzel kapcsolatban bejelentést tevők adatait, a nukleáris létesítményekben foglalkoztatott személyek személyazonosító és lakcímadatait, értesítési címét, a közbiztonságra veszélyes anyaggal és eszközzel tevékenységet végző személyek személyazonosító és lakcímadatait, értesítési címét az engedélyben, valamint a bejelentésben szereplő, a közbiztonságra veszélyes anyag és eszköz gyártó és tároló helyét, továbbá a gyártási engedéllyel rendelkezők adatait, valamint az engedély kiadásának, illetőleg visszavonásának feltételeit igazoló adatokat a határozatban szereplő jogosultság megszűnésétől számított tíz évig,
+- a) a nukleáris, a radioaktív anyag, az ionizáló sugárzást létrehozó berendezés, a kábítószer, a pszichotróp anyag, az új pszichoaktív anyag, a kábítószer-prekurzor, a polgári felhasználású robbanóanyag, a pirotechnikai termék, a közbiztonságra különösen veszélyes eszköz (a továbbiakban együtt: közbiztonságra veszélyes anyag és eszköz) gyártására, kereskedelmére, az ország területére történő behozatalára, kivitelére, átszállítására, megszerzésére, felhasználására, tárolására, szállítására vonatkozó engedéllyel rendelkezők, ezzel kapcsolatban bejelentést tevők adatait, a haditechnikai termékek gyártására és a kapcsolódó szolgáltatásokra vonatkozó engedéllyel rendelkezők adatait, a nukleáris létesítményekben foglalkoztatott személyek személyazonosító és lakcím adatait, a közbiztonságra veszélyes anyaggal és eszközzel tevékenységet végző személyek személyazonosító és lakcím adatait, valamint az engedély kiadásának, illetőleg visszavonásának feltételeit igazoló adatokat a határozatban szereplő jogosultság megszűnésétől számított tíz évig,
 - b) a pártfogó felügyelet alatt állók és a bíróság által kitiltottak adatait, továbbá a foglalkozástól, a járművezetéstől eltiltottak adatait azokban az esetekben, amikor a foglalkozás gyakorlásához szükséges engedély kiadása a rendőrség hatáskörébe tartozik öt évig, illetőleg ezek hatályának lejártáig,
 - c) külön jogszabályban meghatározottak szerint a rendőrség által kiadott engedély alapján, illetve a rendőrség hatósági ellenőrzési jogkörébe tartozó tevékenységet folytató személyek azonosításához szükséges, továbbá az engedély tárgyával, illetve az ellenőrizendő tevékenységgel összefüggő adatokat az engedély időtartamának lejártától, illetve visszavonásától számított tíz évig, illetőleg a külön jogszabályban meghatározott ideig,
 - d) a rendkívüli halálesetek jellemzőit a holttest azonosításáig, illetve a holttest megtalálásától vagy a haláleset bekövetkezésétől számított húsz évig,
@@ -1823,7 +1849,7 @@ bírálja el.
 - b) a rendőr képesítési és egyéb alkalmassági követelményeit, valamint az alkalmassági feltételek ellenőrzésének szabályait,
 - c)
 - d)
-- e) a rendőrség szolgálati szabályzatát, ennek részeként a határrendészeti feladatok, a rendőri intézkedések, a kényszerítő eszközök, a lőfegyverhasználat és a csapaterő alkalmazásának részletes eljárási szabályait, a rendőrségnek a terrorcselekmények elhárításával, személy- és objektumvédelemmel, a polgári repülés biztonságával összefüggő feladatait, a szolgálati formákat, az elöljárói és feljebbvalói viszonyt, a rendőri magatartás szabályait, az egyenruha viselésének rendjét,
+- e) a rendőrség szolgálati szabályzatát, ennek részeként a határrendészeti feladatok, a rendőri intézkedések, a kényszerítő eszközök, a lőfegyverhasználat és a csapaterő alkalmazásának részletes eljárási szabályait, a szolgálati lőfegyverek és lőszerek 1. § (2) bekezdés 7a. pontja szerinti külföldre vitelének szabályait és a rendőrséggel együttműködő külföldi rendészeti feladatokat ellátó hatóságok szolgálati lőfegyvereinek és lőszereinek az országba történő behozatalának engedélyezési szabályait, a rendőrségnek a terrorcselekmények elhárításával, személy- és objektumvédelemmel, a polgári repülés biztonságával összefüggő feladatait, a szolgálati formákat, az elöljárói és feljebbvalói viszonyt, a rendőri magatartás szabályait, az egyenruha viselésének rendjét,
 - f) a rendőrség feladatait a polgárőrséggel és más önvédelmi szervezetekkel történő együttműködésben,
 - g) a rendőrségi adatok kezelésére jogosult szervek feladatait, az adatok kezelésének és feldolgozásának technikai szabályait, valamint a bűnüldözési adatok helyessége, megbízhatósága és felhasználhatósága jelölésének módját,
 - h) a különleges eszközök és módszerek engedélyezésével, igénybevételével kapcsolatos szabályokat,
@@ -1864,7 +1890,7 @@ bírálja el.
 - a) lépnek hatályba a törvény 94., 95., 96., 100., 101., 107. és 111. §-ában foglalt rendelkezések.
 - b)
 
-(3)
+(3) E törvénynek a Mód. törvénnyel megállapított 80/A. §-át a Mód. törvény hatálybalépését megelőzően benyújtott, közérdekű adat megismerése iránti igénnyel összefüggésben a Mód. törvény hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
 ### Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
@@ -1881,26 +1907,20 @@ bírálja el.
 
 104. § E törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-- a) a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlament és tanácsi rendelet 7. és 16. cikke,
-- b) a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlamenti és tanácsi rendelet 12. cikk (4) bekezdése,
-- c) a gyorsreagálású határvédelmi csapatok felállítására szolgáló eljárás bevezetéséről, valamint a 2007/2004/EK tanácsi rendeletnek ezen eljárás tekintetében történő módosításáról és a kiküldött határőrök feladatai és hatáskörei szabályozásáról szóló, 2007. július 11-i 863/2007/EK európai parlamenti és tanácsi rendelet által módosított, az Európai Unió Tagállamai Külső Határain Való Operatív Együttműködési Igazgatásért Felelős Európai Ügynökség felállításáról szóló, 2004. október 26-i 2007/2004/EK tanácsi rendelet 10. cikk (2) bekezdése,
-- d) az Európai Parlament és a Tanács 1168/2011/EU rendelete (2011. október 25.) által módosított, az Európai Unió Tagállamai Külső Határain Való Operatív Együttműködési Igazgatásért Felelős Európai Ügynökség felállításáról szóló, 2004. október 26-i 2007/2004/EK tanácsi rendelet 11. és 11c. cikke [91/L. § (3) bekezdése],
-- e) a fuvarozóknak az utasokkal kapcsolatos adatok közlésére vonatkozó kötelezettségéről szóló, 2004. április 29-i 2004/82/EK tanácsi irányelv 3. cikke és a 6. cikk (1) bekezdése,
-- f) a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlamenti és tanácsi rendelet,
-- g) a gyorsreagálású határvédelmi csapatok felállítására szolgáló eljárás bevezetéséről, valamint a 2007/2004/EK tanácsi rendeletnek ezen eljárás tekintetében történő módosításáról és a kiküldött határőrök feladatai és hatáskörei szabályozásáról szóló, 2007. július 11-i 863/2007/EK európai parlament és tanácsi rendelet 6. cikk (8) bekezdése, valamint e rendelet által módosított, az Európai Unió Tagállamai Külső Határain Való Operatív Együttműködési Igazgatásért Felelős Európai Ügynökség felállításáról szóló, 2004. október 26-i 2007/2004/EK tanácsi rendelet 10. cikk (8) bekezdése,
-- h) a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlamenti és tanácsi rendelet 2. cikk 9. pontja,
-- i) a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlamenti és tanácsi rendelet 2. cikk 10. pontja,
-- j) a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlamenti és tanácsi rendelet 2. cikk 11. pontja,
-- k) a robbanóanyag-prekurzorok forgalmazásáról és felhasználásáról szóló, 2013. január 15-i, 98/2013/EU európai parlamenti és tanácsi rendelet 9. és 10. cikke,
-- l) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i 2007/533/IB tanácsi határozat 36. és 37. cikkei [46/B–46/C. §],
-- m) a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat 3–5. és 16. cikke [91/C. §],
-- n) a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló, 2008. július 9-i 767/2008/EK rendelet 18. és 20. cikke [29/A. §, 62/A. §, 84. §, 91/K. §],
-- o) az 562/2006/EK rendeletnek a vízuminformációs rendszer (VIS) Schengeni határ-ellenőrzési kódex keretében való alkalmazása tekintetében történő módosításáról szóló, 2009. január 14-i 81/2009/EK európai parlamenti és tanácsi rendelet 1. cikk 1. pontja [35/B. §],
-- p) az Európai Unió tagállamainak különleges intervenciós egységei közötti együttműködés javításáról válsághelyzetekben szóló, 2008. június 23-i 2008/617/IB tanácsi határozat 2–4. cikke,
-- q) a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló, 2008. június 23-i 2008/615/IB tanácsi határozat 12. és 17–23. cikkei, valamint e határozat végrehajtásáról szóló, 2008/616/IB tanácsi határozat 17. cikke,
-- r) a Tanács határozata (2009. szeptember 21.) egyrészről az Európai Unió, másrészről Izland és Norvégia között a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló, 2008/615/IB tanácsi határozat, valamint a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló, 2008/615/IB tanácsi határozat végrehajtásáról szóló 2008/616/IB tanácsi határozat és melléklete egyes rendelkezéseinek alkalmazásáról szóló megállapodásnak az Európai Unió nevében történő aláírásáról és a megállapodás egyes rendelkezéseinek ideiglenes alkalmazásáról,
-- s) a büntetőügyekben folytatott rendőrségi és igazságügyi együttműködés keretében feldolgozott személyes adatok védelméről szóló, 2008. november 27-i 2008/977/IB tanácsi kerethatározat,
-- t) az egyes adatoknak az Interpollal történő cseréjéről szóló, 2005. január 24-i, 2005/69/IB tanácsi közös álláspont.
+- a) a gyorsreagálású határvédelmi csapatok felállítására szolgáló eljárás bevezetéséről, valamint a 2007/2004/EK tanácsi rendeletnek ezen eljárás tekintetében történő módosításáról és a kiküldött határőrök feladatai és hatáskörei szabályozásáról szóló, 2007. július 11-i 863/2007/EK európai parlamenti és tanácsi rendelet által módosított, az Európai Unió Tagállamai Külső Határain Való Operatív Együttműködési Igazgatásért Felelős Európai Ügynökség felállításáról szóló, 2004. október 26-i 2007/2004/EK tanácsi rendelet 10. cikk (2) bekezdése,
+- b) az Európai Parlament és a Tanács 1168/2011/EU rendelete (2011. október 25.) által módosított, az Európai Unió Tagállamai Külső Határain Való Operatív Együttműködési Igazgatásért Felelős Európai Ügynökség felállításáról szóló, 2004. október 26-i 2007/2004/EK tanácsi rendelet 11. és 11c. cikke [91/L. § (3) bekezdése],
+- c) a fuvarozóknak az utasokkal kapcsolatos adatok közlésére vonatkozó kötelezettségéről szóló, 2004. április 29-i 2004/82/EK tanácsi irányelv 3. cikke és a 6. cikk (1) bekezdése,
+- d) a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet,
+- e) a gyorsreagálású határvédelmi csapatok felállítására szolgáló eljárás bevezetéséről, valamint a 2007/2004/EK tanácsi rendeletnek ezen eljárás tekintetében történő módosításáról és a kiküldött határőrök feladatai és hatáskörei szabályozásáról szóló, 2007. július 11-i 863/2007/EK európai parlament és tanácsi rendelet 6. cikk (8) bekezdése, valamint e rendelet által módosított, az Európai Unió Tagállamai Külső Határain Való Operatív Együttműködési Igazgatásért Felelős Európai Ügynökség felállításáról szóló, 2004. október 26-i 2007/2004/EK tanácsi rendelet 10. cikk (8) bekezdése,
+- f) a robbanóanyag-prekurzorok forgalmazásáról és felhasználásáról szóló, 2013. január 15-i, 98/2013/EU európai parlamenti és tanácsi rendelet 9. és 10. cikke,
+- g) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i 2007/533/IB tanácsi határozat 36. és 37. cikkei [46/B–46/C. §],
+- h) a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat 3–5. és 16. cikke [91/C. §],
+- i) a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló, 2008. július 9-i 767/2008/EK rendelet 18. és 20. cikke [29/A. §, 62/A. §, 84. §, 91/K. §],
+- j) az Európai Unió tagállamainak különleges intervenciós egységei közötti együttműködés javításáról válsághelyzetekben szóló, 2008. június 23-i 2008/617/IB tanácsi határozat 2–4. cikke,
+- k) a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló, 2008. június 23-i 2008/615/IB tanácsi határozat 12. és 17–23. cikkei, valamint e határozat végrehajtásáról szóló, 2008/616/IB tanácsi határozat 17. cikke,
+- l) a Tanács határozata (2009. szeptember 21.) egyrészről az Európai Unió, másrészről Izland és Norvégia között a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló, 2008/615/IB tanácsi határozat, valamint a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló, 2008/615/IB tanácsi határozat végrehajtásáról szóló 2008/616/IB tanácsi határozat és melléklete egyes rendelkezéseinek alkalmazásáról szóló megállapodásnak az Európai Unió nevében történő aláírásáról és a megállapodás egyes rendelkezéseinek ideiglenes alkalmazásáról,
+- m) a büntetőügyekben folytatott rendőrségi és igazságügyi együttműködés keretében feldolgozott személyes adatok védelméről szóló, 2008. november 27-i 2008/977/IB tanácsi kerethatározat,
+- n) az egyes adatoknak az Interpollal történő cseréjéről szóló, 2005. január 24-i, 2005/69/IB tanácsi közös álláspont.
 
 #### 105. §
 

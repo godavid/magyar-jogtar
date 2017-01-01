@@ -115,10 +115,11 @@ olyan irányban tér el a központi költségvetésről szóló törvényben meg
 - a) jogszabályon alapuló, kötelező kezesség-, illetve garanciavállalásához,
 - b) naptári éven belül lejáró adósságot keletkeztető ügyletéhez,
 - c) olyan adósságot keletkeztető ügylete megkötéséhez, amely
-  - ca) – ha a 10/C. § (1) bekezdése szerinti tájékoztatásban a megkötni tervezettel megegyező vagy annál nagyobb összeggel szerepel – a központi költségvetésből nyújtott európai uniós vagy más nemzetközi szervezettől az önkormányzat által megnyert támogatás előfinanszírozásának biztosítására szolgál,
+  - ca) – ha a 10/C. § (1) bekezdése szerinti tájékoztatásban a megkötni tervezettel megegyező vagy annál nagyobb összeggel szerepel – a központi költségvetésből nyújtott európai uniós vagy más nemzetközi szervezettől az önkormányzat által elnyert, fejlesztési célú támogatás előfinanszírozásának biztosítására szolgál,
   - cb) az adósságrendezési eljárás során a hitelezői egyezség megkötéséhez igénybe vett reorganizációs hitelre vonatkozik,
   - cc) – ha a 10/C. § (1) bekezdése szerinti tájékoztatásban a megkötni tervezettel megegyező vagy annál nagyobb összeggel szerepel – fejlesztési célt szolgál és nem haladja meg a fővárosi önkormányzat és megyei jogú város önkormányzata esetében a 100 millió forintot, országos nemzetiségi önkormányzat esetében a 20 millió forintot, egyéb önkormányzat esetében az adott évi saját bevételeinek 20%-át, de legfeljebb a 10 millió forintot,
-- d) olyan kezesség- és garanciavállalásához, amely a b) és a c) pont ca)–cc) alpontja szerinti, bármely jogi személy által megkötött ügylethez kapcsolódik.
+  - cd) a központi költségvetésből nyújtott európai uniós vagy más nemzetközi szervezettől az önkormányzat által elnyert, nem fejlesztési célú támogatás előfinanszírozásának biztosítására szolgál, valamint
+- d) olyan kezesség- és garanciavállalásához, amely a b) és a c) pont szerinti, jogi személy által megkötött ügylethez kapcsolódik.
 
 (4) Az ugyanazon
 
@@ -135,13 +136,12 @@ egybe kell számítani.
 
 (8) Az önkormányzati társulás adósságot keletkeztető ügylethez kapcsolódó kötelezettségeinek teljesítését a társulásban részt vevő önkormányzatok kezességvállalása biztosítja.
 
-10/A. § (1) Az önkormányzat működési célra – e törvény eltérő rendelkezése hiányában – csak naptári éven belül lejáró adósságot keletkeztető ügyletet köthet.
+10/A. § Az önkormányzat a Kormány előzetes hozzájárulásával kizárólag
 
-(2) Az önkormányzat a Kormány előzetes hozzájárulásával jogerős és végrehajtható bírósági határozatban foglalt fizetési kötelezettségének teljesítésére éven túli futamidejű működési célú hitelt vehet fel. A Kormány az ehhez szükséges előzetes hozzájárulást a 10. § (5) bekezdésében meghatározott feltételek teljesülése esetén adja meg.
+- a) jogerős és végrehajtható bírósági határozatban, vagy fizetési meghagyásban foglalt fizetési kötelezettségének teljesítésére, és
+- b) a központi költségvetésből nyújtott európai uniós vagy más nemzetközi szervezettől elnyert, nem fejlesztési célú pályázata önrészének biztosítására
 
-(3) Az önkormányzat az adósságrendezési eljárás során a hitelezői egyezség megkötéséhez igénybe vett reorganizációs hitelre naptári éven túli, működési célú ügyletet köthet.
-
-(4) Az önkormányzat fejlesztésnek nem minősülő, a központi költségvetésből nyújtott európai uniós vagy más nemzetközi szervezettől az önkormányzat által megnyert pályázat önrészének és az így megnyert támogatás előfinanszírozásának biztosítására szolgáló, naptári éven túli működési célú ügyletet köthet.
+köthet naptári éven túli futamidejű működési célú adósságot keletkeztető ügyletet.
 
 10/B. § (1) Az önkormányzat adósságot keletkeztető ügyletéhez – e törvény eltérő rendelkezése hiányában – a Kormány a következő feltételek együttes fennállása esetén járul hozzá:
 
@@ -154,7 +154,7 @@ egybe kell számítani.
 - a) teljesül a 10. § (5) bekezdésében meghatározott feltétel, azzal, hogy az adósságot keletkeztető ügylet futamidejének vége alatt a kezesség, illetve garancia érvényesíthetőségére rendelkezésre álló határidő lejártát kell érteni, és
 - b) a kezesség-, illetve garanciavállalás megfelel az Áht. 96. §-ának.
 
-(3) A Kormány az önkormányzat olyan adósságot keletkeztető ügyletéhez, amelynek célja azzal megegyező összegű meglévő adósság visszafizetése, abban az esetben járul hozzá, ha teljesül a 10. § (5) bekezdésében meghatározott feltétel. Kivételes vagy az önkormányzat működését veszélyeztető esetben a Kormány a 10. § (5) bekezdésében meghatározott feltétel alkalmazásától eltekinthet.
+(3) A Kormány az önkormányzat olyan adósságot keletkeztető ügyletéhez, amelynek célja azzal megegyező összegű, illetve annál kisebb meglévő adósság visszafizetése, abban az esetben járul hozzá, ha teljesül a 10. § (5) bekezdésében meghatározott feltétel. Kivételes vagy az önkormányzat működését veszélyeztető esetben a Kormány a 10. § (5) bekezdésében meghatározott feltétel alkalmazásától eltekinthet.
 
 (4) A Kormány az egyes ügyletekhez részben is hozzájárulhat vagy azokat elutasíthatja. A Kormány a több fejlesztési cél megvalósítását szolgáló ügyletek esetében a fejlesztési célok vizsgálata alapján fejlesztési célonként hozhat döntést. A Kormány a fejlesztési cél figyelembevételével dönthet úgy is, hogy az annak teljesülését szolgáló ügylethez az önkormányzat által tervezettnél alacsonyabb összegben járul hozzá.
 
@@ -162,7 +162,7 @@ egybe kell számítani.
 
 (6) A Kormány hozzájárulása az adósságot keletkeztető ügylet tárgyévben történő megkötésére, illetve a tárgyévben történő kezesség-, illetve garanciavállalásra vonatkozik.
 
-10/C. § (1) Az önkormányzat a tárgyévre vonatkozó költségvetési rendeletében, határozatában szerepeltetett adósságkeletkeztetési szándékáról, az adósságot keletkeztető ügyletéhez – kivéve az adósságrendezési eljárás során a hitelezői egyezség megkötéséhez igénybe vett reorganizációs és a 10/B. § (3) bekezdése szerinti adósságmegújító ügyleteket, valamint a naptári éven belül lejáró futamidejű adósságot keletkezető ügyleteket – kapcsolódó fejlesztési céljáról és az ügylet várható értékéről a Kormányt előzetesen tájékoztatja.
+10/C. § (1) Az önkormányzat a tárgyévre vonatkozó költségvetési rendeletében, határozatában szerepeltetett adósságkeletkeztetési szándékáról, – a 10. § (3) bekezdés b) pontja, valamint c) pont cb) és cd) alpontja, továbbá a 10/A. § szerinti működési célú adósságot keletkeztető és a 10/B. § (3) bekezdése szerinti adósságmegújító ügyletek kivételével – az adósságot keletkeztető ügyletéhez kapcsolódó fejlesztési céljáról és az ügylet várható értékéről a Kormányt előzetesen tájékoztatja.
 
 (2) Az önkormányzat a hozzájárulás iránti kérelméhez
 
@@ -174,14 +174,19 @@ egybe kell számítani.
 
 mellékeli.
 
-10/D. § (1) A megkötött adósságot keletkeztető ügyletekre, valamint a kezesség-, illetve garanciavállalásra vonatkozó szerződésmódosításokhoz a Kormány engedélyét kell kérni, ha
+10/D. § (1) A megkötött adósságot keletkeztető ügyletekre, a kezesség-, illetve garanciavállalásra vonatkozó szerződésmódosításokhoz, valamint az önkormányzat olyan adósságot keletkeztető ügyletéhez, amelynek célja azzal megegyező, illetve annál kisebb összegű meglévő adósság visszafizetése, akkor kell a Kormány engedélyét kérni, ha
 
-- a) a szerződésmódosítást követően előálló kondíciók mellett kötött ügylet a szerződésmódosítás időpontjában engedélykötelesnek minősül, és
-- b) a módosított szerződés az eredetihez képest hosszabb futamidejű, nagyobb ügyletértékű, megváltozik az adósságot keletkeztető ügylet célja, az önkormányzatot terhelő fizetési kötelezettség az új futamidő lejártáig valamely évben meghaladja az eredeti szerződés szerinti értéket, vagy a kezesség, illetve garancia összege nő.
+- a) a szerződésmódosítást vagy adósságmegújítást követően előálló kondíciók mellett az ügylet a szerződésmódosítás vagy adósságmegújítás időpontjában engedélykötelesnek minősül, és
+- b) a módosított vagy az új szerződés az eredetihez képest hosszabb futamidejű, megváltozik az adósságot keletkeztető ügylet célja, az önkormányzatot terhelő fizetési kötelezettség az új futamidő lejártáig valamely évben meghaladja az eredeti szerződés szerinti értéket, a módosított szerződés az eredetihez képest nagyobb ügyletértékű vagy a kezesség, illetve garancia összege nő.
 
 (2) A szerződésmódosításra vonatkozó, az (1) bekezdés szerinti ügyletekre a 10/B. § (3) bekezdése szerinti ügyletekre vonatkozó szabályokat kell alkalmazni.
 
-10/E. § (1) A kormányzati szektorba sorolt egyéb szervezetnek nem minősülő, 100%-os önkormányzati tulajdonban álló gazdasági társaság és az ilyen gazdasági társaság 100%-os tulajdonában álló gazdasági társaság, adósságot keletkeztető ügyletét – a naptári éven belül lejáró futamidejű adósságot keletkeztető ügylet kivételével – az önkormányzat olyan adósságot keletkeztető ügyletének kell tekinteni, amely a 10. § (1) bekezdése szerint a Kormány hozzájárulásához kötött. A hozzájárulás iránti kérelmet az adott gazdasági társaságban legnagyobb tulajdoni részesedéssel vagy hányaddal rendelkező önkormányzat nyújtja be. Egyenlő tulajdoni részesedés vagy hányad esetén a kérelmet az érintett önkormányzatok megállapodása szerinti önkormányzat nyújtja be.
+10/E. § (1) A kormányzati szektorba sorolt egyéb szervezetnek nem minősülő, 100%-os önkormányzati tulajdonban álló gazdasági társaság és az ilyen gazdasági társaság 100%-os tulajdonában álló gazdasági társaság
+
+- a) adósságot keletkeztető ügyletét – a naptári éven belül lejáró futamidejű adósságot keletkeztető ügylet kivételével – az önkormányzat olyan adósságot keletkeztető ügyletének kell tekinteni, amely a 10. § (1) bekezdése szerint,
+- b) szerződésmódosítását és adósságmegújítását pedig olyan adósságot keletkeztető ügyletnek, amely a 10/D. § (1) bekezdése szerint
+
+a Kormány hozzájárulásához kötött. A hozzájárulás iránti kérelmet az adott gazdasági társaságban legnagyobb tulajdoni részesedéssel vagy hányaddal rendelkező önkormányzat nyújtja be. Egyenlő tulajdoni részesedés vagy hányad esetén a kérelmet az érintett önkormányzatok megállapodása szerinti önkormányzat nyújtja be.
 
 (2) A Kormány a hozzájárulást abban az esetben adja meg, ha az adósságot keletkeztető ügylet visszafizetése
 
@@ -537,6 +542,59 @@ azzal, hogy kifizetett összegnek minősül a számlán található értékpapí
 
 (2) A Stabilitás Megtakarítási Számlát vezető hitelintézet a Stabilitás Megtakarítási Számla megnyitásáról, az arra történt befizetésről – a számlatulajdonos azonosítása nélkül – jogszabályban meghatározottak szerint adatot szolgáltat az állami adóhatóság részére.
 
+#### 8/D. Utólagos adófizetés
+
+39/D. § (1) A személyi jövedelemadó alanyának minősülő természetes személy a személyi jövedelemadóról szóló törvény rendelkezései szerint 2016. június 30-ig megszerzett, a (2)–(3) bekezdés szerint meghatározott bevétele tekintetében választhatja, hogy adókötelezettségeit – az adózás rendjéről szóló törvénynek és a személyi jövedelemadóról szóló törvénynek egyébként a bevételre irányadó rendelkezései helyett – a (4)–(7) bekezdés szerint teljesíti.
+
+(2) A természetes személyt az (1) bekezdés szerinti választási lehetőség a személyi jövedelemadóról szóló törvény szerinti következő adókötelezettségi jogcím alá eső jövedelem alapjául szolgáló bevételei tekintetében illeti meg:
+
+- a) egyéb jövedelem;
+- b) kamatjövedelem;
+- c) értékpapír-kölcsönzésből származó jövedelem;
+- d) csereügyletből származó jövedelem;
+- e) osztalékból származó jövedelem;
+- f) árfolyamnyereségből származó jövedelem;
+- g) ellenőrzött tőkepiaci ügyletből származó jövedelem;
+- h) vállalkozásból kivont jövedelem.
+
+(3) A természetes személyt nem illeti meg az (1) bekezdés szerinti választási lehetőség az olyan jövedelem alapjául szolgáló bevételeivel kapcsolatban,
+
+- a) amelyet terhelő személyi jövedelemadót vagy személyijövedelemadó-előleget az adózás rendjéről szóló törvény vagy a személyi jövedelemadóról szóló törvény rendelkezés alapján a kifizető köteles megállapítani, vagy
+- b) amellyel összefüggésben a kifizető az adózás rendjéről szóló törvény vagy a személyi jövedelemadóról szóló törvény alapján adatszolgáltatásra vagy igazolás kiállítására kötelezett.
+
+(4) A természetes személy (1) bekezdés szerinti választása esetén a (2) és (3) bekezdés szerinti jövedelmet terhelő személyi jövedelemadó mértéke 10 százalék. A fizetendő adó a jövedelem és az adómérték szorzata. A természetes személy az (1) bekezdés szerinti választásával visszavonhatatlanul lemond arról, hogy a fizetendő adó megállapításakor a számított adót csökkentő bármely tételt (így különösen adókedvezményt vagy -beszámítást) vegyen figyelembe.
+
+(5) A (4) bekezdés szerinti személyi jövedelemadó alapjául szolgáló jövedelmet a személyi jövedelemadón és a (7)–(8) bekezdés szerinti önellenőrzési pótlékon kívül e törvény szerinti más fizetési kötelezettség nem terheli.
+
+(6) A (4) bekezdés szerinti személyi jövedelemadóval összefüggő adókötelezettségeit a természetes személy, önadózás helyett, az Európai Gazdasági Térségről szóló megállapodásban részes államban székhellyel rendelkező olyan bank útján teljesíti, amelyet az állami adóhatóság – a bank kérelmére – erre kijelölt. Az adókötelezettségek ilyen módon történő teljesítésének az a feltétele, hogy a bank által a természetes személy javára az adókötelezettségek teljesítése céljából megnyitott bankszámlán a (4) bekezdés szerinti személyi jövedelemadó alapjául szolgáló pénzösszeget 2017. június 30-ig (különösen befizetés vagy utalás alapján) jóváírják.
+
+(7) A bank az adókötelezettségek teljesítésére szolgáló bankszámlát a természetes személy nyilatkozata alapján nyitja meg. A természetes személy az önellenőrzési pótlék megállapítása érdekében nyilatkozatában közli a bankkal, hogy a (4) bekezdés szerinti személyi jövedelemadó alapjául szolgáló jövedelmet mely adóévben (vagy adóévekben) szerezte meg; ilyen közlés hiányában azt kell feltételezni, hogy a jövedelem megszerzése a nyilatkozattétel adóévét megelőző hatodik adóévben történt, és ennek megfelelően kell megállapítani az önellenőrzési pótlék összegét.
+
+(8) A bank a (4) bekezdés szerinti személyi jövedelemadót és a (7) bekezdés alapján megállapított önellenőrzési pótlékot a (6) bekezdés szerinti jóváírást követő 8 napon belül megállapítja és levonja, valamint a jóváírás hónapjára vonatkozó adóbevallásában bevallja és az adóbevallás benyújtására előírt határidőig megfizeti. Az önellenőrzési pótlékot a jövedelem megszerzésének adóévére vonatkozó személyijövedelemadó-bevallás benyújtására előírt határidőtől a jóváírás hónapjára vonatkozó adóbevallás benyújtására előírt határidőig terjedő időszakra kell felszámítani. A bank adóbevallásában a megállapított személyi jövedelemadó tekintetében a természetes személyre vonatkozó adatszolgáltatást nem teljesít.
+
+(9) A bank a személyi jövedelemadó (7) bekezdés szerinti megállapításáról igazolást állít ki a természetes személynek, amelyben – szükség esetén az érintett adóévek szerinti megosztásban – feltünteti a személyi jövedelemadó és az alapjául szolgáló jövedelem, valamint a kapcsolódó önellenőrzési pótlék összegét. A banki igazolás bizonyítja, hogy a természetes személy az (1)–(3) bekezdés szerint meghatározott jövedelemmel összefüggő adókötelezettségeit jogszerűen teljesítette.
+
+#### 8/E. Részesedés kedvezményes megszerzése
+
+39/E. § (1) A jogi személy, az egyéb szervezet által kibocsátott részvény vagy más forgalomképes tagi részesedés (a továbbiakban együtt: tagi részesedés) megszerzése az azt megszerző személynél – az e törvény szerinti fizetési kötelezettségeket megállapító törvények rendelkezéseitől eltérően, figyelemmel a (2)–(3) bekezdésben foglaltakra is – nem eredményezi e törvény szerinti fizetési kötelezettség keletkezését, ha
+
+- a) a megszerzett tagi részesedés legalább 10 százalékos részesedést biztosít az azt kibocsátó jogi személy, egyéb szervezet saját tőkéjében és
+- b) a tagi részesedés 2017. június 30-ig történő átruházását közokiratba, vagy ügyvéd, jogtanácsos által ellenjegyzett okiratba foglalt szerződés tartalmazza;
+- c) a tagi részesedés megszerzése ingyenesen történt, vagy a tagi részesedés vételárának teljesítése az Európai Gazdasági Térségről szóló megállapodásban részes államban székhellyel rendelkező olyan bank által vezetett bankszámla megterhelésével 2017. június 30-ig megtörtént, amelyet az állami adóhatóság – a bank kérelmére – erre kijelölt;
+- d) a tagi részesedés megszerzését
+  - da) az azt megszerző személy az e célra rendszeresített nyomtatványon 2017. június 30-ig bejelenti az állami adóhatóságnak, ha a tagi részesedés megszerzése ingyenesen történt, vagy
+  - db) az azt megszerző személynek a c) pont szerinti bankszámlát vezető bank által kiállított igazolás bizonyítja.
+
+(2) Az (1) bekezdés nem alkalmazható, ha
+
+- a) a tagi részesedést kibocsátó jogi személy, egyéb szervezet a Gazdasági Együttműködési és Fejlesztési Szervezettel együtt nem működő államban rendelkezik székhellyel,
+- b) a jogi személy, az egyéb szervezet által kibocsátott értékpapírt a tőkepiacról szóló törvény szerinti tőzsdén forgalmazzák, vagy a tőzsdei forgalmazás engedélyezése iránti eljárás már folyamatban van, vagy
+- c) a tagi részesedés megszerzése – az (1) bekezdésben foglalt rendelkezés figyelmen kívül hagyása esetén – a személyi jövedelemadóról szóló törvény szerint nem önálló tevékenységből származó jövedelem megszerzését eredményezi.
+
+(3) A Magyarországon székhellyel rendelkező jogi személy, egyéb szervezet által kibocsátott tagi részesedés megszerzése esetén az (1) bekezdés rendelkezései csak akkor alkalmazhatók, ha annak megszerzése belföldön székhellyel nem rendelkező jogi személytől, egyéb szervezettől, vagy belföldön állandó lakóhellyel nem rendelkező természetes személytől történt.
+
+(4) Az (1) bekezdés szerinti részesedés megszerzését az adózó nem jelentheti be a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. § 5. pontja alapján az adóhatósághoz.
+
 ### VI. Fejezet — A NYUGDÍJRENDSZER ALAPVETŐ SZABÁLYAI
 
 #### 9. A nyugdíjrendszer alapelvei
@@ -625,6 +683,10 @@ azzal, hogy kifizetett összegnek minősül a számlán található értékpapí
 
 rendeletben állapítsa meg.
 
+(4) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy az utólagos adófizetés részletes szabályait – így különösen az adókötelezettségek teljesítésére jogosult bankok kijelölésére vonatkozó eljárás rendjét, valamint az adókötelezettségek teljesítéséhez kapcsolódó nyilatkozatokat és igazolásokat – rendeletben állapítsa meg.
+
+(5) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy a részesedés kedvezményes megszerzésének részletes szabályait – így különösen az adókötelezettségek teljesítésére jogosult bankok kijelölésére vonatkozó eljárás rendjét, valamint a 39/E. § (1) bekezdés b) pont szerinti szerződésre és a 39/E. § (1) bekezdés c) pontja szerinti bankszámla megnyitására vonatkozó részletes szabályokat – rendeletben állapítsa meg.
+
 #### 13. Hatályba léptető rendelkezések
 
 46. § (1) E törvény – a (2)–(5) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
@@ -637,9 +699,9 @@ rendeletben állapítsa meg.
 
 (5) A 38. § 2020. január 1-jén lép hatályba.
 
-#### 14.
+#### 14. Átmeneti rendelkezések
 
-#### 47. §
+47. § A közteherviselést és az állami szervek feladatellátását érintő egyes törvények módosításáról szóló 2016. évi CLXXI. törvény kihirdetését követő 30. napig megnyitott Stabilitás Megtakarítási Számlán teljesített befizetéssel összefüggő adókötelezettségekre a 8/C. alcímnek a közteherviselést és az állami szervek feladatellátását érintő egyes törvények módosításáról szóló 2016. évi CLXXI. törvény kihirdetését követő 30. napot megelőző napon hatályos rendelkezéseit kell alkalmazni.
 
 #### 48. §
 

@@ -68,7 +68,7 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 ### Forgalmi jegyzék
 
-5. § (1) A kiotói egységek kiadásának, átruházásának és törlésének nyilvántartása közhiteles és nyilvános forgalmi jegyzékben történik, amelynek kezelője a környezetvédelmi hatóság.
+5. § (1) A kiotói egységek kiadásának, átruházásának és törlésének nyilvántartása közhiteles és nyilvános forgalmi jegyzékben történik, amelynek kezelője a klímavédelemért felelős hatóság.
 
 (2) A kincstári vagyonba tartozó kiotói egységeket a forgalmi jegyzékben külön számlán kell nyilvántartani. A számla fölött a rendelkezési jogot az államháztartásért felelős miniszter – a miniszterrel együttműködésben – gyakorolja.
 
@@ -76,7 +76,7 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 (4) A forgalmi jegyzékben számlával rendelkezők az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában való részvételről szóló törvény végrehajtásának egyes szabályairól szóló kormányrendeletben meghatározott számlavezetési díjat kötelesek fizetni.
 
-(5) A számlanyitást kérelmező köteles legalább két meghatalmazott képviselőt megnevezni. A meghatalmazott képviselő olyan személy lehet, aki büntetlen előéletű és nem áll a közügyektől eltiltás hatálya alatt. A kérelmező köteles hatósági bizonyítvánnyal igazolni, hogy a meghatalmazott képviselőként megnevezett személy e feltételeknek megfelel, vagy csatolni e személy hozzájáruló nyilatkozatát arra vonatkozóan, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a környezetvédelmi hatóság részére – annak a számlanyitási kérelem vizsgálata céljából benyújtott adatigénylése alapján – továbbítsa.
+(5) A számlanyitást kérelmező köteles legalább két meghatalmazott képviselőt megnevezni. A meghatalmazott képviselő olyan személy lehet, aki büntetlen előéletű és nem áll a közügyektől eltiltás hatálya alatt. A kérelmező köteles hatósági bizonyítvánnyal igazolni, hogy a meghatalmazott képviselőként megnevezett személy e feltételeknek megfelel, vagy csatolni e személy hozzájáruló nyilatkozatát arra vonatkozóan, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a klímavédelemért felelős hatóság részére – annak a számlanyitási kérelem vizsgálata céljából benyújtott adatigénylése alapján – továbbítsa.
 
 ### Az üvegházhatású gázokkal kapcsolatos adatok nyilvánossága
 
@@ -184,7 +184,7 @@ A fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységek és az 
 - d) HR-III és MR-III kategória esetén 16 000 forint, valamint
 - e) tulajdonos és üzemeltető esetében hűtőkörönként 30 Ft/F-ÜHG tCO2 egyenérték, de legalább 2000 forint.
 
-(6) A felügyeleti díj megfizetésére kötelezettek a felügyeleti díjat két egyenlő részletben minden év június 30. napjáig és december 31. napjáig kötelesek megfizetni. A tevékenység tárgyév január 1. és június 30. napja vagy július 1. és december 31. napja között történő megkezdése esetén a felügyeleti díj adott félévre megállapított arányos részét kell megfizetni június 30., az azt követően megkezdett tevékenység esetén december 31. napjának esedékességével.
+(6) A felügyeleti díj megfizetésére kötelezettek a felügyeleti díjat két egyenlő részletben, utólag, minden év július 31. napjáig és január 31. napjáig kötelesek megfizetni. A január 1. és június 30., valamint július 1. és december 31. közötti időszakra vonatkozó felügyeleti díj összegéről az energiapolitikáért felelős miniszter felügyelete alatt álló klímavédelemért felelős hatóság az adatbázison keresztül, egyenlegértesítő megküldése útján, június 30. és december 31. napját követő 5 munkanapon belül tájékoztatja a felügyeleti díj megfizetésére kötelezetteket. A tevékenység tárgyév január 1. és június 30. napja vagy július 1. és december 31. napja között történő megkezdése esetén a felügyeleti díjat a tevékenység megkezdésétől időarányosan kell megfizetni. A (3) bekezdés szerinti kötelezettek az (5) bekezdés e) pontja szerinti felügyeleti díjat a hűtőkörben megtalálható F-ÜHG töltet tCO2 egyenértéke után az üzemeltetés időszakára vonatkozóan időarányosan fizetik meg.
 
 (7) A klímavédelemért felelős hatóság a (2) és (3) bekezdés szerinti díjakat az adatbázis üzemeltetésére és fejlesztésére, valamint a működésére fordítja.
 
@@ -218,7 +218,7 @@ A fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységek és az 
 
 (5) A fluortartalmú üvegházhatású gázokkal kapcsolatos egyes hatósági tevékenységek
 
-10/G. § (1) A fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységekről szóló kormányrendeletben kijelölt klímavédelemért felelős hatóság a kormányrendeletben meghatározott tevékenységet végző vállalkozásokról – vállalkozásonként F-Gáz ügyfélazonosító alkalmazásával – a (2) bekezdésben meghatározott adatokkal nyilvántartást vezet a végzett tevékenység megszűnésének, megszüntetésének időpontjáig az e törvény végrehajtására kiadott kormányrendeletben meghatározott adatbázis részeként az alábbi célok érdekében:
+10/G. § (1) A kormányrendeletben kijelölt klímavédelemért felelős hatóság a kormányrendeletben meghatározott tevékenységet végző vállalkozásokról – vállalkozásonként F-Gáz ügyfélazonosító alkalmazásával – a (2) bekezdésben meghatározott adatokkal nyilvántartást vezet a végzett tevékenység megszűnésének, megszüntetésének időpontjáig az e törvény végrehajtására kiadott kormányrendeletben meghatározott adatbázis részeként az alábbi célok érdekében:
 
 - a) a fluortartalmú üvegházhatású gázokkal végzett tevékenységekre vonatkozó jogok és kötelezettségek teljesülésének ellenőrzése,
 - b) regisztrációs, nyilvántartási, képesítési, valamint adatszolgáltatási és tájékoztatási kötelezettségek teljesítése,
@@ -361,34 +361,34 @@ A fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységek és az 
 
 13/A. § Az együttes végrehajtási projekt tervdokumentumát és a projekt megvalósításáról és működtetéséről készített éves jelentést a kibocsátáscsökkentési tevékenység végrehajtója a Kormány rendeletében meghatározott módon, együttes végrehajtás hitelesítővel hitelesítteti.
 
-13/B. § (1) Együttes végrehajtás hitelesítőként a környezetvédelmi hatóság engedélyével rendelkező szervezet, akkreditált független hitelesítő vagy más EGT-államban feljogosított hitelesítő vehető igénybe.
+13/B. § (1) Együttes végrehajtás hitelesítőként a klímavédelemért felelős hatóság engedélyével rendelkező szervezet, akkreditált független hitelesítő vagy más EGT-államban feljogosított hitelesítő vehető igénybe.
 
-(2) Együttes végrehajtás-hitelesítői tevékenység folytatását a környezetvédelmi hatóság annak a szervezetnek engedélyezi, amely
+(2) Együttes végrehajtás-hitelesítői tevékenység folytatását a klímavédelemért felelős hatóság annak a szervezetnek engedélyezi, amely
 
 - a) munkavállalóként vagy egyéb foglalkoztatásra irányuló jogviszony keretében legalább három, a (3) bekezdés szerinti feltételeknek megfelelő személyt foglalkoztat, és
 - b) rendelkezik a külön jogszabályban meghatározott biztosítékkal, és megfelel az ott meghatározott egyéb feltételeknek.
 
 (3) Az együttes végrehajtás-hitelesítő szervezet hitelesítő tevékenységét csak legalább három olyan személy útján folytathatja, aki büntetlen előéletű, nem áll az együttes végrehajtás-hitelesítő szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, rendelkezik a külön jogszabályban meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek (a továbbiakban: együttes végrehajtás-hitelesítő szakértő).
 
-(4) A (2) bekezdés szerinti engedély iránti kérelemnek tartalmaznia kell az együttes végrehajtás-hitelesítő által foglalkoztatott legalább három együttes végrehajtás-hitelesítő szakértő nevét, levelezési címét, telefonszámát, faxszámát, elektronikus levelezési címét. A kérelem benyújtásával egyidejűleg a kérelmező hatósági bizonyítvánnyal igazolja azt a tényt, hogy az általa foglalkoztatottak büntetlen előéletűek, és nem állnak az együttes végrehajtás-hitelesítő szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, vagy mellékeli arra vonatkozó nyilatkozatukat, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a környezetvédelmi hatóság részére – annak az együttes végrehajtás-hitelesítői tevékenység engedélyezése iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a környezetvédelmi hatóság az (5) bekezdésben meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől.
+(4) A (2) bekezdés szerinti engedély iránti kérelemnek tartalmaznia kell az együttes végrehajtás-hitelesítő által foglalkoztatott legalább három együttes végrehajtás-hitelesítő szakértő nevét, levelezési címét, telefonszámát, faxszámát, elektronikus levelezési címét. A kérelem benyújtásával egyidejűleg a kérelmező hatósági bizonyítvánnyal igazolja azt a tényt, hogy az általa foglalkoztatottak büntetlen előéletűek, és nem állnak az együttes végrehajtás-hitelesítő szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, vagy mellékeli arra vonatkozó nyilatkozatukat, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a klímavédelemért felelős hatóság részére – annak az együttes végrehajtás-hitelesítői tevékenység engedélyezése iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a klímavédelemért felelős hatóság az (5) bekezdésben meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől.
 
-(5) A környezetvédelmi hatóság az együttes végrehajtás-hitelesítői tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy az együttes végrehajtás-hitelesítő szakértők büntetlen előéletűek-e, és nem állnak-e az együttes végrehajtás-hitelesítő szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából a környezetvédelmi hatóság adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy az együttes végrehajtás-hitelesítő szakértők büntetlen előéletűek-e, valamint, hogy az együttes végrehajtás-hitelesítő szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt állnak-e.
+(5) A klímavédelemért felelős hatóság az együttes végrehajtás-hitelesítői tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy az együttes végrehajtás-hitelesítő szakértők büntetlen előéletűek-e, és nem állnak-e az együttes végrehajtás-hitelesítő szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából a klímavédelemért felelős hatóság adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy az együttes végrehajtás-hitelesítő szakértők büntetlen előéletűek-e, valamint, hogy az együttes végrehajtás-hitelesítő szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt állnak-e.
 
-(6) A (4) és (5) bekezdés alapján megismert személyes adatokat a környezetvédelmi hatóság
+(6) A (4) és (5) bekezdés alapján megismert személyes adatokat a klímavédelemért felelős hatóság
 
 - a) az együttes végrehajtás-hitelesítői tevékenység engedélyezése iránti eljárás jogerős befejezéséig,
 - b) az együttes végrehajtás-hitelesítői tevékenység engedélyezése esetén a hatósági ellenőrzés időtartamára vagy az engedély visszavonására irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
 
-13/C. § (1) Együttes végrehajtás-hitelesítői tevékenység folytatását a környezetvédelmi hatóság annak az akkreditált független hitelesítőnek engedélyezi, amely
+13/C. § (1) Együttes végrehajtás-hitelesítői tevékenység folytatását a klímavédelemért felelős hatóság annak az akkreditált független hitelesítőnek engedélyezi, amely
 
 - a) a hitelesítői tevékenység végzésére az Együttes Végrehajtás Felügyeleti Bizottság akkreditációja folytán jogosult,
 - b) rendelkezik a külön jogszabályban meghatározott biztosítékkal, és megfelel az ott meghatározott egyéb feltételeknek.
 
-(2) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező, más EGT-államban feljogosított hitelesítő a határon átnyúló szolgáltatásnyújtás keretében külön engedély nélkül folytathatja tevékenységét, köteles azonban az együttes végrehajtás hitelesítői tevékenység folytatására irányuló szándékát a környezetvédelmi hatóságnak bejelenteni.
+(2) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező, más EGT-államban feljogosított hitelesítő a határon átnyúló szolgáltatásnyújtás keretében külön engedély nélkül folytathatja tevékenységét, köteles azonban az együttes végrehajtás hitelesítői tevékenység folytatására irányuló szándékát a klímavédelemért felelős hatóságnak bejelenteni.
 
-13/D. § A környezetvédelmi hatóság a 13/B. § és a 13/C. § (1) bekezdése szerinti együttes végrehajtás hitelesítői tevékenységre engedéllyel rendelkezőkről, illetve együttes végrehajtás hitelesítői tevékenységre jogosult, a 13/C. § (2) bekezdése szerinti bejelentést tevőkről nyilvántartást vezet, amely a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározottakon túl, a 13/B. § szerinti esetben tartalmazza az együttes végrehajtás hitelesítő szervezet által foglalkoztatott együttes végrehajtás hitelesítő szakértők nevét, levelezési címét, telefonszámát, faxszámát és elektronikus levelezési címét. A nyilvántartásból kizárólag a hitelesítői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
+13/D. § A klímavédelemért felelős hatóság a 13/B. § és a 13/C. § (1) bekezdése szerinti együttes végrehajtás hitelesítői tevékenységre engedéllyel rendelkezőkről, illetve együttes végrehajtás hitelesítői tevékenységre jogosult, a 13/C. § (2) bekezdése szerinti bejelentést tevőkről nyilvántartást vezet, amely a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározottakon túl, a 13/B. § szerinti esetben tartalmazza az együttes végrehajtás hitelesítő szervezet által foglalkoztatott együttes végrehajtás hitelesítő szakértők nevét, levelezési címét, telefonszámát, faxszámát és elektronikus levelezési címét. A nyilvántartásból kizárólag a hitelesítői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 
-13/E. § A környezetvédelmi hatóság 13/B. §–13/C. § szerinti engedélyezési eljárásáért és a 13/C. § szerinti bejelentésért igazgatási szolgáltatási díjat kell fizetni.
+13/E. § A klímavédelemért felelős hatóság 13/B. §–13/C. § szerinti engedélyezési eljárásáért és a 13/C. § szerinti bejelentésért igazgatási szolgáltatási díjat kell fizetni.
 
 13/F. § (1) A miniszter a Keretegyezményből fakadó nemzetközi kötelezettségvállalásokkal összefüggésben ellátja a nemzetközi klímavédelmi erőfeszítéseket támogató multi- és bilaterális szervezetekben a hazai képviseletet és koordinálja a részvételt. Ennek keretében a külpolitikáért felelős miniszter egyetértésével, az államháztartásért felelős miniszter tájékoztatásával egyidejűleg a Zöld Klíma Alap (GCF) döntéshozó testülete esetében kijelöli a szervezethez akkreditált nemzeti képviselőt.
 
@@ -429,7 +429,7 @@ A fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységek és az 
 - m) a fluortartalmú üvegházhatású gázok Magyarország területén való forgalomba hozatalára, export, import kereskedelmi tevékenységre, a forgalombahozatali mentességi kérelemre, a címkézésre vonatkozó szabályokat, valamint ezen tevékenységek esetében a regisztrációs, adatszolgáltatási és jelentéstételi kötelezettségek, valamint az ezzel kapcsolatos felelősségi rendszerek részletes szabályait;
 - n) a fluortartalmú üvegházhatású gázokat tartalmazó termékek és berendezések szivárgásvizsgálatára, visszanyerésére, újrahasznosítására és regenerálására vonatkozó szabályokat, valamint ezen tevékenységek végzése esetében a regisztrációs, adatszolgáltatási és jelentéstételi kötelezettségek, valamint az ezzel kapcsolatos felelősségi rendszerek részletes szabályait;
 - o) a klímavédelmi bírság mértékét;
-- p) a fluortartalmú üvegházhatású gázokkal végzett tevékenységek ellenőrzésével, felügyeletével és valamennyi hatósági feladat ellátásával kapcsolatban eljáró hatóság kijelölését.
+- p) a klímavédelemért felelős hatóság kijelölését.
 
 (6) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg:
 

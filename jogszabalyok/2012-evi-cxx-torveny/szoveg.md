@@ -21,7 +21,7 @@ az állami és önkormányzati alkalmazásban álló közszolgálati tisztvisel�
 - a) a formaruházat tekintetében a fegyveres biztonsági őrre,
 - b) az alkalmazási feltételek, az intézkedéssel, kényszerítő eszközzel szembeni panasz és kivizsgálása, valamint a képzés és vizsgáztatás tekintetében a személy- és vagyonőrre,
 - c) a természetvédelmi őrre,
-- d) az erdővédelmi szolgálat tagjára,
+- d) az erdészeti hatóság rendészeti feladatokat ellátó tagjára,
 - e) a hegyőrre,
 - f) a formaruházat kivételével a hivatásos vadászra,
 - g) a rendészeti feladatokat ellátó erdészeti szakszemélyzetre,
@@ -43,7 +43,7 @@ az állami és önkormányzati alkalmazásban álló közszolgálati tisztvisel�
   - ac) a hivatásos vadász esetében a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló törvényben,
   - ad) közterület-felügyelő esetében a közterület-felügyeletről szóló törvényben,
   - ae) a halászati őr esetében a halászatról és a horgászatról szóló törvényben,
-  - af) az erdővédelmi szolgálat tagja, az rendészeti feladatokat ellátó erdészeti szakszemélyzet, a rendészeti feladatokat ellátó jogosult erdészeti szakszemélyzet esetében az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvényben
+  - af) az erdészeti hatóság rendészeti feladatokat ellátó tagja, az rendészeti feladatokat ellátó erdészeti szakszemélyzet, a rendészeti feladatokat ellátó jogosult erdészeti szakszemélyzet esetében az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvényben
 
 meghatározott közigazgatási bírsággal sújtható cselekményeket,
 
@@ -55,7 +55,7 @@ meghatározott közigazgatási bírsággal sújtható cselekményeket,
   - be) a hivatásos vadász tekintetében a vadászterületet és a közforgalom elől elzárt magánutat,
   - bf) a halászati őr tekintetében a halászati vízterületet, halastavat, valamint annak partját,
   - bg) rendészeti feladatokat ellátó erdészeti szakszemélyzet és rendészeti feladatokat ellátó jogosult erdészeti szakszemélyzet tekintetében az erdőt, erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületet és az erdészeti magánutat,
-  - bh) az erdővédelmi szolgálat tekintetében az erdészeti hatóság illetékességi területét
+  - bh) az erdészeti hatóság rendészeti feladatokat ellátó tagja tekintetében az erdészeti hatóság illetékességi területét
 
 kell érteni.
 
@@ -341,7 +341,7 @@ tarthat magánál.
 (2) A település közigazgatási területének belterületnek nem minősülő, elsősorban mezőgazdasági, erdőművelési célra szolgáló részén, szolgálati feladatainak ellátása során nyíltan viselve
 
 - a) a mezőőr, valamint a hegyőr, a halászati őr – jogszabályban meghatározott közegészségügyi okból, a légiközlekedés biztonsága, valamint az okszerű mezőgazdasági termelés biztosítása érdekében meghatározott állatok riasztása, elejtése, gyérítése, és állományának szabályozása érdekében – sörétes lőfegyvert,
-- b) az erdővédelmi szolgálat tagja, az rendészeti feladatokat ellátó erdészeti szakszemélyzet, a rendészeti feladatokat ellátó jogosult erdészeti szakszemélyzet, természetvédelmi őr önvédelmi célból, a hivatásos vadász – nagyvad utánkeresése során a kegyelemlövéshez – maroklőfegyvert,
+- b) az erdészeti hatóság rendészeti feladatokat ellátó tagja, az rendészeti feladatokat ellátó erdészeti szakszemélyzet, a rendészeti feladatokat ellátó jogosult erdészeti szakszemélyzet, természetvédelmi őr önvédelmi célból, a hivatásos vadász – nagyvad utánkeresése során a kegyelemlövéshez – maroklőfegyvert,
 - c) a hivatásos vadász – a sérült vagy sebzett nagyvad elejtése érdekében – vadászlőfegyvert
 
 tarthat magánál.

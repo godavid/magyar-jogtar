@@ -71,6 +71,8 @@ terjed ki.
 
 (4) A közlekedési hatóság a (3) bekezdés alapján megismert személyes adatokat nyilvántartásba veszi és a tevékenység teljes ideje alatt kezeli.
 
+(5) Az alapképzés és időszakos oktatás végzésére irányuló szándékot a szolgáltató köteles a közlekedési hatóságnak a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelenteni. Alapképzés, illetve időszakos oktatás végzésére a jogszabályban meghatározott személyi és tárgyi feltételeket teljesítő képzőszervezet jogosult, amelynek legalább egy személyesen közreműködő tagja vagy alkalmazottja – egyéni vállalkozó esetén, ha a tevékenységet nem maga látja el, legalább egy foglalkoztatottja – rendelkezik a jogszabályban meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek (a továbbiakban együtt: egyéb kötöttpályás közlekedési szakmai oktató). Egyéb kötöttpályás közlekedési szakmai oktatóként az foglalkoztatható, aki büntetlen előéletű, és nem áll az e tevékenység folytatását kizáró foglalkoztatástól eltiltás hatálya alatt.
+
 #### 6. Műszaki engedély
 
 7. § (1) E törvény alapján műszaki hatósági engedély (a továbbiakban: műszaki engedély) szükséges
@@ -152,7 +154,7 @@ kezeli.
 15. § (1) A közlekedési hatóság feladat- és hatáskörébe tartozik:
 
 - a) a műszaki engedély kiadása,
-- b) a képzési engedély kiadása, az alapképzés és az időszakos oktatás ellenőrzése, az alapvizsga és az időszakos vizsga alapján a hatósági igazolás kiállítása, továbbá annak ellenőrzése, hogy az egyéb kötöttpályás közlekedés biztonságával összefüggő tevékenységet végző munkavállaló a jogszabályban előírt alapvizsgával és időszakos vizsgával rendelkezik-e,
+- b) az alapképzés és az időszakos oktatás ellenőrzése, az alapvizsga és az időszakos vizsga alapján a hatósági igazolás kiállítása, továbbá annak ellenőrzése, hogy az egyéb kötöttpályás közlekedés biztonságával összefüggő tevékenységet végző munkavállaló a jogszabályban előírt alapvizsgával és időszakos vizsgával rendelkezik-e,
 - c) a siklók, sífelvonók, a függővasutak, az egyéb kötöttpályás üzemi létesítmények, a turisztikai hajtányok, az egyéb kötöttpályás közlekedési tevékenységek ellenőrzése abból a szempontból, hogy azok megfelelnek-e a jogszabályok előírásainak, a hatósági engedélyekben foglaltaknak,
 - d) az egyéb kötöttpályás közlekedési rendszerek műszaki-biztonsági, valamint a kötöttpályás közlekedési tevékenységet végző szervezetek nyilvántartásának vezetése, továbbá
 - e) mindazon feladatok ellátása, amelyeket kormányrendelet feladatkörébe utal.
@@ -181,11 +183,9 @@ ingatlan.
 
 (7) A közlekedési hatóság az egyéb kötöttpályás közlekedés biztonság körébe tartozó feladatait nem ruházhatja át, és annak elvégzésére más szervezetet – közigazgatási szerv kivételével – nem kérhet fel.
 
-17. § (1) A műszaki engedély kiadására irányuló eljárás megindítására irányuló kérelem elektronikus úton nem nyújtható be. A közlekedési hatóság által lefolytatott hatósági eljárásban az eljárás megindítására kérelmet benyújtó ügyfél a közlekedési hatósággal elektronikus kapcsolattartásra nem jogosult.
+17. § (1) A hatóság a 7. § (1) bekezdés a) pontjában meghatározott eljárás megindításáról a kormányrendeletben meghatározott adatbázisban regisztrált, ügyfélnek minősülő szervezetet az ügyfél által megadott elektronikus úton vagy az ügyfél egyéb, hangkapcsolati útnak nem minősülő elektronikus elérhetőségén az eljárás megindításától számított nyolc napon belül értesíti. Az eljárásban nem azonosítható ügyféllel szemben hirdetményi kézbesítésnek van helye.
 
-(2) A hatóság a 7. § (1) bekezdés a) pontjában meghatározott eljárás megindításáról a kormányrendeletben meghatározott adatbázisban regisztrált, ügyfélnek minősülő szervezetet az ügyfél által megadott elektronikus levélcímen az eljárás megindításától számított nyolc napon belül értesíti. Az eljárásban nem azonosítható ügyféllel szemben hirdetményi kézbesítésnek van helye.
-
-(3) A 7. § (1) bekezdés a) pontjában meghatározott eljárásban hozott döntés fellebbezéssel nem érintett rendelkezései tekintetében a döntés jogerőssé válik, ha kizárólag a döntés egyes rendelkezései ellen nyújtottak be fellebbezést, és az ügy jellegéből adódóan a fellebbezés elbírálása nem hat ki a fellebbezéssel meg nem támadott rendelkezésekre.
+(2) A 7. § (1) bekezdés a) pontjában meghatározott eljárásban hozott döntés fellebbezéssel nem érintett rendelkezései tekintetében a döntés jogerőssé válik, ha kizárólag a döntés egyes rendelkezései ellen nyújtottak be fellebbezést, és az ügy jellegéből adódóan a fellebbezés elbírálása nem hat ki a fellebbezéssel meg nem támadott rendelkezésekre.
 
 18. § (1) Ha e törvény vagy a felhatalmazása alapján kiadott jogszabály vasúti közlekedési szakkérdésben szakértő igénybevételét írja elő, vagy az eljáró hatóság a szakértői vélemény alapján hozott döntésben jogkövetkezményt állapít meg, egyéb kötöttpályás szakértőként (a továbbiakban: szakértő) eljárhat
 
@@ -284,3 +284,7 @@ rendeletben állapítsa meg.
 #### 17. Hatálybalépés
 
 25. § Ez a törvény a kihirdetését követő 15. napon lép hatályba.
+
+#### 18. Átmeneti rendelkezések
+
+26. § E törvénynek az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról szóló 2016. évi CXXI. törvénnyel megállapított 17. §-át 2017. december 31-ig csak akkor kell alkalmazni, ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.

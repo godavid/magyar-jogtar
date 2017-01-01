@@ -248,7 +248,7 @@ meghatározott hasznosítási és újrafeldolgozási célok alkalmazásában is 
 
 (6) A kereskedő és a közvetítő – a 39. § (3) bekezdésében foglaltakra figyelemmel – a hulladékgazdálkodási közszolgáltatás körébe tartozó hulladékot kizárólag a közszolgáltató nevében eljárva vásárolhatja meg, adhatja el, szállíthatja, közvetítheti, kivéve, ha kezeli is a hulladékot.
 
-14. § (1) Hulladékot csak hulladékgazdálkodási engedély birtokában lehet szállítani, kivéve ha
+14. § (1) Hulladékot csak hulladékgazdálkodási engedély birtokában vagy nyilvántartásba vétel alapján lehet szállítani, kivéve ha
 
 - a) a természetes személy ingatlanhasználó az elkülönítetten gyűjtött háztartási hulladékot hulladékgyűjtő pontra, hulladékgyűjtő udvarba, átvételi helyre vagy hulladékkezelő létesítménybe szállítja, valamint
 - b) a gyártó, a forgalmazó az átvételi kötelezettséggel érintett hulladékot hulladékkezelő létesítménybe szállítja,
@@ -843,7 +843,7 @@ tarthatja nyilván.
 
 68. § (1) A hulladéklerakó üzemeltetője, illetve a (2) bekezdésben meghatározott ártalmatlanítási művelet végzője (a továbbiakban együtt: járulékfizetésre kötelezett) a hulladéklerakás csökkentése, valamint az e törvényben meghatározott hasznosítási arányok teljesítése érdekében hulladéklerakási járulékot fizet. A hulladéklerakási járulék adók módjára behajtandó köztartozás. A hulladéklerakási járulék nem áthárítható.
 
-(2) A hulladéklerakási járulékot a 2. mellékletben meghatározott D1, D2, D3, D4, D5 és D12 kóddal ellátott ártalmatlanítási művelet után kell befizetni az 5. mellékletben meghatározott hulladékfajta, -jelleg, illetve -típus esetében és számítási mód szerint. A hulladéklerakási járulék megfizetésének kötelezettsége az 5. mellékletben meghatározott hulladék lerakásával keletkezik.
+(2) Hulladéklerakási járulékot – a 69. § (5) bekezdésében meghatározott kivételekkel – a hulladékgazdálkodással kapcsolatos ártalmatlanítási és hasznosítási műveletek felsorolásáról szóló miniszteri rendeletben meghatározott D1, D2, D3, D4, D5 és D12 kóddal ellátott ártalmatlanítási művelettel ártalmatlanított hulladék után kell fizetni. A hulladéklerakási járulék megfizetésének kötelezettsége a hulladék elhelyezésével keletkezik. A járulék mértékét 6000 Ft/tonna egységár alapulvételével a negyedévenkénti járulékfizetéssel érintett hulladék tömege alapján kell meghatározni.
 
 (3) A járulékfizetésre kötelezett a járulékfizetési kötelezettségét annak keletkezésétől számított 15 napon belül a környezetvédelmi hatóságnak – az e célra készített formanyomtatványon – bejelenti (bejelentés).
 
@@ -852,7 +852,7 @@ tarthatja nyilván.
 (5) A járulékfizetésre kötelezett a hulladéklerakóban elhelyezett hulladékról naprakész nyilvántartást vezet. A nyilvántartás tartalmazza
 
 - a) a járulékfizetés alapjára és a megfizetett járulék összegére, valamint
-- b) a hulladéklerakóban elhelyezett hulladék mennyiségére, fajtájára, jellegére és típusára
+- b) a hulladéklerakóban elhelyezett hulladék mennyiségére, jellegére és típusára
 
 vonatkozó adatokat.
 
@@ -880,9 +880,18 @@ vonatkozó adatokat.
 - a) a környezetvédelmi hatóság által engedélyezett rekultiváció vagy kármentesítés során a rekultivációval vagy kármentesítéssel érintett hulladéklerakóból hulladékot helyeznek át egy másik hulladéklerakóba,
 - b) az állam vagy az Európai Unió által támogatott kármentesítés során képződő hulladékot helyeznek el hulladéklerakóban,
 - c) 5000 lakosegyenérték szennyezőanyag-terhelést meg nem haladó szennyvíztisztító telepen képződött települési szennyvíziszapot helyeznek el hulladéklerakóban, és a szennyvíziszapban lévő anyagok a szennyvizek és szennyvíziszapok mezőgazdasági felhasználásának és kezelésének szabályairól szóló kormányrendelet mellékletében meghatározott határértékeket meghaladják, és ennek következtében a szennyvíziszap mezőgazdasági célú felhasználása termőföldön nem lehetséges,
-- d) a hulladéklerakóban települési szennyvíziszapkomposztot helyeznek el takarórétegként, amelyből a biogázt és a növények számára hasznosítható tápanyagokat előzetesen kinyerték, majd a kinyerést követően visszamaradt szennyvíziszapot komposztálták, és a szennyvíziszapkomposztban található anyagok a szennyvizek és szennyvíziszapok mezőgazdasági felhasználásának és kezelésének szabályairól szóló kormányrendelet mellékletében meghatározott szennyvíziszapkomposztra vonatkozó határértékeket meghaladják, és ennek következtében a szennyvíziszapkomposzt mezőgazdasági célú felhasználása termőföldön nem lehetséges.
+- d) a hulladéklerakóban települési szennyvíziszapkomposztot helyeznek el takarórétegként, amelyből a biogázt és a növények számára hasznosítható tápanyagokat előzetesen kinyerték, majd a kinyerést követően visszamaradt szennyvíziszapot komposztálták, és a szennyvíziszapkomposztban található anyagok a szennyvizek és szennyvíziszapok mezőgazdasági felhasználásának és kezelésének szabályairól szóló kormányrendelet mellékletében meghatározott szennyvíziszapkomposztra vonatkozó határértékeket meghaladják, és ennek következtében a szennyvíziszapkomposzt mezőgazdasági célú felhasználása termőföldön nem lehetséges,
+- e) azbesztet tartalmazó, lakosságnál képződött építőanyag hulladék lerakása valósul meg,
+- f) erőművi és hulladékégetésből származó nem veszélyes
+  - fa) salak, pernye,
+  - fb) egyéb füstgáz tisztításából származó hulladék
 
-(6) A járulékfizetésre kötelezett a települési szennyvíziszap hulladéklerakóban történő lerakása után az 5. melléklet 2. pontjában foglalt táblázat 4. pontjában meghatározott mértékű hulladéklerakási járulék 50%-át fizeti meg, ha a szennyvíziszapból a biogázt és a növények számára hasznosítható tápanyagokat előzetesen kinyerték és a kinyerést követően visszamaradt szennyvíziszapban található anyagok a szennyvizek és szennyvíziszapok mezőgazdasági felhasználásának és kezelésének szabályairól szóló kormányrendelet mellékletében meghatározott szennyvíziszapra vonatkozó határértékeket meghaladják.
+lerakása valósul meg,
+
+- g) nem veszélyes kohászati salak hulladék lerakása valósul meg,
+- h) a 15. § (6) bekezdése szerinti építési célú felhasználás valósul meg.
+
+(6) A járulékfizetésre kötelezett a települési szennyvíziszap hulladéklerakóban történő lerakása után 68. § (2) bekezdésében meghatározott mértékű hulladéklerakási járulék 50%-át fizeti meg, ha a szennyvíziszapból a biogázt és a növények számára hasznosítható tápanyagokat előzetesen kinyerték és a kinyerést követően visszamaradt szennyvíziszapban található anyagok a szennyvizek és szennyvíziszapok mezőgazdasági felhasználásának és kezelésének szabályairól szóló kormányrendelet mellékletében meghatározott szennyvíziszapra vonatkozó határértékeket meghaladják.
 
 69/A. § (1) A hulladéklerakási járulékkal kapcsolatos jogsértő cselekmények megelőzése, valamint a ténylegesen lerakott hulladékmennyiség után fizetendő hulladéklerakási járulék megfizetésének biztosítása érdekében a járulékfizetésre kötelezett a hulladéklerakó területén elektronikus megfigyelő- és beléptető rendszert épít ki.
 
@@ -1044,7 +1053,7 @@ részére adhatók át.
 
 (9) Az e törvény végrehajtására kiadott kormányrendelet vagy miniszteri rendelet a (4)–(7) bekezdésben foglalt feltételekhez kapcsolódó szabályokat részletesen meghatározhatja.
 
-(10) Az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség a veszélyes hulladékkal kapcsolatos egyes tevékenységek részletes szabályairól szóló kormányrendelet 15. § (1) bekezdés d) pontjában meghatározott minősítés tárgyában a döntését a kérelem benyújtását követő 50 napon belül hozza meg.
+(10) A veszélyes hulladékkal kapcsolatos egyes tevékenységek részletes szabályairól szóló kormányrendelet szerinti minősítés ügyintézési határideje 50 nap.
 
 80. § (1) A környezetvédelmi hatóság által kiadott hulladékgazdálkodási engedélynek legalább a következő adatokat kell tartalmaznia:
 
@@ -1169,6 +1178,8 @@ azt a környezetvédelmi hatóság a hulladékgazdálkodási bírsággal kapcsol
 jogsértés esetén nem mérsékelhető.
 
 (6) A hulladékgazdálkodási bírság megfizetése nem mentesít a büntetőjogi,, továbbá a kártérítési felelősség, valamint a tevékenység korlátozására, felfüggesztésére, tiltására vagy a megfelelő védekezés kialakítására, a természetes vagy eredeti környezeti állapot helyreállítására vonatkozó kötelezettség teljesítése alól.
+
+(6a) Nincs helye közigazgatási bírság alkalmazásának települési hulladék közterületen engedély nélkül történő lerakása, elhelyezése miatt.
 
 (7) A jogerősen kiszabott hulladékgazdálkodási bírság adók módjára behajtandó köztartozás.
 
@@ -1733,34 +1744,3 @@ A hulladékképződéssel kapcsolatos keretfeltételeket érintő intézkedések
 - 16. A még felhasználható eldobott termékek vagy azok összetevői újrahasználatának, illetve megjavításának előmozdítása, nevezetesen az olyan oktatási, gazdasági, logisztikai vagy egyéb intézkedések alkalmazása révén, mint például a hitelesített javító és újrahasználati központok és hálózatok támogatása vagy létesítése, különösen a sűrűn lakott régiókban.
 
 ### 5. melléklet a 2012. évi CLXXXV. törvényhez
-
-#### A hulladéklerakási járulék mértéke
-
-- 1. A hulladéklerakási járulék kiszámításakor az alábbi képletet kell alkalmazni:
-
-|  | HJ (Ft/negyedév) = | Σ | [Hi (tonna/negyedév) x Ei (Ft/tonna)] |
-| --- | --- | --- | --- |
-
-ahol:
-
-HJ = fizetendő hulladéklerakási járulék
-
-H = hulladéklerakási járulékfizetéssel érintett hulladék tömege
-
-E = hulladéklerakási járulékfizetéssel érintett hulladék egységára
-
-i = hulladéklerakási járulékfizetéssel érintett hulladék fajtája, jellege, típusa
-
-- 2. A hulladék fajtánkénti egységára:
-
-|  | A | B |
-| --- | --- | --- |
-| 1 | Hulladéklerakási járulékfizetéssel érintett hulladék fajtája, jellege, típusa | Hulladéklerakási járulékfizetéssel érintett hulladék egységára évenként (Ft/tonna) |
-| 2 | települési hulladék, ideértve az előkezelt települési hulladékot is | 6000 Ft |
-| 3 | építési-bontási hulladék | 6000 Ft |
-| 4 | veszélyes hulladék | 6000 Ft |
-| 5 | települési szennyvíziszap | 6000 Ft |
-| 6 | a hulladékból előállított termék gyártása során képződött és tovább hasznosítható maradék hulladék | 4000 Ft |
-| 7 | a hulladékból előállított termék gyártása során képződött és tovább nem hasznosítható maradék hulladék | 3000 Ft |
-
-* 2017. január 1-jétől a 2016. évre meghatározott hulladéklerakási járulékot kell megfizetni.

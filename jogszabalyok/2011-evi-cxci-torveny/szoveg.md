@@ -457,6 +457,23 @@ vonatkozó adatokat kezelheti.
 
 (5) E § alkalmazása során megváltozott munkaképességű személynek kell tekinteni a fogyatékossági támogatásban vagy a vakok személyi járadékában részesülő személyt is.
 
+21/C. § (1) A szociál- és nyugdíjpolitikáért felelős miniszter a megváltozott munkaképességű személyek ellátásai iránti eljárással, valamint az akkreditált munkáltató részére nyújtott támogatással összefüggő feladatai ellátásának céljából, az ahhoz szükséges mértékben és ideig – a 21. § (7) bekezdésben és a 21/B. § (3) bekezdésében meghatározottak figyelembevételével – kezelheti a 21. § (1) bekezdésében és a 21/B. § (1) és (2) bekezdésében meghatározott adatokat.
+
+(2) A foglalkozási rehabilitációs szolgáltatáshoz, képzéshez nyújtott, valamint a foglalkozási rehabilitációt elősegítő egyéb támogatások ügyében jogszabály alapján eljáró szerv a támogatással összefüggő feladatai ellátásának céljából, az ahhoz szükséges mértékben és ideig kezelheti a 21. § (1) bekezdésében és a 21/B. § (1) és (2) bekezdésében meghatározott adatokat.
+
+21/D. § (1) Ha a rendvédelmi egészségkárosodási járadékra vagy rendvédelmi egészségkárosodási keresetkiegészítésre jogosult
+
+- a) rehabilitációs ellátásra jogosult vagy jogosulttá válik, ennek tényéről, továbbá a rehabilitációs ellátás mértékének változásáról, folyósításának felfüggesztéséről, ismételt megállapításáról, megszűnéséről és megszüntetéséről,
+- b) rokkantsági ellátásra jogosult vagy jogosulttá válik, ennek tényéről, továbbá a rokkantsági ellátás mértékének változásáról, megszűnéséről és megszüntetéséről
+
+a megváltozott munkaképességű személyek ellátásait folyósító szerv hivatalból 15 napon belül tájékoztatja a rendvédelmi egészségkárosodási járadékra vagy rendvédelmi egészségkárosodási keresetkiegészítésre jogosultságot megállapító rendvédelmi feladatokat ellátó szervet.
+
+(2) Az ellátást folyósító szerv a rendvédelmi feladatokat ellátó szerv erre irányuló tájékoztatása alapján szerez tudomást arról, hogy kinek a részére állapítottak meg rendvédelmi egészségkárosodási járadékot vagy rendvédelmi egészségkárosodási keresetkiegészítést, továbbá arról, ha ezen ellátások megszűntek.
+
+(3) Ha a honvédelmi egészségkárosodási járadékra vagy honvédelmi egészségkárosodási keresetkiegészítésre jogosult az (1) bekezdés a) vagy b) pontjában meghatározott ellátásra jogosult vagy jogosulttá válik, vagy az ott meghatározott körülmények valamelyike bekövetkezik, akkor ezen tényekről a megváltozott munkaképességű személyek ellátásait folyósító szerv hivatalból 15 napon belül tájékoztatja a honvédelmi egészségkárosodási járadékot vagy honvédelmi egészségkárosodási keresetkiegészítést folyósító szervet.
+
+(4) Az ellátást folyósító szerv a honvédelmi egészségkárosodási járadékot vagy honvédelmi egészségkárosodási keresetkiegészítést megállapító szerv tájékoztatása alapján szerez tudomást arról, hogy kinek a részére állapítottak meg honvédelmi egészségkárosodási járadékot vagy honvédelmi egészségkárosodási keresetkiegészítést, továbbá arról, ha ezen ellátások megszűntek.
+
 #### 7. A rehabilitációs hozzájárulás és a megváltozott munkaképességű személyek foglalkoztatásának támogatása
 
 22. § A 23–24. § alkalmazásában megváltozott munkaképességű személynek kell tekinteni azt a személyt,
@@ -492,7 +509,7 @@ kell figyelembe venni.
 
 (4a) Munkaerő-kölcsönzés esetén a (4) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy a kölcsönzött munkavállalót a kikölcsönzés tartama alatt a kölcsönvevőnél, – a kölcsönbeadónak a kölcsönvevő felé tett erre irányuló nyilatkozata esetén a kölcsönbeadónál – kell a rehabilitációs hozzájárulás alapjául szolgáló statisztikai létszám számítása során figyelembe venni.
 
-(5) A rehabilitációs hozzájárulás mértéke 964 500 Ft/fő/év.
+(5) A rehabilitációs hozzájárulás mértéke a tárgyév első napján a teljes munkaidőben foglalkoztatott munkavállaló részére megállapított alapbér kötelező legkisebb összegének kilencszerese/fő/év.
 
 (6) Az (1) bekezdéstől eltérően mentesül a rehabilitációs hozzájárulás fizetésének kötelezettsége alól különösen
 
@@ -508,7 +525,7 @@ kell figyelembe venni.
 
 (3) A rehabilitációs hozzájárulás e törvény által nem szabályozott kérdéseiben az adózás rendjéről szóló törvény rendelkezéseit kell alkalmazni. A rehabilitációs hozzájárulás a központi költségvetés bevételét képezi.
 
-25. § (1) A rehabilitációs hatóság az akkreditált munkáltató részére a Kormány rendeletében meghatározottak szerint pályázati úton
+25. § (1) A szociál- és nyugdíjpolitikáért felelős miniszter az akkreditált munkáltató részére a Kormány rendeletében meghatározottak szerint pályázati úton
 
 - a) támogatást nyújthat a munkahely rehabilitációs célú átalakításához,
 - b) bér- és költségtámogatást nyújthat,
@@ -790,6 +807,22 @@ felülvizsgálati eljárás megindításának időpontjában az öregségi nyugd
 
 (5) Az egyes szociális és gyermekvédelmi tárgyú, valamint a megváltozott munkaképességű személyek ellátásait érintő törvények módosításáról szóló 2016. évi XXVI. törvény által megállapított 20. §-t a 2016. április 30-át követően indult ügyekben kell alkalmazni.
 
+38/G. § (1) Ha a Tbj. 34. § (1) bekezdése alapján a nyugellátásra jogosító szolgálati idő és nyugdíjalapot képező jövedelem szerzése céljából 2012. január 1-jét megelőzően a rokkantsági nyugdíj megszerzése érdekében kötött megállapodás 2011. november 1-je és 2012. július 25-e között került megszüntetésre, a megállapodást kötő személy – kedvezményezett javára kötött megállapodás esetén a kedvezményezett – (a továbbiakban együtt: igénylő) előzetes biztosítási idejének a 2. § (1) bekezdés a) pontja szerinti megállapításakor be kell számítani
+
+- a) a 2011. november 1-je és 2012. július 25-e között megszüntetett megállapodás alapján szerzett szolgálati időt, és
+- b) a nyugellátásra jogosító szolgálati idő és nyugdíjalapot képező jövedelem szerzése céljából 2017. július 1-jéig megkötött megállapodás alapján szerzett szolgálati időt is.
+
+(2) Az (1) bekezdés a) pontja szerinti megállapodás alapján szerzett szolgálati időt úgy kell tekinteni, mintha az igénylő azt a 2014. január 1-je és 2016. december 31-e közötti, 2017. január 1-jéhez legközelebb eső időszakban szerezte volna.
+
+(3) Az (1) bekezdésben foglaltak nem alkalmazhatók, ha
+
+- a) az igénylő 2012. január 1-jén nem minősült megváltozott munkaképességű személynek,
+- b) az igénylő 2017. január 1-jén megváltozott munkaképességű személyek ellátásában részesül, vagy a 2012. január 1-je és 2016. december 31-e közötti időszak egészében vagy egy részében megváltozott munkaképességű személyek ellátásában részesült,
+- c) az igénylő saját jogú nyugellátásban részesül,
+- d) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény végrehajtásáról szóló kormányrendelet alapján az (1) bekezdés a) pontja szerinti megállapodásra tekintettel befizetett járulékokat visszafizették.
+
+(4) A megváltozott munkaképességű személyek ellátásaira való jogosultság az (1) bekezdésben foglaltak alkalmazásával legkorábban 2017. január 1-jei kezdő időponttal állapítható meg.
+
 39. § (1) Ez a törvény a szociális biztonsági rendszerek koordinálásáról szóló 2004. április 29-i 883/2004/EK európai parlamenti és tanácsi rendelet és a szociális biztonsági rendszerek koordinálásáról szóló 883/2004/EK rendelet végrehajtására vonatkozó eljárás megállapításáról szóló 2009. szeptember 16-i 987/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (2) E törvény a Tanácsnak a férfiakkal és nőkkel való egyenlő bánásmód elvének a szociális biztonság területén történő fokozatos megvalósításáról szóló 79/7/EGK irányelvével összeegyeztethető szabályozást tartalmaz.
@@ -862,7 +895,7 @@ felülvizsgálati eljárás megindításának időpontjában az öregségi nyugd
 
 #### 83. §
 
-#### 26. A munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény módosítása
+#### 26.
 
 #### 84–89. §
 
@@ -926,11 +959,9 @@ felülvizsgálati eljárás megindításának időpontjában az öregségi nyugd
 
 #### 119. §
 
-#### 41. A megváltozott munkaképességű személyek ellátórendszerének átalakításával kapcsolatos egyéb rendelkezések
+#### 41.
 
-120. § (1)
-
-(2)–(5)
+#### 120. §
 
 #### 42. A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény módosítása
 
@@ -966,31 +997,27 @@ felülvizsgálati eljárás megindításának időpontjában az öregségi nyugd
 
 #### 189. §
 
-#### 50. A lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi C. törvény módosítása
+#### 50.
 
 #### 190. §
 
-#### 51. A közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény módosítása
+#### 51.
 
 #### 191. §
 
-#### 192–193. §
+#### 192. §
+
+#### 193. §
 
 #### 52. Az ágazati párbeszéd bizottságokról és a középszintű szociális párbeszéd egyes kérdéseiről szóló 2009. évi LXXIV. törvény módosítása
 
 #### 194–197. §
 
-#### 53. Az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló
+#### 53.
 
-2011. évi CLVI. törvény eltérő szöveggel történő hatálybaléptetése
+#### 198. §
 
-198. § (1)–(2)
-
-(3)
-
-#### 54. A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló
-
-2003. évi CXXVII. törvény módosítása
+#### 54.
 
 199. § (1)
 
@@ -998,6 +1025,6 @@ felülvizsgálati eljárás megindításának időpontjában az öregségi nyugd
 
 #### 200. §
 
-#### 55. Hatályba nem lépésről szóló rendelkezések
+#### 55.
 
 #### 201. §

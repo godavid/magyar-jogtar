@@ -60,13 +60,13 @@ legalább 50%-os mértékű egészségkárosodást szenvedett, havi 21972 Ft nem
 
 (2) A kérelmet a kárpótlási hatóság bírálja el.
 
-(3) A méltányossági jogkörben hozott határozat ellen nincs helye fellebbezésnek. A méltányossági jogkörben hozott határozat bírósági felülvizsgálatát kizárólag semmisségére hivatkozva lehet kérni.
+(3) A kárpótlási hatóság határozatának felülvizsgálata iránti perben a kárpótlásra jogosult lakóhelye szerint illetékes közigazgatási és munkaügyi bíróság jár el. Ha a kárpótlásra jogosultnak belföldi lakóhelye nincs, a perben a Fővárosi Közigazgatási és Munkaügyi Bíróság jár el.
 
 (4) Az (1)—(3) bekezdésben említett eljárás ügyintézési határideje három hónap, amelyet a a kárpótlási hatóság vezetője egy ízben legfeljebb három hónappal meghosszabbíthat.
 
 (5) A jogosultság elbírálásához szükséges orvosi szakértői véleményt — amennyiben az nem áll az érintett rendelkezésére, vagy nem tükrözi a véglegesen kialakult állapotot — orvosszakértői szerv adja ki.
 
-(6) A kérelmező nem jogosult a kárpótlási hatósággal elektronikus úton kapcsolatot tartani.
+(6)
 
 7. § (1) A kárpótlási hatóság a kérelemnek helyt adó határozatot megküldi a nyugdíjfolyósító szervnek.
 
@@ -91,3 +91,5 @@ legalább 50%-os mértékű egészségkárosodást szenvedett, havi 21972 Ft nem
 (4) Az 1991. évi XII. törvény 2. §-a (2)—(3) bekezdésének a jelen § (1) bekezdésében foglalt módosítása alapján történő pótlékmegvonás nem vonatkozik a 70. életévüket 1993. január 1-jéig betöltő nyugdíjasokra, valamint azokra, akiknek a saját jogú nyugellátása e törvény hatálybalépésekor a 8500 Ft-ot, illetve az özvegyi nyugellátása a 7500 Ft-ot nem éri el.
 
 (5) E törvénynek az egészségkárosodás mértékére vonatkozó rendelkezéseit a 2007. december 31-ét követően benyújtott kérelmek esetén kell alkalmazni.
+
+11. § Ha a kárpótlási hatóság az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.

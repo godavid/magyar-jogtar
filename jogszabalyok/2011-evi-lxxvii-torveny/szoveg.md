@@ -61,7 +61,7 @@ Az Országgyűlés az Egyesült Nemzetek Oktatási, Tudományos és Kulturális 
 - j) gondoskodik a kiemelkedő egyetemes értéket hordozó örökség széles körben történő megismertetését, bemutatását, valamint fejlesztését elősegítő – köztük oktatási, képzési, ismeretterjesztő – programok kidolgozásáról és végrehajtásáról, valamint
 - k) gondoskodik a világörökség állapotának figyelemmel kísérése, értékeinek megóvása során a létesítő okiratuk szerint kulturális örökség védelmével, illetve természeti értékek esetén a természetvédelemmel foglalkozó civil szervezetekkel való együttműködésről;
 - l) gondoskodik a hazai Világörökségi Várományos Helyszínek Jegyzékének vezetéséről,
-- m) Kormányrendeletben kijelölt szerv útján gondoskodik a világörökségi és a világörökségi várományos területek adatainak nyilvántartásáról.
+- m) jogszabályban meghatározott módon gondoskodik a világörökségi és a világörökségi várományos területek adatainak nyilvántartásáról.
 
 4/A. § (1) A kulturális örökség védelméért felelős miniszter, vagy ha a világörökségi helyszín kiemelkedő egyetemes értéke kizárólag természeti érték és a világörökségi terület egésze védett természeti területen van, úgyszintén, ha az állami tulajdonban álló vagyonelem (a továbbiakban: állami vagyonelem) kizárólag természetvédelmi oltalom alatt áll, a természet védelméért felelős miniszter (a továbbiakban együtt: védelemért felelős miniszter) hivatalból, továbbá az állam tulajdonosi jogait gyakorló szerv vagy a világörökségi helyszínen működő világörökségi gondnokság kérelmére megvizsgálja a világörökségi területen levő, állami vagyonelem használatát és hasznosítását. Amennyiben a világörökségi helyszín kiemelkedő egyetemes értéke természeti érték is, vagy az állami vagyonelem természetvédelmi oltalom alatt is áll, a kulturális örökség védelméért felelős miniszter a vizsgálatot a természet védelméért felelős miniszter közreműködésével folytatja le.
 
@@ -84,7 +84,7 @@ Az Országgyűlés az Egyesült Nemzetek Oktatási, Tudományos és Kulturális 
 6. § A kulturális örökség védelméért felelős miniszter a 4. § (2) bekezdésében és az 5. §-ban meghatározott feladatokat a Kormány által az e feladatok ellátása céljából létrehozott javaslattevő, véleményező és döntés-előkészítő testület közreműködésével látja el, amely
 
 - a) a hatáskörében érintett miniszterek által delegált, kiemelkedő elméleti és gyakorlati ismeretekkel rendelkező tagokból,
-- b) a kulturális, valamint a természetvédelmi feladatokat ellátó központi hivatalok vezetőjéből,
+- b) a az országos természetvédelmi hatóság és a természetvédelemért felelős miniszter által vezetett minisztérium vezetőjéből,
 - c) a világörökségi gondnokságok 1-1 képviselőjéből,
 - d) az Országgyűlés illetékes bizottságainak elnökeiből,
 - e) az ICOMOS – Műemlékek és Műemlékhelyszínek Nemzetközi Tanácsa (International Council on Monuments and Sites) Magyar Nemzeti Bizottsága által megbízott személyből,
@@ -128,7 +128,7 @@ Az Országgyűlés az Egyesült Nemzetek Oktatási, Tudományos és Kulturális 
 
 9. § (1) A hatósági eljárásokban hatóságként eljáró vagy közreműködő örökségvédelmi és természetvédelmi hatóság a világörökségi helyszínek és a Világörökség Jegyzékbe jelölendő helyszín által hordozott kiemelkedő egyetemes érték megőrzése érdekében a világörökségi területen vagy a Világörökség Jegyzékbe jelölendő helyszínen és védőövezetében az e törvényben és a világörökségi kezelési tervben foglaltakat eljárása során köteles érvényre juttatni.
 
-(2) Amennyiben a világörökségi területet és a Világörökség Jegyzékbe jelölendő helyszínt és védőövezetét érintő restaurálási, helyreállítási, fejlesztési és építési, bányászati tevékenységre és művelési ág megváltoztatására irányuló kérelem esetében szakértői vélemény beszerzése szükséges, az eljáró hatóság – a saját költségei terhére – jogszabályban meghatározott, a védelem jellege szerinti szakértőt rendel ki, vagy kikéri a miniszter világörökségi feladatait segítő, kormányrendeletben meghatározott szerv véleményét.
+(2) Amennyiben a világörökségi területet és a Világörökség Jegyzékbe jelölendő helyszínt és védőövezetét érintő restaurálási, helyreállítási, fejlesztési és építési, bányászati tevékenységre és művelési ág megváltoztatására irányuló kérelem esetében szakértői vélemény beszerzése szükséges, az eljáró hatóság – a saját költségei terhére – jogszabályban meghatározott, a védelem jellege szerinti szakértőt rendel ki.
 
 (3)
 

@@ -51,7 +51,7 @@ azaz az emberi élet fenntartásához és minőségének, biztonságának javít
 - e) a szennyvíz, szennyvíziszap és hígtrágya elhelyezésére, hasznosítására szolgáló fával borított területre;
 - f) az út, a vasút, töltés, árok, csatorna, valamint az egyéb vonalas műszaki létesítménnyel azonos földrészleten lévő, 1 hektárnál kisebb, vagy a fák tőnél mért távolsága szerint átlagosan húsz méternél keskenyebb, fával borított területre;
 - g) folyó, patak, csatorna medrére vagy a mederben keletkezett zátonyra;
-- h) az energetikai célból termesztett, fás szárú növényekből álló, külön jogszabály szerint létesített ültetvényre;
+- h) az energetikai, valamint ipari célból termesztett, fás szárú növényekből álló, külön jogszabály szerint létesített ültetvényre;
 - i) földalatti gomba termesztését szolgáló, külön jogszabály szerint létesített ültetvényre.
 
 (2a) E törvény hatálya nem terjed ki az Európai Közösségbe irányuló faanyag-behozatal FLEGT engedélyezési rendszerének létrehozásáról szóló, 2005. december 20-i 2173/2005/EK tanácsi rendelet (a továbbiakban: 2173/2005/EK tanácsi rendelet) II. és III. mellékletében felsorolt, olyan fatermékbe ágyazott fára, amelyek a 2173/2005/EK tanácsi rendelet I. mellékletében felsorolt partnerországból származnak, valamint a vadon élő állat- és növényfajok számára kereskedelmük szabályozása által biztosított védelemről szóló, 1996. december 9-i 338/97/EK tanácsi rendelet A., B. vagy C. mellékletében felsorolt olyan faanyagokra és termékekre, amelyek megfelelnek ezen rendeleteknek és végrehajtási rendelkezéseiknek, és ezen rendeletek alapján legálisan kitermeltnek minősülnek.
@@ -181,7 +181,7 @@ a kincstári vagyon részét képezi.
 
 (4) Honvédelmi rendeltetésű erdőt a vagyonkezelő a (2) bekezdés szerinti szerv vagy gazdálkodó szervezet használatába adhatja.
 
-(5) Az állam 100%-os tulajdonában álló erdő és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület vagyonkezelője – a Nemzeti Földalapkezelő Szervezet előzetes hozzájárulását követően – a földterületet vagy annak meghatározott részét erdőgazdálkodási céloktól eltérő, de az erdő termelésből való kivonásával nem járó hasznosítása érdekében harmadik személy részére, hatósági engedély alapján végzett tevékenység gyakorlására, a hatósági engedélyekben előírt feltételekkel és időtartamra, de legfeljebb 5 évre átengedheti. Az erdőgazdálkodási céloktól eltérő hasznosítás nem terjedhet ki az erdei haszonvételek gyakorlására, és nem érintheti a vagyonkezelő földhasználati jogát.
+(5) Az állam 100%-os tulajdonában álló erdő és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület vagyonkezelője – a Nemzeti Földalap kezelésére kijelölt szerv előzetes hozzájárulását követően – a földterületet vagy annak meghatározott részét erdőgazdálkodási céloktól eltérő, de az erdő termelésből való kivonásával nem járó hasznosítása érdekében harmadik személy részére, hatósági engedély alapján végzett tevékenység gyakorlására, a hatósági engedélyekben előírt feltételekkel és időtartamra, de legfeljebb 5 évre átengedheti. Az erdőgazdálkodási céloktól eltérő hasznosítás nem terjedhet ki az erdei haszonvételek gyakorlására, és nem érintheti a vagyonkezelő földhasználati jogát.
 
 9/A. § Az 1. mellékletben meghatározott gazdasági társaságok állami tulajdonban álló társasági részesedése tekintetében az állam tulajdonosi jogait a miniszter gyakorolja.
 
@@ -797,7 +797,7 @@ az e törvény végrehajtására kiadott jogszabályban meghatározott tájékoz
 
 (3) A bejelentés nélkül vagy az erdészeti hatóság bejelentésre tett korlátozó és tiltó rendelkezéseivel ellentétesen telepített fásítás és szabad rendelkezésű erdő esetében az (1) és (2) bekezdések szerint kell eljárni.
 
-49. § Az erdőtelepítést az erdészeti hatóság hivatalból vagy kérelemre indult eljárásban meghozott határozatával befejezetté nyilvánítja, ha az erdőtelepítési-kivitelezési tervben meghatározott fafajok egyedei az e törvény végrehajtására kiadott jogszabályban meghatározott számban, arányban és minőségben jelen vannak.
+49. § Az erdőtelepítést az erdészeti hatóság az erdőtelepítés műszaki átvétele során befejezetté nyilvánítja, ha az erdőtelepítési-kivitelezési tervben meghatározott fafajok egyedei az e törvény végrehajtására kiadott jogszabályban meghatározott számban, arányban és minőségben jelen vannak.
 
 50. § Amennyiben az erdőtelepítés a befejezetté nyilvánítás előtt bármilyen okból meghiúsul és a telepítő a telepítést nem folytatja, az erdészeti hatóság kérelemre az erdőt törli az Adattárból.
 
@@ -830,7 +830,7 @@ az e törvény végrehajtására kiadott jogszabályban meghatározott tájékoz
 
 (9) A (7) bekezdés szerinti kötelezettség a 26. § d) pont szerinti elsődleges rendeltetésű erdőben a fák koronavetületének ötven százalék alá csökkenése esetén keletkezik.
 
-52. § Az erdő felújítását az erdészeti hatóság bejelentésre vagy hivatalból indított eljárásban hozott határozatban befejezetté nyilvánítja, ha az erdőtervben szereplő célállománynak megfelelő fafajok egyedei az e törvény végrehajtására kiadott jogszabályban meghatározott számban, arányban és minőségben jelen vannak.
+52. § Az erdőfelújítást az erdészeti hatóság az erdőfelújítás műszaki átvétele során befejezetté nyilvánítja, ha az erdőtervben szereplő célállománynak megfelelő fafajok egyedei az e törvény végrehajtására kiadott jogszabályban meghatározott számban, arányban és minőségben jelen vannak.
 
 52/A. § Az erdők felújításának csekély összegű (de minimis) támogatásáról szóló külön jogszabály alapján igénybe vett támogatás 2008. január 1-jét megelőzően – az erdészeti hatóság által kiadott engedély alapján – végzett véghasználatok után keletkezett erdőfelújítási kötelezettség teljesítésére az erdő természetes, illetőleg mesterséges felújítása érdekében végzett erdőgazdálkodási tevékenységekhez kapcsolódó pénzügyi tételt keletkeztető műveletekről az erdészeti hatóság közhiteles hatósági nyilvántartást vezet.
 
@@ -1428,7 +1428,7 @@ lévő erdőben
 
 90/M. § (1) Az erdészeti hatóság a faanyag kereskedelmi lánc felügyelettel kapcsolatos hatósági eljárása során a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) rendelkezéseit a (2)–(4) bekezdésben meghatározott eltérésekkel köteles alkalmazni.
 
-(2) Az erdészeti hatóságnak a faanyag kereskedelmi lánc hatósági felügyelettel kapcsolatos eljárásában az ügyintézési határidő 90 nap, amelyet az eljáró hatóság vezetője annak letelte előtt indokolt esetben egy alkalommal, legfeljebb harminc nappal meghosszabbíthat.
+(2) Az erdészeti hatóságnak a faanyag kereskedelmi lánc hatósági felügyelettel kapcsolatos eljárásában az ügyintézési határidő 90 nap.
 
 (3) Ha a hatósági ellenőrzés keretében a vizsgálati eredmény alapján nem állapítható meg jogsértés, a hatóság a vizsgálati jegyzőkönyvet nem küldi meg az ügyfél részére.
 
@@ -1615,9 +1615,9 @@ az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valami
 - b) az erdőben folyó tevékenység jogszerűségét ellenőrizni, a jogszerűtlen tevékenység leállítását elrendelni,
 - c) az erdőt és a fásítást veszélyeztető tevékenység beszüntetését, illetve az attól való tartózkodást elrendelni.
 
-(3) Az állam az erdő védelme, károsításának megelőzése, valamint az erdészeti hatósági tevékenységhez kapcsolódó ellenőrzés érdekében az erdészeti hatóság szervezetében – a bejelentések fogadására és kezelésére 24 órában alkalmas – erdővédelmi szolgálatot működtet.
+(3)
 
-(4) Az erdővédelmi szolgálat tagja az erdészeti hatóság illetékességi területén jogosult és köteles
+(4) Az erdészeti hatóság rendészeti feladatokat ellátó tagja az erdészeti hatóság illetékességi területén jogosult és köteles
 
 - a) az erdők védelmére vonatkozó előírások betartásának ellenőrzése során,
 - b) az erdőket veszélyeztető vagy károsító, jogellenes cselekményt elkövető személlyel szemben,
@@ -1627,9 +1627,14 @@ az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valami
 
 az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott intézkedések és kényszerítő eszközök alkalmazására.
 
-(5) Az erdővédelmi szolgálat tagja szolgálati igazolványának tartalmára, kiadására, nyilvántartásba vételére és nyilvánosságára, valamint szolgálati jelvényére az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény rendelkezései az irányadók.
+(5) Az erdészeti hatóság rendészeti feladatokat ellátó tagja szolgálati igazolványának tartalmára, kiadására, nyilvántartásba vételére és nyilvánosságára, valamint szolgálati jelvényére az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény rendelkezései az irányadók.
 
-#### 104. §
+104. § Ha az erdészeti hatóság eljárása idegenhonos inváziós fajt érint, az erdészeti hatóság
+
+- a) az 1143/2014/EU európai parlamenti és tanácsi rendelet, valamint
+- b) a természet védelméről szóló törvény idegenhonos inváziós fajokkal kapcsolatos
+
+rendelkezéseit is alkalmazza.
 
 ### Eljárási szabályok
 
@@ -1832,7 +1837,7 @@ vonatkozó adat igénylésére.
 - 12. az erdőgazdálkodási bírság és az erdővédelmi bírság megfizetésének részletes szabályait;
 - 13. az erdészeti magánút tervezésének részletes szabályait;
 - 14. az erdőfelújítási biztosíték nyújtásának részletes szabályait;
-- 15. az erdővédelmi szolgálatra vonatkozó részletes szabályokat;
+- 15.
 - 16. az erdőtelepítés és erdőfelújítás befejezetté nyilvánításának részletes szabályait;
 - 17. az erdészeti szakszemélyzet és a jogosult erdészeti szakszemélyzet nyilvántartásba vételének, nyilvántartásból történő törlésének, tevékenységének, továbbképzésének részletes szabályait;
 - 18. az erdészeti termőhelyfeltárás részletes szabályait;
@@ -1843,7 +1848,7 @@ vonatkozó adat igénylésére.
 - 23. a közjóléti létesítmények nyilvántartásának és a közjóléti fejlesztési tervek készítésének részletes szabályait;
 - 24. a földalatti gombák gyűjtésére vonatkozó részletes szabályokat;
 - 25. az erdőgazdálkodói tevékenység nyilvánossága biztosításának részletes szabályait;
-- 26. az erdészeti szakszemélyzet és jogosult erdészeti szakszemélyzet, valamint az erdővédelmi szolgálat tagjának szolgálati igazolványára és szolgálati jelvényére vonatkozó szabályokat;
+- 26. az erdészeti szakszemélyzet és jogosult erdészeti szakszemélyzet szolgálati igazolványára és szolgálati jelvényére vonatkozó szabályokat;
 - 27. az elektronikus úton az erdészeti hatóság felé teljesítendő kérelem, bejelentési, valamint adatszolgáltatási kötelezettség eseteit, az erdészeti hatósággal való elektronikus kapcsolattartás feltételeit, valamint az elektronikus kapcsolattartással kapcsolatos részletes szabályokat.
 
 (3) Felhatalmazást kap a miniszter, hogy – védett természeti területen lévő erdő vonatkozásában a természetvédelemért felelős miniszterrel egyetértésben – rendeletben állapítsa meg:
@@ -1903,7 +1908,10 @@ vonatkozó adat igénylésére.
 
 (16) Az erdészeti hatóság (15) bekezdés szerinti eljárásához szükséges adatokat valamennyi hatóság, valamint állami és önkormányzati szervezet köteles az erdészeti hatóság rendelkezésére bocsátani.
 
-(17) Ha az e törvény hatálybalépése előtt jóváhagyott körzeti erdőterv lejártakor az e törvény szerinti körzeti erdőterv alapján kiadott erdőterv nem áll rendelkezésre, az e törvény szerinti körzeti erdőterv alapján kiadott erdőterv jogerőre emelkedéséig az erdőgazdálkodó jogait és kötelezettségeit az erdészeti hatóság erdőtervben az erdőgazdálkodó kérelmére állapítja meg.
+(17) Ha az e törvény hatálybalépése előtt jóváhagyott körzeti erdőterv lejártáig az e törvény szerinti erdőterv nem kerül kiadásra, akkor az új erdőterv jogerőre emelkedéséig
+
+- a) a korábbi erdőterv érvényessége fennmarad, vagy
+- b) ha az erdőgazdálkodó nem rendelkezett erdőtervvel, az erdőgazdálkodó jogait és kötelezettségeit az erdészeti hatóság az erdőgazdálkodó kérelmére erdőtervben állapítja meg.
 
 114. § Az a természetes személy vagy gazdálkodó szervezet, aki vagy amely a faanyag kereskedelmi lánchoz tartozó tevékenységek valamelyikét Magyarország területén 2015. július 1-ig megkezdte, a 90/F. § (1) bekezdésében meghatározott bejelentési kötelezettséget 2016. február 15-ig köteles teljesíteni.
 
@@ -1912,8 +1920,9 @@ vonatkozó adat igénylésére.
 115. § Ez a törvény a végrehajtására kiadott jogszabályokkal együtt
 
 - a) a fát és fatermékeket piaci forgalomba bocsátó piaci szereplők kötelezettségeinek meghatározásáról szóló, 2010. október 20-i 995/2010/EU európai parlamenti és tanácsi rendelet,
-- b) a fát és fatermékeket piaci forgalomba bocsátó piaci szereplők kötelezettségeinek meghatározásáról szóló, 995/2010/EU európai parlamenti és tanácsi rendeletben foglalt ellenőrző szervezetek elismerésére és az elismerés visszavonására vonatkozó eljárási szabályokról szóló, 363/2012/EU felhatalmazáson alapuló bizottsági rendelet, valamint
-- c) a fát és fatermékeket piaci forgalomba bocsátó piaci szereplők kötelezettségeinek meghatározásáról szóló 995/2010 európai parlamenti és tanácsi rendelet által előírt, a kellő gondosság elvén alapuló rendszerre, valamint az ellenőrző szervezetek felett végzendő ellenőrzések gyakoriságára és jellegére vonatkozó részletes szabályokról szóló, 607/2012/EU felhatalmazáson alapuló bizottság rendelet
+- b) a fát és fatermékeket piaci forgalomba bocsátó piaci szereplők kötelezettségeinek meghatározásáról szóló, 995/2010/EU európai parlamenti és tanácsi rendeletben foglalt ellenőrző szervezetek elismerésére és az elismerés visszavonására vonatkozó eljárási szabályokról szóló, 363/2012/EU felhatalmazáson alapuló bizottsági rendelet
+- c) a fát és fatermékeket piaci forgalomba bocsátó piaci szereplők kötelezettségeinek meghatározásáról szóló 995/2010 európai parlamenti és tanácsi rendelet által előírt, a kellő gondosság elvén alapuló rendszerre, valamint az ellenőrző szervezetek felett végzendő ellenőrzések gyakoriságára és jellegére vonatkozó részletes szabályokról szóló, 607/2012/EU felhatalmazáson alapuló bizottsági rendelet, valamint
+- d) az idegenhonos inváziós fajok betelepítésének vagy behurcolásának és terjedésének megelőzéséről és kezelésről szóló, 2014. október 22-i, 1143/2014/EU európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 

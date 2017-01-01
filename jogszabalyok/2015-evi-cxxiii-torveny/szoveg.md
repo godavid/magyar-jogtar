@@ -82,7 +82,9 @@ Az Országgyűlés felismerve, hogy az egészségügyi alapellátás az egészs�
 
 (2) A házi gyermekorvos az (1) bekezdésben meghatározott ellátást a 19. életévét be nem töltött személyek számára biztosítja. A házi gyermekorvosi ellátást a 14–19. év közötti személyek esetében – erre irányuló választás alapján – háziorvos is nyújthatja.
 
-(3) A háziorvos, házi gyermekorvos a gyermekvédelmi jelzőrendszer részeként jelzi a gyermek veszélyeztetettségét a gyermekjóléti szolgálatnak, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben meghatározott esetekben hatósági eljárást kezdeményez.
+(2a) A korlátozottan cselekvőképes vagy cselekvőképtelen kiskorú törvényes képviselője a gyermek egészséges fejlődése érdekében köteles a háziorvossal, házi gyermekorvossal együttműködni, és a háziorvos, házi gyermekorvos által meghatározott időpontokban végzett szűrővizsgálatok, státuszvizsgálatok és kontrollvizsgálatok elvégzéséhez a korlátozottan cselekvőképes vagy cselekvőképtelen kiskorú jelenlétét biztosítani. Ha a törvényes képviselő e kötelezettségének nem tesz eleget, a háziorvos, házi gyermekorvos kezdeményezésére az egészségügyi államigazgatási szerv a vizsgálatot határozattal elrendeli. Az egészségügyi államigazgatási szerv a határozatot megküldi a család- és gyermekjóléti központnak, valamint a gyámhatóságnak.
+
+(3) A háziorvos, házi gyermekorvos a gyermekvédelmi jelzőrendszer részeként jelzi a gyermek veszélyeztetettségét a család- és gyermekjóléti szolgálatnak, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvényben (a továbbiakban: Gyvt.) meghatározott esetekben hatósági eljárást kezdeményez. Ennek során a háziorvos, házi gyermekorvos a Gyvt. 11. § (1a) bekezdésében és 17. § (2)–(3a) bekezdésében foglaltak alkalmazásával jár el.
 
 (4) A háziorvos, illetve házi gyermekorvos választásának jogát a cselekvőképes személy személyesen, a korlátozottan cselekvőképes vagy cselekvőképtelen kiskorú, valamint a cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen vagy cselekvőképességében teljesen korlátozott nagykorú személy törvényes képviselője útján gyakorolja. A háziorvos, illetve házi gyermekorvos választására vonatkozó részletes szabályokat az egészségügyért felelős miniszter (a továbbiakban: miniszter) rendeletben határozza meg.
 
@@ -127,8 +129,8 @@ Az Országgyűlés felismerve, hogy az egészségügyi alapellátás az egészs�
 - e) az óvodában a védőnői feladatok végzése, az oktatási intézményben a tanulók ellátása,
 - f) az oktatási intézménybe nem járó otthon gondozott tanköteles korú gyermek gondozása,
 - g) családgondozás,
-- h) a gyermek családban való nevelkedésének elősegítése, együttműködés a háziorvossal, házi gyermekorvossal, a gyermekjóléti szolgálattal a gyermek veszélyeztetettségének megelőzése és megszüntetése érdekében,
-- i) a gyermekvédelmi jelzőrendszer részeként a gyermek veszélyeztetettségének jelzése a háziorvosnak, házi gyermekorvosnak, a gyermekjóléti szolgálatnak, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben meghatározott esetekben hatósági eljárás kezdeményezése,
+- h) a gyermek családban való nevelkedésének elősegítése, együttműködés a háziorvossal, házi gyermekorvossal, a család- és gyermekjóléti szolgálattal, a család- és gyermekjóléti központtal a gyermek veszélyeztetettségének megelőzése és megszüntetése érdekében,
+- i) a gyermekvédelmi jelzőrendszer részeként a gyermek veszélyeztetettségének jelzése a háziorvosnak, házi gyermekorvosnak, a család- és gyermekjóléti szolgálatnak, valamint a Gyvt.-ben meghatározott esetekben hatósági eljárás kezdeményezése, amelynek során a Gyvt. 11. § (1a) bekezdésében és 17. § (2)–(3a) bekezdésében foglaltak alkalmazásával kell eljárni,
 - j) az egyéni és közösségi egészségfejlesztési, egészségvédelmi programok tervezésében, szervezésében és megvalósításában részvétel.
 
 (4) A védőnői ellátás a megelőző ellátások körében:
@@ -139,6 +141,8 @@ Az Országgyűlés felismerve, hogy az egészségügyi alapellátás az egészs�
 - d) együttműködik a szociális, köznevelési, család- és ifjúságügyi, felzárkózási, civil- és egyházi, a kulturális és további érintett ágazatokkal.
 
 (5) A várandós és gyermekágyas anya, a korlátozottan cselekvőképes vagy cselekvőképtelen kiskorú gondozója és törvényes képviselője a gyermek egészséges fejlődése érdekében köteles a védőnővel a (3) és (4) bekezdésben meghatározott feladatai ellátása során együttműködni.
+
+(5a) Ha a korlátozottan cselekvőképes vagy cselekvőképtelen kiskorú törvényes képviselője nem gondoskodik a kiskorúnak a kötelező egészségbiztosítás keretében igénybe vehető betegségek megelőzését és korai felismerését szolgáló egészségügyi szolgáltatásokról és a szűrővizsgálatok igazolásáról szóló jogszabály szerint a védőnő feladatkörébe tartozó szűrővizsgálaton való megjelenéséről, valamint a védőnő feladatkörébe tartozó szolgáltatások igénybevételéről, a védőnő kezdeményezésére az egészségügyi államigazgatási szerv határozattal intézkedik. Az egészségügyi államigazgatási szerv a határozatot megküldi a család- és gyermekjóléti központnak, valamint a gyámhatóságnak.
 
 (6) A védőnői ellátás részletes szakmai szabályait a miniszter rendeletben határozza meg.
 
@@ -158,7 +162,7 @@ Az Országgyűlés felismerve, hogy az egészségügyi alapellátás az egészs�
 - f) az egészségügyi, szociális, mentális problémákkal élő, hátrányos helyzetű tanulók kiemelt gondozása, megfelelő iskolai körülmények, életvitel kialakításában történő segítségnyújtás, pályaválasztásuk segítése,
 - g) a tanulók szakmai alkalmasságának orvosi, védőnői vizsgálata,
 - h) a fertőző betegségek megelőzésével kapcsolatos feladatok, az iskolai életkorhoz kötött és önkéntesen igénybe vehető kampányoltások elvégzése,
-- i) együttműködés a köznevelés szereplőivel, szülőkkel, az alapellátás más szereplőivel, gyermekjóléti szolgálattal a gyermekek egészséges fejlődésének biztosítása érdekében.
+- i) együttműködés a köznevelés szereplőivel, szülőkkel, az alapellátás más szereplőivel, család- és gyermekjóléti szolgálattal, a család- és gyermekjóléti központtal a gyermekek egészséges fejlődésének biztosítása érdekében.
 
 (3) Az iskola-egészségügyi ellátás megszervezése során gondoskodni kell arról, hogy álljon rendelkezésre a vizsgálatok elvégzésére alkalmas, miniszteri rendeletben meghatározott feltételekkel rendelkező helyiség.
 
@@ -211,7 +215,13 @@ rendeletben állapítsa meg.
 
 (3) A 20. § 2017. január 1-jén lép hatályba.
 
-20. §
+20. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) 20. § (3a) bekezdése a következő f) ponttal egészül ki:
+
+[A (3) bekezdés alapján meghatározott időponttól eltérni]
+
+„f) a szűréssel érintett, abból eredő ellátások esetében az állam által szervezett, nem kötelező szűrővizsgálaton való részvételnek a szűrővizsgálatot végző egészségügyi szolgáltató általi írásbeli igazolása alapján”
+
+(lehet. Az eltérés lehetőségének feltételeit és szabályait az egészségbiztosításért felelős miniszter rendeletben határozza meg.)
 
 21–25. §
 

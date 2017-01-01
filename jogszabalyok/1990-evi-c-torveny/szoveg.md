@@ -42,7 +42,7 @@ Az Országgyűlés a helyi adóztatás kiemelkedő jelentőségét mérlegelve a
 
 (2) Adómentes valamennyi helyi adó alól – a (3) bekezdésben foglaltakra figyelemmel – az egyesület, az alapítvány, a közszolgáltató szervezet, a köztestület, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár és – kizárólag a helyi iparűzési adó vonatkozásában – a közhasznú szervezetnek minősülő nonprofit gazdasági társaság.
 
-(3) A (2) bekezdés szerinti mentesség abban az adóévben illeti meg az adóalanyt, amelyet megelőző adóévben folytatott vállalkozási tevékenységéből származó jövedelme (nyeresége) után sem bel-, sem külföldön adófizetési kötelezettsége nem keletkezett. Az építmény- és telekadóban a (2) bekezdés szerinti mentesség – az ott felsorolt adóalanyok számára – csak az alapító okiratban, alapszabályban meghatározott alaptevékenység kifejtésére szolgáló épület és telek után jár. A feltételek meglétéről az adóalany írásban köteles nyilatkozni az adóhatóságnak.
+(3) A (2) bekezdés szerinti mentesség abban az adóévben illeti meg az adóalanyt, amelyet megelőző adóévben folytatott tevékenységéből származó jövedelme (nyeresége) után sem bel-, sem külföldön adófizetési kötelezettsége nem keletkezett. Az építmény- és telekadóban a (2) bekezdés szerinti mentesség azon épület, épületrész, telek után jár, amelyet az ingatlan-nyilvántartásban tulajdonosként – a vasúti pályahálózatot üzemeltető közszolgáltató szervezet esetén tulajdonosként, vagyoni értékű jog jogosítottjaként – bejegyzett adóalany kizárólag a létesítő okiratában meghatározott alaptevékenysége, főtevékenysége kifejtésére használ. A feltételek meglétéről az adóalany – az adóév ötödik hónapjának utolsó napjáig – írásban köteles nyilatkozni az adóhatóságnak. A nyilatkozat adóbevallásnak minősül.
 
 (4) Az (1)–(3) bekezdésben meghatározottak szerint adóalany a külföldi magánszemély és szervezet is feltéve, hogy adómentességét nemzetközi szerződés vagy viszonosság nem biztosítja. A viszonosság kérdésében az adópolitikáért felelős miniszter állásfoglalása az irányadó.
 
@@ -59,35 +59,27 @@ Az Országgyűlés a helyi adóztatás kiemelkedő jelentőségét mérlegelve a
 
 személyi állományába tartozó vagy alkalmazásában álló nem magyar állampolgárságú, katonai szolgálatban lévő és polgári állományú személyek.
 
-4. § Az adókötelezettség az önkormányzat illetékességi területén a következőkre terjed ki:
+#### 4. §
 
-- a) az ingatlantulajdonra, ingatlanhoz kapcsolódó vagyoni értékű jogra,
-- b)
-- c) nem állandó lakosként való tartózkodásra és
-- d) az e törvényben meghatározott gazdasági tevékenység gyakorlására (a továbbiakban együtt: adótárgy).
-
-5. § Az önkormányzat rendeletével:
-
-- a) vagyoni típusú adók,
-- b) kommunális jellegű adók, továbbá
-- c) helyi iparűzési adó bevezetésére jogosult.
+#### 5. §
 
 6. § Az önkormányzat adómegállapítási joga arra terjed ki, hogy:
 
-- a) az 5. §-ban meghatározott adókat vagy ezek valamelyikét bevezesse, a már bevezetett adót hatályon kívül helyezze, illetőleg módosítsa, azonban az évközi módosítás naptári éven belül nem súlyosbíthatja az adóalanyok adóterheit,
+- a) a MÁSODIK RÉSZBEN meghatározott adókat vagy azok valamelyikét bevezesse, a már bevezetett adót hatályon kívül helyezze, illetőleg módosítsa, azonban az évközi módosítás naptári éven belül nem súlyosbíthatja az adóalanyok adóterheit,
 - b) az adó bevezetésének időpontját és időtartamát (határozott vagy határozatlan időre) meghatározza,
-- c) az adó mértékét a helyi sajátosságokhoz, az önkormányzat gazdálkodási követelményeihez és az adóalanyok teherviselő képességéhez igazodóan – az e törvényben meghatározott felső határokra, illetőleg a 16. § a) pontjában, a 22. § a) pontjában, a 26. §-ában, a 33. §-ának a) pontjában meghatározott felső határoknak 2005. évre a KSH által 2003. évre vonatkozóan közzétett fogyasztói árszínvonal-változással, 2006. évtől pedig a 2003. évre és az adóévet megelőző második évig eltelt évek fogyasztói árszínvonal változásai szorzatával növelt összegére (a felső határ és a felső határ növelt összege együtt: adómaximum) figyelemmel – megállapítsa,
+- c) az adó mértékét – az e törvényben meghatározott felső határokra, illetőleg a 16. § a) pontjában, a 22. § a) pontjában, a 26. §-ában, a 33. §-ának a) pontjában meghatározott felső határoknak 2005. évre a KSH által 2003. évre vonatkozóan közzétett fogyasztói árszínvonal-változással, 2006. évtől pedig a 2003. évre és az adóévet megelőző második évig eltelt évek fogyasztói árszínvonal változásai szorzatával növelt összegére (a felső határ és a felső határ növelt összege együtt: adómaximum) figyelemmel – megállapítsa,
 - d) az e törvény második részében meghatározott mentességeket, kedvezményeket további mentességekkel, kedvezményekkel, így különösen a lakások esetében a lakásban lakóhellyel rendelkező eltartottak számától, a lakáson fennálló, hitelintézet által lakásvásárlásra, lakásépítésre nyújtott hitel biztosítékául szolgáló jelzálogjog fennállásától, a lakásban lakóhellyel rendelkezők jövedelmétől függő mentességekkel, kedvezményekkel kibővítse,
 - e) e törvény és az adózás rendjéről szóló törvény keretei között az adózás részletes szabályait meghatározza.
 
 7. § Az önkormányzat adómegállapítási jogát korlátozza az, hogy:
 
-- a) az adóalanyt egy meghatározott adótárgy esetében (4. §) csak egyféle — az önkormányzat döntése szerinti — adó (5. §) fizetésére kötelezheti,
+- a) az adóalanyt egy meghatározott adótárgy esetében csak egyféle — az önkormányzat döntése szerinti — adó fizetésére kötelezheti,
 - b) a vagyoni típusú adók körében az adót egységesen – tételes összegben vagy a korrigált forgalmi érték alapulvételével – határozhatja meg,
 - c) az általa bevezetett adó mértékeként nem állapíthat meg többet az adómaximumnál,
 - d) ha az adót az 1. § (3) bekezdése alapján a fővárosi önkormányzat vezeti be, akkor az a kerületi önkormányzat, amely az adó fővárosi önkormányzat általi bevezetésébe beleegyezett, az adót az adóévben nem működtetheti,
 - e) a vállalkozó (52. § 26. pont) üzleti célt szolgáló épülete, épületrésze utáni építményadó, telke utáni telekadó és a helyi iparűzési adó megállapítása során – ha e törvény eltérően nem rendelkezik – a 6. § d) pontja nem alkalmazható. A helyi iparűzési adó esetén egy adómérték alkalmazható,
-- f) a korrigált forgalmi érték alapú építményadóban a lakás, illetve az egyéb építmény esetén egy-egy, a korrigált forgalmi érték alapú telekadóban a lakáshoz tartozó telek, illetve az egyéb telek esetén egy-egy adómérték alkalmazható.
+- f) a korrigált forgalmi érték alapú építményadóban a lakás, illetve az egyéb építmény esetén egy-egy, a korrigált forgalmi érték alapú telekadóban a lakáshoz tartozó telek, illetve az egyéb telek esetén egy-egy adómérték alkalmazható,
+- g) az adóalap fajtáját, az adó mértékét, a rendeleti adómentességet és adókedvezményt úgy állapíthatja meg, hogy azok összességükben egyaránt megfeleljenek a helyi sajátosságoknak, az önkormányzat gazdálkodási követelményeinek és az adóalanyok széles körét érintően az adóalanyok teherviselő képességének.
 
 8. § (1)
 
@@ -131,7 +123,12 @@ Az egyes adók az általános rendelkezések (első rész) figyelembevételével
 
 - a) a szükséglakás,
 - b) a kizárólag az önálló orvosi tevékenységről szóló törvény szerinti háziorvos által nyújtott egészségügyi ellátás céljára szolgáló helyiség
-- c)
+- c) az atomenergiáról szóló törvény szerint kizárólag
+  - ca) a radioaktív hulladék elhelyezésére,
+  - cb) a kiégett nukleáris üzemanyag tárolására
+
+használt építmény,
+
 - d)
 - e)
 - f)
@@ -158,7 +155,7 @@ adómentesség
 
 ### Az adókötelezettség keletkezése, változása és megszűnése
 
-14. § (1) Az adókötelezettség a használatbavételi, illetőleg a fennmaradási engedély jogerőre emelkedését vagy a használatbavétel tudomásulvételét követő év első napján keletkezik. Az engedély nélkül épült vagy anélkül használatba vett építmény esetén az adókötelezettség a tényleges használatbavételt követő év első napján keletkezik.
+14. § (1) Az adókötelezettség a használatbavételi, illetőleg a fennmaradási engedély jogerőre emelkedését vagy a használatbavétel tudomásulvételét vagy az egyszerű bejelentéshez kötött épület felépítésének megtörténtéről szóló hatósági bizonyítvány kiadását követő év első napján keletkezik. Az engedély nélkül épült vagy anélkül használatba vett építmény esetén az adókötelezettség a tényleges használatbavételt követő év első napján keletkezik.
 
 (2) Az adókötelezettséget érintő változást (így különösen a hasznos alapterület módosulását, az építmény átminősítését) a következő év első napjától kell figyelembe venni.
 
@@ -209,7 +206,7 @@ adómentesség
 19. § Mentes az adó alól:
 
 - a) az épület, épületrész hasznos alapterületével egyező nagyságú telekrész,
-- b) a belterületen fekvő, az ingatlan-nyilvántartásban művelés alól kivett területként nyilvántartott, 1 hektárt meg nem haladó nagyságú földterület, feltéve, ha az adóévben annak teljes területe tényleges mezőgazdasági művelés alatt áll és e tényt a telek fekvése szerint illetékes mezőgazdasági igazgatási szerv az adóévben igazolja, azzal, hogy nem minősül mezőgazdasági művelésnek, ha a földterületen kizárólag a gyomnövények megtelepedésének és terjedésének megakadályozására alkalmas munkát (pl. gyommentesítés, kaszálás) végeznek,
+- b) a mezőgazdasági művelés alatt álló belterületi telek,
 - c) az építési tilalom alatt álló telek adóköteles területének 50 %-a,
 - d) az adóalany termék-előállító üzeméhez tartozó, jogszabályban vagy hatósági előírásban megállapított védő-biztonsági terület (övezet), feltéve, ha az adóalany adóévet megelőző adóévi, évesített nettó árbevétele legalább 50%-ban saját előállítású termék értékesítéséből származik.
 
@@ -318,7 +315,8 @@ Az adófelfüggesztés
 - b) a gyógyintézetben fekvőbeteg szakellátásban részesülő vagy szociális intézményben ellátott magánszemély;
 - c) a közép- és felsőfokú oktatási intézménynél tanulói vagy hallgatói jogviszony alapján, hatóság vagy bíróság intézkedése folytán, a szakképzés keretében, a szolgálati kötelezettség teljesítése, vagy a településen székhellyel, vagy telephellyel rendelkező vagy a Htv. 37. §-ának (2) bekezdése szerinti tevékenységet végző vállalkozó esetén vállalkozási tevékenység vagy ezen vállalkozó munkavállalója által folytatott munkavégzés céljából az önkormányzat illetékességi területén tartózkodó magánszemély, továbbá
 - d) aki az önkormányzat illetékességi területén lévő üdülő tulajdonosa vagy bérlője, továbbá a használati jogosultság időtartamára a lakásszövetkezet tulajdonában álló üdülő használati jogával rendelkező lakásszövetkezeti tag, illetőleg a tulajdonos, a bérlő hozzátartozója, valamint a lakásszövetkezet tulajdonában álló üdülő használati jogával rendelkező lakásszövetkezeti tag használati jogosultságának időtartamára annak a Polgári Törvénykönyv szerinti hozzátartozója;
-- e) az egyházi jogi személy tulajdonában lévő építményben, telken vendégéjszakát – kizárólag az egyházi jogi személy hitéleti tevékenységéhez kapcsolódó részvétel céljából – eltöltő egyházi személy.
+- e) az egyházi jogi személy tulajdonában lévő építményben, telken vendégéjszakát – kizárólag az egyházi jogi személy hitéleti tevékenységéhez kapcsolódó részvétel céljából – eltöltő egyházi személy;
+- f) a honvédelmi vagy rendvédelmi feladatokat ellátó szervek állományába tartozó személy hozzátartozója, ha a vendégéjszakát az állomány tagjának látogatása miatt tölti a szolgálatteljesítés vagy a munkavégzés helye szerinti településen lévő, a honvédelmi vagy rendvédelmi szerv rendelkezése alatt álló, szolgálati érdekből fenntartott szálláshelyen, feltéve, ha a településen való szolgálatteljesítés, munkavégzés időtartama legalább egybefüggő 30 nap.
 
 ### Az adó alapja
 
@@ -414,6 +412,8 @@ vonható le.
 
 (9) Ha a társasági adóról és az osztalékadóról szóló törvény szerinti kapcsolt vállalkozási viszony nem áll fenn az adóév egészében, a (6) bekezdés alkalmazása során csak a kapcsolt vállalkozási viszony fennállásának időtartamára jutó – napi időarányosítással számított – nettó árbevételt és nettó árbevétel-csökkentő költségeket, ráfordításokat kell figyelembe venni.
 
+(10) A (6) bekezdésben foglaltakat akkor kell alkalmazni, ha a kapcsolt vállalkozási viszony 2016. október 1-jét követően, szétválással jött létre.
+
 ### Állandó jellegű iparűzési tevékenység esetén az adó alapjának egyszerűsített meghatározása
 
 39/A. § (1) A 39. § (1) bekezdésétől eltérően
@@ -455,7 +455,7 @@ az adó alapját a (2), illetőleg a (3) bekezdésben foglaltak szerint – figy
 
 (8) Ha a kisadózó vállalkozás a (3) bekezdés szerinti adóalap-megállapítást adóév közben választja, akkor az adóév első napjától a kisadózó vállalkozások tételes adójában fennálló adóalanyisága kezdő napját megelőző napig terjedő adóköteles időtartamról adóbevallást nyújt be az önkormányzati adóhatósághoz.
 
-(9) A (3) bekezdés szerinti adóalap-megállapítás választását a vállalkozó – az önkormányzati adóhatóság által rendszeresített – bejelentkezési, bejelentési, bevallási nyomtatványon, a kisadózó vállalkozások tételes adójának hatálya alá tartozás kezdő napjától számított 45 napon belül vagy február 15-ig jelenti be az önkormányzati adóhatóság számára. A vállalkozó e döntése a teljes adóévre vonatkozik, s utoljára abban az adóévben érvényes, amelyben bejelenti, hogy az adó alapját nem a (3) bekezdésben foglaltak szerint kívánja megállapítani. A bejelentkezési, bejelentési, bevallási nyomtatvány végrehajtható okiratnak minősül.
+(9) A (3) bekezdés szerinti adóalap-megállapítás választását a vállalkozó – az önkormányzati adóhatóság által rendszeresített – bejelentkezési, bejelentési, bevallási nyomtatványon, a kisadózó vállalkozások tételes adójának hatálya alá tartozás kezdő napjától számított 45 napon belül vagy február 15-ig jelenti be az önkormányzati adóhatóság számára. A vállalkozó e döntése a teljes adóévre vonatkozik és az adóév február 15-ig jelentheti be, hogy az adó alapját nem a (3) bekezdésben foglaltak szerint kívánja megállapítani. A bejelentkezési, bejelentési, bevallási nyomtatvány végrehajtható okiratnak minősül.
 
 (10) Az adó alapjának az (1)–(2) bekezdés szerinti megállapítása adóévre választható, az erről szóló bejelentést a 39/A. § (5) bekezdése szerint kell megtenni.
 
@@ -483,15 +483,15 @@ az adó alapját a (2), illetőleg a (3) bekezdésben foglaltak szerint – figy
 
 (4) Az (1)–(3) bekezdésben foglaltaktól eltérően az önkormányzat rendeletében jogosult a háziorvos, védőnő vállalkozó számára mentességet, kedvezményt megállapítani, feltéve, ha annak vállalkozási szintű iparűzési adóalapja az adóévben a 20 millió forintot nem haladja meg. Az adómentességnek, adókedvezménynek valamennyi háziorvos, védőnő vállalkozó számára azonosnak kell lennie.
 
-(5) Az (1)–(4) bekezdés szerinti mentesség, kedvezmény csekély összegű (de minimis) támogatásnak minősül, amely az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 1407/2013/EU bizottsági rendelet szabályaival összhangban nyújtható.
+(5)
 
 ### A foglalkoztatás növeléséhez kapcsolódó adóalap-mentesség
 
-39/D. § (1) A 39. § (1) bekezdés szerinti adóalap csökkenthető az adóévi működés hónapjai alapján számított adóévi átlagos statisztikai állományi létszámnak az előző adóévi működés hónapjai alapján az előző adóévre számított átlagos statisztikai állományi létszámhoz képest bekövetkezett – főben kifejezett – növekménye után 1 millió forint/fő összeggel.
+39/D. § (1) Az állandó jellegű iparűzési tevékenység utáni adóalap csökkenthető az adóévi működés hónapjai alapján számított adóévi átlagos statisztikai állományi létszámnak az előző adóévi működés hónapjai alapján az előző adóévre számított átlagos statisztikai állományi létszámhoz képest bekövetkezett – főben kifejezett – növekménye után 1 millió forint/fő összeggel.
 
 (2) Nem vehető igénybe az adóalap-mentesség azon létszámbővítéshez, amely állami támogatás igénybevételével jött létre. E bekezdés alkalmazásában állami támogatás a Nemzeti Foglalkoztatási Alapból folyósított olyan támogatás, amelynek feltétele új munkahely létesítése.
 
-(3) Az átlagos statisztikai állományi létszámot a Központi Statisztikai Hivatal Útmutató a munkaügy-statisztikai adatszolgáltatáshoz c. kiadvány 2009. január 1. napján érvényes szabályai szerint kell – két tizedesjegy pontossággal – számítani. Az adóévi átlagos statisztikai állományi létszám számítása során figyelmen kívül kell hagyni azt, aki egyébként a statisztikai állományi létszámba tartozik, ám állományba kerülését közvetlenül megelőzően a vállalkozóval a társasági adóról és az osztalékadóról szóló törvény szerinti kapcsolt vállalkozásnak minősülő vállalkozásnál tartozott az átlagos statisztikai állományi létszámba.
+(3) Az átlagos statisztikai állományi létszámot a Központi Statisztikai Hivatal Útmutató a munkaügy-statisztikai adatszolgáltatáshoz c. kiadvány 2015. január 1-jén érvényes szabályai szerint kell – két tizedesjegy pontossággal – számítani. Az adóévi átlagos statisztikai állományi létszám számítása során figyelmen kívül kell hagyni azt, aki egyébként a statisztikai állományi létszámba tartozik, ám állományba kerülését közvetlenül megelőzően a vállalkozóval a társasági adóról és az osztalékadóról szóló törvény szerinti kapcsolt vállalkozásnak minősülő vállalkozásnál tartozott az átlagos statisztikai állományi létszámba.
 
 (4) Az adóévben jogelőd nélkül alakult vállalkozó – magánszemély vállalkozónál vállalkozónak az adóévet megelőző két adóév egyikében sem minősülő vállalkozó – esetén az előző adóévi statisztikai állományi létszámnak nulla főt kell tekinteni. Az adóévben átalakulással, egyesüléssel, szétválással létrejött vállalkozó esetén az adóévet megelőző adóév statisztikai állományi létszámának a jogelőd vállalkozó statisztikai állományi létszámát kell tekinteni. Az adóévben szétválással (különválás, kiválás) létrejött vállalkozók esetén az adóévet megelőző adóév számított statisztikai állományi létszámának a jogelőd vállalkozó statisztikai állományi létszámának olyan arányával számított összegét kell tekinteni, amilyen arányt a szétválással létrejött vállalkozók végleges vagyonmérlegeiben külön-külön feltüntetett vagyonérték képvisel a szétválással létrejött vállalkozók végleges vagyonmérlegeiben szereplő együttes vagyonértékben. Az adóévben egyesüléssel (összeolvadás, beolvadás) létrejött vállalkozó esetén az adóévet megelőző év statisztikai állományi létszámának az egyesülés előtt meglévő jogelőd vállalkozók együttes statisztikai állományi létszámát kell tekinteni.
 
@@ -540,54 +540,59 @@ az adó alapját a (2), illetőleg a (3) bekezdésben foglaltak szerint – figy
 
 ### Az éves beszámolóját az IFRS-ek szerint elkészítő vállalkozóra vonatkozó sajátos rendelkezések
 
-40/B. § Az éves beszámolóját az IFRS-ek szerint készítő vállalkozó e törvény szabályait a nettó árbevétel, az eladott áruk beszerzési értéke, az anyagköltség, a közvetített szolgáltatások értéke, alvállalkozói teljesítések értéke megállapítása során a 40/C–40/J. §-okban, az iparűzési adókötelezettség teljesítése során a 40/K–40/M. §-okban foglalt eltéréssel alkalmazza.
+40/B. § (1) Az éves beszámolóját az IFRS-ek szerint készítő vállalkozó e törvény szabályait a nettó árbevétel, az eladott áruk beszerzési értéke, az anyagköltség, a közvetített szolgáltatások értéke és az alvállalkozói teljesítések értéke megállapítása során a 40/C–40/I. §-okban, az iparűzési adókötelezettség teljesítése során a 40/J–40/M. §-okban foglalt eltéréssel alkalmazza, függetlenül attól, hogy a nettó árbevétel, az eladott áruk beszerzési értéke, az anyagköltség, a közvetített szolgáltatások értéke, az alvállalkozói teljesítések értéke folytatódó vagy megszűnt tevékenységből származik.
+
+(2) Ha a vállalkozó az IFRS 11 Közös megállapodások című standard hatálya alá eső közös megállapodás alapján végzett tevékenységének elszámolása eltér a számvitelről szóló törvény szerinti elszámolástól, akkor az e tevékenységre vonatkozó nettó árbevételt, eladott áruk beszerzési értékét, anyagköltséget, közvetített szolgáltatások értékét, alvállalkozói teljesítések értékét úgy határozza meg, mintha ennek a tevékenységnek a teljesítményét a számvitelről szóló törvény szerint számolta volna el.
 
 40/C. § (1) Az 52. § 22. pontjának a) alpontjától eltérően – a hitelintézetnek, pénzügyi vállalkozásnak, biztosítónak, befektetési vállalkozónak nem minősülő vállalkozó esetén – a nettó árbevétel a (2)–(4) bekezdésben felsorolt tételekkel korrigált
 
 - a) az IAS 18 Bevételek című standard 1. bekezdésének a) pontja szerinti áru értékesítése,
 - b) az IAS 18 Bevételek című standard 1. bekezdésének b) pontja szerinti szolgáltatás nyújtása,
 - c) az IAS 18 Bevételek című standard 1. bekezdésének c) pontja szerinti jogdíjra való jogosultság,
-- d) az IAS 11 Beruházási szerződések című standard szerinti beruházási szerződés alapján történő szolgáltatás nyújtása miatt az üzleti évben az IAS 18 Bevételek című standard alapján elszámolt és a más standardok által az IAS 18 Bevételek című standard szerint bevételként (árbevételként) elszámolni rendelt bevétel (árbevétel), függetlenül attól, hogy a bevétel (árbevétel) folytatódó vagy megszűnt tevékenységből származik (a továbbiakban együttesen: bevétel).
+- d) az IAS 11 Beruházási szerződések című standard szerinti beruházási szerződés alapján történő szolgáltatás nyújtása miatt az üzleti évben az IAS 18 Bevételek című standard alapján elszámolt és a más standardok által az IAS 18 Bevételek című standard szerint bevételként (árbevételként) elszámolni rendelt bevétel (árbevétel) (a továbbiakban együttesen: bevétel).
 
 (2) Az (1) bekezdés szerinti bevételt növelni kell:
 
 - a) az IAS 18 Bevételek című standard 12. bekezdése szerint bevételt nem eredményező csere esetén az elcserélt áru vagy szolgáltatás számlázott értékével, ennek hiányában valós értékével,
-- b) a nem számlázott, utólag adott, az IAS 18 Bevételek című standard alkalmazásával az (1) bekezdés szerint bevételként figyelembe nem vett engedmény összegével,
+- b) a számvitelről szóló törvény szerinti – nem számlázott – utólag adott (fizetendő) szerződés szerinti engedmény összegével,
 - c) az IAS 18 Bevételek című standard 11. bekezdése alapján elszámolt kamatbevétellel,
 - d) az IAS 11 Beruházási szerződések című standard 12. bekezdésének c) pontja alapján bevételként figyelembe nem vett kötbér összegével,
 - e) az 52. § 40. pontja szerinti közvetített szolgáltatásnak megfelelő ügylet esetén a közvetített szolgáltatás, valamint az adóalany által saját nevében, de megbízója javára kötött adásvételi szerződéssel értékesített termék (ingó, ingatlan) számvitelről szóló törvény szerint megállapított bekerülési értékének megfelelő összeggel,
-- f) az (1) bekezdés a)–d) pontban említett ügylettel összefüggő fedezeti ügylet esetén azzal az összeggel, amellyel az (1) bekezdés a)–d) pontban említett ügyletről kiállított bizonylaton (számlán) szereplő értéket az IFRS-ek szerint a bevételt (árbevételt) – annak elszámolásakor – csökkenteni kell,
+- f) az (1) bekezdés szerinti ügylettel összefüggő fedezeti ügylet esetén azzal az összeggel, amellyel az (1) bekezdés szerinti ügyletről kiállított bizonylaton (számlán) szereplő értéket az IFRS-ek szerint a bevételt (árbevételt) – annak elszámolásakor – csökkenteni kell,
 - g) az IAS 17 Lízingek című standard szerinti pénzügyi lízingnek megfelelő szerződés esetén a lízingfutamidő kezdetének adóévében a lízingbe (visszlízingbe) adónál a lízingfutamidő kezdetekor megjelenített követelés kezdeti közvetlen költségeket nem tartalmazó értékével,
-- h) az olyan termékértékesítésből és szolgáltatásnyújtásból származó összeggel, mely kizárólag amiatt nem minősül az (1) bekezdés szerinti bevételnek, mert nem a szokásos tevékenység keretében keletkezett,
+- h) a nem a szokásos tevékenység keretében keletkezett áruértékesítésből, szolgáltatásnyújtásból származó bevétellel,
 - i) az általános forgalmi adóról szóló törvény szerinti üzletág átruházásakor az üzletág átruházásáért kapott, az átadott eszközök – az átadott kötelezettségek értékével csökkentett – piaci értékét meghaladó ellenértékét,
 - j) az IAS 17 Lízingek című standard szerinti operatív lízingnek megfelelő szerződés esetén a lízingbe (visszlízingbe) adónál az IAS 17 Lízingek című standard 50. bekezdése szerint árbevételként elszámolt összeggel,
-- k) azzal az (1) bekezdés a)–d) pontja vagy az a), e) és g)–j) pont szerinti ügyletről kiállított bizonylaton (számlán) feltüntetett – általános forgalmi adó nélküli – összeggel (vevőtől várt ellenszolgáltatással), amelyet a vállalkozó az adóévben vagy azt követően az IFRS-ek szerint bevételként (árbevételként) vagy az a)–j) pontok szerinti adóalap-növelő tételként nem számolhat el,
+- k) az ásványi ércek kitermeléséből származó bevétellel,
+- l) az IFRS 4. Biztosítási szerződések című standard szerinti biztosítóként a biztosítási szerződésből kapott bevétellel,
+- m) azzal az (1) bekezdés vagy az a), e) és g)–l) pont szerinti ügyletről kiállított bizonylaton (számlán) feltüntetett – általános forgalmi adó nélküli – összeggel (vevőtől várt ellenszolgáltatással), amelyet a vállalkozó az adóévben vagy azt követően az IFRS-ek szerint bevételként (árbevételként) vagy az a)–l) pontok szerinti bevételnövelő tételként nem számolhat el,
 
 feltéve, ha azt a vállalkozó az (1) bekezdés szerinti bevételként nem vette figyelembe.
 
 (3) Az (1) bekezdés szerinti bevételt csökkenteni kell:
 
-- a) a társasági adóról és az osztalékadóról szóló törvény 4. § 20. pontja szerinti jogdíjjal,
+- a) a jogdíjjal,
 - b) a felszolgálási díjjal,
 - c) az adóhatósággal elszámolt jövedéki adó, regisztrációs adó, energiaadó, valamint a népegészségügyi termékadóról szóló törvény szerinti alkoholos ital utáni népegészségügyi termékadó összegével a jövedéki adó, a regisztrációs adó, az energiaadó, a népegészségügyi termékadó alanya esetén,
-- d) a saját használatú ingatlan vagy befektetési célú ingatlan eladásából származó bevétellel,
+- d)
 - e) az (1) bekezdés a)–d) pontja szerinti ügylettel összefüggő fedezeti ügylet esetén azzal az összeggel, amellyel az (1) bekezdés a)–d) pontja szerinti ügyletről kiállított számlán szereplő értéket az IFRS-ek szerint a bevétel (árbevétel) elszámolásakor növelni kell feltéve, ha az az IFRS-ek alkalmazásával az (1) bekezdés szerint bevételnek, vagy a (2) bekezdés szerint bevételt növelő tételnek minősül.
 
-40/D. § (1) Hitelintézet, pénzügyi vállalkozás, befektetési vállalkozás esetén – az 52. § 22. pontjának b) alpontjától eltérően – nettó árbevétel az IAS 18 Bevételek című standard szerint kamatként elszámolt bevétel (2)–(3) bekezdések szerint korrigált összege.
+40/D. § (1) Hitelintézet, pénzügyi vállalkozás, befektetési vállalkozás esetén – az 52. § 22. pontjának b) alpontjától eltérően – nettó árbevétel az IAS 18 Bevételek című standard szerint kamatként elszámolt bevétel (2)–(3) bekezdések szerinti korrigált összege.
 
 (2) Az (1) bekezdés szerinti bevételt növelni kell:
 
-- a) a kamatbevétel csökkentéseként az üzleti évben elszámolt ráfordítások (fizetett, járó díjak, jutalékok) összegével,
+- a) a kamatbevétel csökkentéseként az üzleti évben elszámolt fizetett, fizetendő díjak, jutalékok összegével,
 - b) a nyújtott szolgáltatások után az IAS 18 Bevételek című standard alapján elszámolt bevétellel (kapott, járó díjak, jutalékok összegével),
 - c) az IAS 32 Pénzügyi instrumentumok: bemutatás című standard 11. bekezdése szerinti pénzügyi instrumentum üzleti évben való eladása esetén, az elért nyereséggel, nyereségjellegű különbözettel,
 - d) az IAS 17 Lízingek című standard szerinti pénzügyi lízingnek megfelelő szerződés esetén a lízingfutamidő kezdetének adóévében a lízingbe (visszlízingbe) adónál a lízingfutamidő kezdetekor megjelenített követelés kezdeti közvetlen költségeket nem tartalmazó értékével,
 - e) az IAS 17 Lízingek című standard szerinti operatív lízingnek megfelelő szerződés esetén a lízingbe (visszlízingbe) adónál az (1) bekezdésben foglaltak alapján figyelembe nem vett, az IAS 17 Lízingek című standard 50. bekezdése szerint árbevételként elszámolt összeggel,
-- f) nem szokásos tevékenység folytatása során elszámolt bevétellel, egyéb bevétellel.
+- f) a nem a szokásos tevékenység keretében keletkezett áruértékesítésből, szolgáltatásnyújtásból származó bevétellel.
 
 (3) Az (1) bekezdés szerinti bevételt csökkenteni kell:
 
 - a) az üzleti évben ráfordításként elszámolt (fizetett, járó) kamattal,
-- b) az IAS 17 Lízingek című standard alapján pénzügyi lízingnek minősülő szerződés alapján a lízingbe adónál kereskedelmi áruként nyilvántartásba nem vett eszköz IAS 2 Készletek című standard alapján megállapított, a pénzügyi lízingbe adáskor meglévő könyv szerinti értékével.
+- b) az IAS 17 Lízingek című standard alapján pénzügyi lízingnek minősülő szerződés alapján a lízingbe adónál kereskedelmi áruként nyilvántartásba nem vett eszköz IAS 2 Készletek című standard alapján megállapított, a pénzügyi lízingbe adáskor meglévő könyv szerinti értékével,
+- c) a saját követelés értékesítéséből keletkezett, az üzleti évben elszámolt nyereség összegével.
 
 40/E. § (1) Biztosító esetén – eltérően az 52. § 22. pontjának c) alpontjától – nettó árbevétel a 40/D. § (1)–(3) bekezdései szerint számított – a (2) és (3) bekezdések szerint korrigált – bevétel.
 
@@ -599,37 +604,54 @@ feltéve, ha azt a vállalkozó az (1) bekezdés szerinti bevételként nem vett
 
 (2) Az (1) bekezdés szerinti könyv szerinti értéket növelni kell:
 
-- a) az IAS 2 Készletek című standard 11. bekezdése alapján a kereskedelmi áru beszerzési költségének meghatározása során figyelembe vett, nem számlázott kereskedelmi engedmények, rabattok és hasonló tételek összegével,
-- b) a 40/C. § (2) bekezdés a) pontjában említett csere esetén a cserébe adott készlet könyv szerinti értékével,
+- a) az IAS 2 Készletek című standard 11. bekezdése alapján a kereskedelmi áru beszerzési költségének meghatározása során figyelembe vett, a számvitelről szóló törvény szerinti – nem számlázott – utólag kapott (járó) engedmény szerződés szerinti összegével,
+- b) a 40/C. § (2) bekezdés a) pontjában említett csere esetén a cserébe kapott készlet csereszerződés szerinti értékével,
 - c) az IAS 17 Lízingek című standard alapján pénzügyi lízingnek minősülő szerződés alapján a lízingbe adónál kereskedelmi áruként nyilvántartásba nem vett eszköz IAS 2 Készletek című standard alapján megállapított, a pénzügyi lízingbe adáskor meglévő könyv szerinti értékével,
-- d) ha a 40/C. § (2) bekezdés e) pontja alkalmazásának van helye, akkor az értékesített termék (ingó, ingatlan) számvitelről szóló törvény szerint megállapítandó bekerülési értékével, továbbá az olyan értékesített áru, telek vagy más ingatlan értékesítéskori könyv szerinti értékével, mely csak azért nem minősül az (1) bekezdés szerinti kereskedelmi árunak, mert nem a szokásos tevékenység keretében értékesítik.
+- d) ha a 40/C. § (2) bekezdés e) pontja alkalmazásának van helye, akkor az értékesített termék (ingó, ingatlan) számvitelről szóló törvény szerint megállapítandó bekerülési értékével,
+- e) az olyan értékesített áru, telek vagy más ingatlan értékesítéskori könyv szerinti értékével, amely csak azért nem minősül az (1) bekezdés szerinti kereskedelmi árunak, mert nem a szokásos tevékenység keretében értékesítik,
+- f) a kereskedelmi áru beszerzésével összefüggő fedezeti ügylet esetén azzal az összeggel, amellyel az IFRS-ek szerint az áru beszerzési értékét csökkenteni kell.
 
-(3) Az (1) bekezdés szerinti könyv szerinti értéket az adóévben csökkenteni kell az adóévet megelőző adóév(ek)ben a (2) bekezdés d) pontja szerint a könyv szerinti érték növeléseként már figyelembe vett összeggel, ha az IFRS-ek alkalmazásából az következik, hogy az az adóévben az (1)–(2) bekezdés szerint a könyv szerinti érték összegét növeli.
+(3) Az (1) bekezdés szerinti könyv szerinti értéket az adóévben csökkenteni kell:
+
+- a) az adóévet megelőző adóév(ek)ben a (2) bekezdés d) pontja szerint a könyv szerinti érték növeléseként már figyelembe vett összeggel, ha az IFRS-ek alkalmazásából az következik, hogy az az adóévben az (1)–(2) bekezdés szerint a könyv szerinti érték összegét növeli,
+- b) a kereskedelmi áru beszerzésével összefüggő fedezeti ügylet esetén azzal az összeggel, amellyel az IFRS-ek szerint az áru beszerzési értékét növelni kell.
 
 40/G. § (1) Az 52. § 37. pontjában foglaltaktól eltérően anyagköltség az 52. § 67. pontja szerinti anyag üzleti évben ráfordításként elszámolt – (2) és (3) bekezdés szerint korrigált – felhasználáskori könyv szerinti értéke.
 
-(2) Az (1) bekezdés szerinti anyagköltség összegét növelni kell az anyag könyv szerinti értékének megállapítása során az IAS 2 Készletek című standard 11. bekezdése alapján figyelembe nem vett, nem számlázott kapott kereskedelmi engedmények, rabattok és hasonló tételek összegével.
+(2) Az (1) bekezdés szerinti anyagköltség összegét növelni kell:
 
-(3) Az (1) bekezdés szerinti anyagköltség összegét csökkenteni kell annak az anyagnak a ráfordításként elszámolt könyv szerinti értékével, amelyet az IAS 2 Készletek című standard 35. bekezdésében említettek szerint saját előállítású ingatlanok, gépek, berendezések alkotórészeként használtak fel és amelynek könyv szerinti értékét a saját előállítású ingatlanok, gépek, berendezések bekerülési értékében figyelembe vették.
+- a) az anyag könyv szerinti értékének megállapítása során az IAS 2 Készletek című standard 11. bekezdése alapján figyelembe vett, a számvitelről szóló törvény szerinti utólag kapott (járó) – nem számlázott – szerződés szerinti engedménynek minősülő kereskedelmi engedmények, rabattok és hasonló tételek összegével,
+- b) az anyagbeszerzéssel összefüggő fedezeti ügylet esetén azzal az összeggel, amellyel az IFRS-ek szerint az anyag beszerzési értékét csökkenteni kell.
+
+(3) Az (1) bekezdés szerinti anyagköltség összegét csökkenteni kell:
+
+- a) annak az anyagnak a ráfordításként elszámolt könyv szerinti értékével, amelyet az IAS 2 Készletek című standard 35. bekezdésében említettek szerint saját előállítású ingatlanok, gépek, berendezések alkotórészeként használtak fel és amelynek könyv szerinti értékét a saját előállítású ingatlanok, gépek, berendezések bekerülési értékében figyelembe vették,
+- b) az anyagbeszerzéssel összefüggő fedezeti ügylet esetén azzal az összeggel, amellyel az IFRS-ek szerint az anyag bekerülési értékét (a kezdeti megjelenítéskor) növelni kell.
 
 40/H. § Ha a 40/C. § (2) bekezdése e) pontja alkalmazásának van helye, akkor az 52. § 40. pontja szerinti közvetített szolgáltatások értékét növelni kell a közvetített szolgáltatás számvitelről szóló törvény szerint megállapítandó bekerülési értékével.
 
 40/I. § Nem minősül alvállalkozói teljesítések értékének [52. § 32. pont] az az érték, mellyel a vállalkozó a 40/F. § vagy a 40/G. § vagy a 40/H. § alapján eladott áruk beszerzési értéke vagy anyagköltség vagy közvetített szolgáltatások értéke címén az adó alapját csökkentette.
 
-40/J. § A vállalkozó első olyan adóéve, melyről éves beszámolóját az IFRS-ek szerint készíti (a továbbiakban: áttérés adóéve) adóalapját
+40/J. § (1) A vállalkozó első olyan adóéve, amelyről éves beszámolóját az IFRS-ek szerint készíti (a továbbiakban: áttérés adóéve) adóalapját
 
 - a) növelni kell az áttérés adóévét megelőzően folytatott ügyletből származó
-  - aa) azon, az áttérés adóévében vagy azt követő bármely adóévben a 40/C. § szerinti nettó árbevételnek nem minősülő összeggel, amelyet a vállalkozó az iparűzési adó alapjának számításakor az áttérés adóévét megelőző bármely adóévben nettó árbevételként még nem vett figyelembe, és ha a vállalkozó az IFRS-ekre nem tért volna át az áttérés évében vagy az azt követő bármely adóévben nettó árbevételnek minősülne,
+  - aa) azon, az áttérés adóévében vagy azt követő bármely adóévben a 40/C–40/E. § szerinti nettó árbevételnek nem minősülő összeggel, amelyet a vállalkozó az iparűzési adó alapjának számításakor az áttérés adóévét megelőző bármely adóévben nettó árbevételként még nem vett figyelembe, és ha a vállalkozó az IFRS-ekre nem tért volna át az áttérés évében vagy az azt követő bármely adóévben nettó árbevételnek minősülne,
   - ab) azon költség, ráfordítás összegével, amellyel a vállalkozó a helyi iparűzési adó alapjának számítása során a nettó árbevételt az áttérés adóévét megelőző bármely adóévben és az áttérés adóévében vagy azt követő bármely adóévben is csökkenti;
 - b) csökkenteni kell az áttérés adóévét megelőzően folytatott ügyletből származó
   - ba) azon bevétel összegével, amelyet a vállalkozó a helyi iparűzési adó alapjának számítása során az áttérés adóévét megelőző bármely adóévben és az áttérés adóévében vagy azt követő bármely adóévben nettó árbevételként figyelembe vesz,
   - bb) azon az IFRS-ek alkalmazásában nettó árbevételt csökkentő költségnek, ráfordításnak nem minősülő összeggel, amellyel a vállalkozó a helyi iparűzési adó alapjának számítása során az áttérés adóévét megelőző bármely adóévben nettó árbevételét nem csökkentette, és azt, ha a az IFRS-ek alkalmazására nem tért volna át az áttérés évében, vagy azt követő bármely adóévben nettó árbevételt csökkentő ráfordításként számolhatna el.
 
-40/K. § (1) Ha az áttérés adóévének vagy az áttérés adóévét követő adóévnek (a továbbiakban együtt: átmeneti adóévek) az iparűzési adóalapja [39. §] a 40/B–40/J. §-ok alkalmazásával kisebb, mint az áttérés adóévét megelőző adóév 12 hónapra számított adóalapjának összege, akkor az átmeneti adóévek adóalapja – a (2) bekezdésben foglalt kivétellel – az utóbbi.
+(2) Ha a vállalkozó az áttérés adóévét követően olyan, az áttérés adóévét megelőző időszakra vonatkozó számviteli hibát állapít meg, amelynek elszámolása az IFRS-ek szerint eltér a számvitelről szóló törvény szerinti elszámolástól, akkor – az áttérési különbözet módosítása nélkül – az (1) bekezdés megfelelő alkalmazásával megállapítja, hogy az eredeti helyes elszámolás mennyivel befolyásolta volna az áttérési különbözet összegét (számviteli önellenőrzési különbözet). A vállalkozó a számviteli önellenőrzési különbözet összegével módosítja a hiba megállapításának időpontját magában foglaló adóévben az iparűzési adó alapját.
 
-(2) Az adóhatóság az (1) bekezdés hatálya alá eső vállalkozó – az átmeneti adóévről szóló bevallás benyújtásával egyidejűleg előterjesztett – kérelme alapján az átmeneti adóév adóalapjaként fogadja el a 40/B–40/I. §-ok figyelmen kívül hagyásával számított, a 40/J. § szerinti összeggel korrigált összeget, ha az kisebb, mint az (1) bekezdés szerinti adóalap.
+40/K. § (1) Azon átmeneti adóév esetén, amelyben az iparűzési adóalap [39. §] a 40/B–40/I. § és a 40/J. § (1) bekezdésének alkalmazásával kisebb, mint az áttérés adóévét megelőző adóév 12 hónapra számított adóalapjának összege, az iparűzési adó alapja – a (2) bekezdésben foglalt kivétellel – az utóbbi.
 
-40/L. § (1) Ha az áttérés adóévében a 40/B–40/J. §-ok alkalmazásával számított iparűzési adó összege kisebb, mint az áttérés adóévét megelőző adóév iparűzési adójának összege, akkor az áttérés adóévét követő adóévben kezdődő adóelőleg-fizetési időszak adóelőlegének összege az utóbbi.
+(2) Az adóhatóság a vállalkozó – az átmeneti adóévről szóló bevallás benyújtásával egyidejűleg előterjesztett – kérelme alapján az (1) bekezdés szerinti átmeneti adóév adóalapjaként fogadja el a 40/B–40/I. § és a 40/J. § (1) bekezdés figyelmen kívül hagyásával számított összeget, ha az kisebb, mint az (1) bekezdés szerinti adóalap.
+
+(3) Ha az áttérés adóévében a (2) bekezdést alkalmazzák, akkor az áttérési különbözetet – a (4) bekezdésben foglalt eltéréssel – abban az adóévben kell figyelembe venni, amelyben a vállalkozó fizetendő adóját első ízben állapítja meg 40/B–40/I. § szerint számított adóalapösszeg alapján.
+
+(4) Az áttérési különbözetet legkésőbb a végelszámolás, a felszámolás kezdő napját megelőző nappal lezáruló adóévben, a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 18/C. § (18) bekezdése szerinti jogutód nélküli megszűnéskor pedig az utolsó adóévben figyelembe kell venni. Nem kell e rendelkezést alkalmaznia az európai részvénytársaságnak és az európai szövetkezetnek a székhelye belföldről külföldre történő áthelyezésekor azon tevékenységére, amelyet külföldi vállalkozóként folytat. Nem kell továbbá e rendelkezést alkalmaznia a külföldi vállalkozónak, ha a tevékenységét az európai részvénytársaság, az európai szövetkezet folytatja.
+
+40/L. § (1) Ha az áttérés adóévében a 40/B–40/I. §-ok és a 40/J. § (1) bekezdés alkalmazásával számított iparűzési adó összege kisebb, mint az áttérés adóévét megelőző adóév iparűzési adójának összege, akkor az áttérés adóévét követő adóévben kezdődő adóelőleg-fizetési időszak adóelőlegének összege az utóbbi. Az adóelőleget két egyenlő részletben kell megállapítani, bevallani és megfizetni.
 
 (2) Az (1) bekezdés hatálya alá eső vállalkozás esetén az áttérés adóévében és áttérés adóévét követő előlegfizetési időszakra vonatkozóan az adózás rendjéről szóló törvény szerinti előleg-mérséklésnek nincs helye.
 
@@ -662,23 +684,27 @@ feltéve, ha azt a vállalkozó az (1) bekezdés szerinti bevételként nem vett
 
 (7) Ha jogszabályi változás miatt az adó alapja vagy mértéke az adóévre módosul, továbbá ha a vállalkozó az adóévet megelőző évben e törvény vagy az önkormányzat rendelete alapján adómentességet vagy adókedvezményt vett igénybe, de az adóévben az adómentesség vagy az adókedvezmény nem vagy nem teljes mértékben illeti meg, akkor az előleg összegét az adóalap, az adómérték, a kedvezmény mértékének változása, illetőleg a mentesség, kedvezmény megszűnése figyelembevételével kell bevallani.
 
-42. § (1) A magánszemély terhére az adóhatóság által megállapított adó, továbbá a vállalkozó adóalanyt terhelő építményadó és telekadó évi két részletben fizethető meg.
+(8) A közös őstermelői igazolvánnyal rendelkező adóalanyok az adóévi iparűzési adókötelezettségüket úgy is teljesíthetik, hogy az adószámmal rendelkező adóalany a közös őstermelői tevékenységvégzésből származó teljes iparűzési adóalap alapulvételével állapítja meg, vallja be és fizeti meg az adót. Az adómegállapítás ezen módjának választásáról a közös őstermelői igazolványban feltüntetett valamennyi adóalany az adószámmal rendelkező adóalany adóévi adóbevallásában nyilatkozik. A családi gazdálkodó a családi gazdaság tekintetében az adóévi iparűzési adókötelezettséget a közös őstermelői igazolvánnyal rendelkező adóalanyokra irányadó szabályozás szerint is teljesítheti.
+
+42. § (1)
 
 (2) Az adóelőleg és az adó megfizetésének esedékességét az adózás rendjéről szóló törvény állapítja meg.
 
-(3) Ha az esedékesség időpontjáig az adókivetés nem történt meg, akkor az adófizetést az önkormányzat által meghatározott módon és időben kell teljesíteni.
+(3)
 
 (4) Az önkormányzati adóhatóság – az (5)–(7) bekezdésben foglalt kivételtől eltekintve – készpénzfizetést nem fogadhat el.
 
 (5) Postahivatallal nem rendelkező községekben, továbbá tanyaközpontokban, külterületeken – előzetes kihirdetés mellett – befizetési napokat lehet tartani, amikor az adózók készpénzben fizethetnek. Így történhet a fizetés ingóvégrehajtás során is, ha azt az adózó önként felajánlja, illetőleg, ha az előtalált készpénzt az adóhatóság lefoglalja. Készpénz átvételére vagy lefoglalására kizárólag az jogosult, akit erre az adóhatóság írásban felhatalmazott és az e célra rendszeresített hivatalos nyugtatömbbel ellátott. Az átvett vagy lefoglalt készpénzről azonnal nyugtát kell adni, s a pénzösszeget az átvétel napján, de legkésőbb a következő munkanapon az adóbeszedési számlára be kell fizetni.
 
-(6)
+(6) Ha az adó alapja a korrigált forgalmi érték, akkor az adómentesség összegét a teljes hasznos alapterület vagy terület 1 m2-ére jutó forgalmi érték és az adó alól mentes hasznos alapterület vagy terület szorzataként kell kiszámítani.
 
 (7) Az önkormányzat rendeletében feljogosíthatja az adóhatóságot arra, hogy az (5) bekezdésben meghatározott pénzkezelési szabályok betartásával 5000 forintot meg nem haladó összegű helyi adóra (adótartozásra) készpénz-befizetést elfogadjon.
 
 (8) A helyi iparűzési adóbevallást magyar nyelven, forintban kell elkészíteni. A beszámolót, könyvvezetést konvertibilis devizában készítő adózó a helyi iparűzési adóbevallás adatait a Magyar Nemzeti Bank hivatalos – az adóév utolsó napján érvényes – devizaárfolyamának alapulvételével számítja át forintra. Olyan külföldi pénznem esetében, amelynek nincs a Magyar Nemzeti Bank által jegyzett árfolyama, a Magyar Nemzeti Bank által az adóév utolsó napjára vonatkozóan közzétett, euróban megadott árfolyamot kell a forintra történő átszámításkor figyelembe venni. Ugyanígy kell eljárni minden más esetben, ha az átszámításra a számvitelről szóló törvény rendelkezése nem vonatkozik.
 
 (9) Az idegenforgalmi adót az adó beszedője abban a – Magyar Nemzeti Bank által jegyzett – külföldi pénznemben is beszedheti, amelyben a szállásdíj megfizetését lehetővé teszi. A beszedésre kötelezett az adó összegének külföldi pénznemben való megállapításakor és az adónak az önkormányzati adóhatóság számára forintban való befizetésekor a Magyar Nemzeti Bank hivatalos – az adóévet megelőző év utolsó napján érvényes – devizaárfolyamát veszi alapul.
+
+(10) A lakás korrigált forgalmi értékének megállapítása során a lakáshoz tartozó kiegészítő helyiség, melléképület, melléképületrész alapterületére jutó korrigált forgalmi értéket figyelmen kívül kell hagyni.
 
 ### Adóhatóságok együttműködése
 
@@ -709,7 +735,13 @@ feltéve, ha azt a vállalkozó az (1) bekezdés szerinti bevételként nem vett
 - a) annak az önkormányzatnak az elnevezését, amelynek adóhatóságához bevallási, bejelentkezési, változás-bejelentési kötelezettségét teljesíti, továbbá
 - b) a helyi iparűzési adóról szóló bevallási nyomtatványon azt az adóévet, amelyre a bevallás vonatkozik és az önkormányzat rendeletében meghatározott, az adott adóévre vonatkozó adómértéket.
 
-(4) Az (1)–(2) bekezdésben említett nyomtatványt elektronikus úton csak akkor lehet benyújtani, ha azt az önkormányzat rendelete lehetővé teszi.
+(4) Az (1)–(2) bekezdésben említett nyomtatványt az önkormányzati adóhatósághoz elektronikus úton csak akkor lehet benyújtani, ha azt az önkormányzat rendelete lehetővé teszi.
+
+42/D. § (1) Az adózó az állandó jellegű helyi iparűzési adóról szóló adóbevallási kötelezettségét – ideértve az adóbevallás kijavítását és az önellenőrzéssel való helyesbítést – a PM rendelet szerinti bevallási nyomtatványon az állami adóhatósághoz elektronikus úton, az állami adóhatóság hatáskörébe tartozó adókról szóló bevallások benyújtására vonatkozó rendelkezések értelemszerű alkalmazásával, az általános nyomtatványkitöltő program használatával is teljesítheti.
+
+(2) Az állami adóhatóság a hozzá beérkezett, (1) bekezdés szerinti adóbevallást – az adóbevallás-benyújtásra kötelezett azonosítását követően, tartalmi vizsgálat nélkül, a befogadó nyugta kiadása mellett – az adóalany által a bevallási nyomtatványon megjelölt székhely, telephely(ek) szerinti önkormányzati adóhatóság részére haladéktalanul, elektronikus úton megküldi.
+
+(3) Az állami adóhatósághoz határidőben benyújtott adóbevallást az önkormányzati adóhatóságnál teljesítettnek kell tekinteni.
 
 ## HARMADIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
@@ -725,7 +757,7 @@ feltéve, ha azt a vállalkozó az (1) bekezdés szerinti bevételként nem vett
 
 44. § (1) Az önkormányzati adóhatóság hatáskörébe tartozó adókat és adók módjára behajtandó köztartozásokat kizárólag a kincstár által rendelkezésre bocsátott számítógépes programrendszerrel lehet nyilvántartani.
 
-(2) Ha az önkormányzat 2014. június 30-án nem a kincstár által rendelkezésre bocsátott számítógépes programrendszert használta, akkor esetében az (1) bekezdés szerinti rendelkezést csak 2017. október 1-jétől kell alkalmazni.
+(2) Ha az önkormányzat 2014. június 30-án nem a kincstár által rendelkezésre bocsátott számítógépes programrendszert használta, akkor esetében az (1) bekezdés szerinti rendelkezést csak 2021. január 1-jétől kell alkalmazni.
 
 45. § A helyi önkormányzat az ügykörébe tartozó adók és illetékek hatékony beszedésének elősegítésére a feltárt és beszedett adóhiányból, valamint a beszedett adó- és illetéktartozásból az önkormányzatokat megillető bevétel terhére rendeletében szabályozhatja az anyagi érdekeltség feltételeit.
 
@@ -744,15 +776,13 @@ Az érdekeltségi célú juttatásból az adó- és az illetékhatáskör címze
 
 #### 49. §
 
-50. § Az e törvény alapján bevezetésre kerülő adókkal egyidejűleg hatályukat vesztett rendeletek alapján korábban jogerős határozattal engedélyezett adó, díj és hozzájárulás fizetésének kötelezettsége alóli mentességek, illetőleg kedvezmények a kötelezettségekkel együtt vesztik hatályukat az új adók hatálybalépése napján.
+#### 50. §
 
 51. § (1) Ha az önkormányzat a helyi adót bevezeti, az adóalany köteles a bevezetett adó megállapításához szükséges valamennyi – az önkormányzat felhívásában megjelölt – adatot szolgáltatni az adott év január 1-jei állapotának, illetve évközi bevezetés esetén a rendelet hatálybalépése napjának megfelelően.
 
 (2) Az önkormányzati adóhatóság hatáskörébe tartozó adók, adók módjára behajtandó köztartozások (e rendelkezés alkalmazásában együtt: adó) nyilvántartása során – az adó megállapításához szükséges adatokon túlmenően – csak az adózás rendjéről szóló törvényben meghatározott adóazonosító jelet és a természetes személyazonosító adatokat tartja nyilván.
 
-51/A. § (1) Az önkormányzati adóhatóság a 42/B. § (1) és (3) bekezdése szerinti kötelezettségének első alkalommal 2012. december 20-áig tesz eleget azzal, hogy az adatszolgáltatásnak a 2013. január 1-jén hatályban lévő helyi adónemekre kell vonatkoznia.
-
-(2) A Kincstár a 42/B. § (2) bekezdés szerinti kötelezettségének első alkalommal 2013. január 1-jéig tesz eleget.
+#### 51/A. §
 
 51/B. § (1) Az önkormányzatnak az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel beiktatott 7. § g) pontot első alkalommal a 2017. január 1-jén hatályban lévő adórendeleti szabályokra kell alkalmaznia.
 
@@ -761,6 +791,14 @@ Az érdekeltségi célú juttatásból az adó- és az illetékhatáskör címze
 (3) A (2) bekezdés alkalmazható akkor is, ha a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 29/A. § (29)–(30) bekezdései csak azért nem alkalmazhatóak, mert az adóalany adózás előtti eredménye nulla vagy negatív.
 
 (4) Ha az iparűzési adó alanyának a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 2016. június 30-án hatályos 4. § 20. pontja szerinti jogdíjból származó árbevétele a szerzői jogi törvény által védett szerzői műhöz és a szerzői joghoz kapcsolódó jog által védett teljesítményhez fűződő vagyoni jogok átruházásáról szóló, hatósági nyilvántartásba vétel alapját képező, a nyilvántartást vezető hatóság részére benyújtott, 2015. július 1. és 2016. június 30. között hatályossá váló szerződés alapján keletkezik, akkor az a nettó árbevétel megállapítása során – utoljára a 2017. december 31-éig lezáruló adóévben – jogdíjból származó, árbevételként elszámolt ellenértéknek tekinthető.
+
+51/C. § (1) A 39. § (10) bekezdésének az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel (a továbbiakban: Mód. törvény) megállapított rendelkezését a 2016. szeptember 30-át követően kezdődő adóév helyi iparűzési adójának megállapítása során is alkalmazni lehet.
+
+(2) A 39/C. § (5) bekezdésének a Mód. törvénnyel hatályon kívül helyezett rendelkezését a 2016. évben kezdődő adóév helyi iparűzési adójának megállapítása során nem kell alkalmazni.
+
+(3) A 41. § (8) bekezdésének a Mód. törvénnyel megállapított rendelkezését a 2016. évben kezdődő adóévi helyi iparűzési adókötelezettség teljesítése során is alkalmazni lehet.
+
+(4) Az 52. § 22. pont b) alpontjának az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel megállapított rendelkezését a 2015. és 2016. évben kezdődő adóévek helyi iparűzési adójának megállapítása során is alkalmazni lehet.
 
 ### VII. Fejezet — Értelmező rendelkezések
 
@@ -772,7 +810,7 @@ Az érdekeltségi célú juttatásból az adó- és az illetékhatáskör címze
 - 4. külterület: a település közigazgatási határának belterületén kívül eső földrészlete, ideértve a zártkertet is,
 - 5. épület: az épített környezet alakításáról és védelméről szóló törvény szerinti olyan építmény vagy annak azon része, amely a környező külső tértől szerkezeti elemekkel részben vagy egészben mesterségesen kialakított, elválasztott teret alkot és ezzel az állandó vagy időszakos tartózkodás, illetve használat feltételeit biztosítja, ideértve az olyan önálló létesítményt is, amely részben vagy teljes belmagasságával a környező csatlakozó terepszint alatt van;
 - 6. épületrész: az épület önálló rendeltetésű, a szabadból vagy az épület közös közlekedőjéből nyíló önálló bejárattal ellátott helyisége vagy helyiség-csoportja, amely a 8., a 20., a 45. és 47. pontokban foglaltak szerint azzal felel meg lakásnak, üdülőnek, kereskedelmi egységnek, egyéb nem lakás céljára szolgáló épületnek, hogy az ingatlan-nyilvántartásban önálló ingatlanként nem szerepel;
-- 7. tulajdonos: az ingatlan tulajdonosa az a személy vagy szervezet, aki/amely az ingatlan-nyilvántartásban tulajdonosként szerepel. Amennyiben az ingatlan tulajdonjogának átruházására irányuló szerződést az ingatlanügyi hatósághoz benyújtották – melynek tényét az ingatlanügyi hatóság széljegyezte –, a szerző felet kell tulajdonosnak tekinteni. Újonnan létrehozott építmény tulajdonjogának – a használatbavételi engedély jogerőre emelkedését megelőző – átruházása esetén a szerződés ingatlanügyi hatósághoz történő benyújtását követően a szerző felet a használatbavételi engedély jogerőre emelkedésének időpontjától kell tulajdonosnak tekinteni. Egyéb módon történő tulajdonszerzés esetére a Polgári Törvénykönyv vonatkozó szabályai az irányadók;
+- 7. tulajdonos: az ingatlan tulajdonosa az a személy vagy szervezet, aki/amely az ingatlan-nyilvántartásban tulajdonosként szerepel. Amennyiben az ingatlan tulajdonjogának átruházására irányuló szerződést az ingatlanügyi hatósághoz benyújtották – melynek tényét az ingatlanügyi hatóság széljegyezte –, a szerző felet kell tulajdonosnak tekinteni, kivéve, ha a tulajdonjog bejegyzése iránti kérelmet az ingatlanügyi hatóság jogerősen elutasította vagy azt visszavonták vagy a bíróság megállapította a szerződés érvénytelenségét. Újonnan létrehozott építmény tulajdonjogának – a használatbavételi engedély jogerőre emelkedését megelőző – átruházása esetén a szerződés ingatlanügyi hatósághoz történő benyújtását követően a szerző felet a használatbavételi engedély jogerőre emelkedésének időpontjától kell tulajdonosnak tekinteni. Egyéb módon történő tulajdonszerzés esetére a Polgári Törvénykönyv vonatkozó szabályai az irányadók;
 - 8. lakás: a lakások és helyiségek bérletére, valamint elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény 91/A. §-a 1–6. pontjában foglaltak alapján ilyennek minősülő és az ingatlan-nyilvántartásban lakóház, lakóépület, lakás, kastély, villa, udvarház megnevezéssel nyilvántartott, vagy ilyenként feltüntetésre váró ingatlan;
 - 9. hasznos alapterület: a teljes alapterületnek olyan része, ahol a belmagasság legalább 1,90 m. A teljes alapterületbe a lakáshoz, üdülőhöz tartozó kiegészítő helyiségek, melléképületek, melléképületrészek kivételével valamennyi helyiség összegzett alapterülete, valamint a többszintes lakrészek belső lépcsőjének egy szinten számított vízszintes vetülete is beletartozik. Az építményhez tartozó fedett és három oldalról zárt külső tartózkodók (lodzsa, fedett és oldalt zárt erkélyek), és a fedett terasz, tornác alapterületének 50%-a tartozik a teljes alapterületbe. A lakások esetében a pinceszinten (a csatlakozó terepszint alatt) kialakított helyiségek alapterületének 70%-át kell a teljes alapterületbe számítani.
 - 10. kiegészítő helyiség: a lakáshoz, üdülőhöz tartozó, jellegénél és kialakításánál fogva csak tárolásra alkalmas padlás, pince, ide nem értve a gépjárműtárolót;
@@ -780,7 +818,11 @@ Az érdekeltségi célú juttatásból az adó- és az illetékhatáskör címze
 - 12. építmény megszűnése: ha az építményt lebontják, vagy megsemmisül,
 - 13. korrigált forgalmi érték: az illetékekről szóló törvény alkalmazásával megállapított forgalmi érték 50%-a,
 - 14. erdő: az ingatlan-nyilvántartásban erdő művelési ágban nyilvántartott földterület, továbbá az a földterület, amelyet az Országos Erdőállomány Adattárban erdőként tartanak nyilván;
-- 15. ingatlan: a föld és a földdel alkotórészi kapcsolatban álló minden dolog,
+- 15. mezőgazdasági művelés alatt álló belterületi telek: az az ingatlan,
+  - a) amely az ingatlan-nyilvántartásban, 1 hektárt meg nem haladó nagyságú, művelés alól kivett területként szerepel, és
+  - b) amelynek a teljes területét – a közüzemi szolgáltató által létesített, nem kizárólag a földterület közüzemi ellátását szolgáló vagy a növénytermesztést szolgáló műtárgy (pl. fúrt/ásott kút, üvegház, fóliasátor, szőlőkordon) által lefedett terület kivételével – az adóalany a naptári év egészében szántó, szőlő, kert vagy gyümölcsös művelési ágnak megfelelően műveli, és
+  - c) amelyre nézve a b) pont szerinti feltétel teljesülését a telek fekvése szerint illetékes mezőgazdasági igazgatási szerv az adóalany naptári év június 9. és szeptember 30. között benyújtott kérelmére indult eljárás keretében megtartott helyszíni szemle alapján kiadott okirattal igazolja, és
+  - d) amellyel határos területen létesített ivóvízvezetékre, szennyvízcsatorna-vezetékre és villamosenergia-vezetékre való csatlakozásra nincs lehetőség, vagy amelynek az adóalany – a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló törvény szerinti – jogszerű földhasználója és azt a tárgyévben az 1306/2013/EU európai parlamenti és tanácsi rendelet 72. cikk (1) bekezdése alapján, a 640/2014/EU felhatalmazáson alapuló bizottsági rendelet 11. cikke szerint benyújtott támogatási kérelmében kérelmezett, vagy nem kérelmezett mezőgazdasági területként jelöli meg;
 - 16. telek: az épülettel, épületrésszel be nem épített földterület, ide nem értve
   - a) a belterületen fekvő termőföldet, feltéve, ha az tényleges mezőgazdasági művelés alatt áll,
   - b) a külterületen fekvő termőföldet,
@@ -788,7 +830,7 @@ Az érdekeltségi célú juttatásból az adó- és az illetékhatáskör címze
   - d) a közút területét,
   - e) a vasúti pályát, a vasúti pálya tartozékai által lefedett földterületet,
   - f) a temetőkről és a temetkezésről szóló törvény temető fogalma alá tartozó földterületet,
-  - g) a halgazdálkodásról és a hal védelméről szóló törvény szerinti víztározó területét,
+  - g) a halgazdálkodásról és a hal védelméről szóló törvény szerinti víztározó, bányató területét,
   - h) az erdőt,
   - i) az ingatlan-nyilvántartásban mocsárként nyilvántartott földterületet,
 - 17. termőföld: az ingatlan-nyilvántartásban szántó, szőlő, gyümölcsös, kert, rét, legelő (gyep), nádas, fásított terület, halastó művelési ágban nyilvántartott földrészlet;
@@ -798,16 +840,16 @@ Az érdekeltségi célú juttatásból az adó- és az illetékhatáskör címze
 - 21. állandó lakos, aki a lakcímbejelentés szabályai szerint nyilvántartásba vett lakóhellyel, tartózkodási hellyel rendelkezik az önkormányzat illetékességi területén,
 - 22. nettó árbevétel:
   - a) a számviteli törvényben meghatározott értékesítés nettó árbevétele (egyszeres könyvvitelt vezető vállalkozó esetében: a pénzügyileg rendezett nettó árbevétel és a nem pénzben kiegyenlített értékesítés nettó árbevételének együttes összege), csökkentve a jogdíjból származó, árbevételként elszámolt ellenértékkel, a jövedéki adó fizetésére kötelezett vállalkozó esetében az adóhatósággal elszámolt – az egyéb szolgáltatások értékeként, illetve az egyéb ráfordítások között kimutatott – jövedéki adó összegével, továbbá az egyéb ráfordítások között kimutatott, az adóhatósággal elszámolt regisztrációs adó, energiaadó, népegészségügyi termékadóról szóló törvény szerinti alkoholos ital utáni népegészségügyi termékadó összegével, feltéve, ha az így elszámolt regisztrációs adó, energiaadó, népegészségügyi termékadó összege az értékesítés nettó árbevételét növelte, valamint a külön jogszabály szerinti felszolgálási díj árbevételként elszámolt összegével, a b)-h) alpontokban foglalt eltérésekkel,
-  - b) a hitelintézeteknél és pénzügyi vállalkozásoknál: a kapott kamatok és kamatjellegű bevételek csökkentve a fizetett kamatokkal és kamatjellegű ráfordításokkal és a pénzügyi lízingbe adott eszköz beszerzési értékével, azzal, hogy e beszerzési értékre tekintettel az adóalap nem csökkenthető, növelve az egyéb pénzügyi szolgáltatás bevételeivel, a befektetési szolgáltatások bevételeivel és a nem pénzügyi és befektetési szolgáltatás bevételével. Fedezeti ügyletek esetén az alapügylet (fedezett tétel) nyereségének/veszteségének és az ahhoz tartozó fedezeti ügylet veszteségének/nyereségének nyereségjellegű különbözete tartozik a nettó árbevételbe. A számviteli törvény szerinti kereskedési célú származékos ügyletek esetében azok eredményének összevont különbözete tartozik a nettó árbevételbe, ha az nyereségjellegű,
+  - b) a hitelintézeteknél és pénzügyi vállalkozásoknál: a kapott kamatok és kamatjellegű bevételek csökkentve a fizetett kamatokkal és kamatjellegű ráfordításokkal és a pénzügyi lízingbe adott eszköz beszerzési értékével, azzal, hogy e beszerzési értékre tekintettel az adóalap nem csökkenthető, továbbá, ha a vásárolt követelés értékesítésekor az eladási ár összegét egyéb pénzügyi szolgáltatás bevételeként számolják el, akkor a vásárolt követelés könyv szerinti értékének egyéb pénzügyi szolgáltatás ráfordításaként elszámolt összegével, és növelve az egyéb pénzügyi szolgáltatás bevételeivel, a befektetési szolgáltatások bevételeivel és a nem pénzügyi és befektetési szolgáltatás bevételével. Fedezeti ügyletek esetén az alapügylet (fedezett tétel) nyereségének/veszteségének és az ahhoz tartozó fedezeti ügylet veszteségének/nyereségének nyereségjellegű különbözete tartozik a nettó árbevételbe. A számviteli törvény szerinti kereskedési célú származékos ügyletek esetében azok eredményének összevont különbözete tartozik a nettó árbevételbe, ha az nyereségjellegű,
   - c) biztosítóknál: a biztosítástechnikai eredmény növelve a nettó működési költségekkel, a befektetésekből származó biztosítástechnikai ráfordításokkal (csak életbiztosítási ágnál), az egyéb biztosítástechnikai ráfordításokkal, a kapott kamatokkal és kamatjellegű bevételekkel, a biztosítási állományhoz kapcsolódó tárgyi eszközök bevételeivel, a befektetések értékesítésének árfolyamnyereségével és az egyéb befektetési bevételekkel (nem életbiztosítási ágnál), az életbiztosításból allokált befektetési bevétellel, valamint a nem biztosítási tevékenység bevételeivel, valamint csökkentve a Kártalanítási Számlával és a Kártalanítási Alappal szemben ráfordításként elszámolt összeggel, a tűzvédelmi hozzájárulásként elszámolt összeggel és a biztosítottaknak visszajuttatandó befektetési eredménnyel. Fedezeti ügyletek esetén az alapügylet (fedezett tétel) nyereségének/veszteségének és az ahhoz tartozó fedezeti ügylet veszteségének/nyereségének nyereségjellegű különbözete tartozik a nettó árbevételbe. A számviteli törvény szerinti kereskedési célú származékos ügyletek esetében azok eredményének összevont különbözete tartozik a nettó árbevételbe, ha az nyereségjellegű,
   - d) befektetési vállalkozásoknál: a befektetési szolgáltatási tevékenység bevételei növelve a nem befektetési szolgáltatási tevékenység bevételeivel, valamint a kapott kamatokkal és kamatjellegű bevételekkel. Fedezeti ügyletek esetén az alapügylet (fedezett tétel) nyereségének/veszteségének és az ahhoz tartozó fedezeti ügylet veszteségének/nyereségének nyereségjellegű különbözete tartozik a nettó árbevételbe. A számviteli törvény szerinti kereskedési célú származékos ügyletek esetében azok eredményének összevont különbözete tartozik a nettó árbevételbe, ha az nyereségjellegű,
   - e) a külföldi székhelyű vállalkozás magyarországi fióktelepénél, valamint a külföldi székhelyű európai részvénytársaság és európai szövetkezet magyarországi telephelyénél, továbbá egyéb más külföldi székhelyű vállalkozás magyarországi telephelyénél: a fióktelep (telephely) számviteli beszámolója (ha a telephelynek számviteli beszámoló-készítési kötelezettsége nincs, akkor nyilvántartásai, bizonylatai) alapján kimutatott, az a) pont – illetve, ha a külföldi székhelyű vállalkozás a b), c) és d) alpontok valamelyikében említett szervezet, akkor az ott meghatározottak – szerinti nettó árbevétel,
   - f) lakásszövetkezet, társasház, (köz)alapítvány, társadalmi szervezet, köztestület, egyesület, önkéntes kölcsönös biztosító pénztár, iskolaszövetkezet, a büntetés-végrehajtásért felelős miniszter felügyelete alá tartozó, a fogvatartottak kötelező foglalkoztatására létrehozott gazdálkodó szervezetek, a kizárólag a fogvatartottak foglalkoztatása céljából közhasznú, kiemelkedően közhasznú nonprofit gazdasági társaság, a TIG Tartalékgazdálkodási Nonprofit Kft. a KHVT Közlekedési, Hírközlési, Vízügyi Tartalékgazdálkodási Kiemelkedően Közhasznú Nonprofit Kft. esetében a vállalkozási tevékenységből származó, a) pont szerinti nettó árbevétel. Nem minősül vállalkozási tevékenységből származó nettó árbevételnek a társasház és a lakásszövetkezet belső szolgáltatásból származó árbevétele,
   - g) a személyi jövedelemadóról szóló törvény hatálya alá tartozó, a 26. pont a) és b) alpontja szerinti vállalkozónál: a tevékenységvégzéssel (termékértékesítés, szolgáltatásnyújtás) közvetlen összefüggésben kapott – általános forgalmi adó nélküli – ellenérték, növelve a kompenzációs felárral és csökkentve az adóhatósággal elszámolt regisztrációs adó összegével, feltéve, hogy azt bevételként elszámolta, továbbá azon bevétellel, amelyet a számvitelről szóló törvény alapján egyéb bevételként kellene elszámolni,
   - h) a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény szerinti kisadózó vállalkozás esetén, a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény szerinti kisadózó vállalkozás bevétele;
-- 23. háziorvos, védőnő vállalkozó: az a vállalkozó, aki/amely – gazdálkodó szervezetként vagy egyéni vállalkozóként – külön jogszabály alapján háziorvosi, házi gyermekorvosi, fogorvosi alapellátási vagy védőnői tevékenységet végez és nettó árbevételének legalább 80%-a e tevékenység (tevékenységek) végzésére vonatkozó, az Országos Egészségbiztosítási Pénztárral kötött finanszírozási szerződés alapján az Egészségbiztosítási Alapból származik;
+- 23. háziorvos, védőnő vállalkozó: az a vállalkozó, aki/amely – gazdálkodó szervezetként vagy egyéni vállalkozóként – külön jogszabály alapján háziorvosi, házi gyermekorvosi, fogorvosi alapellátási vagy védőnői tevékenységet végez és nettó árbevételének legalább 80%-a e tevékenység (tevékenységek) végzésére vonatkozó, az egészségbiztosítási szervvel kötött finanszírozási szerződés alapján az Egészségbiztosítási Alapból származik;
 - 24. építőipari tevékenység: a Gazdasági Tevékenységek Egységes Osztályozási Rendszere 2008. január 1-jétől hatályos (TEÁOR'08) besorolása szerint a 41–43. ágazatokba sorolt tevékenységek összessége;
-- 25. alapkutatás, alkalmazott kutatás, kísérleti fejlesztés közvetlen költsége: a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao tv.) 4. § 32. pontja szerinti saját tevékenységi körben megvalósított K+F tevékenység közvetlen költsége;
+- 25. alapkutatás, alkalmazott kutatás, kísérleti fejlesztés közvetlen költsége: a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 7. § (1) bekezdés t) pontja szerint az adózás előtti eredményt csökkentő összeg, azzal, hogy a helyi iparűzési adóalap megállapítása során a felmerült költséget csak egyszer lehet figyelembe venni;
 - 26. vállalkozó: a gazdasági tevékenységet saját nevében és kockázatára haszonszerzés céljából, üzletszerűen végző
   - a) a személyi jövedelemadóról szóló törvényben meghatározott egyéni vállalkozó,
   - b) a személyi jövedelemadóról szóló törvényben meghatározott mezőgazdasági őstermelő, feltéve, hogy őstermelői tevékenységéből származó bevétele az adóévben a 600 000 forintot meghaladja,
@@ -828,7 +870,7 @@ Az érdekeltségi célú juttatásból az adó- és az illetékhatáskör címze
 - 36. eladott áruk beszerzési értéke: a kettős könyvvitelt vezető vállalkozások esetében a vásárolt és változatlan formában eladott anyagoknak, áruknak – a számvitelről szóló törvény szerint az eladott áruk beszerzési értékeként elszámolt – bekerülési (beszerzési) értéke. Az egyszeres könyvvitelt, valamint – a személyi jövedelemadóról szóló törvény hatálya alá tartozó – pénzforgalmi nyilvántartást vezető vállalkozók esetében a tárgyévi árubeszerzésre fordított kiadás, csökkentve a kifizetett árukészlet leltár szerinti záró értékével, növelve a kifizetett árukészlet leltár szerinti nyitó értékével. Csökkenti az eladott áruk beszerzési értékét az az érték, amellyel az adóalany a 37. pont szerint anyagköltségként, a 32. pont szerint alvállalkozói teljesítés értékeként, a 40. pont szerint közvetített szolgáltatások értékeként nettó árbevételét csökkentette,
 - 37. anyagköltség: a kettős könyvvitelt vezető vállalkozások esetében a vásárolt anyagoknak – a számvitelről szóló törvény szerint – anyagköltségként elszámolt bekerülési (beszerzési) értéke. Az egyszeres könyvvitelt, valamint – a személyi jövedelemadóról szóló törvény hatálya alá tartozó – pénzforgalmi nyilvántartást vezető vállalkozók esetében a tárgyévi anyagbeszerzésre fordított kiadás, csökkentve a kifizetett anyagkészlet leltár szerinti záró értékével, növelve a kifizetett anyagkészlet leltár szerinti nyitó értékével. Csökkenti az anyagköltséget a saját vállalkozásában végzett beruházáshoz felhasznált anyagok bekerülési (beszerzési) értéke, továbbá az az érték, amellyel az adóalany a 36. pont szerint az eladott áruk beszerzési értékeként, a 32. pont szerint alvállalkozói teljesítés értékeként, a 40. pont szerint közvetített szolgáltatások értékeként nettó árbevételét csökkentette,
 - 38. anyag, áru: a számvitelről szóló törvény szerinti vásárolt készletekből az anyagok, az áruk,
-- 39. az egyszerűsített vállalkozói adónak a számviteli törvény hatálya alá nem tartozó alanya esetében nettó árbevétel: a 22. pont i) alpontja szerinti nettó árbevétel, eladott áruk beszerzési értéke és anyagköltség: a 36. és a 37. pontokban foglalt, pénzforgalmi nyilvántartást vezető vállalkozókra meghatározott eladott áruk beszerzési értéke és anyagköltség,
+- 39. az egyszerűsített vállalkozói adónak a számviteli törvény hatálya alá nem tartozó alanya esetében nettó árbevétel: a 22. pont g) alpontja szerinti nettó árbevétel, eladott áruk beszerzési értéke és anyagköltség: a 36. és a 37. pontokban foglalt, pénzforgalmi nyilvántartást vezető vállalkozókra meghatározott eladott áruk beszerzési értéke és anyagköltség,
 - 40. közvetített szolgáltatások értéke: az adóalany által saját nevében vásárolt és a harmadik személlyel (a megrendelővel) írásban kötött szerződés alapján, a szerződésben rögzített módon részben vagy egészben, de változatlan formában továbbértékesített (továbbszámlázott) szolgáltatás értéke. Közvetített szolgáltatásnál az adóalany vevője és nyújtója is a szolgáltatásnak, az adóalany a vásárolt szolgáltatást részben vagy egészben közvetíti úgy, hogy a megrendelővel kötött szerződésből a közvetítés lehetősége, a számlából a közvetítés ténye, vagyis az, hogy az adóalany nemcsak a saját, hanem az általa vásárolt szolgáltatást is értékesíti változatlan formában, de nem feltétlenül változatlan áron, egyértelműen megállapítható. Az e pont szerinti értékkel az adóalany akkor csökkentheti a nettó árbevételét, ha azzal a 22. pont a) alpontja szerint jogdíjként, a 36. pont szerint eladott áruk beszerzési értékeként, a 37. pont szerint anyagköltségként vagy a 32. pont szerint alvállalkozói teljesítések értékeként nettó árbevételét nem csökkentette;
 - 41. székhely: belföldi szervezet esetében az alapszabályában (alapító okiratában), a cégbejegyzésben (bírósági nyilvántartásban), az egyéni vállalkozó esetében az egyéni vállalkozók nyilvántartásában ekként feltüntetett hely, a magánszemélyek esetében az állandó lakóhely. A külföldi székhelyű vállalkozás magyarországi fióktelepe vonatkozásában a székhely alatt a cégbejegyzésben a fióktelep helyeként megjelölt helyet, a bizalmi vagyonkezelésbe adott vagyon esetében a bizalmi vagyonkezelő székhelyét, lakóhelyét kell érteni;
 - 42. saját vállalkozásban végzett beruházás: a számviteli törvény szerinti tárgyi eszköznek minősülő eszközök saját vállalkozásban végzett megvalósítása, létesítése, bővítése, rendeltetésének megváltoztatása, átalakítása, élettartamának növelése, eredeti állagának helyreállítását szolgáló felújítása – ide nem értve a tárgyi eszköz folyamatos, zavartalan, biztonságos üzemeltetését szolgáló javítási, karbantartási munkákat, továbbá az erdőnevelési, erdőfenntartási, erdőfelújítási munkákat – akkor is, ha az adóalany kizárólag a beruházás megvalósításához szükséges anyagot biztosítja,
@@ -838,7 +880,7 @@ Az érdekeltségi célú juttatásból az adó- és az illetékhatáskör címze
 - 46. szállásépület: az a kereskedelmi egység, mely szálláshely-szolgáltatás nyújtására alkalmas, így különösen az ingatlan-nyilvántartási bejegyzés alapján szállodának, hotelnek, panziónak, fogadónak, motelnek, szállónak, vendégháznak, vadászháznak minősülő vagy ilyenként feltüntetésre váró épület, épületrész;
 - 47. egyéb nem lakás céljára szolgáló épület: az ingatlan-nyilvántartási bejegyzés alapján garázsnak, gépjárműtárolónak, raktárnak, üvegháznak, műhelynek, szerviznek, üzemnek, üzemcsarnoknak, pincének, présháznak, hűtőháznak, gyárnak minősülő vagy ilyenként feltüntetésre váró épület, épületrész, továbbá a melléképület és a melléképületrész;
 - 48. a lakáshoz, üdülőhöz tartozó gépjárműtároló: a lakóépületben lévő épületrész, vagy a lakóépület elhelyezésére szolgáló telken álló épület, amely kialakításánál fogva gépjármű tárolására alkalmas, függetlenül attól, hogy az épület vagy az épületrész az ingatlan-nyilvántartásban önálló ingatlanként szerepel;
-- 49. vagyoni értékű jog jogosítottja: az ingatlanon fennálló vagyoni értékű jog jogosítottja az a személy vagy szervezet, aki/amely az ingatlan-nyilvántartásban a vagyoni értékű jog jogosítottjaként feltüntetésre került. Amennyiben az ingatlant terhelő vagyoni értékű jog alapításáról szóló okiratot az ingatlanügyi hatósághoz benyújtották – melynek tényét az ingatlanügyi hatóság széljegyezte –, az okiratban megjelölt, jogszerzésre feljogosított személyt vagy szervezetet kell a vagyoni értékű jog jogosítottjának tekinteni;
+- 49. vagyoni értékű jog jogosítottja: az ingatlanon fennálló vagyoni értékű jog jogosítottja az a személy vagy szervezet, aki/amely az ingatlan-nyilvántartásban a vagyoni értékű jog jogosítottjaként feltüntetésre került. Amennyiben az ingatlant terhelő vagyoni értékű jog alapításáról szóló okiratot az ingatlanügyi hatósághoz benyújtották – melynek tényét az ingatlanügyi hatóság széljegyezte –, az okiratban megjelölt, jogszerzésre feljogosított személyt vagy szervezetet kell a vagyoni értékű jog jogosítottjának tekinteni, kivéve, ha a vagyoni értékű jog bejegyzése iránti kérelmet az ingatlanügyi hatóság jogerősen elutasította vagy azt visszavonták vagy a bíróság megállapította a szerződés érvénytelenségét;
 - 50. melléképület, melléképületrész: a lakás, az üdülő elhelyezésére szolgáló telken lévő és a lakás, üdülő szokásos használatához szükséges, de huzamos emberi tartózkodásra részben és ideiglenesen sem szolgáló, tüzelő, lom, szerszám, kerékpár, babakocsi tárolására szolgáló épület vagy épületrész, ide nem értve a gépjárműtárolót. A többlakásos lakóépületben lévő lakás esetén a lakástulajdonhoz tartozó, 5 m2 hasznos alapterületet meg nem haladó, lomok, szerszámok, tüzelő tárolására szolgáló helyiség, feltéve, hogy az az épületen belül, de a lakástól elkülönítve helyezkedik el, valamint lakóépületben az osztatlan közös tulajdonban lévő közlekedő és tároló-helyiség, akkor, ha azt a tulajdonközösség közösen használja;
 - 51. jogdíj:
   - a) a szabadalom, a használatiminta-oltalom, a növényfajta-oltalom, a kiegészítő oltalmi tanúsítvány, a mikroelektronikai félvezető termékek topográfiájának oltalma és a szerzői jogi védelemben részesülő szoftver hasznosítási engedélyéből, felhasználási engedélyéből, valamint
@@ -857,7 +899,9 @@ származó ellenérték (bevétel);
 - 64. előfizető: az elektronikus hírközlésről szóló törvény szerinti előfizető.
 - 65. nemzetközi számviteli standardok: a számvitelről szóló törvény szerinti azonos elnevezésű fogalom;
 - 66. IFRS-ek: a számvitelről szóló törvény szerinti azonos elnevezésű fogalom;
-- 67. anyag az IFRS-ek szerint beszámolót készítő vállalkozó esetén: IAS 2 Készletek című standard 6. bekezdés c) pontja szerinti készlet.
+- 67. anyag az IFRS-ek szerint beszámolót készítő vállalkozó esetén: IAS 2 Készletek című standard 6. bekezdés c) pontja szerinti készlet;
+- 68. átmeneti adóév: az IFRS-t alkalmazó vállalkozó esetén az áttérés adóéve, valamint az azt követő adóév;
+- 69. áttérési különbözet: a 40/J. § (1) bekezdés szerinti adóalap-növelő és -csökkentő tételek együttes összege (előjellel ellátva).
 
 ### VIII. Fejezet — AZ EURÓPAI UNIÓ JOGÁNAK VALÓ MEGFELELÉS
 

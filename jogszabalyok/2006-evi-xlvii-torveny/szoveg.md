@@ -14,11 +14,11 @@ Az életüktől és a szabadságuktól politikai okból jogtalanul megfosztottak
 
 (3) A (2) bekezdésben meghatározott határidő elmulasztása jogvesztéssel jár, a mulasztás miatt igazolásnak nincs helye.
 
-(4) A kárpótlási hatóság határozatának felülvizsgálata során eljáró bíróság illetékességére a Kpt. 14. §-ának d) pontját kell alkalmazni.
+(4)
 
 (5) A kárpótlási hatóság által hozott jogerős és végrehajtható határozat alapján a kárpótlási összeg kifizetését a Hadigondozottak Közalapítványa végzi.
 
-(6) A kérelmező nem jogosult a kárpótlási hatósággal elektronikus úton kapcsolatot tartani.
+(6)
 
 2/A. § (1) Ha az eljárás során a jogosulttal való kapcsolattartás lehetetlenné vált, a kárpótlási hatóság a döntését a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény hirdetményi kézbesítésre vonatkozó szabályai szerint közli.
 
@@ -29,3 +29,5 @@ Az életüktől és a szabadságuktól politikai okból jogtalanul megfosztottak
 4. § Felhatalmazást kap a Kormány, hogy az e törvény alapján indult kárpótlási eljárások végrehajtási szabályait rendeletben megállapítsa.
 
 5. § Felhatalmazást kap a Kormány, hogy a kárpótlási hatóságot vagy hatóságokat rendeletben jelölje ki.
+
+6. § Ha a kárpótlási hatóság az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.

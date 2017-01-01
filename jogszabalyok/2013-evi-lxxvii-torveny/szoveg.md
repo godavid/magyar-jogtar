@@ -17,13 +17,15 @@ Annak érdekében, hogy a hazánkban élő személyek meg tudjanak felelni a gaz
 - e) a gazdasági kamarákról szóló törvény alapján megalakított Magyar Kereskedelmi és Iparkamarára (a továbbiakban: kamara), valamint a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamarára (a továbbiakban: agrárkamara),
 - f) a támogatást nyújtóra,
 - g) a gyakorlati képzést szervező és a gyakorlati képzést folytató szervezetre,
-- h) az állami szakképzési és felnőttképzési szervre (a továbbiakban: hatóság),
+- h) a felnőttképzési hatósági feladatokat ellátó szervre (a továbbiakban: hatóság),
 - i) az Oktatási Hivatal Nyelvvizsgáztatási Akkreditációs Központjára (a továbbiakban: NYAK),
 - j) az iskolarendszeren kívüli képzési tevékenységet folytató, c) pontban meghatározott jogalanyoknak
   - ja) a 17/B. §-ban meghatározott hirdetésre és tájékoztatásra, valamint
   - jb) a 21. § (4) bekezdése szerinti adatszolgáltatásra
 
-irányuló tevékenységére.
+irányuló tevékenységére,
+
+- k) az állami szakképzési és felnőttképzési szervre.
 
 (2) E törvény alkalmazásában felnőttképzési tevékenység az (1) bekezdés c) pontjában meghatározott jogalanyoknak az (1) bekezdés a) és b) pontjában meghatározott természetes személyek iskolarendszeren kívüli képzésére irányuló tevékenysége, amely az (5)–(6) bekezdésben foglaltak kivételével
 
@@ -50,7 +52,7 @@ lehet.
 - f) a pedagógus-továbbképzésről, a pedagógus-szakvizsgáról, valamint a továbbképzésben részt vevők juttatásairól és kedvezményeiről szóló kormányrendelet alapján szervezett továbbképzésre,
 - g) a kultúráért felelős miniszter által akkreditált, tanfolyam jellegű szakmai továbbképzésekre,
 - h) a hatósági jellegű képzésekre,
-- i) az állami felnőttképzési intézmény jogszabályban meghatározott kötelező állami feladatai ellátásának keretében – a 3. § (1a) bekezdésében foglaltaknak megfelelően – szervezett képzéseire,
+- i) a hátrányos helyzetűek képzettségének, kompetenciáinak fejlesztése érdekében szervezett képzésekért, a hátrányos helyzetűek humán szolgáltatásokhoz való hozzáférésének javítása érdekében szervezett képzésekért, a közfoglalkoztatáshoz kapcsolódó, valamint a szociális szövetkezetben történő foglalkoztatásra felkészítő képzésekért felelős szerv által – e felelőssége keretében a 3. § (1a) bekezdésben foglaltaknak megfelelően – szervezett képzésekre, továbbá a társadalmi felzárkózást szolgáló és a közfoglalkoztatottak alapkompetencia-fejlesztő, a szakképzettséggel nem rendelkezők kompetenciafejlesztő képzéseire, valamint a helyi, járási esélyegyenlőségi szakemberek és esélyegyenlőségi mentorok egyéb képzéseire.
 - j) a Magyar Igazságügyi Akadémia által bírák, igazságügyi alkalmazottak, valamint az igazságszolgáltatásban közreműködő más személyek részére szervezett jogi tárgyú és az ítélkezési tevékenységhez közvetlenül kapcsolódó nem jogi tárgyú szakmai képzésekre,
 - k) a személyes gondoskodást végző személyek továbbképzéséről és a szociális szakvizsgáról szóló miniszteri rendeletben, az egyes szociális szolgáltatásokat végzők képzéséről és vizsgakövetelményeiről szóló miniszteri rendeletben, a hivatásos gondnoki feladatot ellátó személyek képesítési előírásairól szóló miniszteri rendeletben, a jelnyelvi tolmácsok továbbképzéséről szóló miniszteri rendeletben, továbbá a helyettes szülők, a nevelőszülők, a családi napközit működtetők képzésének szakmai és vizsgakövetelményeiről, valamint az örökbefogadás előtti tanácsadásról és felkészítő tanfolyamról szóló miniszteri rendeletben meghatározott képzésekre,
 - l) az igazságügyi szolgálatok jogakadémiája működtetéséért felelős szerv által az igazságügyi szolgálatok, valamint az igazságszolgáltatásban közreműködő, illetve ahhoz szakmai tevékenységükkel közvetlenül kapcsolódó más személyek részére szervezett jogi tárgyú és az igazságszolgáltatási tevékenységhez közvetlenül kapcsolódó nem jogi tárgyú szakmai képzésekre,
@@ -115,15 +117,17 @@ lehet.
 
 (4) A (2) bekezdésben foglalt kérelem vagy bejelentés benyújtásával egyidejűleg a képző intézmény a szakképzésért és felnőttképzésért felelős miniszter (a továbbiakban: miniszter) rendeletében meghatározott mértékű igazgatási szolgáltatási díjat köteles fizetni.
 
-(5) Az állami intézményfenntartó központ által fenntartott köznevelési intézmény esetén a (2) bekezdés szerinti kérelmet és bejelentést az intézmény nyújtja be a hatósághoz.
+(5) A tankerületi központ által fenntartott köznevelési intézmény esetén a (2) bekezdés szerinti kérelmet és bejelentést az intézmény nyújtja be a hatósághoz.
 
 (6) Az 1. § (1) bekezdés c) pontjában meghatározott jogalanyok közül – a Polgári Törvénykönyvről szóló törvény (a továbbiakban: Ptk.) szerinti gazdasági társaság, egyesülés és szövetkezet, valamint a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó jogalanyok kivételével – nem kaphat engedélyt az az intézmény, amelynek képviselője olyan más felnőttképzést folytató intézmény képviselője vagy volt képviselője, amely intézmény engedélyét a hatóság– a képviselet időtartama alatt elkövetett jogsértés miatt – teljesen visszavonta. Az engedély megszerzésének tilalma a visszavonás időtartamára vonatkozik.
 
 (7) Nem kaphat engedélyt az a Ptk. szerinti gazdasági társaság, egyesülés és szövetkezet, amelynek vezető tisztségviselője olyan Ptk. szerinti gazdasági társaság, egyesülés és szövetkezet vezető tisztségviselője vagy volt vezető tisztségviselője, amelynek engedélyét a hatóság – a vezető tisztség viselésének időtartama alatt elkövetett jogsértés miatt – teljesen visszavonta. Az engedély megszerzésének tilalma a visszavonás időtartamára vonatkozik.
 
-(8) A (6) bekezdésben foglalt rendelkezést alkalmazni kell az engedély visszavonásával érintett intézmény alapítójának, vagy köznevelési intézmény érintettsége esetén a köznevelési törvény szerinti fenntartójának képviselője – kivéve az állami intézményfenntartó központ képviselőjét – esetében is azzal, hogy a hatóság teljesen visszavonja az engedélyét annak a felnőttképzést folytató intézménynek, amelynek esetében az alapító vagy fenntartó képviselőjének személye az eltiltással érintett időszak alatt változatlan.
+(8) A (6) bekezdésben foglalt rendelkezést alkalmazni kell az engedély visszavonásával érintett intézmény alapítójának, vagy köznevelési intézmény érintettsége esetén a köznevelési törvény szerinti fenntartójának képviselője – kivéve a tankerület képviselőjét – esetében is azzal, hogy a hatóság teljesen visszavonja az engedélyét annak a felnőttképzést folytató intézménynek, amelynek esetében az alapító vagy fenntartó képviselőjének személye az eltiltással érintett időszak alatt változatlan.
 
 (9) Az 1. § (1) bekezdés c) pontjában meghatározott jogalanyok az engedélyezési eljárás, valamint az engedélyezési eljáráshoz kapcsolódó fellebbezési eljárás során kizárólag elektronikus úton kötelesek a hatósággal kapcsolatot tartani.
+
+3/A. § A központi költségvetési szerv megszűnésének időpontjában folyamatban lévő, engedélyezett képzéseit jogutódja, vagy – jogutód hiányában – a felnőttképzéssel kapcsolatos feladatait átvevő szerv a megszűnt szerv számára kiadott engedély alapján – e törvény rendelkezései szerint – folytathatja le.
 
 4. § (1) A hatóság – a (3) bekezdésben foglalt kivétellel – szakértői bizottság igénybevételével lefolytatja az engedélyezési eljárást, amelynek alapján az engedélyt kiadja, módosítja vagy kiegészíti. A hatóság az engedély kiadásával az abban szereplő képzések folytatását az 1. § (2) bekezdés a)–d) pontja szerinti képzési kör (a továbbiakban: képzési kör) megjelölésével engedélyezi, az engedély módosításával az intézmény engedélyét új képzési körrel bővíti, míg az engedély kiegészítésével az intézmény engedélyében szereplő képzéseit – az engedélyben megjelölt képzési körön belüli – új képzéssel bővíti.
 
@@ -136,7 +140,7 @@ lehet.
 - a) a felnőttképzést folytató intézmény
   - aa) megnevezését, cégjegyzékét vagy nyilvántartását vezető bíróság, hatóság vagy szerv megnevezését, cégjegyzékszámát vagy nyilvántartásba-vételi számát, egyéni vállalkozó esetén a vállalkozó nyilvántartását vezető hatóság megnevezését és a nyilvántartásba vétel számát,
   - ab) székhelyét, a felnőttképzési tevékenység végzésének telephelyét, levelezési címét, telefon és faxszámát, elektronikus levelezési címét, képviselőjének, vagy a Ptk. szerinti jogi személyek esetén vezető tisztségviselőjének nevét, anyja nevét, születési helyét és idejét, állampolgárságát, képviselői, vezető tisztségviselői jogviszonya kezdetének időpontját,
-  - ac) adószámát vagy a nemzeti köznevelésről szóló törvény szerinti állami intézményfenntartó központ által fenntartott köznevelési intézmény OM-azonosítóját,
+  - ac) adószámát vagy a nemzeti köznevelésről szóló törvény szerinti tankerületi központ által fenntartott köznevelési intézmény OM-azonosítóját,
   - ad) adataiban bekövetkezett változást a változás időpontjának megjelölésével,
   - ae) nyilvántartásba-vételi számát és időpontját,
   - af) alapítójának vagy köznevelési intézmény érintettsége esetén a köznevelési törvény szerinti fenntartójának megnevezését és annak – 3. § (8) bekezdése szerinti – képviselőjét, alapítója vagy fenntartója képviseleti jogviszonya kezdetének időpontját, nevét, anyja nevét, születési helyét és idejét, állampolgárságát,
@@ -158,6 +162,8 @@ tartalmazza.
 (5) A hatóság az (1)–(2) bekezdés szerinti nyilvántartásokban szereplő személyes adatokat a felnőttképzést folytató intézmények ellenőrzésével kapcsolatos jogkörének gyakorlása céljából a felnőttképzést folytató intézménynek az (1) bekezdés szerinti nyilvántartásból történő törlésétől számított öt évig – a felnőttképzést folytató intézmény képviselőjének és alapítója képviselője személyének változása esetén a változást követő öt évig – kezeli, majd az adatokat törli.
 
 (6) A felnőttképzési tevékenység folytatásához szükséges engedélyezési eljárás és követelményrendszer részletes szabályait, a kérelem és bejelentés adattartalmát és benyújtásának részletes szabályait, az engedéllyel rendelkező képző intézmények nyilvántartásának vezetésére vonatkozó részletes eljárási szabályokat és a nyilvántartásból való törlés eseteit a Kormány rendeletben határozza meg.
+
+5/A. § A hatóságnak a felnőttképzési tevékenység folytatásához szükséges engedélyezési eljárásban, valamint a felnőttképzést folytató intézmények ellenőrzése során meghozott döntése ellen a szakképzésért és felnőttképzésért felelős miniszterhez lehet fellebbezést benyújtani.
 
 #### 4. A felnőttképzési szakértői rendszer
 
@@ -198,7 +204,7 @@ tartalmazza.
 
 (3) A felnőttképzési szakértői és felnőttképzési programszakértői tevékenység folytatásának részletes feltételeit, a felnőttképzési szakterületeket, a szakértői tevékenységre irányuló bejelentés adattartalmát, a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket, továbbá a felnőttképzési szakértők és a felnőttképzési programszakértők díjazására vonatkozó rendelkezéseket miniszteri rendelet határozza meg.
 
-9. § (1) A hatóság felnőttképzési szakértőkkel kapcsolatos feladatai megoldásának támogatása, valamint a felnőttképzést folytató intézmények által alkalmazható minőségbiztosítási rendszerek kialakításának elősegítése céljából legalább négy fő felnőttképzési szakértő, továbbá felnőttképzési programszakértő tagokból álló, hattagú Felnőttképzési Szakértői Bizottságot (a továbbiakban: FSZB) működtet.
+9. § (1) A hatóság felnőttképzési szakértőkkel kapcsolatos feladatainak megoldását, valamint a felnőttképzést folytató intézmények által alkalmazható minőségbiztosítási rendszerek kialakításának elősegítését legalább négy fő felnőttképzési szakértő, továbbá felnőttképzési programszakértő tagokból álló, hattagú Felnőttképzési Szakértői Bizottság (a továbbiakban: FSZB) támogatja. Az FSZB-t az állami szakképzési és felnőttképzési szerv működteti.
 
 (2) Az FSZB a hatóságnak a felnőttképzési szakértőkkel és felnőttképzési programszakértőkkel kapcsolatos feladatai ellátásával összefüggésben javaslattevő, véleményező, tanácsadó testületeként működik.
 
@@ -250,7 +256,7 @@ tartalmazza.
 
 (4) A vallási közösség által fenntartott intézmény e törvény hatálya alá tartozó felnőttképzési tevékenységének engedélyezése során a hittudományokra és kizárólag a hitélet gyakorlására vonatkozó tárgyak, ismeretek tartalma nem vizsgálható.
 
-11/A. § A szakképzésről szóló törvény szerinti modulzáró vizsgát a felnőttképzést folytató intézmény szervezi, ha a jelentkező kizárólag az intézményben vett részt az érintett szakképesítés megszerzésére irányuló képzésben. A modulzáró vizsgát minden egyéb esetben a hatóság vagy a szakképzésről szóló törvény 12. § (2) bekezdés b) pontjában meghatározott intézmény szervezi.
+11/A. § A szakképzésről szóló törvény szerinti modulzáró vizsgát a felnőttképzést folytató intézmény szervezi, ha a jelentkező kizárólag az intézményben vett részt az érintett szakképesítés megszerzésére irányuló képzésben. A modulzáró vizsgát minden egyéb esetben az állami szakképzési és felnőttképzési szerv vagy a szakképzésről szóló törvény 12. § (2) bekezdés b) pontjában meghatározott intézmény szervezi.
 
 #### 6. A képzési program tartalma
 
@@ -568,7 +574,7 @@ kapcsolatosak,
 - b) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozik és bevándorolt, letelepedett, befogadott, hontalan vagy
 - c) a menedékjogról szóló törvény alapján menekült, oltalmazott vagy menedékes jogállású.
 
-(4) Az (1) bekezdésben meghatározott forrásokból támogatott, a hátrányos helyzetűek képzettségének, kompetenciáinak fejlesztése érdekében szervezett képzések, a közfoglalkoztatáshoz kapcsolódó, valamint a szociális szövetkezetekben történő foglalkoztatásra felkészítő képzések közül a miniszter rendeletben – a társadalmi felzárkózásért felelős miniszter, valamint a közfoglalkoztatásért felelős miniszter egyetértésével – meghatározhatja azokat a képzéseket, amelyeket kizárólag az állami felnőttképzési intézmény végezhet.
+(4)
 
 (5) Az (1) bekezdésben meghatározott forrásokból támogatott képzések közül – az 1. § (5) bekezdésében meghatározott képzések kivételével – a Kormány rendeletben meghatározhatja azokat a képzéseket, amelyeket a legfeljebb harminc tanóra terjedelmű, a Kormány rendeletében meghatározott tartalmú, a digitális írástudás megszerzését szolgáló képzéssel együtt kell megvalósítani.
 
@@ -604,19 +610,27 @@ kapcsolatosak,
 - a) a felnőttképzési tevékenység folytatásához szükséges engedélyezési eljárás és követelményrendszer részletes szabályait, a kérelem és bejelentés adattartalmát és benyújtásának részletes szabályait, a vagyoni biztosíték formáit, mértékét és felhasználásának szabályait, az engedéllyel rendelkező képző intézmények nyilvántartásának vezetésére vonatkozó részletes eljárási szabályokat és a nyilvántartásból való törlés eseteit, a felnőttképzési tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket, valamint az engedéllyel rendelkező intézmények ellenőrzésére vonatkozó részletes szabályokat,
 - b) a pályakövetési rendszer működésére, az adatszolgáltatás rendjére, továbbá a pályakövetési rendszer működtetéséért felelős szerv feladataira vonatkozó részletes szabályokat,
 - c) azokat a képzéseket, amelyeket a legfeljebb harminc tanóra terjedelmű, a digitális írástudás megszerzését szolgáló képzéssel együtt kell megvalósítani, valamint a digitális írástudás megszerzését szolgáló képzés tartalmát,
-- d) a felnőttképzési normatív támogatás részletes szabályait.
+- d) a felnőttképzési normatív támogatás részletes szabályait,
+- e) a hátrányos helyzetűek képzettségének, kompetenciáinak fejlesztése érdekében szervezett képzésekért, a hátrányos helyzetűek humán szolgáltatásokhoz való hozzáférésének javítása érdekében szervezett képzésekért, a közfoglalkoztatáshoz kapcsolódó, valamint a szociális szövetkezetben történő foglalkoztatásra felkészítő képzésekért, valamint e képzések szervezéséért felelős szervet.
 
-(2) Felhatalmazást kap a miniszter, hogy rendeletben – az f) pontban foglaltak vonatkozásában a társadalmi felzárkózásért felelős miniszter, valamint a közfoglalkoztatásért felelős miniszter egyetértésével – határozza meg
+(2) Felhatalmazást kap a miniszter, hogy rendeletben – az a) pontban foglaltak vonatkozásában az adópolitikáért felelős miniszter egyetértésével – határozza meg
 
 - a) a 3. § (4) bekezdése szerinti igazgatási szolgáltatási díjak mértékét, beszedésének, kezelésének, nyilvántartásának és felhasználásának szabályait, valamint az engedéllyel rendelkező intézmények ellenőrzése során kiszabott bírság befizetésének rendjét,
-- b) a felnőttképzési szakértői és felnőttképzési programszakértői tevékenység folytatásának részletes feltételeit, a felnőttképzési szakterületeket, a szakértői tevékenységre irányuló bejelentés adattartalmát, a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket, a felnőttképzési szakértők és a felnőttképzési programszakértők díjazására vonatkozó rendelkezéseket, valamint a Felnőttképzési Szakértői Bizottság feladataira és működésére, tagjainak megbízására, felmentésére, díjazására és összeférhetetlenségére vonatkozó részletes szabályokat,
+- b) a felnőttképzési szakértői és felnőttképzési programszakértői tevékenység folytatásának részletes feltételeit, a felnőttképzési szakterületeket, a szakértői tevékenységre irányuló bejelentés adattartalmát, a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket, a felnőttképzési szakértők és a felnőttképzési programszakértők díjazására vonatkozó rendelkezéseket, valamint a Felnőttképzési Szakértői Bizottság feladataira és működésére, tagjainak megbízására, felmentésére, kinevezésének visszavonására, díjazására és összeférhetetlenségére vonatkozó részletes szabályokat,
 - c) az OKJ-ba tartozó szakképesítések esetén a gyakorlati képzés teljesítésének és ellenőrzésének részletes szabályait,
 - d) a felnőttképzési minőségbiztosítási keretrendszert, a felnőttképzést folytató intézmények külső értékelésére vonatkozó részletes szabályokat, valamint a külső értékelést végző szervezetek kijelölésének szabályait,
 - e) a felnőttképzési szakmai programkövetelmények, valamint a felnőttképzési nyelvi programkövetelmények nyilvántartásba vételéhez szükséges szakmai végzettségek és nyelvi képzettségek azonosítóval ellátott besorolási szempontjait, a nyilvántartásba vétel követelményeit és eljárási rendjét, valamint a szakmai végzettség megszerzését igazoló dokumentum tartalmát és formáját,
-- f) azokat a képzéseket, amelyeket a hátrányos helyzetűek képzettségének, kompetenciáinak fejlesztése érdekében szervezett képzések, a közfoglalkoztatáshoz kapcsolódó, valamint a szociális szövetkezetekben történő foglalkoztatásra felkészítő képzések közül kizárólag az állami felnőttképzési intézmény végezhet,
+- f)
 - g) a bemeneti kompetenciamérés lefolytatására és eredményének figyelembevételére, valamint az előzetes tudásmérés lefolytatására, az előzetesen felmért tudásnak a képzés során történő beszámítására vonatkozó szabályokat és azon képzési egységek meghatározásának szabályait, amelyekre a tudásmérés irányul.
 
+(3) Felhatalmazást kap a társadalmi felzárkózásért felelős miniszter, hogy – az a) pontban foglaltak vonatkozásában a közfoglalkoztatásért felelős miniszter egyetértésével – határozza meg
+
+- a) a közfoglalkoztatáshoz kapcsolódó, valamint a szociális szövetkezetben történő foglalkoztatásra felkészítő képzésekért felelős szerv által – e felelőssége keretében a 3. § (1a) bekezdésben foglaltaknak megfelelően – szervezett képzéseinek, továbbá a társadalmi felzárkózást szolgáló és a közfoglalkoztatottak alapkompetencia-fejlesztő, a szakképzettséggel nem rendelkezők kompetenciafejlesztő képzéseinek részletes szabályait,
+- b) a hátrányos helyzetűek képzettségének, kompetenciáinak fejlesztése érdekében szervezett képzéseinek, a hátrányos helyzetűek szolgáltatásokhoz való hozzáférésének javítása érdekében szervezett képzéseinek, valamint a helyi, járási esélyegyenlőségi szakemberek és esélyegyenlőségi mentorok egyéb képzéseinek részletes szabályait.
+
 28/A. § Felhatalmazást kap a Kormány, hogy az igazságügyi szolgálatok jogakadémiája működtetéséért felelős szervet rendeletben jelölje ki.
+
+28/B. § Felhatalmazást kap a Kormány, hogy a felnőttképzési hatósági feladatokat ellátó szervet rendeletben jelölje ki.
 
 #### 15. Hatályba léptető rendelkezések
 
@@ -628,11 +642,7 @@ kapcsolatosak,
 
 30. § (1) A felnőttképzésről szóló 2001. évi CI. törvény (a továbbiakban: Fktv.) alapján intézmény-akkreditációval rendelkező intézmények – a 31. § (3) bekezdésében foglalt eltéréssel – a felnőttképzést folytató intézmények nyilvántartásában 2013. augusztus 31. napján szereplő képzéseik alapján 2014. augusztus 31-ig, vagy – amennyiben az intézmény akkreditációja korábbi időpontban veszti hatályát – az intézményakkreditáció hatályának lejáratáig, a 2013. január 1-jét követően intézményakkreditációt szerzett intézmények esetében 2015. március 31-ig a 2013. augusztus 31-én hatályos jogszabályi rendelkezések alapján indíthatnak képzést. A képzés indításának a felnőttképzést folytató intézmény által megtartott első képzési nap minősül. Az e képzéseket végző intézmények felnőttképzési tevékenységével, valamint intézmény-, és programakkreditációjának ellenőrzésével kapcsolatos ügyekben a hatóság jár el a 2013. augusztus 31. napján hatályos jogszabályi rendelkezések alapján.
 
-(2) A felnőttképzést folytató intézményeknek az akkreditált felnőttképzési programok nyilvántartásában 2013. augusztus 31. napján szereplő képzési programjai 2014. augusztus 31-ig, a 2013. január 1-jét követően programakkreditációt szerzett intézmények esetében 2015. március 31-ig megfelelnek az e törvény szerint a felnőttképzési tevékenység folytatásához szükséges engedély kiadásának feltételeként a képzéshez előírt képzési programnak.
-
-(3) A kamara a 18. §-ban, a hatóság a 19. §-ban foglaltaknak megfelelően 2014. március 31-ig megvizsgálja az akkreditált felnőttképzési programok nyilvántartásában 2013. augusztus 31. napján szereplő egyéb szakmai, valamint a nyelvi képzésre irányuló képzési programokat. A hatóság és a kamara vizsgálata annak megállapítására irányul, hogy az akkreditált képzési program – a program tartalmát érintő átalakítás nélkül – a 18–19. § szerinti felnőttképzési szakmai programkövetelmények, felnőttképzési nyelvi programkövetelmények nyilvántartásába való felvételhez felhasználható-e. A kamara és a hatóság a képzési program e törvény rendelkezéseinek megfelelő átalakítására – megjelölve annak szempontjait – a képzési programmal rendelkező intézményt kéri fel. A felkérést az intézmény nem köteles elfogadni.
-
-(4) A hatóság e törvény hatálybalépését követő harminc napon belül átadja a kamarának az akkreditált szakmai programokat a kamara (3) bekezdésben foglalt feladatának elvégzése érdekében.
+(2)–(4)
 
 31. § (1) E törvény rendelkezéseit a 2013. augusztus 31. napját követően indult engedélyezési eljárásoknál kell alkalmazni. A 2013. szeptember 1-jén folyamatban levő, a felnőttképzési tevékenység folytatásával és a felnőttképzési tevékenységet folytató intézmények ellenőrzésével kapcsolatos ügyekben az állami foglalkoztatási szerv, míg a felnőttképzést folytató intézmények és felnőttképzési programok akkreditációjával és ellenőrzésével, valamint a felnőttképzési szakértői tevékenység folytatásával kapcsolatos ügyekben a hatóság jár el az eljárás megindításának időpontjában hatályos jogszabályi rendelkezések alapján.
 
@@ -640,13 +650,13 @@ kapcsolatosak,
 
 (3) A felnőttképzést folytató intézmények a központi költségvetés, valamint az európai uniós források terhére a 2013. szeptember 1-je előtt létrejött támogatási szerződés alapján végzett képzéseket a képzés megvalósítására a támogatási szerződésben megállapított időtartam végéig az Fktv. 2013. augusztus 31-én hatályos rendelkezései szerint folytathatják le. A támogatási szerződés létrejöttének időpontjában intézményakkreditációval és a vonatkozó képzésekre programakkreditációval rendelkező intézmények akkreditációja – az akkreditációs tanúsítványban szereplő hatálytól függetlenül – a képzések befejezéséig tart. Az e képzéseket végző intézmények felnőttképzési tevékenységével, valamint intézmény-, és programakkreditációjának ellenőrzésével kapcsolatos ügyekben a hatóság jár el a 2013. augusztus 31. napján hatályos jogszabályi rendelkezések alapján.
 
-32. § A felnőttképzési szakértői nyilvántartásban 2013. augusztus 31. napján szereplő személyek 2014. február 28-ig az e törvény szerinti felnőttképzési szakértői vagy felnőttképzési programszakértői tevékenységet végezhetik azzal, hogy ha a felnőttképzési szakértői tevékenység folytatásának részletes szabályairól szóló miniszteri rendeletben foglaltak alapján a felnőttképzési szakértő bejelentett szakterülete kizárólag a felnőttképzési programakkreditáció, abban az esetben csak felnőttképzési programszakértői tevékenységet végezhet a megjelölt időpontig. Nyelvi képzésekkel összefüggő felnőttképzési szakértői tevékenységet a felnőttképzési szakértői nyilvántartásban szereplő olyan személy végezhet, aki az érintett nyelvből nyelvtanári végzettséggel rendelkezik.
+#### 32. §
 
-33. § (1) Az 1. § (7) bekezdésében foglalt adatszolgáltatási kötelezettséget első alkalommal e törvény hatálybalépését követő 90. napig kell teljesíteni.
-
-(2) A szakképzésről szóló 2011. évi CLXXXVII. törvény e törvény 38. § (5) bekezdésével megállapított 81. § (7) bekezdésében foglalt javaslatot első alkalommal e törvény hatálybalépését követő 90. napig kell megtenni.
+#### 33. §
 
 33/A. § E törvénynek a szakképzésről szóló 2011. évi CLXXXVII. törvény, a felnőttképzésről szóló 2013. évi LXXVII. törvény és az azokkal összefüggő tárgyú törvények módosításáról szóló 2015. évi LXVI. törvénnyel (a továbbiakban: Mód. tv.) megállapított rendelkezéseit – e törvénynek a Mód. tv.-vel megállapított 2. § 2. pontja és 17/B. §-a kivételével – a Mód. tv. hatálybalépésének napján folyamatban lévő képzésekben nem kell alkalmazni.
+
+33/B. § Az FSZB-nek a felnőttképzést folytató intézmények tevékenységének az e törvény 14. § (2) bekezdése szerinti külső értékelését első alkalommal 2018-ban kell elvégeznie azon intézményeknél, amelyek a külső értékelést – 2016. június 18-át megelőzően – a 2016. évben már elvégeztették.
 
 #### 17. Az Európai Unió jogának való megfelelés
 

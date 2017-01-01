@@ -46,7 +46,7 @@ egyes egészségügyet érintő törvények módosításáról
 
 34–38. §
 
-39. §
+39. § Hatályát veszti az Eütev. 35. §-a.
 
 #### 7. Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény módosítása
 

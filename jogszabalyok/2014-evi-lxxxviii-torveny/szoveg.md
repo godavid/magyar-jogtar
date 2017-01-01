@@ -31,7 +31,7 @@ Az Országgyűlés a biztosítottak érdekeinek védelme, az öngondoskodás ös
 - e) az önkéntes kölcsönös biztosító pénztárak, a magánnyugdíjpénztárak és a foglalkoztatói nyugdíjpénztárak tevékenységére;
 - f) azon szervezetek tevékenységére, amelyek kizárólag halál esetére vállalják szolgáltatás nyújtását, ha a szolgáltatás összege nem haladja meg az egy halálesetre jutó, helyben szokásos temetési költséget vagy a szolgáltatásokat természetben nyújtják;
 - g) a jogi személyiséggel nem rendelkező azon szervezetek tevékenységére, amelyek célja az, hogy tagjaik számára bárminemű díj fizetése vagy biztosítástechnikai tartalékok képzése nélkül kölcsönös védelmet nyújtsanak;
-- h) a Wesselényi Miklós Ár- és Belvízvédelmi Kártalanítási Alap tevékenységére;
+- h)
 - i) olyan szervezetek által nyújtott szolgáltatásokra, amelyek célja, hogy szolgáltatásokat nyújtsanak – gazdálkodó szervezethez, gazdálkodó szervezetek csoportjához, továbbá szakmához vagy szakmák csoportjához tartozó – alkalmazottaknak vagy önálló vállalkozó személyeknek elhalálozás, túlélés vagy a tevékenységgel való felhagyás vagy annak korlátozása esetén, függetlenül attól, hogy az ilyen tevékenységből származó kötelezettségvállalásokra a biztosítástechnikai tartalékok mindenkor teljes fedezetet biztosítanak-e;
 - j) az állami többségi részesedésű gazdasági társaság által folytatott vagy az állam által teljes egészében garantált viszontbiztosítási tevékenységre, ha az állam nyomós közérdek miatt folytat – jogszabályban meghatározott feltételekkel – nem piaci alapú, a tiltott állami támogatás szabályaival összeegyeztethető viszontbiztosítási tevékenységet, ideértve azt az esetet is, amikor e tevékenységét olyan piaci helyzet indokolja, amelyben nem lehetséges megfelelő piaci fedezetet találni.
 
@@ -493,7 +493,7 @@ előírásait az e törvényben foglalt eltérésekkel kell alkalmazni.
 - c) a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényben (a továbbiakban: Bszt.) meghatározott pénzügyi eszközre vonatkozóan végzett megbízás felvétele és továbbítása,
 - d) az értékpapír-kölcsönzés,
 - e) a biztosító által a biztosító anyavállalata, leányvállalata vagy részesedési viszonya alatt álló vállalkozása részére a biztosítási üzem működése és fenntartása körébe eső szolgáltatások nyújtása,
-- f) a Wesselényi Miklós Ár- és Belvízvédelmi Kártalanítási Alapról szóló 2003. évi LVIII. törvény 9. § (4) bekezdése szerinti tevékenység,
+- f)
 - g) az önkéntes kölcsönös biztosító pénztárakról szóló törvényben meghatározott tagszervezési tevékenység.
 
 (4) Viszontbiztosítási tevékenységgel közvetlenül összefüggő tevékenységnek minősül:
@@ -1323,7 +1323,10 @@ az e szolgáltatások tekintetében képzett biztosítástechnikai tartalékokat
 - d) a biztosító az általa kezelt portfólió részeként nem vásárolhat
   - da) saját maga által kibocsátott értékpapírt,
   - db) kapcsolt vállalkozása által kibocsátott értékpapírt, a szabályozott piacra bevezetett vagy a nyilvános árjegyzéssel rendelkező értékpapír kivételével,
-- e) a biztosító az általa kezelt portfólió javára nem köthet ügyletet – a fél évnél rövidebb lejáratú állampapír és a nyilvános, nyíltvégű befektetési jegy kivételével – szabályozott piacra be nem vezetett pénzügyi eszközre olyan vállalkozással, amelyben minősített befolyással rendelkezik, vagy amely a biztosítóban minősített befolyással rendelkezik.
+- e) a biztosító az általa kezelt portfólió javára nem köthet ügyletet – a fél évnél rövidebb lejáratú állampapír és a nyilvános, nyíltvégű befektetési jegy kivételével – szabályozott piacra be nem vezetett pénzügyi eszközre olyan vállalkozással, amelyben minősített befolyással rendelkezik, vagy amely a biztosítóban minősített befolyással rendelkezik,
+- f) a befektetés az ügyfél számára a befektetési politikával összhangban, szakszerű végrehajtás mellett, tisztességesen, átláthatóan, kellő gondossággal és az ügyfél érdekében valósuljon meg, különös tekintettel az árra, a költségre – az alapkezelés során kapott visszatérítést elvonáscsökkentésként beszámítva – és az elvárható hozamra.
+
+(1a) A biztosító köteles az általa felszámított bármely díjat, költséget vagy jutalékot, továbbá a képzett tartalék arányában felszámított elvonást úgy megnevezni, hogy abból, illetve a kapcsolódó meghatározásból egyértelműen megállapítható legyen ezek célja és mögöttes tartalma.
 
 (2) A biztosító szabályzatban határozza meg az (1) bekezdés a) pontjában meghatározott eszközök értékelésének elveire, továbbá a szerződők tájékoztatásának módjára és gyakoriságára vonatkozó szabályokat.
 
@@ -1534,6 +1537,24 @@ kell érteni.
 
 (2) A biztosító a szolgáltatása teljesítésének esedékességét csak olyan okirat bemutatásától teheti függővé, amely a biztosítási esemény bekövetkezésének igazolásához, illetve a teljesítendő szolgáltatás mértékének meghatározásához szükséges, a biztosítási szolgáltatás teljesítésének esedékességét a bejelentett biztosítási esemény tekintetében indult büntető- vagy szabálysértési eljárás jogerős befejezéséhez nem kötheti.
 
+#### 48/A. A megtakarítási jellegű életbiztosítások különös szabályai
+
+124/A. § (1) A megtakarítási jellegű, befektetési egységhez kötött életbiztosítás esetében a biztosító köteles befektetni az esedékes és befizetett biztosítási díj kockázati díjrésszel csökkentett
+
+- a) első éves díjrészének legalább a 20%-át,
+- b) második éves díjrészének legalább az 50%-át,
+- c) harmadik és minden azt követő éves díjrészeinek legalább 80%-át,
+
+azzal, hogy a díjrészhez kapcsolódó megképzett tartalékon arányosan felszámított elvonást a negyedik év kezdetétől a megfelelés céljából nem kell figyelembe venni.
+
+(2) Ha a szerződő fél a maradékjogával él, akkor az elszámolás alapja legalább az (1) bekezdés szerinti minimális befektetési értékek aktuális számlaértéke. Az elszámolás során – a maradékjog érvényesítésére vonatkozó rendelkezéstől eltekintve – az ügyfél rendelkezéseinek a konkrét költségvonzata érvényesíthető.
+
+(3) A megtakarítási jellegű, nem befektetési egységhez kötött életbiztosítás esetében – amennyiben a szerződő fél a maradékjogával él – a visszavásárlási érték a szerződés kezdetétől a maradékjog érvényesítésének időpontjáig eltelt biztosítási időszakhoz igazodó módon az esedékes és befizetett biztosítási díj kockázati díjrésszel csökkentett
+
+- a) első éves díjrészének legalább a 20%-a,
+- b) második éves díjrészének legalább az 50%-a,
+- c) harmadik és minden azt követő éves díjrészeinek legalább 80%-a.
+
 #### 49. A tőkegarancia és hozamgarancia
 
 125. § (1) Az eszközalap elnevezése, befektetési politikája, kereskedelmi kommunikációja vagy a biztosítási szerződési feltételek a tőke megóvására, illetve a hozamra vonatkozó garanciára való utalást (a továbbiakban: tőke-, illetve hozamgarancia) akkor tartalmazhatnak, ha a garancia megfelelő biztosítékkal garantált.
@@ -1692,7 +1713,7 @@ céljából a nemi hovatartozásra vonatkozó, illetve azzal összefüggő adato
 - i) az egészségügyről szóló 1997. évi CLIV. törvény 108. § (2) bekezdésében foglalt esetben az egészségügyi államigazgatási szervvel,
 - j) törvényben meghatározott feltételek megléte esetén a titkosszolgálati eszközök alkalmazására, titkos információgyűjtésre felhatalmazott szervvel,
 - k) a viszontbiztosítóval, a csoport másik vállalkozásával, valamint együttbiztosítás esetén a kockázatvállaló biztosítókkal,
-- l) törvényben szabályozott adattovábbítások során átadott adatok tekintetében a kötvénynyilvántartást vezető kötvénynyilvántartó szervvel, a kártörténeti nyilvántartást vezető kárnyilvántartó szervvel, továbbá a járműnyilvántartásban nem szereplő gépjárművekkel kapcsolatos közúti közlekedési igazgatási feladatokkal összefüggő hatósági ügyekben a közlekedési igazgatási hatósággal, valamint a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalával,
+- l) törvényben szabályozott adattovábbítások során átadott adatok tekintetében a kötvénynyilvántartást vezető kötvénynyilvántartó szervvel, a kártörténeti nyilvántartást vezető kárnyilvántartó szervvel, továbbá a járműnyilvántartásban nem szereplő gépjárművekkel kapcsolatos közúti közlekedési igazgatási feladatokkal összefüggő hatósági ügyekben a közlekedési igazgatási hatósággal, valamint a közúti közlekedési nyilvántartási szervével,
 - m) az állományátruházás keretében átadásra kerülő biztosítási szerződési állomány tekintetében – az erre irányuló megállapodás rendelkezései szerint – az átvevő biztosítóval,
 - n) a kárrendezéshez és a megtérítési igény érvényesítéséhez szükséges adatok tekintetében és az ezen adatok egymás közti átadásával kapcsolatban a Kártalanítási Számlát és a Kártalanítási Alapot kezelő szervezettel, a Nemzeti Irodával, a levelezővel, az Információs Központtal, a Kártalanítási Szervezettel, a kárrendezési megbízottal és a kárképviselővel, továbbá – a közúti közlekedési balesetével kapcsolatos kárrendezés kárfelvételi jegyzőkönyvéből a balesetben érintett másik jármű javítási adatai tekintetében az önrendelkezési joga alapján – a károkozóval,
 - o) a kiszervezett tevékenység végzéséhez szükséges adatok tekintetében a kiszervezett tevékenységet végzővel, továbbá a könyvvizsgálói feladatok ellátásához szükséges adatok tekintetében a könyvvizsgálóval,
@@ -1985,49 +2006,17 @@ van összefüggésben.
 
 159. § (1) A biztosító biztosítja, hogy az ügyfél a biztosító magatartására, tevékenységére vagy mulasztására vonatkozó panaszát szóban (személyesen, telefonon) vagy írásban (személyesen vagy más által átadott irat útján, postai úton, telefaxon, elektronikus levélben) közölhesse.
 
-(2) A biztosító
+(2) Telefonon történő panaszkezelés esetén a biztosító és az ügyfél közötti telefonos kommunikációt a biztosító hangfelvétellel rögzíti, és a hangfelvételt öt évig megőrzi. Erről az ügyfelet a telefonos ügyintézés kezdetekor tájékoztatni kell. Az ügyfél kérésére biztosítani kell a hangfelvétel visszahallgatását, továbbá térítésmentesen tizenöt napon belül rendelkezésre kell bocsátani a hangfelvételről készített hitelesített jegyzőkönyvet.
 
-- a) a szóbeli panaszt valamennyi, az ügyfelek számára nyitva álló helyiségben, annak nyitvatartási idejében, ennek hiányában a székhelyén minden munkanapon 8 órától 16 óráig, de legalább a hét egy munkanapján 7 és 21 óra között legalább tizenkét órán keresztül folyamatosan,
-- b) a telefonon közölt szóbeli panaszt minden munkanapon 8 órától 16 óráig, de legalább egy munkanapján 7 és 21 óra között legalább tizenkét órán keresztül folyamatosan,
-- c) az írásbeli panaszt elektronikus eléréssel – üzemzavar esetén megfelelő más elérhetőséget biztosítva – folyamatosan
+(3) A biztosító a panaszt és az arra adott választ öt évig őrzi meg, és azt a Felügyeletnek kérésére bemutatja.
 
-fogadja.
+(4) A biztosító a panasz kivizsgálásáért a fogyasztóval szemben külön díjat nem számíthat fel. A telefonon történő panaszkezelés emelt díjas szolgáltatással nem működtethető.
 
-(3) A biztosító a szóbeli panasz ügyfelek részére nyitva álló helyiségben vagy annak hiányában székhelyén történő kezelése esetén köteles biztosítani, hogy az ügyfeleknek lehetőségük legyen elektronikusan és telefonon keresztül is a személyes ügyintézés időpontjának előzetes lefoglalására. A személyes ügyintézés időpontja igénylésének napjától számított öt munkanapon belül a biztosító köteles személyes ügyfélfogadási időpontot biztosítani az ügyfél számára.
+(5) A biztosító köteles fogyasztóvédelmi ügyekben fogyasztóvédelmi ügyekért felelős kapcsolattartót kijelölni, és a Felügyeletnek tizenöt napon belül a felelős személyét, illetve annak változását írásban bejelenteni.
 
-(4) Telefonon történő panaszkezelés esetén a biztosító biztosítja az ésszerű várakozási időn belüli hívásfogadást és ügyintézést. A biztosító az ügyintézőjének – a biztosító felé indított hívás sikeres felépülésének időpontjától számított – öt percen belüli élőhangos bejelentkezése érdekében úgy köteles eljárni, ahogy az az adott helyzetben általában elvárható.
+(6) Viszontbiztosítás megkötése és nagykockázatra létrejövő biztosítási szerződés esetén a biztosítót az e §-ban meghatározott kötelezettség nem terheli.
 
-(5) Telefonon történő panaszkezelés esetén a biztosító és az ügyfél közötti telefonos kommunikációt a biztosító hangfelvétellel rögzíti, és a hangfelvételt öt évig megőrzi. Erről az ügyfelet a telefonos ügyintézés kezdetekor tájékoztatni kell. Az ügyfél kérésére biztosítani kell a hangfelvétel visszahallgatását, továbbá térítésmentesen tizenöt napon belül rendelkezésre kell bocsátani a hangfelvételről készített hitelesített jegyzőkönyvet.
-
-(6) A biztosító a szóbeli panaszt – a (7) bekezdésben meghatározott eltéréssel – azonnal megvizsgálja, és szükség szerint orvosolja. Ha az ügyfél a panasz kezelésével nem ért egyet, a biztosító a panaszról és az azzal kapcsolatos álláspontjáról jegyzőkönyvet vesz fel, és annak egy másolati példányát a személyesen közölt szóbeli panasz esetén az ügyfélnek átadja, telefonon közölt szóbeli panasz esetén az ügyfélnek – a (8) bekezdésben foglaltakkal egyidejűleg – megküldi, egyebekben az írásbeli panaszra vonatkozó rendelkezések szerint jár el.
-
-(7) Ha a panasz azonnali kivizsgálása nem lehetséges, a biztosító a panaszról jegyzőkönyvet vesz fel, és annak egy másolati példányát a személyesen közölt szóbeli panasz esetén az ügyfélnek átadja, telefonon közölt szóbeli panasz esetén az ügyfélnek – a (8) bekezdésben foglaltakkal egyidejűleg – megküldi, egyebekben az írásbeli panaszra vonatkozó rendelkezések szerint jár el.
-
-(8) A biztosító az írásbeli panasszal kapcsolatos, indokolással ellátott álláspontját a panasz közlését követő harminc napon belül megküldi az ügyfélnek. A biztosító a panaszkezelés során köteles úgy eljárni, hogy a körülmények által adott lehetőségekhez mérten elkerülje a pénzügyi fogyasztói jogvita kialakulását.
-
-(9) A panasz elutasítása esetén a biztosító válaszában írásban tájékoztatja az ügyfelet arról, hogy a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvényben (a továbbiakban: MNBtv.) meghatározott fogyasztóvédelmi rendelkezések megsértése esetén a Felügyeletnél fogyasztóvédelmi eljárást kezdeményezhet, vagy a szerződés létrejöttével, érvényességével, joghatásaival és megszűnésével, továbbá a szerződésszegéssel és annak joghatásaival kapcsolatos jogvita esetén bírósághoz fordulhat, vagy a Pénzügyi Békéltető Testület eljárását kezdeményezheti, amennyiben a Pénzügyi Békéltető Testület eljárására vonatkozó szabályok alapján fogyasztónak minősül. A biztosítónak tájékoztatni kell e fogyasztót arról, hogy tett-e általános alávetési nyilatkozatot, meg kell adnia a Pénzügyi Békéltető Testület székhelyét, telefonos és internetes elérhetőségét, valamint a levelezési címét, továbbá a fogyasztó külön kérésére meg kell küldenie a Pénzügyi Békéltető Testület által készített és a biztosító rendelkezésére bocsátott kérelem nyomtatványt.
-
-(10) A biztosító a panaszt és az arra adott választ öt évig őrzi meg, és azt a Felügyeletnek kérésére bemutatja.
-
-(11) A biztosító az ügyfelek panaszai hatékony, átlátható és gyors kezelésének eljárásáról, a panaszügyintézés módjáról, valamint a (12) bekezdés szerinti nyilvántartás vezetésének szabályairól szabályzatot (a továbbiakban: panaszkezelési szabályzat) készít. A biztosító a panaszkezelési szabályzatban tájékoztatja az ügyfelet a panaszügyintézés helyéről, levelezési címéről, elektronikus levelezési címéről, telefonszámáról és telefaxszámáról.
-
-(12) A biztosító az ügyfelek panaszairól, valamint az azok rendezését, megoldását szolgáló intézkedésekről nyilvántartást vezet.
-
-(13) A (12) bekezdés szerinti nyilvántartásnak tartalmaznia kell
-
-- a) a panasz leírását, a panasz tárgyát képező esemény vagy tény megjelölését,
-- b) a panasz benyújtásának időpontját,
-- c) a panasz rendezésére vagy megoldására szolgáló intézkedés leírását, elutasítás esetén annak indokát,
-- d) a c) pont szerinti intézkedés teljesítésének határidejét és a végrehajtásért felelős személy megnevezését, továbbá
-- e) a panasz megválaszolásának időpontját.
-
-(14) A biztosító a panaszkezelési szabályzatot az ügyfelek számára nyitva álló helyiségében, ennek hiányában a székhelyén kifüggeszti és a honlapján közzéteszi.
-
-(15) A biztosító a panasz kivizsgálásáért a fogyasztóval szemben külön díjat nem számíthat fel. A telefonon történő panaszkezelés emelt díjas szolgáltatással nem működtethető.
-
-(16) A biztosító köteles fogyasztóvédelmi ügyekben fogyasztóvédelmi ügyekért felelős kapcsolattartót kijelölni, és a Felügyeletnek tizenöt napon belül a felelős személyét, illetve annak változását írásban bejelenteni.
-
-(17) Viszontbiztosítás megkötése és nagykockázatra létrejövő biztosítási szerződés esetén a biztosítót az e §-ban meghatározott kötelezettség nem terheli.
+(7) A biztosító panaszkezelésének eljárására, valamint panaszkezelési szabályzatára vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
 
 ### XII. Fejezet — A JOGVÉDELMI BIZTOSÍTÁSRA VONATKOZÓ KÜLÖNÖS RENDELKEZÉSEK
 
@@ -2166,7 +2155,7 @@ fogadja.
 
 174. § A biztosító – ide nem értve a kisbiztosító-egyesületet – felszámolásával kapcsolatos eljárás lefolytatására a Fővárosi Törvényszék kizárólagos illetékességgel rendelkezik.
 
-175. § (1) Biztosító felszámolójának kizárólag az MNBtv. 39. §-ában meghatározott jogszabályok hatálya alá tartozó szervezetek felszámolását végző, nonprofit gazdasági társaság rendelhető ki vagy választható meg.
+175. § (1) Biztosító felszámolójának kizárólag a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény (a továbbiakban: MNBtv.) 39. §-ában meghatározott jogszabályok hatálya alá tartozó szervezetek felszámolását végző, nonprofit gazdasági társaság rendelhető ki vagy választható meg.
 
 (2) A felszámolót a 135–147. §-ban előírt titoktartási kötelezettség terheli.
 
@@ -3911,652 +3900,137 @@ fedezete nem elegendő, vagy az előírt mérték alá csökkent;
 
 #### 133. A csoportfelügyelet terjedelme
 
-327. § (1) A csoportfelügyelet alá tartozik az a biztosító és viszontbiztosító,
+327. § A csoportfelügyelet hatálya alá tartozó biztosítóra és viszontbiztosítóra, továbbá azon vállalkozásokra, amelyekre a csoportfelügyelet kiterjed, valamint a Felügyelet csoportfelügyelettel összefüggő tevékenységére vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
 
-- a) amely anyavállalata másik biztosítónak, viszontbiztosítónak vagy harmadik országbeli biztosítónak, viszontbiztosítónak, vagy részesedési viszonnyal rendelkezik legalább egy másik biztosítóban, viszontbiztosítóban vagy harmadik országbeli biztosítóban, viszontbiztosítóban,
-- b) amelynek anyavállalata biztosítói holdingtársaság, vegyes pénzügyi holdingtársaság, viszontbiztosító, harmadik országbeli biztosító vagy harmadik országbeli viszontbiztosító,
-- c) amelynek anyavállalata vegyes tevékenységű biztosítói holdingtársaság.
+#### 328–330. §
 
-(2) A csoportfelügyelet kiterjed az (1) bekezdésben foglaltakon túl
+#### 134.
 
-- a) a biztosító vagy viszontbiztosító anyavállalatára, vagy a biztosítóban vagy a viszontbiztosítóban részesedési viszonnyal rendelkező vállalkozásra,
-- b) a biztosító vagy viszontbiztosító leányvállalatára, vagy a biztosítónak vagy viszontbiztosítónak olyan vállalkozására, amelyben részesedési viszonya van,
-- c) a biztosító vagy viszontbiztosító anyavállalatának, vagy a biztosítóban vagy viszontbiztosítóban részesedési viszonnyal rendelkező vállalkozásának más leányvállalatára vagy olyan vállalkozására, amelyben részesedési viszonya van.
+#### 331–335. §
 
-(3) A csoportfelügyelet – a Felügyelet határozata alapján – nem terjed ki a biztosítóra, viszontbiztosítóra, biztosítói holdingtársaságra, vegyes pénzügyi holdingtársaságra és vegyes tevékenységű biztosítói holdingtársaságra, ha
+#### 135.
 
-- a) olyan harmadik országban van a székhelye, ahol a székhely szerinti állam jogrendszere nem teszi lehetővé a csoportfelügyelet ellátásához szükséges információk átadását,
-- b) bevonása a csoportfelügyelet céljára nézve félrevezető eredményt adna, vagy
-- c) bevonása a csoportfelügyelet céljára nézve elhanyagolható jelentőségű, kivéve, ha az egyedileg elhanyagolható jelentőségű biztosítók, viszontbiztosítók, biztosítói holdingtársaságok, vegyes pénzügyi holdingtársaságok vagy vegyes tevékenységű biztosítói holdingtársaságok együttesen már nem elhanyagolható jelentőségűek.
+#### 336. §
 
-(4) Amennyiben a (3) bekezdés b) és c) pontja alapján a vállalat nem kerül csoportfelügyelet alá, az erről szóló döntést megelőzően a csoportfelügyeletért felelős hatóság konzultál az érintett felügyeleti hatóságokkal.
+#### 136.
 
-(5) A Felügyelet a (3) bekezdés b) és c) pontja alapján kizárt vállalattól is kérhet adatot és információt a csoportfelügyelet gyakorlásához.
+#### 337–338. §
 
-(6) A (2) bekezdés a) és b) pontjában említett esetekben, amennyiben a részesedéssel rendelkező biztosító vagy viszontbiztosító, vagy az Európai Unión belül központi irodával rendelkező biztosítói holdingtársaság vagy vegyes pénzügyi holdingtársaság maga is a pénzügyi konglomerátumok kiegészítő felügyeletéről szóló törvény szerinti kiegészítő felügyelet hatálya alá tartozó szabályozott vállalkozás vagy vegyes pénzügyi holdingtársaság vagy annak kapcsolt vállalkozása, akkor a Felügyelet, mint a csoportfelügyeletért felelős hatóság – a többi érintett felügyeleti hatósággal folytatott konzultációt követően – dönthet úgy, hogy nem végzi el a kockázatkoncentráció-felügyeletet vagy a csoporton belüli ügyletekre vonatkozó felügyeletét, vagy ezek egyikét sem a részesedéssel rendelkező biztosító vagy viszontbiztosító, illetve biztosítói holdingtársaság vagy vegyes pénzügyi holdingtársaság szintjén.
+#### 137.
 
-(7) Ha a vegyes pénzügyi holdingtársaságra a pénzügyi konglomerátumok kiegészítő felügyeletéről szóló törvény vagy a Hpt. alapján vagy a Felügyelet megítélése szerint a magyarországi szabályozással egyenértékű szabályok vonatkoznak, akkor a Felügyelet, mint a csoportfelügyeletért felelős hatóság – a többi érintett hatósággal való konzultációt követően – kizárólag a pénzügyi konglomerátumok kiegészítő felügyeletéről szóló törvény vagy a Hpt. rendelkezéseit is alkalmazhatja, attól függően, hogy a vegyes pénzügyi holdingtársaság melyik törvény hatálya alá tartozik.
+#### 339. §
 
-(8) Ha az (1) bekezdés a) és b) pontja szerinti, tagállamban székhellyel rendelkező biztosítóban, viszontbiztosítóban vagy biztosítói holdingtársaságban részesedési viszonnyal rendelkezik egy szabályozott vállalkozás vagy vegyes pénzügyi holdingtársaság, és a Felügyelet a csoportfelügyeletet ellátó felügyeleti társaság, akkor a Felügyelet a többi érintett felügyeleti hatósággal való egyeztetést követően dönthet úgy, hogy nem végzi el a kockázati koncentráció felügyeletét vagy csoporton belüli ügyletek felügyeletét, vagy egyiket sem az anyavállalat szintjén.
+#### 138.
 
-(9) A Felügyelet, mint a csoportfelügyeletért felelős hatóság tájékoztatja az Európai Bankhatóságot, valamint az EBFH-t a (7) és a (8) bekezdés alapján meghozott határozatokról.
+#### 340. §
 
-328. § (1) A Felügyelet a csoportfelügyelet alá tartozó biztosítókról és viszontbiztosítókról nyilvántartást vezet.
+#### 139.
 
-(2) A Felügyelet feladata a 327. § (1) bekezdésében meghatározott, magyarországi székhelyű biztosítónak és viszontbiztosítónak az e fejezet szerinti csoportfelügyelete.
+#### 341. §
 
-(3) A csoportfelügyelet alá tartozó magyarországi székhelyű biztosító és viszontbiztosító két munkanapon belül köteles bejelenteni a Felügyeletnek a (2) bekezdés szerinti anya- és leányvállalati, valamint részesedési viszony létrejöttét, módosulását, illetve megszűnését.
+#### 140.
 
-(4) A 327. § (1) bekezdése alapján a csoportfelügyelet alá tartozó biztosító és viszontbiztosító a csoportfelügyelethez kapcsolódó információátadás rendjének bemutatását a Felügyelet rendelkezésére köteles bocsátani akkor, amikor első alkalommal kerül a 327. § (2) bekezdésének hatálya alá.
+#### 342. §
 
-(5) Ha a biztosító vagy viszontbiztosító anyavállalata, leányvállalata, olyan vállalkozása, amelyben a biztosító vagy a viszontbiztosító részesedési viszonnyal rendelkezik, illetőleg a biztosítóban vagy viszontbiztosítóban részesedési viszonnyal rendelkező vállalkozás első alkalommal kerül a 327. § (2) bekezdésének hatálya alá, akkor ezen vállalkozás nyilatkozatot köteles adni arról, hogy a biztosító vagy a viszontbiztosító csoportfelügyelete érdekében szükséges adatot, tényt és információt a Felügyelet rendelkezésére bocsátja.
+#### 141.
 
-(6) Ha a Felügyelet be nem jelentett anya- és leányvállalati, valamint részesedési viszonyt állapít meg, határozatban köteles felhívni a biztosítót vagy a viszontbiztosítót a viszony e törvényben meghatározottak szerinti kezelésére.
+#### 343. §
 
-329. § (1) Ha egy biztosító, viszontbiztosító, biztosítói holdingtársaság vagy vegyes pénzügyi holdingtársaság a csoportfelügyelet alá tartozik és egy tagállamban székhellyel rendelkező biztosítói holdingtársaságnak vagy vegyes pénzügyi holdingtársaságnak a leányvállalata, akkor a csoportfelügyeletet kizárólag arra a tagállamban székhellyel rendelkező anyavállalatra (a továbbiakban: EU-szintű anyavállalat) kell alkalmazni, amelynek nincs tagállamban székhellyel rendelkező anyavállalata.
+#### 142.
 
-(2) Ha az EU-szintű anyavállalat a pénzügyi konglomerátumok kiegészítő felügyeletéről szóló 2013. évi LXXXIII. törvény 7. § (2) bekezdése alapján kiegészítő felügyelet alá tartozó vállalat leányvállalata, akkor a Felügyelet – mint a csoportfelügyeletért felelős hatóság – dönthet úgy az érintett felügyeletekkel folyatott konzultációt követően, hogy nem szükséges a kockázati koncentráció és a csoportbeli ügyletek felügyelete az EU-szintű anyavállalat szintjén.
+#### 344. §
 
-(3) Ha egy csoportfelügyelet alá tartozó biztosítónak, viszontbiztosítónak, biztosítói holdingtársaságnak vagy vegyes pénzügyi holdingtársaságnak van egy másik tagállamban székhellyel rendelkező anyavállalata, akkor erre a tagállami szintű anyavállalatra a Felügyelet – az EU-szintű anyavállalattal folytatott egyeztetést követően – alkalmazhatja a csoportfelügyeletet vagy a csoport szavatolótőke-számítás egyes szabályait.
+#### 143.
 
-(4) A Felügyelet nem dönthet a tagállami szintű anyavállalat csoportfelügyeléséről, vagy az erre vonatkozó, már kiadott határozatát vissza kell vonnia, ha az EU-szintű anyavállalatnak a felügyeleti hatósága engedélyezte a 343–344. § alkalmazását.
+#### 345. §
 
-(5) Ha a Felügyelet a (3) bekezdés alapján tagállami szintű anyavállalatra alkalmazza a csoportfelügyeletet, akkor a szavatolótőke számításánál ugyanazt a módszert kell alkalmaznia, mint ami a tagállami szintű anyavállalat EU-szintű anyavállalata esetében alkalmazásra kerül.
+#### 144.
 
-(6) Ha a Felügyelet a (3) bekezdés alapján a tagállami szintű anyavállalatra alkalmazza a csoportfelügyeletet, valamint az EU-szintű anyavállalat a belső modell módszert alkalmazza a szavatolótőke-szükségletének megállapításához és a Felügyelet megítélése szerint ennek a módszernek az alkalmazása a tagállami szintű anyavállalat esetében félrevezető eredményt adna, mivel a tagállami szintű anyavállalat kockázati profilja jelentősen eltér az EU-szintű anyavállalat kockázati profiljától, akkor a Felügyelet többlettőke-követelményt írhat elő a tagállami szintű anyavállalat számára vagy – amennyiben ez előbbit nem tartja célszerűnek – előírhatja a standard módszer alkalmazását is.
+#### 346. §
 
-(7) A Felügyelet a (2) bekezdésben hozott határozatát, amely tartalmazza az eltérő módszertan előírásainak részletes indoklását, megküldi a tagállami szintű anyavállalatnak és az EU-szintű anyavállalat felügyeleti hatóságának.
+#### 145.
 
-(8) Ha a Felügyelet a (3) bekezdés alapján a tagállami szintű anyavállalatra alkalmazza a csoportfelügyeletet, akkor a tagállami szintű anyavállalat nem kérelmezheti a 343–344. §-ok alkalmazását.
+#### 347. §
 
-330. § (1) A Felügyelet megállapodást köthet egy olyan másik tagállamban lévő tagállami anyavállalat felügyeleti hatóságával, amely a tagállami anyavállalatára alkalmazza a csoportfelügyelet szabályait, ha a Felügyelet által felügyelt és a másik tagállamban székhellyel rendelkező tagállami szintű anyavállalat részesedési viszonyban áll egymással.
+#### 146.
 
-(2) Ha a Felügyelet és egy másik felügyeleti hatóság az (1) bekezdésben rögzített megállapodást kötött, akkor a megállapodásban rögzítik, hogy a két tagállami anyavállalat közül melyik esetében végzik el a csoportfelügyeleti feladatokat, figyelemmel a 329. § (3)–(8) bekezdésében foglaltakra.
+#### 348. §
 
-#### 134. A biztosító és viszontbiztosító korrigált szavatolótőke-megfelelése
+#### 147.
 
-331. § (1) A 327. § (1) bekezdés a) pontja alapján a csoportfelügyelet hatálya alá tartozó biztosító és viszontbiztosító a 333–339. § szerint számítja ki a szavatolótőkéjét.
+#### 349. §
 
-(2) A 327. § (1) bekezdés b) pontja alapján a csoportfelügyelet hatálya alá tartozó biztosító és viszontbiztosító a 333–339. § szerint számítja ki a szavatolótőkéjét azzal, hogy a biztosítói holdingtársaság és a vegyes pénzügyi holdingtársaság anyavállalatként úgy jár el, mint a 327. § (1) bekezdés a) pontja szerinti biztosító vagy viszontbiztosító.
+#### 148.
 
-(3) Ha a csoportfelügyelet hatálya alá tartozó vállalkozás észleli, hogy nem tesz eleget az összevont alapon számított szavatolótőke-szükséglet mértékének vagy megítélése szerint a következő három hónapban várhatóan nem fog eleget tenni annak, akkor erről haladéktalanul – de legkésőbb a tudomására jutásától számított öt munkanapon belül – írásban tájékoztatja a Felügyeletet.
+#### 350. §
 
-(4) A Felügyelet a (3) bekezdés szerinti tájékoztatást követően öt munkanapon belül tájékoztatja a felügyeleti kollégium tagjait a (3) bekezdés szerinti tájékoztatásról és az általa készített elemzésről.
+#### 149.
 
-332. § (1) A korrigált szavatolótőke-megfelelés számításának célja annak ellenőrzése, hogy a csoportfelügyelet alá tartozó biztosító vagy viszontbiztosító korrigált szavatolótőkéje fedezetet nyújt-e a korrigált szavatolótőke-szükségletére.
+#### 351. §
 
-(2) Ha a biztosító vagy viszontbiztosító leányvállalat vagy egy vállalkozás a biztosítóban vagy viszontbiztosítóban részesedési viszonnyal rendelkezik és ezen biztosító vagy viszontbiztosító anyavállalat egy másik biztosítóban vagy viszontbiztosítóban vagy részesedési viszonnyal rendelkezik egy másik biztosítóban vagy viszontbiztosítóban, a korrigált szavatolótőke-megfelelés számítását minden olyan biztosítónak és viszontbiztosítónak el kell végeznie, amely anyavállalat vagy részesedési viszonnyal rendelkezik egy másik biztosítóban vagy viszontbiztosítóban.
+#### 150.
 
-(3) Ha több biztosító vagy viszontbiztosító ugyanazon biztosítói holdingtársaság, viszontbiztosító, harmadik országbeli biztosító, harmadik országbeli viszontbiztosító vagy vegyes pénzügyi holdingtársaság leányvállalata, akkor a korrigált szavatolótőke-megfelelés számítását a biztosítói holdingtársaság, a viszontbiztosító, a harmadik országbeli biztosító, a harmadik országbeli viszontbiztosító vagy a vegyes pénzügyi holdingtársaság végzi el és adja át a csoportfelügyelet alá tartozó biztosító vagy viszontbiztosító részére.
+#### 352. §
 
-(4) Az összevont alapon számított szavatolótőke megfelelésére vonatkozó számításokat évente legalább egyszer kell elvégezni azzal, hogy, ha a csoport összetétele jelentősen megváltozik, akkor öt munkanapon belül a számításokat újra el kell végezni és a Felügyelet részére meg kell küldeni.
+#### 151.
 
-(5) Ha a Felügyelet észleli a csoport kockázati összetételének jelentős megváltozását, akkor határozatban kötelezi a (2) vagy (3) bekezdésbeli vállalkozást az újraszámításra.
+#### 353. §
 
-(6) A csoportfelügyeleti feladatok ellátása érdekében a Felügyelet eseti jelleggel jelentést, adatot, illetőleg információt kérhet a csoportfelügyelet alá tartozó biztosítótól, amely köteles azt a Felügyeletnek megadni.
+#### 152.
 
-(7) A csoportfelügyelet alá tartozó biztosítónak és viszontbiztosítónak rendelkeznie kell a csoportfelügyelet ellátásához szükséges adatok és információk szolgáltatására alkalmas információs rendszerrel, illetve azok megbízhatóságát biztosító belső ellenőrzési rendszerrel.
+#### 354. §
 
-(8) A 327. § (2) bekezdésében megjelölt vállalkozás – ha jogszabály másként nem rendelkezik – köteles a csoportfelügyelet alá tartozó biztosító és viszontbiztosító részére megadni a csoportfelügyelet ellátásához szükséges minden adatot és információt.
+#### 153.
 
-(9) Ha a 327. § (2) bekezdésében megjelölt vállalkozás nem szolgáltatja a csoportfelügyelet alá tartozó biztosító vagy viszontbiztosító részére a korrigált szavatolótőke-megfelelés számításához szükséges adatokat, akkor a csoportfelügyelet alá tartozó biztosító vagy viszontbiztosító köteles levonni a szavatoló tőkéből a 327. § (2) bekezdésében megjelölt vállalkozásában fennálló részesedés könyv szerinti értékét, valamint az ilyen vállalkozás részére nyújtott alárendelt kölcsöntőke könyv szerinti értékét.
+#### 355. §
 
-(10) A Felügyelet a 327. § (2) bekezdésében megjelölt vállalkozástól – eseti jelleggel – közvetlenül is kérhet a csoportfelügyeleti feladatok ellátása érdekében szükségessé váló adatot és információt.
+#### 154.
 
-333. § (1) A 327. § (1) bekezdés a) pontja alapján a csoportfelügyelet hatálya alá tartozó biztosító vagy viszontbiztosító az összevont szavatolótőke-megfelelés számítását a 336. § szerinti 1. módszer szerint végzi el azzal, hogy ha az 1. módszer alkalmazása félrevezető eredményt ad és a Felügyelet a csoportfelügyeletért felelős hatóság, akkor engedélyezheti – a többi érintett felügyeleti hatósággal való konzultációt követően – a 339. § szerinti 2. módszer vagy az 1. és 2. módszer kombinációjának alkalmazását.
+#### 356. §
 
-(2) A csoport szavatolótőke-megfelelés számítása során figyelembe kell venni a csoportba tartozó összes vállalkozást azzal, hogy a beszámítás során:
+#### 155.
 
-- a) a 336. § szerinti 1. módszer esetében az Szmt. szerint összeállított összevont (konszolidált) éves beszámoló készítésekor használt százalékos arányokat kell alkalmazni,
-- b) a 339. § szerinti 2. módszer esetében az anyavállalat vagy a részesedési viszonnyal rendelkező vállalkozás közvetlen vagy közvetett – az 5. mellékletben rögzített módon számított – tulajdoni hányada alapján kell az arányokat alkalmazni.
+#### 357. §
 
-(3) Ha valamely leányvállalatnál tőkehiány jelentkezik, a leányvállalat teljes tőkehiányát figyelembe kell venni. A Felügyelet egyedi mérlegelés alapján mentesítést adhat ezen előírás alkalmazása alól, és az arányos beszámítást engedélyezheti abban az esetben, ha az anyavállalat hitelt érdemlően bizonyítani tudja, hogy kötelezettségvállalás kizárólag tulajdoni hányada arányában terhelheti.
+#### 156.
 
-(4) Az összevonás módját a Felügyelet, ha ő a csoportfelügyeletért felelős felügyeleti hatóság, akkor az érintett felügyeleti hatóságokkal való konzultációt követően határozza meg, ha
+#### 358. §
 
-- a) az ellenőrző befolyás tőkekapcsolat nélkül valósul meg,
-- b) a Felügyelet vagy valamely érintett felügyeleti hatóság megállapította, hogy egy vállalkozás szavazati jogának vagy tőkéjének közvetett vagy közvetlen birtoklása részesedésnek tekinthető, mert ténylegesen jelentős befolyást gyakorol a csoportfelügyelet hatálya alá tartozó valamely vállalkozás a szóban forgó vállalkozás felett,
-- c) a Felügyelet vagy valamely érintett felügyeleti hatóság megállapította, hogy egy vállalkozás egy másik vállalkozás anyavállalata azáltal, hogy ténylegesen jelentős befolyást gyakorol felette.
+#### 157.
 
-334. § (1) A korrigált szavatolótőke-megfelelés számítása során ugyanazon tőkeelemet, azon vállalkozások között, amelyekre a csoportfelügyelet kiterjed, csak egyszer lehet számításba venni. Ennek érdekében a korrigált szavatolótőke-megfelelés számítása során figyelmen kívül kell hagyni:
+#### 359. §
 
-- a) a biztosító vagy viszontbiztosító minden olyan tőkeelemét, amelyet valamely olyan leányvállalata vagy valamely olyan vállalkozása, amelyben részesedési viszonnyal rendelkezik, szavatolótőke-szükségletének fedezeteként figyelembe vesz, és
-- b) a biztosító vagy viszontbiztosító leányvállalatának vagy részesedési viszonya alatt álló vállalkozásának minden olyan tőkeelemét, amelyet a biztosító vagy viszontbiztosító saját szavatolótőke-szükségletének fedezeteként figyelembe vesz, és
-- c) a biztosító vagy viszontbiztosító leányvállalatának vagy olyan vállalkozásának, amelyben részesedési viszonnyal rendelkezik, minden olyan tőkeelemét, amelyet a biztosító vagy viszontbiztosító egy másik olyan leányvállalata vagy egy másik olyan vállalkozása, amelyben részesedési viszonnyal rendelkezik, szavatolótőke-szükségletének fedezeteként figyelembe vesz.
+#### 158.
 
-(2) Egy életbiztosító,
+#### 360. §
 
-- a) amelynek biztosító az anyavállalata vagy abban a biztosító részesedési viszonnyal rendelkezik, eredménytartaléka és adózott eredménye, vagy
-- b) bármely leányvállalatának vagy olyan vállalkozásának, amelyben részesedési viszonnyal rendelkezik, jegyzett, de még be nem fizetett tőkéje
+#### 159.
 
-a korrigált szavatolótőke számítása során kizárólag akkor vehető figyelembe, ha az annak a biztosítónak, amely leányvállalat vagy amelyben részesedési viszonnyal rendelkezik egy vállalat, a szavatolótőkéjébe beszámítható.
+#### 361. §
 
-(3) A (2) bekezdésben foglaltaktól függetlenül nem vehető figyelembe:
+#### 160.
 
-- a) a biztosító vagy viszontbiztosító leányvállalata vagy a biztosító vagy viszontbiztosító olyan vállalkozása, amelyben részesedési viszonnyal rendelkezik, jegyzett, de még be nem fizetett tőkéjének azon része, amellyel összefüggésben a biztosítónak vagy viszontbiztosítónak az adott vállalkozás felé még kötelezettségvállalása keletkezhet,
-- b) a biztosító vagy viszontbiztosító jegyzett, de még be nem fizetett tőkéjének azon része, amellyel összefüggésben bármely leányvállalatának vagy bármely vállalkozásának, amelyben részesedési viszonnyal rendelkezik, még kötelezettségvállalása keletkezhet, és
-- c) a leányvállalat vagy olyan vállalkozás, amelyben részesedési viszonnyal rendelkezik, jegyzett, de még be nem fizetett tőkéjének azon része, amellyel összefüggésben a biztosító vagy viszontbiztosító valamely más leányvállalatának vagy más vállalkozásának, amelyben részesedési viszonnyal rendelkezik, még kötelezettségvállalása keletkezhet.
+#### 362. §
 
-(4) A Felügyelet egyedi mérlegelés alapján más, olyan szavatolótőke-elemek beszámíthatóságát is korlátozhatja, amelyek nem állnak szabadon a biztosító rendelkezésére és előírhatja, hogy egy adott leányvállalati biztosító vagy viszontbiztosító, vagy egy olyan biztosító vagy viszontbiztosító, amelyben egy vállalkozás részesedési viszonnyal rendelkezik, szavatolótőkéjének részét képező tétel a korrigált szavatolótőke-megfelelés számítása során csak akkor vehető figyelembe, ha az a leányvállalati biztosító vagy viszontbiztosító, vagy az olyan biztosító vagy viszontbiztosító, amelyben egy vállalkozás részesedési viszonnyal rendelkezik, szavatolótőkéjébe is beszámítható.
+#### 161.
 
-(5) A (2)–(4) bekezdésben meghatározott tőkeelemek összege nem haladhatja meg a leányvállalati biztosító vagy viszontbiztosító, vagy olyan biztosító vagy viszontbiztosító, amelyben egy vállalkozás részesedési viszonnyal rendelkezik, szavatolótőkéjét.
+#### 363. §
 
-(6) A korrigált szavatolótőke számítása során figyelmen kívül kell hagyni minden olyan tőkeelemet, amely a biztosító vagy viszontbiztosító és
+#### 162.
 
-- a) valamely leányvállalata vagy valamely vállalkozása, amelyben részesedési viszonnyal rendelkezik,
-- b) a biztosító vagy viszontbiztosító anyavállalata, vagy olyan vállalkozása, amelyben a biztosító részesedési viszonnyal rendelkezik, vagy
-- c) a b) pont szerinti vállalkozások valamelyikének másik leányvállalata vagy más vállalkozása, amelyben részesedési viszonnyal rendelkezik,
+#### 364. §
 
-között kölcsönös finanszírozás eredményeként keletkezett.
+#### 163.
 
-(7) Kölcsönös finanszírozásnak tekintendő, ha egy biztosító vagy viszontbiztosító leányvállalata vagy vállalkozása, amelyben részesedési viszonnyal rendelkezik, olyan harmadik vállalkozásnak az anyavállalata, vagy olyan harmadik vállalkozásban rendelkezik részesedési viszonnyal, vagy olyan harmadik vállalkozás részére nyújt kölcsönt, amely közvetlenül vagy közvetetten rendelkezik a biztosító vagy viszontbiztosító szavatolótőkéjének, illetve saját tőkéjének valamelyik elemével.
+#### 365. §
 
-(8) A korrigált szavatolótőke számítása során figyelmen kívül kell hagyni azon tőkeelemeket is, amelyeket a korrigált szavatolótőke számítására kötelezett biztosító vagy viszontbiztosító leányvállalata vagy olyan vállalkozása, amelyben részesedési viszonnyal rendelkezik, szavatolótőke számítása során ugyan figyelembe vesz, de az a biztosító vagy viszontbiztosító egy másik leányvállalata vagy másik vállalkozása, amelyben részesedési viszonnyal rendelkezik, által nyújtott kölcsönös finanszírozást takar.
+#### 164.
 
-(9) Ha biztosító vagy viszontbiztosító részesedési viszonnyal rendelkezik hitelintézetben, befektetési vállalkozásban, pénzügyi vállalkozásban, akkor részesedésének könyv szerinti értékét, valamint az előbb említett vállalkozások részére nyújtott alárendelt kölcsöntőke könyv szerinti értékét le kell vonnia a korrigált szavatolótőkéjének számítása során.
+#### 366. §
 
-335. § (1) A 327. § (1) bekezdés a) pontjában meghatározott biztosító vagy viszontbiztosító korrigált szavatolótőke-megfelelésének számításába valamennyi leányvállalatát vagy olyan vállalkozását, amelyben részesedési viszonnyal rendelkezik, be kell vonni.
+#### 165.
 
-(2) A Felügyelet egyedi mérlegelés alapján engedélyezheti, hogy a biztosító vagy a viszontbiztosító más tagállamban bejegyzett biztosítója vagy viszontbiztosítója – ha az leányvállalata vagy olyan vállalkozása, amelyben részesedési viszonnyal rendelkezik – szavatolótőke-szükségletét és szavatolótőkéjét az adott ország előírásainak megfelelően számított értéken vegye figyelembe a korrigált szavatolótőke-megfelelés számításakor.
-
-(3) A korrigált szavatolótőke-megfelelés számítása során a biztosító vagy viszontbiztosító valamennyi leányvállalatát vagy olyan vállalkozását, amelyben részesedési viszonnyal rendelkezik, ha az viszontbiztosító, az e törvényben rögzített szabályoknak megfelelően kalkulált tőkekövetelményekre vonatkozó előírások alapján veszi figyelembe.
-
-(4) Ha a biztosító biztosítói holdingtársaságon vagy vegyes pénzügyi holdingtársaságon keresztül rendelkezik részesedési viszonnyal más biztosítóban, viszontbiztosítóban, harmadik országbeli biztosítóban vagy harmadik országbeli viszontbiztosítóban, a közbenső biztosítói holdingtársaság vagy vegyes pénzügyi holdingtársaság szavatolótőke-szükségletét a biztosító korrigált szavatolótőke-szükségletének számítása során nullának kell tekinteni, a szavatolótőke-elemei pedig megegyeznek a (3) bekezdésben megjelölt tőkekövetelmények számításánál figyelembe vehető tőkeelemekkel.
-
-(5) Ha egy biztosító vagy viszontbiztosító részesedési viszonnyal rendelkezik egy harmadik országbeli biztosítóban vagy viszontbiztosítóban, akkor ezeket a csoport szavatolótőke-megfelelés számítása során biztosítóként vagy viszontbiztosítóként kell kezelni.
-
-(6) Ha a harmadik országbeli biztosítóra az e törvényben rögzítettekkel egyenértékű engedélyezési és szavatolótőke-követelmények vonatkoznak, a Felügyelet érvényben lévő felügyeleti megállapodáson alapuló egyedi mérlegelés alapján engedélyezheti, hogy a biztosító vagy viszontbiztosító a harmadik országbeli kapcsolt biztosítója vagy viszontbiztosítója szavatolótőke-szükségletét és szavatolótőkéjét az adott ország előírásainak megfelelően számított értéken vegye figyelembe a korrigált szavatolótőke-megfelelés számításakor.
-
-(7) Annak megállapítására, hogy egy harmadik ország jogrendje a biztosítók vagy viszontbiztosítók szavatolótőke-szükséglete és szavatolótőkéje tekintetében egyenértékű, a Bizottság által hozott határozatban foglaltakat kell figyelembe venni.
-
-(8) Ha a Bizottság a (7) bekezdés szerint nem hoz határozatot és a Felügyelet a csoportfelügyeletért felelős hatóság, akkor a Felügyelet – az EBFH közreműködésével – a 327. § szerinti valamely vállalkozás kérésére vagy hivatalból megállapíthatja a vizsgálat lefolytatása után, hogy egyenértékű-e a harmadik ország vonatkozó jogrendje.
-
-(9) A (8) bekezdésben meghatározott vizsgálat során az EBFH közreműködésével a Felügyelet egyeztet az érintett felügyeleti hatóságokkal.
-
-(10) A Felügyelet (8) bekezdés szerinti határozata nem lehet ellentmondásban a harmadik országgal kapcsolatban hozott korábbi határozatokkal, kivéve, ha a fogadó országban vagy a harmadik országban a vonatkozó szabályozás jelentősen megváltozott.
-
-(11) Ha a Felügyelet nem a csoportfelügyeletért felelős hatóság, de érintett felügyeleti hatóság,
-
-- a) akkor részt vesz a (9) bekezdés szerinti egyeztetésen,
-- b) ha nem ért egyet a csoportfelügyeletért felelős hatóság (4) bekezdés szerinti határozatával, akkor a (9) bekezdésben meghatározott egyeztetés során a határozat közlésétől számított három hónapon belül az EBFH-hoz fordulhat segítség kérése érdekében.
-
-(12) Ha a Bizottságnak a Szolvencia 2 irányelv 227. cikk (5) bekezdésében meghatározott tárgykörben kiadott rendelete alapján egy harmadik ország szavatolótőke-megfelelési rendszere ideiglenesen egyenértékű, akkor azt a harmadik országot a (6) bekezdés tekintetében egyenértékűnek kell tekinteni.
-
-#### 135. A korrigált szavatolótőke-megfelelés 1. számítási módszere: konszolidált beszámolón alapuló módszer
-
-336. § (1) Ha a biztosító vagy viszontbiztosító anyavállalat részesedési viszonnyal rendelkezik, akkor korrigált szavatolótőke-megfelelését az Szmt. összevont (konszolidált) éves beszámolóra vonatkozó előírásai szerint összeállított összevont (konszolidált) beszámolók alapján számítja.
-
-(2) Az anyavállalati vagy részesedési viszonnyal rendelkező biztosító vagy viszontbiztosító korrigált szavatolótőke-megfelelését az a) és b) pontban foglaltak különbségeként kell számítani:
-
-- a) az összevont (konszolidált) alapon számított szavatolótőke,
-- b) az összevont (konszolidált) alapon számított szavatolótőke-szükséglet.
-
-(3) A (2) bekezdés b) pontja szerinti érték minimuma az anyavállalati vagy részesedési viszonnyal rendelkező biztosító vagy viszontbiztosító minimális tőkeszükséglete és a leányvállalati vagy olyan biztosító vagy viszontbiztosító, amelyben egy vállalkozás részesedési viszonnyal rendelkezik, minimális tőkeszükséglete.
-
-(4) A szavatolótőke és a szavatolótőke-szükséglet meghatározása során a részesedési viszonyban lévő vállalkozás, az anyavállalat és a leányvállalat esetén az összevont (konszolidált) beszámolók összeállítása során használt százalékos arányok kerülnek alkalmazásra.
-
-(5) Az (1) bekezdés b) pontja szerinti összevont (konszolidált) alapon számított szavatolótőke-szükséglet meghatározása
-
-- a) a standard formula alapján, vagy
-- b) a jóváhagyott belső modell alapján
-
-történhet.
-
-(6) A (3) bekezdés szerinti minimális tőkeszükségletet a biztosítók és a viszontbiztosítók szavatolótőkéjéről és biztosítástechnikai tartalékairól szóló kormányrendeletben meghatározott figyelembe vehető alapvető szavatoló tőkével kell fedezni.
-
-#### 136. Csoportszintű belső modell
-
-337. § (1) Ha egy biztosító vagy viszontbiztosító és ezek leányvállalatai, kapcsolt vállalkozásai vagy egy biztosítói holdingtársaság vagy egy vegyes pénzügyi holdingtársaság leányvállalatai és kapcsolt vállalkozásai együttesen kérelmezik
-
-- a) a csoport szavatolótőke-szükséglet, vagy
-- b) a szavatolótőke-szükséglet
-
-belső modell alapján történő számítása engedélyezését, akkor a Felügyelet és érintett felügyeleti hatóságok együttesen járnak el (a továbbiakban: többoldalú eljárás) az engedély megadása vagy az engedély feltételekkel történő megadása vonatkozásában.
-
-(2) Ha a Felügyelet látja el a csoportfelügyeletet, akkor az (1) bekezdésben meghatározott eljárás megkezdésekor a Felügyelet
-
-- a) haladéktalanul továbbítja a szükséges információkat és dokumentumokat a felügyeleti kollégium tagjai számára, és
-- b) ezzel egyidejűleg tájékoztatja a felügyeleti kollégium tagjait a határozattervezetre vonatkozó vélemény, elemzés és fenntartás Felügyelet részére történő megküldésének határidejéről.
-
-(3) A Felügyelet a többoldalú eljárás keretében csak valamennyi, az eljárásban részt vevő tagállam érintett felügyeleti hatósága egyetértésével hozhat érvényes határozatot (a továbbiakban: többoldalú eljárás keretében hozott határozat), amely határozat meghozatalának határideje a hiánytalan kérelem beérkezésétől számított hat hónap.
-
-(4) Ha az eljárásban részt vevő tagállam érintett felügyeleti hatósága egyetértésének hiánya miatt a többoldalú eljárás eredménytelen, akkor a (3) bekezdésben rögzített határidőn belül az eljárásban résztvevő bármelyik tagállam érintett felügyeleti hatósága kérésére a Felügyelet az EBFH-val a többoldalú eljárás eredménytelensége vonatkozásában egyeztetést köteles folytatni vagy saját kezdeményezésére egyeztetést folytathat.
-
-(5) Ha az eljárásban részt vevő tagállam érintett felügyeleti hatósága egyetértésének hiánya miatt a többoldalú eljárás eredménytelen, a Felügyelet a többoldalú eljárás lezárultát követő tíz munkanapon belül, az eljárásban részt vevő valamennyi tagállam érintett felügyeleti hatóságának a többoldalú eljárás során adott véleményére, elemzésére és fenntartására figyelemmel hozza meg a határozatát.
-
-(6) Ha a Felügyelet a (4) bekezdés szerinti egyeztetést folytat az EBFH-val, akkor a (3) bekezdéstől eltérően az eljárás határideje az EBFH-nak az 1094/2010/EU rendelet 19. cikk (3) bekezdése szerinti határozatnak a Felügyelet részére történő átadását követő tíz munkanap elteltével jár le.
-
-(7) A (6) bekezdés esetén a megkeresést követő egy hónapon belül az EBFH határozatot hoz. A Felügyelet, mint a csoportfelügyeletért felelős hatóság az EBFH határozatnak megfelelően hozza meg saját határozatát, amelyet az érintett felügyeleti hatóságok irányadónak tekintenek és teljesítik az abban foglaltakat.
-
-(8) A Felügyelet az (5) és (7) bekezdés szerinti – részletes indoklást is tartalmazó – határozatát közli a többoldalú eljárásban részt vevő valamennyi tagállam érintett felügyeleti hatóságával és a csoportfelügyelet alá tartozó anyavállalattal.
-
-(9) Ha az eljárás lefolytatására másik tagállam érintett felügyeleti hatósága jogosult és a Felügyelet érintett felügyeleti hatóság, akkor a Felügyelet az eljárásra jogosult tagállam érintett felügyeleti hatósága által meghatározott határidőn belül megküldi a véleményét, fenntartását.
-
-(10) Ha a csoportfelügyelet tekintetében érintett felügyeleti hatóság – amely nem a Felügyelet – az (1) bekezdés szerinti eljárást követően döntést hozott, határozata Magyarországon közvetlenül alkalmazandó és végrehajtható. A Felügyelet a tagállam érintett felügyeleti hatósága határozatának szövegét magyar nyelven a honlapján közzéteszi. A Felügyelet hatáskörébe tartozó szervezet tekintetében a más tagállam érintett felügyeleti hatósága által hozott határozatban foglaltak végrehajtására, teljesítésének ellenőrzésére, az ellenőrzés alapján hozható intézkedésre a Felügyelet által hozott határozatokra vonatkozó magyar jogszabályok alkalmazandóak.
-
-(11) Ha a Felügyelet nem a csoportfelügyeletért felelős hatóság és a felügyelete alá tartozó, csoportbeli biztosító vagy viszontbiztosító kockázati profilja jelentősen eltér a belső modell alapjául szolgáló feltevésektől, akkor többlettőke-követelményt írhat elő a biztosító vagy viszontbiztosító számára, amíg az nem bizonyítja megnyugtatóan a Felügyelet számára, hogy nem indokolt a többlettőke-követelmény. A Felügyelet ezen határozatáról és annak indoklásáról írásban tájékoztatja a csoportfelügyeletért felelős hatóságot és a többi érintett hatóságot.
-
-338. § (1) Azon vállalkozások vonatkozásában, amelyekre a csoportfelügyelet kiterjed, a Felügyelet mint a csoportfelügyeletért felelős hatóság a kockázati profilt figyelembe veszi a csoport szavatolótőke-szükséglet meghatározásakor, így különösen, ha
-
-- a) a kapcsolt biztosító vagy viszontbiztosító szavatolótőke-szükségletéhez többlettőke-követelmény került előírásra, vagy
-- b) a kockázatok nehezen számszerűsíthetők vagy egyedi jellegűek.
-
-(2) Ha a csoportfelügyelet keretében a felügyelt vállalkozások összevont alapon számított szavatolótőke-szükséglete nem megfelelően fedi le a vállalkozások együttes kockázati profilját, akkor a Felügyelet többlettőke-követelményt írhat elő a biztosító vagy viszontbiztosító számára.
-
-#### 137. A korrigált szavatolótőke-megfelelés 2. számítási módszere: levonás és összeadás módszere
-
-339. § (1) Ha a biztosító vagy viszontbiztosító anyavállalat vagy részesedési viszonnyal rendelkezik más biztosítóban vagy viszontbiztosítóban, akkor korrigált tőkemegfelelését az a) és b) pontban foglaltak különbségeként kell számítani:
-
-- a) a biztosító vagy viszontbiztosító szavatolótőkéjének és a leányvállalati biztosító vagy viszontbiztosító vagy olyan biztosító vagy viszontbiztosító, amelyben egy vállalkozás részesedési viszonnyal rendelkezik, szavatolótőkéjéből az anyavállalati vagy részesedési viszonnyal rendelkező biztosító vagy viszontbiztosító tulajdoni hányadával arányos részének összege,
-- b) a leányvállalati biztosító vagy viszontbiztosító, vagy olyan biztosító vagy viszontbiztosító, amelyben egy vállalkozás részesedési viszonnyal rendelkezik, az anyavállalati vagy részesedési viszonnyal rendelkező biztosítóban, vagy viszontbiztosítóban lévő befektetéseinek könyv szerinti értékének, az anyavállalati vagy részesedési viszonnyal rendelkező biztosító vagy viszontbiztosító szavatolótőke-szükségletének, és a leányvállalati vagy olyan biztosító vagy viszontbiztosító, amelyben egy vállalkozás részesedési viszonnyal rendelkezik, szavatolótőke-szükséglete arányos részének összege.
-
-(2) Egy biztosító vagy viszontbiztosító, amely leányvállalat vagy abban egy vállalkozás részesedési viszonnyal rendelkezik, szavatolótőkéjének és szavatolótőke-szükségletének meghatározása során ugyanazon részesedési arányokkal kell számolni. A szavatolótőke számításánál és a szavatolótőke-szükséglet meghatározásánál a közvetett részesedéseket is figyelembe kell venni.
-
-(3) Ha egy biztosítóban vagy viszontbiztosítóban részben vagy egészben közvetett tulajdona van a számítások elvégzésére kötelezett biztosítónak vagy viszontbiztosítónak, akkor szavatolótőkéjének és szavatolótőke-szükségletének meghatározása során arányosan figyelembe kell vennie ezen részesedést is.
-
-(4) Ha a biztosító, viszontbiztosító és kapcsolt vállalkozásai vagy egy biztosító holdig társaság vagy vegyes pénzügyi holdingtársaság kapcsolt vállalkozásai a 337. §-nak megfelelően együttesen nyújtanak be kérelmet a belső modell módszer alkalmazására, akkor a 337. § alkalmazandó.
-
-#### 138. A biztosítói holdingtársaság és a vegyes pénzügyi holdingtársaság szavatolótőke-megfelelése a csoportfelügyelet tekintetében
-
-340. § Ha egy biztosító vagy viszontbiztosító egy biztosítói holdingtársaság vagy vegyes pénzügyi holdingtársaság leányvállalata és a Felügyelet a csoportfelügyeletért felelős felügyeleti hatóság, akkor a Felügyelet engedélyezi, hogy a biztosító holdingtársaság vagy a vegyes pénzügyi holdingtársaság végezze el a szavatolótőke-megfelelésének számítását e résznek megfelelően azzal, hogy az anyavállalatot úgy kell kezelni a szavatolótőke-szükséglet meghatározása során, mintha biztosító vagy viszontbiztosító lenne.
-
-#### 139. Biztosító vagy viszontbiztosító leányvállalataival kapcsolatos feltételek
-
-341. § (1) A 343–344. § alkalmazandó minden olyan biztosítóra vagy viszontbiztosítóra, amely egy biztosító vagy viszontbiztosító leányvállalata, ha
-
-- a) a leányvállalat tekintetében a csoportfelügyeletért felelős hatóság nem hozott határozatot, azonban a csoportfelügyelet kiterjed rá,
-- b) az anyavállalat kockázatkezelése és belső ellenőrzési mechanizmusai kiterjednek a leányvállalatra és az anyavállalat eleget tesz az érintett felügyeleti hatóságok elvárásainak a leányvállalat prudens irányítását illetően,
-- c) az anyavállalat megkapta a 349. § (6) bekezdése és a 359. § (2) bekezdése szerinti engedélyt, és
-- d) az anyavállalat 343–344. § alkalmazása iránti engedélykérelmet nyújtott be és az engedélykérelemnek a hatóság helyt adott.
-
-(2) E § rendelkezéseit a Bizottságnak a Szolvencia 2 irányelv 241. cikk a) pontjában meghatározott tárgykörben kiadott rendeletében megállapított szabályokkal együtt kell alkalmazni.
-
-#### 140. Biztosító vagy viszontbiztosító leányvállalataival kapcsolatosan határozat a kérelemről
-
-342. § (1) A 343–344. §-ban meghatározott szabályok alkalmazása iránti engedélykérelmek esetében a Felügyelet mint érintett felügyeleti hatóság a felügyeleti kollégium keretében – a többi érintett felügyeleti hatósággal – teljes körű konzultációt folytat egyrészt annak eldöntésére, hogy megadják-e a kért engedélyt, másrészt, hogy adott esetben meghatározzák azokat a többletfeltételeket, amelyekhez az engedélyt kötik.
-
-(2) Az (1) bekezdés szerinti kérelmet kizárólag a Felügyeletnek kell benyújtani, amennyiben ő a leányvállalatot korábban engedélyező felügyeleti hatóság. A Felügyelet ez esetben haladéktalanul tájékoztatja a felügyeleti kollégium tagjait, valamint továbbítja számukra a teljes kérelmet.
-
-(3) A Felügyelet a (2) bekezdés szerinti esetben mindent megtesz annak érdekében, hogy a kérelemről – annak a felügyeleti kollégium valamennyi felügyeleti hatósága által történt kézhezvételét követő – három hónapon belül – az érintett felügyeleti hatóságokkal közös – határozatot hozzon.
-
-(4) Ha a (3) bekezdésben említett három hónapos időszak alatt valamelyik érintett felügyeleti hatóság az ügyet – az 1094/2010/EU rendelet 19. cikkével összhangban – az EBFH elé utalja, akkor a Felügyelet mint a csoportfelügyeletért felelős hatóság köteles a döntését elhalasztani és megvárni az EBFH által – az 1094/2010/EU rendelet 19. cikk (3) bekezdése alapján – hozott határozatot, majd az EBFH határozatának megfelelően köteles meghozni saját határozatát. Amennyiben a Felügyelet nem a csoportfelügyeletért felelős hatóság, hanem érintett felügyeleti hatóságként jár el, úgy köteles elismerni az említett határozatot és köteles teljesíteni az abban foglaltakat.
-
-(5) Amennyiben az EBFH – az 1094/2010/EU rendelet 41. cikk (2) és (3) bekezdésével, illetve 44. cikke (1) bekezdésének harmadik albekezdésével összhangban – a javasolt határozatot elutasítja, a Felügyelet mint a csoportfelügyeletért felelős hatóság hozza meg a végső döntést. Amennyiben a Felügyelet nem a csoportfelügyeletért felelős hatóság, hanem érintett felügyeleti hatóságnak minősül, úgy köteles elismerni az említett határozatot és köteles teljesíteni az abban foglaltakat.
-
-A három hónapos időtartam eltelte vagy az együttes határozat meghozatala után az ügy már nem utalható az EBFH elé.
-
-(6) Ha az érintett felügyeleti hatóságok megállapodtak a (3) bekezdésben említett közös határozatban, a Felügyelet mint a leányvállalatot engedélyező felügyeleti hatóság köteles a kérelmező rendelkezésére bocsátani a határozatot.
-
-(7) Ha a (3) bekezdésben meghatározott három hónapos időtartamon belül a felügyeleti hatóságok nem hoznak közös határozatot, a Felügyelet mint a csoportfelügyeletért felelős hatóság saját maga határoz a kérelemről.
-
-(8) Döntése során a Felügyelet mint a csoportfelügyeletért felelős hatóság megfelelően figyelembe veszi a következőket:
-
-- a) bármely álláspont vagy fenntartás, amelyet a többi érintett felügyeleti hatóság az alkalmazandó időtartam során kifejezett;
-- b) bármely fenntartás, amelyet a felügyeleti kollégiumon belüli többi érintett felügyeleti hatóság az alkalmazandó időtartam során kifejezett.
-
-(9) A (7) bekezdés szerinti határozat indokolásában ki kell térni a többi érintett felügyeleti hatóság fenntartásaitól való bármely jelentős eltérés magyarázatára. A Felügyelet mint a csoportfelügyeletért felelős hatóság a kérelmező és a többi érintett felügyeleti hatóság rendelkezésére bocsátja a határozat másolatát.
-
-(10) Amennyiben a Felügyelet nem a csoportfelügyeletért felelős hatóság, hanem érintett felügyeleti hatóságnak minősül, úgy köteles magára nézve irányadónak elismerni a (7) bekezdés szerinti határozatot és köteles teljesíteni az abban foglaltakat.
-
-(11) A Felügyelet e § szerinti jogaira és kötelezettségeire vonatkozó részletszabályokat a Bizottságnak a Szolvencia 2 irányelv 237. cikk (4) bekezdésében és a 241. cikk c) pontjában meghatározott tárgykörökben kiadott rendeletei tartalmazzák.
-
-#### 141. Biztosító vagy viszontbiztosító leányvállalataival kapcsolatosan a szavatolótőke-szükséglet meghatározása
-
-343. § (1) A leányvállalat a 337. § sérelme nélkül a (2)–(4) bekezdésben meghatározottak szerint számítja ki szavatolótőke-szükségletét.
-
-(2) Ha a Felügyelet nem a csoportfelügyeletért felelős hatóság és a felügyelete alá tartozó, csoportbeli biztosító vagy viszontbiztosító kockázati profilja jelentősen eltér a belső modell alapjául szolgáló feltevésektől, akkor
-
-- a) többlettőke-követelményt írhat elő a leányvállalat biztosító vagy viszontbiztosító számára, amíg az nem bizonyítja megnyugtatóan a Felügyelet számára, hogy nem indokolt a többlettőke-követelmény, vagy
-- b) a standard formula által való szavatolótőke-szükséglet meghatározását írhatja elő a leányvállalat biztosító vagy viszontbiztosító számára.
-
-(3) A Felügyelet a (2) bekezdésben meghatározott határozatáról és annak indokairól írásban tájékoztatja a csoportfelügyeletért felelős hatóságot, a többi érintett hatóságot és a leányvállalatot.
-
-(4) Ha a Felügyelet nem a csoportfelügyeletért felelős hatóság és a felügyelete alá tartozó, csoportbeli biztosító vagy viszontbiztosító kockázati profilja jelentősen eltér a standard formula alapjául szolgáló feltevésektől, akkor
-
-- a) többlettőke-követelményt írhat elő a leányvállalat biztosító vagy viszontbiztosító számára, amíg az nem bizonyítja megnyugtatóan a Felügyelet számára, hogy nem indokolt a többlettőke-követelmény, vagy
-- b) a Felügyelet előírhatja a leányvállalat biztosító vagy viszontbiztosító számára, hogy helyettesítse az élet-, nem-élet- és az egészségbiztosítási kockázati modul kiszámításakor alkalmazott paraméterek egy részét a biztosítók és a viszontbiztosítók szavatolótőkéjéről és biztosítástechnikai tartalékairól szóló kormányrendeletben meghatározottak szerint.
-
-(5) A Felügyelet a (4) bekezdésben meghatározott határozatáról és annak indokairól írásban tájékoztatja a csoportfelügyeletért felelős hatóságot, a többi érintett hatóságot és a leányvállalatot.
-
-(6) A felügyeleti kollégiumban, ha
-
-- a) a Felügyelet az (1)–(5) bekezdés szerint járt el, vagy
-- b) egy másik felügyeleti hatóság járt el az (1)–(5) bekezdéssel megegyező módon,
-
-akkor a Felügyelet mindent megtesz annak érdekében, hogy a felügyeleti kollégiumban a felügyeleti hatóságok megállapodjanak a Felügyelet a) pont szerinti vagy egy másik felügyeleti hatóság b) pont szerinti javaslatáról.
-
-(7) Ha a Felügyelet a csoportfelügyeletért felelős hatóság és nem ért egyet a leányvállalat felügyeletéért felelős felügyeleti hatóság javaslatával, akkor a Felügyelet ezen felügyeleti hatóság kezdeményezésére vagy saját kezdeményezésre az ügyet konzultáció céljából az EBFH elé terjeszti.
-
-(8) Ha a csoportfelügyeletért felelős hatóság és a leányvállalat felügyeletéért felelős felügyeleti hatóság nem ért egyet, akkor a Felügyelet mint érintett felügyeleti hatóság is az EBFH elé terjesztheti az ügyet konzultáció céljából.
-
-(9) A (7) és (8) bekezdés esetén az EBFH által a megkeresést követő egy hónapon belül hozott határozatával összhangban kell a Felügyeletnek mint a leányvállalatért felelős felügyeleti hatóságnak, a határozatát meghoznia. Ha az EBFH egy hónapon belül nem hoz határozatot, akkor a Felügyelet mint a leányvállalatért felelős felügyeleti hatóság, meghozza a határozatát.
-
-(10) A Felügyelet mint a leányvállalatért felelős felügyeleti hatóság a részletes indokolást is tartalmazó határozatát közli a többi érintett felügyeleti hatósággal és a leányvállalattal.
-
-(11) A Felügyelet e § szerinti jogaira és kötelezettségeire vonatkozó részletszabályokat a Bizottságnak a Szolvencia 2 irányelv 241. cikk c) pontjában meghatározott tárgykörben kiadott rendelete tartalmazza.
-
-#### 142. Biztosító vagy viszontbiztosító leányvállalataival kapcsolatosan a szavatolótőke és a minimális tőkeszükséglet nemteljesítése
-
-344. § (1) A szavatolótőke-szükséglet nemteljesítése esetén, a 343. §-ban foglaltak sérelme nélkül a Felügyelet – ha a leányvállalatot engedélyező felügyeleti hatóság – haladéktalanul továbbítja a leányvállalat által benyújtott helyreállítási tervet a felügyeleti kollégium tagjai számára. A helyreállítási tervet annak érdekében készíti a leányvállalat, hogy a szavatolótőke-szükséglet nemteljesítésének első észlelését követő hat hónapon belül helyre lehessen állítani a szavatolótőke-szükséglet fedezéséhez figyelembe vehető szavatolótőke szintjét vagy a szavatolótőke-szükséglet teljesítése céljából csökkenteni lehessen a kockázati profilt.
-
-(2) A Felügyelet a felügyeleti kollégium tagjaként minden tőle telhetőt megtesz annak érdekében, hogy a szavatolótőke-szükséglet nemteljesítésének első észlelését követő négy hónapon belül megállapodás szülessen a Felügyelet – mint a leányvállalatot engedélyező felügyeleti hatóság – javaslatáról a helyreállítási terv vonatkozásában.
-
-(3) A (2) bekezdés szerinti megállapodás hiányában a Felügyelet mint a leányvállalatot engedélyező felügyeleti hatóság határoz a helyreállítási terv jóváhagyásáról, a felügyeleti kollégium többi érintett felügyeleti hatósága által kifejezett bármely álláspont vagy fenntartás kellő figyelembevétele mellett.
-
-(4) Ha nem a Felügyelet a leányvállalatot engedélyező felügyeleti hatóság és a felügyeleti kollégium tagjai nem tudnak megállapodni a helyreállítási terv tekintetében, akkor a Felügyelet véleményt ad az érintett felügyeleti hatóság részére a helyreállítási terv tekintetében.
-
-(5) Ha a Felügyelet mint a leányvállalatot engedélyező felügyeleti hatóság romló pénzügyi helyzetet észlel, haladéktalanul értesíti a felügyeleti kollégiumot a javasolt meghozandó intézkedésekről. Szükséghelyzetek kivételével a Felügyelet kezdeményezi, hogy az intézkedéseket a felügyeleti kollégiumon belül megvitassák. Szükséghelyzet esetén a Felügyelet haladéktalanul köteles tájékoztatni a felügyeleti kollégiumot a megtett intézkedésekről.
-
-(6) A Felügyelet a felügyeleti kollégium tagjaként – vélemény, javaslat adásával – minden tőle telhetőt megtesz annak érdekében, hogy a közlés időpontjától számított egy hónapon belül megállapodás szülessen a felügyeleti hatóság meghozandó intézkedésekről szóló javaslata tekintetében.
-
-(7) A (6) bekezdés szerinti megállapodás hiányában a Felügyelet mint a leányvállalatot engedélyező felügyeleti hatóság határoz a javasolt intézkedések jóváhagyásáról, a felügyeleti kollégium többi érintett felügyeleti hatósága által kifejezett bármely álláspont vagy fenntartás kellő figyelembevétele mellett.
-
-(8) A minimális tőkeszükséglet nem teljesítése esetén – a 358. §-ban foglaltak sérelme nélkül – a Felügyelet mint a leányvállalatot engedélyező felügyeleti hatóság haladéktalanul továbbítja a leányvállalat által benyújtott rövid távú pénzügyi tervet a felügyeleti kollégium tagjai számára annak érdekében, hogy a minimális tőkeszükséglet nemteljesítésének első észlelését követő három hónapon belül helyre lehessen állítani a minimális tőkeszükségletet fedező figyelembe vehető szavatolótőke szintjét vagy a minimális tőkeszükséglet teljesítése céljából csökkenteni lehessen a kockázati profilt. A felügyeleti kollégium tagjait tájékoztatja a Felügyelet a minimális tőkeszükséglet végrehajtása érdekében a leányvállalat szintjén hozott valamennyi intézkedésről is.
-
-(9) Ha a Felügyelet mint leányvállalatot engedélyező felügyeleti hatóság nem ért egyet a csoportfelügyeletért felelős hatósággal vagy a Felügyelet mint a csoportfelügyeletért felelős hatóság nem ért egyet a leányvállalatot engedélyező felügyeleti hatósággal
-
-- a) a helyreállítási terv jóváhagyását – beleértve a helyreállításhoz rendelkezésre álló időszak meghosszabbítását – illetően, a felügyeleti kollégiumnak a (2) bekezdéssel összefüggésben létrejött megállapodáson alapuló határozata meghozatalára előírt négy hónapos időszak alatt, illetve
-- b) a javasolt intézkedések elfogadását illetően a felügyeleti kollégiumnak a (6) bekezdéssel összefüggésben létrejött megállapodáson alapuló határozata meghozatalára előírt egy hónapos időszak alatt,
-
-az ügyet a Felügyelet – az 1094/2010/EU rendelet 19. cikkével összhangban – az EBFH elé utalhatja és kérheti a segítségét a megállapodás eléréséhez.
-
-(10) Az ügy nem utalható az EBFH elé, ha a következő körülmények egyike fennáll:
-
-- a) a (2) és (6) bekezdés szerinti négy hónapos vagy egy hónapos időszak leteltével;
-- b) a kollégiumon belül megállapodás jön létre;
-- c) az (5) bekezdésben említett szükséghelyzetek esetén.
-
-(11) A Felügyelet mint leányvállalatot engedélyező felügyeleti hatóság elhalasztja határozatának meghozatalát és megvárja az EBFH által – az 1094/2010/EU rendelet 19. cikke alapján – meghozott határozatot, majd az EBFH határozatának megfelelően hozza meg saját határozatát. A határozatot teljes körű indokolással kell ellátni. A határozatot mind a leányvállalatnak, mind a felügyeleti kollégiumnak meg kell küldeni.
-
-(12) Amennyiben a Felügyelet érintett felügyeleti hatóságnak minősül, úgy köteles magára nézve elismerni a (11) bekezdés szerinti határozatot és köteles teljesíteni az abban foglaltakat.
-
-(13) A Felügyelet e § szerinti jogaira és kötelezettségeire vonatkozó részletszabályokat a Bizottságnak a Szolvencia 2 irányelv 241. cikk b) és c) pontjában meghatározott tárgykörökben kiadott rendeletei tartalmazzák.
-
-#### 143. Biztosító vagy viszontbiztosító leányvállalatai: egy leányvállalatra vonatkozó eltérések megszűnése
-
-345. § (1) A 343–344. §-ban előírt szabályokat nem kell alkalmazni, amennyiben:
-
-- a) a 341. § (1) bekezdés a) pontjában említett feltétel a továbbiakban nem teljesül;
-- b) a 341. § (1) bekezdés b) pontjában említett feltétel a továbbiakban nem teljesül és a csoport az előírt időtartamon belül nem tesz újra eleget a feltételnek;
-- c) a 341. § (1) bekezdés c) és d) pontjában említett feltételek a továbbiakban nem teljesülnek.
-
-(2) Az (1) bekezdés a) pontjában említett esetben, ha a Felügyelet mint a csoportfelügyeletért felelős hatóság a felügyeleti kollégiummal történt konzultációt követően úgy határoz, hogy többé nem vonja be az általa végzett csoportfelügyeletbe a leányvállalatot, erről azonnal tájékoztatja az érintett felügyeleti hatóságot és az anyavállalatot.
-
-(3) A 341. § (1) bekezdés b)–d) pontjának alkalmazása során az anyavállalat felelős a feltételek folyamatos teljesülésének biztosításáért. Nemteljesítés esetén haladéktalanul tájékoztatja a Felügyeletet, mint a csoportfelügyeletért felelős hatóságot és az érintett leányvállalat érintett felügyeleti hatóságát. Az anyavállalat tervet mutat be a teljesülés megfelelő határidőn belüli visszaállításáról.
-
-(4) A (3) bekezdésben foglaltakkal összhangban, a Felügyelet mint a csoportfelügyeletért felelős hatóság évente legalább egyszer hivatalból ellenőrzi, hogy továbbra is teljesülnek-e a 341. § (1) bekezdés b)–d) pontjában foglalt feltételek. A Felügyelet mint a csoportfelügyeletért felelős hatóság ezt az ellenőrzést az érintett felügyeleti hatóság kérésére is elvégzi, amennyiben annak jelentős kétségei vannak a feltételek folyamatos teljesülését illetően. Amennyiben a Felügyelet nem, mint a csoportfelügyeletért felelős hatóság, hanem, mint érintett felügyeleti hatóság jár el, úgy az e bekezdés szerinti kérést intézheti a csoportfelügyeletért felelős hatósághoz.
-
-(5) Amennyiben az elvégzett ellenőrzés során a Felügyelet mint a csoportfelügyeletért felelős hatóság hiányosságot tapasztal, kötelezi az anyavállalatot, hogy nyújtson be tervet a hiányosság kiküszöböléséről.
-
-(6) Amennyiben a felügyeleti kollégiummal történt konzultációt követően a Felügyelet mint a csoportfelügyeletért felelős hatóság megállapítja, hogy a (3) vagy (5) bekezdésben említett terv nem elegendő, vagy nem hajtják végre a megállapított határidőn belül, akkor megállapítja, hogy a 341. § (1) bekezdés b)–d) pontjában említett feltételek többé nem teljesülnek és erről haladéktalanul tájékoztatja az érintett felügyeleti hatóságot.
-
-(7) A 343–344. §-ban előírt rendszer akkor alkalmazható újra, ha az anyavállalat erre irányuló új kérelmére a felügyeleti kollégium ezt – a 342. §-ban meghatározott eljárással összhangban – engedélyezi.
-
-(8) A Felügyelet e § szerinti jogaira és kötelezettségeire vonatkozó részletszabályokat a Bizottságnak a Szolvencia 2 irányelv 241. cikk c) pontjában meghatározott tárgykörben kiadott rendelete tartalmazza.
-
-#### 144. Biztosítói holdingtársaság és vegyes pénzügyi holdingtársaság leányvállalatai
-
-346. § A 341–345. § értelemszerűen alkalmazandó azokra a biztosítókra és viszontbiztosítókra, amelyek biztosítói holdingtársaság vagy vegyes pénzügyi holdingtársaság leányvállalatai.
-
-#### 145. Kockázatkoncentráció felügyelete
-
-347. § (1) A kockázatkoncentráció felügyeletét csoportszinten e §-ban, valamint a 349–362. §-ban foglaltakkal összhangban kell gyakorolni.
-
-(2) A biztosító, viszontbiztosító, biztosítói holdingtársaság vagy vegyes pénzügyi holdingtársaság – a Bizottságnak a Szolvencia 2 irányelv 244. cikk (6) bekezdésében meghatározott tárgykörben kiadott végrehajtástechnikai standardjában foglaltakkal összhangban – rendszeresen, évente legalább egyszer jelentést köteles tenni a Felügyelet mint a csoportfelügyeletért felelős hatóság részére bármely jelentős csoportszintű kockázatkoncentrációról, azon esetek kivételével, amelyekre a 329. § (2) bekezdését kell alkalmazni.
-
-(3) A szükséges információt a csoport élén álló biztosító vagy viszontbiztosító, vagy ha nem biztosító vagy viszontbiztosító áll a csoport élén, akkor a biztosítói holdingtársaság vagy a vegyes pénzügyi holdingtársaság vagy a Felügyelet mint a csoportfelügyeletért felelős hatóság által – a többi érintett felügyeleti hatósággal és a csoporttal folytatott konzultációt követően – kijelölt csoporton belüli biztosító vagy viszontbiztosító köteles benyújtani a Felügyelethez mint a csoportfelügyeletért felelős hatósághoz.
-
-(4) Az (1) bekezdés szerinti kockázatkoncentráció felülvizsgálata a Felügyelet mint a csoportfelügyeletért felelős hatóság feladatkörébe tartozik.
-
-(5) A Felügyelet mint a csoportfelügyeletért felelős hatóság – a többi érintett felügyeleti hatósággal és a csoporttal folytatott konzultációt követően, a Bizottságnak a Szolvencia 2 irányelv 244. cikk (4) és (5) bekezdésében meghatározott tárgykörökben kiadott rendeleteiben foglaltakkal összhangban – megállapítja azon kockázattípusokat, amelyeket az adott csoporton belül a biztosítóknak vagy a viszontbiztosítóknak jelenteniük kell.
-
-(6) A Felügyelet mint a csoportfelügyeletért felelős hatóság és a többi érintett felügyeleti hatóság a kockázattípusok meghatározásakor vagy véleményezésekor figyelembe veszi az adott csoport jellemzőit és a csoport kockázatkezelési struktúráját is.
-
-(7) A jelentendő jelentős kockázatkoncentráció meghatározása érdekében a Felügyelet mint a csoportfelügyeletért felelős hatóság – a többi érintett felügyeleti hatósággal és a csoporttal folytatott konzultációt követően – a szavatolótőke-szükségleten, a biztosítástechnikai tartalékokon vagy mindkettőn alapuló megfelelő küszöbértékeket ír elő. A kockázatkoncentrációk felülvizsgálatakor a Felügyelet mint a csoportfelügyeletért felelős hatóság különös figyelmet fordít a negatív jelenségek csoporton belüli átterjedéséből eredő lehetséges kockázatok, valamint az érdekütközés kockázatának és a kockázatok szintjének vagy volumenének figyelemmel kísérésére.
-
-#### 146. Csoporton belüli ügyletek felügyelete
-
-348. § (1) A csoporton belüli ügyletek felügyeletét a (2)–(4) bekezdéssel, valamint a 349–362. §-sal összhangban kell gyakorolni.
-
-(2) A biztosító, viszontbiztosító, biztosítói holdingtársaság vagy vegyes pénzügyi holdingtársaság – a Bizottságnak a Szolvencia 2 irányelv 245. cikk (6) bekezdésében meghatározott tárgykörben kiadott végrehajtástechnikai standardjában foglaltakkal összhangban – rendszeresen, évente legalább egyszer jelentést köteles tenni a Felügyelet mint a csoportfelügyeletért felelős hatóság részére a csoportba tartozó biztosítók vagy viszontbiztosítók minden jelentős csoporton belüli ügyletéről, ideértve az olyan természetes személlyel folytatott ügyleteket is, aki szoros kapcsolatban áll egy csoporton belüli vállalkozással, azon esetek kivételével, amelyekre a 329. § (2) bekezdését kell alkalmazni. A különösen jelentős csoporton belüli ügyleteket haladéktalanul jelenteni kell a Felügyelet mint a csoportfelügyeletért felelős hatóság részére.
-
-(3) A szükséges információt a csoport élén álló biztosító vagy viszontbiztosító, vagy ha nem biztosító vagy viszontbiztosító áll a csoport élén, akkor a biztosítói holdingtársaság vagy a vegyes pénzügyi holdingtársaság vagy a Felügyelet mint a csoportfelügyeletért felelős hatóság által – a többi érintett felügyeleti hatósággal és a csoporttal folytatott konzultációt követően – kijelölt csoporton belüli biztosító vagy viszontbiztosító nyújtja be a Felügyelethez, mint a csoportfelügyeletért felelős hatósághoz.
-
-(4) A csoporton belüli ügyletek a Felügyelet, mint a csoportfelügyeletért felelős hatóság általi felügyeleti felülvizsgálat hatálya alá tartoznak.
-
-(5) A Felügyelet, mint a csoportfelügyeletért felelős hatóság – a többi érintett felügyeleti hatósággal és a csoporttal folytatott konzultációt követően, a Bizottságnak a Szolvencia 2 irányelv 245. cikk (4) és (5) bekezdésében meghatározott tárgykörökben kiadott rendeleteiben foglaltakkal összhangban – megállapítja azon csoporton belüli ügyletek típusát, amelyeket egy adott csoporton belüli biztosítóknak vagy viszontbiztosítóknak minden körülmények között jelenteniük kell. A 347. § (5)–(7) bekezdése értelemszerűen alkalmazandó.
-
-#### 147. Az irányítási rendszer felügyelete
-
-349. § (1) A 76–92. §-ban meghatározott követelmények csoportszinten értelemszerűen alkalmazandók. A kockázatkezelési és belső ellenőrzési rendszereket, valamint a jelentéstételi eljárásokat következetesen kell végrehajtani minden olyan csoportfelügyelet hatálya alá tartozó biztosítóban vagy viszontbiztosítóban, amely részesedési viszonnyal rendelkezik legalább egy biztosítóban, viszontbiztosítóban, harmadik országbeli biztosítóban vagy harmadik országbeli viszontbiztosítóban, vagy amelynek anyavállalata az Európai Unión belül központi irodával rendelkező biztosítói holdingtársaság vagy vegyes pénzügyi holdingtársaság, annak érdekében, hogy az említett rendszereket és jelentéstételi eljárásokat csoportszinten ellenőrizni lehessen.
-
-(2) Az (1) bekezdés sérelme nélkül a csoport belső ellenőrzési mechanizmusainak legalább a következőket kell tartalmazniuk:
-
-- a) megfelelő mechanizmusok a csoportszintű szavatolótőke-megfelelés tekintetében, annak érdekében, hogy minden jelentős kockázatot azonosítsanak és mérjenek, és hogy a figyelembe vehető szavatoló tőkét megfelelően hozzárendeljék a kockázatokhoz;
-- b) megbízható jelentéstételi és számviteli eljárások a csoporton belüli ügyletek és a kockázatok koncentrációjának figyelemmel kísérésére és kezelésére.
-
-(3) Az (1) és (2) bekezdésben említett rendszerek és jelentéstételi eljárások a 350–362. §-ban meghatározott szabályokkal összhangban a Felügyelet mint a csoportfelügyeletért felelős hatóság által végzett felügyeleti felülvizsgálat hatálya alá tartoznak.
-
-(4) A részesedő biztosító vagy viszontbiztosító, a biztosítói holdingtársaság vagy a vegyes pénzügyi holdingtársaság a 89. §-ban előírt értékelést a csoport szintjén köteles elvégezni. A csoportszinten végzett saját kockázat- és szavatolótőke-megfelelési értékelést a Felügyelet mint a csoportfelügyeletért felelős hatóság felügyeleti felülvizsgálatnak veti alá a 343–362. §-ban foglaltakkal összhangban.
-
-(5) Ha csoportszinten a szavatolótőke-megfelelés kiszámítása a 336. § szerinti 1. módszer szerint történik, a részesedő biztosító vagy viszontbiztosító, a biztosítói holdingtársaság vagy a vegyes pénzügyi holdingtársaság köteles egyértelműen feltüntetni a különbséget a csoport összes kapcsolt biztosítója vagy viszontbiztosítója szavatolótőke-szükségletének összege és a konszolidált csoportszintű szavatolótőke-szükséglet között.
-
-(6) A részesedő biztosító vagy viszontbiztosító, a biztosítói holdingtársaság vagy a vegyes pénzügyi holdingtársaság – a Felügyelet mint a csoportfelügyeletért felelős hatóság engedélyével – a 89. §-ban foglaltaknak megfelelően előírt értékeléseket egyszerre végezheti el csoportszinten és a csoport bármely leányvállalatának szintjén, és egyetlen dokumentumban össze is foglalhatja az értékelést.
-
-(7) A (6) bekezdés szerinti engedély megadását megelőzően a Felügyelet mint a csoportfelügyeletért felelős hatóság konzultál a felügyeleti kollégium tagjaival és érdemben figyelembe veszi álláspontjaikat és fenntartásaikat.
-
-(8) Ha a csoport él a (6) bekezdésben foglalt lehetőséggel, a dokumentumot egyidejűleg megküldi minden érintett felügyeleti hatóságnak. E lehetőség kihasználása nem mentesíti az érintett leányvállalatokat a 89. §-ban foglalt követelmények teljesítésére irányuló kötelezettségük alól.
-
-#### 148. A csoportfelügyeletért felelős hatóság
-
-350. § (1) A Felügyelet mint érintett felügyeleti hatóság – évente legfeljebb egyszer – kérheti annak a csoporton belüli megvitatását (a továbbiakban: tanácskozási kérelem), hogy a csoportfelügyeletért felelős hatóság kijelölésének kritériumai megfelelők-e.
-
-(2) A Felügyelet, amennyiben érintett felügyeleti hatóság, köteles mindent megtenni annak érdekében, hogy a csoportfelügyeletért felelős hatóság kiválasztásáról, a tanácskozási kérelem előterjesztésétől számított három hónapon belül – a többi érintett felügyeleti hatósággal – közös határozatot hozzon. A határozat meghozatala előtt az érintett felügyeleti hatóságok véleménynyilvánítási lehetőséget adnak a csoportnak. Ha a Felügyelet a kijelölt csoportfelügyeletért felelős hatóság, köteles a csoport elé terjeszteni az indokolással ellátott, közös határozatot.
-
-(3) Ha a (2) bekezdés szerinti három hónapos időszak alatt a Felügyelet mint érintett felügyeleti hatóság az ügyet – az 1094/2010/EU rendelet 19. cikk (1)–(3) és (6) bekezdésével összhangban – az EBFH elé utalta, akkor az érintett felügyeleti hatóságok elhalasztják közös döntésüket és megvárják az EBFH által – a 1094/2010/EU rendelet 19. cikk (3) bekezdése alapján – hozott határozatot, majd az EBFH határozatának megfelelően hozzák meg saját közös határozatukat. A Felügyelet mint érintett felügyeleti hatóság köteles elismerni az említett közös határozatot, és teljesíteni az abban foglaltakat. A három hónapos időtartam eltelte vagy a közös határozat meghozatala után az ügy már nem utalható az EBFH elé. Amennyiben a Felügyelet a kijelölt csoportfelügyeletért felelős hatóság, köteles a csoport és a felügyeleti kollégium elé terjeszteni a teljes körű indokolással ellátott, közös határozatot.
-
-#### 149. A csoportfelügyeletért felelős hatóság és a többi felügyeleti hatóság jogai és kötelezettségei. A felügyeleti kollégium
-
-351. § (1) A Felügyelet mint a csoportfelügyeletért felelős hatóság csoportfelügyelettel kapcsolatos jogai és kötelezettségei a következők:
-
-- a) releváns vagy alapvető információk gyűjtésének és terjesztésének összehangolása rendes körülmények között és szükséghelyzetben is, beleértve mindazon információk terjesztését, amelyekre a felügyeleti hatóságnak a felügyeleti feladatok elvégzéséhez szüksége van;
-- b) felügyeleti felülvizsgálat és a csoport pénzügyi helyzetének értékelése;
-- c) annak értékelése, hogy a csoport megfelel-e a szavatolótőke-megfelelésre, a kockázatkoncentrációra és a csoporton belüli ügyletekre vonatkozó szabályoknak a 332–348. §-ban meghatározottak szerint;
-- d) a csoport irányítási rendszerének az értékelése a 349. §-ban meghatározottak szerint, valamint annak értékelése, hogy a részesedéssel rendelkező vállalkozás igazgatási, irányító vagy felügyelő testületének tagjaira vonatkozóan teljesül-e a szakmai alkalmasság és üzleti megbízhatóság követelménye;
-- e) a felügyeleti tevékenységek tervezése és koordinációja rendszeres, évente legalább egyszer megtartott értekezletek útján vagy más megfelelő módon, rendes körülmények között és szükséghelyzetekben is, az érintett felügyeleti hatóságokkal együttműködve, és figyelembe véve a csoport részét képező összes vállalkozás üzleti tevékenységében rejlő kockázatok jellegét, nagyságrendjét és összetettségét;
-- f) az e fejezet, valamint a Bizottságnak a Szolvencia 2 irányelv 248. cikk (6) és (7) bekezdésében meghatározott tárgykörökben kiadott rendeletei által a csoportfelügyeletért felelős hatóságra ruházott vagy az e rész, valamint a Bizottságnak a Szolvencia 2 irányelv 248. cikk (6) és (7) bekezdésében meghatározott tárgykörökben kiadott rendeletei alkalmazásából eredő egyéb feladatok, intézkedések elvégzése és döntések meghozatala, különösen a csoportszintű belső modellek jóváhagyási eljárásának vezetése a 337. és 339. §-ban meghatározottak szerint és a rendszer alkalmazása engedélyezési eljárásának vezetése a 342–345. §-ban meghatározottak szerint.
-
-(2) A csoportfelügyelet (1) bekezdésben említett feladatai végrehajtásának megkönnyítése érdekében a Felügyelet mint a csoportfelügyeletért felelős hatóság elnökletével – a Felügyelet által kidolgozott írásbeli megállapodás alapján – létre kell hozni a felügyeleti kollégiumot.
-
-(3) Ha a Felügyelet mint a csoportfelügyeletért felelős hatóság elmulasztja az (1) bekezdésben említett feladatok végrehajtását, vagy a felügyeleti kollégium tagjai nem működnek együtt a csoportfelügyeletért felelős hatósággal az e § szerinti feladatok végrehajtásához szükséges mértékben, az ügyet a Felügyelet az EBFH elé utalhatja, és kérheti a segítségét a megállapodás eléréséhez az 1094/2010/EU rendelet 19. cikkével összhangban.
-
-(4) Az e fejezetben, valamint a Bizottságnak a Szolvencia 2 irányelv 248. cikk (6) és (7) bekezdésében meghatározott tárgykörökben kiadott rendeleteiben foglaltak sérelme nélkül, a kollégiumok létrehozása és működése a csoportfelügyeletért felelős hatóság és a többi érintett felügyeleti hatóság által megkötött koordinációs megállapodásokon alapul.
-
-(5) Amennyiben az álláspontok eltérnek a koordinációs megállapodásokkal kapcsolatban, a Felügyelet, amennyiben a felügyeleti kollégium tagja, az EBFH elé utalhatja az ügyet, és az 1094/2010/EU rendelet 19. cikkével összhangban kérheti a segítségét a megállapodás eléréséhez. A Felügyelet mint a csoportfelügyeletért felelős hatóság az EBFH határozatának megfelelően köteles meghozni a határozatát, amit továbbítani köteles a többi érintett felügyeleti hatóságnak.
-
-(6) A Bizottságnak a Szolvencia 2 irányelv 248. cikk (6) és (7) bekezdésében meghatározott tárgykörökben kiadott rendeleteiben foglaltak sérelme nélkül, a (4) bekezdés szerinti koordinációs megállapodások meghatározzák az alábbiakra vonatkozó eljárásokat:
-
-- a) a 337., 338. és 350. §-ban foglaltakkal összhangban, az érintett felügyeleti hatóságok közötti döntéshozatali folyamat;
-- b) az (5) bekezdésben és a 331. § (4) bekezdésében említett konzultáció.
-
-(7) A csoportfelügyeletért felelős hatóságra és a többi felügyeleti hatóságra ruházott jogok és kötelezettségek sérelme nélkül a koordinációs megállapodások további feladatokat bízhatnak a csoportfelügyeletért felelős hatóságra, a többi felügyeleti hatóságra vagy az EBFH-ra, amennyiben ez a csoport hatékonyabb felügyeletét eredményezi, és – saját feladataik tekintetében – nem akadályozza a felügyeleti kollégium tagjai által végzett felügyeleti tevékenységeket.
-
-(8) A koordinációs megállapodások ezen kívül meghatározhatják az alábbi eljárásokat:
-
-- a) a különösen a 327–330. §, a 332–333. §, a 335. §, a 347–349. §, a 353. §, a 359. §, a 363. § és a 365. §-ban meghatározott, az érintett felügyeleti hatóságok közötti konzultáció;
-- b) az egyéb felügyeleti hatóságokkal való együttműködés.
-
-(9) A Felügyelet mint a csoportfelügyeletért felelős hatóság a kollégiumok munkájára és az EBFH által lefolytatott felülvizsgálatok tekintetében tapasztalt bármely releváns nehézségre vonatkozó információt köteles átadni az EBFH-nak.
-
-(10) A csoportfelügyelet e § szerinti koordinációját a Bizottságnak a Szolvencia 2 irányelv 248. cikk (6) és (7) bekezdésében meghatározott tárgykörökben kiadott rendeleteiben foglaltakkal összhangban kell gyakorolni.
-
-#### 150. A felügyeleti hatóságok közötti együttműködés és információcsere
-
-352. § (1) A Felügyelet mint a csoporton belüli egyes biztosítók vagy viszontbiztosítók felügyeletéért felelős hatóság vagy csoportfelügyeletért felelős hatóság szorosan együttműködik a többi érintett felügyeleti hatósággal, különösen olyan esetekben, amikor valamely biztosító vagy viszontbiztosító pénzügyi nehézségbe kerül.
-
-(2) A Felügyelet mint érintett felügyeleti hatóság vagy csoportfelügyeletért felelős hatóság haladéktalanul – külön ez irányú megkeresés nélkül is – közöl minden releváns – a Bizottságnak a Szolvencia 2 irányelv 249. cikk (3) és (4) bekezdésében meghatározott tárgykörökben kiadott szabályozástechnikai és végrehajtástechnikai standardjában meghatározott – információt a többi érintett felügyeleti hatósággal. Ezen információk közé tartoznak különösen a csoport és a felügyeleti hatóságok intézkedéseire vonatkozó információk, valamint a csoport által szolgáltatott információk.
-
-(3) A Felügyelet mint a csoportfelügyeletért felelős hatóság az érintett felügyeleti hatóságok és az EBFH rendelkezésére bocsátja a csoport jogi struktúrájára, a csoport irányítására és szervezeti felépítésére vonatkozó információkat.
-
-(4) Ha valamely felügyeleti hatóság releváns információt nem közölt, vagy az együttműködés – különösen a releváns információk cseréje – iránti kérést elutasította vagy két héten belül nem teljesítette, a Felügyelet az EBFH elé utalhatja az ügyet.
-
-(5) A Felügyelet mint érintett felügyeleti hatóság vagy csoportfelügyeletért felelős hatóság köteles haladéktalanul megbeszélésre hívni a csoportfelügyeletben érintett valamennyi felügyeleti hatóságot, ha az alábbi körülmények valamelyikének fennállását észleli:
-
-- a) tudomást szerez arról, hogy egy biztosító vagy viszontbiztosító súlyosan megsértette a szavatolótőke-szükségletre vonatkozó előírásokat vagy megsértette a minimális tőkeszükséglettel kapcsolatos előírásokat;
-- b) tudomást szerez a konszolidált adatokon alapuló összevont alapon számított szavatolótőke-szükségletre vagy az összesített összevont alapon számított szavatolótőke-szükségletre vonatkozó előírások súlyos megsértéséről, attól függően, hogy melyik szavatolótőke-szükségleti számítási módszert alkalmazták; vagy
-- c) egyéb rendkívüli körülmények állnak vagy álltak fenn.
-
-(6) A Felügyelet mint érintett felügyeleti hatóság vagy csoportfelügyeletért felelős hatóság az (5) bekezdésben foglaltakon túl akkor is megbeszélésre hívhatja a csoportfelügyeletben érintett valamennyi felügyeleti hatóságot, ha ennek szükségét látja.
-
-#### 151. A felügyeleti hatóságok közötti konzultáció
-
-353. § (1) A 344. § sérelme nélkül, a Felügyelet a többi érintett felügyeleti hatóság felügyeleti feladatai szempontjából fontos határozat meghozatala előtt – a felügyeleti kollégium keretében – konzultál a többi, érintett felügyeleti hatósággal, a következőkkel kapcsolatban:
-
-- a) a csoporton belüli biztosítók vagy viszontbiztosítók tulajdonosi szerkezetében, szervezeti vagy irányítási struktúrájában bekövetkező változások, amelyekhez a felügyeleti hatóságok jóváhagyása vagy engedélye szükséges;
-- b) a 309. § (2) bekezdésében és a 310. § (1) és (2) bekezdésében előírt helyreállításhoz rendelkezésre álló időszak meghosszabbítására vonatkozó határozat;
-- c) a felügyeleti hatóságok által meghozott jelentős szankciók vagy kivételes intézkedések, többek közt a szavatolótőke-szükségleten felül többlettőke-követelmény előírása és a szavatolótőke-szükséglet számításához belső modell használatát korlátozó előírás.
-
-(2) Az (1) bekezdés b) és c) pontja alkalmazásában a Felügyelet köteles konzultálni a csoportfelügyeletért felelős hatósággal. Ezenkívül, ha egy határozat más felügyeleti hatóságtól kapott információn alapul, annak meghozatala előtt az érintett felügyeleti hatóságok kötelesek egymással is konzultálni.
-
-(3) A 351. § sérelme nélkül, a Felügyelet a konzultáció elhagyása mellett dönthet sürgős esetben, vagy ha a konzultáció veszélyeztetné a határozat végrehajtását. Ebben az esetben a Felügyelet haladéktalanul köteles tájékoztatni a többi érintett felügyeleti hatóságot.
-
-#### 152. A csoportfelügyeletért felelős hatóságtól származó információkérés a többi felügyeleti hatóság felé
-
-354. § (1) A Felügyelet mint a csoportfelügyeletért felelős hatóság megkeresheti egy másik tagállam – amelyben valamely anyavállalat központi irodája van – felügyeleti hatóságait, ha azok nem maguk végzik a 343. § szerint a csoportfelügyeletet, hogy az anyavállalattól kérjenek ki és továbbítsanak számára minden olyan információt, amely szükséges lehet a 351. §-ban meghatározott koordinációs jogai gyakorlásához és kötelezettségei teljesítéséhez.
-
-(2) Ha a Felügyeletnek, mint a csoportfelügyeletért felelős hatóságnak olyan – 357. § (2)–(5) bekezdése szerinti – információra van szüksége, amely egy másik felügyeleti hatóság rendelkezésére áll, úgy köteles ettől a hatóságtól kérni az információ rendelkezésre bocsátását.
-
-#### 153. Együttműködés a hitelintézetek és a befektetési vállalkozások felügyeletéért felelős hatóságokkal
-
-355. § Ha egy biztosító vagy viszontbiztosító és a Hpt.-ben meghatározott hitelintézet vagy a Bszt.-ben meghatározott befektetési vállalkozás, vagy mindkettő közvetlenül vagy közvetetten kapcsolt vállalkozás, vagy közös részesedő vállalkozással rendelkeznek, a Felügyelet mint érintett felügyeleti hatóság a többi vállalkozás felügyeletéért felelős hatósággal együttműködik.
-
-#### 154. Szakmai titoktartás és az információk bizalmas kezelése
-
-356. § A csoportfelügyelet keretében kapott információ és a felügyeleti hatóságok közötti, valamint a felügyeleti hatóságok és más hatóságok közti információcsere a X. Fejezet rendelkezéseinek hatálya alá tartozik.
-
-#### 155. Az információhoz való hozzáférés
-
-357. § (1) A csoportfelügyelet hatálya alá tartozó természetes és jogi személyek, valamint kapcsolt vállalkozásaik és részesedő vállalkozásaik minden olyan információt kötelesek eljuttatni egymáshoz, amely a csoportfelügyelet szempontjából fontos lehet.
-
-(2) A Felügyelet mint a csoportfelügyeletért felelős hatóság – az érintett vállalkozás jellegétől függetlenül – a felügyelet céljából minden fontos információhoz hozzáférhet.
-
-(3) A Felügyelet mint a csoportfelügyeletért felelős hatóság csoportszinten könnyíthet az évesnél gyakoribb rendszeres felügyeleti jelentéstételi kötelezettségen, amennyiben e könnyítés valamennyi csoporton belüli biztosítóra vagy viszontbiztosítóra kiterjed, figyelembe véve a csoport üzleti tevékenységében rejlő kockázatok jellegét, nagyságrendjét és összetettségét.
-
-(4) A Felügyelet mint a csoportfelügyeletért felelős hatóság csoportszinten mentesíthet a tételes jelentések készítése alól, ha a mentesítés valamennyi csoporton belüli biztosítóra vagy viszontbiztosítóra kiterjed, figyelembe véve a csoport üzleti tevékenységében rejlő kockázatok jellegét, nagyságrendjét és összetettségét, valamint a pénzügyi stabilitásra vonatkozó célt.
-
-(5) Amennyiben a Felügyelet nem csoportfelügyeletért felelős hatóságként, hanem érintett felügyeleti hatóságként jár el, akkor a szükséges információ megszerzése érdekében csak akkor fordulhat közvetlenül a csoporton belüli vállalkozásokhoz, ha ezt az információt a csoportfelügyelet alá tartozó biztosítótól vagy viszontbiztosítótól – kérése ellenére – a megszabott határidőn belül nem kapta meg.
-
-#### 156. Az információ ellenőrzése
-
-358. § (1) A Felügyelet Magyarország területén elvégzi a 357. § szerinti információ helyszíni ellenőrzését a következő vállalkozások telephelyein:
-
-- a) a csoportfelügyelet alá tartozó biztosító vagy viszontbiztosító;
-- b) a csoportfelügyelet alá tartozó biztosító vagy viszontbiztosító kapcsolt vállalkozásai;
-- c) a csoportfelügyelet alá tartozó biztosító vagy viszontbiztosító anyavállalatai;
-- d) a csoportfelügyelet alá tartozó biztosító vagy viszontbiztosító anyavállalatának kapcsolt vállalkozásai.
-
-(2) Ha a Felügyelet – egyedi esetben – egy csoport részét képező, másik tagállamban található vállalkozást – függetlenül attól, hogy az szabályozott vagy nem – érintő információt kíván ellenőrizni, akkor a másik tagállam felügyeleti hatóságát kell felkérnie az ellenőrzés elvégzésére.
-
-(3) Amennyiben a Felügyeletet keresik meg a (2) bekezdésben foglaltak szerint, akkor a Felügyelet vagy közvetlenül maga végzi el az ellenőrzést, vagy engedélyezi – a titoktartási szabályok betartása és betartatása mellett – külső szakértő felkérésével vagy magának a kérelmező hatóságnak, hogy azt elvégezze. A Felügyelet köteles írásban tájékoztatni a csoportfelügyeletért felelős hatóságot a hozott intézkedéséről. Az ellenőrzést kérő felügyeleti hatóság részt vehet az ellenőrzésben, amennyiben nem közvetlenül maga végzi az ellenőrzést.
-
-(4) Ha a Felügyelet (2) bekezdés szerinti kérelmét a megkeresett felügyeleti hatóság két héten belül nem teljesíti, vagy ha a Felügyelet számára lehetetlenné teszik a (3) bekezdés szerinti részvételhez való jogának gyakorlását, a Felügyelet az EBFH-hoz utalhatja az ügyet, és az 1094/2010/EU rendelet 19. cikkével összhangban kérheti a segítségét a megállapodás eléréséhez.
-
-#### 157. Az összevont alapon számított szavatolótőke-megfelelésről és a pénzügyi helyzetről szóló jelentés
-
-359. § (1) A részesedő biztosító, viszontbiztosító, valamint a biztosítói holdingtársaság és a vegyes pénzügyi holdingtársaság – a 108. §-ban foglaltak értelemszerű alkalmazásával – évente csoportszintű jelentést köteles közzétenni a szavatolótőke-megfeleléséről és a pénzügyi helyzetéről.
-
-(2) A részesedő biztosító, viszontbiztosító, valamint a biztosítói holdingtársaság és a vegyes pénzügyi holdingtársaság – a Felügyelet, mint a csoportfelügyeletért felelős hatóság engedélyével – egy összefoglalt, a fizetőképességről és a pénzügyi helyzetről szóló jelentést is közzétehet, amely a következőket tartalmazza:
-
-- a) az (1) bekezdéssel összhangban közzéteendő csoportszintű információ;
-- b) a csoporton belüli bármely leányvállalatra vonatkozó, külön-külön azonosítható és a 108. §-ban foglaltakkal összhangban közzéteendő információ.
-
-(3) A Felügyelet, mint a csoportfelügyeletért felelős hatóság az engedély megadását megelőzően konzultál a felügyeleti kollégium tagjaival és véleményüket figyelembe veszi.
-
-(4) Ha a (2) bekezdésben említett jelentés nem tartalmaz olyan információt, amelynek rendelkezésre bocsátását a csoporton belüli leányvállalatot engedélyező felügyeleti hatóság megköveteli az összehasonlítható vállalkozásoktól, és amennyiben a mulasztás jelentős, a Felügyelet, mint érintett felügyeleti hatóság kötelezheti az érintett leányvállalatot a szükséges kiegészítő információ közzétételére.
-
-#### 158. Csoportszerkezet
-
-360. § A biztosítók, viszontbiztosítók, biztosítói holdingtársaságok és vegyes pénzügyi holdingtársaságok a csoport szintjén évente kötelesek közzétenni a csoport jogi, valamint irányítási és szervezeti felépítését, ideértve a csoporthoz tartozó valamennyi leányvállalat leírását, valamint a csoporthoz tartozó vállalatokkal és a fontosabb fiókvállalatokkal kapcsolatos tájékoztatást is.
-
-#### 159. Biztosítói holdingtársaságok és vegyes pénzügyi holdingtársaságok ügyviteli, ügyvezető vagy felügyelő testülete
-
-361. § A biztosítói holdingtársaság vagy vegyes pénzügyi holdingtársaság ügyviteli, ügyvezető és felügyelő testületi tagjainak a feladataik elvégzésére szakmailag alkalmasnak és üzletileg megbízhatónak kell lenniük.
-
-#### 160. Végrehajtási intézkedések
-
-362. § (1) Amennyiben a csoporthoz tartozó biztosítók vagy viszontbiztosítók nem teljesítik a 331–349. §-ban foglalt követelményeket, vagy ha teljesítik azokat, de a szavatolótőke-megfelelés mégis veszélyben lehet, vagy ha a csoporton belüli ügyletek vagy a kockázatkoncentrációk fenyegetik a biztosítók vagy viszontbiztosítók pénzügyi helyzetét, a helyzet mihamarabbi orvoslása érdekében:
-
-- a) a biztosítói holdingtársaság vagy a vegyes pénzügyi holdingtársaság tekintetében a csoportfelügyeletért felelős hatóság;
-- b) a biztosítók és viszontbiztosítók tekintetében a felügyeleti hatóságok
-
-hozzák meg a szükséges intézkedéseket.
-
-(2) Ha az (1) bekezdés a) pontjában meghatározott esetben a Felügyelet, mint a csoportfelügyeletért felelős hatóság nem egyike azon tagállami felügyeleti hatóságoknak, amelyben a biztosítói holdingtársaság vagy vegyes pénzügyi holdingtársaság központi irodája van, akkor köteles tájékoztatni az említett felügyeleti hatóságokat a megállapításairól, hogy azok meghozhassák a szükséges intézkedéseket.
-
-(3) Ha az (1) bekezdés b) pontjában meghatározott esetben a Felügyelet, mint a csoportfelügyeletért felelős hatóság nem egyike azon tagállami felügyeleti hatóságoknak, amelyben a biztosító vagy viszontbiztosító központi irodája van, akkor köteles tájékoztatni az említett felügyeleti hatóságokat a megállapításairól, hogy azok meghozhassák a szükséges intézkedéseket.
-
-(4) A Felügyelet mint csoportfelügyeletért felelős hatóság, figyelembe véve a csoport részét képező valamennyi vállalkozás üzleti tevékenysége kockázatainak jellegét, nagyságrendjét és összetettségét, meghozza a szükséges intézkedéseket a biztosítói holdingtársaságok és vegyes pénzügyi holdingtársaságok tekintetében. A Felügyelet, amennyiben érintett felügyeleti hatóságként jár el, a csoportfelügyeletért felelős hatósággal összehangolja intézkedéseit.
-
-(5) A Felügyelet szorosan együttműködik a többi érintett felügyeleti hatósággal az ilyen intézkedések eredményességének biztosítása érdekében, különösen, ha a biztosítói holdingtársaság vagy a vegyes pénzügyi holdingtársaság ügyvezetése nem a központi irodájával megegyező tagállamban található.
-
-(6) A Felügyelet az e §-ban foglalt jogait és kötelezettségeit a Bizottságnak a Szolvencia 2 irányelv 258. cikk (3) bekezdésében meghatározott tárgykörben kiadott rendeletében foglaltakkal összhangban gyakorolja.
-
-#### 161. Az Európai Unión kívül székhellyel rendelkező anyavállalatok: az egyenértékűség vizsgálata
-
-363. § (1) A Felügyelet, mint érintett felügyeleti hatóság ellenőrzi, hogy azon biztosítók vagy viszontbiztosítók, amelyeknek anyavállalata harmadik országban rendelkezik központi irodával, olyan harmadik országbeli felügyeleti hatóság általi felügyelet alá tartoznak-e, amely egyenértékű azon biztosítók vagy viszontbiztosítók csoportfelügyeletét illetően az e fejezetben előírt felügyelettel, amelyek részesedési viszonnyal rendelkeznek legalább egy biztosítóban, viszontbiztosítóban, harmadik országbeli biztosítóban vagy harmadik országbeli viszontbiztosítóban, vagy amelyeknek anyavállalata az Európai Unión belül központi irodával rendelkező biztosítói holdingtársaság vagy vegyes pénzügyi holdingtársaság.
-
-(2) Ha a Bizottság nem határozott valamely ország prudenciális rendszere egyenértékűségéről vagy ideiglenes egyenértékűségéről, az ellenőrzést – az anyavállalat vagy az Európai Unióban engedélyezett bármely biztosító vagy viszontbiztosító kezdeményezésére vagy hivatalból – a Felügyeletnek, mint a csoportfelügyeletért felelős hatóságnak kell elvégeznie (a továbbiakban: eljáró csoportfelügyeletért felelős hatóság).
-
-(3) A (2) bekezdés szerinti ellenőrzés lefolytatása során a Felügyelet, mint eljáró csoportfelügyeletért felelős hatóság – mielőtt határozna az egyenértékűségről – az EBFH-val való együttműködés mellett konzultál a többi érintett felügyeleti hatósággal. Az egyenértékűségről hozott határozatot a Bizottságnak a Szolvencia 2 irányelv 260. cikk (2), (3) és (5) bekezdésében meghatározott tárgykörökben kiadott rendeleteiben meghatározott kritériumok szerint kell meghozni. A Felügyelet, mint eljáró csoportfelügyeletért felelős hatóság harmadik országokkal szemben nem hozhat olyan határozatot, amely ellentmond az azzal az országgal kapcsolatban hozott korábbi határozatok tartalmának, kivéve, ha a fogadó országban vagy a harmadik országban a vonatkozó szabályozás jelentősen megváltozott.
-
-(4) Ha a Felügyelet nem eljáró csoportfelügyeletért felelős hatóság, hanem érintett felügyeleti hatóság és nem ért egyet a Bizottságnak a Szolvencia 2 irányelv 260. cikk (2), (3) és (5) bekezdésében meghatározott tárgykörökben kiadott rendeleteiben meghatározott kritériumok alapján meghozott határozattal, az ügyet az eljáró csoportfelügyeletért felelős hatóság határozatáról szóló értesítést követő három hónapon belül az EBFH-hoz utalhatja, és az 1094/2010/EU rendelet 19. cikkével összhangban kérheti a segítségét a megállapodás eléréséhez.
-
-(5) Ha a Bizottság nem határozott valamely ország prudenciális rendszere egyenértékűségéről vagy ideiglenes egyenértékűségéről, akkor a 358. § alkalmazandó, feltéve, ha a Felügyelet gyakorolja az Európai Unión kívül székhellyel rendelkező anyavállalatok felett a felügyeletet.
-
-(6) Ha bizottsági határozat születik arról, hogy a harmadik ország prudenciális rendszere ideiglenesen egyenértékű, a 364. § alkalmazandó, kivéve, ha van olyan tagállami biztosító vagy viszontbiztosító, amelynek mérlegfőösszege meghaladja az Európai Unión kívül található anyavállalat mérlegfőösszegét. Ebben az esetben a csoportfelügyeletért felelős hatóság feladatát a megbízott csoportfelügyeletért felelős hatóság látja el.
-
-#### 162. Az Európai Unión kívül székhellyel rendelkező anyavállalattal kapcsolatos egyenértékűség
-
-364. § (1) A 363. §-ban említett egyenértékű felügyelet esetén a Felügyelet a harmadik országbeli felügyeleti hatóságok által végzett egyenértékű csoportfelügyeletre támaszkodik, a (2) bekezdéssel összhangban.
-
-(2) A 349–362. § értelemszerűen alkalmazandó a harmadik országok felügyeleti hatóságaival való együttműködésre is.
-
-#### 163. Harmadik országokban működő anyavállalatokkal kapcsolatosan az egyenértékűség hiánya
-
-365. § (1) A 356. § szerinti egyenértékű felügyelet hiányában, vagy ha ideiglenes egyenértékűség esetén valamely tagállam a 363. § (6) bekezdésével összhangban nem alkalmazza a 367. §-t, az érintett tagállamnak a biztosítókra vagy viszontbiztosítókra az alábbiak valamelyikét kell alkalmaznia:
-
-- a) a 331–340. § és a 350–362. § rendelkezéseit;
-- b) a (2) bekezdésben meghatározott módszerek valamelyikét.
-
-(2) A 331–362. §-ban meghatározott általános elvek és módszerek alkalmazandók a biztosítói holdingtársaság, a vegyes pénzügyi holdingtársaság, a harmadik országbeli biztosító vagy a harmadik országbeli viszontbiztosító szintjén is.
-
-(3) Kizárólag az összevont alapon számított szavatolótőke-megfelelés kiszámításának céljából az anyavállalatot úgy kell kezelni, mintha a szavatolótőke-szükséglet fedezetéhez figyelembe vehető szavatolótőke tekintetében a 99–100. §-ban meghatározott azonos feltételek hatálya és a következők egyikének hatálya alá tartozó biztosító vagy viszontbiztosító lenne:
-
-- a) biztosítói holdingtársaság vagy vegyes pénzügyi holdingtársaság esetében a 335. § (1)–(4) bekezdésében kifejtett elvekkel összhangban meghatározott szavatolótőke-szükséglet;
-- b) harmadik országbeli biztosító vagy harmadik országbeli viszontbiztosító esetében a 335. § (5)–(12) bekezdésében kifejtett elvekkel összhangban meghatározott szavatolótőke-szükséglet.
-
-(4) A Felügyelet a 291. §-ban meghatározott olyan intézkedéseket alkalmazhat, amelyek biztosítják a csoporton belüli biztosítók vagy viszontbiztosítók felügyeletét. Ezen intézkedéseket,
-
-- a) ha nem a Felügyelet a csoportfelügyeletért felelős felügyeleti hatóság, a csoportfelügyeletért felelős felügyeleti hatóság jóváhagyását,
-- b) ha a Felügyelet a csoportfelügyeletért felelős felügyeleti hatóság, a többi érintett felügyeleti hatósággal folytatott konzultációt
-
-követően lehet meghozni.
-
-(5) A Felügyelet előírhatja olyan biztosítói holdingtársaság vagy vegyes pénzügyi holdingtársaság létrehozását, amelynek központi irodája Magyarországon van, és e rész rendelkezéseit alkalmazhatja azon csoporthoz tartozó biztosítókra vagy viszontbiztosítókra, amelynek élén ez a biztosítói holdingtársaság vagy vegyes pénzügyi holdingtársaság áll.
-
-(6) A választott módszereknek lehetővé kell tenniük az e részben meghatározott csoportfelügyelet célkitűzéseinek elérését, és értesíteni kell róluk a többi érintett felügyeleti hatóságot és a Bizottságot is.
-
-#### 164. Az Európai Unión kívül székhellyel rendelkező anyavállalatokkal kapcsolatos szintek
-
-366. § (1) Ha a 363. § szerinti anyavállalat maga is a harmadik országban központi irodával rendelkező biztosítói holdingtársaság vagy vegyes pénzügyi holdingtársaság, illetve harmadik országbeli biztosító vagy viszontbiztosító leányvállalata, a Felügyelet a 363. §-ban előírt ellenőrzést csak az olyan legfőbb anyavállalat szintjén alkalmazza, amely egy harmadik országbeli biztosítói holdingtársaság, harmadik országbeli vegyes pénzügyi holdingtársaság, harmadik országbeli biztosító vagy harmadik országbeli viszontbiztosító.
-
-(2) A Felügyelet a 363. § szerinti egyenértékű felügyelet hiánya esetén új ellenőrzést végezhet azon az alacsonyabb szinten, ahol a biztosítók vagy viszontbiztosítók anyavállalata található. Ez lehet a harmadik országbeli biztosítói holdingtársaság, harmadik országbeli vegyes pénzügyi holdingtársaság, harmadik országbeli biztosító vagy harmadik országbeli viszontbiztosító szintje is. Ebben az esetben a Felügyelet, mint a 363. § (2) bekezdése szerint eljáró csoportfelügyeletért felelős hatóság köteles megindokolni a döntését a csoportnak. A 365. § rendelkezései értelemszerűen alkalmazandóak.
-
-#### 165. Csoporton belüli ügyletek
-
-367. § (1) Amennyiben egy vagy több biztosító vagy viszontbiztosító anyavállalata vegyes tevékenységű biztosítói holdingtársaság, és a Felügyelet ezen biztosítók vagy viszontbiztosítók felügyeletéért felelős, akkor egyben általános felügyeletet is gyakorol az említett biztosítók vagy viszontbiztosítók és a vegyes tevékenységű biztosítói holdingtársaság és annak kapcsolt vállalkozásai közötti ügyletek felett is.
-
-(2) Az (1) bekezdésben meghatározott esetben a 348. §, a 353–358. § és a 362. § rendelkezései megfelelően alkalmazandóak.
+#### 367. §
 
 ## HARMADIK KÖNYV — A BIZTOSÍTÁSKÖZVETÍTŐK
 
@@ -4759,21 +4233,15 @@ köteles az (1) bekezdésben meghatározott módon az ügyfél részére a vált
 
 382. § (1) A többes ügynök és az alkusz biztosítja, hogy az ügyfél a többes ügynök és az alkusz magatartására, tevékenységére vagy mulasztására vonatkozó panaszát szóban (személyesen, telefonon) vagy írásban (személyesen vagy más által átadott irat útján, postai úton, telefaxon, elektronikus levélben) közölhesse.
 
-(2) A többes ügynök és az alkusz
+(2) A többes ügynök és az alkusz panaszkezelési eljárására egyebekben a 159. § (2)–(5) bekezdése rendelkezéseit kell alkalmazni azzal, hogy ahol a rendelkezés biztosítót nevesít, azon a többes ügynököt és az alkuszt kell érteni.
 
-- a) a szóbeli panaszt valamennyi, az ügyfelek számára nyitva álló helyiségben, annak nyitvatartási idejében, ennek hiányában a székhelyén minden munkanapon 8 órától 16 óráig,
-- b) a telefonon közölt szóbeli panaszt minden munkanapon 8 órától 16 óráig, de legalább egy munkanapon 8 órától 20 óráig,
-- c) az írásbeli panaszt elektronikus eléréssel – üzemzavar esetén megfelelő más elérhetőséget biztosítva – folyamatosan
+(3) A 159. § (2) bekezdése első mondatában foglaltakat, valamint a biztosítók, a többes ügynökök és az alkuszok panaszkezelésének eljárásával, valamint panaszkezelési szabályzatával kapcsolatos részletes szabályokról szóló kormányrendeletnek a biztosító számára előírt – a személyes ügyintézés időpontjának előzetes lefoglalására, valamint az ésszerű várakozási időn belüli hívásfogadásra és ügyintézésre vonatkozó – követelményeit azzal az eltéréssel kell alkalmazni, hogy a panasz azonnali kivizsgálása követelményének a többes ügynök és az alkusz úgy is eleget tehet, hogy a hívás fogadása hangfelvétel rögzítésével történik és az ügyfelet legkésőbb a következő munkanapon érdemi panaszkezelés céljából a többes ügynök és az alkusz rögzített hangfelvétel alkalmazásával visszahívja. A visszahívásról készült hangfelvételt egy évig meg kell őrizni.
 
-fogadja.
+(4) Ha a többes ügynök vagy az alkusz a panaszkezelési eljárást részben vagy egészében mással végezteti, úgy köteles a titokvédelmi szabályok 379. § (3) bekezdésének megfelelő betartásáról gondoskodni.
 
-(3) A többes ügynök és az alkusz panaszkezelési eljárására egyebekben a 159. § (3)–(16) bekezdésének rendelkezéseit kell alkalmazni azzal, hogy ahol a rendelkezés biztosítót nevesít, azon a többes ügynököt és az alkuszt kell érteni.
+(5) Ha a többes ügynök vagy az alkusz a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény 3. § (3) bekezdésében meghatározott mikrovállalkozásnak minősül, nem köteles fogyasztóvédelmi ügyekért felelős kapcsolattartót kijelölni.
 
-(4) A 159. § (3)–(4) bekezdését, valamint az 159. § (5) bekezdése első mondatában foglaltakat azzal az eltéréssel kell alkalmazni, hogy a panasz azonnali kivizsgálása követelményének a többes ügynök és az alkusz úgy is eleget tehet, hogy a hívás fogadása hangfelvétel rögzítésével történik és az ügyfelet legkésőbb a következő munkanapon érdemi panaszkezelés céljából a többes ügynök és az alkusz rögzített hangfelvétel alkalmazásával visszahívja. A visszahívást egy évig meg kell őrizni.
-
-(5) Ha a többes ügynök vagy az alkusz a panaszkezelési eljárást részben vagy egészében mással végezteti, úgy köteles a titokvédelmi szabályok 379. § (3) bekezdésének megfelelő betartásáról gondoskodni.
-
-(6) Ha a többes ügynök vagy az alkusz a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény 3. § (3) bekezdésében meghatározott mikrovállalkozásnak minősül, nem köteles fogyasztóvédelmi ügyekért felelős kapcsolattartót kijelölni.
+(6) A többes ügynök és az alkusz panaszkezelésének eljárására, valamint panaszkezelési szabályzatára vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
 
 ### XXVII. Fejezet — A FÜGGŐ BIZTOSÍTÁSKÖZVETÍTŐK MŰKÖDÉSÉRE VONATKOZÓ KÜLÖNÖS SZABÁLYOK
 
@@ -5401,7 +4869,9 @@ rendelkezni.
 - c) a biztosítók és viszontbiztosítók informatikai rendszere védelmének követelményeire és a tanúsítási eljárás – általános forgalmi adó nélkül számított – maximális díjával szemben támasztott követelményeire,
 - d)
 - e) a többes ügynöki és az alkuszi felelősségbiztosítási szerződés minimális tartalmi követelményeire,
-- f) a biztosítási és a viszontbiztosítási tevékenységhez kapcsolódó fizetőképességről és pénzügyi helyzetről szóló jelentéssel összefüggő részletszabályokra
+- f) a biztosítási és a viszontbiztosítási tevékenységhez kapcsolódó fizetőképességről és pénzügyi helyzetről szóló jelentéssel összefüggő részletszabályokra,
+- g) a biztosítók, valamint a többes ügynökök és az alkuszok panaszkezelésének eljárására, valamint panaszkezelési szabályzatára,
+- h) a biztosítók és a viszontbiztosítók csoportfelügyeletére
 
 vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
@@ -5446,7 +4916,7 @@ vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
 (2) 2016. január 1-jét követő négy éven keresztül a biztosító vagy viszontbiztosító Felügyelet felé fennálló, a 269. § (2) bekezdés b) és d) pontjában meghatározott adatszolgáltatási kötelezettsége teljesítésének határideje évenként egy héttel csökken. A 2016. január 1-jén vagy azután, de 2017. január 1-jét megelőzően záruló negyedévet követően legfeljebb a 8. hét, a 2019. január 1-jén vagy azután, de 2020. január 1-jét megelőzően záruló negyedévet követően legfeljebb az 5. hét zárónapja az adatszolgáltatási kötelezettség határideje.
 
-(3) Az (1)–(2) bekezdés alkalmazandó csoportszinten a részesedéssel rendelkező biztosítókra és viszontbiztosítókra, biztosítói holdingtársaságokra és vegyes pénzügyi holdingtársaságokra a 357. § és a 359. § értelmében azzal, hogy az (1)–(2) bekezdésben meghatározott határidők hat héttel hosszabbak.
+(3)
 
 442. § (1) E törvényben meghatározott szabályok helyett a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény 2015. december 31-én hatályos rendelkezései alkalmazandók azokra a biztosítókra, amelyek 2016. január 1-jét követően nem kötnek új biztosítási vagy viszontbiztosítási szerződéseket, és a meglévő szerződésállományukat kizárólag a tevékenységük megszüntetése céljából kezelik, amennyiben:
 
@@ -5484,11 +4954,7 @@ alkalmazandók az e törvényben meghatározott szabályok.
 
 (10) Azon biztosítók és viszontbiztosítók tekintetében, amelyek 2011. január 1-je előtt kibocsátott, átcsomagolt hitelkonstrukciókon alapuló, forgalomképes értékpapírokba vagy más pénzügyi eszközökbe fektetnek be, a Bizottságnak a Szolvencia 2 irányelv 135. cikk (2) bekezdésében meghatározott tárgykörben kiadott rendeletében megállapított követelményeket csak a 2014. december 31-ét követő új kitettségek felmerülése esetén kell alkalmazni.
 
-442/A. § (1) 2022. március 31-ig a Felügyelet – kérelemre – engedélyezheti a biztosítók vagy viszontbiztosítók legfőbb anyavállalatainak egy csoportszintű belső modell alkalmazásának jóváhagyását a csoport egy részére vonatkozóan, amennyiben a biztosító és a legfőbb anyavállalat székhelye ugyanabban a tagállamban van, és a csoportnak ez a része egy különálló részt alkot a csoport többi részétől a jelentősen különböző kockázati profilja miatt.
-
-(2) A Bit. 331. §-ától eltérően a 441. §-ban, továbbá a biztosítók és a viszontbiztosítók szavatolótőkéjéről és biztosítástechnikai tartalékairól szóló kormányrendeletben meghatározott átmeneti rendelkezések csoportszinten értelemszerűen alkalmazandók.
-
-(3) A Bit. 331. §-ától eltérve, az (1) bekezdésben meghatározott átmeneti rendelkezések értelemszerűen alkalmazandók csoportszinten és azokban az esetekben, amikor egy csoport részesedéssel rendelkező biztosítói vagy viszontbiztosítói teljesítik a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény vagy a viszontbiztosítókról szóló 2007. évi CLIX. törvény 2015. december 31-én hatályos rendelkezései szerinti korrigált szavatolótőke-követelményt, de nem teljesítik az e törvényben meghatározottak szerinti csoportszintű szavatolótőke-szükséglet követelményét.
+#### 442/A. §
 
 443. § (1) A (2)–(3) bekezdésben meghatározott kivétellel az e törvény hatálybalépését megelőzően a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény – 2015. december 31-én hatályos – 1. számú melléklet A) része szerint egyes ágazatokra és kockázatokra megadott engedélyek ágazatok és kockázatok szerinti besorolása megfelel az 1. mellékletben meghatározott ágazatok és kockázatok szerinti besorolásnak.
 
@@ -5679,6 +5145,10 @@ feltéve, ha a szakmai gyakorlat befejezésére vonatkozó egyéb feltételek fe
 452/C. § (1) A 70. § (1), (2) és (7) bekezdésének, valamint 116. és 117. §-nak – a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény és egyes pénzügyi tárgyú törvények módosításáról szóló 2016. évi XLIV. törvénnyel megállapított – rendelkezéseit 2017. január 1-jétől kell alkalmazni.
 
 (2) A 70. § (3) és (4) bekezdés – a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény és egyes pénzügyi tárgyú törvények módosításáról szóló 2016. évi XLIV. törvénnyel hatályon kívül helyezett – rendelkezéseit a 2016. június 17-ét megelőzően induló üzleti évre vonatkozó jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységre még alkalmazni kell.
+
+452/D. § (1) A 107. § (1) bekezdés f) pontjának, továbbá (1a) bekezdésének – a pénzügyi közvetítőrendszert érintő egyes törvények módosításáról szóló 2016. évi LIII. törvénnyel megállapított – rendelkezéseit a 2017. január 1-jétől megkötött biztosítási szerződések esetében kell alkalmazni.
+
+(2) A 124/A. § – a pénzügyi közvetítőrendszert érintő egyes törvények módosításáról szóló 2016. évi LIII. törvénnyel megállapított – rendelkezéseit a 2017. január 1-jétől megkötött biztosítási szerződések esetében kell alkalmazni.
 
 #### 196. Az Európai Unió jogának való megfelelés
 

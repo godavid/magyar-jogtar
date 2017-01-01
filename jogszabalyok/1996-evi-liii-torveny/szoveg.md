@@ -58,7 +58,8 @@ során.
 - m) fenntartható használat (hasznosítás): a természeti értékek olyan módon és ütemben történő használata, amely nem haladja meg megújuló képességüket, nem vezet a természeti értékek és a biológiai sokféleség csökkenéséhez, ezzel fenntartva a jelen és jövő generációk életlehetőségeit;
 - n) természetkímélő megoldás (természetkímélő gazdálkodás): olyan, a fenntartható használat részét képező eljárás, módszer, gazdálkodási mód, technológia vagy más, a természettel kapcsolatos magatartás, amely csak olyan mértékben befolyásolja a természeti értékeket, területeket, a biológiai sokféleséget, hogy természetes vagy természetközeli állapotuk fennmaradjon;
 - o) egyed (példány): élő szervezet, annak valamennyi fejlődési szakasza, alakja, állapota és származéka, valamint az elpusztult élőlény, illetve az a termék vagy készítmény, amelyről csomagolása vagy egyéb irat, adat, illetve körülmény alapján megállapítható, hogy a felsoroltak valamelyikéből készült, illetve ezek valamelyikéből származó összetevőt tartalmaz;
-- q) natúrpark: az ország jellegzetes természeti, tájképi és kultúrtörténeti értékekben gazdag, a természetben történő aktív kikapcsolódás, felüdülés, gyógyulás, fenntartható turizmus és a természetvédelmi oktatás, nevelés, ismeretterjesztés, továbbá a természetkímélő gazdálkodás megvalósítását szolgáló nagyobb kiterjedésű területe, amely e jogszabályban foglaltaknak megfelelően jön létre.
+- q) natúrpark: az ország jellegzetes természeti, tájképi és kultúrtörténeti értékekben gazdag, a természetben történő aktív kikapcsolódás, felüdülés, gyógyulás, fenntartható turizmus és a természetvédelmi oktatás, nevelés, ismeretterjesztés, továbbá a természetkímélő gazdálkodás megvalósítását szolgáló nagyobb kiterjedésű területe, amely e jogszabályban foglaltaknak megfelelően jön létre;
+- r) ökoszisztéma-szolgáltatás: az 1143/2014/EU európai parlamenti és tanácsi rendelet 3. cikk 6. pontja szerint azok a javak (termékek és szolgáltatások), amelyeket az ökológiai rendszer természetes vagy átalakított formájában nyújt, növelve a társadalom és a tagjainak jóllétét.
 
 ### Alapelvek
 
@@ -111,7 +112,7 @@ során.
 
 (3) Behurcoltak vagy betelepítettek azok az élő szervezetek, amelyek az ember nem tudatos (behurcolás) vagy tudatos (betelepítés) tevékenysége folytán váltak a hazai élővilág részévé.
 
-(4) Tájidegen fajok azok az élő szervezetek, melyek növény- és állatföldrajzi szempontból nem minősülnek őshonosnak, és megtelepedésük, alkalmazkodásuk esetén a hazai életközösségekben a természetes folyamatokat az őshonos fajok rovására károsan módosíthatják.
+(4)
 
 (5) Visszatelepülők azok az őshonos élő szervezetek, amelyek hazánk területéről eltűntek (kipusztultak), de természetes elterjedésük folytán ismét megjelennek hazánk természetes élővilágának részeként.
 
@@ -131,13 +132,22 @@ során.
 
 10. § (1) Vadon élő szervezet egyedének az országba történő behozatala, átszállítása, kivitele, mesterséges körülmények közötti szaporítása, tartása, termesztésbe, tenyésztésbe vonása, keresztezése, természetbe kijuttatása, értékesítése a Kormány által meghatározott feltételekkel és módon történhet.
 
-(2)
+(2) A Magyarországon veszélyt jelentő idegenhonos inváziós fajok körét a természetvédelemért felelős miniszter (a továbbiakban: miniszter) – az agrárpolitikáért, az élelmiszerlánc-felügyeletért, az erdőgazdálkodásért, a halgazdálkodásért és a vadgazdálkodásért felelős miniszter véleményének kikérését követően – állapítja meg.
+
+(3) Idegenhonos inváziós faj egyedének az országba történő behozatalára, átszállítására, kivitelére, tartására, szaporítására, termesztésbe, tenyésztésbe vonására, keresztezésére, értékesítésére vagy felhasználására irányuló engedélyezés, illetve ellenőrzés során az 1143/2014/EU európai parlamenti és a tanácsi rendelet rendelkezéseit kell alkalmazni.
+
+(4) A (3) bekezdésben vagy más jogszabályban meghatározott, idegenhonos inváziós fajokkal kapcsolatos engedélyezési, ellenőrzési, kötelezési és szankcionálási feladatokat
+
+- a) az a hatóság látja el, amelynek eljárása idegenhonos inváziós fajt érint,
+- b) az a) pont szerinti hatóság hiányában a természetvédelmi hatóság látja el.
+
+(5) Az idegenhonos inváziós fajokkal kapcsolatban hozott hatósági határozat ellen nincs helye fellebbezésnek.
 
 11. § (1) A vadgazdálkodás, vadászat, halgazdálkodás, halászat és horgászat során biztosítani kell a természet védelméhez fűződő érdekek érvényesülését, a fenntartható használatot, ami a vadon élő vadászható, halászható (horgászható) vad- és halfajok biológiai sokféleségre alapozott fenntartását jelenti.
 
 (2) A vadászható és halászható vad- és halfajok vadászata, halászata és horgászata csak olyan mértékű lehet, amely a faj természetes állományának sokféleségét, fennmaradását nem veszélyezteti.
 
-(3) A nem halászható (horgászható) fajokról, a halászati (horgászati) tilalmakról és fajok szerinti tilalmi időkről a halgazdálkodásért felelős miniszter a természetvédelemért felelős miniszter (a továbbiakban: miniszter) egyetértésével kiadott rendeletben rendelkezik.
+(3) A nem halászható (horgászható) fajokról, a halászati (horgászati) tilalmakról és fajok szerinti tilalmi időkről a halgazdálkodásért felelős miniszter a miniszter egyetértésével kiadott rendeletben rendelkezik.
 
 (4) A vadászható állatfajok (vad) körének meghatározására, vadászati idény és vadászati tilalom megállapítására a vad védelméről, a vadgazdálkodásról valamint a vadászatról szóló törvény rendelkezései az irányadóak.
 
@@ -730,7 +740,7 @@ tervet készít, készíttet, illetőleg kezdeményezi annak elkészítését.
 
 (2)
 
-#### 58. §
+58. § Az igazgatóság vagy génmegőrzési intézmény az alapfeladatai ellátása érdekében a tenyésztett fajta tenyésztő szervezetének tagja lehet.
 
 59. § (1) A természeti értékek és területek, különösen a védett természeti értékek és területek őrzése, megóvása, károsításának megelőzése érdekében – egyenruhával és szolgálati lőfegyverrel ellátott tagokból álló – természetvédelmi őrszolgálat működik.
 
@@ -945,6 +955,18 @@ a kárviselésre vonatkozó szabályok
 
 77. § A természetvédelmi hatóság jogszabályban meghatározott előírások teljesítése érdekében az ügyfeleket kötelezheti az eredeti állapot helyreállítására, különösen a károsodott természeti érték és terület, továbbá a védett természeti érték és terület helyreállítására, illetve a 78/A. § esetében a Kt. és a külön jogszabályokban meghatározottak szerinti megelőzési, illetve helyreállítási intézkedésre.
 
+77/A. § (1) Aki az 1143/2014/EU európai parlamenti és tanácsi rendeletben, illetve jogszabályban meghatározott, idegenhonos inváziós fajjal kapcsolatos előírásokat megszegi, – saját költségére – kötelezhető az idegenhonos inváziós faj betelepítésének vagy behurcolásának megakadályozására, visszaszorítására, elszigetelésére, kiirtására, fogságban tartott állományának teljes és végleges felszámolására, árukészletének megsemmisítésére, illetve a sérült ökológiai rendszerek helyreállítására.
+
+(2) Ha az (1) bekezdés szerinti személy nem állapítható meg, a 10. § (4) bekezdése szerinti hatóság a terület tulajdonosát, használóját vagy vagyonkezelőjét az (1) bekezdés szerinti intézkedések megtételére kötelezheti. A terület tulajdonosa, használója vagy vagyonkezelője a kötelezettség alól mentesül, ha az idegenhonos inváziós faj behurcolása, telepítése neki nem felróható és a tevékenysége során kellő gondossággal járt el.
+
+(3) Ha az (1) vagy (2) bekezdés szerinti kötelezett a kötelezettségét felszólítás ellenére sem teljesíti, a 10. § (4) bekezdése szerinti hatóság elvégzi vagy elvégezteti az (1) bekezdésben foglalt intézkedéseket és a költségek tizenöt napon belüli megtérítésére kötelezi a mulasztót (a továbbiakban: idegenhonos inváziós faj elleni közérdekű védekezés). Az elvégzett tevékenységek költségei adók módjára behajtandó köztartozásnak minősülnek.
+
+(4) Ha az idegenhonos inváziós faj elleni közérdekű védekezés elrendelésének feltételei nem állnak fenn, a 10. § (4) bekezdése szerinti hatóság állami védekezést rendelhet el (a továbbiakban: idegenhonos inváziós faj elleni állami védekezés). Idegenhonos inváziós faj elleni állami védekezés keretében az eljáró hatóság az (1) bekezdésben foglalt intézkedéseket elvégzi vagy elvégezteti.
+
+(5) Az idegenhonos inváziós faj elleni állami védekezés, illetve az idegenhonos inváziós faj elleni közérdekű védekezés költségeinek fedezetéről a központi költségvetésben e célra meghatározott fejezeti kezelésű előirányzat terhére kell gondoskodni.
+
+(6) A tulajdonos, a vagyonkezelő és a használó tűrni köteles a 10. § (4) bekezdése szerinti hatóságnak, az igazgatóságnak, illetve a természetvédelmi kezelést ellátó szervnek, valamint a (3) és (4) bekezdés alapján feljogosított személynek az 1143/2014/EU európai parlamenti és tanácsi rendeletben, illetve jogszabályban meghatározott, idegenhonos inváziós fajjal kapcsolatos előírások teljesítése érdekében végzett tevékenységét, valamint tulajdonjogának időleges korlátozását.
+
 78. § (1) A természetvédelmi hatóság korlátozhatja, felfüggesztheti vagy megtilthatja a védett természeti értéket és területet károsító vagy súlyosan veszélyeztető tevékenységeket. A határozat – a védett természeti érték, terület közvetlen vagy súlyos sérelme, illetve veszélyeztetése esetében – fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
 
 (2) A Natura 2000 területen élő közösségi jelentőségű faj állományának, valamint élőhelynek veszélyeztetése vagy súlyos sérelme esetén a külön jogszabályban meghatározott hatósági határozat fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
@@ -954,6 +976,8 @@ a kárviselésre vonatkozó szabályok
 (4) A jogellenesen szerzett, birtokban tartott védett természeti értéket – ha az nem áll állami tulajdonban – a természetvédelmi hatóság birtokát ideiglenesen elvonja (a továbbiakban: lefoglalás), vagy birtokát véglegesen elvonja és azt állami tulajdonba veszi (a továbbiakban: elkobzás). Ha a védett természeti érték állami tulajdonban áll, akkor azt a természetvédelmi hatóság lefoglalja és az állam tulajdonosi jogait gyakorló szerv döntéséig az igazgatóság gondoskodik a megőrzéséről.
 
 (5) Az elkobzott védett természeti értékek csak a miniszter által meghatározottak szerint használhatók fel.
+
+(6) Az 1143/2014/EU európai parlamenti és tanácsi rendeletben, illetve jogszabályban meghatározott, idegenhonos inváziós fajjal kapcsolatos előírások megsértése esetén az idegenhonos inváziós fajok élő egyede kormányrendeletben meghatározottak szerint elkobozható vagy lefoglalható.
 
 78/A. § Az egyes külön jogszabályokban meghatározott fajoknak és élőhelyeiknek, költő és pihenőhelyeinek, természetes élőhelyeknek, védett természeti területeknek és védett természeti értékeknek a Kt. 4. §-ának 10. pontjában meghatározott veszélyeztetése, valamint 13. pontjában meghatározott károsodása esetén a károsodás mértéke megállapításának szempontjait, valamint a környezetkárosodás megelőzésének és helyreállításának rendjét a Kormány határozza meg.
 
@@ -1000,7 +1024,10 @@ bűncselekmény elkövetése miatt jogerősen megállapította,
 
 - a) az érintett terület természeti értékeinek, azok helyzetének a felmérését;
 - b) a természeti értékeket – beleértve a védett természeti értékeket – jelentősen befolyásoló, veszélyeztető, károsító tevékenységek bemutatását;
-- c) a tervezett tevékenységek megvalósítása és a gazdálkodás nyomán a várható változásokat, továbbá a természeti értékek megóvására, elkerülhetetlen károsodásuk csökkentésére vonatkozó intézkedéseket is.
+- c) a tervezett tevékenységek megvalósítása és a gazdálkodás nyomán a várható változásokat, továbbá a természeti értékek megóvására, elkerülhetetlen károsodásuk csökkentésére vonatkozó intézkedéseket;
+- d) az ökoszisztéma-szolgáltatás felmérésének eredményét.
+
+79/A. § A biológiai sokféleség megőrzése érdekében szükséges, az ökoszisztémák és ökoszisztéma-szolgáltatások állapotfelmérésének, térképezésének és értékelésének eredményét az egyes szakpolitikai stratégiai tervdokumentumok előkészítése, valamint megvalósítása során figyelembe kell venni.
 
 ### Természetvédelmi bírság
 
@@ -1027,6 +1054,16 @@ természetvédelmi bírságot köteles fizetni.
 
 (6) A természetvédelmi bírság kiszabására vonatkozó eljárási szabályokat, valamint a bírság mértékét és megállapításának módját a Kormány állapítja meg.
 
+### Idegenhonos inváziós fajokkal kapcsolatos bírság
+
+80/A. § (1) Aki tevékenységével vagy mulasztásával az 1143/2014/EU európai parlamenti és tanácsi rendeletben, illetve jogszabályban meghatározott, idegenhonos inváziós fajjal kapcsolatos bejelentési, vészhelyzeti intézkedési, helyreállítási és egyéb előírásokat, valamint hatósági határozatban foglaltakat megsérti, idegenhonos inváziós fajokkal kapcsolatos bírságot (a továbbiakban: inváziós bírság) fizet.
+
+(2) Az inváziós bírság korlátlanul enyhíthető vagy a jogellenes magatartás csekély súlya miatt a bírság kiszabása mellőzhető, ha a cselekmény nem veszélyezteti az 1143/2014/EU európai parlamenti és tanácsi rendelet célkitűzéseinek megvalósulását.
+
+(3) Az inváziós bírság megfizetése nem mentesít az egyéb közigazgatási bírság megfizetése, valamint a tevékenység korlátozására, felfüggesztésére, megtiltására, továbbá a helyreállításra vonatkozó kötelezettség teljesítése alól.
+
+(4) Az inváziós bírság kiszabására a 10. § (4) bekezdése szerinti hatóság jogosult.
+
 ### Polgári jogi felelősség
 
 81. § (1) Az, aki a természet védelmére vonatkozó jogszabályokat, egyedi hatósági előírásokat megszegve kárt okoz, a kárt a Polgári Törvénykönyv fokozott veszéllyel járó tevékenységre vonatkozó szabályai szerint köteles megtéríteni.
@@ -1041,7 +1078,7 @@ természetvédelmi bírságot köteles fizetni.
 
 (3) Károkozás esetén elsősorban a természetbeni helyreállítást kell megkísérelni, és a kár ebben az esetben – hacsak a helyreállítást nem a károkozó végzi – magában foglalja az eredeti állapot helyreállításának költségeit is.
 
-(4) A (2) bekezdés e) pontja alapján a társadalom vagy csoportjainak életkörülményei romlásából fakadó nem vagyoni kár megtérítése iránt keresetet az ügyész indíthat [60. § (2) bekezdés], és a megítélt kártérítést a Környezetvédelmi alap célfeladat fejezeti kezelésű előirányzat részére kell megfizetni.
+(4) A (2) bekezdés e) pontja alapján a társadalom vagy csoportjainak életkörülményei romlásából fakadó nem vagyoni kár megtérítése iránt keresetet az ügyész indíthat [60. § (2) bekezdés] és a megítélt kártérítést a miniszter által vezetett minisztériumnak a természetvédelmi kártérítések megfizetésére létrehozott folyószámlájára kell megfizetni. A befolyt kártérítés összege kizárólag természetvédelmi célok, feladatok megvalósítására, támogatására használható fel.
 
 81/A. § Természetvédelmi célból történő kisajátításra a kisajátításról szóló külön törvény rendelkezéseit kell alkalmazni.
 
@@ -1075,7 +1112,9 @@ természetvédelmi bírságot köteles fizetni.
 - 10. az egyes külön jogszabályokban meghatározott fajoknak és élőhelyeiknek, költő- és pihenőhelyeinek, természetes élőhelyeknek, védett természeti területeknek és védett természeti értékeknek a veszélyeztetése, károsodása esetén a károsodás mértéke megállapításának szempontjait, valamint a környezetkárosodás megelőzésének és helyreállításának rendjét;
 - 11. a természetvédelmi bírság kiszabására vonatkozó eljárási szabályokat, valamint a bírság mértékét és megállapításának módját;
 - 12. a természetvédelmi hatóság vagy hatóságok, illetve a védett természeti területek természetvédelmi kezeléséért felelős szerv vagy szervek kijelölését;
-- 13. a természetvédelmi eljárások során vizsgálandó szakkérdéseket és más hatósági eljárásban vizsgálandó természetvédelmi szakkérdéseket.
+- 13. a természetvédelmi eljárások során vizsgálandó szakkérdéseket és más hatósági eljárásban vizsgálandó természetvédelmi szakkérdéseket;
+- 14. az idegenhonos inváziós fajok körének meghatározására vonatkozó eljárással, egyedének az országba történő behozatalával, átszállításával, kivitelével, tartásával, szaporításával, termesztésbe, tenyésztésbe vonásával, keresztezésével, természetbe kijuttatásával, forgalomba hozatalával, értékesítésével, felhasználásával, kiirtásával, kezelésével, a vészhelyzeti intézkedésekkel, a korai észlelés és az invázió kezdeti szakaszában szükséges gyors kiirtásra vonatkozó eljárással, a velük kapcsolatos felügyeleti és monitorozó rendszer felállításával és működtetésével, a bekerülési és terjedési útvonalaikra vonatkozó cselekvési tervek készítésével, elfogadásával és végrehajtásával, valamint a sérült ökológiai rendszerek helyreállításával kapcsolatos szabályokat;
+- 15. az inváziós bírság kiszabására, a kötelező intézkedések meghatározására vonatkozó eljárási szabályokat, a bírság mértékét és megállapításának szempontrendszerét, valamint a bírság megfizetése módjának részletszabályait.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben szabályozza
 
@@ -1098,7 +1137,7 @@ természetvédelmi bírságot köteles fizetni.
 - 17. a fokozottan védett élő szervezetek élőhelyén, valamint élőhelye körül elrendelt használati, gazdálkodási korlátozásra vonatkozó szabályokat;
 - 18. a teljesen vagy túlnyomóan mesterséges üregek – amelyeknek a felületén utólag létrejött szakmai, tudományos szempontból jelentős képződmények alakultak ki, vagy természetvédelmi szempontból kiemelkedő jelentőségűek – védetté nyilvánítását;
 - 19. barlang, illetve védetté nyilvánított mesterséges üreg védelmének, fokozott védelmének feloldását;
-- 20. barlang védőövezetének kijelölését és a védőövezetre irányadó korlátozásokat;
+- 20. barlang és a védett mesterséges üreg védőövezetének kijelölését és a védőövezetre irányadó korlátozásokat;
 - 21. a barlangok közhiteles nyilvántartását, az ennek vezetésére jogosult szervet, a nyilvántartás tartalmát és vezetésének módját, a nyilvántartásból történő adatszolgáltatást, valamint a barlangok természeti állapotfelvételének és kezelési tervük készítésének szabályait;
 - 22. azon barlangok körét, amelyek látogatásához az igazgatóság vagyonkezelői hozzájárulása szükséges, továbbá a vagyonkezelői hozzájárulás kérelmezésének és megadásának szabályait;
 - 23. a barlangok látogatásának, kutatásának, hasznosításának és a barlangi búvármerülés, barlangi mentés szabályait, a barlang, barlangszakasz kiépítése körébe tartozó műtárgyak és tevékenységek körét, a kiépítés szabályait, továbbá a barlangokkal kapcsolatos engedélyezés szabályait;
@@ -1108,7 +1147,9 @@ természetvédelmi bírságot köteles fizetni.
 - 27. a polgári természetőrökre vonatkozó részletes szabályokat;
 - 28. a védett természeti területek és értékek nyilvántartását;
 - 29. a védett élő szervezetek, életközösségek, ásványi képződmények pénzben kifejezett értékét;
-- 30. az elkobzott védett természeti értékek felhasználását.
+- 30. az elkobzott védett természeti értékek felhasználását;
+- 31. a Magyarországon, illetve a regionális szinten veszélyt jelentő idegenhonos inváziós fajok körét;
+- 32. az Európai Unió számára, valamint a tagállami, illetve regionális szinten veszélyt jelentő idegenhonos inváziós fajok betelepítésének vagy behurcolásának és terjedésének megelőzésével és kezelésével összefüggő részletszabályokat.
 
 (3) Felhatalmazást kap a miniszter, hogy az agrárpolitikáért felelős miniszter egyetértésével kiadott rendeletben
 
@@ -1122,7 +1163,7 @@ természetvédelmi bírságot köteles fizetni.
 - 1.
 - 2. a védett régi hazai háziállatfajok és fajták megőrzésére, egyedei törzskönyvezésére vonatkozó szabályokat, tenyésztési és teljesítményvizsgálati elveket.
 
-#### 85/A. §
+85/A. § Ez a törvény az idegenhonos inváziós fajok betelepítésének vagy behurcolásának és terjedésének megelőzéséről és kezeléséről szóló, 2014. október 22-i, 1143/2014/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 86. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 

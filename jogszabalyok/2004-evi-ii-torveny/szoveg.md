@@ -104,46 +104,33 @@ Magyarország Országgyűlése a magyar mozgóképkultúra értékeinek gyarapí
 
 (2) A nemzeti filmvagyon elemei az állam tulajdonába tartoznak.
 
-### 2. CÍM — A Magyar Nemzeti Digitális Archívum és Filmintézet
+### 2. CÍM — A Magyar Nemzeti Filmarchívum
 
-5/B. § (1) A magyar és egyetemes filmkultúra tárgyi, írásos, digitális és egyéb dokumentumainak gyűjtésével, feldolgozásával, megőrzésével, digitalizálásával kapcsolatos feladatokat a Magyar Nemzeti Digitális Archívum és Filmintézet (a továbbiakban: MaNDA) látja el. A MaNDA szakmai szolgáltatásokkal, kutatási tevékenységgel hozzájárul továbbá a magyar filmkultúra fejlődéséhez és segíti a mozgóképkultúrával összefüggő oktatást.
+5/B. § (1) A magyar és egyetemes filmkultúra tárgyi, írásos, digitális és egyéb dokumentumainak gyűjtésével, feldolgozásával, megőrzésével, digitalizálásával kapcsolatos feladatokat a Magyar Nemzeti Filmalap Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: MNF) látja el akként, hogy szervezeti egységeként, és a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény szerinti közgyűjteményként működteti a Magyar Nemzeti Filmarchívumot.
 
-(2) A MaNDA gondozza a részére jogszabály alapján átadott filmalkotásokat, videódokumentumokat, és a filmalkotásokhoz kapcsolódó egyéb dokumentumokat.
+(2) Az MNF a Magyar Nemzeti Filmarchívum működtetése keretében gondozza a részére jogszabály alapján átadott filmalkotásokat és e törvény szerint filmalkotásnak nem minősülő, más audiovizuális műveket (a továbbiakban: más audiovizuális művek), valamint az ezekhez kapcsolódó egyéb dokumentumokat.
+
+(3) Az MNF szakmai szolgáltatásokkal, kutatási tevékenységgel hozzájárul a magyar filmkultúra fejlődéséhez, és segíti a mozgóképkultúrával összefüggő oktatást.
 
 ### 3. CÍM — A nemzeti filmvagyon kezelésének szabályai
 
-5/C. § (1) A nemzeti filmvagyonra vonatkozó vagyonkezelői jogokat a MaNDA gyakorolja.
+5/C. § (1) A nemzeti filmvagyonra vonatkozó vagyonkezelői jogokat az MNF gyakorolja.
 
-(2) A nemzeti filmvagyonba tartozó filmalkotások terjesztését a MaNDA-val kötött megállapodásban (a továbbiakban: terjesztési megállapodás) foglaltak alapján a Magyar Nemzeti Filmalap Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: MNF) végzi, figyelembe véve a terjesztésre vonatkozó piaci lehetőségeket, a terjesztésre kerülő alkotások sokszínűségéhez fűződő érdeket, a rendelkezésére álló példányok minőségét és a terjesztésre vonatkozó minőségi előírásokat. A terjesztési megállapodás a MaNDÁ-t irányító szerv vezetőjének egyetértése esetén jön létre.
+(2) A nemzeti filmvagyonba tartozó filmalkotások terjesztését az MNF végzi, figyelembe véve a terjesztésre vonatkozó piaci lehetőségeket, a terjesztésre kerülő alkotások sokszínűségéhez fűződő érdeket, a rendelkezésére álló példányok minőségét és a terjesztésre vonatkozó minőségi előírásokat. Az MNF korlátlan területi és időbeli felhasználásról szóló, valamint a filmvagyon egészére vonatkozó terjesztési megállapodást nem köthet.
 
-(3) A szerzői vagy szomszédos jogi védelem alatt nem álló filmalkotások vagy e törvény szerint filmalkotásnak nem minősülő egyéb mozgóképes művek (a továbbiakban: egyéb mozgóképes művek) terjesztéséről az MNF e művek vagyonkezelőjével megállapodást köthet.
+(3) A szerzői vagy szomszédos jogi védelem alatt nem álló filmalkotások és más audiovizuális művek terjesztéséről az MNF e művek vagyonkezelőjével megállapodást köthet.
 
-(4) A nemzeti filmvagyonba tartozó filmalkotások és egyéb mozgóképes művek terjesztése során az MNF önállóan, a MaNDA jóváhagyása nélkül jogosult az egyes felhasználókkal megállapodni. Ha a terjesztés érdekeit ez hatékonyabban szolgálja, az MNF jogosult a terjesztési jogok gyakorlását harmadik személynek átengedni vagy harmadik személlyel együttesen gyakorolni. Az MNF korlátlan területi és időbeli felhasználásról szóló, valamint a filmvagyon egészére vonatkozó terjesztési megállapodást nem köthet.
+5/D. § (1) A nemzeti filmvagyonba tartozó filmalkotások és más audiovizuális művek terjesztéséből az MNF-hez befolyt bevételekből a (2) bekezdés szerinti jogdíjak megfizetése után fennmaradó összeget az MNF az e Fejezet szerinti célokra fordítja.
 
-5/D. § (1) A MaNDA jogosult a nemzeti filmvagyonba tartozó filmalkotások és egyéb mozgóképes művek
+(2) A nemzeti filmvagyonba tartozó filmalkotások terjesztésével kapcsolatban felmerült, a szerzői és a szomszédos jogi jogosultakat megillető jogdíjakat – kivéve az 5/E. § szerinti felhasználás esetét – az MNF fizeti meg.
 
-- a) oktatási, könyvtári, közgyűjteményi, közművelődési célú, nem kereskedelmi jellegű, jövedelemszerzésre nem irányuló terjesztésére,
-- b) filmklubokban, művelődési házakban, és egyéb, nem filmszakmai rendezvényeken történő vetítésére, és
-- c) belföldi DVD-n történő terjesztésére.
-
-(2) Az érintett filmalkotások terjesztéséből az MNF-hez befolyt bevételekből, a (3) bekezdés szerinti költségek levonása és a (4) bekezdés szerinti jogdíjak megfizetése után fennmaradó összeg 75%-a a MaNDA-t illeti meg. Ha a költségek a befolyt bevételek 10%-át előreláthatólag meghaladják, elfogadásukról – azok felmerülése előtt – az MNF tájékoztatja a MaNDA-t. A felmerült költségek levonására az MNF csak a MaNDA előzetes jóváhagyásával jogosult.
-
-(3) Az MNF a terjesztésből befolyt bevételekből a terjesztéssel összefüggő következő közvetlen költségek levonására jogosult:
-
-- a) a terjesztés során felhasznált példányok, valamint kellékanyagok előállításának, többszörözésének és szállításának költségei,
-- b) a terjesztéssel összefüggő hirdetési és egyéb marketing költségek,
-- c) a terjesztéssel összefüggő fesztiválon, filmvásáron, egyéb rendezvényen való részvétel költségei,
-- d) egyéb, a terjesztés érdekében közvetlenül felmerülő, indokolt költségek.
-
-(4) A nemzeti filmvagyonba tartozó filmalkotások terjesztésével kapcsolatban felmerült, a szerzői és a szomszédos jogi jogosultakat megillető jogdíjak megfizetéséért – kivéve az 5/E. § szerinti felhasználást – az MNF felel.
-
-(5) A (2) és (3) bekezdést az MNF és az egyéb mozgóképes művek vagyonkezelője közötti terjesztési megállapodás megkötésekor is alkalmazni kell.
+(3) Az (1) és (2) bekezdést az MNF és a más audiovizuális művek vagyonkezelője közötti terjesztési megállapodás megkötésekor is alkalmazni kell.
 
 5/E. § (1) A Médiaszolgáltatás-támogató és Vagyonkezelő Alap (a továbbiakban: MTVA) az Mttv. szerinti feladatai ellátása érdekében a nemzeti filmvagyonba tartozó filmalkotásokat és egyéb mozgóképes műveket felhasználhatja, illetve az Mttv. szerinti feladatai ellátása körében a közszolgálati médiaszolgáltatók részére felhasználásra átengedheti. A felhasználás átengedésének joga harmadik személyre nem terjedhet ki. A felhasználás és a felhasználás átengedésének feltételeiről, valamint a felhasználásért járó költségtérítésről az MNF és az MTVA a (2) és (3) bekezdésben foglaltak figyelembevételével a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa (a továbbiakban: Médiatanács) előzetes jóváhagyásával megállapodást köt.
 
-(2) Az MTVA (1) bekezdés szerinti felhasználásra vonatkozó igényét a MaNDA, illetve az MNF az MTVA által kért határidőben és módon teljesíti, kivéve ha a teljesítés lehetetlen vagy jogszabály alapján kizárt.
+(2) Az MTVA (1) bekezdés szerinti felhasználásra vonatkozó igényét az MNF az MTVA által kért határidőben és módon teljesíti, kivéve ha a teljesítés lehetetlen vagy jogszabály alapján kizárt.
 
-(3) Az (1) bekezdés szerinti költségtérítés keretében csak azokat a költségeket lehet elszámolni, amelyek a nemzeti filmvagyonba tartozó filmalkotások és egyéb mozgóképes művek MTVA általi felhasználásával összefüggően közvetlenül, szükségszerűen és igazoltan merültek fel. A felhasználással kapcsolatosan felmerült szerzői és szomszédos jogdíjak megfizetését az MTVA teljesíti.
+(3) Az (1) bekezdés szerinti költségtérítés keretében csak azokat a költségeket lehet elszámolni, amelyek a nemzeti filmvagyonba tartozó filmalkotások és más audiovizuális művek MTVA általi felhasználásával összefüggően közvetlenül, szükségszerűen és igazoltan merültek fel. A felhasználással kapcsolatosan felmerült szerzői és szomszédos jogdíjak megfizetését az MTVA teljesíti.
 
 ### II. Fejezet — A MOZGÓKÉPKULTÚRA ÉS MOZGÓKÉPIPAR TÁMOGATÁSA
 
@@ -167,7 +154,7 @@ Magyarország Országgyűlése a magyar mozgóképkultúra értékeinek gyarapí
 
 (2) A közvetett támogatás nyújtására az államháztartásról szóló törvény költségvetési támogatás nyújtására vonatkozó rendelkezéseit nem kell alkalmazni.
 
-### 2. CÍM — Magyar Nemzeti Filmalap Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság
+### 2. CÍM — A Magyar Nemzeti Filmalap Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság jogállása, szervezete, bevételi forrásai és támogatási tevékenysége
 
 8. § (1) Az MNF az e törvényben meghatározott rendelkezések szerint végzi a mozgóképszakmai célokra előirányzott források elosztását.
 
@@ -183,7 +170,7 @@ Magyarország Országgyűlése a magyar mozgóképkultúra értékeinek gyarapí
 
 9/A. § (1) Az MNF bevételi forrásait a központi költségvetési támogatás és az MNF egyéb bevételei alkotják.
 
-(2) A hatoslottó szerencsejáték játékadójának 80 százalékát az MNF e törvény szerinti feladatai ellátására kell fordítani, és ezt a kiadást az állami vagyonnal kapcsolatos bevételek és kiadások költségvetési fejezetében kell megtervezni.
+(2) A hatoslottó szerencsejáték játékadójának 80%-át az MNF a II. Fejezet szerinti feladatai ellátására fordítja. Ezt a kiadást az állami vagyonnal kapcsolatos bevételek és kiadások költségvetési fejezetében kell megtervezni. Az MNF az I/A. Fejezet szerinti feladatainak ellátásával összefüggő kiadásait központi költségvetési támogatásból, és az 5/D. § (1) bekezdése szerinti bevételből fedezi.
 
 (3) Az MNF működése során keletkezett egyéb bevételeit is az e törvény szerinti mozgóképszakmai célokra fordítja.
 
@@ -697,7 +684,7 @@ az időpontja.
 
 ### Filmek és mozik besorolása a filmterjesztés támogatása érdekében
 
-25. § (1) A Hivatal a művészi értékű vagy kulturális jelentőségük miatt támogatásra érdemes filmalkotásoknak, terjesztésük elősegítése céljából a filmalkotás előállítójának vagy terjesztőjének kérelmére hatósági határozatban „art” minősítést adhat. Az eljárásban a miniszter szakhatóságként jár el.
+25. § (1) A Hivatal a művészi értékű vagy kulturális jelentőségük miatt támogatásra érdemes filmalkotásoknak, terjesztésük elősegítése céljából a filmalkotás előállítójának vagy terjesztőjének kérelmére hatósági határozatban „art” minősítést adhat.
 
 (2) A Hivatal bármely mozinak, amelynek üzemeltetője a jogszabályban meghatározott feltételek betartását vállalja, az üzemeltető kérelmére hatósági határozatával „art” minősítést ad. „Art” minősítés, több termes mozi esetén a mozi valamely termének is adható, amennyiben a moziüzemeltető az „art” mozikra vonatkozó feltételek betartását az adott terem tekintetében vállalja.
 
@@ -726,14 +713,25 @@ az időpontja.
 
 25/D. § A mozik vagy mozitermek „art” besorolása esetében a Hivatal az e tárgyában hozott határozat jogerőre emelkedését követően haladéktalanul bejegyzi – hivatalból indított eljárásban – az „art” minősítésű mozit vagy mozitermet az „art” mozik és mozitermekről vezetett hatósági nyilvántartásába. Az „art” mozik és mozitermekről vezetett nyilvántartás tartalmazza a 25/A. §-ban foglalt adatokat, továbbá az Elnök rendeletében megállapított további adatokat. A nyilvántartásba vétel részletes szabályait az Elnök rendelete határozza meg.
 
-26. § (1) A filmalkotások „art” minősítésére irányuló eljárásban a szakhatóságként eljáró miniszter részére az általa működtetett öttagú Filmszakmai Bizottság tesz javaslatot az „art” minősítés tárgyában. A Filmszakmai Bizottság tagjait a miniszter nyílt pályázati eljárást követően nevezi ki. A Bizottság tagjainak filmművészeti, filmtudományi vagy mozgóképtanári végzettséggel, illetve gyakorlattal kell rendelkezniük. A tagok megbízatása három évre szól.
+26. § (1) A filmalkotások „art” minősítésére a Hivatal által felállított és működtetett Art Bizottság tesz javaslatot.
 
-(2) A szakhatóságként eljáró miniszter „art” minősítésűnek jelöl minden olyan terjesztésre kerülő filmalkotást,
+(2) Az Art Bizottság hat tagját a Nemzeti Filmiroda igazgatójának a javaslatára az Elnök nevezi ki három évre.
 
-- a) amely művészeti értékével hozzájárul a magyar, az európai, illetve az egyetemes audiovizuális kultúra fejlődéséhez, vagy
-- b) amelyet a Filmszakmai Bizottság oktatási vagy kulturális szempontból jelentősnek és magas művészi színvonalúnak ítél.
+(3) Az Art Bizottság tagjai:
 
-(3) A Hivatal a filmalkotás előállítójának vagy terjesztőjének kérelmére – szakhatóság közreműködésének mellőzésével – „art” minősítést ad annak a terjesztésre kerülő filmalkotásnak, amely nemzetközileg elismert, a Hivatal által évente közzétett jegyzékben meghatározott fesztiváldíjban részesült.
+- a) egy, a Magyar Művészeti Akadémia elnöke által a filmművészet képviselőjeként delegált személy,
+- b) egy, a Hivatal által az NMHH köztisztviselői közül delegált felsőfokú végzettségű és a filmművészet területén tapasztalattal rendelkező személy,
+- c) egy, a miniszter által delegált, a filmművészet területén tapasztalattal rendelkező személy,
+- d) három, filmművészeti, filmtudományi vagy mozgóképtanári végzettséggel, illetve gyakorlattal rendelkező személy.
+
+(4) A (3) bekezdés b) pontjában meghatározott tag ellátja az Art Bizottság koordinációjával kapcsolatos feladatokat és a Bizottság elnökeként vezeti annak üléseit.
+
+(5) A Hivatal az Art Bizottság javaslata alapján „art” minősítést ad minden olyan terjesztésre kerülő filmalkotásnak,
+
+- a) amely művészi értékével hozzájárul a magyar, az európai, illetve az egyetemes audiovizuális kultúra fejlődéséhez, vagy
+- b) amelyet az Art Bizottság oktatási vagy kulturális szempontból jelentősnek és magas művészi színvonalúnak ítél.
+
+(6) A Hivatal a filmalkotás előállítójának vagy terjesztőjének kérelmére „art” minősítést ad annak a terjesztésre kerülő filmalkotásnak, amely nemzetközileg elismert, a Hivatal által évente közzétett jegyzékben meghatározott fesztivál díjában részesült.
 
 26/A. § (1) A filmelőállító vagy filmterjesztő a terjesztés megkezdésének tervezett időpontja előtt legalább 30 nappal kérheti a Hivataltól a terjeszteni kívánt filmalkotás „art” filmalkotássá minősítését. A kérelemnek tartalmaznia kell a filmalkotás címét, előállítójának, producerének, rendezőjének, forgatókönyvírójának, zeneszerzőjének, operatőrének, főszereplőinek nevét.
 
@@ -1020,6 +1018,7 @@ kérelmére a közvetett támogatás igénybevételére jogosító támogatási 
 - b) a 2014. évben a 7000,0 millió forintot,
 - c) a 2015. évben a 12 000,0 millió forintot,
 - d) a 2016. évben a 14 000,0 millió forintot
+- e) a 2017. évben a 14 000,0 millió forintot
 
 nem haladhatja meg.
 
@@ -1182,7 +1181,7 @@ nem haladhatja meg.
 
 (3) Az (1) bekezdésben meghatározott alkalmazások működtetésével összefüggő, a mozgóképről szóló 2004. évi II. törvény módosításáról szóló 2012. évi CXCIX. törvény hatálybalépésekor fennálló szerződéses jogviszonyokból eredő jogok és kötelezettségek a maguk egészében és változatlan feltételekkel szállnak át az államra, az alanyváltozás nem érinti a szerződő felek eredeti jogait és kötelezettségeit. A szerződéses jogviszonyokban megvalósuló alanyváltozás tekintetében a közbeszerzésekről szóló törvény szerződésmódosításra vonatkozó szabályai nem alkalmazandók.
 
-(4) Az (1) bekezdésben meghatározott alkalmazások fenntartásával és működtetésével közvetlenül összefüggő jogviszonyokban a Társaság jogutódja a MaNDA.
+(4) Az (1) bekezdésben meghatározott alkalmazások fenntartásával és működtetésével közvetlenül összefüggő jogviszonyokban a Társaság jogutódja a Magyar Nemzeti Digitális Archívum és Filmintézet (a továbbiakban: MaNDA).
 
 (5) Az (1) és (2) bekezdés szerinti vagyon tekintetében a vagyonkezelői jogot a MaNDA gyakorolja.
 

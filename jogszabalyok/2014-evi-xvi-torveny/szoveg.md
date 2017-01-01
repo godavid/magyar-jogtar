@@ -511,7 +511,11 @@ között létrejött érdekellentét nyomán az ÁÉKBV-alapkezelő által kezel
 
 (8) Az ÁÉKBV-alapkezelő a portfóliókezelési tevékenysége során – ha az ügyfél kifejezetten eltérően nem rendelkezik – az ügyfél javára kezelt portfólió terhére nem szerezhet saját maga által kezelt kollektív befektetési forma által kibocsátott kollektív befektetési értékpapírt.
 
-23. § Az ÁÉKBV-alapkezelő biztosítja, hogy a befektető az ÁÉKBV-alapkezelő magatartására, tevékenységére vagy mulasztására vonatkozó panaszát szóban vagy írásban díjmentesen közölhesse. Az ÁÉKBV-alapkezelő köteles lehetővé tenni, hogy a befektető a kollektív befektetési értékpapír forgalmazásának helye szerinti hivatalos nyelvek bármelyikén benyújthassa panaszát. A panaszok ésszerű és gyors kezelése érdekében az ÁÉKBV-alapkezelő a 8. mellékletben meghatározott elvek szerint alakítja ki a panaszkezelés szabályait.
+23. § (1) Az ÁÉKBV-alapkezelő biztosítja, hogy a befektető az ÁÉKBV-alapkezelő magatartására, tevékenységére vagy mulasztására vonatkozó panaszát szóban vagy írásban díjmentesen közölhesse. Az ÁÉKBV-alapkezelő köteles lehetővé tenni, hogy a befektető a kollektív befektetési értékpapír forgalmazásának helye szerinti hivatalos nyelvek bármelyikén benyújthassa panaszát.
+
+(2) Telefonon történő panaszkezelés esetén az ÁÉKBV-alapkezelő és a panaszos közötti telefonos kommunikációt az ÁÉKBV-alapkezelő hangfelvétellel rögzíti, és a hangfelvételt a szabályzata szerinti ideig, legalább azonban 5 évig megőrzi. Erről a panaszost a telefonos ügyintézés kezdetekor tájékoztatni kell. A panaszos kérésére biztosítani kell a hangfelvétel visszahallgatását, továbbá térítésmentesen rendelkezésre kell bocsátani a hangfelvételről készített hitelesített jegyzőkönyvet.
+
+(3) Az ÁÉKBV-alapkezelő a panaszt és az arra adott választ a szabályzatában meghatározott ideig, legalább azonban 5 évig őrzi meg, és azt a Felügyelet kérésére bemutatja.
 
 24. § Az ÁÉKBV-alapkezelő által a kollektív befektetési formában kezelt eszközök nem képezik az ÁÉKBV-alapkezelő tulajdonát, eljárása során a kollektív befektetési forma nevében vagy javára és terhére jár el. Az ÁÉKBV-alapkezelő jogosult a kollektív befektetési forma nevében vagy javára eljárva befektetési ügyleteket kötni.
 
@@ -2894,7 +2898,8 @@ van összefüggésben.
 201. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg
 
 - a) az ÁÉKBV-alapkezelőre vonatkozó szervezeti, összeférhetetlenségi, üzletviteli és kockázatkezelési követelményekről szóló szabályokat;
-- b) a kollektív befektetési formák befektetési és hitelfelvételi szabályait.
+- b) a kollektív befektetési formák befektetési és hitelfelvételi szabályait;
+- c) az ÁÉKBV-alapkezelő panaszkezelésének eljárására, valamint a panaszkezelési szabályzatára vonatkozó részletes szabályokat.
 
 (2) Felhatalmazást kap a miniszter arra, hogy rendeletben állapítsa meg az ügyféllel kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás minimálisan kötelező tartalmi elemeire vonatkozó részletes szabályokat.
 
@@ -3955,25 +3960,6 @@ Amennyiben egy funkcionális kategóriába a portfólióból legalább két inga
   - n) kamatköltség.
 
 ### 8. melléklet a 2014. évi XVI. törvényhez
-
-#### A panaszkezelés menete
-
-- 1. A befektetési alapkezelő a szóbeli panaszt valamennyi, az ügyfelek és befektetők számára nyitva álló helyiségben, annak nyitvatartási idejében, ennek hiányában a székhelyén minden munkanapon 8 órától 16 óráig, a telefonon közölt szóbeli panaszt minden munkanapon és legalább a hét egy munkanapján 8 órától 20 óráig, elektronikus eléréssel – üzemzavar esetén megfelelő más elérhetőséget biztosítva – folyamatosan fogadja.
-- 2. A befektetési alapkezelő a telefonon történő panaszkezelés esetén biztosítja az ésszerű várakozási időn belüli hívásfogadást és ügyintézést.
-- 3. Telefonon történő panaszkezelés esetén a befektetési alapkezelő és a panaszos közötti telefonos kommunikációt a befektetési alapkezelő hangfelvétellel rögzíti, és a hangfelvételt a szabályzata szerinti ideig, legalább azonban 5 évig megőrzi. Erről a panaszost a telefonos ügyintézés kezdetekor tájékoztatni kell. A panaszos kérésére biztosítani kell a hangfelvétel visszahallgatását, továbbá térítésmentesen rendelkezésre kell bocsátani a hangfelvételről készített hitelesített jegyzőkönyvet.
-- 4. A befektetési alapkezelő a szóbeli panaszt – az alábbi eltéréssel – azonnal megvizsgálja, és szükség szerint orvosolja. Ha a panaszos a panasz kezelésével nem ért egyet, a befektetési alapkezelő a panaszról és az azzal kapcsolatos álláspontjáról jegyzőkönyvet vesz fel, és annak egy másolati példányát a személyesen közölt szóbeli panasz esetén a panaszosnak átadja, telefonon közölt szóbeli panasz esetén a panaszosnak – az álláspontjával együtt – megküldi, egyebekben az írásbeli panaszra vonatkozó rendelkezések szerint jár el.
-- 5. Ha a panasz azonnali kivizsgálása nem lehetséges, a befektetési alapkezelő a panaszról jegyzőkönyvet vesz fel, és annak egy másolati példányát a személyesen közölt szóbeli panasz esetén a panaszosnak átadja, telefonon közölt szóbeli panasz esetén a panaszosnak megküldi, egyebekben az írásbeli panaszra vonatkozó rendelkezések szerint jár el.
-- 6. A befektetési alapkezelő az írásbeli panasszal kapcsolatos, indokolással ellátott álláspontját a panasz közlését követő 30 napon belül megküldi a panaszosnak.
-- 7. A panasz elutasítása esetén a befektetési alapkezelő válaszában tájékoztatja a panaszost arról, hogy panaszával – annak jellege szerint, illetve attól függően, hogy a panaszos befektetőként vagy ügyfélként tett panaszt – a Felügyelet vagy a pénzügyi békéltető testület eljárását kezdeményezheti, továbbá az előbbiektől függően meg kell adni a Felügyelet levelezési címét és a Pénzügyi Békéltető Testület székhelyét, telefonos és internetes elérhetőségét, valamint levelezési címét.
-- 8. A befektetési alapkezelő a panaszt és az arra adott választ a szabályzatában meghatározott ideig, legalább azonban 5 évig őrzi meg, és azt a Felügyelet kérésére bemutatja.
-- 9. A befektetési alapkezelő a panaszokról, valamint az azok rendezését, megoldását szolgáló intézkedésekről nyilvántartást vezet.
-- 10. A nyilvántartásnak tartalmaznia kell
-  - a) a panasz leírását, a panasz tárgyát képező esemény vagy tény megjelölését,
-  - b) a panasz benyújtásának időpontját,
-  - c) a panasz rendezésére vagy megoldására szolgáló intézkedés leírását, elutasítás esetén annak indokát,
-  - d) a c) pont szerinti intézkedés teljesítésének határidejét és a végrehajtásért felelős személy megnevezését, továbbá
-  - e) a panasz megválaszolásának időpontját.
-- 11. A befektetési alapkezelő a panaszkezelési szabályzatot az ügyfelek és befektetők számára nyitva álló helyiségében, ennek hiányában a székhelyén kifüggeszti és a honlapján közzéteszi.
 
 ### 9. melléklet a 2014. évi XVI. törvényhez
 

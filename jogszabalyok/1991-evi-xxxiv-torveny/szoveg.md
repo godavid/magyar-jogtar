@@ -159,7 +159,7 @@ végezheti.
 
 7. § Az állami adóhatóság a szerencsejáték-szervezés és e törvény hatálya alá tartozó tevékenységek hatósági felügyeletét látja el, tevékenységének célja a szerencsejáték-piac zavartalan és eredményes működésének, a játékosok érdekei védelmének, továbbá a szerencsejáték-piaccal szembeni bizalom erősítésének érdekében a szerencsejáték-szervezők joggyakorlásának elősegítése és a szerencsejáték-piac folyamatos felügyelete.
 
-7/A. § (1) Az állami adóhatóság szerencsejáték ügyben – az e törvényben meghatározott eltérésekkel – a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerint jár el azzal, hogy újrafelvételi eljárásnak, valamint fizetési kedvezmény engedélyezésének nincs helye. Szerencsejáték ügyben az ügyfél nem jogosult elektronikus úton írásban kapcsolatot tartani a hatósággal.
+7/A. § (1) Az állami adóhatóság szerencsejáték ügyben – az e törvényben meghatározott eltérésekkel – a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerint jár el azzal, hogy újrafelvételi eljárásnak, valamint fizetési kedvezmény engedélyezésének nincs helye.
 
 (2) Az állami adóhatóság szerencsejáték ügyben, valamint ajándéksorsolás és játékautomata-üzemeltetés tekintetében a nyilvántartásba vételi, ellenőrzési, továbbá jogkövetkezmények megállapítására irányuló eljárásban hozott határozatai ellen fellebbezésnek nincs helye. Az e törvényben meghatározott ügyben hozott határozat (végzés) ellen – a bírságot kiszabó határozat (végzés) kivételével – benyújtott keresetlevélnek, illetve kérelemnek, az e törvényben foglalt kivételekkel, a végrehajtásra halasztó hatálya van. Az állami adóhatóság az e törvényben meghatározott ügyben hozott határozatot (végzést) jogorvoslatra, valamint a végrehajtás felfüggesztése iránti kérelemre tekintet nélkül végrehajthatóvá nyilváníthatja, ha
 
@@ -1030,6 +1030,8 @@ fizeti meg az állami adóhatósághoz a felügyeleti díj megfizetéséről sz�
 (2) A Módtv. hatálybalépését megelőző időszakra vonatkozó, e törvény szerinti adófizetési, bevallási és adatszolgáltatási kötelezettséget e törvény a Módtv. hatálybalépését megelőző napon hatályos rendelkezései szerint kell teljesíteni. E törvény a Módtv.-nyel hatályon kívül helyezett rendelkezéseibe ütköző jogsértésekkel kapcsolatos hatósági eljárás lefolytatására, valamint az esetleges jogkövetkezmények megállapítására e törvény a Módtv. hatálybalépését megelőző napon hatályos rendelkezéseit kell alkalmazni.
 
 40/B. § A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény (a továbbiakban: Módtv.2.) 295. §-ával megállapított 1. § (3) bekezdés c) pontját, 6. § (4) és (5) bekezdését, valamint 37. § 30. pontját a Módtv.2. hatályba lépését követően indult eljárásokban kell alkalmazni.
+
+40/C. § E törvénynek az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról szóló 2016. évi CXXI. törvénnyel megállapított 7/A. § (1) bekezdését 2017. december 31-ig csak akkor kell alkalmazni, ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
 ### Jogszabály tervezetének egyeztetése
 

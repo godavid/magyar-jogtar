@@ -561,7 +561,7 @@ terheli.
 
 (3) A nemzetbiztonsági ellenőrzés alá eső személy a nemzetbiztonsági ellenőrzéshez szükséges adatokat köteles a nemzetbiztonsági ellenőrzést végrehajtó nemzetbiztonsági szolgálattal közölni.
 
-40. § (1) A nemzetbiztonsági szolgálatok feladataik teljesítése érdekében – eltérő törvényi rendelkezés hiányában – bármely adatkezelési rendszerből – az adatkérés céljának megjelölésével – adatokat kérhetnek, a rendszerekbe és a nyilvántartás alapjául szolgáló iratba betekinthetnek. Az adatkérés alapján az állami szerv, valamint a hitelintézetekről és pénzügyi vállalkozásokról szóló törvényben meghatározott pénzügyi intézmény az adattovábbítást elektronikus formában, elektronikus adatkapcsolat útján, az érintett nemzetbiztonsági szolgálat által meghatározott műszaki követelményeknek megfelelő, az adatkezelő által térítésmentesen kiépített és üzemeltetett csatlakozási felületen hajtja végre, valamint hiányos és töredékadatok tekintetében is teljesíti.
+40. § (1) A nemzetbiztonsági szolgálatok feladataik teljesítése érdekében – eltérő törvényi rendelkezés hiányában – bármely adatkezelési rendszerből – az adatkérés céljának megjelölésével – adatokat kérhetnek, a rendszerekbe és a nyilvántartás alapjául szolgáló iratba betekinthetnek. Az adatkérés alapján az állami szerv, a többségi állami tulajdonú gazdasági társaság, valamint a hitelintézetekről és pénzügyi vállalkozásokról szóló törvényben meghatározott pénzügyi intézmény az adattovábbítást elektronikus formában, elektronikus adatkapcsolat útján, az érintett nemzetbiztonsági szolgálat által meghatározott műszaki követelményeknek megfelelő, az adatkezelő által térítésmentesen kiépített és üzemeltetett csatlakozási felületen hajtja végre, valamint hiányos és töredékadatok tekintetében is teljesíti.
 
 (1a) Az (1) bekezdésben meghatározott adattovábbításokról az átadó szerv az adattovábbítás tényének és időpontjának, valamint az átvevő szerv által az adatkéréskor képzett egyedi azonosítónak a rögzítésével, illetve az átvevő szerv az adattovábbítás tényének, időpontjának, egyedi azonosítójának és az adatkérés céljának rögzítésével olyan elkülönült nyilvántartást vezet, amely kizárja az utólagos módosítás lehetőségét. A nyilvántartásokból az egyes adattovábbításokra vonatkozó adatok az adattovábbítástól számított öt év elteltével törölhetőek.
 
@@ -707,7 +707,8 @@ megőrzésre alkalmas módon, dokumentáltan – az intézkedés céljának és 
 - a) a biztonsági okmányok adatait az érvényesség lejártától számított 10 évig;
 - b) a rejtjeltevékenység felügyelete és irányítása során kiadott dokumentumokat az érvényesség lejártától számított 10 évig;
 - c) a nemzetbiztonsági ellenőrzési és védelmi feladatok ellátása során keletkezett adatokat a beosztás, illetve a tisztség megszűnésétől számított 20 évig;
-- d) az a)–c) pontokban fel nem sorolt feladatkörben gyűjtött személyes adatokat az adatgyűjtés megszüntetésétől számított 70 évig.
+- d) az a)–c) pontokban fel nem sorolt feladatkörben gyűjtött személyes adatokat az adatgyűjtés megszüntetésétől számított 70 évig;
+- e) a közúti közlekedési nyilvántartásról szóló törvény szerinti járműnyilvántartásban kezelt járművek hatósági jelzésére vonatkozó és képi adatait 10 évig.
 
 (2) A nemzetbiztonsági szolgálatok által kezelt személyes adatot haladéktalanul törölni kell, ha
 
@@ -785,10 +786,7 @@ szerzi be.
 
 52/H. § (1) A Terrorelhárítási Információs és Bűnügyi Elemző Központ a 8/A. § (4) bekezdésében meghatározott feladatkörében az utasadat szolgáltatójától átveszi és kezeli az utasadatokat.
 
-(2) Az utasadatok átvételének és kezelésének a célja
-
-- a) a terrorizmussal, a szervezett bűnözéssel összefüggő bűncselekmények, valamint az illegális migráció területén megjelenő szervezett bűnözői csoportok és bűnszervezetek által elkövetett bűncselekmények felderítésének és nyomozásának, illetve az illegális migráció megelőzésével, megakadályozásával kapcsolatos feladatok elősegítése, továbbá
-- b) a nemzetbiztonságot veszélyeztető törekvések és tevékenységek elhárításának az elősegítése.
+(2) Az utasadatok átvételének és kezelésének a célja a 3. számú mellékletben meghatározott bűncselekmények megelőzésének, felderítésének, nyomozásának és üldözésének elősegítése.
 
 (3) Az utasadat szolgáltatója a Terrorelhárítási Információs és Bűnügyi Elemző Központ által meghatározott elektronikus formátumban és módon adja át az utasadatot.
 
@@ -800,15 +798,24 @@ szerzi be.
 
 (5) A Terrorelhárítási Információs és Bűnügyi Elemző Központ a (4) bekezdés b) pontjában meghatározott feladata ellátása érdekében a törvényben meghatározott esetekben más állami szervektől, illetve nyilvántartásokból az érintett személy azonosítása céljából személyes adatokat vehet át.
 
-(6) Ha a Terrorelhárítási Információs és Bűnügyi Elemző Központ az utasadat-információs feladatai során az elemző-értékelő tevékenység keretében a terrorizmussal vagy a szervezett bűnözéssel összefüggő bűncselekmény elkövetésének lehetséges gyanúját vagy a nemzetbiztonságot veszélyeztető lehetséges kockázatot állapít meg, a terrorizmussal vagy a szervezett bűnözéssel összefüggő bűncselekmény felderítésére, nyomozására vagy a nemzetbiztonságot veszélyeztető törekvés, tevékenység elhárítására hatáskörrel rendelkező szervet az utasadat átadásával egyidejűleg értesíti.
+(6) A Terrorelhárítási Információs és Bűnügyi Elemző Központ a (4) bekezdés b) pontja szerinti kockázatelemzés ellátása során elsőként automatizált kockázatelemzést végez. Ha az automatizált kockázatelemzésből találat származik, a Terrorelhárítási Információs és Bűnügyi Elemző Központ a találatot nem automatizált eszközökkel, emberi tényező bevonásával történő egyedi felülvizsgálat alá vonja.
 
-(7) Ha a Terrorelhárítási Információs és Bűnügyi Elemző Központ az utasadat-információs feladatai során az elemző-értékelő tevékenység keretében az illegális migráció területén megjelenő szervezett bűnözői csoportok és bűnszervezetek által elkövetett bűncselekmény elkövetésének lehetséges gyanúját vagy az illegális migrációra utaló lehetséges kockázatot állapít meg, az e bűncselekmény felderítésére, nyomozására vagy az illegális migrációval összefüggésben feladat- és hatáskörrel rendelkező szerveket az utasadat átadásával egyidejűleg értesíti.
+(7) Ha a Terrorelhárítási Információs és Bűnügyi Elemző Központ az utasadat-információs feladatai során az elemző-értékelő tevékenység keretében a 3. számú mellékletben meghatározott bűncselekmény elkövetésének lehetséges gyanúját észleli, a bűncselekmény megelőzésére, felderítésére, nyomozására hatáskörrel rendelkező szervet az utasadat átadásával egyidejűleg értesíti.
 
 (8) A Terrorelhárítási Információs és Bűnügyi Elemző Központ az átvett utasadatot a Terrorelhárítási Információs és Bűnügyi Elemző Központhoz érkezést követő öt évig kezeli.
 
-(9) Az utasadat szolgáltatója által szolgáltatott utasadatot a Terrorelhárítási Információs és Bűnügyi Elemző Központhoz érkezést követő 30 nap elteltével személyazonosításra alkalmatlanná kell tenni. A személyazonosításra való újbóli alkalmassá tételt kizárólag a Terrorelhárítási Információs és Bűnügyi Elemző Központ vezetője rendelheti el, abban az esetben, ha a nemzetbiztonságot vagy az ország függetlenségét súlyosan veszélyeztető esemény, illetve ötévi vagy ennél súlyosabb szabadságvesztéssel fenyegetett bűntett elkövetésére vagy ilyen bűntett előkészületére utaló gyanú ezt szükségessé teszi.
+(9) Az utasadat szolgáltatója által szolgáltatott utasadatot a Terrorelhárítási Információs és Bűnügyi Elemző Központhoz érkezést követő 6 hónap elteltével az alábbi adatelemek elrejtése útján személyazonosításra alkalmatlanná kell tenni:
 
-(10) A Terrorelhárítási Információs és Bűnügyi Elemző Központ a (9) bekezdés szerinti egyedi engedély alapján ismét személyazonosításra alkalmassá tett adatokról nyilvántartást vezet. A nyilvántartás tartalmazza:
+- a) az utas neve, beleértve a 2016/681/EU parlamenti és tanács irányelv szerinti megosztott/kettős utas-nyilvántartási információt, valamint az egy utas-nyilvántartási adathoz kapcsolódó utazók számát, ezek neveit,
+- b) az utas által közölt kapcsolattartási adatok, különösen az utas és a vele utazók lakó- és tartózkodási helyének címe, telefonszámaik, e-mail címeik,
+- c) a hitelkártyával vagy bankszámlával kapcsolatos, az utazási tranzakcióhoz nem kötődő tranzakciós adatok kivételével valamennyi rendelkezésre álló fizetési vagy számlázási információ, ha olyan információt tartalmaznak, amely alkalmas lehet utas vagy bármely más személy közvetlen beazonosítására,
+- d) az utasra vonatkozó, a személyszállítást végző légifuvarozó által kezelt törzsutas-adat információk,
+- e) a 2016/681/EU parlamenti és tanács irányelv szerinti általános megjegyzések, ha olyan információt tartalmaznak, amely alkalmas lehet az utas közvetlen beazonosítására,
+- f) a továbbított, 2016/681/EU parlamenti és tanács irányelv szerinti előzetes utasinformációs adat.
+
+(9a) Az utasadat személyazonosításra való újbóli alkalmassá tételét egyedi engedéllyel kizárólag az ügyészség rendelheti el, abban az esetben, ha a 3. számú mellékletben meghatározott bűncselekmények, valamint a Magyarország biztonságát és jogrendjét sértő, vagy azt veszélyeztető, szervezett bűnözői csoportok és bűnszervezetek által elkövetett bűncselekmények felderítése és nyomozása, vagy ilyen bűntett előkészületére utaló gyanú ezt szükségessé teszi.
+
+(10) A Terrorelhárítási Információs és Bűnügyi Elemző Központ a (9a) bekezdés szerinti egyedi engedély alapján ismét személyazonosításra alkalmassá tett adatokról nyilvántartást vezet. A nyilvántartás tartalmazza:
 
 - a) a személyazonosításra való újbóli alkalmassá tétel rövid indokolását,
 - b) a személyazonosításra való újbóli alkalmassá tétel időpontját,
@@ -817,15 +824,48 @@ szerzi be.
 
 (11) A (10) bekezdésben meghatározott adatokat az ismét személyazonosításra alkalmassá tett utasadatokkal azonos ideig kell megőrizni, az utasadatokkal egyidejűleg törölni kell.
 
-(12) A Terrorelhárítási Információs és Bűnügyi Elemző Központ az Európai Unió tagállamai, valamint az Európai Unió jogi aktusával létrehozott nemzetközi szervezetek és adatkezelési rendszerek részére bűnüldözési vagy nemzetbiztonsági célból az Európai Unió jogi aktusa, illetve két- vagy többoldalú nemzetközi szerződés alapján az ott meghatározott adatkörben és időtartamban továbbíthatja az általa kezelt utasadatot vagy vehet át utasadatokat.
+(12)
 
-(13) A Terrorelhárítási Információs és Bűnügyi Elemző Központ harmadik országtól bűnüldözési vagy nemzetbiztonsági célból nemzetközi szerződés alapján az ott meghatározott adatkörben vehet át utasadatot. A Terrorelhárítási Információs és Bűnügyi Elemző Központ harmadik ország részére bűnüldözési vagy nemzetbiztonsági célból nemzetközi szerződés alapján az ott meghatározott adatkörben és időtartamban továbbíthatja az általa kezelt utasadatot, feltéve hogy a harmadik ország átvevő hatóságának a feladata bűncselekmények megelőzése, nyomozása, felderítése, büntetőeljárás lefolytatása vagy büntetőjogi szankciók végrehajtása.
+(13)
 
-52/I. § (1) A Terrorelhárítási Információs és Bűnügyi Elemző Központ az utasadat-információs feladatai során, ha az elemző-értékelő tevékenység keretében az 52/H. § (2) bekezdés a) pontjában meghatározott bűncselekmények lehetséges gyanúját, illetve tevékenységek lehetséges kockázatát állapítja meg, és az 52/H. § szerinti elemző-értékelő tevékenység keretében nem azonosítható az 52/H. § (2) bekezdés a) pontjában meghatározott bűncselekménnyel vagy tevékenységgel érintett, a Terrorelhárítási Információs és Bűnügyi Elemző Központ az érintett személy azonosítása céljából adatot igényelhet a rendőrség személyszállítást végző légifuvarozóktól átvett adatokat tartalmazó nyilvántartásából.
+52/I. § (1) A Terrorelhárítási Információs és Bűnügyi Elemző Központ az Európai Unió tagállamainak utasadat-információs egységei, az Európai Unió tagállamainak a 2016/681/EU parlamenti és tanács irányelv szerinti illetékes hatóságai, valamint az Európai Unió jogi aktusával létrehozott nemzetközi szervezetek és adatkezelési rendszerek részére az 52/H. § (2) bekezdésében meghatározott bűnüldözési célból az Európai Unió jogi aktusa, illetve két- vagy többoldalú nemzetközi szerződés alapján az ott meghatározott adatkörben, időtartamban és feltételekkel továbbíthatja az általa kezelt utasadatot, továbbá azok kezelésének eredményét.
+
+(2) A Terrorelhárítási Információs és Bűnügyi Elemző Központ, valamint a 2016/681/EU parlamenti és tanács irányelv szerinti magyar illetékes hatóság az Európai Unió tagállamainak utasadat-információs egységeitől, valamint az Európai Unió jogi aktusával létrehozott nemzetközi szervezetektől és adatkezelési rendszerektől az 52/H. § (2) bekezdésében meghatározott bűnüldözési célból az Európai Unió jogi aktusa, illetve két- vagy többoldalú nemzetközi szerződés alapján az ott meghatározott adatkörben, időtartamban és feltételekkel vehet át utasadatot, továbbá azok kezelésének eredményét.
+
+(3) Ha a 2016/681/EU parlamenti és tanács irányelv szerinti magyar illetékes hatóság a (2) bekezdés szerint az Európai Unió tagállamainak utasadat-információs egységeitől vesz át utasadatot, továbbá azok kezelésének eredményét, erről a Terrorelhárítási Információs és Bűnügyi Elemző Központot értesíti.
+
+(4) A Terrorelhárítási Információs és Bűnügyi Elemző Központ harmadik országtól bűnüldözési vagy nemzetbiztonsági célból nemzetközi szerződés alapján az ott meghatározott adatkörben vehet át utasadatot.
+
+(5) A Terrorelhárítási Információs és Bűnügyi Elemző Központ harmadik ország részére – a 2008/977/IB kerethatározat 13. cikkében foglalt feltételek teljesülésével – kizárólag a 3. számú mellékletnek megfelelő bűncselekmények megelőzése, felderítése, nyomozása és üldözése céljából, nemzetközi szerződés alapján, az ott meghatározott adatkörben, időtartamban és feltételekkel továbbíthatja az általa kezelt utasadatot, feltéve hogy
+
+- a) a harmadik ország átvevő hatóságának a feladata bűncselekmények megelőzése, nyomozása, felderítése, büntetőeljárás lefolytatása vagy büntetőjogi szankciók végrehajtása,
+- b) – az Európai Unió más tagállamtól származó utasadat esetén, a (7) bekezdésben meghatározott kivétellel – a tagállam, amelytől az utasadat származik, előzetesen hozzájárult az utasadatok harmadik országnak történő átadásához.
+
+(6) Ha az (5) bekezdés a) pontja szerint kért utasadatot az adatelemek elrejtésével személytelenítették, a Terrorelhárítási Információs és Bűnügyi Elemző Központ csak akkor adhatja át a teljes – személyazonosításra alkalmas adatokat is tartalmazó – utasadatot, ha a kérelem kellően megalapozott és alapos okkal feltételezhető, hogy az adatkérés a 3. számú mellékletnek megfelelő bűncselekmény megelőzése, felderítése, nyomozása és üldözése céljára irányul, továbbá ha az ügyészség az adatok újbóli személyazonosításra alkalmassá tételére és átadására engedélyt adott.
+
+(7) Az Európai Unió más tagállamától származó utasadat harmadik ország részére történő átadásához nem szükséges a másik tagállam előzetes hozzájárulása, ha
+
+- a) a 3. számú mellékletnek megfelelő bűncselekménnyel kapcsolatos, valamely tagállamot vagy harmadik országot érintő konkrét és tényleges fenyegetés elhárításához elengedhetetlen és
+- b) az előzetes hozzájárulás kellő időben nem szerezhető be.
+
+(8) A (7) bekezdés szerinti halaszthatatlan esetben értesíteni kell a Terrorelhárítási Információs és Bűnügyi Elemző Központ belső adatvédelmi felelősét.
+
+(9) A Terrorelhárítási Információs és Bűnügyi Elemző Központ harmadik ország által történő megkeresés esetén felhatalmazást adhat a harmadik országnak arra, hogy a részére nemzetközi szerződés alapján a Terrorelhárítási Információs és Bűnügyi Elemző Központ által átadott adatokat másik harmadik ország felé a 3. számú mellékletnek megfelelő, nemzetközi szerződésben meghatározott súlyos bűncselekmények megelőzése, felderítése, nyomozása, üldözése céljából átadja, ha az adatok továbbítása ezen bűncselekmények megelőzése, felderítése, nyomozása és üldözése céljából feltétlenül szükséges.
+
+52/J. § (1) A Terrorelhárítási Információs és Bűnügyi Elemző Központ az utasadat-információs feladatai során, ha az elemző-értékelő tevékenység keretében az 52/H. § (2) bekezdésében meghatározott bűncselekmények lehetséges gyanúját állapítja meg, és az 52/H. § szerinti elemző-értékelő tevékenység keretében nem azonosítható az 52/H. § (2) bekezdésében meghatározott bűncselekménnyel érintett, a Terrorelhárítási Információs és Bűnügyi Elemző Központ az érintett személy azonosítása céljából adatot igényelhet a rendőrség személyszállítást végző légifuvarozóktól átvett adatokat tartalmazó nyilvántartásából.
 
 (2) A Terrorelhárítási Információs és Bűnügyi Elemző Központ az (1) bekezdés szerint átvett adatot az adat átvételétől számított huszonnégy órán belül, illetve – ha az 52/H. § szerinti elemző-értékelő tevékenységre kerül sor, – az 52/H. § szerinti elemző-értékelő tevékenység befejezését vagy a (3) bekezdésben foglalt adatátadást követően haladéktalanul törli.
 
-(3) A Terrorelhárítási Információs és Bűnügyi Elemző Központ az 52/H. § (6) és (7) bekezdése szerinti esetben – ha az (1) bekezdés alapján átvett adatot a Terrorelhárítási Információs és Bűnügyi Elemző Központ az elemző-értékelő tevékenység keretében felhasználta, – az (1) bekezdés alapján átvett adatot is átadja.
+(3) A Terrorelhárítási Információs és Bűnügyi Elemző Központ az 52/H. § (7) bekezdése szerinti esetben – ha az (1) bekezdés alapján átvett adatot az elemző-értékelő tevékenység keretében felhasználta – az (1) bekezdés alapján átvett adatot is átadja.
+
+52/K. § A Terrorelhárítási Információs és Bűnügyi Elemző Központtól a 30/A. § a)–f) pontjában meghatározott együttműködő szervek a 3. számú mellékletben meghatározott bűncselekmények megelőzése, felderítése, nyomozása és üldözése céljából jogosultak utasadatokat vagy azok kezelésének eredményeit kérni és kapni, az információk további vizsgálata vagy a megfelelő intézkedések megtétele érdekében.
+
+52/L. § (1) A Terrorelhárítási Információs és Bűnügyi Elemző Központ évente az Európai Bizottság rendelkezésére bocsátja a részére szolgáltatott utasadatokról összeállított statisztikai információkat. Ezek az információk személyes adatokat nem tartalmazhatnak.
+
+(2) Az (1) bekezdés szerinti statisztikai információknak tartalmazniuk kell legalább a következőket:
+
+- a) azon utasok teljes számát, akik utasadatait a Terrorelhárítási Információs és Bűnügyi Elemző Központ összegyűjtötte és más szervnek átadta;
+- b) az olyan utasok számát, akiket a Terrorelhárítási Információs és Bűnügyi Elemző Központ az automatikus kockázatelemzést követően ellenőrzés céljára kiválasztott.
 
 ### Titkos információgyűjtés
 
@@ -1041,11 +1081,11 @@ azt jóváhagyta.
 
 71/A. § (1) A nemzetbiztonsági ellenőrzés csak a nemzetbiztonsági ellenőrzés alá eső személy előzetes, az esetleges felülvizsgálati eljárásra is kiterjedő, írásbeli hozzájárulásával végezhető el. Ha a nemzetbiztonsági ellenőrzés alá eső személy a nemzetbiztonsági ellenőrzéshez nem járul hozzá, a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszony nem hozható létre, illetve nem tartható fenn.
 
-(2) A nemzetbiztonsági ellenőrzés alá eső személy a nemzetbiztonsági ellenőrzés kezdeményezését megelőzően a 2. számú mellékletben meghatározott biztonsági kérdőívet (a továbbiakban: biztonsági kérdőív) tölt ki.
+(2) A nemzetbiztonsági ellenőrzés alá eső személy a nemzetbiztonsági ellenőrzés kezdeményezését megelőzően a 2. számú mellékletben meghatározott biztonsági kérdőívet írásban vagy a nemzetbiztonsági ellenőrzés lefolytatásával érintett nemzetbiztonsági szolgálat által üzemeltetett honlapon elérhető elektronikus keretprogram használatával is kitöltheti.
 
-(3) A nemzetbiztonsági ellenőrzés alá eső személy a nemzetbiztonsági ellenőrzés alá eső jogviszony fennállása alatt, illetve nemzetbiztonsági ellenőrzése során a biztonsági kérdőívben megadott adatai közül a lényeges adatok, tények vagy körülmények megváltozásáról nyomban, de legkésőbb a változás tudomására jutását követő 15 napon belül írásban tájékoztatja a kezdeményezésre jogosultat, aki azt haladéktalanul továbbítja a nemzetbiztonsági szolgálatnak. Azon adatok, tények és körülmények körét, amelyek a biztonsági kérdőív szempontjából lényegesnek minősülnek, valamint a lényeges adatban, tényben vagy körülményben bekövetkező változás bejelentésének, a bejelentésben foglaltaknak a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálat részére történő továbbításának részletes szabályait a Kormány rendeletben határozza meg.
+(3) A nemzetbiztonsági ellenőrzés alá eső személy a nemzetbiztonsági ellenőrzés alá eső jogviszony fennállása alatt, illetve nemzetbiztonsági ellenőrzése során a biztonsági kérdőívben megadott adatai közül a lényeges adatok, tények vagy körülmények megváltozásáról kormányrendeletben meghatározottak szerint tájékoztatja a nemzetbiztonsági szolgálatot. Azon adatok, tények és körülmények körét, amelyek a biztonsági kérdőív szempontjából lényegesnek minősülnek, valamint a lényeges adatban, tényben vagy körülményben bekövetkező változás bejelentésének, a bejelentésben foglaltaknak a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálat részére történő továbbításának részletes szabályait a Kormány rendeletben határozza meg.
 
-(4) A nemzetbiztonsági ellenőrzés kezdeményezésére jogosult a nemzetbiztonsági ellenőrzés lefolytatására a nemzetbiztonsági ellenőrzés alá eső személy által kitöltött biztonsági kérdőív megküldésével írásban kéri fel a nemzetbiztonsági szolgálatot.
+(4) A nemzetbiztonsági ellenőrzés kezdeményezésére jogosult a nemzetbiztonsági ellenőrzés lefolytatására írásban kéri fel a nemzetbiztonsági szolgálatot.
 
 (5) A nemzetbiztonsági ellenőrzés alá eső jogviszony fennállása alatt a kockázatmentes biztonsági szakvélemény érvényességi idejének lejártát megelőző 90. napig köteles kezdeményezni a kezdeményezésre jogosult az új nemzetbiztonsági ellenőrzést.
 
@@ -1131,7 +1171,7 @@ azt jóváhagyta.
   - ee) az igazolható jövedelemhez képest jelentős mértékű eladósodottság, pénzügyi kötelezettségek teljesítésének jelentős mértékű elmulasztása, jelentős mértékű, ismeretlen eredetű vagyongyarapodás, az igazolható jövedelemből nem fedezhető életvitel,
   - ef) a minősített adatok kezelésére, a biztonságtechnológiai rendszerek használatára vonatkozó szabályok, a munkakör betöltésével kapcsolatos biztonsági előírások megsértése.
 
-(3) A nemzetbiztonsági ellenőrzés kezdeményezésére jogosult a (2) bekezdés a), b) és e) pontja alapján kezdeményezheti a felülvizsgálati eljárás elrendelését a nemzetbiztonsági ellenőrzésre hatáskörrel rendelkező nemzetbiztonsági szolgálat főigazgatójánál. A (2) bekezdés a) vagy b) pontja alapján kezdeményezett felülvizsgálati eljárás esetén, a kezdeményezést megelőzően a nemzetbiztonsági ellenőrzés alá eső személy biztonsági kérdőívet tölt ki, amelyet a kezdeményező a kezdeményezéshez csatol.
+(3) A nemzetbiztonsági ellenőrzés kezdeményezésére jogosult a (2) bekezdés a), b) és e) pontja alapján kezdeményezheti a felülvizsgálati eljárás elrendelését a nemzetbiztonsági ellenőrzésre hatáskörrel rendelkező nemzetbiztonsági szolgálat főigazgatójánál. A (2) bekezdés a) vagy b) pontja alapján kezdeményezett felülvizsgálati eljárás esetén, a kezdeményezést megelőzően a nemzetbiztonsági ellenőrzés alá eső személy a 71/A. § (2) bekezdésben foglaltak szerint biztonsági kérdőívet tölt ki, írásban vagy a 71/A. § (2) bekezdésben meghatározott elektronikus keretprogram használatával.
 
 (4) A nemzetbiztonsági ellenőrzésre hatáskörrel rendelkező nemzetbiztonsági szolgálat főigazgatója
 
@@ -1258,7 +1298,9 @@ azt jóváhagyta.
 - l) utasadat: a légiközlekedésről szóló törvényben meghatározott, az utastól vagy megbízottjától, illetve a személyszállítást végző légifuvarozó megbízásából jegyértékesítést végző szolgáltatótól származó adat;
 - m) utasadat szolgáltatója: az l) pontban meghatározott adatot a terrorizmus és a szervezett bűnözés megelőzésének, megszakításának, felderítésének elősegítése céljából törvény szerint átadó személyszállítást végző légifuvarozó;
 - n) közvetlen elektronikus adatkapcsolat: a Terrorelhárítási Információs és Bűnügyi Elemző Központ által meghatározott műszaki követelményeknek megfelelő számítástechnikai alkalmazás, amely az együttműködő szerv által kiépített felületen keresztül a Terrorelhárítási Információs és Bűnügyi Elemző Központ és az együttműködő szerv közötti dokumentált adatátadást tesz lehetővé;
-- o) jelzés: a nemzetbiztonsági szolgálatok által a feladataik végrehajtásához kapcsolódóan az adatkezelési rendszerekben kezelt adatra vonatkozóan elrendelt értesítési meghagyás, amely biztosítja a jelzéssel ellátott adatot érintő eseményről – így különösen az adatváltozásról, az adatot érintő intézkedésről, az adatra vonatkozó megkeresésről – az elrendelő nemzetbiztonsági szolgálat tudomásszerzését.
+- o) jelzés: a nemzetbiztonsági szolgálatok által a feladataik végrehajtásához kapcsolódóan az adatkezelési rendszerekben kezelt adatra vonatkozóan elrendelt értesítési meghagyás, amely biztosítja a jelzéssel ellátott adatot érintő eseményről – így különösen az adatváltozásról, az adatot érintő intézkedésről, az adatra vonatkozó megkeresésről – az elrendelő nemzetbiztonsági szolgálat tudomásszerzését;
+- p) az utasadat személyazonosításra alkalmatlanná tétele: az érintett utasok közvetlen beazonosítását lehetővé tevő adatelemek láthatatlanná tétele az adatelemek elrejtésével a felhasználók számára;
+- q) az utasadat újbóli személyazonosításra alkalmassá tétele: az érintett utasok közvetlen beazonosítását lehetővé tevő adatelemek elrejtésével személyazonosításra alkalmatlanná tett utasadatok újbóli személyazonosításra alkalmassá tétele az elrejtett adatelemek láthatóvá tétele által.
 
 75. § (1)
 
@@ -1302,7 +1344,7 @@ azt jóváhagyta.
 
 77. § (1) Felhatalmazást kap a Kormány, hogy rendeletben megállapítsa:
 
-- a) azon adatok, tények és körülmények körét, amelyek a 2. számú mellékletben meghatározott biztonsági kérdőív szempontjából lényegesnek minősülnek és az ezen adatokban, tényekben vagy körülményekben bekövetkező változások bejelentésének részletes szabályait;
+- a) a biztonsági kérdőív kitöltésével kapcsolatos eljárási szabályokat, azon adatok, tények és körülmények körét, amelyek a 2. számú mellékletben meghatározott biztonsági kérdőív szempontjából lényegesnek minősülnek és az ezen adatokban, tényekben vagy körülményekben bekövetkező változások bejelentésének részletes szabályait;
 - b) a biztonsági okmányok körét, a biztonsági okmányvédelemre jogosult szervezet feladat- és hatáskörét, a biztonsági okmányvédelem eljárási szabályait;
 - c) a titkos információgyűjtés feltételeinek biztosítása érdekében a titkos információgyűjtésre feljogosított szervezetek és a távközlési szolgáltatási feladatokat ellátó szervezetek együttműködésének rendjét és szabályait;
 - d) a titkos információgyűjtés feltételeinek biztosítása érdekében a titkos információgyűjtésre feljogosított szervezetek és az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló törvényben meghatározott alkalmazásszolgáltatók együttműködésének rendjét és szabályait.
@@ -1357,7 +1399,7 @@ azt jóváhagyta.
 
 80. § E törvény a következő uniós jogi aktusok végrehajtását szolgálja:
 
-- a)
+- a) az utas-nyilvántartási adatállománynak (PNR) a terrorista bűncselekmények és súlyos bűncselekmények megelőzése, felderítése és a vádeljárás lefolytatása érdekébe történő felhasználásáról szóló 2016. április 27-i 2016/681/EU Európai Parlament és a Tanács irányelv.
 - b) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i 2007/533/IB tanácsi határozat 36. cikke [41/A. §],
 - c) a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat 3–5. és 16. cikke [11/A. §, 45. §].
 
@@ -1570,3 +1612,161 @@ Kelt, ......................., 201......
 aláírás, cím
 
 ### 3. számú melléklet az 1995. évi CXXV. törvényhez
+
+Az utasadatok átvétele és kezelése céljából terrorista és súlyos bűncselekménynek minősülő bűncselekmények
+
+1. Terrorista bűncselekmények:
+
+1.1. a terrorizmus elleni küzdelemről szóló, 2002. június 13-i 2002/475/IB tanácsi kerethatározat 1. cikkében meghatározott terrorista bűncselekmény, 2. cikkében meghatározott terrorista csoporthoz kapcsolódó bűncselekmény, 3. cikkében meghatározott terrorista tevékenységgel összefüggő bűncselekmény vagy 4. cikke szerinti, bűncselekményre való felbujtás, bűnsegély vagy kísérlet,
+
+1.2. terrorcselekmény [Btk. 314. § (1)–(2) bekezdés, 315. § (1)–(2) bekezdés, 316. §],
+
+1.3. terrorizmus finanszírozása [Btk. 318. § (1)–(2) bekezdés],
+
+1.4. alkotmányos rend erőszakos megváltoztatása [Btk. 254. § (1)–(2) bekezdés],
+
+1.5. az alkotmányos rend elleni szervezkedés [Btk. 255. § (1)–(2) bekezdés],
+
+2. Súlyos bűncselekmények:
+
+2.1. bűnszervezetben részvétel [Btk. 321. §],
+
+2.2. emberkereskedelem [Btk 192. § (1)–(6) bekezdés],
+
+2.3. szexuális visszaélés [Btk. 198. § (1)–(4) bekezdés],
+
+2.4. kerítés [Btk. 200. § (1)–(6) bekezdés],
+
+2.5. prostitúció elősegítése [Btk. 201. § (1) bekezdés c) pont és (2) bekezdés],
+
+2.6. gyermekprostitúció kihasználása [Btk. 203. §],
+
+2.7. gyermekpornográfia [Btk. 204. § (1)–(5) bekezdés],
+
+2.8. szeméremsértés [Btk. 205. § (2) bekezdés],
+
+2.9. kábítószer kereskedelem [Btk. 176. § (1)–(4) bekezdés, (5) bekezdés b) pont, (6) bekezdés, 177. § (1) bekezdés b) pont, c) pont cb) alpont, (2), (3), (5) bekezdés],
+
+2.10. kábítószer-prekurzorral visszaélés [Btk. 183. § (1) bekezdés a) pont],
+
+2.11. pszichoaktív anyaggal visszaélés [Btk. 184. § (1)–(3) bekezdés, 184/A. §, (1) bekezdés b) pont, c) pont cb) alpont, (2)–(3) bekezdés],
+
+2.12. robbanóanyaggal visszaélés [Btk. 324. § (1) bekezdés a) pont, (2)–(3) bekezdés],
+
+2.13. lőfegyverrel visszaélés [Btk. 325. § (1) bekezdés b) pont, (2) bekezdés b) pont, (3) bekezdés, (5) bekezdés],
+
+2.14. nemzetközi szerződés által tiltott fegyverrel visszaélés [Btk. 326. § (1) bekezdés c) pont, (5), (6) bekezdés],
+
+2.15. vesztegetés [Btk. 290. § (1)–(4) bekezdés],
+
+2.16. vesztegetés elfogadása [Btk. 291. § (1)–(4) bekezdés],
+
+2.17. hivatali vesztegetés [Btk. 293. § (1)–(4) bekezdés],
+
+2.18. hivatali vesztegetés elfogadása [Btk. 294. § (1)–(4) bekezdés],
+
+2.19. vesztegetés bírósági vagy hatósági eljárásban [Btk. 295. § (1)–(2) bekezdés],
+
+2.20. vesztegetés elfogadása bírósági vagy hatósági eljárásban [Btk. 296. § (1)–(2) bekezdés],
+
+2.21. vesztegetés feljelentésének elmulasztása [Btk. 297. § (1) bekezdés],
+
+2.22. befolyás vásárlása [Btk. 298. § (1), (3) bekezdés],
+
+2.23. befolyással üzérkedés [Btk. 299. § (1)– (5) bekezdés, 300 §. (2) bekezdés],
+
+2.24. csalás [Btk. 373. § (1) bekezdés, (3)–(6) bekezdés],
+
+2.25. gazdasági csalás [Btk. 374. § (1) bekezdés, (3)–(6) bekezdés],
+
+2.26. információs rendszer felhasználásával elkövetett csalás [Btk. 375. §],
+
+2.27. költségvetési csalás [Btk. 396. § (2)–(7) bekezdés],
+
+2.28. pénzmosás [Btk. 399. § (1)–(4) bekezdés, 400. § (2) bekezdés],
+
+2.29. pénzhamisítás [Btk. 389.§ (1)–(3) bekezdés],
+
+2.30. pénzhamisítás elősegítése [Btk. 390. § (2) bekezdés],
+
+2.31. tiltott adatszerzés [Btk. 422. § (1) bekezdés d) pont, (4) bekezdés],
+
+2.32. információs rendszer vagy adat megsértése [Btk. 423. § (2)–(3) bekezdés],
+
+2.33. környezetkárosítás [Btk. 241. § (1) bekezdés, (2) bekezdés III. fordulat],
+
+2.34. természetkárosítás [Btk. 242. § (1)–(2) bekezdés, 243. § (1)–(2) bekezdés],
+
+2.35. hulladékgazdálkodás rendjének megsértése [Btk. 248. § (1)–(2) bekezdés],
+
+2.36. ózonréteget lebontó anyaggal visszaélés [Btk. 249. § (1) bekezdés],
+
+2.37. embercsempészés [Btk. 353. § (1)–(3) bekezdés],
+
+2.38. emberölés [Btk.160. § (1)–(3) bekezdés, (5) bekezdés],
+
+2.39. erős felindulásban elkövetett emberölés [Btk. 161.§],
+
+2.40. súlyos testi sértés [Btk. 164. § (3), (6), (8) bekezdés],
+
+2.41. emberi test tiltott felhasználása [Btk. 175. § (1)–(3) bekezdés],
+
+2.42. emberrablás [Btk. 190. § (1)–(5) bekezdés],
+
+2.43. emberrablás feljelentésének elmulasztása [Btk. 191. §],
+
+2.44. személyi szabadság megsértése [Btk. 194. §, Btk. 192. § (3) bekezdés a) pont, (4) bekezdés b) pont],
+
+2.45. rablás [Btk. 365. § (3) bekezdés a)–d) pont, (4) bekezdés b, c) pont],
+
+2.46. védett kulturális javakkal visszaélés [Btk. 358. § (1) bekezdés a), c) pont],
+
+2.47. sikkasztás [Btk. 372. § (3) bekezdés c) pont],
+
+2.48. egészségügyi termék hamisítása [Btk. 186. § (1)–(4) bekezdés],
+
+2.49. rossz minőségű termék forgalomba hozatala [Btk. 415. § (1)–(2) bekezdés],
+
+2.50. megfelelőség hamis tanúsítása [Btk. 416. § (1)–(2) bekezdés],
+
+2.51. A szellemi tulajdonjog elleni bűncselekmények, amelyek büntetési tételének felső határa legalább három évig terjedő szabadságvesztés [Btk. XXXVII. Fejezet],
+
+2.52. közokirat-hamisítás [Btk. 342. § (1) bekezdés, 343. § (1) bekezdés],
+
+2.53. teljesítményfokozó szerrel visszaélés [Btk. 185. § (1) bekezdés b) pont, (2)–(3) bekezdés],
+
+2.54. radioaktív anyaggal visszaélés [Btk. 250. § (1) bekezdés b) pont, (2)–(3) bekezdés],
+
+2.55. kettős felhasználású termékkel visszaélés [Btk. 330. § (2) bekezdés b) pont],
+
+2.56. haditechnikai termékkel vagy szolgáltatással visszaélés [Btk. 329. § (2), (4) bekezdés],
+
+2.57. szexuális kényszerítés [Btk. 196. § (1)–(3) bekezdés],
+
+2.58. szexuális erőszak [Btk. 197. § (1)–(5) bekezdés],
+
+2.59. emberiesség elleni bűncselekmények [Btk. XIII. Fejezet],
+
+2.60. háborús bűncselekmények [Btk. XIV. Fejezet],
+
+2.61. jármű hatalomba kerítése [Btk. 320. § (1)–(3) bekezdés],
+
+2.62. lázadás [Btk. 256. § (1)–(3) bekezdés],
+
+2.63. rombolás [Btk. 257. §],
+
+2.64. közérdekű üzem működésének megzavarása [Btk. 323. § (1)–(3) bekezdés, (5) bekezdés],
+
+2.65. nemzetközi gazdasági tilalom megszegése [Btk. 327. § (1)–(4) bekezdés],
+
+2.66. egyedi azonosító jellel visszaélés [Btk. 347. § (1)–(2) bekezdés],
+
+2.67. orgazdaság [Btk. 379. § (1), (3)–(6) bekezdés],
+
+2.68. iparjogvédelmi jogok megsértése [Btk. 388. § (2)–(3) bekezdés],
+
+2.69. kémkedés [Btk. 261. § (1)–(3) bekezdés],
+
+2.70. kémkedés az Európai Unió intézményei ellen [Btk. 261/A. §],
+
+2.71. a szövetséges fegyveres erő ellen elkövetett kémkedés [Btk. 262. §].

@@ -376,7 +376,7 @@ Az Országgyűlés az önkéntes társuláson alapuló lakásszövetkezetek ön�
 
 (5) A (4) bekezdésben meghatározott személyes adatokat a lakásszövetkezeti szerv a tisztségviselő választásának időpontjáig vagy – a megbízatás elfogadása esetén – a tisztségviselői megbízatás megszűnéséig kezeli.
 
-(6) A tisztségviselő a megbízatás elfogadását megelőzően, illetve a közgyűlés felhívására a megbízásának időtartama alatt a lakásszövetkezetnél folytatott tevékenységével összefüggésben a nemleges köztartozásról szóló igazolást a lakásszövetkezeti szerv részére köteles bemutatni.
+(6) A tisztségviselő a megbízatás elfogadását megelőzően, illetve a közgyűlés felhívására a megbízásának időtartama alatt a lakásszövetkezetnél folytatott tevékenységével összefüggésben a nemleges köztartozásról szóló igazolást – amennyiben a köztartozásmentes adózói adatbázisban nem szerepel – a lakásszövetkezeti szerv részére köteles bemutatni.
 
 31. § (1) A Ptk. szerinti közeli hozzátartozók és élettársak nem lehetnek ugyanannak a lakásszövetkezetnek tisztségviselői. Ebben az esetben az összeférhetetlenség fennáll a pénz- és anyagkezeléssel megbízott személyek, a közvetlen felettesük, valamint a felügyelőbizottság elnöke és tagjai között is.
 

@@ -977,13 +977,29 @@ kulturális javakat.
 
 (10) A 61/I. § (7) és (8) bekezdésével, valamint a (7) bekezdéssel összefüggésben keletkezett polgári jogi igények érvényesítése során az Országgyűlés Hivatala mint a kiemelt nemzeti emlékhely vagyonkezelője perelhet és perelhető, a perre a Fővárosi Törvényszék kizárólagosan illetékes. E rendelkezést kell alkalmazni a Kiemelt Nemzeti Emlékhely Bizottság nyilatkozatának 61/I. § (9) bekezdése szerinti bírósági felülvizsgálatára is.
 
-61/K. § (1) Az e Fejezetben meghatározottak a gyülekezési jogról szóló törvény hatálya alá tartozó rendezvény, valamint a választási eljárásról szóló törvény hatálya alá tartozó gyűlés vonatkozásában nem alkalmazhatók.
+61/K. § A Kormány a kiemelt nemzeti emlékhely nemzeti kulturális értéke megőrzése érdekében a kiemelt nemzeti emlékhely használati rendjét, valamint a kiemelt nemzeti emlékhelyre vonatkozó közterület-használati szabályokat, továbbá a kiemelt nemzeti emlékhelyre vonatkozó közterület-használati díjakat és az ellenőrzés rendjét – a Kiemelt Nemzeti Emlékhely Bizottság javaslata alapján és véleményének kikérésével – rendeletben határozza meg.
 
-(2) A kiemelt nemzeti emlékhely használati rendjét, valamint a kiemelt nemzeti emlékhelyre vonatkozó közterület-használati szabályokat és díjakat, továbbá az ellenőrzés rendjét a Kormány – a Kiemelt Nemzeti Emlékhely Bizottság javaslata alapján – rendeletben határozza meg.
+61/L. § (1) A 61/K. § szerinti rendeletben meghatározott egyes szabályokat megsértő természetes személlyel szemben – ha a 61/I. § (12) bekezdése nem alkalmazható – közigazgatási bírság szabható ki.
 
-### 6. Fejezet — EURÓPAI ÖRÖKSÉG CÍM
+(2) A közigazgatási bírság kiszabására a kiemelt nemzeti emlékhely területe szerint illetékes közterület-felügyelet jogosult.
 
-61/L. § Az Európai Örökség cím elnyerésére pályázó helyszíneknek az Európai Örökség címre vonatkozó európai uniós fellépés létrehozásáról szóló, 2011. november 16-i 1194/2011/EU európai parlamenti és tanácsi határozatban meghatározott célkitűzésekre és kritériumokra figyelemmel történő nemzeti szintű előzetes kiválasztásáról a miniszter gondoskodik.
+(3) Ha a helyszíni intézkedés alkalmával az (1) bekezdés szerinti természetes személy a jogsértést teljes mértékben elismeri, a (2) bekezdés szerinti eljáró hatóság helyszíni bírságot szabhat ki.
+
+(4) A közigazgatási bírság összege kettőezer-ötszáz forinttól ötvenezer forintig terjedhet. A helyszíni bírság összege kettőezer-ötszáz forinttól huszonötezer forintig terjedhet.
+
+(5) A közigazgatási bírság, a helyszíni bírság kiszabása során a (2) bekezdés szerinti eljáró hatóság a közigazgatási bírság, a helyszíni bírság mértékét korlátlanul enyhítheti vagy a jogsértő magatartás csekély súlya miatt a kiszabását mellőzheti.
+
+(6) A jogerősen kiszabott és be nem fizetett közigazgatási bírság, helyszíni bírság adók módjára behajtandó köztartozásnak minősül.
+
+(7) A kiszabott közigazgatási bírság, helyszíni bírság az államháztartás központi alrendszerének bevételét képezi.
+
+61/M. § A 61/L. § szerinti közigazgatási bírság, helyszíni bírság megállapításának és megfizetése módjának részletszabályait a Kormány – a Kiemelt Nemzeti Emlékhely Bizottság javaslata alapján és véleményének kikérésével – rendeletben határozza meg.
+
+61/N. § Az e Fejezetben meghatározottak a gyülekezési jogról szóló törvény hatálya alá tartozó rendezvény, valamint a választási eljárásról szóló törvény hatálya alá tartozó gyűlés vonatkozásában nem alkalmazhatók.
+
+### 6. Fejezet — EURÓPAI ÖRÖKSÉG DÍJ
+
+61/O. § Az Európai Örökség cím elnyerésére pályázó helyszíneknek az Európai Örökség címre vonatkozó európai uniós fellépés létrehozásáról szóló, 2011. november 16-i 1194/2011/EU európai parlamenti és tanácsi határozatban meghatározott célkitűzésekre és kritériumokra figyelemmel történő nemzeti szintű előzetes kiválasztásáról a miniszter gondoskodik.
 
 ## III. RÉSZ — A HATÓSÁG FELADATAI
 
@@ -1353,8 +1369,8 @@ gyakorolja.
 - q) meghatározza, hogy mely ingatlanok minősülnek, illetve jelölhetők ki műemléki környezetnek;
 - r) meghatározza az örökségvédelmi engedélyhez vagy tudomásulvételhez kötött tevékenységeket és az e tevékenységekkel kapcsolatos követelményeket;
 - s) meghatározza a műemlékek tudományos kutatásának, értékvizsgálatának szabályait, az építéstörténeti kutatási dokumentáció kötelező tartalmi elemeit;
-- t) állapítsa meg a kiemelt nemzeti emlékhely nemzeti kulturális értéke megőrzését akadályozó tevékenység megelőzésének és az ellenőrzés rendjét,
-- u) állapítsa meg – a Kiemelt Nemzeti Emlékhely Bizottság véleményének kikérésével – a kiemelt nemzeti emlékhely területére vonatkozó közterület-használat szabályait és díjait.
+- t) állapítsa meg – a Kiemelt Nemzeti Emlékhely Bizottság javaslata alapján és véleményének kikérésével – a kiemelt nemzeti emlékhely nemzeti kulturális értéke megőrzését akadályozó tevékenység megelőzésének és az ellenőrzésnek a rendjét, a kiemelt nemzeti emlékhely területére vonatkozó közterület-használat szabályait és díjait;
+- u) állapítsa meg – a Kiemelt Nemzeti Emlékhely Bizottság javaslata alapján és véleményének kikérésével – a 61/L. § szerinti közigazgatási bírság, helyszíni bírság megállapításának és megfizetése módjának részletszabályait;
 - v)
 - w) szabályozza a fémkereső műszer használatát;
 - x) állapítsa meg a védett műemléki érték fenntartására és méltó használatára, a műemléki értéket érintő tevékenységek támogatására vonatkozó szabályokat;

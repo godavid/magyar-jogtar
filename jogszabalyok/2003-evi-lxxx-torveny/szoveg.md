@@ -372,7 +372,7 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 
 42. § A fél a támogatott jogi szolgáltatás igénybevételét a támogatás engedélyezéséről szóló határozat kézhezvételétől számított három hónapon belül, a határozat jogi segítőnek történő átadása ellenében kezdheti meg.
 
-43. § (1) Ha a jogi szolgáltatás legfeljebb két óra időtartamú, vagy a félnek a legfeljebb négy óra időtartamban nyújtott jogi szolgáltatást haladéktalanul igénybe kell vennie, a fél a jogi szolgáltatás igénybevétele érdekében közvetlenül a jogi segítőhöz fordulhat (jogi szolgáltatás igénybevétele a támogatás utólagos engedélyezésével).
+43. § (1) Ha a félnek a legfeljebb négy óra időtartamban nyújtott jogi szolgáltatást haladéktalanul igénybe kell vennie, a fél a jogi szolgáltatás igénybevétele érdekében közvetlenül a jogi segítőhöz fordulhat (jogi szolgáltatás igénybevétele a támogatás utólagos engedélyezésével).
 
 (2) A félnek a jogi szolgáltatás igénybevétele érdekében a támogatás engedélyezésére vonatkozó szabályok szerint kell eljárnia, és a támogatás igénybevételének feltételeit igazoló okiratokat a jogi segítőnek át kell adnia. Ha a jogi segítő a támogatás igénybevételének feltételeit igazoló okiratok és a fél nyilatkozata alapján a feltételeket biztosítottnak látja, a fél részére a 3. §-ban meghatározott jogi szolgáltatást nyújtja.
 
@@ -610,7 +610,7 @@ tart.
 - d) közreműködési kötelezettségének terjedelmét 1. szakterületét vagy szakterületeit, 2. az általa havonta ellátni vállalt ügyek számát,
 - e) által megjelölt azt a nyelvet, amelyen a jogi szolgáltatás nyújtását vállalja,
 - f) azoknak az ügyeknek a számát, amelyekben a jogi segítő ténylegesen jogi szolgáltatást nyújtott,
-- g) névjegyzékbe való felvételéről szóló határozat számát,
+- g)
 - h) szolgáltatási szerződése lejáratának időpontját.
 
 (2) A jogi segítő a névjegyzékben szerepelő adataiban bekövetkezett változásokról a jogi segítségnyújtó szolgálatot nyolc napon belül köteles értesíteni.
@@ -623,9 +623,9 @@ tart.
 - b) ügyvéd, ügyvédi iroda és a tevékenységét Magyarországon állandó jelleggel végző európai közösségi jogász (a továbbiakban együtt: ügyvéd).
 - c)
 
-(2) Jogi segítő szervezet – a (3) bekezdésben foglalt kivétellel – akkor kérheti a felvételét a névjegyzékbe, ha rendelkezik az ügyfelek fogadására alkalmas helyiséggel és ügyvéddel olyan határozott idejű megbízási szerződést kötött, amely alapján az ügyvéd – legalább a szolgáltatási szerződés időtartama alatt – a nevében és megbízásából a jogi szolgáltatást nyújtja. Ha a jogi segítségnyújtó szolgálat a jogi segítő szervezetet abból az okból törli a névjegyzékből, hogy a jogi szolgáltatást nem a vele szerződött ügyvéd útján nyújtotta, a névjegyzékből való törlést követően a jogi segítő szervezetet, annak jogutódját, illetve a törölt szervezetnek az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvényben meghatározott vezető tisztségviselőjének a közreműködésével létrejött más szervezetet további három évig nem lehet ismételten felvenni a névjegyzékbe.
+(2) Jogi segítő szervezet – a (3) bekezdésben foglalt kivétellel – akkor kérheti a felvételét a névjegyzékbe, ha rendelkezik az ügyfelek fogadására alkalmas helyiséggel, és ügyvéddel olyan határozott idejű megbízási szerződést kötött, vagy jogtanácsossal olyan, a jogtanácsosi tevékenységről szóló törvényerejű rendeletben meghatározott jogviszonyt létesített, amely alapján az ügyvéd vagy a jogtanácsos – legalább a szolgáltatási szerződés időtartama alatt – a nevében és megbízásából a jogi szolgáltatást nyújtja. Ha a jogi segítségnyújtó szolgálat a jogi segítő szervezetet abból az okból törli a névjegyzékből, hogy a jogi szolgáltatást nem a vele szerződött ügyvéd vagy jogtanácsos útján nyújtotta, a névjegyzékből való törlést követően a jogi segítő szervezetet, annak jogutódját, illetve a törölt szervezetnek az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvényben meghatározott vezető tisztségviselőjének a közreműködésével létrejött más szervezetet további három évig nem lehet ismételten felvenni a névjegyzékbe.
 
-(3) Jogi oktatást végző egyetem (egyetem) akkor is kérheti felvételét a névjegyzékbe, ha nincs ügyvéd megbízottja, de jogi szakvizsgával vagy állam- és jogtudományi doktori fokozattal rendelkező egyetemi oktatója által vezetett, ügyfelek fogadására alkalmas helyiséggel rendelkező szervezeti egysége folytat jogvédő tevékenységet.
+(3) Jogi oktatást végző egyetem (egyetem) akkor is kérheti felvételét a névjegyzékbe, ha nincs ügyvéd vagy jogtanácsos megbízottja, de jogi szakvizsgával vagy állam- és jogtudományi doktori fokozattal rendelkező egyetemi oktatója által vezetett, ügyfelek fogadására alkalmas helyiséggel rendelkező szervezeti egysége folytat jogvédő tevékenységet.
 
 (4) Az ügyvéd akkor kérheti a felvételét a névjegyzékbe, ha
 
@@ -649,7 +649,7 @@ tart.
 
 ### A jogi segítő közreműködési kötelezettsége
 
-68. § (1) Jogi segítőként a névjegyzékben szereplő ügyvéd és a jogi segítő szervezet megbízásából tevékenykedő ügyvéd olyan jogi szolgáltatások nyújtását végezheti, amely a tevékenységére vonatkozó jogszabályok alapján hatáskörébe tartozik, és e jogszabályok irányadóak a jogi szolgáltatás nyújtásáért fennálló szakmai, etikai, fegyelmi és anyagi felelősségére is.
+68. § (1) Jogi segítőként a névjegyzékben szereplő ügyvéd és a jogi segítő szervezet megbízásából vagy alkalmazásában tevékenykedő ügyvéd vagy jogtanácsos olyan jogi szolgáltatások nyújtását végezheti, amely a tevékenységére vonatkozó jogszabályok alapján hatáskörébe tartozik, és e jogszabályok irányadóak a jogi szolgáltatás nyújtásáért fennálló szakmai, etikai, fegyelmi és anyagi felelősségére is.
 
 (2) Pártfogó ügyvédi képviseletet polgári eljárásban a névjegyzékben szereplő ügyvéd és – a (3) bekezdésben foglalt kivétellel – jogi segítő szervezet láthat el, amennyiben rendelkezik a bíróságokkal való elektronikus kapcsolattartáshoz szükséges technikai feltételekkel. A névjegyzékben szereplő jogi segítő szervezet büntetőeljárásban akkor láthatja el a sértett pártfogó ügyvédi képviseletét, ha megfelel a Be. 58. § (3) bekezdésében meghatározott feltételeknek, egyéb személyek pártfogó ügyvédjeként büntetőeljárásban nem járhat el.
 
@@ -660,6 +660,10 @@ tart.
   - ba) károk megtérítéséért az egyetem tartozik polgári jogi felelősséggel, valamint
   - bb) a személyiségi jogi jogsértés miatt járó sérelemdíj megfizetésére az egyetem köteles a Polgári Törvénykönyv szabályai szerint,
 - c) a jogi szolgáltatás nyújtását a szervezeti egységet vezető oktató felügyelete mellett jogi szakvizsgával vagy állam- és jogtudományi doktori fokozattal rendelkező egyetemi oktató végezheti.
+
+(4) A jogi segítségnyújtást jogtanácsos útján végző jogi segítő szervezet esetében megfelelően alkalmazni kell a (3) bekezdés b) pontjában foglaltakat.
+
+(5) A jogi segítségnyújtást jogtanácsos útján végző jogi segítő szervezet polgári, közigazgatási, munkaügyi perekben és nemperes eljárásokban is elláthatja a fél jogi képviseletét.
 
 69. § (1) A jogi segítő szolgáltatási szerződésben megjelölt időtartamra vonatkozó közreműködési kötelezettsége vagy általános jellegű, vagy az általa megjelölt szakterületre, illetve az általa egy hónapra megjelölt számú ügyben történő jogi szolgáltatásra terjed ki.
 
@@ -696,9 +700,9 @@ tart.
 
 (3) A szerződést a jogi segítségnyújtó szolgálat felmondhatja, ha
 
-- a) a jogi szolgáltatás nyújtásával kapcsolatban a jogi segítő – vagy más ügyvéd megbízottal nem rendelkező jogi segítő szervezet esetében a nevében eljáró ügyvéd – fegyelmi vagy kártérítési kötelezettségét megállapították,
+- a) a jogi szolgáltatás nyújtásával kapcsolatban a jogi segítő – vagy más ügyvéd megbízottal vagy jogtanácsossal nem rendelkező jogi segítő szervezet esetében a nevében eljáró ügyvéd vagy jogtanácsos – fegyelmi vagy kártérítési kötelezettségét megállapították,
 - b) a jogi segítő a jogi szolgáltatást a 70. § (1) bekezdés b) pontja alapján legalább három alkalommal alaptalanul megtagadta, vagy
-- c) a jogi segítségnyújtó szolgálat hivatalos tudomást szerez arról, hogy a jogi segítő szervezet a jogi szolgáltatást nem a 66. § (2) bekezdése szerint vele szerződött ügyvéd útján nyújtja.
+- c) a jogi segítségnyújtó szolgálat hivatalos tudomást szerez arról, hogy a jogi segítő szervezet a jogi szolgáltatást nem a 66. § (2) bekezdése szerint vele szerződött ügyvéd vagy jogtanácsos útján nyújtja.
 
 (4) A jogi segítő a szerződést akkor mondhatja fel, ha a névjegyzékbe történő felvétel feltételei megszűntek, vagy ha a jogi segítői névjegyzékbe felvett ügyvéd igazolja, hogy a szolgáltatási szerződésből eredő kötelezettségek teljesítése egyéb ügyvédi tevékenységének végzését lehetetlenné teszi.
 

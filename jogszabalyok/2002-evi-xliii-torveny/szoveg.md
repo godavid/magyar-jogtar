@@ -137,7 +137,7 @@ azzal, hogy az a) pontban meghatározott feltétel teljesülését nem érinti a
 - a) növeli az adóévben (üzleti évben) megszerzett összes kapott előleg;
 - b) csökkenti az eva alapjának megállapításakor az a) pont alapján a megszerzett összes bevétel növeléseként elszámolt kapott előlegből az adóévben a teljesítésre tekintettel elszámolt vagy visszafizetett összeg.
 
-(5) Az eva alapját csökkenti jogszabály vagy jogerős bírósági, illetve hatósági határozat alapján kapott kártérítés, kártalanítás, sérelemdíj, továbbá az adóalany vállalkozási (gazdasági) tevékenységéhez használt vagyontárgy károsodására vagy megsemmisülésére tekintettel a károkozótól, annak felelősségbiztosítójától vagy harmadik személytől a káreseménnyel kapcsolatosan kapott bevétel, továbbá az adóalany biztosítójától elemi kárra tekintettel kapott bevételként elszámolt kártérítés összege.
+(5) Az eva alapját csökkenti jogszabály vagy jogerős bírósági, illetve hatósági határozat alapján kapott kártérítés, kártalanítás, sérelemdíj, továbbá az adóalany vállalkozási (gazdasági) tevékenységéhez használt vagyontárgy károsodására vagy megsemmisülésére tekintettel a károkozótól, annak felelősségbiztosítójától vagy harmadik személytől a káreseménnyel kapcsolatosan kapott bevétel, továbbá az adóalany biztosítójától elemi kárra tekintettel kapott bevételként elszámolt kártérítés, továbbá a költségek fedezetére vagy fejlesztési célra folyósított támogatás összege.
 
 (6)–(9)
 
@@ -164,7 +164,7 @@ azzal, hogy az a) pontban meghatározott feltétel teljesülését nem érinti a
 
 (8) Ha a bevételt külföldi fizetőeszközben fejezték ki, akkor az átszámításhoz azt az utolsó, a bizonylat kibocsátásának napján – más esetben a bevétel megszerzésének a napján – érvényes, az adott külföldi pénznem valamely egységének forintban kifejezett eladási árát kell alkalmazni, amelyet belföldön pénzváltási engedéllyel rendelkező hitelintézet devizában jegyez. Abban az esetben, ha az adott külföldi pénznemnek ilyen jegyzése nincs, a forintra történő átszámításhoz azt az adott külföldi pénznem valamely egységének euróban kifejezett értékét kell alapul venni, amelyet a Magyar Nemzeti Bank a bizonylat kibocsátásának napját – más esetben a bevétel megszerzésének a napját – megelőző naptári negyedévre vonatkozóan tesz közzé.
 
-(9) A (2) bekezdés szerinti bevétel csökkenthető a jogszabályi kötelezettség alapján tárgyévben visszafizetett támogatás összegével.
+(9)
 
 ### A bevétel megszerzésének időpontja
 
@@ -357,7 +357,7 @@ mutatott ki.
 - a) mérlegében kimutatott eredménytartalék, saját elhatározásból lekötött tartalék, adózott eredmény és – a jóváhagyott osztalék, részesedés alapján a taggal szemben fennálló – kötelezettség együttes összegéből az a rész, amely meghaladja a mérlegben kimutatott, nem vagyoni betétként megszerzett immateriális javak és tárgyi eszközök (ide nem értve az immateriális javak és a tárgyi eszközök értékhelyesbítését) együttes könyv szerinti értékét;
 - b) egyszerűsített mérlegében kimutatott eredménytartalék, saját elhatározásból lekötött tartalék, adózott eredmény, tartalék és – a jóváhagyott osztalék, részesedés alapján tagjával szemben fennálló – kötelezettség együttes összegéből az a rész, amely meghaladja az egyszerűsített mérlegben kimutatott, nem vagyoni betétként megszerzett immateriális javak és tárgyi eszközök együttes könyv szerinti értékét.
 
-(3) A (2) bekezdés szerinti összeg után a közkereseti társaság, a betéti társaság és a egyéni cég adót (a továbbiakban: az osztalék utáni adót kiváltó adó) fizet. Az osztalék utáni adót kiváltó adó a (2) bekezdés szerinti összeg 16 százaléka, amelyet az adózó az üzleti évre vonatkozó társaságiadó-bevallásában vagy kisvállalatiadó-bevallásában elkülönítetten vall be. A bevallott összeget három egyenlő részletben, az üzleti évre és az üzleti évet követő két adóévre – de legkésőbb az e törvény szerinti adóalanyiságának utolsó adóévére – vonatkozó társaságiadó-bevallás, kisvállalatiadó-bevallás illetve eva-bevallás benyújtásával egyidejűleg fizet meg.
+(3) A (2) bekezdés szerinti összeg után a közkereseti társaság, a betéti társaság és a egyéni cég adót (a továbbiakban: az osztalék utáni adót kiváltó adó) fizet. Az osztalék utáni adót kiváltó adó a (2) bekezdés szerinti összeg 15 százaléka, amelyet az adózó az üzleti évre vonatkozó társaságiadó-bevallásában vagy kisvállalatiadó-bevallásában elkülönítetten vall be. A bevallott összeget három egyenlő részletben, az üzleti évre és az üzleti évet követő két adóévre – de legkésőbb az e törvény szerinti adóalanyiságának utolsó adóévére – vonatkozó társaságiadó-bevallás, kisvállalatiadó-bevallás illetve eva-bevallás benyújtásával egyidejűleg fizet meg.
 
 (4) A jogi személy és az egyéni cég adóalanyt, továbbá magánszemély tagját, volt tagját (örökösét) az adóévben nem terheli – a jogi személy és az egyéni cég adóalany által juttatott bevétel alapján – az osztalék utáni személyi jövedelemadóval és a vállalkozásból kivont jövedelem utáni személyi jövedelemadóval összefüggésben adókötelezettség.
 
@@ -480,6 +480,8 @@ mutatott ki.
 (3) A 16. § (1) bekezdésének c) pontja szerinti kötelezettséget a 2002. szeptember 30-át követően beszerzett tárgyi eszköz esetében kell első ízben alkalmazni.
 
 (4) E törvénynek az adó- és járuléktörvények, a számviteli törvény és a könyvvizsgálói kamarai törvény, valamint az európai közösségi jogharmonizációs kötelezettségek teljesítését célzó adó- és vámjogi tárgyú törvények módosításáról szóló 2010. évi CXXIII. törvénnyel beiktatott, 2011. január 1-jétől hatályos rendelkezéseit első ízben a 2011. adóévi adókötelezettségre kell alkalmazni.
+
+(5) A jogszabályi kötelezettség alapján tárgyévben visszafizetett támogatás összege az egyszerűsített vállalkozói adó alapját csökkenti, ha az a támogatás folyósításakor az egyszerűsített vállalkozó adó alapját képezte.
 
 24–29. §
 

@@ -143,9 +143,7 @@ hozható meg.
 
 6. § (1) Dohányterméket forgalomba hozni csak abban az esetben lehet, amennyiben minden csomagolási egysége és gyűjtőcsomagja megfelel az e törvény végrehajtására kiadott kormányrendeletben foglalt előírásoknak.
 
-(2) Az egészségvédő figyelmeztetéseket az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint kell alkalmazni. Egészségvédő figyelmeztetésnek minősül a szöveges figyelmeztetés, a kombinált egészségvédő figyelmeztetés, az általános figyelmeztetés és a tájékoztatás.
-
-(3) Az e törvény felhatalmazása alapján kiadott kormányrendeletben előírt általános figyelmeztetést a dohányterméket árusító üzlethelyiségben, illetve mozgó árusító hely kiszolgáló terében is el kell helyezni.
+(2)–(3)
 
 (4) A dohánytermékek címkézésének és csomagolásának további részletes szabályaira az e törvény végrehajtására kiadott kormányrendelet rendelkezései az irányadóak.
 
@@ -171,14 +169,7 @@ hozható meg.
 
 (3) Egészségvédelmi bírság csak azon természetes személy ellen szabható ki, aki a cselekmény elkövetésekor 14. életévét betöltötte.
 
-(4) Az egészségvédelmi bírság összege
-
-- a) a dohányzással összefüggő tilalmak, korlátozások megsértése esetén legalább 20 000, legfeljebb 50 000 Ft;
-- b) a dohányzóhelyek kijelölésére vonatkozó kötelezettség nem vagy nem megfelelő teljesítése, valamint a dohányzást érintő tilalmak, korlátozások megtartására vonatkozó ellenőrzési kötelezettség elmulasztása esetén, továbbá a dohányzási korlátozással érintett, valamint a dohányzásra kijelölt helyeken, helyiségekben, valamint közterületeken nem, vagy nem megfelelő felirat vagy más egyértelmű jelzés alkalmazása esetén, illetve annak nem szembetűnő módon történő megjelölése esetén
-  - ba) legalább 100 000 Ft, legfeljebb 250 000 Ft az ezen kötelezettségek betartásáért felelős személy tekintetében, illetve
-  - bb) legalább 1 000 000, legfeljebb 2 500 000 Ft az intézmény, szervezet, üzemeltető vagy gazdasági társaság tekintetében.
-
-(5) A kiszabott egészségvédelmi bírság összegét úgy kell meghatározni, hogy az igazodjék a cselekmény súlyához és az elkövető személyi körülményeihez. Az eljáró hatóság a (4) bekezdés a) pontja szerinti esetben – az ott meghatározott összeghatártól eltérően – a törvénysértőt 30 000 Ft-ig terjedő helyszínen kiszabott egészségvédelmi bírsággal sújthatja. A helyszínen kiszabott bírság 30 napon belül történő meg nem fizetése esetén a (4) bekezdést kell alkalmazni.
+(4)–(5)
 
 (6)
 
@@ -289,16 +280,22 @@ hozható meg.
 
 rendeletben határozza meg.
 
-(4b) Felhatalmazást kap a fogyasztóvédelemért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a cigaretta kátránykibocsátásának, nikotinkibocsátásának, szén-monoxid-kibocsátásának mérésére vonatkozó díjakat és a mérés szabályait rendeletben határozza meg.
+(4b) Felhatalmazást kap a fogyasztóvédelemért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a dohánytermékek nyilvántartásba vételére és vizsgálatára, valamint a cigaretta kátrány-, nikotin- és szén-monoxid-kibocsátásának mérésére vonatkozó díjakat rendeletben határozza meg.
 
-(4c) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az elektronikus cigaretta, az utántöltő flakon és a dohányzást imitáló elektronikus eszköz forgalomba hozatalának és az ezzel kapcsolatos változások bejelentésére vonatkozó igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat rendeletben határozza meg.
+(4c) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az adópolitikáért felelős miniszterrel és a kormányzati tevékenység összehangolásáért felelős miniszterrel egyetértésben
+
+- a) az elektronikus cigaretta, az utántöltő flakon és a dohányzást imitáló elektronikus eszköz forgalomba hozatalára, nyilvántartására és az ezzel kapcsolatos változások bejelentésére, valamint a bejelentések fenntartására vonatkozó igazgatási szolgáltatási díj mértékét, a díj beszedésével, kezelésével, nyilvántartásával, és visszatérítésével kapcsolatos,
+- b) az új dohánytermék-kategóriák bejelentésére, nyilvántartására, valamint a bejelentések fenntartására vonatkozó igazgatási szolgáltatási díj mértékét, a díj beszedésével, kezelésével, nyilvántartásával, és visszatérítésével kapcsolatos,
+- c) a dohánytermékek gyártása során felhasznált adalékanyagok bejelentésére, nyilvántartására, valamint a bejelentések fenntartására vonatkozó igazgatási szolgáltatási díj mértékét, a díj beszedésével, kezelésével, nyilvántartásával, és visszatérítésével kapcsolatos
+
+részletes szabályokat rendeletben határozza meg.
 
 (4d) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a módosított hatású terméknek történő minősítésre irányuló eljárás igazgatási szolgáltatási díját, valamint a Bizottság véleményére vonatkozó díj mértékét, továbbá a díjak beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat rendeletben határozza meg.
 
 (5) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
 - a) a kombinált figyelmeztetéseket, egészségvédő figyelmeztetéseket, valamint azok alkalmazásának részletes szabályait, a dohánytermékek fogyasztói csomagolási egységeire és az elektronikus cigaretta, az utántöltő flakon és a dohányzást imitáló elektronikus eszköz csomagolási egységeire vonatkozó részletes szabályokat, a dohányzási korlátozásra, valamint a dohányzóhelyek és elektronikus cigaretta, valamint dohányzást imitáló elektronikus eszköz használatának kijelölésére vonatkozó feliratok és jelzések tartalmát, formáját, továbbá a dohánytermékek, valamint az elektronikus cigaretta,utántöltő flakon és dohányzást imitáló elektronikus eszköz előállításának, forgalmazásának és ellenőrzésének a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló törvény szabályozási körébe nem tartozó egyéb feltételeit,
-- b) az egészségvédelmi bírság befizetésének, nyilvántartásának részletes szabályait,
+- b) az egészségvédelmi bírság mértékének, befizetésének, nyilvántartásának részletes szabályait és a bírság megállapításának szempontrendszerét,
 - c) a dohánytermékek összetevőire vonatkozó részletes szabályokat,
 - d) a dohánytermékek kibocsátási szintjeire, azok mérésének módszereire vonatkozó részletes szabályokat,
 - e) a dohánytermékek összetevőinek és kibocsátási szintjeinek bejelentésére vonatkozó részletes szabályokat,
@@ -315,32 +312,24 @@ rendeletben határozza meg.
 - b) az Európai Parlament és a Tanács 2003/33/EK irányelve (2003. május 26.) a tagállamok dohánytermékek reklámozására és szponzorálására vonatkozó törvényi, rendeleti és közigazgatási rendelkezéseinek közelítéséről, 5. cikk (2) bekezdése [a törvény 5. §-ának (4) bekezdése];
 - c) az Európai Parlament és a Tanács 2014/40/EU irányelve (2014. április 3.) a tagállamoknak a dohánytermékek és kapcsolódó termékek gyártására, kiszerelésére és értékesítésére vonatkozó törvényi, rendeleti és közigazgatási rendelkezései közelítéséről és a 2001/37/EK irányelv hatályon kívül helyezéséről.
 
-8/A. § (1) 2012. január 1-je és 2012. március 31-e között az egészségvédelmi bírság kiszabását az egészségügyi államigazgatási szerv mellőzi abban az esetben, ha a hatósági ellenőrzés során megállapított, e törvénybe ütköző jogsértést megvalósító cselekmény miatt e törvény 2011. december 31-én hatályos rendelkezései alapján bírság kiszabásának nem lett volna helye.
+8/A. § (1)
 
 (2) Az egészségügyi államigazgatási szerv (1) bekezdés szerinti eljárására a Ket. 94. § (1) bekezdés a) pontjában foglaltak az irányadóak, azzal, hogy
 
 - a) a jogsértőt legalább húsz napos, de legkorábban 2012. április 1-jei határidővel kell a jogszabálysértés megszüntetésére kötelezni, és
 - b) a (2) bekezdésben foglalt időszak alatt e törvénybe ütköző cselekményekkel összefüggésben a Ket. 94. § (2) bekezdés d) pontja nem alkalmazható.
 
-8/B. § Azok a cigaretta dohánytermékek, amelyek a 6. § 2011. december 31-én hatályos rendelkezéseinek megfelelnek, de nem felelnek meg a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvény módosításáról szóló 2011. évi XLI. törvény (a továbbiakban: Módosító Tv.) által megállapított 6. § rendelkezéseinek, a 8. § (5) bekezdés a) pontjában foglalt felhatalmazás alapján kiadott jogszabály hatálybalépésétől számított
-
-- a) nyolcadik hónap első napjától nem gyárthatóak és a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény rendelkezései szerint nem bocsáthatóak szabadforgalomba, továbbá
-- b) tizenkettedik hónap első napjától nem hozhatók forgalomba és nem adhatók át a végső fogyasztónak.
+8/B. §
 
 9. § (1) A kereskedelemről szóló törvény szerint szálláshelynek minősülő, jogszabály alapján szállodaként üzemeltetett közforgalmú intézményben a Módosító Tv. hatálybalépésekor már működtetett és a (3) és (4) bekezdés szerint engedélyezett zárt légterű dohányzóhely – szivarszobaként – tovább működtethető. A tovább működtetést az egészségügyi államigazgatási szerv engedélyezi.
 
 (2) Az (1) bekezdés szerinti szivarszobában 2012. január 1-jétől más szolgáltatás nem nyújtható, különösen étel vagy ital nem szolgálható fel, a szolgáltatást igénybevevő dohányzó vendégek ott tartózkodásának tartama alatt a munkavállaló a szivarszobában tartózkodását szükségessé tevő munkaköri feladat ellátására nem kötelezhető.
 
-(3) Az (1) bekezdés szerinti szálloda üzemeltetője, ha a szivarszobáját 2011. december 31-ét követően tovább kívánja működtetni, a Módosító Tv. hatálybalépését követő 60 napon belül kérheti ennek engedélyezését.
-
-(4) Az egészségügyi államigazgatási szerv helyszíni szemlét is magában foglaló hatósági eljárás keretében köteles megvizsgálni, hogy a bejelentett szivarszoba az (5) és (6) bekezdésben fogalt feltételeknek megfelel-e. Ha a bejelentett szivarszoba e feltételeknek
-
-- a) nem felel meg, az egészségügyi államigazgatási szerv a szivarszoba dohányzóhelyként történő kijelölését 2012. január 1-jével megtiltja,
-- b) megfelel, az egészségügyi államigazgatási szerv a szivarszoba tovább működtetését engedélyezi.
+(3)–(4)
 
 (5)–(6)
 
-10. § (1) Ha a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvény módosításáról szóló 2012. évi XXVI. törvénnyel (a továbbiakban: Módtv.) megállapított 2. § (5) bekezdés d)–e) pontja alapján a munkáltató a Módtv. hatálybalépését követő 30 napon belül a dohányzóhely kijelölésének engedélyezése iránti kérelmet nyújtott be az egészségügyi államigazgatási szervnek, egészségvédelmi bírság az adott dohányzóhely kijelölésével összefüggésben 2012. április 1-jétől az eljárás jogerős lezárásáig nem alkalmazható.
+10. § (1)
 
 (2) A 2016. november 20-a előtt gyártott elektronikus cigaretták, valamint utántöltő flakonok 2017. május 20-áig hozhatók forgalomba.
 

@@ -216,6 +216,8 @@ Az Országgyűlés abból a célból, hogy a hivatásos és a sportvadászok ön
 
 (5) A hivatásos vadász tagfelvételi kérelmét, valamint vadászjegy kiállítására, illetve érvényesítésére irányuló kérelmét elutasító jogerős határozat bírósági felülvizsgálata esetén a határozatot a bíróság megváltoztathatja.
 
+14/A. § A vadászjegy kizárólag a kamarai tagsági jogviszonnyal rendelkező vadász számára állítható ki és érvényesíthető.
+
 15. § (1) A tagfelvételi kérelemben a kérelmezőnek nyilatkoznia kell arról, hogy
 
 - a) a kamarai tagsági díjat az alapszabályban meghatározott módon megfizeti,
@@ -238,7 +240,7 @@ Az Országgyűlés abból a célból, hogy a hivatásos és a sportvadászok ön
 
 (3) Az (1) bekezdés a) pontja alapján felfüggesztett tagsági viszonyt a vezetőség a tag kérelmére állítja helyre, a b)–d) pontok alapján felfüggesztett tagsági viszony pedig az ott megállapított időtartam lejártát követő napon áll helyre, amelyet a tagnak írásban be kell jelentenie.
 
-(4) Az (1) bekezdés d) pontja szerinti esetben a tagsági viszony felfüggesztése helyett legfeljebb hat hónapra bevonható a vadászjegy, a hivatásos vadász szolgálati igazolványa, valamint jelvénye.
+(4)
 
 (5) Az (1) bekezdés c) pontja szerinti jogerős ítéletről az eljáró bíróság az illetékes területi szervezetet tájékoztatja.
 
@@ -270,7 +272,7 @@ Az Országgyűlés abból a célból, hogy a hivatásos és a sportvadászok ön
 
 (7) Az a személy, akinek tagsági viszonya az (1) bekezdés d) pontjában meghatározott okból szűnt meg – amennyiben az alapszabály ennél rövidebb időt nem állapít meg, vagy a területi küldöttgyűlés ettől eltérően nem rendelkezik – az etikai büntetés jogerőre emelkedésétől számított két éven belül a kamarába tagként nem vehető fel.
 
-(8) A tagsági viszonynak a tag halála miatti megszűnése esetén a volt tag vadászjegyét, hivatásos vadász esetén a szolgálati igazolványát és jelvényét is be kell vonni, s azokat öt évig meg kell őrizni.
+(8) A tagsági viszonynak a megszűnése esetén a volt tag vadászjegyét, hivatásos vadász esetén a szolgálati igazolványát és jelvényét is be kell vonni, s azokat öt évig meg kell őrizni.
 
 ### A tag jogai és kötelezettségei
 
@@ -404,7 +406,7 @@ Az Országgyűlés abból a célból, hogy a hivatásos és a sportvadászok ön
 - a) a tagjai által befizetett tagdíjból,
 - b) egyéb díjbevételeiből, illetőleg támogatásokból fedezi.
 
-(2) A kamara által az államtól átvett feladatok térítéseként az (1) bekezdés b) pontja szerinti bevételnek minősül a vadászjegy kiállításáért a miniszter által rendeletben megállapított mértékű igazgatási szolgáltatási díj ötven százaléka.
+(2) A kamara által az államtól átvett feladatok térítéseként az (1) bekezdés b) pontja szerinti bevételnek minősül a vadászjegy kiállításáért a miniszter által rendeletben megállapított mértékű igazgatási szolgáltatási díj teljes összege.
 
 (3) A fegyelmi büntetésként kiszabott pénzbírság felhasználásának rendjét az alapszabály állapítja meg.
 
@@ -440,4 +442,6 @@ Az Országgyűlés abból a célból, hogy a hivatásos és a sportvadászok ön
 
 (2)–(7)
 
-40. §
+40. § (1) Az Országos Magyar Vadászkamaráról szóló 1997. évi XLVI. törvény módosításáról szóló 2016. évi CXIV. törvény (a továbbiakban: Módtv.) hatálybalépése előtt kiadott vadászjeggyel, de kamarai tagsággal nem rendelkező vadásznak a Módtv. hatálybalépésétől számított 30 napon belül a 14. § (1) bekezdés alapján be kell nyújtania a tagfelvételi kérelmét a kamara részére.
+
+(2) A kamara az (1) bekezdésben foglalt kötelezettségét elmulasztó vadász vadászjegyét visszavonja.

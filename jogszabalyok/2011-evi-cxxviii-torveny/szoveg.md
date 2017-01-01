@@ -60,7 +60,7 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
   - c) mérgező, rákkeltő tulajdonságú veszélyes anyag kibocsátása,
   - d) oxidáló, tűz- vagy környezetre veszélyes tulajdonságú folyadék halmazállapotú veszélyes anyag kikerülése legalább 1000 kg mennyiségben,
   - e) egyéb veszélyes anyag kikerülése legalább a felső küszöbérték 0,1%-át elérő mennyiségben,
-  - f) veszélyes anyagokkal foglalkozó létesítmény leállítása.
+  - f)
 - 31. Veszélyes tevékenység: olyan, veszélyes anyagok jelenlétében végzett tevékenység, amely ellenőrizhetetlenné válása esetén tömeges méretekben veszélyeztetheti, illetve károsíthatja az emberi egészséget, a környezetet, az élet- és vagyonbiztonságot.
 - 31a. Veszélyes anyagok jelenléte: veszélyes anyagok tényleges vagy várható jelenléte a veszélyes anyagokkal foglalkozó üzemben, küszöbérték alatti üzemben, valamint azoknak az anyagoknak a jelenléte, amelyekről reálisan feltételezhető, hogy akkor keletkezhetnek, amikor a folyamatok – beleértve a tároló tevékenységet is – az üzemen belül bármely létesítményből kikerülnek az ellenőrzés alól, amennyiben e veszélyes anyagok mennyisége eléri vagy meghaladja az e törvény végrehajtását szolgáló kormányrendeletben meghatározott alsó küszöbérték negyedét.
 - 32. Veszélyességi övezet: a veszélyes anyagokkal kapcsolatos súlyos baleset lehetséges következményeinek csökkentése érdekében a veszélyes anyagokkal foglalkozó üzem környezetében a hatóság által kijelölt, az egyéni sérülés kockázatához igazodó terület.
@@ -358,7 +358,7 @@ felé kell teljesíteni.
 - g) ellátja a polgári védelmi szervezetek létrehozásával és felkészítésével, ellátásával és alkalmazásával, valamint a lakosság és az anyagi javak mentésével összefüggő tervezési és szervezési feladatokat,
 - h) biztosítja a védelmi igazgatás szerveinek működéséhez szükséges szakértőket, és részt vesz a védelmi igazgatás tervezési feladataiban,
 - i) együttműködik az országos illetékességgel eljáró szervek ágazati katasztrófaelhárítási szervezeteivel,
-- j) feladatai ellátásához az ingatlanügyi hatóságtól a számítógépes ingatlan-nyilvántartási rendszerből, a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szervtől adatot, a földmérési és térképészeti állami alapadatok kezelésére jogosult szervtől földmérési és térképészeti állami alapadatokat, termékeket kér,
+- j) feladatai ellátásához az ingatlanügyi hatóságtól a számítógépes ingatlan-nyilvántartási rendszerből, a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szervtől adatot, a földmérési és térképészeti állami alapadatok kezelésére jogosult szervtől földmérési és térképészeti állami alapadatokat, termékeket kér,
 - k) gondoskodik a közfoglalkoztatás feltételeinek rendelkezésre állásáról a katasztrófák elleni védekezésre való felkészüléssel, a védekezéssel és a helyreállítással összefüggő katasztrófavédelmi feladatok hatékonyabb ellátása érdekében,
 - l) irányítja a veszélyes áruk szállításának ellenőrzésével kapcsolatos, a hivatásos katasztrófavédelmi szerv hatáskörébe tartozó hatósági feladatok ellátását.
 
@@ -377,11 +377,70 @@ felé kell teljesíteni.
 - k) szükség esetén – a külpolitikáért felelős miniszterrel együttműködve – biztosítja a nemzetközi segítség fogadását, elősegíti kapacitásai függvényében a nemzetközi segítségnek a veszélyhelyzet vagy a katasztrófa károsító hatása által érintett területre való eljuttatását, és szétosztását,
 - l) végzi az Európai Unió kötelező jogi aktusából vagy nemzetközi szerződésből eredő katasztrófavédelmi feladatokat.
 
+(6) A hivatásos katasztrófavédelmi szerv központi szerve vezetője irányítja az országos szúnyoggyérítési program keretében a szúnyoggyérítéssel kapcsolatos feladatok ellátását.
+
 #### 18. A hivatásos katasztrófavédelmi szerv területi szervei
 
 24. § (1) A hivatásos katasztrófavédelmi szerv területi szerve költségvetési szerv, amely jogszabályban meghatározott ügyekben hatóságként jár el, ellátja a jogszabályokban részére meghatározott feladatokat, irányítja a hivatásos tűzoltóságokat és a katasztrófavédelmi kirendeltségeket.
 
 (2) A hivatásos katasztrófavédelmi szerv területi szerve ellátja az önkormányzati tűzoltóságok felügyeletét, ellenőrzi a létesítményi tűzoltóságok és az önkéntes tűzoltó egyesületek tevékenységét.
+
+#### 18/A. A hivatásos katasztrófavédelmi szerv veszélyesáru-szállítási hatósági ellenőrzési feladatokat ellátó állomány tagja által alkalmazható intézkedések és kényszerítő eszközök
+
+24/A. § (1) A hivatásos katasztrófavédelmi szerv veszélyesáru-szállítási hatósági ellenőrzési feladatokat ellátó hivatásos állományának tagja (a továbbiakban: állomány tagja) jogosult
+
+- a) a szabálysértés, bűncselekmény elkövetésén tetten ért személyt a cselekmény abbahagyására felszólítani, valamint a cselekmény folytatásában megakadályozni,
+- b) a bűncselekmény elkövetésén tetten ért személyt a rendőrség megérkezéséig – de legfeljebb két óra időtartamra – visszatartani.
+
+(2) Az állomány tagja az (1) bekezdésben meghatározott intézkedés végrehajtása, valamint az ellenszegülés megtörése érdekében
+
+- a) testi kényszert és
+- b) vegyi eszközt
+
+alkalmazhat, ha a tetten ért személy felszólítás ellenére a cselekményét folytatja, illetve a felhívásnak nem tesz eleget.
+
+(3) Az állomány tagja az (1) bekezdés b) pontjában meghatározott intézkedés végrehajtása esetén a szökés megakadályozása érdekében bilincset is alkalmazhat.
+
+(4) Az állomány tagja önvédelmi célból testi kényszert alkalmazhat, továbbá önvédelmi célból vegyi eszközt és rendőrbotot tarthat magánál.
+
+24/B. § (1) Az intézkedés nem okozhat olyan hátrányt, amely nyilvánvalóan nem áll arányban az intézkedés törvényes céljával.
+
+(2) Több lehetséges és alkalmas intézkedés, illetve kényszerítő eszköz közül azt kell választani, amely az intézkedéssel érintettre a legkisebb korlátozással, sérüléssel vagy károkozással jár az eredményesség biztosítása mellett.
+
+(3) Az állomány tagja a kényszerítő eszköz alkalmazása előtt – ha az intézkedés célját nem veszélyezteti – előzetesen figyelmezteti az intézkedés alá vont személyt, hogy kényszerítő eszköz alkalmazására kerül sor.
+
+(4) Nincs helye a kényszerítő eszköz további alkalmazásának, ha az ellenszegülés megtört, és az intézkedés eredményessége e nélkül is biztosítható.
+
+(5) A testi kényszer és a bilincs kivételével kényszerítő eszköz – az önvédelem esetét kivéve – nem alkalmazható a láthatóan terhes nővel és a gyermekkorúval szemben.
+
+(6) A vegyi eszköz alkalmazására csak abban az esetben kerülhet sor, ha az intézkedés alá vont személy ellenállása testi kényszer alkalmazásával nem törhető meg.
+
+(7) A kényszerítő eszköz alkalmazása esetén lehetőleg kerülni kell a sérülés okozását. A kényszerítő eszköz alkalmazása folytán megsérült személy részére – amint ez lehetséges – segítséget kell nyújtani, szükség esetén az állomány tagja gondoskodik arról, hogy a sérültet orvos elláthassa, kórházi elhelyezése esetén a hozzátartozó vagy más, a sérülttel kapcsolatban álló erről értesüljön.
+
+24/C. § (1) Az állomány tagját az intézkedés során
+
+- a) az egyenruhája és azon elhelyezett azonosító jelvénye, vagy
+- b) szolgálati igazolványa és azonosító jelvénye
+
+igazolja.
+
+(2) Az állomány tagja az intézkedés megkezdése előtt – ha az az intézkedés eredményességét veszélyezteti, akkor az intézkedés befejezésekor – köteles nevét, azonosító számát, valamint az intézkedés tényét és célját szóban közölni. A kényszerítő eszközök alkalmazását követően az állomány tagja köteles az intézkedés alá vont személyt tájékoztatni az e törvény szerinti panasz lehetőségéről és annak előterjesztésére nyitva álló határidőről.
+
+(3) A hivatásos katasztrófavédelmi szervnél a rendőrségnél rendszeresített, a hivatásos katasztrófavédelmi szerv által beszerzett kényszerítő eszköz alkalmazható.
+
+24/D. § (1) Az állomány tagja az intézkedésről, ha kényszerítő eszközök alkalmazására is sor került, szóban – haladéktalanul, rövid úton – jelentést tesz az intézkedést foganatosító szerv vezetőjének.
+
+(2) Az állomány tagja az intézkedés vagy kényszerítő eszköz alkalmazását követően két napon belül írásban jelentést készít az intézkedést foganatosító szerv vezetőjének, aki az intézkedés vagy kényszerítő eszköz alkalmazásának jogszerűségét kivizsgálja.
+
+(3) A (2) bekezdésben meghatározott írásbeli jelentés tartalmára az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény szabályait kell alkalmazni.
+
+(4) Akinek a kényszerítő eszköz alkalmazása alapvető jogát sértette, jogát vagy jogos érdekét érintette, panasszal fordulhat a kényszerítő eszközt alkalmazó hivatásos katasztrófavédelmi szerv vezetőjéhez.
+
+(5) A panaszt a panasz elbírálására jogosultnál a kényszerítő eszköz alkalmazásától, ha pedig a panasz előterjesztője az őt ért jogsérelemről később szerzett tudomást, a tudomásszerzéstől számított nyolc napon, de legkésőbb a kényszerítő eszköz alkalmazásának időpontjától számított három hónapon belül lehet előterjeszteni.
+
+(6) A panasz elbírálására jogosult a panaszról a beérkezését követő naptól számított huszonegy napon belül – a közigazgatási hatósági eljárás szabályai szerint – dönt.
+
+(7) A (6) bekezdésben meghatározott döntéssel szemben a (4) bekezdésben meghatározott személy, illetve az állomány tagja – a közigazgatási hatósági eljárás szabályai szerint – jogorvoslattal élhet.
 
 ### IV. Fejezet — VESZÉLYES ANYAGOKKAL KAPCSOLATOS SÚLYOS BALESETEK ELLENI VÉDEKEZÉS
 
@@ -521,7 +580,7 @@ esetén.
 - a) a veszélyes anyagokkal kapcsolatos súlyos balesetek megelőzését és elhárítását, az egészség és a környezet magas fokú védelmét biztosító súlyos káresemény-elhárítási tervet az iparbiztonsági hatóság részére jóváhagyásra benyújtani,
 - b) a súlyos káresemény-elhárítási terv részeként súlyos balesetek megelőzését és elhárítását biztosító irányítási rendszert működtetni,
 - c) a súlyos káresemény-elhárítási tervben megjelölt feladatok végrehajtásához szükséges feltételeket biztosítani,
-- d) a súlyos káresemény-elhárítási tervet a külön jogszabályban meghatározott esetekben, de legalább háromévenként felülvizsgálni, és szükség szerint módosítani,
+- d) a súlyos káresemény-elhárítási tervet a külön jogszabályban meghatározott esetekben, de legalább ötévenként felülvizsgálni, és szükség szerint módosítani,
 - e) a súlyos káresemény-elhárítási terv végrehajthatóságát a külön jogszabályban meghatározott módon gyakorlattal ellenőrizni,
 - f) a veszélyes anyagokkal kapcsolatos súlyos baleset körülményeit kivizsgálni és az arról készült jelentést az iparbiztonsági hatóság részére megküldeni.
 
@@ -945,7 +1004,7 @@ kezelheti.
 - a) a munkáltató, egyéni vállalkozó által teljesített adatszolgáltatás,
 - b) a hadkiegészítő parancsnokság nyilvántartása,
 - c) a személyi adat- és lakcímnyilvántartás,
-- d) a központi közúti közlekedési nyilvántartó szerv által vezetett járműnyilvántartás.
+- d) a közúti közlekedési nyilvántartó szerv által vezetett járműnyilvántartás.
 
 (4) A (3) bekezdésben meghatározott adatszolgáltató az adatszolgáltatást 15 napon belül térítésmentesen teljesíti.
 

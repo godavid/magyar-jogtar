@@ -277,7 +277,7 @@ kapcsolatos eljárásokban.
 
 (6) A 10. § (1) bekezdés 13. pontjától eltérően az ügyfélszolgálattal, az előfizetői számlapanaszok elektronikus hírközlési szolgáltató általi intézésének rendjével kezelésével, a számla tartalmával kapcsolatban az e törvényben vagy az e törvény végrehajtására kibocsátott jogszabályban meghatározott rendelkezések fogyasztókkal szembeni megsértése esetén a fogyasztóvédelmi hatóság a fogyasztóvédelemről szóló törvény rendelkezéseinek megfelelően jár el.
 
-(7) A 10. § (1) bekezdés 13. pontjától eltérően a 129. § (2) bekezdésében, 130. § (1) bekezdés második mondatában, 130. § (2) bekezdésében, 132. § (4) bekezdésében, 134. § (14) bekezdésének második mondatában, 144. § (1) bekezdésében vagy az e törvény végrehajtására kibocsátott jogszabályban az előfizetők elektronikus hírközlési szolgáltató általi tájékoztatására vonatkozóan előírt követelmények – az egyedi előfizetői szerződés és az általános szerződési feltételek tartalmára vonatkozó követelményeket ide nem értve – fogyasztókkal szembeni megsértése esetén a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvényben meghatározott hatóság jár el az ott meghatározott szabályok szerint.
+(7) A 10. § (1) bekezdés 13. pontjától eltérően a 130. § (1) bekezdés második mondatában, 130. § (2) bekezdésében, 132. § (4) bekezdésében, 134. § (14) bekezdésének második mondatában, 144. § (1) bekezdésében vagy az e törvény végrehajtására kibocsátott jogszabályban az előfizetők elektronikus hírközlési szolgáltató általi tájékoztatására vonatkozóan előírt követelmények – az egyedi előfizetői szerződés és az általános szerződési feltételek tartalmára vonatkozó követelményeket ide nem értve – fogyasztókkal szembeni megsértése esetén a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvényben meghatározott hatóság jár el az ott meghatározott szabályok szerint.
 
 (8) Az e törvényben vagy az e törvény végrehajtására kibocsátott jogszabályban meghatározott szabályok a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezések.
 
@@ -869,7 +869,7 @@ jogerős vagy fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított
 - e) az Elnök rendeletében meghatározott egyedi engedélyekről;
 - f) a Hatósághoz benyújtott referenciaajánlatokról és hálózati szerződésekről;
 - g) a nem azonosítható hívószámokról;
-- h) a nem harmonizált frekvenciahasználatú rádióalkalmazások rádióberendezéseinek belföldi forgalomba hozataláról;
+- h)
 - i) az engedéllyel rendelkező, valamint a bejelentés alapján nyilvántartásba vett elektronikus hírközlési építményekről.
 
 (3) A hatósági nyilvántartásokban szereplő közérdekű adatokat bárki megismerheti, kivéve, ha jogszabály vagy nemzetközi kötelezettségvállalás a hatósági nyilvántartásba való betekintést kifejezetten korlátozza.
@@ -1015,7 +1015,7 @@ jogerős vagy fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított
 
 ### Zavarelhárítás
 
-56. § (1) Elektronikus hírközlő berendezést, nagyfrekvenciás berendezést, valamint minden olyan berendezést amely működése közben nagyfrekvenciás jelet vagy mellékhatást kelt, továbbá azokat a villamos vagy elektronikus alkatrészeket tartalmazó berendezéseket (a továbbiakban együtt: villamos vagy elektronikus berendezés), amelyek alkalmasak arra, hogy elektromágneses zavart okozzanak, vagy amelyek működésére ilyen zavar hatással lehet, úgy kell üzemben tartani, hogy az más, zavarérzékenység szempontjából egyébként megfelelő villamos vagy elektronikus berendezés működésében zavart ne okozzon.
+56. § (1) Elektronikus hírközlő berendezést, nagyfrekvenciás villamos berendezést, valamint minden olyan berendezést amely működése közben nagyfrekvenciás jelet vagy mellékhatást kelt, továbbá azokat a villamos vagy elektronikus alkatrészeket tartalmazó berendezéseket (a továbbiakban együtt: villamos vagy elektronikus berendezés), amelyek alkalmasak arra, hogy elektromágneses zavart okozzanak, vagy amelyek működésére ilyen zavar hatással lehet, úgy kell üzemben tartani, hogy az más, zavarérzékenység szempontjából egyébként megfelelő villamos vagy elektronikus berendezés működésében zavart ne okozzon.
 
 (2) A hírközlő berendezés működésében zavart okozó berendezés üzemben tartója köteles a zavart megelőzni, a keletkezett zavart megszüntetni.
 
@@ -1370,32 +1370,21 @@ köréből jelöli ki a megőrzött adatok átvételére és azok 159/A. § szer
 
 (8) Az adatokat átadó elektronikus hírközlési szolgáltató az adatok átadáskori teljeskörűségéért, minőségéért és időszerűségéért, az adatokat átvevő elektronikus hírközlési szolgáltató az átvett adatok 159/A. § szerinti megőrzéséért és az adatszolgáltatási kérelmek teljesítéséért felelős.
 
-### Az elektronikus hírközlő berendezések forgalmazásának feltételei
+### A rádióberendezések forgalmazására, valamint az elektromágneses összeférhetőségre vonatkozó szabályok
 
-79. § (1) Elektronikus hírközlő berendezés akkor forgalmazható, ha az megfelel a 80. §-ban meghatározott alapvető követelményeknek és az Elnök rendeletében meghatározott feltételeknek.
+79. § (1) Rádióberendezés, valamint az Európai Bizottság által meghatározott rádióberendezés-osztályok és kategóriák esetén a rádióberendezés és a rendeltetésszerű használatot lehetővé tevő szoftverek együttese akkor hozható forgalomba, forgalmazható, vagy helyezhető üzembe, ha megfelel az Elnök rendeletében meghatározott követelményeknek, valamint a gyártó, a meghatalmazott képviselő, az importőr és a forgalmazó az Elnök rendeletében meghatározott kötelezettségeinek eleget tett.
 
-(2) A nem harmonizált frekvenciahasználatú rádióalkalmazások rádióberendezéseinek belföldi forgalomba hozatali szándékát az Elnök rendeletében meghatározottak szerint a gyártónak, a gyártó Európai Gazdasági Térségben letelepedett meghatalmazott képviselőjének, az importőrnek vagy a rádióberendezés belföldi forgalomba hozataláért felelős személynek be kell jelentenie a Hatóságnak.
+(2) Az e törvényben, valamint az Elnök rendeletében meghatározott, a rádióberendezések forgalomba hozatalára, forgalmazására és üzembe helyezésére vonatkozó előírások betartását a Hivatal felügyeli.
 
-(3) A nem polgári célú frekvenciagazdálkodás körébe tartozó rádióberendezés forgalmazásának feltételeit az e törvény felhatalmazása alapján kiadott külön jogszabály állapítja meg.
+80. § (1) A rádióberendezést a környezet- és természetvédelmi jogszabályokban előírt követelmények betartásával úgy kell kialakítani, hogy ne veszélyeztesse az emberek és a háziállatok egészségét és biztonságát, biztosítsa a természetvédelmi oltalom alatt álló területek és védett természeti értékek fennmaradását, a tulajdon védelmét, a rádióspektrum hatékony használatát és a káros zavarás elkerülését.
 
-80. § (1) A hírközlő berendezések nem veszélyeztethetik a felhasználók és más személyek életét, egészségét, testi épségét és biztonságát (alapvető biztonságtechnikai követelmények) és meg kell felelniük az elektromágneses összeférhetőségi (EMC) követelményeknek, továbbá eleget kell tenniük az egészségvédelmi és környezetvédelmi jogszabályokban előírt követelményeknek.
+(2) A rádióberendezés megfelelőségét a gyártó megfelelőségértékelési eljárás lefolytatása alapján kiállított megfelelőségi nyilatkozattal igazolja.
 
-(2) A rádióberendezést úgy kell kialakítani, hogy az – a káros zavarás elkerülése mellett – hatékonyan használja a földfelszíni rádiótávközlésre és űrtávközlésre felosztott rádióspektrumot, illetőleg műholdas pályákat.
+(3) Az Európai Bizottság által meghatározott rádióberendezés-osztályok és kategóriák akkor hozhatók forgalomba, forgalmazhatók vagy helyezhetők üzembe, ha teljesítik az Európai Bizottság által meghatározott együttműködési képességre, csalás elleni védettségre, az előfizetők és felhasználók magánszférájának védelmére, a fogyatékkal élők hozzáférésének biztosítására és a segélyhívó szolgálatok elérésének támogatására vonatkozó követelményeket.
 
-(3) Egyes, az Elnök rendeletében meghatározott osztályokba tartozó rádióberendezések, illetve elektronikus hírközlő végberendezések forgalmazására – az Európai Bizottság határozatát átültető jogszabályi rendelkezés alapján – az alábbiakban felsorolt további egy vagy több követelményt is alkalmazni kell. E követelmények szerint az adott berendezésnek alkalmasnak kell lennie:
+81. § (1) Nagyfrekvenciás villamos berendezést, valamint egyéb nagyfrekvenciás jelet vagy mellékhatást keltő villamos vagy elektronikus berendezést úgy kell kialakítani, hogy az általa okozott elektromágneses zavar ne haladja meg azt a szintet, amely az elektronikus hírközlő berendezések és más villamos vagy elektronikus berendezések rendeltetésszerű működését akadályozza.
 
-- a) elektronikus hírközlő hálózatokon keresztül más készülékekkel történő együttműködésre és megfelelő típusú interfészekhez való csatlakoztatásra az Európai Gazdasági Térség tagállamaiban;
-- b) arra, hogy ne okozzon káros zavart az elektronikus hírközlő hálózatban vagy annak működésében, valamint ne használja helytelenül az elektronikus hírközlő hálózatok erőforrásait, amellyel a szolgáltatás elfogadhatatlan minőségromlását idézné elő;
-- c) a felhasználó és az előfizető személyes adatainak és a magánélethez fűződő jogainak védelmére;
-- d) a visszaélések megakadályozására;
-- e) a segélyszolgálatok elérésére;
-- f) a fogyatékos személyek általi használatra.
-
-(4) A rádióberendezés és elektronikus hírközlő végberendezés alapvető követelményeknek való megfelelését az Elnök rendeletében meghatározottak szerint – megfelelőség értékelési eljárás alapján tett – megfelelőségi nyilatkozatban kell igazolni.
-
-(5) A megfelelőségi nyilatkozat, valamint a megfelelőség értékelési eljárás során keletkezett, illetőleg előírt dokumentumok (így különösen műszaki dokumentáció, kijelölt tanúsító szerv megfelelőségi tanúsítványa) meglétét, valamint az alapvető követelményeknek való megfelelést a Hatóság ellenőrzi.
-
-81. § Nagyfrekvenciás berendezést, valamint villamos vagy elektronikus berendezést úgy kell előállítani, hogy az általa okozott elektromágneses zavarás ne haladja meg azt a szintet, amely az elektronikus hírközlő berendezések és más villamos vagy elektronikus berendezések üzemszerű működését akadályozza.
+(2) Az e törvényben, valamint az Elnök rendeletében meghatározott, a nagyfrekvenciás villamos berendezések, valamint egyéb nagyfrekvenciás jelet vagy mellékhatást keltő villamos vagy elektronikus berendezések forgalomba hozatalára, forgalmazására és üzembe helyezésére vonatkozó előírások betartását a Hivatal felügyeli.
 
 ### Interfészek bejelentése
 
@@ -2246,6 +2235,17 @@ köteles biztosítani.
 
 (2) Az előfizetői szerződésekre e törvény rendelkezéseit és e törvény felhatalmazása alapján kibocsátott előfizetői szerződésekre vonatkozó elnöki rendeletek rendelkezéseit kell alkalmazni. Az e törvényben és az e törvény felhatalmazása alapján kibocsátott előfizetői szerződésekre vonatkozó elnöki rendeletekben nem szabályozott esetekre a Ptk. szerződésekre vonatkozó rendelkezései megfelelően irányadók.
 
+(2a) Az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatás előfizetője legfeljebb az Elnök rendeletében meghatározott számú előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatásra irányuló előfizetői szerződést köthet és az előfizetését nem értékesítheti tovább.
+
+(2b) Az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatás előfizetője az előfizetői szolgáltatás igénybevételét lehetővé tevő SIM kártyát harmadik személy részére abban az esetben adhatja át, ha a 129. § (2) bekezdés szerinti azonosításhoz szükséges adatokról a SIM kártya átadását megelőzően az elektronikus hírközlési szolgáltatót tájékoztatta, és a szolgáltató a harmadik személy személyazonosság igazolására alkalmas hatósági igazolványának érvényességét a személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartásában ellenőrizte. E bekezdés alkalmazásában nem minősül harmadik személynek a közeli hozzátartozó.
+
+(2c) A (2b) bekezdésnek nem megfelelő átruházás esete a szolgáltató megtévesztésével kötött szerződésnek minősül.
+
+(2d) A szolgáltató a Kormány rendeletében meghatározott – a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter által irányított – rendvédelmi szervnek jelzést küld, ha
+
+- a) az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatásra irányuló előfizetői szerződéssel kapcsolatban rögzített ügyfélazonosító adatok valódiságával vagy megfelelőségével kapcsolatban kétség merül fel, illetve
+- b) az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatásra irányuló előfizetői szerződés igénybevételével összefüggésben – különösen az előfizető körülményei, az előfizetői szerződések száma vagy az előfizető által igénybe vett előfizetői szolgáltatások jellege alapján – bűncselekmény gyanúja merül fel.
+
 (3) E törvényben foglaltaktól a szolgáltató az előfizetői szerződésekben és az általános szerződési feltételekben csak akkor térhet el, ha az eltérést a törvény, illetve a felhatalmazása alapján kiadott Elnök által hozott rendelet kifejezetten megengedi. Az Elnök rendeletben meghatározhatja azon előfizetői szerződésekre és az általános szerződési feltételekre vonatkozó rendelkezések körét, amelyek alkalmazása üzleti előfizetők esetében nem kötelező. Kis- és középvállalkozások az előfizetői szerződés megkötésekor írásbeli nyilatkozattal kérhetik az egyéni előfizetőkre vonatkozó szabályok vonatkozásukban történő alkalmazását, amelyről a szolgáltató köteles részletes – az előnyöket és hátrányokat bemutató – tájékoztatást adni. A tájékoztatás megtörténtét a szolgáltató köteles igazolni. A tájékoztatás elmaradása esetén az előfizetői szerződés semmis.
 
 (4) A felek az egyedi előfizetői szerződésben az e törvényben és az általános szerződési feltételekben foglaltaktól az előfizető javára egyező akarattal eltérhetnek.
@@ -2256,7 +2256,7 @@ köteles biztosítani.
 
 (5) Az előfizetői szerződésnek az előfizetők és felhasználók védelmével, a díjazás hitelességével, a felek jogaival és kötelezettségeivel összefüggő további feltételeit az Elnök rendeletben állapítja meg.
 
-128. § (1) Az előfizető az előfizetői szerződés alapján az adott szolgáltatást a szerződés időtartama alatt jogosult bármikor igénybe venni, és a hálózaton biztosított előfizetői interfészhez az alapvető követelményeknek megfelelő elektronikus hírközlő végberendezést csatlakoztatni.
+128. § (1) Az előfizető az előfizetői szerződés alapján az adott szolgáltatást a szerződés időtartama alatt jogosult bármikor igénybe venni, és a hálózaton biztosított előfizetői interfészhez elektronikus hírközlő végberendezést csatlakoztatni.
 
 (2) Az elektronikus hírközlési szolgáltató nem teheti függővé valamely előfizetői szolgáltatás igénybevételét az adott előfizetői szolgáltatáshoz nem nélkülözhetetlen más előfizetői szolgáltatás igénybevételétől, vagy az adott előfizetői szolgáltatáshoz nem nélkülözhetetlen más szolgáltatás vagy termék megvásárlásától vagy igénybevételétől.
 
@@ -2268,7 +2268,21 @@ köteles biztosítani.
 
 129. § (1) A felek az előfizetői szerződést írásban, szóban vagy ráutaló magatartással – az e törvényben és az Elnök rendeletében meghatározott módon – köthetik meg. A nyilvános előfizetői szolgáltatást nyújtó szolgáltató az előfizetői szerződést az általános szerződési feltételei szerint köti meg.
 
-(2)
+(2) A szolgáltató az előfizető személyazonosságának igazoló ellenőrzése érdekében az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatásra irányuló előfizetői szerződés megkötését megelőzően, illetve a (2b) bekezdés szerinti adategyeztetés érdekében köteles az egyéni előfizetőnek, valamint üzleti előfizető esetén a szerződést aláíró személynek a személyazonosság igazolására alkalmas hatósági igazolványának érvényességét a személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartásában ellenőrizni.
+
+(2a) A (2) bekezdésben meghatározott, az előfizető személyazonosságának sikeres ellenőrzésének hiányában az előfizetői szerződés nem köthető meg, valamint a szolgáltató a szolgáltatás nyújtását nem kezdheti meg.
+
+(2b) A szolgáltató – a (2) bekezdés szerinti az előfizető személyazonosságának igazoló ellenőrzése érdekében –
+
+- a) ha a 134. § (16) bekezdés szerinti határozott időtartamú szerződések láncolata az egy évet meghaladja, akkor a szerződés megkötésének napját követő egy év múlva, majd évente az évforduló napjáig az előfizető,
+- b) a 127. § (2b) bekezdés szerinti harmadik személy
+
+adatainak egyeztetésére köteles.
+
+(2c) Az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatás esetében az előfizető személyazonossága igazolását on-line regisztráción keresztül is
+
+- a) kezdeményezheti a szolgáltatásra irányuló előfizetői szerződés megkötését megelőzően, illetve
+- b) elvégezheti a (2b) bekezdés szerinti adategyeztetés során.
 
 (3) Ha a felek az előfizetői szerződést írásban kötik meg, a természetes személy előfizetőnek a szerződéskötéskor kell nyilatkoznia arról, hogy az előfizetői szolgáltatást egyéni előfizetőként vagy nem egyéni előfizetőként kívánja igénybe venni. Ha az előfizetői szerződést nem írásban kötik, a szolgáltató köteles biztosítani, hogy az előfizető egyszerű módon és ingyen megtehesse az egyéni előfizetői minőségre vonatkozó nyilatkozatát. A nyilatkozat megtételének módját, annak határidejét egyebekben a szolgáltatói általános szerződési feltételek határozzák meg.
 
@@ -2350,7 +2364,14 @@ köteles biztosítani.
 
 134. § (1) Az előfizető a határozatlan idejű előfizetői szerződést legfeljebb 8 napos felmondási határidővel bármikor jogosult további jogkövetkezmények nélkül felmondani. Az előfizetői szerződés bármely ezzel ellentétes kikötése semmis.
 
-(2) Az előfizetői szerződés szolgáltató általi felmondásának felmondási ideje a (6)–(7), illetve a (13) bekezdésben meghatározottak kivételével nem lehet kevesebb mint 60 nap.
+(1a) A szolgáltató köteles az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatásra irányuló előfizetői szerződést azonnali hatállyal felmondani:
+
+- a) ha az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatás előfizetője az előfizetését továbbértékesíti,
+- b) ha a 129. § (2b) bekezdés szerinti ellenőrzéskor megállapításra kerül az okmány érvénytelensége,
+- c) ha a 127. § (2d) bekezdésben meghatározott szerv nemzetbiztonsági vagy közbiztonsági okból jelzéssel élt,
+- d) ha az előfizető a 129. § (2b) bekezdés szerinti adategyeztetési kötelezettségét a szerződés évfordulójának napját követő ötödik napig nem teljesítette.
+
+(2) Az előfizetői szerződés szolgáltató általi felmondásának felmondási ideje az (la), a (6)–(7), illetve a (13) bekezdésben meghatározottak kivételével nem lehet kevesebb mint 60 nap.
 
 (3) A szolgáltató az előfizetői szerződés felmondását írásban, tértivevényes levélben, vagy amennyiben az előfizetői szerződésben az előfizető hozzájárult, olyan elektronikus dokumentumban vagy elektronikus levélben köteles megküldeni, amelynek kézbesítése hitelt érdemlően igazolható, kivéve, ha az előfizetőt a felmondásról azért nem tudja így értesíteni, mert a szolgáltatás sajátosságai következtében a szolgáltató nem rendelkezik az előfizető ilyen módon történő értesítéséhez szükséges adatokkal. Ez utóbbi esetben a szolgáltató az előfizetőt a szerződés felmondásáról a 144. § (4) bekezdésében meghatározott egyéb módon is értesítheti.
 
@@ -2368,6 +2389,8 @@ köteles biztosítani.
 - b) az előfizető a jogkövetkezményekre figyelmeztető értesítését követően sem teszi lehetővé a szolgáltató számára, hogy a bejelentett vagy a szolgáltató által felderített hiba kivizsgálásához és elhárításához szükséges helyszíni ellenőrzéseket elvégezze, vagy
 - c) az egyetemes szolgáltatást igénybe vevő előfizető az előfizetői szolgáltatást a jogkövetkezményekre figyelmeztető értesítését követően is harmadik személy részére továbbértékesíti,
 - d) az előfizető a szolgáltatást törvénybe ütköző módon vagy célokra használja.
+
+(6a) A szolgáltató az előfizetői szerződés megszegése esetén az előfizetői szerződést a (3)–(5) bekezdésben meghatározott feltételek szerint 5 napos határidővel felmondja, ha az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatás előfizetője az előfizetői szolgáltatás igénybevételét lehetővé tevő SIM kártyát a SIM kártya átadását megelőzően a 129. § (2) bekezdés szerinti azonosításhoz szükséges adatokról az elektronikus hírközlési szolgáltató tájékoztatása nélkül harmadik személy részére átadja.
 
 (7) A szolgáltató az előfizetői szerződést 30 napos felmondási idővel mondhatja fel, amennyiben az előfizető az esedékes díjat a jogkövetkezményekre figyelmeztető első értesítés elküldését legalább 15 nappal követő második értesítés megtörténtét követően sem egyenlítette ki. Nem jogosult a szolgáltató felmondani a szerződést,
 
@@ -2431,7 +2454,7 @@ köteles biztosítani.
 
 137. § (1) Az előfizetői szolgáltatás igénybevételének korlátozására, így különösen az előfizető által indított vagy az előfizetőnél végződtetett (az előfizető hozzáférési pontjára irányuló) forgalom korlátozására, az előfizetői szolgáltatás minőségi vagy más jellemzőinek csökkentésére a szolgáltató az előfizető értesítésével a következő esetekben jogosult:
 
-- a) az előfizető akadályozza vagy veszélyezteti a szolgáltató hálózatának rendeltetésszerű működését, így különösen, ha az előfizető az előfizetői hozzáférési ponthoz megfelelőség-tanúsítással nem rendelkező végberendezést vagy nem megfelelő interfésszel rendelkező végberendezést csatlakoztatott;
+- a) az előfizető akadályozza vagy veszélyezteti a szolgáltató hálózatának rendeltetésszerű működését, így különösen, ha az előfizető az előfizetői hozzáférési ponthoz nem megfelelő interfésszel rendelkező végberendezést csatlakoztatott;
 - b) a szolgáltatást igénybe vevő előfizető az előfizetői szolgáltatást a szolgáltató hozzájárulása nélkül harmadik személy részére továbbértékesíti, vagy azt hálózati szolgáltatás céljára használja;
 - c) az előfizetőnek a díjfizetésre vonatkozó, annak esedékessé válását követő 8 napon belül megküldött felszólításban megjelölt – de legalább 30 napos – határidő elteltét követően is esedékes díjtartozása van, és az előfizető a díjtartozás megfizetésének biztosítása céljából a szolgáltatónak nem adott az általános szerződési feltételekben meghatározott vagyoni biztosítékot;
 - d) az előfizető fogyasztása túllépte az adott szolgáltatás tekintetében az általános szerződési feltételekben, illetve az egyedi előfizetői szerződésben az igénybevétel felső korlátjaként meghatározott összeget vagy hívás, üzenet, illetve adatmennyiséget.
@@ -3050,6 +3073,10 @@ tekinthetnek be.
 
 163/G. § A Kerekasztal a 149/A. § (2) bekezdésében említett ajánlást első ízben 2014. május elsejéig fogadja el és teszi közzé.
 
+163/H. § (1) A Rendőrségről szóló 1994. évi XXXIV. törvény, valamint az elektronikus hírközlésről szóló 2003. évi C. törvény módosításáról szóló 2016. évi CXXVIII. törvény hatályba lépésétől számított 15 napon belül a szolgáltató az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatással rendelkező előfizetőit a 129. § (2) bekezdésének megfelelő személyazonosságának ellenőrzése teljesítése céljából a 144. § (4) bekezdés c) pontja szerint értesíti. 2017. július 1-jén megszűnik azon előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatásra irányuló előfizetői szerződés, amely vonatkozásában az előfizető személyazonosságának ellenőrzése 2017. június 30-ig nem teljesül sikeresen.
+
+(2) Az Elnök rendeletében meghatározott számot meghaladó előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatással rendelkező előfizető 2017. június 30-ig köteles nyilatkozni arról, hogy az Elnök rendeletében meghatározott számot meghaladó előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatásra irányuló előfizetői szerződései közül melyik szerződést kívánja fenntartani. 2017. július 1-jén megszűnik azon előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatásra irányuló előfizetői szerződés, amelyet az előfizető nem kíván fenntartani.
+
 ### Hatálybalépés
 
 164. § (1) E törvény – a (2)–(3) bekezdésben meghatározott rendelkezések kivételével – 2004. január 1-jén lép hatályba.
@@ -3103,7 +3130,8 @@ tekinthetnek be.
 - d) a kormányzati célú hálózatokra és az ilyen hálózatokkal kapcsolatos elektronikus hírközlési tevékenységre vonatkozó, e törvénytől eltérő szabályokat;
 - e) az e törvény szerinti egyablakos információs pontot működtető szervet, valamint az egyablakos információs pont működésére vonatkozó szabályokat;
 - f) a nagy sebességű elektronikus hírközlő hálózati elemek építési munkáinak összehangolási kötelezettsége alól mentesülő építési munkák körét, valamint a fizikai infrastruktúrával kapcsolatos átláthatóságra, a közműhálózatok fejlesztésének átláthatóságára, és az épületen belüli fizikai infrastruktúra kiépítésére vonatkozó rendelkezések alkalmazása alóli kivételeket;
-- g) a Hatóság általi, az e-közműt üzemeltető szervezet számára történő adatszolgáltatás formátumára, rendjére és az adatok körére, valamint az elektronikus hírközlési építmények építtetői és az elektronikus hírközlő hálózatok üzemeltetői regisztrációs és adatszolgáltatási kötelezettségének Hatóság általi ellenőrzésére és – annak nem megfelelő teljesítése vagy a közműnyilatkozat elmaradása esetén – az alkalmazható bírság kiszabására vonatkozó szabályokat.
+- g) a Hatóság általi, az e-közműt üzemeltető szervezet számára történő adatszolgáltatás formátumára, rendjére és az adatok körére, valamint az elektronikus hírközlési építmények építtetői és az elektronikus hírközlő hálózatok üzemeltetői regisztrációs és adatszolgáltatási kötelezettségének Hatóság általi ellenőrzésére és – annak nem megfelelő teljesítése vagy a közműnyilatkozat elmaradása esetén – az alkalmazható bírság kiszabására vonatkozó szabályokat;
+- g) a 127. § (2d) bekezdésében meghatározott szervet.
 
 (2)
 
@@ -3144,6 +3172,7 @@ tekinthetnek be.
 - 33. a 159/B. § szerinti elektronikus hírközlési szolgáltatók és a kereső- és gyorsítótár-szolgáltatók KEHTA-hoz való kapcsolódásának és elektronikus kapcsolattartásának, valamint a KEHTA-hoz való kapcsolódás alóli mentesülés részletes szabályait;
 - 34.
 - 35. a 83/A. § (1) bekezdés szerinti írásbeli ajánlat kötelező tartalmi elemeit, valamint a Hatóság 83/B. § (1) bekezdése, 90. § (7) bekezdése, 93/A. § (8) bekezdése, 93/B. § (6) bekezdése, 94. § (2f) bekezdése és 99/C. § (2) bekezdése szerinti jogvitás eljárásának eljárási szabályait, a kérelem tartalmi követelményeit, a tényállás tisztázására vonatkozó szabályokat, a hatósági döntés tartalmát, a költségek megállapításának szabályait, az alkalmazandó költségszámítási vagy díjképzési módszer szabályait.
+- 36. a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter véleményének kikérésével az egyazon egyéni előfizető, illetve egyazon üzleti előfizető által megköthető, előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatásra irányuló előfizetői szerződések számát.
 
 (4) Az Elnök (3) bekezdés szerinti jogalkotási hatáskörébe tartozó, 2011. augusztus 1. napját megelőzően kibocsátott jogszabályok az Elnök által azonos tárgykörben kibocsátott jogszabályok hatálybalépésének napjáig maradnak hatályban, e napig alkalmazhatók.
 
@@ -3217,7 +3246,7 @@ végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 (2) Ez a törvény
 
-- a) a rádióberendezésekről és a távközlő végberendezésekről, valamint a megfelelőségük kölcsönös elismeréséről szóló, 1999. március 9-i 1999/5/EK európai parlamenti és tanácsi irányelv, 2. cikk a)–e) és i) pontjának, 3. és 4. cikk, 6. cikk (1) és (4) bekezdésének, 7. cikk (2) és (4) bekezdésének,
+- a) a rádióberendezések forgalmazására vonatkozó tagállami jogszabályok harmonizációjáról és az 1999/5/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 2014/53/EU európai parlamenti és tanácsi irányelvnek
 - b) az elektronikus hírközlő hálózatokhoz és kapcsolódó eszközökhöz való hozzáférésről, valamint azok összekapcsolásáról („Hozzáférési irányelv”) szóló, 2002. március 7-i 2002/19/EK európai parlamenti és a tanácsi irányelvnek,
 - c) az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások engedélyezéséről (engedélyezési irányelv) szóló, 2002. március 7-i 2002/20/EK irányelv európai parlamenti és tanácsi irányelvnek,
 - d) az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások közös keretszabályozásáról (keretirányelv) szóló, 2002. március 7-i 2002/21/EK az európai parlamenti és tanácsi irányelvnek,
@@ -3229,7 +3258,8 @@ végrehajtásához szükséges rendelkezéseket állapítja meg.
 - j) az egyetemes szolgáltatásról, valamint az elektronikus hírközlő hálózatokhoz és elektronikus hírközlési szolgáltatásokhoz kapcsolódó felhasználói jogokról szóló 2002/22/EK irányelv, az elektronikus hírközlési ágazatban a személyes adatok kezeléséről, feldolgozásáról és a magánélet védelméről szóló 2002/58/EK irányelv és a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK rendelet módosításáról szóló, 2009. november 25-i 2009/136/EK európai parlamenti és tanácsi irányelvnek,
 - k) az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások közös keretszabályozásáról szóló 2002/21/EK irányelv, az elektronikus hírközlő hálózatokhoz és kapcsolódó eszközökhöz való hozzáférésről, valamint azok összekapcsolásáról szóló 2002/19/EK irányelv és az elektronikus hírközlő hálózatok és az elektronikus hírközlési szolgáltatások engedélyezéséről szóló 2002/20/EK irányelv módosításáról szóló, 2009. november 25-i 2009/140/EK európai parlamenti és tanácsi irányelvnek,
 - l) a nagy sebességű elektronikus hírközlő hálózatok kiépítési költségeinek csökkentésére irányuló intézkedésekről szóló, 2014. május 15-i 2014/61/EU európai parlamenti és a tanácsi irányelv 2. cikk 1–4; 7–9. valamint 11. pontja, 3. cikk., 4. cikk , 5. cikk, 6. cikk, 7. cikk, 8.cikk és a 9. cikk (1)–(4) bekezdésének, valamint
-- m) a spektrumhasználatra vonatkozó információk Közösségen belüli harmonizált rendelkezésre állásáról szóló, 2007. május 16-i 2007/344/EK bizottsági határozatnak
+- m) a spektrumhasználatra vonatkozó információk Közösségen belüli harmonizált rendelkezésre állásáról szóló, 2007. május 16-i 2007/344/EK bizottsági határozatnak,
+- n) az elektromágneses összeférhetőségre vonatkozó tagállami jogszabályok harmonizálásáról szóló, 2014. február 26-i 2014/30/EU európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
@@ -3272,7 +3302,7 @@ való megfelelést szolgálja.
 - 27. Fizikai helymegosztás: Olyan helymegosztás, amelynek esetében a helymegosztásra jogosult berendezései az arra kötelezett szolgáltató létesítményén belül, utóbbi által rendelkezésre bocsátott meghatározott helyen kerülnek elhelyezésre.
 - 27/a. Fizikai infrastruktúra: a hírközlő vezetékek, az aktív hálózati elemeket nélkülöző optikai szál, az ivóvíz-törzshálózat és az ivóvíz-bekötővezeték (azaz emberi fogyasztásra szánt víz szállítására használt hálózati elemek) kivételével a 33/a. pontban meghatározott rendeletetésű hálózathoz tartozó, különösen átviteli vagy elosztó hálózat elemek, csővezeték, védőcsövek, védőcsövek szerelvényei, alépítmény, ellenőrzőkamra, ellenőrzőakna, szekrény, építmény, antennaszerkezet, torony, tartóoszlop vagy más olyan elem, amely a hálózat más elemeinek fogadására szolgál anélkül, hogy maga is a hálózat aktív részévé válna,
 - 28. Fogyasztó: bármilyen természetes személy, aki szakmáján, üzleti tevékenységén vagy hivatásán kívül eső célból nyilvánosan elérhető elektronikus hírközlési szolgáltatást használ vagy igényel.
-- 29. Forgalmazás: a termékek forgalmazása tekintetében az akkreditálás és piacfelügyelet előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló, 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 765/2008/EK rendelet) 2. cikk 1. pontjában meghatározott fogalom. 29/A. Forgalomba hozatal: a 765/2008/EK rendelet 2. cikk 2. pontjában meghatározott fogalom.
+- 29. Forgalmazás: a termékek forgalmazása tekintetében az akkreditálás és piacfelügyelet előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló, 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 765/2008/EK rendelet) 2. cikk 1. pontjában meghatározott fogalom. 29/A. Forgalmazó: a 765/2008/EK rendelet 2. cikk 6. pontjában meghatározott fogalom. 29/B. Forgalomba hozatal: a 765/2008/EK rendelet 2. cikk 2. pontjában meghatározott fogalom.
 - 30. Földrajzi szám: az ANFT-ben meghatározott olyan szám, amely földrajzi helyre utaló számrészét a számkijelölés szerinti előfizetői hozzáférési pont fizikai helyére történő irányítására használnak.
 - 30/a. Frekvenciafelosztás: egy adott frekvenciasávhoz egy vagy több rádiószolgálat hozzárendelése abból a célból, hogy azok a frekvenciasávot meghatározott feltételek mellett használják.
 - 31. Frekvenciagazdálkodás: azon állami tevékenységek összessége, melyek a rádióspektrum szabályozott nemzeti és nemzetközi felhasználását szolgálják, célja a rádióspektrum hatékony és káros zavarástól mentes felhasználása, a frekvenciák biztosítása a rádiószolgálatok keretében működő rádiótávközlési, rádiócsillagászati és egyéb nem rádiótávközlési alkalmazások számára.
@@ -3285,7 +3315,7 @@ való megfelelést szolgálja.
 - 36. Hálózati szolgáltatás: hozzáférési és/vagy összekapcsolási szolgáltatás nyújtása más szolgáltató vagy vállalkozás számára, illetve az ezek nyújtásához szükséges kiegészítő szolgáltatások.
 - 37. Hálózati végpont: az a fizikai és logikai csatlakozási pont vagy rádiós csatlakozási felület, amelyen keresztül a szolgáltató hozzáférést nyújt egy elektronikus hírközlő hálózathoz.
 - 38.
-- 39. Harmonizált frekvenciahasználatú rádióalkalmazás: olyan rádióalkalmazás, amelyre vonatkozó rádióinterfész-előírások (beleértve a frekvenciafelosztást, a csatornaelrendezési tervet és a vonatkozó frekvenciagazdálkodási jellemzőket) az Európai Gazdasági Térségről szóló megállapodásban részes minden államban azonosak.
+- 39.
 - 40. Hatékony szolgáltató: az a szolgáltató, amelynek az egy termék-, illetve szolgáltatásegységre jutó költsége nemzetközi összehasonlításban elfogadható, figyelembe véve az adott piaci körülményeket, a szolgáltatás nyújtásának technológiáját és a szolgáltató méretét.
 - 41. Helyhez kötött telefonszolgáltatás: helyhez kötött előfizetői végponton keresztül igénybe vehető nyilvános telefonszolgáltatás, amely nem minősül nyilvánosan elérhető mobil rádiótelefon szolgáltatásnak.
 - 42. Helyhez kötött telefonhálózat: helyhez kötött telefon szolgáltatás igénybevételét lehetővé tevő nyilvános telefonhálózat.
@@ -3318,7 +3348,7 @@ való megfelelést szolgálja.
 - 57. Interfész: a jelen törvény alkalmazásában
   - a) hálózati interfész: az elektronikus hírközlő hálózat azon csatlakoztatási felülete – annak fizikai és logikai jellemzőivel együtt –, amely más elektronikus hírközlő hálózathoz való hozzáférésre vagy hálózattal való összekapcsolásra szolgál,
   - b) előfizetői interfész: az elektronikus hírközlő hálózat azon csatlakoztatási felülete – annak fizikai és logikai jellemzőivel együtt –, amelyen keresztül a szolgáltató a felhasználónak előfizetői hozzáférést nyújt az elektronikus hírközlő hálózathoz,
-  - c) rádióinterfész: a rádióhullámoknak a rádióberendezések közötti átviteli útját meghatározó rádiós csatlakozási felület, valamint ennek műszaki jellemzői.
+  - c)
 - 58. Internet-hozzáférés szolgáltatás: olyan elektronikus hírközlési szolgáltatás, amely során a szolgáltató IP-cím hozzárendelésével biztosítja az IP alapú adatátvitelt az előfizetői hozzáférési pont, valamint az internet legalább egy belföldi és egy nemzetközi nyilvános adatkicserélő központja között.
 - 59.
 - 60. Irányítás: a Tpvt. 23. § (2) bekezdésében így meghatározott kapcsolat.
@@ -3367,8 +3397,9 @@ való megfelelést szolgálja.
 - 88/b. Nyomvonalas és nyomvonal jellegű elektronikus hírközlési építmény: olyan elektronikus hírközlési építmény, amelyet az elektronikus hírközlési hálózat vezetékes összeköttetései és ezek burkoló, tartó, védő, jelző műtárgyai képeznek.
 - 89. Összekapcsolás: egyazon vagy különböző elektronikus hírközlési szolgáltatók által használt elektronikus hírközlő hálózatok fizikai és logikai csatlakoztatása, annak érdekében, hogy az egyik szolgáltató felhasználói információt cserélhessenek ugyanezen vagy másik szolgáltató felhasználóival, illetve elérhessenek más szolgáltatók által nyújtott szolgáltatásokat. A szolgáltatást az összekapcsolásban részes felek vagy a hálózatukhoz hozzáféréssel rendelkező más szolgáltatók nyújthatják. Az összekapcsolás a hozzáférés sajátos fajtája, amely nyilvános elektronikus hírközlő hálózatok tulajdon- vagy használati jogával rendelkező szolgáltatók között jön létre.
 - 90. Rádióállomás: egy vagy több adó- vagy vevőberendezés vagy adó- és vevőberendezés-csoport a tartozékokkal együtt, valamely rádiótávközlési szolgálatnak vagy a rádiócsillagászati szolgálatnak egy adott helyen történő megvalósítása céljából.
-- 91. Rádióberendezés: olyan termék vagy egy termék olyan alkotórésze, amely földfelszíni rádiótávközlés vagy űrtávközlés céljára szolgáló rádióspektrum felhasználásával képes rádióhullámok adása, vétele vagy adása és vétele útján távközlésre.
-- 92. Rádióhullám: olyan, a térben mesterséges vezető nélkül terjedő elektromágneses hullám, amelynek frekvenciája nem nagyobb, mint 3000 GHz.
+- 91. Rádióberendezés: rádiótávközlés – beleértve a rádiómeghatározást – céljából rendeltetésszerűen rádióhullámokat kibocsátó, vevő vagy kibocsátó és vevő villamos vagy elektronikus termék, vagy olyan villamos vagy elektronikus termék, amelyet tartozékokkal, például antennával kell kiegészíteni ahhoz, hogy rádiótávközlés – beleértve a rádiómeghatározást – céljából rendeltetésszerűen rádióhullámokat tudjon kibocsátani, venni vagy kibocsátani és venni.
+- 92. Rádióhullám: olyan, a térben mesterséges vezető nélkül terjedő elektromágneses hullám, amelynek frekvenciája kisebb, mint 3000 GHz.
+- 92/a. Rádióinterfész: a rádióspektrum szabályozott használatának specifikációja.
 - 93. Rádióspektrum: a rádióhullámok frekvenciatartománya.
 - 94. Rádiószolgálat: a Nemzetközi Rádiószabályzattal összhangban levő jogszabályban meghatározott rádiótávközlési szolgálat, továbbá a rádiócsillagászati szolgálat.
 - 95. Rádiótávközlő hálózat: olyan elektronikus hírközlő hálózat, amelyben az információátvitel egészben, illetőleg jelentős mértékben rádiófrekvenciás jelek adásával és vételével valósul meg.
@@ -3378,6 +3409,7 @@ való megfelelést szolgálja.
 - 99. Segélyhívás: a rendőrség, a mentőszolgálat, a tűzoltóság sürgősségi hívása rövid hívószámmal vagy az európai harmonizált segélyhívószámmal. 99/A. Sikertelen hívás: minden olyan telefonhívás (beleértve a beszédalapú – akár hagyományos, akár IP-alapú – telefonálást, az üzenetrögzítővel való kapcsolatot, a konferenciahívást és az adathívást) vagy kiegészítő szolgáltatás (beleértve a hívástovábbítást és hívásátirányítást), amelynél a hálózati kapcsolat sikeresen létrejött, de a hívás megválaszolatlan maradt (nem fogadott vagy elutasított hívás), illetőleg hálózatkezelői beavatkozás miatt a létrejött kapcsolat automatikusan azonnali bontásra került (foglalt, kikapcsolt vagy más okból nem elérhető állomás hívása).
 - 99/b. SMS: rövid, szöveges üzenetszolgáltatás.
 - 99/c. Segélyszolgálati állomás: azon területileg illetékes szervezeti egység, amely az illetékességi területéről segélyhívó számmal kezdeményezett hívás fogadásáért jogszabály rendelkezése, illetve megállapodás alapján felelős.
+- 99/d. SIM kártya: az előfizető mobil rádiótelefon-hálózaton belüli azonosítását szolgáló adatokat, illetve a mobil rádiótelefon szolgáltatás igénybevételéhez szükséges információkat tartalmazó kártya.
 - 100. Transznacionális piac: az Európai Bizottság által meghatározott, az Európai Gazdasági Térség egészét vagy annak jelentős részét, de legalább két tagállamot érintő piac.
 - 101. Távirat: a felhasználó – az elektronikus hírközlési szolgáltató és/vagy postai szolgáltató közreműködésével – feladott szöveges közleménye, amelyet a szolgáltatók kézbesítés vagy elektronikus hírközlő végberendezés közvetítésével juttatnak el a címzetthez.
 - 102. Tartós adathordozó: olyan eszköz, amely lehetővé teszi az adatoknak az adat céljának megfelelő ideig történő tartós tárolását és a tárolt adatok változatlan formában és tartalommal történő megjelenítését. Ilyen eszköz különösen a papír, az USB-kulcs, a CD-ROM, a DVD-ROM, a memóriakártya, a számítógép merevlemeze.

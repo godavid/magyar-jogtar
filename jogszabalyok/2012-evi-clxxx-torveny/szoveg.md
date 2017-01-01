@@ -8,82 +8,120 @@ az Európai Unió tagállamaival folytatott bűnügyi együttműködésről
 
 2. § A tagállamokkal e törvény alapján folytatott eljárásokban a nemzetközi bűnügyi jogsegélyről szóló törvényt, a Büntető Törvénykönyvről szóló törvényt (a továbbiakban Btk.) és a büntetőeljárásról szóló törvényt (a továbbiakban: Be.) az e törvényben foglalt eltérésekkel kell alkalmazni.
 
+2/A. § (1) Ha e törvény kivételt nem tesz, a jogosult – írásbeli kérelemre – a kapcsolódó eljárás bármely szakaszában betekinthet a kérelem benyújtásáig keletkezett, az igazságügyért felelős miniszter (a továbbiakban: miniszter) kezelésében lévő eljárási iratokba. A miniszter az iratok megtekintésének határnapjáról haladéktalanul értesíti a jogosultat.
+
+(2) Az eljárási iratról az arra jogosult másolatot, kivonatot készíthet. A miniszter az eljárási iratról a jogosult írásbeli kérelmére legkésőbb a kérelem előterjesztésétől számított nyolc napon belül egy példányt térítésmentesen, minden további példányt költségtérítés ellenében ad ki. Ha a kiadni kért irat elektronikus formában rendelkezésre áll, a jogosult kérheti, hogy a miniszter a másolatot elektronikus úton vagy a jogosult által rendelkezésre bocsátott elektronikus adathordozón adja ki.
+
+(3) Nem lehet betekinteni
+
+- a) a miniszteri döntés előkészítő iratába, tervezetébe,
+- b) az olyan iratba, amelyből megismerhetővé válnának a zártan kezelt személyi adatok vagy azokra vonatkozóan következtetés lenne levonható,
+- c) az olyan iratba, amelynek megismerése az eljárás meghiúsításával, megnehezítésével vagy veszélyeztetésével jár,
+- d) felhasználói vagy megismerési engedély hiányában a minősített vagy külföldi minősített adatot tartalmazó iratba,
+- e) az egyéb védett adatot tartalmazó iratba, ha azt az érintett adat védelmét szabályozó törvény kizárja.
+
+(4) Másolat, kivonat nem készíthető, illetve másolat nem adható arról az iratról, amelybe nem lehet betekinteni.
+
+(5) Az iratbetekintés kezdő és befejező időpontjáról, a betekintés megtörténtéről, az érintett iratokról, a másolat vagy kivonat készítéséről, a másolatadásról, illetve az iratbetekintés indokolással alátámasztott elutasításáról emlékeztetőt kell készíteni.
+
+2/B. § E törvény 2/A. §-a alkalmazásában
+
+- a) az I. Fejezet vonatkozásában
+  - aa) jogosult alatt a keresett személyt és védőjét,
+  - ab) kapcsolódó eljárás alatt az európai elfogatóparancs és az átadás végrehajtásához kapcsolódó eljárást,
+- b) a VIII. Fejezet vonatkozásában
+  - ba) jogosult alatt az elítéltet és védőjét,
+  - bb) kapcsolódó eljárás alatt a büntetőügyekben hozott, szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó ítéletek végrehajtására irányuló jogsegéllyel kapcsolatos eljárást
+
+kell érteni.
+
 ## MÁSODIK RÉSZ — AZ EURÓPAI ELFOGATÓPARANCS ÉS AZ ÁTADÁS
 
 ### I. Fejezet — ÁTADÁS MAGYARORSZÁGRÓL
 
-#### 1. Az európai elfogatóparancs végrehajtásának alapelvei
+#### 1. Az európai elfogatóparancs végrehajtásának alapelvei, az eljáró bíróság
 
 3. § (1) A Magyarország területén tartózkodó személy a tagállam igazságügyi hatósága (a továbbiakban: tagállami igazságügyi hatóság) által kibocsátott európai elfogatóparancs alapján büntetőeljárás lefolytatása, szabadságvesztés büntetés, illetve szabadságelvonással járó intézkedés végrehajtása céljából elfogható és átadható olyan bűncselekmények esetén, amelyeknél a kibocsátó tagállam joga szerint a büntetési tétel felső határa legalább tizenkét havi szabadságvesztés vagy szabadságelvonással járó intézkedés, vagy ha jogerősen legalább négy hónapi szabadságvesztésre, illetve szabadságelvonással járó intézkedésre ítélték.
 
-(2) A keresett személyt a cselekmény kettős büntetendőségének mérlegelése nélkül az európai elfogatóparancs alapján át kell adni az 1. számú mellékletben meghatározott bűncselekményfajták esetében.
+(2) Az európai elfogatóparancs alapján a terheltet az 1. számú mellékletben meghatározott bűncselekményfajták esetében a (3) bekezdés első fordulatában meghatározott esetet kivéve, a cselekmény – (3) bekezdésében meghatározott – kettős büntethetőségének mérlegelése nélkül át kell adni.
 
-(3) Az 1. számú mellékletben meghatározott bűncselekményfajták esetében, ha az európai elfogatóparancsot kibocsátó igazságügyi hatóság államának joga szerint a büntetési tétel felső határa nem éri el a háromévi szabadságvesztést, illetve szabadságelvonással járó intézkedést, valamint az 1. számú mellékletben fel nem sorolt bűncselekményfajták esetében az átadás akkor engedélyezhető, ha azok a cselekmények, amelyek miatt az európai elfogatóparancsot kibocsátották, a magyar törvény szerint bűncselekménynek minősülnek.
+(3) Az 1. számú mellékletben meghatározott bűncselekményfajták esetében, ha az európai elfogatóparancsot kibocsátó igazságügyi hatóság államának joga szerint a büntetési tétel felső határa nem éri el a háromévi szabadságvesztést, illetve szabadságelvonással járó intézkedést, valamint az 1. számú mellékletben fel nem sorolt bűncselekményfajták esetében az átadás akkor engedélyezhető, ha azok a cselekmények, amelyek miatt az európai elfogatóparancsot kibocsátották, a magyar törvény szerint is bűncselekménynek minősülnek (a továbbiakban: kettős büntethetőség).
 
-(4) Ha az európai elfogatóparancs több bűncselekményre vonatkozik, és e bűncselekmények közül legalább egy megfelel az (1) bekezdésben meghatározott, a büntetési tétel felső határára vonatkozó előírásnak, az átadás a többi, olyan bűncselekményre is engedélyezhető, amely ennek az előírásnak nem felel meg, de a magyar törvény szerint is bűncselekménynek minősül.
+(4) Ha az európai elfogatóparancs több bűncselekményre vonatkozik, és e bűncselekmények közül legalább egy megfelel az (1) bekezdésben meghatározott, a büntetési tétel felső határára vonatkozó előírásnak, az átadás a többi olyan bűncselekményre is engedélyezhető, amely ennek az előírásnak nem felel meg, de a magyar törvény szerint is bűncselekménynek minősül.
 
 (5) Az európai elfogatóparancs végrehajtása nem tagadható meg az adókkal és az illetékekkel, a vámokkal és a devizával kapcsolatos bűncselekmények esetén amiatt, hogy a magyar jog nem ismer ugyanolyan adót, illetéket, valamint vámmal, illetve adóval, illetékkel azonos hatású díjat, vagy nem tartalmaz ugyanolyan típusú szabályokat az adó-, illeték-, valamint vám- és devizaszabályozás terén, mint a kibocsátó tagállam joga.
 
-#### 2. Az eljáró bíróság
+4. § Az átadási eljárásban, mint végrehajtó igazságügyi hatóság, a Fővárosi Törvényszék rendelkezik hatáskörrel és kizárólagos illetékességgel. A Fővárosi Törvényszék az átadási eljárásban egyesbíróként jár el. Határozata ellen, ha e törvény nem zárja ki, fellebbezésnek van helye, amelyet a Fővárosi Ítélőtábla bírál el tanácsülésen. A fellebbezésnek a határozat végrehajtására nincs halasztó hatálya.
 
-4. § E fejezet alapján, mint végrehajtó igazságügyi hatóság kizárólag a Fővárosi Törvényszék jár el egyesbíróként. Határozata ellen, ha e törvény nem zárja ki, fellebbezésnek van helye, amelyet a Fővárosi Ítélőtábla bírál el tanácsülésen. A fellebbezésnek a határozat végrehajtására nincs halasztó hatálya.
+#### 2. Megtagadási okok
 
-#### 3. Megtagadási okok
+5. § (1) A bíróság az európai elfogatóparancs végrehajtását megtagadja, ha
 
-5. § Az európai elfogatóparancs végrehajtását a Fővárosi Törvényszék megtagadja, ha:
+- a) az európai elfogatóparancs alapjául szolgáló bűncselekmény magyar joghatóság alá tartozik, és a bűncselekményre a magyar törvény szerint közkegyelem terjed ki,
+- b) egy tagállamban a terhelt ellen az európai elfogatóparancs kibocsátásának alapjául szolgáló cselekmény miatt már olyan határozatot hoztak, amely a büntetőeljárás megindításának akadályát képezi, vagy amely alapján a büntetést már végrehajtották, annak végrehajtása folyamatban van, vagy a jogerős ítéletet hozó tagállam joga szerint az nem hajtható végre,
+- c) a terhelt gyermekkor miatt nem büntethető,
+- d) a 3. § (3) és (4) bekezdése alapján a kettős büntethetőséget vizsgálni kell, és az európai elfogatóparancs alapjául szolgáló cselekmény a magyar törvény szerint nem bűncselekmény, vagy
+- e) a terhelt olyan magyar állampolgár, aki Magyarország területén lakóhellyel rendelkezik, és a kibocsátó tagállami igazságügyi hatóság nem nyújt megfelelő jogi garanciát arra, hogy szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés jogerős kiszabása esetén a terhelt kérelmére a büntetés vagy az intézkedés végrehajtására visszaszállítják Magyarország területére.
 
-- a) a keresett személy gyermekkor miatt nem büntethető,
-- b) a 3. § (3) bekezdésében említett valamely esetben az európai elfogatóparancs alapjául szolgáló cselekmény a magyar törvény szerint nem bűncselekmény,
-- c) a magyar törvény szerint a büntethetőség vagy a büntetés elévült, feltéve, hogy az európai elfogatóparancs alapjául szolgáló bűncselekmény magyar joghatóság alá tartozik,
-- d) egy tagállamban a keresett személy ellen az európai elfogatóparancs kibocsátásának alapjául szolgáló cselekmény miatt már olyan határozatot hoztak, amely a büntetőeljárás megindításának akadályát képezi, vagy amely alapján a büntetést már végrehajtották, annak végrehajtása folyamatban van, vagy a jogerős ítéletet hozó tagállam joga szerint az nem hajtható végre,
-- e) a keresett személyt egy harmadik államban ugyanazon cselekmény miatt jogerősen felmentették vagy jogerősen elítélték, feltéve, hogy a büntetést már végrehajtották, annak végrehajtása folyamatban van, vagy a jogerős ítéletet hozó állam joga szerint az nem hajtható végre,
-- f) az európai elfogatóparancs kibocsátásának alapjául szolgáló cselekmény miatt a keresett személy ellen Magyarország területén büntetőeljárás van folyamatban,
-- g) a magyar igazságügyi hatóság (bíróság, ügyész) vagy nyomozó hatóság az európai elfogatóparancs alapjául szolgáló bűncselekmény miatt a feljelentést elutasította, vagy a nyomozást, illetve az eljárást megszüntette,
-- h) az európai elfogatóparancs alapjául szolgáló bűncselekmény magyar joghatóság alá tartozik, és a bűncselekményre a magyar törvény szerint közkegyelem terjed ki.
+(2) A bíróság az európai elfogatóparancs végrehajtását megtagadhatja, ha
 
-6. § (1) Az európai elfogatóparancs végrehajtását a Fővárosi Törvényszék megtagadja, ha azt olyan határozat végrehajtása céljából bocsátották ki, amelyet a keresett személy távollétében hoztak.
+- a) az európai elfogatóparancs kibocsátásának alapjául szolgáló cselekmény miatt a terhelt ellen Magyarország területén büntetőeljárás van folyamatban,
+- b) a bíróság, az ügyészség (továbbiakban együtt: magyar igazságügyi hatóság) vagy a nyomozó hatóság az európai elfogatóparancs alapjául szolgáló bűncselekmény miatt a feljelentést elutasította, vagy a nyomozást, illetve az eljárást megszüntette,
+- c) az európai elfogatóparancs alapjául szolgáló bűncselekmény magyar joghatóság alá tartozik, és a magyar törvény szerint a büntethetőség vagy a büntetés elévült,
+- d) a terheltet egy harmadik államban ugyanazon cselekmény miatt jogerősen felmentették vagy jogerősen elítélték, feltéve, hogy a büntetést már végrehajtották, annak végrehajtása folyamatban van, vagy a jogerős ítéletet hozó állam joga szerint az nem hajtható végre, vagy
+- e) az európai elfogatóparancs olyan bűncselekményre vonatkozik, amelyet egészben vagy részben Magyarország területén követtek el.
 
-(2) Az (1) bekezdés nem alkalmazható, ha a kibocsátó tagállam jogával összhangban
+(3) Ha az európai elfogatóparancsot szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtása céljából bocsátották ki, a bíróság az európai elfogatóparancs végrehajtását megtagadja, ha az európai elfogatóparancs kibocsátásának alapjául szolgáló cselekmény miatt a terhelt ideiglenes végrehajtási letartóztatását rendeli el, vagy a jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat elismerését és végrehajtását elrendeli.
 
-- a) a keresett személyt megfelelő időben, határnapot és helyet megjelölve, közvetlenül idézték a tárgyalásra, vagy arról más módon hivatalos tudomást szerzett, továbbá tájékoztatták arról, hogy a tárgyalás a távollétében is megtartható, vele szemben az eljárás határozattal befejezhető,
-- b) a kitűzött tárgyalás ismeretében a keresett személy a tárgyaláson való képviseletére
+(4) Ha a terhelt olyan magyar állampolgár, aki Magyarország területén lakóhellyel rendelkezik, és az európai elfogatóparancsot szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtása céljából bocsátották ki, a bíróság megtagadja az európai elfogatóparancs végrehajtását, ha a terhelt az átadásába nem egyezik bele.
+
+(5) Az európai elfogatóparancs végrehajtását a bíróság megtagadja, ha azt olyan határozat végrehajtása céljából bocsátották ki, amelyet a terhelt távollétében hoztak.
+
+(6) Az (5) bekezdés nem alkalmazható, ha a kibocsátó tagállam jogával összhangban
+
+- a) a terheltet megfelelő időben, határnapot és helyet megjelölve, közvetlenül idézték a tárgyalásra, vagy arról más módon hivatalos tudomást szerzett, továbbá tájékoztatták arról, hogy a tárgyalás a távollétében is megtartható, vele szemben az eljárás határozattal befejezhető,
+- b) a kitűzött tárgyalás ismeretében a terhelt a tárgyaláson való képviseletére
   - ba) védőt hatalmazott meg vagy
   - bb) számára védőt rendeltek ki, és a kirendelés ismeretében annak személyét nem kifogásolta,
 
-és a meghatalmazott vagy a kirendelt védő a keresett személy érdekében a tárgyaláson eljárt,
+és a meghatalmazott vagy a kirendelt védő a terhelt érdekében a tárgyaláson eljárt,
 
-- c) a határozat kézbesítése megtörtént, a keresett személy tájékoztatást kapott a rendes, illetve a rendkívüli jogorvoslati lehetőségekről, de a rendelkezésre álló határidőn belül erre irányuló indítványt nem tett, vagy jelezte, hogy nem vitatja a távollétében hozott határozatot, vagy
-- d) a határozatot nem kézbesítették a keresett személynek, de az átadását követően haladéktalanul kézbesítik számára, tájékoztatják a rendes, illetve a rendkívüli jogorvoslati lehetőségekről, és az erre rendelkezésre álló határidőről.
+- c) a határozat kézbesítése megtörtént, a terhelt tájékoztatást kapott a rendes, illetve a rendkívüli jogorvoslati lehetőségekről, de a rendelkezésre álló határidőn belül erre irányuló indítványt nem tett, vagy jelezte, hogy nem vitatja a távollétében hozott határozatot, vagy
+- d) a határozatot nem kézbesítették a terheltnek, de az átadását követően haladéktalanul kézbesítik számára, tájékoztatják a jogorvoslati lehetőségekről, és az erre rendelkezésre álló határidőről.
 
-(3) Ha az európai elfogatóparancsot a (2) bekezdés d) pontjában meghatározottak szerint bocsátották ki, az európai elfogatóparancs tartalmáról való tájékoztatás alkalmával a keresett személy kérheti, hogy az átadását megelőzően bocsássák rendelkezésére a kibocsátó tagállami határozat egy példányát. Ezt a Fővárosi Törvényszék a kézhezvételt követően haladéktalanul továbbítja – kizárólag tájékoztatás céljából – a keresett személynek. A keresett személy kérésének nincs halasztó hatálya az átadási eljárásra és az európai elfogatóparancs végrehajtására.
+(7) Ha az európai elfogatóparancsot a (6) bekezdés d) pontjában meghatározottak szerint bocsátották ki, az európai elfogatóparancs tartalmáról való tájékoztatás alkalmával a terhelt kérheti, hogy az átadásának végrehajtását megelőzően bocsássák rendelkezésére a kibocsátó tagállami határozat egy példányát. Ezt a bíróság a kézhezvételt követően haladéktalanul továbbítja – kizárólag tájékoztatás céljából – a terheltnek. A terhelt kérésének nincs halasztó hatálya az európai elfogatóparancs végrehajtására.
 
-7. § A Fővárosi Törvényszék az európai elfogatóparancs végrehajtását megtagadhatja, ha az olyan bűncselekményre vonatkozik, amelyet egészben vagy részben Magyarország területén követtek el.
+(8) Nem tagadható meg az európai elfogatóparancs végrehajtása a (2) bekezdés a) vagy e) pontja alapján, ha az ügyben Magyarország részvételével közös nyomozócsoport alakult, és a tagállami igazságügyi hatóság az európai elfogatóparancsot a közös nyomozó csoportban részt vevők megállapodása alapján bocsátotta ki. A bíróság a közös nyomozó csoport megállapodására nézve a közös nyomozó csoport magyar vezetőjének nyilatkozatát szerzi be.
 
-8. § (1) Ha az európai elfogatóparancsot szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtása céljából bocsátották ki, és a keresett személy olyan magyar állampolgár, aki Magyarország területén lakóhellyel rendelkezik, a Fővárosi Törvényszék az európai elfogatóparancs végrehajtását megtagadja, és – ha az előzetes adatok alapján nem áll fenn a végrehajtás átvételének egyetlen megtagadási oka sem – elrendeli a keresett személy ideiglenes végrehajtási letartóztatását, és az erről szóló határozatát haladéktalanul megküldi az igazságügyért felelős miniszternek (a továbbiakban: miniszter). A miniszter kezdeményezi a tagállamnál az elítélt szabadságvesztés büntetése vagy szabadságelvonással járó intézkedése végrehajtásának átvételét.
+#### 3. Eljárás több európai elfogatóparancs, vagy harmadik ország kiadatási kérelmének egyidejű elbírálása esetén
 
-(2) Az ideiglenes végrehajtási letartóztatás legfeljebb a szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtására vonatkozó határozat meghozataláig tart, és nem lehet hosszabb, mint a tagállami határozatban szereplő büntetés vagy intézkedés tartama.
+6. § (1) Ha ugyanazon terhelt ellen két vagy több tagállam bocsátott ki európai elfogatóparancsot, és az átadás feltételei több tagállam vonatkozásában is fennállnak, a bíróság az összes körülmény mérlegelésével dönt arról, hogy a terhelt melyik európai elfogatóparancs alapján kerüljön átadásra. A bíróság a döntés meghozatalakor figyelemmel van különösen a bűncselekmény súlyára és elkövetési helyére, az európai elfogatóparancsok kibocsátásának időpontjára, valamint arra, hogy az európai elfogatóparancsot büntetőeljárás lefolytatása vagy szabadságvesztés büntetés, illetve szabadságelvonással járó intézkedés végrehajtása céljából bocsátották-e ki.
 
-(3) Az ideiglenes végrehajtási letartóztatás teljes időtartamát be kell számítani a bíróság által elismert és végrehajtásra átvett szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés tartamába.
+(2) A bíróság a terhelttel szemben egyidejűleg kibocsátott további európai elfogatóparancs vonatkozásában – ha az átadás feltételei fennállnak – az átadásról rendelkező határozatában előzetesen hozzájárul ahhoz, hogy a terheltet átvevő tagállam a terheltet a további európai elfogatóparancsot kibocsátó harmadik tagállamnak átadja, ellenkező esetben a további európai elfogatóparancs végrehajtását megtagadja. Ha a bíróság a terhelt átadását az (1) bekezdés alapján az egyik európai elfogatóparancs alapján elrendeli, a további elfogatóparancs tárgyában az e bekezdés szerinti határozatát az átadás elrendelését követően is meghozhatja.
 
-(4) A tárgyaláson ügyész és védő részvétele kötelező.
+(3) Az (1) bekezdés szerinti döntéshez a bíróság – szükség esetén – beszerzi az Európai Unió Működéséről szóló Szerződés 85. cikke szerinti Európai Igazságügyi Együttműködési Egység (a továbbiakban: Eurojust) véleményét.
 
-(5) Ha az európai elfogatóparancsot büntetőeljárás lefolytatása céljából bocsátották ki, és a keresett személy olyan magyar állampolgár, aki Magyarország területén lakóhellyel rendelkezik, csak akkor adható át, ha a kibocsátó tagállami igazságügyi hatóság megfelelő jogi garanciát nyújt arra, hogy szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés jogerős kiszabása esetén a keresett személyt kérelmére a büntetés vagy az intézkedés végrehajtására visszaszállítják Magyarország területére.
+(4) Ha egy európai elfogatóparancs és egy harmadik ország kiadatási kérelme ütközik, az eljárásra a nemzetközi bűnügyi jogsegélyről szóló törvény rendelkezései az irányadóak.
 
-9. § (1) Ha ugyanazon személy ellen két vagy több tagállam bocsátott ki európai elfogatóparancsot, a Fővárosi Törvényszék határoz az európai elfogatóparancsok végrehajtásáról, és az összes körülmény mérlegelésével dönt arról, hogy melyik európai elfogatóparancs alapján kerüljön a keresett személy először átadásra. A Fővárosi Törvényszék a döntés meghozatalakor figyelemmel van különösen a bűncselekmény súlyára és elkövetési helyére, az európai elfogatóparancsok kibocsátásának időpontjára, valamint arra, hogy az európai elfogatóparancsot büntetőeljárás lefolytatása vagy szabadságvesztés büntetés, illetve szabadságelvonással járó intézkedés végrehajtása céljából bocsátották-e ki.
+(5) A (4) bekezdésben meghatározott esetben az európai elfogatóparancs végrehajtása feltételei vonatkozásában e törvény rendelkezéseit megfelelően alkalmazni kell.
 
-(2) Az (1) bekezdés szerinti döntéshez a Fővárosi Törvényszék – szükség esetén – beszerezi az Európai Unió Működéséről szóló szerződés 85. cikke szerinti Európai Igazságügyi Együttműködési Egység (a továbbiakban: Eurojust) véleményét.
+(6) E § nem érinti Magyarországnak a Nemzetközi Büntetőbíróság Statútumából eredő kötelezettségeit.
 
-(3) Ha egy európai elfogatóparancs és egy harmadik ország kiadatási kérelme ütközik, az eljárásra a nemzetközi bűnügyi jogsegélyről szóló törvény rendelkezései az irányadóak.
+#### 4. Őrizet, tárgyalás
 
-(4) E § nem érinti Magyarországnak a Nemzetközi Büntetőbíróság Statútumából eredő kötelezettségeit.
+7. § (1) A Magyarország területén elfogott terheltet őrizetbe kell venni és a bíróság elé kell állítani, ha vele szemben európai elfogatóparancsot bocsátottak ki, illetve, ha ellene valamely tagállam nemzetközi körözést rendelt el. Az őrizet hetvenkét óráig tarthat.
 
-#### 4. Őrizet
+(2) Ha a terheltnek nincs meghatalmazott védője, az őrizetbe vételt foganatosító szerv a terhelt elfogását követően haladéktalanul védőt rendel ki.
 
-10. § (1) A Magyarország területén elfogott személyt őrizetbe kell venni és a Fővárosi Törvényszék elé kell állítani, ha vele szemben európai elfogatóparancsot bocsátottak ki, illetve ha ellene valamely tagállam nemzetközi körözést rendelt el. Ez az őrizet hetvenkét óráig tarthat. Az őrizetet az azt foganatosító szerv az ügyész engedélyével azonnal megszünteti, ha minden kétséget kizáróan megállapítható, hogy az őrizetbe vett személy nem azonos azzal a személlyel, akivel szemben az európai elfogatóparancsot kibocsátották.
+(3) A foganatosító szerv – ha a terhelt a magyar nyelvet nem ismeri, tolmács közreműködésével – a Schengeni Információs Rendszerben elhelyezett figyelmeztető jelzés tartalmáról a terheltet tájékoztatja. A tájékoztatásról a védőt értesíteni kell. A foganatosító szerv az intézkedéséről jegyzőkönyvet készít.
 
-(2) Az (1) bekezdést kell alkalmazni akkor is, ha a Magyarország területén elfogott személyre vonatkozóan a Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény 6. § (1) bekezdése szerinti figyelmeztető jelzést helyeztek el, és ez a figyelmeztető jelzés a (3) bekezdés szerint az európai elfogatóparanccsal egyenértékű.
+(4) A (3) bekezdésben foglaltak teljesítésekor a foganatosító szerv tájékoztatja a terheltet, hogy jogában áll az európai elfogatóparancsot kibocsátó tagállamban – annak szabályai szerint – ügyvédet megbízni, és ennek érdekében a kibocsátó tagállam illetékes hatóságától segítséget kérni. A terheltet tájékoztatni kell arról is, hogy a kibocsátó tagállamban megbízott ügyvédnek lehetősége van kapcsolatba lépni a terhelt védőjével, és ennek során információk rendelkezésre bocsátásával segítséget nyújtani a terhelt eljárási jogainak gyakorlásában. A foganatosító szerv a terheltnek a kibocsátó tagállambeli ügyvéd megbízásával kapcsolatos figyelmeztetését és nyilatkozatát jegyzőkönyvben rögzíti. Ha a terhelt a kibocsátó tagállamban ügyvédet kíván megbízni, a foganatosító szerv a terhelt nyilatkozatáról a miniszter útján haladéktalanul tájékoztatja a kibocsátó tagállami hatóságot.
 
-(3) A Schengeni Információs Rendszerben elhelyezett figyelmeztető jelzés az európai elfogatóparanccsal egyenértékű, ha a figyelmeztető jelzés és az ahhoz kapcsolódó kiegészítő információ tartalmazza a következő adatokat:
+(5) Az őrizetet az azt foganatosító szerv az ügyészség engedélyével azonnal megszünteti, ha minden kétséget kizáróan megállapítható, hogy az őrizetbe vett személy nem azonos azzal a személlyel, akivel szemben az európai elfogatóparancsot kibocsátották.
+
+(6) Az (1)–(4) bekezdést kell alkalmazni akkor is, ha a Magyarország területén elfogott személyre vonatkozóan a Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény 6. § (1) bekezdése szerinti figyelmeztető jelzést helyeztek el, és ez a figyelmeztető jelzés a (7) bekezdés szerint az európai elfogatóparanccsal egyenértékű.
+
+(7) A Schengeni Információs Rendszerben elhelyezett figyelmeztető jelzés az európai elfogatóparanccsal egyenértékű, ha a figyelmeztető jelzés és az ahhoz kapcsolódó kiegészítő információ tartalmazza a következő adatokat:
 
 - a) családi név és utónév (utónevek), születési családi név és utónév (utónevek), adott esetben álnév (álnevek),
 - b) különös, objektív és nem változó testi ismertetőjegyek,
@@ -93,157 +131,280 @@ az Európai Unió tagállamaival folytatott bűnügyi együttműködésről
 - f) az elfogatóparancsot kibocsátó bíróság megnevezése,
 - g) az elfogatóparancs kibocsátásának ideje, száma,
 - h) a bűncselekmény jogi minősítése,
-- i) a bűncselekmény elkövetési helye és ideje, a keresett személy részvételének módja a bűncselekményben,
+- i) a bűncselekmény elkövetési helye és ideje, a terhelt részvételének módja a bűncselekményben,
 - j) a jogerősen kiszabott szabadságvesztés tartama, illetve a bűncselekmény miatt kiszabható szabadságvesztés tartamának felső határa.
 
-(4) A foganatosító szerv tájékoztatja a terheltet, hogy jogában áll az európai elfogatóparancsot kibocsátó tagállamban – annak szabályai szerint – ügyvédet megbízni, és ennek érdekében a kibocsátó tagállam illetékes hatóságától segítséget kérni. A terheltet tájékoztatni kell arról is, hogy a kibocsátó tagállamban megbízott ügyvédnek lehetősége van kapcsolatba lépni a terhelt védőjével, és ennek során információk rendelkezésre bocsátásával segítséget nyújtani a terhelt eljárási jogainak gyakorlásában. A foganatosító szerv a terheltnek a kibocsátó tagállambeli ügyvéd megbízásával kapcsolatos figyelmeztetését és nyilatkozatát jegyzőkönyvben rögzíti. Ha a terhelt a kibocsátó tagállamban ügyvédet kíván megbízni, a foganatosító szerv a terhelt nyilatkozatáról a miniszter útján haladéktalanul tájékoztatja a kibocsátó tagállami hatóságot.
+8. § (1) A Fővárosi Törvényszék az európai elfogatóparancs végrehajtása tárgyában tárgyalást tart.
 
-#### 5. Tárgyalás
+(2) A Fővárosi Törvényszék meghatározza a tárgyalás határnapját. A terhelt elfogása esetén a tárgyalást az őrizet határidején belül kell megtartani.
 
-11. § (1) A Fővárosi Törvényszék tárgyalást tart, amelyen
+(3) A Fővárosi Törvényszék a tárgyalásról – a rendelkezésre álló iratok Nemzetközi Bűnügyi Együttműködési Központ (továbbiakban: NEBEK) közreműködésével történő megküldésével együtt – az ügyészt értesíti, a tárgyalásra a védőt idézi. Ha a terheltnek nincs meghatalmazott védője és a 7. § (2) bekezdése alapján kirendelt védő megjelenése a tárgyaláson aránytalan nehézséggel járna, a Fővárosi Törvényszék a terhelt részére új védőt rendel ki, egyidejűleg a korábban eljárt védőt a kirendelés alól felmenti. A Fővárosi Törvényszék – a terhelt elfogása esetén a NEBEK útján, az őrizetbe vételt foganatosító szerv kísérési feladatainak meghatározásával – gondoskodik a terhelt megjelenéséről.
 
-- a) a keresett személyt meghallgatja, különösen személyazonosságára, állampolgárságára vonatkozó, és – ha erre nyilatkozni kíván – az átadás feltételeit e törvény alapján befolyásoló körülményekre;
-- b) tájékoztatja a keresett személyt az egyszerűsített átadási eljárás lehetőségéről és annak jogkövetkezményeiről;
-- c) ha a keresett személy nem kíván élni az egyszerűsített átadási eljárás lehetőségével, és a bíróság megállapítja, hogy nem áll fenn az 5. §-ban, a 6. §-ban, illetve a 8. § (1) bekezdésében említett megtagadási okok valamelyike, elrendeli a keresett személy ideiglenes átadási letartóztatását, és az erről szóló határozatot haladéktalanul megküldi a miniszternek.
+(4) A tárgyaláson az ügyész és a védő részvétele kötelező. Ha a terhelt a magyar nyelvet nem ismeri, a bíróság tolmácsot rendel ki a részére.
 
-(2) A tárgyaláson az ügyész és a védő részvétele kötelező. A Fővárosi Törvényszék a tárgyalásról az ügyészt értesíti, a tárgyalásra a védőt idézi.
+(5) A tárgyalás megkezdését követően a Fővárosi Törvényszék ismerteti az európai elfogatóparancsot, majd felhívására az ügyész ismerteti indítványát. Ezt követően a Fővárosi Törvényszék
 
-(3) Ha keresett személynek nincs meghatalmazott védője, a Fővárosi Törvényszék számára védőt, ha a magyar nyelvet nem ismeri, tolmácsot rendel ki.
+- a) megállapítja a terhelt személyazonosságát,
+- b) tájékoztatja a terheltet az eljárás lényegéről, eljárási jogairól – beleértve a 7. § (4) bekezdésében megjelölt tájékoztatást –, valamint az egyszerűsített átadás lehetőségéről és annak jogkövetkezményeiről, továbbá a specialitás szabályáról és annak alkalmazhatóságáról, valamint
+- c) a törvényes figyelmeztetéseket követően a terheltet kihallgatja.
 
-(4) Ha a tagállami igazságügyi hatóság kéri, a Fővárosi Törvényszék az átadási eljárás keretében elrendeli a 24. § (1) bekezdésében megjelölt tárgyaknak a rendőrség általi felkutatását és lefoglalását.
+(6) Ha a terhelt vallomást tesz, a Fővárosi Törvényszék a terheltet különösen az átadás feltételeit e törvény alapján befolyásoló körülményekre nézve hallgatja ki.
 
-#### 6. Egyszerűsített átadás
+(7) A Fővárosi Törvényszék a terheltet nyilatkoztatja arra nézve, hogy
 
-12. § (1) A Fővárosi Törvényszék elrendeli a keresett személy átadási letartóztatását és átadását (egyszerűsített átadás), ha
+- a) az átadásába beleegyezik-e, valamint
+- b) a specialitás szabályának alkalmazásáról lemond-e.
 
-- a) az európai elfogatóparancs végrehajtásának és az átadásnak a feltételei fennállnak, és
-- b) a keresett személy – a megfelelő figyelmeztetést követően – az átadásába beleegyezik, ebben az esetben a figyelmeztetést és a beleegyezést, valamint adott esetben a 30. §-ban említett specialitás szabálya alkalmazásának jogáról való kifejezett lemondást jegyzőkönyvben rögzíti.
+(8) A (7) bekezdés a) pontja szerinti beleegyezés, valamint a (7) bekezdés b) pontja szerinti lemondás nem vonható vissza.
 
-(2) Az (1) bekezdésben meghatározott beleegyezés nem vonható vissza.
+#### 5. Ideiglenes átadási letartóztatás vagy más kényszerintézkedés elrendelése
 
-(3) Az egyszerűsített átadás elrendelése ellen fellebbezésnek nincs helye.
+9. § (1) A bíróság az európai elfogatóparancs végrehajtásának biztosítása céljából elrendeli a terhelt ideiglenes átadási letartóztatását, ha
 
-#### 7. Az európai elfogatóparancs végrehajtása
+- a) a bíróság megállapítja, hogy nem áll fenn az európai elfogatóparancs megtagadási okainak valamelyike, és
+- b) a rendelkezésre álló adatok alapján a terhelt átadásáról nem lehet dönteni.
 
-13. § (1) Ha a keresett személy az átadásába nem egyezik bele, az ideiglenes átadási letartóztatás elrendeléséről a miniszter értesíti a tagállami igazságügyi hatóságot az európai elfogatóparancs haladéktalan megküldése érdekében.
+(2) Az ideiglenes átadási letartóztatás a terhelt átadási letartóztatásának elrendeléséig tart.
 
-(2) Az európai elfogatóparancsot a miniszter fogadja, és azt haladéktalanul megküldi a Fővárosi Törvényszéknek.
+(3) Az ideiglenes átadási letartóztatás elrendelése esetén óvadék alkalmazásának nincs helye.
 
-(3) A Fővárosi Törvényszék tárgyalást tart, amelyre a 11. § rendelkezéseit az (1) bekezdésének b) és c) pontja kivételével alkalmazni kell.
+(4) Az ideiglenes átadási letartóztatást meg kell szüntetni, ha annak elrendelésétől számított negyven napon belül az európai elfogatóparancs nem érkezik meg.
 
-(4) Ha az európai elfogatóparancs végrehajtásának és az átadásnak a feltételei fennállnak, a Fővárosi Törvényszék elrendeli a keresett személy átadási letartóztatását és átadását. A tárgyaláson hozott határozattal szembeni fellebbezésről az ügyésznek, a keresett személynek és védőjének a határozat kihirdetését követően nyomban nyilatkoznia kell.
+(5) A bíróság a kényszerintézkedés tárgyában hozott határozatát haladéktalanul megküldi a miniszternek.
 
-(5) A fellebbezést két napon belül az iratokkal együtt közvetlenül kell felterjeszteni a Fővárosi Ítélőtáblához.
+9/A. § (1) Az ideiglenes átadási letartóztatás helyett ideiglenes átadási házi őrizet vagy ideiglenes átadási lakhelyelhagyási tilalom is elrendelhető, ha különösen a terhelt személyi és családi körülményeire, a bűncselekmény jellegére, a végrehajtandó szabadságvesztés vagy alkalmazandó intézkedés mértékére, a terhelt elfogásának körülményeire figyelemmel az ideiglenes átadási letartóztatással elérni kívánt cél enyhébb kényszerintézkedéssel is biztosítható.
 
-14. § Ha a Fővárosi Törvényszék az európai elfogatóparancs végrehajtását megtagadja, a megtagadás okáról a kibocsátó tagállami igazságügyi hatóságot a miniszter a megtagadásról rendelkező jogerős határozat alapján tájékoztatja.
+(2) A bíróság az ideiglenes átadási házi őrizet vagy az ideiglenes átadási lakhelyelhagyási tilalom elrendeléséről szóló határozatában előírja, hogy a rendőrség a kényszerintézkedés előírásainak megtartását a terhelt mozgását nyomon követő technikai eszközzel is ellenőrizze. A bíróság a terhelt mozgását nyomon követő technikai eszköz telepítésének technikai feltételeit az elrendelést megelőzően tisztázza.
 
-15. § (1) A 11. § (1) bekezdés c) pontja szerint elrendelt ideiglenes átadási letartóztatást meg kell szüntetni, ha annak elrendelésétől számított negyven napon belül az európai elfogatóparancs nem érkezik meg.
+(3) Az ideiglenes átadási házi őrizet, illetve az ideiglenes átadási lakhelyelhagyási tilalom tartamára az ideiglenes átadási letartóztatás szabályait megfelelően alkalmazni kell.
 
-(2) A 12. § (1) bekezdése és a 13. § (4) bekezdése szerint elrendelt átadási letartóztatás a keresett személy átadásáig tart.
+(4) A terheltet őrizetbe kell venni, ha
 
-(3) Az átadási, az ideiglenes átadási, vagy az ideiglenes végrehajtási letartóztatás helyett más személyi szabadságot korlátozó kényszerintézkedés nem alkalmazható, illetve óvadék ellenében a keresett személy átadási, ideiglenes átadási vagy ideiglenes végrehajtási letartóztatása nem szüntethető meg.
+- a) az ideiglenes átadási házi őrizet, illetve az ideiglenes átadási lakhelyelhagyási tilalom szabályait megszegi,
+- b) az eljárási cselekményen idézés ellenére nem jelenik meg, és ezt alapos okkal előzetesen nem menti ki, vagy az akadály megszűnése után alapos okkal nyomban nem igazolja, vagy
+- c) a terhelt mozgását nyomon követő technikai eszköz telepítése során azt állapítják meg, hogy a technikai eszköz alkalmazásának feltételei nem biztosítottak.
 
-16. § (1) Az európai elfogatóparancs végrehajtásáról és az átadásról szóló jogerős határozatot, ha a keresett személy
+(5) A (4) bekezdésben meghatározott esetekben a bíróság elrendeli a terhelt ideiglenes átadási letartóztatását, rendbírság kiszabásának azonban nincs helye.
 
-- a) beleegyezik az átadásába, a beleegyezés kinyilvánítását követő tíz,
-- b) az átadásába nem egyezik bele, az elfogását követő hatvan napon belül kell meghozni.
+9/B. § (1) Ha a terhelt az ideiglenes átadási letartóztatás elrendelésekor előzetes letartóztatásban van, ideiglenes kényszergyógykezelés alatt áll, szabadságvesztését vagy elzárását tölti, illetve vele szemben szabadságelvonással járó intézkedést hajtanak végre, az ideiglenes átadási letartóztatást attól az időponttól kezdődően kell foganatba venni, amikor az előzetes letartóztatás vagy az ideiglenes kényszergyógykezelés megszűnik, a szabadságvesztés, az elzárás vagy a szabadságelvonással járó intézkedés végrehajtása befejeződik, illetve a terheltet feltételes szabadságra bocsátják vagy a javítóintézetből ideiglenesen elbocsátják. Ha a terhelt az ideiglenes átadási letartóztatás elrendelésekor más magyar büntetőeljárásban elrendelt enyhébb kényszerintézkedés hatálya alatt áll, az ideiglenes átadási letartóztatást kell végrehajtani.
 
-(2) Ha kivételes esetben az európai elfogatóparancs végrehajtásáról és az átadásról szóló határozat az (1) bekezdésben meghatározott határidőn belül nem hozható meg, a Fővárosi Törvényszék a késedelem okainak közlése mellett – a miniszter útján – haladéktalanul tájékoztatja erről a kibocsátó tagállami igazságügyi hatóságot. A határidő ebben az esetben további harminc nappal meghosszabbítható.
+(2) Az (1) bekezdést megfelelően alkalmazni kell, ha az ideiglenes átadási letartóztatás elrendelését követően
 
-(3) Ha kivételes esetben nem lehet betartani az e §-ban előírt határidőket, a késedelem okainak közlése mellett a miniszter erről tájékoztatja az Eurojustot.
+- a) a terhelt előzetes letartóztatását vagy ideiglenes kényszergyógykezelését rendelik el,
+- b) a terhelt szabadságvesztés büntetés vagy elzárás letöltését kezdi meg, vagy
+- c) vele szemben szabadságelvonással járó intézkedést hajtanak végre,
 
-#### 8. Menekültügyi hatóság értesítése
+és ezért az ideiglenes átadási letartóztatás foganatosítását félbeszakítják.
 
-17. § Ha a keresett személy menekültkénti vagy menedékeskénti elismerését kéri, a bíróság haladéktalanul értesíti a menekültügyi hatóságot arról, hogy a keresett személlyel szemben átadási eljárás van folyamatban.
+(3) Ideiglenes átadási házi őrizet vagy ideiglenes átadási lakhelyelhagyási tilalom elrendelésekor az (1) és a (2) bekezdést megfelelően alkalmazni kell.
+
+#### 6. Kiegészítő információk, a menekültügyi hatóság értesítése
+
+10. § (1) A bíróság kiegészítő információkat kér, ha megítélése szerint a kibocsátó tagállami igazságügyi hatóság által közölt tények és adatok nem elégségesek az átadás tárgyában történő határozathozatalhoz.
+
+(2) A bíróság a miniszter útján kéri a szükséges kiegészítő információk rendelkezésre bocsátását.
+
+(3) A bíróság az átadási eljárásra e törvényben meghatározott határidők figyelembevételével észszerű határidőt szabhat a tagállami igazságügyi hatóságnak a kiegészítő információk megküldésére.
+
+11. § Ha a terhelt menekültkénti vagy menedékeskénti elismerését kéri, a bíróság haladéktalanul értesíti a menekültügyi hatóságot arról, hogy a terhelttel szemben átadási eljárás van folyamatban.
+
+12. § (1) A terhelttel szemben elrendelt ideiglenes kényszerintézkedésről a miniszter értesíti a tagállami igazságügyi hatóságot az európai elfogatóparancs haladéktalan megküldése érdekében.
+
+(2) Az európai elfogatóparancsot, illetve a tagállami igazságügyi hatóság által megküldött kiegészítő információkat a miniszter fogadja, és azt haladéktalanul megküldi a bíróságnak.
+
+(3) Az európai elfogatóparancs, illetve a tagállami igazságügyi hatóság által megküldött kiegészítő információk megérkezését követően a bíróság tárgyalást tart. A bíróság a terhelt részére átadja az európai elfogatóparancs másolatát, ha arra az átadási eljárás során még nem került sor.
+
+#### 7. A bíróság határozata az átadásról
+
+13. § (1) Ha az átadás feltételei fennállnak, a bíróság elrendeli a terhelt átadási letartóztatását és átadását, vagy a 6. § (1) és (2) bekezdése esetén a bíróság előzetesen hozzájárul a terheltnek a további európai elfogatóparancsot kibocsátó tagállam részére történő átadásához.
+
+(2) A bíróság megtagadja az európai elfogatóparancs végrehajtását, ha megtagadási ok áll fenn.
+
+(3) A tárgyaláson kihirdetett határozattal szemben az ügyész, a terhelt és a védője a fellebbezést nyomban jelentheti be.
+
+(4) A Fővárosi Törvényszék a fellebbezést az iratokkal együtt három napon belül közvetlenül terjeszti fel a Fővárosi Ítélőtáblához.
+
+14. § (1) Az átadási letartóztatás a terhelt átadásáig tart.
+
+(2) Az átadási letartóztatás helyett más kényszerintézkedés nem rendelhető el, óvadék alkalmazásának nincs helye.
+
+15. § (1) A bíróság az átadási eljárást megszünteti,
+
+- a) ha az őrizetbe vett személy nem azonos azzal a személlyel, akivel szemben az európai elfogatóparancsot kibocsátották,
+- b) ha a terhelt tartózkodási helye ismeretlenné vált,
+- c) ha a terhelt átadási letartóztatása az e törvényben meghatározott határidők elmulasztása miatt megszűnik,
+- d) ha a kibocsátó tagállami igazságügyi hatóság az európai elfogatóparancsot visszavonta, vagy
+- e) az e törvényben meghatározott egyéb okból.
+
+(2) A bíróság az átadási eljárás megszüntetéséről az iratok alapján is határozhat.
+
+(3) A miniszter a bíróság jogerős határozata alapján tájékoztatja a kibocsátó tagállami igazságügyi hatóságot, ha a bíróság az európai elfogatóparancs végrehajtását megtagadja, vagy az átadási eljárást megszünteti.
+
+(4) Ha a bíróság az európai elfogatóparancs végrehajtását az 5. § (4) bekezdése alapján tagadta meg, a bíróság a miniszter útján tájékoztatja a kibocsátó tagállami igazságügyi hatóságot a 126/A. § alapján elrendelt kényszerintézkedésről, valamint a 109. § (1) bekezdésben meghatározott iratok megküldésére rendelkezésére álló határidőről.
+
+16. § (1) Az átadásról szóló jogerős határozatot a terhelt elfogását követő hatvan napon belül kell meghozni.
+
+(2) Ha kivételes esetben az átadásról szóló határozat az (1) bekezdésben meghatározott határidőn belül nem hozható meg, a bíróság a késedelem okainak közlése mellett – a miniszter útján – haladéktalanul tájékoztatja erről a kibocsátó tagállami igazságügyi hatóságot. A bíróság ebben az esetben a határidőt további harminc nappal meghosszabbítja.
+
+(3) Ha kivételes esetben nem lehet betartani a (2) bekezdésben előírt határidőt, a miniszter a tagállami igazságügyi hatóság tájékoztatásával egyidejűleg a késedelem okainak közlése mellett az Eurojustot is tájékoztatja.
+
+17. § Ha a terhelt az átadási letartóztatás elrendelésekor előzetes letartóztatásban van, ideiglenes kényszergyógykezelés alatt áll, szabadságvesztését vagy elzárását tölti, illetve vele szemben szabadságelvonással járó intézkedést hajtanak végre, vagy az átadási letartóztatás elrendelését követően előzetes letartóztatását, ideiglenes kényszergyógykezelését rendelik el, szabadságvesztés vagy elzárás letöltését kezdi meg, illetve vele szemben szabadságelvonással járó intézkedést hajtanak végre, és ezért az átadási letartóztatás foganatosítását félbeszakítják, a 9/B. §-t megfelelően alkalmazni kell.
+
+#### 8. Egyszerűsített átadás
+
+18. § (1) Ha a terhelt az átadásba beleegyezik, és az átadás feltételei fennállnak, a Fővárosi Törvényszék elrendeli a terhelt átadási letartóztatását és egyszerűsített átadását.
+
+(2) A Fővárosi Törvényszék az átadási letartóztatás és egyszerűsített átadás elrendeléséről az európai elfogatóparancs megérkezését megelőzően is rendelkezhet.
+
+(3) Ha a terhelt az átadásba beleegyezik, a Fővárosi Törvényszék az átadási letartóztatásról és egyszerűsített átadásról a terhelt beleegyezésétől számított tíz napon belül dönt.
+
+(4) Ha kivételes esetben az átadási letartóztatásról és egyszerűsített átadásról szóló határozat az (3) bekezdésben meghatározott határidőn belül nem hozható meg, a 16. § (2) és (3) bekezdését megfelelően alkalmazni kell azzal, hogy a Fővárosi Törvényszék a határidőt legfeljebb tíz nappal hosszabbíthatja meg.
+
+(5) Az átadási letartóztatás és egyszerűsített átadás elrendelése ellen fellebbezésnek nincs helye.
+
+(6) Az átadási letartóztatás és egyszerűsített átadás elrendelése esetén az egyszerűsített átadás végrehajtására e törvénynek az átadás végrehajtására vonatkozó szabályait megfelelően alkalmazni kell.
 
 #### 9. Eljárás mentességet élvező személyek esetében
 
-18. § (1) Ha a keresett személyt nemzetközi jogon vagy közjogi tisztség betöltésén alapuló mentesség illeti meg Magyarország területén, a 16. §-ban előírt határidőket attól a naptól kell számítani, amelyen a Fővárosi Törvényszékre érkezik a mentesség felfüggesztéséről, illetve a büntetőeljárás megindításához való előzetes hozzájárulásról szóló értesítés.
+19. § (1) Ha a terheltet nemzetközi jogon vagy közjogi tisztség betöltésén alapuló mentesség illeti meg Magyarország területén, a 16. és 18. §-ban előírt határidőket attól a naptól kell számítani, amelyen a mentesség felfüggesztéséről,
 
-(2) A mentesség felfüggesztése érdekében a Fővárosi Törvényszék haladéktalanul megkeresi a nemzetközi jogon vagy a közjogi tisztség betöltésén alapuló mentesség ügyében döntési jogkörrel rendelkező szervet, illetve személyt. Ha a mentesség felfüggesztése egy másik állam vagy valamely nemzetközi szervezet hatáskörébe tartozik, e tényről a szükséges intézkedés megtétele érdekében – a miniszter útján – értesíti a kibocsátó tagállami igazságügyi hatóságot.
+illetve a büntetőeljárás megindításához való előzetes hozzájárulásról szóló értesítés a bíróságra érkezik.
 
-#### 10. Kiegészítő információk kérése
+(2) A bíróság mentesség felfüggesztése érdekében haladéktalanul megkeresi a nemzetközi jogon vagy közjogi tisztség betöltésén alapuló mentesség ügyében döntési jogkörrel rendelkező szervet, illetve személyt. Ha a mentesség felfüggesztése egy másik állam vagy valamely nemzetközi szervezet hatáskörébe tartozik, a bíróság a szükséges intézkedés megtétele érdekében e tényről – a miniszter útján – értesíti a kibocsátó tagállami igazságügyi hatóságot.
 
-19. § Ha a Fővárosi Törvényszék megítélése szerint a kibocsátó tagállami igazságügyi hatóság által közölt tények és adatok nem elégségesek az európai elfogatóparancs végrehajtása és az átadás tárgyában történő határozathozatalhoz, kérheti a miniszter útján, hogy sürgősséggel bocsássák a rendelkezésére a szükséges kiegészítő információkat – különösen az 5. §-ban, a 8. § (5) bekezdésében, a 9. §-ban meghatározottakat – és a 16. §-ban előírt határidők figyelembevételével határidőt szabhat ezek megküldésére.
+#### 10. Az átadás végrehajtása
 
-#### 11. A keresett személy átadása
+20. § (1) A bíróság haladéktalanul megküldi az átadásról szóló jogerős határozatot a miniszternek és a NEBEK-nek.
 
-20. § (1) Az európai elfogatóparancs végrehajtásáról és az átadásról szóló jogerős határozatot a Fővárosi Törvényszék haladéktalanul megküldi a miniszternek.
+(2) A miniszter az átadásról szóló döntésről és a terhelt európai elfogatóparancs alapján történt fogvatartásának, illetve kényszerintézkedés hatálya alatt állásának időtartamáról értesíti a kibocsátó tagállami igazságügyi hatóságot.
 
-(2) A miniszter az európai elfogatóparancs végrehajtásáról és az átadásról szóló döntésről, valamint a keresett személy európai elfogatóparancs alapján történt fogva tartásának időtartamáról értesíti a kibocsátó tagállami igazságügyi hatóságot és a Nemzetközi Bűnügyi Együttműködési Központot (a továbbiakban: NEBEK).
+(3) A terhelt átadásának végrehajtásáról a NEBEK a rendőrség közreműködésével gondoskodik. Az átadásnak – az érintett hatóságok megállapodása szerinti – lehető legkorábbi időpontban meg kell történnie.
 
-(3) A keresett személy átadásáról a NEBEK a rendőrség közreműködésével gondoskodik, és annak – az érintett hatóságok megállapodása szerinti – lehető legkorábbi időpontban meg kell történnie.
+(4) A terheltet legkésőbb az átadásról szóló határozat jogerőre emelkedésétől számított tíz napon belül át kell adni a kibocsátó tagállam illetékes hatóságának.
 
-(4) A keresett személyt legkésőbb az európai elfogatóparancs végrehajtásáról és az átadásról szóló határozat jogerőre emelkedésétől számított tíz napon belül át kell adni a kibocsátó tagállam illetékes hatóságának.
+(5) Ha a terhelt átadásának végrehajtása a (4) bekezdésben előírt határidőn belül a tagállamok bármelyikén kívül eső elháríthatatlan akadály miatt nem lehetséges, új átadási időpontban kell megegyezni. A terheltet ebben az esetben az így megállapított új határnapot követő tíz napon belül kell átadni.
 
-(5) Ha a keresett személy átadása a (4) bekezdésben előírt határidőn belül a tagállamok bármelyikén kívül eső elháríthatatlan akadály miatt nem lehetséges, új átadási időpontban kell megegyezni. A keresett személyt ebben az esetben az így megállapított új határnapot követő tíz napon belül kell átadni.
+(6) A bíróság az átadás végrehajtását kivételesen ideiglenesen elhalaszthatja különös méltánylást érdemlő emberiességi okból, különösen, ha megalapozottan feltételezhető, hogy az átadás végrehajtása veszélyeztetné a terhelt életét vagy egészségét. A bíróság az ideiglenes elhalasztásról, annak okáról, és ha előre látható, annak feltételezett tartamáról – a miniszter útján – haladéktalanul tájékoztatja a kibocsátó tagállami igazságügyi hatóságot. Az ideiglenes elhalasztási ok megszűnését a bíróság állapítja meg, amelyről a miniszter útján tájékoztatja a kibocsátó tagállami hatóságot. A terheltet az ideiglenes elhalasztási ok megszűnését követő tíz napon belül kell átadni. A bíróság az ideiglenes elhalasztással kapcsolatos döntését az iratok alapján is meghozhatja.
 
-(6) Az átadás kivételesen ideiglenesen elhalasztható különös méltánylást érdemlő emberiességi okból, különösen, ha megalapozottan feltételezhető, hogy az átadás végrehajtása veszélyeztetné a keresett személy életét vagy egészségét. Az ideiglenes elhalasztási ok megszűnését követően az európai elfogatóparancsot végre kell hajtani. A Fővárosi Törvényszék az ideiglenes elhalasztásról és annak okáról – a miniszter útján – haladéktalanul tájékoztatja a kibocsátó tagállami igazságügyi hatóságot, és új átadási időpontban állapodik meg. A keresett személyt ebben az esetben a megállapodás szerinti új időpontot követő tíz napon belül kell átadni.
+(7) Ha a terhelt átadásának végrehajtására nem került sor, az átadási letartóztatás a (4)–(6) bekezdésben említett határidők lejártával megszűnik.
 
-(7) Az érintett személyt a (4)–(6) bekezdésben említett határidők lejárta után haladéktalanul szabadon kell bocsátani.
+#### 11. Hozzájárulás, átadás végrehajtásának elhalasztása, ideiglenes átadás
 
-21. § (1) Ha a keresett személy nem mondott le a 30. §-ban meghatározott specialitás szabályának alkalmazásáról, az átadását követően kibocsátott európai elfogatóparancs végrehajtásához a hozzájárulást a Fővárosi Törvényszék megadja, ha az európai elfogatóparancs alapjául szolgáló bűncselekmény e törvény rendelkezései szerint önmagában is átadási kötelezettséget von maga után. A 8. § (5) bekezdésében az átadás feltételeként megszabott jogi garanciákat ebben az esetben is meg kell követelni.
+21. § (1) Ha a terhelt nem mondott le a 30. §-ban meghatározott specialitás szabályának alkalmazásáról, a Fővárosi Törvényszék hozzájárul, hogy a kibocsátó tagállam a terhelt átadásának alapjául szolgáló bűncselekménytől különböző, az átadás előtt elkövetett egyéb bűncselekmény miatt büntetőeljárást folytasson le, illetve szabadságvesztés büntetést vagy szabadságelvonással járó intézkedést hajtson végre, ha ennek érdekében a kibocsátó tagállam által megküldött újabb európai elfogatóparancs vagy hozzájárulás iránti kérelem alapjául szolgáló bűncselekmény e törvény rendelkezései szerint önmagában is átadási kötelezettséget von maga után. Az 5. § (1) bekezdés e) pontjában az átadás feltételeként megszabott jogi garanciát ebben az esetben is meg kell követelni.
 
-(2) A Fővárosi Törvényszék az erre vonatkozó határozatot legkésőbb a kérelem kézhezvételét követő harminc napon belül hozza meg.
+(2) A Fővárosi Törvényszék a hozzájárulásról az iratok alapján dönt, határozatát legkésőbb a kérelem kézhezvételét követő harminc napon belül hozza meg.
 
 (3) A (2) bekezdés szerinti határozat ellen fellebbezésnek nincs helye.
 
-(4) Az (1) bekezdés szerinti eljárást kell lefolytatni további átadás esetén is, ha a keresett személy nem mondott le a specialitás szabályának alkalmazásáról, és az átadását követően egy másik tagállam bocsát ki ellene európai elfogatóparancsot. A hozzájárulást e törvény rendelkezéseivel, valamint a vonatkozó egyezményekkel összhangban kell elbírálni.
+(4) Az (1)–(3) bekezdés szerinti eljárást kell lefolytatni a további átadás esetén is, ha a terhelt nem mondott le a specialitás szabályának alkalmazásáról, és az átadását követően egy másik tagállam által az átadást megelőzően elkövetett bűncselekmény miatt kibocsátott európai elfogatóparancs vagy hozzájárulás iránti kérelem tárgyában kell döntést hozni.
 
-22. § (1) A Fővárosi Törvényszék az európai elfogatóparancs végrehajtásáról hozott határozatában elhalaszthatja a keresett személy átadását annak érdekében, hogy ellene Magyarország területén a büntetőeljárást lefolytathassák, vagy ha már elítélték, az európai elfogatóparancs kibocsátásának alapjául szolgáló cselekménytől különböző bűncselekmény miatt kiszabott szabadságvesztés vagy elzárás büntetését, illetve szabadságelvonással járó intézkedését végrehajthassák.
+22. § (1) A bíróság az átadásról szóló határozatában elhalaszthatja a terhelt átadásának végrehajtását annak érdekében, hogy ellene Magyarország területén a büntetőeljárást lefolytathassák, vagy ha már elítélték, az európai elfogatóparancs kibocsátásának alapjául szolgáló cselekménytől különböző bűncselekmény miatt kiszabott szabadságvesztés vagy elzárás büntetését, illetve szabadságelvonással járó intézkedését végrehajthassák.
 
-(2) Az (1) bekezdésben meghatározott átadást elhalasztó határozatot a Fővárosi Törvényszék az európai elfogatóparancs végrehajtásáról hozott határozatát követően is meghozhatja.
+(2) Ha a terhelt az átadás elrendelésekor előzetes letartóztatásban van, ideiglenes kényszergyógykezelés alatt áll, szabadságvesztését vagy elzárását tölti, illetve vele szemben szabadságelvonással járó intézkedést hajtanak végre, a bíróság a terhelt átadásának végrehajtását elhalasztja.
 
-(3) Az átadás elhalasztása helyett a Fővárosi Törvényszék – a kibocsátó tagállami igazságügyi hatósággal írásban történt közös megállapodásban meghatározott feltételek szerint – ideiglenesen átadhatja a keresett személyt a kibocsátó tagállami igazságügyi hatóságnak.
+(3) A bíróság az (1) bekezdésben meghatározott átadás végrehajtását elhalasztó határozatot az átadásról szóló határozatot követően is meghozhatja.
 
-(4) A megállapodásnak legalább az alábbiakat kell tartalmaznia:
+(4) Ha a terheltnek – az átadási letartóztatás elrendelését követően – az előzetes letartóztatását, az ideiglenes kényszergyógykezelését rendelik el, vagy a terhelt szabadságvesztés vagy elzárás letöltését kezdi meg, illetve vele szemben szabadságelvonással járó intézkedést hajtanak végre, a bíróság a (3) bekezdés alapján a terhelt átadásának végrehajtását elhalasztja.
 
-- a) annak megjelölését, hogy milyen eljárási cselekmény lefolytatása céljából van szükség a keresett személy ideiglenes átadására;
-- b) arra vonatkozó kötelezettségvállalást, hogy az ideiglenesen átadott keresett személyt a megjelölt eljárási cselekményt követően a kért, illetve engedélyezett átadási határidőn belül visszaszállítják Magyarországra, ez a határidő kérelemre meghosszabbítható;
-- c) arra vonatkozó kötelezettségvállalást, hogy az ideiglenesen átadott keresett személy a tagállami tartózkodása alatt Magyarországra történő visszaszállításáig fogva tartásban lesz;
-- d) arra vonatkozó nyilatkozatot, hogy a keresett személy ideiglenes átadásával és visszaszállításával kapcsolatban felmerülő valamennyi költséget a megkereső tagállam vállalja.
+(5) A Fővárosi Törvényszék az átadás végrehajtásának elhalasztása esetén az elhalasztás indokoltságát a (6) és (7) bekezdésben meghatározottak szerint felülvizsgálja, és új határozatot hoz, amelyben
 
-23. § Ha a keresett személy az átadási, az ideiglenes átadási vagy az ideiglenes végrehajtási letartóztatás elrendelésekor előzetes letartóztatásban van, ideiglenes kényszergyógykezelés alatt áll, szabadságvesztését vagy elzárását tölti, illetve vele szemben szabadságelvonással járó intézkedést hajtanak végre, az átadási, az ideiglenes átadási vagy az ideiglenes végrehajtási letartóztatást attól az időponttól kezdődően kell foganatba venni, amikor az előzetes letartóztatás vagy az ideiglenes kényszergyógykezelés megszűnik, a szabadságvesztés, az elzárás vagy a szabadságelvonással járó intézkedés végrehajtása befejeződik, illetve a keresett személyt feltételes szabadságra bocsátják vagy a javítóintézetből ideiglenesen elbocsátják.
+- a) az átadás végrehajtásának elhalasztását fenntartja,
+- b) a fenntartással egyidejűleg elrendeli a terhelt ideiglenes átadását, vagy
+- c) elrendeli a terhelt átadásának végrehajtását.
+
+(6) Ha a bíróság a terhelt átadásának végrehajtását elhalasztotta, az elhalasztás indokoltságát a bíróság
+
+- a) a (2) bekezdésben meghatározott esetben az átadási letartóztatás végrehajtásának foganatba vételét, a (4) bekezdésben meghatározott esetben az átadási letartóztatás végrehajtásának ismételt foganatba vételét követően haladéktalanul, majd ezt követően három havonta,
+- b) egyéb esetben az átadási letartóztatás elrendelésétől számítva három havonta
+
+hivatalból felülvizsgálja.
+
+(7) A halasztás indokoltságának felülvizsgálatát
+
+- a) a (2) bekezdésben meghatározott esetben az átadási letartóztatás végrehajtásának foganatba vételét, a (4) bekezdésben meghatározott esetben az átadási letartóztatás végrehajtásának ismételt foganatba vételét,
+- b) egyéb esetben az átadási letartóztatás elrendelését
+
+követően az ügyész, a terhelt, illetve a védője is indítványozhatja. Ha a terhelt, illetve a védő a halasztás felülvizsgálatára irányuló ismételt indítványban új körülményre nem hivatkozik, a bíróság az indítványt érdemi indokolás nélkül elutasíthatja.
+
+(8) A bíróság az elhalasztás indokoltságának felülvizsgálata során
+
+- a) a büntetőeljárás állásáról vagy a tervezett eljárási cselekményekről történő tájékoztatás végett megkeresi azt a bíróságot, illetve ügyészséget, amely előtt a halasztás alapjául szolgáló büntetőeljárás folyamatban van,
+- b) a halasztás alapjául szolgáló szabadságvesztés vagy elzárás büntetés, illetve szabadságelvonással járó intézkedés végrehajtásának állásáról tájékozódik.
+
+(9) A bíróság elrendeli a terhelt átadásának végrehajtását, ha
+
+- a) a (2) bekezdésben meghatározott esetben az átadási letartóztatás végrehajtásának foganatba vételét, a (4) bekezdésben meghatározott esetben az átadási letartóztatás végrehajtásának ismételt foganatba vételét,
+- b) egyéb esetben az átadási letartóztatás elrendelését
+
+követően egy év eltelt.
+
+(10) A bíróság szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtása céljából kibocsátott európai elfogatóparancs esetében a (9) bekezdésben meghatározott határidőt megelőzően olyan időpontban rendeli el a terhelt átadásának végrehajtását, hogy a terhelt által Magyarországon ideiglenes vagy átadási letartóztatásban töltött időt figyelembe véve, a terhelt átszállítására a végrehajtásból még hátralévő idő letelte előtt sor kerüljön.
+
+23. § (1) A Fővárosi Törvényszék az átadás végrehajtásának elhalasztása esetén– a kibocsátó tagállami igazságügyi hatósággal írásban történt közös megállapodásban meghatározott feltételek szerint – elrendelheti a terhelt ideiglenes átadását a kibocsátó tagállami igazságügyi hatóság részére.
+
+(2) A Fővárosi Törvényszék az ideiglenes átadásról az iratok alapján határoz.
+
+(3) A Fővárosi Törvényszék megállapodásának legalább az alábbiakat kell tartalmaznia:
+
+- a) annak megjelölését, hogy milyen eljárási cselekmény lefolytatása céljából van szükség a terhelt ideiglenes átadására;
+- b) az ideiglenes átadás végrehajtásának tervezett határnapját és az ideiglenes átadás határidejét;
+- c) arra vonatkozó kötelezettségvállalást, hogy az ideiglenesen átadott terheltet a megjelölt eljárási cselekményt követően a kért, illetve engedélyezett határidőn belül visszaszállítják Magyarországra;
+- d) arra vonatkozó kötelezettségvállalást, hogy az ideiglenesen átadott terhelt a tagállami tartózkodása alatt Magyarországra történő visszaszállításáig fogvatartásban lesz;
+- e) arra vonatkozó nyilatkozatot, hogy a terhelt ideiglenes átadásával és visszaszállításával kapcsolatban felmerülő valamennyi költség viselését a megkereső tagállam vállalja;
+- f) annak meghatározását, hogy a terhelt által az ideiglenes átadással összefüggésben a kibocsátó tagállamban fogvatartásban töltött időt a kibocsátó tagállamban vagy Magyarországon számítják-e be a terhelttel szemben kiszabott büntetésbe.
+
+(4) A (3) bekezdés b) pontjában meghatározott határidőt a tagállami igazságügyi hatóság kérelmére a Fővárosi Törvényszék meghosszabbíthatja.
+
+(5) Az ideiglenes átadás végrehajtására az átadás végrehajtására vonatkozó rendelkezéseket megfelelően alkalmazni kell azzal, hogy az átadás végrehajtására legkorábban a (3) bekezdés b) pontjában meghatározott határnapon kerülhet sor. A terhelt átvételéről a NEBEK a rendőrség közreműködésével gondoskodik.
 
 #### 12. Tárgyak lefoglalása és átadása
 
-24. § (1) A Fővárosi Törvényszék a kibocsátó tagállami igazságügyi hatóság kérelmére vagy hivatalból elrendeli azoknak a tárgyaknak a lefoglalását és átadását
+24. § (1) A bíróság a kibocsátó tagállami igazságügyi hatóság kérelmére vagy hivatalból elrendeli azoknak a tárgyaknak a lefoglalását és átadását
 
 - a) amelyek bizonyítási eszközként felhasználhatók, vagy
-- b) amelyeket a keresett személy a bűncselekmény elkövetése során vagy azzal összefüggésben szerzett.
+- b) amelyeket a terhelt a bűncselekmény elkövetése során vagy azzal összefüggésben szerzett.
 
-(2) Az (1) bekezdésben említett tárgyak akkor is átadhatók, ha az európai elfogatóparancsot a keresett személy halála vagy szökése miatt nem lehet végrehajtani.
+(2) A kibocsátó tagállami igazságügyi hatóság által az európai elfogatóparancsban megjelölt tárgyak lefoglalását a terhelt elfogásakor eljáró hatóság is elrendelheti.
 
-(3) Ha a Magyarország területén folyamatban lévő büntetőeljárásban az (1) bekezdésben említett tárgyakra szükség van, azokat ideiglenesen vissza lehet tartani, vagy a visszaszolgáltatás feltételével át lehet adni a kibocsátó tagállamnak.
+(3) Az (1) bekezdésben említett tárgyak akkor is átadhatók, ha a 15. § (1) bekezdése alapján az átadási eljárás megszüntetésének van helye.
 
-(4) E § rendelkezései nem érintik az e tárgyakon fennálló tulajdonjogot és egyéb jogokat.
+(4) Ha a Magyarország területén folyamatban lévő büntetőeljárásban az (1) bekezdésben említett tárgyakra szükség van, azokat ideiglenesen vissza lehet tartani, vagy a visszaszolgáltatás feltételével át lehet adni a kibocsátó tagállamnak.
+
+(5) Az (1)–(4) bekezdés szerinti szabályok nem érintik az e tárgyakon fennálló tulajdonjogot és egyéb jogokat.
 
 ### II. Fejezet — ÁTADÁS MAGYARORSZÁGRA
 
 #### 13. Az európai elfogatóparancs kibocsátása
 
-25. § (1) Ha a terhelttel szemben büntetőeljárást kell lefolytatni, az Európai Unió valamely tagállamában történő elfogása és átadása érdekében a bíróság – feltéve, hogy a bűncselekmény tárgyi súlya ezt indokolja – haladéktalanul európai elfogatóparancsot bocsát ki. Ha a terhelten jogerősen kiszabott szabadságvesztést kell végrehajtani, az európai elfogatóparancsot a büntetés-végrehajtási bíró bocsátja ki. A vádirat benyújtása előtt az európai elfogatóparancsot a nyomozási bíró bocsátja ki. Az európai elfogatóparancsot a bíróság vagy a büntetés-végrehajtási bíró a terhelt bejelentett lakóhelye, ennek hiányában bejelentett tartózkodási helye – ha a terhelt egyikkel sem rendelkezik, a kibocsátó bíróság székhelye – szerint illetékes rendőrkapitányságnak és a NEBEK-nek küldi meg.
+25. § (1) A terhelttel szemben – feltéve, hogy a bűncselekmény tárgyi súlya ezt indokolja – a bíróság európai elfogatóparancsot bocsáthat ki az Európai Unió valamely tagállamában történő elfogása és átadása érdekében büntetőeljárás lefolytatása, illetve szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtása céljából. Európai elfogatóparancs kibocsátására a Magyarország területére kiterjedő hatályú elfogatóparancs kibocsátását követetően, vagy azzal egyidejűleg kerülhet sor. Ha a Magyarország területére kiterjedő hatályú elfogatóparancsot nem bíróság bocsátotta ki, az európai elfogatóparancs kibocsátására ügyész által kibocsátott, vagy a nyomozó hatóság által kibocsátott és ügyészi jóváhagyással ellátott elfogatóparancs alapján kerülhet sor.
 
-(2) Az európai elfogatóparancs olyan cselekmények esetén bocsátható ki, amelyeknél a Btk. szerint a büntetési tétel felső határa legalább egyévi szabadságvesztés vagy szabadságelvonással járó intézkedés. Ha a szabadságvesztést kiszabó vagy a szabadságelvonással járó intézkedést alkalmazó határozatot már meghozták, az európai elfogatóparancs csak akkor bocsátható ki, ha a kiszabott büntetés vagy az alkalmazott intézkedés tartama legalább négy hónap.
+(2) Az európai elfogatóparancs büntetőeljárás lefolytatása céljából olyan cselekmények esetén bocsátható ki, amelyeknél a Btk. szerint a büntetési tétel felső határa legalább egyévi szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés, kivéve a 92/A. §-ban meghatározott esetet. Ha a szabadságvesztés büntetést kiszabó vagy a szabadságelvonással járó intézkedést alkalmazó határozatot már meghozták, európai elfogatóparancs csak akkor bocsátható ki, ha a kiszabott büntetés vagy az alkalmazott intézkedés tartama legalább négy hónap.
 
-(3) Az európai elfogatóparancsot a 2. számú mellékletben szereplő tanúsítványnak megfelelően, az 1. számú melléklet figyelembevételével kell kibocsátani.
+(3) Büntetőeljárás lefolytatása céljából a vádirat benyújtását követően a (2) bekezdésben foglalt feltétel megvalósulása esetén is csak akkor bocsátható ki európai elfogatóparancs, ha a vádiratban, illetve a vád módosítása vagy kiterjesztése során az ügyész végrehajtandó szabadságvesztés büntetés kiszabására vagy javítóintézeti nevelés alkalmazására tett indítványt.
 
-(4) Az európai elfogatóparancsot le kell fordítani a végrehajtó tagállam hivatalos nyelvére vagy hivatalos nyelveinek egyikére.
+(4) A vádirat benyújtása előtt az európai elfogatóparancsot a nyomozási bíró bocsátja ki. Ha a terhelten jogerősen kiszabott szabadságvesztés büntetés vagy szabadságelvonással járó intézkedést kell végrehajtani, az európai elfogatóparancsot a büntetés-végrehajtási bíró bocsátja ki. Az európai elfogatóparancsot a bíróság a miniszternek és a NEBEK-nek küldi meg.
 
-(5) A bíróság az európai elfogatóparancsban kérheti azon tárgyak lefoglalását és átadását,
+(5) Az európai elfogatóparancsot a 2. számú mellékletben szereplő tanúsítványnak megfelelően, az 1. számú melléklet figyelembevételével kell kibocsátani.
+
+(6) Az európai elfogatóparancsot le kell fordítani a végrehajtó tagállam hivatalos nyelvére vagy hivatalos nyelveinek egyikére, amennyiben a végrehajtó tagállam azt magyar nyelven nem fogadja el.
+
+(7) A bíróság az európai elfogatóparancsban kérheti azon tárgyak lefoglalását és átadását,
 
 - a) amelyek bizonyítási eszközként felhasználhatók, vagy
-- b) amelyeket a keresett személy a bűncselekmény elkövetése során vagy azzal összefüggésben szerzett.
+- b) amelyeket a terhelt a bűncselekmény elkövetése során vagy azzal összefüggésben szerzett.
 
-(6) A büntetőeljárás befejezését követően haladéktalanul és díjmentesen vissza kell szolgáltatni azokat az átadott tárgyakat, amelyekre az azokat átadó tagállamnak vagy harmadik személynek szerzett joga fennmaradt.
+(8) A büntetőeljárás befejezését követően haladéktalanul és díjmentesen vissza kell szolgáltatni azokat az átadott tárgyakat, amelyekre az azokat átadó tagállamnak vagy harmadik személynek szerzett joga fennmaradt.
 
-(7) Az európai elfogatóparancs hatálya kiterjed Magyarország területére is.
+(9) Az európai elfogatóparancsot haladéktalanul vissza kell vonni, ha kibocsátásának oka megszűnt. A bíróság a vádirat benyújtása előtt az elfogatóparancsot hivatalból is visszavonhatja. Ha a vádirat benyújtását megelőzően európai elfogatóparancsot bocsátottak ki, de a vádiratban az ügyész végrehajtandó szabadságvesztés büntetés kiszabására vagy javítóintézeti nevelés alkalmazására nem tett indítványt, az európai elfogatóparancsot haladéktalanul vissza kell vonni. Ha az európai elfogatóparancs alapján a terheltet elfogják, és az európai elfogatóparancs kibocsátásának feltételei egyébként fennállnak, az európai elfogatóparancsot csak a terhelt átadásának végrehajtását követően lehet visszavonni. Az európai elfogatóparancs visszavonásáról szóló végzést a bíróság haladéktalanul megküldi a miniszternek és a NEBEK-nek.
 
-(8) Az európai elfogatóparancsot haladéktalanul vissza kell vonni, ha a kibocsátásának oka megszűnt. Az európai elfogatóparancs folyamatban lévő büntetőeljárás esetén az eljárás jogerős befejezéséig – a terhelt Magyarországon történő elfogásának vagy a terhelt halálának esetét kivéve – nem vonható vissza. Az európai elfogatóparancs visszavonásáról szóló végzést a kibocsátó bíróság haladéktalanul megküldi a terhelt bejelentett lakóhelye, ennek hiányában bejelentett tartózkodási helye – ha a terhelt egyikkel sem rendelkezik, a kibocsátó bíróság székhelye – szerint illetékes rendőrkapitányságnak és a NEBEK-nek.
+26. § (1) A miniszter a terhelt elfogásáról szóló értesítés kézhezvételét követően az európai elfogatóparancsot haladéktalanul megküldi a végrehajtó tagállamnak.
 
-26. § (1) Az európai elfogatóparancsot a bíróság a terhelt elfogásáról szóló értesítés kézhezvételét követően haladéktalanul a miniszternek küldi meg továbbítás céljából.
+(2) A terhelt elfogásáról szóló értesítés kézhezvételét követően
 
-(2) Az a bíróság, ügyészség vagy nyomozó hatóság, amely előtt az eljárás folyamatban van, a terhelt elfogásáról szóló értesítés kézhezvételét követően haladéktalanul védőt rendel ki, ha a terheltnek nincs védője, és ezzel egyidejűleg erről a minisztert értesíti. A miniszter a terhelt tájékoztatása érdekében a védő személyéről és elérhetőségéről értesíti a végrehajtó tagállam illetékes hatóságát.
+- a) az a bíróság, ügyészség vagy nyomozó hatóság, amely előtt az eljárás folyamatban van, vagy
+- b) szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtása céljából kibocsátott európai elfogatóparancs esetén a büntetés-végrehajtási bíró
+
+haladéktalanul védőt rendel ki, ha a terheltnek nincs védője, és ezzel egyidejűleg erről a minisztert értesíti. A miniszter a terhelt tájékoztatása érdekében a védő személyéről és elérhetőségéről értesíti a végrehajtó tagállam illetékes hatóságát.
 
 #### 14. Eljárás halmazati és összbüntetés esetén
 
@@ -257,7 +418,7 @@ az Európai Unió tagállamaival folytatott bűnügyi együttműködésről
 
 #### 15. Külföldi fogvatartás beszámítása
 
-28. § Az európai elfogatóparancs végrehajtásából eredő külföldi fogvatartás teljes időtartamát a Btk.-nak az előzetes fogvatartás beszámítására vonatkozó szabályai szerint be kell számítani a bíróság által kiszabott büntetésbe vagy szabadságelvonással járó intézkedésbe.
+28. § Az európai elfogatóparancs végrehajtásából eredő külföldi fogvatartás teljes időtartamát – beleértve a 23. § (3) bekezdés d) pontja szerinti fogvatartást is – a Btk.-nak az előzetes fogvatartás és a házi őrizet beszámítására vonatkozó szabályai szerint, a külföldi fogvatartás jellegére figyelemmel kell beszámítani a bíróság által kiszabott büntetésbe vagy szabadságelvonással járó intézkedésbe.
 
 #### 16. Megállapodás ideiglenes átadásról
 
@@ -273,13 +434,13 @@ az Európai Unió tagállamaival folytatott bűnügyi együttműködésről
 - b) a bűncselekmény szabadságvesztés vagy elzárás büntetéssel nem büntethető, vagy szabadságelvonással járó intézkedéssel nem fenyegetett;
 - c) a büntetőeljárás eredményeként nem kerül sor személyi szabadságot korlátozó intézkedés alkalmazására;
 - d) a személlyel szemben szabadságelvonással nem járó büntetés vagy intézkedés, különösen pénzbüntetés szabható ki, illetve alkalmazható, még akkor sem, ha a büntetés vagy intézkedés személyi szabadságának korlátozását eredményezheti;
-- e) a személy beleegyezett az átadásába, és ezzel egyidejűleg lemondott a specialitás szabályának alkalmazásáról;
+- e) a személy az átadási eljárás során lemondott a specialitás szabályának alkalmazásáról;
 - f) a személy az átadása után, az átadását megelőzően elkövetett meghatározott cselekmények vonatkozásában kifejezetten lemondott a specialitás szabályának alkalmazásához fűződő jogáról, vagy
 - g) a személyt átadó tagállami igazságügyi hatóság a (4) bekezdéssel összhangban hozzájárulását adja.
 
 (3) A (2) bekezdés f) pontja szerinti lemondás során a lemondó nyilatkozatot bíróság előtt kell megtenni, és azt jegyzőkönyvbe kell venni, amelyet mind az igazságügyi hatóság képviselőjének, mind a nyilatkozattevőnek alá kell írnia. A lemondó nyilatkozatot úgy kell megfogalmazni, hogy abból egyértelműen kitűnjön, hogy azt az érintett személy önként és az abból adódó következmények teljes tudatában tette. A személy védőt vehet igénybe.
 
-(4) A hozzájárulás iránti kérelmet a 25. § (3) bekezdésében hivatkozott adatok és a 25. § (4) bekezdése szerinti fordítás kíséretében kell a 26. §-ban meghatározott úton előterjeszteni a tagállami igazságügyi hatóságnak.
+(4) A hozzájárulás iránti kérelmet a 25. § (5) bekezdésében hivatkozott adatok és a 25. § (6) bekezdése szerinti fordítás kíséretében kell a 26. §-ban meghatározott úton előterjeszteni a tagállami igazságügyi hatóságnak.
 
 #### 18. Átadás a végrehajtó államtól eltérő államnak
 
@@ -292,6 +453,8 @@ az Európai Unió tagállamaival folytatott bűnügyi együttműködésről
 (2) Az (1) bekezdés b) pontja szerinti beleegyezés során a beleegyező nyilatkozatot bíróság előtt kell megtenni, és azt jegyzőkönyvbe kell venni, amelyet mind a bírónak, mind a nyilatkozattevőnek alá kell írnia. A lemondó nyilatkozatot úgy kell megfogalmazni, hogy abból egyértelműen kitűnjön, hogy azt az érintett személy önként és az abból adódó következmények teljes tudatában tette. A személy védőt vehet igénybe.
 
 (3) Az (1) bekezdésben foglalt eseteket kivéve az európai elfogatóparancs alapján átadott személy nem adható ki harmadik államnak azon tagállam illetékes hatóságának hozzájárulása nélkül, amely őt átadta.
+
+(4) Ha a keresett személy Magyarországra történt átadásának elrendelésekor az átadó tagállam több európai elfogatóparancs tárgyában hozott döntést, a harmadik tagállam által kibocsátott európai elfogatóparancs vonatkozásában az átadási eljárást a Fővárosi Törvényszék haladéktalanul megindítja.
 
 #### 19. A keresett személy átvétele
 
@@ -479,7 +642,38 @@ belül teljesíti.
 
 55. § (1) A tanú, a szakértő vagy – erre vonatkozó kifejezett írásbeli hozzájárulása alapján – a terhelt zártcélú távközlő hálózat útján történő kihallgatására vagy meghallgatására vonatkozó, a tagállami igazságügyi hatóság által előterjesztett megkeresés teljesítésére kizárólag a bíróság jogosult.
 
-(2) A bíróság a tagállami igazságügyi hatóságot közvetlenül megkeresheti tanú zártcélú távközlő hálózat útján történő kihallgatása érdekében, ha Magyarország területén az érintett személy megjelenése nem lehetséges.
+(2) A zártcélú távközlő hálózat útján történő kihallgatásra vagy meghallgatásra a tanú vagy terhelt lakóhelye vagy tartózkodási helye, illetve a szakértő lakóhelye vagy székhelye szerinti bíróság illetékes. Ha a tanú vagy a terhelt Magyarországon nem rendelkezik lakóhellyel vagy tartózkodási hellyel, illetve a szakértő Magyarországon nem rendelkezik lakóhellyel vagy székhellyel, a Pesti Központi Kerületi Bíróság illetékes.
+
+(3) Ha a magyar igazságügyi hatóságnak a zártcélú távközlő hálózat útján történő kihallgatásra vagy meghallgatásra vonatkozó, a tagállami igazságügyi hatóság által előterjesztett megkeresés teljesítésére nincs hatásköre, vagy nem rendelkezik illetékességgel, azt haladéktalanul átteszi a hatáskörrel és illetékességgel rendelkező bírósághoz, és az áttételről a tagállami igazságügyi hatóságot értesíti.
+
+(4) Külföldi hatóság zártcélú távközlő hálózat útján történő kihallgatásra vagy meghallgatásra irányuló megkeresése esetén a Be. 244/A. § (3) bekezdése irányadó azzal, hogy a végzés ellen fellebbezésnek nincs helye.
+
+(5) A végzést legalább öt nappal a kihallgatás vagy meghallgatás határnapja előtt közölni kell a terhelttel, a védővel, a kihallgatandó tanúval, kiskorú tanú esetén a törvényes képviselővel vagy gondozóval, a szakértővel, és ha a kihallgatandó személy fogva van, a fogvatartást végrehajtó intézettel. A végzést haladéktalanul meg kell küldeni a terhelt, a tanú kihallgatásához vagy a szakértő meghallgatásához elkülönített helyiséget biztosító illetékes bíróságnak, illetve fogvatartást végrehajtó intézetnek.
+
+(6) A tagállami igazságügyi hatóság zártcélú távközlő hálózat útján történő kihallgatásra vagy meghallgatásra irányuló megkeresése alapján tartott kihallgatáson vagy meghallgatáson a megkeresést teljesítő bíróság eljáró tagja részt vesz, és gondoskodik a meghallgatandó személy személyazonosságának ellenőrzéséről, illetve a magyar jogszabályok tiszteletben tartásáról. E feladatot bírósági titkár is elláthatja.
+
+(7) Az e §-ban meghatározott kihallgatásra vagy meghallgatásra a megkereső tagállami igazságügyi hatóság államának joga irányadó. A kihallgatást vagy meghallgatást a megkereső tagállami igazságügyi hatóság folytatja.
+
+(8) A megkeresést teljesítő bíróság eljáró tagja a kihallgatáson vagy meghallgatáson tolmács segítségét igénybe veheti.
+
+55/A. § (1) A kihallgatandó tanú vagy terhelt, illetve a meghallgatandó szakértő részére a megkereső tagállami igazságügyi hatóság vagy e személyek kérelmére a bíróság tolmácsot rendel ki.
+
+(2) Ha a megkereső tagállami igazságügyi hatóság államának joga szerint az eljárásban védő részvétele kötelező és a terheltnek nincs Magyarországon meghatalmazott védője, a bíróság a terhelt részére védőt rendel ki.
+
+(3) Az e §-ban meghatározott kihallgatásról vagy meghallgatásról a bíróság külön jegyzőkönyvet készít, amelyben fel kell tüntetni
+
+- a) a kihallgatás vagy meghallgatás helyét, illetve kezdő és befejező időpontját,
+- b) a kihallgatott tanú vagy terhelt, illetve a meghallgatott szakértő természetes személyazonosító adatait,
+- c) az eljáró bíróság jelen lévő tagjai és a jegyzőkönyvvezető, illetve a jelen lévő egyéb személyek – a tanú érdekében eljáró ügyvéd, kiskorú tanú esetében a törvényes képviselője vagy gondozója, a védő, a tolmács, illetve a zártcélú távközlő hálózat működését biztosító személyzet – természetes személyazonosító adatait és azt, hogy az eljárási cselekményen milyen minőségben vettek részt,
+- d) a zártcélú távközlő hálózat útján történő kihallgatás vagy meghallgatás lefolytatásának körülményeit.
+
+(4) A bíróság a jegyzőkönyvet haladéktalanul megküldi a megkereső tagállami igazságügyi hatóságnak.
+
+(5) A tagállami igazságügyi hatóság zártcélú távközlő hálózat útján történő kihallgatásra vagy meghallgatásra irányuló megkeresése alapján tartott kihallgatás vagy meghallgatás kezdetén a tagállami igazságügyi hatóság és a bíróság egyeztetést folytat a költségek viseléséről. A felek eltérő megállapodásának hiányában a kihallgatás vagy meghallgatás költségei a megkereső tagállamot terhelik.
+
+55/B. § (1) A bíróság a tagállami igazságügyi hatóságot közvetlenül megkeresheti tanú zártcélú távközlő hálózat útján történő kihallgatása érdekében, ha az érintett személy megjelenése Magyarország területén akadályba ütközik vagy nem célszerű.
+
+(2) Az (1) bekezdés alapján a tagállami igazságügyi hatóság előtt tanú zártcélú távközlő hálózat útján történő kihallgatásának kezdetén a bíróság és a tagállami igazságügyi hatóság egyeztetést folytat a költségek viseléséről. A felek eltérő megállapodásának hiányában a kihallgatás költségei a magyar államot terhelik.
 
 #### 30. Kihallgatás távbeszélő-készülék útján
 
@@ -675,15 +869,17 @@ belül teljesíti.
 - e) a terhelt kötelezése arra, hogy tartózkodjon meghatározott személlyel való érintkezésbe lépéstől,
 - f) arra vonatkozó korlátozás, hogy a terhelt Magyarország területét elhagyja.
 
-76. § (1) A nyomozási bíró a rendelkezésére álló iratok alapján a felügyeleti intézkedést elrendelő tagállami határozat elismeréséről annak kézhezvételétől számított harminc napon belül határozatot hoz, amelyet a tagállami hatóság részére haladéktalanul megküld. Ha az elismerő határozat ellen fellebbezést nyújtottak be, a nyomozási bíró számára az elismerésre nyitva álló határidő további harminc nappal meghosszabbodik. A nyomozási bíró az elismerő határozat ellen benyújtott fellebbezésről haladéktalanul tájékoztatja a tagállami hatóságot.
+76. § (1) A nyomozási bíró a rendelkezésére álló iratok alapján a felügyeleti intézkedést elrendelő tagállami határozat és tanúsítvány kézhezvételétől számított harminc napon belül indokolt határozattal dönt a tagállami határozat elismeréséről és végrehajtásáról. A nyomozási bíró nem jogerős határozatával szemben fellebbezést az jelenthet be, akivel a határozatot közölték. A kihirdetés útján közölt határozat elleni fellebbezést a kihirdetést követően nyomban be kell jelenteni. A kézbesítés útján közölt határozat ellen három napon belül lehet fellebbezni. A nyomozási bíró a fellebbezésről haladéktalanul tájékoztatja a tagállami hatóságot.
 
-(2) Ha kivételes esetben az elismerő határozat az (1) bekezdésben meghatározott határidőn belül nem hozható meg, erről a nyomozási bíró a késedelem okainak és az elismeréshez várhatóan szükséges időtartamnak a közlése mellett haladéktalanul tájékoztatja a tagállami hatóságot.
+(1a) A nyomozási bíró a fellebbezést a nyilatkozatok beérkezését követően haladéktalanul megküldi a törvényszéknek, amely a kézhezvételt követően legkésőbb az iratoknak a törvényszékhez érkezésétől számított harminc napon belül jogerős határozatot hoz. A nyomozási bíró a jogerős határozatot a tagállami hatóság részére haladéktalanul megküldi.
+
+(2) Ha az (1) és (1a) bekezdésben foglalt határozat az ott meghatározott határidőn belül nem hozható meg, a nyomozási bíró a késedelem okainak megjelölése mellett erről haladéktalanul tájékoztatja a tagállami hatóságot, és megjelöli a döntéshez szükséges időtartamot.
 
 (3) A nyomozási bíró a felügyeleti intézkedést elrendelő tagállami határozatot hiányos, illetve pontatlan tanúsítvány alapján akkor ismeri el és hajtja végre, ha a pontatlan, illetve hiányos adatok annak elismerését és végrehajtását nem akadályozzák. Ha a tanúsítványban foglaltak alapján a felügyeleti intézkedést elrendelő tagállami határozat elismerése és végrehajtása nem vagy csak részben lehetséges, a nyomozási bíró erről a tagállami hatóságot haladéktalanul értesíti, a tanúsítvány kiegészítésére, kijavítására határidőt tűz, és megjelöli azokat az adatokat, amelyek ismerete a felügyeleti intézkedést elrendelő tagállami határozat elismeréséhez és végrehajtásához szükséges. A nyomozási bíró a hiányzó vagy pontatlan adatok pótlásáig, kijavításáig elhalasztja az elismerő határozat meghozatalát, és erről a tagállami hatóságot haladéktalanul tájékoztatja.
 
 (4) Ha a felügyeleti intézkedést elrendelő tagállami határozat és a tanúsítvány nem postai úton érkezett, a nyomozási bíró kérheti a tagállami hatóságot, hogy a határozat és a tanúsítvány eredeti példányát küldje meg számára.
 
-77. § (1) A nyomozási bíró a felügyeleti intézkedést elrendelő tagállami határozat elismerését és a végrehajtását megtagadja, ha
+77. § (1) A nyomozási bíró a felügyeleti intézkedést elrendelő tagállami határozat elismerését és a végrehajtását megtagadhatja, ha
 
 - a) a határozat alapjául szolgáló cselekmény a magyar törvény szerint nem bűncselekmény;
 - b) a határozat továbbításának a 73. §-ban meghatározott feltételei nem állnak fenn, vagy a megküldött tanúsítvány nem a 75. §-ban meghatározott felügyeleti intézkedést tartalmazza;
@@ -693,7 +889,8 @@ belül teljesíti.
 - f) a terheltet egy harmadik államban ugyanazon cselekmény miatt jogerősen elítélték, vagy a terheltet egy harmadik államban ugyanazon cselekmény miatt jogerősen felmentették;
 - g) ha a magyar törvény szerint a büntethetőség elévült, feltéve, hogy a határozat alapjául szolgáló bűncselekmény magyar joghatóság alá tartozik;
 - h) a végrehajtás ellenőrzését magyar törvény kizárja;
-- i) a keresett személy gyermekkor miatt nem büntethető.
+- i) a keresett személy gyermekkor miatt nem büntethető;
+- j) a felügyeleti intézkedés megsértése miatt kibocsátott európai elfogatóparanccsal kapcsolatos eljárásban a keresett személy átadása az 5. §-ban meghatározott okból megtagadható.
 
 (2) A nyomozási bíró a felügyeleti intézkedést elrendelő tagállami határozat elismerését és végrehajtását nem tagadhatja meg az adókkal és az illetékekkel, a vámokkal és a devizával kapcsolatos bűncselekmények esetén amiatt, hogy a magyar jog nem ismer ugyanolyan adót, illetéket, valamint vámmal, illetve adóval, illetékkel azonos hatású díjat, vagy nem tartalmaz ugyanolyan típusú szabályokat az adó-, illeték-, valamint vám- és devizaszabályozás terén, mint a kibocsátó tagállam joga.
 
@@ -756,7 +953,9 @@ határozhatja meg.
 
 84. § (1) Ha a tagállami hatóság a nyomozási bírót az elismert felügyeleti intézkedés módosításáról tájékoztatja, a nyomozási bíró a módosított felügyeleti intézkedés elismerését és végrehajtását megtagadhatja, ha a módosított felügyeleti intézkedés nem felel meg a 75. §-ban meghatározott felügyeleti intézkedéseknek. A nyomozási bíró a megtagadásról haladéktalanul tájékoztatja a tagállami hatóságot.
 
-(2) A nyomozási bíró a felügyeleti intézkedés megsértéséről a 6. számú mellékletben szereplő formanyomtatványon haladéktalanul értesíti a tagállami hatóságot.
+(1a) Ha a tagállami hatóság a terhelt visszaszállítása érdekében európai elfogatóparancs kibocsátásáról értesítette a nyomozási bírót, a keresett személyt a 3. § (1) bekezdésében meghatározott büntetési tétel felső határára vonatkozó feltétel vizsgálata nélkül át kell adni.
+
+(2) A nyomozási bíró a felügyeleti intézkedés megsértéséről és minden olyan tényről, ami az ezen alcímben meghatározott további határozat meghozatalát indokolhatja, a 6. számú mellékletben szereplő formanyomtatványon haladéktalanul értesíti a tagállami hatóságot.
 
 (3) Ha a nyomozási bíró (2) bekezdésben meghatározott értesítése ellenére a tagállami hatóságtól az értesítés kézhezvételétől számított öt napon belül nem kap visszajelzést arról, hogy az ezen alcímben meghatározott további határozatot hozott, a bíróság határidő tűzésével felkérheti a tagállami hatóságot a határozat meghozatalára. Ha a tagállami hatóság a megjelölt határidőn belül nem hoz határozatot, a nyomozási bíró a felügyeleti intézkedés végrehajtásának ellenőrzését megszünteti, és az erről szóló határozatát a tagállami hatóság részére haladéktalanul megküldi.
 
@@ -769,20 +968,24 @@ határozhatja meg.
 - c) a módosított felügyeleti intézkedés elismerését és végrehajtását a 84. § (1) bekezdése alapján megtagadta,
 - d) a felügyeleti intézkedés határideje meghosszabbítás nélkül letelt.
 
+(1a) Az (1) bekezdésben és a 84. § (3) bekezdésében meghatározott megszüntetést megelőzően a nyomozási bíró egyeztetést folytat a tagállami hatósággal az ellenőrzés megszüntetésének elkerülése érdekében.
+
 (2) A megszüntető határozatot a nyomozási bíró a tagállami hatóság részére haladéktalanul megküldi.
 
-86. § A felügyeleti intézkedést elrendelő tagállami határozat végrehajtásának ellenőrzése során a Magyarország területén felmerülő költség bűnügyi költség, amelyet a magyar állam visel.
+86. § A felügyeleti intézkedést elrendelő tagállami határozat elismerése és végrehajtása során Magyarország területén felmerülő költség bűnügyi költség, amelyet a magyar állam visel.
 
 #### 39. A végrehajtás átadása
 
 87. § (1) Ha a büntetőeljárás során a bíróság az előzetes letartóztatás helyett felügyeleti intézkedést rendel el, és
 
 - a) a terhelt lakóhelye vagy tartózkodási helye valamely tagállam területén van, valamint a terhelt a felügyeleti intézkedésről való tájékoztatást követően hozzájárult az e tagállamba történő visszatéréséhez, vagy
-- b) a terhelt a felügyeleti intézkedést elrendelő határozatnak a lakóhelyétől vagy a tartózkodási helyétől eltérő más tagállamban történő elismerését és végrehajtását kérte, a bíróság a felügyeleti intézkedést elrendelő határozattal egyidejűleg kitölti az 5. számú melléklet szerinti tanúsítványt.
+- b) a terhelt a felügyeleti intézkedést elrendelő határozatnak a lakóhelyétől vagy a tartózkodási helyétől eltérő más tagállamban történő elismerését és végrehajtását kérte, feltéve, hogy e tagállam hatáskörrel rendelkező illetékes hatósága a határozat továbbításához hozzájárult, a bíróság a felügyeleti intézkedést elrendelő határozattal egyidejűleg kitölti az 5. számú melléklet szerinti tanúsítványt.
+
+(1a) A terhelt kérelmét, illetve arra vonatkozó nyilatkozatát, hogy vissza kíván térni a lakóhelye vagy tartózkodási helye szerinti tagállamba, a bíróság jegyzőkönyvbe foglalja.
 
 (2) Az (1) bekezdésben meghatározott esetben a határozatot a tanúsítvánnyal együtt le kell fordítani az (1) bekezdésben meghatározott tagállam hivatalos nyelvére vagy hivatalos nyelveinek egyikére. A bíróság a lefordított határozatot és tanúsítványt a tagállam hatáskörrel és illetékességgel rendelkező hatósága számára közvetlenül küldi meg.
 
-(3) A bíróság a lefordított határozatot és a tanúsítványt a tagállam hatáskörrel és illetékességgel rendelkező hatósága számára posta, telefax vagy számítástechnikai rendszer útján továbbítja. A számítástechnikai rendszer útján továbbított határozatot minősített elektronikus aláírással kell ellátni. Ha a bíróság a határozatot nem postai úton küldte meg, akkor kérelemre a határozat és a tanúsítvány eredeti példányát megküldi a tagállami hatóság számára.
+(3) A bíróság a lefordított határozatot és a tanúsítványt a tagállam hatáskörrel és illetékességgel rendelkező hatósága számára posta, telefax vagy számítástechnikai rendszer útján továbbítja. A számítástechnikai rendszer útján továbbított határozatot minősített elektronikus aláírással kell ellátni. Ha a bíróság a határozatot és a tanúsítványt nem postai úton küldte meg, akkor kérelemre a határozat és a tanúsítvány eredeti példányát megküldi a tagállami hatóság számára.
 
 (4) A határozatot és a tanúsítványt a bíróság egyidejűleg csak egy tagállamba továbbíthatja.
 
@@ -803,6 +1006,8 @@ határozhatja meg.
 91. § A tagállami hatóság azzal kapcsolatos megkeresésére, hogy a felügyeleti intézkedés fenntartása a továbbiakban is indokolt-e, a bíróság haladéktalanul tájékoztatja a tagállami hatóságot, és szükség esetén további határozatot hoz.
 
 92. § Ha a tagállami hatóság a 6. számú mellékletben szereplő formanyomtatványon a bíróságot tájékoztatja a felügyeleti intézkedés megsértéséről, illetve bármely, a felügyeleti intézkedés végrehajtását érintő olyan körülményről, amelynek alapján a Be. szerint további határozat meghozatala válik szükségessé, a bíróság meghozza a szükséges határozatot, és azt a tagállami hatóság részére haladéktalanul megküldi.
+
+92/A. § A bíróság a felügyeleti intézkedést érintő büntetőeljárásban európai elfogatóparancsot bocsáthat ki a terhelt Magyarországra szállítása érdekében olyan bűncselekménnyel kapcsolatban is, amely nem felel meg a 3. § (1) bekezdésében meghatározott büntetési tétel felső határára vonatkozó feltételnek.
 
 ### VI. Fejezet — A BIZONYÍTÁSI ESZKÖZ, AZ ELKOBZÁS ALÁ ESŐ DOLOG ÉS A VAGYONELKOBZÁS ALÁ ESŐ VAGYON MEGŐRZÉSÉT BIZTOSÍTÓ HATÁROZAT VÉGREHAJTÁSÁRA IRÁNYULÓ ELJÁRÁSI JOGSEGÉLY
 
@@ -829,7 +1034,7 @@ kibocsátott határozatot (a továbbiakban e fejezet alkalmazásában: biztosít
 
 (3) Az 1. számú mellékletben fel nem sorolt bűncselekményfajták esetében a biztosítási intézkedést elrendelő tagállami határozatot a magyar igazságügyi hatóság akkor ismeri el és hajtja végre, ha az a cselekmény, amely miatt a tagállami határozat elismerését és végrehajtását kérik, a magyar törvény szerint bűncselekménynek minősül.
 
-95. § (1) A biztosítási intézkedést elrendelő tagállami határozat elismerését és végrehajtását a magyar igazságügyi hatóság megtagadja, ha
+95. § (1) A biztosítási intézkedést elrendelő tagállami határozat elismerését és végrehajtását a magyar igazságügyi hatóság megtagadhatja, ha
 
 - a) a 94. § (2)–(3) bekezdés szerinti esetben a határozat alapjául szolgáló cselekmény a magyar törvény szerint nem bűncselekmény;
 - b) a magyar jog szerint a határozat alapjául szolgáló bűncselekmény büntethetősége elévült;
@@ -842,7 +1047,7 @@ kibocsátott határozatot (a továbbiakban e fejezet alkalmazásában: biztosít
 
 (2) A biztosítási intézkedést elrendelő tagállami határozat elismerése és végrehajtása nem tagadható meg az adókkal és az illetékekkel, a vámokkal és a devizával kapcsolatos bűncselekmények esetén amiatt, hogy a magyar jog nem ismer ugyanolyan adót, illetéket, valamint vámmal, illetve adóval, illetékkel azonos hatású díjat, vagy nem tartalmaz ugyanolyan típusú szabályokat az adó-, illeték-, valamint vám- és devizaszabályozás terén, mint a kibocsátó tagállam joga.
 
-96. § (1) A magyar igazságügyi hatóság a biztosítási intézkedést elrendelő tagállami határozat elismerése és végrehajtása feltételeinek fennállásáról határozatot hoz, amelyet a tagállami igazságügyi hatóság részére megküld. A magyar igazságügyi hatóság a határozatában a magyar jogszabályok szerint állapítja meg az alkalmazandó intézkedést, és ennek megfelelően rendelkezik ezen intézkedés végrehajtásáról úgy, hogy az a lehető legnagyobb mértékben megfeleljen annak az intézkedésnek, amelyet a tagállami határozat tartalmaz.
+96. § (1) A magyar igazságügyi hatóság a biztosítási intézkedést elrendelő tagállami határozat elismerése és végrehajtása feltételeinek fennállásáról 24 órán belül határozatot hoz, amelyet a tagállami igazságügyi hatóság részére megküld. A magyar igazságügyi hatóság a határozatában a magyar jogszabályok szerint állapítja meg az alkalmazandó intézkedést, és ennek megfelelően rendelkezik ezen intézkedés végrehajtásáról úgy, hogy az a lehető legnagyobb mértékben megfeleljen annak az intézkedésnek, amelyet a tagállami határozat tartalmaz.
 
 (2) A magyar igazságügyi hatóság a biztosítási intézkedést elrendelő tagállami határozatot hiányos, illetve pontatlan tanúsítvány alapján akkor ismeri el és hajtja végre, ha a pontatlan, illetve hiányos adatok a tagállami határozat elismerését és végrehajtását nem akadályozzák. Ha a biztosítási intézkedést elrendelő tagállami határozatban, illetve a tanúsítványban foglaltak alapján a tagállami határozat elismerése és végrehajtása nem vagy csak részben lehetséges, a magyar igazságügyi hatóság erről a tagállami igazságügyi hatóságot haladéktalanul értesíti, a tanúsítvány, illetve a benne szereplő hiányzó vagy pontatlan adatok pótlására, kijavítására határidőt tűz, és ezzel egyidejűleg megjelöli azokat az adatokat, amelyek ismerete a tagállami határozat elismeréséhez és végrehajtásához szükséges.
 
@@ -850,7 +1055,7 @@ kibocsátott határozatot (a továbbiakban e fejezet alkalmazásában: biztosít
 
 (4) A határozat végrehajtása más hivatalos irat vagy feltétel meglétéhez nem köthető.
 
-97. § (1) A biztosítási intézkedést elrendelő tagállami határozat elismerésének és végrehajtásának megtagadásáról a magyar igazságügyi hatóság indokolt határozatot hoz, amelyet a tagállami igazságügyi hatóság részére megküld. E határozat ellen jogorvoslatnak helye nincs.
+97. § (1) A biztosítási intézkedést elrendelő tagállami határozat elismerésének és végrehajtásának megtagadásáról a magyar igazságügyi hatóság 24 órán belül indokolt határozatot hoz, amelyet a tagállami igazságügyi hatóság részére megküld. E határozat ellen jogorvoslatnak helye nincs.
 
 (2) A magyar igazságügyi hatóság haladéktalanul tájékoztatja a tagállami igazságügyi hatóságot, ha a biztosítási intézkedést elrendelő tagállami határozat elismerése és végrehajtása akadályba ütközik, különösen ha a bizonyítási eszköz, az elkobzás alá eső dolog vagy a vagyonelkobzás alá eső vagyon eltűnt, megsemmisült, a tanúsítványban meghatározott helyen nem található, illetve kiegészítő információ kérése ellenére nem áll rendelkezésre elegendő adat ahhoz, hogy a bizonyítási eszközt, az elkobzás alá eső dolgot vagy a vagyonelkobzás alá eső vagyont a magyar igazságügyi hatóság megtalálja.
 
@@ -875,9 +1080,13 @@ kibocsátott határozatot (a továbbiakban e fejezet alkalmazásában: biztosít
 
 (3) Egyebekben az e fejezetben foglalt határozatok végrehajtása során a lefoglalásra, az információs rendszerben tárolt adatok megőrzésére kötelezésre, illetve a zár alá vételre vonatkozó eljárási és végrehajtási szabályokat kell megfelelően alkalmazni.
 
-100. § (1) Ha a Be. szabályai alapján a magyar igazságügyi hatóság a kényszerintézkedés megszüntetését tartja szükségesnek, erről a tagállami igazságügyi hatóságot értesíti, és a kényszerintézkedés megszüntetése előtt megfelelő határidőt állapít meg a tagállami igazságügyi hatóságnak annak érdekében, hogy észrevételt tegyen.
+100. § (1) A biztosítási intézkedést elrendelő tagállami határozat a magyar igazságügyi hatóság előtt a magyar jogszabályok szerinti jogorvoslattal nem támadható.
 
-(2) Az ezen alcímben meghatározott eljárásokat soron kívül kell lefolytatni.
+(2) Az érintetteket az (1) bekezdésben foglaltakról, valamint a biztosítási intézkedést elrendelő tagállami határozat ellen előterjeszthető jogorvoslatról a tagállami igazságügyi hatóság által megküldött formanyomtatvány jogorvoslatra vonatkozó részében szereplő adatoknak megfelelően tájékoztatni kell.
+
+(3) Ha a Be. szabályai alapján a magyar igazságügyi hatóság jogorvoslat vagy indítvány alapján, illetve hivatalból a kényszerintézkedés megszüntetését tartja szükségesnek, erről a tagállami igazságügyi hatóságot értesíti, és a kényszerintézkedés megszüntetése előtt megfelelő határidőt állapít meg a tagállami igazságügyi hatóságnak arra, hogy észrevételt tegyen. A megszüntetés tárgyában hozott határozatról a magyar igazságügyi hatóság tájékoztatja a tagállami igazságügyi hatóságot.
+
+(4) A magyar igazságügyi hatóság a biztosítási intézkedést elrendelő tagállami határozat elismeréséről és végrehajtásáról a kézhezvételtől számított 24 órán belül dönt.
 
 #### 41. A végrehajtás átadása
 
@@ -885,10 +1094,11 @@ kibocsátott határozatot (a továbbiakban e fejezet alkalmazásában: biztosít
 
 (2) Az (1) bekezdésben meghatározott esetben a határozatot a tanúsítvánnyal együtt le kell fordítani annak a tagállamnak a hivatalos nyelvére vagy hivatalos nyelveinek egyikére, amelynek területén a bizonyítási eszköz, az elkobzás alá eső dolog, illetve a vagyonelkobzás alá eső vagyon található (végrehajtó tagállam). A magyar igazságügyi hatóság a lefordított határozatot és tanúsítványt a tagállam hatáskörrel és illetékességgel rendelkező igazságügyi hatósága számára közvetlenül küldi meg.
 
-(3) A határozat rendelkező része – a Be.-ben foglaltakon kívül – szükség szerint tartalmazza,
+(3) A határozat rendelkező része – a Be.-ben foglaltakon kívül – szükség szerint tartalmazza
 
-- a) a lefoglalni kért bizonyítási eszköz átadása iránti kérelmet a magyar igazságügyi hatóság részére, vagy
-- b) rendelkezést arra vonatkozóan, hogy a kényszerintézkedéssel érintett bizonyítási eszközt, elkobzás alá eső dolgot, illetve vagyonelkobzás alá eső vagyont az a) pont szerinti kérelem, illetve az elkobzására, illetve vagyonelkobzásra vonatkozó határozat végrehajtása iránti kérelem továbbításáig a végrehajtó tagállamban kell tartani.
+- a) a lefoglalni kért bizonyítási eszköz átadása iránti kérelmet a magyar igazságügyi hatóság részére,
+- b) az elkobzás iránti kérelmet, amely vagy a kibocsátó tagállamban kibocsátott, elkobzást elrendelő határozat végrehajtását, vagy a végrehajtó tagállamban foganatosított elkobzást és egy ilyen határozat későbbi időpontban való végrehajtását kéri, vagy
+- c) a rendelkezést arra vonatkozóan, hogy a kényszerintézkedéssel érintett bizonyítási eszközt, elkobzás alá eső dolgot, illetve vagyonelkobzás alá eső vagyont az a) vagy b) pont szerinti kérelem, illetve az elkobzására vagy vagyonelkobzásra vonatkozó határozat végrehajtása iránti kérelem továbbításáig a végrehajtó tagállamban kell tartani.
 
 (4) Ha a nyomozó hatóság lefoglalás vagy információs rendszerben tárolt adatok megőrzésére kötelezés elrendelését, illetve zár alá vétel alkalmazását tartja szükségesnek olyan bizonyítási eszköz, elkobzás alá eső dolog vagy vagyonelkobzás alá eső vagyon tekintetében, amely egy másik tagállam területén található, előterjesztést tesz az ügyésznek az (1) bekezdésben meghatározott határozat meghozatala vagy annak bíróságnál történő indítványozása iránt.
 
@@ -968,11 +1178,19 @@ kibocsátott határozatot (a továbbiakban e fejezet alkalmazásában: biztosít
 
 108. § A jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat végrehajtásával kapcsolatos bírósági eljárásra a Be. 555. § (2) bekezdés b) és d) pontjában meghatározott rendelkezés nem alkalmazható.
 
-109. § (1) A jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozatot vagy annak hitelesített másolatát, a 8. számú melléklet szerinti magyar nyelvű tanúsítványt, az elítélt nyilatkozatát tartalmazó jegyzőkönyvet és – ha az elítélt Magyarországon tartózkodik – az elítélt értesítését igazoló, a 9. számú melléklet szerinti formanyomtatványt a miniszter fogadja, és ha a 111. §-ban meghatározott feltételek fennállnak, megküldi a végrehajtó igazságügyi hatóságként kizárólagos illetékességgel eljáró Fővárosi Törvényszéknek. A Fővárosi Törvényszék egyesbíróként jár el.
+109. § (1) A jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozatot vagy annak hitelesített másolatát, a 8. számú melléklet szerinti magyar nyelvű tanúsítványt, az elítélt nyilatkozatát tartalmazó jegyzőkönyvet és – ha az elítélt Magyarországon tartózkodik – az elítélt értesítését igazoló, a 9. számú melléklet szerinti formanyomtatványt a miniszter fogadja.
 
-(2) Ha a jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozatban pénzbüntetés kiszabására, illetve vagyonelkobzás elrendelésére is sor kerül, a határozat elismerésére és a végrehajtásról szóló határozat meghozatalára a Fővárosi Törvényszék rendelkezik hatáskörrel és illetékességgel.
+(2) A miniszter, különösen a 111. § (4) bekezdésében meghatározott esetben, a büntetés végrehajtásának átvétele feltételei és indokoltsága tárgyában a kibocsátó tagállami igazságügyi hatósággal konzultálhat.
 
-(3) Ha a bírósághoz vagy más hatósághoz valamely tagállamból olyan megkeresés érkezik, amelynek elintézésére nem illetékes vagy nem rendelkezik hatáskörrel, a megkeresést haladéktalanul továbbítja a miniszternek, és erről tájékoztatja a tagállami hatóságot.
+(3) Ha a 111. § (1) bekezdésében meghatározott feltétel fennáll, illetve a 111. § (3) bekezdése esetén az elítélt hozzájárulása rendelkezésre áll, és a miniszter véleménye szerint a szabadságvesztés büntetés vagy a szabadságelvonással járó intézkedés végrehajtásának átvétele az elítélt társadalomba való beilleszkedését szolgálja, a miniszter az iratokat megküldi a végrehajtó igazságügyi hatóságként hatáskörrel és kizárólagos illetékességgel rendelkező Fővárosi Törvényszéknek, ellenkező esetben a jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat elismerését és végrehajtását megtagadja.
+
+(4) A Fővárosi Törvényszék egyesbíróként jár el.
+
+(5) Ha az iratoknak a Fővárosi Törvényszékhez érkezésekor a jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat érvényének elismerése folyamatban van, a Fővárosi Törvényszék a külföldi ítélet elismerése tárgyában folyamatban lévő eljárást az e Fejezet alapján indult eljáráshoz egyesíti és egységesen e Fejezet rendelkezései szerint bírálja el.
+
+(6) Ha a jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozatban pénzbüntetés kiszabására, illetve vagyonelkobzás elrendelésére is sor került, a határozat elismerésére és a végrehajtásról szóló határozat meghozatalára a Fővárosi Törvényszék rendelkezik hatáskörrel és illetékességgel.
+
+(7) Ha a bírósághoz vagy más hatósághoz valamely tagállamból olyan megkeresés érkezik, amelynek elintézésére nem illetékes vagy nem rendelkezik hatáskörrel, a megkeresést haladéktalanul továbbítja a miniszternek és erről tájékoztatja a tagállami hatóságot.
 
 110. § (1) Ha a tagállami igazságügyi hatóság által kiszabott szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés tartama hosszabb, mint ami a határozat alapjául szolgáló tényállás szerinti bűncselekményre vonatkozóan – a Btk.-nak a büntetés enyhítésére vonatkozó szabályaira is figyelemmel – a magyar törvény alapján megállapítható lenne, akkor a bíróság által megállapított büntetés vagy intézkedés tartama nem lehet rövidebb, mint a határozat alapjául szolgáló tényállás szerinti bűncselekményre a Btk. által előírt büntetési tételkeret felső határa.
 
@@ -994,9 +1212,9 @@ kibocsátott határozatot (a továbbiakban e fejezet alkalmazásában: biztosít
 - b) az elítélt Magyarországra bevándorolt, itt letelepedett vagy Magyarország által menekültként elismert személy, vagy
 - c) Magyarországhoz családi, kulturális vagy gazdasági kapcsolataira tekintettel szorosan kötődik.
 
-(4) A (2) és (3) bekezdés szerinti esetben a miniszter részletes indokolással ellátott írásbeli véleményben tájékoztatja a kibocsátó tagállam igazságügyi hatóságát, ha a szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtásának átvétele az elítélt társadalomba való beilleszkedésének elősegítését nem szolgálná.
+(4) A (2) és (3) bekezdés szerinti esetben – indokolt esetben a 109. § (2) bekezdése szerinti konzultációt követően – a miniszter részletes indokolással ellátott írásbeli véleményben tájékoztatja a kibocsátó tagállami igazságügyi hatóságot, ha a szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtásának átvétele az elítélt társadalomba való beilleszkedésének elősegítését nem szolgálná. A (3) bekezdés szerinti esetben a miniszteri vélemény – szükség szerint – tartalmazza azt is, hogy a miniszter nem járul hozzá a tagállami határozat és a tanúsítvány megküldéséhez.
 
-112. § (1) A jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat elismerését és végrehajtását a Fővárosi Törvényszék megtagadja, ha
+112. § (1) A jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat elismerését és végrehajtását a Fővárosi Törvényszék megtagadhatja, ha
 
 - a) az elítélt gyermekkor miatt nem büntethető,
 - b) a tagállami határozat alapjául szolgáló cselekmény a magyar jog szerint nem bűncselekmény,
@@ -1011,7 +1229,7 @@ kibocsátott határozatot (a továbbiakban e fejezet alkalmazásában: biztosít
 - k) a tagállami igazságügyi hatóság a 118. § (2) bekezdés g) pontja és (3) bekezdése alapján nem járul hozzá ahhoz, hogy az elítélttel szemben az átszállítása előtt elkövetett, a határozat alapjául szolgáló bűncselekménytől különböző egyéb bűncselekmény miatt Magyarországon büntetőeljárás induljon, őt elítéljék vagy egyéb módon vonják el a szabadságát,
 - l) a tagállami határozat olyan pszichiátriai vagy orvosi kezelésre irányuló, vagy más, szabadságelvonással járó intézkedést tartalmaz, amelyet Magyarország nem tud végrehajtani.
 
-(2) A jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat elismerését és végrehajtását a Fővárosi Törvényszék megtagadja, ha azt a terhelt távollétében hozták, kivéve, ha a tanúsítványból egyértelműen megállapítható, hogy a tagállami igazságügyi hatóság államának jogával összhangban
+(2) A jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat elismerését és végrehajtását a Fővárosi Törvényszék megtagadhatja, ha azt a terhelt távollétében hozták, kivéve, ha a tanúsítványból egyértelműen megállapítható, hogy a tagállami igazságügyi hatóság államának jogával összhangban
 
 - a) a terheltet megfelelő időben, határnapot és helyet megjelölve, közvetlenül idézték a tárgyalásra vagy arról más módon hivatalosan tudomást szerzett, továbbá tájékoztatták arról, hogy a tárgyalás a távollétében is megtartható, vele szemben az eljárás határozattal befejezhető,
 - b) a kitűzött tárgyalás ismeretében a terhelt a tárgyaláson való képviseletére
@@ -1047,13 +1265,19 @@ kibocsátott határozatot (a továbbiakban e fejezet alkalmazásában: biztosít
 
 (3) A (2) bekezdés f) pontja szerinti lemondó nyilatkozatot a büntetés-végrehajtási bíró előtt kell megtenni, és azt jegyzőkönyvbe kell foglalni, amelyet mind a bírónak, mind a nyilatkozattevőnek alá kell írnia. A lemondó nyilatkozatot úgy kell megfogalmazni, hogy abból egyértelműen kitűnjék, miszerint azt az elítélt önként és az abból adódó következmények teljes tudatában tette. Az elítélt védőt vehet igénybe.
 
-(4) A (2) bekezdés g) pont szerinti hozzájárulás iránti kérelmet a (3) bekezdés szerinti jegyzőkönyv és a 25. § (3) bekezdése szerinti európai elfogatóparancs kíséretében, a 25. § (4) bekezdése szerint kell a tagállami igazságügyi hatósághoz előterjeszteni.
+(4) A (2) bekezdés g) pont szerinti hozzájárulás iránti kérelmet a (3) bekezdés szerinti jegyzőkönyv és a 25. § (5) bekezdése szerinti európai elfogatóparancs kíséretében, a 25. § (6) bekezdése szerint kell a tagállami igazságügyi hatósághoz előterjeszteni.
 
-119. § (1) Ha nem állnak fenn a végrehajtás elhalasztásának feltételei, a bíróság az iratok kézhezvételétől számított kilencven napon belül jogerős határozatot hoz a jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat elismeréséről és végrehajtásáról.
+119. § (1) Ha nem állnak fenn a végrehajtás elhalasztásának feltételei, a Fővárosi Törvényszék az iratok kézhezvételétől számított hatvan napon belül dönt a jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat elismeréséről és végrehajtásáról.
 
-(2) Ha kivételes esetben a határozat az (1) bekezdésben meghatározott határidőn belül nem hozható meg, a bíróság – a késedelem okainak és a jogerős határozat meghozatalához előreláthatóan szükséges időnek a közlése mellett – a miniszter útján haladéktalanul tájékoztatja a tagállami igazságügyi hatóságot.
+(2) A Fővárosi Törvényszék határozatával szemben fellebbezést az jelenthet be, akivel a határozatot közölték. A kihirdetés útján közölt határozat elleni fellebbezést a kihirdetést követően nyomban be kell jelenteni. A kézbesítés útján közölt határozat elleni fellebbezés a kézbesítéstől számított három napon belül jelenthető be. A Fővárosi Törvényszék a fellebbezést a nyilatkozatok beérkezését követően haladéktalanul, közvetlenül küldi meg a Fővárosi Ítélőtáblának.
 
-120. § A jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat végrehajtásának megtagadásáról a bíróság indokolt határozatot hoz.
+(3) A Fővárosi Ítélőtábla az iratok kézhezvételét követően haladéktalanul, de legkésőbb az iratoknak a Fővárosi Törvényszékhez érkezésétől számított kilencven napon belül dönt a jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat elismeréséről és végrehajtásáról.
+
+(4) Ha kivételes esetben a jogerős határozat az (1) bekezdésben meghatározott határidőn belül nem hozható meg, a bíróság – a késedelem okainak és a jogerős határozat meghozatalához előreláthatóan szükséges időnek a közlése mellett – a miniszter útján haladéktalanul tájékoztatja a tagállami igazságügyi hatóságot.
+
+120. § (1) A bíróság – indokolt határozatában – elrendeli a jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat elismerését és végrehajtását, ha annak feltételei fennállnak.
+
+(2) A bíróság – indokolt határozatában – megtagadja a jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat elismerését és végrehajtását, ha megtagadási ok áll fenn.
 
 121. § A jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat hatályon kívül helyezéséről vagy végrehajthatóságának megszűnéséről szóló értesítés alapján a Fővárosi Törvényszék haladéktalanul intézkedik a végrehajtás megszüntetése érdekében.
 
@@ -1062,9 +1286,9 @@ kibocsátott határozatot (a továbbiakban e fejezet alkalmazásában: biztosít
 123. § A Fővárosi Törvényszék – a miniszter útján – írásban értesíti a tagállami igazságügyi hatóságot
 
 - a) ha a büntetés vagy intézkedés arra tekintettel nem hajtható végre, hogy a határozat és a tanúsítvány Magyarországra történő továbbítását követően az elítélt nem található az ország területén,
-- b) a végrehajtás átvételéről szóló jogerős határozatról, beleértve a határozat jogerőre emelkedésének időpontját is,
-- c) a végrehajtás átvételét megtagadó bírósági határozatról, beleértve a megtagadás indokát is,
-- d) ha a végrehajtás megtagadására közkegyelem miatt kerül sor,
+- b) a jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat elismerését és végrehajtását elrendelő bírósági határozatról, beleértve a határozat jogerőre emelkedésének időpontját is,
+- c) a jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat elismerését és végrehajtását megtagadó bírósági határozatról, beleértve a megtagadás indokát is,
+- d) ha a jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat elismerésének és végrehajtásának megtagadására közkegyelem miatt kerül sor,
 - e) az elítélt feltételes szabadságra bocsátásának legkorábbi időpontjáról, valamint ha az elítéltet a bíróság pártfogó felügyelet alá helyezte, annak tényéről, feltéve, hogy a tagállami igazságügyi hatóság az erről szóló tájékoztatást kérte,
 - f) ha az elítélt a végrehajtás befejezését megelőzően megszökött,
 - g) ha a büntetést vagy intézkedést végrehajtották, vagy a végrehajtás egyéni kegyelem vagy közkegyelem miatt befejeződött.
@@ -1078,6 +1302,16 @@ kibocsátott határozatot (a továbbiakban e fejezet alkalmazásában: biztosít
 125. § Az ülésen ügyész és védő részvétele kötelező.
 
 126. § Az ideiglenes végrehajtási letartóztatás legfeljebb a büntetés végrehajtására vonatkozó határozat meghozataláig tart, és nem haladhatja meg a büntetés tartamát. Az ideiglenes végrehajtási letartóztatás teljes idejét – az előzetes fogvatartás beszámítására vonatkozó rendelkezéseknek megfelelően – be kell számítani a végrehajtásra átvett szabadságvesztés büntetésbe vagy szabadságelvonással járó intézkedésbe.
+
+126/A. § (1) Ha a bíróság az 5. § (4) bekezdése esetén az európai elfogatóparancs végrehajtását megtagadta, az európai elfogatóparancs megtagadásával egyidejűleg elrendeli az elítélt ideiglenes végrehajtási letartóztatását, ha az 5. § (4) bekezdésében meghatározott megtagadási októl eltekintve az európai elfogatóparancs megtagadási oka nem áll fenn.
+
+(2) Az (1) bekezdés alapján elrendelt ideiglenes végrehajtási letartóztatás a 109. § (1) bekezdésében meghatározott iratoknak a bírósághoz történő megérkezéséig, legfeljebb azonban harminc napig tart.
+
+(3) Ha a tagállami igazságügyi hatóság a (2) bekezdésben meghatározott határidőn belül a 109. § (1) bekezdésében meghatározott iratokat megküldi, a Fővárosi Törvényszék a 125. § alapján haladéktalanul ülést tart. Az ülésen a bíróság az elítélt ideiglenes végrehajtási letartóztatását fenntartja, ha a rendelkezésre álló adatok alapján nem áll fenn a végrehajtás átvételének egyetlen megtagadási oka sem, egyébként az ideiglenes végrehajtási letartóztatást megszünteti.
+
+(4) Ha a 111. § (1) bekezdése alapján a szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtása átvételének nincs helye, a miniszter a büntetés végrehajtásának átvételét a 109. § (3) bekezdése alapján megtagadja, vagy ha a (2) bekezdésben meghatározott határidőben a 109. § (1) bekezdés szerinti iratok nem érkeznek meg, az elítéltet haladéktalanul szabadon kell bocsátani.
+
+(5) Az (1) bekezdés alapján elrendelt és a (3) bekezdés alapján fenntartott ideiglenes végrehajtási letartóztatásra a (2)–(4) bekezdésben meghatározott eltéréssel a 126. §-t megfelelően alkalmazni kell.
 
 #### 45. A végrehajtás átadása
 
@@ -1111,13 +1345,22 @@ kibocsátott határozatot (a továbbiakban e fejezet alkalmazásában: biztosít
 
 (3) Az ítéletet csak akkor kell lefordítani a (2) bekezdésben megjelölt valamely nyelvre, ha a végrehajtó tagállam erre irányuló kérelmet terjeszt elő, és korábban olyan nyilatkozatot tett, amely alapján kérheti az ítéletnek vagy annak lényeges részeinek fordítását.
 
+(3a) A miniszter a tanúsítványt és az ítéletet a tagállami igazságügyi hatóság számára továbbítja bármely olyan írásban dokumentált módon, amely lehetővé teszi a végrehajtó tagállam számára a határozat hitelességének megállapítását. Ha a miniszter a határozatot nem postai úton küldte meg, akkor kérelemre a tanúsítvány és az ítélet eredeti példányát megküldi a tagállami igazságügyi hatóság számára.
+
 (4) A miniszter a 9. számú melléklet szerinti formanyomtatványon, az elítélt anyanyelvén vagy az általa ismertként megjelölt más nyelven értesíti az elítéltet az iratoknak a tagállami igazságügyi hatóság részére történt továbbításáról.
 
-(5) A büntetés végrehajtásának megkezdése előtt a tanúsítvány – indokolással – visszavonható. A tanúsítványt vissza kell vonni, ha az (1) bekezdés szerinti megkeresésre érkezett tájékoztatás alapján feltehető, hogy a bíróság által kiszabott szabadságvesztés büntetés célja a korai vagy feltételes szabadságra bocsátás időpontjának végrehajtó tagállam általi meghatározására tekintettel nem érhető el.
+(5) A büntetés végrehajtásának megkezdése előtt a tanúsítvány – indokolással – visszavonható.
 
-(6) A végrehajtás átadásáról a miniszter dönt.
+(6) Ha
+
+- a) a büntetés végrehajtása még nem kezdődött meg, és
+- b) az (1) bekezdés szerinti megkeresésre érkezett tájékoztatás alapján feltehető, hogy a bíróság által kiszabott szabadságvesztés büntetés célja a korai vagy feltételes szabadságra bocsátás időpontjának végrehajtó tagállam általi meghatározására tekintettel nem érhető el,
+
+a miniszter haladéktalanul tájékoztatja a bíróságot az (1) bekezdés szerinti megkeresésre adott végrehajtó tagállami válaszról és erre tekintettel a végrehajtás átadásának megtagadásáról. A bíróság a miniszteri tájékoztatást követő tíz napon belül visszavonja a tanúsítványt, és az erről szóló határozatát haladéktalanul megküldi a miniszternek.
 
 (7) Ha a tagállami igazságügyi hatóság arról értesíti a minisztert, hogy az ítélet végrehajtását azért szüntette meg, mert az elítélt a végrehajtás megkezdése után a tagállam területén nem volt megtalálható és a felkutatására tett intézkedések nem vezettek eredményre, akkor a továbbiakban az ítélet végrehajtására a magyar szabályok irányadóak.
+
+(8) A végrehajtás átadásáról a miniszter dönt.
 
 130. § A Büntetés-végrehajtás Országos Parancsnoksága havonta tájékoztatja a minisztert az Európai Unió valamely tagállamának állampolgárságával rendelkező, jogerősen szabadságvesztés büntetésre vagy szabadságelvonással járó intézkedésre ítélt személyekről.
 
@@ -1152,6 +1395,10 @@ kibocsátott határozatot (a továbbiakban e fejezet alkalmazásában: biztosít
 135. § (1) Az átmenő átszállítás során Magyarország területén felmerülő költséget az átmenő átszállítást kérelmező tagállam viseli, a megtérítés érdekében a miniszter intézkedik.
 
 (2) Az (1) bekezdés nem alkalmazható, ha az átmenő átszállítást kérelmező tagállam és Magyarország között a költségviseléssel kapcsolatban a viszonossági elv érvényesül.
+
+(3) A jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat elismerésével és végrehajtásának átvételével összefüggésben a fordítással kapcsolatban felmerült költség bűnügyi költség, amelyet a magyar állam visel.
+
+(4) A szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtásának átadásával összefüggésben a fordítással, valamint a terhelt szállításával kapcsolatban felmerült költség bűnügyi költség, amelyet a magyar állam visel.
 
 ### IX. Fejezet — A FELTÉTELES SZABADSÁG, VALAMINT A PRÓBAIDŐ TARTAMÁRA ELŐÍRT MAGATARTÁSI SZABÁLYOK ÉS EGYÉB ALTERNATÍV SZANKCIÓK VÉGREHAJTÁSÁRA IRÁNYULÓ JOGSEGÉLY
 
@@ -1196,13 +1443,15 @@ határoz meg, rendel el, illetve szab ki.
 
 (6) Ha az alternatív szankciót kiszabó tagállami határozat nem postai úton érkezett, a bíróság kérheti a tagállami hatóságot, hogy a határozat és a tanúsítvány eredeti példányát küldje meg számára.
 
-(7) Ha a bírósághoz valamely tagállamból olyan megkeresés érkezik, amelynek elintézésére nem illetékes vagy nem rendelkezik hatáskörrel, a megkeresést haladéktalanul továbbítja az illetékes törvényszék székhelyén működő járásbíróságra vagy a Budai Központi Kerületi Bíróságra, és erről a tagállami hatóságot tájékoztatja.
+(7) Ha a bírósághoz valamely tagállamból olyan megkeresés érkezik, amelynek elintézésére nem illetékes vagy nem rendelkezik hatáskörrel, a megkeresést haladéktalanul továbbítja az illetékes törvényszék székhelyén működő járásbíróságra vagy a Budai Központi Kerületi Bíróságra, és erről a tagállami hatóságot írásban, haladéktalanul tájékoztatja.
 
-138. § (1) A bíróság legkésőbb az alternatív szankciót kiszabó tagállami határozat és a tanúsítvány kézhezvételétől számított hatvan napon belül dönt a tagállami határozat elismeréséről és végrehajtásáról.
+138. § (1) A bíróság az alternatív szankciót kiszabó tagállami határozat és a tanúsítvány kézhezvételétől számított harminc napon belül indokolt határozattal dönt a tagállami határozat elismeréséről és végrehajtásáról. A határozat meghozatala előtt – ha az szükséges – a bíróság egyeztet a tagállami hatósággal. A bíróság nem jogerős határozatával szemben fellebbezést az jelenthet be, akivel a határozatot közölték. A kihirdetés útján közölt határozat elleni fellebbezést a kihirdetést követően nyomban be kell jelenteni. A kézbesítés útján közölt határozat ellen három napon belül lehet fellebbezni.
 
-(2) Ha az (1) bekezdésben foglalt döntés az ott meghatározott határidőn belül nem hozható meg, a bíróság a késedelem okainak megjelölése mellett erről haladéktalanul tájékoztatja a tagállami hatóságot, és megjelöli a döntéshez szükséges időtartamot.
+(2) A bíróság a fellebbezést a nyilatkozatok beérkezését követően haladéktalanul, közvetlenül megküldi a törvényszéknek, amely a nyilatkozatok kézhezvételét követően legkésőbb az iratoknak a törvényszékhez érkezésétől számított harminc napon belül jogerős határozatot hoz. A bíróság a jogerős határozatot a tagállami hatóság részére haladéktalanul megküldi.
 
-139. § (1) A bíróság az alternatív szankciót kiszabó tagállami határozat elismerését és végrehajtását megtagadja, ha
+(3) Ha az (1) és (2) bekezdésben foglalt határozat az ott meghatározott határidőn belül nem hozható meg, a bíróság a késedelem okainak megjelölése mellett erről haladéktalanul tájékoztatja a tagállami hatóságot, és megjelöli a döntéshez szükséges időtartamot.
+
+139. § (1) A bíróság az alternatív szankciót kiszabó tagállami határozat elismerését és végrehajtását megtagadhatja, ha
 
 - a) az alternatív szankciót kiszabó tagállami határozat alapjául szolgáló cselekmény a magyar törvény szerint nem bűncselekmény;
 - b) a 137. § (1), (3) vagy (5) bekezdésében foglaltak nem teljesülnek;
@@ -1214,10 +1463,10 @@ határoz meg, rendel el, illetve szab ki.
 - h) a tagállami hatóság által megküldött tanúsítvány nyilvánvalóan nem a mellékelt, alternatív szankciót kiszabó határozatra vonatkozik;
 - i) a tagállami hatóság által megküldött tanúsítvány hiányos, pontatlan vagy a tanúsítvány hiányzik, és a hiánypótlásra, kijavításra tűzött határidő eredménytelenül telt el, illetve a kiegészített tanúsítvány végrehajtása továbbra sem lehetséges;
 - j) az alternatív szankciót kiszabó tagállami határozat olyan orvosi kezelést rendel el, amelyet Magyarország a magyar jognak megfelelő átalakítása ellenére sem tud végrehajtani;
-- k) az alternatív szankciót kiszabó tagállami határozat alapjául szolgáló bűncselekmény magyar joghatóság alá tartozik, és a bűncselekményre a magyar törvény szerint közkegyelem terjed ki;
+- k) az alternatív szankciót kiszabó tagállami határozat alapjául szolgáló bűncselekmény magyar joghatóság alá tartozik;
 - l) a felfüggesztett szabadságvesztés, a próbára bocsátás, vagy a feltételes szabadságra bocsátás tagállami határozatban megállapított próbaideje, tartama, illetve a sportrendezvények látogatásától való eltiltás tartama nem éri el a hat hónapot.
 
-(2) A bíróság az alternatív szankciót kiszabó tagállami határozat elismerését és végrehajtását megtagadja, ha azt a terhelt távollétében hozták, kivéve, ha a tanúsítványból egyértelműen megállapítható, hogy a tagállami joggal összhangban
+(2) A bíróság az alternatív szankciót kiszabó tagállami határozat elismerését és végrehajtását megtagadhatja, ha azt a terhelt távollétében hozták, kivéve, ha a tanúsítványból egyértelműen megállapítható, hogy a tagállami joggal összhangban
 
 - a) a terheltet megfelelő időben, határnapot és helyet megjelölve, közvetlenül idézték a tárgyalásra vagy arról más módon hivatalosan tudomást szerzett, továbbá tájékoztatták arról, hogy a tárgyalás a távollétében is megtartható, vele szemben az eljárás határozattal befejezhető,
 - b) a kitűzött tárgyalás ismeretében a terhelt a tárgyaláson való képviseletére
@@ -1232,7 +1481,7 @@ határoz meg, rendel el, illetve szab ki.
 
 (4)
 
-(5) A bíróság haladéktalanul tájékoztatja a tagállami hatóságot, ha az alternatív szankciót kiszabó tagállami határozat végrehajtásának megkezdése akadályba ütközik, különösen, ha az elítélt Magyarország területén lakóhellyel vagy tartózkodási hellyel már nem rendelkezik.
+(5) A bíróság írásban, haladéktalanul tájékoztatja a tagállami hatóságot, ha az alternatív szankciót kiszabó tagállami határozat végrehajtásának megkezdése akadályba ütközik, különösen, ha az elítélt Magyarország területén lakóhellyel vagy tartózkodási hellyel már nem rendelkezik.
 
 140. § (1)
 
@@ -1258,7 +1507,7 @@ a bíróság az ilyen felfüggesztett szabadságvesztést, próbára bocsátást
 
 (8) Ha a tanúsítvány hiányzik, a bíróság annak pótlásáig elhalasztja az elismerő határozat meghozatalát, és erről a tagállami hatóságot haladéktalanul tájékoztatja.
 
-141. § (1) Az alternatív szankciót kiszabó tagállami határozat végrehajtása során a magyar jog szabályai irányadók, ideértve a feltételes szabadság megszüntetésére, a próbára bocsátás megszüntetésére és büntetés kiszabására, a felfüggesztett szabadságvesztés végrehajtására, az előírt magatartási szabályok módosítására, a közérdekű munka átváltoztatására, a sportrendezvények látogatásától való eltiltás szabályainak megszegése esetén – szabálysértés miatt – büntetés vagy intézkedés kiszabására vagy alkalmazására, illetve a jóvátételi munka előírása esetén a büntetés kiszabására vonatkozó szabályokat. Az e bekezdésben foglalt határozatok meghozataláról a bíróság haladéktalanul értesíti a tagállami hatóságot.
+141. § (1) Az alternatív szankciót kiszabó tagállami határozat végrehajtása során a magyar jog szabályai irányadók, ideértve a feltételes szabadság megszüntetésére, a próbára bocsátás megszüntetésére és büntetés kiszabására, a felfüggesztett szabadságvesztés végrehajtására, az előírt magatartási szabályok módosítására, a közérdekű munka átváltoztatására, a sportrendezvények látogatásától való eltiltás szabályainak megszegése esetén – szabálysértés miatt – büntetés vagy intézkedés kiszabására vagy alkalmazására, illetve a jóvátételi munka előírása esetén a büntetés kiszabására vonatkozó szabályokat. Az e bekezdésben foglalt határozatok meghozataláról a bíróság írásban, haladéktalanul értesíti a tagállami hatóságot.
 
 (2) A bíróság a magatartási szabály vagy az alternatív szankció megsértéséről a 11. számú mellékletben szereplő formanyomtatványon haladéktalanul értesíti a tagállami hatóságot.
 
@@ -1273,11 +1522,13 @@ a bíróság az ilyen felfüggesztett szabadságvesztést, próbára bocsátást
 
 (2) Az alternatív szankciót kiszabó tagállami határozat végrehajtását a bíróság haladéktalanul megszünteti, ha a tagállamban az elítélt ellen új büntetőeljárás indult, és a végrehajtás megszüntetését a tagállami hatóság kéri.
 
-(3) A végrehajtás megszüntetéséről a bíróság haladéktalanul értesíti a tagállami hatóságot.
+(3) A végrehajtás megszüntetéséről a bíróság írásban, haladéktalanul értesíti a tagállami hatóságot.
 
 143. § Az alternatív szankciót kiszabó tagállami határozat végrehajtásának befejezéséről a bíróság a tagállami hatóságot írásban, posta, telefax vagy számítástechnikai rendszer útján értesíti. A számítástechnikai rendszer útján továbbított iratot minősített elektronikus aláírással kell ellátni.
 
 144. § Az alternatív szankciót kiszabó tagállami határozat elismerése és végrehajtása során felmerülő költségek bűnügyi költségnek minősülnek, amelyet a magyar állam visel.
+
+144/A. § Ha az alternatív szankciót kiszabó tagállami határozat eredményes végrehajtása érdekében szükséges, a bíróság és a tagállami hatóság egyeztetést folytat egymással. A bíróság a tagállami hatósággal való egyeztetés során tájékoztatást kérhet az alternatív szankciók végrehajtásáért felelős szervtől.
 
 #### 51. A végrehajtás átadása
 
@@ -1285,7 +1536,7 @@ a bíróság az ilyen felfüggesztett szabadságvesztést, próbára bocsátást
 
 - a) a szabadságvesztés végrehajtását felfüggeszti, próbára bocsátást alkalmaz, a szabadságvesztésre ítéltet feltételes szabadságra bocsátja, a próbaidőre, illetve a feltételes szabadság tartamára pártfogó felügyeletet rendel el, és a következő, egy vagy több magatartási szabályt állapítja meg:
   - aa) az elítélt a bűncselekmény elkövetésében részt vett, meghatározott személlyel ne tartson kapcsolatot;
-  - ab) az elítélt a bűncselekmény sértettjétől, illetve annak lakásától, munkahelyétől vagy attól a nevelési-oktatási intézménytől, ahová a sértett jár, tartsa távol magát;
+  - ab) az elítélt a bűncselekmény sértettjétől, illetve annak lakásától, munkahelyétől vagy attól a nevelési-oktatási intézménytől, ahová a sértett jár, továbbá a sértett által rendszeresen látogatott helytől tartsa távol magát;
   - ac) az elítélt meghatározott jellegű nyilvános helyeket és nyilvános rendezvényeket, továbbá meghatározott közterületeket ne látogasson;
   - ad) az elítélt nyilvános helyen ne fogyasszon szeszes italt;
   - ae) az elítélt meghatározott helyen és időközönként, meghatározott szervnél vagy személynél jelentkezzék;
@@ -1293,17 +1544,19 @@ a bíróság az ilyen felfüggesztett szabadságvesztést, próbára bocsátást
   - ag) az elítélt – hozzájárulása esetén – meghatározott gyógykezelésnek vagy gyógyító eljárásnak vesse alá magát;
   - ah)
   - ai) az elítélt a munkahelyének és a lakóhelyének megváltoztatására irányuló szándékát a pártfogó felügyelőnek előzetesen jelentse be;
-  - aj) az elítélt a pártfogó felügyelővel rendszeres kapcsolatot tartson;
+  - aj) az elítélt a pártfogó felügyelővel vagy a büntetés-végrehajtási pártfogó felügyelővel rendszeres kapcsolatot tartson, részére az ellenőrzéshez szükséges felvilágosítást megadja;
   - ak) az elítélt a bűncselekménnyel okozott kárt térítse meg,
+  - al) az elítélt a végrehajtó tagállam területét ne hagyja el;
+  - am) az elítélt a bűncselekmény elkövetéséhez felhasznált, meghatározott tárgyakat ne használjon,
 - b) közérdekű munkát szab ki,
 - c) sportrendezvények látogatásától való eltiltást szab ki,
 - d) a büntetés kiszabását egy évre elhalasztja, és jóvátételi munka végzését írja elő,
 
-akkor e magatartási szabályoknak és alternatív szankcióknak valamely tagállam által történő elismerése és végrehajtása érdekében a bíróság a jogerős ítéletet és a 10. mellékletben megjelölt tanúsítványt megküldi az elítélt személy lakóhelye vagy tartózkodási helye szerinti tagállam hatáskörrel rendelkező illetékes hatóságának, ha az elítélt visszatért vagy vissza kíván térni abba a tagállamba, vagy az elítélt kérelmére – ha családi, kulturális vagy gazdasági kapcsolataira tekintettel a társadalomba való beilleszkedésének elősegítését szolgálja – ettől eltérő tagállam hatáskörrel rendelkező illetékes hatóságának, feltéve hogy ez utóbbi a továbbításhoz hozzájárult.
+akkor e magatartási szabályoknak és alternatív szankcióknak valamely tagállam által történő elismerése és végrehajtása érdekében a bíróság a jogerős határozatot és a 10. mellékletben megjelölt tanúsítványt megküldi az elítélt személy lakóhelye vagy tartózkodási helye szerinti tagállam hatáskörrel rendelkező illetékes hatóságának, ha az elítélt visszatért vagy vissza kíván térni abba a tagállamba, vagy az elítélt kérelmére – ha családi, kulturális vagy gazdasági kapcsolataira tekintettel a társadalomba való beilleszkedésének elősegítését szolgálja – ettől eltérő tagállam hatáskörrel rendelkező illetékes hatóságának, feltéve hogy ez utóbbi a továbbításhoz hozzájárult.
 
 (2) Az elítélt kérelmét, illetve arra vonatkozó nyilatkozatát, hogy vissza kíván térni a lakóhelye vagy tartózkodási helye szerinti tagállamba, a bíróság jegyzőkönyvbe foglalja.
 
-(3) Az (1) bekezdésben meghatározott esetben a határozatot a tanúsítvánnyal együtt le kell fordítani a tagállam hivatalos nyelvére, hivatalos nyelveinek egyikére vagy a tagállam által megjelölt nyelvre. A bíróság a lefordított határozatot és a tanúsítványt a tagállam hatáskörrel és illetékességgel rendelkező hatósága számára posta, telefax vagy számítástechnikai rendszer útján továbbítja. A számítástechnikai rendszer útján továbbított határozatot minősített elektronikus aláírással kell ellátni. A határozatot és a tanúsítványt egyidejűleg csak egy tagállamba lehet továbbítani. Ha a bíróság a határozatot nem postai úton küldte meg, akkor kérelemre a határozat és a tanúsítvány eredeti példányát meg kell küldeni a tagállami hatóság számára.
+(3) Az (1) bekezdésben meghatározott esetben a határozatot a tanúsítvánnyal együtt le kell fordítani a tagállam hivatalos nyelvére, hivatalos nyelveinek egyikére vagy a tagállam által megjelölt nyelvre. A bíróság a lefordított határozatot és a tanúsítványt a tagállam hatáskörrel és illetékességgel rendelkező hatósága számára posta, telefax vagy számítástechnikai rendszer útján továbbítja. A számítástechnikai rendszer útján továbbított határozatot minősített elektronikus aláírással kell ellátni. A határozatot és a tanúsítványt egyidejűleg csak egy tagállamba lehet továbbítani. Ha a bíróság a határozatot és a tanúsítványt nem postai úton küldte meg, akkor kérelemre a határozat és a tanúsítvány eredeti példányát meg kell küldeni a tagállami hatóság számára.
 
 (4) Ha a rendelkezésre álló adatok alapján nem állapítható meg, hogy a tagállamban a határozat elismerésére és végrehajtására melyik tagállami hatóság rendelkezik hatáskörrel és illetékességgel, a kapcsolatfelvételhez szükséges adatokat az Európai Igazságügyi Hálózat kapcsolattartó pontjain keresztül kell beszerezni.
 
@@ -1325,11 +1578,13 @@ akkor e magatartási szabályoknak és alternatív szankcióknak valamely tagál
 
 (3) A (2) bekezdés d) pontjában foglalt határozatok meghozataláról, valamint a végrehajtás idejének leteltéről a bíróság haladéktalanul tájékoztatja a tagállami hatóságot.
 
+(4) Ha a (2) bekezdés alapján a továbbiakban a végrehajtást a magyar szabályok szerint a bíróság folytatja, akkor a 145. § (1) bekezdésében meghatározott, a magatartási szabályok alapjául szolgáló pártfogó felügyeletnek vagy az alternatív szankcióknak a bíróság által meghatározott tartamába a tagállami végrehajtás teljes tartamát be kell számítani.
+
 147. § (1) Ha a határozat eredményes végrehajtása érdekében szükséges, a bíróság és a tagállami hatóság egyeztetést folytat egymással.
 
-(2) A bíróság a határozatának hatályon kívül helyezéséről vagy végrehajthatóságának megszűnéséről haladéktalanul értesíti a tagállami hatóságot.
+(2) A bíróság a határozatának hatályon kívül helyezéséről vagy végrehajthatóságának megszűnéséről írásban, haladéktalanul értesíti a tagállami hatóságot.
 
-(3) A bíróság haladéktalanul értesíti a tagállami hatóságot, ha olyan körülményt észlel, amely a feltételes szabadság megszüntetését, a próbára bocsátás megszüntetését és büntetés kiszabását, a felfüggesztett szabadságvesztés végrehajtását, az előírt magatartási szabályok módosítását, a közérdekű munka átváltoztatását, a sportrendezvények látogatásától való eltiltás kiszabása esetén büntetés vagy intézkedés kiszabását vagy alkalmazását vagy jóvátételi munka előírása esetén büntetés kiszabását alapozhatja meg.
+(3) A bíróság írásban, haladéktalanul értesíti a tagállami hatóságot, ha olyan körülményt észlel, amely a feltételes szabadság megszüntetését, a próbára bocsátás megszüntetését és büntetés kiszabását, a felfüggesztett szabadságvesztés végrehajtását, az előírt magatartási szabályok módosítását, a közérdekű munka átváltoztatását, a sportrendezvények látogatásától való eltiltás kiszabása esetén büntetés vagy intézkedés kiszabását vagy alkalmazását vagy jóvátételi munka előírása esetén büntetés kiszabását alapozhatja meg.
 
 ### X. Fejezet — PÉNZBÜNTETÉS VÉGREHAJTÁSÁRA IRÁNYULÓ JOGSEGÉLY
 
@@ -1358,7 +1613,7 @@ végrehajtása iránti megkeresés esetén a bíróság dönt a megkeresés alap
 
 (8) Ha a tagállami hatóság olyan cselekmény miatt terjeszt elő jogsegély iránt megkeresést, amely államának joga szerint bűncselekmény, de a magyar jog szerint szabálysértés, a bíróság erről értesíti a megkereső tagállami hatóságot. Ha a tagállami hatóság az értesítésre adott nyilatkozatában a jogsegély teljesítése iránti kérelmét fenntartja, a bíróság a megkeresést teljesítés végett átteszi a szabálysértési jogsegélyről szóló törvényben meghatározott központi hatósághoz.
 
-149. § (1) A bíróság a pénzbüntetést kiszabó tagállami határozat elismerését és végrehajtását megtagadja, ha
+149. § (1) A bíróság a pénzbüntetést kiszabó tagállami határozat elismerését és végrehajtását megtagadhatja, ha
 
 - a) a keresett személy gyermekkor miatt nem büntethető;
 - b) a 148. § (7) bekezdésében meghatározott esetben, ha a pénzbüntetést kiszabó tagállami határozat alapjául szolgáló cselekmény a magyar törvény szerint nem bűncselekmény;
@@ -1370,17 +1625,22 @@ végrehajtása iránti megkeresés esetén a bíróság dönt a megkeresés alap
 - h) a természetes személy terhelt közjogi tisztség betöltésén vagy nemzetközi jogon alapuló mentességet élvez, és a mentelmi jogát nem függesztették fel;
 - i) a pénzbüntetést kiszabó tagállami határozatban meghatározott összeg vagy annak a tagállami határozat jogerőre emelkedésének napján érvényes, a Magyar Nemzeti Bank által közzétett átváltási árfolyamon euróra átszámított összege nem haladja meg a 70 eurót.
 
-(2) A bíróság a pénzbüntetést kiszabó tagállami határozat elismerését és végrehajtását megtagadja, ha azt a terhelt távollétében hozták, kivéve, ha a tanúsítványból egyértelműen megállapítható, hogy a tagállami joggal összhangban
+(2) A bíróság a pénzbüntetést kiszabó tagállami határozat elismerését és végrehajtását megtagadhatja, ha azt a terhelt távollétében hozták, kivéve, ha a tanúsítványból egyértelműen megállapítható, hogy a tagállami joggal összhangban
 
 - a) a terheltet megfelelő időben, határnapot és helyet megjelölve, közvetlenül idézték a tárgyalásra vagy arról más módon hivatalosan tudomást szerzett, továbbá tájékoztatták arról, hogy a tárgyalás a távollétében is megtartható, vele szemben az eljárás határozattal befejezhető,
 - b) a kitűzött tárgyalás ismeretében a terhelt a tárgyaláson való képviseletére
   - ba) védőt hatalmazott meg vagy
-  - bb) számára védőt rendeltek ki, és a kirendelés ismeretében annak személyét nem kifogásolta,és a meghatalmazott vagy a kirendelt védő a terhelt érdekében a tárgyaláson eljárt, vagy
-- c) a pénzbüntetést kiszabó tagállami határozat kézbesítése megtörtént, az elítélt tájékoztatást kapott a rendes, illetve a rendkívüli jogorvoslati lehetőségekről, de a rendelkezésre álló határidőn belül erre irányuló indítványt nem tett, vagy jelezte, hogy nem vitatja a távollétében hozott határozatot.
+  - bb) számára védőt rendeltek ki, és a kirendelés ismeretében annak személyét nem kifogásolta,és a meghatalmazott vagy a kirendelt védő a terhelt érdekében a tárgyaláson eljárt,
+- c) a pénzbüntetést kiszabó tagállami határozat kézbesítése megtörtént, az elítélt tájékoztatást kapott a rendes, illetve a rendkívüli jogorvoslati lehetőségekről, de a rendelkezésre álló határidőn belül erre irányuló indítványt nem tett, vagy jelezte, hogy nem vitatja a távollétében hozott határozatot, vagy
+- d) az érintett személy a kitűzött tárgyaláson való személyes részvétel lehetőségének ismeretében kifejezetten lemondott a szóbeli meghallgatásra vonatkozó jogáról és jelezte, hogy nem vitatja a távollétében hozott határozatot.
 
 (3) A bíróság a pénzbüntetést kiszabó tagállami határozat elismerését és végrehajtását megtagadhatja, ha a tagállami hatóság által megküldött tanúsítvány hiányos, vagy a tanúsítvány hiányzik. A hiánypótlásra a 96. § (2)–(4) bekezdésének rendelkezéseit értelemszerűen kell alkalmazni. A pénzbüntetést kiszabó tagállami határozat elismerését és végrehajtását meg kell tagadni, ha a hiánypótlásra, kijavításra tűzött határidő eredménytelenül telt el, vagy a kiegészített tanúsítvány végrehajtása továbbra sem lehetséges.
 
+(4) A tagállami határozat végrehajtása megtagadható, ha a megkeresés olyan bűncselekményre vonatkozik, amelyet egészben vagy részben Magyarország területén követtek el.
+
 150. § (1) A pénzbüntetést kiszabó tagállami határozat elismerésének és végrehajtásának megtagadásáról a bíróság indokolt határozatot hoz, amelyet a tagállami hatóság részére megküld.
+
+(1a) A 149. § (1) bekezdés c) pontja és a 149. § (2) bekezdése esetén a pénzbüntetést kiszabó tagállami határozat elismeréséről és végrehajtásáról döntő határozat meghozatala előtt a bíróság konzultál a tagállami hatósággal, és felkéri, hogy haladéktalanul küldje meg számára a határozat meghozatalához szükséges információkat a pénzbüntetést kiszabó határozat eredményes elismerése és végrehajtása érdekében.
 
 (2) Az (1) bekezdés szerinti határozat ellen jogorvoslatnak helye nincs.
 
@@ -1402,11 +1662,13 @@ végrehajtása iránti megkeresés esetén a bíróság dönt a megkeresés alap
 
 (3) Ha a megkeresésben megjelölt cselekmény nem tartozik magyar büntető joghatóság alá, a tagállami pénzbüntetés határozatban, illetve tanúsítványban megjelölt mértékének megváltoztatása nélkül a bíróság a napi tételek számát a Btk. 50. §-ának megfelelően határozza meg. Ha a tagállami pénzbüntetés mértéke meghaladja a Btk. szerint kiszabható legmagasabb mértéket, a napi tétel összege a Btk. 50. §-ában megjelöltnél magasabb összegben is meghatározható.
 
+(3a) Ha a megkeresésben megjelölt cselekmény nem tartozik a magyar büntető joghatóság alá, és a tagállami hatóság a tanúsítványban az alternatív szankcióként kiszabható szabadságvesztés időtartama felső határának egyidejű meghatározásával megjelölte, hogy a tagállami pénzbüntetés végrehajthatatlansága esetére az átváltoztatáshoz hozzájárul, a bíróság a pénzbüntetés napi tételének számát ezen időtartamnak megfelelően határozza meg. A bíróság a pénzbüntetés egynapi tételének megfelelő összeget a tagállami pénzbüntetés összege és a meghatározott napi tétel számának hányadosa alapján határozza meg. Az így kapott összeg a Btk. 50. §-ában megjelöltnél magasabb összegben is meghatározható.
+
 (4) Ha a tagállami hatóság a tanúsítványban megjelölte, hogy a tagállami pénzbüntetés végrehajthatatlansága esetére az átváltoztatásához hozzájárul, a pénzbüntetés meg nem fizetése esetén a Bv. tvr. 68. § (3a) és (3b) bekezdését, valamint a Be. 563. §-át értelemszerűen alkalmazni kell. A bíróság az átváltoztatásról a tagállami hatóságot a jogerős határozat megküldésével tájékoztatja.
 
 (5) A jogi személlyel szemben alkalmazott pénzbírság esetén a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló 2001. évi CIV. törvény 6. §-ában meghatározott korlátozás nem alkalmazható.
 
-(6) A bíróság határozata ellen, ha e törvény nem zárja ki, fellebbezésnek van helye, amelyet a törvényszék tanácsülésen bírál el.
+(6) A bíróság határozata ellen, ha e törvény nem zárja ki, fellebbezésnek van helye, amelyet a törvényszék tanácsülésen bírál el. A fellebbezésnek a határozat végrehajtására halasztó hatálya van. A fellebbezésben a vagyonelkobzást elrendelő tagállami határozat nem támadható. A fellebbezés tényéről az első fokon eljárt bíróság értesíti a tagállami hatóságot.
 
 153. § (1) Az összeg megfizetéséről, illetve az eljárási költség megfizetésére kötelezést követően a végrehajtási eljárás eredményéről a bíróság tájékoztatja a tagállami hatóságot.
 
@@ -1418,7 +1680,9 @@ végrehajtása iránti megkeresés esetén a bíróság dönt a megkeresés alap
 
 154. § (1) A pénzbüntetésnek egy másik tagállamban való végrehajtása iránt a bíróság, amelynek eljárásában a pénzbüntetés, a bűnügyi költség végrehajthatóvá válik, a hatáskörrel rendelkező és illetékes tagállami hatósághoz címzett közvetlen megkeresés útján intézkedhet, feltéve, hogy a pénzbüntetés összege a határozat jogerőre emelkedésének napján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamon átszámítva meghaladja a 70 eurót.
 
-(2) A bíróság kiállítja a 13. számú mellékletben szereplő tanúsítványt, amelyet a végrehajtó tagállam hivatalos nyelvére vagy a tagállam által megjelölt nyelvre lefordítva posta, telefax vagy számítástechnikai rendszer útján továbbít. A számítástechnikai rendszer útján továbbított határozatot minősített elektronikus aláírással kell ellátni.
+(2) A bíróság kiállítja a 13. számú mellékletben szereplő tanúsítványt, amelyet – a megkeresés alapjául szolgáló határozattal vagy annak hitelesített másolatával együtt – a végrehajtó tagállam hivatalos nyelvére vagy a tagállam által megjelölt nyelvre lefordítva posta, telefax vagy számítástechnikai rendszer útján továbbít a hatáskörrel rendelkező és illetékes tagállami hatósághoz. A számítástechnikai rendszer útján továbbított határozatot minősített elektronikus aláírással kell ellátni.
+
+(2a) Ha a bíróság a határozatot és a tanúsítványt nem postai úton küldte meg, akkor kérelemre a határozat és a tanúsítvány eredeti példányát megküldi a tagállami hatóság számára.
 
 (3) Ha a pénzbüntetés, a bűnügyi költség végrehajtása egyidejűleg több tagállamban is lehetséges, a bíróság az összes körülmény mérlegelésével határoz arról, hogy a végrehajtás iránti megkeresést melyik tagállamba küldi meg. A megkeresést egyidejűleg csak egy tagállamba lehet továbbítani.
 
@@ -1427,6 +1691,13 @@ végrehajtása iránti megkeresés esetén a bíróság dönt a megkeresés alap
 155. § (1) A bíróság a végrehajtási eljárás megszüntetésére vagy felfüggesztésére, továbbá a végrehajtás alá eső összeg csökkentésére okot adó körülményről haladéktalanul tájékoztatja a végrehajtó tagállamban eljáró hatóságot.
 
 (2) A tanúsítványban meg kell jelölni, hogy a pénzbüntetés végrehajthatatlansága esetén a bíróság a büntetés átváltoztatásához hozzájárul.
+
+155/A. § Ha
+
+- a) a tagállami hatóság a 149. §-ban – a 149. § (1) bekezdés d–e) pontja kivételével – meghatározott okból a bíróság pénzbüntetést kiszabó határozatának elismerését és végrehajtását megtagadja, vagy
+- b) a bíróság a tanúsítványt a 155. § (1) bekezdése szerint visszavonta, és erről a tagállami hatóságot értesítette
+
+és a tagállami hatóság a végrehajtást ez alapján megszüntette, a továbbiakban a bíróság a végrehajtást a magyar szabályok szerint folytatja.
 
 ### XI. Fejezet — VAGYONELKOBZÁS VÉGREHAJTÁSÁRA IRÁNYULÓ JOGSEGÉLY
 
@@ -1463,7 +1734,7 @@ szerinti törvényszék székhelyén működő járásbíróság, Budapesten a B
 
 157. § A vagyonelkobzást elrendelő tagállami határozat elismeréséről és végrehajtásáról hozott bírósági határozat végrehajtása vagyonelkobzás esetén a törvényszéki végrehajtó feladata.
 
-158. § (1) A bíróság a vagyonelkobzást elrendelő tagállami határozat elismerését és végrehajtását megtagadja,
+158. § (1) A bíróság a vagyonelkobzást elrendelő tagállami határozat elismerését és végrehajtását megtagadhatja,
 
 - a) a 156. § (7) bekezdésében meghatározott esetben, ha a vagyonelkobzást elrendelő tagállami határozat alapjául szolgáló cselekmény a magyar törvény szerint nem bűncselekmény;
 - b) ha Magyarországon vagy egy másik tagállamban a vagyonelkobzást elrendelő tagállami határozat alapjául szolgáló cselekmény miatt korábban már olyan határozatot hoztak, amely a büntetőeljárás megindításának akadályát képezi, vagy amely alapján a végleges tulajdonvesztést jelentő szankciót végrehajtották, annak végrehajtása folyamatban van, illetve a jogerős határozatot hozó tagállam joga szerint az nem hajtható végre;
@@ -1471,9 +1742,10 @@ szerinti törvényszék székhelyén működő járásbíróság, Budapesten a B
 - d) ha a tagállami hatóság által megküldött tanúsítvány nyilvánvalóan nem a mellékelt vagyonelkobzást elrendelő tagállami határozatra vonatkozik;
 - e) ha a terhelt közjogi tisztség betöltésén alapuló mentességet, illetve nemzetközi jogon alapuló mentességet élvez, és a mentelmi jogot nem függesztették fel, illetve a nemzetközi jogon alapuló mentességet nem függesztették fel;
 - f) ha a vagyonelkobzást a tagállami határozathoz csatolt tanúsítvány i. pont 1.2. iii vagy iv alpontja szerinti vagyonra kell elrendelni, de a Btk. 74. § (1) bekezdés b) pontja a vagyonelkobzásra nem ad lehetőséget;
-- g) ha a vagyonelkobzást elrendelő tagállami határozat alapjául szolgáló bűncselekmény magyar joghatóság alá tartozik, és a bűncselekményre a magyar törvény szerint közkegyelem terjed ki.
+- g) ha a vagyonelkobzást elrendelő tagállami határozat alapjául szolgáló bűncselekmény magyar joghatóság alá tartozik, és a bűncselekményre a magyar törvény szerint közkegyelem terjed ki;
+- h) ha a vagyonelkobzás elrendelésére a Btk. 74. § (5) bekezdése alapján nincs lehetőség.
 
-(2) A bíróság a vagyonelkobzást elrendelő tagállami határozat elismerését és végrehajtását megtagadja, ha azt a terhelt távollétében hozták, kivéve, ha a tanúsítványból egyértelműen megállapítható, hogy a tagállami joggal összhangban
+(2) A bíróság a vagyonelkobzást elrendelő tagállami határozat elismerését és végrehajtását megtagadhatja, ha azt a terhelt távollétében hozták, kivéve, ha a tanúsítványból egyértelműen megállapítható, hogy a tagállami joggal összhangban
 
 - a) a terheltet megfelelő időben, határnapot és helyet megjelölve, közvetlenül idézték a tárgyalásra vagy arról más módon hivatalosan tudomást szerzett, továbbá tájékoztatták arról, hogy a tárgyalás a távollétében is megtartható, vele szemben az eljárás határozattal befejezhető,
 - b) a kitűzött tárgyalás ismeretében a terhelt a tárgyaláson való képviseletére
@@ -1481,7 +1753,11 @@ szerinti törvényszék székhelyén működő járásbíróság, Budapesten a B
   - bb) számára védőt rendeltek ki, és a kirendelés ismeretében annak személyét nem kifogásolta,és a meghatalmazott vagy a kirendelt védő a terhelt érdekében a tárgyaláson eljárt, vagy
 - c) a vagyonelkobzást elrendelő tagállami határozat kézbesítése megtörtént, az elítélt tájékoztatást kapott a rendes, illetve a rendkívüli jogorvoslati lehetőségekről, de a rendelkezésre álló határidőn belül erre irányuló indítványt nem tett, vagy jelezte, hogy nem vitatja a távollétében hozott határozatot.
 
-(3) A bíróság a vagyonelkobzást elrendelő tagállami határozat elismerését és végrehajtását megtagadja, ha a tagállami bíróság által megküldött tanúsítvány hiányos, vagy a tanúsítvány hiányzik, és a hiánypótlásra, kijavításra tűzött határidő eredménytelenül telt el, illetve a kiegészített tanúsítvány végrehajtása továbbra sem lehetséges. A hiánypótlásra a 96. § (2)–(4) bekezdésének rendelkezéseit értelemszerűen alkalmazni kell.
+(3) A bíróság a vagyonelkobzást elrendelő tagállami határozat elismerését és végrehajtását megtagadhatja, ha a tagállami bíróság által megküldött tanúsítvány hiányos, vagy a tanúsítvány hiányzik, és a hiánypótlásra, kijavításra tűzött határidő eredménytelenül telt el, illetve a kiegészített tanúsítvány végrehajtása továbbra sem lehetséges. A hiánypótlásra a 96. § (2)–(4) bekezdésének rendelkezéseit értelemszerűen alkalmazni kell.
+
+(3a) A vagyonelkobzást elrendelő tagállami határozat elismerése és végrehajtása nem tagadható meg az adókkal és az illetékekkel, a vámokkal és a devizával kapcsolatos bűncselekmények esetén amiatt, hogy a magyar jog nem ismer ugyanolyan adót, illetéket, valamint vámmal, illetve adóval, illetékkel azonos hatású díjat, vagy nem tartalmaz ugyanolyan típusú szabályokat az adó-, illeték-, valamint vám- és devizaszabályozás terén, mint a kibocsátó tagállam joga.
+
+(3b) A bíróság a vagyonelkobzást elrendelő tagállami határozat végrehajtásának megtagadásáról szóló határozat meghozatala előtt konzultációt folytat a tagállami hatósággal, ha valószínűsíthető, hogy a megtagadásra az (1) bekezdés c), f) és g) pontja, a (2) bekezdés vagy a (3) bekezdés miatt kerülne sor, valamint az (1) bekezdés h) pontja esetében is, ha nem került sor a tagállami hatóság 159. § (7) bekezdése szerinti értesítésére.
 
 (4) A vagyonelkobzást elrendelő tagállami határozat végrehajtásának megtagadásáról a bíróság indokolt határozatot hoz, amelyet a tagállami hatóság részére megküld.
 
@@ -1507,6 +1783,8 @@ tartalmaz rendelkezést, és a b) pont esetében a természetes vagy a jogi szem
 
 (7) A bíróság határozata ellen, ha e törvény nem zárja ki, fellebbezésnek van helye, amelyet a törvényszék tanácsülésen bírál el. A fellebbezésnek a határozat végrehajtására halasztó hatálya van. A fellebbezésben a vagyonelkobzást elrendelő tagállami határozat nem támadható. A fellebbezés tényéről az első fokon eljárt bíróság értesíti a tagállami hatóságot.
 
+(8) A bíróság a pénzösszeg megfizetéséről, illetve a meghatározott vagyontárgyra vonatkozó végrehajtási eljárás eredményéről tájékoztatja a tagállami hatóságot.
+
 160. § (1) A bíróság az eljárást felfüggeszti,
 
 - a) ha a vagyonelkobzást elrendelő tagállami határozat meghatározott pénzösszegre vonatkozik, és a tanúsítványból megállapítható, hogy a határozatot egyidejűleg több tagállamnak küldték meg, és a bíróság szerint megalapozottan feltehető, hogy fennáll annak a veszélye, hogy Magyarország és az érintett többi tagállam területén történő végrehajtásból származó teljes összeg meghaladja a tagállami határozatban meghatározott pénzösszeget;
@@ -1525,16 +1803,16 @@ tartalmaz rendelkezést, és a b) pont esetében a természetes vagy a jogi szem
 (4) Az (1) bekezdés b) pontja szerinti felfüggesztés esetén a büntetőeljárás jogerős befejezését követően a bíróság a vagyonelkobzást elrendelő tagállami határozat végrehajtását
 
 - a) elrendeli, ha a büntetőeljárásban a vagyonelkobzást elrendelő tagállami határozat alapján az elkobzás alá eső dolog, vagy a vagyonelkobzás alá eső vagyon elkobzását vagy vagyonelkobzását nem rendelték el;
-- b) megtagadja, ha a vagyonelkobzást elrendelő tagállami határozat alapján az elkobzás alá eső dolog, vagy a vagyonelkobzás alá eső vagyon elkobzását vagy vagyonelkobzását a büntetőeljárásban elrendelték.
+- b) megtagadhatja, ha a vagyonelkobzást elrendelő tagállami határozat alapján az elkobzás alá eső dolog, vagy a vagyonelkobzás alá eső vagyon elkobzását vagy vagyonelkobzását a büntetőeljárásban elrendelték.
 
 (5) Az (1) bekezdés c) pontja szerinti felfüggesztést követően a bíróság
 
 - a) az eljárást folytatja, ha a hiánypótlást, kijavítást a tagállami hatóság a megadott határidőig teljesítette;
-- b) a vagyonelkobzást elrendelő tagállami határozat végrehajtását megtagadja, ha a hiánypótlásra, kijavításra tűzött határidő eredménytelenül telt el, illetve a kiegészített tanúsítvány alapján a végrehajtás továbbra sem lehetséges.
+- b) a vagyonelkobzást elrendelő tagállami határozat végrehajtását megtagadhatja, ha a hiánypótlásra, kijavításra tűzött határidő eredménytelenül telt el, illetve a kiegészített tanúsítvány alapján a végrehajtás továbbra sem lehetséges.
 
-(6) Az (1) bekezdés d) pontja szerinti felfüggesztést követően a bíróság megkeresi a tagállami hatóságot, hogy a határozata végrehajtásának tényét harminc napon belül igazolja. Ha a megadott határidőn belül a tagállami hatóság igazolja határozata végrehajtásának tényét, vagy a megadott határidőn belül nem válaszol, a bíróság határozatában a vagyonelkobzást elrendelő tagállami határozat végrehajtását megtagadja. Ha a tagállami hatóság azt igazolja, hogy határozatának végrehajtása nem történt meg, a bíróság az eljárást folytatja.
+(6) Az (1) bekezdés d) pontja szerinti felfüggesztést követően a bíróság megkeresi a tagállami hatóságot, hogy a határozata végrehajtásának tényét harminc napon belül igazolja. Ha a megadott határidőn belül a tagállami hatóság igazolja határozata végrehajtásának tényét, vagy a megadott határidőn belül nem válaszol, a bíróság határozatában a vagyonelkobzást elrendelő tagállami határozat végrehajtását megtagadhatja. Ha a tagállami hatóság azt igazolja, hogy határozatának végrehajtása nem történt meg, a bíróság az eljárást folytatja.
 
-(7) Az (1) bekezdés e) pontja szerinti felfüggesztést követően a bíróság megkeresi a kulturális örökségvédelmi hatóságot annak megállapítása céljából, hogy az elkobzás alá eső dolog vagy vagyonelkobzás alá eső vagyontárgy a kulturális örökség védett eleme-e. Ha a kulturális örökségvédelmi hatóság megállapítja, hogy az adott dolog vagy vagyontárgy a kulturális örökség védett eleme, a bíróság az elkobzás vagy a vagyonelkobzás végrehajtását úgy rendeli el, hogy a tárgy a magyar állam tulajdonába és a Magyar Nemzeti Vagyonkezelő Zrt. tulajdonosi joggyakorlása alá kerüljön, és ezzel egyidejűleg értesíti a tagállami hatóságot, hogy az a dolog vagy vagyontárgy, amelyre a vagyonelkobzást elrendelő tagállami határozat vonatkozik, nemzeti kulturális örökséghez tartozó tárgy, így annak átadását megtagadja. Ha a dolog vagy a vagyontárgy nem a kulturális örökség védett eleme, akkor a bíróság az eljárást folytatja.
+(7) Az (1) bekezdés e) pontja szerinti felfüggesztést követően a bíróság megkeresi a kulturális örökségvédelmi hatóságot annak megállapítása céljából, hogy az elkobzás alá eső dolog vagy vagyonelkobzás alá eső vagyontárgy a kulturális örökség védett eleme-e. Ha a kulturális örökségvédelmi hatóság megállapítja, hogy az adott dolog vagy vagyontárgy a kulturális örökség védett eleme, a bíróság az elkobzás vagy a vagyonelkobzás végrehajtását úgy rendeli el, hogy a tárgy a magyar állam tulajdonába és a Magyar Nemzeti Vagyonkezelő Zrt. tulajdonosi joggyakorlása alá kerüljön, és ezzel egyidejűleg értesíti a tagállami hatóságot, hogy az a dolog vagy vagyontárgy, amelyre a vagyonelkobzást elrendelő tagállami határozat vonatkozik, nemzeti kulturális örökséghez tartozó tárgy, így annak átadását megtagadhatja. Ha a dolog vagy a vagyontárgy nem a kulturális örökség védett eleme, akkor a bíróság az eljárást folytatja.
 
 161. § A tagállami hatóságnak a vagyonelkobzást elrendelő tagállami határozat hatályon kívül helyezéséről, visszavonásáról, vagy végrehajthatóságának megszűnéséről szóló értesítése alapján a végrehajtást haladéktalanul meg kell szüntetni.
 
@@ -1632,7 +1910,7 @@ rendel el, vagy határoz meg.
 
 #### 55/D. Az elismerés és végrehajtás megtagadása
 
-163/E. § (1) A bíróság vagy az ügyész az európai védelmi határozat elismerését és végrehajtását megtagadja, ha
+163/E. § (1) A bíróság vagy az ügyész az európai védelmi határozat elismerését és végrehajtását megtagadhatja, ha
 
 - a) az európai védelmi határozat hiányos vagy pontatlan, és a hiánypótlásra, kijavításra tűzött határidő eredménytelenül telt el vagy a kiegészített, javított európai védelmi határozat elismerése, végrehajtása továbbra sem lehetséges;
 - b) az európai védelmi határozat alapjául szolgáló cselekmény a magyar törvény szerint nem bűncselekmény;
@@ -1785,7 +2063,7 @@ a bíróság vagy az ügyész az európai védelmi határozatot megfelelően mó
 164. § E fejezet alkalmazásában
 
 - 1. hatáskörrel rendelkező hatóság: a tagállamok mindazon állami szervei, amelyek a nemzeti jog szerint a bűncselekmények megelőzésére, felderítésére és üldözésére hatáskörrel rendelkeznek,
-- 2. Magyarország hatáskörrel rendelkező hatósága: a Be.-ben meghatározott nyomozó hatóság, a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben meghatározott pénzügyi információs egységként működő hatóság, az Rtv.-ben meghatározott terrorizmust elhárító szerv, továbbá a szervezett bűnözés elleni koordinációt végző szerv,
+- 2. Magyarország hatáskörrel rendelkező hatósága: a Be.-ben meghatározott nyomozó hatóság, a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben meghatározott pénzügyi információs egységként működő hatóság, az Rtv.-ben meghatározott terrorizmust elhárító szerv, továbbá a szervezett bűnözés elleni koordinációt végző szerv, valamint az Alkotmányvédelmi Hivatal,
 - 3. nemzeti egység: az adott tagállam által az Europollal való kapcsolattartásra kijelölt rendvédelmi szerv vagy az adott tagállam valamely rendvédelmi szervének az Europollal való kapcsolattartásra kijelölt szervezeti egysége.
 
 #### 57. Az Europol jogállása és rendeltetése
@@ -1938,9 +2216,9 @@ való megfelelést szolgálja.
 
 ### 1. számú melléklet a 2012. évi CLXXX. törvényhez
 
-E törvény 3. § (2)–(3) bekezdése, 25. § (3) bekezdése, 50. § (3) bekezdése, 51. § (4) bekezdése, 94. §-a és 156. § (6)–(7) bekezdése értelmében a bűncselekményfajtákhoz a Btk. következő bűncselekményei tartoznak:
+E törvény 3. § (2)–(3) bekezdése, 25. § (5) bekezdése, 50. § (3) bekezdése, 51. § (4) bekezdése, 94. §-a és 156. § (6)–(7) bekezdése értelmében a bűncselekményfajtákhoz a Btk. következő bűncselekményei tartoznak:
 
-5K08044M_0
+6K70889M_0
 
 |  | A | B | C | D | E |
 | --- | --- | --- | --- | --- | --- |
@@ -1990,7 +2268,7 @@ E törvény 3. § (2)–(3) bekezdése, 25. § (3) bekezdése, 50. § (3) bekezd
 | 43. | pénzhamisítás elősegítése bűntette | 390. § (2) bekezdés |  |  |
 | 44. | számítógépes bűncselekmények | információs rendszer felhasználásával elkövetett csalás bűntette | 375. § | számítástechnikai rendszer és adatok elleni bűncselekmény készpénz-helyettesítő fizetési eszközzel visszaélés | 300/C. § (3)-(4 bekezdés 313/C. § (1)-(6) |
 | 45. |  | tiltott adatszerzés bűntette | 422. § (1) bekezdés d) pont, (3)–(4) bekezdés | magántitok jogosulatlan megismerése | 178/A. § |
-| 46. |  | információs rendszer vagy adat megsértésének bűntette | 423. § (2)–(3) bekezdés | számítástechnikai rendszer és adatok elleni bűntett | 300/C. § (3)–(4) bekezdés |
+| 46. |  | információs rendszer vagy adat megsértésének bűntette | 423. § (2)–(4) bekezdés | számítástechnikai rendszer és adatok elleni bűntett | 300/C. § (3)–(4) bekezdés |
 | 47. | környezettel kapcsolatos bűncselekmények, ideértve a veszélyeztetett állatfajok, a veszélyeztetett növény fajok és növényfajták tiltott kereskedelmét is | környezetkárosítás bűntette | 241. § (1) bekezdés | környezetkárosítás bűntette | 280. § (1)–(2) bekezdés |
 | 48. |  | helyrehozhatatlan károsodást okozó környezetkárosítás vétsége | 241. § (2) bekezdés 3. fordulata | helyrehozhatatlan károsodást okozó környezetkárosítás vétsége | 280. § (3) bekezdés 3. fordulata |
 | 49. |  | természetkárosítás bűntette | 242. § (1)–(2) bekezdés 243. § (1)–(2) bekezdés | természetkárosítás bűntette | 281. § (1)–(3) bekezdés |
@@ -2645,7 +2923,7 @@ TANÚSÍTVÁNY
 | --- |
 |  |
 
-| f) Összefüggés egy esetleges korábbi európai elfogatóparanccsal (EEP): □ Szabadságvesztés-büntetés vagy szabadságelvonással járó intézkedés végrehajtása céljából európai elfogatóparancsot bocsátottak ki, és a végrehajtó állam vállalja a büntetés vagy a szabadságelvonással járó intézkedés végrehajtását (az európai elfogatóparancsról szóló kerethatározat 4. cikkének (6) bekezdése). Az EEP kibocsátásának dátuma és - ha rendelkezésre áll - hivatkozási száma: ................................................................................................................................................................................... Az európai elfogatóparancsot kibocsátó hatóság megnevezése: ................................................................................... A végrehajtásról szóló határozat dátuma és - ha rendelkezésre áll - hivatkozási száma: ................................................................................................................................................................................... Az ítélet végrehajtásáról szóló határozatot hozó hatóság megnevezése: .................................................................................................................................................................................. □ Büntetőeljárás lefolytatása céljából európai elfogatóparancs kibocsátására került sor egy olyan személlyel szemben, aki a végrehajtó állam állampolgára vagy lakosa, és a végrehajtó állam azzal a feltétellel adta át az érintettet, hogy őt az ellene a kibocsátó államban hozott szabadságvesztés-büntetés vagy szabadságelvonással járó intézkedés letöltése érdekében vissza kell küldeni a végrehajtó államba (az európai elfogatóparancsról szóló kerethatározat 5. cikkének (3) bekezdése). A személy átadására vonatkozó határozat kiállításának dátuma: ............................................................................. Az átadásról szóló határozatot hozó hatóság megnevezése: ..................................................................................... A határozat hivatkozási száma, ha rendelkezésre áll: ............................................................................................... A személy átadásának dátuma, ha rendelkezésre áll: ................................................................................................ |
+| f) Összefüggés egy esetleges korábbi európai elfogatóparanccsal (EEP): □ Szabadságvesztés-büntetés vagy szabadságelvonással járó intézkedés végrehajtása céljából európai elfogatóparancsot bocsátottak ki, és a végrehajtó állam vállalja a büntetés vagy a szabadságelvonással járó intézkedés végrehajtását (az európai elfogatóparancsról szóló kerethatározat 4. cikkének (6) bekezdése). Az EEP kibocsátásának dátuma és - ha rendelkezésre áll - hivatkozási száma: ................................................................................................................................................................................... Az európai elfogatóparancsot kibocsátó hatóság megnevezése: ................................................................................... A végrehajtásról szóló határozat dátuma és - ha rendelkezésre áll - hivatkozási száma: ................................................................................................................................................................................... Az ítélet végrehajtásáról szóló határozatot hozó hatóság megnevezése: .................................................................................................................................................................................. □ Büntetőeljárás lefolytatása céljából európai elfogatóparancs kibocsátására került sor egy olyan személlyel szemben, aki a végrehajtó állam állampolgára vagy lakosa, és a végrehajtó állam azzal a feltétellel adta át az érintettet, hogy őt az ellene a kibocsátó államban hozott szabadságvesztés-büntetés vagy szabadságelvonással járó intézkedés letöltése érdekében vissza kell küldeni a végrehajtó államba (az európai elfogatóparancsról szóló kerethatározat 5. cikkének (3) bekezdése). A személy átadására vonatkozó határozat kiállításának dátuma: ............................................................................. Az átadásról szóló határozatot hozó hatóság megnevezése: ..................................................................................... A határozat hivatkozási száma, ha rendelkezésre áll: ............................................................................................... A személy átadására vonatkozó határozat kiállításának dátuma, ha rendelkezésre áll: ................................................................................................ |
 | --- |
 |  |
 
@@ -2657,12 +2935,12 @@ TANÚSÍTVÁNY
 | --- |
 | 3. Amennyiben az 1. pontban megjelölt bűncselekmény(ek)re a 2. pont nem terjed ki, illetve amennyiben az ítéletet és a tanúsítványt azon tagállam részére továbbítják, amely kijelentette, hogy vizsgálja a kettős büntetendőséget (a kerethatározat 7. cikkének (4) bekezdése), kérjük, adjon teljes leírást az érintett bűncselekmény(ek)ről:……………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………… ……… |
 
-2K26800_7
+6K70889N_7
 
 | і) A büntetést kiszabó ítélet jogi státusa: |
 | --- |
 | 1. Jelezze, hogy az érintett személyesen jelen volt-e a határozat meghozatalát eredményező tárgyaláson: 1. □ Igen, az érintett személyesen jelen volt a határozat meghozatalát eredményező tárgyaláson. 2. □ Nem, az érintett nem volt jelen személyesen a határozat meghozatalát eredményező tárgyaláson. 3. Amennyiben megjelölte a 2. pontot, adja meg az alábbiak valamelyikének fennállását: □ 3.1a. az érintettet személyesen idézték ... -ára/-ére (év/hónap/nap), és ily módon tájékoztatták annak a tárgyalásnak a kitűzött időpontjáról és helyéről, amely a határozat meghozatalához vezetett, és tájékoztatták arról, hogy a határozat meghozatalára meg nem jelenése esetén is sor kerülhet; VAGY □ 3.1b. az érintettet nem idézték személyesen, de más módon ténylegesen hivatalos tájékoztatást kapott annak a tárgyalásnak a kitűzött időpontjára és helyére vonatkozóan, amely a határozat meghozatalához vezetett, mégpedig oly módon, hogy egyértelműen megállapítást nyert, hogy a kitűzött tárgyalásról tudomást szerzett, és tájékoztatták arról, hogy a határozat meghozatalára meg nem jelenése esetén is sor kerülhet; VAGY □ 3.2. az érintett személy a kitűzött tárgyalás ismeretében meghatalmazta vagy az általa választott, vagy az állam által kirendelt jogi képviselőt arra, hogy a tárgyalás során a védelmét ellássa, és az említett jogi képviselő ténylegesen ellátta az érintett személy védelmét a tárgyaláson; VAGY □ 3.3. a határozatot ... -án/-én (év/hónap/nap) személyesen kézbesítették az érintett személynek, és kifejezetten tájékoztatták őt a perújításhoz vagy fellebbezéshez való jogáról, amely eljárásban joga van részt venni, és amely lehetővé teszi az ügy újbóli érdemi vizsgálatát - beleértve az új bizonyítékokat -, és amely az eredeti határozat megváltoztatásához vezethet, valamint □ az érintett egyértelműen kijelentette, hogy nem vitatja a határozatot, VAGY □ a megállapított határidőn belül nem kért perújítást vagy nem fellebbezett. 4. Amennyiben megjelölte a fenti 3.1b., 3.2. vagy 3.3. pontot, kérem, adjon tájékoztatást az adott feltétel teljesülésének módjáról: …………………………………………………………………………………………………………………………………. …………………………………………………………………………………………………………………………………. |
-| 2. A büntetés időtartamának részletes jellemzői: 2.1. A büntetés teljes időtartama (napokban kifejezve): ............................................................................................ 2.2. Az ítéletben kiszabott büntetésből már letöltött szabadságvesztés teljes időtartama (napokban kifejezve): .........................................a megadott időpontban (...) (kérjük azon időpont megadását, amelyen a számítást végezték: éééé-hh-nn) .......................................................................................................................................... 2.3. A 2.2. pontban említettektől eltérő okok (pl.: az ítélet tekintetében már megadott amnesztia, közkegyelem és kegyelmi intézkedések) alapján a büntetés teljes idejéből levonandó napok száma: .............................. a megadott időpontban (kérjük azon időpont megadását, amelyen a számítást végezték: éééé-hh-nn) .......................................................................................................................................... 2.4. A büntetés kitöltésének időpontja a kibocsátó államban: □ Nem alkalmazandó, mivel az elítélt személy jelenleg nincs fogva tartva. □ Az elítélt személy jelenleg fogva van tartva, és a büntetés a kibocsátó állam joga szerint az alábbi időpontban tekintendő kitöltöttnek (adja meg az időpontot): (éééé-hh-nn)5: ............................................ 3. A büntetés típusa: □ szabadságvesztés-büntetés |
+| 2. A büntetés időtartamának részletes jellemzői: 2.1. A büntetés teljes időtartama (napokban kifejezve): ............................................................................................ 2.2. Az ítéletben kiszabott büntetésből már letöltött szabadságvesztés teljes időtartama (napokban kifejezve): .........................................a megadott időpontban (...) (kérjük azon időpont megadását, amelyen a számítást végezték: éééé-hh-nn) .......................................................................................................................................... 2.3. A 2.2. pontban említettektől eltérő okok (pl.: az ítélet tekintetében már megadott amnesztia, közkegyelem és kegyelmi intézkedések) alapján a büntetés teljes idejéből levonandó napok száma: .............................. a megadott időpontban (kérjük azon időpont megadását, amelyen a számítást végezték: éééé-hh-nn) .......................................................................................................................................... 2.4. A büntetés kitöltésének időpontja a kibocsátó államban: □ Nem alkalmazandó, mivel az elítélt személy jelenleg nincs fogva tartva. □ Az elítélt személy jelenleg fogva van tartva, és a büntetés a kibocsátó állam joga szerint az alábbi időpontban tekintendő kitöltöttnek (adja meg az időpontot): (éééé-hh-nn)153: ............................................ 3. A büntetés típusa: □ szabadságvesztés-büntetés |
 | □ szabadságelvonással járó intézkedés (kérjük, részletezze):................................................................................................................................................................................. |
 
 | j) A korai vagy feltételes szabadságra bocsátással kapcsolatos információk: 1. A kibocsátó állam joga szerint az elítélt személy korai vagy feltételes szabadságra bocsátásra jogosult, ha letöltötte □ a büntetés felét □ a büntetés kétharmadát □ a büntetés egyéb hányadát (kérjük meghatározni): 2. A kibocsátó állam illetékes hatóságát kérelemre tájékoztatni kell az alábbiakról: □ a végrehajtó állam jogának az elítélt személy korai vagy feltételes szabadságra bocsátására vonatkozó rendelkezéseiről, |
@@ -2676,9 +2954,9 @@ TANÚSÍTVÁNY
 | : I) Az ügyre vonatkozó egyéb lényeges körülmények (nem kötelező információk) ................................................................................................................................................................................. ................................................................................................................................................................................. |
 | --- |
 
-2K26800_11
+6K70889N_11
 
-| m) Egyéb információk Az ítélet(ek) szövegét csatolták a tanúsítványhoz6 A tanúsítványt kibocsátó hatóságnak és/vagy képviselőjének a tanúsítvány tartalmának pontosságát igazoló aláírása……………………………………………………………………………………………………. Név: ............................................................................................................................................................................ Betöltött tisztség (beosztás/rang): ................................................................................................................................ Kelt: ............................................................................................................................................................................. Hivatalos pecsét (amennyiben van ilyen)............................................................................................................................ |
+| m) Egyéb információk Az ítélet(ek) szövegét csatolták a tanúsítványhoz154 A tanúsítványt kibocsátó hatóságnak és/vagy képviselőjének a tanúsítvány tartalmának pontosságát igazoló aláírása……………………………………………………………………………………………………. Név: ............................................................................................................................................................................ Betöltött tisztség (beosztás/rang): ................................................................................................................................ Kelt: ............................................................................................................................................................................. Hivatalos pecsét (amennyiben van ilyen)............................................................................................................................ |
 | --- |
 
 ### 9. számú melléklet a 2012. évi CLXXX. törvényhez
@@ -2897,228 +3175,241 @@ A kölcsönös elismerés elvének a pénzbüntetésekre való alkalmazásáról
 
 - 4. cikkében előírt
 
-2K26824_0
+6K70889P_0
 
-|  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| a) |  |  |  |  |  |
-|  |  | * |  |  | Kibocsátó állam: ........................................................................................................................................... |
-|  |  | * |  |  | Végrehajtó állam: .......................................................................................................................................... |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| b) |  |  |  |  | A pénzbüntetést megállapító határozat kibocsátó hatóság: |
-|  |  |  |  |  | Hivatalos neve: .............................................................................................................................................. |
-|  |  |  |  |  | Címe: ............................................................................................................................................................. |
-|  |  |  |  |  | ......................................................................................................................................................................... |
-|  |  |  |  |  | Ügyiratszám (...) ............................................................................................................................................ |
-|  |  |  |  |  | Tel.szám: (országhívószám) (körzetszám) .................................................................................................... |
-|  |  |  |  |  | Faxszám (országhívószám) (körzetszám) ...................................................................................................... |
-|  |  |  |  |  | E-mail (ha rendelkezésre áll) ......................................................................................................................... |
-|  |  |  |  |  | A kibocsátó hatósággal való kapcsolattartás során használható nyelvek: ..................................................... |
-|  |  |  |  |  | ......................................................................................................................................................................... |
-|  |  |  |  |  | Azon személy(ek) elérhetőségei, aki(k)től a határozat végrehajtása végett, illetve adott esetben a végrehajtásból befolyó pénzösszegnek a kibocsátó állam részére történő átutalása végett további felvilágosítást lehet kapni (név, beosztás/rang, telefonszám, telefaxszám és, amennyiben rendelkezésre áll, e-mail cím)……………………………………………………………………………………………... |
-|  |  |  |  |  |  |
-|  |  |  |  |  | ......................................................................................................................................................................... |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| c) |  |  |  |  | A kibocsátó államban a pénzbüntetést megállapító határozat végrehajtásáért felelős hatóság (amennyiben eltér a b) pontban szereplő hatóságtól): |
-|  |  |  |  |  | Hivatalos neve: .............................................................................................................................................. |
-|  |  |  |  |  | ......................................................................................................................................................................... |
-|  |  |  |  |  | Címe: ............................................................................................................................................................. |
-|  |  |  |  |  | ......................................................................................................................................................................... |
-|  |  |  |  |  | Tel.szám: (országhívószám) (körzetszám) .................................................................................................... |
-|  |  |  |  |  | Faxszám (országhívószám) (körzetszám) ...................................................................................................... |
-|  |  |  |  |  | E-mail (ha rendelkezésre áll) ......................................................................................................................... |
-|  |  |  |  |  | A végrehajtásért felelős hatósággal való kapcsolattartás során használható nyelvek: .................................. |
-|  |  |  |  |  | ......................................................................................................................................................................... |
-|  |  |  |  |  | Azon személy(ek) elérhetőségei, aki(k)től a határozat végrehajtása végett, illetve adott esetben a végrehajtásból befolyó pénzösszegnek a kibocsátó állam részére történő átutalása végett további felvilágosítást lehet kapni (név, beosztás/rang, telefonszám, telefaxszám és, amennyiben rendelkezésre áll, e-mail cím)....................................................................................................................................................... |
-|  |  |  |  |  | ......................................................................................................................................................................... |
-|  |  |  |  |  | ......................................................................................................................................................................... |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| d) |  |  |  |  | Amennyiben a pénzbüntetést megállapító határozatok továbbítása a kibocsátó államban valamely központi hatóság hatáskörébe tartozik: |
-|  |  |  |  |  | A központi hatóság neve: .............................................................................................................................. |
-|  |  |  |  |  | ........................................................................................................................................................................ |
-|  |  |  |  |  | Kapcsolattartó személy, szükség szerint (beosztás/rang és név): .................................................................. |
-|  |  |  |  |  | ........................................................................................................................................................................ |
-|  |  |  |  |  | Címe: ......................................................................................................................................................................... |
-|  |  |  |  |  | ........................................................................................................................................................................ |
-|  |  |  |  |  | Ügyiratszám ................................................................................................................................................... |
-|  |  |  |  |  | Tel.szám: (országhívószám) (körzetszám) .................................................................................................... |
-|  |  |  |  |  | Faxszám: (országhívószám) (körzetszám) ...................................................................................................... |
-|  |  |  |  |  | E-mail (ha rendelkezésre áll):......................................................................................................................... |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| e) |  |  |  |  | Azon hatóság vagy hatóságok, amely(ek)hez megkereséssel lehet fordulni (amennyiben a c) és/vagy d) pontokat kitöltötték): |
-|  |  | □ |  |  | A b) pontban feltüntetett hatóságot |
-|  |  |  |  |  | a következőkkel kapcsolatban lehet megkeresni: .......................................................................................... |
-|  |  | □ |  |  | A c) pontban feltüntetett hatóságot |
-|  |  |  |  |  | a következőkkel kapcsolatban lehet megkeresni: .......................................................................................... |
-|  |  | □ |  |  | A d) pontban feltüntetett hatóságot |
-|  |  |  |  |  | a következőkkel kapcsolatban lehet megkeresni: .......................................................................................... |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| f) |  |  |  |  | A pénzbüntetést megállapító határozat által kötelezett természetes vagy jogi személyre vonatkozó információ: |
-|  |  |  |  |  | 1. T e r m é s z e t e s s z e m é l y e s e t é n |
-|  |  |  |  |  | Név: ................................................................................................................................................................ |
-|  |  |  |  |  | Utónév (Utónevek): ....................................................................................................................................... |
-|  |  |  |  |  | Leánykori név (szükség szerint): ................................................................................................................... |
-|  |  |  |  |  | Felvett nevek (szükség szerint): ..................................................................................................................... |
-|  |  |  |  |  | Nem: ............................................................................................................................................................... |
-|  |  |  |  |  | Állampolgárság: ............................................................................................................................................. |
-|  |  |  |  |  | Személyi azonosító szám vagy társadalombiztosítási azonosító szám (amennyiben rendelkezésre áll): ...... |
-|  |  |  |  |  | Születési idő: .................................................................................................................................................. |
-|  |  |  |  |  | Születési hely: ................................................................................................................................................ |
-|  |  |  |  |  | Utolsó ismert lakcím: ..................................................................................................................................... |
-|  |  |  |  |  | ........................................................................................................................................................................ |
-|  |  |  |  |  | A természetes személy által értett nyelv(ek) (amennyiben ez az adat rendelkezésre áll): ............................ |
-|  |  |  |  |  | ........................................................................................................................................................................ |
-|  |  |  |  |  | a) Amennyiben a határozatot azért továbbítják a végrehajtó államnak, mert annak a személynek, akivel szemben a határozatot hozták, abban az államban van a szokásos tartózkodási helye, kérjük, adja meg a következő kiegészítő információkat: |
-|  |  |  |  |  | A végrehajtó államban található szokásos tartózkodási hely: ........................................................................ |
-|  |  |  |  |  | ......................................................................................................................................................................... |
-|  |  |  |  |  | ........................................................................................................................................................................ |
-|  |  |  |  |  | b) Amennyiben a határozatot azért továbbítják a végrehajtó államnak, mert az a személy, akivel szemben a határozatot hozták, vagyonnal rendelkezik a végrehajtó államban, kérjük, adja meg a következő kiegészítő információkat: |
-|  |  |  |  |  | A személy vagyonának leírása: ...................................................................................................................... |
-|  |  |  |  |  | A személy vagyonának fellelhetősége: .......................................................................................................... |
-|  |  |  |  |  | c) Amennyiben a határozatot azért továbbítják a végrehajtó államnak, mert az a személy, akivel szemben a határozatot hozták, jövedelemmel rendelkezik a végrehajtó államban, kérjük, adja meg a következő kiegészítő információkat: |
-|  |  |  |  |  | A személy jövedelemforrásának (-forrásainak) leírása: ................................................................................ |
-|  |  |  |  |  | A személy jövedelemforrásának (-forrásainak) fellelhetősége: ..................................................................... |
-|  |  |  |  |  | 2. J o g i s z e m é l y e s e t é n : |
-|  |  |  |  |  | Név: ................................................................................................................................................................ |
-|  |  |  |  |  | Jogi személy formája: .................................................................................................................................... |
-|  |  |  |  |  | Bejegyzési szám (amennyiben rendelkezésre áll) (7): ................................................................................... |
-|  |  |  |  |  | Bejegyzett székhely (amennyiben rendelkezésre áll) (1): .............................................................................. |
-|  |  |  |  |  | A jogi személy címe: ..................................................................................................................................... |
-|  |  |  |  |  | a) Amennyiben a határozatot azért továbbítják a végrehajtó államnak, mert az a jogi személy, amellyel szemben a határozatot hozták, vagyonnal rendelkezik a végrehajtó államban, kérjük, adja meg a következő kiegészítő információkat: |
-|  |  |  |  |  | A jogi személy vagyonának leírása: .............................................................................................................. |
-|  |  |  |  |  | A jogi személy vagyonának fellelhetősége: ................................................................................................... |
-|  |  |  |  |  | ........................................................................................................................................................................ |
-|  |  |  |  |  | b) Amennyiben a határozatot azért továbbítják a végrehajtó államnak, mert az a jogi személy, amellyel szemben a határozatot hozták, jövedelemmel rendelkezik a végrehajtó államban, kérjük adja meg a következő kiegészítő információkat: |
-|  |  |  |  |  | A jogi személy jövedelemforrásának (-forrásainak) leírása: ......................................................................... |
-|  |  |  |  |  | A jogi személy jövedelemforrásának (-forrásainak) fellelhetősége: ............................................................. |
-|  |  |  |  |  | ........................................................................................................................................................................ |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| g) |  |  |  |  | A pénzbüntetést kiszabó határozat jellege (a megfelelő négyzetet jelölje be): |
-|  |  | □ |  |  | i) A kibocsátó állam bíróságának a kibocsátó állam joga szerinti bűncselekmény tárgyában hozott határozata |
-|  |  | □ |  |  | ii) A kibocsátó állam bíróságtól eltérő hatóságának a kibocsátó állam joga szerinti bűncselekmény tárgyában hozott határozata. Megerősítést nyert, hogy az érintett személynek lehetősége nyílt arra, hogy valamely, különösen büntetőügyekben hatáskörrel rendelkező bíróság elbírálja az ügyét. |
-|  |  | □ |  |  | iii) A kibocsátó állam bíróságtól eltérő hatóságának olyan cselekmény tekintetében hozott határozata, amely a kibocsátó állam nemzeti joga szerint szabálysértésként büntetendő. Megerősítést nyert, hogy az érintett személynek lehetősége nyílt arra, hogy valamely, különösen büntetőügyekben hatáskörrel rendelkező bíróság elbírálja az ügyét. |
-|  |  |  |  |  | iv) Valamely, különösen büntetőügyekben hatáskörrel rendelkező bíróságnak aiii. pontban említett határozatra vonatkozóan hozott határozata. |
-|  |  |  |  |  | A határozat kelte: ........................................................................................................................................... |
-|  |  |  |  |  | A határozat jogerőre emelkedésének időpontja: ............................................................................................. |
-|  |  |  |  |  | A határozat hivatkozási száma (ha rendelkezésre áll): ................................................................................... |
-|  |  |  |  |  | A pénzbüntetés a következő fizetési kötelezettséggel jár (kérjük, jelölje meg a megfelelő négyzetet(eket) és jelezze az összeget a pénznem megjelölésével): |
-|  |  | □ |  |  | i) Bűncselekmény elkövetése miatt történő elítélés alapján határozatban kiszabott pénzösszeg. |
-|  |  |  |  |  | Összeg: ........................................................................................................................................................... |
-|  |  | □ |  |  | ii) Ugyanazon határozat által a sértett javára megállapított kártérítés, amennyiben a sértett az eljárásban nem lehet magánfél, és a bíróság büntetőügyi hatáskörében jár el. |
-|  |  |  |  |  | Összeg: ........................................................................................................................................................... |
-|  |  | □ |  |  | iii) A határozathoz vezető bírósági vagy közigazgatási eljárás költségeire vonatkozó pénzösszeg. |
-|  |  |  |  |  | Összeg: ........................................................................................................................................................... |
-|  |  | □ |  |  | iv) Ugyanazon határozat által megállapított, valamely állami alapnak vagy sértetteket segítő szervezetnek fizetendő pénzösszeg. |
-|  |  |  |  |  | Összeg: ......................................................................................................................................................................... |
-|  |  |  |  |  | A pénzbüntetés teljes összege a pénznem megjelölésével: ........................................................................... |
-|  |  |  |  |  | ......................................................................................................................................................................... |
-|  |  |  |  |  | 2. A bűncselekmény(ek) elkövetésével kapcsolatos tények összefoglalása és körülmények leírása, az elkövetés idejét és helyét is beleértve: ............................................................................................................ |
-|  |  |  |  |  | ......................................................................................................................................................................... |
-|  |  |  |  |  | ......................................................................................................................................................................... |
-|  |  |  |  |  | ......................................................................................................................................................................... |
-|  |  |  |  |  | ......................................................................................................................................................................... |
-|  |  |  |  |  | ......................................................................................................................................................................... |
-|  |  |  |  |  | A bűncselekmény(ek) jellege és jogi minősítése, valamint a határozat alapjául szolgáló törvényi rendelkezések/törvénykönyv: ......................................................................................................................... |
-|  |  |  |  |  | ......................................................................................................................................................................... |
-|  |  |  |  |  | ......................................................................................................................................................................... |
-|  |  |  |  |  | ......................................................................................................................................................................... |
-|  |  |  |  |  | 3. Amennyiben a fenti 2. pontban meghatározott bűncselekmény(ek) az alábbiak közül egy vagy több bűncselekménynek felel(nek) meg, kérjük, jelezze ezt a megfelelő négyzet(ek) megjelölésével: |
-|  |  | □ |  |  | bűnszervezetben részvétel; |
-|  |  | □ |  |  | terrorizmus; |
-|  |  | □ |  |  | emberkereskedelem; |
-|  |  | □ |  |  | gyermekek szexuális kizsákmányolása és gyermekpornográfia; |
-|  |  | □ |  |  | kábítószerek és pszichotróp anyagok tiltott kereskedelme; |
-|  |  | □ |  |  | lőfegyverek, lőszerek és robbanóanyagok tiltott kereskedelme; |
-|  |  | □ |  |  | vesztegetés; |
-|  |  | □ |  |  | csalás, ideértve az Európai Közösségek pénzügyi érdekeinek védelméről szóló, 1995. július 26-i egyezmény értelmében az Európai Közösségek pénzügyi érdekeit sértő csalást is; |
-|  |  | □ |  |  | bűncselekményből származó jövedelem tisztára mosása; |
-|  |  | □ |  |  | pénzhamisítás, beleértve az euro hamisítását is; |
-|  |  | □ |  |  | számítógépes bűncselekmények; |
-|  |  | □ |  |  | környezettel kapcsolatos bűncselekmények, beleértve a veszélyeztetett állatfajok, valamint a veszélyeztetett növényfajok és -fajták tiltott kereskedelmét is; |
-|  |  | □ |  |  | jogellenes beutazás és tartózkodás elősegítése; |
-|  |  | □ |  |  | szándékos emberölés, súlyos testi sértés; |
-|  |  | □ |  |  | emberi szervek és szövetek tiltott kereskedelme; |
-|  |  | □ |  |  | emberrablás, személyi szabadság megsértése és túszejtés; |
-|  |  | □ |  |  | rasszizmus és idegengyűlölet; |
-|  |  | □ |  |  | szervezett vagy fegyveres rablás; |
-|  |  | □ |  |  | kulturális javak - köztük régiségek és műtárgyak - tiltott kereskedelme; |
-|  |  | □ |  |  | csalással kapcsolatos bűncselekmények; |
-|  |  | □ |  |  | zsarolás; |
-|  |  | □ |  |  | termékhamisítás és jogbitorlás; |
-|  |  | □ |  |  | közokirat-hamisítás és hamisított közokirattal való kereskedés; |
-|  |  | □ |  |  | fizetési eszközök hamisítása; |
-|  |  | □ |  |  | hormontartalmú anyagok és más növekedésserkentők tiltott kereskedelme; |
-|  |  | □ |  |  | nukleáris és radioaktív anyagok tiltott kereskedelme; |
-|  |  | □ |  |  | lopott járművek kereskedelme; |
-|  |  | □ |  |  | erőszakos közösülés; |
-|  |  | □ |  |  | gyújtogatás; |
-|  |  | □ |  |  | a Nemzetközi Büntetőbíróság joghatósága alá tartozó bűncselekmények; |
-|  |  | □ |  |  | légi vagy vízi jármű hatalomba kerítése; |
-|  |  | □ |  |  | szabotázs, |
-|  |  | □ |  |  | a közúti közlekedés szabályait sértő magatartás, beleértve a vezetési- és pihenőidőre, valamint a veszélyes anyagokra vonatkozó rendelkezések megszegését is; |
-|  |  | □ |  |  | csempészet; |
-|  |  | □ |  |  | szellemi tulajdonjogok megsértése; |
-|  |  | □ |  |  | személy elleni erőszakkal fenyegetés és személy elleni erőszakos cselekmények, beleértve a sporteseményeken elkövetett erőszakos cselekményeket; |
-|  |  | □ |  |  | bűncselekménnyel okozott kár; |
-|  |  | □ |  |  | lopás; |
-|  |  | □ |  |  | az EK-Szerződés alapján vagy az EU-Szerződés VI. címe alapján elfogadott jogi aktusokból eredő kötelezettségek végrehajtása céljából a kibocsátó állam által megállapított bűncselekmények. |
-|  |  |  |  |  | Amennyiben ezt a négyzetet megjelölte, kérjük, tüntesse fel az EK-Szerződés vagy az EU-Szerződés alapján elfogadott azon jogi aktus pontos rendelkezéseit, amellyel a bűncselekmény kapcsolatos: ......... |
-|  |  |  |  |  | ......................................................................................................................................................................... |
-|  |  |  |  |  | ......................................................................................................................................................................... |
-|  |  |  |  |  | 4. Amennyiben a fenti 2. pontban meghatározott bűncselekmény(ek) nem szerepelnek a 3. pontban, kérjük, adjon pontos leírást az érintett bűncselekményről(-ekről): ................................................................ |
-|  |  |  |  |  | ......................................................................................................................................................................... |
-|  |  |  |  |  | ......................................................................................................................................................................... |
-|  |  |  |  |  | ......................................................................................................................................................................... |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| h) |  |  | A pénzbüntetést kiszabó határozat jogi státusza: |  |  |
-|  |  |  | 1. Erősítse meg (a megfelelő négyzetek megjelölésével) az alábbiakat: |  |  |
-|  |  |  | □ a) a határozat jogerős határozat |  |  |
-|  |  |  | □ b) a tanúsítványt kiállító hatóság tudomása szerint ugyanazon cselekmény miatt ugyanazon személlyel szemben a végrehajtó államban nem hoztak határozatot, és a kibocsátó vagy a végrehajtó államtól eltérő, bármely állam által kibocsátott ilyen határozat nem került végrehajtásra. |  |  |
-|  |  |  | 2. Kérjük, jelezze, hogy az ügy írásbeli tárgyát képezte-e: |  |  |
-|  |  |  | □ a) Nem, nem képezte írásbeli eljárás tárgyát. |  |  |
-|  |  |  | □ b) Igen. Megerősítést nyert, hogy az érintett személy, a kibocsátó állam jogának megfelelően, személyesen vagy a nemzeti jog szerint meghatalmazott képviselője útján tájékoztatást kapott az ügyben a jogorvoslathoz való jogáról és az ilyen jogorvoslati lehetőség határidejéről. |  |  |
-|  |  |  |  | Amennyiben a pénzbüntetés egy részét a kibocsátó államban - illetve a tanúsítványt kibocsátó hatóság tudomása szerint bármely másik államban - már megfizették, kérjük a megfizetett összeget feltüntetni: |  |
-|  |  |  |  | ......................................................................................................................................................................... |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| i) |  |  |  | Alternatív szankciók, beleértve a szabadságelvonással járó szankciókat |  |
-|  |  |  |  | 1. Kérjük, jelezze, hogy a kibocsátó állam engedélyezi-e a végrehajtó állam számára alternatív szankciók alkalmazását abban az esetben, ha a büntetést kiszabó határozat teljes vagy részleges végrehajtására nincsen lehetőség: |  |
-|  |  |  |  | □ Igen |  |
-|  |  |  |  | □ Nem |  |
-|  |  |  |  | 2. Amennyiben igen, kérjük, jelölje meg, hogy melyik szankció alkalmazható (a szankció jellege és a büntetés felső tétele): |  |
-|  |  |  |  | □ Szabadságelvonás. Maximális időtartama: ................................................................................................. |  |
-|  |  |  |  | □ Közérdekű munka (vagy annak megfelelő büntetés). Maximális időtartama: ........................................... |  |
-|  |  |  |  | □ Egyéb szankciók. Megnevezés: .................................................................................................................. |  |
-|  |  |  |  | ......................................................................................................................................................................... |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| j) |  |  |  | Az ügy lényeges körülményei (fakultatív információ): ................................................................................. |  |
-|  |  |  |  | ......................................................................................................................................................................... |  |
-|  |  |  |  | ......................................................................................................................................................................... |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| k) |  |  |  | A pénzbüntetést megállapító határozat szövege a tanúsítvány mellékletét képezi. |  |
-|  |  |  |  | A tanúsítványt kibocsátó hatóságnak és/vagy képviselőjének a tanúsítvány valóságnak megfelelő tartalmát igazoló aláírása: ............................................................................................................................... |  |
-|  |  |  |  | ......................................................................................................................................................................... |  |
-|  |  |  |  | Neve: .............................................................................................................................................................. |  |
-|  |  |  |  | Betöltött tisztsége (beosztás/rang): ................................................................................................................ |  |
-|  |  |  |  | Dátum: ........................................................................................................................................................... |  |
-|  |  |  |  | Hivatalos pecsét (amennyiben rendelkezésre áll) |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| a) |  |  |  |  |  |  |  |
+|  |  | * |  |  | Kibocsátó állam: ........................................................................................................................................... |  |  |
+|  |  | * |  |  | Végrehajtó állam: .......................................................................................................................................... |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+| b) |  |  |  |  | A pénzbüntetést megállapító határozat kibocsátó hatóság: |  |  |
+|  |  |  |  |  | Hivatalos neve: .............................................................................................................................................. |  |  |
+|  |  |  |  |  | Címe: ............................................................................................................................................................. |  |  |
+|  |  |  |  |  | ......................................................................................................................................................................... |  |  |
+|  |  |  |  |  | Ügyiratszám (...) ............................................................................................................................................ |  |  |
+|  |  |  |  |  | Tel.szám: (országhívószám) (körzetszám) .................................................................................................... |  |  |
+|  |  |  |  |  | Faxszám (országhívószám) (körzetszám) ...................................................................................................... |  |  |
+|  |  |  |  |  | E-mail (ha rendelkezésre áll) ......................................................................................................................... |  |  |
+|  |  |  |  |  | A kibocsátó hatósággal való kapcsolattartás során használható nyelvek: ..................................................... |  |  |
+|  |  |  |  |  | ......................................................................................................................................................................... |  |  |
+|  |  |  |  |  | Azon személy(ek) elérhetőségei, aki(k)től a határozat végrehajtása végett, illetve adott esetben a végrehajtásból befolyó pénzösszegnek a kibocsátó állam részére történő átutalása végett további felvilágosítást lehet kapni (név, beosztás/rang, telefonszám, telefaxszám és, amennyiben rendelkezésre áll, e-mail cím)……………………………………………………………………………………………... |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  | ......................................................................................................................................................................... |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+| c) |  |  |  |  | A kibocsátó államban a pénzbüntetést megállapító határozat végrehajtásáért felelős hatóság (amennyiben eltér a b) pontban szereplő hatóságtól): |  |  |
+|  |  |  |  |  | Hivatalos neve: .............................................................................................................................................. |  |  |
+|  |  |  |  |  | ......................................................................................................................................................................... |  |  |
+|  |  |  |  |  | Címe: ............................................................................................................................................................. |  |  |
+|  |  |  |  |  | ......................................................................................................................................................................... |  |  |
+|  |  |  |  |  | Tel.szám: (országhívószám) (körzetszám) .................................................................................................... |  |  |
+|  |  |  |  |  | Faxszám (országhívószám) (körzetszám) ...................................................................................................... |  |  |
+|  |  |  |  |  | E-mail (ha rendelkezésre áll) ......................................................................................................................... |  |  |
+|  |  |  |  |  | A végrehajtásért felelős hatósággal való kapcsolattartás során használható nyelvek: .................................. |  |  |
+|  |  |  |  |  | ......................................................................................................................................................................... |  |  |
+|  |  |  |  |  | Azon személy(ek) elérhetőségei, aki(k)től a határozat végrehajtása végett, illetve adott esetben a végrehajtásból befolyó pénzösszegnek a kibocsátó állam részére történő átutalása végett további felvilágosítást lehet kapni (név, beosztás/rang, telefonszám, telefaxszám és, amennyiben rendelkezésre áll, e-mail cím)....................................................................................................................................................... |  |  |
+|  |  |  |  |  | ......................................................................................................................................................................... |  |  |
+|  |  |  |  |  | ......................................................................................................................................................................... |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+| d) |  |  |  |  | Amennyiben a pénzbüntetést megállapító határozatok továbbítása a kibocsátó államban valamely központi hatóság hatáskörébe tartozik: |  |  |
+|  |  |  |  |  | A központi hatóság neve: .............................................................................................................................. |  |  |
+|  |  |  |  |  | ........................................................................................................................................................................ |  |  |
+|  |  |  |  |  | Kapcsolattartó személy, szükség szerint (beosztás/rang és név): .................................................................. |  |  |
+|  |  |  |  |  | ........................................................................................................................................................................ |  |  |
+|  |  |  |  |  | Címe: ......................................................................................................................................................................... |  |  |
+|  |  |  |  |  | ........................................................................................................................................................................ |  |  |
+|  |  |  |  |  | Ügyiratszám ................................................................................................................................................... |  |  |
+|  |  |  |  |  | Tel.szám: (országhívószám) (körzetszám) .................................................................................................... |  |  |
+|  |  |  |  |  | Faxszám: (országhívószám) (körzetszám) ...................................................................................................... |  |  |
+|  |  |  |  |  | E-mail (ha rendelkezésre áll):......................................................................................................................... |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+| e) |  |  |  |  | Azon hatóság vagy hatóságok, amely(ek)hez megkereséssel lehet fordulni (amennyiben a c) és/vagy d) pontokat kitöltötték): |  |  |
+|  |  | □ |  |  | A b) pontban feltüntetett hatóságot |  |  |
+|  |  |  |  |  | a következőkkel kapcsolatban lehet megkeresni: .......................................................................................... |  |  |
+|  |  | □ |  |  | A c) pontban feltüntetett hatóságot |  |  |
+|  |  |  |  |  | a következőkkel kapcsolatban lehet megkeresni: .......................................................................................... |  |  |
+|  |  | □ |  |  | A d) pontban feltüntetett hatóságot |  |  |
+|  |  |  |  |  | a következőkkel kapcsolatban lehet megkeresni: .......................................................................................... |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+| f) |  |  |  |  | A pénzbüntetést megállapító határozat által kötelezett természetes vagy jogi személyre vonatkozó információ: |  |  |
+|  |  |  |  |  | 1. T e r m é s z e t e s s z e m é l y e s e t é n |  |  |
+|  |  |  |  |  | Név: ................................................................................................................................................................ |  |  |
+|  |  |  |  |  | Utónév (Utónevek): ....................................................................................................................................... |  |  |
+|  |  |  |  |  | Leánykori név (szükség szerint): ................................................................................................................... |  |  |
+|  |  |  |  |  | Felvett nevek (szükség szerint): ..................................................................................................................... |  |  |
+|  |  |  |  |  | Nem: ............................................................................................................................................................... |  |  |
+|  |  |  |  |  | Állampolgárság: ............................................................................................................................................. |  |  |
+|  |  |  |  |  | Személyi azonosító szám vagy társadalombiztosítási azonosító szám (amennyiben rendelkezésre áll): ...... |  |  |
+|  |  |  |  |  | Születési idő: .................................................................................................................................................. |  |  |
+|  |  |  |  |  | Születési hely: ................................................................................................................................................ |  |  |
+|  |  |  |  |  | Utolsó ismert lakcím: ..................................................................................................................................... |  |  |
+|  |  |  |  |  | ........................................................................................................................................................................ |  |  |
+|  |  |  |  |  | A természetes személy által értett nyelv(ek) (amennyiben ez az adat rendelkezésre áll): ............................ |  |  |
+|  |  |  |  |  | ........................................................................................................................................................................ |  |  |
+|  |  |  |  |  | a) Amennyiben a határozatot azért továbbítják a végrehajtó államnak, mert annak a személynek, akivel szemben a határozatot hozták, abban az államban van a szokásos tartózkodási helye, kérjük, adja meg a következő kiegészítő információkat: |  |  |
+|  |  |  |  |  | A végrehajtó államban található szokásos tartózkodási hely: ........................................................................ |  |  |
+|  |  |  |  |  | ......................................................................................................................................................................... |  |  |
+|  |  |  |  |  | ........................................................................................................................................................................ |  |  |
+|  |  |  |  |  | b) Amennyiben a határozatot azért továbbítják a végrehajtó államnak, mert az a személy, akivel szemben a határozatot hozták, vagyonnal rendelkezik a végrehajtó államban, kérjük, adja meg a következő kiegészítő információkat: |  |  |
+|  |  |  |  |  | A személy vagyonának leírása: ...................................................................................................................... |  |  |
+|  |  |  |  |  | A személy vagyonának fellelhetősége: .......................................................................................................... |  |  |
+|  |  |  |  |  | c) Amennyiben a határozatot azért továbbítják a végrehajtó államnak, mert az a személy, akivel szemben a határozatot hozták, jövedelemmel rendelkezik a végrehajtó államban, kérjük, adja meg a következő kiegészítő információkat: |  |  |
+|  |  |  |  |  | A személy jövedelemforrásának (-forrásainak) leírása: ................................................................................ |  |  |
+|  |  |  |  |  | A személy jövedelemforrásának (-forrásainak) fellelhetősége: ..................................................................... |  |  |
+|  |  |  |  |  | 2. J o g i s z e m é l y e s e t é n : |  |  |
+|  |  |  |  |  | Név: ................................................................................................................................................................ |  |  |
+|  |  |  |  |  | Jogi személy formája: .................................................................................................................................... |  |  |
+|  |  |  |  |  | Bejegyzési szám (amennyiben rendelkezésre áll) (7): ................................................................................... |  |  |
+|  |  |  |  |  | Bejegyzett székhely (amennyiben rendelkezésre áll) (1): .............................................................................. |  |  |
+|  |  |  |  |  | A jogi személy címe: ..................................................................................................................................... |  |  |
+|  |  |  |  |  | a) Amennyiben a határozatot azért továbbítják a végrehajtó államnak, mert az a jogi személy, amellyel szemben a határozatot hozták, vagyonnal rendelkezik a végrehajtó államban, kérjük, adja meg a következő kiegészítő információkat: |  |  |
+|  |  |  |  |  | A jogi személy vagyonának leírása: .............................................................................................................. |  |  |
+|  |  |  |  |  | A jogi személy vagyonának fellelhetősége: ................................................................................................... |  |  |
+|  |  |  |  |  | ........................................................................................................................................................................ |  |  |
+|  |  |  |  |  | b) Amennyiben a határozatot azért továbbítják a végrehajtó államnak, mert az a jogi személy, amellyel szemben a határozatot hozták, jövedelemmel rendelkezik a végrehajtó államban, kérjük adja meg a következő kiegészítő információkat: |  |  |
+|  |  |  |  |  | A jogi személy jövedelemforrásának (-forrásainak) leírása: ......................................................................... |  |  |
+|  |  |  |  |  | A jogi személy jövedelemforrásának (-forrásainak) fellelhetősége: ............................................................. |  |  |
+|  |  |  |  |  | ........................................................................................................................................................................ |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+| g) |  |  |  |  | A pénzbüntetést kiszabó határozat jellege (a megfelelő négyzetet jelölje be): |  |  |
+|  |  | □ |  |  | i) A kibocsátó állam bíróságának a kibocsátó állam joga szerinti bűncselekmény tárgyában hozott határozata |  |  |
+|  |  | □ |  |  | ii) A kibocsátó állam bíróságtól eltérő hatóságának a kibocsátó állam joga szerinti bűncselekmény tárgyában hozott határozata. Megerősítést nyert, hogy az érintett személynek lehetősége nyílt arra, hogy valamely, különösen büntetőügyekben hatáskörrel rendelkező bíróság elbírálja az ügyét. |  |  |
+|  |  | □ |  |  | iii) A kibocsátó állam bíróságtól eltérő hatóságának olyan cselekmény tekintetében hozott határozata, amely a kibocsátó állam nemzeti joga szerint szabálysértésként büntetendő. Megerősítést nyert, hogy az érintett személynek lehetősége nyílt arra, hogy valamely, különösen büntetőügyekben hatáskörrel rendelkező bíróság elbírálja az ügyét. |  |  |
+|  |  |  |  |  | iv) Valamely, különösen büntetőügyekben hatáskörrel rendelkező bíróságnak aiii. pontban említett határozatra vonatkozóan hozott határozata. |  |  |
+|  |  |  |  |  | A határozat kelte: ........................................................................................................................................... |  |  |
+|  |  |  |  |  | A határozat jogerőre emelkedésének időpontja: ............................................................................................. |  |  |
+|  |  |  |  |  | A határozat hivatkozási száma (ha rendelkezésre áll): ................................................................................... |  |  |
+|  |  |  |  |  | A pénzbüntetés a következő fizetési kötelezettséggel jár (kérjük, jelölje meg a megfelelő négyzetet(eket) és jelezze az összeget a pénznem megjelölésével): |  |  |
+|  |  | □ |  |  | i) Bűncselekmény elkövetése miatt történő elítélés alapján határozatban kiszabott pénzösszeg. |  |  |
+|  |  |  |  |  | Összeg: ........................................................................................................................................................... |  |  |
+|  |  | □ |  |  | ii) Ugyanazon határozat által a sértett javára megállapított kártérítés, amennyiben a sértett az eljárásban nem lehet magánfél, és a bíróság büntetőügyi hatáskörében jár el. |  |  |
+|  |  |  |  |  | Összeg: ........................................................................................................................................................... |  |  |
+|  |  | □ |  |  | iii) A határozathoz vezető bírósági vagy közigazgatási eljárás költségeire vonatkozó pénzösszeg. |  |  |
+|  |  |  |  |  | Összeg: ........................................................................................................................................................... |  |  |
+|  |  | □ |  |  | iv) Ugyanazon határozat által megállapított, valamely állami alapnak vagy sértetteket segítő szervezetnek fizetendő pénzösszeg. |  |  |
+|  |  |  |  |  | Összeg: ......................................................................................................................................................................... |  |  |
+|  |  |  |  |  | A pénzbüntetés teljes összege a pénznem megjelölésével: ........................................................................... |  |  |
+|  |  |  |  |  | ......................................................................................................................................................................... |  |  |
+|  |  |  |  |  | 2. A bűncselekmény(ek) elkövetésével kapcsolatos tények összefoglalása és körülmények leírása, az elkövetés idejét és helyét is beleértve: ............................................................................................................ |  |  |
+|  |  |  |  |  | ......................................................................................................................................................................... |  |  |
+|  |  |  |  |  | ......................................................................................................................................................................... |  |  |
+|  |  |  |  |  | ......................................................................................................................................................................... |  |  |
+|  |  |  |  |  | ......................................................................................................................................................................... |  |  |
+|  |  |  |  |  | ......................................................................................................................................................................... |  |  |
+|  |  |  |  |  | A bűncselekmény(ek) jellege és jogi minősítése, valamint a határozat alapjául szolgáló törvényi rendelkezések/törvénykönyv: ......................................................................................................................... |  |  |
+|  |  |  |  |  | ......................................................................................................................................................................... |  |  |
+|  |  |  |  |  | ......................................................................................................................................................................... |  |  |
+|  |  |  |  |  | ......................................................................................................................................................................... |  |  |
+|  |  |  |  |  | 3. Amennyiben a fenti 2. pontban meghatározott bűncselekmény(ek) az alábbiak közül egy vagy több bűncselekménynek felel(nek) meg, kérjük, jelezze ezt a megfelelő négyzet(ek) megjelölésével: |  |  |
+|  |  | □ |  |  | bűnszervezetben részvétel; |  |  |
+|  |  | □ |  |  | terrorizmus; |  |  |
+|  |  | □ |  |  | emberkereskedelem; |  |  |
+|  |  | □ |  |  | gyermekek szexuális kizsákmányolása és gyermekpornográfia; |  |  |
+|  |  | □ |  |  | kábítószerek és pszichotróp anyagok tiltott kereskedelme; |  |  |
+|  |  | □ |  |  | lőfegyverek, lőszerek és robbanóanyagok tiltott kereskedelme; |  |  |
+|  |  | □ |  |  | vesztegetés; |  |  |
+|  |  | □ |  |  | csalás, ideértve az Európai Közösségek pénzügyi érdekeinek védelméről szóló, 1995. július 26-i egyezmény értelmében az Európai Közösségek pénzügyi érdekeit sértő csalást is; |  |  |
+|  |  | □ |  |  | bűncselekményből származó jövedelem tisztára mosása; |  |  |
+|  |  | □ |  |  | pénzhamisítás, beleértve az euro hamisítását is; |  |  |
+|  |  | □ |  |  | számítógépes bűncselekmények; |  |  |
+|  |  | □ |  |  | környezettel kapcsolatos bűncselekmények, beleértve a veszélyeztetett állatfajok, valamint a veszélyeztetett növényfajok és -fajták tiltott kereskedelmét is; |  |  |
+|  |  | □ |  |  | jogellenes beutazás és tartózkodás elősegítése; |  |  |
+|  |  | □ |  |  | szándékos emberölés, súlyos testi sértés; |  |  |
+|  |  | □ |  |  | emberi szervek és szövetek tiltott kereskedelme; |  |  |
+|  |  | □ |  |  | emberrablás, személyi szabadság megsértése és túszejtés; |  |  |
+|  |  | □ |  |  | rasszizmus és idegengyűlölet; |  |  |
+|  |  | □ |  |  | szervezett vagy fegyveres rablás; |  |  |
+|  |  | □ |  |  | kulturális javak - köztük régiségek és műtárgyak - tiltott kereskedelme; |  |  |
+|  |  | □ |  |  | csalással kapcsolatos bűncselekmények; |  |  |
+|  |  | □ |  |  | zsarolás; |  |  |
+|  |  | □ |  |  | termékhamisítás és jogbitorlás; |  |  |
+|  |  | □ |  |  | közokirat-hamisítás és hamisított közokirattal való kereskedés; |  |  |
+|  |  | □ |  |  | fizetési eszközök hamisítása; |  |  |
+|  |  | □ |  |  | hormontartalmú anyagok és más növekedésserkentők tiltott kereskedelme; |  |  |
+|  |  | □ |  |  | nukleáris és radioaktív anyagok tiltott kereskedelme; |  |  |
+|  |  | □ |  |  | lopott járművek kereskedelme; |  |  |
+|  |  | □ |  |  | erőszakos közösülés; |  |  |
+|  |  | □ |  |  | gyújtogatás; |  |  |
+|  |  | □ |  |  | a Nemzetközi Büntetőbíróság joghatósága alá tartozó bűncselekmények; |  |  |
+|  |  | □ |  |  | légi vagy vízi jármű hatalomba kerítése; |  |  |
+|  |  | □ |  |  | szabotázs, |  |  |
+|  |  | □ |  |  | a közúti közlekedés szabályait sértő magatartás, beleértve a vezetési- és pihenőidőre, valamint a veszélyes anyagokra vonatkozó rendelkezések megszegését is; |  |  |
+|  |  | □ |  |  | csempészet; |  |  |
+|  |  | □ |  |  | szellemi tulajdonjogok megsértése; |  |  |
+|  |  | □ |  |  | személy elleni erőszakkal fenyegetés és személy elleni erőszakos cselekmények, beleértve a sporteseményeken elkövetett erőszakos cselekményeket; |  |  |
+|  |  | □ |  |  | bűncselekménnyel okozott kár; |  |  |
+|  |  | □ |  |  | lopás; |  |  |
+|  |  | □ |  |  | az EK-Szerződés alapján vagy az EU-Szerződés VI. címe alapján elfogadott jogi aktusokból eredő kötelezettségek végrehajtása céljából a kibocsátó állam által megállapított bűncselekmények. |  |  |
+|  |  |  |  |  | Amennyiben ezt a négyzetet megjelölte, kérjük, tüntesse fel az EK-Szerződés vagy az EU-Szerződés alapján elfogadott azon jogi aktus pontos rendelkezéseit, amellyel a bűncselekmény kapcsolatos: ......... |  |  |
+|  |  |  |  |  | ......................................................................................................................................................................... |  |  |
+|  |  |  |  |  | ......................................................................................................................................................................... |  |  |
+|  |  |  |  |  | 4. Amennyiben a fenti 2. pontban meghatározott bűncselekmény(ek) nem szerepelnek a 3. pontban, kérjük, adjon pontos leírást az érintett bűncselekményről(-ekről): ................................................................ |  |  |
+|  |  |  |  |  | ......................................................................................................................................................................... |  |  |
+|  |  |  |  |  | ......................................................................................................................................................................... |  |  |
+|  |  |  |  |  | ......................................................................................................................................................................... |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+| h) |  |  | A pénzbüntetést kiszabó határozat jogi státusza: |  |  |  |  |
+|  |  |  | 1. Erősítse meg (a megfelelő négyzetek megjelölésével) az alábbiakat: |  |  |  |  |
+|  |  |  | □ a) a határozat jogerős határozat |  |  |  |  |
+|  |  |  | □ b) a tanúsítványt kiállító hatóság tudomása szerint ugyanazon cselekmény miatt ugyanazon személlyel szemben a végrehajtó államban nem hoztak határozatot, és a kibocsátó vagy a végrehajtó államtól eltérő, bármely állam által kibocsátott ilyen határozat nem került végrehajtásra. |  |  |  |  |
+|  |  |  | 2. Kérjük, jelezze, hogy az ügy írásbeli tárgyát képezte-e: |  |  |  |  |
+|  |  |  | □ a) Nem, nem képezte írásbeli eljárás tárgyát. |  |  |  |  |
+|  |  |  | □ b) Igen. Megerősítést nyert, hogy az érintett személy, a kibocsátó állam jogának megfelelően, személyesen vagy a nemzeti jog szerint meghatalmazott képviselője útján tájékoztatást kapott az ügyben a jogorvoslathoz való jogáról és az ilyen jogorvoslati lehetőség határidejéről. |  |  |  |  |
+|  |  |  | 3. Jelezze, hogy az érintett személy személyesen jelen volt-e a határozat meghozatalát eredményező tárgyaláson: |  |  |  |  |
+|  |  |  | 1. □ Igen, az érintett személyesen jelen volt a határozat meghozatalát eredményező tárgyaláson. |  |  |  |  |
+|  |  |  | 2. □ Nem, az érintett nem volt jelen a határozat meghozatalát eredményező tárgyaláson. |  |  |  |  |
+|  |  |  | 3. Amennyiben megjelölte a 2. pontot, adja meg az alábbiak valamelyikének fennállását: |  |  |  |  |
+|  |  |  |  |  |  | □ 3.1a. az érintettet személyesen idézték …………………. -ára/-ére (év/hónap/nap), és ily módon tájékoztatták annak a tárgyalásnak a kitűzött időpontjáról és helyéről, amely a határozat meghozatalához vezetett, és tájékoztatták arról, hogy a határozat meghozatalára meg nem jelenése esetén is sor kerülhet; VAGY |  |
+|  |  |  |  |  |  | □ 3.1b. az érintettet nem idézték személyesen, de más módon ténylegesen hivatalos tájékoztatást kapott annak a tárgyalásnak a kitűzött időpontjára és helyére vonatkozóan, amely a határozat meghozatalához vezetett, mégpedig oly módon, hogy egyértelműen megállapítást nyert, hogy a kitűzött tárgyalásról tudomást szerzett, és tájékoztatták arról, hogy a határozat meghozatalára meg nem jelenése esetén is sor kerülhet; VAGY |  |
+|  |  |  |  |  |  | □ 3.2. az érintett személy a kitűzött tárgyalás ismeretében meghatalmazta vagy az általa választott vagy az állam által kirendelt jogi képviselőt arra, hogy a tárgyalás során a védelmét ellássa, és az említett jogi képviselő ténylegesen ellátta az érintett személy védelmét a tárgyaláson; VAGY |  |
+|  |  |  |  |  |  | □ 3.3. a határozatot …… -án/-én (év/hónap/nap) személyesen kézbesítették az érintett személynek, és kifejezetten tájékoztatták őt a perújításhoz vagy fellebbezéshez való jogáról, amely eljárásban joga van részt venni, és amely lehetővé teszi az ügy újbóli érdemi vizsgálatát – beleértve az új bizonyítékokat –, és amely az eredeti határozat megváltoztatásához vezethet, valamint |  |
+|  |  |  |  |  |  |  | □ az érintett egyértelműen kijelentette, hogy nem vitatja a határozatot, VAGY |
+|  |  |  |  |  |  |  | □ a megállapított határidőn belül nem kért perújítást vagy nem fellebbezett; VAGY |
+|  |  |  |  |  |  | □ 3.4. hogy a személy – miután kifejezetten tájékoztatták az eljárásokról és a tárgyaláson való személyes megjelenésének lehetőségéről – kifejezetten lemondott a szóbeli meghallgatásra vonatkozó jogáról, és kifejezetten jelezte, hogy nem vitatja az ügyet. |  |
+|  |  |  | 4. Amennyiben megjelölte a fenti 3.1b., 3.2., 3.3. vagy 3.4 pontot, kérem, adjon tájékoztatást az adott feltétel teljesülésének módjáról: |  |  |  |  |
+|  |  |  | ........................................................................................................................................................................ |  |  |  |  |
+|  |  |  | ........................................................................................................................................................................ |  |  |  |  |
+|  |  |  | 5. A pénzbüntetés részleges megfizetése Amennyiben a pénzbüntetés egy részét a kibocsátó államban – illetve a tanúsítványt kibocsátó hatóság tudomása szerint bármely másik államban – már megfizették, kérjük a megfizetett összeget feltüntetni: |  |  |  |  |
+|  |  |  | ......................................................................................................................................................................... |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+| i) |  |  |  | Alternatív szankciók, beleértve a szabadságelvonással járó szankciókat |  |  |  |
+|  |  |  |  | 1. Kérjük, jelezze, hogy a kibocsátó állam engedélyezi-e a végrehajtó állam számára alternatív szankciók alkalmazását abban az esetben, ha a büntetést kiszabó határozat teljes vagy részleges végrehajtására nincsen lehetőség: |  |  |  |
+|  |  |  |  | □ Igen |  |  |  |
+|  |  |  |  | □ Nem |  |  |  |
+|  |  |  |  | 2. Amennyiben igen, kérjük, jelölje meg, hogy melyik szankció alkalmazható (a szankció jellege és a büntetés felső tétele): |  |  |  |
+|  |  |  |  | □ Szabadságelvonás. Maximális időtartama: ................................................................................................. |  |  |  |
+|  |  |  |  | □ Közérdekű munka (vagy annak megfelelő büntetés). Maximális időtartama: ........................................... |  |  |  |
+|  |  |  |  | □ Egyéb szankciók. Megnevezés: .................................................................................................................. |  |  |  |
+|  |  |  |  | ......................................................................................................................................................................... |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+| j) |  |  |  | Az ügy lényeges körülményei (fakultatív információ): ................................................................................. |  |  |  |
+|  |  |  |  | ......................................................................................................................................................................... |  |  |  |
+|  |  |  |  | ......................................................................................................................................................................... |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+| k) |  |  |  | A pénzbüntetést megállapító határozat szövege a tanúsítvány mellékletét képezi. |  |  |  |
+|  |  |  |  | A tanúsítványt kibocsátó hatóságnak és/vagy képviselőjének a tanúsítvány valóságnak megfelelő tartalmát igazoló aláírása: ............................................................................................................................... |  |  |  |
+|  |  |  |  | ......................................................................................................................................................................... |  |  |  |
+|  |  |  |  | Neve: .............................................................................................................................................................. |  |  |  |
+|  |  |  |  | Betöltött tisztsége (beosztás/rang): ................................................................................................................ |  |  |  |
+|  |  |  |  | Dátum: ........................................................................................................................................................... |  |  |  |
+|  |  |  |  | Hivatalos pecsét (amennyiben rendelkezésre áll) |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
 
 ### 14. számú melléklet a 2012. évi CLXXX. törvényhez
 
@@ -3157,7 +3448,7 @@ E törvény 156. §-a értelmében a tanúsítvány az alábbi adatokat tartalma
 | g) Amennyiben a vagyonelkobzást elrendelő határozatot több mint egy végrehajtó államnak továbbították, a következő információkat kell megadni: 1. A vagyonelkobzást elrendelő határozatot a következő egyéb végrehajtó államoknak továbbították (ország és hatóság): …………………………………………………………………………………………………………... …………………………………………………………………………………………………………………….. 2. A vagyonelkobzást elrendelő határozatot több mint egy végrehajtó államnak továbbították az alábbi ok miatt (jelölje meg a megfelelő négyzetet): 2.1. Amennyiben a vagyonelkobzást elrendelő határozat egy vagy több meghatározott vagyontárgyat érint: □ A vagyonelkobzást elrendelő határozatban foglalt különböző vagyontárgyak vélhetően különböző végrehajtó államokban találhatók. □ A meghatározott vagyontárgy elkobzása több mint egy állam területére kiterjedő fellépést tesz szükségessé. □ A vagyonelkobzást elrendelő határozatban foglalt meghatározott vagyontárgy vélhetően két vagy több meghatározott végrehajtó állam egyikében található. 2.2. Amennyiben a vagyonelkobzást elrendelő határozat pénzösszegre vonatkozik: □ Az érintett vagyonnal kapcsolatban nem került sor biztosítási intézkedés elrendelésére a 2003. július 22-i 2003/577/IB kerethatározat szerint. □ A kibocsátó államban és bármelyik végrehajtó államban elkobozható vagyon értéke valószínűsíthetően nem elegendő a vagyonelkobzást elrendelő határozatban megnevezett teljes összeg fedezésére. □ Egyéb ok(ok) (éspedig): …………………………………………………………………………………….. …………………………………………………………………………………………………………………. …………………………………………………………………………………………………………………. |
 | --- |
 
-2K26832_7
+6K70889O_7
 
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -3221,7 +3512,7 @@ E törvény 156. §-a értelmében a tanúsítvány az alábbi adatokat tartalma
 | ......................................................................................................................................................................................... A meghatározott vagyontárgy(ak) fellelhetősége (amennyiben ez nem ismeretes, legutóbbi ismert fellelhetősége): ………………………………………………………………………………………………………………………… ………………………………………………………………………………………………………………………… |  |  |  |  |  |
 | Amennyiben a meghatározott vagyontárgy(ak) elkobzása egynél több végrehajtó állam területére kiterjedő fellépést tesz szükségessé, a fellépés leírása: ................................................................................................................ |  |  |  |  |  |
 | ......................................................................................................................................................................................... |  |  |  |  |  |
-| 1.3. A bíróság az alábbi kérdésekről határozott a vagyonnal kapcsolatban (kérjük, a megfelelő négyzet(ek) megjelölésével jelezze): |  |  |  |  |  |
+| 1.2. A bíróság az alábbi kérdésekről határozott a vagyonnal kapcsolatban (kérjük, a megfelelő négyzet(ek) megjelölésével jelezze): |  |  |  |  |  |
 | □ i. a jövedelem bűncselekményből származik, vagy értéke az ilyen jövedelemmel részben vagy egészben megegyező, |  |  |  |  |  |
 | □ ii. ilyen bűncselekmény elkövetéséhez eszközül használtak, |  |  |  |  |  |
 | □ iii. az alábbi a) b) és c) pontban meghatározott kiterjesztett vagyonelkobzásnak a kibocsátó államban történő alkalmazása eredményeképpen elkobzás alá esik. A határozat alapjául szolgál, hogy a Bíróságnak meghatározott tények alapján teljes mértékben az a meggyőződése, hogy a szóban forgó vagyon a következőkből származik: |  |  |  |  |  |

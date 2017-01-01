@@ -111,7 +111,7 @@ végzése;
 
 (6a) Az ingatlan-nyilvántartási térképi adatbázisból elektronikus és papír alapú másolatot a miniszter által rendeletben meghatározott tartalommal kell kiadni. Ha a hitelesített térképmásolat szolgáltatása elektronikus dokumentumként történik, e tényre a hitelesítési záradékban utalni kell.
 
-(6b) Az ingatlan-nyilvántartási térképi adatbázisból elektronikus formában szolgáltatott hitelesített másolat olyan elektronikus okirat, amelyet hitelesítési záradékkal láttak el, és amelyet a földmérési és térinformatikai államigazgatási szerv fokozott biztonságú elektronikus intézményi aláírással és időbélyegzővel hitelesített. Az ilyen módon szolgáltatott térképmásolat kizárólag elektronikus formában rendelkezik a (6c) bekezdés szerinti tanúsító erővel.
+(6b) Az ingatlan-nyilvántartási térképi adatbázisból elektronikus formában szolgáltatott hitelesített másolat olyan elektronikus okirat, amelyet hitelesítési záradékkal láttak el, és amelyet a földmérési és térinformatikai államigazgatási szerv fokozott biztonságú elektronikus bélyegzővel és időbélyegzővel hitelesített. Az ilyen módon szolgáltatott térképmásolat kizárólag elektronikus formában rendelkezik a (6c) bekezdés szerinti tanúsító erővel.
 
 (6c) A (6b) bekezdés szerint elektronikusan kiadott dokumentum elektronikus formában hitelesen tanúsítja, hogy a másolat a kiadást megelőző napig az eredetivel megegyezik. Ezt a dokumentum záradékában fel kell tüntetni.
 
@@ -577,7 +577,7 @@ amelyek együttesen alkotják az alapponthálózati pontok adatbázisát.
 (2) A tulajdonosi jogokat:
 
 - a) az államhatár érintett földmérési jelei (határjelei), valamint az aktív GNSS hálózat vonatkozásában a földmérési és térinformatikai államigazgatási szerv gyakorolja, és gondoskodik azok kezeléséről, nyilvántartásáról és időszakos karbantartásáról,
-- b) az Országos Gravimetriai Hálózat pontjai kivételével az alapponthálózati pontok vonatkozásában a fővárosi és megyei kormányhivatalok az ingatlanügyi hatóságon keresztül gyakorolják,
+- b) az Országos Gravimetriai Hálózat pontjai kivételével az alapponthálózati pontok vonatkozásában az ingatlanügyi hatóságok gyakorolják,
 - c) a katonai tájékozási hálózat pontjai vonatkozásában a honvédelem térképészeti támogatásáért felelős szerv,
 - d) az Országos Gravimetriai Hálózat pontjai tekintetében a bányászati ügyekért felelős miniszter által kijelölt szervezet gyakorolja.
 

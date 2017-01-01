@@ -224,7 +224,7 @@ az állatok ésszerű védelmének és kíméletének biztosítása érdekében 
 
 (6) A veszélyes ebet polgári jogi szempontból vadállatnak kell tekinteni.
 
-(7) Az e törvény és a végrehajtására kiadott jogszabály szerinti eljárásokban az ebek viselkedésének megítélésében jártas szakértőként az a személy járhat el, aki az állatvédelmi hatóságtól erre engedélyt kapott. Az engedélyezéssel egyidejűleg az állatvédelmi hatóság nyilvántartásba veszi a szakértőt. A nyilvántartás tartalmazza az ebek viselkedésének megítélésében jártas szakértők természetes személyazonosító adatait. Az állatvédelmi hatóság a honlapján közzéteszi a szakértői névjegyzékben szereplő személy nevét, telefonos elérhetőségét, valamint elektronikus levélcímét.
+(7) Az e törvény és a végrehajtására kiadott jogszabály szerinti eljárásokban az ebek viselkedésének megítélésében jártas szakértőként az a személy járhat el, aki a tevékenység folytatására irányuló szándékát a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelenti az állatvédelmi hatóságnak. A bejelentés – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – tartalmazza a bejelentő természetes személyazonosító adatait, továbbá meg kell jelölni a bejelentő telefonos elérhetőségét, valamint elektronikus levélcímét. A bejelentés alapján az állatvédelmi hatóság nyilvántartásba veszi a szakértőt. A nyilvántartás tartalmazza – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – az ebek viselkedésének megítélésében jártas szakértők természetes személyazonosító adatait. Az állatvédelmi hatóság a honlapján közzéteszi a szakértői névjegyzékben szereplő személy nevét, telefonos elérhetőségét, valamint elektronikus levélcímét.
 
 (8) A település jegyzője kérheti az állatvédelmi hatóságtól az eb egyedi veszélyessé minősítését.
 
@@ -589,7 +589,7 @@ eb után.
 
 45/C. § Az e törvény alapján elkobzott állat tulajdonjoga törvény eltérő rendelkezése hiányában az államra száll.
 
-46. §
+46. § Az állatvédelmi hatóság döntésével szemben nincs helye fellebbezésnek.
 
 47. §
 
@@ -626,7 +626,7 @@ eb után.
 - g) a település belterületén a kóbor állatok befogásával, tulajdonjogának átruházásával és elhelyezésével kapcsolatos feladatok ellátásának részletes szabályait,
 - h) az eb okozta fizikai sérülés, illetve ennek veszélye keletkezésekor felmerülő hatósági feladatokat, valamint a veszélyesnek minősített eb tartásának és a tartás engedélyezésének részletes szabályait,
 - i) a transzponderrel megjelölt ebek adatait nyilvántartó országos adatbázis működési feltételeit, valamint az adatbázisba történő regisztráció díját,
-- j) az ebek viselkedésének megítélésében jártas szakértők engedélyezésére vonatkozó részletes szabályokat
+- j) az ebek viselkedésének megítélésében jártas szakértői tevékenység bejelentésére vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
 

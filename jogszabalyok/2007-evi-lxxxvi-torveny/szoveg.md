@@ -103,9 +103,9 @@ Az Országgyűlés a hatékonyan működő villamosenergia-versenypiac kialakít
 - 42a. Leágazási pont: az átviteli vagy az elosztó hálózat azon pontja, amelyen keresztül a csatlakozóberendezés részét képező csatlakozó vezeték e hálózathoz kapcsolódik;
 - 43. Legkisebb költség: az engedélyezett tevékenység gyakorlásához az engedélyesnél, illetve nemzetgazdasági szinten szükséges és indokoltan felmerülő ráfordítás;
 - 44. Magánvezeték: közcélúnak, termelői vezetéknek vagy közvetlen vezetéknek nem minősülő, a csatlakozási pont után elhelyezkedő hálózati elem, vezeték, vagy átalakító- és kapcsolóberendezés, amely az átviteli vagy elosztó hálózathoz közvetlenül vagy közvetve kapcsolódó felhasználó vagy a vételező ellátására szolgál;
-- 45. Megújuló energiaforrás: nem fosszilis és nem nukleáris energiaforrás (nap, szél, geotermikus energia, hullám-, árapály- vagy vízenergia, biomassza, biomasszából közvetve vagy közvetlenül előállított energiaforrás, továbbá hulladéklerakóból, illetve szennyvízkezelő létesítményből származó gáz, valamint a biogáz);
+- 45. Megújuló energiaforrás: nem fosszilis és nem nukleáris energiaforrás, amelyből nap-, szél-, légtermikus, geotermikus, hidrotermikus energia, vízenergia, biomasszából nyert energia – beleértve a biogázból (hulladéklerakóból, illetve szennyvízkezelő létesítményből származó, valamint az egyéb szerves anyagokból előállított éghető gázból) nyert energiát – állítható elő;
 - 45a. Menetrend: egy adott naptári napra a kereskedelmi szabályzatban meghatározott elszámolási mérési időegységekre vonatkozó villamos-átlagteljesítmények adatsora;
-- 45b. Megújulóenergia-támogatási rendszer: jogszabállyal létrehozott olyan intézkedés, eszköz, rendszer vagy mechanizmus, amely a megújuló energiaforrásokból előállított energia felhasználására ösztönöz ezen energia költségének csökkentésével, az eladási ár emelésével, vagy a megújuló energiaforrásokból előállított energia megvásárolt mennyiségének – a megújuló energiával kapcsolatos kötelezettség bevezetése révén vagy egyéb módon való – növelésével, ideértve a közvetlenül vagy közvetve nyújtott beruházási és működési támogatásokat, valamint a megújuló energiaforrások alkalmazását elősegítő közvetlen ártámogatásokat, adókedvezményeket, adó-visszatérítéseket, megújuló energiaforrások alkalmazására, annak kötelező átvételére vonatkozó előírásokat is;
+- 45b. Megújulóenergia-támogatási rendszer: jogszabállyal létrehozott olyan intézkedés, eszköz, rendszer vagy mechanizmus, amely a megújuló energiaforrásokból előállított energia felhasználására ösztönöz ezen energia költségének csökkentésével, az ezen energiát előállítók bevételének emelésével, vagy a megújuló energiaforrásokból előállított energia megvásárolt mennyiségének – a megújuló energiával kapcsolatos kötelezettség bevezetése révén vagy egyéb módon való – növelésével, ideértve a közvetlenül vagy közvetve nyújtott beruházási és működési támogatásokat, valamint a megújuló energiaforrások alkalmazását elősegítő közvetlen ártámogatásokat, adókedvezményeket, adó-visszatérítéseket, megújuló energiaforrások alkalmazására, annak kötelező átvételére vonatkozó előírásokat is;
 - 46. Mérlegkör: a kiegyenlítő energia igénybevételének okozathelyes megállapítására és elszámolására és a kapcsolódó feladatok végrehajtására a vonatkozó felelősségi viszonyok szabályozása érdekében létrehozott, egy vagy több tagból álló elszámolási szerveződés;
 - 47. Nemzeti Cselekvési Terv: a közlekedésben, a villamosenergia-fogyasztásban, a fűtésben és hűtésben felhasznált, megújuló energiaforrásokból előállított energia 2020-as részarányaira vonatkozó – az energiahatékonysággal kapcsolatos egyéb intézkedéseknek a végső energiafogyasztásra gyakorolt hatásait figyelembe vevő – a Magyarországra érvényes célértékeket, és az e célértékek elérésére alkalmas, foganatosítandó intézkedéseket tartalmazó terv;
 - 47a. nemzetközi üzemi és kereskedelmi szabályzat: a 714/2009/EK rendelet alapján kiadott európai bizottsági rendeletek szerint jóváhagyott feltételeket és módszertanokat tartalmazó szabályzat;
@@ -138,7 +138,9 @@ Az Országgyűlés a hatékonyan működő villamosenergia-versenypiac kialakít
 - 70a. Villamosenergia-tároló: villamos energia fizikai vagy kémiai technológiával történő tárolására szolgáló berendezés, amely a betáplált villamos energiát átalakítja, eltárolja és annak műszaki veszteséggel csökkentett részét a villamosenergia-rendszerbe visszatáplálja;
 - 71. Villamosmű: az erőmű, az átviteli és az elosztó hálózat;
 - 72. Zöld bizonyítvány: olyan forgalomképes okirat, amely igazolja a megújuló energiaforrásból nyert energiával előállított villamos energia mennyiségét a megújuló energiaforrásból nyert energiával termelt villamos energia felhasználására előírt minimális kötelezettség teljesítésére vonatkozó támogatási rendszer esetén;
-- 74. Külön kezelt intézmény: központi költségvetési szerv, központi költségvetési szerv költségvetési intézménye, helyi önkormányzat, helyi önkormányzat költségvetési intézménye, valamint normatív állami támogatásban részesülő, közfeladatot ellátó, nem nyereség- és vagyonszerzési célt szolgáló egyéb intézmény.
+- 74. Külön kezelt intézmény: központi költségvetési szerv, központi költségvetési szerv költségvetési intézménye, helyi önkormányzat, helyi önkormányzat költségvetési intézménye, valamint normatív állami támogatásban részesülő, közfeladatot ellátó, nem nyereség- és vagyonszerzési célt szolgáló egyéb intézmény;
+- 75. Prémium típusú támogatás: a prémium típusú támogatási rendszer keretében nyújtott ártámogatás;
+- 76. Prémium típusú támogatási rendszer: olyan támogatási rendszer, amelyben a megújuló energiaforrásból származó villamos energiát a termelő piaci körülmények között értékesíti és emellett az általa termelt villamos energiával arányosan ártámogatásban (prémiumban) részesül;
 
 ### II. Fejezet — A VILLAMOS ENERGIA TERMELÉSE
 
@@ -226,49 +228,57 @@ Az Országgyűlés a hatékonyan működő villamosenergia-versenypiac kialakít
 
 9. § (1) A környezet és a természet védelme, a felhasználók ellátása, az elsődleges energiaforrások felhasználásának megtakarítása, valamint a felhasználható energiaforrások bővítése érdekében elő kell segíteni a megújuló energiaforrás, valamint a hulladék, mint energiaforrás felhasználását.
 
-(2) A megújuló energiaforrás, valamint a hulladék, mint energiaforrás felhasználásának elősegítése érdekében e törvény és a felhatalmazása alapján kiadott külön jogszabály energiaforrásokra, termelési eljárásokra, az erőművi névleges teljesítőképességre, az energiaátalakítás hatásfokára, hatékonyságára, valamint az erőmű létesítésének időpontjára tekintettel differenciált, kötelező átvételi rendszert hoz létre.
+(2) A megújuló energiaforrás, valamint a hulladék mint energiaforrás felhasználásának elősegítése érdekében e törvény és a felhatalmazása alapján kiadott jogszabály energiaforrásokra, termelési eljárásokra, az erőművi névleges teljesítőképességre, az energiaátalakítás hatásfokára, hatékonyságára, valamint az erőmű létesítésének időpontjára tekintettel differenciált, kötelező átvételi rendszert és prémium típusú támogatási rendszert hoz létre.
 
-10. § (1) A 9. §-ban meghatározott kötelező átvételi rendszer részletes szabályainak kialakítása során a Kormány az alábbiakat veszi figyelembe:
+10. § (1) A 9. §-ban meghatározott kötelező átvételi rendszer és prémium típusú támogatási rendszer részletes szabályainak kialakítása során a Kormány az alábbiakat veszi figyelembe:
 
-- a) a megújuló energiaforrásokból és a hulladékból nyert energiával termelt villamos energia kötelező átvételi rendszerének biztosítania kell a szükséges hosszú távú kiszámíthatóságot és az energiapolitikai elvekkel való összhangot,
-- b) a kötelező átvételi rendszernek a termelők piaci versenyét fenntartva kell csökkentenie a termelt villamos energia értékesítése során jelentkező versenyhátrányt,
-- c) az átvételi kötelezettség alá eső villamos energia átvételi árának, mennyiségének és a kötelező átvétel időtartamának megállapításakor figyelembe kell venni az egyes termelési eljárások átlagos megtérülési idejét, az egyes energiaforrások felhasználásának Magyarország természeti adottságaival összefüggő hatékonyságát, a felhasználók teherbíró képességét és a technológiák fejlődéséből adódó hatékonyságjavulást, valamint az adott technológiának a villamosenergia-rendszer működésére gyakorolt hatását és a technológiai sajátosságokat,
-- d)
-- e) a külön jogszabályban meghatározottak szerint a stabil gazdasági és jogi környezet biztosítása érdekében a kötelező átvételnek az adott projekt villamos energia termelésének kezdetétől számítottan, a c) pont alapján meghatározott időtartamra kell vonatkoznia.
+- a) a megújuló energiaforrásokból nyert energiával termelt villamos energia kötelező átvételi rendszerének és a prémium típusú támogatási rendszernek biztosítania kell a szükséges hosszú távú kiszámíthatóságot és az energiapolitikai elvekkel való összhangot,
+- b) a termelők piaci versenyének fenntartása érdekében – a megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló kormányrendeletben meghatározott kivételekkel – prémium típusú támogatást kell alkalmazni,
+- c) a prémium típusú támogatás mértékét – a megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló kormányrendeletben meghatározott kivételekkel – pályázati eljárás keretében kell meghatározni a költséghatékonyság érdekében.
 
-(2) Az (1) bekezdésben meghatározott szempontok figyelembevétele mellett a villamos energiára vonatkozó kötelező átvételi rendszeren keresztül nem segíthető elő
+(2) Az (1) bekezdésben meghatározott szempontok figyelembevétele mellett a villamos energiára vonatkozó kötelező átvételi és a prémium típusú támogatás nem adható a fát és faterméket piaci forgalomba bocsátó piaci szereplők kötelezettségeinek meghatározásáról szóló, 2010. október 20-i 995/2010/EU európai parlamenti és tanácsi rendelet (továbbiakban: EUTR), valamint az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény (a továbbiakban: Evt.) szerinti illegális kitermelésből származó fatermékre, vagy az EUTR és az Evt. szerint legális kitermelésből származó erdei faválasztékok közül a fűrészipari rönk vagy annál magasabb rendű faválaszték mint energiaforrás felhasználásával történő villamosenergia-termelésre.
 
-- a)–b)
-- c) az erdőről és az erdő védelméről szóló 1996. évi LIV. törvény (a továbbiakban: Evt.) szerinti engedély nélkül kitermelt bármely, vagy az Evt. szerint engedélyezett fakitermelésből származó fűrészipari rönk, vagy annál magasabb rendű faválaszték, mint energiaforrás felhasználásával történő villamosenergia-termelés, a 171. § (6) bekezdésében foglalt kivétellel.
+(3) A szélerőművek, szélerőműparkok által termelt villamos energia támogatásának szabályait az (1) bekezdés sérelme nélkül, elkülönítetten, a rendszerszintű szolgáltatások korlátozott technikai lehetőségeinek figyelembevételével kell meghatározni.
 
-(3) A szélerőművek, szélerőműparkok által termelt villamos energia kötelező átvételének szabályait az (1) bekezdés sérelme nélkül, elkülönítetten, a rendszerszintű szolgáltatások korlátozott technikai lehetőségeinek figyelembevételével kell meghatározni.
+(3a) Az átvételi kötelezettség vagy prémium típusú támogatási rendszer keretében kiosztható új támogatási jogosultságok maximális mértékét a miniszter rendeletben állapítja meg, figyelembe véve az egyes termelési eljárások átlagos megtérülési idejét, az egyes energiaforrások felhasználásának Magyarország természeti adottságaival összefüggő hatékonyságát, a felhasználók teherbíró képességét és a technológiák fejlődéséből adódó hatékonyságjavulást, valamint az adott technológiának a villamosenergia-rendszer működésére gyakorolt hatását és a technológiai sajátosságokat. A miniszter e rendelete tartalmazza a támogatási jogosultságok maximális mértékét a következő 5 évre vonatkozóan éves bontásban, amelyek évente felülvizsgálatra kerülnek úgy, hogy a tárgyévre vonatkozó értékek a tárgyévben és az azt megelőző évben már nem csökkenthetőek.
 
 (4) Az átvételi kötelezettség alá eső villamos energia termelői kötelesek az átviteli rendszerirányító üzletszabályzata szerinti mérlegkör-tagsági szerződést megkötni, és az átviteli rendszerirányító által az átvételi kötelezettség alá eső villamos energia elszámolására létrehozott mérlegkörhöz csatlakozni. Ezt a mérlegkört az átviteli rendszerirányító egyenlíti ki.
 
-11. § (1) A 10. § szerinti szempontok alapján meghatározott kötelező átvétel történhet
+(5) A prémium típusú támogatás alá eső villamos energia termelői kötelesek az átviteli rendszerirányító üzletszabályzata szerinti vonatkozó szerződést megkötni az átviteli rendszerirányítóval.
 
-- a) piaci áron,
-- b) az e törvényben vagy külön jogszabályban meghatározott átvételi áron.
+11. § (1) A 10. § szerinti szempontok alapján meghatározott kötelező átvétel a megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló kormányrendelet szerinti kötelező átvételi áron történik.
 
-(2) Az (1) bekezdés b) pontja szerinti, átvételi kötelezettség alá eső villamos energia átvételi árát – a 171. § (3)–(4) bekezdéseivel összhangban – Ft/kWh egységben kell megállapítani.
+(2) A prémium típusú támogatási rendszer keretében megújuló energiaforrások felhasználásával történő villamosenergia-termelést lehetővé tevő új beruházások ösztönzésére nyújtható támogatás.
 
-(3) Az átvételi kötelezettség alá eső villamos energia átvételi árát, az átvétel feltételeit és módját a Kormány rendeletben állapítja meg. Az átvételi kötelezettség alá eső villamos energia mennyiségét és a kötelező átvétel időtartamát a jogszabályban meghatározott feltételek szerint a Hivatal állapítja meg. Az átvételi kötelezettség alá eső villamos energia átvételi árát – a (2) bekezdés rendelkezéseivel összhangban – energiaforrásonként, termelési eljárásonként, valamint az erőművi teljesítőképességre való tekintettel eltérő mértékben is meg lehet állapítani.
+(3) A prémium típusú támogatás támogatott árát a megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló kormányrendeletben meghatározott eseteket kivéve pályázati eljárás során a Hivatal állapítja meg.
 
-(4) Az (1) bekezdés b) pontja szerinti kötelező átvétel legfeljebb az adott beruházásnak az adott átvételi ár melletti megtérülési idejére biztosítható.
+(4) Az (1) bekezdés szerinti, átvételi kötelezettség alá eső villamos energia átvételi árát és a prémium típusú támogatás támogatott árát Ft/kWh egységben kell megállapítani.
 
-(5) Az átvételi kötelezettség alá eső villamos energia mennyiségének, valamint a kötelező átvétel időtartamának meghatározásakor csökkentő tényezőként kell figyelembe venni az állami támogatásokat, és a környezetvédelmi termékdíjról szóló külön törvény szerinti hulladékhasznosítói szolgáltatásra vonatkozó megrendelést.
+(5) Az átvételi kötelezettség alá eső villamos energia mennyiségét és a kötelező átvétel időtartamát, valamint a pályázati eljárás alá nem tartozó, prémium típusú támogatás alá eső villamos energia mennyiségét és a támogatás időtartamát a Hivatal állapítja meg. Az átvételi kötelezettség és a prémium típusú támogatás keretében nyújtott támogatás mértékét – a (4) bekezdés rendelkezéseivel összhangban – energiaforrásonként, termelési eljárásonként, valamint az erőművi teljesítőképességre való tekintettel eltérő mértékben is meg lehet állapítani.
 
-(6) Az (5) bekezdés szempontjából figyelembe veendő támogatások különösen a beruházási támogatások, az adókedvezmények, valamint a megújuló energiaforrások mennyiségének, illetve arányának növelésén keresztül megtakarított azon kibocsátási egységekből eredő haszon, amely kibocsátási egységekhez az érintett az üvegházhatású gázok kibocsátási egységeinek kereskedelméről szóló törvény rendelkezései alapján térítés nélkül jutott. Nem kell figyelembe venni a 147. § (1) bekezdése szerinti szénipari szerkezetátalakítási, valamint átállási költségtámogatást.
+(6) Az (1) bekezdés szerinti kötelező átvétel és a prémium típusú támogatás Hivatal általi megállapítása során tekintettel kell lenni arra, hogy ezek a támogatások legfeljebb az adott beruházás méltányos megtérüléséhez szükséges mértékig biztosíthatóak, és a támogatás időtartama nem haladhatja meg a számviteli szabályok szerinti értékcsökkenési leírás időtartamát.
 
-11/A. § A Hivatal a Nemzeti Cselekvési Tervben foglalt, termelésre vonatkozó célok teljesülését legalább kétévente felülvizsgálja, erről nyilvános jelentést és a Kormány számára szükség szerint a 11. § (2) bekezdésben meghatározottakra kiterjedő javaslatot készít.
+(7) Az átvételi kötelezettség keretében adható támogatás, valamint a prémium típusú támogatás mértékének meghatározásakor csökkentő tényezőként kell figyelembe venni az állami támogatásokat és a környezetvédelmi termékdíjról szóló törvény szerinti hulladékhasznosítói szolgáltatásra vonatkozó megrendelést.
+
+(8) A (7) bekezdés szempontjából figyelembe veendő támogatások különösen a beruházási támogatások, az adókedvezmények, valamint a megújuló energiaforrások mennyiségének, illetve arányának növelésén keresztül megtakarított azon kibocsátási egységekből eredő haszon, amely kibocsátási egységekhez az érintett az üvegházhatású gázok kibocsátási egységeinek kereskedelméről szóló törvény rendelkezései alapján térítés nélkül jutott. Nem kell figyelembe venni a 147. § (1) bekezdése szerinti szénipari szerkezetátalakítási, valamint a kapcsolt termelésszerkezet-átalakítási támogatást.
+
+(9) A kötelező átvételi, illetve prémium típusú támogatási jogosultságok csak a (7) és (8) bekezdés szerint figyelembe vett támogatás változása esetén, e változással arányosan módosíthatóak.
+
+(10) A prémium típusú támogatás elnyerésére kiírt pályázatokat a Hivatal bonyolítja le.
+
+(11) A Hivatal a kötelező átvétel vagy prémium típusú támogatás időtartamát és a támogatásra jogosult villamos energia mennyiségét megállapító határozatait a kedvezményezett kérelmére visszavonhatja.
+
+#### 11/A. §
 
 12. § (1) A megújuló energiaforrásból vagy a nagy hatékonyságú kapcsolt energiatermelésből származó villamos energia mennyiségét az értékesítő kizárólag származási garanciával igazolhatja a felhasználó részére.
 
-(2) Amennyiben a 11. § (1) bekezdésének b) pontja szerinti kötelező átvétel keretében értékesítő a megújuló és nem megújuló energiaforrásokat együttesen felhasználó termelő nem a külön jogszabályban meghatározott elszámolást alkalmazza, akkor a piaci ár és a kötelező átvételi ár különbségéből adódó árbevétel-többletet köteles visszafizetni, és a Hivatal jogosult vele szemben a 96. § (1) bekezdése szerinti jogkövetkezményeket alkalmazni.
+(2) Amennyiben a 11. § (1) bekezdése szerinti kötelező átvétel keretében értékesítő a megújuló és nem megújuló energiaforrásokat együttesen felhasználó termelő nem a külön jogszabályban meghatározott elszámolást alkalmazza, akkor a piaci ár és a kötelező átvételi ár különbségéből adódó árbevétel-többletet köteles visszafizetni, és a Hivatal jogosult vele szemben a 96. § (1) bekezdése szerinti jogkövetkezményeket alkalmazni.
 
-(3) A Hivatal évente jelentést készít a megújuló és a kapcsolt villamosenergia-termelésről, valamint a kötelező átvételi rendszer éves alakulásáról. A Hivatal a jelentést a honlapján közzéteszi.
+(2a) Amennyiben a prémium típusú támogatásban részesülő, a megújuló és nem megújuló energiaforrásokat együttesen felhasználó termelő nem a megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló kormányrendeletben meghatározott elszámolást alkalmazza, akkor a prémium típusú támogatás összegét köteles visszafizetni.
 
-13. § (1) Minden mérlegkör-felelős köteles a megújuló energiaforrásokból és a hulladékból nyert energiával termelt villamos energia működési támogatásának finanszírozásáról szóló miniszteri rendeletben foglaltaknak megfelelően megfizetni az átvételi kötelezettség alá eső villamosenergia-termelés támogatására az átviteli rendszerirányító által meghatározott pénzeszköz ráeső összegét, és erre vonatkozóan szerződést kötni az átviteli rendszerirányítóval.
+(3) A Hivatal évente jelentést készít a megújuló és a kapcsolt villamosenergia-termelésről, valamint a kötelező átvételi rendszer és a prémium típusú támogatás éves alakulásáról. A Hivatal a jelentést a honlapján közzéteszi.
+
+13. § (1) Minden mérlegkör-felelős köteles a megújuló energiaforrásokból és a hulladékból nyert energiával termelt villamos energia működési támogatásának finanszírozásáról szóló miniszteri rendeletben foglaltaknak megfelelően megfizetni az átvételi kötelezettség és prémium típusú támogatás alá eső villamosenergia-termelés támogatására az átviteli rendszerirányító által meghatározott pénzeszközök ráeső összegét, és erre vonatkozóan szerződést kötni az átviteli rendszerirányítóval.
 
 (2) A mérlegkör-felelős (1) bekezdés szerinti fizetési kötelezettségének alapját a mérlegkörébe tartozó felhasználók részére értékesített villamos energia képezi.
 
@@ -285,9 +295,9 @@ Az Országgyűlés a hatékonyan működő villamosenergia-versenypiac kialakít
 
 (6) Az átviteli rendszerirányító a 9. §-ban meghatározottak végrehajtása érdekében jogosult és köteles
 
-- a) az átvételi kötelezettség alá eső villamos energia elszámolására létrehozott, a kereskedelmi szabályzatban meghatározott mérlegkör működtetésére, kiegyenlítésére,
+- a) az átvételi kötelezettség alá eső villamos energia elszámolására létrehozott, a kereskedelmi szabályzatban meghatározott mérlegkör működtetésére, kiegyenlítésére, valamint a prémium típusú támogatási rendszer működtetésére,
 - b) az átvételi kötelezettség alá eső villamosenergia mennyiségre vonatkozóan a jogszabályi és a villamosenergia-ellátási szabályzatokban foglalt előírásoknak megfelelően azon a szervezett villamosenergia-piacon ügyletet kötni, amelyben részesedéssel rendelkezik, és
-- c) az átvételi kötelezettség alá eső villamos energia támogatásához szükséges összeget és az (1) bekezdés szerinti pénzeszköz mértékét az (1) bekezdés szerinti miniszteri rendeletben meghatározott részletes szabályok szerint meghatározni,
+- c) az átvételi kötelezettség és prémium típusú támogatás alá eső villamos energia támogatásához szükséges összegeket és az (1) bekezdés szerinti pénzeszközök mértékét az (1) bekezdés szerinti miniszteri rendeletben meghatározott részletes szabályok szerint meghatározni,
 - d) az (1) bekezdés szerinti pénzeszköz befizetésére vonatkozó kötelezettséget mérlegkörönként megállapítani és az érintett mérlegkör-felelősökkel elszámolni, figyelemmel a (2)–(5) bekezdésben foglaltakra.
 
 (7) A (6) bekezdés b) pontja szerinti szervezett villamosenergia-piacot működtető engedélyes közszolgáltatási kötelezettség keretében köteles a (6) bekezdés b) pontjának megfelelően meghatározott villamosenergia-mennyiség értékesítése céljából kereskedésben történő részvételre az átviteli rendszerirányítóval szerződést kötni.
@@ -296,11 +306,11 @@ Az Országgyűlés a hatékonyan működő villamosenergia-versenypiac kialakít
 
 (9) A háztartási méretű kiserőművek üzemeltetői által termelt villamos energiát az adott csatlakozási ponton értékesítő villamosenergia-kereskedő e törvény végrehajtására kiadott rendelet szerint köteles átvenni.
 
-### A kötelező átvételi rendszer működtetésének finanszírozása
+### A kötelező átvételi rendszer és a prémium típusú támogatási rendszer működtetésének finanszírozása
 
-13/A. § (1) Az átviteli rendszerirányítónak a 9. § szerinti kötelező átvételi rendszer működtetése érdekében folytatott tevékenysége során befolyt, 13. § (1) bekezdés szerinti, kötelező befizetésen alapuló pénzeszközök, amelyek az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 71. § (1) bekezdés c) pontja szerint nem tartoznak bele az általános forgalmi adó alapjába, valamint a megújuló energiaforrásokból és a hulladékból nyert energiával termelt villamos energia működési támogatásának finanszírozásáról szóló miniszteri rendeletben meghatározott egyéb bevételek nem minősülnek az átviteli rendszerirányító bevételének, az átviteli rendszerirányító azokat a kötelező átvételi rendszer működtetésétől eltérő célra nem fordíthatja és köteles egyéb pénzeszközeitől elkülönítetten kezelni. Az átviteli rendszerirányító köteles az elkülönített számlán kezelt pénzeszközöket és azok pénzkezelési költségeivel csökkentett nettó hozamát kötelezettségként kimutatni. Az átviteli rendszerirányító a kötelező átvételi rendszer működtetése érdekében folytatott tevékenység ellátása során a tevékenységgel összefüggő indokolt költségeit érvényesítheti. Az átviteli rendszerirányító e tevékenysége nem irányulhat kereskedelmi haszonszerzésre.
+13/A. § (1) Az átviteli rendszerirányítónak a 9. § szerinti kötelező átvételi rendszer és prémium típusú támogatási rendszer működtetése érdekében folytatott tevékenysége során befolyt, 13. § (1) bekezdése szerinti, kötelező befizetésen alapuló pénzeszközök, amelyek az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 71. § (1) bekezdés c) pontja szerint nem tartoznak bele az általános forgalmi adó alapjába, valamint a megújuló energiaforrásokból és a hulladékból nyert energiával termelt villamos energia működési támogatásának finanszírozásáról szóló miniszteri rendeletben meghatározott egyéb bevételek nem minősülnek az átviteli rendszerirányító bevételének, továbbá az átviteli rendszerirányító azokat a kötelező átvételi rendszer és a prémium típusú támogatási rendszer működtetésétől eltérő célra nem fordíthatja és köteles azokat egyéb pénzeszközeitől és egymástól is elkülönítetten kezelni. Az átviteli rendszerirányító köteles az elkülönített számlán kezelt pénzeszközöket és azok pénzkezelési költségeivel csökkentett nettó hozamát kötelezettségként kimutatni. Az átviteli rendszerirányító a kötelező átvételi rendszer és a prémium típusú támogatási rendszer működtetése érdekében folytatott tevékenység ellátása során a tevékenységgel összefüggő indokolt költségeit érvényesítheti. Az átviteli rendszerirányító e tevékenysége nem irányulhat kereskedelmi haszonszerzésre.
 
-(2) A 13. § (1) bekezdés szerinti, kötelező befizetésen alapuló pénzeszközöket a mérlegkör-felelős havonta az átviteli rendszerirányítónak fizeti meg azzal, hogy a pénzeszköz végső költségviselője – a 13. § (3) bekezdése szerinti villamos energiát vásároló felhasználó kivételével – a felhasználó. A felhasználóra eső pénzeszközt a mérlegkör-felelős köteles havonta a vele a kereskedelmi szabályzat szerinti ellátásalapú szerződéses jogviszonyban álló felhasználó részére kiállított számlán külön feltüntetni. Amennyiben a mérlegkör-felelős és a mérlegkörébe tartozó felhasználó között nem áll fenn a kereskedelmi szabályzat szerinti ellátás alapú villamosenergia-vásárlási szerződés, úgy a felhasználóra eső pénzeszközt a mérlegkör-felelős továbbhárítja a felhasználó ellátását biztosító villamosenergia-kereskedő – beleértve a felhasználónak közvetlenül értékesítő termelőt is – felé azzal, hogy a felhasználóra eső pénzeszköz végső költségviselője – a 13. § (3) bekezdése szerinti villamos energiát vásároló felhasználó kivételével – a felhasználó. A villamosenergia-kereskedő a felhasználóra eső pénzeszközöket a felhasználó részére kiállított számlán köteles külön feltüntetni.
+(2) A 13. § (1) bekezdés szerinti, kötelező befizetésen alapuló pénzeszközöket a mérlegkör-felelős havonta az átviteli rendszerirányítónak fizeti meg azzal, hogy a pénzeszközök végső költségviselője – a 13. § (3) bekezdése szerinti villamos energiát vásároló felhasználó kivételével – a felhasználó. A felhasználóra eső pénzeszközöket a mérlegkör-felelős köteles havonta a vele a kereskedelmi szabályzat szerinti ellátásalapú szerződéses jogviszonyban álló felhasználó részére kiállított számlán egy tételként külön feltüntetni. Amennyiben a mérlegkör-felelős és a mérlegkörébe tartozó felhasználó között nem áll fenn a kereskedelmi szabályzat szerinti ellátás alapú villamosenergia-vásárlási szerződés, úgy a felhasználóra eső pénzeszközök megfizetésének kötelezettségét a mérlegkör-felelős továbbhárítja a felhasználó ellátását biztosító villamosenergia-kereskedő – beleértve a felhasználónak közvetlenül értékesítő termelőt is – felé azzal, hogy a felhasználóra eső pénzeszközök végső költségviselője – a 13. § (3) bekezdése szerinti villamos energiát vásároló felhasználó kivételével – a felhasználó. A villamosenergia-kereskedő a felhasználóra eső pénzeszközöket a felhasználó részére kiállított számlán köteles egy tételként külön feltüntetni.
 
 (3) A 13. § (1) bekezdés szerinti, kötelező befizetésen alapuló pénzeszközök, amelyek az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 71. § (1) bekezdés c) pontja szerint nem tartoznak bele az általános forgalmi adó alapjába, nem minősülnek a mérlegkör-felelős vagy a villamosenergia-kereskedő bevételének, azokat kötelesek egyéb pénzeszközeiktől elkülönítetten kezelni. Az elkülönítetten kezelt pénzeszközöket a mérlegkör-felelős az átviteli rendszerirányítóval, a villamosenergia-kereskedő a mérlegkör-felelőssel szemben köteles kötelezettségként kimutatni.
 
@@ -496,19 +506,34 @@ VONATKOZÓ KÖZÖS SZABÁLYOK
 
 33. § Az elosztó feladatainak részletes szabályait a működési engedély és a villamosenergia-ellátási szabályzatok határozzák meg.
 
-33/A. § (1) Az elosztó a felhasználási helyre való bejutás érdekében a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalához (a továbbiakban: járási hivatal) fordulhat, amennyiben a rendszerhasználó akadályozza vagy meghiúsítja:
+33/A. § (1) Az elosztó a felhasználási helyre való bejutás érdekében a járásbírósághoz fordulhat, amennyiben a rendszerhasználó akadályozza vagy meghiúsítja:
 
 - a) a fogyasztásmérő leolvasását, ellenőrzését vagy cseréjét,
 - b) szerződésszegés vagy szerződés nélküli vételezés esetén az ellátásból történő kikapcsolást vagy
 - c) a felhasználói berendezés ellenőrzését.
 
-(2) A járási hivatal határozatában
+(1a) Az elosztó akkor kezdeményezheti a felhasználási helyre való bejutás biztosítása iránti nemperes eljárást, ha
+
+- a) a felhasználót a felhasználási helyre történő bejutás lehetőségének biztosítására legalább két alkalommal írásban felhívta, és
+- b) az adott felhasználási helyre történő bejutási kísérlete sikertelen volt.
+
+(2) A járásbíróság
 
 - a) a fogyasztásmérő leolvasásának, ellenőrzésének vagy cseréjének,
 - b) az ellátásból történő kikapcsolásnak vagy
 - c) a felhasználói berendezés ellenőrzésének
 
 tűrésére, és ennek érdekében az elosztóval történő együttműködésre vonatkozó kötelezettséget állapíthat meg.
+
+(3) A nemperes eljárásban bírósági titkár első fokon önállóan eljárhat.
+
+(4) A nemperes eljárásban a bíróság elsődlegesen a rendelkezésre álló iratok és adatok alapján dönt.
+
+(5) A bíróság – ha a döntéséhez szükséges – a feleket meghallgathatja és a felek indítványára további bizonyítást rendelhet el.
+
+(6) A polgári nemperes eljárásban nincs helye perújításnak és felülvizsgálatnak.
+
+(7) A polgári nemperes eljárásra egyebekben a polgári perrendtartásról szóló 1952. évi III. törvény – a nemperes eljárás sajátosságaiból eredő eltérésekkel – megfelelően irányadó.
 
 33/B. § A rendszerhasználó hozzájáruló nyilatkozatával rendelkező villamosenergia-kereskedő részére az elosztó köteles a rendszerhasználó mérési adatait átadni.
 
@@ -667,7 +692,7 @@ a magánvezeték engedélyese számára nem adhatnak alapot visszaélésre.
 
 (3) Az átviteli rendszerirányító és az elosztó hálózati engedélyesek elvégzik a mérőberendezések leolvasását, az elosztó hálózati engedélyesek továbbítják a mérési adatokat az átviteli rendszerirányítónak.
 
-(4) A (3) bekezdésben meghatározott mérőberendezések leolvasását profil alapú elszámolás esetén – a hálózathasználati szerződés eltérő rendelkezése vagy az egyetemes szolgáltatásra jogosult felhasználó (4a) bekezdés szerinti kérésének hiányában – legalább éves gyakorisággal, egyéb esetben a Vhr.-ben előírtak alapján a villamosenergia-ellátási szabályzatokban meghatározott módon és határidőre kell biztosítani. A hálózathasználati szerződés egy évnél hosszabb leolvasási időszakot nem állapíthat meg.
+(4) A (3) bekezdésben meghatározott mérőberendezések leolvasását profil alapú elszámolás esetén – a hálózathasználati szerződés eltérő rendelkezése vagy az egyetemes szolgáltatásra jogosult felhasználó (4b) bekezdés szerinti kérésének hiányában – legalább éves gyakorisággal, egyéb esetben a Vhr.-ben előírtak alapján a villamosenergia-ellátási szabályzatokban meghatározott módon és határidőre kell biztosítani. A hálózathasználati szerződés egy évnél hosszabb leolvasási időszakot nem állapíthat meg.
 
 (4a) Az egyetemes szolgáltatásra jogosult felhasználó kérésére a (3) bekezdésben meghatározott mérőberendezések leolvasását profil alapú elszámolás esetén a hálózati engedélyes negyedévente biztosítja.
 
@@ -2269,7 +2294,7 @@ kapcsolatos adatok megismerésére és kezelésére.
 - d) fennmaradási engedélyezési eljárás,
 - e) megszüntetési eljárás.
 
-116. § (1) A villamosmű, termelői vezeték, magánvezeték, közvetlen vezeték és az ideiglenes vezeték építéséhez, üzemeltetéséhez, használatbavételéhez, fennmaradásához és megszüntetéséhez az építésügyi hatóság (e fejezetben a továbbiakban: Hatóság), mint sajátos építményfajtát engedélyező építésügyi hatóság e törvényben előírt engedélye szükséges.
+116. § (1) A villamosmű, termelői vezeték, magánvezeték és a közvetlen vezeték építéséhez, üzemeltetéséhez, használatbavételéhez, fennmaradásához és megszüntetéséhez az építésügyi hatóság (e fejezetben a továbbiakban: Hatóság), mint sajátos építményfajtát engedélyező építésügyi hatóság e törvényben előírt engedélye vagy a bejelentés tudomásulvétele szükséges.
 
 (2) A 115. §-ban meghatározott engedélyezési eljárásoknál a Hatóság külön jogszabályban meghatározott esetekben egyszerűsített engedélyezési eljárást folytathat le.
 
@@ -2457,15 +2482,13 @@ idegen ingatlanon
 
 132/A. § A közcélú hálózatra csatlakozást kérő az ideiglenes vezeték idegen ingatlanon – ideértve a közterületet is – történő elhelyezésére az idegen ingatlan tulajdonosával a Ptk. rendelkezései szerint kötött megállapodás birtokában kérheti a Hatóságtól az építési engedély megadását.
 
-### ÜZEMELTETÉSI ENGEDÉLYEZÉSI
-
-ELJÁRÁSOK
+### ÜZEMELTETÉS BEJELENTÉSE
 
 133. § (1) A közcélú hálózat, a termelői vezeték, a magánvezeték, a közvetlen vezeték, az ideiglenes vezeték, és a tartószerkezeten, valamint nem tartószerkezeten elhelyezett külön jogszabályban meghatározott átalakító- és kapcsolóberendezés megépítését követően a műszaki biztonsági követelményekre vonatkozó külön jogszabályban meghatározott eljárás lefolytatását követően üzembe helyezhető.
 
-(2) Az üzembe helyezést követően az üzemeltető az (1) bekezdésben felsorolt építmények – bele nem értve a kisfeszültségű hálózati elemeket – üzemeltetésére a Hatósághoz 90 napon belül üzemeltetési engedély iránti kérelmet köteles benyújtani.
+(2) Az üzembe helyezést követően az üzemeltető az (1) bekezdésben felsorolt építmények – bele nem értve a kisfeszültségű hálózati elemeket – üzemeltetését a Hatósághoz 90 napon belül köteles bejelenteni.
 
-(3) Az üzemeltető a jogerős üzemeltetési engedély alapján az építményeket üzemeltetheti, karbantarthatja, kijavíthatja és átalakíthatja, felújíthatja, továbbá a közcélú hálózat, termelői vezeték, magánvezeték vagy a közvetlen vezeték mentén lévő, a biztonsági övezetet sértő növényzetet eltávolíthatja.
+(3) Az üzemeltető a bejelentés alapján az építményeket üzemeltetheti, karbantarthatja, kijavíthatja és átalakíthatja, felújíthatja, továbbá a közcélú hálózat, termelői vezeték, magánvezeték vagy a közvetlen vezeték mentén lévő, a biztonsági övezetet sértő növényzetet eltávolíthatja.
 
 ### HASZNÁLATBAVÉTELI ENGEDÉLYEZÉSI ELJÁRÁSOK
 
@@ -2689,9 +2712,9 @@ finanszírozásához szükséges pénzügyi forrásokat.
 
 villamos energia képezi.
 
-(2) A 147. § (1) bekezdés a) pontja szerinti támogatás mértéke 0,25 Ft/kWh.
+(2) A 147. § (1) bekezdés a) pontja szerinti támogatás mértéke 0,16 Ft/kWh.
 
-(3) A 147. § (1) bekezdés b) pontja szerinti támogatás mértéke 0,07 Ft/kWh.
+(3) A 147. § (1) bekezdés b) pontja szerinti támogatás mértéke 0,10 Ft/kWh.
 
 (4) A 147. § (1) bekezdés c) pontja szerinti támogatás mértéke 1,75Ft/kWh.
 
@@ -2726,7 +2749,7 @@ villamos energia képezi.
 - c) a Hivatalnak,
 - d) a nemzetbiztonság, a honvédelem és a közbiztonság védelme, a közvádas bűncselekmények üldözése céljából az arra hatáskörrel rendelkező nemzetbiztonsági szerveknek, nyomozó hatóságoknak, az ügyésznek, valamint a bíróságnak,
 - e) a bírósági végrehajtásról szóló törvény előírásai szerint a bírósági végrehajtónak,
-- f) a Nemzeti Fogyasztóvédelmi Hatóságnak,
+- f) a fogyasztóvédelmi hatóságnak,
 - g) a védendő fogyasztó esetében az egy felhasználási helyen való igénybevételének ellenőrzése céljából az elosztónak és a védendő fogyasztót megillető kedvezménynek vagy különleges bánásmódnak a biztosítása érdekében a villamosenergia-kereskedőnek,
 - h) a villamosenergia-iparban fennálló vagy eltöltött munkaviszonnyal összefüggésben az egyetemes szolgáltató üzletszabályzatában meghatározott kedvezményes villamosenergia-áron történő vásárlásra jogosult személyeket illetően, a kedvezményes villamosenergia-áron történő vásárlás elszámolása céljából az átviteli rendszerirányítónak, és
 - i) az (1c) bekezdésben meghatározott időponttól az átvevő egyetemes szolgáltatónak.
@@ -3249,17 +3272,16 @@ rendeletben állapítsa meg.
 - 2. a csatlakozási díjak elemeit, a díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, a csatlakozási díjfizetésre kötelezettek körét és a csatlakozási díjak alkalmazásának szabályait, valamint a csatlakozási díjak mértékét,
 - 3. az elosztók közötti kiegyenlítő fizetések mértékét,
 - 4. e törvény szerint rendszeres adatszolgáltatásra kötelezettek által szolgáltatandó adatok körét, a teljesítés módjára vonatkozó követelményeket, valamint az adatszolgáltatási kötelezettség határidejét, továbbá a rendkívüli adatszolgáltatásra kötelezettek körét és a rendkívüli adatszolgáltatással kapcsolatos rendelkezéseket;
-- 5. a hálózathasználati szerződés és az egyetemes szolgáltatásra jogosult felhasználó esetén a villamosenergia-vásárlási szerződés felek általi megszegésére vonatkozó jogkövetkezmények mértékére és alkalmazására vonatkozó rendelkezéseket; 9. az elosztó által a felhasználók vagy az engedélyes igénye alapján külön díj ellenében végzett szolgáltatások körét, valamint az elosztó által a felhasználó szerződésszegése esetén külön díj ellenében végzett szolgáltatások meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, ezen szolgáltatások körét, a külön díjak megállapításának kereteit és a külön díjak alkalmazásának szabályait, valamint a külön díjak mértékét.
+- 5. a hálózathasználati szerződés és az egyetemes szolgáltatásra jogosult felhasználó esetén a villamosenergia-vásárlási szerződés felek általi megszegésére vonatkozó jogkövetkezmények mértékére és alkalmazására vonatkozó rendelkezéseket;
+- 6. a kötelező átvételi jogosultságok esetében, a támogatás időtartamának és a kötelező átvétel alá eső villamos energia mennyiségének kiszámítási módszereit és a számítás eredményeit, valamint a kereskedelmi üzem megkezdésének támogatási jogosultsághoz kapcsolódó határidejét;
+- 7. a pályázati eljárás alá nem tartozó, prémium típusú támogatási jogosultságok esetében a támogatás időtartamának és a támogatás alá eső villamos energia mennyiségének kiszámítási módszereit és eredményeit, valamint a kereskedelmi üzem megkezdésének támogatási jogosultsághoz kapcsolódó határidejét;
+- 9. az elosztó által a felhasználók vagy az engedélyes igénye alapján külön díj ellenében végzett szolgáltatások körét, valamint az elosztó által a felhasználó szerződésszegése esetén külön díj ellenében végzett szolgáltatások meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, ezen szolgáltatások körét, a külön díjak megállapításának kereteit és a külön díjak alkalmazásának szabályait, valamint a külön díjak mértékét.
 
 ### XXI. Fejezet — ÁTMENETI RENDELKEZÉSEK
 
 171. § (1) A termelői engedélyesek, amennyiben a villamos energiáról szóló 2001. évi CX. törvény előírásainak megfelelően kiadott engedélyüket a jelen törvény hatálybalépésekor üzemelő erőmű vonatkozásában az érvényességi idő lejáratának esedékességekor meg kívánják hosszabbítani, 2015. január 1-jétől kötelesek teljesíteni a külön jogszabályban előírt, az elsődleges energiaforrás típustól függően eltérő minimális energetikai hatásfok követelményeket. A Hivatal a külön jogszabály előírásainak figyelembevételével és az ellátásbiztonság veszélyeztetésére tekintettel az előírt minimális energetikai hatásfok követelményeket nem teljesítő erőművek működési engedélyének meghosszabbításához is hozzájárulhat az ellátásbiztonság veszélyeztetettségének előrelátható időtartamára.
 
-(2) Az e törvény 9. §-a szerinti kötelező átvételi rendszer bevezetése nem érinti a villamos energiáról szóló 2001. évi CX. törvény, valamint az átvételi kötelezettség alá eső villamos energia átvételéről szóló külön jogszabály alapján keletkezett támogatási jogosultságokat, valamint a Hivatal által kiadott határozatokban meghatározott kötelezően átveendő villamos energia mennyiséget, az átvétel időtartamát, valamint az e határozatok alapján kötelezően átveendő villamos energiára vonatkozó, a villamos energiáról szóló 2001. évi CX. törvényben szabályozott és a (3)–(4) bekezdés szerint meghatározott legmagasabb átvételi árnak megfelelő átvételi árat.
-
-(3) A 11. § (1) bekezdés b) pontja szerinti, átvételi kötelezettség alá eső megújuló energiaforrásból előállított villamos energia legmagasabb induló átvételi ára k*24,71 Ft/kWh.
-
-(4) A (3) bekezdésben meghatározott „k” tényező értéke 2008. január 1-jétől a Központi Statisztikai Hivatal által 2007-ben utoljára közzétett, 2006 azonos időszakához viszonyított aktuális (utolsó) éves fogyasztói árindex értéke. Az ezt követő naptári években a k értéke minden év első napjától a tárgyév január 1-jét megelőzően a Központi Statisztikai Hivatal által utoljára közzétett, az előző év azonos időszakához viszonyított aktuális (utolsó) éves fogyasztói árindex értékének és a k tárgyévet megelőző évi értékének szorzata.
+(2)–(4)
 
 (5)
 
@@ -3269,17 +3291,17 @@ rendeletben állapítsa meg.
 
 (5e)
 
-(5f) Az (5) bekezdés alapján kiadott határozatok 2011. július 1-jén hatályukat vesztik.
+(5f)
 
-(5g) E törvénynek az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel megállapított 171. § (5a) bekezdését annak hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
+(5g)
 
-(5h) E törvények az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel megállapított 11. § (3) bekezdésének hatálybalépését megelőzően hatályos 11. § (3) bekezdése alapján, valamint e törvény felhatalmazása alapján kiadott, a megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos energia, valamint a kapcsoltan termelt villamos energia kötelező átvételéről és átvételi áráról szóló külön jogszabály alapján a hővel kapcsoltan termelt villamos energia kötelező átvétel keretében történő értékesítésére vonatkozó, az átvételi kötelezettség alá eső villamos energia mennyiségét és a kötelező átvétel időtartamát meghatározó hatósági határozattal szabályozott értékesítési jogosultságok – a megújuló energiaforrásból vagy a hulladék, mint energiaforrásból kapcsoltan termelt villamos energiával esetét kivéve – 2011. július 1-jétől megszűnnek.
+(5h)
 
-(6) A villamos energiáról szóló 2001. évi CX. törvény módosításáról szóló 2005. évi LXXIX. törvény hatálybalépését megelőzően a Hivatal által első alkalommal engedélyezett biomassza elsődleges energiaforrást hasznosító erőmű engedélyese által termelt villamos energia kötelező átvétel keretében történő értékesítésére vonatkozó – az átvételi kötelezettség alá eső villamos energia mennyiségét és a kötelező átvétel időtartamát meghatározó hatósági határozattal nem szabályozott – értékesítési jogosultságok 2010. december 31-én megszűnnek. Az e bekezdés szerinti engedélyes kérelmére a Hivatal megvizsgálja a beruházás megtérülését. Amennyiben a beruházás nem térült meg, a Hivatal – az átvétel egyéb feltételeinek megtartásával – a kötelező átvétel időtartamát legfeljebb a beruházás megtérüléséig meghosszabbíthatja. A villamos energiáról szóló 2001. évi CX. törvény módosításáról szóló 2005. évi LXXIX. törvény hatálybalépését megelőzően a Hivatal által első alkalommal engedélyezett biomassza elsődleges energiaforrást hasznosító, 50 MW beépített teljesítőképességet el nem érő teljesítőképességgel rendelkező, legalább 90%-ban biomassza elsődleges energiaforrást hasznosító villamosenergia-termelő kérelmére a Hivatal az átvétel időtartamát a kereskedelmi üzem kezdetétől számított legalább 15 éves időtartamra meghosszabbítja. Az átvétel időtartamának e bekezdés szerinti meghosszabbítása esetén legkésőbb 2010. április 30-ig a termelő és az átviteli rendszerirányító a kötelező átvételről a Hivatal által meghatározott meghosszabbítás időtartamára, a határozatban és az e törvényben, valamint a külön jogszabályban foglalt feltételeknek megfelelő szerződést kötnek.
+(6) A fűrészipari rönk vagy annál magasabb rendű faválaszték támogatásának 10. § (2) bekezdése szerinti tilalma nem vonatkozik a 2005. szeptember 1-jét megelőzően a Hivatal által első alkalommal engedélyezett biomassza elsődleges energiaforrást hasznosító erőmű engedélyesére.
 
 (7)
 
-(8) A Kormány a szükséges feltételek fennállása esetén dönt a 9. § szerinti kötelező átvételi rendszert felváltó, külön jogszabályban meghatározott zöld bizonyítvány-rendszer bevezetéséről. A Kormány e bekezdés szerinti, zöld bizonyítvány-rendszer bevezetésével kapcsolatos döntése nem érinti a döntés meghozatalát megelőzően a Hivatal által kiadott határozatokban meghatározott átvételi kötelezettség alá eső villamos energia mennyiséget, az átvétel időtartamát, az e határozatok alapján átvételi kötelezettség alá eső villamos energiának az e törvény, illetve a felhatalmazása alapján kiadott külön jogszabály szerint meghatározott átvételi árát és a (6) bekezdés szerinti szerződések érvényességét.
+(8) A Kormány a szükséges feltételek fennállása esetén dönt a 9. § szerinti rendszereket felváltó, külön jogszabályban meghatározott zöld bizonyítvány-rendszer bevezetéséről. A Kormány e bekezdés szerinti, zöld bizonyítvány-rendszer bevezetésével kapcsolatos döntése nem érinti a döntés meghozatalát megelőzően a Hivatal által kiadott határozatokban meghatározott átvételi kötelezettség alá eső villamos energia mennyiséget, az átvétel időtartamát, az e határozatok alapján átvételi kötelezettség alá eső villamos energiának az e törvény, illetve a felhatalmazása alapján kiadott külön jogszabály szerint meghatározott átvételi árát és a (6) bekezdés szerinti szerződések érvényességét.
 
 (9) A bevezetés időpontjának megállapításakor figyelembe kell venni
 
@@ -3288,7 +3310,7 @@ rendeletben állapítsa meg.
 
 (10) A (9) bekezdésben foglaltakról a Hivatal kétévente tájékoztatja a Kormányt.
 
-(11) A 9. § szerinti kötelező átvételi rendszer mellett a Kormány a Hivatal javaslatára dönt a külön jogszabályban meghatározott kapcsolt bizonyítvány-rendszer bevezetéséről. A kapcsolt bizonyítvány-rendszer szabályozására a Hivatal 2011. szeptember 1-jéig javaslatot tesz a Kormány számára. A Kormány e bekezdés szerinti, kapcsolt bizonyítvány-rendszer bevezetésével kapcsolatos döntése nem érintheti a döntés meghozatalát megelőzően a Hivatal által kiadott határozatokban meghatározott átvételi kötelezettség alá eső villamos energia mennyiséget, az átvétel időtartamát és az (5) bekezdés szerinti szerződések érvényességét.
+(11) A 9. § szerinti rendszerek mellett a Kormány a Hivatal javaslatára dönt a külön jogszabályban meghatározott kapcsolt bizonyítvány-rendszer bevezetéséről. A kapcsolt bizonyítvány-rendszer szabályozására a Hivatal 2011. szeptember 1-jéig javaslatot tesz a Kormány számára. A Kormány e bekezdés szerinti, kapcsolt bizonyítvány-rendszer bevezetésével kapcsolatos döntése nem érintheti a döntés meghozatalát megelőzően a Hivatal által kiadott határozatokban meghatározott átvételi kötelezettség alá eső villamos energia mennyiséget, az átvétel időtartamát és az (5) bekezdés szerinti szerződések érvényességét.
 
 (12) A zöld, illetve kapcsolt bizonyítvány-rendszer bevezetése esetén a villamosenergia-kereskedő, a felhasználónak közvetlenül értékesítő termelői engedélyes, valamint a villamos energiát importáló felhasználó köteles a külön jogszabályban meghatározott mértékű villamosenergia-termelésnek megfelelő zöld és kapcsolt bizonyítványt beszerezni.
 
@@ -3542,3 +3564,5 @@ e törvény, valamint a villamosenergia-ipari építésügyi hatósági engedél
 - f) a kapacitásfelosztásra és a szűk keresztmetszetek kezelésére vonatkozó iránymutatás létrehozásáról szóló, 2015. július 24-ei 2015/1222/EU bizottsági rendelet
 
 végrehajtásához szükséges rendelkezéseket állapítja meg.
+
+184/A. § E törvény 9–13/A. §-a a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187., 2014.6.26., 1–78. o.) 4. cikk (1) bekezdés v) pontjának, valamint 42. és 43. cikkének hatálya alá tartozó támogatást tartalmaz.

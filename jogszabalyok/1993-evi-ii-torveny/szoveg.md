@@ -18,7 +18,7 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 (4) A földkiadó bizottság feladatainak hatékonyabb végrehajtása érdekében munkacsoportokat hozhat létre.
 
-3. § (1) A földkiadó bizottság megválasztása céljából a szövetkezet székhelye szerint illetékes fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) e törvény hatálybalépését követő tizenöt napon belül összehívja a részarány-földtulajdonosok közgyűlését (részközgyűléseit). A közgyűlésen minden tulajdonost egy-egy szavazat illet meg.
+3. § (1) A földkiadó bizottság megválasztása céljából a szövetkezet székhelye szerint illetékes ingatlanügyi hatóság e törvény hatálybalépését követő tizenöt napon belül összehívja a részarány-földtulajdonosok közgyűlését (részközgyűléseit). A közgyűlésen minden tulajdonost egy-egy szavazat illet meg.
 
 (2) A tulajdonosokat a közgyűlés összehívásáról a helyben szokásos módon, hirdetmény útján és lehetőleg írásban is értesítik. Nem helyben lakó tulajdonosokat országos, illetve megyei napilapban történő közzététel útján is értesíteni kell.
 
@@ -32,9 +32,9 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 (3) A földkiadó bizottságot a bíróság és más hatóság előtt, valamint harmadik személlyel szemben a bizottság elnöke, vagy a bizottság által az erre kijelölt tag képviseli.
 
-4/A. § (1) Ha a mezőgazdasági igazgatási szerv tudomására jut, hogy a földkiadó bizottság feladatai ellátását a törvényben meghatározott határidőben nem kezdi meg, vagy nem e törvény rendelkezései szerint jár el, illetőleg bármely más okból nem működik, haladéktalanul a részarány-földtulajdonosok közgyűlésének összehívását kezdeményezi a járási hivatalnál.
+4/A. § (1) Ha a mezőgazdasági igazgatási szerv tudomására jut, hogy a földkiadó bizottság feladatai ellátását a törvényben meghatározott határidőben nem kezdi meg, vagy nem e törvény rendelkezései szerint jár el, illetőleg bármely más okból nem működik, haladéktalanul a részarány-földtulajdonosok közgyűlésének összehívását kezdeményezi az ingatlanügyi hatóságnál.
 
-(2) A járási hivatal a részarány-földtulajdonosok közgyűlését a mezőgazdasági igazgatási szerv megkeresésétől számított 15 napon belül a 3. §-ban meghatározott módon összehívja. Az így összehívott közgyűlés a megjelentek számára tekintet nélkül határozatképes. Határozatait szótöbbséggel hozza.
+(2) Az ingatlanügyi hatóság a részarány-földtulajdonosok közgyűlését a mezőgazdasági igazgatási szerv megkeresésétől számított 15 napon belül a 3. §-ban meghatározott módon összehívja. Az így összehívott közgyűlés a megjelentek számára tekintet nélkül határozatképes. Határozatait szótöbbséggel hozza.
 
 (3) A (2) bekezdés szerinti közgyűlés
 
@@ -47,7 +47,7 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 - a) illetékességi területén a részarány-földtulajdonnak megfelelő föld kiadása, illetőleg helyének meghatározása befejeződött, vagy
 - b) működésképtelensége miatt a 4/A. § (2) bekezdése szerinti közgyűlés a megszűnését határozattal megállapítja.
 
-(2) Az (1) bekezdés b) pontja szerinti határozatot közölni kell a mezőgazdasági igazgatási szervvel. A járási hivatal a határozatról és annak az (5) bekezdésben foglalt jogkövetkezményeiről a helyben szokásos módon, hirdetmény útján értesíti a részarány-földtulajdonosokat.
+(2) Az (1) bekezdés b) pontja szerinti határozatot közölni kell a mezőgazdasági igazgatási szervvel. Az ingatlanügyi hatóság a határozatról és annak az (5) bekezdésben foglalt jogkövetkezményeiről a helyben szokásos módon, hirdetmény útján értesíti a részarány-földtulajdonosokat.
 
 (3) A földkiadó bizottság megszűnését megállapító határozat bírósági felülvizsgálatának helye nincs.
 
@@ -398,6 +398,8 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 15. § Felhatalmazást kap a Kormány, hogy az egységes eljárás érdekében a részarány földkiadás során keletkezett osztatlan közös tulajdonok megszüntetésének részletes szabályait, továbbá a 12/F. § (4) bekezdésében meghatározott soronkívüli eljárás szabályait rendeletben állapítsa meg.
 
 16. § Felhatalmazást kap a Kormány, hogy az 5/A. § (3) bekezdése szerinti költségtérítés igénylésének, kifizetésének, ellenőrzésének és visszatérítésének eljárási rendjét rendeletben állapítsa meg.
+
+16/A. § Felhatalmazást kap a Kormány, hogy az e törvény szerinti ingatlanügyi hatóságot rendeletben jelölje ki.
 
 17. § Felhatalmazást kap a földügyért felelős miniszter, hogy a földkiadó bizottságok által lefolytatott közigazgatási hatósági eljárásokban a szakértő kirendelésére, valamint a szakértői névjegyzék összeállítására vonatkozó részletes szabályokat rendeletben állapítsa meg.
 

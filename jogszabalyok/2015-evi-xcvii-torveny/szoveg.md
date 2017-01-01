@@ -238,11 +238,11 @@ köthető.
 
 ### IV. Fejezet — SZAKTANÁCSADÁSI SZOLGÁLTATÁSOK SZABÁLYAI
 
-26. § (1) A legalább részben az államháztartás alrendszeréből, európai uniós forrásból vagy nemzetközi megállapodás alapján egyéb programból finanszírozott szaktanácsadási szolgáltatást nyújtó szaktanácsadóként csak az a természetes személy tevékenykedhet, aki szaktanácsadói engedéllyel rendelkezik, és büntetlen előéletű. A szaktanácsadói engedély iránti kérelem – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvényben meghatározott adatokon túl – tartalmazza a kérelmező természetes személyazonosító adatait, értesítési címét, szakirányú végzettségét és a kérelmezett szaktanácsadói besorolását, szakterületét, illetve részszakterületet, valamint a kérelmező szakmai gyakorlatát bemutató összefoglalót.
+26. § (1) A legalább részben az államháztartás alrendszeréből, európai uniós forrásból vagy nemzetközi megállapodás alapján egyéb programból finanszírozott szaktanácsadási szolgáltatást nyújtó szaktanácsadóként csak az a természetes személy tevékenykedhet, aki a szaktanácsadói tevékenység végzésére irányuló szándékát a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény (a továbbiakban: Szolg. törvény) szerint bejelenti, és büntetlen előéletű. A szaktanácsadói tevékenység végzésére irányuló bejelentés – a Szolg. törvényben meghatározott adatokon túl – tartalmazza a bejelentő természetes személyazonosító adatait, értesítési címét, szakirányú végzettségét és a bejelentő szaktanácsadói besorolását, szakterületét, illetve részszakterületét, valamint a bejelentő szakmai gyakorlatát bemutató összefoglalót.
 
-(2) A Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara (a továbbiakban: agrárkamara) az (1) bekezdés szerinti szaktanácsadói engedéllyel rendelkezőkről nyilvántartást vezet, amely tartalmazza a kérelmezőnek az engedély iránti kérelem (1) bekezdésben meghatározott adatait, és – ha e célból rendelkezésre bocsátotta – egyéb elérhetőségét, továbbá a kapcsolódó végrehajtási rendeletben meghatározott egyéb adatokat, dokumentumokat. A nyilvántartásból kizárólag a szaktanácsadói tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
+(2) A Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara (a továbbiakban: agrárkamara) az (1) bekezdés szerinti szaktanácsadókról nyilvántartást vezet, amely tartalmazza a bejelentőnek az (1) bekezdésben meghatározott adatait, és – ha e célból rendelkezésre bocsátotta – egyéb elérhetőségét, továbbá a kapcsolódó végrehajtási rendeletben meghatározott egyéb adatokat, dokumentumokat. A nyilvántartásból kizárólag a szaktanácsadói tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 
-(3) Az (1) bekezdés szerinti szaktanácsadói tevékenység engedélyezésével kapcsolatos feladatokat az agrárkamara országos ügyintéző szervezete látja el.
+(3) Az (1) bekezdés szerinti szaktanácsadói tevékenység bejelentésével kapcsolatos feladatokat az agrárkamara országos ügyintéző szervezete látja el.
 
 ### IV. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -267,7 +267,7 @@ köthető.
 
 rendeletben állapítsa meg.
 
-(2) Felhatalmazást kap a miniszter, hogy – az agrár-vidékfejlesztésért felelős miniszterrel egyetértésben – rendeletben állapítsa meg a mezőgazdasági, vidékfejlesztési szaktanácsadók szakterületeinek körét, a szaktanácsadói tevékenység folytatásának részletes feltételeit, a szaktanácsadói engedély kiadásának feltételeit és rendjét, a szaktanácsadók nyilvántartásának adattartalmát, a nyilvántartás vezetésére vonatkozó részletes szabályokat, a szaktanácsadók képzésére vonatkozó szabályokat, továbbá a szaktanácsadói tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket.
+(2) Felhatalmazást kap a miniszter, hogy – az agrár-vidékfejlesztésért felelős miniszterrel egyetértésben – rendeletben állapítsa meg a mezőgazdasági, vidékfejlesztési szaktanácsadók szakterületeinek körét, a szaktanácsadói tevékenység folytatásának részletes feltételeit, a szaktanácsadói bejelentés részletes szabályait, a szaktanácsadók nyilvántartásának adattartalmát, a nyilvántartás vezetésére vonatkozó részletes szabályokat, a szaktanácsadók képzésére vonatkozó szabályokat, továbbá a szaktanácsadói tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket.
 
 29. § Ez a törvény a kihirdetését követő második hónap első napján lép hatályba.
 

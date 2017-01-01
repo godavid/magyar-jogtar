@@ -137,7 +137,7 @@ nem tesz eleget, a fegyveres biztonsági őrzést – a kötelezett vagy a fegyv
 
 - a) az (1) bekezdés a) pontjában meghatározott feltételeknek megfelel,
 - b) a honvédelemért felelős miniszter által létrehozott fegyveres biztonsági őrséget működtető szervezet által szervezett nem iskolai rendszerű, egyéb más szakközépiskolai ágazatba nem sorolható, a honvédelemért felelős miniszter által létrehozott fegyveres biztonsági őrséget működtető szervezetben munkavállalásra jogosító belső képzés keretében eredményes vizsgát tett,
-- c) megfelel a honvédelemért felelős miniszter által rendeletben az önkéntes védelmi tartalékos katonákra megállapított egészségi, pszichikai és fizikai követelményeknek,
+- c) megfelel a honvédelemért felelős miniszter által rendeletben a Magyar Honvédség létesítményeit őrző fegyveres biztonsági őrség önkéntes tartalékos tagjaira megállapított egészségi, pszichikai és fizikai követelményeknek,
 - d) a Magyar Honvédséggel önkéntes tartalékos katonai szolgálati viszony létrehozására irányuló szerződést köt, és
 - e) a Magyar Honvédség állománytáblájában az adott beosztáshoz előírt rendfokozathoz tartozó iskolai végzettséggel rendelkezik.
 
@@ -195,7 +195,7 @@ nem tesz eleget, a fegyveres biztonsági őrzést – a kötelezett vagy a fegyv
 
 9. § (1) A fegyveres biztonsági őrség lőfegyverrel, lőszerrel és más kényszerítő eszközzel való ellátását a rendőrség engedélyezi.
 
-(2) A fegyveres biztonsági őrség számára – az engedélyben meghatározott mennyiségben és minőségben – a rendőrségnél –, illetve a Magyar Honvédség létesítményeit őrző fegyveres biztonsági őrség esetén a Magyar Honvédségnél – rendszeresített és a 10. § (2) bekezdésben felsorolt kényszerítő eszköz, továbbá lőfegyver és lőszer vásárlása, illetve tartása engedélyezhető. A szolgálati tevékenységhez csak a rendőrség központi szerv Kutyavezetőképző Iskolája által minősített (vizsgáztatott) kutya alkalmazható.
+(2) A fegyveres biztonsági őrség számára – az engedélyben meghatározott mennyiségben és minőségben – jogszabályban meghatározottaknak megfelelően a Rendőrségről szóló 1994. évi XXXIV. törvény hatálya alá tartozó rendőri szerveknél rendszeresített vagy alkalmazott, illetve a Magyar Honvédség létesítményeit őrző fegyveres biztonsági őrség esetén a Magyar Honvédségnél rendszeresített és a 10. § (2) bekezdésben felsorolt kényszerítő eszköz, továbbá lőfegyver és lőszer vásárlása, illetve tartása engedélyezhető. A fegyveres biztonsági őr feladatai ellátása során csak a rendőrség szolgálati kutyák kiképzésével összefüggő feladatok ellátására létrehozott szervezeti eleme által kiképzett és évente minősített szolgálati kutyát alkalmazhat.
 
 (3) A fegyveres biztonsági őrség lőfegyvere és lőszere csak szolgálati és képzési tevékenységhez használható.
 
@@ -232,6 +232,35 @@ nem tesz eleget, a fegyveres biztonsági őrzést – a kötelezett vagy a fegyv
 
 (11) A kötelezettnek biztosítania kell, hogy az érintett személy személyes adatai, magántitkai, és a magánéletére vonatkozó egyéb adatok, tények ne jussanak illetéktelen személy tudomására.
 
+9/B. § (1) A fegyveres biztonsági őr az őrzött objektumba történő be- és kiléptetésre irányuló szolgálatának teljesítése során jogosult
+
+- a) az őrzött objektumba a belépő személyt kiléte igazolására, a belépés céljának közlésére, jogosultságának igazolására felhívni;
+- b) az őrzött objektumba a belépő vagy onnan kilépő személyt csomagja tartalmának, járművének, valamint a szállítmányának bemutatására felhívni;
+- c) a belépő személy családi és utónevét, születési helyét és idejét, a személyazonosításhoz bemutatott okmány számát, ha azt nem magyar hatóság állította ki, az okmányt kiállító ország megnevezését is, illetve a belépésre használt jármű rendszámát és típusát rögzíteni;
+- d) a területre belépők ellenőrzésére fegyver-, illetve robbanóanyag-kutató műszert alkalmazni.
+
+(2) Az (1) bekezdés a) és b) pontjában szereplő felhívásban foglaltak teljesítésének megtagadása vagy a közölt adatok valótlanságának vélelmezése esetén – a kötelezett, illetve a fegyveres biztonsági őrséget működtető szervezet vezetője eltérő rendelkezésének hiányában – a fegyveres biztonsági őr az alábbi intézkedések önálló vagy kombinált alkalmazására jogosult:
+
+- a) a személy beléptetését megtagadhatja;
+- b) az őrzött objektum biztonságát veszélyeztető, továbbá a közbiztonságra különösen veszélyes eszközök bevitelét megtilthatja;
+- c) az objektumba belépő, illetve az objektumból kilépő személyt a csomagja tartalmának, járművének, valamint a szállítmányának bemutatásáig feltartóztathatja.
+
+(3) Az (1) bekezdés c) pontja alapján rögzített adat csak a rögzítés helyszínén elkövetett bűncselekmény, szabálysértés miatt indult büntető-, szabálysértési vagy más hatósági eljárás során, vagy intézkedés jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, valamint az érintett személy jogainak gyakorlása érdekében használható fel.
+
+(4) Az, akinek jogát vagy jogos érdekét az (1) bekezdés c) pontja alapján rögzített adat rögzítése érinti, a rögzítéstől számított harminc napon belül jogának vagy jogos érdekének igazolásával kérheti, hogy az adatot a kezelője ne semmisítse meg, illetve ne törölje. A nyomozó hatóság, a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv, a szabálysértési hatóság, a körözési eljárást folytató szerv, az ügyészség, a bíróság, a nemzetbiztonsági szolgálatok, nemzetközi jogsegély keretében külföldi hatóság a rögzítéstől számított harminc napon belül kezdeményezhetik, hogy az adatot kezelője ne semmisítse meg, illetve ne törölje.
+
+(5) Az (1) bekezdés c) pontja alapján rögzített adatot – a jogszabályban meghatározott szabálysértési, bűnüldözési, igazságszolgáltatási, valamint nemzetbiztonsági célból – a nyomozó hatóság, a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv, a szabálysértési hatóság, a körözési eljárást folytató szerv, az ügyészség, a bíróság, a nemzetbiztonsági szolgálatok, nemzetközi jogsegély keretében külföldi hatóság, jogainak gyakorlása érdekében az érintett, valamint a jogszabály alapján eljárás kezdeményezésére irányuló jogának gyakorlása érdekében harmadik személy részére lehet átadni.
+
+(6) Az (1) bekezdés c) pontja alapján rögzített adatokat az (5) bekezdés szerinti felhasználás hiányában – ha jogszabály eltérően nem rendelkezik – a rögzítéstől számított harmincegyedik napon meg kell semmisíteni, illetve törölni kell.
+
+(7) Ha az (1) bekezdés c) pontja alapján rögzített adat az (5) bekezdés alapján átadásra került, akkor az átadást követően az adatot haladéktalanul meg kell semmisíteni, illetve törölni kell.
+
+(8) Ha a (4) bekezdés szerinti megkeresést követő harminc napon belül nem követte az (5) bekezdés szerinti adatigénylés, akkor a (4) bekezdés szerinti megkeresést követő harmincegyedik napon az (1) bekezdés c) pontja alapján rögzített adatot meg kell semmisíteni, illetve törölni kell.
+
+(9) A fegyveres biztonsági őr az őrzött objektumba belépő személy kilétének igazolására minden olyan hatósági igazolványt köteles elfogadni, amely tartalmazza a személyazonosításhoz szükséges adatokat. A fegyveres biztonsági őr kizárólag ezen okmányok egyikének bemutatására kérheti fel az őrzött objektumba belépő személyt.
+
+(10) A fegyveres biztonsági őr az (1)–(2) és (9) bekezdés szerinti tevékenységével nem akadályozhatja, vagy indokolatlan mértékben nem késleltetheti a jogszabály alapján belépési jogosultsággal rendelkező személyek mozgását.
+
 10. § (1) A fegyveres biztonsági őr szolgálatának jogszerű teljesítése során jogosult és köteles:
 
 - a) a biztonságot sértő vagy veszélyeztető személyt tevékenysége abbahagyására felszólítani és igazoltatni;
@@ -243,7 +272,7 @@ nem tesz eleget, a fegyveres biztonsági őrzést – a kötelezett vagy a fegyv
 (2) A fegyveres biztonsági őr a biztonságot veszélyeztető tevékenység megszakítása érdekében, az azt elkövető személlyel szemben az arányosság követelményének betartásával:
 
 - a) testi erővel cselekvésre vagy cselekvés abbahagyására kényszerítést, illetve pórázon vagy anélkül, szájkosárral ellátott szolgálati kutyát,
-- b) az (1) bekezdés b) pontja szerint visszatartott személy szökésének megakadályozására bilincset,
+- b) az (1) bekezdés b) pontja szerint visszatartott személy szökésének, illetve személyőrzési vagy kísérési feladat végrehajtása során a személyes szabadságában korlátozott személy szökésének, önkárosításának megakadályozására bilincset,
 - c) a támadás megakadályozására vagy az ellenszegülés megtörésére vegyi vagy elektromos sokkoló eszközt, rendőrbotot, illetve pórázon vezetett szájkosár nélküli szolgálati kutyát,
 - d) az állam működése vagy a lakosság ellátása szempontjából kiemelkedően fontos tevékenység, létesítmény, szállítmány ellen fegyveresen vagy felfegyverkezve intézett támadás elhárítására szájkosár és póráz nélküli szolgálati kutyát vagy lőfegyvert
 
@@ -341,9 +370,34 @@ az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valami
 
 (6) A természetvédelmi őrszolgálat, valamint az önkormányzati természetvédelmi őrszolgálat tevékenysége során együttműködik a katasztrófavédelemmel, a Nemzeti Adó- és Vámhivatal vámszerveivel, a hivatásos állami és önkormányzati tűzoltósággal, az erdészeti hatósággal, a vadászati hatósággal, a halászati hatósággal, az önkormányzati szervekkel, a járási hivatallal, a fegyveres biztonsági őrséggel, valamint az egyesületekkel.
 
-15/A. §
+15/A. § (1) A természetvédelmi őr és az önkormányzati természetvédelmi őr az intézkedésével érintett személyről, az intézkedése vagy az eljárása szempontjából lényeges környezetről és körülményről, tárgyról képfelvételt, hangfelvételt, kép- és hangfelvételt (a továbbiakban együtt: felvétel) készíthet, amely kizárólag az adott eljárásban, jogszabály előírásai szerint használható fel.
 
-15/B. §
+(2) Ha felvételen rögzített cselekmény miatt nem indult eljárás, a felvételt legkésőbb a felvétel készítésétől számított 30 nap elteltével meg kell semmisíteni.
+
+(3) Az (1) bekezdésben foglaltak alapján készített felvétel vagy az abban szereplő személyes adat a rögzítés helyszínén
+
+- a) elkövetett bűncselekmény vagy szabálysértés miatt indult büntető-, szabálysértési eljárásban,
+- b) elkövetett jogsértés miatt indított más hatósági eljárásban,
+- c) végzett intézkedés jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, továbbá
+- d) a felvételen szereplő személy által, jogainak gyakorlása érdekében indított eljárásban használható fel.
+
+(4) Ha a felvételen szereplő személy a (3) bekezdés d) pontja szerint jogainak érvényesítésére eljárást indított, részére az adatkezelési határidőn belül benyújtott kérelemre a felvételt továbbítani kell.
+
+(5) A természetvédelmi őr és az önkormányzati természetvédelmi őr a feladatkörébe tartozó eljárást a felvétel rögzítésétől számított két munkanapon belül köteles megindítani, vagy kezdeményezni az eljárásra jogosult szervnél vagy hatóságnál a hatáskörébe tartozó eljárás megindítását. Ha a természetvédelmi őr és az önkormányzati természetvédelmi őr kezdeményezésére az eljárásra jogosult szerv vagy hatóság az eljárását megindította, és erről a természetvédelmi őrt és az önkormányzati természetvédelmi őrt a (2) bekezdésben meghatározott határidőn belül tájékoztatta, a természetvédelmi őr és az önkormányzati természetvédelmi őr a rögzített felvételt az eljárásra jogosult szerv vagy hatóság részére történő továbbításáig kezelheti azzal, hogy az adatkezelés időtartama nem haladhatja meg a harminc napot.
+
+(6) Ha a rögzített felvételt természetvédelmi őr és az önkormányzati természetvédelmi őr az eljárásra jogosult szerv, hatóság megkeresésére vagy a felvételen szereplő személy kérelmére továbbította, a felvételt a továbbítással egyidejűleg törölni kell.
+
+15/B. § (1) A természetvédelmi őr és az önkormányzati természetvédelmi őr a felvétel kezelése során köteles megtenni az ahhoz szükséges szervezési, technikai és egyéb adatbiztonsági intézkedéseket, hogy az érintett személy személyes adatait, így különösen magántitkait és magánéletének körülményeit illetéktelen személy tudomására jutásától megóvja. Biztosítani kell továbbá, hogy a felvételen szereplő személy – a felvétel törlésének időpontjáig – megtekinthesse a róla készült felvételt.
+
+(2) A rögzített felvételt a természetvédelmi őr és az önkormányzati természetvédelmi őr a 15/A. § (3) bekezdésében foglalt felhasználási célból – bizonyítási eszközként – a büntető vagy szabálysértési eljárásra jogosult szerv megkeresésére továbbíthatja. A megkeresésben meg kell jelölni az eljárás tárgyát, ügyszámát és a rögzített felvétellel bizonyítandó tényt.
+
+(3) Közigazgatási hatósági eljárásban az eljáró hatóság megkeresésére – belföldi jogsegély keretében – a rögzített felvétel továbbítható, ha a megkereső hatóság a megkeresésben az eljárás tárgyát, ügyszámát és a rögzített felvétellel bizonyítandó tényt megjelöli.
+
+(4) A rögzített felvétel továbbítására irányuló megkeresést meg kell tagadni akkor is, ha a felvétel a megkeresésben meghatározott tény bizonyítására alkalmatlan.
+
+(5) Akinek jogát vagy jogos érdekét a felvétellel rögzített esemény, cselekmény vagy intézkedés érinti, a 15/A. § (3) bekezdésében meghatározott célból kérheti, hogy a felvételt a természetvédelmi őr és az önkormányzati természetvédelmi őr annak továbbításáig, de legfeljebb a kérelem benyújtását követő harminc napig ne törölje.
+
+(6) A rögzített felvételen szereplő személy részére az adattovábbításról adott tájékoztatás költségmentes.
 
 15/C. §
 

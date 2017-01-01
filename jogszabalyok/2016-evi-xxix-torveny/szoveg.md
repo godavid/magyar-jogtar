@@ -27,7 +27,7 @@ A szakértői bizonyítás jelentőségének növekedése szoros összefüggésb
 - 3. együttes szakvélemény: több, azonos szakterületre bejegyzett igazságügyi szakértő által készített, egybehangzó, egységes okiratba foglalt szakvélemény,
 - 4. eseti szakértő: olyan – az eljárásban megállapítandó vagy megítélendő jelentős tény vagy egyéb körülmény megállapításához vagy megítéléséhez – megfelelő szakértelemmel rendelkező természetes vagy jogi személy, aki nem igazságügyi szakértő; valamint olyan igazságügyi szakértő, aki az igazságügyi szakértői szakterületekről, valamint az azokhoz kapcsolódó képesítési és egyéb szakmai feltételekről szóló rendeletben meg nem határozott szakterületen ad szakvéleményt,
 - 5. igazságügyi szakértői intézet: olyan – jellemzően egyetem mellett működő – állami szerv, amely kizárólagosan, illetve törvényben vagy az alapszabályában meghatározott alaptevékenységén, így különösen tudományos, oktatói vagy kutatói tevékenységén kívül igazságügyi szakértői tevékenységet is végez,
-- 6. igazságügyi szakértői intézmény: az igazságügyért felelős miniszter (a továbbiakban: miniszter) vagy vele egyetértésben más miniszter által alapított központi költségvetési szerv, amelynek alaptevékenysége jogszabályban meghatározott igazságügyi szakértői kirendelés teljesítése,
+- 6. igazságügyi szakértői intézmény: a Kormány által jogszabályban alapított, az igazságügyért felelős miniszter (a továbbiakban: miniszter) által alapított, a miniszter és a Kormány más tagja által közösen alapított vagy a miniszterrel egyetértésben a Kormány más tagja által alapított központi költségvetési szerv, amelynek feladata jogszabályban meghatározott igazságügyi szakértői kirendelés teljesítése,
 - 7. igazságügyi szakértői testület: a miniszter rendeletében vagy más jogszabályban létrehozott, a létrehozó jogszabályban meghatározott szakkérdésben, bizottságként eljárva véleménynyilvánításra jogosult, jellemzően jogi személy,
 - 8. igazságügyi szakértői tevékenység: a jogszabályban meghatározott követelményeknek megfelelő igazságügyi szakértő, illetve az igazságügyi szakértő munkáját segítő egyéb személyek által, a kirendelő hatóság, bíróság, ügyészség, rendőrség (a továbbiakban együtt: hatóság) kirendelése vagy megbízás alapján, e törvény által meghatározott szervezeti keretek között, jellemzően szakértői díj ellenében végzett, a hatóság eljárásaiban különleges szakértelmet igénylő tény vagy egyéb körülmény megállapítását vagy megítélését elősegítő részcselekmények összessége, így különösen a szakvéleményhez szükséges vizsgálatok elvégzése, a szakvélemény előkészítése, elkészítése és előterjesztése, valamint a hatóság kérésére annak kiegészítése és az ezekkel összefüggő valamennyi részcselekmény,
 - 9. kirendelés: az igazságügyi szakértő eljárását megalapozó bírósági, közjegyzői, ügyészségi, rendőrségi vagy jogszabályban meghatározott más hatóság által meghozott döntés, amely minden esetben az igazságügyi szakértői tevékenység kifejtésére való felhívást tartalmazza, így különösen a polgári perrendtartásról szóló törvény szerinti végzés, a büntetőeljárásról szóló törvény szerinti határozat, a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti végzés, valamint a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló törvény szerinti határozat,
@@ -65,9 +65,9 @@ A szakértői bizonyítás jelentőségének növekedése szoros összefüggésb
 
 (3) Ha az igazságügyi szakértő a (2) bekezdés szerinti alkalmazottként vagy az igazságügyi szakértői intézmény vagy igazságügyi szakértői intézet, igazságügyi szakértői testület vagy szervezet nevében jár el, tevékenységét
 
-- a) a társaság, szolgáltató vagy szervezet alkalmazásában álló igazságügyi szakértő a munka törvénykönyve szerinti munkaviszonyban, a Polgári Törvénykönyv szerinti megbízási jogviszonyban vagy a közalkalmazottak jogállásáról szóló törvény szerinti közalkalmazotti jogviszonyban,
+- a) a társaság, szolgáltató vagy szervezet alkalmazásában álló igazságügyi szakértő a munka törvénykönyve szerinti munkaviszonyban, a Polgári Törvénykönyv szerinti megbízási jogviszonyban, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti szolgálati jogviszonyban, a közszolgálati tisztviselőkről szóló törvény szerinti kormányzati szolgálati vagy közszolgálati jogviszonyban, az állami tisztviselőkről szóló törvény szerinti állami szolgálati jogviszonyban vagy a közalkalmazottak jogállásáról szóló törvény szerinti közalkalmazotti jogviszonyban,
 - b) az igazságügyi szakértői testület nevében eljáró igazságügyi szakértő – jogszabály eltérő rendelkezése hiányában – a Polgári Törvénykönyv szerinti megbízási jogviszonyban vagy
-- c) az igazságügyi szakértői intézmény vagy igazságügyi szakértői intézet nevében eljáró igazságügyi szakértő az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény szerinti szolgálati jogviszonyban, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti szolgálati jogviszonyban vagy a közalkalmazottak jogállásáról szóló törvény szerinti közalkalmazotti jogviszonyban
+- c) az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény (a továbbiakban: Iasz.) szerint egyéb igazságügyi szervnek minősülő igazságügyi szakértői intézmény esetében az Iasz. szerinti szolgálati jogviszonyban; egyéb igazságügyi szakértői intézmény vagy igazságügyi szakértői intézet nevében eljáró igazságügyi szakértő az Iasz. szerinti szolgálati jogviszonyban, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti szolgálati jogviszonyban, a közszolgálati tisztviselőkről szóló törvény szerinti kormányzati szolgálati vagy közszolgálati jogviszonyban, az állami tisztviselőkről szóló törvény szerinti állami szolgálati jogviszonyban vagy a közalkalmazottak jogállásáról szóló törvény szerinti közalkalmazotti jogviszonyban
 
 (a továbbiakban együtt: munkavégzésre irányuló jogviszony) végezheti.
 
@@ -245,7 +245,97 @@ tartja nyilván, illetve kezeli.
 
 #### 9. Az igazságügyi szakértő munkájának értékelése
 
-17–22. §
+17. § (1) Az igazságügyi szakértők munkáját – ha jogszabály eltérően nem rendelkezik – e törvény rendelkezései és a miniszter rendeletében meghatározott részletes szabályok szerint értékelni kell.
+
+(2) Az értékelés célja az igazságügyi szakértő munkájának elfogulatlan megítélése, a teljesítményét befolyásoló ismeretek, képességek és személyiségjegyek feltárása, ezáltal a szakmai fejlődésének az elősegítése.
+
+(3) Az értékelést megalapozó vizsgálatnak – alapvetően a jogerősen befejezett ügyek alapján – fel kell tárnia az igazságügyi szakértő gyakorlatát, különös tekintettel arra, hogy
+
+- a) a szakvélemény előkészítése, elkészítése, valamint előterjesztése a vonatkozó jogszabályoknak megfelelt-e,
+- b) az igazságügyi szakértő a jogszabályok és a hatóság által előírt határidőket és az ügyviteli, valamint adatkezelési szabályokat megtartotta-e,
+- c) az igazságügyi szakértő a hatóság által feltett kérdések közül valamennyi kérdésben véleményt nyilvánított-e,
+- d) az igazságügyi szakértő a hatóságokkal megfelelően együttműködött-e, a jogszabályban előírt kötelező bejelentési kötelezettségeinek eleget tett-e,
+- e) a szakvélemény megszerkesztése a jogszabályoknak és a releváns szakmai gyakorlatnak megfelelően, a hatóságok és a Kamara által elvárt megfelelő szakmai színvonalon történt-e,
+- f) az igazságügyi szakértő a rá vonatkozó továbbképzési követelményeknek eleget tett-e, valamint azok eredményeit a szakmai tevékenységébe megfelelően integrálta-e,
+- g) az igazságügyi szakértő munkája során segédszemélyzet, szakkonzultáns, illetve szakértőjelölt közreműködését igénybe vette-e és
+- h) az igazságügyi szakértőre vonatkozó jogszabályi előírásoknak, kamarai és egyéb szakmai szabályzatoknak az adott szakterületen kiadott szakértői módszertani leveleknek (a továbbiakban: módszertani levél) az igazságügyi szakértő eljárása megfelelt-e.
+
+(4) Az igazságügyi szakértő munkáját abból a szempontból is szükséges vizsgálni, hogy az általa adott szakvélemény mennyiben volt felhasználható a hatóság eljárásában. A szakvélemény felhasználhatóságát alapvetően nem érinti, ha a hatóság döntését más szakvéleményre vagy egyéb bizonyítékra alapította, és a később beszerzett bizonyíték igénybevételét nem az igazságügyi szakértő szakvéleményének fogyatékosságai indokolták.
+
+18. § (1) A névjegyzékbe felvett igazságügyi szakértő tevékenységét a névjegyzékbe történő felvételt követő második évben, legkésőbb az igazságügyi szakértő névjegyzékbe történő felvételt követő tizennyolc hónapon belül, ezt követően pedig ötévente értékelni kell.
+
+(2) Soron kívül értékelni kell az igazságügyi szakértő tevékenységét, ha
+
+- a) az igazságügyi szakértő ezt maga kéri vagy
+- b) az 55. § (3) bekezdésében meghatározottak szerint a névjegyzéket vezető hatóság jelzésére kerül sor.
+
+(3) Az igazságügyi szakértő tevékenységének szakmai értékelését a (2) bekezdésben meghatározott személyi körön kívül más nem kérheti.
+
+(4) Ha az igazságügyi szakértő szakmai értékelését a (2) bekezdés a) pontja szerint maga kéri, köteles ezért a miniszter rendeletében meghatározott díjat megfizetni.
+
+19. § (1) Az értékelést megalapozó vizsgálat elrendelésére a Kamara minőségbiztosítási bizottsága jogosult. A 18. § (2) bekezdése szerinti esetekben a minőségbiztosítási bizottság az értékelést megalapozó vizsgálatot köteles elrendelni. A rendszeres értékelést megalapozó vizsgálatot a minőségbiztosítási bizottság hivatalból rendeli el.
+
+(2) A minőségbiztosítási bizottság a vizsgálat lefolytatására háromtagú szakmai értékelő tanácsot jelöl ki. A szakmai értékelő tanácsot a minőségbiztosítási bizottság egy tagja vezeti; a szakmai értékelő tanács további két tagját az értékeléssel érintett szakterületen alapított szakmai tagozatból, elsősorban a miniszter rendeletében meghatározott külön minősítéssel rendelkező igazságügyi szakértők közül kell kijelölni. Amennyiben az igazságügyi szakértő tevékenységét több szakterületen végzi, minden szakterülettel további egy tanácstagot kell kijelölni, az adott szakterületen érintett tagozatból.
+
+(3) Az értékelést megalapozó vizsgálatról a jegyzőkönyvet a főtitkár által kijelölt jegyzőkönyvvezető vezeti.
+
+(4) Az értékelést megalapozó vizsgálat lefolytatásának elrendelését az igazságügyi szakértővel írásban kell közölni. A közlésnek tartalmaznia kell a szakmai értékelő tanács személyi összetételét is, amellyel szemben az igazságügyi szakértő a közlés átvételétől számított tizenöt napon belül kifogást nyújthat be a minőségbiztosítási bizottság elnökéhez. A kifogásról a minőségbiztosítási bizottság elnöke tizenöt napon belül indokolt határozatot hoz.
+
+(5) A minőségbiztosítási bizottság elnökének határozatával szemben az igazságügyi szakértő harminc napon belül bírósági jogorvoslat iránti kérelmet nyújthat be.
+
+(6) A bíróság az (5) bekezdés alapján benyújtott kérelmet nemperes eljárásban bírálja el. Ha e törvényből vagy az eljárás nemperes jellegéből más nem következik, a bíróság eljárására a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó rendelkezéseit kell megfelelően alkalmazni. Az eljárásra a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
+
+20. § (1) Az értékelést megalapozó vizsgálatot az elrendeléstől számított harminc napon belül le kell folytatni, és az értékelést a befejezéstől számított tizenöt napon belül kell elvégezni.
+
+(2) Az értékelést megalapozó vizsgálat során a szakmai értékelő tanács az igazságügyi szakértő
+
+- a) szakvéleményeit megvizsgálhatja,
+- b) iratait, nyilvántartásait megtekintheti, azokról másolatot készíthet,
+- c) meghallgatását elrendelheti és foganatosíthatja és
+- d) szóbeli előadásánál – ha jogszabály eltérően nem rendelkezik – jelen lehet, ha az igazságügyi szakértőt a szakvélemény szóbeli előadása miatt tárgyalásra idézik.
+
+(3) Az igazságügyi szakértő meghallgatása csak fontos okból mellőzhető.
+
+(4) Az igazságügyi szakértő a vizsgálat lefolytatása alatt mindvégig köteles a szakmai értékelő tanáccsal együttműködni. A vizsgálatot a szakmai értékelő tanács lehetőleg az igazságügyi szakértő munkájának akadályozása nélkül köteles lefolytatni.
+
+(5) A szakmai értékelő tanács és a minőségbiztosítási bizottság a (2) bekezdésben meghatározott vizsgálatok során tudomására jutott adatokat a megalapozott szakmai értékelés elkészítése céljából jogosult kezelni. A minőségbiztosítási bizottság az értékelés során tudomására jutott adatokat az értékelés befejezését követő hat hónap elteltével köteles zárolni. Amennyiben az igazságügyi szakértő a minőségbiztosítási bizottság határozatával szemben bírósági jogorvoslatot vesz igénybe, az adatok zárolására a minőségbiztosítási bizottság a jogerős bírósági határozat közlését követő hat hónap elteltével köteles.
+
+(6) A szakmai értékelő tanács tagjait a vizsgálat során tudomásukra jutott adatok tekintetében titoktartási kötelezettség terheli.
+
+21. § (1) Az igazságügyi szakértő értékelését a szakmai értékelő tanács a minőségbiztosítási bizottság elé terjeszti. Az értékelésben csak tényszerűen megalapozott megállapítások lehetnek. Az igazságügyi szakértő értékelését a minőségbiztosítási bizottság határozattal fogadja el.
+
+(2) Az értékelés eredményeként az igazságügyi szakértő
+
+- a) kiválóan alkalmas,
+- b) alkalmas vagy
+- c) alkalmatlan
+
+minősítést kap.
+
+(3) A határozatot és az igazságügyi szakértő értékelését kézbesíteni kell az értékelt igazságügyi szakértőnek és a névjegyzéket vezető hatóságnak. A névjegyzéket vezető hatóság az értékelés eredményeként a (2) bekezdés a) és b) pontjában foglaltakat a névjegyzékbe bejegyzi.
+
+(4) A névjegyzékbe bejegyzett, de még nem értékelt igazságügyi szakértő esetén a névjegyzékben az értékelés hiányára kell utalni.
+
+(5) Alkalmatlan minősítés esetén a minőségbiztosítási bizottság kezdeményezi az igazságügyi szakértő Kamarából történő kizárását. A kizárás kérdésében a Kamara elnöksége (a továbbiakban: elnökség) határoz. Az elnökség a kizárás kérdésében hozott határozatát kézbesíti az értékelt igazságügyi szakértőnek és a névjegyzéket vezető hatóságnak. A névjegyzéket vezető hatóság az igazságügyi szakértőt a miniszter rendeletében meghatározott eljárás lefolytatásával a névjegyzékből törli.
+
+(6) A szakmai értékelő tanács elnöke
+
+- a) fegyelmi vétség elkövetésének alapos gyanúja esetén értesíti az elnökséget vagy
+- b) bűncselekmény gyanúja esetén értesíti a Kamara főtitkárát.
+
+(7) A főtitkárt – a szakmai értékelő tanács elnökével való egyetértés esetén – feljelentési kötelezettség terheli.
+
+22. § (1) A minőségbiztosítási bizottság határozatával szemben fellebbezésnek helye nincs.
+
+(2) Az alkalmatlan értékelést kapott igazságügyi szakértő a minőségbiztosítási bizottság határozatának és az értékelésnek a kézhezvételétől számított harminc napon belül bírósági jogorvoslat iránt – jogszabálysértésre hivatkozással – keresetet nyújthat be. A keresetlevél benyújtásának a határozat végrehajtására halasztó hatálya nincs.
+
+(3) A keresetlevelet a Kamarához kell benyújtani. A Kamara a keresetlevelet az ügy irataival együtt nyolc napon belül továbbítja az eljáró bírósághoz.
+
+(4) A kereset benyújtásáról a Kamara értesíti a névjegyzéket vezető hatóságot.
+
+(5) A bíróság eljárására a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó rendelkezéseit kell megfelelően alkalmazni.
+
+(6) A perre a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
 
 ### III. Fejezet — AZ IGAZSÁGÜGYI SZAKÉRTŐI TEVÉKENYSÉGET VÉGZŐ TÁRSASÁG
 
@@ -300,17 +390,23 @@ tartja nyilván, illetve kezeli.
 
 #### 14. Az igazságügyi szakértői intézmények
 
-30. § (1) Igazságügyi szakértői intézményt a miniszter vagy vele egyetértésben más miniszter alapíthat és szüntethet meg.
+30. § (1) Igazságügyi szakértői intézményt a Kormány, a miniszter, a miniszter és a Kormány más tagja közösen vagy a miniszterrel egyetértésben a Kormány más tagja alapíthat és szüntethet meg.
 
-(2) Az igazságügyi szakértői intézmény központi költségvetési szerv.
+(2) Az igazságügyi szakértői intézmény központi költségvetési szerv. Az igazságügyi szakértői intézmény
+
+- a) irányításával kapcsolatos, az államháztartásról szóló 2011. évi CXCV. törvény 9/A. § (3) bekezdésében meghatározott hatáskörök középirányító szervre, illetve
+- b) irányításával kapcsolatos, az államháztartásról szóló 2011. évi CXCV. törvény 9. § b)–i) pontja szerinti hatáskörök más központi költségvetési szervre
+
+átruházhatók.
 
 (3) Az igazságügyi szakértői intézmény alaptevékenységének minősül
 
 - a) olyan ügyben történő hatósági kirendelés teljesítése, amelyben jogszabály lehetővé vagy kötelezővé teszi a bizonyítási eljárás hivatalból való lefolytatását,
-- b) a külön jogszabályban meghatározott ügyekben való kirendelés teljesítése, és
-- c) az a) és b) pontban felsorolt alaptevékenység ellátása érdekében külön jogszabályban megjelölt igazgatási, gazdálkodási, munkaügyi és nyilvántartási feladatok ellátása, valamint a működési feltételek biztosítása.
+- b) jogszabályban meghatározott ügyekben való kirendelés teljesítése,
+- c) az a) és b) pontban meghatározott alaptevékenység ellátása érdekében jogszabályban megjelölt igazgatási, gazdálkodási, munkaügyi, és nyilvántartási feladatok ellátása, valamint a működési feltételek biztosítása, és
+- d) jogszabályban megjelölt egyéb feladatok ellátása.
 
-(4) Az igazságügyi szakértői intézmény az alaptevékenysége körébe tartozó kirendelésnek más tevékenységét megelőzően köteles eleget tenni.
+(4) Az igazságügyi szakértői intézmény az alaptevékenysége körébe tartozó kirendelésnek – jogszabályban előírt nyilvántartási feladatain kívül – a más tevékenységét megelőzően köteles eleget tenni.
 
 (5) Az igazságügyi szakértői intézmény a (3) bekezdésben foglaltakon túlmenően csak olyan kirendelést, illetve szakvélemény készítésére irányuló megbízást fogadhat el, amely alaptevékenységéből fakadó kötelezettségeinek teljesítését nem veszélyezteti.
 
@@ -439,7 +535,7 @@ tartja nyilván, illetve kezeli.
 
 (3) A külön jogszabályban megjelölt, biztonságos kézbesítési szolgáltatást működtető szervezet – megkeresésre – az azonosító adatok alapján a biztonságos kézbesítési szolgáltatásról szóló jogszabály szerinti, kapcsolattartáshoz szükséges azonosítókat az elektronikus kapcsolattartás érdekében a hatóság részére átadja.
 
-(4)
+(4) Az elektronikus úton való kapcsolattartásra az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
 
 #### 20. A szakértő kirendelése
 
@@ -487,7 +583,7 @@ tartja nyilván, illetve kezeli.
 
 (2) A szakértő a szakvéleményt – a kirendelésben foglaltaknak megfelelően – írásban vagy szóban terjeszti elő. A szakvélemény papír alapon vagy elektronikus kapcsolattartás keretében kézbesíthető a hatóság részére.
 
-(3)
+(3) Az elektronikus úton való kapcsolattartásra az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
 
 (4) A szakvéleménynek tartalmaznia kell
 
@@ -625,10 +721,10 @@ tartja nyilván, illetve kezeli.
 
 (3) Szakértőjelölti tevékenység
 
-- a) igazságügyi szakértői intézményben vagy igazságügyi szakértői intézetben alkalmazott szakértőjelölt esetén az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény szerinti szolgálati jogviszonyban, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti szolgáti jogviszonyban vagy a közalkalmazottak jogállásáról szóló törvény szerinti közalkalmazotti jogviszonyban vagy
-- b) nem igazságügyi szakértői intézményben vagy igazságügyi szakértői intézetben alkalmazott szakértőjelölt esetén a munka törvénykönyvéről szóló törvény szerinti munkaviszony, a közalkalmazottak jogállásáról szóló törvény szerinti közalkalmazotti jogviszony vagy a Polgári Törvénykönyv szerinti megbízási jogviszony keretében
+- a) az Iasz. szerinti igazságügyi szakértői intézményben alkalmazott szakértőjelölt az Iasz. szerinti szolgálati jogviszonyban, más szakértői intézményben vagy igazságügyi szakértői intézetben alkalmazott szakértőjelölt esetén az Iasz. szerinti szolgálati jogviszonyban, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti szolgálati jogviszonyban, a közszolgálati tisztviselőkről szóló törvény szerinti kormányzati szolgálati vagy közszolgálati jogviszonyban, az állami tisztviselőkről szóló törvény szerinti állami szolgálati jogviszonyban vagy a közalkalmazottak jogállásáról szóló törvény szerinti közalkalmazotti jogviszonyban vagy
+- b) nem igazságügyi szakértői intézményben vagy igazságügyi szakértői intézetben alkalmazott szakértőjelölt esetén a munka törvénykönyvéről szóló törvény szerinti munkaviszonyban, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti szolgálati jogviszonyban, a közszolgálati tisztviselőkről szóló törvény szerinti kormányzati szolgálati vagy közszolgálati jogviszonyban, az állami tisztviselőkről szóló törvény szerinti állami szolgálati jogviszonyban, a közalkalmazottak jogállásáról szóló törvény szerinti közalkalmazotti jogviszony vagy a Polgári Törvénykönyv szerinti megbízási jogviszony keretében végezhető.
 
-végezhető.
+(3a) A (3) bekezdés a) pontja szerinti szakértőjelölti tevékenységnek minősül az általános rendőrségi feladatok ellátására létrehozott szerv szakértői és bűnügyi technikai feladatokat ellátó szervénél 2016. december 31-ig a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti szolgálati jogviszonyban végzett szakértőjelölti tevékenység is.
 
 (4) A szakértőjelölti működés részletes szabályait és a szakértőjelöltek kötelező képzéseire, valamint számonkéréseire vonatkozó részletes követelményeket, valamint a szakértőjelöltet alkalmazó mentorokat megillető kedvezményeket és egyéb juttatásokat kamarai szabályzat állapítja meg azzal, hogy a szakértőjelöltek szakértés alapismereti elméleti oktatásáról gondoskodni kell.
 
@@ -707,7 +803,7 @@ végezhető.
 
 (4) Ha az ügyfél a kérelmet hiányosan nyújtotta be, a Kamara a kérelem beérkezésétől számított tizenöt napon belül – megfelelő határidő megjelölése és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – hiánypótlásra hívja fel.
 
-(5) A Kamara az alapszabályában vagy kamarai szabályzatában közigazgatási hatósági ügynek nem minősülő eljárásaiban is lehetővé teheti a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény, valamint az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti elektronikus kapcsolattartás szabályainak alkalmazását.
+(5) A Kamara az alapszabályában vagy kamarai szabályzatában meghatározhatja azon ügyeket, amelyek intézése során akkor is az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény elektronikus ügyintézéssel kapcsolatos rendelkezéseinek alkalmazásával jár el, ha az ügyfél a kamara tagja vagy alkalmazottja és az eljárás nem minősül a közigazgatási hatósági ügynek.
 
 ### VIII. Fejezet — A KAMARA TAGJAI
 
@@ -1290,7 +1386,7 @@ hoz határozatot, és azt kézbesíti a fegyelmi eljárás alá vont igazságüg
 
 107. § (1) A kezdeményező a kérelmet és mellékleteit elektronikus formában is benyújthatja, ebben az esetben a fegyelmi eljárás folyamán a Kamarával a kapcsolatot elektronikus úton köteles tartani és a Kamara is valamennyi iratot elektronikus kapcsolattartás keretében kézbesít a kezdeményező részére. A kérelem és mellékletei elektronikus úton való benyújtását az elektronikus úton való kapcsolattartás vállalásának kell tekinteni.
 
-(2)
+(2) Az elektronikus úton való kapcsolattartásra az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
 
 (3) Ha a kezdeményező az elektronikus úton való kapcsolattartást választotta, az elektronikus benyújtás alóli kivételt jelenti, ha a bizonyítási eljárásban az okirat papíralapú bemutatása, megtekintése szükséges; erre különösen akkor kerülhet sor,
 
@@ -1661,7 +1757,8 @@ vonatkozó rendelkezéseit megfelelően alkalmazni kell.
 - c) a névjegyzékre és a névjegyzékben szereplő adatok és tények nyilvántartása eljárási rendjére vonatkozó részletes szabályokat,
 - d) a névjegyzékbe történő felvétel iránti kérelem tartalmára vonatkozó szabályokat,
 - e) az igazságügyi névjegyzéket vezető hatóság kijelölését és
-- f) az igazságügyi szakértők részére szükséges jogi ismeretek oktatására kijelölt vizsgaszervező szervet
+- f) az igazságügyi szakértők részére szükséges jogi ismeretek oktatására kijelölt vizsgaszervező szervet,
+- g) az igazságügyi szakértői intézmény irányításával kapcsolatos, a középirányító szervre átruházható hatásköröket, a középirányító kijelölését, a 30. § (2) bekezdés b) pontja szerinti hatáskör-átruházás szabályait, valamint az igazságügyi szakértői intézmény igazságügyi szakértői tevékenységnek nem minősülő egyes feladatait
 
 rendeletben határozza meg.
 

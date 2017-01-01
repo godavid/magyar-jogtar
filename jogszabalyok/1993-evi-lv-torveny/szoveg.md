@@ -110,7 +110,7 @@ Az Országgyűlés a magyar állampolgárság erkölcsi súlyának megőrzése �
 
 (2) A magyar állampolgárság megszerzéséről a köztársasági elnök honosítási, illetve visszahonosítási okiratot (a továbbiakban: honosítási okirat) ad ki.
 
-(3) A honosítási okiratot – ha a 20/A. § szerinti eljárásra sor kerül, és a miniszter vagy az állampolgársági ügyekben eljáró szerv a névmódosítást engedélyezi – a névmódosításnak megfelelő névvel kell kiadni. A honosítási okiratot – ha a 20/A. § szerinti eljárásra sor kerül, és a miniszter vagy az állampolgársági ügyekben eljáró szerv a névmódosítási kérelmet elutasítja vagy ha a 20/A. § szerinti eljárásra nem kerül sor – a honosítást kérő külföldi nevével kell kiadni.
+(3) A honosítási okiratot – ha a 20/A. § szerinti eljárásra sor kerül, és az állampolgársági ügyekben eljáró szerv a névmódosítást engedélyezi – a névmódosításnak megfelelő névvel kell kiadni. A honosítási okiratot – ha a 20/A. § szerinti eljárásra sor kerül, és az állampolgársági ügyekben eljáró szerv a névmódosítási kérelmet elutasítja vagy ha a 20/A. § szerinti eljárásra nem kerül sor – a honosítást kérő külföldi nevével kell kiadni.
 
 7. § (1) A honosított, illetőleg a visszahonosított (a továbbiakban együtt: honosított) személy választása szerint állampolgársági esküt vagy fogadalmat tesz. Az esküt vagy a fogadalmat a honosított a lakóhelye szerint illetékes polgármester előtt, illetve a 4. § (3), (3a) (6) és (7) bekezdésének, illetve az 5. § hatálya alá tartozó honosított választása szerint a polgármester vagy a magyar külképviselet vezetője előtt teszi le. Az eskü vagy fogadalom letételénél a magyar külképviselet vezetője helyett az általa kijelölt konzuli tisztviselő is eljárhat. A cselekvőképtelen személy nevében az esküt vagy fogadalmat a törvényes képviselője teszi le.
 
@@ -196,7 +196,7 @@ igazolható.
 - c) a magyar konzuli tisztviselőhöz, illetve
 - d) az állampolgársági ügyekben eljáró szervhez lehet benyújtani.
 
-(2) Az állampolgársági kérelmet jogszabályban meghatározott adattartalommal, továbbá – az állampolgársági bizonyítvány kiadása iránti kérelem kivételével – magyar nyelven kell benyújtani. A kérelmet saját kezűleg alá kell írni. A kérelem benyújtásakor a kérelmező személyazonosságát ellenőrizni, továbbá a kérelem adatait a csatolt okmányok adataival egyeztetni kell.
+(2) Az állampolgársági kérelmet jogszabályban meghatározott adattartalommal, továbbá – az állampolgársági bizonyítvány kiadása iránti kérelem kivételével – magyar nyelven kell benyújtani. A kérelmet alá kell írni. A kérelem benyújtásakor a kérelmező személyazonosságát ellenőrizni, továbbá a kérelem adatait a csatolt okmányok adataival egyeztetni kell.
 
 (3) Más személy állampolgárságának igazolására irányuló bizonyítvány iránti kérelmet benyújthat az, aki erre vonatkozó jogos érdekét igazolja.
 
@@ -230,7 +230,7 @@ ellátva kell csatolni.
 
 (6) Ha az állampolgársági kérelem hiányos, vagy az elbíráláshoz szükséges okiratokat a kérelmező nem csatolta, az állampolgársági ügyekben eljáró szerv a hiány pótlására határidő tűzésével és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett a kérelmezőt felhívhatja. Okirat hiánya esetén a beszerzéséhez szükséges időtartam figyelembevételével megállapított határidőt kell kitűzni. Az állampolgársági bizonyítvány kiadása iránti kérelem esetén a hiánypótlási felhívás kibocsátásának határideje a kérelem beérkezésétől számított tizenöt nap.
 
-15. § (1) Az állampolgársági kérelmet a cselekvőképes kérelmező személyesen, a korlátozottan cselekvőképes, illetve a cselekvőképtelen személy nevében a törvényes képviselője terjesztheti elő.
+15. § (1) Az állampolgársági kérelmet meghatalmazott nem terjesztheti elő. A kérelmet a cselekvőképes kérelmező személyesen, a korlátozottan cselekvőképes, illetve a cselekvőképtelen személy nevében a törvényes képviselője terjesztheti elő.
 
 (2) A honosítási és visszahonosítási kérelem, valamint a lemondási nyilatkozat benyújtásakor a korlátozottan cselekvőképes személyt is meg kell hallgatni.
 
@@ -273,6 +273,8 @@ ellátva kell csatolni.
 
 (9) Az állampolgársági bizonyítvány kiadása iránti kérelem esetén az állampolgársági ügyekben eljáró szerv a kérelem érdemi vizsgálat nélküli elutasításáról, az eljárás megszüntetéséről és felfüggesztéséről, valamint az eljárási költség viselése tekintetében végzéssel dönt.
 
+(10) Az állampolgársági ügyekben eljáró szerv döntésével szemben nincs helye fellebbezésnek.
+
 ### Adatvédelem, adatszolgáltatás
 
 18. § Az állampolgársági iratba betekinthet:
@@ -282,7 +284,7 @@ ellátva kell csatolni.
 
 19. § (1) A magyar állampolgárság honosítással vagy visszahonosítással történő megszerzésével kapcsolatos adatszolgáltatást – beleértve a 14. § (1) bekezdésében és a 20/A. §-ban meghatározott adatokat is – az állampolgársági eskü vagy fogadalom letételének helye szerint illetékes anyakönyvvezető, illetve a 4. § (3), (3a), (6) és (7) bekezdése, illetve az 5. § alapján honosított esetében az állampolgársági eskü vagy fogadalom letételének helye szerint illetékes anyakönyvvezető, az állampolgársági ügyekben eljáró szerv teljesíti más anyakönyvvezetőnek, a személyiadat- és lakcímnyilvántartást kezelő szervnek, az idegenrendészeti hatóságnak, a menekültügyi hatóságnak, valamint a Központi Statisztikai Hivatalnak.
 
-(2) A magyar állampolgárság megszűnéséről az állampolgársági ügyekben eljáró szerv értesíti a személyiadat- és lakcímnyilvántartást kezelő szervet, a magyar állampolgárság megszűnésével érintett személy születését és házasságát vagy bejegyzett élettársi kapcsolatát, valamint gyermekének születését nyilvántartó anyakönyvvezetőt, illetve a hazai anyakönyvezést végző hatóságot, az útlevélhatóságot, továbbá – a potenciális hadköteles és a hadköteles személyek esetében – Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szervét.
+(2) A magyar állampolgárság megszűnéséről az állampolgársági ügyekben eljáró szerv értesíti a személyiadat- és lakcímnyilvántartást kezelő szervet, a magyar állampolgárság megszűnésével érintett személy születését és házasságát vagy bejegyzett élettársi kapcsolatát, valamint gyermekének születését nyilvántartó anyakönyvvezetőt, az útlevélhatóságot, továbbá – a potenciális hadköteles és a hadköteles személyek esetében – Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szervét.
 
 (3) Az állampolgársági eljárás során a miniszter és az állampolgársági ügyekben eljáró szerv
 
@@ -293,7 +295,9 @@ ellátva kell csatolni.
 
 (4) Az állampolgársági kérelem átvételére jogosult szerv a honosítási eljárás, a visszahonosítási eljárás, az állampolgárság megszerzésére irányuló eljárás és az állampolgárság igazolására irányuló eljárás során ellenőrzi, hogy a kérelmező a személyiadat- és lakcímnyilvántartásban szerepel-e.
 
-20. § Az állampolgársági iratok nem selejtezhetők, őrzésükről és nyilvántartásukról az állampolgársági ügyekben eljáró szerv gondoskodik.
+20. § (1) Az állampolgársági iratok nem selejtezhetők, őrzésükről a Magyar Nemzeti Levéltár és – a (2) bekezdésben meghatározottak szerint – az állampolgársági ügyekben eljáró szerv az adatvédelmi szabályok megtartásával gondoskodik.
+
+(2) A 2015. április 1. napját követően lezárult állampolgársági ügy iratanyagát három évig az állampolgársági ügyekben eljáró szerv őrzi.
 
 ### Névmódosítás
 
@@ -312,7 +316,7 @@ ellátva kell csatolni.
 
 (2) A névmódosítási kérelmet – ha kormányrendelet eltérően nem rendelkezik – okirattal vagy szakvéleménnyel kell alátámasztani.
 
-(3) A névmódosítást a miniszter vagy az állampolgársági ügyekben eljáró szerv engedélyezi. Ha a miniszter vagy az állampolgársági ügyekben eljáró szerv a névmódosítást engedélyezi, akkor döntése a 7. §-ban szabályozott eskü- vagy fogadalomtétel napján lép hatályba.
+(3) A névmódosítást az állampolgársági ügyekben eljáró szerv engedélyezi. Ha az állampolgársági ügyekben eljáró szerv a névmódosítást engedélyezi, akkor döntése a 7. §-ban szabályozott eskü- vagy fogadalomtétel napján lép hatályba.
 
 (4) A névmódosítást anyakönyvezni kell.
 

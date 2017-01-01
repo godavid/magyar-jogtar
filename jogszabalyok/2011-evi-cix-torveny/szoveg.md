@@ -48,7 +48,8 @@ A nemzet kötelessége, hogy visszatérve az európai akadémiai eszméhez – a
 - n) jogszabály vagy egyedi megkeresés, felkérés alapján képviseli a művészeket közfeladat ellátásában közreműködő különböző döntés-előkészítő, véleményező és egyéb testületekben, szervezetekben,
 - o) együttműködik a határon túli magyar művészeti szervezetekkel, és külföldi, hasonló rendeltetésű intézményekkel,
 - p) gondoskodik a magyar művészeti élet alkotóinak személyes megbecsüléséről,
-- q) a különböző művészeti ágak művelése és korszerű művészetelméleti álláspontok kialakítása érdekében tagozatokat hoz létre és működtet.
+- q) a különböző művészeti ágak művelése és korszerű művészetelméleti álláspontok kialakítása érdekében tagozatokat hoz létre és működtet,
+- r) ellátja az Építészeti Múzeum fenntartói feladatait.
 
 (3) Az MMA közfeladatait éves programterv keretei között valósítja meg.
 

@@ -1467,7 +1467,7 @@ a vételi ajánlat, illetve az önkéntes vételi ajánlat lezárását követő
 
 (6) A Felügyelet a számlavezető által a (3) bekezdés szerint átadott értékpapírszámla-egyenlegek vonatkozásában ellenőrzést végez, amelynek keretében a számlavezető által vezetett értékpapírszámlák összesített egyenlegét összeveti a számlavezetőnek a központi értéktárnál kezelt értékpapír állományának a Felügyelet rendelkezésére álló adataival.
 
-(7) A Felügyelet az (1) bekezdés szerinti tájékozódási lehetőséghez kapcsolódó ügyfélszolgálati feladatok ellátását a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalán keresztül biztosítja. A Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala az általa nyújtott szolgáltatás során a számlavezető és a számlatulajdonos adatait – ideértve az értékpapírszámla és ügyfélszámla egyenlegét és egyéb adatait, valamint a számlatulajdonos részére képzett belépési azonosítót és jelszót – nem kezelheti.
+(7) A Felügyelet az (1) bekezdés szerinti tájékozódási lehetőséghez kapcsolódó ügyfélszolgálati feladatok ellátását az országos telefonos ügyfélszolgálatot működtető szerven keresztül biztosítja. Az országos telefonos ügyfélszolgálatot működtető szerv az általa nyújtott szolgáltatás során a számlavezető és a számlatulajdonos adatait – ideértve az értékpapírszámla és ügyfélszámla egyenlegét és egyéb adatait, valamint a számlatulajdonos részére képzett belépési azonosítót és jelszót – nem kezelheti.
 
 (8) E § rendelkezéseit a központi értéktárnak a 909/2014/EU rendelet mellékletének A szakasza szerint végzett tevékenysége tekintetében nem kell alkalmazni.
 

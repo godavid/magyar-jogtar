@@ -1413,6 +1413,7 @@ A. A joghatóságnak rendelkeznie kell a fent meghatározott jelentéstételi é
 ### 1. melléklet a 2015. évi CXC. törvényhez
 
 - 1. Albánia
+- 1a. Andorra
 - 2. Anguilla
 - 3. Antigua és Barbuda
 - 4. Argentína
@@ -1423,6 +1424,7 @@ A. A joghatóságnak rendelkeznie kell a fent meghatározott jelentéstételi é
 - 9. Belgium
 - 10. Belize
 - 11. Bermuda
+- 11a. Brazília
 - 12. Brit Virgin-szigetek
 - 13. Bulgária
 - 14. Chile
@@ -1442,6 +1444,7 @@ A. A joghatóságnak rendelkeznie kell a fent meghatározott jelentéstételi é
 - 28. Gibraltár
 - 29. Görögország
 - 30. Grenada
+- 30a. Grönland
 - 31. Guernsey
 - 32. Hollandia
 - 33. Horvátország
@@ -1449,29 +1452,37 @@ A. A joghatóságnak rendelkeznie kell a fent meghatározott jelentéstételi é
 - 35. Indonézia
 - 36. Írország
 - 37. Izland
+- 37a. Izrael
 - 38. Japán
 - 39. Jersey
 - 40. Kajmán-szigetek
 - 41. Kanada
+- 41a. Kína
 - 42. Kolumbia
 - 43. Korea
+- 43a. Kuvait
 - 44. Lengyelország
 - 45. Lettország
 - 46. Liechtenstein
 - 47. Litvánia
 - 48. Luxemburg
+- 48a. Malajzia
 - 49. Málta
 - 50. Man-sziget
 - 51. Marshall-szigetek
 - 52. Mauritius
 - 53. Mexikó
+- 53a. Monaco
 - 54. Montserrat
+- 54a. Nauru
 - 55. Németország
 - 56. Niue
 - 57. Norvégia
 - 58. Olaszország
+- 58a. Orosz Föderáció
 - 59. Portugália
 - 60. Románia
+- 60a. Saint Kitts és Nevis
 - 61. Saint Lucia
 - 62. Saint Vincent és a Grenadine-szigetek
 - 63. Samoa

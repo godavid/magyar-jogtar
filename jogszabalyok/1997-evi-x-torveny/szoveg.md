@@ -28,11 +28,11 @@ A Párizsi Békeszerződésről szóló 1947. évi XVIII. törvény 27. Cikke 2.
 
 (3) A közalapítvány által megállapított életjáradékot a nyugdíjfolyósító szerv folyósítja.
 
-(4) Az életjáradék folyósításának módjáról, eljárási rendjéről a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv megállapodást köt a közalapítvánnyal.
+(4) Az életjáradék folyósításának módjáról, eljárási rendjéről a központi nyugdíjbiztosítási szerv megállapodást köt a közalapítvánnyal.
 
-(5) Az életjáradék fizetéséhez szükséges pénzügyi fedezetet a központi költségvetésben évente tervezni kell, és azt a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv részére havonta a kincstárral kötött külön megállapodás szerint át kell utalni. Az életjáradék folyósításának költségeit a központi költségvetés biztosítja.
+(5) Az életjáradék fizetéséhez szükséges pénzügyi fedezetet a központi költségvetésben évente tervezni kell, és azt a központi nyugdíjbiztosítási szerv részére havonta a kincstárral kötött külön megállapodás szerint át kell utalni. Az életjáradék folyósításának költségeit a központi költségvetés biztosítja.
 
-(6) A Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv a kincstár által e törvényben meghatározott célra rendelkezésre bocsátott összeget elkülönítetten kezeli és tartja nyilván, azt egyéb célokra nem használhatja fel.
+(6) A központi nyugdíjbiztosítási szerv a kincstár által e törvényben meghatározott célra rendelkezésre bocsátott összeget elkülönítetten kezeli és tartja nyilván, azt egyéb célokra nem használhatja fel.
 
 3/A. § A Kormány a közalapítvány kuratóriumába és felügyelő bizottságába a Kormány tagjai és államtitkárok jogállásáról szóló törvény hatálya alá tartozó állami vezetőt is kijelölhet. A kuratóriumba, illetve a felügyelő bizottságba kijelölt állami vezető e tevékenységéért díjazásban nem részesülhet.
 

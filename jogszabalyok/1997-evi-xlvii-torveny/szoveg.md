@@ -347,7 +347,7 @@ tartalmazza.
 
 18/A. § A teljesítményértékelésért felelős szerv a 4. § (2) bekezdés y) pontja szerinti célból kezelheti az érintett egészségügyi adatait, valamint az érintett TAJ számát, nemét, születési dátumát és postai irányítószámát az adatok átadása, az adatkezelés és a kapcsolati kód képzése tekintetében a 18.§ (1)–(4) bekezdésében foglaltak szerint.
 
-19. § (1) A 4. § (2) bekezdés b)–c) és w) pontja szerinti célból az egészségügyért felelős miniszter (a továbbiakban: miniszter) és az irányítása alá tartozó országos szervek és intézetek, a térségi betegút-szervezésért felelős szerv, továbbá az egészségügyi államigazgatási szerv – saját szakterületén, a feladata ellátásához szükséges ideig és mértékben – kezelheti az érintett egészségügyi adatait, valamint – más személyazonosító adattal történő összekapcsolás nélkül – az érintett TAJ-át, nemét, születési dátumát és postai irányítószámát.
+19. § (1) A 4. § (2) bekezdés b)–c) és w) pontja szerinti célból az egészségügyért felelős miniszter (a továbbiakban: miniszter) és az irányítása alá tartozó országos intézet,a térségi betegút-szervezésért felelős szerv, továbbá az egészségügyi államigazgatási szerv – saját szakterületén, a feladata ellátásához szükséges ideig és mértékben – kezelheti az érintett egészségügyi adatait, valamint – más személyazonosító adattal történő összekapcsolás nélkül – az érintett TAJ-át, nemét, születési dátumát és postai irányítószámát.
 
 (2) Az (1) bekezdésben megjelölt adatokat az ott meghatározott célból az egészségügyi ellátóhálózat, illetve az egészségügyi államigazgatási szerv továbbítja az (1) bekezdés szerinti szervek részére.
 
@@ -461,7 +461,7 @@ amennyiben az a)–c) pont szerinti adatok az (1) bekezdés szerinti tevékenys�
 
 ### Adattovábbítás az egészségügyi ellátóhálózaton kívüli szerv megkeresésére
 
-23. § (1) A következő szervek írásbeli megkeresésére a kezelést végző orvos, valamint az egészségbiztosítási szerv az érintett egészségügyi és a megkereső szerv által törvény alapján kezelhető, az azonosításhoz szükséges személyazonosító adatait átadja a megkereső szervnek. A megkeresésben a 4. § (4) bekezdésének megfelelően fel kell tüntetni a megismerni kívánt egészségügyi és személyazonosító adatokat. A megkereső szervek a következők lehetnek:
+23. § (1) A következő szervek írásbeli megkeresésére a kezelést végző orvos, valamint az egészségbiztosítási szerv az érintett egészségügyi és a megkereső szerv által törvény alapján kezelhető, az azonosításhoz szükséges személyazonosító adatait átadja a megkereső szervnek. A megkeresésben a 4. § (4) bekezdésének megfelelően fel kell tüntetni a megismerni kívánt egészségügyi és személyazonosító adatokat, ideértve azon adatokat is, amelyek az egészségügyi szolgáltató által felvett látlelet alapján állnak rendelkezésre. A megkereső szervek a következők lehetnek:
 
 - a) büntetőügyben a nyomozó hatóság, az ügyészség, a bíróság, az igazságügyi szakértő, polgári peres és nemperes, valamint közigazgatási hatósági ügyben a közigazgatási hatóság, az ügyészség a bíróság, az igazságügyi szakértő,
 - b) szabálysértési eljárás során az eljárást lefolytató szervek,
@@ -817,7 +817,8 @@ hívja fel az érintett csatlakozott adatkezelőt. A felhívás eredménytelens�
 - s) az egészségügyi profilra vonatkozó részletes szabályokat,
 - t) az EESZT útján a működtető részére megküldendő egészségügyi dokumentumok körét, az egészségügyi dokumentumok nyilvántartása részletes szabályait, az egészségügyi dokumentum elérési útjának biztosítása esetén a műszaki követelményeknek való megfelelés tanúsítatásának szabályait,
 - u) az EESZT útján elektronikus úton működtetendő betegségregiszterek körét, a kapcsolati kód képzésére és az elektronikus betegségregiszterekre vonatkozó részletes szabályokat,
-- v) az elektronikus konzílium és digitális képtovábbítás részletes szabályait, valamint a 35/N. § szerinti jelentéstételi és adatszolgáltatási kötelezettségeket és azok teljesítésének rendjét
+- v) az elektronikus konzílium és digitális képtovábbítás részletes szabályait, valamint a 35/N. § szerinti jelentéstételi és adatszolgáltatási kötelezettségeket és azok teljesítésének rendjét,
+- w) a látlelet tartalmi és formai követelményeit, kiadásának rendjét
 
 rendeletben állapítsa meg.
 

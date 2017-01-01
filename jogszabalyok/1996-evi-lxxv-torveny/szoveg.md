@@ -88,11 +88,11 @@ Mindezek érdekében – különös tekintettel a jogszabályi feltételeknek me
 
 (2) Az (1) bekezdés g) pontjával kapcsolatos munkaügyi ellenőrzés az Mt. 136–137. §-ában, 138. § (4)–(6) bekezdésében, 139–145. §-ában, 146. § (1)–(3) bekezdésében, 147. § (1) bekezdésében, 153–165. §-ában foglalt rendelkezések megtartására terjed ki.
 
-(3) A munkaerő-kölcsönzés esetében a munkaügyi ellenőrzés – az Mt. 215–218. §-a tekintetében – kiterjed a kölcsönbeadóra és a kölcsönvevőre. Az iskolaszövetkezet tanuló, hallgató tagjának az Sztv. 10/B. §-a alapján történő feladatteljesítése tekintetében a munkaügyi ellenőrzés kiterjed az iskolaszövetkezetre és az Sztv. 10/B. § (3)–(6) bekezdésében foglaltakra. Az Sztv. 10/C. §-a tekintetében a munkaügyi ellenőrzés kiterjed az iskolaszövetkezetre és a szolgáltatás fogadójára.
+(3) A munkaerő-kölcsönzés esetében a munkaügyi ellenőrzés – az Mt. 215–218. §-a tekintetében – kiterjed a kölcsönbeadóra és a kölcsönvevőre. Az iskolaszövetkezet tanuló, hallgató tagjának az Sztv. 10/B. §-a alapján történő feladatteljesítése tekintetében a munkaügyi ellenőrzés kiterjed az iskolaszövetkezetre és az Sztv. 10/B. § (4)–(8) bekezdésében foglaltakra. Az Sztv. 10/C. §-a tekintetében a munkaügyi ellenőrzés kiterjed az iskolaszövetkezetre és a szolgáltatás fogadójára.
 
 (4) A foglalkoztató saját maga munkaügyi hatósági ellenőrzés alá vonását nem kérelmezheti.
 
-(5)
+(5) A munkaügyi ellenőrzés kiterjed a szociális szövetkezet tagjának tagi munkavégzése esetén, az Sztv. 18. § (2a)–(3) bekezdésében foglaltak tekintetében, a szociális szövetkezetre.
 
 3/A. § (1) A munkaügyi hatóság az építőipari kivitelezési tevékenységet folytató foglalkoztatók munkaügyi ellenőrzése céljából az építésügyi hatóság által – külön törvény szerint – továbbított, (2) bekezdésben leírt adatokat is felhasználhatja.
 
@@ -128,7 +128,7 @@ Mindezek érdekében – különös tekintettel a jogszabályi feltételeknek me
 - i) kötelezi az 1. § (8) bekezdése szerint felelős fővállalkozót vagy a köztes alvállalkozót az elmaradt munkabérnek a munkáltató helyett történő megfizetésére,
 - j) kötelezi a foglalkoztatót a 3. § (1a) bekezdés szerinti megkeresés teljesítéséhez szükséges adatok szolgáltatására.
 
-(2) A munkaügyi hatóság az (1) bekezdés a) pontjában foglalt határozatának munkaügyi okból fellebbezésre tekintet nélküli végrehajtását is elrendelheti.
+(2) A munkaügyi hatóság által hozott elsőfokú döntéssel szemben nincs helye fellebbezésnek.
 
 (3) A munkaügyi hatóság a foglalkoztató és a részére munkát végző személy közötti jogviszony tartalmát érintő intézkedést nem hozhat, amennyiben az ellenőrzést megelőzően a felek között az ellenőrzés tárgyát érintően munkaügyi vita indult.
 
@@ -137,7 +137,7 @@ Mindezek érdekében – különös tekintettel a jogszabályi feltételeknek me
 - a) társadalombiztosítási nyugellátásban részesülő személy foglalkoztatásával összefüggésben került sor, a jogsértést megállapító jogerős döntését közli a nyugdíj-megállapító szervvel,
 - b) megváltozott munkaképességű személyek ellátásaiban részesülő személy foglalkoztatásával összefüggésben került sor, a jogsértést megállapító jogerős döntését közli a rehabilitációs hatósággal.
 
-(5) Ha a jogsértést korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban vagy átmeneti bányászjáradékban részesülő személynek a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozat hiányában történő foglalkoztatásával követik el, a munkaügyi hatóság a jogsértést megállapító jogerős határozatát közli a korhatár előtti ellátást, illetve a szolgálati járandóságot megállapító szervvel.
+(5) Ha a jogsértést korhatár előtti ellátásban, szolgálati járandóságban, táncművészeti életjáradékban vagy átmeneti bányászjáradékban részesülő személynek a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozat hiányában történő foglalkoztatásával követik el, a munkaügyi hatóság a jogsértést megállapító jogerős határozatát közli a korhatár előtti ellátást, illetve a szolgálati járandóságot megállapító szervvel.
 
 (6) A munkaügyi hatóság haladéktalanul tájékoztatja az érintett EGT-állam illetékes hatóságát, ha a munkaügyi ellenőrzés során az 1. § (2) bekezdése szerinti munkavállaló foglalkoztatási körülményei az EGT-állam illetékes hatóságának hatáskörébe tartozó szabálytalanságra utalnak.
 
@@ -162,7 +162,7 @@ Mindezek érdekében – különös tekintettel a jogszabályi feltételeknek me
 
 - a) a 3. § (1) bekezdés a) pontjának a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozat alakszerűségére, a munkavállalói jogalanyisággal kapcsolatos életkori feltételekre vonatkozó, valamint a 3. § (1) bekezdés b), f), g), i), k) pontjában foglalt rendelkezéseket legalább egy munkavállaló vonatkozásában megsérti,
 - b) a 3. § (1) bekezdésnek az a) pontban nem említett, valamint a 3. § (1) bekezdés e) és h) pontban foglalt rendelkezések bármelyikét több munkavállaló vonatkozásában megsérti, vagy
-- c) a 3. § (1a) bekezdés szerinti adatszolgáltatásnak nem tesz eleget.
+- c)
 
 (2) Nem indítható a jogsértés megállapítására és bírság kiszabására eljárás, ha a jogsértő magatartásnak a bírság kiszabására jogosult hatóság tudomására jutásától számított egy év, vagy az elkövetéstől számított három év eltelt. A hároméves határidő kezdő napja
 
@@ -215,6 +215,10 @@ megfelelő összeg terheli a foglalkoztatót.
 
 (7) A munkaügyi hatóság a 3. § (1) bekezdés i) pontja szerinti, a harmadik országbeli állampolgár magyarországi foglalkoztatását érintő jogsértés megállapítása esetén a jogerős határozatát közli az idegenrendészeti hatósággal.
 
+7/B. § (1) Ha a foglalkoztató a 3. § (1a) bekezdése szerinti adatszolgáltatási kötelezettségének nem vagy hiányosan tett eleget, vagy a valóságnak nem megfelelő adatot szolgáltatott, a munkaügyi hatóság a foglalkoztatót a hiányosság megszüntetésére kötelezi és közigazgatási bírságot szab ki.
+
+(2) Az (1) bekezdés szerinti bírság mértéke harmincezer forint. A bírság ismételten is kiszabható.
+
 8. § (1) A 2. § (1) és (2) bekezdésében foglalt szervek hatósági tevékenységük során az e törvényben szabályozott eltérésekkel a közigazgatási hatósági eljárás általános szabályairól szóló törvény szabályai szerint járnak el.
 
 (2) Ha a harmadik országbeli állampolgár foglalkoztatására érvényes tartózkodási engedély vagy kereső tevékenység folytatására jogosító engedély hiányában került sor, és az ellenőrzés megállapítja annak valószínűségét, hogy
@@ -261,7 +265,7 @@ jogerős és végrehajtható közigazgatási határozattal megállapította.
 
 (5)
 
-(6) A munkaügyi hatóság a pénzfizetésre kötelezett természetes személy vagy a polgári jog szerint helyébe lépő örököse kérelmére a tartozást mérsékelheti, illetőleg elengedheti, feltéve hogy a kötelezett, illetve örököse vagy a vele közös háztartásban élő közeli hozzátartozója egészségi állapotában, illetve a kötelezett, illetve örököse vagyoni helyzetében a határozat jogerőre emelkedése után olyan változás következett be, amely jelentősen megnehezíti a kötelezettség teljesítését. A méltányossági kérelem tárgyában hozott határozat ellen fellebbezésnek nincs helye. A méltányossági jogkörben hozott határozat bírósági felülvizsgálatát kizárólag semmisségére hivatkozva lehet kérni.
+(6) A munkaügyi hatóság a pénzfizetésre kötelezett természetes személy vagy a polgári jog szerint helyébe lépő örököse kérelmére a tartozást mérsékelheti, illetőleg elengedheti, feltéve hogy a kötelezett, illetve örököse vagy a vele közös háztartásban élő közeli hozzátartozója egészségi állapotában, illetve a kötelezett, illetve örököse vagyoni helyzetében a határozat jogerőre emelkedése után olyan változás következett be, amely jelentősen megnehezíti a kötelezettség teljesítését. A méltányossági jogkörben hozott határozat bírósági felülvizsgálatát kizárólag semmisségére hivatkozva lehet kérni.
 
 (8) A munkaügyi eljárásokban megállapított befizetési kötelezettség adók módjára behajtandó köztartozásnak minősül.
 
@@ -324,7 +328,7 @@ jogerős és végrehajtható közigazgatási határozattal megállapította.
 - a) a külföldi munkáltatót a hiányosság megszüntetésére kötelezi, és közigazgatási bírságot szab ki,
 - b) tájékoztatja a szolgáltatás felügyeletét ellátó hatóságot.
 
-(5) A (4) bekezdés a) pontja szerinti bírság mértéke legfeljebb harmincezer forint. A bírság ismételten is kiszabható.
+(5) A (4) bekezdés a) pontja szerinti bírság mértéke harmincezer forint. A bírság ismételten is kiszabható.
 
 8/E. § (1) A munkaügyi hatóság a kölcsönös segítségnyújtás és kölcsönös elismerés elve alapján kezdeményezi a más EGT-államban letelepedett szolgáltatóval szemben a munkavállalók kiküldésére vonatkozó szabályok megsértése miatt munkaügyi bírságot megállapító határozatának végrehajtását a letelepedés helye szerint illetékes hatóságánál. A megkeresésnek a 3. melléklet szerint adatokat kell tartalmaznia.
 
@@ -399,7 +403,7 @@ is érteni kell.
 
 (6) Felhatalmazást kap
 
-- a) a honvédelemért felelős miniszter, hogy rendeletben állapítsa meg a honvédelmi foglalkoztatók tekintetében a munkaügyi ellenőrzés eljárási, valamint a 3. § és a 6. § alkalmazásának eltérő szabályait,
+- a) a honvédelemért felelős miniszter, hogy rendeletben állapítsa meg a honvédelmi foglalkoztatók tekintetében a munkaügyi ellenőrzés eljárási, valamint a 2/A. §, 3. § és a 6. § alkalmazásának eltérő szabályait,
 - b) a rendvédelmi szervet irányító miniszter, hogy rendeletben állapítsa meg a 3. § alkalmazásának eltérő szabályait, valamint a munkaügyi hatósági jogkör gyakorlóját a rendvédelmi szerveknél és az önkormányzati tűzoltóságnál,
 - c) a büntetés-végrehajtásért felelős miniszter, hogy az igazságügyért felelős miniszterrel egyetértésben rendeletben állapítsa meg a büntetés-végrehajtási intézetekben fogvatartottak tekintetében a munkaügyi ellenőrzés eljárási szabályait, valamint a 2/A. §, 3. § és 6. § alkalmazásának eltérő szabályait.
 

@@ -33,7 +33,7 @@ Annak érdekében, hogy a múltunk és jelenünk megismerésének pótolhatatlan
 
 #### 4. A tanúsítvánnyal kapcsolatos eljárás
 
-6. § (1) A tanúsítvány kiállítására vonatkozó kérelmet a kulturális javakkal kapcsolatos hatósági feladatokat ellátó hatóság (a továbbiakban: hatóság) által rendszeresített formanyomtatványon kell a kiállítónak benyújtania.
+6. § (1) A tanúsítvány kiállítására vonatkozó kérelmet a kulturális örökségvédelmi hatóság (a továbbiakban: hatóság) által rendszeresített formanyomtatványon kell a kiállítónak benyújtania.
 
 (2) A kérelemhez mellékelni kell:
 
@@ -58,7 +58,7 @@ Annak érdekében, hogy a múltunk és jelenünk megismerésének pótolhatatlan
 
 - a) az eljárás megindításáról honlapján és hirdetőtábláján történő közhírré tétel útján értesítést tesz közzé,
 - b) a tanúsítványt a különleges védelem időtartama alatt honlapján és hirdetőtábláján közzéteszi,
-- c) határozatával szemben fellebbezésnek nincs helye.
+- c)
 
 #### 5. Záró rendelkezések
 

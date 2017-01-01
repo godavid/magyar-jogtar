@@ -50,8 +50,8 @@ a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról
 - h) az anyakönyvvezető
   - ha) a házasságkötéssel kapcsolatos feladatai ellátása céljából a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–d) pontjában szereplő adatokat,
   - hb) a családi jogállás rendezésével kapcsolatos feladatai ellátása céljából a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–e) pontjában szereplő adatokat,
-- i) a járási hivatal szervezeti egységeként működő okmányiroda a közúti közlekedési igazgatási, illetve a személyi okmány ügyintézési eljárásokban a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–e) pontjában szereplő adatokat,
-- j) a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala az egyéni vállalkozói tevékenység ellenőrzésével kapcsolatos hatósági, a közúti közlekedési igazgatási, illetve a személyi okmány ügyintézési eljárásokban a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–e) pontjában szereplő adatokat.
+- i) a járási hivatal a közúti közlekedési igazgatási, illetve a személyi okmány ügyintézési eljárásokban a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–e) pontjában szereplő adatokat,
+- j) az egyéni vállalkozók nyilvántartását vezető szerv az egyéni vállalkozói tevékenység ellenőrzésével kapcsolatos hatósági feladatainak ellátásához, továbbá a jogszabály alapján személyazonosság igazolására alkalmas hatósági igazolvány kiadására feladat- és hatáskörrel rendelkező szerv személyazonosság igazolására alkalmas hatósági igazolvány kiadásával kapcsolatos eljárása során a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–e) pontjában szereplő adatokat.
 
 6/A. § Ha a gondnokoltak nyilvántartásába a bíróság valamely személlyel kapcsolatban a 3. § (1) bekezdés g) pontja szerinti adatot jegyez be vagy töröl, a Hivatal elnöke a választójoggal nem rendelkező polgárok nyilvántartását vezető szerv részére – a nyilvántartásba történő felvétel, illetve az abból történő törlés céljából – automatikus adattovábbítás útján továbbítja
 

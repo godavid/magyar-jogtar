@@ -508,12 +508,13 @@ nyújthatók, és nem használhatók fel az érintett intézmény korábban kele
 - d) a független értékelőként nyilvántartásba vett személy meghalt vagy a szervezet megszűnt,
 - e) a független értékelőként nyilvántartásba vett személy vagy szervezet gazdasági vagy szakmai tevékenységével kapcsolatban olyan magatartásról szerez tudomást, amely jogszabályba, szakmai vagy etikai szabályba ütközik, vagy amely alkalmas arra, hogy a független értékelői feladatok ellátásához szükséges közbizalmat sértse vagy veszélyeztesse.
 
-(7) A független értékelők névjegyzékébe az a természetes személy vehető fel, aki rendelkezik
+(7) A független értékelők névjegyzékébe az a természetes személy vehető fel, aki
 
-- a) közgazdasági felsőoktatásban szerzett egyetemi vagy főiskolai szintű végzettséggel vagy a gazdaságtudományok képzési területen alapképzésben vagy mesterképzésben szerzett közgazdász szakképzettséggel vagy
-- b) jogász szakképzettséggel,
-- c) könyvvizsgálói szakképesítéssel és ennek pénzügyi intézményi vagy befektetési vállalkozási minősítésével, valamint
-- d) a büntetlen előéletről, a köztartozás-mentességről igazolással.
+- a) közgazdasági felsőoktatásban szerzett egyetemi vagy főiskolai szintű végzettséget, vagy a gazdaságtudományok képzési területen alapképzésben vagy mesterképzésben szerzett közgazdász szakképzettséget, vagy
+- b) jogász szakképzettségű,
+- c) rendelkezik könyvvizsgálói szakképesítéssel és ennek pénzügyi intézményi vagy befektetési vállalkozási minősítésével, valamint
+- d) büntetlen előéletű, és
+- e) adóigazolás vagy a köztartozásmentes adózói adatbázis alapján nincs köztartozása.
 
 (7a) Nem vehető fel a független értékelők névjegyzékébe olyan személy vagy szervezet, akinek vagy amelynek gazdasági vagy szakmai tevékenységével kapcsolatban a szanálási feladatkörében eljáró MNB olyan magatartásról szerez tudomást, amely jogszabályba, szakmai vagy etikai szabályba ütközik, vagy amely alkalmas arra, hogy a független értékelői feladatok ellátásához szükséges közbizalmat sértse vagy veszélyeztesse, továbbá, ha a szanálási feladatkörében eljáró MNB a független értékelőként nyilvántartásba vett személyt vagy szervezetet a (6) bekezdés e) pontja szerint törölte a névjegyzékből, a törlés napjától számított öt évig.
 
@@ -1947,7 +1948,7 @@ folytat le.
 - d) a könyvvizsgáló írásos észrevételeit, a könyvvizsgálói jelentést, a belső ellenőrzés jelentéseit, jegyzőkönyveit átadni, továbbá
 - e) az előbbiekben fel nem sorolt egyéb kimutatást – így különösen mindazon szerződések azonosító adataira vonatkozó teljes körű kimutatást, amelyben szerződő fél – a szanálási feladatkörében eljáró MNB által meghatározott formában elkészíteni és rendelkezésére bocsátani.
 
-(5) A szanálási feladatkörében eljáró MNB hatósági eljárása során a Ket. írásbelinek minősülő elektronikus kapcsolattartásra vonatkozó szabályaitól eltérően is meghatározhatja az adatszolgáltatási kötelezettség teljesítésének módját.
+(5)
 
 106. § (1) A szanálási feladatkörében eljáró MNB hatósági eljárása során – ellenérdekű ügyfél hiányában – eltekinthet a magyar nyelv kötelező használatától és az iratok magyar nyelven történő benyújtásától. A szanálási feladatkörében eljáró MNB ebben az esetben előírhatja az iratokról magyar nyelvű összefoglaló elkészítésének kötelezettségét.
 
@@ -2539,6 +2540,8 @@ a megállapodás biztosítja, hogy az adatot átvevő szerv az átadott adatokat
 - b) 266. §-ával megállapított 53/A. §-ban
 
 foglaltakat a Módtv. hatálybalépésekor folyamatban lévő eljárásokra is alkalmazni kell.
+
+150/B. § Ha az eljáró szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
 #### 80. Az Európai Unió jogának való megfelelés
 

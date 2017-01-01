@@ -252,19 +252,7 @@ köthet.
 
 2/A. § (1) Az egészségügyi szolgáltató az egészségügyi ellátási szerződésben kötelezettséget vállal arra, hogy az egészségügyi közszolgáltatásért felelős szerv ellátási kötelezettségébe tartozó közszolgáltatások közül a szerződésben meghatározott szolgáltatásokat folyamatosan, a jogszabályokban és az egészségügyi szakmai szabályokban előírtak betartásával, területi ellátási kötelezettséggel nyújtja.
 
-(2) Az egészségügyi ellátási szerződésnek tartalmaznia kell:
-
-- a) a közszolgáltatásért felelős szerv ellátási kötelezettségébe tartozó feladatok közül az egészségügyi szolgáltató által ellátandó szolgáltatások tételes meghatározását, és az azokat nyújtó egészségügyi szolgáltató megnevezését,
-- b) az a) pontban meghatározott szolgáltatásoknak megfelelően az egészségügyi szolgáltató részére átadandó kapacitásokat a hozzájuk tartozó ellátási területtel,
-- c) a szolgáltatások minőségét mérő mutatókat,
-- d) a munkavállalók foglalkoztatásával, továbbfoglalkoztatásával kapcsolatos garanciális elemeket, különös tekintettel a munkajogi szabályokban előírt, a munkáltatói jogutódlással összefüggő, munkaviszonyt érintő kérdésekre,
-- e) az egészségügyi szolgáltatások teljesítéséhez szükséges egészségügyi adatok átadására vonatkozó rendelkezéseket,
-- f) a szerződés felmondásának szabályait, beleértve a felmondási időt, annak garanciáját, hogy a folyamatos ellátás biztosítása nem szenved sérelmet, valamint a felmondás esetére az egymás közötti elszámolás szabályait,
-- g) annak előírását, hogy az egészségügyi szolgáltatónak az E. Alapból származó bevételét terhelő, annak mértékét meghaladó kötelezettségvállalása csak abban az esetben érvényes, ha ahhoz az egészségügyi közszolgáltatásért felelős szerv előzetesen hozzájárult,
-- h) az egészségügyi szolgáltató azon kötelezettségét, hogy a tulajdont és a szervezetet érintő bármely változásról az egészségügyi közszolgáltatásért felelős szervet tájékoztatja,
-- i) a szerződés megkötésekor meglévő vagyonról szóló tételes listát, és a szerződés megszűnésekor irányadó vagyonelszámolási szabályokat,
-- j) a külön jogszabály szerinti folyamatos ellátás biztosítására vonatkozó szabályokat,
-- k) az ellátási kötelezettsége teljesítése érdekében egészségügyi ellátási szerződést kötő egészségügyi közszolgáltatásért felelős szerv nyilatkozatát arról, hogy a szerződés megkötésére fenntartóként jogosult a fenntartásában működő – az ellátási szerződés tárgyát képező feladatot az egészségügyi ellátási szerződés megkötését megelőzően ellátó – egészségügyi szolgáltató tulajdonosának hozzájárulása nélkül.
+(2)
 
 (3)
 
@@ -757,11 +745,9 @@ egészségügyi szolgáltatónál más vezetői megbízatást nem tölthet be é
 
 (13) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2012. évi CCXII. törvénnyel megállapított 7. § (11) bekezdését az annak hatálybalépésekor folyamatban lévő ügyekre is alkalmazni kell.
 
-(14) Az egészségügyet érintő egyes törvényeknek az egészségügyi szakellátási felelősséggel kapcsolatos, valamint egyes közszférában foglalkoztatott egészségügyi dolgozók foglalkoztatási helyzetével összefüggő módosításáról szóló 2013. évi XL. törvénnyel (a továbbiakban: Módtv.) megállapított 5/A. § (8) bekezdés e) pontja szerinti adatokat a 2013. május 1-jén érvényes szerződések, illetve megállapodások tekintetében az azok alapján feladatot átadó egészségügyi közszolgáltatásért felelős szerv 2013. május 1. és 2013. július 15. között megküldi a kapacitás-nyilvántartást vezető egészségügyi államigazgatási szerv részére. A beérkezett és a rendelkezésére álló adatok alapján a kapacitás-nyilvántartást vezető szerv 2013. augusztus 31-éig módosítja a kapacitás-nyilvántartást az 5/A. § (8) bekezdése alapján azzal, hogy eltérő adat hiányában egészségügyi közszolgáltatásért felelős szervként annak az egészségügyi szolgáltatónak a fenntartóját kell megnevezni, amelyik szolgáltatóhoz az adott kapacitás a kapacitás-nyilvántartás szerint 2013. augusztus 31-én tartozik. A kapacitás-nyilvántartásnak 2013. szeptember 1-jétől kell megfelelnie a Módtv. által megállapított 5/A. § (8) bekezdésének. 2013. szeptember 1-jétől a kapacitás feletti rendelkezési jog a kapacitás-nyilvántartásban az adott kapacitás tekintetében egészségügyi közszolgáltatásért felelős szervként megnevezett szervet illeti meg.
+(14)–(15)
 
-(15) A 2013. április 28-án hatályos – a 2. § (1) bekezdése szerinti – megállapodásoknak és egészségügyi ellátási szerződésnek 2014. július 1-jétől kell megfelelnie az e törvényben meghatározott feltételeknek. Ennek érdekében a megállapodással, illetve a szerződéssel feladatot átadó egészségügyi közszolgáltatásért felelős szerv 2014. április 30-áig felülvizsgálja a megállapodást, illetve a szerződést és kezdeményezi annak a szükség szerinti módosítását, vagy az új szerződés, illetve megállapodás megkötését.
-
-(15a) A (15) bekezdésben meghatározott kötelezettség a 2/D. §-ban foglaltak tekintetében nem terjed ki a 2010. január 1. előtt megkötött egészségügyi ellátási szerződésekre és szakellátási feladat ellátásra kötött megállapodásokra. Ha a (15) bekezdés alapján a vagyoni biztosíték adási kötelezettség már teljesült, a biztosítékot adó kérelmére a megállapodás, illetve a szerződés vagyoni biztosítékra vonatkozó része hatályát veszti a biztosíték pedig megszüntetésre kerül, illetve visszajár.
+(15a)
 
 (16) Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2013. évi CXXVII. törvénnyel (a továbbiakban: Módtv2.) megállapított 1/I. § (8) bekezdést és 1/J. § (3) bekezdést az azok hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
@@ -823,6 +809,7 @@ egészségügyi szolgáltatónál más vezetői megbízatást nem tölthet be é
 - t) azoknak a szakmáknak, ellátási formáknak és eseteknek a körét, amikor nem kell ellátási területet megállapítani,
 - u) az egészségügyi szakellátási intézményműködtetési kötelezettség, illetve az egészségügyi szakellátási feladat nem teljesítése esetén az államot terhelő kötelezettség teljesítésére vonatkozó szabályokat;
 - v) az órában és ágyszámban ki nem fejezhető szakellátási kapacitások mértékegységének meghatározására irányuló eljárás szabályait;
+- v) az egészségügyi ellátási szerződés és a 2. § (1) bekezdés a) pontja szerinti megállapodás tartalmi elemeit.
 - x) azt a szervet, amelynek a jóváhagyása szükséges az egészségügyi szakellátási intézményműködtetési kötelezettséggel rendelkező egészségügyi közszolgáltatásért felelős szerv által kötött 2. § (3) bekezdés szerinti megállapodás, illetve egészségügyi ellátási szerződés érvényességéhez;
 - y) a szakellátási feladatnak és vagyonnak a 2. § (2)–(2b) bekezdés szerinti állam általi átvételére és a feladatról való állam általi gondoskodásra vonatkozó eljárási szabályokat, ideértve az eljáró szerv kijelölését is.
 

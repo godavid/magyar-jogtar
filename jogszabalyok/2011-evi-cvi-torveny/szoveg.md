@@ -18,7 +18,7 @@ ellátására vagy a feladatellátás feltételeinek megteremtésére irányul, 
 
 (2a) Közfoglalkoztatási jogviszony kormányrendeletben meghatározott feltételek mellett közhasznú kölcsönzés céljára is létesíthető.
 
-(2b) Közfoglalkoztatási jogviszonynak minősül, ha közfoglalkoztatási program keretében a közfoglalkoztatott a munkaerő-piaci alkalmazkodását, munkához jutását szolgáló képzésben, illetve a közfoglalkoztatás támogatásáról szóló jogszabály alapján nyújtott támogatásról szóló hatósági szerződést megkötő hatóság jóváhagyásával, naptári évenként legfeljebb 3 nap időtartamú munkaerő-piaci szolgáltatásban vesz részt.
+(2b) Közfoglalkoztatási jogviszonynak minősül, ha közfoglalkoztatási program keretében a közfoglalkoztatott a munkaerő-piaci alkalmazkodását, munkához jutását szolgáló képzésben, illetve a közfoglalkoztatás támogatásáról szóló jogszabály alapján nyújtott támogatásról szóló hatósági szerződést megkötő hatóság jóváhagyásával, naptári évenként legfeljebb 15 nap időtartamú munkaerő-piaci szolgáltatásban, valamint a mentális, szociális, egészségügyi problémákkal küzdő álláskereső naptári évenként legfeljebb 15 nap időtartamú egészségügyi és szociális szolgáltatásban vesz részt.
 
 (3) Közfoglalkoztató lehet:
 
@@ -60,23 +60,25 @@ kerül sor,
 - b) önkormányzati rendeletben előírt, a lakókörnyezet (kert, udvar, jogszabályban meghatározott, az ingatlanhoz kapcsolódó közterület) rendezettségének biztosítására vonatkozó kötelezettségét nem teljesíti, vagy
 - c) a számára az Flt. alapján felajánlott az álláskeresőkre vonatkozó rendelkezések szerint megfelelő munkahelyet nem fogadja el,
 - d) a számára egyszerűsített foglalkoztatás keretében felajánlott munkát nem fogadja el, vagy
-- e) a közfoglalkoztatáson kívüli egyéb foglalkoztatási jogviszonya munkavállalói felmondással vagy a munkáltató azonnali hatályú felmondásával szűnt meg.
+- e) a közfoglalkoztatási jogviszony létesítését megelőző három hónapon belül a közfoglalkoztatáson kívüli egyéb foglalkoztatási jogviszonya munkavállalói felmondással vagy a munkáltató azonnali hatályú felmondásával – ide nem értve a próbaidő alatti azonnali hatályú felmondást – szűnt meg,
+- f) a közfoglalkoztatási jogviszonya a közfoglalkoztató azonnali hatályú felmondásával szűnik meg,
+- g) a számára az Flt. alapján felajánlott az álláskeresőkre vonatkozó rendelkezések szerinti képzési lehetőséget nem fogadja el.
 
-(4b) A hivatalból folytatott közigazgatási eljáráshoz megkeresésre a (4a) bekezdés b) pontja szerinti esetben az álláskereső lakóhelye szerint illetékes jegyző 3 napon belül adatot szolgáltat az állami foglalkoztatási szerv járási szerve (a továbbiakban: járási foglalkoztatási szerv) részére.
+(4b) A hivatalból folytatott közigazgatási eljáráshoz megkeresésre a (4a) bekezdés b) pontja szerinti esetben az álláskereső lakóhelye szerint illetékes jegyző 3 napon belül adatot szolgáltat az állami foglalkoztatási szervként eljáró járási (fővárosi kerületi) hivatal (a továbbiakban: járási hivatal) részére.
 
-(4c) A (4a) bekezdés a) pont ab) alpontjában meghatározott kizárási ok fennállásának ellenőrzése érdekében a közfoglalkoztatási jogviszonyba történő kiközvetítés előtt a járási foglalkoztatási szerv adatot közvetlenül vehet át a szabálysértési nyilvántartásból.
+(4c) A (4a) bekezdés a) pont ab) alpontjában meghatározott kizárási ok fennállásának ellenőrzése érdekében a közfoglalkoztatási jogviszonyba történő kiközvetítés előtt a járási hivatal adatot közvetlenül vehet át a szabálysértési nyilvántartásból.
 
-(4d) A kizárás kérdésében első fokon a járási foglalkoztatási szerv, másodfokon az állami foglalkoztatási szerv megyei szerve (a továbbiakban: megyei foglalkoztatási szerv) hatósági határozattal dönt.
+(4d) A kizárás kérdésében első fokon a járási hivatal, másodfokon az állami foglalkoztatási szervként eljáró fővárosi és megyei kormányhivatal (a továbbiakban: megyei kormányhivatal) hatósági határozattal dönt.
 
-(4e) Ha a közfoglalkoztatási jogviszony létrehozását követően értesül a járási foglalkoztatási szerv a közfoglalkoztatást kizáró okról, a kizárásról szóló döntését közli a közfoglalkoztatóval. A közfoglalkoztató a közfoglalkoztatási jogviszonyt a jogerős döntés alapján azonnali felmondással megszünteti.
+(4e) Ha a közfoglalkoztatási jogviszony létrehozását követően értesül a járási hivatal a közfoglalkoztatást kizáró okról, a kizárásról szóló döntését közli a közfoglalkoztatóval. A közfoglalkoztató a közfoglalkoztatási jogviszonyt a jogerős döntés alapján azonnali felmondással megszünteti.
 
 (4f) A (4a) bekezdés b) pontja szerinti esetben a megkeresésre nincsen szükség, amennyiben a közfoglalkoztatást a közfoglalkoztatott lakóhelye szerinti helyi önkormányzat, annak intézménye, vagy a helyi önkormányzat által alapított gazdálkodó szervezet valósítja meg, vagy az önkormányzatnak nincs a (4a) bekezdés b) pont szerinti hatályos rendelete.
 
 (4g) A (4f) bekezdés hatálya alá tartozó közfoglalkoztató megtagadhatja a közfoglalkoztatási jogviszony létesítését, amennyiben a közfoglalkoztatottal szemben a (4a) bekezdés b) pontja szerinti kizárási ok fennállásáról van tudomása.
 
-(4h) A (4a) bekezdés d) pontja szerinti kizárási ok esetén a járási foglalkoztatási szerv a döntése meghozatala előtt ellenőrzi a rendelkezésére álló – különösen az állami adóhatóság által az egyszerűsített foglalkoztatásról szóló törvény szabályai szerint megküldött – adatokat.
+(4h) A (4a) bekezdés d) pontja szerinti kizárási ok esetén a járási hivatal a döntése meghozatala előtt ellenőrzi a rendelkezésére álló – különösen az állami adóhatóság által az egyszerűsített foglalkoztatásról szóló törvény szabályai szerint megküldött – adatokat.
 
-(4i) A járási foglalkoztatási szerv a (4a) bekezdés e) pontjában meghatározott feltétel fennállását az Flt. 36/A. §-a szerinti, a munkáltató által kiállított igazolólapból állapítja meg.
+(4i) A járási hivatal a (4a) bekezdés e) pontjában meghatározott feltétel fennállását az Flt. 36/A. §-a szerinti, a munkáltató által kiállított igazolólapból állapítja meg.
 
 2. § (1) A közfoglalkoztatási jogviszonyra az Mt. szabályai alkalmazandók, a (2)–(5) bekezdésben meghatározott eltérésekkel.
 
@@ -90,7 +92,7 @@ kerül sor,
 
 (3) A közfoglalkoztatási jogviszonyban a rendes munkaidő időtartama a közfoglalkoztatás támogatásáról szóló jogszabály alapján nyújtott támogatásról szóló hatósági szerződésben előírt munkaidő lehet.
 
-(3a) A közfoglalkoztató köteles a közfoglalkoztatott részére fizetés nélküli szabadságot engedélyezni, ha a közfoglalkoztatott a közfoglalkoztatási jogviszony időtartama alatt az 1. § (3) bekezdésének hatálya alá nem tartozó munkáltatónál legalább 3 nap, legfeljebb 120 nap időtartamú határozott idejű munkaviszonyt kíván létesíteni. A fizetés nélküli szabadság engedélyezésének feltétele, hogy a közfoglalkoztatott a határozott idejű munkaviszonyról szóló írásbeli nyilatkozatát a közfoglalkoztatónak a fizetés nélküli szabadság megkezdése előtt legalább 2 munkanappal benyújtsa. Ez a rendelkezés nem alkalmazható a közfoglalkoztató által a közfoglalkoztatott számára közfoglalkoztatási jogviszony keretében a munkavégzéshez kapcsolódóan biztosított képzés vagy munkaerő-piaci szolgáltatás ideje alatt. A fizetés nélküli szabadsággal kapcsolatos eltérő nyilatkozatok esetén a járási foglalkoztatási szerv ellenőrzi, hogy a fizetés nélküli szabadság ideje alatt tervezett határozott idejű munkaviszony létrejött-e.
+(3a) A közfoglalkoztató köteles a közfoglalkoztatott részére fizetés nélküli szabadságot engedélyezni, ha a közfoglalkoztatott a közfoglalkoztatási jogviszony időtartama alatt az 1. § (3) bekezdésének hatálya alá nem tartozó munkáltatónál legalább 3 nap, legfeljebb 120 nap időtartamú határozott idejű munkaviszonyt kíván létesíteni. A fizetés nélküli szabadság engedélyezésének feltétele, hogy a közfoglalkoztatott a határozott idejű munkaviszonyról szóló írásbeli nyilatkozatát a közfoglalkoztatónak a fizetés nélküli szabadság megkezdése előtt legalább 2 munkanappal benyújtsa. Ez a rendelkezés nem alkalmazható a közfoglalkoztató által a közfoglalkoztatott számára közfoglalkoztatási jogviszony keretében a munkavégzéshez kapcsolódóan biztosított képzés vagy munkaerő-piaci szolgáltatás ideje alatt. A fizetés nélküli szabadsággal kapcsolatos eltérő nyilatkozatok esetén a járási hivatal ellenőrzi, hogy a fizetés nélküli szabadság ideje alatt tervezett határozott idejű munkaviszony létrejött-e.
 
 (3b) A közfoglalkoztatott számára várandóssága idejére egészségi állapotának megfelelő munkakört kell felajánlani, ha a munkaköri alkalmasságára vonatkozó orvosi vélemény alapján a munkakörében nem foglalkoztatható.
 
@@ -98,9 +100,9 @@ kerül sor,
 
 (3d) Az egyszerűsített foglalkoztatásról szóló törvény szerint foglalkoztatni kívánó munkáltató a munkaerő-igényét május 1-je és október 31-e között annak a településnek a polgármesterénél is bejelentheti, ahol a tervezett foglalkoztatás helye található.
 
-(3e) A polgármester a bejelentést követően haladéktalanul értesíti a járási foglalkoztatási szervet az egyszerűsített foglalkoztatási munkaerőigényről.
+(3e) A polgármester a bejelentést követően haladéktalanul értesíti a járási hivatalt az egyszerűsített foglalkoztatási munkaerőigényről.
 
-(3f) Az egyszerűsített foglalkoztatásról szóló törvény szerint foglalkoztatni kívánó munkáltató minden év október 31-éig bejelentheti a tervezett foglalkoztatás helye szerint illetékes megyei foglalkoztatási szerv részére a következő év május 1-je és október 31-e között általa tervezett egyszerűsített foglalkoztatás helyét, a foglalkoztatni kívánt létszámot munkakörönként és a foglalkoztatás tervezett ütemezését. A megyei foglalkoztatási szerv minden év november 30-áig továbbítja a közfoglalkoztatásért felelős miniszter részére az összesített egyszerűsített foglalkoztatási igényeket.
+(3f) Az egyszerűsített foglalkoztatásról szóló törvény szerint foglalkoztatni kívánó munkáltató minden év október 31-éig bejelentheti a tervezett foglalkoztatás helye szerint illetékes megyei kormányhivatal részére a következő év május 1-je és október 31-e között általa tervezett egyszerűsített foglalkoztatás helyét, a foglalkoztatni kívánt létszámot munkakörönként és a foglalkoztatás tervezett ütemezését. A megyei kormányhivatal minden év november 30-áig továbbítja a közfoglalkoztatásért felelős miniszter részére az összesített egyszerűsített foglalkoztatási igényeket.
 
 (4) A közfoglalkoztatottat megillető munkabér összege megegyezik a teljesítményhez kötött tevékenységek kivételével a közfoglalkoztatási bérrel, a legalább középfokú iskolai végzettséget, szakképesítést igénylő munkakör betöltése esetén a közfoglalkoztatási garantált bérrel, azzal, hogy
 
@@ -150,7 +152,7 @@ illeti meg. Amennyiben a megelőző közfoglalkoztatás időtartama kevesebb 4 h
 
 vonatkozó szabályai nem alkalmazhatók,
 
-- b) az Mt. VI., XVII. és XVIII. fejezete nem alkalmazható,
+- b) az Mt. XVII. és XVIII. fejezete nem alkalmazható,
 - c) az Mt. 49. § (2) bekezdése nem alkalmazható,
 - d) az Mt. 55. § (1) bekezdés h) pontja nem alkalmazható,
 - e)
@@ -188,7 +190,7 @@ vonatkozó szabályai nem alkalmazhatók,
 
 3. § (1) A közfoglalkoztató a közfoglalkoztatott részére az alábbiakat köteles biztosítani:
 
-- a) ha a munkavégzés helye és a közfoglalkoztatott lakóhelye közötti naponta – tömegközlekedési eszközzel – történő oda- és visszautazás ideje a hat órát meghaladja, a munkavégzés helyétől számított 20 km-es távolságon belül az illetékes fővárosi és megyei kormányhivatal által kiadott engedélynek megfelelő térítésmentes elhelyezést, tisztálkodási és étkezési lehetőséget, vagy
+- a) ha a munkavégzés helye és a közfoglalkoztatott lakóhelye közötti naponta – tömegközlekedési eszközzel – történő oda- és visszautazás ideje a hat órát meghaladja, a munkavégzés helyétől számított 20 km-es távolságon belül az illetékes megyei kormányhivatal által kiadott engedélynek megfelelő térítésmentes elhelyezést, tisztálkodási és étkezési lehetőséget, vagy
 - b) ha a munkavégzés helye és a közfoglalkoztatott lakóhelye közötti naponta – tömegközlekedési eszközzel – történő oda- és visszautazás ideje a három órát, illetve tíz éven aluli gyermeket nevelő nő és tíz éven aluli gyermeket egyedül nevelő férfi munkanélküli esetében a két órát meghaladja, a munkavégzés helyére és onnan a közfoglalkoztatott lakóhelyére történő térítésmentes szállítást, valamint
 - c) amennyiben az a) és b) pontokban meghatározott esetekben a foglalkoztatás a napi négy órát meghaladja, a munkahelyen térítésmentes napi egyszeri étkezést.
 
@@ -210,6 +212,10 @@ vonatkozó szabályai nem alkalmazhatók,
 
 (3d) A szociális szövetkezet az állammal vagy az önkormányzattal kötött, közfoglalkoztatási célú hasznosítási szerződésben vállalja, hogy az általa ingyenesen használatba vett termőföldet a haszonbérlő kötelezettségeire a 2013. évi CCXII. törvény (Ffvht.) 58. §-ában meghatározott előírások betartásával hasznosítja. Ennek során csak olyan gazdálkodást folytathat, amely nem veszélyezteti a föld termőképességét. A használatba adó hozzájárulása nélkül vagy attól eltérően a föld használatát másnak nem engedheti át, a föld művelési ágát nem változtathatja meg. A földet csak a szerződésben meghatározott célra hasznosíthatja. Ha a föld a természet védelméről szóló 1996. évi LIII. törvény hatálya alá tartozik, a szociális szövetkezet köteles e törvény, illetve a természetvédelmi hatóság földhasználatról hozott előírásait teljesíteni, továbbá nem folytathat olyan tevékenységet, amely a természeti terület állagát vagy állapotát kedvezőtlenül befolyásolja, vagy a természeti értékek fennmaradását bármely módon veszélyezteti. Ha a szociális szövetkezet ezeket a földhasználati kötelezettségeit a használatba adó írásban közölt felhívása ellenére megsérti, a hasznosítási szerződést azonnali hatállyal fel kell mondani.
 
+(3e) Az (1)–(3a) bekezdés alapján akkor köthető meg a szerződés, ha abban a szociális szövetkezet vállalja, hogy a kijelölt állami képviselő számára a (3b) bekezdés szerinti vélemény kialakításához szükséges információkat rendelkezésre bocsátja, és biztosítja, hogy a kijelölt állami képviselő a hasznosításra kapott eszközökkel kapcsolatos iratokba, számviteli nyilvántartásokba, könyvekbe betekintsen, a vezető tisztségviselőktől és tagoktól felvilágosítást kérjen. A szerződésben a feleknek az információhoz való hozzáférés módjáról is rendelkezniük kell.
+
+(3f) A kijelölt állami képviselő haladéktalanul jelzi a használatba adó számára, ha a szociális szövetkezet a hasznosításra kapott eszközöket a szerződésben foglaltaktól eltérő, vagy rendeltetésellenes módon használja, és kezdeményezi a szerződés azonnali hatályú felmondását.
+
 (4) Az ingyenes használat időtartama termőföld esetében a tíz évet nem haladhatja meg. Az ingó tárgyi eszköz két év ingyenes használat után visszakerül a kölcsönadóhoz, kivéve, ha a közfoglalkoztató és a szociális szövetkezet az ingyenes használat időtartamának meghosszabbításában megállapodik. Az állatállomány két év ingyenes használat után a szociális szövetkezet tulajdonába kerül.
 
 (5) A közfoglalkoztatás (1) bekezdés szerinti időtartamának megállapításánál az egybeszámítást akkor lehet alkalmazni, ha a közfoglalkoztatási jogviszony megszűnése és az újabb közfoglalkoztatási jogviszony létesítése közötti időtartam a hat hónapot nem haladja meg.
@@ -217,6 +223,8 @@ vonatkozó szabályai nem alkalmazhatók,
 (6) A szociális szövetkezetet – az (1) és (2) bekezdésben meghatározott feltételek teljesítése esetén – a közfoglalkoztatási jogviszony megszűnésétől számított három hónapon belül kell megalapítani.
 
 (7) Amennyiben a szociális szövetkezet európai uniós versenyjogi értelemben vett gazdasági tevékenységet végez, és a helyi önkormányzat, a nemzetiségi önkormányzat, vagy ezek jogi személyiségű társulása, mint közfoglalkoztató nem tagja a szövetkezetnek, az ehhez a tevékenységhez az állam által biztosított ingó tárgyi eszköz, termőföld, állatállomány meg nem fizetett használati díja csekély összegű (de minimis) támogatásnak minősül, és az az állami támogatásokra vonatkozó uniós jogi aktusok rendelkezéseivel összhangban nyújtható.
+
+(8) Az (1)–(7) bekezdés rendelkezései alkalmazandók abban az esetben, ha a magyar állam, az önkormányzat vagy a közalapítvány a szociális szövetkezet részére egyéb ingatlant ad ingyenesen használatba.
 
 4/B. § Az 1. § (4) bekezdés c) pontja szerinti személy foglalkoztatása esetén a 2. § (3a) és (3c) bekezdése, az 1. § (4) bekezdés d) pontja szerinti személy foglalkoztatása esetén a 4/A. § nem alkalmazható.
 
@@ -374,3 +382,5 @@ vonatkozó szabályai nem alkalmazhatók,
 #### 60. §
 
 #### 61. §
+
+62. § E törvénynek az egyes belügyi tárgyú törvények módosításáról szóló 2016. évi CXVI. törvénnyel megállapított rendelkezéseinek hatálybalépése napján a 4/A. § (1)–(3a) bekezdése alapján már fennálló szerződéseket a felek 30 napon belül kötelesek a 4/A. § (3e) bekezdése szerint módosítani. Ha a szociális szövetkezet a szerződés módosítására vonatkozó javaslatot nem fogadja el, vagy a szerződés aláírását megtagadja, a szerződés azonnali hatályú felmondásának van helye. A felek a felmondás hatályossá válását követő 30 napon belül kötelesek egymással elszámolni.

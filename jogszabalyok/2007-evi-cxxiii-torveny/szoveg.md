@@ -211,7 +211,7 @@ kell figyelembe venni.
 
 (4) Ha a kisajátítást kérő a kisajátított épületre vagy annak tartozékaira nem tart igényt, a tulajdonos azokat az (1) bekezdés b) pontjában nem említett esetben is lebontathatja, és anyagukat elviheti. A bontási anyagnak és tartozékoknak a bontási költséggel csökkentett értékét a kártalanításból le kell vonni.
 
-(5) A kisajátítást kérőnek a tárgyaláson nyilatkoznia kell arról, hogy az épületre és annak tartozékaira igényt tart-e. Ha a kisajátítást kérő az épületre vagy annak tartozékaira nem tart igényt, a tárgyaláson a tulajdonosnak nyilatkoznia kell arról, hogy azokat lebontja és anyagukat elviszi-e, vagy kártalanításra tart igényt.
+(5) A kisajátítást kérőnek legkésőbb a tárgyaláson nyilatkoznia kell arról, hogy az épületre és annak tartozékaira igényt tart-e. Ha a kisajátítást kérő az épületre vagy annak tartozékaira nem tart igényt, legkésőbb a tárgyaláson a tulajdonosnak nyilatkoznia kell arról, hogy azokat lebontja és anyagukat elviszi-e, vagy kártalanításra tart igényt.
 
 (6) Az (1)–(5) bekezdésben foglalt rendelkezéseket megfelelően alkalmazni kell az épületnek nem minősülő építményekre, továbbá az építményrészekre is.
 
@@ -247,7 +247,7 @@ kell figyelembe venni.
 
 (3) A kisajátításra kerülő épületben lévő nem lakás céljára szolgáló helyiség esetén a tulajdonos vagy a használó nem kérhet cserehelyiséget, ha
 
-- a) a helyiségben gyakorolt tevékenységét – a kisajátítási tárgyaláson tett nyilatkozata szerint – tovább nem folytatja;
+- a) a helyiségben gyakorolt tevékenységét – legkésőbb a kisajátítási tárgyaláson tett nyilatkozata szerint – tovább nem folytatja;
 - b) tulajdonában (vagyonkezelésében, használatában) ugyanabban a városban (községben) olyan más, nem lakás céljára szolgáló helyiség van, amely megfelelő a tevékenység folytatására.
 
 (4) Ha a jogosult a felajánlott és megfelelő cserelakást, illetve cserehelyiséget nem fogadja el, részére a cserelakás vagy cserehelyiség helyett pénzbeli kártalanításról kell dönteni.
@@ -342,7 +342,7 @@ kell figyelembe venni.
 
 (2) Az e törvény szerinti eljárásokban szükséges ügygondnokot, illetve eseti gondnokot a kisajátítási hatóság rendeli ki. Ügygondnokot vagy eseti gondnokot kell kirendelni abban az esetben is, ha a tulajdonos vagy más kártalanításra jogosult személye nem állapítható meg egyértelműen.
 
-(3) Az ügyfeleket az eljárás megindításáról postai úton kell értesíteni.
+(3)
 
 24. § (1) A kisajátítási eljárás kérelemre indul. A kérelmet – a kisajátítási hatóság honlapján közzétett formanyomtatványon – ingatlanonként kell benyújtani.
 
@@ -398,9 +398,9 @@ kell figyelembe venni.
 
 (2) A szakértői véleménynek a kisajátítási hatóság részére történő megküldése és a tárgyalás között legalább 10, legfeljebb 15 napnak kell eltelnie.
 
-(3) A szakértői véleménnyel kapcsolatos kérdéseket és észrevételeket az ügyfelek – elektronikus vagy postai úton, telefaxon vagy személyesen – legkésőbb a tárgyaláson tehetik meg.
+(3) A szakértői véleménnyel kapcsolatos kérdéseket és észrevételeket az ügyfelek legkésőbb a tárgyaláson tehetik meg.
 
-(4) Ha a kérdések és észrevételek olyan időben érkeznek meg, hogy azok szakértő általi megismerése még a tárgyalás előtt lehetségesnek mutatkozik, a beérkezett kérdéseket és észrevételeket a kisajátítási hatóság – elektronikus vagy postai úton, vagy telefaxon – továbbítja a szakértő részére.
+(4) Ha a kérdések és észrevételek olyan időben érkeznek meg, hogy azok szakértő általi megismerése még a tárgyalás előtt lehetségesnek mutatkozik, a beérkezett kérdéseket és észrevételeket a kisajátítási hatóság továbbítja a szakértő részére.
 
 (5) Mellőzhető a tárgyalás kitűzése, ha a rendelkezésre álló adatok alapján a kisajátítási hatóság arra a következtetésre jut, hogy a kisajátítás jogalapja nem áll fenn.
 
@@ -475,7 +475,7 @@ kell figyelembe venni.
 
 32/A. § (1) A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházással összefüggésben hozott kisajátítási határozat bírósági felülvizsgálatára a 32. §-ban foglaltakat az e §-ban foglalt eltérésekkel kell alkalmazni.
 
-(2) A kisajátítási hatóság a keresetlevelet az ügy irataival és a keresetlevélben foglaltakra vonatkozó nyilatkozatával együtt 3 napon belül továbbítja a bírósághoz, a továbbításra elektronikus úton is sor kerülhet.
+(2) A kisajátítási hatóság a keresetlevelet az ügy irataival és a keresetlevélben foglaltakra vonatkozó nyilatkozatával együtt 3 napon belül továbbítja a bírósághoz.
 
 (3) Az eljárásra
 
@@ -493,7 +493,7 @@ kell figyelembe venni.
 
 (2) A kisajátítási hatóság döntése felügyeleti jogkörben nem változtatható meg és nem semmisíthető meg.
 
-33. § (1) A kisajátítási határozat jogerőre emelkedése után a határozatot – a jogerőre utaló feljegyzéssel ellátva – a kisajátítást kérő, valamint az ingatlanügyi hatóság részére – részleges kisajátítás esetén utóbbi részére a kisajátítási terv egy példányát is mellékelve – meg kell küldeni. Ha a kisajátított ingatlanra végrehajtási jog volt bejegyezve, a határozatot az ügyben eljárt bírósági végrehajtóval, vagy a végrehajtást foganatosító egyéb szervvel is közölni kell. A határozat jogerőre emelkedéséről a többi ügyfelet is értesíteni kell.
+33. § (1) A kisajátítási határozat jogerőre emelkedése után a határozatot a kisajátítást kérő, valamint az ingatlanügyi hatóság részére – részleges kisajátítás esetén utóbbi részére a kisajátítási tervet is mellékelve – meg kell küldeni. Ha a kisajátított ingatlanra végrehajtási jog volt bejegyezve, a határozatot az ügyben eljárt bírósági végrehajtóval, vagy a végrehajtást foganatosító egyéb szervvel is közölni kell. A határozat jogerőre emelkedéséről a többi ügyfelet is értesíteni kell.
 
 (2) A jogerős határozatot az adó helyesbítése, illetőleg kivetése céljából az illetékes helyi adóhatóságnak is meg kell küldeni.
 
@@ -573,7 +573,7 @@ alapján vezeti át az ingatlan-nyilvántartáson.
 
 (2) A kisajátításhoz szükséges előmunkálatokra engedélyt kell kérni a kisajátítási hatóságtól. Az előmunkálatok engedélyezését a kisajátítást kérő és az előmunkálatokat végző szerv együttesen köteles kérni. A kérelemben meg kell jelölni az ingatlan adatait, a tulajdonos, a használó, az ingatlan-nyilvántartásban feltüntetett egyéb jogosult lakáscímét (telephelyét), az elvégezni kívánt előmunkálatokat és a kisajátítás célját. A kérelemben be kell mutatni azokat az adatokat és körülményeket, és csatolni kell azokat a dokumentumokat, amelyek a kisajátítás feltételeinek fennállását valószínűsítik, és az előmunkálatok végzésének szükségességét indokolják.
 
-(3) Az engedélyezés során a kisajátítási hatóság megvizsgálja, hogy kisajátítás feltételeinek fennállása a rendelkezésre álló adatok alapján valószínűsíthető-e, és annak érdekében az adott ingatlanon az adott előmunkálat elvégzése indokolt-e, illetve az az ingatlan rendeltetésszerű használatát milyen mértékben korlátozza. Ennek érdekében az ingatlan tulajdonosát (használóját) meghallgathatja. Az engedélyezésről szóló határozatot postai úton közölni kell az ingatlan tulajdonosával, használójával és az ingatlan-nyilvántartásban feltüntetett egyéb jogosulttal.
+(3) Az engedélyezés során a kisajátítási hatóság megvizsgálja, hogy kisajátítás feltételeinek fennállása a rendelkezésre álló adatok alapján valószínűsíthető-e, és annak érdekében az adott ingatlanon az adott előmunkálat elvégzése indokolt-e, illetve az az ingatlan rendeltetésszerű használatát milyen mértékben korlátozza. Ennek érdekében az ingatlan tulajdonosát (használóját) meghallgathatja. Az engedélyezésről szóló határozatot közölni kell az ingatlan tulajdonosával, használójával és az ingatlan-nyilvántartásban feltüntetett egyéb jogosulttal.
 
 (4) Nemzetgazdasági szempontból kiemelt jelentőségű beruházások céljára történő kisajátításhoz szükséges előmunkálat esetén a kisajátítást kérő önállóan is kérheti az előmunkálat engedélyezését.
 
@@ -581,7 +581,7 @@ alapján vezeti át az ingatlan-nyilvántartáson.
 
 39. § (1) Ha az előmunkálatok engedélyezésekor azok megkezdésének időpontja megállapítható, azt a kérelemnek helyt adó határozatban kell megjelölni.
 
-(2) Az előmunkálatokat végző szerv az előmunkálatok megkezdése előtt legalább tizenöt nappal köteles a kezdés időpontját a kisajátítási hatóságnak bejelenteni. A kisajátítási hatóság az előmunkálatok megkezdésének időpontja előtt legalább öt munkanappal a 38. § (2) bekezdésében említett érdekelteket az előmunkálatokról és azok megkezdésének időpontjáról írásban értesíti.
+(2) Az előmunkálatokat végző szerv az előmunkálatok megkezdése előtt legalább tizenöt nappal köteles a kezdés időpontját a kisajátítási hatóságnak bejelenteni. A kisajátítási hatóság az előmunkálatok megkezdésének időpontja előtt legalább öt munkanappal a 38. § (2) bekezdésében említett érdekelteket az előmunkálatokról és azok megkezdésének időpontjáról értesíti.
 
 (3) Az ingatlan tulajdonosa (vagyonkezelője, használója) köteles tűrni, hogy az engedélyezett előmunkálatokat elvégezzék, az ezzel okozott kár megtérítéséért a kisajátítást kérő és az előmunkálatokat végző egyetemlegesen felelős.
 
@@ -614,7 +614,7 @@ alapján vezeti át az ingatlan-nyilvántartáson.
 
 (2) Az előzetes eljárásban ügyfél kizárólag a kérelmező és az igénylő.
 
-(3) A kérelmet írásban, formanyomtatvány alkalmazása nélkül kell benyújtani.
+(3) A kérelmet formanyomtatvány alkalmazása nélkül kell benyújtani.
 
 (4) A kérelemben meg kell jelölni azt is, hogy annak célja a kisajátítás jogalapjának és a kártalanítás összegének előzetes megállapítása. A kérelemhez mellékelni kell a tulajdoni per megindítását igazoló iratot is, valamint meg kell jelölni az igénylő nevét, lakcímét (székhelyét) is.
 
@@ -663,6 +663,8 @@ alapján vezeti át az ingatlan-nyilvántartáson.
 
 40/F. § Az e törvény hatálya alá tartozó eljárásokban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
 
+40/G. § A kisajátítást kérő, illetve annak képviselője az e törvény hatálya alá tartozó hatósági eljárásokban, e hatósági eljárásokban hozott döntések bírósági felülvizsgálati eljárásában, valamint a kisajátítási terv záradékolására irányuló eljárásban elektronikus ügyintézésre köteles.
+
 ### Záró rendelkezések
 
 41. § (1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – 2008. január 1-jén lép hatályba, rendelkezéseit – ide értve az általános forgalmi adó fizetésére vonatkozó kötelezettséget is – a hatálybalépését követően indult kisajátítási eljárásokra kell alkalmazni.
@@ -693,3 +695,7 @@ vonatkozó szabályokat rendeletben állapítsa meg.
 45. § E törvénynek a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény és a kisajátításról szóló 2007. évi CXXIII. törvény módosításáról szóló 2015. évi CVIII. törvénnyel (a továbbiakban: 2015. évi CVIII. törvény) megállapított rendelkezéseit a 2015. évi CVIII. törvény hatálybalépését követően indult és megismételt kisajátítási eljárásokban kell alkalmazni.
 
 46. § E törvénynek a kulturális örökség védelméről szóló 2001. évi LXIV. törvény és az azzal összefüggő egyes törvények módosításáról szóló 2016. évi XCII. törvénnyel (a továbbiakban: 2016. évi XCII. törvény) megállapított rendelkezéseit a 2016. évi XCII. törvény hatálybalépését követően indult kisajátítási hatósági eljárásokban kell alkalmazni.
+
+47. § (1) E törvénynek az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról szóló 2016. évi CXXI. törvénnyel megállapított 40/G. §-át a 2018. január 1-jét követően indult és megismételt hatósági és bírósági eljárásokban kell alkalmazni.
+
+(2) Kisajátítási eljárásban nem kötelező az elektronikus ügyintézés azon kisajátítást kérő illetve képviselője esetében, akinek részére a záradékolás iránt 2018. január 1-jét megelőzően benyújtott kérelme alapján záradékolt kisajátítási terv csak papír alapon áll rendelkezésére. Az elektronikus ügyintézést ennek alapján nem alkalmazó kisajátítást kérő illetve képviselője e körülmény fennállásáról a kisajátítási hatóság részére nyilatkozni köteles.

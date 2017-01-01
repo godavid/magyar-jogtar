@@ -6,7 +6,9 @@ a pénzügyi közvetítőrendszert érintő egyes törvények módosításáról
 
 1–9. §
 
-10. §
+10. § Az Öpt. 29/A. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Telefonon történő panaszkezelés esetén a pénztár biztosítja az ésszerű várakozási időn belüli hívásfogadást és ügyintézést. A pénztár az ügyintézőjének – a pénztár felé indított hívás sikeres felépülésének időpontjától számított – öt percen belüli élőhangos bejelentkezése érdekében úgy köteles eljárni, ahogy az az adott helyzetben általában elvárható.”
 
 11–18. §
 
@@ -37,7 +39,9 @@ lép.
 
 24–27. §
 
-28. §
+28. § Az Mpt. 77/C. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Telefonon történő panaszkezelés esetén a pénztár biztosítja az ésszerű várakozási időn belüli hívásfogadást és ügyintézést. A pénztár az ügyintézőjének – a pénztár felé indított hívás sikeres felépülésének időpontjától számított – öt percen belüli élőhangos bejelentkezése érdekében úgy köteles eljárni, ahogy az az adott helyzetben általában elvárható.”
 
 29–32. §
 
@@ -69,7 +73,9 @@ lép.
 
 51–53. §
 
-54. §
+54. § Az Fnyt. 28/A. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Telefonon történő panaszkezelés esetén a foglalkoztatói nyugdíjszolgáltató intézmény biztosítja az ésszerű várakozási időn belüli hívásfogadást és ügyintézést. A foglalkoztatói nyugdíjszolgáltató intézmény az ügyintézőjének – a foglalkoztatói nyugdíjszolgáltató intézmény felé indított hívás sikeres felépülésének időpontjától számított – öt percen belüli élőhangos bejelentkezése érdekében úgy köteles eljárni, ahogy az az adott helyzetben általában elvárható.”
 
 55–59. §
 
@@ -83,11 +89,41 @@ lép.
 
 #### 7. A kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény módosítása
 
-68–73. §
+68. § A kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény (a továbbiakban: Gfbt.) Első része a következő 3/B. §-sal egészül ki:
+
+„3/B. § (1) Ahol e törvény euróban meghatározott összegről rendelkezik, azon a tárgyév január 1-jétől december 31-ig tartó időszakára (a továbbiakban: alkalmazási időszak) vonatkozó, forintban meghatározott összegét kell érteni.
+
+(2) Az adott alkalmazási időszakra vonatkozó forintban meghatározott összeget az alkalmazási időszakot megelőző naptári év első tíz hónapjára és az euró forintra való átszámítására vonatkozó – Magyar Nemzeti Bank által közzétett – hivatalos napi árfolyamok átlagának alkalmazásával, a következő milliós forintértékre felkerekítve kell kiszámítani.”
+
+69. § A Gfbt. 4. §-a a következő (4a) bekezdéssel egészül ki:
+
+„(4a) Ha az üzemben tartó személye a 7. § (3a) bekezdésében meghatározottak szerint változik, a biztosítási kötelezettség a gépjármű új üzemben tartóját a kockázatviselés 19. § (5a) bekezdésében meghatározott megszűnését követő naptól terheli. Ha a biztosítási szerződést a (6) bekezdésben meghatározottak szerint nem tartották hatályban és az üzemben tartó személye a 7. § (3a) bekezdésében meghatározottak szerint változik, a biztosítási kötelezettség a gépjármű új üzemben tartóját a peres, nemperes eljárásban vagy hatósági eljárásban hozott döntés jogerőre emelkedését követő naptól terheli.”
+
+70. § (1) A Gfbt. 7. §-a a következő (3a) bekezdéssel egészül ki:
+
+„(3a) Ha az üzemben tartó személyének változása – peres, nemperes eljárásban vagy hatósági eljárásban hozott döntés alapján – oly módon következik be, hogy a tulajdonjog átszállásának, illetve az üzemben tartói jogosultság megszűnésének időpontja a járműnyilvántartásba a peres, nemperes eljárásban vagy hatósági eljárásban hozott döntést megelőző időpontként kerül bejegyzésre, a szerződés – a (3) bekezdéstől eltérően – a peres, nemperes eljárásban vagy hatósági eljárásban hozott döntés jogerőre emelkedését követő harmincadik napon érdekmúlással megszűnik, feltéve, ha eddig az időpontig a szerződés egyéb okból még nem szűnt meg.”
+
+(2) A Gfbt. 7. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) Ha az üzemben tartó változása a jogi személy jogutódlással történő megszűnése miatt következik be, a szerződés érdekmúlással nem szűnik meg.”
+
+71. § A Gfbt. 13. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Egy biztosítási esemény vonatkozásában a károsultak számától függetlenül a biztosító dologi károk esetén káreseményenként egymillió-kettőszázhúszezer eurónak megfelelő forintösszeg-határig, személyi sérülés miatti károk esetén káreseményenként hatmillió-hetvenezer eurónak megfelelő forintösszeg-határig köteles helytállni, amely összegek magukban foglalják a káresemény kapcsán bármilyen jogcímen érvényesíthető követeléseket, az igényérvényesítés költségeit (beleértve a jogi képviseleti költségeket is), valamint a teljesítés időpontjáig eltelt időszakra járó kamatokat.”
+
+72. § A Gfbt. 19. §-a a következő (5a) bekezdéssel egészül ki:
+
+„(5a) A szerződés 7. § (3a) bekezdésében meghatározott érdekmúlással történő megszűnése esetén a biztosító kockázatviselése a peres, nemperes eljárásban vagy hatósági eljárásban hozott döntés jogerőre emelkedését követő harmincadik napon szűnik meg, feltéve, ha eddig az időpontig a szerződés egyéb okból még nem szűnt meg.”
+
+73. § A Gfbt. 22. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A teljes fedezetlenségi díjat azon biztosító köteles kiszámítani és beszedni, amely az üzemben tartóval a fedezetlenség időtartamát követően szerződést köt. A fedezetlenségi díj kiszámítása során a biztosító az utolsó öt év fedezetlenségének időtartamát veheti figyelembe.”
 
 74–75. §
 
-76. §
+76. § A Gfbt. 51. §-a a következő (10) bekezdéssel egészül ki:
+
+„(10) A kárnyilvántartó szerv az üzemben tartó kérelmére köteles – a kérelem beérkezését követő 15 napon belül – a kérelmet megelőző időszak vonatkozásában – amennyiben ezen időszak tartama az öt évet meghaladja, úgy legalább ötéves időszakra visszamenőleg – a (4) bekezdésben meghatározott adatokról írásban igazolást kiadni más tagállam által előírt felelősségbiztosítási kötelezettség alapján kötendő szerződéssel kapcsolatos kedvezmény érvényesítése céljából.”
 
 77–79. §
 
@@ -107,7 +143,15 @@ lép.
 
 92–105. §
 
-106. §
+106. § Az MNBtv. 113. §-a helyébe a következő rendelkezés lép:
+
+„113. § (1) Egyezség hiányában a tanács az ügy érdemében
+
+a) kötelezést tartalmazó határozatot hoz, ha a kérelem megalapozott, és a 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet általános alávetési nyilatkozatában, kereskedelmi kommunikációjában közölt vagy az eljárás kezdetekor vagy legkésőbb a döntés meghozataláig tett nyilatkozatában a Pénzügyi Békéltető Testület döntését magára nézve kötelezőként elismerte, vagy
+
+b) ajánlást tesz, ha a kérelem megalapozott, azonban a 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet az eljárás kezdetekor úgy nyilatkozott, hogy a tanács döntését kötelezésként nem ismeri el, illetve ha a tanács döntésének elismeréséről egyáltalán nem nyilatkozott.
+
+(2) A tanács egyezség hiányában akkor is kötelezést tartalmazó határozatot hozhat, ha a 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet alávetési nyilatkozatot nem tett, de a kérelem megalapozott és a fogyasztó érvényesíteni kívánt igénye – sem a kérelemben, sem a kötelezést tartalmazó határozat meghozatalakor – nem haladja meg az egymillió forintot.”
 
 107–115. §
 
@@ -121,7 +165,9 @@ lép.
 
 118–129. §
 
-130. §
+130. § A Hpt. 271. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) Ha az általános szerződési feltételt is tartalmazó üzletszabályzat, valamint bármely egyéb szabályzat módosítása fogyasztóval már megkötött szerződést is érint, a pénzügyi intézmény az internetes honlapján könnyen elérhető módon legalább 5 évig a módosítást megelőzően hatályos üzletszabályzatát, valamint egyéb szabályzatát is hozzáférhetővé teszi. Ha a pénzügyi intézmény nem rendelkezik internetes honlappal, a korábban hatályos üzletszabályzathoz, valamint egyéb szabályzathoz történő hozzáférést az ügyfélfogadásra nyitva álló helyiségében biztosítja.”
 
 131. §
 
@@ -151,11 +197,47 @@ lép.
 
 153. §
 
-154–155. §
+154. § (1) A Bit. 107. § (1) bekezdése a következő f) ponttal egészül ki:
+
+(A befektetési egységekhez kötött életbiztosítások tartalékainak fedezetéül szolgáló eszközök befektetése és kezelése során a következő előírásokat kell alkalmazni:)
+
+„f) a befektetés az ügyfél számára a befektetési politikával összhangban, szakszerű végrehajtás mellett, tisztességesen, átláthatóan, kellő gondossággal és az ügyfél érdekében valósuljon meg, különös tekintettel az árra, a költségre – az alapkezelés során kapott visszatérítést elvonáscsökkentésként beszámítva – és az elvárható hozamra.”
+
+(2) A Bit. 107. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) A biztosító köteles az általa felszámított bármely díjat, költséget vagy jutalékot, továbbá a képzett tartalék arányában felszámított elvonást úgy megnevezni, hogy abból, illetve a kapcsolódó meghatározásból egyértelműen megállapítható legyen ezek célja és mögöttes tartalma.”
+
+155. § A Bit. a következő 48/A. alcímmel egészül ki:
+
+„48/A. A megtakarítási jellegű életbiztosítások különös szabályai
+
+124/A. § (1) A megtakarítási jellegű, befektetési egységhez kötött életbiztosítás esetében a biztosító köteles befektetni az esedékes és befizetett biztosítási díj kockázati díjrésszel csökkentett
+
+a) első éves díjrészének legalább a 20%-át,
+
+b) második éves díjrészének legalább az 50%-át,
+
+c) harmadik és minden azt követő éves díjrészeinek legalább 80%-át,
+
+azzal, hogy a díjrészhez kapcsolódó megképzett tartalékon arányosan felszámított elvonást a negyedik év kezdetétől a megfelelés céljából nem kell figyelembe venni.
+
+(2) Ha a szerződő fél a maradékjogával él, akkor az elszámolás alapja legalább az (1) bekezdés szerinti minimális befektetési értékek aktuális számlaértéke. Az elszámolás során – a maradékjog érvényesítésére vonatkozó rendelkezéstől eltekintve – az ügyfél rendelkezéseinek a konkrét költségvonzata érvényesíthető.
+
+(3) A megtakarítási jellegű, nem befektetési egységhez kötött életbiztosítás esetében – amennyiben a szerződő fél a maradékjogával él – a visszavásárlási érték a szerződés kezdetétől a maradékjog érvényesítésének időpontjáig eltelt biztosítási időszakhoz igazodó módon az esedékes és befizetett biztosítási díj kockázati díjrésszel csökkentett
+
+a) első éves díjrészének legalább a 20%-a,
+
+b) második éves díjrészének legalább az 50%-a,
+
+c) harmadik és minden azt követő éves díjrészeinek legalább 80%-a.”
 
 156–173. §
 
-174. § (1)
+174. § (1) A Bit. 195. Átmeneti rendelkezések alcíme a következő 452/D. §-sal egészül ki:
+
+„452/D. § (1) A 107. § (1) bekezdés f) pontjának, továbbá (1a) bekezdésének – a pénzügyi közvetítőrendszert érintő egyes törvények módosításáról szóló 2016. évi LIII. törvénnyel megállapított – rendelkezéseit a 2017. január 1-jétől megkötött biztosítási szerződések esetében kell alkalmazni.
+
+(2) A 124/A. § – a pénzügyi közvetítőrendszert érintő egyes törvények módosításáról szóló 2016. évi LIII. törvénnyel megállapított – rendelkezéseit a 2017. január 1-jétől megkötött biztosítási szerződések esetében kell alkalmazni.”
 
 (2)
 

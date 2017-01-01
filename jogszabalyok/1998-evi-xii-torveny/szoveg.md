@@ -92,11 +92,15 @@ Az Országgyűlés az Alaptörvényben foglalt rendelkezésekre figyelemmel – 
 
 (2) A 18–70 éves életkor közötti állampolgár részére a magánútlevél – kérelmére – 10 éves érvényességgel is kiállítható.
 
+(3) Az (1) bekezdés a) és b) pontjában megállapított időtartamot az ügyfélnek az okmány kiállítását követő születésnapja hónapjától és napjától kell számítani. Az (1) bekezdés c) pontjában és a (2) bekezdésben megállapított időtartamot az ügyfélnek az okmány kiállítását megelőző születésnapja hónapjától és napjától kell számítani. Amennyiben a kiállítás napja a születésnap hónapjával és napjával megegyezik, úgy az érvényességi időt ezen időponttól kell számítani. Amennyiben az ügyfél február 29-én született és az érvényességi idő lejártának évében ez a nap hiányzik, akkor a magánútlevél érvényességi ideje február 28-án jár le.
+
 9. § (1) Az állampolgár – a (2) bekezdésben foglalt kivétellel – egyidejűleg csak egy érvényes magánútlevéllel rendelkezhet.
 
 (2) Annak az állampolgárnak, aki hivatalos útlevélre nem jogosult, de foglalkozása rendszeres külföldre utazással jár – az ezt bizonyító igazolás alapján –, valamint annak az állampolgárnak, aki azt különös méltánylást érdemlő okból kéri, a Kormány rendeletében meghatározott feltételek fennállása esetén második magánútlevél is kiadható.
 
 (3) A második magánútlevél az arra jogosító foglalkozás gyakorlásának időtartamáig, de legfeljebb – a 7. § (5) bekezdésben foglalt kivétellel – két évig érvényes. A különös méltánylást érdemlő okból kiadott második magánútlevél érvényességi ideje egy év.
+
+(4) A (3) bekezdés szerinti időtartamokat az ügyfélnek az okmány kiállítását követő születésnapja hónapjától és napjától kell számítani. Amennyiben az ügyfél február 29-én született és az érvényességi idő lejártának évében ez a nap hiányzik, akkor a második magánútlevél érvényességi ideje február 28-án jár le.
 
 10. § (1) A magyar állampolgár részére külföldön való további tartózkodásához, tovább- és hazautazásához legfeljebb egy évig érvényes ideiglenes magánútlevelet lehet kiállítani, ha az állampolgárnak a külföldre utazáshoz felhasznált útlevele vagy személyazonosító igazolványa a személyazonosság megállapítására alkalmatlanná vált, megrongálódott, lejárt, elveszett vagy eltulajdonították, és az utazásig magánútlevél nem állítható ki.
 
@@ -197,7 +201,7 @@ hajtja végre.
 
 16/B. § (1) A 16. § (1) bekezdésében meghatározott kényszerintézkedés, büntetés, intézkedés vagy egyéb korlátozás elrendelése, kiszabása, illetve megszüntetése esetén a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére adatközlésre kötelezett bíróság, illetve ügyész a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére teljesítendő adatközlési kötelezettségének teljesítése előtt ellenőrzi az útiokmány-nyilvántartásban, hogy a érintett személy érvényes úti okmánnyal rendelkezik-e.
 
-(2) Ha az érintett személy érvényes úti okmánnyal rendelkezik, a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére adatközlésre kötelezett bíróság, illetve ügyész elektronikus úton vagy az ehhez szükséges technikai feltételek hiányában telefaxon, a döntés meghozatalától számított huszonnégy órán belül értesíti az útlevélhatóságot a külföldre utazási korlátozásnak az útiokmány-nyilvántartásba történő bejegyzése, illetve a nyilvántartásból történő törlése érdekében.
+(2) Ha az érintett személy érvényes úti okmánnyal rendelkezik, a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére adatközlésre kötelezett bíróság, illetve ügyész a döntés meghozatalától számított huszonnégy órán belül értesíti az útlevélhatóságot a külföldre utazási korlátozásnak az útiokmány-nyilvántartásba történő bejegyzése, illetve a nyilvántartásból történő törlése érdekében.
 
 (3) A bíróság, illetve az ügyész a következő adatokat közli az útlevélhatósággal:
 
@@ -215,20 +219,20 @@ hajtja végre.
 
 (3) Ha az érintett személy menekültként, oltalmazottként vagy menedékesként elismert külföldi terhelt esetében a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére adatközlésre kötelezett bíróság, illetve ügyész a menekültügyi hatóságot értesíti a külföldi érintett személy magyar hatóság által kiállított úti okmányának visszavonása érdekében.
 
-16/D. § (1) A 16. § (1) bekezdés a) és b) pontja szerinti kényszerintézkedésről a bíróság adatot szolgáltat a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti központi szerv (a továbbiakban: központi szerv) részére akkor, ha a kényszerintézkedés elrendelésére
+16/D. § (1) A 16. § (1) bekezdés a) és b) pontja szerinti kényszerintézkedésről a bíróság adatot szolgáltat a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti kijelölt kormányhivatal (a továbbiakban: kijelölt kormányhivatal) részére akkor, ha a kényszerintézkedés elrendelésére
 
 - a) a Büntető Törvénykönyvről szóló 2012. évi C. törvény 314–316. § és 318. §-ában vagy
 - b) a Büntető Törvénykönyvről szóló 1978. évi IV. törvény 261. § (1)–(7) és (9) bekezdésében
 
 meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 
-(2) Az (1) bekezdésben megjelölt bűncselekmények esetében a bíróság értesíti a központi szervet, ha a külföldre utazási korlátozás megszűnt.
+(2) Az (1) bekezdésben megjelölt bűncselekmények esetében a bíróság értesíti a kijelölt kormányhivatalt, ha a külföldre utazási korlátozás megszűnt.
 
-(3) A büntetés-végrehajtási szervezetről szóló törvény szerinti büntetés-végrehajtási intézet (a továbbiakban: bv. szerv) a 16. § (1) bekezdés c) pontjában szereplő esetekben adatot szolgáltat a központi szerv részére, ha a polgárt az (1) bekezdésben megjelölt bűncselekmény elkövetése miatt ítélték el.
+(3) A büntetés-végrehajtási szervezetről szóló törvény szerinti büntetés-végrehajtási intézet (a továbbiakban: bv. szerv) a 16. § (1) bekezdés c) pontjában szereplő esetekben adatot szolgáltat a kijelölt kormányhivatal részére, ha a polgárt az (1) bekezdésben megjelölt bűncselekmény elkövetése miatt ítélték el.
 
-(4) A bv. szerv értesíti a központi szervet, ha a (3) bekezdés szerinti polgár már nem áll külföldre utazás korlátozása hatálya alatt.
+(4) A bv. szerv értesíti a kijelölt kormányhivatalt, ha a (3) bekezdés szerinti polgár már nem áll külföldre utazás korlátozása hatálya alatt.
 
-(5) Az (1) és (3) bekezdésben megjelölt szervek a központi szerv részére megküldik a polgár természetes személyazonosító adatait, valamint – a (3) bekezdés esetében – a külföldre utazási korlátozás megszűnésének várható idejét.
+(5) Az (1) és (3) bekezdésben megjelölt szervek a kijelölt kormányhivatal részére megküldik a polgár természetes személyazonosító adatait, valamint – a (3) bekezdés esetében – a külföldre utazási korlátozás megszűnésének várható idejét.
 
 17. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerv hivatásos állományának tagja, továbbá a katonai szolgálatot teljesítő személy külföldre utazása esetén a rájuk vonatkozó törvények rendelkezéseit is alkalmazni kell.
 
@@ -257,17 +261,33 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 - h) annak jogosultja a külföldre utazási korlátozás alatt áll, a korlátozás időtartama alatt,
 - i) a 19. § (3) bekezdésében foglalt okból visszavonták, vagy
 - j) a használatára jogosult meghalt,
-- k) a körözési nyilvántartási rendszert vezető szerv az okmány adatainak körözési nyilvántartási rendszerbe rögzítéséről a központi szervet elektronikus úton értesítette.
+- k) a körözési nyilvántartási rendszert vezető szerv az okmány adatainak körözési nyilvántartási rendszerbe rögzítéséről a nyilvántartást kezelő szervet elektronikus úton értesítette.
 
 (2) Az úti okmány érvényességét nem érinti, ha a tároló elem nem tartalmazza vagy hibásan tartalmazza a 7. § (2)–(3) bekezdésben foglalt adatokat.
 
-21. § A 20. § (1) bekezdés e) pontjában meghatározott okból érvénytelenné vált hivatalos útlevelet az útlevélhatóság az útlevél visszavonását elrendelő határozatában elveszettnek nyilvánítja és erről a Kormány által kijelölt központi útiokmány-nyilvántartó szervet (a továbbiakban: központi adatkezelő szerv) haladéktalanul értesíti.
+21. § A 20. § (1) bekezdés e) pontjában meghatározott okból érvénytelenné vált hivatalos útlevelet az útlevélhatóság az útlevél visszavonását elrendelő határozatában elveszettnek nyilvánítja és erről a Kormány által kijelölt útiokmány-nyilvántartó szervet (a továbbiakban: adatkezelő szerv) haladéktalanul értesíti.
 
 ### IV. Fejezet — Az eljárás alapvető szabályai
 
 21/A. § (1) Az útlevélhatóság erre irányuló kérelemre a magánútlevelet, a második magánútlevelet, a szolgálati útlevelet, valamint a hajós szolgálati útlevelet soron kívüli, a magánútlevelet, valamint a második magánútlevelet sürgősségi vagy azonnali eljárás keretében adja ki. A magánútlevél, a második magánútlevél, a szolgálati útlevél, valamint a hajós szolgálati útlevél soron kívüli, valamint a magánútlevél és a második magánútlevél sürgősségi, illetve azonnali eljárásban történő kiadásának eljárási szabályait a Kormány rendeletben állapítja meg.
 
 (2) A magánútlevél, valamint a második magánútlevél soron kívüli, azonnali, illetve sürgősségi eljárásban történő kiadásáért az ügyfél az illetékekről szóló törvényben meghatározott illetéken felül igazgatási szolgáltatási pótdíjat köteles fizetni.
+
+21/B. § (1) Az úti okmány iránti kérelem előterjesztésekor – a (2)–(8) bekezdésben meghatározott kivétellel – személyesen kell megjelenni. Az úti okmány iránti kérelem előterjesztésekor – az (5) bekezdésben meghatározott kivétellel – az elektronikus ügyintézésre vonatkozó rendelkezések nem alkalmazhatóak.
+
+(2) A személyes megjelenés kötelezettsége alól a kérelmező nem mentesül, kivéve, ha kiskorú és útlevelének a második biometrikus adatot nem kell tartalmaznia.
+
+(3) Az úti okmány iránti kérelem meghatalmazott útján is előterjeszthető, ha a személyes megjelenést a kérelmező egészségi állapota – a kezelőorvos által kiállított igazolás szerint – nem teszi lehetővé.
+
+(4) Ha a külföldön élő vagy tartózkodó kérelmező útlevélhatóságnál történő személyes megjelenése aránytalan nehézséget okoz, a 7. § (4) bekezdése, valamint a 10. § (1) és (2) bekezdése szerinti kérelmét az útlevélhatósághoz postai úton is benyújthatja. Ebben az esetben a kérelmező személyazonosságát és aláírását az érintett ország gyakorlata szerint erre felhatalmazott külföldi szerv vagy személy hitelesíti. A hitelesítés – nemzetközi egyezmény eltérő rendelkezése hiányában – akkor fogadható el, ha azt a konzuli tisztviselő diplomáciai felülhitelesítéssel látta el.
+
+(5) Ha a kérelmező korábbi úti okmányának kiállítása iránti kérelem benyújtásakor a 32/A. § (1) bekezdés a) pontja alapján a biometrikus adatok tárolásához hozzájárult, a tároló elemet tartalmazó úti okmány elvesztése, eltulajdonítása, megsemmisülése esetén az új úti okmány kiállítása, valamint a második magánútlevél kiállítása iránti kérelem személyes megjelenés, (ideértve a törvényes képviselő vagy meghatalmazott általi képviseletet is) és a biometrikus adatok rendelkezésre bocsátása nélkül, elektronikus kapcsolattartás útján benyújtható az elveszett, eltulajdonított, megsemmisült úti okmány vagy az első magánútlevél érvényességi idején belül. Ebben az esetben az útlevélhatóság által korábban rögzített és kezelt biometrikus adatok felhasználásával kell az útlevelet kiállítani.
+
+(6) Az (5) bekezdés alapján az elveszett, eltulajdonított vagy megsemmisült úti okmány helyett kiállított új úti okmány érvényességi ideje az eredeti úti okmány érvényességének idejével megegyezik.
+
+(7) Az (5) bekezdés alapján kiállított második magánútlevél érvényességi ideje a 9. § (3) bekezdésében meghatározott időtartamig, legfeljebb azonban az első magánútlevél érvényességi idejéig tart.
+
+(8) A kérelmező az úti okmány elvesztésének, eltulajdonításának, megsemmisülésének, illetve megtalálásának tényét – a 32/A. § (1) bekezdés a) pontjában meghatározott hozzájárulástól függetlenül – elektronikus kapcsolattartás útján is bejelentheti.
 
 22. § (1)
 
@@ -289,13 +309,13 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 
 23/B. § (1) Ha törvénnyel kihirdetett nemzetközi szerződés így rendelkezik, a törvénnyel kihirdetett nemzetközi szerződés által meghatározott tartalmú közokiratot a (2)–(4) bekezdés szerinti eljárásrend alapján kell kiállítani.
 
-(2) A Kormány által kijelölt központi államigazgatási szerv (e fejezet alkalmazásában a továbbiakban: központi szerv) a személyesen megjelenő ügyfél (a továbbiakban: kérelmező) kérelmére, törvénnyel kihirdetett nemzetközi szerződés által meghatározott tartalmú közokiratot állít ki. A közokirat kiállításáért igazgatási szolgáltatási díjat kell fizetni.
+(2) A Kormány által kijelölt szerv (e fejezet alkalmazásában a továbbiakban: kijelölt szerv) a személyesen megjelenő ügyfél (a továbbiakban: kérelmező) kérelmére, törvénnyel kihirdetett nemzetközi szerződés által meghatározott tartalmú közokiratot állít ki. A közokirat kiállításáért igazgatási szolgáltatási díjat kell fizetni.
 
 (3) A közokirat – ha a törvénnyel kihirdetett nemzetközi szerződés eltérően nem rendelkezik – tartalmazza
 
 - a) a kérelmező személyiadat- és lakcímnyilvántartásban tárolt természetes személyazonosító adatait,
-- b) a kérelmező által eredetiben bemutatott hatósági erkölcsi bizonyítvány alapján azt a tényt, hogy a kérelmező büntetlen előéletű,
-- c) a kérelmező által eredetiben bemutatott magánútlevél alapján azt a tényt, hogy a kérelmező rendelkezik a visszautazás időpontjában is érvényes magánútlevéllel, valamint
+- b) azt a tényt, hogy a kérelmező büntetlen előéletű,
+- c) azt a tényt, hogy a kérelmező rendelkezik a visszautazás időpontjában is érvényes magánútlevéllel, valamint
 - d) a kérelmező nyilatkozatait arról, hogy a kérelmező
   - da) megfelelő iskolai végzettséggel rendelkezik,
   - db) megfelelő nyelvismerettel rendelkezik, továbbá
@@ -303,13 +323,13 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 
 (4) Ha a kérelmező a szükséges nyilatkozatot nem teszi meg vagy egyéb, a törvénnyel kihirdetett nemzetközi szerződésben meghatározott, a közokirat tartalmi elemeként feltüntetendő feltételt nem teljesít, kérelmét el kell utasítani.
 
-(5) A központi szerv a közokiratokról – az azok felhasználásával kapcsolatos ellenőrzések lefolytatása céljából – közhiteles hatósági nyilvántartást vezet, amely tartalmazza
+(5) A kijelölt szerv a közokiratokról – az azok felhasználásával kapcsolatos ellenőrzések lefolytatása céljából – közhiteles hatósági nyilvántartást vezet, amely tartalmazza
 
 - a) a közokirat számát és kiállításának keltét,
 - b) a kérelmező személyazonosító adatait, valamint
-- c) a közokirat kiállításának alapjául szolgáló okiratok számát (egyedi azonosítóját).
+- c)
 
-(6) A központi szerv az (5) bekezdésben meghatározott adatokat a bejegyzésüktől számított öt évig tartja nyilván.
+(6) A kijelölt szerv az (5) bekezdésben meghatározott adatokat a bejegyzésüktől számított öt évig tartja nyilván.
 
 (7) Az (5) bekezdés szerinti nyilvántartásból – a közrendet, a közbiztonságot, a nemzetbiztonságot veszélyeztető cselekmények megelőzése érdekében, valamint annak megállapítsa céljából, hogy az érintett az adott ország beutazási és tartózkodási szabályait megtartotta-e – adatot igényelhet
 
@@ -320,7 +340,7 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 
 ### V. Fejezet — Adatkezelés és adatszolgáltatás
 
-24. § (1) A központi adatkezelő szerv az útiokmány-nyilvántartásban a következő adatokat kezeli:
+24. § (1) Az adatkezelő szerv az útiokmány-nyilvántartásban a következő adatokat kezeli:
 
 - a) az állampolgár családi és utónevét, születési családi és utónevét, születési helyét, idejét, anyja születési családi és utónevét, továbbá annak megváltozása esetén anyja előző születési családi és utónevét, nemét, állampolgárságát, menekült vagy bevándorolt jogállását (a továbbiakban: személyi adat), külföldre utazásra felhasználható – személyazonosságát igazoló – hatósági igazolványának számát, továbbá értesítési címét, illetve lakcímét,
 - b) az állampolgár arcképmását és saját kezű aláírását, továbbá a 32/A. § (1) bekezdés a) pontjában meghatározott feltételek fennállása esetén az érintett azonosítását valamely fizikai tulajdonságának rögzítésével lehetővé tevő módon előállított személyes adatát,
@@ -337,9 +357,9 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 
 (2) Az (1) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-(3) A központi adatkezelő szerv a személyiadat- és lakcímnyilvántartásban nem szereplő, úti okmánnyal rendelkező magyar állampolgárok (1) bekezdésben meghatározott adatait a központi útiokmány-nyilvántartásban elkülönülten kezeli.
+(3) Az adatkezelő szerv a személyiadat- és lakcímnyilvántartásban nem szereplő, úti okmánnyal rendelkező magyar állampolgárok (1) bekezdésben meghatározott adatait a központi útiokmány-nyilvántartásban elkülönülten kezeli.
 
-24/A. § (1) A központi adatkezelő szerv központi útiokmány-nyilvántartással összefüggő feladat- és hatáskörében:
+24/A. § (1) Az adatkezelő szerv központi útiokmány-nyilvántartással összefüggő feladat- és hatáskörében:
 
 - a) felügyeletet gyakorol a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) közreműködői tevékenysége felett,
 - b) biztosítja a nyilvántartásban kezelt adatok helyességét,
@@ -347,15 +367,15 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 - d) végzi a figyelmeztető jelzés kezelésével kapcsolatos nyilvántartási és adattovábbítási feladatokat, valamint
 - e) működteti a nyilvántartás informatikai rendszerét.
 
-(2) A járási hivatal a 24. § a)–f) pontjában meghatározott, míg a külpolitikáért felelős miniszter a 24. § a)–f), illetve j) és k) pontjában meghatározott adatokról, illetve ezek változásáról elektronikus úton értesíti a központi adatkezelő szervet.
+(2) A járási hivatal a 24. § a)–f) pontjában meghatározott, míg a külpolitikáért felelős miniszter a 24. § a)–f), illetve j) és k) pontjában meghatározott adatokról, illetve ezek változásáról elektronikus úton értesíti az adatkezelő szervet.
 
-25. § A központi adatkezelő szerv az útiokmány-nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg, kivéve, ha e korlátozás alól a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló törvényben meghatározottak szerint egyedi felmentést kap.
+25. § Az adatkezelő szerv az útiokmány-nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg, kivéve, ha e korlátozás alól a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló törvényben meghatározottak szerint egyedi felmentést kap.
 
 26. § (1) Az útlevélhatóság, valamint a konzuli szolgálat közigazgatási hatósági jogkört gyakorló konzuli tisztviselője a kérelmező személyi és lakcímadatai azonosításához, illetve utazási jogosultsága megállapításához adatokat vehet át
 
 - a) a polgárok személyi adatainak és lakcímének nyilvántartásából,
-- b) a központi adatkezelő szervtől a 24. § alapján kezelt adatokból, kivéve a 24. § g) pontjában meghatározott adatokat, valamint
-- c) közvetlenül vagy a központi adatkezelő szerv útján a bűnügyi nyilvántartásból, a rendőrség központi személy-, tárgy- és gépjármű-körözési nyilvántartó rendszeréből és a büntetés-végrehajtás központi nyilvántartásából, valamint a menekültügyi hatóságtól.
+- b) az adatkezelő szervtől a 24. § alapján kezelt adatokból, kivéve a 24. § g) pontjában meghatározott adatokat, valamint
+- c) közvetlenül vagy az adatkezelő szerv útján a bűnügyi nyilvántartásból, a rendőrség központi személy-, tárgy- és gépjármű-körözési nyilvántartó rendszeréből és a büntetés-végrehajtás központi nyilvántartásából, valamint a menekültügyi hatóságtól.
 
 (1a) Az útlevélhatóság a kérelmező anyakönyvi adatainak beszerzése érdekében elektronikus úton, egyedi informatikai alkalmazás igénybevételével közvetlen adathozzáféréssel jogosult adatokat átvenni az elektronikus anyakönyvből.
 
@@ -364,79 +384,79 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 - a) az utazást elrendelő vagy az útlevél kiadására javaslatot tevő szerv, hajós szolgálati útlevél esetében a hajón teljesítendő szolgálatot igazoló gazdálkodó szervezet értesíti az útlevélhatóságot, hogy a hivatalos útlevél használatára jogosult személy jogosultsága megszűnt,
 - b) az útlevélhatóság adatot kérhet a 11. § (3) bekezdésében meghatározott szervtől vagy gazdálkodó szervezettől.
 
-27. § (1) A központi adatkezelő szerv – törvényben meghatározott feladatai ellátása céljából – a 24. § g) pontjában meghatározott adatok kivételével a büntetőügyekben eljáró hatóságoknak, a rendőrségnek, a nemzetbiztonsági szolgálatoknak, a Nemzeti Adó- és Vámhivatal vámszervének és nyomozó hatóságának, a bűnügyi nyilvántartó szervnek, a nyugdíjbiztosítási igazgatási szervnek, az állampolgársági ügyekért felelős miniszternek, az állampolgársági ügyekben eljáró szervnek, az idegenrendészeti hatóságnak, valamint a menekültügyi hatóságnak adhat át adatot.
+27. § (1) Az adatkezelő szerv – törvényben meghatározott feladatai ellátása céljából – a 24. § g) pontjában meghatározott adatok kivételével a büntetőügyekben eljáró hatóságoknak, a rendőrségnek, a nemzetbiztonsági szolgálatoknak, a Nemzeti Adó- és Vámhivatal vámszervének és nyomozó hatóságának, a bűnügyi nyilvántartó szervnek, a nyugdíjbiztosítási igazgatási szervnek, az állampolgársági ügyekért felelős miniszternek, az állampolgársági ügyekben eljáró szervnek, az idegenrendészeti hatóságnak, valamint a menekültügyi hatóságnak adhat át adatot.
 
-(1a) A központi adatkezelő szerv a 24. § d) és h)–k) pontjában meghatározott adatok kivételével a szabálysértési, illetve az előkészítő eljárást folytató hatóságnak adhat át adatot a szabálysértési eljárás alá vont személy személyazonosságának ellenőrzéséhez.
+(1a) Az adatkezelő szerv a 24. § d) és h)–k) pontjában meghatározott adatok kivételével a szabálysértési, illetve az előkészítő eljárást folytató hatóságnak adhat át adatot a szabálysértési eljárás alá vont személy személyazonosságának ellenőrzéséhez.
 
-(1b) A központi adatkezelő szerv a 24. § a) és e) pontjában meghatározott adatokat a Terrorelhárítási Információs és Bűnügyi Elemző Központnak az utasadatok kockázatelemzése céljából átadhatja.
+(1b) Az adatkezelő szerv a 24. § a) és e) pontjában meghatározott adatokat a Terrorelhárítási Információs és Bűnügyi Elemző Központnak az utasadatok kockázatelemzése céljából átadhatja.
 
-(2) A központi adatkezelő szerv – ha törvény másként nem rendelkezik – a 24. § g) pontban meghatározott adatokról adatszolgáltatást nem teljesíthet, ide nem értve az érintett személy 28. § (2a) és (2b) bekezdésben foglalt tájékoztatási jogát, illetve hatósági bizonyítvány iránti igénylését.
+(2) Az adatkezelő szerv – ha törvény másként nem rendelkezik – a 24. § g) pontban meghatározott adatokról adatszolgáltatást nem teljesíthet, ide nem értve az érintett személy 28. § (2a) és (2b) bekezdésben foglalt tájékoztatási jogát, illetve hatósági bizonyítvány iránti igénylését.
 
-(2a) A választási szerv a külön törvényben meghatározott feladatai ellátásához – közvetlen adathozzáféréssel – adatokat vehet át a központi adatkezelő szerv által a 24. § a) és e) pontja alapján kezelt adatállományból.
+(2a) A választási szerv a külön törvényben meghatározott feladatai ellátásához – közvetlen adathozzáféréssel – adatokat vehet át az adatkezelő szerv által a 24. § a) és e) pontja alapján kezelt adatállományból.
 
-(3) A rendőrség határforgalom-ellenőrzést végző szerve a jogosulatlan külföldre utazás megakadályozása, illetve a személyazonosság megállapítása céljából – közvetlen adathozzáféréssel – adatokat vehet át a központi adatkezelő szerv által a 24. § a)–f) és h)–k) pontja alapján kezelt adatállományból. Az adatokat az adatkérőnek az ellenőrzést követően haladéktalanul törölnie kell.
+(3) A rendőrség határforgalom-ellenőrzést végző szerve a jogosulatlan külföldre utazás megakadályozása, illetve a személyazonosság megállapítása céljából – közvetlen adathozzáféréssel – adatokat vehet át az adatkezelő szerv által a 24. § a)–f) és h)–k) pontja alapján kezelt adatállományból. Az adatokat az adatkérőnek az ellenőrzést követően haladéktalanul törölnie kell.
 
-(4) Az útlevélhatóság, illetve a központi adatkezelő szerv a személyiadat- és lakcímnyilvántartás szerve részére a személyazonosító igazolvány kiadására irányuló eljárás során a személyazonosítás céljára a 24. § a)–c), valamint e) és f) pontjában meghatározott adatokat szolgáltathatja.
+(4) Az útlevélhatóság, illetve az adatkezelő szerv a személyiadat- és lakcímnyilvántartás szerve részére a személyazonosító igazolvány kiadására irányuló eljárás során a személyazonosítás céljára a 24. § a)–c), valamint e) és f) pontjában meghatározott adatokat szolgáltathatja.
 
-(5) A központi adatkezelő szerv a jogszabályban meghatározott, lefoglalásra vagy – a körözési nyilvántartási rendszert vezető szerv által az okmány adatainak a körözési nyilvántartási rendszerbe rögzítéséről küldött elektronikus értesítés alapján – büntetőeljárásban bizonyítékként való felhasználásra irányuló figyelmeztető jelzés elhelyezése céljából haladéktalanul a Schengeni Információs Rendszerbe továbbítja a központi útiokmány-nyilvántartásban érvénytelenítésre került hivatalos és magánútlevél törvényben meghatározott adatait, ha az okmány nincs a hatóság, a 20. § (1) bekezdés i) pontja szerinti esetben a szülői felügyeletet gyakorló személy vagy a 20. § (1) bekezdés h) pontja szerinti esetben a visszatartására jogosult szerv birtokában.
+(5) Az adatkezelő szerv a jogszabályban meghatározott, lefoglalásra vagy – a körözési nyilvántartási rendszert vezető szerv által az okmány adatainak a körözési nyilvántartási rendszerbe rögzítéséről küldött elektronikus értesítés alapján – büntetőeljárásban bizonyítékként való felhasználásra irányuló figyelmeztető jelzés elhelyezése céljából haladéktalanul a Schengeni Információs Rendszerbe továbbítja a központi útiokmány-nyilvántartásban érvénytelenítésre került hivatalos és magánútlevél törvényben meghatározott adatait, ha az okmány nincs a hatóság, a 20. § (1) bekezdés i) pontja szerinti esetben a szülői felügyeletet gyakorló személy vagy a 20. § (1) bekezdés h) pontja szerinti esetben a visszatartására jogosult szerv birtokában.
 
-(6) Ha az (5) bekezdés szerinti útlevél időközben megkerült és az okmány megkerülésének tényét a központi útiokmány-nyilvántartásba bejegyezték, vagy a körözési nyilvántartási rendszert vezető szerv az okmánykörözés visszavonásáról, törléséről elektronikus úton küldött értesítést, a központi adatkezelő szerv az (5) bekezdés szerint gondoskodik a továbbított schengeni figyelmeztető jelzés törléséről.
+(6) Ha az (5) bekezdés szerinti útlevél időközben megkerült és az okmány megkerülésének tényét a központi útiokmány-nyilvántartásba bejegyezték, vagy a körözési nyilvántartási rendszert vezető szerv az okmánykörözés visszavonásáról, törléséről elektronikus úton küldött értesítést, az adatkezelő szerv az (5) bekezdés szerint gondoskodik a továbbított schengeni figyelmeztető jelzés törléséről.
 
-(7) Amennyiben az úti okmány megszemélyesítését végző adatfeldolgozó szerv kitöltetlen úti okmány eltűnéséről (elvesztés, eltulajdonítás), illetve az eltűnt kitöltetlen okmány megkerüléséről értesíti a központi adatkezelő szervet, a központi adatkezelő szerv a jogszabályban meghatározott NS.CP Portál felületen keresztül gondoskodik a schengeni figyelmeztető jelzés beviteléről, illetve törléséről.
+(7) Amennyiben az úti okmány megszemélyesítését végző adatfeldolgozó szerv kitöltetlen úti okmány eltűnéséről (elvesztés, eltulajdonítás), illetve az eltűnt kitöltetlen okmány megkerüléséről értesíti az adatkezelő szervet, amely a jogszabályban meghatározott NS.CP Portál felületen keresztül gondoskodik a schengeni figyelmeztető jelzés beviteléről, illetve törléséről.
 
 (8) Az anyakönyvvezető a személyazonosság és állampolgárság ellenőrzése, valamint az elhunyt személy személyazonosság igazolására alkalmas hatósági igazolványának bevonása céljából a 24. § (1) bekezdés a), e) és f) pontjában foglalt adatokat lekérdezheti.
 
 (9) A büntetés-végrehajtási intézet a befogadás során az elítélt személyazonosságának ellenőrzése érdekében – közvetlen adathozzáféréssel – a 24. § (1) bekezdés a), b), e) és f) pontjában meghatározott adatokat átveheti.
 
-(10) A központi adatkezelő szerv az (5) és (6) bekezdés szerinti jelzéskezelési művelet végrehajtásával egyidejűleg gondoskodik az okmányadatok Nemzetközi Bűnügyi Rendőrség Szervezete körözési adatbázisában történő elhelyezéséről, illetve törléséről.
+(10) Az adatkezelő szerv az (5) és (6) bekezdés szerinti jelzéskezelési művelet végrehajtásával egyidejűleg gondoskodik az okmányadatok Nemzetközi Bűnügyi Rendőrség Szervezete körözési adatbázisában történő elhelyezéséről, illetve törléséről.
 
 (11) Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott igénybevételre jogosult szervek a 24. § (1) bekezdésének l) pontjában meghatározott adat közlésével is igényelhetnek adatot az útiokmány-nyilvántartásból.
 
-(12) A központi adatkezelő szerv – a 24. § (1) bekezdésének l) pontjában meghatározott adat alkalmazásával – köteles haladéktalanul adatszolgáltatást teljesíteni az arckép profil nyilvántartás vezetéséért felelős szervnek a személyiadat- és lakcímnyilvántartásban nem szereplő, úti okmánnyal rendelkező magyar állampolgár arcképmás adatának nyilvántartásba vételéről, valamint ezen személy központi útiokmány-nyilvántartásban szereplő arcképmás adatának változásáról.
+(12) Az adatkezelő szerv – a 24. § (1) bekezdésének l) pontjában meghatározott adat alkalmazásával – köteles haladéktalanul adatszolgáltatást teljesíteni az arckép profil nyilvántartás vezetéséért felelős szervnek a személyiadat- és lakcímnyilvántartásban nem szereplő, úti okmánnyal rendelkező magyar állampolgár arcképmás adatának nyilvántartásba vételéről, valamint ezen személy központi útiokmány-nyilvántartásban szereplő arcképmás adatának változásáról.
 
-27/A. § A központi adatkezelő szerv az arckép profil nyilvántartás részére arckép profil létrehozása és nyilvántartásba vétele céljából a személyiadat- és lakcímnyilvántartásban nem szereplő, úti okmánnyal rendelkező magyar állampolgár arcképmását, valamint a 24. § (1) bekezdésének l) pontjában meghatározott adatot átadja.
+27/A. § Az adatkezelő szerv az arckép profil nyilvántartás részére arckép profil létrehozása és nyilvántartásba vétele céljából a személyiadat- és lakcímnyilvántartásban nem szereplő, úti okmánnyal rendelkező magyar állampolgár arcképmását, valamint a 24. § (1) bekezdésének l) pontjában meghatározott adatot átadja.
 
-28. § (1) A (2a) és (2b) bekezdésben meghatározott eltérésekkel a központi adatkezelő szerv természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet részére – az adatfelhasználás céljának és jogalapjának igazolása esetén – adatot szolgáltathat
+28. § (1) A (2a) és (2b) bekezdésben meghatározott eltérésekkel az adatkezelő szerv természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet részére – az adatfelhasználás céljának és jogalapjának igazolása esetén – adatot szolgáltathat
 
 - a) arra vonatkozóan, hogy az érintett személy rendelkezik-e érvényes úti okmánnyal;
 - b) az úti okmány birtokosának családi és utónevéről – ideértve a születési családi és utónevet is –,
 - c) az úti okmány elvesztésének, eltulajdonításának, megsemmisülésének, illetőleg megkerülésének tényéről, valamint
 - d) törvény, illetve az érintett hozzájárulása alapján az adat kezelésére jogosult adatkérő részére az érintett arcképmásáról és saját kezű aláírásáról is, de a személyazonosítást követően ezen adatokat haladéktalanul törölni kell, kivéve, ha az érintett a további adatkezeléshez hozzájárult, vagy azt törvény lehetővé teszi.
 
-(2) A (2a) és (2b) bekezdésben meghatározott eltérésekkel az útlevélhatóság, illetőleg a központi adatkezelő szerv az úti okmány okmányazonosítóját megjelölő kérelmező részére a felhasználás céljának és jogalapjának igazolása nélkül is adatszolgáltatást teljesít az úti okmány kiadásáról, cseréjéről, visszavonásáról, érvényességének, elvesztésének, eltulajdonításának, megsemmisülésének, találásának, megkerülésének tényéről.
+(2) A (2a) és (2b) bekezdésben meghatározott eltérésekkel az útlevélhatóság, illetőleg az adatkezelő szerv az úti okmány okmányazonosítóját megjelölő kérelmező részére a felhasználás céljának és jogalapjának igazolása nélkül is adatszolgáltatást teljesít az úti okmány kiadásáról, cseréjéről, visszavonásáról, érvényességének, elvesztésének, eltulajdonításának, megsemmisülésének, találásának, megkerülésének tényéről.
 
 (2a) Ha a kérelmező saját, az útlevélhatóság által nyilvántartott adatáról kér tájékoztatást, a kérelemre és annak teljesítésére az információs önrendelkezési jogról és az információszabadságról szóló törvény rendelkezéseit kell alkalmazni.
 
 (2b) Ha a kérelmező a saját, az útlevélhatóság által nyilvántartott adatáról hatósági bizonyítvány kiállítását kéri, e törvénynek az adatszolgáltatásra vonatkozó rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a hatósági bizonyítvány kiállítását a kérelmező bármely, az útlevélhatóság által nyilvántartott adatáról kérheti.
 
-(3) Az útlevélhatóság, valamint a központi adatkezelő szerv az általa nyilvántartott adatot statisztikai célra felhasználhatja, abból ilyen célra, személyazonosító adat nélkül adatot szolgáltathat.
+(3) Az útlevélhatóság, valamint az adatkezelő szerv az általa nyilvántartott adatot statisztikai célra felhasználhatja, abból ilyen célra, személyazonosító adat nélkül adatot szolgáltathat.
 
 (4) Az e törvény alapján kezelt személyes adatok külföldi adatkezelő részére – ideértve a nemzetközi szervezeteket is – nemzetközi szerződés alapján továbbíthatók, feltéve, ha az adatkezelés feltételei a külföldi adatkezelőnél minden egyes adatra nézve azonosan teljesülnek.
 
-(5) Ha az adatszolgáltatás iránti kérelemben hatósági bizonyítvány kiállítását nem kérik, az adatszolgáltatás ügyintézési határideje – a kérelem beérkezését követő naptól számított – húsz nap. Az adatszolgáltatás elektronikus ügyintézés útján is teljesíthető.
+(5) Ha az adatszolgáltatás iránti kérelemben hatósági bizonyítvány kiállítását nem kérik, az adatszolgáltatás ügyintézési határideje – a kérelem beérkezését követő naptól számított – húsz nap. Az adatszolgáltatás elektronikus információátadás keretén kívül is teljesíthető.
 
 (6) Az (1), (2) és (2b) bekezdésben meghatározott adatszolgáltatási eljárásért igazgatási szolgáltatási díjat kell fizetni.
 
-(7) A központi adatkezelő szerv a külön törvényben vagy a polgár ügyintézési rendelkezésében meghatározott szervek számára, a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény, illetve a polgár ügyintézési rendelkezése alapján
+(7) Az adatkezelő szerv a külön törvényben vagy a polgár ügyintézési rendelkezésében meghatározott szervek számára, a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény, illetve a polgár ügyintézési rendelkezése alapján
 
 - a) a polgár természetes személyazonosító adatai alapján a polgár útlevele okmányazonosítója titkosított kapcsolati kódjának, illetve
 - b) a polgár útlevelének okmányazonosítója alapján az útlevélben szereplő természetes személyazonosító adatok továbbítására jogosult.
 
-(8) A központi adatkezelő szerv az útlevél kiadásáról szóló döntését követően az útlevél okmány megszemélyesítésével egyidejűleg az útlevél okmányazonosítója alapján kapcsolati kódot képez, majd a titkosított kapcsolati kódot annak típusmegjelölésével a külön törvény szerinti összerendelési nyilvántartásnak az összerendelési bejegyzés újabb kapcsolati kóddal történő kiegészítése céljából átadja.
+(8) Az adatkezelő szerv az útlevél kiadásáról szóló döntését követően az útlevél okmány megszemélyesítésével egyidejűleg az útlevél okmányazonosítója alapján kapcsolati kódot képez, majd a titkosított kapcsolati kódot annak típusmegjelölésével a külön törvény szerinti összerendelési nyilvántartásnak az összerendelési bejegyzés újabb kapcsolati kóddal történő kiegészítése céljából átadja.
 
-29. § (1) Az útlevélhatóság és a központi adatkezelő szerv köteles biztosítani, hogy az állampolgár megismerhesse, hogy mely adatszolgáltatás alanya volt.
+29. § (1) Az útlevélhatóság és az adatkezelő szerv köteles biztosítani, hogy az állampolgár megismerhesse, hogy mely adatszolgáltatás alanya volt.
 
 (2) Az (1) bekezdésben meghatározott tájékoztatás a bíróság, az ügyészség, a nyomozó hatóságok és a nemzetbiztonsági szolgálatok részére teljesített adatszolgáltatás körében – külön törvényben meghatározottak szerint – korlátozható, vagy kizárható.
 
-(3) Az útlevélhatóság, valamint a központi adatkezelő szerv az e törvény alapján teljesített adatszolgáltatásról nyilvántartást vezet, amelyet az adatszolgáltatástól számított öt évig köteles megőrizni.
+(3) Az útlevélhatóság, valamint az adatkezelő szerv az e törvény alapján teljesített adatszolgáltatásról nyilvántartást vezet, amelyet az adatszolgáltatástól számított öt évig köteles megőrizni.
 
 30. § (1) Az útlevélhatóság és a közreműködő szerv a 24. §-ban meghatározott adatok kezelésére az eljárás befejezéséig jogosult.
 
 (2) Az útlevélhatósági eljárásban keletkezett iratokat az úti okmány érvényességi idejének lejártától számított egy évig kell megőrizni, ezt követően azokat az iratkezelésre irányadó jogszabályok szerint selejtezni kell.
 
-31. § (1) A központi adatkezelő szerv a 24. §-ban meghatározott adatokat az úti okmány érvényességi idejének lejártától számított öt évig kezeli.
+31. § (1) Az adatkezelő szerv a 24. §-ban meghatározott adatokat az úti okmány érvényességi idejének lejártától számított öt évig kezeli.
 
-(2) A központi adatkezelő szerv a 16/B. § (3) bekezdésében meghatározott adatokat a külföldre utazást korlátozó ok megszűnését követő egy évig kezeli.
+(2) Az adatkezelő szerv a 16/B. § (3) bekezdésében meghatározott adatokat a külföldre utazást korlátozó ok megszűnését követő egy évig kezeli.
 
 32. § A hivatalos útlevéllel rendelkező állampolgár személyi adatait és a kiadott útlevél adatait
 
@@ -483,13 +503,15 @@ az útlevélnek az arra való jogosultság megszűnését követő bevonásáig 
 - a) az útlevélhatóságokat, feladat- és hatáskörüket, továbbá az úti okmánnyal összefüggő feladatok ellátásában közreműködő szerveket és feladataikat;
 - b) az útlevél kivételével az egyéb úti okmányok fajtáit;
 - c) az eljárás részletes szabályait, valamint az úti okmányok kezelésére vonatkozó rendelkezéseket;
-- d) a törvénnyel kihirdetett nemzetközi szerződések alapján kiállításra kerülő közokiratok kiadásáért és a kiadott közokiratok nyilvántartásáért felelős központi államigazgatási szervet.
+- d) a törvénnyel kihirdetett nemzetközi szerződések alapján kiállításra kerülő közokiratok kiadásáért és a kiadott közokiratok nyilvántartásáért felelős szervet.
+
+(1a) Felhatalmazást kap a Kormány, hogy az adatkezelő szervet rendeletben jelölje ki.
 
 (2) Felhatalmazást kap a külföldre utazás szabályozásáért felelős miniszter – a b) és a d) pont tekintetében a külpolitikáért felelős miniszterrel, a c) pont tekintetében a személyiadat- és lakcímnyilvántartásért felelős miniszterrel egyetértésben – hogy rendeletben határozza meg
 
 - a) a diplomata- és a külügyi szolgálati útlevél kiadására jogosult útlevélhatóság kivételével az útlevélhatóságok székhelyét és illetékességi területét;
 - b) Magyarország útlevelének és egyéb úti okmányainak mintáját, az úti okmány iránti kérelem benyújtására szolgáló formanyomtatvány tartalmát;
-- c) az úti okmányokkal összefüggő adatkezelés részletes szabályait, és kijelölje a központi adatkezelő szervet, valamint kijelölje azokat az adatfeldolgozónak nem minősülő szerveket, amelyek az úti okmányok előállításában közreműködhetnek;
+- c) az úti okmányokkal összefüggő adatkezelés részletes szabályait, valamint kijelölje azokat az adatfeldolgozónak nem minősülő szerveket, amelyek az úti okmányok előállításában közreműködhetnek;
 - d) a külképviseleteknek az útlevél kiadásával, nyilvántartásával kapcsolatos feladatait;
 - e) az adópolitikáért felelős miniszterrel egyetértésben – az útlevél kivételével – az úti okmányok kiadásáért és cseréjéért; valamint az adatszolgáltatásért fizetendő igazgatási szolgáltatási díj összegét, a kedvezmények és mentességek körét;
 - f) az e-közigazgatásért felelős miniszterrel, a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszterrel, valamint az adópolitikáért felelős miniszterrel egyetértésben a magánútlevél, valamint a második magánútlevél soron kívüli, sürgősségi, valamint azonnali kiadásáért fizetendő igazgatási szolgáltatási pótdíj összegét és fizetendő igazgatási szolgáltatási pótdíj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat;
@@ -499,6 +521,8 @@ az útlevélnek az arra való jogosultság megszűnését követő bevonásáig 
 (3) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy rendeletben állapítsa meg az általa kiadott útlevelek kezelésének részletes szabályait.
 
 (4) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a külföldre utazás szabályozásáért felelős miniszterrel egyetértésben a NATO menetparancs (az Észak-atlanti Szerződés tagállamai közötti, fegyveres erőik jogállásáról szóló, 1951. június 19-én, Londonban kelt Megállapodás (NATO-SOFA Megállapodás) III. Cikk 2/b) pontjában meghatározott okmány) alkalmazásával kapcsolatos részletes szabályokat rendeletben állapítsa meg.
+
+41/A. § E törvénynek az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról szóló 2016. évi CXXI. törvénnyel megállapított 8. § (3) bekezdését és 9. § (4) bekezdését a 2017. január 1-jétől igényelt útlevelekre kell alkalmazni.
 
 42. § (1) E törvény 7. § (2)–(4) bekezdése, 20. § (2) bekezdése, valamint 32/A. §-a a tagállamok által kiállított útlevelek és úti okmányok biztonsági jellemzőire és biometrikus elemeire vonatkozó előírásokról szóló, 2004. december 13-i 2252/2004/EK tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 

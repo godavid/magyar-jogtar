@@ -115,7 +115,7 @@ Az Országgyűlés a mérések hazai és nemzetközi egységességének és pont
 
 (3) A hitelesítés tényét a mérőeszközön elhelyezett törvényes tanúsító jel és/vagy hitelesítési bizonyítvány tanúsítja.
 
-(4)
+(4) A mérésügyi szerv által országos illetékességgel hozott elsőfokú döntéssel szemben nincs helye fellebbezésnek.
 
 ### V. Fejezet — Akkreditálás
 

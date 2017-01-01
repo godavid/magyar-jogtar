@@ -89,62 +89,9 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 - a) az elismerést továbbtanulási céllal kéri,
 - b) a kérelem a Harmadik rész hatálya alá tartozik, vagy
 - c) résztanulmányok beszámítását kéri,
-- d) a kérelem a 4. § (4) és (5) bekezdése vagy a III. Fejezet hatálya alá tartozik.
+- d) a kérelem a 4. § (4)–(5) bekezdése vagy a III. Fejezet hatálya alá tartozik.
 
-7. § (1) Az eljárás megindítására irányuló, az eljáró hatósághoz benyújtandó kérelemhez a kérelmezőnek mellékelnie kell
-
-- a) az eredeti bizonyítvány vagy oklevél hiteles másolatát, illetve, kivételesen, az eredeti oklevéllel azonos okirat (pl. másodlat) hiteles másolatát,
-- b) a külföldi oktatási intézmény által kiállított olyan okirat hiteles másolatát (pl. leckekönyvet, ellenőrző könyvet), amely hitelt érdemlően igazolja a tanulmányok időtartamát, és a bizonyítvány vagy oklevél megszerzése érdekében előírt tanulmányi követelmények (a hallgatott tárgyak, vizsgák, szakdolgozatok, államvizsgák stb.) sikeres teljesítését,
-- c) az a) és b) pontban megjelölt okiratok magyar nyelvű hiteles fordítását, és
-- d) ha az eljárásért díjat kell fizetni, annak igazolását, hogy a kérelmező a díjat megfizette.
-
-(2) Az eljáró hatóság felhívhatja a kérelmezőt a (1) bekezdés a) és b) pontjaiban meghatározott okiratok eredetijének bemutatására.
-
-(3) Az eljáró hatóság kivételes méltányosságból felmentheti a kérelmezőt a (1) bekezdésben meghatározott okiratainak benyújtása alól, ha a kérelmező menekült, menedékes vagy befogadott, az elismerést továbbtanulási céllal kéri, és bizonyítja vagy valószínűsíti, hogy okiratai neki fel nem róható okból nem állnak rendelkezésére.
-
-(4) Hiteles fordításnak minősül
-
-- a) az Országos Fordító és Fordításhitelesítő Iroda hiteles fordítása és a hitelesítési záradékával ellátott fordítás,
-- b) a magyar külképviseleti szerv hitelesítési záradékával ellátott fordítás,
-- c) a magyar közjegyző hitelesítési záradékával ellátott fordítás, továbbá
-- d) az a magyar nyelvű fordítás, amely hitelesnek minősül valamely tagállam [28. § (1) bekezdése] joga szerint.
-
-(5) Az eljáró hatóság internetes honlapján közzéteszi azoknak a nyelveknek a felsorolását, amelyek esetében nem hiteles fordítást is elfogad.
-
-(6) Ha az (5) bekezdés szerinti nem hiteles fordítás pontosságával kapcsolatban kétség merül fel, akkor az eljáró hatóság tizenöt napos határidő megállapításával felhívja a kérelmezőt a fordítás pontosítására. Ha a kérelmező a felhívásnak nem tesz eleget, vagy az újabb fordítás sem alkalmas arra, hogy a döntés alapjául szolgáljon, akkor az eljáró hatóság hiteles fordítás beszerzése iránt intézkedik, amelynek a költségeit a kérelmező viseli.
-
-(7) A Harmadik rész szerinti eljárásban az eljáró hatóság angol nyelvű okiratok esetén nem hiteles fordítást is elfogad. Az Oktatási Hivatal a Harmadik rész szerinti eljárásában az angol, a francia és a német nyelvű okiratokat fordítás nélkül is elfogadja.
-
-(8) Hiteles másolatnak minősül
-
-- a) a jogszabály által hitelesnek minősített másolat,
-- b) az eljáró hatóság által az eredeti okiratról készített másolat, továbbá
-- c) az a másolat, amely hitelesnek minősül valamely tagállam joga szerint.
-
-(9) A kérelmező a hazai bizonyítványról, oklevélről és a hazai szakmai gyakorlatról szóló hatósági bizonyítvány kiállítására irányuló kérelmét írásbelinek nem minősülő elektronikus levél útján is benyújthatja.
-
-(10) A kérelmező a Harmadik rész hatálya alá tartozó kérelmét szabályozott elektronikus ügyintézési szolgáltatás igénybevételével is benyújthatja. Az eljáró hatóság azonban lehetővé teheti, hogy a kérelem szabályozott elektronikus ügyintézési szolgáltatás helyett elektronikus aláírással ellátott elektronikus levélben is benyújtható legyen.
-
-8. § (1) Az elismerési és a honosítási eljárás során a kérelmező felhívható arra, hogy a 7. §-ban meghatározott okiratok mellett
-
-- a) mutassa be a bizonyítvány vagy az oklevél megszerzésére irányuló tanulmányait megelőzően folytatott tanulmányainak igazolására szolgáló bizonyítványainak, okleveleinek másolatát, illetve
-- b) nyújtson be olyan, a külföldi oktatási intézmény által kiállított okirat másolatát, amelyből az intézmény, szak tanulmányi rendje, tanulmányi programja megismerhető, ha a kérelem mellékleteként benyújtott okiratok nem nyújtanak elegendő információt az elbírálásához.
-
-(2) Az eljáró hatóság előírhatja, hogy a kérelmezőnek az (1) bekezdés szerinti okiratok hiteles másolatát, illetve hiteles fordítását is be kell nyújtania. Az eljáró hatóság internetes honlapján közzéteszi azoknak a nyelveknek a felsorolását, amelyek esetében nem hiteles fordítást is elfogad.
-
-(3) Amennyiben a kérelmező által benyújtott okiratok valódisága tekintetében kétség merül fel, vagy a kérelmező az oklevél elismeréséhez vagy honosításához szükséges okiratokkal nem rendelkezik, és azok, az eljáró hatóság megítélése szerint általa nem, vagy nehezen szerezhetők be, az eljáró hatóság megkeresést intézhet az illetékes külföldi intézményhez, szervezethez vagy hatósághoz. Ha olyan külföldi bizonyítvány vagy oklevél jogi hatályát kell megállapítani, amelyet valamely, a 2001. évi XCIX. törvénnyel kihirdetett, a felsőoktatási képesítéseknek az európai régióban történő elismeréséről szóló, 1997. április 11-én, Lisszabonban aláírt Egyezményt (a továbbiakban: Lisszaboni Egyezmény) magára nézve kötelezőnek elismerő államban [13. § (1) bekezdés] állítottak ki, az eljáró hatóság a megkeresést a Lisszaboni Egyezmény IX.2. Cikke szerinti külföldi információs központhoz intézi.
-
-(4) Az eljáró hatóság a kérelem alapján jár el. Ha a bizonyítási eljárás során megállapítható, hogy a kérelemben foglaltak szerinti elismerés vagy honosítás feltételei hiányoznak, de más módon történő elismerés vagy honosítás lehetséges, akkor az eljáró hatóság a kérelmezőt kérelme módosításának lehetőségéről tájékoztatja.
-
-(5)–(6)
-
-(7)
-
-(8) Az elismerési és honosítási eljárásban a külföldön kiállított bizonyítvány vagy oklevél magyar külképviseleti hatóság felülhitelesítése nélkül is bizonyító erővel rendelkezik. Ha a külföldi bizonyítvány vagy oklevél hitelessége vagy jogi hatálya nem állapítható meg, az eljáró hatóság előírhatja, hogy a bizonyítványt vagy az oklevelet külföldi illetékes hatóság felülhitelesítse, illetve a kérelmező nyújtson be olyan, külföldi illetékes hatóság által kiállított igazolást, amely tanúsítja, hogy a bizonyítvány vagy az oklevél a kérelmezőt külföldön szabályozott szakma gyakorlására jogosítja fel.
-
-(9) Az e törvény rendelkezései alapján benyújtandó okirat benyújtása helyett az ügyfél az okirat által bizonyítani kívánt tényről kizárólag akkor tehet nyilatkozatot, ha e törvény azt megengedi.
-
-(10) Ha külföldi oktatási intézmény vagy hatóság hazai bizonyítvánnyal vagy oklevéllel kapcsolatban hazai oktatási intézményt vagy hatóságot keres meg, a hazai oktatási intézmény vagy hatóság a megkeresésnek közvetlenül tesz eleget.
+7–8. §
 
 9. § (1) Az eljáró hatóság húsz napon belül hiánypótlásra hívja fel a kérelmezőt, ha a kérelmet nem a jogszabályoknak megfelelően nyújtotta be.
 
@@ -342,52 +289,25 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 ### Az európai uniós jog hatálya alá tartozó elismerés különös eljárási szabályai
 
-23. § (1) Az eljárás megindítására irányuló, az eljáró hatósághoz benyújtandó kérelemhez a kérelmezőnek mellékelnie kell
-
-- a) az állampolgárságát igazoló közokirat másolatát,
-- b) az adott szakma gyakorlásának megkezdésére jogosító, képzés sikeres elvégzését tanúsító okiratainak, szakmai alkalmassági bizonyítványainak, okleveleinek hiteles másolatait és hiteles fordításait,
-- c) a szakmai tapasztalatáról szóló igazolást és ennek hiteles fordítását, amennyiben a szakmai tapasztalat igazolását e törvény előírja, továbbá
-- d) az eljárási díj megfizetését tanúsító okiratot.
-
-(2) A tagállam állampolgárával azonos megítélés alá eső kérelmezőnek – az (1) bekezdésben foglaltakon túl – kérelméhez mellékelnie kell
-
-- a) a tartózkodási jogot igazoló okmány másolatát,
-- b) a kutatási célú tartózkodási engedély másolatát,
-- c) a bevándorlási engedély, illetve a letelepedett jogállást igazoló okmány másolatát.
-
-(3) Az eljáró hatóság előírhatja, hogy a kérelmező a szükséges mértékben szolgáltasson információt tanulmányairól azzal a céllal, hogy meg lehessen állapítani, van-e lényeges eltérés a kérelmező képzése és az előírt hazai képzés között. Amennyiben a kérelmező nem rendelkezik ezekkel az információkkal, az eljáró hatóság megkeresi a származási tagállam segítségnyújtó központját, illetékes hatóságát vagy más illetékes testületét.
+23. § (1)–(3)
 
 (4) E rész hatálya alá tartozó elismerési eljárásra irányuló kérelemnek minősül az európai szakmai kártya létrehozására irányuló kérelem is.
 
-24. § (1) Ha a kérelem a VIII. Fejezet hatálya alá tartozik, a kérelmezőnek mellékelnie kell a szakmai tapasztalatát és annak időtartamát igazoló más tagállami igazolást is.
-
-(2) Ha a kérelem a IX. Fejezet hatálya alá tartozik, az eljáró hatóság előírhatja, hogy a kérelmező mellékeljen olyan más tagállami igazolást, amely azt tanúsítja, hogy a kérelmező képzés sikeres elvégzését tanúsító okirata a IX. Fejezet hatálya alá tartozik.
+24. §
 
 25. § Az eljáró hatóság a kérelmezőt a kérelem kézhezvételétől számított harminc napon belül tájékoztatja a kérelem kézhezvételéről.
 
 ### Valamely tagállamban kiállított okiratokfelhasználása
 
-26. § (1) Az eljáró hatóság a szakma gyakorlásához előírt körülmény megfelelő igazolásaként fogadja el a származási tagállam illetékes hatósága által e körülményről kiállított igazolást, illetve – ha adott tagállamban az adott tényről ilyen hatósági igazolás nem állítható ki – a származási tagállamban arra feljogosított más hatóság vagy szakmai szervezet által hitelesként igazolt nyilatkozatot vagy – ha a származási tagállam jogrendje azt elismeri – esküt.
+26. § (1)–(3)
 
-(2) Ha az eljáró hatóság a kérelmező számára egészségi állapotára vonatkozó igazolás benyújtását írja elő, ennek a kérelmező a származási tagállamban ezek igazolására szolgáló iratok benyújtásával is eleget tehet.
+(4)
 
-(3) Ha a származási tagállam nem írja elő a szakmát gyakorolni szándékozó személynek a (2) bekezdés szerinti követelmény teljesítését, az eljáró hatóság elfogadja a származási tagállam illetékes hatósága által kiállított, a kérelmező egészségi állapotára vonatkozó, a Magyarországon előírt tartalmú igazolást.
-
-(4) Ha valamely szabályozott szakmát Magyarországon csak büntetlen előéletű személy gyakorolhat, a kérelmező ezt a körülményt igazolja.
-
-(5) Ha valamely szabályozott szakmát Magyarországon csak megfelelő pénzügyi helyzet igazolása vagy megfelelő felelősségbiztosítással rendelkezés esetén lehet gyakorolni, az eljáró hatóság ennek igazolásaként elfogadja a más tagállam biztosítóintézetének vagy hitelintézetének az igazolását is, ha az – felelősségbiztosítás esetén a fedezett kockázatok, a kockázatok fedezésére meghatározott összeg vagy annak felső határa, illetve a kockázatviselés esetleges korlátai alapján – a célja és a tartalma tekintetében megfelel a magyar jogszabályok által előírtaknak.
-
-(6) Az e §-ban meghatározott igazolások hiteles fordítása és hiteles másolata az eredeti igazolások kiállítását követő három hónapon belül használható fel a Harmadik Rész szerinti eljárásban.
+(5)–(6)
 
 (7) Az eljáró hatóság, illetve az előzetes ellenőrzést végző hatóság a birtokába került információkat zártan kezeli.
 
-(8) Az eljáró hatóság, illetve az előzetes ellenőrzést végző hatóság megalapozott kétség esetén a kérelmező képzés sikeres elvégzését tanúsító okiratának és más tanúsítványainak hitelességét illetően megkeresést intézhet a származási tagállam illetékes hatóságához. Az eljáró hatóság, illetve az előzetes ellenőrzést végző hatóság abban az esetben is megkeresheti a származási tagállam illetékes hatóságát, ha az kétséges, hogy a kérelmező képzése megfelel-e a minimális képzési követelményeknek.
-
-(9) Ha a képzés sikeres elvégzését tanúsító okiratot valamely tagállamban állították ki, de a képzésre egészben vagy részben valamely más tagállamban került sor, az eljáró hatóság megkeresheti a származási tagállam illetékes hatóságát, amennyiben megalapozott kétség merül fel abban a tekintetben, hogy
-
-- a) a kihelyezett képzést folytató oktatási intézmény elismert oktatási intézménynek minősül-e a származási tagállamban,
-- b) a kihelyezett képzést folytató oktatási intézmény ugyanolyan képzést nyújt-e valamely más tagállamban, mint amilyet ez az oktatási intézmény a származási tagállamban nyújt,
-- c) a kihelyezett képzést folytató oktatási intézmény által kiállított, képzés sikeres elvégzését tanúsító okirat ugyanazokat a szakmai jogosultságokat ruházza-e át, mint amelyeket a teljes egészében a származási tagállam területén folytatott képzés sikeres elvégzéséről kiállított okirat révén szerzett volna a kérelmező.
+(8)–(9)
 
 (10) Megalapozott kétség esetén az eljáró hatóság megkeresi a származási tagállam illetékes hatóságát annak tisztázása érdekében, hogy a kérelmezővel szemben a szakmagyakorlásával összefüggésben fegyelmi büntetést szabtak-e ki, hoztak-e rá nézve a büntetőjogi felelősségét megállapító jogerős ítéletet, vagy hogy tudomást szerezzen bármely egyéb olyan körülményről, amely az e törvény alapján gyakorolt tevékenységek tekintetében következményekkel járhat.
 
@@ -885,27 +805,15 @@ akkor az eljáró hatóság az igazolásban foglalt korlátozásoknak megfelelő
 
 ### XIV. Fejezet — AZ ELJÁRÁS DÍJA
 
-64. § (1) A kérelmezőnek az e törvény I., II., XI. és XII. Fejezete szerinti eljárásért a kérelem benyújtásakor hatályos, jogszabályban megszabott kötelező legkisebb munkabér egynegyedének megfelelő összeget (a továbbiakban: eljárási díj) kell befizetnie az eljáró hatóság számlájára.
+64. § (1)–(3)
 
-(2) Az e törvény II. fejezete szerinti eljárásért, ha továbbtanulási céllal történik, az eljáró hatóság a kérelmező által fizetendő díjat szabhat meg, amely azonban nem haladhatja meg az eljárási díjat.
+(3a)
 
-(3) Az e törvény III., IV. és V. fejezete, valamint Harmadik része szerinti eljárásért az eljárási díj háromszorosát kell befizetni az eljáró hatóság számlájára. Mentes azonban az eljárási díj alól az e törvény X. Fejezete szerinti bejelentés, még abban az esetben is, ha a szolgáltatásnyújtás előzetes ellenőrzés alá tartozik.
+(4)–(8)
 
-(3a) A kérelmezőnek a XI/A. Fejezet szerinti eljárásért a kérelem benyújtásakor hatályos, jogszabályban megszabott kötelező legkisebb munkabér egyharmadának megfelelő összeget kell befizetnie az eljáró hatóság számlájára.
+(8a)
 
-(4) A szakmai vizsga lebonyolításáért az oktatási intézmény a kérelmező által fizetendő díjat szabhat meg, amely azonban nem haladhatja meg az eljárási díj tízszeresét.
-
-(5) A külföldi oktatási intézményben szerzett és Magyarországon nemzetközi szerződéssel vagy jogszabály által a magyar általános iskolai, szakképesítő vagy érettségi bizonyítvánnyal egyenértékűnek elismert bizonyítvány egyenértékűségéről szóló hatósági bizonyítvány kiállításáért az eljárási díj felét kell az eljáró hatóság számlájára befizetni.
-
-(6) Az e §-ban szabályozott díjat a kérelmező részére vissza kell téríteni, ha kérelmét a határozat meghozatala vagy a hatósági bizonyítvány kiállítása előtt visszavonja.
-
-(7) Ha a kérelmező kérelmét olyan módon módosítja, hogy az eljárásért eltérő összegű díjat kell fizetni, mint az eredeti kérelme alapján indult eljárásért, akkor a kérelmezőnek az eljárási díjat ki kell egészítenie a módosított kérelemnek megfelelő eljárási díjra, vagy a különbözetet a kérelmező részére vissza kell téríteni.
-
-(8) Nem kell díjat fizetni a kérelmezőnek, ha résztanulmányai beszámítását kéri.
-
-(8a) Nem kell a kérelmezőnek eljárási díjat fizetnie, ha az európai szakmai kártya birtokosaként a belső piaci információs rendszerben tárolt adatainak kijavítását, kiegészítését, törlését vagy zárolását kéri az eljáró hatóságtól.
-
-(9) Az alkalmassági vizsga lebonyolítója a kérelmező által fizetendő díjat állapíthat meg. A díj nem haladhatja meg az alkalmassági vizsga lebonyolításával kapcsolatban felmerülő tényleges költségeket.
+(9)
 
 (10) Ha a nem tagállami állampolgár kérelmező – ide nem értve a magyar állampolgárt, valamint a tagállami állampolgárral azonos megítélés alá eső személyeket – az eljárásban költségmentesség iránti igényt terjeszt elő, az eljáró hatóság a kérelem megalapozottságának elbírálása céljából – a kérelmező egyidejű tájékoztatása mellett – kereseti, jövedelmi és vagyoni viszonyaira vonatkozó adatok továbbítását igényelheti a központi idegenrendészeti nyilvántartásból.
 
@@ -926,12 +834,13 @@ akkor az eljáró hatóság az igazolásban foglalt korlátozásoknak megfelelő
 
 67. § (1) Felhatalmazást kap a Kormány, hogy rendeletben
 
-- a) jelölje ki a külföldi bizonyítványok és oklevelek elismeréséért, a hazai bizonyítványokról, oklevelekről és a hazai szakmai gyakorlatról szóló hatósági bizonyítvány kiállításáért felelős szervet vagy szerveket, az előzetes ellenőrzést végző hatóságot vagy hatóságokat, a 4/A. §-ban meghatározott segítségnyújtó központot, a riasztási mechanizmusban közreműködő hatóságokat és az európai szakmai kártya létrehozásáért felelős hatóságokat, továbbá
-- b) állapítsa meg azon szabályozott szakmák körét, amelyek esetében a Magyarország területén határon átnyúló szolgáltatást nyújtó a szolgáltatásnyújtást megelőzően bejelentésre kötelezett, illetve azon szakmák körét, amelyek előzetes ellenőrzés alá esnek, továbbá az ilyen bejelentések személyes adatot nem tartalmazó kötelező adattartalmát, a bejelentés megújításának szabályait, a bejelentéssel együtt benyújtandó dokumentumok körét, továbbá a riasztási mechanizmus alá tartozó képesítéseket, valamint közzétegye azon szakmák felsorolását, amelyek esetében az európai szakmai kártyát bevezették.
+- a) jelölje ki a külföldi bizonyítványok és oklevelek elismeréséért, a hazai bizonyítványokról, oklevelekről és a hazai szakmai gyakorlatról szóló hatósági bizonyítvány kiállításáért felelős szervet vagy szerveket, az előzetes ellenőrzést végző hatóságot vagy hatóságokat, a 4/A. §-ban meghatározott segítségnyújtó központot, a riasztási mechanizmusban közreműködő hatóságokat és az európai szakmai kártya létrehozásáért felelős hatóságokat,
+- b) állapítsa meg azon szabályozott szakmák körét, amelyek esetében a Magyarország területén határon átnyúló szolgáltatást nyújtó a szolgáltatásnyújtást megelőzően bejelentésre kötelezett, illetve azon szakmák körét, amelyek előzetes ellenőrzés alá esnek, továbbá az ilyen bejelentések személyes adatot nem tartalmazó kötelező adattartalmát, a bejelentés megújításának szabályait, a bejelentéssel együtt benyújtandó dokumentumok körét, továbbá a riasztási mechanizmus alá tartozó képesítéseket, valamint közzétegye azon szakmák felsorolását, amelyek esetében az európai szakmai kártyát bevezették, továbbá
+- c) határozza meg az elismerési és honosítási eljárásban a kérelemmel benyújtandó dokumentumok körét, e dokumentumok hiteles fordítására és hiteles másolatára vonatkozó szabályokat, a külföldön kiállított okiratok felhasználására, a nemzetközi jogsegélyre vonatkozó szabályokat,
 
 (2) Felhatalmazást kap az oktatásért felelős miniszter, hogy rendeletben hirdesse ki
 
-- a)
+- a) az adópolitikáért felelős miniszterrel egyetértésben a külföldi bizonyítványok és oklevelek elismeréséhez és honosításához, az oklevelekről és bizonyítványokról szóló hatósági bizonyítványok kiállításához kapcsolódó igazgatási szolgáltatási díjak mértékét, valamint a díjak beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat,
 - b) azon hazai szakmai képesítések felsorolását, amelyek esetében az eljáró hatóság maga dönthet arról, hogy a kérelmezőnek alkalmassági vizsgát vagy alkalmazkodási időszakot kell-e teljesítenie,
 - c) a közös képzési keret hatálya alá tartozó szakmák, valamint azon szakmák felsorolását, amelyek esetében közös alkalmassági vizsgát lehet tenni,
 - d) a 34. §-ban, a 35. §-ban és a 36. §-ban meghatározott, a szakmai tapasztalat elismerésének szabályai alá tartozó egyes szakmai tevékenységek felsorolását,

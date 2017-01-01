@@ -192,7 +192,7 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (6) A forgalomba hozatali eljárás ügyintézési határideje a kérelem beérkezését követő naptól számított legfeljebb kettőszáztíz nap. Forgalomba hozatali engedély csak EGT-megállapodásban részes államban letelepedett kérelmezőnek adható. A forgalomba hozatali engedély jogosultja felelős a gyógyszer forgalomba hozataláért. A képviselő kijelölése nem mentesíti a forgalomba hozatali engedély jogosultját a termékért viselt egyéb jogi felelősség alól.
 
-(7) Az (1)–(6) bekezdés szerint kiadott forgalomba hozatali engedély öt évig hatályos. Az engedély – a hatályosság lejártát megelőzően legalább kilenc hónappal benyújtott kérelemre, az előny/kockázat arány újraértékelése alapján – megújítható. A megújítást követően a gyógyszer forgalomba hozatali engedélye korlátlan ideig hatályos, kivéve, ha a gyógyszerészeti államigazgatási szerv úgy dönt, hogy az e bekezdés alapján benyújtott farmakovigilanciával kapcsolatos adatok alapján vagy az adott gyógyszerrel történő betegexpozíció elégtelensége miatt öt évre újítja meg.
+(7) Az (1)–(6) bekezdés szerint kiadott forgalomba hozatali engedély öt évig hatályos. Az engedély – a hatályosság lejártát megelőzően legalább kilenc hónappal benyújtott kérelemre, az előny/kockázat arány újraértékelése alapján – megújítható. A gyógyszerészeti államigazgatási szerv a megújítási kérelmet 90 nap alatt bírálja el. A megújítást követően a gyógyszer forgalomba hozatali engedélye korlátlan ideig hatályos, kivéve, ha a gyógyszerészeti államigazgatási szerv úgy dönt, hogy az e bekezdés alapján benyújtott farmakovigilanciával kapcsolatos adatok alapján vagy az adott gyógyszerrel történő betegexpozíció elégtelensége miatt öt évre újítja meg.
 
 (8)
 
@@ -252,7 +252,7 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (3) A betegtájékoztatót úgy kell megírni és megszerkeszteni, hogy a beteg megfelelően tudja alkalmazni a gyógyszert, szükség esetén az egészségügyi szakember segítségével. A betegtájékoztató szövegének jól olvashatóan, magyar nyelven kell tartalmaznia a külön jogszabályban meghatározott adatokat. Az adatok a magyar nyelven kívül több nyelven is feltüntethetők, amennyiben mindegyik nyelven tartalmilag ugyanazok az információk szerepelnek.
 
-(4) Amennyiben a gyógyszert nem közvetlenül a betegnek való kiadásra szánják, vagy a gyógyszer elérhetőségével kapcsolatban súlyos zavarok merültek fel, vagy a forgalomba hozatali engedélyt a 6. § (1) bekezdése alapján adják ki, és az a betegek egészségét nem veszélyezteti, a gyógyszerészeti államigazgatási szerv eltekinthet attól, hogy a csomagoláson és betegtájékoztatón minden egyes adat feltüntetésre kerüljön, továbbá attól, hogy a betegtájékoztatón szereplő adatok magyar nyelven kerüljenek feltüntetésre.
+(4) Amennyiben a gyógyszert nem közvetlenül a betegnek való kiadásra szánják, vagy a gyógyszer elérhetőségével kapcsolatban súlyos zavarok merültek fel, vagy a forgalomba hozatali engedélyt a 6. § (1) bekezdése alapján adják ki, és az a betegek egészségét nem veszélyezteti, a gyógyszerészeti államigazgatási szerv eltekinthet attól, hogy a csomagoláson és betegtájékoztatón minden egyes adat feltüntetésre kerüljön, továbbá attól, hogy a csomagoláson és a betegtájékoztatón szereplő adatok magyar nyelven kerüljenek feltüntetésre.
 
 (5)
 
@@ -374,7 +374,7 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (4) Az (1) bekezdés szerinti előzetes szakmai értékelést kormányrendeletben kijelölt szakértői szerv végzi.
 
-15/C. § (1) Az új pszichoaktív anyaggá minősítést követő egy éven belül el kell végezni az új pszichoaktív anyag kockázatértékelését, amennyiben azt az Európai Unió Tanácsa vagy az Egészségügyi Világszervezet nem kezdeményezte.
+15/C. § (1) Az új pszichoaktív anyaggá minősítést követő egy éven belül el kell végezni az új pszichoaktív anyag kockázatértékelését a kormányrendeletben meghatározott véleményekre figyelemmel, amennyiben azt az Európai Unió Tanácsa vagy az Egészségügyi Világszervezet nem kezdeményezte.
 
 (2) Ha a vizsgált új pszichoaktív anyagról a magyarországi, európai uniós, vagy az ENSZ szakosodott szervei által végzett kockázatértékelés eredményeképpen bebizonyosodik, hogy hasonló mértékű fenyegetést jelenthet a közegészségügyre, mint az 1. § 4. pontjában meghatározott kábítószerek vagy a pszichotróp anyagokról szóló, Bécsben az 1971. évi február hó 21. napján aláírt egyezmény kihirdetéséről szóló 1979. évi 25. törvényerejű rendelet I–II. jegyzékén, valamint a 2. számú melléklet A) és B) jegyzékén szereplő anyagok, a megfelelő pszichotróp anyag jegyzékre kell felvenni, és meg kell szüntetni az új pszichoaktív anyaggá minősítését.
 
@@ -488,7 +488,7 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 - b) a tudomására jutott adatok arra utalnak, hogy a gyógyszerrel nem érhető el terápiás eredmény,
 - c) a tudomására jutott adatok arra utalnak, hogy a gyógyszerrel kapcsolatban felmerült kockázatok és a gyógyszertől várható előnyök aránya oly módon változott meg, hogy kétségessé vált a biztonságos alkalmazhatóság,
 - d) a gyógyszer mennyiségi és minőségi összetétele nem felel meg a forgalomba hozatali engedélyben meghatározott követelményeknek,
-- e) a gyógyszer összetevőinek ellenőrzését, továbbá a gyártási folyamat közbenső fázisában szükséges ellenőrzést nem végezték el, vagy ha a gyógyszer nem felel meg az egyéb, a gyártási engedély kiállításával vagy a gyógyszer hatóanyagával kapcsolatos követelményeknek vagy kötelezettségeknek,
+- e) a gyógyszer összetevőinek ellenőrzését, továbbá a gyártási folyamat közbenső fázisában szükséges ellenőrzést nem végezték el, vagy ha a gyógyszer nem felel meg az egyéb, a gyártási engedély kiállításával vagy a gyógyszer hatóanyagával kapcsolatos követelményeknek vagy kötelezettségeknek, ideértve, ha a gyógyszer vagy hatóanyagának gyártása nem a helyes gyártási gyakorlatnak megfelelően történt,
 - f) a forgalomba hozatali engedély vagy annak megújítása iránti kérelem alátámasztására benyújtott adatok pontatlanok, vagy nem módosították azokat,
 - g) a forgalomba hozatali engedély jogosultja a forgalomba hozatali engedély módosítását határidőben nem kérelmezi, vagy
 - h) az Európai Bizottságtól érkező kérés teljesítése érdekében az szükséges.
@@ -730,6 +730,10 @@ kérdésében a Polgári Törvénykönyv sérelemdíjra és termékfelelősségr
 
 (6) A díjat a kérelem benyújtásakor, az évenkénti fenntartási díjat a tárgyév január hó 31-ig kell az egészségügyért felelős miniszter rendeletében meghatározott módon a gyógyszerészeti államigazgatási szerv részére megfizetni.
 
+(6a) A gyógyszerészeti államigazgatási szerv a gyógyszer forgalmazását felfüggeszti, ha a forgalomba hozatali engedély jogosultja az (1) bekezdés alapján fennálló fenntartási díj megfizetésére vonatkozó kötelezettségének a (6) bekezdésben foglalt határidőben nem tesz eleget. A fenntartási díj határidőben történő meg nem fizetése miatti felfüggesztés a gyógyszer-nagykereskedőkhöz és az egészségügyi szolgáltatókhoz a felfüggesztés előtt már kiszállított gyógyszereket nem érinti.
+
+(6b) A (6a) bekezdésben meghatározott felfüggesztés a forgalomba hozatali engedély fenntartási díjának megfizetését követően szüntethető meg.
+
 (7) A befizetett díj – jogszabályban foglaltak kivételével – a gyógyszerészeti államigazgatási szerv, valamint az eljárásában jogszabály szerint közreműködő szakhatóság bevétele. A díjak nyilvántartására, elszámolására az államháztartás számviteléről szóló jogszabályokat kell alkalmazni. A befizetett díjból a gyógyszerészeti államigazgatási szerv és a szakhatóság az egészségügyért felelős miniszter rendeletében meghatározott megosztás szerint részesül.
 
 (8) A díjfizetés tárgya tekintetében az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 28. § (2)–(3) bekezdésében foglaltakat, a díjfizetésre kötelezettek tekintetében az Itv. 31. § (1) bekezdés első mondatában foglaltakat kell megfelelően alkalmazni azzal, hogy ahol az Itv. illetéket említ, azon díjat kell érteni.
@@ -743,7 +747,7 @@ kérdésében a Polgári Törvénykönyv sérelemdíjra és termékfelelősségr
   - ab) Magyarországon vagy az aa) alpontban említett országokban forgalomba hozatali engedélyezési eljárás alatt van,
 - b) a gyógyszer alkalmazását a kezelőorvos olyan beteg kezelése érdekében kérelmezi, aki életet veszélyeztető vagy maradandó károsodást okozó betegségben szenved,
 - c) a beteg vagy annak törvényes képviselője az engedélyezés előtti gyógyszeralkalmazáshoz a kockázatokra is kiterjedő tájékoztatáson alapuló írásos beleegyezését adja, és
-- d) az engedélyezés előtti gyógyszeralkalmazáshoz a gyógyszer gyártója hozzájárul és vállalja, hogy a gyógyszert térítésmentesen rendelkezésre bocsátja a kezelés teljes időtartama alatt és garantálja annak minőségét a helyes gyártási gyakorlatnak megfelelően,
+- d) az engedélyezés előtti gyógyszeralkalmazáshoz a gyógyszer gyártója hozzájárul és vállalja, hogy a gyógyszert térítésmentesen rendelkezésre bocsátja a kezelés teljes időtartama alatt, vagy ha az korábban bekövetkezik, a gyógyszer társadalombiztosítási támogatásba történő befogadásáig, és garantálja annak minőségét a helyes gyártási gyakorlatnak megfelelően,
 - e) az engedélyezés előtti gyógyszeralkalmazás nem valósít meg a Gyftv. alapján tiltott kereskedelmi gyakorlatot.
 
 (2) Az engedély iránti kérelemben a kezelőorvosnak indokolnia kell az engedélyezés előtti gyógyszeralkalmazás szükségességét, be kell mutatnia a kezelés menetét, és gondoskodnia kell a beteg biztonságát érintő valamennyi esemény dokumentálásáról és a gyógyszerészeti államigazgatási szerv részére történő jelentéséről.
@@ -778,7 +782,7 @@ kérdésében a Polgári Törvénykönyv sérelemdíjra és termékfelelősségr
 
 (9) Az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályokban meghatározott engedélyezési eljárásokban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
 
-27. § A Ket. 28/B. §-a szerinti elektronikus kapcsolattartás az e törvény 25. § (1)–(6a) bekezdésében, valamint a gyógyszerekkel folytatott nagykereskedelmi és párhuzamos importtevékenységről szóló külön jogszabály 3. § (2)–(3) bekezdéseiben foglalt eljárások kivételével, a gyógyszerészeti és egészségügyi államigazgatási szervnek a gyógyszerekkel, vizsgálati készítményekkel és a gyógyszereknek nem minősülő gyógyhatású anyagokkal és készítményekkel, valamint a helyes laboratóriumi gyakorlat követelményeinek megfelelő vizsgálóhelyekkel és egyedi vizsgálóhelyekkel kapcsolatos hatósági eljárása során a gyógyszerészeti és egészségügyi államigazgatási szerv által működtetett informatikai rendszeren keresztül valósul meg.
+27. § Az elektronikus kapcsolattartás az e törvény 25. § (1)–(6a) bekezdésében, valamint a gyógyszerekkel folytatott nagykereskedelmi és párhuzamos importtevékenységről szóló külön jogszabály 3. § (2)–(3) bekezdéseiben foglalt eljárások kivételével, a gyógyszerészeti és egészségügyi államigazgatási szervnek a gyógyszerekkel, vizsgálati készítményekkel és a gyógyszereknek nem minősülő gyógyhatású anyagokkal és készítményekkel, valamint a helyes laboratóriumi gyakorlat követelményeinek megfelelő vizsgálóhelyekkel és egyedi vizsgálóhelyekkel kapcsolatos hatósági eljárása során a gyógyszerészeti és egészségügyi államigazgatási szerv által működtetett informatikai rendszeren keresztül valósul meg.
 
 28. § Azoknak az anyagoknak a listáját, amelyek nem az 1979. évi 25. törvényerejű rendelettel kihirdetett, a pszichotróp anyagokról szóló, Bécsben, az 1971. évi február hó 21. napján aláírt egyezmény mellékletének I. és II. Jegyzéke alapján minősülnek kábítószerrel egy tekintet alá eső veszélyes pszichotróp anyagnak, a 2. számú melléklet határozza meg.
 
@@ -892,6 +896,8 @@ fizetendő igazgatási szolgáltatási díjak körét és mértékét, valamint 
 - d) a 4-metil-5-(4-metil-fenil)-4,5-dihidrooxazol-2-amin (4,4'-DMAR) és az 1-ciklohexil-4-(1,2-difenil- etil)piperazin (MT-45) ellenőrzési intézkedések alá vonásáról szóló 2015. október 8-ai 2015/1873/EU tanácsi határozat
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
+
+35. § A 2. melléklet tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
 
 ### 1. számú melléklet a 2005. évi XCV. törvényhez
 
@@ -1089,7 +1095,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 | III.I.5. | Gyógyszer-közvetítői tevékenység regisztrációjának módosítása |  |  |  |  |  |  |  | 9 000 |
 | III.J. | Vizsgálati készítmények biztonsági vizsgálatait ellátó laboratóriumok helyszíni ellenőrzése a Helyes Laboratóriumi Gyakorlat szempontjából és az erre vonatkozó bizonylatkiadás |  |  |  |  |  |  |  | 382 500 |
 | III.K. | Magyarországon forgalombahozatali engedéllyel rendelkező gyógyszerkészítmény forgalmazásának, gyártásának rendszeres helyszíni ellenőrzését és annak megfelelőségét igazoló bizonylatkiadása, készítményenként és bizonylatonként |  |  |  |  |  |  |  | 22 500 |
-| III.L. | Szakértői tevékenység végzése, szaktanácsadás, konzultáció óradíja |  |  |  |  |  |  |  | 8 000 |
+| III.L. |  |  |  |  |  |  |  |  |  |
 | III.M. | Gyógyszerkészítménnyé történő átminősítés |  |  |  |  |  |  |  | 405 000 |
 | III.N. | Géntechnológiai engedély |  |  |  |  |  |  |  |  |
 | III.N.1. | Természetes szervezetek géntechnológiával való módosításának engedélyezése: géntechnológiai módosításonként |  |  |  |  |  |  |  | 70 000 |
@@ -1209,6 +1215,19 @@ Azok az anyagok, amelyek az 1979. évi 25. törvényerejű rendelettel kihirdete
 | 76. | AM-1248 azepane isomer |  | adamant-1-yl[1-(1-methylazepan-3-yl)-1H-indol-3-yl] methanone |
 | 77. | ADB-FUBINACA |  | N-[1-(aminocarbonyl)-2,2-dimethylpropyl]-1-[(4-fluorophenyl)methyl]-1H-indazole-3-carboxamide |
 | 78. | MT-45 |  | 1-ciklohexil-4-(1,2-difenil-etil)piperazin |
+| 79. | 4-benzylpiperidine |  | 4-(phenylmethyl)piperidine |
+| 80. | 3,4-dichloromethylphenidate/ 3,4-CTMP |  | methyl-2-(3,4-dichlorophenyl)-2-[piperidin-2-yl]acetate |
+| 81. | A-836,339 |  | N-[3-(2-methoxyethyl)-4,5-dimethyl-1,3-thiazol-2-ylidene]- 2,2,3,3-tetramethylcyclopropane- carboxamide |
+| 82. | MXP, methoxyphenidine, 2-MeO-diphenidine |  | 1-[1-(2-methoxyphenyl)-2-phenylethyl]piperidine |
+| 83. | 3F-phenmetrazine, meta-fluoro- phenmetrazine, meta-F-phenmetrazine |  | 2-(3-fluorophenyl)-3-methylmorpholine |
+| 84. | N-(2-methoxyethyl)-N- (1-methylethyl)-2-(1-pentyl-1H-indol-3-yl)-4-thiazol-methanamine |  | N-(2-methoxyethyl)-N-(1-methylethyl)-2-(1-pentyl-1H-indol-3-yl)-4-thiazol-methanamine |
+| 85. | N,N-diethyl-2-(1-pentyl-1H-indol-3-yl)-4-thiazol- methanamine |  | N,N-diethyl-2-(1-pentyl-1H-indol-3-yl)-4-thiazol-methanamine |
+| 86. | alpha-PBT; alfa-PBT; a-PBT; α-Pyrrolidinobutiothiophenone |  | 2-(Pyrrolidin-1-yl)-1-(thiophen-2-yl)butan-1-one |
+| 87. | Diclazepam, 2-Chlorodiazepam, Ro5-3448 |  | 7-chloro-5-(2-chlorophenyl)-1-methyl-1,3-dihydro-2H- 1,4-benzodiazepin-2-one |
+| 88. | Diphenidine, 1,2- diphenylethylpiperidine; DPD; 1,2-DEP; DIPH |  | 1-(1,2-Diphenylethyl)piperidine |
+| 89. | MTTA; MTA; Mephtetramine |  | 2-[(Methylamino)methyl]-3,4-dihydronaphthalen-1(2H)-one |
+| 90. | Nitracaine |  | 3-(Diethylamino)-2,2-dimethylpropyl 4-nitrobenzoate |
+| 91. | EG-018 |  | (naphthalen-1-yl) (9-pentyl-9H-carbazol-3-yl)-methanone” |
 
 − és az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, amennyiben kémiai szerkezetük alapján azok léteznek, és nem esnek kifejezett kivételes rendelkezés alá;
 

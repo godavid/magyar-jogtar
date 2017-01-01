@@ -83,6 +83,7 @@ a következő törvényt alkotja:
 - 17. mikro-, kis- és középvállalkozás: a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény (a továbbiakban: Kkv. tv.) 3. §-a szerinti mikro-, kis- és középvállalkozás,
 - 18. nonprofit kutatóhely: az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerinti közhasznú szervezetté minősített kutatóhely,
 - 19. projekt: meghatározott kutatás-fejlesztési feladat vagy innovációs folyamat végrehajtására irányuló tevékenység az abban érdekeltek által meghatározott terv alapján,
+- 19a. projektcsoport: a kérelmező által egy adóévben megvalósított és a kérelemben megjelölt azon projektek vagy projektrészek összessége, amelyeket a minősítés szempontjából egy egységnek kell tekinteni,
 - 20. szellemi tulajdon: a szellemi alkotások és egyes teljesítmények, az árujelzők (védjegyek és földrajzi árujelzők), valamint a nyilvánosságra még nem jutott ismeretek tekintetében a vonatkozó törvények, az Európai Unió közvetlenül alkalmazandó jogi aktusai és nemzetközi egyezmények által biztosított jogi oltalom,
 - 21. szellemi alkotás: az az alkotás, műszaki megoldás, amely alkalmas arra, hogy iparjogvédelmi oltalom (szabadalom, használati mintaoltalom, növényfajta-oltalom, formatervezési mintaoltalom, topográfiaoltalom) tárgyát képezze, vagy amely jogszabály erejénél fogva szerzői jogi védelem alatt áll, ideértve azt is, amikor a hasznosítási célok, lehetőségek függvényében a megfelelő oltalom megszerzése helyett e megoldás titokban tartása célszerű,
 - 22. vállalkozás: a Kkv. tv. 19. § 5. pontjában meghatározott vállalkozás.
@@ -172,7 +173,7 @@ rendelkezik.
   - fh) a szabálytalanságok kivizsgálásában,
   - fi) a követelések nyilvántartásában és kezelésében,
 - g) ellátja a kutatás-fejlesztés és innováció területén folyó nemzetközi, illetve európai integrációs együttműködés szakmai feladatait,
-- h) részt vesz a Magyarországnak nyújtott külföldi támogatások kutatás-fejlesztési és innovációs célú felhasználásában és koordinálásában, együttműködik az e célra létrehozott központi hivatallal a kutatás-fejlesztés területén megvalósuló magyarországi befektetések elősegítésében,
+- h) részt vesz a Magyarországnak nyújtott külföldi támogatások kutatás-fejlesztési és innovációs célú felhasználásában és koordinálásában, együttműködik az e célra létrehozott szervvel a kutatás-fejlesztés területén megvalósuló magyarországi befektetések elősegítésében,
 - i) közreműködik az EUROPA 2020 Stratégia „Innovatív Unió” programjának végrehajtásában,
 - j) jogszabály vagy nemzetközi megállapodás alapján ellátja a nemzetközi tudományos és technológiai együttműködésből adódó feladatokat,
 - k) versenyképességük növelése érdekében elősegíti a mikro-, kis- és középvállalkozások innovációs tevékenységét,
@@ -233,7 +234,7 @@ rendelkezik.
 - e) nemzetközi szervezetektől, intézményektől származó támogatások,
 - f) egyéb bevételek.
 
-(2) Az NKFI Alap hosszútávú és éves részletes programstratégiáját az NKFI Hivatal elnökének előterjesztésére a Kormány nyilvános határozatban hagyja jóvá, illetve módosíthatja. Az NKFI Hivatal elnöke ennek megfelelően készíti el, illetve módosítja az NKFI Hivatal előirányzat-felhasználási tervét.
+(2) Az NKFI Alap éves részletes programstratégiáját az NKFI Hivatal elnökének előterjesztésére a Kormány nyilvános határozatban hagyja jóvá, illetve módosíthatja. Az NKFI Hivatal elnöke ennek megfelelően készíti el, illetve módosítja az NKFI Hivatal előirányzat-felhasználási tervét.
 
 13. § (1) Az NKFI Alap terhére közfinanszírozású támogatás – törvényben, kormányrendeletben, kormányhatározatban és nemzetközi szerződésben meghatározott kivétellel – a 12. § (2) bekezdése szerint jóváhagyott programstratégiában foglaltak szerint, pályázat alapján nyújtható. A pályázatokat az e törvényben meghatározottak szerint értékelni kell. A pályázat támogatására az NKFI Hivatal elnöke által összehívott, e törvény szerinti testület tesz javaslatot. A támogatási döntést az NKFI Hivatal elnöke hozza meg.
 
@@ -243,12 +244,12 @@ rendelkezik.
 - b) unikális hazai – a Kormány által jóváhagyott – kutatás-fejlesztési és innovációs infrastrukturális fejlesztések támogatása,
 - c) európai uniós együttműködés keretében megvalósuló – a Kormány által jóváhagyott – kutatás-fejlesztési és innovációs infrastrukturális beruházások támogatása,
 - d) a Kormány által jóváhagyott, az NKFI Alap forrásai terhére megvalósítandóként nevesített, nemzetgazdasági növekedést és a kutatás-fejlesztési és innovációs kapacitásnövekedést elősegítő projektek támogatása,
-- e) az Európai Együttműködő Államok Terve (PECS) programban való részvételhez kapcsolódó befizetési kötelezettség,
+- e) a kutatás-fejlesztés és innováció területén működő nemzetközi szervezetekben, valamint a nemzetközi kutatás-fejlesztési és innovációs konzorciumokban való magyar részvétel tagdíjának és egyéb tagdíj jellegű befizetéseinek a finanszírozása,
 - f) a tudomány-, a kutatás-fejlesztési és az innovációpolitika megalapozását szolgáló elemzések és adatbázisok létrehozása és kezelése,
 - g) az országos kutatás-fejlesztési és innovációs támogatási programok tervezésének megalapozását szolgáló elemzések, tanulmányok, módszertanok, értékelések, koncepciók és stratégiák elkészítése, valamint a támogatási programok monitorozása és értékelése,
 - h) az Elektronikus Információszolgáltatás Nemzeti Program keretében beszerzett tudományos tartalmak, folyóiratok, leíró és egyéb adatbázisok előfizetési díja, valamint az Elektronikus Információszolgáltatás Nemzeti Program működési költsége.
 
-(3) A (2) bekezdés szerinti – a (2) bekezdés b) és c) pontja esetén visszafizetési kötelezettséggel vagy arra tekintet nélkül nyújtandó – közfinanszírozású támogatás, valamint a nemzetközi kutatás-fejlesztési és innovációs konzorciumokban való magyar részvétel egyszeri vagy éves tagdíjának az NKFI Alap terhére történő biztosítására az NKFI Hivatal éves programstratégiája és előirányzat-felhasználási terve a 12. § (2) bekezdésében foglaltak szerint módosítható.
+(3) A (2) bekezdés szerinti – a (2) bekezdés b) és c) pontja esetén visszafizetési kötelezettséggel vagy arra tekintet nélkül nyújtandó – közfinanszírozású támogatás, valamint a nemzetközi kutatás-fejlesztési és innovációs konzorciumokban való magyar részvétel egyszeri vagy éves tagdíjának az NKFI Alap terhére történő biztosítására az NKFI Alap éves programstratégiája és előirányzat-felhasználási terve a 12. § (2) bekezdésében foglaltak szerint módosítható. Az NKFI Hivatal a nemzetközi tagdíjakkal kapcsolatos fizetési kötelezettségét az NKFI Hivatal fejezeti kezelésű előirányzatából vagy az NKFI Alapból teljesíti, az NKFI Alapból megvalósuló kifizetés esetén közvetlen utalással vagy az NKFI Hivatal fejezeti kezelésű előirányzatán keresztül, az NKFI Alapból történő pénzeszközátadás végrehajtásával.
 
 14. § Az NKFI Alap kezelése során felmerülő – így különösen elemzések, koncepciók, támogatási stratégiák, programok, projektek készítésével, pályázatok megismertetésével és elbírálásával, szerződések előkészítésével, megkötésével és lebonyolításával, nyilvántartásuk egyes tárgyi és személyi feltételeivel, valamint az ellenőrzéssel és értékeléssel kapcsolatos – költségeket az NKFI Hivatal az NKFI Alapból finanszírozza. Az NKFI Alap kezelésével kapcsolatos költségek nem haladhatják meg az NKFI Alap tárgyévi eredeti kiadási előirányzatának 4,5%-át, amelynek kezelése az előirányzaton belül elkülönítetten történik.
 
@@ -374,9 +375,9 @@ rendelkezik.
 
 (4) Egy kutatás-fejlesztési pályázatra a támogató döntésnek megfelelően közfinanszírozású támogatás legfeljebb öt évre vehető igénybe.
 
-25. § (1) Az NKFI Alap terhére finanszírozott kutatás-fejlesztési pályázati kiírásáról az NKFI Hivatal elnöke a Kormány által jóváhagyott programstratégia alapján dönt. A pályázati kiírást az NKFI Hivatal teszi közzé, a pályázatokat az NKFI Hivatalhoz kell benyújtani.
+25. § (1) Az NKFI Alap terhére finanszírozott kutatás-fejlesztési pályázat kiírásáról az NKFI Hivatal elnöke dönt. A pályázati kiírást az NKFI Hivatal teszi közzé, a pályázatokat az NKFI Hivatalhoz kell benyújtani.
 
-(2) A pályázatokat formailag az NKFI Hivatal, tartalmilag az NKFI Hivatal által felkért szakterületi kollégiumok (a továbbiakban: Kollégiumok) ellenőrzik. A Kollégiumok javaslata alapján az NKFI Hivatal által megbízott szakértői csoportok a pályázatokat a vonatkozó pályázati kiírás kiválasztási kritériumainak való megfelelőség szempontjából egyenként értékelik és rangsorolják. A szakértői csoportok munkájuk során – a pályázati kiírásban meghatározottak szerint – kikérhetik további anonim szakértők véleményét. A Kollégiumok a szakértői csoportok pályázati értékelési eredményei és rangsorolása alapján tesznek javaslatot az NKFI Hivatal elnökének az egyes pályázatok támogatására.
+(2) A pályázatokat formailag az NKFI Hivatal ellenőrzi, tartalmilag az NKFI Hivatal által felkért szakterületi kollégiumok (a továbbiakban: Kollégiumok) értékelik. A Kollégiumok javaslata alapján az NKFI Hivatal által megbízott szakértői csoportok a pályázatokat a vonatkozó pályázati kiírás kiválasztási kritériumainak való megfelelőség szempontjából egyenként értékelik és rangsorolják. A szakértői csoportok munkájuk során – a pályázati kiírásban meghatározottak szerint – kikérhetik további anonim szakértők véleményét. A Kollégiumok a szakértői csoportok pályázati értékelési eredményei és rangsorolása alapján tesznek javaslatot az NKFI Hivatal elnökének az egyes pályázatok támogatására.
 
 (3) A Kollégiumok elnökét és tagjait az NKFI Hivatal elnöke határozott idejű megbízással kéri fel az adott szakterület kutatóhelyei javaslatainak figyelembevételével azzal, hogy alapkutatásokra vonatkozó pályázatok esetén csak tudományos fokozattal rendelkező személy kérhető fel a Kollégium tagjának. A szakértői csoportok tagjait az NKFI Hivatal az érintett Kollégiumok javaslatainak figyelembevételével határozott idejű megbízással kéri fel.
 
@@ -481,27 +482,45 @@ rendelkezik.
 
 ### VI. Fejezet — A KUTATÁS-FEJLESZTÉSI TEVÉKENYSÉG MINŐSÍTÉSE
 
-36. § (1) A Szellemi Tulajdon Nemzeti Hivatala (a továbbiakban: SZTNH) kérelemre minősíti a kérelemben megjelölt projektet abból a szempontból, hogy az annak tartalmát képező tevékenységek a 3. § szerinti kutatás-fejlesztési tevékenységnek tekinthetők-e.
+36. § (1) A Szellemi Tulajdon Nemzeti Hivatala (a továbbiakban: SZTNH) kérelemre minősíti a kérelemben megjelölt
 
-(2) A minősítési eljárás keretében hozott határozat
+- a) projektet abból a szempontból, hogy az annak tartalmát képező tevékenységek,
+- b) projektcsoportot abból a szempontból, hogy a kérelmező által a projektcsoportba sorolt projektek
 
-- a) a kutatás-fejlesztési tevékenységhez kapcsolódó adó- és járulékkedvezmények érvényesítéséhez, valamint
-- b) a kutatás-fejlesztési támogatási rendszerben a támogatás iránti kérelemben megjelölt kutatás-fejlesztési projekt kutatás-fejlesztési tartalmának igazolására
+a 3. § szerinti kutatás-fejlesztési tevékenységnek tekinthetők-e.
+
+(2) A projekt vagy projektcsoport minősítésére vonatkozó eljárás (a továbbiakban együttesen: minősítési eljárás) keretében hozott határozat
+
+- a) a kutatás-fejlesztési tevékenységhez kapcsolódó adó- és járulékkedvezmények érvényesítéséhez,
+- b)
 
 használható fel.
 
-37. § (1) A minősítési eljárás tárgyát időtartamában pontosan meghatározott és a kérelem benyújtását követően megkezdett projekt vagy projektrész képezheti.
+(3) A kutatás-fejlesztési támogatási rendszerben a minősítési eljárás keretében hozott határozat akkor használható fel, ha a támogató a pályázati felhívásban ezt lehetővé teszi.
 
-(2) Az (1) bekezdés alkalmazásában a minősítés akkor kérelmezhető egy adott projekt egyes részeire, ha azok egyértelműen elválaszthatóak egymástól.
+37. § (1) A minősítési eljárás tárgya
 
-38. § (1) Ha a projekt kutatás-fejlesztésnek minősül, a minősítés – kérelemre – kiterjed arra is, hogy
+- a) az időtartamában pontosan meghatározott és a kérelem benyújtását követően megkezdett projekt vagy projektrész (a továbbiakban: projektminősítési eljárás) vagy
+- b) a projektcsoport (a továbbiakban: projektcsoport-minősítési eljárás).
+
+(2) Projektminősítési eljárás akkor kérelmezhető egy adott projekt egyes részeire, ha azok egyértelműen elválaszthatóak egymástól.
+
+(3) A projektcsoport minősítésének részletes szempontrendszerét az SZTNH – az NKFI Hivatal elnöke véleményének kikérését követően – módszertani útmutatóban határozza meg, amit tájékoztatásul a honlapján közzétesz.
+
+38. § (1) Kérelemre az SZTNH a projektminősítési eljárásban
 
 - a) meghatározza a projekt alapkutatási, alkalmazott kutatási vagy kísérleti fejlesztési tevékenységeinek arányát,
-- b) az adott tevékenységet a kérelmező a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. § 32. pontja szerinti saját tevékenységi körében végzi-e.
+- b) meghatározza, hogy az adott tevékenységet a kérelmező a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. § 32. pontja szerinti saját tevékenységi körében végzi-e.
 
-(2) Az SZTNH által jogerős határozatban kutatás-fejlesztési tevékenységnek minősített projektet más hatóságnak is ilyennek kell tekintenie.
+(2) A projektcsoport-minősítési eljárásban az SZTNH meghatározza, hogy az adott tevékenységet a kérelmező a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. § 32. pontja szerinti saját tevékenységi körében végzi-e.
 
-(3) A minősítési eljárás keretében hozott határozat a hatóságra csak a projektnek a kérelemben foglaltakhoz képest változatlan megvalósítása mellett kötelező. Ha a projekt a kérelemben foglaltakhoz képest másképp valósul meg, a tevékenység a 36. § (2) bekezdés a) pontja szerinti kedvezmények érvényesítése szempontjából új projektnek minősül, amelyre a minősítés hatálya nem terjed ki.
+(3) Az (1) és a (2) bekezdés szerinti kérdésben az SZTNH abban az esetben hoz érdemi döntést, ha a projektminősítési eljárásban vagy a projektcsoport-minősítési eljárásban a projektet vagy a projektcsoportot kutatás-fejlesztésnek minősíti.
+
+(4) A projektcsoport-minősítés hatálya a projektcsoportba tartozó valamennyi projektre kiterjed.
+
+(5) Ha az SZTNH jogerős határozatban kutatás-fejlesztési tevékenységnek minősített valamely projektet vagy a projektcsoportot, a minősítésről hozott határozat köti a 36. § (2) bekezdés a) pontja szerinti eljárásban vagy azzal összefüggő más eljárásban eljáró hatóságot annak megítélése tekintetében, hogy a tevékenység kutatás-fejlesztési tevékenységnek minősül-e.
+
+(6) A projektminősítési eljárás keretében hozott határozat az (5) bekezdés szerinti más hatóságra csak a projektnek a projektminősítési eljárás lefolytatására irányuló kérelemben foglaltakhoz képest változatlan megvalósítása mellett kötelező. Ha a projekt a projektminősítési eljárás lefolytatására irányuló kérelemben foglaltakhoz képest eltérően valósul meg, a tevékenység a 36. § (2) bekezdés a) pontja szerinti kedvezmények érvényesítése szempontjából új projektnek minősül, amelyre a minősítés hatálya nem terjed ki.
 
 39. § (1) Az SZTNH e fejezetben szabályozott eljárására a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) rendelkezéseit a következő eltérésekkel kell alkalmazni:
 
@@ -510,9 +529,10 @@ használható fel.
 - c) az SZTNH a tényeket az ügyfél nyilatkozatai és állításai alapján vizsgálja,
 - d) nem alkalmazhatók a Ket.-nek a közvetítő igénybevételére, a határozat közzétételére, az ügygondnokra, a költségmentességre és a végrehajtásra vonatkozó rendelkezései,
 - e) nincs helye tárgyalás tartásának és közmeghallgatásnak,
-- f) az eljárásban rövid szöveges üzenet útján nincs helye kapcsolattartásnak,
-- g) elektronikus úton írásban csak a 41. §-ban meghatározott esetben, a b) pont szerinti elektronikus űrlap benyújtásakor van helye kapcsolattartásnak,
-- h) a minősítési eljárás ügyintézési határideje harminc nap.
+- f) az eljárásban – tájékoztatás kérése és annak teljesítése kivételével – kapcsolattartásnak csak írásbeli, valamint azonosításhoz kötött elektronikus úton van helye; tájékoztatás azonban nem kérhető és ilyen kérés nem teljesíthető rövid szöveges üzenet útján,
+- g)
+- h) a projektminősítési eljárás ügyintézési határideje harminc nap,
+- i) a projektcsoport-minősítési eljárásban az egyes kijelölt projektek vizsgálatára és ezzel egyidejűleg a projektcsoport minősítésére vonatkozó ügyintézési határidő az egyes kijelölt projektekre vonatkozó külön kérelem benyújtását követő hatvan nap.
 
 (2) Az SZTNH döntéseivel szemben nincs helye fellebbezésnek, újrafelvételi és felügyeleti eljárásnak, valamint ügyészi felhívásnak, az SZTNH-nak a 36. § (1) bekezdésében és a 38. § (1) bekezdésében meghatározott kérdésekben hozott határozatait a Fővárosi Törvényszék – a 40. §-ban foglaltak szerint – nemperes eljárásban vizsgálja felül.
 
@@ -520,7 +540,7 @@ használható fel.
 
 (4) A 36. § (1) bekezdése és a 38. § (1) bekezdése szerinti kérelem benyújtása esetén jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni.
 
-(5) A kutatás-fejlesztési minősítési eljárások tekintetében a Ket. nyelvhasználatra vonatkozó szabályait azzal az eltéréssel kell alkalmazni, hogy az eljárás magyar nyelven és – a Ket. 9. § (3) bekezdése szerinti esetben – nemzetiségi nyelven folyik, a kérelmet magyar nyelven és – a Ket. 9. § (3) bekezdése szerinti esetben – nemzetiségi nyelven kell benyújtani. A kérelem mellékleteként idegen nyelvű beadványokat is be lehet nyújtani, az SZTNH azonban – határidő tűzésével – magyar nyelvű fordítás benyújtását írhatja elő. Hitelesített fordítás benyújtása csak akkor írható elő, ha alappal vonható kétségbe a fordítás pontossága vagy a külföldi okiratban foglaltak valódisága.
+(5) A minősítési eljárások tekintetében a Ket. nyelvhasználatra vonatkozó szabályait azzal az eltéréssel kell alkalmazni, hogy az eljárás magyar nyelven és – a Ket. 9. § (3) bekezdése szerinti esetben – nemzetiségi nyelven folyik, a kérelmet magyar nyelven és – a Ket. 9. § (3) bekezdése szerinti esetben – nemzetiségi nyelven kell benyújtani. A kérelem mellékleteként idegen nyelvű beadványokat is be lehet nyújtani, az SZTNH azonban – határidő tűzésével – magyar nyelvű fordítás benyújtását írhatja elő. Hitelesített fordítás benyújtása csak akkor írható elő, ha alappal vonható kétségbe a fordítás pontossága vagy a külföldi okiratban foglaltak valódisága.
 
 (6) Az (1) bekezdés a) pontjától eltérően, ha a minősítési eljárás megindítására irányuló kérelmet benyújtó ügyfél kéri, a kérelem beérkezését követő naptól számított nyolc napon belül az SZTNH a Ket.-ben meghatározott szabályok szerint értesíti
 
@@ -531,7 +551,7 @@ használható fel.
 
 40. § (1) A bíróság kérelemre megváltoztathatja az SZTNH
 
-- a) 36. § (1) bekezdése szerinti kérelemben megjelölt projekt kutatás-fejlesztési tevékenységnek való minősítése tárgyában hozott határozatát,
+- a) a minősítési eljárásban hozott határozatát,
 - b) 38. § (1) bekezdése szerinti döntését,
 - c) eljárást felfüggesztő végzését,
 - d) kérelmet érdemi vizsgálat nélkül elutasító és az eljárást megszüntető végzését,
@@ -540,23 +560,13 @@ használható fel.
 
 (2) Az SZTNH-nak az (1) bekezdésben nem említett végzése csak az (1) bekezdésben felsorolt döntésekkel szemben előterjesztett keresettel támadható meg. A bíróság az SZTNH döntését megváltoztathatja.
 
-(3) A 39. § (2) bekezdése szerinti nemperes eljárás megindítására irányuló kérelmet a döntés közlésétől számított harminc napon belül az SZTNH-nál kell benyújtani vagy részére a feladás utólagos igazolását lehetővé tevő postai szolgáltatás igénybevételével megküldeni. Az SZTNH a kérelmet az ügy irataival együtt tizenöt napon belül továbbítja a bírósághoz.
+(3) A 39. § (2) bekezdése szerinti nemperes eljárás megindítására irányuló kérelmet a döntés közlésétől számított harminc napon belül az SZTNH-nál kell benyújtani vagy részére a feladás utólagos igazolását lehetővé tevő postai szolgáltatás igénybevételével megküldeni. Az SZTNH a kérelmet az ügy irataival együtt tizenöt napon belül továbbítja a Fővárosi Törvényszékhez kivéve, ha a megtámadott döntést a kérelemben foglaltaknak megfelelően kijavítja, kiegészíti, módosítja vagy visszavonja, valamint, ha a kérelmet a Fővárosi Törvényszékhez való továbbítást megelőzően a kérelmező visszavonta.
 
 (4) Ha az (1) bekezdés szerinti kérelmet elkésetten nyújtották be, az igazolási kérelem tárgyában a bíróság határoz.
 
 (5) A 39. § (2) bekezdése szerinti nemperes eljárásra a polgári perrendtartásról szóló törvény általános szabályait a nemperes eljárásokra irányadó jogszabályokban meghatározott eltérésekkel kell alkalmazni.
 
-41. § (1) A minősítési eljárásban az ügyfél és az SZTNH között elektronikus kapcsolattartásra a (2)–(6) bekezdésben meghatározott esetekben van lehetőség.
-
-(2) A 36. § (1) bekezdése, valamint a 38. § (1) bekezdése szerinti kérelmet – az SZTNH által erre rendszeresített elektronikus űrlap használatával – elektronikus úton is be lehet nyújtani.
-
-(3) A (2) bekezdésben meghatározott, elektronikus úton benyújtott kérelem megérkezéséről az SZTNH – jogszabályban meghatározott módon – elektronikus érkeztető számot tartalmazó automatikus értesítést küld a kérelmezőnek.
-
-(4) Az SZTNH az elektronikus úton benyújtott kérelem megérkezését követően haladéktalanul megvizsgálja, hogy az megfelel-e az elektronikus úton történő kapcsolattartásra vonatkozó jogszabályi követelményeknek.
-
-(5) Elektronikus benyújtás esetén az elektronikus úton benyújtott kérelem az elektronikus érkeztetésről szóló automatikus visszaigazolásnak a kérelmező részére történő elküldésével tekintendő benyújtottnak, kivéve, ha az SZTNH a benyújtott dokumentum értelmezhetetlenségét állapítja meg, és erről az ügyfelet elektronikus levélben értesíti.
-
-(6) Az ügyfél köteles az SZTNH részére visszaigazolni, hogy az (5) bekezdés szerinti, az értelmezhetetlen dokumentumra vonatkozó értesítést megkapta. Ha az ügyfél az értesítés átvételét tizenöt napon belül nem igazolja vissza, az SZTNH postai úton továbbítja számára az értesítést.
+41. § A minősítési eljárásban az SZTNH az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény és e törvény rendelkezései szerint biztosítja az elektronikus ügyintézést.
 
 42. § (1) Az adóhatóság az ellenőrzése során – az adózás rendjéről szóló törvény rendelkezései alapján – szakértőként megkeresheti az SZTNH-t. Ebben az esetben az SZTNH szakértői eljárásának időtartama 45 nap, amely határidő nem hosszabbítható meg.
 
@@ -602,13 +612,15 @@ használható fel.
 
 (2) A 2014. december 31-én a NIH alkalmazásában álló valamennyi személy, továbbá a Miniszterelnökség alkalmazásában álló, a Kutatási és Technológiai Innovációs Alap működtetésének adminisztratív feladatait ellátó személyek tekintetében a kinevezés módosítására a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 58. §-át kell alkalmazni.
 
-47. § (1) A 23. § szerinti informatikai nyilvántartási rendszer létrehozásának vagy ilyen rendszerhez történő csatlakozásnak határideje 2015. december 31.
+47. § (1) A 23. § szerinti informatikai nyilvántartási rendszer létrehozásának vagy ilyen rendszerhez történő csatlakozásnak határideje 2018. december 31.
 
 (2) A költségvetési kutatóhely által alapított vagy részesedésével működő hasznosító vállalkozásra vonatkozó, a 30. §-ban és a 33–35. §-ban foglalt feltételeket a törvény hatálybalépésének időpontjában bejegyzett gazdasági társaságok esetén 2015. december 31-ig kell teljesíteni.
 
 #### 17. Módosító rendelkezések
 
-#### 48–50. §
+48. § Ha az SZTNH az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+
+#### 49–50. §
 
 #### 18. Hatályon kívül helyező rendelkezések
 

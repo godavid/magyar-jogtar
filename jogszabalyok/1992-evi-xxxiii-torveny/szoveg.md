@@ -111,11 +111,11 @@ tervezetét.
 
 6/B. § Ha a közalkalmazott a Magyar Rendvédelmi Kar tagja, akkor a szakszervezeti érdekképviseletére a 6–6/A. § és az Mt. 270–275. §-ában foglaltak helyett a hivatásos szolgálati viszonyban állók szakszervezeti érdekképviseletére vonatkozó szabályokat kell alkalmazni. A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervnél működő szakszervezetek vonatkozásában a munkavállalói érdekképviseleti tagdíjfizetés önkéntességéről szóló 1991. évi XXIX. törvényt nem kell alkalmazni, a rendvédelmi feladatokat ellátó szerv a közalkalmazott illetményéből a szakszervezeti tagdíjat a rendvédelmi feladatokat ellátó szerv és a közalkalmazott erre vonatkozó megállapodása esetén vonja le.
 
-7. § A 6–6/A. §-ban foglaltakat a nemzeti köznevelésről szóló 2011. évi CXC. törvény szerinti állami intézményfenntartó központ tekintetében a következő eltéréssel kell alkalmazni:
+7. § A 6–6/A. §-ban foglaltakat a nemzeti köznevelésről szóló 2011. évi CXC. törvény szerinti tankerületi központ, tankerület tekintetében a következő eltéréssel kell alkalmazni:
 
-- a) a tankerületi igazgató a járási, a megyeközponti tankerületi igazgató a járási továbbá a megyei jelentőségű, közalkalmazottak jogviszonyát érintő kérdésekben az érintett, járási, illetve megyei szinten reprezentatív szakszervezetekkel a járási, illetve a megyei szintű érdekegyeztető fórum keretei között egyeztet,
-- b) járási, megyei szinten azt a szakszervezetet kell reprezentatívnak tekinteni, amelynek közalkalmazotti jogviszonyban álló tagjainak száma eléri a járási tankerület illetékességi területén, illetve a megyeközponti tankerület illetékességi területén az ágazatban foglalkoztatott közalkalmazottak létszámának 10%-át,
-- c) az állami intézményfenntartó központ elnöke a közalkalmazottak jogviszonyát érintő – az ágazati érdekegyeztető fórum hatáskörébe tartozó kérdések kivételével – országos jelentőségű kérdésekben a reprezentatív szakszervezetek elnökeivel kialakított országos egyeztető fórum keretei között egyeztet.
+- a) a tankerületi központ vezetője járási továbbá a megyei jelentőségű, közalkalmazottak jogviszonyát érintő kérdésekben az érintett, járási, illetve megyei szinten reprezentatív szakszervezetekkel a járási, illetve a megyei szintű érdekegyeztető fórum keretei között egyeztet,
+- b) járási, megyei szinten azt a szakszervezetet kell reprezentatívnak tekinteni, amelynek közalkalmazotti jogviszonyban álló tagjainak száma eléri a tankerületi központ illetékességi területén az ágazatban foglalkoztatott közalkalmazottak létszámának 10%-át,
+- c) az oktatási központ elnöke a közalkalmazottak jogviszonyát érintő – az ágazati érdekegyeztető fórum hatáskörébe tartozó kérdések kivételével – országos jelentőségű kérdésekben a reprezentatív szakszervezetek elnökeivel kialakított országos egyeztető fórum keretei között egyeztet.
 
 ### A szakszervezetek, a kollektív szerződés
 
@@ -954,7 +954,7 @@ alapszabadság illeti meg.
 
 (2) A magasabb vezető megbízású közalkalmazottat évi tíz munkanap, a vezető megbízásút évi öt munkanap pótszabadság illeti meg.
 
-(3) A bölcsődékben, a nevelési-oktatási és a pedagógiai szakszolgálati intézményekben, a felsőfokú oktatás keretében, valamint az egészségügyi ágazatban a nevelő, nevelő-oktató, oktató munkát, pedagógiai szakszolgálati tevékenységet végző közalkalmazottakat évi huszonöt munkanap pótszabadság illeti meg, amelyből legfeljebb tizenöt munkanapot a munkáltató nevelő, nevelő-oktató, oktató, illetőleg a neveléssel, oktatással, pedagógiai szakszolgálati tevékenységgel összefüggő munkára igénybe vehet. Az oktatással és neveléssel kapcsolatos munkák körét végrehajtási rendelet állapítja meg.
+(3) A bölcsődékben, mini bölcsődékben, a nevelési-oktatási és a pedagógiai szakszolgálati intézményekben, a felsőfokú oktatás keretében, valamint az egészségügyi ágazatban a nevelő, nevelő-oktató, oktató munkát, pedagógiai szakszolgálati tevékenységet végző közalkalmazottakat évi huszonöt munkanap pótszabadság illeti meg, amelyből legfeljebb tizenöt munkanapot a munkáltató nevelő, nevelő-oktató, oktató, illetőleg a neveléssel, oktatással, pedagógiai szakszolgálati tevékenységgel összefüggő munkára igénybe vehet. Az oktatással és neveléssel kapcsolatos munkák körét végrehajtási rendelet állapítja meg.
 
 (3a) A gyermekvédelmi szakellátási intézményekben, javítóintézetekben jogszabályban meghatározott pedagógus-munkakörben foglalkoztatott közalkalmazottakat évi huszonöt munkanap pótszabadság illeti meg. A pótszabadságból legfeljebb tizenöt munkanapot vehet igénybe a munkáltató
 
@@ -962,7 +962,7 @@ alapszabadság illeti meg.
 - b) a gyermekek, fiatal felnőttek és a velük kapcsolatos intézkedések meghozatala, a számukra nyújtott ellátások meghatározása szempontjából jelentőséggel bíró személyek személyiségállapotának vizsgálatára, pedagógiai megfigyelések és családgondozási, utógondozási feladatok végzésére, és
 - c) az a) és b) pontban foglalt tevékenységgel összefüggő feladatok ellátására.
 
-(4)
+(4) A bölcsődékben, mini bölcsődékben jogszabályban meghatározott pedagógus-munkakörben foglalkoztatott közalkalmazottakat évi huszonöt munkanap pótszabadság illeti meg. A pótszabadságból legfeljebb tizenöt munkanapot vehet igénybe a munkáltató nevelő, nevelő-oktató, illetve a neveléssel-oktatással összefüggő feladatok ellátására.
 
 (5) A föld alatt állandó jelleggel dolgozó, illetve az ionizáló sugárzásnak kitett munkahelyen naponta legalább három órát töltő munkavállalót évenként öt munkanap pótszabadság illeti meg. Ha a közalkalmazott ilyen munkahelyen legalább öt évet eltöltött, évenként tíz munkanap pótszabadságra jogosult.
 
@@ -1108,7 +1108,7 @@ alapszabadság illeti meg.
 
 megfelelő összeg illeti meg.
 
-(10) A garantált illetmény összegét a kerekítés általános szabályai szerint száz forintra kerekítve kell megállapítani.
+(10) A garantált illetmény összegét a kerekítés általános szabályai szerint száz forintra kerekítve kell megállapítani, azzal, hogy a kerekítésre egy alkalommal, a garantált illetmény végösszegének megállapítása során kerül sor.
 
 (11) A (2)–(4) bekezdésben említett illetményrész azon időszak alatt illeti meg a közalkalmazottat, amely alatt a további szakképesítést alkalmazza. Ez az időszak azonban egy hónapnál rövidebb nem lehet.
 
@@ -1184,7 +1184,7 @@ megfelelő összeg illeti meg.
 
 (3) A kiemelkedő, illetőleg tartósan jó munkát végző közalkalmazottat a munkáltató jutalomban részesítheti. Naptári évenként a jutalom összege nem haladhatja meg a kifizetés esedékessége időpontjában a közalkalmazott kinevezés szerinti havi illetménye tizenkétszeresének harminc százalékát.
 
-77/A. §
+77/A. § A közszolgálati tisztviselőkről szóló törvény szerinti célfeladat végrehajtásában a közszolgálati tisztviselőkről szóló törvényben és végrehajtására kiadott rendeletben foglalt feltételekkel és korlátozásokkal a közalkalmazott is részt vehet és a kormánytisztviselőkkel azonos feltételek szerint a célfeladat eredményes végrehajtásáért céljuttatásra jogosult.
 
 77/B. §
 
@@ -1197,6 +1197,8 @@ megfelelő összeg illeti meg.
 - a) huszonöt év közalkalmazotti jogviszony esetén kéthavi,
 - b) harminc év közalkalmazotti jogviszony esetén háromhavi,
 - c) negyven év közalkalmazotti jogviszony esetén öthavi illetményének megfelelő összeg.
+
+(2a) Miniszteri rendeletben meghatározott esetekben a (2) bekezdés alapján a jubileumi jutalom alapjául szolgáló illetmény összegébe a 75. § szerinti, ágazati, szakmai sajátosságokra figyelemmel fizetendő pótlékot is be kell számítani.
 
 (3) Ha a közalkalmazott jogviszonya a 30. § (1) bekezdés d) pontja alapján szűnik meg, részére a megszűnés évében esedékessé váló jubileumi jutalmat az utolsó munkában töltött napon ki kell fizetni.
 
@@ -1392,7 +1394,7 @@ magasabb fizetési fokozatba kell besorolni.
 - d) a felsőoktatási intézményeknél foglalkoztatott, illetve más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében
   - da) a magyar állampolgárság feltételét a közalkalmazotti jogviszony létesítéséhez,
   - db) a gyakornoki idő kikötése alól mentes munkaköröket,
-  - dc) az illetménytöbblet mértékét és juttatásának szabályait,
+  - dc)
   - dd) az 1. számú mellékletben szereplő minősítési szempontokhoz az ágazatba tartozó munkakörhöz kapcsolódó további vagy eltérő szempontokat, illetve az egyes munkakörökben foglalkoztatott közalkalmazott minősítésénél kizárt szempontokat,
   - de) a külön törvényben szabályozott teljesítményértékelés minősítési eredménnyel való egyenértékűsége feltételeit,
   - df) az illetménynövekedés feltételeit azokban az esetekben, amikor a további szakképzettség, illetve szakképesítés hasznosításának mértéke előre nem határozható meg,
@@ -1404,7 +1406,7 @@ magasabb fizetési fokozatba kell besorolni.
   - ed) az 1. számú mellékletben szereplő minősítési szempontokhoz az ágazatba tartozó munkakörhöz kapcsolódó további vagy eltérő szempontokat, illetve az egyes munkakörökben foglalkoztatott közalkalmazott minősítésénél kizárt szempontokat,
   - ee) a teljes munkaidőből kötelezően a munkahelyen töltendő idő tartamát, továbbá az ezen időtartam alatti munkavégzés egyes sajátos szabályait,
   - ef) a tudományos kutatói közalkalmazotti jogviszony létesítésénél a magyar állampolgársággal rendelkezés alóli felmentésnek, a szabad mozgás és tartózkodás jogával rendelkezés alóli felmentésnek a feltételeit, illetve bevándorolt vagy letelepedett státusz feltétele alóli mentesítésnek a feltételét;
-  - eg) az illetménytöbblet mértékét és juttatásának szabályait;
+  - eg)
 - f) a művészeti, a közművelődési és a közgyűjteményi intézményeknél foglalkoztatott, illetve más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében
   - fa) a közalkalmazotti jogviszony létesítésének feltételeként magyar állampolgárság feltételét,
   - fb) a pályázat hivatalos lapban vagy egyéb módon való közzétételét, továbbá a pályázati eljárásban részt vevők körét, a pályázatok elbírálására vonatkozó többletkövetelményeket és az eljárás részletes szabályait,
@@ -1430,6 +1432,8 @@ magasabb fizetési fokozatba kell besorolni.
 - e)
 - f) a magasabb vezető, illetve vezető megbízással rendelkező közalkalmazott vezetői pótlékának mértékét,
 - g) az ágazati, szakmai sajátosságokra tekintettel fizetendő illetménypótlékokat és azok mértékét.
+
+(4a) Felhatalmazást kap a honvédelemért, a büntetés-végrehajtásért, a katasztrófák elleni védekezésért, a polgári nemzetbiztonsági szolgálatok irányításáért és a rendészetért felelős miniszter, hogy rendeletben szabályozza a (4) bekezdés g) pontja alapján megállapításra kerülő, ágazati, szakmai sajátosságokra figyelemmel fizetendő pótlékoknak a jubileumi jutalom alapját képező illetménybe való beszámíthatóságát.
 
 (5) A (4) bekezdésben foglaltakon túlmenően felhatalmazást kap
 
@@ -1545,12 +1549,7 @@ eltöltött időt.
 
 (3)
 
-90. § (1) Gyermekjóléti, gyermekvédelmi intézményben, valamint szociális szolgáltatónál és szociális intézményben történő foglalkoztatás esetén a Kjt. 23. §-ának (1) bekezdésében foglaltaktól eltérően az a közalkalmazott,
-
-- a) aki 2008. december 31-én magasabb vezetői megbízással rendelkezett, 2016. december 31-éig,
-- b) akit 2009. január 1-jét követően bíztak vagy bíznak meg magasabb vezetői feladatok ellátásával, 2013. december 31-éig felsőfokú szakképesítéssel is elláthat magasabb vezetői feladatokat.
-
-(2) Az (1) bekezdés nem alkalmazható, ha a vezetői megbízás mellett ellátandó munkakört külön jogszabály alapján csak felsőfokú végzettséggel lehet betölteni.
+90. §
 
 91. § (1) A munka törvénykönyvéről szóló 2012. évi I. törvény hatálybalépésével összefüggő átmeneti rendelkezésekről és törvénymódosításokról szóló 2012. évi LXXXVI. törvény (a továbbiakban: Mth.) 2–18. §-át a közalkalmazotti jogviszony tekintetében is megfelelően alkalmazni kell.
 
@@ -1592,7 +1591,7 @@ eltöltött időt.
 
 93. § Ha a közalkalmazotti jogviszony 2011. december 31-ét követően szűnik meg, és a munkáltató a felmentést, a munkáltató jogutód nélküli megszűnését vagy a munkavállaló a rendkívüli lemondást a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló törvény, vagy a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló törvény hatálybalépését megelőzően közölte, a közalkalmazott a közléskor hatályos szabályokban foglaltaknak megfelelően, ezt követő közlés esetén a megszűnéskor hatályos szabályokban foglaltaknak megfelelően minősül nyugdíjasnak.
 
-93/A. § A 66. § (1) bekezdésétől eltérően a fizetési osztályok első fizetési fokozatához tartozó illetmény garantált összegét, valamint a növekvő számú fizetési fokozatokhoz tartozó – az első fizetési fokozat garantált illetményére épülő – legkisebb szorzószámokat 2016-ra nézve a 3. melléklet állapítja meg.
+93/A. §
 
 94. § E törvény a Magyar Köztársaság és az Európai Közösségek és azok tagállamai közötti társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás tárgykörében, a Megállapodást kihirdető 1994. évi I. törvény 3. §-ával összhangban az Európai Közösségek következő jogszabályaival összeegyeztethető szabályozást tartalmaz:
 
@@ -1758,29 +1757,6 @@ A felsőoktatási intézményben oktatói, tanári munkakört, valamint a tudom�
 | 55. | Kollégiumi nevelőtanár | 1. | 37 |
 
 ### 3. számú melléklet az 1992. évi XXXIII. törvényhez
-
-#### A közalkalmazotti fizetési osztályok első fizetési fokozata szerinti garantált illetmények havi összege forintban, valamint a fizetési fokozatokhoz tartozó legkisebb szorzószámok 2016. évben
-
-| Fizetési fokozatok | Fizetési osztályok |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| A | B | C | D | E | F | G | H | I | J |
-| 1 | 69 000 | 77 000 | 78 000 | 79 000 | 89 000 | 122 000 | 127 000 | 129 500 | 142 000 | 154 500 |
-| 2 | 1,0175 | 1,0175 | 1,0200 | 1,0250 | 1,0275 | 1,0350 | 1,0350 | 1,0500 | 1,0450 | 1,0600 |
-| 3 | 1,0350 | 1,0350 | 1,0400 | 1,0500 | 1,0550 | 1,0725 | 1,0725 | 1,1000 | 1,1025 | 1,1350 |
-| 4 | 1,0525 | 1,0525 | 1,0650 | 1,0750 | 1,0900 | 1,1100 | 1,1100 | 1,1500 | 1,1675 | 1,2100 |
-| 5 | 1,0700 | 1,0700 | 1,0900 | 1,1000 | 1,1250 | 1,1475 | 1,1475 | 1,2000 | 1,2425 | 1,2850 |
-| 6 | 1,0875 | 1,0875 | 1,1125 | 1,1250 | 1,1600 | 1,1850 | 1,1850 | 1,2600 | 1,3175 | 1,3600 |
-| 7 | 1,1075 | 1,1075 | 1,1375 | 1,1525 | 1,1975 | 1,2225 | 1,2225 | 1,3350 | 1,3925 | 1,4200 |
-| 8 | 1,1275 | 1,1400 | 1,1625 | 1,1875 | 1,2350 | 1,2650 | 1,2725 | 1,4100 | 1,4675 | 1,4825 |
-| 9 | 1,1500 | 1,1725 | 1,1950 | 1,2250 | 1,2725 | 1,3075 | 1,3325 | 1,4850 | 1,5275 | 1,5450 |
-| 10 | 1,1725 | 1,2075 | 1,2300 | 1,2625 | 1,3100 | 1,3675 | 1,3950 | 1,5600 | 1,5875 | 1,6075 |
-| 11 | 1,1950 | 1,2425 | 1,2675 | 1,3000 | 1,3475 | 1,4275 | 1,4575 | 1,6250 | 1,6475 | 1,6700 |
-| 12 | 1,2175 | 1,2775 | 1,3050 | 1,3375 | 1,3775 | 1,4875 | 1,5200 | 1,6900 | 1,7075 | 1,7325 |
-| 13 | 1,2400 | 1,3125 | 1,3425 | 1,3750 | 1,4075 | 1,5475 | 1,5825 | 1,7550 | 1,7775 | 1,8025 |
-| 14 | 1,2625 | 1,3500 | 1,3800 | 1,4125 | 1,4425 | 1,6075 | 1,6450 | 1,8200 | 1,8475 | 1,8725 |
-| 15 | 1,2850 | 1,3875 | 1,4175 | 1,4500 | 1,4775 | 1,6675 | 1,7075 | 1,8850 | 1,9175 | 1,9425 |
-| 16 | 1,3075 | 1,4250 | 1,4550 | 1,4875 | 1,5125 | 1,7275 | 1,7700 | 1,9500 | 1,9875 | 2,0125 |
-| 17 | 1,3300 | 1,4625 | 1,4925 | 1,5250 | 1,5475 | 1,7875 | 1,8325 | 2,0150 | 2,0575 | 2,0825 |
 
 ### 4. számú melléklet az 1992. évi XXXIII. törvényhez
 

@@ -28,11 +28,11 @@ a hitelbiztosítéki nyilvántartásról
 
 (5) A hitelbiztosítéki rendszert úgy kell kialakítani, hogy ha a jogerősen megállapított jogutódlás folytán a hitelbiztosítéki nyilatkozattal érintett fél vagy az állandó képviselő személye változik, a jogutód, illetve képviselője, valamint az új képviselő a korábbi regisztrált felhasználó hitelbiztosítéki rendszerben tárolt adataihoz hozzáférjen.
 
-(6) A MOKK a közigazgatási hatósági ügynek nem minősülő hitelbiztosítéki eljárásaiban is lehetővé teheti a közigazgatási hatósági eljárás általános szabályairól szóló törvény (a továbbiakban: Ket.) szerinti elektronikus kapcsolattartás szabályainak alkalmazását, valamint a szabályozott elektronikus ügyintézési szolgáltatásokról és az állam által kötelezően nyújtandó szolgáltatásokról szóló kormányrendeletben meghatározott szabályozott elektronikus ügyintézési szolgáltatások igénybevételét.
+(6)
 
 4. § (1) Hitelbiztosítéki nyilatkozatot csak a hitelbiztosítéki rendszerben felhasználóként nyilvántartásba vett személy és csak a hitelbiztosítéki rendszerben felhasználóként nyilvántartásba vett személlyel szemben tehet, e törvény szabályai szerint. A hitelbiztosítéki rendszer regisztrált felhasználója a hitelbiztosítéki rendszerben felhasználóként nyilvántartásba vett személy. Hitelbiztosítéki nyilatkozat személyesen vagy képviselő útján tehető, ha a képviselő a hitelbiztosítéki rendszer regisztrált felhasználója.
 
-(2) A felhasználóként történő nyilvántartásba vétel (a továbbiakban: regisztráció) a hitelbiztosítéki rendszer e célra rendszeresített felületén kezdeményezhető. A kérelmezőnek a regisztrációs kérelemben – személyazonosító adatainak megadásán túlmenően – nyilatkoznia kell a felhasználói szabályzat elfogadásáról, vagy – ha azt a MOKK lehetővé teszi – a Ket. szerinti azonosításra visszavezetett dokumentumhitelesítés szabályai szerint kell hitelesítenie. A kérelmezőnek a következő személyes adatait kell megadnia: családi és utónév, születési családi és utónév, anyja születési neve, születési hely és idő, lakcím. A regisztrációs eljárás tekintetében – ha azt a MOKK lehetővé teszi – a Ket. szerinti szabályozott elektronikus ügyintézési szolgáltatások igénybe vehetők.
+(2) A felhasználóként történő nyilvántartásba vétel (a továbbiakban: regisztráció) a hitelbiztosítéki rendszer e célra rendszeresített felületén kezdeményezhető. A kérelmezőnek a regisztrációs kérelemben – személyazonosító adatainak megadásán túlmenően – nyilatkoznia kell a felhasználói szabályzat elfogadásáról, vagy az azonosításra visszavezetett dokumentumhitelesítés szabályai szerint kell hitelesítenie. A kérelmezőnek a következő személyes adatait kell megadnia: családi és utónév, születési családi és utónév, anyja születési neve, születési hely és idő, lakcím.
 
 (3) A regisztrációs kérelem sikeres benyújtása esetén a MOKK a hitelbiztosítéki rendszerhez jogszabályban meghatározott módon hozzáférést biztosít.
 
@@ -86,7 +86,7 @@ a hitelbiztosítéki nyilvántartásról
 - e) lízingbeadói nyilatkozat,
 - f) egyéb, e törvény szerinti nyilatkozat.
 
-(2) A regisztrált felhasználó hitelbiztosítéki nyilatkozatát annak megtételekor minősített elektronikus aláírással és időbélyegzővel látja el, vagy – ha azt a MOKK lehetővé teszi – a Ket. szerinti azonosításra visszavezetett dokumentumhitelesítés szabályai szerint hitelesíti. Elektronikus aláírás alkalmazása esetén kizárólag olyan aláírás-létrehozó adat használható, amelyet a 4. § (2) bekezdése szerinti adatokat tartalmazó kérelem aláírása során használtak, feltéve, hogy az űrlapon így elhelyezett elektronikus aláírás a regisztrált felhasználó hitelbiztosítéki rendszerben rögzített adataival a 4. § (4) bekezdése szerint összerendelésre került. Azonosításra visszavezetett dokumentumhitelesítés alkalmazása esetén a hitelbiztosítéki rendszerben rögzített adataival az azonosításra visszavezetett dokumentumhitelesítés által igazolt természetes azonosító adatai kerülnek összevetésre. A hitelbiztosítéki nyilatkozat megtétele során – ha azt a MOKK lehetővé teszi – a Ket. szerinti szabályozott elektronikus ügyintézési szolgáltatások is igénybe vehetők.
+(2) A regisztrált felhasználó hitelbiztosítéki nyilatkozatát annak megtételekor minősített elektronikus aláírással és időbélyegzővel látja el, vagy az azonosításra visszavezetett dokumentumhitelesítés szabályai szerint hitelesíti. Elektronikus aláírás alkalmazása esetén kizárólag olyan aláírás-létrehozó adat használható, amelyet a 4. § (2) bekezdése szerinti adatokat tartalmazó kérelem aláírása során használtak, feltéve, hogy az űrlapon így elhelyezett elektronikus aláírás a regisztrált felhasználó hitelbiztosítéki rendszerben rögzített adataival a 4. § (4) bekezdése szerint összerendelésre került. Azonosításra visszavezetett dokumentumhitelesítés alkalmazása esetén a hitelbiztosítéki rendszerben rögzített adataival az azonosításra visszavezetett dokumentumhitelesítés által igazolt természetes azonosító adatai kerülnek összevetésre.
 
 (3) A hitelbiztosítéki nyilatkozat megtételekor a nyilatkozatot tevőnek költségtérítést kell fizetnie a MOKK részére. A nyilatkozat akkor tekinthető hatályosan megtettnek, ha a költségtérítés összegét a MOKK javára egy összegben maradéktalanul megfizették vagy azt a MOKK e célra szolgáló számláján jóváírták.
 
@@ -294,4 +294,6 @@ a szerződés alapján megtett hitelbiztosítéki nyilatkozatot, illetve az anna
 
 #### 17. Módosító rendelkezések
 
-35–40. §
+35. § E törvénynek az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról szóló 2016. évi CXXI. törvénnyel megállapított 4. § (2) bekezdését és 7. § (2) bekezdését 2017. december 31-ig csak akkor kell alkalmazni, ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+
+36–40. §

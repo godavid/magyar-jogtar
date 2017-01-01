@@ -941,7 +941,7 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 64. § (1) A Hatóság feladatainak ellátása érdekében együttműködik
 
 - a) a postai piaci versenyt érintő kérdésekben a verseny védelmének következetes érvényre juttatása, továbbá az egységes jogalkalmazás előmozdítása érdekében a Gazdasági Versenyhivatallal,
-- b) a postai szolgáltatások piacával kapcsolatos, felhasználókat érintő ügyekben a külön törvényekben meghatározott hatásköri szabályoknak megfelelően a Nemzeti Fogyasztóvédelmi Hatósággal és a Gazdasági Versenyhivatallal,
+- b) a postai szolgáltatások piacával kapcsolatos, felhasználókat érintő ügyekben a külön törvényekben meghatározott hatásköri szabályoknak megfelelően a fogyasztóvédelmi hatósággal és a Gazdasági Versenyhivatallal,
 - c) a postai szolgáltatások piacával kapcsolatos, a személyes adatok védelmét érintő ügyekben a Nemzeti Adatvédelmi és Információszabadság Hatósággal,
 - d) a 37. § (1) bekezdése alapján az engedély szempontjából figyelembe vett munkajogi jogsértésekkel kapcsolatos ellenőrzési feladatok ellátása érdekében a munkaügyi hatósággal, az állami adóhatósággal, az egyenlő bánásmód követelményének érvényesülését ellenőrző hatósággal, valamint az idegenrendészeti hatósággal,
 - e) a postai szolgáltatásokhoz kapcsolódó pénzforgalmi szolgáltatások vonatkozásában a Felügyelettel.
@@ -954,7 +954,7 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 
 65. § (1) A Hatóság egyes eljárásaiban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) szabályait az egyes eljárástípusok keretében e törvényben meghatározott eltérésekkel alkalmazza.
 
-(2) A Hatóság és a szolgáltató közötti kapcsolattartás kizárólag elektronikus úton, a Ket. elektronikus kapcsolattartásra vonatkozó rendelkezései szerint történik. A bejelentéseket és kérelmeket, továbbá a jogszabály, valamint a jogszabály alapján a Hatóság által előírt adatszolgáltatásokat a szolgáltató a Hatóság által a szabályozott elektronikus ügyintézési szolgáltatásokra vonatkozó rendelkezések szerint rendszeresített elektronikus űrlapon, elektronikus úton terjesztheti elő.
+(2) A Hatóság és a szolgáltató közötti kapcsolattartás kizárólag elektronikus úton történik. A bejelentéseket és kérelmeket, továbbá a jogszabály, valamint a jogszabály alapján a Hatóság által előírt adatszolgáltatásokat a szolgáltató a Hatóság által rendszeresített elektronikus űrlapon terjesztheti elő.
 
 (3) A Hatóság eljárásainak ügyintézési határideje – amennyiben e törvény eltérő szabályokat nem állapít meg – negyvenöt nap, amely indokolt esetben egy alkalommal, legfeljebb harminc nappal meghosszabbítható.
 
@@ -1151,6 +1151,8 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 (2) A 2013. év vonatkozásában az egyetemes postai szolgáltató a méltánytalan többletterhének meghatározására vonatkozó kérelmét a Módtv. hatálybalépését követő 8. napig nyújtja be a miniszternek, aki a Módtv. hatálybalépését követő 15. napig intézkedik a 2013. és 2014. évi méltánytalan többletteher (1) bekezdésben meghatározott részének az egyetemes postai szolgáltató részére előlegként történő átutalásáról. Az egyetemes postai szolgáltató a méltánytalan többletteher összegének megállapítását követő 8 napon belül köteles az előlegnek azt a részét a központi költségvetés részére visszatéríteni, ami meghaladja a méltánytalan többletteher miniszter által megállapított összegét. A 2014. év vonatkozásában az egyetemes postai szolgáltató a méltánytalan többletteherre vonatkozó elszámolást a miniszter részére 2015. június 30-áig nyújtja be.
 
 77/B. § A postai szolgáltatásokról szóló 2012. évi CLIX. törvény módosításáról szóló 2016. évi XII. törvénnyel (a továbbiakban: Módtv.2.) megállapított 53. § (4) bekezdését a Módtv.2. hatálybalépését megelőzően benyújtott, közérdekű adat megismerése iránti igénnyel összefüggésben a Módtv.2. hatálybalépésekor folyamatban lévő eljárásokban, valamint a Módtv.2. hatálybalépését megelőzően megkötött postai szolgáltatási szerződések tekintetében is alkalmazni kell.
+
+77/C. § E törvénynek az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról szóló 2016. évi CXXI. törvénnyel megállapított 65. § (2) bekezdését 2017. december 31-ig csak akkor kell alkalmazni, ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
 #### 50. Felhatalmazó rendelkezések
 

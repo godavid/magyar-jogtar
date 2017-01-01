@@ -80,7 +80,7 @@ támogatása,
 
 a foglalkoztatás első két évében, a d) pont szerinti esetben a foglalkoztatás első három évében igénybe vehető szociális hozzájárulási adókedvezményt érvényesít. Részmunkaidős foglalkoztatott esetén – kivéve a c) és d) pont szerinti esetet – legfeljebb 100 ezer forint arányosan csökkentett része vehető figyelembe. E bekezdés alkalmazásában részmunkaidős foglalkoztatásnak minősül az a foglalkoztatás, amelynek munkaszerződésben meghatározott időtartama nem éri el a betöltött munkakörre érvényes teljes munkaidőt.
 
-(1b) A szakképzési hozzájárulás alapját csökkenti az azon foglalkoztatott természetes személyeknek (munkavállalóknak) a szociális hozzájárulási adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabérének összege, de legfeljebb a kedvezménnyel érintett munkavállalónként havonta 500 ezer forint, amely munkavállalók munkaviszonyára tekintettel a tárgyhónapban a szociális hozzájárulási adó alanya az Eat. 462/F. §-ában meghatározott, kutatók foglalkoztatása után járó 27 százalékos szociális hozzájárulási adókedvezményt érvényesít. Részmunkaidős foglalkoztatott esetén legfeljebb 500 ezer forint arányosan csökkentett része vehető figyelembe. E bekezdés alkalmazásában részmunkaidős foglalkoztatásnak minősül az a foglalkoztatás, amelynek munkaszerződésben meghatározott időtartama nem éri el a betöltött munkakörre érvényes teljes munkaidőt.
+(1b) A szakképzési hozzájárulás alapját csökkenti az azon foglalkoztatott természetes személyeknek (munkavállalóknak) a szociális hozzájárulási adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabérének összege, de legfeljebb a kedvezménnyel érintett munkavállalónként havonta 500 ezer forint, amely munkavállalók munkaviszonyára tekintettel a tárgyhónapban a szociális hozzájárulási adó alanya az Eat. 462/F. §-ában meghatározott, kutatók foglalkoztatása után járó az Eat. 459. § (1) bekezdésében meghatározott adómérték szerinti szociális hozzájárulási adókedvezményt érvényesít. Részmunkaidős foglalkoztatott esetén legfeljebb 500 ezer forint arányosan csökkentett része vehető figyelembe. E bekezdés alkalmazásában részmunkaidős foglalkoztatásnak az a foglalkoztatás minősül, amelynek munkaszerződésben meghatározott időtartama nem éri el a betöltött munkakörre érvényes teljes munkaidőt.
 
 (2) A szakképzési hozzájárulás mértéke a szakképzési hozzájárulás alapjának 1,5 százaléka (a továbbiakban: bruttó kötelezettség).
 
@@ -111,7 +111,7 @@ keretében szervezett szakmai gyakorlattal, ha a szakmai gyakorlatra külső ké
 
 - d) a hozzájárulásra kötelezett saját munkavállalói számára a felnőttképzésről szóló törvényben meghatározott felnőttképzési szerződés és a munka törvénykönyvéről szóló törvény szerinti tanulmányi szerződés vagy a tanulmányok folytatására történő munkáltatói kötelezés alapján megszervezett szakmai vagy nyelvi, valamint egyes – a közúti közlekedéssel összefüggő – hatósági képzéseknek a saját munkavállalók képzésére vonatkozó költségek elszámolásának részletes szabályairól szóló miniszteri rendeletben meghatározott költségeivel,
 - e) a d) pont szerinti teljesítés esetén a bruttó kötelezettség csökkenthető az 5. § ab) pontja szerinti gyakorlati képzésre a 8. § (1) bekezdése alapján számított csökkentő tétel, de legfeljebb a bruttó kötelezettség 16,5 százaléka mértékéig, feltéve, hogy a hozzájárulásra kötelezett
-  - ea) az 5. § ab) alpontja szerint, havonta legalább – a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény 4. § (2)–(6) bekezdése szerinti partner- vagy kapcsolódó vállalkozás esetében együttesen számított – 45 fő tanulószerződéses tanuló gyakorlati képzésével teljesíti részben a hozzájárulási kötelezettségét, és
+  - ea) az 5. § ab) alpontja szerint, az év 1–6. és 9–12. hónapjában legalább – a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény 4. § (2)–(6) bekezdése szerinti partner- vagy kapcsolódó vállalkozás esetében együttesen számított – 30 fő tanulószerződéses tanuló gyakorlati képzésével teljesíti részben a hozzájárulási kötelezettségét, és
   - eb) az elszámolt képzésről a jogszabályban előírt adatszolgáltatást az állami szakképzési és felnőttképzési szervhez a 9. § (1) bekezdés c) pontjában meghatározott határidőig teljesítette. A határidő elmulasztása esetén igazolási kérelem benyújtásának helye nincs.
 
 6. § Az a hozzájárulásra kötelezett, aki hozzájárulási kötelezettségének nem, részben vagy időszakosan tesz eleget az 5. § szerinti gyakorlati képzés szervezésével, valamint az 5. § d) pontja szerinti saját munkavállalói részére szervezett képzéssel, a bruttó kötelezettségét vagy a 9. § (1) bekezdés c) pontja szerinti nettó kötelezettségét az állami adóhatóságnál vezetett számlára történő befizetéssel teljesíti.
@@ -223,7 +223,7 @@ az állami adóhatóságtól – a 9. § (1), (4) és (5) bekezdése szerinti el
 - f) a szakképesítésért felelős miniszter által fenntartott szakképző iskolák fejlesztésére felhasználható keretösszeget,
 - g) az állami fenntartású szakképző iskolák felnőttoktatási tevékenységének támogatására szolgáló keretösszeget,
 - h) a központi keretösszeget,
-- i) a 19/A. § (2) bekezdés b) pontja és (3) bekezdése szerinti feladatokra elkülönített keretösszeget,
+- i)
 - j) az állami fenntartású szakképző iskolák működési költségéhez való hozzájárulásra biztosítható keretösszeget,
 - k) a szakképzésről szóló 2011. évi CLXXXVII. törvény 24/A. § (6) bekezdése alapján a Szakképzési Hídprogramban részt vevő tanuló részére ösztöndíj formájában nyújtott támogatásra, és a pedagógus pótlék biztosítására szolgáló keretösszeget.
 
@@ -306,18 +306,13 @@ használható fel.
 
 (17) Az alaprész központi keretéből támogatás nyújtható a szomszédos államokban élő magyarokról szóló törvény szerinti szomszédos államban működő, magyar nyelvű szakképző iskolában folytatott képzésnek az állami szakképzési és felnőttképzési szerv koordinációjával megvalósuló fejlesztésére.
 
-19/A. § (1) A pályázati eljárás alapján nyújtható támogatások esetén a pályáztatás lebonyolítását az állami szakképzési és felnőttképzési szerv végzi.
+(18) Az alaprész központi keretéből támogatás nyújtható az állami szakképzési és felnőttképzési szerv részére a Nemzeti Szakképzési és Felnőttképzési Tanács működtetésével, valamint szakképzési és felnőttképzési szaklapok szerkesztésével, kiadásával összefüggő feladataira.
 
-(2) Az állami szakképzési és felnőttképzési szervet
+(19) A WorldSkills és EuroSkills versenyeken érmet szerző magyar versenyzőket – az eredmények elismeréseként, miniszteri rendeletben meghatározottak szerint – díjazás illeti meg, amelyhez a pénzügyi forrást az alaprész központi keretéből szükséges biztosítani.
 
-- a) a pályázati eljárás keretében nyújtott támogatások esetén a pályáztatás lebonyolításával összefüggő feladatai ellátására a pályázati támogatási keretösszegből a keretösszeg 1%-a illeti meg,
-- b) az alaprész eredeti költségvetési kiadási előirányzatának
-  - ba) 0,3%-a illeti meg az alaprészből nyújtható szakképzési és felnőttképzési célú támogatások jogszabályban meghatározott ellenőrzési feladatai ellátására,
-  - bb) 0,2%-a illeti meg a saját munkavállalók képzésére vonatkozó költségek elszámolásának részletes szabályairól szóló miniszteri rendeletben meghatározott feladatai ellátására,
-  - bc) 0,6%-a illeti meg az engedéllyel rendelkező felnőttképzést folytató intézmények felnőttképzési törvény alapján megvalósított képzéseinek ellenőrzésével összefüggő feladatai ellátására,
-  - bd) 0,5%-a illeti meg a Nemzeti Szakképzési és Felnőttképzési Tanács működtetési, valamint a szakképzési és felnőttképzési szaklapok szerkesztésével és kiadásával összefüggő feladatai ellátására.
+19/A. § (1) A pályázati eljárás alapján nyújtható támogatások esetén a pályáztatás lebonyolítását az állami szakképzési és felnőttképzési szerv végzi. A pályáztatás lebonyolításával összefüggő feladatai ellátására a pályázati támogatási keretösszegből legfeljebb a keretösszeg 1%-a biztosítható az állami szakképzési és felnőttképzési szerv részére.
 
-(3) A WorldSkills és EuroSkills versenyeken érmet szerző magyar versenyzőket – az eredmények elismeréseként, miniszteri rendeletben meghatározottak szerint – díjazás illeti meg.
+(2)–(3)
 
 (4)–(6)
 
@@ -372,7 +367,7 @@ használható fel.
 
 (2) Felhatalmazást kap a szakképzésért és felnőttképzésért felelős miniszter, hogy – az államháztartásért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben – rendeletben állapítsa meg
 
-- a) az alaprészből a 12. § d), h), és i) pontja szerinti célra nyújtott támogatásokkal összefüggésben a támogatás és díjazás mértékére, feltételeire, folyósítására, valamint a támogatás felhasználásáról történő elszámolásra és ellenőrzésre, továbbá a támogatásra irányuló pályázatok kiírására és elbírálására vonatkozó szabályokat,
+- a) az alaprészből a 12. § d) és h) pontja szerinti célra nyújtott támogatásokkal összefüggésben a támogatás és díjazás mértékére, feltételeire, folyósítására, valamint a támogatás felhasználásáról történő elszámolásra és ellenőrzésre, továbbá a támogatásra irányuló pályázatok kiírására és elbírálására vonatkozó szabályokat,
 - b) az alaprészből felnőttképzési célra nyújtott támogatások részletes szabályait,
 - c) a 31. § (2) bekezdése szerinti adatszolgáltatás részletes szabályait,
 - d) a saját munkavállalók képzésére vonatkozó költségek elszámolásának részletes szabályait,

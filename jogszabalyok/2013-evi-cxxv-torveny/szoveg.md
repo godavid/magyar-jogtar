@@ -40,7 +40,7 @@ terjed ki.
 
 3. § (1) A kérelmező hulladékgazdálkodási közszolgáltatási tevékenységét a minősítő a szolgáltatás biztonsága és a szolgáltatás színvonala alapján minősítési osztályba sorolja, továbbá előírja a hulladékgazdálkodási közszolgáltatási tevékenység végzésével összefüggő feltételeket.
 
-(1a) A minősítőt a minősítési eljárásban a céginformáció beszerzése során a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény szerinti közigazgatási szervnek kell tekinteni.
+(1a)
 
 (2) A minősítő a kérelmezőt csak a kérelemben megjelölt minősítési osztályba sorolhatja.
 
@@ -58,7 +58,7 @@ terjed ki.
 
 #### 4. Minősítési eljárás
 
-4. § (1) A kérelmező a minősítési eljárást a hatóság által rendszeresített – a (2) bekezdésben meghatározott adattartalmú – formanyomtatvány benyújtásával kérelmezi. A kérelem szóbeli benyújtásának nincs helye. A kérelmet és mellékleteit a kérelmező egy papír alapú példányban nyújtja be a minősítő részére. A kérelmező a kérelmet és mellékleteit a minősítő részére elektronikus adathordozón is megküldi.
+4. § (1) A kérelmező a minősítési eljárást a hatóság által rendszeresített – a (2) bekezdésben meghatározott adattartalmú – formanyomtatvány benyújtásával kérelmezi. A kérelem szóbeli benyújtásának nincs helye.
 
 (2) A kérelem tartalma:
 
@@ -96,7 +96,7 @@ terjed ki.
 
 (5) A kérelmezőnek csatolnia kell a kérelemhez – a (3) és (4) bekezdésben foglaltak mellett – az 5. mellékletben meghatározott környezetvédelmi bírságfizetési kötelezettség hiányáról szóló nyilatkozatát és a 2–4. mellékletben meghatározott környezetirányítási programokat.
 
-(6) A kérelmet, továbbá a kérelmező törvényes vagy meghatalmazott képviselőjétől származó, az (5) bekezdésben meghatározott nyilatkozatot eredeti példányban kell benyújtani.
+(6) A kérelmet, továbbá a kérelmező törvényes vagy meghatalmazott képviselőjétől származó, az (5) bekezdésben meghatározott nyilatkozatot eredeti vagy hiteles másolati példányban kell benyújtani.
 
 (7) A 2–4. mellékletben meghatározott környezetirányítási program minimális tartalma:
 
@@ -201,7 +201,7 @@ olyan változás következik be, amely a kiadott minősítési engedély adatán
 
 (2) Ha a kérelmező az (1) bekezdés szerinti felszólítás ellenére sem tesz eleget határidőben az adatváltozás bejelentésére vonatkozó kötelezettségének, a bírság ismételten kiszabható.
 
-15/A. § A minősítő által beszedett bírság, késedelmi kamat és késedelmi pótlék az államháztartásról szóló 2011. évi CXCV. törvény 14. § (4) bekezdés d) pontja szerinti fejezet javára elszámolandó költségvetési bevételt képez.
+15/A. §
 
 #### 10. A minősítési engedély visszavonása
 
@@ -261,7 +261,9 @@ foglalt felhívásnak határidőn belül nem tesz eleget.
 
 23. § A törvény tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv szerinti előzetes bejelentése megtörtént.
 
-24–25. §
+24. § E törvénynek az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról szóló 2016. évi CXXI. törvénnyel megállapított 4. § (1) és (6) bekezdését 2017. december 31-ig csak akkor kell alkalmazni, ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+
+25. §
 
 26. § (1)–(4)
 

@@ -266,11 +266,16 @@ végzi.
 
 (2) A szolgáltatás nyújtása csak a kizárás alapjául szolgáló helyzet fennállásáig függeszthető fel, annak megszűnését követően a felhasználó részére a földgázelosztási szolgáltatást a megszűnés tényéről való tudomásszerzéstől számított 2 munkanapon – lakossági fogyasztó esetében 24 órán – belül biztosítani kell.
 
-(3) A földgázelosztó a felhasználási helyre való bejutás érdekében a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalához (a továbbiakban: járási hivatal) fordulhat, amennyiben a felhasználó akadályozza vagy meghiúsítja:
+(3) A földgázelosztó a felhasználási helyre való bejutás érdekében a járásbírósághoz fordulhat, amennyiben a felhasználó akadályozza vagy meghiúsítja:
 
 - a) a fogyasztásmérő berendezés leolvasását, ellenőrzését, cseréjét,
 - b) szerződésszegés vagy szerződés nélküli vételezés esetén a földgázelosztási szolgáltatásból történő felfüggesztést,
 - c) a felhasználói berendezés ellenőrzését.
+
+(3a) A földgázelosztó akkor kezdeményezheti a felhasználási helyre való bejutás biztosítása iránti nemperes eljárást, ha
+
+- a) a felhasználót a felhasználási helyre történő bejutás lehetőségének biztosítására legalább két alkalommal írásban felhívta, és
+- b) az adott felhasználási helyre történő bejutási kísérlete sikertelen volt.
 
 (4) A járási hivatal határozatában
 
@@ -279,6 +284,16 @@ végzi.
 - c) a felhasználói berendezés ellenőrzésének
 
 a tűrésére és együttműködésre vonatkozó kötelezettséget állapíthat meg.
+
+(5) A nemperes eljárásban bírósági titkár első fokon önállóan eljárhat.
+
+(6) A nemperes eljárásban a bíróság elsődlegesen a rendelkezésre álló iratok és adatok alapján dönt.
+
+(7) A bíróság – ha a döntéséhez szükséges – a feleket meghallgathatja és a felek indítványára további bizonyítást rendelhet el.
+
+(8) A polgári nemperes eljárásban nincs helye perújításnak és felülvizsgálatnak.
+
+(9) A polgári nemperes eljárásra egyebekben a polgári perrendtartásról szóló 1952. évi III. törvény – a nemperes eljárás sajátosságaiból eredő eltérésekkel – megfelelően irányadó.
 
 17. § (1) A földgázelosztó az e törvény rendelkezéseinek végrehajtásáról szóló jogszabályban meghatározottak szerint nyilvántartja az elosztóvezetékről vételező felhasználási helyek azonosítóit, fogyasztásmérő berendezése adatait, mérési és elszámolási adatait, valamint kapacitás adatait, amelyeket a felhasználási helyen vételező felhasználó vagy az általa megnevezett földgázkereskedő kérésére köteles átadni.
 
@@ -2373,7 +2388,7 @@ bármilyen módon való elidegenítése vagy átruházása esetén.
 - c)
 - d) a nemzetbiztonság, a honvédelem és a közbiztonság védelme, továbbá a közvádas bűncselekmények üldözése céljából az arra hatáskörrel rendelkező nemzetbiztonsági szerveknek, nyomozó hatóságoknak, az ügyésznek, valamint a bíróságnak,
 - e) a bírósági végrehajtásról szóló 1994. évi LIII. törvény előírásai szerint a végrehajtónak,
-- f) a Nemzeti Fogyasztóvédelmi Hatóságnak,
+- f) a fogyasztóvédelmi hatóságnak,
 - g) a védendő fogyasztók esetében az őt megillető kedvezménynek vagy különleges bánásmódnak az egy felhasználási helyen való igénybevételének ellenőrzése céljából a földgázelosztónak és az őt megillető kedvezménynek vagy különleges bánásmódnak a biztosítása érdekében a földgázkereskedőnek, valamint
 - h) az (1c) bekezdésben meghatározott időponttól az átvevő egyetemes szolgáltatónak.
 

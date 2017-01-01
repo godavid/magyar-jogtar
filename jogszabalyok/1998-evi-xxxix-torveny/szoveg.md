@@ -4,24 +4,19 @@ a társadalombiztosítás pénzügyi alapjainak és a társadalombiztosítás sz
 
 1. § (1) Az Egészségbiztosítási és a Nyugdíjbiztosítási Alap (a továbbiakban együtt: Alap) felügyelete, továbbá a nyugdíjbiztosítási igazgatási szerv és az egészségbiztosítási szerv (a továbbiakban: igazgatási szerv) irányítása állami feladat.
 
-(2) Az alapokat a Kormány felügyeli. A 2. § (1) bekezdése szerinti igazgatási szervek irányítását a Kormány
-
-- a) az egészségbiztosítási ágazat tekintetében az egészségbiztosításért felelős miniszter,
-- b) a nyugdíjbiztosítási ágazat tekintetében a szociál- és nyugdíjpolitikáért felelős miniszter
-
-útján látja el.
+(2) Az alapokat és azok kezelését a Kormány felügyeli.
 
 (3)
 
 (4)
 
-2. § (1) Az Egészségbiztosítási Alap kezelését az egészségbiztosítási szerv, a Nyugdíjbiztosítási Alap kezelését a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv (a továbbiakban együtt: alap kezeléséért felelős társadalombiztosítási szerv) végzi.
+2. § (1) Az Egészségbiztosítási Alap kezelését az egészségbiztosításért felelős miniszter – mint fejezetet irányító szerv – az államháztartásról szóló 2011. évi CXCV. törvény 6/B. § (3) bekezdése alapján jogszabályban kijelölt kezelő szerv közreműködésével, a Nyugdíjbiztosítási Alap kezelését a központi nyugdíjbiztosítási szerv (a továbbiakban együtt: alap kezeléséért felelős társadalombiztosítási szerv) végzi.
 
-(2)
+(2) Az Egészségbiztosítási Alap kezelésével kapcsolatos költségek fedezetét az Egészségbiztosítási Alap költségvetésében kell meghatározni.
 
-(3) A Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv, a nyugdíjbiztosítási igazgatási szerv és az Egészségbiztosítási Alap kezeléséért felelős egészségbiztosítási szerv központi költségvetési szervek, amelyek költségvetését – a fővárosi és megyei kormányhivatalok kivételével – a társadalombiztosítás pénzügyi alapjainak költségvetésében kell meghatározni.
+(3) A központi nyugdíjbiztosítási szerv központi költségvetési szerv, amelynek költségvetését a Nyugdíjbiztosítási Alap költségvetésében kell meghatározni.
 
-3. § Az alapokhoz tartozó vagyon állami tulajdon, a vagyonnal kapcsolatos tulajdonosi jogokat a Kormány az 1. § (2) bekezdés szerinti személyek útján gyakorolja azzal, hogy az alapokhoz tartozó működési vagyonnal kapcsolatos tulajdonosi joggyakorlók az alapokat kezelő szervek vezetői.
+3. § Az alapokhoz tartozó vagyon állami tulajdon, a vagyonnal kapcsolatos tulajdonosi jogokat az egészségbiztosítási ágazat tekintetében az egészségbiztosításért felelős miniszter, a nyugdíjbiztosítási ágazat tekintetében a szociál- és nyugdíjpolitikáért felelős miniszter gyakorolja azzal, hogy a Nyugdíjbiztosítási Alaphoz tartozó működési vagyonnal kapcsolatos tulajdonosi joggyakorló a központi nyugdíjbiztosítási szerv vezetője.
 
 4. §
 

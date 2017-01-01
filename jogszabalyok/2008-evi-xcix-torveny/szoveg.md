@@ -20,7 +20,7 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 - h) támogassa az előadó-művészeti szervezetek művészeti és gazdasági együttműködését, hazai és külföldi vendégelőadások létrejöttét, színvonalas külföldi alkotások magyarországi bemutatását,
 - i) elősegítse a gyermek és ifjúsági korosztály hozzáférési lehetőségeit a színház-, tánc- és zeneművészeti alkotások, előadások megismeréséhez, továbbá a minőségi előadó-művészeti szolgáltatások iránti társadalmi igény erősödését, hozzájáruljon az állami és az önkormányzati oktatási-nevelési feladatok ellátásának eredményességéhez, ösztönözze a művészeti értéket képviselő előadásokkal, hangversenyekkel kevésbé ellátott területeken élők kulturális igényeinek kielégítését,
 - j) támogassa a szakmai dokumentációs és kutatási tevékenységet,
-- k) megteremtse az állami támogatással érintett előadó-művészeti szervezetek működésével érintett épület- és eszközállomány integrált nyilvántartását,
+- k)
 - l) ösztönözze az államháztartáson kívüli források bevonását az előadó-művészeti szervezetek működésébe, működtetésébe, fejlesztésébe, valamint
 - m) előmozdítsa az előadó-művészek foglalkoztatáshoz fűződő és a hivatásgyakorlással összefüggő érdekeinek védelmét.
 
@@ -69,7 +69,7 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 - a) előkészíti az előadó-művészeti területet érintő jogalkotás során a szabályozás tervezeteit és e törvény felhatalmazása szerint rendeletben szabályozza az előadó-művészeti szervezetek támogatásával kapcsolatos kérdéseket,
 - b) az e törvényben és a központi költségvetésről szóló törvényben foglaltak szerint végzi az előadó-művészeti szervezetek központi költségvetési támogatásával kapcsolatos feladatokat,
 - c) a létesítő okirat alapján gyakorolja a központi költségvetési szervként működő előadó-művészeti szervezetek feletti alapítói és felügyeleti jogokat, valamint támogatja az állam tulajdonosi részesedésével működő előadó-művészeti nonprofit gazdasági társaságok (a továbbiakban együtt: állam által fenntartott előadó-művészeti szervezet) feladat-ellátását,
-- d) legalább három évre, de legfeljebb öt évre szóló közszolgáltatási szerződést köt meghatározott művészeti feladatokra kivételesen magas színvonalú művészi teljesítményt felmutató, hazai és nemzetközi szinten kiemelten elismert, nyilvántartott előadó-művészeti szervezettel,
+- d) legalább három évre szóló közszolgáltatási szerződést köt meghatározott művészeti feladatokra kivételesen magas színvonalú művészi teljesítményt felmutató, hazai és nemzetközi szinten kiemelten elismert, nyilvántartott előadó-művészeti szervezettel,
 - e) meghatározza a nemzeti előadó-művészeti szervezetek és a kiemelt előadó-művészeti szervezetek körét,
 - f) a döntéshozatalra jogosultat tájékoztatja szakmai véleményéről a kiemelt előadó-művészeti szervezet alaptevékenységét érintő jelentős szakmai változással, átalakításával, más szervezettel történő összevonásával, jogutód nélküli megszüntetésével kapcsolatban, valamint
 - g) működteti a Nemzeti Előadó-művészeti Érdekegyeztető Tanácsot, a Színházművészeti Bizottságot, a Zeneművészeti Bizottságot és a Táncművészeti Bizottságot.
@@ -80,22 +80,13 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 
 (2) A NEÉT 24 tagú. A tagok megbízatásának időtartama 4 év, amely legfeljebb egyszer újabb 4 évre meghosszabbítható.
 
-(3) A NEÉT tagjai:
+(3) A NEÉT véleményezi az előadó-művészeti bizottságoknak az előadó-művészeti szervezetek minősítésére vonatkozó javaslatát, valamint az előadó-művészeti bizottságok által előkészített, a nem állami fenntartású, minősítéssel rendelkező előadó-művészeti szervezetek támogatására vonatkozó felosztási szabályzatokat, továbbá ellátja az (1) bekezdésben meghatározott szerepéből eredő további feladatokat.
 
-- a) a nyilvántartásba vett előadó-művészeti szervezetek által delegált 11 fő, amelyből 4 főt a színházművészet, 2 főt a báb- és cirkuszművészet, 1 főt a független színházművészet, 2 főt a táncművészet, 2 főt a zeneművészet területéről kell jelölni,
-- b) a nyilvántartásba vett előadó-művészeti szakmai érdek-képviseleti szervezetek által delegált 3 fő,
-- c) a Magyar Művészeti Akadémia által delegált 1 fő,
-- d) a megyei jogú városi önkormányzatok által delegált 2 fő, Budapest Főváros Önkormányzata által delegált 1 fő, az országos nemzetiségi önkormányzatok által delegált 1 fő,
-- e) az előadó-művészeti felsőoktatási intézmények által delegált 3 fő, valamint
-- f) az országosan reprezentatív művészeti szakszervezetek által delegált 2 fő.
+(4)–(5)
 
-(4) A NEÉT ülésein állandó meghívottként vesz részt a miniszter, továbbá tanácskozási joggal részt vehetnek a határon túli magyar előadó-művészeti szervezetek képviselői és az 5/A. § szerinti bizottságok 1-1 képviselője.
+(6) A NEÉT ülését a miniszter szükség szerint, de évente legalább egy alkalommal hívja össze. A NEÉT működtetése során biztosítani kell az e törvényben meghatározott jogosítványok gyakorlásának lehetőségét.
 
-(5) Ha a (3) bekezdés szerint több szervezet együttesen jogosult delegálásra, azt a személyt kell delegáltnak tekinteni, akit az együttes delegálásra jogosult szervezetek többsége jelölt (többségi jelölés). Ha nincs ilyen jelölt, vagy egyenlő számú jelölés esetén a delegált személyét sorsolással kell meghatározni.
-
-(6) A NEÉT ülését a miniszter szükség szerint, de évente legalább egy alkalommal hívja össze. A NEÉT ülését a miniszter a kezdeményezéstől számított 15 napon belüli időpontra köteles összehívni, ha legalább nyolc tag az ok és a napirend közlésével azt írásban kezdeményezi. A NEÉT működtetése során biztosítani kell az e törvényben meghatározott jogosítványok gyakorlásának lehetőségét.
-
-(7) A NEÉT üléseinek jegyzőkönyvei, továbbá a NEÉT állásfoglalásai, javaslatai nyilvánosak.
+(7)
 
 (8) A NEÉT tagjai e tevékenységükért díjazásban nem részesülnek.
 
@@ -113,30 +104,24 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 
 (4) A bizottság tagjai maguk közül elnököt választanak. A bizottság ügyrendjét – a miniszter jóváhagyásával – és az éves munkatervét az 5/B. §-ban foglaltakra figyelemmel maga állapítja meg.
 
-(5) A bizottság működéséhez – ideértve a tagok díjazásához – szükséges forrást a 6. § (1) bekezdése szerint kijelölt szerv költségvetésében kell biztosítani.
+(5)
 
 5/B. § (1) A bizottság
 
 - a) a miniszter felkérésére vagy saját kezdeményezésre javaslatot tesz az előadó-művészeti tevékenységet érintő szabályozási kérdésekben,
 - b) figyelemmel kíséri az előadó-művészeti terület helyzetét és lehetőségeit, különös tekintettel az előadó-művészeti szervezetek támogatási rendszerére, és szükség esetén javaslatot tesz annak felülvizsgálatára,
 - c) javaslatot tesz a nemzeti előadó-művészeti szervezetek és a kiemelt előadó-művészeti szervezetek körére,
-- d) a központi költségvetési támogatás megállapítása érdekében kidolgozza és a NEÉT-nek véleményezésre és javaslattételre, a miniszternek jóváhagyásra továbbítja a felosztási szabályzatot,
+- d) a központi költségvetési támogatás megállapítása érdekében kidolgozza és a NEÉT-nek véleményezésre és javaslattételre, a miniszternek jóváhagyásra továbbítja a nem állami fenntartású, minősítéssel rendelkező előadó-művészeti szervezetek központi költségvetési támogatására irányadó felosztási szabályzatot,
 - e) az előadó-művészeti szervezet vezetője munkakörének betöltésére kiírt pályázati eljárás során tagokat delegál a szakmai bizottságba,
 - f) a miniszter felkérésére előzetesen véleményt nyilvánít a 4. § d) pont szerinti közszolgáltatási szerződés megkötéséről,
 - g) szakmai vélemény kialakításával segíti a minisztert a 4. § f) pontjában foglaltakra vonatkozó álláspontjának kialakítása előtt,
 - h) kezdeményezi a miniszternél meghívásos pályázat kiírását az adott évadban kiemelkedő művészeti teljesítményt nyújtó előadó-művészeti szervezetek támogatására,
-- i) közreműködik a területét érintő, a 19. § (1) bekezdése, valamint a 20. § (3) bekezdése szerinti pályázatok szempontrendszerének szakmai előkészítésében, valamint
+- i) közreműködik a területét érintő, a 19. § (1) bekezdése, valamint a 20. §-a szerinti pályázatok szempontrendszerének szakmai előkészítésében, valamint
 - j) tevékenységéről évente beszámolót készít.
 
-(2) A nem állami fenntartású színházak, balett- és táncegyüttesek vonatkozásában a felosztási szabályzat a központi költségvetésről szóló törvény tervezésének megalapozásához figyelembe veendő szempontként tartalmazza
+(2)
 
-- a) a nemzeti előadó-művészeti szervezetek és a kiemelt előadó-művészeti szervezetek tevékenységének értékelési rendjét, a nemzeti előadó-művészeti szervezetek és a kiemelt előadó-művészeti szervezetek művészeti támogatásainak a művészeti támogatási keretösszegen belüli, egymáshoz viszonyított arányát,
-- b) a 17. § (3) bekezdésében meghatározott szempontok szerinti adatok súlyozási értékeit és a támogatások felosztásának számítási módját,
-- c) a 17. § (3) és (4) bekezdésében meghatározott szempontok szerint felosztandó támogatások művészeti támogatási keretösszegen belüli, egymáshoz viszonyított arányát,
-- d) az évente az előző költségvetési év teljesítési adatai és a 17. § (5) bekezdése szerinti évadbeszámolók ismeretében elvégzett tevékenységértékelés alapján elkészített, következő költségvetési évre vonatkozó felosztási javaslatot,
-- e)
-
-(3) A nem állami fenntartású zenekarok és énekkarok tekintetében a felosztási szabályzat a központi költségvetésről szóló törvény tervezésének megalapozásához figyelembe veendő szempontként tartalmazza az évente a 20. § (1) bekezdés a)–f) pontjában meghatározott szempontok szerinti adatok súlyozási értékeit, a támogatások felosztásának számítási módját és a következő költségvetési évi támogatásokra vonatkozó felosztási javaslatot.
+(3)
 
 ### 3. CÍM — Az előadó-művészeti szervezetek működésével összefüggő közigazgatási hatósági és szolgáltatási feladatokat ellátó szervezet
 
@@ -144,12 +129,12 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 
 - a) az állam által fenntartott és az e törvény szerint támogatást igénylő előadó-művészeti szervezetekről, valamint az ágazati érdekegyeztetésben részt vevő előadó-művészeti szakmai érdek-képviseleti szervezetekről, azok jogszabályban meghatározott adatairól hatósági nyilvántartást vezet,
 - b) ellenőrzi a nyilvántartott előadó-művészeti szervezetek e törvény szerinti kötelezettségeinek teljesítését, amely ellenőrzés kiterjed a hatósági ellenőrzésre és a támogatások rendeltetésszerű felhasználására is,
-- c) igazolja a támogatások igénybevételére vonatkozó jogosultságot, valamint kiállítja az adókedvezményekre jogosító, a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. § 38. pontja szerinti támogatási igazolást,
+- c) igazolja a támogatások igénybevételére vonatkozó jogosultságot, valamint kiállítja az adókedvezményekre és adójóváírásra jogosító, a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 22. § (4) bekezdése szerinti támogatási igazolást és 24/A. § (18) bekezdése szerinti igazolást,
 - d) előadó-művészeti adatszolgáltatási tevékenységet végez,
-- e) ellátja a NEÉT és a bizottságok működtetésével kapcsolatos adminisztratív feladatokat, gondoskodik a bizottsági feladatok ellátásához szükséges adatok és információk rendelkezésre bocsátásáról,
+- e)
 - f) ellátja az e törvényben vagy e törvény felhatalmazása alapján más jogszabályban meghatározott egyéb feladatokat.
 
-(2)
+(2) A kijelölt szerv döntése ellen nincs helye fellebbezésnek.
 
 (3) A kijelölt szerv által végzett nyilvántartási, igazgatási és szolgáltatási tevékenységért jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
 
@@ -164,7 +149,7 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 - a) a nyilvántartott szervezet nevét, szervezeti formáját, székhelyét, telephelyeit, cégjegyzékszámát, bírósági nyilvántartási számát vagy törzskönyvi nyilvántartási számát,
 - b) az előadó-művészeti szervezet
   - ba) művészeti tevékenységének jellege szerinti megjelölését: színház, zenekar, énekkar, balettegyüttes, táncegyüttes,
-  - bb) művészeti tevékenységének sajátos jellege szerinti típusmegjelölését: többtagozatos színház, bábszínház, gyermek- és ifjúsági színház, kamarazenekar, kamara-szimfonikus zenekar, szimfonikus zenekar, népi koncertzenekar, big band, kamarakórus,
+  - bb) művészeti tevékenységének sajátos jellege szerinti típusmegjelölését: többtagozatos színház, bábszínház, gyermek- és ifjúsági színház, kamarazenekar, kamara-szimfonikus zenekar, szimfonikus zenekar, népi koncertzenekar, fúvószenekar big band, kamarakórus,
   - bc) működése szerinti típusmegjelölését: független színház, produkciós színház, befogadó színház, szabadtéri színház, nemzetiségi színház, valamint
   - bd) fenntartójának nevét, szervezeti formáját, székhelyét, fenntartó hiányában az alapító, illetve a képviselő nevét, lakcímét,
 - c) az előadó-művészeti szakmai érdek-képviseleti szervezetek esetében a működési terület (színházművészet, zeneművészet, táncművészet) megjelölését.
@@ -173,7 +158,7 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 
 (4) A nyilvántartásban szereplő adatok nyilvánosak, és a kijelölt szerv honlapján hozzáférhetők.
 
-8. § (1) A nyilvántartásba vételi eljárás – a (4) bekezdésben foglalt kivétellel – kérelemre indul. A kérelmet az előadó-művészeti szervezet fenntartója, ennek hiányában, továbbá a szakmai érdek-képviseleti szervezetek esetében a szervezet képviselője nyújthatja be.
+8. § (1) A nyilvántartásba-vételi eljárás kérelemre indul.
 
 (2) Nyilvántartásba az az előadó-művészeti szervezet vehető, amely legalább három éve működik. E rendelkezés az állami vagy önkormányzati fenntartású előadó-művészeti szervezetekre nem alkalmazható.
 
@@ -182,11 +167,9 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 - a) előadó-művészeti területet érintő szakmai érdek-képviseleti tevékenységet végez, és
 - b) a bírósági nyilvántartásba vételéről szóló végzés jogerőre emelkedésétől számított két év eltelt vagy tagszervezeteinek több mint fele állami vagy önkormányzati fenntartású előadó-művészeti szervezet.
 
-(4) Az állam által fenntartott előadó-művészeti szervezetek esetén a nyilvántartásba vételi eljárás hivatalból indul.
+(4)
 
-9. § (1) A nyilvántartásba vétel és a minősítés alapjául szolgáló adatokban bekövetkezett változást az előadó-művészeti szervezet fenntartója, ennek hiányában az előadó-művészeti szervezet képviselője – jogszabályban meghatározott módon – köteles bejelenteni a kijelölt szervnek a változástól vagy annak ismertté válásától számított tizenöt napon belül.
-
-(2) Az (1) bekezdésben meghatározott változás-bejelentési kötelezettség elmulasztása esetén a kijelölt szerv az előadó-művészeti szervezet fenntartójával, ennek hiányában az előadó-művészeti szervezet képviselőjével szemben ötvenezer forint bírságot szab ki.
+9. §
 
 10. § A nyilvántartásból törölni kell az előadó-művészeti szervezetet, ha
 
@@ -226,27 +209,9 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 
 ### 3. CÍM — A közszolgáltatási szerződés
 
-13. § (1) Az állam, illetve az önkormányzat az előadó-művészeti szolgáltatások (a továbbiakban: szolgáltatások) tartós biztosítására nyilvántartott előadó-művészeti szervezettel legalább három évre előadó-művészeti közszolgáltatási szerződést köthet.
+13. § Az állam, illetve az önkormányzat az előadó-művészeti szolgáltatások tartós biztosítására nyilvántartott előadó-művészeti szervezettel kormányrendelet szerinti tartalommal és feltételekkel legalább három évre előadó-művészeti közszolgáltatási szerződést köthet.
 
-(2) A közszolgáltatási szerződés tartalmazza
-
-- a) az előadó-művészeti szervezet nevét, székhelyét, képviselőjének nevét, bírósági nyilvántartási vagy cégjegyzékszámát és adószámát,
-- b) a szolgáltatások részletes leírását, helyének meghatározását és mutatószámait, továbbá a kapcsolódó egyéb szolgáltatásokat,
-- c) a szolgáltatások ellátását biztosító személyi, tárgyi és pénzügyi feltételeket,
-- d) a szolgáltatások folyamatos nyújtását biztosító feltételeket,
-- e) a szolgáltatások teljesítéséhez elengedhetetlen, lényeges vagyoni eszközök tulajdonviszonyait, a szervezet birtokába adott vagy más módon rendelkezésére bocsátott eszközök használatára, karbantartására és visszaszolgáltatására vonatkozó szabályokat,
-- f) a szervezet vállalt szolgáltatásaival összefüggő jogait és kötelezettségeit,
-- g) a szervezet tevékenységére vonatkozó adatok szolgáltatására és az ellenőrzésre vonatkozó szabályokat,
-- h) a gyermek- és ifjúsági korosztály védelmét szolgáló nézőtájékoztatási, továbbá a jegyrendszerre vonatkozó előírásokat,
-- i) a közszolgáltatási szerződés módosításának, felmondásának feltételeit,
-- j) a közszolgáltatási szerződésben meghatározott kötelezettségek megszegése esetére vonatkozó jogkövetkezményeket (így különösen a kötbérfizetési kötelezettséget), valamint a közszolgáltatási szerződés teljesítésével kapcsolatos esetleges jogviták rendezésének módját és
-- k) az előadó-művészeti közszolgáltatás megkezdésének időpontját és a szerződés időbeli hatályát.
-
-(3) Az állam és az önkormányzati fenntartású előadó-művészeti szervezet közötti közszolgáltatási szerződés megkötéséhez a fenntartó önkormányzat előzetes egyetértése szükséges. Az önkormányzat és az állami fenntartású előadó-művészeti szervezet közötti közszolgáltatási szerződés megkötéséhez az állami fenntartó előzetes egyetértése szükséges.
-
-14. § (1) A nemzeti előadó-művészeti szervezetek és a kiemelt előadó-művészeti szervezetek esetében – a 13. § (2) bekezdésben foglaltakon túl – a közszolgáltatási szerződés tartalmazza a 17. § (4) bekezdés f) pontja szerinti szolgáltatásokra vonatkozó rendelkezéseket is.
-
-(2) A 19. § (1) bekezdése, 20. § (3) bekezdése és 21. § (1) bekezdése szerinti pályázat keretében megkötött támogatási szerződés tartalmazza a közszolgálati szerződés 13. § (2) bekezdés a)–d) és f)–j) pontja szerinti rendelkezéseket is.
+14. §
 
 ### IV. Fejezet — AZ ELŐADÓ-MŰVÉSZET TÁMOGATÁSA
 
@@ -264,9 +229,9 @@ részére.
 
 (3) A központi költségvetési támogatás feltétele – a (4) bekezdésben foglalt kivétellel – a kijelölt szerv által történő nyilvántartásba vétel.
 
-(4) A 21. § alapján kiírt pályázati támogatásokból a nyilvántartásban nem szereplő előadó-művészeti szervezet is részesülhet.
+(4) A 20. § alapján kiírt pályázati támogatásokból a nyilvántartásban nem szereplő előadó-művészeti szervezet is részesülhet.
 
-(5) E Fejezet 2. Címét és 3. Címét az állami fenntartású előadó-művészeti szervezetekre nem lehet alkalmazni.
+(5) E Fejezet 2. Címét az állami fenntartású előadó-művészeti szervezetekre nem lehet alkalmazni.
 
 (6)
 
@@ -274,97 +239,33 @@ részére.
 
 (2) A központi költségvetési támogatás önkormányzati fenntartású előadó-művészeti szervezet számára csak abban az esetben nyújtható, ha az az önkormányzattal a támogatás folyósításakor hatályos, legalább hároméves fenntartói megállapodást kötött. Fenntartói megállapodás csak teljes naptári évre köthető. Nem kell fenntartói megállapodást kötnie az előadó-művészeti szervezetnek a vele közszolgáltatási szerződést kötött önkormányzattal.
 
-(3) A fenntartói megállapodásban a művészeti tevékenységgel [17. § (3) bekezdés], az előadó-művészeti szervezet létesítő okiratában meghatározott egyéb tevékenységgel és a gazdálkodással (pénzügyi egyensúly fenntartása, illetve megteremtése, kapacitások kihasználtsága, eszköz- és erőforrás-gazdálkodás hatékonysága) összefüggésben az előadó-művészeti szervezettől elvárt teljesítményt az adott területre jellemző mutatókkal, illetve megfelelő követelményleírással kell meghatározni.
+(3)–(5)
 
-(4) A fenntartói megállapodásban költségnemenként fel kell tüntetni a feladatteljesítéshez rendelt forrást [3. § (6) bekezdés], több forrás esetén azok egymáshoz viszonyított arányát.
+### 2. CÍM — Az előadó-művészeti szervezetek központi költségvetési támogatásai és az igénybevétel feltételei
 
-(5) A fenntartó köteles az általa megkötött fenntartói megállapodásokat a kijelölt szerv részére nyomtatott és elektronikus formában megküldeni, az esetleges adatváltozást pedig 30 napon belül bejelenteni. A fenntartói megállapodást a tárgyévet megelőző év október 31-éig kell benyújtani a kijelölt szerv részére.
+17. § (1) A nemzeti előadó-művészeti szervezetnek vagy kiemelt előadó-művészeti szervezetnek minősített színház, balett- és táncegyüttes esetén a 15. § (2) bekezdése szerinti jogosultat az előadó-művészeti szervezet szakmai programjának megvalósításához művészeti támogatás, és az előadó-művészeti szervezet feladatellátással összefüggő működési kiadásaihoz működési támogatás illeti meg.
 
-### 2. CÍM — A színház, balett- és táncegyüttesek központi költségvetési támogatásai és az igénybevétel feltételei
+(2) A művészeti támogatás az előadó-művészeti szervezet által nyújtott művészeti tevékenységhez közvetlenül kapcsolódó művészi, művészeti szolgáltatások igénybevételéhez, eszközök – különösen színpadtechnikai eszközök –, anyagok beszerzéséhez, illetve művészi, művészeti munkakörben való foglalkoztatáshoz, felhasználási jogok megszerzéséhez nyújtott hozzájárulás, amelyet más célra felhasználni, átcsoportosítani nem lehet.
 
-17. § (1) A nemzeti előadó-művészeti szervezetnek vagy kiemelt előadó-művészeti szervezetnek minősített színház, balett- és táncegyüttes esetén a 15. § (2) bekezdése szerinti jogosultat az előadó-művészeti szervezet szakmai programjának megvalósításának művészeti támogatás és az előadó-művészeti szervezet feladatellátással összefüggő működési kiadásaihoz működési támogatás illeti meg.
+(3) A működési támogatás létesítménygazdálkodási célra – az érintett területeken jelentkező kiadásaihoz történő hozzájárulásként, az e törvényben meghatározott feltételek fennállása esetén – adható, amelyet más célra felhasználni, átcsoportosítani nem lehet.
 
-(1a) A művészeti támogatás az előadó-művészeti szervezet által nyújtott művészeti tevékenységhez közvetlenül kapcsolódó művészi, művészeti szolgáltatások igénybevételéhez, eszközök – különösen színpadtechnikai eszközök –, anyagok beszerzéséhez, illetve művészi, művészeti munkakörben való foglalkoztatáshoz, felhasználási jogok megszerzéséhez nyújtott hozzájárulás, amelyet más célra felhasználni, átcsoportosítani nem lehet.
+(4) Nemzeti előadó-művészeti szervezetnek vagy kiemelt előadó-művészeti szervezetnek minősített zenekar, énekkar esetén a 15. § (2) bekezdése szerinti jogosultat – a zenekarra és az énekkarra külön – központi költségvetési támogatás illeti meg.
 
-(2) A művészeti támogatást súlyozási értékek és arányszámok alkalmazásával, a felosztási szabályzatban rögzített számítási mód szerint úgy kell megállapítani, hogy figyelembevételre kerüljenek a nemzeti előadó-művészeti szervezetnek, illetve kiemelt előadó-művészeti szervezetnek minősített színházak, balett- és táncegyüttesek tevékenységével, szolgáltatásával kapcsolatos általános támogatási szempontok. Ezen szempontok érvényesülését a támogatással érintett művészeti évadot megelőző utolsó lezárt évad művészeti tevékenységének, szolgáltatásainak alapulvételével kell vizsgálni.
+18. § A 17. § szerinti támogatások megállapításakor vizsgálandó általános szempontrendszert a Kormány rendeletben határozza meg.
 
-(3) A művészeti támogatás mértékének megállapításakor általános támogatási szempontként vizsgálni kell a nemzeti előadó-művészeti szervezetnek, illetve kiemelt előadó-művészeti szervezetnek minősített színházak, balett- és táncegyüttesek
+19. § (1) Nemzeti előadó-művészeti szervezetnek vagy kiemelt előadó-művészeti szervezetnek nem minősülő előadó-művészeti szervezetek szakmai programmegvalósításának és működésének támogatása pályázati úton történik. A pályázatokat a miniszter évente legkésőbb február 15-éig teszi közzé, és a benyújtott pályázatokkal kapcsolatos döntését évente legkésőbb április 30-áig hozza nyilvánosságra.
 
-- a) által teljesített bemutatók számát, azon belül a kortárs és klasszikus magyar szerzők műveinek a számát,
-- b) által teljesített előadások számát, ennek keretében
-  - ba) a saját előadások arányát,
-  - bb) a balett- és táncelőadások számát,
-  - bc) az opera-előadások számát,
-  - bd) a klasszikus operett-előadások számát,
-  - be) a zenés színpadimű-előadások, illetve ezen belül az élő zenekarral, énekkarral teljesített előadások számát,
-  - bf) a stúdió-előadások számát,
-- c) fizetőnéző-számát, az össznézőszámát és jegyár-bevételének összegét,
-- d) fizető átlag-nézőszám arányát a nézőtéri befogadóképességhez,
-- e) a gyermek- és ifjúsági bemutatók és előadások számát,
-- f) az állandó játszóhelyen kívüli helyi, a megyei, az országos vendég-, illetve tájelőadások és nemzetközi vendégelőadások számát, ezen belül
-  - fa) a belföldi előadások tekintetében a kulturális szolgáltatásokkal kevésbé ellátott régiókban,
-  - fb) a külföldi előadások esetében a Kárpát-medencei magyarlakta területeken tartott előadások számát.
-
-(4) A művészeti támogatás mértékének megállapításakor értékelni kell továbbá a nemzeti előadó-művészeti szervezetnek, illetve kiemelt előadó-művészeti szervezetnek minősített színházak, balett- és táncegyüttesek
-
-- a) társulati művészeti-szakmai közösségépítő tevékenységét,
-- b) hazai és nemzetközi szakmai és művészeti kapcsolatépítési és együttműködési gyakorlatát,
-- c) a repertoár-játszáshoz és a többtagozatos művészeti struktúrához kapcsolódó művészeti gyakorlatát,
-- d) közönségkapcsolati rendszerét, a nézőszám növelésének gyakorlatát, valamint médiakapcsolati tevékenységét, a gyermek- és ifjúsági korosztály védelmét szolgáló nézőtájékoztatási, továbbá a jegyértékesítési rendszerét,
-- e) saját előadásaihoz kapcsolódó jegyár-bevételeken túli, egyéb bevételi források feltárásával összefüggő tevékenységét és annak eredményességét,
-- f) helyi művészeti, közoktatási, közművelődési és társadalmi, közösségi szervezetekkel való kapcsolatépítési, továbbá az óvodai és iskolarendszeren belüli és azon kívüli oktatási-nevelési, művészetpedagógiai programhoz, a tantervi oktatáshoz, helyi és országos turisztikai célokhoz való kapcsolódás, a gyermek-, illetve ifjúsági korosztály igényes színházra nevelésének gyakorlatát,
-- g) vezetőjének vezetői pályázatában rögzített, a művészeti tevékenységgel összefüggő vállalások teljesülését.
-
-(5) A (3) és (4) bekezdés szerinti adatokat és információkat tartalmazó művészeti évadbeszámolót az érintett előadó-művészeti évadra vonatkozóan június 10-éig köteles a művészeti támogatásra jogosult a kijelölt szerv részére nyomtatott és elektronikus formában megküldeni. Az évadbeszámoló a művészeti évad június és július hónapjára vonatkozóan az érintett adatkörben tervszámokat tartalmaz. Az előadó-művészeti szervezet augusztus 31-éig köteles a tervszámoktól eltérő tényadatokról az e bekezdés szerinti formában tájékoztatást adni.
-
-18. § (1) A működési támogatás létesítménygazdálkodási célra – az érintett területeken jelentkező kiadásaihoz történő hozzájárulásként, az e törvényben meghatározott feltételek fennállása esetén – adható, amelyet más célra felhasználni, átcsoportosítani nem lehet.
-
-(2) A működési támogatás feltétele, hogy az előadó-művészeti szervezet a létesítő okiratában meghatározott, állandó működési helyéül szolgáló ingatlannal rendelkezzen. Az ingatlan rendeltetésszerű használatának biztosítása a fenntartó feladata, ezzel összefüggésben az ingatlan lényeges műszaki adatairól, állapotáról, valamint a színpadtechnikai eszközökről nyilvántartást vezet. Fenntartó hiányában az e bekezdésben foglalt feladatok kötelezettje az előadó-művészeti szervezet.
-
-(3) A működési támogatás megállapításakor figyelembe kell venni a fenntartó vagy az előadó-művészeti szervezettel közszolgáltatási szerződést kötött önkormányzat által az előadó-művészeti tevékenységhez kapcsolódóan nyújtott támogatás összegét a felújítási és beruházási jellegű kiadások, valamint az ingatlan használatáért bármilyen jogcímen kért térítés összegének kivételével.
-
-19. § (1) Nemzeti előadó-művészeti szervezetnek vagy kiemelt előadó-művészeti szervezetnek nem minősülő színházak, balett- és táncegyüttesek szakmai programmegvalósításának és működésének támogatása pályázati úton történik. A pályázatokat a miniszter évente legkésőbb február 15-éig teszi közzé, és a benyújtott pályázatokkal kapcsolatos döntését évente legkésőbb április 30-áig hozza nyilvánosságra.
-
-(2) A pályázati felhívás az államháztartásról szóló törvény végrehajtásáról szóló kormányrendeletben rögzítetteken túl tartalmazza a pályázat elbírálásának részletes szempontrendszerét is.
-
-(2a) A pályázatokról történő döntés megalapozásához a miniszter az érintett bizottság – az (1) bekezdés szerinti előadó-művészeti szervezetek szakmai érdek-képviseleti szervezetei által véleményezett – javaslata figyelembevételével szakmai kuratóriumot kér fel. A döntésre a szakmai kuratórium – a részletes bírálati szempontrendszer szerinti értékelésen alapuló – előterjesztése alapján az érintett bizottság tesz javaslatot. A javaslattól eltérő döntését a miniszter köteles megindokolni.
+(2) A pályázatok bírálata során alkalmazandó részletszabályokat a Kormány rendeletben határozza meg.
 
 (3) Az (1) bekezdés szerinti előadó-művészeti szervezetek tárgyévi támogatási keretösszegének feléig az érintett bizottság javaslata alapján a miniszter legfeljebb három évre szóló kötelezettséget vállalhat a következő évek támogatási kerete terhére.
 
-### 3. CÍM — A zenekarok és énekkarok központi költségvetési támogatásai és az igénybevétel feltételei
+20. § A miniszter az általa felügyelt költségvetési fejezetből kormányrendeletben meghatározott kiemelt művészeti célok megvalósítására pályázati úton nyújt támogatást.
 
-20. § (1) Nemzeti előadó-művészeti szervezetnek vagy kiemelt előadó-művészeti szervezetnek minősített zenekar, énekkar esetén a 15. § (2) bekezdése szerinti jogosultat külön a zenekarra és külön az énekkarra
+### 3. CÍM
 
-- a) a zenekar, énekkar létszáma,
-- b) a hangversenyek száma,
-- c) opera-előadásokon történő közreműködések száma,
-- d) az ifjúsági hangversenyek száma,
-- e) a bemutatott kortárs magyar zeneművek száma,
-- f) a fizető nézők száma és
-- g) a kereskedelmi forgalomba hozott hangfelvételek, képfelvételek száma alapján e szempontokra figyelemmel megállapított központi költségvetési támogatás illeti meg.
+### 4. CÍM
 
-(2) Az (1) bekezdés szerinti zenekar, énekkar létszámának megállapításához a tárgyévet megelőző évben az előadó-művészeti szervezetnél teljes munkaidőben foglalkoztatott munkavállaló vehető figyelembe. Művészi munkakörben, részmunkaidőben foglalkoztatott munkavállalót a részmunkaidő arányában kell figyelembe venni.
-
-(3) Nemzeti előadó-művészeti szervezetnek vagy kiemelt előadó-művészeti szervezetnek nem minősülő zenekar, énekkar szakmai programmegvalósításának és működésének támogatására a 19. §-t kell alkalmazni.
-
-(4)
-
-### 4. CÍM — A miniszter által felügyelt költségvetési fejezetből nyújtható kiemelt támogatások
-
-21. § (1) A miniszter pályázatot ír ki elsősorban:
-
-- a) gyermek- és ifjúsági előadások bemutatásának támogatására,
-- b) színházi nevelési programok támogatására,
-- c) új magyar nyelvű, illetve hazai nemzetiségi nyelvű színpadi művek és zeneművek, valamint kortárs magyar, illetve magyarországi drámák új bemutató keretében történő bemutatására,
-- d) a tárgyévet megelőző évadban kiemelkedő művészeti teljesítményt nyújtó és az e törvényben meghatározott célok megvalósítása érdekében többletfeladatokat vállaló előadó-művészeti szervezetek támogatására,
-- e) a kimagasló színvonalú és az e törvényben meghatározott célok megvalósítását előmozdító előadások országos és határon túli megjelenésére,
-- f) a határon túli, Kárpát-medencei magyar előadó-művészeti szervezetek támogatására,
-- g) jelentős nemzetközi színházi, táncművészeti és zeneművészeti fesztiválokon, vendégjátékokon való részvételre,
-- h) szakmai dokumentációs és kutatási tevékenység támogatására.
-
-(2) Az (1) bekezdés alapján kiírandó pályázatokról szóló döntései megalapozásához a miniszter az érintett bizottság javaslata figyelembevételével szakmai kuratóriumot kér fel. A döntésekre a szakmai kuratórium előterjesztése alapján az érintett bizottság tesz javaslatot. A javaslattól eltérő döntéseit a miniszter köteles megindokolni.
-
-(3)
+21. §
 
 ### 5. CÍM — A központi költségvetési támogatás felhasználásáról való beszámolás
 
@@ -396,7 +297,7 @@ részére.
 - a) a miniszter irányítása, felügyelete vagy tulajdonosi joggyakorlása alá tartozó, nyilvántartásba vett színházak, balett- vagy táncegyüttesek, zenekarok és énekkarok költségvetési támogatását,
 - b) a miniszterrel kötött közszolgáltatási szerződéssel rendelkező, nem önkormányzati fenntartású előadó-művészeti szervezet támogatását,
 - c) az e törvény alapján pályázati úton nyújtható támogatások előirányzatát, valamint
-- d) a kijelölt szerv működéséhez szükséges előirányzatot.
+- d) a az 5/A. § (2) bekezdése szerinti előadó-művészeti bizottságok működéséhez szükséges előirányzatot.
 
 (4) A (3) bekezdés hatálya alá nem tartozó, állami fenntartású, nyilvántartásba vett színházak, balett- vagy táncegyüttesek, zenekarok és énekkarok támogatását az ilyen előadó-művészeti szervezetet irányító, felügyelő vagy a felett tulajdonosi jogokat gyakorló miniszter által vezetett minisztérium költségvetési fejezetében, vagy a szervezetet irányító, felügyelő vagy a felett tulajdonosi jogokat gyakorló központi költségvetési szerv költségvetésében kell biztosítani.
 
@@ -534,7 +435,7 @@ részére.
 
 (4) A szakmai munka folytonossága érdekében a pályázatot a munkáltatói jogkör gyakorlója legalább hat hónappal a határozott idejű jogviszony megszűnése előtt hirdeti meg. A pályázat benyújtásának határideje a közzétételtől számított harminc nap.
 
-(5) A pályázati felhívásnak tartalmaznia kell a vezetői munkakör betöltésének feltételeit, a javadalmazást, a munkaviszony kezdő és befejező időpontját, a munkába lépés napját, az előadó-művészeti szervezet éves költségvetésének tervezett fő előirányzatait, valamint a fenntartó által meghatározott, így különösen az előadó-művészeti szervezet művészi arculatával, művészeti vezetésének módjával, teljesítménymutatóival, a foglalkoztatással kapcsolatos, továbbá a nemzeti és a kiemelt előadó-művészeti szervezetek esetében a 17. § (3) és (4) bekezdésében foglaltakkal összefüggő további tartalmi követelményeket. A pályázati kiíráshoz kapcsolódóan pályázati dokumentáció vagy személyes konzultáció lehetőségének biztosításával megfelelő tájékoztatást kell nyújtani a pályázó számára a szervezetről, beleértve annak aktuális gazdasági helyzetét is.
+(5) A pályázati felhívásnak tartalmaznia kell a vezetői munkakör betöltésének feltételeit, a javadalmazást, a munkaviszony kezdő és befejező időpontját, a munkába lépés napját, az előadó-művészeti szervezet éves költségvetésének tervezett fő előirányzatait, valamint a fenntartó által meghatározott, így különösen az előadó-művészeti szervezet művészi arculatával, művészeti vezetésének módjával, teljesítménymutatóival és a foglalkoztatással kapcsolatos elemeket. A pályázati kiíráshoz kapcsolódóan pályázati dokumentáció vagy személyes konzultáció lehetőségének biztosításával megfelelő tájékoztatást kell nyújtani a pályázó számára a szervezetről, beleértve annak aktuális gazdasági helyzetét is.
 
 (6) A munkáltatói jogkör gyakorlója a pályázatok véleményezésére szakmai bizottságot kér fel, melynek tagjai:
 
@@ -587,25 +488,30 @@ képviselője.
 - a) a 39. § (6) bekezdésében közalkalmazotti tanácson üzemi tanácsot kell érteni, valamint
 - b) ha az előadó-művészeti szervezet a pénzügyi-gazdasági tevékenységét nem a foglalkoztatottjai által látja el, a 40. § (2) bekezdésében meghatározott pénzügyi-gazdasági szakképesítésre vonatkozó követelménynek a pénzügyi-gazdasági tevékenységet ténylegesen ellátó szervezet vezetőjének vagy gazdasági vezetőjének kell megfelelnie.
 
-### 3. CÍM — BALETTMŰVÉSZETI ÉLETJÁRADÉK
+### 3. CÍM — TÁNCMŰVÉSZETI ÉLETJÁRADÉK
 
-43/A. § (1) Balettművészeti életjáradékra jogosult az a személy, aki
+43/A. § (1) Táncművészeti életjáradékra jogosult az a személy, aki
 
-- a) a Magyar Nemzeti Balettnál, a Győri Balettnál, a Pécsi Balettnál, a Szegedi Kortárs Balettnál vagy ezek jogelődjeinél összesen legalább huszonöt éven át – ide nem értve a képzés idejét – magántáncosi vagy tánckari tevékenységet főfoglalkozásszerűen folytatott,
+- a) a Magyar Nemzeti Balettnál, a Győri Balettnál, a Pécsi Balettnál, a Szegedi Kortárs Balettnál, a Magyar Állami Népi Együttesnél, a Magyar Nemzeti Táncegyüttesnél, a Duna Művészegyüttesnél és a Budapesti Operettszínháznál vagy ezek jogelődjeinél összesen legalább huszonöt éven át – ide nem értve a képzés idejét – magántáncos, táncos szólista vagy tánckari tevékenységet főfoglalkozásszerűen folytatott,
 - b) legalább huszonöt év szolgálati időt szerzett,
 - c) az öregségi nyugdíjkorhatárt nem töltötte be,
-- d) azon a napon, amelytől kezdődően a balettművészeti életjáradékot megállapítják, biztosítással járó jogviszonyban nem áll, és
-- e) azon a napon, amelytől kezdődően a balettművészeti életjáradékot megállapítják, a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 4. § (1) bekezdés i) pontja szerinti rendszeres pénzellátásban – az özvegyi nyugdíj, a baleseti hozzátartozói nyugellátások, a hadigondozottak és nemzeti gondozottak pénzbeli ellátásai, a nemzeti helytállásért elnevezésű pótlék, valamint az uniós rendeletek alapján külföldi szerv által folyósított, ezekkel azonos típusú ellátások kivételével – nem részesül.
+- d) azon a napon, amelytől kezdődően a táncművészeti életjáradékot megállapítják, biztosítással járó jogviszonyban nem áll, és
+- e) azon a napon, amelytől kezdődően a táncművészeti életjáradékot megállapítják, a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 4. § (1) bekezdés i) pontja szerinti rendszeres pénzellátásban – az özvegyi nyugdíj, a baleseti hozzátartozói nyugellátások, a hadigondozottak és nemzeti gondozottak pénzbeli ellátásai, a nemzeti helytállásért elnevezésű pótlék, valamint az uniós rendeletek alapján külföldi szerv által folyósított, ezekkel azonos típusú ellátások kivételével – nem részesül.
+
+(1a) Az (1) bekezdés alkalmazása során magántáncos, táncos szólista vagy tánckari tag tevékenységet főfoglalkozásszerűen az a személy folytathat, aki az e tevékenységek végzésére irányuló, biztosítással járó jogviszonyával egyidejűleg nem folytat biztosítással járó jogviszonyban más tevékenységet, kivéve
+
+- a) a tudományos, ismeretterjesztő, oktatói vagy szerzői jogi védelem alá eső tevékenységet, és
+- b) a táncművészet területén végzett rendezői, koreográfusi, balettmesteri, művészeti vezetői és koreográfus-asszisztensi tevékenységet.
 
 (2) 2012. január 1-jétől – a 2012. januári nyugdíjemelés mértékével növelt összegben – balettművészeti életjáradékként kell továbbfolyósítani annak az 1950. évben vagy azt követően született, az egyes művészeti tevékenységeket folytatók öregségi nyugdíjra jogosultságáról szóló 5/1992. (I. 13.) Korm. rendelet alapján öregségi nyugdíjban részesülő, és a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény 3. § (2) bekezdés c) pontjának hatálya alá nem tartozó személynek az öregségi nyugdíját, aki 2011. december 31-én rendelkezik az (1) bekezdés a) pontjában meghatározott feltétellel.
 
-(3) A balettművészeti életjáradékot a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 62. §-ában foglaltak szerint kell emelni.
+(3) A táncművészeti életjáradékot a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 62. §-ában foglaltak szerint kell emelni.
 
-43/B. § (1) Ha e törvény vagy a végrehajtására kiadott kormányrendelet másként nem rendelkezik, az igényérvényesítésre, a balettművészeti életjáradék megállapítására, folyósítására, a szolgálati idő meghatározására és számítására, a balettművészeti életjáradékra jogosító idő megállapítására és igazolására, a jogorvoslatra, az eljárási költségek viselésére, a jogalap nélküli ellátás visszafizetésére és megtérítésére, a késedelmi kamat megtérítésére, az adatszolgáltatási és bejelentési kötelezettségre, a mulasztási bírságra,, a tartozás elengedésére, mérséklésére és fizetési kedvezmény engedélyezésére, a végrehajtásra, valamint az adatkezelésre az öregségi nyugdíjra vonatkozó szabályokat kell megfelelően alkalmazni azzal, hogy ahol az öregségi nyugdíjra vonatkozó szabály nyugellátást vagy nyugdíjat említ, azon balettművészeti életjáradékot kell érteni.
+43/B. § (1) Ha e törvény vagy a végrehajtására kiadott kormányrendelet másként nem rendelkezik, az igényérvényesítésre, a táncművészeti életjáradék megállapítására, folyósítására, a szolgálati idő meghatározására és számítására, a táncművészeti életjáradékra jogosító idő megállapítására és igazolására, a jogorvoslatra, az eljárási költségek viselésére, a jogalap nélküli ellátás visszafizetésére és megtérítésére, a késedelmi kamat megtérítésére, az adatszolgáltatási és bejelentési kötelezettségre, a mulasztási bírságra,, a tartozás elengedésére, mérséklésére és fizetési kedvezmény engedélyezésére, a végrehajtásra, valamint az adatkezelésre az öregségi nyugdíjra vonatkozó szabályokat kell megfelelően alkalmazni azzal, hogy ahol az öregségi nyugdíjra vonatkozó szabály nyugellátást vagy nyugdíjat említ, azon balettművészeti életjáradékot kell érteni.
 
-(2) Ha e törvény vagy a végrehajtására kiadott kormányrendelet másként nem rendelkezik, a balettművészeti életjáradék szüneteltetésére, megszűnésére és fedezetére, a megszűnéssel kapcsolatos jogkövetkezményekre, valamint a balettművészeti életjáradékban részesülő személyek öregségi nyugdíjára a korhatár előtti ellátásra vonatkozó szabályokat kell megfelelően alkalmazni azzal, hogy ahol a korhatár előtti ellátásra vonatkozó szabály korhatár előtti ellátást említ, azon balettművészeti életjáradékot kell érteni.
+(2) Ha e törvény vagy a végrehajtására kiadott kormányrendelet másként nem rendelkezik, a táncművészeti életjáradék szüneteltetésére, megszűnésére és fedezetére, a megszűnéssel kapcsolatos jogkövetkezményekre, valamint a táncművészeti életjáradékban részesülő személyek öregségi nyugdíjára a korhatár előtti ellátásra vonatkozó szabályokat kell megfelelően alkalmazni azzal, hogy ahol a korhatár előtti ellátásra vonatkozó szabály korhatár előtti ellátást említ, azon táncművészeti életjáradékot kell érteni.
 
-43/C. § A 43/A–43/B. § alapján balettművészeti életjáradékra nem jogosult, előadó-művészeti tevékenységet folytató személyek számára jogszabályban meghatározott feltételek teljesülése esetén előadó-művészeti járadék állapítható meg.
+43/C. § A 43/A–43/B. § alapján táncművészeti életjáradékra nem jogosult, előadó-művészeti tevékenységet folytató személyek számára jogszabályban meghatározott feltételek teljesülése esetén előadó-művészeti járadék állapítható meg.
 
 ### VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -615,11 +521,11 @@ képviselője.
 
 - 1. bábszínház: előadó-művészeti tevékenységét jellemző módon bábművészek közreműködésével, a bábművészeti eszközök és megoldások felhasználásával végző, állandó játszóhellyel rendelkező színház,
 - 2. balett- vagy táncegyüttes: táncművészeti alkotásokat bemutató előadó-művészeti szervezet,
-- 3. befogadó színház: előadások bemutatására alkalmas játszóhellyel rendelkező, társulat nélküli színház, ideértve az olyan cirkuszművészeti szervezetet is, amely az előadást állandó játszóhelyen, saját tulajdonú vagy rendelkezésű kőépületben valósítja meg,
+- 3. befogadó színház: előadások, hangversenyek bemutatására alkalmas játszóhellyel rendelkező, társulat nélküli színház, ideértve az olyan cirkuszművészeti szervezetet, valamint hangversenytermet is, amely az előadást, hangversenyt állandó játszóhelyen, saját tulajdonú vagy rendelkezésű kőépületben valósítja meg,
 - 4. bemutató: az előadó-művészeti szervezet által létrehozott olyan előadás, amelyet az adott személyi összetételben (így különösen a főbb szereplőket, a rendezőt, a koreográfust, a díszlet- és a jelmeztervezőt tekintve) első alkalommal mutatnak be a nyilvánosságnak,
 - 5. big band: a jazz műfajába tartozó vagy áthangszerelt műveket előadó zenekar, melynél a fúvós hangszercsoportokat (rézkórusok, szaxofonkórus) ritmusszekció egészíti ki,
 - 6. előadás: prózai, zenés, táncos színpadi művek személyes előadóművészi teljesítménnyel, közönség jelenlétében történő nyilvános bemutatása,
-- 7. előadó-művészeti szervezet: az önálló jogi személyiségű színház, balett- vagy táncegyüttes, szimfonikus zenekar, énekkar, kamara-szimfonikus zenekar, kamarazenekar, amely alaptevékenységeként előadó-művészeti színház-, tánc- vagy zeneművészeti tevékenységet lát el,
+- 7. előadó-művészeti szervezet: az önálló jogi személyiségű színház, balett- vagy táncegyüttes, szimfonikus zenekar, énekkar, kamara-szimfonikus zenekar, kamarazenekar, amely létesítő okirata szerinti céljaként, vagy alap-, illetve főtevékenységeként előadó-művészeti színház-, tánc- vagy zeneművészeti tevékenységet lát el,
 - 8. énekkar: oratórikus vagy a cappella művek előadására alkalmas előadó-művészeti szervezet – ideértve a kamarakórust is –, ha létszáma legalább 12 fő,
 - 9. évad: az előadó-művészeti szervezetek tevékenységének a naptári évtől eltérő időegysége, az augusztus 1-jétől július 31-ig terjedő időszak, ide nem értve a szabadtéri színházak tevékenységének időegységét,
 - 10. fenntartó: bármely természetes vagy jogi személy, amely az előadó-művészeti szervezet felett irányítási, felügyeleti vagy tulajdonosi jogokat gyakorol,
@@ -630,8 +536,8 @@ képviselője.
 - 15. független színház: állami vagy önkormányzati fenntartó nélkül működő színház, balett- vagy táncegyüttes,
 - 16. hangverseny: klasszikus, kortárs komolyzenei zeneművek – ideértve az operát és a klasszikus operettet is –, továbbá jazz műfajú és népi eredetű zeneművek személyes előadó-művészi teljesítménnyel, közönség jelenlétében történő nyilvános bemutatása, amelyben a közreműködő zenekar vagy énekkar az e törvényben az érintett szervezettípus tekintetében meghatározott létszámot eléri vagy meghaladja,
 - 17. játszóhely: színházi előadás nyilvános bemutatására technikailag alkalmas, a vonatkozó jogszabály feltételeinek megfelelő épület, épületrész vagy szabadtéri színpad,
-- 18. kamara-szimfonikus zenekar: olyan zeneműveket játszó előadó-művészeti szervezet, melynek létszáma legalább 24, legfeljebb 55 fő, ide értve a népi koncertzenekart is,
-- 19. kamarazenekar: olyan zeneműveket játszó előadó-művészeti szervezet, melynek létszáma legalább 12, legfeljebb 23 fő, ide értve a népi koncertzenekart és a big bandet is,
+- 18. kamara-szimfonikus zenekar: olyan zeneműveket játszó előadó-művészeti szervezet, melynek létszáma legalább 24, legfeljebb 55 fő, ide értve a népi koncertzenekart és a fúvószenekart is,
+- 19. kamarazenekar: olyan zeneműveket játszó előadó-művészeti szervezet, melynek létszáma legalább 12, legfeljebb 23 fő, ide értve a népi koncertzenekart, fúvószenekart és a big bandet is,
 - 20. klasszikus operett: legalább 30 fős zenekar, énekkar, táncosok és magánénekesek közreműködését igénylő zenés darab,
 - 21. kortárs magyar, illetve magyarországi dráma: magyar állampolgár vagy önmagát magyarnak valló élő vagy 15 évnél nem régebben elhunyt művész magyarul vagy nemzetiségi nyelven írt alkotása,
 - 22. kortárs magyar zenemű: magyar állampolgár vagy önmagát magyarnak valló élő vagy 30 évnél nem régebben elhunyt művész alkotása,
@@ -669,7 +575,10 @@ képviselője.
   - a) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) 5. § (1) bekezdés a), b) és e)–g) pontja szerinti biztosítással járó jogviszony,
   - b) a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek hatálya alá tartozó személy esetén EGT-államban fennálló, a Tbj. 5. § (1) bekezdés a), b) és e)–g) pontja szerinti biztosítással járó jogviszonynak megfelelő jogviszony,
   - c) a szociálpolitikai (szociális biztonsági) egyezmény hatálya alá tartozó személy esetén – ha az egyezmény eltérően nem rendelkezik – a szerződő államban fennálló, a Tbj. 5. § (1) bekezdés a), b) és e)–g) pontja szerinti biztosítással járó jogviszonynak megfelelő jogviszony,
-- 54. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Unió és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez.
+- 54. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Unió és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez,
+- 55. fúvószenekar: komolyzene műfajába tartozó, eredeti vagy áthangszerelt műveket előadó zeneművészeti szervezet, amelyben a rézfúvós és fafúvós hangszercsoportokat ütőhangszeresek egészíthetik ki,
+- 56. hangversenyterem: olyan zárt terű, legalább száz ülőhelyet magába foglaló, nézőtérrel rendelkező befogadó színház, amely akusztikailag és technikailag alkalmas e törvény szerinti hangversenyek előadására,
+- 57. kamarakórus: oratorikus vagy a capella művek előadására alkalmas előadó-művészeti szervezet, amelynek létszáma legalább 12, legfeljebb 30 fő.
 
 ### Hatálybalépés
 
@@ -681,23 +590,19 @@ képviselője.
 
 ### Átmeneti rendelkezések
 
-46. § (1) E törvénynek az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény módosításáról szóló 2011. évi LXXXVI. törvénnyel (a továbbiakban: módosító törvény) megállapított
-
-- a) 4. § e)–f) pontját 2012. március 31-ét követően,
-- b) 5/B. § (1) bekezdésének d) pontját és (2) bekezdését 2012. május 1-jét követően,
-- c) 8. § (2) bekezdését a módosító törvény 24. § (2) bekezdésében meghatározott hatálybalépésnek a napján és az azt követően indult, illetve megismételt nyilvántartásba vételi eljárásokra,
-- d) 16–20. §-át és 24. §-át a 2013. január 1-jétől igénybe vehető támogatások tekintetében,
-- e) 47. § (2) bekezdésének b) és f) pontját 2012. március 31-ét követően kell alkalmazni. A 2012. december 31-éig igénybe vett támogatással az e törvénynek a támogatás igénybevétele napján hatályos szabályai szerint kell elszámolni.
+46. § (1)
 
 (2) 2018. január 1-jéig olyan színház, balett- és táncegyüttes is nemzeti előadó-művészeti szervezetté vagy kiemelt előadó-művészeti szervezetté minősíthető, amely tekintetében a 11. § (2) bekezdés b) pontjában vagy a 11. § (3) bekezdés b) pontjában meghatározott feltételek nem állnak fenn.
 
-(3) A 20. § (2) bekezdését a kiemelt előadó-művészeti szervezetnek minősített szimfonikus zenekarok esetében 2014. január 1-jétől kell alkalmazni.
+(3)–(4)
 
-(4) E törvénynek a módosító törvénnyel megállapított 39. § (5) és (6) bekezdését a módosító törvény hatálybalépésének napján és az azt követően kiírt pályázatokra kell alkalmazni.
+(4)
 
-(4) 2014. január 1-jéig olyan előadó művészeti szervezet is nemzeti előadó-művészeti szervezetté vagy kiemelt előadó-művészeti szervezetté minősíthető, amely tekintetében a 11. § (2) bekezdés c) pontjában vagy a 11. § (3) bekezdés c) pontjában meghatározott feltételek nem állnak fenn.
+(5)
 
-(5) Az Előadó-művészeti Tanács tagjainak jogviszonya a módosító törvény 24. § (2) bekezdésében meghatározott hatálybalépést követő 15. napon megszűnik. Az Előadó-művészeti Tanács a módosító törvény hatálybalépésekor folyamatban lévő ügyeiben az érintett bizottság jár el. A miniszter a bizottság tagjait a módosító törvény 24. § (2) bekezdésében meghatározott hatálybalépést követő 15 napon belül kéri fel.
+46/A. § (1) 2017. január 1-jétől a nyugdíjfolyósító szerv a nyugdíjkorhatárt be nem töltő személyek balettművészeti életjáradékát hivatalból – a 2017. januári nyugdíjemelés mértékével növelt összegben – táncművészeti életjáradékként folyósítja.
+
+(2) Az egyes törvényeknek a táncművészeti életjáradék bevezetésével összefüggő módosításáról szóló 2016. évi CLXIV. törvénnyel megállapított 43/A. § (1) bekezdés a) pontjában meghatározott feltételeknek megfelelő, nyugdíjkorhatárt be nem töltött, korhatár előtti ellátásban részesülő személy 2017. február 28-áig benyújtott kérelmére a nyugdíjfolyósító szerv a korhatár előtti ellátást 2017. május 1-jétől táncművészeti életjáradékként folyósítja.
 
 ### Felhatalmazások
 
@@ -705,19 +610,30 @@ képviselője.
 
 - a) jelölje ki az előadó-művészeti szervezetek működésével összefüggő közigazgatási hatósági és szolgáltatási feladatokat ellátó szervezetet,
 - b) meghatározza az egyes művészi és művészeti munkaköröket, valamint a betöltésükhöz szükséges képesítési és egyéb feltételek részletes szabályait,
-- c) határozza meg a balettművészeti életjáradék megállapításának, folyósításának, szüneteltetésének és megszüntetésének részletes eljárási szabályait,
-- d) határozza meg az egyes előadó-művészeti tevékenységet folytatók járadéka igénybevételének feltételeit.
+- c) határozza meg a táncművészeti életjáradék megállapításának, folyósításának, szüneteltetésének és megszüntetésének részletes eljárási szabályait,
+- d) határozza meg az egyes előadó-művészeti tevékenységet folytatók járadéka igénybevételének feltételeit,
+- e) határozza meg a Nemzeti Előadó-művészeti Érdekegyeztető Tanács tagjaira, működésére vonatkozó szabályokat,
+- f) határozza meg az előadó-művészeti bizottságok működésére, a működés feltételeire, valamint az előadó-művészeti bizottságok által elkészítendő felosztási szabályzat és javaslat elkészítésére és tartalmára vonatkozó szabályokat,
+- g) határozza meg a művészeti támogatás mértékének megállapításánál irányadó szempontokat és a művészeti támogatás biztosításának feltételeit tartalmazó részletes szabályokat,
+- h) határozza meg a létesítménygazdálkodási célú működési támogatás biztosításának feltételeit tartalmazó részletes szabályokat,
+- i) határozza meg a nem minősített előadó-művészeti szervezetek működésének és szakmai program megvalósításának támogatására irányuló pályázatok részletes szabályait,
+- j) határozza meg a miniszter által felügyelt költségvetési fejezetből az előadó-művészeti szervezeteknek pályázati úton nyújtható kiemelt támogatások részletes szabályait,
+- k) határozza meg az előadó-művészeti szervezettel kötendő, közfeladatellátásra irányuló közszolgáltatási szerződés tartalmára és megkötésére irányadó szabályokat,
+- l) határozza meg az önkormányzati fenntartású előadó-művészeti szervezet számára fenntartói megállapodásban biztosított támogatás tartalmára és megkötésére irányadó szabályokat,
+- m) határozza meg az előadó-művészeti szervezet és előadó-művészeti szakmai érdek-képviseleti szervezet nyilvántartásba vételére, a nyilvántartáshoz szükséges adatszolgáltatási kötelezettségre, az igazolás kiállítására, valamint a hatósági ellenőrzéssel kapcsolatos hatósági eljárásra, valamint a központi költségvetésből nyújtott támogatás mértékének megállapításához szükséges, továbbá a 11. § és a 12. § szerinti minősítés alapjául szolgáló adatszolgáltatási kötelezettségre vonatkozó szabályokat,
+- n) határozza meg a zenekar, énekkar által teljesítendő fizetőnéző-szám alsó határát,
+- o) határozza meg a szakmai próbajáték és próbaéneklés meghirdetésére vonatkozó szabályokat,
+- p) szabályozza a zenekar és az énekkar tevékenysége folytatásának tárgyi feltételeit,
+- q) határozza meg az e törvény alapján a helyi önkormányzatok központi költségvetési kapcsolataiból származó támogatásokat tartalmazó fejezetből – az Európai Bizottság által jóváhagyott kulturális támogatási programmal összhangban – nyújtott támogatás elszámolható költségeinek körét, a támogatás felhasználásáról készült, e törvény szerinti beszámoló formai és tartalmi követelményeit, továbbá a beszámoló benyújtásával és elfogadásával kapcsolatos részletes szabályokat.
 
 (2) Felhatalmazást kap a miniszter, hogy
 
-- a) a nyilvántartásba vételre, a nyilvántartáshoz szükséges adatszolgáltatási kötelezettségre, az igazolás kiállítására, valamint a hatósági ellenőrzéssel kapcsolatos hatósági eljárásra, valamint a központi költségvetésből nyújtott támogatás mértékének megállapításához szükséges, továbbá a 11. § és a 12. § szerinti minősítés alapjául szolgáló adatszolgáltatási kötelezettségre vonatkozó szabályokat,
+- a)
 - b) a nemzeti előadó-művészeti szervezetek és a kiemelt előadó-művészeti szervezetek a 11. § és a 12. § alapján megállapított körét,
 - c) a 6. § (3) bekezdése szerinti igazgatási szolgáltatási díj mértékét, a beszedésére jogosult személyét, a fizetési számla megnevezését és számát, az igazgatási szolgáltatási díj kezelésének, nyilvántartásának és visszatérítésének módját az adópolitikáért felelős miniszterrel egyetértésben kiadott,
-- d) a fizető nézőszám alsó határát,
-- e) a szakmai próbajáték és próbaéneklés meghirdetésére vonatkozó szabályokat,
-- f) a zenekar, énekkar tevékenysége folytatásának tárgyi feltételeit,
+- d)–f)
 - g)
-- h) az e törvény alapján a helyi önkormányzatok központi költségvetési kapcsolataiból származó támogatásokat tartalmazó fejezetből nyújtott támogatás – az Európai Bizottság által jóváhagyott kulturális támogatási programmal összhangban – elszámolható költségeinek körét, a támogatás felhasználásáról készült, e törvény szerinti beszámoló formai és tartalmi követelményeit, továbbá a beszámoló benyújtásával és elfogadásával kapcsolatos részletes szabályokat az államháztartásért felelős miniszterrel egyetértésben kiadott rendeletben határozza meg.
+- h) rendeletben határozza meg.
 
 (3)
 

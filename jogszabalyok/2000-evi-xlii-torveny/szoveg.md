@@ -73,13 +73,13 @@ látja el.
 
 4. § (1) A hajózással, a víziutakkal és a kikötőkkel összefüggő állami feladatok körében az igazgatási tevékenységet, a 2. § (2) bekezdésében megjelölt munkamegosztásra is figyelemmel, a miniszter – a (4) bekezdésben, továbbá az 5–6. §-okban megállapított kivétellel – az egységes közlekedési igazgatási szervezet, útján végzi.
 
-(2) Az egységes közlekedési igazgatási szervezeten belül működő hajózási igazgatási szervezet részei a miniszter által vezetett minisztérium, továbbá a hajózással összefüggő igazgatási feladatok ellátására létrehozott központi és területi szervek (a továbbiakban együtt: hajózási hatóságok).
+(2) Az egységes közlekedési igazgatási szervezeten belül működő hajózási igazgatási szervezet részei a miniszter által vezetett minisztérium, továbbá a hajózással összefüggő igazgatási feladatok ellátására létrehozott területi szervek (a továbbiakban együtt: hajózási hatóságok).
 
 (3) A hajózási hatóság eljárásáért miniszter rendeletében meghatározott igazgatási szolgáltatási díjat kell fizetni.
 
 (4) Az ország határain kívül Magyarország konzuli tisztviselője első fokú hajózási hatósági jogkörben jár el a képesítő okmányok, a szolgálati könyvek ideiglenes pótlása, meghosszabbítása, valamint – a hajózási hatóság felkérésére – a hajóokmányok érvényességi idejének ideiglenes meghosszabbítása tekintetében. Ellátja továbbá a nemzetközi szerződésekben meghatározott, hajózással kapcsolatos egyéb konzuli feladatokat.
 
-(5) A hajózási hatóságnál kezdeményezett eljárásokban a Kormány által rendeletben meghatározott dokumentum elektronikus úton nem terjeszthető elő.
+(5)
 
 (6) A kikötő létesítésével, fennmaradásával, továbbá az úszólétesítmény építési (átépítési) terveinek felülvizsgálatával és jóváhagyásával, valamint a komp- és révátkelőhely létesítésével és fennmaradásával, üzemben tartásával kapcsolatos ügyekben az ügyintézési határidő 30 nap.
 
@@ -445,7 +445,7 @@ nyújtani, valamint – szükség esetén – gondoskodni arról, hogy a beteg a
 
 (4) Az úszólétesítmény vezetője az (1) bekezdés szerinti jegyzőkönyvet és hagyatéki tárgyakról készített leltárjegyzéket, továbbá a tengeri nagyhajón a közreműködésével készített vagy részére átadott végrendeletet köteles a hajó útjába eső első, arra alkalmas kikötőben a magyar külképviselet konzuli tisztviselőjéhez eljuttatni.
 
-(5) Az anyakönyvi események anyakönyvezésére a hazai anyakönyvezést végző hatóság rendelkezik hatáskörrel.
+(5) Az anyakönyvi események anyakönyvezésére a hazai anyakönyvezésre kijelölt anyakönyvi szerv rendelkezik hatáskörrel.
 
 ### V/A. Fejezet — A KIZÁRÓ OKOK VIZSGÁLATA
 
@@ -1259,7 +1259,7 @@ rendeletben történő megállapítására.
 
 (7) Úszólétesítmény nyilvántartásba vételére és üzemképességére vonatkozóan e törvény hatálybalépését megelőzően kiállított okiratok a legközelebbi időszakos üzemképességi vizsgálatig érvényesek.
 
-(8)
+(8) Ha a hajózási hatóság az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
 90. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 

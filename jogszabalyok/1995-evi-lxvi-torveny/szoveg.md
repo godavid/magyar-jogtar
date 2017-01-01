@@ -277,7 +277,7 @@ levéltári anyagára, továbbá mindezek jogelődeinek működése során kelet
 
 (4) Az Állambiztonsági Szolgálatok Történeti Levéltára működésének speciális szabályait, valamint az e törvényben meghatározottakon túlmenően ellátandó feladatait a (3) bekezdésben említett törvény határozza meg.
 
-(4a) A VERITAS Történetkutató Intézet levéltárának illetékessége a Kormány rendeletével kárpótlási hatóságként kijelölt igazságügyért felelős miniszter és az általa irányított központi hivatal kárpótlási hatósági feladatköréhez kapcsolódó ügyekben keletkezett iratokra terjed ki.
+(4a) A VERITAS Történetkutató Intézet levéltárának illetékessége a Kormány rendeletével kárpótlási hatóságként kijelölt igazságügyért felelős miniszter kárpótlási hatósági feladatköréhez kapcsolódó ügyekben keletkezett iratokra terjed ki.
 
 (5) A (2) bekezdés d) pontjában meghatározott szaklevéltár létesítését és megszüntetését – a szerv felügyeletét vagy irányítását ellátó miniszter, az autonóm államigazgatási szerv vagy az önálló szabályozó szerv vezetője véleményének előzetes kikérésével – a kultúráért felelős miniszter engedélyezi.
 

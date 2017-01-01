@@ -91,7 +91,15 @@ meghatározott hatáskörök együttesét kell érteni.
 
 (2) Ha jogszabály a központi államigazgatási szervnek címez hatáskört, azt a szerv vezetője gyakorolja.
 
-(3) A központi államigazgatási szerv szervezeti és működési szabályzata a szerv vezetőjének hatáskörébe tartozó egyes ügyekben a kiadmányozási jogot a szervvel állami vezetői szolgálati jogviszonyban vagy állami vezetőként betöltött jogviszonyban, illetve vezetői munkakörrel rendelkező kormányzati szolgálati jogviszonyban álló személyre ruházhatja, aki a döntés meghozatala során a szerv vezetője nevében jár el.
+(3) A központi államigazgatási szerv szervezeti és működési szabályzata a szerv vezetőjének hatáskörébe tartozó egyes ügyekben a kiadmányozási jogot a szervvel
+
+- a) állami vezetői szolgálati jogviszonyban vagy állami vezetőként betöltött jogviszonyban álló személyre,
+- b) vezetői munkakörrel rendelkező kormányzati szolgálati jogviszonyban álló személyre,
+- c) vezetői munkakörrel rendelkező közszolgálati jogviszonyban álló személyre,
+- d) vezető beosztással rendelkező hivatásos szolgálati viszonyban álló személyre, illetve
+- e) vezető beosztással rendelkező katonai szolgálati viszonyban álló személyre
+
+ruházhatja, aki a döntés meghozatala során a szerv vezetője nevében jár el.
 
 5/A. § (1) A központi államigazgatási szerv, a miniszter irányítása vagy felügyelete alatt álló központi költségvetési szerv és – ha a miniszter gazdasági társaság felett tulajdonosi jogot, illetve alapítvány tekintetében alapítói jogot gyakorol – az ilyen gazdasági társaság, illetve az ilyen alapítvány a Kormány rendeletében meghatározott esetben és módon átadás-átvételi eljárást folytat le.
 

@@ -6,11 +6,11 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
 
 ### Általános rendelkezések
 
-1. § (1) A 4. §-ban meghatározott személy járadék fizetésére, a 4/A. §-ban, 4/B. §-ban és a 4/D. §-ban meghatározott személy különadó fizetésére kötelezett.
+1. § (1) A 4/A. §-ban, 4/B. §-ban és a 4/D. §-ban meghatározott személy különadó fizetésére kötelezett.
 
-(2) A járadékból és a különadóból származó bevétel a központi költségvetést illeti meg.
+(2) A különadóból származó bevétel a központi költségvetést illeti meg.
 
-(3) Az (1) bekezdésben említett járadék és különadó adónak minősül. Az e törvényben nem szabályozott kérdésekben az adózás rendjéről szóló törvény (a továbbiakban: Art.) rendelkezései az irányadók.
+(3) Az (1) bekezdésben említett különadó adónak minősül. Az e törvényben nem szabályozott kérdésekben az adózás rendjéről szóló törvény (a továbbiakban: Art.) rendelkezései az irányadók.
 
 ### A magánszemély adókötelezettsége
 
@@ -22,21 +22,7 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
 
 ### A hitelintézetek járadéka
 
-4. § (1) A hitelintézet az állami kamattámogatással, kamatkiegyenlítéssel közvetlenül vagy közvetetten érintett hitelállománya alapján az adóévben kamat és kamatjellegű bevételként (ideértve a külön jogszabály szerint jelzálog-levéllel finanaszírozott hitelek kamattámogatását is) elszámolt – az állami kamattámogatással, kamatkiegyenlítéssel közvetlenül vagy közvetetten érintett hitelállomány alapján, külön jogszabály előírása szerint a fizetett kamatok és kamatjellegű ráfordítások között elszámolt, az állammal szembeni kamatkülönbözet fizetési kötelezettséggel csökkentett – összeg után 5 százalékos mértékkel járadékot állapít meg és fizet.
-
-(2) Az (1) bekezdésben foglaltaktól eltérően a jelzálog-hitelintézetnél bevételként elszámolt állami kamattámogatás után a járadékot a finanszírozásban részesülő hitelintézet köteles megfizetni, ha a jelzálog-hitelintézet annak összegéről a hitelintézetet írásban tájékoztatja.
-
-(3) A hitelintézet az (1) bekezdés szerinti kötelezettség megállapításához elkülönített nyilvántartást vezet.
-
-(4) A hitelintézet a járadékelőleget negyedévente, a negyedévet követő hónap 12-éig, az utolsó negyedévi adóelőleget az adóév utolsó hónapjának 20. napjáig fizeti meg az adott negyedévben kamat és kamatjellegű bevétel címén elszámolt összeg után.
-
-(5) A pénzügyi intézmény a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló 2011. évi LXXV. törvény (a továbbiakban: Gyűjtőszámlahitel tv.) 2/A. § (1) bekezdése alapján az állam által a tárgyévre megtérített összeg 50%-ával megegyező összegű járadékot állapít meg és fizet a Gyűjtőszámlahitel tv. alapján megtérített mentesített követelésrész után. A pénzügyi intézmény a járadékot negyedévente, az államot a negyedévre terhelő megtérítési kötelezettség teljesítésére jogszabályban előírt határidőt követő hó utolsó napjáig állapítja meg, vallja be és fizeti meg. Az állam által a Gyűjtőszámlahitel tv. alapján megtérített mentesített követelésrészre és az államnak a rögzített árfolyam alkalmazási időszaka alatt felmerült, a legmagasabb árfolyamot meghaladó törlesztési kötelezettségére tekintettel a gyűjtőszámlahitelek és az azok alapjául szolgáló devizakölcsönök az (1)–(4) bekezdés értelmében nem minősülnek állami kamattámogatással, kamatkiegyenlítéssel közvetlenül érintett hitelállománynak.
-
-(5a) A pénzügyi intézmény által az (5) bekezdés alapján az elszámolás napját megelőzően megfizetett járadék összegét nem érinti a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire vonatkozó jogegységi határozatával kapcsolatos egyes kérdések rendezéséről szóló 2014. évi XXXVIII. törvényben rögzített elszámolás szabályairól és egyes egyéb rendelkezésekről szóló törvény szerinti elszámolás.
-
-(6) A Gyűjtőszámlahitel tv. 2/A. §-a alapján az állam által az üzleti évre (az adóévre) megtérített összeget a pénzügyi intézménynél az üzleti év (ár)bevétele alapulvétele alapján fizetendő adó és más hasonló fizetési kötelezettség megállapításánál figyelmen kívül kell hagyni, továbbá a Gyűjtőszámlahitel tv. 2/A. § (2) bekezdése alapján az állam által a tárgyévre megtérített összeg mentes az (1)–(4) bekezdésben meghatározott járadék alól.
-
-(7) Az állam által a devizakölcsönök törlesztési árfolyamának rögzítését érintő megtérítésről és a közszférában dolgozók támogatásáról szóló 57/2012. (III. 30.) Korm. rendelet alapján nyújtott támogatásra, továbbá az otthonteremtési kamattámogatásról szóló 341/2011. (XII. 29.) Korm. rendelet alapján nyújtott támogatásra tekintettel a támogatással érintett kölcsönök az (1)–(4) bekezdés értelmében nem minősülnek állami kamattámogatással, kamatkiegyenlítéssel közvetlenül érintett hitelállománynak.
+4. §
 
 ### Pénzügyi szervezetek különadója
 
@@ -48,20 +34,19 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
 
 (4) A különadó alapja
 
-- 1. hitelintézetnél a hitelintézetek és a pénzügyi vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet szerint készített 2009. évi éves beszámoló adataiból számított módosított mérlegfőösszeg;
+- 1. hitelintézetnél a hitelintézetek és a pénzügyi vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet szerint készített adóévet megelőző második adóévi éves beszámoló adataiból számított módosított mérlegfőösszeg;
 - 2.
 - 3. egyéb pénzügyi szervezetnél:
-  - a) pénzügyi vállalkozásnál a hitelintézetek és a pénzügyi vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet szerint készített 2009. évi éves beszámoló adataiból előjelhelyesen számított aa) kamateredmény, valamint ab) díj- és jutalékeredmény összevont összege;
-  - b) befektetési vállalkozásnál a befektetési vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet szerint készített 2009. évi éves beszámoló adataiból számított korrigált nettó árbevétel,
-  - c) tőzsdénél a tőzsdék és az elszámolóházi tevékenységet végző szervezetek éves beszámolókészítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet szerint készített 2009. évi éves beszámoló adataiból számított korrigált nettó árbevétel,
-  - d) árutőzsdei szolgáltatónál, kockázati tőkealap-kezelőnél a 2009. évi éves beszámoló adataiból számított korrigált nettó árbevétel,
-  - e)
+  - a) pénzügyi vállalkozásnál a hitelintézetek és a pénzügyi vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet szerint készített adóévet megelőző második adóévi éves beszámoló adataiból előjelhelyesen számított aa) kamateredmény, valamint ab) díj- és jutalékeredmény összevont összege;
+  - b) befektetési vállalkozásnál a befektetési vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet szerint készített adóévet megelőző második adóévi éves beszámoló adataiból számított korrigált nettó árbevétel;
+  - c) tőzsdénél a tőzsdék és az elszámolóházi tevékenységet végző szervezetek éves beszámolókészítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet szerint készített adóévet megelőző második adóévi éves beszámoló adataiból számított korrigált nettó árbevétel;
+  - d) árutőzsdei szolgáltatónál, kockázati tőkealap-kezelőnél az adóévet megelőző második adóévi éves beszámoló adataiból számított korrigált nettó árbevétel.
 
 (5)
 
 (6) A különadó mértéke
 
-- a) hitelintézet esetén az adóalap 50 milliárd forintot meg nem haladó része után 0,15 százalék, az e feletti összegre 0,24 százalék 2016-ban,
+- a) hitelintézet esetén az adóalap 50 milliárd forintot meg nem haladó része után 0,15 százalék, az e feletti összegre 0,21 százalék 2017-ben és 2018-ban;
 - b)
 - c) egyéb pénzügyi szervezet esetén:
   - ca) pénzügyi vállalkozásnál a (4) bekezdés 3. pont a) pontjában meghatározott összeg 6,5 százaléka,
@@ -72,9 +57,9 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
 
 (7) A hitelintézet által az üzleti évre (adóévre) fizetendő különadónak a (6) bekezdés a) pontja szerint, a (11)–(37) bekezdésben foglaltak figyelembevételével kiszámított összegét, legfeljebb annak mértékéig csökkenti az általa az üzleti évre (adóévre) hitelintézetek különadója címén fizetett (fizetendő) összeg.
 
-(8) A jogutód a jogutódlással 2011. január 1-jét követően megszűnő adózó – a jogutódlással történő megszűnés adóévében hatályos rendelkezések szerint megállapított – különadó fizetési kötelezettségét – első ízben a jogutódlást követő adóévben – március 10-éig megállapítja és az esedékességének megfelelő részletezésben külön nyomtatványon bevallja, valamint negyedévenként, a negyedév utolsó hónapjának 10. napjáig négy egyenlő részletben megfizeti.
+(8) A jogutód a jogutódlással megszűnő adózóra tekintettel a különadó fizetési kötelezettséget a jogutódlást követő adóévben a jogutódlással történő megszűnés adóévében hatályos rendelkezések (adóalap, adókulcs) szerint, a jogutódlással történő megszűnés adóévére vonatkozóan megállapított összegben állapítja meg, vallja be és fizeti meg.
 
-(8a) A hitelintézet a (8) bekezdést a (11) bekezdésben foglaltakra figyelemmel alkalmazza.
+(8a)
 
 (9) A megszűnő, vagy a különadó hatálya alól bármely más okból kikerülő pénzügyi szervezet a különadóval összefüggő minden olyan adókötelezettségét, amelynek teljesítésére előírt határidő korábban nem telt le, a megszűnését, illetőleg a különadó hatálya alól történő kikerülését követő 30. napig teljesíti.
 
@@ -86,7 +71,7 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
 - d) az árutőzsdei szolgáltatást nem kizárólagosan végző árutőzsdei szolgáltató az éves beszámolóban szereplő értékesítés nettó árbevételéből az árutőzsdei szolgáltatásból származó árbevételt tartalmazó kimutatást,
 - e)
 
-(11) Az a hitelintézet, amely az adóévben befektetési szolgáltatási tevékenységet végez, vagy kiegészítő szolgáltatást nyújt, ezen tevékenységek vonatkozásában külön adókötelezettséget állapít meg a (4) bekezdés 3. pontjának és a (6) bekezdés c) pontjának megfelelő alkalmazásával az adóévi beszámoló adataira figyelemmel. Ezen tevékenységek vonatkozásában a különadót a hitelintézet az adóévet követő adóév szeptember 10-ig állapítja meg, vallja be és két egyenlő részletben – szeptember 10-ig és december 10-ig – megfizeti.
+(11)
 
 (12) Az a hitelintézet, amely a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXVII. törvény (a továbbiakban: Hpt.) 6. § (1) bekezdés 89. pontja szerinti pénzügyi lízing tevékenységet végez, az e § szerinti adókötelezettségét ezen tevékenysége vonatkozásában a pénzügyi vállalkozásokra vonatkozó rendelkezések megfelelő alkalmazásával, az adóévet megelőző második adóévi éves beszámoló adatai alapján állapítja meg. Az a hitelintézet, amely a Hpt. 6. § (1) bekezdés 89. pontja szerinti pénzügyi lízing tevékenységet jogutódlásra tekintettel végzi, e bekezdés szerinti adókötelezettségét a (8) bekezdésre figyelemmel állapítja meg.
 
@@ -153,20 +138,17 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
 
 5. § (1)
 
-(2) A 4. § alapján megállapított járadékot az adózás előtti eredmény terhére kell elszámolni. A 4/A. § alapján megállapított és bevallott különadót az adózás előtti eredmény terhére kell elszámolni, azzal, hogy a felügyeleti adatszolgáltatás céljából évközi főkönyvi zárásra és főkönyvi kivonat készítésére kötelezett pénzügyi szervezetnek az éves különadót időarányosan kell az évközi eredményben bemutatnia. A 4/B. § alapján megállapított és bevallott hitelintézeti különadó üzleti évre (adóévre) fizetett (fizetendő) összegét a társasági adó számviteli elszámolására vonatkozó szabályok szerint kell kimutatni. A hitelintézet által az adóévre (üzleti évre) fizetendő társasági adó alapjának megállapításánál az adózás előtti eredményt csökkenti a hitelintézetek különadója adóévre (üzleti évre) fizetett (fizetendő) összege.
+(2) A 4/A. § alapján megállapított és bevallott különadót az adózás előtti eredmény terhére kell elszámolni, azzal, hogy a felügyeleti adatszolgáltatás céljából évközi főkönyvi zárásra és főkönyvi kivonat készítésére kötelezett pénzügyi szervezetnek az éves különadót időarányosan kell az évközi eredményben bemutatnia. A 4/B. § alapján megállapított és bevallott hitelintézeti különadó üzleti évre (adóévre) fizetett (fizetendő) összegét a társasági adó számviteli elszámolására vonatkozó szabályok szerint kell kimutatni. A hitelintézet által az adóévre (üzleti évre) fizetendő társasági adó alapjának megállapításánál az adózás előtti eredményt csökkenti a hitelintézetek különadója adóévre (üzleti évre) fizetett (fizetendő) összege.
 
-(3) A pénzügyi intézményt, valamint a visszaigénylésre jogosult társaságot a 4/A. § (11)–(30) bekezdése alapján az adóévre megillető különadó-visszatérítés vagy adójóváírás összegét a pénzügyi intézmény, valamint a visszaigénylésre jogosult társaság a Tao törvény 26. §-ának (10) bekezdésében meghatározott adóelőleg-kiegészítési kötelezettségének teljesítésekor az adóévi várható fizetendő társasági adójának alapját képező számított adóalap megállapításánál nem köteles figyelembe venni.
+(3)
 
-(4) A magánszemély (a fogyasztó) és a pénzügyi intézmény által a 4/A. §-ban meghatározott különadóalap-csökkentés vagy adóvisszatérítés alapjául szolgáló tartozás-elengedés, szerződésmódosítás
-
-- a) révén megszerzett vagy juttatott vagyoni érték (bevétel) mentes minden adó, hozzájárulás, járulék, illeték és más közteher (ideértve különösen a személyi jövedelemadót, a nyugdíjjárulékot, az egészségbiztosítási és munkaerő-piaci járulékot, a szociális hozzájárulási adót, az egészségügyi hozzájárulást, a szakképzési hozzájárulást, valamint a vagyonszerzési illetéket) alól,
-- b) következtében a pénzügyi intézmény által az üzleti év (adóév) adózás előtti eredménye terhére elszámolt ráfordítás a társasági adó szempontjából a vállalkozási tevékenység érdekében felmerült ráfordításnak minősül, valamint az elszámolt bevételeket a pénzügyi intézménynél az üzleti év (ár)bevételén alapuló adó megállapításánál és más hasonló fizetési kötelezettség meghatározásánál figyelmen kívül kell hagyni, azzal, hogy amennyiben a pénzügyi intézmény által elengedett összeg meghaladja a követelés 25%-át, akkor a jelen bekezdés rendelkezései a különadóalap-csökkentés vagy az adóvisszatérítés alapjául nem szolgáló elengedett összegre is vonatkoznak.
+(4)
 
 6. § (1)–(2)
 
-(3) Az adóév utolsó hónapjának 20. napjáig a hitelintézetnek a 4. § szerinti járadék várható összegének a már megfizetett járadékelőleggel csökkentett különbözetét meg kell fizetnie. E rendelkezés nem vonatkozik arra a hitelintézetre, amelynek az adóévet megelőző adóévben az éves szinten számított árbevétele nem haladta meg az 50 millió forintot.
+(3)
 
-(4) A 4. § szerinti járadékot az adózás rendjéről szóló 2003. évi XCII. törvényben a társasági adóra előírt határidőben – az adóévben a Hpt. hatálya alól kikerülő hitelintézet esetében a 4. § szerinti járadékot a kikerülést követő 90. napig – kell megállapítani, bevallani és megfizetni, illetve ettől az időponttól lehet visszaigényelni.
+(4)
 
 (5)–(6)
 
@@ -176,8 +158,8 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
 
 7. § E törvény alkalmazásában
 
-- 1. közvetlenül érintett hitelállomány: azon kölcsönügyletek összessége, amelyek tekintetében a hitelintézet a kölcsönügylet adósa részére kedvezményes ügyleti kamat- és díjmértéket érvényesít és ezen ügyletek tekintetében az állami kamattámogatást a hitelintézet közvetlen módon az állammal elszámolja;
-- 2. közvetetten érintett hitelállomány: azon kölcsönügyletek összessége, amelyek tekintetében a hitelintézet a finanszírozó forrást jelzálog-hitelintézettől önálló jelzálogjog eladása és egyidejű visszavásárlása útján biztosítja, és erre tekintettel a kölcsönügylet adósa részére kedvezményes ügyleti kamat- és díjmértéket érvényesít;
+- 1.
+- 2.
 - 3. pénzügyi szervezet: a hitelintézet és az egyéb pénzügyi szervezet, ideértve a fióktelep formában működő pénzügyi szervezeteket is;
 - 4. hitelintézet: a Hpt. szerinti hitelintézet;
 - 5–6.
@@ -230,7 +212,7 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
 
 (9)
 
-9. § Az államháztartás egyensúlyát javító különadóról és járadékról szóló 2006. évi LIX. törvény módosításáról szóló 2012. évi VIII. törvénnyel (e § alkalmazásában: törvény) módosított 4/A. § (19) bekezdését a törvény hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
+9. §
 
 10. §
 

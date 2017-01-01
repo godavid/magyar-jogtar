@@ -258,6 +258,8 @@ meghatározott feltételek vizsgálatát kell érteni.
 
 (4) Az áldozatsegítő szolgálat a visszatérítendő összeg megfizetésére kérelemre, indokolt esetben egy alkalommal legfeljebb hat hónap halasztást vagy részletfizetést engedélyezhet.
 
+(4a) Az áldozatsegítő szolgálat visszatérítés tárgyában hozott döntése ellen fellebbezésnek van helye.
+
 (5) A vissza nem térített támogatás adók módjára behajtandó köztartozásnak minősül, a teljesítés elmulasztása esetén az áldozatsegítő szolgálat megkeresi a tartozás összegének behajtására hatáskörrel rendelkező szervet.
 
 ### Méltányosság
@@ -266,7 +268,7 @@ meghatározott feltételek vizsgálatát kell érteni.
 
 (2) A méltányosság iránti kérelemhez csatolni kell az áldozat és a vele közös háztartásban élők jövedelmére vonatkozó igazolásokat.
 
-(3) A méltányossági kérelem tárgyában hozott döntés ellen fellebbezésnek helye nincs.
+(3)
 
 ### Nyilvántartás
 
@@ -386,13 +388,15 @@ formáiról, a jogosultság feltételeiről, az igénylés módjáról, valamint
 
 27. § (1) Az áldozatsegítő szolgálat az áldozati státus elbírálását követően, kérelemre, méltányossági döntés alapján, az áldozatnak a bűncselekmény, illetve a tulajdon elleni szabálysértés következtében kialakult helyzetére figyelemmel, az eset összes körülményeit vizsgálva és mérlegelve azonnali pénzügyi segélyt adhat.
 
-(2) Az áldozatsegítő szolgálatnak az azonnali pénzügyi segély iránti kérelemről szóló döntése ellen nincs helye fellebbezésnek.
+(2)
 
 ### Áldozati státusz igazolása
 
 28. § (1) Ha az áldozat nem rendelkezik a 11. § (1) bekezdésében meghatározott igazolással, azonban a 10. § (5) bekezdésében meghatározott egyéb iratok valamelyikét az áldozatsegítő szolgálathoz benyújtott kérelméhez csatolja, és abból a hatósági bizonyítvány kiállításának feltételei megállapíthatóak, az áldozati státusz igazolása ez alapján is kiállítható.
 
 (2) Ha a körülmények alapján bebizonyosodik, hogy a rászoruló áldozat sérelmének rendezéséhez a jogi segítségnyújtásról szóló 2003. évi LXXX. törvényben (a továbbiakban: Jst.) meghatározott jogi segítségnyújtásra van szükség, az áldozatsegítő szolgálat igazolja az ügyfél áldozati státuszát, és ezen igazolást, valamint – ha rendelkezésre áll – a kérelmet továbbítja a jogi segítségnyújtó szolgálatnak, amely a döntéséről és a megtett intézkedésekről haladéktalanul értesíti az áldozatsegítő szolgálatot. A jogi segítségnyújtásra az áldozat a Jst.-ben meghatározott feltételek esetén jogosult.
+
+(3) Az áldozatsegítő szolgálatnak az áldozati státusz igazolása tárgyában hozott döntésével szemben fellebbezésnek van helye.
 
 ### VI. Fejezet — A KÁRENYHÍTÉSRE VONATKOZÓ KÜLÖNÖS SZABÁLYOK
 
@@ -474,6 +478,8 @@ formáiról, a jogosultság feltételeiről, az igénylés módjáról, valamint
 
 (3) Járadék iránti kérelem elbírálása esetén, az (1) bekezdés szerinti eljárást követően a döntő hatóság megállapítja az egy főre eső jövedelemcsökkenés mértékét, és ennek alapján meghatározza a járadék összegét és a folyósítás időtartamát, vagy a kérelmet elutasítja.
 
+(4) A döntő hatóság kárenyhítés tárgyában hozott döntésével szemben fellebbezésnek van helye.
+
 ### A járadék felülvizsgálata
 
 38. § (1) Az áldozatsegítő szolgálat a járadékot engedélyező határozatban meghatározott időközönként ellenőrzi a járadékra való jogosultságot. Az ellenőrzés során az áldozat – a műtétet és a műtétnek minősülő vizsgálati eljárást kivéve – orvosi, szakértői vizsgálatra kötelezhető.
@@ -508,7 +514,7 @@ formáiról, a jogosultság feltételeiről, az igénylés módjáról, valamint
 
 ### Együttműködés és kapcsolattartás
 
-43. § (1) Az áldozatsegítő szolgálat feladatai ellátása során együttműködik és kapcsolatot tart a rendőrség áldozatvédelmi hálózatával, a nyomozó hatósággal, az ügyészséggel, a bírósággal, a bevándorlási és állampolgársági hivatallal, a konzuli szolgálattal, a helyi és nemzetiségi önkormányzatokkal, az egészségügyi intézményekkel, az ifjúságvédelmi szervezetekkel, a személyes gondoskodást nyújtó gyermekjóléti és gyermekvédelmi intézményekkel, a családsegítő szolgálatokkal, az alap- és szakellátást nyújtó szociális szolgáltatókkal és intézményekkel, a közoktatási intézményekkel, a polgárőrséggel, a civil szervezetekkel és a vallási közösségekkel.
+43. § (1) Az áldozatsegítő szolgálat feladatai ellátása során együttműködik és kapcsolatot tart a rendőrség áldozatvédelmi hálózatával, a nyomozó hatósággal, az ügyészséggel, a bírósággal, a menekültügyi hatósággal, az idegenrendészeti hatósággal, a konzuli szolgálattal, a helyi és nemzetiségi önkormányzatokkal, az egészségügyi intézményekkel, az ifjúságvédelmi szervezetekkel, a személyes gondoskodást nyújtó gyermekjóléti és gyermekvédelmi intézményekkel, a családsegítő szolgálatokkal, az alap- és szakellátást nyújtó szociális szolgáltatókkal és intézményekkel, a közoktatási intézményekkel, a polgárőrséggel, a civil szervezetekkel és a vallási közösségekkel.
 
 (2) Az áldozatsegítő szolgálat abban az esetben, ha munkája során kiskorú veszélyeztetettségéről szerez tudomást, haladéktalanul jelzi azt a kiskorú tényleges tartózkodási helye szerint illetékes gyermekjóléti szolgálatnak. Ha a feltárt körülmény a kiskorú életét, testi épségét súlyosan veszélyezteti, a jelzéssel egyidejűleg gyámhatósági eljárást kezdeményez.
 

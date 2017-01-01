@@ -42,6 +42,10 @@ is alkalmazni kell.
 
 (7) A XXVIII. Fejezet rendelkezéseit a rendvédelmi szervvel munkaviszonyban állókra kell alkalmazni.
 
+(8) A rendvédelmi egészségkárosodási keresetkiegészítésre és a rendvédelmi egészségkárosodási járadékra vonatkozó rendelkezéseket a szolgálati viszony megszűnését követően a hivatásos állomány volt tagjára és közeli hozzátartozóira is alkalmazni kell.
+
+(9) A 255/A. §-t és a 362/D. §-t a rendvédelmi szerv teljes személyi állományára alkalmazni kell.
+
 #### 2. Értelmező rendelkezések
 
 2. § E törvény alkalmazásában:
@@ -395,7 +399,7 @@ is alkalmazni kell.
 
 #### 22. A tulajdonjog gyakorlásának korlátozása
 
-30. § Az országos parancsnok, az országos főigazgató vagy az állományilletékes parancsnok munkabiztonsági okból vagy a szolgálatellátás rendjének fenntartása és ellenőrizhetősége érdekében megtilthatja, hogy a hivatásos állomány tagja a szolgálatban a miniszteri rendeletben meghatározott egyes vagyontárgyakat, magáncélú telekommunikációs eszközöket, valamint meghatározott összeget meghaladó készpénzt vagy – a bankkártya kivételével – készpénzt helyettesítő eszközt magánál tartson, továbbá korlátozhatja a magáncélú telekommunikációs eszközöknek a szolgálatellátás során történő használatát.
+30. § Az országos parancsnok, az országos főigazgató vagy az állományilletékes parancsnok munkabiztonsági okból vagy a szolgálatellátás rendjének fenntartása és ellenőrizhetősége érdekében megtilthatja, hogy a hivatásos állomány tagja a szolgálatban a miniszteri rendeletben meghatározott egyes vagyontárgyakat, magáncélú telekommunikációs eszközöket, valamint meghatározott összeget meghaladó készpénzt vagy – a bankkártya kivételével – a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti készpénz-helyettesítő fizetési eszközt magánál tartson, továbbá korlátozhatja a magáncélú telekommunikációs eszközöknek a szolgálatellátás során történő használatát.
 
 ### V. Fejezet — A SZOLGÁLATI VISZONY ALANYAI
 
@@ -467,7 +471,7 @@ is alkalmazni kell.
 - a) korábban szolgálati viszonyban állt, és
 - b) megfelel a 33. § (1)–(6) bekezdésében a szolgálati viszony létesítéséhez meghatározott feltételeknek.
 
-(2) A hivatásos állományba visszavételre a hivatásos szolgálat felső korhatárát megelőző tíz évig kerülhet sor.
+(2) A hivatásos állományba visszavételre a hivatásos szolgálat felső korhatárát megelőző tíz évig, egészségkárosodási ellátásra jogosult esetében a hivatásos szolgálat felső korhatáráig kerülhet sor.
 
 (3) A hivatásos állományba visszavételkor nem kell próbaidőt kikötni, ha a szolgálati viszony megszűnése és a hivatásos állományba visszavételre irányuló kérelem benyújtása között öt évnél kevesebb idő telt el. Legfeljebb hat hónap időtartamú próbaidőt lehet kikötni, ha a szolgálati viszony megszűnése és a hivatásos állományba visszavétel kérelmezése között öt évnél több idő telt el.
 
@@ -1073,10 +1077,189 @@ kell alkalmazni.
 
 - a) az e törvényben és végrehajtási rendeleteiben meghatározott, a szolgálati viszony fenntartásához szükséges, és az állományilletékes parancsnok által a hivatásos állomány tagjának előírt képzési és vizsgakötelezettség teljesítését önhibájából elmulasztotta,
 - b) országgyűlési vagy európai parlamenti képviselővé, nemzetiségi szószólóvá, főpolgármesterré, főpolgármester-helyettessé, megyei közgyűlés elnökévé, alelnökévé, polgármesterré, alpolgármesterré, helyi vagy nemzetiségi önkormányzati képviselővé megválasztották,
-- c) az összeférhetetlenség megszüntetését elmulasztotta, vagy
-- d) – a miniszter által vezetett minisztériumba kinevezett állami vezető kivételével – állami vezetővé nevezték ki.
+- c) az összeférhetetlenség megszüntetését elmulasztotta,
+- d) – a miniszter által vezetett minisztériumba kinevezett állami vezető kivételével – állami vezetővé nevezték ki, vagy
+- e) az egészségi alkalmatlanság megállapítását követően rendvédelmi egészségkárosodási járadékra jogosultságát állapítják meg,
+- f) az egészségi alkalmatlanság megállapítását követően a rendvédelmi szervnél történő munkaviszony létesítésére tekintettel részére rendvédelmi egészségkárosodási keresetkiegészítést állapítanak meg.
 
 (2) A szolgálati viszony a törvény erejénél fogva azon a napon szűnik meg, amikor a munkáltatói jogkört gyakorló elöljáró a törvényi feltétel beálltát megállapította.
+
+(3) A (2) bekezdéstől eltérően az (1) bekezdés e) pontja szerinti esetben a szolgálati viszony a rendvédelmi egészségkárosodási járadékra jogosultság kezdőnapját megelőző napon, az (1) bekezdés f) pontja szerinti esetben a rendvédelmi egészségkárosodási keresetkiegészítés kezdőnapját megelőző napon szűnik meg.
+
+#### 50/A. Rendvédelmi egészségkárosodási keresetkiegészítés és rendvédelmi egészségkárosodási járadék
+
+82/A. § (1) A korábban elért jövedelem kiesésének pótlása érdekében rendvédelmi egészségkárosodási keresetkiegészítésre vagy rendvédelmi egészségkárosodási járadékra (a továbbiakban együtt: egészségkárosodási ellátás) jogosult a hivatásos állomány tagja vagy volt tagja, ha
+
+- a) az egészségi állapota miatti alkalmatlanság okából a hivatásos szolgálatra alkalmatlanná vagy szolgálati beosztásának ellátására alkalmatlanná vált,
+- b) esetében a (2) vagy (3) bekezdésben foglalt feltételek megállapíthatóak,
+- c) a Tny. szerinti saját jogú nyugellátásra vagy a Knytv. szerinti szolgálati járandóságra nem jogosult,
+- d) a (4) és (5) bekezdésben és a 82/B. § (6) bekezdésében meghatározott kizáró ok nem áll fenn, és
+- e) a 82/B. § (1)–(5) bekezdésében foglaltak alapján továbbfoglalkoztatására vagy a 82/C. § alapján a továbbfoglalkoztatási kötelezettség alóli mentesítésére kerül sor.
+
+(2) Ha az egészségi alkalmatlanság a szolgálati kötelmekkel összefüggő balesetre vagy betegségre vezethető vissza, egészségkárosodási ellátásra jogosult az,
+
+- a) akit a baleset, betegség ténylegesen a szolgálatellátása során ért, és
+- b) akinek esetében a baleset, betegség szolgálati kötelmekkel való összefüggését a 257. § (2) és (3) bekezdése alapján megállapították,
+
+függetlenül attól, hogy a hivatásos állomány tagja, volt tagja hány év tényleges szolgálati idővel rendelkezik.
+
+(3) Ha az egészségi alkalmatlanság nem a (2) bekezdés szerinti szolgálati kötelmekkel összefüggő balesetre vagy betegségre vezethető vissza, egészségkárosodási ellátásra jogosult az, aki legalább tíz év tényleges szolgálati idővel rendelkezik és akinek az egészségi állapota a rehabilitációs hatóság komplex minősítése alapján 80%-os mértékű vagy annál kevesebb.
+
+(4) Nem állapítható meg egészségkárosodási ellátás annak, aki egészségi alkalmatlansága bekövetkeztében vagy kialakulásában szándékosan vagy súlyosan gondatlanul közrehatott (a továbbiakban: közrehatás). A közrehatás megállapítását alapozza meg különösen, ha a baleset vagy a betegség az érintett
+
+- a) jogellenes magatartásával,
+- b) alkohol- vagy kábítószer-függőségével vagy ezek fogyasztásával,
+- c) önhibájából eredő ittas állapotával, kábítószer vagy bódító hatású anyag miatti tudatzavarával vagy belátási képességének csökkenésével,
+- d) vezetői engedély vagy más szükséges hatósági engedély nélküli, vagy ittas állapotban történt jármű vezetésével,
+- e) önkárosító magatartásával,
+- f) valamely foglalkozási szabályt szándékosan vagy súlyosan gondatlanul megszegő magatartásával,
+- g) foglalkozási szabályhoz nem kötött munkavégzése során tanúsított súlyosan gondatlan magatartásával,
+- h) által folytatott, a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtására kiadott jogszabályban meghatározott különösen veszélyes (extrém) sport vagy szórakoztató-szabadidős tevékenységgel
+
+összefüggésben következett be.
+
+(5) Nem állapítható meg egészségkárosodási ellátás annak, aki egészségi alkalmatlansága megállapításának időpontjában nyugdíj előtti rendelkezési állományban van.
+
+(6) A hivatásos állomány tagja a 82/B. § (4) bekezdésében foglalt határidő végéig kérheti az egészségkárosodási ellátásra jogosultság megállapítása helyett a szolgálati viszonyának felmentéssel történő megszüntetését. E határidő elmulasztása jogvesztő. Ebben az esetben a felmentésre irányuló eljárásban a 86. § (5)–(7) bekezdését nem kell alkalmazni.
+
+82/B. § (1) A 82/A. § (1) bekezdésében foglalt feltételek fennállása esetén a rendvédelmi szerv köteles megvizsgálni, hogy a hivatásos állomány tagja részére az egészségi állapotának megfelelő szolgálati beosztás vagy nem hivatásos munkakör felajánlható-e. A rendvédelmi szerv a 86. § (5) bekezdésében és (6) bekezdés a) pontjában meghatározott eljárásrend megfelelő alkalmazásával köteles a hivatásos állomány tagja részére felajánlható, egészségi állapotának megfelelő szolgálati beosztást vagy nem hivatásos munkakört keresni. A rendvédelmi szerv felajánlható meglévő szolgálati beosztás vagy nem hivatásos munkakör hiányában köteles a szolgálati beosztás nem hivatásos munkakörré való átminősítésével, vagy új szolgálati beosztás, nem hivatásos munkakör létrehozásával biztosítani a továbbfoglalkoztatás lehetőségét.
+
+(2) A hivatásos állomány tagja részére olyan szolgálati beosztás vagy nem hivatásos munkakör ajánlható fel, amely esetében az új szolgálatteljesítési vagy munkavégzési hely eléréséhez szükséges idő a tartózkodási helytől – tömegközlekedés igénybevételével – nem haladja meg irányonként a másfél órát, a hivatásos állomány tíz éven aluli gyermeket nevelő tagja esetében az egy órát, kivéve, ha a hivatásos állomány érintett tagja – nyilatkozatával – vállalja a hosszabb utazási időt.
+
+(3) A rendvédelmi szervnek törekednie kell a hivatásos állomány tagja részére képzettségének, végzettségének megfelelő szolgálati beosztás vagy nem hivatásos munkakör felajánlására.
+
+(4) A rendvédelmi egészségkárosodási keresetkiegészítésre jogosultság abban az esetben állapítható meg, ha az egészségi alkalmatlanság megállapításától számított negyvenöt napon belül az (1) bekezdésben meghatározott eljárás eredményeként a hivatásos állomány tagjának
+
+- a) szolgálati viszonya a rendvédelmi szerven belül, a 96. § szerinti kormányzati szolgálati, közalkalmazotti vagy igazságügyi alkalmazotti szolgálati jogviszonyba történő áthelyezéssel szűnik meg,
+- b) felajánlott munkavállalói munkakör elfogadására tekintettel az érintett a rendvédelmi szervnél munkaviszonyt létesít, vagy
+- c) szolgálati viszonya a felajánlott másik, egészségi állapotának megfelelő szolgálati beosztásba helyezésre vagy áthelyezésre tekintettel nem szűnik meg,
+
+és az ennek megfelelően megállapított új illetménye vagy munkabére alacsonyabb az e törvény szerint megállapított korábbi illetményénél.
+
+(5) A (4) bekezdés b) pontja alapján megállapított rendvédelmi egészségkárosodási keresetkiegészítés esetén a 86. § (2) bekezdés a) pontjában foglalt felmentés helyett a törvény erejénél fogva szűnik meg a hivatásos állomány tagjának szolgálati viszonya.
+
+(6) A hivatásos állomány tagja a felajánlott szolgálati beosztás, nem hivatásos munkakör elfogadásáról vagy elutasításáról a felajánlástól számított öt munkanapon belül írásban nyilatkozik. Ha a hivatásos állomány tagja öt munkanapon belül nem nyilatkozik, azt úgy kell tekinteni, mintha a felajánlott szolgálati beosztást, nem hivatásos munkakört elutasította volna. Ha a hivatásos állomány tagja az (1) bekezdés szerinti eljárásban felajánlott szolgálati beosztást, nem hivatásos munkakört nem fogadja el, egészségkárosodási ellátásra nem jogosult, és a szolgálati viszonyát felmentéssel kell megszüntetni. Ebben az esetben a felmentésre irányuló eljárásban a 86. § (5)–(7) bekezdését nem kell alkalmazni.
+
+82/C. § (1) A 82/B. § szerinti továbbfoglalkoztatási kötelezettség alól a hivatásos állomány tagjának kérelme alapján az országos parancsnok előterjesztésére a miniszter adhat mentesítést, ha a hivatásos állomány tagjának az egészségi állapota a rehabilitációs hatóság komplex minősítése alapján 50%-os vagy kisebb mértékű. Rendvédelmi egészségkárosodási járadékra jogosultság abban az esetben állapítható meg, ha a miniszter a továbbfoglalkoztatási kötelezettség alól mentesítést ad.
+
+(2) Az állományilletékes parancsnok a hivatásos szolgálatra alkalmatlanságról szóló határozat kézhezvételét követően benyújtott, a továbbfoglalkoztatás alóli mentesítésre irányuló kérelem alapján haladéktalanul felterjeszti javaslatát az országos parancsnoknak. Az országos parancsnok tizenöt napon belül megküldi előterjesztését a miniszternek.
+
+(3) A miniszter a továbbfoglalkoztatási kötelezettség alóli mentesítés tárgyában harminc napon belül indokolt határozatban dönt. A miniszter a döntés során mérlegeli, hogy a rendvédelmi szervnél meghatározható-e olyan feladatkör, amelyet a hivatásos állomány tagja nem hivatásos munkakörben egészségi állapota alapján elláthat, valamint azt, ha a hivatásos állomány tagjának egészségi állapota alapján tőle már nem várható el a mindennapos rendelkezésre állási és munkavégzési kötelezettség. A döntéssel szemben önálló jogorvoslatnak nincs helye.
+
+(4) Ha az állományilletékes parancsnok személye egybeesik az országos parancsnokkal, akkor a (2) bekezdésben foglaltaktól eltérően az országos parancsnok az erre irányuló kérelem benyújtásától számított tizenöt napon belül megküldi előterjesztését a miniszternek.
+
+(5) A rendvédelmi szerv hivatásos állományának másik, e törvény hatálya alá tartozó rendvédelmi szervhez vezényelt tagja esetében az előterjesztést az eredeti rendvédelmi szerv országos parancsnoka terjeszti fel.
+
+(6) A rendvédelmi egészségkárosodási járadék megállapítása esetén a 86. § (2) bekezdés a) pontjában foglalt felmentés helyett a törvény erejénél fogva szűnik meg a hivatásos állomány tagjának szolgálati viszonya.
+
+82/D. § (1) Az egészségkárosodási ellátásra való jogosultságot és annak mértékét az országos parancsnok hivatalból állapítja meg. Az eljárás lefolytatásához szükséges, jogszabályban meghatározott iratokat az állományilletékes parancsnok – ha személye nem esik egybe az országos parancsnokkal – terjeszti fel a 82/B. § (4) bekezdésében megjelölt határidő lejártát követő első munkanapon vagy a miniszter továbbfoglalkoztatási kötelezettség alóli mentesítést megállapító döntésének kézhezvételét követő napon.
+
+(2) Annak megállapítása érdekében, hogy az egészségi alkalmatlanság bekövetkeztében a 82/A. § (4) bekezdése szerinti közrehatás megállapítható-e, az országos parancsnok az iratok megérkezésétől számított öt munkanapon belül összehívja a Becsületbíróságot.
+
+(3) Az országos parancsnok a rendvédelmi egészségkárosodási keresetkiegészítésre vagy rendvédelmi egészségkárosodási járadékra jogosultságról a Becsületbíróság döntésének kézhezvételét követő harminc napon belül dönt.
+
+(4) A rendvédelmi szerv hivatásos állományának másik, e törvény hatálya alá tartozó rendvédelmi szervhez vezényelt tagja esetében a 82/B. § (1) bekezdésében meghatározott eljárást a fogadó és az eredeti rendvédelmi szerv együtt folytatja le. Az egészségkárosodási ellátásra jogosultságot minden esetben az eredeti rendvédelmi szerv országos parancsnoka állapítja meg és az egészségkárosodási ellátást az eredeti rendvédelmi szerv folyósítja.
+
+(5) A rendvédelmi egészségkárosodási keresetkiegészítésre jogosultság kezdőnapja a 82/B. § (4) bekezdése szerinti esetekben
+
+- a) a szolgálati viszony áthelyezéssel történő megszüntetését követő nap,
+- b) a szolgálati viszony munkaviszony létesítésével egyidejűleg történő megszűnése esetén a munkaviszony létesítésének napja,
+- c) a másik szolgálati beosztásba helyezés, áthelyezés esetén az a nap, amelytől kezdődően az új szolgálati beosztást betölti a hivatásos állomány tagja.
+
+(6) A rendvédelmi egészségkárosodási járadékra jogosultság kezdőnapja a rendvédelmi egészségkárosodási járadékra való jogosultságot megállapító döntés meghozatalát követő hónap első napja.
+
+(7) Az egészségkárosodási ellátás mértékének megállapításához szükséges, az érintettet esetlegesen megillető baleseti járadék vagy baleseti táppénz (a továbbiakban együtt: baleseti ellátás), rokkantsági ellátás és rehabilitációs ellátás összegéről az országos parancsnokot kérelmére az ellátást folyósító szerv tájékoztatja.
+
+82/E. § (1) Az egészségkárosodási ellátásra való jogosultság az egészségkárosodás következő – az egészségi alkalmatlanság megállapítására irányuló eljárásban beszerzett, a rehabilitációs hatóság által megállapított – felülvizsgálati időpontjáig terjedő határozott időtartamra kerül megállapításra. A rehabilitációs hatóság felülvizsgálatának eredményétől függően az országos parancsnok az egészségkárosodási ellátásra való jogosultságot ezt követően minden esetben a rehabilitációs hatóság által meghatározott, az egészségkárosodás következő felülvizsgálatának időpontjáig terjedő időtartamra hosszabbítja meg.
+
+(2) Ha az (1) bekezdésben foglaltaktól eltérően a rehabilitációs hatóság a baleseti ellátással, rehabilitációs ellátással vagy rokkantsági ellátással összefüggésben nem ír elő újabb kötelezettséget az egészségkárosodás felülvizsgálatára, abban az esetben az egészségkárosodási ellátásra való jogosultság öt év határozott időtartamra kerül megállapításra vagy meghosszabbításra.
+
+(3) Az egészségkárosodási ellátásra való jogosultság meghosszabbításakor a rendvédelmi szerv figyelembe veszi
+
+- a) a rehabilitációs hatóságnak a megtartott egészségi állapotra vonatkozó megállapítását, kivéve, ha a (2) bekezdésben foglaltak szerint újabb felülvizsgálati kötelezettséget a rehabilitációs hatóság már nem írt elő,
+- b) a szolgálatra alkalmasságot, valamint
+- c) azt, hogy az egészségkárosodási ellátás megszűnésének okai nem állnak-e fenn.
+
+(4) Az egészségkárosodási ellátásra jogosultság meghosszabbítására több alkalommal is sor kerülhet, mindaddig, amíg a jogosult a Tny. szerinti saját jogú nyugellátásra jogosulttá válik.
+
+(5) Az egészségkárosodási ellátással kapcsolatos jogvitára e törvénynek a szolgálati panaszra és a szolgálati jogvitára vonatkozó szabályai irányadóak, abban az esetben is, ha az egészségkárosodási ellátásra jogosult szolgálati viszonya már megszűnt.
+
+82/F. § (1) Ha a felülvizsgálat eredménye szerint a 82/B. § (4) bekezdése alapján rendvédelmi egészségkárosodási keresetkiegészítésre jogosult komplex minősítése a 82/C. § (1) bekezdésében meghatározott értékre változott vagy az alá csökkent, az országos parancsnok előterjesztésére a miniszter felmentést adhat a továbbfoglalkoztatási kötelezettség alól. Az országos parancsnok az érintett kérelmére vagy – a rendvédelmi egészségkárosodási keresetkiegészítésre jogosult beleegyezésével – hivatalból tehet előterjesztést a miniszternél, a mentesítésre egyebekben a 82/C. § (2)–(6) bekezdését megfelelően alkalmazni kell. Mentesítés esetében a foglalkoztatási jogviszony közös megegyezéssel történő megszüntetése és a rendvédelmi egészségkárosodási keresetkiegészítés helyett rendvédelmi egészségkárosodási járadék megállapítása érdekében intézkedni kell.
+
+(2) Ha a felülvizsgálat eredménye szerint a rendvédelmi egészségkárosodási járadékra jogosult komplex minősítése a 82/C. § (1) bekezdésében meghatározott érték fölé emelkedett, a rendvédelmi szerv köteles a jogosult továbbfoglalkoztatása érdekében a 82/B. § (1) bekezdésében foglalt eljárást lefolytatni és továbbfoglalkoztatása esetén a rendvédelmi egészségkárosodási járadék helyett részére rendvédelmi egészségkárosodási keresetkiegészítést megállapítani.
+
+82/G. § (1) Az egészségkárosodási ellátás számítási alapja a 82/A. § (2) bekezdése szerinti esetben a hivatásos állomány tagját az egészségi alkalmatlanság megállapítását közvetlenül megelőző egy hónapra a szolgálati beosztása alapján megillető távolléti díj 100%-ának megfelelő összegnek a részére megállapított baleseti ellátás, rehabilitációs ellátás és rokkantsági ellátás együttes összegével csökkentett összege.
+
+(2) Az egészségkárosodási ellátás számítási alapja a 82/A. § (3) bekezdése szerinti esetben a hivatásos állomány volt tagját az egészségi alkalmatlanság megállapítását közvetlenül megelőző egy hónapra a szolgálati beosztása alapján megillető távolléti díj összege
+
+- a) tíz év vagy azt meghaladó, de tizenöt évet el nem érő szolgálati viszonyban töltött idő esetén 65%-ának,
+- b) tizenöt év vagy azt meghaladó, de húsz évet el nem érő szolgálati viszonyban töltött idő esetén 70%-ának,
+- c) húsz év vagy azt meghaladó, de huszonöt évet el nem érő szolgálati viszonyban töltött idő esetén 75%-ának,
+- d) huszonöt évet elérő vagy azt meghaladó szolgálati viszonyban töltött idő esetén 80%-ának
+
+a részére megállapított baleseti ellátás, rehabilitációs ellátás és rokkantsági ellátás együttes összegével csökkentett összege.
+
+(3) Az egészségkárosodási ellátás mértékének megállapításához a tényleges szolgálati időt kell figyelembe venni.
+
+(4) A rendvédelmi egészségkárosodási keresetkiegészítés mértéke az (1) vagy (2) bekezdésben meghatározott összeg és az új foglalkoztatási jogviszony létrejöttét vagy a másik szolgálati beosztásba helyezést, áthelyezést követő, nem rendszeres pótlékok nélkül számított mindenkori illetmény vagy munkabér különbözete. Ha az új illetmény vagy munkabér összege változik, a rendvédelmi egészségkárosodási keresetkiegészítés mértékét módosítani kell. Nem változik a rendvédelmi egészségkárosodási keresetkiegészítés mértéke, ha az új foglalkoztatási jogviszony létrejöttét vagy a másik szolgálati beosztásba helyezést, áthelyezést követően az egészségügyi szabadság szabályai szerint vagy keresőképtelenség miatt az illetmény vagy munkabér összege helyett a jogosult részére távolléti díj vagy táppénz kerül folyósításra.
+
+(5) A rendvédelmi egészségkárosodási járadék mértéke az (1) és (2) bekezdésben meghatározott összeggel egyezik meg.
+
+(6) Az egészségkárosodási ellátást – a 82/H. § (1) és (2) bekezdésben foglalt kivétellel – annak a rendvédelmi szervnek a központi szerve folyósítja, amely rendvédelmi szerv országos parancsnoka a rendvédelmi egészségkárosodási keresetkiegészítésre vagy rendvédelmi egészségkárosodási járadékra jogosultságot megállapította.
+
+82/H. § (1) Ha a rendvédelmi egészségkárosodási keresetkiegészítésre jogosultság fennállta alatt a jogosult valamely más, e törvény hatálya alá tartozó rendvédelmi szervnél létesít foglalkoztatási jogviszonyt, akkor a rendvédelmi egészségkárosodási keresetkiegészítés mértékére a 82/G. § (4) bekezdésében foglalt rendelkezéseket kell alkalmazni. Ebben az esetben az új foglalkoztatási jogviszony létrejöttét követően a rendvédelmi egészségkárosodási keresetkiegészítést az őt foglalkoztató rendvédelmi szerv folyósítja tovább. Az új foglalkoztató rendvédelmi szervnek az egészségkárosodási ellátással kapcsolatos adatokat és az iratok másolatát a rendvédelmi szerv átadja.
+
+(2) Ha a rendvédelmi egészségkárosodási járadékra jogosultság fennállta alatt a jogosult valamely más, e törvény hatálya alá tartozó rendvédelmi szervnél foglalkoztatási jogviszonyt létesít, akkor rendvédelmi egészségkárosodási járadék helyett részére az országos parancsnok rendvédelmi egészségkárosodási keresetkiegészítést állapít meg, amelynek mértékére a 82/G. § (4) bekezdésében foglalt rendelkezéseket kell alkalmazni. Ebben az esetben a foglalkoztatási jogviszony létrejöttét követően a rendvédelmi egészségkárosodási járadékot a foglalkoztató rendvédelmi szerv folyósítja tovább. A foglalkoztató rendvédelmi szervnek az egészségkárosodási ellátással kapcsolatos adatokat és az iratok másolatát a rendvédelmi szerv átadja.
+
+(3) Ha a továbbfoglalkoztatásra a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervnél vagy a terrorizmust elhárító szervnél kerül sor, az (1) és (2) bekezdésben foglaltaktól eltérően az egészségkárosodási ellátással kapcsolatos döntések meghozatalára továbbra is az országos parancsnok jogosult, azzal, hogy a rendvédelmi egészségkárosodási keresetkiegészítést a 82/D. § (4) bekezdésében foglaltaktól eltérően a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vagy a terrorizmust elhárító szerv folyósítja.
+
+(4) Az egészségkárosodási ellátás 82/G. § (1)–(5) bekezdése szerinti mértékét módosítani kell, ha a jogosultat megillető baleseti ellátás, rehabilitációs ellátás vagy rokkantsági ellátás mértéke változik.
+
+(5) Ha a rendvédelmi illetményalap emelésére kerül sor, az egészségkárosodási ellátás mértékét is emelni kell. Ebben az esetben a rendvédelmi illetményalap emelkedésének százalékos mértékével az (1), illetve (2) bekezdés szerinti távolléti díjat is meg kell emelni és az e § szerinti számításokat ismételten elvégezni.
+
+(6) Ha a rendvédelmi szervnél a 82/B. § (4) bekezdése szerint továbbfoglalkoztatott, rendvédelmi egészségkárosodási keresetkiegészítésre jogosultnak a rendvédelmi szervvel fennálló foglalkoztatási jogviszonya a rendvédelmi szerv érdekkörében felmerült okból vagy a rendvédelmi egészségkárosodási keresetkiegészítésre jogosult egészségi állapotára tekintettel megszűnik, részére a továbbiakban rendvédelmi egészségkárosodási keresetkiegészítés helyett rendvédelmi egészségkárosodási járadék folyósítandó, amelynek mértékét a 82/G. §-ban foglaltak alkalmazásával kell megállapítani. Ha a foglalkoztatási jogviszony a foglalkoztatott érdekkörében felmerült okból szűnik meg, a rendvédelmi egészségkárosodási keresetkiegészítésre jogosultsága megszűnik és rendvédelmi egészségkárosodási járadékra sem válik jogosulttá.
+
+(7) Az egészségkárosodási ellátás fedezetét a mindenkori központi költségvetés biztosítja.
+
+82/I. § (1) Az egészségkárosodási ellátásban részesülő személy tizenöt napon belül köteles bejelenteni a rendvédelmi szervnek minden olyan tényt, adatot, körülményt, amely az egészségkárosodási ellátásra jogosultságát vagy annak folyósítását érinti. Az egészségkárosodási ellátásban részesülő személy közeli hozzátartozója a jogosult halálának tényét és annak időpontját tizenöt napon belül köteles bejelenteni a rendvédelmi szervnek.
+
+(2) Az országos parancsnok az egészségkárosodási ellátás összegének módosításáról, valamint a jogalap nélkül felvett egészségkárosodási ellátás visszafizettetéséről hivatalból dönt.
+
+(3) A jogalap nélkül kifizetett egészségkárosodási ellátás hatvan napon belül az előlegnyújtásból eredő követelésre vonatkozó szabályok szerint visszakövetelhető a hivatásos állomány tagjától, volt tagjától. Az általános elévülési időn belül visszakövetelhető a jogalap nélkül felvett egészségkárosodási ellátás, ha annak alaptalanságáról a hivatásos állomány tagja, volt tagja tudott vagy tudnia kellett volna.
+
+(4) Az (1) bekezdésben meghatározott bejelentési kötelezettség elmulasztása esetén az általános elévülési időn belül a közeli hozzátartozótól visszakövetelhető a jogalap nélkül felvett rendvédelmi egészségkárosodási ellátás.
+
+82/J. § (1) Megszűnik az egészségkárosodási ellátásra való jogosultság
+
+- a) az egészségkárosodási ellátásra jogosult halálával,
+- b) ha az egészségkárosodási ellátásra jogosult saját jogú nyugellátásra válik jogosulttá,
+- c) ha az egészségkárosodási ellátásra jogosult lemond az egészségkárosodási ellátásról,
+- d) ha a rendvédelmi szerv által továbbfoglalkoztatott jogosult érdekkörében felmerült okból a foglalkoztatási jogviszonya megszűnik, a 82/H. § (1) bekezdése szerinti esetet kivéve,
+- e) ha egészségjavulás eredményeként a jogosult egészségi állapota lehetővé teszi a szolgálati viszony ismételt létesítését és az érintett a részére felajánlott, képzettségének és végzettségének megfelelő szolgálati beosztást nem fogadja el,
+- f) ha a rehabilitációs hatóság szakvéleménye szerint az egészségkárosodási ellátásra jogosult egészségi állapota eléri a 100%-ot, a 82/A. § (3) bekezdése szerinti esetben meghaladja a 80%-ot,
+- g) ha az egészségkárosodási ellátásra jogosult neki felróható okból nem működik közre a felülvizsgálatban,
+- h) ha a határozott időtartamra megállapított egészségkárosodási ellátásra való jogosultság nem kerül meghosszabbításra,
+- i) ha a hivatásos állomány volt tagja másik, a 82/B. § (4) bekezdésébe vagy 82/H. § (1) vagy (2) bekezdésébe nem tartozó foglalkoztatásra irányuló jogviszonyt létesít,
+- j) ha a rendvédelmi egészségkárosodási járadékra jogosulttal szemben a jogosultság időtartama alatt szándékos bűncselekmény elkövetése miatt a bíróság jogerősen szabadságvesztést vagy elzárást szabott ki, vagy kényszergyógykezelését rendelte el.
+
+(2) A rendvédelmi egészségkárosodási járadékra jogosultság akkor is megszűnik, ha a rendvédelmi szervnél történő továbbfoglalkoztatásra tekintettel a jogosult részére rendvédelmi egészségkárosodási keresetkiegészítést állapítanak meg. A rendvédelmi egészségkárosodási keresetkiegészítésre jogosultság akkor is megszűnik, ha a továbbfoglalkoztatási kötelezettség alól történő miniszteri mentesítésre tekintettel a jogosult részére rendvédelmi egészségkárosodási járadékot állapítanak meg.
+
+(3) Az egészségkárosodási ellátásra jogosult az egészségkárosodási ellátásra való jogosultságáról annak kezdőnapját követően írásban lemondhat. Lemondás esetén sem rendvédelmi egészségkárosodási keresetkiegészítés, sem rendvédelmi egészségkárosodási járadék újbóli megállapítása nem kérhető.
+
+(4) Az (1) bekezdés d) pontjában foglaltaktól eltérően nem szűnik meg az egészségkárosodási ellátásra való jogosultság, ha az érintett ismételten szolgálati viszonyt létesít, azonban a megállapított illetménye kevesebb a 82/H. § (5) bekezdésére tekintettel a rendvédelmi illetményalap emelkedésének százalékos mértékével megemelt, 82/G. § (1), illetve (2) bekezdése szerinti távolléti díjnál. Ebben az esetben a rendvédelmi egészségkárosodási járadékra való jogosultság a 82/G. §-ban foglalt számítási szabályok alkalmazásával megállapított mértékben továbbra is fennáll.
+
+(5) Az (1) bekezdés i) pontjában foglaltaktól eltérően nem szűnik meg az egészségkárosodási ellátásra való jogosultsága annak a rendvédelmi egészségkárosodási járadékra jogosultnak, aki a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 1. §-ában vagy 2. §-ában, vagy az állami tisztviselőkről szóló 2016. évi LII. törvény 1. §-ában felsorolt szervnél létesít foglalkoztatási jogviszonyt. Ebben az esetben a rendvédelmi egészségkárosodási járadék helyett részére a 82/G. § (4) bekezdésében meghatározott mértékű rendvédelmi egészségkárosodási keresetkiegészítést kell megállapítani. A rendvédelmi egészségkárosodási keresetkiegészítést a rendvédelmi szerv folyósítja ezt követően is. Az egészségkárosodási ellátás mértékének megállapításához szükséges, az érintett illetményére vagy munkabérére vonatkozó adatokról az országos parancsnokot kérelmére a foglalkoztató szerv vezetője tájékoztatja. Az illetmény vagy munkabér mértékének megváltozásáról az egészségkárosodási ellátásra jogosult köteles tájékoztatni az országos parancsnokot.
+
+82/K. § (1) A rendvédelmi szerv központi szerve az egészségkárosodási ellátással kapcsolatos jogosultság elbírálása, valamint az egészségkárosodási ellátással kapcsolatos feladatok ellátása érdekében kezeli az egészségkárosodási ellátás megállapításához és folyósításához szükséges adatokat,
+
+- a) a jogosultság megállapítása esetén az egészségkárosodási ellátásra jogosultság megszűnését követő ötödik év december 31-ig,
+- b) ha a jogosultság megállapítására nem kerül sor, az erről hozott döntés elleni, a 270. § (1) bekezdése szerinti keresetindításra nyitva álló határidő leteltét követő harminc napig, keresetindítás esetén a bíróság döntésének jogerőre emelkedéséig.
+
+(2) Az (1) bekezdésben foglalt időtartam lejártakor az iratokat a 273. § (3) bekezdése szerint kezelt személyi anyaggyűjtőben kell elhelyezni és az ott meghatározott időtartamig kezelni.
+
+(3) Az állományilletékes parancsnok jogosult az egészségkárosodási ellátás megállapításához szükséges adatoknak a központi szervhez történő továbbítására.
+
+(4) Az egészségkárosodási ellátás megállapításakor, valamint megszűnésekor a rendvédelmi szerv köteles ennek tényéről a megváltozott munkaképességű személyek ellátásait folyósító szervet, valamint a baleseti ellátást folyósító szerveket tizenöt napon belül tájékoztatni.
 
 #### 51. Közös megegyezés
 
@@ -1107,9 +1290,12 @@ kell alkalmazni.
 
 (2) A hivatásos állomány tagjának a szolgálati viszonyát – az (5) és (6) bekezdésben foglalt korlátozás figyelembevételével – felmentéssel meg kell szüntetni, ha
 
-- a) minősítése, egészségi, pszichikai vagy fizikai állapota alapján
+- a) minősítése, pszichikai, fizikai vagy – a 82/A. §-ban foglalt személyi kör kivételével – egészségi állapota alapján
   - aa) a hivatásos szolgálatra alkalmatlanná vált, vagy
-  - ab) szolgálati beosztásának ellátására alkalmatlanná vált, és részére a rendvédelmi szervnél megfelelő szolgálati beosztás, munkakör nem biztosítható,
+  - ab) szolgálati beosztásának ellátására alkalmatlanná vált
+
+és részére a rendvédelmi szervnél megfelelő szolgálati beosztás, munkakör nem biztosítható,
+
 - b) a hivatásos szolgálatra alkalmatlanná vált, mert nem felel meg a kifogástalan életvitel követelményének,
 - c) nemzetbiztonsági szempontból alkalmatlanná vált, mert a nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg – kivéve, ha a nemzetbiztonsági ellenőrzés tárgykörét szabályozó törvény szerint arra feljogosított személy a nemzetbiztonsági ellenőrzés alá eső jogviszony fenntartását jóváhagyta –, és
   - ca) a hivatásos állomány tagja a részére az eredeti szolgálati beosztásból való felmentését követően vagy a rendelkezési állomány ideje alatt az 54. §-ban foglaltak szerint felajánlott szolgálati beosztást nem fogadta el, vagy
@@ -1594,7 +1780,7 @@ besorolási kategóriába kell besorolni.
 
 121. § (1) A besorolás szerinti besorolási kategóriához tarozó fizetési fokozatban előre kell sorolni a hivatásos állomány tagját, ha a fizetési várakozási idő eltelt, a jogszabályban meghatározott továbbképzési kötelezettségét teljesítette és a várakozási idő éves egyéni teljesítményértékeléseinek átlaga legalább megfelelő teljesítményfokozatú.
 
-(2) A hivatásos állomány tagja a magasabb rendfokozatba és az ahhoz rendelt fizetési fokozatba az (1) bekezdésben meghatározott feltételeken felül akkor léptethető elő, ha a magasabb rendfokozathoz előírt rendfokozati vizsgát teljesítette.
+(2) A hivatásos állomány tagja a magasabb rendfokozatba és az ahhoz rendelt fizetési fokozatba az (1) bekezdésben meghatározott feltételeken felül akkor léptethető elő, ha a magasabb rendfokozathoz előírt rendfokozati vizsgát teljesítette vagy a rendfokozati vizsga teljesítésének kötelezettsége alól mentesült. A rendfokozati vizsga alóli mentességi okokat a miniszter rendeletben – a polgári nemzetbiztonsági szolgálatok hivatásos állománya esetében közjogi szervezetszabályozó eszközben – állapítja meg, a hivatásos állomány tagjának rendvédelmi szakmai képesítésére, szolgálati tapasztalatára, valamint korábbi szakmai életútjára figyelemmel.
 
 (3) Ha a hivatásos állomány tagja az (1) vagy (2) bekezdésben meghatározott feltételek valamelyikét nem teljesítette, akkor magasabb fizetési fokozatba vagy rendfokozatba nem sorolható vagy léptethető elő. Az előmenetelhez szükséges feltételek meglétét a munkáltatói jogkör gyakorlója az esedékességet követően évenként felülvizsgálja, és a feltételek teljesülésekor a hivatásos állomány tagját előresorolja vagy előlépteti.
 
@@ -1621,7 +1807,7 @@ besorolási kategóriába kell besorolni.
 
 (2) Az (1) bekezdés szerinti soron kívüli fizetési fokozatban előresorolásra viselt rendfokozatonként legfeljebb egy alkalommal kerülhet sor.
 
-(3) A hivatásos állomány tagja soron kívül eggyel magasabb rendfokozatba kinevezhető, előléptethető, ha a rendfokozatban történő előléptetés, kinevezés legfeljebb egy fizetési fokozatban történő előresorolással jár együtt, és a magasabb rendfokozathoz szükséges képzettséggel, továbbá az előző négy év átlagában jó vagy kivételes teljesítményfokozattal rendelkezik. Ebben az esetben a hivatásos állomány tagjának a rendfokozati vizsgát utólag teljesítenie kell.
+(3) A hivatásos állomány tagja soron kívül eggyel magasabb rendfokozatba kinevezhető, előléptethető, ha a rendfokozatban történő előléptetés, kinevezés legfeljebb egy fizetési fokozatban történő előresorolással jár együtt, és a magasabb rendfokozathoz szükséges képzettséggel, továbbá az előző négy év átlagában jó vagy kivételes teljesítményfokozattal rendelkezik. Ebben az esetben a hivatásos állomány tagjának a rendfokozati vizsgát – ha a rendfokozati vizsga teljesítésének kötelezettsége alól nem mentesült – utólag teljesítenie kell.
 
 (4) A (3) bekezdés szerinti magasabb rendfokozatba kinevezésére, előléptetésre a besorolási kategórián belül legfeljebb egy alkalommal kerülhet sor.
 
@@ -1718,7 +1904,7 @@ besorolási kategóriába kell besorolni.
 
 éjszakai szolgálatteljesítésre, valamint huszonnégy órás szolgálatra nem lehet beosztani.
 
-(2) A hivatásos állomány tagja részére, ha teljesített szolgálata a hat órát meghaladja, munkaközi szünetet kell biztosítani. A munkaközi szünetet a napi szolgálatteljesítési időn belül kell kiadni. A hat órát meghaladó szolgálatteljesítési idő esetén harminc perc, huszonnégy órás szolgálat teljesítése esetén hatvan perc munkaközi szünetet kell biztosítani.
+(2) A hivatásos állomány tagja részére, ha teljesített szolgálata a hat órát meghaladja, munkaközi szünetet kell biztosítani. A munkaközi szünetet a napi szolgálatteljesítési időn belül kell kiadni. A hat órát meghaladó szolgálatteljesítési idő esetén harminc perc, a tizenkét órát elérő szolgálatteljesítési idő esetén negyvenöt perc, a huszonnégy órát elérő szolgálat teljesítése esetén hatvan perc munkaközi szünetet kell biztosítani.
 
 (3) A hivatásos állomány tagja részére a napi szolgálati tevékenység befejezése és a következő napi szolgálatteljesítés megkezdése között legalább nyolc óra egybefüggő pihenőidőt kell biztosítani, amelybe a lakásról a szolgálatteljesítési helyre és az onnan való visszautazás időtartama nem számít bele. A napi pihenőidő, ha az a nyári időszámítás kezdetének időpontjára esik, legalább hét óra.
 
@@ -1790,11 +1976,13 @@ hatályos.
 
 (5) A túlszolgálat elrendelésének és elszámolásának, valamint a túlszolgálatért járó szabadidő kiadásának rendjét a miniszter állapítja meg.
 
-#### 75. Készenlét
+#### 75. Készenlét és kiemelt készenlét
 
 141. § (1) A szolgálati elöljáró a hivatásos állomány tagját kötelezheti arra, hogy a szolgálatteljesítési időn kívül szolgálati érdekből, szolgálatképes állapotban olyan elérhető – szolgálati helyen kívüli – helyen tartózkodjon, ahonnan szolgálati feladatra bármikor igénybe vehető.
 
-(2) A készenlét időtartama havonként – többhavi szolgálatteljesítési időkeret alkalmazása esetén havonkénti átlagban – a kettőszázhatvan órát nem haladhatja meg.
+(2) Ha a szolgálati érdek vagy rendkívüli eset szükségessé teszi, a hivatásos állomány tagja kötelezhető arra, hogy az elrendelő által meghatározott, a szolgálatteljesítési hely közigazgatási határán kívül eső helyen álljon készenlétben (a továbbiakban: kiemelt készenlét). A kiemelt készenlétet az állományilletékes parancsnoknak írásban kell elrendelnie. A szolgálati feladatok elvégzésének tényleges végrehajtási helye nem határozható meg a kiemelt készenlét rendelkezésre állási helyeként.
+
+(3) Az (1) és a (2) bekezdés szerinti készenlét időtartama havonként – többhavi szolgálatteljesítési időkeret alkalmazása esetén havonkénti átlagban – a kettőszázhatvan órát nem haladhatja meg.
 
 #### 76. Szabadság
 
@@ -2048,7 +2236,7 @@ kell figyelembe venni.
 - a) a nagyfrekvenciás és ionizáló sugárzásnak, mérgezésnek vagy biológiai kóroki tényezők jelenléte miatt fertőzés veszélyének kitett beosztásban szolgálatot teljesítők pótléka havonta a rendvédelmi illetményalap 25%-a,
 - b) a preferált településen szolgálatot teljesítők pótléka havonta a rendvédelmi illetményalap 50%-a,
 - c) az éjszakai pótlék teljesített óránként a rendvédelmi illetményalap 0,5%-a, valamint
-- d) a készenléti pótlék teljesített óránként a rendvédelmi illetményalap 0,25%-a.
+- d) a készenléti pótlék teljesített óránként a rendvédelmi illetményalap 0,25%-a, kiemelt készenlét esetén 1%-a.
 
 (2) Az (1) bekezdés a) és b) pontja szerinti pótlék a szolgálati beosztás betöltésének idejére, az (1) bekezdés c) és d) pontja szerinti pótlék a hivatásos állomány tagjának a pótlékkal elismert tevékenység tényleges kifejtésének idejére jár.
 
@@ -2231,11 +2419,11 @@ költséget.
 
 (6) A ruházati utánpótlási ellátmányt a jogosultság évében kell kiadni. Ellátmányként csak rendszeresített egyenruházati termék szolgáltatható ki.
 
-(7) A természetbeni ellátás és a hivatásos állomány egyéb, ruházati utánpótlással kapcsolatos vásárlásának biztosítása érdekében a ruházatot biztosító szerv jogosult a hivatásos állomány tagjának az ellátás, vásárlás szempontjából szükséges adatait kezelni.
+(7) A természetbeni ellátás és a hivatásos állomány egyéb, ruházati ellátással kapcsolatos vásárlásának biztosítása érdekében a rendvédelmi szerv és a ruházatot biztosító szerv jogosult a hivatásos állomány tagjának az ellátás, vásárlás szempontjából szükséges adatait kezelni. A ruházati ellátással kapcsolatos adatokat a rendvédelmi szerv és a ruházatot biztosító szerv a szolgálati viszony megszűnését követő öt évig kezeli.
 
 #### 93. Választható juttatások
 
-176. § (1) A hivatásos állomány tagja természetbeni juttatásként, választása szerint – az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 12. § (3) bekezdésére is figyelemmel – a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 71. § (1) bekezdés a)–f) pontjában, továbbá (3) bekezdésében felsorolt juttatásokra, legfeljebb az ott meghatározott mértékig és feltételekkel jogosult. A miniszter közjogi szervezetszabályozó eszközben további választható juttatásokat is meghatározhat, valamint az egyes juttatások választható mértékét magasabban is meghatározhatja.
+176. § (1) A hivatásos állomány tagja természetbeni juttatásként – választása szerint – a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 71. § (1) bekezdésében meghatározott juttatásokra, legfeljebb az ott meghatározott mértékig és feltételekkel jogosult. A juttatás éves összege biztosít fedezetet az egyes juttatásokhoz kapcsolódó, a juttatást teljesítő munkáltatót terhelő közterhek megfizetésére is.
 
 (2) Nem jogosult természetbeni juttatásra a hivatásos állomány tartós külszolgálaton lévő vagy nemzeti szakértőként foglalkoztatott tagja, továbbá a hivatásos állomány tagja azon időtartamra, amely során illetményre vagy távolléti díjra nem jogosult, feltéve, hogy a távollét időtartama meghaladja a harminc napot.
 
@@ -2654,6 +2842,12 @@ követte el. A fenyíthetőséget kizáró okok értelmezésére a Btk. rendelke
 
 (4) Az (1) bekezdés szerinti munkáltatói intézkedések esetében a bírósághoz keresetet benyújtani a Becsületbíróság döntésének kézhezvételétől számított harminc napon belül lehet. A keresetet a 270. § (3) bekezdésének alkalmazásával a rendvédelmi szerv szervezeti egysége ellen kell benyújtani.
 
+225/A. § (1) A Becsületbíróság az egészségkárosodási ellátásra való jogosultság megállapítására irányuló eljárásban a hivatásos állomány tagja közrehatásának kérdésében az országos parancsnok kezdeményezésére jár el.
+
+(2) Az (1) bekezdés szerinti eljárás során a Becsületbíróságban negyedik és ötödik tagként közreműködik a hivatásos szolgálatra alkalmatlanságot megállapító bizottság munkájában részt vevő orvos, valamint a rendvédelmi szerv személyi állományának egy, humánigazgatási feladatokat ellátó tagja. A Becsületbíróság a 226. § (1) bekezdése szerint jár el, és írásban dönt a közrehatás fennállásának kérdésében. A döntést az országos parancsnoknak megküldi, amely döntés köti az országos parancsnokot. A Becsületbíróság döntése ellen önálló jogorvoslatnak helye nincs, a Becsületbíróság döntését az egészségkárosodási ellátásra jogosultság tárgyában hozott országos parancsnoki döntéssel szemben benyújtott szolgálati panaszban kifogásolhatja az érintett.
+
+(3) A Becsületbíróság a közrehatás kérdésének vizsgálatára irányuló eljárásban jogosult megismerni a hivatásos állomány tagjának egészségi állapotára vonatkozó adatokat és megtekinteni az azokat tartalmazó iratokat.
+
 226. § (1) A Becsületbíróság az ülése tárgyává tett ügyben eljárt személyeket, az érintettet és jogi képviselőjét, az érintett szolgálati elöljáróját és állományilletékes parancsnokát meghallgathatja. Az ügy iratai és a meghallgatott személyek nyilatkozatai alapján az ügy átvételét követő tizenöt napon belül döntést hoz.
 
 (2) A Becsületbíróság a 225. § (1) bekezdésében meghatározott ügyben megállapított tényállást nem bírálhatja felül, a megállapított tényállás alapján kizárólag arról hoz döntést, hogy
@@ -2676,6 +2870,13 @@ követte el. A fenyíthetőséget kizáró okok értelmezésére a Btk. rendelke
 
 (4) A Becsületbíróság további két tagját a Becsületbíróságot összehívó elöljáró jelöli ki, a hivatásos állomány névjegyzéken szereplő, az eljárás alá vonttal legalább azonos rendfokozati állománycsoportba tartozó tagjai közül.
 
+(4a) Az Országgyűlési Őrség és a polgári nemzetbiztonsági szolgálatok a névjegyzéket
+
+- a) a tiszthelyettesi és a zászlósi, valamint
+- b) a tiszti, főtiszti és tábornoki
+
+rendfokozati állománycsoportok vonatkozásában összevontan is vezetheti. Ebben az esetben a (4) bekezdésben foglaltaktól eltérően lehetőség szerint az eljárás alá vonttal legalább azonos rendfokozati állománycsoportba tartozó személyt kell a névjegyzékről a Becsületbíróság tagjának kijelölni, ennek hiányában más, a névjegyzéken szereplő személy is kijelölhető.
+
 (5) Nem lehet tagja a Becsületbíróságnak, aki
 
 - a) az ügyben eljárt, a döntéshozatalban részt vett vagy szolgálati beosztása alapján részt fog venni,
@@ -2688,7 +2889,7 @@ követte el. A fenyíthetőséget kizáró okok értelmezésére a Btk. rendelke
 
 (8) A Becsületbíróság működésének részletes szabályait a miniszter rendeletben állapítja meg.
 
-### XIX. Fejezet — KÁRTÉRÍTÉSI FELELŐSSÉG
+### XIX. Fejezet — KÁRTÉRÍTÉSI FELELŐSSÉG ÉS KÁRTALANÍTÁS
 
 #### 104. A hivatásos állomány tagjának kártérítési felelőssége
 
@@ -2830,6 +3031,8 @@ kell – a számvitelről szóló törvény szerinti értékcsökkenésre is tek
 
 (5) Nem kell megtéríteni az olyan szolgáltatások értékét, amelyek rendeltetésük szerint csak munkavégzés esetén járnak, továbbá a költségtérítés címén járó összeget.
 
+(6) Az egészségi alkalmatlanság kialakulásával összefüggésben a rendvédelmi szerv kártérítési felelősségének megállapítása esetén a hivatásos állomány tagját, volt tagját megillető elmaradt jövedelem mértékének megállapításakor az egészségkárosodási ellátást is figyelembe kell venni.
+
 246. § (1) A természetbeni juttatások értékét, valamint a dologi kár összegét a kártérítés megállapításakor irányadó fogyasztói ár alapján kell meghatározni.
 
 (2) A dologi kár összegét az avulás figyelembevételével kell kiszámítani. Ha a dologban okozott kár az érték csökkenése nélkül kijavítható, kárként a javítási költséget kell figyelembe venni.
@@ -2894,6 +3097,10 @@ kezdődik.
 
 (2) A károsult a határozat ellen harminc napon belül keresettel fordulhat a bírósághoz. A határozat keresettel nem érintett részei jogerőre emelkednek.
 
+#### 105/A. Kártalanítás
+
+255/A. § A miniszter – kormányrendeletben meghatározott esetekben – gondoskodik a rendvédelmi szerv személyi állományának kártalanításáról, amennyiben a jogszerűen okozott vagyoni kár legalább részben a személyi állomány rendvédelmi szervvel fennálló foglalkoztatási jogviszonyával függ össze. A kártalanítás módjára és mértékére a kártérítésre vonatkozó szabályokat kell megfelelően alkalmazni azzal, hogy az általános kártérítés és a sérelemdíj szabályai nem alkalmazhatóak.
+
 ### XX. Fejezet — SZEMÉLYISÉGI JOGOK MEGSÉRTÉSÉNEK JOGKÖVETKEZMÉNYEI
 
 256. § (1) Az e törvény hatálya alá tartozók személyiségi jogainak a szolgálati viszonnyal összefüggő megsértése esetén jogkövetkezményként a Polgári Törvénykönyv
@@ -2934,7 +3141,7 @@ kezdődik.
 259. § (1) A rendvédelmi szerv szociális gondoskodásának körébe tartozik
 
 - a) a rendvédelmi szerv hivatásos állományának tagja és közeli hozzátartozója,
-- b) a korábban a rendvédelmi szerv hivatásos állományába tartozott szolgálati nyugdíjas és közeli hozzátartozója,
+- b) a korábban a rendvédelmi szerv hivatásos állományába tartozott szolgálati nyugdíjas és egészségkárosodási ellátásra jogosult, valamint közeli hozzátartozóik,
 - c) a hivatásos állomány elhunyt tagjának és a korábban a rendvédelmi szerv hivatásos állományába tartozott szolgálati nyugdíjasnak az özvegye, árvája, amíg ellátást folyósítanak számára, továbbá az özvegy akkor is, ha saját jogú nyugdíjat kap, valamint
 - d) akinek a szolgálati viszonya a szolgálati kötelmekkel összefüggő baleset, betegség miatt szűnt meg.
 
@@ -3001,7 +3208,7 @@ kezdődik.
 
 (2) A fegyelmi vagy kártérítési eljárásban hozott határozat, valamint a baleset vagy betegség szolgálattal összefüggését minősítő határozat ellen szolgálati panasz benyújtásának nincs helye, ezen határozatokkal szemben a 212–214. §, a 239. és 255. §, valamint a 257. § (4)–(6) bekezdése szerint lehet jogorvoslattal élni.
 
-(3) A szolgálati panaszt a hivatásos állomány tagja a munkáltatói intézkedés közlésétől számított tizenöt napon belül nyújthatja be a szolgálati viszony megszüntetésére vonatkozó, az összeférhetetlenség megállapításával kapcsolatos, valamint a szolgálati beosztását érintően a szolgálati viszony egyoldalú módosításáról szóló munkáltatói intézkedéssel szemben. Egyéb esetben az igény érvényesítésére vonatkozó elévülési időn belül lehet a szolgálati panaszt előterjeszteni.
+(3) A szolgálati panaszt a hivatásos állomány tagja a munkáltatói intézkedés közlésétől számított tizenöt napon belül nyújthatja be a szolgálati viszony megszüntetésére vonatkozó, az összeférhetetlenség megállapításával kapcsolatos, valamint a szolgálati beosztását érintően a szolgálati viszony egyoldalú módosításáról szóló munkáltatói intézkedéssel, továbbá az országos parancsnoknak az egészségkárosodási ellátásra jogosultsággal kapcsolatosan meghozott döntésével szemben. Egyéb esetben az igény érvényesítésére vonatkozó elévülési időn belül lehet a szolgálati panaszt előterjeszteni.
 
 (4) A panaszt a sérelmezett intézkedést hozó vagy mulasztó elöljárónál lehet benyújtani, aki azt harminc napon belül megvizsgálja, és ha annak nem ad helyt, az ügyre vonatkozó iratokkal együtt köteles haladéktalanul felterjeszteni az elöljáró parancsnokhoz. Az elöljáró parancsnok azt harminc napon belül bírálja el, és döntését a panaszt benyújtóval közli. E határidő egy ízben harminc nappal meghosszabbítható.
 
@@ -3244,6 +3451,8 @@ a rögzítéskor meghatározott szolgálati időre figyelemmel kell megállapít
 289. § (1) Ha a tisztjelölt a tisztjelölti jogviszonyából vagy a hallgatói jogviszonyából eredő kötelezettségét vétkesen megszegi, fegyelemsértést követ el. A tisztjelölttel szemben fenyítésként a 185. § (1) bekezdés a) és b) pontja, valamint a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) 55. § (2) bekezdés c) és e) pontja szerinti fegyelmi büntetés szabható ki azzal, hogy az Nftv. 55. § (2) bekezdés c) pontja szerint az ösztöndíj legfeljebb öt hónapra 10–50%-kal csökkenthető. Az elévülésre az Nftv. 55. § (4) bekezdését kell alkalmazni.
 
 (2) A tisztjelölt beosztásából – tanulmányok folytatásától való eltiltás nélkül – legfeljebb a büntető-, a fegyelmi és a méltatlansági eljárás jogerős befejezéséig akkor függeszthető fel, ha a szolgálati helytől távoltartása az általa elkövetett cselekmény súlya vagy jellege miatt indokolt.
+
+(2a) A tisztjelölt vonatkozásában a 192. § nem alkalmazandó, a fegyelmi jogkör gyakorlójának személyét miniszteri rendelet határozza meg. A fegyelmi jogkör gyakorlásába a Rendvédelmi Tagozat, valamint a Nemzeti Közszolgálati Egyetem bevonható.
 
 (3) A tisztjelölt kártérítési felelőssége kiterjed a tisztjelölti jogviszonyából és a hallgatói jogviszonyából eredő kötelezettségének vétkes megszegésével okozott kár megtérítésére is.
 
@@ -3745,7 +3954,7 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 - 4. meghatározza a kifogástalan életvitel ellenőrzése végrehajtásának szabályait,
 - 5. megállapítsa a más szervhez vezénylésre, a miniszter által vezetett minisztériumba vagy a miniszter által irányított szervhez vezénylésre, az ügyészi szervezethez vezénylésre, valamint a Nemzeti Közszolgálati Egyetemre vezénylésre vonatkozó szabályokat, továbbá a vezényelt foglalkoztatásával, jogaival és kötelezettségeivel összefüggő kérdéseket, és a rendészeti felsőoktatási illetménykiegészítésre, valamint az illetménypótlékra jogosultság és megállapításának általános feltételeit,
 - 6. megállapítsa a külföldre vezénylésre vonatkozó szabályokat, a külföldre vezényelt juttatásaira, többletjuttatásaira, költségtérítésére, ellátmányára vonatkozó rendelkezéseket, valamint a külföldre vezényelt közeli hozzátartozóira tekintettel e törvényben nem szabályozott pénzbeli és természetbeni ellátást,
-- 7. megállapítsa a diplomáciai és az összekötő tiszti szolgálat teljesítése céljából tartós külszolgálat céljából külföldre vezénylés feltételeit, rendjét és az érintettet megillető juttatásokat,
+- 7. megállapítsa az összekötő tiszti szolgálat teljesítése céljából tartós külszolgálat céljából külföldre vezénylés feltételeit, rendjét és az érintettet megillető juttatásokat,
 - 8. meghatározza a nemzeti szakértőként az Európai Unió intézményeiben alkalmazott hivatásos állomány tagja jelölési eljárásának rendjét, a részére nyújtható juttatások, többletjuttatások, költségtérítések, ellátmány fajtáit, mértékét, azok megállapításának, kifizetésének, elszámolásának rendjét,
 - 9. megállapítsa a hivatásos állomány Európai Unió vagy nemzetközi szervezetek által finanszírozott fejlesztési programban szakértőként részt vevő tagjának szolgálati viszonyára és sajátos jogállására vonatkozó rendelkezéseket,
 - 10. meghatározza a szolgálati viszony szünetelésének eljárási rendjét,
@@ -3755,7 +3964,8 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 - 14. meghatározza a gyermek születése esetén az apát megillető pótszabadság igénybevételére vonatkozó szabályokat,
 - 15. meghatározza a hivatásos állomány tagjának lakástulajdon megszerzéséhez nyújtott hitelintézeti kölcsön igénybevételének támogatása esetén a kölcsön feltételeit és az igénybevételre vonatkozó rendelkezéseket,
 - 16. meghatározza a hivatásos állomány tagja által felvett kölcsönhöz nyújtott, az állami készfizető kezességvállalásra vonatkozó további szabályokat,
-- 17. megállapítsa az országos parancsnok és helyettese, valamint az országos főigazgató és helyettese számára adható, valamint őket megillető juttatások fajtáit, mértékét, a jogosultság feltételeit, a megállapítás és a kifizetés részletes rendjét.
+- 17. megállapítsa az országos parancsnok és helyettese, valamint az országos főigazgató és helyettese számára adható, valamint őket megillető juttatások fajtáit, mértékét, a jogosultság feltételeit, a megállapítás és a kifizetés részletes rendjét,
+- 18. meghatározza a személyi állomány kártalanítására vonatkozó esetköröket, valamint a kártalanítással kapcsolatos további feladatokat.
 
 341. § (1) Felhatalmazást kap a miniszter, hogy az általa irányított rendvédelmi szerv tekintetében rendeletben:
 
@@ -3773,7 +3983,7 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 - 4. meghatározza
   - a) a szolgálati igazolvány rendszeresítésével, érvényességével és a szolgálati igazolvánnyal történő ellátás rendjével összefüggő szabályokat, a szolgálati igazolványnak a fegyverviselési, valamint intézkedési jogosultság igazolására vonatkozó szabályait, továbbá meghatározhatja a szolgálati igazolvány egyéb adattartalmát,
   - b) a szolgálati jelvény rendszeresítésével és a szolgálati jelvénnyel történő ellátás rendjével összefüggő szabályokat,
-- 5. meghatározza, hogy a hivatásos állomány tagja mely vagyontárgyak, magáncélú telekommunikációs eszközök esetében, valamint a készpénz, készpénzt helyettesítő eszköz vonatkozásában mely értékhatárt meghaladóan korlátozható abban, hogy azokat a szolgálatban magánál tartsa, valamint a korlátozás feltételeit, továbbá, hogy megállapítsa a magáncélú telekommunikációs eszközök szolgálatellátás során történő használatának korlátozására vonatkozó szabályokat,
+- 5. meghatározza, hogy a hivatásos állomány tagja mely vagyontárgyak, magáncélú telekommunikációs eszközök esetében, valamint a készpénz, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti készpénz-helyettesítő fizetési eszköz vonatkozásában mely értékhatárt meghaladóan korlátozható abban, hogy azokat a szolgálatban magánál tartsa, valamint a korlátozás feltételeit, továbbá, hogy megállapítsa a magáncélú telekommunikációs eszközök szolgálatellátás során történő használatának korlátozására vonatkozó szabályokat,
 - 6. megállapítsa
   - a) a személyügyi igazgatás rendjét, a munkáltatói intézkedések kiadásának rendjét,
   - b) a szolgálati viszony létesítésének, módosításának, megszüntetésének eljárási rendjét, a hivatásos állományba visszavétel feltételeit és eljárásrendjét, továbbá azon jogosultságokat, amelyeket a hivatásos állomány tagja lemondása esetén elveszít,
@@ -3801,7 +4011,7 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 - 16. meghatározza a minősítés tartalmi és eljárási szabályait, továbbá a minősítés alapján kezdeményezhető, e törvényben nem szabályozott munkáltatói intézkedéseket,
 - 17. meghatározza a szolgálati beosztások besorolásához szükséges munkakör-értékelés végrehajtásának módszertanát és eljárási rendjét,
 - 18. meghatározza
-  - a) a rendfokozati vizsgával kapcsolatos részletes szabályokat,
+  - a) a rendfokozati vizsgával kapcsolatos részletes szabályokat, valamint a rendfokozati vizsga teljesítésének kötelezettsége alóli mentességek eseteit,
   - b) a vezetővé képzéssel és magasabb vezetővé képzéssel kapcsolatos részletes szabályokat, a rendvédelmi szerv hivatásos állományát érintő vezetőképzési rendszert,
   - c) a rendvédelmi szerv hivatásos állományát érintő szakmai képzési és átképzési rendszert,
   - d) a rendvédelmi szerv hivatásos állományát érintő továbbképzési rendszert,
@@ -3836,6 +4046,8 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 (3) Felhatalmazást kap a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló törvényben meghatározott, a rendészeti felsőoktatás felügyeletét gyakorló miniszter, hogy a Nemzeti Közszolgálati Egyetemen rendszeresített szolgálati beosztásokat, továbbá azok besorolási kategóriába sorolását rendeletben állapítsa meg.
 
 (4) Felhatalmazást kap a miniszter – az Országgyűlési Őrség hivatásos állománya vonatkozásában az Országgyűlés elnöke véleményének kikérésével a rendészetért felelős miniszter –, hogy a 2015. június 30-án szolgálati viszonyban álló, nem vezetői beosztást betöltő hivatásos állomány vonatkozásában meghatározza az illetményemelkedés szempontjából a rendvédelmi szerv alapfeladatába tartozó szolgálati beosztások felsorolását.
+
+(5) Felhatalmazást kap a miniszter az általa irányított rendvédelmi szerv tekintetében – az Országgyűlési Őrség vonatkozásában az Országgyűlés elnöke véleményének kikérésével a rendészetért felelős miniszter –, hogy az egészségkárosodási ellátás megállapításával kapcsolatos részletes eljárási szabályokat, az egészségkárosodási ellátás számításának és folyósításának szabályait, továbbá az egészségkárosodási ellátásra jogosultakkal betölthető szolgálati beosztások és nem hivatásos munkakörök meghatározásának rendjét rendeletben állapítsa meg.
 
 342. § (1) A 341. § (1) bekezdésében foglaltaktól eltérően a polgári nemzetbiztonsági szolgálatok esetében a miniszter közjogi szervezetszabályozó eszközben szabályozza a 341. § (1) bekezdés
 
@@ -3953,14 +4165,16 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 
 (3) A besoroláskor meg kell állapítani azt az illetményt az illetményelemek szerinti bontásban, amelyre a hivatásos állomány tagja – amennyiben szolgálati beosztása e törvény hatálybalépését követően nem változik – 2015. július 1-je és 2015. december 31-e között jogosult.
 
-352. § A 351. §, a 353. § és a 353/A. § alkalmazásában:
+352. § A 351. § és a 353–353/C. § alkalmazásában:
 
 - a) illetményemelkedés: a korábbi rendszeres díjazás és a hatályos rendszeres díjazás különbözete,
 - b) korábbi rendszeres díjazás: a hivatásos állomány tagját 2015. június 30-án az 1996. évi XLIII. törvény 1.) 100. §-a szerinti beosztási illetmény, és rendfokozati illetmény, azzal, hogy a 101. § szerinti (4) bekezdése szerinti, 2015. évre megállapított illetményeltérítést nem lehet figyelembe venni, 2.) 100/A. §-a szerinti szolgálati időpótlék, 3.) 100/B. §-a szerinti vezetői illetménypótlék, 4.) 103. §-a szerinti illetménykiegészítés, 5.) 103/B. §-a szerinti kompenzációs illetménykiegészítés, 6.) 104/A. §-a szerinti képzettségi vagy munkaköri pótlék, 7.) 245/I. §-a szerinti kiegészítő juttatás, 8.) 254. § (2) bekezdés a) pontja szerinti, egy hónapra számított pótlékok, 9.) 292. § szerinti nemzetbiztonsági pótlék, 10.) 293. § (1) bekezdése szerinti, egy hónapra számított pótlékok: a személyi pótlék, a gépjárművezetői pótlék, a közterületi pótlék, 11.) 306. § (1) bekezdése szerinti, egy hónapra számított pótlékok: a gépjárművezetői pótlék, a lovasjárőri pótlék, a kutyavezetői pótlék, az őrzési pótlék együttes összege,
 - c) hatályos rendszeres díjazás: a 2015. július 1-jén a hivatásos állomány tagjának besorolása alapján a 1.) 155. § szerinti beosztási illetmény, 2.) 156. § szerinti szolgálati időpótlék, 3.) 157. § szerinti hivatásos pótlék, 4.) 161. § (1) bekezdés a) és b) pontja szerinti, egy hónapra számított pótlék együttes összege,
 - d) a rendvédelmi szerv alapfeladatának ellátására létrehozott szolgálati beosztás: az a szolgálati beosztás, amely alapján a hivatásos állomány tagja olyan tevékenységet végez, amely 1.) a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdésében meghatározott, 2.) a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 4., 5. és 8. §-ában meghatározott, 3.) a hivatásos katasztrófavédelmi szerv állománya esetében a tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény szerinti tűzvédelmi, tűzoltási és műszaki mentési feladatok, valamint a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény szerinti katasztrófavédelmi, polgári védelmi, valamint iparbiztonsági, 4.) a büntetés-végrehajtási szervezetről szóló 1995. évi CVII. törvény 1. § (1) bekezdésében meghatározott, illetve 5.) az Országgyűlésről szóló 2012. évi XXXVI. törvény 125. § (2) bekezdésében meghatározott feladatok ellátására irányul, ezen szolgálati beosztások körét a miniszter rendeletben, a polgári nemzetbiztonsági szolgálatok esetében közjogi szervezetszabályozó eszközben határozza meg,
 - e) 2016-os illetménykülönbözet: a korábbi rendszeres díjazás és a 2016-os rendszeres díjazás közötti emelkedés százalékos mértékben kifejezve,
-- f) 2016-os rendszeres díjazás: a c) pont 1–4. alpontjában felsorolt illetményelemeknek a hivatásos állomány tagjának besorolása alapján a XIII. Fejezet szerint, 2016. január 1. napján számított együttes összege.
+- f) 2016-os rendszeres díjazás: a c) pont 1–4. alpontjában felsorolt illetményelemeknek a hivatásos állomány tagjának besorolása alapján a XIII. Fejezet szerint, 2016. január 1. napján számított együttes összege,
+- g) 2017-es illetménykülönbözet: a korábbi rendszeres díjazás és a 2017-es rendszeres díjazás közötti emelkedés százalékos mértékben kifejezve,
+- h) 2017-es rendszeres díjazás: a c) pont 1–4. alpontjában felsorolt illetményelemeknek a hivatásos állomány tagjának besorolása alapján a XIII. Fejezet szerint, 2017. január 1. napján számított együttes összege.
 
 353. § (1) 2015. július 1-je és 2015. december 31-e között a hivatásos állomány tagjának illetményére a XIII. Fejezetet az e §-ban meghatározott eltérésekkel kell alkalmazni.
 
@@ -3999,11 +4213,39 @@ közötti különbözetet kompenzációs díjként folyósítani kell. Az így f
 
 (8) A (4) bekezdés szerinti korrekciós díjat a hivatásos állomány azon tagjának lehet csak megállapítani, aki a 353. § (6) bekezdése alapján 2015. július 1. és 2015. december 31. között kompenzációs díjra volt jogosult, és a korrekciós díj mértéke nem haladhatja meg a korábbi kompenzációs díj mértékét.
 
+353/B. § (1) 2017. január 1-je és december 31-e között a hivatásos állomány tagjának illetményére a XIII. Fejezetet az e §-ban meghatározott eltérésekkel kell alkalmazni.
+
+(2) Az állományilletékes parancsnok munkáltatói intézkedésében megállapítja azt az illetményt – az alapilletmény és az azon kívüli egyéb illetményelemek szerinti bontásban –, amelyre a hivatásos állomány tagja 2017. január 1-jétől jogosult. A hivatásos állomány tagja részére – amennyiben szolgálati viszonya nem módosul – 2017. január 1-je és 2017. december 31-e között a 2017. január 1. napjával megállapított alapilletményt kell folyósítani.
+
+(3) 2017. január 1-jén a hivatásos állomány tagja részére a (4)–(6) bekezdésben meghatározott szabályok szerint kell az illetményt megállapítani úgy, hogy a megállapított illetmény és a korábbi rendszeres díjazás közötti emelkedés mértéke nem haladhatja meg a 40%-ot.
+
+(4) A hivatásos állomány azon tagja részére, akinek a 2017-es rendszeres díjazása nem éri el a részére a 351. § (3) bekezdése alapján megállapított illetményt, az továbbra is a 351. § (3) bekezdése alapján megállapított illetményre jogosult. Az így megállapított illetmény és a 2017-es rendszeres díjazás összege közötti különbözetet korrekciós díjként kell folyósítani.
+
+(5) A hivatásos állomány azon tagja részére, akinek a 2017-es rendszeres díjazásának összege eléri vagy meghaladja a részére a 351. § (3) bekezdése alapján megállapított illetményt, de a 2017-es illetménykülönbözet nem haladja meg a 40%-ot, a 2017-es rendszeres díjazás szerinti illetményt kell folyósítani.
+
+(6) A hivatásos állomány azon tagja részére, akinek az esetében a 2017-es illetménykülönbözet meghaladja a 40%-ot, a 154. § (2) bekezdése szerinti alapilletmény helyett olyan mértékű alapilletményt kell folyósítani, ami a korábbi rendszeres díjazáshoz 40%-os mértékű emelkedést eredményez.
+
+(7) Az e törvény szerinti, alapilletményen kívüli más illetményelemekre a hivatásos állomány tagja e törvény szerinti mértékben jogosult.
+
+(8) A (4) bekezdés szerinti korrekciós díjat a hivatásos állomány azon tagjának lehet csak megállapítani, aki a 353. § (6) bekezdése alapján 2015. július 1. és 2015. december 31. között kompenzációs díjra volt jogosult, és a korrekciós díj mértéke nem haladhatja meg a korábbi kompenzációs díj mértékét.
+
+353/C. § (1) A hivatásos állomány azon tagjának, aki 2015. június 30-án olyan szolgálati beosztást töltött be, amelyben az 1996. évi XLIII. törvény 254. § (2) bekezdés b) pont 5. alpontja szerinti tűzszerészpótlék megállapítására jogosító tevékenység a szolgálati feladatok közé tartozott – amennyiben továbbra is olyan szolgálati beosztást tölt be, amelyben ilyen szolgálati feladatokat lát el –, a 2017. évre a 353/B. § alapján megállapított illetményt úgy kell kiszámítani, hogy a korábbi rendszeres díjazás összegében a 352. § b) pontjában felsoroltakon túl a 2015. első hat hónapjában teljesített tűzszerészpótlékra jogosító tevékenység alapján részére megállapított tűzszerészpótlék egy hónapra kiszámított átlagát is figyelembe kell venni.
+
+(2) A 353/B. §-t úgy kell alkalmazni, hogy
+
+- a) a korábbi rendszeres díjazásnak,
+- b) a 351. § (3) bekezdése szerinti illetménynek – 353. §-ban szereplő számítások ismételt elvégzésével –, és
+- c) a 2017-es illetménykülönbözetnek
+
+az (1) bekezdésben meghatározott előírás szerint korrigált mértéke alapján kell a 2017. évre szóló illetményt megállapítani.
+
+(3) Az e §-ban foglalt rendelkezés nem érinti a 2017. január 1-jét megelőzően megállapított és folyósított illetmény mértékét, a hivatásos állomány tagjának illetménye azonban ezen rendelkezések alkalmazásával nem csökkenhet a 2016. december 31-én érvényes illetmény alá.
+
 354. § A hivatásos állomány tagja 2019. január 1-jét követően az e törvény szerinti illetményre jogosult.
 
 355. § (1) A szolgálati viszony 2015. december 31-ét követő, az 52. § (2) bekezdés a), b), e)–g) vagy j) pontja szerinti módosítása esetén, valamint a 2015. december 31-ét követően létesített szolgálati viszony esetén a hivatásos állomány tagjának illetményét a (2) bekezdésben meghatározott korlátozással a XIII. Fejezet rendelkezései alapján kell meghatározni.
 
-(2) Az (1) bekezdésben megjelölt személy alapilletménye legfeljebb 35%-kal lehet magasabb, mint az illetmény megállapításakor az általa betöltött szolgálati beosztás besorolása, az általa viselt rendfokozat és a részére megállapított szolgálati idő alapján 2015. június 30-án a 352. § b) pontjába tartozó illetményelemek alapján megállapított összeg.
+(2) Az (1) bekezdésben megjelölt személy alapilletménye legfeljebb 40%-kal lehet magasabb, mint az illetmény megállapításakor az általa betöltött szolgálati beosztás besorolása, az általa viselt rendfokozat és a részére megállapított szolgálati idő alapján 2015. június 30-án a 352. § b) pontjába tartozó illetményelemek alapján megállapított összeg.
 
 (3) A 158. § szerinti teljesítményjuttatás első alkalommal a 2015. évre vonatkozóan elvégzett teljesítményértékelés alapján 2016. évben fizethető.
 
@@ -4073,6 +4315,8 @@ kell sorolni.
 
 362/B. § A Módtv.-nyel megállapított 6. § (9) bekezdésében szereplő rendelkezés azon rendvédelmi szerveknél – az Országgyűlési Őrség kivételével –, amelyek rendelkeznek az elektronikus dokumentumok kiállításához szükséges feltételekkel, 2016. január 1-jétől kötelezően alkalmazandó. Azon rendvédelmi szerveknél – az Országgyűlési Őrség kivételével –, amelyek nem rendelkeznek az elektronikus dokumentumok kiállításához szükséges feltételekkel, a feltételek megteremtéséről legkésőbb 2016. június 30-ig kell gondoskodni és a 6. § (9) bekezdésében foglalt szabályozást 2016. július 1-jétől alkalmazni kell.
 
+362/D. § A 255/A. §-t a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény módosításáról szóló 2016. évi CLIX. törvény hatálybalépésekor el nem évült követelésekre is alkalmazni kell.
+
 363. § E törvény
 
 - a) 366. § (4) bekezdése az Alaptörvény 46. cikk (6) bekezdése alapján sarkalatosnak minősül,
@@ -4095,7 +4339,11 @@ való megfelelést szolgálja.
 
 (2) Ez a törvény az Európai Parlament és a Tanács 1168/2011/EU rendelete (2011. október 25.) által módosított, az Európai Unió Tagállamai Külső Határain Való Operatív Együttműködési Igazgatásért Felelős Európai Ügynökség felállításáról szóló, 2004. október 26-i 2007/2004/EK tanácsi rendelet 3b. cikkének végrehajtásához szükséges rendelkezéseket állapít meg.
 
-#### 365–368. §
+365. § (1) Egészségkárosodási ellátásra jogosultság megállapításának a 2017. január 1-jét követően megállapított egészségi alkalmatlanság esetén van helye.
+
+(2) Ha az egészségkárosodási ellátásra jogosultság megállapításakor a jogosult a 353–355. § szerinti átmeneti rendelkezések alapján még nem az e törvény XIII. Fejezete szerinti illetményre jogosult, a 2019. január 1-ig bekövetkező általános illetményfejlesztés során a 82/G. § (1) vagy (2) bekezdése szerinti számítási alapot az illetményfejlesztés szabályainak megfelelő alkalmazásával ismételten meg kell állapítani és az egészségkárosodási ellátás mértékét ennek megfelelően emelni kell, mindaddig, amíg az illetményfejlesztés szabályai szerint az egészségkárosodási ellátás megállapítását megelőző illetménye el nem éri az e törvény XIII. Fejezete szerinti mértéket.
+
+#### 366–368. §
 
 #### 369. §
 

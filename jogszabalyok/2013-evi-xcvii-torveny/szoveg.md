@@ -112,6 +112,27 @@ különleges személyes adat.
 
 (6) A vizsgálatok megállapításai a szolgálati viszony megszűnéséig vagy megszüntetéséig kezelhetők. Ha a szolgálati viszony egészségi vagy pszichikai alkalmatlanság alapján szűnt meg, az alkalmasság minősítését tartalmazó adatok az állomány tagjának haláláig kezelhetők.
 
+8/A. § (1) A honvédelmi egészségkárosodási ellátást megállapító szerv a honvédelmi egészségkárosodási ellátással kapcsolatos jogosultság elbírálása, valamint a honvédelmi egészségkárosodási ellátással kapcsolatos feladatok ellátása céljából kezeli a honvédelmi egészségkárosodási ellátásban részesülő személy 15. melléklet szerinti adatait.
+
+(2) A honvédelmi egészségkárosodási ellátással kapcsolatos nyilvántartásba betekinthetnek a honvédelmi egészségkárosodási ellátással kapcsolatos döntés előkészítése, meghozatala, végrehajtása, ellenőrzési, felügyeleti jogaik gyakorlása és vizsgálatok lefolytatása céljából:
+
+- a) a honvédelemért felelős miniszter (a továbbiakban: miniszter), a miniszter által vezetett minisztérium állami vezetői, valamint a Honvéd Vezérkar főnöke,
+- b) a Honvédség központi személyügyi szerve,
+- c) a miniszter által vezetett minisztérium személyügyi szerve,
+- d) a honvédségi szervezet saját állománya vonatkozásában a honvédségi szervezet személyügyi szerve,
+- e) a miniszter törvényességi felügyeleti jogkörében ellenőrzést végző személy,
+- f) a Honvédség jogi képviseletét ellátó szervezet,
+- g) a Honvédségnél az érintett illetmény számfejtését végző szerv.
+
+(3) Az adatkezelés
+
+- a) a jogosultság megállapítása esetén a honvédelmi egészségkárosodási ellátásra való jogosultság megszűnését követő ötödik év december 31-ig,
+- b) abban az esetben, ha a jogosultság megállapítására nem kerül sor, az erről hozott döntés elleni, a Hjt. 186. § (1) bekezdése szerinti keresetindításra nyitva álló határidő leteltét követő harminc napig, keresetindítás esetén a bíróság döntésének jogerőre emelkedéséig
+
+tart.
+
+(4) A honvédelmi egészségkárosodási ellátás megállapításakor, valamint megszűnésekor a honvédelmi egészségkárosodási ellátást megállapító szerv köteles ennek tényéről a megváltozott munkaképességű személyek ellátásait folyósító szervet, valamint a baleseti ellátást folyósító szerveket és a nyugdíjigazgatási szerveket tizenöt napon belül tájékoztatni.
+
 #### 5. A toborzó nyilvántartás
 
 9. § (1) A toborzó nyilvántartásban kell kezelni a hivatásos állományú katonának, a szerződéses állományú katonának, a honvéd tisztjelöltnek, a honvéd altiszt-jelöltnek és az önkéntes tartalékos katonának jelentkezők (a továbbiakban együtt: jelentkező) 1. melléklet szerinti adatait.
@@ -155,7 +176,7 @@ különleges személyes adat.
 
 11. § (1) A személyügyi nyilvántartásban kezelt adatokhoz elektronikus úton közvetlenül hozzáférhetnek és az annak alapjául szolgáló iratokba betekinthetnek a szolgálati viszonnyal kapcsolatos döntések előkészítése és meghozatala, azok végrehajtása, ellenőrzési, felügyeleti jogaik gyakorlása és vizsgálatok lefolytatása céljából
 
-- a) a honvédelemért felelős miniszter (a továbbiakban: miniszter), a miniszter által vezetett minisztérium állami vezetői, valamint a Honvéd Vezérkar főnöke,
+- a) a miniszter, a miniszter által vezetett minisztérium állami vezetői, valamint a Honvéd Vezérkar főnöke,
 - b) a Honvédség központi személyügyi szerve,
 - c) a miniszter által vezetett minisztérium személyügyi szerve,
 - d) a honvédségi szervezet saját állománya vonatkozásában a honvédségi szervezet személyügyi szerve,
@@ -453,7 +474,7 @@ kezeli.
 
 29. § (1) A 40. életévüket a tárgyév december 31-éig be nem töltő potenciális hadkötelesekről, kiképzett tartalékosokról és hadkötelesekről a Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére az e §-ban meghatározott szervek szolgáltatnak adatot.
 
-(2) A személyiadat- és lakcímnyilvántartás központi szerve a 8. mellékletben meghatározott adatokról a hadköteles nyilvántartásba vételhez és a nyilvántartott adatok pontosításához adatot szolgáltat
+(2) A személyiadat- és lakcímnyilvántartást kezelő szerv a 8. mellékletben meghatározott adatokról a hadköteles nyilvántartásba vételhez és a nyilvántartott adatok pontosításához adatot szolgáltat
 
 - a) a hadköteles korba lépőkről a hadköteles nyilvántartásba vétel évének január 31. napjáig,
 - b) a magyar állampolgárságot a magyar állampolgárságról szóló törvény alapján megszerzőkről, ha magyarországi lakóhellyel rendelkeznek, haladéktalanul, valamint a külföldről hazatérő magyar állampolgárokról a magyarországi lakóhelyük bejelentését követő 8 napon belül,
@@ -474,11 +495,11 @@ kezeli.
 
 30. § (1) A hadkötelezettség bevezetése esetén, a hadkötelezettség fennállása idejéig a 40. életévüket tárgyév december 31-ig be nem töltő hadkötelesekre vonatkozóan a Honvédség katonai igazgatási és központi adatfeldolgozó szerve számára az e §-ban meghatározott szervek szolgáltatnak adatot. Az e §-ban meghatározott adatszolgáltatási kötelezettség – a (4) és az (5) bekezdésben meghatározottak kivételével – nem érinti a 29. §-ban meghatározott adatszolgáltatási kötelezettség teljesítését.
 
-(2) A személyiadat- és lakcímnyilvántartás központi szerve minden hónap 5. napjáig adatot szolgáltat az (1) bekezdés szerinti, Magyarországon lakóhellyel vagy – ennek hiányában – tartózkodási hellyel rendelkező személyekről.
+(2) A személyiadat- és lakcímnyilvántartást kezelő szerv minden hónap 5. napjáig adatot szolgáltat az (1) bekezdés szerinti, Magyarországon lakóhellyel vagy – ennek hiányában – tartózkodási hellyel rendelkező személyekről.
 
 (3) A választási szerv adatot szolgáltat azokról az (1) bekezdés szerinti személyekről, akiket országgyűlési, európai parlamenti vagy helyi önkormányzati képviselőjelöltként, polgármesterjelöltként, kisebbségi önkormányzati képviselőjelöltként nyilvántartásba vettek vagy annak megválasztottak, illetve megbízatásuk megszűnt a hadkötelezettség elrendelésétől számított 5 napon belül, valamint a hadkötelezettség fennállásának idején a nyilvántartásba vételt, a megválasztást vagy a megbízatás megszűnését követő 8 napon belül.
 
-(4) A személyiadat- és lakcímnyilvántartás központi szerve a hadköteles nyilvántartásban nyilvántartott adatok pontosításához adatot szolgáltat az (1) bekezdés szerinti személy elhalálozásáról minden hónap 5. napjáig.
+(4) A személyiadat- és lakcímnyilvántartást kezelő szerv a hadköteles nyilvántartásban nyilvántartott adatok pontosításához adatot szolgáltat az (1) bekezdés szerinti személy elhalálozásáról minden hónap 5. napjáig.
 
 (5) Az állampolgársági ügyekben eljáró szerv az állampolgárságról való lemondásról minden hónap 5. napjáig szolgáltat adatot.
 
@@ -493,7 +514,7 @@ kezeli.
 
 32. § (1) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve megkeresésére a megkeresésben szereplő személyekről 8 napon belül adatot szolgáltat a hadköteles nyilvántartás pontosításához
 
-- a) a személyiadat- és lakcímnyilvántartás központi szerve a 29. § (2) bekezdésében meghatározott adatokról,
+- a) a személyiadat- és lakcímnyilvántartást kezelő szerv a 29. § (2) bekezdésében meghatározott adatokról,
 - b) a rendvédelmi szerv az állományában hivatásos szolgálatot teljesítők a 29. § (4) bekezdésében meghatározott adatairól,
 - c) az állampolgársági ügyekben eljáró szerv a 29. § (6) bekezdésében meghatározott adatokról,
 - d) a Honvédség központi személyügyi nyilvántartó szerve valamint a rendvédelmi szerv a 29. § (7) bekezdése szerinti adatokról,
@@ -502,7 +523,7 @@ kezeli.
 - g) a kezelést végző orvos a katonai szolgálatra való alkalmasság megállapítása érdekében a 4. melléklet f) pont fa) és fc) alpontja, g), h), i) és s) pontja szerinti adatokról, és
 - h) a Büntetés-végrehajtás Országos Parancsnoksága a 30. § (6) bekezdése szerinti adatokról.
 
-(2) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve megkeresésére, a megkeresésben szereplő hadkötelesekről 8 napon belül adatot szolgáltat a személyiadat- és lakcímnyilvántartás központi szerve a 30. § (2) bekezdésében meghatározott adatokról.
+(2) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve megkeresésére, a megkeresésben szereplő hadkötelesekről 8 napon belül adatot szolgáltat a személyiadat- és lakcímnyilvántartást kezelő szerv a 30. § (2) bekezdésében meghatározott adatokról.
 
 #### 17. A meghagyással kapcsolatos nyilvántartások
 
@@ -529,7 +550,7 @@ kezeli.
 
 (2) A 14–17. alcímben szolgáltatott adatokat
 
-- a) a személyi azonosító alkalmazásával, annak hiányában a természetes személyazonosító adatokkal szolgáltatja az állampolgársági ügyekben eljáró szerv, a személyiadat- és lakcímnyilvántartás központi szerve és a Honvédség központi személyügyi szerve, és
+- a) a személyi azonosító alkalmazásával, annak hiányában a természetes személyazonosító adatokkal szolgáltatja az állampolgársági ügyekben eljáró szerv, a személyiadat- és lakcímnyilvántartást kezelő szerv és a Honvédség központi személyügyi szerve, és
 - b) a természetes személyazonosító adatokkal szolgáltatja minden további adatszolgáltató.
 
 ### V. Fejezet — A VESZTESÉG-NYILVÁNTARTÁS
@@ -818,7 +839,7 @@ részére az erre vonatkozó írásbeli kérelem alapján.
 
 #### 31. Adatszolgáltatás a gazdasági és anyagi szolgáltatások nyilvántartásához
 
-48. § (1) A honvédelem feladatainak végrehajtása érdekében az igénybevétel tervezéséhez a Honvédség katonai igazgatási és központi adatfeldolgozó szervének megkeresése alapján a törvényben meghatározott adatkörben adatszolgáltatást teljesít a központi közúti közlekedési nyilvántartó szerv és a hajózási hatóság.
+48. § (1) A honvédelem feladatainak végrehajtása érdekében az igénybevétel tervezéséhez a Honvédség katonai igazgatási és központi adatfeldolgozó szervének megkeresése alapján a törvényben meghatározott adatkörben adatszolgáltatást teljesít a közúti közlekedési nyilvántartást kezelő szerv és a hajózási hatóság.
 
 (2) A katonai igazgatási központ megkeresése alapján adatszolgáltatást teljesít a 11. és a 12. mellékletben meghatározott adatokról
 
@@ -1691,7 +1712,7 @@ y) illetménye.
 
 ### 8. melléklet a 2013. évi XCVII. törvényhez
 
-A személyiadat- és lakcímnyilvántartás központi szerve által a hadköteles nyilvántartáshoz szolgáltatott adatok
+A személyiadat- és lakcímnyilvántartást kezelő szerv által a hadköteles nyilvántartáshoz szolgáltatott adatok
 
 a) természetes személyazonosító adatok,
 
@@ -1998,3 +2019,53 @@ i) személyügyi törzsszám,
 j) korábbi foglalkoztatási jogviszonyával kapcsolatos tárgyévi jövedelem és személyi jövedelemadó adatok (adó-adatlap),
 
 k) korábbi foglalkoztatási jogviszonyával kapcsolatos tárgyévre vonatkozó önkéntes és kölcsönös nyugdíjpénztári adatok (pénztár neve, címe, adószáma, pénzforgalmi-jelzőszáma, tagsági azonosító, tagsági jogviszony kezdete).
+
+### 15. melléklet a 2013. évi XCVII. törvényhez
+
+A honvédelmi egészségkárosodási ellátással összefüggésben kezelhető adatok
+
+a) személyi adatok:
+
+aa) születési vezetéknév és utónév, családi vezetéknév és utónév,
+
+ab) arcképmás, saját kezű aláírás minta,
+
+ac) születési idő, hely,
+
+ad) anyja születési családi utóneve(i) és utóneve(i),
+
+ae) személyi azonosító,
+
+af) lakóhely, tartózkodási hely, levelezési cím, telefonszám, elektronikus elérhetőség,
+
+ag) adóazonosító jel, társadalombiztosítási azonosító jel,
+
+ah) a személyazonosító okmány száma, érvényességi ideje,
+
+b) szolgálati viszony alatti beosztásokkal, a szolgálati idővel, a távolléti díjjal kapcsolatos adatok,
+
+c) szolgálati kötelmekkel összefüggő balesettel, betegséggel kapcsolatos adatok,
+
+d) az ellátás megállapításával összefüggő egészségügyi adatok,
+
+e) a nyugellátásra és a társadalombiztosítási jogosultságra vonatkozó adatok:
+
+ea) a társadalombiztosítási jogosultságot igazoló adatok,
+
+eb) a társadalombiztosítási ellátások adatai,
+
+f) az ellátással összefüggő foglalkozási adatok:
+
+fa) foglalkoztató neve, címe, adószáma,
+
+fb) munkabér vagy illetmény,
+
+fc) munkaidő mértéke,
+
+g) az elhalálozás ideje,
+
+h) a visszaköveteléssel érintett közeli hozzátartozók neve és lakcíme,
+
+i) a honvédelmi egészségkárosodási ellátás folyósítási adatai,
+
+j) a honvédelmi egészségkárosodási ellátása való jogosultságot kizáró vagy megszüntető okokra vonatkozó adatok.

@@ -39,6 +39,8 @@ SZERVEN BELÜLI VEZETŐI IRÁNYÍTÁSA ÉS FELADATAI
 
 6. § (1) A NAV vezetőjének feladat- és hatáskörét a kijelölt miniszter irányítása alá tartozó, a Kormány eredeti jogalkotói hatáskörben kiadott rendeletében kijelölt államtitkár (a továbbiakban: állami adó- és vámhatóság vezetője) gyakorolja. Az állami adó- és vámhatóság vezetője képviseli a NAV-ot, közvetlenül vezeti a Központi Irányítást, továbbá ellátja mindazokat a feladatokat, amelyeket jogszabály a NAV vezetőjének feladat- és hatáskörébe utal.
 
+(1a) Az állami adó- és vámhatóság vezetője feladat- és hatáskörében minősítésre jogosult.
+
 (2) Az állami adó- és vámhatóság vezetőjének szakmai helyettesei a kijelölt miniszter által irányított minisztérium szervezeti és működési szabályzatában meghatározott, az állami adó- és vámhatóság vezetője által irányított helyettes államtitkárok.
 
 (3) Az állami adó- és vámhatóság vezetője és szakmai helyettesei szolgálati elöljárója a NAV hivatásos állományú tagjainak.
@@ -186,14 +188,15 @@ kapcsolatos feladatokat.
 - a) kormánytisztviselőkből,
 - b) hivatásos szolgálati jogviszonyban álló, hivatásos állományú tagokból (a továbbiakban: pénzügyőr),
 - c) kormányzati ügykezelőkből (a továbbiakban: ügykezelő) és
-- d) munkavállalókból áll.
+- d) munkavállalókból
+- e) tisztjelöltekből áll.
 
 (1a) Az (1) bekezdés a)–d) pontjaiba tartozó személyek a továbbiakban együtt foglalkoztatottak.
 
 (2) A NAV személyi állományába tartozó
 
 - a) kormánytisztviselőkre és ügykezelőkre a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.),
-- b) pénzügyőrökre a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.),
+- b) pénzügyőrökre és tisztjelöltekre a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.),
 - c) munkavállalókra a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 15/A. § (1) Az e törvény hatálya alá tartozók személyiségi jogainak kormányzati szolgálati jogviszonnyal, hivatásos szolgálati jogviszonnyal, munkaviszonnyal összefüggő megsértése esetén jogkövetkezményként a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.)
@@ -406,9 +409,11 @@ a küldemény átvételének megtagadása napján közöltnek kell tekinteni.
 
 ### Eltérés a Hszt.-től
 
-17. § (1) E törvény alkalmazása során a Hszt. 2. § 1–4., 6–8., 11–16., 18–21., 23–25., 28., 30–31. pontja, 4–12. §-a, 13. § (3)–(7) bekezdése, 15. § (1) bekezdése, 17. § (2) és (5) bekezdése, 31. § (2)–(3) bekezdése, 33. § (7) bekezdése, 38. § (8) bekezdése, 40. §-a, 45. § (1) bekezdése, 46. § (1)–(3) bekezdése, 47. §-a, 49. § (1) és (4) bekezdése, 50. §-a, 52–53. §-a, 55–61. §-a, 66. § (3) és (4) bekezdése, 71–72. §-a, 74. § (3) bekezdése, 77. § (1) bekezdés h) pontja és (7) bekezdése, 86. § (2) bekezdés e) pontja és (5)–(7) bekezdése, 90. § (2) bekezdése, 100. §-a, 102. § (2) bekezdése, 108–116. §-a, 117. § (1)–(5) bekezdése, 118–122. §-a, 124–126. §-a, 128–129. §-a, 130. § (4) bekezdése, 131. § (2) bekezdése, 132–133. §-a, 134. § (4) bekezdése, 135. § (5) bekezdése, 137. § (3) bekezdése, 139–146. §-a, 149–164. §-a, 165. § (1) bekezdés a) és f) pontja, továbbá a szolgálati viszony megszüntetés fegyelmi fenyítésre vonatkozó rendelkezése, 166–167. §-a, 168. § (2) bekezdése, 169–174. §-a, 176–221. §-a, 224. § (3)–(4) bekezdése, 225–256. §-a, 257. § (3)–(6) bekezdése, 264. §-a, 267. § (2)–(3) bekezdése, 269–271. §-a, 277–279. §-a, 290. §-a, 340. § 1–2., 12. és 17. pontja, 341. § (1) és (4) bekezdése, 344. § (5) bekezdése, 346. §-a, 348. § (1)–(5) és (8)–(9) bekezdése, 349. § (2)–(3) bekezdése, 350–361. §-a, 362. § (1) bekezdése, továbbá a 9–10. melléklete nem alkalmazható.
+17. § (1) E törvény alkalmazása során a Hszt. 2. § 1–4., 6–8., 11–16., 18–21., 23–25., 28., 30–31. pontja, 4–12. §-a, 13. § (3)–(7) bekezdése, 15. § (1) bekezdése, 17. § (2) és (5) bekezdése, 31. § (2)–(3) bekezdése, 33. § (7) bekezdése, 38. § (8) bekezdése, 40. §-a, 45. § (1) bekezdése, 46. § (1)–(3) bekezdése, 47. §-a, 49. § (1) és (4) bekezdése, 50. §-a, 52–53. §-a, 55–61. §-a, 66. § (3) és (4) bekezdése, 71–72. §-a, 74. § (3) bekezdése, 77. § (1) bekezdés h) pontja és (7) bekezdése, 82/C. §-a, 86. § (2) bekezdés e) pontja és (5)–(7) bekezdése, 90. § (2) bekezdése, 100. §-a, 102. § (2) bekezdése, 108–116. §-a, 117. § (1)–(5) bekezdése, 118–122. §-a, 124–125. §-a, 128–129. §-a, 130. § (4) bekezdése, 131. § (2) bekezdése, 132–133. §-a, 134. § (4) bekezdése, 135. § (5) bekezdése, 137. § (3) bekezdése, 139–146. §-a, 149–164. §-a, 165. § (1) bekezdés a) és f) pontja, továbbá az (1) bekezdés utolsó mondata, 166–167. §-a, 168. § (2) bekezdése, 169–174/A. §-a, 176–221. §-a, 224. § (3)–(4) bekezdése, 225–256. §-a, 257. § (6) bekezdése, 264. §-a, 267. § (2)–(3) bekezdése, 269–271. §-a, 277–279. §-a, 289. § (2a) bekezdése, 290. §-a, 340. § 1–2., 12. és 17. pontja, 341. § (1) és (4)–(5) bekezdése, 344. § (5) bekezdése, 346. §-a, 348. § (1)–(5) és (8)–(9) bekezdése, 349. § (2)–(3) bekezdése, 350–361. §-a, 362. § (1) bekezdése, 365. § (2) bekezdése, továbbá a 9–10. melléklete nem alkalmazható.
 
 (2) A kijelölt miniszter rendeletben határozza meg azokat a munkaköröket, amelyeket az ellátandó feladatok szolgálati jellegére tekintettel kizárólag pénzügyőr tölthet be (hivatásos munkakör). A NAV-nál egyéb munkakörök ellátására pénzügyőr kizárólag egyedi, az állami adó- és vámhatóság vezetője által adott engedély alapján, kivételesen indokolt esetben foglalkoztatható. A munkakör szolgálati jellegének megszűnése az abban a munkakörben foglalkoztatott pénzügyőr e munkakörben való további foglalkoztatását, hivatásos szolgálati jogviszonyát és előmenetelét nem érinti.
+
+(2a) Kormánytisztviselő pénzügyi nyomozóként csak kivételesen indokolt esetben – az állami adó- és vámhatóság vezetője által adott engedély alapján – foglalkoztatható.
 
 (3) Nem minősül a szolgálati jogviszony jellegét meghatározó, a Hszt. 13. § (1)–(2) bekezdése szerinti sajátos szolgálati körülmények között végzett, az élet és a testi épség kockáztatásával járó szolgálati tevékenységnek különösen:
 
@@ -443,7 +448,7 @@ a küldemény átvételének megtagadása napján közöltnek kell tekinteni.
 
 (2) A Hszt. 29. § b) pontját azzal az eltéréssel kell alkalmazni, hogy a pénzügyőr más keresőfoglalkozást e törvénynek az összeférhetetlenségről szóló 33/B–33/F. §-a figyelembevételével folytathat.
 
-(3) Hivatásos állományba visszavétel esetén a pénzügyőrt a 20. §-nak megfelelően kell besorolni.
+(3) Hivatásos állományba visszavétel esetén a pénzügyőrt a 20/A. § (1)–(3) bekezdésének megfelelően kell besorolni.
 
 (4) A hivatásos szolgálati jogviszony létesítésekor 12 hónap próbaidőt kell kikötni, ami nem hosszabbítható meg.
 
@@ -456,7 +461,7 @@ a küldemény átvételének megtagadása napján közöltnek kell tekinteni.
 
 (7) A Hszt. 63. § (3) bekezdés d) pontját és (4) bekezdését azzal az eltéréssel kell alkalmazni, hogy a pénzügyőr az e törvény szerinti közszolgálati pótlékra jogosult.
 
-(8) meghatározott szervhez hivatásos munkakör betöltésére vezényelt pénzügyőr illetményére és illetményjellegű juttatásaira, teljesítményértékelésére, minősítésére, pihenőidejére, a fegyelmi felelősségre vonásra, a kártérítésre, a személyiségi jogi jogsértésének jogkövetkezményeire, elismerések elnyerésére és viselésére, képzésére, továbbképzésére és előmenetelére e törvény szabályait kell alkalmazni.
+(8) A Hszt. 66. § (1) bekezdés a) és b) pontját azzal az eltéréssel kell alkalmazni, hogy a Hszt. 51. § (2) bekezdésében meghatározott szervhez hivatásos munkakör betöltésére vezényelt pénzügyőr illetményére és illetmény jellegű juttatásaira, teljesítményértékelésére, minősítésére, pihenőidejére, a fegyelmi felelősségre vonásra, a kártérítésre, a személyiségi jogi jogsértésének jogkövetkezményeire, elismerések elnyerésére és viselésére, képzésére, továbbképzésére és előmenetelére e törvény szabályait kell alkalmazni.
 
 (9) A Hszt. 68. § (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy a Nemzeti Közszolgálati Egyetemre vezényelt pénzügyőr az e törvény szerinti illetményre, pótlékokra, juttatásokra, támogatásokra és költségtérítésre jogosult. Egyebekben a Hszt. 68. § (3) bekezdése az irányadó.
 
@@ -475,15 +480,17 @@ a küldemény átvételének megtagadása napján közöltnek kell tekinteni.
 
 (15) A Hszt. 147. § (7) bekezdését azzal az eltéréssel kell alkalmazni, hogy a rendelkezés azon pénzügyőr tekintetében alkalmazandó, akit az állásából e törvény rendelkezései alapján felfüggesztettek.
 
-(16) A Hszt. 168. § (1) bekezdés alkalmazásában rendszeres illetménypótlék az idegennyelv-tudási pótlék.
+(16) A Hszt. 165. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy a Hszt. 165. § (1) bekezdés b)–d) pontjában meghatározott okból visszatartott távolléti díjat a kamataival utólag akkor kell kifizetni, ha a büntetőeljárás felmentéssel zárul.
 
-(17) A Hszt. 168. § (1) bekezdés alkalmazásában rendszeres illetménypótlék a vezetői pótlék, az idegennyelv-tudási pótlék és a veszélyességi pótlék.
+(17) A Hszt. 168. § (1) bekezdése alkalmazásában rendszeres illetménypótlék az időpótlék, a közszolgálati pótlék és az idegennyelv-tudási pótlék.
 
 (18) A Hszt. 123. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a NAV tv. 20. §-ában meghatározott feltételek teljesülése ellenére sem léptethető elő a pénzügyőr a Hszt. 123. § (1) bekezdésében meghatározott esetekben.
 
+(19) A Hszt. 126. §-át azzal az eltéréssel kell alkalmazni, hogy ha a pénzügyőrt alacsonyabb besorolású munkakörbe nevezik ki, és az új munkakör besorolási kategóriájához rendelt fizetési fokozata szerinti rendfokozata alacsonyabb a viselt rendfokozatánál, a pénzügyőr továbbra is a magasabb rendfokozat viselésére jogosult, ha hivatásos szolgálati jogviszonya 2016. július 1-je előtt a NAV-nál fennállt.
+
 17/C. § (1) A Hszt. 86. § (2) bekezdés a) pontját azzal az eltéréssel kell alkalmazni, hogy a pénzügyőr hivatásos szolgálati jogviszonyát – az a) pont tekintetében az (1a) bekezdésben foglalt korlátozás figyelembevételével – felmentéssel meg kell szüntetni, ha
 
-- a) egészségi, pszichikai vagy fizikai állapota alapján
+- a) pszichikai, fizikai vagy – a Hszt. 82/A. §-ban foglalt személyi kör kivételével – egészségi állapota alapján
   - aa) a hivatásos szolgálatra alkalmatlanná vált, vagy
   - ab) a munkaköre ellátására alkalmatlanná vált,
 
@@ -503,6 +510,16 @@ a küldemény átvételének megtagadása napján közöltnek kell tekinteni.
 
 (3) Amennyiben a pénzügyőr a részére felajánlott nem hivatásos munkakört elfogadja, hivatásos szolgálati jogviszonya kormányzati szolgálati jogviszonnyá alakul.
 
+(4) A Hszt. 82/B. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a pénzügyőr részére az (1a) bekezdésében meghatározott eljárásrend megfelelő alkalmazásával kell felajánlható hivatásos vagy nem hivatásos munkakört keresni.
+
+(5) A Hszt. 82/D. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy az állami adó- és vámhatóság vezetője az egészségügyi, a humánigazgatási szakterület, valamint a hivatásos állományú tagok érdekképviseletét ellátó szervek képviselőiből álló bizottságot hoz létre, amely bizottság a döntését az ügy átvételét követő tizenöt napon belül hozza meg.
+
+(6) A Hszt. 82/D. § (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy a NAV vezetője az (5) bekezdés szerinti bizottság döntésének kézhezvételét követő harminc napon belül dönt.
+
+(7) A Hszt. 82/H. § (5) bekezdését azzal az eltéréssel kell alkalmazni, hogy ha az illetményalap emelésére kerül sor, az egészségkárosodási ellátás mértékét is emelni kell.
+
+(8) Az egészségkárosodási ellátásra jogosultsággal kapcsolatban meghozott döntéssel szemben, annak kézhezvételétől számított 15 napon belül szolgálati panaszt lehet benyújtani.
+
 17/D. § (1) A pénzügyőr a szolgálat érdekében eredeti munkakörében való meghagyása mellett a NAV bármely szervéhez és bármely helységbe meghatározott szolgálati feladat teljesítésére vezényelhető.
 
 (2) A pénzügyőr 3 évenként összesen 6 hónapra beleegyezése nélkül vezényelhető. A 6 hónapot meghaladó időtartamú vezényléshez, valamint a vezénylés időtartamának befejezésétől számított 6 hónapon belüli újabb vezényléséhez a pénzügyőr beleegyezése szükséges.
@@ -511,9 +528,9 @@ a küldemény átvételének megtagadása napján közöltnek kell tekinteni.
 
 (4) NAV-on belüli vezénylés esetén a vezénylés időtartama alatt a munkáltatói jogkört a vezénylés helye szerinti szerv munkáltatói jogkör gyakorlója gyakorolja azzal, hogy a hivatásos szolgálati jogviszony megszüntetésére, módosítására, valamint – amennyiben az nem a kijelölt miniszter hatáskörébe tartozik – a méltatlansági eljárás megindítására és lefolytatására az eredeti munkáltatói jogkör gyakorlója jogosult, továbbá a vezénylés helye szerinti munkáltatói jogkör gyakorlója a fegyelmi jogkört csak az e törvény szerinti korlátozással, a kártérítési jogkört csak az e törvény szerinti esetben gyakorolja.
 
-(5)
+(5) A 30 napot meghaladó vezénylés esetén a pénzügyőr a vezénylés ideje alatt ellátott munkaköri feladatoknak megfelelő közszolgálati pótlékra jogosult a vezénylés idejére.
 
-(6) NAV-on belüli vezénylés esetén a vezénylés időtartamára járó illetményt és egyéb járandóságot az a szerv biztosítja, amelytől a vezénylés történt.
+(6)
 
 (7) A NAV állományából külföldre vezényelt pénzügyőr a vezénylés időtartama alatt a más szerv foglalkoztatottjaira vonatkozó szabályok szerint jogosult szabadságra.
 
@@ -603,6 +620,8 @@ fegyelmi büntetés szabható ki.
 
 (3) A tisztjelölt esetében a fegyelmi jogkör gyakorlója a Nemzeti Közszolgálati Egyetem Rendészettudományi Kar Vám- és Pénzügyőri Tanszékének tanszékvezetője, aki, illetve a vezetése alatt álló fegyelmi tanács csak az (1) bekezdés a)–b) pontja szerinti fegyelmi büntetést szabhatja ki. Ha a fegyelmi tanács szerint az (1) bekezdés c) pontja szerinti kizárás fegyelmi büntetés lenne indokolt, a fegyelmi jogkör gyakorlója az állami adó- és vámhatóság vezetője. Ilyen esetben a fegyelmi ügyet 8 napon belül fel kell terjeszteni az állami adó- és vámhatóság vezetőjéhez, aki – újabb fegyelmi tanács felállítása nélkül – 30 napon belül dönt az ügyben. Ilyen esetben akkor is az állami adó- és vámhatóság vezetője dönt az ügyben, ha álláspontja szerint nem a javasolt fegyelmi büntetés indokolt.
 
+(3a) A fegyelmi jogkör gyakorlásába a Rendvédelmi Tagozat, valamint a Nemzeti Közszolgálati Egyetem bevonható.
+
 (4) Ha a Nemzeti Közszolgálati Egyetem Rendészettudományi Kar Vám- és Pénzügyőri Tanszékének tanszékvezetőjével szemben a 33/Z. § (9) bekezdés szerinti valamely összeférhetetlenségi ok áll fenn, a fegyelmi jogkör gyakorlójaként az állami adó- és vámhatóság vezetője által kijelölt, a Központi Irányítás állományába tartozó, vezetői munkakört betöltő pénzügyőr jár el.
 
 (5) A 33/Y. § (3) bekezdés a) pontját tisztjelölt esetében az (1) bekezdés a)–b) pontja szerinti fegyelmi büntetés tekintetében kell alkalmazni.
@@ -677,7 +696,7 @@ kormányzati szolgálati jogviszonyát felmentéssel meg kell szüntetni.
 
 - a) a fizetési fokozatban történő előresorolásakor, illetményének e törvény szerinti megállapításakor, valamint a pénzügyőr rendfokozatban történő előléptetésekor,
 - b) az érintett előmeneteléhez előírt vizsgakötelezettség törvény szerinti megállapításakor,
-- c) a kormánytisztviselő, ügykezelő munkavégzési helyének kizárólag a település területén belüli megváltoztatásakor,
+- c) a kormánytisztviselő, ügykezelő munkavégzési helyének kizárólag a település területén belüli megváltoztatásakor, továbbá a pénzügyőr szolgálatteljesítési helyének az adott NAV szerven belüli módosításakor,
 - d) azonos besorolású más munkakörbe helyezéskor, kivéve, ha a nem hivatásos munkakörbe helyezés a pénzügyőr hivatásos szolgálati jogviszonyának kormányzati szolgálati jogviszonnyá alakulásával járna,
 - e) az érintettnek a NAV más szervéhez történő belső áthelyezéséhez, szervezeti egység váltásához, vagy alacsonyabb besorolású munkakörbe helyezéséhez, kormánytisztviselő tekintetében a munkavégzési hely kizárólag a település területén belüli megváltoztatása mellett, ha az érintett minősítése – az általa betöltött munkakör alapján – „átlag alatti” fokozatú.
 - f) a kinevezés, illetve a hivatásos szolgálati jogviszony módosításához a NAV-on belüli átszervezés, illetve létszámcsökkentés esetén a jogviszony jellegének változatlanul hagyása mellett, azzal, hogy a kormánytisztviselő, illetve az ügykezelő tekintetében a munkavégzési hely kizárólag a település területén belül változtatható meg,
@@ -728,7 +747,7 @@ kormányzati szolgálati jogviszonyát felmentéssel meg kell szüntetni.
 
 (2) Átirányítás esetén az érintettet helyettesítési díj illeti meg, kivéve, ha az (1) bekezdésben meghatározott feladatot eredeti munkaköre helyett látja el.
 
-(3) Ha az érintett eredeti munkaköre helyett átirányítással 22 munkanapot meghaladóan magasabb besorolású munkakört lát el, az átirányítás idejére az átirányítás szerinti munkakörre irányadó illetményre jogosult, kivéve, ha az kevesebb az eredeti illetményénél. Az átirányítás a pénzügyőr rendfokozatát nem érinti.
+(3) Ha az érintett eredeti munkaköre helyett átirányítással 22 munkanapot meghaladóan magasabb besorolású vagy magasabb mértékű közszolgálati pótlékra jogosító munkakört lát el, az átirányítás idejére az átirányítás szerinti munkakörre irányadó illetményre, illetve magasabb mértékű közszolgálati pótlékra jogosult, kivéve, ha az kevesebb az eredeti illetményénél. Az átirányítás a pénzügyőr rendfokozatát nem érinti.
 
 (4) A helyettesítési díj mértéke időarányosan a helyettesítő kormánytisztviselő, pénzügyőr, ügykezelő illetményének 10–50%-áig terjedhet. A helyettesítési díj mértékét a munkáltatói jogkör gyakorlója állapítja meg a foglalkoztatási szabályzatban meghatározottak figyelembevételével. A helyettesítési díj a helyettesítés első napjától jár.
 
@@ -822,9 +841,9 @@ kell megállapítani.
 
 (2) A munkáltatói jogkör gyakorlója a munkakörbe kinevezéskor az (1) bekezdésben meghatározottak alapján besorolja az érintettet, megállapítja a fizetési fokozatát és pénzügyőr esetében a rendfokozatát. Ha a pénzügyőr viselt rendfokozata alacsonyabb a besorolás szerintinél, a munkáltatói jogkör gyakorlója a pénzügyőrt a rendfokozatba kinevezi, előlépteti vagy kinevezésre, előléptetésre előterjeszti az arra jogosulthoz.
 
-19/H. § A nem vezetői munkakört betöltő kormánytisztviselőt, illetve pénzügyőrt az 1. számú mellékletben meghatározott fizetési fokozatba a 20. § szerinti jogviszonyban eltöltött ideje alapján kell besorolni.
+19/H. § A nem vezetői munkakört betöltő kormánytisztviselőt, illetve pénzügyőrt az 1. számú mellékletben meghatározott fizetési fokozatba a 20/A. § szerinti jogviszonyban eltöltött ideje alapján kell besorolni.
 
-19/I. § (1) A vezetői munkakört betöltőt a 3. számú mellékletben meghatározott fizetési fokozatba a NAV-nál, illetve jogelődjeinél vezetői munkakörben eltöltött idő alapján kell besorolni.
+19/I. § (1) A vezetői munkakört betöltőt a 3. számú mellékletben meghatározott fizetési fokozatba a NAV-nál, illetve jogelődjeinél azonos vagy magasabb vezetői munkakörben eltöltött idő alapján kell besorolni.
 
 (2) A nem vezetői munkakörből vezetői munkakörbe első alkalommal történő kinevezéskor az érintettet a vezetői munkakör 1. fizetési fokozatába kell besorolni.
 
@@ -834,9 +853,11 @@ kell megállapítani.
 
 (5) Ha a korábban vezetői munkakört betöltő kormánytisztviselőt, pénzügyőrt a nem vezetői munkakörbe helyezést követően ismételten vezetői munkakörbe helyezik, illetve ha a korábban magasabb vezetői munkakört betöltő kormánytisztviselőt, pénzügyőrt az alacsonyabb vezetői munkakörbe helyezését követően ismételten magasabb vezetői munkakörbe helyezik, a korábban ezzel azonos vagy magasabb vezetői munkakörben töltött valamennyi időt a fizetési fokozat megállapításakor figyelembe kell venni.
 
+(6) A jogelőd szervek, valamint a NAV vezetői munkaköreinek és vezetői beosztásainak a 3. számú melléklet szerinti vezetői munkakörökkel történő megfeleltetését a foglalkoztatási szabályzat állapítja meg.
+
 19/J. § (1) Pályakezdőként kormányzati szolgálati jogviszony, illetve hivatásos szolgálati jogviszony kizárólag „A” besorolási kategóriába sorolt munkakör betöltésére létesíthető. A pályakezdő az „A” besorolási kategória 1. fizetési fokozatába és – pénzügyőr esetében – rendfokozatába nevezhető ki.
 
-(2) Nem pályakezdőként történő kormányzati szolgálati jogviszony, illetve hivatásos szolgálati jogviszony létesítésekor az érintettet a betöltendő munkakör alapján kell besorolni. Fizetési fokozatát a 20. §-ban foglaltaknak megfelelően kell megállapítani. A pénzügyőr rendfokozatát a fizetési fokozata alapján kell megállapítani.
+(2) Nem pályakezdőként történő kormányzati szolgálati jogviszony, illetve hivatásos szolgálati jogviszony létesítésekor az érintettet a betöltendő munkakör alapján kell besorolni. Fizetési fokozatát a 20/A. § (1)–(3) bekezdésében foglaltaknak megfelelően kell megállapítani. A pénzügyőr rendfokozatát a fizetési fokozata alapján kell megállapítani.
 
 (3) Ha a (2) bekezdés szerint megállapított fizetési fokozathoz az adott besorolási kategóriában nincs szorzószám, továbbá pénzügyőr esetén nincs rendfokozat hozzárendelve, az érintettet az adott besorolási kategóriához rendszeresített legelső fizetési fokozatba kell besorolni. A pénzügyőr az adott besorolási kategóriához rendszeresített legelső fizetési fokozat szerinti rendfokozatba nevezhető ki.
 
@@ -893,13 +914,13 @@ kell megállapítani.
 
 (5) Az (1) és (3) bekezdés szerinti esetben a pénzügyőr mindaddig nem léphet magasabb fizetési fokozatba, illetve egyidejűleg magasabb rendfokozatba, ameddig a jogviszonyban töltött ideje, vagy a munkáltatói intézkedés alapján arra jogosultságot nem szerez.
 
-(6) Ha a pénzügyőrt alacsonyabb besorolású munkakörbe nevezik ki, és az új munkakör besorolási kategóriájához rendelt fizetési fokozata szerinti rendfokozata alacsonyabb a viselt rendfokozatánál, a pénzügyőr továbbra is a magasabb rendfokozat viselésére jogosult.
+(6)
 
 ### Illetmény, díjazás
 
 20/D. § (1) A kormánytisztviselő, pénzügyőr, ügykezelő jogviszonya alapján havonta illetményre jogosult. Az illetményt száz forintra kerekítve kell megállapítani. A kerekítés nem minősül munkáltatói intézkedésen alapuló, az általánostól eltérő illetmény-megállapításnak.
 
-(2) A kormánytisztviselő, pénzügyőr illetménye a 21. § (1) bekezdése szerint megállapított alapilletményből, időpótlékból, közszolgálati pótlékból és – az e törvényben meghatározott feltételek esetén – egyéb illetménypótlékból áll. Az illetménypótlék mértékét az illetményalap százalékában kell meghatározni.
+(2) A kormánytisztviselő, pénzügyőr illetménye a 21. § (1) bekezdése szerint megállapított alapilletményből, időpótlékból és – az e törvényben meghatározott feltételek esetén – közszolgálati pótlékból, valamint egyéb illetménypótlékból áll. Az illetménypótlék mértékét az illetményalap százalékában kell meghatározni.
 
 (3) Az alapilletmény, az időpótlék és a közszolgálati pótlék együttes összegének legalább a Kormány által meghatározott, garantált bérminimum összegét el kell érnie.
 
@@ -921,9 +942,11 @@ kell megállapítani.
 - a) a NAV-nál és jogelődeinél kormányzati szolgálati, hivatásos szolgálati, közszolgálati, közalkalmazotti jogviszonyban és munkaviszonyban töltött időt,
 - b) más költségvetési szervnél kormányzati szolgálati jogviszonyban, állami szolgálati jogviszonyban, hivatásos szolgálati jogviszonyban, közszolgálati jogviszonyban, továbbá közalkalmazotti, igazságügyi alkalmazotti, bírói vagy ügyészi szolgálati viszonyban töltött időt, ha a NAV-nál a kormányzati szolgálati jogviszony vagy a hivatásos szolgálati jogviszony e jogviszonyok valamelyikéből áthelyezéssel vagy közvetlen kinevezéssel jött létre.
 
-(3) Az (1) bekezdés alkalmazásában nem minősül szolgálati jogviszonyban eltöltött időnek az állásból történő felfüggesztésnek, a jogviszony szünetelésének időtartama, illetve az illetmény nélküli szabadságnak a 3 évet meghaladó időtartama.
+(3) E § alkalmazásában nem minősül szolgálati jogviszonyban eltöltött időnek az állásból történő felfüggesztésnek, a jogviszony szünetelésének, az előzetes letartóztatásnak, a lakhelyelhagyási tilalomnak, az ideiglenes kényszergyógykezelésnek az időtartama, illetve az illetmény nélküli szabadságnak a 3 évet meghaladó időtartama.
 
-23. § (1) A közszolgálati pótlék a kormánytisztviselőnek, illetve a pénzügyőrnek a jogviszony létesítésével vállalt többletkötelezettségek, továbbá a pénzügyőrök tekintetében a hivatásos munkakörrel járó többlet-igénybevétel és -terhelés ellentételezését szolgálja. Mértékét e törvény végrehajtási rendelete az illetményalap 50–650%-a közötti mértékben állapítja meg.
+(4) A (3) bekezdés szempontjából állásból történő felfüggesztésnek kell tekinteni a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény rendelkezései alapján végrehajtott beosztásból felfüggesztést is.
+
+23. § (1) A közszolgálati pótlék a kormánytisztviselőnek, illetve a pénzügyőrnek a munkakörével járó többletkötelezettségek vagy -terhelés, továbbá a kizárólag pénzügyőrrel betölthető munkakörben foglalkoztatott pénzügyőrök tekintetében a hivatásos munkakörrel járó többlet-igénybevétel és -terhelés ellentételezését szolgálja. Mértékét e törvény végrehajtási rendelete az illetményalap 0–650%-a közötti mértékben állapítja meg.
 
 (2) A közszolgálati pótlék mértékének megállapításánál
 
@@ -1012,7 +1035,9 @@ kell figyelembe venni.
 
 (2) Az illetményt utalvány vagy fizetőeszköz helyettesítésére szolgáló más formában kifizetni nem lehet.
 
-28/C. § A kormánytisztviselő, pénzügyőr, ügykezelő részére az illetményéről részletes írásbeli elszámolást kell adni. Az elszámolásnak olyannak kell lennie, hogy az érintett a kifizetés (és egyes elemeinek) jogcímét, a kiszámítás helyességét, valamint a levonások jogcímét és összegét ellenőrizni tudja.
+28/C. § (1) A kormánytisztviselő, pénzügyőr, ügykezelő részére az illetményéről részletes írásbeli elszámolást kell adni. Az elszámolásnak olyannak kell lennie, hogy az érintett a kifizetés (és egyes elemeinek) jogcímét, a kiszámítás helyességét, valamint a levonások jogcímét és összegét ellenőrizni tudja.
+
+(2) Ha az illetmény tárgyhónapra vonatkozó elszámolását követően bekövetkező ok miatt az elszámolás módosítása szükséges, a kormánytisztviselőt, pénzügyőrt a tárgyhónapra vonatkozó illetményelszámolás módosításáról legkésőbb a következő havi illetmény elszámolásakor tájékoztatni kell. Az illetménykülönbözetet a következő havi illetménnyel egyidejűleg ki kell fizetni. A munkáltató a jogalap nélkül kifizetett illetményt az előlegnyújtásából eredő követelésre vonatkozó szabályok szerint levonhatja.
 
 28/D. § (1) Az illetményből való levonásnak – a levonásmentes illetményrészig – jogszabály, végrehajtható határozat alapján van helye. A levonásmentes illetményrész a bírósági végrehajtásról szóló jogszabály alapján teljesíthető levonások után fennmaradó illetményrész.
 
@@ -1082,10 +1107,10 @@ kell figyelembe venni.
 
 (2) Szakmai tanácsadói cím annak az I. besorolási osztályba tartozó, legalább ötéves szakmai gyakorlattal és – kormánytisztviselő esetén – közigazgatási vagy jogi szakvizsgával, közigazgatási tanulmányok szakirányú szakképzettséggel vagy kormányzati tanulmányok szakirányú szakképzettséggel, illetve teljeskörűen közigazgatási jellegűnek minősített tudományos fokozattal rendelkező kormánytisztviselőnek, illetve pénzügyőrnek; szakmai főtanácsadói cím annak az I. besorolási osztályba tartozó, legalább tízéves szakmai gyakorlattal és – kormánytisztviselő esetén – közigazgatási vagy jogi szakvizsgával, közigazgatási tanulmányok szakirányú szakképzettséggel vagy kormányzati tanulmányok szakirányú szakképzettséggel, illetve teljeskörűen közigazgatási jellegűnek minősített tudományos fokozattal rendelkező kormánytisztviselőnek, illetve pénzügyőrnek adományozható, aki „kivételes” minősítésű.
 
-(3) A szakmai tanácsadó, illetve a szakmai főtanácsadó az első fizetési fokozat szerinti főosztályvezető-helyettesi, illetve főosztályvezetői illetmény
+(3) A szakmai tanácsadó, illetve a szakmai főtanácsadó az első fizetési fokozat szerinti főosztályvezető-helyettesi, illetve főosztályvezetői alapilletmény
 
 - a) 80%-ára jogosult a területi szervnél,
-- b) 75%-ára jogosult a központi szervnél. A szakmai tanácsadói, szakmai főtanácsadói címmel rendelkező és vezetői munkakört betöltő kormánytisztviselő, illetve pénzügyőr a vezetői illetményre jogosult, ha az magasabb, mint a címe alapján számított illetménye.
+- b) 75%-ára jogosult a központi szervnél. A szakmai tanácsadói, szakmai főtanácsadói címmel rendelkező kormánytisztviselő, illetve pénzügyőr a besorolása szerinti illetményre jogosult, ha az magasabb, mint a címe alapján számított illetménye.
 
 (4) A szakmai (fő)tanácsadói címet ”átlagos” vagy azt el nem érő” minősítés esetén vissza kell vonni, ebben az esetben a kormánytisztviselő, illetve a pénzügyőr a címmel járó illetmény helyett a besorolása szerinti illetményére jogosult.
 
@@ -1113,7 +1138,7 @@ illetményének megfelelő összeg.
 
 ### Cafetéria
 
-32. § (1) A NAV teljes személyi állománya cafetéria-juttatásként – választása szerint, az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvényre is figyelemmel – a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 71. § (1) bekezdés a)–f) pontjában és (3) bekezdésében meghatározott juttatásokra, legfeljebb az ott meghatározott mértékig és feltételekkel jogosult. A cafetéria-juttatás éves összege nem lehet alacsonyabb az illetményalap ötszörösénél. A cafetéria-juttatás éves összege biztosít fedezetet az egyes juttatásokhoz kapcsolódó, a juttatást teljesítő munkáltatót terhelő közterhek megfizetésére is.
+32. § (1) A NAV teljes személyi állománya cafetéria-juttatásként – választása szerint – a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 71. § (1) bekezdésében felsorolt juttatásokra, legfeljebb az ott meghatározott mértékig és feltételekkel jogosult. A cafetéria-juttatás éves összege nem lehet alacsonyabb az illetményalap ötszörösénél. A cafetéria-juttatás éves összege biztosít fedezetet az egyes juttatásokhoz kapcsolódó, a juttatást teljesítő munkáltatót terhelő közterhek megfizetésére is.
 
 (2) Nem jogosult cafetéria-juttatásra a tartós külszolgálaton lévő, nemzeti szakértői tevékenységet ellátó kormánytisztviselő, illetve pénzügyőr, továbbá a kormánytisztviselő, a pénzügyőr, az ügykezelő és a munkavállaló azon időtartam vonatkozásában, amelyre illetményre, munkabérre nem jogosult, feltéve, hogy a távollét időtartama meghaladja a harminc napot. A harminc napot meghaladó távollét esetében a jogosultat a távollét első napjától kezdve nem illeti meg a juttatás. A távollétek időtartamát – a jogosultság szempontjából – nem lehet összeszámítani.
 
@@ -1546,19 +1571,11 @@ pótszabadság illeti meg.
   - aa) kormányzati szolgálati jogviszonya a Kttv. 39. § (4a) bekezdése, 60. § (1) bekezdés i) pontja, (2) bekezdés c) pontja, 63. § (2) bekezdés a) pontja, 118. § (5) bekezdése, 122. § (2) bekezdése, 210. § (1) bekezdése, illetve e törvény 33/F. § (1) bekezdése alapján,
   - ab) hivatásos szolgálati jogviszonya a Hszt. 80. § (1) bekezdés f)–g) pontja, (2) bekezdés b) pontja, 86. § (2) bekezdés b)–d) pontja, illetve e törvény 17/A. § (1) bekezdése vagy 33/F. § (1) bekezdése alapján a továbbképzés befejezésétől számított 2 éven belül, vagy a kormányzati szolgálati jogviszony, illetve a hivatásos szolgálati jogviszony NAV-val történt létesítésétől számított 6 éven belül megszűnik. A 4 évet meghaladó NAV-val fennálló jogviszony esetén a költségeknek a le nem töltött évekre eső hányadát kell megfizetni.
 
-(5) A (4) bekezdés alapján a kormánytisztviselő, a pénzügyőr, az ügykezelő köteles megtéríteni a munkáltató által előírt
+(5) A (4) bekezdés alapján a kormánytisztviselő, a pénzügyőr, az ügykezelő köteles megtéríteni a munkáltató által előírt, nem a NAV humánerőforrás-fejlesztési feladatokat ellátó intézete által biztosított képzés költségeit, ha a képzés költségei meghaladják az állami adó- és vámhatóság vezetője által a foglalkoztatási szabályzatban meghatározott összeget.
 
-- a) nyelvi képzés, valamint
-- b) nem a NAV állományába tartozó oktató igénybevételével biztosított képzés
+(5a)
 
-költségeit.
-
-(5a) Az (5) bekezdés b) pontja szerinti költséget akkor kell megtéríteni, ha a képzés költségei meghaladják az állami adó- és vámhatóság vezetője által a foglalkoztatási szabályzatban meghatározott összeget.
-
-(6) A (4) bekezdés szerinti megtérítési kötelezettség alapja:
-
-- a) a NAV által szervezett nyelvi továbbképzés esetén a képzésnek a NAV humánerőforrás-fejlesztési feladatokat ellátó intézete által az érintettel megkötött képzési szerződésben megállapított költségei,
-- b) egyéb esetben az az összeg, amelyet a NAV a továbbképzésért megfizetett.
+(6) A (4) bekezdés szerinti megtérítési kötelezettség alapja az az összeg, amelyet a NAV a továbbképzésért megfizetett.
 
 33. § (1) Ha a kormánytisztviselő, a pénzügyőr, az ügykezelő saját elhatározása alapján képzésben vesz részt és ez érinti a munkaidejét, köteles ezt engedélyeztetni a munkáltatójával. A munkáltató engedélye alapján az érintett a (2)–(4) bekezdésben foglaltak szerint mentesül a tanulmányok folytatásához szükséges időre a munkavégzési kötelezettsége alól, amelynek időtartamára illetményre nem jogosult. Ebben az esetben a tanulmányi célú mentesítés időtartama illetmény nélküli távollétnek minősül. A munkáltató és az érintett megállapodása alapján a tanulmányok folytatását azzal a feltétellel is engedélyezheti a munkáltató, hogy az érintett a tanulmányi célú mentesítés időtartamát köteles ledolgozni. Ebben az esetben a tanulmányi célú mentesítés időtartamára az érintett illetményre jogosult.
 
@@ -2295,6 +2312,8 @@ az állásából felfüggesztheti, ha jelenléte a tényállás tisztázását g
 
 (8) Amennyiben a foglalkoztatott meghal, az eltartott hozzátartozó a (7) bekezdésben foglaltakon túlmenően olyan összegű tartást pótló kártérítést is igényelhet, amely szükségletének – a tényleges vagy az elvárhatóan elérhető illetményét, munkabérét, jövedelmét is figyelembe véve – a sérelem előtti színvonalon való kielégítését biztosítja.
 
+(9) Az egészségi alkalmatlanság kialakulásával összefüggésben a rendvédelmi szerv kártérítési felelősségének megállapítása esetén a hivatásos állomány tagját, volt tagját megillető elmaradt jövedelem mértékének megállapításakor az egészségkárosodási ellátást is figyelembe kell venni.
+
 34/Q. § A kártérítés összegének kiszámításánál le kell vonni
 
 - a) az elmaradt jövedelemre eső mindazon járulékot, amely a társadalombiztosítási szabályok szerint – mint jövedelmet pótló kártérítés (keresetpótló járadék) – nem képez járulékalapot;
@@ -2710,11 +2729,11 @@ kérheti fel.
 
 36/N. § (1) Ha gyanú merül fel arra, hogy az ellenőrzés alá vont személy testében, testüregében kábítószert vagy kábítószernek minősülő anyagot szállít, a pénzügyőr jogosult az ilyen személy beleegyezésével vizeletvétel és orvosi vizsgálat elrendelésére.
 
-(2) A beleegyezés megtagadása esetén a NAV feladat- és hatáskörrel rendelkező szervének vezetője felhatalmazó kérelmet terjeszt elő az illetékes ügyészséghez. Ilyen esetben a vizeletvétel és az orvosi vizsgálat csak az ügyész felhatalmazásával rendelhető el.
+(2) A beleegyezés megtagadása esetén a NAV feladat- és hatáskörrel rendelkező szervének vezetője felhatalmazó kérelmet terjeszt elő az illetékes ügyészséghez azzal, hogy a kérelemben vizeletvétel helyett vérvételre való kötelezés indítványozható. Ilyen esetben a vérvétel és az orvosi vizsgálat csak az ügyész felhatalmazásával rendelhető el.
 
 (3) A feltartóztatás és az orvosi vizsgálat időtartama a 8 órát nem haladhatja meg.
 
-(4) Az intézkedés alkalmazása ellen csak amiatt van helye a 35/F. § szerinti panasznak, ha az érintett beleegyezése megtagadása ellenére ügyészi felhatalmazás nélkül rendelték el a vizeletvételt és az orvosi vizsgálatot, illetve akkor, ha a feltartóztatás és az orvosi vizsgálat időtartama a 8 órát meghaladta.
+(4) Az intézkedés alkalmazása ellen csak amiatt van helye a 35/F. § szerinti panasznak, ha az érintett beleegyezése megtagadása ellenére ügyészi felhatalmazás nélkül rendelték el a vérvételt és az orvosi vizsgálatot, illetve akkor, ha a feltartóztatás és az orvosi vizsgálat időtartama a 8 órát meghaladta.
 
 ### Képfelvétel, hangfelvétel, kép- és hangfelvétel készítése
 
@@ -3312,7 +3331,7 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 - a) azokat a munkaköröket, amelyeket az ellátandó feladatok szolgálati jellegére tekintettel kizárólag pénzügyőr tölthet be, továbbá azokat a munkaköröket, amelyek betöltéséhez a pénzügyőrnek rendészeti szakvizsgával kell rendelkeznie;
 - b) azon vagyontárgyak, magáncélú telekommunikációs eszközök körét, amelyekre vonatkozóan, valamint a készpénz, készpénzt helyettesítő eszköz esetében azt az értékhatárt, amelyet meghaladóan a hivatásos állomány tagja korlátozható abban, hogy azokat a szolgálatban magánál tartsa, valamint a korlátozás feltételeit, továbbá a magáncélú telekommunikációs eszközök szolgálatellátás során történő használatának korlátozására vonatkozó szabályokat,
 - c) a pénzügyőröket megillető ruházati ellátások rendszerét, módját, fajtáit, eljárási rendjét, az egyenruházati utánpótlási ellátmány kötelező felhasználásának mértékét, a ruházati ellátásban közreműködők és az ellátásra jogosultak feladatait, felelősségét, a ruházati ellátással, valamint az ellátásra jogosultság megszűnésével összefüggő elszámolás rendjét és okmányait, a ruházati ellátási normák kialakítását, kiadását és tartalmi követelményeit, a tervezett viselési (használati) időt és annak módosítását, az egyenruha, a rendfokozati jelzés, a kitüntetés és a szolgálati jel viselésének módját, az egyenruha és a rendfokozat viselése eltiltását a nyugállomány tagjainak esetében;
-- d) a pénzügyőrök tekintetében az egészségi, pszichikai és fizikai alkalmasság követelményeit, az egészségi, pszichikai és fizikai alkalmassági követelmények felmérésének szabályait, az alkalmassági vizsgálatok fajtáit, a felmérést végző szervek, szervezetek kijelölését, az alkalmassági vizsgálatok eljárási rendjét, az egészségi, pszichikai és fizikai alkalmassági követelményeknek való meg nem feleléssel, valamint a szolgálati lőfegyver ideiglenes bevonásának szabályait;
+- d) a pénzügyőrök tekintetében az egészségi, pszichikai és fizikai alkalmasság követelményeit, az egészségi, pszichikai és fizikai alkalmassági követelmények felmérésének szabályait, az alkalmassági vizsgálatok fajtáit, a felmérést végző szervek, szervezetek kijelölését, az alkalmassági vizsgálatok eljárási rendjét, az egészségi, pszichikai és fizikai alkalmassági követelményeknek való meg nem feleléssel és a baleset, betegség szolgálati kötelmekkel való összefüggésének megállapításával kapcsolatos eljárást, valamint a szolgálati lőfegyver ideiglenes bevonásának szabályait;
 - e) a pénzügyőrök tekintetében az egészségügyi szabadság, a szolgálatmentesség, valamint a csökkentett napi szolgálati idő megállapításának, engedélyezésének és kiadásának szabályait, továbbá a szolgálatképtelenség igazolására vonatkozó szabályokat;
 - f) a NAV humánerőforrás-fejlesztési feladatokat ellátó intézete keretében az egészségügyi alapellátás igénybevételének módját és az igénybevevők körét;
 - g) a pénzügyőrök részére szolgálati és kiegészítő igazolványok, valamint a szolgálati azonosító jelvény rendszeresítésével összefüggő szabályokat;
@@ -3321,7 +3340,8 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 - j) a szolgálatképes állapot megállapítása érdekében a befolyásoltság kiszűrése céljából elvégezhető vizsgálatok körét és a vizsgálat végrehajtásának szabályait,
 - k) a technikai ellenőrzés alkalmazásának feltételeit, az alkalmazható eszközök körét és a technikai ellenőrzés alkalmazására vonatkozó eljárási szabályokat,
 - l) a könnyített szolgálatban foglalkoztatottak által betölthető munkaköröket, valamint az e körből kizárt tevékenységeket és kapcsolódó mentesítéseket,
-- m) az egyes munkakörökben a közszolgálati pótlék mértékét.
+- m) az egyes munkakörökben a közszolgálati pótlék mértékét,
+- n) az egészségkárosodási ellátás megállapításával kapcsolatos részletes eljárási szabályokat, az egészségkárosodási ellátás számításának és folyósításának szabályait, továbbá az egészségkárosodási ellátásra jogosultakkal betölthető hivatásos és nem hivatásos munkakörök meghatározásának rendjét.
 
 (2)
 
@@ -3594,7 +3614,7 @@ kell besorolni.
 
 99/M. § (1) 2017. január 1-je és 2017. december 31-e között a kormánytisztviselő és a pénzügyőr illetményére a II. Fejezetet az e §-ban meghatározott eltérésekkel kell alkalmazni.
 
-(2) A munkáltatói jogkör gyakorlója 2017. január 15-ig megállapítja azt az illetményt az illetményelemek szerinti bontásban, amelyre a kormánytisztviselő és a pénzügyőr – amennyiben munkaköre nem változik – 2017. január 1. és 2017. december 31. között jogosult.
+(2) A munkáltatói jogkör gyakorlója 2017. január 15-ig megállapítja azt az illetményt az illetményelemek szerinti bontásban, amelyre a kormánytisztviselő és a pénzügyőr – amennyiben munkaköre nem változik – 2017. január 1. és 2017. december 31. között jogosult. Ha a kormánytisztviselő, a pénzügyőr 2016. július 1. és 2017. január 1. között idegennyelv-tudási pótlékra vagy magasabb összegű időpótlékra szerzett jogosultságot, azt 2017. január 1-jei hatállyal meg kell állapítani.
 
 (3) 2017. január 1-jén a nem vezetői munkakört betöltő kormánytisztviselő és pénzügyőr részére az e §-ban meghatározott szabályok szerint kell az illetményt megállapítani úgy, hogy a megállapított illetmény és a korábbi rendszeres díjazás közötti emelkedés mértéke nem haladhatja meg a 35%-ot.
 
@@ -3619,17 +3639,19 @@ nem haladja meg, a hatályos rendszeres díjazás szerinti illetményt kell foly
 
 (11) A (4)–(6) és (8) bekezdésben foglaltakat megfelelően alkalmazni kell azokra a nem vezetői munkakört betöltőkre, akiknek illetményét részben a vezetőkre vonatkozó rendelkezések alapján kell megállapítani.
 
-(12) Az a kormánytisztviselő, pénzügyőr, akinek kormányzati szolgálati jogviszonya, illetve hivatásos szolgálati jogviszonya 2017. január 1-jét megelőzően létesült és 2017. január 1-jét követően magasabb besorolású munkakörbe kerül kinevezésre, II. besorolási osztályból I. besorolási osztályba kerül átsorolásra, illetve részére a 31/A. § szerinti cím adományozására kerül sor, illetményét e § alkalmazásával úgy kell megállapítani, mintha a munkáltatói intézkedésre 2016. december 31-én került volna sor.
+(12) Az a kormánytisztviselő, pénzügyőr, akinek kormányzati szolgálati jogviszonya, illetve hivatásos szolgálati jogviszonya 2017. január 1-jét megelőzően létesült és 2017. január 1-jét követően más munkakörbe kerül kinevezésre, illetve részére a 31/A. § szerinti cím adományozására vagy visszavonására kerül sor, illetményét e § alkalmazásával úgy kell megállapítani, mintha a munkáltatói intézkedésre 2016. július 1-jei hatállyal került volna sor.
 
 (13) A 2016. december 31-ét követően létesített kormányzati szolgálati, illetve hivatásos szolgálati jogviszony esetén az illetményt e §-ban foglalt szabályok alkalmazásával úgy kell megállapítani, mintha a kormányzati szolgálati, illetve a hivatásos szolgálati jogviszony 2017. január-1-jét megelőzően jött volna létre.
 
+(13a) Az (1)–(13) bekezdések alapján megállapított illetmény – a 17/D. § (5) bekezdésében foglaltak kivételével – 2017. január 1-je és 2017. december 31-e között csak abban az esetben módosítható, ha a kormánytisztviselő és a pénzügyőr munkaköre 2017. január 1-jét követően változik vagy fegyelmi büntetés végrehajtása miatt az illetményt módosítani kell.
+
 (14) E § alkalmazásában
 
-- a) korábbi rendszeres díjazás: a 99/C. § a) pontja szerinti korábbi rendszeres díjazás,
-- b) hatályos rendszeres díjazás: 2017. január 1-jén a kormánytisztviselőnek, pénzügyőrnek besorolása alapján megállapított alapilletmény, időpótlék, közszolgálati pótlék, idegennyelv-tudási pótlék együttes összege,
+- a) korábbi rendszeres díjazás: a 99/C. § a) pontja szerinti korábbi rendszeres díjazás, 2016. június 30. után létrejött kormányzati szolgálati vagy hivatásos szolgálati jogviszony esetében az az összeg, amire a kormánytisztviselő, a pénzügyőr 2016. június 30-án fennálló jogviszony esetén a 99/C. § rendelkezései szerint jogosult lett volna,
+- b) hatályos rendszeres díjazás: 2017. január 1-jén a kormánytisztviselőnek, pénzügyőrnek besorolása alapján – a 99/L. §-ban foglaltakra is figyelemmel – megállapított alapilletmény, időpótlék, közszolgálati pótlék, idegennyelv-tudási pótlék együttes összege,
 - c) illetményemelkedés: a korábbi rendszeres díjazás és a hatályos rendszeres díjazás különbözete.
 
-99/N. § (1) A kormánytisztviselő, pénzügyőr 2018. január 1-jét követően az e törvény szerinti illetményre jogosult.
+99/N. § (1) A kormánytisztviselő, pénzügyőr 2018. január 1-jét követően az e törvény szerinti illetményre jogosult azzal, hogy az nem lehet kevesebb, mint a 2017. december 31-én folyósított illetménye.
 
 (2) A kormánytisztviselő és a pénzügyőr részére megállapított kompenzációs díj összegét 2018. január 1-jétől megfelelően csökkenteni kell
 
@@ -3638,11 +3660,15 @@ nem haladja meg, a hatályos rendszeres díjazás szerinti illetményt kell foly
 - c) magasabb besorolású munkakörbe történő kinevezés,
 - d) 31/A. § szerinti címadományozás,
 - e) magasabb mértékű közszolgálati pótlékra jogosító munkakörbe történő kinevezés,
-- f) fizetési fokozatban történő előresorolás
+- f) fizetési fokozatban történő előresorolás,
+- g) magasabb mértékű időpótlékra való jogosultság megszerzése, valamint
+- h) idegennyelv-tudási pótlék összegének megváltozása
 
 esetén.
 
 (3) Ha a kormánytisztviselő és a pénzügyőr részére 2017. január 1-jével kompenzációs díj kerül megállapításra és 2017. december 31-ét követően vezetői munkakörből nem vezetői munkakörbe, alacsonyabb besorolású munkakörbe kerül kinevezésre, illetve a 31/A. § alapján adományozott címe visszavonásra kerül, a 21–23. § alapján kell besorolni és az illetményét megállapítani azzal, hogy részére a (2) bekezdés c)–d) pontja szerinti munkáltatói intézkedést megelőzően nyilvántartott kompenzációs díj összegét is folyósítani kell.
+
+99/O. § E törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel megállapított 17. § (2a) bekezdése a rendelkezés hatálybalépésekor kormányzati szolgálati jogviszonyban lévő pénzügyi nyomozók munkakörét és jogviszonyát nem érinti.
 
 100. § A Hszt. 348. § (6) bekezdés a) pontját a pénzügyőrök tekintetében azzal az eltéréssel kell alkalmazni, hogy a vezénylés tartamára vonatkozó rendelkezéseket a Hszt. rendelkezéseinek – az e törvényben foglalt eltérésekkel való – megfelelés érdekében módosítani kell.
 
@@ -3734,20 +3760,20 @@ esetén.
 | 2. | Főigazgató |  |  |  | tábornok |
 | 3. | Szakfőigazgató, főigazgató-helyettes |  |  |  | tábornok vagy ezredes |
 | 4. | Igazgató | 1. | 0–5 | alezredes |  |
-| 2. | 5–10 | ezredes |  |
-| 3. | 10– | ezredes |  |
+| 2. | 5–10 | alezredes/ezredes |  |
+| 3. | 10– | alezredes/ezredes |  |
 | 5. | Igazgató-helyettes | 1. | 0–5 | alezredes |  |
 | 2. | 5–10 | alezredes |  |
-| 3. | 10– | ezredes |  |
-| 6. | Főosztályvezető | 1. | 0–5 | őrnagy | alezredes/ezredes |
-| 2. | 5–10 | őrnagy | alezredes/ezredes |
+| 3. | 10– | alezredes/ezredes |  |
+| 6. | Főosztályvezető | 1. | 0–5 | alezredes | alezredes/ezredes |
+| 2. | 5–10 | alezredes | alezredes/ezredes |
 | 3. | 10– | alezredes | ezredes/tábornok |
 | 7. | Főosztályvezető-helyettes | 1. | 0–5 | őrnagy | alezredes |
-| 2. | 5–10 | őrnagy | alezredes/ezredes |
-| 3. | 10– | őrnagy | alezredes/ezredes |
-| 8. | Osztályvezető | 1. | 0–5 | százados | őrnagy |
+| 2. | 5–10 | alezredes | alezredes/ezredes |
+| 3. | 10– | alezredes | alezredes/ezredes |
+| 8. | Osztályvezető | 1. | 0–5 | őrnagy | őrnagy |
 | 2. | 5–10 | őrnagy | alezredes |
-| 3. | 10– | őrnagy | alezredes |
+| 3. | 10– | alezredes | alezredes |
 
 Besorolási kategóriák fizetési fokozataihoz rendelt rendfokozatok
 

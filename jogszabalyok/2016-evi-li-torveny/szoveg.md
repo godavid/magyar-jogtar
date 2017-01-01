@@ -8,7 +8,9 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 7. §
 
-8. §
+8. § Az Éhvt. 10/C. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) A felügyeleti díj megfizetésére kötelezettek a felügyeleti díjat két egyenlő részletben, utólag, minden év július 31. napjáig és január 31. napjáig kötelesek megfizetni. A január 1. és június 30., valamint július 1. és december 31. közötti időszakra vonatkozó felügyeleti díj összegéről az energiapolitikáért felelős miniszter felügyelete alatt álló klímavédelemért felelős hatóság az adatbázison keresztül, egyenlegértesítő megküldése útján, június 30. és december 31. napját követő 5 munkanapon belül tájékoztatja a felügyeleti díj megfizetésére kötelezetteket. A tevékenység tárgyév január 1. és június 30. napja vagy július 1. és december 31. napja között történő megkezdése esetén a felügyeleti díjat a tevékenység megkezdésétől időarányosan kell megfizetni. A (3) bekezdés szerinti kötelezettek az (5) bekezdés e) pontja szerinti felügyeleti díjat a hűtőkörben megtalálható F-ÜHG töltet tCO2 egyenértéke után az üzemeltetés időszakára vonatkozóan időarányosan fizetik meg.”
 
 9–17. §
 

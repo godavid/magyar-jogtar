@@ -65,7 +65,7 @@ reklám közzététele.
 - b) az a) pont alá nem tartozó, olyan médiaszolgáltató, amely napi műsoridejének legalább felében magyar nyelvű médiatartalmat tesz Magyarország területén elérhetővé,
 - c) a sajtótermék a) pont alá nem tartozó kiadója,
 - d) a szabadtéri reklámhordozót, valamint a reklám elhelyezésére szolgáló bármely járművet, nyomtatott anyagot, ingatlant reklám céljára hasznosító személy vagy szervezet,
-- e) az interneten közzétett reklám esetén a reklám közzétevője.
+- e) az interneten közzétett reklám esetén a reklám közzétevője (a reklámfelülettel rendelkezni jogosult személy vagy szervezet).
 
 (2) A 2. § (2) bekezdés szerinti adókötelezettség esetén az adó alanya – illetőségétől függetlenül – a reklám közzétételének megrendelője, ide nem értve az Szja tv. szerint egyéni vállalkozónak nem minősülő magánszemélyt.
 
@@ -91,19 +91,9 @@ reklám közzététele.
 
 (3) Ha az adóév 12 hónapnál rövidebb, a fizetendő adó összege az adóévi 4. § (1) bekezdés szerinti adóalapnak az adóév naptári napjai alapján 12 hónapos időszakra számított összegéből az (1) bekezdés szerinti adómértékkel megállapított adóösszeg adóév naptári napjaival arányos része.
 
-#### 5. Kapcsolt vállalkozás adó- és adóelőlegfizetési kötelezettségének megállapítása
+#### 5.
 
-6. § (1) A társasági adóról és az osztalékadóról szóló törvény szerint kapcsolt vállalkozásnak minősülő adóalanyok adóját úgy kell megállapítani, hogy az egymással kapcsolt vállalkozási viszonyban álló adóalanyok adóalapját össze kell adni, és az eredmény alapulvételével az 5. § szerinti adómértékkel kiszámított összeget az egyes adóalanyok között olyan arányban kell megosztani, mint amilyen arányt az adóalany adóalapja az egymással kapcsolt vállalkozási viszonyban álló adóalanyok által elért összes adóalapban képvisel.
-
-(2) Az (1) bekezdésben foglalt adószámítási mód szerint – a 7. §-ban foglaltakra is figyelemmel – kell megállapítani az adóelőleget is.
-
-(3) Az (1)–(2) bekezdés szerinti számítások végrehajtása érdekében az egymással kapcsolt vállalkozási viszonyban álló adóalanyok kötelesek együttműködni. A számítások dokumentálását (ideértve az elkészítést és a megőrzést is) az egymással kapcsolt vállalkozási viszonyban álló adóalanyok mindegyike köteles elvégezni. A számítások dokumentációját az adóhatóság kérésére be kell mutatni.
-
-(4) Ha a társasági adóról és az osztalékadóról szóló törvény szerinti kapcsolt vállalkozási viszony nem áll fenn az adóév egészében, az (1)–(2) bekezdés alkalmazása során csak a kapcsolt vállalkozási viszony fennállásának időtartamára jutó – napi időarányosítással számított – a 4. § (1) bekezdése szerint megállapított adóalapot kell figyelembe venni.
-
-(5) Az (1)–(4) bekezdés szerinti számításnál a 4. § (2) bekezdés szerinti adóalapot figyelmen kívül kell hagyni.
-
-(6) Az (1)–(4) bekezdésben foglaltakat csak akkor kell alkalmazni, ha a kapcsolt vállalkozási viszony 2014. augusztus 15-ét követően, szétválással jött létre.
+#### 6. §
 
 #### 6. Eljárási rendelkezések
 
@@ -151,9 +141,33 @@ reklám közzététele.
 - d) a (2) bekezdés b) pontja szerinti nyilatkozatot tevő adóalany esetén az adóév végével,
 - e) ha az adóalany megszűnik,
 - f) ha az adóalany ellen felszámolási, végelszámolási vagy kényszertörlési eljárás indult,
-- g) ha az adóalany adótartozása a – naptári hónap 1. napján – 100 000 forintot meghaladja.
+- g) ha az adóalany adótartozása nettó módon számítva – a naptári hónap 1. napján – a 100 000 forintot meghaladja.
 
 (5) Az állami adóhatóság az adatváltozást az adatváltozásról való tudomásszerzés napján átvezeti az (1) bekezdés szerinti nyilvántartáson, és azt az átvezetést követő hónap első napján a honlapján közzéteszi.
+
+7/B. § (1) Az a 3. § (1) bekezdés szerinti adóalany, amelyet az állami adóhatóság valamely adónem hatálya alá tartozó adózóként nem vett nyilvántartásba, a 2. § (1) bekezdés szerinti adóköteles tevékenység megkezdését követő 15 napon belül köteles bejelentkezni az állami adóhatóság által rendszeresített nyomtatványon. E rendelkezés nem alkalmazható az Szja tv. szerint egyéni vállalkozónak nem minősülő magánszemély esetén.
+
+(2) Ha az (1) bekezdés szerinti adóalany a bejelentkezési kötelezettségét nem teljesíti, akkor az állami adóhatóság – a kötelezettség teljesítésére való felhívás mellett – első alkalommal 10 millió forint mulasztási bírságot szab ki.
+
+(3) A mulasztás ismételt megállapítása esetén az állami adóhatóság az előző alkalommal kiszabott mulasztási bírság háromszorosát kitevő mulasztási bírságot szab ki.
+
+(4) Az állami adóhatóság az (1) bekezdés szerinti bejelentkezési kötelezettség elmulasztását naponta határozatban állapítja meg, amely a közléssel jogerős és végrehajtható, ellene bírósági felülvizsgálatnak van helye. A bírósági felülvizsgálati eljárásban kizárólag okirati bizonyításnak van helye és a bíróság tárgyaláson kívül határoz.
+
+(5) Ha az adóalany az állami adóhatóság első alkalommal való felhívására bejelentkezési kötelezettségét teljesíti, akkor a (2) és (3) bekezdés szerinti bírság korlátlanul enyhíthető.
+
+7/C. § (1) Ha a reklám közzétételének megrendelése időpontjában a 7/A. § szerint közzétett nyilvántartásban nem szereplő, 3. § (1) bekezdés szerinti adóalany a 3. § (3) bekezdés szerinti nyilatkozattételi kötelezettségét a reklám-közzététel megrendelője számára nem teljesíti, akkor az állami adóhatóság a 3. § (1) bekezdés szerinti adóalanyt felhívja a 3. § (3) bekezdés szerinti nyilatkozat állami adóhatósághoz történő teljesítésére. Ezzel egyidejűleg figyelmezteti arra, hogy amennyiben a 3. § (3) bekezdés szerinti nyilatkozatot a felhívás kézhezvételétől számított 8 napon belül nem teszi meg, 500 ezer forint mulasztási bírságot kell fizetnie. E rendelkezés nem alkalmazható, ha a 3. § (1) bekezdés szerinti adóalany az Szja tv. szerint egyéni vállalkozónak nem minősülő magánszemély.
+
+(2) Ha az (1) bekezdés szerinti adóalany a 3. § (3) bekezdés szerinti nyilatkozattételi kötelezettsége teljesítését ugyanazon megrendelő számára ismételten elmulasztja, akkor az állami adóhatóság 10 millió forint mulasztási bírságot szab ki. A nyilatkozattételi kötelezettség minden további, ugyanazon megrendelő számára történő elmulasztása esetén az állami adóhatóság az előző alkalommal kiszabott mulasztási bírság háromszorosát kitevő mulasztási bírságot szab ki.
+
+(3) Az állami adóhatóság (1)–(2) bekezdés szerinti mulasztási bírságot kiszabó határozata a közléssel jogerős és végrehajtható. A határozat ellen bírósági felülvizsgálatnak van helye.
+
+7/D. § Az állami adóhatóság ugyanazon adóalany terhére a 7/B. § és a 7/C. § alapján összesen legfeljebb 1 milliárd forint mulasztási bírságot szabhat ki.
+
+7/E. § (1) Ha a 3. § (1) bekezdés szerinti adóalany adóbevallás-benyújtási kötelezettségét nem teljesítette, akkor az állami adóhatóság a megelőző naptári évvel megegyező vélelmezett adóévre 3 milliárd forint vélelmezett adót állapít meg.
+
+(2) Az adóalany az (1) bekezdés szerint vélelmezett adót megállapító határozat közlésétől számított 30 napon belül a határozatban megállapítottakkal szemben ellenbizonyítással élhet. A határidő elmulasztása jogvesztő. Ha az adóalany ellenbizonyítással nem él, a határozat az ellenbizonyításra nyitva álló határidő lejártát követő napon jogerős és végrehajtható, ellene bírósági felülvizsgálatnak nincs helye.
+
+(3) Ha az adóalany ellenbizonyítással él, akkor az állami adóhatóság az (1) bekezdés szerint vélelmezett adót megállapító határozatát visszavonja és az adót új határozatban állapítja meg, amely a közléssel jogerős és végrehajtható. A határozat ellen bírósági felülvizsgálatnak van helye.
 
 #### 7. Záró rendelkezések
 
@@ -186,4 +200,4 @@ reklám közzététele.
 - a) az adóalap és a (2) bekezdés szerinti adóalaprész különbözete 12 hónapos időszakra számított összegének alapulvételével a Mód. törvény hatálybalépése napját megelőzően hatályos 5. § (1) bekezdés szerint meghatározott adóösszegnek az adóév Mód. törvény hatálybalépése napját megelőző naptári napjaival arányos része, növelve
 - b) a (2) bekezdés szerinti adóalaprész 12 hónapos időszakra számított összegének alapulvételével a Mód. törvénnyel megállapított 5. § (1) bekezdés szerint meghatározott adóösszegnek az adóév Mód. törvény hatálybalépése napjától kezdődő időszak naptári napjaival arányos részével.
 
-(4) A 3. § (1) bekezdés szerinti adóalany a Mód. törvénnyel megállapított 6. § (6) bekezdésének rendelkezését a Mód. törvény hatálybalépése napját megelőző napig kezdődő adóéveiben fennálló adókötelezettsége megállapítása során is alkalmazhatja.
+(4)

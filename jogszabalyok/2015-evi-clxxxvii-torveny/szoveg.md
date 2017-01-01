@@ -8,7 +8,9 @@ az adózás rendjéről szóló 2003. évi XCII. törvény és egyes adótörvé
 
 1–4. §
 
-5. §
+5. § Az Art. 6/B. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) A megbízható adózó – ide nem értve a nyilvánosan működő részvénytársaságot – által visszaigényelt általános forgalmi adót az állami adó- és vámhatóság a 37. § (4) bekezdése szerinti esetben 45 napon belül utalja ki.”
 
 6–12. §
 
@@ -26,7 +28,7 @@ lép.
 
 41. § Hatályát veszti az Art.
 
-- 1.
+- 1. 27/A–28/A. §-a,
 - 2–6.
 
 ### II. Fejezet — EGYES ADÓTÖRVÉNYEK MÓDOSÍTÁSA

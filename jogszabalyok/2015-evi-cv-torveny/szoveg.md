@@ -89,7 +89,7 @@ meghatalmazottként eljárhat, de az adós személyesen köteles megtenni az e t
 - 5. adóstárs: az a természetes személy, aki e törvény hatálya alá tartozó fizetési kötelezettség tekintetében az adóssal – ideértve a készfizető kezest is – egyetemlegesen felelős, és az adóssal közös háztartásban él vagy az adóssal vagyonközösségben van,
 - 6. adótartozás: az Art. 178. § 4. pontjában meghatározott, lejárt esedékességű, és az ott meghatározott, nettó módon számított fizetési kötelezettség,
 - 7. aktív korú: a 18 év feletti, a rá irányadó öregségi nyugdíjkorhatárt még be nem töltött természetes személy, aki nem minősül fogyatékkal élőnek vagy a megváltozott munkaképességű személyek ellátásairól szóló törvény szerinti megváltozott munkaképességű személynek,
-- 8. ARE nyilvántartás: természetes személyek adósságrendezési nyilvántartása, a Családi Csődvédelmi Szolgálat által vezetett közhiteles hatósági nyilvántartás,
+- 8. ARE nyilvántartás: természetes személyek adósságrendezési nyilvántartása, a Családi Csődvédelmi Szolgálat által vezetett közhiteles országos központi nyilvántartás,
 - 9. Art.: az adózás rendjéről szóló 2003. évi XCII. törvény,
 - 10. államháztartási szervezet: az állam, a helyi önkormányzat, közigazgatási szerv és egyéb az államháztartás számviteléről szóló kormányrendelet hatálya alá tartozó szervezet,
 - 11. belföldi természetes személy: az Szja. tv. 3. § 2. pontjában felsorolt belföldi illetőségű magánszemély,
@@ -98,8 +98,8 @@ meghatalmazottként eljárhat, de az adós személyesen köteles megtenni az e t
   - b) az adós mint kötelezett vagy az adós kötelezettségéért más személy óvadékot nyújtott,
   - c) az adós mint kötelezett vagyontárgyán vagy vagyoni értékű jogán biztosítéki célú vételi jogot, biztosítéki célú engedményezést kötöttek ki.
 - 13. bírósági adósságrendezés időtartama: a bírósági adósságrendezés kezdő időpontjától a bírósági adósságrendezés záró időpontjáig tartó időszak, e két időpontot is beleértve,
-- 14. Családi Csődvédelmi Szolgálat: az Igazságügyi Hivatalnál és a fővárosi és megyei kormányhivataloknál (a továbbiakban: kormányhivatal) az e törvényben és végrehajtási rendeleteiben meghatározott feladatokat ellátó szervezeti egység,
-- 15. családi vagyonfelügyelő: az adósságrendezési eljárásban közreműködő fizetésképtelenségi szakértő, aki a Családi Csődvédelmi Szolgálatot magában foglaló kormányhivatallal áll munkavégzésre irányuló tartós jogviszonyban,
+- 14. Családi Csődvédelmi Szolgálat: a Kormány által rendeletben kijelölt, az e törvényben és végrehajtási rendeleteiben meghatározott feladatokat ellátó szerv,
+- 15. családi vagyonfelügyelő: a bírósági adósságrendezési eljárásban közreműködő fizetésképtelenségi szakértő, aki a területi Családi Csődvédelmi Szolgálattal áll munkavégzésre irányuló tartós jogviszonyban,
 - 16. egyedül élő: egyszemélyes háztartásban élő személy,
 - 17. egyéb hitelező: aki
   - a) üzletszerű gazdasági tevékenységével összefüggésben, végrehajtható okirattal, számlával vagy más számviteli bizonylattal igazolt, pénzfizetésre vonatkozó követeléssel rendelkezik az adóssal szemben,
@@ -285,7 +285,7 @@ részt vett, és a megállapodás megkötésére, illetve a bírósági adóssá
 
 #### 6. Családi Csődvédelmi Szolgálat, családi vagyonfelügyelő
 
-11. § (1) A Családi Csődvédelmi Szolgálat központi szerve az Igazságügyi Hivatal szervezeti egysége, a Családi Csődvédelmi Szolgálat területi szervei a kormányhivatalok.
+11. § (1)
 
 (2) A Családi Csődvédelmi Szolgálat
 
@@ -294,7 +294,7 @@ részt vett, és a megállapodás megkötésére, illetve a bírósági adóssá
 
 (3) A Családi Csődvédelmi Szolgálat e törvényben és végrehajtási rendeleteiben meghatározott feladataihoz a Szolgálat által igényelt adatok szolgáltatását és továbbítását nem lehet díjfizetéshez kötni.
 
-12. § (1) A családi vagyonfelügyelők és a feladataik ellátásában közreműködők a Családi Csődvédelmi Szolgálatot magában foglaló kormányhivatallal munkavégzésre irányuló tartós jogviszonyban álló személyek.
+12. § (1) A családi vagyonfelügyelőket és a feladataik ellátásában közreműködőket a Családi Csődvédelmi Szolgálat területi szervei foglalkoztatják.
 
 (2) Családi vagyonfelügyelő az a legalább kétéves szakmai gyakorlattal rendelkező kormánytisztviselő, állami tisztviselő vagy büntetlen előéletű tartós megbízási jogviszonyban álló személy lehet, aki rendelkezik jogi vagy közgazdasági végzettséggel, valamint közigazgatási vizsgával, jogi szakvizsgával vagy közigazgatási tanulmányok szakirányú szakképzettséggel vagy kormányzati tanulmányok szakirányú szakképzettséggel.
 
@@ -302,15 +302,15 @@ részt vett, és a megállapodás megkötésére, illetve a bírósági adóssá
 
 (4) A családi vagyonfelügyelő az ilyen fizetésképtelenségi szakértői feladatokat ellátó személytől elvárható gondossággal köteles eljárni.
 
-(5) A Családi Csődvédelmi Szolgálat területi szerve a családi vagyonfelügyelőt a bírósági adósságrendezési eljárásból visszahívja, ha a családi vagyonfelügyelő
+(5) A Családi Csődvédelmi Szolgálat a családi vagyonfelügyelőt a bírósági adósságrendezési eljárásból visszahívja, ha a családi vagyonfelügyelő
 
 - a) tartósan keresőképtelen vagy más rendkívüli ok miatt nem tudja a feladatát ellátni,
 - b) megszűnik a munkavégzésre irányuló jogviszonya a Családi Csődvédelmi Szolgálatnál,
 - c) súlyosan vagy ismétlődően megszegi a jogszabályokat, elmulasztja vagy késedelmesen teljesíti a jogszabályban foglalt kötelezettségeit, vagy személyével szemben kizáró ok merül fel.
 
-(6) Az új családi vagyonfelügyelő kijelölése, adatainak az ARE nyilvántartásba történő bejegyzése, a bíróságnak és a feleknek történő megküldése iránt a területi Családi Csődvédelmi Szolgálat az említett körülmény bekövetkeztekor haladéktalanul intézkedik.
+(6) Az új családi vagyonfelügyelő kijelölése, adatainak az ARE nyilvántartásba történő bejegyzése, a bíróságnak és a feleknek történő megküldése iránt a Családi Csődvédelmi Szolgálat az említett körülmény bekövetkeztekor haladéktalanul intézkedik.
 
-13. § (1) A területi Családi Csődvédelmi Szolgálat által a bírósági adósságrendezési eljárásra történő családi vagyonfelügyelői kijelölés részletes szabályait e törvény végrehajtási rendelete tartalmazza.
+13. § (1) A Családi Csődvédelmi Szolgálat által a bírósági adósságrendezési eljárásra történő családi vagyonfelügyelői kijelölés részletes szabályait e törvény végrehajtási rendelete tartalmazza.
 
 (2) A kijelölés csak az e törvény szerinti kizárási ok esetén utasítható vissza.
 
@@ -338,7 +338,7 @@ részt vett, és a megállapodás megkötésére, illetve a bírósági adóssá
 
 #### 7. Adósságrendezési nyilvántartás
 
-16. § (1) Az adósságrendezés kezdeményezésére, az adósságrendezés kezdeményezésének, illetve lefolytatásának sikertelenségére, a bírósági adósságrendezés elrendelésére, az adósságrendezési eljárás szakaszaira, a bírósági adósságrendezés elrendelésének elutasítására, a bírósági adósságrendezési eljárás megszüntetésére, az eljárás során hozott érdemi határozatokra, valamint az eljárás hatálya alá tartozó személyekre vonatkozóan a Családi Csődvédelmi Szolgálat központi szerve közhiteles országos központi nyilvántartást vezet (ARE nyilvántartás), amely nyilvántartáshoz a területi Családi Csődvédelmi Szolgálatok hozzákapcsolódnak. Az ARE nyilvántartásba a területi Családi Csődvédelmi Szolgálatok jegyzik be az őket érintő ügyekben az e törvényben meghatározott adatokat, adatváltozásokat, és töltik fel a dokumentumtárba az e törvényben meghatározott okiratokat digitalizált formában. A Családi Csődvédelmi Szolgálat központi szerve mint adatkezelő az ARE nyilvántartással összefüggő, a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló törvényben meghatározott elektronikus adatfeldolgozás ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
+16. § (1) Az adósságrendezés kezdeményezésére, az adósságrendezés kezdeményezésének, illetve lefolytatásának sikertelenségére, a bírósági adósságrendezés elrendelésére, az adósságrendezési eljárás szakaszaira, a bírósági adósságrendezés elrendelésének elutasítására, a bírósági adósságrendezési eljárás megszüntetésére, az eljárás során hozott érdemi határozatokra, valamint az eljárás hatálya alá tartozó személyekre vonatkozóan a Családi Csődvédelmi Szolgálat közhiteles országos központi nyilvántartást vezet (ARE nyilvántartás). Az ARE nyilvántartásba a Családi Csődvédelmi Szolgálat jegyzi be az e törvényben meghatározott adatokat, adatváltozásokat, és tölti fel a dokumentumtárba az e törvényben meghatározott okiratokat digitalizált formában. A Családi Csődvédelmi Szolgálat mint adatkezelő az ARE nyilvántartással összefüggő, a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló törvényben meghatározott elektronikus adatfeldolgozás ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
 
 (2) Az ARE nyilvántartás tartalmazza:
 
@@ -355,7 +355,7 @@ részt vett, és a megállapodás megkötésére, illetve a bírósági adóssá
   - gd) az adós, adóstárs természetes személyazonosító adatait, lakcímét, ha az eljárásban az adós személyében jogutódlás következik be, mind a jogutód, mind a jogelőd adós e pont szerinti adatait,
   - ge) az adósságrendezési eljárásban az adós mellett kötelezettségvállalóként bekapcsolódó egyéb kötelezett természetes személyazonosító adatait és lakcímadatait,
   - gf) az adósságrendezési eljárásban be nem kapcsolódó egyéb kötelezett természetes személyazonosító adatait és lakcímadatait,
-  - gg) a kijelölt családi vagyonfelügyelő nevét, hivatali elérhetőségét (postai és elektronikus levélcím), az adott adósságrendezési ügyre vonatkozóan kiadott ügyazonosítóját, annak a területi Családi Csődvédelmi Szolgálatnak a nevét és székhelyét, amelynél a családi vagyonfelügyelő munkavégzésre irányuló jogviszonyban áll,
+  - gg) a kijelölt családi vagyonfelügyelő nevét, hivatali elérhetőségét (postai és elektronikus levélcím), az adott adósságrendezési ügyre vonatkozóan kiadott ügyazonosítóját, annak a Családi Csődvédelmi Szolgálatnak a nevét és székhelyét, amelynél a családi vagyonfelügyelő munkavégzésre irányuló jogviszonyban áll,
 - h) a bírósági adósságrendezés elrendelésének időpontjában azon hitelezők adósságrendezési eljárásba való bejelentkezésével összefüggő határidőt, akik pénzbeli vagy pénzben kifejezett követelésének esedékessége már lejárt vagy a bírósági adósságrendezés elrendelését követő öt éven belül jár le,
 - i) a bírósági adósságrendezési eljárásban megkötött egyezséget jóváhagyó jogerős bírósági végzés ügyszámát, keltét, a bíróság nevét, székhelyét, a jogerőre emelkedés napját,
 - j) a bírósági adósságrendezési eljárásban az egyezségmódosítást jóváhagyó jogerős bírósági végzés ügyszámát, keltét, a bíróság nevét, székhelyét, a jogerőre emelkedés napját,
@@ -363,14 +363,14 @@ részt vett, és a megállapodás megkötésére, illetve a bírósági adóssá
 - l) az adósságtörlesztési eljárást elrendelő jogerős bírósági végzés ügyszámát, keltét, a bíróság nevét, székhelyét, a jogerőre emelkedés napját,
 - m) az adósságtörlesztésről szóló jogerős végzés ügyszámát, keltét, a bíróság nevét, székhelyét, a jogerőre emelkedés napját,
 - n) az adósságtörlesztésről szóló bírósági végzést módosító jogerős végzés ügyszámát, keltét, a bíróság nevét, székhelyét, a jogerőre emelkedés napját,
-- o) a bírósági adósságrendezési eljárás lezárásához készített jegyzőkönyv ügyszámát, keltét, az azt készítő családi vagyonfelügyelő nevét, hivatali elérhetőségét (postai és elektronikus levélcím), az adott adósságrendezési ügyre vonatkozóan kiadott ügyazonosítóját, annak a területi Családi Csődvédelmi Szolgálatnak a nevét és székhelyét, amelynél a családi vagyonfelügyelő foglalkoztatásra irányuló jogviszonyban áll,
+- o) a bírósági adósságrendezési eljárás lezárásához készített jegyzőkönyv ügyszámát, keltét, az azt készítő családi vagyonfelügyelő nevét, hivatali elérhetőségét (postai és elektronikus levélcím), az adott adósságrendezési ügyre vonatkozóan kiadott ügyazonosítóját, annak a Családi Csődvédelmi Szolgálatnak a nevét és székhelyét, amelynél a családi vagyonfelügyelő foglalkoztatásra irányuló jogviszonyban áll,
 - p) a bírósági adósságrendezési eljárás lezárásakor a jogerős mentesítő bírósági végzés ügyszámát, keltét, a bíróság nevét, székhelyét, a jogerőre emelkedés napját,
 - r) a bírósági adósságrendezési eljárást megszüntető jogerős bírósági végzés ügyszámát, keltét, a bíróság nevét, székhelyét, a jogerőre emelkedés napját,
 - s) a jogerős mentesítő határozatot hatályon kívül helyező jogerős bírósági végzés ügyszámát, keltét, a bíróság nevét, székhelyét, a jogerőre emelkedés napját,
 - t) a bíróságon kívüli adósságrendezési megállapodás hatálya megszűnésének bírósági megállapítása esetén ezt a tényt, a bíróság nevét, székhelyét, a jogerős bírósági végzés keltét, ügyszámát, a jogerőre emelkedés napját, az adós, adóstárs természetes személyazonosító adatait, lakcímét, az érintett hitelező nevét, székhelyét (lakóhelyét) jogi személy hitelező esetén a bírósági vagy hatósági nyilvántartási számát,
 - u) a bírósági adósságrendezési egyezség hatálya megszűnésének bírósági megállapítása esetén ezt a tényt, a bíróság nevét, székhelyét, a jogerős bírósági végzés keltét, ügyszámát, a jogerőre emelkedés napját, az adós természetes személyazonosító adatait, lakcímét, az érintett hitelező nevét, székhelyét (lakóhelyét) jogi személy hitelező esetén a bírósági vagy hatósági nyilvántartási számát.
 
-(3) A családi vagyonfelügyelő, az adós, az adóstárs, a hitelező és az eljárásban részt vevő egyéb kötelezett az ARE nyilvántartásnak arra az adósságrendezési ügyre vonatkozó adataiba tekinthet be, amelyben részt vesz vagy részt vett. A betekintés az adós, az adóstárs, a hitelező és az eljárásban részt vevő egyéb kötelezett részéről személyesen történhet, bármelyik területi Családi Csődvédelmi Szolgálatnál. A betekintés ingyenes.
+(3) A családi vagyonfelügyelő, az adós, az adóstárs, a hitelező és az eljárásban részt vevő egyéb kötelezett az ARE nyilvántartásnak arra az adósságrendezési ügyre vonatkozó adataiba tekinthet be, amelyben részt vesz vagy részt vett. A betekintés az adós, az adóstárs, a hitelező és az eljárásban részt vevő egyéb kötelezett részéről személyesen történhet, bármelyik Családi Csődvédelmi Szolgálatnál. A betekintés ingyenes.
 
 (4) Az ARE nyilvántartásból annak a bíróságnak, közjegyzőnek, ügyésznek, nyomozó hatóságnak, közigazgatási szervnek, nemzetbiztonsági szolgálatnak, végrehajtást elrendelő hatóságnak, a végrehajtónak és szociális hatóságnak továbbítható adat, amely minden egyes igényelt adat tekintetében a törvényi rendelkezés megjelölésével megjelöli, hogy az ügy elbírálásához, továbbá jogosultság, illetve kötelezettség fennállásának ellenőrzéséhez az adat megismerésére és kezelésére jogosult. Az adatigénylőnek a kérelemben meg kell jelölnie annak az eljárásának az ügyszámát és tárgyát, amelyben az igényelt adatok megismerésére jogosult. Az adat igénylése és továbbítása elektronikus úton történik. Az ilyen adatigénylés ingyenes.
 
@@ -378,12 +378,12 @@ részt vett, és a megállapodás megkötésére, illetve a bírósági adóssá
 
 (6) Az ARE nyilvántartás összesített adatai egyedi azonosításra nem alkalmas módon statisztikai célra, továbbá a hatóságok, bíróságok, minisztériumok számára hatásvizsgálati célból adhatók át.
 
-(7) A Családi Csődvédelmi Szolgálat központi szerve kérelemre, igazgatási szolgáltatási díj megfizetése ellenében tanúsítványt állít ki a belföldi természetes személyek részére arról, hogy
+(7) A Családi Csődvédelmi Szolgálat kérelemre, igazgatási szolgáltatási díj megfizetése ellenében tanúsítványt állít ki a belföldi természetes személyek részére arról, hogy
 
 - a) a kérelmező természetes személy nem szerepel az ARE nyilvántartásban adósként, vagy
 - b) az ARE nyilvántartásban a kérelmező természetes személy szerepel, valamint az általa a tanúsítványba foglalni kért, az ARE nyilvántartásban nyilvántartott adatokról.
 
-(8) A Családi Csődvédelmi Szolgálat központi szerve kérelemre, igazgatási szolgáltatási díj megfizetése ellenében hiteles vagy nem hiteles másolatot állít ki a belföldi természetes személyek részére a kérelmező természetes személy adósságrendezési eljárásában nyilvántartott okiratokról.
+(8) A Családi Csődvédelmi Szolgálat kérelemre, igazgatási szolgáltatási díj megfizetése ellenében hiteles vagy nem hiteles másolatot állít ki a belföldi természetes személyek részére a kérelmező természetes személy adósságrendezési eljárásában nyilvántartott okiratokról.
 
 (9) Az ARE nyilvántartásban
 
@@ -395,7 +395,7 @@ részt vett, és a megállapodás megkötésére, illetve a bírósági adóssá
   - db) a bíróságon kívüli adósságrendezési megállapodás hatályának megszűnését a bíróság megállapította, az erről szóló jogerős végzés bejegyzésének napjától,
   - dc) a bírósági adósságrendezési egyezség hatályának megszűnését a bíróság megállapította, az erről szóló jogerős végzés bejegyzésének napjától,
 
-számított tizedik év utolsó napjáig kell megőrizni, ennek elteltét követően az adatokat a Családi Csődvédelmi Szolgálat központi szerve törli.
+számított tizedik év utolsó napjáig kell megőrizni, ennek elteltét követően az adatokat a Családi Csődvédelmi Szolgálat törli.
 
 ### II. Fejezet — BÍRÓSÁGON KÍVÜLI ADÓSSÁGRENDEZÉS
 
@@ -403,7 +403,7 @@ számított tizedik év utolsó napjáig kell megőrizni, ennek elteltét követ
 
 17. § (1) Az adósnak a bírósági adósságrendezési eljárás kezdeményezését megelőzően bíróságon kívüli adósságrendezést kell kezdeményeznie, ezt a kezdeményezését benyújthatja írásban a főhitelezőnél is.
 
-(2) Az adóstársak csak közösen kezdeményezhetnek adósságrendezést, és együttesen tehetnek az eljárás során jognyilatkozatokat, ide nem értve azon hitelezői követelésekkel összefüggő jognyilatkozatokat, amelyek kötelezettje csak az egyik adóstárs. Az adóstársak egymásnak ezekben az esetekben is meghatalmazást adhatnak az eljárási cselekmények és jognyilatkozatok megtételére. A meghatalmazást írásban kell megtenni és azt az adott eljárási cselekmény vagy jognyilatkozat megtételekor a családi vagyonfelügyelőnek, illetve a bíróságnak be kell mutatni.
+(2) Az adóstársak csak közösen kezdeményezhetnek adósságrendezést, és együttesen tehetnek az eljárás során jognyilatkozatokat, ide nem értve azon hitelezői követelésekkel összefüggő jognyilatkozatokat, amelyek kötelezettje csak az egyik adóstárs. Az adóstársak egymásnak ezekben az esetekben is meghatalmazást adhatnak az eljárási cselekmények és jognyilatkozatok megtételére. A meghatalmazást írásban kell megtenni és azt az adott eljárási cselekmény vagy jognyilatkozat megtételekor – ha a meghatalmazás a rendelkezési nyilvántartásban nem szerepel – a családi vagyonfelügyelőnek, illetve a bíróságnak be kell mutatni.
 
 (3) Az adósságrendezés kezdeményezésére irányuló kérelem az adós, a hitelezők és egyéb kötelezettek azonosítására szolgáló adatok mellett tartalmazza az adós vagyonleltárát és tartozásállományának összetételét, összegét, törlesztési kötelezettségeit. Az adósnak nyilatkoznia kell a saját és a vele közös háztartásban élő közeli hozzátartozók, illetve az élettársa havi rendszeres bevételeiről és a mindennapi közös életvitellel összefüggő havi kiadásokról is.
 
@@ -413,7 +413,7 @@ számított tizedik év utolsó napjáig kell megőrizni, ennek elteltét követ
 
 (6) Az adósságrendezés kezdeményezéséről az adósnak és adóstársnak egyidejűleg írásban értesítenie kell a pénzügyi eszközeit vezető 26. § (1) bekezdése szerinti intézményeket.
 
-(7) A pénzügyi intézmény, akihez az adósságrendezési eljárás kezdeményezése benyújtásra került, haladéktalanul tájékoztatja az adós lakóhelye szerinti területi Családi Csődvédelmi Szolgálatot a bíróságon kívüli adósságrendezési eljárás kezdeményezésének benyújtásáról. A Családi Csődvédelmi Szolgálat erről a tényről a KHR tv.-ben meghatározott módon adatot szolgáltat a KHR-be.
+(7) A pénzügyi intézmény, akihez az adósságrendezési eljárás kezdeményezése benyújtásra került, haladéktalanul tájékoztatja az adós lakóhelye szerint illetékes Családi Csődvédelmi Szolgálatot a bíróságon kívüli adósságrendezési eljárás kezdeményezésének benyújtásáról. A Családi Csődvédelmi Szolgálat erről a tényről a KHR tv.-ben meghatározott módon adatot szolgáltat a KHR-be.
 
 18. § (1) Az adósságrendezés kezdeményezésekor az adós és az adóstárs nyilatkozik arról is, hogy nem képes a tartozásai megfizetésére.
 
@@ -442,7 +442,7 @@ számított tizedik év utolsó napjáig kell megőrizni, ennek elteltét követ
 
 (5) Az adós és az adóstárs kötelezettséget vállal arra, hogy ha a személyi, családi, vagyoni, jövedelmi helyzetében, illetve a lakóhelyével összefüggésben vagy a (6) bekezdés szerinti adatokban változás következik be, az azzal összefüggésben újonnan kitöltött űrlapokat és dokumentumokat öt napon belül benyújtja.
 
-(5a) Az (5) bekezdés szerinti adatváltozás bejelentése azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle az adós vagy az adóstárs kéri – az (5) bekezdés szerinti határidőben értesíti a területi Családi Csődvédelmi Szolgálatot.
+(5a) Az (5) bekezdés szerinti adatváltozás bejelentése azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle az adós vagy az adóstárs kéri – az (5) bekezdés szerinti határidőben értesíti a Családi Csődvédelmi Szolgálatot.
 
 (6) Az adósságrendezés kezdeményezésekor adós és az adóstárs írásban hozzájárul ahhoz, hogy az adósságrendezésbe vonandó vagyonával, jövedelmével és az adósságállományával és az ellene indított igényérvényesítésekkel összefüggő adatokat a hitelezők, az egyéb kötelezettek, a hatáskörükben eljáró hatóságok, ügyészség és bíróság, a családi vagyonfelügyelő és a Családi Csődvédelmi Szolgálat, valamint a külön törvényben az ilyen adat megismerésére feljogosított szervek – a jogaik gyakorlásához, kötelezettségeik teljesítéséhez szükséges körben – megismerjék.
 
@@ -480,7 +480,7 @@ számított tizedik év utolsó napjáig kell megőrizni, ennek elteltét követ
 
 (4) A (2) bekezdés b) pontja szerinti kötelezettségvállalás csak akkor vonható vissza, ha a főhitelezővel szemben a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvény 17. §-a alapján elrendelt szanálási eljárás vagy a jogutód nélküli megszüntetésére irányuló eljárás indul.
 
-(5) Ha a pénzügyi intézmény nem minősül e törvény szerint főhitelezőnek, vagy nem köteles vállalni a főhitelezői tevékenységgel kapcsolatos feladatokat, a (2) bekezdés b) pontja szerinti nemleges nyilatkozatát, valamint adósnak a bírósági adósságrendezés iránti kérelmét és mellékleteit a bírósághoz történő továbbítás céljából a (2) bekezdés szerinti nyilatkozatot követő 8 napon belül az adós lakóhelye szerinti területi Családi Csődvédelmi Szolgálathoz továbbítja az adós egyidejű értesítése mellett.
+(5) Ha a pénzügyi intézmény nem minősül e törvény szerint főhitelezőnek, vagy nem köteles vállalni a főhitelezői tevékenységgel kapcsolatos feladatokat, a (2) bekezdés b) pontja szerinti nemleges nyilatkozatát, valamint adósnak a bírósági adósságrendezés iránti kérelmét és mellékleteit a bírósághoz történő továbbítás céljából a (2) bekezdés szerinti nyilatkozatot követő 8 napon belül az adós lakóhelye szerint illetékes Családi Csődvédelmi Szolgálathoz továbbítja az adós egyidejű értesítése mellett.
 
 21. § (1) Ha a főhitelező 20. § (3) bekezdés szerinti kötelezettsége fennáll, vagy a főhitelező az ezzel járó feladatokat vállalja, a főhitelező az adóst egyidejűleg tájékoztatja az adósságrendezési eljárás kezdeményezésétől esedékes – a jelzáloghitel-szerződés vagy pénzügyi lízingszerződés alapján teljesítendő – minimális törlesztőrészlet összegéről. A minimális törlesztőrészlet összege a zálogjoggal biztosított nyilvántartott követelés 7,8%-ának egytizenketted része, de legfeljebb a zálogjoggal terhelt ingatlan forgalmi értéke 7,8%-ának egytizenketted része, amelyet a főhitelező a zálogjoggal biztosított követelésére, illetve a lízingdíjra számol el. A főhitelező az e törvényben meghatározott – a bíróságon kívüli adósságrendezési megállapodás létrehozásával összefüggő koordinációs és adminisztrációs – feladatai ellátásáért az adóstól és az adóstársaktól összesen 30 000 forint postai és távközlési költségátalányra jogosult, amelyet a felhívás kézhezvételétől számított 8 napon belül, de legkésőbb az e bekezdés szerinti első törlesztőrészlettel együtt kell megfizetni. Ha az adós a költségátalányt nem fizeti meg vagy a minimális törlesztő részlet fizetését a pénzügyi intézmény által előírt határidő alatt nem kezdi meg, a főhitelező az adós által benyújtott dokumentumokat és a fizetési kötelezettség elmulasztásáról szóló nyilatkozatot a Családi Csődvédelmi Szolgálatnak továbbítja bíróságon kívüli adósságrendezési eljárás adós érdekkörében fennálló sikertelenségére hivatkozva.
 
@@ -492,7 +492,7 @@ számított tizedik év utolsó napjáig kell megőrizni, ennek elteltét követ
 
 22. § (1) A Családi Csődvédelmi Szolgálat a bíróságon kívüli adósságrendezés kezdeményezésének tényét haladéktalanul bejegyzi az ARE nyilvántartásba, és erről írásban értesíti az adóst, a főhitelezőt, az ismert hitelezőket és – ha a rendelkezésére álló adatok szerint az adós ellen végrehajtási eljárás van elrendelve – a végrehajtást foganatosító hatóságot, illetve bírósági végrehajtót.
 
-(2) Ha az adósnak nincs főhitelezője, az adós a bírósági adósságrendezés iránti kérelmét és mellékleteit írásban, a lakóhelye szerinti területi Családi Csődvédelmi Szolgálat útján terjeszti elő a bírósághoz, és ennek során teszi meg a 17–19. §-ban felsorolt olyan nyilatkozatokat, amelyek a bírósági adósságrendezés kezdeményezésével függenek össze, és nyilatkozik arról, hogy bíróságon kívül adósságrendezés kezdeményezésére nem volt jogosult. Az adós az adósságrendezés kezdeményezéséről a hitelezőit írásban tájékoztatni köteles, és az ezt igazoló dokumentumokat a kérelméhez csatolja.
+(2) Ha az adósnak nincs főhitelezője, az adós a bírósági adósságrendezés iránti kérelmét és mellékleteit írásban, a lakóhelye szerint illetékes Családi Csődvédelmi Szolgálat útján terjeszti elő a bírósághoz, és ennek során teszi meg a 17–19. §-ban felsorolt olyan nyilatkozatokat, amelyek a bírósági adósságrendezés kezdeményezésével függenek össze, és nyilatkozik arról, hogy bíróságon kívül adósságrendezés kezdeményezésére nem volt jogosult. Az adós az adósságrendezés kezdeményezéséről a hitelezőit írásban tájékoztatni köteles, és az ezt igazoló dokumentumokat a kérelméhez csatolja.
 
 (3) A Családi Csődvédelmi Szolgálat
 
@@ -515,7 +515,7 @@ számított tizedik év utolsó napjáig kell megőrizni, ennek elteltét követ
 
 (2) Ha az adós az adategyeztetést elmulasztja vagy az (1) bekezdésben foglaltakat nem teljesíti, a Családi Csődvédelmi Szolgálat a bíróságon kívüli adósságrendezés sikertelen kezdeményezésének tényét haladéktalanul bejegyzi az ARE nyilvántartásba, és erről írásban értesíti az adóst, a főhitelezőt, a biztosított hitelezőket, az egyéb kötelezetteket és – ha a rendelkezésére álló adatok szerint az adós ellen végrehajtási eljárás van elrendelve – a végrehajtást foganatosító hatóságot, illetve bírósági végrehajtót, továbbá az adósságrendezés adós érdekkörében történő sikertelen kezdeményezésére tekintettel az adós kérelmét és annak mellékleteit a bírósághoz továbbítja.
 
-(3) Az adós kérelme és melléklete megvizsgálásának, valamint ha szükséges, az adategyeztetés, illetve a hiánypótlás megtörténtéről és a 23. § szerinti vizsgálatok lefolytatásáról a Családi Csődvédelmi Szolgálat az adós részére igazolást állít ki, és az igazolást, valamint a környezettanulmányról felvett jegyzőkönyvet postai úton megküldi az adósnak és a főhitelezőnek, továbbá a főhitelezőnek elektronikus úton is továbbítja.
+(3) Az adós kérelme és melléklete megvizsgálásának, valamint ha szükséges, az adategyeztetés, illetve a hiánypótlás megtörténtéről és a 23. § szerinti vizsgálatok lefolytatásáról a Családi Csődvédelmi Szolgálat az adós részére igazolást állít ki, és az igazolást, valamint a környezettanulmányról felvett jegyzőkönyvet megküldi az adósnak és a főhitelezőnek.
 
 (4) A (3) bekezdésben foglaltakkal egyidejűleg a Családi Csődvédelmi Szolgálat a honlapján hirdetményt tesz közzé a bíróságon kívüli adósságrendezés kezdeményezéséről. A hirdetmény tartalmazza a bíróságon kívüli adósságrendezési kezdeményezés benyújtásának tényét, időpontját, az adós, adóstárs nevét, természetes személyazonosító adatait, lakcímadatait, a főhitelező nevét, elérhetőségét és felhívást arra, hogy a hitelezők 15 napon belül jelentsék be igényeiket az adósnak, adóstársnak és a főhitelezőnek. A hitelezőknek szóló felhívásban szerepeltetni kell, hogy a hitelező az igénybejelentésében jelölje meg a kötelezettet (kötelezetteket), a követelés jogalapját, tőkeösszegét és járulékait, és nyilatkozzon arról, hogy a követelés érvényesítése érdekében kezdeményezett-e fizetési meghagyásos eljárást, végrehajtást, zálogtárgy bíróságon kívüli értékesítését, óvadékkal biztosított követelés esetén az óvadék tárgyából történő kielégítés és az azt követő elszámolás megtörtént-e. A hitelezőnek nyilatkoznia kell arról is, hogy van-e tudomása a végrehajtás korlátozása vagy megszüntetése iránti eljárásról.
 
@@ -582,13 +582,13 @@ a honlapról el kell távolítani, ezt követően a Családi Csődvédelmi Szolg
 
 30. § (1) Ha a főhitelező vállalja a bíróságon kívüli adósságrendezés koordinálásával összefüggő feladatokat, és az adós ennek költségátalányát előlegezte, a főhitelező a 25. § (3) bekezdés szerinti igazolás kézhezvételét követő 30 napon belül az adós, adóstárs bevonásával összeállítja az eljárásban részt vevők és egyéb kötelezettek listáját, az elérhetőségükre, valamint a hitelezői követelésekre vonatkozó adatokkal.
 
-(2) A főhitelező az adós, adóstárs bevonásával az adósság rendezésére és az adós fizetőképességének helyreállítására vonatkozóan – figyelembe véve az adós 19. § (2) bekezdése alapján tett nyilatkozatát is – megállapodástervezetet készít, amelyet az adós aláírásával is ellátva postai úton megküld minden hitelező és az egyéb kötelezettek számára.
+(2) A főhitelező az adós, adóstárs bevonásával az adósság rendezésére és az adós fizetőképességének helyreállítására vonatkozóan – figyelembe véve az adós 19. § (2) bekezdése alapján tett nyilatkozatát is – megállapodástervezetet készít, amelyet az adós aláírásával is ellátva megküld minden hitelező és az egyéb kötelezettek számára.
 
-(3) A (2) bekezdés szerinti megkeresésben a főhitelező felhívja a hitelezőket, hogy az adósságrendezési megállapodástervezetre a kézhezvételtől számított 15 napon belül észrevételeket, javaslatokat tehetnek, és ezeket elektronikusan és postai úton is juttassák el a főhitelezőnek és postai úton az adósnak.
+(3) A (2) bekezdés szerinti megkeresésben a főhitelező felhívja a hitelezőket, hogy az adósságrendezési megállapodástervezetre a kézhezvételtől számított 15 napon belül észrevételeket, javaslatokat tehetnek, és ezeket juttassák el a főhitelezőnek és postai úton az adósnak.
 
-(4) A beérkezett észrevételek, javaslatok figyelembevételével – szükség szerint a hitelezőkkel rövid úton is egyeztetve az egyes feltételeket – a főhitelező az adós, adóstárs bevonásával az adósságrendezési megállapodástervezetet szükség szerint átdolgozza, kiegészíti, és az átdolgozott megállapodás tervezetet a főhitelező – az adós, adóstárs és az adósságrendezési eljárásban kötelezettséget vállaló egyéb kötelezett aláírásával is ellátva – postai úton és elektronikusan megküldi a hitelezők, valamint az egyéb kötelezettek számára.
+(4) A beérkezett észrevételek, javaslatok figyelembevételével – szükség szerint a hitelezőkkel rövid úton is egyeztetve az egyes feltételeket – a főhitelező az adós, adóstárs bevonásával az adósságrendezési megállapodástervezetet szükség szerint átdolgozza, kiegészíti, és az átdolgozott megállapodás tervezetet a főhitelező – az adós, adóstárs és az adósságrendezési eljárásban kötelezettséget vállaló egyéb kötelezett aláírásával is ellátva – megküldi a hitelezők, valamint az egyéb kötelezettek számára.
 
-(5) A (4) bekezdés szerinti megkeresésben a főhitelező felhívja a hitelezőket, hogy egyetértésük esetén az átdolgozott adósságrendezési megállapodás tervezetet mint szerződéses ajánlatot a kézhezvételtől számított 15 napon belül cégszerű aláírással – magánszemély esetén a hitelező aláírásán kívül két tanú aláírásával is ellátva – postai úton juttassák el a főhitelezőnek és az adósnak. A hitelező felhívásának tartalmaznia kell, hogy újabb kiegészítő vagy a megállapodástervezettől eltérő feltételeket a hitelező nem alkalmazhat az elfogadó nyilatkozatában.
+(5) A (4) bekezdés szerinti megkeresésben a főhitelező felhívja a hitelezőket, hogy egyetértésük esetén az átdolgozott adósságrendezési megállapodás tervezetet mint szerződéses ajánlatot a kézhezvételtől számított 15 napon belül cégszerű aláírással – magánszemély esetén a hitelező aláírásán kívül két tanú aláírásával is ellátva – juttassák el a főhitelezőnek és az adósnak. A hitelező felhívásának tartalmaznia kell, hogy újabb kiegészítő vagy a megállapodástervezettől eltérő feltételeket a hitelező nem alkalmazhat az elfogadó nyilatkozatában.
 
 (6) Az adósságrendezési megállapodás akkor jön létre, ha annak szövegére valamennyi érintett hitelező és az adós, adóstárs, valamint az adósságrendezésben kötelezettséget vállaló egyéb kötelezett alakilag érvényes elfogadó nyilatkozatot tett és azt visszaküldte a főhitelezőnek és az adósnak, adóstársnak. Az adósságrendezési megállapodás létrejöttének napja az utolsó elfogadó nyilatkozat főhitelező általi kézhezvételének napja.
 
@@ -604,7 +604,7 @@ a honlapról el kell távolítani, ezt követően a Családi Csődvédelmi Szolg
 
 részére, és az értesítésben megjelöli az adósságrendezési megállapodás létrejöttének dátumát.
 
-(9) A Családi Csődvédelmi Szolgálat a bíróságon kívüli sikeres adósságrendezés tényét 8 napon belül bejegyzi az ARE nyilvántartásba. Erről az adatról a családi vagyonfelügyelő írásbeli megkeresésre tájékoztatást ad azoknak, akik hitelt érdemlően, okirattal igazolják, hogy az adóssal szemben az adósságrendezés kezdeményezésekor pénzfizetésre irányuló követeléssel rendelkeztek az adóssal szemben, de hitelezőként az adósságrendezésbe nem jelentkeztek be. Az említett hitelezői megkeresés és a hitelező tájékoztatásának tényéről a családi vagyonfelügyelő 8 napon belül írásban tájékoztatja az adóst, adóstársat és a főhitelezőt.
+(9) A Családi Csődvédelmi Szolgálat a bíróságon kívüli sikeres adósságrendezés tényét 8 napon belül bejegyzi az ARE nyilvántartásba. Erről az adatról a családi vagyonfelügyelő írásbeli megkeresésre tájékoztatást ad azoknak, akik hitelt érdemlően, okirattal vagy annak hiteles másolatával igazolják, hogy az adóssal szemben az adósságrendezés kezdeményezésekor pénzfizetésre irányuló követeléssel rendelkeztek az adóssal szemben, de hitelezőként az adósságrendezésbe nem jelentkeztek be. Az említett hitelezői megkeresés és a hitelező tájékoztatásának tényéről a családi vagyonfelügyelő 8 napon belül írásban tájékoztatja az adóst, adóstársat és a főhitelezőt.
 
 (10) A Családi Csődvédelmi Szolgálat a megállapodást az ARE dokumentumtárában a beérkezést követő tizedik év utolsó napjáig őrzi meg.
 
@@ -624,9 +624,9 @@ a főhitelező ezt a tényt elektronikusan bejelenti a Családi Csődvédelmi Sz
 
 (4) Ha a Családi Csődvédelmi Szolgálat az (1) bekezdés a) pontja szerinti okból a bíróságon kívüli adósságrendezés sikertelen lefolytatásának tényét állapította meg, a Családi Csődvédelmi Szolgálat honlapján hirdetményt tesz közzé arról, hogy az adós bírósági adósságrendezést kezdeményezett, és felhívja az ismert és ismeretlen hitelezőket követeléseik 30 napon belüli bejelentésére, és a 88. § (3) bekezdés a) pontja szerinti nyilvántartásba-vételi díjnak a Családi Csődvédelmi Szolgálat erre a célra nyitott kincstári számlájára történő befizetésére. A hirdetményben fel kell hívni a hitelezők figyelmét az 1. § (3) bekezdésében foglalt jogkövetkezményekre.
 
-(5) A Családi Csődvédelmi Szolgálat az adós bírósági adósságrendezés iránti, 19. § (13) bekezdés szerinti kérelmét, annak mellékleteit, valamint a bíróságon kívüli adósságrendezés dokumentumait postai úton eljuttatja az adós lakóhelye szerinti, hatáskörrel, illetékességgel rendelkező bíróságnak. A dokumentumokhoz olyan elektronikus adathordozót kell csatolni, amely tartalmazza a kérelemnek és mellékleteinek informatikai eszköz alkalmazásával megszerkesztett, szerkeszthető formátumú változatát. A Családi Csődvédelmi Szolgálat csatolja továbbá az ARE nyilvántartásba történő bejegyzések adatait és a bejegyzés alapjául szolgáló okiratok másolatát is.
+(5) A Családi Csődvédelmi Szolgálat az adós bírósági adósságrendezés iránti, 19. § (13) bekezdés szerinti kérelmét, annak mellékleteit, valamint a bíróságon kívüli adósságrendezés dokumentumait eljuttatja az adós lakóhelye szerinti, hatáskörrel, illetékességgel rendelkező bíróságnak. A dokumentumokhoz elektronikusan csatolni kell a kérelemnek és mellékleteinek informatikai eszköz alkalmazásával megszerkesztett, szerkeszthető formátumú változatát. A Családi Csődvédelmi Szolgálat csatolja továbbá az ARE nyilvántartásba történő bejegyzések adatait és a bejegyzés alapjául szolgáló okiratok másolatát is.
 
-(6) A Családi Csődvédelmi Szolgálat a (5) bekezdés szerinti dokumentumok csatolásakor közli a bírósággal az adott bírósági adósságrendezési eljárásban közreműködő illetékes területi Családi Csődvédelmi Szolgálat nevét, címét, postai és elektronikus levélcímét, és az adott ügyre vonatkozóan az illetékes területi Családi Csődvédelmi Szolgálat által kijelölt családi vagyonfelügyelő és annak teljes jogkörrel rendelkező helyettesei (a továbbiakban együtt: családi vagyonfelügyelő) nevét, az adott adósságrendezési ügyre vonatkozóan kiadott ügyazonosítóját, valamint az említett személyek közös postai címét és elektronikus levélcímét.
+(6) A Családi Csődvédelmi Szolgálat a (5) bekezdés szerinti dokumentumok csatolásakor közli a bírósággal az adott bírósági adósságrendezési eljárásban közreműködő illetékes területi Családi Csődvédelmi Szolgálat nevét, címét, postai és elektronikus levélcímét, és az adott ügyre vonatkozóan a Családi Csődvédelmi Szolgálat által kijelölt családi vagyonfelügyelő és annak teljes jogkörrel rendelkező helyettesei (a továbbiakban együtt: családi vagyonfelügyelő) nevét, az adott adósságrendezési ügyre vonatkozóan kiadott ügyazonosítóját, valamint az említett személyek közös postai címét és elektronikus levélcímét.
 
 (7) Ha a (4) bekezdés szerinti hirdetményben közzétett határidő alatt bejelentett hitelezői követeléseket a családi vagyonfelügyelő vitatja, azt 15 napon belül elbírálásra a bíróság elé terjeszti.
 
@@ -634,7 +634,7 @@ a főhitelező ezt a tényt elektronikusan bejelenti a Családi Csődvédelmi Sz
 
 #### 12. A bírósági adósságrendezés iránti kérelem elutasítása
 
-32. § (1) A bíróság a 21. § (1) és (2) bekezdése, a 22. § (4) bekezdése, a 23. § (2) bekezdése, a 25. § (2) és (3) bekezdése, a 26. § (12) bekezdése, illetve a 31. § (5) bekezdése szerinti iratokat a postai úton történő beérkezéstől számított 15 napon belül megvizsgálja annak érdekében, hogy nincs-e helye az ügy áttételének, nem kell-e hiánypótlást elrendelni vagy az adósságrendezés iránti kérelmet hivatalból elutasítani. A bíróság 8 napos határidő tűzésével és a jogkövetkezményekre történő hivatkozással felhívja az adóst a bírósági adósságrendezési eljárás illetékének lerovására.
+32. § (1) A bíróság a 21. § (1) és (2) bekezdése, a 22. § (4) bekezdése, a 23. § (2) bekezdése, a 25. § (2) és (3) bekezdése, a 26. § (12) bekezdése, illetve a 31. § (5) bekezdése szerinti iratokat a történő beérkezéstől számított 15 napon belül megvizsgálja annak érdekében, hogy nincs-e helye az ügy áttételének, nem kell-e hiánypótlást elrendelni vagy az adósságrendezés iránti kérelmet hivatalból elutasítani. A bíróság 8 napos határidő tűzésével és a jogkövetkezményekre történő hivatkozással felhívja az adóst a bírósági adósságrendezési eljárás illetékének lerovására.
 
 (2) Ha a bírósági adósságrendezés iránti kérelem vagy annak mellékletei nem felelnek meg az e törvényben és végrehajtási rendeleteiben meghatározott követelményeknek vagy az iratok, adatok kiegészítésre vagy kijavításra szorulnak, a bíróság legfeljebb 15 napos határidő kitűzésével hiánypótlásra szólítja fel az adóst, a jogkövetkezményekre történő felhívással.
 
@@ -671,7 +671,7 @@ a főhitelező ezt a tényt elektronikusan bejelenti a Családi Csődvédelmi Sz
 - b) az adós, adóstárs nevét, a nemperes eljárás tárgyát,
 - c) a bírósági adósságrendezés elrendelését,
 - d) az adós, adóstárs természetes személyazonosító adatait, lakcímadatait,
-- e) az illetékes területi Családi Csődvédelmi Szolgálat nevét, címét, postai és elektronikus levélcímét, és az adott ügyre vonatkozóan az illetékes területi Családi Csődvédelmi Szolgálat által kijelölt családi vagyonfelügyelő 31. § (6) bekezdésében meghatározott adatait.
+- e) a Családi Csődvédelmi Szolgálat nevét, címét, postai és elektronikus levélcímét, és az adott ügyre vonatkozóan a Családi Csődvédelmi Szolgálat által kijelölt családi vagyonfelügyelő 31. § (6) bekezdésében meghatározott adatait.
 
 (3) A bírósági adósságrendezést elrendelő végzés ellen csak a hitelező nyújthat be fellebbezést, a végzés kézbesítésétől számított 15 napon belül.
 
@@ -742,7 +742,7 @@ nincs helye.
 - b) a bíróság nevét, székhelyét,
 - c) a bírósági adósságrendezési eljárás elrendelésének tényét, az adósságrendezést elrendelő bíróság nevét, székhelyét, a jogerős bírósági végzés ügyszámát, dátumát, a jogerőre emelkedés napját, azzal, hogy ez a dátum az adósságrendezés kezdő időpontja,
 - d) az adós, adóstárs természetes személyazonosító adatait, lakcímét,
-- e) a kijelölt családi vagyonfelügyelő nevét, hivatali elérhetőségét (postai és elektronikus levélcím), az adott adósságrendezési ügyre vonatkozóan kiadott ügy azonosítóját, annak a területi Családi Csődvédelmi Szolgálatnak a nevét és székhelyét, amelynél a családi vagyonfelügyelő munkavégzésre irányuló jogviszonyban áll,
+- e) a kijelölt családi vagyonfelügyelő nevét, hivatali elérhetőségét (postai és elektronikus levélcím), az adott adósságrendezési ügyre vonatkozóan kiadott ügy azonosítóját, annak a Családi Csődvédelmi Szolgálatnak a nevét és székhelyét, amelynél a családi vagyonfelügyelő munkavégzésre irányuló jogviszonyban áll,
 - f) azon – az eljárásba a 25. § (4) bekezdése alapján még be nem jelentkezett – hitelezőknek szóló felhívást, akiknek pénzbeli vagy pénzben kifejezett követelésének esedékessége már lejárt vagy a bírósági adósságrendezés elrendelését követő öt éven belül jár le, a következőkre:
   - fa) az adós hitelezői a kamatokkal, egyéb járulékokkal együtt számított, 50 000 forintot meghaladó összegű követeléseiket és azok biztosítékait – az azok fennállását igazoló okiratok egyidejű benyújtásával – a hirdetmény közzétételétől számított 30 napon belül írásban jelentsék be a családi vagyonfelügyelőnél,
   - fb) ha a követelés több részletben áll fenn vagy azt részletekben kell teljesíteni, a részletek összegét és a részletfizetés gyakoriságát is be kell jelenteni,
@@ -1641,7 +1641,7 @@ hívhatja le.
 
 (2) Ha a családi vagyonfelügyelő az őt intézkedés megtételére utasító végzésnek nem tesz eleget, a bíróság a Családi Csődvédelmi Szolgálatot 30 000 forinttól 200 000 forintig terjedő pénzbírsággal sújtja, amely ismételten is kiszabható.
 
-(3) Ha a családi vagyonfelügyelő intézkedése súlyosan vagy ismételten sérti a jogszabályokat, veszélyezteti az adósságrendezési eljárás szabályszerű lefolytatását, a bíróság a területi Családi Csődvédelmi Szolgálatot új családi vagyonfelügyelő kijelölésére hívja fel.
+(3) Ha a családi vagyonfelügyelő intézkedése súlyosan vagy ismételten sérti a jogszabályokat, veszélyezteti az adósságrendezési eljárás szabályszerű lefolytatását, a bíróság a Családi Csődvédelmi Szolgálatot új családi vagyonfelügyelő kijelölésére hívja fel.
 
 #### 39. Fellebbezés
 
@@ -1741,7 +1741,7 @@ végzéssel szemben van helye.
 - f) az egyéb kötelezettnek az adósságrendezési eljárásban való részvételével összefüggő részletes szabályokat,
 - g) a bíróságon kívüli adósságrendezési eljárásban kötött megállapodásban, illetve a bírósági adósságrendezési egyezségben az adóst, adóstársat a jelzáloghitellel összefüggésben terhelő törlesztési részletek megfizetéséhez nyújtandó állami törlesztési támogatás feltételeit, a törlesztési támogatás megállapításával, folyósításával, felhasználásával és felhasználásának ellenőrzésével összefüggő szabályokat,
 - h) a Családi Csődvédelmi Szolgálat és a családi vagyonfelügyelő közreműködésének részletes feladatait a bíróságon kívüli adósságrendezési eljárásban,
-- i) a Családi Csődvédelmi Szolgálat és a családi vagyonfelügyelő részletes feladatait, ideértve az eljárásban részt vevő személyek, szervezetek közötti kapcsolattartás szabályait és az együttműködési megállapodások megkötésével, kötelező tartami elemeivel összefüggő szabályokat is,
+- i) a Családi Csődvédelmi Szolgálatként eljáró szervek kijelölését, a Családi Csődvédelmi Szolgálat és a családi vagyonfelügyelő részletes feladatait, az adósságrendezési eljárásban részt vevő személyek, szervezetek közötti kapcsolattartás szabályait és az együttműködési megállapodások megkötésével, kötelező tartalmi elemeivel összefüggő szabályokat,
 - j) a Családi Csődvédelmi Szolgálatnál a családi vagyonfelügyelők feletti szakmai felügyelettel összefüggő szabályokat.
 
 (2) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben meghatározza

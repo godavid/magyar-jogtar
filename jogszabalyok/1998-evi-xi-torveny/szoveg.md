@@ -151,7 +151,7 @@ az ügyvédekről
 
 (3) A bizalmi szolgáltató értesíti a területi ügyvédi kamarát a tanúsítvány kibocsátásáról.
 
-(4) Az ügyvéd az elektronikus aláírásról szóló 2001. évi XXXV. törvény 13. §-a szerinti tájékoztatási kötelezettségének teljesítéséről a tájékoztatással egyidejűleg értesíti a területi ügyvédi kamarát is.
+(4) Az ügyvéd az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) 85. § (1) bekezdése és 97. § (4) bekezdése szerinti tájékoztatási kötelezettségének teljesítéséről a tájékoztatással egyidejűleg értesíti a területi ügyvédi kamarát is.
 
 (5) Az ügyvéd nem használhatja az elektronikus aláírást, ha
 
@@ -164,7 +164,7 @@ az ügyvédekről
 
 (7) A bizalmi szolgáltató a tanúsítvány érvényességét a területi ügyvédi kamara megkeresésére haladéktalanul felfüggeszti, illetve a tanúsítványt visszavonja.
 
-12/C. § A Magyar Ügyvédi Kamara és a kamara az alapszabályában vagy kamarai szabályzatában közigazgatási hatósági ügynek nem minősülő eljárásaiban is lehetővé teheti a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti elektronikus kapcsolattartás szabályainak alkalmazását. A Magyar Ügyvédi Kamara és a kamara a közigazgatási hatósági eljárás általános szabályairól szóló törvény alapján szabályozott elektronikus ügyintézési szolgáltatásokat vehet igénybe.
+12/C. § A Magyar Ügyvédi Kamara és a kamara az alapszabályában vagy kamarai szabályzatában meghatározhatja azokat az ügyeket, amelyek intézése során akkor is az E-ügyintézési tv. elektronikus ügyintézéssel kapcsolatos rendelkezéseinek alkalmazásával jár el, ha az ügyfél a kamara tagja, nyilvántartottja vagy alkalmazottja, és az eljárás nem minősül a közigazgatási hatósági ügynek.
 
 ## MÁSODIK RÉSZ — AZ ÜGYVÉDI KAMARAI TAGSÁG
 
@@ -206,14 +206,14 @@ az ügyvédekről
 
 (7) A (3) bekezdés d) pontjában foglalt joggyakorlatok időtartamát együttesen kell figyelembe venni.
 
-13/A. § (1) A kamarai tagfelvétel iránti kérelem benyújtásával egyidejűleg a kérelmező
+13/A. § (1) Ha a kamarai tagfelvétel iránti kérelem benyújtásával a kérelmező nem igazolja,
 
-- a) igazolja a kamarai felvételhez szükséges adatokat és tényeket, továbbá
-- b) hatósági bizonyítvánnyal igazolja, hogy a 13. § (4) bekezdés b) és c) pontjában, valamint a 14. § (1) bekezdésében meghatározott körülmény vele szemben nem áll fenn, vagy kéri, hogy e tények igazolására szolgáló adatokat a bűnügyi nyilvántartó szerv a kamara részére – annak a kamarai tagfelvétel iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa.
+- a) a jogi végzettségét, azt a kamara a felsőoktatási információs rendszer oklevél-nyilvántartásából,
+- b) a magyar jogi szakvizsga letételét, azt a kamara az igazságügyért felelős miniszter által vezetett nyilvántartásból,
+- c) az ügyvédi, ügyvédjelölti, alkalmazott ügyvédi gyakorlatot, azt a kamara a területi ügyvédi kamarák által vezetett nyilvántartásokból,
+- d) hatósági bizonyítvánnyal, hogy a 13. § (4) bekezdés b) és c) pontjában, valamint a 14. § (1) bekezdésében meghatározott körülmény vele szemben nem áll fenn, a kamara a bűnügyi nyilvántartó rendszerből adatot igényel.
 
-(2) Az (1) bekezdés b) pontjában meghatározott adatigénylés kizárólag azon adatra irányulhat, hogy a kérelmezővel szemben a 13. § (4) bekezdés b) és c) pontjában, valamint a 14. § (1) bekezdésben meghatározott körülmény fennáll-e.
-
-(3) Ha a kérelmező az (1) bekezdés b) pontjában meghatározott módok valamelyikével nem igazolja, hogy vele szemben a 13. § (4) bekezdés b) és c) pontjában, valamint a 14. § (1) bekezdésében meghatározott körülmény nem áll fenn, a kamarába nem vehető fel.
+(2) Az (1) bekezdés d) pontjában meghatározott adatigénylés kizárólag azon adatra irányulhat, hogy a kérelmezővel szemben a 13. § (4) bekezdés b) és c) pontjában, valamint a 14. § (1) bekezdésben meghatározott körülmény fennáll-e.
 
 ### A felvétel iránti eljárás felfüggesztése
 
@@ -1700,7 +1700,8 @@ szerint illetékes kamaránál kell előterjeszteni.
 - d) elektronikus elérhetősége (elektronikus levélcím, honlap),
 - e) irodavezető neve,
 - f) tagjainak neve,
-- g) tagjainak lakcíme.
+- g) tagjainak lakcíme,
+- h) az ügyvédi irodának az E-ügyintézési tv. szerinti hivatalos elérhetőségét.
 
 (3a) A (3) bekezdés szerinti nyilvántartás – a (3) bekezdés c)–g) pontja kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
@@ -1725,6 +1726,10 @@ szerint illetékes kamaránál kell előterjeszteni.
 (9) A területi kamara az ügyvédi irodának a (3) bekezdés a)–f) pontjában, valamint a (8) bekezdés d)–g) pontjában foglalt adatait a honlapján közzéteszi.
 
 (10) A Magyar Ügyvédi Kamara az (1), (2) és (3) bekezdésben felsorolt adatokról központi nyilvántartást vezet.
+
+(11) A kamara a (3) bekezdés h) pontja szerinti adatot az E-ügyintézési tv. szerinti rendelkezési nyilvántartásból átveszi, ha azt az ügyvédi iroda oda jelentette be.
+
+(12) Ha az ügyvédi iroda a (3) bekezdés h) pontja szerinti adatot a kamara felé jelentette be, a kamara azt a (11) bekezdés szerinti nyilvántartásnak haladéktalanul átadja.
 
 117. § A kamara, a Magyar Ügyvédi Kamara szerveinek ülésén – tagjain kívül – a kamarai szerv elnöke által meghívottak és azok vehetnek részt, akiket az alapszabály felsorol.
 
@@ -1908,6 +1913,8 @@ kell érteni.
 (4) E törvénynek a Módtv.-vel megállapított 68. § (8) bekezdése, valamint 116. § (9) bekezdése szerinti, az ügyvédi iroda számviteli beszámolójának beküldésére és közzétételére vonatkozó kötelezettséget először a 2014. évi számviteli beszámoló tekintetében kell teljesíteni.
 
 (5) A Magyar Ügyvédi Kamara és a területi kamarák a Módtv.-vel megállapított 25/A. § (1) bekezdésben, 25/B. §-ban, valamint 30/A. §-ban meghatározott feladataik ellátására gazdasági társaságot hozhatnak létre; a gazdasági társaság tagja kizárólag területi kamara, illetve a Magyar Ügyvédi Kamara lehet.
+
+130/C. § A 116. § (3) bekezdés h) pontja szerinti adat nyilvántartása 2018. január 1-jétől kötelező, ezt megelőzően az ügyvédi iroda kérheti az adat nyilvántartásba vételét.
 
 131. § (1) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendelettel szabályozza
 

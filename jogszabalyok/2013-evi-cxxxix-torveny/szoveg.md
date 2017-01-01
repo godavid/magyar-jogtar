@@ -780,7 +780,7 @@ folytat le.
 
 (1a) Az MNB a hatósági eljárása során a hiánypótlás teljesítésére negyvenöt napnál hosszabb határidőt is megállapíthat.
 
-(2) Az MNB hatósági eljárása során a Ket. írásbelinek minősülő elektronikus kapcsolattartásra vonatkozó szabályaitól eltérően is meghatározhatja az adatszolgáltatási kötelezettség teljesítésének módját.
+(2)
 
 (3) Az MNB eljárásaiban – e törvény eltérő rendelkezése hiányában – az ügyintézési határidő harminc nap.
 
@@ -888,21 +888,11 @@ folytat le.
 
 #### 25. Elektronikus kapcsolattartás
 
-58. § (1) Az 1. melléklet I. pontja szerinti eljárásokban a 39. §-ban meghatározott törvények hatálya alá tartozó szervezet és az MNB közötti kapcsolattartás az MNB által működtetett elektronikus kézbesítési felületen, az eljárásban érintett szervezet részére fenntartott kézbesítési tárhelyen keresztül elektronikus úton történik.
+58. § (1) Az 1. melléklet I. pontja szerinti eljárásokban a 39. §-ban meghatározott törvények hatálya alá tartozó szervezet és az MNB közötti kapcsolattartás elektronikus úton történik.
 
-(2) Az 1. melléklet II. pontjában meghatározott eljárásokban a 39. §-ban meghatározott törvények hatálya alá tartozó szervezet és az MNB közötti kapcsolattartás az MNB által működtetett elektronikus kézbesítési felületen, az eljárásban érintett szervezet részére fenntartott kézbesítési tárhelyen keresztül elektronikus úton is történhet.
+(2) Az 1. melléklet II. pontjában meghatározott eljárásokban a 39. §-ban meghatározott törvények hatálya alá tartozó szervezet és az MNB közötti kapcsolattartás elektronikus úton is történhet.
 
-(3) Az MNB az általa a kézbesítési tárhelyen elhelyezett iratról az eljárásban érintett szervezet részére az általa megjelölt legfeljebb öt elektronikus levélcímre értesítést küld. Az értesítéshez joghatás nem fűződik.
-
-(4) Ha az irat kézbesítési tárhelyen történt elhelyezését követően a címzett az iratot nyolc napon belül nem veszi át, az iratot a kézbesítési tárhelyen történt elhelyezését követő kilencedik napon kézbesítettnek kell tekinteni. Ha a kézbesítési helyen elhelyezett irat a Tpt. 32. §-a szerinti tájékoztató, alaptájékoztató kiegészítésére, illetve a forgalomba-hozatali eljárás felfüggesztésére vonatkozik vagy az 1. melléklet II. pontjában meghatározott eljárások esetén a kézbesítés címzettje az 1. melléklet II. pont a), c), d), g)–k) és m) pontjában meghatározott szervezet, úgy azt az elhelyezést követő munkanapon kézbesítettnek kell tekinteni.
-
-(5) A kézbesítés megtörténtéről és a kézbesítési vélelem beállásáról az MNB automatikusan létrehozott elektronikus visszaigazolásban (elektronikus tértivevény) értesül.
-
-(6) Az MNB az iratot a kézbesítési tárhelyen az ahhoz kapcsolódó kérelem alapján igénybe vehető rendes és rendkívüli jogorvoslati lehetőségekre nyitva álló határidő utolsó napjáig megőrzi (a továbbiakban: megőrzési idő). Az MNB a megőrzési idő utolsó napján a kézbesítési tárhelyről eltávolítja az iratot, amelynek újbóli elektronikus megküldését az elektronikus kapcsolattartásra kötelezett kérheti.
-
-(7) Ha az MNB kézbesítési tárhelye bármely okból munkanapon legalább négy órán keresztül működésképtelen, ez a nap a (4) bekezdés szerinti határidőbe nem számít be. Az MNB honlapján közzéteszi azokat a napokat, amelyek a határidőbe nem számítanak be.
-
-(8) Az MNB az e törvényben meghatározott elektronikus kapcsolattartás esetében biztonságos kézbesítési szolgáltatást végez.
+(3) Az (1) és (2) bekezdésben meghatározott ügyekben az elektronikus kapcsolattartásra az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényt kell alkalmazni.
 
 ### VII. Fejezet — EGYES HATÓSÁGI ELJÁRÁSOK
 
@@ -1773,10 +1763,12 @@ terjedhet.
 
 (6) A Pénzügyi Békéltető Testület évente két alkalommal, július, illetve augusztus, valamint december hónapban 8–15 munkanap eljárási szünetet tart, amely időtartam az eljárási határidőkbe nem számítható be. Az eljárási szünet pontos idejét a Pénzügyi Békéltető Testület elnöke évente határozza meg és a Pénzügyi Békéltető Testület honlapján közzéteszi.
 
-113. § Egyezség hiányában a tanács az ügy érdemében
+113. § (1) Egyezség hiányában a tanács az ügy érdemében
 
 - a) kötelezést tartalmazó határozatot hoz, ha a kérelem megalapozott, és a 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet általános alávetési nyilatkozatában, kereskedelmi kommunikációjában közölt vagy az eljárás kezdetekor vagy legkésőbb a döntés meghozataláig tett nyilatkozatában a Pénzügyi Békéltető Testület döntését magára nézve kötelezőként elismerte, vagy
 - b) ajánlást tesz, ha a kérelem megalapozott, azonban a 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet az eljárás kezdetekor úgy nyilatkozott, hogy a tanács döntését kötelezésként nem ismeri el, illetve ha a tanács döntésének elismeréséről egyáltalán nem nyilatkozott.
+
+(2) A tanács egyezség hiányában akkor is kötelezést tartalmazó határozatot hozhat, ha a 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet alávetési nyilatkozatot nem tett, de a kérelem megalapozott és a fogyasztó érvényesíteni kívánt igénye – sem a kérelemben, sem a kötelezést tartalmazó határozat meghozatalakor – nem haladja meg az egymillió forintot.
 
 114. § (1) A kötelezést tartalmazó határozatnak, illetve az ajánlásnak ki kell terjednie a kérelemben előterjesztett valamennyi indítványra és a döntés alapjául szolgáló indokokra.
 
@@ -1830,9 +1822,49 @@ terjedhet.
 
 (3) A fogyasztó és a 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet a határozattal jóváhagyott egyezség és a kötelezést tartalmazó határozat végrehajtásáról vagy annak elmaradásáról, illetve az ajánlásban foglaltak követéséről vagy a követésének elmaradásáról hatvan napon belül írásban köteles értesíteni a Pénzügyi Békéltető Testületet.
 
-#### 121. §
+121. § (1) A 113. § (2) bekezdése szerinti eljárásban meghozott kötelezést tartalmazó határozat ellen a 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet a kézbesítéstől számított tizenöt napon belül ellentmondással élhet.
 
-#### 122. §
+(2) A Pénzügyi Békéltető Testület az ellentmondást elutasítja, ha
+
+- a) elkésett,
+- b) nem az ellentmondás előterjesztésére jogosulttól származik.
+
+(3) Az ellentmondásra nyitva álló határidő elmulasztása esetén a mulasztás következményei igazolással orvosolhatók.
+
+(4) Az igazolási kérelmet tizenöt napon belül lehet előterjeszteni. Ezt a határidőt az ellentmondásra nyitva álló határidő utolsó napjától kell számítani. Ha azonban a mulasztás csak később jutott a fél tudomására, vagy az akadály csak később szűnt meg, az igazolási kérelem határideje a tudomásszerzéssel, illetőleg az akadály megszűnésével veszi kezdetét. A mulasztástól számított egy hónap eltelte után igazolási kérelmet előterjeszteni nem lehet.
+
+(5) Az igazolási kérelemben elő kell adni a mulasztás okát és azokat a körülményeket, amelyek a mulasztás vétlenségét valószínűvé teszik.
+
+(6) Az igazolási kérelem tárgyában a Pénzügyi Békéltető Testület dönt.
+
+(7) Az igazolási kérelemnek a végrehajtásra halasztó hatálya van.
+
+(8) Az ellentmondást – igazolási kérelem benyújtása esetén az igazolási kérelmet és egyben az ellentmondást – elutasító határozat ellen az ellentmondást előterjesztő fél fellebbezhet. A fellebbezést a fogyasztó belföldi lakóhelye, belföldi lakóhely hiányában a belföldi tartózkodási helye szerinti törvényszék a Pp. végzések elleni fellebbezésre vonatkozó szabályai szerint nemperes eljárásban bírálja el. Ha a fogyasztó belföldi lakóhellyel, tartózkodási hellyel nem rendelkezik, a törvényszék illetékességét az alperes lakóhelye, ennek hiányában tartózkodási helye, vagy – ha az alperes nem természetes személy – az alperes székhelye alapítja meg.
+
+122. § (1) A kellő időben előterjesztett ellentmondás folytán az eljárás perré alakul át.
+
+(2) Ha a Pénzügyi Békéltető Testület az ellentmondást nem utasítja el, az eljárásában benyújtott iratokat, a határozatot, valamint az ellentmondást az ellentmondás benyújtásától számított tizenöt napon belül megküldi a (3) bekezdés szerinti bíróságnak.
+
+(3) A perre a fogyasztó belföldi lakóhelye, belföldi lakóhely hiányában a belföldi tartózkodási helye szerinti bíróság illetékes. Ha a fogyasztó belföldi lakóhellyel, tartózkodási hellyel nem rendelkezik, a bíróság illetékességét az alperes lakóhelye, ennek hiányában tartózkodási helye, vagy – ha az alperes nem természetes személy – az alperes székhelye alapítja meg.
+
+(4) Ha a 113. § (2) bekezdése szerinti eljárásban meghozott kötelezést tartalmazó határozatot határidőn belül ellentmondással megtámadják, a határozat hatályát veszti, feltéve, hogy az ellentmondást a Pénzügyi Békéltető Testület nem utasítja el.
+
+(5) Ha a Pénzügyi Békéltető Testület az ellentmondást nem utasítja el, az ellentmondást nyolc napon belül kézbesíti a fogyasztónak, és egyidejűleg felhívja a fogyasztót, hogy a felhívás kézbesítésétől számított tizenöt napon belül a bíróságnak benyújtott beadványon
+
+- a) terjesszen elő a bíróság döntésére irányuló határozott kérelmet (kereseti kérelem),
+- b) tüntesse fel az érvényesíteni kívánt jogot, az annak alapjául szolgáló tényeknek és bizonyítékoknak az előadásával,
+- c) a peres eljárás illetékét rója le.
+
+(6) A Pénzügyi Békéltető Testület a felhívást azzal a figyelmeztetéssel látja el, hogy
+
+- a) az abban foglaltak elmulasztása esetében a bíróság a pert megszünteti, valamint
+- b) ha a kérelmező a Pp. alapján elektronikus kapcsolattartásra köteles vagy a Pp. alapján az elektronikus kapcsolattartást választja, az ügyre vonatkozó részletes tényállításait, bizonyítékait, és minden további beadványát és okirati bizonyítékát kizárólag elektronikus úton nyújthatja be, továbbá az illetéket elektronikusan vagy a Magyar Államkincstár illeték-bevételi számlájára köteles megfizetni.
+
+(7) Ha a fogyasztó a felhívásban foglaltaknak nem tesz eleget, a bíróság a pert megszünteti.
+
+(8) A per befejezését követően a bíróság a pert befejező jogerős határozatának egy kiadmányát a Pénzügyi Békéltető Testület által megküldött iratokkal együtt megküldi a Pénzügyi Békéltető Testületnek.
+
+(9) A bíróság eljárására egyebekben a Pp. XIX. fejezetének rendelkezései – a pert megelőző eljárás sajátosságaiból eredő eltérésekkel – megfelelően irányadók.
 
 123. § A Pénzügyi Békéltető Testület döntéseihez az adott ügyben független, jogi egyetemi diplomával és szakvizsgával rendelkező jogász vagy közgazdasági egyetemi diplomával rendelkező közgazdász állásfoglalását szerezheti be, az eljárására vonatkozó részletes szabályokat az e törvény keretei között kialakított működési rendje tartalmazza.
 
@@ -2042,7 +2074,7 @@ terjedhet.
 - s) az egyéb rendszerszinten jelentős intézmények és a globálisan rendszerszinten jelentős intézmény nevét és azt, hogy a globálisan rendszerszinten jelentős intézmények melyik alkategóriába tartoznak,
 - t) a 35/A. § (1) bekezdésében, a Hpt. 92. § (1) bekezdésében és a Bszt. 110/G. § (1) bekezdésében meghatározott felülvizsgálatok eredményét,
 - u) a Bszt. 110/A. § (4) bekezdése és 110/B. § (8) bekezdése szerinti mentesítést,
-- v) a Bit. 279. § (5) bekezdésében és a 284. § (3) bekezdésében meghatározott tájékoztatás megtagadásának, továbbá a Bit. 289. § (3) és (4) bekezdésében meghatározott intézkedéseknek a számát és típusát.
+- v) a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény (a továbbiakban: Bit.) 279. § (5) bekezdésében és a 284. § (3) bekezdésében meghatározott tájékoztatás megtagadásának, továbbá a Bit. 289. § (3) és (4) bekezdésében meghatározott intézkedéseknek a számát és típusát.
 
 (4) Az MNB tájékoztatja
 
@@ -2081,16 +2113,16 @@ terjedhet.
   - bw) ha a Pkt. 9. §-a (3), (7) és (11) bekezdését alkalmazza valamely vegyes pénzügyi holding társaság esetében,
   - bx) a Hpt. 112. § (5) bekezdése és a Bszt. 24/D. § (5) bekezdése szerinti elemzésről,
   - by) Bszt. 110/A. § (4) bekezdése és a 110/B. § (8) bekezdése szerinti mentesítésről,
-  - bz) az illetékes szanálási hatóságokkal való egyeztetés után a szavatoló tőkére, a leírható és átalakítható kötelezettségekre vonatkozó Szantv. 65. § (3) bekezdésében meghatározott követelmények alkalmazásáról, bzs) a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény (a továbbiakban: Bit.) 327. § (9) bekezdése szerinti határozatokról.
+  - bz) az illetékes szanálási hatóságokkal való egyeztetés után a szavatoló tőkére, a leírható és átalakítható kötelezettségekre vonatkozó Szantv. 65. § (3) bekezdésében meghatározott követelmények alkalmazásáról, bzs) a biztosítók és a viszontbiztosítók csoportfelügyeletével kapcsolatos részletes szabályokról szóló kormányrendelet szerinti határozatokról;
 - c) az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóságot
   - ca) a Pmt. 12. § (2) bekezdése, 18. § (7) bekezdése, 27. § (6) bekezdése és 30. § (3) bekezdése alapján a harmadik országok vonatkozásában rendelkezésére álló információkról,
   - cb) a biztosító, a viszontbiztosító és a foglalkoztatói nyugdíjintézmény tevékenységi engedélyének kiadásáról és visszavonásáról,
   - cc) – az érintett csoport szerkezetének és a csoportfelügyelet terjedelmének egyidejű bemutatásával – az olyan biztosító vagy viszontbiztosító számára kiadott tevékenységi engedélyről és annak visszavonásáról, amely közvetlenül vagy közvetve valamely harmadik országbeli vállalkozás leányvállalata,
   - cd) harmadik országban bejegyzett vállalkozás által Magyarországon bejegyzett biztosítóban vagy viszontbiztosítóban történő olyan részesedésszerzéséről, amelynek eredményeképpen a Magyarországon bejegyzett biztosító vagy viszontbiztosító harmadik országbeli vállalkozás leányvállalatává válik, illetve az ilyen részesedés megszűnéséről,
   - ce) azokról az általános problémákról, amelyeket a Magyarországon működő biztosítók vagy viszontbiztosítók tapasztaltak harmadik országba történő letelepedésük és működésük vagy tevékenységük harmadik országban történő folytatása során,
-  - cf) a Bit. 327. § (9) bekezdése, 337. § (7) bekezdése, 342. § (4)–(5) bekezdése, 343. § (9) bekezdése, 344. § (11) bekezdése, 351. § (5) bekezdése és 363. § (3) bekezdése szerinti határozatról,
-  - cg) a Bit. 310. § (4)–(5) bekezdése szerinti vizsgálatról és az annak alapján hozott határozatról,
-  - ch) a Bit. 335. § (8)–(9) bekezdése szerinti vizsgálatról és az annak alapján hozott határozatról,
+  - cf) a Bit. 279. § (5) bekezdésében és 284. § (3) bekezdésében meghatározott tájékoztatás megtagadásának, továbbá a Bit. 289. § (3) és (4) bekezdésében meghatározott intézkedéseknek a számáról és típusáról,
+  - cg) a Bit. 310. § (4) és (5) bekezdése szerinti vizsgálatról és az annak alapján hozott határozatról;
+  - ch) a biztosítók és a viszontbiztosítók csoportfelügyeletével kapcsolatos részletes szabályokról szóló kormányrendelet szerinti információkról, vizsgálatokról és határozatokról;
   - ci)–cj)
   - ck)
 - d) az Európai Bankbizottságot a harmadik országban székhellyel rendelkező hitelintézet magyarországi fióktelepére kiadott tevékenységi engedélyről,
@@ -2136,7 +2168,7 @@ terjedhet.
 - c) mindazon vállalkozások csoportszintű kockázatelemzésén alapuló felügyeleti felülvizsgálati programok kialakítását, amelyekre az összevont alapú felügyelet együttesen kiterjed;
 - d) a felügyeleti munka hatékonyságának növelését;
 - e) a tagállamok esetleges eltérő szabályozására is figyelemmel, a prudenciális követelmények következetes alkalmazását mindazon vállalkozások tekintetében, amelyekre az összevont alapú felügyelet együttesen kiterjed;
-- f) a Hpt. 176. § (4) bekezdése szerinti együttműködést, valamint a Bit. 351. § (1) bekezdése szerinti feladatok ellátását biztosító együttműködést.
+- f) a Hpt. 176. § (4) bekezdése szerinti együttműködést, valamint a biztosítók és a viszontbiztosítók csoportfelügyeletével kapcsolatos részletes szabályokról szóló kormányrendelet szerinti feladatok ellátását biztosító együttműködést.
 
 (3) A felügyeleti kollégium az MNB és a többi érintett tagállam hatáskörrel rendelkező pénzügyi felügyeleti hatóságainak konzultációját követően, az MNB által kidolgozott írásbeli megállapodás alapján jön létre és működik. Az MNB a felügyeleti kollégiumban való részvételre az érintett EU-szintű hitelintézeti anyavállalat, EU-szintű befektetési vállalkozás anyavállalat, EU-szintű biztosítói anyavállalat, EU-szintű viszontbiztosítói anyavállalat, EU-szintű biztosítói holding társaság anyavállalat, EU-szintű pénzügyi holding társaság anyavállalat, EU-szintű vegyes tevékenységű biztosítói holding társaság anyavállalat vagy az EU-szintű vegyes pénzügyi holding társaság anyavállalat leányvállalatát felügyelő hatóságokat, az érintett – külön törvényben meghatározott – rendszerszinten jelentős fióktelepeket felügyelő hatáskörrel rendelkező hatóságokat, szükség szerint az érintett központi bankokat és az összevont alapú vagy pénzügyi konglomerátum szintű kiegészítő felügyeléshez kapcsolódóan adott esetben a harmadik érintett ország hatáskörrel rendelkező hatóságait kérheti fel.
 
@@ -2768,6 +2800,8 @@ azzal, hogy 2019. január 1-jétől az anticiklikus tőkepufferrátát a 33. §-
 183/F. § (1) E törvénynek az egyes törvényeknek a pénzügyi közvetítőrendszer fejlesztésének előmozdítása érdekében történő módosításáról szóló 2015. évi LXXXV. törvénnyel (a továbbiakban: Módtv.) megállapított 26. § (3) és (4) bekezdését e rendelkezések hatálybalépését követően indított hatósági eljárásokban kell alkalmazni.
 
 (2) A Módtv.-vel megállapított 64. § (2) bekezdését az MNB az átfogó vizsgálatainak az időbeli ütemezése során a 2016. január 1-től alkalmazza. Ezen időpontot megelőzően az e törvény Módtv. hatálybalépését megelőző napján hatályos 64. § (3) bekezdését kell alkalmazni.
+
+(3) Ha a Magyar Nemzeti Bank az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
 183/G. § (1) A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény módosításáról szóló 2016. évi XXXI. törvénnyel (a továbbiakban: Módtv.2.) megállapított 49. § (1), (1a), (4)–(7) bekezdését, valamint 60. § (1a) bekezdését a Módtv.2. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 

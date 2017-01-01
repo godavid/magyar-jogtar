@@ -299,7 +299,7 @@ díjmentesen kell szolgáltatni, függetlenül az egyes nyilvántartásokra vona
 
 (3) A jogügylet jóváhagyása esetén a mezőgazdasági igazgatási szerv a jogügyletet tartalmazó szerződés, illetve okirat két eredeti példányát látja el jóváhagyó záradékkal és azt a szerző fél részére a jóváhagyását tartalmazó határozatával egyidejűleg küldi meg. A jogügylet jóváhagyása esetén a két eredeti példány közül az egyik a biztonsági okmányon szerkesztett szerződés, illetve okirat lehet.
 
-38. § A mezőgazdasági igazgatási szerv jogerős határozatával lezárt ügyben nem nyújtható be újrafelvételi és felügyeleti eljárás iránti kérelem.
+38. § A mezőgazdasági igazgatási szerv elsőfokú határozatával szemben nincs helye fellebbezésnek, felügyeleti jogkör gyakorlásának, továbbá nem nyújtható be újrafelvételi kérelem.
 
 39. § A mezőgazdasági igazgatási szerv határozatának bírósági felülvizsgálata során a Pp. XX. fejezetének rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy
 
@@ -479,7 +479,7 @@ kell érteni.
 
 63. § (1) A haszonbérlőt arra az évre, amelyben a mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló törvényben foglaltak szerinti elemi káresemény vagy időjárási és más természeti jellegű elháríthatatlan külső ok (vis maior) miatt legalább 30%-os mértékű hozamcsökkenést szenved, és ezt az agrárkár-megállapító szerv igazolja, legfeljebb a hozamérték-csökkenéssel arányos haszonbér-mérséklés illeti meg arra a földre vonatkozóan, amelyen a hozamérték-csökkenés bekövetkezett.
 
-(2) Eltérő megállapodás hiányában az (1) bekezdésben foglaltak szerinti kedvezmény csak azt a haszonbérlőt illeti meg, aki, illetve amely a haszonbérleti szerződés alapján legalább a helyben szokásos mértékű, de legalább a Nemzeti Földalapba tartozó földekre megkötött haszonbérleti szerződésekben meghatározott és a Nemzeti Földalapkezelő Szervezet honlapján közzétett, országosan egységesen alkalmazott összegű haszonbérleti díjat fizeti. Ha a szerződés alapján a haszonbérlő a haszonbért az 50. § (1) bekezdése szerinti módon természetben teljesíti, akkor a haszonbérként nyújtott termék értékeként a földügyért felelős miniszter által vezetett minisztérium honlapján közzétett közleményben meghatározott referenciaárat, ennek hiányában a természetbeni szolgáltatás helyben kialakult piaci értékét kell figyelembe venni.
+(2) Eltérő megállapodás hiányában az (1) bekezdésben foglaltak szerinti kedvezmény csak azt a haszonbérlőt illeti meg, aki, illetve amely a haszonbérleti szerződés alapján legalább a helyben szokásos mértékű, de legalább a Nemzeti Földalapba tartozó földekre megkötött haszonbérleti szerződésekben meghatározott és a Nemzeti Földalap kezelésére kijelölt szerv honlapján közzétett, országosan egységesen alkalmazott összegű haszonbérleti díjat fizeti. Ha a szerződés alapján a haszonbérlő a haszonbért az 50. § (1) bekezdése szerinti módon természetben teljesíti, akkor a haszonbérként nyújtott termék értékeként a földügyért felelős miniszter által vezetett minisztérium honlapján közzétett közleményben meghatározott referenciaárat, ennek hiányában a természetbeni szolgáltatás helyben kialakult piaci értékét kell figyelembe venni.
 
 (3) A haszonbérlő a haszonbérfizetési kedvezmény igénybevételét és mértékét a mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló törvényben meghatározott, a hozamcsökkenéssel érintett földre vonatkozóan kiállított hatósági döntés kézhezvételét követő 8 napon belül, írásban köteles közölni a haszonbérbeadóval.
 
@@ -708,7 +708,7 @@ terjedő időtartam.
 
 #### 82. §
 
-83. § A földhasználati szerződés jóváhagyása esetén a mezőgazdasági igazgatási szerv a szerződés két eredeti példányát látja el jóváhagyó záradékkal és azt a szerző fél részére a jóváhagyását tartalmazó határozatával egyidejűleg küldi meg.
+83. § A mezőgazdasági igazgatási szerv a földhasználati szerződés jóváhagyása esetén a szerződés két eredeti példányát látja el jóváhagyó záradékkal, amelyből az egyik példányt – a jóváhagyását tartalmazó határozatával egyidejűleg – a szerző félnek, a másik példányt a határozat jogerőre emelkedését követően – az e törvény végrehajtására kiadott rendelet szerinti eljárás lefolytatása érdekében – az ingatlanügyi hatóságnak küldi meg.
 
 84. § A földhasználati szerződés hatósági jóváhagyása iránti eljárásban nem kell alkalmazni a 27. § (4) bekezdését, a 35. §-t és a 37. § (1) bekezdését.
 
@@ -823,7 +823,7 @@ kezeli a mezőgazdasági igazgatási szerv.
 
 (6) A földhasználó által bejelentett azonosító adatokat az ingatlanügyi hatóság a személyiadat- és lakcímnyilvántartás, illetve a cégnyilvántartás adataiból ellenőrizheti.
 
-95. § (1) A földhasználó a használatot annak megkezdésétől számított 30 napon belül köteles az ingatlanügyi hatósághoz nyilvántartásbavétel céljából bejelenteni. Ha a használat részesművelési szerződés alapján jött létre, a bejelentési kötelezettség a részesművelési szerződésben meghatározott, a szerződő felek közül kijelölt képviselőt terheli.
+95. § (1) A földhasználó a használatot annak megkezdésétől számított 30 napon belül köteles az ingatlanügyi hatósághoz nyilvántartásba vétel céljából bejelenteni, kivéve, ha a földhasználati nyilvántartásba vételi eljárás a 95/A. § (1) bekezdése szerint hivatalból indul meg. Ha a használat részesművelési szerződés alapján jött létre, a bejelentési kötelezettség a részesművelési szerződésben meghatározott, a szerződő felek közül kijelölt képviselőt terheli.
 
 (2) Az (1) bekezdésben meghatározott földhasználati bejelentést az e törvény végrehajtására kiadott rendeletben meghatározott formanyomtatványon (a továbbiakban: bejelentési adatlap) kell teljesíteni, amelyhez a (3) bekezdésben meghatározott okiratot kell csatolni, kivéve, ha a tulajdonos vagy a tulajdonosi joggyakorló szervezet, illetve az ingatlan-nyilvántartásba bejegyzett haszonélvezet vagy vagyonkezelői jog fennállása esetén a haszonélvező vagy a vagyonkezelő a földhasználó.
 
@@ -839,9 +839,9 @@ kezeli a mezőgazdasági igazgatási szerv.
 
 (5a) Az (5) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a földhasználó kéri – az (5) bekezdés szerinti határidőben értesíti az ingatlanügyi hatóságot.
 
-(6) A földhasználati nyilvántartási eljárás a (2) és az (5) bekezdésben meghatározott földhasználati bejelentési és a változás-bejelentési (a továbbiakban együtt: bejelentési) adatlapnak, valamint a (3) bekezdésben meghatározott okiratoknak az ingatlanügyi hatósághoz való benyújtásával indul meg.
+(6) A földhasználati nyilvántartási eljárás – a 95/A. § (1) bekezdése szerinti eljárás kivételével – a (2) és (5) bekezdésben meghatározott földhasználati bejelentési és a változás-bejelentési (a továbbiakban együtt: bejelentési) adatlapnak, valamint a (3) bekezdésben meghatározott okiratoknak az ingatlanügyi hatósághoz való benyújtásával indul meg.
 
-(7) A Ket.-ben meghatározott közreműködő hatóság az eljárásban nem vehet részt.
+(7)
 
 (8) Az ingatlanügyi hatóság a bejelentést elmulasztó földhasználót legfeljebb 30 napos határidő megállapításával írásban felszólítja a bejelentési kötelezettsége teljesítésére. Ha a földhasználó határidőben nem tesz eleget a felszólításnak, az ingatlanügyi hatóság földhasználati bírsággal sújtja, aminek mértéke a föld ingatlan-nyilvántartás szerinti aranykorona (a továbbiakban: AK) értékének ezerszerese, azzal, hogy nem lehet kevesebb a behajtható köztartozás legkisebb összegénél.
 
@@ -856,6 +856,10 @@ kezeli a mezőgazdasági igazgatási szerv.
 (13) Ha a közös tulajdonban álló föld esetében a 76. §-ban meghatározott sorsolás útján kerül megállapításra a használati rend, földhasználati bejelentés hiányában a sorsolásról szóló jegyzőkönyvben szereplő tulajdonostársat vagy tulajdonostársakat – ideértve a haszonélvezőt is – kell földhasználónak tekinteni.
 
 (14) A (11)–(13) bekezdésben meghatározottak alapján nincs helye a földhasználat hivatalból történő bejegyzésének.
+
+95/A. § (1) A 95. § (1) bekezdésben foglaltaktól eltérően a hatósági jóváhagyáshoz kötött szerződésen alapuló használat esetén az ingatlanügyi hatóság a hozzá érkező, jóváhagyási záradékkal ellátott szerződés alapján a földhasználat nyilvántartásba történő bejegyzése iránti eljárást hivatalból folytatja le.
+
+(2) Ha az (1) bekezdés szerinti eljárás eredményeként a földhasználat bejegyzése nem történik meg, úgy a földhasználónak a 95. § (1) bekezdése szerint bejelentést kell tennie.
 
 96. § A földhasználati nyilvántartási eljárás mentes az igazgatási szolgáltatási díjfizetési kötelezettség alól.
 
