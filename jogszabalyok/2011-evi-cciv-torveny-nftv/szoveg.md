@@ -2755,6 +2755,13 @@ e törvény szerint kell megállapítani a hallgatói juttatásokat.
 
 (21) A (17)–(19) bekezdés alapján létesített felsőoktatási intézmény tekintetében a konzisztórium alakuló üléséig a 13/A–13/D. §-t olyan módon kell alkalmazni, hogy a konzisztórium egyetértési jogosultságait a kancellári hatáskörben eljárni jogosult személy gyakorolja.
 
+(22) 2017. február 1-jétől
+
+- a) a Nyugat-magyarországi Egyetem Soproni Egyetem,
+- b) a Magyar Táncművészeti Főiskola Magyar Táncművészeti Egyetem
+
+megnevezéssel működik.
+
 116. § (1) E törvénynek – az egyes, a felsőoktatás szabályozására vonatkozó törvények módosításáról szóló 2015. évi CXXXI. törvénnyel megállapított – 9. § (3) bekezdésében foglalt feltételeket az 1. mellékletben meghatározott egyetemeknek 2017. szeptember 1-jéig kell teljesíteniük.
 
 (2) E törvénynek – az egyes, a felsőoktatás szabályozására vonatkozó törvények módosításáról szóló 2015. évi CXXXI. törvénnyel megállapított – 9. § (3a) bekezdésére tekintettel az oktatási hivatal 2017. szeptember 1-jéig jelentést készít az oktatásért felelős miniszter számára, hogy az 1. melléklet szerinti főiskolák közül melyek felelnek meg az alkalmazott tudományok egyetemére előírt feltételeknek.
