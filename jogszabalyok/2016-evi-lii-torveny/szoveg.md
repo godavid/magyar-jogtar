@@ -591,47 +591,25 @@ munkanapra emelkedik.
 
 38. § (1)
 
-(2) A Kttv. 1. § b) pontja helyébe a következő rendelkezés lép:
-
-(E törvény hatálya – nemzetközi jogi vagy uniós jogi kötelezettség teljesítése érdekében törvény eltérő rendelkezése hiányában –)
-
-„b) a kormányhivatal és a központi hivatal területi, helyi szerve, továbbá a Kormány által intézményfenntartásra kijelölt szerv,”
-
-(terjed ki.)
+(2)
 
 (3)
 
-(4) A Kttv. 6. § 17. pontja helyébe a következő rendelkezés lép:
-
-„17. közigazgatási szerv: az 1. §-ban és a 2. §-ban meghatározott szervek, valamint a fővárosi és megyei kormányhivatal;”
+(4)
 
 (5)–(10)
 
 39. § (1)
 
-(2) A Khtv. 19/A. § (2) bekezdésében az „a kormánytisztviselő, illetve állami tisztviselő” szövegrész helyébe az „az állami tisztviselő” szöveg lép.
+(2)
 
 (3) A Kttv.
 
 - a)
-- b) 2. §-ában a „fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának állami tisztviselője állami tisztviselői jogviszonyára” szövegrész helyébe a „fővárosi és megyei kormányhivatal állami tisztviselőjének állami tisztviselői jogviszonyára” szöveg,
-- c) 6. § 1a. pontjában a „fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalánál” szövegrész helyébe a „fővárosi és megyei kormányhivatalnál” szöveg,
+- b)–c)
 - d)–n)
 
-40. § (1) Hatályát veszti a Khtv.
-
-- a) 15. § (1) bekezdésében a „kormánytisztviselői és”,
-- b) 19/A. § (1) bekezdésében a „kormánytisztviselője és”
-
-szövegrész.
-
-(2) Hatályát veszti a Kttv.
-
-- a) 51. § (1) és (2) bekezdésében, (6) bekezdésében és (7) bekezdés a) pontjában az „a fővárosi és megyei kormányhivatalok közötti kirendelést és” szövegrész,
-- b) 51. § (5) bekezdésében a „fővárosi és megyei kormányhivatalok közötti kirendelés,” szövegrész,
-- c) 138. §-a.
-
-(3) Hatályukat vesztik a Kttv. 51. § (4) bekezdésében a „fővárosi és megyei kormányhivatalok közötti kirendelés,” szövegrészek.
+40. §
 
 ### 1. melléklet a 2016. évi LII. törvényhez
 

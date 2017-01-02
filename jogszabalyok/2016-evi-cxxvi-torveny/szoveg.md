@@ -10,40 +10,51 @@ az oktatás szabályozására vonatkozó egyes törvények módosításáról
 
 3. §
 
-4. § Az Nkt. 6. §-a a következő (4a) bekezdéssel egészül ki:
-
-„(4a) Új érettségi vizsgatárgyat, vagy az érettségi vizsgatárgy új vizsgaszintjének vizsgakövetelményeit felmenő rendszerben kell bevezetni, az érettségi vizsgatárgy vizsgakövetelményeinek érdemi megváltoztatására irányuló rendelkezést az érettségi vizsgára jelentkezés előtt legalább két évvel kell kiadni.”
+4. §
 
 5–22. §
 
 23. § Az Nkt.
 
 - 1.
-- 2.
-- 3. 21. § 3.1. (4a) bekezdésében „az állami intézményfenntartó központ” szövegrész helyébe az „a tankerületi központ”, 3.2.
-- 4.
-- 5. 30. § (5) bekezdés 5.1. a) pontjában a „fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal)” szövegrész helyébe a „köznevelési feladatot ellátó hatóság”, 5.2. b) pontjában a „járási hivatal” szövegrész helyébe a „köznevelési feladatot ellátó hatóság”,
-- 6–7.
+- 2. 15/A. § 2.1. (2) bekezdésében az „az állami intézményfenntartó központ” szövegrész helyébe az „az illetékes tankerületi központ”, 2.2. (3) bekezdésében az „Az illetékes tankerületi központ” szövegrész helyébe az „Az illetékes tankerületi központ – az oktatási központ egyetértésével –”,
+- 3. 21. § 3.1. 3.2. (9) bekezdésében a „közoktatási” szövegrészek helyébe a „köznevelési”,
+- 4. 23. § (6) bekezdésében a „közoktatási” szövegrészek helyébe a „köznevelési”,
+- 5.
+- 6. 32. § (2) bekezdésében a „közoktatási” szövegrészek helyébe a „köznevelési”,
+- 7. 34. § (2) és (3) bekezdésében a „közoktatási” szövegrészek helyébe a „köznevelési”,
 - 8.
-- 9. 10.44. § (6b) bekezdés b) pontjában a „járási hivatal” szövegrész helyébe a „köznevelési feladatot ellátó hatóság”, 11. 45. § 11.1. (2) bekezdésében a „járási hivatal” szövegrész helyébe a „köznevelési feladatot ellátó hatóság”, 11.2. (8)–(10) bekezdésében a „járási hivatal” szövegrész helyébe a „köznevelési feladatot ellátó hatóság”, 12. 13. 14. 50. § (8) bekezdésben 14.1. a „kormányhivatal döntésével” szövegrész helyébe a „köznevelési feladatot ellátó hatóság döntésével”, 14.2. a „kormányhivatal megkeresése” szövegrész helyébe a „köznevelési feladatot ellátó hatóság megkeresése”, 15. 58. § (5) bekezdésében 15.1. a „kormányhivatalt” szövegrész helyébe a „köznevelési feladatot ellátó hatóságot” 15.2. a „kormányhivatal” szövegrész helyébe a „köznevelési feladatot ellátó hatóság” 16–19. 20–21. 22. 91. § (2) bekezdésében a „járási hivatalnak” szövegrész helyébe a „köznevelési feladatokat ellátó hatóságnak”, 23. 24. 25. 94. § 25.1–25.2. 25.3. 26–28. 29.
+- 9. 38. § (7) bekezdésében 9.1. a „vizsgabizottságának” szövegrész helyébe a „vizsgabizottság, valamint a független vizsgabizottság”, 9.2. a „közoktatási” szövegrészek helyébe a „köznevelési”,
+- 10–11.
+- 12.
+- 13. 47. § (6) bekezdésében 13.1. a „járási hivatal kötelezheti” szövegrész helyébe a „köznevelési feladatot ellátó hatóság kötelezheti” 13.2. az „A járási hivatal döntése elleni fellebbezést a köznevelési feladatokat ellátó hatóság bírálja el.” szövegrész helyébe az „A köznevelési feladatot ellátó hatóság döntése ellen fellebbezésnek van helye.”, 13.3. a „járási hivatal felhívása” szövegrész helyébe a „köznevelési feladatot ellátó hatóság felhívása” 13.4. a „járási hivatal a gyermek” szövegrész helyébe a „köznevelési feladatot ellátó hatóság a gyermek”,
+- 14–15.
+- 16–19.
+- 20. 77. § (4) bekezdésében a „közoktatási” szövegrész helyébe a „köznevelési”,
+- 21. 79. § (6) és (7) bekezdésében a „közoktatási” szövegrészek helyébe a „köznevelési”,
+- 22.
+- 23. 93. §-ában a „közoktatási” szövegrészek helyébe a „köznevelési”,
+- 24.
+- 25. 94. § 25.1–25.2. 25.3. (4) bekezdés l) pontjában a „köznevelési feladatokat ellátó hatóságok” szövegrész helyébe a „kijelölje a köznevelési feladatokat ellátó hatóságot, a köznevelési feladatokat ellátó hatóság”
+- 26–28.
+- 29. 99/F. §-ában a „közoktatási” szövegrész helyébe a „köznevelési”
 
 szöveg lép.
 
 24. § Hatályát veszti az Nkt.
 
 - a)
-- b)–c)
+- b) 38. § (7) bekezdésében a „ , továbbá független vizsgabizottság” szövegrész,
+- c) 44. § (2a) bekezdésében a „ , valamint a járási hivatal” szövegrész,
 - d)–e)
-- f)
+- f) 82. § (4) bekezdésében az „A névjegyzékből adat kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából, továbbá az országos pedagógiai-szakmai ellenőrzés, valamint a minősítő vizsga és a minősítési eljárás szervezése céljából a köznevelési feladatokat ellátó hatóság részére szolgáltatható.” szövegrész
 - g)
 
 #### 3. A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény módosítása
 
 25. §
 
-26. § A Kttv. 3. § (9) bekezdése helyébe a következő rendelkezés lép:
-
-„(9) Törvény eltérő rendelkezése hiányában a nemzeti köznevelésről szóló törvény szerinti oktatási központ mint az oktatásért felelős miniszter egyes köznevelési fenntartói feladatkörébe tartozó feladatainak ellátására kijelölt szerv, valamint a köznevelési közfeladat ellátásában fenntartóként részt vevő tankerületi központ kormánytisztviselőjének, kormányzati ügykezelőjének kormányzati szolgálati jogviszonyára is e törvény rendelkezéseit kell alkalmazni, azzal, hogy a tankerületi központban foglalkoztatott kormánytisztviselők esetében a 134. § (3) bekezdésében foglaltak az irányadóak, a tankerületi központ vezetőjének az illetményalap huszonhatszorosát meg nem haladó mértékű illetményét az állami intézményfenntartó központ vezetőjének javaslatára a kinevezési jogkör gyakorlója állapítja meg.”
+26. §
 
 27. §
 
@@ -55,7 +66,15 @@ szöveg lép.
 
 42–44. §
 
-45. §
+45. § Az Nftv. 115. §-a a következő (22) bekezdéssel egészül ki:
+
+„(22) 2017. február 1-jétől
+
+a) a Nyugat-magyarországi Egyetem Soproni Egyetem,
+
+b) a Magyar Táncművészeti Főiskola Magyar Táncművészeti Egyetem
+
+megnevezéssel működik.”
 
 46. §
 

@@ -30,63 +30,13 @@ a vad védelmével, a vadgazdálkodással, valamint a vadászattal összefüggő
 
 17–18. §
 
-19. § A Vtv. Általános szabályok alcíme a következő 29/A. §-sal egészül ki:
-
-„29/A. § (1) Vadászterületen vadgazdálkodási, vadászati létesítmény a föld használójának előzetes hozzájárulásával létesíthető.
-
-(2) Ha a vadászterületen korábban létesített létesítmények, berendezések tulajdonjogának, illetve használatának kérdésében a vadgazdálkodási üzemterv jóváhagyásáig nem jön létre megállapodás, a létesítmények, berendezések létesítője a jogalap nélküli gazdagodás szabályai szerint megtérítési igénnyel léphet fel a vadászatra jogosulttal szemben.
-
-(3) Vadgazdálkodási, vadászati létesítmény
-
-a) védett természeti területen a természetvédelmi hatóság, illetve
-
-b) a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen a katonai hatóság
-
-engedélyével létesíthető.
-
-(4) Vadászterületen – a (3) bekezdésben meghatározott, illetve az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény hatálya alá tartozó területeket kivéve – a vad mozgását befolyásoló, tartós telepítésű kerítés a vadászatra jogosult hozzájárulásával, és a vadászati hatóság engedélyével létesíthető.
-
-(5) A vadászterületen, a (4) bekezdés szerinti kerítés létesítésekor, figyelemmel kell lenni a vad természetes életfeltételeire, jellemző mozgásirányára.
-
-(6) A vadászterületen engedély nélkül létesített kerítés esetén a vadászterületen kerítés létesítését engedélyező hatóság határoz a vad mozgását befolyásoló, tartós telepítésű kerítés fennmaradásáról vagy annak lebontásáról. A kerítés fennmaradásának engedélyezése nem mentesíti a kerítés létesítőjét az engedély nélküli kerítés létesítése miatti felelőssége alól.”
+19. §
 
 20–21. §
 
 22–23. §
 
-24. § A Vtv. 44. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(2) A tájegységi vadgazdálkodási terv hatálybalépésétől számított három hónapon belül a tájegységi fővadász elkészíti a vadászatra jogosult részére a vadgazdálkodási üzemtervre vonatkozó javaslatát. A vadászatra jogosult a tájegységi vadgazdálkodási terv hatálybalépésétől számított hat hónapon belül jóváhagyásra benyújtja a vadászati hatóság részére a vadászterületre vonatkozó vadgazdálkodási üzemtervet.
-
-(3) A vadgazdálkodási üzemterv elkészítése során figyelemmel kell lenni
-
-a) a vadászterületen élő vadfajok genetikai értékének megőrzésére,
-
-b) a vadállomány egyedsűrűségének megnövekedéséből eredő károk megelőzésére, és
-
-c) a környezetével egyensúlyban élő egyedsűrűségű vadállomány tartamos hasznosítására.”
-
-25. § A Vtv. 45. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) Az üzemtervet és az üzemterv szerinti szakszerű vadgazdálkodást a vadászati hatóság
-
-a) a tájegységi fővadász szakvéleményének figyelembevételével,
-
-b) a tájegységi vadgazdálkodási terv módosításakor, illetve
-
-c) ha az élőhely állapotában, a vadászterületen vagy a vadállományban bekövetkezett változás ezt indokolja
-
-kérelemre vagy hivatalból, de legalább hétévenként felülvizsgálja, és szükség esetén dönt a vadgazdálkodási üzemterv módosításáról.”
-
-26. § (1) A Vtv. 47. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A vadászatra jogosult a vadgazdálkodási üzemterv alapján köteles a vadászterület éves vadgazdálkodási tervét elkészíteni és azt legalább a tárgyév február hónapjának tizenötödik napjáig a vadászati hatósághoz jóváhagyás céljából benyújtani.”
-
-(2) A Vtv. 47. § (2) bekezdés d) pontja helyébe a következő rendelkezés lép:
-
-(Az éves vadgazdálkodási terv tartalmazza:)
-
-„d) e törvény végrehajtására kiadott rendeletben meghatározott egyéb apróvadfajok gyérítésének végrehajtási tervszámait, eszközeit és ütemezését;”
+24–26. §
 
 27. §
 
@@ -104,57 +54,7 @@ kérelemre vagy hivatalból, de legalább hétévenként felülvizsgálja, és s
 
 47. §
 
-48. § A Vtv. 90. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) A miniszter a fenntartható és szakszerű vadgazdálkodással és vadvédelemmel összefüggő feladatokat tájegységenként tájegységi fővadászok útján látja el.”
-
-49. § A Vtv. a következő 93. §-sal egészül ki:
-
-„93. § (1) A tájegységi fővadász szakirányítási és szaktanácsadási feladatokat lát el.
-
-(2) A tájegységi fővadász szakirányítási feladatkörében eljárva
-
-a) kezdeményezheti a vadászati jog kényszerhasznosítását;
-
-b) közreműködik a zárttéri vadtartás jogszerűségének ellenőrzésében;
-
-c) tagként részt vesz a vadászvizsga bizottság munkájában;
-
-d) közreműködik a hivatásos vadász jogszerű alkalmazási feltételeinek ellenőrzésében;
-
-e) közreműködik a vadgazdálkodási és vadászati tevékenység hatósági ellenőrzésében;
-
-f) javaslatot tesz a vadászati tilalom elrendelésére;
-
-g) javaslatot tesz vadászati kíméleti területté történő nyilvánításra;
-
-h) irányítja a hatósági vadászatot;
-
-i) javaslatot tesz a vadgazdálkodási üzemterv tartalmára;
-
-j) a vadgazdálkodási üzemtervek időszakos felülvizsgálata során módosítási szakvéleményt ad a vadászati hatóságnak;
-
-k) kapcsolatot tart az önkormányzatokkal, a vadászati érdekképviseleti szervekkel, a tulajdonosi közösség képviselőjével, a vadászati és természetvédelmi hatósággal, valamint a nemzeti park igazgatósággal.
-
-(3) A tájegységi fővadász szaktanácsadási feladatkörében eljárva
-
-a) segíti a vadászatra jogosultat és a gazdálkodót a vadkármegelőzésben és vadkárelhárításban;
-
-b) a vadászatra jogosultat segíti a szakszerű vadkár felmérési és térítési eljárásban;
-
-c) közreműködik a hivatásos vadászok szakmai tájékoztatásában, továbbképzésében;
-
-d) közreműködik a vadászatra jogosultak és a gazdálkodók időszakos szakmai tájékoztatásában, továbbképzésében;
-
-e) segíti a szakszerű vadgazdálkodást és vadállomány-hasznosítást;
-
-f) a vadászatra jogosult meghívása esetén részt vesz a vadászatra jogosult éves közgyűlésén;
-
-g) a vadászatra jogosultnak szakmai segítséget nyújt az éves vadgazdálkodási terv kidolgozásában.
-
-(4) Tájegységi fővadász munkakör ellátására felsőfokú szakirányú végzettséggel, és legalább öt éves szakmai gyakorlattal rendelkező személyt lehet kinevezni.
-
-(5) A tájegységi fővadász a tájegységben levő vadásztársaságnál felelős személy, és a tájegységben levő tulajdonosi közösség képviselője nem lehet.”
+48–49. §
 
 50–52. §
 
@@ -171,18 +71,16 @@ g) a vadászatra jogosultnak szakmai segítséget nyújt az éves vadgazdálkod�
 - 11–12.
 - 13.
 - 14–15.
-- 16. 44. § (1) bekezdésében az „– e törvény eltérő rendelkezése hiányában – tíz évre szóló” szövegrész helyébe a „ , húsz évre szóló” szöveg,
-- 17. 44. § (4) bekezdésében a „vadászatra jogosult a vadgazdálkodási üzemterv elkészítéséről a tájegységi” szövegrész helyébe a „tájegységi fővadász a vadgazdálkodási üzemtervre vonatkozó javaslattételről, illetve a vadászatra jogosult az üzemterv elkészítéséről a tájegységi” szöveg,
-- 18. 47. § (4) bekezdésében „A vadgazdálkodási terv” szövegrész helyébe „Az éves vadgazdálkodási terv” szöveg,
+- 16–18.
 - 19.
 - 20.
 - 21.
 - 22.
 - 23.
-- 24. 69. § (2) bekezdésében a „vadászati hatóság” szövegrész helyébe a „hatósági vadászat irányítója” szöveg,
+- 24.
 - 25–26.
 - 27–31.
-- 32. 89. § (1) bekezdésben a „személy” szövegrész helyébe a „személy, illetve a tájegységi fővadász” szöveg,
+- 32.
 - 33.
 - 34–35.
 
@@ -204,8 +102,7 @@ lép.
 - 6–7.
 - 8–11.
 - 12.
-- 13. 45. § (1) bekezdés b) és e) pontja,
-- 14. 47. § (2) bekezdés e) pontja,
+- 13–14.
 - 15.
 - 16–17.
 

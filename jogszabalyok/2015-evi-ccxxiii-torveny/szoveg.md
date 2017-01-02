@@ -10,327 +10,33 @@ egyes szociális, gyermekvédelmi, családtámogatási tárgyú és egyéb kapcs
 
 7–10. §
 
-11. § A Gyvt. 21. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(Természetbeni ellátásként a gyermek életkorának megfelelő gyermekétkeztetést kell biztosítani a gyermeket gondozó szülő, törvényes képviselő vagy nevelésbe vett gyermek esetén a gyermek ellátását biztosító nevelőszülő, gyermekotthon vezetője, illetve az Szt. hatálya alá tartozó ápolást, gondozást nyújtó intézmény vezetője kérelmére)
-
-„a) a bölcsődében, mini bölcsődében,”
+11. §
 
 12–14. §
 
 15. §
 
-16. § A Gyvt. a 38/A. §-t megelőzően a következő fejezetcímmel egészül ki:
-
-„VI/A. FEJEZET
-
-BIZTOS KEZDET GYEREKHÁZ”
-
-17. § (1) A Gyvt. a 39. §-t megelőzően a következő fejezetcímmel egészül ki:
-
-„VI/B. FEJEZET
-
-GYERMEKJÓLÉTI SZOLGÁLTATÁS”
-
-(2) A Gyvt. „Gyermekjóléti szolgáltatás” alcímének címe helyébe a következő cím lép:
-
-„A szolgáltatás tartalma”
+16–17. §
 
 18–19. §
 
-20. § (1) A Gyvt. a 41. §-t megelőzően a következő fejezetcímmel egészül ki:
-
-„VI/C. FEJEZET
-
-GYERMEKEK NAPKÖZBENI ELLÁTÁSA”
-
-(2) A Gyvt. „Gyermekek napközbeni ellátása” alcíme helyébe a következő alcím lép:
-
-„Általános rendelkezések
-
-41. § (1) A gyermekek napközbeni ellátásaként az életkornak megfelelő nappali felügyeletet, gondozást, nevelést, foglalkoztatást és étkeztetést kell megszervezni azon gyermekek számára, akiknek szülei, törvényes képviselői munkavégzésük – ideértve a gyermekgondozási díj, a gyermekgondozást segítő ellátás és a gyermeknevelési támogatás folyósítása melletti munkavégzést is –, munkaerő-piaci részvételt elősegítő programban, képzésben való részvételük, nappali rendszerű iskolai oktatásban, a nappali oktatás munkarendje szerint szervezett felnőttoktatásban, felsőoktatási intézményben nappali képzésben való részvételük, betegségük vagy egyéb ok miatt napközbeni ellátásukról nem tudnak gondoskodni. A napközbeni ellátás keretében biztosított szolgáltatások időtartama lehetőleg a szülő, törvényes képviselő munkarendjéhez igazodik. Gyermekek napközbeni ellátásának igénybevételére jogosult az átmeneti gondozásban és az otthont nyújtó ellátásban részesülő gyermek is.
-
-(2) Az (1) bekezdés szerinti egyéb ok miatt a gyermekek napközbeni ellátását különösen az olyan gyermek számára kell biztosítani,
-
-a) akinek fejlődése érdekében állandó napközbeni ellátásra van szüksége,
-
-b) akit egyedülálló vagy időskorú személy nevel,
-
-c) akinek a szülője, törvényes képviselője szociális helyzete miatt az ellátásáról nem tud gondoskodni.
-
-(3) A gyermekek napközbeni ellátásának formái – a gyermekek életkorának megfelelően –
-
-a) a bölcsődei ellátás,
-
-b) a napközbeni gyermekfelügyelet, és
-
-c) az alternatív napközbeni ellátás.”
-
-21. § A Gyvt. „Bölcsőde” alcíme helyébe a következő alcím lép:
-
-„Bölcsődei ellátás
-
-42. § (1) A bölcsődei ellátás keretében – ha e törvény kivételt nem tesz – a három éven aluli gyermekek napközbeni ellátását kell biztosítani.
-
-(2) Bölcsődei ellátást biztosíthat a bölcsőde, a mini bölcsőde, a munkahelyi bölcsőde és a családi bölcsőde.
-
-(3) Bölcsődei ellátás keretében az Nktv. 4. § 25. pontja szerinti sajátos nevelési igényű gyermek (a továbbiakban: sajátos nevelési igényű gyermek) nevelése és gondozása is végezhető.
-
-(4) A bölcsődei ellátás keretében az (1) bekezdés szerinti ellátáson túl – szolgáltatásként – speciális tanácsadás, időszakos gyermekfelügyelet, gyermekhotel működtetése vagy más gyermeknevelést segítő szolgáltatás is biztosítható. Ezeket a szolgáltatásokat a gyermek hatodik életévének betöltéséig lehet igénybe venni.
-
-(5) A bölcsődei nevelési év szeptember 1-jétől a következő év augusztus 31-éig tart.
-
-42/A. § (1) Bölcsődei ellátás keretében a gyermek húszhetes korától nevelhető és gondozható
-
-a) az óvodai nevelésre nem érett gyermek esetén a (2) bekezdésben meghatározott időpontig,
-
-b) a sajátos nevelési igényű gyermek esetén a (3) bekezdésben meghatározott időpontig,
-
-c) az a) és b) pont alá nem tartozó gyermek esetén, ha a harmadik életévét
-
-ca) január 1-je és augusztus 31-e között tölti be, az adott év augusztus 31-éig,
-
-cb) szeptember 1-je és december 31-e között tölti be, a következő év augusztus 31-éig, ha a szülő, törvényes képviselő nyilatkozik arról, hogy a gyermek napközbeni ellátását eddig az időpontig bölcsődei ellátás keretében kívánja megoldani.
-
-(2) Ha a gyermek harmadik életévét betöltötte, de testi vagy értelmi fejlettségi szintje alapján még nem érett az óvodai nevelésre, és óvodai jelentkezését az orvos nem javasolja, bölcsődei ellátás keretében gondozható, nevelhető a gyermek negyedik életévének betöltését követő augusztus 31-éig.
-
-(3) A bölcsődei ellátásban a sajátos nevelési igényű gyermek annak az évnek az augusztus 31. napjáig vehet részt, amelyben a hatodik életévét betölti.
-
-(4) Meg kell szüntetni annak a gyermeknek a bölcsődei ellátását, aki orvosi szakvélemény alapján egészségi állapota miatt bölcsődében nem gondozható.”
-
-22. § A Gyvt. „Családi napközi” alcíme helyébe a következő alcím lép:
-
-„Bölcsőde
-
-43. § (1) A bölcsőde olyan bölcsődei ellátást nyújtó intézmény, amely a gyermekek napközbeni ellátása keretében, a Bölcsődei nevelés-gondozás országos alapprogramja szerint, jogszabályban meghatározott szakirányú végzettséggel rendelkező személy által, akár több csoportban nyújt szakszerű gondozást és nevelést.
-
-(2) A bölcsőde szervezetileg működhet
-
-a) önálló bölcsődeként, annak tagintézményeként,
-
-b) bölcsődei igazgatóság, illetve egyesített bölcsőde szervezeti formában, annak tagintézményeként,
-
-c) többcélú óvoda-bölcsődeként, vagy
-
-d) többcélú, közös igazgatású intézmény önálló szervezeti és szakmai egységeként.
-
-(3) A bölcsődei felvétel során előnyben kell részesíteni azt a rendszeres gyermekvédelmi kedvezményre jogosult gyermeket, akinek szülője, törvényes képviselője igazolja, hogy munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll.
-
-(4) A bölcsőde nyári nyitvatartási rendjét a fenntartó hagyja jóvá. A fenntartó a bölcsődei szünet idejére a szülő, törvényes képviselő kérésére gondoskodik a gyermek intézményi gondozásának, nevelésének megszervezéséről.
-
-(5) A miniszter rendeletben a bölcsődék számára – a bölcsődei dolgozók szakmai fejlesztése, szakmai ünnepségek megtartása és a bölcsődei ellátáshoz kapcsolódó szakmai célok megvalósítása érdekében – nevelés-gondozás nélküli munkanapot határoz meg. A nevelés-gondozás nélküli munkanapon a bölcsődei nevelés és gondozás szünetel, a fenntartónak azonban erre irányuló szülői, törvényes képviselői kérésre gondoskodnia kell a gyermekek felügyeletének megszervezéséről.”
-
-23. § A Gyvt. „Családi gyermekfelügyelet” alcíme helyébe a következő alcím lép:
-
-„Mini bölcsőde
-
-43/A. § (1) A mini bölcsőde olyan bölcsődei ellátást nyújtó intézmény, amely a gyermekek napközbeni ellátása keretében, a Bölcsődei nevelés-gondozás országos alapprogramja szerint, jogszabályban meghatározott szakirányú végzettséggel rendelkező személy által akár több, a 43. § szerinti bölcsődei intézményhez képest kisebb létszámú csoportban, valamint egyszerűbb személyi, tárgyi és működtetési feltételek mellett nyújt szakszerű gondozást és nevelést.
-
-(2) A mini bölcsőde szervezetileg működhet
-
-a) önálló bölcsődeként, annak tagintézményeként,
-
-b) bölcsődei igazgatóság, illetve egyesített bölcsőde szervezeti formában, annak tagintézményeként,
-
-c) többcélú óvoda-bölcsődeként, vagy
-
-d) többcélú, közös igazgatású intézmény önálló szervezeti és szakmai egységeként, feltéve, hogy többcélú óvoda-bölcsődeként való működtetésére nincs lehetőség.
-
-(3) A mini bölcsőde működtetésére a 43. § (3)–(5) bekezdésében foglaltakat alkalmazni kell.”
-
-24. § A Gyvt. „Házi gyermekfelügyelet” alcíme helyébe a következő alcím lép:
-
-„Munkahelyi bölcsőde
-
-„44. § (1) A munkahelyi bölcsőde olyan bölcsődei ellátást nyújtó szolgáltatás, amelyet a foglalkoztató tart fenn elsősorban a nála keresőtevékenységet folytató személyek gyermekei bölcsődei ellátásának biztosítására.
-
-(2) Az (1) bekezdés alkalmazásában
-
-a) foglalkoztató: a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 4. § a) pont 1. és 3. alpontja szerinti személy, szervezet,
-
-b) keresőtevékenység: a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 58. § (5) bekezdés e) pontja szerinti tevékenység.
-
-(3) Munkahelyi bölcsődében szolgáltatást az a nagykorú, cselekvőképességet érintő gondnokság, illetve támogatott döntéshozatal hatálya alatt nem álló, büntetlen előéletű személy biztosíthat, aki
-
-a) a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló miniszteri rendeletben meghatározott feltételek teljesítése alapján alkalmas a gyermek napközbeni ellátására, és
-
-b) a bölcsődei szolgáltatást nyújtó személyek képesítési előírásait meghatározó miniszteri rendeletben előírt tanfolyamon eredményesen részt vett,
-
-feltéve, hogy nem áll fenn vele szemben a 15. § (8) bekezdésében meghatározott kizáró ok.
-
-(4) A munkahelyi bölcsődében több csoport is létrehozható.”
-
-25. § A Gyvt. „Alternatív napközbeni ellátás” alcíme helyébe a következő alcím lép:
-
-„Családi bölcsőde
-
-44/A. § (1) A családi bölcsőde olyan bölcsődei ellátást nyújtó szolgáltatás, amelyet a szolgáltatás nyújtója a saját otthonában vagy más e célra kialakított helyiségben biztosít.
-
-(2) Családi bölcsődében szolgáltatást az a nagykorú, cselekvőképességet érintő gondnokság, illetve támogatott döntéshozatal hatálya alatt nem álló, büntetlen előéletű személy biztosíthat, aki
-
-a) a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló miniszteri rendeletben meghatározott feltételek teljesítése alapján alkalmas a gyermek napközbeni ellátására, és
-
-b) a bölcsődei szolgáltatást nyújtó személyek képesítési előírásait meghatározó miniszteri rendeletben előírt tanfolyamon eredményesen részt vett,
-
-feltéve, hogy nem áll fenn vele szemben a 15. § (8) bekezdésében meghatározott kizáró ok.
-
-(3) A családi bölcsődében gondozott saját gyermek után a központi költségvetésről szóló törvényben biztosított támogatást nem lehet igénybe venni.
-
-(4) A családi bölcsőde feladatait önálló szolgáltató vagy legalább három – egy szolgáltató székhelyeként, illetve telephelyeiként, egy vagy több épületben működő – családi bölcsődét magába foglaló hálózat biztosítja. Három vagy annál több családi bölcsőde fenntartását hálózatba kell szervezni. A hálózatban biztosítani kell a szolgáltatást nyújtó személyek részére a folyamatos szakmai tanácsadást, valamint a gyermekek igényeihez rugalmasan igazodó szolgáltatások összehangolását.”
-
-26. § A Gyvt. a 44/A. §-t követően a következő alcímmel egészül ki:
-
-„Napközbeni gyermekfelügyelet
-
-44/B. § (1) A napközbeni gyermekfelügyelet keretében – nem nevelési-oktatási céllal – a szolgáltatás nyújtója az életkornak megfelelő napközbeni ellátást biztosít
-
-a) a bölcsődei ellátásban, óvodai nevelésben nem részesülő gyermek számára,
-
-b) a kötelező óvodai nevelésben való részvétel alól felmentett gyermek számára,
-
-c) az óvodai nevelésben részesülő gyermek számára a kötelező óvodai nevelésben való részvételének idején kívül,
-
-d) a magántanuló számára,
-
-e) az iskolai oktatásban részesülő tanuló számára az Nktv. szerinti kötelező tanórai és egyéb foglalkozásokon való részvételének idején kívül, valamint a tanítási szünetekben, és
-
-f) az Nktv. rendelkezései szerint az általános iskolában a tizenhat óra előtt megszervezett egyéb foglalkozás alól felmentett gyermek számára.
-
-(2) A napközbeni gyermekfelügyelet keretében a sajátos nevelési igényű gyermekek számára szükségleteikhez igazodó ellátást kell nyújtani.
-
-(3) A napközbeni gyermekfelügyelet megszervezhető
-
-a) a szolgáltatást nyújtó saját otthonában,
-
-b) a 44. § (2) bekezdés a) pontja szerinti foglalkoztató által biztosított helyiségben,
-
-c) más, e célra kialakított helyiségben, vagy
-
-d) a 44/C. § szerinti esetben a szülő, törvényes képviselő otthonában.
-
-(4) A napközbeni gyermekfelügyelet feladatait önálló szolgáltató vagy legalább három – egy szolgáltató székhelyeként, illetve telephelyeiként, egy vagy több épületben működő – napközbeni gyermekfelügyeletet magába foglaló hálózat biztosítja. Három vagy annál több napközbeni gyermekfelügyelet fenntartását hálózatba kell szervezni. A hálózatban biztosítani kell a szolgáltatást nyújtó személyek részére a folyamatos szakmai tanácsadást, valamint a gyermekek igényeihez rugalmasan igazodó szolgáltatások összehangolását.
-
-(5) Napközbeni gyermekfelügyelet keretében szolgáltatást az a nagykorú, cselekvőképességet érintő gondnokság, illetve támogatott döntéshozatal hatálya alatt nem álló, büntetlen előéletű személy biztosíthat, aki
-
-a) a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló miniszteri rendeletben meghatározott feltételek teljesítése alapján alkalmas a gyermek napközbeni ellátására, és
-
-b) a napközbeni gyermekfelügyelet szolgáltatást nyújtó személyek képesítési előírásait meghatározó miniszteri rendeletben előírt tanfolyamon eredményesen részt vett,
-
-feltéve, hogy nem áll fenn vele szemben a 15. § (8) bekezdésében meghatározott kizáró ok.
-
-(6) Napközbeni gyermekfelügyelet keretében – a 44/C. § (2) bekezdésében foglalt kivétellel – húszhetes korától annak a tanévnek a végéig gondozható
-
-a) a sajátos nevelési igényű gyermek, amelyben a tizenhatodik életévét betölti,
-
-b) az a) pont alá nem tartozó gyermek, amelyben a tizennegyedik életévét betölti.
-
-44/C. § (1) A szülő, törvényes képviselő otthonában akkor biztosítható a napközbeni gyermekfelügyelet, ha a gyermek állandó vagy időszakos ellátása nappali intézményben – betegsége vagy egyéb ok miatt – nem biztosítható, és a szülő, törvényes képviselő a gyermek napközbeni ellátását nem vagy csak részben tudja megoldani, így különösen amikor
-
-a) az egyedülálló szülő a gyermeknevelésben átmenetileg akadályozva van,
-
-b) többes ikrek születnek, valamint az ikergyermekek gondozásában és nevelésében a szülő segítségre szorul,
-
-c) az egyedülálló szülő több műszakban dolgozik, és gyermekének felügyelete a kora reggeli vagy késő esti órákban nem biztosított,
-
-d) az egyik szülő megbetegszik, és emiatt akadályoztatva van a gyermek gondozásában, nevelésében, vagy
-
-e) az egyik szülő meghal.
-
-(2) Többes ikrek születésekor, valamint az (1) bekezdés d) és e) pontja szerinti esetekben a napközbeni gyermekfelügyelet a szülő, törvényes képviselő otthonában a gyermek születésétől kezdve nyújtható.
-
-(3) Az (1) bekezdés szerinti szolgáltatás keretében
-
-a) a gyermek életkorához, egészségi állapotához igazodó gondozást, felügyeletet kell biztosítani, és
-
-b) segítséget kell nyújtani az iskolai tanulmányok folytatásához, ha a gyermek tanulmányait az Nktv. rendelkezései szerint sajátos nevelési igénye vagy súlyos betegsége miatt magántanulóként folytatja.
-
-(4) Az (1) bekezdés szerinti szolgáltatás a szolgáltatást nyújtó saját gyermeke számára nem biztosítható.”
-
-27. § A Gyvt. a következő 44/D. §-sal és azt megelőzően a következő alcímmel egészül ki:
-
-„Alternatív napközbeni ellátás
-
-44/D. § Alternatív napközbeni ellátás a játszótéri program, játszóház, klubfoglalkozás keretében nyújtott,
-
-a) a szülő és a gyermek kapcsolatát erősítő, a gyermek szocializációját támogató, valamint egyéb szabadidős és prevenciós szolgáltatás,
-
-b) a csellengő vagy egyéb okból veszélyeztetett iskoláskorú gyermekek számára biztosított nappali felügyelet, sport-, illetve egyéb foglalkozás és étkeztetés,
-
-feltéve, ha a működtető rendelkezik az ehhez szükséges – jogszabályban meghatározott – személyi és tárgyi feltételekkel.”
-
-28. § (1) A Gyvt. a 45. §-t megelőzően a következő fejezetcímmel egészül ki:
-
-„VI/D. FEJEZET
-
-GYERMEKEK ÁTMENETI GONDOZÁSA”
-
-(2) A Gyvt. „Gyermekek átmeneti gondozása” alcímének címe helyébe a következő cím lép:
-
-„Az ellátás tartalma”
-
-29. § A Gyvt. 94. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) Ha a bölcsődei ellátásra az adott településen legalább öt gyermek tekintetében igény jelentkezik, vagy a település – jogszabályban meghatározottak szerint megállapított – 3 év alatti lakosainak száma meghaladja a 40 főt, a (3) bekezdés a) pontja alá nem tartozó települési önkormányzat köteles gondoskodni a gyermekek bölcsődei ellátásáról a 42. § (2) bekezdése szerinti bölcsődei ellátást nyújtó intézmények, szolgáltatások bármelyik formájának biztosításával, önállóan, társulásban vagy ellátási szerződés útján.”
-
-30. § A Gyvt. 100. §-a a következő (1) bekezdéssel egészül ki:
-
-„(1) A munkahelyi bölcsőde, a családi bölcsőde és a napközbeni gyermekfelügyelet esetében a 32. § (5) bekezdése szerint megkötött megállapodások száma – a szolgáltatás eltérő időpontokban történő igénybevétele esetén – túllépheti a szolgáltatói nyilvántartásba jogerősen bejegyzett férőhelyek számát. A szolgáltatást azonos időben igénybe vevő gyermekek száma ebben az esetben sem haladhatja meg a szolgáltatói nyilvántartásba jogerősen bejegyzett férőhelyszámot.”
-
-31. § A Gyvt. 139. § (3) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-[Nem kell a (2) bekezdés szerinti nyilvántartásba venni az adatokat]
-
-„a) a gyermekek napközbeni ellátásánál, ha a fenntartó a központi költségvetésből támogatásban nem részesül,”
+20–31. §
 
 32. §
 
-33. § A Gyvt. 150. § (3) bekezdés a) és b) pontja helyébe a következő rendelkezések lépnek:
-
-[A személyi térítési díj összege igénybe vevőnként nem haladhatja meg az (1) bekezdésben meghatározott jövedelem]
-
-„a) 50%-át munkahelyi bölcsődében és családi bölcsődében nyújtott bölcsődei ellátás esetén,
-
-b) – bölcsődében és mini bölcsődében nyújtott bölcsődei ellátás esetén, ha a fenntartó a bölcsődei ellátás keretében biztosított gyermekétkeztetés mellett a bölcsődei ellátás keretében nyújtott gondozásra is megállapít személyi térítési díjat, és a gyermek
-
-ba) nem részesül ingyenes intézményi gyermekétkeztetésben –, 25%-át,
-
-bb) ingyenes intézményi gyermekétkeztetésben részesül –, 20%-át,”
+33. §
 
 34–35. §
 
 36. § (1)
 
-(2) A Gyvt.
-
-- a) 5. § u) pontjában a „javítóintézet” szövegrész helyébe a „mini bölcsőde és a javítóintézet” szöveg,
-- b) 15. § (7) bekezdés a) pontjában a „családi napközi szolgáltatást nyújtó személy, családi napközis koordinátor” szövegrész helyébe a „bölcsődei dajka, bölcsődei szolgáltatást nyújtó személy, napközbeni gyermekfelügyelet szolgáltatást nyújtó személy, koordinátor” szöveg,
-- c) 21. § (1) bekezdés g) pontjában a „bölcsőde” szövegrész helyébe a „bölcsőde, mini bölcsőde” szöveg,
-- d) 21/A. § (1) bekezdés a) pontjában a „bölcsődei ellátásban” szövegrész helyébe a „bölcsődében, mini bölcsődében bölcsődei ellátásban” szöveg,
-- e) 21/A. § (3) bekezdés a) pont aa) alpontjában a „bölcsődében” szövegrész helyébe a „bölcsődében, mini bölcsődében” szöveg,
-- f) 21/B. § (1) bekezdés a) pontjában a „bölcsődei ellátásban” szövegrész helyébe a „bölcsődében, mini bölcsődében nyújtott bölcsődei ellátásban” szöveg,
-- g) 21/C. § (2) bekezdés a) pontjában a „bölcsődei ellátásban” szövegrész helyébe a „bölcsődében, mini bölcsődében bölcsődei ellátásban” szöveg,
-- h) 32. § (7b) bekezdésében a „családi napközi” szövegrész helyébe a „családi bölcsőde, napközbeni gyermekfelügyelet” szöveg és a „családi napközijében” szövegrész helyébe a „családi bölcsődéjében, napközbeni gyermekfelügyeletében” szöveg,
-- i) 66/K. § (3) bekezdésében a „43. §-ban” szövegrész helyébe a „44/A–44/C. §-ban” szöveg,
-- j) 94. § (5a) bekezdésében, 94/A. §-ában, 147. § (2) bekezdésében a „bölcsőde” szövegrész helyébe a „bölcsőde, mini bölcsőde” szöveg,
-- k) 135/B. § (1) bekezdés b) pontjában a „családi napközi és családi gyermekfelügyelet” szövegrész helyébe a „munkahelyi bölcsőde, családi bölcsőde és napközbeni gyermekfelügyelet” szöveg,
-- l) 135/B. § (2) bekezdésében a „Családi napközi és családi gyermekfelügyelet” szövegrész helyébe a „Munkahelyi bölcsőde, családi bölcsőde és napközbeni gyermekfelügyelet” szöveg,
-- m) 145. § (2c) bekezdés b) pontjában a „fejlesztésére” szövegrész helyébe a „kapacitásbővítéssel járó fejlesztésére” szöveg,
-- n) 148. § (2) bekezdésében a „bölcsődei ellátás esetében” szövegrész helyébe a „bölcsődében, mini bölcsődében nyújtott bölcsődei ellátás esetében” szöveg,
-- o) 150. § (6) bekezdésében a „Bölcsőde esetében” szövegrész helyébe a „Bölcsődében, mini bölcsődében nyújtott bölcsődei ellátás esetén” szöveg,
-- p) 151. § (4) bekezdésében a „bölcsődei ellátás” szövegrész helyébe a „bölcsődében, mini bölcsődében nyújtott bölcsődei ellátás” szöveg,
-- q) 162. § (2) bekezdés k) pontjában a „bölcsődében” szövegrész helyébe a „bölcsődében, mini bölcsődében” szöveg
-
-lép.
+(2)
 
 37. § (1)
 
 (2)
 
-(3) Hatályát veszti a Gyvt.
-
-- a) 38/A. §-át megelőző alcím címe,
-- b) 94. § (8) bekezdése,
-- c) 139. § (3) bekezdés b) pontja.
+(3)
 
 #### 3. A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény módosítása
 
@@ -338,7 +44,7 @@ lép.
 
 44. § (1)
 
-(2) Az Ebtv. 42/C. § (1) bekezdés d) pontjában a „(bölcsőde, családi napközi, házi gyermekfelügyelet)” szövegrész helyébe a „(bölcsőde, mini bölcsőde, munkahelyi bölcsőde, családi bölcsőde, napközbeni gyermekfelügyelet)” szöveg lép.
+(2)
 
 45. §
 
@@ -418,7 +124,7 @@ lép.
 
 79–81. §
 
-82. § (1) Hatályát veszti az Nkt. 8. § (5) bekezdése.
+82. § (1)
 
 (2)
 

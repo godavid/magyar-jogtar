@@ -647,7 +647,7 @@ egyidejűleg történik a (3)–(4) bekezdésben meghatározottak szerint.
 
 48. § Ez a törvény a kihirdetését követő hónap első napján lép hatályba.
 
-49. § Hatályát veszti a statisztikáról szóló 1993. évi XLVI. törvény.
+49. §
 
 #### 24. Átmeneti rendelkezések
 
@@ -668,10 +668,4 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 26. Módosító rendelkezés
 
-53. § A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) 134. § (1) bekezdés 2. pontja helyébe a következő rendelkezés lép:
-
-(Az illetménykiegészítés mértéke)
-
-„2. a minisztériumban és – a Nemzeti Adó- és Vámhivatal kivételével – a költségvetési fejezetet irányító más szervnél,”
-
-(foglalkoztatott felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 50%-a, középiskolai végzettségű kormánytisztviselő esetében az alapilletményének 15%-a.)
+53. §

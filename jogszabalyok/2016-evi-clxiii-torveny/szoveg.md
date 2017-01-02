@@ -8,39 +8,13 @@ a mozgóképről szóló 2004. évi II. törvény módosításáról
 
 6. §
 
-7. § Az Mktv. 25. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A Hivatal a művészi értékű vagy kulturális jelentőségük miatt támogatásra érdemes filmalkotásoknak, terjesztésük elősegítése céljából a filmalkotás előállítójának vagy terjesztőjének kérelmére hatósági határozatban „art” minősítést adhat.”
-
-8. § Az Mktv. 26. §-a helyébe a következő rendelkezés lép:
-
-„26. § (1) A filmalkotások „art” minősítésére a Hivatal által felállított és működtetett Art Bizottság tesz javaslatot.
-
-(2) Az Art Bizottság hat tagját a Nemzeti Filmiroda igazgatójának a javaslatára az Elnök nevezi ki három évre.
-
-(3) Az Art Bizottság tagjai:
-
-a) egy, a Magyar Művészeti Akadémia elnöke által a filmművészet képviselőjeként delegált személy,
-
-b) egy, a Hivatal által az NMHH köztisztviselői közül delegált felsőfokú végzettségű és a filmművészet területén tapasztalattal rendelkező személy,
-
-c) egy, a miniszter által delegált, a filmművészet területén tapasztalattal rendelkező személy,
-
-d) három, filmművészeti, filmtudományi vagy mozgóképtanári végzettséggel, illetve gyakorlattal rendelkező személy.
-
-(4) A (3) bekezdés b) pontjában meghatározott tag ellátja az Art Bizottság koordinációjával kapcsolatos feladatokat és a Bizottság elnökeként vezeti annak üléseit.
-
-(5) A Hivatal az Art Bizottság javaslata alapján „art” minősítést ad minden olyan terjesztésre kerülő filmalkotásnak,
-
-a) amely művészi értékével hozzájárul a magyar, az európai, illetve az egyetemes audiovizuális kultúra fejlődéséhez, vagy
-
-b) amelyet az Art Bizottság oktatási vagy kulturális szempontból jelentősnek és magas művészi színvonalúnak ítél.
-
-(6) A Hivatal a filmalkotás előállítójának vagy terjesztőjének kérelmére „art” minősítést ad annak a terjesztésre kerülő filmalkotásnak, amely nemzetközileg elismert, a Hivatal által évente közzétett jegyzékben meghatározott fesztivál díjában részesült.”
+7–8. §
 
 9–12. §
 
-13. §
+13. § Az Mktv. 31/D. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) A Tao. tv. 22. § (3) bekezdése szerint biztosított támogatás esetében a közvetett támogatás forrását biztosító szervezet az MNF-fel kötött megállapodás alapján utalja a közvetett támogatás forrását a letéti számlára. A Tao. tv. 24/A. § (3) bekezdés a) pontja szerint biztosított közvetett támogatás esetében a kedvezményezett célra felajánlott összeget mint közvetett támogatást az állami adóhatóság utalja a letéti számlára. A letéti számlára a tárgyévben befizetett összeg a Tao. tv. 22. § (8) bekezdés a) pontja szerinti kiegészítő támogatás nélkül nem haladhatja meg az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott összeget.”
 
 14. §
 
@@ -50,11 +24,13 @@ b) amelyet az Art Bizottság oktatási vagy kulturális szempontból jelentősne
 
 16–19. §
 
-20. §
+20. § Az Mktv. 37. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a letéti számlára a tárgyévben befizethető, kiegészítő támogatás nélküli összeget.”
 
 21–23. §
 
-24. §
+24. § Az Mktv. 31/D. § (13) bekezdésében a „(7) bekezdésben” szövegrészek helyébe a „jogszabályban” szöveg lép.
 
 25. §
 

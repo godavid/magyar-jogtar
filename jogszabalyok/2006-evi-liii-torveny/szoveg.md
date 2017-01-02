@@ -110,6 +110,25 @@ nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüg
 
 (2) A közlekedési infrastruktúra-beruházásokra e törvény rendelkezéseit az ezen alcímben foglalt eltérésekkel kell alkalmazni.
 
+(3) A Kormány rendeletben (a továbbiakban e §-ban: rendelet) állapíthatja meg a közlekedési infrastruktúra-beruházás megvalósításához szükséges – a vizsgálati dokumentáció és a területrendezési tervtanulmány alapján 1:10 000 méretarányú helyszínrajzon elfogadott, legfeljebb 200 méter szélességű – területsávot vagy nyomvonalat (a továbbiakban együtt: nyomvonal) a következő tartalommal:
+
+- a) a nyomvonal táblázatos meghatározását az út tengelyében felvett, egymástól 100 méterre lévő pontokkal (a pont EOV koordinátája, valamint a pont GPS koordinátája),
+- b) M = 1:10.000 méretarányú áttekintő térképpel (az út tengelyének, a nyomvonal táblázatos meghatározása során a nyomvonalat meghatározó pontoknak, azok egyedi jelzéseinek, az út tengelyétől számított, gyorsforgalmi út esetén legfeljebb 100-100 méter, egyéb közút esetén legfeljebb 50-50 méter, vasút esetén legfeljebb 100-100 méter, kerékpárút esetében legfeljebb 25-25 méter széles sávnak, mint a rendelet területi hatálya jelzésének, ezen sávot érintően az ingatlan-nyilvántartási térképen szereplő, beazonosításra alkalmas telekosztásnak feltüntetésével),
+- c) a nyomvonallal érintett ingatlanok helyrajzi számainak megjelölésével, és
+- d) a 6/L. § szerinti védettség időtartamának meghatározásával.
+
+(4) A rendeletben meghatározott közlekedési infrastruktúra-beruházás megvalósítása közérdeket szolgál.
+
+(5) A rendelet hatálybalépésére a környezetvédelmi engedély jogerőre emelkedését követően kerülhet sor, amennyiben a közlekedési infrastruktúra-beruházás megvalósításához környezetvédelmi engedély szükséges.
+
+(6) A közlekedési infrastruktúra-beruházás megvalósítása során az Étv. építési tevékenység végzésére vonatkozó rendelkezéseit a (7)–(9) bekezdésben foglalt eltéréssel kell alkalmazni.
+
+(7) Az építési engedély iránti kérelmet – a településrendezési eszközöknek a rendelettel való összhangja hiányában – a rendelet követelményeinek megfelelően kell elbírálni. Ebben az esetben az építési engedélyezési eljárásban a jegyző (főjegyző) településrendezési követelmények és a helyi építési követelmények megfelelőségéről szóló szakhatósági nyilatkozatát nem kell beszerezni.
+
+(8) A rendelettel megállapított nyomvonal nem pótolja a településrendezési eszközöket, és nem érinti az érintett település önkormányzatának a 6/H. § (1) bekezdésében foglalt kötelezettségét.
+
+(9) A rendelet hatálybalépésétől az államot – más jogszabállyal megjelölt jogosultakat megelőzően – elővásárlási jog illeti meg a rendelettel meghatározott nyomvonalon található földrészlet tekintetében. Az elővásárlási jogot az állam nevében az építtető gyakorolja. A megvásárolt földrészlet és a kisajátítással megszerzett földrészlet az állam tulajdonába kerül. Az állam javára adásvétel vagy kisajátítás útján megszerzett ingatlanok vagyonkezelői jogának ingatlan-nyilvántartási bejegyzése és annak az ingatlan-nyilvántartásból való törlése után igazgatási szolgáltatási díjat nem kell fizetni.
+
 6/E. § (1) A közlekedési infrastruktúra-beruházás lehetséges nyomvonalai kiválasztásának elősegítése érdekében az építtető az előzetes vizsgálati eljárás, ennek hiányában a környezeti hatásvizsgálati eljárást megelőzően köteles egyeztetést kezdeményezni a (2) bekezdés szerinti hatóságoknál, amelyek kötelesek az egyeztetésen részt venni.
 
 (2) Az egyeztetésen részt vesz
@@ -225,6 +244,34 @@ az ingatlanügyi hatóság, illetve az erdészeti hatóság a közlekedési infr
 
 6/K. § A környezetvédelmi hatóság és az eljárásában szakhatóságként közreműködő hatóságok kötelesek együttműködni a beruházóval és a Kormány által a közlekedési infrastruktúra-beruházás megvalósításának koordinációjára kijelölt személlyel a környezetvédelmi engedély mielőbbi kiadása érdekében. Ha az építési engedélyezés vagy a vízjogi létesítési engedélyezés iránti kérelmet a környezetvédelmi engedély kiadását megelőzően nyújtották be, a környezetvédelmi hatóság és az építésügyi hatóság köteles folyamatosan együttműködni annak elősegítése érdekében, hogy az építésügyi engedély ne legyen ellentétes a környezetvédelmi hatásvizsgálat során feltárt tényekkel és azok alapján tett megállapításokkal.
 
+6/L. § (1) Az országos településrendezési és építési követelményekről szóló kormányrendeletben megjelölt gazdasági terület kivételével nem nyilvánítható beépítésre szánt területté a 6/D. § (3) bekezdésben megjelölt rendeletben megállapított nyomvonallal érintett területsáv.
+
+(2) Az (1) bekezdés szerinti korlátozás a közút vagy vasút építésére kiadott jogerős építési engedély időbeli hatályával együtt szűnik meg, kivéve ha az érintett önkormányzatok a településrendezési eszközeikben átvezették a közút vagy vasút építésének tényét és területigényét, ebben az esetben a módosított településrendezési eszköz hatálybalépésével egyidejűleg megszűnik a korlátozás.
+
+(3) A 6/D. § (3) bekezdésben megjelölt rendeletben megállapított nyomvonallal érintett területsávon a területsáv védettségének időtartamán belül tilos a terepviszonyokat megváltoztató munkát végezni. Ez a tilalom a megjelölt időtartamon belül az ingatlan vagy egy része állami tulajdonként való birtokba vételéig áll fenn.
+
+(4) A 6/D. § (3) bekezdésben megjelölt rendeletben megállapított nyomvonallal érintett területsávon a területsáv védettségének időtartamán belül
+
+- a) más hatóság hatáskörébe tartozó építési vagy egyéb sajátos építményfajtákra vonatkozó jogerős engedély alapján végezhető tevékenység csak akkor kezdhető meg, illetve folytatható,
+- b) a földrészlet művelési ágát és minőségi osztályát csak akkor lehet megváltoztatni,
+
+ha azt előzetesen a közlekedési hatóság engedélyezte.
+
+(5) A (4) bekezdésben foglalt korlátozás a megjelölt időtartamon belül csak a 6/D. § (3) bekezdésben megjelölt rendeletben megállapított nyomvonallal érintett területsávban levő ingatlannak állami tulajdonként, az építtető általi birtokbavételéig áll fenn.
+
+(6) A (4) bekezdés szerinti engedélyt a közlekedési hatóság megadja, ha
+
+- a) a tevékenység bontási munka, vagy az állékonyságot, életet, egészséget, köz- és vagyonbiztonságot veszélyeztető károk megelőzését, illetve a károk elhárítását szolgálja, továbbá
+- b) a tevékenység értéknövekedést nem eredményez vagy eredményez ugyan, de a tulajdonos – kisajátítás vagy a közútépíttetővel kötendő adásvételi szerződés esetén – lemond az ebből eredő értékveszteségnek a kártalanítás körében való megtérítéséről vagy a vételár részeként történő érvényesítéséről.
+
+(7) Ha a nyomvonal felszín alatti vonalvezetéssel tervezett, a nyomvonal felszín alatti szakaszán a tengelytől számított 50 méteren belül a (4) bekezdés szerinti engedély a (6) bekezdésben foglaltak szerint adható ki. Az (1) bekezdés szerint védett terület fennmaradó részén a közlekedési hatóság az építtető hozzájárulásával megadhatja a (4) bekezdés szerinti engedélyt, ha a tevékenység értéknövekedést nem eredményez, vagy eredményez ugyan, de a tulajdonos – kisajátítás vagy a közútépíttetővel kötendő adásvételi szerződés esetén – lemond az ebből eredő értékveszteségnek a kártalanítás körében való megtérítéséről vagy a vételár részeként történő érvényesítéséről.
+
+(8) A (3)–(4) bekezdés szerinti tilalom, illetve használati korlátozás nem terjed ki a nyomvonal megállapítását megelőzően jogerősen engedélyezett építési munkákra.
+
+(9) A (3)–(4) bekezdés szerinti tilalommal, illetve használati korlátozással bekövetkező akadályoztatás (az ingatlannak közút céljára történő rendelkezésre tartása) miatt a tulajdonos (haszonélvező) javára az akadályoztatás (rendelkezésre tartás) időtartamára, jellegére, az akadályoztatást megelőző használathoz képest megállapítható mértékére figyelemmel egyszeri kártalanítást kell fizetni. Ha az ingatlan közút céljára történő megszerzése adásvétellel történik, a kártalanítás az építtető és a tulajdonos (haszonélvező) közötti megállapodás tárgya, azt a kisajátítás esetén pedig a kisajátítási kártalanítás összegének megállapítása során, a kisajátítással kapcsolatos esetleges értékveszteség körében kell figyelembe venni.
+
+(10) A (9) bekezdés szerinti kártalanítást adásvételi szerződés vagy kisajátítási eljárás hiányában a tulajdonos kérelmére fővárosi és megyei kormányhivatal állapítja meg. A kártalanítás megállapítására vonatkozó eljárásra a kisajátítási eljárás szabályait kell alkalmazni.
+
 ### A hatósági határozat bírósági felülvizsgálata
 
 7. § A törvény hatálya alá tartozó hatósági ügyekben hozott határozat bírósági felülvizsgálata iránt indított perekben a polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) XX. fejezetének rendelkezéseit az e törvény 8–10. §-aiban meghatározott eltérésekkel kell alkalmazni.
@@ -286,12 +333,15 @@ az ingatlanügyi hatóság, illetve az erdészeti hatóság a közlekedési infr
 - e) a kiemelt jelentőségű ügyben a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvénytől és az ügyfajtára vonatkozó különös eljárási szabályoktól eltérő rendelkezéseket a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben meghatározott tárgykörben,
 - f) a kiemelt jelentőségű ügyben az e törvényben foglalt határidőknél rövidebb határidőket,
 - g) a nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházáshoz kapcsolódó kiemelt jelentőségű ügyek körét, valamint szabályozza ezen ügyekben a b)–f) pontban meghatározottakat.
+- h) a nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházáshoz megvalósításához szükséges területsávot vagy nyomvonalat.
 
 (6) Felhatalmazást kap a közigazgatás-szervezésért felelős miniszter, hogy rendeletben állapítsa meg a kiemelt jelentőségű ügyben eljáró hatóságok és szakhatóságok által a koordinációs feladatokat ellátó kormánymegbízottak felé, továbbá a koordinációs feladatokat ellátó kormánymegbízottak által a közigazgatás-szervezésért felelős miniszter és a Kormány tagjai felé teljesítendő, törvényben vagy kormányrendeletben előírt rendszeres és eseti jellegű jelentések, valamint tájékoztatások részletszabályait.
 
 13. § E törvénynek a nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházások megvalósításának gyorsításával összefüggésben egyes törvények módosításáról szóló 2015. évi LXXIX. törvénnyel (a továbbiakban: Módtv.) megállapított 6/F. §-át azokra a környezetvédelmi engedélyekre kell alkalmazni, amelyeket a Kormány által a Módtv. hatálybalépését követően nemzetgazdasági szempontból kiemelt jelentőségű infrastruktúra-beruházással összefüggő ügynek minősített ügyekben adtak ki.
 
 14. § E törvénynek a polgári perrendtartásról szóló 1952. évi III. törvény, valamint egyéb eljárásjogi és igazságügyi törvények módosításáról szóló 2015. évi CLXXX. törvénnyel megállapított 8. § (2) és (3) bekezdését 2016. július 1. napján és az azt követően indult közigazgatási eljárás során hozott határozat bírósági felülvizsgálata iránti perekben kell alkalmazni.
+
+15. § E törvénynek a közlekedéssel összefüggő egyes törvények módosításról szóló 2016. évi CXLIV. törvénnyel (a továbbiakban: 2016. évi CXLIV. törvény) megállapított 6/D. § (3)–(9) bekezdését és 6/L. §-át a 2016. évi CXLIV. törvény hatálybalépésekor folyamatban lévő hatósági eljárásokban is alkalmazni kell.
 
 ### 1. melléklet a 2006. évi LIII. törvényhez
 

@@ -6,15 +6,7 @@ a dohányzás visszaszorításával összefüggő egyes törvények módosítás
 
 1–8. §
 
-9. § (1) A Dohánytörvény 15/E. § (2)–(5) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(2) A dohánytermék-nagykereskedő köteles – a cigaretta kivételével – minden olyan dohánytermékre, amelyet a dohány-kiskereskedelmi ellátó a dohánytermék-nagykereskedőtől szerez be, a dohánytermék dohánytermék-kiskereskedő részére történő átadása napján érvényes – adókkal nem csökkentett – kiskereskedelmi eladási árának tizenöt százalékát elérő kiskereskedelmi árrést biztosítani. Ennek megfelelően a dohánytermék-nagykereskedő a dohány-kiskereskedelmi ellátótól – a cigaretta kivételével – a dohánytermék után legfeljebb olyan árat követelhet, amely nem nagyobb a dohánytermék dohánytermék-kiskereskedő részére történő átadása napján érvényes – adókkal nem csökkentett – kiskereskedelmi eladási árának 0,85-szoros szorzatával kiszámolt összegnél.
-
-(3) A (2) bekezdés rendelkezéseit cigaretta esetében is megfelelően alkalmazni kell azzal, hogy a dohány-kiskereskedelmi ellátó részére biztosítandó kiskereskedelmi árrés mértéke a cigaretta dohánytermék-kiskereskedő részére történő átadása napján érvényes – adókkal nem csökkentett – kiskereskedelmi eladási árának tizenhárom százaléka.
-
-(4) A dohány-kiskereskedelmi ellátó köteles – a cigaretta kivételével – minden olyan dohánytermékre, amelyet a dohánytermék-kiskereskedő a dohány-kiskereskedelmi ellátótól szerez be, a dohánytermék dohánytermék-kiskereskedő részére történő átadása napján érvényes – adókkal nem csökkentett – kiskereskedelmi eladási árának legalább tíz, legfeljebb tizenhárom százalékát elérő kiskereskedelmi árrést biztosítani. A kiskereskedelmi árrés mértékét a dohánytermék-ellátó az általános szerződési feltételeiben sávosan határozza meg; a sávok alapján nyújtott kereskedelmi árrés kizárólag a dohánytermék-kiskereskedő által az adott időszakban a dohány-kiskereskedelmi ellátótól vásárolt dohánytermékek összértékétől tehető – fordítottan arányosan – függővé.
-
-(5) A (4) bekezdés rendelkezéseit cigaretta esetében is megfelelően alkalmazni kell azzal, hogy a dohánytermék-kiskereskedő részére biztosítandó kiskereskedelmi árrés mértéke a cigaretta dohánytermék-kiskereskedő részére történő átadása napján érvényes – adókkal nem csökkentett – kiskereskedelmi eladási árának legalább tíz, legfeljebb tizenegy és fél százaléka.”
+9. § (1)
 
 (2)
 
@@ -22,9 +14,7 @@ a dohányzás visszaszorításával összefüggő egyes törvények módosítás
 
 14. § (1)–(2)
 
-(3) A Dohánytörvény 24/A. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) A Módtv.2.-vel megállapított 15/E. § (2)–(5) bekezdésében foglaltakat a kiskereskedelmi eladási árat is feltüntető adójegyet tartalmazó dohánytermékek esetében azzal az eltéréssel kell alkalmazni, hogy az árrés megállapításának alapja az adójegyen szereplő kiskereskedelmi eladási ár.”
+(3)
 
 15–18. §
 
@@ -44,13 +34,33 @@ a dohányzás visszaszorításával összefüggő egyes törvények módosítás
 
 „2. dohánygyártmány: a cigaretta, a szivar, szivarka, a finomra vágott fogyasztási dohány, az egyéb fogyasztási dohány, a töltőfolyadék és az új dohánytermék-kategóriák, kivéve a kizárólag gyógyászati célra használt, gyógyhatású anyagot tartalmazó terméket, amely nem tartalmaz dohányt és a külön jogszabályban meghatározott hatóság által kiadott hatályos forgalomba hozatali engedéllyel rendelkezik;”
 
-(2)
+(2) A Jöt. 3. § (4) bekezdése a következő 14. ponttal egészül ki:
 
-25. §
+(E törvény alkalmazásában a dohánygyártmányok adóztatására vonatkozóan)
 
-26. §
+„14. új dohánytermék-kategóriák: e törvény szerint cigarettának, szivarnak, szivarkának, fogyasztási dohánynak vagy töltőfolyadéknak nem minősülő, a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló törvényben ekként meghatározott dohánytermékek.”
 
-27. § (1)
+25. § A Jöt. 62. § (4) bekezdése a következő k) ponttal egészül ki:
+
+[A (3) bekezdés f) pontja szerinti mennyiség]
+
+„k) az új dohánytermék-kategóriák esetében 800 darab.”
+
+26. § A Jöt. 74. § (1) bekezdése a következő j) ponttal egészül ki:
+
+(Dohánygyártmányt és alkoholterméket csak zárjeggyel ellátva bocsáthat szabadforgalomba forgalmazási céllal az adóraktár engedélyese, importálhat az importáló és lehet belföldön forgalmazni, kivéve)
+
+„j) az új dohánytermék-kategóriákat.”
+
+27. § (1) A Jöt. 145. § (1) bekezdése a következő f) ponttal egészül ki:
+
+(A jövedéki adó mértéke)
+
+„f) az új dohánytermék-kategóriák dohányt tartalmazó, vagy dohánnyal együtt fogyasztott
+
+fa) egyszer használatos termékeire 10 forint darabonként (szálanként),
+
+fb) folyadékára 70 forint milliliterenként.”
 
 (2) A Jöt. 145. § (5) bekezdése a következő szöveggel lép hatályba:
 

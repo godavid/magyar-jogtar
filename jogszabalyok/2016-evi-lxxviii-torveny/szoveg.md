@@ -12,9 +12,7 @@ egyes területrendezési tárgyú törvények módosításáról
 
 #### 2. A Balaton Kiemelt Üdülőkörzet Területrendezési Tervének elfogadásáról és a Balatoni Területrendezési Szabályzat megállapításáról szóló 2000. évi CXII. törvény módosítása
 
-4. § A Balaton Kiemelt Üdülőkörzet Területrendezési Tervének elfogadásáról és a Balatoni Területrendezési Szabályzat megállapításáról szóló 2000. évi CXII. törvény (a továbbiakban: Btv.) 16. §-a helyébe a következő rendelkezés lép:
-
-„16. § Az e törvényben meghatározott célok, valamint a jogszabályok szerinti környezetvédelmi, természetvédelmi és vízgazdálkodási célok megvalósítása érdekében a vízgazdálkodásért felelős miniszter a környezetvédelemért és a természetvédelemért, valamint a településrendezésért és területrendezésért felelős miniszter egyetértésével kiadott rendelettel partvonal-szabályozási tervet fogad el.”
+4. §
 
 5. §
 
@@ -24,15 +22,15 @@ egyes területrendezési tárgyú törvények módosításáról
 
 - a)
 - b)
-- c) 58. § (1) bekezdés a) pontjában a „vízpart-rehabilitációs szabályozási” szövegrész helyébe a „vízpart-rehabilitációs szabályozási, valamint a partvonal-szabályozási” szöveg, valamint
-- d) 58. § (3) bekezdésében a „vízpart-rehabilitációs tanulmánytervek első felülvizsgálatát megelőzően” szövegrész helyébe a „Balaton Kiemelt Üdülőkörzet Területrendezési Tervének első felülvizsgálatát megelőzően a környezetvédelemért és a természetvédelemért, valamint a településrendezésért és területrendezésért felelős miniszter egyetértésével” szöveg
+- c)
+- d)
 
 lép.
 
 8. § Hatályát veszti a Btv.
 
 - a)–g)
-- h) 59. § (1) bekezdésében az „ , első felülvizsgálatukat követően a partvonal-szabályozási és vízpart-rehabilitációs tervekkel” szövegrész,
+- h)
 - i)–m)
 
 #### 3. Az Országos Területrendezési Tervről szóló 2003. évi XXVI. törvény módosítása
