@@ -2036,9 +2036,13 @@ elektronikus úton vagy az adatbázisok közvetlen elérésével is meggyőződh
 
 (5) A bíróság a 8. § megfelelő alkalmazásával pénzbírsággal sújtja azt a felet vagy képviselőt, aki a saját, illetőleg az általa képviselt fél aláírásának valódiságát jobb tudomása ellenére vagy nagyfokú gondatlanságból tagadta.
 
-(6) A lenyomatképző algoritmusok biztonsági gyengülése ellen védett, minősített bizalmi szolgáltató vagy archiválási rendszerek megfelelőségének értékelésére feljogosított szervezet által értékelt zárt rendszerben alkalmazott bizalmi szolgáltatás, jogszabályban meghatározott hosszú távú megőrzésre alkalmas archiváló rendszerében tárolt, legalább fokozott biztonságú elektronikus aláírással vagy bélyegzővel ellátott elektronikus okirat valódiságát vélelmezni kell.
+(6) Az elektronikus okirat esetén az aláírt vagy bélyegzővel ellátott adatokat az ellenkező bizonyításáig meg nem hamisítottnak kell tekinteni a tárolást végző szolgáltató igazolása alapján, ha a szolgáltató
 
-(7) A 196. § (1) bekezdés g) pontja szerinti bizalmi szolgáltató által kiállított, bizalmi szolgáltató vagy archiválási rendszerek megfelelőségének értékelésére feljogosított szervezet által értékelt zárt rendszerben alkalmazott bizalmi szolgáltatás, jogszabályban meghatározott hosszú távú megőrzésre alkalmas, a lenyomatképző algoritmusok biztonsági gyengülése ellen védett archiváló rendszerében tárolt elektronikus okirat valódiságát vélelmezni kell.
+- a) a tárolásra átvételkor meggyőződött az elektronikus dokumentum hitelesítésének érvényességéről,
+- b) a tárolást a Kormány rendeletében meghatározott feltételeknek megfelelő, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény szerinti minősített archiválási szolgáltatás vagy elektronikus dokumentumtárolás központi elektronikus ügyintézési szolgáltatás keretében végzi, és
+- c) a Kormány rendeletében meghatározottak szerint igazolja az elektronikus okirat hitelességét.
+
+(7)
 
 198. § A 196. és 197. §-ok rendelkezéseit a külföldön kiállított magánokiratokra is alkalmazni kell azzal, hogy
 

@@ -2294,7 +2294,7 @@ kapcsolatos adatok megismerésére és kezelésére.
 - d) fennmaradási engedélyezési eljárás,
 - e) megszüntetési eljárás.
 
-116. § (1) A villamosmű, termelői vezeték, magánvezeték és a közvetlen vezeték építéséhez, üzemeltetéséhez, használatbavételéhez, fennmaradásához és megszüntetéséhez az építésügyi hatóság (e fejezetben a továbbiakban: Hatóság), mint sajátos építményfajtát engedélyező építésügyi hatóság e törvényben előírt engedélye vagy a bejelentés tudomásulvétele szükséges.
+116. § (1) A villamosmű, termelői vezeték, magánvezeték, közvetlen vezeték és az ideiglenes vezeték építéséhez, üzemeltetéséhez, használatbavételéhez, fennmaradásához és megszüntetéséhez az építésügyi hatóság (e fejezetben a továbbiakban: Hatóság), mint sajátos építményfajtát engedélyező építésügyi hatóság e törvényben előírt engedélye vagy a bejelentés tudomásulvétele szükséges.
 
 (2) A 115. §-ban meghatározott engedélyezési eljárásoknál a Hatóság külön jogszabályban meghatározott esetekben egyszerűsített engedélyezési eljárást folytathat le.
 

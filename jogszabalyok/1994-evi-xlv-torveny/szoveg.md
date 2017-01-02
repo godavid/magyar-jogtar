@@ -318,7 +318,7 @@ egyéb ellátásától függetlenül havi rendszeres járadékra jogosult, amely
 
 - a) a hadigondozási igényjogosultságról, a hadirokkant járadékosztályba sorolásáról és az orvosszakértői szerv szakvéleményében megjelölt gyógyászati segédeszköz, valamint a hadieredetű fogyatkozás megnevezéséről,
 - b) a pénzellátások – beleértve az egyösszegű térítést és a temetési hozzájárulást is – megállapításáról és összegszerűségéről,
-- c) a hadirokkant közgyógyellátásra jogosító igazolványa, valamint a hadirokkantat és a hadiözvegyet megillető hadigondozotti igazolvány kiadásáról, és
+- c) kizárólag a hadirokkant és a hadiözvegy esetében a hadigondozotti igazolvány kiadásáról,
 - d) a pénzellátás szüneteltetéséről, megszüntetéséről, valamint a jogalap nélkül felvett pénzellátás visszafizetéséről.
 
 (3) Az elsőfokú hadigondozási hatóság a hadigondozásba vett személyről a következő nyilvántartást vezeti:

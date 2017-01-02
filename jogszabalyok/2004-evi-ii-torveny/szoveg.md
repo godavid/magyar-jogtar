@@ -1012,15 +1012,7 @@ kérelmére a közvetett támogatás igénybevételére jogosító támogatási 
 
 (6) A Hivatal indokolt kérelemre, különös méltánylást érdemlő esetben a 31/D. § (2) bekezdése szerint kiadott támogatási igazolásokat vagy a költségellenőrzési eljárásokat lezáró határozatokat az addig összesen elszámolt és igazolt filmgyártási költségek egészére tekintettel állítja ki a 12. § (10) bekezdésében foglalt arány, valamint a jogdíj, a produceri díj és a gyártáshoz kapcsolódó elszámolható reklámköltségek tekintetében alkalmazandó elszámolási limitek korrekciója, valamint a 31/E. § (2) bekezdése alapján a kérelemben feltüntetett időszakban figyelembe nem vett, pénzügyileg teljesített költség érvényesíthetősége, továbbá a 31/D. § (3) bekezdése szerint megállapított közvetett támogatás 25%-os mértékig történő kiegészítése érdekében, amennyiben megfelel a támogatásra jogosultság egyéb feltételeinek. E bekezdés alkalmazásában különös méltánylást érdemlő esetnek minősül, ha az egyedi ügyben megvalósuló jogsértés súlya aránytalanul kisebb az e törvényben meghatározott célok megvalósulásának társadalmi hasznosságánál.
 
-(7) A Tao. tv. 22. § (3) bekezdése szerint biztosított támogatás esetében a közvetett támogatás forrását biztosító szervezet az MNF-fel kötött megállapodás alapján utalja a közvetett támogatás forrását a letéti számlára. A Tao. tv. 24/A. § (3) bekezdés a) pontja szerint biztosított közvetett támogatás esetében a kedvezményezett célra felajánlott összeget mint közvetett támogatást az állami adóhatóság utalja a letéti számlára. A letéti számlára a tárgyévben befizetett összeg a Tao. tv. 22. § (8) bekezdés a) pontja szerinti kiegészítő támogatás nélkül
-
-- a) a 2013. évben a 9700,0 millió forintot,
-- b) a 2014. évben a 7000,0 millió forintot,
-- c) a 2015. évben a 12 000,0 millió forintot,
-- d) a 2016. évben a 14 000,0 millió forintot
-- e) a 2017. évben a 14 000,0 millió forintot
-
-nem haladhatja meg.
+(7) A Tao. tv. 22. § (3) bekezdése szerint biztosított támogatás esetében a közvetett támogatás forrását biztosító szervezet az MNF-fel kötött megállapodás alapján utalja a közvetett támogatás forrását a letéti számlára. A Tao. tv. 24/A. § (3) bekezdés a) pontja szerint biztosított közvetett támogatás esetében a kedvezményezett célra felajánlott összeget mint közvetett támogatást az állami adóhatóság utalja a letéti számlára. A letéti számlára a tárgyévben befizetett összeg a Tao. tv. 22. § (8) bekezdés a) pontja szerinti kiegészítő támogatás nélkül nem haladhatja meg az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott összeget.
 
 (8) A letéti számlát a társadalompolitika összehangolásáért felelős miniszter nyitja meg. A letéti számlán lévő pénzeszközökkel pénzügyi művelet az e törvényben meghatározott esetekben és módon az MNF rendelkezése alapján végezhető.
 
@@ -1034,7 +1026,7 @@ nem haladhatja meg.
 
 (12a) Az MNF minden negyedévet követő hónap ötödik napjáig tájékoztatja az állami adóhatóságot a letéti számlára a Tao. tv. 22. § (3) bekezdése alapján az adott negyedévben befolyt közvetett támogatások összegéről.
 
-(13) Az állami adóhatóság negyedévente, a negyedévet követő hó 15. napjáig a (7) bekezdésben meghatározott keretösszeg egynegyede és az adott negyedév során a Tao. tv. 22. § (3) és a Tao. tv. 24/A. § (3) bekezdés a) pontja alapján a letéti számlán összegyűjtött közvetett támogatás pozitív különbözetét az MNF részére megfizeti. Amennyiben az MNF valamely negyedévben a (7) bekezdésben meghatározott adott évi keretösszeg időarányos részénél több közvetett támogatást gyűjt, a felmerült negatív különbözetet az adott éven belül az állami adóhatóság a következő negyedév hasonló elszámolásánál figyelembe veszi.
+(13) Az állami adóhatóság negyedévente, a negyedévet követő hó 15. napjáig a jogszabályban meghatározott keretösszeg egynegyede és az adott negyedév során a Tao. tv. 22. § (3) és a Tao. tv. 24/A. § (3) bekezdés a) pontja alapján a letéti számlán összegyűjtött közvetett támogatás pozitív különbözetét az MNF részére megfizeti. Amennyiben az MNF valamely negyedévben a jogszabályban meghatározott adott évi keretösszeg időarányos részénél több közvetett támogatást gyűjt, a felmerült negatív különbözetet az adott éven belül az állami adóhatóság a következő negyedév hasonló elszámolásánál figyelembe veszi.
 
 31/E. § (1) A közvetlen filmgyártási költségek között az a filmgyártási és filmgyártás-előkészítési költség ismerhető el, amely e törvényben meghatározott, a mozgóképszakmai szervezetek és személyek nyilvántartásába való bejegyzés iránti kérelem benyújtását követően – a magyarországi gyártással összefüggésben belföldön vagy külföldön – keletkezett, és megfelel a (2)–(9) bekezdésben meghatározott feltételeknek.
 
@@ -1238,6 +1230,8 @@ nem haladhatja meg.
 ### 2. CÍM — Felhatalmazó rendelkezések
 
 37. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a települési önkormányzat, valamint az állam tulajdonában álló közterület filmforgatási célú használata kapcsán a filmforgatáshoz kapcsolódó eljárások lefolytatásának és a hatósági bejelentések, kérelmek továbbításának a rendjét, valamint az MNF eljárásához kapcsolódó nyilvántartásokkal kapcsolatos részletes szabályokat.
+
+(1a) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a letéti számlára a tárgyévben befizethető, kiegészítő támogatás nélküli összeget.
 
 (2) Felhatalmazást kap a miniszter, hogy
 
