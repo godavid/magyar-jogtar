@@ -12,9 +12,7 @@ a mozgóképről szóló 2004. évi II. törvény módosításáról
 
 9–12. §
 
-13. § Az Mktv. 31/D. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) A Tao. tv. 22. § (3) bekezdése szerint biztosított támogatás esetében a közvetett támogatás forrását biztosító szervezet az MNF-fel kötött megállapodás alapján utalja a közvetett támogatás forrását a letéti számlára. A Tao. tv. 24/A. § (3) bekezdés a) pontja szerint biztosított közvetett támogatás esetében a kedvezményezett célra felajánlott összeget mint közvetett támogatást az állami adóhatóság utalja a letéti számlára. A letéti számlára a tárgyévben befizetett összeg a Tao. tv. 22. § (8) bekezdés a) pontja szerinti kiegészítő támogatás nélkül nem haladhatja meg az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott összeget.”
+13. §
 
 14. §
 
@@ -24,13 +22,11 @@ a mozgóképről szóló 2004. évi II. törvény módosításáról
 
 16–19. §
 
-20. § Az Mktv. 37. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a letéti számlára a tárgyévben befizethető, kiegészítő támogatás nélküli összeget.”
+20. §
 
 21–23. §
 
-24. § Az Mktv. 31/D. § (13) bekezdésében a „(7) bekezdésben” szövegrészek helyébe a „jogszabályban” szöveg lép.
+24. §
 
 25. §
 

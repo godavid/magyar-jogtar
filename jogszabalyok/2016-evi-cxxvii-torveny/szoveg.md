@@ -8,13 +8,11 @@ a közigazgatási bürokráciacsökkentést érintő egyes törvények módosít
 
 #### 2. A közúti közlekedésről szóló 1988. évi I. törvény módosítása
 
-2. § (1) A közúti közlekedésről szóló 1988. évi I. törvény (a továbbiakban: Kkt.) 21. § (4a) bekezdése helyébe a következő rendelkezés lép:
-
-„(4a) Az (1) bekezdés a)–g) pontjában meghatározott szabályszegés miatt indult elsőfokú eljárást az előírás megszegését követő négy hónapon belül, az (1) bekezdés h) pontjában meghatározott szabályszegés miatt indult elsőfokú eljárást az előírás megszegését követő öt hónapon belül be kell fejezni.”
+2. § (1)
 
 (2)
 
-3. § A Kkt. 21. § (4) bekezdésében a „180 napon” szövegrész helyébe a „150 napon” szöveg lép.
+3. §
 
 4. §
 
@@ -60,11 +58,7 @@ lép.
 
 #### 10. A hadigondozásról szóló 1994. évi XLV. törvény módosítása
 
-17. § A hadigondozásról szóló 1994. évi XLV. törvény 26. § (2b) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-(Az elsőfokú hadigondozási hatóság határozatban dönt:)
-
-„c) kizárólag a hadirokkant és a hadiözvegy esetében a hadigondozotti igazolvány kiadásáról,”.
+17. §
 
 #### 11. A bírósági végrehajtásról szóló 1994. évi LIII. törvény módosítása
 

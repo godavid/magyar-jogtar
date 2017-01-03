@@ -17,37 +17,32 @@ az oktatás szabályozására vonatkozó egyes törvények módosításáról
 23. § Az Nkt.
 
 - 1.
-- 2. 15/A. § 2.1. (2) bekezdésében az „az állami intézményfenntartó központ” szövegrész helyébe az „az illetékes tankerületi központ”, 2.2. (3) bekezdésében az „Az illetékes tankerületi központ” szövegrész helyébe az „Az illetékes tankerületi központ – az oktatási központ egyetértésével –”,
-- 3. 21. § 3.1. 3.2. (9) bekezdésében a „közoktatási” szövegrészek helyébe a „köznevelési”,
-- 4. 23. § (6) bekezdésében a „közoktatási” szövegrészek helyébe a „köznevelési”,
+- 2.
+- 3. 21. § 3.1. 3.2.
+- 4.
 - 5.
-- 6. 32. § (2) bekezdésében a „közoktatási” szövegrészek helyébe a „köznevelési”,
-- 7. 34. § (2) és (3) bekezdésében a „közoktatási” szövegrészek helyébe a „köznevelési”,
+- 6–7.
 - 8.
-- 9. 38. § (7) bekezdésében 9.1. a „vizsgabizottságának” szövegrész helyébe a „vizsgabizottság, valamint a független vizsgabizottság”, 9.2. a „közoktatási” szövegrészek helyébe a „köznevelési”,
+- 9.
 - 10–11.
 - 12.
-- 13. 47. § (6) bekezdésében 13.1. a „járási hivatal kötelezheti” szövegrész helyébe a „köznevelési feladatot ellátó hatóság kötelezheti” 13.2. az „A járási hivatal döntése elleni fellebbezést a köznevelési feladatokat ellátó hatóság bírálja el.” szövegrész helyébe az „A köznevelési feladatot ellátó hatóság döntése ellen fellebbezésnek van helye.”, 13.3. a „járási hivatal felhívása” szövegrész helyébe a „köznevelési feladatot ellátó hatóság felhívása” 13.4. a „járási hivatal a gyermek” szövegrész helyébe a „köznevelési feladatot ellátó hatóság a gyermek”,
+- 13.
 - 14–15.
 - 16–19.
-- 20. 77. § (4) bekezdésében a „közoktatási” szövegrész helyébe a „köznevelési”,
-- 21. 79. § (6) és (7) bekezdésében a „közoktatási” szövegrészek helyébe a „köznevelési”,
+- 20–21.
 - 22.
-- 23. 93. §-ában a „közoktatási” szövegrészek helyébe a „köznevelési”,
+- 23.
 - 24.
-- 25. 94. § 25.1–25.2. 25.3. (4) bekezdés l) pontjában a „köznevelési feladatokat ellátó hatóságok” szövegrész helyébe a „kijelölje a köznevelési feladatokat ellátó hatóságot, a köznevelési feladatokat ellátó hatóság”
+- 25. 94. § 25.1–25.2. 25.3.
 - 26–28.
-- 29. 99/F. §-ában a „közoktatási” szövegrész helyébe a „köznevelési”
-
-szöveg lép.
+- 29. szöveg lép.
 
 24. § Hatályát veszti az Nkt.
 
 - a)
-- b) 38. § (7) bekezdésében a „ , továbbá független vizsgabizottság” szövegrész,
-- c) 44. § (2a) bekezdésében a „ , valamint a járási hivatal” szövegrész,
+- b)–c)
 - d)–e)
-- f) 82. § (4) bekezdésében az „A névjegyzékből adat kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából, továbbá az országos pedagógiai-szakmai ellenőrzés, valamint a minősítő vizsga és a minősítési eljárás szervezése céljából a köznevelési feladatokat ellátó hatóság részére szolgáltatható.” szövegrész
+- f)
 - g)
 
 #### 3. A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény módosítása
@@ -66,15 +61,7 @@ szöveg lép.
 
 42–44. §
 
-45. § Az Nftv. 115. §-a a következő (22) bekezdéssel egészül ki:
-
-„(22) 2017. február 1-jétől
-
-a) a Nyugat-magyarországi Egyetem Soproni Egyetem,
-
-b) a Magyar Táncművészeti Főiskola Magyar Táncművészeti Egyetem
-
-megnevezéssel működik.”
+45. §
 
 46. §
 

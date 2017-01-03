@@ -16,12 +16,10 @@ egyes foglalkoztatási tárgyú törvények módosításáról
 
 17–28. §
 
-29. § A Bgtv.
+29. §
 
 - a)–f)
-- g) 13. § (3) bekezdésében a „11. § (1) bekezdése szerinti” szövegrész helyébe a „11. § (1) és (1a) bekezdése szerinti” szöveg
-
-lép.
+- g)
 
 #### 4. A munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény módosítása
 
