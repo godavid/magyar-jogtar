@@ -61,7 +61,7 @@ egyes törvényeknek és törvényi rendelkezéseknek a jogrendszer túlszabály
 - 13.
 - 14.
 - 15.
-- 16. egyes munkaügyi tárgyú törvények módosításáról szóló 2009. évi CXXVI. törvény,
+- 16.
 - 17.
 - 18.
 - 19.
