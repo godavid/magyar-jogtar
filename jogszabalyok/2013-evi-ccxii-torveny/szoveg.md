@@ -38,7 +38,7 @@ a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. tö
 
 4. § A Földforgalmi törvény 5. § 4. pontjában meghatározott családi gazdaság alatt – a Földforgalmi törvény 1. § (2) bekezdésében foglalt külön törvény hatálybalépéséig – a gazdálkodó család tagjainak a tulajdonában és használatában álló földek, továbbá a földhöz tartozó, leltárban megjelölt ingatlan és ingó vagyontárgyak – így különösen épület, építmény, mezőgazdasági berendezés, felszerelés, gép, állatállomány, készlet – olyan együttesét kell érteni, amelynek a gazdálkodó család tagjai között létrejött szerződés szerinti hasznosítása egy családtag teljes foglalkoztatásán és a többi családtag közreműködésén alapul, és amelyet a földművelésügyi igazgatási szerv családi gazdaságként nyilvántartásba vett.
 
-#### 5. §
+5. § A Földforgalmi törvény 13. § (2) bekezdés c) pontjának, valamint a 42. § (2) bekezdés c) pontjának rendelkezéseit a vetőgumó és a vegetatív szaporítóanyag előállításra is alkalmazni kell.
 
 ### III. Fejezet — A KEDVEZMÉNYES BIRTOKMAXIMUMRA VONATKOZÓ RENDELKEZÉSEK
 
