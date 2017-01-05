@@ -181,7 +181,7 @@ A fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységek és az 
 - a) HR-I, NK hűtőközeg, NK berendezés, E-I képesített természetes személy alkalmazottal rendelkező vállalkozás és T kategória esetén 31 000 forint,
 - b) HR-IV, MR-I és VE hűtőközeg, VE berendezés esetén 26 000 forint,
 - c) HR-II és MR-II kategória esetén 21 000 forint
-- d) HR-III és MR-III kategória esetén 16 000 forint, valamint
+- d) HR-III és MR-III kategória, gyártó, ártalmatlanító, regeneráló esetén 16 000 forint, valamint
 - e) tulajdonos és üzemeltető esetében hűtőkörönként 30 Ft/F-ÜHG tCO2 egyenérték, de legalább 2000 forint.
 
 (6) A felügyeleti díj megfizetésére kötelezettek a felügyeleti díjat két egyenlő részletben, utólag, minden év július 31. napjáig és január 31. napjáig kötelesek megfizetni. A január 1. és június 30., valamint július 1. és december 31. közötti időszakra vonatkozó felügyeleti díj összegéről az energiapolitikáért felelős miniszter felügyelete alatt álló klímavédelemért felelős hatóság az adatbázison keresztül, egyenlegértesítő megküldése útján, június 30. és december 31. napját követő 5 munkanapon belül tájékoztatja a felügyeleti díj megfizetésére kötelezetteket. A tevékenység tárgyév január 1. és június 30. napja vagy július 1. és december 31. napja között történő megkezdése esetén a felügyeleti díjat a tevékenység megkezdésétől időarányosan kell megfizetni. A (3) bekezdés szerinti kötelezettek az (5) bekezdés e) pontja szerinti felügyeleti díjat a hűtőkörben megtalálható F-ÜHG töltet tCO2 egyenértéke után az üzemeltetés időszakára vonatkozóan időarányosan fizetik meg.
