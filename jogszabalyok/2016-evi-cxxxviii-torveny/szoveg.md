@@ -9,7 +9,7 @@ az egyes klímapolitikai és zöldgazdaság fejlesztési tárgyú törvények m�
 9. § Az Éhvt.
 
 - a)–d)
-- e)
+- e) 10/C. § (5) bekezdés d) pontjában a „kategória” szövegrész helyébe a „kategória, gyártó, ártalmatlanító, regeneráló” szöveg,
 - f)–h)
 
 lép.
