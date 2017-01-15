@@ -190,7 +190,7 @@ meghatározott tájékoztatási követelményekben előírt információ az ott 
 
 (2) A bíróság előtti eljárásban a kereskedelmi gyakorlat részét képező tényállítás valóságának bizonyítása a vállalkozást terheli.
 
-(3) A kereskedelmi gyakorlat tisztességtelenségére alapított polgári jogi igény bíróság előtti érvényesítésére irányuló perekben megfelelően alkalmazni kell a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 88/B. §-ának (1)–(6) bekezdését.
+(3) A kereskedelmi gyakorlat tisztességtelenségére alapított polgári jogi igény bíróság előtti érvényesítésére irányuló perekben megfelelően alkalmazni kell a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény (a továbbiakban: Tpvt.) 88/B. § (1)–(8) bekezdését.
 
 16. § Ha a tisztességtelen kereskedelmi gyakorlat még nem valósult meg, de a vállalkozás tevékenysége, így különösen a szükséges feltételek megteremtése, szerződések megkötése, eszközök beszerzése alapján valószínűsíthető, hogy annak alkalmazására sor kerülne, az eljáró hatóság jogosult a tervezett kereskedelmi gyakorlat előzetes megtiltására.
 
@@ -204,7 +204,7 @@ meghatározott tájékoztatási követelményekben előírt információ az ott 
 
 - a) a fogyasztóvédelmi hatóság eljárása tekintetében a fogyasztóvédelemről szóló 1997. évi CLV. törvény (a továbbiakban: Fgytv.),
 - b) a Felügyelet eljárása tekintetében a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény (a továbbiakban: MNBtv.),
-- c) a Gazdasági Versenyhivatal eljárása tekintetében a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény (a továbbiakban: Tpvt.)
+- c) a Gazdasági Versenyhivatal eljárása tekintetében a Tpvt.
 
 rendelkezéseit kell alkalmazni.
 
@@ -236,7 +236,7 @@ rendelkezéseit kell alkalmazni.
 
 25. § (1) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatt benyújtott bejelentéssel, illetve panasszal kapcsolatos eljárásra – a Tpvt. 43/H. §-ának (2) bekezdésétől és 43/I. §-a (1) bekezdésétől eltérően – a közigazgatási hatósági eljárás általános szabályairól szóló törvény hatásköri vitára vonatkozó rendelkezéseit is megfelelően alkalmazni kell azzal, hogy ügyfél alatt a bejelentőt, illetve a panaszost kell érteni.
 
-(2) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatt benyújtott bejelentéssel kapcsolatos eljárásban a vizsgáló a bejelentés beérkezését követő naptól számított harminc napon belül hozza meg a Tpvt. 43/H. §-ának (8) bekezdése szerinti végzést.
+(2) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatt benyújtott bejelentéssel kapcsolatos eljárásban a vizsgáló a bejelentés beérkezését követő naptól számított harminc napon belül hozza meg a Tpvt. 43/H. § (7) bekezdése szerinti végzést.
 
 (3) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatti bejelentésről a Gazdasági Versenyhivatal az ügy érdemi azonosíthatóságához szükséges adatok – így különösen az érintett vállalkozás azonosításához szükséges adatok, az eljárást kezdeményező személyének azonosításához szükséges, általa megadott adatok – és az eljárás tárgyát képező tényállás ismertetésével értesíti a fogyasztóvédelmi hatóságot vagy – a 10. § (2) bekezdése szerinti kereskedelmi gyakorlat esetén – Felügyeletet.
 
