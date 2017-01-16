@@ -140,6 +140,8 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 
 (4) A hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv ellátja a 4. § (2a) bekezdés f) pontja szerinti külföldön élő magyar állampolgárok, a Magyarország területén élő, a 4. § (2d) bekezdése szerinti magyar állampolgárok nyilvántartásba vételével kapcsolatos feladatokat.
 
+(5) A konzuli tisztviselő eljár a személyazonosító igazolvánnyal kapcsolatos ügyekben.
+
 7. § (1) A járási hivatal
 
 - a) gondoskodik a járás (fővárosi kerület) területén lakcímmel rendelkező polgár adatainak, adatváltozásainak, illetve adatjavításainak, valamint a polgár adataiban a járás (fővárosi kerület) közigazgatási területén bekövetkezett változásoknak a nyilvántartáson történő átvezetéséről;
@@ -156,7 +158,11 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 
 (2) A települési önkormányzat jegyzője a polgár egészségügyi okból történő akadályoztatása esetén átveszi a polgár személyazonosító igazolvány iránti kérelmét, ellenőrzi a kérelmező jogosultságát és személyazonosságát, ellátja a kérelem továbbításával kapcsolatban hatáskörébe utalt hatósági feladatokat.
 
-#### 7/A. §
+7/A. § A konzuli tisztviselő
+
+- a) jogszabályban meghatározott kivételekkel eljár a személyazonosító igazolvánnyal összefüggő hatósági ügyekben;
+- b) ellenőrzi a személyazonosító igazolvány iránti kérelem adatait és gondoskodik a személyazonosító igazolvány polgár részére történő átadásáról;
+- c) ellátja a személyazonosító igazolvány kiadásával kapcsolatosan hatáskörébe utalt, törvényben meghatározott adatkezelési feladatokat.
 
 #### 7/B. §
 
@@ -473,9 +479,9 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 - d) az idegenrendészeti szervek a jogszabályban meghatározott idegenrendészeti feladataik ellátásához;
 - e) a központi menekültügyi szerv a törvényben meghatározott feladatai ellátásához;
 - f) a szabálysértési hatóság és a szabálysértési nyilvántartó szerv az eljárás alá vont személy személyazonosságának ellenőrzéséhez;
-- g) az elektronikus anyakönyvbe bejegyzés teljesítésére jogosult személy az anyakönyvezési feladatainak ellátása céljából;
-- h) a konzuli szolgálat közigazgatási hatósági jogkört gyakorló konzuli tisztviselője a konzuli érdekvédelmi feladatok ellátásához;
-- i) az útlevélhatóság, valamint a konzuli szolgálat közigazgatási hatósági jogkört gyakorló konzuli tisztviselője az útlevél-ügyintézéshez;
+- g) az elektronikus anyakönyvbe bejegyzés teljesítésére jogosult személy az anyakönyvezési feladatainak ellátása céljából, az anyakönyvi felügyeletet ellátó szerv a szakmai irányítási tevékenység ellátása céljából, a konzuli tisztviselő, illetve annak munkájában közreműködő, a külpolitikáért felelős miniszter által felhatalmazott, diplomáciai vagy hivatásos konzuli képviseleten igazgatási munkakörben konzuli feladatot ellátó személy az anyakönyvezéssel összefüggő feladatainak ellátása céljából,
+- h) a konzuli szolgálat közigazgatási hatósági jogkört gyakorló konzuli tisztviselője, illetve annak munkájában közreműködő, a külpolitikáért felelős miniszter által felhatalmazott, diplomáciai vagy hivatásos konzuli képviseleten igazgatási munkakörben konzuli feladatot ellátó személy a konzuli érdekvédelmi feladatok ellátásához,
+- i) az útlevélhatóság, valamint a konzuli szolgálat közigazgatási hatósági jogkört gyakorló konzuli tisztviselője, illetve annak munkájában közreműködő, a külpolitikáért felelős miniszter által felhatalmazott, diplomáciai vagy hivatásos konzuli képviseleten igazgatási munkakörben konzuli feladatot ellátó személy az útlevél-ügyintézéshez,
 - j) az értesítési cím adatok, állampolgárság, családi állapot, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye kivételével a gondnokoltak és az előzetes jognyilatkozatok nyilvántartását vezető szerv a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról szóló törvényben meghatározott feladatai ellátásához;
 - k) a körözési nyilvántartó szerv a körözött személy személyazonosságának ellenőrzéséhez.
 
