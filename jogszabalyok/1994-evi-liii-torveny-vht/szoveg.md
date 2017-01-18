@@ -45,6 +45,8 @@ a bírósági végrehajtásról
 
 (5) A bíróság és a végrehajtó a végrehajtási eljárás során szükség esetén megkeresi az adóhatóságot a hozzá bejelentett pénzforgalmi számlaszámok közlése végett, továbbá a pénzforgalmi szolgáltatókat az adós náluk kezelt pénzösszegeinek végrehajtás alá vonásához szükséges adatok (számlaszám) közlése végett.
 
+(6) A Magyar Bírósági Végrehajtói Kar (a továbbiakban: Kar) az (5) bekezdésnek megfelelően keresi meg a pénzforgalmi szolgáltatókat akkor, ha a polgári és kereskedelmi ügyekben a tagállamközi követelésbehajtás megkönnyítése érdekében az ideiglenes számlazárolást elrendelő európai végzés eljárásának létrehozásáról szóló, 2014. május 15-i 655/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 655/2014/EU rendelet) 14. cikke szerinti információs hatóságként jár el.
+
 8. § (1) E törvény keretei között a végrehajtást kérő rendelkezésétől függ, hogy az adós milyen jellegű vagyontárgyából kívánja követelésének végrehajtását.
 
 (2) A bíróság a végrehajtási kényszer arányos, illetőleg fokozatos alkalmazása céljából a végrehajtást kérő rendelkezésétől az adós érdekében eltérhet.
@@ -158,7 +160,7 @@ a bírósági végrehajtásról
 - a) a követelés több végrehajtást kérőt illet meg, és a követelésnek az egyes végrehajtást kérőkre eső része a végrehajtandó határozatban pontosan meg van jelölve, vagy
 - b) a követelés több adóssal szemben áll fenn.
 
-(3) A végrehajtási lap eredeti példánya a bíróságnál marad. A végrehajtási lapról annyi kiadmányt kell készíteni, hogy a végrehajtó, az önálló bírósági végrehajtó hatáskörébe tartozó ügyben a Magyar Bírósági Végrehajtói Kar (a továbbiakban: Kar) hivatali szerve, valamint minden végrehajtást kérő és adós (a továbbiakban együtt: felek) egy-egy példányt kapjanak.
+(3) A végrehajtási lap eredeti példánya a bíróságnál marad. A végrehajtási lapról annyi kiadmányt kell készíteni, hogy a végrehajtó, az önálló bírósági végrehajtó hatáskörébe tartozó ügyben a Kar hivatali szerve, valamint minden végrehajtást kérő és adós (a továbbiakban együtt: felek) egy-egy példányt kapjanak.
 
 19. § (1) A bíróság a végrehajtási lap kiállítását megtagadja, ha a végrehajtási kérelem teljesen alaptalan. Erről a bíróság végzést hoz, és azt a végrehajtást kérőnek kézbesítteti.
 
@@ -512,7 +514,7 @@ a bírósági végrehajtásról
 
 (3) Amennyiben a végrehajtást kérő kézbesítési megbízottat nem jelöl meg, vagy az (1) bekezdésben meghatározott iratokat a kézbesítési megbízott részére kézbesíteni nem lehet, az iratot hirdetmény útján kell kézbesíteni. A Pp. 102. § (2) és (5)–(7) bekezdéseit megfelelően alkalmazni kell.
 
-(4) Nem kell kézbesítési megbízottat megjelölni a 861/2007/EK rendelet, a 4/2009/EK tanácsi rendelet, az 1215/2012/EU rendelet, és a 650/2012/EU európai parlamenti és tanácsi rendelet szerinti határozat végrehajtására indult eljárásban.
+(4) Nem kell kézbesítési megbízottat megjelölni a 861/2007/EK rendelet, a 4/2009/EK tanácsi rendelet, az 1215/2012/EU rendelet, a 650/2012/EU európai parlamenti és tanácsi rendelet, és a 655/2014/EU rendelet szerinti határozat végrehajtására indult eljárásban.
 
 37/C. § (1) A végrehajtó a végrehajtás foganatosítása során keletkezett iratokat – ha a kézbesítési rendszer használata e törvény szerint kötelező – a kézbesítési rendszer igénybevételével elektronikus úton kézbesíti.
 
@@ -1060,7 +1062,9 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 (4) A (2) bekezdés ugyanazon pontjában szereplő összegek közül előbb az alacsonyabb kamatozású betétösszegeket, majd ezt követően a magasabb kamatozású betétösszegeket, az azonos kamatozású betétösszegek közül előbb a korábban lekötött betétösszegeket, majd ezt követően a később lekötött betétösszegeket kell végrehajtás alá vonni.
 
-(5) A végrehajtást foganatosító hatóság rendelkezését az abban foglalt pénznemtől függetlenül forintban kell teljesíteni a pénzforgalmi szolgáltató által jegyzett – a teljesítés napján érvényes – devizavételi árfolyam figyelembevételével.
+(5) A (2) bekezdés a)–e) pontjában meghatározott sorrendtől eltérően az európai számlazárolási végzés végrehajtása során a pénzforgalmi szolgáltató az (1) bekezdésben meghatározott kiterjesztést a 655/2014/EU rendelet 24. cikk (7) bekezdésében meghatározott sorrend szerint végzi el.
+
+(6) A végrehajtást foganatosító hatóság rendelkezését az abban foglalt pénznemtől függetlenül forintban kell teljesíteni a pénzforgalmi szolgáltató által jegyzett – a teljesítés napján érvényes – devizavételi árfolyam figyelembevételével.
 
 79/C. § (1) A pénzforgalmi szolgáltatónál több számlatulajdonos tulajdonában álló számlán kezelt pénzösszeg bármelyik számlatulajdonossal szemben fennálló követelés fejében teljes összegben végrehajtás alá vonható, a 79/A. § rendelkezéseit ebben az esetben is alkalmazni kell.
 
@@ -2401,6 +2405,12 @@ a közforgalom számára nyitva álló hivatali, vállalati vagy más épületre
 
 (4) A (2) bekezdésben meghatározott bíróság biztosítási intézkedést rendel el – 400 millió forintot meg nem haladó összegben – az olyan követelés érdekében, amely iránt belföldi bíróságnál a Teljesítésigazolási Szakértői Szerv szakvéleményére alapított pert indítottak, illetve viszontkeresetet érvényesítettek, és a tervezési, építési, kivitelezési szerződés teljesítéséből eredő díjkövetelés megfizetésére vonatkozó követelés a Teljesítésigazolási Szakértői Szerv szakvéleményén alapul.
 
+(5) Biztosítási intézkedésként ideiglenes számlazárolás rendelhető el e § alapján a 655/2014/EU rendelet 5. cikkében meghatározott esetekben is.
+
+(6) A 655/2014/EU rendelet 10. cikk (2) bekezdésében, 23. cikk (3), (5) és (6) bekezdésében, 27. cikk (2) bekezdésében, 28. cikk (3) bekezdésében és 36. cikk (5) bekezdésében említett illetékes hatóságként a végrehajtó jár el.
+
+(7) A 655/2014/EU rendelet alapján indított eljárásokban az ideiglenes számlazárolást elrendelő európai végzés eljárásának létrehozásáról szóló 655/2014/EU európai parlamenti és tanácsi rendeletben említett formanyomtatványok meghatározásáról szóló 2016/1823. bizottsági (EU) végrehajtási rendeletben meghatározott formanyomtatványokat kell alkalmazni.
+
 188. § (1) Biztosítási intézkedés rendelhető el az olyan követelés érdekében, amely iránt belföldi választottbíróságnál keresetet indítottak, ha a végrehajtást kérő
 
 - a) a kérelméhez csatolta a választottbíróság igazolását arról, hogy a választottbírósági eljárás megindult, és
@@ -3340,7 +3350,8 @@ esetén van lehetőség.
 - 31. ellenőrizheti a 226/A. §-ban foglaltak betartását;
 - 32. elkészíti a Kar etikai szabályzatát;
 - 33. a Kar tagjaira kötelező iránymutatást adhat ki, különösen a végrehajtó irodájának kialakításáról, felszereltségéről,
-- 34. ellátja a végrehajtók, végrehajtó-helyettesek és végrehajtójelöltek feletti szakmai felügyeletet, ennek keretében jogosult a végrehajtó működését, ügyvitelét és pénzkezelését ellenőrizni, továbbá a végrehajtó által lefolytatott eljárási cselekményen részt venni.
+- 34. ellátja a végrehajtók, végrehajtó-helyettesek és végrehajtójelöltek feletti szakmai felügyeletet, ennek keretében jogosult a végrehajtó működését, ügyvitelét és pénzkezelését ellenőrizni, továbbá a végrehajtó által lefolytatott eljárási cselekményen részt venni,
+- 35. ellátja a 655/2014/EU rendelet 14. cikke szerinti információs hatósági feladatokat.
 
 (3) A Kar a 251. § (1) bekezdés c) pontja szerinti hivatali szerve útján gyakorolja a (2) bekezdésben meghatározott jogokat és teljesíti a (2) bekezdésben meghatározott kötelezettségeket. E jogok gyakorlása és kötelezettségek teljesítése során a hivatali szerv együttműködik a Kar elnökségével, a Kart a hivatali szerv vezetője képviseli.
 
