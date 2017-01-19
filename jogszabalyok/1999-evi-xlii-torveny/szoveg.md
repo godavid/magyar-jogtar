@@ -161,6 +161,8 @@ hozható meg.
 
 6/B. § A dohánytermékek fogyasztók részére történő, határokon átnyúló távértékesítése tilos.
 
+6/C. § Az e törvény végrehajtására kiadott kormányrendelet szerint bejelentett, a dohánytermékhez, annak csomagolási egységéhez vagy bármely gyűjtőcsomaghoz hozzáadott, dohánytól eltérő anyagok (a továbbiakban: adalékanyag) bejelentése esetén, valamint adalékanyagonként évente tárgyév március 31-éig igazgatási szolgáltatási díjat kell fizetni az egészségügyi államigazgatási szerv részére. A bejelentést követő évtől az igazgatási szolgáltatási díj a bejelentés fenntartását szolgálja.
+
 ### A dohánytermékek fogyasztására,illetőleg forgalmazására vonatkozó tilalmak,valamint kötelezettségek megszegése
 
 7. § (1) A 2–4/A. §-ban, a 7/H. §-ban, a 9. §-ban foglalt, valamint a munkavédelemről szóló 1993. évi XCIII. törvény 38. §-a szerinti rendelkezések betartását az egészségügyi államigazgatási szerv ellenőrzi, és azok megsértése esetén – a jogsértő természetes vagy jogi személlyel, illetve jogi személyiség nélküli szervezettel szemben – egészségvédelmi bírságot szab ki. Az egészségügyi államigazgatási szerv eltekinthet a bírság kiszabásától a 4. § (9) bekezdésében meghatározott személlyel szemben, ha a rendelkezésre jogosult a dohányzásra vagy az elektronikus cigaretta és a dohányzást imitáló elektronikus eszköz használatára vonatkozó korlátozást megsértővel szemben a 3. § (1) bekezdésében meghatározott kötelezettségének bizonyíthatóan eleget tett.
@@ -212,7 +214,7 @@ hozható meg.
 
 (3) Az (1) bekezdésben foglaltaknak megfelelően az elektronikus cigarettát vagy az utántöltő flakont érintő minden olyan változást be kell jelenteni, amely a termék e törvény vagy az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott műszaki jellemzőit érinti.
 
-(4) Az (1) és (3) bekezdés szerinti bejelentés esetén a bejelentésre kötelezettnek igazgatási szolgáltatási díjat kell fizetnie az egészségügyi államigazgatási szerv részére.
+(4) Az (1) és (3) bekezdés szerinti bejelentés esetén, valamint a bejelentett és az egészségügyi államigazgatási szerv által az e törvény végrehajtására kiadott kormányrendelet szerint kiállított igazolással rendelkező termékek esetében évente, a tárgyév március 31-éig a bejelentésre kötelezettnek igazgatási szolgáltatási díjat kell fizetnie az egészségügyi államigazgatási szerv részére. A bejelentést követő évtől az igazgatási szolgáltatási díj a bejelentés fenntartását szolgálja.
 
 7/E. § (1) Az információs társadalmi szolgáltatás keretében, a sajtóban és más nyomtatott kiadványokban tilos minden olyan, a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény (a továbbiakban: Mttv.) szerinti kereskedelmi közlemény, amelynek célja, illetve közvetlen vagy közvetett hatása az elektronikus cigaretták és az utántöltő flakonok népszerűsítése. Ez a tilalom nem vonatkozik azokra a kiadványokra, amelyek kizárólag az elektronikus cigaretták és az utántöltő flakonok kereskedelmének szakmai képviselői részére szólnak, továbbá a harmadik országokban nyomtatott és publikált kiadványokra, ha azok nem az uniós piacra készülnek.
 
@@ -250,6 +252,8 @@ hozható meg.
 (2) Az új dohánytermék-kategóriák előzetes bejelentést követően hozhatók kereskedelmi forgalomba. A bejelentés és az első forgalomba hozatal között legalább három hónapnak kell eltelnie.
 
 (3) Jogszabály az új dohánytermék-kategóriák forgalmazására és ismertetésére különös szabályokat állapíthat meg.
+
+(4) Az új dohánytermék-kategóriák gyártói vagy forgalomba hozói a (2) bekezdés szerinti bejelentés esetén, valamint évente, tárgyév március 31-éig termékenként igazgatási szolgáltatási díjat fizetnek az egészségügyi államigazgatási szerv részére. A bejelentést követő évtől az igazgatási szolgáltatási díj a bejelentés fenntartását szolgálja.
 
 7/K. § (1) Az egészségügyi államigazgatási szerv az új dohánytermék-kategóriák gyártójának vagy forgalomba hozójának kérelmére folytatja le a Magyarországon forgalomba hozni kívánt termék módosított hatású terméknek történő minősítésére irányuló eljárást.
 
@@ -334,5 +338,7 @@ részletes szabályokat rendeletben határozza meg.
 (2) A 2016. november 20-a előtt gyártott elektronikus cigaretták, valamint utántöltő flakonok 2017. május 20-áig hozhatók forgalomba.
 
 (3) A 2016. május 19-én már forgalomban lévő elektronikus cigaretta esetében az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2015. évi CCXXIV. törvénnyel megállapított 7/D. § (1) bekezdése szerinti bejelentést 2016. december 20-áig kell megtenni.
+
+(4) Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2016. évi CLXXII. törvénnyel megállapított, 6/C. §, 7/D. § (4) bekezdése és a 7/J. § (4) bekezdése szerinti, az adalékanyagok, az elektronikus cigaretták, utántöltő flakonok, dohányzást imitáló elektronikus eszközök, valamint új dohánytermék-kategóriára vonatkozó bejelentések fenntartásáért évente fizetendő igazgatási szolgáltatási díjat első ízben a termék bejelentését követő év március 31-éig kell megfizetni.
 
 ### Melléklet az 1999. évi XLII. törvényhez
