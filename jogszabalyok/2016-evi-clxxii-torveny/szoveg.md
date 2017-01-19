@@ -44,11 +44,23 @@ lép.
 
 #### 5. A nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvény módosítása
 
-19–21. §
+19. § A nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvény (a továbbiakban: Nvt.) „A dohánytermékek forgalomba hozatalának egyes korlátai” alcíme a következő 6/C. §-sal egészül ki:
+
+„6/C. § Az e törvény végrehajtására kiadott kormányrendelet szerint bejelentett, a dohánytermékhez, annak csomagolási egységéhez vagy bármely gyűjtőcsomaghoz hozzáadott, dohánytól eltérő anyagok (a továbbiakban: adalékanyag) bejelentése esetén, valamint adalékanyagonként évente tárgyév március 31-éig igazgatási szolgáltatási díjat kell fizetni az egészségügyi államigazgatási szerv részére. A bejelentést követő évtől az igazgatási szolgáltatási díj a bejelentés fenntartását szolgálja.”
+
+20. § Az Nvt. 7/D. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Az (1) és (3) bekezdés szerinti bejelentés esetén, valamint a bejelentett és az egészségügyi államigazgatási szerv által az e törvény végrehajtására kiadott kormányrendelet szerint kiállított igazolással rendelkező termékek esetében évente, a tárgyév március 31-éig a bejelentésre kötelezettnek igazgatási szolgáltatási díjat kell fizetnie az egészségügyi államigazgatási szerv részére. A bejelentést követő évtől az igazgatási szolgáltatási díj a bejelentés fenntartását szolgálja.”
+
+21. § Az Nvt. 7/J. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) Az új dohánytermék-kategóriák gyártói vagy forgalomba hozói a (2) bekezdés szerinti bejelentés esetén, valamint évente, tárgyév március 31-éig termékenként igazgatási szolgáltatási díjat fizetnek az egészségügyi államigazgatási szerv részére. A bejelentést követő évtől az igazgatási szolgáltatási díj a bejelentés fenntartását szolgálja.”
 
 22. §
 
-23. §
+23. § Az Nvt. 10. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2016. évi CLXXII. törvénnyel megállapított, 6/C. §, 7/D. § (4) bekezdése és a 7/J. § (4) bekezdése szerinti, az adalékanyagok, az elektronikus cigaretták, utántöltő flakonok, dohányzást imitáló elektronikus eszközök, valamint új dohánytermék-kategóriára vonatkozó bejelentések fenntartásáért évente fizetendő igazgatási szolgáltatási díjat első ízben a termék bejelentését követő év március 31-éig kell megfizetni.”
 
 #### 6. Az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény módosítása
 
@@ -66,7 +78,17 @@ lép.
 
 34–38. §
 
-39. §
+39. § (1) A Gyftv. 42. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Amennyiben a támogatott gyógyszerek tárgyévi forgalma után kifizetett társadalombiztosítási támogatás – a 38. § (1) bekezdése szerinti gyógyszerekre fordított összeget nem tartalmazó – összege meghaladja az E. Alap költségvetése Gyógyszertámogatás kiadásai jogcímének a tárgyév január első napján hatályos előirányzatának összegét, akkor e kiadási többlet finanszírozása – a (2)–(3) bekezdésben foglaltak szerint – az E. Alap kezelője és a forgalomba hozatali engedélyek jogosultjainak kötelezettsége.”
+
+(2) A Gyftv. 42. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A (2) bekezdés szerint számított kiadási többlet költségeit az E. Alap kezelője és a forgalomba hozatali engedély jogosultjai a (4)–(5) bekezdésben foglalt megosztásban viselik. A kiadási többletnek a forgalomba hozatali engedély jogosultakra eső része a társadalombiztosítási támogatásra ténylegesen kifizetett összeg és az adott előirányzat különbségének arányában oszlik meg, melyet a forgalomba hozatali engedély jogosultak a (4) és (4a) bekezdés szerint fizetnek vissza.”
+
+(3) A Gyftv. 42. §- a következő (4a) bekezdéssel egészül ki:
+
+„(4a) A különös méltánylást érdemlő körülmények esetén gyógyszertámogatásra, a költségvetési törvényben meghatározott összeg túllépése esetén a (3) bekezdésben meghatározott kiadási többletből számított túllépés összege a kifizetett – a támogatásvolumen-szerződések alapján teljesített befizetésekkel csökkentett – egyedi méltányossági támogatás arányában oszlik meg az érintett gyógyszerek forgalomba hozatali engedély jogosultjai között.”
 
 40. §
 
@@ -74,12 +96,14 @@ lép.
 
 43. §
 
-44. §
+44. § A Gyftv. a következő 87/N. §-sal egészül ki:
+
+„87/N. § Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2016. évi CLXXII. törvénnyel megállapított 42. § (1), (3) és (4a) bekezdésében meghatározott befizetési kötelezettség első ízben a 42. § (1), (3) és (4a) bekezdésének hatálybalépését követően 2017. évre vonatkozó befizetési kötelezettségekre alkalmazandó.”
 
 45. § A Gyftv.
 
 - a)–c)
-- d)
+- d) 42. § (4) bekezdésében az „az (5) bekezdésben foglalt kivétellel” szövegrész helyébe az „a (4a) és az (5) bekezdésben foglaltakra figyelemmel” szöveg,
 - e)
 
 lép.

@@ -90,35 +90,7 @@ lép.
 
 #### 9. A bírósági végrehajtásról szóló 1994. évi LIII. törvény módosítása
 
-39. § A bírósági végrehajtásról szóló 1994. évi LIII. törvény 7. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) A Magyar Bírósági Végrehajtói Kar (a továbbiakban: Kar) az (5) bekezdésnek megfelelően keresi meg a pénzforgalmi szolgáltatókat akkor, ha a polgári és kereskedelmi ügyekben a tagállamközi követelésbehajtás megkönnyítése érdekében az ideiglenes számlazárolást elrendelő európai végzés eljárásának létrehozásáról szóló, 2014. május 15-i 655/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 655/2014/EU rendelet) 14. cikke szerinti információs hatóságként jár el.”
-
-40. § A bírósági végrehajtásról szóló 1994. évi LIII. törvény 18. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A végrehajtási lap eredeti példánya a bíróságnál marad. A végrehajtási lapról annyi kiadmányt kell készíteni, hogy a végrehajtó, az önálló bírósági végrehajtó hatáskörébe tartozó ügyben a Kar hivatali szerve, valamint minden végrehajtást kérő és adós (a továbbiakban együtt: felek) egy-egy példányt kapjanak.”
-
-41. § A bírósági végrehajtásról szóló 1994. évi LIII. törvény 37/B. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Nem kell kézbesítési megbízottat megjelölni a 861/2007/EK rendelet, a 4/2009/EK tanácsi rendelet, az 1215/2012/EU rendelet, a 650/2012/EU európai parlamenti és tanácsi rendelet, és a 655/2014/EU rendelet szerinti határozat végrehajtására indult eljárásban.”
-
-42. § A bírósági végrehajtásról szóló 1994. évi LIII. törvény 79/B. § (5) bekezdése helyébe a következő rendelkezés lép, és a 79/B. § a következő (6) bekezdéssel egészül ki:
-
-„(5) A (2) bekezdés a)–e) pontjában meghatározott sorrendtől eltérően az európai számlazárolási végzés végrehajtása során a pénzforgalmi szolgáltató az (1) bekezdésben meghatározott kiterjesztést a 655/2014/EU rendelet 24. cikk (7) bekezdésében meghatározott sorrend szerint végzi el.
-
-(6) A végrehajtást foganatosító hatóság rendelkezését az abban foglalt pénznemtől függetlenül forintban kell teljesíteni a pénzforgalmi szolgáltató által jegyzett – a teljesítés napján érvényes – devizavételi árfolyam figyelembevételével.”
-
-43. § A bírósági végrehajtásról szóló 1994. évi LIII. törvény 187. §-a a következő (5) és (6) bekezdéssel egészül ki:
-
-„(5) Biztosítási intézkedésként ideiglenes számlazárolás rendelhető el e § alapján a 655/2014/EU rendelet 5. cikkében meghatározott esetekben is.
-
-(6) A 655/2014/EU rendelet 10. cikk (2) bekezdésében, 23. cikk (3), (5) és (6) bekezdésében, 27. cikk (2) bekezdésében, 28. cikk (3) bekezdésében és 36. cikk (5) bekezdésében említett illetékes hatóságként a végrehajtó jár el.”
-
-44. § A bírósági végrehajtásról szóló 1994. évi LIII. törvény 250. § (2) bekezdése a következő 35. ponttal egészül ki:
-
-(A Kar jogai és feladatai különösen)
-
-„35. ellátja a 655/2014/EU rendelet 14. cikke szerinti információs hatósági feladatokat.”
+#### 39–44. §
 
 #### 10. A légiközlekedésről szóló 1995. évi XCVII. törvény módosítása
 

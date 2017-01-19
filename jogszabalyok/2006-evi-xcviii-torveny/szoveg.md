@@ -1107,13 +1107,15 @@ a befizetést követően haladéktalanul átutalja.
 
 (6) Az (1) bekezdés szerinti támogatás az Art. szerinti költségvetési támogatásnak minősül. A támogatás igénylésére és folyósítására az Art. rendelkezései irányadóak. A jogosultság megállapításának feltételeit jogszabály állapítja meg.
 
-42. § (1) Amennyiben a támogatott gyógyszerek tárgyévi forgalma után kifizetett társadalombiztosítási támogatás – a különkeretes gyógyszerekre, a különös méltánylást érdemlő körülmények esetén gyógyszertámogatásra és a kedvezményezetti státusszal rendelkező gyógyszerekre fordított összeget nem tartalmazó – összege meghaladja az E. Alap költségvetése Gyógyszertámogatás kiadásai jogcímének a tárgyév január első napján hatályos előirányzatának összegét, akkor e kiadási többlet finanszírozása – a (2)–(3) bekezdésben foglaltak szerint – az E. Alap kezelője és a forgalomba hozatali engedélyek jogosultjainak kötelezettsége.
+42. § (1) Amennyiben a támogatott gyógyszerek tárgyévi forgalma után kifizetett társadalombiztosítási támogatás – a 38. § (1) bekezdése szerinti gyógyszerekre fordított összeget nem tartalmazó – összege meghaladja az E. Alap költségvetése Gyógyszertámogatás kiadásai jogcímének a tárgyév január első napján hatályos előirányzatának összegét, akkor e kiadási többlet finanszírozása – a (2)–(3) bekezdésben foglaltak szerint – az E. Alap kezelője és a forgalomba hozatali engedélyek jogosultjainak kötelezettsége.
 
 (2) A kiadási többlet meghatározása során az (1) bekezdés szerint számított tárgyévi forgalom után kifizetett társadalombiztosítási támogatásból le kell vonni a „36. § (1)–(2) és (4)–(4a), illetve 40/A. § (1) bekezdésében meghatározott fizetési kötelezettség alapján adódó összeget, valamint a támogatásvolumen-szerződések alapján a tárgyévben teljesített összeget.
 
-(3) A (2) bekezdés szerint számított kiadási többlet költségeit az E. Alap kezelője és a forgalomba hozatali engedély jogosultjai a (4)–(5) bekezdésben foglalt megosztásban viselik.
+(3) A (2) bekezdés szerint számított kiadási többlet költségeit az E. Alap kezelője és a forgalomba hozatali engedély jogosultjai a (4)–(5) bekezdésben foglalt megosztásban viselik. A kiadási többletnek a forgalomba hozatali engedély jogosultakra eső része a társadalombiztosítási támogatásra ténylegesen kifizetett összeg és az adott előirányzat különbségének arányában oszlik meg, melyet a forgalomba hozatali engedély jogosultak a (4) és (4a) bekezdés szerint fizetnek vissza.
 
-(4) Az (1) bekezdés szerinti befizetési kötelezettség a forgalomba hozatali engedélyek jogosultjai között – a (2) bekezdésben meghatározottak figyelembevételével – a tárgyévi gyógyszertári vényforgalmi forgalmi adatok alapján a forgalomba hozatali engedély jogosultjának támogatott gyógyszereire kifizetett – a támogatásvolumen-szerződések alapján teljesített befizetésekkel csökkentett – társadalombiztosítási támogatás arányában oszlik meg az (5) bekezdésben foglalt kivétellel.
+(4) Az (1) bekezdés szerinti befizetési kötelezettség a forgalomba hozatali engedélyek jogosultjai között – a (2) bekezdésben meghatározottak figyelembevételével – a tárgyévi gyógyszertári vényforgalmi forgalmi adatok alapján a forgalomba hozatali engedély jogosultjának támogatott gyógyszereire kifizetett – a támogatásvolumen-szerződések alapján teljesített befizetésekkel csökkentett – társadalombiztosítási támogatás arányában oszlik meg a (4a) és az (5) bekezdésben foglaltakra figyelemmel.
+
+(4a) A különös méltánylást érdemlő körülmények esetén gyógyszertámogatásra, a költségvetési törvényben meghatározott összeg túllépése esetén a (3) bekezdésben meghatározott kiadási többletből számított túllépés összege a kifizetett – a támogatásvolumen-szerződések alapján teljesített befizetésekkel csökkentett – egyedi méltányossági támogatás arányában oszlik meg az érintett gyógyszerek forgalomba hozatali engedély jogosultjai között.
 
 (5) A hatóanyag-alapú fix összegű támogatási csoportba tartozó referenciakészítményekre, a referenciakészítmény napi terápiás költségével azonos és a referenciakészítmény napi terápiás költségénél alacsonyabb napi terápiás költségű gyógyszerekre, valamint a terápiás fix elven működő támogatási csoportba tartozó, referenciaárral megegyező, és a referenciaárnál alacsonyabb napi terápiás költségű gyógyszerekre jutó befizetési kötelezettség nem a forgalmazót terheli. Ezen kiadási többlet az E. Alap kezelőjének költsége.
 
@@ -1931,6 +1933,8 @@ lép hatályba.
 87/L. § Ahol e törvény gyermekgondozást segítő ellátást említ, azon gyermekgondozási segélyt kell érteni, ha az ellátásra való jogosultság 2016. január 1-jét megelőzően nyílt meg.
 
 87/M. § Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel megállapított 42. § (1) bekezdésében meghatározott befizetési kötelezettség a 2016. évre vonatkozó befizetések esetében alkalmazandó.
+
+87/N. § Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2016. évi CLXXII. törvénnyel megállapított 42. § (1), (3) és (4a) bekezdésében meghatározott befizetési kötelezettség első ízben a 42. § (1), (3) és (4a) bekezdésének hatálybalépését követően 2017. évre vonatkozó befizetési kötelezettségekre alkalmazandó.
 
 88. § (1) Ez a törvény – a végrehajtására kiadott jogszabályokkal együtt – a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
