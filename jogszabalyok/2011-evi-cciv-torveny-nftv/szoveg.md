@@ -2373,6 +2373,8 @@ foglalt eltérésekkel együtt kell alkalmazni.
 
 104/C. § Az Állatorvostudományi Egyetem egyetemként működő felsőoktatási intézmény, amely – alapító okiratában foglaltak szerint – eltérhet a 6. § (2) bekezdésében, a 9. § (3) bekezdésében a felsőoktatási intézményekre előírt feltételektől, azzal, hogy a 15–16. § szerinti képzési rendszert meg kell tartania.
 
+104/D. § A Magyar Táncművészeti Egyetem egyetemként működő felsőoktatási intézmény, amely – alapító okiratában foglaltak szerint – eltérhet a 6. § (2) bekezdésében, a 9. § (3) bekezdésében foglalt a felsőoktatási intézményekre előírt feltételektől, azzal, hogy a 15–16. § szerinti képzési rendszert meg kell tartania.
+
 #### 64. Rendelkezés korábban szerzett és egyéb külföldi címekről
 
 105. § (1) Az 1984. szeptember 1-je előtt doktori cselekmények alapján szerzett, illetőleg e nap előtt engedélyezett doktori cselekmények alapján később megszerzett egyetemi doktori cím továbbra is viselhető.
@@ -2867,41 +2869,41 @@ kell érteni.
 | 8. |  |  | Kaposvári Egyetem, Kaposvár |
 | 9. |  |  | Liszt Ferenc Zeneművészeti Egyetem, Budapest |
 | 10. |  |  | Magyar Képzőművészeti Egyetem, Budapest |
-| 11. |  |  | Miskolci Egyetem, Miskolc |
-| 12. |  |  | Moholy-Nagy Művészeti Egyetem, Budapest |
-| 13. |  |  | Nemzeti Közszolgálati Egyetem, Budapest |
-| 14. |  |  | Nyugat-magyarországi Egyetem, Sopron |
+| 11. |  |  | Magyar Táncművészeti Egyetem, Budapest |
+| 12. |  |  | Miskolci Egyetem, Miskolc |
+| 13. |  |  | Moholy-Nagy Művészeti Egyetem, Budapest |
+| 14. |  |  | Nemzeti Közszolgálati Egyetem, Budapest |
 | 15. |  |  | Óbudai Egyetem, Budapest |
 | 16. |  |  | Pannon Egyetem, Veszprém |
 | 17. |  |  | Pécsi Tudományegyetem, Pécs |
 | 18. |  |  | Semmelweis Egyetem, Budapest |
-| 19. |  |  | Szegedi Tudományegyetem, Szeged |
-| 20. |  |  | Szent István Egyetem, Gödöllő |
-| 21. |  |  | Széchenyi István Egyetem, Győr |
-| 22. |  |  | Színház- és Filmművészeti Egyetem, Budapest |
-| 23. |  |  | Testnevelési Egyetem, Budapest |
-| 24. |  | I/B. Nem állami egyetemek |  |
-| 25. |  |  | Andrássy Gyula Budapesti Német Nyelvű Egyetem, Budapest |
-| 26. |  |  | Debreceni Református Hittudományi Egyetem, Debrecen |
-| 27. |  |  | Evangélikus Hittudományi Egyetem, Budapest |
-| 28. |  |  | Károli Gáspár Református Egyetem, Budapest |
-| 29. |  |  | Közép-európai Egyetem, Budapest |
-| 30. |  |  | Országos Rabbiképző – Zsidó Egyetem, Budapest |
-| 31. |  |  | Pázmány Péter Katolikus Egyetem, Budapest |
-| 32. | II. ALKALMAZOTT TUDOMÁNYOK EGYETEMEI |  |  |
-| 33. |  | II/A. Állami alkalmazott tudományok egyetemei |  |
-| 34. |  |  | Budapesti Gazdasági Egyetem, Budapest |
-| 35. |  |  | Dunaújvárosi Egyetem, Dunaújváros |
-| 36. |  |  | Eszterházy Károly Egyetem, Eger |
-| 37. |  |  | Nyíregyházi Egyetem, Nyíregyháza |
-| 38. |  |  | Pallasz Athéné Egyetem, Kecskemét |
-| 39. |  | II/B. Nem állami alkalmazott tudományok egyetemei |  |
-| 40. |  |  | Budapesti Metropolitan Egyetem, Budapest |
-| 41. |  |  | Zsigmond Király Egyetem, Budapest |
-| 42. | III. FŐISKOLÁK |  |  |
-| 43. |  | III/A. Állami főiskolák |  |
-| 44. |  |  | Eötvös József Főiskola, Baja |
-| 45. |  |  | Magyar Táncművészeti Főiskola, Budapest |
+| 19. |  |  | Soproni Egyetem, Sopron |
+| 20. |  |  | Szegedi Tudományegyetem, Szeged |
+| 21. |  |  | Szent István Egyetem, Gödöllő |
+| 22. |  |  | Széchenyi István Egyetem, Győr |
+| 23. |  |  | Színház- és Filmművészeti Egyetem, Budapest |
+| 24. |  |  | Testnevelési Egyetem, Budapest |
+| 25. |  | I/B. Nem állami egyetemek |  |
+| 26. |  |  | Andrássy Gyula Budapesti Német Nyelvű Egyetem, Budapest |
+| 27. |  |  | Debreceni Református Hittudományi Egyetem, Debrecen |
+| 28. |  |  | Evangélikus Hittudományi Egyetem, Budapest |
+| 29. |  |  | Károli Gáspár Református Egyetem, Budapest |
+| 30. |  |  | Közép-európai Egyetem, Budapest |
+| 31. |  |  | Országos Rabbiképző – Zsidó Egyetem, Budapest |
+| 32. |  |  | Pázmány Péter Katolikus Egyetem, Budapest |
+| 33. | II. ALKALMAZOTT TUDOMÁNYOK EGYETEMEI |  |  |
+| 34. |  | II/A. Állami alkalmazott tudományok egyetemei |  |
+| 35. |  |  | Budapesti Gazdasági Egyetem, Budapest |
+| 36. |  |  | Dunaújvárosi Egyetem, Dunaújváros |
+| 37. |  |  | Eszterházy Károly Egyetem, Eger |
+| 38. |  |  | Nyíregyházi Egyetem, Nyíregyháza |
+| 39. |  |  | Pallasz Athéné Egyetem, Kecskemét |
+| 40. |  | II/B. Nem állami alkalmazott tudományok egyetemei |  |
+| 41. |  |  | Budapesti Metropolitan Egyetem, Budapest |
+| 42. |  |  | Zsigmond Király Egyetem, Budapest |
+| 43. | III. FŐISKOLÁK |  |  |
+| 44. |  | III/A. Állami főiskolák |  |
+| 45. |  |  | Eötvös József Főiskola, Baja |
 | 46. |  |  | Pető András Főiskola, Budapest |
 | 47. |  | III/B. Nem állami főiskolák |  |
 | 48. |  |  | A Tan Kapuja Buddhista Főiskola, Budapest |
@@ -2918,7 +2920,7 @@ kell érteni.
 | 59. |  |  | Golgota Teológiai Főiskola, Vajta |
 | 60. |  |  | Győri Hittudományi Főiskola, Győr |
 | 61. |  |  | IBS Nemzetközi Üzleti Főiskola, Budapest |
-| 62. |  |  | Kodolányi János Főiskola, Székesfehérvár |
+| 62. |  |  | Kodolányi János Főiskola, Orosháza |
 | 63. |  |  | Pápai Református Teológiai Akadémia, Pápa |
 | 64. |  |  | Pécsi Püspöki Hittudományi Főiskola, Pécs |
 | 65. |  |  | Pünkösdi Teológiai Főiskola, Budapest |
@@ -2928,7 +2930,7 @@ kell érteni.
 | 69. |  |  | Szent Atanáz Görög Katolikus Hittudományi Főiskola, Nyíregyháza |
 | 70. |  |  | Szent Bernát Hittudományi Főiskola, Zirc |
 | 71. |  |  | Szent Pál Akadémia, Budapest |
-| 72. |  |  | Tomori Pál Főiskola, Kalocsa |
+| 72. |  |  | Tomori Pál Főiskola, Budapest |
 | 73. |  |  | Veszprémi Érseki Hittudományi Főiskola, Veszprém |
 | 74. |  |  | Wekerle Sándor Üzleti Főiskola, Budapest |
 | 75. |  |  | Wesley János Lelkészképző Főiskola, Budapest |
