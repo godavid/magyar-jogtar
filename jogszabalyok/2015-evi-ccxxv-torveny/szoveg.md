@@ -10,7 +10,9 @@ egyes közúti és vasúti közlekedéssel, valamint fogyasztóvédelemmel össz
 
 3. § (1)
 
-(2)
+(2) A Kkt. 15. §-a a következő (7) bekezdéssel egészül ki:
+
+„(7) A miniszter rendeletében meghatározottak szerint a közútkezelői hozzájárulás kiadására jogosult útkezelő a közútkezelői hozzájárulás kiadásával egyidejűleg köteles az általa kiadott közútkezelői hozzájárulást a 21/K. § szerinti Nemzeti Tengelysúlymérő Rendszer részére elektronikusan átadni.”
 
 4–5. §
 
@@ -77,7 +79,7 @@ egyes közúti és vasúti közlekedéssel, valamint fogyasztóvédelemmel össz
 a–c)
 
 - d) e–f)
-- g)
+- g) 21. § (2a) bekezdésében a „k) vagy m) pontjában” szövegrész helyébe a „d), k) vagy m) pontjában” szöveg,
 - h)
 - i)
 - j)–l)
