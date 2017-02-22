@@ -303,6 +303,8 @@ jogosultak.
 
 (6) A közútkezelői hozzájárulás – a (3)–(5) bekezdésben meghatározottakon túl – tartalmazza a miniszter rendeletében meghatározott személyes adatokat nem tartalmazó adatokat.
 
+(7) A miniszter rendeletében meghatározottak szerint a közútkezelői hozzájárulás kiadására jogosult útkezelő a közútkezelői hozzájárulás kiadásával egyidejűleg köteles az általa kiadott közútkezelői hozzájárulást a 21/K. § szerinti Nemzeti Tengelysúlymérő Rendszer részére elektronikusan átadni.
+
 15/A. § (1) Forgalomszervezési, valamint a 13. § (2) bekezdésében meghatározott indokok alapján, az e törvényben meghatározott keretek között
 
 - a) a helyi közutak, valamint a helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánutak, terek, parkok és egyéb közterületek vonatkozásában a helyi önkormányzat rendeletében, valamint
@@ -731,7 +733,7 @@ vonatkozó – külön jogszabályban meghatározott – egyes előírások beta
 
 (2) Ha az (1) bekezdés szerinti egyes előírásokat megszegik, az üzemben tartóval, illetve a 21/A. § (2) bekezdésében meghatározott esetben a gépjárművet használatra átvevő személlyel szemben 10 000 forinttól 300 000 forintig terjedő közigazgatási bírságot kell kiszabni. Az egyes rendelkezések megsértése esetén kiszabható bírságok összegét a Kormány rendeletben határozza meg. Amennyiben egy cselekménnyel több előírást szegnek meg és azt egy eljárásban bírálják el, a kiszabandó bírság összegét az egyes szabályszegésekhez rendelt bírságösszegek összegeként kell megállapítani.
 
-(2a) Amennyiben a 20. § (1) bekezdés k) vagy m) pontjában foglalt szabályszegést elkövető kiléte a helyszíni intézkedés, vagy a közigazgatási hatósági eljárásban ismertté válik, a (2) bekezdésben meghatározott bírság helyett a jármű vezetőjével szemben a 20. § (4) bekezdés szerinti bírságot kell kiszabni.
+(2a) Amennyiben a 20. § (1) bekezdés d), k) vagy m) pontjában foglalt szabályszegést elkövető kiléte a helyszíni intézkedés, vagy a közigazgatási hatósági eljárásban ismertté válik, a (2) bekezdésben meghatározott bírság helyett a jármű vezetőjével szemben a 20. § (4) bekezdés szerinti bírságot kell kiszabni.
 
 (3) A (2) bekezdésben meghatározott közigazgatási bírság kiszabásának – az (1) bekezdés h) pontja kivételével – kizárólag a külön jogszabály szerinti technikai eszközzel készített és továbbított felvétellel dokumentált szabályszegés esetén van helye.
 
