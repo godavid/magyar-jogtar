@@ -1192,7 +1192,13 @@ vezeti.
 - c) többcélú óvoda-bölcsődeként, vagy
 - d) többcélú, közös igazgatású intézmény önálló szervezeti és szakmai egységeként.
 
-(3) A bölcsődei felvétel során előnyben kell részesíteni azt a rendszeres gyermekvédelmi kedvezményre jogosult gyermeket, akinek szülője, törvényes képviselője igazolja, hogy munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll.
+(3) A bölcsődei felvétel során előnyben kell részesíteni
+
+- a) – ha a gyermek szülője, más törvényes képviselője a felvételi kérelem benyújtását követő 30 napon belül igazolja, hogy munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll –
+  - aa) a rendszeres gyermekvédelmi kedvezményre jogosult gyermeket,
+  - ab) a három vagy több gyermeket nevelő családban élő gyermeket,
+  - ac) az egyedülálló szülő által nevelt gyermeket, és
+- b) a védelembe vett gyermeket.
 
 (4) A bölcsőde nyári nyitvatartási rendjét a fenntartó hagyja jóvá. A fenntartó a bölcsődei szünet idejére a szülő, törvényes képviselő kérésére gondoskodik a gyermek intézményi gondozásának, nevelésének megszervezéséről.
 
@@ -4566,7 +4572,7 @@ módosítja.
 
 180. § Az egyes gyermekvédelmi és egészségügyi tárgyú törvényeknek a gyermekek biztonságának és védelmének fokozása érdekében történő módosításáról szóló 2016. évi CLXV. törvénnyel megállapított 17. § (3a) bekezdést, 123. és 124. §-t, valamint 130/A. § (3) bekezdést a 2017. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
 
-181. §
+181. § A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény és egyéb törvények módosításáról szóló 2016. évi CLXVII. törvénnyel megállapított 43. § (3) bekezdésében meghatározott előnyben részesítési szabályokat első alkalommal a 2017/2018. bölcsődei nevelési évre történő felvétel során kell alkalmazni.
 
 182. § A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény és egyéb törvények módosításáról szóló 2016. évi CLXVII. törvénnyel megállapított 62/C. § (3)–(3b) bekezdését a 2016. december 31-ét követően engedélyezett örökbefogadások esetén kell alkalmazni.
 

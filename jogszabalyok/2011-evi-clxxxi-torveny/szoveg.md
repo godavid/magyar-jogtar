@@ -45,13 +45,15 @@ a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő
 
 (2) A bírósági titkár első fokon önállóan önálló aláírási joggal eljárhat, érdemi határozatot hozhat a törvényben szabályozott polgári nemperes eljárásokban.
 
-(3) Az e törvényben szabályozott polgári nemperes eljárásokban az eljárás szünetel, ha
+(3) Az e törvényben szabályozott polgári nemperes eljárásokban, ha
 
-- a) a kérelmező nem biztosítja, hogy részére (képviselő, kézbesítési megbízott részére) a hivatalos iratok kézbesíthetőek legyenek,
-- b) a belföldi idézési címmel és belföldi idézésű című képviselővel sem rendelkező kérelmező a kérelem – ide nem értve a szervezet nyilvántartásba vételére irányuló kérelmet – benyújtásával egyidejűleg nem jelöl meg belföldi idézési című kézbesítési megbízottat (Pp. 100/A. §) vagy az irat a kézbesítési megbízott részére nem volt kézbesíthető,
-- c) az elektronikus útra kötelezett vagy elektronikus utat választó kérelmező nem biztosítja – külön jogszabályban meghatározott módon – azt, hogy részére (képviselő, kézbesítési megbízott részére) a hivatalos iratok elektronikus úton kézbesíthetőek legyenek.
+- a) a kérelmező (a szervezet) nem biztosítja, hogy részére (képviselő, kézbesítési megbízott részére) a hivatalos iratok kézbesíthetőek legyenek,
+- b) a belföldi idézési címmel és belföldi idézési című képviselővel sem rendelkező kérelmező (szervezet) a kérelem – ide nem értve a szervezet nyilvántartásba vételére irányuló kérelmet – benyújtásával egyidejűleg nem jelöl meg belföldi idézési című kézbesítési megbízottat (Pp. 100/A. §) vagy az irat a kézbesítési megbízott részére nem volt kézbesíthető,
+- c) az elektronikus útra kötelezett vagy elektronikus utat választó kérelmező (szervezet) nem biztosítja – külön jogszabályban meghatározott módon – azt, hogy részére (képviselő, kézbesítési megbízott részére) a hivatalos iratok elektronikus úton kézbesíthetőek legyenek,
 
-(4) Az eljárás szünetelésről és az eljárás szünetelés okán történő megszűnésről nem kell végzést hozni.
+a bíróság az iratokat hirdetmény útján kézbesíti.
+
+(4) Az irat nem minősül kézbesíthetőnek, ha a kérelmező (szervezet, képviselő, kézbesítési megbízott) lakcíme, illetve székhelye ismeretlen, vagy a postai küldemény azzal a megjegyzéssel érkezik vissza, hogy a cím nem azonosítható, a címzett ismeretlen vagy elköltözött, a címzett meghalt vagy megszűnt és a személyiadat- és lakcímnyilvántartást vezető szerv megkeresése nem járt eredménnyel.
 
 (5) Az e törvényben szabályozott polgári nemperes eljárásokban a Pp. határidők számításáról rendelkező 104/A. §-át alkalmazni kell.
 
@@ -78,8 +80,9 @@ a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő
 - e) a kölcsönös biztosító egyesület,
 - f) a hegyközség,
 - g) a párt,
-- h) az országos sportági szakszövetség és
-- i) a szövetség
+- h) az országos sportági szakszövetség,
+- i) a szövetség,
+- j) a közalapítvány
 
 a beadványokat kizárólag elektronikus úton terjesztheti elő, e rendelkezés irányadó e szervezetek nyilvántartásba vétele iránti kérelme benyújtására is.
 
@@ -152,7 +155,7 @@ a beadványokat kizárólag elektronikus úton terjesztheti elő, e rendelkezés
 - a) a lemondó nyilatkozat másolatát és
 - b) a lemondás joghatályos közlését igazoló iratot.
 
-(3) Az eljárás során hozott végzéseket a szervezetnek is kézbesíteni kell. A bíróság a szabályszerűen előterjesztett kérelemről haladéktalanul értesíti az ügyészséget vagy – ha a szervezet felett nem az ügyészség lát el törvényességi ellenőrzést, hanem más szervezet lát el törvényességi felügyeletet – a törvényességi felügyeletet ellátó szervet.
+(3) Az eljárás során hozott végzéseket a szervezetnek is kézbesíteni kell. A bíróság a szabályszerűen előterjesztett kérelemről haladéktalanul értesíti az ügyészséget, ha a szervezet felett az ügyészség törvényességi ellenőrzést lát el. Ha a szervezet felett más szervezet lát el törvényességi felügyeletet, a kérelemről e szervezetet értesíti a bíróság.
 
 18/A. § (1) Ha jogszabály rendelkezése alapján a szervezet közlemény vagy egyéb irat közzétételére köteles, a szervezetnek a nyilvántartását vezető bíróság részére kell megküldenie azokat a közleményeket és egyéb iratokat, amelynek közzétételére törvény rendelkezése alapján köteles.
 
@@ -167,6 +170,8 @@ a beadványokat kizárólag elektronikus úton terjesztheti elő, e rendelkezés
 (2) E törvény, valamint az e törvény felhatalmazása alapján kiadott rendeletek alapján a bíróság által az informatikai rendszer útján előállított jegyzőkönyv (igazolás), határozat (értesítés), és az ezekről kiállított papír alapú másolat (kiadmány) közokirat. Ugyanilyen bizonyító erővel bizonyítja a kérelmezők beadványairól, valamint a kézbesítési bizonyítványról (tértivevényről) a bíróság vagy az informatikai rendszer által készített másolat, illetve ezen iratokról a rendszerbe bevitt adatok, valamint ezen adatok alapján készített okirat azt, hogy annak tartalma az eredeti okiratéval megegyezik.
 
 (3) A bíróság által az informatikai rendszer alkalmazásával előállított vagy az informatikai rendszer útján automatizáltan előállított irat a Pp. 195. §-a szerinti elektronikus közokirat.
+
+(4) Ha e törvény az ügyész eljárás indítványozásának jogához a közérdek sérelme fennállása valószínűsítését írja elő, a közérdek sérelme fennáll, ha az indítványában az ügyész a nyilvántartás adatának hibáját jelöli meg.
 
 ### II. Fejezet — A KÉRELMEK TARTALMI ELEMEI
 
@@ -211,7 +216,9 @@ a beadványokat kizárólag elektronikus úton terjesztheti elő, e rendelkezés
 - a) a szervezet létesítő okiratát és
 - b) a székhelyhasználat jogcímét igazoló okirat másolatát.
 
-(2) Ha a szervezet alapításában a nyilvántartásban vagy a cégnyilvántartásban szerepelő jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság vesz részt, a bíróság az informatikai rendszer alkalmazásával ellenőrzi, hogy a szervezet a kérelemben megjelölt adatokkal szerepel-e a nyilvántartásban vagy a cégnyilvántartásban.
+(1a) A székhelyhasználat igazolása során a székhelyül szolgáló ingatlan tulajdonosának, vagy a további használat engedélyezésére való joggal rendelkező használójának az ingatlan székhelyként való használathoz való hozzájárulását tartalmazó, legalább teljes bizonyító erejű magánokiratba foglalt nyilatkozatát kell csatolni. Ha a szervezet a székhelyül szolgáló ingatlan tulajdonosa, a tulajdonjogát igazoló okirat másolatát kell a kérelemhez csatolnia.
+
+(2) Ha a szervezet alapításában a nyilvántartásban vagy a cégnyilvántartásban szerepelő jogi személy vesz részt, a bíróság az informatikai rendszer alkalmazásával ellenőrzi, hogy a szervezet a kérelemben megjelölt adatokkal szerepel-e a nyilvántartásban vagy a cégnyilvántartásban.
 
 (3) Ha a szervezet neve jogi személy, más szervezet vagy természetes személy nevét tartalmazza, a kérelemhez csatolni kell a jogosultnak, illetve örökösének vagy jogutódjának a névhasználathoz hozzájáruló nyilatkozatát.
 
@@ -247,6 +254,8 @@ a beadványokat kizárólag elektronikus úton terjesztheti elő, e rendelkezés
 
 (3) A létesítő okirat módosítása esetén a változásbejegyzési kérelemhez csatolni kell a létesítő okirat változásokkal egységes szerkezetbe foglalt szövegét is.
 
+(4) A változásbejegyzési kérelem bírósághoz történő szabályszerű benyújtását követően a kérelmező a benyújtott változásbejegyzési kérelemben nem szereplő további adatot nem jelenthet be, a változásbejegyzési kérelemhez újabb létesítő okirat módosítást nem nyújthat be, kivéve, ha arra a bíróság hiánypótlási felhívásának teljesítése miatt kerül sor.
+
 24/A. § (1) A jogi személy szervezeti egység jogi személyiségének megszűnése esetén a jogi személy szervezeti egység törlése iránti kérelmet változásbejegyzési kérelemként kell benyújtani.
 
 (2) A kérelemhez csatolni kell a jogi személy szervezeti egység jogi személyiségének megszűnéséről szóló döntést tartalmazó okiratot is.
@@ -275,7 +284,7 @@ a beadványokat kizárólag elektronikus úton terjesztheti elő, e rendelkezés
 
 (2) Ha ülés tartására nem került sor, a nyilvántartásból való törlés iránti kérelemhez a tagoknak a megszűnést elhatározó akaratnyilatkozatát tartalmazó okiratot kell csatolni.
 
-27. § Végelszámolás lefolytatása esetén a kérelemhez csatolni kell:
+27. § Végelszámolás lefolytatása esetén a törlési kérelemhez csatolni kell:
 
 - a) a nyugdíj-biztosítási igazgatási szerv és az állami adóhatóság igazolását a szervezet biztosítottjai adatainak átadásáról,
 - b) a szervezetnek a végelszámolás befejezésével kapcsolatos határozatait, ideértve a felügyelőbizottság, illetve a szervezet könyvvizsgálójának jelentését is,
@@ -294,6 +303,8 @@ a beadványokat kizárólag elektronikus úton terjesztheti elő, e rendelkezés
 - c) hiánypótlásnak és a szükséges intézkedéseket megteszi.
 
 (2) Ha az ügy áttételének azért van helye, mert az e törvény szerinti eljárás lefolytatására másik bíróság illetékes, a bíróság az iratokat az informatikai rendszer alkalmazásával adja át, egyúttal a papír alapon érkezett iratokat megküldi az eljárás lefolytatására illetékes bíróságnak.
+
+(3) Elektronikus úton előterjesztett kérelem esetén a bíróságra vonatkozó ügyintézési határidő a kérelem lajstromozásának napján kezdődik.
 
 #### 11. A kérelem elutasítása
 
@@ -316,11 +327,11 @@ a beadványokat kizárólag elektronikus úton terjesztheti elő, e rendelkezés
 
 (2) A Pp. 95. §-át és 104. §-át azzal az eltéréssel kell alkalmazni, hogy a hiánypótlásra megfelelő – legfeljebb negyvenöt napos – határidőt kell biztosítani, amely határidő kérelemre, indokolt esetben, legfeljebb a kérelemben megjelölt időtartamig meghosszabbítható.
 
-(3) A kérelmező a hiánypótlás teljesítésekor kérheti, hogy a bíróság ismételt hiánypótlásra (ismételt hiánypótlás) hívja fel, ha a hiánypótlás teljesítésekor a kérelem vagy annak melléklete olyan – az eredeti kérelemben nem szereplő – hiányosságban szenved, amely alapján hiánypótlási felhívás kibocsátásának lenne helye. Az ismételt hiánypótlásra a hiánypótlás szabályait kell alkalmazni, azzal, hogy a bíróság a kérelmezőt nem hívhatja fel olyan hiány pótlására, amely az eredeti kérelemben vagy annak mellékletében is hiányos volt.
+(3) A hiánypótlásra felhívó végzés kiadására csak egy alkalommal kerülhet sor és abban a kérelem valamennyi hiányosságát (hibáját) meg kell jelölni.
 
 (4) Az (1) bekezdésben és a 29. § (2) bekezdésében megállapított határidőbe a törvényben meghatározott eseteken túlmenően nem számít bele
 
-- a) hiánypótlási, ismételt hiánypótlási felhívás esetén a hiánypótlási, ismételt hiánypótlási felhívás kibocsátásától a hiányok pótlásáig terjedő idő,
+- a) hiánypótlási felhívás esetén a hiánypótlási felhívás kibocsátásától a hiányok pótlásáig terjedő idő,
 - b) a kizárás tárgyában való döntéshez szükséges idő és
 - c) az igazolási kérelem tárgyában való döntéshez szükséges idő
 
@@ -328,19 +339,21 @@ sem.
 
 31. § A Pp. 95. § (4) bekezdését azzal az eltéréssel kell alkalmazni, hogy a bíróság a beadvány hiányainak pótlása végett a nem helyben lakó kérelmezőt is maga elé idézheti.
 
-32. § Ha a bíróság döntési kötelezettségének határidőn belül nem tesz eleget, a bíróság elnöke felhívja a bírót (bírósági titkárt), hogy soron kívül, nyolc napon belül tegye meg a szükséges intézkedéseket a kérelem elbírálása érdekében. A bíró (bírósági titkár) a kérelem elbírálását követően a bíróság elnökének beszámol arról, hogy mi volt az indoka annak, hogy döntési kötelezettségének határidőn belül nem tett eleget.
+32. § (1) Ha a bíróság döntési kötelezettségének határidőn belül nem tesz eleget, a bíróság elnöke felhívja a bírót (bírósági titkárt), hogy soron kívül, nyolc napon belül tegye meg a szükséges intézkedéseket a kérelem elbírálása érdekében. A bíró (bírósági titkár) a kérelem elbírálását követően a bíróság elnökének beszámol arról, hogy mi volt az indoka annak, hogy döntési kötelezettségének határidőn belül nem tett eleget.
+
+(2) A 34. § szerinti eljárásban, amennyiben a bíróság döntési kötelezettségének határidőn belül nem tesz eleget, és a határidő leteltét követő 30 napon belül sem kerül sor a kérelem elbírálása körében bírósági intézkedésre, a nyilvántartásba vétel e határidő leteltét követő munkanapon a törvény erejénél fogva – a kérelemben foglalt adatok szerinti tartalommal – megtörténik.
 
 33. § Az ügyésznek – ha az ügyészség látja el a szervezet feletti törvényességi ellenőrzést – kézbesíteni kell a nyilvántartásba vételi, a változásbejegyzési és a nyilvántartásból való törlés iránti eljárás során a nem az ügy érdemében hozott fellebbezhető végzést és az ügy érdemében hozott végzést, az áttételt elrendelő és a nyilvántartásba vételi kérelmet elutasító végzés kivételével.
 
 #### 13. Az egyszerűsített nyilvántartásba vételi eljárás
 
-34. § (1) Ha az egyesület [4. § a) pont] vagy az alapítvány nyilvántartásba vétele iránti kérelemhez (változásbejegyzési kérelemhez) a jogszabályban meghatározott mintaokirat alapján készült létesítő okiratot csatolnak, a nyilvántartásba vételi kérelemhez csatolt nyomtatványon ezt a körülményt fel kell tüntetni.
+34. § (1) Ha az egyesület [4. § a) pont], az alapítvány és a sportról szóló törvény szerinti sportegyesület nyilvántartásba vétele iránti kérelemhez (változásbejegyzési kérelemhez) a jogszabályban meghatározott mintaokirat alapján készült létesítő okiratot csatolnak, a nyilvántartásba vételi kérelemhez csatolt nyomtatványon ezt a körülményt fel kell tüntetni.
 
 (2) Az (1) bekezdés szerinti kérelemhez kizárólag a jogszabályban meghatározott mintaokirat szerinti mellékleteket lehet csatolni.
 
 (3) Ha a mintaokirat kiegészítésére vagy bármely rendelkezésének elhagyására kerül sor – ideértve azt az esetet is, ha elhagyásra kerül a mintaokirat jellegre történő utalás – a bíróság a kérelmet érdemi vizsgálat nélkül elutasítja.
 
-(4) A nyilvántartásba vételi kérelem elbírálásáról a bíróság a kérelem érkezését követő tizenöt napon belül határoz. A bíróság e határidőn belül intézkedik a nyilvántartásba vételt elrendelő, illetőleg a nyilvántartásba vételi kérelmet elutasító végzés kérelmező és ügyész részére történő kézbesítése iránt.
+(4) A nyilvántartásba vételi kérelem elbírálásáról a bíróság a kérelem érkezését követő tizenöt napon belül határoz. A bíróság e határidőn belül intézkedik a nyilvántartásba vételt elrendelő, illetőleg a nyilvántartásba vételi kérelmet elutasító végzés kézbesítése iránt.
 
 (5) A bíróság az egyszerűsített nyilvántartásba vétel iránti kérelmet akkor is elutasítja, ha hiánypótlási felhívás kibocsátásának vagy áttételnek lenne helye.
 
@@ -352,7 +365,7 @@ sem.
 
 (2) Ha a nyilvántartásba vétel iránti kérelem áttételének vagy hivatalból történő elutasításának nincs helye, a bíróság hivatalból megvizsgálja, hogy a szervezet neve, elnevezése (ezen alcímben a továbbiakban együtt: neve) megfelel-e a névkizárólagosság, a névvalódiság és a névszabatosság követelményének.
 
-(3) A bíróság a (2) bekezdésben meghatározott követelménynek való megfelelőséget a hiánypótlási felhívás kibocsátása előtt, ha pedig hiánypótlási felhívás kibocsátásának egyéb okból nem lenne helye, a határozat meghozatala előtt vizsgálja.
+(3)
 
 36. § (1) A bíróság akkor állapíthatja meg, hogy a szervezet neve megfelel a névkizárólagosság követelményének, ha az különbözik az ország területén hasonló működési körben tevékenykedő, nyilvántartásba vett szervezet nevétől, a név az egyediesítésre alkalmas, azaz a megjelölés a szervezetnek sajátos, más szervezettől eltérő jelleget ad, kizárja az összetévesztés lehetőségét.
 
@@ -369,7 +382,7 @@ sem.
 
 (4b) A bíróság eljárása során vizsgálja a szervezet elnevezésének a (4a) bekezdésben foglaltaknak való megfelelését, és kétség esetén köteles beszerezni a Magyar Tudományos Akadémia állásfoglalását.
 
-(5) Ha a szervezet neve nem felel meg a névkizárólagosság, a névvalódiság vagy a névszabatosság követelményének, továbbá a (4a) bekezdésben foglalt követelményeknek, a bíróság felhívja a kérelmezőt, hogy a létesítő okirat módosításával jelöljön meg olyan nevet, amely megfelel a jogszabályi követelményeknek.
+(5) Ha a szervezet neve nem felel meg a névkizárólagosság, a névvalódiság vagy a névszabatosság követelményének, továbbá a (4a) bekezdésben foglalt követelményeknek, a bíróság a hiánypótlás keretében felhívja a kérelmezőt, hogy a létesítő okirat módosításával jelöljön meg olyan nevet, amely megfelel a jogszabályi követelményeknek.
 
 (6) A szervezet rövidített nevének és idegen nyelvű elnevezésének is meg kell felelnie az (1)–(3) bekezdésben és a 35. § (1) bekezdésében meghatározott követelményeknek.
 
@@ -377,7 +390,7 @@ sem.
 
 37. § (1) A változásbejegyzési eljárásra a szervezet nyilvántartásba vételére vonatkozó eljárási szabályokat kell alkalmazni. A változásbejegyzési kérelmet a létesítő okirat módosítását, illetve az adat változását eredményező, a szervezet arra jogosult szerve határozatának elfogadását követő hatvan napon belül kell a bíróságnak bejelenteni.
 
-(2) Ha a változásbejegyzési kérelemből az tűnik ki, hogy a szervezet – alapítvány esetében az alapító – elmulasztotta a változásbejegyzési kérelem határidőben történő benyújtását, a bíróság törvényességi ellenőrzést kezdeményezhet az ügyészségnél, ha az ügyészségnek a szervezet felett törvényességi ellenőrzési joga van.
+(2) Ha a változásbejegyzési kérelemből az tűnik ki, hogy a szervezet, alapítvány esetében az alapító (alapítók), elmulasztotta a változásbejegyzési kérelem határidőben történő benyújtását, a bíróság 10 000 forinttól 900 000 forintig terjedő pénzbírsággal sújthatja a szervezetet, alapítvány esetében az alapítót, több alapító esetén az alapítókat egyetemlegesen.
 
 (3) Ha a változásbejegyzési kérelem olyan adatot érint, amelyre vonatkozóan változásbejegyzési eljárás van folyamatban, annak jogerős befejezéséig az újabb változásbejegyzési eljárást a bíróság felfüggeszti, az eljárás felfüggesztésre egyebekben a Pp. tárgyalás felfüggesztésére vonatkozó szabályait megfelelően alkalmazni kell.
 
@@ -409,13 +422,13 @@ sem.
 
 (3) A számviteli törvény és az Ectv. szerinti beszámoló elektronikus okiratként történő elkészítése nem jogosít a beszámoló összeállítását (formáját, szerkezetét, tagolását) illetően a számviteli törvényben és az Ectv.-ben előírt rendelkezésektől való eltérésre.
 
-(4) A beszámolót a szervezetnek az adózás rendjéről szóló 2003. évi XCII. törvény 7. §-ának (2) bekezdése szerinti képviselője küldi meg a bíróság részére.
+(4) A beszámolót a szervezetnek az adózás rendjéről szóló 2003. évi XCII. törvény 7. §-ának (2) bekezdése szerinti – a szervezet nyilvántartásba bejegyzett képviselője kivételével meghatalmazással igazolt – képviselője küldi meg az OBH részére.
 
 (5) Ha a szervezet a beszámolóról – külön jogszabály szerint arra feljogosított által aláírt – papír alapú okirat alapján határozott, úgy a (4) bekezdés szerinti személy egyben igazolja, hogy az ezt követően elektronikus úton megküldött beszámoló megegyezik a jóváhagyott beszámolóval. Ebben az esetben a (4) bekezdés szerinti személy a papír alapú beszámoló egy eredeti példányát – annak elfogadásától számított tíz évig – megőrzi, és amennyiben a megküldött beszámoló szabályszerűségével összefüggésben kétség merülne fel, köteles azt a bíróság, illetve a törvényességi ellenőrzést folytató ügyészség felhívására bemutatni.
 
 (6) A beszámolóhoz kötelező könyvvizsgálat esetén mellékelni kell – a független könyvvizsgálói jelentést is. E törvény beszámolóra vonatkozó előírásait a könyvvizsgálói jelentésre is megfelelően alkalmazni kell.
 
-(7) A bíróság a beszámolót az országos névjegyzékben – az informatikai rendszer útján – közzéteszi.
+(7)
 
 #### 16. A szervezet adószáma és statisztikai számjelének nyilvántartásban történő rögzítése
 
@@ -441,13 +454,13 @@ sem.
 
 43. § (1) A bíróság a szervezetet hivatalból törli a nyilvántartásból
 
-- a) a felszámolási eljárást lefolytató bíróságnak a szervezet megszüntetéséről szóló, elektronikus úton megküldött jogerős végzése vagy
-- b) a szervezet feloszlatásáról, megszüntetésről vagy megszűnése megállapításáról rendelkező jogerős ítélet vagy
-- c) az egyszerűsített törlési eljárás befejezését követően. alapján.
+- a) a felszámolási eljárást lefolytató bíróságnak a szervezet megszüntetéséről szóló, elektronikus úton megküldött jogerős végzése alapján vagy
+- b) a szervezet feloszlatásáról rendelkező jogerős ítélet alapján kényszer-végelszámolás lefolytatását követően vagy
+- c) az egyszerűsített törlési eljárás befejezését követően.
 
-(2) Ha a bíróság a szervezetet feloszlatja, megszünteti vagy a szervezet megszűnését megállapítja, a feloszlatásról, megszüntetésről vagy a megszűnés megállapításáról szóló jogerős ítéletet megküldi a nyilvántartást vezető bíróságnak.
+(2) Ha a bíróság a szervezetet feloszlatja, a feloszlatásról szóló jogerős ítéletet megküldi a nyilvántartást vezető bíróságnak.
 
-(3) A (1) bekezdés b) pontjában meghatározott esetben a bíróság a szervezetet – kivéve, ha a szervezetre irányadó jogszabály másképp rendelkezik – a kényszer-végelszámolási eljárás vagy a felszámolási eljárás lefolytatását követően törli a nyilvántartásból, a végzés ellen sem fellebbezésnek, sem felülvizsgálatnak nincs helye.
+(3) Ha a szervezetet a bíróság a felszámolási eljárás lefolytatását követően törli a nyilvántartásból, a végzés ellen sem fellebbezésnek, sem felülvizsgálatnak nincs helye.
 
 43/A. § A bíróság a szervezetet akkor törölheti a nyilvántartásból, ha az állami adó- és vámhatóság elektronikus úton arról tájékoztatja, hogy a szervezetnél adóhatósági eljárás nincs folyamatban, és ellenőrzést, végrehajtást nem kezdeményez és a szervezet a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló 1996. évi CXXVI. törvény (a továbbiakban. Szftv.) 6/C. § szerinti elszámolásra nem kötelezett, illetve az elszámolási kötelezettségének eleget tett. Ha a tájékoztatás szerint az állami adó- és vámhatóság a szervezetnél eljárást folytat, ellenőrzést vagy végrehajtást kezdeményez, vagy az Szftv. 6/C. § szerinti elszámolásra kötelezett, amely elszámolási kötelezettségének nem tett eleget, a szervezet csak az adóhatósági eljárások jogerős befejezéséről szóló, végelszámolás esetén pedig ezen felül a köztartozást érintően nemlegesnek minősülő, továbbá a Szftv. 6/C. § szerinti elszámolásról szóló elektronikus tájékoztatást követően törölhető a nyilvántartásból.
 
@@ -514,17 +527,45 @@ is.
 
 #### 19. Jogorvoslatok
 
-46. § (1) Ha e § másképp nem rendelkezik a törvény elsőfokú eljárásra vonatkozó rendelkezéseit a másodfokú eljárásban is megfelelően alkalmazni kell.
+46. § (1) Ha e törvény másképp nem rendelkezik, a törvény elsőfokú eljárásra vonatkozó rendelkezéseit a másodfokú eljárásban az alábbi eltérésekkel megfelelően alkalmazni kell.
 
-(2) A nem az ügy érdemében hozott fellebbezhető végzések elleni fellebbezést és az ahhoz csatolt mellékleteket az elektronikus útra kötelezett és az elektronikus utat választó kérelmezőnek elektronikus úton kell a bíróság részére megküldenie.
+(2) A nem az ügy érdemében hozott fellebbezéssel megtámadható végzések elleni fellebbezést és az ahhoz csatolt mellékleteket az elektronikus útra kötelezett és az elektronikus utat választó kérelmezőnek elektronikus úton kell a bíróság részére megküldenie.
 
 (3) Az első fokon eljárt bíróság az iratokat az informatikai rendszeren keresztül, közvetlenül terjeszti fel a másodfokú bíróság részére.
 
 (4) A másodfokú bíróság az ügy iratait és a másodfokú határozatot az informatikai rendszeren keresztül küldi meg az elsőfokú bíróságnak. A másodfokú bíróság határozatának papír alapú kiadmányát is megküldi az első fokon eljárt bíróság részére, ha a kérelmező az első fokon eljáró bírósághoz beadványát papír alapon nyújtotta be.
 
-(5) Az ügyész a fellebbezést elektronikus úton küldi meg a bíróság részére.
+(5) Az ügyész, ha a bíróság határozata ellen fellebbezési jog illeti meg, a fellebbezést elektronikus úton küldi meg a bíróság részére.
 
-(6) A másodfokú bíróság a fellebbezésről a felterjesztéstől számított hatvan napon belül dönt. Ha a bíróság döntési kötelezettségének határidőn belül nem tesz eleget, a bíróság elnöke felhívja a bírói tanács elnökét, hogy soron kívül, nyolc napon belül tegye meg a szükséges intézkedéseket a fellebbezés elbírálása érdekében. A bíró a kérelem elbírálását követően a bíróság elnökének beszámol arról, hogy mi volt az indoka annak, hogy döntési kötelezettségének határidőn belül nem tett eleget.
+(6) A másodfokú bíróság a fellebbezésről a felterjesztéstől számított hatvan napon belül dönt. Ha a bíróság döntési kötelezettségének határidőn belül nem tesz eleget, a bíróság elnöke felhívja a bírói tanács elnökét, hogy nyolc napon belül tegye meg a szükséges intézkedéseket a fellebbezés elbírálása érdekében. A bíró a kérelem elbírálását követően a bíróság elnökének beszámol arról, hogy mi volt az indoka annak, hogy döntési kötelezettségének határidőn belül nem tett eleget.
+
+46/A. § (1) Az egyesület [4. § a) pont], az alapítvány és a sportról szóló törvény szerinti sportegyesület nyilvántartásba vételi, változásbejegyzési kérelemének helyt adó, valamint a közhasznú nyilvántartásba vételét elrendelő végzés ellen fellebbezésnek nincs helye. A végzés vagy az annak meghozatala alapjául szolgáló eljárás, illetve a kérelemhez mellékelt iratok jogszabályba ütközése miatt az ügyész, valamint az, akire a végzés rendelkezést tartalmaz – a rendelkezés őt érintő részére vonatkozóan – pert indíthat a szervezet ellen a végzés hatályon kívül helyezése iránt a szervezet székhelye szerint illetékes törvényszék előtt. A szervezet kérelemre történő törlését elrendelő végzés ellen a pert a bíróság által kirendelt ügygondnok ellen kell megindítani.
+
+(2) A per megindításának a nyilvántartásba vételi, változásbejegyzési kérelemnek helyt adó, valamint a közhasznú nyilvántartásba vételt elrendelő végzés országos névjegyzékben történt közzétételétől számított hatvan napon belül van helye. A határidő elmulasztása jogvesztéssel jár.
+
+(3) A keresetlevélben, illetve az eljárás során a felperesnek meg kell jelölnie, hogy miért tartja a bíróság eljárását jogszabálysértőnek. Ha a keresetet az űrlap vagy kérelem mellékleteinek jogszabálysértő voltára alapítja, csak olyan jogszabálysértésre hivatkozhat, amelyet az eljárásban a bíróságnak észlelnie kellett volna.
+
+(4) Az ügyészt a perindítás joga akkor illeti meg, ha keresetét – az (1) és (3) bekezdésben vagy a 46/B. § (1) bekezdésében meghatározott ok megjelölése mellett – közérdek sérelmére alapítja és e közérdek sérelmének fennállását valószínűsíti.
+
+(5) Ha a nyilvántartásba vételt (változásbejegyzést, közhasznú nyilvántartásba vételt) elrendelő végzés vagy a meghozatala alapjául szolgáló irat jogszabálysértő, a bíróság megfelelő határidő tűzésével felhívja a szervezetet a jogszabálysértő állapot megszüntetéséhez szükséges intézkedések megtételére.
+
+(6) Ha az (5) bekezdésben foglalt intézkedések eredményre vezetnek, a bíróság ítéletében a végzést megváltoztatja és megkeresi a nyilvántartó bíróságot, hogy hivatalból jegyezze be vagy törölje az érintett adatot, illetve – indokolt esetben – törvényességi felügyeleti jogkörében hívja fel a szervezetet a bejegyzéshez szükséges további adatok bejelentésére, illetve a törvényes állapot helyreállításához szükséges intézkedések megtételére.
+
+(7) Ha a nyilvántartásba vételt elrendelő végzés hatályon kívül helyezése iránti perben a jogszabálysértés nem küszöbölhető ki, vagy a szervezet a bíróság (5) bekezdés szerinti felhívásának nem tesz eleget, és a végzés teljes hatályon kívül helyezésének feltételei nem állnak fenn, a bíróság a végzésben szereplő többi adattól elkülöníthető jogszabálysértő adatot hatályon kívül helyezi és a (6) bekezdés megfelelő alkalmazásával jár el.
+
+(8) Ha a változásbejegyzést, közhasznú nyilvántartásba vételt elrendelő végzés hatályon kívül helyezése iránti perben a jogszabálysértés nem küszöbölhető ki, vagy a szervezet a bíróság felhívásának nem tesz eleget, a bíróság a végzést, illetve a végzésben szereplő többi adattól elkülöníthető jogszabálysértő adatot hatályon kívül helyezi és a (6) bekezdés megfelelő alkalmazásával jár el.
+
+(9) Ha a nyilvántartásba vételt (változásbejegyzést, közhasznú nyilvántartásba vételt) elrendelő végzés vagy a meghozatalára vezető eljárás jogszabálysértő, azonban a jogszabálysértés csekély jelentőségű és nyilvántartási adatot nem érint, a bíróság a végzést a jogszabálysértés megállapítása mellett – további intézkedés elrendelése nélkül – hatályában fenntartja.
+
+46/B. § (1) Ha a 46/A. § szerinti perben a felperes a nyilvántartásba vételi, változásbejegyzési végzés jogszabályba ütközését az alapjául szolgáló létesítő okiratnak, illetve módosításának a nyilvántartásba vételi, változásbejegyzési eljárásban észlelhető érvénytelenségére alapítja, a bíróság a per során megkísérli az érvénytelenségi ok, illetve az általa keletkezett érdeksérelem kiküszöbölését.
+
+(2) A 46/A. § szerinti perben a nyilvántartásba vételt elrendelő végzés teljes hatályon kívül helyezésének, illetve a létesítő okirat teljes érvénytelensége megállapításának csak a létesítő okirat teljes érvénytelenségét eredményező érvénytelenségi ok fennállása esetén van helye. Ebben az esetben a bíróság az alapítás érvénytelenségének megállapítása mellett megkeresi a nyilvántartó bíróságot, hogy intézkedjen a szervezet kényszer-végelszámolásának lefolytatásáról vagy felszámolás kezdeményezéséről.
+
+(3) Ha az érvénytelenségi ok változatlanul fennáll vagy az érvénytelenség miatti érdeksérelem kiküszöbölésére nem került sor, és a (2) bekezdés szerinti feltételek nem állnak fenn, a bíróság a nyilvántartásba vételt elrendelő végzést – az ítéletében megállapított időponttal – részben hatályon kívül helyezi és a létesítő okirat érvénytelenségét részlegesen megállapítja. A bíróság ítéletében emellett megkeresi a nyilvántartó bíróságot a 46/A. § (6) bekezdésében foglalt intézkedések megtételére.
+
+(4) Ha az érvénytelenségi ok változatlanul fennáll vagy az érvénytelenség miatti érdeksérelem kiküszöbölésére nem került sor, a bíróság a változásbejegyzési végzést egészben vagy részben az ítéletében meghatározott időponttal hatályon kívül helyezi és a létesítő okirat módosításának érvénytelenségét teljes egészében vagy részlegesen megállapítja. A bíróság ítéletében emellett megkeresi a nyilvántartó bíróságot a 46/A. § (6) bekezdésében foglalt intézkedések megtételére.
+
+(5) Ha az érvénytelenség oka utóbb megszűnt vagy az érvénytelenség miatti érdeksérelem kiküszöbölése megtörtént, a létesítő okiratot (módosítását) a bíróság visszamenőleges hatállyal érvényessé nyilvánítja, szükség esetén pedig a 46/A. § (6) bekezdésében foglaltak szerint jár el.
 
 ### IV. Fejezet — AZ EGYES NYILVÁNTARTOTT SZERVEZETEKRE VONATKOZÓ SPECIÁLIS SZABÁLYOK
 
@@ -550,7 +591,7 @@ is.
 - b) az igazolást az alapítvány céljára rendelt vagyon rendelkezésre bocsátásáról
   - ba) pénzbeli vagyonrendelés esetén a pénzforgalmi szolgáltató igazolását a fizetési vagy pénzforgalmi számlán elhelyezett összegről, az ügyvéd vagy a bíróság igazolását az ügyvédi vagy bírósági letétről vagy a közjegyző igazolását az alapítvány céljára rendelt vagyon bizalmi őrzésbe adásáról,
   - bb) – a legalább a működés megkezdéséhez szükséges pénzbeli vagyonrendelésen túlmenően – egyéb vagyonrendelés esetén az alapítói nyilatkozatot,
-- c) felügyelő szerv esetén a felügyelő szerv tagjainak a tagság elfogadására és a jogszabályban meghatározott követelményekre vonatkozó nyilatkozatát és
+- c) felügyelőbizottság esetén a felügyelőbizottság tagjainak a tagság elfogadására és a jogszabályban meghatározott követelményekre vonatkozó nyilatkozatát és
 - d) az alapítói jogok gyakorlására kijelölt személynek a kijelölés elfogadására vonatkozó nyilatkozatát.
 
 (2) Az alapítvány szervezeti egységének jogi személlyé nyilvánítása esetén az alapítvány nyilvántartásba vétele iránti kérelemhez csatolni kell az igazolást az alapítvány céljára rendelt vagyonból elkülönített vagyon rendelkezésre bocsátásáról is.
@@ -566,6 +607,10 @@ is.
 #### 23. Az alapítvány nyilvántartásba vételére irányuló eljárás
 
 51. § Az alapítvány nyilvántartásba vétele iránti kérelmet az alapító nyújthatja be. Ha az alapítványt több alapító hozta létre, a nyilvántartásba vétel iránti kérelmet az alapítóknak együttesen kell benyújtaniuk.
+
+51/A. § (1) A bíróság alapítvány nyilvántartásba vételi, valamint változásbejegyzési kérelmének helyt adó, valamint a közhasznú nyilvántartásba vételét elrendelő végzését jogszabályban meghatározott módon, közzététel céljából továbbítja az OBH részére.
+
+(2) Az OBH az (1) bekezdés alapján részére megküldött végzést az országos névjegyzék útján közzéteszi.
 
 52. § Az alapítvány alapítóját megillető jogok, és az alapítót terhelő kötelezettségek tárgyában perképességgel az alapító rendelkezik, az eljárásban hozott határozatokat az alapítványnak is kézbesíteni kell.
 
@@ -587,12 +632,12 @@ is.
 
 #### 25. Az alapítvány kuratóriuma tagjának vagy kurátorának bíróság általi kijelölésére irányuló eljárás
 
-54. § (1) A bíróság a kezelő szerv (szervezet) kijelöléséről polgári nemperes eljárásban határoz, ha
+54. § (1) A bíróság az ügyvezető szerv (szervezet) kijelöléséről polgári nemperes eljárásban határoz, ha
 
 - a) az alapító nem él a kuratórium vagy kurátor kijelölésének jogával vagy az alapító által kijelölt szerv (szervezet) a feladat ellátását nem vállalja,
 - b) az alapítói jogokat a bíróság gyakorolja.
 
-(2) Ha a kuratórium vagy kurátor kijelölésének feltételei fennállnak, a bíróság az ügyész indítványára vagy az egyéb érdekelt kérelmére az eljárást megindítja.
+(2) Ha a kuratórium vagy kurátor kijelölésének feltételei fennállnak, a bíróság hivatalból az eljárást megindíthatja, vagy az egyéb érdekelt kérelmére az eljárást megindítja.
 
 (3) Az e §-ban szabályozott eljárás során a bíróság az alapítvány célja szerinti szakterületen működő szervezettől javaslatot kérhet a kuratórium tagjaira vagy a kurátorra vonatkozóan.
 
@@ -675,31 +720,25 @@ is.
 
 (7) Az alapítványok egyesülésének vagy szétválásának bejegyzésére akkor kerülhet sor, ha az állami adó- és vámhatóság – a bírósági elektronikus értesítést követő öt munkanapon belül – elektronikus úton arról tájékoztatja a bíróságot, hogy az átalakulással érintett alapítványnál az adókötelezettségek teljesítésének ellenőrzésére irányuló, illetve ezzel összefüggő hatósági eljárás nincs folyamatban, vagy az állami adó- és vámhatóság ilyen adóigazgatási eljárást nem kezdeményez. Ha az állami adó- és vámhatóság tájékoztatása szerint az alapítványnál ilyen eljárás van folyamatban, vagy az állami adó- és vámhatóság ilyen eljárást kezdeményez, az átalakulás az adóigazgatási eljárás jogerős befejezéséről szóló elektronikus tájékoztatást követően, ennek hiányában az átalakulás bejegyzése iránti kérelem elbírálására nyitva álló határidő kezdetétől számított kilencvenedik napon jegyezhető be.
 
-#### 29. Az alapítvány megszűnésének megállapítására irányuló polgári nemperes eljárás
+#### 29. Az alapítvány jogutód nélküli megszűnését eredményező ok megállapítására irányuló polgári nemperes eljárás
 
-59. § (1) Az alapítvány megszűnésének megállapítására irányuló kérelem vagy indítvány esetén a kérelemhez csatolni kell a kérelmet vagy az indítványt alátámasztó okiratokat.
+59. § (1) A bíróság az ügyész indítványára, az alapító (alapítók) vagy más jogilag érdekelt kérelmére megállapítja a jogutód nélküli megszűnési ok bekövetkeztét, ha
 
-(2) Ha a kérelem vagy indítvány előterjesztésének indoka az, hogy az alapító okiratban meghatározott idő eltelt, a kérelemben erre kell hivatkozni.
+- a) az alapítványt határozott időre alapították és a meghatározott időtartam eltelt [Ptk. 3:48. § (1) bekezdés a) pont],
+- b) az alapítvány megszűnése meghatározott feltétel bekövetkezéséhez kötött és e feltétel bekövetkezett [Ptk. 3:48. § (1) bekezdés b) pont],
+- c) az alapítvány célját megvalósította, és az alapító új célt nem határozott meg [Ptk. 3:403. § (1) bekezdés a) pont],
+- d) az alapítvány céljának megvalósítása lehetetlenné vált, és a cél módosítására vagy más alapítvánnyal való egyesülésre nincs mód [Ptk. 3:403. § (1) bekezdés b) pont],
+- e) az alapítvány három éven át a célja megvalósítása érdekében nem folytatott tevékenységet [Ptk. 3:403. § (1) bekezdés c) pont].
 
-(3) Ha az alapítvány megszűnésének megállapítására irányuló kérelemben az alapítvány megszűnésének megállapítását arra hivatkozással kérik, hogy az alapítvány céljának megvalósítása lehetetlenné vált, és a cél módosítására vagy más alapítvánnyal való egyesülésre nincs mód, a bíróság a kérelmet megküldi az alapítványnak.
+(2) Az ügyészt az eljárás indítványozásának joga akkor illeti meg, ha indítványát – az (1) bekezdés a)–e) pontjaiban meghatározott okok valamelyike mellett – közérdek sérelmére alapítja és e közérdek sérelmének fennállását valószínűsíti.
 
-(4) A bíróság a kérelmet azzal a felhívással küldi meg az alapítványnak, hogy a kézbesítéstől számított harminc napon belül nyilatkozzon arról, hogy a kérelemben foglaltakat vitatja-e.
+#### 30.
 
-(5) Ha a kérelemben foglaltakat az alapítvány vitatja, a bíróság az eljárást megszünteti, egyben felhívja az alapítót, hogy harminc napon belül keresetlevélben kérheti az alapítvány megszűnésének megállapítását a (3) bekezdésben meghatározott okból, erre az alapítót az eljárást megszüntető végzésben figyelmeztetni kell. Ha az eljárás megszüntetésének abból az okból, hogy azt az alapítvány vitatja, nincs helye, és az alapító által csatolt iratokból nem állapítható meg, hogy az alapítvány céljának megvalósítása lehetetlenné vált, és a cél módosítására vagy más alapítvánnyal való egyesülésre nincs mód, a bíróság a kérelmet elutasítja. A bíróság a kérelmet elutasító végzésében felhívja az alapítót, hogy harminc napon belül keresetlevélben kérheti az alapítvány (3) bekezdésben meghatározott okból történő megszűnésének megállapítását, erre az alapítót a kérelmet elutasító végzésben figyelmeztetni kell.
+#### 60. §
 
-#### 30. Az alapítvány megszűnésének megállapítására és az alapítvány megszüntetésére irányuló polgári peres eljárás
+#### 31.
 
-60. § (1) Az alapítvány megszűnésének megállapítása iránti perre – ideértve az alapító által az 59. § alapján indított pert is – az alapítvány székhelye szerinti törvényszék illetékes.
-
-(2) Az alapítvány megszüntetésére irányuló perre az alapítvány székhelye szerinti törvényszék illetékes.
-
-(3) Ha a bíróság az alapítványt megszünteti, a jogerős ítéletet megküldi az alapítványt nyilvántartó bíróságnak. A nyilvántartást vezető bíróság az alapítványt – a törvényben meghatározott eljárást követően – törli a nyilvántartásból; a végzés ellen sem fellebbezésnek, sem felülvizsgálatnak nincs helye.
-
-#### 31. Az alapítvány megszűnésének és az alapítvány megszüntetésének nyilvántartásba való bejegyzése iránti eljárás
-
-61. § (1) Ha a bíróság az alapítvány megszűnését megállapítja, vagy az alapítványt megszünteti, az Ectv.-ben foglalt szabályok szerint jár el.
-
-(2) A nyilvántartást vezető bíróság a kényszer-végelszámolást, egyszerűsített törlési eljárást követően az alapítványt törli a nyilvántartásból; a végzés ellen fellebbezésnek és felülvizsgálatnak nincs helye.
+#### 61. §
 
 #### 32. Az állami alapító által alapított alapítvány és közalapítvány megszüntetésére irányuló sajátos nemperes eljárás
 
@@ -735,9 +774,9 @@ is.
 
 - a) ha alakuló ülés tartására került sor, az egyesület alakuló ülésének jegyzőkönyvét és jelenléti ívét, valamint az alapító tagok nevével, lakóhelyével (székhelyével) és aláírásával ellátott, az alapszabály – nem nyilvános részeként elkülönítetten kezelt – mellékletét képező tagjegyzéket, vagy
 - b) ha alakuló ülés tartására nem került sor, az alapító tagoknak az alapszabályt elfogadó egybehangzó akaratnyilatkozatát tartalmazó okiratot és az alapszabály – nem nyilvános részeként elkülönítetten kezelt – mellékletét képező tagjegyzéket és
-- c) az egyesület ügyintéző és képviseleti szerve tagjainak a tagság elfogadására és a jogszabályban meghatározott követelményekre vonatkozó nyilatkozatát.
+- c) az egyesület ügyvezető és képviseleti szerve tagjainak a tagság elfogadására és a jogszabályban meghatározott követelményekre vonatkozó nyilatkozatát.
 
-64. § Felügyelő szerv esetén a felügyelő szerv tagjainak a tagság elfogadására és a jogszabályban meghatározott követelményekre vonatkozó nyilatkozatát is csatolni kell a kérelemhez.
+64. § Felügyelőbizottság esetén a felügyelőbizottság tagjainak a tagság elfogadására és a jogszabályban meghatározott követelményekre vonatkozó nyilatkozatát is csatolni kell a kérelemhez.
 
 65. § Az egyesület nyilvántartásba vétele iránti kérelemhez elkülönítve kell csatolni az olyan iratot, amely mind nyilvános, mind nem nyilvános adatokat vagy csak nem nyilvános adatokat tartalmaz.
 
@@ -749,9 +788,23 @@ is.
 
 67. § (1) A bíróság a nyilvántartásba vétel iránti kérelemhez csatolt alapszabályhoz mellékelt tagjegyzék alapján vizsgálja azt, hogy az alapítók száma megfelel-e a törvényben foglalt rendelkezéseknek.
 
-(2) A bíróság az ügyintéző és képviseleti szerv tagjainak a nyilvántartásba vételi kérelemhez csatolt nyilatkozata alapján vizsgálja azt, hogy megfelelnek-e a törvényben előírt feltételeknek.
+(1a) Az alapszabály az egyesület szerveinek elnevezését szabadon állapítja meg.
+
+(1b) A változásbejegyzési eljárásban a tagjegyzéket nem kell becsatolni.
+
+(1c) A bíróság az egyesület [4. § a) pont] nyilvántartásba vétele iránti eljárásban az egyesület létesítésére, ügyvezető és képviseleti szervére vonatkozó jogszabályi rendelkezések teljesülését, továbbá a létesítő okirat kötelező tartalmi elemeinek meglétét vizsgálja. A Ptk. 3:4. § (2) bekezdés alá tartozó létesítő okiratbeli rendelkezéseket a bíróság csak akkor vizsgálja, ha azok törvényességi felügyeleti eljárás lefolytatására adnának okot.
+
+(1d) Változásbejegyzési eljárásban a bíróság csak a változásbejegyzési kérelemmel érintett körben vizsgálja a benyújtott iratokat.
+
+(1e) Ha a változásbejegyzési kérelemhez egységes szerkezetű létesítő okiratot kell benyújtani, abban – a tagokra vonatkozó adatok kivételével – hatályosítani kell azokat az adatokat is, amelyeket törvény csak az egyesület alapítása esetén ír elő az alapszabály tartalmaként.
+
+(2) A bíróság az ügyvezető és képviseleti szerv tagjainak a nyilvántartásba vételi kérelemhez csatolt nyilatkozata alapján vizsgálja azt, hogy megfelelnek-e a törvényben előírt feltételeknek.
 
 (3) A bíróság a nyilvántartásba vételi kérelemhez csatolt alapszabály alapján vizsgálja azt, hogy az egyesület alapszabályban megállapított céljai nem ellentétesek-e a törvényi rendelkezésekkel és azt, hogy az alapszabály rendelkezései biztosítják-e az egyesület törvényben meghatározott keretek közötti működését.
+
+(4) A bíróság az egyesület és sportegyesület nyilvántartásba vételi, valamint változásbejegyzési kérelmének helyt adó, valamint a közhasznú nyilvántartásba vételét elrendelő végzését jogszabályban meghatározott módon, közzététel céljából továbbítja az OBH részére.
+
+(5) Az OBH a (4) bekezdés alapján részére megküldött végzést az országos névjegyzék útján közzéteszi.
 
 #### 35. A szövetség nyilvántartásban szereplő adatainak módosítására irányuló eljárás
 
@@ -761,15 +814,157 @@ is.
 
 68/A. § Az egyesületek egyesülésének és szétválásának bejegyezése során az alapítványok egyesülésének és szétválásának bejegyzésére vonatkozó szabályokat kell megfelelően alkalmazni azzal, hogy a bejegyzés iránti kérelmet az érintett egyesületek képviseletére jogosult személyeknek kell benyújtani (58. §–58/B. §).
 
+#### 35/B. Az egyesület jogutód nélküli megszűnését eredményező ok megállapítására irányuló polgári nemperes eljárás
+
+68/B. § (1) A bíróság az ügyész indítványára, az egyesület vagy más jogilag érdekelt kérelmére megállapítja a jogutód nélküli megszűnési ok bekövetkeztét, ha az egyesület
+
+- a) határozott időre jött létre és a meghatározott időtartam eltelt [Ptk. 3:48. § (1) bekezdés a) pont],
+- b) megszűnése meghatározott feltétel bekövetkezéséhez kötött és e feltétel bekövetkezett [Ptk. 3:48. § (1) bekezdés b) pont],
+- c) megvalósította célját vagy céljának megvalósítása lehetetlenné vált, és új célt nem határoztak meg [Ptk. 3:84. § a) pont],
+- d) tagjainak száma hat hónapon keresztül a Ptk.-ban meghatározott legkisebb létszám alá csökken [Ptk. 3:84. § b) pont], feltéve, hogy az a)–c) pont szerinti esetekben az abban foglaltakra figyelemmel az egyesület nem határozott a megszűnéséről.
+
+(2) Az ügyészt az eljárás indítványozásának joga akkor illeti meg, ha indítványát – az (1) bekezdés a)–d) pontjaiban meghatározott okok mellett – közérdek sérelmére alapítja és e közérdek sérelmének fennállását valószínűsíti.
+
 #### 36. Egyéb szervezetek
 
 69. § A párt, a sportról szóló törvény alapján működő szervezet, a kölcsönös biztosító egyesület, a szakszervezet, a köztestület, a magánnyugdíjpénztár, az önkéntes kölcsönös biztosító pénztár, a hitelintézetek önkéntes betétbiztosítási, illetve intézményvédelmi alapja, a Munkavállalói Résztulajdonosi Program szervezet és az európai területi együttműködési csoportosulásról szóló törvény szerint alapított európai területi társulás esetében e törvény rendelkezéseit akkor kell alkalmazni, ha a szervezetre irányadó törvény eltérően nem rendelkezik.
 
-#### 70. §
+70. § (1) A sportról szóló törvény szerinti sportegyesületekre a 67. § (1b) és (1c) bekezdését is alkalmazni kell azzal, hogy a 67. § (1b) bekezdésében foglaltakon túlmenően a bíróság a létesítő okiratnak a sportról szóló törvénynek a sportegyesületre előírt szabályaival való összhangját vizsgálja.
+
+(2) Az egyéb szervezetek esetében a bíróság a létesítő okiratnak az adott szervezettípusra irányadó törvények szabályaival való összhangját is vizsgálja.
 
 71. § (1) Ha az egyházakkal való kapcsolattartásért felelős miniszter arról értesíti a bíróságot, hogy az Országgyűlés a vallási tevékenységet végző szervezetet egyházként ismerte el, a bíróság a vallási tevékenységet végző szervezetet a bírósági nyilvántartásból törli.
 
 (2) Ha a cégbíróság a nyilvántartásba vételről szóló jogerős végzés elektronikus úton történő megküldésével, arról értesíti a bíróságot, hogy a kölcsönös biztosító egyesületet külön törvény alapján részvénytársaságként vette nyilvántartásba, a bíróság a kölcsönös biztosító egyesületet hivatalból törli a nyilvántartásból, a törlésről végzést hozni nem kell.
+
+### IV/A. Fejezet — A TÖRVÉNYESSÉGI FELÜGYELETI ELJÁRÁS
+
+#### 36/A. A törvényességi felügyeleti eljárás közös szabályai
+
+71/A. § (1) A törvényességi felügyeleti eljárás célja, hogy a bíróság intézkedéseivel a szervezet törvényes működését kikényszerítse.
+
+(2) A törvényességi felügyeleti eljárás nemperes eljárás, amelyre a Pp. szabályait – ha törvény másként nem rendelkezik – megfelelően alkalmazni kell, szünetelésnek azonban nincs helye. A törvényességi felügyeleti eljárásban az elektronikus kapcsolattartás nem kötelező azon szervezet esetében sem, amely a 8. § alapján elektronikus útra kötelezett.
+
+(3) Az eljárás során – ha e törvény másként nem rendelkezik – csak okirati bizonyításnak, valamint az ügyben érintettek személyes meghallgatásának van helye. A bizonyítás során a bíróság a szervezet képviselőjét, tagját, továbbá kérelemre indult eljárás esetén a kérelmezőt személyesen meghallgathatja vagy tőlük írásbeli nyilatkozatot kérhet. A bíróság a hivatalból indított eljárása során hivatalból szerzi be az írásbeli bizonyítékokat, illetve tisztázza azokat a körülményeket, adatokat és tényeket, amelyek a jogszabálysértő állapot megszüntetéséhez szükségesek.
+
+(4) Az eljárásra a szervezet székhelye, ennek hiányában az utolsó bejegyzett székhelye szerinti nyilvántartó bíróság illetékes.
+
+(5) A törvényességi felügyeleti eljárás során hozott jogerős bírósági intézkedéssel válnak az ügyben keletkezett iratok – az Ectv. szerint nem nyilvános iratok kivételével – az Ectv. szerinti civil szervezetek esetében nyilvánossá, továbbá nyilvánossá válnak az ügyben keletkezett iratok akkor is, ha a civil szervezet a bíróság felhívására a törvényes működését helyreállította, de az eljárás megindítására okot adott.
+
+(6) A törvényességi felügyeleti eljárás iratainak elektronizálására a 14. § (2) bekezdését kell alkalmazni.
+
+71/B. § (1) A törvényességi felügyeleti eljárás során a bíróság hivatalból vagy kérelemre jár el.
+
+(2) Nincs helye törvényességi felügyeleti eljárásnak, ha az arra vonatkozó igény a 46/A–46/B. §-ban meghatározott vagy más polgári perben, illetve közigazgatási eljárásban érvényesíthető.
+
+(3) Nincs helye törvényességi felügyeleti eljárás kezdeményezésének, ha a szervezet felszámolás, kényszer-végelszámolási vagy egyszerűsített törlési eljárás alatt áll. Ha a törvényességi felügyeleti eljárás folyamatban léte alatt a szervezet felszámolás alá kerül, vagy a kényszer-végelszámolást vagy az egyszerűsített törlési eljárás megindítását a bíróság jogerősen elrendeli, a törvényességi felügyeleti eljárást meg kell szüntetni.
+
+(4) A törvényességi felügyelet nem terjed ki a szervezet gazdálkodásának és döntéseinek gazdasági-célszerűségi szempontból való felülvizsgálatára, valamint a beszámoló letétbe helyezésére és közzétételére vonatkozó kötelezettség teljesítésének kikényszerítésére.
+
+(5) A törvényességi felügyeleti eljárást addig kell folytatni, amíg a törvényes állapot, illetve a szervezet törvényes működése helyre nem áll.
+
+(6) A bíróság a törvényességi felügyeleti eljárást megszünteti, ha az eljárás eredményeként a szervezet a törvénysértő állapotot megszüntette, illetve a törvényes működését helyreállította.
+
+#### 36/B. A törvényességi felügyeleti eljárásra okot adó körülmények
+
+71/C. § (1) Törvényességi felügyeleti eljárásnak van helye, ha
+
+- a) a létesítő okirat vagy annak módosítása, vagy a nyilvántartásba bejegyzett adat a bejegyzést megelőzően már fennálló ok folytán törvénysértő,
+- b) a nyilvántartásba bejegyzett adat a bejegyzést követően keletkezett ok miatt törvénysértő,
+- c) a létesítő okirat vagy annak módosítása, illetve a nyilvántartás nem tartalmazza azt, amit a szervezetre vonatkozó jogszabályok kötelezően előírnak,
+- d) a szervezet a működése során nem tartja be a szervezetére és működésére vonatkozó jogszabályi rendelkezéseket, illetve a létesítő okiratában foglaltakat,
+- e) törvény a törvényességi felügyeleti eljárás lefolytatását kötelezővé teszi.
+
+(2) Az (1) bekezdés a), és c) pontja alapján indult ügy elbírálásában nem vehet részt az, aki az eljárás tárgyává tett ügyben a nyilvántartásba vételi (változásbejegyzési) eljárásban részt vett.
+
+#### 36/C. A bíróság eljárása hivatalból
+
+71/D. § (1) Hivatalból jár el a bíróság, ha
+
+- a) az eljárás lefolytatásának szükségességéről, az arra okot adó körülményről hivatalos eljárása során maga szerez tudomást, vagy
+- b) az eljárást más bíróság kezdeményezi.
+
+(2) Az (1) bekezdés b) pontjában meghatározott esetben az eljárás megindításáról és befejezéséről a bíróság a kezdeményezőt értesíti.
+
+(3) A hivatalból indult törvényességi felügyeleti eljárásban félként csak a szervezet vesz részt. Az eljárásban felmerült költségeket – így különösen a meghallgatás, a felügyelőbiztos költségeit – az állam előlegezi. Amennyiben a törvényességi felügyeleti eljárásban a szervezet a törvényes működést helyreállítja, de az eljárásra okot adott, illetve a bíróság a szervezettel (képviselővel) szemben intézkedést alkalmaz, a felmerült költségek viselésére a szervezetet kell kötelezni.
+
+(4) A költségviselést megállapító végzés ellen külön fellebbezésnek van helye. Behajthatatlanság esetén, illetve, ha az eljárást a bíróság jogsértés hiányában szünteti meg, a felmerült költségeket az állam viseli.
+
+(5) A hivatalból indult törvényességi felügyeleti eljárást meg kell szüntetni, ha az eljárás lefolytatása alapján a bíróság megállapítja, hogy jogsértés nem történt.
+
+(6) A hivatalból és a kérelemre indult törvényességi felügyeleti eljárások egyesítésére akkor sincs mód, ha a törvényességi felügyeleti eljárások azonos szervezet ellen indultak.
+
+#### 36/D. A bíróság eljárása kérelemre
+
+71/E. § (1) Kérelemre indul a törvényességi felügyeleti eljárás, ha annak lefolytatását
+
+- a) az ügyész indítványozza,
+- b) jogszabályban meghatározott feladatainak teljesítése körében a szervezet tevékenységének ellenőrzésére jogosult hatóság vagy közigazgatási szerv kéri,
+- c) az kéri, akinek az eljárás lefolytatásához jogi érdeke fűződik és e jogi érdeket valószínűsíti, vagy
+- d) az kéri, akit jogszabály az eljárás kezdeményezésére kötelez.
+
+(2) Az ügyészt – amennyiben a civil szervezet felett nem gyakorol törvényességi ellenőrzést – a törvényességi felügyeleti eljárás indítványozásának joga akkor illeti meg, ha indítványát – a 71/C. § (1) bekezdésében meghatározott ok mellett – közérdek sérelmére alapítja és e közérdek sérelmének fennállását valószínűsíti. Amennyiben az ügyész a szervezet felett törvényességi ellenőrzést gyakorol, a törvényességi felügyeleti eljárás megindításához nem szükséges közérdek sérelmének megjelölése és fennállásának valószínűsítése.
+
+(3) A kérelemnek az ügy elbírálásához szükséges valamennyi tényt, illetve adatot tartalmaznia kell. A törvényességi felügyeleti eljárás során a kérelmező a kérelme előterjesztésének okát nem változtathatja meg. A törvényességi felügyeleti eljárás lefolytatásával felmerülő költségeket a Pp. általános szabályai szerint a kérelmező köteles előlegezni. A költségek viselése csak akkor terheli a kérelmezőt, ha kérelme alaptalan volt.
+
+(4) A bíróság a kérelmet elutasítja, ha a kérelem nem felel meg az (1) bekezdésben foglalt feltételeknek. A bíróság a kérelmet elutasítja akkor is, ha megállapítja, hogy a kérelemben jelzett jogsértés nem áll fenn.
+
+(5) Az eljárás során a kérelmező a kérelmét bármikor visszavonhatja. Ilyen esetben az eljárást meg kell szüntetni. Az eljárás során felmerült költségeket a Pp. általános szabályai szerint a kérelmező viseli.
+
+(6) Az (5) bekezdésben meghatározott esetben, illetve ha a kérelem elutasítására került sor, a bíróság az eljárást hivatalból megindíthatja, ha a törvényességi felügyeleti eljárásnak hivatalból is helye van.
+
+(7) A kérelemre induló törvényességi felügyeleti eljárásban fél a szervezet és a kérelmező is.
+
+#### 36/E. A törvényességi felügyeleti eljárás megindításának határideje, lefolytatása
+
+71/F. § (1) A bíróság törvényességi felügyeleti eljárását az arra okot adó körülményről való tudomásszerzéstől számított harminc napon belül, illetve az eljárásra okot adó körülmény bekövetkezésétől számított egyéves jogvesztő határidőn belül lehet kérni. Ha a szervezet valamely jogszabálysértő helyzetet vagy állapotot nem szüntet meg, az eljárás megindítása mindaddig kérhető, amíg ez a helyzet vagy állapot fennáll.
+
+(2) Az (1) bekezdésben foglaltak irányadók abban az esetben is, amikor a bíróság hivatalból indítja meg a törvényességi felügyeleti eljárást, azzal az eltéréssel, hogy kivételesen indokolt esetben az eljárás a törvénysértő nyilvántartási adat kiküszöbölése érdekében az egyéves határidőt követően is megindítható.
+
+#### 36/F. A bíróság felhívása és intézkedései
+
+71/G. § (1) A törvényességi felügyeleti eljárás megindítása esetén a bíróság a jogkövetkezményekre történő figyelmeztetéssel és az eljárás alapjául szolgáló jogszabálysértés pontos megjelölésével felhívja a szervezetet, hogy a végzésben meghatározott, legfeljebb harmincnapos határidőn belül – amely az eljárás okától függően a szervezetnek a határidő lejárta előtt benyújtott kérelmére egy alkalommal, legfeljebb harminc nappal meghosszabbítható – írásban nyilatkozzon arról, hogy
+
+- a) vitatja-e a kérelemben, illetve a végzésben foglaltakat, illetve
+- b) ha nem vitatja a kérelemben vagy a végzésben foglaltakat, úgy a törvénysértő állapotot szüntesse meg, és azt igazolja.
+
+(2) Ha az (1) bekezdés szerinti felhívás eredményeként az eljárás megszüntetésének nincs helye, a törvényes állapot helyreállítása érdekében a bíróság az intézkedésre okot adó körülménytől, illetve annak súlyától függően a következő intézkedéseket hozhatja:
+
+- a) a szervezetet, illetve ha megállapítható, hogy a törvényességi felügyeleti eljárásra a szervezet képviselője adott okot, a képviselőt 10 000 Ft-tól 900 000 Ft-ig terjedő pénzbírsággal sújtja,
+- b) megsemmisíti a szervezet által hozott jogszabálysértő vagy a szervezet létesítő okiratába ütköző határozatot, és szükség esetén megfelelő határidő kitűzésével új határozat hozatalát rendeli el,
+- c) ha a szervezet törvényes működése a legfőbb szervének összehívásával előreláthatólag helyreállítható, összehívja a szervezet döntéshozó szervét, vagy ennek a feladatnak a végrehajtására – a szervezet költségére – megfelelő személyt vagy szervezetet rendel ki,
+- d) ha a szervezet működése törvényességének helyreállítása más módon nem biztosítható, a szervezet működése vagy más körülmény alapján különösen indokolt és az intézkedéstől előre láthatóan eredmény várható, legfeljebb kilencven napra felügyelőbiztost rendel ki,
+- e) a szervezetet megszünteti.
+
+(3) A bíróság a (2) bekezdés a)–d) pontjaiban meghatározott intézkedéseket együttesen, illetve a bírságolási intézkedést ismételten is alkalmazhatja. A bíróság a fél által kért intézkedéshez nincs kötve.
+
+(4) A szervezet megszüntetésére az (1) bekezdés szerinti felhívás vagy az első intézkedés eredménytelenségét követően is sor kerülhet, ha a bíróság úgy ítéli meg, hogy a törvényes működés helyreállítására elrendelhető további intézkedések nem vezetnének eredményre. A szervezet megszüntetését azonban ilyen esetben részletesen indokolni kell.
+
+(5) A bíróságnak a felhívás kiadását követően – ha a szervezet nem igazolja, hogy törvényes működését helyreállította – valamelyik intézkedést az (1) bekezdés szerinti felhívásban meghatározott határidő leteltét követő tizenöt napon belül alkalmaznia kell.
+
+(6) Ha a törvényes állapot nem állt helyre, a törvényességi felügyeleti intézkedést tartalmazó határozat jogerőre emelkedésétől számított harminc napon belül folytatni kell az eljárást. A jogerős intézkedést követő újabb intézkedést vagy az eljárást véglegesen lezáró határozatot legkésőbb az előző intézkedés jogerőre emelkedésétől számított három hónapon belül meg kell hozni.
+
+#### 36/G. A felügyelőbiztos jogköre
+
+71/H. § (1) Ha a bíróság kérelemre vagy hivatalból végzésében felügyelőbiztost rendel ki, e végzésben meghatározza a felügyelőbiztos feladatkörét. A szervezet vezető tisztségviselői (képviselői) a hatáskörüket csak a felügyelőbiztos részére biztosított jogok megsértése nélkül gyakorolhatják. A bíróság felügyelőbiztosként a szervezettől független, arra alkalmas személyt jelölhet ki az állami szerv vagy kamara által vezetett névjegyzékben szereplő személyek közül – így különösen ügyvéd, közvetítő, könyvvizsgáló, igazságügyi szakértő –, feltéve, hogy ez a személy a megbízatást elvállalja. A felügyelőbiztos a működése során az adott helyzetben általában elvárható gondossággal köteles eljárni. A kötelezettségeinek megszegésével okozott kárért a szerződésszegéssel okozott kárért való felelősség Ptk.-ban foglalt szabályainak megfelelő alkalmazásával felel.
+
+(2) Nem lehet felügyelőbiztos, akinek a Ptk. szerinti közeli hozzátartozója, illetve élettársa a szervezet tagja, vezető tisztségviselője (képviselője), felügyelőbizottsági tagja vagy könyvvizsgálója, valamint az, aki a szervezettel azonos tevékenységet folytató más szervezetben vezető tisztségviselő.
+
+(3) A felügyelőbiztos feladata a szervezet törvényes működésének helyreállításához szükséges intézkedések megtétele. Ennek érdekében a vezető tisztségviselőktől (képviselőktől), illetve a szervezet vezető állású munkavállalóitól felvilágosítást kérhet. A felügyelőbiztos a szervezet esetleges üzleti titkait köteles megőrizni és a birtokába jutott információkról csak a bíróságot tájékoztathatja. A felügyelőbiztos a bíróság felhívására, a bíróság által megadott határidőn belül és módon köteles tevékenységéről beszámolni.
+
+(4) Ha a törvényességi felügyeleti eljárásnak az az oka, hogy a szervezetnek nincs megválasztott vezető tisztségviselője (képviselője), a felügyelőbiztos – a bíróság végzésében meghatározottak szerint – a vezető tisztségviselő (képviselő) jogkörét gyakorolja. Erre tekintettel a bíróság a felügyelőbiztost – szükség esetén a korábbi vezető tisztségviselő (képviselő) törlésével egyidejűleg – a nyilvántartásba hivatalból bejegyzi.
+
+(5) A szervezet vezető munkavállalói, illetve tagjai kötelesek a felügyelőbiztos részére minden olyan eszközt, iratot, illetve információt biztosítani, amely hozzásegíti ahhoz, hogy a vezető tisztségviselői feladatait elláthassa. A felügyelőbiztos kérelmére a bíróság a felügyelőbiztos tevékenységét akadályozó személyt a Pp. 120. §-ában meghatározott pénzbírsággal sújtja. A pénzbírság többször is kiszabható.
+
+(6) Ha a felügyelőbiztos kirendelésére a szervezet tagja kérelmére került sor, a felügyelőbiztos a vezető tisztségviselő (képviselő) jogkörében a halaszthatatlan intézkedések megtételére is jogosult. Szerződést azonban csak akkor köthet, követelést csak akkor ismerhet el, illetve jogról csak akkor mondhat le, ha ezáltal az általa képviselt szervezetet nyilvánvaló károsodástól óvja meg.
+
+(7) Ha a felügyelőbiztos kirendelésére azért került sor, mert a szervezetnek nincs vezető tisztségviselője (képviselője), a bíróság a szervezetnek megküldendő végzését a szervezet székhelyére kézbesíti.
+
+71/I. § (1) A felügyelőbiztos jogszabálysértő vagy a szervezet, annak tagjai, hitelezői vagy más személy jogos érdekét sértő tevékenysége vagy mulasztása miatt a sérelmet szenvedett személy vagy szervezet a tudomásszerzéstől számított harminc napon belül, de legfeljebb a felügyelőbiztos kirendelésének időtartama alatt a bíróságnál kifogással élhet. Ha a bíróság a kifogást megalapozottnak találja, a felügyelőbiztos intézkedését megsemmisíti vagy kötelezi a megfelelő intézkedés megtételére, illetve más felügyelőbiztost rendel ki, ellenkező esetben a kifogást elutasítja.
+
+(2) Ha a felügyelőbiztos kirendelése kérelemre történik, a felügyelőbiztos költségeinek és díjának a bíróság által meghatározott várható összegét a kérelmező köteles előlegezni. Ha a törvényes működés helyreállt vagy a kirendelés határideje lejárt, a bíróság a felügyelőbiztost felmenti és költségeit, valamint díját megállapítja azzal, hogy azt a szervezet viseli. Ha a szervezet terhére megállapított összeg behajthatatlannak bizonyul, a felügyelőbiztos költségét és díját a kérelmező, illetve hivatalból kirendelt felügyelőbiztos esetében az állam viseli. A felügyelőbiztos költségét és díját megállapító végzés ellen külön fellebbezésnek van helye. A felügyelőbiztos által felszámítható díjra a törvényességi felügyeleti eljárásban közreműködő felügyelőbiztos díjáról szóló 23/2006. (V. 18.) IM rendeletet kell megfelelően alkalmazni.
+
+(3) Amennyiben a hivatalból kirendelt felügyelőbiztos díja és költsége behajthatatlannak bizonyul, a díjat és költséget a kirendelést elrendelő bíróság gazdasági hivatala téríti meg a felügyelőbiztos részére.
 
 ### V. Fejezet — AZ INFORMATIKAI RENDSZER ÉS ALKALMAZÁSAI
 
@@ -1056,7 +1251,7 @@ is.
 97. § Felhatalmazást kap az igazságügyért felelős miniszter, hogy
 
 - a) az e törvényben szabályozott eljárásokban alkalmazandó papír alapú űrlapokat, azok tartalmi és formai kellékeit, az űrlapokhoz csatolható mellékleteket, az elektronikus űrlapok adatait, valamint az űrlapok közzétételének módját,
-- b) az egyszerűsített nyilvántartásba vételi eljárás esetében a kérelemhez csatolandó létesítő okirat minta adatait és az ahhoz csatolandó mellékletek adatait, valamint az űrlapok közzétételének módját,
+- b) az egyszerűsített nyilvántartásba vételi eljárás és az egyszerűsített változásbejegyzési eljárás esetében a kérelemhez csatolandó létesítő okirat mintaokiratát és a további mellékletek mintaokiratát, valamint az űrlapok közzétételének módját,
 - c) az e törvényben szabályozott eljárásokban érvényesülő ügyviteli szabályokat,
 - d) az informatikai rendszer szervezeti-szervezési és módszertani követelményeit,
 - e)

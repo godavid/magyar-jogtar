@@ -48,7 +48,7 @@ Az Országgyűlés abból a célból, hogy a hivatásos és a sportvadászok ön
 - e) gondoskodik a vadászvizsga lebonyolításáról;
 - f) etikai eljárást folytat le a kamara etikai szabályait megszegő tagjával szemben;
 - g) a kamara tagjairól névjegyzéket (a továbbiakban: névjegyzék) vezet és erről statisztikai adatokat szolgáltat;
-- h) kiállítja és érvényesíti a vadászjegyet és az egyéni lőjegyzéket, erről nyilvántartást vezet és adatot szolgáltat az Országos Vadgazdálkodási Adattárnak;
+- h) kiállítja és érvényesíti a vadászjegyet, valamint kiállítja a vadászati engedélyt;
 - i) eljárást kezdeményez az illetékes hatóságnál a jogosulatlanul vadászókkal szemben;
 - j) elősegíti a hivatásos vadászok szakmai tevékenységének magasabb szintű gyakorlásához szükséges ismeretek elsajátítását, és ezzel összefüggésben meghatározza a kötelező szakmai továbbképzésen való részvétel feltételeit;
 - k) belföldi, illetőleg külföldi szakmai kapcsolatokat létesít, illetve tart fenn;
@@ -69,7 +69,7 @@ Az Országgyűlés abból a célból, hogy a hivatásos és a sportvadászok ön
 - a) a hivatásos vadász szolgálati helyét,
 - b) a vadászati hatóság által kiállított igazolásokat.
 
-(3) A Kamara az (1) bekezdés a)–e) pontjaiban, valamint a (2) bekezdés a) pontjában foglalt adatokról évente adatokat szolgáltat az Országos Vadgazdálkodási Adattárnak.
+(3) A kamara az (1) bekezdés a)–e) pontjában és a (2) bekezdés a) pontjában foglalt adatokról, valamint a kiállított vadászati engedélyekről évente adatokat szolgáltat az Országos Vadgazdálkodási Adattárnak.
 
 ### III. Fejezet — A KAMARA SZERVEZETE
 
@@ -406,7 +406,7 @@ Az Országgyűlés abból a célból, hogy a hivatásos és a sportvadászok ön
 - a) a tagjai által befizetett tagdíjból,
 - b) egyéb díjbevételeiből, illetőleg támogatásokból fedezi.
 
-(2) A kamara által az államtól átvett feladatok térítéseként az (1) bekezdés b) pontja szerinti bevételnek minősül a vadászjegy kiállításáért a miniszter által rendeletben megállapított mértékű igazgatási szolgáltatási díj teljes összege.
+(2) A kamara által az államtól átvett feladatok térítéseként az (1) bekezdés b) pontja szerinti bevételnek minősül a vadászjegy és a vadászati engedély kiállításáért a miniszter által rendeletben megállapított mértékű igazgatási szolgáltatási díj teljes összege.
 
 (3) A fegyelmi büntetésként kiszabott pénzbírság felhasználásának rendjét az alapszabály állapítja meg.
 

@@ -130,7 +130,8 @@ kell érteni.
 - a) a (2) bekezdésben meghatározottak szerint a rendészeti feladatokat ellátó személy jogviszonya megszűnt,
 - b) a szolgálati igazolványban szereplő adatok megváltoztak,
 - c) a 7. § (1) bekezdésében meghatározott körülmény bekövetkezett, vagy
-- d) az 1. § (1) bekezdés g) és h) pontja szerinti személy szakszemélyzeti jogosultsága a külön jogszabály szerinti okból megszűnt.
+- d) az 1. § (1) bekezdés g) és h) pontja szerinti személy szakszemélyzeti jogosultsága a külön jogszabály szerinti okból megszűnt,
+- e) a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény 53. § (2) bekezdése szerinti ok fennáll.
 
 (4) Az 1. § (1) bekezdés g) és h) pontja alá tartozó személy esetében az (1) és (2) bekezdésben, valamint a 7. § (1) bekezdésében foglaltak tekintetében munkáltató helyett az erdészeti hatóság jár el.
 
