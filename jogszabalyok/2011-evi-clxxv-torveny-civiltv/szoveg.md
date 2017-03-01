@@ -94,7 +94,7 @@ közérdekű, illetve közhasznú tevékenységük támogatása
 
 (5) Az egyesület alapszabálya a különleges jogállású tagságról e jogállás tartalmának meghatározásával rendelkezhet. Ha az egyesület alapszabálya pártoló tagságot hoz létre, úgy az ilyen tag az egyesület tevékenységében csak vagyoni hozzájárulással vesz részt, ha pedig tiszteletbeli tagságot, úgy az ilyen tagot az egyesület tagjai választják meg e tagságra. A pártoló és a tiszteletbeli tag az egyesület szerveinek ülésén tanácskozási joggal vehet részt és vezető tisztségviselővé nem választható.
 
-(6) Az egyesület ügyvezető szervének és döntéshozó szervének ülése személyes részvétel helyett elektronikus hírközlő eszközök igénybevételével is lefolytatható, akkor, ha a létesítő okirat az igénybe vehető elektronikus hírközlő eszközöket, valamint azok alkalmazásának feltételeit és módját úgy határozza meg, hogy a tagok azonosítása és a tagok közötti kölcsönös és korlátozásmentes kommunikáció biztosított legyen.
+(6)
 
 (7) Az elektronikus hírközlő eszköz közvetítésével tartott ülésen elhangzottakat és a meghozott határozatokat úgy kell rögzíteni, hogy azok utóbb is ellenőrizhetőek legyenek. Ha a döntéshozó szerv ülésén hozott határozatot be kell nyújtani a nyilvántartó bírósághoz, jegyzőkönyvet kell készíteni, amelyet az ügyvezető aláírásával hitelesít.
 
@@ -238,10 +238,7 @@ közérdekű, illetve közhasznú tevékenységük támogatása
 
 9/J. § (1) Ha bírósági határozat folytán kell a végelszámolást lefolytatni, továbbá, ha a végelszámolást egyszerűsített törlési eljárás előzte meg, a végelszámolás kényszer-végelszámolásként kerül lefolytatásra.
 
-(2) Az alapítvány kényszer-végelszámolásának van helye – ha az alapítvány nem fizetésképtelen, és e törvény eltérő rendelkezést nem tartalmaz – abban az esetben,
-
-- a) ha a bíróság az ügyész indítványára vagy az alapító kérelmére megállapítja, hogy az alapítvány megszűnt [Ptk. 3:48. § (1) bekezdés a), b) pontja és 3:403. § (1) bekezdés a) pontja] vagy
-- b) ha a bíróság az ügyész keresete vagy az alapító kérelme – a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény (a továbbiakban: Cnytv.) 59. § (5) bekezdésében meghatározott esetben az alapító keresete alapján – alapján megállapítja, hogy az alapítvány megszűnt [Ptk. 3:403. § (1) bekezdés b) és c) pontja].
+(2)
 
 (3) Kényszer-végelszámolás esetén a bíróság a végelszámolás megindításáról szóló, a 9/B. § (4) bekezdés szerinti végzést hivatalból hozza meg, és – a vezető tisztségviselő nyilatkoztatása után – kijelöli a végelszámolót. A bíróság végelszámolónak elsősorban a civil szervezet bejegyzett vezető tisztségviselőjét jelöli ki. Ha a bejegyzett vezető tisztségviselő nem jelölhető ki vagy kijelölésének mellőzését alapos okkal kéri, a bíróság a felszámolói névjegyzékből jelöli ki a végelszámolót.
 
@@ -251,23 +248,18 @@ közérdekű, illetve közhasznú tevékenységük támogatása
 
 #### 2/B. A civil szervezet egyszerűsített törlési eljárása
 
-9/K. § (1) Egyszerűsített törlési eljárásnak van helye
+9/K. § (1) Egyszerűsített törlési eljárásnak van helye, ha
 
-- a) egyesület esetében, ha
-  - aa) a bíróság az ügyész keresete alapján megszünteti [Ptk. 3:48. § (1) bekezdés d) pontja],
-  - ab) a bíróság az ügyész keresete alapján megállapítja, hogy az egyesület megszűnt [Ptk. 3:48. § (1) bekezdés a), b) pontja és 3:84. § a) és b) pontja],
-- b) alapítvány esetében, ha
-  - ba) a bíróság az ügyész keresete alapján megszünteti [Ptk. 3:48. § (1) bekezdés d) pontja],
-  - bb) a bíróság az ügyész indítványára vagy az alapító kérelmére megállapítja, hogy az alapítvány megszűnt [Ptk. 3:48. § (1) bekezdés a), b) pontja és 3:403. § (1) bekezdés a) vagy c) pontja], vagy
-  - bc) a bíróság az ügyész keresete vagy az alapító kérelme – a Cnytv. 59. § (5) bekezdésében meghatározott esetben az alapító keresete – alapján megállapítja, hogy az alapítvány megszűnt [Ptk. 3:403. § (1) bekezdés b) pont],
+- a) a bíróság a civil szervezet tekintetében megállapítja a jogutód nélküli megszűnési ok bekövetkeztét vagy
+- b) a bíróság a civil szervezetet törvényességi felügyeleti eljárásban megszünteti,
 
-feltéve hogy az a) vagy b) pont szerinti eljárás során nem merült fel adat arra nézve, hogy a civil szervezetnek vagyona van vagy a civil szervezet fennállása során adószámmal nem rendelkezett, illetve nem rendelkezik.
+feltéve, hogy az a) vagy b) pont szerinti eljárás során nem merült fel adat arra nézve, hogy a civil szervezetnek vagyona van vagy a civil szervezet fennállása során adószámmal nem rendelkezett, illetve nem rendelkezik.
 
 (2) Az e cím szerinti bírósági eljárásokban az e törvény által nem szabályozott kérdésekben a Pp. rendelkezéseit – a nemperes eljárás sajátosságaiból eredő eltérésekkel – kell alkalmazni.
 
 (3) Az e cím szerinti eljárások lefolytatására a civil szervezetet nyilvántartató bíróság illetékes.
 
-(4) Ha a bíróság a civil szervezetet megszünteti vagy a civil szervezet megszűnését állapítja meg, a civil szervezetet nyilvántartó bíróság a határozat alapján a nyilvántartásba haladéktalanul bejegyzi megszüntetés esetén a „megszüntetve”, megszűnés megállapítása esetén pedig a „megszűnt” toldatot.
+(4) Ha a bíróság a civil szervezetet megszünteti vagy a civil szervezet tekintetében megállapítja a jogutód nélküli megszűnési ok bekövetkeztét, a civil szervezetet nyilvántartó bíróság a határozat alapján a nyilvántartásba haladéktalanul bejegyzi megszüntetés esetén a „megszüntetve”, a jogutód nélküli megszűnési ok bekövetkeztének megállapítása esetén pedig a „megszűnt” toldatot.
 
 (5) Ha a civil szervezet fennállása során adószámmal rendelkezett vagy rendelkezik, az (1) bekezdésben meghatározott határozatok indokolásának a Pp. 221. §-ában foglaltakon túl tartalmaznia kell az arra való utalást, hogy az eljárás során a civil szervezet vagyonára vonatkozó adat merült-e fel.
 
@@ -285,7 +277,7 @@ azt negyvenöt napon belül jelentse be a bíróságnak.
 
 9/L. § (1) A bíróság az egyszerűsített törlési eljárás elrendelését követő öt munkanapon belül az egyszerűsített törlési eljárás megindításáról értesíti
 
-- a) az ügyészséget,
+- a) az ügyészséget, amennyiben az ügyész a civil szervezet felett törvényességi ellenőrzést gyakorol,
 - b) a civil szervezet székhelye szerint illetékes adó- és vámhatóságot, társadalombiztosítási igazgatási szervet,
 - c) a civil szervezet székhelye szerint illetékes végrehajtót (végrehajtókat),
 - d) a Magyar Bírósági Végrehajtói Kart az önálló bírósági végrehajtók által intézett bírósági és közigazgatási végrehajtási ügyekről vezetett nyilvántartás adatairól történő adatszolgáltatás érdekében [a bírósági végrehajtásról szóló 1994. évi LIII. törvény 253/E. § (5) bekezdés],
@@ -429,40 +421,15 @@ kell érteni.
 
 #### 3. Az ügyész és a bíróság intézkedései
 
-11. § (1) A civil szervezet működése felett az ügyészség – az e törvényben, valamint a Ptk.-ban meghatározott eltérésekkel – az ügyészségről szóló törvény rendelkezései szerint törvényességi ellenőrzést gyakorol. A törvényességi ellenőrzés nem terjed ki az olyan ügyekre, amelyekben egyébként bírósági vagy közigazgatási hatósági eljárásnak van helye.
+11. § (1)–(3)
 
-(2) A törvényességi ellenőrzést gyakorló ügyész ellenőrzi, hogy a civil szervezet
+(4) A bíróság az ügyész keresete alapján feloszlatja az egyesületet, ha annak működése vagy tevékenysége a 3. § (3)–(5) bekezdésébe ütközik.
 
-- a) belső (önkormányzati) szabályzatai, illetve azok módosításai megfelelnek-e a jogszabályoknak és a létesítő okiratnak,
-- b) működése, határozatai, a döntéshozó szerv döntései megfelelnek-e a jogszabályoknak, a létesítő okiratnak vagy az egyéb belső (önkormányzati) szabályzatoknak.
+(5)
 
-(3) Ha a civil szervezet működésének törvényessége másképpen nem biztosítható, az ügyész törvényességi ellenőrzési jogkörében eljárva keresettel a bírósághoz fordulhat. A bíróság a keresetet megvizsgálja és szükség esetén
+(5a)–(5b)
 
-- a) hatályon kívül helyezi a civil szervezet bármely szervének törvénysértő határozatát, és szükség szerint új határozat meghozatalát rendeli el,
-- b) a működés törvényességének helyreállítása érdekében összehívja a döntéshozó szervet, vagy határidő tűzésével a törvényes működés helyreállítására kötelezi a döntéshozó szervet, és minderről értesíti a civil szervezetnél választott felügyelő szervet is,
-- c) ha a törvényes működés nem állítható helyre vagy a b) pont szerinti határidő eredménytelenül telt el, a civil szervezetet megszünteti.
-
-(4) A bíróság az ügyész keresete alapján feloszlatja az egyesületet, ha annak működése vagy tevékenysége a 3. § (3) bekezdésébe ütközik.
-
-(5) A bíróság az ügyész keresete alapján megállapítja
-
-- a) az egyesület megszűnését, ha
-  - aa) határozott időre jött létre és a meghatározott időtartam eltelt [Ptk. 3:48. § (1) bekezdés a) pont],
-  - ab) megszűnése meghatározott feltétel bekövetkezéséhez kötött és e feltétel bekövetkezett [Ptk. 3:48. § (1) bekezdés b) pont],
-  - ac) megvalósította célját vagy céljának megvalósítása lehetetlenné vált, és új célt nem határoztak meg [Ptk. 3:84. § a) pont],
-  - ad) tagjainak száma hat hónapon keresztül a Ptk.-ban meghatározott legkisebb létszám alá csökken [Ptk. 3:84. § b) pont], feltéve, hogy az aa)–ac) pont szerinti esetekben az abban foglaltakra figyelemmel az egyesület nem határozott a megszűnéséről,
-- b) az alapítvány megszűnését, ha céljának megvalósítása lehetetlenné vált, és a cél módosítására vagy más alapítvánnyal való egyesülésre nincs mód [Ptk. 3:403. § (1) bekezdés b) pont].
-
-(5a) A bíróság az alapító kérelmére vagy az ügyészség indítványára állapítja meg az alapítvány megszűnését, ha
-
-- a) határozott időre alapították és a meghatározott időtartam eltelt [Ptk. 3:48. § (1) bekezdés a) pont],
-- b) megszűnése meghatározott feltétel bekövetkezéséhez kötött és e feltétel bekövetkezett [Ptk. 3:48. § (1) bekezdés b) pont],
-- c) célját megvalósította, és az alapító új célt nem határozott meg [Ptk. 3:403. § (1) bekezdés a) pont],
-- d) három éven át a célja megvalósítása érdekében nem folytatott tevékenységet [Ptk. 3:403. § (1) bekezdés c) pont].
-
-(5b) A bíróság az alapító kérelmére – a Cnytv. 59. § (5) bekezdésében meghatározott esetben az alapító keresetére – állapítja meg az alapítvány megszűnését, ha céljának megvalósítása lehetetlenné vált, és a cél módosítására vagy más alapítvánnyal való egyesülésre nincs mód [Ptk. 3:403. § (1) bekezdés b) pont].
-
-(6) A civil szervezet – feloszlatása, megszüntetése vagy megszűnésének megállapítása esetén – a nyilvántartásból való törlésről rendelkező bírósági határozat jogerőre emelkedésének napjával szűnik meg.
+(6) A feloszlatott egyesület a nyilvántartásból való törlésről rendelkező bírósági határozat jogerőre emelkedésének napjával szűnik meg.
 
 (7) Az ügyész a civil szervezet szervének törvénysértő határozatának hatályon kívül helyezésére a (3) bekezdés a) pontja szerinti keresetlevelet a határozat meghozatalától számított egy éven belül nyújthatja be.
 
@@ -632,7 +599,7 @@ tevékenységet folytathat.
 
 (4) Ha a civil szervezet saját honlappal rendelkezik, a közzétételi kötelezettség kiterjed a beszámoló, valamint közhasznúsági melléklet saját honlapon történő elhelyezésére is. A civil szervezet a saját honlapon közzétett adatok folyamatos megtekinthetőségét legalább a közzétételt követő második üzleti évre vonatkozó adatok közzétételéig biztosítja.
 
-(5) Ha a civil szervezet a beszámolóval, valamint közhasznúsági melléklettel kapcsolatos (1)–(3) bekezdés szerinti kötelezettségét elmulasztja és azt egy éven belül nem pótolja, a bíróság törvényességi ellenőrzési eljárás lefolytatása céljából értesíti az ügyészséget.
+(5) Ha a civil szervezet a beszámolóval, valamint közhasznúsági melléklettel kapcsolatos (1)–(3) bekezdés szerinti kötelezettségét elmulasztja és azt egy éven belül nem pótolja, a bíróság a civil szervezetet a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló törvény 37. § (2) bekezdésében megállapított mértékű pénzbírsággal sújthatja.
 
 (6) A civil szervezet beszámolójára egyebekben a számvitelről szóló törvény, valamint az annak felhatalmazása alapján kiadott kormányrendelet előírásait kell alkalmazni.
 
@@ -750,7 +717,7 @@ vonatkozó szabályokat.
 
 (4) A döntéshozó szervet vagy az ügyvezető szervet a felügyelő szerv indítványára – annak megtételétől számított harminc napon belül – intézkedés céljából össze kell hívni. E határidő eredménytelen eltelte esetén a döntéshozó szerv és az ügyvezető szerv összehívására a felügyelő szerv is jogosult.
 
-(5) Ha az arra jogosult szerv a törvényes működés helyreállítása érdekében szükséges intézkedéseket nem teszi meg, a felügyelő szerv köteles haladéktalanul értesíteni a törvényességi ellenőrzést ellátó szervet.
+(5) Ha az arra jogosult szerv a törvényes működés helyreállítása érdekében szükséges intézkedéseket nem teszi meg, a felügyelő szerv köteles haladéktalanul értesíteni a törvényességi ellenőrzést ellátó szervet. Ha a szervezet működése felett az ügyészség vagy más szerv törvényességi ellenőrzést nem gyakorol, a felügyelő szerv a szervezetet nyilvántartó bíróság előtt törvényességi felügyeleti eljárást kezdeményez.
 
 #### 13/A. A közhasznú jogállású alapítványokra vonatkozó különös szabályok
 
@@ -786,7 +753,7 @@ vonatkozó szabályokat.
 
 #### 15. A közhasznú működés felügyelete, a közhasznúsági nyilvántartás
 
-47. § A közhasznú szervezetek feletti adóellenőrzést az adóhatóság, az államháztartásból származó (költségvetési) támogatás felhasználásának ellenőrzését törvény eltérő rendelkezése hiányában az Állami Számvevőszék, az állami vagy önkormányzati költségvetésből, illetve a nemzetközi forrásokból juttatott támogatások felhasználásának ellenőrzését a külön jogszabály szerinti ellenőrzési szervezet, a közhasznú működés feletti törvényességi ellenőrzést pedig a reá irányadó szabályok szerint az ügyészség látja el.
+47. § A közhasznú szervezetek feletti adóellenőrzést az adóhatóság, az államháztartásból származó (költségvetési) támogatás felhasználásának ellenőrzését törvény eltérő rendelkezése hiányában az Állami Számvevőszék, az állami vagy önkormányzati költségvetésből, illetve a nemzetközi forrásokból juttatott támogatások felhasználásának ellenőrzését a külön jogszabály szerinti ellenőrzési szervezet, a közhasznú működés feletti törvényességi ellenőrzést, a közhasznú civil szervezet esetében a közhasznú minősítés követelményeinek való megfelelés ellenőrzését pedig a reá irányadó szabályok szerint az ügyészség látja el.
 
 48. § A közhasznú szervezet hatvan napon belül köteles kérni a közhasznú jogállásának törlését, ha a közhasznúvá minősítés feltételeinek nem felel meg.
 
