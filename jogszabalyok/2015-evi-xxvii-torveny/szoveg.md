@@ -512,4 +512,4 @@ Dátum: ...............”
 
 (4) E törvény végrehajtásához szükséges intézkedésekről a honvédelemért felelős miniszter gondoskodik.
 
-(5) Hatályát veszti a Magyar Köztársaság Kormánya, az Olasz Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között Többnemzeti Szárazföldi Kötelék létrehozásáról, Udinében, 1998. április 18-án aláírt Egyezmény megerősítéséről és kihirdetéséről szóló 1998. évi XLV. törvény.
+(5)
