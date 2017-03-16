@@ -315,6 +315,8 @@ megismerhetők.
 
 (2) A cég cégjegyzékének adatait, illetve azok változásait – ideértve a cég törlését is – tartalmazó végzését a cégbíróság költségtérítés ellenében a Cégközlönyben hozza nyilvánosságra, felsorolva azokat az okiratokat is, amelyek alapján a végzést meghozta. A cégbíróság a végzést automatikusan, elektronikus úton juttatja el a Cégközlöny számára. A végzésben, illetve annak alapján a Cégközlönyben megjelenő közleményben azt is szerepeltetni kell, hogy a vonatkozó cégiratok a cégjegyzéket vezető cégbíróságon megtekinthetők. Emellett a Cégközlönyben közzétételre kerülnek azok a cégjegyzékadatok is, amelyekkel törvény rendelkezése szerint – más szervezet döntése alapján – elektronikus úton egészül ki a cégjegyzék.
 
+(2a) Nem kell közzétételi költségtérítést fizetni a korlátolt felelősségű társaság, az egyéni cég, a közkereseti társaság és a betéti társaság bejegyzése esetén.
+
 (3) A cégbíróság a részvénytársaság és a korlátolt felelősségű társaság cégjegyzék adatainak közzétételével egyidejűleg gondoskodik a részvénytársaság és a korlátolt felelősségű társaság létesítő okiratának, illetve a létesítő okirat módosításának Cégközlönyben történő közzétételéről is.
 
 (3a) A (2) és (3) bekezdés szerinti közzétételre a Cégközlöny honlapján napi feltöltéssel kerül sor.

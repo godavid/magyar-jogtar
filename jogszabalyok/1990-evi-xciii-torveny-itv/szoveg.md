@@ -703,17 +703,9 @@ az egyébként járó illeték kétszeresét kell megfizetnie, kivéve a vagyons
 - 4. a születéssel, a házasságkötéssel, az örökbefogadással, tartással, gondozással és a halálesettel kapcsolatos, továbbá a nemzetiségek anyakönyvi adatainak első ízben történő kijavításával kapcsolatos eljárás, kivéve
   - a) a magyar állampolgár, illetőleg Magyarországon lakó hontalan külföldön történő házasságkötéséhez szükséges irat;
   - b) a nem magyar állampolgár Magyarországon történő házasságkötéséhez szükséges irat, továbbá
-  - c) az anyakönyvi kivonat kiállítása;
+  - c)
   - d)
-- 5. az anyakönyvi kivonat kiállítása az alábbi esetekben illetékmentes, ha
-  - a) a születés, a házasságkötés és a haláleset anyakönyvezését követően az érdekelt részére első ízben;
-  - b) az intézeti vagy állami nevelt gyermek anyakönyvezéséhez;
-  - c) az 1953. január 1-je előtti bejegyzésről a névmutató szerint illetékmentes kivonatot még nem adtak ki, és ca) az anyakönyvből a bejegyzett személy, örökbefogadás esetén az örökbefogadó részére, cb) az anyakönyvből a házastárs részére, cc) az anyakönyvből a házastárs vagy a meghalt személy egyenesági rokona részére,
-  - d) tartásdíj európai uniós jogi norma, nemzetközi szerződés vagy viszonossági nyilatkozat alapján külföldön való behajtása tárgyában folyó eljárás céljára,
-  - e) a szülők házassági anyakönyvi kivonatának a gyermek születésének anyakönyvezéséhez;
-  - f) az elhunyt születési és házassági anyakönyvi kivonatának a haláleset anyakönyvezéséhez;
-  - g) a nemzetiségek jogairól szóló törvény alapján kijavított anyakönyvi adatokról az érdekelt részére első ízben;
-  - h) az apa adatait a születés anyakönyvezése után jegyezték be, és e bejegyzést követően az érdekelt részére első alkalommal történik a kiállítása; 5/A. a házassági név megváltoztatására irányuló eljárás;
+- 5. az anyakönyvi kivonat kiállítása; 5/A. a házassági név megváltoztatására irányuló eljárás;
 - 6. a gyámhatóság előtt kezdeményezett minden eljárás és az ilyen eljáráshoz szükséges irat;
 - 7. az állami gondoskodás körén kívüli nevelőotthoni térítési díj megállapításához szükséges bizonyítvány;
 - 8. a holtnak nyilvánításra, illetőleg halál tényének megállapítására irányuló bírósági eljárás céljára szükséges irat;
@@ -767,7 +759,18 @@ az egyébként járó illeték kétszeresét kell megfizetnie, kivéve a vagyons
 - 56. a mezőgazdasági és erdészeti gépkezelői jogosítvány kiállítása;
 - 57. a népi iparművészeti igazolvánnyal kapcsolatos eljárás;
 - 58. jelnyelvi tolmács névjegyzékbe vételével kapcsolatos eljárás;
-- 59. a közérdekű önkéntes tevékenységről szóló törvény alapján a fogadó szervek bejelentésére és nyilvántartásba vételére irányuló eljárás, a nyilvántartásba vett adatok változásának bejelentésére irányuló eljárás és a közérdekű önkénteseket foglalkoztató szervezetek nyilvántartásából való törlésére irányuló eljárás.
+- 59. a közérdekű önkéntes tevékenységről szóló törvény alapján a fogadó szervek bejelentésére és nyilvántartásba vételére irányuló eljárás, a nyilvántartásba vett adatok változásának bejelentésére irányuló eljárás és a közérdekű önkénteseket foglalkoztató szervezetek nyilvántartásából való törlésére irányuló eljárás;
+- 60. a lakáscélú állami támogatás igényléséhez szükséges, a fennálló biztosítási jogviszonyt igazoló egészségbiztosítási pénztári hatósági bizonyítvány kiállítása évente két alkalommal;
+- 61. közműpótló talajvízkút létesítésének, átalakításának, megszüntetésének engedélyezése;
+- 62. hatósági bizonyítvány kiállítása az egyéni vállalkozók nyilvántartásában szereplő adatokról;
+- 63. a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 27/A. § (1) bekezdése és 27/D. § (1) bekezdése szerinti nyilatkozat megtételével kapcsolatos eljárás;
+- 64. Magyarország területén kívül élő magyar állampolgár kérelemre történő személyi, lakcím és értesítési cím adatait tartalmazó nyilvántartásba vételére irányuló eljárás;
+- 65. az értesítési cím bejelentésével kapcsolatos eljárás;
+- 66. az igazságügyi szakértői névjegyzékbe vétel és a szakterület kiterjesztése iránti eljárás;
+- 67. a termőföld birtokösszevonási célú telekcsoport-újraosztására és telekegyesítésére irányuló telekalakítási eljárás;
+- 68. a családi név korrekciójára irányuló eljárás.
+
+(3) A 18. életévét be nem töltött személy mentesül a 29. § (1) bekezdés szerinti illeték megfizetése alól.
 
 ### Az államigazgatási eljárási illeték fizetésének módja
 
@@ -883,22 +886,18 @@ az egyébként járó illeték kétszeresét kell megfizetnie, kivéve a vagyons
 45. § (1) A cégbejegyzésre irányuló eljárás illetéke:
 
 - a) európai részvénytársaság esetében 600 000 forint,
-- b) zártkörűen működő részvénytársaság, korlátolt felelősségű társaság esetében 100 000 forint,
-- c) közkereseti társaság, betéti társaság esetén 50 000 forint,
-- d) az a)–c) pont alá nem tartozó egyéb jogi személy esetén – az (1a) bekezdésben foglalt kivétellel – 100 000 forint,
-- e) egyéni cég esetén 30 000 forint,
+- b) zártkörűen működő részvénytársaság esetében 100 000 forint,
+- c)
+- d) az a) és b) pont alá nem tartozó egyéb jogi személy esetén – az (1a) bekezdésben foglalt kivétellel – 100 000 forint,
+- e)
 - f) külföldi székhelyű vállalkozás magyarországi fióktelepe esetén 50 000 forint,
 - g) külföldi vállalkozás közvetlen kereskedelmi képviselete esetén 50 000 forint.
 
-(1a) A szociális szövetkezet bejegyzésére irányuló eljárás illetékmentes.
+(1a) A szociális szövetkezet, a korlátolt felelősségű társaság, az egyéni cég, a közkereseti társaság és a betéti társaság bejegyzésére irányuló eljárás illetékmentes.
 
 (2) Ha a cégbejegyzésre irányuló kérelemben fióktelep bejegyzését is kérik, az (1) bekezdésben meghatározott illetéken kívül további illetéket nem kell fizetni.
 
-(3) Az egyszerűsített eljárással történő cégbejegyzési kérelem illetéke:
-
-- a) zártkörűen működő részvénytársaság, korlátolt felelősségű társaság esetén 50 000 Ft,
-- b) közkereseti társaság, betéti társaság esetén 25 000 forint,
-- c) egyéni cég esetén 15 000 forint, azzal, hogy amennyiben az egyszerűsített cégbejegyzésre irányuló kérelem benyújtása után megállapítást nyer, hogy a kérelmező az egyszerűsített bejegyzés igénybevételére nem jogosult, a cégbíróság felhívást bocsát ki az illeték (1) bekezdés szerinti összegre történő kiegészítésére.
+(3) Az egyszerűsített eljárással történő cégbejegyzési kérelem illetéke zártkörűen működő részvénytársaság esetén 50 000 Ft, azzal, hogy amennyiben az egyszerűsített cégbejegyzésre irányuló kérelem benyújtása után megállapítást nyer, hogy a kérelmező az egyszerűsített bejegyzés igénybevételére nem jogosult, a cégbíróság felhívást bocsát ki az illeték (1) bekezdés szerinti összegre történő kiegészítésére.
 
 (3a) A jogutód nélkül megszűnt gazdálkodó szervezet vagyontárgyára vonatkozóan jognak vagy ténynek a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 83/A. §-a, 83/C. §-a szerinti törlésére irányuló bírósági nemperes eljárás illetéke 10 000 forint.
 
@@ -1771,7 +1770,7 @@ IX. Egyes okmányok kiadásával kapcsolatos eljárások illetéke
 
 I. Az úti okmányok kiadásával kapcsolatos eljárás illetéke
 
-1. A magánútlevél, a szolgálati és hajós szolgálati útlevél kiadásának illetéke 7500 forint, ha a magánútlevél érvényességi ideje 10 év, 14 000 forint. A kérelem benyújtásának időpontjában 18. életévét be nem töltött személy és a 70. életévét betöltött személy magánútlevelének, az 1 évi érvényességgel kiállított magánútlevél, szolgálati és hajós szolgálati útlevél, valamint a menekültként elismert személyek kétnyelvű úti okmánya kiadásának illetéke 2500 forint.
+1. A magánútlevél, a szolgálati és hajós szolgálati útlevél kiadásának illetéke 7500 forint, ha a magánútlevél érvényességi ideje 10 év, 14 000 forint. A kérelem benyújtásának időpontjában 18. életévét be nem töltött személy magánútlevelének, az 1 évi érvényességgel kiállított magánútlevél, szolgálati és hajós szolgálati útlevél, valamint a menekültként elismert személyek kétnyelvű úti okmánya kiadásának illetéke 2500 forint.
 
 1a. A kérelem benyújtásának időpontjában
 
@@ -1797,7 +1796,9 @@ b) a külügyi szolgálati útlevél,
 
 c) a határátlépési igazolvány,
 
-d) az úti okmány cseréje, amennyiben arra azért kerül sor, mert az úti okmány biometrikus azonosítót tartalmazó tároló eleme nem tartalmazza vagy hibásan tartalmazza a törvényben meghatározott adatokat.
+d) az úti okmány cseréje, amennyiben arra azért kerül sor, mert az úti okmány biometrikus azonosítót tartalmazó tároló eleme nem tartalmazza vagy hibásan tartalmazza a törvényben meghatározott adatokat,
+
+e) a 65. életévét betöltött személy magánútlevele.
 
 8. Az elveszett, megsemmisült, továbbá – a 7. pont d) alpontjában meghatározott eset kivételével – a megrongálódott és utazásra alkalmatlanná vált úti okmány helyett kiállított új úti okmány kiadásának illetéke az 1–2., valamint 6. pontban meghatározott illeték kétszerese.
 
@@ -1927,19 +1928,13 @@ b) az építési engedélyezési szakasz illetéke alapilleték nélkül az 1. p
 
 10. a használatbavétel tudomásul vétele 10 000 forint,
 
-11. az ingatlan adataiban bekövetkezett változásnak az ingatlan-nyilvántartásban történő átvezetéséhez, vagy tény, állapot, egyéb adat igazolásához az építésügyi hatóság hatáskörébe tartozó hatósági bizonyítvány kiadása 20 000 forint,
+11.
 
 12. az építésügyi hatósági intézkedés kezdeményezése 15 000 forint,
 
 13. az 1–12. pont alá nem eső első fokú építésügyi hatósági eljárás 10 000 forint.
 
-II. Az építésfelügyeleti hatóságnál indított eljárás illetéke
-
-1. bontás tudomásul vételi eljárása esetén 5000 forint,
-
-2.
-
-3. az építésrendészeti hatósági intézkedés kezdeményezése esetén 15 000 forint,
+II.
 
 III. Az építésügyi vagy építésfelügyeleti hatósági eljárásban hozott döntés elleni fellebbezés illetéke 30 000 forint.
 
@@ -1947,7 +1942,7 @@ IV. Illetékmentes és igazgatási szolgáltatási díjmentes
 
 a) a Kormány által rendeletben kihirdetett veszélyhelyzet folytán bekövetkezett építménykárok helyreállításával összefüggő bontási, építési, módosított építési és használatbavételi engedélyezési eljárás, valamint az eljárásban közreműködő szakhatóságok eljárása,
 
-b) a 160 m2-nél kisebb hasznos alapterületű, más önálló rendeltetési egységet nem tartalmazó, egylakásos lakóépület bontási, építési (továbbépítési), módosított építési és használatbavételi engedélyezési, a használatbavétel tudomásulvételi és a bontási tevékenység megkezdésének tudomásulvételi eljárása, valamint az engedélyezési eljárásban közreműködő szakhatóság eljárása.
+b) az engedély alapján épített, legfeljebb 300 m2 összes hasznos alapterületű új lakóépület használatbavételi engedélyezési, a használatbavétel tudomásulvételi eljárása, valamint az engedélyezési eljárásban közreműködő szakhatóság eljárása.
 
 V. Ha az építésügyi vagy az építésfelügyeleti hatósághoz egyszerre többféle eljárás lefolytatása iránti kérelem kerül beadásra és azok a külön jogszabály szerint összevonhatóak, vagy egy kérelemmel is benyújthatóak, az illetéket az összevonásra kerülő eljárásonként kell megfizetni.
 
@@ -1989,7 +1984,7 @@ XXI. A hatósági bizonyítvány kiállítása iránti eljárás illetéke
 
 2.
 
-3. Az anyakönyvi kivonat kiállítása iránti eljárás illetéke – kivonatonként – 2000 forint.
+3.
 
 4. Az adózás rendjéről szóló törvényben meghatározott adóhatósági igazolások illetékmentesek.
 
@@ -1997,7 +1992,7 @@ XXII. A vízgazdálkodással kapcsolatos helyi önkormányzati hatósági eljár
 
 1. Kérelemre indult eljárások illetéke
 
-a) közműpótló berendezés – a külön jogszabályban meghatározott talajvízkút, szennyvízszikkasztó – létesítésének, átalakításának, megszüntetésének engedélyezése esetén, továbbá víziállás létesítésének, használatbavételének, fennmaradásának vagy átalakításának engedélyezése esetén 5000 forint;
+a) közműpótló berendezés – a külön jogszabályban meghatározott talajvízkút kivételével – létesítésének, átalakításának, megszüntetésének engedélyezése esetén, továbbá vízi állás létesítésének, használatbavételének, fennmaradásának vagy átalakításának engedélyezése esetén 5000 forint;
 
 b) szennyvíz-előtisztító berendezés létesítésének, átalakításának, illetve használatbavételének engedélyezése esetén 10 000 forint.
 
