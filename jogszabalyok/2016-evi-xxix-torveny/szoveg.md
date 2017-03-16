@@ -1776,7 +1776,7 @@ rendeletben határozza meg.
 - j) az igazságügyi szakértők értékelésére vonatkozó részletes szabályokat, a külön minősítéssel rendelkező igazságügyi szakértőkre vonatkozó szabályokat, valamint az igazságügyi szakértő által kért értékeléssel összefüggésben megfizetendő díjra vonatkozó szabályokat,
 - k) az igazságügyi szakértői és szakértőjelölti igazolványra vonatkozó részletes szabályokat,
 - l) az elektronikus felület létrehozására és kezelésére vonatkozó részletes szabályokat,
-- m) az adópolitikáért felelős miniszterrel egyetértésben a névjegyzékbe-vételi eljárás, a szakterület kiterjesztése iránti eljárás, a kamarai tagság szünetelésének engedélyezése iránti eljárás és a szakértőjelölti igazolvány kiállítása iránti eljárás igazgatási szolgáltatási díjának összegére, befizetésére, visszatérítésére és nyilvántartására vonatkozó részletes szabályokat és
+- m) az adópolitikáért felelős miniszterrel egyetértésben a kamarai tagság szünetelésének engedélyezése iránti eljárás és a szakértőjelölti igazolvány kiállítása iránti eljárás igazgatási szolgáltatási díjának összegére, befizetésére, visszatérítésére és nyilvántartására vonatkozó részletes szabályokat és
 - n) a szakértő statisztikai adatszolgáltatására vonatkozó szabályokat
 
 rendeletben határozza meg.

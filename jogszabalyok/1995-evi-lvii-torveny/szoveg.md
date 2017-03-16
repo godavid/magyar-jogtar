@@ -642,7 +642,9 @@ indokolja.
 
 30/B. § A közigazgatási hatósági eljárás során felmerülő mintavételi, laboratóriumi, illetve az egyéb műszeres vizsgálatok költségei, továbbá az eljárás során a tényállás tisztázása kapcsán felmerült személyi és dologi költségek egyéb eljárási költségnek minősülnek.
 
-31. § A vízügyi hatóság által lefolytatott egyes közigazgatási eljárásokért (ideértve a szakhatósági eljárásokat, az igazgatási jellegű szolgáltatásokat, továbbá a bejelentéseket) igazgatási szolgáltatási díjat kell fizetni.
+31. § (1) A vízügyi hatóság által lefolytatott egyes közigazgatási eljárásokért (ideértve a szakhatósági eljárásokat, az igazgatási jellegű szolgáltatásokat, továbbá a bejelentéseket) igazgatási szolgáltatási díjat kell fizetni.
+
+(2) Mentes a díjfizetési kötelezettség alól az öntözési berendezések engedélyezési eljárása, ha arra nem a vízhasználat engedélyezése keretében kerül sor.
 
 31/A. § A vízügyi igazgatási szerveknek – a vízügyi hatósági eljárások igazgatási szolgáltatási díjairól szóló rendeletben meghatározott tevékenységek esetében – nem kell igazgatási szolgáltatási díjat fizetni.
 

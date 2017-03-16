@@ -55,11 +55,13 @@ az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valami
 - i) az ügyészség eljárásához,
 - j) a nyomozó hatóság és a nemzetbiztonsági szolgálatok feladatai ellátása érdekében,
 - k) a helyi önkormányzat, illetve azok társulásai közszolgáltatásait érintő beruházások megvalósítása érdekében benyújtandó közösségi, illetőleg nemzeti forrásból nyújtott támogatással megvalósuló pályázatok dokumentációjának elkészítéséhez,
-- l) a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott, a föld tulajdonjogának vagy a földhasználati jogosultság megszerzésének a hatósági jóváhagyása iránti eljárásban, továbbá a szerzési korlátozások hatósági ellenőrzése során, az e feladatkörébe tartozó ügy elbírálása, ellenőrzése érdekében a mezőgazdasági igazgatási szerv
+- l) a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott, a föld tulajdonjogának vagy a földhasználati jogosultság megszerzésének a hatósági jóváhagyása iránti eljárásban, továbbá a szerzési korlátozások hatósági ellenőrzése során, az e feladatkörébe tartozó ügy elbírálása, ellenőrzése érdekében a mezőgazdasági igazgatási szerv,
+- m) az eljáró szerv – ideértve a bíróságot – a polgári perrendtartásról szóló 1952. évi III. törvény XVIII. Fejezete szerinti gondnokság alá helyezés iránti perben,
+- n) a törvényszéki végrehajtó a Magyar Államot illető végrehajtandó összeg iránti végrehajtási ügyben
 
 kéri.
 
-(2)
+(2) Természetes személy számára évente két alkalommal díjmentes az elektronikus dokumentumként szolgáltatott nem hiteles tulajdonilap-másolat lekérdezése.
 
 (3) Az (1) bekezdés f) pontjának fa) alpontja nem vonatkozik arra az esetre, ha a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben foglaltak szerint az ügyfél köteles az adatszolgáltatásért járó díjat megfizetni.
 
@@ -145,7 +147,7 @@ biztosító jelzálogjog, valamint ezzel összefüggően a Magyar Állam, mint a
   - la) a Magyar Állam javára történő lakásvásárlással megszűnt jelzálogjog, végrehajtási jog, továbbá az elidegenítési és terhelési tilalom törlésére irányuló eljárás,
   - lb) a visszavásárlási jog bejegyzésére irányuló eljárás,
   - lc) a Nemzeti Eszközkezelő Zrt. javára történő vagyonkezelői jog bejegyzésére irányuló eljárás;
-- m)
+- m) a polgári perrendtartásról szóló 1952. évi III. törvény XVIII. Fejezete szerinti gondnokság alá helyezés tényének feljegyzése iránti eljárás;
 - n) a nagyvízi mederben való elhelyezkedés tényének mint jogi jellegnek a feljegyzése,
 - o) a vízfolyás mint művelés alól kivett terület bejegyzése, valamint a parti sáv mint jogi jelleg feljegyzése,
 - p) vizek és vízilétesítmények vagyonkezelői jogának vízügyi igazgatási szerv vagy a helyi önkormányzat részére történő bejegyzése,
