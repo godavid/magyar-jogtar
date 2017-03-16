@@ -998,7 +998,7 @@ adatvédelmi felelőst nevez ki.
 
 (3)
 
-(4) Az adatszolgáltatásért, valamint a 18. § (4) bekezdése szerinti kapcsolatfelvétel céljából való megkeresésért, értesítésért, az értesítési cím bejelentéséért, a 27/B. § (1) bekezdése és a 27/D. § (2) bekezdése szerinti értesítésért, valamint a személyazonosság igazolására alkalmas hatósági igazolvány kiadási eljáráshoz nem kapcsolódó egységes arcképmás- és aláírás-felvételezésért – ha jogszabály másként nem rendelkezik – igazgatási szolgáltatási díjat kell fizetni.
+(4) Az adatszolgáltatásért, valamint a 18. § (4) bekezdése szerinti kapcsolatfelvétel céljából való megkeresésért, értesítésért, a 27/B. § (1) bekezdése és a 27/D. § (2) bekezdése szerinti értesítésért, valamint a személyazonosság igazolására alkalmas hatósági igazolvány kiadási eljáráshoz nem kapcsolódó egységes arcképmás- és aláírás-felvételezésért – ha jogszabály másként nem rendelkezik – igazgatási szolgáltatási díjat kell fizetni.
 
 ### VIII. Fejezet — Átmeneti rendelkezések
 
@@ -1102,7 +1102,7 @@ e) a kizáró okot elrendelő bíróság megnevezése, az ítélet ügyiratszám
 
 - a) a nyilvántartás üzemeltetésével és működésével, továbbá a személyazonosító igazolvány kiadásával és nyilvántartásával, valamint a lakcímnyilvántartással kapcsolatos technikai szabályokat;
 - b) a nyilvántartási eljárás során használandó iratmintákat;
-- c) az adópolitikáért felelős miniszterrel egyetértésben az adatszolgáltatásért, valamint a kapcsolatfelvétel céljából való megkeresésért, illetve értesítésért, az értesítési cím bejelentéséért, a lakcímbejelentésről és az értesítési cím bejelentésről történő értesítésért, továbbá a személyazonosság igazolására alkalmas hatósági igazolvány kiadási eljáráshoz nem kapcsolódó egységes arcképmás- és aláírás-felvételezésért fizetendő igazgatási szolgáltatási díj összegét és megfizetésének részletes szabályait;
+- c) az adópolitikáért felelős miniszterrel egyetértésben az adatszolgáltatásért, valamint a kapcsolatfelvétel céljából való megkeresésért, illetve értesítésért, a lakcímbejelentésről és az értesítési cím bejelentésről történő értesítésért, továbbá a személyazonosság igazolására alkalmas hatósági igazolvány kiadási eljáráshoz nem kapcsolódó egységes arcképmás- és aláírás-felvételezésért fizetendő igazgatási szolgáltatási díj összegét és megfizetésének részletes szabályait;
 - d) az adatvédelmi felelős [30. § (2) bekezdés] feladatát és hatáskörét,
 - e) a személyazonosítás célját szolgáló és a jogosultságot igazoló kitöltetlen biztonsági okmányok nyilvántartásának, azok kezelésének és tárolásának szabályait.
 
