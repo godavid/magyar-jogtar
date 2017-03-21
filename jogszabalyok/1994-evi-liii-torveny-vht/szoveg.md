@@ -1882,7 +1882,7 @@ eredő követelések fejében vonható végrehajtás alá.
 
 (3) A vételi ajánlatot az elektronikus árverési rendszer akkor nem teszi közzé az árveréshez tartozó licitnaplóban, ha az
 
-- a) nem éri el a becsérték 50%-át, lakóingatlan esetében a 147. § (3) bekezdésében foglalt feltételek fennállása esetén 70%-át, vagy
+- a) nem éri el a becsérték 50%-át, lakóingatlan esetében a 147. § (3) bekezdésében foglalt feltételek fennállása esetén a becsérték összegét, illetve annak 70%-át, vagy
 - b) nem haladja meg legalább a licitküszöb összegével az előzőleg közzétett vételi ajánlatot.
 
 (4)–(5)
@@ -1895,7 +1895,7 @@ eredő követelések fejében vonható végrehajtás alá.
 
 (2) Az ingatlanra – a (3) bekezdésben foglalt kivétellel – legalább a kikiáltási ár felének megfelelő összeggel tehető érvényes vételi ajánlat.
 
-(3) Lakóingatlanra legalább a kikiáltási ár 70%-ának megfelelő összeggel tehető érvényes vételi ajánlat, ha az adósnak ez az egyetlen lakóingatlana, lakóhelye ebben van, és a végrehajtási eljárás megindítását megelőző 6 hónapban is ebben volt.
+(3) Lakóingatlanra legalább a kikiáltási ár 70%-ának – fogyasztóval kötött szerződésen alapuló követelés behajtása esetén legalább a kikiáltási árának – megfelelő összeggel tehető érvényes vételi ajánlat, ha az adósnak ez az egyetlen lakóingatlana, lakóhelye ebben van, és a végrehajtási eljárás megindítását megelőző 6 hónapban is ebben volt.
 
 (4) Lakóingatlannak kell tekinteni
 
@@ -1986,7 +1986,7 @@ eredő követelések fejében vonható végrehajtás alá.
 
 155. § (1) Az árverés sikertelen, ha
 
-- a) nem tettek vételi ajánlatot, vagy a felajánlott vételár nem érte el az ingatlan becsértékének felét vagy lakóingatlan esetében a 147. § (3) bekezdésében foglalt feltételek fennállása esetén a 70%-át;
+- a) nem tettek vételi ajánlatot, vagy a felajánlott vételár nem érte el az ingatlan becsértékének felét, vagy lakóingatlan esetében a 147. § (3) bekezdésében foglalt feltételek fennállása esetén a becsérték összegét, illetve annak 70%-át;
 - b) az árverési vevő az árverési jegyzőkönyvet nem írta alá; vagy
 - c) az árverési vevő nem fizette be vagy nem utalta át a teljes vételárat az árveréstől számított 15 napon belül, illetőleg a végrehajtó által a vételár megfizetésére adott határidőn belül.
 
@@ -2000,7 +2000,9 @@ eredő követelések fejében vonható végrehajtás alá.
 
 (4) A vételi ajánlatok összegére, a kikiáltási árra és annak leszállítására – a 140. § (8) bekezdésének figyelembevételével – az első árverésre vonatkozó szabályokat kell alkalmazni.
 
-(5)–(6)
+(5) A végrehajtó a lakóingatlan árverezése során a felek kívánságára az általuk meghatározott értékre lecsökkenti azt az összeget, amelyen érvényes vételi ajánlat tehető. Az ilyen módon lefolytatott árverésből befolyó árverési vételár felosztását követően fennmaradó követelés megszűnik, a végrehajtási eljárás pedig befejeződik.
+
+(6)
 
 ### Nyilvános pályázat
 
@@ -2022,7 +2024,7 @@ eredő követelések fejében vonható végrehajtás alá.
 
 ### Az ingatlan átvétele a végrehajtást kérő által
 
-158. § (1) Ha a 156. § alapján megtartott második árverés is sikertelen volt, úgy a végrehajtást kérő veheti át az ingatlant a becsérték felének, a 147. § (3) bekezdése szerinti ingatlan esetében pedig 70%-ának megfelelő átvételi összegben. Ha több végrehajtást kérő van, az ingatlant az veheti át, aki a becsérték felét vagy 70%-át meghaladó legmagasabb összegű árajánlatot tette.
+158. § (1) Ha a 156. § alapján megtartott második árverés is sikertelen volt, úgy a végrehajtást kérő veheti át az ingatlant a becsérték felének, a 147. § (3) bekezdése szerinti ingatlan esetében 70%-ának, illetve a becsértéknek megfelelő átvételi összegben. Ha több végrehajtást kérő van, az ingatlant az veheti át, aki a becsérték felét vagy becsérték összegét, illetve annak 70%-át meghaladó legmagasabb összegű árajánlatot tette.
 
 (2) Az árverés sikertelenségének tényéről a végrehajtó 15 napon belül értesíti a végrehajtást kérőt és
 
@@ -2059,6 +2061,8 @@ eredő követelések fejében vonható végrehajtás alá.
 (6) Az újabb árverésre a második árverés szabályait kell megfelelően alkalmazni.
 
 (7) A becsérték ismételt megállapítása iránti kérelem beérkezését követő munkanapon a végrehajtó törli az ingatlan folyamatos árverezése iránti hirdetményét az elektronikus árverési hirdetmények nyilvántartásából, a becsérték ismételt megállapításától – végrehajtási kifogás előterjesztése esetén pedig a becsérték tárgyában hozott jogerős bírósági határozat kézhezvételétől – számított 30 napon belül pedig közzéteszi az ismételten megállapított becsérték alapján elkészített, folyamatos árverezés iránti új hirdetményt. Ha a kérelem beérkezésének időpontjában az árverési hirdetmény már közzétételre került, a végrehajtó az árverés befejezését követően sikertelen árverés esetén intézkedik a becsértéknek a 140. § (8) bekezdése szerinti ismételt megállapítása iránt.
+
+(8) Fogyasztóval kötött szerződésen alapuló követelés behajtása esetén, ha a lakóingatlan folyamatos árverezése iránti hirdetmény közzététele óta egy év eltelt, és a lakóingatlan még nem került értékesítésre, a végrehajtó az újabb árverést úgy tűzi ki, hogy a lakóingatlanra legalább a kikiáltási ár 90%-ának megfelelő összeggel tehető érvényes vételi ajánlat.
 
 160. § (1) Ha az újabb árverés is sikertelen volt, a 159. § szerint kell eljárni.
 
@@ -4398,6 +4402,10 @@ a lakóingatlan kiürítését – a (3) bekezdésben foglalt kivétellel – a 
 306/V. § A 254/G. § (1) bekezdés h) pontja szerinti adat nyilvántartása 2018. január 1-jétől kötelező, ezt megelőzően a végrehajtói iroda kérheti az adat nyilvántartásba vételét.
 
 306/W. § E törvénynek a jogi segítségnyújtásról szóló 2003. évi LXXX. törvény és egyes törvények eljárásjogi kérdésekkel összefüggő módosításáról szóló 2016. évi CLVIII. törvénnyel (a továbbiakban: Módtv.) megállapított 140. § (2) bekezdését azokban a Módtv. hatálybalépésekor folyamatban lévő végrehajtási eljárásokban is alkalmazni kell, amelyekben a Módtv. hatálybalépését megelőzően a becsérték közlésére már sor került, de a végrehajtó még nem küldte meg a mező- és erdőgazdasági hasznosítású földek végrehajtási, felszámolási vagy önkormányzati adósságrendezési eljárás keretében árverés útján történő értékesítésének szabályairól szóló 191/2014. (VII. 31.) Korm. rendelet 1. §-a szerinti megkeresést az árverés lefolytatása érdekében a föld fekvése szerint illetékes mezőgazdasági igazgatási szervnek.
+
+306/X. § (1) E törvénynek a bírósági végrehajtásról szóló 1994. évi LIII. törvény módosításáról szóló 2017. évi XIV. törvénnyel (a továbbiakban e §-ban: Módtv.6.) megállapított rendelkezéseit azokban a Módtv.6. hatálybalépése napján folyamatban lévő végrehajtási eljárásokban is alkalmazni kell, amelyekben az ingatlanárverések kitűzésére még nem került sor.
+
+(2) Ha a végrehajtó a Módtv.6. hatálybalépése napjáig már közzétette az elektronikus árverési hirdetmények nyilvántartásában az ingatlan árveréséről szóló vagy annak folyamatos árverezése iránti hirdetményt, és arra érvényes vételi ajánlat nem érkezett, a végrehajtó a Módtv.6.-tal megállapított rendelkezéseknek megfelelően módosítja a hirdetményeken az érvényes vételi ajánlat legkisebb összegét, és az így módosított hirdetmény közzétételével folytatja az eljárást.
 
 ### Felhatalmazás
 
