@@ -1127,7 +1127,7 @@ foglalkoztatott munkavállaló számára osztható be.
 
 (3)
 
-102. § (1) Munkaszüneti nap: január 1., március 15., húsvéthétfő, május 1., pünkösdhétfő, augusztus 20., október 23., november 1. és december 25–26.
+102. § (1) Munkaszüneti nap: január 1., március 15., nagypéntek, húsvéthétfő, május 1., pünkösdhétfő, augusztus 20., október 23., november 1. és december 25–26.
 
 (2) Munkaszüneti napra rendes munkaidő a 101. § (1) bekezdés a)–c), g)–h) pontban meghatározott esetben osztható be.
 
