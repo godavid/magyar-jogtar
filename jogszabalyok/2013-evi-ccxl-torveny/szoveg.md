@@ -3263,7 +3263,7 @@ lehet.
 
 foglalkoztatott elítélt osztható be.
 
-242. § (1) Munkaszüneti nap: január 1., március 15., húsvéthétfő, május 1., pünkösdhétfő, augusztus 20., október 23., november 1. és december 25–26.
+242. § (1) Munkaszüneti nap: január 1., március 15., nagypéntek, húsvéthétfő, május 1., pünkösdhétfő, augusztus 20., október 23., november 1. és december 25–26.
 
 (2) Munkaszüneti napra rendes munkaidő a 241. § a)–c), e) pontjában meghatározott esetben osztható be.
 

@@ -55,7 +55,7 @@ kapcsolatos, e törvényben felsorolt adatokat, valamint az azokban bekövetkeze
 - f) egyedi elektronikus anyakönyvi azonosító: a nyilvántartó szerv által képzett alfanumerikus azonosító, amelynek célja az elektronikus anyakönyvben kezelt adatoknak az érintett személyhez történő hozzárendelése,
 - g) elektronikus anyakönyv: az anyakönyvi bejegyzéseket elektronikus formában tartalmazó központi nyilvántartás,
 - h) hazai anyakönyvezés: a magyar állampolgár külföldön történt anyakönyvi eseményéhez, valamint a nem magyar állampolgár anyakönyvi eseményéhez kapcsolódó, e törvényben meghatározott adatoknak az anyakönyvbe történő bejegyzése, azok módosítása és törlése,
-- i) munkaszüneti nap: január 1., március 15., húsvét, május 1., pünkösd, július 1., augusztus 20., október 23., november 1. és december 24–26.,
+- i)
 - j) nyilvántartó anyakönyvvezető: az az anyakönyvvezető, aki, illetve az anyakönyvi szerv, amely a bejegyzés alapjául szolgáló anyakönyvi alapiratot őrzi,
 - k) személyazonosításra alkalmas adat: az érintett születési családi és utóneve, házassági neve, neme, születési helye és ideje, anyja születési családi és utóneve, az érintett személyi azonosítója, előző születési családi és utóneve vagy házassági neve, állampolgársága, előző állampolgársága, valamint lakcíme,
 - l) születés: az élveszületés,
@@ -317,7 +317,7 @@ a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv az igazságügy
 
 27. § (1) Az anyakönyvvezető a házasságkötés időpontját a házasulókkal folytatott egyeztetést követően tűzi ki.
 
-(2) A közeli halállal fenyegető állapotot kivéve nem köthető házasság munkaszüneti napon.
+(2) A közeli halállal fenyegető állapotot kivéve nem köthető házasság január 1-jén, március 15-én, nagypénteken, húsvétvasárnap, húsvéthétfőn, május 1-jén, pünkösdvasárnap, pünkösdhétfőn, augusztus 20-án, október 23-án, november 1-jén és december 24–26-án, továbbá ha az az adott képviselő-testület hivatala köztisztviselői számára munkaszüneti nap, július 1-jén.
 
 (3) Ha a házasságkötést megelőző eljárásról készített jegyzőkönyv felvétele óta egy év eltelt, a házasságot nem kötötték meg és a házasságkötési szándék továbbra is fennáll, a házasságkötési szándék bejelentésére irányuló eljárást meg kell ismételni. Ha a házasság a házasságkötési szándék bejelentéséről szóló jegyzőkönyv felvételétől számított egy éven belül nem jött létre és a házasságkötést megelőző eljárást nem ismételték meg, a jegyzőkönyvet és az eljárás során rögzített egyéb adatokat haladéktalanul törölni kell.
 
@@ -408,7 +408,7 @@ a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv az igazságügy
 
 39. § (1) Az anyakönyvvezető a bejegyzett élettársi kapcsolat létesítésének időpontját a felekkel folytatott egyeztetést követően tűzi ki.
 
-(2) A közeli halállal fenyegető állapotot kivéve nem létesíthető bejegyzett élettársi kapcsolat munkaszüneti napon.
+(2) A közeli halállal fenyegető állapotot kivéve nem létesíthető bejegyzett élettársi kapcsolat január 1-jén, március 15-én, nagypénteken, húsvétvasárnap, húsvéthétfőn, május 1-jén, pünkösdvasárnap, pünkösdhétfőn, augusztus 20-án, október 23-án, november 1-jén és december 24–26-án, továbbá ha az az adott képviselő-testület hivatala köztisztviselői számára munkaszüneti nap, július 1-jén.
 
 (3) Ha a bejegyzett élettársi kapcsolat létrehozását megelőző eljárásról készített jegyzőkönyv felvétele óta egy év eltelt, a bejegyzett élettársi kapcsolat nem jött létre és a bejegyzett élettársi kapcsolat létesítése iránti szándék továbbra is fennáll, az eljárást meg kell ismételni. Ha a bejegyzett élettársi kapcsolat a bejegyzett élettársi kapcsolat létesítésére irányuló szándék bejelentéséről szóló jegyzőkönyv felvételétől számított egy éven belül nem jött létre, és a bejegyzett élettársi kapcsolat létesítését megelőző eljárást nem ismételték meg, a jegyzőkönyvet és az eljárás során rögzített egyéb adatokat haladéktalanul törölni kell.
 
