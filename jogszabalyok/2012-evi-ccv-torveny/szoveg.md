@@ -1663,7 +1663,7 @@ valósul-e meg.
 
 #### 60. A munkaszüneti napok
 
-102. § (1) Munkaszüneti napok január 1-je, március 15-e, húsvéthétfő, május 1-je, pünkösdhétfő, augusztus 20-a, október 23-a, november 1-je, és december 25–26-a.
+102. § (1) Munkaszüneti napok január 1., március 15., nagypéntek, húsvéthétfő, május 1., pünkösdhétfő, augusztus 20., október 23., november 1. és december 25–26.
 
 (2)
 
