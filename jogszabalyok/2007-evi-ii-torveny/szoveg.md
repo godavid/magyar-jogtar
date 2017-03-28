@@ -977,7 +977,7 @@ miatt utasított ki.
 
 (3) A visszafogadási egyezmény alapján történő visszaadásra a kitoloncolás szabályait kell alkalmazni.
 
-45/C. § A 43. § (2) bekezdés a) pontjában foglaltaktól eltérően az idegenrendészeti hatóság nem utasítja ki azt a jogszerűtlenül tartózkodó harmadik országbeli állampolgárt, aki a menedékjog iránti kérelmét a menedékjogról szóló törvény 71/A. § (1) bekezdés b) pontja szerint nyújtotta be.
+45/C. § A 43. § (2) bekezdés a) pontjában foglaltaktól eltérően az idegenrendészeti hatóság nem utasítja ki azt a jogszerűtlenül tartózkodó harmadik országbeli állampolgárt, aki a menedékjog iránti kérelmét a menedékjogról szóló törvény 71/A. § (1) bekezdés b) pontja vagy IX/A. Fejezete szerint nyújtotta be.
 
 46. § (1) A kiutasítást elrendelő határozatnak tartalmaznia kell:
 
@@ -1257,7 +1257,9 @@ miatt utasított ki.
 
 (3) A kötelező tartózkodási helyet közösségi szálláson vagy befogadó állomáson lehet kijelölni, ha a harmadik országbeli állampolgár magát eltartani nem képes, megfelelő lakással, anyagi fedezettel vagy jövedelemmel, eltartásra köteles meghívóval, eltartásra kötelezhető hozzátartozóval nem rendelkezik.
 
-(4) A közösségi szálláson vagy befogadó állomáson történő tartózkodással összefüggésben felmerülő költségeket – a humanitárius célú tartózkodási engedéllyel rendelkező, illetve a menekültügyi hatóság vagy bíróság által nemzetközi vagy kiegészítő védelemben részesített harmadik országbeli állampolgár kivételével – a harmadik országbeli állampolgár viseli.
+(3a) Tömeges bevándorlás okozta válsághelyzetben kötelező tartózkodási helyet tranzitzónában is ki lehet jelölni.
+
+(4) A közösségi szálláson, a befogadó állomáson, vagy a tranzitzónában történő tartózkodással összefüggésben felmerülő költségeket – a humanitárius célú tartózkodási engedéllyel rendelkező, illetve a menekültügyi hatóság vagy bíróság által nemzetközi vagy kiegészítő védelemben részesített harmadik országbeli állampolgár kivételével – a harmadik országbeli állampolgár viseli.
 
 (5) A kijelölt helyen történő tartózkodás elrendelésére irányuló eljárás felfüggesztését a harmadik országbeli állampolgár nem kérheti.
 
@@ -1987,6 +1989,8 @@ hatályát veszti.
 (18) A (13)–(17) bekezdésben foglaltakon kívül e törvénynek az egyes migrációs tárgyú és ezekkel összefüggésben más törvények módosításáról szóló 2016. évi XXXIX. törvénnyel megállapított rendelkezéseit a hatálybalépést követően megindult ügyekben kell alkalmazni.
 
 (19) E törvénynek az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról szóló 2016. évi CXXI. törvénnyel megállapított 71. § (10) bekezdését és 74/A. § (2) bekezdését 2017. december 31-ig csak akkor kell alkalmazni, ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+
+(20) E törvénynek a határőrizeti területen lefolytatott eljárás szigorításával kapcsolatos egyes törvények módosításáról szóló 2017. évi XX. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit a Módtv. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
 ### Felhatalmazó rendelkezések
 

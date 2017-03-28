@@ -1016,7 +1016,7 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 71/A. § (1) Ha a külföldi a kérelmét
 
 - a) Magyarország területére történő beléptetés előtt, vagy
-- b) Magyarország területének a személyek határátlépésére irányadó szabályok uniós kódexének létrehozásáról szóló 2016/399 EU rendelet 2. cikk 2. pontjának megfelelő külső határ szerinti határvonaltól, illetve a határjeltől számított 8 km-es sávon belüli feltartóztatása után az államhatárról szóló törvényben meghatározott államhatár rendjének védelmét biztosító létesítmény kapuján való átvezetés után
+- b) Magyarország területének a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet (a továbbiakban: Schengeni határ-ellenőrzési kódex) 2. cikk 2. pontjának megfelelő külső határ szerinti határvonaltól, illetve a határjeltől számított 8 km-es sávon belüli feltartóztatása után az államhatárról szóló törvényben meghatározott államhatár rendjének védelmét biztosító létesítmény kapuján való átvezetés után
 
 a tranzitzónában nyújtja be, e fejezet rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.
 
@@ -1147,6 +1147,8 @@ a tranzitzónában nyújtja be, e fejezet rendelkezéseit az e §-ban foglalt el
 
 (3) Ha a menedékeskénti elismerés visszavonására a 25. § (2) bekezdés a) pontja alapján került sor, az elismerést visszavonó határozattal szemben jogorvoslatnak nincs helye.
 
+### IX/A. Fejezet — TÖMEGES BEVÁNDORLÁS OKOZTA VÁLSÁGHELYZET
+
 ### Tömeges bevándorlás okozta válsághelyzet
 
 80/A. § (1) Tömeges bevándorlás okozta válsághelyzet rendelhető el, ha
@@ -1165,7 +1167,9 @@ meghaladja,
 
 meghaladja,
 
-- c) az a) és b) pontban meghatározott eseteken kívül bármely olyan migrációs helyzettel összefüggő körülmény alakul ki, amely valamely település közbiztonságát, közrendjét vagy a közegészségügyet közvetlenül veszélyezteti, különösen, ha az adott településen vagy annak külterületén található befogadó állomáson vagy a külföldiek elhelyezését biztosító egyéb létesítményben zavargás tör ki, vagy erőszakos cselekményeket követnek el.
+- c) az a) és b) pontban meghatározott eseteken kívül bármely olyan migrációs helyzettel összefüggő körülmény alakul ki, amely
+  - ca) a Schengeni határ-ellenőrzési kódex 2. cikk 2. pontjának megfelelő külső határ szerinti magyarországi határvonal védelmét közvetlenül veszélyezteti,
+  - cb) Magyarország területének a Schengeni határ-ellenőrzési kódex 2. cikk 2. pontjának megfelelő külső határ szerinti határvonaltól, illetve a határjeltől számított 60 méteres sávja, illetve valamely magyarországi település közbiztonságát, közrendjét vagy a közegészségügyet közvetlenül veszélyezteti, különösen, ha e területen, illetve az adott településen vagy annak külterületén található befogadó állomáson vagy a külföldiek elhelyezését biztosító egyéb létesítményben zavargás tör ki, vagy erőszakos cselekményeket követnek el.
 
 (2) A tömeges bevándorlás okozta válsághelyzetet az országos rendőrfőkapitány és a menekültügyi hatóság vezetője kezdeményezésére, a miniszter javaslatára a Kormány rendeletben rendelheti el. A tömeges bevándorlás okozta válsághelyzet Magyarország egész, illetve annak meghatározott területére rendelhető el.
 
@@ -1240,6 +1244,65 @@ meghaladja,
 
 - a) – a miniszter felkérése esetén a rendészetért felelős miniszter erre vonatkozó döntése alapján – az általános rendőrségi feladatok ellátására létrehozott szerv, illetve
 - b) – a miniszter felkérése esetén a honvédelemért felelős miniszter erre vonatkozó döntése alapján – a Magyar Honvédség közreműködhet.
+
+### Eljárási szabályok tömeges bevándorlás okozta válsághelyzet esetén
+
+80/H. § Tömeges bevándorlás okozta válsághelyzet esetén a I–IV. Fejezet és a V/A–VIII. Fejezet rendelkezéseit a 80/I–80/K. §-ban foglalt eltérésekkel kell alkalmazni.
+
+80/I. § Nem kell alkalmazni
+
+- a) a 30–31. §-t,
+- b) a 35. § (1) és (6) bekezdését,
+- c) a 36. § (4) bekezdését,
+- d) a 48. §-t,
+- e) a 49. § (5) bekezdését,
+- f) az 53. § (3) bekezdését,
+- g) az 54. §-t,
+- h) a 66. § (2), (4)–(6) bekezdését, valamint
+- i) a 71/A–72. §-t.
+
+80/J. § (1) Menedékjog iránti kérelmet a menekültügyi hatóság előtt személyesen, kizárólag a tranzitzónában lehet benyújtani, kivéve, ha az elismerését kérő
+
+- a) személyi szabadságot korlátozó kényszerintézkedés, intézkedés vagy büntetés, hatálya alatt áll,
+- b) a menekültügyi hatóság által elrendelt menekültügyi őrizet hatálya alatt áll, vagy
+- c) jogszerűen tartózkodik Magyarország területén és nem kéri befogadó állomáson történő elhelyezését.
+
+(2) Az elismerést kérő menekültügyi eljárás hatálya alatt áll a nemzetközi védelem iránti kérelme menekültügyi hatóság előtt történő előterjesztésétől az eljárásban hozott, további jogorvoslattal nem támadható döntés közléséig.
+
+(3) A rendőr a Magyarország területén jogellenesen tartózkodó, menedékjog iránti kérelem előterjesztése iránti szándéknyilatkozatot tevő külföldit az államhatárról szóló törvényben meghatározott államhatár rendjének védelmét biztosító létesítmény kapuján átvezeti. A külföldi a menedékjog iránti kérelmét az (1) bekezdésben meghatározottak szerint nyújthatja be.
+
+(4) Az elismerését kérőt az eljárás során nem illetik meg az 5. § (1) bekezdés a) és c) pontjában foglalt jogosultságok.
+
+(5) A menekültügyi hatóság az elismerését kérő részére a jogorvoslattal tovább nem támadható döntés vagy a dublini átadásáról hozott végzés végrehajthatóvá válásáig tartózkodási helyként a tranzitzóna területét jelöli ki. Az elismerését kérő a tranzitzóna területét a kiléptető kapun keresztül hagyhatja el.
+
+(6) Ha az elismerését kérő 14 év alatti kísérő nélküli kiskorú, akkor az országba való beléptetést követően a menekültügyi hatóság az eljárást az általános szabályok szerint folytatja le. A menekültügyi hatóság haladéktalanul intézkedik a gyermek ideiglenes hatályú elhelyezéséről és egyidejűleg megkeresi a gyámhatóságot a kiskorú képviseletét ellátó gyermekvédelmi gyám kirendelése iránt. A gyermekvédelmi gyámot a menekültügyi hatóság megkeresésének megérkezését követő nyolc napon belül kell kirendelni. A kirendelt gyermekvédelmi gyám személyéről a gyámhatóság haladéktalanul tájékoztatja a kísérő nélküli kiskorút és a menekültügyi hatóságot.
+
+80/K. § (1) A kérelmet elfogadhatatlanság miatt elutasító döntéssel szemben vagy a gyorsított eljárásban hozott elutasító döntéssel szemben felülvizsgálati kérelmet a döntés közlésétől számított három napon belül a menekültügyi hatóságnál kell benyújtani. A menekültügyi hatóság a felülvizsgálati kérelmet az ügy irataival és ellenkérelmével együtt három napon belül megküldi a bíróságnak.
+
+(2) A menekültügyi hatóság a rendelkezésre álló adatok alapján dönt, vagy az eljárást megszünteti, ha az elismerését kérő
+
+- a) kérelmét írásban visszavonja,
+- b) a nyilatkozattételt megtagadja és ezzel a kérelem elbírálását megakadályozza,
+- c) ujjnyomatának vagy arcképmásának rögzítését megakadályozza vagy lehetetlenné teszi, vagy
+- d) a tranzitzónát elhagyja.
+
+(3) A menekültügyi hatóság a döntés közléséről annak meghozatalát követő három napon belül gondoskodik.
+
+(4) Az eljárást a (2) bekezdés alapján megszüntető végzéssel szemben bírósági felülvizsgálatnak nincs helye.
+
+(5) A személyes meghallgatást az eljáró bíróság a tranzitzónában tartja meg. A személyes meghallgatás távközlő hálózat útján is megtartható, ha az eljáró bíró – bírósági titkár – a személyes meghallgatást a bíróság székhelyéről vagy más, a tranzitzónán kívüli helyről folytatja. Ebben az esetben az összeköttetés közvetlenségét a mozgóképet és a hangot egyidejűleg továbbító készülék biztosítja. A felülvizsgálati eljárásban az érdemi határozat meghozatalára is kiterjedően bírósági titkár is eljárhat.
+
+(6) A bíróság az általa hozott határozatokat az elismerését kérővel az anyanyelvén, vagy az általa értett más nyelven közli.
+
+(7) A tranzitzónát elhagyó elismerését kérő részére a bíróság eljárást befejező döntését hirdetmény útján kell közölni. A hirdetményt – a Pp. hirdetmény kifüggesztésére és közzétételére vonatkozó szabályaitól eltérően – úgy kell közzétenni, hogy tizenöt napra ki kell függeszteni annak a tranzitzónának a hirdetőtáblájára, amelyben a felülvizsgálati kérelmet előterjesztették. A hirdetményt az elismerését kérő anyanyelvén vagy az általa értett más nyelven kell közzétenni.
+
+(8) A bíróság eljárást befejező döntésének hirdetményi kézbesítése esetén az iratot a hirdetménynek a tranzitzóna hirdetőtábláján való kifüggesztése napján kézbesítettnek kell tekinteni.
+
+(9) A hirdetmény a Pp.-ben meghatározott figyelemfelhívástól eltérően a (8) bekezdés szerinti jogkövetkezményre vonatkozó figyelemfelhívást tartalmaz, valamint arról ad tájékoztatást, hogy a címzett a kézbesítendő iratot a tranzitzónában hol veheti át.
+
+(10) Az elismerését kérő a további jogorvoslattal nem támadható döntés közlését követően a tranzitzónát elhagyja.
+
+(11) Ha az elismerését kérő ismételt kérelmét azt követően nyújtja be, hogy korábbi kérelme tárgyában jogerős megszüntető vagy elutasító döntés született, az elismerését kérőt nem illetik meg az 5. § (1) bekezdés a)–c) pontjában foglalt jogosultságok.
 
 ### X. Fejezet — ADATKEZELÉS
 
@@ -1330,6 +1393,10 @@ céljából a menekültügyi nyilvántartásban kezeli.
 (1a) Az (1) bekezdésben meghatározott nyilvántartás az (1) bekezdés b) pontjában foglalt adat tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (2) A befogadó állomáson elhelyezett személy adatait a befogadó állomás végleges elhagyását követő egy évig kell kezelni.
+
+(3) A menekültügyi hatóság az (1)–(2) bekezdésnek megfelelő szabályok szerint kezeli a tranzitzónában elhelyezett személyek (1) bekezdés szerinti és az ellátásukhoz szükséges adatait.
+
+(4) A befogadó állomás által az (1) bekezdés szerint kezelt adatokat – az e törvényben és külön jogszabályban meghatározott ellátások és támogatások biztosítása céljából – a menekültügyi hatóság kezelheti, azokat a menekültügyi hatóság részére a befogadó állomás továbbítja.
 
 85. § (1) A menekült, az oltalmazott, illetve a menedékes lakóhelye, tartózkodási helye vagy szálláshelye szerint illetékes járási hivatal és települési önkormányzat – az e törvényben és külön jogszabályban meghatározott, hatáskörébe tartozó feladatok ellátása céljából – nyilvántartást vezet a hatáskörébe tartozó támogatásra jogosult személy
 
@@ -1499,6 +1566,8 @@ igényelhetnek adatot.
 (5) A Módtv. 2. hatálybalépését megelőzően az e törvény vagy a végrehajtására kiadott kormányrendelet alapján biztosított támogatásokat a támogatás megítélése idején hatályos jogszabályok szerint kell továbbfolyósítani, e törvénynek a Módtv. 2.-vel megállapított rendelkezései azokat nem érintik.
 
 (6) A 44/A. § – Módtv. 2.-vel megállapított – rendelkezéseit a Módtv. 2. hatálybalépését megelőzően benyújtott kérelmek esetében is alkalmazni kell.
+
+92/C. § E törvénynek a határőrizeti területen lefolytatott eljárás szigorításával kapcsolatos egyes törvények módosításáról szóló 2017. évi XX. törvénnyel (a továbbiakban: Módtv. 3.) megállapított rendelkezéseit a Módtv. 3. hatálybalépésekor folyamatban lévő menedékjog iránti kérelmek elbírálása során is alkalmazni kell, azzal, hogy az elismerését kérő a tranzitzónát a jogerős döntésig elhagyhatja.
 
 ### Felhatalmazó rendelkezések
 
