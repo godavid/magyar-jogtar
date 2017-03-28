@@ -2619,6 +2619,10 @@ előírja.
 
 168. § Aki a külön törvényben meghatározott ideiglenes megelőző távoltartó határozatban, vagy a megelőző távoltartó határozatban meghatározott szabályokat megszegi, szabálysértést követ el.
 
+#### 123/A. Kötelező tartózkodás szabályainak megszegése
+
+168/A. § Aki a tömeges bevándorlás okozta válsághelyzet időtartama alatt nem a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben, vagy a menedékjogról szóló törvényben meghatározott kötelező tartózkodási hely kijelölésére vonatkozó hatósági döntésben számára meghatározott helyen tartózkodik, szabálysértést követ el.
+
 #### 124. Rendzavarás
 
 169. § (1) Aki
