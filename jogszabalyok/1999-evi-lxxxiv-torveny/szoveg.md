@@ -149,7 +149,8 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
 - d) a járműokmányok és a hatósági igazolványok, bizonyítványok, tanúsítványok okmányazonosító jelére, kiadására, érvényességére, cseréjére, visszavonására,
 - e) járműokmányainak és hatósági jelzésének az elvesztésére, eltulajdonítására, megsemmisülésére, egyéb okból történő érvénytelenségére, megtalálására, megkerülésére, vonatkozó adatokat,
 - f) az állandó forgalmi engedély okmány, illetve az állandó rendszámtábla tekintetében a figyelmeztető jelzés kezelésével kapcsolatos, jogszabályban meghatározott adatait, valamint
-- g) kilométerszámláló műszere által jelzett értéket (kilométeróra-állást) és a kilométeróra-állás rögzítésének időpontját.
+- g) kilométerszámláló műszere által jelzett értéket (kilométeróra-állást) és a kilométeróra-állás rögzítésének időpontját,
+- h) kerékpárszállító eszközre kiadott különleges rendszámtáblájának adatait.
 
 (3) A járműnyilvántartás tartalmazza a külön jogszabályban meghatározottak szerint a régi tulajdonos (átruházó) tulajdonjog-változáshoz kapcsolódó bejelentési kötelezettség-teljesítésének időpontját.
 

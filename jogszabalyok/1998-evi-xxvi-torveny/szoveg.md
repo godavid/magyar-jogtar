@@ -127,7 +127,7 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 - b) az álláshelyre a fogyatékos személy oly módon jelentkezett, hogy jelezte a meghallgatáshoz szükséges speciális igényeit, és
 - c) azok biztosítása a munkáltató számára nem jelent aránytalanul nagy terhet. Aránytalanul nagy tehernek minősül az, ha a kötelezettség teljesítése a munkáltató működését ellehetetleníti.
 
-16. § Ha a fogyatékos személy foglalkoztatása az integrált foglalkoztatás keretében nem megvalósítható, úgy számára a munkához való jogát lehetőség szerint biztosítani kell. A megváltozott munkaképességű munkavállalókat foglalkoztató akkreditált munkáltatókat és a szociális foglalkoztatást végző foglalkoztatókat a központi költségvetés – jogszabályban meghatározottak szerint – támogatásban részesíti.
+16. § Ha a fogyatékos személy foglalkoztatása az integrált foglalkoztatás keretében nem megvalósítható, úgy számára a munkához való jogát lehetőség szerint biztosítani kell. A megváltozott munkaképességű munkavállalókat foglalkoztató akkreditált munkáltatókat és a fejlesztő foglalkoztatást végző foglalkoztatókat a központi költségvetés – jogszabályban meghatározottak szerint – támogatásban részesíti.
 
 ### Lakóhely, közösségbe való befogadás, önálló életvitel
 
