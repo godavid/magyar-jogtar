@@ -2190,7 +2190,7 @@ kell megállapítani.
 - 10. az egészségügyért felelős miniszter irányítása alatt álló, egyes egészségügyi intézményekkel kapcsolatos fenntartói, továbbá egészségszervezési, minőségügyi, egyes hatósági és továbbképzéssel kapcsolatos feladatokat együttesen ellátó központi hivatalnál,
 - 11. a külgazdasági tevékenységet irányító központi hivatalnál,
 - 12. jogszabály által országos hatáskörű szervnek nyilvánított, a Kormány közvetlen felügyelete alatt álló, illetve a Kormány által irányított központi költségvetési szerveknél,
-- 13. – azok belső igazgatási szervei kivételével – az egészségügyről szóló törvény szerinti egészségbiztosítási szerv központi szervénél és a központi nyugdíjbiztosítási szervnél,
+- 13. – azok belső igazgatási szervei kivételével – az egészségbiztosítási szerv központi szervénél,
 - 14.
 - 15.
 - 16. foglalkoztatott felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 50%-a, érettségi végzettségű kormánytisztviselő esetében az alapilletményének 15%-a.
