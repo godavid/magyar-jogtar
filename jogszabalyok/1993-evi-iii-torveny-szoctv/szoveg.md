@@ -1209,7 +1209,7 @@ a szociális szolgáltatások területi lefedettségét figyelembe vevő, jogsza
 
 (2g) Támogató szolgáltatás és közösségi alapellátás esetén a (2c) bekezdés nem alkalmazható, a befogadásra a szociál- és nyugdíjpolitikáért felelős miniszter által meghatározott és közleményben közzétett kapacitások, vagy a (2f) bekezdésben foglaltak alapján kerülhet sor.
 
-(2h) A szociál- és nyugdíjpolitikáért felelős miniszter szociális alapszolgáltatás esetén a befogadást kormányrendeletben foglaltak szerint visszavonhatja, ha
+(2h) A szociál- és nyugdíjpolitikáért felelős miniszter szociális alapszolgáltatás és fejlesztő foglalkoztatás esetén a befogadást kormányrendeletben foglaltak szerint visszavonhatja, ha
 
 - a) házi segítségnyújtás esetén az ellátott személyek száma, támogató szolgáltatás és közösségi alapellátások esetén a teljesített feladatmutató, vagy nappali ellátás esetén a betöltött férőhelyek száma hat naptári hónap átlagában és a feltételek vizsgálatakor sem éri el a befogadott ellátotti létszám, feladatmutató, illetve férőhelyszám 90 százalékát,
 - b) a fenntartó a 20/C. § szerinti nyilvántartásban valótlanul tüntetett fel valakit igénybevevőként, vagy
@@ -1766,7 +1766,8 @@ biztosítható.
 - a) a harmincezer főnél nagyobb állandó lakosságszámú településeken a fogyatékos személyek gondozóháza, a pszichiátriai betegek és szenvedélybetegek átmeneti otthona megszervezéséről és fenntartásáról,
 - b) a fővárosban a pszichiátriai betegek, a szenvedélybetegek, fogyatékos személyek szakosított ellátásának a megszervezéséről és fenntartásáról,
 - c) a megye területén a szakosított ellátások megszervezéséről és fenntartásáról, azzal, hogy a megyei jogú város területére is kiterjedően köteles gondoskodni azokról az ellátásokról, amelyek megszervezésére a megyei jogú város a 90. § (2) bekezdése alapján nem köteles,
-- d) a megye területén a támogatott lakhatás megszervezéséről és fenntartásáról.
+- d) a megye területén a támogatott lakhatás megszervezéséről és fenntartásáról,
+- e) a fejlesztő foglalkoztatásról.
 
 (2) A fővárosi önkormányzat köteles gondoskodni
 
@@ -2046,15 +2047,11 @@ rendeletet alkot.
 - i) a szociális szolgáltató, intézmény vezetőjével vagy – ha a személyi térítési díjat, illetve a költőpénzt a fenntartó állapította meg – a fenntartóval szemben, ha a személyi térítési díj, illetve a költőpénz megállapítására vagy összegére vonatkozó szabályokat megszegik,
 - j) a fenntartóval, valamint állami fenntartású intézmény esetén a szociális szolgáltató, intézmény vezetőjével, egyházi fenntartású vagy nem állami fenntartású intézmény esetén a 94/C. §, illetve a 2011. január 1-jét megelőzően hatályos 94/D. § szerinti megállapodás megkötése, módosítása, illetve megszüntetése során a fenntartó nevében eljáró személlyel szemben, ha az egyszeri hozzájárulás megállapítására, összegére, megfizetésére vagy visszafizetésére, vagy a belépési hozzájárulás megállapítására, összegére, megfizetésére, közzétételére vagy visszafizetésére vonatkozó szabályokat megszegik,
 - k) a fenntartóval és a nevében vagyoni előnyt kérő személlyel szemben, valamint azzal a személlyel, szervezettel szemben, amelynek a vagyoni előnyt nyújtották, ha a 119/A. § szerinti tilalmat megsértik.
-- l) az intézményvezetővel, ennek hiányában a gondozási szükséglet vizsgálatát tényleges végző személlyel szemben, ha házi segítségnyújtás esetén nem a valóságnak megfelelően állapította meg, hogy az ellátott számára szociális segítés vagy személyi gondozás indokolt-e, vagy nem a valóságnak megfelelően állapította meg a gondozási szükséglet – az értékelő adatlap szerinti – fokozatát.
+- l) az intézményvezetővel, ennek hiányában a gondozási szükséglet vizsgálatát tényleges végző személlyel szemben, ha házi segítségnyújtás esetén nem a valóságnak megfelelően állapította meg, hogy az ellátott számára szociális segítés vagy személyi gondozás indokolt-e, vagy nem a valóságnak megfelelően állapította meg a gondozási szükséglet – az értékelő adatlap szerinti – fokozatát,
+- m) a fejlesztő foglalkoztatást nyújtó szociális szolgáltató, intézmény vezetőjével szemben, ha a fejlesztő foglalkoztatási jogviszonyban történő fejlesztő foglalkoztatásra nem a munkaalkalmassági vizsgálat során kiállított szakvéleménynek megfelelően vagy e szakvélemény hiányában kerül sor,
+- n) a fejlesztő foglalkoztatást nyújtó szociális szolgáltató, intézmény vezetőjével szemben, ha a fejlesztő foglalkoztatás során megsértik a 99/B–99/D. §-okban foglaltakat.
 
-(2) A szociális foglalkoztatást engedélyező szerv bírságot szabhat ki
-
-- a) a foglalkoztatóval szemben, ha jogszabályban előírt határidőben nem kéri a foglalkoztatási engedély módosítását,
-- b) a foglalkoztatóval, a szociális intézmény vezetőjével szemben, ha a szociális foglalkoztatásra vonatkozó, jogszabályban előírt adatszolgáltatási kötelezettségének ismételten nem, vagy nem a meghatározott módon tesz eleget,
-- c) a foglalkoztatóval, a szociális intézmény vezetőjével szemben, ha a szociális foglalkoztatásra nem külön jogszabály szerinti szociális foglalkoztatási alkalmassági vizsgálat során kiállított szakvéleménynek megfelelően vagy e szakvélemény hiányában kerül sor,
-- d) a fenntartóval, a szociális intézmény vezetőjével, a foglalkoztatóval szemben, ha a szociális intézményi ellátottakat – szociális foglalkoztatás keretében – a foglalkoztatási engedélyben nem szereplő tevékenységi körben foglalkoztatja,
-- e) a foglalkoztatóval, a szociális intézmény vezetőjével szemben, ha a szociális foglalkoztatás során megsérti a 99/D. § (2)–(5) bekezdésében, illetve a 99/E. § (2)–(4) bekezdésében foglaltakat.
+(2)
 
 (3) Az országos jelentési rendszert működtető szerv bírságot szabhat ki a fenntartóval szemben, ha az országos jelentési rendszerbe történő bejelentési kötelezettségét határidőben részben vagy egészben nem teljesíti, vagy valótlan adatot szolgáltat.
 
@@ -2062,7 +2059,7 @@ rendeletet alkot.
 
 (5) A szociális szolgáltató, intézmény vezetőjére vonatkozó rendelkezéseket arra a személyre is alkalmazni kell, aki a szociális szolgáltató, intézmény vezetőjének jogszabályban meghatározott azon feladatát ellátja, amelyből származó jog gyakorlásával, illetve kötelesség megszegésével a jogsértést elkövették.
 
-(6) Az (1)–(2) bekezdés alapján bírság több jogsértés esetén halmozottan, illetve – a jogsértés jellegétől és a felelősség mértékétől függően – több személlyel, szervezettel szemben is kiszabható. A (3) bekezdés alapján bírságot a mulasztással érintett szociális szolgáltatók, intézmények, telephellyel rendelkező szociális szolgáltató, intézmény esetén a mulasztással érintett ellátást nyújtó székhely és a mulasztással érintett telephelyek száma szerint halmozottan is kiszabható, további halmazatban történő megállapításnak nincs helye.
+(6) Az (1) bekezdés alapján bírság több jogsértés esetén halmozottan, illetve – a jogsértés jellegétől és a felelősség mértékétől függően – több személlyel, szervezettel szemben is kiszabható. A (3) bekezdés alapján bírságot a mulasztással érintett szociális szolgáltatók, intézmények, telephellyel rendelkező szociális szolgáltató, intézmény esetén a mulasztással érintett ellátást nyújtó székhely és a mulasztással érintett telephelyek száma szerint halmozottan is kiszabható, további halmazatban történő megállapításnak nincs helye.
 
 (7) Ha a bírsággal sújtott személy vagy szervezet a megállapított határidőn belül nem intézkedik a jogellenesség megszüntetése érdekében, a bírság ismételten kiszabható.
 
@@ -2368,80 +2365,76 @@ való jogra.
 
 99/A. § A nappali ellátást nyújtó és a bentlakásos intézményekben az ellátottak érdekeik közösségben történő képviseletére és közösségi életük megszervezésére – választott képviselőikből – ellátotti önkormányzatot hozhatnak létre, amely ellátja az intézmény szervezeti és működési szabályzatában, illetve házirendjében meghatározott feladatokat. Az ellátotti önkormányzat megalakítása az érdekképviseleti fórum működését, nem érinti.
 
-### Az ellátottak szociális intézményen belüli foglalkoztatása
+### Fejlesztő foglalkoztatás
 
-99/B. § (1) Az intézményi jogviszonyban álló személy intézményen belüli foglalkoztatása az intézmény szakmai programja alapján, az egyéni gondozási, fejlesztési, illetve rehabilitációs tervben foglaltak szerint, az ellátott meglévő képességeire építve, korának, fizikai és mentális állapotának megfelelően munka-rehabilitáció vagy fejlesztő-felkészítő foglalkoztatás keretében biztosítható (a továbbiakban együtt: szociális foglalkoztatás).
+99/B. § (1) A fejlesztő foglalkoztatás célja a gondozási, fejlesztési, illetve rehabilitációs tervben foglaltak szerint az egyén egészségi állapotának, korának, fizikai és mentális állapotának megfelelő fejlesztési és foglalkoztatási szolgáltatás biztosítása útján, az egyén felkészítése az önálló munkavégzésre vagy a nyílt munkaerőpiacon történő elhelyezkedésre.
 
-(2) A szociális foglalkoztatásban foglalkoztatóként az a személy, illetve szervezet vehet részt, aki erre a szociális hatóság által kiadott engedéllyel rendelkezik (a továbbiakban: szociális foglalkoztatási engedély). A szociális foglalkoztatás személyi és tárgyi feltételeit, engedélyezésének és szakmai ellenőrzésének szabályait külön jogszabály tartalmazza.
+(2) Fejlesztő foglalkoztatásban részesülhet a rá irányadó öregségi nyugdíjkorhatár eléréséig az, aki intézményi jogviszonya alapján
 
-(3) A szociális foglalkoztatás feltétele az ellátott rehabilitációs alkalmassági vizsgálatának elvégzése.
+- a) közösségi alapellátást,
+- b) támogató szolgáltatást,
+- c) nappali ellátást,
+- d) átmeneti elhelyezést nyújtó intézményi ellátást,
+- e) ápolást, gondozást nyújtó intézményi ellátást,
+- f) rehabilitációs intézményi ellátást,
+- g) lakóotthoni ellátást vagy
+- h) támogatott lakhatást
 
-(4) Az ellátott foglalkoztatásáról – rehabilitációs alkalmassági vizsgálat eredménye alapján – a szociális intézmény vezetője dönt. Az intézményvezető a döntésről írásban értesíti az ellátottat, illetve törvényes képviselőjét, valamint – amennyiben az ellátott munkavégzésre irányuló jogviszonyban áll – az ellátottat foglalkoztató személyt, illetve szervezetet. Ha az ellátott, illetve törvényes képviselője az intézmény vezetőjének döntését vitatja, az arról szóló értesítés kézhezvételétől számított nyolc napon belül a fenntartóhoz fordulhat, amely 15 napon belül dönt az ellátott foglalkoztatásáról.
+vesz igénybe.
 
-(5) Az ellátottat foglalkoztató személy, illetve szervezet a szociális intézmény vezetője, illetve a fenntartó döntésének beérkezését követő 15 napon belül – szükség esetén – ajánlatot tesz a foglalkoztatásra irányuló jogviszony módosítására az ellátott, illetve törvényes képviselője részére. Ha az ajánlattételt követő 15 napon belül az ellátott, illetve törvényes képviselője nem nyilatkozik, vagy az ajánlatot nem fogadja el, a foglalkoztatásra irányuló jogviszony megszűnik.
+99/C. § (1) A fejlesztő foglalkoztatás
 
-(6) A foglalkoztató a foglalkoztatásra irányuló jogviszony (5) bekezdés szerinti módosításáról, illetve megszűnéséről – a módosítást, megszűnést követő 3 napon belül, módosítás esetén a szerződés másolatának egyidejű megküldésével – írásban tájékoztatja a szociális intézményt.
+- a) az Mt. szerinti határozott idejű munkaviszonyban vagy
+- b) a (4) bekezdés szerinti fejlesztési jogviszonyban
 
-99/C. § (1) A szociális hatóság – a szociális foglalkoztatással kapcsolatos hatósági ellenőrzés érdekében – nyilvántartást vezet az illetékességi területén lévő szociális intézményben biztosított szociális foglalkoztatásról. A nyilvántartás tartalmazza
+történik.
 
-- a) a foglalkoztató nevét, címét, székhelyét, telephelyét, a szociális foglalkoztatási engedély másolatát;
-- b) a foglalkoztatott természetes személyazonosító adatait, lakó-, illetve tartózkodási helyét, a rehabilitációs alkalmassági vizsgálatot végző szociális szakértői szerv szakértői véleményét, valamint a foglalkoztatásra irányuló megállapodásnak, illetve munkaszerződésnek a másolatát.
+(2) Az Mt. szerinti határozott idejű munkaviszonyban történő foglalkoztatás célja az önálló munkavégzést segítő képességek, készségek fenntartása, fejlesztése, új munkafolyamatok megismerése, új szakma elsajátítása, az ellátott felkészítése a nyílt munkaerőpiacon történő munkavégzésre.
 
-(2) Az (1) bekezdés szerinti nyilvántartásban foglalt adatokat, dokumentumokat a szociális intézmény szolgáltatja. A szociális intézmény az adatokban történt változást 15 napon belül jelzi a szociális hatóságnak.
+(3) A (4) bekezdés szerinti fejlesztési jogviszonyban történő foglalkoztatás célja az ellátott testi és szellemi képességeinek, valamint a munkavégzéssel összefüggő készségeinek helyreállítása, megőrzése és fejlesztése, továbbá az ellátott felkészítése az önálló munkavégzésre.
 
-(3) A szociális hatóság ellenőrzi, hogy az (1) bekezdés szerinti nyilvántartásban foglaltaknak megfelelően történik-e a foglalkoztatás.
+(4) A fejlesztési jogviszony
 
-(4) A szociális intézmény a szociális foglalkoztatás keretében foglalkoztatott után támogatást igényelhet (a továbbiakban: szociális foglalkoztatási támogatás). A szociális foglalkoztatási támogatást munka-rehabilitációs díjra, bérjellegű kifizetésekre, valamint a foglalkoztatáshoz kapcsolódó személyi és dologi kiadásokra, valamint tárgyieszköz-beszerzésekre kell fordítani. A szociális foglalkoztatási támogatás igénylésének és a támogatás felhasználása ellenőrzésének szabályait külön jogszabály tartalmazza.
+- a) munka-, szervezetpszichológus javaslata, vagy rehabilitációs alkalmassági vizsgálat eredményeképpen kiadott, hatályos, munka-rehabilitációt javasoló szakvélemény alapján, egyéni foglalkoztatási tervben foglaltak szerint akkor hozható létre, ha az ellátott kompetenciái nem érik el az önálló munkavégzéshez szükséges szintet, és
+- b) fejlesztési szerződéssel jön létre, amelyet az ellátott, illetve törvényes képviselője írásban, az (5)–(7) bekezdésben foglaltak figyelembevételével köt a fejlesztő foglalkoztatást nyújtó szolgáltató, intézmény vezetőjével.
 
-(5)
+(5) A fejlesztési szerződés tartalmazza
 
-(6) A szociális foglalkoztatás keretében foglalkoztatott személy után a megváltozott munkaképességűek foglalkoztatásának támogatása előirányzatból külön jogszabály szerinti költségvetési támogatás (dotáció) nem igényelhető.
+- a) a fejlesztő foglalkoztatás keretében végzett tevékenység részletes leírását,
+- b) a fejlesztő foglalkoztatás időbeosztását és helyét azzal, hogy a foglalkoztatás időtartama nem haladhatja meg a napi 6 órát és a heti 30 órát, de az ellátott – az egyéni szükségleteire tekintettel – egyenlőtlen napi munkaidő-beosztással is foglalkoztatható,
+- c) a fejlesztési foglalkoztatási óradíj összegét, amely nem lehet kevesebb a mindenkori kötelező legkisebb órabér 30%-ánál,
+- d) az ellátott szándéknyilatkozatát arra nézve, hogy testi és szellemi képességeihez mérten elvárható módon közreműködik a fejlesztő foglalkoztatásban, és
+- e) a fejlesztő foglalkoztató munkavégzéssel összefüggő kötelezettségeit.
 
-(7) A szociális hatóság a szociális foglalkoztatásról vezetett nyilvántartásból az országos, illetve ágazati érdekegyeztetésben történő részvétel megállapítása céljából, a megállapításra törvényben feljogosított hatóság igénylése alapján az (1) bekezdés a) pontjában meghatározott adatokat, továbbá a b) pontban meghatározott adatokból a foglalkoztatottak létszámára vonatkozóan adatot szolgáltat.
+(6) A fejlesztő foglalkoztatás keretében csak olyan feladatot végezhet az ellátott, amelyet egészségi állapota és szellemi képességei alapján tartósan és folyamatosan képes ellátni.
 
-99/D. § (1) A munka-rehabilitáció célja a szociális intézményben ellátott személy munkakészségének, valamint testi és szellemi képességeinek munkavégzéssel történő megőrzése, illetve fejlesztése, továbbá a fejlesztő-felkészítő foglalkoztatásra való felkészítés.
+(7) A fejlesztő foglalkoztató köteles folyamatos felügyelet mellett biztosítani – az ellátott speciális szükségleteinek megfelelően – az egészséget nem veszélyeztető és biztonságos munkavégzés személyi, tárgyi, szakmai és műszaki feltételeit.
 
-(2) A munka-rehabilitáció az intézményi jogviszony keretében történik. A munka-rehabilitációban történő részvételről az ellátott, illetve – amennyiben az ellátott jognyilatkozata a Ptk. 2:22. § (1) bekezdése alapján semmisnek minősülne – törvényes képviselője írásban, a (3)–(6) bekezdésben foglaltak figyelembevételével megállapodást köt a szociális intézmény vezetőjével. Ez utóbbi esetben a megállapodást az ellátott aláírhatja. A megállapodás tartalmazza
+(8) Ha a fejlesztő foglalkoztatás munkaviszonyban történik, az ellátott – a fiatal munkavállaló kivételével – havi munkaidőkeretben, egyenlőtlen napi munkaidő beosztással is foglalkoztatható.
 
-- a) a munka-rehabilitáció keretében végzett tevékenység részletes leírását,
-- b) a munka-rehabilitáció időbeosztását,
-- c) a munka-rehabilitációs díj havi összegét,
-- d) szándéknyilatkozatot arra nézve, hogy az ellátott testi és szellemi képességeihez mérten elvárható módon közreműködik a munka-rehabilitációban.
+(9) Ha a fejlesztő foglalkoztatás munkaviszony keretében történik, annak során
 
-(3) A munka-rehabilitációs tevékenység megválasztásánál a szociális intézmény vezetője figyelembe veszi az ellátott testi és szellemi képességeit, és speciális szükségleteinek megfelelően biztosítja az egészséget nem veszélyeztető és biztonságos munkavégzés feltételeit.
+- a) 16. életévét betöltött személy foglalkoztatható,
+- b) az Mt. 192. § (2) bekezdésétől eltérően a munkaviszony a fejlesztő foglalkoztatás időtartamára meghosszabbítható,
+- c) az Mt. VI. fejezete, 53. §-a, 94. §-a, 98. §-a, 100. §-a, 103. § (1)–(2) és (6) bekezdése, XV. fejezete – kivéve a 192. § (1) bekezdését és a 212. §-t –, a XVI., XVII. és XVIII. fejezete nem alkalmazható,
+- d) a munkavállaló rendkívüli és többműszakos munkavégzésre, ügyeletre, készenlétre nem vehető igénybe,
+- e) a napi munkaidő a 8 órát, illetve a heti 40 órát nem haladhatja meg,
+- f) ha a munkavállaló napi munkaideje a négy és fél órát meghaladja, részére legalább 30 perc munkaközi szünetet kell biztosítani.
 
-(4) A munka-rehabilitáció időbeosztását az ellátott állapotának, képességeinek figyelembevételével egyénileg kell meghatározni az egyéni gondozási, fejlesztési, illetve rehabilitációs tervben úgy, hogy a foglalkoztatás időtartama nem haladhatja meg a napi 6 és a heti 30 órát, és el kell érnie a napi 4 és a heti 20 órát.
+(10) Az intézményi jogviszony megszűnése esetén a munkaviszony, illetve a fejlesztési jogviszony is megszűnik.
 
-(5) Munka-rehabilitáció esetén a szociális intézmény vezetője az ellátottat munka-rehabilitációs díjban részesíti. A munka-rehabilitációs díj havi összege nem lehet kevesebb a mindenkori kötelező legkisebb munkabér 30%-ánál.
+99/D. § (1) A fejlesztő foglalkoztatásra irányuló munkaviszony vagy fejlesztési jogviszony
 
-(6) A szociális intézmény vezetője a munka-rehabilitációra vonatkozó megállapodás módosítását, illetve – különösen indokolt esetben – megszüntetését kezdeményezi, ha az ellátott a foglalkoztatás során
+- a) a 99/B. § (2) bekezdése szerinti intézményi jogviszony alapján szociális szolgáltatást, ellátást nyújtó intézménnyel, szolgáltatóval, vagy
+- b) más, a szolgáltatói nyilvántartásba fejlesztő foglakoztatást nyújtóként bejegyzett szervezettel
 
-- a) saját, illetve más személy testi épségét, egészségét veszélyezteti,
-- b) egyébként olyan magatartást tanúsít, amely mellett biztonságos foglalkoztatása nem tartható fenn.
+állhat fenn.
 
-(7)
+(2) Az (1) bekezdés b) pontja szerinti esetben a fejlesztő foglalkoztatást nyújtó szervezetre a szociális szolgáltatókra vonatkozó szabályokat kell alkalmazni, azzal, hogy a 20. § szerinti nyilvántartásban nem kell feltüntetni a 20. § (2) bekezdés g) és h) pontja, valamint (4) bekezdés c) és d) pontja szerinti adatokat, és nem kell alkalmazni az 59. § (4) bekezdését, a 89–92. §-t, a 92/B. § (1) bekezdés a), e), i) és j) pontját, a 92/D–92/I. §-t, a 94. §-t, a 94/C. §-t, a 94/D. §-t, a 100–104. §-t, a 114–119/C. §-t és a 120–122/C. §-t. A szolgáltatói nyilvántartás, a szolgáltatói nyilvántartásra vonatkozó hatósági eljárások, a bejelentési kötelezettségek, az ellenőrzés, a bírság és más jogkövetkezmények, a 92/K. § (8)–(10) bekezdése szerinti közzététel, a befogadás, az állami támogatás, a 20/C. § szerinti nyilvántartás és az országos jelentési rendszer tekintetében a fejlesztő foglalkoztatás szociális szolgáltatásnak, a fejlesztő foglalkoztatásban részesülő személy igénybevevőnek, illetve ellátottnak, a fejlesztő foglalkoztatást nyújtó szervezet pedig szociális szolgáltatónak minősül.
 
-99/E. § (1) A fejlesztő-felkészítő foglalkoztatás célja a szociális intézményben ellátott személy számára munkafolyamatok betanítása és foglalkoztatása révén az önálló munkavégző képesség kialakítása, helyreállítása, fejlesztése, valamint az ellátott felkészítése védett munka keretében, illetve a nyílt munkaerőpiacon történő önálló munkavégzésre.
+(3) Az (1) bekezdés b) pontja szerinti esetben, ha az ellátott számára fejlesztő foglalkoztatást nyújtó szervezet és a 99/B. § (2) bekezdése szerinti intézményi jogviszony alapján szociális szolgáltatást, ellátást nyújtó intézmény, szolgáltató fenntartója különböző, a fenntartók az ellátottak foglalkoztatására megállapodást kötnek. A megállapodást érintő körülmények változásáról – a fejlesztési jogviszony vagy a munkaviszony megszűnését eredményező esetben legalább 10 nappal korábban írásban – a felek egymást kölcsönösen tájékoztatják.
 
-(2) A fejlesztő-felkészítő foglalkoztatás
-
-- a) az ellátott, és
-- b) az intézmény vagy az intézménnyel az ellátottak foglalkoztatására megállapodást kötött szervezet
-
-által, legfeljebb egy évre kötött munkaszerződés alapján, a munka törvénykönyvéről szóló 2012. évi I. törvény szerinti határozott idejű munkaviszony keretében folytatható. Az intézményi jogviszony megszűnése esetén a fejlesztő-felkészítő foglalkoztatásra irányuló jogviszony is megszűnik.
-
-(2a) A (2) bekezdés alapján létesített munkaviszony – a munka törvénykönyvéről szóló 2012. évi I. törvény 192. § (2) bekezdésétől eltérően – a fejlesztő-felkészítő foglalkoztatás időtartamára a (2) bekezdésben foglaltak figyelembevételével meghosszabbítható.
-
-(3) Az intézmény és az intézménnyel az ellátottak foglalkoztatására megállapodást kötő szervezet közötti szerződésre a 122/B. §-ban foglaltakat megfelelően kell alkalmazni.
-
-(4) A fejlesztő-felkészítő foglalkoztatás keretében
-
-- a) a 16. életévét betöltött személy foglalkoztatható,
-- b) a foglalkoztatás időtartama nem haladhatja meg a napi 8 órát és a heti 40 órát,
-- c) munkaidőkeret nem alkalmazható,
-- d) ha a munkavállaló napi munkaideje a négy és fél órát meghaladja, részére legalább 30 perc munkaközi szünetet kell biztosítani,
-- e) a munkavállaló éjszakai munkára, rendkívüli és többműszakos munkavégzésre, ügyeletre, készenlétre nem vehető igénybe,
-- f) a kiküldetésre, kirendelésre, munkaerő-kölcsönzésre vonatkozó szabályok nem alkalmazhatók.
+99/E. §
 
 ### Az intézményi jogviszony megszűnése
 
@@ -2606,7 +2599,7 @@ az ellátottal kötött, a 94/C. § (3) bekezdése szerinti megállapodásban a 
 - a) az ápolást, gondozást nyújtó intézményben vagy ápoló-gondozó célú lakóotthonban elhelyezett, BNO 10 kódkönyv F diagnóziskóddal rendelkező ellátottak,
 - b) az ápolást, gondozást nyújtó intézményben vagy ápoló-gondozó célú lakóotthonban ellátott fogyatékos személyek,
 - c) a rehabilitációs intézményben, rehabilitációs célú lakóotthonban ellátottak,
-- d) a szociális foglalkoztatásban részt vevő ellátottak,
+- d)
 - e)
 
 113/B–113/C. §
@@ -2937,7 +2930,7 @@ járul hozzá.
 
 129. § Fogyatékos személyek ápolást-gondozást nyújtó intézményeinek címzett támogatással történő beruházása esetén kizárólag az ötven főnél nagyobb férőhelyszámú intézmény kiváltása támogatható.
 
-130. §
+130. § A fejlesztő foglalkoztatás fenntartója a fejlesztő foglalkoztatás keretében foglalkoztatott személy után kapott támogatást fejlesztési foglalkoztatási díjra, bér jellegű kifizetésekre, a foglalkoztatáshoz kapcsolódó személyi és dologi kiadásokra, valamint tárgyieszköz-beszerzésekre, beruházásra és munkahelyteremtésre fordíthatja.
 
 131. § A szociális szakmai programok meghirdetésével kell elősegíteni a fenntartó számára a szociális intézmények olyan mértékű fejlesztésének támogatását, hogy az érintett önkormányzatok eleget tudjanak tenni az e törvényben előírt kötelezettségüknek.
 
@@ -2968,7 +2961,7 @@ járul hozzá.
 - j) az országos jelentési rendszer számára bejelentendő adatok körét, valamint az országos jelentési rendszerbe és a 20/C. § szerinti nyilvántartásba történő, valamint a 20. § (2a) bekezdése szerinti adatközlés módjára és idejére vonatkozó eljárási szabályokat, továbbá az azokat működtető szerv vagy szervek kijelölését;
 - k) a 3. § (3) és (4) bekezdésében meghatározott személyekre vonatkozó ellátások igénylésével, megállapításával, folyósításával, valamint az igényelbíráló szervek adatkezelésével kapcsolatos részletes szabályokat;
 - l) a rehabilitációs intézményekben elhelyezettek utógondozási feladatainak részletes szabályait;
-- m) a szociális foglalkoztatás engedélyezésének és ellenőrzésének, valamint a szociális foglalkoztatási támogatás igénylésének és a támogatás felhasználása ellenőrzésének szabályait,
+- m)
 - n) a szociális hatóság és a szociális szakértői szerv kijelölését;
 - o) az idősek otthonában nyújtott tartós szakápolás igénybevételének módját és annak egyéb feltételeit,
 - p) a szenvedélybetegek részére nyújtott alacsonyküszöbű ellátás, utcai szociális munka és a fejlesztő foglalkoztatás finanszírozásának rendjére vonatkozó részletes szabályokat;
@@ -2994,7 +2987,7 @@ járul hozzá.
 - g) a módszertani feladatokat ellátó szerv feladataira vonatkozó részletes szabályokat;
 - h) a személyes gondoskodást nyújtó szociális ellátások igénybevételére vonatkozó szabályokat,
 - k) az egyes szociális szolgáltatásokat végzők képzésére és vizsgakövetelményeire vonatkozó szabályokat,
-- l) a szociális foglalkoztatás személyi és tárgyi feltételeit,
+- l) a fejlesztő foglalkoztatás szakmai feladataira, személyi és tárgyi feltételeit,
 - m) a gondozási szükséglet, valamint az egészségi állapoton alapuló szociális rászorultság vizsgálatának és igazolásának részletes szabályait;
 - n) az államháztartásért felelős miniszterrel egyetértésben a szociálisan rászorult személyek földgáz- és távhőszolgáltatáshoz kapcsolódó kiegészítő támogatásának, valamint egyéb fűtési támogatásának szabályait;
 - o) az Egyházi Fenntartók Tanácsának összetételére, megalakítására és működésére vonatkozó részletes szabályokat.

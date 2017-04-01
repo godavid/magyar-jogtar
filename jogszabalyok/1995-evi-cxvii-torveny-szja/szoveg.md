@@ -3134,7 +3134,7 @@ b) a központi költségvetésből jövedelempótlék vagy annak megfelelő jogc
 
 4.9. a jótékony célú rendezvény bevételéből a munkabérként, honoráriumként vagy tiszteletdíjként számfejtett összeg, ha azt a magánszemély nem veszi fel, hanem valamely közérdekű célra felajánlja, azzal, hogy ez nem minősül az adócsökkentésre jogosító közcélú adománynak;
 
-4.10. az egészségügyi és szociális intézményben a betegek, a gondozottak részére kifizetett munkaterápiás jutalom, valamint a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti munka-rehabilitációs díj;
+4.10. az egészségügyi és szociális intézményben a betegek, a gondozottak részére kifizetett munkaterápiás jutalom, valamint a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti fejlesztési foglalkoztatási díj;
 
 4.11. a szakképző iskolai tanulónak, a felsőfokú szakképzésben, felsőoktatási szakképzésben részt vevő hallgatónak tanulószerződés, hallgatói munkaszerződés alapján és a szakképzésben tanulószerződés nélkül részt vevő tanulónak a szorgalmi idő befejezését követő összefüggő szakmai gyakorlat időtartamára külön jogszabály szerint kötelezően kifizetett díjazás, továbbá a tanulószerződéses tanulót jogszabály alapján megillető kiegészítő pénzbeli juttatás, továbbá a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló törvény vagy a szakképzésről szóló törvény alapján a szakképző iskolai tanulónak nyújtott ösztöndíj;
 
