@@ -124,6 +124,10 @@ jogosult folytatni.
 
 (2) Az „egyetem” vagy „főiskola” elnevezés, valamint ezek idegen nyelvű megfelelői használatára csak az e törvény 1. melléklete szerinti – továbbá az e törvény alapján a Magyarország területén működő külföldi – felsőoktatási intézmény jogosult.
 
+(2a) A felsőoktatási intézmény elnevezésének más felsőoktatási intézmény elnevezésétől egyértelműen különböznie kell. A felsőoktatási intézmény elnevezése nem lehet megtévesztő, nem kelthet az intézményre, annak tevékenységére vonatkozó hamis látszatot. Megtévesztőnek, illetve összetéveszthetőnek minősül a felsőoktatási intézmény elnevezése, ha annak magyar vagy idegen nyelven történő megnevezése és valamely más, az oktatási hivatalnál nyilvántartásba vett felsőoktatási intézmény elnevezése megegyezik. A felsőoktatási intézményt élő személyről elnevezni nem lehet. A történelem kiemelkedő személyiségeinek nevét a Magyar Tudományos Akadémia engedélyével, továbbá olyan nevet, amelyhez másnak jogi érdeke fűződik, csak a jogosult hozzájárulásával lehet a felsőoktatási intézmény nevében feltüntetni.
+
+(2b) A felsőoktatási intézmény idegen nyelvű elnevezésének tartalmilag egyeznie kell a magyar nyelvű elnevezéssel. Két vagy több azonos nevű felsőoktatási intézmény esetén a név viselésének joga azt a felsőoktatási intézményt illeti meg, amelyik fenntartója a nyilvántartásba vételi kérelmet elsőként nyújtotta be.
+
 (3) Egyetem az a felsőoktatási intézmény, amelyik
 
 - a) legalább nyolc alapképzési és hat mesterképzési szakon jogosult képzésre, valamint doktori képzésre és doktori fokozat odaítélésére,
@@ -1697,7 +1701,14 @@ gyakorolja.
 
 #### 45. A külföldi felsőoktatási intézmények magyarországi működése
 
-76. § (1) Magyarország területén külföldi felsőoktatási intézmény akkor folytathat oklevelet adó képzési tevékenységet, ha a származási országában államilag elismert felsőoktatási intézménynek minősül és az általa Magyarország területén folytatni kívánt képzés és az arra tekintettel kiállított oklevél államilag elismert felsőoktatási fokozatot adó képzésnek (oklevélnek) felel meg és a működését az oktatási hivatal engedélyezte. Az oktatási hivatal a működési engedélyre vonatkozó határozatát visszavonja, amennyiben a felsőoktatási intézmény, vagy a képzés e feltételeknek utóbb nem felel meg.
+76. § (1) Magyarország területén külföldi felsőoktatási intézmény akkor folytathat oklevelet adó képzési tevékenységet, ha
+
+- a) magyarországi működésének elvi támogatásáról szóló, Magyarország Kormánya és a külföldi felsőoktatási intézmény székhelye szerinti állam Kormánya által kötött – föderatív állam esetében, amennyiben a nemzetközi szerződés kötelező hatályának elismerésére nem a központi kormányzat jogosult, annak központi kormányzatával létrejött előzetes megállapodáson alapuló – nemzetközi szerződés kötelező hatályát a szerződő felek elismerték,
+- b) a székhelye szerinti országban működő, és ott ténylegesen felsőoktatási képzést folytató államilag elismert felsőoktatási intézménynek minősül,
+- c) az általa Magyarország területén folytatni kívánt képzés és az arra tekintettel kiállított oklevél államilag elismert felsőoktatási fokozatot adó képzésnek minősül és
+- d) működését az oktatási hivatal engedélyezte.
+
+(1a) Az (1) bekezdés szerinti felsőoktatási intézmény tekintetében – a történelem kiemelkedő személyiségeivel kapcsolatos névhasználati szabály kivételével – alkalmazni kell a 9. § (2a) és (2b) bekezdése szerinti szabályokat is azzal, hogy a felsőoktatási intézmény elnevezése sem az 1. melléklet szerinti, sem Magyarországon képzési tevékenységet folytató külföldi felsőoktatási intézménnyel nem lehet összetéveszthető.
 
 (2) A működési engedély kiadása megtagadható az oktatási hivatal által beszerzett felsőoktatási akkreditációs szervezet szakvéleménye alapján, ha az alapján megállapítható, hogy a magyarországi és a székhely szerinti országban érvényes működési és képzési feltételek jelentősen eltérnek. A szakvélemény nyilatkozik a képzés személyi és tárgyi feltételeiről, a képzés minőségéről.
 
@@ -2733,7 +2744,7 @@ e törvény szerint kell megállapítani a hallgatói juttatásokat.
 
 (6)
 
-(7) A 2005. évi felsőoktatási törvény szerint nemzetközi jogállású felsőoktatási intézményként működő intézmények működési engedélyét az oktatási hivatal 2017. szeptember 1-jéig köteles felülvizsgálni, módosítani, illetve az e törvénynek megfelelő működési feltételek teljesülése hiányában a miniszternél kezdeményezni az állami elismerés visszavonását.
+(7) E törvénynek – a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény módosításáról szóló 2017. évi XXV. törvénnyel (a továbbiakban: Módtv2.) megállapított – 9. § (2a) és (2b) bekezdésében, 76. § (1) és (1a) bekezdésében meghatározott feltételeket – föderatív állam esetében annak központi kormányzatával létrejött előzetes megállapodás kivételével – a 2017. szeptember 1-jén magyarországi működési engedéllyel rendelkező külföldi felsőoktatási intézménynek 2018. január 1-jéig kell teljesíteni. Föderatív állam esetén az ennek alapjául szolgáló előzetes megállapodást a Módtv2. hatálybalépését követő hat hónapon belül kell megkötni. A feltételeket nem teljesítő külföldi felsőoktatási intézmény működési engedélyét az oktatási hivatal visszavonja és 2018. január 1-jét követően a külföldi felsőoktatási intézmény magyarországi képzésének első évfolyamára hallgató nem vehető fel azzal, hogy a 2018. január 1-jén már megkezdett magyarországi képzések változatlan feltételek mellett kifutó rendszerben – de legfeljebb a 2020/2021-es tanévben – fejezhetők be.
 
 (8)
 
