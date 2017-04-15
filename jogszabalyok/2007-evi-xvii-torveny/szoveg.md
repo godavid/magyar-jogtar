@@ -1301,7 +1301,7 @@ kapcsolatos eljárások.
 
 (3) A (2) bekezdés szerinti ökológiai jelentőségű terület tulajdonosa vagy vagyonkezelője kérheti a mezőgazdasági és vidékfejlesztési támogatási szervtől az adott ökológiai jelentőségű területet bejelentő ügyfél 28. § (2) bekezdés szerinti adatait.
 
-(4) Az ökológiai jelentőségű területre tekintettel támogatásban részesülő ügyfél köteles az ökológiai jelentőségű terület tulajdonosának vagy vagyonkezelőjének erre irányuló felhívása esetén a támogatás időtartama alatt az adott ökológiai jelentőségű területen
+(4) Az ökológiai jelentőségű területet tárgyévben bejelentő ügyfél köteles az ökológiai jelentőségű terület tulajdonosának vagy vagyonkezelőjének erre irányuló felhívása esetén az adott ökológiai jelentőségű területen
 
 - a) elvégezni a parlagfű és más veszélyes gyomok elleni védekezést a jogszabályban foglaltaknak megfelelően,
 - b) elszállítani a szilárd hulladékot, és
