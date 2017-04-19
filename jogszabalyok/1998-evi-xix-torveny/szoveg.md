@@ -245,7 +245,7 @@ merült fel.
 
 (3) Az (1) bekezdésben szabályozott eseteken kívül
 
-- a) a bíróság további eljárásából ki van zárva, aki az ügyben nyomozási bíróként járt el,
+- a) a vádemelést követően a bíróság további eljárásából ki van zárva, aki az ügyben a vádemelés előtt nyomozási bíróként vagy a nyomozási bíró határozata elleni fellebbezés tárgyában eljárt,
 - b) a másodfokú eljárásból ki van zárva az a bíró, aki az ügy első fokú, a harmadfokú eljárásból pedig az, aki az ügy első fokú vagy másodfokú elbírálásában részt vett,
 - c) a hatályon kívül helyezés folytán megismételt eljárásból ki van zárva az a bíró is, aki a hatályon kívül helyező határozat vagy a megalapozatlansága miatt hatályon kívül helyezett határozat meghozatalában részt vett,
 - d) a perújítás elrendelése folytán megismételt első fokú vagy másodfokú eljárásból ki van zárva az a bíró is, aki a perújítást elrendelő határozat vagy a perújítással támadott határozat meghozatalában részt vett,
@@ -791,13 +791,13 @@ fokozott körültekintéssel kell eljárni.
 - d) a távolmaradás következményeire való figyelmeztetést,
 - e) a vádirat benyújtása után a vádlott nevét és az eljárás alapjául szolgáló bűncselekmény megjelölését.
 
-(3) Sajtóhirdetményben tehető közzé az értesítés, ha ezt az érdekeltek rendkívül nagy száma indokolttá teszi.
+(3)
 
 (4) Minden esetben közölni kell, hogy az érintettet melyik bíróság, ügyészség, illetőleg nyomozó hatóság idézi, illetőleg értesíti; az idézés, illetve az értesítés tényét az ügy irataiban rögzíteni kell.
 
 (5) A megidézett felhívható arra, hogy az ügyre vonatkozó iratain kívül a bizonyításnál felhasználható feljegyzéseit vagy egyéb tárgyait hozza magával.
 
-(6) Az írásbeli idézést vagy értesítést zárt iratban kell megküldeni. Sajtóhirdetményben az értesítettek neve nem közölhető.
+(6) Az írásbeli idézést vagy értesítést zárt iratban kell megküldeni.
 
 (7) A kiskorú idézésében, illetve értesítésében – figyelemmel a 62/A. §-ban foglaltakra – a kiskorú korára, érettségére figyelemmel, számára érthető módon tájékoztatást kell adni az idézés, illetve értesítés tartalmáról.
 
@@ -894,9 +894,18 @@ fokozott körültekintéssel kell eljárni.
 
 (4) A kézbesítés szabályszerű, ha a hivatalos iratot a címzett vagy helyette a külön jogszabály szerint átvételre jogosult más személy átvette. A hivatalos iratot szabályszerűen kézbesítettnek kell tekinteni, ha az irat átvételét, illetőleg a kézbesítési bizonyítvány (tértivevény) aláírását megtagadják.
 
-(5) Az ismeretlen helyen tartózkodó terhelt részére a hivatalos iratot hirdetményi úton kell kézbesíteni. Hirdetményi kézbesítés esetén a hirdetmény tartalmazza, hogy a címzett az iratot melyik bíróságnál, ügyészségnél, illetőleg nyomozó hatóságnál veheti át.
+(5) Hirdetményi úton kell kézbesíteni
 
-(6) A hirdetményt tizenöt napra ki kell függeszteni az azt küldő bíróság, ügyészség, illetőleg nyomozó hatóság, valamint – ha ilyen van – a címzett utolsó ismert belföldi lakóhelye vagy tartózkodási helye szerinti helyi önkormányzat hirdetőtáblájára. Az iratot a hirdetménynek a bíróságnál, az ügyészségnél, illetőleg a nyomozó hatóságnál történt kifüggesztésétől számított tizenötödik napon kell kézbesítettnek tekinteni.
+- a) a hivatalos iratot az ismeretlen helyen tartózkodó terhelt részére, és
+- b) az értesítést, ha ezt az érdekeltek jelentős száma indokolttá teszi.
+
+(5a) Hirdetményi kézbesítés esetén a hirdetmény tartalmazza, hogy a címzett az iratot melyik bíróságnál, ügyészségnél, illetve nyomozó hatóságnál veheti át. Hirdetményben az értesítettek neve nem közölhető.
+
+(6) A hirdetményt tizenöt napra közzé kell tenni a kézbesítést elrendelő bíróság, ügyészség vagy nyomozó hatóság elektronikus tájékoztatásra szolgáló honlapján, és tizenöt napra ki kell függeszteni a bíróság, ügyészség vagy nyomozó hatóság hirdetőtáblájára.
+
+(6a) Az (5) bekezdés a) pontja esetén a hirdetményt tizenöt napra a terhelt utolsó ismert belföldi lakóhelye vagy tartózkodási helye szerinti helyi önkormányzat hirdetőtáblájára is ki kell függeszteni.
+
+(6b) Az iratot a hirdetménynek a kézbesítést elrendelő bíróság, ügyészség vagy nyomozó hatóság hirdetőtábláján történt kifüggesztésétől számított tizenötödik napon kell kézbesítettnek tekinteni.
 
 (7) A kézbesítési bizonyítvánnyal (tértivevénnyel) feladott hivatalos iratot a kézbesítés második megkísérlésének napját követő ötödik munkanapon kézbesítettnek kell tekinteni, ha a kézbesítés azért volt eredménytelen, mert a címzett az iratot nem vette át.
 
@@ -1619,11 +1628,11 @@ elé kell állítani.
 
 ### Az előzetes letartóztatás tartama
 
-131. § (1) A vádirat benyújtása előtt elrendelt előzetes letartóztatás az első fokú bíróságnak a tárgyalás előkészítése során hozott határozatáig, de legfeljebb egy hónapig tart. Az előzetes letartóztatást a nyomozási bíró alkalmanként legfeljebb három hónappal, összesen legfeljebb az előzetes letartóztatás elrendelésétől számított egy év elteltéig meghosszabbíthatja. Ezt követően az előzetes letartóztatást a törvényszék egyesbíróként eljárva, a nyomozási bíró eljárására vonatkozó szabályok szerint, alkalmanként legfeljebb két hónappal meghosszabbíthatja.
+131. § (1) A vádirat benyújtása előtt elrendelt előzetes letartóztatás az elsőfokú bíróságnak a tárgyalás előkészítése során hozott határozatáig, de legfeljebb egy hónapig tart. Az előzetes letartóztatást a nyomozási bíró az előzetes letartóztatás elrendelésétől számított egy év elteltéig alkalmanként legfeljebb három hónappal, ezt követően alkalmanként legfeljebb két hónappal meghosszabbíthatja.
 
 (2) A vádirat benyújtása előtt az előzetes letartóztatás meghosszabbítása iránt az ügyész az előzetes letartóztatás határidejének lejárta előtt öt nappal tesz indítványt a bíróságnak.
 
-(3) A nyomozási bíró határozata ellen bejelentett fellebbezést a törvényszék másodfokú tanácsa, a törvényszék egyesbíróként hozott határozata elleni fellebbezést az ítélőtábla tanácsa bírálja el.
+(3) A nyomozási bíró határozata ellen bejelentett fellebbezést a törvényszék másodfokú tanácsa bírálja el.
 
 (4) A vádirat benyújtása után az első fokú bíróság által elrendelt vagy fenntartott előzetes letartóztatás az első fokú bíróság ügydöntő határozatának kihirdetéséig tart. Az első fokú bíróság által az ügydöntő határozat kihirdetése után elrendelt vagy fenntartott, illetőleg a másodfokú bíróság által elrendelt előzetes letartóztatás a másodfokú eljárás befejezéséig, a másodfokú bíróság által az ügydöntő határozat kihirdetése után elrendelt vagy fenntartott, illetve a harmadfokú bíróság által elrendelt előzetes letartóztatás a harmadfokú eljárás befejezéséig, de mindegyik esetben legfeljebb a nem jogerős ítélettel kiszabott szabadságvesztés tartamáig tart.
 
@@ -1788,11 +1797,11 @@ indítványozhatja.
 
 142. § (1) A vádirat benyújtása előtt elrendelt ideiglenes kényszergyógykezelés az első fokú bíróságnak a tárgyalás előkészítése során hozott határozatáig tart.
 
-(2) Ha az ideiglenes kényszergyógykezelés megkezdésétől hat hónap eltelt, és az ügyész még nem nyújtott be vádiratot, az ideiglenes kényszergyógykezelés indokoltságát a bíróság felülvizsgálja. A felülvizsgálat iránt az ügyész a határidő lejárta előtt öt nappal tesz indítványt a bíróságnak.
+(2) A bíróság a vádirat benyújtásáig az ideiglenes kényszergyógykezelés indokoltságát annak megkezdésétől számított hat hónap elteltével, ezt követően hathavonta felülvizsgálja. A felülvizsgálat iránt az ügyész a határidő lejárta előtt öt nappal tesz indítványt a bíróságnak.
 
-(3) Az ideiglenes kényszergyógykezelés megkezdésétől számított egy év elteltével annak indokoltságát a törvényszék egyesbíróként eljárva, a vádirat benyújtásáig a nyomozási bíró eljárására vonatkozó szabályok szerint vizsgálja felül. A felülvizsgálat iránt az ügyész a határidő lejárta előtt öt nappal tesz indítványt a bíróságnak.
+(3)
 
-(4) A bíróság (2) bekezdés szerinti határozata ellen bejelentett fellebbezést a törvényszék másodfokú tanácsa, a törvényszék (3) bekezdés szerinti határozata ellen bejelentett fellebbezést az ítélőtábla tanácsa bírálja el.
+(4) A bíróság (2) bekezdés szerinti határozata ellen bejelentett fellebbezést a törvényszék másodfokú tanácsa bírálja el.
 
 143. § (1) A vádirat benyújtása után az első fokú bíróság által elrendelt vagy fenntartott ideiglenes kényszergyógykezelés az első fokú bíróság ügydöntő határozatának kihirdetéséig, az első fokú bíróság által az ügydöntő határozat kihirdetése után elrendelt vagy fenntartott, illetőleg a másodfokú bíróság által elrendelt ideiglenes kényszergyógykezelés a másodfokú eljárás befejezéséig, a másodfokú bíróság által az ügydöntő határozat kihirdetése után elrendelt vagy fenntartott, illetőleg a harmadfokú bíróság által elrendelt ideiglenes kényszergyógykezelés a harmadfokú eljárás befejezéséig, hatályon kívül helyezés és új eljárás lefolytatására utasítás esetén a megismételt eljárásra utasított bíróság ügydöntő határozatának kihirdetéséig tart.
 
@@ -2043,7 +2052,7 @@ vezet.
 
 (2) A bíróság a határozatával az elektronikus hírközlési szolgáltatókat kötelezi az elektronikus adathoz való hozzáférés ideiglenes megakadályozására.
 
-(3) Ha az elektronikus adat feletti rendelkezésre jogosult ismeretlen, az elektronikus adat 158/B. § (4) bekezdés b) pontja szerinti ideiglenes hozzáférhetetlenné tételéről szóló határozatot hirdetményi úton kell kézbesíteni. A hirdetményt tizenöt napra ki kell függeszteni a bíróság hirdetőtáblájára, továbbá közzé kell tenni a bíróságok központi internetes honlapján, a hirdetményi kézbesítésre egyebekben a 70. § (5) és (6) bekezdését kell alkalmazni. Az elektronikus adat feletti rendelkezésre jogosult a határozattal szemben a kézbesítéstől számított nyolc napon belül fellebbezést jelenthet be.
+(3) Ha az elektronikus adat feletti rendelkezésre jogosult ismeretlen, az elektronikus adat 158/B. § (4) bekezdés b) pontja szerinti ideiglenes hozzáférhetetlenné tételéről szóló határozatot hirdetményi úton kell kézbesíteni. A hirdetményi kézbesítésre egyebekben a 70. § (5)–(6b) bekezdését kell alkalmazni. Az elektronikus adat feletti rendelkezésre jogosult a határozattal szemben a kézbesítéstől számított nyolc napon belül fellebbezést jelenthet be.
 
 (4) A bíróság az elektronikus adat 158/B. § (4) bekezdés b) pontja szerinti ideiglenes hozzáférhetetlenné tétele elrendeléséről elektronikus úton haladéktalanul értesíti az NMHH-t.
 
@@ -2647,8 +2656,9 @@ indult eljárás során lehetővé kell tenni, hogy a nyomozási cselekményen a
 (6) A panaszt elbíráló ügyészségnél a kézbesítéstől számított nyolc napon belül felülbírálati indítvány terjeszthető elő
 
 - a) a 70/B. § (8) bekezdése, a 149. § (3) bekezdése és a 150. § (2) bekezdése szerinti határozat elleni panaszt elutasító határozat ellen,
-- b) a gyanúsított vagy a védő által a 185. § (3) bekezdés alapján a nyomozási cselekményről történő eltávolítás elrendelése elleni panaszt elbíráló, illetve a 185. § (4) bekezdés szerinti értesítést mellőző határozat elleni panaszt elutasító határozat ellen, valamint
-- c) a 151. § (2) és (4) bekezdése, a 153. § (2) bekezdése és a 155. § (1) bekezdése szerinti ügyészi határozat elleni panaszt elutasító határozat ellen,
+- b) a gyanúsított vagy a védő által a 185. § (3) bekezdése alapján a nyomozási cselekményről történő eltávolítás elrendelése elleni panaszt elbíráló, illetve a 185. § (4) bekezdése szerinti értesítést mellőző határozat elleni panaszt elutasító határozat ellen,
+- c) a 151. § (2) és (4) bekezdése, a 153. § (2) bekezdése és a 155. § (1) bekezdése szerinti ügyészi határozat elleni panaszt elutasító határozat ellen, valamint
+- d) a nyomozó hatóság 151. § (2) bekezdés b) pontja szerinti határozata elleni panaszt elutasító határozat ellen,
 
 amelyet az ügyészség az iratokkal és indítványával együtt három napon belül megküld a bíróságnak.
 
@@ -2846,7 +2856,7 @@ amelyet az ügyészség az iratokkal és indítványával együtt három napon b
 
 (5) Az ügyész, a gyanúsított és a védő bizonyítás felvételét is indítványozhatja, ha megalapozottan feltehető, hogy az így megszerezhető bizonyítási eszköz a bírósági eljárásban már nem állna rendelkezésre, vagy az addigra jelentős mértékben megváltozna, illetőleg bizonyítási eszköz jellegét elveszítené. Az ügyész, a gyanúsított, a védő, a tanú érdekében eljáró ügyvéd, valamint a kiskorú tanú gondozója és törvényes képviselője a tanúnak vagy kivételes esetben a gyanúsítottnak a zártcélú távközlő hálózat útján történő kihallgatását is indítványozhatja.
 
-(6) A vádirat benyújtása előtt az előzetes letartóztatás egy éven túli meghosszabbítására, valamint az ideiglenes kényszergyógykezelés felülvizsgálatára irányuló eljárást a törvényszék egyesbírája e Címben foglalt rendelkezések szerint folytatja le.
+(6)
 
 ### Illetékesség
 
@@ -4881,9 +4891,9 @@ került sor.
 
 ### Általános rendelkezések
 
-403. § (1) A bíróság határozatának hatályon kívül helyezése vagy az Alkotmánybíróság általi megsemmisítése folytán megismételt eljárásban a XII. Fejezet és a XIII. Fejezet rendelkezéseit az e fejezetben foglalt eltérésekkel kell alkalmazni.
+403. § (1) A bíróság határozatának hatályon kívül helyezése vagy az Alkotmánybíróság általi megsemmisítése esetén az eljárást meg kell ismételni.
 
-(2)
+(2) A megismételt eljárásban a XII. Fejezet és a XIII. Fejezet rendelkezéseit az e fejezetben foglalt eltérésekkel kell alkalmazni.
 
 (3) A megismételt eljárásban a bíróság az ügyet a hatályon kívül helyező határozat, illetve az Alkotmánybíróság megsemmisítő határozata okainak és indokainak figyelembevételével bírálja el.
 
@@ -4923,6 +4933,12 @@ került sor.
 406. § (1) Ha a harmadfokú bíróság vagy a Kúria a másodfokú bíróság határozatát hatályon kívül helyezi, és a másodfokú bíróságot utasítja új eljárásra, vagy az Alkotmánybíróság a másodfokú bíróság határozatát megsemmisíti, a másodfokú bíróság eljárására a XIV. Fejezet rendelkezéseit kell alkalmazni.
 
 (2) Ha az Alkotmánybíróság a harmadfokú bíróság határozatát megsemmisíti, a harmadfokú bíróság eljárására a XV. Fejezet rendelkezéseit kell alkalmazni.
+
+### II/A. CÍM — A RENDKÍVÜLI JOGORVOSLATI ELJÁRÁS MEGISMÉTLÉSE
+
+406/A. § (1) Ha az Alkotmánybíróság a Kúria felülvizsgálati eljárás során hozott határozatát megsemmisíti, a Kúria eljárására a XVIII. Fejezet rendelkezéseit kell alkalmazni.
+
+(2) Ha az Alkotmánybíróság a Kúriának a törvényesség érdekében bejelentett jogorvoslat alapján hozott határozatát megsemmisíti, a Kúria eljárására a XIX. Fejezet rendelkezéseit kell alkalmazni.
 
 ### III. CÍM — TÁRGYALÁS AZ ÜGYEK UTÓLAGOS EGYESÍTÉSEKOR
 
@@ -5405,9 +5421,13 @@ kell végrehajtani.
 
 471. § (1) A katonai büntetőeljárásra tartozó ügyben első fokon a bíróságok elnevezéséről, székhelyéről és illetékességi területének meghatározásáról szóló törvényben kijelölt törvényszék katonai tanácsa jár el.
 
-(2) A katonai büntetőeljárásra tartozó ügyben másodfokon a Fővárosi Ítélőtábla katonai tanácsa jár el. A perújítás megengedhetőségének kérdésében, valamint perújítás elrendelése esetén a perújítási eljárásban hozott ítélet felülbírálata során másodfokon a Fővárosi Ítélőtábla más tanácsa is eljárhat.
+(2) A katonai büntetőeljárásra tartozó ügyben másodfokon a Fővárosi Ítélőtábla katonai tanácsa jár el.
 
-(3) A katonai bíró a nem katonai büntetőeljárásra tartozó ügyekben is eljárhat.
+(3) A nyomozási bíróként eljáró katonai bíró határozata elleni fellebbezést a törvényszék másodfokú tanácsa bírálja el.
+
+(4) A perújítás megengedhetőségének kérdésében, valamint perújítás elrendelése esetén a perújítási eljárásban hozott ítélet felülbírálata során másodfokon a Fővárosi Ítélőtábla más tanácsa is eljárhat.
+
+(5) A katonai bíró a nem katonai büntetőeljárásra tartozó ügyekben is eljárhat.
 
 ### A bíróság összetétele
 
@@ -5553,7 +5573,7 @@ kell végrehajtani.
 
 ### A nyomozási bíró
 
-486. § A katonai büntetőeljárásban a nyomozási bíró feladatait a törvényszék katonai bírája látja el. A katonai bíró mint nyomozási bíró határozata elleni fellebbezést az ítélőtábla katonai tanácsa bírálja el.
+486. § A katonai büntetőeljárásban a nyomozási bíró feladatait a törvényszék katonai bírája látja el. A nyomozási bíróként eljáró katonai bíró határozata elleni fellebbezést a törvényszék másodfokú tanácsa bírálja el.
 
 ### Az eljárás megszüntetése
 
@@ -6042,9 +6062,21 @@ az (1) bekezdésben meghatározottak megfelelő alkalmazásával a bíróság fe
 
 542/K. § Az 542/D. §-ban meghatározott bűncselekmények miatt indult büntetőügyben a 219. § (3) bekezdés és a 262. § (6) bekezdés rendelkezései nem alkalmazhatók.
 
-542/L. § Az 542/D. §-ban meghatározott bűncselekmények miatt indult büntetőügyben a XXI. Fejezet rendelkezései nem alkalmazhatók.
+542/L. § Az 542/D. §-ban meghatározott bűncselekmények miatt indult büntetőeljárásban védő részvétele kötelező.
 
-542/M. § Az 542/D. §-ban meghatározott bűncselekmények miatt indult büntetőeljárásban védő részvétele kötelező.
+### A fiatalkorúak elleni büntetőeljárás
+
+542/M. § (1) Fiatalkorú elleni büntetőeljárásban az 542/J. §-t akkor kell alkalmazni, ha az eljárás a fiatalkorú ellen kizárólag az 542/D. §-ban meghatározott bűncselekmény miatt van folyamatban.
+
+(2) Fiatalkorú elleni büntetőeljárás esetén az egyesbíró az (1) bekezdésben meghatározott esetben tanács elé utalhatja az ügyet.
+
+(3) Ha a fiatalkorú életkorának igazolására nem áll rendelkezésre közokirat, az életkort más módon kell megállapítani.
+
+(4) A nem magyar állampolgár, Magyarországon bejelentett lakóhellyel vagy tartózkodási hellyel nem rendelkező fiatalkorú esetében a környezettanulmány elkészítése nem szükséges, ha az eljárás a fiatalkorú ellen kizárólag a 542/D. §-ban meghatározott bűncselekmény miatt van folyamatban.
+
+(5) Ha környezettanulmány elkészítése szükséges, az a 453. § (2) bekezdésétől eltérően nem tartalmazza a köznevelési intézmény által nyilvántartott és kezelt adatokat, a munkahely által adott tájékoztatást, illetve a bűnmegelőzési szempontú kockázatértékelést.
+
+(6) Ha a bíróság kísérő nélküli fiatalkorú terhelt házi őrizetét rendeli el, a terhelt számára lakásként gyermekvédelmi intézményt is kijelölhet.
 
 ### Bíróság elé állítás
 
@@ -6837,7 +6869,7 @@ felterjeszti. A kegyelmi kérelemnek az eljárás folytatására nincs halasztó
 - k) a bírósági eljárásban az eljárási cselekmény jegyzőkönyv helyett más módon való rögzítésének szabályait, valamint a tárgyalás zártcélú távközlő hálózat útján történő megtartásának részletes szabályait,
 - l) a fogvatartott személy esetében a büntetőeljárás lefolytatása során, továbbá a büntetőügyekben hozott határozatok végrehajtása során a bíróságokra háruló feladatokat az érintett miniszterek egyetértésével kiadott,
 - m) a büntetőeljárás során keletkezett iratokból másolat adását a rendészetért felelős miniszter és a Nemzeti Adó- és Vámhivatalt irányító miniszter egyetértésével kiadott,
-- n) a büntetőeljárásban alkalmazható sajtóhirdetmény útján történő értesítés szabályait a rendészetért felelős miniszter és az államháztartásért felelős miniszter egyetértésével kiadott,
+- n) a büntetőeljárásban alkalmazható hirdetmény útján történő kézbesítés szabályait,
 - o) a bírósági ügyvitel szabályait,
 - p) a fogvatartásban lévő terhelt elmeállapota megfigyelésének és az ideiglenes kényszergyógykezelés végrehajtásának szabályait,
 - q) az elektronikus bírósági iratkezelés részletes szabályait rendeletben állapítsa meg,
@@ -6904,6 +6936,25 @@ az idézésekre, értesítésekre, határozatokra, jegyzőkönyvekre és az elj�
 (3) A (2) bekezdés szerinti külön törvény rendelkezik a Rendőrségről szóló 1994. évi XXXIV. törvény módosításával kapcsolatos rendelkezéseknek [605. § (8)–(12) bek.] a 605. § (1) bekezdésben meghatározott hatálybalépést megelőző hatálybalépéséről is.
 
 606/A. § E törvénynek a büntetőeljárások időszerűségének javítása érdekében szükséges egyes törvények módosításáról szóló 2013. évi CXII. törvénnyel (a továbbiakban: Módtv.) megállapított 16. § (1) bekezdés k), l), r) és s) pontját a Módtv. hatálybalépését követően a bírósághoz érkezett ügyekben kell alkalmazni.
+
+606/B. § (1) E törvénynek az egyes büntetőjogi tárgyú törvények módosításáról szóló 2017. évi XXIX. törvénnyel megállapított 21. § (3) bekezdés a) pontját a folyamatban lévő eljárásokban és a jogerős ítélettel elbírált ügyek tekintetében is alkalmazni kell azzal, hogy
+
+- a) e törvénynek az egyes büntetőjogi tárgyú törvények módosításáról szóló 2017. évi XXIX. törvény hatálybalépésének napját megelőző napon hatályban volt 207. § (6) bekezdésében meghatározott ügyekben, illetve a házi őrizet egy éven túli meghosszabbítása tárgyában a törvényszék egyesbírájaként eljáró bíró a 2013. november 22. után indult büntetőeljárások esetében minősül kizártnak,
+- b) a törvényszék másodfokú tanácsának tagjaként a 215. § (3) bekezdése alapján eljáró bíró a 2016. november 30. után indult büntetőeljárások esetében minősül kizártnak,
+- c) e törvénynek az egyes büntetőjogi tárgyú törvények módosításáról szóló 2017. évi XXIX. törvény hatálybalépésének napját megelőző napon hatályban volt 131. § (3) bekezdése, 138. § (3) bekezdése, 142. § (4) bekezdése, illetve 486. §-a alapján az ítélőtábla tanácsának tagjaként eljáró bíró a 2016. november 30. után indult büntetőeljárások esetében minősül kizártnak.
+
+(2) Az előzetes letartóztatásnak az elrendelésétől számított egy év elteltét követő meghosszabbítása tárgyában a törvényszék egyesbíróként eljárva, a nyomozási bíró eljárására vonatkozó szabályok szerint határoz, ha az előzetes letartóztatás meghosszabbítása iránti ügyészi indítvány az egyes büntetőjogi tárgyú törvények módosításáról szóló 2017. évi XXIX. törvény hatálybalépésének napja előtt a törvényszékhez érkezett.
+
+(3) Az ideiglenes kényszergyógykezelésnek az elrendelésétől számított egy éven túli felülvizsgálata tárgyában a törvényszék egyesbíróként eljárva, a nyomozási bíró eljárására vonatkozó szabályok szerint határoz, ha az ideiglenes kényszergyógykezelés felülvizsgálata iránti ügyészi indítvány az egyes büntetőjogi tárgyú törvények módosításáról szóló 2017. évi XXIX. törvény hatálybalépésének napja előtt a törvényszékhez érkezett.
+
+(4) A házi őrizetnek az elrendelésétől számított egy év elteltét követő meghosszabbítása tárgyában a törvényszék egyesbíróként eljárva, a nyomozási bíró eljárására vonatkozó szabályok szerint határoz, ha a házi őrizet meghosszabbítása iránti ügyészi indítvány az egyes büntetőjogi tárgyú törvények módosításáról szóló 2017. évi XXIX. törvény hatálybalépésének napja előtt a törvényszékhez érkezett.
+
+(5) Az ítélőtábla tanácsa a törvényszék másodfokú tanácsára vonatkozó szabályok szerint bírálja el
+
+- a) a (2)–(4) bekezdés szerinti esetben a törvényszék egyesbírájának a határozata ellen bejelentett fellebbezést,
+- b) az előzetes letartóztatásnak az elrendelésétől számított egy év elteltét követő meghosszabbítása tárgyában a törvényszék egyesbírója által hozott határozat ellen bejelentett fellebbezést, ha a fellebbezés folytán az iratok az egyes büntetőjogi tárgyú törvények módosításáról szóló 2017. évi XXIX. törvény hatálybalépésének napja előtt az ítélőtáblához érkeztek,
+- c) az ideiglenes kényszergyógykezelésnek az elrendelésétől számított egy éven túli felülvizsgálata tárgyában a törvényszék egyesbírója által hozott határozat ellen bejelentett fellebbezést, ha a fellebbezés folytán az iratok az egyes büntetőjogi tárgyú törvények módosításáról szóló 2017. évi XXIX. törvény hatálybalépésének napja előtt az ítélőtáblához érkeztek,
+- d) a házi őrizetnek az elrendelésétől számított egy éven túli meghosszabbítása tárgyában a törvényszék egyesbírója által hozott határozat ellen bejelentett fellebbezést, ha a fellebbezés folytán az iratok az egyes büntetőjogi tárgyú törvények módosításáról szóló 2017. évi XXIX. törvény hatálybalépésének napja előtt az ítélőtáblához érkeztek.
 
 ### Sarkalatossági záradék
 

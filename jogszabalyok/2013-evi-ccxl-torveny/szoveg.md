@@ -150,7 +150,7 @@ során kell alkalmazni.
 - a) azzal a bűncselekménnyel összefüggésben megítélt polgári jogi igény, illetve a polgári bíróság által jogerősen megítélt kártérítés vagy sérelemdíj erejéig van helye, amely miatt kiszabott szabadságvesztés végrehajtása tekintetében a kártalanítást megállapítják, illetve
 - b) a gyermektartásdíj behajtása iránti végrehajtási eljárásban érvényesített követelés erejéig van helye.
 
-(8) A (7) bekezdésben meghatározott esetben, ha a kártalanítás összege nem fedezi a kielégítendő követeléseket, elsősorban a gyermektartásdíj iránti követelést, majd a polgári jogi igényt és vele egy sorban a bűncselekmény miatt megállapított kártérítést vagy sérelemdíjat kell kielégíteni.
+(8) A (7) bekezdésben meghatározott esetben, ha a kártalanítás összege nem fedezi a kielégítendő követeléseket, elsősorban a gyermektartásdíj iránti követelést, majd a polgári jogi igényt és vele egy sorban a bűncselekmény miatt megállapított kártérítést vagy sérelemdíjat kell kielégíteni azzal, hogy ha a kártalanítás összege nem fedezi az azonos soron felsorolt valamennyi követelést, akkor e követeléseket arányosan kell kielégíteni.
 
 10/B. § (1) A megítélt kártalanítás kifizetése iránt az igazságügyért felelős miniszter intézkedik.
 
@@ -1173,7 +1173,7 @@ tegyen újabb előterjesztést.
 
 ### Kártalanítási eljárás az alapvető jogokat sértő elhelyezési körülményekből eredő sérelem orvoslására
 
-70/A. § (1) A büntetés-végrehajtási bíró az alapvető jogokat sértő elhelyezési körülményekből eredő sérelmek miatt az elítélt kártalanításáról az elítélt vagy a védő kérelmére dönt. A büntetés-végrehajtási bíró iratok alapján is meghozhatja a döntést.
+70/A. § (1) A büntetés-végrehajtási bíró az alapvető jogokat sértő elhelyezési körülményekből eredő sérelmek miatt az elítélt kártalanításáról az elítélt vagy a védő kérelmére dönt. A büntetés-végrehajtási bíró iratok alapján is meghozhatja a döntést, továbbá az ügyész véleményének beszerzését mellőzheti.
 
 (2) A kérelmet a bv. intézet a véleményével tizenöt, ha a kérelem több bv. intézetet érint, harminc napon belül továbbítja a büntetés-végrehajtási bíróhoz, azzal, hogy ha az elítélt az alapvető jogot sértő elhelyezési körülmény miatt panaszt nyújtott be, a vélemény felterjesztésére csak a panasz elbírálását követően – ideértve az átszállításról szóló határozattal szembeni bírósági felülvizsgálati kérelmet is – kerülhet sor. A véleményhez csatolni kell a fogvatartotti nyilvántartásnak az elítélt által kifogásolt időszak elhelyezési körülményeire vonatkozó adatait tartalmazó kivonatát.
 
@@ -2341,7 +2341,7 @@ használható fel.
 
 (10) A büntetés-végrehajtási szervezet a felvétel kezelése során köteles megtenni az ahhoz szükséges szervezési, technikai és egyéb adatbiztonsági intézkedéseket, hogy az érintett személy személyes adatait, így különösen magántitkait és magánéletének körülményeit illetéktelen személy tudomására jutásától megóvja.
 
-151. § (1) Az elítélt motozását, illetve a ruházat átvizsgálását – ide nem értve a motozásnál közreműködő orvost, valamint a technikai eszközzel történő ruházatátvizsgálást – az elítélttel azonos nemű személy végezheti.
+151. § (1) A motozás az elítélt testének és ruházatának, valamint a nála lévő személyes tárgyainak az átvizsgálása. Az elítélt motozását – ide nem értve a motozásnál közreműködő orvost és egészségügyi szakszemélyzetet, valamint a technikai eszközzel történő ruházatátvizsgálást végző személyt – az elítélttel azonos nemű személy végezheti.
 
 (2) A motozás nem történhet megalázó, szeméremsértő módon.
 
@@ -5651,7 +5651,7 @@ felelős.
 - h) a bv. intézetben fogvatartott elítéltekkel és egyéb jogcímen fogvatartottakkal kapcsolatos kártérítési eljárás szabályait a büntetés-végrehajtásért felelős miniszterrel egyetértésben,
 - i) a bv. intézetben fogvatartott elítéltek és egyéb jogcímen fogvatartottak egészségügyi ellátásának szabályait a büntetés-végrehajtásért felelős miniszterrel egyetértésben,
 - j)
-- k) a Börtönlelkészi Szolgálatra vonatkozó szabályokat a büntetés-végrehajtásért felelős miniszterrel és az egyházakkal való kapcsolattartás koordinációjáért felelős miniszterrel egyetértésben,
+- k) a börtönlelkészi szolgálatra és a börtönmissziós tevékenységre vonatkozó szabályokat a büntetés-végrehajtásért felelős miniszterrel és az egyházakkal való kapcsolattartás koordinációjáért felelős miniszterrel egyetértésben,
 - l) a büntetés-végrehajtási intézetben fogvatartott elítéltek és egyéb jogcímen fogvatartottak letétjének kezelésére és a birtokukban lévő külföldi fizetőeszközzel kapcsolatos eljárásra vonatkozó szabályokat a büntetés-végrehajtásért felelős miniszterrel egyetértésben.
 
 (3) Felhatalmazást kap a büntetés-végrehajtásért felelős miniszter, hogy rendeletben állapítsa meg
