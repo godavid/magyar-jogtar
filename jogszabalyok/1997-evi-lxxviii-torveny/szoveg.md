@@ -569,7 +569,7 @@ kivételével más építési munkát végezni nem szabad.
 - a) telepítési hatásvizsgálati szakasz,
 - b) integrált építési engedélyezési szakasz.
 
-(3) Az összevont telepítési eljárást építésügyi hatósági szolgáltatás előzi meg.
+(3)
 
 (4) A telepítési hatásvizsgálati szakaszban az építésügyi hatóság döntése
 
@@ -673,25 +673,35 @@ kivételével más építési munkát végezni nem szabad.
 
 ### Egyszerű bejelentéshez kötött építési tevékenység
 
-33/A. § (1) A legfeljebb 300 négyzetméter összes hasznos alapterületű új lakóépület építése, valamint műemlék kivételével meglévő lakóépület 300 négyzetméter összes hasznos alapterületet meg nem haladó méretűre bővítése és a legfeljebb 300 négyzetméter összes hasznos alapterületű lakóépület kormányrendeletben meghatározottá átalakítása és ezen építési munkákhoz szükséges tereprendezés, támfalépítés esetén
+33/A. § (1) Egyszerű bejelentéssel történik
+
+- a) a 300 négyzetméter összes hasznos alapterületet meg nem haladó új lakóépület építése,
+- b) műemlék kivételével, a meglévő lakóépület 300 négyzetméter összes hasznos alapterületet meg nem haladó méretűre bővítése, valamint
+- c) az a) és b) pontban foglalt építési munkákhoz szükséges tereprendezés, támfalépítés.
+
+(2) A természetes személy építtető egyszerű bejelentéssel bejelenti a 300 négyzetméter összes hasznos alapterületet meghaladó új lakóépületet érintő építési tevékenységet, ha azt saját lakhatás biztosítása céljából végzi és az így megépült új lakóépület egy lakásnál többet nem tartalmaz.
+
+(3) A természetes személy építtető – műemlék kivételével – egyszerű bejelentéssel bejelenti a meglévő lakóépület 300 négyzetméter összes hasznos alapterületet meghaladó bővítésére irányuló építési tevékenységet, ha azt saját lakhatása biztosítására szolgáló lakóépület tekintetében végzi.
+
+(4) Egyszerű bejelentéssel folytatott építési tevékenység esetén
 
 - a) az építtető az építési tevékenységet a kivitelezés tervezett megkezdése előtt tizenöt nappal – kormányrendeletben meghatározottak szerint – a nevének és lakcímének, szervezet esetén a megnevezésének és székhelyének megjelölésével, kizárólag elektronikus úton bejelenti a kormányrendeletben kijelölt szervnek,
 - b) ha a tervező a tervezés során a közműellátás és az égéstermék-elvezető megvalósítása érdekében az arra jogosult szolgáltató hozzájárulását vagy jóváhagyását kéri, és arra nyolc napon belül nem kap érdemi választ, a hozzájárulást vagy jóváhagyást megadottnak kell tekinteni,
 - c) a bejelentéshez kormányrendeletben meghatározott tartalmú kivitelezési dokumentációt kell mellékelni,
 - d) a bejelentéstől a kormányrendeletben meghatározottak szerint lehet eltérni.
 
-(1a) Az (1) bekezdés szerinti építési tevékenység esetén az építtető köteles építész tervezőt tervezői művezetésre megbízni.
+(5) Az egyszerű bejelentéssel folytatott építési tevékenység esetén az építtető köteles építész tervezőt tervezői művezetésre megbízni.
 
-(2) Az (1) bekezdés szerinti építési tevékenységet a bejelentéstől számított tíz éven belül meg kell valósítani és a felépítés megtörténtét tanúsító hatósági bizonyítványt kell kérni a kormányrendeletben kijelölt szervtől.
+(6) Az egyszerű bejelentéssel folytatott építési tevékenységet a bejelentéstől számított tíz éven belül meg kell valósítani és a felépítés megtörténtét tanúsító hatósági bizonyítványt kell kérni a kormányrendeletben kijelölt szervtől.
 
-(3) Ha a bejelentéstől számított tíz éven belül nem valósították meg az (1) bekezdés szerinti építési tevékenységet,
+(7) A (6) bekezdés szerinti hatósági bizonyítvány kiállításától számított 5 évig a (2) vagy (3) bekezdés szerinti építési tevékenységgel érintett lakóépület rendeltetése akkor sem változtatható meg, ha egyébként a rendeltetésváltoztatás jogszabályi feltételei fennállnak. E tényt a (6) bekezdés szerinti hatósági bizonyítványban fel kell tüntetni.
+
+(8) Ha a bejelentéstől számított tíz éven belül nem valósították meg az (1)–(3) bekezdés szerinti építési tevékenységet,
 
 - a) új lakóépület építése esetén az elkészült építményt le kell bontani,
-- b) meglévő lakóépület bővítése esetén az építési tevékenységgel érintett építményrészt a visszamaradó lakóépület állékonyságára és rendeltetésszerű használatára tekintettel le kell bontani,
+- b) meglévő lakóépület bővítése esetén az építési tevékenységgel érintett építményrészt a visszamaradó lakóépület állékonyságára és rendeltetésszerű használatára tekintettel le kell bontani, és a terep felszínének eredeti állapotát vissza kell állítani.
 
-és a terep felszínének eredeti állapotát vissza kell állítani.
-
-(4) A (2) bekezdés szerinti hatósági bizonyítványért az 1. mellékletben meghatározott igazgatási szolgáltatási díjat kell fizetni.
+(9) A (6) bekezdés szerinti hatósági bizonyítványért miniszteri rendeletben meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
 
 ### Építésügyi hatósági eljárások
 
@@ -909,7 +919,7 @@ helyszíni szemle alapján hatósági bizonyítványt állít ki.
   - bb) résztvevőinek jogosultságát,
   - bc) végzéséhez előírt építési napló meglétének, vezetésének módját és tartalmát,
   - bd) folytatásához előírt kivitelezési dokumentáció(rész) meglétét,
-- c) a jókarbantartási kötelezettség teljesítése körében ellenőrzést és eljárást folytat le,
+- c)
 - d) a szabálytalan építési tevékenység feltárása érdekében a Nyilvántartás igénybevételével építésrendészeti ellenőrzést és eljárást folytat le,
 - e) az ellenőrzései alapján szankciót állapít meg, ennek keretében
   - ea) építésfelügyeleti intézkedést tesz,
@@ -925,16 +935,14 @@ helyszíni szemle alapján hatósági bizonyítványt állít ki.
   - bb) megtiltja és a szabálytalan állapot megszüntetését elrendeli, továbbá építésfelügyeleti bírságot szabhat ki, ha az építőipari kivitelezési tevékenység végzése az állékonyságot, az életet és az egészséget vagy a közbiztonságot közvetlenül veszélyezteti,
   - bc) építési napló hiányában megtiltja,
 - c) a (2) bekezdés b) pont bb) alpontja és a (2) bekezdés e) pontja szerinti feladatkörében hatósági eljárást folytat le, építésfelügyeleti bírságot szabhat ki, vagy a szükséges intézkedések megtétele érdekében megkeresi az eljárásra hatáskörrel rendelkező hatóságot vagy szervet, ha az ellenőrzése során azt állapítja meg, hogy a résztvevők nem rendelkeznek az előírt jogosultsággal, nem megfelelő a jogosultságuk, nem rendelkeznek az előírt regisztrációval vagy nem a regisztrációjuknak megfelelő tevékenységet végeznek,
-- d) a (2) bekezdés c) pontja szerinti feladatkörében jogszabályban meghatározott ellenőrzést végez a meglévő építmények körében, az ellenőrzésen tapasztaltak eredményeképpen
-  - da) kötelezheti az építmény tulajdonosát a szükséges munkálatok elvégzésére,
-  - db) elrendeli az építmény felülvizsgálatát, a szükség szerinti építési munkák elvégzését, ha az építmény állapota az állékonyságot, az életet és az egészséget, a köz- és vagyonbiztonságot veszélyezteti.
+- d)
 - e) a (2) bekezdés d) pontja szerinti feladatkörében az ellenőrzésen tapasztaltak eredményeképpen
   - ea) az építőipari kivitelezési tevékenység folytatását megtilthatja,
   - eb) a szabálytalan állapot megszüntetése érdekében bontást, átalakítást rendel el, vagy a fennmaradási engedélyezés feltételeinek fennállása esetén megkeresi az eljárás lefolytatására hatáskörrel rendelkező építésügyi hatóságot.
 
 (4) Az építésfelügyeleti hatóság a hatósági ellenőrzést a megindításától számított 60 napon belül lefolytatja. Szabálytalanság észlelése esetén haladéktalanul megindítja a (2) bekezdés szerinti intézkedések megtételére irányuló eljárást. Ezen intézkedéseknek
 
-- a) a (2) bekezdés a)–c) pontja esetében a szabálytalan tevékenységtől számított öt éven belül,
+- a) a (2) bekezdés a) és b) pontja esetében a szabálytalan tevékenységtől számított öt éven belül,
 - b) a (2) bekezdés d)–e) pontja esetében a szabálytalan tevékenységtől számított tíz éven belül
 
 van helyük.
@@ -949,14 +957,15 @@ van helyük.
 
 (2) Az építésügyi hatóságnak külön kormányrendeletben foglaltak szerint el kell rendelnie:
 
-- a) az építmény, építményrész részleges vagy teljes átalakítását, – amennyiben ez nem lehetséges, vagy ha az építtető ezt nem vállalja – a lebontását vagy az újraépítését, ha a kivitelezés az állékonyságot, az életet és egészséget, a köz- és vagyonbiztonságot veszélyeztető módon történik,
-- b) az építmény, építményrész állékonyságát, az életet, egészséget, a köz- és vagyonbiztonságot veszélyeztető állapot és használat megszüntetését,
+- a) az építmény, építményrész részleges vagy teljes átalakítását, – amennyiben ez nem lehetséges, vagy ha az építtető ezt nem vállalja – a lebontását vagy az újraépítését, ha a kivitelezés az állékonyságot, az életet és egészséget, a közbiztonságot veszélyeztető módon történik,
+- b) az építmény, építményrész állékonyságát, az életet, egészséget, a közbiztonságot veszélyeztető állapot és használat megszüntetését,
 - c) az építmény, építményrész hibáinak, hiányosságainak megszüntetését,
-  - ca) ha azt rendeltetésszerű és biztonságos használatra nem alkalmas módon építették meg, vagy ezáltal idegen ingatlanban az állékonyságot, az életet és egészséget, a köz- és vagyonbiztonságot veszélyeztető állapot keletkezett,
+  - ca) ha azt rendeltetésszerű és biztonságos használatra nem alkalmas módon építették meg, vagy ezáltal idegen ingatlanban az állékonyságot, az életet és egészséget, a közbiztonságot veszélyeztető állapot keletkezett,
   - cb)–cc)
 - d) az építésügyi hatósági eljárásban záradékolt építészeti-műszaki dokumentációnak megfelelő állapot kialakítását, amennyiben a jogerős és végrehajtható építési engedélytől való eltérés építési engedélyhez kötött, de attól építésügyi hatósági engedély nélkül tértek el,
-- e) az építmény környezetéből az építési tevékenység során keletkezett építési hulladék, maradék építőanyag és építési segédeszközök elszállítását, a környezetnek és a terep felszínének az eredeti vagy az engedélyezett állapotban történő kialakítását, a környezetben okozott károk megszüntetését, valamint
-- f) energetikai tanúsítvány elkészíttetését.
+- e) az építmény környezetéből az építési tevékenység során keletkezett építési hulladék, maradék építőanyag és építési segédeszközök elszállítását, a környezetnek és a terep felszínének az eredeti vagy az engedélyezett állapotban történő kialakítását, a környezetben okozott károk megszüntetését,
+- f) energetikai tanúsítvány elkészíttetését,
+- g) az építmény jókarbantartására vonatkozó kötelezettség teljesítését vagy az építmény felülvizsgálatát, szükség szerinti átalakítását, felújítását, helyreállítását vagy lebontását, ha annak állapota az állékonyságot, az életet és egészséget, a közbiztonságot veszélyezteti.
 
 (3) Az építésügyi vagy építésfelügyeleti hatóság megkeresésére az ingatlan-nyilvántartásba az (1)–(2) bekezdés, valamint a 46. § (3) bekezdés e) pont eb) alpontja szerint elrendelt jogerős és végrehajtható kötelezettséget be kell jegyezni.
 
@@ -982,8 +991,10 @@ megkezdett és végzett tevékenység.
   - ac) az engedély jogerőssé válása nélkül – kivéve, ha a döntés fellebbezésre tekintet nélkül végrehajthatóvá válik –, vagy
   - ad) a jogerős engedély végrehajthatóságának felfüggesztése ellenére;
 - b) a 33/A. § szerinti egyszerű bejelentéshez kötött építési tevékenységet
-  - ba) bejelentés nélkül, vagy
-  - bb) bejelentéssel, de a 300 négyzetméter összes hasznos alapterületet meghaladva,
+  - ba) bejelentés nélkül,
+  - bb) természetes személy esetében 300 négyzetméter összes hasznos alapterületet meghaladóan nem saját lakhatás biztosítása érdekében, illetve a megépült lakóépületben nem csak egy lakást kialakítva,
+  - bc) természetes személy esetében a meglévő lakóépület 300 négyzetméter összes hasznos alapterületet meghaladó bővítését nem saját lakhatás biztosítása céljából, nem saját lakhatásra szolgáló lakóépület tekintetében, vagy
+  - bd) természetes személy építtető kivételével, 300 négyzetméter összes hasznos alapterületet meghaladó lakóépület esetében bejelentéssel
 - c) ahhoz jogszabály alapján építési napló vezetése szükséges és a tevékenységet építési napló hiányában
 
 végzik.
@@ -997,16 +1008,16 @@ végzik.
 - a) azt – a 33/A. § szerinti építési tevékenység kivételével – a helyi építési szabályzat rendelkezéseitől eltérően végzik,
 - b) a 33/A. § szerinti építési tevékenység esetén a 13. § (2) bekezdésében foglaltaktól eltérően végzik,
 - c) az alapvető követelmények, a tevékenységre vonatkozó szakmai szabályok, előírások megsértésével végzik, vagy
-- d) a tevékenység végzése az életet, az egészséget, a köz- és vagyonbiztonságot veszélyeztető állapotot vagy használatot eredményez.
+- d) a tevékenység végzése az életet, az egészséget, a közbiztonságot veszélyeztető állapotot vagy használatot eredményez.
 
 48/A. § (1) Ha az építményt, építményrészt jogszerűtlenül vagy szakszerűtlenül valósították meg, az építésügyi hatóság arra az építtető vagy a tulajdonos kérelme alapján – amennyiben az építmény, építményrész fennmaradása nem eredményez az életet, egészséget veszélyeztető használatot vagy állapotot – fennmaradási engedélyt ad, ha
 
 - a) az e törvényben, az egyéb jogszabályban meghatározott műszaki és egyéb feltételek teljesülnek, vagy az építményt, építményrészt építési vagy más tevékenységgel szabályossá teszi, vagy
 - b) az műemlékvédelmi érdeket nem sért.
 
-(1a) Az (1) bekezdés szerint kiadott fennmaradási engedély nem mentesít a 33/A. § (2) és (3) bekezdése rendelkezéseinek alkalmazása alól.
+(1a) Az (1) bekezdés szerint kiadott fennmaradási engedély nem mentesít a 33/A. § (6) és (7) bekezdése rendelkezéseinek alkalmazása alól.
 
-(2) Ha az építményt, építményrészt jogszerűtlenül vagy szakszerűtlenül valósították meg az építésügyi hatóság vagy jogszabályban meghatározott esetekben az építésfelügyeleti hatóság elrendeli:
+(2) Ha az építményt, építményrészt jogszerűtlenül vagy szakszerűtlenül valósították meg az építésügyi hatóság elrendeli:
 
 - a) a szabályossá tétel érdekében szükséges munkálatok elvégzését, vagy
 - b) – ha az építmény fennmaradása az (1) bekezdés alapján nem engedélyezhető – a lebontását.
@@ -1028,7 +1039,7 @@ végzik.
 
 (8) Amennyiben a fennmaradás engedélyezésének feltételei fennállnak – kérelemre – a fennmaradási engedély kiadható akkor is, ha az (5) bekezdésben meghatározott intézkedési határidő már letelt. Ebben az esetben azonban átalakítási kötelezettséget előírni és építésügyi bírságot megállapítani már nem lehet.
 
-49. § (1) Ha az építésügyi hatóság a 48. § szerint a fennmaradási engedélyt megadja, illetőleg a lebontást tudomásul veszi, ezzel egyidejűleg – a Kormány rendeletében meghatározott mértékben és módon – építésügyi bírságot szab ki.
+49. § (1) Ha az építésügyi hatóság a 48/A. § szerint a fennmaradási engedélyt megadja, illetőleg a lebontást tudomásul veszi, ezzel egyidejűleg – a Kormány rendeletében meghatározott mértékben és módon – építésügyi bírságot szab ki.
 
 (2) Ha az építtető a szabálytalanul megépített építményt, építményrészt a kiszabott építésügyi bírság megfizetésére előírt határidő lejárta előtt lebontja, vagy a szabálytalanságot megszünteti, az építésügyi hatóság a bírságot elengedi. Egyéb esetekben a kiszabott építésügyi bírság nem engedhető el.
 
@@ -1468,6 +1479,8 @@ hatályban lévő, településrendezési eszközre vonatkozó előírásai.
 
 60/D. § Az egyszerű bejelentés körének bővítésére és az építésügy területén érvényesítendő további bürokráciacsökkentésre vonatkozóan az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény módosításáról szóló 2016. évi CLXXIII. törvénnyel megállapított 57/E. §-t a folyamatban lévő másodfokú eljárásokban is alkalmazni kell.
 
+60/E. § Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvénynek az egyszerű bejelentés 300 négyzetméternél nagyobb lakóingatlan nem kereskedelmi célú építésére történő kiterjesztésével összefüggő módosításáról szóló 2017. évi XXIV. törvény hatálybalépése előtt indult építésügyi engedélyezési eljárások esetében az építési engedélyezési eljárást a kérelem benyújtása napján hatályos rendelkezések szerint kell lefolytatni.
+
 61. § (1) Ahol jogszabály
 
 - a) általános rendezési tervet említ, azon településszerkezeti tervet,
@@ -1543,7 +1556,7 @@ rendeletben állapítsa meg.
 (3) Felhatalmazást kap a miniszter arra, hogy – az adópolitikáért felelős miniszterrel egyetértésben – rendelettel állapítsa meg
 
 - 1. a szakmagyakorlási jogosultságok megállapításával, névjegyzékek vezetésével kapcsolatos igazgatási szolgáltatási díjak beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat,
-- 2. az építésügyi hatóság által nyújtott szolgáltatás díjának mértékét és a díjfizetés részletes szabályait,
+- 2. az építésügyi és az építésfelügyeleti hatóság által nyújtott szolgáltatás díjának mértékét és a díjfizetés részletes szabályait,
 - 3. az építésügyi hatóságot szakkérdés vizsgálatáért megillető eljárási költségek körét, mértékét, annak beszedésével, kezelésével, nyilvántartásával kapcsolatos részletes szabályokat.
 
 (4) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy az illetékekről szóló törvény szerinti termőföld birtokösszevonási célú telekcsoport-újraosztására és telekegyesítésére irányuló eljárás kivételével a telekalakítási eljárásért fizetendő igazgatási szolgáltatási díj mértékét és a díjfizetés részletes szabályait az adópolitikáért felelős miniszterrel egyetértésben, rendelettel állapítsa meg.
@@ -1576,15 +1589,3 @@ rendeletben állapítsa meg.
 63. § Ez a törvény az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről szóló, 2004. április 29-i 2004/38/EK európai parlamenti és tanácsi irányelv 24. cikkének, az Európai Parlament és a Tanács a belső piaci szolgáltatásokról szóló 2006/123/EK irányelv (2006. december 12.) 9. és 16. cikkének való megfelelést szolgálja, továbbá az épületek energiahatékonyságáról szóló 2010/31/EU irányelv 2. cikk 12. pontjával, 18. és 27. cikkével összeegyeztethető szabályozást tartalmaz.
 
 ### 1. melléklet az 1997. évi LXXVIII. törvényhez
-
-|  | A | B |
-| --- | --- | --- |
-| 1. | A bejelentéstől számított évek száma | Fizetendő igazgatási szolgáltatási díj |
-| 2. | 0–3 | díjmentes |
-| 3. | 3–4 | 200 000 forint |
-| 4. | 4–5 | 400 000 forint |
-| 5. | 5–6 | 600 000 forint |
-| 6. | 6–7 | 800 000 forint |
-| 7. | 7–8 | 1 000 000 forint |
-| 8. | 8–9 | 1 200 000 forint |
-| 9. | 9–10 | 1 400 000 forint |
