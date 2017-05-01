@@ -188,7 +188,7 @@ határidőt határozhat meg.
 
 (2) Nem kell beszerezni az (1) bekezdés szerinti beleegyezést, ha az Európai Unió tagállamának bűnüldöző szerve az információcsere iránti megkeresés teljesítésekor beleegyezését adta az információ bizonyítékként történő felhasználásába.
 
-16/E. § Ha a 16/A. § szerinti információcsere iránti megkeresés az Európai Unióról szóló Szerződés K.3. cikkén alapuló, az Európai Rendőrségi Hivatal létrehozásáról szóló, 1995. július 26-án kelt Egyezmény (Europol Egyezmény) és Jegyzőkönyveinek kihirdetéséről, valamint a Rendőrségről szóló 1994. évi XXXIV. törvény módosításáról szóló 2006. évi XIV. törvény mellékletében meghatározott bűncselekmények valamelyikére vonatkozik, a magyar bűnüldöző szerv az információcsere iránti megkeresést megküldi a Rendőrségnek az Európai Rendőrségi Hivatallal (a továbbiakban: EUROPOL) való együttműködésért felelős szervezeti egységének is.
+16/E. § Ha a 16/A. § szerinti információcsere iránti megkeresés a Bűnüldözési Együttműködés Európai Uniós Ügynökségéről (EUROPOL), valamint a 2009/371/IB, a 2009/934/IB, a 2009/935/IB, a 2009/936/IB és a 2009/968/IB tanácsi határozat felváltásáról és hatályon kívül helyezéséről szóló 2016/794/EU európai parlamenti és tanácsi rendelet I. mellékletében meghatározott bűncselekmények valamelyikére vonatkozik, a magyar bűnüldöző szerv az információcsere iránti megkeresést megküldi a rendőrségnek a Bűnüldözési Együttműködés Európai Uniós Ügynökségével (a továbbiakban: EUROPOL) való együttműködésért felelős szervezeti egységének is.
 
 16/F. § (1) A külön jogszabályban meghatározott nyomozó hatóság a bűncselekményből származó jövedelmek és bűncselekményekhez kapcsolódó más vagyon felkutatásának és azonosításának elősegítése érdekében az Európai Unió más tagállamának erre a feladatra kijelölt közigazgatási, bűnüldözési vagy igazságügyi hatóságától közvetlenül tájékoztatást kérhet, illetve annak tájékoztatást adhat.
 
@@ -490,6 +490,8 @@ határidőt határozhat meg.
 - d) az Európai Unió 1997. december 18-án elfogadott Egyezménye a vámszervek közötti kölcsönös segítségnyújtásról és együttműködésről (Nápoly II Egyezmény);
 - e) az Európai Unió az Európai Rendőrségi Hivatal létrehozásáról szóló Egyezményének 2002. november 28-án elfogadott Kiegészítő Jegyzőkönyve,
 - f) az Európai Unió tagállamainak különleges intervenciós egységei közötti együttműködés javításáról válsághelyzetekben szóló, 2008. június 23-i 2008/617/IB tanácsi határozat e törvény 2. § 9. és 10. pontjával, 8. § l) pontjával, és 42/A–42/D. §-ával.
+
+(3) Ez a törvény a Bűnüldözési Együttműködés Európai Uniós Ügynökségéről (Europol), valamint a 2009/371/IB, a 2009/934/IB, a 2009/935/IB, a 2009/936/IB és a 2009/968/IB tanácsi határozat felváltásáról és hatályon kívül helyezéséről szóló, 2016. május 11-i (EU) 2016/794 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 ### 1. melléklet a 2002. évi LIV. törvényhez
 

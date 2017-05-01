@@ -245,32 +245,34 @@ terjed ki.
 
 (3) Az (5) bekezdésben foglaltak kivételével írásbelinek kell tekinteni a jognyilatkozatot, ha annak közlése a jognyilatkozatban foglalt információ változatlan visszaidézésére, a nyilatkozattevő személyének és a jognyilatkozat megtétele időpontjának azonosítására alkalmas elektronikus dokumentumban (a továbbiakban: elektronikus dokumentum) kerül sor.
 
-(4) A nyilatkozatevő személyének (3) bekezdés szerinti azonosításához nem szükséges a nyilatkozattevő elektronikus aláírása vagy minősített elektronikus aláírása.
+(4) A nyilatkozattevő személyének (3) bekezdés szerinti azonosításához nem szükséges a nyilatkozattevő fokozott biztonságú vagy minősített elektronikus aláírása.
 
 (5) A kinevezés és annak elfogadása, a kinevezés módosítása, a közszolgálat megszüntetésével kapcsolatos jognyilatkozat, a fegyelmi, kártérítési ügyben hozott határozat, a sérelemdíj megfizetése ügyében hozott határozat, az összeférhetetlenség megszüntetésére irányuló felszólítás és a fizetési felszólítás a munkáltatói jogkör gyakorlója részéről elektronikusan legalább fokozott biztonságú elektronikus aláírással kiadmányozható.
 
-(6) Az (5) bekezdés szerint elektronikusan kiadmányozott jognyilatkozatról a munkáltatói jogkör gyakorlója által írásban kijelölt, vagy a szervezeti és működési szabályzatban erre feljogosított személy öt napon belül záradékolással hiteles papír alapú kiadmányt készít. A záradéknak tartalmaznia kell a záradékolásra jogosult személy aláírását, a záradékolás keltét és szöveges utalást arra, hogy a papír alapú kiadmány az alapul szolgáló elektronikusan hitelesített irattal megegyezik. A közszolgálati tisztviselővel a papír alapú kiadmányt kell közölni.
+(6) Az írásbeli jognyilatkozat akkor minősül közöltnek, ha azt a címzettnek vagy az átvételre jogosult más személynek átadják, illetve az elektronikus dokumentum részükre hozzáférhetővé válik. A közlés akkor is hatályos, ha a címzett vagy az átvételre jogosult más személy az átvételt megtagadja vagy szándékosan megakadályozza. Erről jegyzőkönyvet kell felvenni.
 
-(7) Többoldalú jognyilatkozat esetén, ha a munkáltatói jogkör gyakorlója az iratot az (5) bekezdés szerint elektronikusan írja alá, az akarategységet hitelesen tükröző kiadmány az a papír alapú kiadmány, amely a munkáltatói jogkör gyakorlójának legalább fokozott biztonságú aláírását tartalmazó elektronikus iratról – a (6) bekezdés rendelkezései alapján – készült és egyidejűleg tartalmazza az iratot nem elektronikusan aláíró személy aláírását is.
+(7) Az elektronikus dokumentum akkor válik hozzáférhetővé, amikor a címzettnek vagy az átvételre jogosult más személynek lehetősége nyílik arra, hogy annak tartalmát megismerje.
 
-(8) Az írásbeli jognyilatkozatokat az államigazgatási szerveknél foglalkoztatott közszolgálati tisztviselők esetében a (3) bekezdés szerinti elektronikus dokumentumban kell kiadni vagy az (5) és (6) bekezdés szerint kell kiadmányozni.
+(8) Papír alapú kiadmány esetében a (6) bekezdésben foglaltakon túlmenően a postai szolgáltatásokról szóló jogszabály szerint tértivevény többletszolgáltatással feladott küldeményként kézbesített jognyilatkozatot,
+
+- a) ha a címzett vagy az átvételre jogosult más személy a küldemény átvételét megtagadta, vagy a címzett által bejelentett elérhetőségi címen a kézbesítés a cím azonosíthatatlansága, a címzett ismeretlensége vagy elköltözése miatt meghiúsult, a kézbesítés megkísérlésének napján,
+- b) ha a küldemény „nem kereste” kézbesíthetetlenségi ok jelzés feltüntetésével érkezik vissza, az értesítés elhelyezésének napját követő ötödik munkanapon
+
+kézbesítettnek kell tekinteni.
+
+(9) Vita esetén a jognyilatkozatot tevő felet terheli annak bizonyítása, hogy a közlés szabályszerűen megtörtént.
+
+(10) Az írásbeli jognyilatkozatokat a kormánytisztviselők esetében a (3) és (5) bekezdés szerint kell kiadmányozni és a (6) bekezdés, valamint a 21. § szerint kézbesíteni.
 
 ### A jognyilatkozat közlése
 
-21. § (1) Az írásbeli jognyilatkozat akkor tekinthető közöltnek, ha azt a címzettnek vagy az átvételre jogosult más személynek átadják, illetve az elektronikus dokumentum részükre hozzáférhetővé válik. A közlés akkor is hatályos, ha a címzett vagy az átvételre jogosult más személy az átvételt megtagadja vagy szándékosan megakadályozza.
+21. § (1) Az elektronikus dokumentum kézbesítésére az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) 14. §-ában és a 15. § (2) és (3) bekezdésében foglalt rendelkezéseket a (3) bekezdésben foglalt eltérésekkel megfelelően alkalmazni kell azzal, hogy ügyfél alatt közszolgálati tisztviselőt, elektronikus ügyintézést biztosító szerv alatt pedig az államigazgatási szervet kell érteni.
 
-(2) Az elektronikus dokumentum akkor válik hozzáférhetővé, amikor a címzettnek vagy az átvételre jogosult más személynek lehetősége nyílik arra, hogy annak tartalmát a közszolgálatból eredő kötelezettsége teljesítésével összefüggésben megismerje.
+(2) A közszolgálati tisztviselő köteles az írásbeli jognyilatkozatok elektronikus aláírása és az elektronikus dokumentumok kézhezvételének visszaigazolása érdekében az E-ügyintézési tv. szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatással és az ehhez tartozó biztonságos kézbesítési szolgáltatásra alkalmas tárhellyel rendelkezni és a biztonságos kézbesítési szolgáltatásra alkalmas elektronikus elérhetőségét a foglalkoztatójával közölni. A közszolgálati tisztviselő e kötelezettségét – ha törvény eltérően nem rendelkezik – a kinevezését követő 15 napon belül köteles teljesíteni.
 
-(2a) Ha a munkáltató a jognyilatkozatot az elektronikus dokumentum hozzáférhetővé tétele útján közölte, és a címzett vagy az átvételre jogosult más személy az elektronikus dokumentum átvételét öt napon belül nem igazolja vissza, a munkáltató másik írásbeli formában közli vele a jognyilatkozatot. Ilyen esetben a jognyilatkozat közlésének napja a második közlés napja.
+(3) Az E-ügyintézési tv. 15. § (3) bekezdésétől eltérően, ha a szolgáltató azt igazolja vissza, hogy a küldeményt a címzett kétszeri értesítése ellenére nem vette át, az elektronikus dokumentumot kézbesítettnek kell tekinteni a második értesítés igazolásban feltüntetett időpontját követő ötödik munkanapon.
 
-(3) Az (1) bekezdésben foglaltakon túlmenően a postai szolgáltatásokról szóló jogszabály szerint tértivevény különszolgáltatással feladott küldeményként kézbesített jognyilatkozatot,
-
-- a) ha a címzett vagy az átvételre jogosult más személy a küldemény átvételét megtagadta, vagy a címzett által bejelentett elérhetőségi címen a kézbesítés a címzett ismeretlensége vagy elköltözése miatt meghiúsult, a kézbesítés megkísérlésének napján,
-- b) egyéb esetekben az eredménytelen kézbesítési kísérlet, valamint az értesítés elhelyezésének napját követő ötödik munkanapon kézbesítettnek kell tekinteni.
-
-(4) Az olyan jognyilatkozattal kapcsolatban, amely tekintetében e törvény alapján bírósági eljárásnak van helye, a (3) bekezdésben szabályozott kézbesítési vélelem megdöntése iránt az eljárás kezdeményezésével egyidejűleg, a kézbesítési vélelem beálltáról való tudomásszerzéstől számított tizenöt napon, de legkésőbb a vélelem beálltától számított hat hónapon belül terjeszthető elő kérelem a bíróságnál. A kézbesítési vélelem megdöntésére egyebekben a polgári perrendtartásról szóló törvény rendelkezéseit kell megfelelően alkalmazni. A vélelem megdöntése esetén a bírósági eljárás kezdeményezésére előírt határidőt megtartottnak kell tekinteni.
-
-(5) Vita esetén a jognyilatkozatot tevő felet terheli annak bizonyítása, hogy a közlés szabályszerűen megtörtént.
+(4) Ha az elektronikus dokumentum elektronikus kézbesítése (vagy a kézbesítési vélelem szabályainak alkalmazása) bármely okból nem lehetséges, vagy az a jogviszony létesítéséről rendelkezik, az elektronikusan kiadmányozott jognyilatkozatról a munkáltatói jogkör gyakorlója által írásban kijelölt vagy a szervezeti és működési szabályzatban erre feljogosított személy öt napon belül záradékolással hiteles papír alapú kiadmányt készít. A záradéknak tartalmaznia kell a záradékolásra jogosult személy aláírását, a záradékolás keltét és szöveges utalást arra, hogy a papír alapú kiadmány az alapul szolgáló elektronikusan hitelesített irattal megegyezik. A közszolgálati tisztviselővel a papír alapú kiadmányt kell közölni.
 
 ### A határidő és az időtartam számítása
 
@@ -3502,7 +3504,11 @@ munkanapra emelkedik.
 - d) a kormányzati érdekből történő kirendelés (55. §),
 - e) a jogvitára, valamint a Kormánytisztviselői Döntőbizottságra vonatkozó rendelkezések (190–191. §),
 - f) az összeférhetetlenségre vonatkozó 85. § (1) és (1a) bekezdés,
-- g) az írásbeli jognyilatkozatok esetében a 20. § (8) bekezdése nem alkalmazható(k).
+- g)
+
+nem alkalmazható(k).
+
+(3a) Az írásbeli jognyilatkozatok esetében a 20. § (1), (2), (6), (8) és (9) bekezdését kell, a 20. § (3)–(5), (7) és 21. § (4) bekezdését – a munkáltató döntésétől függően – lehet alkalmazni.
 
 (4) Az Országgyűlés Hivatala és az Országgyűlési Őrség szervezeti és működési szabályzata a 80. § (1)–(2) bekezdésben és a 130. § (1)–(8) bekezdésben foglaltaktól eltérő szabályokat állapíthat meg.
 
@@ -3912,7 +3918,7 @@ munkanapra emelkedik.
 
 (7) Az e törvény hatálya alá tartozó munkáltatónál foglalkoztatott munkavállaló munkaviszonyára a munka törvénykönyvéről szóló 2012. évi I. törvény 71–76. §-a, 82–84. §-a, 158. § (1) és (3) bekezdése, valamint 159. §-a nem alkalmazható. Esetükben e törvény 67. §-át, 143. §-át, 146. §-át és 193–194. §-át kell alkalmazni.
 
-(8) Az e törvény hatálya alá tartozó munkáltatónál foglalkoztatott munkavállaló munkaviszonyára a 20. § (3)–(8) bekezdését, valamint 21. § (2a) bekezdését kell alkalmazni.
+(8) Az e törvény szerinti államigazgatási szervnek minősülő munkáltatónál foglalkoztatott munkavállaló munkaviszonyára a 20. § (3)–(10) bekezdését, 21. §-át, valamint 260/A. §-át kell, az e törvény hatálya alá tartozó egyéb munkáltatóknál pedig a 20. § (6), (8) és (9) bekezdését kell, a 20. § (3)–(5), (7) és 21. § (4) bekezdését – a munkáltató döntésétől függően – lehet alkalmazni.
 
 ### ZÁRÓ ÉS VEGYES RENDELKEZÉSEK
 
@@ -4018,6 +4024,10 @@ részletes szabályokat.
 
 (5) E törvénynek más jogszabályban alkalmazandó rövid megjelölése: Kttv.
 
+### Átmeneti rendelkezések
+
+260/A. § A 2017. április 30-án kormányzati szolgálati jogviszonyban álló kormánytisztviselő a 21. § (2) bekezdés szerinti szolgáltatással 2017. május 1-jétől köteles rendelkezni.
+
 ### Az Európai Unió jogi aktusainak való megfelelés
 
 261. § E törvény az Európai Unió következő uniós jogi aktusainak való megfelelést szolgálja:
@@ -4105,7 +4115,7 @@ I/A.
 
 8. fizetési számlaszáma
 
-9. email címe
+9. email címe és a 21. § (2) bekezdés szerinti elektronikus elérhetősége
 
 10. fényképe
 

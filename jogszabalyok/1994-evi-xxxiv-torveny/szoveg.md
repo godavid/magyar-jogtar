@@ -297,7 +297,7 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 
 (3) A terrorizmust elhárító szerv részére a 7/E. § (1) bekezdés a) pont ad) alpontjában, valamint e) pontjában meghatározott feladata ellátásával összefüggésben a külföldi titkosszolgálatok által továbbított adatok, információk kizárólag azon külföldi titkosszolgálat előzetes hozzájárulásával továbbíthatók más adatkezelő részére, amelytől az információ származik.
 
-7/G. § (1) A központi szerv képviseli a rendőrséget a nemzetközi rendvédelmi szervezetekben, különösen a Bűnügyi Rendőrség Nemzetközi Szervezetében (Interpol), az Európai Rendőrségi Hivatalban (Europol), valamint – ha a miniszter másként nem rendelkezik – a két- és többoldalú nemzetközi szerződéseken alapuló rendészeti tárgyú nemzetközi kapcsolatokban.
+7/G. § (1) A központi szerv képviseli a rendőrséget a nemzetközi rendvédelmi szervezetekben, különösen a Bűnügyi Rendőrség Nemzetközi Szervezetében (Interpol), a Bűnüldözési Együttműködés Európai Uniós Ügynökségében (EUROPOL), valamint – ha a miniszter másként nem rendelkezik – a két- és többoldalú nemzetközi szerződéseken alapuló rendészeti tárgyú nemzetközi kapcsolatokban.
 
 (2) Az (1) bekezdésben foglalt rendelkezés nem akadálya annak, hogy a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, valamint a terrorizmust elhárító szerv – külön jogszabályban meghatározottak szerint – az Interpollal és az Europollal, bármely Europol tagállam, illetve két- vagy többoldalú nemzetközi szerződés, vagy viszonosság alapján bármely más állam rendvédelmi szervével közvetlenül kapcsolatot tartson a központi szerv egyidejű tájékoztatása mellett.
 
