@@ -40,7 +40,7 @@ is alkalmazni kell.
 
 (6) A 14. §-t, a 290/A. §-t, valamint a XXIX. és XXX. Fejezet rendelkezéseit a rendvédelmi szervvel közalkalmazotti jogviszonyban állókra is alkalmazni kell.
 
-(7) A XXVIII. Fejezet rendelkezéseit a rendvédelmi szervvel munkaviszonyban állókra kell alkalmazni.
+(7) A 290. § rendelkezéseit a rendvédelmi szervvel munkaviszonyban állókra, a 290/B. §-t a rendvédelmi szervnél igazságügyi alkalmazotti jogviszonyban kell alkalmazni.
 
 (8) A rendvédelmi egészségkárosodási keresetkiegészítésre és a rendvédelmi egészségkárosodási járadékra vonatkozó rendelkezéseket a szolgálati viszony megszűnését követően a hivatásos állomány volt tagjára és közeli hozzátartozóira is alkalmazni kell.
 
@@ -118,30 +118,38 @@ is alkalmazni kell.
 - d) a fegyelmi, méltatlansági, kártérítési és személyiségi jogsértés tárgyában hozott határozat, a Becsületbíróság által hozott határozat, valamint a szolgálati beosztásból történő felfüggesztés, továbbá
 - e) a baleset vagy betegség szolgálattal való összefüggését minősítő határozat.
 
-(4) A (6) bekezdésben foglaltak kivételével írásbelinek kell tekinteni a jognyilatkozatot akkor is, ha annak közlésére a jognyilatkozatban foglalt információ változatlan visszaidézésére, a nyilatkozattevő személyének és a jognyilatkozat megtétele időpontjának azonosítására alkalmas elektronikus dokumentumban (a továbbiakban: elektronikus dokumentum) kerül sor.
+(4) A jognyilatkozat akkor is írásbelinek tekinthető, ha annak közlésére a jognyilatkozatban foglalt információ változatlan visszaidézésére, a nyilatkozattevő személyének és a jognyilatkozat megtétele időpontjának azonosítására alkalmas elektronikus dokumentumban (a továbbiakban: elektronikus dokumentum) kerül sor.
 
 (5) A nyilatkozattevő személyének (4) bekezdés szerinti azonosításához nem szükséges a nyilatkozattevő elektronikus aláírása vagy minősített elektronikus aláírása.
 
 (6) A szolgálati viszony létesítésével, a szolgálati viszony módosításával és a szolgálati viszony megszüntetésével kapcsolatos jognyilatkozat, a fegyelmi, méltatlansági vagy kártérítési ügyben hozott határozat, a sérelemdíj megfizetése ügyében hozott határozat, az összeférhetetlenség megszüntetésére irányuló felszólítás és a fizetési felszólítás a munkáltatói jogkör gyakorlója részéről elektronikusan legalább fokozott biztonságú elektronikus aláírással kiadmányozható.
 
-(7) A (6) bekezdés szerint elektronikusan kiadmányozott jognyilatkozatról a munkáltatói jogkör gyakorlója által írásban kijelölt vagy a szervezeti és működési szabályzatban erre feljogosított személy öt napon belül záradékolással hiteles papír alapú kiadmányt készít. A záradéknak tartalmaznia kell a záradékolásra jogosult személy aláírását, a záradékolás keltét és szöveges utalást arra, hogy a papír alapú kiadmány az alapul szolgáló elektronikusan hitelesített irattal megegyezik. A hivatásos állomány tagjával a papír alapú kiadmányt kell közölni.
+(7) A szolgálati viszony módosításával és a szolgálati viszony megszüntetésével összefüggésben, a fegyelmi, méltatlansági vagy kártérítési ügyben, a sérelemdíj megfizetése ügyében, az összeférhetetlenség megszüntetésére irányuló felszólítás és a fizetési felszólítás tárgyában a hivatásos állomány tagja nyilatkozatát legalább fokozott biztonságú elektronikus aláírással ellátott elektronikus dokumentumban teheti meg.
 
 (8) Többoldalú jognyilatkozat esetén, ha a munkáltatói jogkör gyakorlója az iratot a (6) bekezdés szerint elektronikusan írja alá, az akarategységet hitelesen tükröző kiadmány az a papír alapú kiadmány, amely a munkáltatói jogkör gyakorlójának legalább fokozott biztonságú aláírását tartalmazó elektronikus iratról – a (7) bekezdés rendelkezései alapján – készült és egyidejűleg tartalmazza az iratot nem elektronikusan aláíró személy aláírását is.
 
-(9) Az írásbeli jognyilatkozatokat – az Országgyűlési Őrség hivatásos állománya kivételével – a (6) bekezdés szerinti elektronikus dokumentumban kell kiadni vagy a (7) és (8) bekezdés szerint kell kiadmányozni.
+(9) Az írásbeli jognyilatkozatokat – az Országgyűlési Őrség hivatásos állománya kivételével, valamint a (10) bekezdésben foglalt eltéréssel – a (4) vagy (6) bekezdés szerint kell kiadmányozni és a 6/A. § szerint kell kézbesíteni.
 
-6/A. § (1) Az írásbeli jognyilatkozatot közölni kell a hivatásos állomány tagjával. Az írásbeli jognyilatkozat akkor tekinthető közöltnek, ha azt a hivatásos állomány tagjának vagy az átvételre jogosult személynek átadják, illetve az elektronikus dokumentum részükre hozzáférhetővé válik. A közlés akkor is hatályos, ha az átvételt a címzett vagy az átvételre jogosult más személy megtagadta vagy szándékosan megakadályozta. Erről jegyzőkönyvet kell felvenni.
+(10) A polgári nemzetbiztonsági szolgálatok hivatásos állománya esetében az írásbeli jognyilatkozatot papír alapú vagy elektronikus dokumentumban kell kiadmányozni és közölni. A miniszter közjogi szervezetszabályozó eszközében meghatározott szolgálati beosztások esetében a 6/A. § (3)–(5) bekezdése nem alkalmazható.
+
+6/A. § (1) Az írásbeli jognyilatkozatot közölni kell a hivatásos állomány tagjával. Az írásbeli jognyilatkozat akkor tekinthető közöltnek, ha az elektronikus dokumentum a hivatásos állomány tagja vagy az átvételre jogosult személy részére hozzáférhetővé válik és annak kézhezvételét a hivatásos állomány tagja visszaigazolja. A közlés akkor is hatályos, ha az átvételt a címzett vagy az átvételre jogosult más személy megtagadta vagy szándékosan megakadályozta. Erről jegyzőkönyvet kell felvenni.
 
 (2) Az elektronikus dokumentum akkor válik hozzáférhetővé, amikor a címzettnek vagy az átvételre jogosult más személynek lehetősége nyílik arra, hogy annak tartalmát megismerje.
 
-(3) Ha a rendvédelmi szerv a jognyilatkozatot elektronikus dokumentum hozzáférhetővé tétele útján közölte, és a címzett vagy az átvételre jogosult más személy az elektronikus dokumentum átvételét követő öt napon belül nem igazolja vissza, a rendvédelmi szerv másik írásbeli formában közli vele a jognyilatkozatot. Ilyen esetben a jognyilatkozat közlésének napja a második közlés napja.
+(3) Az elektronikus dokumentum kézbesítésére – az (5) bekezdésben foglalt eltéréssel – az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) 14. és 15. §-ában foglalt rendelkezéseket megfelelően alkalmazni kell azzal, hogy ügyfél alatt a hivatásos állomány tagját, elektronikus ügyintézést biztosító szerv alatt a foglalkoztatót kell érteni.
 
-(4) Az (1) bekezdésben foglaltakon túlmenően a postai szolgáltatásokról szóló törvény szerint hivatalos iratként kézbesített jognyilatkozatot kézbesítettnek kell tekinteni,
+(4) A hivatásos állomány tagja az írásbeli jognyilatkozatok elektronikus aláírása és az elektronikus dokumentumok kézhezvételének visszaigazolása érdekében köteles az E-ügyintézési tv. szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatással és az ehhez tartozó biztonságos kézbesítési szolgáltatásra alkalmas tárhellyel rendelkezni, és a biztonságos kézbesítési szolgáltatásra alkalmas elektronikus elérhetőségét a foglalkoztatójával közölni. A hivatásos állomány tagja e kötelezettségét – ha törvény eltérően nem rendelkezik – a kinevezését követő tizenöt napon belül köteles teljesíteni.
 
-- a) ha a címzett vagy meghatalmazottja a küldemény átvételét megtagadta: az átvétel megtagadásának napján,
-- b) ha a címzett a küldeményt nem vette át és az „nem kereste” jelzéssel érkezett vissza: a postai kézbesítés második megkísérlésének napját követő ötödik munkanapon.
+(5) Az E-ügyintézési tv. 15. § (3) bekezdésétől eltérően, ha a szolgáltató azt igazolja vissza, hogy a küldeményt a címzett kétszeri értesítése ellenére nem vette át, az elektronikus dokumentumot kézbesítettnek kell tekinteni a második értesítés igazolásban feltüntetett időpontját követő ötödik munkanapon.
 
-(5) Az olyan jognyilatkozattal kapcsolatban, amellyel szemben e törvény alapján bírósági eljárásnak van helye, a (4) bekezdésben szabályozott kézbesítési vélelem megdöntése iránt az eljárás kezdeményezésével egyidejűleg, a kézbesítési vélelem beálltáról való tudomásszerzéstől számított tizenöt napon belül, de legkésőbb a vélelem beálltától számított hat hónapos jogvesztő határidőn belül terjeszthető elő kérelem a bíróságnál. A kézbesítési vélelem megdöntésére egyebekben a polgári perrendtartásról szóló törvény rendelkezéseit kell alkalmazni. A vélelem megdöntése esetén a bírósági eljárás kezdeményezésére előírt határidőt megtartottnak kell tekinteni.
+(6) Az (1) bekezdéstől eltérően, ha az elektronikus dokumentum elektronikus kézbesítése vagy a kézbesítési vélelem szabályainak alkalmazása bármely okból nem lehetséges, vagy az a szolgálati jogviszony létesítéséről rendelkezik, az elektronikusan kiadmányozott jognyilatkozatról a munkáltatói jogkör gyakorlója által írásban kijelölt vagy a szervezeti és működési szabályzatban erre feljogosított személy öt napon belül záradékolással hiteles papír alapú kiadmányt készít. A záradéknak tartalmaznia kell a záradékolásra jogosult személy aláírását, a záradékolás keltét és szöveges utalást arra, hogy a papír alapú kiadmány az alapul szolgáló elektronikusan hitelesített irattal megegyezik. A hivatásos állomány tagjával a papír alapú kiadmányt kell közölni.
+
+(7) Papír alapú kiadmány esetében az (1) bekezdésben foglaltakon túlmenően az írásbeli jognyilatkozat akkor tekinthető közöltnek, ha azt a hivatásos állomány tagjának vagy az átvételre jogosult személynek átadták. A postai szolgáltatásokról szóló jogszabály szerint tértivevény különszolgáltatással feladott küldeményként kézbesített jognyilatkozatot,
+
+- a) ha a címzett vagy az átvételre jogosult más személy a küldemény átvételét megtagadta, vagy a címzett által bejelentett elérhetőségi címen a kézbesítés a címzett ismeretlensége vagy elköltözése miatt meghiúsult, a kézbesítés megkísérlésének napján,
+- b) egyéb esetekben az eredménytelen kézbesítési kísérlet, valamint az értesítés elhelyezésének napját követő ötödik munkanapon
+
+kézbesítettnek kell tekinteni.
 
 #### 7. A jognyilatkozat megtámadhatósága, semmissége
 
@@ -3478,9 +3486,11 @@ a rögzítéskor meghatározott szolgálati időre figyelemmel kell megállapít
 
 (6) A munkavállalónak a tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó havi munkabére nem haladhatja meg a Központi Statisztikai Hivatal által közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági átlagos havi bruttó munkabér tízszeresét.
 
-(7) A rendvédelmi szervnél foglalkoztatott munkavállaló munkaviszonyára a 6. § (4)–(9) bekezdését kell alkalmazni.
+(7) A rendvédelmi szervnél foglalkoztatott munkavállaló munkaviszonyára a 6. § (4)–(9) bekezdését és a 6/A. §-t kell alkalmazni.
 
-290/A. § A rendvédelmi szervnél foglalkoztatott közalkalmazott közalkalmazotti jogviszonyára a 6. § (4)–(9) bekezdését kell alkalmazni.
+290/A. § A rendvédelmi szervnél foglalkoztatott közalkalmazott közalkalmazotti jogviszonyára a 6. § (4)–(9) bekezdését és a 6/A. §-t kell alkalmazni.
+
+290/B. § A rendvédelmi szervnél foglalkoztatott igazságügyi alkalmazott jogviszonyára a 6. § (4)–(9) bekezdését és a 6/A. §-t alkalmazni kell.
 
 ### XXIX. Fejezet — A MAGYAR RENDVÉDELMI KAR
 
@@ -4067,6 +4077,8 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 
 (3) A 341. § (4) bekezdésében foglaltaktól eltérően a polgári nemzetbiztonsági szolgálatok esetében a miniszter közjogi szervezetszabályozó eszközben határozza meg a 2015. június 30-án szolgálati viszonyban álló, nem vezetői beosztást betöltő hivatásos állomány vonatkozásában az illetményemelkedés szempontjából a rendvédelmi szerv alapfeladatába tartozó szolgálati beosztások felsorolását.
 
+(4) A polgári nemzetbiztonsági szolgálatok esetében a miniszter közjogi szervezetszabályozó eszközben határozza meg azon szolgálati beosztásokat, ahol a 6/A. § (3)–(5) bekezdése, valamint a 362/C. § nem alkalmazható.
+
 343. § (1) Ez a törvény – a (2) és (3) bekezdésben meghatározott kivétellel – 2015. július 1-jén lép hatályba.
 
 (2) A 284–289. § és a 11. melléklet 2016. július 1-jén lép hatályba.
@@ -4315,6 +4327,8 @@ kell sorolni.
 
 362/B. § A Módtv.-nyel megállapított 6. § (9) bekezdésében szereplő rendelkezés azon rendvédelmi szerveknél – az Országgyűlési Őrség kivételével –, amelyek rendelkeznek az elektronikus dokumentumok kiállításához szükséges feltételekkel, 2016. január 1-jétől kötelezően alkalmazandó. Azon rendvédelmi szerveknél – az Országgyűlési Őrség kivételével –, amelyek nem rendelkeznek az elektronikus dokumentumok kiállításához szükséges feltételekkel, a feltételek megteremtéséről legkésőbb 2016. június 30-ig kell gondoskodni és a 6. § (9) bekezdésében foglalt szabályozást 2016. július 1-jétől alkalmazni kell.
 
+362/C. § A hivatásos állomány 2017. április 30-án szolgálati jogviszonyban álló tagja a 6/A. § (4) bekezdése szerinti szolgáltatással 2017. május 1-jétől köteles rendelkezni.
+
 362/D. § A 255/A. §-t a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény módosításáról szóló 2016. évi CLIX. törvény hatálybalépésekor el nem évült követelésekre is alkalmazni kell.
 
 363. § E törvény
@@ -4360,7 +4374,7 @@ való megfelelést szolgálja.
   - d) születési hely, idő,
   - e) anyja születési neve,
   - f) lakóhely, lakáscím, tartózkodási hely,
-  - g) elérhetőséget biztosító telefonszám(ok), e-mail cím(ek),
+  - g) elérhetőséget biztosító telefonszám(ok), email cím(ek) és a 6/A. § (4) bekezdése szerinti elektronikus elérhetőség,
   - h) családi állapot,
   - i) társadalombiztosítási azonosító jel,
   - j) adóazonosító jel,

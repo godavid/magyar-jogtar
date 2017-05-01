@@ -13,7 +13,7 @@ az egyes belügyi tárgyú törvények módosításáról
 8. § Az Rtv.
 
 - a)–b)
-- c)
+- c) 7/G. § (1) bekezdésében az „az Európai Rendőrségi Hivatalban (Europol)” szövegrész helyébe az „a Bűnüldözési Együttműködés Európai Uniós Ügynökségében (EUROPOL)”,
 - d)–f)
 
 szöveg lép.
@@ -32,11 +32,30 @@ szöveg lép.
 
 #### 5. A büntetőeljárásról szóló 1998. évi XIX. törvény módosítása
 
-25–26. §
+25. § A büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 36. § (5) bekezdésében az „az Európai Rendőrségi Hivatal (EUROPOL)” szövegrész helyébe az „a Bűnüldözési Együttműködés Európai Uniós Ügynöksége (EUROPOL)” szöveg lép.
+
+26. § A Be. 608. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) E törvény 36. § (5) bekezdése
+
+a) a Bűnüldözési Együttműködés Európai Uniós Ügynökségéről (Europol), valamint a 2009/371/IB, a 2009/934/IB, a 2009/935/IB, a 2009/936/IB és a 2009/968/IB tanácsi határozat felváltásáról és hatályon kívül helyezéséről szóló, 2016. május 11-i (EU) 2016/794 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg, valamint
+
+b) a közös nyomozócsoportokról szóló, 2002. június 13-i 2002/465/IB tanácsi kerethatározatnak való megfelelést szolgálja.”
 
 #### 6. Az Európai Unió bűnüldözési információs rendszere és a Nemzetközi Bűnügyi Rendőrség Szervezete keretében megvalósuló együttműködésről és információcseréről szóló 1999. évi LIV. törvény
 
-27. §
+27. § Az Európai Unió bűnüldözési információs rendszere és a Nemzetközi Bűnügyi Rendőrség Szervezete keretében megvalósuló együttműködésről és információcseréről szóló 1999. évi LIV. törvény
+
+- a) 1. § (2) bekezdésében „az Európai Rendőrségi Hivatal (EUROPOL)” szövegrész helyébe „a Bűnüldözési Együttműködés Európai Uniós Ügynöksége (a továbbiakban: EUROPOL)”,
+- b) 2. § a) pontjában „az Európai Rendőrségi Hivatal (EUROPOL)” szövegrész helyébe „az EUROPOL”,
+- c) 4. § (1a) bekezdésében „az Európai Rendőrségi Hivatal (Europol) létrehozásáról szóló, 2009. április 9-i 2009/371/IB tanácsi határozat alapján létrehozott Europol Információs Rendszerbe” szövegrész helyébe „az EUROPOL-nak”,
+- d) 4. § (1a) bekezdés a) és b) pontjaiban „az Európai Rendőrségi Hivatal (EUROPOL)” szövegrész helyébe „az EUROPOL”
+- e) 4. § (1b) bekezdésében „Az Europol Információs Rendszerbe” szövegrész helyébe „Az EUROPOL-nak”,
+- f) 4. § (1b) bekezdés i) pontjában „az Európai Rendőrségi Hivatal (Europol) létrehozásáról szóló, 2009. április 9-i 2009/371/IB tanácsi határozat alapján az Europol Információs Rendszerbe bevihető” szövegrész helyébe „a Bűnüldözési Együttműködés Európai Uniós Ügynökségéről (EUROPOL), valamint a 2009/371/IB, a 2009/934/IB, a 2009/935/IB, a 2009/936/IB és a 2009/968/IB tanácsi határozat felváltásáról és hatályon kívül helyezéséről szóló 2016/795/EU európai parlamenti és tanácsi rendelet alapján az EUROPOL által tárolható”,
+- g) 9/B. § (2) bekezdésében „az Europol Információs Rendszerbe továbbított adatok tekintetében az adattovábbítást követően az Európai Rendőrségi Hivatal (EUROPOL)” szövegrész helyébe „az EUROPOL-nak továbbított adatok tekintetében az adattovábbítást követően az EUROPOL”,
+- h) 19. §-ában „az Európai Rendőrségi Hivatal (Europol) létrehozásáról szóló, 2009. április 9-i 2009/371/IB tanácsi határozatnak” szövegrész helyébe „a Bűnüldözési Együttműködés Európai Uniós Ügynökségéről (EUROPOL), valamint a 2009/371/IB, a 2009/934/IB, a 2009/935/IB, a 2009/936/IB és a 2009/968/IB tanácsi határozat felváltásáról és hatályon kívül helyezéséről szóló 2016/795/EU európai parlamenti és tanácsi rendeletnek”
+
+szöveg lép.
 
 #### 7. A közterület-felügyeletről szóló 1999. évi LXIII. törvény módosítása
 
@@ -48,7 +67,13 @@ szöveg lép.
 
 #### 9. A bűnüldöző szervek nemzetközi együttműködéséről szóló 2002. évi LIV. törvény
 
-33. §
+33. § (1) A bűnüldöző szervek nemzetközi együttműködéséről szóló 2002. évi LIV. törvény 16/E. §-a helyébe a következő rendelkezés lép:
+
+„16/E. § Ha a 16/A. § szerinti információcsere iránti megkeresés a Bűnüldözési Együttműködés Európai Uniós Ügynökségéről (EUROPOL), valamint a 2009/371/IB, a 2009/934/IB, a 2009/935/IB, a 2009/936/IB és a 2009/968/IB tanácsi határozat felváltásáról és hatályon kívül helyezéséről szóló 2016/794/EU európai parlamenti és tanácsi rendelet I. mellékletében meghatározott bűncselekmények valamelyikére vonatkozik, a magyar bűnüldöző szerv az információcsere iránti megkeresést megküldi a rendőrségnek a Bűnüldözési Együttműködés Európai Uniós Ügynökségével (a továbbiakban: EUROPOL) való együttműködésért felelős szervezeti egységének is.”
+
+(2) A bűnüldöző szervek nemzetközi együttműködéséről szóló 2002. évi LIV. törvény 52. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) Ez a törvény a Bűnüldözési Együttműködés Európai Uniós Ügynökségéről (Europol), valamint a 2009/371/IB, a 2009/934/IB, a 2009/935/IB, a 2009/936/IB és a 2009/968/IB tanácsi határozat felváltásáról és hatályon kívül helyezéséről szóló, 2016. május 11-i (EU) 2016/794 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.”
 
 #### 10. Az elektronikus hírközlésről szóló 2003. évi C. törvény módosítása
 
@@ -76,7 +101,7 @@ szöveg lép.
 
 52. § (1) A Mavtv.
 
-- a)
+- a) 9. § (1) bekezdésében „az Európai Rendőrségi Hivatal” szövegrész helyébe „a Bűnüldözési Együttműködés Európai Uniós Ügynöksége” és
 - b)
 
 szöveg lép.
@@ -107,11 +132,15 @@ szöveg lép.
 
 #### 21. Az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény módosítása
 
-98. § (1)
+98. § (1) Az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény (a továbbiakban: Eube.) 61. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az Eurojust, illetve annak nemzeti képviselője, valamint a Bűnüldözési Együttműködés Európai Uniós Ügynöksége (a továbbiakban: Europol) által kezdeményezett közös nyomozócsoportra, a tagok jogaira és kötelezettségeire e törvényt kell alkalmazni. Az Europol tisztviselője e törvény szerint vehet részt a közös nyomozócsoportban, de feladatának végrehajtása során nem alkalmazhat a Be.-ben meghatározott kényszerintézkedést vagy a rendőrségről szóló törvényben (a továbbiakban: Rtv.) meghatározott kényszerítő eszközt.”
 
 (2)
 
-(3)
+(3) Az Eube. 67. alcíme a következő 179/A. §-sal egészül ki:
+
+„179/A. § Ez a törvény a Bűnüldözési Együttműködés Európai Uniós Ügynökségéről (Europol), valamint a 2009/371/IB, a 2009/934/IB, a 2009/935/IB, a 2009/936/IB és a 2009/968/IB tanácsi határozat felváltásáról és hatályon kívül helyezéséről szóló, 2016. május 11-i (EU) 2016/794 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.”
 
 #### 22. A hulladékról szóló 2012. évi CLXXXV. törvény módosítása
 
