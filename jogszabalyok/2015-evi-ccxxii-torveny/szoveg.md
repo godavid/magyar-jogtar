@@ -10,7 +10,7 @@ Az Országgyűlés az elektronikus ügyintézés széles körű elterjedése, az
 
 1. § E törvény alkalmazásában
 
-- 1. űrlapbenyújtás támogatási szolgáltatás: a jogszabályban meghatározott szerv vagy szolgáltató meghatározott technikai előírásoknak megfelelő elektronikus űrlapok ügyfél általi kitöltését, elektronikus ügyintézést biztosító szervhez való elektronikus azonosítással egybekötött benyújtását biztosító szolgáltatás;
+- 1. űrlapbenyújtás-támogatási szolgáltatás: a jogszabályban meghatározott szerv vagy szolgáltató meghatározott technikai előírásoknak megfelelő elektronikus űrlapok ügyfél általi kitöltését, elektronikus ügyintézést biztosító szervhez való elektronikus azonosítással egybekötött benyújtását biztosító szolgáltatás;
 - 2. archiválási szolgáltatás: az elektronikus dokumentumok hosszú távú megőrzésére vonatkozó szolgáltatás, amely magában foglalja a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló 2014. július 23-i 910/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: eIDAS Rendelet) 3. cikk 16. pont c) alpontja szerinti bizalmi szolgáltatást is;
 - 3. automatikus információátadás: információátadás az információ átadását biztosító együttműködő szerv részéről emberi beavatkozást nem igénylő módon;
 - 4. automatikus információátadási felület: az információ átadását biztosító együttműködő szerv által létrehozott és üzemeltetett, automatikus információátadást lehetővé tevő műszaki megoldás;
@@ -236,6 +236,8 @@ teljesítheti.
 (7) A Kormány rendeletében jelöli ki azon szolgáltatót, akivel az e tárgyban kötött külön közszolgáltatási szerződésben foglaltak alapján az (1) bekezdés a) pontja szerinti elérhetőséget a Kormány rendeletében meghatározott szervek részére ingyenesen biztosítja.
 
 (8) Ha a gazdálkodó szervezet ügyfél hivatalos elérhetőséggel nem rendelkezik, az elektronikus ügyintézést biztosító szerv az eljárást elektronikus kapcsolattartás nélkül is lefolytathatja azzal, hogy a gazdálkodó szervezet ezen kötelezettségének nem teljesítése miatt az elektronikus ügyintézést biztosító szerv kezdeményezi a gazdálkodó szervezettel szembeni, törvényben meghatározott törvényességi felügyeleti eljárás vagy hatósági ellenőrzés lefolytatását.
+
+(9) A (3) bekezdés szerinti, a gazdálkodó szervezetre vonatkozó nyilvántartást vezető szerv a hivatalos elérhetőség nyilvántartásba vétele, valamint üzemeltetése érdekében elektronikus úton, térítésmentesen és nyilvántartás céljából átadja a rendelkezési nyilvántartást vezető szervnek, valamint a gazdálkodó szervezet által megjelölt biztonságos kézbesítési szolgáltatási cím szolgáltatónak a gazdálkodó szervezetre vonatkozó, a gazdálkodó szervezet és a képviseletére jogosult személy azonosításához szükséges, az adott nyilvántartásban szereplő nyilvános adatokat. Az adatszolgáltatás lebonyolításának technikai szabályait az érintett szervek megállapodásban rögzítik.
 
 15. § (1) Természetes személy ügyintézési rendelkezésében jogosult megadni olyan hivatalos elérhetőséget, amely tekintetében vállalja a 14. § szerinti követelmények teljesítését. Ebben az esetben a kézbesítés időpontja és a kézbesítési vélelem tekintetében a 14. § rendelkezései megfelelően irányadóak.
 
@@ -673,7 +675,7 @@ olyan technológiai megoldást kell alkalmazni, ami garantálja, hogy az ügyfé
 - i) elektronikus irat hiteles papír alapú irattá alakítása,
 - j) központi azonosítási ügynök,
 - k) személyre szabott ügyintézési felület,
-- l) ÁNYK űrlapbenyújtás támogatási szolgáltatás,
+- l) űrlapbenyújtás-támogatási szolgáltatás,
 - m) központi dokumentumhitelesítési ügynök,
 - n) általános célú elektronikus kéreleműrlap szolgáltatás,
 - o) összerendelési nyilvántartás.
@@ -1142,7 +1144,10 @@ továbbítják.
 
 - a) központi érkeztetési rendszer, amely biztosítja az iratkezelés egyes fázisainak központi szolgáltatás útján történő elvégzését,
 - b) elektronikus dokumentumtárolás szolgáltatás, amely biztosítja a szolgáltatás keretében tárolt elektronikus dokumentum hitelességének megőrzését, tartós olvashatóságát és értelmezhetőségét,
-- c) iratkezelő rendszerek közötti iratáthelyezés szolgáltatás, amely biztosítja az együttműködő szervek között elektronikus iktatókönyvben nyilvántartott irat vagy irategyüttes dokumentált átadását.
+- c) iratkezelő rendszerek közötti iratáthelyezés szolgáltatás, amely biztosítja az együttműködő szervek között elektronikus iktatókönyvben nyilvántartott irat vagy irategyüttes dokumentált átadását,
+- d) központi kormányzati szolgáltatás busz, amelynek keretében
+  - da) a szolgáltató az együttműködő szervek, valamint a szolgáltatáshoz önkéntesen csatlakozott egyéb szervezetek információs rendszereinek automatikus információátadási felületei csatlakoztatásával, ennek hiányában információátadási szolgáltatásként biztosítja az egymás közötti automatikus információátadás biztonságos feltételeit, valamint
+  - db) a csatlakozott együttműködő szervek személyes adatokat tartalmazó információs rendszereinek adattovábbítási nyilvántartásai vonatkozásában – az információs önrendelkezési jogról és az információszabadságról szóló törvény alapján – az érintett személyes adatainak továbbítására vonatkozó tájékoztatásadást támogató egyablakos, tájékoztatási szolgáltatást biztosít.
 
 (4) Törvény vagy kormányrendelet valamely központi elektronikus ügyintézési szolgáltatás igénybevételét az együttműködés során is kötelezővé teheti.
 
@@ -1547,6 +1552,20 @@ egyidejűleg tartalmazza.
 
 (6) Az (1)–(4) bekezdésben meghatározott feladatok ellátása érdekében a kijelölt szerv az álláspontjának kialakítása során együttműködik az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény 14. § (1) bekezdésében meghatározott, az elektronikus információs rendszerek biztonságának felügyeletét ellátó hatósággal.
 
+104/A. § (1) A központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló kormányrendeletben kijelölt központi szolgáltató (a továbbiakban: központi szolgáltató) a nem a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek részére biztosítja
+
+- a) az e-közigazgatásért felelős miniszter rendeletében meghatározott informatikai rendszer fejlesztését, üzemeltetését, vagy közreműködik annak fejlesztésében, valamint
+- b) a központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló kormányrendelet szerinti központosított informatikai és hírközlési szolgáltatásokat,
+
+ha a nem a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv vezetője ezek igénybevételét az e-közigazgatásért felelős miniszternél kezdeményezi.
+
+(2) Az (1) bekezdés szerinti szolgáltatások igénybevételének, a központi szolgáltató feladatai ellátásának a fedezetéül szolgáló forrást – az e-közigazgatásért felelős miniszter és a nem a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv vezetője egyeztetésének eredményétől függően –
+
+- a) az e-közigazgatásért felelős miniszter által vezetett minisztérium költségvetésében, vagy
+- b) a központi szolgáltatóval történő közvetlen szerződéskötés esetén a nem a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervnek a központi szolgáltatóval kötött megállapodásában foglaltak alapján
+
+kell biztosítani.
+
 ## HATODIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
 #### 60. Felhatalmazó rendelkezések
@@ -1610,7 +1629,8 @@ egyidejűleg tartalmazza.
 
 - a) a bizalmi szolgáltatásokkal kapcsolatos részletes követelményeket, így különösen a bizalmi szolgáltatók pénzügyi és személyzeti megfelelőségével, a tevékenységével és az általa használt eszközökkel kapcsolatos követelményeket, az igénybe vevők szerződésének megkötésével és a szerződéskötéssel összefüggő tájékoztatási kötelezettségével kapcsolatos követelményeket, valamint a szolgáltatási szerződésre, a bizalmi szolgáltatás nyújtásának egyéb feltételeire (így a bizalmi szolgáltatási rendre és szolgáltatási szabályzatra) vonatkozó részletes feltételeket,
 - b) a bizalmi felügyelet által vezetett nyilvántartás tartalmával és a bizalmi szolgáltatás nyújtásával összefüggő bejelentésekkel kapcsolatos követelményeket,
-- c) az adópolitikáért felelős miniszterrel egyetértésben a bizalmi felügyeletnek fizetendő igazgatási szolgáltatási díjak mértékét, valamint a díj megfizetésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat; rendeletben állapítsa meg.
+- c) az adópolitikáért felelős miniszterrel egyetértésben a bizalmi felügyeletnek fizetendő igazgatási szolgáltatási díjak mértékét, valamint a díj megfizetésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat;
+- d) a 104/A. § (1) bekezdés a) pontja alapján a központi szolgáltató által fejlesztett vagy üzemeltetett informatikai rendszert, valamint a nem a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv által igénybevett központosított informatikai és hírközlési szolgáltatásokat rendeletben állapítsa meg.
 
 #### 61. Hatályba léptető rendelkezések
 
@@ -1637,6 +1657,8 @@ egyidejűleg tartalmazza.
 (3) Az 1. § 17. pont a)–k) alpontja szerinti jogalanyok 2017. június 30-ig ütemtervet készítenek és küldenek a Felügyelet számára az (1) bekezdésből fakadó feladataik teljesítésére vonatkozóan.
 
 (4) Az elektronikus ügyintézést 2017. január 1-jén már biztosító, az 1. § 17. pont a)–k) alpontja szerinti jogalanyok 2017. április 30-ig a Kormány által rendeletben meghatározott adatokat elektronikus úton, a Felügyelet által rendszeresített elektronikus űrlapon a Felügyelet számára bejelentik.
+
+(4a) Az 1. § 17. pont d) alpontja szerinti jogalanyok esetében a (2), a (3) és a (4) bekezdésben, valamint a 109. § (2)–(3) bekezdésében meghatározott jogokat és kötelezettségeket az Országos Bírósági Hivatal teljesíti, illetve gyakorolja.
 
 (5) A 9. § (1) bekezdése szerinti kötelezettségének az ügyfél vagy jogi képviselő – ha törvény eltérően nem rendelkezik – 2018. január 1. napjától köteles eleget tenni.
 

@@ -82,7 +82,7 @@ kerül sor,
 
 2. § (1) A közfoglalkoztatási jogviszonyra az Mt. szabályai alkalmazandók, a (2)–(5) bekezdésben meghatározott eltérésekkel.
 
-(2) Közfoglalkoztatási jogviszony csak határozott időre létesíthető. A határozott idő nem lehet hosszabb, mint a közfoglalkoztatás támogatásáról szóló jogszabály alapján nyújtott támogatásról szóló hatósági szerződésben előírt időtartam.
+(2) Közfoglalkoztatási jogviszony csak határozott időre létesíthető. A határozott idő nem lehet hosszabb, mint a közfoglalkoztatás támogatásáról szóló jogszabály alapján nyújtott támogatásról szóló hatósági szerződésben előírt időtartam. A hatósági szerződés meghosszabbítása vagy a korábbi támogatási időszak lejártát követő hat hónapon belül újabb hatósági szerződés megkötése esetén a közfoglalkoztatási jogviszony Mt. 192. § (2) bekezdése szerint számított időtartama az öt évet meghaladhatja, azonban nem haladhatja meg a tíz évet.
 
 (2a) A közfoglalkoztatási jogviszony tartamát naptárilag vagy más alkalmas módon meg kell határozni.
 

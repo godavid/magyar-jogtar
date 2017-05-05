@@ -44,11 +44,16 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
 - c) a nyilvántartásból a törvényben meghatározott feltételek fennállása esetében adatszolgáltatást teljesít;
 - d)–g)
 
-(2) A nyilvántartó a jogszabályban meghatározott, lefoglalásra vagy – a körözési nyilvántartási rendszert vezető szerv által az okmány adatainak a körözési nyilvántartási rendszerbe rögzítéséről küldött elektronikus értesítés alapján – büntetőeljárásban bizonyítékként való felhasználásra irányuló figyelmeztető jelzés (a továbbiakban: figyelmeztető jelzés) elhelyezése céljából haladéktalanul a Schengeni Információs Rendszerbe (a továbbiakban: SIS II) továbbítja annak a forgalmi engedélynek, vezetői engedélynek, illetve a jármű hatósági jelzésének a törvényben meghatározott adatait, amelynek elvesztését, eltulajdonítását vagy az egyéb jogszabályban meghatározott okból történő érvénytelenítését az engedély-, illetve a járműnyilvántartásba bejegyezték, ha az okmány, illetve a hatósági jelzés nincs a hatóság birtokában.
+(2) A nyilvántartó a jogszabályban meghatározott, lefoglalásra vagy büntetőeljárásban bizonyítékként való felhasználásra irányuló figyelmeztető jelzés elhelyezése céljából haladéktalanul a Schengeni Információs Rendszerbe (a továbbiakban: SIS II) továbbítja a közúti közlekedési nyilvántartásban érvénytelenítésre került forgalmi engedélynek, vezetői engedélynek, illetve a jármű hatósági jelzésének a törvényben meghatározott adatait, ha az okmány, illetve a hatósági jelzés nincs a hatóság birtokában.
 
-(3) Ha a (2) bekezdés szerinti okmány, illetve hatósági jelzés időközben megkerült és az okmány, illetve a hatósági jelzés megkerülésének tényét az engedély-, illetve a járműnyilvántartásba bejegyezték, vagy a körözési nyilvántartási rendszert vezető szerv által az okmánykörözés visszavonásáról, törléséről elektronikus úton küldött értesítést, a nyilvántartó a (2) bekezdés szerinti módon gondoskodik a schengeni figyelmeztető jelzés törléséről.
+(3) Ha a (2) bekezdés szerinti okmány, illetve hatósági jelzés
 
-(4) Ha a vezetői engedély megszemélyesítését végző adatfeldolgozó szerv kitöltetlen vezetői engedély eltűnéséről (elvesztéséről, eltulajdonításáról) vagy az eltűnt kitöltetlen okmány megkerüléséről értesíti a nyilvántartót, a nyilvántartó a jogszabályban meghatározott NS.CP Portál felületen keresztül gondoskodik a schengeni figyelmeztető jelzés beviteléről, illetve törléséről.
+- a) időközben megkerült, vagy
+- b) lefoglalás vagy büntetőeljárásban bizonyítékként történő felhasználása céljából elrendelt körözésének adatai a körözési nyilvántartási rendszerből törlésre kerültek,
+
+a nyilvántartó a (2) bekezdés szerinti módon gondoskodik a schengeni figyelmeztető jelzés törléséről.
+
+(4) Ha a kitöltetlen vezetői engedély eltűnéséről, elvesztéséről, eltulajdonításáról vagy az eltűnt kitöltetlen okmány megkerüléséről értesül, a nyilvántartó a jogszabályban meghatározott NS.CP Portál felületen keresztül gondoskodik a schengeni figyelmeztető jelzés elhelyezéséről, illetve törléséről.
 
 ### Az okmányellátás rendszere
 
@@ -107,7 +112,7 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
   - bc) hivatalos feljegyzések rovatába bejegyzett adatokat, valamint
   - bd) a vezetési jogosultság megszerzésének időpontjára és a megszerzett kategóriára vonatkozó adatokat.
 
-(2) Az engedély-nyilvántartás az (1) bekezdésben meghatározott adatokon kívül tartalmazza a figyelmeztető jelzés kezelésével kapcsolatos, törvényben, személyes adatoknak nem minősülő adatok esetében jogszabályban meghatározott adatokat is.
+(2) Az engedély-nyilvántartás az (1) bekezdésben meghatározott adatokon kívül tartalmazza a SIS II-ben elhelyezendő figyelmeztető jelzés (a továbbiakban: figyelmeztető jelzés) kezelésével kapcsolatos, törvényben, személyes adatoknak nem minősülő adatok esetében jogszabályban meghatározott adatokat is.
 
 (3) Az engedély-nyilvántartás az (1) és (2) bekezdésben meghatározott adatok tekintetében – a természetes személyazonosító, a lakcím-azonosító adatok, valamint a „Gépjármű-vezetői képesítési igazolvány” adatai kivételével – közhiteles hatósági nyilvántartásnak minősül.
 

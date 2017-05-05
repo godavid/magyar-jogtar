@@ -144,7 +144,18 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 
 11. § Az alapszabály módosítását – a mellékletek változásának kivételével – a változás megtörténtétől számított 30 napon belül kell bejelenteni a cégbíróságnak.
 
-12–16. §
+### A társulat megalakulása
+
+12. § A társulat megalakul, ha a működési területen ingatlantulajdonnal rendelkező vagy az ingatlant egyéb jogcímen használó természetes és jogi személyeknek, valamint jogi személyiséggel nem rendelkező szervezeteknek (a továbbiakban együtt: érdekelt) az érdekeltségi egység aránya szerint számított legalább kétharmada az alakuló közgyűlésen
+
+- a) kimondja megalakulását,
+- b) elfogadja a társulat alapszabályát,
+- c) megválasztja a társulat vezető testületi szerveit és tisztségviselőit, valamint
+- d) megválasztja a küldötteket.
+
+13. § A társulat cégbejegyzéséig az alapszabály érvénytelenségére a Polgári Törvénykönyvről szóló törvény rendelkezéseit kell alkalmazni. A cégbejegyzés után az alapszabály megtámadására nincs mód, és az alapszabály semmisségét a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvényben meghatározott okokon kívül csak akkor lehet megállapítani, ha a társulat alakuló gyűlésén az összes érdekelt érdekeltségi egység szerint számított több mint kétharmadának igen szavazata hiányzott.
+
+14–16. §
 
 17. §
 
@@ -414,9 +425,15 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 
 46. § A társulat a tagjainál vagy harmadik személynél bekövetkezett vízkárokért csak akkor felel, ha a társulati és a közfeladatok elvégzéséhez bármely jogcímen kapott hozzájárulást nem a küldöttgyűlés döntései szerint használja fel.
 
-47. §
+### A társulat egyesülése és szétválása
 
-48–50. §
+47. § A társulat más típusú jogi személlyé nem alakulhat át.
+
+48. § A társulat más társulattal összeolvadás útján egyesülhet.
+
+49. § A társulat különválással több társulatra szétválhat.
+
+50. §
 
 51. §
 

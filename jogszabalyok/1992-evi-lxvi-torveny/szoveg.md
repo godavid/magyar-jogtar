@@ -256,7 +256,7 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 
 (2) A Központi Okmánytárban a 9. § (3) bekezdésében meghatározott adatokat, illetőleg okiratokat az (1) bekezdés szerinti időpont lejártától számított ötven évig kell megőrizni.
 
-(3) A nyilvántartás történeti és archív állományából, valamint a Központi Okmánytárból – a 9. § (5) bekezdésében tett kivétellel, illetve a 9. § (2) bekezdés p) pontjában meghatározott adatok kivételével – e törvény általános szabályai szerint teljesíthető adatszolgáltatás.
+(3) A nyilvántartás történeti és archív állományából, valamint a Központi Okmánytárból – a 9. § (5) bekezdésében tett kivétellel, illetve a 9. § (2) bekezdés i) pontjában meghatározott adatok kivételével – e törvény általános szabályai szerint teljesíthető adatszolgáltatás.
 
 (4) A nyilvántartás történeti és archív állományában, továbbá a Központi Okmánytárban tárolt adatokat, okiratokat az e törvényben meghatározott megőrzési idő lejárta után egy éven belül meg kell semmisíteni, illetőleg törölni kell.
 
@@ -364,8 +364,9 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 - a) név, lakcím és értesítési cím adatok (felvilágosítás a lakcímről és az értesítési címről);
 - b) természetes személyazonosító adatok és lakcímadatok, értesítési cím adatok, állampolgárság, családi állapot, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye, a nem, a nyilvántartásból való kikerülés oka, helye és ideje;
 - c) a b) pontban felsorolt adatok és a személyazonosító jel;
-- d) a 9. § (2) bekezdés p) pontja, a 11. § (1) bekezdés q) pontja, valamint az állandó személyazonosító igazolvány tároló elemén aláíró tanúsítvány elhelyezésének ténye kivételével, a nyilvántartásba felvett adatok teljes köre;
-- e) természetes személyazonosító adatok és állampolgárság.
+- d) a 9. § (2) bekezdés i) pontja, a 11. § (1) bekezdés q) pontja, valamint az állandó személyazonosító igazolvány tároló elemén aláíró tanúsítvány elhelyezésének ténye kivételével, a nyilvántartásba felvett adatok teljes köre;
+- e) természetes személyazonosító adatok és állampolgárság;
+- f) természetes személyazonosító adatok, valamint a lakcím és értesítési cím adatok.
 
 (3) A nyilvántartás szervei a 11. § (1) bekezdésében meghatározott adatokat — a 2. § (5) bekezdésében foglalt feltételekkel — statisztikai célra felhasználhatják és azokat nyilvánosságra hozhatják.
 
@@ -437,6 +438,13 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 
 (4) Az általános politikai koordinációért felelős miniszternek az (1) bekezdésen alapuló adatkezelésére a kutatás és a közvetlen üzletszerzés célját szolgáló név- és lakcímadatok kezeléséről szóló 1995. évi CXIX. törvény 5. és 6. §-ában, valamint 13–15. §-ában foglaltakat megfelelően alkalmaznia kell.
 
+19/B. § A közszolgálati tisztviselőkről szóló törvény, az állami tisztviselőkről szóló törvény, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó foglalkoztatási jogviszonyban a foglalkoztató szerv
+
+- a) az általa törvény alapján vezetett személyügyi nyilvántartás adattartalmának ellenőrzése céljából, valamint
+- b) a jognyilatkozatok elektronikus dokumentumban történő, törvény szerinti közlése, illetve ehhez kapcsolódva az általa foglalkoztatottal való elektronikus kapcsolattartás folyamatos biztosítása céljából
+
+jogosult kérni az általa foglalkoztatott polgárnak a 17. § (2) bekezdés f) pontja szerinti adatait.
+
 20. § (1) A polgárnak a 17. § (2) bekezdésének a) és b) pontjában meghatározott adatairól — függetlenül attól, hogy élt-e adatai letiltásának jogával — más polgárnak, jogi személynek vagy jogi személyiséggel nem rendelkező szervezetnek adatszolgáltatás akkor teljesíthető, ha azt törvény, nemzetközi szerződés vagy viszonosság előírja, vagy ha a kérelmező
 
 - a) polgár vagy jogi személyiséggel nem rendelkező szervezet az adatok felhasználásához fűződő jogát vagy jogos érdekét okirattal igazolja;
@@ -494,6 +502,8 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 
 (2) A személyazonosításra alkalmas hatósági igazolvány kiadási eljárásban – személyazonosítás és személyazonosításra alkalmas hatósági igazolványon történő feltüntetés céljára – az eljáró hatóság jogosult a polgár arcképmásának és saját kezű aláírásának megismerésére, illetőleg igénylésére.
 
+(3) A körözési nyilvántartó szerv a személyazonosító igazolvány adatainak a körözési nyilvántartási rendszerbe rögzítését megelőző ellenőrzése céljából jogosult átvenni a polgár 11. § (1) bekezdés a)–e) pontja szerinti adatait, valamint a polgár személyazonosító igazolványának okmányazonosítóját.
+
 24/A. § (1) A nyilvántartás szerve kizárólag az ugyanazon polgárokra vonatkozó, rendszeresen ismétlődő csoportos adatszolgáltatás igényléséhez és átadásához, valamint az adatszolgáltatást kérő nyilvántartásának karbantartásához felhasználható kapcsolati kódot képezhet.
 
 (2) A kapcsolati kód tartalmát és képzési szabályát az adatkérő nem határozhatja meg. Az ugyanazon polgárra vonatkozó különféle adatszolgáltatásoknál adatkérőnként eltérő tartalmú kapcsolati kódot kell képezni.
@@ -514,7 +524,7 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 
 24/D. § A polgárnak a 11. § (1) bekezdés o) pontjában meghatározott adatairól adatszolgáltatás a Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény rendelkezéseivel összhangban teljesíthető.
 
-24/E. § Az anyakönyvvezető az elhalálozott személyek személyazonosító igazolványának, valamint a személyi azonosítóját és lakcímét igazoló hatósági igazolványának bevonása céljából a 11. § (1) bekezdés m) pontja és a 17. § (4) bekezdése szerinti adatokat jogosult igényelni, az állandó személyazonosító igazolvány tároló elemén aláíró tanúsítvány elhelyezésének ténye, valamint az állandó személyazonosító igazolványa elektronikus egyedi azonosítója kivételével.
+24/E. § Az anyakönyvvezető az elhalálozott személyek személyazonosító igazolványának, valamint a személyi azonosítóját és lakcímét igazoló hatósági igazolványának bevonása céljából a 11. § (1) bekezdés m) pontja és a 18. § (5) bekezdése szerinti adatokat jogosult igényelni, az állandó személyazonosító igazolvány tároló elemén aláíró tanúsítvány elhelyezésének ténye, valamint az állandó személyazonosító igazolványa elektronikus egyedi azonosítója kivételével.
 
 24/F. § (1) A nyilvántartást kezelő szerv az arckép profil nyilvántartás részére arckép profil létrehozása és nyilvántartásba vétele céljából a polgár arcképmását, valamint a 11. § (1) bekezdésének q) pontjában meghatározott adatot átadja.
 
@@ -880,9 +890,14 @@ miatt a külföldre utazásról szóló törvényben meghatározott okból külf
 
 29/H. § (1) A nyilvántartást kezelő szerv jogszabályban meghatározott, lefoglalásra vagy büntetőeljárásban bizonyítékként való felhasználásra irányuló figyelmeztető jelzés elhelyezése céljából haladéktalanul a Schengeni Információs Rendszerbe és a Nemzetközi Bűnügyi Rendőrség Szervezetének az INTERPOL FIND hálózati adatbázis által elérhető adatbázisába (a továbbiakban: a Nemzetközi Bűnügyi Rendőrség Szervezete körözési adatbázisa) továbbítja a személyiadat- és lakcímnyilvántartásban érvénytelenítésre került személyazonosító igazolvány törvényben meghatározott adatait, ha az okmány nincs a hatóság birtokában.
 
-(2) Ha az (1) bekezdés szerinti személyazonosító igazolvány időközben megkerült és az okmány megkerülésének tényét a személyiadat- és lakcímnyilvántartásba bejegyezték, a nyilvántartást kezelő szerv az (1) bekezdés szerinti módon gondoskodik a schengeni figyelmeztető jelzés és a Nemzetközi Bűnügyi Rendőrség Szervezete körözési adatbázisában szereplő tétel törléséről.
+(2) Ha az (1) bekezdés szerinti személyazonosító igazolvány
 
-(3) Ha kitöltetlen személyazonosító igazolvány eltűnéséről, elvesztéséről, eltulajdonításáról, illetve az eltűnt kitöltetlen személyazonosító igazolvány megkerüléséről értesül, a nyilvántartást kezelő szerv gondoskodik a schengeni figyelmeztető jelzés jogszabály szerinti NS.CP Portál felületen keresztül történő, valamint a Nemzetközi Bűnügyi Rendőrség Szervezete körözési adatbázisában szereplő tétel beviteléről, illetve törléséről.
+- a) időközben megkerült, vagy
+- b) lefoglalás vagy büntetőeljárásban bizonyítékként történő felhasználása céljából elrendelt körözésének adatai a körözési nyilvántartási rendszerből törlésre kerültek,
+
+a nyilvántartást kezelő szerv az (1) bekezdés szerinti módon gondoskodik a schengeni figyelmeztető jelzés és a Nemzetközi Bűnügyi Rendőrség Szervezete körözési adatbázisában szereplő tétel törléséről.
+
+(3) Ha kitöltetlen személyazonosító igazolvány eltűnéséről, elvesztéséről, eltulajdonításáról, illetve az eltűnt kitöltetlen személyazonosító igazolvány megkerüléséről értesül, a nyilvántartást kezelő szerv gondoskodik a schengeni figyelmeztető jelzés jogszabály szerinti NS.CP Portál felületen keresztül történő elhelyezéséről, illetve törléséről, valamint az Interpol Magyar Nemzeti Iroda értesítésével kezdeményezi az okmányadatok Nemzetközi Bűnügyi Rendőrség Szervezete körözési adatbázisába történő továbbítását, illetve az abban szereplő tétel törlését.
 
 29/I. § Ha törvény valamely, a nyilvántartásban szereplő személyes adat megváltozása esetén előírja, a a nyilvántartást kezelő szerv a törvényben megjelölt nyilvántartást vezető szervet az adatváltozással érintett személy természetes személyazonosító adatainak továbbításával értesíti az adatváltozásról. A törvényben megjelölt nyilvántartást vezető szerv haladéktalanul egyedileg összehasonlítja az érintett természetes személyazonosító adatait a nyilvántartásában kezelt adatokkal. Az összehasonlítást követően a törvényben megjelölt nyilvántartást vezető szerv az értesítésben megküldött adatokat haladéktalanul törli, ha az érintett természetes személyazonosító adatait nyilvántartásában nem kezeli.
 
