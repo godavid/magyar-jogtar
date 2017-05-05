@@ -462,7 +462,7 @@ az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valami
 
 (3) A mezőőr és a rendőrség közötti együttműködésre a 15. § (4) és (5) bekezdésében foglalt rendelkezéseket kell alkalmazni.
 
-(3a) A mezőőr az e törvényben meghatározott feladatai ellátása során a Magyarország helyi önkormányzatairól szóló törvény 51. § (4) bekezdése szerinti önkormányzati rendeletben meghatározott helyszíni bírságot szabhat ki.
+(3a) A mezőőr az (1) bekezdésben meghatározottakon túl jogosult a jogszabályban meghatározott esetben helyszíni bírságot kiszabni.
 
 (4) A mezőőr tevékenysége során együttműködik a katasztrófavédelemmel, a Nemzeti Adó- és Vámhivatal vámszerveivel, a hivatásos állami és önkormányzati tűzoltósággal, a természetvédelmi őrszolgálattal, az erdészeti hatósággal, a vadászati hatósággal, a halászati hatósággal, az önkormányzati szervekkel, a járási hivatallal, a fegyveres biztonsági őrséggel, valamint az egyesületekkel.
 

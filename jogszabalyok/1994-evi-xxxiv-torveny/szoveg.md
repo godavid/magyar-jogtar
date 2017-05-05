@@ -195,7 +195,7 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 - b) elvégzi
   - ba) a közszolgálati tisztviselőkről szóló törvény, valamint az állami tisztviselőkről szóló törvény szerinti, az (1a) bekezdésben meghatározott feladatkörrel rendelkező kormányzati szolgálati jogviszonyban álló kormánytisztviselők és kormányzati ügykezelők, valamint állami szolgálati jogviszonyban álló állami tisztviselők és állami ügykezelők,
   - bb) a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv, a Nemzeti Adó- és Vámhivatal, az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat hivatásos állományú tagjai, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó hivatásos állomány Nemzeti Biztonsági Felügyelethez (a továbbiakban: NBF) és a Terrorelhárítási Információs és Bűnügyi Elemző Központhoz vezényelt tagjai,
-  - bc) a bb) alpontban meghatározott szervek, az idegenrendészeti hatóság, a menekültügyi hatóság, az állampolgársági ügyekben eljáró szerv, valamint a Kormány által rendeletben meghatározott befogadó állomás kormánytisztviselői, köztisztviselői, állami szolgálati, valamint közalkalmazotti jogviszonyban álló tagjai,
+  - bc) a bb) alpontban meghatározott szervek, az idegenrendészeti hatóság, a menekültügyi hatóság, az állampolgársági ügyekben eljáró szerv, valamint a Kormány által rendeletben meghatározott befogadó állomás kormánytisztviselői, köztisztviselői, állami szolgálati, közalkalmazotti, továbbá az igazságügyi szakértői intézmény igazságügyi alkalmazotti jogviszonyban álló tagjai,
   - bd) az NBF kivételével a bb) és bc) alpontban meghatározott szervek irányítását ellátó minisztériumok a bb) és bc) alpontban meghatározott szervek irányításával, ellenőrzésével kapcsolatos szervezeti egységeinek, továbbá az NBF kivételével a bb) és bc) alpontban meghatározott szervek bűnüldözési és államigazgatási adatkezelését, pénzügyi és gazdasági ellátását, kiképzését és oktatását végző szervek rendeltetésszerű működése körében eljáró kormánytisztviselői, állami tisztviselői, köztisztviselői és közalkalmazottai, továbbá
   - be) a Kormány által a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény alapján nemzetbiztonsági célból létrehozott kabinet, valamint az annak munkáját segítő testület – politikai vezetőnek nem minősülő – tagjai, továbbá a tagok helyettesítésére jogosult és a titkársági feladatokat ellátó személyek (a ba)–bd) alpontban meghatározottak a továbbiakban együtt: védett állomány) megbízhatósági vizsgálatát,
 - c) felderíti a b) pontban megjelölt védett állománnyal összefüggő, külön jogszabályban meghatározott bűncselekményeket.
@@ -206,7 +206,8 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 - b) közbeszerzési eljárás során,
 - c) feladatai ellátása során költségvetési vagy egyéb pénzeszközök felett, továbbá az állami vagyonnal való gazdálkodás, valamint elkülönített állami pénzalapok, fejezeti kezelésű előirányzatok tekintetében,
 - d) egyedi állami támogatásról való döntésre irányuló eljárás lefolytatása során, vagy
-- e) állami támogatások felhasználásának vizsgálata vagy a felhasználással való elszámoltatás során.
+- e) állami támogatások felhasználásának vizsgálata vagy a felhasználással való elszámoltatás során,
+- f) személyazonosító igazolvány, lakcímet igazoló hatósági igazolvány, vezetői engedély, útlevél, magyar igazolvány, magyar hozzátartozói igazolvány, forgalmi engedély, gépjármű törzskönyv, egyéni vállalkozói igazolvány, hatósági erkölcsi bizonyítvány kiállításával összefüggő ügyekben.
 
 (2) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv nyomozóhatósági jogkört nem gyakorol.
 
@@ -218,23 +219,28 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 
 7/A. § (1) A megbízhatósági vizsgálat célja annak megállapítása, hogy az azzal érintett eleget tesz-e a jogszabályban előírt hivatali kötelezettségének. Ennek megállapítása érdekében a megbízhatósági vizsgálatot végző szerv a munkakör ellátása során a valóságban is előforduló vagy feltételezhető élethelyzeteket hoz mesterségesen létre. A megbízhatósági vizsgálat során feltárt jogsértés alapján fegyelmi vagy szabálysértési eljárás nem indítható.
 
-(2) A megbízhatósági vizsgálatot a szükségességének indokolásával a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vezetője határozattal rendeli el. A megbízhatósági vizsgálat elrendeléséről és befejezéséről – az arra vonatkozó határozat, valamint elrendelés esetén a részletes terv megküldésével – az ügyészt haladéktalanul tájékoztatni kell. A határozat és a megbízhatósági vizsgálat végrehajtásáról szóló részletes terv alapján az ügyész a megbízhatósági vizsgálat elrendelését 2 munkanapon belül jóváhagyja, vagy a jóváhagyást megtagadja.
+(2) A megbízhatósági vizsgálatot – a szükségességének indokolásával – a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vezetője a védett szerv tagjával, vagy a védett szerv valamely állománycsoportjához tartozó, meghatározott szolgálati feladatot teljesítő, az elrendeléskor még nem nevesíthető tagjával szemben, határozattal rendeli el. A megbízhatósági vizsgálat elrendeléséről és befejezéséről – az arra vonatkozó határozat, valamint elrendelés esetén a részletes terv, befejezés esetén az összesítő jelentés megküldésével – az ügyészt haladéktalanul tájékoztatni kell. A határozat és a megbízhatósági vizsgálat végrehajtásáról szóló részletes terv alapján az ügyész a megbízhatósági vizsgálat elrendelését két munkanapon belül jóváhagyja, vagy a jóváhagyást megtagadja.
 
 (2a) A megbízhatósági vizsgálat befejezéséről szóló határozat kézhezvételétől számított 8 munkanapon belül az ügyész megvizsgálja annak törvényességét, majd visszaküldi az elrendelő szervnek. Jogszabálysértés megállapítása esetén írásba foglalt indokolt határozatával új határozat hozatalára utasítja a megbízhatósági vizsgálatot folytató szervet, ha pedig azt állapítja meg, hogy a megbízhatósági vizsgálat végrehajtására a részletes tervtől eltérően került sor, felelősségre vonást is kezdeményez.
 
-(3) A védett állomány megbízhatósági vizsgálattal érintett tagját a megbízhatósági vizsgálat megindításáról nem, befejezéséről három munkanapon belül kell tájékoztatni.
+(3) A védett állomány megbízhatósági vizsgálattal érintett tagját a megbízhatósági vizsgálat megindításáról nem, befejezéséről – ideértve az (5) bekezdés szerinti megszüntető határozat meghozatalát is – tizenöt munkanapon belül kell tájékoztatni.
 
-(4) A védett állomány tagjára vagy tagjaira vonatkozóan megbízhatósági vizsgálatot elrendelni naptári évenként legfeljebb három alkalommal lehet, a megbízhatósági vizsgálat időtartama alkalmanként nem haladhatja meg a 15 napot. A megbízhatósági vizsgálat során végzett tevékenységeket dokumentálni kell.
+(4) A védett állomány tagjára vagy tagjaira vonatkozóan megbízhatósági vizsgálatot elrendelni – az (5) bekezdésben foglaltak kivételével – naptári évenként legfeljebb három alkalommal lehet.
+
+(5) Ha az (1) bekezdésben meghatározott mesterséges élethelyzet kialakítása objektív körülmények miatt meg sem kezdődött, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv eljárást megszüntető határozatot hoz, azonban a megbízhatósági vizsgálat évenkénti elrendelésére vonatkozóan a (4) bekezdésben meghatározott korlátozást figyelmen kívül kell hagyni.
+
+(6) A megbízhatósági vizsgálat időtartama alkalmanként legfeljebb tizenöt nap, amelyet a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vezetője egy alkalommal tizenöt nappal meghosszabbíthat. A megbízhatósági vizsgálat során végzett tevékenységeket dokumentálni kell.
 
 7/B. § (1) A megbízhatósági vizsgálat során a VII. Fejezetben írt módon – a bírói engedélyhez kötött információgyűjtés kivételével, az elrendelő határozat indokolásában írt cél megtartásával – titokban információ gyűjthető. Az alkalmazni kívánt titkos információgyűjtő eszközt az elrendelő határozatnak és a részletes tervnek tartalmaznia kell. Ha a titkos információgyűjtés alkalmazni kívánt eszközéhez ügyészi engedély szükséges, a megbízhatósági vizsgálat csak az erre vonatkozó ügyészi engedély birtokában végezhető.
 
 (2) A megbízhatósági vizsgálatot a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv tagja a következők szerint végezheti:
 
-- a) polgári felhasználású robbanóanyaggal és pirotechnikai termékkel kapcsolatos szabálysértést, valótlan bejelentés szabálysértést, vámszabálysértést, vámszabálysértés elkövetőjének segítése szabálysértést, vámorgazdaság szabálysértést, minősített adat biztonságának megsértése szabálysértést, külföldiek rendészetével kapcsolatos szabálysértést, közúti közlekedési igazgatási szabályok megsértése szabálysértést, közúti közlekedési szabályok kisebb fokú megsértése szabálysértést, víziközlekedési szabályok megsértése szabálysértést, valamint olyan közlekedési szabályszegést követhet el, amelynek esetén közigazgatási bírság kiszabásának van helye,
+- a) polgári felhasználású robbanóanyaggal és pirotechnikai termékkel kapcsolatos szabálysértést, valótlan bejelentés szabálysértést, vámszabálysértést, vámszabálysértés elkövetőjének segítése szabálysértést, vámorgazdaság szabálysértést, minősített adat biztonságának megsértése szabálysértést, külföldiek rendészetével kapcsolatos szabálysértést, közúti közlekedési igazgatási szabályok megsértése szabálysértést, közúti közlekedési szabályok kisebb fokú megsértése szabálysértést, víziközlekedési szabályok megsértése szabálysértést, köztisztasági szabálysértést, határrendészeti szabálysértést, valamint olyan szabályszegést követhet el, amelynek esetén közigazgatási bírság kiszabásának van helye,
 - b) nem követhet el
   - ba) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) X. fejezetében, XI. fejezetében, XII. fejezetében – a magánlaksértés (1978. évi IV. törvény 176. §) kivételével –, XIII. fejezetében, XIV. fejezetében, XV. fejezetében – a hivatali visszaélés (1978. évi IV. törvény 225. §), a hamis vád (1978. évi IV. törvény 233. §), a hatóság félrevezetése (1978. évi IV. törvény 237. §), valamint a III. címben és a VII. címben foglaltak kivételével –, XVI. fejezetében – a III. címben foglaltak kivételével –, XVII. fejezetében – az áru hamis megjelölése (1978. évi IV. törvény 296. §), valamint a III. címben foglaltak kivételével –, XVIII. fejezetében – a szerzői vagy szerzői joghoz kapcsolódó jogok megsértése (1978. évi IV. törvény 329/A. §) kivételével –, XIX. fejezetében és XX. fejezetében meghatározott bűncselekményt,
-  - bb) a Büntető Törvénykönyvről szóló 2012. évi C. törvényben (a továbbiakban: Btk.) meghatározott bűncselekményt, a magánlaksértés (Btk. 221. §), a minősített adattal visszaélés (Btk. 265. §), a hamis vád (Btk. 268. §), a hatóság félrevezetése [Btk. 271. § (1) bekezdés], a hivatali visszaélés (Btk. 305. §), az információs rendszer felhasználásával elkövetett csalás (Btk. 375. §), a szerzői vagy szerzői joghoz kapcsolódó jogok megsértése (Btk. 385. §), a készpénz-helyettesítő fizetési eszköz hamisítása (Btk. 392. §), a készpénz-helyettesítő fizetési eszközzel visszaélés (Btk. 393. §), a készpénz-helyettesítő fizetési eszköz hamisításának elősegítése (Btk. 394. §), a versenytárs utánzása (Btk. 419. §), illetve a Btk. XXVII., XXXIII. és XXXIX. Fejezetében felsorolt bűncselekmények kivételével,
-- c) elkövetheti a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény 114. §-ában jövedéki bírság kiszabásával szankcionált cselekményt.
+  - bb) a Büntető Törvénykönyvről szóló 2012. évi C. törvényben (a továbbiakban: Btk.) meghatározott bűncselekményt, a személyes adattal visszaélés (Btk. 219. §), a magánlaksértés (Btk. 221. §), a minősített adattal visszaélés (Btk. 265. §), a hamis vád (Btk. 268. §), a hatóság félrevezetése [Btk. 271. § (1) bekezdés], a hivatali visszaélés (Btk. 305. §), az információs rendszer felhasználásával elkövetett csalás (Btk. 375. §), a szerzői vagy szerzői joghoz kapcsolódó jogok megsértése (Btk. 385. §), a készpénz-helyettesítő fizetési eszköz hamisítása (Btk. 392. §), a készpénz-helyettesítő fizetési eszközzel visszaélés (Btk. 393. §), a készpénz-helyettesítő fizetési eszköz hamisításának elősegítése (Btk. 394. §), a versenytárs utánzása (Btk. 419. §), illetve a Btk. XXVII., XXXIII. és XXXIX. Fejezetében felsorolt bűncselekmények kivételével,
+- c) elkövetheti a jövedéki adóról szóló törvény szerinti szabálytalanságot, illetve megsértheti a jövedéki adóról szóló törvény szerinti kötelezettséget,
+- d) elkövetheti a környezetvédelmi termékdíj-kötelezettségi szabályok megsértését, a fémkereskedő fémkereskedelmi tevékenységével, fémkereskedelmi engedélyköteles anyagok más személy általi értékesítésével, szállításával, fuvarozásával, raktározásával, tárolásával, hasznosításával összefüggő szabályok megsértését, az elektronikus közúti áruforgalom ellenőrző rendszerbe a közúti fuvarozáshoz kapcsolódó bejelentési kötelezettséghez kötődő szabályok megsértését, költségvetési vagy egyéb pénzeszközök, állami támogatások felhasználásával összefüggésben adózási bejelentési, bevallási, megfizetési kötelezettségek, számviteli renddel kapcsolatos kötelezettségek megsértését.
 
 (3) A belső bűnmegelőzési és bűnfelderítési szerv megbízhatósági vizsgálatot végző tagja technikai eszközök segítségével titokban rögzítheti
 
@@ -571,6 +577,10 @@ igazolja.
 
 (3) Az elővezetés elrendelésének törvényességéért az elrendelő a felelős.
 
+(4) Ha az elővezetendő személy cselekvőképességet érintő gondnokság alatt áll, az elővezetés foganatosításának tervezett időpontjáról előzetesen a gondnokot értesíteni kell, ha az a rendőri intézkedés foganatosítását nem akadályozza.
+
+(5) A gondnok – értesítés ellenére történő – távol maradása esetén a rendőri intézkedés foganatosítására a gondnok távollétében kerül sor. A rendőrség a távolmaradás tényéről a szükséges intézkedések megtétele érdekében az illetékes gyámhatóságot értesíti.
+
 ### Intézkedés a tanítási napon a tanítási órától vagy az iskola által szervezett foglalkozástól engedély nélkül távolmaradó, vagy onnan engedély nélkül eltávozó 14. életévét be nem töltött tanulóval szemben
 
 34/A. § (1) A rendőr – a nevelési-oktatási intézménnyel történt előzetes egyeztetést követően – a nevelési-oktatási intézmény vezetőjéhez kísérheti azt a 14. életévét be nem töltött tanulót, aki a tanítási napon a tanítási órától vagy az iskola által szervezett kötelező foglalkozástól nagykorú kísérete nélkül úgy marad távol, hogy a távolmaradását nem tudja hitelt érdemlően igazolni.
@@ -713,7 +723,7 @@ készítése
 
 (5e) Az állam működése szempontjából kiemelten fontos, illetve a Kormány által létesítmény és rendezvénybiztosítási intézkedés céljából kijelölt és a rendőrség által védett, továbbá a rendőrség kezelésében lévő létesítmények rendjének és jogszerű működésének védelme, illetve az abban tartózkodók biztonsága érdekében a létesítmény folyosóin, a közös használatú – a megfigyelés elől az emberi méltóság védelme érdekében el nem zárt – helyiségeiben, valamint a létesítmények területét határoló külső falakon és kapuknál a rendőrség képfelvevőt helyezhet el és felvételt készíthet.
 
-(6) Az
+(6) A(z)
 
 - a) (1), (2), (5) és (5e) bekezdésben foglaltak alapján készített felvétel, illetve az abban szereplő személyes adat
   - aa) bűncselekmény, szabálysértés vagy a közlekedés szabályainak megsértése miatt indult büntető-, szabálysértési vagy más hatósági eljárás során,
@@ -722,7 +732,8 @@ készítése
   - ad) a rendőri intézkedés jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, vagy
   - ae) az érintett személy jogainak gyakorlása érdekében,
 - b) (5a) és (5c) bekezdésben foglaltak alapján készített felvétel, illetve az abban szereplő személyes adat csak a rögzítés helyszínén elkövetett bűncselekmény, szabálysértés vagy fegyelmi vétség miatt indult büntető-, szabálysértési vagy fegyelmi eljárás során, vagy a rendőri intézkedés jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, illetve az érintett személy jogainak gyakorlása érdekében
-- c) (5b) bekezdés alapján készített felvétel, illetve az abban szereplő személyes adat a segélyhívó számon fogadott hívással összefüggésben elkövetett, a segélyhívás során említett bűncselekmény vagy szabálysértés miatt indult büntető- vagy szabálysértési eljárás során vagy a segélyhívást követő intézkedés jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, illetve az érintett személy jogainak gyakorlása érdekében
+- c) (5b) bekezdés alapján készített felvétel, illetve az abban szereplő személyes adat a segélyhívó számon fogadott hívással összefüggésben elkövetett, a segélyhívás során említett bűncselekmény vagy szabálysértés miatt indult büntető- vagy szabálysértési eljárás során vagy a segélyhívást követő intézkedés jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, illetve az érintett személy jogainak gyakorlása érdekében,
+- d) a (2) bekezdésben foglaltak alapján készített felvétel, illetve az abban szereplő személyes adat az egészségügyről szóló 1997. évi CLIV. törvény 94–96. §-ában meghatározott feladatok ellátásának szervezése, koordinálása és irányítása céljából
 
 használható fel.
 
@@ -739,7 +750,13 @@ törölni kell.
 
 (9) Ha a felvétel felhasználására a (6) bekezdés szerinti eljárásokban kerül sor, az adatok kezelésére az alapul szolgáló eljárás szabályait kell alkalmazni.
 
-42/A. § (1) A 42. § (7) és (8) bekezdésében meghatározott határidőn belül a 42. § (1), (2), (5)–(5c) és (5e) bekezdése szerint rögzített felvételből – jogszabályban meghatározott szabálysértési, bűnüldözési, igazságszolgáltatási, valamint nemzetbiztonsági feladatok ellátása céljából – a nyomozó hatóság, a szabálysértési hatóság, az ügyészség, a bíróság, a nemzetbiztonsági szolgálatok, a terrorizmust elhárító szerv, a közlekedés szabályainak megsértése miatt közigazgatási hatósági eljárást folytató hatóság, nemzetközi jogsegély keretében külföldi hatóság, jogainak gyakorlása érdekében az érintett, valamint a jogszabály alapján eljárás kezdeményezésére irányuló jogának gyakorlása érdekében harmadik személy igényelhet adatot.
+42/A. § (1) A 42. § (7) és (8) bekezdésében meghatározott határidőn belül a 42. § (1), (2), (5)–(5c) és (5e) bekezdése szerint rögzített felvételből
+
+- a) – jogszabályban meghatározott szabálysértési, bűnüldözési, igazságszolgáltatási, nemzetbiztonsági, valamint az egészségügyről szóló 1997. évi CLIV. törvény 94–96. §-ában meghatározott feladatok ellátása céljából – a nyomozó hatóság, a szabálysértési hatóság, az ügyészség, a bíróság, a nemzetbiztonsági szolgálatok, a terrorizmust elhárító szerv, a közlekedés szabályainak megsértése miatt közigazgatási hatósági eljárást folytató hatóság, az állami mentőszolgálat, nemzetközi jogsegély keretében külföldi hatóság,
+- b) jogainak gyakorlása érdekében az érintett, valamint
+- c) a jogszabály alapján eljárás kezdeményezésére irányuló jogának gyakorlása érdekében harmadik személy
+
+igényelhet adatot.
 
 (1a) A rendőrség a segélyhívást követő intézkedés lefolytatása céljából az intézkedés lefolytatására feladat- és hatáskörrel rendelkező egészségügyi szervet, hivatásos katasztrófavédelmi szervet a segélyhívásokkal kapcsolatban a rendőrség által kezelt adatok továbbításával értesíti.
 
@@ -1010,7 +1027,7 @@ törölni kell.
 
 ### Külföldi szerv határrendészeti feladatokat ellátó tagjára vonatkozó rendelkezések
 
-62/A. § (1) A gyorsreagálású határvédelmi csapatok felállítására szolgáló eljárás bevezetéséről, valamint a 2007/2004/EK tanácsi rendeletnek ezen eljárás tekintetében történő módosításáról és a kiküldött határőrök feladatai és hatáskörei szabályozásáról szóló, 2007. július 11-i 863/2007/EK európai parlamenti és tanácsi rendeletet alkalmazó állam határrendészeti feladatokat ellátó szervének tagja Magyarország területén kizárólag:
+62/A. § (1) Az Európai Határ- és Parti Őrségről és az (EU) 2016/399 európai parlamenti és tanácsi rendelet módosításáról, valamint a 863/2007/EK európai parlamenti és tanácsi rendelet, a 2007/2004/EK tanácsi rendelet és a 2005/267/EK tanácsi határozat hatályon kívül helyezéséről szóló, 2016. szeptember 14-i 2016/1624/EU európai parlamenti és tanácsi rendeletet alkalmazó állam határrendészeti feladatokat ellátó szervének tagja Magyarország területén kizárólag:
 
 - a) a 47. § rendelkezése szerint testi kényszert, a 48. § rendelkezése szerint bilincset, illetve a 49. § (1) bekezdése szerint rendőrbotot alkalmazhat,
 - b) szolgálati fegyverét tarthatja magánál, azt azonban kizárólag jogos védelmi helyzetben, illetve végszükségben használhatja,
@@ -1022,7 +1039,7 @@ törölni kell.
 
 (4) Az (1) bekezdés szerinti állam határrendészeti feladatokat ellátó szervének tagja Magyarország területén történő átutazása esetén is magánál tarthatja kényszerítő eszközét, illetve szolgálati fegyverét.
 
-(5) Az (1) bekezdésben meghatározott határrendészeti feladatokat ellátó szerv tagja a Magyarország területén a gyorsreagálású határvédelmi csapatok felállítására szolgáló eljárás bevezetéséről, valamint a 2007/2004/EK tanácsi rendeletnek ezen eljárás tekintetében történő módosításáról és a kiküldött határőrök feladatai és hatáskörei szabályozásáról szóló, 2007. július 11-i 863/2007/EK európai parlamenti és tanácsi rendelet 6. cikk (8) bekezdésében, valamint az Európai Unió Tagállamai Külső Határain Való Operatív Együttműködési Igazgatásért Felelős Európai Ügynökség felállításáról szóló, 2004. október 26-i 2007/2004/EK tanácsi rendelet 10. cikk (8) bekezdésében meghatározott keretek között hozzáférhet
+(5) Az (1) bekezdésben meghatározott határrendészeti feladatokat ellátó szerv tagja a Magyarország területén az Európai Határ- és Parti Őrségről és az (EU) 2016/399 európai parlamenti és tanácsi rendelet módosításáról, valamint a 863/2007/EK európai parlamenti és tanácsi rendelet, a 2007/2004/EK tanácsi rendelet és a 2005/267/EK tanácsi határozat hatályon kívül helyezéséről szóló, 2014. szeptember 14-i 2016/1624/EU európai parlamenti és tanácsi rendelet 40. cikk (8) bekezdésében meghatározott keretek között hozzáférhet
 
 - a) a Schengeni Információs Rendszerhez, valamint
 - b) a Vízuminformációs Rendszerhez.
@@ -1607,21 +1624,18 @@ részére.
 
 ### A határrendészeti adatkezelés
 
-91/K. § (1) A rendőrség a határforgalom ellenőrzése során, az államhatáron átlépő harmadik ország állampolgárai által bemutatott okmányok, valamint a határátlépés során használt gépjármű adatait összeveti az alábbi nyilvántartások adataival:
+91/K. § (1) A rendőrség a határforgalom ellenőrzése során, az Európai Unió kötelező jogi aktusaival összhangban az államhatáron átlépők által bemutatott okmányok, valamint a határátlépés során használt gépjármű adatait különösen az alábbi nyilvántartások adataival veti össze:
 
-- a) beutazási és tartózkodási tilalom hatálya alatt állók nyilvántartása,
-- b) körözési nyilvántartási rendszer,
-- c) a külföldre utazási korlátozás hatálya alatt állók nyilvántartása,
-- d) útiokmány-nyilvántartás,
-- e) személyiadat- és lakcímnyilvántartás,
-- f) személyazonosító igazolványokra vonatkozó nyilvántartás,
-- g) közúti közlekedési nyilvántartás, járműnyilvántartás,
-- h) Schengeni Információs Rendszer,
-- i) a szabálysértésekről vezetett nyilvántartás, valamint
-- j) az INTERPOL FIND hálózati adatbázis által elérhető nyilvántartások,
-- k) a tartózkodási engedélyekre vonatkozó idegenrendészeti résznyilvántartás.
+- a) a központi idegenrendészeti nyilvántartás,
+- b) a körözési nyilvántartási rendszer,
+- c) az útiokmány-nyilvántartás,
+- d) a személyiadat- és lakcímnyilvántartás,
+- e) a közúti közlekedési nyilvántartás,
+- f) a Schengeni Információs Rendszer,
+- g) a szabálysértési nyilvántartási rendszer, valamint
+- h) az INTERPOL FIND hálózati adatbázis által elérhető nyilvántartások.
 
-(2) A szabad mozgás és tartózkodás jogával rendelkező személyek államhatáron történő átlépésekor az (1) bekezdésben felsorolt nyilvántartásokban történő ellenőrzést szúrópróbaszerűen alkalmazzák.
+(2)
 
 (3) A Rendőrség a határforgalom ellenőrzése során az államhatáron átlépő vízumkötelezett harmadik országbeli állampolgár által bemutatott okmányok adatait és e személy ujjnyomatát összeveti a Vízuminformációs Rendszerrel.
 
@@ -1640,7 +1654,7 @@ részére.
 - a) Magyarország államhatárát nem határátkelőhelyen vagy határátlépési ponton lépték át, vagy
 - b) személyazonosságukat hitelt érdemlően nem tudják igazolni.
 
-(2) A rendőrség az (1) és (1a) bekezdés szerinti nyilvántartásból törvényben meghatározott feladat teljesítése érdekében adatot szolgáltat a bíróságnak, az ügyészségnek, a nyomozó hatóságnak, az idegenrendészeti hatóságnak, a menekültügyi hatóságnak, továbbá a nemzetbiztonsági szolgálatoknak.
+(2) A rendőrség az (1) és (1a) bekezdés szerinti nyilvántartásból törvényben meghatározott feladat teljesítése érdekében adatot szolgáltat a bíróságnak, az ügyészségnek, a nyomozó hatóságnak, az idegenrendészeti hatóságnak, a menekültügyi hatóságnak, a nemzetbiztonsági szolgálatoknak, továbbá az állami adó- és vámhatóságnak.
 
 (2a) A rendőrség (1) bekezdésben meghatározott nyilvántartásából az (1) bekezdésben meghatározott adatokat az idegenrendészeti hatóság – a huzamos tartózkodás jogszerűségének ellenőrzése céljából – a konkrét cél megjelölésével átveheti.
 
@@ -1907,11 +1921,11 @@ bírálja el.
 
 104. § E törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-- a) a gyorsreagálású határvédelmi csapatok felállítására szolgáló eljárás bevezetéséről, valamint a 2007/2004/EK tanácsi rendeletnek ezen eljárás tekintetében történő módosításáról és a kiküldött határőrök feladatai és hatáskörei szabályozásáról szóló, 2007. július 11-i 863/2007/EK európai parlamenti és tanácsi rendelet által módosított, az Európai Unió Tagállamai Külső Határain Való Operatív Együttműködési Igazgatásért Felelős Európai Ügynökség felállításáról szóló, 2004. október 26-i 2007/2004/EK tanácsi rendelet 10. cikk (2) bekezdése,
-- b) az Európai Parlament és a Tanács 1168/2011/EU rendelete (2011. október 25.) által módosított, az Európai Unió Tagállamai Külső Határain Való Operatív Együttműködési Igazgatásért Felelős Európai Ügynökség felállításáról szóló, 2004. október 26-i 2007/2004/EK tanácsi rendelet 11. és 11c. cikke [91/L. § (3) bekezdése],
+- a) az Európai Határ- és Parti Őrségről és az (EU) 2016/399 európai parlamenti és tanácsi rendelet módosításáról, valamint a 863/2007/EK európai parlamenti és tanácsi rendelet, a 2007/2004/EK tanácsi rendelet és a 2005/267/EK tanácsi határozat hatályon kívül helyezéséről szóló, 2016. szeptember 14-i 2016/1624/EU európai parlamenti és tanácsi rendelet 40. cikk (2) bekezdése,
+- b) az Európai Határ- és Parti Őrségről és az (EU) 2016/399 európai parlamenti és tanácsi rendelet módosításáról, valamint a 863/2007/EK európai parlamenti és tanácsi rendelet, a 2007/2004/EK tanácsi rendelet és a 2005/267/EK tanácsi határozat hatályon kívül helyezéséről szóló 2016/1624/EU európai parlamenti és tanácsi rendelet 44. és 47. cikke [91/L. § (3) bekezdése],
 - c) a fuvarozóknak az utasokkal kapcsolatos adatok közlésére vonatkozó kötelezettségéről szóló, 2004. április 29-i 2004/82/EK tanácsi irányelv 3. cikke és a 6. cikk (1) bekezdése,
 - d) a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet,
-- e) a gyorsreagálású határvédelmi csapatok felállítására szolgáló eljárás bevezetéséről, valamint a 2007/2004/EK tanácsi rendeletnek ezen eljárás tekintetében történő módosításáról és a kiküldött határőrök feladatai és hatáskörei szabályozásáról szóló, 2007. július 11-i 863/2007/EK európai parlament és tanácsi rendelet 6. cikk (8) bekezdése, valamint e rendelet által módosított, az Európai Unió Tagállamai Külső Határain Való Operatív Együttműködési Igazgatásért Felelős Európai Ügynökség felállításáról szóló, 2004. október 26-i 2007/2004/EK tanácsi rendelet 10. cikk (8) bekezdése,
+- e) az Európai Határ- és Parti Őrségről és az (EU) 2016/399 európai parlamenti és tanácsi rendelet módosításáról, valamint a 863/2007/EK európai parlamenti és tanácsi rendelet, a 2007/2004/EK tanácsi rendelet és a 2005/267/EK tanácsi határozat hatályon kívül helyezéséről szóló, 2016. szeptember 14-i 2016/1624/EU európai parlamenti és tanácsi rendelet 40. cikk (8) bekezdés első albekezdése,
 - f) a robbanóanyag-prekurzorok forgalmazásáról és felhasználásáról szóló, 2013. január 15-i, 98/2013/EU európai parlamenti és tanácsi rendelet 9. és 10. cikke,
 - g) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i 2007/533/IB tanácsi határozat 36. és 37. cikkei [46/B–46/C. §],
 - h) a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat 3–5. és 16. cikke [91/C. §],

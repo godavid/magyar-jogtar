@@ -768,7 +768,7 @@ szerzi be.
 
 (5) Az 52/B. §-ban meghatározott adatszolgáltatás tényét mind az együttműködő szervnél, mind a Terrorelhárítási Információs és Bűnügyi Elemző Központnál az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározott adattovábbítási nyilvántartásban kell rögzíteni.
 
-(6) Amennyiben a minősített adat az Észak-atlanti Szerződés Szervezete, valamint az Európai Unió Tanácsa, az Európai Bizottság, az Európai Atomenergia Közösség, az Európai Rendőrségi Hivatal, az Európai Igazságügyi Együttműködési Egység valamely szervétől vagy külföldi titkosszolgálatoktól származik, az adat átadásáról az együttműködő szerv vezetője dönt.
+(6) Amennyiben a minősített adat az Észak-atlanti Szerződés Szervezete, valamint az Európai Unió Tanácsa, az Európai Bizottság, az Európai Atomenergia Közösség, a Bűnüldözési Együttműködés Európai Uniós Ügynöksége, az Európai Igazságügyi Együttműködési Egység valamely szervétől vagy külföldi titkosszolgálatoktól származik, az adat átadásáról az együttműködő szerv vezetője dönt.
 
 52/D. § A Terrorelhárítási Információs és Bűnügyi Elemző Központ nemzetbiztonsági célból beszerzi és kezeli a törvénnyel kihirdetett nemzetközi szerződés vagy az Európai Unió kötelező jogi aktusa alapján az ott meghatározott adatkörben és időtartamban a külföldi szerv által a rendelkezésére bocsátott adatot is.
 
@@ -813,16 +813,9 @@ szerzi be.
 - e) a 2016/681/EU parlamenti és tanács irányelv szerinti általános megjegyzések, ha olyan információt tartalmaznak, amely alkalmas lehet az utas közvetlen beazonosítására,
 - f) a továbbított, 2016/681/EU parlamenti és tanács irányelv szerinti előzetes utasinformációs adat.
 
-(9a) Az utasadat személyazonosításra való újbóli alkalmassá tételét egyedi engedéllyel kizárólag az ügyészség rendelheti el, abban az esetben, ha a 3. számú mellékletben meghatározott bűncselekmények, valamint a Magyarország biztonságát és jogrendjét sértő, vagy azt veszélyeztető, szervezett bűnözői csoportok és bűnszervezetek által elkövetett bűncselekmények felderítése és nyomozása, vagy ilyen bűntett előkészületére utaló gyanú ezt szükségessé teszi.
+(9a)
 
-(10) A Terrorelhárítási Információs és Bűnügyi Elemző Központ a (9a) bekezdés szerinti egyedi engedély alapján ismét személyazonosításra alkalmassá tett adatokról nyilvántartást vezet. A nyilvántartás tartalmazza:
-
-- a) a személyazonosításra való újbóli alkalmassá tétel rövid indokolását,
-- b) a személyazonosításra való újbóli alkalmassá tétel időpontját,
-- c) az érintett adatok körét és
-- d) azt, hogy mely szerv kérésére került sor a személyazonosításra való újbóli alkalmassá tételre.
-
-(11) A (10) bekezdésben meghatározott adatokat az ismét személyazonosításra alkalmassá tett utasadatokkal azonos ideig kell megőrizni, az utasadatokkal egyidejűleg törölni kell.
+(10)–(11)
 
 (12)
 
@@ -841,7 +834,7 @@ szerzi be.
 - a) a harmadik ország átvevő hatóságának a feladata bűncselekmények megelőzése, nyomozása, felderítése, büntetőeljárás lefolytatása vagy büntetőjogi szankciók végrehajtása,
 - b) – az Európai Unió más tagállamtól származó utasadat esetén, a (7) bekezdésben meghatározott kivétellel – a tagállam, amelytől az utasadat származik, előzetesen hozzájárult az utasadatok harmadik országnak történő átadásához.
 
-(6) Ha az (5) bekezdés a) pontja szerint kért utasadatot az adatelemek elrejtésével személytelenítették, a Terrorelhárítási Információs és Bűnügyi Elemző Központ csak akkor adhatja át a teljes – személyazonosításra alkalmas adatokat is tartalmazó – utasadatot, ha a kérelem kellően megalapozott és alapos okkal feltételezhető, hogy az adatkérés a 3. számú mellékletnek megfelelő bűncselekmény megelőzése, felderítése, nyomozása és üldözése céljára irányul, továbbá ha az ügyészség az adatok újbóli személyazonosításra alkalmassá tételére és átadására engedélyt adott.
+(6) Ha az (5) bekezdés a) pontja szerint kért utasadatot az adatelemek elrejtésével személyazonosításra alkalmatlanná tették, a Terrorelhárítási Információs és Bűnügyi Elemző Központ csak akkor adhatja át a teljes – személyazonosításra alkalmas adatokat is tartalmazó – utasadatot, ha a kérelem megalapozott és az adatkérés célja a 3. számú melléklet szerinti bűncselekmény megelőzése, felderítése, nyomozása és üldözése, feltéve, hogy az ügyészség az utasadatok újbóli személyazonosításra alkalmassá tételét követő átadására engedélyt adott. Az ügyészség engedélyének beszerzésére vonatkozóan az 52/L. §-t kell megfelelően alkalmazni.
 
 (7) Az Európai Unió más tagállamától származó utasadat harmadik ország részére történő átadásához nem szükséges a másik tagállam előzetes hozzájárulása, ha
 
@@ -858,14 +851,36 @@ szerzi be.
 
 (3) A Terrorelhárítási Információs és Bűnügyi Elemző Központ az 52/H. § (7) bekezdése szerinti esetben – ha az (1) bekezdés alapján átvett adatot az elemző-értékelő tevékenység keretében felhasználta – az (1) bekezdés alapján átvett adatot is átadja.
 
-52/K. § A Terrorelhárítási Információs és Bűnügyi Elemző Központtól a 30/A. § a)–f) pontjában meghatározott együttműködő szervek a 3. számú mellékletben meghatározott bűncselekmények megelőzése, felderítése, nyomozása és üldözése céljából jogosultak utasadatokat vagy azok kezelésének eredményeit kérni és kapni, az információk további vizsgálata vagy a megfelelő intézkedések megtétele érdekében.
+52/K. § A Terrorelhárítási Információs és Bűnügyi Elemző Központtól a 30/A. § a)–f) pontjában meghatározott együttműködő szervek, valamint a büntetőeljárás során az ügyészség, illetve az 52/L. § (2) bekezdése szerint a büntetőeljárás során a bíróság a 3. számú mellékletben meghatározott bűncselekmények megelőzése, felderítése, nyomozása és üldözése céljából jogosultak utasadatokat vagy azok kezelésének eredményeit kérni és kapni az információk további vizsgálata vagy a megfelelő intézkedések megtétele érdekében.
 
-52/L. § (1) A Terrorelhárítási Információs és Bűnügyi Elemző Központ évente az Európai Bizottság rendelkezésére bocsátja a részére szolgáltatott utasadatokról összeállított statisztikai információkat. Ezek az információk személyes adatokat nem tartalmazhatnak.
+52/L. § (1) Ha az utasadatot az adatelemek elrejtésével személyazonosításra alkalmatlanná tették, a Terrorelhárítási Információs és Bűnügyi Elemző Központ
 
-(2) Az (1) bekezdés szerinti statisztikai információknak tartalmazniuk kell legalább a következőket:
+- a) a büntetőeljárás során eljáró bíróság kivételével az 52/K. §-ban meghatározott szervek,
+- b) az Európai Unió tagállamainak utasadat-információs egységei, valamint
+- c) az Európai Unió tagállamainak a 2016/681/EU parlamenti és tanács irányelv szerinti illetékes hatóságai
 
-- a) azon utasok teljes számát, akik utasadatait a Terrorelhárítási Információs és Bűnügyi Elemző Központ összegyűjtötte és más szervnek átadta;
-- b) az olyan utasok számát, akiket a Terrorelhárítási Információs és Bűnügyi Elemző Központ az automatikus kockázatelemzést követően ellenőrzés céljára kiválasztott.
+indokolt megkeresése alapján csak akkor adhatja át a teljes – személyazonosításra alkalmas adatokat is tartalmazó – utasadatot, ha az adatkérés célja a 3. számú melléklet szerinti bűncselekmény megelőzése, felderítése, nyomozása és üldözése, és az ügyészség az újból személyazonosításra alkalmassá tett utasadat átadására engedélyt adott.
+
+(2) A büntetőeljárás során eljáró bíróság megkeresése esetén az ügyészség engedélyét nem kell kérni, a Terrorelhárítási Információs és Bűnügyi Elemző Központ az 52/K. §-ban meghatározott feltételek esetén átadja a teljes – személyazonosításra alkalmas adatokat is tartalmazó – utasadatot.
+
+(3) Az engedélyezésről a legfőbb ügyész által kijelölt ügyészi szerv dönt.
+
+(4) Az (1) bekezdésben meghatározott megkeresés esetén a megkeresésben kért, az adatelemek elrejtésével személyazonosításra alkalmatlanná tett utasadatokat a Terrorelhárítási Információs és Bűnügyi Elemző Központ az engedélyezés érdekében, ideiglenesen személyazonosításra újból alkalmassá teszi.
+
+(5) Az (1) bekezdés szerinti megkeresést az ott meghatározott szervek a Terrorelhárítási Információs és Bűnügyi Elemző Központnak küldik meg. A Terrorelhárítási Információs és Bűnügyi Elemző Központ a megkeresést három munkanapon belül megküldi az ügyészségnek. Az ügyészség a Terrorelhárítási Információs és Bűnügyi Elemző Központ előterjesztése alapján öt munkanapon belül dönt az adattovábbítás engedélyezéséről.
+
+(6) Ha az ügyészségi engedélyezés olyan késedelemmel járna, amely az adattovábbítással elérni kívánt célt jelentősen veszélyeztetné, az (1) bekezdésben meghatározott szerv erre vonatkozó kifejezett és megalapozott kérelmére a Terrorelhárítási Információs és Bűnügyi Elemző Központ az ügyészség döntését megelőzően átadhatja a kért utasadatot. Ha az ügyészség a megkeresés teljesítésére utóbb nem ad engedélyt, a megkeresés alapján korábban átadott utasadatokat törölni kell. Ha az ügyészség a megkeresés teljesítésére nem ad engedélyt, ugyanazon szerv kérelmére, ugyanabból a célból, változatlan indok alapján ismételten nem adhatóak át az utasadatok az ügyészség engedélyét megelőzően.
+
+(7) A Terrorelhárítási Információs és Bűnügyi Elemző Központ az (1) bekezdés szerinti egyedi engedély alapján továbbított adatokról nyilvántartást vezet. A nyilvántartás tartalmazza:
+
+- a) a személyazonosításra újból alkalmassá tett adatok közlésének rövid indokolását,
+- b) a személyazonosításra újból alkalmassá tett adatok közlésének időpontját,
+- c) az érintett adatok körét és
+- d) azt, hogy mely szerv kérésére került sor a személyazonosításra újból alkalmassá tett adatok közlésére.
+
+(8) A (7) bekezdésben meghatározott adatokat az ismét személyazonosításra alkalmassá tett utasadatokkal azonos ideig kell megőrizni, és az utasadatokkal egyidejűleg törölni kell.
+
+52/M. § A Terrorelhárítási Információs és Bűnügyi Elemző Központ évente, jogszabályban meghatározottak szerint az Európai Bizottság rendelkezésére bocsátja a részére szolgáltatott utasadatokról összeállított statisztikai információkat; ezek az információk személyes adatokat nem tartalmazhatnak.
 
 ### Titkos információgyűjtés
 
@@ -1087,7 +1102,7 @@ azt jóváhagyta.
 
 (4) A nemzetbiztonsági ellenőrzés kezdeményezésére jogosult a nemzetbiztonsági ellenőrzés lefolytatására írásban kéri fel a nemzetbiztonsági szolgálatot.
 
-(5) A nemzetbiztonsági ellenőrzés alá eső jogviszony fennállása alatt a kockázatmentes biztonsági szakvélemény érvényességi idejének lejártát megelőző 90. napig köteles kezdeményezni a kezdeményezésre jogosult az új nemzetbiztonsági ellenőrzést.
+(5) A nemzetbiztonsági ellenőrzés alá eső jogviszony fennállása alatt a kockázatmentes biztonsági szakvélemény érvényességi idejének lejártát megelőző 180. és 90. nap között köteles kezdeményezni a kezdeményezésre jogosult az új nemzetbiztonsági ellenőrzést.
 
 71/B. § (1) A nemzetbiztonsági ellenőrzést az eljáró nemzetbiztonsági szolgálat főigazgatója a kezdeményezés kézhezvételét követő 8 napon belül rendeli el. A nemzetbiztonsági ellenőrzést az elrendeléstől számított 60 napon belül kell lefolytatni, mely határidő egy esetben 30 nappal meghosszabbítható.
 
@@ -1371,7 +1386,10 @@ azt jóváhagyta.
 - b) az Információs Hivatal hatáskörébe tartozik, a polgári hírszerzési tevékenység irányításáért felelős miniszter,
 - c) a Katonai Nemzetbiztonsági Szolgálat hatáskörébe tartozik, a honvédelemért felelős miniszter egyetértésével kiadott rendeletben állapítsák meg a nemzetbiztonsági ellenőrzés alá eső munkaköröket.
 
-(1b) Felhatalmazást kap a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy a Terrorelhárítási Információs és Bűnügyi Elemző Központ és az utasadat szolgáltatója közötti kapcsolattartás, valamint adatátadás módját rendeletben szabályozza.
+(1b) Felhatalmazást kap a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy rendeletben szabályozza
+
+- a) a Terrorelhárítási Információs és Bűnügyi Elemző Központ és az utasadat szolgáltatója közötti kapcsolattartás, valamint adatátadás módját, valamint
+- b) a Terrorelhárítási Információs és Bűnügyi Elemző Központ által az Európai Bizottság részére történő adatszolgáltatás részletes szabályait és a statisztikai adatok körét.
 
 (2) Felhatalmazást kap a miniszter, hogy utasításban megállapítsa:
 
