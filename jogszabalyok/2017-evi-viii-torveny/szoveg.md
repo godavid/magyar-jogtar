@@ -344,4 +344,4 @@ A VÖRÖSKERESZT ÉS VÖRÖS FÉLHOLD TÁRSASÁGOKNEMZETKÖZI SZÖVETSÉGE RÉSZ
 
 (4) E törvény végrehajtásához szükséges intézkedésekről a külpolitikáért felelős miniszter és az államháztartásért felelős miniszter gondoskodik.
 
-5. § Hatályát veszti a Magyar Köztársaság Kormánya és a Vöröskereszt és Vörös Félhold Társaságok Nemzetközi Szövetsége között a Nemzetközi Szövetség budapesti Regionális Küldöttségének jogállásáról szóló, Budapesten, 1993. március 10-én aláírt Megállapodás kihirdetéséről szóló 106/1993. (VII. 20.) Korm. rendelet, valamint a Magyar Köztársaság Kormánya és a Vöröskereszt és Vörös Félhold Társaságok Nemzetközi Szövetsége között a Nemzetközi Szövetség budapesti Regionális Küldöttségének jogállásáról szóló Megállapodáshoz fűzött 1. számú Kiegészítő Jegyzőkönyv kihirdetéséről szóló 98/2008. (IV. 29.) Korm. rendelet.
+5. §
