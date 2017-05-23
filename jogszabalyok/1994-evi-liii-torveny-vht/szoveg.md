@@ -66,7 +66,7 @@ a bírósági végrehajtásról
 - c) a bíróság végrehajtást elrendelő, letiltó, illetőleg átutalási végzése, továbbá közvetlen bírósági felhívást tartalmazó határozata,
 - d) a bíróság pénzbüntetésről, pénzbírságról, rendbírságról, vagyonelkobzásról, az elektronikus adat végleges hozzáférhetetlenné tételéről, az Európai Unió tagállamában büntetőeljárásban bűncselekmény elkövetése miatt kiszabott pénzösszegről, valamint az Európai Unió tagállamai közé nem tartozó államban (a továbbiakban: külföldi állam) vagy az Európai Unió tagállamában büntetőeljárásban alkalmazott vagyonelkobzásról szóló értesítése,
 - e) a bíróság bűnügyi költségről, elővezetési és kísérési költségről, fegyelmi eljárásban a végrehajtóval, végrehajtó-helyettessel és végrehajtójelölttel szemben kiszabott pénzbírságról, valamint az alapos kifogás esetén a végrehajtót az állam felé terhelő befizetési kötelezettségről szóló értesítése, továbbá a bírósági gazdasági hivatalnak a közjegyző által kiszabott pénzbírságról, az ügyészség által kiszabott rendbírságról, megállapított bűnügyi költségről, az ügyészség és a nyomozó hatóság által megállapított elővezetési és kísérési költségről, valamint a pártfogó felügyelői szolgálat által a közvetítői eljárásban megállapított, az állam által előlegezett és visszatérítendő költségről szóló értesítése,
-- f) a bűnügyi zárlatot elrendelő és az elektronikus adat ideiglenes hozzáférhetetlenné tételéről, illetve visszaállításáról szóló határozat,
+- f) a bűnügyi zárlatot elrendelő, az elektronikus adat ideiglenes hozzáférhetetlenné tételéről, illetve visszaállításáról, valamint az információs rendszerben tárolt adatok megőrzésére kötelezésről szóló határozat,
 - g) az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására zárlatot elrendelő végzés,
 - h) a 4/2009/EK tanácsi rendelet alapján kijelölt hazai központi hatóság által a tartásra kötelezett adatainak beszerzésére kiállított megkeresés.
 
@@ -4453,7 +4453,8 @@ a lakóingatlan kiürítését – a (3) bekezdésben foglalt kivétellel – a 
 - a) 10. §-ának d) pontja a kölcsönös elismerés elvének a pénzbüntetésekre való alkalmazásáról szóló, 2005. február 24-i 2005/214/IB tanácsi kerethatározat,
 - b) 184/A. §-a és 187. §-a (1) bekezdésének b) pontja a szellemi tulajdonjogok érvényesítéséről szóló, 2004. április 29-i 2004/48/EK európai parlamenti és tanácsi irányelvnek.
 - c) a kölcsönös elismerés elvének a vagyonelkobzást elrendelő határozatokra történő alkalmazásáról szóló 2006. október 6-i 2006/783/IB tanácsi kerethatározatnak,
-- d) a bűncselekmény elkövetési eszközeinek és az abból származó jövedelemnek az Európai Unión belüli befagyasztásáról és elkobzásáról szóló 2014. április 3-i 2014/42/EU európai parlamenti és tanácsi irányelvnek
+- d) a bűncselekmény elkövetési eszközeinek és az abból származó jövedelemnek az Európai Unión belüli befagyasztásáról és elkobzásáról szóló 2014. április 3-i 2014/42/EU európai parlamenti és tanácsi irányelvnek,
+- e) a büntetőügyekben kibocsátott európai nyomozási határozatról szóló 2014. április 3-i 2014/41/EU európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
