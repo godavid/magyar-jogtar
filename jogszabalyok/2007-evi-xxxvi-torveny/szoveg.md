@@ -4,7 +4,12 @@ a szabálysértési jogsegélyről
 
 ### I. Fejezet — ÁLTALÁNOS SZABÁLYOK
 
-1. § (1) E törvény a szabálysértési jogsegély ügyekben nemzetközi szerződés, illetőleg európai közösségi jogi aktus alapján alkalmazható.
+1. § (1) E törvény
+
+- a) a szabálysértési jogsegély ügyekben nemzetközi szerződés, illetve európai közösségi jogi aktus alapján, valamint
+- b) a büntetőügyekben kibocsátott európai nyomozási határozatról szóló, 2014. április 3-i 2014/41/EU európai parlamenti és tanácsi irányelvet (a továbbiakban: 2014/41/EU irányelv) nemzeti jogukba átültető államok által kibocsátott európai nyomozási határozat (a továbbiakban: ENYH) kibocsátása és végrehajtása során
+
+alkalmazandó.
 
 (2) Nemzetközi szerződés eltérő rendelkezése esetén a nemzetközi szerződés irányadó.
 
@@ -13,9 +18,10 @@ a szabálysértési jogsegélyről
 2. § (1) A szabálysértési jogsegély formái:
 
 - a) az eljárási jogsegély,
-- b) a pénzbírságot kiszabó jogerős szabálysértési határozat végrehajtásának átvétele, illetve átadása.
+- b) ENYH kibocsátása és végrehajtása,
+- c) a pénzbírságot kiszabó jogerős szabálysértési határozat végrehajtásának átvétele, illetve átadása.
 
-(2) Eljárási jogsegély valamennyi szabálysértési eljárásban előterjeszthető, illetve teljesíthető.
+(2) Szabálysértési jogsegély akkor bocsátható ki, illetve hajtható végre, ha az abban foglalt eljárási cselekmény végrehajtása arányos, megfelelő és alkalmazható.
 
 (3)
 
@@ -27,15 +33,23 @@ a szabálysértési jogsegélyről
 
 (4) E törvény alkalmazásában központi hatóság:
 
-- a) az eljárási jogsegély külföldi hatóság részére történő nyújtásával, valamint a külföldi hatóság eljárási jogsegély iránti megkeresésével kapcsolatban – a c) pontban foglaltak kivételével – a legfőbb ügyész,
-- b) a pénzbírságot kiszabó jogerős szabálysértési határozat átvételével, valamint átadásával kapcsolatban a szabálysértési szabályozásért felelős miniszter rendeletében meghatározott szerv, valamint
-- c) a közúti közlekedési nyilvántartás jármű nyilvántartásából történő automatizált adatkeresés esetén a közúti közlekedési nyilvántartó szerv.
+- a) az eljárási jogsegély kibocsátásával és teljesítésével kapcsolatban – a d) pontban foglaltak kivételével – a legfőbb ügyész,
+- b) az ENYH kibocsátásával, valamint végrehajtásával kapcsolatban a legfőbb ügyész,
+- c) a pénzbírságot kiszabó jogerős szabálysértési határozat átvételével és átadásával kapcsolatban a szabálysértési szabályozásért felelős miniszter rendeletében meghatározott szerv, valamint
+- d) a közúti közlekedési nyilvántartás jármű nyilvántartásából történő automatizált adatkeresés esetén a közúti közlekedési nyilvántartó szerv.
+
+(5) E törvény alkalmazásában
+
+- 1. ENYH: az arra jogosult hatóság által az 1. számú mellékletben foglalt formanyomtatványnak megfelelően szabálysértési eljárásban kibocsátott, bizonyíték megszerzése céljából egy vagy több eljárási cselekmény végrehajtására, illetve a végrehajtó tagállam illetékes hatósága számára már rendelkezésre álló bizonyítási eszköz átadására irányuló jogsegélykérelem,
+- 2. tagállami hatóság: tagállami bíróság, ügyészség, illetve az ENYH kibocsátására vagy végrehajtására a tagállam joga alapján jogosult hatóság.
+
+3/A. § Az ENYH kibocsátása és végrehajtása során az 1. számú melléklet szerinti formanyomtatványban megjelölt gyanúsított vagy vádlott alatt az eljárás alá vont személy, a nyomozás alatt a szabálysértési eljárás értendő.
 
 ### II. Fejezet — ÁLTALÁNOS ELJÁRÁSI ÉS KÖLTSÉGVISELÉSI SZABÁLYOK
 
-### A jogsegély iránti megkeresések
+### A jogsegély iránti megkeresés, az ENYH előterjesztésének és visszavonásának általános szabályai
 
-4. § (1) A szabálysértési jogsegély iránti megkeresést írásban kell előterjeszteni. Indokolt esetben a megkereső azonosítását lehetővé tevő más alkalmas módon vagy eszközzel – különösen telefax vagy számítástechnikai rendszer útján – is elő lehet terjeszteni.
+4. § (1) A szabálysértési jogsegély iránti megkeresést írásban, indokolt esetben az előterjesztő azonosítását lehetővé tevő más alkalmas módon vagy eszközzel lehet előterjeszteni. Az ENYH-t az 1. számú melléklet szerinti formanyomtatványnak megfelelően hivatalból, illetve az eljárás alá vont személy vagy képviselője kezdeményezésére az a bíróság vagy szabálysértési hatóság jogosult kibocsátani, amely előtt a szabálysértési eljárás folyamatban van.
 
 (2) A megkeresésnek tartalmaznia kell:
 
@@ -69,9 +83,34 @@ a szabálysértési jogsegélyről
 
 8. § Ha egy külföldi hatóság olyan cselekmény miatt terjeszt elő szabálysértési jogsegély iránt megkeresést, amely államának joga szerint szabálysértés, de a magyar jog szerint bűncselekmény, a központi hatóság erről értesíti a megkereső külföldi hatóságot. Ha a külföldi hatóság az értesítésre adott nyilatkozatában a jogsegély teljesítése iránti kérelmét fenntartja, a központi hatóság a megkeresést teljesítés végett átteszi a nemzetközi bűnügyi jogsegélyről szóló törvény, illetve az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény szerint illetékes hatósághoz.
 
+8/A. § Az ENYH-t az 1. számú melléklet szerinti formanyomtatványnak a végrehajtó tagállam hivatalos nyelveinek egyikén vagy a tagállam által megjelölt nyelven rendelkezésre álló fordításának felhasználásával, a tagállam hatáskörrel és illetékességgel rendelkező hatóságának, vagy ha az adott tagállam központi hatóságot jelölt ki, a központi hatóságnak kell megküldeni.
+
+8/B. § Az ENYH-t a kibocsátó bíróság vagy szabálysértési hatóság az ENYH végrehajtásáról szóló döntés kézhezvételéig bármikor jogosult visszavonni. A kibocsátó bíróság vagy szabálysértési hatóság a visszavonásról köteles a központi hatóság útján haladéktalanul tájékoztatni a tagállami hatóságot.
+
+8/C. § Ha a tagállami hatóság arról tájékoztatja a központi hatóságot, hogy az eljárási cselekménnyel érintett személy nemzetközi jogon alapuló mentességet élvez, és mentességének felfüggesztése egy másik állam hatóságának vagy nemzetközi szervezetnek a hatáskörébe tartozik, a mentesség felfüggesztésére jogosult döntése a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló törvény (a továbbiakban: Szabs.tv.) alapján indítványozható. Ha a mentesség felfüggesztését nem indítványozzák, vagy az nem vezet eredményre, az ENYH-t vissza kell vonni.
+
+8/D. § (1) A bíróság vagy a szabálysértési hatóság – a kérelem indokainak megjelölése mellett – az ENYH-ban kérheti a tagállami hatóságtól, hogy
+
+- a) a bíróság vagy a szabálysértési hatóság egy vagy több tagja a tagállam területén az eljárási cselekmény végrehajtásakor jelen lehessen;
+- b) az ENYH-t vagy az abban megjelölt eljárási cselekményt soron kívül vagy meghatározott időpontban hajtsák végre.
+
+(2) Ha az (1) bekezdés b) pontjával összefüggésben a tagállami hatóság azt a tájékoztatást adja, hogy az ENYH a kért időben nem hajtható végre, a bíróság vagy a szabálysértési hatóság megfontolja az ENYH módosítását vagy visszavonását, és erről – a központi hatóság útján – tájékoztatja a tagállami hatóságot.
+
+8/E. § Ha a tagállami hatóság tájékoztatása szerint az ENYH végrehajtása jelentős költségekkel jár, a bíróság vagy a szabálysértési hatóság – a központi hatóság útján – a tagállami hatósággal egyeztet, és megvizsgálja, hogy az ENYH-val elérni kívánt cél kisebb költséggel járó eljárási cselekménnyel elérhető-e. Ha ez lehetséges, a bíróság vagy a szabálysértési hatóság az ENYH-t ennek megfelelően módosítja, vagy kiegészíti, és azt a központi hatóság útján haladéktalanul továbbítja a tagállami hatóságnak.
+
+8/F. § (1) Az ENYH végrehajtásának eredményét, illetve a végrehajtás során beszerzett bizonyítási eszközt az ENYH-t előterjesztő bíróság vagy szabálysértési hatóság veszi át.
+
+(2) Ha a bizonyítási eszköz átadásakor a tagállami hatóság azt kéri, a bíróság vagy a szabálysértési hatóság a bizonyítási eszközt az átadáskorival azonos állapotban visszaszolgáltatja a tagállamnak, amint arra Magyarországon már nincs szükség.
+
+(3) ENYH kibocsátása esetén a tagállamban lefoglalt vagy más módon biztosított bizonyítási eszköz Magyarországnak történő átadásáig a bizonyítási eszközről való rendelkezésre a tagállami jogszabályok irányadók. A bizonyítási eszköz átvételét követően a bizonyítási eszközről a magyar jogszabályok szerint kell rendelkezni.
+
+8/G. § (1) Ha a Szabs.tv. rendelkezései alapján az eljárási cselekmény elrendelése – ideértve a kényszerintézkedések elrendelését is – határozati formát igényel, a határozat meghozatalára az ENYH kibocsátásával kerül sor. Az ENYH-ra a továbbiakban – a kézbesítésre vonatkozó rendelkezések kivételével – a Szabs.tv.-nek az eljárási cselekményt elrendelő határozatra vonatkozó szabályait kell megfelelően alkalmazni.
+
+(2) Ha a Szabs.tv. rendelkezései alapján az eljárási cselekményt elrendelő határozat kézbesítése szükséges, úgy arra az ENYH jogorvoslati jogról szóló kioktatást és a jogosultra vonatkozó rendelkezéseket tartalmazó kivonatának kézbesítése útján kerülhet sor.
+
 ### A személyes adatok kezelése
 
-9. § (1) A központi hatóság a szabálysértési jogsegély iránti megkeresés teljesítésekor, illetve a szabálysértési jogsegély iránti megkeresés előterjesztésekor a külföldi hatóság részére személyes adatot akkor továbbíthat, ha az a szabálysértésért való felelősség kérdésében megalapozott döntés meghozatala, illetve a pénzbírságot kiszabó jogerős szabálysértési határozat eredményes végrehajtása érdekében szükséges.
+9. § (1) A központi hatóság a szabálysértési jogsegély iránti megkeresés, illetve az ENYH végrehajtásakor, illetve a szabálysértési jogsegély iránti megkeresés előterjesztésekor a külföldi hatóság részére személyes adatot akkor továbbíthat, ha az a szabálysértésért való felelősség kérdésében megalapozott döntés meghozatala, illetve a pénzbírságot kiszabó jogerős szabálysértési határozat eredményes végrehajtása érdekében szükséges.
 
 (2) Az (1) bekezdés céljából a következő személyes adatok továbbíthatóak:
 
@@ -84,7 +123,7 @@ a szabálysértési jogsegélyről
 - g) állampolgárság,
 - h) az érintett neme.
 
-(3) A (2) bekezdésben felsorolt adatokkal együtt az eljárási jogsegély iránti megkeresés teljesítésekor, illetve előterjesztésekor a következő adatok is továbbíthatóak:
+(3) A (2) bekezdésben felsorolt adatokkal együtt az eljárási jogsegély iránti megkeresés, illetve az ENYH végrehajtásakor, illetve előterjesztésekor a következő adatok is továbbíthatóak:
 
 - a) a szabálysértés jellege és jogi minősítése,
 - b) a szabálysértés elkövetésével kapcsolatos tények összefoglalása és a körülmények leírása, beleértve az elkövetés helyét és idejét,
@@ -107,6 +146,12 @@ a szabálysértési jogsegélyről
 
 (2) A külföldi hatóság vagy bíróság szabálysértési ügyben hozott pénzbírságot kiszabó jogerős határozatának (a továbbiakban: külföldi határozat) végrehajtásával kapcsolatban felmerült költség az elkövetőt terheli.
 
+11/A. § (1) Magyarország viseli mindazokat a költségeket, amelyek az ENYH-ban foglalt eljárási cselekmény végrehajtásával kapcsolatban Magyarország területén merülnek fel.
+
+(2) Ha a bíróság vagy a szabálysértési hatóság úgy ítéli meg, hogy az ENYH végrehajtása aránytalan költségekkel járna, úgy – a központi hatóság útján – az aránytalannak ítélt költségrész bemutatását követően megállapodhat a kibocsátó hatósággal a költségek megosztásáról és a megosztás módjáról, illetve az ENYH esetleges módosításáról.
+
+(3) Az ENYH előterjesztése kapcsán Magyarország területén felmerülő költség szabálysértési költség.
+
 ### III. Fejezet — ELJÁRÁSI JOGSEGÉLY
 
 ### 1. CÍM — ELJÁRÁSI JOGSEGÉLY NYÚJTÁSA KÜLFÖLDI HATÓSÁG RÉSZÉRE
@@ -115,9 +160,93 @@ a szabálysértési jogsegélyről
 
 (2) Az eljárási jogsegély kiterjedhet a tanú, a szakértő és az eljárás alá vont személy meghallgatására, okirat vagy a szabálysértési eljárás iratainak a külföldi hatóság részére történő megküldésére, a szabálysértési eljárás iratainak a kézbesítésére, és a szabálysértési eljárás alá vont személy hatósági nyilvántartásban szereplő személyes adatairól történő adatszolgáltatásra.
 
-(3) Az e törvényben nem szabályozott eljárási cselekményekre a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló törvényt kell megfelelően alkalmazni.
+(3) Az e törvényben nem szabályozott eljárási cselekményekre a Szabs. tv.-t kell megfelelően alkalmazni.
 
 (4) A szabálysértési hatóság, illetve a bíróság az eljárási cselekmény lefolytatása során a megkereső külföldi hatóság kérelmére más eljárásmódot is alkalmazhat, ha ez nem összeegyeztethetetlen a magyar jogrendszer alapelveivel.
+
+### Az ENYH végrehajtásának szabályai
+
+12/A. § Az ENYH olyan módon történt előterjesztése esetén, amely lehetővé teszi az ENYH hitelességének megállapítását, az ENYH előterjesztését szabályszerűnek kell tekinteni.
+
+12/B. § (1) Az ENYH-t a központi hatóság fogadja és annak átvételét haladéktalanul, de legkésőbb az átvételtől számított hét napon belül – a végrehajtó tagállam hivatalos nyelveinek egyikén vagy a tagállam által megjelölt nyelven rendelkezésre álló fordításának felhasználásával – a 2. számú melléklet szerinti formanyomtatvány megküldésével igazolja a tagállami hatóság felé.
+
+(2) Ha a központi hatósághoz valamely tagállamból olyan ENYH érkezik, amelynek végrehajtására nincs hatásköre vagy nem rendelkezik illetékességgel, úgy – a (3) bekezdésben foglalt kivétellel – az ENYH-t haladéktalanul továbbítja a hatáskörrel és illetékességgel rendelkező bírósághoz vagy hatósághoz, és erről a tagállami hatóságot az (1) bekezdésben meghatározott módon tájékoztatja.
+
+(3) Ha a tagállami hatóság az ENYH-t – az ENYH végrehajtásáról szóló döntésről való tájékoztatást megelőzően – visszavonja, a központi hatóság az ENYH végrehajtását megszünteti.
+
+12/C. § (1) A központi hatóság az ENYH átvételét követően haladéktalanul megvizsgálja, hogy a magyar jogszabályok alapján a tagállami hatóság által kibocsátott ENYH végrehajtásának feltételei fennállnak-e, és dönt annak végrehajtásáról.
+
+(2) A központi hatóság indokolt esetben – megfelelő határidő megállapításával – az ENYH kiegészítését, illetve módosítását, továbbá az ENYH végrehajtásával kapcsolatos döntéshez szükséges információk, adatok, iratok rendelkezésre bocsátását kérheti a tagállami hatóságtól.
+
+(3) A központi hatóság az (1) bekezdés szerinti döntését – a tagállami hatóság soron kívüli végrehajtásra irányuló kérelmére, vagy az ENYH-ban az eljárási cselekmény végrehajtására meghatározott időpontra figyelemmel – legkésőbb az ENYH kézhezvételétől számított harminc napon belül hozza meg.
+
+(4) Ha a (3) bekezdésben foglalt határidőn belül az ENYH végrehajtásáról szóló döntés nem hozható meg, a központi hatóság erről – a késedelem okainak megjelölése mellett – haladéktalanul tájékoztatja a tagállami hatóságot, és megjelöli a döntéshez szükséges időtartamot. Ebben az esetben az (1) bekezdés szerinti döntést legkésőbb az ENYH kézhezvételétől számított hatvan napon belül kell meghozni.
+
+12/D. § A 12/C. § (1) bekezdésében foglalt döntése alapján a központi hatóság
+
+- a) intézkedik az ENYH-ban megjelölt eljárási cselekmény végrehajtásáról, vagy
+- b) az ENYH végrehajtását megtagadja.
+
+12/E. § (1) A központi hatóság az ENYH végrehajtásáról a tagállami hatósággal egyeztetést folytathat, ha megalapozottan feltehető, hogy
+
+- a) az ENYH-t nem az arra jogosult tagállami hatóság bocsátotta ki,
+- b) az ENYH kibocsátása – annak céljával és az érintett személy jogaival össze nem egyeztethető módon – indokolatlan vagy aránytalan volt, illetve
+- c) az ENYH-ban megjelölt eljárási cselekmény a magyar jogszabályok szerint nem lenne elvégezhető.
+
+(2) Az (1) bekezdés a) pontja esetén, ha megállapítható, hogy az ENYH-t nem az arra jogosult tagállami hatóság bocsátotta ki, a központi hatóság az ENYH-t a tagállami hatóság részére visszaküldi.
+
+12/F. § (1) A központi hatóság az ENYH végrehajtását megtagadhatja, ha
+
+- a) a végrehajtás sértené Magyarország alapvető nemzetbiztonsági érdekét,
+- b) az ENYH alapjául szolgáló cselekmény a magyar jog szerint nem szabálysértés, és a tagállam joga szerint sem valósít meg sem szabálysértést, sem bűncselekményt,
+- c) az ENYH-ban megjelölt eljárási cselekmény a magyar jogszabályok szerint nem létezik, vagy végrehajtásának feltételei a magyar jogszabályok szerint nem állnak fenn,
+- d) az ENYH alapjául szolgáló cselekményt Magyarországon vagy egy másik tagállamban jogerősen elbírálták, vagy a cselekmény érdeméről olyan határozatot hoztak, amely – a határozatot hozó tagállam joga alapján – azonos cselekmény vonatkozásában újabb eljárás megindításának akadályát képezi,
+- e) az eljárási cselekménnyel érintett személy Magyarországon mentelmi joggal rendelkezik, vagy nemzetközi jogon alapuló mentességet élvez, és a mentelmi jogát, illetve a mentességét az arra jogosult nem függesztette fel,
+- f) nem áll rendelkezésre az ENYH szabályszerűen előterjesztett, magyar, angol, német vagy francia nyelvű fordítása,
+- g) az ENYH olyan mértékben hiányos, pontatlan, hogy erre figyelemmel nem hajtható végre, és a kiegészítésre, illetve módosításra megállapított határidő eredménytelenül telt el, vagy az ENYH a kiegészítést, illetve a módosítást követően sem hajtható végre.
+
+(2) A tanú vagy a szakértő távbeszélő készülék útján történő meghallgatására irányuló ENYH az (1) bekezdés c) pontja alapján nem tagadható meg abból az okból, hogy a Szabs.tv. nem teszi lehetővé e jogintézmény alkalmazását. Ebben az esetben a 16. § rendelkezéseit kell megfelelően alkalmazni.
+
+12/G. § (1) Az ENYH, valamint az ENYH-ban megjelölt eljárási cselekmény eredményes végrehajtása érdekében a központi hatóság haladéktalanul tájékoztatja a tagállami hatóságot, ha a 12/F. § (1) bekezdésében foglalt valamely megtagadási ok merül fel, és egyeztetést kezdeményez.
+
+(2) A központi hatóság indokolt esetben
+
+- a) a kibocsátó tagállami hatósággal az (1) bekezdésben meg nem határozott okból is, vagy
+- b) más tagállami hatósággal is
+
+egyeztetést kezdeményezhet.
+
+(3) Ha a központi hatóság a tagállami hatósággal egyeztetést folytat, az ENYH kiegészítésére, illetve módosítására, valamint az ENYH végrehajtásáról szóló döntéshez szükséges információk, adatok, iratok rendelkezésre bocsátására – az ENYH végrehajtására rendelkezésre álló határidőre is figyelemmel – határidőt állapíthat meg.
+
+12/H. § A központi hatóság az ENYH végrehajtásának megtagadásáról a tagállami hatóságot a megtagadás indokainak megjelölésével, haladéktalanul tájékoztatja.
+
+12/I. § Ha az ENYH előterjesztésére olyan cselekmény miatt került sor, amely a magyar jog szerint bűncselekmény, vagy a cselekmény a magyar jog szerint sem szabálysértésnek, sem bűncselekmények nem minősül, a központi hatóság az ENYH-t végrehajtás végett továbbítja az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény szerint kijelölt hatósághoz, és erről a tagállami hatóságot tájékoztatja. Ebben az esetben a 12/F. § (1) bekezdés b) pontjában foglalt rendelkezés nem alkalmazható.
+
+12/J. § (1) Az ENYH végrehajtására az ENYH alapjául szolgáló eljárási cselekmény tekintetében a Szabs.tv. alapján hatáskörrel rendelkező bíróság vagy szabálysértési hatóság rendelkezik hatáskörrel.
+
+(2) A bíróság vagy a szabálysértési hatóság illetékességét az ENYH-ban megjelölt eljárási cselekmény elvégzésének helye – így különösen a meghallgatandó személy lakóhelye, tartózkodási helye vagy székhelye, a tárgyi bizonyítási eszköz fellelhetőségének helye – határozza meg. Ha az eljárási cselekmény vagy eljárási cselekmények elvégzésének több helyszíne állapítható meg, vagy az eljárási cselekmény elvégzésének helye nem állapítható meg, a központi hatóság kijelöli a végrehajtó hatóságot.
+
+12/K. § (1) Az ENYH-ban megjelölt eljárási cselekményt – a tagállami hatóság soron kívüli végrehajtásra irányuló kérelmére, vagy az ENYH-ban az eljárási cselekmény végrehajtására meghatározott időpontra figyelemmel – az ENYH végrehajtásáról hozott döntést követő kilencven napon belül kell végrehajtani.
+
+(2) Ha az eljárási cselekmény az (1) bekezdésben meghatározott határidőn belül nem hajtható végre, a központi hatóság vagy a központi hatóság útján a bíróság vagy a szabálysértési hatóság a késedelem okának megjelölése mellett erről haladéktalanul tájékoztatja a tagállami hatóságot, valamint megjelöli a végrehajtáshoz szükséges időtartamot, és egyeztetést folytat a tagállami hatósággal az eljárási cselekmény végrehajtásának megfelelő ütemezéséről.
+
+(3) A központi hatóság vagy a központi hatóság útján a bíróság vagy a szabálysértési hatóság indokolt esetben az eljárási cselekmény eredményes végrehajtása érdekében a tagállami hatósággal egyeztetést folytathat.
+
+(4) A központi hatóság vagy a központi hatóság útján a bíróság vagy a szabálysértési hatóság a tagállami hatóságot haladéktalanul tájékoztatja, ha az eljárási cselekmény elvégzése során olyan körülmény merül fel, amely miatt az eljárási cselekmény nem végezhető el.
+
+(5) Ha az eljárási cselekmény elvégzését akadályozó körülmény nem küszöbölhető ki, és e körben a tagállami hatósággal folytatott egyeztetés sem vezet eredményre, a központi hatóság az ENYH végrehajtását befejezi, és erről haladéktalanul tájékoztatja a tagállami hatóságot.
+
+12/L. § (1) A központi hatóság vagy a központi hatóság útján a bíróság vagy a szabálysértési hatóság haladéktalanul tájékoztatja a tagállami hatóságot, ha a magyar jogszabályok alapján rendelkezésre áll olyan eljárási cselekmény, amely alkalmas az ENYH-ban megjelölt bizonyíték megszerzésére, de az ENYH-ban megjelölt eljárási cselekménynél kisebb jogkorlátozással jár.
+
+(2) Ha a központi hatóság, a bíróság vagy a szabálysértési hatóság úgy ítéli meg, hogy az ENYH eredményes végrehajtásához, vagy az ENYH-ban meghatározott bizonyítás eredményességéhez az ENYH-ban megjelölt eljárási cselekményen túl további eljárási cselekmény elvégzése is célszerű, erről a központi hatóság vagy a központi hatóság útján a bíróság vagy a szabálysértési hatóság a tagállami hatóságot haladéktalanul tájékoztatja.
+
+12/M. § A központi hatóság vagy a központi hatóság útján a bíróság vagy a szabálysértési hatóság haladéktalanul vagy a tagállami hatóság által megjelölt időpontban átadja a tagállami hatóságnak az eljárási cselekmény elvégzése során megszerzett, illetve a már rendelkezésére álló bizonyítási eszközt, valamint az azzal kapcsolatos iratokat.
+
+12/N. § (1) Ha az ENYH-ban megjelölt eljárási cselekmény elrendelése a Szabs.tv. rendelkezései alapján határozati formát igényel, az ellen a Szabs.tv. rendelkezései szerint jogorvoslatnak van helye. A jogorvoslatban az ENYH-ban megjelölt eljárási cselekmény elrendelése nem támadható.
+
+(2) A központi hatóság vagy a központi hatóság útján a bíróság vagy a szabálysértési hatóság tájékoztatja a tagállami hatóságot az ENYH végrehajtása során hozott határozattal szemben előterjesztett jogorvoslatról, valamint a jogorvoslat elbírálásának eredményéről.
+
+12/O. § Ha az ENYH-ban megjelölt eljárási cselekmény elrendelése ellen jogorvoslatot terjesztettek elő, a központi hatóság vagy a központi hatóság útján a bíróság vagy a szabálysértési hatóság a jogorvoslati kérelmet haladéktalanul továbbítja a tagállami hatóságnak, és erről a jogorvoslat előterjesztőjét tájékoztatja.
 
 ### A határidők
 
@@ -202,11 +331,7 @@ a szabálysértési jogsegélyről
 
 22. § Ha a magyar szabálysértési hatóság, illetve a bíróság az eljárás alá vont személyt külföldi hatóság útján kívánja meghallgatni, a megkeresett külföldi hatósághoz meg kell küldeni azokat az iratokat, amelyek a megkeresés elintézéséhez szükségesek, és azokat a kérdéseket, amelyeket a meghallgatás során tisztázni kell.
 
-### A tanú és a szakértő távbeszélő-készülék útján történő meghallgatása iránti megkeresés
-
-23. § (1) A szabálysértési hatóság, illetve a bíróság megkeresésében kezdeményezheti, hogy a külföldi hatóság nyújtson segítséget ahhoz, hogy a tanút vagy a szakértőt távbeszélő-készülék útján meghallgathassa.
-
-(2) A megkeresésnek tartalmaznia kell annak a szabálysértési hatósági, illetve bírósági alkalmazottnak a nevét, aki az érintettet meg kívánja hallgatni. Tanú meghallgatása esetén a megkeresésnek tartalmaznia kell a tanú nevét, egyéb természetes személyazonosító adatát, illetve lakcímét.
+23. §
 
 ### Okirat vagy a szabálysértési eljárás iratainaka kérelmező részére történő megküldése
 
@@ -353,4 +478,367 @@ a szabálysértési jogsegélyről
 
 (5) E törvény 19. § (4) és 26. § (4) bekezdése a közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértésekre vonatkozó információk határokon átnyúló cseréjének elősegítéséről szóló 2015. március 11-i 2015/413/EU európai parlamenti és tanácsi irányelv 4. és 7. cikkeinek való megfelelést szolgálja.
 
-### Melléklet a 2007. évi XXXVI. törvényhez
+(6) E törvény 1. § (1) bekezdése, 2. §-a, 3. § (4) és (5) bekezdése, 3/A. §-a, 4. §-t megelőző alcíme, 4. § (1) bekezdése, 8/A–8/G. §-a, 11/A. §-a, 12. §-t követő alcíme, 12/A–12/O. §-a, 1. számú melléklete és 2. számú melléklete a büntetőügyekben kibocsátott európai nyomozási határozatról szóló, 2014. április 3-i 2014/41/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+### 1. számú melléklet a 2007. évi XXXVI. törvényhez
+
+#### EURÓPAI NYOMOZÁSI HATÁROZAT (ENYH)
+
+Ezt az ENYH-t egy illetékes hatóság bocsátotta ki. A kibocsátó hatóság igazolja, hogy ennek az ENYH-nak a kibocsátása a benne megjelölt eljáráshoz szükséges és azzal arányos, figyelembe véve a gyanúsított vagy a vádlott jogait is, és hogy a megjelölt nyomozási cselekmények megegyező körülmények között hasonló belföldi ügyben is elrendelhetők lennének. Kérem az alábbiakban megjelölt nyomozási cselekménynek vagy intézkedéseknek az elvégzését a nyomozás bizalmas jellegének megfelelő figyelembevételével, és azt követően az ENYH végrehajtásának eredményeként megszerzett bizonyítékok átadását.
+
+* Ne feledje, hogy az írásba foglalással, dekódolással vagy a titkosítás feloldásával kapcsolatos költségeket a kibocsátó államnak kell viselnie.
+
+* Ne feledje, hogy az írásba foglalással, dekódolással vagy a titkosítás feloldásával kapcsolatos költségeket a kibocsátó államnak kell viselnie.
+
+* Ne feledje, hogy az írásba foglalással, dekódolással vagy a titkosítás feloldásával kapcsolatos költségeket a kibocsátó államnak kell viselnie.
+
+| A. SZAKASZ: |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Kibocsátó állam .................................................................................................................................................................................. |  |  |  |  |  |  |  |  |  |  |
+| Végrehajtó állam: .............................................................................................................................................................................. |  |  |  |  |  |  |  |  |  |  |
+| B. SZAKASZ: Sürgősség |  |  |  |  |  |  |  |  |  |  |
+| Kérem, jelezze, ha az alábbi okokból sürgősség esete áll fenn: |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  | □ Bizonyíték eltitkolása vagy megsemmisítése |  |  |  |  |  |
+|  |  |  |  |  | □ Tárgyalás közelgő időpontja |  |  |  |  |  |
+|  |  |  |  |  | □ Bármely egyéb ok |  |  |  |  |  |
+| Kérjük, részletezze: |  |  |  |  |  |  |  |  |  |  |
+| Az ENYH végrehajtására vonatkozó határidőket a 2014/41/EU irányelv rögzíti. Ugyanakkor, ha rövidebb vagy meghatározott határidőre van szükség, kérem, hogy jelölje meg az időpontot, és nevezze meg a sürgősség indokát: |  |  |  |  |  |  |  |  |  |  |
+|  |  | .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |
+| .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+|  |  | .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |
+| C. SZAKASZ: Az elvégzendő nyomozási cselekmény(ek) |  |  |  |  |  |  |  |  |  |  |
+| 1. Ismertesse a kért segítséget/nyomozási cselekmény(eke)t, ÉS adott esetben jelölje meg, ha a következő nyomozási cselekmények egyikéről van szó: |  |  |  |  |  |  |  |  |  |  |
+| .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+|  |  | .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |
+| .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+|  | □ A végrehajtó hatóságnak már birtokában lévő információ vagy bizonyíték megszerzése |  |  |  |  |  |  |  |  |  |
+|  | □ A rendőrség vagy igazságügyi hatóság adatbázisaiban fellelhető információ megszerzése |  |  |  |  |  |  |  |  |  |
+|  | □ Meghallgatás |  |  |  |  |  |  |  |  |  |
+|  |  |  |  | □ tanú |  |  |  |  |  |  |
+|  |  |  |  | □ szakértő |  |  |  |  |  |  |
+|  |  |  |  | □ gyanúsított vagy vádlott |  |  |  |  |  |  |
+|  |  |  |  | □ sértett |  |  |  |  |  |  |
+|  |  |  |  | □ harmadik fél |  |  |  |  |  |  |
+|  | □ Adott telefonszámhoz vagy IP-címhez tartozó előfizetéssel rendelkező személyek azonosítása |  |  |  |  |  |  |  |  |  |
+|  | □ Őrizetben lévő személy ideiglenes átszállítása a kibocsátó államba |  |  |  |  |  |  |  |  |  |
+|  | □ Őrizetben levő személy ideiglenes átszállítása a végrehajtó államba |  |  |  |  |  |  |  |  |  |
+|  | □ Videokonferencia vagy egyéb audiovizuális közvetítőeszköz útján történő meghallgatás |  |  |  |  |  |  |  |  |  |
+|  |  |  |  | □ tanú |  |  |  |  |  |  |
+|  |  |  |  | □ szakértő |  |  |  |  |  |  |
+|  |  |  |  | □ gyanúsított vagy vádlott |  |  |  |  |  |  |
+|  | □ Telefonkonferencia útján történő meghallgatás |  |  |  |  |  |  |  |  |  |
+|  |  |  |  | □ tanú |  |  |  |  |  |  |
+|  |  |  |  | □ szakértő |  |  |  |  |  |  |
+|  | □ Információ a bankoknál és egyéb pénzintézeteknél vezetett számlákról |  |  |  |  |  |  |  |  |  |
+|  | □ Információ a banki és egyéb pénzügyi műveletekről |  |  |  |  |  |  |  |  |  |
+|  | □ Valós idejű, folyamatos vagy meghatározott ideig tartó bizonyítékgyűjtéssel járó nyomozási cselekmény |  |  |  |  |  |  |  |  |  |
+|  |  |  |  | □ banki és egyéb pénzügyi műveletek nyomon követése |  |  |  |  |  |  |
+|  |  |  |  | □ ellenőrzött szállítások |  |  |  |  |  |  |
+|  |  |  |  | □ egyéb |  |  |  |  |  |  |
+|  | □ Fedett nyomozás |  |  |  |  |  |  |  |  |  |
+|  | □ Titkos távközlési információgyűjtés |  |  |  |  |  |  |  |  |  |
+| □ Bizonyítékként felhasználható elemek megsemmisítésének, átalakításának, áthelyezésének, átadásának vagy elidegenítésének megakadályozására szolgáló ideiglenes intézkedés(ek). |  |  |  |  |  |  |  |  |  |  |
+| D. SZAKASZ: Kapcsolat korábbi európai nyomozási határozattal (ENYH) |  |  |  |  |  |  |  |  |  |  |
+| Jelezze, ha ez az ENYH egy korábbi ENYH kiegészítése. Adott esetben adja meg a korábbi ENYH azonosításához szükséges információkat (az ENYH kibocsátásának dátuma, a hatóság, amelyhez azt továbbították és a továbbítás dátuma [amennyiben rendelkezésre áll], a kibocsátó és a végrehajtó hatóság ügyiratszáma): |  |  |  |  |  |  |  |  |  |  |
+| .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+|  |  | .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |
+| Kérem, adott esetben jelezze, ha ugyanebben az ügyben ENYH-val már megkerestek másik tagállamot is: |  |  |  |  |  |  |  |  |  |  |
+| .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| E. SZAKASZ: Az érintett személy személyazonossága |  |  |  |  |  |  |  |  |  |  |
+| 1. Adjon meg minden ismert információt azon i. természetes vagy ii. jogi személy(ek) személyazonosságára vonatkozóan,akit vagy akiket a nyomozási cselekmény érint (ha több személyt érint, mindegyik személy esetében külön adja meg azinformációkat): |  |  |  |  |  |  |  |  |  |  |
+| (i) Természetes személy(ek) esetében |  |  |  |  |  |  |  |  |  |  |
+| Név: .................................................................................................................................................................................................. |  |  |  |  |  |  |  |  |  |  |
+| Utónév (utónevek): ............................................................................................................................................................................ |  |  |  |  |  |  |  |  |  |  |
+| Egyéb név (nevek) (ha van ilyen): .................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| Felvett nevek (ha van ilyen): ............................................................................................................................................................ |  |  |  |  |  |  |  |  |  |  |
+| Nem: ................................................................................................................................................................................................. |  |  |  |  |  |  |  |  |  |  |
+|  | Állampolgárság: ............................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |
+| Személyazonosító szám vagy társadalombiztosítási azonosító szám: ............................................................................................. |  |  |  |  |  |  |  |  |  |  |
+| A személyazonosító okmány(ok) (személyazonossági igazolvány, útlevél) típusa és száma, ha rendelkezésre áll: |  |  |  |  |  |  |  |  |  |  |
+| ........................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| Születési idő:..................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| Születési hely:................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| Lakóhely és/vagy ismert lakcím; ha nincs ilyen, az utolsó ismert lakcím: |  |  |  |  |  |  |  |  |  |  |
+|  |  | .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |
+| A személy által értett nyelv(ek): |  |  |  |  |  |  |  |  |  |  |
+| .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| (ii) A személy által értett nyelv(ek): |  |  |  |  |  |  |  |  |  |  |
+| Megnevezés: ..................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| A jogi személy formája:.................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| Rövidített név, általánosan használt név vagy kereskedelmi név, ha van ilyen: |  |  |  |  |  |  |  |  |  |  |
+| .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| A jogi személy nyilvántartott székhelye: ......................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| Nyilvántartási szám: ......................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| A jogi személy címe: ........................................................................................................................................................................ |  |  |  |  |  |  |  |  |  |  |
+| A jogi személy képviselőjének neve: ............................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| Kérem, jelölje meg, hogy az érintett személy milyen minőségben vesz részt az eljárásban: |  |  |  |  |  |  |  |  |  |  |
+|  | □ gyanúsított vagy vádlott |  |  |  |  |  |  |  |  |  |
+|  | □ sértett |  |  |  |  |  |  |  |  |  |
+|  | □ tanú |  |  |  |  |  |  |  |  |  |
+|  | □ szakértő |  |  |  |  |  |  |  |  |  |
+|  | □ harmadik fél |  |  |  |  |  |  |  |  |  |
+|  | □ egyéb (kérem, nevezze meg) ...................................................................................................................................................... |  |  |  |  |  |  |  |  |  |
+| 2. Amennyiben a fent megadott címtől eltér, kérem, adja meg az elvégzendő nyomozási cselekmény helyét: |  |  |  |  |  |  |  |  |  |  |
+| .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| 3. Adjon meg egyéb olyan információkat, amelyek támpontul szolgálhatnak az ENYH végrehajtásához, ha van ilyen: |  |  |  |  |  |  |  |  |  |  |
+| .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| F. SZAKASZ: Az eljárás típusa, amelynek céljából az európai nyomozási határozatot (ENYH) kibocsátották: |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  | □ (a) a kibocsátó állam nemzeti joga szerint bűncselekménnyel kapcsolatban igazságügyi hatóság által indított, vagy az igazságügyi hatóság előtt megindítható büntetőeljárások; vagy |  |  |  |  |
+|  |  |  |  |  |  | □ (b) a közigazgatási hatóságok által olyan cselekmények tekintetében indított eljárások, amelyek a kibocsátó állam nemzeti joga alapján jogszabálysértésként büntetendők, és a határozat kifejezetten büntetőügyekben hatáskörrel rendelkező bíróság előtti eljáráshoz vezethet; vagy |  |  |  |  |
+| □ (c) az igazságügyi hatóságok által olyan cselekmények tekintetében indított eljárások, amelyek a kibocsátó állam nemzeti joga alapján jogszabálysértésként büntetendők, és a határozat kifejezetten büntetőügyekben hatáskörrel rendelkező bíróság előtti eljáráshoz vezethet; |  |  |  |  |  |  |  |  |  |  |
+| □ (d) az a), b) és c) pontban említett olyan eljárásokkal kapcsolatban, amelyek olyan bűncselekményekhez vagy jogsértésekhez kapcsolódnak, amelyekért valamely jogi személy felelősségre vonható vagy büntethető a kibocsátó államban. |  |  |  |  |  |  |  |  |  |  |
+| G. szakasz: Az európai nyomozási határozat (ENYH) kibocsátásának indokai |  |  |  |  |  |  |  |  |  |  |
+| 1. A tények összefoglalása |  |  |  |  |  |  |  |  |  |  |
+| Ismertesse az ENYH kibocsátásának indokait, beleértve az alapjául szolgáló tények összefoglalását is, a vád szerinti vagy a még nyomozás tárgyát képező bűncselekményeket, azt, hogy mely szakaszig jutott a nyomozás, az esetleges kockázati tényezők okait, valamint bármely egyéb lényeges információt. |  |  |  |  |  |  |  |  |  |  |
+| .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| 2. A kibocsátott ENYH tárgyát képező bűncselekmény(ek) jellege és jogi minősítése és az alkalmazandó jogszabályi rendelkezések: |  |  |  |  |  |  |  |  |  |  |
+| .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| 3. A kibocsátandó ENYH tárgyát képező bűncselekmény a kibocsátó állam jogában olyan szabadságvesztéssel járó büntetéssel vagy olyan szabadságelvonással járó intézkedéssel büntetendő, amelynek maximális időtartama a kibocsátó állam joga szerint legalább három év, továbbá szerepel az alább felsorolt bűncselekmények között? (jelölje meg a megfelelő négyzetet) |  |  |  |  |  |  |  |  |  |  |
+| □ bűnszervezetben való részvétel |  |  |  |  |  |  |  |  |  |  |
+|  | □ terrorizmus |  |  |  |  |  |  |  |  |  |
+|  | □ emberkereskedelem |  |  |  |  |  |  |  |  |  |
+|  | □ gyermekek szexuális kizsákmányolása és gyermekpornográfia |  |  |  |  |  |  |  |  |  |
+|  | □ kábítószerek és pszichotróp anyagok tiltott kereskedelme |  |  |  |  |  |  |  |  |  |
+|  | □ fegyverek, lőszerek és robbanóanyagok tiltott kereskedelme |  |  |  |  |  |  |  |  |  |
+|  | □ korrupció |  |  |  |  |  |  |  |  |  |
+| □ csalással kapcsolatos bűncselekmények, ideértve az Európai Közösségek pénzügyi érdekeinek védelméről szóló, 1995. július 26-i egyezmény értelmében az Európai Unió pénzügyi érdekeit sértő csalásokat is |  |  |  |  |  |  |  |  |  |  |
+|  | □ bűncselekményből származó jövedelem tisztára mosása |  |  |  |  |  |  |  |  |  |
+|  | □ pénzhamisítás, beleértve az euro hamisítását is |  |  |  |  |  |  |  |  |  |
+|  | □ számítástechnikai bűnözés |  |  |  |  |  |  |  |  |  |
+| □ környezettel kapcsolatos bűncselekmények, beleértve a veszélyeztetett állatfajok, valamint a veszélyeztetett növényfajok és -fajták tiltott kereskedelmét is |  |  |  |  |  |  |  |  |  |  |
+|  | □ segítségnyújtás jogellenes beutazáshoz és tartózkodáshoz |  |  |  |  |  |  |  |  |  |
+|  | □ szándékos emberölés, súlyos testi sértés |  |  |  |  |  |  |  |  |  |
+|  | □ emberi szervek és szövetek tiltott kereskedelme |  |  |  |  |  |  |  |  |  |
+|  | □ emberrablás, személyi szabadság megsértése és túszejtés |  |  |  |  |  |  |  |  |  |
+|  | □ rasszizmus és idegengyűlölet |  |  |  |  |  |  |  |  |  |
+|  | □ szervezett vagy fegyveres rablás |  |  |  |  |  |  |  |  |  |
+|  | □ kulturális javak tiltott kereskedelme, beleértve a régiségeket és a műtárgyakat is |  |  |  |  |  |  |  |  |  |
+|  | □ csalás |  |  |  |  |  |  |  |  |  |
+|  | □ zsarolás és védelmi pénz szedése |  |  |  |  |  |  |  |  |  |
+|  | □ termékhamisítás és szerzői jog megsértése |  |  |  |  |  |  |  |  |  |
+|  | □ hivatalos okmányok hamisítása és azokkal való kereskedelem |  |  |  |  |  |  |  |  |  |
+|  | □ fizetőeszközök hamisítása |  |  |  |  |  |  |  |  |  |
+|  | □ hormontartalmú anyagok és más növekedésserkentők tiltott kereskedelme |  |  |  |  |  |  |  |  |  |
+|  | □ nukleáris vagy radioaktív anyagok tiltott kereskedelme |  |  |  |  |  |  |  |  |  |
+|  | □ lopott gépjárművek kereskedelme |  |  |  |  |  |  |  |  |  |
+|  | □ erőszakos közösülés |  |  |  |  |  |  |  |  |  |
+|  | □ gyújtogatás |  |  |  |  |  |  |  |  |  |
+|  | □ a Nemzetközi Büntetőbíróság joghatósága alá tartozó bűncselekmények |  |  |  |  |  |  |  |  |  |
+|  | □ légi vagy vízi jármű jogellenes hatalomba kerítése |  |  |  |  |  |  |  |  |  |
+|  | □ szabotázs |  |  |  |  |  |  |  |  |  |
+| H. SZAKASZ: Egyes intézkedésekkel szemben támasztott további követelmények |  |  |  |  |  |  |  |  |  |  |
+| Töltse ki a kért nyomozási cselekmény(ek)re vonatkozó szakaszokat: |  |  |  |  |  |  |  |  |  |  |
+| H1. SZAKASZ: Őrizetben levő személy átadása |  |  |  |  |  |  |  |  |  |  |
+| (1) |  |  | Őrizetben levő személynek a kibocsátó állam részére nyomozati célból történő ideiglenes átadására irányuló megkeresés esetén kérem, jelezze, hogy az érintett hozzájárult-e ehhez az intézkedéshez: |  |  |  |  |  |  |  |
+| □ |  |  | Igen |  |  |  |  |  | □ Nem | □ Kérem az érintett hozzájárulásának kérését |
+| (2) |  |  | Őrizetben levő személynek a végrehajtó állam részére nyomozati célból történő ideiglenes átadására irányuló megkeresés esetén kérem, jelezze, [...] hogy az érintett hozzájárult-e ehhez az intézkedéshez: |  |  |  |  |  |  |  |
+| □ |  |  | Igen |  |  |  |  |  | □ Nem |  |
+| H2. SZAKASZ: Video- vagy telefonkonferencia vagy egyéb audiovizuális közvetítés |  |  |  |  |  |  |  |  |  |  |
+| Videokonferencia vagy telefonkonferencia, vagy egyéb audiovizuális közvetítőeszköz útján történő meghallgatásra irányuló megkeresés esetén: |  |  |  |  |  |  |  |  |  |  |
+| Kérem, nevezze meg azt a hatóságot, amely a meghallgatást végzi majd (elérhetőség/nyelv): |  |  |  |  |  |  |  |  |  |  |
+| ......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| Kérem, indokolja meg a kért intézkedést:........................................................................................................................................ |  |  |  |  |  |  |  |  |  |  |
+| ......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| □ |  | (a) videokonferencia vagy egyéb audiovizuális közvetítőeszköz útján történő meghallgatás: |  |  |  |  |  |  |  |  |
+|  |  |  | □ a gyanúsított vagy a vádlott hozzájárulását adta |  |  |  |  |  |  |  |  |
+| □ |  | (b) telefonkonferencia útján történő meghallgatás: |  |  |  |  |  |  |  |  |
+| H3. SZAKASZ: Ideiglenes intézkedések |  |  |  |  |  |  |  |  |  |  |
+| Bizonyítékként felhasználható elemek megsemmisítésének, átalakításának, áthelyezésének, átadásának vagy elidegenítésének megakadályozására szolgáló ideiglenes intézkedésre irányuló megkeresés esetén kérem, jelezze, hogy: |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  | □ a bizonyítékot át kell adni a kibocsátó államnak |  |  |  |  |  |  |  |
+|  |  |  |  | □ a bizonyíték maradhat a végrehajtó államban; kérem, adja meg az alábbiak tervezett időpontját: |  |  |  |  |  |  |  |
+|  |  |  | az ideiglenes intézkedés visszavonása: .................................................................................................................................. |  |  |  |  |  |  |  |
+|  |  |  | a bizonyítékra vonatkozó későbbi megkeresés benyújtása: ................................................................................................... |  |  |  |  |  |  |  |
+| H4. SZAKASZ: Információk a bankoknál és egyéb pénzintézeteknél vezetett számlákról |  |  |  |  |  |  |  |  |  |  |
+| (1) |  |  | Ha az információkérés olyan számlára vonatkozik, amelyet az érintett banknál vagy egyéb pénzintézetnél tart fenn, illetve amely felett rendelkezési joga van, kérem, mindegyikre nézve indokolja meg, hogy a büntetőeljáráshoz miért van szükség az intézkedésre, és hogy mi alapján feltételezi, hogy a végrehajtó államban található valamelyik bank vezeti a kérdéses számlát: |  |  |  |  |  |  |  |
+| □ |  |  | olyan bankszámlával kapcsolatos információ, amelyet az érintett tart fenn vagy amelyre vonatkozóan meghatalmazással rendelkezik |  |  |  |  |  |  |  |
+| □ |  |  | olyan egyéb pénzintézetnél vezetett számlával kapcsolatos információ, amelyet az érintett tart fenn vagy amelyre vonatkozóan meghatalmazással rendelkezik |  |  |  |  |  |  |  |
+| .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| (2) |  |  | A banki vagy egyéb pénzügyi műveletekre vonatkozó információkérés esetén kérem, mindegyik esetben indokolja meg, hogy a büntetőeljáráshoz miért van szükség az intézkedésre: |  |  |  |  |  |  |  |
+| □ |  |  | banki műveletekre vonatkozó információ |  |  |  |  |  |  |  |
+| □ |  |  | egyéb pénzügyi műveletekre vonatkozó információ |  |  |  |  |  |  |  |
+| .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| Adja meg az érintett időszakot és számlákat: |  |  |  |  |  |  |  |  |  |  |
+| .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| H5. SZAKASZ: Valós idejű, folyamatos vagy meghatározott ideig tartó bizonyítékgyűjtéssel járó nyomozási cselekmények |  |  |  |  |  |  |  |  |  |  |
+| E nyomozási cselekményre irányuló megkeresés esetén kérem, indokolja meg, hogy a büntetőeljáráshoz miért van szükség a kért információra: |  |  |  |  |  |  |  |  |  |  |
+| .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| H6. SZAKASZ: Fedett nyomozás |  |  |  |  |  |  |  |  |  |  |
+| Fedett nyomozásra irányuló megkeresés esetén kérem, indokolja meg, hogy a büntetőeljáráshoz feltehetőleg miért van szükség az intézkedésre: |  |  |  |  |  |  |  |  |  |  |
+| .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| H7. SZAKASZ: Titkos távközlési információgyűjtés |  |  |  |  |  |  |  |  |  |  |
+| (1) |  |  | Titkos távközlési információgyűjtésre irányuló megkeresés esetén kérem, indokolja meg, hogy a büntetőeljáráshoz miért van szükség az intézkedésre: |  |  |  |  |  |  |  |
+| .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| (2) |  |  | Kérem, adja meg az alábbi információkat: |  |  |  |  |  |  |  |
+| (a) |  |  | a célszemély azonosítására szolgáló információk: |  |  |  |  |  |  |  |
+| .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| (b) |  |  | a titkos információgyűjtés kívánt időtartama: |  |  |  |  |  |  |  |
+| .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| (c) |  |  | technikai adatok (különösen a büntetőeljárás alá vont személy azonosítója pl. mobiltelefon, vezetékes telefon, e-mail cím, internetkapcsolat esetében) annak érdekében, hogy az ENYH-t végre lehessen hajtani: |  |  |  |  |  |  |  |
+| .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| (3) |  |  | Kérem, jelezze, melyik végrehajtási módot részesíti előnyben |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  | □ Az információk azonnali továbbítása |  |  |
+|  |  |  |  |  |  |  |  | □ Az információk rögzítést követő továbbítása |  |  |
+| Kérem, jelezze, ha kéri a titkos információgyűjtés révén szerzett információk írásba foglalását, dekódolását vagy titkosításának feloldását is*: |  |  |  |  |  |  |  |  |  |  |
+| ........................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| ........................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+| I. SZAKASZ: A végrehajtáshoz kért alaki követelmények és eljárások |  |  |  |  |  |  |  |  |  |  |
+| 1. |  |  | Értelemszerűen jelölje meg és töltse ki! |  |  |  |  |  |  |  |
+| □ |  |  | A kibocsátó hatóság az alábbi alaki követelmények és eljárások betartására kéri a végrehajtó hatóságot (...): |  |  |  |  |  |  |  |
+| ........................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| ........................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| 2. |  |  | Értelemszerűen jelölje meg és töltse ki! |  |  |  |  |  |  |  |
+| □ |  |  | A kibocsátó hatóság kéri, hogy a kibocsátó állam egy vagy több tisztviselője részt vehessen az ENYH végrehajtásában, támogatást nyújtva a végrehajtó állam illetékes hatóságainak. |  |  |  |  |  |  |  |
+| A tisztviselők elérhetősége: |  |  |  |  |  |  |  |  |  |  |
+| ........................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| ........................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| A kapcsolattartás során használható nyelvek: |  |  |  |  |  |  |  |  |  |  |
+| ........................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| J. SZAKASZ: Jogorvoslat |  |  |  |  |  |  |  |  |  |  |
+| 1. |  |  | Kérem, jelezze, ha az ENYH kibocsátásával szemben már jogorvoslati kérelmet nyújtottak be, és amennyiben igen, kérem, részletezze (a jogorvoslati lehetőség leírása, beleértve a szükséges intézkedéseket és a határidőket is): |  |  |  |  |  |  |  |
+| ........................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| ........................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| 2. |  |  | A kibocsátó állam azon hatósága, amely további felvilágosítást tud adni a kibocsátó államban az igénybe vehető jogorvoslatokkal kapcsolatos eljárásokról, valamint arról, hogy rendelkezésre áll-e jogi segítségnyújtás, tolmácsolás és fordítás: |  |  |  |  |  |  |  |
+| Megnevezés:....................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| Kapcsolattartó (ha van ilyen):............................................................................................................................................................ |  |  |  |  |  |  |  |  |  |  |
+| Cím:.................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| Tel.: (országkód) (körzetszám)........................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| Fax: (országkód) (körzetszám)........................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| E-mail................................................................................................................................................................................................. |  |  |  |  |  |  |  |  |  |  |
+| K. SZAKASZ: Az európai nyomozási határozatot (ENYH) kibocsátó hatóság adatai |  |  |  |  |  |  |  |  |  |  |
+| Jelölje meg az ENYH-t kibocsátó hatóság típusát: |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  | □ igazságügyi hatóság |  |  |  |  |  |  |
+|  |  |  |  | □ (*) a kibocsátó állam joga szerint illetékes egyéb hatóság |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+| (*) Kérem, töltse ki az L. szakaszt is |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+| A hatóság megnevezése: |  |  |  |  |  |  |  |  |  |  |
+| ............................................................................................................................................................................................................ |  |  |  |  |  |  |  |  |  |  |
+| A képviselő/kapcsolattartó neve: |  |  |  |  |  |  |  |  |  |  |
+| ............................................................................................................................................................................................................ |  |  |  |  |  |  |  |  |  |  |
+| Ügyiratszám:....................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| Cím:.................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| Tel.: (országkód) (körzetszám)........................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| Fax: (országkód) (körzetszám)........................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| E-mail: ............................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| A kibocsátó hatósággal való kapcsolattartás során használható nyelvek: |  |  |  |  |  |  |  |  |  |  |
+| ............................................................................................................................................................................................................. |  |  |  |  |  |  |  |  |  |  |
+| Amennyiben a fent megadottól eltér, azon személy(ek) elérhetősége, aki(k) további felvilágosítást tud(nak) adni vagy akivel (akikkel) meg lehet állapodni a bizonyíték átadásának gyakorlati részleteit illetően: |  |  |  |  |  |  |  |  |  |  |
+| Név/Beosztás/Szervezet:................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| Cím:................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| E-mail/Tel.:....................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| A kibocsátó hatóságnak és/vagy képviselőjének aláírása, amellyel igazolja az ENYH tartalmának pontosságát és helytállóságát: |  |  |  |  |  |  |  |  |  |  |
+| Név:................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| Betöltött tisztség (beosztás/rang):..................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| Dátum:.............................................................................................................................................................................................. |  |  |  |  |  |  |  |  |  |  |
+| Hivatalos pecsét (ha van ilyen): |  |  |  |  |  |  |  |  |  |  |
+| L. SZAKASZ: Az európai nyomozási határozatot (ENYH) érvényesítő igazságügyi hatóság adatai |  |  |  |  |  |  |  |  |  |  |
+| Jelölje meg az ENYH-t érvényesítő igazságügyi hatóság típusát: |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  | □ a) bíró vagy bíróság |  |  |  |  |  |  |
+|  |  |  |  | □ b) nyomozási bíró |  |  |  |  |  |  |
+|  |  |  |  | □ c) ügyész |  |  |  |  |  |  |
+| Az érvényesítő hatóság hivatalos megnevezése: |  |  |  |  |  |  |  |  |  |  |
+| ........................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| Képviselőjének neve: |  |  |  |  |  |  |  |  |  |  |
+| ........................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| Betöltött tisztség (beosztás/rang): |  |  |  |  |  |  |  |  |  |  |
+| ......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| Ügyiratszám...................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| Cím: .................................................................................................................................................................................................. |  |  |  |  |  |  |  |  |  |  |
+| .......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| Tel.: (országkód) (körzetszám.......................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| Fax: (országkód) (körzetszám........................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| E-mail:.............................................................................................................................................................................................. |  |  |  |  |  |  |  |  |  |  |
+| Az érvényesítő hatósággal való kapcsolattartás során használható nyelvek: |  |  |  |  |  |  |  |  |  |  |
+| ......................................................................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| Kérem, jelölje meg, hogy a végrehajtó hatósággal való kapcsolattartás során az alábbiak közül melyik a fő kapcsolattartó: |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  | □ a kibocsátó hatóság |  |  |  |  |  |  |
+|  |  |  |  | □ az érvényesítő hatóság |  |  |  |  |  |  |
+| Az érvényesítő hatóság aláírása és adatai |  |  |  |  |  |  |  |  |  |  |
+| Név:.................................................................................................................................................................................................. |  |  |  |  |  |  |  |  |  |  |
+| Betöltött tisztség (beosztás/rang):.................................................................................................................................................... |  |  |  |  |  |  |  |  |  |  |
+| Dátum:............................................................................................................................................................................................. |  |  |  |  |  |  |  |  |  |  |
+| Hivatalos pecsét (ha van ilyen): |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+
+### 2. számú melléklet a 2007. évi XXXVI. törvényhez
+
+IGAZOLÁS EURÓPAI NYOMOZÁSI HATÁROZAT (ENYH) ÁTVÉTELÉRŐL
+
+Ezt a formanyomtatványt a végrehajtó állam azon hatóságának kell kitöltenie, amely a lentebb említett ENYH-t kapta.
+
+1 Ezt a szakaszt minden hatóságnak ki kell töltenie, amely az ENYH-t megkapta. Ez a kötelezettség az ENYH-t elismerése és végrehajtása tekintetében illetékes hatóságot terheli, valamint adott esetben azt a központi hatóságot vagy hatóságot, amely az európai nyomozási határozatot az illetékes hatóságnak továbbította.
+
+|  | A. | AZ ÉRINTETT EURÓPAI NYOMOZÁSI HATÁROZAT (ENYH) |  |
+| --- | --- | --- | --- |
+| Az ENYH-t kibocsátó hatóság: |  |  |  |
+| .......................................................................................................................................................................................................... |  |  |  |
+| Ügyiratszám:...................................................................................................................................................................................... |  |  |  |
+| A kibocsátás dátuma:......................................................................................................................................................................... |  |  |  |
+| Az átvétel dátuma:............................................................................................................................................................................. |  |  |  |
+| B. AZ EURÓPAI NYOMOZÁSI HATÁROZATOT (ENYH) ÁTVEVŐ HATÓSÁG (1) |  |  |  |
+| Az illetékes hatóság hivatalos megnevezése: |  |  |  |
+| ............................................................................................................................................................................................................ |  |  |  |
+| Képviselőjének neve: |  |  |  |
+| ............................................................................................................................................................................................................ |  |  |  |
+| Betöltött tisztség (beosztás/rang): |  |  |  |
+| ........................................................................................................................................................................................................... |  |  |  |
+| Cím: |  |  |  |
+| ............................................................................................................................................................................................................. |  |  |  |
+| ............................................................................................................................................................................................................. |  |  |  |
+| ............................................................................................................................................................................................................. |  |  |  |
+| Tel.: (országkód) (körzetszám) ............................................................................................................................................................ |  |  |  |
+| Fax: (országkód) (körzetszám) ............................................................................................................................................................ |  |  |  |
+| E-mail: ................................................................................................................................................................................................. |  |  |  |
+| Ügyiratszám: ....................................................................................................................................................................................... |  |  |  |
+| A hatósággal való kapcsolattartás során használható nyelvek: |  |  |  |
+| .............................................................................................................................................................................................................. |  |  |  |
+| C. (ADOTT ESETTBEN) AZ ILLETÉKES HATÓSÁG, AMELYHEZ A B. SZAKASZBANMEGHATÁROZOTT HATÓSÁG AZ EURÓPAI NYOMOZÁSI HATÁROZATOT (ENYH) TOVÁBBÍTJA |  |  |  |
+| A hatóság hivatalos megnevezése: |  |  |  |
+| ............................................................................................................................................................................................................. |  |  |  |
+| Képviselőjének neve: |  |  |  |
+| ............................................................................................................................................................................................................. |  |  |  |
+| Betöltött tisztség (beosztás/rang): |  |  |  |
+| ............................................................................................................................................................................................................. |  |  |  |
+| Cím: |  |  |  |
+| ............................................................................................................................................................................................................. |  |  |  |
+| ............................................................................................................................................................................................................. |  |  |  |
+| Tel.: (országkód) (körzetszám)............................................................................................................................................................. |  |  |  |
+| Fax: (országkód) (körzetszám)............................................................................................................................................................. |  |  |  |
+| E-mail:.................................................................................................................................................................................................. |  |  |  |
+| A továbbítás dátuma:............................................................................................................................................................................ |  |  |  |
+| Ügyiratszám:........................................................................................................................................................................................ |  |  |  |
+| A kapcsolattartás során használható nyelv(ek): |  |  |  |
+| ............................................................................................................................................................................................................. |  |  |  |
+|  |  |  |  |
+| D. EGYÉB OLYAN INFORMÁCIÓ, AMELY LÉNYEGES LEHET A KIBOCSÁTÓ HATÓSÁG SZÁMÁRA: |  |  |  |
+| ............................................................................................................................................................................................................... |  |  |  |
+| ............................................................................................................................................................................................................... |  |  |  |
+| ............................................................................................................................................................................................................... |  |  |  |
+| E. ALÁÍRÁS ÉS DÁTUM |  |  |  |
+| Aláírás: |  |  |  |
+| Dátum: ................................................................................................................................................................................................. |  |  |  |
+| Hivatalos pecsét (ha van ilyen): |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
