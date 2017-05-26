@@ -3622,7 +3622,7 @@ nem alkalmazható(k).
 
 236. § (1) Az Állambiztonsági Szolgálatok Történeti Levéltára főigazgatója és főigazgató-helyettese főosztályvezetői illetményre jogosult azzal, hogy a főigazgató alapilletménye az illetményalap 11-szerese, a főigazgató-helyettesé 9,5-szerese, s egyéb juttatásaikat az Országgyűlés elnöke állapítja meg.
 
-(2) Az Alkotmánybíróság főtitkára, valamint az Országgyűlés szervezeti és működési szabályzatban meghatározott hivatali szerveinek vezetői a közigazgatási államtitkárral, az Országgyűlés szervezeti és működési szabályzatban meghatározott hivatali szerveinek helyettes vezetői a helyettes államtitkárral azonos illetményben és juttatásban részesülnek.
+(2) Az Alkotmánybíróság főtitkára, valamint az Országgyűlés szervezeti és működési szabályzatban meghatározott hivatali szerveinek vezetői a közigazgatási államtitkárral, az Alkotmánybíróság Hivatalának, valamint az Országgyűlés szervezeti és működési szabályzatban meghatározott hivatali szerveinek helyettes vezetői a helyettes államtitkárral azonos illetményben és juttatásban részesülnek.
 
 (3) A vezetői illetménypótlék mértéke a 234. § (1) és (2) bekezdésben meghatározott közigazgatási szervnél:
 
@@ -4027,6 +4027,8 @@ részletes szabályokat.
 ### Átmeneti rendelkezések
 
 260/A. § A 2017. április 30-án kormányzati szolgálati jogviszonyban álló kormánytisztviselő a 21. § (2) bekezdés szerinti szolgáltatással 2017. május 1-jétől köteles rendelkezni.
+
+260/B. § A központi nyugdíjbiztosítási szervnél foglalkoztatott kormánytisztviselők illetménykiegészítésének mértékét e törvénynek a központi hivatalok felülvizsgálatával és a járási (fővárosi kerületi) hivatalok megerősítésével összefüggő egyes törvények módosításáról, valamint egyes költségvetési szervek feladatainak átadásáról szóló 2016. évi CIV. törvénnyel megállapított 134. § (1) bekezdés 13. pontja hatálybalépésétől 2017. november 1-jéig az e törvény 2017. március 31-én hatályos 134. § (1) bekezdés 13. pontja alapján kell megállapítani.
 
 ### Az Európai Unió jogi aktusainak való megfelelés
 

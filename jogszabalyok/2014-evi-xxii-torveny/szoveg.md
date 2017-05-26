@@ -23,7 +23,7 @@ Az Országgyűlés az arányos közteherviselés elvére figyelemmel a következ
   - b) az Mttv. szerinti kereskedelmi közlemény,
 - 8. reklám közzététele: a Reklámtv. szerinti közzététel, függetlenül attól, hogy a reklám közzétételére irányuló szerződés meghatározza-e a reklám megjelenésének a helyét, az idejét vagy a módját,
 - 9. sajtótermék: az Mttv. szerinti sajtótermék,
-- 10. saját célú reklám: a reklám közzétevő saját termékére, árujára, szolgáltatására, tevékenységére, nevére, megjelenésére vonatkozó reklám,
+- 10.
 - 11. reklámértékesítő ügynökség: az adóalannyal az Szt. szerinti kapcsolt félnek minősülő, olyan személy, szervezet, amely az adóalannyal fennálló szerződéses jogviszony alapján jogosult arra, hogy az adóalany médiatartalom-szolgáltatásán belüli reklám közzétételére irányuló szerződést kössön.
 
 #### 2. Az adókötelezettség, az adóalany
@@ -36,7 +36,7 @@ Az Országgyűlés az arányos közteherviselés elvére figyelemmel a következ
 - d) bármely járművön, nyomtatott anyagon, ingatlanon,
 - e) az interneten, túlnyomórészt magyar nyelven vagy túlnyomórészt magyar nyelvű internetes oldalon
 
-reklám közzététele.
+reklám ellenszolgáltatás fejében történő közzététele.
 
 (2) Adóköteles a reklám közzétételének megrendelése, kivéve, ha
 
@@ -75,7 +75,7 @@ reklám közzététele.
 
 #### 3. Az adó alapja
 
-4. § (1) Az adó alapja a 3. § (1) bekezdés szerinti adóalany esetén az adóköteles tevékenységből származó adóévi nettó árbevétel, növelve a reklámértékesítő ügynökségnek a megrendelővel kötött, az adóalany médiatartalom-szolgáltatásán belüli reklám közzétételére irányuló szerződés szerinti szolgáltatásból származó nettó árbevételének és ezen ügylet kapcsán a reklámértékesítő ügynökségtől az adóalanynak járó ellenértéknek a különbözetével. Saját célú reklám közzététele esetén az adó alapja a reklám közzétételével kapcsolatban közvetlenül felmerült költség.
+4. § (1) Az adó alapja a 3. § (1) bekezdés szerinti adóalany esetén az adóköteles tevékenységből származó adóévi nettó árbevétel, növelve a reklámértékesítő ügynökségnek a megrendelővel kötött, az adóalany médiatartalom-szolgáltatásán belüli reklám közzétételére irányuló szerződés szerinti szolgáltatásból származó nettó árbevételének és ezen ügylet kapcsán a reklámértékesítő ügynökségtől az adóalanynak járó ellenértéknek a különbözetével.
 
 (2) Az adó alapja a 3. § (2) bekezdés szerinti adóalany esetén a reklám-közzététel havi összesített ellenértékének 2 500 000 forintot meghaladó része.
 
@@ -173,6 +173,10 @@ reklám közzététele.
 
 #### 8. §
 
+8/A. § (1) A 2017. június 30-ig lezárult adóévekre bevallott, de meg nem fizetett adót nem kell megfizetni.
+
+(2) A 2017-ben kezdődő és a reklámadóról szóló 2014. évi XXII. törvény módosításáról szóló 2017. évi XLVII. törvény (a továbbiakban: Mód. törvény) hatályba lépését magában foglaló adóévben esedékes adóelőleg 7. § (3) bekezdés szerinti összegét a 2016. évben kezdődő utolsó adóév, 12 hónapra arányosított, a Mód. törvénnyel megállapított 4. § (1) bekezdés szerint számított adóalapjának alapulvételével kell megállapítani, bevallani és megfizetni.
+
 9. § (1) A 2014. évi adó összege – ha az adóalany e törvény hatálybalépését megelőzően kezdte meg a 2. § szerinti tevékenységét – az adóalany 2014. évi, 2. § szerinti tevékenységéből származó adóalap, a 2. § (1) bekezdés szerinti tevékenység esetén a reklámértékesítő ügynökségnek a megrendelővel kötött, az adóalany médiatartalom-szolgáltatásán belüli reklám közzétételére irányuló szerződés szerinti szolgáltatásból származó 2014. évi nettó árbevételének és ezen ügylet kapcsán a reklámértékesítő ügynökségtől az adóalanynak 2014. évben járó ellenértéknek a különbözete, továbbá a 10. §-ban foglaltak alapulvételével az 5. § szerint számított összeg – e törvény hatálybalépésétől számított időszak naptári napjaival – arányos része.
 
 (2) A 2014. évi adóelőleg összege az adóalany 2013. évi, 2. § szerinti tevékenységéből származó nettó árbevétele, saját célú reklám közzétételével összefüggő közvetlen költsége, a 2. § (1) szerinti tevékenység esetén reklámértékesítő ügynökségnek a megrendelővel kötött, az adóalany médiatartalom-szolgáltatásán belüli reklám közzétételére irányuló szerződés szerinti szolgáltatásból származó 2013. évi nettó árbevételének és ezen ügylet kapcsán a reklámértékesítő ügynökségtől az adóalanynak 2013. évben járó ellenértéknek a különbözete, továbbá a 10. §-ban foglaltak alapulvételével az 5. § szerint számított összeg – e törvény hatálybalépésétől számított időszak naptári napjaival – arányos része.
@@ -191,13 +195,4 @@ reklám közzététele.
 
 10. § Az adóalany csökkentheti a 2014. évben kezdődő adóév adóalapját – legfeljebb annak erejéig – a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 17. § (1) bekezdése vagy az Szja tv. 49/B. § (7) bekezdése szerinti elhatárolt veszteség 50%-ával, feltéve, hogy a 2013. évben kezdődő üzleti évben az adóalany adózás előtti eredményének összege nulla vagy negatív.
 
-11. § (1) A 3. § (1) bekezdés szerinti adóalany – döntése szerint – e törvénynek a reklámadóhoz kapcsolódó törvények módosításáról szóló 2015. évi LXII. törvénnyel (a továbbiakban: Mód. törvény) megállapított rendelkezései hatálybalépése napját (a továbbiakban: Mód. törvény hatálybalépése napja) megelőző napig kezdődő adóévei első napjától is alkalmazhatja a Mód. törvénnyel megállapított 5. § (1) bekezdés szerinti adómértéket.
-
-(2) Ha a 3. § (1) bekezdés szerinti adóalany a Mód. törvény hatálybalépése napját magában foglaló adóévre az (1) bekezdésben foglaltakat nem alkalmazza, a Mód. törvénnyel megállapított 5. § (1) bekezdés szerinti adómértéket – a Mód. törvény hatálybalépése napját magában foglaló adóévben – az adóalap olyan hányadára kell alkalmaznia, amilyen arányt az adóév Mód. törvény hatálybalépése napjától számított naptári napjainak száma az adóév naptári napjai számában képvisel.
-
-(3) A (2) bekezdés szerinti esetben a fizetendő adó
-
-- a) az adóalap és a (2) bekezdés szerinti adóalaprész különbözete 12 hónapos időszakra számított összegének alapulvételével a Mód. törvény hatálybalépése napját megelőzően hatályos 5. § (1) bekezdés szerint meghatározott adóösszegnek az adóév Mód. törvény hatálybalépése napját megelőző naptári napjaival arányos része, növelve
-- b) a (2) bekezdés szerinti adóalaprész 12 hónapos időszakra számított összegének alapulvételével a Mód. törvénnyel megállapított 5. § (1) bekezdés szerint meghatározott adóösszegnek az adóév Mód. törvény hatálybalépése napjától kezdődő időszak naptári napjaival arányos részével.
-
-(4)
+#### 11. §

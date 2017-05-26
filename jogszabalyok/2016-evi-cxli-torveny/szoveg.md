@@ -58,15 +58,7 @@ Az Országgyűlés a Magyar Corvin-lánc Testület által képviselt értékek m
 
 #### 4. Törvényességi ellenőrzés
 
-8. § (1) A Testület működése felett a törvényességi ellenőrzést az ügyészségről szóló 2011. évi CLXIII. törvény alapján az ügyészség látja el.
-
-(2) Ha a működés törvényessége másképpen nem biztosítható, az ügyész keresettel a bírósághoz fordulhat. Az ügyész által az e bekezdés alapján indított perek a Fővárosi Törvényszék illetékességébe tartoznak.
-
-(3) A Fővárosi Törvényszék az ügyész keresete alapján, szükség esetén
-
-- a) hatályon kívül helyezheti a Testület bármely szervének törvénysértő határozatát, és szükség szerint új határozat meghozatalát rendelheti el,
-- b) a működés törvényességének helyreállítása céljából összehívhatja a közgyűlést, vagy
-- c) határidő tűzésével a törvényes működés helyreállítására kötelezheti a közgyűlést.
+8. § A Testület működése felett a törvényességi ellenőrzést az ügyészségről szóló 2011. évi CLXIII. törvény alapján az ügyészség látja el.
 
 #### 5. Záró rendelkezések
 
@@ -82,4 +74,4 @@ Az Országgyűlés a Magyar Corvin-lánc Testület által képviselt értékek m
 
 (2) Az Ingatlan tulajdonváltozásának az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.) készíti el és köti meg. A szerződésben az Ingatlan forgalmi értékeként az MNV Zrt. által megállapított értéket kell megjelölni.
 
-13. §
+#### 13. §

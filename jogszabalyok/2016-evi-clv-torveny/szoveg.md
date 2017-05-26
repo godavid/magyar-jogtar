@@ -530,7 +530,7 @@ Az Országgyűlés, kiindulva abból, hogy Magyarország társadalmi és gazdas�
 
 #### 19. Statisztikai számjel
 
-38. § (1) A statisztikai számjel a jogi személyek, valamint a gazdasági tevékenységet folytató természetes személyek és személyes joga szerint jogképes szervezetek nyilvántartásában használt azonosító. A statisztikai számjelet a Kormány rendeletében meghatározottak szerint kell képezni.
+38. § (1) A statisztikai számjel a jogi személyek, valamint a gazdasági tevékenységet folytató természetes személyek és személyes joga szerint jogképes szervezetek nyilvántartásában használt azonosító. A statisztikai számjelet a KSH felügyeletét ellátó miniszter rendeletében meghatározottak szerint kell képezni.
 
 (2) Az (1) bekezdés szerinti szervezetek statisztikai számjelének megállapítása vagy módosulása a következők szerint történik:
 
@@ -636,12 +636,13 @@ egyidejűleg történik a (3)–(4) bekezdésben meghatározottak szerint.
 
 - a) a Hivatalos Statisztikai Szolgálat tagjaira vonatkozó akkreditációs eljárás és az akkreditáció felülvizsgálatának részletes szabályait,
 - b) az OST és a Koordinációs Testület főbb eljárási szabályait,
-- c) a 26. §-ban foglaltak alapján kötelező adatgyűjtések kijelölt adatszolgáltatóit terhelő adatszolgáltatási kötelezettséget, a statisztikai kérdőívek tartalmi és formai követelményeit,
-- d) a népmozgalmi adatgyűjtéseknek az e törvényben foglalt előírásokkal összhangban megállapított adattartalmát,
-- e) a statisztikai adatfelvételi keretek kiválasztására, a statisztikai regiszterek metaadataira vonatkozó részletes szabályokat,
-- f) a Hivatalos Statisztikai Szolgálat tagjánál – kivéve az MNB-t – hivatalos statisztikai tevékenységet folytató személyekre vonatkozó képesítési és továbbképzési előírásokat.
+- c) a 26. §-ban foglaltak alapján kötelező adatgyűjtések kijelölt adatszolgáltatóit terhelő adatszolgáltatási kötelezettséget, a statisztikai kérdőívek tartalmi és formai követelményeit, az adatszolgáltatási kötelezettség teljesítésének módját, annak részletes szabályait, különös tekintettel az elektronikus adatszolgáltatást biztosító informatikai rendszer működtetésének szabályaira,
+- d) a 28. § (4) bekezdésében meghatározott adatátvételekhez kapcsolódó adatszolgáltatási, adatátadási kötelezettség teljesítésének módját, annak részletes szabályait, különös tekintettel az elektronikus adatátadást biztosító informatikai rendszer működtetésének szabályaira,
+- e) a népmozgalmi adatgyűjtések adatcsoportjainak az e törvényben foglalt előírásokkal összhangban megállapított adattartalmát, valamint az adatszolgáltatás rendjének részletes eljárási szabályait,
+- f) a statisztikai adatfelvételi keretek kiválasztására, a statisztikai regiszterek metaadataira vonatkozó részletes szabályokat, a statisztikai osztályozások kialakításának általános szabályait,
+- g) a Hivatalos Statisztikai Szolgálat tagjánál – kivéve az MNB-t – hivatalos statisztikai tevékenységet folytató személyekre vonatkozó képesítési és továbbképzési előírásokat.
 
-(2) Felhatalmazást kap a KSH felügyeletét ellátó miniszter, hogy rendeletben állapítsa meg a statisztikai módszerek, fogalmak, osztályozások, számjelek használatának alkalmazását.
+(2) Felhatalmazást kap a KSH felügyeletét ellátó miniszter, hogy rendeletben állapítsa meg a statisztikai számjel képzésének módját, valamint a statisztikai módszerek, fogalmak, osztályozások, számjelek használatának alkalmazását.
 
 #### 23. Hatályba léptető rendelkezések
 
