@@ -2340,7 +2340,7 @@ XXII. kerület
 
 4. BÉKÉS MEGYE
 
-| 4.1. | GESZT József Attila u. 21. | Tisza-kastély együttese |
+| 4.1. |  |  |
 | --- | --- | --- |
 | 4.2. | GYULA, Vár-szigeterőd műemléki együttese |  |
 | Várfürdő út | gótikus várkastély, Corvin János rondellája és külső várfal bástyákkal |
