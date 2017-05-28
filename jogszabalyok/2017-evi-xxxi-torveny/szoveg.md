@@ -12,10 +12,4 @@ egyes állami tulajdonban álló ingatlanoknak a Magyarországi Református Egyh
 
 4. § A 6. § az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
-5. § A Vtv. 36. § (2) bekezdése a következő g) ponttal egészül ki:
-
-(Állami vagyon tulajdonjoga ingyenesen átruházható)
-
-„g) egyház hitéleti feladatai elősegítése vagy az általa végzett állami – így különösen oktatási, szociális, család-, gyermek- és ifjúságvédelmi, kulturális – feladatok ellátásának elősegítése érdekében.”
-
-6. § Hatályát veszti az Nvtv. 2. melléklet III. 4. pontjának 4.1. alpontja.
+5–6. §
