@@ -446,7 +446,7 @@ VONATKOZÓ KÖZÖS SZABÁLYOK
 
 27. § (1) Az átviteli rendszerirányító és a csatlakozás biztosítására jogosult elosztó hálózati engedélyes köteles a rendszerhasználói igény kielégítésének műszaki, gazdasági feltételeiről tájékoztatást adni, és a legkedvezőbb vételezési vagy betáplálási mód meghatározásában a rendszerhasználóval együttműködni.
 
-(2) A hálózati engedélyes az átviteli vagy az elosztó hálózathoz való csatlakozást egy adott csatlakozási pontra kizárólag a hálózat műszaki jellemzőire tekintettel tagadhatja meg.
+(2) A hálózati engedélyes az átviteli vagy az elosztó hálózathoz való csatlakozást egy adott csatlakozási pontra kizárólag a hálózat műszaki jellemzőire tekintettel tagadhatja meg. A hálózati engedélyes az adott csatlakozási pontra való csatlakozás megtagadásáról a (3) bekezdésben meghatározottakkal együtt legkésőbb a rendszerhasználói igény bejelentését követő 15 napon belül köteles írásban tájékoztatni a rendszerhasználót.
 
 (3) A hálózati engedélyesnek az átviteli vagy elosztó hálózathoz való csatlakozás megtagadásakor meg kell határoznia azokat a feltételeket, amelyek teljesülése esetén a csatlakozás biztosítható, és a műszaki lehetőségek fennállása vagy megteremthetősége esetén köteles egy másik csatlakozási pontot kijelölni.
 

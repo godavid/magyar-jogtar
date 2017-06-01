@@ -726,7 +726,13 @@ foglalt adatokat tartalmazza.
 
 (10) A tároló elem a polgár arcképmását, aláírását és ujjnyomatát képi formátumban tárolja.
 
-(11) Az ideiglenes személyazonosító igazolvány a (2) bekezdés szerinti adatokat és a kiadásának okát tartalmazza.
+(11) Az ideiglenes személyazonosító igazolvány tartalmazza
+
+- a) a (2) bekezdés a)–l) pontja szerinti adatokat,
+- b) magyar állampolgár esetén a (3) bekezdés szerinti gépi olvasásra alkalmas adatsort,
+- c) külföldi állampolgárságú vagy hontalan polgár esetén annak tényét, hogy az ideiglenes személyazonosító igazolvány külföldre történő utazásra nem jogosít,
+- d) a (6) bekezdés szerinti adattároló kódot, valamint
+- e) a kiadásának okát.
 
 (12) A polgár a személyazonosságát a személyazonosító igazolványon túl az érvényes útlevéllel vagy kártyaformátumú vezetői engedéllyel igazolhatja. Személyazonosítás céljából – jogszabályban meghatározott kivételekkel – a polgár nem kötelezhető más okmány bemutatására.
 
@@ -1166,6 +1172,8 @@ e) a kizáró okot elrendelő bíróság megnevezése, az ítélet ügyiratszám
 52/B. § Ha a nyilvántartás eljáró szerve az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig a nyilvántartás adott szerve vonatkozásában az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
 52/C. § E törvénynek az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról szóló 2016. évi CXXI. törvénnyel megállapított 29/E. § (1) és (3a) bekezdését a 2017. január 1-jétől igényelt személyazonosító igazolványokra kell alkalmazni.
+
+52/D. § E törvénynek az egyes belügyi tárgyú törvények módosításáról szóló 2017. évi XXXIII. törvénnyel megállapított 29. § (11) bekezdését a 2017. június 1-jétől kiadott ideiglenes személyazonosító igazolványokra kell alkalmazni. A 2017. június 1-jét megelőzően kiadott ideiglenes személyazonosító igazolványok tartalmára vonatkozóan e törvénynek a 2017. május 31-én hatályban volt szabályait kell alkalmazni.
 
 53. § (1) Ez a törvény a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
