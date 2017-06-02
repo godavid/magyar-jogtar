@@ -181,7 +181,7 @@ gyakorolja.
 
 8. § (1)
 
-(2) A Ket. 26. §-a (1) bekezdésének a) pontja szerint belföldi jogsegély érdekében megkeresett szerv tíz napon belül teljesíti a jogsegélyt.
+(2)
 
 9. § (1) A szociális ellátásban részesülő személy a jogosultság feltételeit érintő lényeges tények, körülmények megváltozásáról – ha e törvény másképp nem rendelkezik – 15 napon belül köteles értesíteni az ellátást megállapító szervet.
 
@@ -452,6 +452,8 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 (2) A 18/B. § szerinti nyilvántartásból az adatokat a Kormány által kijelölt szerv törli. A 18/B. § (2) bekezdés d) pontja szerinti adatkör tekintetében a Gyvt. 142. § (1) bekezdése szerint törölhetők az adatok.
 
 24. § (1) Az e törvény felhatalmazása alapján nyilvántartást vezető szervek a nyilvántartásban kezelt adatokat természetes személyazonosító adatok nélkül statisztikai célra felhasználhatják, illetőleg azokból statisztikai célra adatot szolgáltathatnak.
+
+(1a) A nyilvántartásban kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
 (2) A szociális igazgatási eljárás során a szociális hatáskört gyakorló szerv a szociális ellátásra való jogosultság megállapítása, illetve ellenőrzése céljából adatot kérhet a kérelmező által megjelölt pénzforgalmi szolgáltatótól. A szociális hatáskört gyakorló szerv a pénzforgalmi szolgáltató által az adatigénylés keretében rendelkezésére bocsátott, a pénzforgalmi számla számára és a pénzforgalmi számlán az adatigényléskor szereplő összegre vonatkozó adat kezelésére jogosult.
 
@@ -3230,3 +3232,5 @@ hogy a fenntartó működési engedéllyel rendelkezik.
 - c) a Tanács 2009/50/EK irányelve (2009. május 25.) a harmadik országbeli állampolgárok magas szintű képzettséget igénylő munkavállalás céljából való belépésének és tartózkodásának feltételeiről, 14. cikk (1) bekezdés e) pont,
 - d) a harmadik országbeli állampolgárok és hontalan személyek nemzetközi védelemre jogosultként való elismerésére, az egységes menekült- vagy kiegészítő védelmet biztosító jogállásra, valamint a nyújtott védelem tartalmára vonatkozó szabályokról szóló, 2011. december 13-i, 2011/95/EU európai parlamenti és tanácsi irányelv, 3. cikk (2) bekezdés, 29. cikk, valamint
 - e) a harmadik országbeli állampolgárok valamely tagállam területén való tartózkodására és munkavállalására vonatkozó összevont engedélyre irányuló összevont kérelmezési eljárásról, valamint a harmadik országból származó, valamely tagállam területén jogszerűen tartózkodó munkavállalók közös jogairól szóló, 2011. december 13-i, 2011/98/EU európai parlamenti és tanácsi irányelv, 12. cikk (1) bekezdés e) pont.
+
+142. § Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet 17a. cikke végrehajtásához szükséges rendelkezéseket állapítja meg.

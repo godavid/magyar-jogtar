@@ -1802,6 +1802,8 @@ a (3) bekezdésben meghatározott módon kezeli, feldolgozza és azok alapján e
 - c) az egészségügyi ellátás tervezése, szervezése, költségek tervezése és
 - d) egészségügyi szakember képzés tervezése, szervezése céljából szolgáltat személyazonosításra alkalmatlan módon adatot. Az adatszolgáltatás iránti vagy a monitoringrendszer adattartalmának egyedi feldolgozását igénylő kérelem teljesítésére irányuló eljárásaiért – ide nem értve a közfeladatot ellátó szerv e tevékenységének ellátásához kapcsolódó adatigénylését – az egészségügyért felelős miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott igazgatási szolgáltatási díjat kell fizetni.
 
+(7) Az egészségügyi államigazgatási szervnek az egységes egészségügyi ágazati humánerőforrás-monitoring rendszerben kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adnia és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+
 ### Egészségügyi ágazati szakmai képzés
 
 115. § (1) Az egészségügyi ágazati szakmai képzés feladata a képzési fokoknak és szinteknek megfelelő elméleti és gyakorlati szakmai ismeretek nyújtása, szinten tartása és fejlesztése a tudomány korszerű színvonalának és az egészségügyi ellátás igényeinek megfelelően.
@@ -3893,4 +3895,4 @@ rendeletben állapítsa meg.
 - k) az Európai Parlament és a Tanács 2004/38/EK irányelve az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről, 24. cikk,
 - l) az Európai Parlament és a Tanács 2011/24/EU irányelve (2011. március 9.) a határon átnyúló egészségügyi ellátásra vonatkozó betegjogok érvényesítéséről.
 
-(7)
+(7) Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.

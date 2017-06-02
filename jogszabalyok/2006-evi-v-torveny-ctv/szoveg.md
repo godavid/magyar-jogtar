@@ -452,7 +452,7 @@ megismerhetők.
 - d) a cég fióktelepét,
 - e) a cég elektronikus elérhetőségét (honlap, e-mail), és a cég erre vonatkozó döntése esetén azt a tényt, hogy a cég a közvetlen közleményeit a honlapján teszi közzé,
 - f) meghatározott időtartamra alapított cég esetén a meghatározott idő lejártának napját,
-- g) a jogelőd(ök), illetve a jogutód(ok) cégnevét és cégjegyzék számát, illetve a cég erre vonatkozó döntése esetén az átalakulásnak a cég által meghatározott időpontját,
+- g) a jogelőd, jogelődök, illetve a jogutód, jogutódok cégnevét, székhelyét és cégjegyzék számát, külföldi cég esetén továbbá a székhelye szerinti országkódját, illetve a cég erre vonatkozó döntése esetén az átalakulásnak a cég által meghatározott időpontját,
 - h) a könyvvizsgáló nevét (cégét) és lakóhelyét (székhelyét), e jogviszonya keletkezésének és megszűnésének időpontját, illetve ha a jogviszony megszűnésére a cégjegyzékben feltüntetett időpontnál korábban kerül sor, a megszűnés tényleges időpontját; könyvvizsgáló szervezet esetén annak a személynek a nevét és lakóhelyét is, aki a könyvvizsgálatért személyében is felelős,
 - i) a felügyelőbizottsági tagok nevét és lakóhelyét – ha a felügyelőbizottsági tag munkavállalói küldött, ezt a tényt is –, e jogviszonyuk keletkezésének és megszűnésének időpontját, illetve ha a jogviszony megszűnésére a cégjegyzékben feltüntetett időpontnál korábban kerül sor, a megszűnés tényleges időpontját,
 - j) annak a kamarának a megjelölését, amelynek a cég a tagja,
@@ -1906,7 +1906,8 @@ vonatkozó részletes szabályokat rendelettel állapítsa meg.
 - a) a Tanács 2137/85/EGK rendelete az európai gazdasági egyesülésről (az európai gazdasági egyesülésről, valamint a gazdasági társaságokról szóló 1997. évi CXLIV. törvény és a cégnyilvántartásról, a cégnyilvánosságról és a bírósági cégeljárásról szóló 1997. évi CXLV. törvény jogharmonizációs célú módosításáról szóló 2003. évi XLIX. törvénnyel együtt);
 - b) a Tanács 2157/2001/EK rendelete (2001. október 8.) az európai részvénytársaság (SE) statútumáról (az európai részvénytársaságról szóló 2004. évi XLV. törvénnyel együtt);
 - c) A Tanács 1435/2003/EK rendelete (2003. július 22.) az európai szövetkezet (SCE) statútumáról;
-- d) az Európai Parlament és a Tanács 1893/2006/EK rendelete (2006. december 20.) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról.
+- d) az Európai Parlament és a Tanács 1893/2006/EK rendelete (2006. december 20.) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról;
+- e) az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet.
 
 #### 133–134. §
 

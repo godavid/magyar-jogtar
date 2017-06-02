@@ -787,6 +787,8 @@ vállalható.
 
 (2) A pénzügyi ellenjegyzésre jogosult személyek körét, a pénzügyi ellenjegyző feladatait, összeférhetetlenségének eseteit, képesítési követelményeit a Kormány rendeletben határozza meg.
 
+(3) Az elektronikus aláírásnak a külképviseletekről és a tartós külszolgálatról szóló törvény szerinti külképviseleteken történő bevezetéséig – ha egy gazdasági esemény során a pénzügyi ellenjegyzést, a kötelezettségvállalást, a teljesítésigazolást, az érvényesítést vagy az utalványozást végző személyek egymástól eltérő földrajzi helyen tartózkodnak – elegendő, ha a szükséges aláírások szkennelt formában állnak rendelkezésre, illetve az eredeti aláírások külön dokumentumokon kerülnek megtételre, amelyeket a kötelezettségvállalás helye szerinti külképviselet belső szabályzatban foglaltaknak megfelelően hitelesít.
+
 #### 26. A teljesítés igazolása, érvényesítés, utalványozás
 
 38. § (1) A bevételi előirányzatok javára bevételt elszámolni és a kiadási előirányzatok terhére kifizetést elrendelni – a Kormány rendeletében meghatározott kivételekkel – utalványozás alapján lehet. A kiadási előirányzatok terhére történő utalványozásra – a Kormány rendeletében meghatározott kivételekkel – a teljesítés igazolását, és az annak alapján végrehajtott érvényesítést követően kerülhet sor.
@@ -1389,7 +1391,7 @@ vizsgálatára terjed ki.
 
 (5) A kincstár az (1)–(4a) bekezdés szerinti tevékenysége és az általa nyújtott szolgáltatások után jutalékot, díjat számolhat fel, azonban – a felsőoktatási intézményekben állami részösztöndíjas és önköltséges tanulmányokat folytató hallgatók által fizetett önköltség és az államháztartáson kívülről érkező adományok elkülönített kezelésére a felsőoktatási intézmény számára jogszabályban foglaltak alapján vezetett fizetési számla pénzeszközei kivételével – kamatot nem fizethet. A kincstár jogosult az általa vezetett fizetési számlák megterhelésével továbbhárítani a pénzforgalmi szolgáltatások díját, továbbá jogszabályban meghatározott más esetben azokat megterhelni.
 
-(6) A kincstári kör és a kincstári körön kívüli számlatulajdonosok devizaeszközei kezelésére a kincstár devizaszámlát vezet. A kincstár a devizaszámla vezetése során díjakat számolhat fel és kamatot fizethet. A kincstár engedélyével kivételes esetben hitelintézetnél is vezethető devizaszámla.
+(6) A kincstári kör és a kincstári körön kívüli számlatulajdonosok devizaeszközei kezelésére a kincstár devizaszámlát vezet. A kincstár a devizaszámla vezetése során díjakat számolhat fel és kamatot fizethet. A kincstár engedélyével, kivételes esetben hitelintézetnél is vezethető devizaszámla. A külképviseletekről és a tartós külszolgálatról szóló törvény szerinti külképviseletek működtetéséhez szükséges devizaszámlák a kihelyező költségvetési szerv gazdasági vezetőjének engedélyével pénzintézetnél is vezethetők.
 
 80. § (1) A kincstár végrehajtja a kiadások teljesítésére, a bevételek beszedésére irányuló pénzügyi lebonyolítási feladatokat, ennek keretében a Kormány rendeletében foglalt kivételekkel a kiadásokhoz kötődően likviditási és előirányzati fedezet, valamint alaki, formai és pénzügyi ellenőrzést végez.
 

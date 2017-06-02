@@ -297,6 +297,8 @@ Az Országgyűlés a gyermekeket vállaló és nevelő családok jólétéért �
 
 (3) E fejezet hatálya a 2. §-ban meghatározottakon túl kiterjed arra az anyasági támogatás igénylésének időpontjában a Magyarország területén jogszerűen tartózkodó nőre, aki a várandóssága alatt legalább négy alkalommal – koraszülés esetén legalább egyszer – Magyarország területén várandósgondozáson vett részt.
 
+(4) A 2. § a) pontja alapján anyasági támogatásra jogosult a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény (a továbbiakban: Külszoltv.) szerinti tartós külszolgálatot teljesítő kihelyezett, valamint a külképviselet által foglalkoztatott házastárs is, ha a várandóssága alatt négy alkalommal – koraszülés esetén egy alkalommal – várandósgondozáson részt vett.
+
 30. § Amennyiben az anyasági támogatásra jogosult nő a támogatás felvételét megelőzően meghal, úgy az anyasági támogatást az anyával egy háztartásban élt apának kell kifizetni, ezen személy hiányában annak a személynek, aki a gyermek gondozását ellátja.
 
 31. § Az anyasági támogatás – gyermekenkénti – összege azonos a gyermek születésének időpontjában érvényes öregségi nyugdíj legkisebb összegének 225%-ával, ikergyermekek esetén 300%-ával.
@@ -340,7 +342,7 @@ Az Országgyűlés a gyermekeket vállaló és nevelő családok jólétéért �
   - aa) az Európai Unió tagállama,
   - ab) az Európai Gazdasági Térségről szóló megállapodásban részes más állam,
   - ac) olyan állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez, vagy
-- b) az egyéb ellátás folyósításának időtartama alatt, ha a külszolgálatot vagy külföldi szolgálatot teljesítő személy részére az e törvény alapján ellátásra jogosító gyermekre tekintettel jogszabály alapján egyéb ellátást folyósítanak.
+- b) az egyéb ellátás folyósításának időtartama alatt, ha a Külszoltv. szerinti tartós külszolgálatot vagy külföldi szolgálatot teljesítő személy vagy a vele együtt élő, Külszoltv. szerinti házastársa részére az e törvény alapján ellátásra jogosító gyermekre tekintettel jogszabály alapján bármilyen címen ellátást, támogatást folyósítanak.
 
 (4) Amennyiben az uniós rendeletek alapján a magyar állam a családi ellátások vonatkozásában a különbözet kifizetésére kötelezett, a kifizetést az éves költségvetésről szóló törvény családi pótlék előirányzatának terhére kell teljesíteni.
 
@@ -461,7 +463,9 @@ Az Országgyűlés a gyermekeket vállaló és nevelő családok jólétéért �
 
 46. § Ha törvény másként nem rendelkezik, a 45. § (2) bekezdés szerinti adatok alapján vezetett nyilvántartásból a családtámogatási ellátásra való jogosultság megszűnésétől számított öt év elteltével – a szolgálati időre jogosító ellátások kivételével – törölni kell az adott személyre vonatkozó adatokat.
 
-47. § Az e törvény felhatalmazása alapján nyilvántartást vezető szervek a nyilvántartásban szereplő adatokat személyazonosító adatok nélkül statisztikai célra felhasználhatják, illetőleg azokból statisztikai célra adatot szolgáltathatnak.
+47. § (1) Az e törvény felhatalmazása alapján nyilvántartást vezető szervek a nyilvántartásban szereplő adatokat személyazonosító adatok nélkül statisztikai célra felhasználhatják, illetve azokból statisztikai célra adatot szolgáltathatnak.
+
+(2) Az e törvény felhatalmazása alapján nyilvántartást vezető szerveknek a nyilvántartásban szereplő adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adniuk, és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
 48. § (1) A családtámogatási igazgatási eljárás során az igényelbíráló szerv a 45. § (1)–(2) bekezdésében meghatározott körben adatot kérhet az Egészségbiztosítási Alap kezeléséért felelős szervtől, illetve az egészségbiztosítási szervtől, továbbá a polgárok személyi adatait és lakcímét nyilvántartó szervtől a családtámogatási ellátásra való jogosultság elbírálása, illetve a jogosultság fennállásának ellenőrzése céljából.
 
@@ -548,4 +552,11 @@ közvetlen lekérdezéssel díjmentesen elérheti.
 - e) a harmadik országbeli állampolgárok idénymunkásként való munkavállalás céljából való belépésének és tartózkodásának feltételeiről szóló 2014. február 26-ai 2014/36/EU európai parlamenti és tanácsi irányelv,
 - f) a harmadik országbeli állampolgárok vállalaton belüli áthelyezés keretében történő belépésének és tartózkodásának feltételeiről szóló 2014. május 15-ei 2014/66/EU európai parlamenti és tanácsi irányelv.
 
-53/A. § Ez a törvény a szociális biztonsági rendszerek koordinálásáról szóló 2004. április 29-i 883/2004/EK európai parlamenti és tanácsi rendelet és a szociális biztonsági rendszerek koordinálásáról szóló 883/2004/EK rendelet végrehajtására vonatkozó eljárás megállapításáról szóló 2009. szeptember 16-i 987/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+53/A. §
+
+54. § Ez a törvény
+
+- a) a szociális biztonsági rendszerek koordinálásáról szóló 2004. április 29-i 883/2004/EK európai parlamenti és tanácsi rendelet és a szociális biztonsági rendszerek koordinálásáról szóló 883/2004/EK rendelet végrehajtására vonatkozó eljárás megállapításáról szóló 2009. szeptember 16-i 987/2009/EK európai parlamenti és tanácsi rendelet;
+- b) az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.

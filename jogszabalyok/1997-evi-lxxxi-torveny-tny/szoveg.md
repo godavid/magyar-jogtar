@@ -1016,7 +1016,9 @@ szerinti adatok igénylésére jogosultak.
 
 (5) A (2) bekezdés szerinti adatok statisztikai célra felhasználtatók és statisztikai célú felhasználásra – személyazonosításra alkalmatlan módon – átadhatók.
 
-(6) A (4) bekezdésben nem szabályozott esetben adatok közlésének csak akkor van helye, ha ahhoz az érintett írásban hozzájárult.
+(5a) A (2) bekezdés szerinti adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+
+(6) A (4) bekezdésben és az (5a) bekezdésben nem szabályozott esetben adatok közlésének csak akkor van helye, ha ahhoz az érintett írásban hozzájárult.
 
 (7) A központi nyugdíjbiztosítási szerv vezetője a polgárok személyes adatai védelméért való felelősségének körében köteles olyan technikai és szervezési intézkedéseket tenni, ellenőrzési rendszert kialakítani és adatvédelmi szabályzatot kiadni, amely biztosítja az adatvédelmi követelmények teljesülését. Az érintett személy vagy képviselője azonban a nyilvántartásba betekinthet, az iratokról illetőleg nyilvántartott adatairól felvilágosítást kérhet.
 
@@ -1222,7 +1224,12 @@ kell megállapítani.
 
 103. § E törvény a Tanácsnak a férfiakkal és nőkkel való egyenlő bánásmód elvének a szociális biztonság területén történő fokozatos megvalósításáról szóló 79/7/EGK irányelvével összeegyeztethető szabályozást tartalmaz.
 
-104. § Ez a törvény a szociális biztonsági rendszerek koordinálásáról szóló 2004. április 29-i 883/2004/EK európai parlamenti és tanácsi rendelet és a szociális biztonsági rendszerek koordinálásáról szóló 883/2004/EK rendelet végrehajtására vonatkozó eljárás megállapításáról szóló 2009. szeptember 16-i 987/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+104. § Ez a törvény
+
+- a) a szociális biztonsági rendszerek koordinálásáról szóló 2004. április 29-i 883/2004/EK európai parlamenti és tanácsi rendelet és a szociális biztonsági rendszerek koordinálásáról szóló 883/2004/EK rendelet végrehajtására vonatkozó eljárás megállapításáról szóló 2009. szeptember 16-i 987/2009/EK európai parlamenti és tanácsi rendelet;
+- b) az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### 1. melléklet az 1997. évi LXXXI. törvényhez
 
