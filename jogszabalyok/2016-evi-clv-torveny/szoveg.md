@@ -266,7 +266,7 @@ Az Országgyűlés, kiindulva abból, hogy Magyarország társadalmi és gazdas�
 
 (5) Az OST ülésén állandó meghívottként vesznek részt a Nemzeti Statisztikai Koordinációs Testület tagjai, valamint a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke.
 
-(6) Az OST tagjait a (4) bekezdésben jelölt szervezetek jelölése alapján a KSH elnöke javaslatára a miniszterelnök bízza meg három évre. A tagok maguk közül választják a testület elnökét három évre. A testület titkársági feladatait a KSH látja el.
+(6) Az OST tagjait a (4) bekezdésben meghatározott szervek, szervezetek vezetőinek a jelölése alapján a KSH elnöke javaslatára a miniszterelnök bízza meg három évre. A tagok maguk közül választják a testület elnökét három évre. A testület titkársági feladatait a KSH látja el.
 
 (7) Az OST tagja, elnöke olyan személy lehet, aki büntetlen előéletű, és nem áll a statisztikusi végzettséghez kötött foglalkozástól eltiltás hatálya alatt (a továbbiakban együtt: kizáró ok).
 
@@ -287,6 +287,8 @@ Az Országgyűlés, kiindulva abból, hogy Magyarország társadalmi és gazdas�
 - e) ha az OST tagja, elnöke a (8) bekezdés szerinti kizáró ok fenn nem állásának igazolásával kapcsolatos kötelezettségének az ismételt szabályszerű felhívástól számított 15 munkanapon belül sem tesz eleget, és nem bizonyítja, hogy a kötelezettség elmulasztása rajta kívül álló ok következménye, az ismételt felhívástól számított tizenötödik munkanapon.
 
 (13) Ha az OST elnökének, tagjának megbízatása megszűnik, a KSH felhívja a jelölésre jogosult szervet, hogy a megüresedett tisztségre új személyt jelöljön. A (12) bekezdés d) és e) pontjában foglaltak esetén az új tag megbízásánál az eljárásra a (6) bekezdésben foglaltak az irányadók. A (12) bekezdés b)–e) pontjai esetében az új tag megbízásának időtartama eltérő lehet.
+
+(13a) Ha valamely tag tagsága – a (12) bekezdés b–e) pontjaiban foglaltakra tekintettel – három évnél korábban megszűnik, az új tag megbízása a hároméves időtartamból hátralévő időszakra szól.
 
 (14) Az OST tevékenységét az általa kialakított és a KSH elnöke által jóváhagyott ügyrend alapján látja el. Az OST ügyrendje nyilvános.
 
@@ -487,22 +489,22 @@ Az Országgyűlés, kiindulva abból, hogy Magyarország társadalmi és gazdas�
 
 #### 17. Az adatszolgáltatás elmulasztásának, illetve a hamis adatszolgáltatás jogkövetkezményei
 
-32. § (1) A fővárosi és megyei kormányhivatal a Hivatalos Statisztikai Szolgálat statisztikai adatfelvételt végrehajtó tagja – a jogsértés elkövetésétől számított egyéves jogvesztő határidőn belül történt – kezdeményezésére közigazgatási bírsággal sújtja azt az adatszolgáltatót, aki vagy amely
+32. § (1) A fővárosi és megyei kormányhivatal – a jogsértés elkövetésétől számított egyéves jogvesztő határidőn belül indított eljárásban – közigazgatási bírsággal sújtja azt az adatszolgáltatót, aki vagy amely
 
 - a) kötelező hivatalos statisztikai adatszolgáltatást nem vagy nem az előírt határidőre teljesíti,
 - b) a hivatalos statisztikai célú adatátvételre, adatátadásra vonatkozó kötelezettségét megszegi.
 
 (2) A közigazgatási bírság összege természetes személy esetében 200 000 forintig, jogi személy és személyiségi joga szerint jogképes szervezet esetében 100 000 forinttól 2 000 000 forintig terjedhet. A bírság kiszabása az (1) bekezdésben foglaltak megvalósulása esetén a jogszabálysértéssel érintett adatszolgáltatásonként történik.
 
-(3) A Hivatalos Statisztikai Szolgálat (1) bekezdés szerinti közigazgatási hatósági eljárást kezdeményező tagja az általa kezdeményezett hatósági eljárás során ügyfélnek minősül.
+(3) A Hivatalos Statisztikai Szolgálat (1) bekezdés szerinti jogsértéssel érintett statisztikai adatfelvételt végrehajtó tagja az (1) bekezdés szerinti hatósági eljárás során ügyfélnek minősül.
 
 (4) A fővárosi és megyei kormányhivatal az (1) bekezdés szerinti eljárásban hozott határozatával és a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény szerinti önálló fellebbezéssel támadható végzésével szemben fellebbezésnek van helye.
 
-33. § (1) A fővárosi és megyei kormányhivatal a Hivatalos Statisztikai Szolgálat statisztikai adatfelvételt végrehajtó tagja – a jogsértés elkövetésétől számított egyéves jogvesztő határidőn belül történt – kezdeményezésére közigazgatási bírsággal sújtja azt a jogi személyt vagy személyiségi joga szerint jogképes szervezetet, amely kötelező adatszolgáltatás esetén a valóságnak nem megfelelő adatot szolgáltat vagy az adatszolgáltatással kapcsolatban a valóságnak meg nem felelő felvilágosítást ad.
+33. § (1) A fővárosi és megyei kormányhivatal – a jogsértés elkövetésétől számított egyéves jogvesztő határidőn belül – közigazgatási bírsággal sújtja azt a jogi személyt vagy személyiségi joga szerint jogképes szervezetet, amely kötelező adatszolgáltatás esetén a valóságnak nem megfelelő adatot szolgáltat vagy az adatszolgáltatással kapcsolatban a valóságnak meg nem felelő felvilágosítást ad.
 
 (2) A közigazgatási bírság összege 100 000 forinttól 2 000 000 forintig terjedhet. A bírság kiszabása a jogszabálysértéssel érintett adatszolgáltatásonként történik.
 
-(3) A Hivatalos Statisztikai Szolgálat (1) bekezdés szerinti közigazgatási hatósági eljárást kezdeményező tagja az általa kezdeményezett hatósági eljárás során ügyfélnek minősül.
+(3) A Hivatalos Statisztikai Szolgálat (1) bekezdés szerinti jogsértéssel érintett statisztikai adatfelvételt végrehajtó tagja az (1) bekezdés szerinti hatósági eljárás során ügyfélnek minősül.
 
 (4) A fővárosi és megyei kormányhivatal az (1) bekezdés szerinti eljárásban hozott határozatával és a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény szerinti önálló fellebbezéssel támadható végzésével szemben fellebbezésnek van helye.
 

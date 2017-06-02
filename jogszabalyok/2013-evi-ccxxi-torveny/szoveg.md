@@ -272,6 +272,8 @@ a szerződés alapján megtett hitelbiztosítéki nyilatkozatot, illetve az anna
 
 (3) A hitelbiztosítéki nyilatkozatot a nyilatkozatot tevő a hitelbiztosítéki nyilatkozat megtételére vonatkozó szabályok szerint megújíthatja.
 
+(4) A nyilvántartásban kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+
 #### 15. A hitelbiztosítéki rendszerben végzett műveletekre vonatkozó egyéb rendelkezések
 
 30. § A hitelbiztosítéki nyilatkozat elektronikus megtételére, valamint a nyilvántartás adattartalmának lekérdezésére irányuló műveletek és technikai eszközök jogszerű alkalmazását vélelmezni kell.
@@ -296,4 +298,6 @@ a szerződés alapján megtett hitelbiztosítéki nyilatkozatot, illetve az anna
 
 35. § E törvénynek az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról szóló 2016. évi CXXI. törvénnyel megállapított 4. § (2) bekezdését és 7. § (2) bekezdését 2017. december 31-ig csak akkor kell alkalmazni, ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
-36–40. §
+36. § Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+37–40. §

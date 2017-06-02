@@ -378,6 +378,8 @@ részt vett, és a megállapodás megkötésére, illetve a bírósági adóssá
 
 (6) Az ARE nyilvántartás összesített adatai egyedi azonosításra nem alkalmas módon statisztikai célra, továbbá a hatóságok, bíróságok, minisztériumok számára hatásvizsgálati célból adhatók át.
 
+(6a) Az ARE nyilvántartásban kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+
 (7) A Családi Csődvédelmi Szolgálat kérelemre, igazgatási szolgáltatási díj megfizetése ellenében tanúsítványt állít ki a belföldi természetes személyek részére arról, hogy
 
 - a) a kérelmező természetes személy nem szerepel az ARE nyilvántartásban adósként, vagy
@@ -1753,6 +1755,10 @@ végzéssel szemben van helye.
 - e) a családi vagyonfelügyelő és az adós, adóstárs között – az adós, adóstárs gazdálkodására, vagyonnak, bevételeinek nyilvántartására, a törlesztési kötelezettség teljesítésére, az említettekkel történő elszámolásra vonatkozó – együttműködési rendre, valamint az adósságrendezési eljárásban kötelezettséget vállaló egyéb kötelezett és a felek, illetve a családi vagyonfelügyelő közötti együttműködésre vonatkozó keretszabályokat,
 - f) az ARE nyilvántartásból történő adatszolgáltatás részletes szabályait, az adatszolgáltatásért, valamint az ARE nyilvántartás adatairól kiállítandó tanúsítványért a Családi Csődvédelmi Szolgálat részére fizetendő igazgatási szolgáltatási díjat,
 - g) az adósságtörlesztési végzés végrehajtására nyitott folyószámlák megnyitásával, kezelésével, a számla feletti rendelkezési jog gyakorlásával, a számlaműveletek feletti ellenőrzéssel összefüggő szabályokat.
+
+#### 45. Az Európai Unió jogának való megfelelés
+
+106/A. § Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### VII. Fejezet — MÓDOSÍTÓ RENDELKEZÉSEK
 

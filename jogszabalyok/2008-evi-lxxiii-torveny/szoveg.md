@@ -187,6 +187,8 @@ használhatja fel.
 - c) jogszabályban előírt véleményalkotása, javaslattétele során, valamint
 - d) gazdasági program megalkotásával összefüggő tevékenysége során használhatja fel.
 
+(6) A Pálinka Nemzeti Tanács a nyilvántartásban szereplő adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen átadja és a Központi Statisztikai Hivatal azokat statisztikai célra felhasználhatja. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+
 13/C. § (1) A Pálinka Nemzeti Tanács Alapszabályában kell meghatározni a szakmai szervezetek taggá válására vonatkozó feltételeket.
 
 (2) Az Alapszabálynak tartalmaznia kell a Pálinka Nemzeti Tanács
@@ -326,6 +328,8 @@ rendeletben állapítsa meg.
 ### Az Európai Unió Jogának valómegfelelés
 
 16. § (1) E törvény a 110/2008/EK rendelet III. számú melléklete szerint földrajzi árujelző oltalom alatt álló pálinka és törkölypálinka vonatkozásában a szeszes italok meghatározásáról, megnevezéséről, kiszereléséről, címkézéséről és földrajzi árujelzőinek oltalmáról, valamint az 1576/89/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2008. január 15-i 110/2008/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+
+(1a) Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (2) A törvény javaslatának a műszaki szabványok és szabályok, valamint az információs társadalom szolgáltatásaira vonatkozó szabályok terén információszolgáltatási eljárás megállapításáról szóló, – a 98/48/EK európai parlamenti és tanácsi irányelvvel módosított – 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv 8–10. cikkében előírt egyeztetése megtörtént.
 

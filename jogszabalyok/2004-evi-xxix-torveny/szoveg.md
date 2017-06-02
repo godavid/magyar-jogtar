@@ -431,7 +431,8 @@ egyes rendelkezések
 - d) a nyomozó hatóságnak és az ügyészségnek bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása, valamint a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítő feladatokat ellátó szervnek a hatáskörébe tartozó bűncselekmények megelőzése és felderítése céljából,
 - e) a nemzetbiztonsági szolgálatoknak a törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból,
 - f) az Állami Számvevőszéknek és a Kormány által kijelölt belső ellenőrzési szervnek jogszabályban meghatározott ellenőrzési célra,
-- g) az állami adóhatóságnak adóellenőrzési célra.
+- g) az állami adóhatóságnak adóellenőrzési célra,
+- h) a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
 140/D. § (1) Aki a 140. § (1) bekezdése szerinti korlátozásból eredő, valamint a törvény által kihirdetett nemzetközi szerződésben és az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa rendelkezéseiben az Európai Unión kívüli országokkal folytatott kereskedelemre meghatározott kötelezettségét megszegi, azt a nemzeti külkereskedelmi államigazgatási szerv bírsággal sújtja.
 

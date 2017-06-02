@@ -145,7 +145,7 @@ a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról
 
 (2) Ha a bíróság a perújítási vagy felülvizsgálati eljárásban a gondnokság alá helyezésről, annak módosításáról, felülvizsgálatáról, megszüntetéséről a jogerős bírósági határozatot vagy annak egy részét hatályon kívül helyezi vagy módosítja, az ezzel érintett adatokat az első fokon eljárt bíróságnak a nyilvántartásokból törölnie vagy módosítania kell.
 
-20. § A nyilvántartásokban kezelt adatok statisztikai, valamint tudományos kutatási célra – személyazonosításra alkalmatlan módon – átadhatók és felhasználhatók.
+20. § A nyilvántartásokban kezelt adatok statisztikai, valamint tudományos kutatási célra – személyazonosításra alkalmatlan módon – átadhatók és felhasználhatók. Ezen adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
 21. § A nyilvántartások adatainak 6. §, 6/A. §, valamint 17. § (2) és (3) bekezdése szerinti megismerése és kezelése térítésmentes.
 
@@ -213,4 +213,6 @@ a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról
 
 (3) A Gnytv. 17. § (1) bekezdése szerint kezelt adatokat azok keletkezésétől számított öt évig meg kell őrizni.
 
-29–31. §
+29. § Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+30–31. §

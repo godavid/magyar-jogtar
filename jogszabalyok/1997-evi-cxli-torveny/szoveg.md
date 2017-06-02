@@ -988,7 +988,7 @@ igényli.
 72. § (1) Az ingatlanügyi hatóság kérelemre, ha jogszabály másként nem rendelkezik, az Elektronikus Kormányzati Gerinchálózaton (a továbbiakban: EKG) keresztül hozzáférést biztosít, hogy
 
 - a) a bíróságok és az Országos Bírósági Hivatal elnöke a bírósági ügyek ellátásához szükséges egyedi adatok lekérdezése céljából,
-- b) a Központi Statisztikai Hivatal statisztikai célú felhasználásra a személyek azonosítására alkalmatlan módon,
+- b) a Központi Statisztikai Hivatal statisztikai célú felhasználásra a személyazonosításra alkalmas módon, térítésmentesen a statisztikai feladataihoz szükséges egyedi adatokat lekérdezze,
 - c) a nemzetbiztonsági szolgálatok, a rendőrség, a hivatásos katasztrófavédelmi szerv és az ügyészség a törvényben meghatározott feladatuk ellátásához szükséges egyedi adatok lekérdezése céljából,
 - d) a Magyar Nemzeti Vagyonkezelő Zrt., valamint az állami vagyonnal gazdálkodó központi közigazgatási szervek az állami tulajdonba tartozó ingatlanokra vonatkozó, továbbá az állami tulajdonba tartozást bizonyító adatok megállapítása érdekében, saját számítástechnikai eszközeikkel az adatkezelést végzők megfelelő azonosítása mellett a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait igénybe vegyék,
 - e) a kincstár a Magyar Állam javára fennálló jelzálogjog, valamint elidegenítési és terhelési tilalom, vagy elidegenítési tilalom érvényesítésével, törlésével, az azzal való rendelkezéssel kapcsolatos jognyilatkozat megtételéhez kapcsolódó feladatai ellátásához szükséges egyedi adatokat lekérdezze.
@@ -1203,4 +1203,9 @@ foglaltakat az e rendelkezések hatálybalépésekor folyamatban levő, valamint
 
 (5) Az ingatlan-nyilvántartásba címadatátvétel útján bekerült címadatnak az állami ingatlan-nyilvántartási térképi adatbázisban történő átvezetéséről az ingatlanügyi hatóság hivatalból gondoskodik.
 
-95/A. § E törvény 6. § (1) bekezdése, valamint 40/A. és 40/B. §-a az öröklési ügyekre irányadó joghatóságról, az alkalmazandó jogról, az öröklési ügyekben hozott határozatok elismeréséről és végrehajtásáról, valamint az öröklési ügyekben kiállított közokiratok elfogadásáról és végrehajtásáról, valamint az európai öröklési bizonyítvány bevezetéséről szóló, 2012. július 4-i 650/2012/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+95/A. § Ez a törvény
+
+- a) 6. § (1) bekezdése, valamint 40/A. és 40/B. §-a az öröklési ügyekre irányadó joghatóságról, az alkalmazandó jogról, az öröklési ügyekben hozott határozatok elismeréséről és végrehajtásáról, valamint az öröklési ügyekben kiállított közokiratok elfogadásáról és végrehajtásáról, valamint az európai öröklési bizonyítvány bevezetéséről szóló, 2012. július 4-i 650/2012/EU európai parlamenti és tanácsi rendelet;
+- b) az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.

@@ -232,6 +232,8 @@ köteles ügyfélszolgálat működtetéséről gondoskodni személyes, valamint
 
 nyilvántartást vezet.
 
+6/H. § A nyilvántartásban kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+
 ### A jelentős piaci erővel rendelkező vállalkozásokra vonatkozó szabályozás
 
 7. § (1) A beszállítóval szemben a jelentős piaci erővel visszaélni tilos.
@@ -373,6 +375,8 @@ rendeletben állapítsa meg.
 
 (8) Felhatalmazást kap a rendészetért felelős miniszter, hogy a 6. § (8) bekezdésében meghatározott, a jegyzői hatáskörbe tartozó engedélyezési eljárásban történő szakhatósági közreműködés szabályait és az azzal kapcsolatos szakkérdéseket rendeletben szabályozza.
 
-13. § Ez a törvény a belső piaci szolgáltatásokról szóló 2006/123/EK (2006. december 12.) európai parlamenti és tanácsi irányelv 5. és 9. cikkének való megfelelést szolgálja.
+13. § (1) Ez a törvény a belső piaci szolgáltatásokról szóló 2006/123/EK (2006. december 12.) európai parlamenti és tanácsi irányelv 5. és 9. cikkének való megfelelést szolgálja.
+
+(2) Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 14. § Az 5/C. § és 5/D. § tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése és 39. cikk (5) bekezdése szerinti előzetes bejelentése megtörtént.

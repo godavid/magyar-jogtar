@@ -185,6 +185,8 @@ Az Országgyűlés – figyelembe véve az ember legmagasabb szintű testi és l
 
 (3) Az egészségügyi államigazgatási szerv a veszélyes anyagokra, illetve a veszélyes keverékekre vonatkozó, általa nyilvántartott adatokról – a közérdekű adatok nyilvánosságára vonatkozó törvényi előírások szerint – megkeresésre felvilágosítást ad. Az egészségügyi államigazgatási szerv biztosítja az ezen adatokhoz történő folyamatos – napi 24 órás hozzáférés lehetőségét.
 
+(3a) Az (1) bekezdés szerinti nyilvántartásokban kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni, és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+
 (4) Az egészségügyi államigazgatási szerv az (1) bekezdésben meghatározott adatokon kívül megkeresésre felvilágosítást ad az ELINCS és az EINECS, valamint az Európai Közösség (EU) e törvény alkalmazásával összefüggő irányelveinek tartalmáról.
 
 (5) Az egészségügyi államigazgatási szerv ellátja a CLP 45. cikke szerinti feladatokat.
@@ -298,6 +300,8 @@ végzi, és hatáskörében eljár a rendelkezések megsértése esetén.
 
 (4) Az egészségügyi államigazgatási szerv az egészségügyi kártevőirtó tevékenység folytatására engedéllyel rendelkezőkről nyilvántartást vezet, amely – ha az engedélyes egyéni vállalkozó – tartalmazza az engedélyes természetes személyazonosító adatait, továbbá a tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból kizárólag az e tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 
+(4a) A nyilvántartásban kezelt adatok a Központi Statisztikai Hivatal részére statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen átadhatók, és a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók.
+
 (5) Az (1)–(3) bekezdés alkalmazásában egészségügyi kártevőirtó tevékenységnek minősül a külön jogszabályban meghatározott olyan tevékenység, amely egészségügyi kártevők irtására vagy külön jogszabályban meghatározott növényvédelmi célú kártevőirtásra irányul, és a külön jogszabály szerinti szakképesítéssel végezhető.
 
 34. § (1) Ez a törvény – a (2) bekezdés kivételével – 2001. január 1. napján lép hatályba.
@@ -384,4 +388,5 @@ rendeletben meghatározza.
 
 - a) a vegyi anyagok regisztrálásáról, értékeléséről, engedélyezéséről és korlátozásáról (REACH), az Európai Vegyianyag-ügynökség létrehozásáról, az 1999/45/EK irányelv módosításáról, valamint a 793/93/EGK tanácsi rendelet, az 1488/94/EK bizottsági rendelet, a 76/769/EGK tanácsi irányelv, a 91/155/EGK, a 93/67/EGK, a 93/105/EK és a 2000/21/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2006. december 18-i, 1907/2006/EK európai parlamenti és tanácsi rendelet,
 - b) az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról, a 67/548/EGK és az 1999/45/EK irányelv módosításáról és hatályon kívül helyezéséről, valamint az 1907/2006/EK rendelet módosításáról szóló, 2008. december 16-i, 1272/2008/EK európai parlamenti és tanácsi rendelet, és
-- c) a biocid termékek forgalmazásáról és felhasználásáról szóló, 2012. május 22-i, 528/2012/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+- c) a biocid termékek forgalmazásáról és felhasználásáról szóló, 2012. május 22-i, 528/2012/EU európai parlamenti és tanácsi rendelet
+- d) az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.

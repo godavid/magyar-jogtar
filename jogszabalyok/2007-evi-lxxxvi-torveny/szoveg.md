@@ -2754,6 +2754,8 @@ villamos energia képezi.
 - h) a villamosenergia-iparban fennálló vagy eltöltött munkaviszonnyal összefüggésben az egyetemes szolgáltató üzletszabályzatában meghatározott kedvezményes villamosenergia-áron történő vásárlásra jogosult személyeket illetően, a kedvezményes villamosenergia-áron történő vásárlás elszámolása céljából az átviteli rendszerirányítónak, és
 - i) az (1c) bekezdésben meghatározott időponttól az átvevő egyetemes szolgáltatónak.
 
+(4a) Az (1)–(1c) bekezdésben meghatározott adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+
 (5) Az átadott adatokkal kapcsolatban a (4) bekezdés a)–c) és f)–h) pontjában meghatározott adatokat átvevőket az engedélyessel azonos titoktartási kötelezettség terheli. Az adatkezelő köteles a (4) bekezdés a)–c), valamint e)–h) pontja esetén az adatátadással egyidejűleg az érintettet értesíteni.
 
 152. § (1) Az engedélyesek, az e törvény szerint nem engedélyköteles kiserőművek, a 2011. október 1-je előtt létesített nem engedélyköteles magánvezeték üzemeltetője, az integrált villamosenergia-ipari vállalkozások és az engedélyesek által a 94. § alapján kiszervezett tevékenységet végző személyek kötelesek a miniszter és a Hivatal részére megadni e törvényben valamint a külön jogszabályban meghatározott és a feladatai ellátásához szükséges információkat. Az adatszolgáltatás tartalmát és formáját jogszabály és a Hivatal határozza meg.
@@ -3561,7 +3563,8 @@ e törvény, valamint a villamosenergia-ipari építésügyi hatósági engedél
   - da) az Európai Unión belüli energiaipari infrastruktúrát érintő beruházási projekteknek a Bizottság részére való bejelentéséről, a 617/2010/EU, Euratom tanácsi rendelet felváltásáról és a 736/96/EK parlamenti és tanácsi rendelet hatályon kívül helyezéséről szóló 2014. február 26-i, 256/2014/EU rendelet,
   - db) a 256/2014/EU európai parlamenti és tanácsi rendelet 3. és 5. cikke szerinti adatközlés formájáról és egyéb technikai részleteiről, valamint a 2386/96/EK és a 833/2010/EU, Euratom bizottsági rendelet hatályon kívül helyezéséről szóló 2014. október 16-i, 1113/2014/EU európai bizottsági végrehajtási rendelet
 - e) a nagykereskedelmi energiapiacok integritásáról és átláthatóságáról szóló, 2011. október 25-i 1227/2011/EU európai parlamenti és tanácsi rendelet,
-- f) a kapacitásfelosztásra és a szűk keresztmetszetek kezelésére vonatkozó iránymutatás létrehozásáról szóló, 2015. július 24-ei 2015/1222/EU bizottsági rendelet
+- f) a kapacitásfelosztásra és a szűk keresztmetszetek kezelésére vonatkozó iránymutatás létrehozásáról szóló, 2015. július 24-ei 2015/1222/EU bizottsági rendelet,
+- g) az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapítja meg.
 

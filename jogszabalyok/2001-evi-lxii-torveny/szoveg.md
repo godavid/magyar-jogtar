@@ -252,6 +252,8 @@ Ezek az információk szolgálják
 
 (6b) A nyilvántartó szerv a nyilvántartásban tárolt adatokat az igazolvány visszavonásáig, illetőleg a tulajdonos haláláig kezelheti. A nyilvántartásban kezelt adatokból – a személyes adatok védelméről szóló nemzetközi egyezménnyel összhangban – adat továbbítható a jogosultság ellenőrzésére és a visszaélések megakadályozása céljából a kedvezményt, támogatást nyújtó szerv, a kedvezményeket és támogatásokat nyilvántartó szerv, a diplomáciai és konzuli képviseletek, továbbá a büntetőügyben eljáró bíróság, a bűnüldöző szervek, az idegenrendészeti hatóság, a menekültügyi hatóság, illetve a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv részére. A nyilvántartó szerv a (6) bekezdés szerinti nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
 
+(6c) A nyilvántartásban kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+
 (7) Az elbíráló hatóság a kérelem elbírálásához, illetőleg a visszavonási ok fennállásának vizsgálatához a következő szervektől igényelhet adatokat:
 
 - a) a központi idegenrendészeti nyilvántartásból a kiutasításról, illetőleg a beutazási és tartózkodási tilalom fennállásáról, valamint a magyarországi tartózkodásra jogosító engedély adatairól;
@@ -337,3 +339,5 @@ Ezek az információk szolgálják
 - b) adatszolgáltatás: a nyilvántartásban szereplő polgárok és igazolványok adatainak a törvényben meghatározott tartalmú és terjedelmű közlése. Ezen belül
   - ba) egyedi adatszolgáltatás: egy polgár vagy igazolvány adatainak közlése,
   - bb) csoportos adatszolgáltatás: az adatigénylő által vagy jogszabályban meghatározott szempontok szerint képzett csoportba tartozó polgárok vagy igazolványok adatainak rendszeres vagy eseti közlése.
+
+31. § Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.

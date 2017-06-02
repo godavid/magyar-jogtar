@@ -20,7 +20,7 @@ Az árak legfőbb szabályozója a piac és a gazdasági verseny. Az árakra von
 - e) a villamos energiáról szóló 2007. évi LXXXVI. törvény hatálya alá tartozó termékek vagy szolgáltatások árára;
 - f) a földgázellátásról szóló 2008. évi XL. törvény hatálya alá tartozó termékek vagy szolgáltatások árára;
 - g) pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvényben szabályozott szolgáltatási díjakra;
-- h) a távhőszolgáltatónak értékesített távhő árára, valamint a lakossági felhasználónak és a külön kezelt intézménynek nyújtott távhőszolgáltatás (fűtés és használati melegvíz) díjára;
+- h) a távhőszolgáltatásról szóló törvény hatálya alá tartozó termékek vagy szolgáltatások árára;
 - i) a víziközmű-szolgáltatásról szóló törvény alapján meghatározott díjakra.
 - j) a személyszállítási szolgáltatásokról szóló törvényben meghatározott helyi, valamint az elővárosi, regionális és országos közösségi közlekedési szolgáltatások áraira;
 - k) a nemzeti mobil fizetési rendszerről szóló törvényben meghatározott kényelmi díjra, és a nemzeti mobil fizetési szervezet által a központosított mobil értékesítésű szolgáltatás továbbértékesítése során alkalmazandó árrésre,
@@ -118,6 +118,8 @@ Az árak legfőbb szabályozója a piac és a gazdasági verseny. Az árakra von
 
 23. § A törvény hatálybalépése nem érinti a mellékletben felsorolt termékekre vonatkozóan korábban kiadott hatósági ármegállapítások érvényességét.
 
+24. § Ez a törvény a termékek tevékenység szerinti, új statisztikai osztályozásáról (CPA, magyarul TESZOR) és a 3696/93/EGK tanácsi rendelet hatályon kívül helyezéséről szóló 451/2008/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2014. október 29-i 1209/2014/EU bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
 ### Melléklet az 1990. évi LXXXVII. törvényhez
 
 Hatósági áras termékek
@@ -135,13 +137,9 @@ A) Termékek
 
 B) Szolgáltatások
 
-| Szolgáltatásszám (SZTJ) | Megnevezés | A hatósági ár megállapítója |
+| Termékek és Szolgáltatások Osztályozási Rendszere (TESZOR kód) | Megnevezés | A hatósági ár megállapítója |
 | --- | --- | --- |
 |  |  |  |
-|  |  |  |
-|  |
-|  |  |  |
-| 507-34, 45-ből | Humán célú, a járóbeteg-ellátás keretében társadalombiztosítási támogatással forgalmazható gyógyszerek kereskedelmi árrése | egészségügyért felelős miniszter |
-| 40.30.90.0-ból | Távhőszolgáltatás csatlakozási díja | települési önkormányzat – fővárosban a Fővárosi Önkormányzat – képviselő- testülete |
+| 46.18.11-ből, 46.46.11, 47.00.74 | Humán célú, a járóbeteg-ellátás keretében társadalombiztosítási támogatással forgalmazható gyógyszerek kereskedelmi árrése | egészségügyért felelős miniszter |
 |  |  |  |
 | Termékszám (BTO) | Megnevezés | A hatósági ár megállapítója |

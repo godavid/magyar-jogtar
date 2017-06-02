@@ -896,7 +896,8 @@ van összefüggésben.
 - n) a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény ügyfele által nyilvánosságra hozott állítással összefüggésben a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény részéről a közte és ügyfele közötti jogviszonyra vonatkozó, a nyilvánosság előtti válaszadáshoz szükséges mértékben történő adatközlés,
 - o) a Magyar Nemzeti Bank által alapvető feladatai ellátása érdekében a jegybanki információs rendszerben rendelkezésre álló adatoknak egyedi azonosításra alkalmas módon való átadása a Központi Bankok Európai Rendszere és annak tagjai számára, azok kérelme alapján, az Európai Unió működéséről szóló szerződésből eredő vagy központi banki feladataik teljesítéséhez szükséges mértékben,
 - p) a pénzforgalmi szolgáltatás nyújtása és a fizetési műveletek feldolgozása, elszámolása és teljesítése keretében a fizetési megbízás teljesítése céljából a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény által a fizetési műveletek feldolgozásában, elszámolásában és teljesítésében közreműködő pénzforgalmi szolgáltatók részére történő adattovábbítás, valamint
-- q) a központi szerződő fél, valamint az elszámolóházi tevékenység végzésének érdekében szükséges, a központi értéktár, a központi szerződő fél, valamint az elszámolóházi tevékenységet végző szervezet közötti adattovábbítás.
+- q) a központi szerződő fél, valamint az elszámolóházi tevékenység végzésének érdekében szükséges, a központi értéktár, a központi szerződő fél, valamint az elszámolóházi tevékenységet végző szervezet közötti adattovábbítás,
+- r) a Központi Statisztikai Hivatal részére hivatalos statisztikai célból a hivatalos statisztikáról szóló 2016. évi CLV. törvény 2. § 5. és 10. pont szerinti, közvetlen azonosítóktól megfosztott, egyedi adatok átadása.
 
 63. § (1) Aki üzleti vagy fizetési titok birtokába jut, köteles azt időbeli korlátozás nélkül megtartani.
 
@@ -1278,6 +1279,8 @@ végzését.
 - a) az Európai Parlament és a Tanács 2007/64/EK irányelve (2007. november 13.) a belső piaci pénzforgalmi szolgáltatásokról és a 97/7/EK, a 2002/65/EK, a 2005/60/EK és a 2006/48/EK irányelv módosításáról és a 97/5/EK irányelv hatályon kívül helyezéséről,
 - b) az Európai Parlament és a Tanács 2009/110/EK irányelve (2009. szeptember 16.) az elektronikuspénz-kibocsátó intézmények tevékenységének megkezdéséről, folytatásáról és prudenciális felügyeletéről, a 2005/60/EK és a 2006/48/EK irányelv módosításáról, valamint a 2000/46/EK irányelv hatályon kívül helyezéséről,
 - c) A Tanács 2014/107/EU irányelve (2014. december 9.) a 2011/16/EU tanácsi irányelvnek az adózás területére vonatkozó kötelező automatikus információcsere tekintetében történő módosításáról.
+
+(1a) Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (2) Ez a törvény a következő uniós jogi aktus végrehajtásához szükséges rendelkezéseket állapít meg a Felügyelet eljárásában:
 

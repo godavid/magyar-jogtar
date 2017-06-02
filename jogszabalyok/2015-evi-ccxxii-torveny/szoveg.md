@@ -239,6 +239,8 @@ teljesítheti.
 
 (9) A (3) bekezdés szerinti, a gazdálkodó szervezetre vonatkozó nyilvántartást vezető szerv a hivatalos elérhetőség nyilvántartásba vétele, valamint üzemeltetése érdekében elektronikus úton, térítésmentesen és nyilvántartás céljából átadja a rendelkezési nyilvántartást vezető szervnek, valamint a gazdálkodó szervezet által megjelölt biztonságos kézbesítési szolgáltatási cím szolgáltatónak a gazdálkodó szervezetre vonatkozó, a gazdálkodó szervezet és a képviseletére jogosult személy azonosításához szükséges, az adott nyilvántartásban szereplő nyilvános adatokat. Az adatszolgáltatás lebonyolításának technikai szabályait az érintett szervek megállapodásban rögzítik.
 
+14/A. § A 14. § (1) és (3) bekezdés szerinti, a gazdálkodó szervezetre vonatkozó nyilvántartásban foglalt adatokat a nyilvántartást vezető szerv a Központi Statisztikai Hivatal részére az adatszolgáltatói kör kijelölése céljából, térítésmentesen átadja és azokat a Központi Statisztikai Hivatal statisztikai célra jogosult kezelni.
+
 15. § (1) Természetes személy ügyintézési rendelkezésében jogosult megadni olyan hivatalos elérhetőséget, amely tekintetében vállalja a 14. § szerinti követelmények teljesítését. Ebben az esetben a kézbesítés időpontja és a kézbesítési vélelem tekintetében a 14. § rendelkezései megfelelően irányadóak.
 
 (2) Ha az eljárást a természetes személy ügyfél kezdeményezte elektronikusan, az elektronikus ügyintézést biztosító szerv az (1) bekezdés szerinti nyilatkozat hiányában is kézbesítheti a küldeményét az ügyfél általa ismert, a 14. §-ban előírt feltételeknek megfelelő elérhetőségére. Ebben az esetben a kézbesítés időpontja és a kézbesítési vélelem tekintetében a 14. § rendelkezései megfelelően irányadóak. Az elektronikus ügyintézést biztosító szerv a hivatalos elérhetőségre történő kézbesítéssel egyidejűleg – ha az technikailag lehetséges és az a hivatalos elérhetőségtől eltér – az ügyfél kérelménél használt elektronikus kapcsolattartási címen értesíti az ügyfelet arról, hogy a kézbesítés a hivatalos elérhetőségre történt.
@@ -252,6 +254,8 @@ teljesítheti.
 (6) Ha az elektronikus ügyintézés nem kötelező, a természetes személy ügyfélnek az elektronikus ügyintézést teljes körben vagy az érintett eljárási cselekmény vonatkozásában kizáró ügyintézési rendelkezése – törvény eltérő rendelkezése hiányában – az elektronikus nyilatkozatra vonatkozó kézbesítési vélelem beálltát is kizárja.
 
 (7) Jogszabály eltérő rendelkezése hiányában az ügyfél ügyintézési rendelkezését a Kormány által kijelölt szervnél teheti meg.
+
+(8) A Kormány által kijelölt szerv a természetes személy (7) bekezdés szerinti ügyintézési rendelkezése során megadott elérhetőségét a Központi Statisztikai Hivatal részére adatszolgáltatói kör kijelölése céljából, térítésmentesen átadja és azokat a Központi Statisztikai Hivatal statisztikai célra jogosult kezelni.
 
 #### 8. A kapcsolattartás módja
 
@@ -1733,6 +1737,8 @@ kell biztosítani.
 #### 63. Az Európai Unió jogának való megfelelés
 
 111. § E törvény a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló 2014. július 23-i 910/2014/EU európai parlamenti és tanácsi rendelet III. fejezetének végrehajtásához szükséges rendelkezéseket állapít meg.
+
+111/A. § Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 112. § (1) Ez a törvény a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 

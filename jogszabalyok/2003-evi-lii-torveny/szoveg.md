@@ -305,7 +305,9 @@ szereplő faj, növényfajta szaporítóanyagát szabad forgalomba hozatal célj
 
 (5) A növénytermesztési hatóság annak engedélyezi a mintavevői tevékenység folytatását, aki megfelel az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott egyéb feltételeknek. A növénytermesztési hatóság az engedély megadásával egyidejűleg nyilvántartásba veszi a szolgáltatót.
 
-(6) A növénytermesztési hatóság a mintavevői tevékenység folytatására engedéllyel rendelkező személyekről nyilvántartást vezet, amely tartalmazza a tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból kizárólag a mintavevői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
+(6) A növénytermesztési hatóság a mintavevői tevékenység folytatására engedéllyel rendelkező személyekről nyilvántartást vezet, amely tartalmazza a tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból – a (7) bekezdésben foglaltak kivételével – kizárólag a mintavevői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
+
+(7) A nyilvántartásban kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
 ### A szaporítóanyag csomagolása,jelölése (címkézése)
 
@@ -534,5 +536,7 @@ a miniszter e törvény felhatalmazása alapján kiadott rendeletében meghatár
 - n) a Bizottság 2009/145/EK irányelve az egy adott helyen és régióban hagyományosan termesztett és génerózió által veszélyeztetett honos zöldségfajok és fajták, illetve a kereskedelmi növénytermesztési szempontból tényleges értékkel nem rendelkező, csupán bizonyos feltételek melletti termesztésre nemesített zöldségek fajtáinak elismerése, és ezen honos fajok és fajták vetőmagjának forgalmazása esetében alkalmazható eltérésekről.
 
 31/A. § Ez a törvény az idegenhonos inváziós fajok betelepítésének vagy behurcolásának és terjedésének megelőzéséről és kezelésről szóló, 2014. október 22-i, 1143/2014/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+31/B. § Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 32. § A törvény 2. § 35. pontjának és 21/A. §-ának a műszaki szabványok és szabályok terén történő információszolgáltatási eljárás megállapításáról szóló 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv – 98/48/EK európai parlamenti és tanácsi irányelvvel módosított – 8–10. cikke szerinti előzetes bejelentése megtörtént.

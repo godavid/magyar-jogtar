@@ -461,7 +461,7 @@ jogosult kérni az általa foglalkoztatott polgárnak a 17. § (2) bekezdés f) 
 - e) a díjköteles országos közutak díjfizetés ellenében történő használatának ellenőrzésére jogosult szervezetek törvényben meghatározott feladataik ellátásához.
 - f) a gépjárműveket, a forgalmi és vezetői engedélyeket nyilvántartó hatóság a nyilvántartásban szereplő polgárok adatai változásának követéséhez;
 - g) a legfőbb ügyész, illetve az igazságügyért felelős miniszter a kegyelmi eljárás, valamint az igazságügyért felelős miniszter a bűnügyi költség és rendbírság mérséklése, elengedése iránti kérelmek elbírálása során;
-- h) a Központi Statisztikai Hivatal a statisztikáról szóló 1993. évi XLVI. törvényben meghatározott feladatai ellátásához;
+- h)
 - i) a polgári védelmi kötelezettség érvényesítése céljából a hivatásos katasztrófavédelmi szerv és a polgármester;
 - j) az egyes fontos tisztségeket betöltő személyek ellenőrzéséről szóló 1994. évi XXIII. törvény 5. §-ában meghatározott bizottság, az Országgyűlés Nemzetbiztonsági Bizottsága, valamint a bíróság a törvényben meghatározott ellenőrzés lefolytatásához;
 - k) a nyugdíjfolyósító szerv a jogszabályban meghatározott feladatai ellátásához a nyilvántartást kezelő szervtől;
@@ -491,7 +491,8 @@ jogosult kérni az általa foglalkoztatott polgárnak a 17. § (2) bekezdés f) 
 - h) a konzuli szolgálat közigazgatási hatósági jogkört gyakorló konzuli tisztviselője, illetve annak munkájában közreműködő, a külpolitikáért felelős miniszter által felhatalmazott, diplomáciai vagy hivatásos konzuli képviseleten igazgatási munkakörben konzuli feladatot ellátó személy a konzuli érdekvédelmi feladatok ellátásához,
 - i) az útlevélhatóság, valamint a konzuli szolgálat közigazgatási hatósági jogkört gyakorló konzuli tisztviselője, illetve annak munkájában közreműködő, a külpolitikáért felelős miniszter által felhatalmazott, diplomáciai vagy hivatásos konzuli képviseleten igazgatási munkakörben konzuli feladatot ellátó személy az útlevél-ügyintézéshez,
 - j) az értesítési cím adatok, állampolgárság, családi állapot, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye kivételével a gondnokoltak és az előzetes jognyilatkozatok nyilvántartását vezető szerv a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról szóló törvényben meghatározott feladatai ellátásához;
-- k) a körözési nyilvántartó szerv a körözött személy személyazonosságának ellenőrzéséhez.
+- k) a körözési nyilvántartó szerv a körözött személy személyazonosságának ellenőrzéséhez;
+- l) A Központi Statisztikai Hivatal a hivatalos statisztikáról szóló 2016. évi CLV. törvényben meghatározott feladatai ellátásához;
 
 23. § E törvény felhatalmazása alapján az értesítési cím adatok és a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye kivételével a 17. § (2) bekezdés c) pontja szerinti adatok igénylésére jogosult
 

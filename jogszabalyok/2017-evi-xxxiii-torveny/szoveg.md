@@ -8,25 +8,11 @@ egyes belügyi tárgyú törvények módosításáról
 
 4. §
 
-5. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 29. § (11) bekezdése helyébe a következő rendelkezés lép:
-
-„(11) Az ideiglenes személyazonosító igazolvány tartalmazza
-
-a) a (2) bekezdés a)–l) pontja szerinti adatokat,
-
-b) magyar állampolgár esetén a (3) bekezdés szerinti gépi olvasásra alkalmas adatsort,
-
-c) külföldi állampolgárságú vagy hontalan polgár esetén annak tényét, hogy az ideiglenes személyazonosító igazolvány külföldre történő utazásra nem jogosít,
-
-d) a (6) bekezdés szerinti adattároló kódot, valamint
-
-e) a kiadásának okát.”
+5. §
 
 6. §
 
-7. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény a következő 52/D. §-sal egészül ki:
-
-„52/D. § E törvénynek az egyes belügyi tárgyú törvények módosításáról szóló 2017. évi XXXIII. törvénnyel megállapított 29. § (11) bekezdését a 2017. június 1-jétől kiadott ideiglenes személyazonosító igazolványokra kell alkalmazni. A 2017. június 1-jét megelőzően kiadott ideiglenes személyazonosító igazolványok tartalmára vonatkozóan e törvénynek a 2017. május 31-én hatályban volt szabályait kell alkalmazni.”
+7. §
 
 8. §
 

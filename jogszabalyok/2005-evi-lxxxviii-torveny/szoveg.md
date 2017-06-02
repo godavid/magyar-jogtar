@@ -250,6 +250,8 @@ az önkéntes jogviszonnyal összefüggésben következett be, a fogadó szervez
 
 (3) A fogadó szervezet az önkéntesre vonatkozó tényt, adatot, véleményt harmadik személlyel csak törvényben meghatározott esetben vagy az önkéntes hozzájárulásával közölhet. Az önkéntesre vonatkozó adatok statisztikai célra felhasználhatók és statisztikai célú felhasználásra – személyazonosításra alkalmatlan módon – átadhatóak.
 
+(4) A fogadó szervezeteknek az önkéntesre vonatkozó adatok a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+
 15. § (1) Ha e törvény másként nem rendelkezik, az önkéntes szerződés megkötésére, érvénytelenségére, módosítására, teljesítésére, megszűnésére, a szerződésszegésre, a törvényes képviselő közreműködésére, az önkéntes jogviszonnyal kapcsolatos jogok gyakorlására és a kötelezettségek teljesítésére, valamint a kárviselésre és a kártérítésre a Polgári Törvénykönyv szabályait kell alkalmazni.
 
 (2) E törvénynek az önkéntes jogviszonyra vonatkozó szabályaitól – ha e törvény vagy nemzetközi szerződés kivételt nem tesz – az önkéntes szerződésben érvényesen eltérni nem lehet.
@@ -260,7 +262,9 @@ az önkéntes jogviszonnyal összefüggésben következett be, a fogadó szervez
 
 (2) Ez a törvény a harmadik országok állampolgárai tanulmányok folytatása, diákcsere, javadalmazás nélküli gyakorlat, illetve önkéntes szolgálat céljából történő beutazásának feltételeiről szóló, 2004. december 13-i 2004/114/EK tanácsi irányelv önkéntes szolgálatra vonatkozó rendelkezéseinek való megfelelést szolgálja.
 
-(3)–(4)
+(3) Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+(4)
 
 ### 1. melléklet a 2005. évi LXXXVIII. törvényhez
 

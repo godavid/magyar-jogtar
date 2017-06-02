@@ -403,6 +403,8 @@ eredeti vagy közjegyző által hitelesített másolati példányát.
 
 (4) A közjegyző a bejegyzett élettársi kapcsolatot megszüntető végzést öt munkanapon belül megküldi az illetékes anyakönyvvezetőnek.
 
+(5) A közjegyző a hivatalos statisztikáról szóló törvényben (a továbbiakban: Stt.) meghatározott népmozgalmi adatgyűjtéssel kapcsolatos feladatai teljesítése céljából a közjegyzői eljárás során kezeli a bejegyzett élettársi kapcsolat megszűnésével kapcsolatos, népmozgalmi adatszolgáltatás körébe tartozó, a hivatalos statisztikáról szóló törvényben és annak végrehajtásáról szóló rendeletben meghatározott, a közjegyző által szolgáltatandó adatokat.
+
 ### Élettársi Nyilatkozatok Nyilvántartásának vezetése
 
 36/E. § (1) Az Élettársi Nyilatkozatok Nyilvántartása (a továbbiakban: élettársi nyilvántartás) az élettársi kapcsolat fennállása bizonyításának megkönnyítése céljából tartalmazza
@@ -439,6 +441,8 @@ eredeti vagy közjegyző által hitelesített másolati példányát.
 
 (8) Az élettársi nyilvántartás adatait a közjegyző és az országos kamara kezeli. Az országos kamara működteti a nyilvántartásban szereplő adatok kezelésére szolgáló, folyamatosan a felhasználók rendelkezésére álló informatikai alkalmazást. Az országos kamara a (4) bekezdés a) pontjában foglalt adatokban bekövetkezett változásokat és a (4) bekezdés d) pontjában foglalt adatokat a nyilvántartásban átvezeti, e célból a polgárok személyi adatainak és lakcímének nyilvántartását vezető szervtől elektronikus úton adatot igényelhet.
 
+(9) Az Élettársi Nyilatkozatok Nyilvántartásában kezelt adatokat a Központi Statisztikai Hivatal részére – a Stt. 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+
 36/F. § (1) A nyilatkozat felvételére irányuló eljárás élettársak közös kérelemre vagy az élettársi kapcsolat fenn nem állásáról szóló nyilatkozat esetén bármelyik élettárs kérelmére indul. Közös kérelem esetén a közjegyző illetékességét az élettársak bármelyikének lakóhelye vagy tartózkodási helye megalapítja.
 
 (2) A közjegyző az élettársi kapcsolatra vonatkozó nyilatkozat megtétele előtt – az általános kioktatási kötelezettsége keretében – az élettársat arról is tájékoztatja, hogy mi tekintendő élettársi kapcsolatnak, az hogyan keletkezik, hogyan szűnik meg és milyen családjogi, vagyonjogi és öröklési jogi következményekkel jár.
@@ -471,6 +475,8 @@ eredeti vagy közjegyző által hitelesített másolati példányát.
 (6) A napló adatait az országos kamara a 36/G. § (3) bekezdése szerint eljárva továbbíthatja.
 
 (7) Ha a büntetőeljárásban eljáró bíróság, ügyész és nyomozó hatóság, a nemzetbiztonsági szolgálat, továbbá a törvényben titkos információgyűjtésre felhatalmazott szerv adatigénylése azt – bűnüldözési, bűnmegelőzési vagy nemzetbiztonsági érdekekre hivatkozással – kifejezetten tartalmazza, az országos kamara nem tájékoztathatja az érintettet az adattovábbításról.
+
+(8) A közjegyző a Stt.-ben meghatározott népmozgalmi adatgyűjtéssel kapcsolatos feladatai teljesítése céljából a közjegyzői eljárás során kezeli a nyilvántartott élettársi kapcsolatokra vonatkozó, népmozgalmi adatszolgáltatás körébe tartozó, a hivatalos statisztikáról szóló törvényben és annak végrehajtásáról szóló rendeletben meghatározott, a közjegyző által szolgáltatandó adatokat.
 
 ### A házassági és az élettársi vagyonjogi szerződések elektronikus nyilvántartásának vezetése
 
@@ -523,6 +529,8 @@ a nyilvántartás vezetésére és az abból történő adatszolgáltatásra von
 - e) a szerződés megszüntetése vagy megszűnése esetében ennek tényét és a bejegyző közjegyző nevét, székhelyét és a bejegyzés ügyszámát, továbbá a bejegyzés időpontját.
 
 (2) A nyilvántartás adatairól közigazgatási hatóság, közigazgatási szerv, bíróság, bírósági végrehajtó, ügyész, nyomozó hatóság, terrorizmust elhárító szerv, nemzetbiztonsági szolgálat, továbbá a közjegyző tevékenységének szakmai felügyeletét ellátó szerv az országos kamarától közvetlen hozzáféréssel adatot igényelhet. Az adatigénylés megkezdésekor az annak alapjául szolgáló eljárás tárgyát és ügyszámát, az igényelt adat tekintetében az adatigénylőt az ügy elbírálásához, továbbá jogosultság, illetve kötelezettség fennállásának ellenőrzéséhez az adatkezelésre feljogosító törvényi rendelkezést, valamint az adott személy beazonosításához szükséges valamennyi adatot elektronikus úton az országos kamara rendszere számára rendelkezésre kell bocsátani.
+
+(2a) Az (1) bekezdés szerinti nyilvántartásában kezelt adatokat a Központi Statisztikai Hivatal részére – a: Stt. 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
 (3) A vagyonjogi szerződés fennállásának tényére vonatkozóan a nyilvántartásba bárki bármely közjegyzőnél díj megfizetése ellenében betekinthet és annak alapján saját céljára feljegyzést készíthet. A betekintés a vagyonjogi szerződést megkötő felek valamelyikének az (1) bekezdés b) pontjában szereplő adatainak megadása és az ehhez fűződő jogi érdek igazolása alapján történhet. A jogi érdek igazolása során meg kell jelölni azt a jogügyletet, illetve egyéb okot, amely az adatfelhasználás jogszerű célját és jogalapját megalapozza. A lekérdezés eredményéről a közjegyző – kérelemre – tanúsítványt állít ki. A közjegyzői tanúsítvány a lekérdezéstől függően valamennyi bejegyzést hitelesen igazolja.
 
@@ -629,9 +637,9 @@ a nyilvántartás vezetésére és az abból történő adatszolgáltatásra von
 
 (4) A hirdetmény kivonatának közzétételére a hirdetmény közzétételére vonatkozó szabályokat megfelelően alkalmazni kell.
 
-### Hatályukat vesztő rendelkezések
+### Az Európai Unió jogának való megfelelés
 
-40. §
+40. § Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### Módosuló rendelkezések
 

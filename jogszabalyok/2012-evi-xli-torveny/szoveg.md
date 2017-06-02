@@ -827,7 +827,9 @@ alapján meghatározott számviteli politikában rögzített, az átcsoportosít
 
 (6) Az adatkezelésre e § alapján jogosult (e szakasz alkalmazásában a továbbiakban: menetkedvezményi adatkezelő) az (5) bekezdésben meghatározott adatokat az utazási kedvezmény biztosítása, a kedvezmény igénybevételére jogosító igazolvány kiállítása, az igazolványokról vezetett nyilvántartás vezetése érdekében kezeli. A menetkedvezményi adatkezelő az (5) bekezdésben meghatározott adatokat 3 évig tartja nyilván. A menetkedvezményi adatkezelő biztosítja az adatok védelmét vétlen vagy szándékos megsemmisítéssel, megsemmisüléssel, megváltoztatással, nyilvánosságra kerüléssel szemben, továbbá azt, hogy azokhoz jogosulatlan személy ne férjen hozzá.
 
-(7) A menetkedvezményi adatkezelő a kezelt adatokat egyedi azonosításra alkalmatlan módon statisztikai célokra felhasználhatja, azokból statisztikai célra adatot szolgáltathat.
+(7) A menetkedvezményi adatkezelő a kezelt adatokat – a (8) bekezdésben foglalt kivétellel – egyedi azonosításra alkalmatlan módon statisztikai célokra felhasználhatja, azokból statisztikai célra adatot szolgáltathat.
+
+(8) Az (5) bekezdés szerinti adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra anonimizált formában, de a statisztikai célú felhasználást lehetővé tevő egyedi azonosítóval, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
 #### 27. Iskolabuszokra és közösségi buszokra vonatkozó rendelkezések
 
@@ -1016,7 +1018,8 @@ vonatkozó önkormányzati rendelet kiadására.
 - a) az Európai Parlament és a Tanács 1370/2007/EK rendelete (2007. október 23.) a vasúti és közúti személyszállítási közszolgáltatásról, valamint az 1191/69/EGK és az 1107/70/EGK tanácsi rendelet hatályon kívül helyezéséről;
 - b) az Európai Parlament és a Tanács 1371/2007/EK rendelete (2007. október 23.) a vasúti személyszállítást igénybe vevő utasok jogairól és kötelezettségeiről,
 - c) a 49. § (1) bekezdés d) pontja alapján kiadott jogszabállyal együttesen az Európai Parlament és a Tanács 181/2011/EU rendelete az autóbusszal közlekedő utasok jogairól és a 2006/2004/EK rendelet módosításáról, valamint
-- d) az autóbusszal díj ellenében végzett személyszállítási és saját számlás személyszállítási tevékenységről szóló jogszabállyal együttesen az Európai Parlament és a Tanács 1073/2009/EK rendelete az autóbusszal végzett személyszállítás való hozzáférés közös szabályairól és az 561/2006/EK rendelet módosításáról.
+- d) az autóbusszal díj ellenében végzett személyszállítási és saját számlás személyszállítási tevékenységről szóló jogszabállyal együttesen az Európai Parlament és a Tanács 1073/2009/EK rendelete az autóbusszal végzett személyszállítás való hozzáférés közös szabályairól és az 561/2006/EK rendelet módosításáról,
+- e) az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet.
 
 #### 37. Módosító rendelkezések
 

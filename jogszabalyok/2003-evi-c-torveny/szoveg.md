@@ -14,7 +14,7 @@ Az Országgyűlés az információs társadalom elektronikus hírközlési infra
 - b) az a) pontban foglalt, vagy azzal összefüggő tevékenységet végző vagy szolgáltatást nyújtó természetes, illetőleg jogi személyre vagy jogi személyiséggel nem rendelkező más szervezetre és ezek vezető tisztségviselőire,
 - c) a felhasználókra, a fogyasztókra és az előfizetőkre,
 - d) az a) pontban foglalt tevékenységet vagy szolgáltatást végző, illetve nyújtó, vagy azzal összefüggő tevékenységet végző vagy azt igénybevevő belföldi vagy külföldi természetes, illetőleg jogi személyre vagy jogi személyiséggel nem rendelkező más szervezetre és ezek vezető tisztségviselőire,
-- e) a 159/B. § és a 182. § (3) bekezdés tekintetében az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló törvényben meghatározott kereső- és gyorsítótárolás-szolgáltatást végző közvetítő szolgáltatókra (a továbbiakban együtt: kereső- és gyorsítótár-szolgáltatók),
+- e) a 159/B–159/D. § és a 182. § (3) bekezdés tekintetében az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló törvényben meghatározott kereső- és gyorsítótárolás-szolgáltatást végző közvetítő szolgáltatókra (a továbbiakban együtt: kereső- és gyorsítótár-szolgáltatók),
 - f) a 83/A–83/B. §, a 93/A–93/B. § és a 94–95. § tekintetében a földgáz, a villamos energia, a távhő előállításával, termelésével, szállításával, elosztásával vagy átvitelével kapcsolatos szolgáltatások, a közvilágítás, a víziközmű-szolgáltatás, valamint a vasúti, közúti, hajózási, repülőtéri, más közlekedési szolgáltatások nyújtására szolgáló fizikai infrastruktúra tulajdonosára és annak üzemeltetőjére,
 - g) a 99/A–99/C. § tekintetében az épületen belüli fizikai infrastruktúrával rendelkezni jogosult személyre,
 - h) az elektronikus hírközlési építmény építési folyamatának résztvevőjére.
@@ -876,6 +876,8 @@ jogerős vagy fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított
 
 (4) A Hatóság jogszabályban hatáskörébe utalt feladatainak körében egyéb nyilvántartásokat vezet a főigazgató által meghatározott egyéb adatokról, az adat- és minősített adatvédelemre, valamint a közérdekű adatok nyilvánosságára vonatkozó jogszabályoknak megfelelően.
 
+(5) A hatósági nyilvántartásokban kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+
 ### Általános hatósági felügyelet
 
 53. § (1) A Hatóság kérelemre vagy hivatalból – feladat- és hatáskörének keretében – jogosult hatósági ellenőrzés vagy hatósági eljárás keretében felügyelni az elektronikus hírközlésre vonatkozó szabály érvényesülését, betartását, valamint az általános szerződési feltételekben foglaltak teljesítését.
@@ -1278,9 +1280,33 @@ jogerős vagy fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított
 
 (9) Az Elnök ideiglenes határozata ellen külön jogorvoslatnak nincs helye, az ideiglenes határozat a fenntartás tárgyában hozott határozatban támadható.
 
-### VII. Fejezet — A HÍRKÖZLÉSI ÁLLANDÓVÁLASZTOTTBÍRÓSÁG
+### VII. Fejezet — KISKERESKEDELMI BARANGOLÁSI TÖBBLETDÍJ ALKALMAZÁSÁNAK ENGEDÉLYEZÉSE
 
-72–73. §
+72. § (1) A barangolásszolgáltató a belföldi díjszabási modellje fenntarthatóságának biztosítása érdekében, kiskereskedelmi barangolási többletdíj (e § alkalmazásában a továbbiakban: többletdíj) alkalmazásának engedélyezése iránt a méltányos használatra vonatkozó feltételek alkalmazására és a kiskereskedelmi barangolási többletdíjak eltörlése fenntarthatóságának értékelési módszertanára, valamint a barangolásszolgáltatók által az értékelés céljából benyújtandó kérelemre vonatkozó részletes szabályok megállapításáról szóló, 2016. december 15-i 2016/2286 (EU) bizottsági végrehajtási rendelet (a továbbiakban: roaming végrehajtási rendelet) III. szakaszában meghatározott tartalom szerint kérelmet nyújthat be az Elnökhöz.
+
+(2) Az Elnök – a kérelem alapján – az Unión belüli nyilvános mobilhírközlő hálózatok közötti barangolásról (roaming) szóló, 2012. június 13-i 531/2012/EU európai parlamenti és tanácsi rendelet (a továbbiakban: roaming rendelet) alkalmazásával jár el, és – ha a hatósági eljárás jogszabályi feltételei fennállnak – a többletdíj alkalmazását határozatában engedélyezi, elutasítja vagy a többletdíj kérelemben megjelölt mértékét módosítja.
+
+(3) Ha a (2) bekezdésben foglaltak szerint az Elnök a többletdíj alkalmazását határozatában engedélyezi vagy a többletdíj kérelemben megjelölt mértékét módosítja, határozatában megállapítja az igazolt negatív kiskereskedelmi barangolási árrés mértékét is.
+
+(4) Ha a kérelem a hiánypótlást és a barangolásszolgáltató meghallgatását követően is nyilvánvalóan megalapozatlan, illetve hiányos, az Elnök a rendelkezésre álló adatok alapján dönt vagy elutasítja a kérelmet.
+
+(5) A többletdíj alkalmazására vonatkozó hatósági engedély időbeli hatályát a határozatban meg kell határozni, amely a barangolásszolgáltató kérelmében megjelölt időtartam, de legfeljebb 12 hónap lehet. A határozat időbeli hatályának lejártát követő naptól a határozat érvényét és hatályát veszti, a többletdíj nem alkalmazható, és az engedélyből a továbbiakban jogok és kötelezettségek nem erednek.
+
+(6) A (2) bekezdés szerinti határozat időbeli hatályának lejártát követően alkalmazandó többletdíj engedélyezésére irányuló kérelmét az engedélyes a (2) bekezdés szerinti határozat időbeli hatálya lejárta előtt és azt követően is benyújthatja.
+
+(7) Ha az engedélyes (2) bekezdés szerinti határozat időbeli hatályának lejárta előtt legalább 90 nappal benyújtott kérelme alapján az Elnök megállapítja, hogy
+
+- a) a (2) bekezdés szerinti határozat alapjául szolgáló, a (3) bekezdés szerinti igazolt negatív kiskereskedelmi barangolási árrés mértéke nem változott, határozatával a kérelemben megjelölt időtartammal, de legfeljebb 12 hónappal meghosszabbítja a kérelmező engedélyét,
+- b) a (2) bekezdés szerinti határozat alapjául szolgáló, a (3) bekezdés szerinti igazolt negatív kiskereskedelmi barangolási árrés mértéke megváltozott, határozatával módosítja a (2) bekezdés szerinti határozatot a többletdíj mértéke tekintetében és a hatósági engedély időbeli hatályát legfeljebb 12 hónappal meghosszabbítja,
+- c) a többletdíj felszámítása a roaming rendelet alapján nem megengedhető, elutasítja a kérelmet.
+
+(8) Az engedélyes (7) bekezdésben foglalt határidőn túl benyújtott kérelme alapján a határozat időbeli hatálya nem hosszabbítható meg és nem is módosítható. Ebben az esetben az Elnök a kérelem alapján új hatósági eljárásban a (2)–(4) bekezdésben foglalt szabályok szerint jár el.
+
+(9) Ha a többletdíj engedélyezését követően a roaming végrehajtási rendelet III. szakaszában meghatározott adatok változása miatt a (3) bekezdés szerinti igazolt negatív kiskereskedelmi barangolási árrés mértéke megváltozik vagy a roaming végrehajtási rendelet szerinti feltételek már nem állnak fenn, hivatalból indított vagy kizárólag az engedélyes kérelmére induló hatósági eljárásban az Elnök a határozatot módosíthatja vagy visszavonhatja.
+
+(10) A többletdíj alkalmazásának engedélyezése iránti eljárásban – ha a barangolásszolgáltató meghallgatása szükséges – az ügyintézési határidő 90 nap.
+
+73. §
 
 ### VII/A. Fejezet — A Nemzeti Hírközlési és Informatikai Tanács
 
@@ -1714,7 +1740,7 @@ nem kell alkalmazni.
 
 (2) Az elektronikus hírközlési építményt elsősorban közterületen, meglévő elektronikus hírközlési építmények közös eszközhasználatával vagy más fizikai infrastruktúra elemeinek vagy más hálózatüzemeltető meglévő fizikai infrastruktúrájának felhasználásával kell elhelyezni, úgy, hogy a lehető legkisebb mértékben érintsen egyéb nem köztulajdonban lévő ingatlant.
 
-(2a) A hálózatüzemeltető és az elektronikus hírközlési szolgáltató együttműködnek a nagy sebességű elektronikus hírközlő hálózatok kiépítése érdekében, ennek keretében a hálózatüzemeltető köteles tűrni a fizikai infrastruktúrájának a nagy sebességű elektronikus hírközlő hálózat kiépítéséhez szükséges elektronikus hírközlési építmény létesítéséhez történő felhasználását. Az elektronikus hírközlési építmény kiépítésének és karbantartásának költségeit az elektronikus hírközlési szolgáltató viseli.
+(2a) A hálózatüzemeltető és az elektronikus hírközlési szolgáltató együttműködnek a nagy sebességű elektronikus hírközlő hálózatok kiépítése érdekében, ennek keretében a hálózatüzemeltető köteles tűrni a fizikai infrastruktúrájának felhasználását vagy köteles közreműködni a fizikai infrastruktúrájának alkalmassá tételében. Az elektronikus hírközlési építmény kiépítésének és karbantartásának költségeit az elektronikus hírközlési szolgáltató viseli.
 
 (2b) A fizikai infrastruktúra (2a) bekezdés szerinti felhasználásához való hozzájárulásról szóló megállapodás megkötését az elektronikus hírközlési szolgáltatónak írásbeli ajánlattal kell kezdeményeznie a hálózatüzemeltetőnél.
 
@@ -1761,7 +1787,7 @@ A megállapodás létesítésére vonatkozó ajánlatnak tartalmaznia kell
 
 (2i) Amennyiben a hálózatüzemeltető vagy az elektronikus hírközlési szolgáltató által benyújtott bizonyítékok alapján a Hatóság a döntését nem tudja meghozni, és a jogvita eldöntéséhez szükséges, a (2f) bekezdés szerinti eljárásban az elektronikus hírközlési nyomvonalas és nyomvonal jellegű építmények, valamint az egyéb műtárgyak építésének engedélyezésére irányuló eljárásokban közreműködő, jogszabályban felsorolt szakhatóságok vesznek részt az ott meghatározott feltételek fennállása esetén az ott megjelölt szakkérdésekben.
 
-(2j) Amennyiben a (2b) bekezdés szerinti ajánlatra a megkeresett fél a (2c) bekezdésben meghatározott időtartamon belül nem vagy nem érdemben válaszol vagy egyébként olyan magatartást tanúsít, amely a felek közti egyeztetés elhúzódását eredményezi, az írásbeli ajánlatot benyújtó fél a felek közti egyeztetés előmozdítása, az érdemi együttműködés elősegítése érdekében általános hatósági felügyeleti eljárás iránti kérelmet nyújthat be a Hivatalhoz, amennyiben a kérelem tárgyával összefüggésben jogvitás eljárás nem indult.
+(2j) Ha a (2b) bekezdés szerinti ajánlatra a megkeresett fél a (2c) bekezdésben meghatározott időtartamon belül nem vagy nem érdemben válaszol vagy egyébként olyan magatartást tanúsít, amely a felek közti egyeztetés elhúzódását eredményezi, különösen amellyel a (2a) bekezdés szerinti együttműködési kötelezettségét megszegi, az írásbeli ajánlatot benyújtó fél a felek közti egyeztetés előmozdítása, az érdemi együttműködés elősegítése érdekében általános hatósági felügyeleti eljárás iránti kérelmet nyújthat be a Hivatalhoz, ha a kérelem tárgyával összefüggésben jogvitás eljárás nem indult.
 
 (2k) Abban az esetben, ha a (2b) bekezdés szerinti ajánlatra a megkeresett fél a (2c) bekezdésben meghatározott időtartamon belül nem vagy nem érdemben válaszol vagy egyébként olyan magatartást tanúsít, amely a felek közti egyeztetés elhúzódását eredményezi, a Hivatal bírságot szab ki, amelynek mértéke a jogsértő nettó árbevételének legfeljebb 0,05%-a, de legalább százezer forint. Árbevételi adatok vagy az árbevétel közlésének hiányában a bírság mértéke legalább ötvenezer forint, legfeljebb százmillió forint. E § alkalmazása szempontjából nettó árbevétel alatt az eljárás résztvevőjének számviteli törvény szerinti nettó árbevételét kell érteni.
 
@@ -1783,28 +1809,34 @@ A megállapodás létesítésére vonatkozó ajánlatnak tartalmaznia kell
 
 (3d) A (3c) bekezdésben foglalt kérelmek egyidejű előterjesztése esetén a Hatóság a 94/A. § szerinti eljárását a (2f) bekezdés szerinti kérelem tárgyában folytatott eljárás jogerős befejezéséig felfüggeszti.
 
-(4) Nyilvánosan elérhető elektronikus hírközlési szolgáltatás biztosítása érdekében az elektronikus hírközlési építmény idegen ingatlanon történő elhelyezésére – e törvényben meghatározott kivétellel – az ingatlan tulajdonosával való megállapodás alapján kerülhet sor.
+(4) Nyilvánosan elérhető elektronikus hírközlési szolgáltatás biztosítása érdekében az elektronikus hírközlési építmény idegen ingatlanon történő elhelyezésére – ha e törvény eltérően nem rendelkezik – az ingatlan tulajdonosával való megállapodás alapján kerülhet sor. A megállapodásnak alkalmasnak kell lennie az építési jogosultság igazolására.
 
-(4a) Az elektronikus hírközlési építmény elhelyezését a közterület tulajdonosa (használója vagy kezelője) tűrni köteles. A helyi önkormányzat a közterület használati hozzájárulást annak kérelmezésétől számított 30 napon belül köteles kiadni.
+(4a) Az elektronikus hírközlési építmény elhelyezését a közterület tulajdonosa (használója vagy kezelője) tűrni köteles, a tulajdonosi hozzájárulást megadottnak kell tekinteni. Ha az építési munka megkezdéséhez közterület-használati hozzájárulás, kezelői vagy üzemeltetői hozzájárulás (a továbbiakban együtt e bekezdésben: hozzájárulás) szükséges, azt az elektronikus hírközlési szolgáltató kérelmének benyújtásától számított – ha jogszabály vagy szabályzat rövidebb határidőt nem állapít meg – 30 napon belül ki kell adni. A hozzájárulás formája egyoldalú nyilatkozat vagy megállapodás is lehet. Ha a hozzájárulás megadására feljogosított személy vagy szerv a hozzájárulás megadásáról neki felróhatóan vagy az érdekkörében felmerült egyéb okból határidőn belül nem nyilatkozik, a hozzájárulást a kérelemben foglaltaknak megfelelően megadottnak kell tekinteni.
 
 (4b) A magyar állam tulajdonában álló ingatlanok igénybevétele vonatkozásában – ha van az ingatlan-nyilvántartásba bejegyzett vagyonkezelő – elegendő a vagyonkezelő hozzájárulása, a tulajdonos vagy tulajdonosi joggyakorló hozzájárulása nem szükséges.
 
-(4c) Amennyiben az elektronikus hírközlési építmény elhelyezése közút, vasúti pálya, folyóvíz vagy csatorna területét érinti, a közút, vasúti pálya, folyóvíz, csatorna vagyonkezelője, ennek hiányában tulajdonosa köteles – ha jogszabály ennél rövidebb határidőt nem állapít meg – az elektronikus hírközlési szolgáltató megkeresését követő 45 napon belül megállapodást kötni.
+(4c) Ha az elektronikus hírközlési építmény elhelyezése vasúti pálya, folyóvíz vagy csatorna területét érinti, a vasúti pálya, folyóvíz, csatorna vagyonkezelője, ennek hiányában tulajdonosa köteles – ha jogszabály ennél rövidebb határidőt nem állapít meg – az elektronikus hírközlési szolgáltató megkeresését követő 45 napon belül megállapodást kötni. Ha a vagyonkezelő, ennek hiányában a tulajdonos a hozzájárulás megadásáról neki felróhatóan vagy az érdekkörében felmerült egyéb okból határidőn belül nem nyilatkozik, a vagyonkezelő vagy a tulajdonos a kérelemben foglaltak szerinti feltételekkel köteles tűrni az elhelyezést.
+
+(4d) A tulajdonosi hozzájárulás a szolgalmi vagy más használati jogokkal azonos jogosultságokat és kötelezettségeket keletkeztet. A tulajdonosi hozzájárulás nem vonható vissza.
 
 (5) A Hatóság honlapján keresztül biztosítja, hogy a használati jogokkal összefüggő jogosultságokra, feltételekre, eljárásokra, díjakra és döntésekre vonatkozó minden lényeges információhoz az érdekeltek hozzáférhessenek. A közzétett információkat a Hatóság rendszeresen felülvizsgálja.
 
 (6) A helyi önkormányzatot a tulajdonában álló közterületen található elektronikus hírközlési építményen – a 90. § megfelelő alkalmazásával – ingyenes használati jog illeti meg az olyan közbiztonsági, bűnmegelőzési, illetve bűnüldözési célt szolgáló eszköz, illetve az eszköz elektronikus hírközlő hálózati ellátását biztosító nem nyilvános elektronikus hírközlő hálózat elemeinek elhelyezésével összefüggésben, amelyek gazdasági célt közvetve sem szolgálnak. Az ingyenes használat joga a fővárosi közterületeken található elektronikus hírközlési építményekkel összefüggésben mind a fővárosi, mind a kerületi önkormányzatot megilleti, függetlenül attól, hogy melyik önkormányzat a közterület tulajdonosa. A használattal összefüggő műszaki feltételeket az elektronikus hírközlési építmény tulajdonosa, használója és a helyi önkormányzat közötti megállapodásban kell meghatározni. A megállapodásra az e törvény felhatalmazása alapján kiadott, az elektronikus hírközlési építmények elhelyezéséről szóló elnöki rendelet rendelkezéseit alkalmazni kell.
 
-94/A. § (1) A fizikai infrastruktúra 94. § (2a) bekezdés szerinti felhasználása érdekében létrejött megállapodás esetén a Hatóság az elektronikus hírközlési szolgáltató javára a meglévő fizikai infrastruktúra elhelyezését biztosító érintett ingatlanra vonatkozóan hatósági határozattal, kártalanítás ellenében szolgalmi vagy más használati jogot létesíthet, ha az ingatlan használatát az lényegesen nem akadályozza.
+94/A. § (1) A fizikai infrastruktúra 94. § (2a) bekezdés szerinti felhasználása érdekében létrejött megállapodás esetén a Hatóság az elektronikus hírközlési szolgáltató javára a meglévő fizikai infrastruktúra elhelyezését biztosító érintett ingatlanra vonatkozóan hatósági határozattal, kártalanítás ellenében szolgalmi vagy más használati jogot létesíthet. Ezen eljárásban ellenkező bizonyításig vélelmezni kell, hogy a szolgalmi vagy más használati jog az ingatlan használatát lényegesen nem korlátozza. Ha az érintett ingatlanok nagy száma indokolja, a Hatóság a szolgalmi vagy más használati jogot több érintett ingatlanra vonatkozóan egy hatósági határozattal is létesíthet.
 
 (2) Az elektronikus hírközlési szolgáltató az (1) bekezdés szerinti szolgalmi vagy más használati jog alapján az idegen ingatlanon
 
 - a) elektronikus hírközlési építményt helyezhet el és üzemeltethet,
 - b) az elhelyezett építményeket karbantarthatja, kijavíthatja, átalakíthatja és eltávolíthatja.
 
-(3) A Hatóság nem alapít szolgalmat vagy más használati jogot, amennyiben a fizikai infrastruktúra közterületet, közutat, vasúti pályát, folyóvizet, vagy csatornák területét érinti. Az ilyen területek igénybevételére a 94. § (4a) és (4c) bekezdése megfelelően alkalmazandó.
+(3) A Hatóság nem alapít szolgalmat vagy más használati jogot, amennyiben a fizikai infrastruktúra közterületet, vasúti pályát, folyóvizet, vagy csatornák területét érinti. Az ilyen területek igénybevételére a 94. § (4a) és (4c) bekezdése megfelelően alkalmazandó.
 
 (4) Az (1) és (2) bekezdést nem kell alkalmazni, amennyiben az ingatlan felhasználására az érintett ingatlan tulajdonosával kötött megállapodás alapján kerül sor.
+
+(5) A Hatóság (1) bekezdés szerinti határozata elleni fellebbezésnek a határozat végrehajthatóságára nincs halasztó hatálya.
+
+(6) Ha az (1) bekezdés szerinti eljárás jelentős számú ügyfelet érint, akkor – az eljárás során a személyesen az ügyfélnek szóló végzések kivételével – a hatóság a döntését az ügyféllel hirdetményi úton közli. A Hatóság az ügyfelet a döntés szövegéről a hirdetmény kifüggesztésével egyidejűleg az adott ügyfajtára vonatkozó egyéb kapcsolattartási forma használatával is tájékoztatja. A közlés jogkövetkezményei a hirdetményi úton történő közléshez kapcsolódóan állnak be. A döntés közlésének napja a hirdetmény kifüggesztését követő 5. nap.
 
 95. § (1) Ha a nyilvánosan elérhető elektronikus hírközlési szolgáltatás biztosítása érdekében az elektronikus hírközlési építmény elhelyezésére közterületen, meglévő elektronikus hírközlési építmények közös eszközhasználatával vagy a 94. § (2a) bekezdése szerinti fizikai infrastruktúra felhasználásával nincs lehetőség, az elektronikus hírközlési szolgáltató állami vagy helyi önkormányzati tulajdonban, vagy a magántulajdonban álló ingatlan tulajdonosánál kezdeményezheti az elektronikus hírközlési építmény létesítésére irányuló megállapodás megkötését. Amennyiben ezen megállapodás 30 nap alatt nem jön létre, az elektronikus hírközlési építmény e § szerinti eljárásban állami vagy helyi önkormányzati tulajdonban vagy magántulajdonban álló ingatlanon is elhelyezhető. A 94/A. § (3) bekezdése megfelelően irányadó ez esetben is.
 
@@ -1838,7 +1870,7 @@ A megállapodás létesítésére vonatkozó ajánlatnak tartalmaznia kell
 
 (6) A Hatóság (5) bekezdés szerinti határozata elleni fellebbezésnek a határozat végrehajthatóságára nincs halasztó hatálya.
 
-(7) A 96. § (1) bekezdés szerinti kártalanítás összegében az elektronikus hírközlési szolgáltató és az ingatlantulajdonos állapodik meg. Megállapodás hiányában, valamint a szolgalmi vagy más használati jog 94/A. § szerinti alapítása esetén a szolgalmi vagy más használati jogot alapító határozat jogerőssé válásától számított 15 napon belül az elektronikus hírközlési szolgáltató köteles a – saját költségére készítendő szakvéleményben foglalt – kártalanítási összeget az ingatlantulajdonos részére átadni vagy – ha ez az ingatlantulajdonos érdekkörében felmerült ok miatt nem lehetséges – annak javára a bíróságon kezelt letétekről szóló külön jogszabály rendelkezéseinek megfelelően bírósági letétbe helyezni és arról az ingatlan tulajdonosát hitelt érdemlően igazolható módon értesíteni. Ha a tájékoztatásra az ingatlantulajdonos érdekkörében felmerült ok miatt nem kerül sor, az elektronikus hírközlési szolgáltató köteles erről a Hatóságot a tájékoztatást kizáró ok igazolásával egyidejűleg tájékoztatni.
+(7) A 96. § (1) bekezdés szerinti kártalanítás összegében az elektronikus hírközlési szolgáltató és az ingatlantulajdonos állapodik meg. Megállapodás hiányában, valamint a szolgalmi vagy más használati jog 94/A. § szerinti alapítása esetén a szolgalmi vagy más használati jogot alapító határozat jogerőssé válásától számított 15 napon belül az elektronikus hírközlési szolgáltató köteles a – saját költségére készítendő szakvéleményben foglalt – kártalanítási összeget az ingatlantulajdonos részére átadni vagy – ha ez az ingatlantulajdonos érdekkörében felmerült ok miatt nem lehetséges, vagy más körülmény, különösen az érintett ingatlantulajdonosok jelentős száma miatt a kártalanítás átadása rendkívüli nehézséggel vagy számottevő késedelemmel járna – annak javára a bíróságon kezelt letétekről szóló miniszteri rendelet rendelkezéseinek megfelelően bírósági letétbe helyezni, és arról az ingatlan tulajdonosát hitelt érdemlően igazolható módon értesíteni. Ha a tájékoztatásra az ingatlantulajdonos érdekkörében felmerült ok miatt nem kerül sor, az elektronikus hírközlési szolgáltató köteles erről a Hatóságot a tájékoztatást kizáró ok igazolásával egyidejűleg tájékoztatni.
 
 (8) Ha a bírósági letétbe helyezést a kártalanítási összeg mértéke nem teszi lehetővé, úgy az elektronikus hírközlési szolgáltató a Hatóságnak igazolja az összeg rendelkezésre állását.
 
@@ -2995,6 +3027,12 @@ tekinthetnek be.
 
 (7) A Hatóság ajánlást adhat ki az e § szerinti hozzáférhetetlenné tételi kötelezettség teljesítésének módjára vonatkozó legjobb gyakorlatokról, illetve felhasználói segítséget nyújt a bíróság, a hozzáférést biztosító elektronikus hírközlési szolgáltatók és a kereső- és gyorsítótár-szolgáltatók számára a KEHTA kezeléséhez.
 
+### A Hatóság és az elektronikus hírközlési szolgáltatók közreműködése egyes gyermekpornográf tartalmak hozzáférhetetlenné tételében
+
+159/D. § (1) A hozzáférést biztosító elektronikus hírközlési szolgáltatók és a kereső- és gyorsítótár-szolgáltatók jogosultak a Nemzetközi Bűnügyi Rendőrség Szervezete (INTERPOL) által fenntartott, a gyermekpornográf felvételek elérhetetlenné tételét szolgáló listán szereplő elektronikus adatok hozzáférhetetlenné tételére.
+
+(2) A 159/C. § (5) bekezdésében hivatkozott technikai segítségnyújtó rendszerhez csatlakozott hozzáférést biztosító elektronikus hírközlési szolgáltatók és kereső- és gyorsítótár-szolgáltatók részére – erre irányuló igény esetén, a 159/C. § (5) bekezdésében foglalt közigazgatási szerződésben meghatározott módon és feltételekkel – a Hatóság a technikai segítségnyújtó rendszer útján elérhetetlenné teszi az (1) bekezdésben nevesített listán szereplő elektronikus adatokat.
+
 ### Az előfizetői listák, az előfizetői névjegyzékek,címtárak
 
 160. § (1) A szolgáltató előfizetői listában tartja nyilván az előfizető azonosításához és az általa igénybe vett szolgáltatáshoz szükséges azon adatokat, amelynek a szolgáltató általi adatkezelését e törvény vagy külön jogszabály lehetővé teszi.
@@ -3240,7 +3278,10 @@ kell érteni.
 - b) a Közösségen belüli nyilvános mobiltelefon-hálózatok közötti barangolásról (roaming), valamint a 2002/21/EK irányelv módosításáról szóló, 2007. június 27-i 717/2007/EK európai parlamenti és tanácsi rendelet,
 - c) az Európai Elektronikus Hírközlési Szabályozók Testületének (BEREC) és Hivatalának létrehozásáról szóló, az Európai Parlament és a Tanács 1211/2009/EK rendelete (2009. november 25.)
 - d) short ügyletekről és a hitel-nemteljesítési csereügyletekkel kapcsolatos egyes szempontokról szóló 236/2012/EU európai parlamenti és tanácsi rendelet
-- e) egy többéves rádióspektrum-politikai program létrehozásáról szóló 2012. március 14-ei 243/2012/EU parlamenti és bizottsági határozat 5. cikke
+- e) egy többéves rádióspektrum-politikai program létrehozásáról szóló 2012. március 14-ei 243/2012/EU parlamenti és bizottsági határozat 5. cikke,
+- f) az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet
+- g) az Unión belüli nyilvános mobilhírközlő hálózatok közötti barangolásról (roaming) szóló, 2012. június 13-i 531/2012/EU európai parlamenti és tanácsi rendelet 6c. cikke,
+- h) a méltányos használatra vonatkozó feltételek alkalmazására és a kiskereskedelmi barangolási többletdíjak eltörlése fenntarthatóságának értékelési módszertanára, valamint a barangolásszolgáltatók által az értékelés céljából benyújtandó kérelemre vonatkozó részletes szabályok megállapításáról szóló 2016. december 15-i 2016/2286 (EU) bizottsági végrehajtási rendelet 10. cikke
 
 végrehajtásához szükséges rendelkezéseket állapítja meg.
 
@@ -3277,6 +3318,7 @@ való megfelelést szolgálja.
 - 5.
 - 5/a. Átviteli rendszer: a televízió vagy rádió műsorjeleknek az analóg vagy digitális műsorterjesztését szolgáló műszaki eljárások, elektronikus hírközlési és más eszközök rendszere, amely a műsorterjesztés alkalmazott átviteli közegéhez – így különösen a levegőhöz és rádiófrekvenciához, koaxiális vezetékhez, sodrott érpárú vezetékhez, üvegszálas vezetékhez – kapcsolódik.
 - 6. Barangolás mobil rádiótávközlő hálózaton: mobil rádiótelefon hálózat üzemeltetőjének előfizetője által más mobil rádiótelefon szolgáltató vagy üzemeltető hálózatának igénybevétele oly módon, hogy az előfizető a részére előfizetői hozzáférést nyújtó elektronikus hírközlési szolgáltató hálózatában használt alap-, illetve a műszaki lehetőségek figyelembevételével további szolgáltatásokat és hívási módokat részben vagy egészben az igénybe vett hálózaton is használni tudja, anélkül, hogy ezen szolgáltató előfizetőjévé válna. 6/A. Belföldi forgalomba hozatal: Magyarországon első alkalommal történő forgalmazás.
+- 6b. Barangolásszolgáltató: az Unión belüli nyilvános mobilhírközlő hálózatok közötti barangolásról (roaming) szóló, 2012. június 13-i 531/2012/EU európai parlamenti és tanácsi rendelet 2. cikk (2) bekezdés a) pontjában meghatározott vállalkozás.
 - 7. Belföldi hívás: minden olyan hívás, amelyet belföldön kezdeményeznek, és belföldön végződik.
 - 8.
 - 9. Bitfolyam hozzáférés: kétirányú, adott nagysebességű digitális hálózati szolgáltatás, amelynek során aktív hálózati eszközeinek átviteli kapacitását engedi át, illetve osztja meg az arra kötelezett szolgáltató az arra jogosult szolgáltatóval.
@@ -3362,6 +3404,7 @@ való megfelelést szolgálja.
 - 64/a. Kis és középvállalkozás: a kis és középvállalkozások támogatásáról szóló törvényben ekként meghatározott vállalkozások.
 - 65. Kizárólagos jogok: egyetlen vállalkozásnak jogszabályban vagy közigazgatási határozatban biztosított olyan jog, amely alapján kizárólag az ilyen joggal rendelkező vállalkozás végezheti az adott tevékenységet egy adott földrajzi területen belül.
 - 66. Közös eszközhasználat: az elektronikus hírközlési építmények, valamint az elektronikus hírközlő eszközök, így többek között az információs rendszerek közös használata. A helymegosztás a közös eszközhasználat különös formája.
+- 66a. Közterület: közhasználatra szolgáló minden állami vagy önkormányzati tulajdonban álló földrészlet, ideértve különösen az ingatlan-nyilvántartásban közterületként, közútként, kerékpárútként, járdaként, gyalogútként, útpadkaként, útárokként, zöldsávként, parkolóként, zöldterületként, térként, parkként nyilvántartott ingatlanokat.
 - 67. Közvetítő szolgáltató: azon elektronikus hírközlési szolgáltató, amely az előfizetői hozzáférést nyújtó szolgáltatóval kötött hálózati szerződése vagy az előfizetői hozzáférést nyújtó szolgáltatóval kötött hálózati szerződéses jogviszonyban álló harmadik elektronikus hírközlési szolgáltatóval kötött megállapodása alapján biztosítja az előfizető választása szerinti esetekben a hívott előfizető vagy szolgáltatás elérést.
 - 68. Közvetítőválasztás: az elektronikus hírközlési szolgáltató előfizetőjének az a lehetősége, hogy a hívott előfizető vagy szolgáltatás eléréséhez megválassza a közvetítő szolgáltatót, amely az előfizetői hozzáférést nyújtó szolgáltatóval összekapcsoláson keresztül nyilvánosan elérhető telefonszolgáltatást nyújt.
 - 69. Közzététel: e törvény által a Hatóság számára közzétenni rendelt információ hozzáférhetővé tétele a Hatóság internetes oldalain haladéktalanul. A közzététel időpontja az információ Hatóság internetes oldalain történő hozzáférhetővé tételének időpontja.

@@ -159,6 +159,8 @@ azon személyes adatait, amelyeket az e célból a bűnügyi nyilvántartó szer
 
 (7) A nyilvántartásból adatok a nyilvántartásba vett személy, a gyámhatóság, továbbá tudományos, statisztikai feldolgozást végzők részére – az adatvédelmi jogszabályok megtartásával – továbbíthatók.
 
+(8) A nyilvántartásban kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+
 10. § (1) A hivatásos támogató a gyámhatóság kirendelő határozatában meghatározottaknak megfelelően, a felügyeletét ellátó gyámhatósággal együttműködve, a támogatott személy érdekében, döntéseinek, véleményének tiszteletben tartásával segíti a támogatott személyt a döntései meghozatalában. A hivatásos támogató feladataira a 4. §-ban foglaltak irányadóak.
 
 (2) A hivatásos támogató évente jelentést készít a tevékenységének felügyeletére jogosult gyámhatóság számára, amelyben beszámol a támogatott személy részére nyújtott segítségről, megjelölve, hogy milyen eljárásokban és jognyilatkozatok megtételében működött közre. A hivatásos támogató a jelentését minden évben annak a hónapnak a 15. napjáig nyújtja be a gyámhatósághoz, amelyik hónapban a kirendeléséről szóló határozatot meghozták.
@@ -192,6 +194,8 @@ azon személyes adatait, amelyeket az e célból a bűnügyi nyilvántartó szer
 
 (7) A nyilvántartásban kezelt adatok statisztikai, valamint tudományos kutatási célra – személyazonosításra alkalmatlan módon – átadhatók és felhasználhatók.
 
+(7a) A nyilvántartásban kezelt adatokat a Központi Statisztikai Hivatal részére statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók.
+
 (8) A nyilvántartás adatait a gyámhatóság a támogatott döntéshozatal megszűnésétől számított öt évig kezeli, majd haladéktalanul gondoskodik azok törléséről.
 
 #### 8. Záró rendelkezések
@@ -207,4 +211,4 @@ azon személyes adatait, amelyeket az e célból a bűnügyi nyilvántartó szer
 
 (2) Az 1–8. §, a 9. § (2)–(7) bekezdése, a 10. és 11. §, a 12. § (1) bekezdése, valamint a 14. § 2014. március 15-én lép hatályba.
 
-#### 14. §
+14. § Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.

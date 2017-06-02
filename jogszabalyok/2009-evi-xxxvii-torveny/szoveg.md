@@ -689,6 +689,8 @@ lehet.
 - a) a turistaútvonal nyomvonalát legalább 5 m pontossággal; valamint
 - b) a turistaútvonal jelzését.
 
+39/B. § Az Adattárban kezelt adatokat a miniszter a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen átadja és azokat a Központi Statisztikai Hivatal által statisztikai célra felhasználhatja. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+
 ### Az erdőterv
 
 40. § (1) A körzeti erdőterv alapján az erdőgazdálkodó jogait és kötelezettségeit az erdészeti hatóság erdőterv határozatban (a továbbiakban: erdőterv), hivatalból állapítja meg.
@@ -1681,6 +1683,8 @@ rendelkezéseit is alkalmazza.
 
 (5) Az erdészeti hatóság a (3) bekezdésben meghatározott jogosultak (3) bekezdés a) és b) pontja szerinti, a tulajdoni lapon szereplő személyes adatait – az ingatlan-nyilvántartásról szóló jogszabályokban meghatározott formában és módon – jogosult az ingatlanügyi hatóságtól átvenni.
 
+(5a) Az erdészeti hatóság által vezetett közhiteles hatósági nyilvántartásokban kezelt adatokat a Központi Statisztikai Hivatal részére – a Stt. 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+
 (6) Az erdészeti hatóság jogosult
 
 - a) a személyiadat- és lakcímnyilvántartásból a nyilvántartott természetes személy erdőgazdálkodó természetes személyazonosító adataira, lakcímére, külföldön történő letelepedésére, elhalálozására;
@@ -1923,6 +1927,7 @@ vonatkozó adat igénylésére.
 - b) a fát és fatermékeket piaci forgalomba bocsátó piaci szereplők kötelezettségeinek meghatározásáról szóló, 995/2010/EU európai parlamenti és tanácsi rendeletben foglalt ellenőrző szervezetek elismerésére és az elismerés visszavonására vonatkozó eljárási szabályokról szóló, 363/2012/EU felhatalmazáson alapuló bizottsági rendelet
 - c) a fát és fatermékeket piaci forgalomba bocsátó piaci szereplők kötelezettségeinek meghatározásáról szóló 995/2010 európai parlamenti és tanácsi rendelet által előírt, a kellő gondosság elvén alapuló rendszerre, valamint az ellenőrző szervezetek felett végzendő ellenőrzések gyakoriságára és jellegére vonatkozó részletes szabályokról szóló, 607/2012/EU felhatalmazáson alapuló bizottsági rendelet, valamint
 - d) az idegenhonos inváziós fajok betelepítésének vagy behurcolásának és terjedésének megelőzéséről és kezelésről szóló, 2014. október 22-i, 1143/2014/EU európai parlamenti és tanácsi rendelet
+- e) az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
