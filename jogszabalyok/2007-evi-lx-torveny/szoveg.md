@@ -64,7 +64,7 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 (4) Az állami meteorológiai szolgálat e törvény végrehajtására kiadott jogszabályban meghatározott mértékű bírság megfizetésére kötelezheti a (2) bekezdésben meghatározott adatszolgáltatásra kötelezett szervezetet, amennyiben az a (2) bekezdésben meghatározott kötelezettségének részben vagy egészben nem tesz eleget. A bírság összegét az állami meteorológiai szolgálat az eset összes körülményére – így különösen a jogsértés súlyára, céljára, időtartamára, a jogsértő magatartás ismételt tanúsítására – tekintettel határozza meg.
 
-(5) A (2) bekezdésben meghatározott, a nemzetközi adatszolgáltatás teljesítéséhez szükséges adatokat abban az esetben is kötelező a Nemzeti Nyilvántartási Rendszer rendelkezésére bocsátani, amennyiben azok a statisztikáról szóló 1993. évi XLVI. törvény vonatkozó rendelkezése szerint egyedi adatnak minősülnek.
+(5) A (2) bekezdésben meghatározott, a nemzetközi adatszolgáltatás teljesítéséhez szükséges adatokat abban az esetben is kötelező a Nemzeti Nyilvántartási Rendszer rendelkezésére bocsátani, amennyiben azok a hivatalos statisztikát szabályozó törvény vonatkozó rendelkezései szerint egyedi adatnak minősülnek.
 
 ### Forgalmi jegyzék
 
@@ -305,6 +305,8 @@ A fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységek és az 
 
 (3) A (2) bekezdés szerinti adatok statisztikai célra felhasználhatók és statisztikai célra – személyazonosításra alkalmatlan módon – átadhatók.
 
+(3a) A (2) bekezdés szerinti adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+
 (4) A klímavédelemért felelős hatóság az F-Gáz ügyfélazonosítóval rendelkező ügyfelek számára biztosítja az elektronikus kapcsolattartást és ügyintézést, amelynek részletes szabályait miniszteri rendelet állapítja meg.
 
 (5) Az adatbázisban tárolt, F-Gáz ügyfélazonosítóhoz tartozó személyes adatokat a tevékenység megszűnését vagy megszüntetését követő 5 év elteltével törölni kell.
@@ -492,6 +494,7 @@ való megfelelést szolgálja.
 - a) a 2003/87/EK európai parlamenti és tanácsi irányelv, valamint a 280/2004/EK és a 406/2009/EK európai parlamenti és tanácsi határozat szerinti uniós kibocsátásiegység-forgalmi jegyzék létrehozásáról, továbbá a 920/2010/EU és az 1193/2011/EU bizottsági rendelet hatályon kívül helyezéséről szóló, 2013. május 2-i 389/2013/EU bizottsági rendelet, és
 - b) az üvegházhatást okozó gázok kibocsátásának nyomon követésére és bejelentésére, valamint az éghajlatváltozással kapcsolatos egyéb információk nemzeti és uniós szintű bejelentésére szolgáló rendszerről, valamint a 280/2004/EK határozat hatályon kívül helyezéséről szóló, 2013. május 21-i 525/2013/EU európai parlamenti és tanácsi rendelet
 - c) a fluortartalmú üvegházhatású gázokról és a 842/2006/EK rendelet hatályon kívül helyezéséről szóló, 2014. április 16-i 517/2014/EU európai parlamenti és tanácsi rendelet,
-- d) az 517/2014/EU európai parlamenti és tanácsi rendelet alapján a fluortartalmú üvegházhatású gázokat tartalmazó, helyhez kötött hűtő-, légkondicionáló és hőszivattyú-berendezések, valamint a hűtőkamionok és -pótkocsik fluortartalmú üvegházhatású gázokat tartalmazó hűtőegységei tekintetében a természetes személyek képesítésére, valamint a fluortartalmú üvegházhatású gázokat tartalmazó, helyhez kötött hűtő-, légkondicionáló és hőszivattyú-berendezések tekintetében a vállalatok képesítésére vonatkozó minimumkövetelmények és kölcsönös elismerési feltételek meghatározásáról, 2015. november 17-ei 2015/2067 bizottsági végrehajtási rendelet
+- d) az 517/2014/EU európai parlamenti és tanácsi rendelet alapján a fluortartalmú üvegházhatású gázokat tartalmazó, helyhez kötött hűtő-, légkondicionáló és hőszivattyú-berendezések, valamint a hűtőkamionok és -pótkocsik fluortartalmú üvegházhatású gázokat tartalmazó hűtőegységei tekintetében a természetes személyek képesítésére, valamint a fluortartalmú üvegházhatású gázokat tartalmazó, helyhez kötött hűtő-, légkondicionáló és hőszivattyú-berendezések tekintetében a vállalatok képesítésére vonatkozó minimumkövetelmények és kölcsönös elismerési feltételek meghatározásáról, 2015. november 17-ei 2015/2067 bizottsági végrehajtási rendelet,
+- e) az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.

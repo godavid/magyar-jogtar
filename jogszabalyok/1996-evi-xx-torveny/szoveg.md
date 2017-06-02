@@ -256,7 +256,8 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 - l) a mezőgazdasági igazgatási szerv a mezőgazdasági és vidékfejlesztési támogatások folyósításával, nyilvántartásával és ellenőrzésével;
 - m) az élelmiszerlánc-felügyeleti szerv az élelmiszerláncról és hatósági felügyeletéről szóló törvény szerinti felügyeleti díj bevallásának, illetve megfizetésének ellenőrzésével, továbbá az élelmiszerlánc szereplőinek nyilvántartásával összefüggésben;
 - n) a mezőgazdasági igazgatási szerv a föld tulajdonjoga vagy a földhasználati jogosultság megszerzésének a hatósági jóváhagyásával, a szerzési korlátozások hatósági ellenőrzésével, továbbá a földművesek és a mezőgazdasági termelőszervezetek nyilvántartásba vételével kapcsolatos eljárással összefüggésben;
-- o) az ügyfél ügyintézési rendelkezési nyilvántartását vezető szerv az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvénnyel szabályozott, a rendelkezési nyilvántartással kapcsolatos feladatai ellátásával összefüggésben.
+- o) az ügyfél ügyintézési rendelkezési nyilvántartását vezető szerv az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvénnyel szabályozott, a rendelkezési nyilvántartással kapcsolatos feladatai ellátásával összefüggésben;
+- p) a Központi Statisztikai Hivatal statisztikai célra.
 
 ### IV. Fejezet — A TAJ szám és annak használata
 
@@ -307,7 +308,8 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 - k) az Elektronikus Egészségügyi Szolgáltatási Tér működtetője az Egészségügyi Szolgáltatási Tér útján történt adatkezelések jogszerűségének ellenőrzése, az érintett tájékoztatása, az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény (a továbbiakban: Eüak.) 35/F. §-a, 35/J. és 35/K. §-a, valamint 35/M. §-a szerinti szolgáltatások működtetése céljából,
 - l) az Eüak. 35/H. §-a szerinti elektronikus önrendelkezési nyilvántartást vezető szerv az érintettek önrendelkezési nyilatkozatainak érvényesítése és nyilvántartása céljából,
 - m) az Eüak. 35/L. §-a szerinti elektronikus betegségregiszterek kapcsolati kódjának képzése és nyilvántartása céljából,
-- n) a családtámogatási kifizetőhely a családtámogatási ellátások megállapításával és ellenőrzésével, a jogosulatlanul igénybe vett összeg visszakövetelésével összefüggésben, valamint a törvényben meghatározott nyilvántartási és adatszolgáltatási kötelezettségének teljesítése során.
+- n) a családtámogatási kifizetőhely a családtámogatási ellátások megállapításával és ellenőrzésével, a jogosulatlanul igénybe vett összeg visszakövetelésével összefüggésben, valamint a törvényben meghatározott nyilvántartási és adatszolgáltatási kötelezettségének teljesítése során;
+- o) a Központi Statisztikai Hivatal statisztikai célra.
 
 24. § A TAJ szám továbbítására jogosultak:
 
@@ -376,7 +378,8 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 - s) a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló törvényben meghatározott földhasználati összesítő igénylése céljából az ingatlanügyi hatóság, az ügyész, a mezőgazdasági igazgatási szerv, valamint a mezőgazdasági és vidékfejlesztési támogatási szerv;
 - t) a mezőgazdasági igazgatási szerv a földművesek, a mezőgazdasági termelőszervezetek, valamint a mezőgazdasági üzemközpontok nyilvántartásának vezetéséhez belső azonosítóként, törvényben meghatározottak szerint a polgár azonosításához;
 - u) a gondnokoltak nyilvántartását és az előzetes jognyilatkozatok nyilvántartását vezető szerv a nyilvántartás vezetéséhez.
-- v) az ügyfél ügyintézési rendelkezési nyilvántartását vezető szerv az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvénnyel szabályozott, a rendelkezési nyilvántartással kapcsolatos feladatai ellátásával összefüggésben.
+- v) az ügyfél ügyintézési rendelkezési nyilvántartását vezető szerv az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvénnyel szabályozott, a rendelkezési nyilvántartással kapcsolatos feladatai ellátásával összefüggésben;
+- w) a Központi Statisztikai Hivatal statisztikai célra.
 
 33. § (1) A polgár a személyi azonosítóját – személyazonosságának hitelt érdemlő igazolása mellett – a 32. §-ban felsorolt szerveknek az ott megjelölt feladataik ellátásához köteles megismerhetővé tenni.
 
@@ -515,6 +518,8 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 (7) A 10/A. § (2) bekezdés c)–d) pontjában felsorolt azonosítókat kezelő szervek a (3) bekezdés szerinti adatállományt a személyiadat- és lakcímnyilvántartás adatkezelője által az ágazati kapcsolati kóddal kiegészítve adják át az összerendelési nyilvántartást vezető szervnek.
 
 (8) Az összerendelési nyilvántartást vezető szerv az összerendelési bejegyzés létrehozását, illetve a (2)–(3), (5) és (7) bekezdés szerinti adatállomány felhasználásával az összerendelési kapcsolati kód titkosított változatának összerendelési bejegyzéshez történt sikeres vagy sikertelen illesztését követően haladéktalanul törli az átvett adatokat.
+
+47. § Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### 1. számú melléklet az 1996. évi XX. törvényhez
 

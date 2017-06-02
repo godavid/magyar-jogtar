@@ -914,7 +914,9 @@ tarthatók nyilván.
 
 (3) A bíróság, az ügyészség, a bűnüldözés és a büntetés-végrehajtás szervei, a nemzetbiztonsági szolgálatok, valamint az adóhatóság, a Központi Statisztikai Hivatal, a műszaki biztonsági, az egészségügyi igazgatási feladatokat ellátó szervek, az élelmiszerlánc-felügyeleti szerv és a talajvédelmi hatóság, az ingatlanügyi hatóság, a vízügyi és vízvédelmi hatóságok és igazgatási szervek, valamint a katasztrófavédelmi szervek feladataik ellátása érdekében – a rájuk vonatkozó törvényekben meghatározott célból és feltételek teljesülése esetén – jogosultak a nyilvántartásba felvett adatok igénylésére a feladataik ellátásához szükséges mértékben.
 
-(4) A (2) bekezdés szerinti adatok statisztikai illetőleg tájékoztatási célra felhasználhatók és statisztikai illetőleg tájékoztatási célú felhasználásra – személyazonosításra alkalmatlan módon – átadhatók.
+(4) A (2) bekezdés szerinti adatok statisztikai, illetőleg tájékoztatási célra felhasználhatók és statisztikai, illetőleg tájékoztatási célú felhasználásra – a (4a) bekezdésben foglalt kivétellel – személyazonosításra alkalmatlan módon átadhatók.
+
+(4a) Az (1) és (2) bekezdésben szereplő adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
 (5) Természetes személyek ügyfél-azonosítójához tartozó személyes adatokat a természetes személy ügyféli minőségének megszűnését követő 5 év elteltével törölni kell.
 
@@ -1586,3 +1588,5 @@ szakkérdéseket.
 - j) az Európai Parlament és a Tanács 2007/2/EK irányelve (2007. március 14.) az Európai Közösségen belüli térinformációs infrastruktúra (INSPIRE) kialakításáról 1. cikkének (2) bekezdése, 3. cikkének 2–4. és 6–10. pontja, 4. cikkének (1) bekezdése, 11. cikkének (1) bekezdése, 13. cikkének (1)–(2) bekezdése, 14. cikkének (1)–(2) és (4) bekezdése, valamint 15. cikkének (2) bekezdése.
 
 112. § E törvény 9. §-a és a 101–102. §-a az ásványinyersanyag-kitermelő iparban keletkező hulladék kezeléséről és a 2004/35/EK irányelv módosításáról szóló 2006. március 15-i 2006/21/EK európai parlamenti és a tanács irányelv 15. cikkének való megfelelést szolgálja.
+
+113. § Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.

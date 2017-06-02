@@ -979,6 +979,8 @@ szerinti adatok igénylésére jogosult.
 
 (8) A (2) bekezdés szerinti adatok statisztikai célra felhasználhatók és statisztikai célú felhasználásra – személyazonosításra alkalmatlan módon átadhatók.
 
+(8a) A (2) bekezdés szerinti adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+
 (9) Az (1) bekezdésben meghatározott szervek kötelesek adatvédelmi szabályzatot kiadni.
 
 (10) Az e törvény szerinti eljárások során az uniós rendeletek szerinti hozzáférési pontot működtető egészségügyért felelős miniszter az uniós rendeletek szerinti célból, az ahhoz szükséges mértékben és ideig kezeli az elektronikus adatcserével érintett, az (1) bekezdés szerinti szervek által e törvény szerint kezelt személyes és különleges adatokat.
@@ -1067,6 +1069,8 @@ szükséges hozzáférést.
 
 (6) Az adatbázisban rögzített adatok személyazonosításra alkalmatlan módon statisztikai célra felhasználhatóak és statisztikai célú felhasználásra átadhatóak.
 
+(7) Az adatbázisban rögzített adatokat a Központi Statisztikai Hivatal részére – a Stt. 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+
 ### Az Európai Szociális Alap által finanszírozott intézkedésekben résztvevő személyek adatbázisa
 
 57/D. § (1) Az állami foglalkoztatási szerv az Európai Szociális Alap által finanszírozott intézkedésekben résztvevőkről az egyéni szintű nyomonkövetés, valamint a támogatások felhasználása ellenőrizhetőségének biztosítása érdekében elektronikus nyilvántartást vezet.
@@ -1102,6 +1106,8 @@ szükséges hozzáférést.
 (3) A (2) bekezdés alapján nyilvántartásba vett adatokba a foglalkoztatáspolitika koordinációjával, a foglalkoztatási és képzési célú programok kidolgozásával, a hazai és nemzetközi források felhasználásával megvalósuló fejlesztési programok kezdeményezésével és megvalósításával összefüggő feladatai ellátása érdekében a foglalkoztatáspolitikáért felelős miniszter, nemzetközi források felhasználásával megvalósuló fejlesztési programok kezdeményezésével és megvalósításával összefüggő feladatai ellátása érdekében a gyermek- és ifjúságpolitikáért felelős miniszter, valamint az uniós támogatások felhasználásának ellenőrzését végző szerv tekinthet be.
 
 (4) Az adatbázisban rögzített adatok statisztikai célra felhasználhatók és statisztikai célú felhasználásra – személyazonosításra alkalmatlan módon – átadhatók.
+
+(4a) Az adatbázisban rögzített adatokat a Központi Statisztikai Hivatal részére – a Stt. 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
 (5) A (2) bekezdés szerinti adatok az Európai Szociális Alapnak a 2014–2020 közötti európai uniós költségvetési időszakban rendelkezésre álló forrásaira vonatkozó elszámolhatósági időszak lezárását követő öt évig kezelhetők.
 
@@ -1243,8 +1249,11 @@ való megfelelést szolgálja.
 
 (2) Ez a törvény
 
-- a) a szociális biztonsági rendszerek koordinálásáról szóló, 2004. április 29-i 883/2004/EK európai parlamenti és tanácsi rendelet,
-- b) a szociális biztonsági rendszerek koordinálásáról szóló 883/2004/EK rendelet végrehajtására vonatkozó eljárás megállapításáról szóló, 2009. szeptember 16-i 987/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+- a) a szociális biztonsági rendszerek koordinálásáról szóló, 2004. április 29-i 883/2004/EK európai parlamenti és tanácsi rendelet;
+- b) a szociális biztonsági rendszerek koordinálásáról szóló 883/2004/EK rendelet végrehajtására vonatkozó eljárás megállapításáról szóló, 2009. szeptember 16-i 987/2009/EK európai parlamenti és tanácsi rendelet;
+- c) az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet
+
+végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 (3) Ez a törvény
 

@@ -289,6 +289,8 @@ meghatározott feltételek vizsgálatát kell érteni.
 
 (6) Az áldozatsegítő szolgálat által vezetett nyilvántartások országos adatbázist alkotnak. Az adatbázis felhasználásával az áldozatsegítő szolgálat évente statisztikai kimutatást készít.
 
+(7) A nyilvántartásban kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni, és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+
 ### Illeték-, díj- és költségmentesség
 
 17. § Az áldozatsegítő eljárások illeték- és díjmentesek. A magyar nyelvet nem ismerő vagy fogyatékossága miatt jelnyelvi tolmácsolásra szoruló ügyfél helyett a fordítás és tolmácsolás költségét a célelőirányzat terhére az áldozatsegítő szolgálat viseli.
@@ -563,6 +565,8 @@ formáiról, a jogosultság feltételeiről, az igénylés módjáról, valamint
 (3) E törvény 24. § (3) bekezdése és 43. § (3) bekezdése a harmadik országok emberkereskedelem áldozatává vált vagy az illegális bevándorlás megkönnyítésére irányuló cselekményektől érintett, a hatáskörrel rendelkező hatóságokkal együttműködő állampolgárai részére kiállított tartózkodási engedélyről szóló, 2004. április 29-i 2004/81/EK tanácsi irányelv 5. és 6. cikkének való megfelelést szolgálja.
 
 (4) E törvény 24. § (2) bekezdése és 46. § (4) bekezdése az emberkereskedelem megelőzéséről, és az ellene folytatott küzdelemről, az áldozatok védelméről, valamint a 2002/629/IB tanácsi kerethatározat felváltásáról szóló 2011. április 5-i 2011/36/EU európai parlamenti és tanácsi irányelv 11. cikkének történő megfelelést szolgálja.
+
+(5) Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 48. § (1)–(6)
 

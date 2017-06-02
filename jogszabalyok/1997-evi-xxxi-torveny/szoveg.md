@@ -3157,6 +3157,8 @@ feltéve, ha – az országos gyermekvédelmi szakértői bizottság véleménye
 
 (6) A nyilvántartásból adatok a nyilvántartásba vett személy, a gyámhatóság, továbbá tudományos, statisztikai feldolgozást végzők részére – az adatvédelmi jogszabályok megtartásával – továbbíthatók.
 
+(7) A nyilvántartásban kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+
 103. § (1) Ha a hivatásos gondnoki feladatok ellátására munkavégzésre irányuló egyéb jogviszony keretében kerül sor, a hivatásos gondnoki feladatokat ellátni kívánó személy a jelentkezéskor hatósági bizonyítvánnyal igazolja, hogy büntetlen előéletű.
 
 (2) Indokolt esetben a hivatásos gondnokot foglalkoztató szerv vezetője (a továbbiakban: vezető) írásban felszólíthatja a hivatásos gondnokot, hogy a felhívástól számított tizenöt munkanapon belül – ha e határidőn belül menthető ok miatt nem lehetséges, annak megszűnését követően haladéktalanul – hatósági bizonyítvánnyal igazolja, hogy büntetlen előéletű.
@@ -3498,6 +3500,8 @@ nyilatkozatban kérheti, hogy az anyakönyv a továbbiakban a vér szerinti szü
 (3) Az adatkezelő szerv biztosítja az adatok védelmét a véletlen vagy szándékos megsemmisítéssel, megsemmisüléssel, megváltoztatással, nyilvánosságra kerüléssel szemben, és azt, hogy azokhoz arra jogosulatlan szerv vagy személy ne férjen hozzá.
 
 (4) E törvény felhatalmazása alapján az adatkezelésre jogosult szerv a kezelt adatokat személyes azonosító adatok nélkül statisztikai célra felhasználhatja, azokból statisztikai célra adatot szolgáltathat.
+
+(4a) A nyilvántartásban kezelt adatokat a Központi Statisztikai Hivatal részére – a Stt. 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
 (5) A hatáskört gyakorló szerv
 
@@ -3948,6 +3952,8 @@ vonatkozó adatokat kezelhet.
 (4) Az egységes örökbefogadási nyilvántartásból való adatszolgáltatás során csak az adatkérés céljának megvalósulásához elengedhetetlenül szükséges adat bocsátható a felvilágosítást kérő rendelkezésére.
 
 (5) A nyilvántartásban kezelt adatok statisztikai, valamint tudományos kutatási célra – személyazonosításra alkalmatlan módon – átadhatók és felhasználhatók.
+
+(5a) A nyilvántartásban kezelt adatokat a Központi Statisztikai Hivatal részére – a Stt. 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
 (6) Az egységes örökbefogadási nyilvántartásból történő adatszolgáltatás térítésmentes.
 
@@ -4585,4 +4591,4 @@ módosítja.
 - c) az Európai Parlament és a Tanács 2004/38/EK irányelve (2004. április 29.) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről, 24. cikk.
 - d) a bűncselekmények áldozatainak jogaira, támogatására és védelmére vonatkozó minimumszabályok megállapításáról és a 2001/220/IB tanácsi kerethatározat felváltásáról szóló, 2012. október 25-i 2012/29/EU európai parlamenti és tanácsi irányelv 6. cikk (5) és (6) bekezdése.
 
-190. § E törvény a munkavállalók Közösségen belüli szabad mozgásáról szóló, 1968. október 15-i 1612/68/EGK tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+190. § Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.

@@ -102,6 +102,8 @@ jogosult. A b) pontban meghatározott személyek között a leszármazási fok h
 
 (2) A 2/C. § a) pontja szerinti nyilvántartásba való bejegyzésre, valamint az onnan való törlésre irányuló eljárás során a praxiskezelő kizárólag okirati bizonyítékot, valamint az ügyfél írásbeli nyilatkozatát használhatja fel.
 
+(3) A 2/C. § a) pontja szerinti nyilvántartásokban kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni, és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+
 3. § (1) Ez a törvény a kihirdetését követő 15. napon lép hatályba.
 
 (2)–(4)
@@ -125,3 +127,5 @@ jogosult. A b) pontban meghatározott személyek között a leszármazási fok h
   - ad) a feladat-ellátási szerződés formai követelményeit rendeletben meghatározza,
   - ae) a praxisjog megszerzéséhez felvett hitelhez, illetve kölcsönhöz az állam által biztosított kamattámogatásra vonatkozó részletes szabályokat meghatározza,
 - b) az egészségügyért felelős miniszter, hogy a praxisjog alapján végzett tevékenység gyakorlásának és ellenőrzésének részletes szakmai szabályait, továbbá a helyettesítésre, a tevékenység végzéséhez szükséges szakképesítésre és az alkalmassági vizsgálatra vonatkozó szabályokat rendeletben meghatározza.
+
+4. § Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.

@@ -388,6 +388,8 @@ látja el (a továbbiakban együtt: útdíj-ellenőrzésre jogosult szervezetek)
 
 (11) Az útdíjszedő és az útdíjszolgáltató – a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott adatszolgáltatás és adatbetekintés kivételével – köteles tájékoztatni az érintett nemzetbiztonsági szolgálatot a szolgálat minősített adatot képező, gépjárműveit érintő adatszolgáltatási megkeresésekről. A tájékoztatás elektronikus megvalósításának módját és eljárásrendjét az útdíjszedő, az útdíjszolgáltató és a felügyeleti szerv közötti együttműködési megállapodásban kell rögzíteni.
 
+(12) Az útdíj szedő által kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+
 27. § Az útdíj vagy az e bevétel értékével megegyező összeg felhasználására vonatkozó adatokat a 13. § (2) bekezdésében meghatározott célok finanszírozását szolgáló költségvetési előirányzat kezelője köteles a honlapján hozzáférhetővé tenni, illetve az e törvény felhatalmazása alapján kiadott rendelet szerint létrehozott Társadalmi Egyeztető Szervezet részére – kérés esetén – megküldeni.
 
 ### VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
@@ -471,7 +473,12 @@ látja el (a továbbiakban együtt: útdíj-ellenőrzésre jogosult szervezetek)
 
 való megfelelést szolgálja.
 
-(2) Ez a törvény az európai elektronikus útdíjszedési szolgáltatás és műszaki elemei meghatározásáról szóló, 2009. október 6-i 2009/750/EK bizottsági határozat végrehajtásához szükséges rendelkezéseket állapít meg.
+(2) Ez a törvény
+
+- a) az európai elektronikus útdíjszedési szolgáltatás és műszaki elemei meghatározásáról szóló, 2009. október 6-i 2009/750/EK bizottsági határozat;
+- b) az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 18. Módosító rendelkezések
 

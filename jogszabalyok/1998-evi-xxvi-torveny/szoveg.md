@@ -303,6 +303,8 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 
 (4a) A nyilvántartást vezető szerv a fogyatékossági támogatással kapcsolatos eljárása során a fogyatékossági támogatást igénylő vagy fogyatékossági támogatásra jogosult személyre vonatkozóan – a fogyatékossági támogatásra való jogosultság elbírálása, illetve a jogosultság fennállásának ellenőrzése céljából – az (1) bekezdés c) pontja szerinti adatot kérhet a polgárok személyi adatait és lakcímét nyilvántartó szervtől és az (1) bekezdés g) pontja szerinti adatot kérhet az Egészségbiztosítási Alap kezeléséért felelős szervtől.
 
+(4b) A nyilvántartást vezető szervek a nyilvántartásban szereplő adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen átadják és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+
 (5) Az e törvény szerinti eljárások során az uniós rendeletek szerinti hozzáférési pontot működtető egészségügyért felelős miniszter az uniós rendeletek szerinti célból, az ahhoz szükséges mértékben és ideig kezeli az elektronikus adatcserével érintett, a nyilvántartást vezető szerv által e törvény szerint kezelt személyes és különleges adatokat.
 
 ### VI. Fejezet — ORSZÁGOS FOGYATÉKOSÜGYI TANÁCS
@@ -373,6 +375,11 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 
 (2) E törvény 15–16. §-ai a foglalkoztatás és a munkavégzés során alkalmazott egyenlő bánásmód általános kereteinek létrehozásáról szóló 2000/78/EK tanácsi irányelv 5. cikkének való megfelelést szolgálják.
 
-(3) Ez a törvény a szociális biztonsági rendszerek koordinálásáról szóló 2004. április 29-i 883/2004/EK európai parlamenti és tanácsi rendelet és a szociális biztonsági rendszerek koordinálásáról szóló 883/2004/EK rendelet végrehajtására vonatkozó eljárás megállapításáról szóló 2009. szeptember 16-i 987/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+(3) Ez a törvény
+
+- a) a szociális biztonsági rendszerek koordinálásáról szóló 2004. április 29-i 883/2004/EK európai parlamenti és tanácsi rendelet és a szociális biztonsági rendszerek koordinálásáról szóló 883/2004/EK rendelet végrehajtására vonatkozó eljárás megállapításáról szóló 2009. szeptember 16-i 987/2009/EK európai parlamenti és tanácsi rendelet;
+- b) az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### Melléklet az 1998. évi XXVI. törvényhez

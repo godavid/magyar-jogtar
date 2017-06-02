@@ -1473,6 +1473,8 @@ biztosítható.
 
 (5) Ha valamely adat szolgáltatása, irat bemutatása bizonyítási indítványhoz kapcsolódik, és a kötelezett fél azt nem vagy nem megfelelően nyújtja be, úgy a bizonyítás sikertelenségét a bizonyítást kérő fél terhére értékelni nem lehet. Ebben az esetben a vasúti igazgatási szerv a rendelkezésre álló bizonyítékok mérlegelésével dönt.
 
+(6) A vasúti igazgatási szerv által kezelt adatokat – a minősített adatok kivételével – a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+
 78. § (1) A bíróság közigazgatási határozat bírósági felülvizsgálata keretében a vasúti igazgatási szerv határozatát megváltoztathatja.
 
 (2) A vasúti igazgatási szervnek a 69. § 6. és 21. pontjában meghatározott tárgykörökben hozott határozatával szemben újrafelvételi kérelem nem nyújtható be.
@@ -2190,7 +2192,8 @@ rendeletben állapítsa meg.
 - d) a tehervagonok karbantartásáért felelős szervezetek tanúsítási rendszeréről és a 653/2007/EK rendelet módosításáról szóló, 2011. május 10-i 445/2011/EU bizottsági rendelet;
 - e) az új vasúti személyszállítási szolgáltatásokról szóló, 2014. augusztus 11-i 869/2014/EU európai bizottsági végrehajtási rendelet;
 - f) a vasúti rendszer Közösségen belüli kölcsönös átjárhatóságáról szóló 2008/57/EK európai parlamenti és tanácsi irányelv 27. cikkének (4) bekezdésében említett referenciadokumentum közzétételéről és kezeléséről szóló, 2011. március 9-i 2011/155/EU bizottsági határozat;
-- g) a 2007/59/EK európai parlamenti és tanácsi irányelvvel összhangban a mozdonyvezetők képzésében részt vevő képzési központok elismerésére, a mozdonyvezetők vizsgáztatóinak elismerésére és a vizsgák szervezésére vonatkozó feltételekről szóló, 2011. november 22-i 2011/765/EU határozat.
+- g) a 2007/59/EK európai parlamenti és tanácsi irányelvvel összhangban a mozdonyvezetők képzésében részt vevő képzési központok elismerésére, a mozdonyvezetők vizsgáztatóinak elismerésére és a vizsgák szervezésére vonatkozó feltételekről szóló, 2011. november 22-i 2011/765/EU határozat;
+- h) az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet.
 
 #### 90. §
 

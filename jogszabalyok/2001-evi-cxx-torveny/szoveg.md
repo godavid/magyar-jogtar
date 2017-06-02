@@ -3265,6 +3265,8 @@ a Magyar Kereskedelmi és Iparkamara mellett működő Állandó Választottbír
 
 (2) A Felügyelet által kezelt adat statisztikai célra – személyazonosításra alkalmatlan módon – felhasználható.
 
+(2a) A Felügyelet az e törvény hatálya alá tartozó tevékenységet végző intézményekről e törvény szerint nyilvántartott adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+
 (3) A Felügyelet feladatának ellátásához más hatóságtól, illetve elektronikus hírközlési szolgáltatótól – a felhasználás céljának megjelölésével – e törvényben meghatározott adatkörben elektronikus adatot vehet át. Az adatátvétel tényét mind az adatátadónál, mind a Felügyeletnél dokumentálni kell.
 
 393. § (1) A Felügyelet gondoskodik az adatkezelés körében a jogosulatlan hozzáférés, közlés, megváltoztatás vagy törlés megelőzéséről, illetőleg megakadályozását biztosító technikai és logikai védelemről.
@@ -4179,5 +4181,6 @@ Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálj
 - 26. A Tanács 2014/107/EU irányelve (2014. december 9.) a 2011/16/EU tanácsi irányelvnek az adózás területére vonatkozó kötelező automatikus információcsere tekintetében történő módosításáról.
 - 27. A piaci visszaélésekről (piaci visszaélésekről szóló rendelet), valamint a 2003/6/EK európai parlamenti és tanácsi irányelv és a 2003/124/EK, a 2003/125/EK és a 2004/72/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 596/2014/EU európai parlamenti és tanácsi rendelet.
 - 28. Az 596/2014/EU európai parlamenti és tanácsi rendelet tényleges vagy lehetséges megsértésének illetékes hatóságoknak történő bejelentéséről szóló, 2015. december 17-i 2015/2392 bizottsági végrehajtási irányelv.
+- 29. Az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet.
 
 ### 26. számú melléklet a 2001. évi CXX. törvényhez

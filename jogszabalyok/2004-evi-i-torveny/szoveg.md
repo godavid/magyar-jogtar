@@ -1809,6 +1809,8 @@ adatokat továbbítja.
 
 (4) A nemzeti sportinformációs rendszer személyes adatokra vonatkozó adattartalmából – ha törvény eltérően nem rendelkezik – adattovábbítás nem teljesíthető.
 
+(5) A nemzeti sportinformációs rendszerben kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+
 76/E. § (1) A sportszervezet adatot szolgáltat a nemzeti sportinformációs rendszerbe a sportszervezettel tagsági, szerződéses vagy tanulói jogviszonyban álló sportolókról. Az adatszolgáltatás a 3. § (3) bekezdés a) pontjában meghatározott személyes adatokra terjed ki.
 
 (2) A sportszövetség a versenyengedélyeket a nemzeti sportinformációs rendszerben tartja nyilván. A sportszövetség ennek keretében adatot szolgáltat a nemzeti sportinformációs rendszer részére az általa kiadott versenyengedélyekről, a versenyengedéllyel rendelkezők versenyeken vagy versenyrendszerben való tényleges részvételéről. Az adatszolgáltatás a 3. § (3) bekezdés a) pontjában meghatározott személyes adatokra is kiterjed.
@@ -1959,6 +1961,8 @@ kezelheti.
 (6) Felhatalmazást kap a sportpolitikáért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a 22. § (5) bekezdésében és az 51. § (3) bekezdésében meghatározott igazgatási szolgáltatási díj mértékét.
 
 80. § Ez a törvény a belső piaci szolgáltatásokról szóló 2006/123/EK irányelvnek való megfelelést szolgálja.
+
+81. § Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### 1. melléklet a 2004. évi I. törvényhez
 

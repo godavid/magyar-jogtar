@@ -107,6 +107,8 @@ az alábbi törvényt alkotja:
 
 (5) Az egészségügyi államigazgatási szerv a (2) bekezdés szerinti engedéllyel rendelkezőkről, valamint a gyógyászati segédeszköz forgalmazási, javítási és kölcsönözési tevékenységre jogosult, a (4) bekezdés szerinti bejelentést tevőkről nyilvántartást vezet. A nyilvántartásból kizárólag a tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 
+(6) A nyilvántartásban kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni, és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+
 ### II. Fejezet — A GYÓGYSZER, GYÓGYÁSZATI SEGÉDESZKÖZ ISMERTETÉSÉRE, VALAMINT A GYÓGYSZERREL, GYÓGYÁSZATI SEGÉDESZKÖZZEL KAPCSOLATOS, FOGYASZÓKKAL SZEMBENI KERESKEDELMI GYAKORLATRA VONATKOZÓ SZABÁLYOK
 
 ### Általános szabályok
@@ -1948,5 +1950,7 @@ lép hatályba.
 - a) az Európai Parlament és a Tanács 2006/2004/EK rendelete (2004. október 27.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről, 4. cikk (1) bekezdés [a 18/B. § (1) bekezdés],
 - b) a Bizottság 2007/76/EK határozata (2006. december 22.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról [a 18/B. § (2) bekezdés],
 - c) a Bizottság 2008/282/EK határozata (2008. március 17.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról szóló 2007/76/EK határozat módosításáról [a 18/B. § (2) bekezdés].
+
+(3) Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 89. §

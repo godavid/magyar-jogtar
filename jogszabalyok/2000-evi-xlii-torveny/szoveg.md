@@ -715,6 +715,8 @@ kezeli.
 
 (3) A hajózási hatóság harmadik állam vagy nemzetközi szervezet számára személyes adatot a (2) bekezdésben meghatározott célból az információs önrendelkezési jogról és az információszabadságról szóló törvény külföldre történő adattovábbítás szabályai alapján adhat át.
 
+(4) A hajózási hatóság által kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+
 ### VIII. Fejezet — AZ ÚSZÓLÉTESÍTMÉNY IDEIGLENES IGÉNYBEVÉTELE
 
 49. § (1) A hajózás biztonságát fenyegető veszély elhárítása, illetőleg megelőzése érdekében a hajózási hatóság bármely úszólétesítmény ideiglenes igénybevételét elrendelheti.
@@ -1279,4 +1281,6 @@ rendeletben történő megállapítására.
 - m) a tengerészeti felszerelésekről és a 96/98/EK tanácsi irányelv hatályon kívül helyezéséről szóló 2014. július 23-i 2014/90/EU európai parlamenti és tanácsi irányelv,
 - n) az Európai Hajózási Szövetség (EBU), az Európai Hajósok Szervezete (ESO) és az Európai Közlekedési és Szállítási Dolgozók Szövetsége (ETF) által kötött, a munkaidő-szervezés egyes szempontjainak a belvízi hajózási ágazaton belüli szabályozásáról szóló európai megállapodás végrehajtásáról szóló, 2014. december 19-i 2014/112/EU tanácsi irányelv, az egyes foglalkoztatáspolitikai és egészségügyi tárgyú jogszabályokkal együtt.
 
-91–93. §
+91. § Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+92–93. §

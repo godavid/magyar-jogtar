@@ -522,6 +522,8 @@ személy.
 
 (7) Az (1) bekezdés szerinti nyilvántartás naprakésszé tétele céljából az állami horgászjegyet forgalmazók a forgalmazott jegyek adatairól, továbbá a fogási napló leadásáról közvetlen informatikai kapcsolat útján adatot szolgáltatnak a halgazdálkodási hatóságnak.
 
+(8) Az (1) bekezdés szerinti nyilvántartásokban kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+
 43. § (1) Halászati engedély, állami halászjegy, állami horgászjegy, turista állami horgászjegy nem adható annak a személynek – a halgazdálkodási hatóság bírságot kiszabó határozatában megállapított eltiltás időtartamára –, akivel szemben halvédelmi bírságot szabtak ki. A halgazdálkodási hatóság által megállapított eltiltás lejártát követően halászati engedély, állami halászjegy, állami horgászjegy, turista állami horgászjegy csak akkor adható ki, amennyiben az igénylő a halvédelmi bírságot megfizette.
 
 (2) A halászati engedélyt, az állami horgászjegyet, turista állami horgászjegyet, az állami halászjegyet a halgazdálkodási hatóság visszavonja attól a személytől
@@ -765,6 +767,8 @@ tekintetében adatot szolgáltat.
 (8) A miniszter az Adattár adatainak értékelése alapján évenként tájékoztatót tesz közzé a természetes vízi halgazdálkodás helyzetéről.
 
 (9) Az Adattárból való egyes adatszolgáltatásokért miniszteri rendeletben meghatározott igazgatási szolgáltatási díjat kell fizetni.
+
+(10) Az Adattárban kezelt adatokat a Központi Statisztikai Hivatal részére statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók.
 
 55. § Tudományos kutatás, valamint a halállományok felmérése és megőrzése céljából a miniszter az e törvény végrehajtására kiadott rendeletben meghatározott feltételek szerint kutatási célú halfogási engedélyt adhat ki. Az így kiadott engedély alapján végzett halfogási tevékenységről az érintett halgazdálkodásra jogosultat tájékoztatni kell.
 
@@ -1205,6 +1209,8 @@ veszi figyelembe.
 76. § Ez a törvény a természetes élőhelyek, valamint a vadon élő állatok és növények védelméről szóló, 1992. május 21-i 92/43/EGK tanácsi irányelv 15. cikkének és a VI. számú mellékletének való megfelelést szolgálja.
 
 76/A. § Ez a törvény az idegenhonos inváziós fajok betelepítésének vagy behurcolásának és terjedésének megelőzéséről és kezeléséről szóló, 2014. október 22-i, 1143/2014/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+76/B. § Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 27. Hatályon kívül helyező rendelkezések
 

@@ -123,31 +123,40 @@ Az Országgyűlés az Alaptörvényben foglalt rendelkezésekre figyelemmel – 
 
 (3) A hivatalos útlevél jogosítottja köteles az útlevelét rendeltetésszerűen használni. A hivatalos útlevél rendeltetésszerű használatának ellenőrzését és az útlevél kezelését az utazást elrendelő, illetve az útlevél kiadására javaslatot tevő szerv – az európai parlamenti vagy országgyűlési képviselő, továbbá házastársa, gyermeke [12. § (1) bekezdés g) pont] diplomata-útlevele esetében az Országgyűlés Hivatala –, hajós szolgálati útlevél esetében a hajón teljesítendő szolgálatot igazoló gazdálkodó szervezet végzi.
 
+(4) Hivatalos útlevél a (2) bekezdésben foglaltaktól eltérően a tartós külszolgálat időtartama alatt magáncélú utazásokra is igénybe vehető.
+
 12. § (1) Diplomata-útlevélre jogosult
 
 - a) a köztársasági elnök, az Alkotmánybíróság elnöke, valamint a Kúria elnöke;
 - b) az országgyűlési képviselő és az Európai Parlament magyarországi képviselője;
-- c) az alapvető jogok biztosa és helyettese, a Kúria elnökhelyettese, a legfőbb ügyész és helyettesei, az Alkotmánybíróság tagja, a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke és elnökhelyettese, az Állami Számvevőszék elnöke és alelnökei, a Magyar Nemzeti Bank elnöke és alelnökei;
+- c) az alapvető jogok biztosa és helyettese, a Kúria elnökhelyettese, a legfőbb ügyész és helyettesei, az Alkotmánybíróság tagja, a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke és elnökhelyettese, a Nemzeti Média- és Hírközlési Hatóság elnöke és elnökhelyettese, az Állami Számvevőszék elnöke és alelnökei, a Magyar Nemzeti Bank elnöke és alelnökei;
 - d) a miniszterelnök, a miniszter, az államtitkár, a közigazgatási államtitkár és a helyettes államtitkár;
-- e) a külpolitikáért felelős miniszter által vezetett minisztérium diplomáciai vagy konzuli ranggal rendelkező munkatársa, Magyarország diplomáciai képviselete diplomáciai személyzetének tagja, Magyarország konzuli képviselete konzuli tisztviselője, nemzetközi jogon alapuló diplomáciai kiváltságot és mentességet élvező egyéb személy, diplomáciai és konzuli futár;
+- e) a külpolitikáért felelős miniszter által vezetett minisztérium diplomáciai vagy konzuli ranggal rendelkező munkatársa, az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztérium – európai uniós feladatokat ellátó – diplomáciai ranggal rendelkező munkatársa, Magyarország diplomáciai képviselete diplomáciai személyzetének tagja, Magyarország hivatásos konzuli képviselete konzuli tisztviselője, nemzetközi jogon alapuló diplomáciai kiváltságot és mentességet élvező egyéb személy, diplomáciai és konzuli futár;
 - f) a Honvéd Vezérkar főnöke és helyettese, a Katonai Nemzetbiztonsági Szolgálat főigazgatója és helyettesei, a katonai külképviseletek vezetői és helyettesei; valamint
-- g) az a)–f) pontban megjelölt személlyel hivatalos célból együtt utazó, közös háztartásban élő házastársa, eltartott gyermeke.
+- g) az országgyűlési képviselővel, a nemzetiségi szószólóval, az a), a c)–d), illetve az f) pontokban megjelölt személlyel hivatalos célból együtt utazó, közös háztartásban élő házastársa, élettársa, eltartott gyermeke;
+- h) az Európai Parlament magyarországi képviselőjével, illetve az e) pontban megjelölt személlyel hivatalos célból együtt utazó, közös háztartásban élő házastársa, élettársa, eltartott gyermeke, egyenes ági felmenője;
+- i) az Európai Parlament magyarországi képviselőjével, illetve az e) pontban megjelölt személlyel hivatalos célból együtt utazó, közös háztartásban élő házastársának, élettársának egyenes ági felmenője.
+
+(1a) Az (1) bekezdés h) és i) pontjában meghatározott hozzátartozókat a diplomata-útlevél kizárólag az Európai Parlament magyarországi képviselőjének mandátumából fakadó tartós külföldi tartózkodás időtartamára, illetve az (1) bekezdés e) pontban megjelölt személy tartós külszolgálatának időtartamára illeti meg.
 
 (2) Kizárólag utazásának időtartamára érvényes diplomata-útlevelet kaphat az a személy is, aki a köztársasági elnök, a miniszterelnök, az Országgyűlés elnöke vagy a külpolitikáért felelős miniszter megbízásából diplomáciai küldetéssel utazik külföldre, továbbá az, akinek az útlevéllel történő ellátását rendkívül indokolt esetben az irányítást (felügyeletet) gyakorló miniszter javaslatára a külpolitikáért felelős miniszter engedélyezte.
 
 13. § (1) Külügyi szolgálati útlevélre jogosult
 
 - a) a külpolitikáért felelős miniszter által vezetett minisztérium diplomáciai ranggal nem rendelkező közszolgálati tisztviselője;
-- b) Magyarország diplomáciai képviseletének igazgatási és műszaki személyzete, illetőleg kisegítő személyzetének tagja;
-- c) Magyarország konzuli képviselete konzuli alkalmazottja és kisegítő személyzetének tagja;
+- b) Magyarország diplomáciai képviseletének igazgatási és műszaki személyzete, illetve kisegítő személyzetének tagja, kivéve a külképviseletekről és a tartós külszolgálatról szóló törvény szerint a külképviselet által foglalkoztatott munkavállaló;
+- c) Magyarország hivatásos konzuli képviselete konzuli alkalmazottja és kisegítő személyzetének tagja, kivéve a külképviseletekről és a tartós külszolgálatról szóló törvény szerint a külképviselet által foglalkoztatott munkavállalót;
 - d) a nemzetközi jogon alapuló mentességet élvező más személy;
-- e) az a)–d) pontok szerint jogosult személlyel hivatalos célból együtt utazó, közös háztartásban élő házastársa és eltartott gyermeke.
+- e) az a)–d) pontok szerint jogosult személlyel hivatalos célból együtt utazó, közös háztartásban élő házastársa, élettársa, eltartott gyermeke, egyenes ági felmenője;
+- f) az a)–d) pontok szerint jogosult személlyel hivatalos célból együtt utazó, közös háztartásban élő házastársának, élettársának egyenes ági felmenője.
+
+(1a) Az (1) bekezdés e) és f) pontjában meghatározott hozzátartozókat a külügyi szolgálati útlevél kizárólag az (1) bekezdés a)–d) pontja szerint jogosult személy tartós külszolgálatának időtartamára illeti meg.
 
 (2) Kizárólag utazásának időtartamára érvényes külügyi szolgálati útlevelet kaphat az a személy is, akinek az útlevéllel történő ellátását rendkívül indokolt esetben az irányítást (felügyeletet) gyakorló miniszter javaslatára a külpolitikáért felelős miniszter engedélyezte.
 
 14. § (1) Az irányítást (felügyeletet) gyakorló miniszter, ennek hiányában a szerv vagy hivatal vezetőjének javaslatára szolgálati útlevelet kaphatnak hivatalos célú utazásuk, illetőleg kiküldetésük idejére
 
-- a) a központi államigazgatási szerveknél, a Köztársasági Elnök Hivatalánál, az Országgyűlés Hivatalánál, az Alkotmánybíróság Hivatalánál, az Alapvető Jogok Biztosának Hivatalánál, az Állami Számvevőszéknél, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál foglalkoztatottak;
+- a) a központi államigazgatási szerveknél, a Köztársasági Elnöki Hivatalnál, az Országgyűlés Hivatalánál, az Alkotmánybíróság Hivatalánál, az Alapvető Jogok Biztosának Hivatalánál, az Állami Számvevőszéknél, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, a Nemzeti Média- és Hírközlési Hatóságnál foglalkoztatottak;
 - b) a bírák és az ügyészek;
 - c) a Magyar Nemzeti Bank vezető munkatársai;
 - d) a szomszédos államokkal fennálló vízügyi együttműködés keretében vízi munka elvégzése, vízkár vagy jégveszély elhárítása érdekében határvízen közlekedő vízügyi dolgozók.
@@ -447,7 +456,9 @@ az adatkezelő szerv az (5) bekezdés szerint gondoskodik a schengeni figyelmezt
 
 (2b) Ha a kérelmező a saját, az útlevélhatóság által nyilvántartott adatáról hatósági bizonyítvány kiállítását kéri, e törvénynek az adatszolgáltatásra vonatkozó rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a hatósági bizonyítvány kiállítását a kérelmező bármely, az útlevélhatóság által nyilvántartott adatáról kérheti.
 
-(3) Az útlevélhatóság, valamint az adatkezelő szerv az általa nyilvántartott adatot statisztikai célra felhasználhatja, abból ilyen célra, személyazonosító adat nélkül adatot szolgáltathat.
+(3) Az útlevélhatóság, valamint az adatkezelő szerv az általa nyilvántartott adatot statisztikai célra felhasználhatja, abból ilyen célra – a (3a) bekezdésben foglalt kivétellel – személyazonosító adat nélkül adatot szolgáltathat.
+
+(3a) Az útlevélhatóság, valamint a központi adatkezelő szerv az általa nyilvántartott adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen átadja és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
 (4) Az e törvény alapján kezelt személyes adatok külföldi adatkezelő részére – ideértve a nemzetközi szervezeteket is – nemzetközi szerződés alapján továbbíthatók, feltéve, ha az adatkezelés feltételei a külföldi adatkezelőnél minden egyes adatra nézve azonosan teljesülnek.
 
@@ -547,3 +558,5 @@ az útlevélnek az arra való jogosultság megszűnését követő bevonásáig 
 (2) E törvény a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i, 2007/533/IB tanácsi határozat 38–39. és 45–49. cikkének átültetését szolgálja.
 
 (3) E törvény a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 1987/2006/EK parlamenti és tanácsi rendelet 31–34. cikkének végrehajtását szolgálja.
+
+(4) Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.

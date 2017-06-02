@@ -794,6 +794,8 @@ nyilvánosak.
 
 (3) A miniszter az adatgyűjtés alapján évenként tájékoztatót tesz közzé az ország vadállományának helyzetéről.
 
+(4) Az Adattárban kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+
 ### A hivatásos vadász
 
 50. § (1) A hivatásos vadász a vadgazdálkodási üzemtervben és az éves vadgazdálkodási tervben foglaltak végrehajtásának szakirányítójaként a vadgazdálkodással összefüggő feladatok szakszerű ellátását végzi.
@@ -1457,6 +1459,8 @@ során közigazgatási eljárásban hozott döntése ellen közigazgatási eljá
 - a) természetes személy esetén a nevet, születési nevet, születési helyet, születési időt, anyja nevét, állampolgárságot, lakóhelyet, telephelyet, elérhetőséget (telefonszám, faxszám, e-mail cím, levelezési cím);
 - b) jogi személy, valamint jogi személyiséggel nem rendelkező szervezet esetén a cégnevet, adószámot, székhelyet, telephelyet, elérhetőséget (telefonszám, faxszám, e-mail cím, levelezési cím).
 
+(3) A (2) bekezdés szerinti nyilvántartásokban kezelt adatokat a Központi Statisztikai Hivatal részére – a Stt. 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+
 93. § (1) A tájegységi fővadász szakirányítási és szaktanácsadási feladatokat lát el.
 
 (2) A tájegységi fővadász szakirányítási feladatkörében eljárva
@@ -1558,6 +1562,8 @@ való megfelelést szolgálja.
 103. § E törvény 27/A–27/F. §-a a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 103/A. § Ez a törvény az idegenhonos inváziós fajok betelepítésének vagy behurcolásának és terjedésének megelőzéséről és kezeléséről szóló, 2014. október 22-i, 1143/2014/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+103/B. § Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### Átmeneti rendelkezések
 
