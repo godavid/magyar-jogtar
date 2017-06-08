@@ -11,15 +11,15 @@ Az Országgyűlés az Európai Unió társasági jogával összhangban a belső 
 (2) E törvény alkalmazásában
 
 - a) tőkeegyesítő társaság: a korlátolt felelősségű társaság, a részvénytársaság, az európai részvénytársaság, valamint e törvényben foglalt eltérésekkel a szövetkezet;
-- b) határokon átnyúló egyesülés (a továbbiakban: egyesülés): a tőkeegyesítő társaságoknak a gazdasági társaságokról szóló 2006. évi IV. törvény (a továbbiakban: Gt.) szerinti egyesülése, amennyiben az egyesülésben résztvevő valamennyi társaságot az Európai Unió valamely tagállamának joga szerint alapították, és létesítő okirat szerinti székhelyük, központi ügyvezetésük vagy üzleti tevékenységük fő helye az Európai Unió valamely tagállamában van, feltéve, hogy közülük legalább egyre az Európai Unió valamely más tagállamának joga irányadó.
+- b) határokon átnyúló egyesülés (a továbbiakban: egyesülés): a tőkeegyesítő társaságoknak a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) és az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló 2013. évi CLXXVI. törvény (a továbbiakban: Átv.) szerinti egyesülése, ha az egyesülésben résztvevő valamennyi társaságot az Európai Unió valamely tagállamának joga szerint alapították, és létesítő okirat szerinti székhelyük, központi ügyvezetésük vagy üzleti tevékenységük fő helye az Európai Unió valamely tagállamában van, feltéve, hogy közülük legalább egyre az Európai Unió valamely más tagállamának joga irányadó.
 
-2. § (1) A tőkeegyesítő társaságok e törvény szerinti egyesülésére az e törvényben meghatározott eltérésekkel a Gt.-nek, valamint a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvénynek (a továbbiakban: Ctv.) az egyesülésre vonatkozó rendelkezéseit kell megfelelően alkalmazni.
+2. § (1) A tőkeegyesítő társaságok e törvény szerinti egyesülésére az e törvényben meghatározott eltérésekkel a Ptk.-nak és az Átv.-nek, valamint a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvénynek (a továbbiakban: Ctv.) az átalakulásra és az egyesülésre vonatkozó rendelkezéseit kell megfelelően alkalmazni.
 
 (2) Az egyesülés során az abban résztvevő tőkeegyesítő társaságoknak be kell tartaniuk a külön jogszabály szerint egyesülés esetén rájuk irányadó szabályokat.
 
 ### Az egyesülési szerződés közös tervezete
 
-3. § (1) Az egyesülésben résztvevő tőkeegyesítő társaságok vezető tisztségviselői elkészítik az egyesülési szerződés közös tervezetét, amely – a Gt. 79. §-ának (1) bekezdésében felsoroltakon túl – minden esetben tartalmazza a következőket:
+3. § (1) Az egyesülésben résztvevő tőkeegyesítő társaságok vezető tisztségviselői elkészítik az egyesülési szerződés közös tervezetét, amely – az Átv. 14. § (1) bekezdésében felsoroltakon túl – minden esetben tartalmazza a következőket:
 
 - a) az egyesülésben résztvevő tőkeegyesítő társaságok társasági részesedéseinek cserearányát és a jegyzett tőkén felüli vagyon terhére juttatható kiegészítő készpénzkifizetés mértékét, erre vonatkozó megállapodás esetén;
 - b) az egyesülés útján létrejövő társaság részesedéseinek átruházására vonatkozó részletes szabályokat;
@@ -37,7 +37,7 @@ Az Országgyűlés az Európai Unió társasági jogával összhangban a belső 
 
 ### A vezető tisztségviselők és a könyvvizsgáló jelentése az egyesülésről
 
-4. § (1) Az egyesülésben résztvevő tőkeegyesítő társaságok vezető tisztségviselői az egyesülési szerződés közös tervezetének elkészítésével egyidejűleg írásbeli beszámolót készítenek a tagok (részvényesek) számára, amelyben a jogi és a gazdasági szempontok ismertetésével megindokolják az egyesülés szükségességét, valamint annak hatását a tagokra (részvényesekre), a hitelezőkre és a munkavállalókra (e törvény alkalmazásában a továbbiakban: beszámoló). Az egyesülésben résztvevő társaságok vezető tisztségviselői a Gt. 26. § (2) bekezdésében meghatározottak szerint felelnek a határokon átnyúló egyesülés előkészítése és végrehajtása során tanúsított felróható magatartásukkal okozott kárért.
+4. § (1) Az egyesülésben résztvevő tőkeegyesítő társaságok vezető tisztségviselői az egyesülési szerződés közös tervezetének elkészítésével egyidejűleg írásbeli beszámolót készítenek a tagok (részvényesek) számára, amelyben a jogi és a gazdasági szempontok ismertetésével megindokolják az egyesülés szükségességét, valamint annak hatását a tagokra (részvényesekre), a hitelezőkre és a munkavállalókra (e törvény alkalmazásában a továbbiakban: egyesülési beszámoló). Az egyesülésben résztvevő társaságok vezető tisztségviselői a Ptk. szabályai szerint felelnek a határokon átnyúló egyesülés előkészítése és végrehajtása során tanúsított magatartásukkal okozott kárért.
 
 (2) A vagyonmérleg-tervezeteket felülvizsgáló könyvvizsgálónak harminc nappal az egyesülési szerződés elfogadásáról döntő legfőbb szervi ülés napja előtt jelentést kell készítenie, melyben nyilatkoznia kell, hogy a 3. § (1) bekezdés a) pontjában meghatározott cserearányt a társaság milyen módszerekkel határozta meg, ezek a módszerek külön-külön milyen értéket eredményeztek, és hogy álláspontja szerint a cserearány megfelelő-e. Ha az értékelésnek különös nehézségei voltak, ezeket is ismertetni kell.
 
@@ -53,7 +53,7 @@ Az Országgyűlés az Európai Unió társasági jogával összhangban a belső 
 
 (2) Az (1) bekezdés szerinti közleménynek tartalmaznia kell továbbá a hitelezőket a tervezett egyesüléssel kapcsolatban megillető jogokról szóló tájékoztatást, valamint azt a címet, ahol ezen jogok gyakorlásának feltételeiről térítésmentesen teljes körű tájékoztatás kapható.
 
-(3) Az egyesülésben résztvevő tőkeegyesítő társaság harminc nappal az egyesülési szerződés elfogadásáról döntő legfőbb szerv ülésének napja előtt köteles a társaság vezető tisztségviselői által készített beszámolót, valamint – amennyiben készült – a könyvvizsgálónak, illetve a független szakértőnek az egyesülési szerződés tervezetére vonatkozó álláspontját tartalmazó jelentést benyújtani a társaság cégjegyzékét vezető cégbírósághoz, valamint megküldeni a tagoknak (részvényeseknek) és a munkavállalók képviselőinek vagy ezek hiányában a munkavállalóknak. Amennyiben a benyújtásra, illetve a megküldésre nyitva álló határidőben rendelkezésre áll, a jelentéshez csatolni kell a munkavállalók képviselőinek a beszámolóra vonatkozó véleményét.
+(3) Az egyesülésben résztvevő tőkeegyesítő társaság harminc nappal az egyesülési szerződés elfogadásáról döntő legfőbb szerv ülésének napja előtt köteles a társaság vezető tisztségviselői által készített egyesülési beszámolót, valamint – amennyiben készült – a könyvvizsgálónak, illetve a független szakértőnek az egyesülési szerződés tervezetére vonatkozó álláspontját tartalmazó jelentést benyújtani a társaság cégjegyzékét vezető cégbírósághoz, valamint megküldeni a tagoknak (részvényeseknek) és a munkavállalók képviselőinek vagy ezek hiányában a munkavállalóknak. Amennyiben a benyújtásra, illetve a megküldésre nyitva álló határidőben rendelkezésre áll, a jelentéshez csatolni kell a munkavállalók képviselőinek az egyesülési beszámolóra vonatkozó véleményét.
 
 (4) Mentesül a tőkeegyesítő társaság a (3) bekezdés szerinti kötelezettség alól, amennyiben az egyesülési szerződés közös tervezetének elfogadásáról döntő közgyűlés napja előtt harminc nappal és legalább a közgyűlés lezárásáig tartó időszak alatt a tőkeegyesítő társaság saját honlapján – a Ctv. 21/A. §-ában foglaltak szerint – folyamatosan, korlátozástól mentesen és ingyenesen biztosítja az érintett dokumentumok megismerhetőségét a nyilvánosság számára, vagy a dokumentumokat a Cégközlönyben való közzététel útján hozza nyilvánosságra.
 
@@ -73,7 +73,7 @@ Az Országgyűlés az Európai Unió társasági jogával összhangban a belső 
 
 (4) A tanúsítvány kiadására vonatkozó cégbírósági eljárásra egyebekben a Ctv. 46 és 47. §-ában, valamint 57. § (1a) bekezdésében foglalt rendelkezéseket kell megfelelően alkalmazni azzal, hogy a Ctv. 57. § (1a) bekezdése szerinti határidő letételét követő három munkanapon belül a tanúsítványt – a kérelem szerinti tartalommal – a cégbíróság vezetője köteles kiadni.
 
-7. § (1) A tanúsítvány tartalmazza a kérelmező nevét, székhelyét és cégjegyzékszámát, az egyesüléssel létrejövő társaság formáját, cégnevét és székhelyét, valamint azt, hogy a tanúsítvány kiadását kérelmező társaság eleget tett-e az átalakulás időpontját megelőzően őt terhelő jogszabályi kötelezettségeinek. Amennyiben társasági határozat bírósági felülvizsgálatára irányuló per van folyamatban, ennek tényét a tanúsítvány tartalmazza.
+7. § (1) A tanúsítvány tartalmazza a kérelmező nevét, székhelyét és cégjegyzékszámát, az egyesüléssel létrejövő társaság formáját, cégnevét és székhelyét, valamint azt, hogy a tanúsítvány kiadását kérelmező társaság eleget tett-e az egyesülés időpontját megelőzően őt terhelő jogszabályi kötelezettségeinek. Amennyiben társasági határozat bírósági felülvizsgálatára irányuló per van folyamatban, ennek tényét a tanúsítvány tartalmazza.
 
 (2) Amennyiben a cégbíróság azt állapítja meg, hogy a kérelmező kötelezettségeinek nem vagy nem megfelelően tett eleget, úgy a tanúsítvány kiadását végzésben elutasítja, és megjelöli a hiányosságokat.
 
@@ -81,17 +81,17 @@ Az Országgyűlés az Európai Unió társasági jogával összhangban a belső 
 
 (4) A cégbíróságnak tanúsítvány kiadásáról szóló végzése, valamint a tanúsítvány iránti kérelem elutasítása tárgyában hozott végzése elleni jogorvoslatra a Ctv. rendelkezéseit kell megfelelően alkalmazni.
 
-### A határokon átnyúló egyesülés útján magyarországi székhellyel létrejövő társaságok cégbejegyzése, az átalakulás időpontja
+### A határokon átnyúló egyesülés útján magyarországi székhellyel létrejövő társaságok cégbejegyzése, az egyesülés időpontja
 
 8. § (1) Az egyesüléssel létrejövő társaság bejegyzésére irányuló változásbejegyzési kérelmet a 6. § (1) bekezdése szerinti – illetve az egyes társaságok saját tagállamának joga szerint kiállított megfelelő – tanúsítvány kiállítását követő hat hónapon belül kell benyújtani az egyesülés útján létrejövő társaság székhelye szerint illetékes cégbíróságnak.
 
 (2) A cégbíróság a kérelem elbírálásakor ellenőrzi, hogy az egyesülésre vonatkozó eljárási szabályokat betartották-e, így különösen az egyesülési szerződés közös tervezetére, valamint a munkavállalói részvételre vonatkozó megállapodás megkötése esetén az arra irányadó szabályokat. Egyebekben az egyesüléssel kapcsolatos cégbírósági eljárás vonatkozásában a Ctv.-nek a cég átalakulásának bejegyzése iránti eljárásra vonatkozó rendelkezéseit kell megfelelően alkalmazni azzal, hogy az egyesüléssel létrejövő társaság cégjegyzéke a 3. § (3) bekezdése szerinti esetben a külföldi fióktelepet is tartalmazza.
 
-(3) A cégbíróság az egyesülés bejegyzéséről, az átalakulás időpontjáról, valamint az eljárás megszüntetéséről, a bejegyzési (változásbejegyzési) kérelem elutasításáról haladéktalanul értesíti az egyesüléssel érintett társaságok cégjegyzékét vezető nyilvántartásokat.
+(3) A cégbíróság az egyesülés bejegyzéséről, az egyesülés időpontjáról, valamint az eljárás megszüntetéséről, a bejegyzési (változásbejegyzési) kérelem elutasításáról – a tagállami központi nyilvántartások, kereskedelmi nyilvántartások és cégjegyzékek összekapcsolására szolgáló rendszeren keresztül – haladéktalanul értesíti az egyesüléssel érintett társaságok cégjegyzékét vezető nyilvántartásokat.
 
-(4) Az egyesüléssel érintett társaság cégjegyzékét vezető cégbíróság az átalakulás időpontjáról más tagállam illetékes hatóságától kapott értesítés alapján a Gt. 87. §-a (1) bekezdése szerint jár el.
+(4) Az egyesüléssel érintett társaság cégjegyzékét vezető cégbíróság az egyesülés időpontjáról más tagállam illetékes hatóságától kapott értesítés alapján az Átv. 11. § (1) bekezdése és 16. §-a szerint jár el.
 
-(5) Az átalakulás időpontját követően az egyesüléssel létrejött társaság létesítő okiratát nem lehet semmisnek nyilvánítani.
+(5) Az egyesülés időpontját követően az egyesüléssel létrejött társaság létesítő okiratát nem lehet semmisnek nyilvánítani.
 
 ### Egyszerűsített eljárás
 
@@ -99,7 +99,7 @@ Az Országgyűlés az Európai Unió társasági jogával összhangban a belső 
 
 ### Munkavállalói részvétel
 
-10. § (1) Az egyesülés útján létrejövő társaságban biztosítani kell a munkavállalók döntéshozatalban történő részvételét a Gt. vonatkozó rendelkezéseinek megfelelően (Gt. 38–39. §).
+10. § (1) Az egyesülés útján létrejövő társaságban biztosítani kell a munkavállalók döntéshozatalban történő részvételét a Ptk. vonatkozó rendelkezéseinek megfelelően.
 
 (2) Az (1) bekezdéstől eltérően a munkavállalók döntéshozatalba történő bevonását a 11. §-ban meghatározott eljárás alapján kell megállapítani, ha
 
@@ -120,7 +120,7 @@ Az Országgyűlés az Európai Unió társasági jogával összhangban a belső 
 
 12. § (1) Amennyiben az egyesülés útján létrejövő társaság vonatkozásában a 10. § (1) bekezdésének szabályai alkalmazandóak a munkavállalók részvételi jogának biztosítására, a társaságnál felügyelőbizottság létrehozása kötelező.
 
-(2) Az átalakulás időpontját követő három éven belül elhatározott, Gt. szerinti egyesülés esetén a határokon átnyúló egyesülés útján létrejött társaság vonatkozásában megállapított munkavállalói részvételi jogoktól csak a munkavállalók javára lehet eltérni.
+(2) Az egyesülés időpontját követő három éven belül elhatározott, Ptk. szerinti egyesülés esetén a határokon átnyúló egyesülés útján létrejött társaság vonatkozásában megállapított munkavállalói részvételi jogoktól csak a munkavállalók javára lehet eltérni.
 
 (3) A 6. § (1) bekezdése szerinti tanúsítvány iránti kérelemhez, illetve az egyesülés útján magyarországi székhellyel létrejövő társaság cégbejegyzése iránti kérelemhez csatolni kell
 
@@ -140,4 +140,10 @@ Az Országgyűlés az Európai Unió társasági jogával összhangban a belső 
 
 ### Az Európai Unió jogának való megfelelés
 
-15. § Ez a törvény az Európai Parlament és a Tanács 2005. október 26-i, a tőkeegyesítő társaságok határokon átnyúló egyesüléséről szóló 2005/56/EK irányelvének, valamint az Európai Parlament és a Tanács 2009. szeptember 16-ai, a 77/91/EGK, a 78/855/EGK, a 82/891/EGK tanácsi irányelvnek és a 2005/56/EK irányelvnek az egyesülések és szétválások esetében alkalmazandó jelentéstételi és dokumentációs kötelezettségek tekintetében történő módosításáról szóló 2009/109/EK irányelvének való megfelelést szolgálja.
+15. § Ez a törvény
+
+- a) az Európai Parlament és a Tanács 2005. október 26-ai, a tőkeegyesítő társaságok határokon átnyúló egyesüléséről szóló 2005/56/EK irányelvének;
+- b) az Európai Parlament és a Tanács 2009. szeptember 16-ai, a 77/91/EGK, a 78/855/EGK, a 82/891/EGK tanácsi irányelvnek és a 2005/56/EK irányelvnek az egyesülések és szétválások esetében alkalmazandó jelentéstételi és dokumentációs kötelezettségek tekintetében történő módosításáról szóló 2009/109/EK irányelvének;
+- c) – a Ptk.-val és az Átv.-vel együtt – az Európai Parlament és a Tanács 2012. június 13-i, a 89/666/EGK tanácsi irányelvnek, valamint a 2005/56/EK és a 2009/101/EK európai parlamenti és tanácsi irányelvnek a központi nyilvántartások, a kereskedelmi nyilvántartások és a cégjegyzékek összekapcsolása tekintetében történő módosításáról szóló 2012/17/EU irányelvének
+
+való megfelelést szolgálja.
