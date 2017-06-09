@@ -723,7 +723,7 @@ egészségügyi szolgáltatónál más vezetői megbízatást nem tölthet be é
 
 14. § (1)
 
-(2) Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2014. évi CXI. törvénnyel megállapított 4. §-t 2011. január 1-jét követően első alkalommal 2017-ben kell alkalmazni.
+(2) Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2014. évi CXI. törvénnyel megállapított 4. §-t 2011. január 1-jét követően első alkalommal 2019-ben kell alkalmazni.
 
 (3)
 

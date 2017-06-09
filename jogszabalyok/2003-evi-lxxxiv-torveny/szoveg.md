@@ -39,7 +39,7 @@ terjed ki.
 
 (3) E törvény rendelkezéseit a 4. § b) pontjában meghatározott, az egészségügyi ellátásban közre nem működő dolgozók tekintetében csak a törvényben külön nevesített esetekben kell alkalmazni.
 
-(4) Nem terjed ki e törvény II. és III. fejezetének hatálya – a 15/B. § kivételével – a külön törvény alapján közforgalmú gyógyszertárat személyi jog alapján működtető gyógyszerészekre és az igazságügyi orvosszakértőkre.
+(4) Nem terjed ki e törvény II. és III. fejezetének hatálya – a 15/B. § kivételével – a törvény alapján közforgalmú gyógyszertárat személyi jog alapján működtető gyógyszerészekre, a közforgalmú gyógyszertárban foglalkoztatott munkavállalókra és az igazságügyi orvos szakértőkre.
 
 (5) Ahol e törvény eltérő rendelkezéseket nem tartalmaz, ott az adott munkavégzésre irányuló jogviszonyra vonatkozó törvény előírásait kell alkalmazni.
 
@@ -188,7 +188,7 @@ kell sorolni.
 
 (6a) A gyógyszerész, szakgyógyszerész munkakörben (a továbbiakban együtt: gyógyszerész munkakörben) foglalkoztatott egészségügyi dolgozó havi alapbére (illetménye) nem lehet kevesebb, mint a Kjt. szerinti besorolási illetmény és havi 75 820 Ft egyösszegű illetmény- vagy bérnövelés együttes összege.
 
-(7) Az egészségügyi dolgozó, egészségügyben dolgozó átsorolására, az osztályba soroláshoz szükséges szakmai követelményekre, a jogviszonyban töltött idő számítására, az illetményalapra (munkaviszonyban foglalkoztatottak esetén a munkabérre), valamint az átsorolással kapcsolatos eljárási szabályokra a Kjt. szabályait kell alkalmazni.
+(7) Az egészségügyi dolgozó, egészségügyben dolgozó átsorolására, az osztályba soroláshoz szükséges szakmai követelményekre, a jogviszonyban töltött idő számítására, az illetményre (munkaviszonyban foglalkoztatottak esetén a munkabérre), valamint az átsorolással kapcsolatos eljárási szabályokra a Kjt. szabályait kell alkalmazni.
 
 (8) A (6) és (6a) bekezdés alkalmazásában Kjt. szerinti besorolási illetményként kell figyelembe venni a Kjt. 66. §-a szerinti garantált illetményt, a garantált illetmény feletti, a munkáltató döntése alapján megállapított illetményrészt, továbbá a közalkalmazott számára a Kjt. 70–75. §-a alapján megállapított illetménypótlékot.
 
@@ -432,18 +432,13 @@ minősül.
 
 (4) Az (1)–(2) bekezdés szerinti jogviszonyban álló egészségügyi dolgozó által végzett egészségügyi tevékenységre a 4. § e) pontjában, valamint a 12–13. §-ban foglaltakat, illetve továbbképzésére a 15. §-ban foglaltakat, továbbá a 15/B–15/C. §-t értelemszerűen alkalmazni kell.
 
-(5) A 11/A. § alkalmazásában a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) hatálya alá tartozók esetében, ahol e törvény
+(5) A 11/A. § alkalmazásában a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) hatálya alá tartozók esetében, ahol e törvény „alapbért (garantált illetményt)” említ, ott a 11/A. § (4) és (5) bekezdése alkalmazásában „a távolléti díjba tartozó illetményelemek együttes összegét” kell érteni.
 
-- a) „a Kjt. szerinti besorolási illetményt” vagy „alapbért (illetményt)” említ, ott a 11/A. § (4) és (5) bekezdése alkalmazásában „a távolléti díjba tartozó illetményelemek együttes összegét”, a 11/A. § (6) és (6a) bekezdése alkalmazásában „a távolléti díjba tartozó illetményelemek egészségügyi dolgozók kiegészítő illetménye nélkül számított együttes összegét”, valamint
-- b) ahol „egyösszegű illetmény- vagy bérnövelést” említ, ott „egészségügyi dolgozók kiegészítő illetményét”
-
-kell érteni.
-
-(6) A Hjt. hatálya alá tartozók esetében a 11/A. § (5) bekezdésében foglaltak végrehajtásához az érintett egészségügyi szakdolgozók esetében meg kell állapítani, hogy amennyiben közalkalmazotti jogviszonyban állnának, akkor iskolai végzettségüknek és közalkalmazotti jogviszonyban figyelembe vehető szolgálati idejüknek megfelelően mely Kjt. szerinti besorolási osztályba és fizetési fokozatba tartoznának.
+(6) A Hjt. hatálya alá tartozók esetében a 11/A. § (5) bekezdésében foglaltak végrehajtásához a 11/A. § (5) bekezdése szerinti személyek esetében meg kell állapítani, hogy amennyiben közalkalmazotti jogviszonyban állnának, akkor iskolai végzettségüknek és közalkalmazotti jogviszonyban figyelembe vehető szolgálati idejüknek megfelelően mely Kjt. szerinti besorolási osztályba és fizetési fokozatba tartoznának.
 
 (7) A Hjt. hatálya alá tartozók esetében a (3) bekezdésben foglaltak végrehajtásához szükséges esetleges illetménykülönbözetet egészségügyi dolgozók kiegészítő illetményeként kell megállapítani és folyósítani.
 
-(8) A Hjt. hatálya alá tartozók esetében a 11/A. § (4) bekezdésben foglaltak végrehajtásához az érintett orvosok esetében meg kell állapítani, hogy amennyiben közalkalmazotti jogviszonyban állnának, akkor iskolai végzettségüknek és közalkalmazotti jogiszonyban figyelembe vehető szolgálati idejüknek megfelelően mely Kjt. szerinti besorolási osztályba és fizetési fokozatba tartoznának.
+(8) A Hjt. hatálya alá tartozók esetében a 11/A. § (4) bekezdésben foglaltak végrehajtásához a 11/A. § (4) bekezdése szerinti személyek esetében meg kell állapítani, hogy amennyiben közalkalmazotti jogviszonyban állnának, akkor iskolai végzettségüknek és közalkalmazotti jogiszonyban figyelembe vehető szolgálati idejüknek megfelelően mely Kjt. szerinti besorolási osztályba és fizetési fokozatba tartoznának.
 
 (9) A (4) bekezdésben foglaltakon túl a Hjt. hatálya alá tartozók esetében a 15/A. §-ban foglaltakat is alkalmazni kell.
 
