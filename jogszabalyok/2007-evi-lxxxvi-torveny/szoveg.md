@@ -2666,6 +2666,8 @@ külön díj ellenében végzett szolgáltatások meghatározására és szabál
 
 (6) Az egyetemes szolgáltató az (1) bekezdés szerinti külön díjakat és alkalmazásuk szabályait legkésőbb a külön díjak alkalmazhatósága előtt 1 nappal a honlapján és az ügyfélszolgálaton közzéteszi.
 
+(7) A (2)–(4) bekezdés szerinti külön díjak mértékét úgy kell megállapítani, hogy az segítse elő a legkisebb költség elvének érvényesülését.
+
 146/A. § (1) A közcélú hálózathoz történő csatlakozással összefüggésben csatlakozási díjat kell fizetni. A csatlakozási díjak elemeit, a díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat a Hivatal elnöke rendeletben állapítja meg a következő árszabályozási ciklust megelőző év május 15-ig.
 
 (2) A Hivatal elnöke rendeletben állapítja meg a csatlakozási díj fizetésére kötelezettek körét és a csatlakozási díjak alkalmazásának szabályait, amely rendelet kihirdetése és hatálybalépése között legalább 45 napnak el kell telnie.

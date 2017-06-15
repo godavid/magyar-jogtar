@@ -493,6 +493,8 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 
 (1a) A területrendezési tervek rajzi munkarészeit egységes országos vetületi rendszerben, vektoros állományokkal, térinformatikai rendszerben kell elkészíteni.
 
+(1b) A területrendezésért felelős miniszter, valamint a megyei önkormányzat számára a területrendezési tervek készítéséhez szükséges állami ingatlan-nyilvántartási térképi adatbázis adatait, a Mezőgazdasági Parcella Azonosító Rendszer a területrendezési feladatok ellátásához szükséges adattartalmú felszínborítási rétegét, az érintett területre a Mezőgazdasági Parcella Azonosító Rendszer programszerű felújításához használt legfrissebb évjárat szerinti ortofotóit, valamint az ország 1:10000 digitális szintvonalrajzát és domborzatmodelljét (DDM-5), a földmérési és térinformatikai államigazgatási szerv térítésmentesen biztosítja.
+
 (2) Az ország területrendezési tervét meg kell küldeni – a külpolitikáért felelős miniszter útján – a szomszédos országok területrendezésért felelős minisztereinek.
 
 (3) A 6. § d) pontjában foglalt tervek kivételével a tervjavaslatot és a megyei területrendezési terv elfogadásáról szóló rendelettervezetet az egyeztetést követően az elfogadott és el nem fogadott vélemények indoklásával együtt állásfoglalásra meg kell küldeni a területrendezésért felelős miniszternek.

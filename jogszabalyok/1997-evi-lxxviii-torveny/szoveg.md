@@ -178,7 +178,7 @@ Az Országgyűlés az épített környezet alakításával és védelmével kapc
 (3) A (2) bekezdésben foglaltak érvényesülése – különösen a természet- és a környezetvédelem, az erdők és a felszíni és felszín alatti vizek védelme, az ár- és belvízvédelem, valamint a termőfölddel és a területekkel való takarékos bánás – érdekében az alábbi követelményeknek kell érvényt szerezni:
 
 - a) a településfejlesztés és a településrendezés során a település teljes közigazgatási területét érintő árvíz, belvíz, valamint csapadékvíz szakszerű és ártalommentes elvezetését biztosítani kell, részbeni összegyűjtése és helyben tartása biztosításának az adottságok és a lehetőségek szerinti figyelembevételével,
-- b) újonnan beépítésre szánt területek kijelölésével egyidejűleg a település közigazgatási területének biológiai aktivitás értéke az átminősítés előtti aktivitás értékhez képest nem csökkenhet,
+- b) újonnan beépítésre szánt területek kijelölésével egyidejűleg a település közigazgatási területének biológiai aktivitás értéke az átminősítés előtti aktivitás értékhez képest, az e törvény végrehajtására kiadott jogszabályokban meghatározottak szerint nem csökkenhet,
 - c) a települések beépítésre szánt területeinek összességét – ott, ahol az fizikailag lehetséges – beépítésre nem szánt területekből álló gyűrűvel kell körülvenni, a települések összenövésének elkerülése érdekében,
 - d) a termőföld igénybevételével járó, újonnan beépítésre szánt területek kijelölésénél elsősorban a termőföld védelméről szóló törvényben meghatározott átlagosnál gyengébb minőségű termőföld-területek jelölhetők ki,
 - e) a települések beépítésre szánt területe csak olyan területfelhasználás céljára növelhető, amilyen célra a település már beépítésre kijelölt területén belül nincs megfelelő terület.
@@ -270,6 +270,8 @@ kell figyelembe venni.
 (6)
 
 (7)
+
+13/A. § A településrendezési eszköz, a településfejlesztési koncepció, az integrált településfejlesztési stratégia készítéséhez, és a településképi követelmények meghatározásához szükséges állami ingatlan-nyilvántartási térképi adatbázis adatait, a Mezőgazdasági Parcella Azonosító Rendszer a településrendezési és településfejlesztési feladatok ellátásához szükséges adattartalmú felszínborítási rétegét, az érintett területre a Mezőgazdasági Parcella Azonosító Rendszer programszerű felújításához használt legfrissebb évjárat szerinti ortofotóit, valamint az ország 1:10000 digitális szintvonalrajzát és domborzatmodelljét (DDM-5) a földmérési és térinformatikai államigazgatási szerv térítésmentesen biztosítja.
 
 ### A fővárosra vonatkozó sajátos rendelkezések
 
@@ -1140,7 +1142,12 @@ amely idő alatt az építésügyi vagy az építésfelügyeleti hatóságnak d�
 
 (3) Amennyiben a használatbavételi engedélyezési eljárásban benyújtott fellebbezés és az építésügyi engedélyezési eljárásban jogerősen elbírált fellebbezés azonos indokokat tartalmaz, a használatbavételi engedélyezési eljárásban másodfokon eljáró hatóság a fellebbezési kérelmet érdemben nem vizsgálja.
 
-(3a) Ha az építésügyi hatóság az engedélyezési eljárásában kormányrendeletben meghatározott szakkérdést vizsgál, az ügyintézési határidő 35 nap, kivéve, ha szakhatósági eljárás lefolytatására is sor kerül.
+(3a) Ha az építésügyi hatóság az engedélyezési eljárásában kormányrendeletben meghatározott szakkérdést vizsgál, az ügyintézési határidő
+
+- a) ipari rendeltetésű vagy mezőgazdasági tevékenység végzésére szolgáló épület esetében 30 nap,
+- b) egyéb esetben 35 nap,
+
+kivéve, ha szakhatósági eljárás lefolytatására is sor kerül.
 
 (3b) Az összevont telepítési eljárás során az építésügyi hatóság számára irányadó ügyintézési határidő
 

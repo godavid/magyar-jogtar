@@ -372,7 +372,7 @@ használhatja fel.
 
 11. § (1) Az éves tagdíj mértékét, fizetésének módját és feltételeit az alapszabály határozza meg. A tagdíj mértékét a tagok gazdasági súlyára figyelemmel, sávosan kell meghatározni oly módon, hogy annak összege az egymillió forintot nem haladhatja meg. Az alapszabály a tagdíjfizetés alapját vagy mértékét csökkentő kedvezményeket állapíthat meg.
 
-(2) A meg nem fizetett kamarai tagdíj köztartozás. A tagdíj meg nem fizetése esetén azt az állami adóhatóság adók módjára hajtja be.
+(2) A meg nem fizetett kamarai tagdíj, pótlék, valamint a nyilvántartásba-vételi díj köztartozás, amelyet meg nem fizetésük esetén az állami adóhatóság adók módjára hajt be.
 
 (3) Az 5. § (4) bekezdése szerinti esetben a tagdíjfizetés alapja a tag őstermelői és egyéni vállalkozói tevékenységéből származó nettó árbevételeinek egybeszámított összege.
 
@@ -960,6 +960,8 @@ használhatja fel.
 (2) E törvénynek a 2017. évi XLI. törvénnyel megállapított 23. § (2) bekezdését első alkalommal a 2017. évi XLI. törvény hatálybalépése után megtartott kamarai választások során kell alkalmazni.
 
 (3) E törvénynek a 2017. évi XLI. törvénnyel megállapított 32. § (3) bekezdését a 2017. évi XLI. törvény hatálybalépését követően megkötött megállapodásokra kell alkalmazni.
+
+59/A. § E törvénynek a 2017. évi XLI. törvénnyel megállapított 11. § (2) bekezdését a 2017. évi XLI. törvény kihirdetését követő harmincegyedik napon folyamatban levő végrehajtási eljárásokban is alkalmazni kell.
 
 ### 1. melléklet a 2012. évi CXXVI. törvényhez
 

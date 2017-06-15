@@ -1712,6 +1712,8 @@ külön díj ellenében végzett szolgáltatások meghatározására és szabál
 
 (4) Az (1) és a (2) bekezdés szerinti rendeletek előkészítése során a Hivatal kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleteinek véleményét.
 
+(5) A külön díj ellenében végzett szolgáltatások díját úgy kell megállapítani, hogy az segítse elő a legkisebb költség elvének érvényesülését. A Hivatal a fizetendő külön díj mértékét a szolgáltatásokkal összefüggő munkavégzésre fordított munkaidő és a munkavégzés átlagos óradíjának alapulvételével határozza meg. Ráfordított időként a Hivatal rendeletében meghatározottak szerint kizárólag a munkavégzés helyszínén munkavégzésre fordított idő vehető figyelembe.
+
 106/A. § (1) A miniszter a Hivatal javaslata alapján rendeletben állapítja meg az egyetemes szolgáltató által a felhasználó igénye vagy szerződésszegése esetén külön díj ellenében végzett szolgáltatások körét, díját és díjak alkalmazásának szabályait.
 
 (2) A Hivatal az (1) bekezdés szerinti javaslatát legkésőbb a rendelet tervezett hatálybalépését megelőzően 45 nappal megküldi a miniszternek.
