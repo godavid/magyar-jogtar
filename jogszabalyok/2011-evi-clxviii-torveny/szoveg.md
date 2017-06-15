@@ -10,7 +10,9 @@ Az Országgyűlés a mezőgazdasági termelést érintő időjárási és más t
 
 2. § E törvény és az e törvény felhatalmazása alapján kiadott rendeletek alkalmazásában:
 
-- 1. aszály: az a természeti esemény, amelynek során a kockázatviselés helyén az adott növény vegetációs időszakán belül harminc egymást követő napon belül a lehullott csapadék összes mennyisége a tíz millimétert nem éri el;
+- 1. aszály: az a természeti esemény, amelynek során a kockázatviselés helyén az adott növény vegetációs időszakában harminc egymást követő napon belül
+  - a) a lehullott csapadék összes mennyisége a tíz millimétert nem éri el, vagy
+  - b) a lehullott csapadék összes mennyisége a huszonöt millimétert nem éri el és a napi maximum hőmérséklet legalább tizenöt napon meghaladja a 31 °C-ot;
 - 2. aszálykár: a kockázatviselés helyén termesztett növényekben az aszály miatt bekövetkezett olyan káresemény, amely a növénykultúrában hozamcsökkenést okoz;
 - 2a. átlaghozam: a termelő saját hozamadata hiányában alkalmazott, az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium internetes honlapján közzétett közleményben, adott növénykultúrára és adott évre vonatkozóan meghatározott megyei – ennek hiányában országos – átlagos hozamadat;
 - 3. belvíz: a medrükben maradt folyók, patakok, valamint a felszíni vizek elvezetésére szolgáló mesterséges, nyílt csatornák magas vízállásából eredő átszivárgások, buzgárok, talajvízszint-emelkedés, valamint a lefolyástalan vagy nem kellően kiépített vízelvezető művekkel rendelkező területek csapadékvizeiből származó felszíni vízborítás;

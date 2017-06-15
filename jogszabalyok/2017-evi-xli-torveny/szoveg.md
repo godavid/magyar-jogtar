@@ -10,13 +10,17 @@ a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szól
 
 7. §
 
-8. §
+8. § A Tv. 11. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A meg nem fizetett kamarai tagdíj, pótlék, valamint a nyilvántartásba-vételi díj köztartozás, amelyet meg nem fizetésük esetén az állami adóhatóság adók módjára hajt be.”
 
 9–18. §
 
 19. § (1)
 
-(2)
+(2) A Tv. a következő 59/A. §-sal egészül ki:
+
+„59/A. § E törvénynek a 2017. évi XLI. törvénnyel megállapított 11. § (2) bekezdését a 2017. évi XLI. törvény kihirdetését követő harmincegyedik napon folyamatban levő végrehajtási eljárásokban is alkalmazni kell.”
 
 20–21. §
 
