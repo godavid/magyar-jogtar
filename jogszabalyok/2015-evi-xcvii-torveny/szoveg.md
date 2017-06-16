@@ -83,13 +83,27 @@ köthető.
 
 (2) A vevő az általa mezőgazdasági termelőtől, mint eladótól megvásárolt mezőgazdasági termény harmadik személy javára történő tovább értékesítése esetén a harmadik személlyel szemben csak abban az esetben hivatkozhat az 5. § (2) bekezdésen alapuló felelőssége korlátozására, ha a harmadik személlyel kötött szerződés ezt lehetővé teszi.
 
-#### 5. Kötelező szerződések a tejágazatban
+#### 5. Kötelező szerződések
 
 7. § (1) A nyerstej Magyarországon történő értékesítésére irányuló szerződést – a végső fogyasztó részére történő közvetlen értékesítés kivételével – a nyerstej feldolgozásáig a Rendelet 148. cikkében meghatározott tartalommal írásba kell foglalni.
 
 (2) A felek között a határozott időre kötött (1) bekezdés szerinti szerződés időtartama legalább 6 hónap. A felek a határozatlan időre kötött (1) bekezdés szerinti szerződést rendes felmondással hat hónapos felmondási idővel szüntethetik meg.
 
 (3) Az (1) és (2) bekezdésben meghatározott kötelezettség betartását a mezőgazdasági igazgatási szerv ellenőrzi. Amennyiben a mezőgazdasági igazgatási szerv megállapítja a kötelezettség megszegését, egy hónapos határidő kitűzésével felhívja a feleket a kötelezettség teljesítésére. A mezőgazdasági igazgatási szerv akkor alkalmaz szankciót, ha a felek a határidő elteltével sem teljesítik a kötelezettségeiket.
+
+7/A. § (1) A friss meggy Magyarországon történő értékesítésére irányuló szerződést a friss meggy feldolgozásáig írásba kell foglalni.
+
+(2) Az (1) bekezdés szerinti, határozott időre szóló szerződést legalább egyéves időtartamra kell megkötni. A határozatlan időre kötött szerződés rendes felmondással egyéves felmondási idővel szüntethető meg.
+
+(3) Az (1) bekezdés szerinti szerződés megkötésére a vevőnek kell írásbeli ajánlatot tennie az eladónak, amely ajánlathoz a vevő hat hónapig kötve van.
+
+(4) Az (1) bekezdés szerinti szerződésnek és az ajánlattételnek meg kell felelnie a Rendelet 168. cikk (4) és (6) bekezdésében meghatározott követelményeknek.
+
+(5) Az (1)–(4) bekezdésben meghatározott kötelezettség betartását a mezőgazdasági igazgatási szerv ellenőrzi. Amennyiben a mezőgazdasági igazgatási szerv megállapítja a kötelezettség megszegését, egy hónapos határidő kitűzésével felhívja a feleket a kötelezettség teljesítésére. A mezőgazdasági igazgatási szerv akkor alkalmaz szankciót, ha a felek a határidő elteltével sem teljesítik a kötelezettségeiket.
+
+(6) Ha a felek között nem jön létre megállapodás az (1) bekezdés szerinti szerződés megkötésére, a felek közötti közvetítésre a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara (a továbbiakban: agrárkamara) jogosult.
+
+(7) A Rendelet 168. cikk (5) bekezdésének rendelkezéseit a szövetkezetek mellett a gazdasági társaságokra is alkalmazni kell.
 
 #### 6. Mezőgazdasági adatbázisok
 
@@ -240,7 +254,7 @@ köthető.
 
 26. § (1) A legalább részben az államháztartás alrendszeréből, európai uniós forrásból vagy nemzetközi megállapodás alapján egyéb programból finanszírozott szaktanácsadási szolgáltatást nyújtó szaktanácsadóként csak az a természetes személy tevékenykedhet, aki a szaktanácsadói tevékenység végzésére irányuló szándékát a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény (a továbbiakban: Szolg. törvény) szerint bejelenti, és büntetlen előéletű. A szaktanácsadói tevékenység végzésére irányuló bejelentés – a Szolg. törvényben meghatározott adatokon túl – tartalmazza a bejelentő természetes személyazonosító adatait, értesítési címét, szakirányú végzettségét és a bejelentő szaktanácsadói besorolását, szakterületét, illetve részszakterületét, valamint a bejelentő szakmai gyakorlatát bemutató összefoglalót.
 
-(2) A Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara (a továbbiakban: agrárkamara) az (1) bekezdés szerinti szaktanácsadókról nyilvántartást vezet, amely tartalmazza a bejelentőnek az (1) bekezdésben meghatározott adatait, és – ha e célból rendelkezésre bocsátotta – egyéb elérhetőségét, továbbá a kapcsolódó végrehajtási rendeletben meghatározott egyéb adatokat, dokumentumokat. A nyilvántartásból kizárólag a szaktanácsadói tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
+(2) Az agrárkamara az (1) bekezdés szerinti szaktanácsadókról nyilvántartást vezet, amely tartalmazza a bejelentőnek az (1) bekezdésben meghatározott adatait, és – ha e célból rendelkezésre bocsátotta – egyéb elérhetőségét, továbbá a kapcsolódó végrehajtási rendeletben meghatározott egyéb adatokat, dokumentumokat. A nyilvántartásból kizárólag a szaktanácsadói tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 
 (3) Az (1) bekezdés szerinti szaktanácsadói tevékenység bejelentésével kapcsolatos feladatokat az agrárkamara országos ügyintéző szervezete látja el.
 
