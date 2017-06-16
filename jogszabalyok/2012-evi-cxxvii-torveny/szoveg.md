@@ -127,6 +127,8 @@ során.
 
 (3) Az (1) bekezdésben szereplő adatokat a Kamara a tagsági jogviszony megszűnését követő öt évig kezeli az állat-egészségügyi feladatok ellátásához kapcsolódó közfeladatai ellátása érdekében.
 
+(4) A Kamara az állatorvosi névjegyzék vezetéséhez az élelmiszerlánc-felügyeleti információs rendszerben nyilvántartott adatokat használja.
+
 #### 3. A területi szervezetek
 
 6. § (1) A területi szervezet testületi szervei a közgyűlés, valamint a 8. és 9. §-ban meghatározott szervek (a továbbiakban együtt: területi ügyintéző szervek). A területi szervezet önálló költségvetés alapján működik és ellátja az e törvényben és az Alapszabályban hatáskörébe utalt feladatokat.
@@ -572,13 +574,14 @@ fedezi.
 
 (2) Állatorvosi tevékenységet szolgáltatásként állat-egészségügyi szolgáltató nyújthat. Az állat-egészségügyi szolgáltató működéséhez – a (3) bekezdésben foglalt kivétellel – a Kamara által kiadott praxisengedély szükséges.
 
-(3) A Szent István Egyetem Állatorvos-tudományi Karának állatklinikáin, továbbá az állami fenntartású állat-egészségügyi kutató intézményekben, az állami fenntartású állat-egészségügyi intézetekben, valamint a fegyveres testületek és rendvédelmi szervek intézményeiben a szolgálati állatok vonatkozásában, a felsorolt intézményeken belül végzett állatorvosi tevékenység praxisengedély nélkül is végezhető.
+(3) Az Állatorvostudományi Egyetemen állatorvosként, továbbá az állami fenntartású állategészségügyi kutató intézményekben, az állami fenntartású állategészségügyi intézetekben, valamint a fegyveres testületek és rendvédelmi szervek intézményeiben a szolgálati állatok vonatkozásában, a felsorolt intézményeken belül végzett állatorvosi tevékenység FELIR azonosítóval, praxisengedély nélkül is végezhető.
 
 34. § (1) Állat-egészségügyi szolgáltatónál állatorvosi tevékenységet, illetve az abban való közreműködést az az állatorvos végezhet, aki
 
 - a) szerepel az állatorvosi névjegyzékben,
 - b) rendelkezik a kamarai állatorvosi névjegyzékbe bejegyzett székhellyel és
-- c) rendelkezik a személyére, mint biztosítottra az állatorvosi tevékenységére vonatkozó érvényes szakmai felelősségbiztosítással.
+- c) rendelkezik a személyére, mint biztosítottra az állatorvosi tevékenységére vonatkozó érvényes szakmai felelősségbiztosítással,
+- d) rendelkezik FELIR azonosítóval.
 
 (2) Állat-egészségügyi szolgáltatónál állatorvosi tevékenység, illetve az abban történő közreműködés – a rendelkezésre álló lehetőségek között – az alábbi jogviszonyok keretében végezhető
 
@@ -621,7 +624,7 @@ fedezi.
 
 #### 11. A praxisengedély
 
-38. § (1) Praxisengedélyt kérelemre annak az állat-egészségügyi szolgáltatónak kell kiadni, amely rendelkezik az e törvény végrehajtására kiadott rendelet és a Kamara által előírt, a bejelentett szakmai tevékenységéhez szükséges felszereléssel, és az állat-egészségügyi intézményekre és egységekre vonatkozó szabályoknak megfelelő helyiséggel, valamint a tevékenység folytatásához az állat-egészségügyi szolgáltató szakmai munkáját irányító állatorvossal.
+38. § (1) Praxisengedélyt kérelemre annak az állategészségügyi szolgáltatónak kell kiadni, amely rendelkezik az e törvény végrehajtására kiadott rendelet és a Kamara által előírt, a bejelentett szakmai tevékenységéhez szükséges felszereléssel, és az állategészségügyi intézményekre és egységekre vonatkozó szabályoknak megfelelő helyiséggel, a tevékenység folytatásához az állategészségügyi szolgáltató szakmai munkáját irányító, FELIR azonosítóval rendelkező állatorvossal.
 
 (2)
 
