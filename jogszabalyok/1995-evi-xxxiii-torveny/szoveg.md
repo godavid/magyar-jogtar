@@ -2128,7 +2128,7 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 115/D. § (1) A Szellemi Tulajdon Nemzeti Hivatala (a továbbiakban e fejezeten belül: Hivatal) a szellemi tulajdon védelméért felelős kormányhivatal.
 
-(2) A Hivatal elnökét a miniszterelnök, két elnökhelyettesét – az elnök javaslatára – a felügyeletet gyakorló miniszter (a továbbiakban: miniszter) nevezi ki és menti fel.
+(2) A Hivatal elnökét a miniszterelnök, három elnökhelyettesét – az elnök javaslatára – a felügyeletet gyakorló miniszter (a továbbiakban: miniszter) nevezi ki és menti fel.
 
 (3) A Hivatal elnökhelyettesei felett – a kinevezés és a felmentés kivételével – a Hivatal elnöke gyakorolja a munkáltatói jogokat.
 
@@ -2179,7 +2179,8 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 - d) a szellemi tulajdon védelmét szabályozó jogszabályok előkészítésében való részvétel;
 - e) a szellemi tulajdon védelmére irányuló kormányzati stratégia kidolgozása és érvényesítése, az ehhez szükséges állami intézkedések kezdeményezése, illetve végrehajtása;
 - f) a szellemi tulajdon területén folyó nemzetközi, illetve európai együttműködés szakmai feladatainak ellátása;
-- g) a kutatás-fejlesztési tevékenység minősítésével kapcsolatos hatósági és szakértői feladatok ellátása.
+- g) a kutatás-fejlesztési tevékenység minősítésével kapcsolatos hatósági és szakértői feladatok ellátása;
+- h) a korai fázisú vállalkozásokat támogató vállalkozások által igénybe vehető adóalap-kedvezményhez kapcsolódó nyilvántartási feladatok ellátása.
 
 115/H. § (1) A Hivatal a következő – e törvényben és külön jogszabályokban meghatározott – iparjogvédelmi hatósági feladatokat látja el:
 
@@ -2189,6 +2190,8 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 (2) A vámhatóság megkeresésére a Hivatal tájékoztatást ad az iparjogvédelmi jogosult személyéről a szellemi tulajdonjogok megsértése miatt indult vámigazgatási eljárásban.
 
 (2a) A Hivatal – külön jogszabály alapján – ellátja a kutatás-fejlesztési tevékenység előzetes minősítésének feladatait, valamint közreműködik olyan szakkérdések eldöntésében, amelyek a tevékenység kutatás-fejlesztésnek való minősítését, valamint egyes költségeknek a kutatás-fejlesztési tevékenységhez való hozzárendelhetőségét érintik.
+
+(2b) A Hivatal – jogszabály alapján – ellátja a korai fázisú vállalkozásokat támogató vállalkozások által igénybe vehető adóalap-kedvezményre való jogosultság igazolásához kapcsolódó nyilvántartásba vétellel, továbbá a nyilvántartásból való törléssel összefüggő feladatokat.
 
 (3) A Hivatal gondoskodik – külön jogszabály alapján – az Iparjogvédelmi Szakértői Testület működtetéséről.
 
@@ -2352,6 +2355,10 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 117/A. § E törvénynek a szellemi tulajdonra vonatkozó egyes törvények módosításáról szóló 2013. évi CLIX. törvénnyel megállapított 69/A. §-át és 115/S. § (3) bekezdését azokban az ügyekben is alkalmazni kell, amelyekben a szellemi tulajdonra vonatkozó egyes törvények módosításáról szóló 2013. évi CLIX. törvény hatálybalépését megelőzően hatályos rendelkezések szerint az írásos véleménnyel kiegészített újdonságkutatási jelentés iránti kérelem benyújtására nyitva álló határidő már eltelt.
 
 117/B. § Ha a Szellemi Tulajdon Nemzeti Hivatala az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+
+### A korai fázisú vállalkozások és a korai fázisú vállalkozásokat támogató vállalkozások nyilvántartásba vétel iránti eljárására vonatkozó közös szabályok
+
+117/C. § A korai fázisú vállalkozásoknak és a korai fázisú vállalkozásokat támogató vállalkozásoknak a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 7. § (1) bekezdés m) pontja szerinti kedvezmény érvényesítéséhez kapcsolódó nyilvántartásba-vételi eljárása és a nyilvántartásból történő törlése díjmentes.
 
 ### Felhatalmazások
 

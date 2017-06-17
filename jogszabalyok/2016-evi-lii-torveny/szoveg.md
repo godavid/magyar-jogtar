@@ -585,7 +585,7 @@ munkanapra emelkedik.
 
 (4) Mentesül a 14. § szerinti továbbképzési kötelezettség alól a fővárosi és megyei kormányhivataloknál foglalkoztatott állami tisztviselő, ha 2017. január 1. napjáig közigazgatási szakvizsgára jelentkezett és azt 2017. június 30. napjáig teljesíti.
 
-37. § Az állami szolgálati jogviszony – minisztériumokban, valamint a kormány, illetve a minisztériumok irányítása alatt álló, törvényben meghatározott központi államigazgatási szerveknél irányadó – szabályainak 2018. január 1. napjától történő bevezetéséről, valamint az ezzel összefüggő átmeneti szabályokról törvény rendelkezik.
+37. § Az állami szolgálati jogviszony – minisztériumokban, valamint a kormány, illetve a minisztériumok irányítása alatt álló, törvényben meghatározott központi államigazgatási szerveknél irányadó – szabályainak 2019. január 1. napjától történő bevezetéséről, valamint az ezzel összefüggő átmeneti szabályokról törvény rendelkezik.
 
 #### 21. Módosuló rendelkezések
 

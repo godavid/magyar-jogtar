@@ -59,7 +59,7 @@ gyakorolja.
   - ab) az általa irányított, felügyelt költségvetési szerv tulajdonosi joggyakorlása alá miniszteri rendelet alapján tartozó társasági részesedés tekintetében,
   - ac) a – törvény vagy miniszteri rendelet alapján – tulajdonosi joggyakorlása alá tartozó gazdasági társaság tulajdonosi joggyakorlása alá miniszteri rendelet alapján tartozó társasági részesedés tekintetében, valamint
   - ad) a Kormány egyedi döntésében meghatározott olyan, létező vagy megalapításra kerülő gazdasági társaság társasági részesedése tekintetében, amelyre nézve a Kormány a kormányzati tevékenység összehangolásáért felelős miniszter, az általa irányított, felügyelt költségvetési szerv vagy a tulajdonosi joggyakorlása vagy az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság tulajdonosi joggyakorlása alá tartozó, 100%-ban állami tulajdonban álló gazdasági társaság tulajdonosi joggyakorlásának biztosítását írja elő,
-- b) a miniszter az Áht. szerinti központi költségvetési szerv, továbbá a 100%-ban állami tulajdonban álló gazdasági társaság kijelölésével határozhatja meg az a) pont alapján kiadott miniszteri rendelet hatálya alá nem tartozó állami vagyoni kör tekintetében.
+- b) a miniszter a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 7/A. §-a szerinti személy kijelölésével határozhatja meg.
 
 (2b) A (2a) bekezdés a) pontja szerinti esetben a miniszter gondoskodik arról, hogy a kormányzati tevékenység összehangolásáért felelős miniszter rendeletének hatálya alá tartozó állami vagyon tekintetében a miniszter rendelete alapján fennálló tulajdonosi joggyakorlói kijelölés a kormányzati tevékenység összehangolásáért felelős miniszter rendeletének hatálybalépésével egyidejűleg megszüntetésre kerüljön.
 
@@ -76,6 +76,10 @@ gyakorolja.
 (2) Az állami vagyonnal gazdálkodó vagy azzal rendelkező szerv vagy személy a közérdekű adatok nyilvánosságáról szóló törvény szerinti közfeladatot ellátó szervnek vagy személynek minősül.
 
 5/A. § Az e törvény anyagi és eljárási szabályainak megsértésével kötött szerződés semmis.
+
+5/B. § (1) Az állam többségi tulajdonában lévő gazdasági társaság (ide nem értve a Magyar Nemzeti Bankot), illetve annak többségi tulajdonában lévő gazdasági társaság a miniszter felkérésére a gazdasági társasággal foglalkoztatásra irányuló jogviszonyban álló személyek tájékoztatása érdekében teljesíti a miniszter által meghatározott, a gazdasági társaság fejlesztésével, a foglalkoztatottak juttatásaival, valamint az egyes foglalkoztatotti csoportok sajátos körülményeivel összefüggő tájékoztatást.
+
+(2) Ha a miniszter a gazdasági társaságot a foglalkoztatottak személyre szóló tájékoztatására kéri fel, a tájékoztatások megszemélyesítése során személyes adatnak a gazdasági társaság által más adatkezelő részére való továbbítására nem kerülhet sor. A gazdasági társaság a tájékoztatás az érintettekkel való közléséhez az érintettek természetes személyazonosító adatait, a munkakörre, beosztásra vonatkozó adatokat és munkahelyi elektronikus levelezési címet használhatja fel.
 
 ### II. Fejezet
 

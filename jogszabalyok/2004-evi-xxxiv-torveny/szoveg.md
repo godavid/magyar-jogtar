@@ -29,18 +29,18 @@ Az Országgyűlés a magyar gazdaság döntő részét kitevő, a foglalkoztatot
 - a) összes foglalkoztatotti létszáma 10 főnél kevesebb, és
 - b) éves nettó árbevétele vagy mérlegfőösszege legfeljebb 2 millió eurónak megfelelő forintösszeg.
 
-(4) Nem minősül KKV-nak az a vállalkozás, amelyben az állam vagy az önkormányzat közvetlen vagy közvetett tulajdoni részesedése – tőke vagy szavazati joga alapján – külön-külön vagy együttesen meghaladja a 25%-ot.
+(4) Nem minősül KKV-nak az a vállalkozás, amelyben az állam vagy az önkormányzat közvetlen vagy közvetett tulajdoni részesedése – tőke vagy szavazati joga alapján – külön-külön vagy együttesen eléri vagy meghaladja a 25%-ot.
 
-(5) A (4) bekezdésben foglalt korlátozó rendelkezést nem kell alkalmazni a 19. § 1. pontjában meghatározott befektetők részesedése esetében.
+(5) A (4) bekezdésben foglalt korlátozó rendelkezést nem kell alkalmazni, ha a 19. § 1. pontjában meghatározott befektetők állnak a vállalkozással a 4. § (2) bekezdése szerinti kapcsolatban.
 
 (6) Ahol jogszabály ,,KKV-t'', ,,mikro-, kis- és középvállalkozást'', illetve ,,kis- és középvállalkozást'' említ, azon – ha törvény másként nem rendelkezik az e törvény szerinti KKV-t kell érteni.
 
 4. § (1) Önálló vállalkozás az a vállalkozás, amely nem minősül a (2) bekezdésben foglaltak alapján partnervállalkozásnak, illetve a (3)–(6) bekezdésben foglaltak alapján kapcsolódó vállalkozásnak.
 
-(2) Partnervállalkozás az,
+(2) Partnervállalkozások azok a vállalkozások,
 
-- a) amely a (3)–(6) bekezdésben foglaltak alapján nem minősül kapcsolódó vállalkozásnak, és
-- b) amelyben más vállalkozásnak kizárólagosan vagy több kapcsolódó vállalkozásnak együttesen, illetve amelynek más vállalkozásban kizárólagosan vagy több kapcsolódó vállalkozással együttesen a tulajdoni részesedése – jegyzett tőkéje vagy szavazati joga alapján – legalább 25%.
+- a) amelyek a (3)–(6) bekezdésben foglaltak alapján nem minősülnek kapcsolódó vállalkozásoknak, és
+- b) amelyek között olyan kapcsolat áll fenn, hogy egy vállalkozás kizárólagosan vagy a (3)–(6) bekezdésben foglaltak szerinti egy vagy több kapcsolódó vállalkozással közösen valamely másik vállalkozás jegyzett tőkéjének vagy a szavazati jogának legalább 25%-ával rendelkezik.
 
 (3) Kapcsolódó vállalkozások azok, amelyek egymással az alábbiakban felsorolt valamely kapcsolatban állnak:
 
@@ -49,7 +49,7 @@ Az Országgyűlés a magyar gazdaság döntő részét kitevő, a foglalkoztatot
 - c) egy vállalkozás egy másik vállalkozás felett a tulajdonosokkal (részvényesekkel) kötött szerződés vagy a létesítő okirat rendelkezése alapján – függetlenül a tulajdoni hányadtól, a szavazati aránytól, a megválasztási és visszahívási jogtól – döntő irányítást, ellenőrzést gyakorol, vagy
 - d) egy vállalkozás egy másik vállalkozásban – más tulajdonosokkal (részvényesekkel) kötött megállapodás alapján – a szavazatok többségét egyedül birtokolja.
 
-(4) Kapcsolódó vállalkozásnak minősülnek azok a vállalkozások is, amelyek egy vagy több vállalkozáson keresztül állnak egymással a (3) bekezdésben felsorolt kapcsolatban.
+(4) Kapcsolódó vállalkozásnak minősülnek azok a vállalkozások és a 19. § 1. pontjában meghatározott befektetők is, amelyek egy vagy több másik vállalkozáson keresztül állnak egymással a (3) bekezdésben meghatározott kapcsolatban.
 
 (5) Kapcsolódó vállalkozásnak minősülnek továbbá azok a vállalkozások, amelyek egy természetes személy vagy közösen fellépő természetes személyek egy csoportja révén a (3) és (4) bekezdésben meghatározott jellegű kapcsolatban állnak egymással, amennyiben tevékenységüket vagy tevékenységük egy részét az érintett piacon vagy egymással szomszédos piacokon folytatják.
 
@@ -72,6 +72,8 @@ Az Országgyűlés a magyar gazdaság döntő részét kitevő, a foglalkoztatot
 (8) Az (5) és (6) bekezdés alkalmazásában az adott vállalkozással partnervállalkozási kapcsolatban lévő vállalkozások adatait a vállalkozások összevont (konszolidált) éves beszámolója alapján, ennek hiányában a vállalkozások nyilvántartásai alapján kell meghatározni. A partnervállalkozások adatainak meghatározása során a partnervállalkozások adataihoz teljes mértékben hozzá kell adni a partnervállalkozásokhoz közvetlenül vagy közvetve kapcsolódó vállalkozások adatait is, ha ezek az adatok a partnervállalkozások összevont (konszolidált) éves beszámolóiban nem szerepelnek.
 
 (9) Az (5) és (7) bekezdés alkalmazásában, az adott vállalkozáshoz kapcsolódó vállalkozások adatait a vállalkozások összevont (konszolidált) éves beszámolója alapján, ennek hiányában a vállalkozások nyilvántartásai alapján kell meghatározni. A kapcsolódó vállalkozások adatainak meghatározása során a kapcsolódó vállalkozások adataihoz arányosan hozzá kell adni a kapcsolódó vállalkozással olyan partnervállalkozási kapcsolatban lévő vállalkozások adatait, amelyek közvetlenül tulajdonosai a kapcsolódó vállalkozásnak, vagy közvetlenül a kapcsolódó vállalkozás tulajdonában vannak, kivéve, ha ezek az adatok az összevont (konszolidált) beszámolóban legalább a (6) bekezdésben megjelölt százalékkal arányosan már szerepelnek.
+
+(10) Ha a rendelkezésre álló összevont (konszolidált) éves beszámolóban az adatok nem a (6)–(9) bekezdésben meghatározottak szerint állnak rendelkezésre, a 3. §-ban meghatározott adatokat nem az összevont (konszolidált) beszámoló alapján, hanem az egyedi beszámolóban szereplő mutatókat alapul véve, ennek hiányában a vállalkozás nyilvántartása alapján kell meghatározni.
 
 ### II. Fejezet — A KIS ÉS KÖZÉPVÁLLALKOZÁSOKTÁMOGATÁSA
 
@@ -128,7 +130,8 @@ Az Országgyűlés a magyar gazdaság döntő részét kitevő, a foglalkoztatot
 
 - a) értékeli a KKV-k állami támogatásának hatékonyságát, valamint kidolgozza az értékelés módszertanát,
 - b) kidolgozza és jóváhagyásra a Kormány elé terjeszti a KKV-k fejlesztésének stratégiáját, a KKV-fejlesztési politika fő célkitűzéseit és javaslatokat tesz a KKV-k fejlesztését szolgáló intézkedésekre,
-- c) az egységes európai piac folyamataiba való bekapcsolódás, illetve részvétel érdekében gondoskodik a KKV-k felkészítésével, és fejlesztésével kapcsolatos állami feladatok végrehajtásáról.
+- c) az egységes európai piac folyamataiba való bekapcsolódás, illetve részvétel érdekében gondoskodik a KKV-k felkészítésével, és fejlesztésével kapcsolatos állami feladatok végrehajtásáról,
+- d) elősegíti a KKV-k számára hasznosítható ismeretek és tudás, a hazai és külföldi kutatási és fejlesztési eredmények megismerését, elterjesztését, illetve a KKV-k innovációs képességének javítását.
 
 11. § A gazdasági szabályozó rendszer egyes elemeinek módosítása során, valamint a KKV-kat is érintő jogszabály-módosítások előterjesztésében be kell mutatni a tervezett változtatásoknak a KKV-k gazdasági helyzetére gyakorolt hatását.
 
@@ -157,7 +160,7 @@ Az Országgyűlés a magyar gazdaság döntő részét kitevő, a foglalkoztatot
 
 ### A Vállalkozásfejlesztési Tanács
 
-15. § A Vállalkozásfejlesztési Tanács (a továbbiakban: VT) részt vesz a KKV-fejlesztési stratégia kialakításában, ennek keretében:
+15. § A Vállalkozásfejlesztési Tanács (a továbbiakban VfT) részt vesz a KKV-fejlesztési stratégia kialakításában, ennek keretében:
 
 - a) javaslatot tesz a KKV-fejlesztési stratégia megalapozását szolgáló szakmai programokra és intézkedésekre,
 - b) véleményezi a KKV-k fejlesztése céljából kialakított szakmai programokat,
@@ -168,45 +171,47 @@ Az Országgyűlés a magyar gazdaság döntő részét kitevő, a foglalkoztatot
 - g) javaslatot fogalmaz meg a KKV-kat érintő szabályozási környezet kialakítására,
 - h) javaslatot tesz a KKV-k helyzetét érintő hatástanulmányok elkészítésére.
 
-16. § (1) A VT elnöke a miniszter.
+16. § (1) A VfT elnöke a miniszter.
 
-(2) A VT tagja:
+(2) A VfT tagja:
 
 - a) a Kormány által rendeletben kijelölt miniszterek egy-egy képviselője,
 - b) az országos gazdasági kamarák elnökei vagy a helyettesítésükre meghatalmazott személy,
-- c) az Általános Fogyasztási Szövetkezetek Országos Szövetségének (ÁFEOSZ), az Ipartestületek Országos Szövetségének (IPOSZ), a Kereskedők és Vendéglátók Országos Érdekképviseleti Szövetségének (KISOSZ), a Magyar Iparszövetségnek (OKISZ), a Munkaadók és Gyáriparosok Országos Szövetségének (MGYOSZ) és a Vállalkozók és Munkáltatók Országos Szövetségének (VOSZ) az elnöke vagy a helyettesítésére meghatalmazott személy.
+- c) az Általános Fogyasztási Szövetkezetek és Kereskedelmi Társaságok Országos Szövetségének (ÁFEOSZ-COOP Szövetség), az Ipartestületek Országos Szövetségének (IPOSZ), a Kereskedők és Vendéglátók Országos Érdekképviseleti Szövetségének (KISOSZ), a Magyar Iparszövetségnek (OKISZ), a Munkaadók és Gyáriparosok Országos Szövetségének (MGYOSZ), a Vállalkozók és Munkáltatók Országos Szövetségének (VOSZ), a Fiatal Vállalkozók Országos Szövetségének (FIVOSZ), a Joint Venture Szövetségnek (JVSZ), a Magyar Vállalkozásfejlesztési Alapítványnak (MVA) és a Magyarok a Piacon Klubnak az elnöke vagy a helyettesítésére meghatalmazott személy.
 
-(3) Tanácskozási joggal vesznek részt a VT munkájában:
+(3) Tanácskozási joggal vesznek részt a VfT munkájában:
 
-- a) a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnöke, a sportigazgatási szerv vezetője, a Magyar Bankszövetség elnöke, a Magyar Hitelgarancia Egyesülés igazgatója vagy a helyettesítésére meghatalmazott személy,
-- b) az Országos Érdekegyeztető Tanács Munkavállalói Oldalának 2 képviselője,
+- a) a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnöke, a Magyar Bankszövetség elnöke, a Magyar Fejlesztési Bank vezérigazgatója, a Központi Statisztikai Hivatal elnöke, a Közbeszerzési Hatóság elnöke, a Magyar Innovációs Szövetség elnöke, a Magyar Gépipari és Energetikai Országos Szövetség (MAGEOSZ) és a Magyar Járműalkatrészgyártók Országos Szövetsége (MAJOSZ) elnöke vagy a helyettesítésére meghatalmazott személy,
+- b) a Nemzeti Gazdasági és Társadalmi Tanács Munkavállalói Oldalának két képviselője,
 - c) a miniszter által kijelölt vállalkozásfejlesztési szervezetek vezetői vagy a helyettesítésükre meghatalmazott személy,
 - d) a miniszter névre szóló felkérése alapján létrehozott szakmai tanácsadó testület tagjai,
 - e) esélyegyenlőséget érintő kérdésekben az érintett civil szervezetek képviselői.
 
-17. § (1) A VT évente legalább négy alkalommal tart ülést. Az üléseket a VT elnöke hívja össze. Soron kívül össze kell hívni a testületet, ha tagjainak legalább egyharmada azt a napirend megjelölésével írásban kezdeményezi.
+17. § (1) A VfT évente legalább négy alkalommal tart ülést. Az üléseket a VfT elnöke hívja össze. Soron kívül össze kell hívni a testületet, ha tagjainak legalább egyharmada azt a napirend megjelölésével írásban kezdeményezi.
 
-(2) A VT határozatait egyszerű szótöbbséggel hozza meg. A VT határozatképes, ha a szavazati joggal rendelkező tagok legalább kétharmada jelen van.
+(2) A VfT határozatait egyszerű szótöbbséggel hozza meg. A VfT határozatképes, ha a szavazati joggal rendelkező tagok legalább kétharmada jelen van.
 
-(3) A VT ügyrendjét maga állapítja meg.
+(3) A VfT ügyrendjét maga állapítja meg.
 
-(4) A VT titkársági feladatait a miniszter által vezetett minisztérium szervezeti egysége látja el.
+(4) A VfT titkársági feladatait a miniszter által vezetett minisztérium szervezeti egysége látja el.
 
 ### IV. Fejezet — ÉRTELMEZŐ RENDELKEZÉSEK
 
-18. § Az e törvényben euróban meghatározott összegek forintra történő átszámításakor a Magyar Nemzeti Bank (a továbbiakban: MNB) által megállapított, a KKV üzleti évének lezárásakor érvényes deviza középárfolyamot kell alkalmazni. Újonnan alapított vállalkozás esetén a tárgyévet megelőző év utolsó napján érvényes, MNB által megállapított deviza középárfolyamot kell alkalmazni.
+18. § Az e törvényben euróban meghatározott összegek forintra történő átszámításakor a Magyar Nemzeti Bank (a továbbiakban: MNB) által megállapított, a vállalkozás üzleti évének lezárásakor érvényes deviza középárfolyamot kell alkalmazni. Újonnan alapított vállalkozás esetén a tárgyévet megelőző év utolsó napján érvényes, MNB által megállapított deviza középárfolyamot kell alkalmazni.
 
 19. § E törvény alkalmazásában:
 
 - 1. befektető:
-  - a) – állami befektető társaságok, – finanszírozáshoz való hozzáférés elősegítése céljából rendszeresen kockázatitőke-befektetést folytató egyének vagy csoportok, akik vagy amelyek a tőzsdén nem jegyzett vállalkozások alaptőkéjébe fektetnek be, azzal a feltétellel, hogy az érdekeltségük az adott vállalkozásban kevesebb, mint 1 250 000 euró, illetve az annak megfelelő forintösszeg, – a szövetkezeti üzletrész hasznosító gazdasági társaság,
-  - b) felsőoktatási intézmények, nem felsőoktatási intézmény szervezetében működő oktatási és szaktanácsadási intézmények, a felső- vagy középfokú oktatás gyakorlati háttereként termelő tevékenységet folytató tangazdaságok és tanüzemek, nonprofit kutatási központok, valamint nem felsőoktatási intézmény szervezeteként – költségvetési formában működő – egyéb kutatóhelyek,
-  - c) a tőkepiacról szóló 2001. évi CXX. törvény 5. § (1) bekezdésének 60. pontjában meghatározott intézményi befektetők,
-  - d) az évi 10 millió eurót, illetve az annak megfelelő forintösszeget meg nem haladó költségvetéssel és kevesebb, mint 5000 lakossal rendelkező helyi önkormányzatok;
+  - a) az állami befektető társaság,
+  - b) finanszírozáshoz való hozzáférés elősegítése céljából rendszeresen kockázatitőke-befektetést folytató egyének vagy csoportok, akik vagy amelyek a tőzsdén nem jegyzett vállalkozások alaptőkéjébe fektetnek be, azzal a feltétellel, hogy az ugyanazon vállalkozásban eszközölt összes befektetésük legfeljebb 1 250 000 eurónak megfelelő forintösszeg,
+  - c) a felsőoktatási intézmények, a nem felsőoktatási intézmény szervezetében működő oktatási és szaktanácsadási intézmények, a felső- vagy középfokú oktatás gyakorlati háttereként termelő tevékenységet folytató tangazdaságok és tanüzemek, a nonprofit kutatási központok, valamint nem felsőoktatási intézmény szervezeteként – költségvetési szervként működő – egyéb kutatóhelyek,
+  - d) a tőkepiacról szóló 2001. évi CXX. törvény 5. § (1) bekezdés 60. pontjában meghatározott intézményi befektetők, ideértve a regionális fejlesztési alapokat,
+  - e) az évi 10 millió eurónak megfelelő forintösszeget el nem érő költségvetéssel és kevesebb, mint 5000 lakossal rendelkező helyi önkormányzatok;
 - 2. egyéni vállalkozó: az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény szerinti egyéni vállalkozó;
 - 3. közvetett tulajdon: a tőkepiacról szóló 2001. évi CXX. törvény 5. § (1) bekezdésének 84. pontja szerint meghatározott közvetett tulajdon;
 - 4. szomszédos piac: az adott terméknek vagy szolgáltatásnak az a piaca, amely a termék vagy szolgáltatás végső fogyasztóhoz való eljuttatására létrehozott termelési, értékesítési folyamatban vertikálisan az adott piacot megelőző vagy követő szinten helyezkedik el;
-- 5. vállalkozás: az egyéni vállalkozó, az egyéni cég, a gazdasági társaság, az ügyvédi iroda, a szövetkezet, a vízi társulat, a víziközmű társulat, az erdőbirtokossági társulat, továbbá a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet I. mellékletében meghatározott KKV kritériumoknak megfelelő mezőgazdasági termeléssel, halgazdálkodással, mezőgazdasági feldolgozással és forgalmazással, erdőgazdálkodással és vadgazdálkodással foglalkozó vállalkozás és természetes személyek.
+- 5. vállalkozás: a gazdasági tevékenységet folytató jogalany, különösen az egyéni vállalkozó, az egyéni cég, a gazdasági társaság, az ügyvédi iroda, a szövetkezet, a vízi társulat, a víziközmű társulat, az erdőbirtokossági társulat, továbbá a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet I. mellékletében meghatározott KKV kritériumoknak megfelelő mezőgazdasági termeléssel, halgazdálkodással, mezőgazdasági feldolgozással és forgalmazással, erdőgazdálkodással és vadgazdálkodással foglalkozó vállalkozás és természetes személyek;
+- 6. állami befektető társaság: olyan többségi állami tulajdonban lévő gazdasági társaság vagy a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény 4. § (1) bekezdés 17. pontjában meghatározott befektetési alap, amelynek célja vállalkozások részére történő kölcsöntőke nyújtása.
 
 ### V. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -222,6 +227,6 @@ Az Országgyűlés a magyar gazdaság döntő részét kitevő, a foglalkoztatot
 
 (8) A 7. § (2) bekezdés u) pontja az energiahatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módosításáról, valamint a 2004/8/EK és a 2006/32/EK irányelv hatályon kívül helyezéséről szóló, 2012. október 25-i 2012/27/EU európai parlamenti és tanácsi irányelv 8. cikk (2) bekezdésének való megfelelést szolgálja.
 
-21. § (1) Felhatalmazást kap a Kormány, hogy a támogatásokkal, a vállalkozói hitelekkel, a közbeszerzésekkel, a KKV szektor helyzetével, gazdálkodásával összefüggő, összesített adatokra vonatkozó adatszolgáltatás körét és rendjét rendeletben állapítsa meg és rendeletben jelölje ki a Vállalkozásfejlesztési Tanácsba képviselőt delegáló minisztereket.
+21. § (1) Felhatalmazást kap a Kormány, hogy a támogatásokkal, a vállalkozói hitelekkel, a közbeszerzésekkel, a KKV szektor helyzetével, gazdálkodásával összefüggő, összesített adatokra vonatkozó adatszolgáltatás körét és rendjét rendeletben állapítsa meg és rendeletben jelölje ki a VfT-be képviselőt delegáló minisztereket.
 
 (2)

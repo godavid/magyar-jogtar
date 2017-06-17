@@ -47,15 +47,19 @@ Az Országgyűlés a Magyar Export-Import Bank Részvénytársaságról és a Ma
   - gb) kötvények kibocsátása;
 - h) követelésvásárlás.
 
-(1a) Az Eximbank a nemzetközi fejlesztési együttműködési célú segélyügyletekhez, valamint nemzetközi fejlesztési célú alap alapításához, illetve ahhoz történő csatlakozáshoz kapcsolódóan az alábbi tevékenységet végzi:
+(1a) Az Eximbank nemzetközi fejlesztési együttműködési céllal az alábbi tevékenységet végzi:
 
 - a) vissza nem térítendő támogatás, illetve kedvezményes hitel nyújtásával nemzetközi fejlesztési együttműködési célú segélyügyletek finanszírozása,
-- b) nemzetközi pénzügyi-fejlesztési intézmény által működtetett nemzetközi fejlesztési együttműködési célú alap alapításához, vagy ahhoz történő csatlakozás a 6. § (4a) bekezdésben meghatározott források felhasználásával, és
-- c) kockázati- és magántőkealap alapítása vagy ahhoz történő csatlakozás tőkebefektetésen keresztül.
+- b) nemzetközi pénzügyi-fejlesztési intézmény által működtetett nemzetközi fejlesztési együttműködési célú alap alapítása, vagy ahhoz történő csatlakozás, és
+- c) bel- és külföldi kockázati- és magántőkealap alapítása vagy ahhoz történő csatlakozás tőkebefektetésen keresztül.
 
-(1b) Az Eximbank a nemzetközi fejlesztési együttműködési célú alap alapításához, illetve ahhoz történő csatlakozáshoz kapcsolódó megállapodások vonatkozásában az államháztartásért és a nemzetközi fejlesztési együttműködésért felelős minszterek egyetértése esetén az állam képviseletében jár el, és e felhatalmazásra történő hivatkozás mellett jogosult a vonatkozó szerződések megkötésére, módosítására vagy megszüntetésére.
+(1b) Az Eximbank a nemzetközi fejlesztési együttműködési célú alap alapításához, illetve ahhoz történő csatlakozáshoz kapcsolódó megállapodások vonatkozásában a nemzetközi pénzügyi kapcsolatokért és a nemzetközi fejlesztési együttműködésért felelős miniszterek egyetértése esetén az állam képviseletében jár el, és e felhatalmazásra történő hivatkozás mellett jogosult a vonatkozó szerződések megkötésére, módosítására vagy megszüntetésére. Az állam nevében történő alapításhoz vagy csatlakozáshoz szükséges fedezetet a központi költségvetés terhére kell biztosítani, e kifizetéseket – a nemzetközi pénzügyi intézmények kezelésében működő alapok kivételével – a nemzetközi fejlesztési együttműködésért felelős miniszter irányítása alá tartozó központi költségvetési fejezetben kell megtervezni és elszámolni. A nemzetközi pénzügyi intézmények kezelésében működő alapokhoz kapcsolódó kifizetéseket a nemzetközi pénzügyi kapcsolatokért felelős miniszter irányítása alá tartozó központi költségvetési fejezetben kell megtervezni és elszámolni.
 
-(1c) Az Eximbank felelős az (1b) bekezdés szerint megkötött szerződések magyar kormányzati fejlesztési politika szerinti végrehajtásáért és a szerződésből eredő kötelezettségek teljesítéséért. Az Eximbank a megkötött szerződések végrehajtásáról és azok nemzetközi fejlesztési együttműködési szempontú eredményességéről az államháztartásért és a nemzetközi fejlesztési együttműködésért felelős miniszterek részére évente jelentést készít.
+(1c) Az Eximbank felelős az (1b) bekezdés szerint megkötött szerződések magyar kormányzati fejlesztési együttműködési politika szerinti végrehajtásáért és a szerződésből eredő kötelezettségek teljesítéséért. Az Eximbank a megkötött szerződések végrehajtásáról és azok nemzetközi fejlesztési együttműködési szempontú eredményességéről a nemzetközi pénzügyi kapcsolatokért és a nemzetközi fejlesztési együttműködésért felelős miniszterek részére évente jelentést készít.
+
+(1d) Az Eximbank (1a) bekezdés szerinti tevékenységén túl jogosult bel- és külföldi kockázati- és magántőkealap alapításához, vagy ahhoz történő csatlakozáshoz kapcsolódóan befektetési jegyet jegyezni.
+
+(1e) Az Eximbank a Kormány határozata alapján az (1d) bekezdés szerinti tevékenységet az állam nevében is végezheti, ekkor az alapításhoz vagy csatlakozáshoz szükséges fedezetet a központi költségvetés terhére kell biztosítani, e kifizetéseket a külgazdaságért felelős miniszter irányítása alá tartozó központi költségvetési fejezetben kell megtervezni és elszámolni.
 
 (2) Az Eximbank a hitel és pénzkölcsön nyújtás keretében az export finanszírozása érdekében külön rendeletben foglalt feltételek mellett kötött segélyhitelt nyújthat a magyar árukat, szolgáltatásokat megvásároló, igénybe vevő devizakülföldieknek, és kedvező kamatozású hiteleket nyújthat a külön rendeletben foglalt feltételek mellett. Devizabelföldi és devizakülföldi alatt a devizakorlátozások megszüntetéséről, valamint egyes kapcsolódó törvények módosításáról szóló 2001. évi XCIII. törvény 2. §-ában foglaltakat kell érteni.
 
@@ -139,7 +143,7 @@ eredő fizetési kötelezettségek teljesítéséért.
 
 (4) A 2. § (2) bekezdése szerint nyújtott hitelek kamatának, valamint az e célt szolgáló finanszírozási költségek különbözetének (a továbbiakban: egyenleg) forrását az Eximbank részére a központi költségvetés – kormányrendeletben megállapított feltételek szerint és módon – közvetlenül biztosítja.
 
-(4a) A 2. § (1b) bekezdésének hatálya alá tartozó, nemzetközi fejlesztési együttműködési célú tevékenységhez szükséges forrásokat 2014. évben az állam a központi költségvetés terhére, a kamatkiegyenlítési rendszeren keresztül közvetlenül biztosítja az Eximbank részére. 2014. évet követően a központi költségvetésről szóló törvény külön előirányzata tartalmazza az Eximbank 2. § (1b) bekezdésben meghatározott tevékenységéhez szükséges forrásokat.
+(4a)
 
 (5) Az (1) és (2) bekezdés alapján fennálló állami kezesség esetén a jogosult az állami készfizető kezességvállaláson túlmenően további biztosíték előírására nem köteles.
 

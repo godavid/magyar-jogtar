@@ -2092,7 +2092,7 @@ hatályát veszti.
 
 (8) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, hogy a külpolitikáért felelős miniszterrel, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel, valamint a polgári hírszerzési tevékenység irányításáért felelős miniszterrel egyetértésben rendeletben határozza meg azokat a harmadik országokat, amelyek állampolgárai részére kiadott vízumokról a Vízumkódex 31. cikk (1) bekezdése szerint a központi vízumhatóság tájékoztatást kér.
 
-(9) Felhatalmazást kap az államháztartásért felelős miniszter, hogy rendeletben szabályozza a 28. § (4) bekezdés a) pont aa) alpontjában meghatározott államkötvény kibocsátásának részletes szabályait.
+(9) Felhatalmazást kap az államháztartásért felelős miniszter, hogy rendeletben szabályozza a 35/A. § (2) bekezdés a) pont aa) alpontjában meghatározott államkötvény kibocsátásának részletes szabályait.
 
 (10) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy a 108/B. § (1) bekezdésben meghatározott személyek és szervezetek magyarországi jogállását, adatait és jogosultságait tanúsító igazolvány, okirat formájára és kibocsátásának eljárásrendjére vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
