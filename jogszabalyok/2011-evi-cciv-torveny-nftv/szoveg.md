@@ -216,8 +216,11 @@ jogosult folytatni.
 - a) a szenátus létszáma nem lehet kevesebb kilenc főnél, továbbá az oktatók és kutatók által választott tagoknak – az elnökkel együtt – a testület tagjainak többségét kell alkotniuk, a vezetői megbízással nem rendelkező oktatók képviseletét biztosítani kell,
 - b) a hallgatói önkormányzat a 60. § (1) bekezdés b) pontjában meghatározott feltételek szerint a szenátus létszáma legalább húsz, legfeljebb huszonöt százalékának megfelelő számban delegál képviselőt,
 - c) a doktorandusz önkormányzat egy fő képviselőt jogosult delegálni,
-- d) az egyéb munkakörben foglalkoztatott tagok, a reprezentatív szakszervezetek képviselőinek létszáma nem lehet több, mint a szenátus létszámának öt-öt százaléka, de legalább egy-egy fő,
-- e) a szenátus tagjainak megbízatása négy év, a hallgatói és a doktorandusz önkormányzat képviselője esetében legalább egy és legfeljebb három év lehet,
+- d) az egyéb munkakörben foglalkoztatott tagok, a szakszervezetek képviselőinek létszáma nem lehet több, mint a szenátus létszámának öt-öt százaléka, de legalább egy-egy fő,
+- e) általános szenátusi választást négyévente kell tartani, azzal, hogy
+  - ea) a szenátust négy évre választják, de a hallgatói és a doktorandusz önkormányzat képviselőjének megbízatása legfeljebb három év lehet,
+  - eb) ha a szenátus tagjának a soron következő általános szenátusi választást megelőzően megszűnik a megbízatása, a szenátus létszámának kiegészítése céljából – amennyiben az általános szenátusi választás keretében póttag választására nem került sor – időközi szenátusi tagválasztást kell tartani,
+  - ec) megszűnik a megelőző szenátus, illetve valamennyi tagjának a tagi megbízatása az általános szenátusi választást követően az új szenátus alakuló ülésének napján,
 - f) a szenátus ülései az intézmény alkalmazottai, hallgatói számára nyilvánosak,
 - g) a szenátus ülése akkor határozatképes, ha tagjainak legalább hatvan százaléka jelen van, döntéseit – ha törvény vagy a szervezeti és működési szabályzat magasabb szavazati arányt nem ír elő – jelen lévő tagjai többségének egyhangú szavazatával hozza,
 - h) a szenátus jelen lévő tagjai több mint ötven százalékának kérésére zárt ülést, titkos szavazást kell tartani,
@@ -434,7 +437,7 @@ ad ki.
 
 20. § (1) A felsőoktatási intézmények tevékenységének összehangolása céljából az intézményeket át lehet alakítani. Az átalakulás egyesülés vagy különválás lehet. Az egyesülés beolvadás vagy összeolvadás, a különválás szétválás vagy kiválás lehet. Az átalakulásról a szenátus vagy a szenátusok előzetes véleményének ismeretében a fenntartó hoz döntést.
 
-(2) A Kormány külön engedélye hiányában költségvetési szervként működő felsőoktatási intézmény vagy annak kiváló szervezeti egysége kizárólag költségvetési szervvel egyesülhet.
+(2) A Kormány külön engedélye hiányában költségvetési szervként működő felsőoktatási intézmény vagy annak kiváló szervezeti egysége kizárólag költségvetési szervvel egyesülhet vagy költségvetési szervbe olvadhat be.
 
 (3) A felsőoktatási intézmény átalakulására vonatkozó döntés, továbbá az alapító okiratnak a 2. melléklet I. fejezet 1.1. pont a) és e) alpontját érintő módosítása – a 97. § (2)–(4) és (7)–(8) bekezdésében meghatározott intézkedésre tekintettel szükséges döntést és módosítást ide nem értve – február 1-jével vagy augusztus 1-jével hatályosulhat.
 
@@ -573,6 +576,8 @@ kezeli.
 - a) a tanársegédi munkakörben történő alkalmazás feltétele a doktori képzés megkezdése,
 - b) az adjunktusi munkakörben történő alkalmazás feltétele a doktori fokozat megszerzése.
 
+(1a) Ha a tanársegéd megfelel a foglalkoztatási követelményrendszerben meghatározott feltételeknek, a doktori fokozat megszerzését követő három éven belül adjunktusi munkakörbe kell átsorolni.
+
 (2) A főiskolai docensi munkakörben történő alkalmazás feltétele, hogy az érintett rendelkezzék doktori fokozattal, és alkalmas legyen a hallgatók, a tanársegédek tanulmányi, tudományos, illetve művészi munkájának vezetésére, továbbá rendelkezzék megfelelő szakmai gyakorlattal.
 
 (3) A főiskolai tanári és az egyetemi docensi munkakörben történő alkalmazás feltétele, hogy az érintett rendelkezzék doktori fokozattal, és alkalmas legyen a hallgatók, a doktori képzésben részt vevők, a tanársegédek tanulmányi, tudományos, illetve művészi munkájának vezetésére, valamint arra, hogy idegen nyelven előadást tartson, továbbá rendelkezzék megfelelő, az oktatásban szerzett szakmai tapasztalattal.
@@ -669,7 +674,7 @@ címet adományozhat.
 
 36. § (1)
 
-(2) Költségvetési szervként működő felsőoktatási intézmény alkalmazottjának tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó, a közalkalmazottak jogállásáról szóló törvény szerinti havi rendszeres járandósága nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét.
+(2) Költségvetési szervként működő felsőoktatási intézmény alkalmazottjának havi illetményét, havi rendszeres illetménypótlékát a közalkalmazottak jogállásáról szóló törvény 21. § (3) bekezdésében foglaltak szerint kell megállapítani.
 
 ### IX. Fejezet — VEZETŐI ÁLLÁSOK ÉS VEZETŐI MEGBÍZÁSOK
 
@@ -688,7 +693,7 @@ címet adományozhat.
 - a) az (1) bekezdésben felsoroltak – az a) és b) pont kivételével – helyettesei,
 - b) szervezeti egység vezetői és vezetőhelyettesei.
 
-(3) Az (1) és (2) bekezdésben meghatározott vezetői megbízások határozott időre – az (1) bekezdés a)–d) pontja esetében legfeljebb öt évig terjedő időtartamra – adhatók. Az (1) bekezdés a), c) és d) pontjában felsorolt megbízások egy, az (1) bekezdés b) és e) pontjában, továbbá a (2) bekezdésben felsorolt megbízások több alkalommal meghosszabbíthatók. Az (1) és (2) bekezdésben meghatározott vezetői megbízásokra nyilvános pályázatot kell kiírni.
+(3) Az (1) és (2) bekezdésben meghatározott vezetői megbízások határozott időre – az (1) bekezdés a)–d) pontja esetében legfeljebb öt évig terjedő időtartamra – adhatók. Az (1) bekezdés a), c) és d) pontjában felsorolt megbízások egy, az (1) bekezdés b) és e) pontjában, továbbá a (2) bekezdésben felsorolt megbízások pályázat útján több alkalommal meghosszabbíthatók. Az (1) és (2) bekezdésben meghatározott vezetői megbízásokra nyilvános pályázatot kell kiírni.
 
 (4) A rektori megbízásra benyújtott valamennyi, a pályázati feltételeknek megfelelt pályázatot a szenátus véleményezi, és valamennyi tagja többségének szavazatával dönt a rektorjelölt személyéről. Adott felsőoktatási intézményben ugyanazon személy – a vezetői megbízási ciklusoktól függetlenül – összesen legfeljebb két alkalommal kaphat rektori magasabb vezetői megbízást az esetleges jogelőd intézményekre is tekintettel. A rektori magasabb vezetői pályázatot a fenntartó írja ki.
 
@@ -920,6 +925,8 @@ esélyegyenlőségét az a)–d) pontban meghatározott hallgatói csoportok tek
 
 feltéve, hogy a hallgató a hallgatói jogviszonyból eredő kötelezettségeinek szülés, továbbá baleset, betegség vagy más váratlan ok miatt, önhibáján kívül nem tud eleget tenni.
 
+(2a) Ha a felsőoktatási intézmény a (2) bekezdés c) pontja szerint a hallgatói jogviszony szünetelését engedélyezi, az adott képzési időszakra vonatkozó bejelentkezést visszavontnak kell tekinteni, azzal, hogy a már megkezdett, de a szüneteléssel érintett képzési időszakra vonatkozóan a bejelentkezés jogkövetkezményei nem állapíthatóak meg.
+
 (3) Szünetel a hallgatói jogviszony, ha a hallgatót fegyelmi büntetésként eltiltják a tanulmányok folytatásától.
 
 (4) Szünetel a hallgatói jogviszony az önkéntes tartalékos katonai tényleges szolgálatteljesítés időtartamára, amely időszakban a hallgató mentesül a felsőoktatási intézmény tanulmányi és vizsgaszabályzatában meghatározott kötelezettségek alól.
@@ -1095,7 +1102,7 @@ tekintettel.
 
 (3) A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv a volt magyar állami (rész)ösztöndíjas hallgató kérelmére a 48/A. § c) pontja alapján meghatározott feltételt – kormányrendeletben meghatározottak szerint – teljesítettnek tekinti, ha a hallgató hazai munkaviszonyt az állami (rész)ösztöndíjjal igénybe vett képzési időnek megfelelő időtartamban tart fenn.
 
-48/O. § (1) A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv a volt magyar állami (rész)ösztöndíjas hallgató kérelmére a 48/A. § a) pontja alapján meghatározott feltételt teljesítettnek tekinti, ha a hallgató az oklevelét tartós betegsége, balesete, szülés miatt nem képes megszerezni.
+48/O. § (1) A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv a volt magyar állami (rész)ösztöndíjas hallgató kérelmére a 48/A. § a) pontja alapján meghatározott feltételt teljesítettnek tekinti, ha a hallgató az oklevelét tartós betegsége, balesete, szülés miatt, vagy más váratlan ok miatt, önhibáján kívül nem képes megszerezni.
 
 (2) A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv a volt magyar állami (rész)ösztöndíjas hallgató kérelmére a 48/A. § b)–d) pontja alapján meghatározott feltételt vagy annak egy részét teljesítettnek tekinti, ha a hallgató a kötelezettségét megváltozott munkaképességére tekintettel, tartós betegsége, balesete, szülés, kettő vagy több gyermek nevelésére tekintettel vagy más váratlan ok miatt, önhibáján kívül nem képes teljesíteni.
 
@@ -1428,7 +1435,7 @@ feltéve, hogy a hallgatót előzetesen írásban felhívták arra, hogy kötele
 
 - a) működteti
   - aa) a felsőoktatási információs rendszer működéséért felelős szervet, az oktatási hivatalt, a külföldi bizonyítványok és oklevelek elismeréséért felelős szervet,
-  - ab) az oktatási jogok biztosának hivatalát,
+  - ab) – az Nkt.-ban meghatározottak szerint – az oktatási jogok biztosának hivatalát,
 - b) meghatározza a pedagógusképzés irányait,
 - c) megküldi a főiskolai rektor megbízására és felmentésére, a főiskolai tanár kinevezésére és felmentésére vonatkozó javaslatot a miniszterelnöknek, az egyetemi rektori megbízásra és felmentésre, az egyetemi tanár kinevezésére és felmentésére vonatkozó javaslatot a köztársasági elnöknek;
 - d) javaslatot tesz statisztikai adatszolgáltatásra;
@@ -1579,7 +1586,7 @@ kapcsolatos ügyekben.
 
 (3) A MAB tagjai közül tisztségviselőket választ, valamint meghatározza működésének rendjét.
 
-(4) A delegált tagokat – a miniszter előterjesztésére – a miniszterelnök bízza meg. A megbízás egy alkalommal meghosszabbítható. A tagok megbízatása – a Doktoranduszok Országos Szövetsége és a Hallgatói Önkormányzatok Országos Konferenciája által delegált tag kivételével – hat évre szól. A Doktoranduszok Országos Szövetsége és a Hallgatói Önkormányzatok Országos Konferenciája által delegált tagokat a miniszterelnök kettő évre bízza meg.
+(4) A delegált tagokat – a miniszter előterjesztésére – a miniszterelnök bízza meg. A megbízás egy alkalommal meghosszabbítható. A tagok megbízatása – a Doktoranduszok Országos Szövetsége és a Hallgatói Önkormányzatok Országos Konferenciája által delegált tag kivételével – legfeljebb hat évre szól. A Doktoranduszok Országos Szövetsége és a Hallgatói Önkormányzatok Országos Konferenciája által delegált tagokat a miniszterelnök legfeljebb kettő évre bízza meg.
 
 (5) Az azonos tárgy, vagy személy tekintetében, egy eljárás keretében a 67. és 69. §-ban meghatározottak szerint szükséges újabb szakvélemény elkészítésével kapcsolatos feladatok pártatlan, tárgyilagos szempontokon alapuló ellátása céljából a MAB szervezetének részeként három tagból álló Felülvizsgálati Bizottságot kell működtetni. A Felülvizsgálati Bizottság tagjait a miniszter delegálja, megbízásukra, összeférhetetlenségükre a MAB tagjaira vonatkozó szabályokat kell alkalmazni, azzal, hogy nem lehet a Felülvizsgálati Bizottság tagja az a személy, aki megbízását megelőző három éven belül a MAB tagja volt.
 
@@ -2317,6 +2324,10 @@ gyakorolja.
 
 (3) A képzésben részt vevőket a Kormány – az állami ösztöndíj mellett – pályázati eljárásban odaítélt Klebelsberg Képzési Ösztöndíjjal támogatja. Az ösztöndíj igénybevételének rendjét, feltételeit a Kormány rendeletben állapítja meg.
 
+(3a) A Klebelsberg Képzési Ösztöndíjjal támogatott képzésre tekintettel megállapított visszafizetési kötelezettség adók módjára behajtandó köztartozás.
+
+(3b) Az állami adó- és vámhatóság a visszatérítési kötelezettség érvényesítésére folytatott végrehajtási eljárásában a végrehajtási jogot az ingatlan-nyilvántartásba a magyar állam javára jegyezteti be.
+
 (4) A pedagóguspályára jelentkezőknek a felvételi eljárás keretében alkalmassági vizsgán kell részt venniük.
 
 (5) A Kormány határozza meg a pedagógusképzésben az alap- és mesterképzés, valamint az osztatlan képzés szakjait és szakirányait, választható egyenrangú szakpárjait és szakirányait, továbbá a mesterképzés szakosodási rendszerének általános szabályait. A miniszter rendeletben határozza meg az egyes tanári szakok képzési és kimeneti követelményeit.
@@ -2325,7 +2336,7 @@ gyakorolja.
 
 (2) A tanárképző központ koordinálja különösen a hallgatói meghallgatást, kiválasztást, felvételt, átvételt, a kreditelismerés, a pedagógiai szakképzés, a záróvizsga letételének folyamatát, és szervezi, ellenőrzi, valamint értékeli az iskolai gyakorlatot. Nyomon követi a hallgatói előremenetelt, pályakövetést végez.
 
-(3) A pedagógusképzést folytató felsőoktatási intézmények – a tanárképző központon keresztül – részt vesznek a pedagógus továbbképzésben, a pedagógiai kutatásokban, a pedagógusok minősítési eljárásában.
+(3) A pedagógusképzést folytató felsőoktatási intézmények részt vesznek a pedagógus-továbbképzésben. Állami felsőoktatási intézményben a pedagógus-továbbképzés igazgatási jellegű koordinációjának biztosítása a kancellár feladata.
 
 (4) A pedagógusképzést folytató felsőoktatási intézmény köznevelési intézményt (gyakorló intézmény) tarthat fenn, amely részt vesz a hallgatók gyakorlati képzésében. A gyógypedagógus-képzést folytató felsőoktatási intézmény által fenntartott köznevelési intézmény (gyakorló intézmény) elláthat a nevelő és oktató munkához kapcsolódó nem köznevelési tevékenységet is.
 
@@ -2388,6 +2399,8 @@ foglalt eltérésekkel együtt kell alkalmazni.
 
 104/D. § A Magyar Táncművészeti Egyetem egyetemként működő felsőoktatási intézmény, amely – alapító okiratában foglaltak szerint – eltérhet a 6. § (2) bekezdésében, a 9. § (3) bekezdésében foglalt a felsőoktatási intézményekre előírt feltételektől, azzal, hogy a 15–16. § szerinti képzési rendszert meg kell tartania.
 
+104/E. § A Semmelweis Egyetem egyetemként működő felsőoktatási intézmény, amely – alapító okiratában foglaltak szerint – eltérhet a 9. § (3) bekezdésében a felsőoktatási intézményekre előírt feltételektől, azzal, hogy a 15–16. § szerinti képzési rendszert meg kell tartania.
+
 #### 64. Rendelkezés korábban szerzett és egyéb külföldi címekről
 
 105. § (1) Az 1984. szeptember 1-je előtt doktori cselekmények alapján szerzett, illetőleg e nap előtt engedélyezett doktori cselekmények alapján később megszerzett egyetemi doktori cím továbbra is viselhető.
@@ -2440,6 +2453,8 @@ foglalt eltérésekkel együtt kell alkalmazni.
 (2) Ha a felsőoktatási intézmény szervezeti és működési szabályzata így rendelkezik az (1) bekezdésben meghatározottakon túl az oklevél, illetve a bizonyítvány megszerzéséhez előírt általános nyelvvizsga-követelmény teljesítése alól mentesülnek azok a hallgatók is, akik a sikeres záróvizsga napjától számított három éven belül nem mutatták be a felsőoktatási intézménynek az általános nyelvvizsgát igazoló okiratot és az oklevél, illetve a bizonyítvány megszerzéséhez előírt általános nyelvvizsga-követelmény teljesítése helyett a felsőoktatási intézmény által szervezett külön nyelvi vizsgát tesznek. Ez a rendelkezés azoknál alkalmazható utoljára, akik a 2012/2013. tanévben tesznek záróvizsgát.
 
 (3) Az Európa Tanács Közös Európai Referenciakeretében ajánlott hatfokozatú nyelvvizsgarendszer és az alap-, közép-, illetve felsőfokú államilag elismert vagy azzal egyenértékű nyelvvizsgák megfeleltetését, továbbá az idegennyelv-tudást igazoló államilag elismert nyelvvizsgáztatás rendjét a Kormány határozza meg.
+
+(3a) Mentes az igazgatási szolgáltatási díj alól a DSD II nyelvvizsga-bizonyítvány (Deutsches Sprachdiplom der Kultusministerkonferenz) honosítása.
 
 (4) A Kormány és a helyi önkormányzatok együttműködésében működtetett Bursa Hungarica Felsőoktatási Önkormányzati Ösztöndíj keretében kezelt személyes és különleges adatok felsorolását, az adatkezelés rendjét a 4. melléklet tartalmazza.
 
@@ -2604,7 +2619,7 @@ rendeletben jelölje ki.
 
 (3) Felhatalmazást kap a miniszter, hogy rendeletben szabályozza
 
-- a) az oktatási jogok biztosa hivatalának feladatait, szervezetének és működésének szabályait, a hivatal vezetőjének juttatásait, tevékenységének irányítását,
+- a) az oktatási jogok biztosának a felsőoktatást érintő feladatait, eljárását, továbbá az e feladatok ellátásával összefüggésben az általa vezetett hivatal szervezetének és működésének szabályait,
 - b) a felsőoktatási szakképzés, az alapképzés és a mesterképzés képzési és kimeneti követelményeit,
 - c) a szakirányú továbbképzés szervezésének általános feltételeit,
 - d) az államilag elismert nyelvvizsgáztatáshoz, a külföldi bizonyítványok és oklevelek elismeréséhez és honosításához, az oklevelekről és bizonyítványokról kiállított hatósági bizonyítványokhoz, a felsőoktatási információs rendszer működtetéséhez kapcsolódó igazgatási szolgáltatási díjak mértékét, a felsőoktatási hatósági eljárásokhoz kapcsolódó igazgatási szolgáltatási díjak mértékét, valamint a díjak beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat.
@@ -2680,7 +2695,7 @@ e törvény szerint kell megállapítani a hallgatói juttatásokat.
 
 114/C. § A 84/A. § (1) bekezdés szerinti támogatás megállapítása a Kormány a 84/A. § (6) bekezdés szerinti rendeletében foglaltak alapján történik azzal, hogy a finanszírozási szint – a rendelkezésre álló költségvetési forrásra tekintettel – legfeljebb húsz százalékkal csökkenhet.
 
-114/D. § (1) E törvénynek a 2012. évi CCVIII. törvénnyel megállapított 85/A. § (1) bekezdése alapján
+114/D. § (1) A 85/A. § (1) bekezdése alapján
 
 - a) az egy főre megállapított hallgatói normatíva 119 000 Ft/év,
 - b) a doktori képzésben részt vevők egy főre meghatározott támogatása
@@ -2742,15 +2757,19 @@ e törvény szerint kell megállapítani a hallgatói juttatásokat.
 
 (4e)
 
-(5)
+(5) E törvénynek – az oktatás szabályozására vonatkozó és egyes kapcsolódó törvények módosításáról szóló 2017. évi LXX. törvénnyel megállapított – 12. § (7) bekezdés e) pontja alapján 2019. június 30-ig a szenátust meg kell választani.
 
-(6)
+(6) E törvénynek – az oktatás szabályozására vonatkozó és egyes kapcsolódó törvények módosításáról szóló 2017. évi LXX. törvénnyel megállapított – 28. § (1a) bekezdése alkalmazása során azon tanársegédeket, akik 2018. szeptember 1-jéig megfelelnek a foglalkoztatási követelményrendszerben meghatározott feltételeknek és doktori fokozattal legalább három éve rendelkeznek, legkésőbb 2018. szeptember 1-jén adjunktusi munkakörbe kell átsorolni.
 
 (7) E törvénynek – a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény módosításáról szóló 2017. évi XXV. törvénnyel (a továbbiakban: Módtv2.) megállapított – 9. § (2a) és (2b) bekezdésében, 76. § (1) és (1a) bekezdésében meghatározott feltételeket – föderatív állam esetében annak központi kormányzatával létrejött előzetes megállapodás kivételével – a 2017. szeptember 1-jén magyarországi működési engedéllyel rendelkező külföldi felsőoktatási intézménynek 2018. január 1-jéig kell teljesíteni. Föderatív állam esetén az ennek alapjául szolgáló előzetes megállapodást a Módtv2. hatálybalépését követő hat hónapon belül kell megkötni. A feltételeket nem teljesítő külföldi felsőoktatási intézmény működési engedélyét az oktatási hivatal visszavonja és 2018. január 1-jét követően a külföldi felsőoktatási intézmény magyarországi képzésének első évfolyamára hallgató nem vehető fel azzal, hogy a 2018. január 1-jén már megkezdett magyarországi képzések változatlan feltételek mellett kifutó rendszerben – de legfeljebb a 2020/2021-es tanévben – fejezhetők be.
 
 (8)
 
-(9)–(12)
+(9)
+
+(10) E törvénynek – az oktatás szabályozására vonatkozó és egyes kapcsolódó törvények módosításáról szóló 2017. évi LXX. törvénnyel megállapított – 103. § (3) bekezdésére tekintettel az állami felsőoktatási intézmények legkésőbb az oktatás szabályozására vonatkozó és egyes kapcsolódó törvények módosításáról szóló 2017. évi LXX. törvény hatálybalépését követő egy éven belül módosítják a szervezeti és működési szabályzatukat.
+
+(11)–(12)
 
 (13)
 
@@ -2763,6 +2782,8 @@ e törvény szerint kell megállapítani a hallgatói juttatásokat.
 (17) A Szent István Egyetemből kiváló Állatorvos-tudományi Kar 2016. július 1. napjától Állatorvostudományi Egyetemként jön létre.
 
 (18) A Kecskeméti Főiskola és a Szolnoki Főiskola összeolvadásával a Pallasz Athéné Egyetem 2016. július 1. napjától jön létre.
+
+(18a) A Pallasz Athéné Egyetem 2017. augusztus 1. napjától Neumann János Egyetem megnevezéssel működik.
 
 (19) A Károly Róbert Főiskola és az Eszterházy Károly Főiskola összeolvadásával az Eszterházy Károly Egyetem 2016. július 1. napjától jön létre.
 
@@ -3154,7 +3175,7 @@ ab) tisztségviselőinek – rektor, rektorhelyettes, kancellár, gazdasági vez
 
 ac)
 
-ad) a felsőfokú képzések szakfelelősének családi és utóneve, oktatói azonosítója,
+ad) alap- és mesterképzése szakfelelősének családi és utóneve, oktatói azonosítója,
 
 ae) közhasznú szervezetként való működés esetén a felügyelő bizottság tagjainak családi és utóneve és értesítési címe;
 
@@ -3164,7 +3185,7 @@ ba) fenntartójának neve, székhelye címe, képviselője és magyarországi k�
 
 bb) tisztségviselői családi és utóneve, értesítési címe, elérhetősége (telefon, e-mail),
 
-bc) a felsőfokú képzések szakfelelősének családi és utóneve, oktatói azonosítója;
+bc)
 
 c) a MAB, a Felsőoktatási Tervezési Testület, a Magyar Rektori Konferencia, a Hallgatói Önkormányzatok Országos Konferenciája és a Doktoranduszok Országos Szövetsége, Országos Doktori Tanács esetében
 

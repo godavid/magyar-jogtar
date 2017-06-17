@@ -1028,7 +1028,7 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 (3) Ha az adós (munkavállaló) újabb munkaviszonyt létesít, köteles a tartozásigazolást a munkába lépése előtt az új munkáltatójának átadni.
 
-(4) Az új munkáltató köteles a tartozásigazolást az adóstól (munkavállalótól) bekérni és a végrehajtást folytatni.
+(4) Az új munkáltató köteles a tartozásigazolást az adóstól (munkavállalótól) bekérni és a végrehajtást folytatni. Tartozásigazolás hiányáról az adós (munkavállaló) a munkaviszony létesítése előtt köteles nyilatkozatot tenni.
 
 ### A munkáltató felelőssége
 

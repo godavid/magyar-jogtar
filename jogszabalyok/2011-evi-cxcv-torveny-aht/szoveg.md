@@ -36,7 +36,7 @@ Az Országgyűlés az államháztartás egyensúlyának és a közpénzekkel val
   - j) a közfoglalkoztatási támogatásokat,
   - k) a szociálpolitikai menetdíj-támogatásokat,
   - l) a vis maior támogatásokat,
-  - m) a szomszédos államokban nyújtható oktatási támogatásokat,
+  - m) a határon túli, magát magyar nemzetiségűnek valló természetes személy részére jogszabály alapján nyújtható támogatásokat,
 - 15. kötelezettségvállalás: a kiadási előirányzatok, és – ha jogszabály azt lehetővé teszi – a 49. § szerinti lebonyolító szerv számára a Kormány rendeletében meghatározottak szerinti rendelkezésre bocsátott összeg terhére fizetési kötelezettség vállalásáról szóló – így különösen a foglalkoztatásra irányuló jogviszony létesítésére, szerződés megkötésére, költségvetési támogatás biztosítására irányuló – szabályszerűen megtett jognyilatkozat,
 - 16.
 - 17. maradvány: a költségvetési év során a bevételek és kiadások különbözete, amely az alaptevékenység bevételei és kiadásai tekintetében a költségvetési maradvány, a vállalkozási tevékenység bevételei és kiadásai tekintetében a vállalkozási maradvány,
@@ -518,7 +518,7 @@ költségvetési bevételeit és költségvetési kiadásait.
 
 20. § (1) Az Európai Unió költségvetéséből közvetlenül kapott támogatás összegét a felhasználás időpontjában lehet költségvetési bevételként elszámolni.
 
-(2) Az európai uniós forrásból finanszírozott költségvetési támogatások azon – a központi költségvetésből megelőlegezett – részét, amelyet az Európai Bizottság az elszámolhatósági időszakot követően időközi vagy végső egyenleg kifizetés formájában térít meg, a 14. § (4) bekezdés d) pontja szerinti fejezet költségvetési bevételei között kell elszámolni.
+(2) Az európai uniós forrásból finanszírozott költségvetési támogatások azon – a központi költségvetésből megelőlegezett – részét, amelyet az Európai Bizottság megtérít, a 14. § (4) bekezdés d) pontja szerinti fejezet költségvetési bevételei között kell elszámolni.
 
 (3)
 
@@ -530,7 +530,7 @@ költségvetési bevételeit és költségvetési kiadásait.
 
 (4) A céltartalék olyan, a központi költségvetésről szóló törvényben meghatározott költségvetési kiadási előirányzat, amely évközi kormányzati intézkedés fedezetéül szolgál, és amelynek célját és rendeltetését egyidejűleg meghatározták, azonban a költségvetési kiadási előirányzat felhasználásának fejezet, cím, alcím szerinti megoszlása a központi költségvetésről szóló törvény elfogadásakor még nem ismert.
 
-(4a) A központi költségvetésről szóló törvényben fejezeti stabilitási tartalékot kell képezni a fejezetet irányító szerv érdekkörében felmerülő okból a központi költségvetésről szóló törvényben nem szerepeltetett új feladatok, valamint az abban szerepeltetett feladatok bővítése előirányzati fedezetének biztosítására, valamint a fegyelmezett és hatékony gazdálkodás ösztönzésére. A fejezeti stabilitási tartalék felhasználásának szabályait a Kormány rendeletben állapítja meg.
+(4a) A központi költségvetésről szóló törvényben fejezeti stabilitási tartalékot kell képezni a központi költségvetésről szóló törvényben nem szerepeltetett új feladatok, valamint az abban szerepeltetett feladatok bővítése előirányzati fedezetének biztosítására. A fejezeti stabilitási tartalék felhasználásának szabályait a Kormány rendeletben állapítja meg.
 
 (5) Ha a központi költségvetésről szóló törvény – ide nem értve a fejezeti általános tartalékot – az (1)–(4) bekezdésben foglaltakon kívül más tartalék létrehozásáról rendelkezik, a központi költségvetésről szóló törvényben meg kell határozni a tartalék célját, felhasználásának módját és feltételeit.
 
@@ -690,7 +690,7 @@ a költségvetési évet követő három évre várható összegét.
 - a) az európai uniós források felhasználásával kapcsolatos költségvetési kiadás,
 - b) jogszabály által alanyi jogon összegszerűen megállapított, továbbá magánszemélyeket jogszabályban meghatározott feltételek alapján megillető támogatásokkal kapcsolatos költségvetési kiadás,
 - c) az állammal szemben folyamatban lévő peres ügyekkel és az állam által fizetendő kártérítésekkel, kártalanításokkal, továbbá sérelemdíjakkal kapcsolatos költségvetési kiadás,
-- d) a Kormány által egyedi határozatban biztosított beruházás-ösztönzési célú költségvetési kiadás,
+- d) a Kormány által egyedi határozatban biztosított beruházás-ösztönzési célú költségvetési kiadás, valamint a nagyvállalati beruházási támogatásokkal kapcsolatos költségvetési kiadás,
 - e) az állami kezességekkel, állami garanciákkal, állami viszontgaranciákkal, kiállítási garanciákkal és viszontgaranciákkal kapcsolatos költségvetési kiadás,
 - f) devizában teljesítendő költségvetési kiadás, az árfolyamváltozás hatásának mértékéig, és
 - g) adósságszolgálattal kapcsolatos kiadás,
@@ -752,7 +752,7 @@ kerülhet sor.
 
 (3) Az (1) és (2) bekezdés szerinti kötelezettségvállalás esetén a pénzügyi teljesítésnek – a Kormány rendeletében meghatározott kivételekkel – legkésőbb a költségvetési év december 31-éig meg kell történnie.
 
-(4) Az (5) bekezdésben foglaltak, valamint a 20. § (1) bekezdése szerinti pénzeszközök terhére vállalt kötelezettségek kivételével az államháztartás központi alrendszerében több év vagy a költségvetési éven túli év kiadási előirányzata terhére kötelezettség
+(4) Az (5) bekezdésben foglaltak, valamint a 20. § (1) bekezdése szerinti pénzeszközök terhére vállalt kötelezettségek kivételével az államháztartás központi alrendszerében több év vagy a költségvetési éven túli év kiadási előirányzatai terhére kötelezettség
 
 - a) a társadalombiztosítás pénzügyi alapjai, valamint a 14. § (3) bekezdése és (4) bekezdés c) és d) pontja szerinti fejezetek kiadási előirányzatai esetén törvényben foglaltak szerint,
 - b) egyéb esetben
@@ -761,29 +761,32 @@ kerülhet sor.
 
 vállalható.
 
-(4a) Ha a következő évre szóló központi költségvetési törvény kihirdetésre kerül, a (4) bekezdés b) pontját a fejezeti kezelésű előirányzatok esetében azzal az eltéréssel kell alkalmazni, hogy a következő évekre vállalható kötelezettségvállalás
+(4a) Ha a következő évre szóló központi költségvetési törvény kihirdetésre kerül, a (4) bekezdés b) pontját a fejezeti kezelésű előirányzatok esetében azzal az eltéréssel kell alkalmazni, hogy a több év vagy a költségvetési éven túli év kiadási előirányzatai terhére vállalható kötelezettség
 
 - a) alapja a következő évre szóló központi költségvetési törvény kihirdetett szövegében megállapított kiadási előirányzat összege,
 - b) a tárgyévet követő évre vonatkozó mértéke a következő évre megállapított kiadási előirányzat mértékének legfeljebb száz százaléka.
 
 (4b) A (4) bekezdés b) pontja és a (4a) bekezdés szerinti, ötmilliárd forintot elérő vagy azt meghaladó értékű kötelezettségvállalás megtételéhez a Kormány előzetes jóváhagyása szükséges.
 
-(4c) A Kormány
+(4c) A Kormány egyedi határozatával, az érintett költségvetési évek szerinti bontásban
 
-- a) egyedi határozatával az irányítása alá tartozó fejezetek tekintetében a (4) bekezdés b) pontjában és a (4a) bekezdésben meghatározott értékhatártól eltérő mértéket is megállapíthat,
-- b) – a központi költségvetésről szóló törvény eltérő rendelkezése hiányában – egyedi határozatával egyes, tárgyévi előirányzattal nem rendelkező programok, beruházások és más fejlesztések tárgyévet követő évet, éveket terhelő kötelezettségvállalásának összegszerű keretét megállapíthatja.
+- a) az irányítása alá tartozó fejezetek tekintetében a (4) bekezdés b) pontjában és a (4a) bekezdésben meghatározott értékhatártól eltérő összeget is megállapíthat,
+- b) – a központi költségvetésről szóló törvény eltérő rendelkezése hiányában – a tárgyévi kiadási előirányzattal nem rendelkező programok, beruházások és más fejlesztések esetén a több év vagy a költségvetési éven túli év kiadási előirányzatai terhére vállalható kötelezettségek összegét megállapíthatja.
 
 (4d) A 49. § szerinti lebonyolító szerv számára a Kormány rendeletében meghatározottak szerint rendelkezésre bocsátott összeg terhére – a 32. § a) pontja szerinti költségvetési kiadási előirányzatok kivételével – több évre vagy a költségvetési éven túli évre szóló kötelezettség nem vállalható.
 
-(5) A Kormány által egyedi határozatban biztosított beruházásösztönzési célú költségvetési támogatások esetén a költségvetési éven túli évek költségvetési kiadási előirányzatai terhére vállalható kötelezettségek felső korlátját a központi költségvetésről szóló törvény állapítja meg. A költségvetési év költségvetési kiadási előirányzatain felül a költségvetési évben a Kormány egyedi döntésével vállalható kötelezettség.
+(5) A Kormány által egyedi határozatban biztosított beruházásösztönzési célú költségvetési támogatások esetén a több év vagy a költségvetési éven túli év kiadási előirányzatai terhére vállalható kötelezettségek felső korlátját a központi költségvetésről szóló törvény állapítja meg. A költségvetési év költségvetési kiadási előirányzatain felül a költségvetési évben a Kormány egyedi döntésével vállalható kötelezettség.
 
-(5a) Az államháztartás önkormányzati alrendszerében több év vagy a költségvetési éven túli év kiadási előirányzata terhére kötelezettségvállalásra az irányító szerv által megállapított, ennek hiányában a költségvetési év kiadási előirányzataival megegyező összegű kiadási előirányzatok szabad előirányzatának mértékéig kerülhet sor, amelynek fedezetét a kötelezettséget vállalónak a tervezésekor biztosítania kell.
+(5a) Az államháztartás önkormányzati alrendszerében több év vagy a költségvetési éven túli év kiadási előirányzatai terhére kötelezettségvállalásra az irányító szerv által megállapított, ennek hiányában a költségvetési év kiadási előirányzataival megegyező összegű kiadási előirányzatok szabad előirányzatának mértékéig kerülhet sor, amelynek fedezetét a kötelezettséget vállalónak a tervezésekor biztosítania kell.
 
 (6) Kormányrendelet meghatározhatja a kötelezettségvállalás további feltételeit.
 
 (7) A kötelezettségvállalásra jogosult személyek körét a Kormány rendeletben határozza meg.
 
-37. § (1) Kötelezettséget vállalni a Kormány rendeletében foglalt kivételekkel csak pénzügyi ellenjegyzés után, a pénzügyi teljesítés esedékességét megelőzően, írásban lehet. A pénzügyi ellenjegyzőnek a Kormány rendeletében foglalt kivételekkel meg kell győződnie arról, hogy a szabad előirányzat rendelkezésre áll, a tervezett kifizetési időpontokban a pénzügyi fedezet biztosított, és a kötelezettségvállalás nem sérti a gazdálkodásra vonatkozó szabályokat.
+37. § (1) Kötelezettséget vállalni a Kormány rendeletében foglalt kivételekkel csak pénzügyi ellenjegyzés után, a pénzügyi teljesítés esedékességét megelőzően, írásban lehet. A pénzügyi ellenjegyzőnek a Kormány rendeletében foglalt kivételekkel meg kell győződnie arról, hogy a tervezett kifizetési időpontokban a pénzügyi fedezet biztosított, a kötelezettségvállalás nem sérti a gazdálkodásra vonatkozó szabályokat, és
+
+- a) a 36. § (3) bekezdése szerinti kötelezettségvállalás összege, a több év kiadási előirányzatai terhére vállalt kötelezettség esetén a Kormány rendeletében foglaltak szerint a kötelezettségvállalás értékeként meghatározott összegből a költségvetési évet terhelő összeg a szabad előirányzatok összegét nem haladja meg, vagy
+- b) a több év vagy a költségvetési éven túli év kiadási előirányzatai terhére vállalt kötelezettség esetén a Kormány rendeletében foglaltak szerint a kötelezettségvállalás értékeként meghatározott összegből a költségvetési évet követő éveket terhelő összegek egyik évben sem haladják meg a 36. § (4), (4a) vagy (4c) bekezdése szerinti összegeknek a korábban vállalt kötelezettségek és más fizetési kötelezettségek adott évi mértékével csökkentett összegét.
 
 (2) A pénzügyi ellenjegyzésre jogosult személyek körét, a pénzügyi ellenjegyző feladatait, összeférhetetlenségének eseteit, képesítési követelményeit a Kormány rendeletben határozza meg.
 
@@ -859,7 +862,7 @@ vállalható.
 
 (2) A költségvetési szervnél foglalkoztatásra irányuló jogviszony létesítéséhez kapcsolódóan legfeljebb az (1) bekezdés szerint számított személyi juttatások kiemelt előirányzat törvény alapján járó munkabérek, illetmények fedezetére szolgáló részének megfelelő mértékéig, a munkavégzésre irányuló más jogviszony létesítéséhez kapcsolódóan legfeljebb az (1) bekezdés szerint számított személyi juttatások kiemelt előirányzat munkavégzésre irányuló egyéb jogviszonyban nem saját foglalkoztatottnak fizetett juttatások fedezetére szolgáló részének megfelelő mértékéig vállalható kötelezettség.
 
-44. § (1) Az államháztartásban a személyi juttatások kiemelt előirányzaton elszámolandó kiadásokkal kapcsolatos számfejtési és az ehhez kapcsolódó kifizetőhelyi feladatok ellátása és – a nemzetiségi önkormányzat, a térségi fejlesztési tanács kivételével – a törvényben meghatározott, az állami adóhatóság felé teljesítendő bevallási és befizetési kötelezettségek teljesítése központosítottan, a kincstár által működtetett központosított illetményszámfejtés útján történik. Az állami adóhatóság felé teljesítendő bevallási és befizetési kötelezettségek központosított teljesítésére a tárgyhónapot követő hónap 20. napjáig kerül sor.
+44. § (1) Az államháztartásban, valamint a Nemzeti Média- és Hírközlési Hatóságnál a személyi juttatások kiemelt előirányzaton elszámolandó kiadásokkal kapcsolatos számfejtési és az ehhez kapcsolódó kifizetőhelyi feladatok ellátása, az ezekkel kapcsolatos, az állami adóhatóság felé teljesítendő bevallási kötelezettségek teljesítése – ideértve a szakképzési hozzájárulás bevallási kötelezettségét is –, továbbá – a nemzetiségi önkormányzatok és az általuk irányított költségvetési szervek kivételével – a bevallásokon alapuló befizetési kötelezettségek teljesítése központosítottan, kizárólag a kincstár által működtetett központosított illetményszámfejtés útján, illetve az abból történő adatszolgáltatás alapján történik. Az állami adóhatóság felé teljesítendő bevallási és befizetési kötelezettségek központosított teljesítésére a tárgyhónapot követő hónap 20. napjáig kerül sor.
 
 (2) A kincstárral kötött megállapodás alapján a központosított illetményszámfejtéshez az államháztartásba nem tartozó szerv, szervezet is csatlakozhat. A megállapodás alapján végzett központosított illetményszámfejtés nem terjed ki az állami adóhatóság felé teljesítendő bevallási és befizetési kötelezettségek központosított teljesítésére.
 
@@ -1118,7 +1121,7 @@ vonatkozó adatoknak az e célra rendszeresített honlapon való közzétételé
 
 58. § (1) A helyi önkormányzat az éves költségvetési beszámolójában számol el a számára a költségvetési évben folyósított támogatásokkal.
 
-(2) A helyi önkormányzat az éves költségvetési beszámolójában a költségvetési évben folyósított támogatások felhasználásával kapcsolatos önellenőrzést a költségvetési beszámoló teljesítésének határidejét követő második hónaptól a Kormány rendeletében meghatározott mértékű – a központi költségvetés 14. § (4) bekezdés d) pontja szerinti fejezetben elszámolandó – önellenőrzési pótlék megfizetésével egyidejűleg kezdeményezhet, legkésőbb annak az évnek az utolsó napjáig, amely évben az éves költségvetési beszámolót el kellett készítenie.
+(2) A helyi önkormányzat az éves költségvetési beszámolójában a költségvetési évben folyósított támogatások felhasználásával kapcsolatos önellenőrzést a költségvetési beszámoló teljesítésének határidejét követő második hónaptól a Kormány rendeletében meghatározott mértékű – a 14. § (4) bekezdés d) pontja szerinti fejezetben elszámolandó – önellenőrzési pótlék megfizetésével egyidejűleg kezdeményezhet, legkésőbb annak az évnek az utolsó napjáig, amely évben az éves költségvetési beszámolót el kellett készítenie.
 
 59. § (1) A kincstár a helyi önkormányzat éves költségvetési beszámolója alapján a Ket. szerinti hatósági ellenőrzés keretében felülvizsgálja a támogatások elszámolását, felhasználását. A hatósági ellenőrzés és a másodfokú eljárás ügyintézési határideje tekintetében a Kormány rendelete a Ket. 33. § (1) bekezdésében meghatározottnál hosszabb ügyintézési határidőt is megállapíthat. A felülvizsgálat során a kincstár az Állami Számvevőszék jelentéseiben foglalt megállapításokat is figyelembe veszi.
 
@@ -1725,6 +1728,14 @@ kezelésére.
 
 (3) Az állami adóhatóság a lakáscélú állami támogatások megállapítása és ellenőrzése céljából a lakáscélú állami támogatások ügyében eljáró szerv, illetve a kincstár részére teljesített adatszolgáltatása keretében törvényben meghatározott személyes adatok mellett feltünteti a lakáscélú állami támogatásban részesülő személy adóazonosító jelét is. A lakáscélú állami támogatások ügyében eljáró szerv, illetve a kincstár a jogosulatlan támogatások igénybe vevőiről adóazonosító jel feltüntetésével tájékoztatja az állami adóhatóságot, ha a jogosulatlanul igénybe vett támogatás visszakövetelésére vagy behajtására az állami adóhatóság jogosult.
 
+106/D. § (1) A kincstár a Kormány tagja felkérésére a központosított illetményszámfejtésbe – a 44. § (1) bekezdése alapján – tartozó szerveknél foglalkoztatott személyek személyre szóló tájékoztatása érdekében – a (3) bekezdés szerinti kivételekkel – teljesíti a Kormány tagja által meghatározott, a munkabérrel, az illetménnyel, a tiszteletdíjjal, a költségtérítéssel, illetve egyéb pénzbeli juttatással összefüggő, valamint az egyes foglalkoztatotti csoportok sajátos körülményeire vonatkozó tájékoztatást.
+
+(2) A kincstár az (1) bekezdés szerinti adatszolgáltatást a Kormány tagja felkérésében meghatározott – a 106/A. § (1) bekezdés a), b), d) és e) pontja szerinti adatok alapján (ide nem értve a társadalombiztosítási azonosító jelre, az adóazonosító jelre, a fizetési számlaszámra, valamint a behajtandó követelésekre vonatkozó adatokat) képezhető – tájékoztatási célcsoportoknak – a Kormányzati Tájékoztatási Központon (a továbbiakban: KTK) keresztül – akként teljesíti, hogy a tájékoztatás megszemélyesítése során személyes adat más adatkezelőnek való továbbítására nem kerül sor. A KTK a tájékoztatás az érintettekkel való közléséhez az érintettek természetes személyazonosító adatait és lakcímét használhatja fel.
+
+(3) Nem nyújtható az (1) bekezdés alapján adatszolgáltatás a bírói szolgálati viszonyban, igazságügyi alkalmazotti szolgálati jogviszonyban, ügyészségi szolgálati viszonyban, a Köztársasági Elnöki Hivatallal, az Országgyűlés Hivatalával, az Alkotmánybíróság Hivatalával, az Alapvető Jogok Biztosának Hivatalával, az Állami Számvevőszékkel, önálló szabályozó szervvel, autonóm államigazgatási szervvel, a Magyar Tudományos Akadémia Titkárságával, a Magyar Művészeti Akadémia Titkárságával, az Állambiztonsági Szolgálatok Történeti Levéltárával, az Országgyűlési Őrséggel, a Nemzeti Emlékezet Bizottságának Hivatalával vagy nemzetbiztonsági szolgálattal foglalkoztatásra irányuló jogviszonyban állókra vonatkozónak.
+
+(4) A kincstár az (1)–(3) bekezdés szerinti adatszolgáltatást az államháztartásért felelős miniszter jóváhagyását követően, a jóváhagyástól számított 15 munkanapon belül teljesíti a miniszter általa kiadott nyomtatvány használatával.
+
 #### 70. Adatszolgáltatási kötelezettségek
 
 107. § (1) A költségvetési szervek, a központi kezelésű előirányzatok és fejezeti kezelésű előirányzatok, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai kezelő szervei, a helyi önkormányzatok, a nemzetiségi önkormányzatok, a társulások, a térségi fejlesztési tanácsok, valamint a 109. § (8) bekezdése alapján kiadott közleményben megjelölt kormányzati szektorba sorolt egyéb szervezetek és besorolás szempontjából statisztikai módszertani vizsgálat alá vett jogi személyek e törvényben és a Kormány rendeletében meghatározott adatszolgáltatásokat teljesítenek.
@@ -1761,7 +1772,7 @@ a Kormány rendeletében meghatározott mértékű bírságot fizet, amelyet a k
 
 108/A. § (1) A Kormány rendeletben előírhatja, hogy az államháztartás központi alrendszerébe tartozó költségvetési szerv, a központi kezelésű előirányzat, a fejezeti kezelésű előirányzat, az elkülönített állami pénzalap és a társadalombiztosítás pénzügyi alapja kezelő szerve rendszeres adatszolgáltatást teljesítsen a költségvetési évben várhatóan felmerülő kiadásairól és bevételeiről, valamint kötelezettségvállalásairól, más fizetési kötelezettségeiről és követeléseiről a Kormány rendeletében meghatározott módon és gyakorisággal.
 
-(2) A Kormány rendeletben előírhatja az előre jelzett és a tényértékek eltérése esetére a szabad előirányzatoknak – így különösen a fejezeti stabilitási tartalék kiadási előirányzatainak – az előrejelzések javításának ösztönzését szolgáló átmeneti vagy tartós csökkentését vagy befizetési kötelezettség teljesítését.
+(2) A Kormány rendeletben előírhatja az előre jelzett és a tényértékek eltérése esetére a szabad előirányzatoknak az előrejelzések javításának ösztönzését szolgáló átmeneti vagy tartós csökkentését vagy befizetési kötelezettség teljesítését.
 
 ### XIII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -1843,7 +1854,7 @@ részletes szabályait,
 - 4. a belső ellenőrzési tevékenység folytatásának részletes feltételeit, az e tevékenységre jogosító bejelentés rendjét, a bejelentések alapján vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a belső ellenőrzési tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket, a kötelező szakmai továbbképzés és a kapcsolódó vizsgáztatás szabályait, továbbá a nyilvántartásba vétel iránti eljárásért, valamint a nyilvántartásba bejegyzett adatok módosítása vagy törlése iránti eljárásért fizetendő igazgatási szolgáltatási díj szabályait,
 - 5.
 - 6. a bevételek és kiadások kormányzati funkciók szerinti besorolásának szabályait,
-- 7. a 103. § (3) bekezdése szerinti adminisztratív osztályozás alapjául szolgáló államháztartási egyedi azonosítók alkalmazásának rendjét, és
+- 7. a 6. § (1) bekezdése szerinti adminisztratív osztályozás alapjául szolgáló államháztartási egyedi azonosítók alkalmazásának rendjét, és
 - 8. a kötelező gépjármű-felelősségbiztosítás 1991. július 1. előtti rendszeréből származó állami kötelezettségek teljesítésének feltételeit, módját, részletes eljárási szabályait, a járadékok emelésének mértékét, valamint a költségvetési szervek vagyonbiztosítása alapján az 1971. január 1. napja előtt gépjárművel okozott káreseményekkel összefüggésben a központi költségvetést terhelő keresetpótló baleseti, illetve költségpótló baleseti kártérítési járadékok folyósításával kapcsolatos kötelezettségek feltételeit, módját, részletes eljárási szabályait, a járadékok emelésének mértékét
 
 rendeletben szabályozza.
@@ -1935,6 +1946,10 @@ rendeletben szabályozza.
 (31)
 
 (32) Azon kincstári körön kívüli számlatulajdonosok, amelyek a Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvénnyel megállapított 79. § (3a) bekezdése értelmében értékpapírszámlával nem rendelkezhetnek, a Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvény hatálybalépésekor meglévő értékpapírszámláikat legkésőbb 2016. december 31-éig kötelesek megszüntetni.
+
+(33) A nemzetiségi önkormányzatok és az általuk irányított költségvetési szervek esetében a Magyarország 2018. évi központi költségvetésének megalapozásáról szóló 2017. évi LXXII. törvénnyel megállapított 44. § (1) bekezdése szerinti, a személyi juttatások kiemelt előirányzaton elszámolandó kiadásokkal kapcsolatos, az állami adóhatóság felé teljesítendő bevallási kötelezettségeknek a kincstár által működtetett központosított illetményszámfejtés útján történő teljesítése 2018. január 1-jétől valósul meg.
+
+(34) A Nemzeti Média- és Hírközlési Hatóság esetében a Magyarország 2018. évi központi költségvetésének megalapozásáról szóló 2017. évi LXXII. törvénnyel megállapított 44. § (1) bekezdése szerinti feladatoknak és kötelezettségeknek a kincstár által működtetett központosított illetményszámfejtés útján történő teljesítése 2017. október 1-jétől valósul meg.
 
 #### 111/A. §
 

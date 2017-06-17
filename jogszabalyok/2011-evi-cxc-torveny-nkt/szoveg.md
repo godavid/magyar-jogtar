@@ -57,6 +57,7 @@ alapíthat és tarthat fenn, ha a tevékenység folytatásának jogát – jogsz
 - 2. aránytalan teher: ha a nevelés, a nevelés-oktatás körülményei az átlagos körülményekhez képest – a gyermek, a tanuló életkorát és sajátos nevelési igényeit figyelembe véve – lényegesen nehezebbek vagy jelentős költségnövekedést okoznak a gyermeknek, tanulónak vagy a szülőnek,
 - 3. beilleszkedési, tanulási, magatartási nehézséggel küzdő gyermek, tanuló: az a különleges bánásmódot igénylő gyermek, tanuló, aki a szakértői bizottság szakértői véleménye alapján az életkorához viszonyítottan jelentősen alulteljesít, társas kapcsolati problémákkal, tanulási, magatartásszabályozási hiányosságokkal küzd, közösségbe való beilleszkedése, továbbá személyiségfejlődése nehezített vagy sajátos tendenciákat mutat, de nem minősül sajátos nevelési igényűnek,
 - 4. egész napos iskola: iskolaszervezési forma, ahol a tanórai és más foglalkozásokat a délelőtti és délutáni időszakra egyenletesen szétosztva szervezik meg, működését, feltételrendszerét az oktatásért felelős miniszter jogszabályban határozza meg,
+- 4a. egészségügyi és pedagógiai célú habilitáció, rehabilitáció: a szakértői bizottság szakértői véleményében meghatározott fejlesztési területekre és a fejlesztéshez szükséges szakemberre vonatkozó javaslat figyelembevételével a sajátos nevelési igényű gyermek, tanuló egyéni szükségleteinek támogatására, az akadályok leküzdésére, új funkciók kialakítására és a környezeti feltételek optimalizálására irányuló kötelező foglalkozás,
 - 5. egyéb foglalkozás: a tanórákon kívüli egyéni vagy csoportos, pedagógiai tartalmú foglalkozás, amely a tanulók fejlődését szolgálja,
 - 6. emelt szintű oktatás: meghatározott tantárgy kerettanterv szerinti magasabb követelményekkel történő tanítása,
 - 7. feladatellátási hely: az a cím, ahol a köznevelési intézmény alapító okiratában, szakmai alapdokumentumában foglalt feladat ellátása történik,
@@ -70,6 +71,7 @@ alapíthat és tarthat fenn, ha a tevékenység folytatásának jogát – jogsz
   - b) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerint hátrányos és halmozottan hátrányos helyzetű gyermek, tanuló,
 - 14. kiemelten tehetséges gyermek, tanuló: az a különleges bánásmódot igénylő gyermek, tanuló, aki átlag feletti általános vagy speciális képességek birtokában magas fokú kreativitással rendelkezik, és felkelthető benne a feladat iránti erős motiváció, elkötelezettség,
 - 15. közösségi szolgálat: szociális, környezetvédelmi, a tanuló helyi közösségének javát szolgáló, szervezett keretek között folytatott, anyagi érdektől független, egyéni vagy csoportos tevékenység és annak pedagógiai feldolgozása,
+- 15a. külföldi iskolai kirándulás: azonos nevelési-oktatási intézménnyel tanulói jogviszonyban álló legalább hét tanuló részvételével, a nevelési-oktatási intézménnyel foglalkoztatási jogviszonyban pedagógus- vagy nevelő oktató munkát közvetlenül segítő munkakörben foglalkoztatott személy felügyeletével megszervezett a szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény hatálya alá nem tartozó állam területére irányuló térítésköteles kirándulás,
 - 16. magán köznevelési intézmény: a 2. § (3) bekezdés b) pont bc) és bd) alpontjában meghatározott személy által fenntartott köznevelési intézmény,
 - 17. minősítési eljárás: a pedagógus teljesítményét értékelő eljárás, amely a magasabb fokozatba lépéséhez szükséges,
 - 18.
@@ -409,7 +411,7 @@ nyújtható.
 
 (4) A pedagógiai-szakmai szolgáltatások az oktatásért felelős miniszter szakmai irányítása mellett láthatók el. Az oktatásért felelős miniszter által kijelölt intézmény szervezi a nemzetiségi óvodai nevelést, iskolai nevelés-oktatást, kollégiumi nevelést segítő pedagógiai-szakmai szolgáltatásokat, továbbá azokat, amelyek helyi szinten nem szervezhetők meg hatékonyan vagy az ágazati irányítás feladatait segítik.
 
-(5) Az állami köznevelési közfeladat-ellátás keretében a pedagógiai-szakmai szolgáltatásokat a Kormány által az oktatásért felelős miniszter köznevelési feladatkörébe tartozó egyes feladatainak ellátására kijelölt szerv (a továbbiakban: hivatal) biztosítja. Az állami fenntartású nevelési-oktatási intézmény, pedagógiai szakszolgálati intézmény a pedagógiai-szakmai szolgáltatásokat a hivataltól veszi igénybe. Az önkormányzati fenntartású nevelési-oktatási intézmény a pedagógiai-szakmai szolgáltatásokat a hivataltól veheti igénybe a hivatal költségvetésében erre a célra szolgáló keret erejéig. A hivatal a pedagógiai-szakmai szolgáltatások ellátásába bevonhat egyes tankerületi központ által fenntartott köznevelési intézményeket, a (3) bekezdés c) pontjában meghatározott jogi személyeket, továbbá pedagógusképzést folytató felsőoktatási intézményt.
+(5) Az állami köznevelési közfeladat-ellátás keretében a pedagógiai-szakmai szolgáltatásokat a Kormány által az oktatásért felelős miniszter köznevelési feladatkörébe tartozó egyes feladatainak ellátására kijelölt szerv (a továbbiakban: hivatal) biztosítja. Az állami fenntartású nevelési-oktatási intézmény, pedagógiai szakszolgálati intézmény a pedagógiai-szakmai szolgáltatásokat a hivataltól veszi igénybe. A nem állami fenntartású nevelési-oktatási intézmény a pedagógiai-szakmai szolgáltatásokat a hivataltól veheti igénybe a hivatal költségvetésében erre a célra szolgáló keret erejéig. A hivatal a pedagógiai-szakmai szolgáltatások ellátásába bevonhat egyes tankerületi központ által fenntartott köznevelési intézményeket, a (3) bekezdés c) pontjában meghatározott jogi személyeket, továbbá pedagógusképzést folytató felsőoktatási intézményt.
 
 (5a) Az egyházi és magán köznevelési intézmény a pedagógiai-szakmai szolgáltatást térítésmentesen veheti igénybe olyan pedagógiai-szakmai szolgáltatást nyújtó köznevelési intézménytől, amelynek fenntartója az oktatásért felelős miniszterrel e célból köznevelési szerződést kötött.
 
@@ -1204,14 +1206,15 @@ dönt.
 
 (9) A gyógypedagógiai nevelésben, oktatásban részt vevő nevelési-oktatási intézményben
 
-- a) a sajátos nevelési igény típusának megfelelő gyógypedagógus, konduktor foglalkoztatása kell, ha
+- a) a c) és d) pontban, valamint a 3. mellékletben foglalt kivétellel a sajátos nevelési igény típusának megfelelő gyógypedagógus, konduktor foglalkoztatása kell, ha
   - aa) az óvodai foglalkozás vagy a tanórai foglalkozás elsődleges célja a sajátos nevelési igényből eredő hátrány csökkentése,
   - ab) az óvodai foglalkozás vagy a tanórai foglalkozás elsődleges célja az egészségügyi és pedagógiai célú habilitáció, rehabilitáció, valamint
   - ac) az értelmi fogyatékos gyermek, tanuló óvodai nevelése, iskolai nevelés-oktatása a külön e célra létrehozott gyógypedagógiai nevelési-oktatási intézményben, óvodai csoportban, iskolai osztályban történik,
 - b) az a) pontban meghatározott vagy az általános szabályok szerinti végzettség és szakképzettség kell,
   - ba) ha az óvodai foglalkozás, a tanórai foglalkozás elsődlegesen nem a sajátos nevelési igényből eredő hátrány csökkentését, a tanuló egészségügyi és pedagógiai célú habilitációját, rehabilitációját szolgálja,
   - bb) az egyéb foglalkozáshoz, a kollégiumi foglalkozáshoz,
-- c) az enyhe értelmi fogyatékos tanulók idegen nyelv oktatását elláthatja gyógypedagógus végzettséggel és szakképzettséggel, továbbá „komplex” típusú felsőfokú államilag elismert nyelvvizsga bizonyítvánnyal vagy azzal egyenértékű okirattal rendelkező pedagógus is.
+- c) az enyhe értelmi fogyatékos tanulók idegen nyelv oktatását elláthatja gyógypedagógus végzettséggel és szakképzettséggel, továbbá „komplex” típusú felsőfokú államilag elismert nyelvvizsga-bizonyítvánnyal vagy azzal egyenértékű okirattal rendelkező pedagógus,
+- d) az enyhe értelmi fogyatékos tanulók rajz, testnevelés, technika, ének-zene, etika, a középsúlyos értelmi fogyatékos tanulók rajz, technika, ének-zene, etika, valamint az egyes kerettantervek által tartalmilag ezekkel egyenértékű tantárgyak oktatását elláthatja a tantárgynak megfelelő szakos tanár is.
 
 (10) A sajátos nevelési igényű gyermek, tanuló neveléséhez, oktatásához szükséges speciális szakképzettséggel rendelkező szakember utazó gyógypedagógusi, utazó konduktori hálózat útján is biztosítható.
 
@@ -1375,7 +1378,9 @@ dönt.
 
 (3) Szünetel a tanulói jogviszonya annak, akinek engedélyezték, hogy tanulmányait megszakítsa, vagy akit fegyelmi határozattal a tanév folytatásától eltiltottak.
 
-57. § (1) A tanuló az iskola magasabb évfolyamába akkor léphet, ha az előírt tanulmányi követelményeket sikeresen teljesítette. Az iskola igazgatója a szülő kérésére legfeljebb egy alkalommal engedélyezheti az iskola első évfolyamának megismétlését, akkor is, ha a tanuló az előírt tanulmányi követelményeket sikeresen teljesítette. Ebben az esetben csak a megismételt évfolyamról kap bizonyítványt a tanuló. Középfokú iskolai tanulmányok folytatása esetén a sikeresen teljesített kilencedik évfolyam megismétlését az iskola igazgatója a tanuló, kiskorú tanuló esetén a szülő kérésére legfeljebb egy alkalommal akkor engedélyezheti, ha arra a gimnáziumi nevelés-oktatásba vagy az iskolai rendszerű szakképzésbe történő bekapcsolódás vagy másik szakképesítés megszerzésére irányuló tanulmányok folytatása vagy másik tanulmányi terület választása miatt van szükség.
+56/A. § A beilleszkedési, tanulási, magatartási nehézséggel küzdő gyermekek, tanulók a szakértői bizottság szakértői véleménye alapján fejlesztő foglalkoztatásban és az e törvényben, továbbá jogszabályban meghatározott kedvezményekben részesülnek.
+
+57. § (1) A tanuló az iskola magasabb évfolyamába akkor léphet, ha – az e bekezdésben foglalt kivétellel – az előírt tanulmányi követelményeket sikeresen teljesítette. Az egyéni előrehaladású nevelésben és oktatásban részt vevő tanuló esetében az előírt tanulmányi követelményeket az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott évfolyam végéig kell teljesíteni. Az iskola igazgatója a szülő kérésére legfeljebb egy alkalommal engedélyezheti az iskola első évfolyamának megismétlését, akkor is, ha a tanuló az előírt tanulmányi követelményeket sikeresen teljesítette. Ebben az esetben csak a megismételt évfolyamról kap bizonyítványt a tanuló. Középfokú iskolai tanulmányok folytatása esetén a sikeresen teljesített kilencedik évfolyam megismétlését az iskola igazgatója a tanuló, kiskorú tanuló esetén a szülő kérésére legfeljebb egy alkalommal akkor engedélyezheti, ha arra a gimnáziumi nevelés-oktatásba vagy az iskolai rendszerű szakképzésbe történő bekapcsolódás vagy másik szakképesítés megszerzésére irányuló tanulmányok folytatása vagy másik tanulmányi terület választása miatt van szükség.
 
 (2) Az alapfokú művészeti iskola alapfokú évfolyamáról a továbbképző évfolyamba az léphet, aki – jogszabályban meghatározottak szerint szervezett – művészeti alapvizsgát tett.
 
@@ -1439,9 +1444,13 @@ fegyelmi büntetés szabható ki.
 - a) gondatlan károkozás esetén a kötelező legkisebb munkabér – a károkozás napján érvényes rendelkezések szerint megállapított – egyhavi összegének ötven százalékát,
 - b) ha a tanuló cselekvőképtelen vagy korlátozottan cselekvőképes, szándékos károkozás esetén az okozott kár, legfeljebb azonban a kötelező legkisebb munkabér – a károkozás napján érvényes rendelkezések szerint megállapított – öthavi összegét.
 
-(3) Az óvoda, az iskola, a kollégium, a gyakorlati képzés szervezője a gyermeknek, tanulónak az óvodai elhelyezéssel, tanulói jogviszonnyal, kollégiumi tagsági viszonnyal, gyakorlati képzéssel összefüggésben okozott kárért vétkességére tekintet nélkül, teljes mértékben felel. A kártérítésre a Ptk. rendelkezéseit kell alkalmazni azzal a kiegészítéssel, hogy a nevelési-oktatási intézmény vagy a gyakorlati képzés szervezője felelőssége alól csak akkor mentesül, ha bizonyítja, hogy a kárt a működési körén kívül eső elháríthatatlan ok idézte elő. Nem kell megtéríteni a kárt, ha azt a károsult elháríthatatlan magatartása okozta.
+(3) Az óvoda, az iskola, a kollégium, a gyakorlati képzés szervezője a gyermeknek, tanulónak az óvodai elhelyezéssel, tanulói jogviszonnyal, kollégiumi tagsági viszonnyal, gyakorlati képzéssel összefüggésben okozott kárért – a (3a) bekezdésben meghatározott kivétellel – vétkességére tekintet nélkül, teljes mértékben felel. A kártérítésre a Ptk. rendelkezéseit kell alkalmazni azzal a kiegészítéssel, hogy a nevelési-oktatási intézmény vagy a gyakorlati képzés szervezője felelőssége alól csak akkor mentesül, ha bizonyítja, hogy a kárt a működési körén kívül eső elháríthatatlan ok idézte elő. Nem kell megtéríteni a kárt, ha azt a károsult elháríthatatlan magatartása okozta.
+
+(3a) A tanulmányi és a külföldi iskolai kirándulások esetén a köznevelési intézmény a tanulónak okozott kárért a kártérítési felelősség általános szabályai szerint felel.
 
 (4) Ha a szakképző iskola tanulója tanulószerződést kötött, a gyakorlati képzés szervezőjének vagy a tanulónak okozott kár megtérítésére a szakképzésről szóló törvény rendelkezéseit kell alkalmazni.
+
+59/A. § A többnapos tanulmányi és a külföldi iskolai kirándulások esetében – külön jogszabályban meghatározott – felelősségbiztosítást kell kötni az iskolának vagy a szervezőnek, amelynek kedvezményezettje a tanuló.
 
 #### 33. A felnőttoktatásra vonatkozó külön rendelkezések
 
@@ -1540,7 +1549,7 @@ fegyelmi büntetés szabható ki.
 
 (5) A nevelési-oktatási és a pedagógiai szakszolgálati intézményekben pedagógus-munkakörökben dolgozó pedagógus heti teljes munkaidejének nyolcvan százalékát (a továbbiakban: kötött munkaidő) az intézményvezető által – az e törvény keretei között – meghatározott feladatok ellátásával köteles tölteni, a munkaidő fennmaradó részében a munkaideje beosztását vagy felhasználását maga jogosult meghatározni.
 
-(6) A teljes munkaidő ötvenöt–hatvanöt százalékában (a továbbiakban: neveléssel-oktatással lekötött munkaidő) tanórai és egyéb foglalkozások megtartása rendelhető el. A kötött munkaidő fennmaradó részében a pedagógus a nevelés-oktatást előkészítő, nevelés-oktatással összefüggő egyéb feladatokat, tanulói felügyeletet, továbbá eseti helyettesítést lát el.
+(6) A teljes munkaidő ötvenöt–hatvanöt százalékában (a továbbiakban: neveléssel-oktatással lekötött munkaidő) tanórai és egyéb foglalkozások megtartása rendelhető el, amelybe bele kell számítani legfeljebb heti két-két óra időtartamban a pedagógus által ellátott osztályfőnöki, kollégiumi, tanulócsoport-vezetői, vagy munkaközösség vezetéssel összefüggő feladatok, továbbá legfeljebb heti egy óra időtartamban a tanulók nevelési-oktatási intézményen belüli önszerveződésének segítésével összefüggő feladatok időtartamát. E szabályokat kell alkalmazni abban az esetben is, ha e törvény egyes pedagógus munkakörök esetében az e bekezdésben foglaltaktól eltérően határozza meg a munkaidő egyes feladatokra fordítandó részeinek arányát.. A kötött munkaidő fennmaradó részében a pedagógus a nevelés-oktatást előkészítő, nevelés-oktatással összefüggő egyéb feladatokat, tanulói felügyeletet, továbbá eseti helyettesítést lát el.
 
 (7) Az intézményvezető a kötött munkaidőben ellátandó feladatok elosztásánál biztosítja az arányos és egyenletes feladatelosztást a nevelőtestület tagjai között.
 
@@ -2140,6 +2149,20 @@ illeti meg.
 
 (6) Az oktatásért felelős miniszter kinevezi, valamint felmenti az oktatási jogok biztosát, és gyakorolja felette az egyéb munkáltatói jogokat.
 
+(7) Az oktatási jogok biztosa
+
+- a) az oktatásért felelős miniszternek tartozik felelősséggel,
+- b) tevékenységét határozatlan idejű vezetői munkakört betöltő kormánytisztviselőként kormányzati szolgálati jogviszonyban végzi,
+- c) jogosult a megbízatásának megfelelő cím használatára.
+
+(8) Az oktatási jogok biztosa
+
+- a) vezeti az oktatási jogok biztosa hivatalát,
+- b) előzetesen véleményt nyilvánít a hivatalának munkatársaival kapcsolatos munkáltatói intézkedésekkel kapcsolatosan,
+- c) feladatai végrehajtásában nem kérhet és nem fogadhat el utasítást,
+- d) nem járhat el olyan ügyben, amelyben tőle pártatlan feladatellátás nem elvárható,
+- e) a d) pont szerinti körülményt köteles haladéktalanul írásban jelezni az oktatásért felelős miniszternek, egyidejűleg az adott ügyben az alapvető jogok biztosának eljárását kezdeményezni.
+
 78. § (1) Az oktatásért felelős miniszter köznevelés-fejlesztéssel kapcsolatos feladata
 
 - a) a köznevelés stratégiájának kidolgozása,
@@ -2443,7 +2466,7 @@ ellenőrzés.
 
 (4)
 
-(5) Az országos pedagógiai-szakmai ellenőrzésben az a köznevelési szakértő vehet részt, aki a külön jogszabályban előírt továbbképzés követelményeit teljesítette. Az intézmény ellenőrzésében részt vevő szakértő kijelöléséhez a fenntartó egyetértése szükséges.
+(5) Az országos pedagógiai-szakmai ellenőrzésben az a köznevelési szakértő vehet részt, aki a külön jogszabályban előírt továbbképzés követelményeit teljesítette.
 
 (6) A köznevelési intézményben a munkáltatói jogok gyakorlása során az országos pedagógiai-szakmai ellenőrzés eredményét figyelembe kell venni.
 
@@ -2491,7 +2514,7 @@ ellenőrzés.
 
 (8) Az e §-ban szabályozott köznevelési intézmények kötelesek bejelentkezni a KIR-be és adatot szolgáltatni számára.
 
-(9) A Magyarország területén tartózkodó menedékesek gyermekei részére az oktatásért felelős miniszter – az idegenrendészetért és menekültügyért felelős miniszter egyetértésével – ideiglenes működési engedély kiadásával engedélyezheti nevelési-oktatási intézmény működését a 90. § (1) bekezdésben meghatározott feltételek hiányában is, ha működése nem ellentétes az Alaptörvényben foglaltakkal. Az ideiglenes működési engedély egy évre szól és több alkalommal is meghosszabbítható. Az ideiglenes működési engedély iránti kérelmet az idegenrendészetért és menekültügyért felelős miniszter nyújtja be. Az ideiglenes működési engedély kiadásával egyidejűleg a nevelési-oktatási intézményt nyilvántartásba kell venni. Az ideiglenes működési engedélyben az oktatásért felelős miniszter tudomásul veszi, hogy az ideiglenes menedéket élvezők Magyarország területén gyermekeik részére megszervezték az óvodai nevelést vagy iskolai nevelés-oktatást. Az ideiglenes működési engedély nem jelenti annak elismerését, hogy a nevelési-oktatási intézmény megfelel azon ország előírásainak, ahonnan az ideiglenes menedéket élvezők Magyarország területére érkeztek, továbbá nem jelenti az iskola által kiállított bizonyítvány Magyarország részéről történő elismerését.
+(9) A Magyarország területén tartózkodó menedékesek, valamint az államhatárról szóló 2007. évi LXXXIX. törvény 5. §-ában és 15/A. §-ában meghatározott tranzitzónában tartózkodó gyermekek részére gyermekei részére az oktatásért felelős miniszter – az idegenrendészetért és menekültügyért felelős miniszter egyetértésével – ideiglenes működési engedély kiadásával engedélyezheti nevelési-oktatási intézmény működését a 90. § (1) bekezdésben meghatározott feltételek hiányában is, ha működése nem ellentétes az Alaptörvényben foglaltakkal. Az ideiglenes működési engedély egy évre szól és több alkalommal is meghosszabbítható. Az ideiglenes működési engedély iránti kérelmet az idegenrendészetért és menekültügyért felelős miniszter nyújtja be. Az ideiglenes működési engedély kiadásával egyidejűleg a nevelési-oktatási intézményt nyilvántartásba kell venni. Az ideiglenes működési engedélyben az oktatásért felelős miniszter tudomásul veszi, hogy az ideiglenes menedéket élvezők Magyarország területén gyermekeik részére megszervezték az óvodai nevelést vagy iskolai nevelés-oktatást. Az ideiglenes működési engedély nem jelenti annak elismerését, hogy a nevelési-oktatási intézmény megfelel azon ország előírásainak, ahonnan az ideiglenes menedéket élvezők Magyarország területére érkeztek, továbbá nem jelenti az iskola által kiállított bizonyítvány Magyarország részéről történő elismerését.
 
 (10) A külföldi nevelési-oktatási intézményekről vezetett nyilvántartás közhiteles hatósági nyilvántartásnak minősül.
 
@@ -2549,12 +2572,12 @@ ellenőrzés.
 - c) a nemzetiség óvodai nevelésének irányelve, a nemzetiség iskolai oktatásának irányelve, a Két tanítási nyelvű iskolai oktatás irányelve, a Sajátos nevelési igényű gyermekek óvodai nevelésének irányelve, a Sajátos nevelési igényű tanulók iskolai oktatásának irányelve, a Kollégiumi nevelés országos alapprogramja, a kerettantervek, továbbá az Alapfokú művészetoktatás követelményei és tantervi programja kiadását és bevezetését,
 - d) a sajátos nevelési igényű, a beilleszkedési, tanulási, magatartási nehézséggel küzdő, illetve a tartós gyógykezelés alatt álló gyermekek, tanulók nevelésével és oktatásával kapcsolatos részletes szabályokat, továbbá a szakértői vélemény elkészítésével összefüggő eljárást, a szakértői bizottság működését, az országos és más szakértői tevékenységet, az utazó gyógypedagógusi, utazó konduktori hálózat megszervezésének és működtetésének, az együttnevelést segítő pedagógusok tevékenységének részletes szabályait, valamint azokat a feltételeket, amikor az utazó gyógypedagógusi, utazó konduktori hálózat igénybevételéért ellenszolgáltatás kérhető,
 - e) az óvodai felvétel eljárási rendjét, az óvodai nevelésben való kötelező részvétel, a tankötelezettség, a fejlesztő nevelés, fejlesztő nevelés-oktatás teljesítésével kapcsolatos feladatokat, a tanulói jogviszonnyal kapcsolatos egyes kérdéseket és – az államháztartásért felelős miniszterrel egyetértésben – a tanulókat megillető juttatásokat, kedvezményeket,
-- f) az egységes óvoda-bölcsőde létesítésének feltételeit, a létesítés és működés, a nevelésben való közreműködés szakmai szabályait és a harmadik életévüket be nem töltött gyermekek felvételének feltételeit,
+- f)
 - g) a nem állami költségvetési szerv vagy nem települési önkormányzat által alapított, fenntartott köznevelési intézmény működési engedélye kiadásának részletes szabályait és az azzal kapcsolatos mellékleteket,
-- h) az iskolai felvételi eljárás rendjét, az iskolai vizsgáztatás rendjét, a pedagógiai szakszolgálat megszervezését, a pedagógiai szakszolgálat igénybevételének rendjét, a pedagógiai szakszolgálatot ellátó intézmény működését; a nevelési-oktatási intézmények részvételét és feladatait a pedagógiai szakszolgálatok ellátásában, az érintett gyermekek, tanulók nevelésében és oktatásában, az ellenőrzés rendjét, a pedagógiai szakszolgálattal kapcsolatos köznevelési feladatokat ellátó hatósági eljárás indításával összefüggő kérdéseket, az eljárás indítására jogosultak körét, azokat a feltételeket, amikor a pedagógiai szakszolgálat igénybevételéért ellenszolgáltatás kérhető, a pedagógiai szakszolgálatot ellátó intézmények és a pedagógiai-szakmai szolgáltatásokat ellátó intézményekben történő foglalkoztatáshoz és a vezetői megbízáshoz szükséges képesítési követelményeket, a pedagógiai szakszolgálati feladatellátás nélküli munkanapok igénybe vételének részletes szabályait, a pedagógiai szakszolgálati nyomtatványok elektronikus úton történő előállításának és tárolásának rendjét, a köznevelési feladatokat ellátó hatóságnak a nem a tankerületi központ által fenntartott intézmények működési engedélyezési eljárásával összefüggő, valamint a törvényességi ellenőrzésükkel kapcsolatos szakmai szabályokat, az egyes szolgáltatásokkal összefüggő igazgatási szolgáltatási díj megállapításának rendjét, mértékét, a megállapított összeg befizetésének szabályait, a befolyt összeg felhasználásának kérdéseit, továbbá a vizsgáztatással, a szakértői és más szolgáltató tevékenységgel kapcsolatos díjazás megállapításának kérdéseit,
+- h) az iskolai felvételi eljárás rendjét, az iskolai vizsgáztatás rendjét, a pedagógiai szakszolgálat megszervezését, a pedagógiai szakszolgálat igénybevételének rendjét, a pedagógiai szakszolgálatot ellátó intézmény működését; a nevelési-oktatási intézmények részvételét és feladatait a pedagógiai szakszolgálatok ellátásában, az érintett gyermekek, tanulók nevelésében és oktatásában, az ellenőrzés rendjét, a pedagógiai szakszolgálattal kapcsolatos köznevelési feladatokat ellátó hatósági eljárás indításával összefüggő kérdéseket, az eljárás indítására jogosultak körét, azokat a feltételeket, amikor a pedagógiai szakszolgálat igénybevételéért ellenszolgáltatás kérhető, a pedagógiai szakszolgálatot ellátó intézmények és a pedagógiai-szakmai szolgáltatásokat ellátó intézményekben történő foglalkoztatáshoz és a vezetői megbízáshoz szükséges képesítési követelményeket, a pedagógiai szakszolgálati feladatellátás nélküli munkanapok igénybe vételének részletes szabályait, a pedagógiai szakszolgálati nyomtatványok elektronikus úton történő előállításának és tárolásának rendjét, a köznevelési feladatokat ellátó hatóságnak a nem a tankerületi központ által fenntartott intézmények működési engedélyezési eljárásával összefüggő, valamint a törvényességi ellenőrzésükkel kapcsolatos szakmai szabályokat, az egyes szolgáltatásokkal összefüggő, valamint a felnőttoktatásban az iskola két vagy több évfolyamára megállapított tanulmányi követelményeket egy tanévben vagy az előírtnál rövidebb idő alatti teljesítésére megszervezett osztályozó vizsgára vizsgabiztos kirendeléséért fizetendő igazgatási szolgáltatási díj megállapításának rendjét, mértékét, a megállapított összeg befizetésének szabályait, a befolyt összeg felhasználásának kérdéseit, továbbá a vizsgáztatással, a szakértői és más szolgáltató tevékenységgel kapcsolatos díjazás megállapításának kérdéseit,
 - i) az érettségi vizsga kivételével a vizsgák rendjét, továbbá az érettségi vizsga vizsgakövetelményeinek kiadását,
 - j) a tankönyvvé nyilvánítás feltételeit és rendjét, valamint eljárását, a tankönyvjegyzék elkészítését és kiadását, a tankönyvjegyzékre való felkerülés feltételeit és eljárását, a tankönyvjegyzékre kerüléssel kapcsolatos árkorlátot, a tankönyvjegyzékből való törlés rendjét és eljárását, a tankönyvtámogatás rendjét, a nem üzletszerű tankönyvforgalmazást, a kötelező eszköz- és felszerelési jegyzék kiadását, a kerettantervek, nevelési-oktatási program jóváhagyásának rendjét, a digitális tananyaggá nyilvánítás feltételeit és rendjét, valamint eljárását, a digitális tananyagok jegyzéke elkészítésének és kiadásának szabályait, a digitális tananyagok jegyzékére való felkerülés feltételeit és eljárását, a digitális tananyagok jegyzékére kerüléssel kapcsolatos árkorlátot, a digitális tananyagok jegyzékéről való törlés rendjét és eljárását, valamint az e pontban felsorolt eljárásokkal összefüggő igazgatási szolgáltatási díj megállapításának rendjét, mértékét, a megállapított összeg befizetésének szabályait, a befolyt összeg felhasználásának kérdéseit,
-- k) az oktatási jogok biztosa hivatalának feladatait, szervezetének és működésének szabályait, a hivatal vezetőjének juttatásait, tevékenységének irányítását,
+- k) az oktatási jogok biztosának feladatait, eljárását, továbbá az általa vezetett hivatal szervezetének és működésének szabályait,
 - l) a 82. § szerinti köznevelési szakértői és érettségi vizsgaelnöki tevékenység folytatásának részletes feltételeit, a köznevelési szakértői tevékenység 82. § (1) bekezdés a) pontja szerinti bejelentésének, illetve a 82. § (1) bekezdés b) pontja szerinti engedély kiadásának, valamint az Országos szakértői névjegyzékbe, az Országos érettségi vizsgaelnöki névjegyzékbe történő felvétel részletes eljárási szabályait és a köznevelési szakértői, az érettségi vizsgaelnöki tevékenység folytatásának szakmai feltételeit, a köznevelési szakértők és a vizsgaelnökök továbbképzését és a továbbképzési kötelezettség elmulasztásának következményeit, valamint az Országos szakértői névjegyzék és az Országos érettségi vizsgaelnöki névjegyzék személyes adatot nem tartalmazó adattartalmát és a névjegyzékek vezetésére vonatkozó részletes eljárási szabályokat, az e pontban felsorolt eljárásokkal összefüggő igazgatási szolgáltatási díj megállapításának rendjét, mértékét, a megállapított összeg befizetésének szabályait, a befolyt összeg felhasználásának kérdéseit,
 - m) a közneveléssel összefüggő feladatok ellátását szolgáló képzéseket,
 - n) az országos szaktanácsadói tevékenység keretében megszervezett, továbbá nem tantárgyhoz, nem szakterülethez kötődő szaktanácsadói feladatokat, azok megszervezését, valamint az országos szaktanácsadói tevékenységhez kapcsolódó további szakmai követelményeket, a nem tantárgyhoz, nem szakterülethez kötődő országos pedagógiai-szakmai szolgáltatások körét, területeit, megszervezését, az állami köznevelési közfeladat-ellátás keretében biztosított pedagógiai-szakmai szolgáltatásban való részvétel feltételeit, a nevelési-oktatási intézmény által nyújtható pedagógiai-szakmai szolgáltatások körét, a pedagógiai-szakmai szolgáltatást nyújtó és köznevelési intézménynek nem minősülő szervezetek pedagógiai-szakmai szolgáltatásokban történő közreműködéséhez szükséges engedély kiadásának feltételeit és eljárásrendjét, valamint a térítésmentesen biztosított pedagógiai-szakmai szolgáltatások ellátási szintjét,
@@ -2613,6 +2636,8 @@ egyetértésben gyakorolja.
 rendeletben állapítsa meg.
 
 (4a) Felhatalmazást kap a Kormány, hogy a köznevelési ösztöndíjak alapítását, odaítélésük feltételeit, rendjét, így különösen az esélyteremtést támogató ösztöndíj adományozásának rendjét és feltételeit rendeletben állapítsa meg.
+
+(4b) Felhatalmazást kap a Kormány, hogy az Arany János Tehetséggondozó Program, az Arany János Kollégiumi Program és az Arany János Kollégiumi-Szakközépiskolai Program megvalósítását szolgáló támogatás igénylésének, döntési rendszerének, folyósításának, elszámolásának és ellenőrzésének rendjét és feltételeit rendeletben állapítsa meg.
 
 (5) A (4) bekezdés a)–c) és f) pontjában meghatározott kormányrendeleteknek a Kormány részére történő benyújtásához – a nemzetiséghez tartozók óvodai nevelését, iskolai nevelését, oktatását érintő kérdésekben – be kell szerezni az országos nemzetiségi önkormányzatok véleményét.
 
@@ -2848,7 +2873,19 @@ rendelkezik.
 
 (14) Ha a pedagógus-munkakör megfelelő végzettséggel és szakképzettséggel rendelkezővel nem tölthető be, akkor legfeljebb egy alkalommal a gyakornoki idő lejártáig gyakornokként alkalmazható az is, aki a nyelvvizsga letétele kivételével a pedagógus-munkakör betöltéséhez előírt végzettséget és szakképzettséget igazoló oklevél kiadásának feltételeit teljesítette. Ebben az esetben a minősítő vizsga letételének feltétele az előírt nyelvvizsga-bizonyítvány megszerzése. Amennyiben a gyakornok az előírt határidőig a nyelvvizsga-bizonyítványt nem szerzi meg, közalkalmazotti jogviszonya, munkaviszonya e törvény erejénél fogva megszűnik.
 
-(15) 2016. szeptember 1-jétől szakközépiskolában a középfokú nevelés-oktatásban a 9–11. évfolyamon főiskolai szintű végzettséggel és tanári szakképzettséggel is betölthető pedagógus-munkakör, feltéve, hogy a mesterfokozatú, a tantárgynak megfelelő szakos tanári végzettséget és szakképzettséget 2021. szeptember 1-jéig megszerzi az érintett. Ezt a rendelkezést nem kell alkalmazni és pedagógus-munkakörben a szakközépiskolában továbbra is alkalmazható, de az érettségi vizsgán vizsgáztató tanár nem lehet az, akinek a rá irányadó öregségi nyugdíjjogosultság eléréséhez szükséges korhatárig tíz évnél kevesebb ideje van hátra.
+(15)
+
+(16) Ha a pedagógus-munkakör megfelelő végzettséggel és szakképzettséggel rendelkezővel nem tölthető be, akkor a megfelelő pedagógus-szakképzettség megszerzéséig, de legfeljebb egy alkalommal, vagy több egymást követő jogviszony esetén mindösszesen öt évig határozott időre foglalkoztatható az is, aki
+
+- a) a tantárgynak megfelelő szakmai tanár felsőfokú végzettségi szinttel és szakképzettséggel,
+- b) felsőfokú végzettségi szinttel és a tantárgynak megfelelő, felsőoktatásban természettudomány képzési területen szerzett szakképzettséggel,
+- c) alapfokú művészeti iskolában felsőoktatásban művészet képzési terület szakján szerzett művészeti tárgynak megfelelő felsőfokú végzettségi szinttel és előadóművész-szakképzettséggel
+
+rendelkezik, feltéve, hogy vállalja a megfelelő tanári szakképzettség megszerzését.
+
+(17) A tánc és dráma tantárgyat 9–12. évfolyamon taníthatja az is, aki magyar nyelv és irodalom szakos tanári szakképzettséggel rendelkezik, valamint elsajátította a tantárgy oktatásához szükséges elméleti és módszertani ismereteket a 98. § (14) bekezdés szerinti továbbképzésben vagy a tantárgy szakirányának megfelelő felsőfokú végzettséggel és szakképzettséggel is rendelkezik.
+
+(18) Alapfokú művészeti iskolában az azonos tanszakhoz tartozó tantárgyakat taníthatja az is, aki bármely, az adott tanszakhoz tartozó tantárgy tanításához megfelelő felsőfokú végzettségi szinttel és szakképzettséggel rendelkezik, és vállalja, hogy a 98. § (14) bekezdés szerint elsajátítja a tantárgy tanításának módszertanát. E bekezdésben foglaltak szerint legfeljebb egy alkalommal, vagy több egymást követő jogviszony esetén mindösszesen öt évig határozott időre foglalkoztatható az is, aki vállalja a megfelelő tanári szakképzettség megszerzését.
 
 99/A. § A 78. § (2a) bekezdésében meghatározott feladat végrehajtásában a jogszabályban történő kijelölés esetén az oktatási központ részt vehet. Az e kijelölés alapján eljáró oktatási központ a költségvetésében e célra rendelkezésre álló előirányzat terhére támogatást nyújt.
 
@@ -2856,16 +2893,7 @@ rendelkezik.
 
 (10) A Kar 2014-ben megválasztott tisztségviselőinek megbízatása két évre szól, és további két teljes ciklusra megválaszthatók.
 
-99/C. § (1) Az állami köznevelési közfeladat-ellátás keretében a pedagógiai-szakmai szolgáltatásokat a hivatal 2015. április 1-jétől biztosítja.
-
-(2) Az állami köznevelési közfeladat-ellátás keretében az állami pedagógiai-szakmai szolgáltatás ellátását biztosító mindazon állami és helyi önkormányzati tulajdonú ingó és ingatlan vagyon, tárgyi, műszaki, pénzügyi eszköz, amely a pedagógiai-szakmai szolgáltatások ellátását biztosítja és 2015. március 31-én az állami intézményfenntartó központ használatában vagy vagyonkezelésében van,
-
-- a) önálló ingatlan és a feladatellátást szolgáló ingó vagyon esetében a hivatal ingyenes vagyonkezelésébe,
-- b) ingatlanrész és a feladatellátást szolgáló ingó vagyon esetében a hivatal ingyenes használatába
-
-kerül 2015. április 1-jén.
-
-(3) Az állami köznevelési közfeladat-ellátás keretében a pedagógiai-szakmai szolgáltatás ellátását biztosító személyi, tárgyi, műszaki, pénzügyi eszközök alatt az átvett pedagógiai-szakmai szolgáltatási feladathoz kapcsolódó valamennyi jogot és kötelezettséget, valamint ingó és ingatlan vagyont is érteni kell.
+#### 99/C. §
 
 99/D. § (1) Az e törvény 2016. augusztus 31-éig hatályos rendelkezései szerinti szakközépiskolai, szakiskolai és speciális szakiskolai nevelés-oktatásban utoljára a 2015/2016. tanévben indítható kilencedik vagy nyelvi előkészítő évfolyam.
 
@@ -2885,7 +2913,7 @@ kell 2016. szeptember 1-jétől kifutó jelleggel megszervezni.
 
 (6) Ha a szakközépiskolai vagy szakiskolai nevelési-oktatási alapfeladatot ellátó köznevelési intézmény, többcélú intézmény fenntartói jogának az állami intézményfenntartó központtól a szakképzésért és felnőttképzésért felelős miniszter számára 2015. július 1-jével történő átadása miatt az állami intézményfenntartó központ fenntartásában maradó köznevelési intézményt, többcélú intézményt át kell szervezni, és az átszervezés miatt vagy azért, mert az intézményvezetői megbízás lejár, új intézményvezető megbízása válik szükségessé, az oktatásért felelős miniszter pályázat nélkül adhat legfeljebb egy évre szóló intézményvezetői megbízást az e törvényben az intézményvezetői megbízásra előírt feltételeknek megfelelő személynek az állami intézményfenntartó központ fenntartásában maradó, átszervezett köznevelési intézmény, többcélú intézmény vezetésére.
 
-99/E. § 2017. szeptember 1-jétől egységes óvoda-bölcsőde nem működhet. Az egységes óvoda-bölcsődében ellátott gyermekek 2017. szeptember 1-jétől – az életkoruknak megfelelően – óvodában, vagy a gyermekjóléti alapellátás keretében megszervezett gyermekek napközbeni ellátását biztosító intézményben vagy ilyen feladatot ellátó többcélú intézményben láthatók el.
+99/E. § 2018. szeptember 1-jétől egységes óvoda-bölcsőde nem működhet. Az egységes óvoda-bölcsődében ellátott gyermekek 2018. szeptember 1-jétől – az életkoruknak megfelelően – óvodában, vagy a gyermekjóléti alapellátás keretében megszervezett gyermekek napközbeni ellátását biztosító intézményben vagy ilyen feladatot ellátó többcélú intézményben láthatók el.
 
 99/F. § 2016. szeptember 1. napját követően a fenntartó négy hónapon belül felülvizsgálja a készségfejlesztő speciális szakiskola alapító okiratát, szakmai alapdokumentumát annak érdekében, hogy megfeleljen az e törvényben foglaltaknak, és megküldi a törzskönyvi nyilvántartást vezető szervnek, a hivatalnak vagy a köznevelési feladatokat ellátó hatóságnak. Ha a köznevelési intézmény a nyilvántartásba vételét követően megkezdhette működését és e törvény szerint működési engedéllyel kell rendelkeznie, a fenntartó köteles 2017. április 30-ig a működési engedély módosítása iránti kérelmet benyújtani vagy a köznevelési intézményt megszüntetni. A készségfejlesztő iskolai nevelés-oktatás 13/B. § szerinti ellátása 2017. szeptember 1-jétől kötelező. A készségfejlesztő iskolában a készségfejlesztő speciális szakiskolai oktatást 2016. szeptember 1-jétől kifutó jelleggel kell megszervezni.
 
@@ -2907,7 +2935,7 @@ kell 2016. szeptember 1-jétől kifutó jelleggel megszervezni.
 
 (7) Ha a közigazgatási határozattal szembeni felülvizsgálati kérelem benyújtását követően, de a bíróság döntését megelőzően a felek a megállapodást megkötik, az oktatásért felelős miniszter a megállapodás megkötését követően a közigazgatási határozatot visszavonja, és erről a bíróságot haladéktalanul írásban értesíti. A közigazgatási határozat visszavonása esetén a bíróság a pert megszünteti.
 
-99/I. § Az állami intézményfenntartó központ, illetve a tankerületi központ jogi személyiséggel rendelkező szervezeti egységeit a közbeszerzés becsült értékének meghatározására vonatkozó szabályok alkalmazásakor gazdasági szervezettel és önálló működési költségvetéssel rendelkező szervezeti egységnek kell tekinteni.
+99/I. § Az oktatási központ, illetve a tankerületi központ, valamint az állami felsőoktatási intézmény jogi személyiséggel rendelkező szervezeti egységeit a közbeszerzés becsült értékének meghatározására vonatkozó szabályok alkalmazásakor gazdasági szervezettel és önálló működési költségvetéssel rendelkező szervezeti egységnek kell tekinteni.
 
 #### 55. Az Európai Unió jogának való megfelelés
 
