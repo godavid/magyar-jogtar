@@ -299,13 +299,19 @@ csak akkor vehet részt, ha a Nemzeti Biztonsági Felügyelet a megfelelő szint
 (2) Ha az iparbiztonsági ellenőrzés nem állapított meg kockázati tényezőt, a Nemzeti Biztonsági Felügyelet a gazdálkodó szervezet részére
 
 - a) egyszerűsített telephely biztonsági tanúsítványt,
-- b) amennyiben a minősített adat védelmének fizikai, adminisztratív és elektronikus biztonsági feltételei is kialakításra kerültek, telephely biztonsági tanúsítványt
+- b) amennyiben a minősített adat védelmének fizikai, adminisztratív és elektronikus biztonsági feltételei is kialakításra kerültek, telephely biztonsági tanúsítványt,
+- c) a Paksi Atomerőmű kapacitásnak fenntartásával kapcsolatos beruházásról, valamint az ezzel kapcsolatos egyes törvények módosításáról szóló 2015. évi VII. törvény (a továbbiakban: 2015. évi VII. törvény) hatálya alá tartozó gazdálkodó szervezet esetében az iparbiztonsági ellenőrzés és a telephely biztonsági tanúsítvány kiadásának részletes szabályairól szóló kormányrendeletben meghatározott telephely biztonsági tanúsítványt
 
 ad ki.
 
 (3) „Bizalmas!” vagy annál magasabb minősítési szintű adatot az (1) bekezdésben meghatározott szerződés végrehajtásában való részvétel, valamint beszerzési eljárás során kizárólag érvényes telephely biztonsági tanúsítvánnyal vagy egyszerűsített telephely biztonsági tanúsítvánnyal rendelkező gazdálkodó szervezet kezelhet.
 
 (4) Egyszerűsített telephely biztonsági tanúsítvánnyal rendelkező gazdálkodó szervezet „Bizalmas!” vagy annál magasabb minősítési szintű adatot a saját székhelyén, telephelyén és fióktelepén nem kezelhet.
+
+(4a) A (2) bekezdés c) pontja szerinti telephely biztonsági tanúsítvány alapján a gazdálkodó szervezet
+
+- a) saját telephelyén minősített adatot nem kezelhet,
+- b) a 2015. évi VII. törvény 3. § (1) bekezdésében meghatározott szerződés, illetve alvállalkozói szerződés megkötésére jogosult.
 
 (5) „Korlátozott terjesztésű!” minősítési szintű adat gazdálkodó szervezetnek történő átadását a minősített adatot kezelő szerv vezetője akkor engedélyezheti, ha meggyőződött arról, hogy a gazdálkodó szervezet a minősített adat személyi, fizikai, adminisztratív és elektronikus biztonsági feltételeinek megfelel.
 
@@ -790,9 +796,9 @@ c) „Bizalmas!” minősítési szintű vagy törvényben, illetve nemzetközi 
 
 (2)
 
-(3) Az e törvény hatálybalépésének időpontjában nemzeti minősített adatot kezelő szervnek vagy jogutódjának a nemzeti minősített adat kezelésére vonatkozó engedélyt, továbbá a nemzeti minősített adat kezelésére szolgáló elektronikus rendszerek használatba vételére vonatkozó engedélyt 2018. december 31-éig kell beszereznie.
+(3) Az e törvény hatálybalépésének időpontjában nemzeti minősített adatot kezelő szervnek vagy jogutódjának a nemzeti minősített adat kezelésére vonatkozó engedélyt, továbbá a nemzeti minősített adat kezelésére szolgáló elektronikus rendszerek használatba vételére vonatkozó engedélyt 2019. december 31-éig kell beszereznie.
 
-(4) A nemzeti minősített adat védelmére vonatkozó fizikai és elektronikus biztonsági feltételeket 2018. december 31-ig kell megteremteni.
+(4) A nemzeti minősített adat védelmére vonatkozó fizikai és elektronikus biztonsági feltételeket 2019. december 31-ig kell megteremteni.
 
 40/A. § Ez a törvény az EUROPOL-információk titoktartási szabályzatának elfogadásáról szóló 2009. november 30-i 2009/968/IB tanácsi határozat 10. cikk (4) bekezdésének és az EU-minősített adatok védelmét szolgáló biztonsági szabályokról szóló, 2013. szeptember 23-i 2013/488/EU tanácsi határozatnak a végrehajtáshoz szükséges rendelkezéseket állapít meg.
 

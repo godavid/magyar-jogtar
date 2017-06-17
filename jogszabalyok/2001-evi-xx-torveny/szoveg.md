@@ -40,7 +40,8 @@ a következő törvényt alkotja:
 - l) az állam nevében a tulajdonosi jogok gyakorlásában törvényben meghatározott állami tulajdonú gazdálkodó szervezetek esetében nemzetgazdasági szempontból jelentős fejlesztések, beruházások megvalósítása, bővítése, hatékonyságának növelése, valamint a versenyképesség javítása érdekében, különös tekintettel az agrárpiac fejlesztésének, a mezőgazdaság fenntartható fejlődésének, az agrár-innováció elősegítésének, az agrárfoglalkoztatás növelésének, a gazdálkodók integrációs együttműködésének biztosítására;
 - m) a közérdekű feladatok, valamint az érintett gazdasági társaságok tevékenységének magas színvonalú, átlátható és költséghatékony ellátása érdekében a közvetlen vagy közvetett tulajdonában álló gazdasági társaságok, továbbá az 1. mellékletben meghatározott gazdasági társaságok, valamint ezen társaságok közvetlen vagy közvetett tulajdonában álló gazdasági társaságok működésének és gazdálkodásának irányításában, koordinálásában és ellenőrzésében;
 - m)
-- n) az m) pontban meghatározott gazdasági társaságok közül a kormányzati tevékenység összehangolásáért felelős miniszter rendelete által kijelölt gazdasági társaságok részére, az m) pont szerinti feladat hatékonyabb végzése céljából, kizárólagos joggal történő szolgáltatásnyújtásban.
+- n) az m) pontban meghatározott gazdasági társaságok közül a kormányzati tevékenység összehangolásáért felelős miniszter rendelete által kijelölt gazdasági társaságok részére, az m) pont szerinti feladat hatékonyabb végzése céljából, kizárólagos joggal történő szolgáltatásnyújtásban;
+- o) szerződés alapján a 2014. évi XXIV. törvénnyel kihirdetett az Oroszországi Föderáció Kormánya és Magyarország Kormánya között a Magyarország Kormányának a magyarországi atomerőmű építésének finanszírozásához nyújtandó állami hitel folyósításáról szóló megállapodás 1. cikk 2. pontja és 2. cikk 2. pontja végrehajtásának elősegítése érdekében iratvizsgálati feladatok ellátásában.
 
 3. § (1) Az MFB Zrt. kizárólag a 2. §-ban felsorolt feladataihoz közvetlenül kapcsolódó üzletszerű tevékenységet végezhet.
 
@@ -66,6 +67,8 @@ a következő törvényt alkotja:
 - g) letéti szolgáltatás, széfszolgáltatás;
 - h) valutával, devizával – ide nem értve a pénzváltási tevékenységet –, váltóval, illetve csekkel saját számlára vagy bizományosként történő kereskedelmi tevékenység;
 - i) pénzügyi szolgáltatás közvetítése.
+
+(2a) Az MFB Zrt. az (1) bekezdésben meghatározott körben, a 2. § o) pontjában szereplő feladatához kapcsolódóan iratok – kockázatvállalásból eredő kitettséget nem eredményező – formai vizsgálatát végezheti.
 
 (3) Az MFB Zrt. az (1) bekezdésben meghatározott körben, a (2) bekezdés szerinti pénzügyi szolgáltatási tevékenységeken túlmenően – jogszabály, vagy az érintett minisztériumokkal, vagy más jogi személyekkel kötött szerződés alapján – az elkülönített állami pénzalapokból, a fejezeti kiadási előirányzatokból és európai uniós forrásokból finanszírozott operatív programokhoz kapcsolódó feladatokat láthat el, így különösen:
 

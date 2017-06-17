@@ -1274,6 +1274,8 @@ megfelelő összeg illeti meg.
 
 magasabb fizetési fokozatba kell besorolni.
 
+(3a) A (3) bekezdés b) pontja alkalmazásában tanár esetén a köznevelési intézményben pedagógus-munkakörben foglalkoztatásra irányuló jogviszonyban, illetve oktatói munkakörben eltöltött időt is figyelembe kell venni.
+
 (4) A második, harmadik és negyedik fizetési fokozatba sorolás feltétele, hogy a közalkalmazott megfeleljen az adott fizetési fokozathoz a munkáltatónak a munkakörre vonatkozó szabályzatában meghatározott oktatói, kutatói, tanári követelménynek. A negyedik fizetési fokozatba sorolás további feltétele a legalább második fizetési fokozat betöltése és a habilitáció megléte.
 
 (5) A (3) bekezdés szerinti fizetési fokozatok közötti várakozási időbe nem számíthatók be a 22. § (8) bekezdésében említett időtartamok, valamint a sor- és tartalékos katonai, illetve a polgári szolgálat időtartama.
@@ -1591,7 +1593,7 @@ eltöltött időt.
 
 93. § Ha a közalkalmazotti jogviszony 2011. december 31-ét követően szűnik meg, és a munkáltató a felmentést, a munkáltató jogutód nélküli megszűnését vagy a munkavállaló a rendkívüli lemondást a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló törvény, vagy a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló törvény hatálybalépését megelőzően közölte, a közalkalmazott a közléskor hatályos szabályokban foglaltaknak megfelelően, ezt követő közlés esetén a megszűnéskor hatályos szabályokban foglaltaknak megfelelően minősül nyugdíjasnak.
 
-93/A. §
+93/A. § Azon felsőoktatási intézményben közalkalmazotti jogviszonyban álló tanárokat, akik 2018. szeptember 1-jéig az oktatás szabályozására vonatkozó és egyes kapcsolódó törvények módosításáról szóló 2017. évi LXX. törvény által megállapított 79/D. § (3a) bekezdésében foglaltak alkalmazásával megfelelnek a magasabb fizetési fokozatba sorolás feltételeinek, legkésőbb 2018. szeptember 1-jén át kell sorolni.
 
 94. § E törvény a Magyar Köztársaság és az Európai Közösségek és azok tagállamai közötti társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás tárgykörében, a Megállapodást kihirdető 1994. évi I. törvény 3. §-ával összhangban az Európai Közösségek következő jogszabályaival összeegyeztethető szabályozást tartalmaz:
 

@@ -220,7 +220,7 @@ a Kormány hozzájárulásához kötött. A hozzájárulás iránti kérelmet az
 
 (4) Az ÁKK Zrt. működése körében a Magyar Nemzeti Banknál pénzforgalmi számlát vezet.
 
-(5) Az ÁKK Zrt. a feladatai ellátásához a Központi Elszámolóház és Értéktár Zrt.-nél értékpapír letéti- és értékpapírszámlát, a Magyar Nemzeti Banknál vagy hitelintézetnél devizaszámlát vezethet.
+(5) Az ÁKK Zrt. a feladatai ellátásához a KELER Központi Értéktár Zrt.-nél értékpapír letéti- és értékpapírszámlát, valamint devizaszámlát, a Magyar Nemzeti Banknál vagy hitelintézetnél devizaszámlát vezethet.
 
 #### 4/A. Az Államadósság Kezelő Központ feladatai
 

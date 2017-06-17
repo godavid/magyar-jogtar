@@ -1499,6 +1499,12 @@ hozza meg, és gondoskodik annak az érintett ügyféllel való közléséről.
 - e) kártérítést és – személyiségi joga megsértése esetén – sérelemdíjat követelhet a polgári jog szabályai szerint, illetve
 - f) követelheti, hogy a jogsértő szolgáltasson adatot a jogsértéssel érintett áruk előállításában, forgalmazásában résztvevőkről, valamint az ilyen áruk terjesztésére kialakított üzleti kapcsolatokról.
 
+(2a) Ha a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt). 9. § (1) bekezdés c) pontja szerinti nemzetközi szerződés e §-t rendeli alkalmazni, e § a 93/B. §-sal együtt alkalmazandó.
+
+(2b) A Kbt. 9. § (1) bekezdés c) pontja szerinti beszerzések esetén az ajánlattételi felhívás alapján indult eljárás ideiglenes intézkedéssel történő felfüggesztésének nincs helye.
+
+(2c) A Kbt. 9. § (1) bekezdés c) pontja szerinti beszerzések esetén a (2) bekezdésben meghatározott jogkövetkezmények közül – már megindított beszerzési eljárás esetén – az ajánlattételi felhívás megsemmisítésének, az ajánlatkérő eltiltása a szerződés megkötésétől vagy a szerződés Ptk. szerinti érvénytelensége megállapításának és az eredeti állapot helyreállításának alkalmazása kizárt.
+
 (3) A 4. § vagy a 6. § rendelkezéseinek megsértése miatt indított perekben az érdekelt fél a (2) bekezdésben foglaltakon túl a keresetben követelheti
 
 - a) a jogsértéssel elért gazdagodás visszatérítését,
@@ -1923,6 +1929,8 @@ végrehajtása
 (4) Az eljáró versenytanács a bírság kiszabását felfüggeszti a 11. §-ba ütköző olyan megállapodás esetén, ahol azt mezőgazdasági termék vonatkozásában követték el. Ez esetben az eljáró versenytanács határidő tűzésével felszólítja a megállapodásban vagy összehangolt magatartásban részt vevő feleket, hogy magatartásukat hozzák összhangba a jogszabályi rendelkezésekkel. A határidő eredménytelen elteltét követően az eljáró versenytanács bírságot szab ki.
 
 (5) Az (1)–(4) bekezdés kizárólag akkor alkalmazható egy esetre, ha az eljárásban az EUMSz. 101. cikke alkalmazásának szükségessége nem merül fel. Az EUMSz. 101. cikke alkalmazásának szükségességét az 1/2003/EK tanácsi rendelet 3. cikk (1) bekezdése alapján a Gazdasági Versenyhivatal állapítja meg versenyfelügyeleti eljárásában, a végső döntés meghozatala előtt.
+
+93/B. § A Kbt. 9. § (1) bekezdés c) pontja szerinti beszerzés esetén a 7. § alkalmazásában kizárólag az Egyezmény szerinti külön eljárás (beszerzési szabályzat) megsértése, az ajánlati felhívás megsértése vagy a beszerzés tárgyához nem kapcsolódó alkalmassági feltétel alkalmazása minősül a verseny tisztaságát sértő magatartásnak.
 
 94. § A külföldi versenyfelügyeleti szervekkel való együttműködés eljárási rendjét nemzetközi szerződés vagy külön jogszabály állapítja meg.
 

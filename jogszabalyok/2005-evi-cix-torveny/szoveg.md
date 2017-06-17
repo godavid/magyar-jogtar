@@ -8,87 +8,59 @@ A haditechnikai termékek gyártásának és a haditechnikai szolgáltatások ny
 
 1. § E törvény alkalmazásában:
 
-- a) felelős vezető: a hadiipari tevékenységet folytató gazdálkodó szervezet (gazdasági társaság, egyéni cég, külföldi székhelyű vállalkozás magyarországi fióktelepe, szövetkezet) vezető tisztségviselője vagy bármely vezető állású munkavállalója, illetve az egyéni vállalkozó, aki a haditechnikai termék gyártását vagy a haditechnikai szolgáltatás nyújtását irányítja;
+- a) felelős vezető: a hadiipari tevékenységet, illetve a haditechnikai külkereskedelmi tevékenységet folytató kérelmező vagy engedélyes vezető tisztségviselője, vagy bármely vezető állású munkavállalója, aki e tevékenységet irányítja;
 - b) hadiipari tevékenység: haditechnikai termék gyártása vagy haditechnikai szolgáltatás nyújtása;
 - c) haditechnikai termék, szolgáltatás: a védelem terén alapvető biztonsági érdekeket érintő, kifejezetten katonai, nemzetbiztonsági, rendvédelmi és rendészeti célokra alkalmas, az Európai Unió közös katonai listáján található, illetve nemzeti érdekből ide sorolt termék vagy szolgáltatás;
-- d) haditechnikai termék gyártása: a haditechnikai termék előállítására, átalakítására irányuló tevékenység;
-- e) haditechnikai szolgáltatás nyújtása: a gyártási folyamattól esetenként elkülönült műszaki és gyártástechnikai tervezés, a termék élettartamán belül annak készletezése, tárolása, belföldi forgalmazása, minőségi vizsgálata, üzembe helyezése, üzemben tartása, karbantartása, javítása, korszerűsítése, szét- és összeszerelése, hatástalanítása, megsemmisítése, felkutatása, továbbá a haditechnikai termékkezelői kiképzés, oktatás;
+- d) haditechnikai termék gyártása: a haditechnikai termék előállítására, átalakítására irányuló tevékenység, ideértve a termék első alkalommal történő összeszerelését;
+- e) haditechnikai szolgáltatás nyújtása: műszaki és gyártástechnikai tervezés, műszaki támogató tevékenység, a termék készletezése, tárolása, forgalmazása, minőségi vizsgálata, üzembe helyezése, üzemben tartása, karbantartása, javítása, korszerűsítése, fejlesztése, szét- és összeszerelése, hatástalanítása, megsemmisítése, felkutatása, ideértve a bérmunkát, a műszaki-technológiai utasítás és gyártási ismeret, tapasztalat átadását, továbbá az eszközök kezelésének és alkalmazásának elméleti és gyakorlati oktatása, kiképzés;
 - f) hatástalanítás: olyan technológiai folyamat, melynek eredményeként a haditechnikai termék visszafordíthatatlanul elveszíti eredeti funkcióit, ezzel alkalmatlanná válik a rendeltetés szerinti használatra; a folyamat eredményeként egyéb célra alkalmas eszköz, anyag, alkatrész keletkezhet;
 - g) megsemmisítés: olyan technológiai folyamat, melynek során a haditechnikai termék visszafordíthatatlanul elveszíti eredeti funkcióját; a folyamat eredményeként tovább-, illetve újrahasznosítható anyag vagy hulladék keletkezik;
 - h) elhagyott haditechnikai termék: harci cselekményekből, a harci cselekményekkor vagy békeidőben történt hanyag anyagkezelésből az élő környezetben, a talaj felszínén, talajban, vagy víz alatt visszamaradt, robbanó töltetet tartalmazó haditechnikai termék;
-- i) felkutatás: olyan folyamat, melynek során elhagyott haditechnikai termék felderítésre, feltárásra és azonosításra kerül.
+- i) felkutatás: olyan folyamat, melynek során elhagyott haditechnikai termék felderítésre, feltárásra és azonosításra kerül;
+- j) haditechnikai termék külkereskedelme: haditechnikai eszközök és szolgáltatások kivitelével, behozatalával, transzferjével és tranzitjával összefüggő kereskedelmi tevékenység, ideértve az ilyen tevékenységnek a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti határon átnyúló szolgáltatásnyújtás keretében történő folytatását is, továbbá a haditechnikai termékkel kapcsolatban végzett brókertevékenység,
 
 ### Az engedély
 
-2. § (1) Magyarország területén hadiipari tevékenység végzéséhez engedély szükséges. Az engedély megadásával egyidejűleg a hadiipari gyártás- és szolgáltatásfelügyelet nyilvántartásba veszi az engedélyest.
+2. § (1) A hadiipari tevékenység végzéséhez engedély szükséges. Az engedély típusait és az engedély kiadásának a feltételeit kormányrendelet határozza meg.
 
-(1a) Az (1) bekezdés szerinti nyilvántartás tartalmazza a jogosult nevét, lakóhelyét vagy székhelyét, adószámát, engedélye számát és az engedély hatályosságának megjelölését.
+(2) Nem végezhető olyan hadiipari tevékenység, amely Magyarország nemzetközi kötelezettségvállalásába ütközik.
 
-(1b) Az (1) bekezdés szerinti nyilvántartás az (1a) bekezdésben meghatározott adatok tekintetében – a természetes személyazonosító, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(3) Az engedély kiadására a hadiipari gyártás- és szolgáltatásfelügyelet jogosult kormányrendeletben meghatározott szervek véleménye alapján.
 
-(2) Nem végezhető olyan tevékenység, mely Magyarország nemzetközi kötelezettségvállalásába ütközik.
+(4) A hadiipari tevékenység engedélyezése során a hadiipari gyártás- és szolgáltatásfelügyelet
 
-(3) Nem kell külön engedélyt beszerezniük a Magyar Honvédség, a nemzetbiztonsági szolgálatok, a rendvédelmi szervek – e törvény alkalmazásában ideértve a Nemzeti Adó- és Vámhivatalt is – kutatással és fejlesztéssel, javítással és karbantartással foglalkozó, valamint hatástalanítást, megsemmisítést, múzeumi tevékenységet végző, továbbá a Magyar Honvédség közbeszerzési, beszerzési eljárásokban ajánlatkérőként eljáró szervezeti egységeinek. Nem kell külön engedélyt beszerezniük az állam nevében eladóként eljáró, honvédelmi szempontból feleslegesnek nyilvánított haditechnikai termékek elidegenítését végző szerveknek azonban az elidegenített haditechnikai termékek köréről, illetve a vásárlók személyéről kötelesek tájékoztatni a hadiipari gyártás- és szolgáltatásfelügyeletet.
+- a) figyelembe veszi Magyarország nemzetközi kötelezettségeit,
+- b) figyelembe veszi Magyarország nemzetbiztonsági és nemzetgazdasági érdekeit,
+- c) biztosítja a kérelmező és a kérelmezett hadiipari tevékenység kormányrendeletben meghatározott feltételeknek való megfelelését.
 
-(4) Az engedély kiadására a hadiipari gyártás- és szolgáltatásfelügyelet jogosult kormányrendeletben meghatározott szervek véleménye alapján.
-
-(5) A hadiipari tevékenység abban az esetben engedélyezhető, ha
-
-- a) a tevékenység nem ellentétes Magyarország nemzetközi kötelezettségeivel,
-- b) a kérelmező, tulajdonosa vagy valamely felelős vezetője rendelkezik a termék gyártásához, vagy a szolgáltatás nyújtásához szükséges – jogszabályban megjelölt – szakirányú végzettséggel és gyakorlattal;
-- c) a kérelmező rendelkezik olyan székhellyel (telephellyel) és eszközökkel, melyek műszakilag alkalmassá teszik a kérelmezett tevékenység végzésére, azok biztonságtechnikailag alkalmasak a haditechnikai termék biztonságos mozgatására, szállítására, tárolására és őrzésére,
-- d) a kérelmező felelős vezetője rendelkezik a külön jogszabály szerinti nemzetbiztonsági ellenőrzéssel,
-- e) a tervezett gyártáshoz vagy a szolgáltatás nyújtásához kapcsolódó munkakörben alkalmazottak megfelelnek az 5. §-ban meghatározott követelményeknek,
-- f) a kérelmező vállalja, hogy a külön jogszabályban előírt termékekről nyilvántartást vezet, illetve arról adatot szolgáltat.
-
-(6) Ha a kérelmezett tevékenység akadályozza a rendvédelmi szervek jogszabályban meghatározott tevékenységének ellátását a hadiipari szolgáltatásfelügyelet az engedélyben műszaki, vagy forgalmi korlátozó feltételeket szabhat meg.
-
-(7) Kérelem jogerős elutasítását, vagy a kiadott engedély 4. § szerinti visszavonását követő 6 hónapon belül ugyanazon kérelmező vagy engedélyes új kérelmet csak a visszautasított kérelemben, vagy visszavont engedélyben szereplő tevékenységi körtől vagy köröktől teljes mértékben különböző tevékenységekre terjeszthet elő.
-
-(8) Jogszabály a felkutatási tevékenység tekintetében az (5) bekezdésben meghatározott feltételek mellett további feltételeket állapíthat meg.
+(5) Az engedély megadásával egyidejűleg a hadiipari gyártás- és szolgáltatásfelügyelet a 7. §-ban meghatározottak szerint nyilvántartásba veszi az engedélyest.
 
 2/A. § A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató határon átnyúló szolgáltatásnyújtás keretében történő haditechnikai szolgáltatási tevékenységének a folytatásához a hadiipari gyártás- és szolgáltatásfelügyelet által kiadott engedély szükséges. Az engedély megadásával egyidejűleg a hadiipari gyártás- és szolgáltatásfelügyelet nyilvántartásba veszi a szolgáltatót.
 
-2/B. § Magyarország területén haditechnikai eszközök és szolgáltatások kivitelével, behozatalával, transzferjével és tranzitjával összefüggő kereskedelmi tevékenység, ideértve az ilyen tevékenységnek a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti határon átnyúló szolgáltatásnyújtás keretében történő folytatását is, – ha az Európai Unió általános hatályú, közvetlenül alkalmazandó, kötelező jogi aktusa eltérően nem rendelkezik – csak a Kormány rendeletében meghatározott külön engedéllyel folytatható.
+2/B. § (1) A haditechnikai termék külkereskedelmével kapcsolatos tevékenység, – ha az Európai Unió általános hatályú, közvetlenül alkalmazandó, kötelező jogi aktusa eltérően nem rendelkezik – csak engedéllyel folytatható. Az engedély típusait és az engedély kiadásának a feltételeit kormányrendelet határozza meg.
+
+(2) Az engedély kiadására a nemzeti külkereskedelmi államigazgatási szerv jogosult kormányrendeletben meghatározott szervek véleménye alapján.
+
+(3) A haditechnikai külkereskedelmi tevékenység engedélyezése során a nemzeti külkereskedelmi államigazgatási szerv
+
+- a) figyelembe veszi Magyarország nemzetközi kötelezettségeit,
+- b) figyelembe veszi Magyarország nemzetbiztonsági és nemzetgazdasági érdekeit,
+- c) figyelembe veszi Magyarország kül-és biztonságpolitikai érdekeit,
+- d) biztosítja a kérelmező és a kérelmezett haditechnikai termék külkereskedelmével kapcsolatos tevékenység kormányrendeletben részletezett feltételeknek való megfelelését.
+
+(4) Az engedély megadásával egyidejűleg a nemzeti külkereskedelmi államigazgatási szerv a 7/B. §-ban meghatározottak szerint nyilvántartásba veszi az engedélyest.
 
 ### Az engedély kiadása, visszavonása
 
 3. § (1) A 2. § szerinti engedély gazdasági társaság, egyéni cég, külföldi székhelyű vállalkozás magyarországi fióktelepe, szövetkezet, egyéni vállalkozó, valamint – a 2/A. § szerinti esetben – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti más EGT-államban letelepedett vállalkozás részére adható ki.
 
-(2) Engedély – a (3) bekezdésben szabályozott eset kivételével – csak annak a kérelmezőnek adható, amelynek
-
-- a)
-- b) a kérelemben megjelölt tevékenység irányítására kijelölt felelős vezetője a külön jogszabályban megjelölt szakirányú végzettséggel és gyakorlattal rendelkezik;
-- c) nyilvántartásba vett tevékenységi körei között a haditechnikai termék gyártása vagy a termékhez kapcsolódó szolgáltatás nyújtása szerepel.
-
-(3) A (2) bekezdés a) és c) pontja szerinti feltételek fennállását a hadiipari gyártás- és szolgáltatásfelügyelet az érintett szerv nyilvántartásában ellenőrzi.
-
-(4) A 2/A. § szerinti esetben a hadiipari gyártás- és szolgáltatásfelügyelet annak ad engedélyt, aki
-
-- a) az engedélyezési eljárásban hitelt érdemlően igazolja, hogy az Európai Unió tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban gazdasági társaságként bejegyezték, és ott a jogszabályoknak megfelelően működik;
-- b) a bejegyzés helye szerinti országban hadiipari tevékenység folytatására engedéllyel rendelkezik, vagy ilyen tevékenységet a bejegyzés helye szerinti országban és külföldön jogszerűen végezhet;
-- c) a kérelemben megjelölt tevékenység irányítására kijelölt felelős vezetője a külön jogszabályban megjelölt szakirányú végzettséggel és gyakorlattal rendelkezik;
-- d) megfelel az e törvény vagy a felhatalmazása alapján kiadott jogszabályban meghatározott egyéb feltételeknek.
+(2)–(4)
 
 (5) Az engedélyezési eljárásban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
 
 (6) Az engedélyezési eljárás ügyintézési határideje negyvenöt nap.
 
-4. § (1) Az engedélykérelmet el kell utasítani, ha
-
-- a) a nemzetbiztonsági szolgálatok írásos véleménye alapján a kérelmező személye, tulajdonosa, felelős vezetője nemzetbiztonsági kockázatot jelent,
-- b) a kérelmezett tevékenység a 2. § (4) bekezdése szerinti szervek írásos véleménye alapján nemzetbiztonsági kockázatot jelent,
-- c) a kérelmezőnek a hadiipari gyártás- és szolgáltatásfelügyelettel szemben korábbi eljárásból származó, befizetetlen bírságtartozása van.
-
-(2) Az engedélyt vissza kell vonni, ha
-
-- a) a kiadásának bármely feltétele megszűnt,
-- b) az engedélyes a jogszabályban meghatározott, a tevékenységéről időszakonként igazolandó feltételek tanúsítását ismételten elmulasztja,
-- c) az engedély kiadását követően jut a hadiipari gyártás- és szolgáltatásfelügyelet tudomására olyan körülmény, amely alapján az engedély nem lett volna kiadható,
-- d) az engedélyes ellen a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló törvény szerint hivatalból indult versenyfelügyeleti eljárás során jogerős marasztaló döntés született,
-- e) az engedélyes az e törvényben, az e törvény alapján kiadott kormányrendeletben vagy az engedélyben meghatározott feltételeket ismételten megszegi,
-- f) az engedélyes ellen irányuló csődeljárás, felszámolás vagy végelszámolás során azt nemzetgazdasági vagy nemzetbiztonsági érdek indokolja, és
-- g) a hadiipari tevékenység a 2. § (4) bekezdése szerinti szervek írásos véleménye alapján nemzetbiztonsági érdeket sért, nemzetbiztonsági kockázatot jelent.
+4. § A 2. § és a 2/A. § szerinti eljárásokban a hadiipari gyártás- és szolgáltatásfelügyelet, a 2/B. § szerinti eljárásokban a nemzeti külkereskedelmi államigazgatási szerv kormányrendeletben meghatározott esetekben és eljárás szerint utasítja el az engedély iránti kérelmet, vonja vissza az engedélyt vagy függeszti fel az engedély hatályát.
 
 ### Hadiipari bírság
 
@@ -133,7 +105,11 @@ A haditechnikai termékek gyártásának és a haditechnikai szolgáltatások ny
 
 (4) A hadiipari gyártás- és szolgáltatásfelügyelet a hadiipari tevékenység folytatásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy az (1) bekezdés b) pontjában meghatározott személy büntetlen előéletű, valamint, hogy az (1) bekezdés a) pontjában meghatározott személy a (2) bekezdés a)–c) pontja szerinti biztonsági feltételeknek megfelel. A hatósági ellenőrzés céljából a hadiipari gyártás- és szolgáltatásfelügyelet adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag annak megállapítására irányulhat, hogy az (1) bekezdés b) pontjában meghatározott személy büntetlen előéletű-e, illetve, hogy az (1) bekezdés a) pontjában meghatározott személy a (2) bekezdés a)–c) pontja szerinti biztonsági feltételeknek megfelel-e.
 
-5/A. § A haditechnikai eszközök és szolgáltatások kivitelének, behozatalának, transzferjének és tranzitjának engedélyezéséről, valamint a vállalkozások tanúsításáról szóló 160/2011. (VIII. 18.) Korm. rendelet 1. mellékletének I. fejezet a)–c) pontjában és III. fejezetében, valamint az Egyesült Nemzeteknek a nemzetközi szervezett bűnözés elleni egyezményét kiegészítő, a tűzfegyverek, részeik, alkotóelemeik és a lőszerek tiltott gyártásáról és kereskedelméről szóló jegyzőkönyve 10. cikkének végrehajtásáról, valamint a tűzfegyverek, tűzfegyverdarabok, alkotóelemeik és lőszereik kiviteli engedélyezési, behozatali és tranzit szabályainak létrehozásáról szóló 2012. március 14-ei 258/2012/EU parlamenti és tanácsi rendelet I. Mellékletében is felsorolt haditechnikai eszközök kivitelét végző vállalkozás tulajdonosának és vezető tisztségviselőjének meg kell felelnie az 5. §-ban meghatározott, ezen termékkörökre vonatkozó személyi követelményeknek.
+(5) A 2. § szerinti engedély akkor adható ki, ha a kérelmező felelős vezetője rendelkezik a jogszabály szerinti nemzetbiztonsági ellenőrzéssel.
+
+(6) A 2/A. § és 2/B. § szerinti tevékenység végzéséhez szükséges személyi feltételeket kormányrendelet határozza meg.
+
+5/A. § A védelmi vonatkozású termékek Közösségen belüli transzferére vonatkozó feltételek egyszerűsítéséről szóló, 2009. május 6-i 2009/43/EK európai parlamenti és tanácsi irányelv Mellékletének I. fejezet a)–c) pontjában vagy III. fejezetében, és az Egyesült Nemzeteknek a nemzetközi szervezett bűnözés elleni egyezményét kiegészítő, a tűzfegyverek, részeik, alkotóelemeik és a lőszerek tiltott gyártásáról és kereskedelméről szóló jegyzőkönyve 10. cikkének végrehajtásáról, valamint a tűzfegyverek, tűzfegyverdarabok, alkotóelemeik és lőszereik kiviteli engedélyezési, behozatali és tranzit szabályainak létrehozásáról szóló, 2012. március 14-ei 258/2012/EU parlamenti és tanácsi rendelet I. Mellékletében is felsorolt haditechnikai eszközök kivitelét végző engedélyes tulajdonosának és vezető tisztségviselőjének meg kell felelnie az 5. §-ban meghatározott, ezen termékkörökre vonatkozó személyi követelményeknek.
 
 ### Adatkezelés
 
@@ -154,9 +130,11 @@ A haditechnikai termékek gyártásának és a haditechnikai szolgáltatások ny
 - a) a hadiipari tevékenység engedélyezése iránti eljárás jogerős befejezéséig,
 - b) a hadiipari tevékenység engedélyezése esetén a hatósági ellenőrzés időtartamára vagy az engedély visszavonására irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
 
-7. § (1) A hadiipari gyártás- és szolgáltatásfelügyelet nyilvántartást vezet a kiadott engedélyek érvényességi idejéről, azonosító számáról.
+7. § (1) A hadiipari gyártás- és szolgáltatásfelügyelet nyilvántartást vezet a kiadott engedélyek érvényességi idejéről, azonosító számáról, ehhez kapcsolódva a jogosult nevéről, lakóhelyéről vagy székhelyéről, adószámáról, engedélye számáról és az engedély hatályosságának megjelöléséről.
 
 (2) A hadiipari gyártás- és szolgáltatásfelügyelet nyilvántartja a visszavont engedélyek (1) bekezdés szerinti adatait.
+
+(3) Az (1) és (2) bekezdés szerinti nyilvántartás az (1) és (2) bekezdésben meghatározott adatok tekintetében – a természetes személyazonosító, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 7/A. § (1) Ha törvény másképpen nem rendelkezik, a 6. § (1) bekezdésében meghatározott adatoknak a kérelmező által az adattovábbítási kérelemben pontosan meghatározott köre, az adatátvétel pontos célját indokoló kérelemre az alábbi szervezeteknek továbbítható:
 
@@ -166,6 +144,8 @@ A haditechnikai termékek gyártásának és a haditechnikai szolgáltatások ny
 - d) a külföldi nyomozó hatóság, ügyészség, bíróság, nemzetközi igazságügyi és bűnüldöző szerv, a bűnügyi jogsegélyről szóló jogszabályokban, nemzetközi szerződésben vagy egyéb nemzetközi kötelezettségvállalásban foglaltak szerint.
 
 (2) A hadiipari gyártás- és szolgáltatásfelügyelet nyilvántartásából a Nemzetközi Bűnügyi Együttműködési Központ, a Magyarország nemzetközi szerződésben adattovábbításra feljogosított és megnevezett szerve az (1) bekezdés c) pontjában felsoroltak részére adatszolgáltatás teljesítése céljából az adatok átvételére és továbbítására jogosult.
+
+7/B. § A nemzeti külkereskedelmi államigazgatási szerv 2/B. § szerinti engedélyezési eljárásával kapcsolatos nyilvántartás-vezetésre és adatkezelésre a 6–7/A. § rendelkezéseit kell alkalmazni.
 
 ### Záró rendelkezések
 
@@ -179,20 +159,27 @@ A haditechnikai termékek gyártásának és a haditechnikai szolgáltatások ny
 
 10. § (1) Felhatalmazást kap a Kormány, hogy rendeletben
 
-- a) jelölje ki a hadiipari gyártás- és szolgáltatásfelügyeletet vagy -felügyeleteket,
+- a) jelölje ki az engedélyező hatóságként eljáró hadiipari gyártás- és szolgáltatásfelügyeletet,
 - b) szabályozza a hadiipari tevékenység folytatásának részletes feltételeit, az e tevékenységre jogosító engedély kiadásának rendjét, az engedéllyel rendelkezőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá az e tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 - c) szabályozza a haditechnikai eszközök és szolgáltatások kivitelével, behozatalával, transzferjével, tranzitjával összefüggő kereskedelmi tevékenységnek az engedélyezését.,
 - d) határozza meg az engedélyköteles haditechnikai termékek és szolgáltatások körét; az 5. § (1) bekezdés a) és b) pontja szerinti esetköröket,
 - e) határozza meg a 4/A. § szerinti bírság mértékére, a bírságolási eljárásra vonatkozó szabályokat,
-- f) jelölje ki a 2. § (4) bekezdése szerinti szerveket.
+- f) jelölje ki a 2. § (3) bekezdése és a 2/B. § (2) bekezdése szerinti véleményező szervet, szerveket,
+- g) határozza meg a 2. §, a 2/A. § és a 2/B. § szerinti eljárások engedélytípusait,
+- h) határozza meg az engedélyezési eljárásokban és a vállalkozások tanúsítási eljárásában a kérelmezők körét,
+- i) szabályozza az engedélykötelezettség alóli mentesség eseteit,
+- j) szabályozza a felkutatási tevékenység folytatásának feltételeit, a szakmai kivitelezés eljárási rendjét és szabályait, a kérelmezőnek vagy valamely felelős vezetőjének a szolgáltatás nyújtásához szükséges személyi és technikai feltételeit.
 
-(2) Felhatalmazást kap az iparügyekért felelős miniszter, hogy az érdekelt miniszterekkel egyetértésben rendeletben szabályozza a haditechnikai termékek jelölését és nyilvántartását.
+(2) Felhatalmazást kap az iparügyekért felelős miniszter, hogy a honvédelemért felelős miniszterrel és a rendészetért felelős miniszterrel egyetértésben rendeletben szabályozza a haditechnikai termékek jelölését és nyilvántartását.
 
-(3) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a rendészetért felelős miniszterrel egyetértésben szabályozza a felkutatási tevékenység folytatásának e törvény 2. § (5) bekezdésében meghatározottakon felüli feltételeit, a szakmai kivitelezés eljárási rendjét és szabályait, a kérelmezőnek vagy valamely felelős vezetőjének a szolgáltatás nyújtásához szükséges személyi és technikai feltételeit.
+(3)
 
-11. § Ez a törvény
+11. § (1) Ez a törvény a 2014. évi V. törvénnyel kihirdetett Fegyverkereskedelmi Szerződésben foglalt nemzetközi kötelezettségek teljesítését szolgálja.
 
-- a) a belső piaci szolgáltatásokról szóló 2006/123/EK európai parlamenti és tanácsi irányelvnek,
-- b) az Egyesült Nemzeteknek a nemzetközi szervezett bűnözés elleni egyezményét kiegészítő, a tűzfegyverek, részeik, alkotóelemeik és a lőszerek tiltott gyártásáról és kereskedelméről szóló jegyzőkönyve 10. cikkének végrehajtásáról, valamint a tűzfegyverek, tűzfegyverdarabok, alkotóelemeik és lőszereik kiviteli engedélyezési, behozatali és tranzit szabályainak létrehozásáról szóló, 2012. március 14-ei 258/2012/EU európai parlamenti és tanácsi rendeletének való megfelelést szolgálja.
+(2) Ez a törvény a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+(3) Ez a törvény az Egyesült Nemzeteknek a nemzetközi szervezett bűnözés elleni egyezményét kiegészítő, a tűzfegyverek, részeik, alkotóelemeik és a lőszerek tiltott gyártásáról és kereskedelméről szóló jegyzőkönyve 10. cikkének végrehajtásáról, valamint a tűzfegyverek, tűzfegyverdarabok, alkotóelemeik és lőszereik kiviteli engedélyezési, behozatali és tranzit szabályainak létrehozásáról szóló, 2012. március 14-i 258/2012/EU európai parlamenti és tanácsi rendeletének a végrehajtásához szükséges rendelkezéseket állapít meg.
+
+(4) E törvény tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése és 39. cikk (5) bekezdése szerinti előzetes bejelentése megtörtént.
 
 ### Melléklet a 2005. évi CIX. törvényhez

@@ -39,7 +39,7 @@ terjed ki.
 
 (8) A politikai vezető állami vezetői szolgálati jogviszonyára a 26–50. §, 53. §, 55–73. §, 80–88. §, 98. §, 100. § (1) bekezdése, 101. §, 116–130. §, 133–142. §, 143. § (2) bekezdése, 150. §, 152. § (1) bekezdés a) és b) pontja, 154–159. §, 181–183. §, 190–191. §, 195–225. § kivételével e törvény kormányzati szolgálati jogviszonyra vonatkozó rendelkezéseit kell megfelelően alkalmazni. A politikai vezető, valamint a munkáltató az állami vezetői szolgálati jogviszonyból származó igényt a 238. § megfelelő alkalmazásával érvényesítheti.
 
-(9) Törvény eltérő rendelkezése hiányában a nemzeti köznevelésről szóló törvény szerinti oktatási központ mint az oktatásért felelős miniszter egyes köznevelési fenntartói feladatkörébe tartozó feladatainak ellátására kijelölt szerv, valamint a köznevelési közfeladat ellátásában fenntartóként részt vevő tankerületi központ kormánytisztviselőjének, kormányzati ügykezelőjének kormányzati szolgálati jogviszonyára is e törvény rendelkezéseit kell alkalmazni, azzal, hogy a tankerületi központban foglalkoztatott kormánytisztviselők esetében a 134. § (3) bekezdésében foglaltak az irányadóak, a tankerületi központ vezetőjének az illetményalap huszonhatszorosát meg nem haladó mértékű illetményét az állami intézményfenntartó központ vezetőjének javaslatára a kinevezési jogkör gyakorlója állapítja meg.
+(9) Törvény eltérő rendelkezése hiányában a nemzeti köznevelésről szóló törvény szerinti oktatási központ mint az oktatásért felelős miniszter egyes köznevelési fenntartói feladatkörébe tartozó feladatainak ellátására kijelölt szerv, valamint a köznevelési közfeladat ellátásában fenntartóként részt vevő tankerületi központ kormánytisztviselőjének, kormányzati ügykezelőjének kormányzati szolgálati jogviszonyára is e törvény rendelkezéseit kell alkalmazni, azzal, hogy a tankerületi központban foglalkoztatott kormánytisztviselők esetében a 134. § (3) bekezdésében foglaltak az irányadóak, a tankerületi központ vezetőjének az illetményalap huszonhatszorosát meg nem haladó mértékű illetményét az oktatási központ vezetőjének javaslatára a kinevezési jogkör gyakorlója állapítja meg.
 
 4. § E törvény hatálya nem terjed ki
 
@@ -70,7 +70,7 @@ terjed ki.
 - 14. kormányzati vagy közszolgálati ügykezelő: az, aki a közigazgatási szervnél közhatalmi, irányítási, ellenőrzési és felügyeleti tevékenység gyakorlásához kapcsolódó ügyviteli feladatot lát el, valamint a külképviseletekről és a tartós külszolgálatról szóló törvény szerinti adminisztratív és technikai személyzet tagja, kivéve, ha ezt a tevékenységet az 1. § c) pontja szerinti rendvédelmi feladatokat ellátó szervnél vagy a Honvédségnél közalkalmazotti jogviszonyban álló személy végzi;
 - 15.
 - 15a. kötelező orvosi vizsgálat: az az orvosi vizsgálat, amelyen a kormánytisztviselőnek jogszabály előírása alapján részt kell vennie, ideértve a várandós állapotra tekintettel előírt orvosi vizsgálatot is;
-- 16. közigazgatási gyakorlatnak kell tekinteni a közigazgatási szervnél, illetve annak jogelőd szervénél közszolgálati jogviszonyban, állami szolgálati jogviszonyban, államigazgatási munkaviszonyban töltött időt tekintet nélkül arra, hogy a jogviszony folyamatosan fennállt-e vagy sem; a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó szervnél szerzett gyakorlatot; továbbá a 247. § (1) bekezdés b) pontja vonatkozásában – jogi előadói vagy más jogi munkakörben megszerzett joggyakorlat kivételével – a jogi szakvizsga megtételéhez szükséges joggyakorlati időt is;
+- 16. közigazgatási gyakorlatnak kell tekinteni a közigazgatási szervnél, illetve annak jogelőd szervénél közszolgálati jogviszonyban, állami szolgálati jogviszonyban, államigazgatási munkaviszonyban töltött időt tekintet nélkül arra, hogy a jogviszony folyamatosan fennállt-e vagy sem; a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó szervnél szerzett gyakorlatot; továbbá a 247. § (1) bekezdés c) pontja vonatkozásában – jogi előadói vagy más jogi munkakörben megszerzett joggyakorlat kivételével – a jogi szakvizsga megtételéhez szükséges joggyakorlati időt is;
 - 17. közigazgatási szerv: az 1. §-ban és a 2. §-ban meghatározott szervek, valamint a fővárosi és megyei kormányhivatal;
 - 18. közigazgatási szervnél képviselettel rendelkező szakszervezet: az a szakszervezet, amelyik alapszabálya szerint a közigazgatási szervnél képviseletére jogosult szervet működtet, illetve tisztségviselővel rendelkezik;
 - 19. közszolgálati szabályzat:
@@ -3250,7 +3250,7 @@ munkanapra emelkedik.
 
 ### A közigazgatási államtitkár
 
-215. § (1) Közigazgatási államtitkárrá minden büntetlen előéletű, az országgyűlési képviselők választásán választható személy kinevezhető, aki egyetemi szintű végzettséggel és jogász, közgazdász vagy közigazgatási menedzser szakképzettséggel vagy felsőfokú végzettséggel és a feladat- és hatáskörének megfelelő szakirányú szakképzettséggel rendelkezik.
+215. § (1) Közigazgatási államtitkárrá minden büntetlen előéletű, az országgyűlési képviselők választásán választható személy kinevezhető, aki jogász mesterképzési szakon szerzett szakképzettséggel vagy közigazgatási mesterképzési szakon szerzett okleveles közigazgatási szakértő vagy okleveles közigazgatási menedzser szakképzettséggel vagy gazdaságtudományok képzési területen alap- vagy mesterképzésben szerzett közgazdász szakképzettséggel vagy felsőfokú végzettséggel és a feladat- és hatáskörének megfelelő szakirányú szakképzettséggel rendelkezik.
 
 (2) A közigazgatási államtitkárt a miniszterelnök javaslatára a köztársasági elnök határozatlan időre nevezi ki. A miniszterelnök kinevezésre vonatkozó javaslatát a miniszternek a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter útján tett kezdeményezése alapján teszi meg. A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter a kezdeményezésre észrevételt tehet.
 
@@ -3318,7 +3318,7 @@ munkanapra emelkedik.
 
 ### A helyettes államtitkár
 
-220. § (1) Helyettes államtitkárrá minden büntetlen előéletű, az országgyűlési képviselők választásán választható személy kinevezhető, aki egyetemi szintű végzettséggel és jogász vagy közgazdász, vagy közigazgatási menedzser szakképzettséggel, vagy felsőfokú végzettséggel és a feladat- és hatáskörének megfelelő szakirányú szakképzettséggel rendelkezik.
+220. § (1) Helyettes államtitkárrá minden büntetlen előéletű, az országgyűlési képviselők választásán választható személy kinevezhető, aki jogász mesterképzési szakon szerzett szakképzettséggel vagy közigazgatási mesterképzési szakon szerzett okleveles közigazgatási szakértő vagy okleveles közigazgatási menedzser szakképzettséggel vagy gazdaságtudományok képzési területen alap- vagy mesterképzésben szerzett közgazdász szakképzettséggel, vagy felsőfokú végzettséggel és a feladat- és hatáskörének megfelelő szakirányú szakképzettséggel rendelkezik.
 
 (2) A helyettes államtitkárt a miniszter javaslatára a miniszterelnök határozatlan időre nevezi ki.
 
@@ -3772,18 +3772,20 @@ munkanapra emelkedik.
 
 247. § (1) Jegyzővé, aljegyzővé (a továbbiakban együtt: jegyző) az nevezhető ki, aki
 
-- a) igazgatásszervezői vagy állam- és jogtudományi doktori képesítéssel vagy okleveles közigazgatási menedzser szakképesítéssel, és – a (4) bekezdésben meghatározott esetet kivéve – jogi vagy közigazgatási szakvizsgával, vagy a Közigazgatási Továbbképzési Kollégium által a teljeskörűen közigazgatási jellegűnek minősített tudományos fokozat alapján adott mentesítéssel rendelkezik, és
-- b) legalább kétévi közigazgatási gyakorlatot szerzett.
+- a) igazgatásszervező vagy közigazgatás-szervező alapképzési szakon, vagy jogász vagy államtudományi mesterképzési szakon szerzett szakképzettséggel vagy közigazgatási mesterképzési szakon szerzett okleveles közigazgatási szakértő vagy okleveles közigazgatási menedzser szakképzettséggel rendelkezik,
+- b) – a (4) bekezdésben meghatározott esetet kivéve – jogi vagy közigazgatási szakvizsgával, vagy a Közigazgatási Továbbképzési Kollégium által a teljeskörűen közigazgatási jellegűnek minősített tudományos fokozat alapján adott mentesítéssel rendelkezik, és
+- c) legalább kétévi közigazgatási gyakorlatot szerzett.
 
 (2) A községi önkormányzati képviselő-testület az ötezernél több lakosú község jegyzője kivételével
 
-- a) felmentést adhat az (1) bekezdés a) pontjában foglalt igazgatásszervezői vagy állam- és jogtudományi doktori képesítés vagy az okleveles közigazgatási menedzser szakképesítés alól annak a személynek, aki az előírt képesítés megszerzésére irányuló tanulmányait a kinevezéstől számított két éven belül befejezi. A felmentés időtartamának eredménytelen eltelte esetén a jegyző közszolgálati jogviszonya megszűnik. A képesítés alóli felmentés esetén a (4) bekezdésben meghatározott határidőt a képesítés megszerzésétől kell számítani,
-- b) az (1) bekezdés b) pontjában előírt gyakorlati időt csökkentheti vagy elengedheti.
+- a) felmentést adhat az (1) bekezdés a) pontjában foglalt szakképesítés alól annak a személynek, aki az előírt képesítés megszerzésére irányuló tanulmányait a kinevezéstől számított két éven belül befejezi. A felmentés időtartamának eredménytelen eltelte esetén a jegyző közszolgálati jogviszonya megszűnik. A képesítés alóli felmentés esetén a (4) bekezdésben meghatározott határidőt a képesítés megszerzésétől kell számítani,
+- b) az (1) bekezdés c) pontjában előírt gyakorlati időt csökkentheti vagy elengedheti.
 
-(3) Főjegyzővé – valamint a főjegyző helyettesítésére aljegyzőként – az nevezhető ki, aki
+(3) Főjegyzővé, valamint főjegyző helyettesítésére aljegyzővé az nevezhető ki, aki
 
-- a) állam- és jogtudományi doktori vagy okleveles közgazdász képesítéssel vagy okleveles közigazgatási menedzser szakképesítéssel és – a (4) bekezdésben meghatározott esetet kivéve – jogi vagy közigazgatási szakvizsgával, vagy a Közigazgatási Továbbképzési Kollégium által a teljeskörűen közigazgatási jellegűnek minősített tudományos fokozat alapján adott mentesítéssel rendelkezik, és
-- b) közigazgatási szervnél legalább kétévi közigazgatási gyakorlatot szerzett.
+- a) jogász vagy államtudományi mesterképzési szakon szerzett szakképzettséggel vagy közigazgatási mesterképzési szakon szerzett okleveles közigazgatási szakértő vagy okleveles közigazgatási menedzser szakképzettséggel vagy okleveles közgazdász szakképzettséggel,
+- b) – a (4) bekezdésben meghatározott esetet kivéve – jogi vagy közigazgatási szakvizsgával vagy a Közigazgatási Továbbképzési Kollégium által a teljeskörűen közigazgatási jellegűnek minősített tudományos fokozat alapján adott mentesítéssel rendelkezik, és
+- c) közigazgatási szervnél legalább kétévi közigazgatási gyakorlatot szerzett.
 
 (4) A polgármester közigazgatási szakvizsgával nem rendelkező pályázót is kinevezhet, feltéve, hogy a kinevezéstől számított egy éven belül a jogi vagy közigazgatási szakvizsgát, vagy a szakvizsga alól a Közigazgatási Továbbképzési Kollégium által a teljeskörűen közigazgatási jellegűnek minősített tudományos fokozat alapján adott mentesítést megszerzi. A határidő eredménytelen eltelte esetén a jegyző, főjegyző közszolgálati jogviszonya a törvény erejénél fogva szűnik meg. A határidőbe nem számíthatók be a 118. § (4) bekezdésében meghatározott időtartamok.
 

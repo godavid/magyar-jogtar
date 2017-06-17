@@ -573,7 +573,7 @@ időtartamával.
 
 - a) szolidaritási alaprészt az álláskeresési járadék, a nyugdíj előtti álláskeresési segély, az álláskeresési segély, a munkanélküli járadék, a nyugdíj előtti munkanélküli segély,, a költségtérítés (31. §), valamint ezek juttatásával kapcsolatos postaköltség finanszírozására;
 - b)
-- c) foglalkoztatási alaprészt, a foglalkoztatást elősegítő támogatások, a nem az állami foglalkoztatási szerv által nyújtott munkaerőpiaci szolgáltatások nyújtására, az állami foglalkoztatási szerv által pályaválasztás elősegítése érdekében szervezett munkaerőpiaci információkat nyújtó rendezvény kiadásaira, valamint keresetpótló juttatással kapcsolatos postaköltség finanszírozására;
+- c) foglalkoztatási alaprészt, a foglalkoztatást elősegítő támogatások, a nem az állami foglalkoztatási szerv által nyújtott munkaerőpiaci szolgáltatások nyújtására, az állami foglalkoztatási szerv által pályaválasztás elősegítése érdekében szervezett munkaerőpiaci információkat nyújtó rendezvény kiadásaira, az állami foglalkoztatási szerv által szervezett munkaerőpiaci információkat nyújtó állásbörze kiadásaira, valamint keresetpótló juttatással kapcsolatos postaköltség finanszírozására;
 - d) bérgarancia alaprészt, a Bérgarancia Alapról szóló 1994. évi LXVI. törvényben meghatározott támogatás, valamint annak folyósításával kapcsolatos postaköltség finanszírozására;
 - e) a képzési alaprészt, a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló törvényben, valamint a felnőttképzésről szóló törvényben meghatározott feladatok, támogatási programok finanszírozására;
 - f)–g)
