@@ -6,15 +6,17 @@ Az Országgyűlés annak érdekében, hogy a Közösség területére belépő, 
 
 1. § A Közösség területére belépő, illetve a Közösség területét elhagyó készpénz ellenőrzéséről szóló, 2005. október 26-i 1889/2005/EK európai parlamenti és tanácsi rendelet (a továbbiakban: Rendelet) végrehajtására a vámhatóság rendelkezik hatáskörrel.
 
+1/A. § Az e törvényben vagy a Rendeletben nem szabályozott eljárási kérdésekben a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben foglalt rendelkezéseket kell alkalmazni.
+
 2. § (1) A Rendelet 3. cikkében meghatározott nyilatkozattételi kötelezettséget írásban kell teljesíteni.
 
-(2) A Rendelet 3. cikk (2) bekezdésének b) pontja alapján a készpénz tulajdonosának teljes nevét és címét, c) pontja alapján a készpénz tervezett címzettjének teljes nevét és címét, valamint g) pontja alapján az alkalmazott szállítóeszköz fajtáját, gépjármű esetén rendszámát kell megadni.
+(2) A Rendelet 3. cikk (2) bekezdés b) pontja alapján a készpénz tulajdonosának teljes nevét és címét, c) pontja alapján a készpénz tervezett címzettjének teljes nevét és címét, e) pontja alapján a készpénz tervezett felhasználásának részletes leírását, valamint g) pontja alapján az alkalmazott szállítóeszköz fajtáját, gépjármű esetén a rendszámát kell megadni.
 
 (3) A Rendelet 3. cikk (1) bekezdése által meghatározott készpénz euróra való átváltásakor a határátlépés napján a Magyar Nemzeti Bank (a továbbiakban: MNB) által közzétett hivatalos árfolyamot, az MNB hivatalos árfolyamlapján nem szereplő külföldi pénznemek esetében az ezek euróra átszámított árfolyamairól szóló, az átlépés napján érvényes MNB közleményben foglalt árfolyamot kell alkalmazni.
 
-3. § A vámhatóság a készpénzforgalom ellenőrzése érdekében, a Rendelet 3. cikkében meghatározott nyilatkozattételi kötelezettség teljesítésének ellenőrzése céljából vámigazgatási jogkörben jogosult a természetes személyek, poggyászuk és szállítóeszközük ellenőrzésére.
+3. § A vámhatóság a készpénzforgalom ellenőrzése érdekében, a Rendelet 3. cikkében meghatározott nyilatkozattételi kötelezettség teljesítésének ellenőrzése céljából vámellenőrzés keretében jogosult a természetes személyek, poggyászuk és szállítóeszközük ellenőrzésére.
 
-3/A. § A Rendelet 3. cikk (2) bekezdése szerinti nyilatkozattételi kötelezettség elmulasztása esetén a vámhatóság a készpénzt határozattal foglalja le.
+3/A. §
 
 4. § (1) A Rendelet 5. cikk (1) bekezdése alapján a vámhatóság nyilvántartásba veszi és 2 évig, a (2)–(4) bekezdés szerinti tájékoztatás és adattovábbítás esetén – kizárólag a tájékoztatás, adattovábbítás jogszerűségének megállapítása céljából – a tájékoztatástól, illetve az adattovábbítástól számított további 5 évig kezeli a Rendelet 3. cikke szerint közölt és a 3. § alapján végzett ellenőrzés során szerzett adatokat.
 
@@ -22,7 +24,7 @@ Az Országgyűlés annak érdekében, hogy a Közösség területére belépő, 
 
 (2a) A pénzügyi információs egységként működő hatóság törvényben meghatározott feladatainak teljesítése érdekében a vámhatóság által nyilvántartásba vett adatot – ha a technikai feltételek mindkét félnél adottak – közvetlen elektronikus adatkapcsolat útján is beszerezheti.
 
-(3) Amennyiben a Rendelet 3. cikke szerint közölt vagy a 3. § alapján végzett ellenőrzés során szerzett adat pénzmosásra vagy terrorizmus finanszírozására utal, a vámhatóság köteles azt haladéktalanul a pénzügyi információs egységként működő hatóságnak továbbítani és a hatóság visszajelzéséig az adat alapjául szolgáló készpénz teljes összegét visszatartani.
+(3) Ha a Rendelet 3. cikke szerint közölt vagy a 3. § alapján végzett ellenőrzés során szerzett adat pénzmosásra, terrorizmus finanszírozására, vagy a készpénz büntetendő cselekményből való származására utal, továbbá a készpénz származásának vizsgálata érdekében, a vámhatóság jogosult azt haladéktalanul a pénzügyi információs egységként működő hatóságnak továbbítani és a készpénz 80%-át 30 napig visszatartani.
 
 (4) A Rendelet 5. cikk (2) bekezdésének végrehajtása esetén a vámhatóság a Rendelet 5. cikk (2) bekezdésében meghatározott adatokat nyilvántartásba veszi, a nyilvántartásba vételtől számított 2 évig kezeli, és a (3) bekezdés szerint továbbítja.
 
@@ -67,4 +69,4 @@ megfelelő, forintban meghatározott összegű bírságot kell a helyszínen fiz
 
 (4) Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-7. § Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben szabályozza az Európai Unió területére belépő vagy azt elhagyó készpénz ellenőrzésének végrehajtását, annak részletes szabályait, a lefoglalt, visszatartott, és ideiglenes biztosítási intézkedésként visszatartott készpénz kezelésére, letétbe helyezésére és őrzésére vonatkozó részletes szabályokat, a bírság kiszabására vonatkozó részletes eljárási szabályokat, valamint a kiszabott bírság bevételezésének rendjét.
+7. § Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben szabályozza az Európai Unió területére belépő vagy azt elhagyó készpénz ellenőrzésének végrehajtását, annak részletes szabályait, valamint a kiszabott bírság bevételezésének rendjét.

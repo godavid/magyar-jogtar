@@ -202,7 +202,7 @@ mutatott ki.
 
 (5) A számvitelről szóló törvény hatálya alá tartozó adóalany esetében az eva alapjának megállapításakor az összes bevételt csökkenti az az adóévi bevétel, amelyet a számvitelről szóló törvény rendelkezései szerint az egyszeres könyvvitelről a kettős könyvvitelre való áttérés miatt nyitást követő korrekciós tételként számolt el.
 
-(6) Ha az adóalany – az (1)–(5) bekezdésben foglaltakon túlmenően – az adóévben olyan bevételt szerzett (mutatott ki), amelynek alapján személyi jövedelemadó, társasági adó vagy általános forgalmi adó megállapítására (volt) kötelezett, az eva alapját csökkentheti a bevétel azon részével, amelyre az említett adót megállapította.
+(6) Ha az adóalany – az (1)–(5) bekezdésben foglaltakon túlmenően – az adóévben olyan bevételt szerzett (mutatott ki), amelynek alapján személyi jövedelemadó, társasági adó, kisadózó vállalkozások tételes adója vagy általános forgalmi adó megállapítására (volt) kötelezett, az eva alapját csökkentheti a bevétel azon részével, amelyre az említett adót megállapította.
 
 (7) A számvitelről szóló törvény hatálya alá nem tartozó adóalany esetében az eva alapjának megállapításakor az összes bevételt növeli az az összeg, amelyet az adóalany az általa kibocsátott bizonylat alapján az adóalanyisága megszűnése napjáig még nem szerzett meg, illetve az a 7. § (7) bekezdése alapján sem minősült eddig bevételnek.
 
@@ -355,7 +355,7 @@ mutatott ki.
 (2) Az (1) bekezdés szerinti összeg a beszámoló
 
 - a) mérlegében kimutatott eredménytartalék, saját elhatározásból lekötött tartalék, adózott eredmény és – a jóváhagyott osztalék, részesedés alapján a taggal szemben fennálló – kötelezettség együttes összegéből az a rész, amely meghaladja a mérlegben kimutatott, nem vagyoni betétként megszerzett immateriális javak és tárgyi eszközök (ide nem értve az immateriális javak és a tárgyi eszközök értékhelyesbítését) együttes könyv szerinti értékét;
-- b) egyszerűsített mérlegében kimutatott eredménytartalék, saját elhatározásból lekötött tartalék, adózott eredmény, tartalék és – a jóváhagyott osztalék, részesedés alapján tagjával szemben fennálló – kötelezettség együttes összegéből az a rész, amely meghaladja az egyszerűsített mérlegben kimutatott, nem vagyoni betétként megszerzett immateriális javak és tárgyi eszközök együttes könyv szerinti értékét.
+- b) egyszerűsített mérlegében kimutatott eredménytartalék, saját elhatározásból lekötött tartalék, adózott eredmény, tartalék és – a jóváhagyott osztalék, részesedés alapján tagjával szemben fennálló – kötelezettség együttes összegéből az a rész, amely meghaladja az egyszerűsített mérlegben kimutatott, nem vagyoni betétként megszerzett immateriális javak és tárgyi eszközök együttes könyv szerinti értékét; csökkentve a mérlegben kimutatott osztalékelőleg követelés könyv szerinti értékével, feltéve, hogy az előleget a beszámoló elfogadásakor osztalékként jóváhagyták.
 
 (3) A (2) bekezdés szerinti összeg után a közkereseti társaság, a betéti társaság és a egyéni cég adót (a továbbiakban: az osztalék utáni adót kiváltó adó) fizet. Az osztalék utáni adót kiváltó adó a (2) bekezdés szerinti összeg 15 százaléka, amelyet az adózó az üzleti évre vonatkozó társaságiadó-bevallásában vagy kisvállalatiadó-bevallásában elkülönítetten vall be. A bevallott összeget három egyenlő részletben, az üzleti évre és az üzleti évet követő két adóévre – de legkésőbb az e törvény szerinti adóalanyiságának utolsó adóévére – vonatkozó társaságiadó-bevallás, kisvállalatiadó-bevallás illetve eva-bevallás benyújtásával egyidejűleg fizet meg.
 
@@ -482,6 +482,8 @@ mutatott ki.
 (4) E törvénynek az adó- és járuléktörvények, a számviteli törvény és a könyvvizsgálói kamarai törvény, valamint az európai közösségi jogharmonizációs kötelezettségek teljesítését célzó adó- és vámjogi tárgyú törvények módosításáról szóló 2010. évi CXXIII. törvénnyel beiktatott, 2011. január 1-jétől hatályos rendelkezéseit első ízben a 2011. adóévi adókötelezettségre kell alkalmazni.
 
 (5) A jogszabályi kötelezettség alapján tárgyévben visszafizetett támogatás összege az egyszerűsített vállalkozói adó alapját csökkenti, ha az a támogatás folyósításakor az egyszerűsített vállalkozó adó alapját képezte.
+
+(6) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2017. évi LXXVII. törvénnyel megállapított 18. § (2) bekezdését a 2017-ben kezdődő adóévben is alkalmazni kell.
 
 24–29. §
 

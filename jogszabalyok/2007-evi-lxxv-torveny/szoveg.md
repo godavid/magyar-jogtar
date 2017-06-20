@@ -227,7 +227,7 @@ A piacgazdaság működéséhez szükséges, hogy a gazdálkodók a vagyoni, pé
 - c) aki az okleveles könyvvizsgálói szakképesítéshez kötött tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll,
 - d) aki cselekvőképességében részlegesen korlátozott vagy cselekvőképtelen,
 - e) akit a kamarából fegyelmi eljárás keretében kizártak, az erről szóló határozat jogerőre emelkedésétől számított három évig,
-- f) akit minőségellenőrzési eljárás vagy kamarai minőségellenőrzési eljárás során a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység gyakorlásától meghatározott ideig eltiltottak, az erről szóló határozat jogerőre emelkedésétől a határozatban szereplő időtartamig,
+- f) akit a közfelügyeleti hatóság vagy a kamara minőségellenőrzési bizottsága a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység gyakorlásától meghatározott ideig eltiltott, az erről szóló határozat jogerőre emelkedésétől a határozatban szereplő időtartamig,
 - g) aki az életmódja vagy magatartása miatt a könyvvizsgálói hivatás gyakorlásához szükséges közbizalomra érdemtelen,
 - h) aki a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység gyakorlásától történő eltiltás hatálya alatt áll.
 
@@ -271,6 +271,8 @@ feltéve, hogy a jogszabályi kötelezettségen alapuló könyvvizsgálói tevé
 - f) a kamara alapszabályában és a kamara önkormányzati szabályzataiban foglaltakat magára kötelezőnek ismeri el,
 - g) vállalja a kamarai tagdíj megfizetését,
 - h) az előírt igazgatási szolgáltatási díjat megfizette.
+
+(1a) Egyéni vállalkozóként jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet folytató kamarai tag könyvvizsgálónál az egyéni vállalkozói jogviszony nem minősül az (1) bekezdés d) pontja szerinti jogviszonynak.
 
 (2) Az (1) bekezdés c) és d) pontja szerinti feltétel teljesítésétől – indokolt esetben – el lehet tekinteni a természetes személynél, ha munkáltatója (foglalkoztatója) írásban nyilatkozik arról, hogy a kérelmező a kamarai tag könyvvizsgálói minőségéből adódó feladatait megfelelően el tudja látni, valamint, hogy az (1) bekezdés c) és d) pontja szerinti jogviszonyból adódó jogok és kötelezettségek érvényesítésével nem akadályozza a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység megfelelő ellátását.
 
@@ -497,7 +499,7 @@ Isten engem úgy segéljen!”
 36. § Nem adható jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére engedély annak a gazdálkodó szervezetnek (szervezetnek),
 
 - a) amelynek létesítő okiratában a tevékenységi körök között a könyvvizsgálói tevékenységgel összeegyeztethetetlen tevékenység szerepel,
-- b) amelynek engedélyét visszavonták, az erről szóló határozat jogerőre emelkedésétől számított három évig,
+- b) amelynek engedélyét visszavonták az erről szóló határozat jogerőre emelkedésétől a határozatban szereplő időtartamig,
 - c) amelynek engedélye – saját kérésére – megszűnt, az erről szóló határozat jogerőre emelkedésétől számított egy évig,
 - d) amelyre vonatkozóan felszámolási eljárás vagy végelszámolási eljárás van folyamatban,
 - e) amely a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység gyakorlásától történő eltiltás hatálya alatt áll.
@@ -544,7 +546,7 @@ Isten engem úgy segéljen!”
 - b) a könyvvizsgáló cég fegyelmi eljárás keretében nyilvántartásból való törlésével,
 - c) ha a könyvvizsgáló cég a 35. §-ban foglalt feltételeknek a továbbiakban már nem felel meg,
 - d) a könyvvizsgáló cég megszűnésével,
-- e) minőségellenőrzési eljárás vagy kamarai minőségellenőrzési eljárás során hozott jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység gyakorlásától történő eltiltásról szóló jogerős határozat alapján.
+- e) a közfelügyeleti hatóság vagy a kamara minőségellenőrzési bizottsága által hozott jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység gyakorlásától történő eltiltásról szóló jogerős határozat alapján.
 
 (2) Az engedély visszavonásáról szóló, (1) bekezdés szerinti jogerős döntéséről a közfelügyeleti hatóság haladéktalanul tájékoztatja a kamara felvételi bizottságát.
 
@@ -652,9 +654,9 @@ Isten engem úgy segéljen!”
 
 (2) Kérelem alapján minősítést a kamarai tag könyvvizsgáló akkor kaphat, ha igazolja, hogy a minősítés megadása iránti kérelem benyújtását megelőző 5 éven belül
 
-- a) legalább három éven át a minősítésnek megfelelő tevékenységet végző (IFRS-minősítés esetén a beszámolóját a nemzetközi számviteli standardok szerint összeállító) gazdálkodóra vonatkozóan számviteli, ellenőrzési tevékenységet végzett (ideértve az ehhez kapcsolódó szabályozási és felügyeleti feladatokat is) és legalább két éves gyakorlata van a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásában, vagy
-- b) legalább három éven át jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végzett és adott minősítésű kamarai tag könyvvizsgáló mellett legalább két évig közreműködött olyan gazdálkodó tekintetében a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásában, amelyre vonatkozóan jogszabály az adott minősítés meglétét előírja, vagy
-- c) legalább három éven át jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végzett – vagy IFRS minősítés esetén legalább három éven át közreműködött kamarai tag könyvvizsgáló mellett jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásában – és sikeresen teljesítette az adott minősítésre előírt szakmai minősítő vizsgát.
+- a) legalább három éven vagy három üzleti éven át a minősítésnek megfelelő tevékenységet végző (IFRS-minősítés esetén a beszámolóját a nemzetközi számviteli standardok szerint összeállító) gazdálkodóra vonatkozóan számviteli, ellenőrzési tevékenységet végzett (ideértve az ehhez kapcsolódó szabályozási és felügyeleti feladatokat is) és legalább kétéves vagy két üzleti évre kiterjedő gyakorlata van a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásában, vagy
+- b) legalább három éven vagy három üzleti éven át jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végzett és a kérelmezett minősítéssel egyező minősítéssel rendelkező minősítésű kamarai tag könyvvizsgáló mellett legalább két évig vagy két üzleti éven át közreműködött olyan gazdálkodó tekintetében a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásában, amelyre vonatkozóan jogszabály a kérelmezett minősítés meglétét előírja, vagy
+- c) legalább három éven vagy három üzleti éven át jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végzett – vagy IFRS minősítés esetén legalább három éven vagy három üzleti éven át közreműködött kamarai tag könyvvizsgáló mellett jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásában – és sikeresen teljesítette a kérelmezett minősítésre előírt szakmai minősítő vizsgát.
 
 (3) Kérelem alapján minősítést a könyvvizsgáló cég akkor kaphat, ha megfelel az alábbi feltételeknek:
 
@@ -687,7 +689,7 @@ Isten engem úgy segéljen!”
 - c) minőségellenőrzés során hozott jogerős határozatban a minősítést megvonták,
 - d) kamarai minőség-ellenőrzés során hozott jogerős határozatban a minősítés megvonását kezdeményezték,
 - e) fegyelmi eljárás során keretében a minősítés megvonását kezdeményezték,
-- f) a Magyar Nemzeti Bank a tőkepiacról szóló törvény, a biztosítási tevékenységről szóló törvény illetve a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény alapján a minősítés visszavonását kezdeményezte.
+- f) a Magyar Nemzeti Bank a tőkepiacról szóló törvény, a biztosítási tevékenységről szóló törvény a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény, a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvény, illetve a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló törvény alapján a minősítés visszavonását kezdeményezte.
 
 (2) A minősítés visszavonása tekintetében a közfelügyeleti hatóság jár el. Az eljárás megindítását – az ok megjelölésével – az érintett állami szerv is kérheti.
 
@@ -1338,9 +1340,9 @@ szerezte.
 - a) elfogadja a kamara alapszabályát,
 - b) titkos szavazással megválasztja, illetve visszahívja a 119. § a)–c) pontjában meghatározott kamarai tisztségviselőket, a 113. § (1) bekezdésében meghatározott bizottságok tagjait, valamint az elnökség 115. § (4) bekezdése szerinti választott tagjait,
 - c) beszámoltatja az elnökséget és a 113. § (1) bekezdésében meghatározott bizottságok elnökeit,
-- d) elfogadja a kamara – egyes területi szervezetek pénzügyi tervét önállóan is tartalmazó – éves pénzügyi tervét és az – egyes területi szervezetek pénzügyi beszámolóját önállóan is tartalmazó – éves pénzügyi beszámolót (annak részeként a számviteli jogszabályok szerinti beszámolót),
+- d) elfogadja a kamara – egyes területi szervezetek pénzügyi tervét, valamint a főtitkár javadalmazását önállóan is tartalmazó – éves pénzügyi tervét és az – egyes területi szervezetek pénzügyi beszámolóját önállóan is tartalmazó – éves pénzügyi beszámolót (annak részeként a számviteli jogszabályok szerinti beszámolót),
 - e) kamarai szabályzatokat alkot,
-- f) meghatározza személyenként külön-külön az elnök, az alelnökök, az elnökség további tagjai, a területi szervezetek elnökei, a fegyelmi megbízott és a kamara alapszabálya szerint díjazásban részesíthető bizottsági elnökök és tagok díjazását, továbbá a főtitkár és a főtitkári hivatal főkönyvelőjének javadalmazását,
+- f) meghatározza személyenként külön-külön az elnök, az alelnökök, az elnökség további tagjai, a területi szervezetek elnökei, a fegyelmi megbízott és a kamara alapszabálya szerint díjazásban részesíthető bizottsági elnökök és tagok díjazását
 - g) megállapítja a tagdíjak és a hozzájárulási díjak összegét,
 - h) megállapítja a kötelező könyvvizsgálói felelősségbiztosításra vonatkozó szabályokat,
 - i) ellátja az e törvényben, a kamara alapszabályában és egyéb szabályzataiban hatáskörébe utalt egyéb feladatokat.
@@ -2458,6 +2460,14 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 
 (4) A Mód2 törvény 52. §-ával hatályon kívül helyezett 173/C. § (7) bekezdés c) pontját, 173/C. § (8) bekezdését a Mód2 törvény hatálybalépését követően induló eljárásokra nem kell alkalmazni.
 
+208/L. § (1) E törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2017. évi LXXVII. törvénnyel módosított, 50. § (2) bekezdését és 1. mellékletét a hatálybalépést követően indult eljárásokra kell alkalmazni.
+
+(2) E törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2017. évi LXXVII. törvénnyel módosított 173/A. § (2) és (6) bekezdését a 2017. június 26-át követően indult eljárásokra kell először alkalmazni.
+
+(3) E törvénynek az egyes adótörvények és már kapcsolódó törvények módosításáról szóló 2017. évi LXXVII. törvénnyel hatályon kívül helyezett 173/A. § (5), és (9) bekezdését a 2017. június 26-át megelőzően indult eljárásokra még alkalmazni kell.
+
+(4) A Mód2 törvény hatálybalépésekor érvényben lévő 35. § szerinti kamara által kiállított engedélyek ugyanazon joghatás kiváltására alkalmasak, mint a Mód2 törvény hatálybalépését követően a 35. § szerinti közfelügyeleti hatóság által kiállított engedélyek.
+
 ### Az Európai Unió jogának való megfelelés
 
 209. § (1) E törvény
@@ -2679,7 +2689,7 @@ Nyilatkozom, hogy a kérelem benyújtásával egyidejűleg az igazgatási szolg�
 
 10. Mellékletek
 
-I. Az 50. § (2) bekezdés a) pontra alapozott kérelem esetén az alábbiaknak megfelelő igazolás benyújtása szükséges:
+I. Az 50. § (2) bekezdés a) pontjára alapozott kérelem esetén az alábbiaknak megfelelő igazolás benyújtása szükséges:
 
 1. az igazolás tartalmazza az igazolást kibocsátó gazdálkodó cégnyilvántartás szerinti azonosító adatait, továbbá a kamarai tag könyvvizsgáló (a kérelmező) kamarai nyilvántartással megegyező azonosító adatait,
 
@@ -2689,17 +2699,27 @@ I. Az 50. § (2) bekezdés a) pontra alapozott kérelem esetén az alábbiaknak 
 
 4. azt a minősítésnek megfelelő tevékenységet végző gazdálkodó részéről a munkáltatói jogok gyakorlására jogosult személy írta alá.
 
-Az 50. § (2) bekezdés b) pontra alapozott kérelem esetén alábbiaknak megfelelő igazolás benyújtása szükséges:
+Az 50. § (2) bekezdés b) pontjára alapozott kérelem esetén alábbiaknak megfelelő igazolás benyújtása szükséges:
 
 1. az igazolás tartalmazza a kérelmezőnek, valamint annak az adott minősítésű kamarai tag könyvvizsgálónak a kamarai nyilvántartással megegyező azonosító adatait, akinél a kérelmező megfelelően közreműködött,
 
 2. az igazolás tartalmazza azoknak a gazdálkodóknak a cégnyilvántartás szerinti azonosító adatait, amelyekre vonatkozóan jogszabály az adott minősítés meglétét előírja, s amelyek tekintetében a kérelmező a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásában közreműködött,
 
-3. az igazolásból kétséget kizáróan megállapítható, hogy a kérelmező eleget tett a minősítés feltételéül a Kkt-ben meghatározott követelményeknek,
+3. az igazolásból kétséget kizáróan megállapítható, hogy a kérelmező eleget tett a minősítés feltételéül a Kkt.-ben meghatározott követelményeknek,
 
 4. az igazolást kibocsátó, adott minősítésű kamarai tag könyvvizsgáló írta alá.
 
-Az 50. § (2) bekezdés c) pontra alapozott kérelem esetén a kamara oktatási bizottsága által kiállított, a szakmai minősítő vizsga követelményeinek való megfelelésre vonatkozó igazolás.
+Az 50. § (2) bekezdés c) pontjára alapozott kérelem esetén a kamara oktatási bizottsága által kiállított, a szakmai minősítő vizsga követelményeinek való megfelelésre vonatkozó igazolás.
+
+Az 50. § (2) bekezdés c) pontjára alapozott IFRS minősítés esetén, amennyiben a kérelmező a minősítés megszerzését közreműködésre hivatkozva kérelmezi, a kamara oktatási bizottsága által kiállított, a szakmai minősítő vizsga követelményeinek való megfelelésre vonatkozó igazolás, valamint az alábbiaknak megfelelő igazolás benyújtása szükséges:
+
+1. az igazolás tartalmazza a kérelmezőnek, valamint annak a kamarai tag könyvvizsgálónak a kamarai nyilvántartással megegyező azonosító adatait, akinél a kérelmező megfelelően közreműködött,
+
+2. az igazolás tartalmazza azoknak a gazdálkodóknak a cégnyilvántartás szerinti azonosító adatait, amelyek tekintetében a kérelmező a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásában közreműködött,
+
+3. az igazolásból kétséget kizáróan megállapítható, hogy a kérelmező eleget tett a minősítés feltételéül a Kkt.-ben meghatározott követelményeknek,
+
+4. az igazolást kibocsátó kamarai tag könyvvizsgáló írta alá.
 
 II. A pénz-, tőke- és biztosításpiaci szervezeteket, pénztárakat érintően a pénzügyi közvetítő rendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank felügyelete alá tartozó gazdálkodóknál külön jogszabályban meghatározott könyvvizsgálói minősítések esetén a kamara oktatási bizottsága által kiállított, a szakmai minősítő vizsga követelményeinek való megfelelésre vonatkozó igazolás szükséges.
 

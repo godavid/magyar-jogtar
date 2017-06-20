@@ -490,7 +490,7 @@ lép.
 
 #### 28. Hatályba léptető rendelkezések
 
-262. § (1) Ez a törvény – a (2)–(9) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+262. § (1) Ez a törvény – a (2)–(6) és (8)–(10) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
 
 (2) Az 1. § (2) és (3) bekezdés, 17. §, 20. §, 22. §, 26. § 29–30. pontja, 90. §, 91. § (3) bekezdés, 93. § (2) bekezdés 4. pont, 96. § (2) bekezdés, 97. §, 100. §, 153. §, 155. §, 165–166. §, 168–169. §, 171–185. §, 188–191. §, 193. § (2) bekezdés, 194. §, 195. §, 197. § 198. §, 200. § 21–22., 25–29., 31. pont, 201. § (2) bekezdés, 203. §, 234. §–260. § és a 17–21. melléklet 2016. július 1-jén lép hatályba.
 
@@ -502,11 +502,13 @@ lép.
 
 (6) A 3. §, 4. §, 5. §, 7. §, 9. §, 10. §, 12. §, 14. §, 16. §, 19. §, 26. § 1–7. pont, 26. § 9–10. pont, 26. § 15–19. pont, 26. § 25. pont, 26. § 27. pont, 27. § (1) bekezdés 1., 4. és 5. pont, 27. § (2) bekezdés 3. pont, 28. § (3), (4) és (6) bekezdés, 29. §–34. §, 36. §, 39. § (3)–(5) bekezdés, 40. §, 41. § (3), (6)–(9), (12) bekezdés, 42. § (2) bekezdés, 44. §, 46. §, 47. §, 51. §, 54. § (3) bekezdés, 55. §, 57. §, 58. § 1. pont, 4. pont, 59. §–62. §, 66. §, 70. §–73. §, 75. § a) pontja és c)–e) pontja, 76. § 2. pontja, 84. §–89. §, 91. § (1) és (2) bekezdés, 92. §, 93. § (1) bekezdés, 93. § (2) bekezdés 1–3. és 5. pontjai, 94. §–95. §, 98. §–99. §, 101. §, 103. § (2), (3), (4), (5) bekezdés, 105. §–108. §, 114. § 1. pont, 117. §–122. §, 125. §, 133. §, 134. §, 136. § b) pont, 137. § 1. pont, 146. §, 150. §, 154. §, 156. § (2) bekezdés, 200. § 24. pont, valamint az 1. melléklet 1. pont, 5. pont, 6. pont, 7. pont, 10. pont, 2. melléklet, 3. melléklet 2. pont, 4–6. és 8–10. melléklet 2017. január 1-jén lép hatályba.
 
-(7) A 161. § és 200. § 15–16. pontja 2017. július 1-jén lép hatályba.
+(7)
 
 (8) A 74. § (1) bekezdés, 75. § b) pontja, 77. § a) pontja, 200. § 1. pontja, 261. § és a 7. melléklet 2018. január 1-jén lép hatályba.
 
 (9) A 74. § (2) bekezdés és a 77. § b) pontja hatálybalépésének napja az adópolitikáért felelős miniszter által a Magyar Közlönyben közzétett azon egyedi határozat kihirdetését követő 31. nap, amely megállapítja Magyarország és a Norvég Királyság közötti viszonosság megszűnésének időpontját.”
+
+(10) A 161. § és a 200. § 15–16. pontja 2018. július 1-jén lép hatályba.
 
 #### 29. Az Európai Unió jogának való megfelelés
 

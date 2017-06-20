@@ -77,7 +77,27 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
 
 (13) Az a hitelintézet, amely a Hpt. 6. § (1) bekezdés 89. pontja szerinti pénzügyi lízing tevékenység adókötelezettsége vonatkozásában a (12) bekezdés szerint állapítja meg adókötelezettségét, a (4) bekezdés 1. pontja szerinti adókötelezettsége megállapításánál a pénzügyi lízing tevékenységet nem veszi figyelembe.
 
-(14)–(20)
+(14) Az adózó az (1)–(13) és a (38)–(39) bekezdés alapján megállapított fizetendő különadó összegét választása szerint – adóvisszatartás formájában – csökkentheti az általa a (16) bekezdésben meghatározott kedvezményezett célra nyújtott támogatás összegével, ha a támogatás alapján jogosult lenne a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao. törvény) szerinti adókedvezményre, azonban az adócsökkentés alapjául szolgáló támogatási összeget a társasági adó terhére adókedvezményként még nem vette igénybe. A kiegészítő sportfejlesztési támogatás címén megfizetett összeget az adózó adócsökkentésként nem érvényesítheti.
+
+(15) A (14) bekezdés szerint igénybe vett adócsökkentés összege nem haladhatja meg az (1)–(13) és a (38)–(39) bekezdés alapján megállapított fizetendő különadó 50 százalékát.
+
+(16) A (14) bekezdés alkalmazásában kedvezményezett célnak minősül a látvány-csapatsport Tao. törvény
+
+- a) 22/C. § (1) bekezdés a) pontjában meghatározott valamennyi jogcím támogatása azzal, hogy a Tao. törvény 22/C. § (1) bekezdés a) pont ac) alpontjában meghatározott támogatások esetében a korlátozott mértékű gazdasági célú létesítmények,
+- b) 22/C. § (1) bekezdés b) pontjában meghatározott valamennyi jogcím támogatása azzal, hogy e támogatások esetében kizárólag a hivatásos sportolót nem foglalkoztató amatőr sportszervezetek, valamint a Tao. törvény 22/C. § (1) bekezdés b) pont bd) alpontjában meghatározott támogatások esetében a korlátozott mértékű gazdasági célú létesítmények,
+- c) 22/C. § (1) bekezdés c) pont ca), cc), cd) alpontjában meghatározott jogcímek támogatása, és a Tao. törvény 22/C. § (1) bekezdés c) pont cb) alpontjában meghatározott jogcím támogatása azzal, hogy a hivatásos sportszervezetek sportinfrastruktúrához kapcsolódó támogatása esetében a korlátozott mértékű gazdasági célú létesítmények,
+- d) 22/C. § (1) bekezdés d) pontjában meghatározott valamennyi jogcím támogatása azzal, hogy e támogatások esetében kizárólag a hivatásos sportolót nem foglalkoztató közhasznú alapítvány, valamint a Tao. törvény 22/C. § (1) bekezdés d) pont dc) alpontjában meghatározott támogatások esetében a korlátozott mértékű gazdasági célú létesítmények,
+- e) 22/C. § (1) bekezdés e) pontjában meghatározott valamennyi jogcím
+
+támogatása.
+
+(17) Amennyiben az adózó a kedvezményezett célra nyújtott támogatás összegére tekintettel a (14) bekezdés szerinti adócsökkentést érvényesíti, akkor a továbbiakban az adócsökkentésként figyelembe vett támogatás összegére a társasági adó terhére adókedvezményt nem vehet igénybe.
+
+(18) A (14) bekezdés szerinti adócsökkentés érvényesítésének – a Tao. törvény rendelkezéseitől eltérően – nem feltétele a kiegészítő sportfejlesztési támogatás megfizetése. Az adócsökkentés érvényesítése esetén az alapjául szolgáló támogatási összeghez kapcsolódóan valamely korábbi üzleti évben megfizetett kiegészítő sportfejlesztési támogatás ráfordításként elszámolt összege az érintett üzleti év társaságiadó-alapjának megállapításakor a vállalkozási tevékenység érdekében felmerült ráfordításnak minősül.
+
+(19) Ha az adózó az adócsökkentés érvényesítését megelőző valamelyik üzleti év adózás előtti eredményének terhére számolta el ráfordításként az adócsökkentés alapjául szolgáló támogatási összeget, akkor – a társasági adóban már keletkezett adóelőny utólagos megfizetése céljából – a támogatás nyújtása és az adócsökkentés elszámolása üzleti éveire vonatkozó társasági adó adóalapjának megállapításakor úgy kell eljárnia (az adózás előtti eredmény módosítása révén), mintha a támogatást az adócsökkentés üzleti évében számolta volna el ráfordításként. Ilyen esetben az adózó az adócsökkentés érvényesítését tartalmazó adóbevallás benyújtását követő 30 napon belül köteles az érintett üzleti évre (adóévre) vonatkozó társaságiadó-bevallását – a (18) bekezdésben foglaltakat is figyelembe véve – módosítani. A módosítás során az adózó egyebekben az önellenőrzésre irányadó rendelkezéseket alkalmazza azzal az eltéréssel, hogy az önellenőrzési pótlékot a késedelmi pótléknak megfelelő mértékkel állapítja meg.
+
+(20)
 
 (21)–(29)
 
@@ -158,7 +178,7 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
 
 7. § E törvény alkalmazásában
 
-- 1.
+- 1. korlátozott mértékű gazdasági célú létesítmény: olyan létesítmény, amely esetén a gazdasági tevékenységre allokált éves kapacitás nem haladja meg a létesítmény tényleges teljes éves kapacitásának húsz százalékát;
 - 2.
 - 3. pénzügyi szervezet: a hitelintézet és az egyéb pénzügyi szervezet, ideértve a fióktelep formában működő pénzügyi szervezeteket is;
 - 4. hitelintézet: a Hpt. szerinti hitelintézet;
@@ -196,7 +216,7 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
   - d) az árutőzsdei szolgáltatást nem kizárólagosan végző árutőzsdei szolgáltatónál az e tevékenységekből származó nettó árbevétel;
 - 20. nettó eszközérték: a befektetési alap portfóliójában szereplő eszközök – ideértve a kölcsönbe adásból származó követeléseket is – értéke, csökkentve a portfóliót terhelő összes kötelezettséggel, beleértve a passzív időbeli elhatárolásokat is;
 - 21. belföldi bankközi hitel: a más belföldi hitelintézetnek nyújtott hitel, alárendelt kölcsöntőke és kiegészítő alárendelt kölcsöntőke, a más belföldi hitelintézetnél elhelyezett betét, valamint a más belföldi hitelintézettel szemben valódi penziós, óvadéki repó és sajátos szállításos repó ügyletből fennálló követelés együttes összege;
-- 22. árbevétel: a Tao. tv. 4. § 4. pontjában meghatározott fogalom;
+- 22. árbevétel: a Tao. törvény 4. § 4. pontjában meghatározott fogalom;
 - 23–24.
 - 25.
 
@@ -227,3 +247,5 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
 (2) A 4/A. § (11) bekezdése szerinti adókötelezettséget első alkalommal a 2016. adóév vonatkozásában kell teljesíteni, azzal, hogy a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvény (Bszt.) 5. § (1) bekezdésének f) és g) pontja szerinti befektetési szolgáltatás vonatkozásában az adókötelezettség az állampapírra nem terjed ki, melynek alapján az ezekhez kapcsolódó prémiumok, díjak és jutalékok, valamint az állampapírok kereskedéséből származó realizált, és az azok állományához kapcsolódóan elszámolt átértékelési nyereség és kamatbevétel mentes a különadó alól.
 
 (3) A 4/A. § (12) bekezdése szerinti adókötelezettséget első alkalommal a 2016. adóév vonatkozásában kell teljesíteni. A hitelintézet a 4/A. § (12) bekezdése szerinti adókötelezettséget a 2016. adóév vonatkozásában 2016. szeptember 10-éig megállapítja, az esedékességének megfelelő részletezésben külön nyomtatványon bevallja, valamint két egyenlő részletben – 2016. szeptember 10-éig és 2016. december 10-éig – megfizeti. Ehhez kapcsolódóan a hitelintézet 4/A. § (13) bekezdése figyelembevételével a 2016. adóévre vonatkozóan már benyújtott adóbevallását 2016. szeptember 10-éig pótlékmentesen önellenőrzi.
+
+15. § A 4/A. § (14)–(19) bekezdésének rendelkezéseit az adózó 2017. adóév vonatkozásában választása szerint alkalmazza, azzal, hogy e választás esetén az adózó a 2017. adóévre vonatkozóan már benyújtott adóbevallását 2017. szeptember 10-éig pótlékmentesen önellenőrzi.

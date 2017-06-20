@@ -208,7 +208,14 @@ a jövedéki adózás szabályairól a következő törvényt alkotja:
 
 #### 44. Jövedéki engedélyes kereskedelem
 
-#### 67. §
+67. § (1)–(5)
+
+(6)
+
+- a)
+- b)
+
+(7)
 
 #### 45. Jövedéki kiskereskedelmi tevékenység
 
@@ -453,7 +460,7 @@ a jövedéki adózás szabályairól a következő törvényt alkotja:
 - c) a jövedéki termék előállítására, tárolására, szállítására, forgalmazására vonatkozó részletes szabályokat;
 - d) a nyilvántartások vezetésére, az állami adó- és vámhatóság felé teljesítendő adatszolgáltatásokra, a bizonylatok adattartalmának meghatározására, kiállításukra és az állami adó- és vámhatóság felé történő megküldésükre vonatkozó részletes szabályokat;
 - e) az adó-visszaigénylés és az adófizetési kötelezettség alóli mentesülés érvényesítésének részletes szabályait;
-- f) a zárjegyre, a hivatalos zárra és a párlat adójegyre vonatkozó részletes szabályokat;
+- f) a zárjegyre, a hivatalos zárra és a párlat adójegyre vonatkozó részletes szabályokat, a hivatalos zár előállításának engedélyezési eljárásának részletes szabályait és a hivatalos zár előállítója általi adatszolgáltatás adattartalmára vonatkozó szabályokat;
 - g) a jövedéki ellenőrzésre, a lefoglalásra és az elkobzásra vonatkozó részletes szabályokat;
 - h) a kisüzemi bortermelőre, a bérfőzésre és a magánfőzésre vonatkozó részletes szabályokat.
 
@@ -479,7 +486,7 @@ a jövedéki adózás szabályairól a következő törvényt alkotja:
 
 #### 101. Átmeneti rendelkezések
 
-150. § (1) E törvényt – a (12) bekezdésben meghatározott eltéréssel – a 2017. július 1-jét követően keletkezett adómegállapítási és adóbevallási kötelezettségekre kell alkalmazni.
+150. § (1) E törvényt – a (12) bekezdésben meghatározott eltéréssel – a 2017. július 1-jén vagy azt követően keletkezett adómegállapítási és adóbevallási kötelezettségekre kell alkalmazni.
 
 (2) Az a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény (a továbbiakban: régi Jöt.) szerinti adóraktári engedéllyel, bejegyzett kereskedői engedéllyel, bejegyzett feladói engedéllyel, felhasználói engedéllyel vagy jövedéki engedéllyel rendelkező személy, aki tevékenységét 2017. június 30-át követően folytatni kívánja, 2017. május 15-ig nyújt be nyilatkozatot arról, hogy tevékenységét változatlan formában vagy módosítva vagy az engedélyek összevonásával kívánja tovább folytatni, valamint adóraktári engedélyes, bejegyzett kereskedői engedélyes adatszolgáltatását az állami adó- és vámhatóság által biztosított információs rendszeren vagy közvetlen elektronikus adatkapcsolaton keresztül kívánja teljesíteni az elektronikus engedély kiadását követően, továbbá nyilatkozik az e törvénynek megfelelő jövedéki biztosíték számításáról és nyújtásának módjáról, tervezett időpontjáról, valamint arról, hogy az új engedély kiadását követően a szabadforgalomba bocsátásról azonnali vagy napi adatszolgáltatást kíván teljesíteni 2017. július 1-jétől. Az állami adó- és vámhatóság 2017. május 31-ig az e törvénynek megfelelő tartalmú engedélyokirat tervezetét elkészíti és megküldi az engedélyesnek, aki 2017. június 9-ig észrevételt, javaslatot tehet az okirattervezet módosítására, ennek hiányában az állami adó- és vámhatóság az okirattervezet tartalmát az engedélyes által elfogadottnak tekinti. Az állami adó- és vámhatóság a gazdálkodó által megtett nyilatkozatok alapján, az engedélyes által elfogadott okirattervezetnek megfelelő tartalmú elektronikus engedélyt ad ki az engedélyes részére 2017. június 30-ig 2017. július 1-jei érvényesség kezdettel, a korábbi engedély 2017. június 30-ával hatályát veszti. Az engedélyes a 2017. június 30-án hatályos jövedéki biztosítéki szabályoknak megfelelően nyújtott jövedéki biztosítékkal az e törvénynek megfelelően nyújtott jövedéki biztosíték állami adó- és vámhatóság általi jóváhagyásáig, de legfeljebb 2017. október 1-jéig végezheti tevékenységét.
 
@@ -515,7 +522,7 @@ a jövedéki adózás szabályairól a következő törvényt alkotja:
 
 (18) Ha a régi Jöt. szerinti jövedéki engedélyes kereskedői engedéllyel rendelkező személy engedélyében szereplő telephelyre ugyanazon személy részére a (17) bekezdés szerint kiadott adóraktári engedély lép hatályba 2017. június 30-át követően, az adóraktári engedély hatályba lépésének időpontjában az adóraktári engedély hatálybalépését megelőzően a jövedéki engedély alapján beszerzett és adójeggyel vagy zárjeggyel ellátott, az adóraktári engedélyben szereplő telephelyen tárolt jövedéki termékkészletet az adóraktár engedélyese az adóraktári engedély birtokában, a szabad forgalomba bocsátott termékek forgalmazására vonatkozó szabályok szerint tárolhatja és forgalmazhatja legkésőbb 2017. december 31-ig.
 
-(19) Az egyszerűsített adóraktár engedélyese a 136. § (3) bekezdés, a kisüzemi bortermelő a 137. § (3) bekezdés szerinti 2017. augusztus 15-én esedékes adóbevallását a 2016. december 1.–2017. július 31. időszak tekintetében nyújtja be.
+(19) Az egyszerűsített adóraktár engedélyese a 136. § (3) bekezdés, a kisüzemi bortermelő a 137. § (3) bekezdés szerinti, 2017. augusztus 15-én esedékes adóbevallását a 2016. december 1–2017. július 31. időszak tekintetében nyújtja be és a 2017. augusztus 15-én esedékes jövedéki adatszolgáltatását és a 138. § (5) bekezdés szerinti hivatalos zár elszámolást a 2017. június 30-án hatályos jövedéki szabályok szerint nyújtja be az állami adó- és vámhatósághoz.
 
 (20) A (2)–(3), (5) és (16) bekezdés szerinti nyilatkozatot, a (2)–(3) bekezdés szerinti észrevételt és a (14) bekezdés szerinti megrendelést az állami adó- és vámhatóság által rendszeresített nyomtatványon kell benyújtani.
 

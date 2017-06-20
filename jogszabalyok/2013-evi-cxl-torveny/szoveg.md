@@ -352,6 +352,8 @@ fémkereskedelmi engedélyköteles anyag hasznosítását, ha az így keletkezet
 
 (3) Az e törvény hatálya alá tartozó személyek nyilvántartásba vételével és nyilvántartásával kapcsolatos ügyben a fémkereskedelmi hatóság jár el. A nyilvántartásba vételre és nyilvántartásra vonatkozó részletes szabályokat az adózás rendjéről szóló törvény tartalmazza.
 
+(3a) Az e törvényen alapuló kötelezettség vagy jogosultság csak adószám, vagy adóazonosító jel birtokában teljesíthető, illetve érvényesíthető.
+
 (4) Az e törvényben meghatározott bírság és egyéb költség végrehajtására az adózás rendjéről szóló törvény rendelkezései az irányadóak.
 
 #### 7. Záró rendelkezések

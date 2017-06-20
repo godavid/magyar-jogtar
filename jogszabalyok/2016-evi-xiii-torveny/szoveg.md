@@ -46,10 +46,10 @@ kell tekinteni.
 - 1. adószabályok: adót, adófizetési kötelezettséget, költségvetési támogatást a központi költségvetés javára megállapító törvények,
 - 2. egyéb terhek: valamennyi olyan, az áru behozatalához kapcsolódó fizetési kötelezettség, amelynek kiszabása, beszedése, ellenőrzése a vámhatóság hatáskörébe tartozik, így különösen a jövedéki adó, az általános forgalmi adó, energiaadó,
 - 3. jövedéki termék: a jövedéki adóról szóló törvényben (a továbbiakban: Jöt.) ekként meghatározott termék,
-- 4. postai küldemény: a 952/2013/EU európai parlamenti és tanácsi rendeletnek az Uniós Vámkódex egyes rendelkezéseire vonatkozó részletes szabályok tekintetében történő kiegészítéséről szóló, 2015. július 28-i 2446/2015/EU felhatalmazáson alapuló bizottsági rendelet (a továbbiakban: FJA) 1. cikk 24. pontja szerinti küldemény,
+- 4.
 - 5. tartozás: a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) által az adós részére közölt és az adós által – engedély nélkül – határidőre meg nem fizetett összeg,
 - 6. ügyfél: az a személy, akit a vámjogszabályok alapján jogok illetnek meg, illetve kötelezettségek terhelnek, ügyfélnek kell tekinteni továbbá e feladata ellátása során a vagyonfelügyelőt, a felszámolót és a végelszámolót is,
-- 7. vámhiány: a jogszerűen keletkezett vám és egyéb terhek és az azoknál kisebb értékben tévesen kiszabott vám és egyéb terhek különbözete, továbbá a jogszerűen keletkezett, ki nem szabott vám és egyéb terhek összege, ha az nem abból eredt, hogy a vámhatóság jogszabályt sértett, vagy a rendelkezésre álló adatokat helytelenül értékelte, ide nem értve az ellenőrzés nélküli elfogadás esetét, a vámigazgatási bírság kiszabása szempontjából vámhiánynak minősül továbbá a szabályok be nem tartása miatt lefoglalt és elkobzott termékek esetében a keletkezett behozatali vámok, valamint a kapcsolódó egyéb terhek összege, továbbá a 85. § (7) bekezdése alapján megállapított egyéb teher különbözete,
+- 7. vámhiány: a keletkezett vámok és egyéb terhek és az annál kisebb összegben közölt vámok és egyéb terhek különbözete, továbbá a keletkezett, de nem közölt vámok és egyéb terhek összege, ha az nem abból eredt, hogy a vámhatóság jogszabályt sértett, vagy a rendelkezésre álló adatokat helytelenül értékelte, ide nem értve az ellenőrzés nélküli elfogadás esetét; a vámigazgatási bírság kiszabása szempontjából vámhiánynak minősül továbbá a szabályok be nem tartása miatt lefoglalt és elkobzott termékek esetében a keletkezett behozatali vámok és egyéb terhek összege, továbbá a 85. § (7) bekezdése alapján megállapított egyéb teher különbözete,
 - 8. vámhivatal: a NAV megyei (fővárosi) adó- és vámigazgatóságai és azok kirendeltségei, valamint a Kormány rendeletében meghatározott igazgatóságok,
 - 9. vámigazgatási eljárás: a vámhatóság által a vám- és egyéb jogszabályok rendelkezéseinek érvényesítése érdekében ügyféli kérelemre vagy hivatalból végzett cselekmények összessége,
 - 10. vámszerv: a NAV vámigazgatási feladatot is ellátó szerve.
@@ -95,7 +95,7 @@ kell tekinteni.
 
 (5) A NAV vámazonosító szám igénylése esetén a bejelentés alapján EORI számot állapít meg a Vámkódex 9. cikk (1) és (2) bekezdése szerinti esetekben.
 
-(6) Az FJA 6. cikk (2) bekezdésének kivételével – a (9) bekezdésre figyelemmel – valamennyi, gazdálkodónak nem minősülő személynek nyilvántartásba kell vetetnie magát azon esetekben, amikor a vámhatóságok előtt elektronikus úton vagy papír alapon vám-árunyilatkozatot, vagy a Vámkódex 22. cikke szerinti kérelmet nyújt be.
+(6) A 952/2013/EU európai parlamenti és tanácsi rendeletnek az Uniós Vámkódex egyes rendelkezéseire vonatkozó részletes szabályok tekintetében történő kiegészítéséről szóló, 2015. július 28-i 2446/2015/EU felhatalmazáson alapuló bizottsági rendelet (a továbbiakban: FJA) 6. cikk (2) bekezdésének kivételével – a (9) bekezdésre figyelemmel – valamennyi, gazdálkodónak nem minősülő személynek nyilvántartásba kell vetetnie magát azon esetekben, amikor a vámhatóságok előtt elektronikus úton vagy papíralapon vám-árunyilatkozatot, vagy a Vámkódex 22. cikke szerinti kérelmet nyújt be.
 
 (7) A vámhatóság az FJA 4. cikke alapján az EORI nyilvántartásba vételhez szükséges adatok benyújtását elektronikus adatfeldolgozási módtól eltérő módon a természetes személyeknek, illetve azon gazdálkodóknak engedélyezi, akik a vámhatóság vonatkozó számítógépes rendszeréhez való közvetlen hozzáféréssel nem rendelkeznek.
 
@@ -282,9 +282,9 @@ céljából használható fel.
 
 #### 10. A Vámkódex 39. cikkéhez
 
-23. § (1) A vámjogszabályok és adószabályok ismételt megsértésének minősül, ha a kérelmezővel szemben a VA 24. cikk (1) bekezdése szerint vizsgált időtartamon belül a vámjogszabályokban és az adószabályban foglalt, gazdasági tevékenységével összefüggő kötelezettségeinek megszegéséért vagy elmulasztásáért együttesen tíznél több alkalommal adóbírságot, mulasztási bírságot vagy vámigazgatási bírságot (ezen alcím alkalmazásában a továbbiakban együtt: bírság) jogerősen szabtak ki, és az így kivetett bírságok együttes összege meghaladja a kérelmező tekintetében szintén az ezen időtartamon belül keletkezett vám- és adófizetési kötelezettség 20%-át.
+23. § (1) A vámjogszabályok és adószabályok ismételt megsértésének minősül többek között az az eset, ha a kérelmezővel szemben a VA 24. cikk (1) bekezdése szerint vizsgált időtartamon belül a vámjogszabályokban és az adószabályban foglalt, gazdasági tevékenységével összefüggő kötelezettségeinek megszegéséért vagy elmulasztásáért együttesen tíznél több alkalommal adóbírságot, mulasztási bírságot vagy vámigazgatási bírságot (ezen alcím alkalmazásában a továbbiakban együtt: bírság) jogerősen szabtak ki, és az így kivetett bírságok együttes összege meghaladja a kérelmező tekintetében szintén az ezen időtartamon belül keletkezett vám- és adófizetési kötelezettség 20%-át.
 
-(2) A vámjogszabályok és adószabályok súlyos megsértésének minősül, ha a kérelmezővel szemben a VA 24. cikk (1) bekezdése szerint vizsgált időtartamon belül
+(2) A vámjogszabályok és adószabályok súlyos megsértésének minősül többek között az az eset, ha a kérelmezővel szemben a VA 24. cikk (1) bekezdése szerint vizsgált időtartamon belül
 
 - a) a bizonylatok, könyvek, nyilvántartások meghamisításával, megsemmisítésével összefüggően jogerősen bírságot szabtak ki, vagy
 - b) a vámjogszabályokban és adószabályokban foglalt, gazdasági tevékenységével összefüggő kötelezettségeinek megszegéséért vagy elmulasztásáért alkalmanként jogerősen 20 millió forintot meghaladó összegű bírságot szabtak ki, és
@@ -322,7 +322,7 @@ az a) és b) pont szerint keletkezett bírságok együttes összege meghaladja a
 
 (11) A vizsgabiztosok nyilvántartásából törölt természetes személyek adatait a nyilvántartásba vételt végző szervezet a törlést követő 5 évig őrzi meg.
 
-24. § A VA 24. cikk (2) bekezdése szerinti csekély jelentőségű jogsértés vámhatósági megállapítására – a kérelmező jóhiszeműsége mellett – akkor kerül sor, ha a Vámkódex 39. cikk a) pontja szerinti feltétel vizsgálatakor figyelembe vett, a gazdálkodó vámjogszabályokban és adószabályokban foglalt, gazdasági tevékenységével összefüggő kötelezettségeinek megszegéséért vagy elmulasztásáért kivetett bírságok együttes összege a VA 24. cikk (1) bekezdése szerint vizsgált időtartamon belül keletkezett vám- és adófizetési kötelezettségének 20%-át nem haladja meg.
+24. § A VA 24. cikk (2) bekezdése szerinti csekély jelentőségű jogsértés vámhatósági megállapítására – a kérelmező jóhiszeműsége mellett – többek között akkor kerül sor, ha a Vámkódex 39. cikk a) pontja szerinti feltétel vizsgálatakor figyelembe vett, a gazdálkodó vámjogszabályokban és adószabályokban foglalt, gazdasági tevékenységével összefüggő kötelezettségeinek megszegéséért vagy elmulasztásáért kivetett bírságok együttes összege a VA 24. cikk (1) bekezdése szerint vizsgált időtartamon belül keletkezett vám- és adófizetési kötelezettségének 20%-át nem haladja meg.
 
 #### 11. A Vámkódex 42. cikkéhez
 
@@ -385,7 +385,7 @@ a vámhatóság a bírság kiszabását mellőzi és figyelmezteti az érintett 
 
 (5) A vámigazgatási bírság mérséklésére, elengedésére az Art. adómérséklésre vonatkozó szabályait kell alkalmazni.
 
-29. § (1) Nem lehet vámigazgatási bírságot kiszabni vámhiányt okozó jogsértés esetén, ha a szankcionálandó jogsértés tekintetében a vámok és egyéb terhek utólagos könyvelésbe vételére nyitva álló határidő eltelt. Nem lehet vámigazgatási bírságot kiszabni vámhiányt nem okozó jogsértés esetén, ha a szankcionálandó jogsértés elkövetésének napjától számított három év eltelt.
+29. § (1) Nem lehet vámigazgatási bírságot kiszabni vámhiányt okozó jogsértés esetén, ha a szankcionálandó jogsértés tekintetében a vámok és egyéb terhek a közlésre nyitva álló határidő eltelt. Nem lehet vámigazgatási bírságot kiszabni vámhiányt nem okozó jogsértés esetén, ha a szankcionálandó jogsértés elkövetésének napjától számított három év eltelt.
 
 (2) A vámigazgatási bírság végrehajthatósága az arról szóló döntés jogerőre emelkedésétől számított három év elteltével évül el.
 
@@ -573,6 +573,14 @@ a lefoglalt nem uniós árut és eszközt a vámhatóság értékesíti. Az ért
 
 (2) Az áru átengedését követően végzett áruvizsgálat és mintavétel tekintetében a Vámkódex 189. és 190. cikkét kell alkalmazni.
 
+(3) Ha az áruátengedést követő ellenőrzéssel érintett személyt, az ellenőrzés tárgyát képező vámeljárások során közvetett képviselő képviselte a vámhatóság előtt, úgy az áruátengedést követő ellenőrzés során a közvetett képviselőt ugyanazon jogok illetik meg és kötelezettségek terhelik, mint az ellenőrzött személyt.
+
+(4) Ha a közvetett vámjogi képviselet az áruátengedést követő ellenőrzésre is kiterjed, akkor a (3) bekezdésben leírtak abban az esetben is alkalmazandóak.
+
+(5) A (3) bekezdésben foglaltakra figyelemmel az (1) bekezdés szerinti értesítést valamennyi ügyfélnek egyidejűleg meg kell küldeni.
+
+(6) Ha az áruátengedést követő ellenőrzés során az ügyfelek nyilatkozata egymásnak ellent mond, úgy a vámhatóság a nyilatkozatok, valamint a rendelkezésére álló egyéb bizonyítási eszközök segítségével tisztázza a tényállást.
+
 46/A. § (1) A vámhatóság az áruátengedést követően végzett ellenőrzés szakszerűségének és törvényességének vizsgálata céljából felülellenőrzést folytathat le, amely különösen az Unió és tagállamai pénzügyi érdekeit veszélyeztető cselekmények feltárására irányul és nem terjed ki azokra az új személyi, tárgyi vagy tényállásbeli elemekre, amelyek az alapeljáráshoz képest megváltoztak és az alapügyben eljáró szerv még nem bírálta el.
 
 (2) A felülellenőrzés tárgyköre az alapellenőrzés tárgyköréhez igazodik és kiterjedhet az ellenőrzött ügyfélnél egy adott időszakban lefolytatott valamennyi áru átengedését követően végzett ellenőrzésre is.
@@ -601,7 +609,7 @@ a lefoglalt nem uniós árut és eszközt a vámhatóság értékesíti. Az ért
 
 49. § (1) A Vámkódex 52. cikke szerinti díjat és költséget – ha vámjogszabályok ettől eltérően nem rendelkeznek – a vámhatóság külön eljárásban határozattal közli és szedi be.
 
-(2) Kérelemre indult eljárásban a felmerülő díjat – ha nemzetközi szerződés vagy jogszabály másképp nem rendelkezik – a kérelmezőnek kell megfizetnie. Hivatalból indult eljárások esetén felszámítható díjak megfizetésére az adott ügyben érintett személy köteles.
+(2) Kérelemre indult eljárásban a felmerülő díjat – ha nemzetközi szerződés vagy jogszabály másképp nem rendelkezik – a kérelmezőnek kell megfizetnie. Hivatalból indult eljárások esetén felszámítható díjak megfizetésére az adott ügyben érintett személy köteles. Ha több személy érintett az adott eljárásban vagy az eljárást több személy kérelmezi, úgy a felmerülő díjakat érintett személyenként vagy kérelmezőnként külön-külön kell felszámítani.
 
 (3) A díjat vagy költséget a határozat közlésétől számított 10 napon belül kell megfizetni, amelynek tényét a díjat vagy költséget megállapító vámhivatalnál igazolni kell a fizetési határidő lejártát követő munkanapig.
 
@@ -655,17 +663,25 @@ a lefoglalt nem uniós árut és eszközt a vámhatóság értékesíti. Az ért
 
 ### VII. Fejezet — VÁMTARTOZÁS KELETKEZÉSE
 
-#### 23. A Vámkódex 86. cikkéhez
+#### 23. A Vámkódex 84. cikkéhez
 
-55. § (1) A nem tarifális behozatali és kiviteli vámmentességeket a vámjogszabályok és a Magyarországon alkalmazandó nemzetközi szerződések határozzák meg.
+55. § (1) Ha egyetemlegesség keretében több adós felel egyetlen vámtartozás megfizetéséért, akkor a (3) bekezdés kivételével a vámhatóság a teljesítést valamennyi érintett adóstól kéri oly módon, hogy a vám- és egyéb teher fizetési kötelezettségről szóló határozatot valamennyi érintett adós részére külön-külön, ugyanazon a napon, postai úton vagy adott esetben elektronikusan kell megküldeni.
+
+(2) Ha a fizetésre kötelezett adósok közül az egyik teljesíti a közölt határozatban megállapított fizetési kötelezettséget, úgy a vámhatóság a teljesítésről és ez alapján a további fizetési kötelezettség megszűnéséről a többi adóst tájékoztatja.
+
+(3) Az (1) bekezdés rendelkezéseit az FJA 6. cikk (2) bekezdésében szabályozott esetekben nem kell alkalmazni.
+
+#### 23/A. A Vámkódex 86. cikkéhez
+
+56. § (1) A nem tarifális behozatali és kiviteli vámmentességeket a vámjogszabályok és a Magyarországon alkalmazandó nemzetközi szerződések határozzák meg.
 
 (2) Ha az árukat az FJA 141. cikke szerinti cselekménnyel jelentik be, az egyidejűleg a vámmentesség iránti kérelemnek tekintendő. Ha a vámhatóság a bejelentést elfogadja, azt a vám-árunyilatkozat elfogadásával egyenértékűnek kell tekinteni.
 
 (3) Ha a vámjogszabályok a nem tarifális vámmentességek alkalmazása vonatkozásában különleges felhatalmazást vagy engedélyt írnak elő, az engedélyt vagy a felhatalmazást a meghatározott feltételeket teljesítő személy részére lehet megadni.
 
-(4) A (2) és (3) bekezdést alkalmazni kell a kiviteli vámköteles áruk exportjára. Ezekben az esetekben elegendő a szóbeli bejelentés.
+(4) A (2) és a (3) bekezdést alkalmazni kell a kiviteli vámköteles áruk exportjára. Ezekben az esetekben elegendő a szóbeli bejelentés.
 
-56. § (1) A vámmentességi rendelet 41. cikke alkalmazásában a harmadik országokból beutazó személyek által importált termékek után fizetendő hozzáadottérték-adó és jövedéki adó alóli mentesítésről szóló, 2007. december 20-i 2007/74/EK tanácsi irányelv rendelkezéseivel összhangban kiadott nemzeti jogszabály alatt az utasok személyi poggyászában importált termékek általános forgalmi adó és jövedéki adó mentességéről szóló törvényt kell érteni.
+56/A. § (1) A vámmentességi rendelet 41. cikke alkalmazásában a harmadik országokból beutazó személyek által importált termékek után fizetendő hozzáadottérték-adó és jövedéki adó alóli mentesítésről szóló, 2007. december 20-i 2007/74/EK tanácsi irányelv rendelkezéseivel összhangban kiadott nemzeti jogszabály alatt az utasok személyi poggyászában importált termékek általános forgalmi adó és jövedéki adó mentességéről szóló törvényt kell érteni.
 
 (2) A vámmentességi rendelet 107. cikke alapján a magán- és kereskedelmi gépjárművek és motorkerékpárok szabványos tartályaiban az Európai Unió vámterületére vámmentesen behozott üzemanyag Magyarország területén a vám és egyéb terhek megfizetése nélkül nem idegeníthető el.
 
@@ -752,7 +768,7 @@ a lefoglalt nem uniós árut és eszközt a vámhatóság értékesíti. Az ért
 
 (5) A kedvezményezett vámhatóság a garanciavállaló nyilatkozat vagy készfizető kezesi szerződés jóváhagyásáról haladéktalanul tájékoztatja a kötelezettségvállalót.
 
-(6) A VA 151. cikk (3) bekezdés esetén a kötelezettségvállaló tértivevényes levélpostai küldeményben köteles értesíteni a (6) bekezdés szerinti kedvezményezett vámhatóságot.
+(6) A VA 151. cikk (3) bekezdés esetén a kötelezettségvállaló tértivevényes levélpostai küldeményben köteles értesíteni a (5) bekezdés szerinti kedvezményezett vámhatóságot.
 
 (7) A kötelezettségvállaló helytállási kötelezettséghez kapcsolódó, a kedvezményezett vámhatóság általi igénybejelentés esetén az az írásbeli felszólításnak tartalmaznia kell a kötelezettségvállalást kérő azonosító adatait – név, cím, adószám vagy adóazonosító jel, EORI szám, a jogutódlással kapcsolatos adatok –, a tartozás összegét, az előírt és nem teljesített fizetési határidőt, a fizetési kötelezettséggel érintett határozat számát és a vámügyi művelet típusát.
 
@@ -770,7 +786,7 @@ a lefoglalt nem uniós árut és eszközt a vámhatóság értékesíti. Az ért
 
 (3) Az (1) bekezdés szerinti engedély esetén a Vámkódex 22–28. cikkének, az FJA 11–18. cikkének és a VA 10–15. cikkének kérelem alapján hozott határozatokra vonatkozó rendelkezéseit kell alkalmazni.
 
-(4) A garanciajegyek formájában nyújtott egyedi kötelezettségvállalás jóváhagyása esetén e szakasz rendelkezéseit kell alkalmazni.
+(4) A garanciajegyek formájában nyújtott egyedi kötelezettségvállalás jóváhagyása esetén e szakasz rendelkezéseit kell alkalmazni azzal, hogy az engedély jogosultja az (1) bekezdésben meghatározott feltételeken túl írásban kötelezettséget vállal a vámeljárás jogosultja tekintetében felmerült tartozások megfizetésére.
 
 #### 26/B. A Vámkódex 95. cikkéhez
 
@@ -790,7 +806,7 @@ a lefoglalt nem uniós árut és eszközt a vámhatóság értékesíti. Az ért
 
 (3) Az adatfeldolgozási technika alkalmazásával benyújtott árunyilatkozatok esetében, ha a technikai feltételek adottak, a vámhatóság a vám és egyéb terhek összegét közlő határozatát elektronikus dokumentum formájában hozhatja meg. Az e bekezdésben meghatározott döntések kiadmányozása személy által felügyelt automatizált aláírással, elektronikus formában történik.
 
-(4) A vámhatóság az FJA 88. cikk (2) bekezdésében meghatározott esetben eltekint a vámtartozás közlésétől.
+(4) A vámhatóság az FJA 88. cikk (2) bekezdésében meghatározott esetben eltekint a vámtartozás közlésétől. Ebben az esetben a 3. § 7. ponttól eltérően nem keletkezik vámhiány.
 
 #### 29. A Vámkódex 103. cikkéhez
 
@@ -1047,7 +1063,7 @@ a halasztott vámfizetés szabályai szerint fizesse meg.
 
 (3) A vámhatóság a kérelem előzetes értékelését és a helyszíni ellenőrzést a kérelem beérkezésétől számított 30 napon belül elvégzi, ez a határidő szükség esetén a vámhatóság vezetője által további 30 nappal meghosszabbítható. A kérelmet a vámhatóság a (4) bekezdés szerint legkésőbb az előzetes értékelés lezárását követő 3 napon belül felterjeszti.
 
-(4) A miniszter megvizsgálja a felterjesztett kérelmet, a vámhatóság általi előzetes értékelés megállapításait tartalmazó záradékot és a helyszíni ellenőrzés jegyzőkönyvét, valamint a kötelező képviselet meglétét és az eljárási illeték megfizetését leellenőrzi. A vámszabad terület kijelölése iránti kérelem elbírálása esetén az ügyintézési határidő a kérelem felterjesztését követő 30 nap, kivéve, ha a miniszter a kérelmet érdemi vizsgálat nélkül utasítja el.
+(4) A miniszter megvizsgálja a felterjesztett kérelmet, a vámhatóság általi előzetes értékelés megállapításait tartalmazó záradékot és a helyszíni ellenőrzés jegyzőkönyvét, valamint az eljárási illeték megfizetését leellenőrzi. A vámszabad terület kijelölése iránti kérelem elbírálása esetén az ügyintézési határidő a kérelem felterjesztését követő 30 nap, kivéve, ha a miniszter a kérelmet érdemi vizsgálat nélkül utasítja el.
 
 (5) A miniszter a kérelmet érdemi vizsgálat nélkül utasítja el, ha
 
@@ -1085,7 +1101,7 @@ a halasztott vámfizetés szabályai szerint fizesse meg.
 
 #### 58. A Vámkódex 278. cikkéhez
 
-99. § A Nemzetközi Vasúti Árufuvarozásról szóló Megállapodás (SzMGSz) és Mellékletei módosításokkal és kiegészítésekkel egységes szerkezetben történő kihirdetéséről szóló 2011. évi XXXVII. törvény szerinti papíralapú SZMGSZ fuvarlevél a Magyarország területén vasúti forgalomban megvalósuló árutovábbítás vámeljárás során vám-árunyilatkozatként használható.
+99. § A Nemzetközi Vasúti Árufuvarozásról szóló Megállapodás (SzMGSz) és Mellékletei módosításokkal és kiegészítésekkel egységes szerkezetben történő kihirdetéséről szóló 2011. évi XXXVII. törvény szerinti papíralapú SZMGSZ fuvarlevél a Magyarország területén vasúti forgalomban megvalósuló árutovábbítási vámeljárásban kizárólag a harmadik országból érkező szállítmányok érkeztetésekor fogadható el vám-árunyilatkozatként.
 
 ## HARMADIK RÉSZ — AZ EMGA FINANSZÍROZÁSI RENDSZERÉBE TARTOZÓ ÜGYLETEK VIZSGÁLATA
 
@@ -1461,7 +1477,7 @@ rendeletben állapítsa meg.
 
 rendeletben állapítsa meg.
 
-(2) Felhatalmazást kap a miniszter, hogy a postaügyért felelős miniszterrel egyetértésben a postai küldeményekre vonatkozó vámeljárás végrehajtásának részletes szabályait rendeletben állapítsa meg.
+(2)
 
 (3) Felhatalmazást kap a miniszter, hogy a honvédelemért felelős miniszterrel egyetértésben
 

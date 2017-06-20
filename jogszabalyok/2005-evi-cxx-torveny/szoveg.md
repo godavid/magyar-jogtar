@@ -191,9 +191,11 @@ Színházi cipész
 - a) évi 60 millió forint, feltéve, hogy a magánszemély (1) bekezdés a) pontjában említett jövedelme az adóévben eléri az év első napján érvényes havi minimálbér 12-szeresét,
 - b) az a) pontban meghatározott feltétel hiányában az évi 60 millió forintnak olyan hányada, amilyen arányt az (1) bekezdés a) pontjában említett jövedelem összege az év első napján érvényes havi minimálbér 12-szereséhez viszonyítva képvisel,
 - c) nyugdíjas esetében – az a)–b) pontokban foglaltaktól függetlenül – évi 60 millió forint,
-- d) az a)–b) pontokban említett összeghatár helyett
-  - da) évi 125 millió forint – a 2010. évben 50 millió forint –, ha a magánszemély az adóévben az országos sportági szakszövetség, országos sportági szövetség első osztályú versenyrendszerében induló sportszervezet hivatásos sportolója,
-  - db) évi 125 millió forint, ha a magánszemély az országos sportági szakszövetség, országos sportági szövetség első osztályú versenyrendszerében induló sportszervezet edzője, vagy az országos sportági szakszövetség, országos sportági szövetség edzője, válogatott vezetőedzője (szövetségi kapitánya) azzal, hogy, ha a magánszemély általános forgalmi adó fizetésére kötelezett, az összeghatáron az általános forgalmi adóval csökkentett bevétel értendő.
+- d) az a)–b) pontban említett összeghatár helyett
+  - da) évi 250 millió forint, ha a magánszemély az adóévben az országos sportági szakszövetség, országos sportági szövetség első osztályú versenyrendszerében induló sportszervezet hivatásos sportolója,
+  - db) évi 250 millió forint, ha a magánszemély az országos sportági szakszövetség, országos sportági szövetség első osztályú versenyrendszerében induló sportszervezet edzője, vagy az országos sportági szakszövetség, országos sportági szövetség edzője, válogatott vezetőedzője (szövetségi kapitánya)
+
+azzal, hogy ha a magánszemély általános forgalmi adó fizetésére kötelezett, az összeghatáron az általános forgalmi adóval csökkentett bevétel értendő.
 
 (5) A (4) bekezdés szerinti bevételi határt csökkenti az a bevétel,
 
@@ -330,3 +332,5 @@ minősül.
 14/C. § E törvény 2012. december 31-én hatályos 4. § (2) bekezdését kell alkalmazni a 2013. január 10-éig megszerzett, 2012. decemberi ekho alapot képező olyan jövedelmekre, amelyeket a 2012. december hónapra vonatkozóan benyújtott bevallásban kell bevallani.
 
 14/D. § E törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel megállapított 7. §-a a 2016. évi adókötelezettség megállapításánál is alkalmazható.
+
+14/E. § Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2017. évi LXXVII. törvénnyel megállapított 3. § (4) bekezdés d) pontját a 2017. január 1-jétől megszerzett bevételekre kell alkalmazni.
