@@ -563,7 +563,7 @@ Tbj. 37/A. § Nem kell egészségügyi szolgáltatási járulékot fizetni arra 
 - e) egyéni vállalkozói tevékenysége szünetel,
 - f) foglalkoztatása a munkaviszonyában vagy egyidejűleg fennálló több munkaviszonyában együttesen eléri a heti 36 órát.
 
-Tbj. 38. § (1) Több jogviszony egyidejű fennállása esetén a kiegészítő tevékenységet folytató vállalkozó után az egészségügyi szolgáltatási járulékot – a (2)–(4) bekezdésben meghatározottak szerint – csak egy jogviszonyban kell megfizetni.
+Tbj. 38. § (1) Több jogviszony egyidejű fennállása esetén a kiegészítő tevékenységet folytató vállalkozó után az egészségügyi szolgáltatási járulékot – a (2)–(5) bekezdésben meghatározottak szerint – csak egy jogviszonyban kell megfizetni.
 
 (2) Ha az egyéni vállalkozó egyidejűleg társas vállalkozó is, az egészségügyi szolgáltatási járulékot egyéni vállalkozóként kell megfizetnie.
 

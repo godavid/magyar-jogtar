@@ -69,7 +69,8 @@ személyi állományába tartozó vagy alkalmazásában álló nem magyar állam
 - b) az adó bevezetésének időpontját és időtartamát (határozott vagy határozatlan időre) meghatározza,
 - c) az adó mértékét – az e törvényben meghatározott felső határokra, illetőleg a 16. § a) pontjában, a 22. § a) pontjában, a 26. §-ában, a 33. §-ának a) pontjában meghatározott felső határoknak 2005. évre a KSH által 2003. évre vonatkozóan közzétett fogyasztói árszínvonal-változással, 2006. évtől pedig a 2003. évre és az adóévet megelőző második évig eltelt évek fogyasztói árszínvonal változásai szorzatával növelt összegére (a felső határ és a felső határ növelt összege együtt: adómaximum) figyelemmel – megállapítsa,
 - d) az e törvény második részében meghatározott mentességeket, kedvezményeket további mentességekkel, kedvezményekkel, így különösen a lakások esetében a lakásban lakóhellyel rendelkező eltartottak számától, a lakáson fennálló, hitelintézet által lakásvásárlásra, lakásépítésre nyújtott hitel biztosítékául szolgáló jelzálogjog fennállásától, a lakásban lakóhellyel rendelkezők jövedelmétől függő mentességekkel, kedvezményekkel kibővítse,
-- e) e törvény és az adózás rendjéről szóló törvény keretei között az adózás részletes szabályait meghatározza.
+- e) e törvény és az adózás rendjéről szóló törvény keretei között az adózás részletes szabályait meghatározza,
+- f) ha az adó mértékét határozott időre állapította meg, akkor a határozott időszak harmadik naptári évétől vagy az azt követően kezdődő naptári évtől, a határozott időszak letelte előtt az adó mértékét növelheti, ha a naptári évet megelőző naptári év első tíz hónapjában az adott adónemben bevallott, kivetett adóból származó bevétel nem éri el a naptári évet megelőző második naptári év első tíz hónapjában bevallott, kivetett adóból származó bevétel 50%-át.
 
 7. § Az önkormányzat adómegállapítási jogát korlátozza az, hogy:
 
@@ -79,7 +80,11 @@ személyi állományába tartozó vagy alkalmazásában álló nem magyar állam
 - d) ha az adót az 1. § (3) bekezdése alapján a fővárosi önkormányzat vezeti be, akkor az a kerületi önkormányzat, amely az adó fővárosi önkormányzat általi bevezetésébe beleegyezett, az adót az adóévben nem működtetheti,
 - e) a vállalkozó (52. § 26. pont) üzleti célt szolgáló épülete, épületrésze utáni építményadó, telke utáni telekadó és a helyi iparűzési adó megállapítása során – ha e törvény eltérően nem rendelkezik – a 6. § d) pontja nem alkalmazható. A helyi iparűzési adó esetén egy adómérték alkalmazható,
 - f) a korrigált forgalmi érték alapú építményadóban a lakás, illetve az egyéb építmény esetén egy-egy, a korrigált forgalmi érték alapú telekadóban a lakáshoz tartozó telek, illetve az egyéb telek esetén egy-egy adómérték alkalmazható,
-- g) az adóalap fajtáját, az adó mértékét, a rendeleti adómentességet és adókedvezményt úgy állapíthatja meg, hogy azok összességükben egyaránt megfeleljenek a helyi sajátosságoknak, az önkormányzat gazdálkodási követelményeinek és az adóalanyok széles körét érintően az adóalanyok teherviselő képességének.
+- g) az adóalap fajtáját, az adó mértékét, a rendeleti adómentességet és adókedvezményt úgy állapíthatja meg, hogy azok összességükben egyaránt megfeleljenek a helyi sajátosságoknak, az önkormányzat gazdálkodási követelményeinek és az adóalanyok széles körét érintően az adóalanyok teherviselő képességének,
+- h) ha az adó mértékét határozott időre állapítja meg, akkor azt az adóalany hátrányára
+  - ha) a határozott időszak első két naptári évében nem növelheti,
+  - hb) a határozott időszak harmadik naptári évétől vagy az azt követően kezdődő naptári évtől, a határozott időszak letelte előtt csak akkor növelheti, ha a naptári évet megelőző naptári év első tíz hónapjában az adott adónemben bevallott, kivetett adóból származó bevétel nem éri el a naptári évet megelőző második naptári év első tíz hónapjában bevallott, kivetett adóból származó bevétel (a továbbiakban: viszonyítási bevétel) 70%-át, azzal, hogy a naptári évtől hatályos adómérték ekkor sem haladhatja meg a határozott időre rögzített adómérték 130%-át,
+- i) ha a h) pont hb) alpont alkalmazásával az adó mértékét növelte, akkor az adó mértékét a határozott időszakra eredetileg megállapított adómértékkel egyező mértékben kell megállapítani azon naptári évtől kezdődően, amelyet megelőző – és a h) pont hb) alpont alkalmazását követő – naptári év első tíz hónapjában az adott adónemben bevallott, kivetett adóból származó bevétel eléri a viszonyítási bevételt.
 
 8. § (1)
 
@@ -686,6 +691,16 @@ feltéve, ha azt a vállalkozó az (1) bekezdés szerinti bevételként nem vett
 
 (8) A közös őstermelői igazolvánnyal rendelkező adóalanyok az adóévi iparűzési adókötelezettségüket úgy is teljesíthetik, hogy az adószámmal rendelkező adóalany a közös őstermelői tevékenységvégzésből származó teljes iparűzési adóalap alapulvételével állapítja meg, vallja be és fizeti meg az adót. Az adómegállapítás ezen módjának választásáról a közös őstermelői igazolványban feltüntetett valamennyi adóalany az adószámmal rendelkező adóalany adóévi adóbevallásában nyilatkozik. A családi gazdálkodó a családi gazdaság tekintetében az adóévi iparűzési adókötelezettséget a közös őstermelői igazolvánnyal rendelkező adóalanyokra irányadó szabályozás szerint is teljesítheti.
 
+41/A. § (1) Az adóalany a jövőben esedékessé váló adójára tekintettel előrehozott adót fizethet.
+
+(2) Az előrehozott adóról annak megfizetésével egyidejűleg bevallást kell benyújtani.
+
+(3) A (2) bekezdés szerinti bevallásban az adóalany megjelölheti, hogy az adóhatóság az előrehozott adóját melyik jövőben esedékessé váló adófizetési kötelezettségébe számítsa be. Ilyen rendelkezés hiányában az előrehozott adót – vagy, ha az adóalany rendelkezésében megjelölt adó kisebb, mint az előrehozott adó összege, akkor az előrehozott adó még be nem számított összegét – az adóhatóságnál nyilvántartott adófizetési kötelezettség összegébe, az esedékesség sorrendjében kell beszámítani, legfeljebb az adófizetési kötelezettség erejéig.
+
+(4) A (2) bekezdés szerinti bevallás önellenőrzéssel nem helyesbíthető.
+
+(5) Az előrehozott adót a 6. § f) pontjában, a 7. § h) pont hb) alpontjában és i) pontjában a bevétel számításánál a (3) bekezdés szerinti esedékességkor, az akkor beszámított összegben kell figyelembe venni.
+
 42. § (1)
 
 (2) Az adóelőleg és az adó megfizetésének esedékességét az adózás rendjéről szóló törvény állapítja meg.
@@ -718,7 +733,8 @@ feltéve, ha azt a vállalkozó az (1) bekezdés szerinti bevételként nem vett
 - b) az önkormányzat által megállapított adóalap, adómérték, adókedvezmény, adómentesség szövegéről,
 - c) a b) pontban említett rendelkezések hatályba lépésének napjáról,
 - d) az önkormányzat honlapjának címéről, valamint legalább egy adóügyi információs telefonszámról, elektronikus levélcímről, és az önkormányzati adóhatóság levelezési címéről (a továbbiakban: elérhetőségi információk),
-- e) a helyi adónem, a települési adónem pénzforgalmi jelzőszámáról.
+- e) a helyi adónem, a települési adónem pénzforgalmi jelzőszámáról,
+- f) határozott időszakra megállapított adómérték, adómentesség, adókedvezmény esetén a határozott időszak lejártának időpontjáról.
 
 (2) A kincstár a hozzá beérkezett adatokat és elérhetőségi információkat feldolgozza és a honlapján – települések (a fővárosban a fővárosi, illetve kerületi önkormányzatok) szerinti bontásban – elektronikus úton feldolgozható és letölthető formátumban is közzéteszi. A kincstár a honlapján közzétett adatokat és elérhetőségi információkat az önkormányzati adóhatóságoktól az (1) bekezdés szerint beérkezett adatokkal havonta, az önkormányzati adóhatóság adatszolgáltatását követő hónap 5. napjáig módosítja.
 
@@ -726,7 +742,7 @@ feltéve, ha azt a vállalkozó az (1) bekezdés szerinti bevételként nem vett
 
 ### Az adóbevallás-benyújtás, bejelentkezés, változás-bejelentés szabályai
 
-42/C. § (1) Az önkormányzati rendeleti mentességre, kedvezményre nem jogosult, vagy azt igénybe venni nem szándékozó adóalany, bevallás-benyújtásra kötelezett az építményadóról, a telekadóról, a magánszemély kommunális adójáról, a helyi iparűzési adóról szóló adóbevallási kötelezettségét az önkormányzati adóhatóságok által rendszeresíthető bevallási, bejelentési nyomtatványok tartalmáról szóló pénzügyminiszteri rendelet (a továbbiakban: PM rendelet) szerinti, az adónemre vonatkozó bevallási nyomtatványon is teljesítheti.
+42/C. § (1) Az önkormányzati rendeleti mentességre, kedvezményre nem jogosult, vagy azt igénybe venni nem szándékozó adóalany az építményadóról, a telekadóról, a magánszemély kommunális adójáról szóló bevallási kötelezettségét az önkormányzati adóhatóságok által rendszeresíthető bevallási, bejelentési nyomtatványok tartalmáról szóló pénzügyminiszteri rendelet (a továbbiakban: PM rendelet) melléklete szerinti, az adónemre vonatkozó nyomtatványon is teljesítheti az önkormányzati adóhatóság részére. A helyi iparűzési adóalany az adóbevallását, az adóbevallása kijavítását, annak önellenőrzéssel való helyesbítését a PM rendelet adóévre vonatkozó melléklete szerinti bevallási nyomtatványon is teljesítheti az önkormányzati adóhatóság részére.
 
 (2) Az adózó a bejelentkezési, változás-bejelentési kötelezettségét a helyi iparűzési adóban, az idegenforgalmi adóban a PM rendelet szerinti, a bejelentkezésről, változás-bejelentésről szóló nyomtatványon is teljesítheti.
 
@@ -782,7 +798,7 @@ Az érdekeltségi célú juttatásból az adó- és az illetékhatáskör címze
 
 (2) Az önkormányzati adóhatóság hatáskörébe tartozó adók, adók módjára behajtandó köztartozások (e rendelkezés alkalmazásában együtt: adó) nyilvántartása során – az adó megállapításához szükséges adatokon túlmenően – csak az adózás rendjéről szóló törvényben meghatározott adóazonosító jelet és a természetes személyazonosító adatokat tartja nyilván.
 
-#### 51/A. §
+51/A. § 51/A. § A 6. § f) pontját és a 7. § h) pontját az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2017. évi LXXVII. törvény hatálybalépését követően megállapított, határozott időre szóló adómértékre kell alkalmazni.
 
 51/B. § (1) Az önkormányzatnak az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel beiktatott 7. § g) pontot első alkalommal a 2017. január 1-jén hatályban lévő adórendeleti szabályokra kell alkalmaznia.
 

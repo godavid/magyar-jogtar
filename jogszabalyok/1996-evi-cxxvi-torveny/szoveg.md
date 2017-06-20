@@ -40,7 +40,7 @@ meghatározottak közül kiválasztott egy-egy kedvezményezett javára.
 
 (2) A 4/A. § (1) bekezdés a) pontja szerinti kedvezményezetteket megillető támogatást az egyházakkal való kapcsolattartás koordinációjáért felelős miniszter utalja át. A 4/A. § (1) bekezdés b) pontja szerinti kiemelt előirányzat javára felajánlott összeget, valamint a kiemelt előirányzatnak az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló 1997. évi CXXIV. törvény 4. § (3) bekezdése szerinti kiegészítő támogatását az előirányzattal érintett költségvetési fejezetet irányító szerv vezetője a 6/D. §-ban meghatározottak szerint használja fel.
 
-(3) Az (1) és (2) bekezdések szerinti utalás nem teljesíthető, amennyiben összege kedvezményezettenként nem éri el a 100 forintot.
+(3) Az (1) és (2) bekezdések szerinti utalás nem teljesíthető, amennyiben összege kedvezményezettenként nem éri el az 1000 forintot.
 
 #### 2. A rendelkezési jog kedvezményezettje
 
@@ -54,7 +54,7 @@ ha belföldi székhelyű és nyilatkozata szerint közhasznú tevékenységet v�
 
 - b) a Magyar Tudományos Akadémia;
 - c)
-- d) a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény 3. számú mellékletében szereplő országos közgyűjtemény és a következőkben felsorolt egyéb kulturális intézmény: 1. Magyar Állami Operaház, 2. Magyar Országos Levéltár, 3. Országos Széchényi Könyvtár, 4. Magyar Nemzeti Filmarchívum, 5. Neumann János Multimédia Központ és Digitális Könyvtár;
+- d) a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény 3. számú mellékletében szereplő országos közgyűjtemény és a következőkben felsorolt egyéb kulturális intézmény: 1. Magyar Állami Operaház, 2. Magyar Országos Levéltár, 3. Országos Széchényi Könyvtár, 4. 5. Neumann János Multimédia Központ és Digitális Könyvtár;
 - e) az országos szakmúzeumok;
 - f) az a könyvtári, levéltári, múzeumi, egyéb kulturális, illetve alkotó- vagy előadó-művészeti tevékenységet folytató szervezet, amely a rendelkező nyilatkozat évének első napja előtti három év valamelyikében a helyi önkormányzattól, az országos, illetve a helyi kisebbségi önkormányzattól vagy a központi költségvetésből egyedi támogatásban részesült és nem tartozik az előző kategóriákba;
 - g) a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 1. mellékletében meghatározott felsőoktatási intézmény;
@@ -98,21 +98,21 @@ ha belföldi székhelyű és nyilatkozata szerint közhasznú tevékenységet v�
 
 5. § (1) A magánszemély a rendelkező nyilatkozatot – függetlenül a személyi jövedelemadó megállapításának és bevallásának módjától – az adóévet követő év május 20-áig juttathatja el az adóhatósághoz. E határidő elmulasztása jogvesztő.
 
-(2) A rendelkező nyilatkozat vagy a rendelkező nyilatkozat megtételére szolgáló elektronikus űrlap tartalmazza a kedvezményezett adószámát, illetve technikai számát. A rendelkező nyilatkozatot tartalmazó borítékon feltüntethető a magánszemély neve és lakcíme is.
+(2) A rendelkező nyilatkozat vagy a rendelkező nyilatkozat megtételére szolgáló elektronikus űrlap tartalmazza a kedvezményezett adószámát, illetve technikai számát. A borítékon vagy a rendelkező nyilatkozaton szerepelnie kell a magánszemély adóazonosító jelének is. A rendelkező nyilatkozatot tartalmazó borítékon feltüntethető a magánszemély neve és lakcíme is.
 
 (3) A rendelkező nyilatkozatot a magánszemély a következő módokon juttathatja el az adóhatósághoz:
 
 - a) adóbevallás esetén az adóbevallási nyomtatványon tünteti fel,
-- b) munkáltatói adómegállapítás esetén a munkáltatója útján,
+- b) ha a munkáltató vállalja, a munkáltatója útján,
 - c) adóbevallás elektronikus úton történő benyújtása esetén az elektronikus űrlapon tünteti fel – kivéve, ha a magánszemély nem maga készíti adóbevallását, és a képviselőjének a rendelkező nyilatkozat megküldésére meghatalmazást nem adott –, vagy
 - d)
-- e) az a)–c) ponttól eltérően a bevallástól elkülönítve, önállóan, lezárt, adóazonosító jelével ellátott postai borítékban személyesen, postán vagy elektronikus űrlapként elektronikus úton.
+- e) az a)–c) ponttól eltérően lezárt postai borítékban személyesen, postán vagy elektronikus űrlapként elektronikus úton.
 
 (3a) E törvény alkalmazásában adóbevallásnak minősül az állami adóhatóság által összeállított adóbevallási tervezet elfogadásával, javításával, kiegészítésével elkészített bevallás is.
 
 (4) Ha a magánszemély a (3) bekezdés a)–c) és e) pontjában meghatározott módon is benyújtja a rendelkező nyilatkozatát, azt a rendelkező nyilatkozatot kell figyelembe venni, amely a (3) bekezdés a)–d) pontjában meghatározott módon érkezett.
 
-(5) A magánszemély a (3) bekezdés b) pontja szerinti esetben az adóhatóság által rendszeresített nyomtatványon vagy azzal egyező adattartalmú lapon megtett rendelkező nyilatkozatát lezárt, adóazonosító jelével ellátott, ragasztott felületére átnyúlóan saját kezűleg aláírt postai borítékban elhelyezve juttatja el a munkáltatójához legkésőbb 10 nappal az (1) bekezdés szerinti időpontot megelőzően. A munkáltató kísérőjegyzéket készít, amely tartalmazza a rendelkező nyilatkozatot tevő személyek nevét, adóazonosító jelét és a boríték átadását igazoló aláírását. A munkáltató a rendelkező nyilatkozat tartalmát nem ismerheti meg, az azt tartalmazó borítékot sértetlen állapotban, a kísérőjegyzékkel együtt, az (1) bekezdés szerinti időpontig zárt csomagban küldi meg az adóhatóságnak.
+(5) A magánszemély a (3) bekezdés b) pontja szerinti esetben az adóhatóság által rendszeresített nyomtatványon vagy azzal egyező adattartalmú lapon megtett rendelkező nyilatkozatát lezárt, ragasztott felületére átnyúlóan saját kezűleg aláírt postai borítékban elhelyezve juttatja el a munkáltatójához legkésőbb 10 nappal az (1) bekezdés szerinti időpontot megelőzően. A munkáltató kísérőjegyzéket készít, amely tartalmazza a rendelkező nyilatkozatot tevő személyek nevét, adóazonosító jelét és a boríték átadását igazoló aláírását. A munkáltató a rendelkező nyilatkozat tartalmát nem ismerheti meg, az azt tartalmazó borítékot sértetlen állapotban, a kísérőjegyzékkel együtt, az (1) bekezdés szerinti időpontig zárt csomagban küldi meg az adóhatóságnak.
 
 5/A. § (1) A rendelkező nyilatkozatban foglalt rendelkezés érvénytelen, ha a következő esetek bármelyike állapítható meg:
 
@@ -203,7 +203,7 @@ ha belföldi székhelyű és nyilatkozata szerint közhasznú tevékenységet v�
 
 (5) A 4. § (1) bekezdésében meghatározott kedvezményezett beszámolási kötelezettsége során az adóhatóság részére megküldött dokumentumok őrzésére az 5/C. § (4) bekezdését kell alkalmazni.
 
-(6) Az adóhatóság a 4. § (1) bekezdésében meghatározott kedvezményezett beszámolási kötelezettsége során az adóhatóság részére megküldött dokumentumokat és a (3) bekezdés szerinti kizáró határozatokat tartalmazó adatbázist elektronikus úton – az e célra kialakított számítógépes rendszeren keresztül – a társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter rendelkezésére bocsátja, aki azokat a felhasználást követő év június 30. napjáig a civil szervezetekkel foglalkozó honlapján közzéteszi azzal, hogy azok e határidőtől számított egy évig, de legalább a következő év ezen adatainak nyilvánosságra hozataláig nem távolíthatók el.
+(6) Az adóhatóság a 4. § (1) bekezdésében meghatározott kedvezményezett beszámolási kötelezettsége során az adóhatóság részére megküldött dokumentumok adataiból az átutalt, illetve köztartozásra visszatartott támogatás, a felhasznált vagy tartalékolt támogatás, valamint a visszafizetendő támogatás összegét honlapján közzéteszi, továbbá a dokumentumokat és a (3) bekezdés szerinti kizáró határozatokat tartalmazó adatbázist elektronikus úton – az e célra kialakított számítógépes rendszeren keresztül – a társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter által vezetett minisztérium rendelkezésére bocsátja, aki azokat a felhasználást követő év június 30. napjáig a civil szervezetekkel foglalkozó honlapján közzéteszi azzal, hogy azok e határidőtől számított egy évig, de legalább a következő év ezen adatainak nyilvánosságra hozataláig nem távolíthatók el.
 
 (7) Az a 4. § (1) bekezdésében meghatározott kedvezményezett, amely rendelkezik általa fenntartott vagy a megbízása alapján működtetett olyan internetes felülettel, amelynek tartalmáért a 4. § (1) bekezdésében meghatározott kedvezményezett felel (a továbbiakban: saját honlap), a beszámolási kötelezettség során az adóhatóság részére megküldött dokumentumokat a saját honlapján is közzéteszi a felhasználást követő év május 31. napjáig, és azt e határidőtől számított egy évig nem távolíthatja el.
 
@@ -277,6 +277,12 @@ ha belföldi székhelyű és nyilatkozata szerint közhasznú tevékenységet v�
 (2) E törvénynek a Módtv.-vel módosított 6/C. § (1) bekezdése rendelkezéseit a hatálybalépéskor folyamatban lévő eljárásokban is alkalmazni kell. A Módtv.-vel megállapított 6/C. § (1) bekezdése hatálybalépése előtt kiutalt támogatások tartalékolása esetén ezen összegeket 2015. december 31-ig fel kell használni.
 
 8/D. § E törvénynek az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról szóló 2016. évi CXXI. törvénnyel megállapított 5/A. § (2), (4) és (5) bekezdését 2017. december 31-ig csak akkor kell alkalmazni, ha az adóhatóság az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+
+8/E. § E törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2017. évi LXXVII. törvénnyel megállapított 3. § (3) bekezdését első alkalommal a 2017. évi rendelkező nyilatkozat szerinti felajánlásokkal összefüggő eljárásokban kell alkalmazni.
+
+8/F. § E törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2017. évi LXXVII. törvénnyel módosított 5. § (2) bekezdését, a (3) bekezdés b) és e) pontját, valamint (5) bekezdését első alkalommal a 2018. évi rendelkező nyilatkozatnál kell alkalmazni.
+
+8/G. § E törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2017. évi LXXVII. törvénnyel módosított 6/C. § (6) bekezdését első alkalommal a 2015. évben kiutalt összegekről benyújtott közleményekre vonatkozóan kell alkalmazni azzal, hogy az adóhatóság első alkalommal 2018. január 1-jét követően teszi közzé honlapján az adatokat, majd ezt követően az adatokat havonta frissíti.
 
 9. § A kedvezményezett a 2012. és 2013. évben a 4. § (2) bekezdés e) pontja szerinti nyilatkozatát a következő tevékenységekre vonatkozóan teszi:
 
