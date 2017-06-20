@@ -131,7 +131,7 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 - b) ingó ajándékozása,
 - c) vagyoni értékű jognak ingyenes alapítása, ilyen jognak vagy gyakorlásának ingyenes átengedése, továbbá az ilyen jogról ellenszolgáltatás nélkül történő lemondás.
 
-(2) Az (1) bekezdésben felsorolt ajándékozás csak akkor esik ajándékozási illeték alá, ha arról okiratot állítottak ki, vagy ingó ajándékozása esetén okirat kiállítása ugyan nem történt, de az egy megajándékozottnak jutó ingó forgalmi értéke a 150 000 forintot meghaladja. Az ilyen ajándékozást a 17. § (1) bekezdés c), k), l), m), p), r), s) pontja alá eső ügyletek kivételével az állami adóhatósághoz 30 napon belül be kell jelenteni. A bejelentésre a 91. § az irányadó.
+(2) Az (1) bekezdésben felsorolt ajándékozás csak akkor esik ajándékozási illeték alá, ha arról okiratot állítottak ki, vagy ingó ajándékozása esetén okirat kiállítása ugyan nem történt, de az egy megajándékozottnak jutó ingó forgalmi értéke a 150 000 forintot meghaladja.
 
 (3) Nem tárgya az ajándékozási illetéknek a vagyoni értékű jog, ha azt az ajándékozó a maga javára tartja fenn, vagy ha az ingatlant az átruházást megelőzően már fennállott és az ingatlan-nyilvántartásba bejegyzett vagyoni értékű joggal terhelten ajándékozzák.
 
@@ -229,7 +229,7 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 - e) a lakosság ellátását szolgáló közüzemi létesítmény és az ehhez tartozó földrészlet kezelői jogának az üzemeltető által történő ingyenes megszerzése;
 - f) az állami tulajdonban levő természetvédelmi terület kezelői jogának a természetvédelmi kezelő által történő megszerzése;
 - g) a lakástakarékpénztárakról szóló törvény szerinti lakás-előtakarékossági szerződés alapján történő vagyonszerzés;
-- h) termőföld megszerzése ajándékozással az egyéni vállalkozónak, őstermelőnek, családi gazdálkodónak minősülő földműves gazdaságátadási támogatása feltételeként, továbbá a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti földhasználat megszerzése;
+- h) termőföld megszerzése ajándékozással az egyéni vállalkozónak, őstermelőnek, családi gazdálkodónak minősülő földműves gazdaságátadási támogatása feltételeként, továbbá a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti földhasználat megszerzése, és annak megszüntetésével bekövetkező vagyonszerzés;
 - i) közhasznú szervezetnek közhasznú tevékenység céljára juttatott ajándék;
 - j) jogszabályi kötelezettségen alapuló ingyenes eszközátadás;
 - k) a munkáltató által a munkavállaló számára adott olyan ingyenes juttatás, amely mentes a személyi jövedelemadó alól;
@@ -356,7 +356,7 @@ szerzett.
 
 ### Haszonélvezet, használat visszterhes vagyonátruházási illetéke
 
-20. § (1) A visszterhes vagyonszerzéssel egyidejűleg alapított haszonélvezet, használat esetében a tulajdonszerző a — 72. § szerint számított — haszonélvezet, használat értékével csökkentett forgalmi érték után fizeti a visszterhes vagyonátruházási illetéket a haszonélvező, használó pedig a haszonélvezet, használat számított értéke után fizeti a szerzés jogcímének megfelelő vagyonszerzési illetéket.
+20. § (1) A visszterhes vagyonszerzéssel egyidejűleg alapított, ingatlan-nyilvántartásba bejegyzett haszonélvezet, használat esetében a tulajdonszerző a — 72. § szerint számított — haszonélvezet, használat értékével csökkentett forgalmi érték után fizeti a visszterhes vagyonátruházási illetéket a haszonélvező, használó pedig a haszonélvezet, használat számított értéke után fizeti a szerzés jogcímének megfelelő vagyonszerzési illetéket.
 
 (2) Nem tárgya a visszterhes vagyonátruházási illetéknek a haszonélvezet fennmaradása, illetve a használati jog megszerzése, ha az ingatlant az átruházását megelőzően már fennállott és az ingatlan-nyilvántartásba bejegyzett haszonélvezettel, használattal terhelten idegenítik el, vagy az elidegenítés az átruházó haszonélvezetének vagy a használat jogának fenntartásával történik. A tulajdonszerző ilyenkor az (1) bekezdés szerint csökkentett forgalmi érték után fizeti a visszterhes vagyonátruházási illetéket. Ezt a szabályt kell alkalmazni akkor is, ha az ingatlan tulajdonjogát annak haszonélvezője, használója szerzi meg.
 
@@ -523,7 +523,7 @@ származik.
 - b) a lakástulajdon magánszemély bérlő vagy annak magánszemély örököse általi megvásárlása, ha a lakás a lakásbérleti szerződés megkötéséig a magánszemély bérlő tulajdonában állt, és a tulajdonjogot a lakásbérleti szerződés megkötése érdekében adták át a bérbeadónak;
 - c) a lakástulajdon megszerzése, ha azt a vagyonszerző a lakásvásárlásról szóló adásvételi szerződésben határozott időre, de legalább 5 évre a vételár 7 százalékát meg nem haladó éves bérleti díj ellenében bérbe adja a lakás korábbi magánszemély tulajdonosának, feltéve, hogy a bérlő vagy annak magánszemély örököse számára a vagyonszerző a lakásvásárlásról szóló adásvételi szerződés hatályának beálltától számított 5 éven belül gyakorolható visszavásárlási jogot létesít, legfeljebb a bérbeadó által fizetett vételár 105 százalékának megfelelő vételáron;
 - d) az ingatlan forgalmi értékéből az épület forgalmi értékének megfelelő rész, ha a telek tulajdonosával kötött megállapodásból és az építés költségeit, körülményeit tanúsító egyéb okiratokból egyértelműen kitűnik, hogy az épületet a vagyonszerző hozta létre;
-- e) a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti földhasználat megszerzése.
+- e) a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti földhasználat megszerzése, és annak megszüntetésével bekövetkező vagyonszerzés.
 
 (2a) Az (1) bekezdés a) pontja szerinti illetékmentesség alkalmazása során az állami adóhatóság a vagyonszerzés után megállapított illetéket – a megfizetés tekintetében – felfüggeszti. Az állami adóhatóság a lakóházépítésre meghatározott 4 éves határidő (a továbbiakban e bekezdés alkalmazásában: határidő) elteltét követő 15 napon belül megkeresi az illetékes építésügyi hatóságot a lakóház felépítésének igazolása céljából. Az állami adóhatóság a felfüggesztett illetéket törli, ha
 
@@ -576,9 +576,9 @@ származik.
 (16) Ha az (1) bekezdés i) és r) pontjaiban meghatározott esetekben a sportcélú ingatlant – a társasági adóról és az osztalékadóról szóló törvény 22/C. § (6) bekezdésének b) pontjában, valamint 22/C. § (7) bekezdésében foglalt esetek kivételével – olyan hivatásos sportszervezet használja, amely nem a társasági adóról és az osztalékadóról szóló törvény 4. § 41. pontja szerinti látvány-csapatsportban működik, akkor az illetékmentesség az adózó választása szerint
 
 - a) de minimis támogatásnak, vagy
-- b) a Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról szóló 2008. augusztus 6-i 800/2008/EK bizottsági rendelet (általános csoportmentességi rendelet – HL L 214/3., 2008.8.9.) szerinti regionális beruházási támogatásnak minősül. E rendelkezés alkalmazásában hivatásos sportszervezetnek minősül a nem látvány-csapatsportágak országos sportági szakszövetsége, országos sportági szövetsége által kiírt versenyrendszerben (bajnokságban) részt vevő (indulási jogot elnyert) sportszervezet – ideértve a sportiskolát és az utánpótlás-nevelés fejlesztését végző alapítványt is – abban az esetben, ha az ilyen sportszervezet hivatásos sportolót alkalmaz.
+- b) a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet 55. cikke szerinti, sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatásnak (a továbbiakban: sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatás) minősül. E rendelkezés alkalmazásában hivatásos sportszervezetnek minősül a nem látvány-csapatsportágak országos sportági szakszövetsége, országos sportági szövetsége által kiírt versenyrendszerben (bajnokságban) részt vevő (indulási jogot elnyert) sportszervezet – ideértve a sportiskolát és az utánpótlás-nevelés fejlesztését végző alapítványt is – abban az esetben, ha az ilyen sportszervezet hivatásos sportolót alkalmaz.
 
-(17) Ha az (1) bekezdés i) és r) pontjaiban meghatározott vagyonszerző, illetve az (1) bekezdés r) pontjában meghatározott vagyonszerzőnek a sportcélú ingatlan létesítésére e törvény alapján köteles jogutódja a (16) bekezdésben meghatározott esetben a de minimis támogatás, illetve a regionális beruházási támogatás feltételeinek nem felel meg, a mentesség alkalmazásának hiányában járó illeték, illetve a megállapított, de meg nem fizetett illeték megfizetésére a 87. § (4)–(5) bekezdéseit kell megfelelően alkalmazni.
+(17) Ha az (1) bekezdés i) és r) pontjaiban meghatározott vagyonszerző, illetve az (1) bekezdés r) pontjában meghatározott vagyonszerzőnek a sportcélú ingatlan létesítésére e törvény alapján köteles jogutódja a (16) bekezdésben meghatározott esetben a de minimis támogatás, illetve a sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatás feltételeinek nem felel meg, a mentesség alkalmazásának hiányában járó illeték, illetve a megállapított, de meg nem fizetett illeték megfizetésére a 87. § (4)–(5) bekezdéseit kell megfelelően alkalmazni.
 
 (18) Az (1) bekezdés p) pontja szerinti illetékmentesség alkalmazásában
 
@@ -588,7 +588,7 @@ származik.
   - ac) a birtokösszevonási célú földcsere,
 - b) nem minősül az (1) bekezdés p) pont pb)–pc) alpontjaiban foglalt feltételek megszegésének a termőföld használatának, hasznosításának a Polgári Törvénykönyv szerinti közeli hozzátartozó (a továbbiakban e bekezdés alkalmazásában: közeli hozzátartozó) javára történő átengedése, feltéve, hogy a vagyonszerző helyett a közeli hozzátartozó földművesként mező-, illetve erdőgazdasági tevékenység céljára hasznosítja a termőföldet, és az 5 éves időtartam hátralévő részében az (1) bekezdés p) pontja szerinti feltételeket vállalja.
 
-(18a) Az (1) bekezdés p) pontja szerinti feltételek vállalásáról a vagyonszerzőnek legkésőbb a fizetési meghagyás jogerőre emelkedéséig kell nyilatkoznia az állami adóhatóságnál. Ha a vagyonszerző az eredetileg vállalt 5 év letelte előtt
+(18a) Az (1) bekezdés p) pontja szerinti feltételek fennállásáról és vállalásáról a vagyonszerzőnek legkésőbb a fizetési meghagyás jogerőre emelkedéséig kell nyilatkoznia az állami adóhatóságnál. Ha a vagyonszerző az eredetileg vállalt 5 év letelte előtt
 
 - a) a termőföldet – a (18) bekezdésben meghatározott tulajdonszerzési módok kivételével – elidegeníti,
 - b) a termőföldön – használatának, hasznosításának a (18) bekezdés szerinti közeli hozzátartozója javára, az ott meghatározott módon történő átengedése kivételével – vagyoni értékű jogot alapít, vagy
@@ -744,11 +744,11 @@ az egyébként járó illeték kétszeresét kell megfizetnie, kivéve a vagyons
 - 41. a személyi adat- és lakcímnyilvántartásban a lakcím érvénytelenné nyilvánítására irányuló eljárás;
 - 42. a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett értesítési cím törlése, ha a törlést a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti címjogosult kezdeményezi;
 - 43. az építésügyi hatóság által a használatbavétel tudomásulvételről kiállított hatósági bizonyítvány;
-- 44. a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján a települési önkormányzat jegyzője vagy a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) által a szociális rászorultság fennállásáról kiállított igazolás, valamint a kincstár által a családi pótlékra való jogosultságra vonatkozóan kiállított igazolás;
+- 44. a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján a települési önkormányzat jegyzője vagy a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) által a szociális rászorultság fennállásáról kiállított igazolás, valamint a családi pótlékra való jogosultságra vonatkozóan kiállított igazolás;
 - 45. a mezőgazdasági termelő székhelye vagy lakóhelye és a művelése alatt álló termőföld, tanya vagy használatában lévő telephely között, termény szállítása esetén, az útdíj köteles elemi útszakaszra vonatkozó, díjmentes viszonylati jegy váltására jogosító hatósági bizonyítvány kiállítására irányuló eljárás;
 - 46. a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásába (a továbbiakban: szolgáltatói nyilvántartás) való felvétel, az adatmódosítás, a szolgáltatói nyilvántartásból való törlés, a szolgáltatói nyilvántartással kapcsolatos bejelentések, a szolgáltatói nyilvántartás adatairól hatósági bizonyítvány kiállítása és a szolgáltatói nyilvántartásból teljesített egyéb adatszolgáltatás;
 - 47. a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti, a mező- és erdőgazdasági hasznosítású föld tulajdonjoga megszerzésének, valamint a földhasználati szerződésnek a mezőgazdasági igazgatási szerv általi hatósági jóváhagyására irányuló eljárás, továbbá a földhasználati nyilvántartási eljárás;
-- 48. kizárólag a hatóság jogszabálysértő, hibás vagy elmulasztott bejegyzése miatt kezdeményezett elsőfokú közigazgatási hatósági eljárás.
+- 48. kizárólag a hatóság jogszabálysértő, hibás vagy elmulasztott bejegyzése, döntése miatt kezdeményezett elsőfokú közigazgatási hatósági eljárás.
 - 49. a hatósági erkölcsi bizonyítvány kiállítása iránti eljárás évente négy alkalommal;
 - 50. a vállalkozói igazolvánnyal és az üzlet működési engedélyével kapcsolatos eljárás;
 - 51. az állandó személyazonosító igazolvány és a lakcímet igazoló hatósági igazolvány kiadására irányuló eljárás;
@@ -757,7 +757,7 @@ az egyébként járó illeték kétszeresét kell megfizetnie, kivéve a vagyons
 - 54. a mozgásában korlátozott személy parkolási igazolványával kapcsolatos eljárás;
 - 55. az oktatási igazolvány kiállítása;
 - 56. a mezőgazdasági és erdészeti gépkezelői jogosítvány kiállítása;
-- 57. a népi iparművészeti igazolvánnyal kapcsolatos eljárás;
+- 57. a népművészeti és népi iparművészeti igazolvánnyal kapcsolatos eljárás;
 - 58. jelnyelvi tolmács névjegyzékbe vételével kapcsolatos eljárás;
 - 59. a közérdekű önkéntes tevékenységről szóló törvény alapján a fogadó szervek bejelentésére és nyilvántartásba vételére irányuló eljárás, a nyilvántartásba vett adatok változásának bejelentésére irányuló eljárás és a közérdekű önkénteseket foglalkoztató szervezetek nyilvántartásából való törlésére irányuló eljárás;
 - 60. a lakáscélú állami támogatás igényléséhez szükséges, a fennálló biztosítási jogviszonyt igazoló egészségbiztosítási pénztári hatósági bizonyítvány kiállítása évente két alkalommal;
@@ -1350,7 +1350,7 @@ közölni. Az ilyen illetékhiány után mulasztási bírság nem szabható ki.
 
 ### Fizetési meghagyás
 
-78. § (1) A kiszabás alapján fizetendő illetékről – ideértve a mulasztási bírságot is – fizetési meghagyást (határozatot) kell kiadni. A fizetési meghagyás tartalmazza a kiszabott illeték összegének megállapításánál figyelembe vett adatokat és az alkalmazott jogszabályokat. Ha a vagyonszerzés az 5. § (1) bekezdés a)–b), h)–l), n)–q) és s)–t) pontja, a 16. § (1) bekezdése, a 17. § (1) bekezdése vagy a 26. § (1) bekezdése alapján – ide nem értve a 16. § (1) bekezdés g) pontja, a 17. § (1) bekezdés b) pontja, a 26. § (1) bekezdés a), f), i), l), p), q), r) és y) pontjai szerinti illetékmentes vagyonszerzéseket – mentes az illeték alól, az állami adóhatóság fizetési meghagyás kibocsátása helyett döntését az ügyiratra jegyzi fel. Az állami adóhatóság ügyiratra feljegyzett döntése kizárólag az illetékmentesség alkalmazásának tényét tartalmazza.
+78. § (1) A kiszabás alapján fizetendő illetékről – ideértve a mulasztási bírságot is – fizetési meghagyást (határozatot) kell kiadni. A fizetési meghagyás tartalmazza a kiszabott illeték összegének megállapításánál figyelembe vett adatokat és az alkalmazott jogszabályokat. Ha a vagyonszerzés az 5. § (1) bekezdés a)–b), h)–l), n)–q) és s)–t) pontja, a 16. § (1) bekezdése, a 17. § (1) bekezdése vagy a 26. § (1) és (1a) bekezdése alapján – ide nem értve a 16. § (1) bekezdés g) pontja, a 17. § (1) bekezdés b) pontja, a 26. § (1) bekezdés a), f), i), l), p), q), r) és y) pontjai, valamint a 26. § (1a) bekezdés a)–d) pontjai szerinti illetékmentes vagyonszerzéseket – mentes az illeték alól, az állami adóhatóság fizetési meghagyás kibocsátása helyett döntését az ügyiratra jegyzi fel. Az állami adóhatóság ügyiratra feljegyzett döntése kizárólag az illetékmentesség alkalmazásának tényét tartalmazza.
 
 (2) Ha az illeték kiszabásakor a rendelkezésre álló adatok alapján az illeték alapja egyértelműen nem állapítható meg, az állami adóhatóság a fizetési meghagyásban közli az ügyféllel, hogy a határozatmódosításának a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerint a döntés módosítására vagy visszavonására nyitva álló időtartamon belül van helye.
 
@@ -1488,7 +1488,7 @@ Erre a kötelezettségre a halálesetet követő meghallgatás, illetve leltáro
 
 (4) A 18. § (2) bekezdés h) pontja szerinti vagyonszerzést csak a 18. § (4) bekezdésében foglalt feltétel teljesülése esetén kell bejelenteni annak, akinek vagyonszerzésével a feltétel teljesült. Az illetékkiszabásra történő bejelentéssel egyidejűleg a vagyonszerző közli a 18. § (4) bekezdésének a)–c) pontjaiban felsorolt személyek közül azoknak az azonosító adatait (név, adóazonosító jel vagy adószám), melyek a vagyonszerzéssel érintett társaságban további vagyoni betétekkel rendelkeznek.
 
-(5) Az (1)–(4) bekezdésben említett bejelentési kötelezettség jogszabály szerint illetékmentes vagyonszerzésre is vonatkozik.
+(5) Az (1)–(4) bekezdésben említett bejelentési kötelezettség – a 17. § (1) bekezdés c), k), l), m), p), r), s) pontja alá eső ügylet, továbbá a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti földhasználat ingyenes megszerzése, valamint a 26. § (1) bekezdés g), h), o) pontja és a 26. § (1a) bekezdés e) pontja alá eső ügylet kivételével – az illetékmentes vagyonszerzésre is vonatkozik.
 
 92. § (1) Az ingatlanügyi hatóság az ingatlan-nyilvántartási bejegyzés végett benyújtott szerződés (okirat) iktatószámmal ellátott és hitelesített másolatát az illetékkiszabáshoz szükséges és rendelkezésre álló egyéb iratokkal együtt az ingatlan-nyilvántartási eljárás befejezését követően haladéktalanul, kísérőjegyzékkel továbbítja az állami adóhatósághoz. Az ingatlanügyi hatóság az ingatlan pénzügyi lízingjére vonatkozó, a futamidő végén tulajdonjog átszállást eredményező szerződéseket a pénzügyi lízingbeadás tényének feljegyzését követően küldi meg az állami adóhatóság részére. A kísérőjegyzék átadása történhet számítógépes adathordozón is.
 
@@ -1594,6 +1594,8 @@ Erre a kötelezettségre a halálesetet követő meghallgatás, illetve leltáro
 
 99/O. § A 17. § (1) bekezdés h) pontjának és a 26. § (1a) bekezdés e) pontjának az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel megállapított rendelkezését a hatálybalépése napján az állami adóhatóság által jogerősen még el nem bírált illetékügyekben is alkalmazni kell.
 
+99/P. § A 17. § (1) bekezdés h) pontjának, a 26. § (1a) bekezdés e) pontjának, a 78. § (1) bekezdésének és a 91. § (5) bekezdésének az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2017. évi LXXVII. törvénnyel megállapított rendelkezését a hatálybalépése napján az állami adóhatóság által jogerősen még el nem bírált illetékügyekben is alkalmazni kell.
+
 ### Felhatalmazás
 
 100. § (1) Felhatalmazást kap az adópolitikáért felelős miniszter arra, hogy rendelettel állapítsa meg
@@ -1688,6 +1690,10 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (5)
 
+(6) A 26. § (1) bekezdés i) és r) pontja az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (HL L 352., 2013. 12.24., 1.o.) hatálya alá tartozó támogatást tartalmaz.
+
+(7) A 26. § (1) bekezdés i) és r) pontja az Európai Unió működéséről szóló szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal való összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187, 2014.6.26.) hatálya alá tartozó támogatást tartalmaz.
+
 ### Melléklet
 
 I. A szabálysértési eljárás illetéke
@@ -1714,7 +1720,7 @@ IV. A másolat és kivonat illetéke
 
 1. Az államigazgatási eljárásban készített hitelesített vagy hitelesítetlen másolat, illetőleg kivonat illetéke – ha e Melléklet kivételt nem tesz – oldalanként magyar nyelvű másolat esetében 100 forint, idegen nyelvű másolat esetében 300 forint. A nem hitelesített fénymásolat illetéke oldalanként 100 forint.
 
-2. Illetékmentes – az elektronikus úton benyújtott adóbevallások kivételével – az adóbevallás másolata.
+2. Illetékmentes az adóbevallás másolata.
 
 3. Illetékmentes a feljelentő részére a szóban tett feljelentésről készített jegyzőkönyv másolatának, az írásban tett feljelentés megtételét igazoló irat másolatának, továbbá a sértett részére a kihallgatásáról, valamint a sértett lakóhelyén, tartózkodási helyén, továbbá a bűncselekmény, szabálysértés helyszínén folytatott helyszíni szemléről készült jegyzőkönyv másolatának egyszeri kiadása.
 
