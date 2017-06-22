@@ -17,7 +17,7 @@ egyes állami tulajdonú ingatlanok ingyenes egyházi tulajdonba adásáról
 
 4–5. §
 
-6. § Az egyes állami és önkormányzati tulajdonú ingatlanok ingyenes átadásáról szóló 2016. évi CLXX. törvény 6. § (1) bekezdésében a „Magyar Katolikus Egyház” szövegrészek helyébe a „Székesfehérvári Egyházmegye” szöveg lép.
+6. §
 
 7. § (1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő ötödik napon lép hatályba.
 
