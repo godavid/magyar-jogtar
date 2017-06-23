@@ -20,7 +20,7 @@ Az Országgyűlés a víziközmű-szolgáltatással kapcsolatos alapvető jogok 
 - f) a regionalitás elve: ha – a felhasználók érdekeire figyelemmel – a víziközmű létrehozása vagy fejlesztése esetében műszaki és gazdaságossági szempontból az egybefüggő, több településre kiterjedő víziközmű-rendszer megvalósítása az ésszerűbb megoldása az elkülönült víziközmű-rendszerekre alapozott változattal szemben, akkor az egybefüggő víziközmű-rendszer kialakítását kell előnyben részesíteni,
 - g) a szolidaritás elve: az a társadalmi léptékben hasznos és támogatandó árképzési mechanizmus, amely az érintett települések víziközmű-üzemeltetési költségeinek víziközmű-szolgáltatás díjaira ható eltérő mértékeit részben vagy egészben kiegyenlíti, és célja a kedvezőtlen költségszint mellett működtethető víziközmű-rendszerrel rendelkező településeken a kedvezőbb díjtételek mellett történő víziközmű-szolgáltatás nyújtás,
 - h) a költségmegtérülés elve: a víziközmű-szolgáltatás igénybevételéért fizetendő díjban a víziközmű működtetésével kapcsolatos indokolt költségeknek – a vízpolitika terén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i 2000/60/EK európai parlamenti és tanácsi irányelv 9. cikkének rendelkezéseivel összhangban – meg kell térülniük,
-- i) a legkisebb költség elve: a víziközmű-rendszer fejlesztésének tervezése és megvalósítása, valamint a víziközmű üzemeltetése során olyan megoldásokat kell előnyben részesíteni, amelyek a jogszabályokban, esetlegesen pályázati kiírásban megjelölt időtartam alatt, ezek hiányában a víziközmű várható élettartama során a víziközmű üzemeltetési biztonságának megtartása vagy javítása mellett a legkisebb mértékben eredményezik a víziközmű-szolgáltatás díjainak emelkedését,
+- i) a legkisebb költség elve: a víziközmű-rendszer fejlesztésének tervezése és megvalósítása, valamint a víziközmű üzemeltetése során olyan megoldásokat kell előnyben részesíteni, amelyek a víziközmű várható élettartama során a víziközmű üzemeltetési biztonságának megtartása vagy javítása mellett a legkisebb mértékben eredményezik a víziközmű-szolgáltatás díjainak emelkedését,
 - j) a víziközművek együttműködtetésének elve: ha egy adott területen az ellátásért felelős azonos, akkor a víziközmű-szolgáltatás általa történő megszervezésénél – az Európai Unió működéséről szóló szerződés versenyszabályainak sérelme nélkül – törekedhet arra, hogy a víziközmű-szolgáltatási ágazati tevékenységet ugyanazon víziközmű-szolgáltató lássa el,
 - k) a keresztfinanszírozás tilalmának elve: a víziközmű-szolgáltatás díját a víziközmű-szolgáltatási ágazatra nézve úgy kell megállapítani, hogy az maradéktalanul fedezetet nyújtson a víziközmű-szolgáltatási ágazati tevékenység indokolt költségeire és ráfordításaira, valamint a víziközmű-szolgáltató e tevékenységével kapcsolatos ésszerű üzleti nyereségére, de nem tartalmazhatja e tevékenységén kívül eső egyéb gazdasági tevékenységei költségeinek, ráfordításainak fedezetét.
 
@@ -75,6 +75,7 @@ szolgálja,
 - 30. fogyatékkal élő felhasználó: a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény szerinti fogyatékossági támogatásban részesülő személy, a vakok személyi járadékában részesülő személy, továbbá az a személy, akinek életét vagy egészségét a víziközmű-szolgáltatás felfüggesztése vagy annak korlátozása közvetlenül veszélyezteti,
 - 31. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet,
 - 32. egyedi szennyvízkezelő berendezés: olyan vízilétesítmény, amely legfeljebb egy ingatlanon keletkező települési szennyvíz nem közműves, biológiai tisztítását energiabevitel segítségével végzi,
+- 33. víziközmű-alap: a víziközmű-szolgáltató és az ellátásért felelősök önkéntes megállapodása alapján létrehozott, a víziközmű-fejlesztések finanszírozását biztosító források összessége, így különösen a használati díjak nyilvántartására és felhasználására szolgáló, elkülönített számlán kezelt pénzügyi eszköz.
 
 ### II. Fejezet — A VÍZIKÖZMŰ-SZOLGÁLTATATÁS HATÓSÁGI FELADATAI
 
@@ -158,7 +159,8 @@ ha az eljárás a 2003. évi uniós csatlakozási szerződésben rögzített der
 - b) az ellenőrzési programban meghatározott iratbemutatás, adatszolgáltatás,
 - c) helyszíni ellenőrzés,
 - d) más hatóságok megkeresése útján beszerzett információk,
-- e) elektronikus nyilvántartások adatai.
+- e) elektronikus nyilvántartások adatai,
+- f) az elektronikus közműnyilvántartásba szolgáltatott adatok.
 
 5/C. § (1) Az ellenőrzés befejezését követő 8 napon belül a Hivatal az ellenőrzött szerv részére megküldi az ellenőrzést lezáró jegyzőkönyv tervezetét.
 
@@ -252,6 +254,8 @@ ha az eljárás a 2003. évi uniós csatlakozási szerződésben rögzített der
 
 (6) A vízilétesítmény (4) és (5) bekezdés szerinti minősítésére nézve a Hivatal az érdekelt ellátásért felelős, az érintett önkormányzat vagy a vízilétesítmény tulajdonosa, üzemeltetője kérelmére indított eljárásban hoz egyedi döntést.
 
+(7) A (6) bekezdésben megjelölt személyek a vízilétesítmény (4) és (5) bekezdés szerinti minősítési eljárásában ügyfélnek minősülnek.
+
 7. § (1) A víziközmű-tulajdonos tulajdonába tartozó rendszerfüggetlen víziközmű-elem a víziközmű-szolgáltatás hatékonyabb megszervezése érdekében a víziközmű-tulajdonossal üzemeltetési szerződést kötött víziközmű-szolgáltató részére elidegeníthető, a víziközmű-szolgáltató tulajdonában állhat.
 
 (2) A víziközmű-szolgáltató a tulajdonában lévő rendszerfüggetlen víziközmű-elemet számviteli elszámolásaiban az egyéb saját tulajdonú eszközeitől elkülönítetten tartja nyilván, és gondoskodik a szükségessé váló felújításáról, pótlásáról.
@@ -268,7 +272,7 @@ ha az eljárás a 2003. évi uniós csatlakozási szerződésben rögzített der
 
 #### 4. A víziközmű-fejlesztés
 
-10. § (1) A víziközmű-fejlesztés megvalósításáról – ha e törvény vagy kormányrendelet másként nem rendelkezik – az ellátásért felelős gondoskodik.
+10. § (1) A víziközmű-fejlesztés megvalósításáról – ha e törvény vagy kormányrendelet másképp nem rendelkezik – az ellátásért felelős gondoskodik, a fejlesztés teljes időszaka alatt a mindenkori víziközmű-szolgáltató szakmai döntésekbe történő bevonásával a 11. § (5) bekezdésben előírtak szerint.
 
 (2) Ha a víziközmű-fejlesztést a víziközmű-szolgáltató vagy önkormányzatok társulása, illetve az önkormányzatok társulása konzorciumi megállapodás keretében végzi, akkor a víziközmű az üzembe helyezésének napjával az ellátásért felelős vagy felelősök tulajdonába kerül. A társulás tagjai ezt megelőzően megállapodhatnak a megvalósított víziközművön fennálló tulajdoni részesedésük mértékéről. Megállapodás hiányában tulajdoni részesedés a víziközmű-fejlesztéshez történő anyagi hozzájárulás mértéke szerint alakul.
 
@@ -284,17 +288,17 @@ ha az eljárás a 2003. évi uniós csatlakozási szerződésben rögzített der
 
 (4) Az ellátásért felelős vagy a víziközmű-szolgáltató, aki nem minősül az adott víziközmű-rendszerre vonatkozó felújítási és pótlási vagy beruházási tervrész benyújtására kötelezettnek, a tervrész tartalmára nézve véleményezési joggal rendelkezik. A véleményezésre a tervrész kézhezvételétől számítva 30 nap áll rendelkezésre. A határidőben közölt írásba foglalt vélemény a jóváhagyásra benyújtott tervrész mellékletét képezi.
 
-(5) Ha a víziközmű-szolgáltató az üzemeltetési jogviszony tartalma szerint nem kötelezettje, vagy egyéb szerződéses jogviszony alapján nem kivitelezője a víziközműre irányuló beruházásnak vagy a tervszerű rekonstrukciós, felújítási és pótlási munkáknak, joga és kötelezettsége, hogy az 1. § (1) bekezdés i) pontjában meghatározott legkisebb költség elve érvényesülésének előmozdítása érdekében, annak területére korlátozottan közreműködjön és szakmai álláspontját kifejtse a fejlesztési munka műszaki tartalmának meghatározása és a kivitelezés szakszerűsége kérdésében. A víziközmű-szolgáltató e minőségében írásban előterjesztett kérdését vagy javaslatát az ellátásért felelős vagy a lebonyolításban közreműködő megbízottja, továbbá a jogszabály által kijelölt beruházó szerv 30 napon belül írásban megválaszolja, véleményezi.
+(5) Ha a víziközmű-szolgáltató az üzemeltetési jogviszony tartalma szerint nem kötelezettje, vagy egyéb szerződéses jogviszony alapján nem kivitelezője a víziközműre irányuló, a 31/A. § (1) bekezdésében meghatározott új víziközmű vagy víziközmű-rendszer létrehozására irányuló beruházásnak vagy a jóváhagyott gördülő fejlesztési tervben meghatározott víziközmű-fejlesztéseknek, joga és kötelezettsége, hogy az 1. § (1) bekezdés i) pontjában meghatározott legkisebb költség elve érvényesülésének előmozdítása érdekében az ellátásért felelős vagy annak megbízottja felé szakmai álláspontját kifejtse, különösen a fejlesztési munka műszaki tartalmának meghatározása, a közbeszerzési dokumentáció összeállítása és a kivitelezés során, azok szakszerűsége és a megfelelő anyagminőségek meghatározása kérdésében. A víziközmű-szolgáltató alkalmazottja vagy megbízottja e minőségében a fejlesztéssel érintett munkaterületre beléphet, írásban előterjesztett kérdését, észrevételét vagy javaslatát az ellátásért felelős vagy a lebonyolításban közreműködő megbízottja, továbbá a jogszabály által kijelölt beruházó szerv köteles figyelembe venni és 15 napon belül írásban megválaszolni. A víziközmű-szolgáltatók és az érintettek az e bekezdésben szabályozott jogaik és kötelezettségeik gyakorlásával összefüggésben a Hivatalnál bejelentést tehetnek. A bejelentés alapján a Hivatal a (6) bekezdés szerinti ellenőrzést folytat.
 
 (5a) A víziközmű fejlesztés indokoltságát megalapozó gördülő fejlesztési terv benyújtására kötelezett vagy azt véleményező víziközmű-szolgáltató, a gördülő fejlesztési tervben szereplő víziközmű fejlesztéséhez szükséges, más kérelmére folyamatban lévő vízügyi hatósági eljárásban ügyfélnek minősül.
 
-(5b) A gördülő fejlesztési terv készítése a víziközmű-rendszer üzemeltetéséből származó díjbevétel vagy fizetendő díj terhére is finanszírozható.
+(5b)
 
 (6) A Hivatal a jóváhagyott felújítási és pótlási tervben, valamint beruházási tervben foglaltak végrehajtását ellenőrzi.
 
 #### 5. A víziközművek vagyonértékelése, nyilvántartása
 
-12. § (1) A víziközmű tulajdonosa a 16. § szerinti pályázat kiírását – ha pályázat kiírására nem kerül sor, az üzemeltetési szerződés megkötését – megelőzően, a 78. §-ban meghatározott víziközmű tulajdonos pedig az ott meghatározott határidőig az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott módon vagyonértékelést végez és annak eredményét legkésőbb a soron következő mérlegkészítés fordulónapjával könyvein átvezeti. A vagyonértékelés költsége a használati díjból is finanszírozható.
+12. § (1) A víziközmű tulajdonosa a 16. § szerinti pályázat kiírását – ha pályázat kiírására nem kerül sor, az üzemeltetési szerződés megkötését – megelőzően, a 78. §-ban meghatározott esetben pedig az ott meghatározott határidőig az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott módon vagyonértékelést végez és annak eredményét legkésőbb a soron következő mérlegkészítés fordulónapjával könyvein átvezeti.
 
 (2) A vagyonértékelés az üzemeltetési szerződés mellékletét képezi.
 
@@ -329,7 +333,9 @@ ha az eljárás a 2003. évi uniós csatlakozási szerződésben rögzített der
 
 (3) A víziközmű-szolgáltató a víziközmű működtető eszközöket elkülönítetten tartja nyilván.
 
-(4) E § alkalmazásában víziközmű működtető eszköz a víziközmű-szolgáltatás ellátásának szakmai és technikai feltételrendszerét biztosító olyan eszköz, amely nem minősül víziközműnek.
+(4) E § alkalmazásában víziközmű-működtető eszköz a – folyamatirányító rendszerek kivételével – víziközmű-szolgáltatás ellátásának szakmai és technikai feltételrendszerét biztosító olyan eszköz, amely nem minősül víziközműnek, ideértve az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvényben meghatározott elektronikus információs rendszert is.
+
+(5) A (4) bekezdés szerinti elektronikus információs rendszer védelméről a víziközmű-szolgáltató köteles gondoskodni, az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvényben foglalt szabályok szerint.
 
 ### IV. Fejezet — A VÍZIKÖZMŰ-ÜZEMELTETÉSI JOGVISZONY
 
@@ -824,9 +830,9 @@ alapul.
 
 (3) Ha az ingatlan tulajdonosa a bekötés valamennyi műszaki előfeltételét teljesítette, a víziközmű-szolgáltató az ingatlan víziközmű-rendszerhez történő csatlakoztatását és a közszolgáltatási szerződés létrejöttét nem tagadhatja meg.
 
-(4) Ha az ingatlan tulajdonosa az (1) bekezdésben foglalt kötelezettségét a (2) bekezdésben meghatározott határidőben nem teljesíti, a víziközmű-szolgáltató kérelmére a tulajdonost a járási hivatal kötelezi az ingatlan beköttetésére. A járási hivatal eljárása igazgatási szolgáltatási díjfizetési kötelezettséget nem von maga után.
+(4) Ha az ingatlan tulajdonosa az (1) bekezdésben foglalt kötelezettségét a (2) bekezdésben meghatározott határidőben nem teljesíti, a víziközmű-szolgáltató bejelentésére a tulajdonost a járási hivatal kötelezi az ingatlan beköttetésére. A járási hivatal eljárása igazgatási szolgáltatási díjfizetési kötelezettséget nem von maga után.
 
-(5) A víziközmű-szolgáltató a (4) bekezdés szerint előterjesztett kérelmében
+(5) A víziközmű-szolgáltató a (4) bekezdés szerinti bejelentésében
 
 - a) közli az érintett ingatlan helyrajzi számát és címét,
 - b) ismerteti az (1) bekezdés a) pontjában rögzített feltételek fennállását,
@@ -838,13 +844,13 @@ alapul.
 - a) az ivóvíz-törzshálózatra történő bekötési kötelezettség alól, ha az ingatlan vízellátása a vízügyi hatóság által engedélyezett és a vízgazdálkodásról szóló 1995. évi LVII. törvény 1. számú melléklet 26. pont b) alpontjában meghatározott saját célú vízilétesítményből biztosított,
 - b) a szennyvízelvető rendszerre történő bekötési kötelezettség alól, ha az ingatlanon keletkező szennyvíz elvezetése, tisztítása és ártalommentes elhelyezése vagy hasznosítása a vízügyi hatóság által engedélyezett és a vízgazdálkodásról szóló 1995. évi LVII. törvény 1. számú melléklet 26. pont b) alpontjában meghatározott saját célú vízilétesítménnyel biztosított vagy az ingatlanon keletkező szennyvíz tisztítása az építésügyi hatóság által engedélyezett egyedi szennyvízkezelő berendezéssel megoldott vagy az ezen engedélyek megszerzésére vonatkozó kérelmet a (2) bekezdés szerinti felszólítást megelőzően az ingatlan tulajdonosa vagy jogcímes használója előterjesztette.
 
-(7) A járási hivatal a víziközmű-szolgáltató (4) bekezdés szerint előterjesztett kérelmét elutasíthatja, ha az eset összes körülményére tekintettel a tulajdonostól nem várható el, hogy a kötelezésnek eleget tegyen. E körben a járási hivatal mérlegeli, hogy
+(7) A járási hivatal a kötelezési eljárás lefolytatásának mellőzése mellett dönt, ha az eset összes körülményére tekintettel a tulajdonostól nem várható el, hogy a kötelezésnek eleget tegyen. E körben a járási hivatal mérlegeli, hogy
 
 - a) az ingatlan használata víziközmű-szolgáltatás hiányában biztosított-e,
 - b) víziközmű-szolgáltatás hiányában fennáll-e a felszíni és felszín alatti vizek állapotának, valamint a földtani közegnek a közvetlen veszélyeztetése, vagy
-- c) a kérelem előterjesztése időpontjában van-e az ellátásért felelősnek vagy a víziközmű-szolgáltatónak jogszabályban vagy szerződésben előírt teljesítetlen kötelezettsége víziközmű-rendszerhez történő csatlakozási arány vonatkozásában.
+- c) a bejelentés benyújtása időpontjában van-e az ellátásért felelősnek vagy a víziközmű-szolgáltatónak jogszabályban vagy szerződésben előírt teljesítetlen kötelezettsége víziközmű-rendszerhez történő csatlakozási arány vonatkozásában.
 
-(8) A feltárt tényállás összes körülményére tekintettel a járási hivatal kötelezés kibocsátása vagy kérelem elutasítása helyett az ingatlan tulajdonosával hatósági szerződésben is megállapodhat a bekötés megvalósításáról.
+(8) A feltárt tényállás összes körülményére tekintettel a járási hivatal kötelezés kibocsátása vagy a kötelezési eljárás lefolytatásának mellőzése helyett az ingatlan tulajdonosával hatósági szerződésben is megállapodhat a bekötés megvalósításáról.
 
 (9) Az állam mint tulajdonos az (1) és (2) bekezdés szerinti kötelezettségek, továbbá a felhasználó díjtartozása vonatkozásában felmerülő mögöttes felelősség alól mentesül a Nemzeti Eszközkezelő Zrt. által a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján megvásárolt lakóingatlanok esetében.
 
@@ -917,9 +923,11 @@ valamint a közműves szennyvízelvezetés és -tisztítás tekintetében
 (3) A víziközmű-szolgáltató az alábbi feltételek együttes fennállása esetében jogosult az (1) bekezdés szerinti intézkedések megtételére:
 
 - a) a lakossági felhasználó fizetési kötelezettségével 60 napot meghaladó késedelembe esett vagy az 52. § (2a) bekezdése szerinti elszámolási módot választó elkülönített vízhasználó hitelesítéssel nem rendelkező mellékvízmérőt működtet, valamint ha az e törvény és a végrehajtására kiadott kormányrendeletben meghatározott módon nem teszi lehetővé a mellékvízmérő leolvasását,
-- b) a lakossági felhasználó által fizetési haladék adásáról vagy részletfizetési lehetőségről kezdeményezett egyeztetés esetében az egyeztetés a víziközmű-szolgáltatóval nem vezetett eredményre, vagy az (1) bekezdés d) pontjának alkalmazásában egyeztek meg,
+- b)
 - c) a víziközmű-szolgáltató a felhasználót az (1) bekezdésben meghatározott következmények kilátásba helyezésével fizetési kötelezettsége teljesítésére a (4) bekezdésben foglaltak szerint legalább kétszer írásban felszólította, és a második felszólításban a szociálisan rászoruló felhasználó figyelmét felhívta az e törvény és a végrehajtására kiadott kormányrendelet alapján őt megillető kedvezményekre, valamint
 - d) a felhasználási hely fekvése szerint illetékes népegészségügyi szervet a (4) bekezdésben foglaltak szerint értesítette.
+
+(3a) Ha a víziközmű-szolgáltató és a lakossági felhasználó az (1) bekezdés d) pontjában foglaltak alkalmazásában állapodott meg, de az előrefizetős mérő alkalmazásában történt megállapodást követően az előrefizetős mérő a felhasználói díjfizetés hiánya miatt lezár, akkor az (1) bekezdés a)–c) pontjaiban foglaltak alkalmazhatóak.
 
 (4) A lakossági felhasználó (3) bekezdés c) pontja szerinti első felszólítása – a felhasználó elektronikus úton történő kapcsolattartásra is kiterjedő előzetes és kifejezett hozzájárulása esetén – elektronikusan, postai vagy a lakossági felhasználó általi átvétel igazolására alkalmas más egyéb módon, a felfüggesztés vagy a korlátozás lehetőségére vonatkozó második felszólítása tértivevényes levélben történik. Az illetékes népegészségügyi szervet a második felszólítással egyidejűleg, legalább 8 nappal az intézkedés bevezetését megelőzően kell értesíteni.
 
@@ -1023,7 +1031,7 @@ valamint a közműves szennyvízelvezetés és -tisztítás tekintetében
 - b) az a) pontban meghatározott adatok a 61. § (3) bekezdés a)–g) pontjában meghatározott szervek részére kizárólag abban az esetben adhatók át, ha a felhasználó, illetve a víziközmű-szolgáltató védendő felhasználói státusszal közvetlenül összefüggő jogának vagy igényének további érvényesítése végett feltétlenül szükséges,
 - c) a nyilvántartásba a 61. § (3) bekezdés i) pontjában meghatározott szerv, valamint személyes adatai vonatkozásában a védendő felhasználó jogosult betekinteni.
 
-(7) A nyilvántartásba történő felvételt követően a védendő felhasználó minden év március 31-ig köteles igazolni, hogy védettsége továbbra is fennáll. Az a fogyatékkal élő felhasználó, akinek a nyilvántartásba történő felvétele során a szakorvosi vélemény kimondja, hogy állapotában nem várható jelentős javulás, mentesül a védendő felhasználói körbe tartozás évenkénti igazolása alól.
+(7) A nyilvántartásba történő felvételt követően a védendő felhasználó minden év március 31-ig köteles igazolni, hogy védettsége továbbra is fennáll. A határozott időre megállapított védettség esetén a védendő felhasználó a védettségre megállapított határozott időszak alatti években, illetve a védettség lejáratának évében mentesül a március 31-ei igazolási kötelezettség alól, a védettség lejáratának évében csak az e törvény végrehajtására kiadott kormányrendeletben előírtak szerint kell igazolnia a víziközmű-szolgáltató felé a védettsége fennállását. Az a fogyatékkal élő felhasználó, akinek a nyilvántartásba történő felvétele során a szakorvosi vélemény kimondja, hogy állapotában nem várható jelentős javulás, mentesül a védendő felhasználói körbe tartozás évenkénti igazolása alól.
 
 (8) Ha a védettségét megalapozó körülmények megváltozása folytán a lakossági felhasználó már nem jogosult kedvezményre, vagy annak évenkénti igazolását elmulasztja, az (1) bekezdés szerinti célból rögzített adatait a nyilvántartásból törölni kell. A nyilvántartásból törölt adatokat a víziközmű-szolgáltató elkülönítetten kezeli és azokat – ha a 61. § (2) bekezdése szerint a felhasználó valamennyi adatának törlésére hamarabb nem kerül sor – a törléstől számítottan 5 évig tárolja. A nyilvántartásból törölt felhasználót a törlésről 8 napon belül írásban értesíti az adatkezelő.
 
@@ -1180,7 +1188,7 @@ kiállított számla érvénytelen.
 - a) közszolgáltatási szerződéses jogviszony esetében a felhasználási helyen biztosítandó szolgáltatási kapacitásért,
 - b) a víziközmű-szolgáltatásba bekapcsolt ingatlanhoz biztosított kapacitás általa kezdeményezett bővítéséért,
 - c) a víziközmű-szolgáltatás minőségének (a víz minőségi paramétereinek) általa igényelt emelése esetében, továbbá
-- d) az új bekötés megvalósítását megelőzően.
+- d) az új bekötés megvalósítását megelőzően, ha a bekötés a nem lakossági felhasználó által, nem továbbértékesítésre épített újépítésű lakás víziközmű-szolgáltatását szolgálja.
 
 (2) Nem kell víziközmű-fejlesztési hozzájárulást fizetnie a központi költségvetési szervnek és intézményének, a helyi önkormányzatnak és annak költségvetési intézményének, valamint normatív állami támogatásban részesülő, közfeladatot ellátó, nem nyereség- és vagyonszerzési célt szolgáló egyéb intézménynek.
 
@@ -1408,7 +1416,7 @@ rendeletben állapítsa meg.
 
 86. § Ha 2014. január 1-jén a víziközmű-szolgáltatást végző a víziközműben tulajdoni hányaddal rendelkezik, a víziközmű tulajdonjogának 79. § szerinti átruházásig a saját víziközmű eszközeire vonatkozó felújítási és pótlási tervet a víziközmű-szolgáltatást végző készíti és nyújtja be a Hivatalhoz. A felújítási és pótlási tervet az ellátásért felelős részére a Hivatal jóváhagyó határozatával együtt, a határozat kézhezvételétől számított 8 napon belül tájékoztatásul meg kell küldeni.
 
-87. § (1) A 74. § (4) bekezdés 1. pontjában meghatározott rendelet hatálybalépéséig a 2015. július 1-jén hatályos megállapodásban vagy a közérdekű üzemeltető kijelöléséről szóló határozatban meghatározott használati díj alkalmazandó.
+87. § (1) A 74. § (4) bekezdés 1. pontjában meghatározott rendelet hatálybalépéséig a 2015. július 1-jén hatályos megállapodásban vagy a közérdekű üzemeltető kijelöléséről szóló határozatban meghatározott használati díj, továbbá ha 2015. július 1-jén vagyonkezelési szerződés volt érvényben, az elszámolt értékcsökkenésnek megfelelő használati díj alkalmazandó, amennyiben a felek bérleti-üzemeltetési szerződés megkötése mellett döntenek.
 
 (2) A Hivatal elnöke a víziközmű-fejlesztési hozzájárulás mértékét első alkalommal 2015. november 30-ig állapítja meg. A Hivatal elnöke rendeletének hatálybalépéséig a víziközmű-szolgáltató a 2014. december 31-én alkalmazott víziközmű-fejlesztési hozzájárulás mértékét alkalmazhatja.
 
@@ -1420,11 +1428,15 @@ rendeletben állapítsa meg.
 
 (4) A Nyilvántartásba betekinteni, illetve abból adatot igényelni legkorábban 2014. szeptember 1. napjától lehet.
 
+87/B. § E törvénynek a víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény módosításáról szóló 2017. évi LXV. törvény (a továbbiakban: Módtv.2.) 10. §-a által megállapított 58. § (3a) bekezdését a Módtv.2. hatálybalépését megelőzően megkötött érvényes szerződésekre is alkalmazni kell.
+
 #### 26. Az Európai Unió jogának való megfelelés
 
 88. § (1) E törvény 62. §-a a vízvédelmi politika terén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i 2000/60/EK európai parlamenti és tanácsi irányelv 9. cikk (1) bekezdésének való megfelelést szolgálja.
 
 (2) Ez a törvény a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+(3) E törvény 14. § (4) és (5) bekezdése a hálózati és információs rendszerek biztonságának az egész Unióban egységesen magas szintjét biztosító intézkedésekről szóló, 2016. július 6-i 2016/1148 európai parlamenti és tanácsi irányelv 14. cikk (1)–(2) bekezdésének való megfelelést szolgálja.
 
 88/A. § A 72/A. § tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
 

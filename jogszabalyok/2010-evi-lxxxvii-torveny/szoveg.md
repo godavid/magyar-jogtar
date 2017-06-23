@@ -255,6 +255,10 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 (3) A vagyonnyilvántartásban elkülönülten kell nyilvántartani a jövedelmező mezőgazdasági művelésre nem alkalmas (különösen belvizes, szikes) földrészleteket.
 
+17/A. § (1) A 17. §-ban meghatározott vagyonnyilvántartásban az eszközök között nyilvántartott vagyon esetén, az e törvény hatálya alá tartozó földrészletek értékének nyilvántartásától el lehet tekinteni, ha azok értéke természeténél, jellegénél fogva nem állapítható meg. Ebben az esetben az állami tulajdonban álló földrészletet érték helyett a közhiteles ingatlan-nyilvántartásban szereplő térmértékegységen és aranykorona-értéken szükséges nyilvántartani.
+
+(2) Amennyiben az (1) bekezdés szerinti ingatlant vagyonkezelésbe adja az NFA, a vagyonkezelő a számvitelről szóló jogszabályoknak megfelelően vezetett vagyonnyilvántartásában azt az (1) bekezdés szerint tartja nyilván.
+
 18. § (1) Az NFA – a 21. és 22. §-ban meghatározottak kivételével – a Nemzeti Földalapba tartozó földrészletet
 
 - a) nyilvános pályázat vagy árverés útján történő eladással,

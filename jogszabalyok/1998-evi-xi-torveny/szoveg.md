@@ -44,10 +44,12 @@ az ügyvédekről
 - h) a cég – általa készített – létesítő okiratának és e cég bejegyzési (változásbejegyzési) kérelme további mellékleteinek elektronikus okirati formába alakítása,
 - h)
 - i) felelős akkreditált közbeszerzési szaktanácsadói tevékenység,
-- j) bejelentővédelmi ügyvédi tevékenység.
-- k)
+- j) bejelentővédelmi ügyvédi tevékenység,
+- k) bizalmi vagyonkezelési tevékenység.
 
 (4) A (3) bekezdés h) pontjában meghatározott tevékenységet az folytathatja, aki az ügyvédi kamara által meghatározott technikai feltételekkel rendelkezik és a kamara nyilvántartásba vett.
+
+(5) Bizalmi vagyonkezelési tevékenység és egyéb ügyvédi tevékenység ugyanazon ügyfél számára egyidejűleg nem végezhető, kivéve, ha a megbízott ügyvédi iroda, a megbízást az ügyvédi iroda különböző tagjai látják el, és az ügyfél ehhez írásban kifejezetten hozzájárul.
 
 ### Összeférhetetlenség
 

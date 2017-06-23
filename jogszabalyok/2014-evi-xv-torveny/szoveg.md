@@ -11,9 +11,9 @@ A nemzetközi versenyképesség fejlesztése, a bizalmi vagyonkezelői tevékeny
 1. § E törvény hatálya kiterjed
 
 - a) a Polgári Törvénykönyvről szóló törvényben (a továbbiakban: Ptk.) szabályozott bizalmi vagyonkezelési szerződést kötő bizalmi vagyonkezelő vállalkozás működésének és gazdálkodásának feltételeire,
-- b) a Magyar Nemzeti Bank (a továbbiakban: hivatal) bizalmi vagyonkezelő vállalkozások tevékenységének engedélyezési és nyilvántartási eljárására,
+- b) a Magyar Nemzeti Bank (a továbbiakban: hivatal) bizalmi vagyonkezelő vállalkozások tevékenységének engedélyezési és nyilvántartási eljárására, az engedélyezési feltételek meglétének vizsgálatára,
 - c) a hivatalnak a bizalmi vagyonkezelési jogviszonyok bejelentési és nyilvántartási eljárására,
-- d) a hivatal bizalmi vagyonkezelők felett gyakorolt ellenőrzésére,
+- d)
 - e) a bizalmi vagyonkezelő vállalkozás bizalmi vagyonkezelési tevékenységének végzésére.
 
 #### 2. Értelmező rendelkezések
@@ -29,27 +29,34 @@ A nemzetközi versenyképesség fejlesztése, a bizalmi vagyonkezelői tevékeny
   - f) az a)–e) pontban foglalt személyek Ptk.-ban meghatározott hozzátartozója.
 - 2. vezető állású személy:
   - a) a vezető tisztségviselő és a felügyelő bizottság tagja,
-  - b) a fióktelep vezetésére a külföldi vállalkozás által kinevezett személy és annak közvetlen helyettese, és
-  - c) akit a létesítő okirat vagy a működésre vonatkozó belső szabályzat ilyenként határoz meg.
+  - b) a fióktelep vezetésére a külföldi vállalkozás által kinevezett személy annak közvetlen helyettese,
+  - c) ügyvédi iroda esetén az irodavezető, illetve a szervezeti képviseletet ellátó személy, valamint
+  - d) akit a létesítő okirat vagy a működésre vonatkozó belső szabályzat ilyenként határoz meg.
 
 ### II. Fejezet — A BIZALMI VAGYONKEZELŐ VÁLLALKOZÁS MŰKÖDÉSÉNEK FELTÉTELEI
 
 #### 3. A bizalmi vagyonkezelő vállalkozás működésének szervezeti feltételei
 
-3. § (1) Bizalmi vagyonkezelési tevékenységet rendszeresen (legalább évente kétszeri bizalmi vagyonkezelési szerződéskötéssel), vagy a kezelt vagyon szerződéskötéskor fennálló értékének egy százalékát meghaladó mértékű vagyonkezelési díj vagy más gazdasági előny megszerzése érdekében (a továbbiakban együtt: üzletszerűen) a hivatal által a tevékenység megkezdése előtt kibocsátott engedéllyel (a továbbiakban: engedély) rendelkező, a nemzeti vagyonról szóló törvényben meghatározott átlátható szervezetnek minősülő,
+3. § (1) Üzletszerű bizalmi vagyonkezelési tevékenységet végez az a bizalmi vagyonkezelő, aki legalább két bizalmi vagyonkezelési jogviszony alapján végzi tevékenységét. Üzletszerű bizalmi vagyonkezelési tevékenység a hivatal által kibocsátott engedély (a továbbiakban: engedély) birtokában végezhető.
 
-- a) Magyarország területén székhellyel rendelkező korlátolt felelősségű társaság vagy zártkörűen működő részvénytársaság, vagy
-- b) az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező vállalkozás Magyarországon nyilvántartásba vett fióktelepe
+(2) Üzletszerű bizalmi vagyonkezelési tevékenységet
 
-végezhet (a továbbiakban: bizalmi vagyonkezelő vállalkozás).
+- a) Magyarország területén székhellyel rendelkező korlátolt felelősségű társaság vagy zártkörűen működő részvénytársaság,
+- b) az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező vállalkozás Magyarországon nyilvántartásba vett fióktelepe (a továbbiakban: fióktelep), valamint
+- c) ügyvédi iroda
 
-(2) A bizalmi vagyonkezelő vállalkozás főtevékenységként csak bizalmi vagyonkezelést végezhet, melléktevékenységként pedig a bizalmi vagyonkezelési kötelezettség teljesítéséhez szükséges, azzal közvetlenül összefüggő tevékenységet végezhet.
+(a továbbiakban együtt: bizalmi vagyonkezelő vállalkozás) végezhet.
 
-(3) Bizalmi vagyonkezelői tevékenység az e törvényben meghatározott feltételek teljesítése esetén kezdhető meg és folytatható.
+(3) A bizalmi vagyonkezelő vállalkozás
 
-(4) A bizalmi vagyonkezelő vállalkozás köteles cégnevének vezérszavában e minőségét magyar nyelven szerepeltetni.
+- a) megfelel a nemzeti vagyonról szóló törvényben meghatározott átlátható szervezetre vonatkozó előírásoknak,
+- b) jó üzleti hírnévvel rendelkezik,
+- c) – ide nem értve az ügyvédi irodát – főtevékenységként csak bizalmi vagyonkezelést, melléktevékenységként pedig a bizalmi vagyonkezelési kötelezettség teljesítéséhez szükséges, azzal közvetlenül összefüggő tevékenységet végez,
+- d) – ide nem értve az ügyvédi irodát – köteles cégnevének vezérszavában e minőségét magyar nyelven szerepeltetni,
+- e) szerepel a köztartozásmentes adózói adatbázisban, vagy az állami adóhatóságnál tartozása nem áll fenn, valamint
+- f) nem lehet olyan vállalkozás, amelynek felügyeleti szerve – az engedély kiadása iránti kérelem benyújtását megelőző tíz éven belül – tevékenység-végzési engedélyét hivatalból visszavonta.
 
-(5) A bizalmi vagyonkezelő vállalkozás Magyarországon jogosult tevékenysége elsődleges folytatására, tevékenysége gyakorlása elsődleges helyét más államba nem helyezheti át.
+(4) A bizalmi vagyonkezelő vállalkozás tagja (tulajdonosa) nem folytathat üzletszerű és nem üzletszerű bizalmi vagyonkezelési tevékenységet.
 
 #### 4. A bizalmi vagyonkezelő vállalkozás működésének személyi feltételei
 
@@ -71,10 +78,12 @@ kizáró foglalkozástól eltiltás hatálya alatt,
 
 (3) A jó üzleti hírnevet a kérelmezőnek, illetve annak kell bizonyítania, akinek érdekében áll, hogy azt a hivatal elfogadja. A jó üzleti hírnév igazolásának módját a kérelmező megválaszthatja, azonban a hivatal egyéb, általa meghatározott iratok (okmányok) benyújtását írhatja elő. A hivatal a jó üzleti hírnév fennállásának megállapítása érdekében az illetékes külföldi hatóságot közvetlenül megkeresheti.
 
-(4) A jó üzleti hírnév bizonyításának sikertelenségét a hivatalnak határozattal kell megállapítania. Jó üzleti hírnevéhez nem fér kétség annak,
+(3a) A jó üzleti hírnév fennállásának megállapítása érdekében a hivatal megkeresésére az állami adó- és vámhatóság a kérelmezőre, annak tagjára, valamint vezető állású személyére vonatkozóan a jó üzleti hírnevet befolyásoló, az állami adó- és vámhatóság rendelkezésére álló információ átadása érdekében adatot szolgáltat. A hivatal az adatokat az eljárás jogerős lezárásáig kezelheti.
 
-- a) aki mentes a bizalmi vagyonkezelő vállalkozás óvatos, körültekintő és megbízható működését veszélyeztető befolyástól, jó üzleti hírnévvel rendelkezik, valamint biztosítani képes a bizalmi vagyonkezelő vállalkozás megbízható, gondos irányítását, ellenőrzését, illetve működését,
-- b) akinek üzleti kapcsolatrendszere és tulajdonosi szerkezete átlátható és ezáltal nem zárja ki a bizalmi vagyonkezelő feletti hatékony ellenőrzés gyakorlását.
+(4) A jó üzleti hírnév bizonyításának sikertelenségét a hivatalnak határozattal kell megállapítania. Jó üzleti hírnévvel rendelkezik az,
+
+- a) aki mentes a bizalmi vagyonkezelő vállalkozás óvatos, körültekintő és megbízható működését veszélyeztető befolyástól, valamint biztosítani képes a bizalmi vagyonkezelő vállalkozás megbízható, gondos irányítását, ellenőrzését, illetve működését,
+- b) akinek üzleti kapcsolatrendszere és tulajdonosi szerkezete átlátható.
 
 (5) A bizalmi vagyonkezelő vállalkozás köteles legalább egy fő mesterképzésben szerzett közgazdász szakképzettséggel rendelkező közgazdászt, egy fő jogi szakvizsgát tett jogászt – teljes napi munkaidőben – munkaviszonyban foglalkoztatni, továbbá egy fő független könyvvizsgálót megbízási jogviszonyban foglalkoztatni.
 
@@ -108,14 +117,14 @@ kizáró foglalkozástól eltiltás hatálya alatt,
 6. § A bizalmi vagyonkezelő vállalkozás köteles honlapot fenntartani és azon közzétenni
 
 - a) létesítő okiratát,
-- b) cégjegyzékszámát,
+- b) cégjegyzékszámát vagy ügyvédi kamarai nyilvántartási számát,
 - c) adószámát,
 - d) szervezeti és működési szabályzatát,
-- e) számviteli beszámolóját,
+- e) számviteli törvény szerinti beszámolóját,
 - f) közvetett és közvetlen tulajdonosainak névsorát, jogi személy esetén cégjegyzékszámát, székhelyét, és
 - g) a bizalmi vagyonkezelő vállalkozások nyilvántartásában nyilvántartási számát.
 
-7. § (1) A bizalmi vagyonkezelő vállalkozás köteles e tevékenysége körében okozott károk, sérelemdíjak megtérítésére a kezelt vagyonok összértékével arányos, de legalább hetvenmillió forint összegű – kormányrendeletben meghatározott – pénzügyi biztosíték létrehozására szerződést kötni, és azt bizalmi vagyonkezelői tevékenységének tartama alatt fenntartani. A Kormány rendeletben határozza meg a pénzügyi biztosíték és a kezelt vagyon kötelező arányát, és meghatározhatja a kiegészítő pénzügyi biztosíték létrehozását szükségessé tévő körülményeket és az azok fennállta esetére létrehozandó pénzügyi biztosíték típusát, legkisebb összegét.
+7. § (1) A bizalmi vagyonkezelő vállalkozás saját tőkéjén felül köteles e tevékenysége körében okozott károk, sérelemdíjak megtérítésére a kezelt vagyonok összértékével arányos, de legalább hetvenmillió forint összegű – kormányrendeletben meghatározott – pénzügyi biztosíték létrehozására szerződést kötni, és azt bizalmi vagyonkezelői tevékenységének tartama alatt fenntartani. A Kormány rendeletben határozza meg a pénzügyi biztosíték és a kezelt vagyon kötelező arányát, és meghatározhatja a kiegészítő pénzügyi biztosíték létrehozását szükségessé tévő körülményeket és az azok fennállta esetére létrehozandó pénzügyi biztosíték típusát, legkisebb összegét.
 
 (2) A bizalmi vagyonkezelő vállalkozás köteles a kérelem előterjesztésekor és működése során folyamatosan legalább hetvenmillió forint összegű – a jegyzett tőkéből, a tőketartalékból és az eredménytartalékból számított – saját tőkével rendelkezni. Kormányrendelet meghatározhat saját tőke növelését szükségessé tevő körülményeket, és azok beállta esetére a kötelező saját tőke legkisebb összegét.
 
@@ -139,7 +148,7 @@ kizáró foglalkozástól eltiltás hatálya alatt,
 
 (2) A kérelemhez mellékelni kell
 
-- a) a kérelmező létesítő okiratát és annak valamennyi módosítását,
+- a) a kérelmező létesítő okiratát és annak valamennyi módosítását, vagy egységes szerkezetbe foglalt létesítő okiratát,
 - b) a kérelmező
   - ba) korlátolt felelősségű társaság hatályos tagjegyzékét,
   - bb) részvénytársaság részvénykönyvét,
@@ -152,16 +161,16 @@ kizáró foglalkozástól eltiltás hatálya alatt,
 - g) a saját tőke befizetését igazoló iratot, valamint a saját tőke befizetéséhez szükséges összeg törvényes eredetének igazolását,
 - h) az olyan gazdasági társaság megnevezését, cégjegyzékszámát, székhelyét és tevékenységi körét tartalmazó nyilatkozatát, amelyben a kérelmezőnek részesedése van, feltüntetve a részesedés mértékét,
 - i) a kérelmező számviteli politikájának és számviteli rendjének leírását,
-- j) a kérelmező üzleti tervét,
-- k) pénz- és értékkezelési szabályzatot és egyéb belső szabályzatot,
+- j) a pénzmosásról és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvények szerinti szabályzatának elfogadásáról tett nyilatkozatot,
+- k) a kérelmező pénz- és értékkezelési szabályzatát,
 - l) szakértő igazolását arra vonatkozóan, hogy a bizalmi vagyonkezelő vállalkozás informatikai rendszere alkalmas a tárgyi feltételek között előírt eredmények elérésére,
 - m) összeférhetetlenségi ok
   - ma) hiányában a kérelmező vezető állású személye erre vonatkozó nyilatkozatát,
   - mb) fennállása esetén a kérelmező vezető állású személye erre vonatkozó nyilatkozatát, és az ügyfelek arra vonatkozóan adott felmentését tartalmazó okiratot,
-- n) az állami adóhatóság igazolását arról, hogy a kérelmező köztartozásmentes adózói minőséggel rendelkezik, amennyiben nem szerepel a köztartozásmentes adózói adatbázisban,
-- o) a kérelmező székhelye és a helyi adókról szóló törvény szerinti telephelye szerinti önkormányzati adóhatóság által a részére kiállított 30 napnál nem régebbi nemleges adóigazolást,
-- p) a Magyar Bírósági Végrehajtói Kar által kiállított tanúsítványt arról, hogy a kérelmező a végrehajtási ügyek nyilvántartásában végrehajtási eljárás adósaként nem szerepel,
-- q) a kérelmező vezető állású személyének, természetes személy tagjának, munkavállalójának bővített tartalmú (a foglalkozástól, a közügyektől való eltiltást is tartalmazó) hatósági erkölcsi bizonyítványát,
+- n) ügyvédi iroda esetén az ügyvédi irodák nyilvántartásába való felvételről szóló igazolást,
+- o)
+- p)
+- q) a kérelmező vezető állású személyének, természetes személy tagjának, munkavállalójának hatósági erkölcsi bizonyítványát annak igazolására, hogy velük szemben a 4. § (1) bekezdés a) pontja, illetve b) pontja szerinti kizáró okok nem állnak fenn,
 - r) legalább egy fő mesterképzésben szerzett közgazdász szakképzettséggel rendelkező közgazdásszal, egy fő jogi szakvizsgát tett jogásszal kötött munkaszerződést és egy fő okleveles könyvvizsgáló foglalkoztatására kötött szerződést,
 - s) a bizalmi vagyonkezelő vállalkozással kapcsolatban álló érintett személynek minősülő jogalany nyilatkozatát arról, hogy hozzájárul a bizalmi vagyonkezelő vállalkozás részére átadott személyes adatainak a bizalmi vagyonkezelő vállalkozás feletti ellenőrzés ellátása céljából történő kezeléséhez, valamint továbbításához,
 - t) egyéb, e törvényben meghatározott személyi feltétel teljesülésének igazolására szolgáló okiratot, és
@@ -170,6 +179,12 @@ kizáró foglalkozástól eltiltás hatálya alatt,
 11. § (1) Ha a kérelem alapján megállapítható, hogy a kérelmező megfelel a bizalmi vagyonkezelő vállalkozás működési feltételeinek, kérelme tartalmazza a 10. § (1) bekezdése szerinti adatokat és a kérelmező csatolta a 10. § (2) bekezdése szerinti mellékleteket, a hivatal kiadja az engedélyt.
 
 (2) A kérelmező cégkivonatát a hivatal a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi be.
+
+(3) Ha a bizalmi vagyonkezelő vállalkozás nem csatolta a 10. § (2) bekezdés q) pontja szerinti hatósági erkölcsi bizonyítványt, a hivatal a bűnügyi nyilvántartó szervtől a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény (a továbbiakban: Bnytv.) 69. § (2) bekezdésében foglalt adatok megadásával a Bnytv. 71. § (2) bekezdése szerinti adatigényléssel vizsgálja meg azt, hogy felmerül-e a kérelmező vezető állású személyére, természetes személy tagjára, munkavállalójára vonatkozó, a 4. § (1) bekezdés a) pontja, illetve b) pontja szerinti kizáró okot megalapozó adat.
+
+(4) A hivatal a 3. § (3) bekezdés e) pontja szerinti igazolást az állami adóhatóságtól közvetlenül szerzi be.
+
+(5) A hivatal a bizalmi vagyonkezelő vállalkozás engedélyezési eljárásával összefüggésben felmerült adótitkot megismerheti és kezelheti.
 
 #### 7. Az engedély visszavonása
 
@@ -189,22 +204,22 @@ kizáró foglalkozástól eltiltás hatálya alatt,
 
 #### 8. A bizalmi vagyonkezelő vállalkozások nyilvántartása
 
-13. § (1) A hivatal a bizalmi vagyonkezelő vállalkozások ügyfeleinek és leendő ügyfeleinek tájékoztatása, a kezelt vagyonra vonatkozó adatok felkutathatósága és a bizalmi vagyonkezelők feletti ellenőrzés ellátása céljából nyilvántartást vezet a bizalmi vagyonkezelő vállalkozásokról.
+13. § (1) A hivatal a bizalmi vagyonkezelő vállalkozások ügyfeleinek és leendő ügyfeleinek tájékoztatása, a bizalmi vagyonkezelési tevékenység végzéséhez szükséges feltételek teljesülésének vizsgálata céljából nyilvántartást vezet a bizalmi vagyonkezelő vállalkozásokról.
 
 (2) Ha az engedély kiadásáról szóló határozat jogerőre emelkedett, a hivatal a bizalmi vagyonkezelő vállalkozás (3) bekezdésben foglalt adatait bejegyzi a bizalmi vagyonkezelő vállalkozások nyilvántartásába.
 
 (3) A nyilvántartás tartalmazza:
 
 - a) a bizalmi vagyonkezelő vállalkozás
-  - aa) cégnevét,
-  - ab) székhelyének címét,
-  - ac) telefon-, telefaxszámát, elektronikus levélcímét, honlapjának címét,
+  - aa) elnevezését,
+  - ab) székhelyét,
+  - ac) telefonszámát, elektronikus levélcímét, honlapjának címét,
   - ad) ügyintézésre szolgáló helyiségének címét, ahol tevékenységet folytat,
-  - ae) cégjegyzékszámát,
+  - ae) cégjegyzékszámát vagy ügyvédi kamarai nyilvántartási számát,
   - af) nyilvántartási számát,
 - b) a bizalmi vagyonkezelő vállalkozás tevékenység-végzési engedélyét kiadó határozat jogerőre emelkedésének napját,
 - c) az engedély visszavonását elrendelő határozat jogerőre emelkedésének a napját,
-- d) az alkalmazott ellenőrzési intézkedések okát, típusát és alkalmazását elrendelő határozat jogerőre emelkedésének napját.
+- d) a nyilvántartásba vétel feltételeinek vizsgálatával összefüggő – 31. § (1) bekezdése szerinti – körülményeket.
 
 (4) A (3) bekezdésben foglalt adatok – a d) pontjában foglalt adatok kivételével – nyilvánosak.
 
@@ -212,14 +227,14 @@ kizáró foglalkozástól eltiltás hatálya alatt,
 
 14. § (1) A bizalmi vagyonkezelő vállalkozás köteles – a módosulásra okot adó körülmény bekövetkeztétől számított nyolc napon belül – bejelenteni a hivatalnak a nyilvántartásban szereplő adatainak megváltozását.
 
-(1a) Az (1) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a bizalmi vagyonkezelő vállalkozás kéri – az (1) bekezdésben meghatározott határidőn belül értesíti a hivatalt.
+(1a)
 
 (2) A hivatal az adatváltozást bejegyzi a nyilvántartásba.
 
 15. § A hivatal törli a bizalmi vagyonkezelő vállalkozás adatait a nyilvántartásból, ha
 
 - a) az engedély visszavonásáról szóló határozat jogerőre emelkedett, vagy
-- b) a bizalmi vagyonkezelő vállalkozás megszűnt.
+- b) a bizalmi vagyonkezelő vállalkozás jogutód nélkül megszűnt.
 
 16. § (1) A hivatal a nyilvántartásba bejegyzett adatokat a bizalmi vagyonkezelő vállalkozás adatainak a nyilvántartásból való törlését követően tíz évig tárolja, azt követően megsemmisíti azokat.
 
@@ -243,7 +258,14 @@ a Magyar Nemzeti Bank elnöke által kibocsátott rendeletben meghatározott iga
 
 ### IV. Fejezet — A NEM ÜZLETSZERŰEN ELJÁRÓ BIZALMI VAGYONKEZELŐVEL LÉTREJÖTT BIZALMI VAGYONKEZELÉSI JOGVISZONYOK NYILVÁNTARTÁSA
 
-#### 11. A bizalmi vagyonkezelési jogviszony bejelentése
+#### 11. A bizalmi vagyonkezelési jogviszony, és annak bejelentése
+
+18/A. § (1) A nem üzletszerűen eljáró bizalmi vagyonkezelő által kötött bizalmi vagyonkezelési szerződést közjegyzői okiratba vagy ügyvéd által ellenjegyzett magánokiratba kell foglalni.
+
+(2) Ha a bizalmi vagyonkezelést végző gazdálkodó szervezet tevékenységét nem üzletszerűen látja el,
+
+- a) meg kell felelnie a nemzeti vagyonról szóló törvényben meghatározott átlátható szervezetre vonatkozó előírásoknak, valamint
+- b) tagja (tulajdonosa), a társasági adóról és az osztalékadóról szóló törvény szerinti kapcsolt vállalkozása, vezető állású személye és ezeknek a Ptk. szerinti hozzátartozója nem végezhet bizalmi vagyonkezelési tevékenységet.
 
 19. § A nem üzletszerűen eljáró bizalmi vagyonkezelő köteles bejelenteni a vele kötött bizalmi vagyonkezelési szerződéssel összefüggő adatokat a hivatalnak azok bizalmi vagyonkezelési jogviszonyok nyilvántartásába való bejegyzése érdekében a szerződés megkötését követő 30 napon belül.
 
@@ -261,35 +283,36 @@ a Magyar Nemzeti Bank elnöke által kibocsátott rendeletben meghatározott iga
   - bd) születési helyét és idejét, és
 - c) szerződéses jogállását.
 
-(2) A bejelentőnek a bejelentésben – legalább a polgári perrendtartásról szóló törvény szerinti teljes bizonyító erejű magánokiratban – nyilatkoznia kell arról, hogy a bizalmi vagyonkezelői tevékenységét nem üzletszerűen látja el.
+(2) A bejelentőnek a bejelentésben – legalább a polgári perrendtartásról szóló törvény szerinti teljes bizonyító erejű magánokiratban – nyilatkoznia kell arról, hogy a bizalmi vagyonkezelői tevékenységét nem üzletszerűen látja el, és megfelel a 18/A. §-ban foglalt feltételeknek.
 
 (3) A bejelentéshez mellékelni kell
 
 - a) a létrejött (módosult, megszűnt) bizalmi vagyonkezelési szerződést tartalmazó okiratot,
-- b) a bejelentés megtételéért teljesítendő igazgatási szolgáltatási díj megfizetésének igazolását.
+- b) a bejelentés megtételéért teljesítendő igazgatási szolgáltatási díj megfizetésének igazolását,
+- c) a pénzmosásról és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvények szerinti szabályzatának elfogadásáról tett nyilatkozatot.
 
-21. § (1) Ha a bejelentés alapján megállapítható, hogy a bejelentett szerződés érvényesen létrejött és a bizalmi vagyonkezelő nem üzletszerűen jár el, a bejelentés tartalmazza a 20. § (1) bekezdése szerinti adatokat, és csatolta a 20. § (3) bekezdése szerinti mellékleteket, a hivatal az adatokat bejegyzi a bizalmi vagyonkezelési jogviszonyok nyilvántartásába.
+21. § (1) Ha a bejelentés alapján megállapítható, hogy a bizalmi vagyonkezelő nem üzletszerűen jár el, a bejelentés tartalmazza a 20. § (1) bekezdése szerinti adatokat, és a bizalmi vagyonkezelő csatolta a 20. § (3) bekezdése szerinti mellékleteket, a hivatal az adatokat bejegyzi a bizalmi vagyonkezelési jogviszonyok nyilvántartásába.
 
 (2) A hivatal vizsgálhatja a bejelentési feltételek – bejelentéskori, valamint a jogviszony fennállása alatti – teljesülését.
 
 #### 12. A bizalmi vagyonkezelési jogviszonyok nyilvántartása
 
-22. § (1) A hivatal a bizalmi vagyonkezelési szerződések alapján átruházott kezelt vagyonokra vonatkozó adatok felkutathatósága és a bizalmi vagyonkezelők feletti ellenőrzés ellátása céljából nyilvántartást vezet a nem üzletszerűen eljáró bizalmi vagyonkezelőkről, a velük szerződő vagyonrendelőkről és a közöttük létrejött szerződésben meghatározott kedvezményezettekről, valamint szerződéses jogviszonyukról.
+22. § (1) A hivatal a bizalmi vagyonkezelési szerződések alapján átruházott kezelt vagyonokra vonatkozó adatok felkutathatósága céljából nyilvántartást vezet a nem üzletszerűen eljáró bizalmi vagyonkezelőkről, a velük szerződő vagyonrendelőkről és a közöttük létrejött szerződésben meghatározott kedvezményezettekről, valamint a bizalmi vagyonkezelési jogviszonyokról.
 
 (2) A nyilvántartás tartalmazza
 
 - a) a 20. § (1) és (2) bekezdésében foglalt adatokat,
 - b) a bejelentés napját és a nyilvántartásba vétel napját,
 - c) a nyilvántartásból való törlés tényét, okát és napját,
-- d) az alkalmazott ellenőrzési intézkedések okát, típusát, és alkalmazását elrendelő határozat jogerőre emelkedésének napját.
+- d) a nyilvántartásba vétel feltételeinek vizsgálatával összefüggő – 31. § (1) bekezdése szerinti – körülményeket.
 
-(3) A nyilvántartás a 20. § (1) bekezdés c) pontjában, a 20. § (2) bekezdésében és a (2) bekezdés b)–d) pontjában foglalt adatokat közhitelesen tanúsítja, azok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(3) A nyilvántartás a (2) bekezdésben foglaltakon túlmenően semmilyen jog vagy tény fennállását nem tanúsítja vagy bizonyítja. A bizalmi vagyonkezelési szerződés valósággal egyezőségéért, a bejelentésben szereplő adatok helyességéért a bejelentő felel.
 
 23. § Az e fejezetben meghatározott adatok bejelentésének elmaradása – jogszabályban meghatározott esetek kivételével – a bizalmi vagyonkezelési szerződéshez fűződő joghatásokat nem érinti.
 
 24. § (1) A bejelentő köteles – a módosulásra okot adó körülmény bekövetkeztétől számított nyolc napon belül – a hivatalnak bejelenteni a nyilvántartásban szereplő adatok megváltozását.
 
-(1a) Az (1) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a 22. § (1) bekezdésében meghatározott nem üzletszerűen eljáró bizalmi vagyonkezelő, vagyonrendelő, illetve a közöttük létrejött szerződésben meghatározott kedvezményezett kéri – az (1) bekezdésben meghatározott határidőn belül értesíti a hivatalt.
+(1a)
 
 (2) A hivatal az adatváltozást bejegyzi a nyilvántartásba.
 
@@ -345,104 +368,58 @@ ismerheti meg. A felsorolt szervezetek személyes adatot csak feladataik ellát�
 
 30. § A bizalmi vagyonkezelési jogviszonyok nyilvántartására, és a bejelentési bizonyítvány kiállítására, illetve visszavonására irányuló eljárásban a hivatal a Ket. rendelkezései szerint jár el.
 
-### V. Fejezet — A BIZALMI VAGYONKEZELÉSI TEVÉKENYSÉG ENGEDÉLYEZÉSI FELTÉTELEINEK VALÓ MEGFELELÉS RENDSZERES ELLENŐRZÉSE
+### V. Fejezet — A BIZALMI VAGYONKEZELÉSI TEVÉKENYSÉG VÉGZÉSE FELTÉTELEINEK VALÓ MEGFELELÉS VIZSGÁLATA
 
-#### 17. Az ellenőrzés általános szabályai
+#### 17. A vizsgálat általános szabályai
 
-31. § (1) A hivatal a Ket. hatósági ellenőrzésre vonatkozó szabályai szerint, elsősorban a bizalmi vagyonkezelő adatszolgáltatása alapján ellenőrzi, hogy a nyilvántartásba-vétel feltételei folyamatosan megvalósulnak-e
+31. § (1) A hivatal a Ket. hatósági ellenőrzésre vonatkozó szabályai szerint vizsgálja, hogy a nyilvántartásba vétel feltételei megvalósulnak-e
 
 - a) a bizalmi vagyonkezelő vállalkozások és
 - b) a bizalmi vagyonkezelési jogviszonyok
 
 vonatkozásában.
 
-(2) A hivatal az e törvényben meghatározott engedélyezési, valamint nyilvántartásba-vételi feltételek fennállásáról tett nyilatkozatok valóságnak való megfelelőségét azok valótlanságára utaló alapos ok esetén ellenőrzi.
+(2) A hivatal az e törvényben meghatározott engedélyezési, valamint nyilvántartásba-vételi feltételek fennállásáról tett nyilatkozatok valóságnak való megfelelőségét azok valótlanságára utaló alapos ok esetén vizsgálja.
 
-#### 18. Az ellenőrzési eljárás
+(3) A hivatal visszavonja az engedélyt, vagy törli a nyilvántartásból a bizalmi vagyonkezelési jogviszonyt, ha az engedély kiadásához vagy a nyilvántartásba vételhez szükséges feltételek már nem állnak fenn.
 
-32. § (1) A bizalmi vagyonkezelő vállalkozás évente – felhívás nélkül, legkésőbb az adott év július 30. napjáig – köteles igazolni a hivatalnak, hogy az engedély-kiadás feltételei fennállnak. Ennek érdekében megküldi a hivatalnak az engedély-kiadási kérelemhez csatolandó – az ismételt igazolás benyújtásától számított harminc napnál nem régebbi – okiratokat.
+#### 18. Az engedélyezési feltételek fennállásának vizsgálata
 
-(2) Ha a bizalmi vagyonkezelő vállalkozás által benyújtandó mellékletek tartalma nem változott, erről elegendő nyilatkozatot tenni.
+32. § (1) A bizalmi vagyonkezelő vállalkozás évente – felhívás nélkül, legkésőbb az adott év július 30. napjáig – köteles igazolni a hivatalnak, hogy az engedélykiadás feltételei fennállnak. Ennek érdekében megküldi a hivatalnak az engedélykiadási kérelemhez csatolandó – az ismételt igazolás benyújtásától számított harminc napnál nem régebbi – okiratokat, valamint a bizalmi vagyonkezelő vállalkozás könyvvizsgáló által ellenőrzött számviteli törvény szerinti beszámolóját.
+
+(2) Ha a bizalmi vagyonkezelő vállalkozás által benyújtandó mellékletek – ide nem értve a számviteli törvény szerinti beszámoló – tartalma nem változott, erről elegendő nyilatkozatot tenni.
 
 (3) A bizalmi vagyonkezelő vállalkozás cégkivonatát a hivatal a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
-(4) A hivatal indokolt esetben az (1) bekezdés szerinti tartalmú, illetve a hivatal által meghatározott egyéb, az ellenőrzés ellátásához szükséges adatokat tartalmazó rendkívüli adatszolgáltatásra kötelezheti a bizalmi vagyonkezelő vállalkozást.
+33. § A hivatal indokolt esetben a 32. § (1) bekezdése szerinti tartalmú, illetve a hivatal által meghatározott egyéb, a vizsgálat ellátásához szükséges adatokat tartalmazó rendkívüli adatszolgáltatásra kötelezheti a bizalmi vagyonkezelő vállalkozást.
 
-33. § (1) A hivatal az ellenőrzés ellátásához szükséges adatok közlése érdekében nyilatkozattételre hívhatja fel a bizalmi vagyonkezelő vállalkozást, a bizalmi vagyonkezelő vállalkozás kiszervezés keretében szerződő partnerét, a nem üzletszerűen eljáró bizalmi vagyonkezelőt, a vele szerződést kötő vagyonrendelőt vagy az e szerződésben meghatározott kedvezményezettet a Ket. ügyféli nyilatkozattételre vonatkozó szabályai szerint.
+34. § Ha a bizalmi vagyonkezelő vállalkozás a hivatal felhívása ellenére sem tudja megfelelően igazolni azt, hogy az engedély kiadásának feltételei továbbra is fennállnak, a hivatal a bizalmi vagyonkezelő vállalkozás engedélyét visszavonja.
 
-(2) A hivatal által nyilatkozattételre felhívott személy köteles nyilatkozatot tenni.
-
-34. § (1) Ha a hivatal e törvény, illetve a bizalmi vagyonkezelő tevékenységére vonatkozó, egyéb jogszabály, szabályzat és az engedélyben meghatározott feltételek megsértését vagy arra utaló körülményeket észlel, megteszi a következő intézkedéseket:
-
-- a) a jogkövetkezményekre történő figyelmeztetés mellett felhívja a bizalmi vagyonkezelő vállalkozást az e törvénynek, illetve a bizalmi vagyonkezelő tevékenységére vonatkozó, egyéb jogszabálynak szabályzatnak és az engedélyben meghatározott feltételeknek megfelelő működés helyreállítására, és erre megfelelő határidőt tűz,
-- b) felfüggesztheti a bizalmi vagyonkezelési tevékenység folytatását részben vagy egészben, meghatározott időre,
-- c) egyszeri vagy ismételt bírságot szabhat ki.
-
-(2) A bírságot a bizalmi vagyonkezelő vállalkozással szemben, ha pedig megállapítható, hogy az ellenőrzési intézkedésre a bizalmi vagyonkezelő vállalkozás vezető tisztségviselője adott okot közvetlenül, a vezető tisztségviselővel szemben is ki lehet szabni.
-
-(3) A (2) bekezdés szerinti bírság összege legfeljebb húszmillió forintig, illetve a bizalmi vagyonkezelő vállalkozással szemben kiszabott bírság esetében, amennyiben a bizalmi vagyonkezelő vállalkozásnak a jogsértést megállapító határozat meghozatalát megelőző üzleti évben elért nettó árbevételének tíz százaléka ennél magasabb összeg, akkor ezen összegig terjedhet.
-
-35. § Ha a hivatal a bizalmi vagyonkezelési jogviszonyok nyilvántartásába való bejegyzés feltételeinek hiányát vagy arra utaló körülményeket észlel, megteszi a következő intézkedéseket:
-
-- a) a jogkövetkezményekre történő figyelmeztetés mellett felhívja a bizalmi vagyonkezelőt a megfelelő működés helyreállítására, és erre határidőt tűz,
-- b) az engedély nélküli üzletszerű bizalmi vagyonkezelési tevékenység folytatását megtiltja, a bizalmi vagyonkezelőt a már megkötött bizalmi vagyonkezelési szerződés megszüntetésére kötelezi,
-- c) az ellenőrzési intézkedésre okot adó bizalmi vagyonkezelőt terhelő, egyszeri vagy ismételt, 100 000 Ft-tól 10 millió Ft-ig terjedő felügyeleti bírságot szabhat ki, ha az a) pontban említett határidő eredménytelenül telt el, valamint a b) pont szerinti – csekély jelentőségűnek nem minősülő – esetben,
-- d) törli a nyilvántartásból a bizalmi vagyonkezelési jogviszonyt, ha a törlés feltételei fennállnak és egyéb ellenőrzési intézkedés nem jár eredménnyel, illetve nem várható tőle eredmény és a bizalmi vagyonkezelőt a már megkötött bizalmi vagyonkezelési szerződés megszüntetésére kötelezi.
+35. § A hivatal e cím szerinti vizsgálata nem minősül a bizalmi vagyonkezelési tevekénység feletti felügyeleti tevékenységnek.
 
 ### VI. Fejezet — A BIZALMI VAGYONKEZELŐ VÁLLALKOZÁS BIZALMI VAGYONKEZELÉSI TEVÉKENYSÉG VÉGZÉSÉNEK SZABÁLYAI
 
-#### 19. A tevékenység végzésre vonatkozó szabályok
+#### 19.
 
-36. § (1) A bizalmi vagyonkezelő vállalkozás bizalmi vagyonkezelési szerződései tartalmának megállapítása során e törvény rendelkezéseitől akkor térhet el, ha ezt e törvény megengedi. Nem minősül a törvénytől való eltérésnek olyan további rendelkezés bizalmi vagyonkezelési szerződésbe való foglalása, amelyről e törvény nem rendelkezik, ha a rendelkezés nem áll ellentétben a Ptk. és e törvény általános rendeltetésével, és nem sérti a joggal való visszaélés tilalmát.
+#### 36. §
 
-(2) A bizalmi vagyonkezelő vállalkozást terheli annak bizonyítása, hogy az általa megkötött bizalmi vagyonkezelési szerződéseket a Ptk. és e törvény rendelkezései szerint szerződésszerűen – különösen ügyfele számára legkedvezőbben – teljesítette.
+#### 20.
 
-#### 20. Előzetes tájékoztatás
+#### 37. §
 
-37. § (1) A bizalmi vagyonkezelő vállalkozásnak a vagyonkezelési szerződés megkötését megelőzően az 1. mellékletben meghatározottakról tájékoztatnia kell azon leendő szerződő felet, aki a szerződéskötést követően a Ptk. alapján fogyasztónak vagy a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény alapján kis- és középvállalkozásnak minősül (a továbbiakban: lakossági ügyfél).
+#### 21.
 
-(2) A bizalmi vagyonkezelő vállalkozásnak az e törvényben előírt tájékoztatást írásban, havi rendszerességgel kell megadnia. Amennyiben az eredeti tájékoztatás tartalmában változás nem következett be, az ismételt tájékoztatásban elegendő a változatlanság tényére utalni.
-
-(3) A bizalmi vagyonkezelő vállalkozásnak a tájékoztatás tartalmában bekövetkező, a szerződés tárgyát képező jognyilatkozat vagy vagyontárgy tekintetében bekövetkező lényeges változásról – az eredeti tájékoztatással azonos módon, de a változás beálltának napjától számított legalább nyolc napon belül – kell értesítenie a lakossági ügyfelet.
-
-#### 21. Előzetes tájékozódási kötelezettség
-
-38. § (1) A bizalmi vagyonkezelő vállalkozásnak tájékozódnia kell a lakossági ügyfél
-
-- a) bizalmi vagyonkezelési szerződéssel szolgálni kívánt céljáról (a továbbiakban: szerződési cél),
-- b) kockázatviselő képességéről,
-- c) bizalmi vagyonkezelési szerződés tárgyát képező vagyontárggyal vagy jognyilatkozattal kapcsolatos ismereteiről és
-- d) arról, hogy az a)–c) pontban foglaltak megfelelőek-e ahhoz, hogy a bizalmi vagyonkezelési szerződés egyes lényeges feltételeinek elfogadásáról az ügyfél megalapozott döntést hozzon (a továbbiakban: alkalmassági vizsgálat).
-
-(2) A bizalmi vagyonkezelő vállalkozás azt is értékeli az alkalmassági vizsgálat során, hogy a megkötendő bizalmi vagyonkezelési szerződés
-
-- a) előreláthatóan alkalmas-e a leendő szerződő fél szerződési céljainak megvalósítására,
-- b) kapcsán felmerülő, a leendő szerződő fél szerződési céljaival egyébként összhangban lévő kockázat mértéke megfelel-e az ügyfél teherviselő képességének, és
-- c) joghatásaihoz és a kapcsolódó kockázatok megértéséhez és értékeléséhez a leendő szerződő fél megfelelő tapasztalattal és ismerettel rendelkezik-e.
-
-(3) A bizalmi vagyonkezelő vállalkozás az alkalmassági vizsgálat eredményéről előzetes tájékoztatási kötelezettségére vonatkozó rendelkezések megfelelő alkalmazásával köteles tájékoztatni a lakossági ügyfelet.
-
-(4) A bizalmi vagyonkezelő vállalkozás a bizalmi vagyonkezelési jogviszony fennállása alatt évente köteles a jelen §-ban foglalt kötelezettségét ismételten teljesíteni.
+#### 38. §
 
 #### 22. A bizalmi vagyonkezelő vállalkozás belső nyilvántartásai
 
-39. § (1) A bizalmi vagyonkezelő vállalkozás a bizalmi vagyonkezelési jogviszonyok nyomon követhetősége, a hatósági ellenőrzés és hatósági vagyonkutatás elősegítése érdekében nyilvántartást köteles vezetni a bizalmi vagyonkezelési jogviszonyokról.
+39. § (1) A bizalmi vagyonkezelő vállalkozás a bizalmi vagyonkezelési jogviszonyok nyomon követhetősége és hatósági vagyonkutatás elősegítése érdekében nyilvántartást köteles vezetni a bizalmi vagyonkezelési jogviszonyokról.
 
-(2) A nyilvántartásnak bizalmi vagyonkezelési szerződésenként elkülönülten kell tartalmaznia
-
-- a) a vagyonrendelő és a szerződésben meghatározott kedvezményezett személyazonosító adatait,
-- b) a szerződésben vállalt fő- és mellékszolgáltatások tárgyát,
-- c) a szerződésben foglalt esetleges feltételeket, időbeli, térbeli, egyéb hatálybeli korlátozást, és
-- d) a szerződéskötés helyét és idejét.
+(2)
 
 40. § (1) A bizalmi vagyonkezelő vállalkozás az ügyfelek tájékoztatásának és ellenőrzési joggyakorlásuk elősegítésére nyilvántartást köteles vezetni a bizalmi vagyonkezelési szerződés teljesítése érdekében, a kezelt vagyonra vonatkozóan tett bizalmi vagyonkezelési jognyilatkozatokról.
 
-(2) A nyilvántartásnak – folyamatosan és időrendben, az egyes bizalmi vagyonkezelési szerződésenként elkülönülten – kell tartalmaznia:
-
-- a) a jognyilatkozatokat, különösen szerződéseket létrehozó, módosító, megszüntető jognyilatkozatot tevő felek nevét, születési helyét és idejét, anyja nevét, lakcímét (a továbbiakban: személyazonosító adatok),
-- b) a jognyilatkozatban vállalt fő- és mellékszolgáltatások tárgyát,
-- c) a jognyilatkozatban foglalt esetleges feltételt, időbeli, térbeli, egyéb hatálybeli korlátozást, és
-- d) a jognyilatkozat-tétel helyét és idejét.
+(2)
 
 41. § (1) Az ügyfél a bizalmi vagyonkezelési jogviszonyokról és a bizalmi vagyonkezelési jognyilatkozatokról vezetett nyilvántartások rá vonatkozó részébe ellenőrzési joga alapján jogosult betekinteni.
 
@@ -476,26 +453,15 @@ szemben. A felsorolt szervezetek személyes adatot csak feladataik ellátásáho
 
 (3) A (2) bekezdésben foglaltak alapján annak a szervnek adható át a bizalmi vagyonkezelő vállalkozás titoktartási kötelezettségébe tartozó adat, amely törvényi rendelkezés megjelölésével igazolja, hogy törvény az ügy elbírálásához, továbbá jogosultság, illetve kötelezettség fennállásának ellenőrzéséhez feljogosította az adat megismerésére. Az adatigénylőnek a megkeresésben meg kell jelölnie annak az eljárásának az ügyszámát és tárgyát, amelyben az igényelt adatok megismerésére törvény alapján jogosult.
 
-#### 24. Önszerződés és kettős megbízás teljesítésére irányuló jognyilatkozatok korlátozása
+#### 24.
 
-lakossági ügyfél vonatkozásában
-
-43. § (1) A bizalmi vagyonkezelő vállalkozás a lakossági ügyfélnek minősülő vagyonrendelővel kötött bizalmi vagyonkezelési szerződés teljesítése során – az ügyfél által kifejezett, előzetes, meghatározott jognyilatkozatra vonatkozóan adott felhatalmazás hiányában – nem tehet olyan jognyilatkozatot, amelynek hatására a kezelt vagyonba tartozó vagyontárgy
-
-- a) az érintett személy személyes vagyonába (önszerződés) vagy
-- b) más, érintett személy által kezelt vagyonba (kettős megbízás teljesítésére irányuló jognyilatkozatok)
-
-kerül.
-
-(2) Az érintett személy az engedélyezett önszerződést eredményező jognyilatkozatok megtételét haladéktalanul köteles a bizalmi vagyonkezelő vállalkozás számára bejelenteni.
-
-(3) A bizalmi vagyonkezelő vállalkozás a bizalmi vagyonkezelési jognyilatkozatok nyilvántartásában külön feltünteti, ha a jognyilatkozat önszerződést eredményez vagy kettős megbízás teljesítésére irányul, és feltünteti azt, hogy azokról az ügyfél tudomást szerzett, ideértve az azok megtételére vonatkozó engedélyt vagy tiltást is.
+#### 43. §
 
 #### 25. Kiszervezés
 
 44. § (1) A bizalmi vagyonkezelő vállalkozás a bizalmi vagyonkezelési kötelezettsége hatékonyabb teljesítése érdekében vehet igénybe harmadik személyt (a továbbiakban: kiszervezés).
 
-(2) Kiszervezésre irányuló szerződés megkötése kötelező olyan szolgáltatás esetében, amelynek nyújtásához a bizalmi vagyonkezelő vállalkozás nem rendelkezik megfelelő szakértelemmel vagy képességgel, illetve a szükséges engedéllyel.
+(2)
 
 (3) Kiszervezésre irányuló szerződés csak olyan jogalannyal köthető, amelynek érdekei nem ellentétesek a bizalmi vagyonkezelő vállalkozás vagy az ügyfelek érdekeivel, aki engedélyköteles tevékenység végzésére engedéllyel rendelkezik és aki a szerződésben a bizalmi vagyonkezelő vállalkozásra vonatkozó szabályok szerinti titoktartási kötelezettséget vállal.
 
@@ -507,7 +473,7 @@ kerül.
   - ca) utasítási és ellenőrzési jogának gyakorlását a kiszervezett tevékenységet végző tevékenysége vonatkozásában, valamint
   - cb) kiszervezésre irányuló szerződés azonnali felmondására irányuló jogát a kiszervezésre irányuló szerződésben foglaltak megsértése esetén.
 
-(5) Akkor nem minősül az (1) bekezdés szerinti kiszervezésnek a bizalmi vagyonkezelő vállalkozás által igénybevett jogi tanácsadás, adószakértői, adótanácsadói tevékenység, kézbesítés, számítástechnikai rendszerfejlesztés, számítástechnikai üzemeltetés és karbantartás, az alkalmazottak képzése és továbbképzése, a számlázás, bérszámfejtés, könyvelés, a bizalmi vagyonkezelő helyiségei és alkalmazottai biztonságának megteremtését célzó tevékenység harmadik személy igénybevételével történő végzése, továbbá a bizalmi vagyonkezelő vállalkozás részére munkaviszony, vagy munkavégzésre irányuló egyéb jogviszony keretében végzett tevékenység, ha a bizalmi vagyonkezelő vállalkozás kétséget kizáróan bizonyítja, hogy annak költsége az 1. mellékletben meghatározott teljes árba nem tartozhat bele.
+(5) Akkor nem minősül az (1) bekezdés szerinti kiszervezésnek a bizalmi vagyonkezelő vállalkozás által igénybevett jogi tanácsadás, adószakértői, adótanácsadói tevékenység, kézbesítés, számítástechnikai rendszerfejlesztés, számítástechnikai üzemeltetés és karbantartás, az alkalmazottak képzése és továbbképzése, a számlázás, bérszámfejtés, könyvelés, a bizalmi vagyonkezelő helyiségei és alkalmazottai biztonságának megteremtését célzó tevékenység harmadik személy igénybevételével történő végzése, továbbá a bizalmi vagyonkezelő vállalkozás részére munkaviszony, vagy munkavégzésre irányuló egyéb jogviszony keretében végzett tevékenység, ha a bizalmi vagyonkezelő vállalkozás kétséget kizáróan bizonyítja, hogy annak költsége nem tartozik bele a bizalmi vagyonkezelési szerződés megkötésével, teljesítésével kapcsolatosan az ügyfél által a bizalmi vagyonkezelő vállalkozás vagy harmadik személy részére teljesítendő bármilyen díjba vagy költségbe.
 
 #### 26. A bizalmi vagyonkezelő vállalkozás hasznosítási kötelezettsége
 
@@ -524,15 +490,15 @@ kerül.
 - b) azon kezelt vagyonba tartozó vagyontárgyak vonatkozásában, amelyek rendelkezésre tartása azok átruházása, kedvezményezett általi használata, vagy a kezelt vagyont terhelő adósság kielégítése érdekében szükséges, vagy amelyek hasznosítása egyébként akadályozná a bizalmi vagyonkezelőt egyéb, kezelt vagyonnal kapcsolatos kötelezettsége teljesítésében,
 - c) ha egyéb olyan körülmény áll fenn, amely alapján a jognyilatkozatok megtétele nyilvánvalóan ellentétben állna az okszerű gazdálkodás követelményével.
 
-(3) A lakossági ügyfélnek minősülő vagyonrendelő vagyonkezelési szerződést létrehozó jognyilatkozatát vita esetén úgy kell értelmezni, hogy abban kizárta a bizalmi vagyonkezelő vállalkozás jogát a kezelt vagyonba tartozó, Ptk.-ban meghatározott vagyontárgy elidegenítésére, megterhelésére, függetlenül az adott kezelt vagyonba tartozó vagyontárgy természeténél fogva hasznot hajtó képességétől.
+(3)
 
-(4) A bizalmi vagyonkezelő vállalkozás hasznosítási kötelezettségét a leendő lakossági ügyféllel kötött bizalmi vagyonkezelési szerződésben érvényesen akkor zárhatja ki, térhet el attól, illetve módosíthatja annak joghatásait, ha ennek az ügyfélre, illetve a kezelt vagyonra gyakorolt joghatásáról tájékoztatást ad, és az ügyfél azt a szerződésben kifejezetten elfogadja.
+(4)
 
 ### VII. Fejezet — A BIZALMI VAGYONKEZELŐ VÁLLALKOZÁS JOGUTÓD NÉLKÜLI MEGSZŰNÉSE ESETÉN ALKALMAZANDÓ EGYES ELJÁRÁSOK
 
 #### 27. A jogutód nélküli megszűnésre vonatkozó szabályok
 
-46. § (1) A részvénytársasági, illetve korlátolt felelősségű társasági formában működő bizalmi vagyonkezelő vállalkozás végelszámolására és felszámolására a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény (a továbbiakban: Ctv.), a csődeljárásról és a felszámolási eljárásról szóló törvény (a továbbiakban: Cstv.), a fióktelep formájában működő bizalmi vagyonkezelő vállalkozás végelszámolására és felszámolására pedig a Ctv., a Cstv. és a külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló törvény (a továbbiakban: Fkt.) rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
+46. § (1) A részvénytársasági, illetve korlátolt felelősségű társasági formában működő bizalmi vagyonkezelő vállalkozás végelszámolására és felszámolására a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény (a továbbiakban: Ctv.), a csődeljárásról és a felszámolási eljárásról szóló törvény (a továbbiakban: Cstv.), a fióktelep formájában működő bizalmi vagyonkezelő vállalkozás végelszámolására és felszámolására pedig a Ctv., a Cstv. és a külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló törvény (a továbbiakban: Fkt.), ügyvédi iroda felszámolására a Cstv. rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (2) A bizalmi vagyonkezelő vállalkozás végelszámolójának vagy felszámolójának kizárólag a Magyar Nemzeti Bankról szóló törvényben meghatározott szervezetek felszámolását végző, nonprofit gazdasági társaság rendelhető ki.
 
@@ -563,6 +529,16 @@ kerül.
 (4) A 73. § (1), (3), (15) és (17)–(19) bekezdése 2014. április 1-jén lép hatályba.
 
 (5) Az 59. § (3) bekezdése 2014. május 1-jén lép hatályba.
+
+#### 29/A. Átmeneti rendelkezés
+
+48/A. § (1) A 3. § (1) bekezdése szerinti üzletszerű bizalmi vagyonkezelési tevékenység vonatkozásában az egyes törvényeknek az üzleti környezet jogi versenyképességének növelése érdekében szükséges módosításáról szóló 2017. évi LXI. törvény (a továbbiakban: Módtv.) hatálybalépését követően létrejött bizalmi vagyonkezelési jogviszony mellett a Módtv. hatálybalépését megelőzően létrejött bizalmi vagyonkezelési jogviszonyt is számításba kell venni.
+
+(2) Semmis az a bizalmi vagyonkezelési szerződés, amelynek megkötése az (1) bekezdés alkalmazása folytán üzletszerű bizalmi vagyonkezelési tevékenység folytatását valósítja meg.
+
+(3) Ha a Módtv. hatálybalépése előtt kötött bizalmi vagyonkezelési szerződésben kijelölt, nem üzletszerűen eljáró bizalmi vagyonkezelést végző gazdálkodó szervezet nem felel meg a nemzeti vagyonról szóló törvényben meghatározott átlátható szervezetre vonatkozó előírásoknak, e követelménynek 2017. december 31. napjáig kell eleget tennie, ellenkező esetben e határidő lejártát követő napon a vagyonkezelői megbízatása megszűnik. Az átlátható szervezetre vonatkozó előírások teljesítését a hivatal számára be kell jelenteni.
+
+(4) A Módtv. hatálybalépésekor tevékenység-végzési engedéllyel rendelkező bizalmi vagyonkezelő vállalkozás a Módtv.-vel megállapított engedélyezési feltételeknek való megfelelést igazoló dokumentumokat, továbbá a számviteli törvény szerinti beszámolóját a Módtv. hatálybalépését követő évben a 32. § (1) bekezdése szerinti igazolási kötelezettsége keretében nyújtja be.
 
 #### 30. Az Alaptörvény sarkalatosságra vonatkozó követelményének megfelelés
 
@@ -673,40 +649,3 @@ szöveggel lép hatályba.
 - c) 191. § (4) bekezdésében az „ , a 100. § (4), (5), valamint (7) bekezdése” szövegrész.
 
 ### 1. melléklet a 2014. évi XV. törvényhez
-
-#### A bizalmi vagyonkezelő vállalkozás tájékoztatásának kötelező tartalma:
-
-- 1. a bizalmi vagyonkezelő vállalkozás cégneve, székhelye, központi ügyintézési helye, egyéb elérhetőségei, cégjegyzékszáma, adószáma, nyilvántartási száma, engedélye kiadásának, nyilvántartásba vételének időpontja, képviselőinek neve és beosztása, vezető állású személyei felsőfokú végzettségének és szakmai gyakorlatának fennállása, minősége, megszerzésének ideje, időtartama,
-- 2. a hivatal neve és levelezési címe, a hivatal engedélyezési és ellenőrzési jogkörének, feladatainak lényege, valamint az arra történő kifejezett figyelemfelhívás, hogy a hivatal a bizalmi vagyonkezelési tevékenység tekintetében az engedélyezési feltételek fennállásának ellenőrzésén túlmutató felügyeletet nem gyakorol,
-- 3. a bizalmi vagyonkezelő vállalkozás állandó jelleggel, kiszervezés keretében teljesítéshez igénybe vett szerződő partnereinek (különösen letéteményes, könyvvizsgáló, befektetési tanácsadó, vagyonértékelő, biztosító) cégneve, székhelye, központi ügyintézési helye, egyéb elérhetőségei, cégjegyzékszáma, adószáma, nyilvántartási száma, képviselőinek neve és beosztása, engedélye kiadása, nyilvántartásba vételének időpontja,
-- 4. a bizalmi vagyonkezelő vállalkozás gazdálkodásának és működésének szabályai, feltételei, különösen összeférhetetlenségi szabályzatának lényege,
-- 5. az ügyfél által a bizalmi vagyonkezelő vállalkozással való kapcsolattartás során használható nyelvek, az ügyféllel való kapcsolattartás módja, eszköze, az ügyfél számára végzett, illetőleg nyújtott, a vagyonkezelési tevékenységről szóló tájékoztatás gyakorisága, időzítése és jellege, költsége,
-- 6. a leendő szerződő fél által átruházandó vagyontárgy kezelésének – különösen polgári jogi – szabályai, a bizalmi vagyonkezelési szerződés bizalmi vagyonkezelő vállalkozás által alkalmazott feltételei, különösen
-- 6.1. a bizalmi vagyonkezelő vállalkozás ügyfél vonatkozásában fennálló érdekképviseleti kötelezettségéből fakadó, különösen
-- 6.1.1. a bizalmi vagyonkezelési szerződés ügyfél számára legkedvezőbb teljesítésével,
-- 6.1.2. a kezelt vagyon állag illetve érték megóvásával,
-- 6.1.3. a kezelt vagyon óvatos hasznosítással,
-- 6.1.4. önszerződéssel, kettős megbízás teljesítésére irányuló jognyilatkozatok megtételével,
-- 6.1.5. kiszervezéssel, indokolt költség okozásával kapcsolatos részkötelezettségek, és egyéb törvény alapján ügyfélt megillető jogok, terhelő kötelezettségek,
-- 6.2. a kezelt vagyonba tartozó vagyontárgyakkal való rendelkezés tekintetében a bizalmi vagyonkezelő vállalkozás rendelkezési – különösen mérlegelési – jogának lehetséges és eltérő rendelkezés hiányában fennálló terjedelme,
-- 6.3. a vagyonkezelés – különösen a kezelt vagyon megóvása, hasznosítása – során érvényesülő célkitűzések, a kezelendő vagyonba tartozó vagyontárgyakkal kapcsolatos legfontosabb kockázati tényezők, különösen a bizalmi vagyonkezelő vállalkozás mérlegelését korlátozó kockázati szintek, annak megállapítási módja és a vagyonkezelő rendelkezési jogát érintő egyéb, lehetséges korlátok,
-- 6.4. a kezelt vagyonba tartozó vagyontárgyak állagának, illetve értékének megóvását, hasznosítását biztosító, szokásos intézkedések, a likvid eszközök tartására használható devizanemek, kiválasztásuk szempontjai,
-- 6.5. a szerződésben meghatározott, az ügyfél által átruházott kezelt vagyonba tartozó vagyontárgyak, megóvása, hasznosítása vizsgálatának gyakorisága és a vizsgálat módszere,
-- 6.6. a bizalmi vagyonkezelési jogviszony megszűnésének módjai, ezek, illetve korlátozásuk ügyfélre gyakorolt legfontosabb joghatásai,
-- 6.7. a bizalmi vagyonkezelési szerződésben foglalt egyes kikötések alkalmassága arra, hogy megakadályozzák a bizalmi vagyonkezelő vállalkozást a bizalmi vagyonkezelési szerződés ügyfél számára legkedvezőbb módon történő teljesítési kötelezettsége teljesítésében,
-- 6.8. a bizalmi vagyonkezelő vállalkozás hasznosítási kötelezettségének teljesítése:
-- 6.8.1. a bizalmi vagyonkezelő vállalkozás hasznosítási céljai körében a bizalmi vagyonkezelő vállalkozás esetleges – különösen földrajzi vagy iparági – szakosodása, valamint tőke-, illetve jövedelem növelési céljai,
-- 6.8.2. a bizalmi vagyonkezelő vállalkozás által kínált hasznosítási módokkal kapcsolatos tudnivalók, ideértve azok ügyfélre gyakorolt legfontosabb joghatásait,
-- 6.8.3. a bizalmi vagyonkezelő vállalkozás által leggyakrabban hasznosítás során – akár közvetve – igénybe vett eszközkategóriák típusa (pl. értékpapír, ingatlan),
-- 6.8.4. a bizalmi vagyonkezelő vállalkozás haszonszámításának, megállapításának módja, ideje, egyéb feltételei, a hasznosítási módokhoz kapcsolódó kiszervezés szükségessége illetve lehetősége, ezek kockázata és különösen az a viszonyítási érték, amelyhez képest az ügyfél által átruházott kezelt vagyon haszna meghatározásra kerül,
-- 6.8.5. a haszon kedvezményezettnek való kifizetésének feltételei,
-- 6.8.6. az egyes kezelt vagyonba tartozó vagyontárgyak (portfolióelemek) kezelt vagyonhoz viszonyított legnagyobb és legkisebb aránya,
-- 6.8.7. a hasznosítás minden esetleges korlátozása,
-- 6.8.8. a kezelt vagyon devizában tartható aránya,
-- 6.8.9. a bizalmi vagyonkezelő vállalkozás kezelt vagyon terhére történő hitelfelvételének szabályai,
-- 6.8.10. a bizalmi vagyonkezelő vállalkozás által alkalmazott viszonyítási számok (indexek) számítási módjának bemutatása,
-- 6.9. az ügyfél ellenőrzési joga gyakorlásának rendje, különösen az ügyfél által megtekinthető belső szabályzatok, a szabályzatokba való betekintés rendje,
-- 7. a bizalmi vagyonkezelési szerződés megkötésével, teljesítésével – ide értve a kiszervezést is – kapcsolatosan a bizalmi vagyonkezelő vállalkozás vagy harmadik személy (ide értve közjogi jogalanyokat is) részére teljesítendő minden díj és költség, ideértve bármilyen díjat, (közvetítői) jutalékot (vagyontárgyanként és várható szokásos jognyilatkozatonként), hozzájárulást, devizaátváltási árfolyamkülönbséget, valamint közterhet, amelyet a bizalmi vagyonkezelő vállalkozás a kezelt vagyonból, vagy az ügyféltől von le vagy számol el (a továbbiakban: teljes ár), valamint a teljes ár elszámolásának, levonásának a módjáról,
-- 8. a bizalmi vagyonkezelő vállalkozásnak a kezelt vagyon megóvására illetve a haszonra vonatkozó kötelezettségvállalása esetén nyilatkozat arra vonatkozóan, hogy külön ennek biztosítására szolgál-e pénzügyi biztosíték,
-- 9. a bizalmi vagyonkezelő vállalkozás által kezelt vagyonokkal végzett gazdasági tevékenységei a gazdasági tevékenységek egységes ágazati osztályozási rendszerében használt kódok feltüntetésével,
-- 10. azon releváns feladatok és tevékenységek felsorolása, amelyekre a bizalmi vagyonkezelő vállalkozás harmadik személyt kiszervezés keretében igénybe vehet, szokás szerint igénybe vesz.

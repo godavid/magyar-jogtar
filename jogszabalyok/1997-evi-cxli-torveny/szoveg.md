@@ -232,13 +232,13 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 
 ### Az állami ingatlan-nyilvántartási térképi adatbázis
 
-21. § (1) Az egységes ingatlan-nyilvántartás céljára az Fttv. 13. § (1) bekezdésében meghatározott térképi adatbázis szolgál.
+21. § (1) Az egységes ingatlan-nyilvántartás céljára a földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény (a továbbiakban: Fttv.) 13. § (1) bekezdésében meghatározott térképi adatbázis szolgál.
 
 (2)
 
-(3) Az állami ingatlan-nyilvántartási térképi adatbázis az ingatlan-nyilvántartás szempontjából az Fttv. 11. § (1) bekezdésében meghatározottakat tartalmazza.
+(3) Az állami ingatlan-nyilvántartási térképi adatbázis az ingatlan-nyilvántartás szempontjából az Fttv. 11. § (1) bekezdésben és a 13. § (1a) bekezdésében meghatározottakat tartalmazza.
 
-(4) Az egyéb önálló ingatlanok alaprajza 1:100 vagy annál nagyobb méretarányban ábrázolja az ingatlan – társasháznál a közös, szövetkezeti háznál a szövetkezeti tulajdonban lévő épületrészek, továbbá az öröklakások és szövetkezeti lakások – elhatároló vonalait. Az alaprajzon fel kell tüntetni a település nevét, az ingatlan utca, házszám, emelet és ajtószám szerinti megjelölését, továbbá az önálló ingatlan sorszámát és alapterületét.
+(4) Az egyéb önálló ingatlanok – ide nem értve a 13. § a) pontja szerinti épületeket és építményeket – alaprajza 1:100 vagy annál nagyobb méretarányban ábrázolja az ingatlan – társasháznál a közös, szövetkezeti háznál a szövetkezeti tulajdonban lévő épületrészek, továbbá az öröklakások és szövetkezeti lakások – elhatároló vonalait. Az alaprajzon fel kell tüntetni a település nevét, az ingatlan utca, házszám, emelet és ajtószám szerinti megjelölését, továbbá az önálló ingatlan sorszámát és alapterületét.
 
 ### A törölt bejegyzések jegyzéke
 
@@ -693,7 +693,7 @@ kell csatolnia.
 
 50. § (1) Hivatalból be kell jegyezni a tulajdonjog átruházására irányuló okiratban kikötött haszonélvezeti jogot, használat jogát, tartási vagy életjáradéki jogot, elő- vagy visszavásárlási jogot, telki szolgalmi jogot, vételárhátralék biztosítására alapított jelzálogjogot, elidegenítési és terhelési tilalmat, vagy elidegenítési tilalmat akkor is, ha az akire a tulajdonjogot átruházták csak a tulajdonjog bejegyzését kéri. A bejegyzést a tulajdonjog bejegyzésével egyidejűleg kell teljesíteni. Nem vonatkozik ez a rendelkezés arra az esetre, ha a tulajdonjog bejegyzése iránti kérelem benyújtásáig a jogosult ezeknek a jogoknak, illetve tényeknek a bejegyzéséről lemondott, vagy azok megszűntek.
 
-(1a) A bizalmi vagyonkezelési jogviszony alapján fennálló, vagy létrejövő, kezelt vagyonba kerülő ingatlanra vonatkozó tulajdonjog bejegyzéssel egyidejűleg a vagyonrendelő és a szerződésben név szerint feltüntetett kedvezményezett megjelölésével a 17. § (1) bekezdés 28. pontja szerinti tényt, – külön erre irányuló kérelem nélkül is – fel kell jegyezni.
+(1a) A bizalmi vagyonkezelési jogviszony alapján fennálló vagy létrejövő, kezelt vagyonba kerülő ingatlanra vonatkozó tulajdonjog-bejegyzéssel egyidejűleg a 17. § (1) bekezdés 28. pontja szerinti tényt – külön erre irányuló kérelem nélkül is – fel kell jegyezni.
 
 (2) Hivatalból törölni kell az ingatlan-nyilvántartásból
 
