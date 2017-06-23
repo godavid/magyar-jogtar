@@ -374,16 +374,16 @@ a bírósági végrehajtásról
 
 ### A végrehajtás foganatosításának megkezdése
 
-32. § (1) A bíróság, illetőleg a végrehajtható okiratot kiállító szerv a végrehajtható okiratot — a 10. § d) és e) pontjában említett végrehajtható okirat kivételével — megküldi az adós lakóhelye, illetőleg székhelye szerinti végrehajtónak és a végrehajtást kérőnek.
+32. § (1) A bíróság, illetőleg a végrehajtható okiratot kiállító szerv a végrehajtható okirat másolatát – a 10. § c)–g) pontjában említett végrehajtható okirat kivételével – elektronikus úton megküldi a Kar hivatali szervének. A közjegyző a végrehajtható okirat – a 10. § b) pontjában említett végrehajtható okirat esetén kizárólag a végrehajtási záradék – másolatát a Magyar Országos Közjegyzői Kamara (a továbbiakban: MOKK) számítástechnikai rendszerén keresztül küldi meg elektronikus úton a Kar hivatali szervének. Az ügyelosztás szabályaira figyelemmel a Kar hivatali szerve tájékoztatása alapján a bíróság, illetőleg a végrehajtható okiratot kiállító szerv a végrehajtható okiratot – a 10. § c)–g) pontjaiban említett végrehajtható okiratok kivételével – közvetlenül megküldi az adós lakóhelye, illetőleg székhelye szerinti végrehajtónak és a végrehajtást kérőnek.
 
 (2) A végrehajtható okiratot az adós végrehajtás alá vonható vagyontárgyának helye szerinti végrehajtóhoz kell eljuttatni, ha
 
 - a) ezt kívánta a végrehajtást kérő, vagy
 - b) az (1) bekezdés az adós lakóhelye, illetőleg székhelye hiányában nem alkalmazható.
 
-(3) A végrehajtást kérő kérelmére az egyik adóstárssal szemben elrendelt végrehajtás foganatosítására az (1) vagy (2) bekezdés szerint illetékes végrehajtó részére kell megküldeni az egyetemlegesen felelős többi adóstárssal szemben kiállított végrehajtható okiratot is.
+(3) A végrehajtást kérő kérelmére az egyik adóstárssal szemben elrendelt végrehajtás foganatosítására az (1) vagy a (2) bekezdés szerint illetékes végrehajtó részére kell megküldeni az egyetemlegesen felelős többi adóstárssal, a zálogkötelezettel és a kezessel szemben kiállított végrehajtható okiratot is.
 
-33. § (1) Ha a végrehajtás foganatosítását megkezdő végrehajtó (a továbbiakban: ügygazda végrehajtó) székhelye szerinti fővároson, illetőleg megyén (a továbbiakban együtt: megye) kívül válik szükségessé helyszíni eljárási cselekmény foganatosítása, az ügygazda végrehajtó megküldi a végrehajtható okirat másolatát és a szükséges iratokat az eljárási cselekmény foganatosításának helye szerint illetékes végrehajtónak (232., 255/A. §) vagy a végrehajtói iroda azon végrehajtó tagjának, akinek a székhelye a cselekmény foganatosításának helye szerinti megyében van (a továbbiakban: megkeresett végrehajtó), és ellátja őt a szükséges tájékoztatással.
+33. § (1) Ha a végrehajtás foganatosítását megkezdő végrehajtó (a továbbiakban: ügygazda végrehajtó) székhelye szerinti fővároson, illetőleg megyén (a továbbiakban együtt: megye) kívül válik szükségessé helyszíni eljárási cselekmény foganatosítása, az ügygazda végrehajtó megküldi a végrehajtható okirat másolatát és a szükséges iratokat elektronikus úton a Kar hivatali szervének, amely továbbítja az ügyelosztás szabályaira figyelemmel az eljárási cselekmény foganatosításának helye szerint illetékes azon végrehajtónak (232., 255/A. §) vagy a végrehajtói iroda azon végrehajtó tagjának, akinek a székhelye a cselekmény foganatosításának helye szerinti megyében van (a továbbiakban: megkeresett végrehajtó).
 
 (2) A megkeresett végrehajtó az eljárási cselekményeket foganatosítja, és a keletkezett iratokat a készkiadásairól készült költségelszámolással együtt megküldi az ügygazda végrehajtónak.
 
@@ -653,7 +653,7 @@ a bírósági végrehajtásról
 
 47. § (1) A végrehajtási eljárás eredményes lefolytatása érdekében a végrehajtó szükség esetén beszerzi az adós személyének azonosítására szolgáló, továbbá az adós lakóhelyére (tartózkodási helyére), székhelyére, telephelyére, munkahelyére (egyéni vállalkozására), jövedelmére és a végrehajtás alá vonható vagyontárgyaira (ingó, ingatlan vagyon, fizetési számla, betét, értékpapír, érdekeltség gazdasági társaságban stb.) vonatkozó adatokat.
 
-(2) A végrehajtó az (1) bekezdésben megjelölt eljárása során megkeresheti az adósra és vagyonára vonatkozó adatokat kezelő hatóságokat, szervezeteket, így különösen a rendőrséget, a gépjárműveket nyilvántartó hatóságot, a személyi adat- és lakcímnyilvántartó szerveket, okmányirodát, nyugdíjbiztosítási igazgatási szervet, az egészségbiztosítási szervet, adóhatóságot, cégbíróságot, pénzforgalmi szolgáltatókat, befektetési szolgáltatókat, ingatlanügyi hatóságot, a bizalmi vagyonkezelő vállalkozások és a bizalmi vagyonkezelési jogviszonyok nyilvántartását vezető hivatalt, a vízi és légi járművek lajstromát, illetve nyilvántartását vezető szerveket, a távközlési szervezeteket, az ingó jelzálogjogi nyilvántartást (a továbbiakban: zálogjogi nyilvántartás), a vezető és a hitelbiztosítéki nyilvántartást működtető szervezetet, a közjegyzőket, továbbá a Kart a végrehajtási ügyekről vezetett nyilvántartásba történő betekintés céljából.
+(2) A végrehajtó az (1) bekezdésben megjelölt eljárása során megkeresheti az adósra és vagyonára vonatkozó adatokat kezelő hatóságokat, szervezeteket, így különösen a rendőrséget, a gépjárműveket nyilvántartó hatóságot, a személyi adat- és lakcímnyilvántartó szerveket, okmányirodát, nyugdíjbiztosítási igazgatási szervet, az egészségbiztosítási szervet, adóhatóságot, cégbíróságot, pénzforgalmi szolgáltatókat, befektetési szolgáltatókat, ingatlanügyi hatóságot, a vízi és légi járművek lajstromát, illetve nyilvántartását vezető szerveket, a távközlési szervezeteket, az ingó jelzálogjogi nyilvántartást (a továbbiakban: zálogjogi nyilvántartás), a vezető és a hitelbiztosítéki nyilvántartást működtető szervezetet, a közjegyzőket, továbbá a Kart a végrehajtási ügyekről vezetett nyilvántartásba történő betekintés céljából.
 
 (3) A nyilvántartásokat vezető hatóságok és szervezetek a végrehajtó megkeresésének 8 napon belül, illeték- és díjmentesen kötelesek eleget tenni.
 
@@ -1093,7 +1093,7 @@ eredő követelések fejében vonható végrehajtás alá.
 
 (2) Az adós szabad rendelkezése alól zárolás iránti végrehajtói felhívás alapján kikerült összeg a zárolással biztosított követelés behajtása érdekében kiadott átutalási végzés vagy hatósági átutalási megbízás alapján utalható át vagy utalható ki.
 
-79/G. § (1) A bank, a takarékszövetkezet, az adós pénzforgalmi szolgáltatónál kezelt összegeinek, továbbá az adós által bizalmi vagyonkezelőre ruházott kezelt vagyonok, vagy bizalmi vagyonkezelővel szembeni kedvezményezettkénti juttatáshoz való jogának a felkutatása iránti végrehajtói intézkedések fogadása és a végrehajtói megkeresések megválaszolása érdekében e törvény szerinti elektronikus kapcsolattartásra köteles.
+79/G. § (1) A bank, a takarékszövetkezet, az adós pénzforgalmi szolgáltatónál kezelt összegeinek a felkutatása iránti végrehajtói intézkedések fogadása és a végrehajtói megkeresések megválaszolása érdekében e törvény szerinti elektronikus kapcsolattartásra köteles.
 
 (2) Az (1) bekezdés szerinti végrehajtói intézkedést tartalmazó, több címzett megjelölésével feladásra kerülő irat, valamint a megkeresésre adott válaszokat tartalmazó iratok tekintetében a kézbesítési rendszer a 35/A. § (7) bekezdése szerinti szolgáltatást nyújtja.
 
@@ -1419,7 +1419,7 @@ eredő követelések fejében vonható végrehajtás alá.
 
 ### Az ingóság értékesítésének időpontja
 
-115. § (1) A végrehajtó a lefoglalt ingóság értékesítése iránt a foglalást, illetve a vízi, légi jármű lajstromának, valamint az ingózálogjogi nyilvántartás adatainak beszerzését [84. § (4) bek., 103/A–103/B. §] követő 30 nap eltelte után haladéktalanul intézkedik.
+115. § (1) A végrehajtó a lefoglalt ingóság értékesítése iránt a foglalást, illetve a vízi, légi jármű lajstromának, valamint a zálogjogi és hitelbiztosítéki nyilvántartás adatainak beszerzését [84. § (4) bekezdés, 103/A–103/B. §] követő 30 nap eltelte után haladéktalanul intézkedik. Ha az ingóság a közfoglalkoztatáshoz nyújtható támogatásokról szóló kormányrendeletben meghatározott közfoglalkoztatási program keretében beszerzett és használt ingóság, akkor a becsértékének megállapítása iránt csak a támogatási időszak befejezése után lehet intézkedni.
 
 (2) Ha a foglalástól számított 8 napon belül igénypert indítottak, az igényelt vagyontárgy értékesítése iránt az igényper jogerős befejezése után lehet intézkedni.
 
@@ -1591,11 +1591,7 @@ eredő követelések fejében vonható végrehajtás alá.
 
 (2) Az elszámolás megtörténte nem érinti az adósnak a társasági tartozásokért fennálló, jogszabályban megállapított tagi felelősségét. A végrehajtást kérő az elszámolás megtörténte esetén sem felel a társaság tartozásaiért.
 
-(3) Az adós mint vagyonrendelő ellen indult végrehajtási eljárásban a követelés fedezetéül – a (4) bekezdésben foglaltak szerint – az a vagyon vagy vagyonhányad is szolgál, amely a vagyonrendelőt, vagy a kiadásra irányuló jog jogosultját a vagyonrendelő bizalmi vagyonkezelési jogviszonya megszűnése esetére megilleti. A végrehajtást kérő a (4) bekezdés szerint mondhatja fel a bizalmi vagyonkezelést, és ennek eredményeként a vagyonrendelőnek, vagy jogutódjának kiadandó vagyonhányadból hajtható be a követelés.
-
-(4) Ha az adósnak vagy a kiadásra irányuló jog jogosultjának a bizalmi vagyonkezelési szerződés megszűnése esetén vagyonra vagy vagyonhányadra lenne igénye, és a követelés az adós egyéb vagyontárgyaiból nincs teljesen fedezve vagy csak aránytalanul hosszú idő múlva elégíthető ki, a végrehajtó tájékoztatja a végrehajtást kérőt arról, hogy a rendes felmondás jogát gyakorolhatja. Ha a végrehajtást kérő a felmondást tartalmazó nyilatkozatát a végrehajtónak átadta, a végrehajtó megküldi azt a bizalmi vagyonkezelőnek, egyúttal az adósnak a bizalmi vagyonkezelővel szemben a bizalmi vagyonkezelési jogviszony megszűnése miatt fennálló követelését lefoglalja (110–113. §).
-
-(5) Az elszámolás megtörténte nem érinti az adósnak a bizalmi vagyonkezelési jogviszonyból eredő tartozásokért fennálló, jogszabályban megállapított felelősségét. A végrehajtást kérő az elszámolás megtörténte esetén sem felel a kezelt vagyont terhelő tartozásokért.
+(3)–(5)
 
 ### Elektronikus árverés
 
@@ -1668,7 +1664,7 @@ eredő követelések fejében vonható végrehajtás alá.
 - b) az árverező egyedi azonosítója,
 - c) a vételi ajánlat közzétételének időpontja.
 
-(6) Az árverés az árverési hirdetmény közzétételét követő 30. napnak a végrehajtó által meghatározott, 8 és 20 óra közé eső órájáig tart, azzal, hogy ha az árverés befejezését megelőző öt percen belül újabb vételi ajánlat érkezik, az árverés időtartama ezen vételi ajánlattételtől számított öt perccel automatikusan meghosszabbodik az utolsó vételi ajánlat megtételét követő ötödik perc végéig. Az árverés befejezésének időpontjában az elektronikus árverési rendszer a licitnaplót automatikusan lezárja és közzéteszi abban a lezárás időpontját, azt, hogy az árverési hirdetmény a közzétételi időtartam hány százalékában volt elérhető a felhasználók számára, és azt a kezdő és befejező időpontot, melyek között a hirdetmény nem volt elérhető a felhasználók számára.
+(6) Az árverés az árverési hirdetmény közzétételét követő 30. napnak a végrehajtó által meghatározott, 8 és 20 óra közé eső órájáig tart, azzal, hogy ha az árverés befejezését megelőző öt percen belül újabb vételi ajánlat érkezik, az árverés időtartama ezen vételi ajánlattételtől számított öt perccel automatikusan meghosszabbodik. Az árverés befejezésének időpontjában az elektronikus árverési rendszer a licitnaplót automatikusan lezárja és közzéteszi abban a lezárás időpontját, azt, hogy az árverési hirdetmény a közzétételi időtartam hány százalékában volt elérhető a felhasználók számára, és azt a kezdő és befejező időpontot, melyek között a hirdetmény nem volt elérhető a felhasználók számára.
 
 (7) Ha a végrehajtás a licitnapló automatikus lezárása előtt befejeződik, vagy már nem állnak fenn az ingóság árverési értékesítésének feltételei, a végrehajtó – ennek feltüntetésével – zárja le a licitnaplót.
 
@@ -1784,6 +1780,8 @@ eredő követelések fejében vonható végrehajtás alá.
 
 (3) A végrehajtó az ingatlan árveréséről szóló hirdetményt a becsérték megállapításától, végrehajtási kifogás előterjesztése esetén a becsérték tárgyában hozott jogerős bírósági határozat kézhezvételétől számított 30 napon belül köteles közzétenni az elektronikus árverési hirdetmények nyilvántartásában.
 
+(4) Ha az ingatlan a közfoglalkoztatáshoz nyújtható támogatásokról szóló kormányrendeletben meghatározott közfoglalkoztatási programban használt ingatlan, becsértékének megállapítása iránt csak a támogatási időszak befejezése után lehet intézkedni.
+
 ### Az ingatlan becsértéke
 
 140. § (1) A végrehajtó az ingatlan értékesítése előtt a 6 hónapnál nem régebbi adó- és értékbizonyítványt is figyelembe véve vagy – bármelyik fél erre irányuló kérelmére – igazságügyi szakértő szakvéleménye alapján megállapítja az ingatlan becsértékét mind a beköltözhető, mind pedig a lakott állapotban történő értékesítés esetére. Az adó- és értékbizonyítványnak, illetve a igazságügyi szakértő szakvéleményének tartalmaznia kell azt, hogy az ingatlan a 147. § (3) bekezdése szerint lakóingatlannak minősül-e.
@@ -1874,7 +1872,7 @@ eredő követelések fejében vonható végrehajtás alá.
 
 145/A. § Az árverési hirdetménynek az elektronikus árverési hirdetmények nyilvántartásában történő közzétételére a 132/D. §-t azzal kell alkalmazni, hogy a hirdetmény mellett az ingatlanról készült képfelvételt is közzé kell tenni az elektronikus árverési hirdetmények nyilvántartásában.
 
-145/B. § A 132/F. § (6) bekezdésének az árverés időtartamára vonatkozó rendelkezését az ingatlanárverés során azzal az eltéréssel kell alkalmazni, hogy az árverés az árverési hirdetmény elektronikus árverési hirdetmények nyilvántartásában történő közzétételét követő 60. napnak a végrehajtó által meghatározott, 8 és 20 óra közé eső órájáig tart; ha az árverés befejezését megelőző öt percen belül újabb vételi ajánlat érkezik, az árverés időtartama ezen vételi ajánlattételtől számított öt perccel automatikusan meghosszabbodik az utolsó vételi ajánlat megtételét követő ötödik perc végéig.
+145/B. § A 132/F. § (6) bekezdésének az árverés időtartamára vonatkozó rendelkezését az ingatlanárverés során azzal az eltéréssel kell alkalmazni, hogy az árverés az árverési hirdetmény elektronikus árverési hirdetmények nyilvántartásában történő közzétételét követő 60. napnak a végrehajtó által meghatározott, 8 és 20 óra közé eső órájáig tart; ha az árverés befejezését megelőző öt percen belül újabb vételi ajánlat érkezik, az árverés időtartama ezen vételi ajánlattételtől számított öt perccel automatikusan meghosszabbodik.
 
 145/C. § (1) A vételi ajánlatok elektronikus úton történő megtételére a 132/F. § rendelkezéseit kell alkalmazni az e §-ban foglalt eltérésekkel.
 
@@ -2040,7 +2038,7 @@ eredő követelések fejében vonható végrehajtás alá.
 
 (4) Az ingatlanra a végrehajtást kérők a vételi ajánlatok megtételére vonatkozó szabályok szerint tehetnek átvételi ajánlatot. Az átvételi ajánlatot az elektronikus árverési rendszer az átvételi ajánlat összegével, a közzététel időpontjával és az átvételi ajánlatot tevő végrehajtást kérő nevének (elnevezésének) feltüntetésével teszi közzé a licitnaplóban.
 
-(5) Az elektronikus átvételi eljárás az átvételi hirdetmény közzétételétől számított 15. napnak a végrehajtó által meghatározott 8 és 20 óra közé eső órájáig tart azzal, hogy ha az átvételi eljárás befejezését megelőző öt percen belül újabb átvételi ajánlat érkezik, az átvételi eljárás időtartama ezen ajánlattételtől számított öt perccel automatikusan meghosszabbodik az utolsó átvételi ajánlat megtételét követő ötödik perc végéig.
+(5) Az elektronikus átvételi eljárás az átvételi hirdetmény közzétételétől számított 15. napnak a végrehajtó által meghatározott 8 és 20 óra közé eső órájáig tart azzal, hogy ha az átvételi eljárás befejezését megelőző öt percen belül újabb átvételi ajánlat érkezik, az átvételi eljárás időtartama ezen ajánlattételtől számított öt perccel automatikusan meghosszabbodik.
 
 (6) Az ingatlan átvevője az automatikusan lezárt licitnaplóban utolsóként közzétett átvételi ajánlatot tevő végrehajtást kérő. Az átvétel jogkövetkezménye azonos az árverési vétel jogkövetkezményével.
 
@@ -3171,6 +3169,8 @@ esetén van lehetőség.
 
 (6) Ha a végrehajtási iratokat birtokló személy az (5) bekezdés szerinti kötelezettségének nem tesz eleget, a végrehajtó irodája a helyszíni ellenőrzés lefolytatása céljából, a végrehajtási iratok mielőbbi átadásának érdekében – a Ket. 57/B. § (4) és (5) bekezdésének alkalmazásával – felnyitható.
 
+(7) A Kar hivatali szervének vezetője jóváhagyásával az állandó helyettes és az újonnan kinevezett önálló bírósági végrehajtó a végrehajtási ügyek átadása során megállapodhatnak úgy is, hogy a folyamatban lévő végrehajtási ügyeket az állandó helyettes foganatosítja, az újonnan kinevezett önálló bírósági végrehajtó csak a kinevezését követően elrendelt végrehajtási ügyekben jár el.
+
 ### A végrehajtói szolgálat szünetelése
 
 240/B. § (1) Az egybefüggően 30 napot meghaladó távollét esetén a 31. naptól a végrehajtói szolgálat szünetel. Ha egy naptári évben a távollét összesen meghaladja a 90 napot, a végrehajtói szolgálat a 91. naptól szünetel.
@@ -3239,7 +3239,7 @@ esetén van lehetőség.
 
 (4) A végrehajtójelölt a végrehajtó irányítása alapján és utasításai szerint közreműködik a végrehajtási eljárásban, az ebből eredő kártérítési, illetve sérelemdíj iránti igényeket a végrehajtóval szemben kell érvényesíteni. A végrehajtójelölt végrehajtási cselekményt azonban – az (5) bekezdésben foglalt kivétellel – önállóan a végrehajtó nevében sem foganatosíthat. A végrehajtójelölt ügyviteli jellegű tevékenységet végez, így különösen jegyzőkönyvet készíthet és a végrehajtásban közreműködő szerveknél tájékozódás céljából eljárhat.
 
-(5) Végrehajtói kézbesítést a végrehajtójelölt akkor végezhet, ha a végrehajtó-jelölti kézbesítési vizsgát letette.
+(5) Helyszíni eljárási cselekményt a végrehajtójelölt akkor végezhet, ha a végrehajtói szakvizsgát letette. Végrehajtói kézbesítést a végrehajtójelölt akkor végezhet, ha a végrehajtó-jelölti kézbesítési vizsgát letette.
 
 (6) A Kar hivatali szerve törli a végrehajtójelöltet a végrehajtójelöltek névjegyzékéből, ha
 
@@ -3264,11 +3264,11 @@ esetén van lehetőség.
 
 243. § (1) A végrehajtót az általa foglalkoztatott, legalább egyéves végrehajtó-helyettesi gyakorlattal rendelkező végrehajtó-helyettes vagy az állandó helyettese helyettesítheti.
 
-(2) A végrehajtó a kinevezését követő 90 napon belül köteles bejelenteni az állandó helyettesét a Kar hivatali szervének, és azzal egyidejűleg be kell nyújtania az állandó helyettes helyettesítésre vonatkozó elfogadó nyilatkozatát.
+(2) A végrehajtó a kinevezését követő 90 napon belül köteles bejelenteni az állandó helyettesét a Kar hivatali szervének, és azzal egyidejűleg be kell nyújtania az állandó helyettese és közte létrejött, az állandó helyettesítésre vonatkozó megállapodást.
 
 (3) Ha a végrehajtónak több végrehajtó-helyettese van, ki kell jelölnie azt a helyettest, aki a helyettesítésre jogosult, és a kijelölést haladéktalanul be kell jelentenie a Kar hivatali szervének.
 
-(4) Állandó helyettes bármely végrehajtó lehet. Az állandó helyettes új állandó helyettes bejelentéséig köteles ellátni helyettesítési feladatait. A végrehajtó kettőnél több állandó helyettességet nem vállalhat.
+(4) Állandó helyettes bármely végrehajtó lehet. Az állandó helyettes új állandó helyettes bejelentéséig köteles ellátni helyettesítési feladatait. Amennyiben az állandó helyettes a helyettesi feladatainak ellátásában akadályozva van, nem látja el vagy arról lemondott, a Kar hivatali szervének vezetője a helyettesi feladatok ellátására a Kar elnökségével történő egyeztetést követően állandó helyettest nevez ki. A végrehajtó kettőnél több állandó helyettességet nem vállalhat.
 
 (5) A végrehajtó-helyettes a munkaviszonya fennállása alatt köteles ellátni helyettesítési feladatait.
 
@@ -4406,6 +4406,12 @@ a lakóingatlan kiürítését – a (3) bekezdésben foglalt kivétellel – a 
 306/X. § (1) E törvénynek a bírósági végrehajtásról szóló 1994. évi LIII. törvény módosításáról szóló 2017. évi XIV. törvénnyel (a továbbiakban e §-ban: Módtv.6.) megállapított rendelkezéseit azokban a Módtv.6. hatálybalépése napján folyamatban lévő végrehajtási eljárásokban is alkalmazni kell, amelyekben az ingatlanárverések kitűzésére még nem került sor.
 
 (2) Ha a végrehajtó a Módtv.6. hatálybalépése napjáig már közzétette az elektronikus árverési hirdetmények nyilvántartásában az ingatlan árveréséről szóló vagy annak folyamatos árverezése iránti hirdetményt, és arra érvényes vételi ajánlat nem érkezett, a végrehajtó a Módtv.6.-tal megállapított rendelkezéseknek megfelelően módosítja a hirdetményeken az érvényes vételi ajánlat legkisebb összegét, és az így módosított hirdetmény közzétételével folytatja az eljárást.
+
+306/Z. § (1) E törvénynek az egyes törvényeknek az üzleti környezet jogi versenyképességének növelése érdekében szükséges módosításáról szóló 2017. évi LXI. törvénnyel (a továbbiakban e §-ban: Módtv.7.) megállapított 132/F. § (6) bekezdését, 145/B. §-át, 158. § (5) bekezdését a Módtv.7. hatálybalépésekor folyamatban lévő végrehajtási eljárásokban is alkalmazni kell azzal, hogy a Módtv.7. hatálybalépését követően a Módtv.7.-vel megállapított rendelkezéseknek megfelelően kerülnek a soron következő árverések kitűzésre.
+
+(2) E törvénynek a Módtv.7.-vel megállapított 240/A. § (7) bekezdését a Módtv.7. hatálybalépését követően újonnan kinevezett kerülő önálló bírósági végrehajtók vonatkozásában kell alkalmazni.
+
+(3) E törvénynek a Módtv.7.-vel megállapított 115. § (1) bekezdését, 139. § (4) bekezdését a Módtv.7. hatálybalépését követően indult végrehajtási eljárásokban kell alkalmazni.
 
 ### Felhatalmazás
 

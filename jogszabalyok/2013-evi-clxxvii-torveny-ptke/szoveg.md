@@ -118,6 +118,8 @@ kell alkalmaznia [az a) és a b) pontban megjelölt időpont ezen alcím alkalma
 
 (5) Az (1)–(4) bekezdésben meghatározott rendelkezések irányadók azon cég esetében is, amelyre jogszabály a gazdasági társaságokra vonatkozó szabályok alkalmazását írja elő azzal, hogy e cégeknek – döntés hiányában – a Ptk.-t 2016. március 15-étől kell alkalmazniuk.
 
+12/A. § A korlátolt felelősségű társaság és a zártkörűen működő részvénytársaság a jegyzett tőkéjének felemelése során – kivéve a zártkörűen működő társaság működési formájának megváltoztatásához kapcsolódó tőkeemelést – a pénzbeli vagyoni hozzájárulás társaság részére történő rendelkezésre bocsátásának minősül az is, ha a pénzbeli hozzájárulás teljesítését vállaló személy a befizetni vállalt pénzbeli vagyoni hozzájárulást a jegyzett tőke emeléséről hozott határozatban meghatározott feltételek szerint a társaságot terhelő fizetési kötelezettség teljesítéseként harmadik személynek fizeti meg. E rendelkezés nem alkalmazható, ha a cégjegyzék adata szerint a társaság ellen csődeljárás, felszámolási eljárás, kényszertörlési eljárás vagy végrehajtás folyik, továbbá, ha a társaságot jogerősen megszűntnek nyilvánították.
+
 ### (A Ptk. 3:161. §-ához)
 
 13. § (1) A Ptk. hatálybalépésekor bejegyzett, vagy a 9. § (1) bekezdése szerint bejegyzés alatt álló azon korlátolt felelősségű társaság esetén, amelynek jegyzett tőkéje nem éri el a hárommillió forintot, a 12. § rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.

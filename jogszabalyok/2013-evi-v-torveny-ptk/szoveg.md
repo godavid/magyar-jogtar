@@ -10078,6 +10078,8 @@ E fejezet eltérő rendelkezésének hiányában a szállítmányozó és a megb
 
 (4) A vagyonkezelő kizárólagos kedvezményezetté nevezése semmis.
 
+(5) A kedvezményezetti jogosultság megszűnik, ha a kedvezményezett a szerződésben meghatározottaktól eltérő jogcímen érvényesít igényt a kezelt vagyonnal szemben.
+
 #### 6:312. § [A vagyonelkülönítés]
 
 (1) A kezelt vagyon a vagyonkezelő saját vagyonától és az általa kezelt egyéb vagyonoktól elkülönült vagyont képez, amelyet a vagyonkezelő köteles külön nyilvántartani. A felek ettől eltérő rendelkezése semmis.
@@ -10172,6 +10174,8 @@ A vagyonkezelőt a vagyonrendelő és a kedvezményezett nem utasíthatja; az e 
 
 (3) Több kedvezményezett ezt a jogot együttesen gyakorolhatja, azzal, hogy bármelyikük kérelmére a bíróság határoz a vagyonkezelői megbízatás megszűnéséről és új vagyonkezelő kijelöléséről. A bíróság nem jelölheti ki vagyonkezelőnek azt a személyt, aki ellen valamennyi kedvezményezett tiltakozik.
 
+(4) A vagyonrendelő a halála vagy jogutód nélküli megszűnése esetére a szerződésben kijelölheti a vagyonrendelőt megillető jogok gyakorlására jogosult és a vagyonrendelőt terhelő kötelezettségek teljesítésére köteles személyt. A kijelölésnek a vagyonkezelőhöz intézett nyilatkozattal történő elfogadása esetén a kijelölt személyt a vagyonrendelő jogai és kötelezettségei illetik meg, illetve terhelik abban a körben, amelyben a szerződés e jogait és kötelezettségeit nem korlátozta.
+
 #### 6:326. § [A bizalmi vagyonkezelés megszűnése]
 
 (1) A bizalmi vagyonkezelés megszűnik, ha
@@ -10179,7 +10183,8 @@ A vagyonkezelőt a vagyonrendelő és a kedvezményezett nem utasíthatja; az e 
 - a) a kezelt vagyon elfogy;
 - b) a vagyonkezelő a vagyonkezelést felmondja, a felmondást követő három hónap elteltével;
 - c) a kezelt vagyonnak három hónapot meghaladó ideig nincs vagyonkezelője, a vagyonkezelői megbízás megszűnésének időpontjában;
-- d) a vagyonrendelő volt az egyetlen kedvezményezett, az ő halálának időpontjában.
+- d) a vagyonrendelő volt az egyetlen kedvezményezett, az ő halálának időpontjában;
+- e) a vagyonrendelő a határozatlan időre kötött szerződést – annak eltérő rendelkezése hiányában – felmondja.
 
 (2) A vagyonkezelő a felmondásnál is a kedvezményezett érdekeinek elsődleges figyelembevétele mellett köteles eljárni.
 
@@ -10211,7 +10216,7 @@ A vagyonkezelőt a vagyonrendelő és a kedvezményezett nem utasíthatja; az e 
 
 (1) Ha a vagyonrendelő és a vagyonkezelő személye megegyezik, a bizalmi vagyonkezelés a vagyonrendelő közokiratba foglalt visszavonhatatlan egyoldalú nyilatkozatával jön létre.
 
-(2) Végrendelettel alapított vagyonkezelési jogviszony azzal jön létre, hogy a vagyonkezelővé való kijelölést a vagyonkezelő a végrendeletben meghatározott tartalommal elfogadja.
+(2) Végrendelettel alapított bizalmi vagyonkezelési jogviszony a vagyonkezelővé való kijelölésnek a vagyonkezelő által a végrendeletben meghatározott tartalommal történő elfogadásával a vagyonrendelő halálának időpontjára visszamenő hatállyal jön létre.
 
 (3) Az egyoldalú jogügylettel létesített bizalmi vagyonkezelési jogviszonyokra a bizalmi vagyonkezelési szerződés szabályait kell megfelelően alkalmazni.
 
@@ -12747,7 +12752,7 @@ Nem jár kötelesrész annak, akit az örökhagyó végintézkedésében érvén
 
 #### 7:80. § [A kötelesrész alapja]
 
-(1) A kötelesrész alapja a hagyaték tiszta értéke, valamint az örökhagyó által élők között bárkinek juttatott ingyenes adományok juttatáskori tiszta értéke.
+(1) A kötelesrész alapja a hagyaték tiszta értéke, valamint az örökhagyó által élők között bárkinek juttatott ingyenes adományok juttatáskori tiszta értéke, ideértve az örökhagyó által bizalmi vagyonkezelésbe adott vagyon értékét is (a továbbiakban: ingyenes adomány).
 
 (2) Aki számára az ingyenes adománynak a juttatáskori értéken való számításba vétele súlyosan méltánytalan, a bíróságtól kérheti a körülmények figyelembevételével vett más érték megállapítását.
 
@@ -12893,6 +12898,8 @@ Az örökösök a hagyatékot - kizárólag a hagyaték tárgyaira vonatkozóan 
 (3) Az örökös a hagyatéki költségekért és a hagyatéki eljárás költségeiért saját vagyonával is felel.
 
 (4) A házastárs a haszonélvezetével terhelt vagyonból tűrni köteles a hitelezők követeléseinek kielégítését, a hagyományon és a meghagyáson alapuló követelések kivételével.
+
+(5) Végrendelettel alapított bizalmi vagyonkezelési jogviszony esetén a bizalmi vagyonkezelő a hagyatéki tartozásokért a kezelt vagyonnal úgy felel, mintha dologi hagyományban részesült volna.
 
 #### 7:97. § [Az örököstársak felelőssége]
 

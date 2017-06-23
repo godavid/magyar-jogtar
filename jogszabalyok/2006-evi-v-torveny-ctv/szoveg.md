@@ -91,7 +91,8 @@ valamint a céginformációs szolgálat feladatai
 - b) csődeljárás esetén „csődeljárás alatt” („cs. a.”),
 - c) felszámolási eljárás esetén „felszámolás alatt” („f. a.”),
 - d) végelszámolási eljárás esetén „végelszámolás alatt” („v. a.”),
-- e) kényszertörlési eljárás esetén „kényszertörlés alatt” („kt. a.”) toldattal kell használni.
+- e) kényszertörlési eljárás esetén „kényszertörlés alatt” („kt. a.”),
+- f) határokon átnyúló egyesülés céljára létrejövő cég esetén „egyesülés céljára alapított” („e.a.”) toldattal kell használni.
 
 6. § (1) Két vagy több azonos nevű cég közül a választott név (rövidített név) viselésének joga azt illeti meg, amelyik a cégbejegyzési kérelmét elsőként nyújtotta be, illetve amelyik a (3) bekezdés alapján névfoglalással élt.
 
@@ -536,7 +537,7 @@ megismerhetők.
 
 - a) a tagok nevét, természetes személy esetén lakóhelyét, születési idejét, anyja születési nevét, jogi személy esetén székhelyét, és cégjegyzékszámát vagy nyilvántartási számát, valamint amennyiben a tag szavazati jogának mértéke az 50 százalékot meghaladja, vagy a tag minősített többségű befolyással rendelkezik, ezt a tényt is,
 - b) a tag tagsági jogviszonya keletkezésének és megszűnésének időpontját,
-- c) az üzletrészen alapított zálogjog tényét, a zálogjogosult nevét (cégnevét), lakóhelyét (székhelyét), cégjegyzékszámát (nyilvántartási számát),
+- c) az üzletrészen alapított zálogjog tényét, a zálogjogosult (zálogjogosulti bizományos) nevét (cégnevét), lakóhelyét (székhelyét), cégjegyzékszámát (nyilvántartási számát), zálogjogosulti bizományos esetén e minőségét,
 - d)
 - e) közös tulajdonú üzletrész esetén a tulajdonosok nevét, természetes személy esetén lakóhelyét, születési idejét, anyja születési nevét, jogi személy esetén székhelyét, és cégjegyzékszámát vagy nyilvántartási számát,
 - f) a cég EUID-ját.
@@ -677,9 +678,11 @@ is fel kell tüntetni a cégjegyzékben.
 
 (4) A cég a változásbejegyzési kérelemben meghatározhatja a 24. § (1) bekezdésének b)–e) és g)–h) pontjában, a 25. § (1) bekezdésének a)–e), h), i) és l) pontjában, továbbá n) és p)–q), s) és t) pontjában foglalt adatok változásának időpontját. A változás időpontja azonban nem lehet korábbi, mint a változás alapjául szolgáló határozat meghozatalának napja. Ennek hiányában vagy ellentmondásos okiratok esetén a változás időpontja az alapul szolgáló határozat meghozatalának a napja.
 
-(5) Ha jogszabály másként nem rendelkezik és a cég bejegyzésére irányuló cégeljárásban a pénzbeli hozzájárulás befizetésének igazolására e törvény rendelkezései alapján sor kerülhet ügyvéd által ellenjegyzett vagy közjegyző által közokiratba foglalt ügyvezetői nyilatkozattal, az ügyvezető a cég bejegyzését követő nyolc napon belül köteles a cég pénzforgalmi számláját megnyitni és a rendelkezésre bocsátott pénzbeli hozzájárulás összegét a számlára befizetni.
+(5) Ha jogszabály másként nem rendelkezik és a cég bejegyzésére irányuló cégeljárásban a pénzbeli hozzájárulás befizetésének igazolására e törvény rendelkezései alapján sor kerülhet ügyvéd által ellenjegyzett vagy közjegyző által közokiratba foglalt ügyvezetői nyilatkozattal, az ügyvezető a cég bejegyzését követő nyolc napon belül köteles a cég pénzforgalmi számláját megnyitni és a rendelkezésre bocsátott, a pénzforgalmi számla megnyitásáig a cég működése során fel nem használt pénzbeli vagyoni hozzájárulás összegét a számlára befizetni.
 
 (5a) Ha a tag felelőssége a cég tartozásaiért korlátozott és az egyes vagyoni hozzájárulások cégbejegyzést követő szolgáltatására lehetőség van, a vagyoni hozzájárulás teljesítésének megtörténtét a cég képviselője köteles a cégbíróságnak elektronikus úton bejelenteni.
+
+(5b) Ha a cég jegyzett tőkéjének emelése során a pénzbeli vagyoni hozzájárulás rendelkezésre bocsátására sor kerülhet a jegyzett tőke emeléséről hozott határozatban meghatározott feltételek szerint harmadik személynek történő fizetéssel is, a változásbejegyzési kérelemhez ügyvéd által ellenjegyzett vagy közjegyző által közokiratba foglalt vezető tisztségviselői nyilatkozatot kell csatolni a változás bejegyzéséhez szükséges pénzbeli vagyoni hozzájárulás megfizetésének megtörténtéről.
 
 (6) Az állami adóhatóság a cég adószámával, közösségi adószámával kapcsolatos elektronikus értesítését, illetve határozatát fokozott biztonságú elektronikus aláírással és időbélyegzővel köteles ellátni.
 
@@ -895,7 +898,11 @@ hiánypótlás nélküli elutasítása
 
 (1a) A 46. § (1) bekezdése szerinti eltiltási bejegyzésre vonatkozó elektronikus ellenőrzést a cégbíróság abban az esetben is lefolytatja, ha a változásbejegyzési kérelem vagy annak melléklete alapján megállapítható, hogy a gazdasági társaság már bejegyzett tagja a társaságban további befolyást szerez vagy szerzett.
 
-(2) A változásbejegyzési kérelem elbírálására egységesen a 46. §-ban meghatározott ügyintézési határidők vonatkoznak azzal az eltéréssel, hogy nyilvánosan működő részvénytársaságra vonatkozó kérelem esetén a hiánypótlási határidő negyvenöt nap is lehet.
+(2) A változásbejegyzési kérelem elbírálására – a (2a) és (2b) bekezdésben foglalt eltérésekkel – egységesen a 46. §-ban meghatározott ügyintézési határidők vonatkoznak.
+
+(2a) Nyilvánosan működő részvénytársaságra vonatkozó kérelem esetén a hiánypótlási határidő legfeljebb negyvenöt nap lehet.
+
+(2b) Ha a nyilvánosan működő részvénytársaság vagy a zártkörűen működő részvénytársaság a működési formája megváltoztatásának elhatározását és annak az 52. § (1) bekezdése szerinti bejelentését követően kizárólag a jegyzett tőkéjének emeléséről nyújt be változásbejegyzési kérelmet, a cégbíróság a kérelemről a kérelem érkezésétől számított három munkanapon belül határoz. A kérelem vagy a kérelemhez csatolt okiratok bármely hibája vagy hiányossága esetén a cégbíróság a kérelmet hiánypótlási eljárás lefolytatása nélkül elutasítja. Elutasítás esetén a cég a kérelmét a 45. § (5) bekezdése alkalmazásával ismételten benyújthatja. Ha a kérelem szerinti változás bejegyzésére vagy a kérelem elutasítására a kérelem érkezésétől számított három munkanapon belül nem kerül sor, a határidő leteltét követő munkanapon a változásbejegyzés – a kérelem alapján előszerkesztett adatok szerinti tartalommal – a törvény erejénél fogva, automatikus bejegyzéssel megtörténik.
 
 (3) A közkereseti társaság, a betéti társaság, a korlátolt felelősségű társaság és az egyéni cég esetében a változásbejegyzési kérelem – ideértve a IV. Fejezet 14., 15. és 17. címe szerinti eljárást – érdemi vizsgálatát a fogalmazó és bírósági ügyintéző is lefolytathatja, azonban a változásbejegyzési kérelmet elutasító, valamint olyan végzést, amely ellen külön fellebbezésnek van helye, csak a cégbíró előzetes, írásos hozzájárulásával hozhat. Korlátolt felelősségű társaság esetében e szabály a társaság jegyzett tőkéjének változására vonatkozó, továbbá olyan változásbejegyzési eljárására nem terjed ki, amelyben a csatolt létesítő okirat cégjegyzék adatot nem érintő módosítást tartalmaz.
 
@@ -917,11 +924,11 @@ hiánypótlás nélküli elutasítása
 
 ### 12. CÍM — A zártkörűen működő részvénytársaság működési formája megváltoztatásának – a cég részvényeinek tőzsdei bevezetése előtti – bejegyzésére irányuló eljárás
 
-52. § (1) A zártkörűen működő részvénytársaság a működési formájának megváltoztatására irányuló változásbejegyzési kérelmét – a cég részvényeinek tőzsdei bevezetése előtt – a működési formája megváltoztatásáról hozott döntésének meghozatalát követő harminc napon belül is benyújthatja. Ebben az esetben a kérelméhez a 2. számú melléklet II. 2. d) pont da) és db) alpontjaiban meghatározott mellékleteket nem kell csatolnia.
+52. § (1) A zártkörűen működő részvénytársaság a működési formájának megváltoztatására irányuló változásbejegyzési kérelmét – a cég részvényeinek tőzsdei bevezetése előtt – a működési formája megváltoztatásáról hozott döntésének meghozatalát követő harminc napon belül is benyújthatja. Ebben az esetben a kérelméhez a 2. számú melléklet II. 2. d) pont da) alpontjában meghatározott mellékleteket nem kell csatolnia.
 
 (2) Az (1) bekezdés szerinti esetben a cégbíróság a benyújtott iratok megfelelősége esetén a változást a cégjegyzékbe bejegyzi, azonban – a cég részvényeinek tőzsdei bevezetéséig – a változás időpontját (hatályát) nem tünteti fel. A bejegyzett adatokat a cég cégkivonata nem tartalmazza, azonban a cégmásolatban feltüntetésre kerülnek.
 
-(3) A (2) bekezdés szerinti bejegyzéstől számított egy éven belül – a cég részvényei tőzsdei bevezetésének igazolására – a cég – illeték és közzétételi költségtérítés megfizetése nélkül – köteles a 2. számú melléklet II.2. d) pont da) és db) alpontjában meghatározott mellékleteket a cégbírósághoz benyújtani. Az iratok szabályszerű benyújtása esetén a cégbíróság – további vizsgálat nélkül – három munkanapon belül a cégjegyzékbe bejegyzi a (2) bekezdéssel bejegyzett adatok változásának időpontját (hatályát). Az e bekezdés szerinti bejegyzés napja a 2. számú melléklet II.2. d) pont da) alpontban meghatározott igazolásban meghatározott, a részvények tőzsdei bevezetésének időpontja, ezen adat hiányában vagy ellentmondásos adatok esetén a változás időpontja (hatálya) az e bekezdés szerinti bejegyzés napja.
+(3) A (2) bekezdés szerinti bejegyzéstől számított egy éven belül – a cég részvényei tőzsdei bevezetésének igazolására – a cég – illeték és közzétételi költségtérítés megfizetése nélkül – köteles a 2. számú melléklet II.2. d) pont da) alpontjában meghatározott mellékleteket a cégbírósághoz benyújtani. Az iratok szabályszerű benyújtása esetén a cégbíróság – további vizsgálat nélkül – három munkanapon belül a cégjegyzékbe bejegyzi a (2) bekezdéssel bejegyzett adatok változásának időpontját (hatályát). Az e bekezdés szerinti változás időpontja a 2. számú melléklet II.2. d) pont da) alpontban meghatározott igazolásban meghatározott, a részvények tőzsdei bevezetésének időpontja, ezen adat hiányában vagy ellentmondásos adatok esetén a változás időpontja (hatálya) az e bekezdés szerinti bejegyzés napja.
 
 (4) A zártkörűen működő részvénytársaság a (2) és a (3) bekezdés szerinti bejegyzés közötti időszakban is nyújthat be változásbejegyzési kérelmet. A nyilvánosan működő részvénytársaság (2) bekezdés szerint már bejegyzett adatait a cégbíróság a (3) bekezdés szerinti bejegyzéskor az időközben történt változásokkal jegyzi be, kivéve, ha a cég az időközbeni változásokra tekintet nélkül kéri a nyilvánosan működő részvénytársaság (2) bekezdés szerinti adatait hatályosítani.
 
@@ -1024,6 +1031,8 @@ irányuló eljárás
 61/A. § (1) Az üzletrészt terhelő zálogjog a tag (zálogkötelezett) vagy a zálogjogosult változásbejegyzési kérelme alapján kerül bejegyzésre, illetve törlésre. A kérelemhez csatolni kell a 2. számú melléklet szerinti szükséges iratokat.
 
 (2) A cégbíróság a zálogszerződést csak abból a szempontból vizsgálja, hogy a korlátolt felelősségű társaság és tagjának zálogszerződésben feltüntetett adatai egyeznek-e a cégjegyzék adataival.
+
+(3) Ha a zálogjogosult zálogjogosulti bizományost jelölt ki, a cégjegyzékben a zálogjogosulti bizományost kell feltüntetni a zálogjogosulti bizományos minőségének megjelölése mellett. Ha a zálogjogosult adatait a cégjegyzék már tartalmazza, a zálogjogosulti bizományos bejegyzésével egyidejűleg törölni kell azon zálogjogosultra vonatkozó adatokat, akinek a javára a zálogjogosulti bizományos eljár.
 
 ### Tagváltozás bejegyzése iránti eljárás
 
@@ -1998,7 +2007,7 @@ a) a tagjegyzék, közös tulajdonú törzsbetét esetében a résztulajdonosok 
 
 b) a vagyoni hozzájárulással kapcsolatban
 
-ba) pénzforgalmi szolgáltató igazolása a pénzbeli hozzájárulás befizetéséről vagy ügyvéd által ellenjegyzett vagy közjegyző által közokiratba foglalt ügyvezetői nyilatkozat a pénzbeli hozzájárulásnak a társaság rendelkezésére bocsátásáról, illetve bejegyzett társaság esetében a létesítő okiratban (a legfőbb szerv határozatában) meghatározottak szerint történő befizetésről szóló igazolás,
+ba) pénzforgalmi szolgáltató igazolása a pénzbeli vagyoni hozzájárulás befizetéséről, vagy ügyvéd által ellenjegyzett vagy közjegyző által közokiratba foglalt ügyvezetői nyilatkozat a pénzbeli vagyoni hozzájárulásnak a társaság rendelkezésére bocsátásáról, illetve bejegyzett társaság esetében taggyűlési határozatban meghatározottak szerint történő megfizetéséről,
 
 bb) ügyvezetői nyilatkozat a nem pénzbeli hozzájárulás rendelkezésre bocsátásáról, a tagoknak a nem pénzbeli hozzájárulás értékelésére vonatkozó nyilatkozatával együtt;
 
@@ -2103,6 +2112,12 @@ III. Átalakulás bejegyzéséhez szükséges további okiratok:
 6. egyesülés esetén az egyesülési terv;
 
 7. szétválás esetén a szétválási terv.
+
+8. tanúsítvány kiadásához az 1., a 2., a 4–6. pontok alatti okiratok, a tőkeegyesítő társaságok határokon átnyúló egyesüléséről szóló 2007. évi CXL. törvény (a továbbiakban: Tetv.) 6. § (2) bekezdésében meghatározott okiratok, továbbá a nem magyar nyelven készült okiratok hiteles magyar nyelvű fordítása;
+
+9. a határon átnyúló egyesülés útján magyarországi székhellyel létrejövő társaság bejegyzéséhez az 1., a 2., a 4–6. pontok alatti okiratok, a tanúsítvány, a Tetv. 12. § (3) bekezdésében meghatározott okiratok, továbbá a nem magyar nyelven készült okiratok hiteles magyar nyelvű fordítása;
+
+10. a Tetv. 13/D. § szerinti bejegyzés esetén az 1., a 2., az 5. pontok alatti okiratok, a tanúsítvány, a Tetv. 12. § (3) bekezdésében meghatározott okiratok, továbbá a nem magyar nyelven készült okiratok hiteles magyar nyelvű fordítása;
 
 IV. Felszámolás esetén szükséges okiratok:
 
@@ -2224,13 +2239,15 @@ e) az üzletrész elzálogosításához kapcsolódóan
 
 ea) a zálogjog bejegyzése esetén a zálogszerződés egy eredeti példánya vagy annak – legalább a szerződő felek nevét (cégnevét), lakóhelyét (székhelyét), a zálog tárgyának meghatározását, a zálogjog kikötését, a szerződés megkötésének helyét és időpontját, valamint a felek aláírását tartalmazó – kivonata, továbbá a zálogjogosult által benyújtott bejegyzési kérelem esetén a tag (zálogkötelezett) teljes bizonyító erejű magánokiratba foglalt bejegyzési engedélye,
 
-eb) a tag (zálogkötelezett) által benyújtott törlési kérelem esetén a zálogjogosult teljes bizonyító erejű magánokiratba foglalt törlési engedélye;
+eb) a tag (zálogkötelezett) által benyújtott törlési kérelem esetén a zálogjogosult teljes bizonyító erejű magánokiratba foglalt törlési engedélye,
+
+ec) zálogjogosulti bizományos bejegyzése (törlése) esetén a zálogjogosulti bizományost kijelölő (kijelölést megszüntető) okirat, ha az üzletrészen alapított zálogjog feltüntetésére a zálogjogosulti bizományos bejegyzésével együtt kerül sor, az ea) pont szerinti okiratok is;
 
 2. a) részvénytársaság alapításával összefüggésben a nem pénzbeli vagyoni hozzájárulás értékéről adott könyvvizsgálói (szakértői) vélemény;
 
 b) részvénytársaság tőkeváltozásával kapcsolatban
 
-ba) új részvényekkel történő alaptőke-emelés esetében annak igazolása, hogy a tőkeemelést megelőzően forgalomba hozott részvények névértéke (kibocsátási értéke) befizetésre került és az érintettnek minősülő részvényfajta, illetve részvényosztály részvényeseinek hozzájárulást igazoló okiratok,
+ba) új részvényekkel történő alaptőke-emelés esetében annak igazolása, hogy a tőkeemelést megelőzően forgalomba hozott részvények névértéke (kibocsátási értéke) befizetésre került és az érintettnek minősülő részvényfajta, illetve részvényosztály részvényeseinek hozzájárulást igazoló okiratok, továbbá a pénzforgalmi szolgáltató igazolása a már teljesített pénzbeli vagyoni hozzájárulás befizetéséről, illetve ügyvéd által ellenjegyzett vagy közjegyző által közokiratba foglalt vezető tisztségviselői nyilatkozat a pénzbeli vagyoni hozzájárulásnak a közgyűlési határozatban meghatározottak szerint történő megfizetéséről,
 
 bb) a jegyzett tőkén felüli vagyonból történő tőkeemelés vagy dolgozói részvény kialakítása esetében a taggyűlés által elfogadott számviteli törvény szerinti beszámoló mérlege, illetve a közbenső mérleg,
 
@@ -2246,7 +2263,7 @@ d) zártkörűen működő részvénytársaság nyilvánosan működővé válá
 
 da) a tőzsde igazolása a részvények tőzsdei bevezetéséről, és idegen nyelvű igazolás esetén annak hiteles magyar nyelvű fordítása;
 
-db) a kibocsátás helye szerint illetékes hatóság által jóváhagyott, az értékpapír nyilvános kibocsátásához szükséges tájékoztató (összefoglaló) és idegen nyelvű tájékoztató (összefoglaló) és jóváhagyás esetén azok hiteles magyar nyelvű fordítása;
+db)
 
 dc) a vezető tisztségviselő nyilatkozata a várható költségekről, és azon kedvezményekről, amelyeket a társaság a működési forma változására tekintettel biztosít;
 
@@ -2340,11 +2357,11 @@ d) ha az európai szövetkezet a székhelyét Magyarországra helyezi át, a kü
 
 III. Átalakulás bejegyzéséhez szükséges további okiratok:
 
-1. az átalakulást megelőzően még be nem fizetett, illetve nem szolgáltatott vagyoni hozzájárulás teljesítésének igazolása;
+1. az átalakulást megelőzően még be nem fizetett, illetve nem szolgáltatott vagyoni hozzájárulás teljesítésének igazolása, kivéve a Tetv. 13/A.–13/D. § szerinti esetben;
 
 2. ha ilyen működik a cégnél, a felügyelőbizottságnak az átalakulással kapcsolatos nyilatkozata;
 
-3. a szükséges tőkepótlás befizetésének, illetve teljesítésének igazolása;
+3. a szükséges tőkepótlás befizetésének, illetve teljesítésének igazolása, a Tetv. 13/A. §–13/D. § szerinti esetben annak igazolása, hogy a teljes jegyzett tőke rendelkezésre bocsátásra került;
 
 4. ha az egyesülés vállalkozások összefonódását jelenti, a Gazdasági Versenyhivatal engedélye vagy a cég nyilatkozata arra vonatkozóan, hogy az összefonódás nem engedélyköteles;
 
@@ -2426,9 +2443,9 @@ c) ügyvezetői nyilatkozat a nem pénzbeli hozzájárulás rendelkezésre bocs�
 
 15. a zártkörűen működő részvénytársaság esetén:
 
-a) a közgyűlés összehívására vonatkozó meghívó (hirdetmény) és a jelenléti ív,
+a)
 
-b) a közgyűlés jegyzőkönyve (kivonata),
+b)
 
 c) a pénzforgalmi szolgáltató igazolása a pénzbeli hozzájárulás befizetéséről,
 
@@ -2439,6 +2456,8 @@ d) vezető tisztségviselői nyilatkozat a nem pénzbeli hozzájárulás rendelk
 a) hitelintézet igazolása a pénzbeli hozzájárulás befizetéséről vagy ügyvéd által ellenjegyzett vagy közjegyző által közokiratba foglalt ügyvezetői nyilatkozat a pénzbeli hozzájárulásnak a társaság rendelkezésére bocsátásáról,
 
 b) ügyvezetői nyilatkozat a nem pénzbeli hozzájárulás rendelkezésre bocsátásáról.
+
+17. végrehajtói iroda esetén a Magyar Bírósági Végrehajtói Kar alapítási engedélye.
 
 ### 4–7. számú melléklet a 2006. évi V. törvényhez
 
