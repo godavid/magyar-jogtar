@@ -28,7 +28,7 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 4. § (1) A földkiadó bizottság üléseit az elnök, vagy akadályoztatása esetén a bizottság által erre kijelölt tag vezeti. Az ülésen az érintett termőföldet használó szövetkezet képviselője tanácskozási és javaslattételi joggal vesz részt.
 
-(2) A földkiadó bizottság a tagok legalább felének jelenléte esetén határozatképes. Határozatait — ha e törvény másként nem rendelkezik — egyszerű szótöbbséggel hozza. Szavazategyenlőség esetén az elnök (az ülés vezetőjének ) szavazata dönt. A bizottság tagja a saját vagy hozzátartozója [Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk) 685. § b) pontja] ügyében nem járhat el. A bizottság ügyrendjét egyebekben maga állapítja meg, működési feltételeit az érintett önkormányzatok biztosítják a központi költségvetés terhére.
+(2) A földkiadó bizottság a tagok legalább felének jelenléte esetén határozatképes. Határozatait — ha e törvény másként nem rendelkezik — egyszerű szótöbbséggel hozza. Szavazategyenlőség esetén az elnök (az ülés vezetőjének ) szavazata dönt. A bizottság tagja a saját vagy hozzátartozója [a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk) 8:1. § (1) bekezdés 2. pontja] ügyében nem járhat el. A bizottság ügyrendjét egyebekben maga állapítja meg, működési feltételeit az érintett önkormányzatok biztosítják a központi költségvetés terhére.
 
 (3) A földkiadó bizottságot a bíróság és más hatóság előtt, valamint harmadik személlyel szemben a bizottság elnöke, vagy a bizottság által az erre kijelölt tag képviseli.
 
@@ -339,7 +339,7 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 (3) A sorsolás során a 9/C. § (3) bekezdését kell alkalmazni azzal az eltéréssel, hogy a sorsolás ellen az ingatlanügyi hatóságnál kifogás nyújtható be.
 
-(4) Az önálló földrészlet kialakítására a 9/C. § (6) bekezdését kell alkalmazni.
+(4) Az önálló földrészlet kialakítására – a visszamaradó földrészletet és a kialakuló ingatlanok megközelíthetőségét biztosító utak és más művelés alól kivett földrészletek kivételével – a 9/C. § (6) bekezdését kell alkalmazni.
 
 (5) A földrészlet megosztást követően az egyes tulajdoni hányadokra vonatkozó, illetve azokat terhelő, az ingatlan-nyilvántartásba bejegyzett jogok és feljegyzett tények – a keletkező önálló földrészletekre történő – visszajegyzéséről az ingatlanügyi hatóság gondoskodik.
 
@@ -360,6 +360,10 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 12/L. § (1) Az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott földmérő vállalkozó vagy vállalkozás és jogi szolgáltató részére az ingatlanügyi hatóság átadja a 12/F. § (1) bekezdésében foglalt kérelemben szereplő adatokat és a kérelemmel érintett ingatlan tulajdonosainak a tulajdoni lapon szereplő természetes személyazonosító adatait.
 
 (2) A földmérő vállalkozó vagy vállalkozás és jogi szolgáltató az (1) bekezdésben meghatározott adatokat a megosztási eljárás befejezéséig az (1) bekezdésben meghatározott kormányrendelet szerinti feladatai ellátása céljából kezelheti.
+
+12/M. § (1) A 12/L. § szerinti, a földmérő vállalkozó vagy vállalkozás és jogi szolgáltató részére történő adatszolgáltatást követően, a Ptk. szerinti megosztásra csak az e törvény szerinti közös tulajdon megszüntetésére vonatkozó kérelmek visszavonása esetén van lehetőség.
+
+(2) Ha a közös tulajdon megszüntetésére vonatkozó valamennyi kérelem nem került visszavonásra, akkor a korábban benyújtott, a Ptk. szerinti megosztásra irányuló változási vázrajz nem használható fel.
 
 ### Záró rendelkezések
 
@@ -415,3 +419,5 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 (3)
 
 19. § E törvénynek a járások kialakításáról, valamint egyes ezzel összefüggő törvények módosításáról szóló 2012. évi XCIII. törvénnyel megállapított 12/G. § (2) bekezdését, 9/C. § (9) bekezdését, 9/E. §-át a folyamatban lévő ügyekben is alkalmazni kell. Folyamatban lévő ügynek minősül az is, ha a mezőgazdasági igazgatási szerv a 9/C. § (1)–(4) bekezdése alapján sorsolást folytatott le, és a sorsolási jegyzőkönyvet megküldte az ingatlanügyi hatóságnak.
+
+20. § E törvénynek az egyes földügyi tárgyú törvények módosításáról szóló 2017. évi LVIII. törvénnyel (a továbbiakban: Módtv2.) megállapított 12/M. §-át a Módtv2. hatálybalépését követően indult eljárásokban kell alkalmazni.

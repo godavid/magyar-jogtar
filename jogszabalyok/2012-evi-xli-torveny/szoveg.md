@@ -57,7 +57,7 @@ a következő törvényt alkotja:
   - c) olyan egyéb gazdasági társaság, amelyben a települési (fővárosi) önkormányzat meghatározó befolyással rendelkezik;
 - 4. egységes egyeztetési eljárás: e törvény keretében meghatározott járművel végzett országos, regionális és elővárosi személyszállítási közszolgáltatásokra vonatkozó közszolgáltatási menetrendek elkészítésének folyamata, amelynek során a menetrendek mennyiségi és minőségi követelményeinek egységes rendszerét országos, regionális és elővárosi szinten a helyi közlekedési sajátosságokra is figyelemmel alakítják ki, és amelynek célja a személyszállítási közszolgáltatás-nyújtás hatékony módjának megválasztása, valamint a csatlakozások összehangolása a közlekedésért felelős miniszter által kidolgozott közszolgáltatási menetrendi koncepcióval összhangban;
 - 5. ellátásért felelős: a 4. § (3)–(4) bekezdésében meghatározott, 1370/2007/EK rendelet 2. cikk b) pontja szerinti illetékes hatóság;
-- 6. elővárosi személyszállítási szolgáltatás: a főváros vagy megyei jogú város és annak legfeljebb 70 km-es vonzáskörzete között végzett személyszállítási szolgáltatás;
+- 6. elővárosi személyszállítási szolgáltatás: a főváros vagy megyei jogú város és annak legfeljebb 100 km-es vonzáskörzete között végzett személyszállítási szolgáltatás;
 - 6a. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet;
 - 7. határon átmenő személyszállítási szolgáltatás: az a személyszállítási szolgáltatás, amelyben az utazás megkezdésének a helye és a célállomás helye vagy legalább azok egyike Magyarország területén kívül van, de az útvonal részben Magyarország területén halad;
 - 8. helyi személyszállítási szolgáltatás: a település közigazgatási határán belül – helyi díjszabás alapján – végzett személyszállítási szolgáltatás, a közúti járművel végzett személyszállítási közszolgáltatások esetében ideértve a település közigazgatási határon kívül eső vasútállomására (vasúti megállóhelyére), komp- vagy révátkelőhelyére közbeeső megállóhely érintése nélkül történő személyszállítási szolgáltatást is;
@@ -230,7 +230,11 @@ jogosult a személyszállítási szolgáltatásban részt vevő utas azonosítha
 
 ### II. Fejezet — A SZEMÉLYSZÁLLÍTÁSI SZOLGÁLTATÁSSAL KAPCSOLATOS HATÓSÁGI TEVÉKENYSÉG
 
-9. § A víziközlekedési személyszállítás engedélyezésére vonatkozó szabályokat a Vkt. és a vízi személyszállításról szóló rendelet, a vasúti személyszállítás engedélyezésére vonatkozó szabályokat a Vtv. állapítja meg.
+9. § (1) A víziközlekedési személyszállítás engedélyezésére vonatkozó szabályokat a Vkt. és a vízi személyszállításról szóló rendelet, a vasúti személyszállítás engedélyezésére vonatkozó szabályokat a Vtv. állapítja meg.
+
+(2) Az autóbuszos piacfelügyeleti és utasjogi hatóság (a továbbiakban: autóbuszos hatóság) döntései megtámadására vonatkozó közigazgatási perekben a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagos illetékességgel jár el.
+
+(3) Az autóbuszos hatóság piacfelügyeleti és utasjogi hatósági eljárásaiban országos illetékességgel jár el.
 
 #### 7. Az autóbusszal végzett személyszállítási szolgáltatással kapcsolatos tevékenység engedélyezése
 
@@ -347,17 +351,17 @@ amely nem felel meg a Kormány rendeletében meghatározott diszpécserszolgála
 
 15. § (1) A piacfelügyeleti tevékenységet a vasúti személyszállítási szolgáltatásokkal kapcsolatban a Vtv. alapján a Gazdasági Versenyhivatallal (a továbbiakban: versenyhatóság) együttműködve a vasúti igazgatási szerv végzi.
 
-(2) A közlekedési hatóság az autóbuszos közúti személyszállítási szolgáltatási piac zavartalan, eredményes működésének, a piaci szereplők érdekei védelmének, a tisztességes és hatékony piaci verseny fenntartásának elősegítése, és a versenykorlátozó magatartás tanúsítására lehetőséget adó helyzetek kiküszöbölése érdekében hatósági jogkörében felügyeleti ellenőrzési tevékenységet végez.
+(2) Az autóbuszos hatóság az autóbuszos közúti személyszállítási szolgáltatási piac zavartalan, eredményes működésének, a piaci szereplők érdekei védelmének, a tisztességes és hatékony piaci verseny fenntartásának elősegítése, és a versenykorlátozó magatartás tanúsítására lehetőséget adó helyzetek kiküszöbölése érdekében hatósági jogkörében felügyeleti ellenőrzési tevékenységet végez.
 
-(3) A közlekedési hatóság a piac felügyeletével kapcsolatos tevékenysége során figyelemmel kíséri az autóbuszos közúti személyszállítási szolgáltatási piac működését, az arra vonatkozó jogszabályokban és a közlekedési hatóság határozataiban foglaltak megtartását, és arról elemzést készít.
+(3) Az autóbuszos hatóság a piac felügyeletével kapcsolatos tevékenysége során figyelemmel kíséri az autóbuszos közúti személyszállítási szolgáltatási piac működését, az arra vonatkozó jogszabályokban és a közlekedési hatóság határozataiban foglaltak megtartását, és arról elemzést készít.
 
-(5) A közlekedési hatóság az autóbuszos közúti személyszállítási szolgáltatásokat végző közlekedési szolgáltatókat, valamint a közlekedésszervezőt az autóbusszal végzett közúti személyszállítási szolgáltatási piac felügyeletével kapcsolatos tevékenység ellátásához szükséges információk, adatok szolgáltatására kötelezheti.
+(5) Az autóbuszos hatóság az autóbuszos közúti személyszállítási szolgáltatásokat végző közlekedési szolgáltatókat, valamint a közlekedésszervezőt az autóbusszal végzett közúti személyszállítási szolgáltatási piac felügyeletével kapcsolatos tevékenység ellátásához szükséges információk, adatok szolgáltatására kötelezheti.
 
-(6) A közlekedési hatóság piacfelügyeleti tevékenysége során felügyeleti és ellenőrzési terv alapján és azon kívül is hivatalból vagy kérelemre folytat felügyeleti tevékenységet.
+(6) Az autóbuszos hatóság piacfelügyeleti tevékenysége során felügyeleti és ellenőrzési terv alapján és azon kívül is hivatalból vagy kérelemre folytat felügyeleti tevékenységet.
 
-(7) Az autóbuszos közúti személyszállítási szolgáltatási piac összehangolt felügyelete érdekében a közlekedési hatóság, a vasúti igazgatási szerv, valamint a hajózási hatóság egymással együttműködik.
+(7) Az autóbuszos közúti személyszállítási szolgáltatási piac összehangolt felügyelete érdekében az autóbuszos hatóság, a vasúti igazgatási szerv, valamint a hajózási hatóság egymással együttműködik.
 
-15/A. § (1) A közlekedési hatóság részére a piac felügyeletével kapcsolatos tevékenységéért az autóbusszal közúti személyszállítási szolgáltatásokat végző közlekedési szolgáltatók, továbbá a közlekedésszervező az autóbuszos személyszállítási tevékenységének a 22. § (2) bekezdése szerinti kijelölő jogszabály alapján végzett feladataihoz kapcsolódóan felügyeleti díjat fizetnek.
+15/A. § (1) Az autóbuszos hatóság részére a piac felügyeletével kapcsolatos tevékenységéért az autóbusszal közúti személyszállítási szolgáltatásokat végző közlekedési szolgáltatók, továbbá a közlekedésszervező az autóbuszos személyszállítási tevékenységének a 22. § (2) bekezdése szerinti kijelölő jogszabály alapján végzett feladataihoz kapcsolódóan felügyeleti díjat fizetnek.
 
 (2) A felügyeleti díj mértéke az előző évi autóbusszal végzett közúti személyszállítási szolgáltatások vagy a közlekedésszervező által az autóbuszos személyszállítási tevékenységhez kapcsolódóan a 22. § (2) bekezdése szerinti kijelölő jogszabály alapján végzett feladatai teljesítéséből származó nettó árbevétel 0,1%-a. Előző évi nettó árbevétel hiányában a felügyeleti díjat a tárgyidőszakban tényleges árbevétel alapján kell megfizetni.
 
@@ -365,36 +369,36 @@ amely nem felel meg a Kormány rendeletében meghatározott diszpécserszolgála
 
 (4) A felügyeleti díj számításának, megállapításának részletes szabályait, valamint megfizetésének módját és feltételeit a Kormány rendeletben állapítja meg.
 
-16. § (1) Ha a közlekedési hatóság az autóbuszos közúti személyszállítási szolgáltatási piac felügyelete során észleli a működési engedélyhez kötött tevékenység végzésével vagy a számviteli elkülönítéssel és a keresztfinanszírozás tilalmával vagy a közlekedésszervező tevékenységével kapcsolatosan jogszabályban, vagy a közlekedési hatóság határozatában meghatározott valamely kötelezettség megsértését,
+16. § (1) Ha az autóbuszos hatóság az autóbuszos közúti személyszállítási szolgáltatási piac felügyelete során észleli a működési engedélyhez kötött tevékenység végzésével vagy a számviteli elkülönítéssel és a keresztfinanszírozás tilalmával vagy a közlekedésszervező tevékenységével kapcsolatosan jogszabályban, vagy az autóbuszos hatóság határozatában meghatározott valamely kötelezettség megsértését,
 
 - a) megállapítja a tevékenység végzésének feltételeit és megtiltja a jogsértő magatartás folytatását,
 - b) a jogsértőt kötelezi az eljárás költségeinek megtérítésére,
 - c) az autóbusszal végzett személyszállítási szolgáltatásokra vonatkozó piacfelügyeleti eljárásról és a piacfelügyeleti bírságról szóló jogszabály alapján bírságot szab ki.
 
-(2) A kötelezettségek további súlyos és ismétlődő megszegése esetén a közlekedési hatóság felfüggesztheti vagy visszavonhatja a működési engedélyt.
+(2) A kötelezettségek további súlyos és ismétlődő megszegése esetén az autóbuszos hatóság felfüggesztheti vagy visszavonhatja a működési engedélyt.
 
 (3) A közlekedési hatóság piacfelügyeleti eljárásban hozott határozatai és végzései ellen közigazgatási eljárás keretében fellebbezésnek nincs helye, azokat felügyeleti jogkörben megváltoztatni vagy megsemmisíteni nem lehet.
 
-(4) A közlekedési hatóság és a versenyhatóság a közúti személyszállítási piacon folyó versenyt érintő kérdésekben a verseny védelmének következetes érvényre juttatása, illetve az egységes jogalkalmazás előmozdítása érdekében szorosan együttműködik, így különösen
+(4) Az autóbuszos hatóság és a versenyhatóság a közúti személyszállítási piacon folyó versenyt érintő kérdésekben a verseny védelmének következetes érvényre juttatása, illetve az egységes jogalkalmazás előmozdítása érdekében szorosan együttműködik, így különösen
 
 - a) az (1) bekezdés szerinti jogsértések,
 - b) a közúti személyszállítási piac felügyelete,
 - c) a 3. §-ban meghatározott együttműködési kötelezettség,
 - d) a közúti személyszállítási üzletszabályzatok érvényesülésének nyomon követése során.
 
-(5) A közlekedési hatóság és a versenyhatóság az együttműködés során köteles biztosítani, hogy eljárásaik az adatvédelemre vonatkozó jogszabályokkal összhangban legyenek, illetve az üzleti titokhoz fűződő érdekek ne sérüljenek. Ennek keretében az adatot a másik hatóságnak átadó hatóság értesíti az adatszolgáltatót az adatok átadásáról. Az átvevő hatóság biztosítja, hogy a részére átadott adatok legalább olyan védelemben részesüljenek, mint amilyen védelemben az átadó hatóságnál részesültek.
+(5) Az autóbuszos hatóság és a versenyhatóság az együttműködés során köteles biztosítani, hogy eljárásaik az adatvédelemre vonatkozó jogszabályokkal összhangban legyenek, illetve az üzleti titokhoz fűződő érdekek ne sérüljenek. Ennek keretében az adatot a másik hatóságnak átadó hatóság értesíti az adatszolgáltatót az adatok átadásáról. Az átvevő hatóság biztosítja, hogy a részére átadott adatok legalább olyan védelemben részesüljenek, mint amilyen védelemben az átadó hatóságnál részesültek.
 
-(6) A közlekedési hatóság a (3) bekezdésben meghatározott eljárása során a versenyhatóság szakmai álláspontját kiemelten figyelembe veszi, amennyiben attól eltér, annak indokairól a versenyhatóságot és az ügyfelet tájékoztatja.
+(6) Az autóbuszos hatóság a (3) bekezdésben meghatározott eljárása során a versenyhatóság szakmai álláspontját kiemelten figyelembe veszi, amennyiben attól eltér, annak indokairól a versenyhatóságot és az ügyfelet tájékoztatja.
 
-(7) A közlekedési hatóság, valamint a versenyhatóság az együttműködésük részleteit rögzítik, évente felülvizsgálják, és a nyilvánosság számára hozzáférhetővé teszik, ideértve az együttműködés eredményeként létrehozott módszertanokat is.
+(7) Az autóbuszos hatóság, valamint a versenyhatóság az együttműködésük részleteit rögzítik, évente felülvizsgálják, és a nyilvánosság számára hozzáférhetővé teszik, ideértve az együttműködés eredményeként létrehozott módszertanokat is.
 
 #### 13. A személyszállítást igénybevevő utasok jogainak védelme
 
 17. § (1) A vasúti igazgatási szerv felügyeli a vasúti személyszállítást igénybe vevő utasok jogaira vonatkozó jogszabályi rendelkezések vasúti társaságok és a közlekedésszervező általi megtartását. E tevékenysége körében hivatalból ellenőrzi és elemzi az 1371/2007/EK rendeletben, e törvényben, a vasúti személyszállítás részletes feltételeiről szóló rendeletben, a vasúti társaságok személyszállítási üzletszabályzatában és a közlekedésszervező személyszállítási üzletszabályzatában foglaltak megtartását.
 
-(2) A vasúti igazgatási szerv (1) bekezdés szerinti eljárására a Vtv. 75. § (3)–(4) bekezdésében foglaltakat megfelelően alkalmazni kell.
+(2) A vasúti igazgatási szerv (1) bekezdés szerinti eljárására a Vtv. 77. § (2) bekezdésében és 79/E. § (4) bekezdésében foglaltakat megfelelően alkalmazni kell.
 
-(3) A közlekedési hatóság felügyeli az autóbuszos személyszállítást igénybe vevő utasok jogaira vonatkozó jogszabályi rendelkezéseknek az autóbuszos személyszállító szolgáltatók, valamint a közlekedésszervezők általi megtartását. E tevékenysége körében hivatalból ellenőrzi és elemzi a 181/2011/EU rendeletben, e törvényben, a 49. § (1) bekezdés d) pontjában adott felhatalmazás alapján megalkotott rendeletben, az autóbuszos személyszállító szolgáltatók személyszállítási üzletszabályzatában – ideértve a szolgáltatás minőségi előírásait is – és a közlekedésszervezők személyszállítási üzletszabályzatában foglaltak megtartását.
+(3) Az autóbuszos hatóság felügyeli az autóbuszos személyszállítást igénybe vevő utasok jogaira vonatkozó jogszabályi rendelkezéseknek az autóbuszos személyszállító szolgáltatók, valamint a közlekedésszervezők általi megtartását. E tevékenysége körében hivatalból ellenőrzi és elemzi a 181/2011/EU rendeletben, e törvényben, a 49. § (1) bekezdés d) pontjában adott felhatalmazás alapján megalkotott rendeletben, az autóbuszos személyszállító szolgáltatók személyszállítási üzletszabályzatában – ideértve a szolgáltatás minőségi előírásait is – és a közlekedésszervezők személyszállítási üzletszabályzatában foglaltak megtartását.
 
 (4) Ha a vasúti igazgatási szerv az (1) bekezdésben meghatározott valamely rendelkezés megsértését állapítja meg, a vasúti társaság vagy a közlekedésszervező számára
 
@@ -413,9 +417,9 @@ amely nem felel meg a Kormány rendeletében meghatározott diszpécserszolgála
 (5a) Az utasjogi felügyeleti bírságot
 
 - a) a vasúti igazgatási szerv a (4) bekezdés a)–b) és d) pontjában,
-- b) a közlekedési hatóság az (5) bekezdés a)–b) és d) pontjában meghatározott jogkövetkezmények alkalmazása mellett is kiszabhatja.
+- b) az autóbuszos hatóság az (5) bekezdés a)–b) és d) pontjában meghatározott jogkövetkezmények alkalmazása mellett is kiszabhatja.
 
-(5b) A vasúti igazgatási szerv vagy a közlekedési hatóság figyelmeztetést is alkalmazhat, ha
+(5b) A vasúti igazgatási szerv vagy az autóbuszos hatóság figyelmeztetést is alkalmazhat, ha
 
 - a) a jogsértéssel érintett utasok
   - aa) száma nem haladja meg a vonat vagy az autóbusz utasainak 10%-át, vagy
@@ -424,23 +428,23 @@ amely nem felel meg a Kormány rendeletében meghatározott diszpécserszolgála
 
 (5c) Az utasjogi felügyeleti bírság több jogsértés együttes megvalósítása esetén minden jogsértés után kiszabható. Folyamatosan más-más érintett terhére elkövetett jogsértés esetében az utasjogi felügyeleti bírság esetenként külön-külön szabható ki.
 
-(5d) Az utasjogi felügyeleti bírság kiszabására irányuló eljárás a vasúti igazgatási szervnek vagy a közlekedési hatóságnak a jogsértésről való tudomásszerzésétől számított hat hónapon belül, de legkésőbb a jogsértés bekövetkezését követő egy éven belül indítható meg. Ha a jogsértő magatartás folyamatos, a határidő a magatartás abbahagyásakor kezdődik. Ha a jogsértő magatartás azzal valósul meg, hogy valamely helyzetet vagy állapotot nem szüntetnek meg, a határidő mindaddig nem kezdődik el, amíg ez a helyzet vagy állapot fennáll.
+(5d) Az utasjogi felügyeleti bírság kiszabására irányuló eljárás a vasúti igazgatási szervnek vagy az autóbuszos hatóságnak a jogsértésről való tudomásszerzésétől számított hat hónapon belül, de legkésőbb a jogsértés bekövetkezését követő egy éven belül indítható meg. Ha a jogsértő magatartás folyamatos, a határidő a magatartás abbahagyásakor kezdődik. Ha a jogsértő magatartás azzal valósul meg, hogy valamely helyzetet vagy állapotot nem szüntetnek meg, a határidő mindaddig nem kezdődik el, amíg ez a helyzet vagy állapot fennáll.
 
-(6) A kötelezettségek súlyos és ismétlődő megszegése esetén – amennyiben a (4), illetve (5) bekezdésben meghatározott egyéb jogkövetkezmények nem vezettek eredményre – a vasúti igazgatási szerv, illetve a közlekedési hatóság felfüggesztheti vagy visszavonhatja a személyszállítási közszolgáltatás végzésére jogosító működési engedélyt.
+(6) A kötelezettségek súlyos és ismétlődő megszegése esetén – amennyiben a (4), illetve (5) bekezdésben meghatározott egyéb jogkövetkezmények nem vezettek eredményre – a vasúti igazgatási szerv, illetve az autóbuszos hatóság felfüggesztheti vagy visszavonhatja a személyszállítási közszolgáltatás végzésére jogosító működési engedélyt.
 
-18. § (1) A vasúti személyszállítást vagy az autóbuszos személyszállítást igénybe vevő vagy igénybe venni szándékozó személy (a továbbiakban: panaszos) panasszal élhet a vasúti igazgatási szervnél, illetve a közlekedési hatóságnál, ha álláspontja szerint a személyszállító szolgáltató vagy a közlekedésszervező megsértette a 17. § (1) vagy (3) bekezdését. A panasz – személyesen, postai vagy elektronikus úton – akkor terjeszthető elő, ha a panaszos a vasúti vagy az autóbuszos személyszállító szolgáltató vagy a közlekedésszervező panaszkezelési eljárását igénybe vette, de az nem vezetett a panaszos számára kielégítő eredményre.
+18. § (1) A vasúti személyszállítást vagy az autóbuszos személyszállítást igénybe vevő vagy igénybe venni szándékozó személy (a továbbiakban: panaszos) panasszal élhet a vasúti igazgatási szervnél, illetve az autóbuszos hatóságnál, ha álláspontja szerint a személyszállító szolgáltató vagy a közlekedésszervező megsértette a 17. § (1) vagy (3) bekezdését. A panasz – személyesen, postai vagy elektronikus úton – akkor terjeszthető elő, ha a panaszos a vasúti vagy az autóbuszos személyszállító szolgáltató vagy a közlekedésszervező panaszkezelési eljárását igénybe vette, de az nem vezetett a panaszos számára kielégítő eredményre.
 
-(2) Vasúti személyszállítás esetén panaszt benyújtani a vasúti társaság vagy közlekedésszervező panaszkezelési eljárását lezáró dokumentum panaszossal való közlésétől számított, ennek hiányában a panaszkezelési szabályzatban az eljárásra meghatározott határidő leteltét követő 30 napon belül lehet. A vasúti társaság vagy a közlekedésszervező a panaszkezelési eljárását lezáró dokumentumban tájékoztatni köteles a panaszost arról, hogy a panaszkezelési eljárással szemben a vasúti igazgatási szervhez fordulhat. E határidőn túl a vasúti igazgatási szervhez benyújtott panaszokat a vasúti igazgatási szerv érdemi vizsgálat nélkül elutasítja. A vasúti társaság vagy a közlekedésszervező panaszkezelési eljárásában hozott, az ügyet lezáró dokumentumot a vasúti igazgatási szerv részére a panasz mellékleteként be kell nyújtani. Ennek hiányában a vasúti igazgatási szerv hiánypótlási felhívást bocsát ki. A vasúti igazgatási szerv a bejelentésnek minősülő beadványok megtételének elősegítése érdekében honlapján is közzéteszi a panasz megtételére szolgáló űrlapot.
+(2) Vasúti személyszállítás esetén panaszt benyújtani a vasúti társaság vagy közlekedésszervező panaszkezelési eljárását lezáró dokumentum panaszossal való közlésétől számított, ennek hiányában az üzletszabályzat panaszkezelésre vonatkozó részében (a továbbiakban: panaszkezelési szabályzat) az eljárásra meghatározott határidő leteltét követő 30 napon belül lehet. A vasúti társaság vagy a közlekedésszervező a panaszkezelési eljárását lezáró dokumentumban tájékoztatni köteles a panaszost arról, hogy a panaszkezelési eljárással szemben a vasúti igazgatási szervhez fordulhat. E határidőn túl a vasúti igazgatási szervhez benyújtott panaszokat a vasúti igazgatási szerv érdemi vizsgálat nélkül elutasítja. A vasúti társaság vagy a közlekedésszervező panaszkezelési eljárásában hozott, az ügyet lezáró dokumentumot a vasúti igazgatási szerv részére a panasz mellékleteként be kell nyújtani. Ennek hiányában a vasúti igazgatási szerv hiánypótlási felhívást bocsát ki. A vasúti igazgatási szerv a bejelentésnek minősülő beadványok megtételének elősegítése érdekében honlapján is közzéteszi a panasz megtételére szolgáló űrlapot.
 
-(3) Autóbuszos személyszállítási szolgáltatás esetében a panaszkezelési eljárást a 49. § (1) bekezdés d) pontjában adott felhatalmazás alapján megalkotott rendelet és az autóbuszos személyszállító szolgáltatók személyszállítási üzletszabályzata, közlekedésszervező esetében annak a 19. § (6) bekezdésben meghatározott esetben megalkotott személyszállítási üzletszabályzata tartalmazza.
+(3) Autóbuszos személyszállítás esetén panaszt benyújtani a szolgáltató vagy közlekedésszervező panaszkezelési eljárását lezáró dokumentum panaszossal való közlésétől számított, ennek hiányában az üzletszabályzat panaszkezelésre vonatkozó részében vagy azon szolgáltatók esetében, amelyek nem rendelkeznek az autóbuszos hatóság által jóváhagyott üzletszabályzattal, az autóbuszos hatóság által jóváhagyott önálló panaszkezelési szabályzatban (a továbbiakban együtt: panaszkezelési szabályzat) az eljárásra meghatározott határidő leteltét követő 30 napon belül lehet az autóbuszos hatóságnál. A szolgáltató vagy a közlekedésszervező a panaszkezelési eljárását lezáró dokumentumban tájékoztatni köteles a panaszost arról, hogy a panaszkezelési eljárással szemben az autóbuszos hatósághoz fordulhat. E határidőn túl az autóbuszos hatósághoz benyújtott panaszokat az autóbuszos közlekedési hatóság visszautasítja. A szolgáltató vagy a közlekedésszervező panaszkezelési eljárásában hozott, az ügyet lezáró dokumentumot az autóbuszos hatóság részére a panasz mellékleteként be kell nyújtani. Ennek hiányában az autóbuszos hatóság hiánypótlási felhívást bocsát ki. A panasz kivizsgálása során az autóbuszos hatóság a tényállás tisztázása érdekében több ízben is bocsáthat ki hiánypótlásra felhívást. Az autóbuszos hatóság abban az esetben is visszautasítja a kérelmet, ha az nem az előterjesztésre jogosulttól származik. Az autóbuszos hatóság panaszkezelési eljárására vonatkozó további szabályokat a 49. § (1) bekezdés d) pontjában adott felhatalmazás alapján megalkotott rendelet tartalmazza.
 
 (4) Panasz olyan beadvány benyújtásával tehető, amely tartalmazza a panaszos és a panaszolt személyszállító szolgáltató vagy közlekedésszervező azonosításához szükséges adatokat, a feltételezett jogsértés megjelölését, a feltételezett jogsértést megvalósító konkrét magatartás leírását, a feltételezett jogsértéssel kapcsolatos állításokat alátámasztó tényeket és bizonyítékokat.
 
-(5) A vasúti igazgatási szerv, illetve a közlekedési hatóság a panaszost, a szolgáltatót, a közlekedésszervezőt és az érintett harmadik felet meghallgathatja, valamint tőlük további felvilágosítást és információt kérhet.
+(5) A vasúti igazgatási szerv, illetve az autóbuszos hatóság a panaszost, a szolgáltatót, a közlekedésszervezőt és az érintett harmadik felet meghallgathatja, valamint tőlük további felvilágosítást és információt kérhet.
 
 (6) A korábbival azonos tartalmú, ugyanazon panaszos által tett ismételt, továbbá a névtelen panasz vizsgálata mellőzhető.
 
-(7) A panasz alapján – ha az alaposnak bizonyul – a vasúti igazgatási szerv, illetve a közlekedési hatóság dönt a szükséges hatósági lépések megtételéről, s erről a panaszost tájékoztatja.
+(7) A panasz alapján – ha az alaposnak bizonyul – a vasúti igazgatási szerv, illetve az autóbuszos hatóság dönt a szükséges hatósági lépések megtételéről, s erről a panaszost tájékoztatja.
 
 ## MÁSODIK RÉSZ — A MENETREND SZERINTI SZEMÉLYSZÁLLÍTÁSI SZOLGÁLTATÁSRA VONATKOZÓ SZABÁLYOK
 
@@ -448,7 +452,7 @@ amely nem felel meg a Kormány rendeletében meghatározott diszpécserszolgála
 
 #### 14. Közös szabályok
 
-19. § (1) Menetrend szerinti közforgalmú közúti, vasúti és e törvény hatálya alá tartozó vízi személyszállítási szolgáltatás az e törvény és a vasúti hatóság, a vasúti igazgatási szerv, vagy a személyszállítási feltételekről szóló jogszabály alapján kiadott, az adott személyszállítási szolgáltatási tevékenység végzéséhez szükséges működési engedély birtokában végezhető.
+19. § (1) Menetrend szerinti közforgalmú közúti, vasúti és e törvény hatálya alá tartozó vízi személyszállítási szolgáltatás az e törvény vagy a személyszállítási feltételekről szóló jogszabály alapján a közlekedési hatóság vagy a vasúti igazgatási szerv által kiadott, az adott személyszállítási szolgáltatási tevékenység végzéséhez szükséges működési engedély vagy tudomásul vett bejelentés birtokában végezhető.
 
 (1a) A vízi személyszállítási közszolgáltatás lebonyolítására alkalmas és ahhoz szükséges vízparti ingatlanok, kikötőhelyek, kikötői infrastruktúra használatával kapcsolatban a miniszter közlekedésszakmai és hozzáférési feltételeket írhat elő. A szakmai feltételek kiterjednek a kikötői infrastruktúra használatára, szolgáltatási színvonalára, forgalmi rendjére, az infrastruktúrához történő hozzáféréssel kapcsolatos szabályokra, a kikötői infrastruktúra üzemeltetésével és fenntartásával kapcsolatos részletes előírásokra, valamint a személyi és képesítési követelményekre.
 
@@ -458,9 +462,9 @@ amely nem felel meg a Kormány rendeletében meghatározott diszpécserszolgála
 
 (4) A közforgalmú személyszállítási szolgáltatást végző közlekedési szolgáltató – kivéve a taxi és a személygépkocsis személyszállító szolgáltatást végző szolgáltató – a közforgalmú személyszállítási szolgáltatására vonatkozó általános szerződési feltételeket tartalmazó személyszállítási üzletszabályzatot készít. A közlekedésszervező a személyszállítási tevékenységhez kapcsolódóan, a 22. § (2) bekezdése szerinti kijelölő jogszabály alapján végzett feladatai ellátására vonatkozó személyszállítási üzletszabályzatot készít.
 
-(5) A vasúti személyszállítási üzletszabályzatot, a közlekedésszervezőnek a személyszállítási tevékenységhez kapcsolódó, a 22. § (2) bekezdése szerinti kijelölő jogszabály alapján végzett feladatai ellátására vonatkozó személyszállítási üzletszabályzatot és annak módosítását a vasúti igazgatási szerv e törvényben, a Vtv-ben, az országos működési engedély alapján végzett vasúti személyszállítás feltételeiről szóló kormányrendeletben és a térségi, az elővárosi és a helyi működési engedély alapján végzett vasúti személyszállítás feltételeiről szóló kormányrendeletben meghatározottak szerint hagyja jóvá. A jóváhagyás nem tagadható meg, ha a vasúti személyszállítási üzletszabályzat, illetve a közlekedésszervező személyszállítási üzletszabályzata az e törvényben a Vtv-ben, az országos működési engedély alapján végzett vasúti személyszállítás feltételeiről szóló kormányrendeletben és a térségi, az elővárosi és a helyi működési engedély alapján végzett vasúti személyszállítás feltételeiről szóló kormányrendeletben meghatározott feltételeknek megfelel.
+(5) A vasúti társaság személyszállítási üzletszabályzatát, a közlekedésszervezőnek a személyszállítási tevékenységhez kapcsolódó, a 22. § (2) bekezdése szerinti kijelölő jogszabály alapján végzett feladatai ellátására vonatkozó személyszállítási üzletszabályzatot és annak módosítását a vasúti igazgatási szerv e törvényben, a Vtv.-ben, az országos működési engedély alapján végzett vasúti személyszállítás részletes feltételeiről szóló kormányrendeletben és a térségi, az elővárosi, a városi és a helyi működési engedély alapján, valamint a kisvasút és múzeumvasút által végzett vasúti személyszállítás részletes feltételeiről szóló kormányrendeletben meghatározottak szerint hagyja jóvá. A jóváhagyás nem tagadható meg, ha a vasúti személyszállítási üzletszabályzat, vagy a közlekedésszervező személyszállítási üzletszabályzata az e törvényben, a Vtv.-ben, az országos működési engedély alapján végzett vasúti személyszállítás részletes feltételeiről szóló kormányrendeletben és a térségi, az elővárosi, a városi és a helyi működési engedély alapján, valamint a kisvasút és a múzeumvasút által végzett vasúti személyszállítás részletes feltételeiről szóló kormányrendeletben meghatározott feltételeknek megfelel.
 
-(6) A közúti személyszállítási szolgáltatást végző szolgáltatók személyszállítási üzletszabályzatát, annak módosítását az autóbuszos személyszállítási szolgáltatás 181/2011/EU rendeletben nem szabályozott részletes feltételeire, valamint a személyszállítási üzletszabályzat tartalmára és jóváhagyására vonatkozó jogszabály alapján a közlekedési hatóság hagyja jóvá. Ha a bevételek beszedését a közlekedésszervező végzi, az üzletszabályzat elkészítésére vonatkozó kötelezettség a közlekedésszervezőre is kiterjed.
+(6) A közúti személyszállítási szolgáltatást végző szolgáltatók személyszállítási üzletszabályzatát, annak módosítását az autóbuszos személyszállítási szolgáltatás 181/2011/EU rendeletben nem szabályozott részletes feltételeire, valamint a személyszállítási üzletszabályzat tartalmára és jóváhagyására vonatkozó jogszabály alapján az autóbuszos hatóság hagyja jóvá. Ha a bevételek beszedését a közlekedésszervező végzi, az üzletszabályzat elkészítésére vonatkozó kötelezettség a közlekedésszervezőre is kiterjed.
 
 (7) A személyszállítási üzletszabályzat hatályos szövegét a közlekedési szolgáltató és a közlekedésszervező nyilvánosan közzéteszi.
 
@@ -522,7 +526,7 @@ amely nem felel meg a Kormány rendeletében meghatározott diszpécserszolgála
 
 (8) A közlekedésszervező a helyi személyszállítást végző közlekedési szolgáltató számára a megrendelt közszolgáltatás teljesítése során jelentkező zavarok elhárítása és a rendkívüli igények teljesítése céljából az operatív lebonyolítás módját, az alkalmazandó intézkedéseket meghatározhatja. Ennek kereteit a (4) bekezdés szerinti kijelölő jogszabály határozza meg. A közlekedésszervező ezen rendelkezésének végrehajtását a közlekedési szolgáltató csak abban az esetben tagadja meg, ha a rendelkezés az emberi életet, egészséget vagy a vasútüzem biztonságát sérti vagy veszélyezteti.
 
-(9) Az önkormányzat meghatározó befolyása alatt álló korlátolt felelősségű társaságként vagy részvénytársaságként vagy az önkormányzat irányítása alatt álló költségvetési szervként működő közlekedésszervező, és az a közlekedési közszolgáltatás teljesítésében érintett közlekedési szolgáltató, amely a közlekedésszervezőt rendeletben kijelölő önkormányzat meghatározó befolyása alatt álló gazdasági társaságként vagy ugyanazon önkormányzat irányítása alatt álló költségvetési szervként működik, az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 8. § alkalmazásában együttesen kapcsolt vállalkozások, amelyekkel kapcsolt vállalkozási viszonyba csak külön törvényi rendelkezés alapján kerülhet újabb személy.
+(9) Az önkormányzat meghatározó befolyása alatt álló korlátolt felelősségű társaságként vagy részvénytársaságként vagy az önkormányzat irányítása alatt álló költségvetési szervként működő közlekedésszervező és az a közlekedési közszolgáltatás teljesítésében érintett közlekedési szolgáltató, valamint közlekedésszervezői közreműködő, amely a közlekedésszervezőt rendeletben kijelölő önkormányzat vagy a közlekedésszervező meghatározó befolyása alatt álló gazdasági társaságként vagy ugyanazon önkormányzat irányítása alatt álló költségvetési szervként működik, az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 8. §-a alkalmazásában együttesen kapcsolt vállalkozások, amelyekkel kapcsolt vállalkozási viszonyba csak külön törvényi rendelkezés alapján kerülhet újabb személy.
 
 #### 17. A közlekedési szolgáltató kiválasztása
 
@@ -950,7 +954,7 @@ adja ki.
 - i) a vízi személyszállítási szolgáltatás feltételeire, a víziközlekedési személyszállítási üzletszabályzatra, továbbá annak jóváhagyására vonatkozó szabályokat,
 - j) a törvény 5. § (1) bekezdés e) pontjában, a 7. § (2)–(4) bekezdésében, valamint a 32. § (1) bekezdésének e)– h) pontjában, a (4) és (6) bekezdésében, valamint a 35. § (7) bekezdésében meghatározott adatok, adatbázisok és elektronikus adatkommunikációs technológiák egységességét és átjárhatóságát biztosító műszaki és technológiai előírásokat, a központi adatbázisok és az azokhoz kapcsolódó központi szolgáltatások kialakításával, működtetésével, fejlesztésével és finanszírozásával kapcsolatos feladatok ellátásának szabályait, továbbá a központi adatbázisok működtetésére és a központi koordinációs feladatok ellátását végző szervezet kijelölését, továbbá
 - k)
-- k) a személyszállítást igénybe vevő utasok jogainak védelme érdekében a vasúti igazgatási szerv és a közlekedési hatóság által vasúti és autóbuszos személyszállító szolgáltatókkal, valamint a közlekedésszervezőkkel szemben alkalmazható bírság mértékére, alkalmazására, valamint megfizetésére vonatkozó részletes szabályokat
+- k) a személyszállítást igénybe vevő utasok jogainak védelme érdekében a vasúti igazgatási szerv és az autóbuszos hatóság által vasúti és autóbuszos személyszállító szolgáltatókkal, valamint a közlekedésszervezőkkel szemben alkalmazható bírság mértékére, alkalmazására, valamint megfizetésére vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
 

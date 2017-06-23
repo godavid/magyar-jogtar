@@ -54,7 +54,8 @@ a termőföld védelméről
 - 18. talajvédelmi terv: a talajvédelmi hatósági eljárásokat megalapozó szakanyag;
 - 19. termőföld: az a földrészlet, amely a település külterületén fekszik, és az ingatlan-nyilvántartásban szántó, szőlő, gyümölcsös, kert, rét, legelő (gyep), nádas vagy fásított terület művelési ágban van nyilvántartva, kivéve, ha a földrészlet az Evt.-ben meghatározott erdőnek minősül;
 - 20. termőföld eredeti állapotának helyreállítása: az időlegesen, illetve az engedély nélkül más célra hasznosított termőföldnek a más célú hasznosítását közvetlenül megelőző, az ingatlan-nyilvántartásban rögzített művelési ágnak és minőségi osztálynak megfelelő állapotába történő helyreállítása;
-- 21. ültetvény: az ingatlan-nyilvántartásban szőlő, gyümölcsös, továbbá fásított terület művelési ágban nyilvántartott földrészlet.
+- 21. ültetvény: az ingatlan-nyilvántartásban szőlő, gyümölcsös, továbbá fásított terület művelési ágban nyilvántartott földrészlet;
+- 22. kis teljesítményű erőmű: a villamos energiáról szóló 2007. évi LXXXVI. törvény 4. § (1) bekezdésében meghatározott 0,5 MW-nál kisebb névleges teljesítőképességű villamos energiát termelő erőmű, kivéve a szélerőmű és a szélerőmű park.
 
 ### II. Fejezet — A FÖLDHASZNOSÍTÁS, A FÖLDVÉDELEMÉS A FÖLDMINŐSÍTÉS
 
@@ -187,6 +188,8 @@ a termőföld védelméről
 
 (4) Az ingatlanügyi hatóság földvédelmi bírsággal sújtja a beruházót, ha a (2) bekezdésben meghatározott bejelentési kötelezettségét elmulasztja.
 
+8/C. § Kis teljesítményű erőműnek a létesítése miatti más célú hasznosítás engedélyezése esetén, az ingatlanügyi hatóság helyszíni szemle tartása nélkül, a rendelkezésére álló iratok alapján dönt, ha az átlagosnál gyengébb minőségű termőföldet érint és a 12. § (1) bekezdésben meghatározott kérelemben az igénybevevő nyilatkozik arról, hogy az érintett területen más beruházás megvalósítása nincs folyamatban. Az ügyintézési határidő ilyen esetben 8 nap.
+
 ### A termőföld (időleges, illetőleg végleges) más célú hasznosítására vonatkozó közös szabályok
 
 9. § (1) Termőföld más célú hasznosításának minősül:
@@ -228,7 +231,8 @@ céljából veszik igénybe.
 
 - a) a meglévő létesítmény bővítését, közlekedési és közmű kapcsolatainak kiépítését;
 - b) a bányaüzemet és a természeti kincsek kitermeléséhez szükséges egyéb létesítményt;
-- c) azt a területet, amelyet a Kormány a Magyar Közlönyben közzétett határozatával beruházási célterületté nyilvánított.
+- c) azt a területet, amelyet a Kormány a Magyar Közlönyben közzétett határozatával beruházási célterületté nyilvánított;
+- d) kiserőmű létesítését a betáplálásra alkalmas villamosenergia-elosztói hálózat 1000 méteres közvetlen környezetében.
 
 (4) Az igénybevételt az indokolt szükségletnek megfelelő legkisebb területre kell korlátozni.
 
@@ -658,7 +662,7 @@ szóló határozatban kell rendelkezni.
 
 ### A földvédelmi járulékra és földvédelmi bírságra vonatkozó közös szabályok
 
-26. § (1) A járulékot és a bírságot a termőföld fekvése szerint illetékes fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) előirányzat-felhasználási keretszámlájára kell befizetni.
+26. § (1) A járulékot és a bírságot a termőföld fekvése szerint illetékes fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) e célra létrehozott központosított beszedési számlájára kell befizetni.
 
 (2) A járulék a központi költségvetést illeti meg.
 
@@ -723,6 +727,8 @@ szóló jogerős határozatban szereplő földrészleteken.
 30. § (1) A földminősítéssel kapcsolatos feladatok végrehajtását (mintaterek elhelyezése, megközelítése, osztályba sorozási munkák) az érintett ingatlan tulajdonosa tűrni köteles. A földminősítési munkák végzéséről az ingatlan tulajdonosát (használóját) előzetesen értesíteni kell. A tűrési kötelezettséget az ingatlanügyi hatóság, szükség esetén, határozatban rendelheti el.
 
 (2) A földminősítési munka végzése az e törvény felhatalmazása alapján kiadott rendeletben meghatározott szakképzettséghez kötött tevékenység. A földminősítési jogosultságot a jogosult részére a földügyért felelős miniszter rendelete alapján a földmérési és térinformatikai államigazgatási szerv által kiállított földminősítő igazolvány tanúsítja.
+
+(2a) A (2) bekezdés szerinti földminősítő igazolvány kibocsátásáig ideiglenes igazolvány adható. Az ideiglenes földminősítő igazolvány 60 napig vagy a földminősítő igazolvány kibocsátásáig érvényes. A földminősítő igazolvány kiállításáig az ideiglenes igazolvány ismételten kiadható. Az ideiglenes földminősítő igazolvány kiállítására a (2) bekezdésben megjelölt szerv jogosult.
 
 (3) A földminősítési munkák az ingatlan rendeltetésszerű használatát csak a szükséges mértékben akadályozhatják.
 
