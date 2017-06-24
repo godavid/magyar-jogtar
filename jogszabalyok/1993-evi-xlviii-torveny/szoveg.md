@@ -569,7 +569,7 @@ vonatkozó információ.
 - c) meghatározza az általa alkalmazni kívánt bányaművelési technológiát (mélyművelés, külfejtés, fúrólyukas kitermelés), és műszaki leírással igazolja a kitermelési feltételek teljesíthetőségét, valamint megjelöli a kitermelés ütemterv szerinti időpontját,
 - d) teljesíti a bányatelek-dokumentáció tartalmára jogszabályban előírt követelményeket.
 
-(4) A bányavállalkozó a bányatelek megállapításától számított 5 éven belül köteles az üzemszerű kitermelést megkezdeni. A bányavállalkozó egy bányatelekre vonatkozóan legfeljebb egy alkalommal kérheti a bányafelügyelettől az üzemszerű kitermelés megkezdésére megállapított határidő legfeljebb 5 évvel történő meghosszabbítását. Meghosszabbítás esetén a bányavállalkozó térítést köteles fizetni.
+(4) A bányavállalkozó a bányatelek megállapításától számított 5 éven, közös államhatár mentén lévő szénhidrogén-előfordulás esetében 10 éven belül köteles az üzemszerű kitermelést megkezdeni. A bányavállalkozó egy bányatelekre vonatkozóan legfeljebb egy alkalommal kérheti a bányafelügyelettől az üzemszerű kitermelés megkezdésére megállapított határidő legfeljebb 5 évvel történő meghosszabbítását. Meghosszabbítás esetén a bányavállalkozó térítést köteles fizetni.
 
 (5) A bányafelügyelet a bányavállalkozó bányászati jogát törli, ha a bányavállalkozó
 
@@ -579,7 +579,7 @@ vonatkozó információ.
 - b) a térítésfizetési kötelezettségének határidőre nem tesz eleget, vagy
 - c) a gazdálkodó szervezet jogutód nélkül megszűnik.
 
-(6) A 12. § (3) bekezdése szerinti eset kivételével a bányateleken fennálló bányászati jog új jogosultját – pályáztatást követően – a bányafelügyelet jelöli ki.
+(6) A 12. § (3) bekezdése szerinti eset kivételével a bányatelken fennálló bányászati jog új jogosultjának kijelölése céljából a bányafelügyelet, ha arra – előzetes megkeresés alapján – a magyar állam tulajdonosi jogköreit gyakorló szerv nem tart igényt, az ásványvagyon gazdálkodási szempontjai, a környezetvédelem és a gazdaságosság, az állam számára a várható bevétel, megtakarítás vagy más előny figyelembevételével pályázatot írhat ki.
 
 (6a) Ha az új jogosult kijelölése olyan bányatelek tekintetében történik, amelyen a bányatelek megállapítását követően még kitermelési tevékenységet nem végeztek, akkor az új jogosult a kijelöléstől számított öt éven belül köteles az üzemszerű kitermelést megkezdeni. Az ötéves határidő a (4) bekezdésben foglaltak szerint meghosszabbítható. Az (5) bekezdésben foglalt jogkövetkezményeket az új jogosult tekintetében is alkalmazni kell.
 
@@ -587,7 +587,7 @@ vonatkozó információ.
 
 (7) A pályázatot a bányafelügyelet a honlapján és a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben – szénhidrogének esetében az Európai Unió hivatalos lapjában is – meghirdeti.
 
-(8) Nem kell a (6) bekezdés szerinti pályázaton meghirdetni az olyan bányatelket, amely a benne található ásványi nyersanyag tekintetében zárt területnek minősül, és azon tájrendezési kötelezettség nem áll fenn. A bányatelket a bányászati jogot törlő határozat jogerőssé és végrehajthatóvá válását követően a bányafelügyelet a 26/B. § (5) bekezdése szerint hivatalból törli a nyilvántartásból.
+(8) Nem lehet a (6) bekezdés szerinti pályázaton meghirdetni az olyan bányatelket, amely a benne található ásványi nyersanyag tekintetében zárt területnek minősül. A bányatelket a bányászati jogot törlő határozat jogerőssé és végrehajthatóvá válását követően a bányafelügyelet a 26/B. § (5) bekezdése szerint hivatalból törli a nyilvántartásból.
 
 26/B. § (1) Külfejtéses bányaművelésre szolgáló bányatelek megállapítását követően, de legkésőbb a 26/A. § (3) bekezdésének c) pontjában említett ütemtervben megjelölt időpont előtt 5 évvel a bányavállalkozó jogosult a bányatelekkel fedett ingatlanokra a vonatkozó építésügyi jogszabályok rendelkezései szerint építési és telekalakítási tilalom elrendelésének kezdeményezését kérni a bányafelügyelettől. A határidő elmulasztása esetén a bányavállalkozónak az építési és telekalakítási tilalom kezdeményezésére vonatkozó jogai megszűnnek.
 
@@ -750,6 +750,8 @@ foglaltakat kell alkalmazni.
 (5) A bányavállalkozó köteles gondoskodni arról, hogy a bányának a fő bányaveszélyek (vízveszély, gázkitörés-veszély, sújtólégveszély, szénporrobbanás-veszély, tűzveszély, porártalom-veszély és szilikózisveszély) szempontjából való minősítését elkészítsék.
 
 (6) A bányafelügyelet a bányavállalkozót, valamint a gázipari engedélyest, mint munkáltatót, arra kötelezheti, hogy írásban adjon tájékoztatást a megjelölt munkavédelmi követelmények teljesítéséről.
+
+34/A. § A gázelosztó vezetékek és a cseppfolyós propán-, butángáz tartályok létesítési és üzemeltetési tapasztalatainak figyelemmel kísérése, valamint a műszaki haladás eredményeinek a gázelosztás és forgalmazás biztonságát növelő széles körű alkalmazásának elősegítése a szakági műszaki bizottságok feladata.
 
 ### Súlyos balesetek és súlyos üzemzavarok
 
@@ -1004,12 +1006,7 @@ gyakorolja.
 
 aki a tevékenységére, továbbá a hites bányamérő tekintetében a bányatérképre is vonatkozó, az e törvény végrehajtására szolgáló jogszabályokban meghatározott követelményeket megsértette.
 
-(10) Amennyiben a hites bányamérő, a nyomástartó berendezést vizsgáló szakember vagy felügyeleti személy, valamint a földtani szakértő a (9) bekezdés szerinti követelményeket, továbbá a bányaüzemi felelős műszaki vezető az (5) bekezdés szerinti követelményeket
-
-- a) ismételten megszegte, vagy
-- b) úgy sértette meg, hogy ezzel a bányafelügyelet hatáskörébe tartozó tevékenység során bekövetkezett súlyos üzemzavar és súlyos baleset bejelentésének és vizsgálatának rendjéről szóló jogszabályban meghatározott súlyos üzemzavart, súlyos balesetet vagy harmadik személynek kárt okozott
-
-a bányafelügyelet bírság kiszabása mellett két évre eltiltja a tevékenység folytatásától.
+(10) Ha a hites bányamérő, a nyomástartó berendezést vizsgáló szakember vagy felügyeleti személy, valamint a földtani szakértő a (9) bekezdés szerinti követelményeket, továbbá a bányaüzemi felelős műszaki vezető az (5) bekezdés szerinti követelményeket úgy sértette meg, hogy ezzel a bányafelügyelet hatáskörébe tartozó tevékenység során bekövetkezett súlyos üzemzavar és súlyos baleset bejelentésének és vizsgálatának rendjéről szóló jogszabályban meghatározott súlyos üzemzavart, súlyos balesetet vagy harmadik személynek igazoltan ötvenmillió forint értéket meghaladó kárt okozott, a bányafelügyelet – bírság kiszabása mellett – legfeljebb két évre eltilthatja a tevékenység folytatásától.
 
 ### Bányabezárás, mező felhagyás
 
@@ -1355,7 +1352,7 @@ a bányafelügyelet bírság kiszabása mellett két évre eltiltja a tevékenys
 
 (3) A bányafelügyelet eljárásaiban hozott döntésekkel szembeni fellebbezést indokolni kell. Fellebbezni csak a megtámadott döntésre vonatkozóan, tartalmilag közvetlenül összefüggő okból, illetve csak a döntésből közvetlenül adódó jog- vagy érdeksérelemre hivatkozva lehet.
 
-(3a) A bányafelügyelet bányászati szakigazgatási hatósági elsőfokú műszaki-biztonsági, munkavédelmi, építésügyi hatósági, építésfelügyeleti, bányászati tevékenység engedélyezésével és felügyeletével kapcsolatos, piacfelügyeleti és földtani hatáskörében, valamint a 44. § (1) bekezdés b)–o), q), s) és t) pontjában meghatározott ügyekben hozott döntéseivel szemben fellebbezésnek van helye.
+(3a) A bányafelügyeleti hatáskörében eljáró kormányhivatal bányászati szakigazgatási hatósági elsőfokú műszaki-biztonsági, munkavédelmi, építésügyi hatósági, építésfelügyeleti, bányászati tevékenység engedélyezésével és felügyeletével kapcsolatos, piacfelügyeleti és földtani hatáskörében, valamint a 44. § (1) bekezdés b)–o), q), s) és t) pontjában meghatározott ügyekben hozott döntéseivel szemben fellebbezésnek van helye.
 
 (4) A műszaki üzemi tervek jóváhagyására indított eljárásban e törvény alapján iratbetekintésre jogosult a műszaki üzemi tervben körülhatárolt terület 500 méteres környezetében lévő ingatlan tulajdonosa, továbbá az, akinek az ingatlanra vonatkozó jogát az ingatlan-nyilvántartásba bejegyezték.
 
@@ -1592,7 +1589,7 @@ bányahatósági felügyelete
 - 46.
 - 47. „Bányászati hulladékkezelés”: az ásványi nyersanyagok bányászata, tárolása és feldolgozása során keletkező hulladék – kivéve a nem közvetlenül e tevékenységekből származó hulladék – hulladékkezelő létesítményben történő gyűjtése és tárolása, valamint a hulladék keletkezési helyétől a hulladékkezelő létesítményig történő szállítása.
 - 48. „EGT-állam”: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Unió és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez.
-- 49. „Üzemszerű kitermelés”: az ásványi nyersanyag olyan kitermelése, ahol a tényleges kitermelési mennyiség a bányatelek megállapításától számított öt éven belül, a tevékenységre vonatkozó, első, módosítás nélküli műszaki üzemi tervben jóváhagyott legnagyobb kitermelési mennyiségnek legalább a negyedét eléri.
+- 49. „Üzemszerű kitermelés”: az ásványi nyersanyag olyan kitermelése, ahol a tényleges kitermelési mennyiség a bányatelek megállapításától számított 5 éven, közös államhatár mentén lévő szénhidrogén-előfordulás esetében 10 éven belül, a tevékenységre vonatkozó, első, módosítás nélküli műszaki üzemi tervben jóváhagyott legnagyobb kitermelési mennyiségnek legalább a negyedét eléri.
 - 50. Használaton kívüli bányászati célú mélyfúrás, kút: a meddő szénhidrogén kutatófúrás, kút, illetve a termelésből kivont, a mező termeltetéséhez már nem szükséges vagy műszakilag alkalmatlanná vált szénhidrogénkút.
 - 51. Meddő szénhidrogén kutatófúrás, kút: olyan kutatófúrás (kút), amely szénhidrogén-indikációt nem eredményezett vagy olyan mértékben eredményezett, amely alapján a szénhidrogén nem termelhető ki gazdaságosan.
 - 52. „Föld alatti szénelgázosítás”: olyan bányaművelési technológia, amely a felszín alatt feltárt széntelep fúrólyukon keresztül végzett részleges oxidációja során képződő szintézisgáz fúrólyukon való, szabályozott kitermelésével történik.
@@ -1705,7 +1702,7 @@ bányahatósági felügyelete
 - 14. a vízgazdálkodásról szóló törvény rendelkezéseinek figyelembevételével a bányászat befejezését követően fennmaradó vagy keletkező, a felszín alatti vízkészletet érintő tóval kapcsolatos jogokra és kötelezettségekre,
 - 15. az állami földtani feladatokat ellátó szerv vagy szervek és a bányafelügyelet vagy bányafelügyeletek kijelölésére, valamint a felügyeleti díj megosztására,
 - 16. a szolgáltatásra köteles földtani adatok körére és az adatszolgáltatás rendjére,
-- 17. a 26/A. § (7) bekezdése szerinti pályázat tartalmi követelményeire,
+- 17. a bányászati jog új jogosítottjának kijelölésére vonatkozó hatósági pályázati eljárásra
 - 18. a geotermikus védőidom meghatározására és kijelölésére, valamint a geotermikusenergia-hasznosító létesítmények, a kitermelt és hasznosított geotermikus energia mennyiségének, és a megállapított geotermikus védőidomok nyilvántartására,
 - 19. az ásványi nyersanyag és a geotermikus energia természetes előfordulási területén elvégzendő érzékenységi és terhelhetőségi vizsgálat lefolytatására, valamint a vizsgálatban részt vevő közigazgatási és egyéb szervek közreműködésére,
 - 20. a bányafelügyelet hatáskörébe tartozó egyes nyomástartó berendezések engedélyezésére, hatósági felügyeletére és a szabálytalan építési tevékenység esetén alkalmazandó bírság mértékére,
@@ -1742,7 +1739,7 @@ bányahatósági felügyelete
 - e) a bányászati hűségjutalomra vonatkozó szabályoknak,
 - f) a polgári robbantási tevékenység műszaki-biztonsági követelményeit tartalmazó szabályzatnak,
 - g) a bányászok erkölcsi és anyagi megbecsülésére, így különösen a szakmai utánpótlásra, a hagyományőrzésre és az egyéb sajátos juttatásokra vonatkozó rendelkezéseknek, a juttatások körének, jogosultjainak és mértékének, valamint
-- h) a bányászati és gázipari biztonsági szabályzatoknak, ezzel összefüggésben a súlyos üzemzavar körének és az arról szóló jelentéstételi kötelezettségnek,
+- h) a bányászati és gázipari biztonsági szabályzatoknak, a létesítmények tervezésének, létesítésének, üzembe helyezésének, üzemeltetésének és megszüntetésének műszaki biztonsági követelményeit, és egyéb feltételeit tartalmazó biztonsági szabályzatoknak, a műszaki-biztonsági irányítási rendszerek alkalmazási szabályainak, a szakági műszaki bizottságok létesítésére, feladataik és működésük rendjének,
 - i) az Európai Unió irányelveiben előírt, az ásványi nyersanyagkutatásról, feltárásról és termelésről szóló, valamint az ásványvagyon-gazdálkodással, továbbá a bányászati tevékenység során keletkező hulladékkal kapcsolatos jelentés elkészítésének, az Európai Bizottsághoz történő továbbítás és a közzététel rendjének,
 - j) az e törvény szerinti földtani szakértői tevékenység folytatásának részletes feltételei, az e tevékenységre jogosító eljárás rendje, a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalma, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályok, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezmények,
 - k) a bányászati és gázipari biztonságtechnikai és munkabiztonsági vizsgák tematikájára és rendjére vonatkozó szabályok,
@@ -1751,6 +1748,7 @@ bányahatósági felügyelete
 - n) a szén-dioxid-szállítóvezetékek biztonsági követelményeit és a szén-dioxid szállítóvezetékek biztonsági szabályzatára vonatkozó rendelkezések,
 - o) a koncessziós pályázat kiírásával, elbírálásával, lebonyolításával, és a koncessziós pályázaton való részvétel díjával kapcsolatos eljárási és a minősítő bizottság működésére vonatkozó részletes szabályok
 - p) a bányaüzemi felelős műszaki vezetői tevékenység folytatásának részletes feltételei, az e tevékenységre jogosító eljárás rendje, a nyilvántartás személyes adatot nem tartalmazó adattartalma, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályok, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezmények
+- q) a bányafelügyelet hatáskörébe tartozó tevékenység során bekövetkezett súlyos üzemzavarok és súlyos balesetek körének, az arról szóló jelentéstételi kötelezettségnek és vizsgálati rendjének
 
 rendeletben történő megállapítására.
 
@@ -1798,6 +1796,8 @@ rendeletben történő megállapítására.
 50/E. § Ha a bányafelügyelet a kitermelés vagy üzemszerű föld alatti szénhidrogén-tárolás megkezdésére vonatkozó határidő meghosszabbítását a bányavállalkozó részére a bányászatról szóló 1993. évi XLVIII. törvény és egyes energetikai tárgyú törvények módosításáról szóló 2012. évi XLVII. törvénnyel megállapított 26/A. § (5) bekezdés hatálybalépése előtt engedélyezte, a bányavállalkozó a meghosszabbítás időtartama alatt a kitermelés megkezdéséig a miniszterrel kötött szerződés szerinti térítést fizeti.
 
 50/F. § A bányászatról szóló 1993. évi XLVIII. törvény módosításáról szóló 2010. évi IV. törvény hatálybalépésekor vízjogi vagy bányafelügyelet által kiadott engedély alapján geotermikus energiát kutatók, kinyerők és hasznosítók az engedély alapján, az abban meghatározott ideig és feltételek szerint a tevékenységüket tovább folytathatják, illetve kutatási engedély esetén a kutatási zárójelentés elfogadását követően kezdeményezhetik a bányafelügyeletnél a geotermikus védőidom megállapítását.
+
+50/G. § A 26/A. §-nak az energetikai tárgyú törvények módosításáról szóló 2017. évi LXXV. törvénnyel megállapított módosításait a folyamatban lévő ügyekben is alkalmazni kell.
 
 51. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
