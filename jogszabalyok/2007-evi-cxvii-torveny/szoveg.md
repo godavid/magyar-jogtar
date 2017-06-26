@@ -185,7 +185,7 @@ mellékelni kell:
 - l) számviteli politikáját, részletes számviteli rendszerének tervezetét,
 - m) a foglalkoztatói nyugdíjszolgáltató intézmény likviditását, fizetőképességét súlyosan veszélyeztető állapot esetén alkalmazandó eljárási rendet,
 - n) a kérelmező arra vonatkozó nyilatkozatát, hogy az engedély kiadása érdekében szükséges minden lényeges tényt és adatot közölt a Felügyelettel,
-- o) a pénzmosás megelőzéséről és megakadályozásáról szóló 2003. évi XV. törvény 11. § (3) bekezdése szerinti belső szabályzatot,
+- o) a pénzmosás és a terrorizmus finanszírozása megelőzésére és megakadályozására, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtására vonatkozó szabályzatokat és eljárásrendeket,
 - p) a tervezett működési terület meghatározását tartalmazó dokumentumot,
 - q) a működési szabályzatot.
 

@@ -2410,7 +2410,7 @@ tevékenység.
 (2) Fióktelep formájában működő tőzsde alapítási engedélyét a Felügyelet abban az esetben adja meg – az (1) bekezdésben és 300. § (1) bekezdésében meghatározott feltételek teljesülése mellett, ha
 
 - a) érvényes és hatályos, a felügyeleti hatóságok kölcsönös elismerésén alapuló, továbbá a fióktelepek felügyeletére is kiterjedő nemzetközi együttműködési megállapodás van a Felügyelet és a külföldi kérelmező székhelye szerinti felügyeleti hatóságok között;
-- b) a külföldi kérelmező székhelye szerinti állam rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő pénzmosás elleni jogszabályi előírásokkal;
+- b) a külföldi kérelmező székhelye szerinti állam rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő pénzmosás és a terrorizmus finanszírozása elleni jogszabályi előírásokkal;
 - c) a külföldi kérelmező rendelkezik az e törvényben meghatározott szabályzatokkal;
 - d) a külföldi kérelmező nyilatkozik arról, hogy korlátlanul helytáll a fióktelep cégneve alatt keletkezett kötelezettségekért.
 - e) a külföldi kérelmező benyújtja a székhelye szerinti felügyeleti hatóság fióktelep létesítésre vonatkozó engedélyét, illetőleg hozzájárulását vagy tudomásulvételét tartalmazó nyilatkozatát;
@@ -3790,7 +3790,7 @@ a 909/2014/EU rendelet szerinti központi értéktári tevékenység – szakos�
 - 12. Itv.: az illetékekről szóló 1990. évi XCIII. törvény,
 - 13. Ket.: a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény,
 - 14. MNBtv.: a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény.
-- 15. Pmt.: a pénzmosás megelőzéséről és megakadályozásáról szóló törvény,
+- 15. Pmt.: a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény,
 - 16.
 - 17. Ptk.: a Polgári Törvénykönyvről szóló 2013. évi V. törvény,
 - 18. Szmt.: a számvitelről szóló 2000. évi C. törvény,

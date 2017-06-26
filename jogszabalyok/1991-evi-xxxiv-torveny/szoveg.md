@@ -280,7 +280,7 @@ végezheti.
 
 (2a) Az eltiltás pénznyerő automaták és kártyaterem üzemeltetése esetén meghatározott játékkaszinóban, illetve kártyateremben folytatott szerencsejáték-szervezői tevékenységre vonatkozóan is alkalmazható.
 
-(3) Az állami adóhatóság a játékkaszinó és a kártyaterem működtetőjével, valamint a távszerencsejáték és online kaszinójáték szervezővel szemben a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben foglalt rendelkezések megsértése esetén az e §-ban meghatározott intézkedést alkalmazhat.
+(3) Az állami adóhatóság a játékkaszinó és kártyaterem működtetőjével, valamint a fogadás, távszerencsejáték és online kaszinójáték szervezőjével, vagy előbbiek vezető tisztségviselőjével szemben a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben foglalt rendelkezések megsértése esetén a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben és az e §-ban meghatározott intézkedéseket alkalmazhatja.
 
 (4) Ha a szerencsejáték szervező a működését az engedély megadásától számított hat hónapon belül nem kezdi meg, továbbá ha azt engedély nélkül szünetelteti, az engedély visszavonható.
 
@@ -470,7 +470,7 @@ A nyerés vagy vesztés kizárólag a szám nyilvános húzásának, vagy a sors
 
 (9) A szerencsejáték-szervezők közül kizárólag – az e törvényben előírtaknak megfelelően – a játékkaszinó üzemeltetésére szóló koncessziós joggal rendelkező szerencsejáték-szervező, illetve koncessziós társaság és állami játékszervező jogosult a kereskedelmi kommunikációjában a kaszinó elnevezést, e fogalom összetételeit, jelzős alakját, továbbá rokon értelmű vagy idegen nyelvű megfelelőjét szerepeltetni. E korlátozás nem vonatkozik a szerencsejáték-szervezők szakmai és érdek-képviseleti szervezeteire.
 
-(10)
+(10) Játékkaszinó működtetése során a 29/H. § (2) és (3) bekezdése megfelelően alkalmazandó.
 
 (11) A játékkaszinót 18 éven aluliak nem látogathatják.
 
@@ -502,7 +502,7 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 
 (2) Lóversenyfogadás kivételével totalizatőri rendszerű fogadást kizárólag az az állami játékszervező szervezhet, amely legalább 1 milliárd forint alap-(törzs-)tőkével rendelkezik és a fogadás szervezését megelőzően legalább 5 évig az e törvény hatálya alá tartozó szerencsejáték(ok) szervezésével foglalkozott.
 
-(3)
+(3) A 29/H. § (2)–(3) bekezdését a fogadás-szervezőre is alkalmazni kell.
 
 (4) Fogadás esetén – a bukmékeri rendszerű fogadás kivételével – a fogadásszervező a fogadót megillető, de át nem vett nyereményeket nyeremények céljára köteles felhasználni. Az át nem vett nyeremények sorsolás útján is visszajuttathatók a fogadók részére, a sorsolásos játékok nyereményeire vonatkozó szabályok szerint. A bukmékeri rendszerű fogadás esetén az át nem vett nyereményekre e törvény 11. §-ának (8) bekezdése vonatkozik.
 
@@ -558,6 +558,8 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 
 (12) Az állami adóhatóság a játékterv jóváhagyásával lehetővé teheti az alkalmazottak számára borravaló elfogadását. A kártyateremben adott borravalóra egyebekben a játékkaszinóban adott borravalóra vonatkozó szabályokat kell megfelelően alkalmazni.
 
+(13) A 29/H. § (2)–(3) bekezdését a kártyatermet üzemeltető szerencsejáték-szervezőre is alkalmazni kell.
+
 ### 5. CÍM — Távszerencsejáték
 
 29/C. § Távszerencsejáték a sportfogadás, ha azt kizárólag hírközlő eszköz és rendszer útján szervezik. A fogadási esemény fogalmára a 28/A. § (1) bekezdésben foglalt rendelkezéseket kell alkalmazni. Távszerencsejáték keretében szervezett sportfogadás a lóversenyfogadás, valamint a sportrendezvényre fogadás.
@@ -586,13 +588,13 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 
 29/H. § (1) A szervező a játékost a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben meghatározott ügyfél-átvilágítási intézkedések elvégzése, valamint a játékosvédelem biztosítása érdekében a következő adatok rögzítésével nyilvántartásba veszi:
 
-- a) családi és utónév, születési családi és utónév, anyja neve,
-- b) lakcím, külföldi esetében a magyarországi tartózkodási hely,
+- a) családi és utónév, születési családi és utónév, anyja születési neve,
+- b) lakcím, ennek hiányában tartózkodási hely,
 - c) állampolgárság,
 - d) azonosító okmány típusa, száma,
 - e) születési hely és idő.
 
-(2) A szervező az (1) bekezdésben meghatározott természetes személy személyazonosságának igazoló ellenőrzése érdekében megkeresheti a személyiadat- és lakcímnyilvántartást. Az ellenőrzés elektronikus úton, egyedi informatikai alkalmazás igénybevételével történő adatszolgáltatás útján valósul meg. Ha az ellenőrzés eredménye az egyezőséget nem támasztja alá, vagy a személy a nyilvántartásban nem szerepel, a szervező az ügyfél-azonosítást a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény 14. § (2) bekezdése szerint végzi el.
+(2) A szervező az (1) bekezdésben meghatározott természetes személy személyazonosságának igazoló ellenőrzése érdekében megkeresheti a személyiadat- és lakcímnyilvántartást. Az ellenőrzés elektronikus úton, egyedi informatikai alkalmazás igénybevételével történő adatszolgáltatás útján valósul meg. Ha az ellenőrzés eredménye az egyezőséget nem támasztja alá, vagy a személy a nyilvántartásban nem szerepel, a szervező az ügyfél-azonosítást a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény 17. § szerint végzi el.
 
 (3) A szervező a személyiadat- és lakcímnyilvántartást a (2) bekezdés szerinti személyazonosságot igazoló ellenőrzés keretében az alábbi adatokkal kapcsolatban keresheti meg:
 

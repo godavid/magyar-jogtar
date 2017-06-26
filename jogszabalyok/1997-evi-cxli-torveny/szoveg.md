@@ -189,7 +189,7 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 - 17. szerződésen, végintézkedésen, bírósági vagy hatósági határozaton alapuló 17.1. elidegenítési és terhelési tilalom, 17.2. elidegenítési tilalom, 17.3. a rendelkezési jogot korlátozó egyéb tilalom,
 - 18. az e törvényben meghatározott 18.1. perek, 18.2. büntetőeljárás megindítása,
 - 19. árverés vagy nyilvános pályázat kitűzése,
-- 20. a zárlat, a zár alá vétel, a zárlat az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására,
+- 20. a zárlat, a zár alá vétel, a zárlat az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására,
 - 21. a tulajdonjog fenntartással történt eladás,
 - 22. a jelzálogjog (önálló zálogjog) ranghelyének előzetes biztosítása,
 - 23. lemondás jelzálogjog előzetesen biztosított ranghelyével való rendelkezés jogáról,

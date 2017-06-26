@@ -787,7 +787,7 @@ tisztségviselőként, köztisztviselőként, kormánytisztviselőként, állami
 - l) az e törvényben és külön jogszabályban meghatározott tárgyi és technikai feltételek teljesülésének részletes leírását,
 - m) az e törvényben meghatározott szervezeti feltételek teljesülését igazoló dokumentumok másolatát,
 - n) az e törvényben és külön jogszabályban meghatározott személyi feltételek teljesülését igazoló okiratok másolatát,
-- o) a végezni kívánt tevékenységre vonatkozó általános szerződési feltételek, az üzletszabályzat, a pénzmosás megelőzését szolgáló szabályzat, a pénz- és értékkezelési szabályzat, továbbá a végrehajtási politika, valamint az összeférhetetlenségi politika tervezetét,
+- o) a végezni kívánt tevékenységre vonatkozó általános szerződési feltételek, az üzletszabályzat, a pénzmosás és a terrorizmus finanszírozása megelőzésére és megakadályozására, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtására vonatkozó szabályzatok és eljárásrendek, a pénz- és értékkezelési szabályzat, továbbá a végrehajtási politika, valamint az összeférhetetlenségi politika tervezetét,
 - p)
 - q) a könyvvizsgáló igazolását arra vonatkozóan, hogy a befektetési vállalkozás informatikai rendszere alkalmas a 18. § (2) bekezdésében meghatározott követelmények teljesítésére,
 - r) a kockázatok figyelemmel kísérésére, mérésére, ellenőrzésére és kezelésére vonatkozó szabályzat tervezetét,
@@ -828,7 +828,7 @@ tisztségviselőként, köztisztviselőként, kormánytisztviselőként, állami
 (2) A Felügyelet a befektetési szolgáltatási tevékenység végzésére jogosító engedély iránti kérelmet a külföldi befektetési vállalkozás fióktelepe esetében akkor is elutasítja, ha
 
 - a) nincs érvényes és hatályos, a felügyeleti hatóságok kölcsönös elismerésén alapuló, továbbá a fióktelepek felügyeletére is kiterjedő nemzetközi együttműködési megállapodás a Felügyelet és a kérelmező szolgáltató székhelye szerinti felügyeleti hatóság között,
-- b) a kérelmező székhelye szerinti állam nem rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő pénzmosás elleni jogszabályi előírásokkal,
+- b) a kérelmező székhelye szerinti állam nem rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő pénzmosás és a terrorizmus finanszírozása elleni jogszabályi előírásokkal,
 - c) a kérelmező nem rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő adatkezelési szabályzattal,
 - d) a kérelmező nem nyilatkozik arról, hogy korlátlanul helytáll a fióktelep cégneve alatt keletkezett kötelezettségekért,
 - e) a kérelmező nem nyújtja be a székhelye szerinti felügyeleti hatóság fióktelep létesítésre vonatkozó engedélyét, illetőleg hozzájáruló nyilatkozatát vagy tudomásulvételét,
@@ -869,7 +869,7 @@ tisztségviselőként, köztisztviselőként, kormánytisztviselőként, állami
 - e) számviteli politikájának és számviteli rendjének leírását,
 - f) az üzleti nyilvántartásra vonatkozó szabályzat tervezetét,
 - g) az ellenőrzési rendjére vonatkozó szabályzat tervezetét, amely tartalmazza az ellenőrzési szervezetet és folyamatot, valamint a folyamatba épített utólagos vezetői ellenőrzésre vonatkozó előírásokat is,
-- h) a végezni kívánt tevékenységre vonatkozó általános szerződési feltételek, az üzletszabályzat, a pénzmosás megelőzését szolgáló szabályzat, az iratkezelési szabályzat, a belső ellenőrzési szabályzat, és az ügyviteli szabályzat tervezetét,
+- h) a végezni kívánt tevékenységre vonatkozó általános szerződési feltételek, az üzletszabályzat, a pénzmosás és a terrorizmus finanszírozása megelőzésére és megakadályozására, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtására vonatkozó szabályzatok és eljárásrendek, az iratkezelési szabályzat, a belső ellenőrzési szabályzat, és az ügyviteli szabályzat tervezetét,
 - i) a személyi feltételek teljesülését igazoló okiratok másolatát,
 - j) e törvényben és külön jogszabályban meghatározott tárgyi, technikai feltételek teljesülésének részletes leírását,
 - k) a könyvvizsgáló igazolását arra vonatkozólag, hogy az árutőzsdei szolgáltató informatikai rendszere alkalmas a 18. § (2) bekezdésében meghatározott követelmények teljesítésére,
@@ -899,7 +899,7 @@ tisztségviselőként, köztisztviselőként, kormánytisztviselőként, állami
 (2) A Felügyelet az árutőzsdei szolgáltató tevékenység végzésére jogosító engedély iránti kérelmét fióktelep esetében akkor is elutasítja, ha
 
 - a) nincs érvényes és hatályos, a felügyeleti hatóságok kölcsönös elismerésén alapuló, továbbá a fióktelepek felügyeletére is kiterjedő nemzetközi együttműködési megállapodás a Felügyelet és a kérelmező szolgáltató székhelye szerinti felügyeleti hatóság között,
-- b) a kérelmező székhelye szerinti állam nem rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő pénzmosás elleni jogszabályi előírásokkal,
+- b) a kérelmező székhelye szerinti állam nem rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő pénzmosás és a terrorizmus finanszírozása elleni jogszabályi előírásokkal,
 - c) a kérelmező nem rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő adatkezelési szabályzattal,
 - d) a kérelmező nem nyilatkozik arról, hogy korlátlanul helytáll a fióktelep cégneve alatt keletkezett kötelezettségekért,
 - e) a kérelmező nem nyújtja be a székhelye szerinti felügyeleti hatóság fióktelep létesítésre vonatkozó engedélyét, illetőleg hozzájáruló nyilatkozatát vagy tudomásulvételét,
@@ -4219,7 +4219,7 @@ foglalt követelményeknek.
 - 12. Ket.: a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény,
 - 13.
 - 14. MNB tv.: a Magyar Nemzeti Bankról szóló törvény,
-- 15. Pmtv.: a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény,
+- 15. Pmt.: a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény,
 - 16. Ptk.: a Polgári Törvénykönyvről szóló törvény,
 - 17.
 - 18.
