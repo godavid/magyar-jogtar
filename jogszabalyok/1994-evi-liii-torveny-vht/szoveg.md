@@ -67,7 +67,7 @@ a bírósági végrehajtásról
 - d) a bíróság pénzbüntetésről, pénzbírságról, rendbírságról, vagyonelkobzásról, az elektronikus adat végleges hozzáférhetetlenné tételéről, az Európai Unió tagállamában büntetőeljárásban bűncselekmény elkövetése miatt kiszabott pénzösszegről, valamint az Európai Unió tagállamai közé nem tartozó államban (a továbbiakban: külföldi állam) vagy az Európai Unió tagállamában büntetőeljárásban alkalmazott vagyonelkobzásról szóló értesítése,
 - e) a bíróság bűnügyi költségről, elővezetési és kísérési költségről, fegyelmi eljárásban a végrehajtóval, végrehajtó-helyettessel és végrehajtójelölttel szemben kiszabott pénzbírságról, valamint az alapos kifogás esetén a végrehajtót az állam felé terhelő befizetési kötelezettségről szóló értesítése, továbbá a bírósági gazdasági hivatalnak a közjegyző által kiszabott pénzbírságról, az ügyészség által kiszabott rendbírságról, megállapított bűnügyi költségről, az ügyészség és a nyomozó hatóság által megállapított elővezetési és kísérési költségről, valamint a pártfogó felügyelői szolgálat által a közvetítői eljárásban megállapított, az állam által előlegezett és visszatérítendő költségről szóló értesítése,
 - f) a bűnügyi zárlatot elrendelő, az elektronikus adat ideiglenes hozzáférhetetlenné tételéről, illetve visszaállításáról, valamint az információs rendszerben tárolt adatok megőrzésére kötelezésről szóló határozat,
-- g) az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására zárlatot elrendelő végzés,
+- g) az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására zárlatot elrendelő végzés,
 - h) a 4/2009/EK tanácsi rendelet alapján kijelölt hazai központi hatóság által a tartásra kötelezett adatainak beszerzésére kiállított megkeresés.
 
 ### Végrehajtási kérelem
@@ -1295,7 +1295,7 @@ eredő követelések fejében vonható végrehajtás alá.
 - b) jogi személy és jogi személyiséggel nem rendelkező járműtulajdonos szervezet megnevezése, székhelyének és telephelyének címe, cégjegyzék-, illetve nyilvántartási száma,
 - c) a jármű
   - ca) hatósági jelzése, alvázszáma és műszaki adatai (a jármű fajtája, gyártmánya, típusa, gyártási éve, színe és az első magyarországi forgalomba helyezés időpontja),
-  - cb) tulajdonoshoz kötött forgalmazási korlátozásra vonatkozó adatok, ideértve az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására elrendelt zárlatra vonatkozó adatokat is,
+  - cb) tulajdonoshoz kötött forgalmazási korlátozásra vonatkozó adatok, ideértve az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására elrendelt zárlatra vonatkozó adatokat is,
 - d) a járműokmányok okmányazonosító jelére, kiadására, érvényességére, cseréjére és visszavonására vonatkozó adatok,
 - e) a jármű korábbi tulajdonosának (átruházójának) tulajdonjog-változáshoz kapcsolódó bejelentési kötelezettsége teljesítésének ténye és időpontja.
 
@@ -2556,9 +2556,9 @@ a közforgalom számára nyitva álló hivatali, vállalati vagy más épületre
 - a) az adós minden vagyontárgyát le kell foglalni, kivéve a végrehajtás alól mentes vagyontárgyakat és a munkabért,
 - b) az ingatlan zárgondnokául azt a szervet kell kijelölni, amely a vagyonelkobzás esetén állami tulajdonba kerülő ingatlant a jogszabály értelmében kezeli.
 
-### Zárlat az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására
+### Zárlat az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására
 
-204/A. § (1) Ha az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására a bíróság zárlatot rendelt el, ennek végrehajtása a bírósági végrehajtó hatáskörébe tartozik.
+204/A. § (1) Ha az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására a bíróság zárlatot rendelt el, ennek végrehajtása a bírósági végrehajtó hatáskörébe tartozik.
 
 (2) A zárlat végrehajtása során az e §-ban nem szabályozott kérdésekben a vagyonelkobzás biztosítására elrendelt bűnügyi zárlat szabályai szerint kell eljárni azzal, hogy
 

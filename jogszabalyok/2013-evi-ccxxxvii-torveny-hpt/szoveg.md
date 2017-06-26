@@ -708,7 +708,7 @@ induló tőkével alapítható.
 - a) többes kiemelt közvetítőnél és többes ügynöknél mindenkor legalább káreseményenként ötmillió forint, illetve évente együttesen legalább ötvenmillió forint,
 - b) alkusznál mindenkor legalább káreseményenként tízmillió forint, illetve évente együttesen legalább százmillió forint.
 
-(5) A (3) bekezdésben meghatározottakon kívül a többes kiemelt közvetítő és az alkusz rendelkezik a pénzmosás megelőzésére és a terrorizmus finanszírozásának megakadályozására vonatkozó szabályzattal és eljárásrenddel.
+(5) A (3) bekezdésben meghatározottakon kívül a többes kiemelt közvetítő és az alkusz rendelkezik a pénzmosás és a terrorizmus finanszírozása megelőzésére és megakadályozására, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtására vonatkozó szabályzattal és eljárásrenddel.
 
 (6) A (3) bekezdés a) pont ac) alpontja alkalmazása szempontjából szakirányú szakmai gyakorlatként pénzügyi intézménynél, közvetítőnél tisztségviselőként vagy pénzügyi szolgáltatási, közvetítői szakterületen alkalmazottként, egyéni vállalkozóként vagy munkavégzésre irányuló egyéb jogviszonyban eltöltött gyakorlat vehető figyelembe. Külföldön szerzett szakmai gyakorlat akkor vehető figyelembe, ha megszerzésére pénzügyi intézménynek, illetve közvetítőnek megfeleltethető intézménynél került sor.
 
@@ -724,7 +724,7 @@ induló tőkével alapítható.
 - h) a teljes bizonyító erejű magánokiratba foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárul az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának a Felügyelet által megkeresett szervek útján történő ellenőrzéséhez, valamint
 - i) a panaszkezelési szabályzatát.
 
-(8) Ha a kérelmező többes kiemelt közvetítőként kíván működni, a (7) bekezdésben meghatározottakon kívül a kérelemben igazolja az induló tőke teljes összegének rendelkezésre állását. Ha a kérelmező többes kiemelt közvetítőként vagy alkuszként kíván működni, a kérelemhez mellékeli a pénzmosás megelőzésére és a terrorizmus finanszírozásának megakadályozására vonatkozó szabályzatát és eljárásrendjét.
+(8) Ha a kérelmező többes kiemelt közvetítőként kíván működni, a (7) bekezdésben meghatározottakon kívül a kérelemben igazolja az induló tőke teljes összegének rendelkezésre állását. Ha a kérelmező többes kiemelt közvetítőként vagy alkuszként kíván működni, a kérelemhez mellékeli a pénzmosás és a terrorizmus finanszírozása megelőzésére és megakadályozására, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtására vonatkozó szabályzatát és eljárásrendjét.
 
 (9) Ha a kérelmező a (7) bekezdés b) pontjában meghatározott adatot nem igazolja, a Felügyelet adatszolgáltatási kérelemmel fordul a szükséges adatokról nyilvántartást vezető magyarországi hatósághoz vagy bírósághoz.
 
@@ -2746,7 +2746,7 @@ szemben e szerveknek a pénzügyi intézményhez intézett írásbeli megkeresé
 - b) a hitelintézet az adózás rendjéről szóló 2003. évi XCII. törvény 52. § (8) bekezdése alapján szolgáltat adatot,
 - c) a pénzügyi intézmény a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló 2011. évi CLXX. törvény 13. § (1) bekezdése alapján szolgáltat adatot,
 - d) a pénzügyi intézmény az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben meghatározott bejelentési kötelezettségének tesz eleget,
-- e) a pénzügyi intézmény a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvényben (a továbbiakban: Pmt.) meghatározott bejelentési kötelezettségét teljesíti,
+- e) a pénzügyi intézmény a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvényben (a továbbiakban: Pmt.) meghatározott bejelentési kötelezettségét teljesíti,
 - f) a magyar bűnüldöző szerv nemzetközi kötelezettségvállalás alapján külföldi bűnüldöző szerv írásbeli megkeresésének teljesítése céljából – harmadik ország bűnüldöző szerve esetén, ha a megkeresés tartalmazza a harmadik országbeli adatkérő által aláírt titoktartási záradékot – írásban kér banktitoknak minősülő adatot a pénzügyi intézménytől, vagy
 - g) a pénzügyi információs egységként működő hatóság a Pmt.-ben meghatározott feladatkörében eljárva vagy külföldi pénzügyi információs egység írásbeli megkeresésének teljesítése céljából – harmadik ország pénzügyi információs egysége esetén, ha a megkeresés tartalmazza a harmadik országbeli adatkérő által aláírt titoktartási záradékot – írásban kér banktitoknak minősülő adatot a pénzügyi intézménytől.
 
@@ -4568,7 +4568,7 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 285. § (1) Elektronikus pénzt kibocsátó hitelintézet a tevékenység végzése során alkalmazza az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény 66. §-át.
 
-(2) Az (1) bekezdés szerinti tevékenységre irányuló szerződést nem szükséges írásban megkötni abban az esetben, ha a kibocsátandó elektronikus pénz összege a Pmt. 13. § (1) bekezdés c) pontja szerinti összeghatároknak megfelel.
+(2) Az (1) bekezdés szerinti tevékenységre irányuló szerződést nem szükséges írásban megkötni abban az esetben, ha a kibocsátandó elektronikus pénz összege a Pmt. 15. § (2) bekezdése szerinti összeghatároknak megfelel.
 
 #### 124. Bankszünnap
 
@@ -4902,7 +4902,7 @@ A kombinált pufferkövetelmény egyes kvartiliseinek alsó és felső határát
   - a) a bankok és más pénzintézetek éves beszámolójáról és összevont beszámolójáról szóló 1986. december 8-i 86/635/EGK tanácsi irányelvnek,
   - b) a hitelintézetek vonatkozásában a 77/780/EGK és a 89/646/EGK irányelvnek, a nem életbiztosítási tevékenység vonatkozásában a 73/239/EGK és a 92/49/EGK irányelvnek, az életbiztosítások vonatkozásában a 79/267/EGK és a 92/96/EGK irányelvnek, a befektetési vállalkozások vonatkozásában a 93/22/EGK irányelvnek, valamint az átruházható értékpapírokkal foglalkozó kollektív befektetési vállalkozások (ÁÉKBV) vonatkozásában a 85/611/EGK irányelvnek a prudenciális felügyelet megerősítése érdekében történő módosításáról szóló 1995. július 18-i 95/26/EK európai parlamenti és tanácsi irányelvnek,
   - c) a hitelintézetek reorganizációjáról és felszámolásáról szóló 2001. április 4-i 2001/24/EK európai parlamenti és tanácsi irányelvnek,
-  - d) a pénzügyi rendszereknek a pénzmosás, valamint terrorizmus finanszírozása céljára való felhasználásának megelőzéséről szóló 2005. október 26-i 2005/60/EK európai parlamenti és tanácsi irányelvnek,
+  - d) a rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről, a 648/2012/EU európai parlamenti és tanácsi rendelet módosításáról, valamint a 2005/60/EK európai parlamenti és tanácsi irányelv és a 2006/70/EK bizottsági irányelv hatályon kívül helyezéséről szóló 2015. május 20-i európai parlamenti és tanácsi (EU) 2015/849 irányelvnek,
   - e) a 185. § (1) bekezdés f) pontjában a fogyasztói érdekek védelme érdekében a jogsértés megszüntetésére irányuló eljárásokról szóló 2009. április 23-i 2009/22/EK európai parlamenti és tanácsi irányelvnek,
   - f) a 98/26/EK, 2002/87/EK, 2003/6/EK, 2003/41/EK, 2003/71/EK, 2004/39/EK, 2004/109/EK, 2005/60/EK, 2006/48/EK, 2006/49/EK és 2009/65/EK irányelvnek az európai felügyeleti hatóság (Európai Bankhatóság), az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról szóló 2010. november 24-i 2010/78/EU európai parlamenti és tanácsi irányelvnek,
   - g) a hitelintézetek tevékenységéhez való hozzáférésről és a hitelintézetek és befektetési vállalkozások prudenciális felügyeletéről, a 2002/87/EK irányelv módosításáról, a 2006/48/EK és a 2006/49/EK irányelv hatályon kívül helyezéséről szóló 2013. június 26-i 2013/36/EU európai parlamenti és tanácsi irányelvnek,
