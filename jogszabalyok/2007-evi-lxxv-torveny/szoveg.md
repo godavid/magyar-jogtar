@@ -117,6 +117,8 @@ A piacgazdaság működéséhez szükséges, hogy a gazdálkodók a vagyoni, pé
 
 (7) A kamara gondoskodik arról, hogy az e törvény alapján megalkotott szabályzatai folyamatosan és bárki számára szabadon hozzáférhetőek legyenek a honlapján.
 
+(8) A kamara felügyeletet ellátó szervként a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végzők részére kiadja a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvény szerinti, kötelező jellegű útmutatót. Az útmutató részét képező egységes szabályzatot a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végzők az előző törvények szerinti belső szabályzatként fogadhatják el.
+
 ### Kamarai hatósági eljárások
 
 5. § A közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni – az e törvényben foglaltak figyelembevételével – a következő ügyekben:
@@ -132,7 +134,7 @@ A piacgazdaság működéséhez szükséges, hogy a gazdálkodók a vagyoni, pé
 - i) tanulmányok elismerése az okleveles könyvvizsgálói képzési programban,
 - j) okleveles könyvvizsgálói képzés szervezésének, folytatásának engedélyezése gazdálkodó számára, oktatási tevékenység végzésének engedélyezése természetes személy számára, valamint az engedélyek visszavonása,
 - k) kamarai minőségellenőrzés lefolytatása
-- l) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti, a kamarai tag könyvvizsgálóra, könyvvizsgáló cégre vonatkozó felügyeleti tevékenység gyakorlása
+- l) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvény szerinti, a kamarai tag könyvvizsgálóra, könyvvizsgáló cégre vonatkozó felügyeleti tevékenység gyakorlása
 
 [az a)–l) pontokban írtak a továbbiakban együtt: kamarai hatósági eljárás.]
 
@@ -836,7 +838,7 @@ ha annak hatására a kamarai tag könyvvizsgáló, a könyvvizsgáló cég nem 
 
 (4) A titoktartási kötelezettség a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátására irányuló megbízás megszűnése után is terheli az (1)–(3) bekezdés hatálya alá tartozókat.
 
-67. § (1) Nem jelenti a titoktartási kötelezettség megszegését a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény alapján indított ellenőrzés, illetve a kamara fegyelmi bizottsága által lefolytatott fegyelmi eljárás során, továbbá a közfelügyeleti hatáskörben kért, a minőségellenőrzéshez, a kamarai minőségellenőrzéshez, a fegyelmi eljárás lefolytatásához, a közfelügyeleti hatáskör gyakorlásához szükséges és arányos adatszolgáltatás teljesítése, a könyvvizsgálói munkaanyagoknak a minőségellenőrzéssel megbízott, a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényből adódó feladatok végrehajtásának ellenőrzésével megbízott, a fegyelmi eljárásban részt vevők, a közfelügyeleti hatáskörben eljárók rendelkezésére bocsátása. E tekintetben a minőségellenőrzéssel megbízott, a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényből adódó feladatok végrehajtásának ellenőrzésével megbízott, a fegyelmi eljárásban részt vevő, a közfelügyeleti hatáskört gyakorló személyeket a kamarai tag könyvvizsgálóval, a könyvvizsgáló céggel azonos titoktartási kötelezettség terheli.
+67. § (1) Nem jelenti a titoktartási kötelezettség megszegését a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény alapján indított ellenőrzés, illetve a kamara fegyelmi bizottsága által lefolytatott fegyelmi eljárás során, továbbá a közfelügyeleti hatáskörben kért, a minőségellenőrzéshez, a kamarai minőségellenőrzéshez, a fegyelmi eljárás lefolytatásához, a közfelügyeleti hatáskör gyakorlásához szükséges és arányos adatszolgáltatás teljesítése, a könyvvizsgálói munkaanyagoknak a minőségellenőrzéssel megbízott, a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényből adódó feladatok végrehajtásának ellenőrzésével megbízott, a fegyelmi eljárásban részt vevők, a közfelügyeleti hatáskörben eljárók rendelkezésére bocsátása. E tekintetben a minőségellenőrzéssel megbízott, a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényből adódó feladatok végrehajtásának ellenőrzésével megbízott, a fegyelmi eljárásban részt vevő, a közfelügyeleti hatáskört gyakorló személyeket a kamarai tag könyvvizsgálóval, a könyvvizsgáló céggel azonos titoktartási kötelezettség terheli.
 
 (1a) Nem jelenti a titoktartási kötelezettség megszegését a pénz-, tőke- és biztosításpiaci szervezeteket, pénztárakat érintően a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank által lefolytatott ellenőrzési eljárás során a Magyar Nemzeti Bank által az adott intézmény jogszabály alapján kötelező könyvvizsgálatát végző kamarai tag könyvvizsgálótól, könyvvizsgáló cégtől kért, a tényállás megállapításához szükséges adatok rendelkezésre bocsátása. E tekintetben a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró személyeket a kamarai tag könyvvizsgálóval, a könyvvizsgáló céggel azonos titoktartási kötelezettség terheli.
 
@@ -1356,7 +1358,7 @@ szerezte.
 - e) a könyvvizsgálói hivatás magatartási (etikai) szabályairól és a fegyelmi eljárásról,
 - f) a szakmai továbbképzési rendszerről,
 - g) a harmadik országbeli könyvvizsgálók és a harmadik országbeli könyvvizsgáló gazdálkodók jegyzékébe történő felvételről és a jegyzékből történő törlésről,
-- h) a pénzmosás és a terrorizmus finanszírozása megelőzésére és megakadályozására szolgáló könyvvizsgálói tevékenység kamarai ellenőrzéséről,
+- h) a pénzmosás és a terrorizmus finanszírozása megelőzésére és megakadályozására, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtására szolgáló könyvvizsgálói tevékenység kamarai ellenőrzéséről,
 - i) minden olyan esetben, amikor a kamara alapszabálya azt előírja.
 
 113. § (1) A küldöttgyűlés legalább 3 évre, legfeljebb 5 évre megválasztja
@@ -1757,7 +1759,7 @@ finanszírozzák.
 - g) kialakítja és megszervezi a minőségellenőrök oktatását, gondoskodik a folyamatos szakmai továbbképzésükről,
 - h) kezdeményezi és alkalmazza az e törvényben meghatározott intézkedéseket,
 - i) a lefolytatott kamarai minőségellenőrzés kapcsán határozatot hoz,
-- j) lefolytatja a pénzmosás és a terrorizmus finanszírozása megelőzésének és megakadályozásának ellenőrzését szolgáló vizsgálatot, és első fokon határoz a vizsgálat befejezéséről.
+- j) lefolytatja a pénzmosás és a terrorizmus finanszírozása megelőzésének és megakadályozásának, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásának ellenőrzését szolgáló vizsgálatot, és első fokon határoz a vizsgálat befejezéséről.
 
 (2) A bizottság az (1) bekezdésben foglaltakon túlmenően ellátja mindazokat a feladatokat, amelyeket e törvény, a kamara alapszabálya és önkormányzati szabályzatai a feladatkörébe utalnak.
 
@@ -1932,8 +1934,9 @@ finanszírozzák.
 
 (2) A bizottság ellenőrzi a kamarai tag könyvvizsgálók, a könyvvizsgáló cégek
 
-- a) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben, valamint
-- b) a törvényben foglaltak végrehajtására a kamarai tag könyvvizsgálók, könyvvizsgáló cégek által készített szabályzatban
+- a) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben,
+- b) az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben, valamint
+- c) az a) és b) pont szerinti törvények végrehajtására a kamara által kiadott útmutatóban
 
 foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőrzés).
 
@@ -1941,18 +1944,15 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 
 (4) A bizottság a vizsgálat befejezéséről határozattal dönt.
 
-(5) Ha a vizsgálat eredményeként az állapítható meg, hogy a kamarai tag könyvvizsgáló, a könyvvizsgáló cég teljesítette a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben és az annak végrehajtására kiadott szabályzatban foglalt kötelezettségeit, a bizottság a határozatában az ellenőrzést megszünteti.
+(5)
 
-(6) Ha a vizsgálat eredményeként az állapítható meg, hogy a kamarai tag könyvvizsgáló, a könyvvizsgáló cég megszegte a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben vagy az annak végrehajtására kiadott szabályzatban foglalt kötelezettségeit, a bizottság a határozatában
-
-- a) felhívja a kamarai tag könyvvizsgáló, a könyvvizsgáló cég figyelmét a jogszabályoknak és a szabályzatnak megfelelő eljárásra, az elmulasztott intézkedések megtételére,
-- b) fegyelmi vétség elkövetésének alapos gyanúja esetén fegyelmi eljárás elrendelésére tesz javaslatot a kamara elnökének.
+(6) Ha a vizsgálat eredményeként az állapítható meg, hogy a kamarai tag könyvvizsgáló, a könyvvizsgáló cég megszegte a (2) bekezdés szerinti törvényekben vagy az annak végrehajtására kiadott útmutatóban foglalt kötelezettségeit, a bizottság a (2) bekezdés szerinti törvényekben foglalt intézkedések alkalmazásáról dönt. Ha a bizottság intézkedésként eltiltást alkalmaz, az eltiltás időtartama 3 évig terjedhet.
 
 (7)
 
 (8) A kamara a határozatában foglaltak teljesítését e § rendelkezései szerint ellenőrizheti.
 
-(9) A kamarai tag könyvvizsgáló, a könyvvizsgáló cég köteles az ellenőrzés lefolytatását elősegíteni, a kamara felhívásaiban, határozataiban foglaltakat teljesíteni, az ellenőrzés lefolytatását lehetővé tenni.
+(9)
 
 (10) A közfelügyeleti hatóság e törvényben foglalt feladatainak ellátása során a pénzmosás és terrorizmus finanszírozása megelőzésének és megakadályozásának érdekében együttműködik a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti pénzügyi információs egységként működő hatósággal.
 

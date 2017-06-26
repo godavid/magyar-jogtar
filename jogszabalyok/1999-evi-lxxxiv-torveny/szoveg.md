@@ -150,7 +150,7 @@ a nyilvántartó a (2) bekezdés szerinti módon gondoskodik a schengeni figyelm
 
 - a) azonosító és műszaki adatait, a műszaki érvényesség időtartamának végét vagy a műszaki alkalmatlanságának tényét, valamint motorkódját,
 - b) forgalomban tarthatóságának feltételeit,
-- c) forgalmazási korlátozására vonatkozó adatokat, ideértve az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására elrendelt zárlatra vonatkozó adatokat is,
+- c) forgalmazási korlátozására vonatkozó adatokat, ideértve az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására elrendelt zárlatra vonatkozó adatokat is,
 - d) a járműokmányok és a hatósági igazolványok, bizonyítványok, tanúsítványok okmányazonosító jelére, kiadására, érvényességére, cseréjére, visszavonására,
 - e) járműokmányainak és hatósági jelzésének az elvesztésére, eltulajdonítására, megsemmisülésére, egyéb okból történő érvénytelenségére, megtalálására, megkerülésére, vonatkozó adatokat,
 - f) az állandó forgalmi engedély okmány, illetve az állandó rendszámtábla tekintetében a figyelmeztető jelzés kezelésével kapcsolatos, jogszabályban meghatározott adatait, valamint

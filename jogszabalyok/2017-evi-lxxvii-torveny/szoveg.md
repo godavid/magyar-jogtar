@@ -622,13 +622,29 @@ lép.
 
 #### 28. A Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény módosítása
 
-206. §
+206. § A Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény (a továbbiakban: Kkt.) 4. §-a a következő (8) bekezdéssel egészül ki:
+
+„(8) A kamara felügyeletet ellátó szervként a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végzők részére kiadja a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvény szerinti, kötelező jellegű útmutatót. Az útmutató részét képező egységes szabályzatot a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végzők az előző törvények szerinti belső szabályzatként fogadhatják el.”
 
 207. §
 
 208–213. §
 
-214. §
+214. § (1) A Kkt. 173/A. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A bizottság ellenőrzi a kamarai tag könyvvizsgálók, a könyvvizsgáló cégek
+
+a) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben,
+
+b) az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben, valamint
+
+c) az a) és b) pont szerinti törvények végrehajtására a kamara által kiadott útmutatóban
+
+foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőrzés).”
+
+(2) A Kkt. 173/A. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) Ha a vizsgálat eredményeként az állapítható meg, hogy a kamarai tag könyvvizsgáló, a könyvvizsgáló cég megszegte a (2) bekezdés szerinti törvényekben vagy az annak végrehajtására kiadott útmutatóban foglalt kötelezettségeit, a bizottság a (2) bekezdés szerinti törvényekben foglalt intézkedések alkalmazásáról dönt. Ha a bizottság intézkedésként eltiltást alkalmaz, az eltiltás időtartama 3 évig terjedhet. ”
 
 215. §
 
@@ -636,14 +652,16 @@ lép.
 
 218. § A Kkt.
 
-- a)
+- a) 5. § l) pontjában, 67. § (1) bekezdésében a „pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény” szövegrész helyébe a „pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvény” szöveg,
 - b)
 - c)
-- d)–f)
+- d) 67. § (1) bekezdésében a „pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényből” szövegrészek helyébe a „pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényből” szöveg,
+- e) 112. § h) pontjában a „pénzmosás és a terrorizmus finanszírozása megelőzésére és megakadályozására” szövegrész helyébe a „pénzmosás és a terrorizmus finanszírozása megelőzésére és megakadályozására, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtására”szöveg,
+- f) 152. § (1) bekezdés j) pontjában a „pénzmosás és a terrorizmus finanszírozása megelőzésének és megakadályozásának” szövegrész helyébe a „pénzmosás és a terrorizmus finanszírozása megelőzésének és megakadályozásának, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásának” szöveg
 
 lép.
 
-219. §
+219. § Hatályát veszti a Kkt. 173/A. § (5) és (9) bekezdése.
 
 ### IX. Fejezet — EGYÉB TÖRVÉNYEKET ÉRINTŐ MÓDOSÍTÁSOK
 

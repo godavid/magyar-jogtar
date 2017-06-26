@@ -2861,9 +2861,11 @@ igazolását.
   - fc) számviteli politikájának, részletes számviteli rendszerének tervezetét,
   - fd) nyilatkozatot arról, hogy az adatvédelmet szolgáló (kézi és gépi) irattározásra felkészült,
   - fe) a megbízható és körültekintő működésnek megfelelő belső szabályozás rendjének leírását, a belső szabályozások felsorolását,
-  - ff) a pénzmosás megelőzéséről és megakadályozásáról szóló törvény szerinti pénzmosási szabályzatot;
+  - ff)
 - g) a nyilatkozatot arra vonatkozóan, hogy tevékenységét mikor kívánja megkezdeni;
 - h) a kötelező gépjármű-felelősségbiztosításra is kiterjedő engedélykérelem esetén valamennyi tagállamban működő kárrendezési megbízott megbízásának igazolását, a kárrendezési megbízott nevét és címét.
+
+(1a) Az (1) bekezdésben foglaltakon túl az életbiztosítási ágba tartozó tevékenység megkezdésére vonatkozó engedély iránti kérelemhez – tárgyi feltételként – mellékelni kell a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvény szerinti belső szabályzatot is.
 
 (2) A hatodik rész hatálya alá tartozó kisbiztosító esetén biztosítási tevékenység megkezdésére vonatkozó engedély iránti kérelemhez mellékelni kell:
 
@@ -2900,12 +2902,13 @@ igazolását.
 247. § (1) Harmadik országbeli biztosító vagy viszontbiztosító fióktelepe esetén a tevékenység megkezdésére vonatkozó engedély iránti kérelemnek – a 244. § (1) és (4) bekezdésében foglaltak igazolásán túl – tartalmaznia kell:
 
 - a) a harmadik országban székhellyel rendelkező vállalkozás alapító okiratát, tevékenységi engedélyének másolatát, az előző három év auditált mérlegét;
-- b) a székhely szerinti állam felügyeleti hatóságának nyilatkozatát arról, hogy Magyarország területén történő fióktelep-alapítás nem ütközik a székhely szerinti állam jogszabályaiba, illetve nem veszélyezteti a kérelmező működését.
+- b) a székhely szerinti állam felügyeleti hatóságának nyilatkozatát arról, hogy Magyarország területén történő fióktelep-alapítás nem ütközik a székhely szerinti állam jogszabályaiba, illetve nem veszélyezteti a kérelmező működését;
+- c) – az életbiztosítási ágba tartozó tevékenység megkezdésére vonatkozó engedély iránti kérelemhez kapcsolódóan – a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvény szerinti belső szabályzatot.
 
 (2) A harmadik országbeli biztosító vagy viszontbiztosító esetén a tevékenységi engedélyt az (1) bekezdésben foglalt feltételek fennállása és a 245. § (1) bekezdésében meghatározott elutasítási ok hiányában a Felügyelet abban az esetben adja meg, ha
 
 - a) a felügyeleti hatóságok kölcsönös elismerésén alapuló – fióktelepekkel összefüggő kérdésekre is kiterjedő – nemzetközi együttműködési megállapodás van hatályban a Felügyelet és a kérelmező székhelye szerinti államban a felügyeleti hatóság között;
-- b) a kérelmező székhelye szerinti állam rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő pénzmosás elleni jogszabályi előírásokkal;
+- b) a kérelmező székhelye szerinti állam rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő pénzmosás és a terrorizmus finanszírozása elleni, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtására vonatkozó jogszabályi előírásokkal;
 - c) a kérelmező székhelye szerinti állam rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő adatvédelmi előírásokkal;
 - d) a kérelmező rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő adatkezelési szabályzattal;
 - e) a kérelmező nyilatkozik arról, hogy helytáll a fióktelep útján keletkezett kötelezettségeiért;
@@ -4597,7 +4600,8 @@ rendelkezni.
 - b) annak igazolását, hogy a végzett tevékenységhez igazodó egyedi azonosítására alkalmas folyamatos nyilvántartási feladatokra felkészült,
 - c) a Felügyelet felé fennálló adatszolgáltatási kötelezettség teljesítéséhez szükséges tárgyi feltételek meglétét igazoló dokumentumokat,
 - d) a biztosításközvetítői tevékenység irányításáért felelős természetes személy foglalkoztatásának igazolását,
-- e) a tevékenységével kapcsolatban okozott károk fedezetére szolgáló felelősségbiztosítási szerződés megkötésének vagy a vagyoni biztosíték meglétének igazolását.
+- e) a tevékenységével kapcsolatban okozott károk fedezetére szolgáló felelősségbiztosítási szerződés megkötésének vagy a vagyoni biztosíték meglétének igazolását,
+- f) – az életbiztosítási ágba tartozó szerződésekkel kapcsolatos tevékenység tekintetében – a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvény szerinti belső szabályzatot.
 
 (2)
 
@@ -4635,7 +4639,7 @@ rendelkezni.
 (2) A tevékenységi engedélyt az (1) bekezdésben foglalt feltételeken túl a Felügyelet abban az esetben adja meg, ha
 
 - a) érvényes és hatályos, a felügyeleti hatóságok kölcsönös elismerésén alapuló – fióktelepekkel összefüggő kérdésekre is kiterjedő – nemzetközi együttműködési megállapodás van a Felügyelet és a kérelmező biztosításközvetítő székhelye szerinti államban a felügyeleti hatóság(ok) között,
-- b) a kérelmező biztosításközvetítő székhelye szerinti állam rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő pénzmosás elleni jogszabályi előírásokkal,
+- b) a kérelmező biztosításközvetítő székhelye szerinti állam rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő pénzmosás és a terrorizmus finanszírozása elleni, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtására vonatkozó jogszabályi előírásokkal,
 - c) a kérelmező biztosításközvetítő székhelye szerinti állam rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő adatvédelmi előírásokkal,
 - d) a kérelmező biztosításközvetítő rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő adatkezelési szabályzattal,
 - e) a kérelmező biztosításközvetítő nyilatkozik arról, hogy helytáll a fióktelep útján keletkezett kötelezettségeiért,
