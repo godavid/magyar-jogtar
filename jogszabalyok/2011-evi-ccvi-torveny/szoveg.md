@@ -76,6 +76,8 @@ tevékenység.
 
 (2) A vallási tevékenységet végző szervezetre az egyesületre vonatkozó szabályokat az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
+(3) A vallási tevékenységet végző szervezetre nem kell alkalmazni a külföldről támogatott szervezetek átláthatóságáról szóló 2017. évi LXXVI. törvényt.
+
 9/B. § (1) A vallási tevékenységet végző szervezet nyilvántartásba vétele a Fővárosi Törvényszék kizárólagos illetékességébe tartozik.
 
 (2) A nyilvántartásba vétel iránti kérelem alapján a bíróság kizárólag azt vizsgálja, hogy
