@@ -56,21 +56,7 @@ szerinti adattartalommal kerül feltüntetésre.
 
 5. § Ez a törvény a kihirdetését követő nyolcadik napon lép hatályba.
 
-6. § (1) A civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény 94. § (1) bekezdése a következő h) ponttal egészül ki:
-
-(A nyilvántartás alapítvány esetén a 91. §-ban foglaltakon túlmenően tartalmazza a következő adatokat is:)
-
-„h) azt a tényt, hogy a külföldről támogatott szervezetek átláthatóságáról szóló 2017. évi LXXVI. törvény szerinti külföldről támogatott szervezetnek minősül.”
-
-(2) A civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény 95. §-a a következő e) ponttal egészül ki:
-
-(A nyilvántartás egyesület esetén a 91. §-ban foglaltakon túlmenően tartalmazza a következő adatokat is:)
-
-„e) azt a tényt, hogy a külföldről támogatott szervezetek átláthatóságáról szóló 2017. évi LXXVI. törvény szerinti külföldről támogatott szervezetnek minősül.”
-
-7. § A lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 9/A. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) A vallási tevékenységet végző szervezetre nem kell alkalmazni a külföldről támogatott szervezetek átláthatóságáról szóló 2017. évi LXXVI. törvényt.”
+6–7. §
 
 ### 1. melléklet a 2017. évi LXXVI. törvényhez
 
