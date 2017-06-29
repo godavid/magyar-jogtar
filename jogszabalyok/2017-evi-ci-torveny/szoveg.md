@@ -16,4 +16,4 @@ az áruknak TIR-igazolvánnyal történő nemzetközi fuvarozására vonatkozó,
 
 (3) Az Egyezmény a Módosítással, valamint a 2013. évi XLII. törvénnyel és a 2013. évi CLXXII. törvénnyel kihirdetett módosításokkal egységes szerkezetbe foglalt angol nyelvű szövegének és annak hivatalos magyar nyelvű fordításának közzétételéről a közlekedésért felelős miniszter gondoskodik.
 
-(4) Hatályát veszti az áruknak TIR-igazolvánnyal történő nemzetközi fuvarozására vonatkozó, Genfben, 1975. november 14-én kelt vámegyezmény és módosításai kihirdetéséről szóló 2013. évi XLII. törvény 36. § (4) bekezdése és az áruknak TIR-igazolvánnyal történő nemzetközi fuvarozására vonatkozó, Genfben, 1975. november 14-én kelt vámegyezmény módosításának kihirdetéséről szóló 2013. évi CLXXII. törvény 3. § (3) bekezdése.
+(4)

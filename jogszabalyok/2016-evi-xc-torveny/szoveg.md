@@ -10,24 +10,24 @@ Az Országgyűlés az Alaptörvény 36. cikk (1) bekezdése alapján Magyarorsz�
 
 1. § (1) Az Országgyűlés az államháztartás központi alrendszerének (a továbbiakban: központi alrendszer) 2017. évi
 
-- a) bevételi főösszegét 17 431 347,9 millió forintban,
-- b) kiadási főösszegét 18 597 705,0 millió forintban,
+- a) bevételi főösszegét 17 867 739,4 millió forintban,
+- b) kiadási főösszegét 19 034 096,5 millió forintban,
 - c) hiányát 1 166 357,1 millió forintban
 
 állapítja meg.
 
 (2) Az (1) bekezdésben meghatározott bevételi és kiadási főösszegeken belül az Országgyűlés a hazai működési költségvetés 2017. évi
 
-- a) bevételi főösszegét 14 721 931,6 millió forintban,
-- b) kiadási főösszegét 14 721 931,6 millió forintban,
+- a) bevételi főösszegét 15 049 587,5 millió forintban,
+- b) kiadási főösszegét 15 049 587,5 millió forintban,
 - c) egyenlegét 0,0 millió forintban
 
 állapítja meg.
 
 (3) Az (1) bekezdésben meghatározott bevételi és kiadási főösszegeken belül az Országgyűlés a hazai felhalmozási költségvetés 2017. évi
 
-- a) bevételi főösszegét 1 164 250,4 millió forintban,
-- b) kiadási főösszegét 1 636 611,9 millió forintban,
+- a) bevételi főösszegét 1 272 986,0 millió forintban,
+- b) kiadási főösszegét 1 745 347,5 millió forintban,
 - c) hiányát 472 361,5 millió forintban
 
 állapítja meg.
@@ -67,7 +67,7 @@ Az Országgyűlés az Alaptörvény 36. cikk (1) bekezdése alapján Magyarorsz�
 - b) az Állami Számvevőszékről szóló 2011. évi LXVI. törvény 21. § (1) bekezdésében meghatározott számvevői illetményalap változása miatti személyi juttatás és az azokhoz kapcsolódó munkaadókat terhelő járulékok és szociális hozzájárulási adó növekményének kifizetésére,
 - c) a központi költségvetési szerveknél a feladatok változásával, a szervezetek, szervezetrendszerek korszerűsítésével, a feladatellátás ésszerűsítésével megvalósuló, kiadás- és költségvetési támogatás-megtakarítást eredményező létszámcsökkentésekhez kötődő személyi juttatások és az azokhoz kapcsolódó munkaadókat terhelő járulékok és szociális hozzájárulási adó kifizetéseire.
 
-(3) Céltartalék szolgál a XI. Miniszterelnökség fejezet, 32. cím, 3. alcím, 3. Ágazati életpályák és bérintézkedések jogcímcsoporton – jogszabály alapján – járó többlet személyi juttatások és az azokhoz kapcsolódó munkaadókat terhelő járulékok és szociális hozzájárulási adó kifizetésére.
+(3) Céltartalék szolgál a XI. Miniszterelnökség fejezet, 32. cím, 3. alcím, 3. Ágazati életpályák és bérintézkedések jogcímcsoporton – jogszabály vagy kormányhatározat alapján járó – többlet személyi juttatások és az azokhoz kapcsolódó munkaadókat terhelő járulékok és szociális hozzájárulási adó kifizetésére.
 
 (4) A költségvetési szerveknél és a nevelési-oktatási, felsőoktatási, egészségügyi, karitatív, szociális, család-, gyermek- és ifjúságvédelmi, kulturális vagy sporttevékenységet önmaga vagy intézménye útján ellátó egyházi jogi személynél foglalkoztatott természetes személy és annak e körben foglalkoztatott házas- vagy élettársa a 2017. évi adó- és járulékváltozások ellentételezésének megállapításához a saját és házas- vagy élettársa munkáltatója részére is nyilatkozik – a kompenzáció összegének megállapítása érdekében – a családi kedvezményre való jogosultságáról, az annak igénylése során figyelembe vehető kedvezményezett eltartottak számáról, adóazonosító jeléről, illetményéről és a jogviszonya keletkezésének időpontjáról. A nyilatkozatra vonatkozó további rendelkezéseket a Kormány rendeletben állapítja meg.
 
@@ -139,15 +139,15 @@ képezi.
 
 #### 5. Egyes költségvetési szervek befizetési kötelezettségei
 
-9. § (1) A Magyar Bányászati és Földtani Hivatal 607,2 millió forintot, a Nemzeti Közlekedési Hatóság 21 218,0 millió forintot, a Közlekedésfejlesztési Koordinációs Központ 185,3 millió forintot köteles 2017. évben befizetni a bevételeiből a központi költségvetés részére, amelyek esedékessége az első három negyedév vonatkozásában a negyedévet követő hónap 20. napja, a negyedik negyedévben december 10-e.
+9. § (1) A Magyar Bányászati és Földtani Hivatal 607,2 millió forintot, a Nemzeti Fejlesztési Minisztérium igazgatása 24 750,8 millió forintot köteles 2017. évben befizetni a bevételeiből a központi költségvetés részére, amelyek esedékessége az első három negyedév vonatkozásában a negyedévet követő hónap 20. napja, a negyedik negyedévben december 10-e.
 
 (2) Az Országos Atomenergia Hivatal 368,8 millió forintot köteles 2017. évben befizetni a bevételeiből – az államháztartásért felelős miniszter által jóváhagyott ütemezési terv szerint – a központi költségvetés részére, amelyek esedékessége az első három negyedév vonatkozásában a negyedévet követő hónap 20. napja, a negyedik negyedévben december 10-e.
 
 (3) A Magyar Energetikai és Közmű-szabályozási Hivatal 2029,1 millió forintot köteles fizetni a bevételeiből 2017. évben a központi költségvetés javára, havi 1/12-ed részenként február hónaptól minden hónap 20. napjáig, illetve további 1/12-ed részt december hónapban 10-ei befizetési időpontra.
 
-(4) A fővárosi és a megyei kormányhivatalok 837,4 millió forintot köteles befizetni a bevételeikből 2017. évben a központi költségvetés javára, havi 1/12-ed részenként február hónaptól minden hónap 20. napjáig, illetve további 1/12-ed részt december hónapban 10-ei befizetési időpontra.
+(4) A fővárosi és a megyei kormányhivatalok 931,5 millió forintot köteles befizetni a bevételeikből 2017. évben a központi költségvetés javára, havi 1/12-ed részenként február hónaptól minden hónap 20. napjáig, illetve további 1/12-ed részt december hónapban 10-ei befizetési időpontra.
 
-(5) A Földmérési és Távérzékelési Intézet 94,1 millió forintot köteles befizetni a bevételeiből 2017. évben a központi költségvetés javára, havi 1/12-ed részenként február hónaptól minden hónap 20. napjáig, illetve további 1/12-ed részt december hónapban 10-ei befizetési időpontra.
+(5)
 
 (6) Ha az (1) bekezdésben meghatározott költségvetési szervek befizetési kötelezettségüknek nem tesznek eleget, a hiányzó összegre fejezeti tartalékot kell képezni és a befizetést legkésőbb 2017. december 28-áig kell teljesíteni.
 
@@ -155,7 +155,7 @@ képezi.
 
 (8) Az egyes minisztériumok irányítása alatt álló központi hivatalok és költségvetési szervi formában működő minisztériumi háttérintézmények racionalizálása során, a Kormány nyilvános határozatában meghatározott intézményi körben az érintettek a 2016. évi eredeti költségvetésben szereplő, valamint a 2016. évi szerkezetváltozásból eredő személyi juttatások és – az azokhoz kapcsolódó – munkaadókat terhelő járulékok és szociális hozzájárulási adó előirányzatuk 20%-át kormányrendeletben meghatározott módon kötelesek befizetni a központi költségvetés javára, vagy azt kormányrendeletben meghatározott módon más célra átcsoportosítani.
 
-(9) A központi költségvetési szervek a munkaadókat terhelő járulékok és szociális hozzájárulási adó előirányzatuk terhére a szociális hozzájárulási adó 2017. évi csökkentéséből származó kiadási megtakarításukat – kormányrendeletben meghatározott módon – havonta az érintett tárgyhónapot követő hó 15-éig, december hónap után december 20 ig kötelesek befizetni a központi költségvetés javára, vagy azt a kormányrendeletben meghatározott módon más célra átcsoportosítani.
+(9) A központi költségvetési szervek, az államháztartás központi alrendszerébe sorolt köztestületek és a köztestület által irányított köztestületi költségvetési szervek – az intézményi és a fejezeti kezelésű előirányzataikon – a munkaadókat terhelő járulékok és szociális hozzájárulási adó előirányzatuk terhére a szociális hozzájárulási adó 2017. évi csökkentéséből származó kiadási megtakarításukat – kormányrendeletben meghatározott módon – havonta az érintett tárgyhónapot követő hó 15-éig kötelesek befizetni a központi költségvetés javára, vagy azt a kormányrendeletben meghatározott módon más célra átcsoportosítani.
 
 #### 6. Az elkülönített állami pénzalapokkal összefüggő rendelkezések
 
@@ -169,7 +169,7 @@ képezi.
 
 #### 7. A Nyugdíjbiztosítási Alappal összefüggő rendelkezések
 
-11. § (1) A LXXI. Nyugdíjbiztosítási Alap fejezetnél a 2. cím, 1. Nyugellátások alcímen belül az adott előirányzat terhére különös méltánylást érdemlő körülmények esetén méltányossági alapon megállapításra kerülő nyugellátásra 200,0 millió forint, méltányossági alapú nyugdíjemelésre 700,0 millió forint, egyszeri segélyre 500,0 millió forint használható fel.
+11. § (1) A LXXI. Nyugdíjbiztosítási Alap fejezetnél a 2. cím, 1. Nyugellátások alcímen belül az adott előirányzat terhére különös méltánylást érdemlő körülmények esetén méltányossági alapon megállapításra kerülő nyugellátásra 200,0 millió forint, méltányossági alapú nyugdíjemelésre 720,0 millió forint, egyszeri segélyre 550,0 millió forint használható fel.
 
 (2) A szociál- és nyugdíjpolitikáért felelős miniszter a Nyugdíjbiztosítási Alap (a továbbiakban: Ny. Alap) kezelőjének javaslatára az (1) bekezdésben meghatározott méltányossági keretösszegek között átcsoportosíthat.
 
@@ -257,7 +257,13 @@ alakulását, továbbá javaslatot tesz a kiadási előirányzat felhasználás�
 
 20. § (1) Az államháztartásért felelős miniszter a 4. § (2) és (3) bekezdése szerinti előirányzatból más fejezetre, címre, alcímre, jogcímcsoportra, jogcímre, előirányzat-csoportra, kiemelt előirányzatra – felmérés alapján – átcsoportosíthat.
 
-(2) Az államháztartásért felelős miniszter a XVI. Nemzeti Adó- és Vámhivatal fejezet, 1. Nemzeti Adó- és Vámhivatal cím, 1. Működési költségvetés előirányzat-csoport, 1. Személyi juttatások kiemelt előirányzatát legfeljebb 5000,0 millió forinttal, a 2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzatát legfeljebb 1350,0 millió forinttal negyedévente megemelheti, ha az általa a negyedévet megelőzően meghatározott adónemek vonatkozásában teljesülnek az általa ezzel egyidőben meghatározott negyedéves bevételi tervek. A negyedik negyedévben ezen előirányzatok akkor is megemelhetőek, ha december 22-éig befolyt bevételek alapján megállapítható, hogy várhatóan teljesülni fog a negyedik negyedéves bevételi terv.
+(2) Az államháztartásért felelős miniszter a XVI. Nemzeti Adó- és Vámhivatal fejezet, 1. Nemzeti Adó- és Vámhivatal cím, 1. Működési költségvetés előirányzat-csoport, 1. Személyi juttatások kiemelt előirányzatát legfeljebb 5000,0 millió forinttal, a 2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzatát legfeljebb 1100,0 millió forinttal negyedévente megemelheti, ha az általa a negyedévet megelőzően meghatározott adónemek vonatkozásában teljesülnek az általa ezzel egyidőben meghatározott negyedéves bevételi tervek. A negyedik negyedévben ezen előirányzatok akkor is megemelhetőek, ha december 22-éig befolyt bevételek alapján megállapítható, hogy várhatóan teljesülni fog a negyedik negyedéves bevételi terv.
+
+(3) A kincstár a pénzügyi tranzakciós illeték megfizetése céljából az eredeti előirányzaton felüli, a pénzügyi tranzakciós illetékről szóló 2012. évi CXVI. törvény 7. § (4) bekezdése alapján keletkezett többletbevételeivel az államháztartásért felelős miniszter engedélye nélkül, saját hatáskörben megnövelheti a bevételi és kiadási előirányzatait.
+
+(4) Az államháztartásért felelős miniszter a gazdasági növekedés elősegítése és a versenyképesség javítása céljából engedélyezheti a 26. §-ban meghatározott tárgyéven túli fizetési kötelezettségvállalás állomány összegének megemelését a 2017. évben azzal, hogy ezen állomány ebben az esetben sem haladhatja meg a 150 000,0 millió forintot.
+
+(5) A XVII. Nemzeti Fejlesztési Minisztérium fejezetet irányító szerv vezetője a XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. cím, 61. Beruházás Előkészítési Alap alcím terhére más fejezetre, címre, alcímre, jogcímcsoportra, jogcímre, előirányzat-csoportra, kiemelt előirányzatra – a Kormány által meghatározott beruházások előkészítése érdekében – átcsoportosíthat.
 
 21. § (1) A Köztársasági Elnöki Hivatal főigazgatója
 
@@ -344,7 +350,14 @@ alakulását, továbbá javaslatot tesz a kiadási előirányzat felhasználás�
 
 (3) Ha az E. Alap tárgyévi utolsó bevételének beérkezése és az utolsó ellátás kifizetése után az E. Alap pénzforgalmi egyenlege többletet mutat, a kincstár intézkedik a többlet összegének visszautalásáról, amely a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 35. cím, 2. alcím, 9. Kiadások támogatására pénzeszköz-átadás jogcímcsoport szerinti kiadást csökkenti.
 
-(4) A szociál- és nyugdíjpolitikáért felelős miniszter a 2017. évi központi költségvetés január–november havi előzetes tényadatai alapján az államháztartásért felelős miniszterrel egyetértésben a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 5. cím, 7. Nyugdíjbiztosítási Alap befizetése alcím javára történő befizetési kötelezettséget határozhat meg a LXXI. Nyugdíjbiztosítási Alap fejezet, 4. Egyéb befizetések cím, 1. Költségvetési befizetések alcím terhére.
+(4) Az Ny. Alap részére a központi költségvetés XLII. A költségvetés közvetlen bevételei és kiadásai fejezetén belül a kiadások támogatására pénzeszköz-átadás jogcímcsoport szerinti támogatás átutalása
+
+- a) július–november hónapban havonta a tárgyhó 10. napjáig az éves előirányzat havi időarányos összegének kétszeresével,
+- b) december hónapban a tárgyhavi utolsó bevétel beérkezése és utolsó ellátás kifizetése után az éves előirányzat fennmaradt összegével, legfeljebb az Ny. Alap nullszaldós pénzforgalmi egyenlegéig
+
+történik.
+
+(5) Amennyiben az Ny. Alap pénzforgalmi egyenlege a tárgyévi utolsó bevételének beérkezése és az utolsó ellátás kifizetése után többletet mutat, a kincstár intézkedik a többlet összegének visszautalásáról, amely a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 35. cím, 1. alcím, 5. Kiadások támogatására pénzeszköz-átadás jogcímcsoport szerinti kiadást csökkenti.
 
 ### IV. Fejezet — A HELYI ÖNKORMÁNYZATOK ÉS A KÖZPONTI ALRENDSZER KAPCSOLATA
 
@@ -529,7 +542,7 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 - b) a Magyar Vállalkozásfejlesztési Alapítvány az Országos Mikrohitel Alapból történő pénzkölcsön nyújtása esetén,
 - c) a megyei és fővárosi vállalkozásfejlesztési alapítvány mikrohitelezési tevékenység esetén.
 
-(6) Az Alapítvány által az (1) bekezdés szerinti viszontgarancia mellett vállalt készfizető kezesség állománya 2017. december 31-én nem haladhatja meg a 160 000,0 millió forintot.
+(6) Az Alapítvány által az (1) bekezdés szerinti viszontgarancia mellett vállalt készfizető kezesség állománya 2017. december 31-én nem haladhatja meg a 190 000,0 millió forintot.
 
 (7) Az Alapítvány által az (1) bekezdés szerinti állami viszontgaranciával vállalt készfizető kezesség érvényesítése esetén – törvény eltérő rendelkezésének hiányában – az Alapítvány köteles minden szükséges jogcselekményt megtenni a reá átszálló követelés behajtására. A központi költségvetést illeti meg az Alapítvány által behajtott – a behajtási költségekkel csökkentett – összegnek az érvényesített állami viszontgarancia mértékével megegyező százalékban kifejezett arányos része.
 
@@ -638,7 +651,7 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 
 (3) A fiatalok életkezdési támogatásáról szóló 2005. évi CLXXIV. törvény 4. § (2) bekezdés a) pontja szerinti első utalási összeg 42 500 forint, a 4. § (2) bekezdés b) pontja szerinti második és harmadik utalási összeg 44 600-44 600 forint, ha a gyermek a 2017. évben született.
 
-(4) A szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2011. évi CLV. törvény 8. § (1) bekezdés b) pontjában meghatározott alapnormatíva összege a 2017. évben 453 000 forint/fő/év.
+(4) A szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2011. évi CLV. törvény 8. § (1) bekezdés b) pontjában meghatározott alapnormatíva összege 2017. január 1-jétől 2017. december 31-éig 480 000 forint/fő/év.
 
 65. § (1) A kárpótlási jegyek életjáradékra váltásáról szóló 1992. évi XXXI. törvény (a továbbiakban: Éltv.) 7. § (1) bekezdése és a termőföld állam által életjáradék fizetése ellenében történő megszerzésének ötödik üteméről szóló 259/2009. (XI. 23.) Korm. rendelet (a továbbiakban: TéR.) alapján az életjáradék összege 2017. március 1-jétől az előző évben megvalósult átlagos nyugdíjemelés százalékos mértékével emelkedik.
 
@@ -740,7 +753,7 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 
 #### 23. Átmeneti rendelkezések
 
-77. § (1) A 40. § (1) bekezdés a)–b) és e) pontja szerinti rendelkezések az egységes óvoda-bölcsőde esetén 2017. augusztus 31-éig alkalmazandóak.
+77. § (1)
 
 (2) A 7. melléklet VI. pont 15. alpontja 2017. szeptember 1-jétől alkalmazandó.
 
@@ -1027,18 +1040,19 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 |  |  | szám |  | szám | szám |  |  | név |  | név | Kiemelt előirányzat neve |  | Működési kiadás | Működési bevétel |  | Felhalmo- zási kiadás |  | Felhalmo- zási bevétel |
 |  |  |  |  |  |  | IX. HELYI ÖNKORMÁNYZATOK TÁMOGATÁSAI |  |  |  |  |  |  |  |  |  |  |  |  |
 | 1 |  |  |  |  |  | A helyi önkormányzatok általános működésének és ágazati feladatainak támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | 1 |  |  |  |  |  | A helyi önkormányzatok működésének általános támogatása |  |  |  |  |  | 148 816,9 |  |  |  |  |  |
+|  | 1 |  |  |  |  |  | A helyi önkormányzatok működésének általános támogatása |  |  |  |  |  | 151 589,9 |  |  |  |  |  |
 |  | 2 |  |  |  |  |  | A települési önkormányzatok egyes köznevelési feladatainak támogatása |  |  |  |  |  | 184 378,4 |  |  |  |  |  |
-|  | 3 |  |  |  |  |  | A települési önkormányzatok szociális, gyermekjóléti és gyermekétkeztetési feladatainak támogatása |  |  |  |  |  | 198 548,0 |  |  |  |  |  |
+|  | 3 |  |  |  |  |  | A települési önkormányzatok szociális, gyermekjóléti és gyermekétkeztetési feladatainak támogatása |  |  |  |  |  | 127 137,6 |  |  |  |  |  |
 |  | 4 |  |  |  |  |  | A települési önkormányzatok kulturális feladatainak támogatása |  |  |  |  |  | 31 247,6 |  |  |  |  |  |
+|  | 5 |  |  |  |  |  | A települési önkormányzatok gyermekétkeztetési feladatainak támogatása |  |  |  |  |  | 73 910,4 |  |  |  |  |  |
 | 2 |  |  |  |  |  | A helyi önkormányzatok kiegészítő támogatásai |  |  |  |  |  |  | 45 368,5 |  |  |  |  |  |
-| 3 |  |  |  |  |  | A helyi önkormányzatok felhalmozási célú kiegészítő támogatásai |  |  |  |  |  |  |  |  |  | 32 746,0 |  |  |
+| 3 |  |  |  |  |  | A helyi önkormányzatok felhalmozási célú kiegészítő támogatásai |  |  |  |  |  |  |  |  |  | 40 540,8 |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | IX. HELYI ÖNKORMÁNYZATOK TÁMOGATÁSAI |  |  |  |  |  |  |  |  |  |  |  |  | Kiadás |  | Bevétel |  | Egyenleg |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | Hazai működési költségvetés | 608 359,4 |  | 0,0 |  | -608 359,4 |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | Hazai felhalmozási költségvetés | 32 746,0 |  | 0,0 |  | -32 746,0 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | Hazai működési költségvetés | 613 632,4 |  |  |  | -613 632,4 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | Hazai felhalmozási költségvetés | 40 540,8 |  |  |  | -40 540,8 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  | Európai uniós fejlesztési költségvetés | 0,0 |  | 0,0 |  | 0,0 |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | IX. fejezet összesen | 641 105,4 |  | 0,0 |  | -641 105,4 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | IX. fejezet összesen | 654 173,2 |  |  |  | -654 173,2 |  |
 
 | millió forintban |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1080,6 +1094,8 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 |  | 2 |  |  |  |  |  | Célelőirányzatok |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | 1 |  |  |  |  |  | IM felügyelete alá tartozó szervezetek és szakmai programok támogatása |  |  |  |  | 460,3 |  |  |  |  |  |
 |  |  | 2 |  |  |  |  |  | A jogászképzés színvonalának emelését célzó programok támogatása |  |  |  |  | 500,0 |  |  |  |  |  |
+|  | 3 |  |  |  |  |  | Államháztartáson kívüli szervezetek támogatása |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  | A Magyar Ökumenikus Segélyszervezet támogatása |  |  |  |  | 218,0 |  |  |  |  |  |
 |  |  | 4 |  |  |  |  |  | Igazságszolgáltatási szervek részvétele a jogszabályelőkészítésben |  |  |  |  | 163,5 |  |  |  |  |  |
 |  |  | 10 |  |  |  |  |  | Igazságügyi regionális együttműködés |  |  |  |  | 25,0 |  |  |  |  |  |
 |  |  | 17 |  |  |  |  |  | A büntetőeljárásról szóló törvény alapján megállapított kártalanítás |  |  |  |  | 120,0 |  |  |  |  |  |
@@ -1092,10 +1108,10 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 |  | 26 |  |  |  |  |  | Fejezeti stabilitási tartalék |  |  |  |  |  | 89,8 |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | X. IGAZSÁGÜGYI MINISZTÉRIUM |  |  |  |  |  |  |  |  |  |  |  |  | Kiadás |  | Bevétel |  | Egyenleg |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | Hazai működési költségvetés | 15 144,8 |  | 5 750,7 |  | -9 394,1 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | Hazai működési költségvetés | 15 362,8 |  | 5 750,7 |  | -9 612,1 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  | Hazai felhalmozási költségvetés | 257,8 |  | 0,0 |  | -257,8 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  | Európai uniós fejlesztési költségvetés | 0,0 |  | 0,0 |  | 0,0 |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | X. fejezet összesen | 15 402,6 |  | 5 750,7 |  | -9 651,9 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | X. fejezet összesen | 15 620,6 |  | 5 750,7 |  | -9 869,9 |  |
 
 | millió forintban |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1164,13 +1180,13 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 |  |  |  |  |  | 6 |  |  |  |  |  | Beruházások |  |  |  |  | 20,0 |  |  |
 | 12 |  |  |  |  |  | Fővárosi, megyei kormányhivatalok és járási kormányhivatalok |  |  |  |  |  |  |  | 37 714,6 |  |  |  | 8,5 |
 |  |  |  |  | 1 |  |  |  |  |  | Működési költségvetés |  |  |  |  |  |  |  |  |
-|  |  |  |  |  | 1 |  |  |  |  |  | Személyi juttatások |  | 109 196,6 |  |  |  |  |  |
-|  |  |  |  |  | 2 |  |  |  |  |  | Munkaadókat terhelő járulékok és szociális hozzájárulási adó |  | 29 755,1 |  |  |  |  |  |
-|  |  |  |  |  | 3 |  |  |  |  |  | Dologi kiadások |  | 25 680,3 |  |  |  |  |  |
+|  |  |  |  |  | 1 |  |  |  |  |  | Személyi juttatások |  | 109 525,4 |  |  |  |  |  |
+|  |  |  |  |  | 2 |  |  |  |  |  | Munkaadókat terhelő járulékok és szociális hozzájárulási adó |  | 29 844,4 |  |  |  |  |  |
+|  |  |  |  |  | 3 |  |  |  |  |  | Dologi kiadások |  | 25 978,6 |  |  |  |  |  |
 |  |  |  |  |  | 5 |  |  |  |  |  | Egyéb működési célú kiadások |  | 992,6 |  |  |  |  |  |
 |  |  |  |  | 2 |  |  |  |  |  | Felhalmozási költségvetés |  |  |  |  |  |  |  |  |
-|  |  |  |  |  | 6 |  |  |  |  |  | Beruházások |  |  |  |  | 6 451,0 |  |  |
-|  |  |  |  |  | 7 |  |  |  |  |  | Felújítások |  |  |  |  | 2 228,5 |  |  |
+|  |  |  |  |  | 6 |  |  |  |  |  | Beruházások |  |  |  |  | 6 454,7 |  |  |
+|  |  |  |  |  | 7 |  |  |  |  |  | Felújítások |  |  |  |  | 2 231,0 |  |  |
 |  |  |  |  |  | 8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  | 8,5 |  |  |
 | 13 |  |  |  |  |  | Közigazgatási és Igazságügyi Hivatal |  |  |  |  |  |  |  | 77,5 |  |  |  |  |
 |  |  |  |  | 1 |  |  |  |  |  | Működési költségvetés |  |  |  |  |  |  |  |  |
@@ -1261,8 +1277,8 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 |  |  | 1 |  |  |  |  |  | Fejezeti stabilitási tartalék |  |  |  |  |  |  |  | 10,2 |  |  |
 |  |  |  |  |  |  | 31. cím összesen: |  |  |  |  |  |  | 987,3 | 1,4 |  | 27,5 |  | 6,5 |
 | 32 |  |  |  |  |  | Központi kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | 1 |  |  |  |  |  | Rendkívüli kormányzati intézkedések |  |  |  |  |  | 110 000,0 |  |  |  |  |  |
-|  | 2 |  |  |  |  |  | Országvédelmi Alap |  |  |  |  |  | 60 000,0 |  |  |  |  |  |
+|  | 1 |  |  |  |  |  | Rendkívüli kormányzati intézkedések |  |  |  |  |  | 140 000,0 |  |  |  |  |  |
+|  | 2 |  |  |  |  |  | Országvédelmi Alap |  |  |  |  |  | 95 881,0 |  |  |  |  |  |
 |  | 3 |  |  |  |  |  | Céltartalékok |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | 1 |  |  |  |  |  | Közszférában foglalkoztatottak bérkompenzációja |  |  |  |  | 20 000,0 |  |  |  |  |  |
 |  |  | 2 |  |  |  |  |  | Különféle kifizetések |  |  |  |  | 4 600,0 |  |  |  |  |  |
@@ -1275,10 +1291,10 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 |  |  |  | 2 |  |  |  |  |  | Az MFB Zrt. rábízott vagyonához kapcsolódó tanácsadói, értékbecslői, jogi képviseleti kiadások |  |  |  | 300,0 |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | XI. MINISZTERELNÖKSÉG |  |  |  |  |  |  |  |  |  |  |  |  | Kiadás |  | Bevétel |  | Egyenleg |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | Hazai működési költségvetés | 627 057,3 |  | 46 009,6 |  | -581 047,7 |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | Hazai felhalmozási költségvetés | 327 927,9 |  | 283,1 |  | -327 644,8 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | Hazai működési költségvetés | 693 654,7 |  | 46 009,6 |  | -647 645,1 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | Hazai felhalmozási költségvetés | 327 934,1 |  | 283,1 |  | -327 651,0 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  | Európai uniós fejlesztési költségvetés | 340,2 |  | 340,0 |  | -0,2 |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | XI. fejezet összesen | 955 325,4 |  | 46 632,7 |  | -908 692,7 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | XI. fejezet összesen | 1 021 929,0 |  | 46 632,7 |  | -975 296,3 |  |
 
 | millió forintban |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1480,8 +1496,8 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 |  | 1 |  |  |  |  |  | Honvédelmi Minisztérium igazgatása |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  | 1 |  |  |  |  |  | Működési költségvetés |  |  |  |  |  |  |  |  |
 |  |  |  |  |  | 1 |  |  |  |  |  | Személyi juttatások |  | 3 523,2 |  |  |  |  |  |
-|  |  |  |  |  | 2 |  |  |  |  |  | Munkaadókat terhelő járulékok és szociális hozzájárulási adó |  | 957,2 |  |  |  |  |  |
-|  |  |  |  |  | 3 |  |  |  |  |  | Dologi kiadások |  | 405,3 |  |  |  |  |  |
+|  |  |  |  |  | 2 |  |  |  |  |  | Munkaadókat terhelő járulékok és szociális hozzájárulási adó |  | 971,7 |  |  |  |  |  |
+|  |  |  |  |  | 3 |  |  |  |  |  | Dologi kiadások |  | 443,3 |  |  |  |  |  |
 |  |  |  |  |  | 4 |  |  |  |  |  | Ellátottak pénzbeli juttatásai |  | 21,4 |  |  |  |  |  |
 |  |  |  |  | 2 |  |  |  |  |  | Felhalmozási költségvetés |  |  |  |  |  |  |  |  |
 |  |  |  |  |  | 6 |  |  |  |  |  | Beruházások |  |  |  |  | 20,0 |  |  |
@@ -1505,7 +1521,7 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 |  |  |  |  |  | 4 |  |  |  |  |  | Ellátottak pénzbeli juttatásai |  | 127,7 |  |  |  |  |  |
 |  |  |  |  | 2 |  |  |  |  |  | Felhalmozási költségvetés |  |  |  |  |  |  |  |  |
 |  |  |  |  |  | 6 |  |  |  |  |  | Beruházások |  |  |  |  | 25 987,1 |  |  |
-|  |  |  |  |  | 7 |  |  |  |  |  | Felújítások |  |  |  |  | 6 165,7 |  |  |
+|  |  |  |  |  | 7 |  |  |  |  |  | Felújítások |  |  |  |  | 16 165,7 |  |  |
 |  |  |  |  |  | 8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  | 150,0 |  |  |
 |  | 2 |  |  |  |  |  | MH ÖHP és alárendelt szervezetei |  |  |  |  |  |  | 477,3 |  |  |  |  |
 |  |  |  |  | 1 |  |  |  |  |  | Működési költségvetés |  |  |  |  |  |  |  |  |
@@ -1543,6 +1559,8 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 |  |  | 3 |  |  |  |  |  | Honvédelem érdekében tevékenykedő civil szervezetek és érdekképviseleti szervek támogatása |  |  |  |  |  |  |  |  |  |  |
 |  |  |  | 6 |  |  |  |  |  | Honvédelem érdekében tevékenykedő civil szervezetek pályázati támogatása |  |  |  | 55,0 |  |  |  |  |  |
 |  |  |  | 19 |  |  |  |  |  | Honvédelem érdekében tevékenykedő civil szervezetek támogatása |  |  |  | 359,0 |  |  |  |  |  |
+|  |  | 4 |  |  |  |  |  | Hadisírgondozás támogatása |  |  |  |  |  |  |  |  |  |  |
+|  |  |  | 1 |  |  |  |  |  | I. világháborús hadisírok és emlékművek felújításának pályázati támogatása |  |  |  | 624,5 |  |  |  |  |  |
 |  |  | 5 |  |  |  |  |  | Nonprofit korlátolt felelősségű társaságok támogatása |  |  |  |  | 1 435,0 |  |  |  |  |  |
 |  |  | 25 |  |  |  |  |  | Hozzájárulás a NATO Biztonsági Beruházási Programjához |  |  |  |  |  |  |  | 3 160,2 |  |  |
 |  |  | 39 |  |  |  |  |  | Alapítványok, közalapítványok támogatása |  |  |  |  |  |  |  |  |  |  |
@@ -1555,10 +1573,10 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 |  | 3 |  |  |  |  |  | Fejezeti stabilitási tartalék |  |  |  |  |  | 2 661,9 |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | XIII. HONVÉDELMI MINISZTÉRIUM |  |  |  |  |  |  |  |  |  |  |  |  | Kiadás |  | Bevétel |  | Egyenleg |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | Hazai működési költségvetés | 306 295,1 |  | 31 188,6 |  | -275 106,5 |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | Hazai felhalmozási költségvetés | 47 428,2 |  | 1 759,4 |  | -45 668,8 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | Hazai működési költségvetés | 307 038,3 |  | 31 188,6 |  | -275 849,7 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | Hazai felhalmozási költségvetés | 57 428,2 |  | 1 759,4 |  | -55 668,8 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  | Európai uniós fejlesztési költségvetés | 0,0 |  | 0,0 |  | 0,0 |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | XIII. fejezet összesen | 353,723,3 |  | 32 948,0 |  | -320 775,3 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | XIII. fejezet összesen | 364 466,5 |  | 32 948,0 |  | -331 518,5 |  |
 
 | millió forintban |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1651,8 +1669,8 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 |  |  |  |  |  | 8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  | 18,0 |  |  |
 | 13 |  |  |  |  |  | Bevándorlási és Állampolgársági Hivatal |  |  |  |  |  |  |  | 104,4 |  |  |  |  |
 |  |  |  |  | 1 |  |  |  |  |  | Működési költségvetés |  |  |  |  |  |  |  |  |
-|  |  |  |  |  | 1 |  |  |  |  |  | Személyi juttatások |  | 3 636,1 |  |  |  |  |  |
-|  |  |  |  |  | 2 |  |  |  |  |  | Munkaadókat terhelő járulékok és szociális hozzájárulási adó |  | 968,9 |  |  |  |  |  |
+|  |  |  |  |  | 1 |  |  |  |  |  | Személyi juttatások |  | 3 905,1 |  |  |  |  |  |
+|  |  |  |  |  | 2 |  |  |  |  |  | Munkaadókat terhelő járulékok és szociális hozzájárulási adó |  | 1 027,9 |  |  |  |  |  |
 |  |  |  |  |  | 3 |  |  |  |  |  | Dologi kiadások |  | 3 459,7 |  |  |  |  |  |
 |  |  |  |  |  | 4 |  |  |  |  |  | Ellátottak pénzbeli juttatásai |  | 110,1 |  |  |  |  |  |
 |  |  |  |  |  | 5 |  |  |  |  |  | Egyéb működési célú kiadások |  | 568,8 |  |  |  |  |  |
@@ -1686,7 +1704,7 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 |  | 1 |  |  |  |  |  | Ágazati célfeladatok |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | 2 |  |  |  |  |  | Energia-racionalizálás |  |  |  |  |  |  |  | 100,3 |  | 100,3 |
 |  |  | 50 |  |  |  |  |  | Víz-, környezeti és természeti katasztrófa kárelhárítás |  |  |  |  | 260,0 |  |  |  |  |  |
-|  |  | 56 |  |  |  |  |  | Kormányzati infokommunikációs szolgáltatások |  |  |  |  | 27 437,1 |  |  |  |  |  |
+|  |  | 56 |  |  |  |  |  | Kormányzati infokommunikációs szolgáltatások |  |  |  |  | 28 267,0 |  |  |  |  |  |
 |  |  | 57 |  |  |  |  |  | Regionális víziközmű rendszerek állami kötelezettségei és a pályázati fejlesztéséhez szükséges önerő |  |  |  |  |  |  |  | 7,5 |  |  |
 |  |  | 58 |  |  |  |  |  | Balatoni regionális víziközmű-hálózat fejlesztése |  |  |  |  |  |  |  | 7,5 |  |  |
 |  |  | 59 |  |  |  |  |  | Ivóvízbázis-védelmi Program végrehajtása |  |  |  |  |  |  |  | 20,5 |  |  |
@@ -1722,10 +1740,10 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 |  |  | 1 |  |  |  |  |  | Magyar Gáz Tranzit Zrt. tőkeemelése |  |  |  |  | 2 000,0 |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | XIV. BELÜGYMINISZTÉRIUM |  |  |  |  |  |  |  |  |  |  |  |  | Kiadás |  | Bevétel |  | Egyenleg |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | Hazai működési költségvetés | 636 926,2 |  | 24 929,3 |  | -611 996,9 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | Hazai működési költségvetés | 638 084,1 |  | 24 929,3 |  | -613 154,8 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  | Hazai felhalmozási költségvetés | 50 218,9 |  | 143,3 |  | -50 075,6 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  | Európai uniós fejlesztési költségvetés | 6 821,1 |  | 1 859,1 |  | -4 962,0 |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | XIV. fejezet összesen | 693 966,2 |  | 26 931,7 |  | -667 034,5 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | XIV. fejezet összesen | 695 124,1 |  | 26 931,7 |  | -668 192,4 |  |
 
 | millió forintban |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1757,13 +1775,13 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 |  |  |  |  |  | 3 |  |  |  |  |  | Dologi kiadások |  | 59,9 |  |  |  |  |  |
 | 5 |  |  |  |  |  | Közbeszerzési és Ellátási Főigazgatóság |  |  |  |  |  |  |  | 8 843,3 |  |  |  | 167,4 |
 |  |  |  |  | 1 |  |  |  |  |  | Működési költségvetés |  |  |  |  |  |  |  |  |
-|  |  |  |  |  | 1 |  |  |  |  |  | Személyi juttatások |  | 2 708,3 |  |  |  |  |  |
-|  |  |  |  |  | 2 |  |  |  |  |  | Munkaadókat terhelő járulékok és szociális hozzájárulási adó |  | 773,1 |  |  |  |  |  |
-|  |  |  |  |  | 3 |  |  |  |  |  | Dologi kiadások |  | 15 197,7 |  |  |  |  |  |
+|  |  |  |  |  | 1 |  |  |  |  |  | Személyi juttatások |  | 2 784,1 |  |  |  |  |  |
+|  |  |  |  |  | 2 |  |  |  |  |  | Munkaadókat terhelő járulékok és szociális hozzájárulási adó |  | 794,8 |  |  |  |  |  |
+|  |  |  |  |  | 3 |  |  |  |  |  | Dologi kiadások |  | 16 369,8 |  |  |  |  |  |
 |  |  |  |  |  | 5 |  |  |  |  |  | Egyéb működési célú kiadások |  | 5,0 |  |  |  |  |  |
 |  |  |  |  | 2 |  |  |  |  |  | Felhalmozási költségvetés |  |  |  |  |  |  |  |  |
-|  |  |  |  |  | 6 |  |  |  |  |  | Beruházások |  |  |  |  | 692,9 |  |  |
-|  |  |  |  |  | 7 |  |  |  |  |  | Felújítások |  |  |  |  | 1 430,0 |  |  |
+|  |  |  |  |  | 6 |  |  |  |  |  | Beruházások |  |  |  |  | 1 027,5 |  |  |
+|  |  |  |  |  | 7 |  |  |  |  |  | Felújítások |  |  |  |  | 1 477,5 |  |  |
 | 6 |  |  |  |  |  | Nemzeti Szakképzési és Felnőttképzési Hivatal |  |  |  |  |  |  |  | 586,4 |  |  |  |  |
 |  |  |  |  | 1 |  |  |  |  |  | Működési költségvetés |  |  |  |  |  |  |  |  |
 |  |  |  |  |  | 1 |  |  |  |  |  | Személyi juttatások |  | 944,7 |  |  |  |  |  |
@@ -1819,6 +1837,9 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 |  |  | 8 |  |  |  |  |  | Irinyi Terv iparstratégiai támogatásai |  |  |  |  |  |  |  | 3 000,0 |  |  |
 |  |  | 9 |  |  |  |  |  | Jedlik Terv |  |  |  |  |  |  |  | 3 000,0 |  |  |
 |  |  | 10 |  |  |  |  |  | Intézményi kezességi díjtámogatások |  |  |  |  | 1 403,6 |  |  |  |  |  |
+|  |  | 11 |  |  |  |  |  | Irinyi terv végrehajtása |  |  |  |  |  |  |  |  |  |  |
+|  |  |  | 2 |  |  |  |  | Beszállítói-fejlesztési Program |  |  |  |  | 6 000,0 |  |  |  |  |  |
+|  |  |  | 3 |  |  |  |  | Kötöttpályás járműgyártás fejlesztése |  |  |  |  |  |  |  | 1 000,0 |  |  |
 |  | 7 |  |  |  |  |  | Egyéb fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | 1 |  |  |  |  |  | Magán és egyéb jogi személyek kártérítése |  |  |  |  | 30,0 |  |  |  |  |  |
 |  |  | 2 |  |  |  |  |  | Nemzetközi tagdíjak, nemzetközi kapcsolattal összefüggő feladatok |  |  |  |  | 581,0 |  |  |  |  |  |
@@ -1829,6 +1850,7 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 |  |  | 1 |  |  |  |  |  | Országos Foglalkoztatási Közhasznú Nonprofit Kft. támogatása |  |  |  |  | 242,3 |  |  | 30,0 |  |  |
 |  |  | 2 |  |  |  |  |  | Munkaügyi alternatív vitarendezési eljárások támogatása |  |  |  |  | 25,0 |  |  |  |  |  |
 |  |  | 3 |  |  |  |  |  | Szakképzési Centrumok által ellátott felnőtt oktatási tevékenység finanszírozása |  |  |  |  | 6 000,0 |  |  |  |  |  |
+|  |  | 16 |  |  |  |  |  | Váci Fejlesztő Központ létrehozása és működtetése |  |  |  |  |  |  |  | 1 153,1 |  |  |
 |  | 10 |  |  |  |  |  | Fejezeti stabilitási tartalék |  |  |  |  |  | 641,5 |  |  |  |  |  |
 |  | 20 |  |  |  |  |  | Európai uniós fejlesztési programok |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | 2 |  |  |  |  |  | Európai Területi Együttműködés (2014-2020) |  |  |  |  |  |  |  |  |  |  |
@@ -1844,10 +1866,10 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 |  |  | 2 |  |  |  |  |  | Szerencsejáték koncessziós díj |  |  |  |  |  | 4 384,0 |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | XV. NEMZETGAZDASÁGI MINISZTÉRIUM |  |  |  |  |  |  |  |  |  |  |  |  | Kiadás |  | Bevétel |  | Egyenleg |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | Hazai működési költségvetés | 222 901,4 |  | 39 947,4 |  | -182 954,0 |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | Hazai felhalmozási költségvetés | 48 700,0 |  | 30 175,1 |  | -18 524,9 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | Hazai működési költségvetés | 230 171,0 |  | 39 947,4 |  | -190 223,6 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | Hazai felhalmozási költségvetés | 51 235,2 |  | 30 175,1 |  | -21 060,1 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  | Európai uniós fejlesztési költségvetés | 3 799,0 |  | 534,0 |  | -3 265,0 |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | XV. fejezet összesen | 275 400,4 |  | 70 656,5 |  | -204 743,9 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | XV. fejezet összesen | 285 205,2 |  | 70 656,5 |  | -214 548,7 |  |
 
 | millió forintban |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1981,7 +2003,7 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 |  |  | 13 |  |  |  |  |  | Zajtérképezés EU tagállami feladatai |  |  |  |  | 49,1 |  |  |  |  |  |
 |  |  | 28 |  |  |  |  |  | Kiemelt közúti projektek |  |  |  |  | 980,0 |  |  | 279 020,0 |  |  |
 |  |  | 29 |  |  |  |  |  | Légiszállítási szolgáltatások |  |  |  |  | 1 000,0 |  |  |  |  |  |
-|  |  | 30 |  |  |  |  |  | Közúthálózat felújítása |  |  |  |  | 35,0 |  |  | 9 965,0 |  |  |
+|  |  | 30 |  |  |  |  |  | Közúthálózat felújítása |  |  |  |  | 35,0 |  |  | 59 965,0 |  |  |
 |  |  | 32 |  |  |  |  |  | Tengelysúlymérő-rendszer és kapcsolódó beruházások |  |  |  |  | 52,5 |  |  | 14 947,5 |  |  |
 |  |  | 33 |  |  |  |  |  | Budapest-Belgrád vasútvonal magyarországi szakaszának felújítása |  |  |  |  | 35,0 |  |  | 9 965,0 |  |  |
 |  |  | 34 |  |  |  |  |  | Határ menti közúti fejlesztések előkészítése |  |  |  |  | 3,5 |  |  | 996,5 |  |  |
@@ -2069,6 +2091,7 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 |  | 52 |  |  |  |  |  | Téry Ödön Nemzeti Turistaház-fejlesztési Program |  |  |  |  |  |  |  |  | 1 000,0 |  |  |
 |  | 60 |  |  |  |  |  | Európai uniós fejlesztési programok |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | 1 |  |  |  |  |  | Európai Hálózatfinanszírozási Eszköz (CEF) projektek |  |  |  |  | 291,3 |  |  | 94 249,9 |  | 8 985,6 |
+|  | 61 |  |  |  |  |  | Beruházás Előkészítési Alap |  |  |  |  |  |  |  |  | 26 600,0 |  |  |
 | 21 |  |  |  |  |  | Központi kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | 1 |  |  |  |  |  | Vállalkozások folyó támogatása |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | 1 |  |  |  |  |  | Egyedi támogatások, ellentételezések |  |  |  |  |  |  |  |  |  |  |
@@ -2089,10 +2112,10 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 |  |  | 4 |  |  |  |  |  | Tőkeemelések |  |  |  |  |  |  |  | 9 000,0 |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | XVII. NEMZETI FEJLESZTÉSI MINISZTÉRIUM |  |  |  |  |  |  |  |  |  |  |  |  | Kiadás |  | Bevétel |  | Egyenleg |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | Hazai működési költségvetés | 644 924,2 |  | 56 153,9 |  | -588 770,3 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | Hazai működési költségvetés | 549 563,0 |  | 35,0 |  | -549 528,0 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  | Hazai felhalmozási költségvetés | 472 963,0 |  | 35,0 |  | -472 928,0 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  | Európai uniós fejlesztési költségvetés | 94 541,2 |  | 8 985,6 |  | -85 555,6 |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | XVII. fejezet összesen | 1 212 428,4 |  | 65 174,5 |  | -1 147 253,9 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | XVII. fejezet összesen | 1 289 028,4 |  | 65 174,5 |  | -1 223 853,9 |  |
 
 | millió forintban |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -2361,7 +2384,7 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 |  |  |  |  |  | 4 |  |  |  |  |  | Ellátottak pénzbeli juttatásai |  | 56,4 |  |  |  |  |  |
 |  |  |  |  |  | 5 |  |  |  |  |  | Egyéb működési célú kiadások |  | 273,2 |  |  |  |  |  |
 |  |  |  |  | 2 |  |  |  |  |  | Felhalmozási költségvetés |  |  |  |  |  |  |  |  |
-|  |  |  |  |  | 6 |  |  |  |  |  | Beruházások |  |  |  |  | 5 601,2 |  |  |
+|  |  |  |  |  | 6 |  |  |  |  |  | Beruházások |  |  |  |  | 6 025,4 |  |  |
 |  |  |  |  |  | 7 |  |  |  |  |  | Felújítások |  |  |  |  | 1 369,1 |  |  |
 |  |  |  |  |  | 8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  | 38,9 |  |  |
 | 11 |  |  |  |  |  | Közgyűjtemények |  |  |  |  |  |  |  | 3 235,8 |  |  |  | 5,0 |
@@ -2450,9 +2473,9 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 |  |  | 3 |  |  |  |  |  | Az 1956-os forradalom és szabadságharc emlékéve programjainak támogatása |  |  |  |  | 520,0 |  |  |  |  |  |
 |  |  | 4 |  |  |  |  |  | Peres ügyek |  |  |  |  | 1 600,0 |  |  |  |  |  |
 |  |  | 18 |  |  |  |  |  | Határon túli oktatási és kulturális feladatok támogatása |  |  |  |  |  |  |  |  |  |  |
-|  |  |  | 1 |  |  |  |  |  | Határon túli felsőoktatási feladatok támogatása |  |  |  | 801,4 |  |  |  |  |  |
+|  |  |  | 1 |  |  |  |  |  | Határon túli felsőoktatási feladatok támogatása |  |  |  | 801,4 |  |  | 1 085,0 |  |  |
 |  |  |  | 2 |  |  |  |  |  | Határon túli kulturális feladatok támogatása |  |  |  | 97,5 |  |  |  |  |  |
-|  |  |  | 3 |  |  |  |  |  | Határtalanul! program támogatása |  |  |  | 1 989,0 |  |  | 11,0 |  |  |
+|  |  |  | 3 |  |  |  |  |  | Határtalanul! program támogatása |  |  |  | 2 630,2 |  |  | 11,0 |  |  |
 |  |  |  | 4 |  |  |  |  |  | Határon túli köznevelési feladatok támogatása |  |  |  | 231,6 |  |  | 5,0 |  |  |
 |  |  | 19 |  |  |  |  |  | Szociális ágazati fejlesztések, szolgáltatások és programok támogatása |  |  |  |  | 34,8 |  |  |  |  |  |
 |  | 8 |  |  |  |  |  | Nemzetközi kulturális és oktatási kapcsolatok programjai |  |  |  |  |  |  |  |  |  |  |  |
@@ -2477,6 +2500,7 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 |  |  |  | 1 |  |  |  |  |  | Közgyűjteményi szakmai feladatok - közgyűjtemények nemzeti értékmentő programja |  |  |  | 109,0 |  |  | 28,1 |  |  |
 |  |  |  | 2 |  |  |  |  |  | Közművelődési szakmai feladatok |  |  |  | 297,8 |  |  | 2,0 |  |  |
 |  |  |  | 3 |  |  |  |  |  | Kulturális szakemberek továbbképzése |  |  |  | 120,0 |  |  |  |  |  |
+|  |  |  | 4 |  |  |  |  |  | Csoóri Sándor Alap |  |  |  | 2 500,0 |  |  |  |  |  |
 |  | 13 |  |  |  |  |  | Művészeti tevékenységek |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | 4 |  |  |  |  |  | Művészeti tevékenységek és egyéb fejezeti feladatok támogatása |  |  |  |  | 1 636,0 |  |  | 12,4 |  |  |
 |  |  | 5 |  |  |  |  |  | Előadóművészeti törvény végrehajtásából adódó feladatok (működési és művészeti pályázatok) |  |  |  |  | 1 441,3 |  |  |  |  |  |
@@ -2522,11 +2546,12 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 |  |  | 6 |  |  |  |  |  | Nem központi fenntartású Egészségfejlesztési Irodák támogatása |  |  |  |  | 957,6 |  |  |  |  |  |
 |  |  | 7 |  |  |  |  |  | A kollegiális vezetői rendszer működtetése |  |  |  |  | 500,0 |  |  |  |  |  |
 |  |  | 8 |  |  |  |  |  | A betegbiztonság növelésével és a struktúra átalakításával kapcsolatos támogatások |  |  |  |  | 2 000,0 |  |  |  |  |  |
+|  |  | 12 |  |  |  |  |  | MRE Bethesda Gyermekkórháza és a Budai Irgalmasrendi Kórház közös fejlesztése |  |  |  |  |  |  |  | 2 700,0 |  |  |
 |  |  | 13 |  |  |  |  |  | Kisforgalmú gyógyszertárak működtetési támogatása |  |  |  |  | 700,0 |  |  |  |  |  |
 |  |  | 19 |  |  |  |  |  | Patika hitelprogram kamattámogatása |  |  |  |  | 370,0 |  |  |  |  |  |
 |  |  | 20 |  |  |  |  |  | Egészségügyi szakképzési (rezidens) rendszer működésének támogatása |  |  |  |  | 6 999,0 |  |  |  |  |  |
 |  |  | 24 |  |  |  |  |  | Egészségügyi intézmények rendkívüli támogatása |  |  |  |  | 5 510,2 | 5 510,2 |  | 1 000,0 |  |  |
-|  |  | 25 |  |  |  |  |  | Új budapesti kórház előkészítése |  |  |  |  | 500,0 |  |  | 3 500,0 |  |  |
+|  |  | 25 |  |  |  |  |  | Egészséges Budapest Program |  |  |  |  | 500,0 |  |  | 3 500,0 |  |  |
 |  |  | 26 |  |  |  |  |  | Egyházi fenntartású egészségügyi intézmények kiegészítő támogatása |  |  |  |  | 300,0 |  |  |  |  |  |
 |  |  | 27 |  |  |  |  |  | A Betegápoló Irgalmasrend projektjeinek finanszírozása |  |  |  |  |  |  |  | 8 120,0 |  |  |
 |  | 23 |  |  |  |  |  | Sporttevékenység támogatása |  |  |  |  |  |  |  |  |  |  |  |
@@ -2637,8 +2662,8 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 |  |  |  | 1 |  |  |  |  |  | Az 5000 lakosnál kisebb településeken szolgálatot teljesítő egyházi személyek jövedelempótléka - Bevett egyházak |  |  |  | 2 600,0 |  |  |  |  |  |
 |  |  |  | 4 |  |  |  |  |  | Külhonban szolgálatot teljesítő egyházi személyek jövedelempótléka - Határon túli egyház és annak belső egyházi jogi személye |  |  |  | 420,0 |  |  |  |  |  |
 |  |  | 7 |  |  |  |  |  | Egyházi épített örökség védelme és egyéb beruházások |  |  |  |  |  |  |  | 1 450,0 |  |  |
-|  |  | 9 |  |  |  |  |  | Egyházi közösségi célú programok és beruházások támogatása |  |  |  |  | 300,0 |  |  | 5 410,0 |  |  |
-|  |  | 10 |  |  |  |  |  | Lakitelek Népfőiskola beruházásával összefüggő feladatok |  |  |  |  |  |  |  | 5 900,0 |  |  |
+|  |  | 9 |  |  |  |  |  | Egyházi közösségi célú programok és beruházások támogatása |  |  |  |  | 300,0 |  |  | 7 516,7 |  |  |
+|  |  | 10 |  |  |  |  |  | Lakitelek Népfőiskola beruházásával összefüggő feladatok |  |  |  |  |  |  |  | 10 883,5 |  |  |
 |  |  | 12 |  |  |  |  |  | Vallási tevékenységet végző szervezetek támogatása |  |  |  |  | 81,2 |  |  | 40,0 |  |  |
 |  |  | 13 |  |  |  |  |  | Határon túli egyházi intézmények fejlesztésének támogatása |  |  |  |  |  |  |  | 300,0 |  |  |
 |  |  | 14 |  |  |  |  |  | Egyházak hitéleti támogatásának kiegészítése |  |  |  |  | 1 720,0 |  |  |  |  |  |
@@ -2700,10 +2725,10 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 |  |  |  | 3 |  |  |  |  |  | Az Állami Egészségügyi Ellátó Központ rábízott vagyonába tartozó társaságokhoz kapcsolódó egyéb kiadások |  |  |  | 1,0 |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | XX. EMBERI ERŐFORRÁSOK MINISZTÉRIUMA |  |  |  |  |  |  |  |  |  |  |  |  | Kiadás |  | Bevétel |  | Egyenleg |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | Hazai működési költségvetés | 3 040 185,2 |  | 929 821,1 |  | -2 110 364,1 |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | Hazai felhalmozási költségvetés | 195 837,9 |  | 33 986,1 |  | -161 851,8 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | Hazai működési költségvetés | 3 043 326,4 |  | 929 821,1 |  | -2 113 505,3 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | Hazai felhalmozási költségvetés | 207 637,3 |  | 33 986,1 |  | -173 651,2 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  | Európai uniós fejlesztési költségvetés | 0,0 |  | 0,0 |  | 0,0 |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | XX. fejezet összesen | 3 236 023,1 |  | 963 807,2 |  | -2 272 215,9 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | XX. fejezet összesen | 3 250 963,7 |  | 963 807,2 |  | -2 287 156,5 |  |
 
 | millió forintban |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -2727,17 +2752,17 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 | 20 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | 1 |  |  |  |  |  | Célelőirányzatok |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | 1 |  |  |  |  |  | Kormányfői protokoll |  |  |  |  | 500,0 |  |  |  |  |  |
-|  |  | 2 |  |  |  |  |  | Kormányzati kommunikációval és konzultációval kapcsolatos feladatok |  |  |  |  | 15 590,0 |  |  |  |  |  |
+|  |  | 2 |  |  |  |  |  | Kormányzati kommunikációval és konzultációval kapcsolatos feladatok |  |  |  |  | 20 590,0 |  |  |  |  |  |
 |  |  | 4 |  |  |  |  |  | A Magyar Foundation of North America támogatása |  |  |  |  | 612,4 |  |  |  |  |  |
 |  |  | 5 |  |  |  |  |  | Batthyány Lajos Alapítvány működéséhez és feladatainak ellátásához szükséges hozzájárulás |  |  |  |  | 200,0 |  |  |  |  |  |
 |  |  | 6 |  |  |  |  |  | Fejezeti általános tartalék |  |  |  |  | 58,1 |  |  |  |  |  |
 |  |  | 9 |  |  |  |  |  | Tudatos nemzeti közjogi gondolkodás és a magyar kulturális értékek megőrzése és fejlesztése |  |  |  |  | 300,0 |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | XXI. MINISZTERELNÖKI KABINETIRODA |  |  |  |  |  |  |  |  |  |  |  |  | Kiadás |  | Bevétel |  | Egyenleg |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | Hazai működési költségvetés | 21 741,1 |  | 0,0 |  | -21 741,1 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | Hazai működési költségvetés | 26 741,1 |  |  |  | -26 741,1 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  | Hazai felhalmozási költségvetés | 266,0 |  | 0,0 |  | -266,0 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  | Európai uniós fejlesztési költségvetés | 0,0 |  | 0,0 |  | 0,0 |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | XXI. fejezet összesen | 22 007,1 |  | 0,0 |  | -22 007,1 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | XXI. fejezet összesen | 27 007,1 |  |  |  | -27 007,1 |  |
 
 | millió forintban |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -2969,7 +2994,7 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 |  |  | 1 |  |  |  |  |  | Nemzetközi pénzügyi szervezetektől felvett devizahitelek kamata |  |  |  |  | 27 734,8 |  |  |  |  |  |
 |  | 2 |  |  |  |  |  | Államkötvények kamatelszámolása |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | 1 |  |  |  |  |  | Piaci értékesítésű államkötvények kamatelszámolása |  |  |  |  |  |  |  |  |  |  |
-|  |  |  | 1 |  |  |  |  |  | Hiányt finanszírozó és adósságmegújító államkötvények kamatelszámolásai |  |  |  | 547 330,3 | 29 894,6 |  |  |  |  |
+|  |  |  | 1 |  |  |  |  |  | Hiányt finanszírozó és adósságmegújító államkötvények kamatelszámolásai |  |  |  | 495 601,4 | 29 894,6 |  |  |  |  |
 |  |  |  | 2 |  |  |  |  |  | Lakossági kötvények |  |  |  | 68 867,5 | 6 876,4 |  |  |  |  |
 |  |  | 2 |  |  |  |  |  | Nem piaci értékesítésű államkötvények kamatelszámolása |  |  |  |  | 434,9 |  |  |  |  |  |
 |  | 3 |  |  |  |  |  | Kincstárjegyek kamatelszámolásai |  |  |  |  |  |  |  |  |  |  |  |
@@ -2985,10 +3010,10 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 |  | 3 |  |  |  |  |  | Adósságkezelés költségei |  |  |  |  |  | 1 155,9 |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | XLI. ADÓSSÁGSZOLGÁLATTAL KAPCSOLATOS BEVÉTELEK ÉS KIADÁSOK |  |  |  |  |  |  |  |  |  |  |  |  | Kiadás |  | Bevétel |  | Egyenleg |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | Hazai működési költségvetés | 999 659,8 |  | 42 767,5 |  | -956 892,3 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | Hazai működési költségvetés | -903 147,9 |  | 42 767,5 |  | -956 892,3 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  | Hazai felhalmozási költségvetés | 0,0 |  | 0,0 |  | 0,0 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  | Európai uniós fejlesztési költségvetés | 0,0 |  | 0,0 |  | 0,0 |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | XLI. fejezet összesen | 999 659,8 |  | 42 767,5 |  | -956 892,3 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | XLI. fejezet összesen | 945 915,4 |  | 42 767,5 |  | -903 147,9 |  |
 
 | millió forintban |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -2996,33 +3021,33 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 |  |  | szám |  | szám | szám |  |  | név |  | név | Kiemelt előirányzat neve |  | Működési kiadás | Működési bevétel |  | Felhalmo- zási kiadás |  | Felhalmo- zási bevétel |
 |  |  |  |  |  |  | XLII. A KÖLTSÉGVETÉS KÖZVETLEN BEVÉTELEI ÉS KIADÁSAI |  |  |  |  |  |  |  |  |  |  |  |  |
 | 1 |  |  |  |  |  | Vállalkozások költségvetési befizetései |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | 1 |  |  |  |  |  | Társasági adó |  |  |  |  |  |  | 734 700,0 |  |  |  |  |
+|  | 1 |  |  |  |  |  | Társasági adó |  |  |  |  |  |  | 606 918,2 |  |  |  |  |
 |  | 4 |  |  |  |  |  | Pénzügyi szervezetek különadója |  |  |  |  |  |  | 66 500,0 |  |  |  |  |
-|  | 5 |  |  |  |  |  | Cégautóadó |  |  |  |  |  |  | 27 600,0 |  |  |  |  |
-|  | 6 |  |  |  |  |  | Egyszerűsített vállalkozói adó |  |  |  |  |  |  | 80 600,0 |  |  |  |  |
-|  | 7 |  |  |  |  |  | Bányajáradék |  |  |  |  |  |  | 30 000,0 |  |  |  |  |
+|  | 5 |  |  |  |  |  | Cégautóadó |  |  |  |  |  |  | 33 600,0 |  |  |  |  |
+|  | 6 |  |  |  |  |  | Egyszerűsített vállalkozói adó |  |  |  |  |  |  | 75 600,0 |  |  |  |  |
+|  | 7 |  |  |  |  |  | Bányajáradék |  |  |  |  |  |  | 35 000,0 |  |  |  |  |
 |  | 8 |  |  |  |  |  | Játékadó |  |  |  |  |  |  | 30 800,0 |  |  |  |  |
 |  | 9 |  |  |  |  |  | Ökoadó |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | 1 |  |  |  |  |  | Energiaadó |  |  |  |  |  | 18 600,0 |  |  |  |  |
 |  |  | 2 |  |  |  |  |  | Környezetterhelési díj |  |  |  |  |  | 5 300,0 |  |  |  |  |
 |  | 10 |  |  |  |  |  | Egyéb befizetések |  |  |  |  |  |  | 24 000,0 |  |  |  |  |
 |  | 11 |  |  |  |  |  | Energiaellátók jövedelemadója |  |  |  |  |  |  | 55 500,0 |  |  |  |  |
-|  | 12 |  |  |  |  |  | Rehabilitációs hozzájárulás |  |  |  |  |  |  | 66 500,0 |  |  |  |  |
-|  | 14 |  |  |  |  |  | Kisadózók tételes adója |  |  |  |  |  |  | 75 500,0 |  |  |  |  |
-|  | 15 |  |  |  |  |  | Kisvállalati adó |  |  |  |  |  |  | 13 500,0 |  |  |  |  |
-|  | 16 |  |  |  |  |  | Közműadó |  |  |  |  |  |  | 52 200,0 |  |  |  |  |
+|  | 12 |  |  |  |  |  | Rehabilitációs hozzájárulás |  |  |  |  |  |  | 80 000,0 |  |  |  |  |
+|  | 14 |  |  |  |  |  | Kisadózók tételes adója |  |  |  |  |  |  | 94 500,0 |  |  |  |  |
+|  | 15 |  |  |  |  |  | Kisvállalati adó |  |  |  |  |  |  | 23 500,0 |  |  |  |  |
+|  | 16 |  |  |  |  |  | Közműadó |  |  |  |  |  |  | 55 200,0 |  |  |  |  |
 |  | 18 |  |  |  |  |  | Reklámadó |  |  |  |  |  |  | 11 700,0 |  |  |  |  |
 | 2 |  |  |  |  |  | Fogyasztáshoz kapcsolt adók |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | 1 |  |  |  |  |  | Általános forgalmi adó |  |  |  |  |  |  | 2 475 160,5 |  |  |  | 1 066 845,6 |
-|  | 2 |  |  |  |  |  | Jövedéki adó |  |  |  |  |  |  | 1 034 500,0 |  |  |  |  |
-|  | 3 |  |  |  |  |  | Regisztrációs adó |  |  |  |  |  |  | 23 200,0 |  |  |  |  |
+|  | 1 |  |  |  |  |  | Általános forgalmi adó |  |  |  |  |  |  | 2 528 824,9 |  |  |  | 1 013 181,2 |
+|  | 2 |  |  |  |  |  | Jövedéki adó |  |  |  |  |  |  | 1 068 500,0 |  |  |  |  |
+|  | 3 |  |  |  |  |  | Regisztrációs adó |  |  |  |  |  |  | 24 400,0 |  |  |  |  |
 |  | 4 |  |  |  |  |  | Távközlési adó |  |  |  |  |  |  | 54 400,0 |  |  |  |  |
 |  | 5 |  |  |  |  |  | Pénzügyi tranzakciós illeték |  |  |  |  |  |  | 205 700,0 |  |  |  |  |
-|  | 6 |  |  |  |  |  | Biztosítási adó |  |  |  |  |  |  | 31 500,0 |  |  |  |  |
+|  | 6 |  |  |  |  |  | Biztosítási adó |  |  |  |  |  |  | 34 200,0 |  |  |  |  |
 | 3 |  |  |  |  |  | Lakosság költségvetési befizetései |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | 1 |  |  |  |  |  | Személyi jövedelemadó |  |  |  |  |  |  | 1 792 500,0 |  |  |  |  |
+|  | 1 |  |  |  |  |  | Személyi jövedelemadó |  |  |  |  |  |  | 1 908 500,0 |  |  |  |  |
 |  | 2 |  |  |  |  |  | Egyéb lakossági adók |  |  |  |  |  |  | 8 000,0 |  |  |  |  |
-|  | 4 |  |  |  |  |  | Lakossági illetékek |  |  |  |  |  |  | 155 200,0 |  |  |  |  |
+|  | 4 |  |  |  |  |  | Lakossági illetékek |  |  |  |  |  |  | 178 200,0 |  |  |  |  |
 |  | 5 |  |  |  |  |  | Gépjárműadó |  |  |  |  |  |  | 43 500,0 |  |  |  |  |
 |  | 6 |  |  |  |  |  | Magánszemélyek jogviszony megszűnéséhez kapcsolódó egyes jövedelmeinek különadója |  |  |  |  |  |  | 900,0 |  |  |  |  |
 | 4 |  |  |  |  |  | Egyéb költségvetési bevételek |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -3031,22 +3056,22 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 |  |  | 9 |  |  |  |  |  | Kezesség-visszatérülés |  |  |  |  |  | 3 503,0 |  |  |  |  |
 |  |  | 10 |  |  |  |  |  | Ár- és belvízvédelmi rendszeres fizetés |  |  |  |  |  | 3,6 |  |  |  |  |
 |  | 2 |  |  |  |  |  | Központosított bevételek |  |  |  |  |  |  |  |  |  |  |  |
-|  |  | 1 |  |  |  |  |  | Bírságbevételek |  |  |  |  |  | 24 021,3 |  |  |  |  |
-|  |  | 2 |  |  |  |  |  | Termékdíjak |  |  |  |  |  | 69 000,0 |  |  |  |  |
-|  |  | 3 |  |  |  |  |  | Egyéb központosított bevételek |  |  |  |  |  | 15 510,5 |  |  |  |  |
-|  |  | 4 |  |  |  |  |  | Megtett úttal arányos útdíj |  |  |  |  |  | 154 500,0 |  |  |  |  |
+|  |  | 1 |  |  |  |  |  | Bírságbevételek |  |  |  |  |  | 26 121,3 |  |  |  |  |
+|  |  | 2 |  |  |  |  |  | Termékdíjak |  |  |  |  |  | 73 500,0 |  |  |  |  |
+|  |  | 3 |  |  |  |  |  | Egyéb központosított bevételek |  |  |  |  |  | 18 110,5 |  |  |  |  |
+|  |  | 4 |  |  |  |  |  | Megtett úttal arányos útdíj |  |  |  |  |  | 169 900,0 |  |  |  |  |
 |  |  | 5 |  |  |  |  |  | Hulladéklerakási járulékból származó bevétel |  |  |  |  |  | 13 400,0 |  |  |  |  |
-|  |  | 6 |  |  |  |  |  | Időalapú útdíj (HD) |  |  |  |  |  | 53 000,0 |  |  |  |  |
+|  |  | 6 |  |  |  |  |  | Időalapú útdíj (HD) |  |  |  |  |  | 59 900,0 |  |  |  |  |
 | 5 |  |  |  |  |  | Költségvetési befizetések |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | 1 |  |  |  |  |  | Központi költségvetési szervek |  |  |  |  |  |  | 57 339,9 |  |  |  |  |
+|  | 1 |  |  |  |  |  | Központi költségvetési szervek |  |  |  |  |  |  | 60 687,4 |  |  |  |  |
 |  | 3 |  |  |  |  |  | Köznevelési intézmények működtetésével kapcsolatos önkormányzati befizetések |  |  |  |  |  |  | 300,0 |  |  |  |  |
 |  | 4 |  |  |  |  |  | Nemzeti Kutatási, Fejlesztési és Innovációs Alap befizetése |  |  |  |  |  |  | 17 000,0 |  |  |  |  |
-|  | 5 |  |  |  |  |  | Önkormányzati szolidaritási hozzájárulás |  |  |  |  |  |  | 21 321,2 |  |  |  |  |
+|  | 5 |  |  |  |  |  | Önkormányzati szolidaritási hozzájárulás |  |  |  |  |  |  | 26 566,0 |  |  |  |  |
 | 7 |  |  |  |  |  | Egyéb uniós bevételek |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | 2 |  |  |  |  |  | Vámbeszedési költség megtérítése |  |  |  |  |  |  | 11 800,0 |  |  |  |  |
 |  | 3 |  |  |  |  |  | Cukorágazati hozzájárulás beszedési költség megtérítése |  |  |  |  |  |  | 171,8 |  |  |  |  |
 |  | 4 |  |  |  |  |  | Uniós támogatások utólagos megtérülése |  |  |  |  |  |  |  |  |  |  |  |
-|  |  | 5 |  |  |  |  |  | Strukturális Alapok |  |  |  |  |  | 30 850,0 |  |  |  |  |
+|  |  | 5 |  |  |  |  |  | Strukturális Alapok |  |  |  |  |  | 86 731,0 |  |  |  |  |
 | 8 |  |  |  |  |  | Tőke követelések visszatérülése |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | 1 |  |  |  |  |  | Kormányhitelek visszatérülése |  |  |  |  |  |  | 36,3 |  |  |  |  |
 | 28 |  |  |  |  |  | Diákhitel 2 konstrukció kamattámogatása |  |  |  |  |  |  | 641,0 |  |  |  |  |  |
@@ -3088,9 +3113,11 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 |  |  | 2 |  |  |  |  |  | Az 1947-es párizsi békeszerződésből eredő kárpótlás |  |  |  |  | 2 153,5 |  |  |  |  |  |
 |  |  | 3 |  |  |  |  |  | Pénzbeli kárpótlás folyósítási költségei |  |  |  |  | 52,9 |  |  |  |  |  |
 | 35 |  |  |  |  |  | Garancia és hozzájárulás a társadalombiztosítási ellátásokhoz |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | 1 |  |  |  |  |  | Nyugdíjbiztosítási Alap támogatása |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | 5 |  |  |  |  |  | Kiadások támogatására pénzeszköz átadás |  |  |  |  | 208 000,0 |  |  |  |  |  |
 |  | 2 |  |  |  |  |  | Egészségbiztosítási Alap támogatása |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | 4 |  |  |  |  |  | Járulék címen átadott pénzeszköz |  |  |  |  | 368 745,2 |  |  |  |  |  |
-|  |  | 9 |  |  |  |  |  | Kiadások támogatására pénzeszköz-átadás |  |  |  |  | 14 902,3 |  |  |  |  |  |
+|  |  | 9 |  |  |  |  |  | Kiadások támogatására pénzeszköz-átadás |  |  |  |  | 47 002,3 |  |  |  |  |  |
 | 36 |  |  |  |  |  | Nemzetközi pénzügyi intézmények felé vállalt kötelezettségek kiadásai |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | 1 |  |  |  |  |  | Nemzetközi tagdíjak |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | 2 |  |  |  |  |  | IBRD alaptőke értékállóságának biztosítása |  |  |  |  | 1 443,0 |  |  |  |  |  |
@@ -3104,10 +3131,10 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 |  |  | 4 |  |  |  |  |  | EU Szomszédsági Beruházási Eszköz |  |  |  |  | 103,9 |  |  |  |  |  |
 |  | 3 |  |  |  |  |  | Egyéb kiadások |  |  |  |  |  | 40,0 |  |  |  |  |  |
 | 37 |  |  |  |  |  | Hozzájárulás az EU költségvetéséhez |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | 1 |  |  |  |  |  | ÁFA alapú hozzájárulás |  |  |  |  |  | 41 798,2 |  |  |  |  |  |
-|  | 2 |  |  |  |  |  | GNI alapú hozzájárulás |  |  |  |  |  | 250 495,2 |  |  |  |  |  |
-|  | 3 |  |  |  |  |  | Brit korrekció |  |  |  |  |  | 22 045,9 |  |  |  |  |  |
-|  | 4 |  |  |  |  |  | Dánia, Hollandia és Svédország számára teljesítendő bruttó GNI csökkentés |  |  |  |  |  | 2 705,5 |  |  |  |  |  |
+|  | 1 |  |  |  |  |  | ÁFA alapú hozzájárulás |  |  |  |  |  | 43 516,5 |  |  |  |  |  |
+|  | 2 |  |  |  |  |  | GNI alapú hozzájárulás |  |  |  |  |  | 218 684,8 |  |  |  |  |  |
+|  | 3 |  |  |  |  |  | Brit korrekció |  |  |  |  |  | 21 285,3 |  |  |  |  |  |
+|  | 4 |  |  |  |  |  | Dánia, Hollandia és Svédország számára teljesítendő bruttó GNI csökkentés |  |  |  |  |  | 2 558,2 |  |  |  |  |  |
 | 41 |  |  |  |  |  | Követeléskezelés költségei |  |  |  |  |  |  | 1,7 |  |  |  |  |  |
 | 42 |  |  |  |  |  | Alapok támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | 2 |  |  |  |  |  | Bethlen Gábor Alap támogatása |  |  |  |  |  | 17 388,5 |  |  | 3 550,0 |  |  |
@@ -3115,10 +3142,10 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 |  | 5 |  |  |  |  |  | Nemzeti Kutatási, Fejlesztési és Innovációs Alap támogatása |  |  |  |  |  | 7 686,0 |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | XLII. A KÖLTSÉGVETÉS KÖZVETLEN BEVÉTELEI ÉS KIADÁSAI |  |  |  |  |  |  |  |  |  |  |  |  | Kiadás |  | Bevétel |  | Egyenleg |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | Hazai működési költségvetés | 920 374,9 |  | 7 593 684,1 |  | 6 673 309,2 |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | Hazai felhalmozási költségvetés | 185 570,0 |  | 1 066 845,6 |  | 881 275,6 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | Hazai működési költségvetés | 1 129 474,9 |  | 7 843 940,0 |  | 6 714 465,1 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | Hazai felhalmozási költségvetés | 185 570,0 |  | 1 013 181,2 |  | 827 611,2 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  | Európai uniós fejlesztési költségvetés | 0,0 |  | 0,0 |  | 0,0 |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | XLII. fejezet összesen | 1 105 944,9 |  | 8 660 529,7 |  | 7 554 584,8 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | XLII. fejezet összesen | 1 315 044,9 |  | 8 857 121,2 |  | 7 542 076,3 |  |
 
 | millió forintban |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -3167,7 +3194,7 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 |  |  | 2 |  |  |  |  |  | Állami tulajdonú társaságok támogatása |  |  |  |  |  |  |  |  |  |  |
 |  |  |  | 1 |  |  |  |  |  | Az MNV Zrt. működésének támogatása |  |  |  | 7 300,0 |  |  |  |  |  |
 |  |  |  | 2 |  |  |  |  |  | Az MNV Zrt. tulajdonosi joggyakorlásába tartozó társaságok támogatása |  |  |  | 14 855,1 |  |  |  |  |  |
-|  |  |  | 3 |  |  |  |  |  | A Magyar Nemzeti Filmalap Közhasznú Nonprofit Zrt. támogatása |  |  |  | 7 600,0 |  |  |  |  |  |
+|  |  |  | 3 |  |  |  |  |  | A Magyar Nemzeti Filmalap Közhasznú Nonprofit Zrt. támogatása |  |  |  | 10 000,0 |  |  |  |  |  |
 |  |  |  | 4 |  |  |  |  |  | A Nemzeti Eszközkezelő Zrt. működésének támogatása és tevékenységével kapcsolatos egyéb kiadások |  |  |  | 3 000,0 |  |  |  |  |  |
 |  |  |  | 5 |  |  |  |  |  | Nemzeti Hulladékgazdálkodási Koordináló és Vagyonkezelő Zrt. támogatása |  |  |  | 5 700,0 |  |  |  |  |  |
 |  |  | 3 |  |  |  |  |  | Tulajdonosi kölcsönök elszámolása |  |  |  |  |  |  |  | 2 350,0 |  |  |
@@ -3190,10 +3217,10 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 |  | 5 |  |  |  |  |  | Fejezeti tartalék |  |  |  |  |  | 7 000,0 |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | XLIII. AZ ÁLLAMI VAGYONNAL KAPCSOLATOS BEVÉTELEK ÉS KIADÁSOK |  |  |  |  |  |  |  |  |  |  |  |  | Kiadás |  | Bevétel |  | Egyenleg |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | Hazai működési költségvetés | 86 525,2 |  | 42 265,9 |  | -44 259,3 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | Hazai működési költségvetés | 88 925,2 |  | 42 265,9 |  | -46 659,3 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  | Hazai felhalmozási költségvetés | 99 696,4 |  | 20 227,0 |  | -79 469,4 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  | Európai uniós fejlesztési költségvetés | 0,0 |  | 0,0 |  | 0,0 |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | XLIII. fejezet összesen | 186 221,6 |  | 62 492,9 |  | -123 728,7 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | XLIII. fejezet összesen | 188 621,6 |  | 62 492,9 |  | -126 128,7 |  |
 
 | millió forintban |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -3201,7 +3228,7 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 |  |  | szám |  | szám | szám |  |  | név |  | név | Kiemelt előirányzat neve |  | Működési kiadás | Működési bevétel |  | Felhalmo- zási kiadás |  | Felhalmo- zási bevétel |
 |  |  |  |  |  |  | XLIV. A NEMZETI FÖLDALAPPAL KAPCSOLATOS BEVÉTELEK ÉS KIADÁSOK |  |  |  |  |  |  |  |  |  |  |  |  |
 | 1 |  |  |  |  |  | A Nemzeti Földalappal kapcsolatos bevételek |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | 1 |  |  |  |  |  | Ingatlan értékesítéséből származó bevételek |  |  |  |  |  |  |  |  |  |  | 5 500,0 |
+|  | 1 |  |  |  |  |  | Ingatlan értékesítéséből származó bevételek |  |  |  |  |  |  |  |  |  |  | 167 900,0 |
 |  | 2 |  |  |  |  |  | Haszonbérleti díj |  |  |  |  |  |  | 2 880,0 |  |  |  |  |
 |  | 3 |  |  |  |  |  | Vagyonkezelői díj |  |  |  |  |  |  | 120,0 |  |  |  |  |
 |  | 4 |  |  |  |  |  | Egyéb bevételek |  |  |  |  |  |  | 50,0 |  |  |  |  |
@@ -3219,10 +3246,10 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 |  | 5 |  |  |  |  |  | Fejezeti tartalék |  |  |  |  |  | 1 000,0 |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | XLIV. A NEMZETI FÖLDALAPPAL KAPCSOLATOS BEVÉTELEK ÉS KIADÁSOK |  |  |  |  |  |  |  |  |  |  |  |  | Kiadás |  | Bevétel |  | Egyenleg |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | Hazai működési költségvetés | 15 041,7 |  | 3 050,0 |  | -11 991,7 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | Hazai működési költségvetés | 2 000,0 |  | 167 900,0 |  | 165 900,0 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  | Hazai felhalmozási költségvetés | 2 000,0 |  | 5 500,0 |  | 3 500,0 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  | Európai uniós fejlesztési költségvetés | 0,0 |  | 0,0 |  | 0,0 |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | XLIV. fejezet összesen | 17 041,7 |  | 8 550,0 |  | -8 491,7 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | XLIV. fejezet összesen | 17 041,7 |  | 170 950,0 |  | 153 908,3 |  |
 
 | millió forintban |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -3253,7 +3280,7 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 |  | 1 |  |  |  |  |  | Foglalkoztatási és képzési támogatások |  |  |  |  |  | 13 679,0 |  |  | 2 493,0 |  |  |
 | 2 |  |  |  |  |  | Szakképzési és felnőttképzési támogatások |  |  |  |  |  |  | 19 090,0 |  |  | 910,0 |  |  |
 | 4 |  |  |  |  |  | Passzív kiadások |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | 1 |  |  |  |  |  | Álláskeresési ellátások |  |  |  |  |  | 47 000,0 |  |  |  |  |  |
+|  | 1 |  |  |  |  |  | Álláskeresési ellátások |  |  |  |  |  | 52 000,0 |  |  |  |  |  |
 | 5 |  |  |  |  |  | Bérgarancia kifizetések |  |  |  |  |  |  | 4 000,0 |  |  |  |  |  |
 | 6 |  |  |  |  |  | Működtetési célú kifizetések |  |  |  |  |  |  | 3 500,0 |  |  |  |  |  |
 | 8 |  |  |  |  |  | Start-munkaprogram |  |  |  |  |  |  | 298 559,0 |  |  | 26 441,0 |  |  |
@@ -3264,16 +3291,16 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 |  | 1 |  |  |  |  |  | Területi egyéb bevétel |  |  |  |  |  |  | 721,4 |  |  |  | 278,6 |
 |  | 2 |  |  |  |  |  | Központi egyéb bevétel |  |  |  |  |  |  | 999,6 |  |  |  | 0,4 |
 |  | 3 |  |  |  |  |  | Szakképzési és felnőttképzési egyéb bevétel |  |  |  |  |  |  | 620,0 |  |  |  | 180,0 |
-| 31 |  |  |  |  |  | Szakképzési hozzájárulás |  |  |  |  |  |  |  | 60 706,7 |  |  |  |  |
+| 31 |  |  |  |  |  | Szakképzési hozzájárulás |  |  |  |  |  |  |  | 74 506,7 |  |  |  |  |
 | 33 |  |  |  |  |  | Bérgarancia támogatás törlesztése |  |  |  |  |  |  |  | 1 000,0 |  |  |  |  |
-| 35 |  |  |  |  |  | Egészségbiztosítási és munkaerőpiaci járulék Nemzeti Foglalkoztatási Alapot megillető hányada |  |  |  |  |  |  |  | 165 801,9 |  |  |  |  |
-| 38 |  |  |  |  |  | Szociális hozzájárulási adó Nemzeti Foglalkoztatási Alapot megillető hányada |  |  |  |  |  |  |  | 217 539,6 |  |  |  |  |
+| 35 |  |  |  |  |  | Egészségbiztosítási és munkaerőpiaci járulék Nemzeti Foglalkoztatási Alapot megillető hányada |  |  |  |  |  |  |  | 175 901,9 |  |  |  |  |
+| 38 |  |  |  |  |  | Szociális hozzájárulási adó Nemzeti Foglalkoztatási Alapot megillető hányada |  |  |  |  |  |  |  | 195 539,6 |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | LXIII. NEMZETI FOGLALKOZTATÁSI ALAP |  |  |  |  |  |  |  |  |  |  |  |  | Kiadás |  | Bevétel |  | Egyenleg |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | Hazai működési költségvetés | 459 441,4 |  | 507 389,2 |  | 47 947,8 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | Hazai működési költségvetés | 464 441,4 |  | 509 289,2 |  | 44 847,8 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  | Hazai felhalmozási költségvetés | 30 347,0 |  | 459,0 |  | -29 888,0 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  | Európai uniós fejlesztési költségvetés | 0,0 |  | 0,0 |  | 0,0 |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | LXIII. fejezet összesen | 489 788,4 |  | 507 848,2 |  | 18 059,8 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | LXIII. fejezet összesen | 494 788,4 |  | 509 748,2 |  | 14 959,8 |  |
 
 | millió forintban |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -3344,25 +3371,28 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 |  |  | szám |  | szám | szám |  |  | név |  | név | Kiemelt előirányzat neve |  | Működési kiadás | Működési bevétel |  | Felhalmo- zási kiadás |  | Felhalmo- zási bevétel |
 |  |  |  |  |  |  | LXXI. NYUGDÍJBIZTOSÍTÁSI ALAP |  |  |  |  |  |  |  |  |  |  |  |  |
 | 1 |  |  |  |  |  | Nyugdíjbiztosítási ellátások fedezetéül szolgáló bevételek |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | 1 |  |  |  |  |  | Szociális hozzájárulási adó Ny. Alapot megillető része és munkáltatói nyugdíjbiztosítási járulék |  |  |  |  |  |  | 1 989 696,0 |  |  |  |  |
+|  | 1 |  |  |  |  |  | Szociális hozzájárulási adó Ny. Alapot megillető része és munkáltatói nyugdíjbiztosítási járulék |  |  |  |  |  |  | 1 759 696,0 |  |  |  |  |
 |  | 2 |  |  |  |  |  | Biztosítotti nyugdíjjárulék |  |  |  |  |  |  |  |  |  |  |  |
-|  |  | 1 |  |  |  |  |  | Biztosított által fizetett nyugdíjjárulék |  |  |  |  |  | 1 094 804,6 |  |  |  |  |
+|  |  | 1 |  |  |  |  |  | Biztosított által fizetett nyugdíjjárulék |  |  |  |  |  | 1 166 804,6 |  |  |  |  |
 |  | 3 |  |  |  |  |  | Egyéb járulékok és hozzájárulások |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | 2 |  |  |  |  |  | Megállapodás alapján fizetők járulékai |  |  |  |  |  | 1 020,7 |  |  |  |  |
 |  |  | 5 |  |  |  |  |  | Egyszerűsített foglalkoztatás utáni közteher |  |  |  |  |  | 15 005,5 |  |  |  |  |
 |  | 5 |  |  |  |  |  | Késedelmi pótlék, bírság |  |  |  |  |  |  | 11 473,0 |  |  |  |  |
+|  | 6 |  |  |  |  |  | Költségvetési hozzájárulások |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | 7 |  |  |  |  |  | Tervezett pénzeszköz-átvétel |  |  |  |  |  | 208 000,0 |  |  |  |  |
 |  | 7 |  |  |  |  |  | Nyugdíjbiztosítási tevékenységgel kapcsolatos egyéb bevételek |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | 3 |  |  |  |  |  | Kifizetések visszatérülése és egyéb bevételek |  |  |  |  |  | 4 863,6 |  |  |  |  |
 | 2 |  |  |  |  |  | Nyugdíjbiztosítási ellátásokhoz kapcsolódó kiadások |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | 1 |  |  |  |  |  | Nyugellátások |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | 1 |  |  |  |  |  | Öregségi nyugdíj |  |  |  |  |  |  |  |  |  |  |
-|  |  |  | 1 |  |  |  |  |  | Korhatár felettiek öregségi nyugdíja |  |  |  | 2 501 121,5 |  |  |  |  |  |
+|  |  |  | 1 |  |  |  |  |  | Korhatár felettiek öregségi nyugdíja |  |  |  | 2 527 011,5 |  |  |  |  |  |
 |  |  |  | 2 |  |  |  |  |  | Nők korhatár alatti nyugellátása |  |  |  | 233 924,5 |  |  |  |  |  |
 |  |  | 3 |  |  |  |  |  | Hozzátartozói nyugellátás |  |  |  |  |  |  |  |  |  |  |
 |  |  |  | 1 |  |  |  |  |  | Árvaellátás |  |  |  | 31 474,0 |  |  |  |  |  |
 |  |  |  | 2 |  |  |  |  |  | Özvegyi nyugellátás |  |  |  | 334 512,0 |  |  |  |  |  |
 |  |  | 4 |  |  |  |  |  | Egyösszegű méltányossági kifizetések |  |  |  |  |  |  |  |  |  |  |
-|  |  |  | 2 |  |  |  |  |  | Egyszeri segély |  |  |  | 500,0 |  |  |  |  |  |
+|  |  |  | 2 |  |  |  |  |  | Egyszeri segély |  |  |  | 550,0 |  |  |  |  |  |
+|  |  | 5 |  |  |  |  |  | Nyugdíjprémium céltartalék |  |  |  |  | 24 060,0 |  |  |  |  |  |
 |  | 4 |  |  |  |  |  | Nyugdíjbiztosítás egyéb kiadásai |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | 4 |  |  |  |  |  | Egyéb, ellátáshoz kapcsolódó kiadások |  |  |  |  |  |  |  |  |  |  |
 |  |  |  | 2 |  |  |  |  |  | Postaköltség |  |  |  | 4 262,4 |  |  |  |  |  |
@@ -3380,10 +3410,10 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 |  |  |  |  |  | 6 |  |  |  |  |  | Beruházások |  |  |  |  | 181,1 |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | LXXI. NYUGDÍJBIZTOSÍTÁSI ALAP |  |  |  |  |  |  |  |  |  |  |  |  | Kiadás |  | Bevétel |  | Egyenleg |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | Hazai működési költségvetés | 3 118 638,3 |  | 3 118 819,4 |  | 181,1 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | Hazai működési költségvetés | 3 168 638,3 |  | 3 168 819,4 |  | 181,1 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  | Hazai felhalmozási költségvetés | 181,1 |  | 0,0 |  | -181,1 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  | Európai uniós fejlesztési költségvetés | 0,0 |  | 0,0 |  | 0,0 |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | LXXI. fejezet összesen | 3 118 819,4 |  | 3 118 819,4 |  | 0,0 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | LXXI. fejezet összesen | 3 168 819,4 |  | 3 168 819,4 |  |  |  |
 
 | millió forintban |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -3391,19 +3421,19 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 |  |  | szám |  | szám | szám |  |  | név |  | név | Kiemelt előirányzat neve |  | Működési kiadás | Működési bevétel |  | Felhalmo- zási kiadás |  | Felhalmo- zási bevétel |
 |  |  |  |  |  |  | LXXII. EGÉSZSÉGBIZTOSÍTÁSI ALAP |  |  |  |  |  |  |  |  |  |  |  |  |
 | 1 |  |  |  |  |  | Egészségbiztosítási ellátások fedezetéül szolgáló bevételek |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | 1 |  |  |  |  |  | Szociális hozzájárulási adó E. Alapot megillető része és munkáltatói egészségbiztosítási járulék |  |  |  |  |  |  | 565 187,6 |  |  |  |  |
-|  | 2 |  |  |  |  |  | Biztosítotti egészségbiztosítási járulék |  |  |  |  |  |  | 738 482,7 |  |  |  |  |
+|  | 1 |  |  |  |  |  | Szociális hozzájárulási adó E. Alapot megillető része és munkáltatói egészségbiztosítási járulék |  |  |  |  |  |  | 500 743,1 |  |  |  |  |
+|  | 2 |  |  |  |  |  | Biztosítotti egészségbiztosítási járulék |  |  |  |  |  |  | 790 927,2 |  |  |  |  |
 |  | 3 |  |  |  |  |  | Egyéb járulékok és hozzájárulások |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | 1 |  |  |  |  |  | Egészségügyi szolgáltatási járulék |  |  |  |  |  | 29 926,1 |  |  |  |  |
 |  |  | 2 |  |  |  |  |  | Megállapodás alapján fizetők járulékai |  |  |  |  |  | 315,0 |  |  |  |  |
-|  |  | 4 |  |  |  |  |  | Munkáltatói táppénz hozzájárulás |  |  |  |  |  | 23 342,6 |  |  |  |  |
+|  |  | 4 |  |  |  |  |  | Munkáltatói táppénz hozzájárulás |  |  |  |  |  | 25 742,6 |  |  |  |  |
 |  |  | 5 |  |  |  |  |  | Egyszerűsített foglalkoztatás utáni közteher |  |  |  |  |  | 159,0 |  |  |  |  |
-|  | 4 |  |  |  |  |  | Egészségügyi hozzájárulás |  |  |  |  |  |  | 170 277,8 |  |  |  |  |
+|  | 4 |  |  |  |  |  | Egészségügyi hozzájárulás |  |  |  |  |  |  | 166 277,8 |  |  |  |  |
 |  | 5 |  |  |  |  |  | Késedelmi pótlék, bírság |  |  |  |  |  |  | 4 665,4 |  |  |  |  |
 |  | 6 |  |  |  |  |  | Költségvetési hozzájárulások |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | 2 |  |  |  |  |  | Egészségügyi feladatok ellátásával kapcsolatos költségvetési hozzájárulás |  |  |  |  |  | 5 400,0 |  |  |  |  |
 |  |  | 6 |  |  |  |  |  | Járulék címen átvett pénzeszköz |  |  |  |  |  | 368 745,2 |  |  |  |  |
-|  |  | 10 |  |  |  |  |  | Tervezett pénzeszköz-átvétel |  |  |  |  |  | 14 902,3 |  |  |  |  |
+|  |  | 10 |  |  |  |  |  | Tervezett pénzeszköz-átvétel |  |  |  |  |  | 47 002,3 |  |  |  |  |
 |  | 7 |  |  |  |  |  | Egészségbiztosítási tevékenységgel kapcsolatos egyéb bevételek |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | 1 |  |  |  |  |  | Terhességmegszakítás egyéni térítési díja |  |  |  |  |  | 525,0 |  |  |  |  |
 |  |  | 2 |  |  |  |  |  | Baleseti és egyéb kártérítési megtérítések |  |  |  |  |  | 5 585,7 |  |  |  |  |
@@ -3417,21 +3447,21 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 |  |  | 11 |  |  |  |  |  | Egészségügyi szolgáltatók visszafizetése |  |  |  |  |  |  |  |  |  |  |
 |  |  |  | 1 |  |  |  |  |  | Gyógyszertámogatással, gyógyászati segédeszköz támogatással kapcsolatos ellenőrzésekből eredő visszafizetések |  |  |  |  | 150,0 |  |  |  |  |
 |  |  |  | 2 |  |  |  |  |  | Egészségügyi szolgáltatók egyéb visszafizetése |  |  |  |  | 300,0 |  |  |  |  |
-|  |  | 12 |  |  |  |  |  | Baleseti adó |  |  |  |  |  | 29 012,8 |  |  |  |  |
+|  |  | 12 |  |  |  |  |  | Baleseti adó |  |  |  |  |  | 36 012,8 |  |  |  |  |
 |  |  | 13 |  |  |  |  |  | Népegészségügyi termékadó |  |  |  |  |  | 31 795,0 |  |  |  |  |
 |  |  | 14 |  |  |  |  |  | Dohányipari vállalkozások egészségügyi hozzájárulása |  |  |  |  |  | 540,0 |  |  |  |  |
 | 2 |  |  |  |  |  | Egészségbiztosítási ellátások kiadásai |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | 2 |  |  |  |  |  | Egészségbiztosítás pénzbeli ellátásai |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | 1 |  |  |  |  |  | Csecsemőgondozási díj, Terhességi-gyermekágyi segély |  |  |  |  | 49 815,9 |  |  |  |  |  |
 |  |  | 2 |  |  |  |  |  | Táppénz |  |  |  |  |  |  |  |  |  |  |
-|  |  |  | 1 |  |  |  |  |  | Táppénz |  |  |  | 79 258,4 |  |  |  |  |  |
+|  |  |  | 1 |  |  |  |  |  | Táppénz |  |  |  | 88 758,4 |  |  |  |  |  |
 |  |  |  | 2 |  |  |  |  |  | Gyermekápolási táppénz |  |  |  | 3 812,3 |  |  |  |  |  |
 |  |  |  | 3 |  |  |  |  |  | Baleseti táppénz |  |  |  | 8 829,1 |  |  |  |  |  |
 |  |  | 3 |  |  |  |  |  | Betegséggel kapcsolatos segélyek |  |  |  |  |  |  |  |  |  |  |
 |  |  |  | 4 |  |  |  |  |  | Egyszeri segély |  |  |  | 450,0 |  |  |  |  |  |
 |  |  | 4 |  |  |  |  |  | Kártérítési járadék |  |  |  |  | 774,4 |  |  |  |  |  |
 |  |  | 5 |  |  |  |  |  | Baleseti járadék |  |  |  |  | 7 947,1 |  |  |  |  |  |
-|  |  | 6 |  |  |  |  |  | Gyermekgondozási díj |  |  |  |  | 124 987,8 |  |  |  |  |  |
+|  |  | 6 |  |  |  |  |  | Gyermekgondozási díj |  |  |  |  | 140 987,8 |  |  |  |  |  |
 |  |  | 7 |  |  |  |  |  | Rokkantsági, rehabilitációs ellátások |  |  |  |  | 320 603,0 |  |  |  |  |  |
 |  | 3 |  |  |  |  |  | Természetbeni ellátások |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | 1 |  |  |  |  |  | Gyógyító-megelőző ellátás |  |  |  |  |  |  |  |  |  |  |
@@ -3486,16 +3516,16 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 |  |  |  |  |  | 6 |  |  |  |  |  | Beruházások |  |  |  |  | 200,0 |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | LXXII. EGÉSZSÉGBIZTOSÍTÁSI ALAP |  |  |  |  |  |  |  |  |  |  |  |  | Kiadás |  | Bevétel |  | Egyenleg |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | Hazai működési költségvetés | 2 058 921,8 |  | 2 059 121,8 |  | 200,0 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | Hazai működési költségvetés | 2 084 421,8 |  | 2 084 621,8 |  | 200,0 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  | Hazai felhalmozási költségvetés | 200,0 |  | 0,0 |  | -200,0 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  | Európai uniós fejlesztési költségvetés | 0,0 |  | 0,0 |  | 0,0 |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | LXXII. fejezet összesen | 2 059 121,8 |  | 2 059 121,8 |  | 0,0 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | LXXII. fejezet összesen | 2 084 621,8 |  | 2 084 621,8 |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Központi alrendszer |  |  |  |  |  |  |  |  |  |  |  |  | Kiadás |  | Bevétel |  | Egyenleg |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | Hazai működési költségvetés | 14 721 931,6 |  | 14 721 931,6 |  | 0,0 |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | Hazai felhalmozási költségvetés | 1 636 611,9 |  | 1 164 250,4 |  | -472 361,5 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | Hazai működési költségvetés | 15 049 587,5 |  | 15 049 587,5 |  | 0,0 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | Hazai felhalmozási költségvetés | 1 745 347,5 |  | 1 272 986,0 |  | -472 361,5 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  | Európai uniós fejlesztési költségvetés | 2 239 161,5 |  | 1 545 165,9 |  | -693 995,6 |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | Központi alrendszer összesen | 18 597 705,0 |  | 17 431 347,9 |  | -1 166 357,1 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | Központi alrendszer összesen | 19 034 096,5 |  | 17 867 739,4 |  | -1 166 357,1 |  |
 
 ### 2. melléklet a 2016. évi XC. törvényhez
 
@@ -3567,7 +3597,7 @@ A belterületre vonatkozóan a Földmérési és Távérzékelési Intézet ált
 
 bb) Közvilágítás fenntartásának alaptámogatása
 
-A támogatás a települési önkormányzatokat a településen történő közvilágítás biztosításához kapcsolódóan illeti meg. A támogatás meghatározása a településen kiépített kisfeszültségű hálózat kilométerben meghatározott hossza alapján történik, az alábbi, a 2015. évi országosan összesített önkormányzati beszámolóban szereplő 064010 „Közvilágítás” kormányzati funkció alapján településkategóriánként számított átlagos, egy kilométerre jutó nettó működési kiadások figyelembevételével.
+A támogatás a települési önkormányzatokat a településen történő közvilágítás biztosításához kapcsolódóan illeti meg. A támogatás meghatározása a településen kiépített kisfeszültségű hálózat kilométerben meghatározott hossza alapján történik, az alábbi, a 2015. évi országosan összesített önkormányzati beszámolóban szereplő „Közvilágítás” kormányzati funkció alapján településkategóriánként számított átlagos, egy kilométerre jutó nettó működési kiadások figyelembevételével.
 
 Településkategóriánként a támogatás fajlagos összege az alábbi:
 
@@ -3580,7 +3610,7 @@ A településen kiépített kisfeszültségű hálózat hossza tekintetében a K
 
 bc) Köztemető fenntartással kapcsolatos feladatok alaptámogatása
 
-A támogatás a települési önkormányzatokat a köztemető fenntartásával kapcsolatos feladataihoz kapcsolódóan illeti meg, a 2015. évi országosan összesített önkormányzati beszámolóban szereplő 013320 „Köztemető-fenntartás, és -működtetés” kormányzati funkció településkategóriánként számított egy négyzetméterre eső nettó működési kiadások figyelembevételével. Az így meghatározott támogatás összege legalább 100 000 forint.
+A támogatás a települési önkormányzatokat a köztemető fenntartásával kapcsolatos feladataihoz kapcsolódóan illeti meg, a 2015. évi országosan összesített önkormányzati beszámolóban szereplő „Köztemető-fenntartás, és -működtetés” kormányzati funkció településkategóriánként számított egy négyzetméterre eső nettó működési kiadások figyelembevételével. Az így meghatározott támogatás összege legalább 100 000 forint.
 
 Ugyancsak 100 000 forint támogatás illeti meg azon önkormányzatokat, melyeknek a fenti kormányzati funkción mutatkozó nettó kiadása nem haladja meg a 100 000 forintot, illetve az OSAP-jelentés alapján naturális mutatóval rendelkeznek, de a fenti kormányzati funkción nettó kiadásuk nem mutatkozott. Nem részesülnek támogatásban azon önkormányzatok, melyek az OSAP-jelentésben nem szerepeltettek temetőt. Azon önkormányzatok, melyek temetővel nem rendelkeznek, de megállapodás alapján köztemető fenntartásához hozzájárulnak vagy a feladatot ellátják, és a fenti kormányzati funkción nettó működési kiadásuk a Magyar Államkincstár (a továbbiakban: Kincstár) által ellenőrzött és igazolt módon meghaladja a 100 000 forintot, a nettó kiadásuk 90%-ának megfelelő összegű támogatásra, de legalább 100 000 forintra jogosultak.
 
@@ -3599,7 +3629,7 @@ A településen lévő köztemető nagyságát az OSAP 1616 „Jelentés az önk
 
 bd) Közutak fenntartásának alaptámogatása
 
-A támogatás a települési önkormányzatokat a közutak fenntartásával kapcsolatos feladataihoz kapcsolódóan illeti meg, a 2015. évi országosan összesített önkormányzati beszámolóban szereplő 045160 „Közutak, hidak, alagutak üzemeltetése, fenntartása” és 045170 „Parkoló, garázs üzemeltetése, fenntartása” kormányzati funkciók alapján településkategóriánként számított nettó működési kiadások figyelembevételével.
+A támogatás a települési önkormányzatokat a közutak fenntartásával kapcsolatos feladataihoz kapcsolódóan illeti meg, a 2015. évi országosan összesített önkormányzati beszámolóban szereplő „Közutak, hidak, alagutak üzemeltetése, fenntartása” és „Parkoló, garázs üzemeltetése, fenntartása” kormányzati funkciók alapján településkategóriánként számított nettó működési kiadások figyelembevételével.
 
 Településkategóriánként a támogatás fajlagos összege az alábbi:
 
@@ -3701,6 +3731,16 @@ A támogatás a helyi önkormányzatokat a költségvetési szervek és az egyh�
 
 A támogatás folyósítása január hónap végén a nettó finanszírozás keretében történik.
 
+6. A településképi arculati kézikönyv elkészítésének támogatása
+
+ELŐIRÁNYZAT: 2773,0 millió forint
+
+FAJLAGOS ÖSSZEG: 1 000 000 forint/település,
+
+A támogatás a 10 000 lakos alatti, 32 000 forint egy lakosra jutó adóerő-képességet el nem érő települési önkormányzatokat illeti meg a településkép védelméről szóló 2016. évi LXXIV. törvény szerinti településképi arculati kézikönyv elkészítésével kapcsolatban felmerülő kiadások teljesítéséhez.
+
+A támogatás folyósítása egy összegben, augusztus hónap végén a nettó finanszírozás keretében történik.
+
 II. A TELEPÜLÉSI ÖNKORMÁNYZATOK EGYES KÖZNEVELÉSI FELADATAINAK TÁMOGATÁSA
 
 1. Óvodapedagógusok és az óvodapedagógusok nevelőmunkáját közvetlenül segítők bértámogatása
@@ -3745,6 +3785,8 @@ Nem igényelhető támogatás továbbá azon gyermekek után, akik esetében az 
 
 A 2016/2017. nevelési évben az első nevelési évet kezdő óvodások között két gyermekként kell figyelembe venni azokat a bölcsődés korú, második életévüket 2016. december 31-éig betöltő gyermekeket, akiknek a gondozását a Nkt. 20. § (10) bekezdése szerint egységes óvoda-bölcsőde intézmény keretei között, a nevelési-oktatási intézmények működéséről és a köznevelési intézmények névhasználatáról szóló 20/2012. (VIII. 31.) EMMI rendeletben (a továbbiakban: 20/2012. (VIII. 31.) EMMI rendelet) meghatározott feltételek szerint biztosítják, és a gyermek 2016. szeptember 1-je és december 31-e között igénybe veszi az ellátást.
 
+A 2017/2018. nevelési évben az első nevelési évet kezdő óvodások között két gyermekként kell figyelembe venni azokat a bölcsődés-korú, második életévüket 2017. december 31-éig betöltő gyermekeket is, akiknek a gondozását a Nkt. 20. § (10) bekezdése szerint egységes óvoda-bölcsőde intézmény keretei között, a 20/2012. (VIII. 31.) EMMI rendeletben meghatározott feltételek szerint biztosítják, és a gyermek 2017. szeptember 1-je és december 31-e között igénybe veszi az ellátást. 2017. szeptember 1-jétől egy gyermekként lehet figyelembe venni azt a 2017/2018. nevelési évben bölcsődéskorúnak minősülő és az egységes óvoda-bölcsődei ellátást igénybevevő gyermeket, aki 2017. december 31-éig betölti harmadik életévét.
+
 b) A számított óvodapedagógus és az óvodapedagógus nevelőmunkáját közvetlenül segítők létszámának meghatározása
 
 Az óvodapedagógus létszám meghatározása a következő képlettel történik:
@@ -3771,7 +3813,7 @@ Vk1; Vk2 = vezetői órakedvezmény miatti pedagógus többletlétszám a 2016/2
 
 Op1; Op2 = a Nkt. 61. § (3) bekezdése alapján az intézmény alapító okirata szerint 500 fő férőhelyet elérő vagy azt meghaladó intézményeknél kötelezően alkalmazandó óvodapszichológusok létszáma a 2016/2017., illetve a 2017/2018. nevelési évben (egy tizedesre kerekítve).
 
-A támogatás igénylése szempontjából az óvodapedagógusok nevelőmunkáját közvetlenül segítők száma - beleértve a pedagógus szakképzettséggel rendelkező segítőket is - a Nkt. 2. melléklete, valamint a 20/2012. (VIII. 31.) EMMI rendelet 179. § (1) bekezdés b) pontja szerint elismerhető - a Kjt. alapján foglalkoztatott - létszám, de legfeljebb
+A támogatás igénylése szempontjából az óvodapedagógusok nevelőmunkáját közvetlenül segítők száma – beleértve a pedagógus szakképzettséggel, szakképesítéssel rendelkező segítőket is –” a Nkt. 2. melléklete, valamint a 20/2012. (VIII. 31.) EMMI rendelet 179. § (1) bekezdés b) pontja szerint elismerhető - a Kjt. alapján foglalkoztatott - létszám, de legfeljebb
 
 - 2017. év első 8 hónapjában a ténylegesen foglalkoztatott segítők átlagos száma,
 
@@ -3809,7 +3851,7 @@ Ts1, Ts2 = a 2016/2017., illetve a 2017/2018. nevelési évben az óvodapedagóg
 
 S1; S2 = a 2016/2017., illetve a 2017/2018. nevelési évben az óvodapedagógusok nevelőmunkáját közvetlenül segítők b) alpont szerinti száma, levonva a PS1, illetve a PS2 értékét,
 
-PS1; PS2 = a 2016/2017., illetve a 2017/2018. nevelési évben a pedagógus szakképzettséggel rendelkező, az óvodapedagógusok nevelőmunkáját közvetlenül segítők száma, a 2016/2017. nevelési évben ideértve a felsőfokú végzettséggel rendelkező, 20/2012. (VIII. 31.) EMMI rendelet 179. § (1) bekezdés b) pontja szerinti kisgyermeknevelőket is,
+PS1; PS2 = a 2016/2017., illetve a 2017/2018. nevelési évben a pedagógus szakképzettséggel, szakképesítéssel rendelkező, az óvodapedagógusok nevelőmunkáját közvetlenül segítők száma, a 2016/2017. nevelési évben ideértve a felsőfokú végzettséggel rendelkező, 20/2012. (VIII. 31.) EMMI rendelet 179. § (1) bekezdés b) pontja szerinti kisgyermeknevelőket is,
 
 ÁBp = óvodapedagógus átlagbér elismert összege,
 
@@ -3849,26 +3891,27 @@ A támogatás szempontjából az adott napon figyelembe vehető egy főként az 
 
 A támogatás folyósítása a nettó finanszírozás keretében, az Ávr.-ben meghatározott időpontokban történik.
 
-4. Kiegészítő támogatás az óvodapedagógusok minősítéséből adódó többletkiadásokhoz
+4. Kiegészítő támogatás az óvodapedagógusok és a pedagógus szakképzettséggel rendelkező segítők minősítéséből adódó többletkiadásokhoz
 
-| ELŐIRÁNYZAT: | 8 360,4 millió forint |  |
-| --- | --- | --- |
-|  |  |  |
-| ALAPFOKOZATÚ VÉGZETTSÉGŰ ÓVODAPEDAGÓGUSOK |  |  |
-| - PEDAGÓGUS II. KATEGÓRIÁBA SOROLT ÓVODAPEDAGÓGUSOK KIEGÉSZÍTŐ TÁMOGATÁSA: |  | 418 900 forint/fő/év |
-| - MESTERPEDAGÓGUS KATEGÓRIÁBA SOROLT ÓVODAPEDAGÓGUSOK KIEGÉSZÍTŐ TÁMOGATÁSA: |  | 1 530 600 forint/fő/év |
-|  |  |  |
-| MESTERFOKOZATÚ VÉGZETTSÉGŰ ÓVODAPEDAGÓGUSOK |  |  |
-| - PEDAGÓGUS II. KATEGÓRIÁBA SOROLT ÓVODAPEDAGÓGUSOK KIEGÉSZÍTŐ TÁMOGATÁSA: |  | 459 200 forint/fő/év |
-| - MESTERPEDAGÓGUS KATEGÓRIÁBA SOROLT ÓVODAPEDAGÓGUSOK KIEGÉSZÍTŐ TÁMOGATÁSA: |  | 1 684 800 forint/fő/év |
+| ELŐIRÁNYZAT: | 8 360,4 millió forint |
+| --- | --- |
+| ALAPFOKOZATÚ VÉGZETTSÉGŰ ÓVODAPEDAGÓGUSOK, PEDAGÓGUS SZAKKÉPZETTSÉGGEL RENDELKEZŐ SEGÍTŐK |  |
+| - PEDAGÓGUS II. KATEGÓRIÁBA SOROLT ÓVODAPEDAGÓGUSOK, PEDAGÓGUS SZAKKÉPZETTSÉGGEL RENDELKEZŐ SEGÍTŐK KIEGÉSZÍTŐ TÁMOGATÁSA: | 418 900 forint/fő/év |
+| - MESTERPEDAGÓGUS, KUTATÓTANÁR KATEGÓRIÁBA SOROLT ÓVODAPEDAGÓGUSOK KIEGÉSZÍTŐ TÁMOGATÁSA: | 1 530 600 forint/fő/év |
+|  |  |
+| MESTERFOKOZATÚ VÉGZETTSÉGŰ ÓVODAPEDAGÓGUSOK, PEDAGÓGUS SZAKKÉPZETTSÉGGEL RENDELKEZŐ SEGÍTŐK |  |
+| - PEDAGÓGUS II. KATEGÓRIÁBA SOROLT ÓVODAPEDAGÓGUSOK, PEDAGÓGUS SZAKKÉPZETTSÉGGEL RENDELKEZŐ SEGÍTŐK KIEGÉSZÍTŐ TÁMOGATÁSA: | 459 200 forint/fő/év |
+| - MESTERPEDAGÓGUS, KUTATÓTANÁR KATEGÓRIÁBA SOROLT ÓVODAPEDAGÓGUSOK KIEGÉSZÍTŐ TÁMOGATÁSA: | 1 684 800 forint/fő/év |
 
-A központi költségvetés kiegészítő támogatást biztosít a Nkt. 64. §-a szerinti előmeneteli rendszer keretén belül lebonyolított minősítési eljárás során 2016. december 31-éig a Pedagógus II. vagy Mesterpedagógus fokozatot elért óvodapedagógusok béréhez. A támogatás az önkormányzatot az általa fenntartott intézményben 2017. január 1-je és 2017. december 31-e között ténylegesen foglalkoztatott pedagógusok időarányosan figyelembe vett, egy tizedesre kerekített száma alapján illeti meg a következők szerint:
+A központi költségvetés kiegészítő támogatást biztosít a Nkt. 64. §-a szerinti előmeneteli rendszer keretén belül lebonyolított minősítési eljárás során 2017. január 1-jén Pedagógus II., Mesterpedagógus vagy Kutatótanár fokozatú besorolással rendelkező óvodapedagógusok, valamint Pedagógus II. fokozatba átsorolt, pedagógus szakképzettséggel rendelkező segítők (a továbbiakban: segítők) béréhez. A támogatás az önkormányzatot az általa fenntartott intézményben 2017. január 1-je és 2017. december 31-e között ténylegesen foglalkoztatott óvodapedagógusok és segítők időarányosan figyelembe vett, egy tizedesre kerekített száma alapján illeti meg a következők szerint:
 
-- a támogatás teljes összege megilleti a fenntartót azon pedagógusok után, akik a minősítést 2015. december 31-éig szerezték meg,
+- a támogatás teljes összege megilleti a fenntartót azon óvodapedagógusok és segítők után, akik a minősítést 2015. december 31-éig szerezték meg,
 
-- a támogatás 11 havi időarányos része illeti meg a fenntartót azon pedagógusok után, akik a minősítést 2016. évben szerezték meg.
+- a támogatás 11 havi időarányos része illeti meg a fenntartót azon óvodapedagógusok és segítők után, akik a minősítést 2017. január 1-jei átsorolással szerezték meg.
 
-A minősítést elnyert pedagógusok fenntartónkénti adatait a köznevelési információs rendszer adatkezelőjének adatszolgáltatása alapozza meg. Ha a támogatást megalapozó adatok az önkormányzat által fenntartott intézményben ténylegesen foglalkoztatott, minősítést elnyert pedagógusok számával nem egyeznek meg, azok önkormányzat általi módosítására az Ávr. szerinti értesítőben meghatározott módon és határnapig kerülhet sor.
+A támogatás felhasználható a 2016. december havi bérek, 2017. januárban történő kifizetésére.
+
+A minősítést elnyert óvodapedagógusok és segítők fenntartónkénti adatait a köznevelési információs rendszer adatkezelőjének adatszolgáltatása alapozza meg. Ha a támogatást megalapozó adatok az önkormányzat által fenntartott intézményben ténylegesen foglalkoztatott, minősítést elnyert és átsorolt óvodapedagógusok és segítők számával nem egyeznek meg, azok önkormányzat általi módosítására az Ávr. szerinti értesítőben meghatározott módon és határnapig kerülhet sor.
 
 A támogatás folyósítása január hónaptól havonta egyenlő részletekben, az Ávr.-ben meghatározott időpontokban történik.
 
@@ -3917,7 +3960,7 @@ Az adóerő-képesség figyelembevételére vonatkozó szabályokat a Kiegészí
 
 3. Egyes szociális és gyermekjóléti feladatok támogatása
 
-| ELŐIRÁNYZAT: | 51 824,1 millió forint |
+| ELŐIRÁNYZAT: | 54 324,1 millió forint |
 | --- | --- |
 
 a) Család- és gyermekjóléti szolgálat
@@ -4071,21 +4114,25 @@ A támogatás a települési önkormányzatot a házi segítségnyújtás keret�
 
 da) Szociális segítés
 
-| FAJLAGOS ÖSSZEG: | 25 000 forint/fő |
-| --- | --- |
+FAJLAGOS ÖSSZEG: 25 000 forint/fő
 
 A támogatás a Szoctv. 63. § (3) bekezdése és a külön jogszabályban foglalt szakmai szabályok alapján biztosított szociális segítés keretében kizárólag szociális segítésre megállapodást kötött ellátottak után jár. A feladat ellátható közfoglalkoztatottak alkalmazásával, de ez esetben a támogatás kizárólag a feladat ellátásával összefüggő kiadások közfoglalkoztatáshoz kapcsolódó egyéb állami támogatással nem fedezett részére használható fel.
 
+Az ellátottak számának meghatározása: tervezéskor a szociális segítés keretében ellátottak éves becsült száma, elszámoláskor a szociális segítésben részesülők tevékenységnaplója alapján naponta összesített ellátottak száma osztva 251-gyel.
+
 db) Személyi gondozás
 
-| FAJLAGOS ÖSSZEG: | 210 000 forint/fő |
-| --- | --- |
+FAJLAGOS ÖSSZEG: 210 000 forint/fő
 
 A támogatás a Szoctv. 63. § (4) bekezdése és a külön jogszabályban foglalt szakmai szabályok alapján biztosított személyi gondozás keretében kizárólag személyi gondozásra megállapodást kötött ellátottak után jár. E feladat ellátásában közfoglalkoztatottak nem működhetnek közre.
 
-Az ellátottak számának meghatározása: tervezéskor a szociális segítés és személyi gondozás keretében ellátottak éves becsült száma, elszámoláskor a házi segítségnyújtásban részesülők tevékenységnaplója alapján naponta összesített ellátottak száma osztva 251-gyel. A szociális segítés és személyi gondozás tekintetében az ellátottak száma igényléskor és elszámoláskor sem haladhatja meg a befogadott ellátotti létszámot, azon belül a személyi gondozásra befogadott ellátotti létszámot. Egy ellátott naponta csak egyszer és a da)-db) jogcímek közül csak egy jogcímen vehető figyelembe.
+Az ellátottak számának meghatározása: tervezéskor a személyi gondozásra megállapodással rendelkező ellátottak részére nyújtott tevékenység éves becsült óraszáma alapján kalkulált ellátotti létszám. Elszámoláskor a személyi gondozásra megállapodással rendelkezők és az ellátást ténylegesen igénybe vevők számának meghatározása: a tevékenységnapló alapján összesített órák száma osztva 252-vel.
 
-Amennyiben a személyi gondozás feladatának ellátásáról - a Kiegészítő szabályok 5.d)-e) alpontoknak megfelelő - társulás gondoskodik, úgy az ellátottak után a fajlagos összeg 130%-a igényelhető.
+Az ellátotti létszám meghatározása során a személyes gondoskodást nyújtó szociális intézmények szakmai feladatairól és működésük feltételeiről szóló 1/2000. (I. 7.) SzCsM rendelet 2. számú melléklet Kiegészítő szabályok 3. pontja alapján kell eljárni. Amennyiben a gondozást nem heti 40 órában foglalkoztatott szociális gondozó végzi, úgy a gondozásra fordított havi 147 órás órakeret arányosan csökkentve vehető figyelembe. Az ellátottak száma igényléskor és elszámoláskor sem haladhatja meg a befogadott ellátotti létszámot.
+
+Amennyiben a házi segítségnyújtásról – a Kiegészítő szabályok 5. d)-e) pontjának megfelelő – társulás gondoskodik, úgy a személyi gondozásnál figyelembe vett ellátotti létszám után a fajlagos összeg 130%-a igényelhető.
+
+Egy ellátott naponta a da)-db) jogcímek közül csak egy jogcímen vehető figyelembe.
 
 e) Falugondnoki vagy tanyagondnoki szolgáltatás
 
@@ -4103,7 +4150,7 @@ f) Időskorúak nappali intézményi ellátása
 
 A támogatást azok a települési önkormányzatok vehetik igénybe, amelyek a Szoctv. 65/F. §-a alapján és külön jogszabályban foglalt szakmai szabályoknak megfelelően időskorúak nappali ellátását biztosító intézményt tartanak fenn. A támogatás az önkormányzatokat az ellátottak száma szerint illeti meg.
 
-Azon ellátott után, akire vonatkozóan a külön jogszabályban meghatározott intézményen belüli foglalkoztatási támogatást, vagy a megváltozott munkaképességű munkavállalókat foglalkoztató munkáltatók akkreditációjáról, valamint a megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtható költségvetési támogatásokról szóló 327/2012. (XI. 16.) Korm. rendelet (a továbbiakban: 327/2012. (XI. 16.) Korm. rendelet) alapján az akkreditált foglalkoztatónak támogatást folyósítanak, a fenntartó az adott napra csak a támogatás 40%-át igényelheti.
+Azon ellátott után, akire vonatkozóan a külön jogszabályban meghatározott intézményen belüli foglalkoztatási támogatást vagy fejlesztő foglalkoztatás működési támogatását, vagy a megváltozott munkaképességű munkavállalókat foglalkoztató munkáltatók akkreditációjáról, valamint a megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtható költségvetési támogatásokról szóló 327/2012. (XI. 16.) Korm. rendelet (a továbbiakban: 327/2012. (XI. 16.) Korm. rendelet) alapján az akkreditált foglalkoztatónak támogatást folyósítanak, a fenntartó az adott napra csak a támogatás 40%-át igényelheti.
 
 Az ellátottak számának meghatározása: tervezéskor az ellátottak éves becsült száma, elszámolásnál a nappali ellátásban részesülők látogatási és eseménynaplója alapján naponta összesített ellátottak száma - a heti 6, illetve heti 7 napon nyújtott szolgáltatásoknál a 6, illetve 7 nap alapul vételével - osztva 251-gyel. Nem vehetők figyelembe a kizárólag étkeztetésben részesülők.
 
@@ -4116,7 +4163,7 @@ g) Fogyatékos és demens személyek nappali intézményi ellátása
 
 A támogatást azok a települési önkormányzatok vehetik igénybe, amelyek a Szoctv.-ben szabályozott módon és külön jogszabályban meghatározott szakmai szabályok szerint fogyatékosok nappali ellátását, illetve demens ellátást biztosító intézményt tartanak fenn. A demens személyek nappali intézményében a támogatás igénybevételének feltétele, hogy az ellátásban részesülő személy rendelkezzen a Nemzeti Rehabilitációs és Szociális Hivatal, vagy a Pszichiátriai/Neurológiai Szakkollégium által befogadott demencia centrum, vagy pszichiáter, neurológus, geriáter szakorvos demencia kórképet megállapító szakvéleményével.
 
-A támogatás az önkormányzatokat az ellátottak száma szerint illeti meg. Azon ellátott után, akikre vonatkozóan a külön jogszabályban meghatározott intézményen belüli foglalkoztatási támogatást, vagy a 327/2012. (XI. 16.) Korm. rendelet alapján az akkreditált foglalkoztatónak támogatást folyósítanak, a fenntartó az adott napra csak e támogatás 40%-át igényelheti.
+A támogatás az önkormányzatokat az ellátottak száma szerint illeti meg. Azon ellátott után, akikre vonatkozóan a külön jogszabályban meghatározott intézményen belüli foglalkoztatási támogatást vagy fejlesztő foglalkoztatás működési támogatását, vagy a 327/2012. (XI. 16.) Korm. rendelet alapján az akkreditált foglalkoztatónak támogatást folyósítanak, a fenntartó az adott napra csak e támogatás 40%-át igényelheti.
 
 Az ellátottak számának meghatározása: tervezéskor az ellátottak éves becsült száma, elszámolásnál a nappali ellátásban részesülők látogatási és eseménynaplója alapján naponta összesített ellátottak száma - a heti 6, illetve heti 7 napos nyitvatartással működő intézmények esetén a 6, illetve 7 nap alapul vételével - osztva 251-gyel. Nem vehetők figyelembe a kizárólag étkezésben részesülők.
 
@@ -4129,7 +4176,7 @@ h) Pszichiátriai és szenvedélybetegek nappali intézményi ellátása
 
 A támogatást azok a települési önkormányzatok vehetik igénybe, amelyek a Szoctv. 65/F. §-a alapján és külön jogszabályban foglalt szakmai szabályoknak megfelelően pszichiátriai és szenvedélybetegek számára nappali ellátást biztosító intézményt tartanak fenn.
 
-A támogatás az önkormányzatokat az ellátottak száma szerint illeti meg. Azon ellátott után, akikre vonatkozóan a külön jogszabályban meghatározott intézményen belüli foglalkoztatási támogatást, vagy a 327/2012. (XI. 16.) Korm. rendelet alapján az akkreditált foglalkoztatónak támogatást folyósítanak, a fenntartó az adott napra csak e támogatás 40%-át igényelheti.
+A támogatás az önkormányzatokat az ellátottak száma szerint illeti meg. Azon ellátott után, akikre vonatkozóan a külön jogszabályban meghatározott intézményen belüli foglalkoztatási támogatást vagy fejlesztő foglalkoztatás működési támogatását, vagy a 327/2012. (XI. 16.) Korm. rendelet alapján az akkreditált foglalkoztatónak támogatást folyósítanak, a fenntartó az adott napra csak e támogatás 40%-át igényelheti.
 
 Az ellátottak számának meghatározása: tervezéskor az ellátottak éves becsült száma, elszámolásnál az ellátásban részesülők látogatási és eseménynaplója alapján naponta összesített, a Szoctv. szerint az intézménnyel megállapodást kötött ellátottak száma - a heti 6, illetve heti 7 napos nyitvatartással működő intézmények esetén a 6, illetve 7 nap alapul vételével - osztva 251-gyel. Nem vehetők figyelembe a kizárólag étkezésben részesülők és a 30 napnál folyamatosan hosszabb ideig távolmaradók.
 
@@ -4196,6 +4243,25 @@ Az ellátottak számának meghatározása: tervezéskor az ellátottak éves bec
 Amennyiben a családi bölcsődei ellátásról - a Kiegészítő szabályok 5.d)-e) alpontoknak megfelelő - társulás gondoskodik, úgy az ellátottak után a fajlagos összeg 130%-a igényelhető.
 
 A fajlagos támogatás 77,5%-a megilleti a Gyvt. 145. § (2c) bekezdés b) alpontja alapján befogadást nyert napközbeni gyermekfelügyeletet fenntartó önkormányzatokat is.
+
+jc) Bölcsőde, mini bölcsőde kiegészítő támogatása
+
+FAJLAGOS ÖSSZEG: 475 000 forint/fő
+
+A támogatás a ja) alpont szerinti támogatásra jogosult, 32 000 forint egy lakosra jutó adóerő-képességet meg nem haladó települési önkormányzatokat illeti meg az általuk fenntartott bölcsődébe, mini bölcsődébe beíratott és ellátott gyermekek után, az önkormányzat egy lakosra jutó adóerő-képessége szerint differenciált mértékben.
+
+A támogatás mértékét az alábbi táblázat rögzíti:
+
+| No. | Kategóriák a települési önkormányzat egy lakosra jutó adóerő-képessége szerint (forint) |  | Fajlagos összeg %-a |
+| --- | --- | --- | --- |
+|  | alsó határ | felső határ |  |
+| 1. | 0 | 18 000 | 100 |
+| 2. | 18 001 | 24 000 | 50 |
+| 3. | 24 001 | 32 000 | 25 |
+
+Az adóerő-képesség figyelembevételére vonatkozó szabályokat a Kiegészítő szabályok 1.c) alpontja tartalmazza.
+
+A támogatás a ja) alpontnál jelzett létszám alapján 2017. január 1-jétől illeti meg az önkormányzatokat. A támogatás 68%-ának folyósítása az augusztus havi nettó finanszírozás keretében, ezt követően havonta az Ávr. szerinti mértékben történik. A támogatás felhasználásával kapcsolatban a kiegészítő szabályok ja) alpontra vonatkozó rendelkezéseit kell alkalmazni.
 
 k) Hajléktalanok átmeneti intézményei
 
@@ -4335,7 +4401,7 @@ Az intézményüzemeltetési támogatás önkormányzatonkénti meghatározásá
 | ELŐIRÁNYZAT: | 67 240,0 millió forint |
 | --- | --- |
 
-A települési önkormányzatokat kötött felhasználású támogatás illeti meg az általuk a bölcsődében, mini bölcsődében, a fogyatékos személyek nappali intézményében elhelyezett gyermekek számára biztosított, továbbá az óvodai, iskolai, kollégiumi és externátusi gyermekétkeztetés (a továbbiakban intézményi gyermekétkeztetés) egyes kiadásaihoz. A támogatás igénylésének feltétele, hogy az önkormányzat saját fenntartásában lévő költségvetési szerv útján, társult feladatellátás esetén a társulás által fenntartott költségvetési szerv útján, vagy gazdasági társaságtól vásárolt szolgáltatással biztosítsa az étkeztetést. Társult feladatellátás esetén a társulási megállapodás szerinti székhely önkormányzat igényelhet támogatást.
+A települési önkormányzatokat kötött felhasználású támogatás illeti meg az általuk a bölcsődében, mini bölcsődében, a fogyatékos személyek nappali intézményében elhelyezett gyermekek számára biztosított, továbbá az óvodai, iskolai, kollégiumi és externátusi gyermekétkeztetés (a továbbiakban intézményi gyermekétkeztetés) egyes kiadásaihoz. A támogatás igénylésének feltétele, hogy az önkormányzat saját fenntartásában lévő költségvetési szerv útján, társult feladatellátás esetén a társulás által fenntartott költségvetési szerv útján, vagy gazdasági társaságtól, egyéni vállalkozótól, központi költségvetési szervtől vagy nemzetiségi önkormányzattól vásárolt szolgáltatással biztosítsa az étkeztetést. Társult feladatellátás esetén a társulási megállapodás szerinti székhely önkormányzat igényelhet támogatást.
 
 A támogatás igénylésének további feltétele vásárolt szolgáltatás esetén, hogy
 
@@ -4526,14 +4592,14 @@ A támogatás folyósítása egy összegben, 2017. január hónapban történik.
 
 f) Budapest Főváros Önkormányzata múzeumi, könyvtári és közművelődési feladatainak támogatása
 
-| ELŐIRÁNYZAT: | 679,4 millió forint |
+| ELŐIRÁNYZAT: | 682,2 millió forint |
 | --- | --- |
 
 A támogatás Budapest Főváros Önkormányzatát illeti meg a Mötv.-ben, valamint a Kult. tv.-ben meghatározott könyvtári, múzeumi és közművelődési feladatainak ellátásához.
 
 g) Fővárosi kerületi önkormányzatok közművelődési feladatainak támogatása
 
-| ELŐIRÁNYZAT: | 679,4 millió forint |
+| ELŐIRÁNYZAT: | 682,2 millió forint |
 | --- | --- |
 | FAJLAGOS ÖSSZEG: | 400 forint/fő |
 
@@ -4541,7 +4607,7 @@ A támogatás a fővárosi kerületek önkormányzatait lakosságszám alapján 
 
 h) Megyei könyvtár kistelepülési könyvtári célú kiegészítő támogatása
 
-| ELŐIRÁNYZAT: | 2 100,0 millió forint |
+| ELŐIRÁNYZAT: | 2 094,4 millió forint |
 | --- | --- |
 
 A támogatást a megyei könyvtárat fenntartó megyeszékhely megyei jogú város és Szentendre Város Önkormányzata igényelheti a könyvtár által az 5 000 főnél kisebb lakosságszámú - könyvtári szolgáltató helyet működtető - településsel 2016. október 15-éig kötött megállapodások alapján, a következők szerint:
@@ -4697,7 +4763,7 @@ a) Az e melléklet szerinti támogatások 2017. december 31-ig használhatók fe
 
 b) A települési önkormányzatok közigazgatási státuszát a 2016. november 1-jei állapotnak megfelelő, a lakosságszámra és korcsoportba tartozók esetében – a III.3. a) és b) pont szerinti támogatások kivételével – pedig a 2016. január 1-jei állapotnak megfelelő, a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala (a továbbiakban: KEKKH) adatait kell figyelembe venni. A III.3. a) és b) pontja szerinti támogatásokat megalapozó lakosságszám tekintetében a KEKKH 2015. január 1-jei állapotnak megfelelő adatait kell figyelembe venni.
 
-c) Az I.1.c), III.2., III.5.b), III.6. és V. pontok szerinti adóerő-képesség figyelembe vétele a következők szerint történik:
+c) Az I.1.c), III.2., III.3.jc), III.5.b), III.6. és V. pontok szerinti adóerő-képesség figyelembe vétele a következők szerint történik:
 
 A 2015. július 1-jén hatályos iparűzési adórendelettel rendelkező települési önkormányzat a 2016. II. negyedéves költségvetési jelentés keretében szolgáltatott adatot a 2015. évi iparűzési adóalap összegéről. A 2016. II. negyedéves költségvetési jelentés keretében adatot nem szolgáltató önkormányzat esetében az egy lakosra jutó elvárt iparűzési adó megegyezik az adatot szolgáltató községi, nagyközségi önkormányzatok egy lakosra jutó iparűzési adóalapja - a legalacsonyabb és legmagasabb egy lakosra jutó iparűzési adóalapú községi, nagyközségi önkormányzatok egy-egy tizede figyelmen kívül hagyásával - számított átlagával.
 
@@ -4739,7 +4805,7 @@ c) A települési önkormányzatok egymás közötti, illetve települési önko
 |  |  | III.3., III.4. III.5., III.7. | 2017. július 1-jével történő fenntartó-változás jelzése, az a) pont szerinti felmérés során megadott ellátotti adatok megjelölésével, a III.7. pont esetén a felsőfokú végzettségű kisgyermeknevelők és szakemberek intézményváltásának jelzése | 2017. július; III.4. és III.5. esetében 2017. augusztus |
 | 2. | 2017. október 5. | II.4., III.3., III.4.a), III.5.a), III.7. | 2017. december 1-jével történő fenntartóváltozás jelzése, az a) pont szerinti felmérés során megadott adatok megbontásával, továbbá a II.4. jogcím esetében a minősített pedagógusok, a III.7. pont esetén a felsőfokú végzettségű kisgyermeknevelők és szakemberek intézményváltásának jelzése, | 2017. december |
 
-A települési önkormányzat önkormányzati körön kívüli szervezetnek történő átadás-átvétel esetén az átadást, átvételt tanúsító okmányokat a felmérés lezárását követően a Kincstárnak küldi meg. A kérelemhez mellékelni kell az átadó és az átvevő között kötött megállapodást, az átadás-átvételről szóló képviselő-testületi, illetve társulási tanácsi határozat kivonatát, az átvevő feladatellátáshoz szükséges működési engedélyét (szociális ellátások esetében a szolgáltatói nyilvántartásba történő bejegyzést igazoló dokumentumot), valamint a feladatot átadó és átvevő nyilatkozatát arra vonatkozóan, hogy az e törvény alapján számára biztosított támogatások igényléséről vagy lemondásáról gondoskodott.
+A települési önkormányzat önkormányzati körön kívüli szervezetnek történő átadás-átvétel esetén az átadást, átvételt tanúsító okmányokat a felmérés lezárását követően a Kincstárnak küldi meg. A kérelemhez – a II.4. és III.7. pont szerinti támogatások kivételével – mellékelni kell az átadó és az átvevő között kötött megállapodást, az átadás-átvételről szóló képviselő-testületi, illetve társulási tanácsi határozat kivonatát, az átvevő feladatellátáshoz szükséges működési engedélyét (szociális ellátások esetében a szolgáltatói nyilvántartásba történő bejegyzést igazoló dokumentumot), valamint a feladatot átadó és átvevő nyilatkozatát arra vonatkozóan, hogy az e törvény alapján számára biztosított támogatások igényléséről vagy lemondásáról gondoskodott.
 
 Az egyrészről települési önkormányzatok, másrészről települési, területi nemzetiségi önkormányzatok, országos nemzetiségi önkormányzatok, központi költségvetési szervek, valamint nem állami szervezetek közötti feladat-, illetve intézmény átadása-átvétele esetén, amennyiben az intézmény átadás-átvételének időpontja (tényleges átadás-átvétel) nem esik egybe a c) pont szerinti táblázatban szereplő fenntartóváltási időpontokkal (finanszírozási átadás-átvétel), úgy ezen időpontig az érintett felek a finanszírozást pénzeszköz-átadással, -átvétellel egymás közötti megállapodás útján rendezik. A finanszírozási átadás-átvétel időpontjáig időarányos támogatás abban az esetben illeti meg a feladatot, intézményt átadó települési önkormányzatot, ha a feladatot átvevő az intézmény, szolgáltatás tekintetében a tényleges átadás-átvétel időpontjától kezdve működési engedéllyel (szociális ellátások esetében a szolgáltatói nyilvántartásba történő bejegyzést igazoló dokumentummal) rendelkezik. Ellenkező esetben a feladatot, intézményt átadó települési önkormányzat köteles lemondani a tényleges átadás-átvétel időpontjától a finanszírozási átadás-átvétel időpontjáig tartó időszakra jutó időarányos támogatásról.
 
@@ -5018,7 +5084,7 @@ A támogatások kizárólag a támogatás céljaként meghatározott feladatokra
 
 na) a III.1. jogcím szerinti támogatást a települési önkormányzat kizárólag a 2017. évi január-december hónapokban kifizetendő szociális ágazati összevont pótlékra és annak szociális hozzájárulási adójára használhatja fel,
 
-nb) a III.2. jogcím szerinti támogatás a 3. melléklet IV. 6. pont szerinti ellátások önrészére, a III.3. és III.5. jogcímek szerinti feladatokra, a közfoglalkoztatási feladatok egyéb állami támogatással nem fedezett részére, az intézményi gyermekétkeztetés térítési díjának szociális alapon történő egyedi mérséklésére vagy elengedésére, az önkormányzati helyi hatáskörű pénzbeli és természetbeni ellátások nyújtására, valamint az állampolgárok lakáshoz jutásának települési önkormányzatok általi, szociális alapon történő támogatására használható. A támogatás szempontjából kizárólag az „Ellátottak pénzbeli juttatásai” megfelelő rovatain, illetve a „Rövid időtartamú közfoglalkoztatás”, a „Start-munka program - Téli közfoglalkoztatás”, a „Hosszabb időtartamú közfoglalkoztatás”, a „Közfoglalkoztatás mobilitását szolgáló támogatás (közhasznú kölcsönző részére)”, az „Országos közfoglalkoztatási program”, a „Közfoglalkoztatási mintaprogram”, a „Lakáshoz jutást segítő támogatások”, a „Lakóingatlan szociális célú bérbeadása, üzemeltetése”, a „Lakásfenntartással, lakhatással összefüggő ellátások” kormányzati funkciókon, valamint az nc) és ne) pontokban szereplő kormányzati funkciókon elszámolt kiadások vehetők figyelembe,
+nb) a III.2. jogcím szerinti támogatás a 3. melléklet IV. 6. pont szerinti ellátások önrészére, a A III.3., III.5. és III.6. jogcímek szerinti feladatokra, a közfoglalkoztatási feladatok egyéb állami támogatással nem fedezett részére, az önkormányzati helyi hatáskörű pénzbeli és természetbeni ellátások nyújtására, valamint az állampolgárok lakáshoz jutásának települési önkormányzatok általi, szociális alapon történő támogatására használható. A támogatás szempontjából kizárólag az „Ellátottak pénzbeli juttatásai” megfelelő rovatain, illetve a „Rövid időtartamú közfoglalkoztatás”, a „Start-munka program - Téli közfoglalkoztatás”, a „Hosszabb időtartamú közfoglalkoztatás”, a „Közfoglalkoztatás mobilitását szolgáló támogatás (közhasznú kölcsönző részére)”, az „Országos közfoglalkoztatási program”, a „Közfoglalkoztatási mintaprogram”, a „Lakáshoz jutást segítő támogatások”, a „Lakóingatlan szociális célú bérbeadása, üzemeltetése”, a „Lakásfenntartással, lakhatással összefüggő ellátások”, az „Egyéb szociális pénzbeli és természetbeni ellátások, támogatások” kormányzati funkciókon, valamint az nc), ne) és nf) pontokban szereplő kormányzati funkciókon elszámolt kiadások vehetők figyelembe. Amennyiben az önkormányzat a III.3., III.5. és III.6 szerinti feladatokra támogatásban nem részesül, de e feladatok ellátásához társulás vagy másik önkormányzat felé „Támogatási célú finanszírozási műveletek” kormányzati funkción teljesített kiadással hozzájárul, úgy ennek összege a támogatás elszámolása szempontjából figyelembe vehető,
 
 nc) a III.3.a)-m) alpontok között átcsoportosítás hajtható végre. A támogatás szempontjából kizárólag a „Család- és gyermekjóléti szolgáltatás”, „Család- és gyermekjóléti központ”, a „Szociális étkeztetés”, a „Házi segítségnyújtás”, a „Falugondnoki, tanyagondnoki szolgáltatás”, az „Időskorúak nappali ellátása”, a „Demens betegek nappali ellátása”, a „Fogyatékossággal élők nappali ellátása”, a „Pszichiátriai betegek nappali ellátása”, a „Szenvedélybetegek nappali ellátása”, a „Hajléktalanok nappali ellátása”, a „Bölcsődei ellátás”, a „Gyermekek egyéb napközbeni ellátása”, a „Hajléktalanok átmeneti ellátása”, a „Támogató szolgáltatás fogyatékos személyek részére”, a „Pszichiátriai betegek közösségi alapellátása” és a„Szenvedélybetegek közösségi alapellátása (kivéve: alacsonyküszöbű ellátás)” kormányzati funkciókon elszámolt kiadások vehetők figyelembe,
 
@@ -5167,7 +5233,7 @@ Az előirányzat a települési önkormányzatok pénzügyi-gazdálkodási felad
 
 A támogatás az államháztartási adatszolgáltatások teljesítésében közreműködő dolgozók személyi juttatásaira, továbbképzésére, az önkormányzat által alkalmazott könyvelő programokra, az adatszolgáltatásokhoz kötődő eszközbeszerzésre fordítható.
 
-A támogatásról az államháztartásért felelős miniszter dönt. A vissza nem térítendő támogatás folyósítása előfinanszírozás keretében, egy összegben történik, felhasználásának határideje tárgyév december 31-e.
+A támogatásról az államháztartásért felelős miniszter dönt. A vissza nem térítendő támogatás folyósítása előfinanszírozás keretében, egy összegben történik, felhasználásának határideje tárgyévet követő év december 31-e.
 
 b) Jó adatszolgáltató önkormányzatok támogatása
 
@@ -5418,6 +5484,78 @@ A támogatás felhasználásának részletes szabályairól a helyi önkormányz
 
 A támogatás felhasználási határideje - ideértve a 2017. november 15-éig el nem számolt előleget is - 2018. december 31.
 
+11. Mini bölcsődei férőhelyek kialakításának támogatása
+
+Előirányzat: 800,0 millió forint
+
+Az előirányzatból a 10 000 lakos alatti, 20 000 forint egy lakosra jutó adóerő-képességet meg nem haladó települési önkormányzat pályázati úton támogatást igényelhet mini bölcsőde kialakítására, amennyiben a településen nem működik bölcsőde, mini bölcsőde, továbbá a település 3 év alatti lakosainak száma meghaladja a 40 főt.
+
+Az igényelhető maximális támogatás mértéke 10,0 millió forint.
+
+A támogatásból megvalósuló beruházást a beruházás megvalósításától számított 10 évig az eredeti rendeltetésének megfelelően saját (ideértve a pályázó részvételével működő társulást is) fenntartásban kell működtetni. Nem igényelhet támogatást az az önkormányzat, mely a 2014-2020. évek közötti uniós programozási időszakban azonos célra rendelkezésre álló európai uniós támogatásban részesült.
+
+A támogatásról az államháztartásért felelős miniszter dönt. A vissza nem térítendő támogatás folyósítása előfinanszírozás keretében, egy összegben történik.
+
+12. Kistelepülési önkormányzatok alacsony összegű fejlesztéseinek támogatása
+
+Előirányzat: 1 944,8 millió forint
+
+Az előirányzatból a 2 000 lakos alatti, 12 000 forint egy lakosra jutó adóerő-képességet meg nem haladó települési önkormányzat pályázati úton támogatást igényelhet az alábbi célokra:
+
+a) a település belterületén út, híd vagy járda építésére, felújítására, karbantartására,
+
+b) vízrendezési és csapadékelvezetési rendszer kiépítésére, felújítására,
+
+c) köztemető felújítására, ravatalozó építésére illetve felújítására, temetőközlekedési utak építésére, felújítására,
+
+d) olyan épület felújítására, fejlesztésére, illetve energetikai korszerűsítésére és szükség esetén megvásárlására, amely
+
+da) igazgatási tevékenységet,
+
+db) óvodai nevelést,
+
+dc) kulturális tevékenységet vagy
+
+dd) szociális vagy egészségügyi vagy gyermekvédelmi
+
+feladatellátást szolgál,vagy a jövőben fog szolgálni,
+
+e) településrendezési tervek készítésére.
+
+Az igényelhető maximális támogatás mértéke:
+
+– 100 főt meg nem haladó lakosságszámú település esetében legfeljebb 500 000 forint,
+
+– 101-300 fő lakosságszám közötti település esetében legfeljebb 750 000 forint,
+
+– 301-500 fő lakosságszám közötti település esetében legfeljebb 1 000 000 forint,
+
+– 501-1 000 fő lakosságszám közötti település esetében legfeljebb 1 250 000 forint,
+
+– 1 001-2 000 fő lakosságszám közötti település esetében legfeljebb 1 600 000 forint.
+
+A támogatásból megvalósuló beruházást a beruházás megvalósításától számított 10 évig az eredeti rendeltetésének megfelelően saját (ideértve a pályázó részvételével működő társulást is) fenntartásban kell működtetni.
+
+A támogatásról a helyi önkormányzatokért felelős miniszter dönt. A vissza nem térítendő támogatás folyósítása előfinanszírozás keretében, egy összegben történik.
+
+13. Pestszentimrei gyermekorvosi rendelő kialakításának támogatása
+
+Előirányzat: 350,0 millió forint
+
+Az előirányzat szolgál a Budapest Főváros XVIII. kerület Pestszentlőrinc - Pestszentimre Önkormányzata támogatására a Pestszentimrei gyermekorvosi rendelő kialakítása érdekében. A támogatás felhasználásának részletes szabályairól az egészségügyért felelős miniszter – mint támogató – támogatási szerződést köt Budapest Főváros XVIII. kerület Pestszentlőrinc - Pestszentimre Önkormányzatával. A támogatás 50%-ának (a továbbiakban: előleg) folyósítása a támogatási szerződés megkötését követő 30 napon belül történik és a további részletek tárgyévi – szerződés szerinti – folyósítására csak abban az esetben kerülhet sor, ha az önkormányzat az előleget felhasználja és azzal legkésőbb tárgyév november 15-éig elszámol.
+
+A támogatás felhasználási határideje – ideértve a tárgyév november 15-éig el nem számolt előleget is – tárgyévet követő év december 31-e.
+
+14. Helyi érdekű települési fejlesztések
+
+Előirányzat: 4 700,0 millió forint
+
+Az előirányzat szolgál a helyi érdekű, önkormányzati tulajdonban álló – vagy a fejlesztés révén önkormányzati tulajdonba kerülő – ingatlanok, közterületek fejlesztésére, ingóságok beszerzésére.
+
+A támogatás igénylésének, döntési rendszerének, folyósításának, felhasználásának, elszámolásának és ellenőrzésének részletes szabályait az államháztartásról szóló 2011. évi CXCV. törvény 109. § (5) bekezdésének megfelelően a helyi önkormányzatokért felelős miniszter állapítja meg.
+
+A támogatás felhasználási határideje tárgyévet követő év december 31-e.
+
 III. Önkormányzatok rendkívüli támogatása
 
 | Előirányzat: | 11 000,0 millió forint |
@@ -5452,7 +5590,7 @@ IV. Önkormányzati elszámolások
 
 a) a költségvetési évet megelőző évi elszámolás alapján a helyi önkormányzatok által költségvetési évben visszafizetett támogatások összege,
 
-b) a kincstári felülvizsgálat, illetve az Állami Számvevőszék ellenőrzése alapján a helyi önkormányzatok által jogtalanul igénybe vett támogatások költségvetési évben visszafizetett összege,
+b) az önellenőrzés, a kincstári felülvizsgálat, illetve az Állami Számvevőszék ellenőrzése alapján a helyi önkormányzatok által jogtalanul igénybe vett támogatások költségvetési évben visszafizetett összege,
 
 c) a helyi önkormányzatok által költségvetési évben megfizetett ügyleti és késedelmi kamat összege,
 
@@ -5470,7 +5608,7 @@ g) az államháztartásért felelős miniszter és a helyi önkormányzatokért 
 
 a) a támogatások költségvetési évet megelőző évi elszámolása alapján a helyi önkormányzatok részéről a költségvetési évben keletkező pótigény összege,
 
-b) a kincstári felülvizsgálat, illetve az Állami Számvevőszék ellenőrzése alapján a helyi önkormányzatokat pótlólagosan megillető támogatások költségvetési évben kifizetett összege,
+b) az önellenőrzés, a kincstári felülvizsgálat, illetve az Állami Számvevőszék ellenőrzése alapján a helyi önkormányzatokat pótlólagosan megillető támogatások költségvetési évben kifizetett összege,
 
 c) az államháztartásról szóló jogszabályok alapján költségvetési évben a helyi önkormányzatokat megillető ügyleti és késedelmi kamat összege,
 
@@ -5478,7 +5616,9 @@ d) a helyi önkormányzatok által az Áht. 83. § (6a) bekezdésében felsorolt
 
 e) a helyi szervezési intézkedésekhez kapcsolódó többletkiadások támogatása jogcímen az előző években jóváhagyott, tárgyévre áthúzódó kötelezettségvállalások,
 
-f) a prémiumévek programról és a különleges foglalkoztatási állományról szóló 2004. évi CXXII. törvény szerinti tárgyévi munkáltatói kifizetések.
+f) a prémiumévek programról és a különleges foglalkoztatási állományról szóló 2004. évi CXXII. törvény szerinti tárgyévi munkáltatói kifizetések,
+
+g) az önellenőrzés és a kincstári felülvizsgálat során a helyi önkormányzat javára megállapított visszatérítés összege.
 
 4. Az előirányzat szolgál a 2016. évi költségvetési törvény 3. melléklet II.9. és IV. pontjában szereplő azon költségvetési támogatások le nem hívott részének forrásául, amelyek esetében 2016. évben csak az előleg kifizetése történt meg. A 2016-ban le nem hívott, de 2017-ben esedékessé váló támogatások vonatkozásában a támogató jogosult a 2016. évi támogatási szerződés, illetve kiadott támogatói okirat módosítására. E támogatások 2017. évi folyósítására csak abban az esetben kerülhet sor, ha az önkormányzat a 2016. évben kapott támogatással (előleggel) legkésőbb 2017. november 15-éig elszámol. A támogatás felhasználási határideje 2018. december 31.
 
@@ -5508,7 +5648,11 @@ Az e pont szerint biztosított támogatás kizárólag az abban meghatározott c
 
 A támogatás szempontjából kizárólag az egységes rovatrend „Ellátottak pénzbeli juttatásai” megfelelő rovatain elszámolt kiadások vehetők figyelembe.
 
-Az előirányzat 1-6. pontok szerinti célokra fel nem használt összegének felhasználására, átcsoportosítására kizárólag az államháztartásért felelős miniszter egyetértésével kerülhet sor.
+Az előirányzat 1-7. pontok szerinti célokra fel nem használt összegének felhasználására, átcsoportosítására kizárólag az államháztartásért felelős miniszter egyetértésével kerülhet sor.
+
+7. Az előirányzat szolgál fedezetül a helyi önkormányzat és társulása 2007-2013 programozási időszak európai uniós, valamint a Svájci-Magyar Együttműködési Program fejlesztési célú pályázataihoz szükséges saját forrás kiegészítésére a korábbi években megítélt és támogatási szerződésben rögzített központi költségvetési támogatásból adódó fizetési kötelezettségek teljesítésére.
+
+Kifizetés a 2007-2013 programozási időszak európai uniós fejlesztési célú pályázataihoz szükséges saját forrás kiegészítésére csak abban az esetben történhet, amennyiben a közreműködő szervezet a költségigazolást tartalmazó igazoló adatlapot 2016. december 1-je után adta ki.
 
 V. Vis maior támogatás
 
@@ -5529,13 +5673,13 @@ c) az I.5. és II.1. pontok szerinti jogcímek esetében a közlekedésért fele
 
 d) az I.6. pont szerinti jogcím esetében az államháztartásért felelős miniszter,
 
-e) az I.7., II.2. és III. pontok szerinti jogcímek esetében a helyi önkormányzatokért felelős miniszter az államháztartásért felelős miniszterrel közösen,
+e) az I.7., II.2., II.12. és III. pontok szerinti jogcímek esetében a helyi önkormányzatokért felelős miniszter az államháztartásért felelős miniszterrel közösen,
 
 f) a II.3. pont szerinti jogcím esetében az államháztartásért felelős miniszter a helyi önkormányzatokért felelős miniszter és az oktatásért felelős miniszter egyetértésével,
 
 g) a II.4. pont szerinti jogcímek esetében a kultúráért felelős miniszter a helyi önkormányzatokért felelős miniszter és az államháztartásért felelős miniszter egyetértésével,
 
-h) a II.6. pont szerinti jogcím esetében az államháztartásért felelős miniszter a helyi önkormányzatokért felelős miniszter és a szociál- és nyugdíjpolitikáért felelős miniszter egyetértésével
+h) a II.6 és II.11. pont szerinti jogcím esetében az államháztartásért felelős miniszter a helyi önkormányzatokért felelős miniszter és a szociál- és nyugdíjpolitikáért felelős miniszter egyetértésével
 
 írja ki.
 
@@ -5543,9 +5687,11 @@ h) a II.6. pont szerinti jogcím esetében az államháztartásért felelős min
 
 a) az I.4., I.5. és II.1. pontok szerinti jogcímek esetében a közlekedésért felelős miniszter,
 
-b) az I.6., II.3. és a II.6. pontok szerinti jogcímek esetében az államháztartásért felelős miniszter,
+b) az I.6., II.3., II.6. és II.11. pontok szerinti jogcímek esetében az államháztartásért felelős miniszter,
 
-c) az I.3., II.4., II.7. és II.8. pontok szerinti jogcímek esetében a kultúráért felelős miniszter.
+c) az I.3., II.4., II.7. és II.8. pontok szerinti jogcímek esetében a kultúráért felelős miniszter,
+
+d) a II.13. pont szerinti jogcím esetében az egészségügyért felelős miniszter.
 
 3. Az e melléklet szerinti támogatások igénylési és döntési eljárására nem kell alkalmazni a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény szabályait.
 
@@ -5620,6 +5766,7 @@ c) az I.3., II.4., II.7. és II.8. pontok szerinti jogcímek esetében a kultúr
 | 60 |  |  |  | Jótállással, szavatossággal kapcsolatos kifizetések (2. cím, 3. alcím, 1. jogcímcsoport) |
 | 61 |  |  |  | Kezesi felelősségből eredő kifizetések (2. cím, 3. alcím, 2. jogcímcsoport) |
 | 62 |  |  |  | Konszernfelelősség alapján történő kifizetések (2. cím, 3. alcím, 3. jogcímcsoport) |
+| 62a |  |  |  | Kárpótlási jegyek életjáradékra váltása (2. cím, 3. alcím, 5. jogcímcsoport) |
 | 63 |  |  |  | Egyéb bírósági döntésből eredő kiadások (2. cím, 3. alcím, 6. jogcímcsoport) |
 | 64 |  |  |  | Egyéb szerződéses kötelezettségekből eredő kifizetések (2. cím, 3. alcím, 7. jogcímcsoport) |
 | 65 |  |  |  | ÁFA elszámolás (2. cím, 4. alcím, 4. jogcímcsoport) |
@@ -5632,6 +5779,7 @@ c) az I.3., II.4., II.7. és II.8. pontok szerinti jogcímek esetében a kultúr
 | 72 |  |  | LXXI. NYUGDÍJBIZTOSÍTÁSI ALAP fejezetben |  |
 | 73 |  |  |  | Öregségi nyugdíj (2. cím, 1. alcím, 1. jogcímcsoport) |
 | 74 |  |  |  | Hozzátartozói nyugellátás (2. cím, 1. alcím, 3. jogcímcsoport) |
+| 74a |  |  |  | Nyugdíjprémium céltartalék (2. cím, 1. alcím, 5. jogcímcsoport) |
 | 75 |  |  |  | Nyugdíjbiztosítás egyéb kiadásai (2. cím, 4. alcím) |
 | 76 |  |  |  | Vagyongazdálkodás (3. cím) |
 | 77 |  |  | LXXII. EGÉSZSÉGBIZTOSÍTÁSI ALAP fejezetben |  |
@@ -5659,6 +5807,7 @@ c) az I.3., II.4., II.7. és II.8. pontok szerinti jogcímek esetében a kultúr
 | 99 |  |  | XI. MINISZTERELNÖKSÉG fejezetben |  |
 | 100 |  |  |  | Fővárosi és megyei kormányhivatalok peres ügyei (30. cím, 5. alcím) |
 | 101 |  |  | XII. FÖLDMŰVELÉSÜGYI MINISZTÉRIUM fejezetben |  |
+| 101a |  |  |  | Egyéb, EU által nem térített kiadások (20. cím, 7. alcím, 2. jogcímcsoport) |
 | 102 |  |  |  | Peres ügyek (20. cím, 13. alcím) |
 | 103 |  |  | XIII. HONVÉDELMI MINISZTÉRIUM fejezetben |  |
 | 104 |  |  |  | NATO és EU felajánlás alapján kialakításra kerülő készenléti alegységek alkalmazásának kiadásai (NRF, Battle Group, DCM és NFIU) (8. cím, 2. alcím, 1. jogcímcsoport) |
@@ -5683,6 +5832,7 @@ c) az I.3., II.4., II.7. és II.8. pontok szerinti jogcímek esetében a kultúr
 | 123 |  |  |  | Hit- és erkölcstanoktatás és tankönyvtámogatás (20. cím, 2. alcím, 4. jogcímcsoport) |
 | 124 |  |  |  | Peres ügyek (20. cím, 5. alcím, 4. jogcímcsoport) |
 | 125 |  |  |  | Szociális célú nem állami humánszolgáltatások támogatása (20. cím, 19. alcím, 1. jogcímcsoport) |
+| 125a |  |  |  | Szociális humánszolgáltatók részére biztosított szociális- és gyermekvédelmi ágazati pótlék, és egyéb ágazati bérrendezé ssel összefüggő támogatások (20. cím, 19. alcím, 8. jogcímcsoport) |
 | 126 |  |  | XLII. A KÖLTSÉGVETÉS KÖZVETLEN BEVÉTELEI ÉS KIADÁSAI fejezetben |  |
 | 127 |  |  |  | Átmeneti hulladék-közszolgáltatással kapcsolatos kiadások (32. cím, 1. alcím, 25. jogcímcsoport) |
 | 128 |  |  |  | Filmszakmai közvetett támogatások mozgókép törvény szerinti kiegészítő finanszírozása (32. cím, 1. alcím, 28. jogcímcsoport) |
@@ -5787,7 +5937,7 @@ b) A 40. § (3) bekezdés a) pontjában meghatározott átlagbéralapú támogat
 
 2. Az átlagbéralapú támogatás megállapítása
 
-2.1. Óvodában az átlagbéralapú támogatást, beleértve a minősítéssel összefüggő többlettámogatást is a 2. melléklet II. pont 1. és 4. alpontja szerint kell megállapítani.
+2.1. Óvodában az átlagbéralapú támogatás beleértve a minősítéssel összefüggő többlettámogatást is a 2. melléklet II. pont 1. és 4. alpontja szerint kell megállapítani azzal, hogy az óvodapedagógusok nevelőmunkáját nem pedagógus végzettséggel, vagy szakképzettséggel közvetlenül segítők átlagbérének és közterheinek elismert összege a 4. alpont b) pont ba) alpontjában foglaltaknak megfelelően kerül meghatározásra az Nkt. 8. § (6) bekezdésének figyelembevételével.
 
 2.2. Az iskolában, kollégiumban, gyógypedagógiai, konduktív pedagógiai nevelési-oktatási, valamint pedagógiai szakszolgálati intézményben az átlagbéralapú támogatást
 
@@ -5797,7 +5947,7 @@ b) a nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatott
 
 szerint kell megállapítani.
 
-Az egy főre jutó átlagbér az iskolatípusra, kollégiumra, gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézményre, pedagógiai szakszolgálati intézményre számított, az állami intézményfenntartó központ által fenntartott intézményekben intézménytípusonként pedagógus-munkakörben, valamint nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottak éves személyi juttatása és járulékai együttes összegének és az előbbinek megfelelő létszámhányadosa. A pedagógiai szakszolgálati intézményben nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottak finanszírozott létszáma fenntartói szinten nem haladhatja meg a pedagógiai szakszolgálati intézményben a pedagógus-munkakörre megállapított finanszírozott létszám 8%-át.
+Az egy főre jutó átlagbér az iskolatípusra, kollégiumra, gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézményre, pedagógiai szakszolgálati intézményre számított, az állami intézményfenntartók által fenntartott intézményekben intézménytípusonként pedagógus-munkakörben, valamint nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottak éves személyi juttatása és járulékai együttes összegének és az előbbinek megfelelő létszámhányadosa. A pedagógiai szakszolgálati intézményben nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottak finanszírozott létszáma fenntartói szinten nem haladhatja meg a pedagógiai szakszolgálati intézményben a pedagógus-munkakörre megállapított finanszírozott létszám 8%-át.
 
 3. A Magyarország területén külföldi állam vagy nemzetközi szervezet oktatási programja szerint az oktatásért felelős miniszter engedélye alapján működő nevelési-oktatási intézmény Magyarországon nyilvántartásba vett fenntartója az ilyen intézmény által pedagógus-munkakörben foglalkoztatott személy után átlagbéralapú támogatásra akkor jogosult, ha
 
@@ -5821,7 +5971,7 @@ ac) szakközépiskolában – beleértve a Köznevelési és Szakképzési Hídp
 
 pótlólagosan elismert összeg a 2017/2018. tanítási évre 40 800 forint/számított létszám/3 hónap,
 
-ad) szakiskolában és készségfejlesztő speciális szakiskolában 4 800 700 forint/számított létszám/év,
+ad) szakiskolában és készségfejlesztő szakiskolában 4 800 700 forint/számított létszám/év,
 
 pótlólagosan elismert összeg a 2017/2018. tanítási évre 40 800 forint/számított létszám/3 hónap,
 
@@ -5861,23 +6011,29 @@ am) köznevelési intézményben működő utazó gyógypedagógusi utazó kondu
 
 pótlólagosan elismert összeg a 2017/2018. tanítási évre 40 800 forint/számított létszám/3 hónap.
 
-b) Az iskolában, a kollégiumban, a gyógypedagógiai, a konduktív pedagógiai nevelési-oktatási, valamint a pedagógiai szakszolgálati intézményben a nevelő-oktató munkát közvetlenül segítők átlagbérének és közterheinek elismert összege 2 190 700 forint/számított létszám/év. A pedagógus szakképzettséggel rendelkező, a nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottakat az a) pont szerint kell figyelembe venni.
+b) A nem pedagógus végzettséggel, vagy szakképzettséggel rendelkező nevelő és oktató munkát közvetlenül segítők átlagbérének és közterheinek elismert összege
+
+ba) az óvodákban 2 167 000 forint/számított létszám/év.
+
+bb) az iskolában, a kollégiumban, a gyógypedagógiai, a konduktív pedagógiai nevelési-oktatási, valamint a pedagógiai szakszolgálati intézményben 2 593 000 forint/számított létszám/év.
 
 c) Az Nkt. 2. § (3) bekezdés b) pont bd) alpontja szerinti fenntartók köznevelési feladatot ellátó intézményeiben foglalkoztatott pedagógusok, valamint a nevelő-oktató munkát közvetlenül segítők átlagbére és közterhei elismert összege az a)-b) és d) pontban, valamint a 2. pont 2.1. alpontban meghatározottak 30%-a a köznevelést alapfeladatként végző, a társasági adóról és osztalékadóról szóló 1996. évi LXXXI. törvény hatálya alá tartozó gazdasági társaság – ide nem értve a nonprofit gazdasági társaságot –, továbbá a személyi jövedelemadóról szóló 1995. évi CXVII. törvény hatálya alá tartozó vállalkozó esetén.
 
-d) Az iskolában, a kollégiumban, a gyógypedagógiai, a konduktív pedagógiai nevelési-oktatási, valamint a pedagógiai szakszolgálati intézményben a minősítő vizsga és a minősítési eljárás keretében elnyert minősítés alapján az Nkt. 64. § (4) bekezdés c)-e) pontjai szerinti fokozatba besorolt, 2017. január 1-jén – 2017/2018-as tanévben 2017. október 1-jén – pedagógus-munkakörben foglalkoztatott pedagógusoknak az elnyert minősítéssel járó bérnövekmény és az ahhoz kapcsolódó 27%-os mértékkel számított munkaadókat terhelő járulék és szociális hozzájárulási adó elismert összege
+d) Az iskolában, a kollégiumban, a gyógypedagógiai, a konduktív pedagógiai nevelési-oktatási, valamint a pedagógiai szakszolgálati intézményben az Nkt. 64. §-a szerinti előmeneteli rendszer keretén belül lebonyolított minősítési eljárás során 2017. január 1-jén Pedagógus II., Mesterpedagógus vagy Kutatótanár fokozatú besorolással rendelkező pedagógusok, valamint Pedagógus II. fokozatba átsorolt pedagógus, és pedagógus szakképzettséggel rendelkező nevelő és oktató munkát közvetlenül segítők esetén a bérnövekmény és közterheinek elismert összege
 
 – Pedagógus I. fokozatból Pedagógus II. fokozatba lépés és
 
-= középfokú vagy alapfokozatú végzettség esetén 418 900 forint/fő/év,
+= középfokú vagy alapfokozatú végzettség esetén 396 000 forint/fő/év,
 
-= mesterfokozatú végzettség esetén 459 200 forint/fő/év,
+= mesterfokozatú végzettség esetén 435 000 forint/fő/év,
 
 – Mesterpedagógus, vagy Kutatótanár fokozatba lépés és
 
-= középfokú vagy alapfokozatú végzettség esetén 1 530 600 forint/fő/év,
+= középfokú vagy alapfokozatú végzettség esetén 1 448 000 forint/fő/év,
 
-= mesterfokozatú végzettség esetén 1 684 800 forint/fő/év.
+= mesterfokozatú végzettség esetén 1 594 000 forint/fő/év.
+
+A támogatás elszámolásánál a 2017. január 1-je és 2017. december 31-e között ténylegesen foglalkoztatott pedagógusok és pedagógus szakképzettséggel, szakképesítéssel rendelkező nevelő és oktató munkát közvetlenül segítők időarányosan figyelembe vett, egy tizedesre kerekített létszáma alapján illeti meg a fenntartót a következők szerint:
 
 da) A teljes összeg illeti meg a fenntartót azon pedagógusok után, akik a minősítést 2015. december 31-éig szerezték meg.
 
@@ -5964,7 +6120,7 @@ kb) általános iskolája esetében 3,7 fő tanulónként 1 fő pedagógus,
 
 kc) középiskolája esetében 6,2 fő tanulónként 1 fő pedagógus,
 
-kd) szakiskolája esetében 6 fő tanulónként 1 fő pedagógus, készségfejlesztő speciális szakiskolája esetében 4 fő tanulónként 1 fő pedagógus,
+kd) szakiskolája esetében 6 fő tanulónként 1 fő pedagógus, készségfejlesztő szakiskolája esetében 4 fő tanulónként 1 fő pedagógus,
 
 ke) kollégiuma esetében 7,8 fő tanulónként 1 fő pedagógus,
 
@@ -5998,11 +6154,11 @@ kell figyelembe venni.
 
 3. Az alapfokú művészetoktatásban részt vevő tanulót az átlagbéralapú támogatásnál számított tanulólétszámot öttel elosztva kell figyelembe venni.
 
-4. A nemzetiségi önkormányzat a 2. alpont a)-b) pont szerinti gyermek- és tanulólétszám esetén kizárólag a nemzetiségi nevelésben, oktatásban részt vevőt veheti figyelembe.
+4. A nemzetiségi önkormányzat óvoda, kollégium és iskola esetén kizárólag a nemzetiségi nevelésben, oktatásban vagy kiegészítő nemzetiségi oktatásban részt vevő gyermekeket, tanulókat veheti figyelembe.
 
 5. A szakképző iskola tanulóját – figyelemmel a 2. d) pontban leírtakra –az átlagbéralapú támogatáshoz számított létszámmal kell figyelembe venni.
 
-6. Ha az iskola büntetés-végrehajtási intézményben vagy javítóintézetben működik, a tanulók után e támogatás nem igényelhető.
+6. Ha az iskola büntetés-végrehajtási intézményben vagy javítóintézetben működik, a tanulók után e támogatásra a fenntartó nem jogosult.
 
 7. A működési támogatás megállapításakor a nevelési-oktatási intézmény esetében a nevelési évi, tanévi október 1-jei gyermek-, illetve tanulólétszámot (a költségvetési éven belül 8 és 4 havi létszám) két tizedesre kerekítve kell kiszámítani.
 
@@ -6010,19 +6166,23 @@ III. A KÖZNEVELÉSI FELADATOT ELLÁTÓ INTÉZMÉNYT FENNTARTÓ SZERVEZETEK TANK
 
 1. A 40. § (1) bekezdés c) pontjában meghatározott fenntartó
 
-a) az Nkt. szerinti ingyenes tankönyvek biztosítása érdekében a nappali rendszerű iskola, a nappali rendszerű nemzetiségi és gyógypedagógiai, konduktív pedagógiai feladatot ellátó iskola (a továbbiakban együtt: iskola)
+a) az Nkt. szerinti ingyenes tankönyvek biztosítása érdekében a nappali rendszerű iskola, a nappali rendszerű nemzetiségi és gyógypedagógiai, konduktív pedagógiai feladatot ellátó iskola
 
-aa) első és ötödik évfolyamán 2017. október 1-jén tanulói jogviszonyban álló tanulók létszáma alapján 12 000 forint/fő/év,
+aa) első-negyedik évfolyamán 2017. október 1-jén tanulói jogviszonyban álló tanulók létszáma alapján 9 000 forint/fő/év,
 
-ab) második-negyedik évfolyamán, amennyiben a tanulók 2017. október 1-jei létszáma meghaladja a 2016/2017-es tanév második-negyedik évfolyamára beiratkozott tanulók 2016. október 1-jei létszámát, a többletlétszám alapján 12 000 forint/fő/év,
+ab) ötödik, hatodik és nyolcadik évfolyamán 2017. október 1-jén tanulói jogviszonyban álló tanulók létszáma alapján 12 000 forint/fő/év,
 
-b) az a) pont szerinti tanulók kivételével, az általános iskolával vagy középfokú iskolával tanulói jogviszonyban álló nappali rendszerű iskolai oktatásban és jogszabályban meghatározott normatív kedvezményekben részesülő tanulók 2017. október 1-jei létszáma alapján 12 000 forint/fő/év
+ac) hetedik évfolyamán 2017. október 1-jén a tanulói jogviszonyban álló tanulók létszáma alapján 15 000 forint/fő/év,
+
+ad) kilencedik évfolyamán 2017. október 1-jén tanulói jogviszonyban álló tanulók létszáma alapján 20 000 forint/fő/év,
+
+b) az a) pont szerinti tanulók kivételével, a középfokú iskolával tanulói jogviszonyban álló nappali rendszerű iskolai oktatásban és jogszabályban meghatározott normatív kedvezményekben részesülő tanulók 2017. október 1-jei létszáma alapján 12 000 forint/fő/év
 
 összegű tankönyvtámogatásra jogosult.
 
 2. A tankönyvtámogatásokkal összefüggésben egy tanulót csak egy jogcímen lehet figyelembe venni.
 
-3. A tankönyvtámogatásokat az oktatásért felelős miniszter utalványozása alapján 2017. augusztus 25-éig folyósítja a kincstár.
+3. A tankönyvtámogatások tekintetében az oktatásért felelős miniszter utalványozása és a Könyvtárellátó Közhasznú Nonprofit Korlátolt Felelősségű Társaság – 2017. július 10-ig a kincstár részére megküldött – fenntartónkénti adatszolgáltatása alapján a kincstár 2017. augusztus 25-éig erre irányuló külön határozat meghozatala nélkül, támogatási előleget folyósít. A folyósított előleg és a ténylegesen járó tankönyvtámogatás különbözetének rendezése a VI. Kiegészítő szabályok pont 3. pontja figyelembevételével a nemzeti köznevelésről szóló törvény végrehajtásáról szóló 229/2012. (VIII. 28.) Korm. rendelet (a továbbiakban: 229/2012. Korm. rendelet) 37/J. § (5) bekezdésében foglaltak szerint történik.
 
 IV. A BEVETT EGYHÁZ ÁLTAL AZ ÁLLAMI ISKOLÁBAN SZERVEZETT HIT- ÉS ERKÖLCSTANOKTATÁSHOZ KAPCSOLÓDÓ TÁMOGATÁS
 
@@ -6060,11 +6220,11 @@ A kiegészítő támogatás fajlagos összege 28 400 forint/fő/év.
 
 VI. KIEGÉSZÍTŐ SZABÁLYOK
 
-1. Az átlagbéralapú támogatás a személyi juttatások és az azokhoz kapcsolódó 27%-os mértékkel számított munkaadókat terhelő járulék és szociális hozzájárulási adó kifizetéséhez, a dologi kiadások, az ellátottak pénzbeli juttatásai és egyéb működési célú kiadások, valamint felújítási kiadások finanszírozására használható fel a felújítási hitel felvétele és törlesztése kivételével. Az átlagbéralapú támogatás megbízási jogviszonyban óraadóként foglalkoztatottak megbízási díjára az Nkt. 22. § (2) bekezdésében, szakképző iskolák esetében a szakképzésről szóló 2011. évi CLXXXVII. törvény (a továbbiakban: szakképzésről szóló törvény) 30. § (5) bekezdésében meghatározott alkalmazotti arány mértékéig használható fel.
+1. Az átlagbéralapú támogatás a személyi juttatások és az azokhoz kapcsolódó munkaadókat terhelő járulék és szociális hozzájárulási adó kifizetéséhez, a dologi kiadások, az ellátottak pénzbeli juttatásai és egyéb működési célú kiadások, valamint felújítási kiadások finanszírozására használható fel a felújítási hitel felvétele és törlesztése kivételével. Az átlagbéralapú támogatás megbízási jogviszonyban óraadóként foglalkoztatottak megbízási díjára az Nkt. 22. § (2) bekezdésében, szakképző iskolák esetében a szakképzésről szóló 2011. évi CLXXXVII. törvény (a továbbiakban: szakképzésről szóló törvény) 30. § (5) bekezdésében meghatározott alkalmazotti arány mértékéig használható fel.
 
 2. A fenntartó – a IV. pont 4. alpont szerinti támogatás kivételével – az átlagbéralapú támogatásokat – azok folyósítását követő 15 napon belül – az általa fenntartott nevelési-oktatási, pedagógiai szakszolgálati intézménynek átadja úgy, hogy az általa fenntartott valamennyi nevelési-oktatási-, pedagógiai szakszolgálati intézmény kiegyensúlyozott működését biztosítsa. Az átadási kötelezettséget csökkenti a nevelési-oktatási, valamint pedagógiai szakszolgálati intézménynek már megelőlegezett, átadott összeg.
 
-3. A tankönyvtámogatás – ide nem értve a IV. pont 2. alpont szerinti támogatást – teljes összegét át kell adni annak az iskolának, amelyre a támogatást megállapították. E támogatásból elsősorban az Nkt. 46. § (5) bekezdése és a nemzeti köznevelés tankönyvellátásáról szóló 2013. évi CCXXXII. törvény 4. § (2) bekezdés szerinti normatív kedvezményben részesülők számára ingyenesen biztosított tankönyvek beszerzését kell biztosítani. A fennmaradó összeg a nevelési-oktatási intézményben működő könyvtári állomány gyarapítására fordítható, a fel nem használt összeget a központi költségvetés számára a kincstár útján vissza kell fizetni.
+3. A tankönyvtámogatás – ide nem értve a IV. pont 2. alpont szerinti támogatást – teljes összegét át kell adni annak az iskolának, amelyre a támogatást megállapították. E támogatásból elsősorban az Nkt. 46. § (5) bekezdése és a nemzeti köznevelés tankönyvellátásáról szóló 2013. évi CCXXXII. törvény 4. § (2) bekezdés szerinti normatív kedvezményben részesülők számára ingyenesen biztosított tankönyvek beszerzését kell biztosítani. A fennmaradó összeg a nevelési-oktatási intézményben működő könyvtári állomány gyarapítására fordítható, a fel nem használt összeget a központi költségvetés számára a kincstár útján vissza kell fizetni. A III. pont 1. alpontja alapján a tankönyvtámogatásra jogosultak tényleges számát figyelembe véve a fenntartó az igénylés módosítását a 229/2012. Korm. rendelet 37/C. § (4) bekezdés c) pontja helyett 2017. október 31-i határidőig kezdeményezi. A kincstár a tankönyvtámogatás folyósításához szükséges keretigényt 2017. augusztus 10-éig küldi meg az oktatásért felelős miniszter részére.
 
 4. A támogatásokat, a működési támogatás kivételével, a folyósítás évében kell felhasználni. A tárgyévet követő év január 31-ig fel nem használt – pénzügyileg nem teljesült – vagy nem jogszerű kifizetésre fordított összeget, vissza kell fizetni. A nemzetiségi önkormányzat és az egyházi jogi személy a II. pont szerinti működési támogatást köteles elkülönítetten nyilvántartani és a támogatás teljes összegét a köznevelési feladatot ellátó intézményei, illetve azok köznevelési feladatainak támogatására fordítani.
 
@@ -6126,7 +6286,7 @@ A felnőttoktatásban a tanulói jogviszony fennállásakor a tanuló abban a ta
 
 16. Az alapfokú művészetoktatási feladatot ellátó egységes iskola – beleértve a magyar Waldorf-iskolák kerettanterve alapján oktató nevelési-oktatási intézményeket – 112. évfolyamos tanulóinak létszámát az alapfokú művészetoktatási támogatás igénybevételéhez a finanszírozott pedagóguslétszám számításakor hárommal elosztva lehet figyelembe venni. A Waldorf-iskolák 13. évfolyamos tanulói után nem igényelhető átlagbéralapú és működési támogatás.
 
-17. Óvoda esetén alkalmazni kell az I. pont 4. alpont c) pontjában, valamint a Kiegészítő szabályok 1-2., 4., 7-9., 11., 13., 19-21., 23-24., alpontban és a 25. alpont a) pontjában foglaltakat.
+17. Óvoda esetén alkalmazni kell az I. pont 4. alpont c) pontjában, I. pont 5. alpont d) pontjában, valamint a Kiegészítő szabályok 1-2., 4., 7-9., 11., 13., 19-21., 23-24., alpontban és a 25. alpont a) pontjában foglaltakat.
 
 18. A gyógypedagógiai nevelési-oktatási intézmény óvodája esetén a gyermekek létszámának meghatározásakor az Nkt. 47. § (7) bekezdésében foglaltak kivételével alkalmazni kell a 2. melléklet II. pont 1. alpont a) pontjában leírtakat.
 
@@ -6134,11 +6294,11 @@ A felnőttoktatásban a tanulói jogviszony fennállásakor a tanuló abban a ta
 
 A Magyar Államkincstár fenntartó székhelye szerinti illetékes igazgatósága, ha e törvény másképp nem rendelkezik a támogatásban részesülő fenntartók számára havi ütemezésben – jogszabályban meghatározott fenntartói változásjelentéssel érintett utalásig e törvény alapján – folyósítja a támogatást.
 
-20. Az I. pont 4. alpont d) pont és a 2. melléklet II. pont 4. alpont szerinti támogatás megállapításánál – a pedagógusok minősítési eljárása eredményeképpen – a magasabb fizetési fokozatba besorolt pedagógus létszámot közalkalmazotti jogviszonyban vagy munkaviszonyban foglalkoztatottak teljes munkaidőre átszámított létszáma szerint kell figyelembe venni.
+20. Az I. pont 4. alpont d) pont és a 2. melléklet II. pont 4. alpont szerinti támogatás megállapításánál a magasabb fizetési fokozatba besorolt pedagógusok, és pedagógus szakképzettséggel rendelkező nevelő és oktató munkát közvetlenül segítők létszámát a közalkalmazotti jogviszonyban vagy munkaviszonyban foglalkoztatottak teljes munkaidőre átszámított létszáma szerint kell figyelembe venni.
 
 21. A pedagógus szakképzettséggel rendelkező, a nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottak számított létszámán azok teljes munkaidőre átszámított létszámát kell érteni, továbbá, ha munkakörük több köznevelési alapfeladat ellátásához is kapcsolódik, az I. pont 4. alpont a) pontjai közül azon jogcímen kell őket figyelembe venni, ahol a legmagasabb az intézményben nevelt, oktatott gyermekek, tanulók létszáma.
 
-22. A nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottaknak az I. pont 4. alpont a) és b) pont szerinti támogatásban elismert létszámuk együttes összege megegyezik a pedagógusok előmeneteli rendszeréről és a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény köznevelési intézményekben történő végrehajtásáról szóló 326/2013. (VIII. 30.) Korm. rendelet 4. mellékletében meghatározott finanszírozott létszámmal.
+22. A nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottaknak az I. pont 4. alpont a) és b) pont szerinti támogatásban elismert létszámuk együttes összege megegyezik a pedagógusok előmeneteli rendszeréről és a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény köznevelési intézményekben történő végrehajtásáról szóló 326/2013. (VIII. 30.) Korm. rendelet (továbbiakban: Vhr.) 4. mellékletében meghatározott finanszírozott létszámmal. Az I. pont 4. alpont b) pontja szerinti emelt összegű támogatás a Vhr. 32/A. §-ában meghatározottak szerint 2017. január 1-jétől visszamenőlegesen kerül biztosításra (12 hónapra) január-szeptember hónapokra egy összegben, október hónaptól pedig a havi finanszírozás keretében kerül folyósításra.
 
 23. Az V. pont 2. alpontjában meghatározott kiegészítő támogatás igénylésekor és elszámolásakor a 2. melléklet, Kiegészítő szabályok 5. pont m) alpontjában foglaltakat kell alkalmazni azzal, hogy a 2017. január 1-je és december 31-e között az ingyenesen étkezők naponként összesített létszámát el kell osztani 220 nappal.
 
@@ -6362,7 +6522,7 @@ IV. Szociális ágazati összevont pótlék
 
 A központi költségvetés támogatást biztosít a Kjtvhr. szerinti, 2017. január-december hónapokban kifizetendő szociális ágazati összevont pótlékhoz és annak közterheihez, ha a fenntartó
 
-a) a 41. § (1) bekezdés a)-c) pontja szerint támogatásban részesül, vagy
+a) a 41. § (1) bekezdés a)–c) pontja és a 41. § (7) bekezdés szerint támogatásban részesül, vagy
 
 b) a támogató szolgáltatás és a közösségi ellátások finanszírozásának rendjéről szóló kormányrendelet alapján támogatásban részesül és érvényes támogatási szerződéssel rendelkezik arra az időszakra, amelyre támogatást igényel, vagy
 
@@ -6372,7 +6532,7 @@ A 2. melléklet, Kiegészítő szabályok 2. pont c) alpontja szerinti, települ
 
 A támogatás éves összegének meghatározása
 
-T= Plsz * Kjtvhr. szerinti pótlék összege *12*1,27, de legfeljebb a kifizetett szociális ágazati összevont pótlék és annak a szociális hozzájárulási adója, ahol
+T= Plsz * Kjtvhr. szerinti pótlék összege *12*(1 + a szociális hozzájárulási adó mértéke), de legfeljebb a kifizetett szociális ágazati összevont pótlék és annak a szociális hozzájárulási adója, ahol
 
 Plsz= a szociális ágazati összevont pótlékra jogosult foglalkoztatottak száma, amely a támogatás igénylésekor a szociális ágazati összevont pótlékra jogosult foglalkoztatottak éves becsült átlaglétszáma közalkalmazotti jogviszonyban töltött idő és fizetési osztály figyelembevételével; a támogatás elszámolásakor a foglalkoztatottak éves tényleges átlaglétszáma közalkalmazotti jogviszonyban töltött idő és fizetési osztály figyelembevételével.
 
