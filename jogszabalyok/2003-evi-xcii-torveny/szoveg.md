@@ -707,14 +707,9 @@ adóazonosító számát, ennek hiányában magánszemély esetén a természete
 - d) az értékesítésnek az adózó érdekkörén kívül eső okból bekövetkezett megszűnését, legkésőbb az értékesítés megszűnésének napján,
 - e) haladéktalanul, a külön jogszabályban meghatározott adattartalomban bekövetkezett bármely változást.
 
-(2) Az (1) bekezdés a) pontja szerinti bejelentés igazgatási szolgáltatási díjköteles. A díj mértéke 30 000 Ft, amelyet az állami adó- és vámhatóság által meghatározott számla javára kell megfizetni.
+(2)
 
-(3) Nem kell igazgatási szolgáltatási díjat fizetni, ha az automataberendezés üzemeltetője olyan automataberendezés kapcsán tesz bejelentést, amelyre az automataberendezés korábbi üzemeltetője már bejelentést tett, és ezen bejelentéshez kapcsolódóan
-
-- a) az igazgatási szolgáltatási díj teljes összege megfizetésre, és
-- b) az automataberendezés gyártási száma bejelentésre
-
-került.
+(3)
 
 (4) Az automataberendezéseket automata felügyeleti egységgel (a továbbiakban: AFE) kell ellátni, amely önállóan elkülöníthető zárt, elektronikus adattárolást és adatkommunikációt végez. Az AFE-ben tárolt adatokról az adózó rendszeresen adatszolgáltatást teljesít az állami adó- és vámhatóság részére, amely adatokat az állami adó- és vámhatóság kizárólag az e törvény szerinti adózók ellenőrzéséhez, ellenőrzésre történő kiválasztásához, törvényben meghatározott feladatai ellátásához használhatja fel az adó megállapításához való jog elévülési idején belül.
 
