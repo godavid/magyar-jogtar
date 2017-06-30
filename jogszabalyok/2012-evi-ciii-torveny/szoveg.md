@@ -48,11 +48,7 @@ kapcsolódó szervezési és lebonyolítási teendőket lát el.
 
 6/A. §
 
-6/B. § (1) A 2. mellékletben szereplő ingatlanok, valamint az ingatlanok működtetéséhez és a 3. § (2) bekezdésben meghatározott közfeladatok ellátásához szükséges állami tulajdonú – az ingatlanokhoz kapcsolódó – ingóságoknak legkésőbb az ingatlanok tulajdonba adását megelőző 15. nappal – a tulajdonosi joggyakorló által megállapított – állománya az állami vagyonról szóló 2007. évi CVI. törvény 36. § (1) bekezdése alapján ingyenesen és illetékmentesen az Alapítvány tulajdonába kerülnek a 3. § (2) bekezdésben meghatározott közfeladatok ellátásának elősegítése érdekében, azzal a feltétellel, hogy az Alapítvány az érintett vagyonelemeket terhelő – a Magyar Nemzeti Vagyonkezelő Zrt. által meghatározott – kötelezettségeket teljeskörűen átvállalja.
-
-(2) Az (1) bekezdés szerinti tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a Magyar Nemzeti Vagyonkezelő Zrt. készíti elő és köti meg. A szerződésben az érintett vagyonelemek forgalmi értékeként a Magyar Nemzeti Vagyonkezelő Zrt. által megállapított forgalmi értéket kell megjelölni. A szerződés megkötése során a természet védelméről szóló 1996. évi LIII. törvény 68. § (8) bekezdés a) pontjában foglaltakat nem kell alkalmazni.
-
-(3) Az (1) és (2) bekezdést az ingatlan-nyilvántartásba történő bejegyzéshez szükséges telekalakítás következtében a 2. mellékletben szereplő ingatlanok helyébe lépő nem forgalomképtelen vagy nem korlátozottan forgalomképes ingatlanokra is alkalmazni kell.
+6/B. §
 
 7. § Ez a törvény a kihirdetését követő nyolcadik napon lép hatályba.
 
@@ -72,28 +68,3 @@ vonatkozó részletes szabályokat.
 ### 1. melléklet a 2012. évi CIII. törvényhez
 
 ### 2. melléklet a 2012. évi CIII. törvényhez
-
-Az Erzsébet a Kárpát-medencei Gyermekekért Alapítvány tulajdonába kerülő ingatlanok
-
-|  | Helyrajzi szám | Megnevezés |
-| --- | --- | --- |
-| 1. | Zánka, Külterület 017/5 hrsz. | kivett gyermekváros |
-| 2. | Zánka, Külterület 017/6 hrsz. | kivett gyermekváros |
-| 3. | Zánka, Külterület 017/7 hrsz. | kivett gyermekváros |
-| 4. | Zánka, Külterület 018/3 km | kivett gyermekváros és „Kikötő szárazföldi terület” |
-| 5. | Zánka, Külterület 018/7 hrsz. | kivett gyermekváros |
-| 6. | Zánka, Külterület 018/8 hrsz. | kivett gyermekváros |
-| 7. | Zánka, Külterület 022/17 hrsz. | kivett móló |
-| 8. | Zánka, Külterület 022/19 hrsz. | kivett móló |
-| 9. | Zánka, Külterület 026/2 hrsz. | kivett úttörőváros |
-| 10. | Zánka, Külterület 028 hrsz. | kivett úttörőváros |
-| 11. | Zánka, Külterület 029 hrsz. | kivett úttörőváros |
-| 12. | Zánka, Külterület 030/10 hrsz. | kivett gyermekváros |
-| 13. | Zánka, Külterület 030/11 hrsz. | kivett gyermekváros |
-| 14. | Zánka, Külterület 030/13 hrsz. | kivett gyermekváros |
-| 15. | Zánka, Külterület 039 hrsz. | kivett patak (Csorsza-patak) |
-| 16. | Fonyód, 10232/9 hrsz. | kivett transzformátorház |
-| 17. | Fonyód, 10232/14 hrsz. | kivett út |
-| 18. | Fonyód, 10232/16 hrsz. | kivett táborhely |
-| 19. | Fonyód, 10232/17 hrsz. | kivett út |
-| 20. | Fonyód, 10232/18 hrsz. | kivett táborhely |

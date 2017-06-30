@@ -17,7 +17,8 @@ az Erzsébet-programot érintő egyes törvények módosításáról
 10. § Hatályát veszti
 
 - a)–b)
-- c)–d)
+- c) az Ept. 6/B. §-a,
+- d) az Ept. 2. melléklete.
 
 #### 2. A Magyar Nemzeti Üdülési Alapítvány javára felajánlott vagyonról szóló 1992. évi LI. törvény módosítása
 

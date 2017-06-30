@@ -43,16 +43,16 @@ az Országos Területrendezési Tervről
 - 26. ökológiai folyosó: kiemelt térségi és megyei területrendezési tervekben megállapított övezet, amelybe olyan területek – többnyire lineáris kiterjedésű, folytonos vagy megszakított élőhelyek, élőhelysávok, élőhelymozaikok, élőhelytöredékek, élőhelyláncolatok – tartoznak, amelyek döntő részben természetes eredetűek, és amelyek alkalmasak az ökológiai hálózathoz tartozó egyéb élőhelyek (magterületek, pufferterületek) közötti biológiai kapcsolatok biztosítására,
 - 27. pufferterület: kiemelt térségi és megyei területrendezési tervekben megállapított övezet, amelybe olyan rendeltetésű területek tartoznak, amelyek megakadályozzák vagy mérséklik azoknak a tevékenységeknek a negatív hatását, amelyek a magterületek és az ökológiai folyosók állapotát kedvezőtlenül befolyásolhatják vagy rendeltetésükkel ellentétesek,
 - 28. rendszeresen belvízjárta terület: kiemelt térségi és megyei területrendezési tervekben megállapított övezet, amelybe a sík vidéki vagy enyhe lejtésviszonyokkal rendelkező területek azon mélyebb részei tartoznak, ahol a helyi csapadék egy része átmeneti vízfelesleg formájában, nagyobb mennyiségben és gyakorisággal összegyűlik,
-- 29. szélerőműpark telepítéséhez vizsgálat alá vonható terület: megyei területrendezési tervekben ajánlott övezet, amely azon területeket jelöli, amelyek a szélerőműpark telepítésére a természeti, a táji, a kulturális adottságok és értékek megőrzése mellett, a természeti erőforrások védelme szempontjából a leginkább alkalmasak,
+- 29.
 - 30. szén-dioxid-szállítóvezeték: a szén-dioxidnak a tárolóhelyre történő eljuttatását lehetővé tevő csővezeték, beleértve a kapcsolódó nyomásfokozó állomásokat is,
-- 31. tanyás térség: ajánlott övezet, amelyet egyes kijelölt megyék területrendezési terve tartalmazhat,
-- 32. tájrehabilitációt igénylő terület: a megyei területrendezési tervekben ajánlott övezet, amelybe jelentős területi kiterjedésű, esetenként több települést érintő felhagyott ipari és bányászati üzemi területek, továbbá az ipari és bányászati tevékenység okozta tájsebek – zagytározók, meddőhányók, ipari hulladéklerakók – tartoznak,
+- 31.
+- 32.
 - 32a. tájképi egység: tájban előforduló és vizuálisan összetartozónak tekinthető természetes és antropogén tájelemek együttese, amely a látvány szempontjából meghatározott karakterrel jellemezhető,
 - 32b. tájképvédelmi szempontból kiemelten kezelendő terület: országos területrendezési tervben megállapított, kiemelt térségi és megyei területrendezési tervekben alkalmazott övezet, amelybe a természeti adottságok, rendszerek, valamint az emberi tevékenység kölcsönhatása, változása következtében kialakult olyan területek tartoznak, amelyek a táj látványa szempontjából sajátos és megkülönböztetett fontosságú, megőrzésre érdemes esztétikai jellemzőkkel bírnak,
 - 33. települési térség: országos, kiemelt térségi és megyei területrendezési tervben megállapított területfelhasználási kategória, amelybe a település belterülete, valamint a belterületen kívüli beépített és beépítésre szánt területek tartoznak,
 - 34. térség: a területrendezés szempontjából megkülönböztetett területi egység, amelyre vonatkozóan a területrendezési terv előírásokat határoz meg,
 - 35. térségi övezet: országos, kiemelt térségi és megyei területrendezési tervekben alkalmazott, sajátos jellemzőkkel rendelkező – a térségi területfelhasználási kategóriáktól függetlenül lehatárolt – területi egység, amelyben az e törvényben és a külön jogszabályokban meghatározott előírásokat kell alkalmazni,
-- 36. térségi árvízi kockázatkezelési terület: megyei területrendezési tervben ajánlott övezet, amelybe azok a területek tartoznak, amelyek árvízvédelmi szempontból egységes kezelést igényelnek, vagy a kockázatkezelés szempontjából elkülöníthetőek,
+- 36.
 - 37. térségi területfelhasználási kategória: országos, kiemelt térségi és megyei területrendezési tervekben alkalmazott, a térségben jellemző területfelhasználásnak megfelelően lehatárolt területi egység,
 - 38. 10 millió m3-t meghaladó térfogatú, vízkár-elhárítási célú tározási fejlesztési lehetőségek: olyan vízkár-elhárítási célú tározók, amelyek befogadó kapacitása a fejlesztést követően a 10 millió m3-t meghaladja,
 - 39. vegyes területfelhasználású térség: országos, kiemelt térségi és megyei területrendezési tervben megállapított területfelhasználási kategória, ahol a mezőgazdaságnak és erdőgazdaságnak egyaránt meghatározó szerepe van, és a mezőgazdasági területek és erdőterületek mozaikossága jellemző,
@@ -212,18 +212,20 @@ az Országos Területrendezési Tervről
 - h) honvédelmi terület,
 - i)
 
-(3) Ajánlott megyei övezetek:
-
-- a) tanyás térség,
-- b) tájrehabilitációt igénylő terület,
-- c) szélerőműpark telepítéséhez vizsgálat alá vonható terület,
-- d) térségi árvízi kockázatkezelési terület.
+(3)
 
 (4) Az (1) bekezdésben felsorolt országos övezeteket, továbbá a (2) bekezdésben felsorolt kiemelt térségi és megyei övezeteket területi érintettség esetén a kiemelt térségi és megyei területrendezési tervben alkalmazni kell.
 
 (5) A kiemelt térségek területrendezési terve a (2) bekezdésben foglaltaktól eltérő, egyedileg meghatározott övezeteket is kijelölhet a térség elsődleges funkciójával, illetve a kiemelés okával összhangban.
 
-(6) A megye területrendezési terve az (1) és (2) bekezdésben felsorolt térségi övezeteken kívül a (3) bekezdésben felsorolt ajánlott megyei övezetet is kijelölhet.
+(6) A megyei önkormányzat a területrendezési tervéről szóló rendeletének részeként a megye területének természeti, épített környezeti és gazdasági adottságainak védelmére és fejlesztésére, a térszerkezet szervezésére, továbbá a területfejlesztési koncepciók és programok végrehajtására az (1) és (2) bekezdésben meghatározott térségi övezeteken túl egyedileg meghatározott övezeteket is kijelölhet, amely övezetek
+
+- a) szabályai a településrendezési eszközök készítésére és a településrendezési eszközökben meghatározott területfelhasználási egységek kijelölésére vonatkozhatnak,
+- b) nem lehetnek ellentétesek a megyét érintő országos és kiemelt térségi területrendezési tervekkel.
+
+(6a) A (6) bekezdésben meghatározott övezeteket a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény (a továbbiakban: Tftv.) 23/C. § (1) bekezdésében meghatározott tervjavaslatnak tartalmaznia kell.
+
+(6b) A (6) bekezdés szerinti egyedileg meghatározott övezeteket a megyei önkormányzat csak a területrendezésért felelős miniszter állásfoglalását követően fogadhatja el, melyet a miniszter a Tftv. 23/C. § (5) bekezdése szerinti állásfoglalása keretében ad meg. Amennyiben a területrendezésért felelős miniszternek e bekezdésben meghatározott állásfoglalásával a megyei önkormányzat nem vagy csak részben ért egyet, az egyedileg meghatározott övezetekre vonatkozó szabályok csak további egyeztető tárgyalást követően, az egyeztető tárgyalás eredményének figyelembevételével fogadhatóak el.
 
 (7) A térségi övezetek egymáshoz való viszonyát és kapcsolatrendszerét az 1/12. melléklet tartalmazza. A kiemelt térségi és megyei övezetek területén a rá vonatkozó országos övezetek előírásait is alkalmazni kell.
 
@@ -385,33 +387,9 @@ az Országos Területrendezési Tervről
 
 27/A. § A honvédelmi terület övezetét a településrendezési eszközökben kell tényleges kiterjedésének megfelelően lehatárolni, és a településszerkezeti tervben beépítésre szánt vagy beépítésre nem szánt különleges honvédelmi terület vagy erdőterület területfelhasználási egységbe kell sorolni.
 
-### VI/A. Fejezet — AZ AJÁNLOTT MEGYEI ÖVEZETEKRE VONATKOZÓ SZABÁLYOK
+### VI/A. Fejezet
 
-### Tanyás térség övezete
-
-27/B. § A megye területrendezési tervében tanyás térség övezete kijelölhető, amelybe Bács-Kiskun megye, Békés megye, Csongrád megye, Hajdú-Bihar megye, Jász-Nagykun-Szolnok megye és Szabolcs-Szatmár-Bereg megye összes települése, továbbá Pest megye Ceglédi, Dabasi, Gyáli, Monori, Nagykátai, Nagykőrösi, Ráckevei, Szigetszentmiklósi és Vecsési járások tanyás települései sorolhatók be.
-
-### Tájrehabilitációt igénylő terület övezete
-
-27/C. § (1) A megye területrendezési tervében tájrehabilitációt igénylő terület övezete kijelölhető.
-
-(2) A megye területrendezési terve rendelkezhet az övezet által érintett terület újrahasznosítási céljáról.
-
-(3) Az újrahasznosítási cél figyelembevételével a megye területrendezési terve rendelkezhet arról, hogy az övezet által érintett területet a településrendezési eszközök készítése során milyen területfelhasználási egységbe kell sorolni.
-
-### Szélerőműpark telepítéséhez vizsgálat alá vonható terület övezete
-
-27/D. § (1) A megye területrendezési tervében szélerőműpark telepítéséhez vizsgálat alá vonható terület övezete kijelölhető.
-
-(2) A megye területrendezési terve – a települési térség védelme érdekében – a belterület határától legalább 1000 m, de legfeljebb 2000 m védőtávolságot határozhat meg, amelyen belül szélerőműpark nem létesíthető.
-
-### Térségi árvízi kockázatkezelési terület övezete
-
-27/E. § (1) A megye területrendezési tervében térségi árvízi kockázatkezelési terület övezete kijelölhető.
-
-(2) A megye területrendezési terve rendelkezhet arról, hogy az övezet által érintett települések településrendezési eszközeit az Országos Árvízi Kockázatkezelési Koncepció és a kockázatkezelési tervek figyelembevételével kell elkészíteni.
-
-(3) A megye rendelkezhet az övezet területén az árvízi kockázatot csökkentő települési területfelhasználási egységek alkalmazásáról.
+27/B–27/E. §
 
 ### VII. Fejezet — HATÁLYBA LÉPTETŐ ÉS VEGYES RENDELKEZÉSEK
 
@@ -2057,7 +2035,7 @@ Az országos jelentőségű vízi létesítmények
 
 ### 1/12. számú melléklet
 
-Térségi övezetek és az ajánlott megyei övezetek, valamint azok kapcsolata
+Térségi övezetek és azok kapcsolata
 
 |  | A | B |
 | --- | --- | --- |
@@ -2067,7 +2045,7 @@ Térségi övezetek és az ajánlott megyei övezetek, valamint azok kapcsolata
 | 4. | c) Jó termőhelyi adottságú szántóterület |  |
 | 5. | d) Kiváló termőhelyi adottságú erdőterület |  |
 | 6. |  | d) Erdőtelepítésre javasolt terület |
-| 7. | e) Tájképvédelmi szempontból kiemelten kezelendő terület |  |
+| 7. | e) tájképvédelmi szempontból kiemelten kezelendő terület |  |
 | 8. | f) Világörökségi és világörökségi várományos terület |  |
 | 9. | g) Országos vízminőség-védelmi terület |  |
 | 10. | h) Nagyvízi meder és a Vásárhelyi-terv továbbfejlesztése keretében megvalósuló vízkár-elhárítási célú szükségtározók területe |  |
@@ -2076,12 +2054,6 @@ Térségi övezetek és az ajánlott megyei övezetek, valamint azok kapcsolata
 | 13. |  | g) Földtani veszélyforrás területe |
 | 14. | i) Kiemelt fontosságú honvédelmi terület |  |
 | 15. |  | h) Honvédelmi terület |
-| 16. |  |  |
-| 17. |  | Megyei területrendezési terv |
-| 18. |  | a) tanyás térség |
-| 19. |  | b) tájrehabilitációt igénylő terület |
-| 20. |  | c) szélerőműpark telepítéséhez vizsgálat alá vont terület |
-| 21. |  | d) térségi árvízi kockázatkezelési terület |
 
 ### 2. számú melléklet
 
