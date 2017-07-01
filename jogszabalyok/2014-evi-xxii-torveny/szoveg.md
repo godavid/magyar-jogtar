@@ -81,15 +81,13 @@ reklám ellenszolgáltatás fejében történő közzététele.
 
 #### 4. Az adó mértéke
 
-5. § (1) Az adó mértéke a 4. § (1) bekezdés szerinti adóalap esetén
-
-– az adóalap 100 millió forintot meg nem haladó része után 0%,
-
-– az adóalap 100 millió forintot meghaladó része után 5,3%.
+5. § (1) Az adó mértéke a 4. § (1) bekezdés szerinti adóalap esetén 2017. január 1. és 2017. június 30. között 0%, 2017. július 1-jétől 7,5%.
 
 (2) Az adó mértéke a 4. § (2) bekezdés szerinti adóalap esetén az adóalap 5%-a.
 
-(3) Ha az adóév 12 hónapnál rövidebb, a fizetendő adó összege az adóévi 4. § (1) bekezdés szerinti adóalapnak az adóév naptári napjai alapján 12 hónapos időszakra számított összegéből az (1) bekezdés szerinti adómértékkel megállapított adóösszeg adóév naptári napjaival arányos része.
+(3) Mentes az adó alól a 3. § (1) bekezdés szerinti adóalany adóköteles tevékenységből származó adóévi nettó árbevételéből 100 millió forint.
+
+(4) A (3) bekezdés szerinti mentesség csekély összegű (de minimis) támogatásnak minősül, amely az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 1407/2013/EU bizottsági rendelet szabályaival összhangban vehető igénybe.
 
 #### 5.
 
@@ -169,30 +167,25 @@ reklám ellenszolgáltatás fejében történő közzététele.
 
 (3) Ha az adóalany ellenbizonyítással él, akkor az állami adóhatóság az (1) bekezdés szerint vélelmezett adót megállapító határozatát visszavonja és az adót új határozatban állapítja meg, amely a közléssel jogerős és végrehajtható. A határozat ellen bírósági felülvizsgálatnak van helye.
 
-#### 7. Záró rendelkezések
+#### 6/A. Az Európai Bizottság C(2016) 6929 final számú határozatának végrehajtását szolgáló rendelkezések
 
-#### 8. §
+8. § (1) A 2017. június 30-ig lezárult adóévekre a 3. § (1) bekezdés szerinti adóalanyként bevallott és megfizetett adó az adózás rendjéről szóló törvény szerinti túlfizetésnek minősül, amelynek visszatérítésére az adózás rendjéről szóló törvény adó-visszatérítésre vonatkozó szabályait kell alkalmazni.
+
+(2) Az e § szerint adó-visszatérítésre jogosult, 3. § (1) bekezdés szerinti adóalanyokat az állami adóhatóság értesíti a reklámadó visszatérítésének lehetőségéről és feltételeiről.
+
+#### 7. Záró rendelkezések
 
 8/A. § (1) A 2017. június 30-ig lezárult adóévekre bevallott, de meg nem fizetett adót nem kell megfizetni.
 
 (2) A 2017-ben kezdődő és a reklámadóról szóló 2014. évi XXII. törvény módosításáról szóló 2017. évi XLVII. törvény (a továbbiakban: Mód. törvény) hatályba lépését magában foglaló adóévben esedékes adóelőleg 7. § (3) bekezdés szerinti összegét a 2016. évben kezdődő utolsó adóév, 12 hónapra arányosított, a Mód. törvénnyel megállapított 4. § (1) bekezdés szerint számított adóalapjának alapulvételével kell megállapítani, bevallani és megfizetni.
 
-9. § (1) A 2014. évi adó összege – ha az adóalany e törvény hatálybalépését megelőzően kezdte meg a 2. § szerinti tevékenységét – az adóalany 2014. évi, 2. § szerinti tevékenységéből származó adóalap, a 2. § (1) bekezdés szerinti tevékenység esetén a reklámértékesítő ügynökségnek a megrendelővel kötött, az adóalany médiatartalom-szolgáltatásán belüli reklám közzétételére irányuló szerződés szerinti szolgáltatásból származó 2014. évi nettó árbevételének és ezen ügylet kapcsán a reklámértékesítő ügynökségtől az adóalanynak 2014. évben járó ellenértéknek a különbözete, továbbá a 10. §-ban foglaltak alapulvételével az 5. § szerint számított összeg – e törvény hatálybalépésétől számított időszak naptári napjaival – arányos része.
+9. § A 2017. július 1-jét magában foglaló adóév esetén az adóalany az adóév adóalapjának azon hányadára (részére) alkalmazza a Mód. törvénnyel megállapított 5. § (1) bekezdése szerinti 0%-os adómértéket, amekkora
 
-(2) A 2014. évi adóelőleg összege az adóalany 2013. évi, 2. § szerinti tevékenységéből származó nettó árbevétele, saját célú reklám közzétételével összefüggő közvetlen költsége, a 2. § (1) szerinti tevékenység esetén reklámértékesítő ügynökségnek a megrendelővel kötött, az adóalany médiatartalom-szolgáltatásán belüli reklám közzétételére irányuló szerződés szerinti szolgáltatásból származó 2013. évi nettó árbevételének és ezen ügylet kapcsán a reklámértékesítő ügynökségtől az adóalanynak 2013. évben járó ellenértéknek a különbözete, továbbá a 10. §-ban foglaltak alapulvételével az 5. § szerint számított összeg – e törvény hatálybalépésétől számított időszak naptári napjaival – arányos része.
+- a) hányadot az adóév 2017. június 30-ig tartó naptári napjai az adóév egészének naptári napjaiban képviselnek, vagy az adóalany döntésétől függően
+- b) adóalap az adóév – a 2017. június 30. napjára készített könyvviteli zárlat alapján – 2017. június 30-ig tartó időszakában keletkezett,
 
-(3) Az adóalany a 2014. évi adóelőlegét – a 7. § (2) bekezdésében foglaltaktól eltérően – 2014. augusztus 20-áig köteles megállapítani és bevallani, továbbá két egyenlő részletben, 2014. augusztus 20-áig és 2014. november 20-ig köteles megfizetni.
+azzal, hogy a Mód. törvénnyel megállapított 5. § (1) bekezdés szerinti, 2017. július 1-jétől hatályos adómértéket az adóév 2017. június 30-át követő időszakára kell alkalmazni.
 
-(4) A 2. § szerinti tevékenységét 2014. évben kezdő adóalany esetében, továbbá annak a naptári évtől eltérő üzleti évet választó adóalanynak az esetében, akinek nincs 2014. augusztus 20-áig beszámolóval lezárt utolsó üzleti éve, a 2014. évi adóelőleg összege a 2014. adóévre, illetve a beszámolóval le nem zárt üzleti évre várható adó összegének az e törvény hatályba lépésétől számított időszak naptári napjaival arányos része.
-
-(5) A naptári évtől eltérő üzleti évet választó, 2015. január 1-jét megelőzően létrejött adóalany esetén a 2014. évben kezdődő üzleti éve 2015. január 1-jétől az üzleti éve utolsó napjáig tartó időszakra (a továbbiakban: átmeneti adóév) eső adójának összege az adóalany átmeneti adóévben elért 4. § (1) bekezdés szerinti adóalap alapulvételével az 5. § (1) és (3) bekezdés szerint számított összeg.
-
-(6) Az átmeneti adóévre jutó adóelőleg összege az (5) bekezdés szerinti adóalany 2014. évi, 2. § szerinti tevékenységéből származó nettó árbevétele, saját célú reklám közzétételével összefüggő közvetlen költsége, a 2. § (1) szerinti tevékenység esetén reklámértékesítő ügynökségnek a megrendelővel kötött, az adóalany médiatartalom-szolgáltatásán belüli reklám közzétételére irányuló szerződés szerinti szolgáltatásból származó 2014. évi nettó árbevételének és ezen ügylet kapcsán a reklámértékesítő ügynökségtől az adóalanynak 2014. évben járó ellenértéknek a különbözete alapulvételével az 5. § (1) és (3) bekezdés szerint számított összeg.
-
-(7) Az (5) bekezdés szerinti adóalany az átmeneti adóév adóelőlegét – a 7. § (2) bekezdésében foglaltaktól eltérően – 2015. január 15-ig köteles megállapítani és bevallani, továbbá két egyenlő részletben, 2015. január 15-ig és az átmeneti adóév utolsó napjáig köteles megfizetni.
-
-(8) Az (5)–(7) bekezdésben foglaltakat nem kell alkalmazni annak az adóalanynak, amely 2014. augusztus 15. és 2014. december 31. között jött létre és alakulásától kezdődően naptári évtől eltérő üzleti évet választott.
-
-10. § Az adóalany csökkentheti a 2014. évben kezdődő adóév adóalapját – legfeljebb annak erejéig – a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 17. § (1) bekezdése vagy az Szja tv. 49/B. § (7) bekezdése szerinti elhatárolt veszteség 50%-ával, feltéve, hogy a 2013. évben kezdődő üzleti évben az adóalany adózás előtti eredményének összege nulla vagy negatív.
+10. § Az 5. § (3) bekezdése az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 1407/2013/EU bizottsági rendelet (HL L 352., 2013.12.24., 1. o.) hatálya alá tartozó támogatást tartalmaz.
 
 #### 11. §

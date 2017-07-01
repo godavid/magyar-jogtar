@@ -553,7 +553,7 @@ jogosult kérni az általa foglalkoztatott polgárnak a 17. § (2) bekezdés f) 
 
 26. § (1) A Magyarország területén élő, e törvény hatálya alá tartozó polgár [4. § (1) bekezdés] köteles beköltözés vagy kiköltözés után három munkanapon belül lakóhelyének, illetve tartózkodási helyének címét nyilvántartásba vétel céljából bejelenteni (a továbbiakban együtt: lakcímbejelentés).
 
-(2) A lakcímbejelentés a bejelentendő lakóhely vagy tartózkodási hely szerint illetékes járási hivatalnál teljesíthető. Az értesítési cím bejelentése bármely járási hivatalnál, kijelölt kormányhivatalnál és a nyilvántartást kezelő központi szervnél teljesíthető. A lakcímbejelentés – jogszabályban meghatározott kivétellel – személyes megjelenéssel teljesíthető. Az értesítési cím elektronikus azonosítást követően elektronikus kapcsolattartás útján is bejelenthető.
+(2) A lakcímbejelentés bármely járási hivatalnál teljesíthető. Az értesítési cím bejelentése bármely járási hivatalnál, kijelölt kormányhivatalnál és a nyilvántartást kezelő központi szervnél teljesíthető. A lakcímbejelentés – jogszabályban meghatározott kivétellel – személyes megjelenéssel teljesíthető. Az értesítési cím elektronikus azonosítást követően elektronikus kapcsolattartás útján is bejelenthető.
 
 (2a) Ha a 4. § (2c) bekezdése szerinti polgár Magyarország területén kíván életvitelszerűen élni, első lakóhely bejelentését a nyilatkozat megtételével vagy a magyar állampolgárság igazolása iránti kérelem benyújtásával egyidejűleg az állampolgársági ügyekben eljáró szervnél köteles teljesíteni.
 
@@ -582,7 +582,7 @@ jogosult kérni az általa foglalkoztatott polgárnak a 17. § (2) bekezdés f) 
 
 (7)
 
-(8) A külföldön élő magyar állampolgár magyarországi tartózkodási helyét az illetékes járási hivatalnál jelenti be.
+(8) A külföldön élő magyar állampolgár magyarországi tartózkodási helyét bármely járási hivatalnál bejelentheti.
 
 (9) A külföldön élő magyar állampolgár nyilvántartási ügyében az ügyintézési határidő 30 nap.
 

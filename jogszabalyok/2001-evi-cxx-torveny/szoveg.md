@@ -107,7 +107,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 51. forgalmazó: az értékpapír forgalomba hozatalában közreműködő befektetési vállalkozás, hitelintézet,
 - 52. főiroda: az a hely, ahol a vállalkozás üzleti tevékenységével kapcsolatos központi döntéshozatal történik,
 - 53. független pénzügyi szakértő: olyan könyvvizsgáló, befektetési tanácsadási tevékenység végzésére jogosult személy vagy forgalmazó, aki a vételi ajánlat közzétételének időpontját megelőző három éven belül nem állt megbízásos jogviszonyban sem az ajánlattevővel, sem a vételi ajánlattal érintett részvénytársasággal, sem az ebben, illetve az ajánlattevőben befolyással rendelkező személlyel,
-- 54. garanciaalap: a tőzsdén, tőzsdén kívül, vagy külön törvény által meghatározott szervezett piacon, egyensúlyozó platformon árura, illetve pénzügyi eszközre kötött ügyletek elszámolásának a biztosítékaként a központi szerződő fél által létrehozott olyan pénz-, illetve értékpapíralap, amely a teljesítéshez óvadékul szolgál,
+- 54. garanciaalap: a tőzsdén, tőzsdén kívül árura, illetve pénzügyi eszközre kötött ügyletek elszámolásának a biztosítékaként a központi szerződő fél által létrehozott olyan pénz-, illetve értékpapíralap, amely a teljesítéshez óvadékul szolgál,
 - 55. harmadik ország: az az ország, amely nem tagja az Európai Uniónak,
 - 56. hátralévő átlagos futamidő: fix kamatozású kötvények esetén az egyes kifizetésekig hátralévő időtartamnak a – kifizetések lejáratig számított hozammal diszkontált jelenértékének a kötvény árfolyamához viszonyított arányával – súlyozott átlaga. Változó kamatozású kötvények esetén az átlagos hátralévő futamidő a következő kamatmegállapításig hátralévő időtartammal egyenlő (duration),
 - 57. hitelviszonyt megtestesítő értékpapír: minden olyan értékpapír, amelyben a kibocsátó (az adós) meghatározott pénzösszegnek a rendelkezésére bocsátását elismerve arra kötelezi magát, hogy a pénz (kölcsön) összegét, valamint kamatozó értékpapír esetén annak meghatározott módon számított kamatát vagy egyéb hozamát (a továbbiakban együtt: kamat), illetőleg az általa vállalt egyéb szolgáltatásokat az értékpapír birtokosának (a hitelezőnek) a megjelölt időben és módon megfizeti, illetve teljesíti,
@@ -129,7 +129,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
   - a) az összes foglalkoztatotti létszáma kettőszázötven főnél kevesebb,
   - b) mérlegfőösszege nem haladja meg a negyvenhárommillió eurót, illetve a mérleg fordulónapján érvényes MNB által közzétett hivatalos devizaárfolyamon számítva az ennek megfelelő forintösszeget,
   - c) éves árbevétele nem haladja meg az ötvenmillió eurót, illetve a mérleg fordulónapján érvényes MNB által közzétett hivatalos devizaárfolyamon számítva az ennek megfelelő forintösszeget,
-- 70. elszámolás: a tőzsdén, tőzsdén kívül, vagy külön törvény által meghatározott szervezett piacon, egyensúlyozó platformon árura, illetve pénzügyi eszközre kötött ügyletek elszámolására vonatkozó megbízások feldolgozásának, egyeztetésének és megerősítésének a folyamata, a teljesítés alapjául szolgáló végső elszámolandó pozíció kialakítása a teljesítést megelőzően (bruttó vagy nettó elven), valamint annak biztosítása, hogy megfelelő eszközök álljanak rendelkezésre a teljesítéshez,
+- 70. elszámolás: a tőzsdén, tőzsdén kívül árura, illetve pénzügyi eszközre kötött ügyletek elszámolására vonatkozó megbízások feldolgozásának, egyeztetésének és megerősítésének a folyamata, a teljesítés alapjául szolgáló végső elszámolandó pozíció kialakítása a teljesítést megelőzően (bruttó vagy nettó elven), valamint annak biztosítása, hogy megfelelő eszközök álljanak rendelkezésre a teljesítéshez,
 - 71–74.
 - 75. konszolidált beszámoló: az Szmt. szerint meghatározott beszámoló,
 - 76. kollektív befektetési értékpapír: a Kbftv.-ben meghatározott fogalom,
@@ -140,7 +140,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 80a. központi értéktár: a 909/2014/EU rendelet 2. cikk (1) bekezdés 1. pontjában meghatározott fogalom,
 - 81. központi hitelinformációs rendszer: a központi hitelinformációs rendszerről szóló törvényben meghatározott rendszer,
 - 82. központi szerződő fél: a 648/2012/EU rendelet 2. cikk 1. pontjában meghatározott fogalom,
-- 83. központi szerződő fél tevékenység: a tőzsdén, tőzsdén kívül, vagy külön törvény által meghatározott szervezett piacon pénzügyi eszközre kötött ügylet elszámolása és az elszámolt ügylet teljesítéséhez kapcsolódóan tett kötelezettségvállalás, amelynél a központi szerződő fél a szerződésben érintett ügyfelek helyébe lépve vevőként lép fel valamennyi eladóval szemben és eladóként valamennyi vevővel szemben,
+- 83. központi szerződő fél tevékenység: a tőzsdén, tőzsdén kívül árura, illetve pénzügyi eszközre kötött ügylet elszámolása és az elszámolt ügylet teljesítéséhez kapcsolódóan tett kötelezettségvállalás, amelynél a központi szerződő fél a szerződésben érintett ügyfelek helyébe lépve vevőként lép fel valamennyi eladóval szemben és eladóként valamennyi vevővel szemben,
 - 84. közvetett tulajdon, illetve közvetett befolyás: egy vállalkozás tulajdoni hányadának, illetőleg szavazati jogának a vállalkozásban tulajdoni részesedéssel, illetőleg szavazati joggal rendelkező más vállalkozás (köztes vállalkozás) tulajdoni hányadán, szavazati jogán keresztül történő gyakorlása. A közvetett tulajdon, a közvetett befolyás arányának megállapításához a közvetett tulajdonnal, közvetett befolyással rendelkezőnek a köztes vállalkozásban fennálló szavazati jogát vagy tulajdoni hányadát meg kell szorozni a köztes vállalkozásnak a vállalkozásban fennálló szavazati vagy tulajdoni hányada közül azzal, amelyik a nagyobb. Ha a köztes vállalkozásban fennálló szavazati vagy tulajdoni hányad az ötven százalékot meghaladja, akkor azt egy egészként kell figyelembe venni,
 - 85. közvetlen befektetési ajánlás: olyan befektetési ajánlás, amely pénzügyi eszköz vagy tőzsdei termék vételére, eladására, tartására vagy ezekkel egyenértékű befektetői döntésre tesz kifejezett javaslatot,
 - 86. külföldi befektetési vállalkozás: a székhely állam jogszabályi rendelkezéseinek megfelelően a Bszt. 5. §-ában meghatározott befektetési szolgáltatási tevékenységnek és kiegészítő szolgáltatásnak megfeleltethető tevékenység folytatására engedéllyel rendelkező külföldi székhelyű vállalkozás,
@@ -164,7 +164,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 104.
 - 105. portfólió: a portfóliókezelési tevékenységet végző számára átadott eszközök, illetőleg ezen eszközökből a portfóliókezelési tevékenységet végző által összeállított, többféle vagyonelemet tartalmazó eszközök összessége,
 - 106. portfóliókezelés: a Bszt.-ben meghatározott tevékenység,
-- 107. pozíciólezáró nettósítás: a felek megállapodása alapján a szerződés nemteljesítésekor vagy a felek által meghatározott egyéb felmondási esemény bekövetkeztekor az azonnali deviza- és értékpapírügyletből, származtatott ügyletből, repó- vagy fordított repóügyletből, értékpapír-kölcsönzésre irányuló megállapodásból, óvadéki, illetve biztosítéki célt szolgáló egyéb szerződésből, vagy más hasonló tőzsdén, tőzsdén kívül, vagy külön törvény által meghatározott szervezett piacon, egyensúlyozó platformon árura, illetve pénzügyi eszközre kötött ügyletből eredő tartozásoknak és követeléseknek az adott ügylet piacán elfogadott elszámolásaként egyetlen nettó tartozássá vagy követeléssé történő átalakítása, amelynek eredményeként a tartozás vagy a követelés kizárólag az ekként megállapított nettó összegre korlátozódik,
+- 107. pozíciólezáró nettósítás: a felek megállapodása alapján a szerződés nemteljesítésekor vagy a felek által meghatározott egyéb felmondási esemény bekövetkeztekor az azonnali deviza- és értékpapírügyletből, származtatott ügyletből, repó- vagy fordított repóügyletből, értékpapír-kölcsönzésre irányuló megállapodásból, óvadéki, illetve biztosítéki célt szolgáló egyéb szerződésből, vagy más hasonló tőzsdén, tőzsdén kívül árura, illetve pénzügyi eszközre kötött ügyletből eredő tartozásoknak és követeléseknek az adott ügylet piacán elfogadott elszámolásaként egyetlen nettó tartozássá vagy követeléssé történő átalakítása, amelynek eredményeként a tartozás vagy a követelés kizárólag az ekként megállapított nettó összegre korlátozódik,
 - 108. referenciaadat: a központi hitelinformációs rendszerről szóló törvényben meghatározott fogalom,
 - 109. referenciaadat-szolgáltató: a befektetési hitel nyújtására vonatkozó engedéllyel rendelkező, illetve értékpapír-kölcsönzési tevékenységet végző szervezet (befektetési vállalkozás, kollektív befektetési forma, befektetési alapkezelő, központi értéktár, pénzügyi intézmény, önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár, biztosító),
 - 110. repó- és fordított repóügylet: minden olyan megállapodás, amely értékpapír vagy áru tulajdonjogának, illetve az értékpapír vagy áru tulajdonjogához fűződő garantált jog átruházására vonatkozik – ha e garanciát olyan elismert tőzsde bocsátja ki, amely az értékpapírhoz vagy az áruhoz fűződő joggal rendelkezik –, és a megállapodás nem teszi lehetővé az eladó számára, hogy az adott értékpapírt vagy árut adott időpontban egyszerre több félnek ruházza át, illetőleg más ügylethez adja biztosítékul. A szerződéskötéssel egyidejűleg az értékpapírra vagy árura az eladó visszavásárlási kötelezettséget, a vevő az eladó részére történő viszonteladási kötelezettséget vállal a szerződésben meghatározott vagy az eladó által meghatározandó jövőbeli időpontban történő meghatározott visszavásárlási, illetve viszonteladási áron. A felek közötti megállapodás rendelkezhet úgy is, hogy az ügylet tárgyát képező és biztosítékul szolgáló értékpapír vagy áru más, egyenértékű értékpapírra vagy árura kicserélhető. Az ügylet az értékpapír vagy áru eladója szempontjából repóügyletnek, az értékpapír vagy áru vevője szempontjából fordított repóügyletnek tekintendő,
@@ -178,7 +178,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
   - d) rendszeres időszakonként, meghatározott időben működik,
   - e) szerepel az Európai Bizottság honlapján közzétett, a szabályozott piacokról készített jegyzékben,
 - 115.
-- 116. szabályozott információ: az összefoglaló jelentés, a rendszeres és a rendkívüli tájékoztatás körébe tartozó, a befolyásszerzéssel kapcsolatos, továbbá a bennfentes információk,
+- 116. szabályozott információ: a rendszeres és a rendkívüli tájékoztatás körébe tartozó, a befolyásszerzéssel kapcsolatos, továbbá a bennfentes információk,
 - 117. származtatott (derivatív) ügylet: olyan ügylet, amelynek értéke az alapjául szolgáló pénzügyi eszköz, deviza, áru vagy referenciaráta (alaptermék) értékétől függ és önálló kereskedés tárgyát képezi,
 - 118.
 - 118a.
@@ -582,7 +582,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 
 (5) Az (1) és (2) bekezdésben meghatározott esetekben a kiegészítés közzétételéig a Felügyelet a forgalomba hozatali eljárást felfüggesztheti.
 
-33. § (1) Ha a tájékoztatót az értékpapír nyilvános forgalomba hozatalára irányuló eljárás időtartama alatt kiegészítették, az a befektető jogosult a jegyzési nyilatkozat visszavonására, a megállapodástól való elállásra, aki a kiegészítés közzététele előtt az értékpapírt lejegyezte vagy megvételére megállapodást kötött. A befektető az elállási jogát a kiegészítés közzétételét követő két munkanapon belül gyakorolhatja. Az elállás jogának gyakorlására nyitva álló határidőt a kibocsátó vagy az ajánlattevő meghosszabbíthatja, az elállási jog gyakorlására nyitva álló határidőt azonban a kiegészítésnek tartalmaznia kell. A befektető elállása esetén a kibocsátó, az ajánlattevő és a forgalmazó egyetemlegesen köteles a befektetőnek a jegyzéssel vagy az értékpapírvétellel kapcsolatos költségét és kárát megtéríteni. A kiegészítés közzétételét követő két munkanapos időtartam alatt az allokáció nem folytatható le.
+33. § (1) Ha a tájékoztatót az értékpapír nyilvános forgalomba hozatalára irányuló eljárás időtartama alatt kiegészítették, az a befektető jogosult a jegyzési nyilatkozat visszavonására, a megállapodástól való elállásra, aki a kiegészítés közzététele előtt az értékpapírt lejegyezte vagy megvételére megállapodást kötött. A befektető az elállási jogát a kiegészítés közzétételét követő két munkanapon belül gyakorolhatja. Az elállás jogának gyakorlására nyitva álló határidőt a kibocsátó vagy az ajánlattevő meghosszabbíthatja, az elállási jog gyakorlására nyitva álló határidőt azonban a kiegészítésnek tartalmaznia kell. A kiegészítés közzétételét követő két munkanapos időtartam alatt az allokáció nem folytatható le.
 
 (2) Ha jogszabály vagy a kibocsátó, illetőleg az ajánlattevő a forgalomba hozatali eljárás eredményességének feltételéül a forgalomba hozandó értékpapír legkisebb mennyiségét megjelölte és a megjelölt mennyiségre a forgalomba hozatali eljárás zárónapjáig nem történik kötelezettségvállalás, a kibocsátó, az ajánlattevő vagy a forgalmazó a forgalomba hozatali eljárás zárónapját követő hét napon belül köteles a már befizetett teljes összeget a tájékoztatóban meghirdetett módon – kamatfizetési kötelezettség nélkül – visszafizetni.
 
@@ -1531,7 +1531,7 @@ a vételi ajánlat, illetve az önkéntes vételi ajánlat lezárását követő
 
 146/C. § Az Aktv. szerinti, e törvény hatálya alá tartozó Jelentő Magyar Pénzügyi Intézmény (ezen alcím alkalmazásában a továbbiakban: intézmény) az általa kezelt, az Aktv. 1. melléklet VIII/C. pontja szerinti Pénzügyi Számla vonatkozásában elvégzi az Aktv. szerinti Számlatulajdonos és Jogalany (ezen alcím alkalmazásában a továbbiakban együtt: Számlatulajdonos) illetőségének az Aktv 1. melléklet II–VII. pontja szerinti megállapítására irányuló vizsgálatot (a továbbiakban: illetőségvizsgálat).
 
-146/D. § (1) Az intézmény a Számlatulajdonost az illetőségvizsgálat elvégzésével egyidejűleg az ügyfélfogadásra nyitva álló helyiségeiben kifüggesztett hirdetmény útján vagy – ha az lehetséges – elektronikus úton tájékoztatja
+146/D. § (1) Az intézmény a Számlatulajdonost az illetőségvizsgálat elvégzésével egyidejűleg az ügyfélfogadásra nyitva álló helyiségeiben közzétett hirdetmény útján vagy – ha az lehetséges – elektronikus úton tájékoztatja
 
 - a) az illetőségvizsgálat elvégzéséről,
 - b) az Aktv. 43/H. §-a alapján az adóhatóság felé fennálló adatszolgáltatási kötelezettségéről.
@@ -2844,7 +2844,7 @@ foglaltakat.
 - f) hitelintézetnek,
 - g) árutőzsdei szolgáltatónak,
 - h) befektetési alapkezelőnek,
-- i) törvény által meghatározott szervezett piac szereplőjének,
+- i) jogszabály által meghatározott szervezett piac szereplőjének,
 - j) értékpapír-kibocsátónak,
 - k) a magyar állam számára,
 - l) az állam vagyonát kezelő szervezetek számára,
@@ -2891,8 +2891,8 @@ foglaltakat.
 
 (2) Központi szerződő fél az (1) bekezdésben meghatározott tevékenységen kívül jogosult
 
-- a) árura tőzsdén, tőzsdén kívül, vagy külön törvény által meghatározott szervezett piacon, egyensúlyozó platformon kötött ügyletek teljesítéséhez kapcsolódóan kötelezettséget vállalni,
-- b) árura tőzsdén, tőzsdén kívül, vagy külön törvény által meghatározott szervezet piacon, egyensúlyozó platformon kötött ügyletet elszámolni,
+- a) árura kötött ügyletek teljesítéséhez kapcsolódóan kötelezettséget vállalni,
+- b) árura kötött ügyletet elszámolni,
 - c) az általa elszámolt, illetve az általa elszámolásra közvetített ügyletek vonatkozásában teljesítést végezni,
 - d) a Hpt. 3. § (1) bekezdés b) pontjában meghatározott tevékenységet kizárólag az általa elszámolt, illetve az általa elszámolásra közvetített ügylet teljesítése érdekében, kizárólag likvid eszközben történő, legalább teljes mértékű fedezettséget biztosító biztosítéknyújtás mellett végezni,
 - e) a Hpt. 3. § (1) bekezdés d) pontjában meghatározott tevékenységet kizárólag az általa elszámolt, illetve az általa elszámolásra közvetített ügylettel kapcsolatos teljesítés lebonyolítása érdekében végezni.
@@ -3024,7 +3024,7 @@ foglaltakat.
 - a) a könyvvizsgáló jogosult a Felügyelettel konzultálni, illetőleg a Felügyeletet tájékoztatni,
 - b) a Felügyelet jogosult a könyvvizsgálótól közvetlenül tájékoztatást kérni és kapni.
 
-361. § Ha a könyvvizsgáló a jogszabályban előírt kötelezettségeinek nem tesz eleget, a Felügyelet jogosult arra, hogy a tőzsdét, a központi szerződő felet, illetve a központi értéktárat más, a 358. §-ban meghatározott követelményeknek megfelelő könyvvizsgáló választására kötelezze. Ha a Felügyelet a 400. § (1) bekezdés d) pontjában meghatározott intézkedésként a tőzsde, a központi szerződő fél, illetve a központi értéktár könyvvizsgálójának felmentését kezdeményezi, jogosult a könyvvizsgáló pénzügyi intézményi, illetve befektetési vállalkozási minősítésének visszavonását kezdeményezni.
+361. § Ha a könyvvizsgáló a jogszabályban előírt kötelezettségeinek nem tesz eleget, a Felügyelet jogosult arra, hogy a tőzsdét, a központi szerződő felet, a szabályozott piacra bevezetett nyilvánosan forgalomba hozott értékpapír kibocsátóját, illetve a központi értéktárat más, a 358. §-ban meghatározott követelményeknek megfelelő könyvvizsgáló választására kötelezze. Ha a Felügyelet a 400. § (1) bekezdés d) pontjában meghatározott intézkedésként a tőzsde, a központi szerződő fél, a szabályozott piacra bevezetett nyilvánosan forgalomba hozott értékpapír kibocsátója, illetve a központi értéktár könyvvizsgálójának felmentését kezdeményezi, jogosult a könyvvizsgáló pénzügyi intézményi, kibocsátói, illetve befektetési vállalkozási minősítésének visszavonását kezdeményezni.
 
 362. §
 
@@ -3420,12 +3420,12 @@ gyakorolt hatásának, veszélyességi fokának figyelembevételével választja
 
 399/A. §
 
-400. § (1) A Felügyelet az alábbi intézkedéseket, szankciókat alkalmazhatja:
+400. § (1) A Felügyelet – a fokozatosság és arányosság figyelembevételével – az alábbi intézkedéseket, szankciókat alkalmazhatja:
 
 - a) a kibocsátót, a felügyelete alá tartozó szervezetet, valamint ezek vezető állású személyét és alkalmazottját, a befolyásszerzőt, a bennfentes kereskedelmet és piacbefolyásolást elkövető személyt az értékpapírok forgalomba hozatalára és előállítására, a tájékoztatási kötelezettségének teljesítésére, az auditbizottság létrehozására és működtetésére, a bennfentes információhoz hozzáférő személyekről vezetendő nyilvántartásra, a tőzsde által végzett tevékenységre, a központi szerződő fél által végzett tevékenységre, illetve a központi értéktár által végzett tevékenységre, valamint a nyilvánosan működő részvénytársaságban történő befolyásszerzésre vonatkozó jogszabályban, szabályzatban és az engedélyben meghatározott feltételek megsértése esetén figyelmezteti, illetve – ha szükséges – a feltételeknek való megfelelésre határidő kitűzésével felszólítja;
 - b) az engedély nélkül tőzsdei, a központi szerződő fél által végzett, illetve központi értéktári tevékenység folytatását megtilthatja;
 - c) a Felügyelet által kirendelt szakértő, illetve felügyeleti biztos közreműködésével kapcsolatban felmerült költségek megtérítésére kötelezhet;
-- d) a tőzsde, a központi szerződő fél, illetve a központi értéktár vezető állású személyének és könyvvizsgálójának felmentését, az alkalmazott felelősségre vonását kezdeményezheti;
+- d) a tőzsde, a központi szerződő fél, a szabályozott piacra bevezetett nyilvánosan forgalomba hozott értékpapír kibocsátója, illetve a központi értéktár vezető állású személyének és könyvvizsgálójának felmentését, az alkalmazott felelősségre vonását kezdeményezheti;
 - e) kötelezheti a tőzsde, a központi szerződő fél, illetve a központi értéktár igazgatóságát rendkívüli közgyűlés összehívására, és arra kötelező napirend megtárgyalását írhatja elő;
 - f) a tőzsdét, a központi szerződő felet, a központi értéktárat határidő meghatározásával helyreállítási terv kidolgozására és a Felügyelethez történő benyújtására kötelezheti;
 - g) a kibocsátót, az ajánlattevőt, a nyilvánosan működő részvénytársaságban ötszázalékos vagy azt meghaladó befolyással rendelkező szavazati jog birtokosát, a tőzsdét, a központi szerződő felet, illetve a központi értéktárat meghatározott tartalmú rendkívüli adatszolgáltatás teljesítésére kötelezheti;

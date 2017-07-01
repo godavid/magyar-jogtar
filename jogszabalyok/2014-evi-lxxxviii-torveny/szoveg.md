@@ -1353,7 +1353,7 @@ az e szolgáltatások tekintetében képzett biztosítástechnikai tartalékokat
 
 (4) Az (1) bekezdésben meghatározott jelentéssel összefüggő részletszabályokat a Kormány a biztosítási és a viszontbiztosítási tevékenységhez kapcsolódó fizetőképességről és pénzügyi helyzetről szóló jelentéssel összefüggő részletszabályokról szóló rendeletben állapítja meg.
 
-108/A. § (1) A biztosító és a viszontbiztosító köteles a Felügyelet által a vonatkozó jogszabályok megsértése miatt vele szemben hozott határozat rendelkező részét a honlapján közzétenni. Ha a biztosító vagy a viszontbiztosító nem rendelkezik honlappal, a közzétételi kötelezettségnek a székhelyén történő kifüggesztéssel is eleget tehet.
+108/A. § (1) A biztosító és a viszontbiztosító köteles a Felügyelet által a vonatkozó jogszabályok megsértése miatt vele szemben hozott határozat rendelkező részét a honlapján közzétenni. Ha a biztosító vagy a viszontbiztosító nem rendelkezik honlappal, a közzétételi kötelezettségnek a székhelyén történő közzététellel is eleget tehet.
 
 (2) Az (1) bekezdésben meghatározott közzétételi kötelezettség az adott határozat közlésétől számított öt évig áll fenn.
 
@@ -1591,7 +1591,7 @@ azzal, hogy a díjrészhez kapcsolódó megképzett tartalékon arányosan felsz
 
 (6) Az eszközalap-felfüggesztés végrehajtását követően az eszközalap-felfüggesztés megszüntetéséig és az eszközalap ezt követő első ismert nettó eszközértékének megállapításáig nem terjeszthető vagy értékesíthető olyan biztosítási termék vagy szerződés, amely mögött kizárólag felfüggesztett eszközalap áll.
 
-(7) Az eszközalap-felfüggesztés időtartama legfeljebb egy év, amelyet a biztosító indokolt esetben összesen további egy évvel meghosszabbíthat. A biztosító a meghosszabbításról szóló döntését az eszközalap-felfüggesztés időtartamának lejártát legalább tizenöt nappal megelőzően, figyelemfelhívásra alkalmas módon közzéteszi a honlapján, valamint kifüggeszti az ügyfélszolgálati irodáiban, továbbá egyidejűleg megküldi a Felügyelet részére. A biztosító az eszközalap-felfüggesztést haladéktalanul megszünteti:
+(7) Az eszközalap-felfüggesztés időtartama legfeljebb egy év, amelyet a biztosító indokolt esetben összesen további egy évvel meghosszabbíthat. A biztosító a meghosszabbításról szóló döntését az eszközalap-felfüggesztés időtartamának lejártát legalább tizenöt nappal megelőzően, figyelemfelhívásra alkalmas módon közzéteszi a honlapján, valamint az ügyfélszolgálati irodáiban, továbbá egyidejűleg megküldi a Felügyelet részére. A biztosító az eszközalap-felfüggesztést haladéktalanul megszünteti:
 
 - a) az eszközalap-felfüggesztés időtartamának lejártát követően;
 - b) az eszközalap-felfüggesztés okául szolgáló körülmény megszűnéséről való tudomásszerzését követően; vagy
@@ -1610,7 +1610,7 @@ azzal, hogy a díjrészhez kapcsolódó megképzett tartalékon arányosan felsz
 - a) az eszközalap-felfüggesztés és a szétválasztás törvényi megalapozottságáról, végrehajtásáról, annak indokáról, a felfüggesztés kezdő időpontjáról, a biztosítási szerződést és annak teljesítését érintő következményeiről, ideértve különösen az ügyfeleket érintő befektetési kockázatok változását, valamint a költségek és díjak érvényesítésének szabályait; és
 - b) az eszközalap-felfüggesztés megszüntetéséről, annak indokáról, valamint a megszüntetésnek a biztosítási szerződést és annak teljesítését érintő következményeiről.
 
-(13) A biztosító a (12) bekezdés szerinti tájékoztatást az eszközalap-felfüggesztés és a szétválasztás végrehajtásával, valamint az eszközalap-felfüggesztés megszüntetésével egyidejűleg, figyelemfelhívásra alkalmas módon közzéteszi a honlapján és kifüggeszti az ügyfélszolgálati irodáiban, továbbá a tájékoztatást folyamatosan naprakészen tartja. A biztosító a tájékoztatást egyidejűleg megküldi a Felügyelet részére.
+(13) A biztosító a (12) bekezdés szerinti tájékoztatást az eszközalap-felfüggesztés és a szétválasztás végrehajtásával, valamint az eszközalap-felfüggesztés megszüntetésével egyidejűleg, figyelemfelhívásra alkalmas módon közzéteszi a honlapján és az ügyfélszolgálati irodáiban, továbbá a tájékoztatást folyamatosan naprakészen tartja. A biztosító a tájékoztatást egyidejűleg megküldi a Felügyelet részére.
 
 #### 52. Az eszközalap nettó eszközértéke számításában bekövetkezett hiba esetén alkalmazandó szabályok
 
@@ -1704,7 +1704,7 @@ céljából a nemi hovatartozásra vonatkozó, illetve azzal összefüggő adato
 
 - a) a feladatkörében eljáró Felügyelettel,
 - b) a nyomozás elrendelését követően a nyomozó hatósággal és az ügyészséggel,
-- c) büntetőügyben, polgári peres vagy nemperes eljárásban, közigazgatási határozatok bírósági felülvizsgálata során eljáró bírósággal, a bíróság által kirendelt szakértővel, továbbá a végrehajtási ügyben eljáró önálló bírósági végrehajtóval, a természetes személyek adósságrendezési eljárásában eljáró főhitelezővel, Családi Csődvédelmi Szolgálattal, családi vagyonfelügyelővel, bírósággal
+- c) büntetőügyben, polgári peres vagy nemperes eljárásban, közigazgatási határozatok bírósági felülvizsgálata során eljáró bírósággal, a bíróság által kirendelt szakértővel, továbbá a végrehajtási ügyben eljáró önálló bírósági végrehajtóval, a csődeljárásban eljáró vagyonfelügyelővel, a felszámolási eljárásban eljáró ideiglenes vagyonfelügyelővel, rendkívüli vagyonfelügyelővel, felszámolóval, a természetes személyek adósságrendezési eljárásában eljáró főhitelezővel, Családi Csődvédelmi Szolgálattal, családi vagyonfelügyelővel, bírósággal
 - d) a hagyatéki ügyben eljáró közjegyzővel, továbbá az általa kirendelt szakértővel,
 - e) a (2) bekezdésben foglalt esetekben az adóhatósággal,
 - f) a feladatkörében eljáró nemzetbiztonsági szolgálattal,
@@ -1721,9 +1721,10 @@ céljából a nemi hovatartozásra vonatkozó, illetve azzal összefüggő adato
 - q) a feladatkörében eljáró alapvető jogok biztosával,
 - r) a feladatkörében eljáró Nemzeti Adatvédelmi és Információszabadság Hatósággal,
 - s) a bonus-malus rendszer, az abba való besorolás, illetve a káresetek igazolásának részletes szabályairól szóló miniszteri rendeletben meghatározott kártörténeti adatra és bonus-malus besorolásra nézve a rendeletben szabályozott esetekben a biztosítóval,
-- t) a mezőgazdasági biztosítási szerződés díjához nyújtott támogatást igénybe vevő biztosítottak esetében az agrárkár-megállapító szervvel, a mezőgazdasági igazgatási szervvel, az agrárkár-enyhítési szervvel, valamint az agrárpolitikáért felelős miniszter által vezetett minisztérium irányítása alatt álló, gazdasági elemzésekkel foglalkozó intézménnyel
+- t) a mezőgazdasági biztosítási szerződés díjához nyújtott támogatást igénybe vevő biztosítottak esetében az agrárkár-megállapító szervvel, a mezőgazdasági igazgatási szervvel, az agrárkár-enyhítési szervvel, valamint az agrárpolitikáért felelős miniszter által vezetett minisztérium irányítása alatt álló, gazdasági elemzésekkel foglalkozó intézménnyel,
+- u) a felszámoló szervezeteket nyilvántartó hatósággal,
 
-szemben, ha az a)–j), n), s) és t) pontban megjelölt szerv vagy személy írásbeli megkereséssel fordul hozzá, amely tartalmazza az ügyfél nevét vagy a biztosítási szerződés megjelölését, a kért adatok fajtáját, az adatkérés célját és jogalapját, azzal, hogy a p)–s) pontban megjelölt szerv vagy személy kizárólag a kért adatok fajtáját, az adatkérés célját és jogalapját köteles megjelölni. A cél és a jogalap igazolásának minősül az adat megismerésére jogosító jogszabályi rendelkezés megjelölése is.
+szemben, ha az a)–j), n), s), t) és u) pontban megjelölt szerv vagy személy írásbeli megkereséssel fordul hozzá, amely tartalmazza az ügyfél nevét vagy a biztosítási szerződés megjelölését, a kért adatok fajtáját, az adatkérés célját és jogalapját, azzal, hogy a p)–s) pontban megjelölt szerv vagy személy kizárólag a kért adatok fajtáját, az adatkérés célját és jogalapját köteles megjelölni. A cél és a jogalap igazolásának minősül az adat megismerésére jogosító jogszabályi rendelkezés megjelölése is.
 
 (2) Az (1) bekezdés e) pontja alapján a biztosítási titok megtartásának kötelezettsége abban az esetben nem áll fenn, ha adóügyben, az adóhatóság felhívására a biztosítót törvényben meghatározott körben nyilatkozattételi kötelezettség, vagy ha biztosítási szerződésből eredő adókötelezettség alá eső kifizetésről törvényben meghatározott adatszolgáltatási kötelezettség terheli.
 
@@ -1841,7 +1842,7 @@ van összefüggésben.
 
 148/A. § (1) Az Aktv. szerinti, e törvény hatálya alá tartozó Jelentő Magyar Pénzügyi Intézmény (ezen alcím alkalmazásában a továbbiakban: intézmény) az általa kezelt, az Aktv. 1. melléklet VIII/C. pontja szerinti Pénzügyi Számla vonatkozásában elvégzi az Aktv. szerinti Számlatulajdonos és Jogalany (ezen alcím alkalmazásában a továbbiakban együtt: Számlatulajdonos) illetőségének az Aktv. 1. melléklet II–VII. pontja szerinti megállapítására irányuló vizsgálatot (ezen alcím alkalmazásában a továbbiakban: illetőségvizsgálat).
 
-(2) Az intézmény a Számlatulajdonost az illetőségvizsgálat elvégzésével egyidejűleg az ügyfélfogadásra nyitva álló helyiségeiben kifüggesztett hirdetmény útján vagy – ha az lehetséges – elektronikus úton tájékoztatja
+(2) Az intézmény a Számlatulajdonost az illetőségvizsgálat elvégzésével egyidejűleg az ügyfélfogadásra nyitva álló helyiségeiben közzétett hirdetmény útján vagy – ha az lehetséges – elektronikus úton tájékoztatja
 
 - a) az illetőségvizsgálat elvégzéséről,
 - b) az Aktv. 43/H. §-a alapján az adóhatóság felé fennálló adatszolgáltatási kötelezettségéről.
@@ -2006,7 +2007,7 @@ van összefüggésben.
 
 159. § (1) A biztosító biztosítja, hogy az ügyfél a biztosító magatartására, tevékenységére vagy mulasztására vonatkozó panaszát szóban (személyesen, telefonon) vagy írásban (személyesen vagy más által átadott irat útján, postai úton, telefaxon, elektronikus levélben) közölhesse.
 
-(2) Telefonon történő panaszkezelés esetén a biztosító és az ügyfél közötti telefonos kommunikációt a biztosító hangfelvétellel rögzíti, és a hangfelvételt öt évig megőrzi. Erről az ügyfelet a telefonos ügyintézés kezdetekor tájékoztatni kell. Az ügyfél kérésére biztosítani kell a hangfelvétel visszahallgatását, továbbá térítésmentesen tizenöt napon belül rendelkezésre kell bocsátani a hangfelvételről készített hitelesített jegyzőkönyvet.
+(2) Telefonon történő panaszkezelés esetén a biztosító és az ügyfél közötti telefonos kommunikációt a biztosító hangfelvétellel rögzíti, és a hangfelvételt öt évig megőrzi. Erről az ügyfelet a telefonos ügyintézés kezdetekor tájékoztatni kell. Az ügyfél kérésére biztosítani kell a hangfelvétel visszahallgatását, továbbá térítésmentesen – kérésének megfelelően – huszonöt napon belül rendelkezésére kell bocsátani a hangfelvételről készített hitelesített jegyzőkönyvet vagy a hangfelvétel másolatát.
 
 (3) A biztosító a panaszt és az arra adott választ öt évig őrzi meg, és azt a Felügyeletnek kérésére bemutatja.
 
@@ -3073,7 +3074,7 @@ igazolását.
 - f) a minősített vagy ellenőrző befolyás megszerzéséhez szükséges pénzügyi forrás törvényes eredetének igazolását;
 - g) nyilatkozatot arról, hogy a kérelmező egyéb tulajdonosi érdekeltsége és tevékenysége nem veszélyezteti a pénzügyi intézmény működését, továbbá hogy milyen – az Szmt. szerinti – függő és jövőbeni kötelezettségei vannak;
 - h) az ellenőrző befolyás megszerzésére, a tulajdonszerzésre, illetve a szavazati joghoz kapcsolódó jelentős előnyöket biztosító megállapodásra tett szerződéses ajánlatot;
-- i) nem természetes személy kérelmező esetén a kérelmező tulajdonosi szerkezetének részletes leírását;
+- i) nem természetes személy kérelmező esetén a kérelmező tulajdonosi szerkezetének okiratokkal alátámasztott részletes leírását, ideértve – amennyiben ez lehetséges – a tényleges tulajdonosok bemutatását is;
 - j) a 238. § g) és h) pontjában meghatározott nyilatkozatokat;
 - k) a kérelmező teljes bizonyító erejű magánokiratban foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárul az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának a Felügyelet által megkeresett szervek útján történő ellenőrzéséhez.
 
@@ -4081,6 +4082,8 @@ fedezete nem elegendő, vagy az előírt mérték alá csökkent;
 
 birtokában végezheti a biztosításközvetítői tevékenységét.
 
+(6a) A Felügyelet érvényteleníti annak a vizsgázónak a hatósági vizsgáját, aki a vizsgát a Felügyelet félrevezetésével, hamis adatok közlésével, jogszabályban meghatározott feltételek hiányában vagy a vizsgáztatás szabályainak megsértésével tette le. Ha a hatósági vizsga letételét igazoló tanúsítványt a Felügyelet már kiadta, úgy intézkedik annak visszavonásáról.
+
 (7) Az a természetes személy, aki a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendeletben meghatározott hatósági vizsga birtokában biztosításközvetítői tevékenység végzésére jogosult lenne, de a felügyeleti nyilvántartásból történő törléstől vagy – nyilvántartásba vétel hiányában – a hatósági vizsga letételétől számított öt év már eltelt, abban az esetben vehető fel a felügyeleti nyilvántartásba, ha újból hatósági vizsgát tesz.
 
 370. § (1) A biztosításközvetítői tevékenység végzéséhez nem szükséges a Felügyelet által történő nyilvántartásba vétel, ha a biztosításközvetítői tevékenységet
@@ -4138,7 +4141,7 @@ végzi.
 
 375. § (1) A 131. §-ban meghatározott rendelkezéseket alkalmazni kell a biztosításközvetítő által történő termékterjesztésre is.
 
-(2) A független biztosításközvetítő és a többes ügynök esetében megfelelően alkalmazni kell a 108/A. §-ban meghatározott rendelkezéseket, azzal, hogy ahol a rendelkezés biztosítót említ, azon a független biztosításközvetítőt és a többes ügynököt kell érteni. Ha a független biztosításközvetítő vagy a többes ügynök nem rendelkezik honlappal, a közzétételi kötelezettségnek a székhelyén történő kifüggesztéssel is eleget tehet.
+(2) A független biztosításközvetítő és a többes ügynök esetében megfelelően alkalmazni kell a 108/A. §-ban meghatározott rendelkezéseket, azzal, hogy ahol a rendelkezés biztosítót említ, azon a független biztosításközvetítőt és a többes ügynököt kell érteni. Ha a független biztosításközvetítő vagy a többes ügynök nem rendelkezik honlappal, a közzétételi kötelezettségnek a székhelyén történő közzététellel is eleget tehet.
 
 #### 168. A biztosításközvetítők szakmai továbbképzése
 
@@ -4757,47 +4760,44 @@ rendelkezni.
 
 #### 188. A hatósági képzéssel és vizsgáztatással kapcsolatos nyilvántartás
 
-430. § (1) A Felügyelet a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendeletben meghatározott hatósági képzéssel és vizsgáztatással kapcsolatban nyilvántartást vezet a képző és vizsgáztató szervekről, a hatósági vizsgára jelentkező személyekről, a képző szerv által aláíró személyként megjelölt, a képzési igazolás kiállítására és aláírására feljogosított személyekről (a továbbiakban: aláíró személy), az oktatóról és a hatósági vizsga jogszabályban foglalt feltételeknek megfelelő lebonyolításának felügyeletére jogosult személyekről (a továbbiakban: vizsgabiztos).
+430. § (1) A Felügyelet a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendeletben meghatározott hatósági képzéssel és vizsgáztatással kapcsolatban, a hatósági képzés és vizsgáztatás hatósági ellenőrzésével, továbbá a hatósági képzésre és vizsgára történő jelentkezés lebonyolításával és a sikeres vizsgákat igazoló hatósági tanúsítvány kiadásával, pótlásával kapcsolatos feladatai ellátása érdekében nyilvántartást vezet a képzést vagy képzést és vizsgáztatást végző szervekről (a továbbiakban együtt: képző szerv), a hatósági vizsgára jelentkező személyekről, a képző szerv által aláíró személyként megjelölt, a képzési igazolás kiállítására és aláírására feljogosított személyekről (a továbbiakban: aláíró személy), az oktatókról, a hatósági vizsga jogszabályban foglalt feltételeknek megfelelő lebonyolításának felügyeletére jogosult személyekről (a továbbiakban: vizsgabiztos), valamint a hatósági vizsga letételét igazoló tanúsítványokról.
 
 (2) A közvetítői tevékenység gyakorlását lehetővé tevő közvetítői hatósági vizsgának és az ahhoz szükséges képzésnek a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendeletben meghatározott feltételeknek megfelelő képzés és vizsga fogadható el.
 
-(3) A képző és vizsgáztató szervekről vezetett nyilvántartás tartalmazza:
+(3) A képző szervekről vezetett nyilvántartás tartalmazza
 
 - a) a szerv megnevezését, székhelyét, levelezési címét,
 - b) a hatósági képzés helyszínének, a hatósági vizsga helyszínének címét,
 - c) a nyilvántartási számot,
 - d) az intézményi kódot,
 - e) a nyilvántartásba vételről szóló döntés ügyiratszámát,
-- f) az aláíró személy nevét és személyi kódját, és
+- f) az aláíró személy és az oktató nevét és személyi kódját és
 - g) a nyilvántartásba vétel időpontját.
 
-(4) A Felügyelet a nyilvántartásba vételről szóló döntésben a képző és vizsgáztató szerv részére nyilvántartási számot és intézményi kódot állapít meg.
+(4) A Felügyelet a nyilvántartásba vételről szóló döntésben a képző szerv részére nyilvántartási számot és intézményi kódot állapít meg.
 
-(5) Ha a Felügyelet a képző és vizsgáztató szerv nyilvántartásból történő törléséről döntést hozott, a (3) bekezdésben foglalt adatok mellett, a törlés időpontját, a törlésről szóló döntés ügyiratszámát, a döntés tényét, okát és a döntés jogerőre emelkedésének időpontját is nyilvántartja.
+(5) Ha a Felügyelet a képző szerv nyilvántartásból történő törléséről döntést hozott, a (3) bekezdésben foglalt adatok mellett, a törlés időpontját, a törlésről szóló döntés ügyiratszámát, a döntés tényét, okát és a döntés jogerőre emelkedésének időpontját is nyilvántartja.
 
-(6) A Felügyelet a hatósági képzés és vizsgáztatás hatósági ellenőrzésével, továbbá a hatósági képzésre történő jelentkezés lebonyolításával és a sikeres vizsgákat igazoló hatósági tanúsítvány kiadásával, pótlásával kapcsolatos feladatai ellátása érdekében nyilvántartást vezet
+(6) Az aláíró személyekről, az oktatókról, a hatósági vizsgára jelentkező személyekről és a vizsgabiztosokról vezetett nyilvántartás tartalmazza az adott személy
 
-- a) az aláíró személyekről;
-- b) az oktatóról;
-- c) a hatósági vizsgára jelentkező személyekről; és
-- d) a vizsgabiztosokról.
+- a) nevét és születési nevét,
+- b) anyja nevét,
+- c) születési helyét, idejét,
+- d) lakcímét,
+- e) személyi kódját és
+- f) – amennyiben vizsgabiztosi tevékenységet lát el – nyilvántartási számát, valamint a nyilvántartásból való törlése esetén a törlés tényét és időpontját.
 
-(7) A Felügyelet által vezetett nyilvántartás tartalmazza a (6) bekezdésben meghatározott személyek vonatkozásában:
+(7) A Felügyelet a nyilvántartásba vételről szóló döntésben a (6) bekezdésben meghatározott személyek számára személyi kódot állapít meg.
 
-- a) nevét és születési nevét;
-- b) anyja nevét;
-- c) születési helyét, idejét;
-- d) lakcímét;
-- e) személyi kódját; és
-- f) a vizsgabiztos esetében a nyilvántartási számát, valamint a nyilvántartásból való törlése esetén a törlés tényét és időpontját.
-
-(8) A Felügyelet a nyilvántartásba vételről szóló döntésben az (1) bekezdésben meghatározott személyek számára személyi kódot állapít meg.
+(8) A hatósági vizsga letételét igazoló, elveszett vagy megsemmisült tanúsítvány pótlására – erre irányuló kérelem esetén – a Felügyelet a nyilvántartása alapján másodlatot állít ki, amit a kérelmező a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendelet szerinti hatósági vizsgára történő jelentkezési lapban meghatározott – vizsgaidőpontban érvényes – adatainak megadásával igényelhet.
 
 (9) Az e §-ban meghatározott nyilvántartással érintett személyes adatok tekintetében az adatkezelő a Felügyelet.
 
-(9a) A Felügyelet az (1) bekezdésben meghatározott nyilvántartásban szereplő személyes adatokat az adott személy hatósági képzésben vagy vizsgáztatásban történő közreműködésétől számított tizenöt év elteltével törli a nyilvántartásból, ide nem értve azokat az adatokat, amelyek hatósági vizsga letételét igazoló tanúsítvány nyilvántartásához szükségesek.
+(10) A Felügyelet az (1) bekezdésben meghatározott nyilvántartásban szereplő személyes adatokat az adott személy hatósági képzésben vagy vizsgáztatásban történő közreműködésétől számított tizenöt év elteltével törli a nyilvántartásból, ide nem értve azokat az adatokat, amelyek hatósági vizsga letételét igazoló tanúsítvány nyilvántartásához szükségesek.
 
-(10) A hatósági képzés és vizsgáztatás során a Felügyelet jogosult ellenőrizni a hatósági képzést és vizsgáztatást végző, a hatósági képzésben és vizsgáztatásban részt vevő szervezeteket és személyeket.
+(11) A Felügyelet jogosult vizsgáztatási tevékenységet folytatni a – vizsgáztatási tevékenységet végző szervekre és a hatósági vizsgára vonatkozó – jogszabályi követelmények betartásával.
+
+(12) A hatósági képzés és vizsgáztatás során a Felügyelet jogosult ellenőrizni a hatósági képzést, illetve vizsgáztatást végző, a hatósági képzésben és vizsgáztatásban részt vevő szervezeteket és személyeket.
 
 ### XXXIII. Fejezet — A BIZTOSÍTÁSKÖZVETÍTŐKKEL KAPCSOLATOS INTÉZKEDÉSEK
 

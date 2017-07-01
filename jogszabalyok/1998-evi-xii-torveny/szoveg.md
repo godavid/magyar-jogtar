@@ -412,6 +412,8 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 
 (1c) Az adatkezelő szerv a 24. § (1) bekezdés a) és e) pontjában meghatározott adatokat a körözési nyilvántartó szerv részére az úti okmány adatainak a körözési nyilvántartási rendszerbe rögzítését megelőző ellenőrzése céljából átadhatja.
 
+(1d) Az adatkezelő szerv a szerencsejáték szervezéséről szóló törvény szerinti szervező részére a természetes személy által megadott, a szerencsejáték szervezéséről szóló törvényben meghatározott adatok nyilvántartási adatokkal való egyezőségének és az úti okmány érvényességének tényéről adatszolgáltatást teljesít a természetes személy személyazonosságának igazoló ellenőrzése céljából.
+
 (2) Az adatkezelő szerv – ha törvény másként nem rendelkezik – a 24. § (1) bekezdés g) pontban meghatározott adatokról adatszolgáltatást nem teljesíthet, ide nem értve az érintett személy 28. § (2a) és (2b) bekezdésben foglalt tájékoztatási jogát, illetve hatósági bizonyítvány iránti igénylését.
 
 (2a) A választási szerv a külön törvényben meghatározott feladatai ellátásához – közvetlen adathozzáféréssel – adatokat vehet át az adatkezelő szerv által a 24. § (1) bekezdés a) és e) pontja alapján kezelt adatállományból.

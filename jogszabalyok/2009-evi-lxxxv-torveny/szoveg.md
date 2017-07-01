@@ -150,7 +150,7 @@ vonatkoznak.
 - a) a szolgáltatás lényeges jellemzőiről, ideértve a készpénz-helyettesítő fizetési eszköz használatának módjáról,
 - b) tételesen a szolgáltató részére fizetendő valamennyi díjról, költségről vagy egyéb fizetési kötelezettségről,
 - c) minden olyan adatról, amely a megalapozott döntéshozatalhoz szükséges, valamint
-- d) a 10. §-ban meghatározott adatok honlapon és az ügyfelek számára nyitva álló helységben való kifüggesztéssel való hozzáférhetővé tételéről.
+- d) a 10. §-ban meghatározott adatok honlapon és az ügyfelek számára nyitva álló helyiségben közzététel útján történő hozzáférhetővé tételéről.
 
 (2) A pénzforgalmi szolgáltató nem köteles az (1) bekezdés b) pontja szerinti tájékoztatást megadni, ha
 
@@ -169,7 +169,7 @@ kívüli szolgáltatás.
 
 ### Szerződés formai és tartalmi követelményei
 
-13. § A pénzforgalmi szolgáltatási keretszerződést írásban kell megkötni.
+13. § A pénzforgalmi szolgáltatási keretszerződést írásban – ideértve a legalább fokozott biztonságú elektronikus aláírással ellátott elektronikus okirati formát is – vagy a Hpt.-ben meghatározottak szerinti azonosított elektronikus úton kell megkötni.
 
 14. § (1) A pénzforgalmi szolgáltatási keretszerződés tartalmazza
 
@@ -353,7 +353,7 @@ FIZETÉSI SZÁMLA FELETTI RENDELKEZÉS
 
 ### Előzetes tájékoztatás
 
-29. § (1) A pénzforgalmi szolgáltató az ügyfelet az ügyfél egyszeri fizetési megbízásra irányuló jognyilatkozatát megelőzően köteles a 31. §-ban foglaltakról honlapján és az ügyfelek számára nyitva álló helységben kifüggesztve tájékoztatni.
+29. § (1) A pénzforgalmi szolgáltató az ügyfelet az ügyfél egyszeri fizetési megbízásra irányuló jognyilatkozatát megelőzően köteles a 31. §-ban foglaltakról honlapján és az ügyfelek számára nyitva álló helyiségben közzététel útján tájékoztatni.
 
 (2) A pénzforgalmi szolgáltató e tájékoztatási kötelezettségének egyértelműen, közérthetően és pontosan, magyar nyelven vagy az ügyféllel történt megállapodásban kikötött más nyelven tesz eleget.
 
@@ -370,7 +370,7 @@ FIZETÉSI SZÁMLA FELETTI RENDELKEZÉS
 - c) tételesen az ügyfél által a pénzforgalmi szolgáltató részére fizetendő valamennyi díjról, költségről vagy egyéb fizetési kötelezettségről, és
 - d) a pénzforgalmi szolgáltató által a fizetési művelet teljesítése során alkalmazandó tényleges vagy referencia-árfolyamról.
 
-(2) Az (1) bekezdésben meghatározott adatokon túl a pénzforgalmi szolgáltató köteles a 10. §-ban meghatározott adatokról az ügyfelet honlapján és az ügyfelek számára nyitva álló helységben kifüggesztve tájékoztatni.
+(2) Az (1) bekezdésben meghatározott adatokon túl a pénzforgalmi szolgáltató köteles a 10. §-ban meghatározott adatokról az ügyfelet honlapján és az ügyfelek számára nyitva álló helyiségben közzététel útján tájékoztatni.
 
 (3) A pénzforgalmi szolgáltató nem köteles az (1) bekezdés b) és c) pontja szerinti tájékoztatást megadni, ha
 
@@ -473,6 +473,8 @@ köteles megőrizni, illetve tárolni.
 36/B. § A Magyarországon elhelyezett automata bankjegykiadó gépből készpénz-helyettesítő fizetési eszköz útján fizetési számláról történő készpénzfelvétel fizetési műveleti értékhatárának felső mértéke műveletenként hetvenötezer forintnál alacsonyabb összeg nem lehet.
 
 36/C. § Fogyasztónak fizetési számlát vezető pénzforgalmi szolgáltató jogszabályban meghatározott feltételek teljesülése esetén a fogyasztó kérésére köteles a fizetési számla váltásához kapcsolódó eljárással összefüggő szolgáltatást nyújtani.
+
+36/D. § Az olyan gondnokolt és gondnok, akinek a számára pénzforgalmi szolgáltató nem bocsát ki automata bankjegykiadó gépből készpénzfelvételt lehetővé tevő készpénz-helyettesítő fizetési eszközt, jogosult a 36/A. §-ban meghatározott feltételű készpénzfelvételre a fizetési számláját vezető pénzforgalmi szolgáltatója bármely pénztárában, ha a pénzforgalmi szolgáltatójának tevékenysége pénztári szolgáltatás nyújtására is kiterjed.
 
 ### VIII. Fejezet — FIZETÉSI MŰVELETEK JÓVÁHAGYÁSA
 

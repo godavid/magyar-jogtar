@@ -210,7 +210,7 @@ biztosító jelzálogjog, valamint ezzel összefüggően a Magyar Állam, mint a
 - c) az a)–b) pontokba nem tartozó más köztartozás, és
 - d) az a)–c) pontok valamelyikében foglalt feltétel teljesülését, valamint az utólagos díjfizetésre irányuló igényt a megkeresés tartalmazza.
 
-(12)
+(12) A felszámolás tényének az ingatlan-nyilvántartásba történő feljegyzése esetén az eljárásért fizetendő díjat utólagosan fizeti meg a felszámolási eljárás alatt álló jogi személy. A díjfizetési kötelezettség akkor válik esedékessé, ha a felszámolási eljárás során az ingatlant érintő tulajdonosváltozás bejegyzése érdekében nyújtanak be okiratot vagy megkeresést, ilyen okirat vagy megkeresés hiányában pedig a felszámolási eljárást befejező bírósági végzés jogerőre emelkedésének napján.
 
 (13) A 32/A. § (4) bekezdésében meghatározott díjat a soron kívüli eljárás lefolytatása iránti kérelem előterjesztésével egyidejűleg kell az ingatlanügyi hatóság pénztárába befizetni, vagy amennyiben az ingatlanügyi hatóság hivatali helyiségében erre lehetőség van, az eljárás megindításával egyidejűleg bankkártyával megfizetni, illetve a díj készpénz-átutalási megbízással, illetve átutalási megbízással történő megfizetése esetén mellékelni kell a kérelemhez a díj megfizetését igazoló bizonylatot vagy annak másolatát.
 

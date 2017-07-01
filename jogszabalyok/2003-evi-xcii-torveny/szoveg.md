@@ -239,7 +239,7 @@ teljesíti;
   - bg) könyvelő,
   - bh) számviteli, könyvviteli szolgáltatásra vagy adótanácsadásra jogosult gazdasági társaság alkalmazottja, tagja,
   - bi) környezetvédelmi termékdíjjal kapcsolatos ügyben termékdíj ügyintéző szakképesítéssel rendelkező személy is,
-  - bj) a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló törvény szerinti jövedéki üggyel kapcsolatban jövedéki ügyintéző szakképesítéssel rendelkező személy is,
+  - bj) a jövedéki adóról szóló törvény szerinti jövedéki üggyel kapcsolatban jövedéki ügyintéző szakképesítéssel rendelkező személy is,
 - c) közokiratba vagy teljes bizonyító erejű magánokiratba foglalt eseti meghatalmazás, megbízás alapján más nagykorú személy képviselheti.
 
 (1a) Az egyéni vállalkozó magánszemélyt az adóhatóság, az adópolitikáért felelős miniszter által vezetett minisztérium előtt a képviseleti jogosultságát igazoló nagykorú alkalmazottja is képviselheti.
@@ -259,7 +259,7 @@ teljesíti;
   - ch) könyvelő,
   - ci) számviteli, könyvviteli szolgáltatásra vagy adótanácsadásra jogosult gazdasági társaság, illetve egyéb szervezet alkalmazottja, tagja,
   - cj) környezetvédelmi termékdíjjal kapcsolatos ügyben termékdíj ügyintéző szakképesítéssel rendelkező személy is,
-  - ck) a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló törvény szerinti jövedéki üggyel kapcsolatban jövedéki ügyintéző szakképesítéssel rendelkező személy is képviselheti.
+  - ck) a jövedéki adóról szóló törvény szerinti jövedéki üggyel kapcsolatban jövedéki ügyintéző szakképesítéssel rendelkező személy is képviselheti.
 
 (3) Az általános forgalmi adóról szóló törvény szerinti adóvisszatérítési-jog érvényesítésére irányuló eljárásban az általános forgalmi adóról szóló törvény szerint belföldön nem letelepedett adóalanyt külföldi magánszemély, jogi személy vagy egyéb szervezet is képviselheti az adóhatóság előtt.
 
@@ -451,14 +451,14 @@ teljesíti;
 
 (10) Az előtársaság a cégbejegyzési kérelme benyújtása napjáig tartó időszakában az Efo. tv.-ben meghatározott bejelentési kötelezettségének elektronikus úton, a központi elektronikus szolgáltató rendszeren keresztül, adószám feltüntetése nélkül tesz eleget. Az előtársaság az adószám megszerzésétől számított nyolc napon belül – az adószámot és a korábban teljesített bejelentés adóhatósági iktatószámát is feltüntetve – ismételten bejelenti a cégbejegyzési kérelem benyújtását megelőzően az Efo. tv. keretében általa foglalkoztatott természetes személy Efo. tv. 11. § (3) bekezdése szerinti adatait.
 
-(11) Az iskolaszövetkezetnek a Tbj. 5. § (1) bekezdés b) pontja alapján biztosítottnak nem minősülő, a szövetkezetekről szóló 2006. évi X. törvény 10/B. § (2) bekezdése szerinti megállapodás alapján személyesen közreműködő tagja esetében – a (4) bekezdésben foglaltaktól eltérően – az iskolaszövetkezet az állami adó- és vámhatóság felé köteles a külső szolgáltatásra vonatkozó tagsági megállapodás megkötésének napján bejelenteni
+(11) Az iskolaszövetkezetnek, illetve a közérdekű nyugdíjas szövetkezetnek a Tbj. 5. § (1) bekezdés b) pontja alapján biztosítottnak nem minősülő, a szövetkezetekről szóló törvény szerinti tagsági megállapodás alapján személyesen közreműködő tagja esetében – a (4) bekezdésben foglaltaktól eltérően – az iskolaszövetkezet, illetve a közérdekű nyugdíjas szövetkezet az állami adó- és vámhatóság felé köteles a külső szolgáltatásra vonatkozó tagsági megállapodás megkötésének napján bejelenteni
 
-- a) az iskolaszövetkezet adószámát,
-- b) az iskolaszövetkezeti tag adóazonosító jelét és társadalombiztosítási azonosító jelét, diákigazolványa számát.
+- a) az iskolaszövetkezet, illetve a közérdekű nyugdíjas szövetkezet adószámát,
+- b) az iskolaszövetkezeti, illetve a közérdekű nyugdíjas szövetkezeti tag adóazonosító jelét és társadalombiztosítási azonosító jelét, iskolaszövetkezeti tag esetén diákigazolványa számát, illetve közérdekű nyugdíjas szövetkezeti tag esetén nyugdíjfolyósítási törzsszámát is.
 
-(11a) Az iskolaszövetkezet köteles az állami adó- és vámhatósághoz bejelenteni a jogviszony megszűnését követő 8 napon belül az iskolaszövetkezeti tag jogviszonya megszűnésének napját. Jogutódlás esetén a (4) bekezdés c) pontjában foglaltakat megfelelően alkalmazni kell.
+(11a) Az iskolaszövetkezet, illetve a közérdekű nyugdíjas szövetkezet köteles az állami adó- és vámhatósághoz bejelenteni a jogviszony megszűnését követő 8 napon belül az iskolaszövetkezeti, illetve közérdekű nyugdíjas szövetkezeti tag jogviszonya megszűnésének napját. Jogutódlás esetén a (4) bekezdés c) pontjában foglaltakat megfelelően alkalmazni kell.
 
-(12) Az iskolaszövetkezet munkáltató bejelentési kötelezettségét az egyszerűsített foglalkoztatás bejelentésével azonos módon
+(12) Az iskolaszövetkezet, illetve a közérdekű nyugdíjas szövetkezet bejelentési kötelezettségét az egyszerűsített foglalkoztatás bejelentésével azonos módon
 
 - a) elektronikus úton központi elektronikus szolgáltató rendszeren (ügyfélkapun) keresztül vagy
 - b) telefonos ügyfélszolgálaton keresztül telefonon
@@ -665,7 +665,7 @@ adóazonosító számát, ennek hiányában magánszemély esetén a természete
 
 (6) Az általános forgalmiadó-alanynak nem minősülő adófizetésre kötelezett jogi személy, a kizárólag adólevonásra nem jogosító tevékenységet folytató adóalany, az alanyi adómentességet választó adóalany, a kizárólag mezőgazdasági tevékenységet folytató, különleges jogállású adóalany, valamint az egyszerűsített vállalkozói adó alanya, ha a tárgyévet megelőző évben általa az Európai Közösség más tagállamában beszerzett termék adó nélkül számított összesített ellenértéke nem haladja meg a 10 000 eurót és a Közösségen belül beszerzett termékek utáni általános forgalmiadó-fizetési kötelezettségét a tárgyévben választása alapján belföldön kívánja teljesíteni, választását a tárgyévet megelőző adóév utolsó napjáig jelenti be az állami adó- és vámhatóságnak. Amennyiben a tárgyévet megelőző évben nem volt Közösségen belüli beszerzése, e választását a tárgyévre a tárgyévi első Közösségen belüli beszerzését megelőzően jelenti be.
 
-(7) Az állami adó- és vámhatóság az (5) és (6) bekezdés szerinti bejelentés alapján az adózó részére közösségi adószámot állapít meg. Az általános forgalmiadó-alanynak nem minősülő adófizetésre kötelezett jogi személy, a kizárólag adólevonásra nem jogosító tevékenységet folytató adóalany, az alanyi adómentességet választó adóalany, a kizárólag mezőgazdasági tevékenységet folytató, különleges jogállású adóalany, ha a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló törvény hatálya alá tartozó termék közösségen belülről történő beszerzése miatt belföldön keletkezik általános forgalmiadó-fizetési kötelezettsége, beszerzését megelőzően köteles közösségi adószámot kérni az állami adó- és vámhatóságtól.
+(7) Az állami adó- és vámhatóság az (5) és (6) bekezdés szerinti bejelentés alapján az adózó részére közösségi adószámot állapít meg. Az általános forgalmiadó-alanynak nem minősülő adófizetésre kötelezett jogi személy, a kizárólag adólevonásra nem jogosító tevékenységet folytató adóalany, az alanyi adómentességet választó adóalany, a kizárólag mezőgazdasági tevékenységet folytató, különleges jogállású adóalany, ha a jövedéki adóról szóló törvény hatálya alá tartozó termék közösségen belülről történő beszerzése miatt belföldön keletkezik általános forgalmiadó-fizetési kötelezettsége, beszerzését megelőzően köteles közösségi adószámot kérni az állami adó- és vámhatóságtól.
 
 (8) Ha a kizárólag adólevonásra nem jogosító tevékenységet folytató adóalany, az alanyi adómentességet választó adóalany, a kizárólag mezőgazdasági tevékenységet folytató, különleges jogállású adóalany az általános forgalmi adóról szóló törvény 20. §-ának (7) bekezdése alkalmazása során közösségi adószámát megadta a termék értékesítőjének, e tényt az e rendelkezéssel érintett első Közösségen belüli beszerzés teljesítésének napját követő hónap 20. napjáig jelenti be az állami adó- és vámhatósághoz.
 
@@ -679,7 +679,7 @@ adóazonosító számát, ennek hiányában magánszemély esetén a természete
 
 (13) A belföldi illetőségű általános forgalmiadó-alany, ha az általános forgalmi adóról szóló törvény 29–30. §-ai alapján általános forgalmiadó-fizetési kötelezettségét választása alapján vagy az értékhatár túllépése miatt másik tagállamban teljesíti, azt a választását, illetőleg az értékhatár túllépését követő 15 napon belül köteles bejelenteni az állami adó- és vámhatóságnak.
 
-(14) Az (5)–(6) bekezdésekben euróban meghatározott értékhatárok forintra történő átváltására az általános forgalmi adóról szóló törvény rendelkezései az irányadók. A beszerzések összesített ellenértékének megállapításánál figyelmen kívül kell hagyni az új közlekedési eszköz, illetőleg a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló törvény hatálya alá tartozó termék adó nélkül számított ellenértékét.
+(14) Az (5)–(6) bekezdésekben euróban meghatározott értékhatárok forintra történő átváltására az általános forgalmi adóról szóló törvény rendelkezései az irányadók. A beszerzések összesített ellenértékének megállapításánál figyelmen kívül kell hagyni az új közlekedési eszköz, illetve a jövedéki adóról szóló törvény hatálya alá tartozó termék adó nélkül számított ellenértékét.
 
 (15) Az a belföldi jogi személy és egyéb szervezet, amely az általános forgalmi adónak nem alanya, de a beszerzéseit terhelő, előzetesen felszámított általános forgalmi adót visszaigényelheti, a visszaigénylés érdekében ezt a jogosultságát bejelentheti és adó-visszaigénylését az általános forgalmi adó alanyokkal azonos módon kérheti.
 
@@ -4199,7 +4199,7 @@ részére az állami adóhatóság által teljesített adatátadással érintett
 
 (12) A (11) bekezdésben említett munkáltató és a kifizető külön törvény alapján a kincstárral szembeni elszámolásában a kifizetést terhelő adóról (adóelőlegről) az elszámolt hónapot (kifizetést) követő hó 20-áig adatot szolgáltat az állami adó- és vámhatóságának.
 
-(13) A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló törvény, valamint a 22/E. § kivételével az adótörvények alkalmazásában, az általános forgalmi adó esetében a hivatkozással meghatározott termékek (építmények) és szolgáltatások vonatkozásában
+(13) A 22/E. § és a jövedéki adóról szóló törvény kivételével az adótörvények alkalmazásában, az általános forgalmi adó esetében a hivatkozással meghatározott termékek (építmények) és szolgáltatások vonatkozásában
 
 - a) a Kereskedelmi Vámtarifa (vtsz.) 2002. év július hó 31. napján hatályos,
 - b) a Központi Statisztikai Hivatal Építményjegyzékének (ÉJ) 2002. év július hó 31. napján érvényes,

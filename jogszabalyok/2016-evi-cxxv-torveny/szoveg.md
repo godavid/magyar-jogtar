@@ -484,10 +484,10 @@ lép.
 
 lép.
 
-206. § Hatályát veszti az Art.
+206. §
 
 - 1.
-- 2. 22/D. § (2) és (3) bekezdése,
+- 2.
 - 3–10.
 
 #### 25. Az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény módosítása

@@ -410,10 +410,10 @@ lép.
 87. § Hatályát veszti a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény
 
 - a)
-- b)
+- b) 4. § (8) bekezdése,
 - c)–j)
-- k)
-- l)
+- k) 26. § (2) bekezdésében az „a földrészletek fekvése szerinti területi szervezeti egységeinél,” szövegrész,
+- l) 27. §-ában az „és a területi szervezeti egységeinél,” szövegrész,
 - m)
 
 #### 88. A fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény módosítása
@@ -545,7 +545,7 @@ lép.
 
 (13) Hatályát veszti az Fktv.
 
-- a)
+- a) 5/A. §-a,
 - b)–f)
 
 #### 112. A körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény módosítása

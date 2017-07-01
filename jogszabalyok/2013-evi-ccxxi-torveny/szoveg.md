@@ -75,6 +75,14 @@ a hitelbiztosítéki nyilvántartásról
 
 (2) Ha a MOKK észleli, hogy a nyilvántartás adata és a hitelbiztosítéki nyilatkozat (módosítás, törlés) adata között eltérés van, a hitelbiztosítéki rendszer útján intézkedik annak érdekében, hogy a nyilvántartás a hitelbiztosítéki nyilatkozat adatát tartalmazza. Az adat változásáról a hitelbiztosítéki nyilatkozat által érintett regisztrált felhasználónak rendszerüzenetben kell tájékoztatást adni.
 
+6/A. § (1) A közjegyző által elektronikusan kézbesíteni rendelt irathoz (a továbbiakban: elektronikus irat) a címzett a regisztrációjához tartozó felhasználói felületről férhet hozzá. A kézbesítendő elektronikus irat felhasználói felületről történő hozzáférhetővé tételével egyidejűleg erről a MOKK rendszere rendszerüzenetben értesítést küld.
+
+(2) Az elektronikus iratot a címzett az átvételi elismervény minősített elektronikus aláírással és minősített időbélyegzővel történő ellátásával veheti át.
+
+(3) Ha a címzett az elektronikus irat felhasználói felületről történő hozzáférhetővé tételét követő nyolc munkanapon belül az iratot nem veszi át, akkor az iratot a hozzáférhetővé válást követő nyolcadik munkanapon hirdetmény útján kell kézbesíteni. A hirdetmény közzétételét követő napon az elektronikus irat kézbesítettnek tekintendő.
+
+(4) Hirdetményi kézbesítés esetén a hirdetmény a MOKK honlapján a címzett nevét, utolsó ismert címét, a hirdetményi úton kézbesítendő irat megnevezését, az ügyszámot és a hirdetmény közzétételének napját tartalmazza azzal a felhívással, hogy az irat a rendszerben megtekinthető a közzétételtől számított 15 napon belül. A hirdetmény szövege tartalmazza azt a tájékoztatást, hogy az irat a hirdetmény közzétételét követő napon kézbesítettnek tekintendő. A hirdetményi kézbesítésről a címzett rendszerüzenetben értesítésül.
+
 #### 3. A hitelbiztosítéki nyilatkozat megtétele
 
 7. § (1) A hitelbiztosítéki rendszer regisztrált felhasználója a hitelbiztosítéki rendszer felületén az erre szolgáló adatlap kitöltésével és a hitelbiztosítéki rendszerbe történő továbbításával a következő hitelbiztosítéki nyilatkozatokat teheti meg:
@@ -84,7 +92,10 @@ a hitelbiztosítéki nyilvántartásról
 - c) eladói nyilatkozat tulajdonjog-fenntartással történő eladásról,
 - d) faktori nyilatkozat,
 - e) lízingbeadói nyilatkozat,
-- f) egyéb, e törvény szerinti nyilatkozat.
+- f) jogszerzési nyilatkozat
+  - fa) tulajdonjog, más jog, követelés biztosítéki célból történő átruházásáról,
+  - fb) vételi jog biztosítéki célból történő kikötéséről,
+- g) egyéb, e törvény szerinti nyilatkozat.
 
 (2) A regisztrált felhasználó hitelbiztosítéki nyilatkozatát annak megtételekor minősített elektronikus aláírással és időbélyegzővel látja el, vagy az azonosításra visszavezetett dokumentumhitelesítés szabályai szerint hitelesíti. Elektronikus aláírás alkalmazása esetén kizárólag olyan aláírás-létrehozó adat használható, amelyet a 4. § (2) bekezdése szerinti adatokat tartalmazó kérelem aláírása során használtak, feltéve, hogy az űrlapon így elhelyezett elektronikus aláírás a regisztrált felhasználó hitelbiztosítéki rendszerben rögzített adataival a 4. § (4) bekezdése szerint összerendelésre került. Azonosításra visszavezetett dokumentumhitelesítés alkalmazása esetén a hitelbiztosítéki rendszerben rögzített adataival az azonosításra visszavezetett dokumentumhitelesítés által igazolt természetes azonosító adatai kerülnek összevetésre.
 
@@ -96,7 +107,7 @@ a hitelbiztosítéki nyilvántartásról
 
 (2) Az (1) bekezdés szerinti esetben a hitelbiztosítéki nyilatkozat megtétele céljából előtte megjelenő nyilatkozattevőt a közjegyző a 4. § (4)–(6) bekezdésében foglaltak szerint a hitelbiztosítéki rendszer felhasználójaként regisztrálja, majd annak hitelbiztosítéki nyilatkozatát a Kjtv. 175. § (1) bekezdésének alkalmazásával – hivatali elektronikus aláírásával ellátva – a 7. §-ban előírtak szerint rögzíti a nyilvántartásban.
 
-9. § A felek rendelkezése esetén a zálogszerződést, tulajdonjog-fenntartással történő eladást, faktoring szerződést vagy lízingszerződést
+9. § A felek rendelkezése esetén a zálogszerződést, tulajdonjog-fenntartással történő eladást, faktoring szerződést vagy pénzügyi lízingszerződést, továbbá a nem lajstromozott ingóra vonatkozó tulajdonjog, más jog, valamint követelés biztosítéki célból történő átruházásról, illetve e vagyontárgyakra vonatkozó vételi jognak biztosítéki célból történő kikötéséről szóló szerződést
 
 - a) közokiratba foglaló közjegyző, vagy
 - b) ellenjegyző ügyvéd – ha a szerződő felek ezzel is meghatalmazták és a felek képviseletében regisztrált felhasználóként jár el –, az ügyvédekről szóló 1998. évi XI. törvény 27/B. § (1) bekezdés b) pontjában foglalt ellenőrzést követően
@@ -114,7 +125,7 @@ a szerződés alapján megtett hitelbiztosítéki nyilatkozatot, illetve az anna
 - a) a hitelbiztosítéki nyilvántartás regisztrált felhasználója a regisztráció során ennek lehetőségét kizárta vagy
 - b) az érintettnek állandó képviselője van (5. §).
 
-(5) Ha zálogszerződés, tulajdonjog-fenntartással történő eladás, faktoring szerződés vagy lízingszerződés a 9. § alkalmazásával került rögzítésre a nyilvántartásban, módosítására, törlésére is csak a 9. § alkalmazásával kerülhet sor.
+(5) Ha zálogszerződés, tulajdonjog-fenntartással történő eladás, faktoring szerződés vagy pénzügyi lízingszerződés, továbbá a nem lajstromozott ingóra vonatkozó tulajdonjog, más jog, valamint követelés biztosítéki célból történő átruházásról, illetve e vagyontárgyakra vonatkozó vételi jognak biztosítéki célból történő kikötéséről szóló szerződés a 9. § alkalmazásával került rögzítésre a nyilvántartásban, módosítására, törlésére is csak a 9. § alkalmazásával kerülhet sor.
 
 #### 4. Zálogkötelezetti nyilatkozat
 
@@ -175,6 +186,10 @@ a szerződés alapján megtett hitelbiztosítéki nyilatkozatot, illetve az anna
 
 19. § A lízingbeadói nyilatkozatra, annak a nyilvántartásban való rögzítésére és törlésére a tulajdonjog-fenntartásra irányuló eladói nyilatkozatra, annak a nyilvántartásban való rögzítésére és törlésére vonatkozó szabályokat azzal az eltéréssel kell alkalmazni, hogy a vagyontárgy alatt a lízingbe adott vagyontárgyat, az eladó alatt a lízingbeadót, a vevő alatt pedig a lízingbevevőt kell érteni.
 
+#### 8/A. Jogszerzési nyilatkozat
+
+19/A. § A nem lajstromozott ingóra vonatkozó tulajdonjog, más jog, valamint követelés biztosítéki célból történő átruházására vagy e vagyontárgyakra vonatkozó vételi jognak biztosítéki célból történő engedésére nem fogyasztó részéről vállalt kötelezettséget tartalmazó szerződés alapján e szerződés megkötésének tényét és az átruházó, illetve a vételi jogot engedő személyét a jogszerzésre jogosult akként köteles a nyilvántartásba bejegyeztetni, hogy hitelbiztosítéki nyilatkozatának a nyilvántartásban való rögzítésére és törlésére a zálogjogosulti nyilatkozatra, illetve ennek a nyilvántartásba való bejegyzésére és törlésére vonatkozó szabályokat kell alkalmazni, azzal az eltéréssel, hogy a zálogjogosult alatt a jogszerzésre jogosultat, a zálogkötelezett alatt pedig az átruházót, illetve a vételi jogot engedőt kell érteni.
+
 #### 9. Hitelbiztosítéki nyilatkozat módosítása
 
 20. § (1) A nyilvántartásban rögzített hitelbiztosítéki nyilatkozatok módosítására a zálogjogosult zálogjog bejegyzésére irányuló nyilatkozatára, annak a nyilvántartásban való rögzítésére vonatkozó szabályokat kell megfelelően alkalmazni.
@@ -209,7 +224,7 @@ a szerződés alapján megtett hitelbiztosítéki nyilatkozatot, illetve az anna
 
 #### 12. Változás a felek személyében
 
-24. § (1) A zálogjogosult vagy a zálogkötelezett halála, illetve megszűnése esetén a hitelbiztosítéki nyilatkozat megtételére jogosult jogutódlásának (a jogutód személyének) a nyilvántartásban való átvezetéséről a közjegyző határoz.
+24. § (1) A zálogjogosult vagy a zálogkötelezett halála, illetve megszűnése esetén – a 24/A. §-ban foglalt kivétellel – a hitelbiztosítéki nyilatkozat megtételére jogosult jogutódlásának (a jogutód személyének) a nyilvántartásban való átvezetéséről a közjegyző az egyes közjegyzői nemperes eljárásokról szóló 2008. évi XLV. törvény (a továbbiakban: Kjnp.) 36/P. §-a szerinti nemperes eljárásban határoz.
 
 (2) Ha a zálogjogosult személye nem az (1) bekezdésben meghatározott okból változik, a zálogjogosult személyében bekövetkezett változást mind a bejegyzett, mind pedig az új zálogjogosult – a hitelbiztosítéki rendszer felületén az erre szolgáló elektronikus adatlap kitöltésével és a hitelbiztosítéki rendszerbe történő továbbításával – bejelentheti. Ha azonban a változást az új zálogjogosult jelenti be, nyilatkozatát a bejegyzett zálogjogosult hozzájáruló nyilatkozatának beérkezéséig – de legfeljebb három hónapig – a hitelbiztosítéki rendszernek tárolnia kell.
 
@@ -219,17 +234,45 @@ a szerződés alapján megtett hitelbiztosítéki nyilatkozatot, illetve az anna
 
 (5) Az (1)–(4) bekezdésben foglalt nyilatkozatokat is csak a hitelbiztosítéki rendszer regisztrált felhasználója teheti meg, és csak abban az esetben, ha a nyilatkozattal érintett személy is a hitelbiztosítéki rendszer regisztrált felhasználója; e személyek felhasználói regisztrációjára e törvény rendelkezései az irányadók.
 
-(6) Az (1)–(5) bekezdés rendelkezéseit megfelelően alkalmazni kell a tulajdonjog-fenntartással történő eladás, a faktoring szerződés és a pénzügyi lízingszerződés esetén.
+(6) Az (1)–(5) bekezdés rendelkezéseit megfelelően alkalmazni kell a tulajdonjog-fenntartással történő eladás, a faktoring szerződés és a pénzügyi lízingszerződés, továbbá a nem lajstromozott ingóra vonatkozó tulajdonjog, más jog, valamint követelés biztosítéki célból történő átruházásról, illetve e vagyontárgyakra vonatkozó vételi jognak biztosítéki célból történő kikötéséről szóló szerződés esetén.
+
+24/A. § (1) A zálogjogosult, vagy zálogkötelezett személyében átalakulás, vagy egyesülés folytán bekövetkező jogutódlást a jogutód, illetve a zálogjogosult vagy zálogkötelezett – a hitelbiztosítéki rendszer felületén az erre szolgáló elektronikus adatlap kitöltésével és a hitelbiztosítéki rendszerbe történő továbbításával – bejelentheti, és egyidejűleg a zálogjogosult vagy a zálogkötelezett hitelbiztosítéki rendszerben tárolt nyilatkozatainak, illetve bejegyzéseinek módosítása érdekében jogutódi hozzáférési jogosultságot kérhet.
+
+(2) A kérelmezőnek a jogutódlás tényét
+
+- a) a cégjegyzékbe bejegyzett szervezet esetén a cégmásolattal, amelyből megállapítható, hogy a jogelőd megszűnt,
+- b) a civil és az egyéb cégnek nem minősülő szervezetek nyilvántartásában szereplő szervezet esetén a másolattal, amelyből megállapítható, hogy a jogelőd megszűnt, vagy
+- c) – az a) és b) pont szerinti nyilvántartásban nem szereplő szervezet esetén – a jogutódlásról rendelkező jogerős bírósági, hatósági határozattal vagy a jogutódlást igazoló egyéb irattal
+
+kell igazolnia.
+
+(3) Ha a cégjegyzékbe bejegyzett szervezet a (2) bekezdés a) pontjában meghatározott okiratot a kérelemhez nem csatolja, a közjegyző a cégmásolatot a cégnyilvántartásból elektronikus úton szerzi be.
+
+(4) Ha az (1) bekezdés szerinti elektronikus adatlapon továbbított adatok megegyeznek a csatolt iratokban szereplő adatokkal, és eleget tesznek a hitelbiztosítéki rendszer további alakszerűségi követelményeinek, valamint a kérelmező a díjat megfizette, a közjegyző az adatokat a hitelbiztosítéki nyilatkozat rögzítésére vonatkozó szabályok szerint rögzíti a hitelbiztosítéki rendszerben és a jogutódként rögzített személy számára hozzáférési jogosultságot biztosít a zálogjogosult vagy zálogkötelezett hitelbiztosítéki rendszerben tárolt nyilatkozataihoz, illetve bejegyzéseihez. A közjegyző a hozzáférési jogosultság megadásával egyidejűleg a zálogjogosult vagy zálogkötelezett állandó képviselője képviseleti jogosultságára vonatkozó nyilvántartási adatot törli.
+
+(5) A kérelmező a kérelem benyújtását követő 8 napon belül, külön felhívás nélkül köteles a közjegyzői díjat megfizetni. Ha a kérelem – a (3) bekezdés szerinti eset kivételével – hiányos, valamint, ha a kérelmező a díjat az előírt határidőn belül nem fizeti meg, a közjegyző – a hiányok pótlására való felhívás kibocsátása nélkül – a kérelmet indokolt végzéssel elutasítja.
+
+(6) A (4) bekezdés szerinti rögzítés és jogutódi hozzáférési jogosultság biztosítása tárgyában a közjegyző a Kjnp. közös eljárási szabályai szerint végzéssel határoz. Az eljárásban a közjegyző a kérelemhez csatolt iratok alapján dönt, egyebekben az eljárásban bizonyításnak nincs helye.
+
+(7) Az (5)–(6) bekezdés szerinti végzéseket a közjegyző a 6/A. § szerint a hitelbiztosítéki rendszeren keresztül elektronikusan rendeli kézbesíteni a kérelmező, valamint a jogelőd és a jogutód állandó képviselője részére. E végzések ellen a kérelmező, a jogutód és a jogelőd állandó képviselője a kézbesítésétől számított 15 napon belül a Kjnp. közös eljárási szabályai szerint fellebbezhet. A közjegyző végzése elleni fellebbezésnek a végzés végrehajtására nincs halasztó hatálya.
+
+(8) A zálogkötelezett az (1) bekezdés szerinti jogutódlás zálogjogosult általi átvezetéséről rendszerüzenetben értesül. Az átvezetés akkor válik hatályossá, ha a bejegyzés módosítástól számított harminc napon belül a zálogkötelezett nem tett bejegyzés fenntartására irányuló nyilatkozatot.
+
+(9) A zálogjogosult (1) bekezdés szerinti jogutódlás zálogkötelezett általi átvezetéséről rendszerüzenetben értesül. Az átvezetés akkor válik hatályossá, ha a bejegyzés módosítástól számított harminc napon belül a zálogjogosult nem tett bejegyzés fenntartására irányuló nyilatkozatot.
+
+(10) Az (1)–(9) bekezdésben foglalt nyilatkozatokat is csak a hitelbiztosítéki rendszer regisztrált felhasználója teheti meg, és csak abban az esetben, ha a nyilatkozattal érintett személy is a hitelbiztosítéki rendszer regisztrált felhasználója; e személyek felhasználói regisztrációjára e törvény rendelkezései az irányadók.
+
+(11) Az (1)–(10) bekezdés rendelkezéseit megfelelően alkalmazni kell a tulajdonjog-fenntartással történő eladás, a faktoring szerződés és a pénzügyi lízingszerződés, valamint nem lajstromozott ingóra vonatkozó tulajdonjog, más jog, valamint követelés biztosítéki célból történő átruházására vagy e vagyontárgyakra vonatkozó vételi jognak biztosítéki célból történő kikötéséről szóló szerződés esetén.
 
 #### 13. Betekintés a nyilvántartásba
 
-25. § (1) A nyilvántartásnak meg kell felelnie annak a követelménynek, hogy a zálogkötelezett (vevő, adós, lízingbevevő) személye szerint nyilvántartott adatokba – kivéve az érintett természetes személy anyja születési nevét és a lakcímadatot – a hitelbiztosítéki rendszer erre szolgáló felületén bárki, azonosítás nélkül betekinthessen a zálogkötelezett következő adatainak megadásával:
+25. § (1) A nyilvántartásnak meg kell felelnie annak a követelménynek, hogy a zálogkötelezett (vevő, adós, lízingbevevő, átruházó, vételi jogot engedő) személye szerint nyilvántartott adatokba – kivéve az érintett természetes személy anyja születési nevét és a lakcímadatot – a hitelbiztosítéki rendszer erre szolgáló felületén bárki, azonosítás nélkül betekinthessen a zálogkötelezett következő adatainak megadásával:
 
 - a) természetes személy neve és születési időpontja, anyja születési neve,
 - b) szervezet elnevezése, adószáma,
 - c) külföldi szervezet esetén az ország kódja.
 
-(2) A bejegyzés (1) bekezdés szerint lekérdezhető adatait a bejegyzés nyilvántartási azonosítóját vagy a zálogjoggal terhelt, tulajdonjog-fenntartással vagy pénzügyi lízingszerződéssel érintett gépjármű egyedi azonosító adatát megadó lekérdezőnek is hozzáférhetővé kell tenni; a hitelbiztosítéki rendszert úgy kell kialakítani, hogy e lekérdezést abban az esetben biztosítsa, ha a gépjármű megjelölésére a nyilatkozatban akként került sor, hogy a nyilatkozatot tevő az e célra rendszeresített mezőben adta meg a gépjármű egyedi azonosítóját. Az igazságügyért felelős miniszter által kiadott rendelet lehetővé teheti egyéb vagyontárgy egyedi azonosító útján történő lekérdezését is.
+(2) A bejegyzés (1) bekezdés szerint lekérdezhető adatait a bejegyzés nyilvántartási azonosítóját vagy a zálogjoggal terhelt, tulajdonjog-fenntartással vagy pénzügyi lízingszerződéssel, továbbá tulajdonjogának biztosítéki célból történő átruházásáról vagy vételi jogának biztosítéki célból történő kikötéséről szóló szerződéssel érintett gépjármű egyedi azonosító adatát megadó lekérdezőnek is hozzáférhetővé kell tenni; a hitelbiztosítéki rendszert úgy kell kialakítani, hogy e lekérdezést abban az esetben biztosítsa, ha a gépjármű megjelölésére a nyilatkozatban akként került sor, hogy a nyilatkozatot tevő az e célra rendszeresített mezőben adta meg a gépjármű egyedi azonosítóját. Az igazságügyért felelős miniszter által kiadott rendelet lehetővé teheti egyéb vagyontárgy egyedi azonosító útján történő lekérdezését is.
 
 26. § (1) A hitelbiztosítéki rendszer nyilvántartásban nem szereplő adatairól közigazgatási hatóság, közigazgatási szerv, bíróság, bírósági végrehajtó, családi vagyonfelügyelő, Családi Csődvédelmi Szolgálat, ügyész, nyomozó hatóság, terrorizmust elhárító szerv, nemzetbiztonsági szolgálat, továbbá a közjegyző tevékenységének szakmai felügyeletét ellátó szerv (a továbbiakban együtt: közfeladatot ellátó szerv) a MOKK-tól jogszabályban meghatározott módon, közvetlen hozzáféréssel, elektronikus úton adatot igényelhet. Az adatigénylés feltétele, hogy az adatigénylő az igényelt adat tekintetében a törvényi rendelkezés megjelölésével igazolja, hogy törvény az ügy elbírálásához, továbbá jogosultság, illetve kötelezettség fennállásának ellenőrzéséhez feljogosította az adat kezelésére. A hitelbiztosítéki rendszer nyilvántartásban szereplő adatairól a közfeladatot ellátó szerv adatot akkor igényelhet, ha ahhoz a hitelbiztosítéki rendszer regisztrált felhasználójaként nem férhet hozzá.
 
@@ -256,7 +299,7 @@ a szerződés alapján megtett hitelbiztosítéki nyilatkozatot, illetve az anna
 
 (4) A zálogjogi tehertől való mentesülés érdekében a jóhiszeműségére nem hivatkozhat az a jogszerző, aki a zálogjoggal terhelt gépjármű azonosítója alapján e teherről a nyilvántartásba történő betekintéssel tudomást szerezhetett volna, ha a gépjármű megjelölésére a nyilatkozatban akként került sor, hogy a nyilatkozatot tevő az e célra rendszeresített mezőben adja meg az egyedi azonosítót és ezáltal a hitelbiztosítéki rendszer útján biztosított az egyedi azonosítóval történő lekérdezés [25. § (2) bekezdés]. Ez a rendelkezés abban az esetben alkalmazható, ha a zálogtárgy megjelölésére ilyen módon került sor.
 
-(5) Tulajdonjog-fenntartással vagy pénzügyi lízingszerződéssel érintett gépjármű esetén a jóhiszeműségére nem hivatkozhat az a jogszerző, aki a gépjármű azonosítója alapján a nyilvántartásba történő – (4) bekezdés szerinti – betekintéssel tudomást szerezhetett volna arról, hogy a gépjármű nem a vele szerződő fél tulajdonában áll. Ez a rendelkezés abban az esetben alkalmazható, ha a vagyontárgy megjelölésére ilyen módon került sor.
+(5) Tulajdonjog-fenntartással vagy pénzügyi lízingszerződéssel, továbbá tulajdonjogának biztosítéki célból történő átruházásáról vagy vételi jogának biztosítéki célból történő kikötéséről szóló szerződéssel érintett gépjármű esetén a jóhiszeműségére nem hivatkozhat az a jogszerző, aki a gépjármű azonosítója alapján a nyilvántartásba történő – (4) bekezdés szerinti – betekintéssel tudomást szerezhetett volna arról, hogy a gépjármű nem a vele szerződő fél tulajdonában áll. Ez a rendelkezés abban az esetben alkalmazható, ha a vagyontárgy megjelölésére ilyen módon került sor.
 
 #### 14. A nyilvántartás adatainak kezelése
 

@@ -1419,13 +1419,15 @@ A KÖRNYEZETVÉDELEMBEN
 
 ### Környezetvédelmi megbízott
 
-108. § (1) A Kormány által jogszabályban meghatározott környezethasználatok esetében — a környezetvédelemmel összefüggő feladatok ellátása érdekében — a környezethasználónak megfelelő szakismerettel rendelkező környezetvédelmi megbízottat (a továbbiakban: megbízott) kell alkalmazni, megbízni.
+108. § (1) A Kormány által rendeletben meghatározott környezethasználatok esetében – a környezetvédelemmel összefüggő feladatok ellátása érdekében – a környezethasználónak megfelelő szakismerettel rendelkező környezetvédelmi megbízottat (a továbbiakban: környezetvédelmi megbízott) kell alkalmazni, megbízni vagy kijelölni.
 
-(2) A megbízott jogait és kötelezettségét, illetve feladatainak részletezését írásban (munkaszerződésben, szerződésben) kell rögzíteni.
+(1a) Az (1) bekezdésben foglaltaktól eltérően a honvédelmi feladatokkal kapcsolatos azon sajátos környezethasználatokat, amelyek esetén környezetvédelmi megbízottat kell alkalmazni, a honvédelemért felelős miniszter rendeletben állapítja meg.
 
-(3) A megbízott köteles előzetesen felhívni a szervezet minden szerve és tisztségviselője figyelmét arra, hogy valamely tervezett intézkedés környezetvédelmi jogszabályt, előírást sért.
+(2) A környezetvédelmi megbízott jogait és kötelezettségét, illetve feladatainak részletezését írásban kell rögzíteni.
 
-(4) Nem lehet megbízott, akit környezet sérelmével vagy veszélyeztetésével kapcsolatos bűncselekmény miatt jogerősen elítéltek, az ítélet hatálya alóli mentesülésig.
+(3) A környezetvédelmi megbízott köteles előzetesen felhívni a szervezet minden szerve és tisztségviselője figyelmét arra, hogy valamely tervezett intézkedés környezetvédelmi jogszabályt, előírást sért.
+
+(4) Nem lehet környezetvédelmi megbízott, akit környezet sérelmével vagy veszélyeztetésével kapcsolatos bűncselekmény miatt jogerősen elítéltek, az ítélet hatálya alóli mentesülésig.
 
 (5) A Kormány által meghatározott államigazgatási szerveknél környezetvédelmi biztost kell alkalmazni.
 
@@ -1480,7 +1482,7 @@ A KÖRNYEZETVÉDELEMBEN
 - a) a környezetbarát, környezetkímélő megkülönböztetés feltételrendszerét;
 - b) a hatósági nyilvántartás vezetésének részletes szabályait;
 - c) az elérhető legjobb technika alkalmazására vonatkozó szabályokat;
-- d) a környezetvédelmi megbízott alkalmazási és képesítési feltételeit;
+- d) a környezetvédelmi megbízott alkalmazási és képesítési feltételeit, a 108. § (1a) bekezdése szerinti környezethasználatok esetén alkalmazandó környezetvédelmi megbízott kivételével;
 - e) a környezetvédelmi szempontból minősítendő anyagok, termékek, tevékenységek és technológiák minősítésének részletes szabályait, valamint a minősítő hatóságok és intézmények kijelölésének szabályait, a minősítés rendjét;
 - f) a légszennyezettség szempontjából ökológiailag sérülékeny területek kijelölésével összefüggő szabályokat;
 - g) a légszennyező anyagok terjedésének vizsgálatával, a helyhez kötött légszennyező források kibocsátásának mérésével, vizsgálatával, ellenőrzésével és értékelésével, valamint a helyhez kötött légszennyező források üzemeltetésének levegőtisztaság-védelmi követelményeivel kapcsolatos szabályokat;
@@ -1555,7 +1557,10 @@ rendeletben határozza meg.
 
 (15a) Felhatalmazást kap a vízvédelemért felelős miniszter, hogy a miniszterrel, az egészségügyért felelős miniszterrel, valamint talajvédelem érintettsége esetén a földügyért felelős miniszterrel egyetértésben kiadott rendeletben határozza meg a vizekre vonatkozó igénybevételi, kibocsátási és szennyezettségi határértékeket.
 
-(16) Felhatalmazást kap a honvédelemért felelős miniszter, hogy rendeletben állapítsa meg a honvédelmi feladatokkal kapcsolatos sajátos környezethasználatokat, amelyek esetén környezetvédelmi megbízottat kell alkalmazni.
+(16) Felhatalmazást kap a honvédelemért felelős miniszter, hogy rendeletben állapítsa meg
+
+- a) a honvédelmi feladatokkal kapcsolatos azon sajátos környezethasználatokat, amelyek esetén környezetvédelmi megbízottat kell alkalmazni, és
+- b) az a) pont szerinti környezethasználatok esetén alkalmazandó környezetvédelmi megbízott alkalmazási és képesítési feltételeit.
 
 110/A. § Felhatalmazást kap a Kormány, hogy rendeletben
 

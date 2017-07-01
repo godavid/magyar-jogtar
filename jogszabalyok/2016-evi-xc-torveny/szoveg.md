@@ -716,10 +716,10 @@ A bizottság legfeljebb kilenc főből áll, amelybe tagokat egyenlő arányban 
 
 (3) Az (1) és (2) bekezdésben, valamint a 71. §-ban meghatározott uniós értékhatárok forintban meghatározott összegeként az Európai Unió Hivatalos Lapjában így közzétett – az Európai Bizottság által kétévente felülvizsgált – összeget kell figyelembe venni.
 
-73. § A védelmi és biztonsági célú beszerzésekről szóló törvény szerinti uniós értékhatár 2017. január 1-től 2017. december 31-ig
+73. § A védelmi és biztonsági célú beszerzésekről szóló törvény szerinti uniós értékhatár 2017. július 1-től 2017. december 31-ig
 
-- a) árubeszerzés és szolgáltatás megrendelése esetén 412 000 euró,
-- b) építési beruházás esetén 5 150 000 euró.
+- a) árubeszerzés és szolgáltatás megrendelése esetén 418 000 euró,
+- b) építési beruházás esetén 5 225 000 euró.
 
 #### 20. Egyes koncessziós díjak
 

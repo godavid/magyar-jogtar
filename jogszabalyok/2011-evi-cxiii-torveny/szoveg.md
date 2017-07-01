@@ -657,9 +657,11 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 
 „Isten engem úgy segéljen!”
 
-(4) A Honvédségnél munkavállaló kizárólag közhatalmi, irányítási, ellenőrzési és felügyeleti hatáskör-gyakorlással közvetlenül össze nem függő munkakörben foglalkoztatható. Nem Magyarországon települő honvédségi szervezet szolgálati vagy kormányzati szolgálati jogviszonyt nem igénylő munkakörében közalkalmazott is foglalkoztatható.
+(4) A Honvédségnél munkavállaló kizárólag közhatalmi, irányítási, ellenőrzési és felügyeleti hatáskör-gyakorlással közvetlenül össze nem függő munkakörben foglalkoztatható. Nem Magyarországon települő honvédségi szervezet, valamint a nemzetközi szervezetek hivatalainál, parancsnokságain és katonai szervezeteiben Magyarország részére biztosított szolgálati vagy kormányzati szolgálati jogviszonyt nem igénylő munkakörében közalkalmazott is foglalkoztatható. A személyi állomány illetmény nélküli szabadságon tartózkodó tagja a tartós külföldi szolgálatra vezényelt házastársának külföldi szolgálata idejére munkaszerződéssel, adminisztratív-technikai feladatok ellátásában való közreműködés céljából is foglalkoztatható.
 
 (5) Május 21-e a Magyar Honvédelem Napja, a Honvédség személyi állományára kiterjedően munkaszüneti nap.
+
+(6) Ha az 1. melléklet szerinti gazdasági társaság szervezeti egysége, anyagi vagy nem anyagi erőforrásainak vagy feladatkörének meghatározott csoportja a további működtetés céljából valamely honvédségi szervezet részére kerül átadásra, a gazdasági társaság érintett munkavállalóinak munkaviszonyára az államháztartásról szóló törvénynek az állami feladat átvétele miatt bekövetkező jogállásváltozásra vonatkozó rendelkezéseit kell alkalmazni.
 
 40/A. § A közszolgálat halottjává minősített kormánytisztviselővel, kormányzati ügykezelővel vagy a honvédelmi szervezet saját halottjává minősített közalkalmazottal szemben a volt munkáltató által nyilvántartott követelést az elhunyt örököse kérelmére a honvédelemért felelős miniszter részben vagy egészben elengedheti. A kérelemben foglaltak mérlegelése során a miniszter az elhunyt életútjának, illetve a kérelmező szociális helyzetének figyelembevételével dönt. A kérelmet a miniszterhez történő felterjesztés céljából az elhunyt volt munkáltatójánál kell előterjeszteni.
 
@@ -677,7 +679,7 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 
 (6) Az önkéntes tartalékos rendszer békeidőszaki működését munkáltatói ösztönző-kompenzációs rendszer támogatja.
 
-(7) Az önkéntes tartalékosok kiképzésen túli tényleges katonai szolgálatra történő behívásának elrendeléséről a Honvéd Vezérkar főnöke javaslatára a honvédelemért felelős miniszter dönt.
+(7)
 
 #### 27. A Honvédség szervezeteinek elhelyezése
 

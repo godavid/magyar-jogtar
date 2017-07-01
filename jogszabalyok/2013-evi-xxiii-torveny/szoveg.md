@@ -330,7 +330,7 @@ figyelembevételével kell számítani.
 
 (2) A kőolaj szekció tagja a 4. mellékletben meghatározott kőolajtermékek mennyisége után tagi hozzájárulást fizet, ha
 
-- a) az adóraktár engedélyese, a bejegyzett kereskedő, illetve az importáló a kőolajterméket a jövedéki adóról szóló törvény rendelkezései szerint szabad forgalomba bocsátja,
+- a) az adóraktár engedélyese, a bejegyzett kereskedő, az eseti bejegyzett kereskedő, illetve az importáló a kőolajterméket a jövedéki adóról szóló törvény rendelkezései szerint szabad forgalomba bocsátja,
 - b) a jövedéki engedélyes kereskedő, illetve a felhasználói engedélyes az Európai Unió más tagállamában szabad forgalomba bocsátott kőolajterméket e tagállamból beszerez,
 - c) az adóraktár engedélyese a kőolajterméket az adóraktáron belül felhasználja, kivéve a jövedéki termék előállításához történő felhasználást,
 - d) az adóraktár engedélyese a kőolajterméket a víziközlekedésről szóló törvény szerinti gazdasági célú hajózási tevékenységet végző hajók (ideértve a kompot is) üzemanyagtartályába betölti,

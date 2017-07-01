@@ -171,6 +171,8 @@ V. járadékosztályba sorolt hadirokkant esetén 110%.
 
 (4) A járadékban részesülő hadirokkantat a saját háztartásában nevelt, valamint egészségi állapota miatt ápolást, gondozást nyújtó intézményben vagy rehabilitációs intézményben elhelyezett hadigyámolt gyermeke után a 4. §-ban meghatározott feltételek fennállása esetén nevelési pótlék illeti meg, feltéve, hogy a gyermeket a hadirokkant háztartásából helyezték az említett intézmények valamelyikébe. A nevelési pótlék mértéke gyermekenként és havonta az öregségi nyugdíj mindenkori legkisebb összegének 50%-a.
 
+(5) A jogerősen megállapított hadirokkant-járadék összege abban az esetben sem csökkenthető, ha a hadirokkant a hadieredetű fogyatkozás felülvizsgálata eredményeként alacsonyabb járadékosztályba kerül besorolásra.
+
 ### Ápolási pótlék
 
 12. § (1) Azt a hadirokkantat, aki orvosi szakvélemény alapján mások rendszeres ápolására, gondozására szorul, a járadékon felül havonként pótlék is megilleti.
@@ -248,7 +250,7 @@ egyéb ellátásától függetlenül havi rendszeres járadékra jogosult, amely
   - aa) folytán használhatatlanná vált vagy hiányzó testrészének mesterséges pótlására, és
   - ab) következtében szükségessé váló gyógyászati segédeszközökre és műlábcipőre (a továbbiakban együtt: gyógyászati segédeszköz),
 - b) az a) pont szerinti gyógyászati segédeszköz javítására, valamint szükséges pótlására és
-- c) kormányrendeletben meghatározott támogatási mértékig azokra a kormányrendeletben meghatározott egyéb olyan – egészségügyi szempontból indokolt, de gyógyászati segédeszköznek nem minősülő – eszközökre, amelyekkel életvitele, munkaképessége helyreállítható vagy javítható.
+- c) a 25. § (3) bekezdése szerinti közalapítvány által – kormányrendeletben foglaltak szerint – meghatározott körben és támogatási mértékig azokra az egyéb olyan – egészségügyi szempontból indokolt, de gyógyászati segédeszköznek nem minősülő – eszközökre, amelyekkel életvitele, munkaképessége helyreállítható vagy javítható.
 
 ### III. Fejezet — FOLYÓSÍTÁSI SZABÁLYOK
 
@@ -355,7 +357,7 @@ egyéb ellátásától függetlenül havi rendszeres járadékra jogosult, amely
 - a) a külföldön történő kérelem benyújtásának;
 - b) az egyösszegű térítés és a hadigondozotti járadék megállapításának és folyósításának;
 - c) a hadigondozotti ellátások és kedvezmények igénybevételére jogosító hadigondozotti igazolvány tartalmi és formai kellékeinek, az igazolvány kiadásának, valamint a hadieredetű fogyatkozás megállapítása orvosszakmai szempontjainak;
-- d) a hadirokkantak gyógyászati segédeszközzel történő ellátásának, valamint a 18. § (1) bekezdés c) pontja szerinti eszközök körének és a támogatás mértékének;
+- d) a hadirokkantak gyógyászati segédeszközzel történő ellátásának, valamint a 18. § (1) bekezdés c) pontja szerinti eszközök köre és támogatási mértéke közalapítvány általi meghatározása módjának;
 
 részletes szabályait rendeletben állapítsa meg.
 

@@ -528,7 +528,7 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 (2) Adófizetési kötelezettséget eredményező jogviszony:
 
 - a) a munkaviszony;
-- b) a szövetkezet és természetes személy tagja között fennálló, a tag részére munkavégzési kötelezettséget eredményező vállalkozási és megbízási jogviszony, kivéve az iskolaszövetkezet és a nappali rendszerű oktatás keretében tanulmányokat folytató tanuló, hallgató tagja között fennálló ilyen jogviszonyt – 25. életévének betöltéséig a tanulói, hallgatói jogviszonya szünetelésének időtartama alatt is –;
+- b) a szövetkezet és természetes személy tagja között fennálló, a tag részére munkavégzési kötelezettséget eredményező vállalkozási és megbízási jogviszony, kivéve az iskolaszövetkezet és a nappali rendszerű oktatás keretében tanulmányokat folytató tanuló, hallgató tagja között fennálló ilyen jogviszonyt – 25. életévének betöltéséig a tanulói, hallgatói jogviszonya szünetelésének időtartama alatt is –, valamint a közérdekű nyugdíjas szövetkezet és öregségi nyugdíjban részesülő tagja között fennálló jogviszonyt;
 - c) az a) pont alá nem tartozó, a közkereseti társaság, a betéti társaság, a korlátolt felelősségű társaság, a közös vállalat, az egyesülés, az európai gazdasági egyesülés, a szabadalmi ügyvivői társaság, a szabadalmi ügyvivői iroda és természetes személy tagja között fennálló, a tagnak a jogi személy, az egyéb szervezet tevékenységében való személyes közreműködési kötelezettséget eredményező tagi jogviszony (ideértve a nem munkaviszony keretében ellátott vezető tisztségviselői jogviszonyt is);
 - d) az ügyvédi iroda, a közjegyzői iroda, a végrehajtói iroda, az egyéni cég és természetes személy tagja között fennálló tagi jogviszony;
 - e) a gazdálkodó szervezet és a tanuló között tanulószerződés alapján fennálló jogviszony;
@@ -542,6 +542,7 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 - b) az iskolaszövetkezetnek a nappali rendszerű oktatás keretében tanulmányokat folytató tanuló, hallgató tagjával fennálló jogviszony – 25. életévének betöltéséig a tanulói, hallgatói jogviszonya szünetelésének időtartama alatt is –;
 - c) a szociális szövetkezetnek a tagi munkavégzési jogviszonyban álló tagjával fennálló jogviszonya.
 - d) a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 44. § (1) bekezdés a) pontja szerint a hallgatói munkaszerződés alapján létrejött jogviszony,
+- e) a közérdekű nyugdíjas szövetkezet és az öregségi nyugdíjban részesülő tagja között fennálló jogviszony.
 
 (4) A kifizetőt terhelő adónak nem alapja:
 

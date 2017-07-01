@@ -1260,9 +1260,11 @@ földgázrendszerhez való hozzáférés
 
 (5) A gázszerelő a nyilvántartásból törlésre kerül, ha a tevékenysége megszűnt, ha nem tesz eleget a külön jogszabályban meghatározott követelményeknek, illetve a gázszerelő ezt kéri.
 
-89. § (1) A csatlakozóvezeték és a felhasználói berendezés kiviteli tervét – a kivitelezés megkezdése előtt – műszaki-biztonsági szempontok szerinti felülvizsgálatra be kell nyújtani a földgázelosztóhoz. A felülvizsgálathoz szükséges engedélyek rendelkezésre állása esetén a földgázelosztó a felülvizsgálatot 15 munkanapon belül köteles elvégezni. A földgázelosztónak a kivitelezésre alkalmasságot megállapító nyilatkozata hiányában a létesítmény nem kivitelezhető. Az egyetemes szolgáltatásra jogosult felhasználók esetében a felülvizsgálat díjmentes.
+89. § (1) A csatlakozóvezeték és a felhasználói berendezés kiviteli tervét – a kivitelezés megkezdése előtt – műszaki-biztonsági szempontok szerinti felülvizsgálatra be kell nyújtani a földgázelosztóhoz. A felülvizsgálathoz szükséges engedélyek rendelkezésre állása esetén a földgázelosztó a felülvizsgálatot 8 munkanapon belül köteles elvégezni. A földgázelosztónak a kivitelezésre alkalmasságot megállapító nyilatkozata hiányában a létesítmény nem kivitelezhető. A felülvizsgálat díjmentes.
 
-(2) Ha a földgázelosztó a nyilatkozatával a tervet kivitelezésre alkalmatlannak minősítette, az ingatlan tulajdonosa a műszaki-biztonsági hatóságtól kérheti az alkalmassági nyilatkozat kiadását. A kivitelezésre való alkalmasság megállapítására indított eljárásra külön jogszabály rendelkezéseit kell alkalmazni.
+(2) Ha a földgázelosztó a nyilatkozatával a tervet kivitelezésre alkalmatlannak minősítette, az ingatlan tulajdonosa a műszaki-biztonsági hatóságtól kérheti az alkalmassági nyilatkozat kiadását. A kivitelezésre való alkalmasság megállapítására indított eljárásra külön jogszabály rendelkezéseit kell alkalmazni azzal, hogy a műszaki-biztonsági hatóság az alkalmassági nyilatkozat kiadására irányuló kérelmet a kérelem érkezésétől számított 8 munkanapon belül köteles elbírálni és döntéséről a kérelmezőt értesíteni. A műszaki-biztonsági hatóság eljárása díjmentes.
+
+(2a) A 67. § (1) bekezdése szerinti – a szállító-, illetve az elosztóvezetékhez való csatlakozás iránti – igény bejelentése esetén az igénybejelentő jogosult a Hivatal eljárását kezdeményezni a 67. § (3) bekezdése szerinti elutasítás közlésétől számított 30 napon belül, vagy ha a szállítási rendszerüzemeltető vagy a földgázelosztó az igénybejelentéstől számított 8 munkanapon belül nem nyilatkozik a csatlakozás iránti igényről, a mulasztás napjától számított 30 napon belül.
 
 (3) Az elkészült gázszerelést a földgázelosztó vagy megbízottja az üzembe helyezés előtt köteles – az egyetemes szolgáltatásra jogosult felhasználók esetében díjmentesen – műszaki-biztonsági szempontból ellenőrizni.
 
@@ -1441,7 +1443,7 @@ ha megfelel a kereskedési platform szabályzatában meghatározott követelmén
 - d) a földgázfelhasználás mérséklését szolgáló egyéb intézkedést,
 - e) a Magyarország területén termelt vagy készletezett földgáznak a Magyarország területén kívülre történő kiszállítására vonatkozó szerződéskötés feltételeit, a Magyarország területén történő átszállítás kivételével.
 
-(2) Földgázellátási válsághelyzet esetén a beszerzésre kerülő földgáz-helyettesítő fűtőolajat terhelő jövedéki adó a jövedéki adóról szóló törvény rendelkezései szerint visszaigényelhető.
+(2)
 
 (3) Földgázellátási válsághelyzet esetén
 
@@ -1776,6 +1778,8 @@ külön díj ellenében végzett szolgáltatások meghatározására és szabál
 (5) A Hivatal az (1) bekezdés szerinti rendelet előkészítése során kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleti szerveinek véleményét. A Hivatal a rendelet tervezetét az egyeztetést megelőzően a honlapján közzéteszi.
 
 (6) Az (1) bekezdés szerinti rendeletben meghatározott bevételből finanszírozott beruházást a rendszerhasználati díjak meghatározásával összefüggésben a tőkeköltség és az értékcsökkenés számításánál figyelmen kívül kell hagyni.
+
+(7) Mentes a csatlakozási díj és minden más, a földgázelosztónak fizetendő díj alól a legfeljebb 4 m3/óra névleges teljesítményű fogyasztásmérő beszerelése azzal, hogy ebben az esetben az elosztóvezeték építése 250 méterig díjmentes.
 
 108/A. § (1) A vezetékes PB-gáz szolgáltatás lakossági PB-gáz fogyasztó részére történő értékesítésének általános forgalmi adót is tartalmazó ára nem haladhatja meg a 2012. december 1-jén a vezetékes PB-gáz szolgáltató által alkalmazott, a vezetékes PB-gáz szolgáltatás lakossági PB-gáz fogyasztó részére történő értékesítésére vonatkozó, általános forgalmi adót is tartalmazó ár 90%-át.
 
@@ -2707,7 +2711,7 @@ tartalmazza.
 - 9. a 74. § (2) bekezdése és a 105/A. § (2) bekezdése szerinti felmentésre, valamint a tárgyalásos tárolói hozzáférésre vonatkozó részletes szabályokat,
 - 10.
 - 11.
-- 12. a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. év CXXVII. törvény 57. § (2) bekezdés c) pont ca) alpontjában meghatározott minősített földgázellátási üzemzavar bekövetkezésének, illetve megszűnésének tényét és időpontját,
+- 12. a jövedéki adóról szóló törvényben meghatározott minősített földgázellátási üzemzavar bekövetkezésének, illetve megszűnésének tényét és időpontját,
 - 12.
 - 13. földgázellátási válsághelyzet II. fokozata esetén a felhasználók ellátására vonatkozó szerződések teljesítése felfüggesztésének rendjét, a felhasználók földgázellátásának korlátozását, különösen a korlátozás elrendelésének, fenntartásának és feloldásának feltételeit, az engedélyesek jogait és kötelezettségeit, valamint a földgázellátáshoz kapcsolódó, a hatósági és a nem hatósági árak körébe tartozó valamennyi termék és szolgáltatás legmagasabb árát,
 - 14.

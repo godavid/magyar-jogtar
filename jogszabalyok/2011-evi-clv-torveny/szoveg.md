@@ -27,7 +27,7 @@ támogatása,
 2. § (1) Szakképzési hozzájárulásra kötelezett – a (3)–(4) bekezdésben foglaltak figyelembevételével – a belföldi székhelyű
 
 - a) gazdasági társaság,
-- b) szövetkezet, kivéve a lakásszövetkezetet, a szociális szövetkezetet, valamint az iskolaszövetkezetet,
+- b) szövetkezet, kivéve a lakásszövetkezetet, a szociális szövetkezetet, az iskolaszövetkezetet és a közérdekű nyugdíjas szövetkezetet,
 - c) állami vállalat, tröszt, tröszti vállalat, közös vállalat, erdőbirtokossági társulat, vízgazdálkodási társulat – kivéve a víziközmű-társulatot –, egyes jogi személyek vállalata és a leányvállalat,
 - d) ügyvédi iroda, végrehajtó iroda és szabadalmi ügyvivő iroda,
 - e) közjegyzői iroda,

@@ -163,7 +163,7 @@ tartalmazza.
 
 (6) A felnőttképzési tevékenység folytatásához szükséges engedélyezési eljárás és követelményrendszer részletes szabályait, a kérelem és bejelentés adattartalmát és benyújtásának részletes szabályait, az engedéllyel rendelkező képző intézmények nyilvántartásának vezetésére vonatkozó részletes eljárási szabályokat és a nyilvántartásból való törlés eseteit a Kormány rendeletben határozza meg.
 
-5/A. § A hatóságnak a felnőttképzési tevékenység folytatásához szükséges engedélyezési eljárásban, valamint a felnőttképzést folytató intézmények ellenőrzése során meghozott döntése ellen a szakképzésért és felnőttképzésért felelős miniszterhez lehet fellebbezést benyújtani.
+#### 5/A. §
 
 #### 4. A felnőttképzési szakértői rendszer
 

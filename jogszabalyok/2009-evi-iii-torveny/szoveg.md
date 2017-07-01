@@ -642,6 +642,8 @@ Felkéretik az Egyesült Nemzetek főtitkára, hogy a csatolt Szabályzat angol 
 
 Felkéretik a Rajnai Hajózási Központi Bizottság főtitkára, hogy a csatolt Szabályzat német nyelvű fordítását készíttesse el.”
 
+2/A. § Felhatalmazást kap a Kormány, hogy a Veszélyes Áruk Nemzetközi Belvízi Szállításáról szóló Európai Megállapodáshoz (ADN) csatolt Szabályzatot, valamint módosításait és kiegészítéseit rendeletben hirdesse ki.
+
 3. § (1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – a kihirdetést követő nyolcadik napon lép hatályba.
 
 (2) A 4. § 2009. március 1-jén lép hatályba.

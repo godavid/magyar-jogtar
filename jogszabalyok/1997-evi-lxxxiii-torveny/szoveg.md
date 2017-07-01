@@ -77,7 +77,7 @@ amennyiben Magyarországon egészségügyi szolgáltatást nem az uniós rendele
 - s) határon átnyúló egészségügyi ellátás: a tartós ápolási-gondozási egészségügyi szolgáltatások, a szervátültetés céljából történő szervelosztás és szervhez jutás, továbbá a fertőző betegségek elleni közfinanszírozott oltási programok kivételével:
   - sa) a Magyarországon vagy magyar egészségügyi szolgáltató által uniós betegnek nyújtott egészségügyi szolgáltatás, vagy
   - sb) a biztosított által – ide nem értve a megállapodás alapján egészségügyi ellátásra jogosultakat – az Európai Unió más tagállamában vagy az ott letelepedett szolgáltatónál igénybevett egészségügyi ellátás, amelyet a biztosított nem az uniós rendeletek alapján vesz igénybe.
-- t)
+- t) intézményi regisztrációs lista: az egészségügyi szolgáltatónál az intézményi várólistától elkülönítetten vezetett lista egyes ellátások, egymással összefüggő ellátások, vagy ellátás sorozatok tervezése és ütemezése érdekében;
 - u) intézményi előjegyzési lista: a fekvőbeteg-szakellátást végző egészségügyi szolgáltatónál adott ellátások tekintetében az intézményi várólistától elkülönítetten vezetett lista, amelyen a biztosított kérésére a betegellátás tervezett időpontja legalább 14 nappal későbbi, mint az intézményi várólista alapján meghatározható legkorábbi időpont.
 
 5/C. § (1) E törvény alkalmazásában
@@ -323,7 +323,15 @@ amennyiben Magyarországon egészségügyi szolgáltatást nem az uniós rendele
 
 (2) A működtető biztosítja, hogy a beutalásra jogosult, valamint a biztosított a beutaló szerinti egészségügyi szolgáltatás konkrét egészségügyi szolgáltatónál és időpontban történő igénybevételére vonatkozó igényét az EESZT útján terjessze elő, valamint ennek sikerességéről vagy sikertelenségéről az egészségügyi szolgáltató az EESZT útján tájékoztassa a beutalásra jogosultat, illetve a biztosítottat.
 
-(3) A működtető az (1) és (2) bekezdésben foglaltakról nyilvántartást vezet. A nyilvántartás adatait a működtető az (1) bekezdés szerinti beutaló visszavonásától, felhasználásától vagy felhasználási idejének lejártától számított 5 év, illetve a (2) bekezdés szerinti foglalások időpontjától számított 5 év elteltével törli.
+(3) A működtető az (1) és (2) bekezdésben foglaltakról nyilvántartást vezet. A nyilvántartás
+
+- a) a beutaló azonosító adatait, tartalmát és a beutaló felhasználhatóságára vonatkozó információkat,
+- b) a beutaló továbbítására, módosítására és visszavonására vonatkozó adatokat, valamint
+- c) a beutaló felhasználására vonatkozó adatokat
+
+tartalmazza.
+
+(4) A (3) bekezdés szerinti nyilvántartás adatait a működtető az (1) bekezdés szerinti beutaló visszavonásától, felhasználásától vagy felhasználási idejének lejártától számított 5 év, illetve a (2) bekezdés szerinti foglalások időpontjától számított 5 év elteltével törli.
 
 19. § (1) Az egészségügyi ellátás keretében a biztosított a kezelőorvos által gyógyító céllal rendelt, az egészségbiztosításért felelős miniszter által az adott ellátásra meghatározott finanszírozási eljárásrend, vizsgálati és terápiás eljárási rend, valamint rehabilitációs ellátási program szerinti szolgáltatásokra jogosult. Ha a biztosított állapota és a gyógyítás szempontjai azt szükségessé teszik, a kezelőorvos a finanszírozási eljárásrendben, a vizsgálati és terápiás eljárási rendben, valamint a rehabilitációs ellátási programokban foglaltaktól eltérhet.
 
@@ -359,10 +367,11 @@ amennyiben Magyarországon egészségügyi szolgáltatást nem az uniós rendele
 
 20. § (1) A finanszírozási szerződés szerinti ellátásra kötelezett szolgáltató
 
-- a) a fekvőbeteg-gyógyintézeti ellátások elvégzését – amennyiben a biztosított egészségi állapota nem indokolja az azonnali ellátását, figyelemmel a (3) bekezdésben foglaltakra is – a (2) bekezdésben meghatározott esetben intézményi várólista alapján teljesíti,
-- b) a járóbeteg-szakellátások elvégzését a külön jogszabály szerinti betegfogadási lista alapján teljesíti,
+- a) a fekvőbeteg-gyógyintézeti ellátások elvégzését – ha a biztosított egészségi állapota nem indokolja az azonnali ellátását, figyelemmel a (3) bekezdésben foglaltakra is – a (2) bekezdésben meghatározott esetben intézményi várólista alapján teljesíti,
+- b) a járóbeteg-szakellátások elvégzését a jogszabály szerinti betegfogadási lista alapján teljesíti,
+- c) a jogszabályban meghatározott esetek ellátását intézményi regisztrációs lista alapján tervezi, ütemezi és teljesíti
 
-és az a) és b) pont szerinti teljesítésről, valamint a (3a) bekezdés szerinti esetekről külön jogszabályban meghatározott módon rendszeres jelentést küld az a) pont tekintetében az országos várólista-nyilvántartást vezető szerv, a b) pont tekintetében az egészségbiztosító részére.
+és az a)–c) pont szerinti teljesítésről, valamint a (3a) bekezdés szerinti esetekről jogszabályban meghatározott módon rendszeres jelentést küld az a) pont tekintetében az országos várólista-nyilvántartást vezető szerv, a b) és c) pont tekintetében az egészségbiztosító részére.
 
 (2) Intézményi várólistát kell kialakítani
 
@@ -379,7 +388,7 @@ amennyiben Magyarországon egészségügyi szolgáltatást nem az uniós rendele
 
 - a) az ellátás szakmai indokoltsága alapján,
 - b) az ellátás várható eredménye alapján,
-- c) a (4) bekezdés szerinti esetben,
+- c) a (4) és (4a) bekezdés szerinti esetben,
 - d) az azonnali ellátásnak a biztosított állapota miatti indokoltsága esetén,
 - e) a biztosított hátrányára a biztosított kérése alapján,
 - f) a szűréssel érintett, abból eredő ellátások esetében az állam által szervezett, nem kötelező szűrővizsgálaton való részvételnek a szűrővizsgálatot végző egészségügyi szolgáltató általi írásbeli igazolása alapján
@@ -390,7 +399,9 @@ lehet. Az eltérés lehetőségének feltételeit és szabályait az egészségb
 
 (3c) A (3a) bekezdés e) pontja szerinti esetben a biztosítottat intézményi előjegyzési listára kell felvenni.
 
-(4) A keresőképtelen biztosítottat – a (3) bekezdés szerinti miniszteri rendeletben meghatározott esetben – a beutaló orvos kezdeményezése alapján az ellátásra kötelezett szolgáltató az (1) bekezdés b) pontja szerinti ellátások tekintetében a (3) bekezdésben foglaltaktól eltérően – a várólista alapján nyújtható ellátások szabályairól szóló kormányrendeletben foglaltak figyelembevételével – köteles soron kívül fogadni, amennyiben a keresőképtelen biztosított az ellátást a keresőképtelenségét okozó betegsége miatt diagnosztikus vagy terápiás célból veszi igénybe. A keresőképtelenség miatti soron kívüli ellátás nem előzheti meg a (3) bekezdés szerinti szakmai indokoltság, valamint az ellátás várható eredménye miatti soron kívüli ellátásokat.
+(4) A keresőképtelen biztosítottat – a (3a) bekezdés szerinti miniszteri rendeletben meghatározott esetben – a beutaló orvos kezdeményezése alapján az ellátásra kötelezett szolgáltató az (1) bekezdés b) pontja szerinti ellátások tekintetében a (3) bekezdésben foglaltaktól eltérően – a várólista alapján nyújtható ellátások szabályairól szóló kormányrendeletben foglaltak figyelembevételével – köteles soron kívül fogadni, amennyiben a keresőképtelen biztosított az ellátást a keresőképtelenségét okozó betegsége miatt diagnosztikus vagy terápiás célból veszi igénybe. A keresőképtelenség miatti soron kívüli ellátás nem előzheti meg a (3a) bekezdés szerinti szakmai indokoltság, valamint az ellátás várható eredménye miatti soron kívüli ellátásokat.
+
+(4a) A transzplantáció előtti kivizsgálásra váró biztosítottat az ellátásra kötelezett szolgáltató az (1) bekezdés b) pontja szerinti ellátások tekintetében a (3) bekezdésben foglaltaktól eltérően köteles soron kívül fogadni, ha a transzplantáció előtti kivizsgálásra váró biztosított az ellátást a transzplantációs várólistára vételhez és a transzplantációs várólistán tartáshoz szükséges vizsgálatok miatt veszi igénybe. A transzplantáció előtti kivizsgálás miatti soron kívüli ellátás nem előzheti meg a (3a) bekezdés szerinti szakmai indokoltság, valamint az ellátás várható eredménye miatti soron kívüli ellátásokat.
 
 (5) A transzplantációs várólistára való felvételre jogosult:
 
@@ -414,6 +425,8 @@ lehet. Az eltérés lehetőségének feltételeit és szabályait az egészségb
 
 (10) Az intézményi előjegyzési lista tekintetében a (3c) és (9) bekezdésben nem szabályozott kérdésekben a (2)–(2b), (3b), (6) és (8) bekezdésében, valamint a 20/A. § (1)–(6) bekezdésében foglaltak szerint kell eljárni.
 
+(11) Az intézményi regisztrációs lista tekintetében a (2) bekezdés a) pontjában, a (2a) és (2b) bekezdésben, a (3b) bekezdésben, a (6) bekezdésben és a (8) bekezdésben, valamint a 20/A. § (1)–(6) bekezdésében foglaltak szerint kell eljárni.
+
 20/A. § (1) A várólista az adott egészségügyi ellátásra besorolt biztosítottak legfontosabb személyazonosító adatait (családi és utónév, anyja neve, nem, születési év, lakóhely, társadalombiztosítási azonosító jel), az ellátásra való jogosultság sorrendjét, valamint az ellátás várható, illetve – amint ismertté válik – pontosan meghatározott időpontját tartalmazza. A biztosítottak egyéb adatait az egészségügyi dokumentáció tartalmazza. A várólistán szereplő adatokat és a biztosítottak egyéb adatait az egészségügyi és személyazonosító adatok kezelésére vonatkozó jogszabályokban meghatározott rendelkezések szerint kell kezelni.
 
 (2) A központi várólistát kormányrendeletben kijelölt szerv működteti. A kormányrendeletben kijelölt szerv a működtetéshez a külön jogszabályban meghatározott közreműködőt vehet igénybe. Az intézményi várólistát az adott ellátást nyújtó egészségügyi szolgáltató szervezeti és működési szabályzatában e feladatra kijelölt személy vezeti.
@@ -432,7 +445,7 @@ lehet. Az eltérés lehetőségének feltételeit és szabályait az egészségb
 
 (9) Az országos várólista-nyilvántartás az intézményi várólista alapján ellátást igénybe vevő biztosítottnak az (1) bekezdés szerinti személyazonosító adatait, egyedi azonosítóját, az igénybevételre kerülő ellátás megjelölését, az ellátást nyújtó egészségügyi szolgáltató megnevezését és az ismertté válása esetén az ellátás igénybevételének időpontját tartalmazza. Az országos várólista-nyilvántartás az adatokat betegútszervezés céljából az ellátás elvégzésének az ellátást nyújtó egészségügyi szolgáltató általi – külön jogszabályban foglaltak szerinti – jelentéséig tartalmazhatja. Betegútelemzés és a kapacitáskihasználtság elemzése céljából személyazonosításra alkalmatlan módon további négy évig kezelhetőek az adatok.
 
-(10) Ha a 30. § (1) bekezdése szerinti szerződéssel rendelkező egészségügyi szolgáltató nem teljesíti a várólistával, intézményi előjegyzéssel, illetve betegfogadási listával kapcsolatos – jogszabályon vagy az egészségbiztosítóval kötött szerződésén alapuló – nyilvántartási, jelentési vagy adatszolgáltatási kötelezettségét, az egészségbiztosító az egészségügyi szolgáltatások finanszírozásáról szóló kormányrendeletben meghatározott mértékben és ideig visszatartja az egészségügyi szolgáltatót megillető finanszírozásnak a kötelezettségszegéssel érintett részét, illetve az egészségügyi szolgáltatások finanszírozásáról szóló kormányrendeletben meghatározott összeggel csökkenti az egészségügyi szolgáltatót megillető finanszírozást a kötelezettségszegés megszüntetéséig.
+(10) Ha a 30. § (1) bekezdése szerinti szerződéssel rendelkező egészségügyi szolgáltató nem teljesíti a várólistával, intézményi előjegyzéssel, intézményi regisztrációs listával, illetve betegfogadási listával kapcsolatos – jogszabályon vagy az egészségbiztosítóval kötött szerződésén alapuló – nyilvántartási, jelentési vagy adatszolgáltatási kötelezettségét, az egészségbiztosító az egészségügyi szolgáltatások finanszírozásáról szóló kormányrendeletben meghatározott mértékben és ideig visszatartja az egészségügyi szolgáltatót megillető finanszírozásnak a kötelezettségszegéssel érintett részét, illetve az egészségügyi szolgáltatások finanszírozásáról szóló kormányrendeletben meghatározott összeggel csökkenti az egészségügyi szolgáltatót megillető finanszírozást a kötelezettségszegés megszüntetéséig.
 
 ### 2. CÍM — Árhoz nyújtott támogatással igénybe vehető
 
@@ -1395,9 +1408,9 @@ azzal, hogy táppénz egy napra járó összege nem haladhatja meg a jogosultsá
 
 (2) A társadalombiztosítási ellátás igénybevétele során bekövetkezett balesetek közül üzeminek az számít, amely a biztosítottat keresőképtelenségének vagy rokkantságának, továbbá az egészségkárosodás mértékének, rehabilitálhatóságának az elbírálása céljából elrendelt, illetőleg a keresőképessé váláshoz szükséges egyéb vizsgálaton vagy kezelésen történt megjelenésével összefüggésben érte.
 
-(3) Foglalkozási betegség a munkavégzés, a foglalkozás gyakorlása közben bekövetkezett olyan heveny és idült, valamint a foglalkozás gyakorlását követően megjelenő vagy kialakuló idült egészségkárosodás, amely
+(3) Foglalkozási megbetegedés a munkavégzés, illetve a foglalkozás gyakorlása közben bekövetkezett olyan heveny és idült, valamint a foglalkozás gyakorlását követően megjelenő vagy kialakuló idült egészségkárosodás, amely
 
-- a) a munkavégzéssel, a foglalkozással kapcsolatos, a munkavégzés, a munkafolyamat során előforduló fizikai, kémiai, biológiai, pszichoszociális és ergonómiai kóroki tényezőkre vezethető vissza, illetve
+- a) a munkavégzéssel, a foglalkozással kapcsolatos, a munkavégzés, a munkafolyamat során előforduló fizikai, kémiai, biológiai, pszichoszociális és ergonómiai kóroki tényezőkre vezethető vissza, vagy
 - b) a munkavállalónak az optimálisnál nagyobb vagy kisebb igénybevételének a következménye.
 
 (4) Ha e törvény eltérően nem rendelkezik, üzemi baleseten a foglalkozási betegséget, üzemi baleseti sérültön a foglalkozási betegségben megbetegedettet is érteni kell.
@@ -1531,7 +1544,7 @@ azzal, hogy táppénz egy napra járó összege nem haladhatja meg a jogosultsá
 
 (4) Ha a korábban bevallott jövedelemadatok az állami adóhatóságnál módosításra kerültek, és ezért az egészségbiztosítás ellátásai közül a pénzbeli ellátás vagy a baleseti táppénz összege magasabb összegben kerül megállapításra, úgy a különbözet kiutalására akkor kerülhet sor, ha az meghaladja az ezer forintot.
 
-(5) A kifizetőhellyel nem rendelkező munkáltató a csecsemőgondozási díj, a gyermekgondozási díj, a táppénz, a baleseti táppénz iránti kérelmeket kizárólag az OEP honlapján közzétett számítógépes program segítségével töltheti ki és állíthatja elő.
+(5) A kifizetőhellyel nem rendelkező munkáltató a csecsemőgondozási díj, a gyermekgondozási díj, a táppénz, a baleseti táppénz iránti kérelmeket kizárólag az egészségbiztosító honlapján közzétett számítógépes program segítségével töltheti ki és a kormányhivatalnál történt regisztrációt követően, kizárólagosan elektronikus úton nyújthatja be.
 
 (5a) A pénzbeli egészségbiztosítási ellátások és a baleseti táppénz iránti kérelmekhez, továbbá a kifizetőhelyi feladatellátás során az egészségbiztosító által rendszeresített, az egészségbiztosító honlapján közzétett nyomtatványoknak megfelelő érvényes nyomtatványokat kell használni.
 
@@ -1912,16 +1925,16 @@ kell érteni.
 - x) a gyógyszer, gyógyászati segédeszköz, illetve gyógyászati ellátás árához nyújtott társadalombiztosítási támogatás elszámolására és folyósítására vonatkozó szabályok,
 - y) az elszámolási nyilatkozattal kapcsolatos részletes szabályok,
 - z) az Európai Egészségbiztosítási Kártya érvényességi idejének és kibocsátása szabályainak
-- zs) az országos várólista nyilvántartásra, a központi várólistára, a transzplantációs várólistára, a térségi várólistára, az intézményi előjegyzési listára, intézményi várólistára és a betegfogadási listára vonatkozó szabályok
+- zs) az országos várólista nyilvántartásra, a központi várólistára, a transzplantációs várólistára, az intézményi várólistára, az intézményi előjegyzésre, az intézményi regisztrációs listára és a betegfogadási listára vonatkozó szabályok
 
 meghatározására.
 
 (2a) Felhatalmazást kap a Kormány, hogy rendeletben
 
-- a) határozza meg az országos várólista nyilvántartás, valamint a térségi várólistáknak a korábbi intézményi várólisták alapján történő létrehozásának szabályait,
+- a) határozza meg az országos intézményi várólista nyilvántartás létrehozásának szabályait,
 - b)
 - c) jelölje ki az országos várólista nyilvántartást vezető szervet,
-- d) határozza meg a térségi várólista alapján történő ellátás-igénybevétel, az annak érdekében szükséges kapcsolattartás és a térségi várólista alapján történő szolgáltató-választás, valamint a térségi várólista alapján, intézményi várólista alapján, illetve a betegfogadási lista alapján végzett ellátásokkal, továbbá az intézményi előjegyzési listával kapcsolatos jelentés szabályait.
+- d) határozza meg az intézményi várólista alapján, illetve a betegfogadási lista alapján végzett ellátásokkal, továbbá az intézményi előjegyzéssel, intézményi regisztrációs listával kapcsolatos jelentés szabályait.
 
 (2b) Felhatalmazást kap a Kormány arra, hogy rendeletben határozza meg az egészségbiztosító által a 31. § (11) bekezdése alapján kiszabható bírság mértékét.
 
@@ -1935,7 +1948,7 @@ meghatározására.
 
 (2g) Felhatalmazást kap a Kormány, hogy az e törvény szerinti belföldi költségek mértékét, azok megtérítésének módját és feltételeit rendeletben meghatározza.
 
-(2h) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a várólistával, intézményi előjegyzéssel, illetve betegfogadási listával kapcsolatos nyilvántartási, jelentési vagy adatszolgáltatási kötelezettség nem teljesítése esetén az egészségügyi szolgáltató finanszírozásából a 20/A. § (10) bekezdése alapján visszatartásra, illetve levonásra kerülő összeg mértékét, a visszatartás időtartamát, továbbá a visszatartással és a levonással kapcsolatos eljárási szabályokat.
+(2h) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a várólistával, intézményi előjegyzéssel, intézményi regisztrációs listával, illetve betegfogadási listával kapcsolatos nyilvántartási, jelentési vagy adatszolgáltatási kötelezettség nem teljesítése esetén az egészségügyi szolgáltató finanszírozásából a 20/A. § (10) bekezdése alapján visszatartásra, illetve levonásra kerülő összeg mértékét, a visszatartás időtartamát, továbbá a visszatartással és a levonással kapcsolatos eljárási szabályokat.
 
 (2i) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a 35/A. § szerinti külön díjazás feltételeit és felhasználásának részletes szabályait.
 
@@ -1967,7 +1980,7 @@ meghatározására.
 vonatkozó szabályokat,
 
 - f) a betegszállításra jogosító kúraszerű kezeléseket,
-- g) a központi várólista, a transzplantációs várólista, a térségi várólista, az intézményi előjegyzési lista, intézményi várólista, valamint a betegfogadási lista tekintetében a sorrend kialakításának és az eltérés lehetőségének feltételeit és szabályait, továbbá a várólista, illetve az intézményi előjegyzési lista, intézményi várólista adatainak honlapon történő közzétételére vonatkozó szabályokat,
+- g) a központi várólista, a transzplantációs várólista, az intézményi előjegyzés, intézményi várólista, intézményi regisztrációs lista, valamint a betegfogadási lista tekintetében a sorrend kialakításának és az eltérés lehetőségének feltételeit és szabályait, továbbá a listák adatainak honlapon történő közzétételére vonatkozó szabályokat, valamint a listákhoz tartozó ellátások részletes meghatározását,
 - h) a beutalás szakmai szabályait,
 - i) az egyes egészségügyi szolgáltatások körébe tartozó beavatkozásokat,
 - j) a gyógyászati ellátások körébe tartozó szolgáltatásokat,

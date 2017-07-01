@@ -4,7 +4,11 @@ a légiközlekedésről szóló 1995. évi XCVII. törvény módosításáról
 
 1–14. §
 
-15. §
+15. § Az Lt. 61/A. § (3) bekezdése a következő p) ponttal egészül ki:
+
+(A Társaság feladatai:)
+
+„p) a pilóta nélküli légijárművek használatát támogató, az aktuális légtér információkat és egyéb korlátozásokat tartalmazó honlap és mobilalkalmazás üzemeltetése.”
 
 16–21. §
 

@@ -60,6 +60,7 @@ a távhőszolgáltatás versenyképesebbé tételéről
 - i) a tulajdoni részesedésre visszaírt értékvesztés, ha azt az adózó korábban a (2) bekezdés d) vagy e) pontja alapján az adózás előtti eredményt növelő tételként vette számításba, amelyet az erre vonatkozó adóbevallással és az azt alátámasztó kimutatásokkal igazol,
 - j) a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao. tv.) 24/B. § (1) bekezdése szerinti jóváírásra tekintettel az adóévben bevételként elszámolt összeg,
 - k) a kisajátítás, valamint a kisajátítási tervben szereplő ingatlanra megkötött adásvétel során kapott ellenérték és az érintett eszköz könyv szerinti értéke közötti pozitív különbözet az adózás előtti eredményben való megjelenése adóévében,
+- l) az adózó választása szerint az elektromos töltőállomás bekerülési érték, de legfeljebb az elektromos töltőállomás bekerülési értéke és az elektromos töltőállomás által a beruházás befejezésének adóévét követő 3 éves időszak alatt elért (elérhető), az adózó bekerüléskori becslése szerinti, az elektromos töltőállomás pozitív működési eredménye közötti különbözet összege, a beruházás befejezésének adóévében, figyelemmel a (13)–(17) bekezdésekre.
 
 (4) Kedvezményezett átalakulás esetén a jogelőd, illetve a jogutód – választása szerint – nem alkalmazza a (2) bekezdés c) pontját, feltéve, hogy a jogutód létesítő okirata tartalmazza a (6) bekezdésben foglaltak alkalmazására vonatkozó kötelezettségvállalást.
 
@@ -78,6 +79,16 @@ a távhőszolgáltatás versenyképesebbé tételéről
 (11) A több engedéllyel rendelkező, illetve engedélyes tevékenységen kívüli tevékenységet végző adóalanynál az adóalap az (1)–(9) bekezdés alapján meghatározott összegnek az arányos része, az arányt a jövedelemadó-köteles tevékenységek beszámolóban kimutatott vagy a könyvviteli zárlat alapján megállapított árbevételének az adóalany összes árbevételének százalékában (két tizedesjegyre) számítva kell meghatározni.
 
 (12) Abban az esetben, ha a részesedés nyilvántartásból történő kivezetése újabb kedvezményezett átalakulás vagy kedvezményezett részesedéscsere következtében történő részesedésszerzés miatt következik be, az adózónak nem kell a (2) bekezdés d) és e) pontjában foglaltakat alkalmaznia. Az utóbbi részesedés szerzésére tekintettel adózás előtti eredmény csökkentésként számításba vett összegként kell azonban figyelembe vennie a korábbi kedvezményezett átalakulás vagy kedvezményezett részesedéscsere alapján érvényesített adózás előtti eredménycsökkentésből azt a részt, amelyet növelésként még nem vett számításba.
+
+(13) Amennyiben a (3) bekezdés l) pontja szerinti csökkentés összege meghaladja az elektromos töltőállomás bekerülési értéke és az elektromos töltőállomás által a beruházás befejezésének adóévét követő 3 éves időszak alatt ténylegesen elért pozitív működési eredmény különbözetének összegét, a (3) bekezdés l) pontja szerinti, az adózás előtti eredmény csökkentéseként elszámolt összeg az állami adó- és vámhatósághoz benyújtott önellenőrzéssel pótlékmentesen módosítható.
+
+(14) Az adóalany a (3) bekezdés l) pontjának alkalmazása során az elektromos töltőállomás bekerülési értékeként veheti figyelembe a Tao. tv. 4. § 23. pontja szerinti kapcsolt vállalkozása által a Tao. tv. 7. § (1) bekezdés l) pontja szerint nem érvényesített összeget, amennyiben az adóbevallás benyújtásáig rendelkezik az érintett kapcsolt vállalkozása írásos nyilatkozatával, amely szerint a kapcsolt vállalkozás a Tao. tv. 7. § (1) bekezdés l) pontja szerinti kedvezményt nem érvényesíti, és amely tartalmazza a beruházás befejezésének adóévét követő 3 éves időszak alatt az elektromos töltőállomás által elért üzemi eredményről.
+
+(15) A (3) bekezdés l) pontjában meghatározott kedvezmény a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187 2014.06.26. 1–78. o.) I. és II. fejezete és 56. cikke hatálya alá tartozó támogatásnak minősül.
+
+(16) A (3) bekezdés l) pontja szerinti kedvezmény és a Tao. tv. 7. § (1) bekezdés l) pontja szerinti kedvezmény nem érvényesíthető ugyanazon elektromos töltőállomás bekerülési értéke alapján.
+
+(17) A (3) bekezdés l) pontja szerint elektromos töltőállomásonként érvényesített összeg 7. § (1) bekezdése szerinti adókulccsal számított értéke nem lehet több 20 millió eurónak a 7. § (1) bekezdése szerinti adókulccsal számított értékének megfelelő forintösszegnél.
 
 ### A jövedelemadó mértéke
 
@@ -138,8 +149,9 @@ a távhőszolgáltatás versenyképesebbé tételéről
 - 7. kedvezményezett átalakulás: a Tao. tv. 4. § 23/a. pontjában meghatározott fogalom, figyelembe véve a Tao. tv. 4. § 32/a. pontjában foglaltakat is;
 - 8. kedvezményezett eszközátruházás: a Tao. tv. 4. § 23/b. pontjában meghatározott fogalom, figyelembe véve a Tao. tv. 4. § 32/a. pontjában foglaltakat is;
 - 9. kedvezményezett részesedéscsere: a Tao. tv. 4. § 23/c. pontjában meghatározott fogalom, figyelembe véve a Tao. tv. 4. § 32/a. pontjában foglaltakat is;
-- 10. kőolajtermék: a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény 52. § (1) bekezdésének a)–f) pontjaiban felsorolt üzem- és tüzelőanyag;
+- 10. kőolajtermék: a jövedéki adóról szóló törvény szerinti, üzemanyagkénti vagy tüzelő-, fűtőanyagkénti kínálásra, értékesítésre vagy felhasználásra szánt benzin, petróleum, gázolaj, fűtőolaj és LPG;
 - 11. közszolgáltató: 11.1. a víziközmű-szolgáltatásról szóló törvény szerinti víziközmű-szolgáltató, 11.2. a vízgazdálkodásról szóló törvény szerinti nem közművel összegyűjtött háztartási szennyvíz begyűjtésére feljogosított közszolgáltató, 11.3. a hulladékról szóló törvény szerinti hulladékgazdálkodási közszolgáltatást végző közszolgáltató.
+- 12. elektromos töltőállomás: olyan eszköz, amely alkalmas egy elektromos gépjármű energiatárolójának töltésére vagy cseréjére.
 
 ### III. Fejezet — AZ ÁRKÉPZÉS ÁTLÁTHATÓSÁGÁNAK ÉRDEKÉBEN SZÜKSÉGES TÖRVÉNYMÓDOSÍTÁSOK
 
@@ -275,3 +287,5 @@ e) az 57. § (3) bekezdése szerinti eljárásban kötelezően benyújtandó ada
 (6) E törvénynek az adózással összefüggő egyes törvények módosításáról szóló 2015. évi LXXXI. törvénnyel módosított 6. § (2) bekezdés b) pontját a 2015. adóévi adókötelezettségre az adózó választása szerint alkalmazza.
 
 (7) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel megállapított 6. § (3) bekezdés j) és k) pontját első alkalommal a 2016. adóévi adókötelezettség megállapítása során kell alkalmazni.
+
+(8) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2017. évi LXXVII. törvénnyel megállapított 6. § (3) bekezdés l) pontját, (13)–(17) bekezdését és 10. § 12. pontját első alkalommal a 2017. június 30-át követően megkezdett beruházások tekintetében lehet alkalmazni.

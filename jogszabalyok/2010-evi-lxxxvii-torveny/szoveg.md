@@ -80,7 +80,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 (7) Az NFA elnökhelyettese helyettes államtitkári illetményre jogosult.
 
-(8) Az NFA feladatait központi szervezete és területi (megyei) szervezeti egységei útján látja el.
+(8)
 
 (9) Az NFA alapító okiratát, és a szervezeti és működési szabályzatát a miniszter a Magyar Közlönyben teszi közzé.
 
@@ -386,13 +386,13 @@ követő napon.
 
 26. § (1) A Nemzeti Földalapba tartozó földrészlet eladására, vagyonkezelésére vagy haszonbérletére irányuló pályázati felhívást az NFA hirdeti meg.
 
-(2) A pályázati felhívást, valamint benne az eladásra, vagy a haszonbérbe adásra kerülő földrészletek jegyzékét az NFA székhelyén, internetes honlapján, a földrészletek fekvése szerinti területi szervezeti egységeinél, és az önkormányzatnál legalább harminc napra hirdetmény formájában, valamint a helyben szokásos módon közzé kell tenni. A pályázati felhívásban 45 napnál nem lehet rövidebb időtartamot megállapítani az ajánlattételre.
+(2) A pályázati felhívást, valamint benne az eladásra, vagy a haszonbérbe adásra kerülő földrészletek jegyzékét az NFA székhelyén, internetes honlapján, és az önkormányzatnál legalább harminc napra hirdetmény formájában, valamint a helyben szokásos módon közzé kell tenni. A pályázati felhívásban 45 napnál nem lehet rövidebb időtartamot megállapítani az ajánlattételre.
 
 (3) Az NFA a pályázatok elbírálásától számított 30 napon belül szerződést köt a nyertes pályázóval.
 
 (4) A földrészlet eladására, haszonbérletére irányuló pályázati felhívás kiírásának, valamint elbírálásának részletes szabályait e törvény végrehajtására kiadott rendelet határozza meg.
 
-27. § Az NFA a székhelyén, az internetes honlapján és a területi szervezeti egységeinél, a miniszter által vezetett minisztérium hivatalos lapjában, és honlapján, valamint az önkormányzat polgármesteri hivatalánál történő kifüggesztés útján rendszeresen közzéteszi a Nemzeti Földalapba tartozó értékesítésre vagy haszonbérbeadásra szánt földrészletek jegyzékét.
+27. § Az NFA a székhelyén, az internetes honlapján a miniszter által vezetett minisztérium hivatalos lapjában, és honlapján, valamint az önkormányzat polgármesteri hivatalánál történő kifüggesztés útján rendszeresen közzéteszi a Nemzeti Földalapba tartozó értékesítésre vagy haszonbérbeadásra szánt földrészletek jegyzékét.
 
 28. § A Nemzeti Földalapba tartozó földrészletek hasznosításából származó bevételeket földvásárlásra, a 15. §-ban foglaltak megvalósítására vagy az államadósság csökkentésére kell fordítani.
 

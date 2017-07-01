@@ -35,9 +35,9 @@ a közigazgatási bürokráciacsökkentést érintő egyes törvények módosít
 10. § Az Nytv.
 
 - a)
-- b)
+- b) 26. § (2) bekezdésében az „a bejelentendő lakóhely vagy tartózkodási hely szerint illetékes” szövegrész helyébe a „bármely” szöveg,
 - c)
-- d)
+- d) 26. § (8) bekezdésében az „az illetékes járási hivatalnál jelenti be” szövegrész helyébe a „bármely járási hivatalnál bejelentheti” szöveg,
 - e)
 
 lép.
@@ -70,7 +70,7 @@ lép.
 
 #### 13. A lakástakarékpénztárakról szóló 1996. évi CXIII. törvény módosítása
 
-23. §
+23. § A lakástakarékpénztárakról szóló 1996. évi CXIII. törvény 2. § (1) bekezdés 6. pontjában a „három” szövegrész helyébe a „kettő” szöveg lép.
 
 #### 14. A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény módosítása
 

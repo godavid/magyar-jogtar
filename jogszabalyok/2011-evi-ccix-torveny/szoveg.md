@@ -896,6 +896,8 @@ alapul.
 
 (2) A szolgalmi jogot az ingatlanügyi hatóság a jogerős határozat alapján a záradékolt vázrajz szerint vezeti át az ingatlan-nyilvántartáson.
 
+55/H. § Mentes a víziközmű-fejlesztési hozzájárulás, az igénybejelentés elbírálásának díja, a tervegyeztetés, adategyeztetés vagy ennek megfelelő szolgáltatás díja, továbbá rácsatlakozáskor a bekötési vízmérőóra költsége, a bekötési vízmérőóra felszerelésének díja és a nyomáspróba díja alól a legfeljebb 32 mm átmérőjű ivóvízvezeték és a legfeljebb 160 mm átmérőjű szennyvízvezeték bekötése.
+
 #### 18. A víziközmű-szolgáltatás szüneteltetése a közműves ivóvízellátás,
 
 valamint a közműves szennyvízelvezetés és -tisztítás tekintetében

@@ -270,7 +270,8 @@ a kollektív befektetési formákról és kezelőikről, valamint egyes pénzüg
 - e) az alapkezelő olyan közvetlen vagy közvetett tagi részesedéssel rendelkező személyeinek bemutatását, akik, vagy amelyek minősített befolyással rendelkeznek az alapkezelőben;
 - f) a 9. §-ban foglaltak fennállásáról vagy azok hiányáról szóló nyilatkozatot;
 - g) amennyiben az alapkezelő a Bszt. hatálya alá tartozó tevékenységet is végez, arra vonatkozó belső szabályzatát, amely biztosítja a több megbízó, illetve kollektív befektetési forma részére, különböző befektetési elvek alapján való portfóliókezelés illetve befektetési alapkezelés miatti lehetséges érdekellentétek kiküszöbölését; valamint
-- h) a könyvvizsgáló igazolását arra vonatkozóan, hogy az alapkezelő informatikai rendszere alkalmas a 29. §-ban és a 30. §-ban meghatározott követelmények teljesítésére.
+- h) a könyvvizsgáló igazolását arra vonatkozóan, hogy az alapkezelő informatikai rendszere alkalmas a 29. §-ban és a 30. §-ban meghatározott követelmények teljesítésére;
+- i) a tevékenységi kör módosítására irányuló eljárás kivételével a tulajdonosi szerkezetének részletes leírását okirati bizonyítékokkal együtt, továbbá – amennyiben ez lehetséges – a tényleges tulajdonosok bemutatását.
 
 (2) Az ÁÉKBV-alapkezelőnek tevékenysége végzése során folyamatosan meg kell felelnie a jogszabályok előírásainak és a Felügyelet felhívására köteles igazolni, hogy megfelel az e törvény felhatalmazása alapján kiadott egyéb jogszabályokban meghatározott működési feltételnek is.
 
@@ -289,7 +290,8 @@ a kollektív befektetési formákról és kezelőikről, valamint egyes pénzüg
 - a) az e törvényben vagy az e törvény felhatalmazása alapján kiadott jogszabályban előírt feltételeknek nem felel meg,
 - b) az a) pontban meghatározott feltételeknek való megfelelést hitelt érdemlő módon nem igazolta,
 - c) megtévesztő vagy valótlan adatot közölt, vagy
-- d) olyan személlyel vagy szervezettel áll szoros kapcsolatban, amelynek lakóhelye vagy székhelye olyan harmadik országban van, amelynek jogszabályai vagy a jogszabályokban foglaltak kikényszerítése akadályozza a befektetési alapkezelő feletti hatékony és eredményes felügyeletet.
+- d) olyan személlyel vagy szervezettel áll szoros kapcsolatban, amelynek lakóhelye vagy székhelye olyan harmadik országban van, amelynek jogszabályai vagy a jogszabályokban foglaltak kikényszerítése akadályozza a befektetési alapkezelő feletti hatékony és eredményes felügyeletet,
+- e) tevékenységével kapcsolatosan feltételezhető, hogy az erre vonatkozó jogszabályok értelmében pénzmosást vagy terrorizmus-finanszírozást követnek vagy követtek el, vagy kísérelnek vagy kíséreltek meg elkövetni, vagy hogy a szándékolt tevékenység növelheti ennek kockázatát.
 
 (2) Az (1) bekezdés d) pontjában meghatározott feltételek ellenőrzéséhez a Felügyelet által szükségesnek ítélt információkat a kérelmezőnek a Felügyelet rendelkezésére kell bocsátania.
 
@@ -304,7 +306,8 @@ a kollektív befektetési formákról és kezelőikről, valamint egyes pénzüg
 - c) a 13. mellékletben meghatározott elveknek megfelelő javadalmazási politika és gyakorlat bemutatását;
 - d) a tárgyi, szervezeti és – a büntetlen előéletre vonatkozó előírásokon kívüli – személyi feltételeknek való megfelelés igazolására vonatkozó okiratokat;
 - e) az ABAK olyan közvetlen vagy közvetett tagi részesedéssel rendelkező személyeinek bemutatását, akik, vagy amelyek minősített befolyással rendelkeznek a befektetési alapkezelőben, bemutatva a minősített befolyás arányát is;
-- f) a tevékenységeknek a 41. § szerinti, kiszervezésre tett intézkedésekkel kapcsolatos tájékoztatást.
+- f) a tevékenységeknek a 41. § szerinti, kiszervezésre tett intézkedésekkel kapcsolatos tájékoztatást;
+- g) a tevékenységi kör módosítására irányuló eljárás kivételével a tulajdonosi szerkezetének részletes leírását okirati bizonyítékokkal együtt, továbbá – amennyiben ez lehetséges – a tényleges tulajdonosok bemutatását.
 
 (2) A kérelmező tájékoztatja a Felügyeletet a kezelni kívánt ABA-k által folytatandó befektetési stratégiáról (az elsődleges eszközkategória típusa szerinti besorolásról).
 
@@ -513,7 +516,7 @@ között létrejött érdekellentét nyomán az ÁÉKBV-alapkezelő által kezel
 
 23. § (1) Az ÁÉKBV-alapkezelő biztosítja, hogy a befektető az ÁÉKBV-alapkezelő magatartására, tevékenységére vagy mulasztására vonatkozó panaszát szóban vagy írásban díjmentesen közölhesse. Az ÁÉKBV-alapkezelő köteles lehetővé tenni, hogy a befektető a kollektív befektetési értékpapír forgalmazásának helye szerinti hivatalos nyelvek bármelyikén benyújthassa panaszát.
 
-(2) Telefonon történő panaszkezelés esetén az ÁÉKBV-alapkezelő és a panaszos közötti telefonos kommunikációt az ÁÉKBV-alapkezelő hangfelvétellel rögzíti, és a hangfelvételt a szabályzata szerinti ideig, legalább azonban 5 évig megőrzi. Erről a panaszost a telefonos ügyintézés kezdetekor tájékoztatni kell. A panaszos kérésére biztosítani kell a hangfelvétel visszahallgatását, továbbá térítésmentesen rendelkezésre kell bocsátani a hangfelvételről készített hitelesített jegyzőkönyvet.
+(2) Telefonon történő panaszkezelés esetén az ÁÉKBV-alapkezelő és a panaszos közötti telefonos kommunikációt az ÁÉKBV-alapkezelő hangfelvétellel rögzíti, és a hangfelvételt a szabályzata szerinti ideig, legalább azonban 5 évig megőrzi. Erről a panaszost a telefonos ügyintézés kezdetekor tájékoztatni kell. A panaszos kérésére biztosítani kell a hangfelvétel visszahallgatását, továbbá térítésmentesen – kérésének megfelelően – huszonöt napon belül rendelkezésére kell bocsátani a hangfelvételről készített hitelesített jegyzőkönyvet vagy a hangfelvétel másolatát.
 
 (3) Az ÁÉKBV-alapkezelő a panaszt és az arra adott választ a szabályzatában meghatározott ideig, legalább azonban 5 évig őrzi meg, és azt a Felügyelet kérésére bemutatja.
 
@@ -1283,11 +1286,11 @@ tekintetében.
 
 #### 29. Befektetési jegy sorozatok
 
-71. § (1) Egy befektetési alap nevében egy vagy több sorozatot alkotó, egyazon sorozaton belül azonos névértékű és azonos jogokat megtestesítő befektetési jegyek bocsáthatók ki. A kezelési szabályzatnak részletesen meg kell határoznia, hogy az egyes sorozatok milyen jellemzőikben térnek el egymástól.
+71. § (1) Egy befektetési alap nevében egy vagy több sorozatot alkotó, egyazon sorozaton belül azonos névértékű és azonos jogokat megtestesítő befektetési jegyek bocsáthatók ki. A kezelési szabályzatnak részletesen meg kell határoznia, hogy az egyes sorozatok milyen jellemzőikben térnek el egymástól. A hozamból való részesedés mértéke, illetve sorrendje, valamint a veszteségből való részesedés mértéke, illetve sorrendje tekintetében eltérő sorozatok kizárólag zártkörű befektetési alapok esetében hozhatók létre.
 
 (2) Egy adott befektetési alap egyes eszközeit az egyes befektetési jegy sorozatok között nem lehet megosztani, kivéve
 
-- a) az illikviddé vált eszközök 127. §-ban foglaltak szerinti elkülönítése esetén, valamint
+- a) az illikviddé vált eszközök 128. §-ban foglaltak szerinti elkülönítése esetén, valamint
 - b) az olyan, devizakockázat fedezésére szolgáló ügyletek esetében, amelyek célja a befektetési alap adott sorozata devizakockázatának csökkentése a befektetési alap befektetési politikájának megfelelően.
 
 #### 30. A kezelési szabályzat
@@ -1944,7 +1947,7 @@ engedélyezte a tervezett egyesülést.
 
 131. § (1) A befektetési alapkezelő a nyilvánosságot rendszeresen tájékoztatja az általa kezelt nyilvános befektetési alap vagyoni, jövedelmi helyzetének, működésének főbb adatairól.
 
-(2) A befektetési alapkezelő az általa kezelt nyilvános zárt végű befektetési alap esetén az (1) bekezdésben meghatározott rendszeres tájékoztatási kötelezettségét a Tpt. V. fejezetében foglaltaknak megfelelően teljesíti.
+(2) A befektetési alapkezelő az általa kezelt nyilvános zárt végű befektetési alap esetén az (1) bekezdésben meghatározott rendszeres tájékoztatási kötelezettségét a Tpt. V. Fejezetében foglaltaknak megfelelően teljesíti, figyelembe véve a 2015/2365 rendelet rendelkezéseit is.
 
 (3) A befektetési alapkezelő az általa kezelt nyilvános nyílt végű befektetési alap esetén az (1) bekezdésben meghatározott rendszeres tájékoztatási kötelezettségét
 
@@ -1965,6 +1968,8 @@ formájában teljesíti.
 132. § (1) A nyilvános nyílt végű befektetési alap éves jelentése tartalmazza a befektetési alap eredmény-kimutatását, jelentést az adott időszakban végzett tevékenységekről és a 6. mellékletben, ingatlanalap esetében továbbá a 7. mellékletben meghatározott egyéb adatokat, valamint az összes egyéb olyan lényeges információt, amelynek alapján a befektetők véleményt tudnak alkotni a befektetési alap tevékenységeinek fejlesztéséről és eredményeiről.
 
 (2) A nyilvános nyílt végű befektetési alap féléves jelentése tartalmazza a 6. melléklet I–IV. szakaszában, továbbá ingatlanalap esetében a 7. melléklet 2–3. szakaszában meghatározott adatokat. Amennyiben a befektetési alap év közben hozamot fizet, a mérlegnek tartalmaznia kell az adózott féléves eredményt és a kifizetett vagy felkínált közbenső hozamot.
+
+(3) A nyilvános nyílt végű befektetési alap éves és féléves jelentésének tartalma tekintetében a 2015/2365 rendelet rendelkezései is megfelelően alkalmazandók.
 
 133. § A havi portfóliójelentés tartalmazza a hónap utolsó nettó eszközértéke alapján:
 
@@ -2028,6 +2033,8 @@ formájában teljesíti.
 #### 53. A zártkörű befektetési alapokra vonatkozó rendelkezések
 
 140. § (1) A befektetési alapkezelő az általa kezelt zártkörű befektetési alap rendszeres tájékoztatási kötelezettségét az éves és féléves jelentés befektetők számára – a kezelési szabályzatban meghatározott módon történő – rendelkezésre bocsátásával teljesíti, azzal hogy az éves jelentésben közölt számviteli információkra a 135. §-ban foglalt rendelkezéseket kell alkalmazni. A befektetők tájékoztatásával egyidejűleg az éves jelentést a Felügyelet, valamint kérésre a zártkörű ABA letelepedése szerinti tagállam felügyeleti hatósága részére is meg kell küldeni a pénzügyi év végét követő hat hónapon belül. A 2. § (2) bekezdés szerinti ABAK által kezelt zártkörű befektetési alap esetében nem alkalmazandó a féléves jelentés készítésére vonatkozó tájékoztatási kötelezettség, valamint az éves jelentésben közölt számviteli információkat nem kell könyvvizsgálóval felülvizsgáltatni, amely tényre a kezelési szabályzatban fel kell hívni a befektetők figyelmét.
+
+(1a) A zártkörű befektetési alap éves jelentésének tartalma tekintetében a 2015/2365 rendelet rendelkezései megfelelően alkalmazandók.
 
 (2) A zártkörű befektetési alap befektetési politikájával kapcsolatos tájékoztatásra a nyilvános alapokra vonatkozó szabályok irányadók azzal, hogy a tájékoztató helyett a kezelési szabályban kell feltüntetni az információt.
 
@@ -2967,7 +2974,8 @@ van összefüggésben.
 - e) az Európai Parlament és Tanács 2013. április 17-i az európai szociális vállalkozási alapokról szóló 346/2013/EU rendeletének,
 - f) a Bizottság 2013. május 15-i a 2011/61/EU európai parlamenti és tanácsi irányelv önkéntes alkalmazását választó ABAK-okra vonatkozó eljárás létrehozásáról szóló 447/2013/EU végrehajtási rendeletének,
 - g) a Bizottság 2013. május 15-i a nem uniós ABAK-ok referencia-tagállamának a 2011/61/EU európai parlamenti és tanácsi irányelv szerinti meghatározását szolgáló eljárás létrehozásáról szóló 448/2013/EU végrehajtási rendeletének,
-- h) az Európai Parlament és Tanács 2015. április 29-i az európai hosszú távú befektetési alapokról szóló 760/2015/EU rendeletének végrehajtásához szükséges rendelkezéseket állapít meg.
+- h) az Európai Parlament és Tanács 2015. április 29-i az európai hosszú távú befektetési alapokról szóló 760/2015/EU rendeletének,
+- i) az Európai Parlament és Tanács 2015. november 25-i, az értékpapír-finanszírozási ügyletek és az újrafelhasználás átláthatóságáról, valamint a 648/2012/EU rendelet módosításáról szóló (EU) 2015/2365 rendeletének végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### Módosító rendelkezések
 

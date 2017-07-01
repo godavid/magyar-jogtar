@@ -27,9 +27,9 @@ Az Országgyűlés a közlekedés energiafelhasználásának a klímaváltozásr
 - 15. teljes életciklusra számított üvegházhatású gázkibocsátás: minden olyan nettó CO2-, CH4- és N2O-kibocsátás, amely a forgalmazott üzemanyaghoz, annak bekevert összetevőit is beleértve, bioüzemanyaghoz vagy más, közlekedési célú energiához kapcsolható; ez valamennyi releváns szakaszra kiterjed, beleértve a kitermelést vagy növénytermesztést, a földhasználatban bekövetkező változásokat, a szállítást és a forgalmazást, a feldolgozást és a fogyasztás során történő elégetési folyamatokat, a kibocsátás helyétől függetlenül;
 - 16. üvegházhatású gázkibocsátás-elkerülés: annak százalékban meghatározott értéke két tizedes jegyre kerekítve, hogy a bioüzemanyag teljes életciklusra számított üvegházhatású gázkibocsátása mennyivel kevesebb, mint a bioüzemanyag fosszilis komparátorára meghatározott üvegházhatású gázkibocsátás;
 - 17. üzemanyag: a motorbenzin, a dízelgázolaj, a cseppfolyósított propán-bután gáz (LPG) és a sűrített földgáz (CNG);
-- 18. üzemanyag-forgalmazó: a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény (a továbbiakban: Jöt.) szerint
-  - a) az üzemanyagot szabad forgalomba bocsátó személy, ideértve az üzemanyagot a Jöt. szerinti szabad forgalomba bocsátással importáló személyt is, és
-  - b) a más tagállamban szabad forgalomba bocsátott üzemanyagot tagállamból beszerző közösségi kereskedelmi tevékenységet folytató jövedéki engedélyes kereskedő.
+- 18. üzemanyag-forgalmazó: a jövedéki adóról szóló törvény (a továbbiakban: Jöt.) szerint
+  - a) az üzemanyagot szabad forgalomba bocsátó személy, és
+  - b) a másik tagállamban szabadforgalomba bocsátott üzemanyagot kereskedelmi céllal belföldre szállító jövedéki engedélyes kereskedő.
 
 #### 2. A megújuló energia közlekedési célú felhasználásának növelése
 

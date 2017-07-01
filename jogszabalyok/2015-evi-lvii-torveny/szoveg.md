@@ -35,7 +35,7 @@ Az Országgyűlés a nemzeti energiahatékonysági célkitűzés teljesítéséh
 - 23. közintézmény: a közbeszerzésekről szóló törvényben meghatározott ajánlatkérő szervezet;
 - 24. központi kormányzat: a minisztérium, a kormányhivatal országos hatáskörrel rendelkező szervezeti egységei, a központi hivatal – a fővárosi és megyei kormányhivatalok kivételével – országos hatáskörrel rendelkező szervezeti egységei, a Közbeszerzési és Ellátási Főigazgatóság, valamint a Katonai Nemzetbiztonsági Szolgálat országos hatáskörrel rendelkező szervezeti egységei, az országos hatáskörrel rendelkező rendvédelmi szervek és honvédségi szervezetek; továbbá ha e szervezetek körében egy adott hatáskör vonatkozásában nem létezik országos hatáskörű szervezeti egység, akkor azok a szervezeti egységek vagy szervezetek, amelyek illetékessége együttesen terjed ki az ország területére;
 - 25. nagy hatásfokú kapcsolt energiatermelés: a nagy hatásfokú, hasznos hőenergiával kapcsoltan termelt villamos energia és a hasznos hő mennyisége megállapításának számítási módjáról szóló rendelet szerint nagy hatásfokúnak minősülő kapcsolt energiatermelés;
-- 26. nagyvállalat: a kis- és középvállalkozásnak nem minősülő vállalkozás;
+- 26. nagyvállalat: a Kkvtv. 4. § (2) bekezdése szerinti partnervállalkozások és a Kkvtv. 4. § (5) bekezdésének figyelmen kívül hagyásával kis- és középvállalkozásnak nem minősülő vállalkozás;
 - 27. névleges bemenő hőteljesítmény: az adott energiaátalakító berendezésre vonatkozó hatósági határozatban vagy a berendezés gépkönyvében vagy gyártói nyilatkozatában rögzített névleges teljesítményen történő üzemeltetéséhez szükséges, az energiaátalakító berendezésbe bevitt hőteljesítmény megawattban (MWth) kifejezve;
 - 28. primerenergia-fogyasztás: a nem energiacélú felhasználással csökkentett bruttó belföldi energiafogyasztás;
 - 29. teljes bemenő hőteljesítmény: az összes olyan műszaki egység névleges bemenő hőteljesítményének összege, amely a létesítmény részét képezi;
@@ -348,9 +348,11 @@ kell elérni.
 
 (3)
 
-(4) A vállalkozáscsoport azon tagjának, amely önmagában kis- és középvállalkozásnak minősülne és a működésével összefüggésben felmerült, tárgyévet megelőző évi energiafelhasználása nem éri el a vállalkozáscsoport legnagyobb fogyasztású vállalkozásának a működésével összefüggésben felmerült, tárgyévet megelőző évi éves energiafelhasználás 5%-át, nem kell kötelező energetikai auditálást lefolytatnia vagy a (2) bekezdés szerinti energiagazdálkodási rendszert működtetnie.
+(4) A vállalkozáscsoport azon tagjának, amely önmagában kis- és középvállalkozásnak minősülne és az auditálás évét megelőző 3 évben az átlagos éves összes energiafogyasztása nem éri el a 3 GWh-t, nem kell kötelező energetikai auditálást lefolytatnia vagy a (2) bekezdés szerinti energiagazdálkodási rendszert működtetnie.
 
 (5) Nem kell külön energetikai auditálást lefolytatnia annak a nagyvállalatnak, amely egy vállalkozáscsoport tagja és a vállalkozáscsoport egészére vagy egy részére vonatkozó energetikai audit ezen nagyvállalatra is kiterjed.
+
+(6) Ha a nagyvállalat energetikai alapállapot felmérése során megállapították, hogy a valamely auditálandó részterület (épületek, folyamatok és szállítás) – tárgyévet megelőző 3 év átlagában – éves energiafelhasználása az összes éves energiafelhasználás 10 százalékát nem éri el, a részterület mentesül a kötelező auditálás alól.
 
 22/A. § (1) A nagyvállalatnak minősülő tulajdonos köteles elvégeztetni a kötelező energetikai auditálás keretében a tulajdonában álló épület vonatkozásában az energetikai auditot.
 

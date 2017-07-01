@@ -132,7 +132,7 @@ számlát (a továbbiakban: akadálymentes számla) – az eredeti számlával a
 - 1. A villamos energia egyetemes szolgáltató, illetve a villamosenergia-elosztó az egyetemes szolgáltatásra jogosult felhasználó részére a részszámlát – a számlázással kapcsolatos pénzügyi és számviteli jogszabályok előírásainak betartása mellett – az alábbiak szerint bocsátja ki.
 - 2. A részszámla első oldala:
 
-4K13909M_0
+6K06792M_0
 
 | „Szolgáltató logója: |  |
 | --- | --- |
@@ -170,7 +170,7 @@ Elszámolt mennyiség: … kWh
 
 Mérési pont azonosító:
 
-4K13909M_2
+6K06792M_2
 
 | Mérő gyártási száma | Elszámolt időszak | Induló mérőállás |  | Záró mérőállás | LM | Fogyasztás (kWh) | Szorzó | Mennyiség (kWh) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -219,7 +219,7 @@ Leolvasás módja (LM): Leol – leolvasás elosztói engedélyes által; Becs �
 - 4.3. x. sz. eredeti példány: az eredeti példány sorszáma.
 - 4.4. Felhasználó azonosító száma, felhasználási hely címe: a felhasználó azonosításához szükséges adat, pl.: vevő azonosító, felhasználási hely azonosító; a „felhasználó azonosító száma” helyett a szolgáltató üzletszabályzatában meghatározott ezzel egyenértékű megnevezés is használható. Több felhasználási azonosító szám, és felhasználási hely cím is feltüntethető, amennyiben több felhasználási helyre vonatkozóan állítja ki a szolgáltató a számlát.
 - 4.5. Tétel megnevezése:
-- 4.5.1. Nem lakossági fogyasztó esetében a díjtételek között a számlarészletező részben az „Energiaadó” tételt is fel kell feltüntetni.
+- 4.5.1. Nem lakossági fogyasztó esetében a díjtételek között a számlarészletező részben az „Jövedéki adó” tételt is fel kell feltüntetni.
 - 4.5.2. Lakossági fogyasztó esetében a „Szénipari szerkezetátalakítási támogatás”, a „Kedvezményes árú villamosenergia-ellátás támogatása”, a „Kapcsolt termelésszerkezet-átalakítás” és a „Pénzeszközök összesen” tételeket kizárólag abban az esetben kell feltüntetni, ha azok értéke nem nulla.
 - 4.5.3. Az egyes tételekhez kapcsolódó sorokban nem szükséges az összes oszlophoz tartozó cellát kitölteni, csak amely értelemszerűen alkalmazható (pl.: a „rendszerhasználati díjak összesen” sorban a mértékegység feltüntetése nem értelmezhető).
 - 4.6. Egyéb: feltüntetése csak abban az esetben szükséges, ha a felhasználó támogatásban részesült, vagy túlfizetett vagy bármilyen egyéb, a fizetendő összeget befolyásoló tétel felmerült (pl. kamat, tartozás). A számlán konkrétan fel kell tüntetni azt a jogcímet, ami alapján a tétel feltüntetésre került, több ilyen tétel esetén azokat külön sorokban kell szerepeltetni.
@@ -241,7 +241,7 @@ Leolvasás módja (LM): Leol – leolvasás elosztói engedélyes által; Becs �
 - 1. A villamos energia egyetemes szolgáltató, illetve a villamosenergia-elosztó az egyetemes szolgáltatásra jogosult felhasználó részére az elszámoló számlát – a számlázással kapcsolatos pénzügyi és számviteli jogszabályok előírásainak betartása mellett – az alábbiak szerint bocsátja ki.
 - 2. Az elszámoló számla első oldala:
 
-4K13909N_0
+6K06792N_0
 
 | „Szolgáltató logója: |  |
 | --- | --- |
@@ -327,8 +327,8 @@ Leolvasás módja (LM): Leol – leolvasás elosztói engedélyes által; Becs �
 - 4.2. x. sz. eredeti példány: az eredeti példány sorszáma.
 - 4.3. Felhasználó azonosító száma, felhasználási hely címe: a felhasználó azonosításához szükséges adat, pl.: vevő azonosító, felhasználási hely azonosító; a „felhasználó azonosító száma” helyett a szolgáltató üzletszabályzatában meghatározott ezzel egyenértékű megnevezés is használható. Több felhasználási azonosító szám, és felhasználási hely cím is feltüntethető, amennyiben több felhasználási helyre vonatkozóan állítja ki a szolgáltató a számlát.
 - 4.4. Tétel megnevezése:
-- 4.4.1. Nem lakossági fogyasztó esetében a díjtételek között az „Energiaadó összesen” tételt is fel kell tüntetni.
-- 4.4.2. Nem lakossági fogyasztó esetében a díjtételek között az „Elszámolt energiaadó összesen”, „Részszámlákban elszámolt energiaadó”, „Fizetendő energiaadó” tételeket is fel kell tüntetni.
+- 4.4.1. Nem lakossági fogyasztó esetében a díjtételek között az „Jövedéki adó összesen” tételt is fel kell tüntetni.
+- 4.4.2. Nem lakossági fogyasztó esetében a díjtételek között az „Elszámolt jövedéki adó összesen”, „Részszámlákban elszámolt jövedéki adó”, „Fizetendő jövedéki adó” tételeket is fel kell tüntetni.
 - 4.4.3. Lakossági fogyasztó esetében a „Szénipari szerkezetátalakítási támogatás”, a „Kedvezményes árú villamosenergia-ellátás támogatása”, a „Kapcsolt termelésszerkezet-átalakítás” és a „Pénzeszközök összesen” tételeket, valamint az ezekhez kapcsolódó, részszámlákban elszámolt fizetendő tételekre vonatkozó sorokat kizárólag abban az esetben kell feltüntetni, ha azok értéke nem nulla.
 - 4.4.4. Az egyes tételekhez kapcsolódó sorokban nem szükséges az összes oszlophoz tartozó cellát kitölteni, csak amely értelemszerűen alkalmazható (pl.: a „rendszerhasználati díjak összesen” sorban a mértékegység feltüntetése nem értelmezhető).
 - 4.5. Egyéb: feltüntetése csak abban az esetben szükséges, ha a felhasználó támogatásban részesült, vagy túlfizetett vagy bármilyen egyéb, a fizetendő összeget befolyásoló tétel felmerült (pl. kamat, tartozás). A számlán konkrétan fel kell tüntetni azt a jogcímet, ami alapján a tétel feltüntetésre került, több ilyen tétel esetén azokat külön sorokban kell szerepeltetni.
@@ -349,7 +349,7 @@ A földgáz egyetemes szolgáltató, illetve a földgázelosztó által alkalmaz
 
 2. A részszámla első oldala:
 
-4K13909O_0
+6K06792O_0
 
 | „Szolgáltató logója: |  |
 | --- | --- |
@@ -380,7 +380,7 @@ Fizetési mód: A szolgáltatás megnevezése:
 
 Földgáz egyetemes szolgáltatás és földgázelosztás
 
-4K13909O_1
+6K06792O_1
 
 | SZÁMLARÉSZLETEZŐ |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -393,7 +393,7 @@ Földgáz egyetemes szolgáltatás és földgázelosztás
 | Utolsó elszámolt mérőállás leolvasásának dátuma |  |  |  | Utolsó elszámolt mérőállás (m3) |  |  |  |
 |  |  |  |  |  |  |  |  |
 
-4K13909O_2
+6K06792O_2
 
 | Tétel megnevezése | Elszámolt időszak | Mennyiség | Mérték- egység | Nettó egységár és mérték- egysége | Nettó érték (Ft) | ÁFA (%) |  | Bruttó érték (Ft) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -420,7 +420,7 @@ Földgáz egyetemes szolgáltatás és földgázelosztás
 
 4.5.Tétel megnevezése:
 
-4.5.1. Nem lakossági fogyasztó esetében a díjtételek között az „Energiaadó” tételt is fel kell tüntetni.
+4.5.1. Nem lakossági fogyasztó esetében a díjtételek között az „Jövedéki adó” tételt is fel kell tüntetni.
 
 4.5.2. Ha annak értéke nem nulla, a díjtételek között a „Biztonsági készletezési díj” tételt is fel kell tüntetni.
 
@@ -455,7 +455,7 @@ Földgáz egyetemes szolgáltatás és földgázelosztás
 - 1. A földgáz egyetemes szolgáltató, illetve a földgázelosztó az egyetemes szolgáltatásra jogosult felhasználó részére az elszámoló számlát – a számlázással kapcsolatos pénzügyi és számviteli jogszabályok előírásainak betartása mellett – az alábbiak szerint bocsátja ki.
 - 2. Az elszámoló számla első oldala:
 
-4K13909P_0
+6K06792P_0
 
 | „Szolgáltató logója: |  |
 | --- | --- |
@@ -470,7 +470,7 @@ Földgáz egyetemes szolgáltatás és földgázelosztás
 
 - 3. Az elszámoló számla harmadik oldala: oldalszám Vevő (Fizető) azonosító: Vevő (Fizető) neve: Vevő (Fizető) címe: Vevő (Fizető) adószáma: Szerződéses folyószámla: Teljesítés időpontja: Számla sorszáma: Számla kelte: Fizetési mód: A szolgáltatás megnevezése: Földgáz egyetemes szolgáltatás és földgázelosztás
 
-4K13909P_1
+6K06792P_1
 
 | SZÁMLARÉSZLETEZŐ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -539,7 +539,7 @@ Leolvasás módja (LM): Leol – leolvasás elosztói engedélyes által; Becs �
 - 4.2. x. sz. eredeti példány: az eredeti példány sorszáma.
 - 4.3. Felhasználó azonosító száma, felhasználási hely címe: a felhasználó azonosításához szükséges adat, pl.: vevő azonosító, felhasználási hely azonosító; a „felhasználó azonosító száma” helyett a szolgáltató üzletszabályzatában meghatározott ezzel egyenértékű megnevezés is használható. Több felhasználási azonosító szám, és felhasználási hely cím is feltüntethető, amennyiben több felhasználási helyre vonatkozóan állítja ki a szolgáltató a számlát.
 - 4.4. Tétel megnevezése:
-- 4.4.1. Nem lakossági fogyasztó esetében az „Energiaadó összesen”, a „Részszámlákban elszámolt energiaadó” és a „Fizetendő energiaadó” tételt is fel kell feltüntetni.
+- 4.4.1. Nem lakossági fogyasztó esetében az „Jövedéki adó összesen”, a „Részszámlákban elszámolt jövedéki adó” és a „Fizetendő jövedéki adó” tételt is fel kell feltüntetni.
 - 4.4.2. A díjtételek között a „Biztonsági készletezési díj összesen”, a „Részszámlákban elszámolt biztonsági készletezési díj”, és a „Fizetendő biztonsági készletezési díj” tételeket is fel kell tüntetni, ha azok értéke nem nulla.
 - 4.4.3. Az egyes tételekhez kapcsolódó sorokban nem szükséges az összes oszlophoz tartozó cellát kitölteni, csak amely értelemszerűen alkalmazható (pl.: a „bruttó számlaérték összesen” sorban a nettó érték kitöltése nem értelmezhető).
 - 4.5. Egyéb: feltüntetése csak abban az esetben szükséges, ha a felhasználó támogatásban részesült, vagy túlfizetett, vagy bármilyen egyéb, a fizetendő összeget befolyásoló tétel felmerült (pl. kamat, tartozás). A számlán konkrétan fel kell tüntetni azt a jogcímet, ami alapján a tétel feltüntetésre került, több ilyen tétel esetén azokat külön sorokban kell szerepeltetni.

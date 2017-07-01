@@ -263,7 +263,7 @@ az egyes fizetési szolgáltatókról
 - d) a tulajdonos nyilatkozatát arról, hogy egyéb tulajdonosi érdekeltsége és tevékenysége nem veszélyezteti a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény működését,
 - e) természetes személy tulajdonos esetén harminc napnál nem régebbi hatósági erkölcsi bizonyítványt vagy a kérelmező személyes joga szerinti ennek megfelelő okiratot,
 - f) nem természetes személy tulajdonos esetén a kérelem benyújtásakor hatályos létesítő okiratát, harminc napnál nem régebbi okirati igazolást arról, hogy a személyes joga szerinti bejegyzése (nyilvántartásbavétele) megtörtént, nem áll csőd-, felszámolási, végelszámolási vagy kényszertörlési eljárás alatt, valamint vezető állású személyével szemben kizáró ok nem áll fenn,
-- g) nem természetes személy tulajdonos esetén a tulajdonosi szerkezetének részletes leírását, valamint ha a kérelmezőre az összevont alapú felügyelet kiterjed, ezen körülményeknek a részletes leírását,
+- g) nem természetes személy tulajdonos esetén a tulajdonosi szerkezetének okiratokkal alátámasztott részletes leírását, továbbá – amennyiben ez lehetséges – a tényleges tulajdonosai részletes bemutatását, valamint ha a kérelmezőre az összevont alapú felügyelet kiterjed, ezen körülményeknek a részletes leírását,
 - h) nem természetes személy tulajdonos esetén nyilatkozatot arról, hogy milyen – az Szmt. szerinti – függő és jövőbeni kötelezettségei vannak,
 - i) a kérelmezővel szoros kapcsolatban álló személy nyilatkozatát arról, hogy a szoros kapcsolatban álló személy vagy a szoros kapcsolatban álló személyre vonatkozó harmadik országbeli jogrend lehetővé teszi a felügyeleti feladatok ellátását, valamint
 - j) a tulajdonos teljes bizonyító erejű magánokiratba foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárul az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának a Felügyelet által megkeresett szervek útján történő ellenőrzéséhez.
@@ -287,7 +287,8 @@ az egyes fizetési szolgáltatókról
 - a) az engedélyezési eljárásban megtévesztő vagy valótlan adatot közöl,
 - b) által működtetni kívánt pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény nem felel meg az induló tőkére, a szervezeti, személyi feltételekre, a befolyásoló részesedéssel rendelkező tulajdonosokra vonatkozó követelményeknek,
 - c) által működtetni kívánt pénzforgalmi intézménnyel, elektronikuspénz-kibocsátó intézménnyel szoros kapcsolatban álló személy vagy a szoros kapcsolatban álló személyre vonatkozó harmadik országbeli jogrend nem teszi lehetővé a felügyeleti feladatok hatékony ellátását, vagy
-- d) üzleti terve, az engedély iránti kérelemhez mellékelt egyéb irat, továbbá a Felügyelet rendelkezésére álló bármely okirat, adat vagy információ alapján megállapítható, hogy a kérelmező nem tud megfelelni a pénzügyi szolgáltatási tevékenységre, kiegészítő pénzügyi szolgáltatási tevékenységre vonatkozó jogszabályi előírásoknak.
+- d) üzleti terve, az engedély iránti kérelemhez mellékelt egyéb irat, továbbá a Felügyelet rendelkezésére álló bármely okirat, adat vagy információ alapján megállapítható, hogy a kérelmező nem tud megfelelni a pénzügyi szolgáltatási tevékenységre, kiegészítő pénzügyi szolgáltatási tevékenységre vonatkozó jogszabályi előírásoknak,
+- e) tevékenységével kapcsolatosan feltételezhető, hogy az erre vonatkozó jogszabályok értelmében pénzmosást vagy terrorizmus-finanszírozást követnek vagy követtek el, vagy kísérelnek vagy kíséreltek meg elkövetni, vagy hogy a szándékolt tevékenység növelheti ennek kockázatát.
 
 21. § (1) A Felügyelet a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény tevékenységére vonatkozó engedélyét visszavonja, ha
 
@@ -371,9 +372,12 @@ az egyes fizetési szolgáltatókról
 - c) a megszerezni kívánt részesedés arányát,
 - d) a tagi részesedés szerzésre, vagy a szavazati joghoz kapcsolódó, jelentős előnyöket biztosító megállapodásra tett szerződéses ajánlatot,
 - e) a bejelentőnél vezető tisztségviselői beosztásban lévő személy tekintetében a 29. § (5) bekezdésében meghatározott kizáró ok megítéléséhez szükséges tényeket és a 29. § (6) bekezdésében meghatározott büntetőeljárással kapcsolatos nyilatkozatot, valamint
-- f) egyéb olyan információkat, amelyek szükségesek annak megállapításához, hogy a prudens működés biztosítva van.
+- f) egyéb olyan információkat, amelyek szükségesek annak megállapításához, hogy a prudens működés biztosítva van,
+- g) nem természetes személy tulajdonos esetében a tulajdonosi szerkezetének okiratokkal alátámasztott részletes leírását, továbbá – amennyiben ez lehetséges – tényleges tulajdonosai bemutatását.
 
 (5) Ha a befolyásoló részesedést szerző tevékenysége, a pénzforgalmi intézményre, az elektronikuspénz-kibocsátó intézményre gyakorolt befolyása veszélyezteti a pénzforgalmi intézmény, az elektronikuspénz-kibocsátó intézmény független, megbízható és körültekintő tulajdonosi irányítását, a Felügyelet a bejelentést követő harminc napon belül megtilthatja az ilyen befolyás megszerzését, és felfüggesztheti a tagok szavazati jogának gyakorlását, addig, amíg a tag meg nem szünteti a pénzforgalmi intézmény, az elektronikuspénz-kibocsátó intézmény független, megbízható és körültekintő tulajdonosi irányításának veszélyeztetéséül szolgáló indokot.
+
+(5a) A Felügyelet a befolyásoló részesedés szerzését megtiltja, ha a bejelentő részesedés szerzésével kapcsolatban feltételezhető, hogy az erre vonatkozó jogszabályok értelmében pénzmosást vagy terrorizmus-finanszírozást követnek vagy követtek el, vagy kísérelnek vagy kíséreltek meg elkövetni, vagy hogy a szándékolt befolyásoló részesedés szerzése növelheti ennek kockázatát.
 
 (6) Az (5) bekezdésben foglalt intézkedések valamelyikét alkalmazza a Felügyelet a bejelentési kötelezettség elmulasztása esetén is.
 
@@ -987,7 +991,7 @@ legkésőbb a naptári évet követő hónap végéig nyilvánosan közzéteszi 
 
 70. § (1) A pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, utalványkibocsátó biztosítja, hogy az ügyfél a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, utalványkibocsátó magatartására, tevékenységére vagy mulasztására vonatkozó panaszát szóban (személyesen, telefonon) vagy írásban (személyesen vagy más által átadott irat útján, postai úton, telefaxon, elektronikus levélben) közölhesse.
 
-(2) Telefonon történő panaszkezelés esetén a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, utalványkibocsátó és az ügyfél közötti telefonos kommunikációt a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, utalványkibocsátó hangfelvétellel rögzíti, és a hangfelvételt öt évig megőrzi. Erről az ügyfelet a telefonos ügyintézés kezdetekor tájékoztatni kell. Az ügyfél kérésére biztosítani kell a hangfelvétel visszahallgatását, továbbá térítésmentesen tizenöt napon belül rendelkezésre kell bocsátani a hangfelvételről készített hitelesített jegyzőkönyvet.
+(2) Telefonon történő panaszkezelés esetén a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, utalványkibocsátó és az ügyfél közötti telefonos kommunikációt a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, utalványkibocsátó hangfelvétellel rögzíti, és a hangfelvételt öt évig megőrzi. Erről az ügyfelet a telefonos ügyintézés kezdetekor tájékoztatni kell. Az ügyfél kérésére biztosítani kell a hangfelvétel visszahallgatását, továbbá térítésmentesen – kérésének megfelelően – huszonöt napon belül rendelkezésére kell bocsátani a hangfelvételről készített hitelesített jegyzőkönyvet vagy a hangfelvétel másolatát.
 
 (3) A pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, utalványkibocsátó a panaszt és az arra adott választ öt évig őrzi meg, és azt a Felügyelet kérésére bemutatja.
 
@@ -1251,7 +1255,7 @@ végzését.
 
 86/C. § Az Aktv. szerinti, e törvény hatálya alá tartozó Jelentő Magyar Pénzügyi Intézmény (ezen alcím alkalmazásában a továbbiakban: intézmény) az általa kezelt, az Aktv. 1. melléklet VIII/C. pontja szerinti Pénzügyi Számla (a továbbiakban: Pénzügyi Számla) vonatkozásában elvégzi az Aktv. szerinti Számlatulajdonos és Jogalany (a továbbiakban együtt: Számlatulajdonos) illetőségének az Aktv. 1. melléklet II–VII. pontja szerinti megállapítására irányuló vizsgálatot (a továbbiakban: illetőségvizsgálat).
 
-86/D. § (1) Az intézmény a Számlatulajdonost az illetőségvizsgálat elvégzésével egyidejűleg az ügyfélfogadásra nyitva álló helyiségeiben kifüggesztett hirdetmény útján vagy – ha az lehetséges – elektronikus úton tájékoztatja
+86/D. § (1) Az intézmény a Számlatulajdonost az illetőségvizsgálat elvégzésével egyidejűleg az ügyfélfogadásra nyitva álló helyiségeiben közzétett hirdetmény útján vagy – ha az lehetséges – elektronikus úton tájékoztatja
 
 - a) az illetőségvizsgálat elvégzéséről,
 - b) az Aktv. 43/H. §-a alapján az adóhatóság felé fennálló adatszolgáltatási kötelezettségéről.

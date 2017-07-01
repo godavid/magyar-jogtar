@@ -1073,7 +1073,8 @@ továbbá Magyarország légterében a légiforgalmi navigációs, távközlési
 - l) a koordinált és menetrend-egyeztetett repülőtereken a résidőkiosztás és menetrend-egyeztetés;
 - m) a magyar légtér igénybevételéért fizetendő díjjal összefüggő – nemzetközi szerződésben meghatározott – költségalap kezelése;
 - n) Budapest Liszt Ferenc Nemzetközi Repülőtéren és légterében repülésmeteorológiai feladatok ellátása;
-- o) Budapest Liszt Ferenc Nemzetközi Repülőtér légterében, valamint a külön jogszabályban meghatározott Budapest közelkörzet légtereiben alkalmazott műszer szerinti repülési eljárások tervezése.
+- o) Budapest Liszt Ferenc Nemzetközi Repülőtér légterében, valamint a külön jogszabályban meghatározott Budapest közelkörzet légtereiben alkalmazott műszer szerinti repülési eljárások tervezése;
+- p) a pilóta nélküli légijárművek használatát támogató, az aktuális légtér információkat és egyéb korlátozásokat tartalmazó honlap és mobilalkalmazás üzemeltetése.
 
 (4) A Társaság főtevékenysége: egyéb légi szállítást segítő tevékenység.
 
