@@ -58,7 +58,7 @@ Az Országgyűlés az egyszerűsített adómegállapítási és beszedési szab�
 (5) A (2) bekezdésben meghatározott személy az adóévben akkor lehet adóalany, ha
 
 - a) az adóévre ésszerűen várható, e törvény előírásainak megfelelően meghatározott, a 6. § (1) bekezdése és 20. § (1) bekezdése szerinti bevétele a 30 millió forintot nem haladja meg;
-- b) az adóévben nem folytat a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló törvény hatálya alá tartozó tevékenységet;
+- b) az adóévben nem folytat a jövedéki adóról szóló törvény hatálya alá tartozó tevékenységet;
 - c) az adóévben nem folytat a vámjogszabályokban meghatározott közvetett képviselői tevékenységet;
 - d)
 - e) belföldi pénzforgalmi számlával rendelkezik.

@@ -9,7 +9,7 @@ Mindezek érdekében – különös tekintettel a jogszabályi feltételeknek me
 1. § (1) E törvény hatálya kiterjed
 
 - a) arra a természetes és jogi személyre, aki, illetve amely a tizennyolcadik életévét betöltött természetes személyt foglalkoztatásra irányuló jogviszony – ideértve az egyszerűsített foglalkoztatásra vagy alkalmi munkára létesített munkaviszonyt is –, továbbá harmadik országbeli állampolgárt vagy fiatal munkavállalót foglalkoztatásra irányuló jogviszony, illetve a (4) bekezdésben meghatározott jogviszonyok alapján foglalkoztat,
-- b) a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) XVI. fejezetében meghatározott munkaerő-kölcsönzés esetén a kölcsönbeadóra és a kölcsönbevevőre, valamint az iskolaszövetkezet által nyújtott szolgáltatás esetén az iskolaszövetkezetre és a szolgáltatás fogadójára
+- b) a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) XVI. fejezetében meghatározott munkaerő-kölcsönzés esetén a kölcsönbeadóra és a kölcsönvevőre, az iskolaszövetkezet által nyújtott szolgáltatás esetén az iskolaszövetkezetre és a szolgáltatás fogadójára, valamint a közérdekű nyugdíjas szövetkezet által nyújtott szolgáltatás esetén a közérdekű nyugdíjas szövetkezetre és a szolgáltatás fogadójára
 
 (a továbbiakban együtt: foglalkoztató).
 
@@ -27,7 +27,7 @@ Mindezek érdekében – különös tekintettel a jogszabályi feltételeknek me
 - a) a Polgári Törvénykönyvben szabályozott vállalkozási szerződés, valamint megbízási szerződés alapján végzett munka, továbbá,
 - b) a Polgári Törvénykönyvben szabályozott közkereseti társaság és betéti társaság tagjának személyes közreműködése, valamint a korlátolt felelősségű társaság tagjának mellékszolgáltatásként nyújtott személyes közreműködése,
 - c) a közérdekű önkéntes tevékenységről szóló 2005. évi LXXXVIII. törvényben (a továbbiakban: Köt.) szabályozott önkéntes szerződés alapján végzett közérdekű önkéntes tevékenység,
-- d) a szövetkezet tagjának a szövetkezet részére kifejtett személyes közreműködése, ha a tag a személyes közreműködést vállalkozási vagy megbízási szerződés – ideértve a szövetkezetekről szóló 2006. évi X. törvény (a továbbiakban: Sztv.) 10/B. § (2) bekezdése szerinti megállapodást is – alapján teljesíti,
+- d) a szövetkezet tagjának a szövetkezet részére kifejtett személyes közreműködése, ha a tag a személyes közreműködést vállalkozási vagy megbízási szerződés – ideértve a szövetkezetekről szóló 2006. évi X. törvény (a továbbiakban: Sztv.) 10/B. § (2) bekezdése és 29. § (2) bekezdése szerinti megállapodást is – alapján teljesíti,
 - e) az önálló kereskedelmi ügynöki szerződés alapján végzett munka.
 
 (5) A munkaügyi hatóság jogosult hatósági ellenőrzés során megállapított tényállás alapján a foglalkoztató és a részére munkát végző személy közötti, illetve a munkavállalónak munkavégzés céljából történő átengedése alapjául szolgáló jogviszony, valamint a tényleges foglalkoztatás alapján létrejött kapcsolat minősítésére. Ehhez a foglalkoztatónak rendelkezésre kell bocsátania mindazokat a bizonyítékokat, amelyek alapján megállapítható, hogy a részére végzett munka a (4) bekezdés szerinti jogviszonyok alapján, vagy ellenérték nélkül történt.
@@ -88,7 +88,7 @@ Mindezek érdekében – különös tekintettel a jogszabályi feltételeknek me
 
 (2) Az (1) bekezdés g) pontjával kapcsolatos munkaügyi ellenőrzés az Mt. 136–137. §-ában, 138. § (4)–(6) bekezdésében, 139–145. §-ában, 146. § (1)–(3) bekezdésében, 147. § (1) bekezdésében, 153–165. §-ában foglalt rendelkezések megtartására terjed ki.
 
-(3) A munkaerő-kölcsönzés esetében a munkaügyi ellenőrzés – az Mt. 215–218. §-a tekintetében – kiterjed a kölcsönbeadóra és a kölcsönvevőre. Az iskolaszövetkezet tanuló, hallgató tagjának az Sztv. 10/B. §-a alapján történő feladatteljesítése tekintetében a munkaügyi ellenőrzés kiterjed az iskolaszövetkezetre és az Sztv. 10/B. § (4)–(8) bekezdésében foglaltakra. Az Sztv. 10/C. §-a tekintetében a munkaügyi ellenőrzés kiterjed az iskolaszövetkezetre és a szolgáltatás fogadójára.
+(3) A munkaerő-kölcsönzés esetében a munkaügyi ellenőrzés – az Mt. 215–218. §-a tekintetében – kiterjed a kölcsönbeadóra és a kölcsönvevőre. Az iskolaszövetkezet tanuló, hallgató tagjának az Sztv. 10/B. §-a alapján történő feladatteljesítése tekintetében a munkaügyi ellenőrzés kiterjed az iskolaszövetkezetre és az Sztv. 10/B. § (4)–(8) bekezdésében foglaltakra. Az Sztv. 10/C. §-a tekintetében a munkaügyi ellenőrzés kiterjed az iskolaszövetkezetre és a szolgáltatás fogadójára. A közérdekű nyugdíjas szövetkezet öregségi nyugdíjban részesülő tagjának az Sztv. 29. §-a alapján történő feladatteljesítése tekintetében a munkaügyi ellenőrzés kiterjed a közérdekű nyugdíjas szövetkezetre és az Sztv. 29. § (4)–(7) bekezdésében foglaltakra. Az Sztv. 30. §-a tekintetében a munkaügyi ellenőrzés kiterjed a nyugdíjas szövetkezetre és a szolgáltatás fogadójára.
 
 (4) A foglalkoztató saját maga munkaügyi hatósági ellenőrzés alá vonását nem kérelmezheti.
 

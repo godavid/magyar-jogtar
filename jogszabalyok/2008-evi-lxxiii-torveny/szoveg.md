@@ -67,7 +67,7 @@ Az Országgyűlés a szeszes italok meghatározásáról, megnevezéséről, kis
 
 ### Pálinka zárjegy
 
-9. § (1) A belföldön forgalomba kerülő pálinkát és törkölypálinkát a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény (a továbbiakban: Jöt.) hatálya alá tartozó más alkoholtermékekre alkalmazandó zárjegytől színében eltérő zárjeggyel (a továbbiakban: pálinka-zárjegy) kell ellátni.
+9. § (1) A belföldön forgalomba kerülő pálinkát és törkölypálinkát a jövedéki adóról szóló törvény (a továbbiakban: Jöt.) hatálya alá tartozó más alkoholtermékekre alkalmazandó zárjegytől színében eltérő zárjeggyel (a továbbiakban: pálinka-zárjegy) kell ellátni.
 
 (2) A Jöt. rendelkezéseinek alkalmazásával a vámhatóság pálinka-zárjegyet kizárólag a pálinka, illetve a törkölypálinka előállítását, palackozását vagy tárolását a Jöt.-ben az e tevékenység folytatásához előírt adóraktári engedély birtokában végző személynek – annak megrendelése alapján – ad ki.
 
@@ -121,12 +121,12 @@ Az Országgyűlés a szeszes italok meghatározásáról, megnevezéséről, kis
 
 13. § Az adópolitikáért felelős miniszter – az agrárpolitikáért felelős miniszter egyidejű tájékoztatása mellett – évente – a tárgyévet követő év március 15-éig – megküldi a Pálinka Nemzeti Tanácsnak a tárgyévben
 
-- a) előállított bérfőzött párlat és a magánfőzésben előállított, a Jöt. 67/A. § (1) bekezdése szerint a magánfőző által a vámhatósághoz bejelentett párlat párlatfajtánként megbontott,
-- b) előállított és a Jöt. szerint szabad forgalomba bocsátott
-  - ba) kereskedelmi céllal főzött pálinka vámtarifa-számonként megbontott,
-  - bb) a 2208 20 19 vámtarifaszám alá tartozó alkoholtermékek
+- a) előállított bérfőzött párlat párlatfajtánként megbontott és a magánfőzésben adózott párlat,
+- b) előállított és a Jöt. szerint szabadforgalomba bocsátott
+  - ba) kereskedelmi céllal főzött pálinka KN-kódonként megbontott,
+  - bb) a 2208 20 29 KN-kód alá tartozó alkoholtermék
 
-alkoholfok-mennyiségéről az országosan összesített adatokat.
+jövedéki adófizetési kötelezettség alapjául szolgáló mértékegységben megadott mennyiségéről az országosan összesített adatokat.
 
 ### A Pálinka Nemzeti Tanács szervezete és működése
 

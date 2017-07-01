@@ -512,16 +512,19 @@ kezeli.
 - a) a Honvédség katonai igazgatási és központi adatfeldolgozó szervének megkeresésére az illetékességi területén bejelentett lakóhellyel rendelkező kiképzett tartalékosok és potenciális hadkötelesek lakcím- és anyakönyvi adatainak pontosításában,
 - b) a hadkötelezettség fennállása idején a sorozó központ megkeresésére az illetékességi területén bejelentett lakóhellyel rendelkező hadkötelesek személyazonosító, lakcím- és anyakönyvi adatainak pontosításában.
 
-32. § (1) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve megkeresésére a megkeresésben szereplő személyekről 8 napon belül adatot szolgáltat a hadköteles nyilvántartás pontosításához
+32. § (1) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve megkeresésére a 25. § (1) bekezdése szerinti célból a megkeresésben szereplő személyekről 8 napon belül adatot szolgáltat a hadköteles nyilvántartás pontosításához
 
-- a) a személyiadat- és lakcímnyilvántartást kezelő szerv a 29. § (2) bekezdésében meghatározott adatokról,
-- b) a rendvédelmi szerv az állományában hivatásos szolgálatot teljesítők a 29. § (4) bekezdésében meghatározott adatairól,
-- c) az állampolgársági ügyekben eljáró szerv a 29. § (6) bekezdésében meghatározott adatokról,
-- d) a Honvédség központi személyügyi nyilvántartó szerve valamint a rendvédelmi szerv a 29. § (7) bekezdése szerinti adatokról,
-- e) a választási szerv a 30. § (3) bekezdése szerinti adatokról,
-- f) a jogszabály alapján meghagyásba bevont szervezet a meghagyásban érintett személyek 33. § (6) bekezdés b) pontjában meghatározott adatairól,
-- g) a kezelést végző orvos a katonai szolgálatra való alkalmasság megállapítása érdekében a 4. melléklet f) pont fa) és fc) alpontja, g), h), i) és s) pontja szerinti adatokról, és
-- h) a Büntetés-végrehajtás Országos Parancsnoksága a 30. § (6) bekezdése szerinti adatokról.
+- a) a személyiadat- és lakcímnyilvántartást kezelő szerv,
+- b) az állományában hivatásos szolgálatot teljesítők tekintetében a rendvédelmi szerv,
+- c) az állampolgársági ügyekben eljáró szerv,
+- d) a Honvédség központi személyügyi nyilvántartó szerve, valamint a rendvédelmi szerv,
+- e) a választási szerv,
+- f) a meghagyásban érintett személyek tekintetében a jogszabály alapján meghagyásba bevont szervezet,
+- g) a kezelést végző orvos,
+- h) a Büntetés-végrehajtás Országos Parancsnoksága,
+- i) a közúti közlekedési nyilvántartó szerv
+
+a 4. mellékletben foglalt, általa kezelt adatokról.
 
 (2) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve megkeresésére, a megkeresésben szereplő hadkötelesekről 8 napon belül adatot szolgáltat a személyiadat- és lakcímnyilvántartást kezelő szerv a 30. § (2) bekezdésében meghatározott adatokról.
 
@@ -2010,7 +2013,9 @@ g) béren kívüli juttatásokra vonatkozó adatok:
 
 ga) a béren kívüli juttatás felhasználására jogosító kártya száma, speciális azonosítói,
 
-gb) érvényes jogcímekre átutalt összegek adatai;
+gb) érvényes jogcímekre átutalt összegek adatai,
+
+gc) a Honvédség által generált béren kívüli speciális azonosító;
 
 h) devizahiteles – gyűjtőszámlahitelre vonatkozó adatok,
 

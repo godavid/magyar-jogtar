@@ -81,7 +81,7 @@ ha a jogosult 2011 decemberére járó szolgálati nyugdíjának havi összege e
 
 - a) a szolgálati viszony megszüntetésére egészségi, pszichikai, fizikai alkalmatlanság miatt került sor és az alkalmatlanság megállapítását megalapozó baleset, betegség szolgálati kötelmekkel összefüggő jellegét a jogviszony megszüntetésekor minősítő határozattal megállapították,
 - b) a jogosult 2011 decemberére járó szolgálati nyugdíjának összege – a 2012. január 1-jét megelőzően hatályos szabályok alapján csökkentett mértékben folyósított szolgálati nyugdíj esetén a jogosult 2011 decemberére járó szolgálati nyugdíjának a 2012. január 1-jét megelőzően hatályos szabályok szerinti csökkentések nélküli havi összege – nem haladta meg a 2011. december 31-én hatályos kötelező legkisebb munkabér havi összegének 150 százalékát, vagy
-- c) a jogosult önkéntes tartalékos szerződést kötött, a szerződés megkötését követő hónap első napjától a szerződés megszűnése hónapjának utolsó napjáig.
+- c) a jogosult önkéntes tartalékos szerződést – ide nem értve a honvédelmért felelős miniszter rendeletében meghatározott, területvédelmi feladatok ellátására irányuló önkéntes tartalékos szolgálati viszony létesítésére irányuló szerződést – kötött, a szerződés megkötését követő hónap első napjától a szerződés megszűnése hónapjának utolsó napjáig.
 
 (4) Ha a személyi jövedelemadó mértéke megváltozik, a (2) bekezdés szerint csökkentett szolgálati járandóság folyósított összegét módosítani kell.
 
@@ -95,7 +95,7 @@ ha a jogosult 2011 decemberére járó szolgálati nyugdíjának havi összege e
 
 a 2012. január 1-jét megelőzően hatályos szabályok szerinti csökkentések nélkül kell folyósítani, és a (2) bekezdés szerinti csökkentést ennek megfelelően kell módosítani.
 
-(7) A (3) bekezdés c) pontja szerinti szerződés megkötéséről, megszűnéséről a szolgálati járandóság összegének pontos meghatározása érdekében a Honvédség központi személyügyi nyilvántartó szerve minden hónap 20. napjáig értesíti a nyugdíjfolyósító szervet. A szerződés megkötéséről szóló értesítés alapján a nyugdíjfolyósító szerv az önkéntes tartalékos katona részére megállapított és folyósított szolgálati járandóság összegét, és annak változását a szolgálati járandóság összegének pontos meghatározása érdekében közli a Honvédség katonai igazgatási és központi adatfeldolgozó szervével.
+(7) A (3) bekezdés c) pontja szerinti szerződés megkötéséről, megszűnéséről a szolgálati járandóság összegének pontos meghatározása érdekében a Honvédség központi személyügyi nyilvántartó szerve minden hónap 20. napjáig értesíti a nyugdíjfolyósító szervet. A szerződés megkötéséről szóló értesítés alapján a nyugdíjfolyósító szerv az önkéntes tartalékos katona – ide nem értve a honvédelemért felelős miniszter rendelete szerinti, területvédelmi feladatokat ellátó önkéntes tartalékos katonát – részére megállapított és folyósított szolgálati járandóság összegét, és annak változását a szolgálati járandóság összegének pontos meghatározása érdekében közli a Honvédség katonai igazgatási és központi adatfeldolgozó szervével.
 
 6. § Aki korhatár előtti öregségi nyugdíj mellett 2012. január 1-je előtt a Tny. 22/A. §-a alapján nyugdíjnövelésre jogot szerzett, ezt a jogát korhatár előtti ellátás, illetve szolgálati járandóság esetén is érvényesítheti az öregségi nyugdíjra vonatkozó szabályok megfelelő alkalmazásával.
 
@@ -154,9 +154,9 @@ kell érteni.
 
 #### 5. A korhatár előtti ellátás és a szolgálati járandóság folyósításának szüneteltetése
 
-11. § (1) A korhatár előtti ellátás és a szolgálati járandóság keresőtevékenység miatti szüneteltetésére a Tny. 83/B. § (1) és (2) bekezdését és 83/C. § (1), (2) és (4) bekezdését kell alkalmazni, azzal, hogy öregségi nyugdíj és nyugellátás alatt korhatár előtti ellátást és szolgálati járandóságot kell érteni.
+11. § (1) A korhatár előtti ellátás és a szolgálati járandóság keresőtevékenység miatti szüneteltetésére – a (2) bekezdésben meghatározott kivétellel - a Tny. 83/B. § (1) és (2) bekezdését és 83/C. § (1), (2) és (4) bekezdését kell alkalmazni, azzal, hogy öregségi nyugdíj és nyugellátás alatt korhatár előtti ellátást és szolgálati járandóságot kell érteni.
 
-(2)
+(2) Szolgálati járandóság esetén a Tny. 83/B. § (1) bekezdése szerinti éves keretösszeg számítása során figyelmen kívül kell hagyni az önkéntes tartalékos szolgálati viszonyban álló személynek a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 36. § (1) bekezdés h) pontja vagy (2) bekezdés a) pontja szerinti feladatban történő részvétellel teljesített tényleges szolgálatára figyelemmel kifizetett, a kifizető szerv által – a kifizetést követő hónap tizedik napjáig – a nyugdíjfolyósító szerv számára bejelentett összegű juttatásait.
 
 12. § (1) A korhatár előtti ellátás és a szolgálati járandóság folyósítását szüneteltetni kell, ha a jogosult
 
@@ -243,18 +243,4 @@ kérelmezi.
 
 (2) Az (1) bekezdés szerinti személy korhatár előtti ellátását, szolgálati járandóságát, – az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény 43/B. § (2) bekezdésében foglaltakra tekintettel – balettművészeti életjáradékát és – a bányászatról szóló 1993. évi XLVIII. törvény 49/C. § (2) bekezdésében foglaltakra tekintettel – átmeneti bányászjáradékát – ha közalkalmazotti jogviszonya továbbra is fennáll – 2013. július 1-jétől kell a Tny. 83/C. §-a szerint szüneteltetni.
 
-### 12–28.
-
-#### 27–60. §
-
-#### 29.
-
-#### 61–64. §
-
-### 30–42.
-
-#### 65–103. §
-
-#### 43.
-
-#### 104. §
+27. § Az egyes törvények honvédelmi kérdésekkel összefüggő módosításáról szóló 2017. évi LIV. törvénnyel módosított 11. § (2) bekezdését a 2017. június 30-át követő időszakban teljesített tényleges szolgálatra tekintettel kifizetett juttatásra kell alkalmazni.

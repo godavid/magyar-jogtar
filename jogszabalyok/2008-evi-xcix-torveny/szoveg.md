@@ -132,7 +132,7 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 - c) igazolja a támogatások igénybevételére vonatkozó jogosultságot, valamint kiállítja az adókedvezményekre és adójóváírásra jogosító, a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 22. § (4) bekezdése szerinti támogatási igazolást és 24/A. § (18) bekezdése szerinti igazolást,
 - d) előadó-művészeti adatszolgáltatási tevékenységet végez,
 - e)
-- f) ellátja az e törvényben vagy e törvény felhatalmazása alapján más jogszabályban meghatározott egyéb feladatokat.
+- f) ellátja a törvényben vagy törvény felhatalmazása alapján más jogszabályban meghatározott egyéb feladatokat.
 
 (2) A kijelölt szerv döntése ellen nincs helye fellebbezésnek.
 
@@ -169,7 +169,7 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 
 (4)
 
-9. §
+9. § A nyilvántartásba vétel és a minősítés alapjául szolgáló adatokban bekövetkezett változást az előadó-művészeti szervezet fenntartója, ennek hiányában az előadó-művészeti szervezet képviselője köteles bejelenteni a kijelölt szervnek a változástól vagy az arról való tudomásszerzéstől számított tizenöt napon belül.
 
 10. § A nyilvántartásból törölni kell az előadó-művészeti szervezetet, ha
 
@@ -186,19 +186,25 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 
 - a) fenntartója az állam vagy az e törvény szerinti közszolgáltatási szerződése van az állammal,
 - b) munkavégzésre irányuló jogviszonyban foglalkoztatott művészei – ide nem értve a gyermek- és csoportos szereplőket – legalább 70%-a szakirányú felsőfokú végzettséggel vagy a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 63. § (2) bekezdésében meghatározott elismeréssel rendelkezik,
-- c) vezetőjét az e törvényben foglalt szabályoknak megfelelően bízták meg, és
+- c) vezetőjét – állami vagy önkormányzati fenntartású szervezet esetén – az e törvényben és a Kormány rendeletében foglalt rendelkezéseknek megfelelően bízták meg, és
 - d) a magyar előadó-művészeti életben betöltött szerepe, a művészeti tevékenysége a magyar nemzeti kulturális identitás és hagyományok őrzése, fejlesztése, a kulturális érték- és mintaközvetítés szempontjából kiemelkedő jelentőségű.
 
 (3) Azt az előadó-művészeti szervezetet lehet kiemelt előadó-művészeti szervezetnek minősíteni, amelynek
 
 - a) fenntartója helyi önkormányzat vagy az e törvény szerinti közszolgáltatási szerződése van helyi önkormányzattal,
 - b) munkavégzésre irányuló jogviszonyban foglalkoztatott művészeinek – ide nem értve a gyermek- és csoportos szereplőket – legalább 60%-a szakirányú felsőfokú végzettséggel vagy a Kjt. 63. § (2) bekezdésében meghatározott elismeréssel rendelkezik,
-- c) vezetőjét az e törvényben foglalt szabályoknak megfelelően bízták meg, és
+- c) vezetőjét – állami vagy önkormányzati fenntartású szervezet esetén – az e törvényben és a Kormány rendeletében foglalt rendelkezéseknek megfelelően bízták meg, és
 - d) a fővárosi, illetve a megyei előadó-művészeti életben betöltött művészeti, kulturális szerepe, az általa nyújtott művészeti szolgáltatások tartalma és művészeti értéke az állami támogatási és az önkormányzati fenntartói vagy támogatási szerepvállalást egyidejűleg és tartósan indokolja.
 
 (4) A 7. § (2) bekezdés b) pont bc) alpontja szerinti előadó-művészeti szervezet esetében a (2) bekezdés b) pontját és a (3) bekezdés b) pontját a minősítés során nem kell alkalmazni.
 
-(5) Nem minősíthető nemzeti előadó-művészeti szervezetté vagy kiemelt előadó-művészeti szervezetté az előadó-művészeti szervezet, illetve a már nemzeti előadó-művészeti szervezetté vagy kiemelt előadó-művészeti szervezetté minősített előadó-művészeti szervezet ilyen minősítését meg kell szüntetni, ha a minősítés alapjául szolgáló feltételek közül a (2) bekezdés d) pontja vagy a (3) bekezdés d) pontja szerinti feltétel tartósan, a (2) bekezdés a)–c) pontja vagy a (3) bekezdés a)–c) pontja szerinti feltételek valamelyike pedig egy teljes évadot alapul véve nem áll fenn.
+(5) Nem minősíthető nemzeti előadó-művészeti szervezetté vagy kiemelt előadó-művészeti szervezetté az előadó-művészeti szervezet, illetve a már nemzeti előadó-művészeti szervezetté vagy kiemelt előadó-művészeti szervezetté minősített előadó-művészeti szervezet ilyen minősítését meg kell szüntetni, ha a minősítés alapjául szolgáló feltételek közül
+
+- a) a (2) bekezdés d) pontja vagy a (3) bekezdés d) pontja szerinti feltétel tartósan,
+- b) a (2) bekezdés a)–b) pontja vagy a (3) bekezdés a)–b) pontja szerinti feltételek valamelyike 12 hónapot alapul véve,
+- c) a (2) bekezdés c) pontja vagy a (3) bekezdés c) pontja szerinti feltétel 12 hónapot, különösen indokolt esetben 24 hónapot alapul véve nem áll fenn.
+
+(5a) Az (5) bekezdés c) pontja szerinti, 24 hónap alapulvételére irányuló rendelkezés alkalmazására a fenntartó a miniszter részére benyújtott, indokolással ellátott kérelme alapján kerülhet sor.
 
 12. § Szimfonikus zenekar, kamaraszimfonikus zenekar, kamarazenekar (a továbbiakban együtt: zenekar), énekkar nemzeti előadó-művészeti szervezetté vagy kiemelt előadó-művészeti szervezetté minősítésének a nemzeti előadó-művészeti szervezet esetében a 11. § (2) bekezdésében, a kiemelt előadó-művészeti szervezet esetében a 11. § (2) bekezdésének b) pontjában és a 11. § (3) bekezdésének a) és c)–d) pontjában foglaltakon túl feltétele, hogy
 
@@ -271,9 +277,9 @@ részére.
 
 22. §
 
-23. § (1) A 15. § (2) bekezdése szerinti jogosult (ha több előadó-művészeti szervezetet tart fenn, vagy több előadó-művészeti szervezettel kötött közszolgáltatási szerződést, szervezetenként) a központi költségvetési támogatás felhasználásáról a tárgyévet követő év június 30-áig a kijelölt szerv részére szakmai és pénzügyi beszámolót készít.
+23. § (1) A 15. § (2) bekezdés a) és b) pontja szerinti jogosult (ha több előadó-művészeti szervezetet tart fenn, vagy több előadó-művészeti szervezettel kötött közszolgáltatási szerződést, szervezetenként) a központi költségvetési támogatás felhasználásáról a tárgyévet követő év június 30-áig a kijelölt szerv részére szakmai és pénzügyi beszámolót készít.
 
-(2) A 4. § c) pontja alapján állami fenntartásban működő, valamint a 4. § d) pontjában foglalt közszolgáltatási szerződéssel rendelkező előadó-művészeti szervezet a fenntartója vagy a vele közszolgáltatási szerződést kötött önkormányzat részére nyújtott beszámolót a kijelölt szervnek is megküldi.
+(2)
 
 (3) A beszámoló elmulasztása a folyamatban lévő támogatás felfüggesztését vonja maga után mindaddig, amíg a beszámoló pótlására nem kerül sor.
 
@@ -427,49 +433,17 @@ részére.
 
 ### 2. CÍM — A munkáltató vezetője munkakörének betöltésére vonatkozó különös szabályok
 
-39. § (1) Költségvetési szervként működő előadó-művészeti szervezetnél a munkáltató vezetőjével (a továbbiakban: vezető) – az e törvényben foglalt eltérésekkel – az Mt. vezető állású munkavállalókra vonatkozó rendelkezései alkalmazásával munkaviszonyt kell létesíteni.
+39. § (1) Költségvetési szervként működő vagy az Mt. hatálya alá tartozó, állami vagy önkormányzati fenntartású, nyilvántartásba vett előadó-művészeti szervezetnél a munkáltató vezetőjével (a továbbiakban: vezető) – az e törvényben foglalt eltérésekkel – az Mt. vezető állású munkavállalókra vonatkozó rendelkezései alkalmazásával munkaviszonyt kell létesíteni.
 
-(2) A vezető feladatainak ellátására pályázatot kell kiírni.
+(2) A vezető feladatainak ellátására a munkáltatói jogkör gyakorlója pályázatot ír ki.
 
-(3) A pályázatot a munkáltatói jogkör gyakorlója írja ki, és köteles a pályázati felhívást a minisztérium honlapján közzétenni. A közzététel napjának a minisztérium honlapján való megjelenést kell tekinteni.
+(3) A munkáltatói jogkör gyakorlója a pályázatok véleményezésére szakmai bizottságot kér fel.
 
-(4) A szakmai munka folytonossága érdekében a pályázatot a munkáltatói jogkör gyakorlója legalább hat hónappal a határozott idejű jogviszony megszűnése előtt hirdeti meg. A pályázat benyújtásának határideje a közzétételtől számított harminc nap.
+(4) A pályázat kiírásának, benyújtásának és értékelésének rendjét, a szakmai bizottság összetételét és eljárásrendjét a Kormány rendeletben határozza meg.
 
-(5) A pályázati felhívásnak tartalmaznia kell a vezetői munkakör betöltésének feltételeit, a javadalmazást, a munkaviszony kezdő és befejező időpontját, a munkába lépés napját, az előadó-művészeti szervezet éves költségvetésének tervezett fő előirányzatait, valamint a fenntartó által meghatározott, így különösen az előadó-művészeti szervezet művészi arculatával, művészeti vezetésének módjával, teljesítménymutatóival és a foglalkoztatással kapcsolatos elemeket. A pályázati kiíráshoz kapcsolódóan pályázati dokumentáció vagy személyes konzultáció lehetőségének biztosításával megfelelő tájékoztatást kell nyújtani a pályázó számára a szervezetről, beleértve annak aktuális gazdasági helyzetét is.
+39/A. § A 39. § (1) bekezdése szerinti előadó-művészeti szervezetnél a vezető tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó havi munkabére nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét.
 
-(6) A munkáltatói jogkör gyakorlója a pályázatok véleményezésére szakmai bizottságot kér fel, melynek tagjai:
-
-- a) az érintett bizottság négy,
-- b) a miniszter egy,
-- c) az előadó-művészeti szervezet közalkalmazotti tanácsának egy,
-- d) a reprezentatív szakszervezet egy, továbbá
-- e) a munkáltatói jogkör gyakorlójának két
-
-képviselője.
-
-(7) A szakmai bizottság a pályázatokat értékeli és támogatott pályázatnak azt minősíti, amely a pályázatok véleményezésén jelenlevő bizottsági tagok többségének támogató szavazatát megkapta. A szakmai bizottság több pályázatot is minősíthet támogatottnak. A szakmai bizottság üléséről, és a szavazás eredményéről írásbeli jegyzőkönyv készül, amelynek a pályázatok értékelésére és a szavazás eredményére vonatkozó részét ismertetni kell a döntéshozóval, és a helyben szokásos módon közzé kell tenni. A szakmai bizottság képviselői ismertetik javaslatukat a fenntartónak a pályázatokat elbíráló szakbizottsági ülésén is. A szakmai bizottság tagjai közreműködésükért díjazásban nem részesülnek, de igazolt költségeik megtérítésére jogosultak.
-
-(8) A pályázatokat a benyújtási határidőt követő harminc napon belül kell elbírálni.
-
-(9) A munkakör betöltéséről – a szakmai bizottság véleményét is mérlegelve – a munkáltatói jogkör gyakorlója harminc napon belül, önkormányzati fenntartó esetén a következő képviselő-testületi ülésén dönt. A nemzetiségi előadó-művészeti szervezet esetében a munkáltató – ha nem nemzetiségi önkormányzat – az érintett nemzetiségi önkormányzat egyetértésével dönt. A döntést a szakmai bizottság véleményével együtt nyilvánosságra kell hozni. A munkáltatói jogkör gyakorlója a sikeres pályázat egy példányát a döntést követő 15 napon belül a kijelölt szerv részére megküldi.
-
-(10) Ha a pályázat eredménytelen, úgy legkésőbb az eredménytelenségről szóló döntéstől számított harminc napon belül újra ki kell írni a pályázatot.
-
-(11) Eredménytelen pályázati eljárás esetén a korábbi vezető, vagy annak helyettese határozott időre, de legfeljebb az új vezető kinevezéséig megbízható a vezetői feladatok ellátásával.
-
-(12) A benyújtott pályázat tartalma – törvény eltérő rendelkezése hiányában – csak a pályázó beleegyezésével közölhető harmadik személlyel. Sikertelen pályázat esetén a pályázó részére a pályázati anyagot vissza kell juttatni. Ha a pályázó az általa benyújtott, személyes adatokat tartalmazó adathordozót a pályázat elbírálási határidejétől számított kilencven napon belül nem veszi át, azokat meg kell semmisíteni és személyes adatait törölni kell.
-
-39/A. § A költségvetési szervként működő előadó-művészeti szervezetnél a vezető tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó havi munkabére nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét.
-
-40. § (1) A vezető munkakörének ellátásával szakirányú felsőfokú végzettséggel és legalább ötéves szakmai gyakorlattal rendelkező személy bízható meg. E paragrafus tekintetében szakirányú felsőfokú végzettségnek minősül a felsőfokú oktatási intézményben szerzett, az intézmény alaptevékenységének megfelelő diplomával vagy oklevéllel, vagy jogász vagy közgazdász oklevéllel tanúsított végzettség.
-
-(2) Ha a vezető nem rendelkezik egyetemi vagy főiskolai szintű pénzügyi-gazdasági, illetve közgazdász szakképzettséggel, egyetemi vagy főiskolai szintű végzettséggel és pénzügyi, számviteli szakképesítéssel vagy pénzügyi-gazdasági szakirányú továbbképzési szakon szerzett további végzettséggel, az önállóan gazdálkodó előadó-művészeti szervezetnél ennek megfelelő végzettséggel, illetve szakképzettséggel rendelkező gazdasági vezetőt kell foglalkoztatni.
-
-(3) Szakmai gyakorlatnak minősül a valamely előadó-művészeti szervezetnél, a szervezet alaptevékenységének megfelelő és ahhoz közvetlenül kapcsolódó munkakörben, munkavégzésre irányuló egyéb jogviszony esetében pedig az ilyen feladatkörben eltöltött idő.
-
-(4) A miniszter a kinevezési jogkör gyakorlójának javaslatára a meghatározott szakirányú felsőfokú végzettség, szakképesítés megszerzésének követelménye alól felmentést adhat, ha a felsőfokú végzettséggel rendelkező pályázó rendelkezik előadó-művészeti szervezetben szerzett legalább ötéves vezetői gyakorlattal. A Kossuth-díjban, a Magyar Köztársaság Kiváló Művésze és a Magyar Köztársaság Érdemes Művésze díjban részesített személy mentesül a meghatározott végzettség, szakképesítés megszerzésének követelménye alól.
-
-(5) Eltérő megállapodás hiányában a vezető a munkaszerződés megkötéséig köteles fennálló közalkalmazotti jogviszonyát megszüntetni, ha a munkáltató a foglalkoztatott kérelmére nem biztosít fizetés nélküli szabadságot.
+40. § A vezető munkaköre betöltésének feltételeit és a feltételek alól adható felmentés szabályait a Kormány rendeletben határozza meg.
 
 41. § (1) A munkaviszony legfeljebb öt évre jön létre. Ha a felek eltérően nem állapodnak meg, a munkaviszony február 1-jével kezdődik, és január 31-vel végződik.
 
@@ -479,14 +453,9 @@ képviselője.
 
 (4) A vezető munkakörébe nem tartozó művészi, művészeti feladatok ellátásával kapcsolatos rendelkezéseket a munkaszerződésben kell meghatározni. Ennek hiányában a vezető ilyen tevékenységeket az általa vezetett előadó-művészeti szervezetnél csak a munkáltatói jogkör gyakorlójának előzetes, írásbeli engedélyével végezhet.
 
-(5) Az állami vagy önkormányzati fenntartású előadó-művészeti szervezet vezetőjének határozott idejű munkajogviszonyát rendes felmondással megszüntetni nem lehet.
+(5) A 39. § (1) bekezdése szerinti előadó-művészeti szervezet vezetőjének határozott idejű munkajogviszonyát rendes felmondással megszüntetni nem lehet.
 
-42. § A miniszter a pályázati eljárásról a munkáltatói jogkör gyakorlójától tájékoztatást kérhet.
-
-43. § A 39–42. § szabályait alkalmazni kell az Mt. hatálya alá tartozó, állami vagy önkormányzati fenntartású, nyilvántartásba vett előadó-művészeti szervezetek esetén is azzal, hogy
-
-- a) a 39. § (6) bekezdésében közalkalmazotti tanácson üzemi tanácsot kell érteni, valamint
-- b) ha az előadó-művészeti szervezet a pénzügyi-gazdasági tevékenységét nem a foglalkoztatottjai által látja el, a 40. § (2) bekezdésében meghatározott pénzügyi-gazdasági szakképesítésre vonatkozó követelménynek a pénzügyi-gazdasági tevékenységet ténylegesen ellátó szervezet vezetőjének vagy gazdasági vezetőjének kell megfelelnie.
+42–43. §
 
 ### 3. CÍM — TÁNCMŰVÉSZETI ÉLETJÁRADÉK
 
@@ -578,7 +547,7 @@ képviselője.
 - 54. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Unió és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez,
 - 55. fúvószenekar: komolyzene műfajába tartozó, eredeti vagy áthangszerelt műveket előadó zeneművészeti szervezet, amelyben a rézfúvós és fafúvós hangszercsoportokat ütőhangszeresek egészíthetik ki,
 - 56. hangversenyterem: olyan zárt terű, legalább száz ülőhelyet magába foglaló, nézőtérrel rendelkező befogadó színház, amely akusztikailag és technikailag alkalmas e törvény szerinti hangversenyek előadására,
-- 57. kamarakórus: oratorikus vagy a capella művek előadására alkalmas előadó-művészeti szervezet, amelynek létszáma legalább 12, legfeljebb 30 fő.
+- 57. kamarakórus: oratorikus vagy a cappella művek előadására alkalmas előadó-művészeti szervezet, amelynek létszáma legalább 12, legfeljebb 30 fő.
 
 ### Hatálybalépés
 
@@ -613,18 +582,20 @@ képviselője.
 - c) határozza meg a táncművészeti életjáradék megállapításának, folyósításának, szüneteltetésének és megszüntetésének részletes eljárási szabályait,
 - d) határozza meg az egyes előadó-művészeti tevékenységet folytatók járadéka igénybevételének feltételeit,
 - e) határozza meg a Nemzeti Előadó-művészeti Érdekegyeztető Tanács tagjaira, működésére vonatkozó szabályokat,
-- f) határozza meg az előadó-művészeti bizottságok működésére, a működés feltételeire, valamint az előadó-művészeti bizottságok által elkészítendő felosztási szabályzat és javaslat elkészítésére és tartalmára vonatkozó szabályokat,
+- f) határozza meg az előadó-művészeti bizottságok által elkészítendő felosztási szabályzat és javaslat elkészítésére és tartalmára vonatkozó szabályokat,
 - g) határozza meg a művészeti támogatás mértékének megállapításánál irányadó szempontokat és a művészeti támogatás biztosításának feltételeit tartalmazó részletes szabályokat,
 - h) határozza meg a létesítménygazdálkodási célú működési támogatás biztosításának feltételeit tartalmazó részletes szabályokat,
 - i) határozza meg a nem minősített előadó-művészeti szervezetek működésének és szakmai program megvalósításának támogatására irányuló pályázatok részletes szabályait,
 - j) határozza meg a miniszter által felügyelt költségvetési fejezetből az előadó-művészeti szervezeteknek pályázati úton nyújtható kiemelt támogatások részletes szabályait,
 - k) határozza meg az előadó-művészeti szervezettel kötendő, közfeladatellátásra irányuló közszolgáltatási szerződés tartalmára és megkötésére irányadó szabályokat,
-- l) határozza meg az önkormányzati fenntartású előadó-művészeti szervezet számára fenntartói megállapodásban biztosított támogatás tartalmára és megkötésére irányadó szabályokat,
+- l) határozza meg az önkormányzati fenntartású előadó-művészeti szervezettel kötendő fenntartói megállapodás tartalmára és megkötésére irányadó szabályokat,
 - m) határozza meg az előadó-művészeti szervezet és előadó-művészeti szakmai érdek-képviseleti szervezet nyilvántartásba vételére, a nyilvántartáshoz szükséges adatszolgáltatási kötelezettségre, az igazolás kiállítására, valamint a hatósági ellenőrzéssel kapcsolatos hatósági eljárásra, valamint a központi költségvetésből nyújtott támogatás mértékének megállapításához szükséges, továbbá a 11. § és a 12. § szerinti minősítés alapjául szolgáló adatszolgáltatási kötelezettségre vonatkozó szabályokat,
 - n) határozza meg a zenekar, énekkar által teljesítendő fizetőnéző-szám alsó határát,
 - o) határozza meg a szakmai próbajáték és próbaéneklés meghirdetésére vonatkozó szabályokat,
 - p) szabályozza a zenekar és az énekkar tevékenysége folytatásának tárgyi feltételeit,
-- q) határozza meg az e törvény alapján a helyi önkormányzatok központi költségvetési kapcsolataiból származó támogatásokat tartalmazó fejezetből – az Európai Bizottság által jóváhagyott kulturális támogatási programmal összhangban – nyújtott támogatás elszámolható költségeinek körét, a támogatás felhasználásáról készült, e törvény szerinti beszámoló formai és tartalmi követelményeit, továbbá a beszámoló benyújtásával és elfogadásával kapcsolatos részletes szabályokat.
+- q) határozza meg az e törvény alapján a helyi önkormányzatok központi költségvetési kapcsolataiból származó támogatásokat tartalmazó fejezetből – az Európai Bizottság által jóváhagyott kulturális támogatási programmal összhangban – nyújtott támogatás elszámolható költségeinek körét, a támogatás felhasználásáról készült, e törvény szerinti beszámoló formai és tartalmi követelményeit, továbbá a beszámoló benyújtásával és elfogadásával kapcsolatos részletes szabályokat,
+- r) határozza meg a költségvetési szervként működő vagy az Mt. hatálya alá tartozó, állami vagy önkormányzati fenntartású, nyilvántartásba vett előadó-művészeti szervezet vezetőjének megválasztására irányuló pályázat tartalmára és a pályázati eljárásra vonatkozó szabályokat, a pályázatok véleményezésére felkért szakmai bizottság összetételét és eljárásának rendjét, valamint a pályázatok elbírálásának rendjét,
+- s) határozza meg a költségvetési szervként működő vagy az Mt. hatálya alá tartozó, állami vagy önkormányzati fenntartású, nyilvántartásba vett előadó-művészeti szervezet vezetője tekintetében a munkakör betöltésének feltételeit és a feltételek alól adható felmentés szabályait.
 
 (2) Felhatalmazást kap a miniszter, hogy
 

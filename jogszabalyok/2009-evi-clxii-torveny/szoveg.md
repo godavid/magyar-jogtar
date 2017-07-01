@@ -41,7 +41,7 @@ a fogyasztónak nyújtott hitelről
 
 - 1. előtörlesztés: a hitelszerződés alapján fennálló tartozás teljesítési idő előtt történő teljes vagy részleges teljesítése,
 - 2. fizetési számlához kapcsolódó hitelkeret-szerződés: olyan hitelszerződés, amellyel a hitelező a fogyasztó fizetési számlájának egyenlegét meghaladó összeget bocsát a fogyasztó rendelkezésére,
-- 3. fogyasztó: az önálló foglalkozása és gazdasági tevékenysége körén kívül eljáró természetes személy,
+- 3. fogyasztó: az önálló foglalkozása és gazdasági tevékenysége körén kívül eljáró természetes személy, valamint az értékpapír kibocsátása mellett megvalósuló zálogkölcsönnyújtás esetén a zálogtárgy birtokát hitelezőre átruházó természetes személy,
 - 4. fogyasztó által fizetendő teljes összeg: a hitel teljes összege és a hitel teljes díja,
 - 5. hitelező: olyan jogalany, aki vagy amely önálló foglalkozása vagy gazdasági tevékenysége körében hitelt nyújt,
 - 6. hitelkamat: a fogyasztó által igénybe vett hitelösszeg rögzített vagy változó százalékában, éves szinten meghatározott pénzösszeg,
@@ -49,7 +49,7 @@ a fogyasztónak nyújtott hitelről
   - a) a fogyasztónak hitelt ajánl, vagy
   - b) a hitelszerződés megkötése érdekében a fogyasztónak segítséget nyújt, vagy
   - c) a hitelező nevében a fogyasztóval hitelszerződést köt,
-- 8. hitel: a hitelszerződés alapján nyújtott szolgáltatás,
+- 8. hitel: a hitelszerződés alapján nyújtott szolgáltatás, valamint az értékpapír kibocsátása mellett nyújtott zálogkölcsön,
 - 9. hitelszerződés: a Polgári Törvénykönyvről szóló törvényben meghatározott hitelszerződés és kölcsönszerződés, ide nem értve az olyan szerződést, amely alapján folyamatos szolgáltatásnyújtás vagy azonos termék azonos mennyiségben történő értékesítése ellenében a fogyasztó részletfizetést teljesít,
 - 10. hitel teljes díja: a hitelező által ismert minden olyan – a teljes hiteldíj mutató számításánál a külön jogszabály szerint figyelembe veendő – ellenszolgáltatás, amelyet a fogyasztó a hitelszerződés kapcsán megfizet,
 - 11. hitel teljes összege: a hitelnek a hitelszerződésben meghatározott teljes összege vagy felső összeghatára,
@@ -387,7 +387,7 @@ alkalmazásával számított mértékig módosíthatja.
 
 (3) Állami kamattámogatással nyújtott hitel esetén a hitelkamatot, díjat vagy költséget érintő módosítást a módosítás hatálybalépését megelőzően legalább 15 nappal hirdetményben kell közzétenni.
 
-(4) A referencia-kamatlábhoz kötött hitelkamat esetén a felek az (1) bekezdéstől eltérően a hitelszerződésben megállapodhatnak arról, hogy a hitelező a fogyasztót rendszeresen a honlapján és az ügyfelek számára nyitva álló helyiségében kifüggesztve tájékoztatja a referencia-kamatláb változásáról.
+(4) A referencia-kamatlábhoz kötött hitelkamat esetén a felek az (1) bekezdéstől eltérően a hitelszerződésben megállapodhatnak arról, hogy a hitelező a fogyasztót rendszeresen a honlapján és az ügyfelek számára nyitva álló helyiségében közzététel útján tájékoztatja a referencia-kamatláb változásáról.
 
 (4a) Jelzáloghitel és ingatlanra vonatkozó pénzügyi lízing esetén a hitelező a referencia-kamatláb változásakor az új törlesztőrészlet összegéről a fogyasztó részére papíron vagy más tartós adathordozón tájékoztatást ad.
 
@@ -419,7 +419,7 @@ azzal, hogy a közlési határidő nem vagy késedelmes teljesítése – a fogy
 
 (4) Hitelkamat és a hitelkamaton kívüli minden egyéb ellenszolgáltatás – ideértve díjat, jutalékot és költséget – a fogyasztó számára kedvezőtlen módosítása esetén a hitelező a módosítás hatálybalépését megelőzően köteles tájékoztatni a fogyasztót papíron vagy más tartós adathordozón a módosítás tényéről, a fizetési kötelezettség új mértékéről, a módosítást követően fizetendő törlesztőrészletek összegéről, és ha ennek kapcsán a törlesztőrészletek száma vagy a törlesztés gyakorisága változik, ennek tényéről.
 
-(5) A referencia-kamatlábhoz kötött hitelkamat esetén a felek az (1) bekezdéstől eltérően a hitelszerződésben megállapodhatnak arról, hogy a hitelező a fogyasztót rendszeresen honlapján és az ügyfelek számára nyitva álló helyiségében kifüggesztve tájékoztatja a referencia-kamatláb változásáról.
+(5) A referencia-kamatlábhoz kötött hitelkamat esetén a felek az (1) bekezdéstől eltérően a hitelszerződésben megállapodhatnak arról, hogy a hitelező a fogyasztót rendszeresen honlapján és az ügyfelek számára nyitva álló helyiségében közzététel útján tájékoztatja a referencia-kamatláb változásáról.
 
 ### Határozatlan idejű hitelszerződés
 

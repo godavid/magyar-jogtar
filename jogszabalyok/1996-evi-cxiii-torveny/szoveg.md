@@ -19,7 +19,7 @@ törvényt alkot a lakástakarékpénztárakról.
 - 3. kezelési költség: az az összeg, amelyet a lakástakarékpénztár költségként felszámít;
 - 4. kiutalás: az adott kiutalási időszak utolsó napján (a kiutalási időpontban) a lakáselőtakarékoskodók nyilatkozata és az értékelési fordulónapon meghatározott sorrend alapján hozott döntés a kiutalási összegből kifizethető szerződéses összegekről, illetőleg betétösszegekről;
 - 5. kiutalási időpont: az adott kiutalási időszak utolsó napja;
-- 6. kiutalási időszak: az értékelési fordulónaptól a kiutalási időpontig tartó három hónap;
+- 6. kiutalási időszak: az értékelési fordulónaptól a kiutalási időpontig tartó kettő hónap;
 - 7. kollektív kamat: a lakáselőtakarékossági szerződésekben rögzített lakáskölcsönkamatoknak a ki nem utalt összes szerződéses összegben képviselt arányuk alapján súlyozott átlagos értéke;
 - 8. megtakarítási évek: a szerződésben rögzített teljes betétösszeg első elhelyezése hónapjának első napjától számított évek (egy év 12 hónap) a betét felvételéig;
 - 9. megtakarítási idő: az adott módozatnak megfelelő szerződésben rögzített teljes betétösszeg első elhelyezésétől az összegyűlt betét felvételéig eltelt idő;
@@ -148,7 +148,7 @@ törvényt alkot a lakástakarékpénztárakról.
 
 - a) a lakás-takarékpénztár szavatoló tőkéjének összesen 10%-át meg nem haladó mértékig tulajdoni részesedést szerezhet a Hpt. szerinti járulékos vállalkozásokban,
 - b) a lakás-takarékpénztár az MNB engedélyével – a (2) bekezdésben meghatározott feltételek teljesülése esetén – a szavatoló tőkéjének összesen 20%-át meg nem haladó mértékig tulajdoni részesedést szerezhet Magyarország területén székhellyel rendelkező lakás-takarékpénztárban, vagy olyan devizakülföldinek minősülő hitelintézetben, amelynek fő tevékenysége lakás-előtakarékossági szerződés alapján történő betétgyűjtés és hitelnyújtás,
-- c) lakáscélú finanszírozáshoz közvetlenül kapcsolódóan más pénzügyi intézmény, illetve biztosítóintézet részére pénzügyi szolgáltatás közvetítését (ügynöki tevékenységet) végezhet,
+- c) lakáscélú finanszírozáshoz közvetlenül kapcsolódóan más pénzügyi intézmény, illetve biztosító részére pénzügyi szolgáltatás közvetítését, illetve biztosításközvetítői tevékenységet (ügynöki tevékenységet),
 - d) a 10. és a 11. §-ban meghatározott hitelnyújtáshoz kapcsolódóan ingatlanértékelési tevékenységet végezhet.
 
 (2) Az (1) bekezdés b) pontjában meghatározott hitelintézetben történő tulajdoni részesedés megszerzését az MNB akkor engedélyezi, ha a tulajdonszerzéssel érintett hitelintézet a rá vonatkozó jogszabályok szerint a lakáscélú betétgyűjtést és hitelnyújtást zárt rendszerben végzi, csak a betétet elhelyezők részére nyújt hitelt, és erről nyilatkozatot nyújt be az MNB részére.
@@ -161,14 +161,14 @@ törvényt alkot a lakástakarékpénztárakról.
 
 15. § (1) A lakástakarékpénztár a kiutalási összeget a (2)–(5) bekezdés rendelkezéseinek figyelembevételével a betétek visszafizetésére, a betétekre jóváírt kamat és állami támogatás kifizetésére, az állami támogatás után jóváírt kamat kifizetésére, a lakáskölcsönök nyújtására és a lakáskölcsönök nyújtására szükség esetén általa felvett kölcsön tőketörlesztésére és e kölcsönnek a kollektív kamat mértékével meghatározott számított hozamának kifizetésére használhatja fel.
 
-(2) A lakástakarékpénztárnak a kiutalási összeg (1) bekezdésben meghatározott célokra fel nem használt része (a továbbiakban: szabad eszköz) előző hónap utolsó napján meglévő állományának legalább huszonöt százalékát készpénzben, számlapénzben, illetőleg olyan országnak a központi kormánya vagy központi bankja által kibocsátott értékpapírban kell tartania, amely
+(2) A lakástakarékpénztárnak a kiutalási összeg (1) bekezdésben meghatározott célokra fel nem használt része (a továbbiakban: szabad eszköz) előző hónap utolsó napján meglévő állományának legalább tíz százalékát készpénzben, számlapénzben, illetőleg olyan országnak a központi kormánya vagy központi bankja által kibocsátott értékpapírban kell tartania, amely
 
 - a) teljes jogú tagja a Gazdasági Együttműködési és Fejlesztési Szervezetnek vagy az Európai Uniónak vagy
 - b) speciális megállapodást kötött arra, hogy hitelt nyújtson a Nemzetközi Valuta Alapnak annak Általános Kölcsönnyújtási Megállapodása szerint, és a megelőző öt év során hitelfelvételből származó külső adósságát nem ütemezte át, illetőleg nem függesztette fel.
 
 (3) A lakástakarékpénztár szabad eszközei előző hónap utolsó napján meglévő állományának legfeljebb húsz százalékát helyezheti ki egy évnél nem hosszabb lejáratra a (2) bekezdés a)–b) pontjában meghatározott országban székhellyel rendelkező hitelintézeteknél.
 
-(4) A lakástakarékpénztár szabad eszközei előző hónap utolsó napján meglévő állományának legfeljebb hetvenöt százalékát használhatja fel a 11. § szerinti áthidaló kölcsön nyújtására.
+(4) A lakástakarékpénztár szabad eszközei előző hónap utolsó napján meglévő állományának legfeljebb kilencven százalékát használhatja fel a 11. § szerinti áthidaló kölcsön nyújtására.
 
 (5) A lakástakarékpénztár szabad eszközei előző hónap utolsó napján meglévő állományának legfeljebb harminc százalékát fektetheti be jelzálog-hitelintézet által kibocsátott jelzáloglevélbe.
 

@@ -1244,10 +1244,11 @@ tartalmazó tájékoztatást (a továbbiakban: pénztári tájékoztatás) a tag
 
 49/D. § (1) A választható portfoliós rendszer működtetése a Felügyelet erre vonatkozó engedélye birtokában kezdhető meg, folytatható, illetve módosítható. A rendszer működtetésének szüneteltetését, illetve folytatását a Felügyeletnek be kell jelenteni.
 
-(2) A választható portfoliós rendszer működtetésének megkezdésére, folytatására, illetve módosítására vonatkozó kérelemhez mellékelni kell:
+(2) A választható portfóliós rendszer működtetésének megkezdésére, folytatására, illetve módosítására vonatkozó kérelemhez mellékelni kell
 
-- a) a szabályzatot vagy a módosított szabályzatot a módosítások megjelölésével, valamint
-- b) az azt elfogadó közgyűlés jegyzőkönyvét.
+- a) a szabályzatot vagy a módosított szabályzatot a módosítások megjelölésével,
+- b) az azt elfogadó közgyűlés jegyzőkönyvét, valamint
+- c) a szabályzattal, illetve módosított szabályzattal összefüggő befektetési politikát.
 
 (3) A Felügyelet a benyújtott szabályzat módosítását írhatja elő, ha
 

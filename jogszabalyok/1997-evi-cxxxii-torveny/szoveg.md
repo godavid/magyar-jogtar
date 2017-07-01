@@ -62,7 +62,7 @@ személyek láthatják el.
 
 eltérő szabályozást állapíthat meg.
 
-10. § (1) A fióktelep nem folytathat a külföldi vállalkozás nevében képviseleti tevékenységet.
+10. § (1) Ha törvény másképp nem rendelkezik, a fióktelep nem folytathat a külföldi vállalkozás nevében képviseleti tevékenységet.
 
 (2) A külföldi vállalkozás a fióktelep cégneve alatt szerzett vagyonról, jogokról, illetve vállalt kötelezettségekről saját cégneve alatt csak a fióktelep megszűnésekor, illetve az e törvényben meghatározott fizetésképtelenségi eljárások során, valamint a fióktelep cégneve alatt szerzett vagyonnal, jogokkal, kötelezettségekkel összefüggésben külföldön indított eljárások során rendelkezhet.
 
@@ -70,11 +70,15 @@ eltérő szabályozást állapíthat meg.
 
 (4) A fióktelep képviseletére jogosult személyek, továbbá azoknak a Ptk. 685. § b) pontja szerinti közeli hozzátartozói saját nevükben csak akkor köthetnek a fióktelep tevékenységi körébe tartozó ügyleteket, ha azt a fióktelep létesítéséről szóló okirat vagy a külföldi székhelyű vállalkozás írásbeli határozattal engedélyezi. A külföldi székhelyű vállalkozás írásbeli engedélye szükséges ahhoz is, hogy a fióktelep képviseletére jogosult személy a fiókteleppel azonos tevékenységet folytató más gazdálkodó szervezetben részesedést szerezzen, ide nem értve a nyilvánosan működő részvénytársaságban történő részvényszerzést.
 
-11. § (1) A külföldi vállalkozás folyamatosan köteles biztosítani a fióktelep működéséhez, a tartozások kiegyenlítéséhez szükséges vagyont. A külföldi székhelyű vállalkozás és a fióktelep egyetemlegesen és korlátlanul felel a fióktelep tevékenysége során keletkezett tartozásokért.
+11. § (1) A külföldi vállalkozás folyamatosan köteles biztosítani a fióktelep működéséhez, a tartozások kiegyenlítéséhez szükséges vagyont.
 
-(2) A vagyontárgyak külföldről történő behozatalára a vámjogi, a vámeljárási, az áruk országhatáron át történő szállításával kapcsolatos rendelkezéseket, továbbá – a külkereskedelmi engedélyezés alá eső termékek esetén – a külkereskedelmi áruforgalomra vonatkozó szabályokat is alkalmazni kell.
+(2) A külföldi székhelyű vállalkozás és a fióktelep egyetemlegesen és korlátlanul felel a fióktelep tevékenysége során keletkezett tartozásokért, az ezzel összefüggő eljárások magyar bíróság előtt is megindíthatók a külföldi székhelyű vállalkozás és a fióktelep ellen.
 
-(3) A fióktelep útján folytatott tevékenységgel összefüggésben keletkezett tartozások végrehajtása során a külföldi vállalkozás valamennyi belföldön található vagyonára végrehajtás vezethető.
+(3) A nemzetközi magánjogról szóló 1979. évi 13. törvényerejű rendelet 60., 62. §-ában, valamint 62/G. § (2) bekezdésében foglaltakat a fogyasztók polgári jogi igényeinek érvényesítése iránti perekben, továbbá a fogyasztói szerződés részévé vált tisztességtelen általános szerződési feltétel érvénytelenségének megállapítása iránt indított perekben is alkalmazni kell.
+
+(4) A vagyontárgyak külföldről történő behozatalára a vámjogi, a vámeljárási, az áruk országhatáron át történő szállításával kapcsolatos rendelkezéseket, továbbá – a külkereskedelmi engedélyezés alá eső termékek esetén – a külkereskedelmi áruforgalomra vonatkozó szabályokat is alkalmazni kell.
+
+(5) A fióktelep útján folytatott tevékenységgel összefüggésben keletkezett tartozások végrehajtása során a külföldi vállalkozás valamennyi belföldön található vagyonára végrehajtás vezethető.
 
 12. § (1) A fióktelep könyvvezetésére, beszámoló készítésére, a beszámoló nyilvánosságra hozatalára és közzétételére vonatkozó előírásokat, valamint az ezekkel összefüggő sajátos szabályokat és mentességeket a számviteli jogszabályok tartalmazzák.
 
@@ -168,7 +172,7 @@ eltérő szabályozást állapíthat meg.
 
 (2) A valamely EGT-államban bejegyzett külföldi vállalkozás pénzügyi fióktelepe az alapítással jön létre, és Magyarországon a külön törvényben foglaltak szerint kezdheti meg működését, mellyel egyidejűleg benyújtja a cégbejegyzésre vonatkozó kérelmét is.
 
-(3) A valamely EGT-államban székhellyel rendelkező külföldi vállalkozás által létesített pénzügyi fióktelep külön meghatalmazás nélkül a külföldi vállalkozás nevében, annak képviseletére irányuló tevékenységet is folytathat, ebben az esetben nem kell alkalmazni a 10. § (1) és (2) bekezdésében foglaltakat. Azt a tényt, hogy a pénzügyi fióktelep az alapító képviseletében jár el, az üzletszabályzatban, valamint a cégneve alatti eljárása során vagy tevékenysége során keletkező okiraton egyértelműen fel kell tüntetni.
+(3) A valamely EGT-államban székhellyel rendelkező külföldi vállalkozás által létesített pénzügyi fióktelep külön meghatalmazás nélkül a külföldi vállalkozás nevében, annak képviseletére irányuló tevékenységet is folytathat, ebben az esetben nem kell alkalmazni a 10. § (1) és (2) bekezdésében foglaltakat. Azt a tényt, hogy a pénzügyi fióktelep a külföldi vállalkozás képviseletében jár el, az üzletszabályzatban, valamint a cégneve alatti eljárása során vagy tevékenysége során keletkező okiraton egyértelműen fel kell tüntetni. A 11. § (2) és (3) bekezdésben foglaltakat ezekben az esetekben is alkalmazni kell.
 
 (4) A kockázati tőkebefektetésekről, a kockázati tőketársaságokról, valamint a kockázati tőkealapokról szóló törvény hatálya alá tartozó fióktelep tevékenységének engedélyezésére, működésére, felügyeletére, ellenőrzésére, továbbá megszüntetésére az e törvényben foglaltakat akkor kell alkalmazni, ha a külön törvény másként nem rendelkezik.
 

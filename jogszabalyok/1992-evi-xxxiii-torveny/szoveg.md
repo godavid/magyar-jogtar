@@ -251,7 +251,9 @@ a helyben szokásos módon köteles közzétenni. Végrehajtási jogszabály hiv
 
 (7) A benyújtott pályázat tartalma – törvény eltérő rendelkezése hiányában – csak a pályázó beleegyezésével közölhető harmadik személlyel. Sikertelen pályázat esetén a pályázó részére a pályázati anyagot vissza kell juttatni. Amennyiben a pályázó az általa benyújtott, személyes adatokat tartalmazó adathordozót a pályázat elbírálási határidejétől számított kilencven napon belül nem veszi át, azokat meg kell semmisíteni és személyes adatait törölni kell.
 
-(8)–(9)
+(8) Az üres munkakör betöltésére irányuló pályázati eljárás esetén – a pályázati feltételeknek egyformán megfelelő pályázók közül – előnyben kell részesíteni az önkéntes tartalékos szolgálati viszonyban állókat.
+
+(9)
 
 20/B. § (1) A magasabb vezető és a vezető beosztás ellátására szóló megbízásra a 20/A. § (1) és (3)–(8) bekezdései alkalmazásával pályázatot kell kiírni. A pályázatot a megbízási jogkör gyakorlója írja ki.
 
@@ -921,6 +923,8 @@ minősítést kap a közalkalmazott. Ettől eltérően, a közalkalmazott alkalm
 - b) időtartamát a más munkaköri feladatokhoz kapcsolódó rendkívüli munkavégzéstől elkülönítve tartja nyilván a munkáltató, és
 - c) időtartama a rendes munkaidőn és a más munkaköri feladatokhoz kapcsolódó rendkívüli munkaidőn felül naptári évenként legfeljebb 832 óra lehet.
 
+(6) A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 36. § (1) bekezdés h) pontja vagy (2) bekezdés a) pontja szerinti feladat-végrehajtásban, valamint az egészségügyről szóló törvény szerinti egészségügyi válsághelyzet kezelésében személyesen részt vevő, a Magyar Honvédségnél foglalkoztatott közalkalmazott által a tömeges bevándorlás okozta válsághelyzet, a katasztrófa elleni védekezés vagy az egészségügyi válsághelyzet időtartama alatt teljesített munkavégzés tekintetében az Mt. 56. § (1) bekezdésétől eltérően miniszteri rendelet határozza meg a vétkes kötelezettségszegés esetén alkalmazható hátrányos jogkövetkezményeket.
+
 45–51. §
 
 51/A. §
@@ -1458,7 +1462,7 @@ magasabb fizetési fokozatba kell besorolni.
 - q) a honvédelemért, a büntetés-végrehajtásért, a rendészetért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, hogy a közalkalmazottak és hozzátartozóik tekintetében a juttatások, költségtérítések, kedvezmények, támogatások rendszerét és feltételeit, valamint az üdültetés rendjét, a szociális és kegyeleti gondoskodással kapcsolatos feladatokra vonatkozó részletes szabályokat, a közalkalmazottak étkezési, illetve lakhatási támogatásának részletes szabályait,
 - r) honvédelemért, a rendészetért, a büntetés-végrehajtásért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, hogy a külföldön tanulmányokat folytató, illetve külföldi kiküldetést teljesítő közalkalmazottak pénzbeli járandóságaira vonatkozó részletes szabályokat,
 - s) a katasztrófák elleni védekezésért felelős miniszter, hogy a közalkalmazottak és hozzátartozóik tekintetében a juttatások, költségtérítések, kedvezmények, támogatások rendszerét és feltételeit, valamint a szociális és kegyeleti gondoskodással kapcsolatos feladatokra vonatkozó részletes szabályokat, a közalkalmazottak lakhatási támogatásának részletes szabályait,
-- t)
+- t) a honvédelemért felelős miniszter, hogy a 44/A. § (6) bekezdése szerinti hátrányos jogkövetkezményeket,
 - u) a büntetés-végrehajtásért, a rendészetért, az adópolitikáért és a katasztrófák elleni védekezésért felelős miniszter, hogy – az egészségügyért felelős miniszterrel egyetértésben – a munkaköri alkalmassági vizsgálatra és az alkalmasság véleményezésére vonatkozó szabályokat, valamint az eljárás rendjét,
 - v) a katasztrófák elleni védekezésért felelős miniszter, hogy a közalkalmazottak jutalmazására vonatkozó részletes szabályokat
 
@@ -1468,12 +1472,13 @@ az általa irányított, a (2) és (3) bekezdés alá nem tartozó költségvet�
 
 (7) Felhatalmazást kap a honvédelemért felelős miniszter, hogy
 
-- a) az ágazati irányítása, illetve felügyelete alá tartozó egészségügyi, felsőoktatási, közoktatási, kutatási, valamint közművelődési és közgyűjteményi intézmények, illetve a más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében rendeletben határozza meg
+- a) az ágazati irányítása, illetve felügyelete alá tartozó egészségügyi, közoktatási, kutatási, valamint közművelődési és közgyűjteményi intézmények, illetve a más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében rendeletben határozza meg
   - aa) a közalkalmazottak illetményének folyósítására, illetve jutalmazására vonatkozó részletes szabályokat,
   - ab) a közalkalmazottak és hozzátartozóik tekintetében a juttatások, költségtérítések, kedvezmények, támogatások rendszerét és feltételeit, valamint az üdültetés rendjét, a szociális és kegyeleti gondoskodással kapcsolatos feladatokra vonatkozó részletes szabályokat, a közalkalmazottak étkezési, illetve lakhatási támogatásának részletes szabályait,
   - ac) a külföldön tanulmányokat folytató, illetve külföldi kiküldetést teljesítő közalkalmazottak pénzbeli járandóságaira vonatkozó részletes szabályokat;
 - b) az ágazati irányítása, illetve felügyelete alá tartozó közművelődési, közgyűjteményi intézmények, illetve a más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében rendeletben határozza meg a formaruha-juttatást;
-- c) az ágazati irányítása, illetve felügyelete alá tartozó egészségügyi, köznevelési, kutatási, valamint közművelődési és közgyűjteményi intézmények, illetve a más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében rendeletben határozza meg a honvédségi feladatok ellátásával összefüggésben biztosítható napi átalány illetménypótlékra való jogosultsággal kapcsolatos szabályokat.
+- c) az ágazati irányítása, illetve felügyelete alá tartozó egészségügyi, köznevelési, kutatási, valamint közművelődési és közgyűjteményi intézmények, illetve a más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében rendeletben határozza meg a honvédségi feladatok ellátásával összefüggésben biztosítható napi átalány illetménypótlékra való jogosultsággal kapcsolatos szabályokat;
+- d) az ágazati irányítása, illetve felügyelete alá tartozó egészségügyi, köznevelési, kutatási, valamint közművelődési és közgyűjteményi intézmények, illetve a más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében rendeletben határozza meg a 44/A. § (6) bekezdése szerinti hátrányos jogkövetkezményt.
 
 (8) Felhatalmazást kap a büntetés-végrehajtásért és a rendészetért felelős miniszter, hogy az ágazati irányítása, illetve felügyelete alá tartozó egészségügyi, felsőoktatási, oktatási, illetve a más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében rendeletben határozza meg
 

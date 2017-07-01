@@ -693,7 +693,7 @@ a munkáltató a kormánytisztviselő részére más, nemzetbiztonsági ellenőr
 
 (4) Ha a munkakör betöltéséhez szükséges képesítés megszerzésére irányuló képzés a kormányzati szolgálati jogviszony létesítésének időpontjához képest csak később indul, az (1) bekezdés a) pontja szerinti két évet a képzés indulásának időpontjától kell számítani.
 
-41/A. § (1) A betöltetlen álláshely betöltése céljából az államigazgatási szervnek a kiválasztási eljárás lefolytatását megelőzően – a vezetői munkakör betöltésére irányuló kiválasztási eljárást, valamint a (8) bekezdést kivéve – meg kell vizsgálnia, hogy a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) 46. § (1) bekezdés r) pontjában meghatározott rendelkezési állományba tartozó, hivatásos állomány legalább százados vagy legalább főtörzsőrmesteri rendfokozattal rendelkező tagja, akinek maximális várakozási ideje letelt és annak meghosszabbítására a Hjt. 86. § (3) bekezdése szerint nem került sor (a továbbiakban: rendelkezési állományú katona) számára felajánlható-e a betöltetlen álláshely (a továbbiakban: felajánlható munkakör).
+41/A. § (1) A betöltetlen álláshely betöltése céljából az államigazgatási szervnek a kiválasztási eljárás lefolytatását megelőzően – a vezetői munkakör betöltésére irányuló kiválasztási eljárást, valamint a (8) bekezdést kivéve – meg kell vizsgálnia, hogy a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) 46. § (1) bekezdés r) vagy s) pontjában meghatározott rendelkezési állományba tartozó katona (a továbbiakban: rendelkezési állományú katona) számára felajánlható-e a betöltetlen álláshely (a továbbiakban: felajánlható munkakör).
 
 (2) Az (1) bekezdés alkalmazásában felajánlható munkakörnek azt kell tekinteni, ha
 
@@ -803,7 +803,10 @@ azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiál
 
 (5) A (4) bekezdés alapján megismert személyes adatokat az államigazgatási szerv a kormányzati szolgálati jogviszony létesítéséről meghozott döntés időpontjáig vagy – kormányzati szolgálati jogviszony létesítése és fennállása esetén – a kormányzati szolgálati jogviszony megszűnéséig (megszüntetéséig) kezeli.
 
-(6) A kiválasztás során, a munkakör betöltéséhez előírt szakmai végzettséggel, szakképzettséggel, szakképesítéssel, tapasztalattal, képességgel egyformán rendelkező jelöltek esetén – a Kormány rendeletében meghatározottak szerint – előnyben lehet részesíteni azt a személyt, aki több gyermeket nevel.
+(6) A kiválasztás során, a munkakör betöltéséhez előírt szakmai végzettséggel, szakképzettséggel, szakképesítéssel, tapasztalattal, képességgel egyformán rendelkező jelöltek esetén
+
+- a) – a Kormány rendeletében meghatározottak szerint – előnyben lehet részesíteni azt a személyt, aki több gyermeket nevel, valamint
+- b) előnyben kell részesíteni az önkéntes tartalékos szolgálati viszonyban állókat.
 
 46. § (1) A kinevezésben – a 41. § (1) bekezdés b) pontjában, a 47. § (4) bekezdésében, az 59. §-ban meghatározott eset, valamint a (4) bekezdés kivételével – a kormányzati szolgálati jogviszony létesítésekor legalább három, de legfeljebb hat hónapig terjedő próbaidőt kell kikötni.
 
@@ -1561,7 +1564,8 @@ alakul át.
 - d) elláthat edzői, versenybírói, játékvezetői tevékenységet,
 - e) folytathat tanszékvezetői tevékenységet,
 - f) lehet állami alapító vagy az általa létrehozott szervezet által önállóan, vagy más állami alapítóval, állami alapító által létrehozott szervezettel vagy államháztartáson kívüli szervezettel közösen alapított (köz)alapítványban felügyelő bizottsági tag,
-- g) lehet felsőoktatási intézmény oktatási feladatokat is ellátó belső szervezeti egységének vezetője.
+- g) lehet felsőoktatási intézmény oktatási feladatokat is ellátó belső szervezeti egységének vezetője,
+- h) létesíthet önkéntes tartalékos katonai szolgálati viszonyt.
 
 (3) Vezetői munkakört betöltő kormánytisztviselő összeférhetetlenségére az (1) és (2) bekezdésben meghatározottakon túlmenően egyebekben a kormánytisztviselőre vonatkozó szabályokat kell alkalmazni.
 
@@ -2177,6 +2181,13 @@ kell megállapítani.
 (8) A fővárosi és megyei kormányhivatal esetében a (3) bekezdést azzal az eltéréssel kell alkalmazni, hogy a járási (fővárosi kerületi) hivatal kormánytisztviselője tekintetében az alapilletmény-eltérítésre a járási (fővárosi kerületi) hivatal vezetője tesz javaslatot. A járási (fővárosi kerületi) hivatal vezetőjének javaslata alapján az alapilletmény-eltérítésről a kormánymegbízott dönt.
 
 (9) Az illetmény-összetevők – ide nem értve az illetménypótlékokat – változása esetén, így különösen az illetményalap emelkedése, a besorolási vagy fizetési fokozat változása során a kormánytisztviselő illetményét újra meg kell állapítani.
+
+(10) Az alapilletmény (3)–(5) bekezdés szerinti megemelésére a tárgyévet megelőző év minősítése, teljesítményértékelése hiányában – a (11) bekezdésben foglaltak szerinti teljesítményértékelés alapján – is lehetőség van a tárgyév december 31-ig
+
+- a) ha a kormánytisztviselő kormányzati szolgálati jogviszonya közalkalmazotti, hivatásos szolgálati vagy katonai szolgálati jogviszonyból áthelyezéssel létesül és az áthelyezést közvetlenül megelőzően – a közalkalmazotti, hivatásos szolgálati vagy katonai szolgálati jogviszonyából adódóan – érvényes minősítéssel, teljesítményértékeléssel rendelkezik, vagy
+- b) a szülési szabadság vagy a gyermek gondozása céljából biztosított fizetés nélküli szabadság leteltét követően, ha a szülési szabadságot vagy a fizetés nélküli szabadságot közvetlenül megelőzően emelt összegű alapilletménnyel és érvényes minősítéssel, teljesítményértékeléssel rendelkezett.
+
+(11) Az alapilletmény (10) bekezdés szerinti megemelésére a kormánytisztviselő soron kívüli, az áthelyezés, a szülési szabadság vagy a gyermek gondozása céljából biztosított fizetés nélküli szabadság leteltét követő legalább 45, legfeljebb 60 napon belüli, soron kívüli teljesítményértékelésének elvégzése esetén van lehetőség.
 
 134. § (1) Az illetménykiegészítés mértéke
 

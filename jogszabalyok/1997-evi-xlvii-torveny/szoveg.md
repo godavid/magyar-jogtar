@@ -2,7 +2,7 @@
 
 az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről
 
-Az Országgyűlés – felismerve azt, hogy az egészségügyi adatokat bizalmi jellegük, valamint a számítástechnika széles körű elterjedése miatt fokozott oltalomban kell részesíteni, ugyanakkor ezen adatok kezelése az egészségügyi ellátás során elengedhetetlenül szükséges, a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény rendelkezéseire tekintettel – a következő törvényt alkotja:
+Az Országgyűlés – felismerve azt, hogy az egészségügyi adatokat bizalmi jellegük, valamint a számítástechnika széles körű elterjedése miatt fokozott oltalomban kell részesíteni, ugyanakkor ezen adatok kezelése az egészségügyi ellátás során elengedhetetlenül szükséges, az információs önrendelkezési jogról és az információszabadságról szóló törvény rendelkezéseire tekintettel – a következő törvényt alkotja:
 
 ### I. Fejezet — Általános és értelmező rendelkezések
 
@@ -439,7 +439,9 @@ tartalmazza.
 
 (7) A központi implantátumregiszterben tárolt adatokat az érintettre vonatkozó utolsó adattovábbítástól számított 50 év elteltével törölni kell.
 
-22/C–22/D. §
+22/C. §
+
+22/D. § A várandós nők részére nyújtott természetbeni támogatás jogosultsági feltételeinek ellenőrzése és a támogatás biztosítása érdekében – a program célcsoportjára tekintettel lefolytatott adatigénylés alapján – az aktív korúak ellátására jogosult, vagy ilyen személlyel egy családban élő várandós nő természetes személyazonosító adatait és társadalombiztosítási azonosító jelét a jogosult lakcíme szerinti család- és gyermekjóléti szolgálat és az állam szociális fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv jogosult kezelni, az ezen adatok nyilvántartását végző szerv adatszolgáltatása alapján. E § alkalmazása során család alatt a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 4. § (1) bekezdés c) pontjában foglaltakat kell érteni.
 
 ### Az orvosszakértői, rehabilitációs, illetve szociális szakértői szerv, a rehabilitációs hatóság, valamint egyes szociális ellátások megállapítása céljából eljáró szerv adatkezelése
 
@@ -645,7 +647,7 @@ Az azonosítási és jogosultságkezelési nyilvántartás az egészségügyi sz
 
 35/D. § (1) A működtető az EESZT útján történő adatkezelések jogszerűségének ellenőrzése, valamint az érintett tájékoztatása céljából a személyes adatok EESZT útján történő kezelése tekintetében nyilvántartást vezet, amely tartalmazza
 
-- a) az érintett családi és utónevét, valamint TAJ számát,
+- a) az érintett születési idejét és nemét, valamint TAJ számát vagy ennek hiányában más, az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló rendeletben meghatározott azonosítóját (a továbbiakban: más azonosító),
 - b) az adatkezelő EESZT felhasználó megnevezését,
 - c) az adatkezelési művelet időpontját,
 - d) az adatkezelési művelet jogalapját, valamint
@@ -674,7 +676,7 @@ hívja fel az érintett csatlakozott adatkezelőt. A felhívás eredménytelens�
 
 35/F. § (1) A 35/B. § (1) bekezdés a) pontja szerinti csatlakozott adatkezelő a 4. § (1) bekezdés a)–c) pontjában foglalt célból történő hozzáférhetővé tétel érdekében az EESZT útján a működtető rendelkezésére bocsátja az általa kezelt érintettel kapcsolatos alábbi adatokat:
 
-- a) az érintett TAJ száma, családi és utóneve, születési ideje, neme, az EESZT útján továbbított vény és beutaló esetében a vényben és beutalóban foglalt egyéb személyazonosító adatok, az érintett EESZT-ben képzett azonosítója,
+- a) az érintett TAJ száma vagy ennek hiányában más azonosítója, születési ideje, neme, állampolgársága az EESZT útján továbbított vény és beutaló esetében a vényben és beutalóban foglalt egyéb személyazonosító adatok, az érintett EESZT-ben képzett azonosítója,
 - b) az ellátási esemény megjelölése, típusa, időpontja és időtartama, valamint miniszteri rendeletben meghatározott egyéb adatai és dokumentumai, valamint
 - c) az ellátási eseményt nyújtó egészségügyi szolgáltató megjelölése, EESZT-ben képzett azonosítója, valamint az ellátást végző vagy abban közreműködő személy EESZT azonosítója.
 
@@ -701,7 +703,7 @@ hívja fel az érintett csatlakozott adatkezelőt. A felhívás eredménytelens�
 
 (3) Az (1) bekezdés szerinti bejelentés és az önrendelkezési nyilvántartás tartalmazza:
 
-- a) az önrendelkezési nyilatkozatot tevő családi és utónevét,
+- a)
 - b) az önrendelkezési nyilatkozatot tevő TAJ számát,
 - c) azoknak az egészségügyi adatoknak a megjelölését, amelyekre az önrendelkezési nyilatkozat vonatkozik és az ezen egészségügyi adatokra vonatkozó önrendelkezési nyilatkozatot, valamint
 - d) a (2) bekezdés szerint megtett önrendelkezési nyilatkozat esetében a bejelentés megtételének helyét.
@@ -711,7 +713,7 @@ hívja fel az érintett csatlakozott adatkezelőt. A felhívás eredménytelens�
 (5) Az önrendelkezési nyilvántartást vezető szerv
 
 - a) a csatlakozott adatkezelő és az EESZT felhasználó számára abból a célból, hogy meg tudja állapítani, hogy az érintett egészségügyi adatainak kezelésére jogosult-e,
-- b) az adatkezelés jogszerűségének ellenőrzésére vagy megállapítására hatáskörrel rendelkező hatóság vagy bíróság számára, annak végrehajtható döntése alapján az adatkezelés jogszerűségének ellenőrzése céljából az érintett (3) bekezdés a) és b) pontjában meghatározott adatai alapján az EESZT útján adatot szolgáltat az érintett önrendelkezési nyilatkozatairól. Az adatszolgáltatást úgy kell teljesíteni, hogy abból az érintett egészségügyi vagy hozzá kapcsolódó, az adatkezelés céljához nem szükséges személyes adatára, annak fennállására vagy fennállásának hiányára ne lehessen következtetni.
+- b) az adatkezelés jogszerűségének ellenőrzésére vagy megállapítására hatáskörrel rendelkező hatóság vagy bíróság számára, annak végrehajtható döntése alapján az adatkezelés jogszerűségének ellenőrzése céljából az érintett TAJ száma alapján az EESZT útján adatot szolgáltat az érintett önrendelkezési nyilatkozatairól. Az adatszolgáltatást úgy kell teljesíteni, hogy abból az érintett egészségügyi vagy hozzá kapcsolódó, az adatkezelés céljához nem szükséges személyes adatára, annak fennállására vagy fennállásának hiányára ne lehessen következtetni.
 
 35/I. § (1) Az önrendelkezési nyilvántartás érintettre vonatkozó bejegyzéseit az érintett halála után 5 évvel helyreállíthatatlanul törölni kell.
 
@@ -727,7 +729,7 @@ hívja fel az érintett csatlakozott adatkezelőt. A felhívás eredménytelens�
 
 (2) Az egészségügyi profilban rögzített adatokat az érintett halála után 5 évvel helyreállíthatatlanul törölni kell.
 
-(3) Az egészségügyi profil nyilvántartásból az adat megismerésére jogosult EESZT felhasználó számára kizárólag egyedileg – TAJ számmal, ennek hiányában természetes személyazonosító adatokkal – azonosított érintettre vonatkozó adat továbbítható.
+(3) Az egészségügyi profil nyilvántartásból az adat megismerésére jogosult EESZT felhasználó számára kizárólag egyedileg – TAJ számmal, – azonosított érintettre vonatkozó adat továbbítható.
 
 (4) Az érintett jogosult megtiltani, hogy az (1) bekezdés szerinti adatait az érintett kezelőorvosa vagy háziorvosa rögzítse.
 
@@ -748,7 +750,7 @@ hívja fel az érintett csatlakozott adatkezelőt. A felhívás eredménytelens�
 
 (3) Az (1) bekezdés szerint megküldött dokumentumokról a működtető – annak érdekében, hogy az egészségügyi dokumentáció megismerésére jogosultak a 4. § (1) bekezdés a)–d) pontjában meghatározott célból az érintett dokumentumokhoz az EESZT útján hozzáférhessenek – az EESZT útján nyilvántartást vezet, amely tartalmazza
 
-- a) az érintett TAJ számát, akire az egészségügyi dokumentum vonatkozik,
+- a) az érintett TAJ számát vagy ennek hiányában más azonosítóját, születési idejét, nemét,
 - b) az egészségügyi dokumentum előállítójának azonosításához szükséges adatokat,
 - c) az egészségügyi dokumentumnak az érintett egészségi állapotára vonatkozó adatot nem tartalmazó leírását,
 - d) az egészségügyi dokumentumhoz való hozzáféréshez szükséges információkat, valamint
@@ -764,17 +766,17 @@ hívja fel az érintett csatlakozott adatkezelőt. A felhívás eredménytelens�
 
 (4) A kapcsolati kódot kezelő szerv a betegségregiszterbe továbbított adatokat a kapcsolati kód képzését követően a személyazonosító adatoktól megfosztva, a kapcsolati kóddal kiegészítve az EESZT útján továbbítja a betegségregisztert működtető szervnek. A betegségregisztert működtető szerv az elektronikus betegségregiszterekben szereplő egészségügyi adatokat kapcsolati kód alapján tartja nyilván.
 
-(5) A kapcsolati kódot kezelő szerv kizárólag törvényben meghatározott esetben vagy az érintett hozzájárulása alapján, a kapcsolati kód TAJ számmal történő megfeleltetését követően szolgáltat az érintettre vonatkozó egészségügyi vagy hozzá kapcsolódó személyazonosító adatot.
+(5) A működtető kizárólag törvényben meghatározott esetben vagy az érintett hozzájárulása alapján, a kapcsolati kód TAJ számmal történő megfeleltetését követően szolgáltat az érintettre vonatkozó egészségügyi vagy hozzá kapcsolódó személyazonosító adatot.
 
 (6) Az (5) bekezdésen kívüli esetekben és az érintett adatkérése kivételével az elektronikus betegségregiszterek adatai csak személyazonosításra alkalmatlan módon ismerhetőek meg.
 
 ### Az EESZT egyéb szolgáltatásai
 
-35/M. § (1) A működtető a digitális képtovábbítás keretében – a 4. § (1) bekezdés a)–d) pontja szerinti célból – egyedileg, TAJ számmal azonosított érintettre vonatkozóan biztosítja az érintettről képalkotó diagnosztikai eljárással készített felvétel vagy más digitális képi információ EESZT felhasználó általi elérését és EESZT felhasználók egymás közötti továbbítását. Ennek érdekében nyilvántartást vezet, amely az érintett TAJ számához kapcsoltan tartalmazza, hogy az érintettről képalkotó diagnosztikai eljárással felvételt készítettek és a felvétel elérési útját. A működtető a nyilvántartásban az érintettre vonatkozó adatot az érintett halálát követő 5 év elteltével törli.
+35/M. § (1) A működtető a digitális képtovábbítás keretében – a 4. § (1) bekezdés a)–d) pontja szerinti célból – egyedileg, TAJ számmal vagy ennek hiányában más azonosítóval azonosított érintettre vonatkozóan biztosítja az érintettről képalkotó diagnosztikai eljárással készített felvétel vagy más digitális képi információ EESZT felhasználó általi elérését és EESZT felhasználók egymás közötti továbbítását. Az EESZT működtetője ennek érdekében nyilvántartást vezet, amely az érintett TAJ számához vagy ennek hiányában más azonosítójához kapcsoltan tartalmazza, hogy az érintettről képalkotó diagnosztikai eljárással felvételt készítettek és a felvétel elérési útját. A működtető a nyilvántartásban az érintettre vonatkozó adatot az érintett halálát követő 5 év elteltével törli.
 
-(2) A működtető biztosítja az EESZT útján elektronikus konzílium lefolytatását, ha a konzíliumra felkért orvos az elektronikus konzílium lefolytatását biztosítja, a konzílium kérést elfogadja, és az érintettre vonatkozó adatokat jogosult megismerni.
+(2) Elektronikus konzílium lefolytatását a működtető az EESZT útján akkor biztosítja, ha a konzíliumra felkért orvos az elektronikus konzílium lefolytatását biztosítja, a konzílium a felkérést elfogadja, és az érintettre vonatkozó adatokat jogosult megismerni.
 
-(3) A működtető a digitális képtovábbítás során továbbított adatokat nem őrzi meg, az elektronikus konzultáció során az e § alapján továbbított digitális képi információt és leleteket a továbbítást követően a konzultáció lefolytatása érdekében 30 napig megőrzi, majd törli.
+(3) A működtető a digitális képtovábbítás során továbbított adatokat a szolgáltatás műszaki optimalizálása érdekében legfeljebb 90 napig tárolja.
 
 35/N. § A jogszabályban meghatározott jelentéstételre vagy adatszolgáltatásra kötelezett csatlakozott adatkezelő vagy az EESZT felhasználó a jelentéstételt vagy adatszolgáltatást az EESZT útján miniszteri rendeletben meghatározottak szerint teljesíti.
 
@@ -788,7 +790,7 @@ hívja fel az érintett csatlakozott adatkezelőt. A felhívás eredménytelens�
 
 (4) A 14/A. § szerinti elektronikus vényrendelésről a vényrendelő 2017. március 1-jéig minden esetben elektronikus formában vagy papír alapon igazolást ad ki.
 
-37. § (1) Az e törvény által nem szabályozott kérdésekben az információs önrendelkezési jogról és az információszabadságról szóló törvény, továbbá a TAJ szám kezelésére vonatkozóan a személyazonosító jel helyébe lépő azonosítási módokról és azonosítási kódokról szóló 1996. évi XX. törvény rendelkezéseit kell alkalmazni.
+37. § (1) Az e törvényben foglalt rendelkezéseket az információs önrendelkezési jogról és az információszabadságról szóló törvénnyel együtt, azzal összhangban kell értelmezni és alkalmazni, valamint a TAJ szám kezelésére vonatkozóan az e törvényben nem szabályozott kérdésekben a személyazonosító jel helyébe lépő azonosítási módokról és azonosítási kódokról szóló 1996. évi XX. törvény rendelkezéseit kell alkalmazni.
 
 (2)
 
@@ -798,7 +800,7 @@ hívja fel az érintett csatlakozott adatkezelőt. A felhívás eredménytelens�
 
 (2) Felhatalmazást kap a miniszter, hogy
 
-- a) az egészségügyi adatok kezelésének, valamint a 15–16/A. § és a 24. § szerinti adattovábbítás részletes előírásait, továbbá a 30. § szerinti kötelező nyilvántartások vezetésének szabályait,
+- a) az egészségügyi adatok kezelésének és a 30. § szerinti kötelező nyilvántartások vezetésének szabályait, a 15–16/A. § és a 24. § szerinti adattovábbítás részletes előírásait, továbbá az egészségügyi dokumentáció kiadása során felmerülő költségek elemeinek meghatározását,
 - b) a járványügyi érdekből felügyelet alá vont kórokozók, valamint a fertőző betegségek bejelentésével kapcsolatos kötelezettségeket,
 - c) a halál tényének és okának bejelentésére vonatkozó részletes szabályokat,
 - d) a Veleszületett Rendellenességek Országos Nyilvántartását vezető szervet kijelölje, valamint a veleszületett rendellenességek bejelentésére és nyilvántartására vonatkozó részletes szabályokat,

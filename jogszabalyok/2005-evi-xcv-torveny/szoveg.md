@@ -70,7 +70,11 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 - 44. visszahívás: minden olyan intézkedés, amelynek célja a végfelhasználók számára forgalmazott vagy a forgalmazóknál található gyógyszer visszagyűjtése;
 - 45. kivonás a forgalomból: minden olyan intézkedés, amelynek célja a gyógyszer forgalmazásának megakadályozása az értékesítési láncban.
 - 46. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet;
-- 47. betegellátási szükséglet: adott gyógyszerre vonatkozó, magyarországi betegeket érintő tényleges felhasználási szükséglet.
+- 47. betegellátási szükséglet: adott gyógyszerre vonatkozó, magyarországi betegeket érintő tényleges felhasználási szükséglet;
+- 48. állami támogatás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló kormányrendelet (a továbbiakban: Atr.) szerinti állami támogatás;
+- 49. egy és ugyanazon vállalkozás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 1407/2013/EU bizottsági rendelet (a továbbiakban: 1407/2013/EU bizottsági rendelet) 2. cikk (2) bekezdése szerinti vállalkozás;
+- 50. támogatási intenzitás: az Atr. szerinti intenzitás;
+- 51. támogatástartalom: az Atr. szerinti tartalom.
 
 ### A törvény hatálya
 
@@ -151,7 +155,7 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 4/A. § (1) A gyógyszerészeti államigazgatási szerv gyógyszer gyártására jogosító engedélye (a továbbiakban: gyógyszergyártási engedély) szükséges a gyógyszernek nem az EGT-ből, illetve az Európai Közösséggel vagy az Európai Unióval megkötött nemzetközi szerződés alapján az EGT-megállapodásban részes államéval azonos jogállást élvező államból (a továbbiakban: harmadik ország) történő importjához, illetve kizárólag exportra történő előállításához.
 
-(2) Nem szükséges gyógyszergyártási engedély beszerzése abban az esetben, ha a gyógyszer beszerzésére kutatási célból – ide nem értve az emberen végzett kutatási célt – kerül sor, és ezt a beszerző az egészségügyért felelős miniszter rendelete szerint a gyógyszerészeti államigazgatási szerv részére bejelentette. Az e bekezdés alapján beszerzett gyógyszer a kutatási céltól eltérő célra nem használható fel. A kutatási célra fel nem használt gyógyszert meg kell semmisíteni. A kutatási tevékenység befejezéséről a gyógyszerészeti államigazgatási szervet haladéktalanul tájékoztatni kell.
+(2) Gyógyszer beszerzéséhez nem szükséges engedély, ha arra kutatási célból – ide nem értve az emberen végzett kutatási célt – kerül sor, és ezt a beszerző az egészségügyért felelős miniszter rendelete szerint a gyógyszerészeti államigazgatási szerv részére bejelentette. Az e bekezdés alapján beszerzett gyógyszer a kutatási céltól eltérő célra nem használható fel. A kutatási célra fel nem használt gyógyszert meg kell semmisíteni. A kutatási tevékenység befejezéséről a gyógyszerészeti államigazgatási szervet haladéktalanul tájékoztatni kell.
 
 (3) Nem szükséges gyógyszergyártási engedély beszerzése, ha a gyógyszert külön engedély alapján gyógyszer-nagykereskedelmi engedéllyel rendelkező gyógyszer-nagykereskedő importálja.
 
@@ -304,7 +308,7 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (4) Az (1) bekezdés szerinti tevékenységi engedélyt kizárólag olyan gazdálkodó szervezet kaphat, amelynek vezetője büntetlen előéletű, nem áll gazdálkodó szervezetben vagy gazdasági társaságban vezető tisztség betöltését kizáró, valamint egészségügyi tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt.
 
-(5) Külön jogszabály szerinti kábítószer-felelősnek és helyettesének valamint kábítószerért felelős személynek csak olyan személy jelölhető ki, aki büntetlen előéletű, és nem áll egészségügyi tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt.
+(5) Külön jogszabály szerinti kábítószer-felelősnek és helyettesének valamint kábítószerért felelős személynek és helyettesének csak olyan személy jelölhető ki, aki büntetlen előéletű, és nem áll egészségügyi tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt.
 
 (6)–(7)
 
@@ -705,7 +709,11 @@ kérdésében a Polgári Törvénykönyv sérelemdíjra és termékfelelősségr
 
 25/A. §
 
-25/A. § A gyógyszerészeti államigazgatási szerv engedélyezi az 1. § 29. pontja szerinti forgalomba hozatali engedéllyel nem rendelkező fejlett (újszerű) terápiás gyógyszerkészítmény gyártását abban az esetben is, ha azt nem rendszeres jelleggel meghatározott minőségi követelményeknek megfelelően állítják elő és egy kezelőorvos kizárólagos szakmai felelőssége mellett használják fel egy adott fekvőbeteg-gyógyintézetben, egy adott beteg számára szóló, rendelésre készült készítményre vonatkozó egyedi orvosi rendelvény teljesítése érdekében [a továbbiakban: fejlett (újszerű) terápiás gyógyszerkészítmény kórházi eseti gyártása].
+25/A. § (1) A gyógyszerészeti államigazgatási szerv engedélyezi az 1. § 29. pontja szerinti forgalomba hozatali engedéllyel nem rendelkező fejlett (újszerű) terápiás gyógyszerkészítmény gyártását abban az esetben is, ha azt nem rendszeres jelleggel meghatározott minőségi követelményeknek megfelelően állítják elő, és egy kezelőorvos kizárólagos szakmai felelőssége mellett használják fel egy adott fekvőbeteg-gyógyintézetben, egy adott beteg számára szóló, rendelésre készült készítményre vonatkozó egyedi orvosi rendelvény teljesítése érdekében [a továbbiakban: fejlett (újszerű) terápiás gyógyszerkészítmény kórházi eseti gyártása].
+
+(2) A gyógyszerészeti államigazgatási szerv a fejlett (újszerű) terápiás gyógyszerkészítmények kórházi eseti gyártására vonatkozó döntéseiről szóló tájékoztatását honlapján közzéteszi.
+
+(3) Az engedélyezési eljárás igazgatási szolgáltatási díjmentes.
 
 ### A gyógyszerekkel kapcsolatos egyes engedélyezési eljárások eljárási díjai
 
@@ -718,6 +726,8 @@ kérdésében a Polgári Törvénykönyv sérelemdíjra és termékfelelősségr
 (2b) A Gyftv. 21. § (1c) bekezdése szerinti esetben a forgalomba hozatali engedély jogosultja köteles az (1) és (5) bekezdés szerinti igazgatási szolgáltatási díj, fenntartási díj megfizetésére.
 
 (2c) Ha a kérelmező a gyógyszer forgalomba hozatali engedély kiadása iránti kérelem benyújtásával egyidejűleg jelzi, hogy a forgalomba hozatali engedély kiadását követően az egészségbiztosítási szervtől kedvezményezetti státusz megítélését fogja kérni, úgy – ha az egészségbiztosítási szerv a kedvezményezetti státuszt megítéli – a gyógyszerészeti államigazgatási szerv visszatéríti a forgalomba hozatali engedély jogosultjának az általa befizetett igazgatási szolgáltatási díjat.
+
+(2d) Azt a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény szerinti kis- és közepes vállalkozást, amely olyan magyarországi gyógyszergyártási engedéllyel rendelkezik, mely engedély nem kizárólag csomagolásra, illetve gyártási tétel felszabadításra vonatkozik, az (1) bekezdéstől eltérően az 1. számú mellékletben meghatározott eljárásokért az 1. számú mellékletben meghatározott igazgatási szolgáltatási díjtétel 50%-ának megfelelő összegű befizetési kötelezettség terheli.
 
 (3) A díjat az 1. számú melléklet I., II. és III/A–G. pontjaiban felsorolt eljárások esetén klinikai vizsgálatonként és gyógyszerenként kell megfizetni.
 
@@ -898,6 +908,22 @@ fizetendő igazgatási szolgáltatási díjak körét és mértékét, valamint 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
 35. § A 2. melléklet tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
+
+35/A. § (1) A 25/B. § (2d) bekezdése szerinti kedvezmény csekély összegű (de minimis) támogatásnak minősül, amely a 1407/2013/EU bizottsági rendelet szabályaival összhangban nyújtható.
+
+(2) Az egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az 1407/2013/EU bizottsági rendelet hatálya alá tartozó, Magyarországon odaítélt csekély összegű támogatás (e § vonatkozásában a továbbiakban: támogatás) bruttó támogatástartalma nem haladhatja meg a 200 000 eurónak megfelelő forintösszeget, figyelembe véve az 1407/2013/EU bizottsági rendelet 3. cikk (8) és (9) bekezdését.
+
+(3) A támogatás odaítélése során az adott pénzügyi évben, valamint az előző két pénzügyi év alatt odaítélt csekély összegű támogatások bruttó támogatástartalmának összegét kell figyelembe venni.
+
+(4) Az 1407/2013/EU bizottsági rendelet 1. cikk (2) bekezdésében foglaltak kivételével nem lehet kedvezményezett az a vállalkozás, amely az igényelt támogatást az 1407/2013/EU bizottsági rendelet 1. cikk (1) bekezdésében meghatározott kivételek szerint használná fel.
+
+(5) A támogatás a csekély összegű közszolgáltatási támogatással az Európai Unió működéséről szóló szerződés 107. és 108. cikkének az általános gazdasági érdekű szolgáltatást nyújtó vállalkozások számára nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2012. április 25-i 360/2012/EU bizottsági rendeletben meghatározott felső határig halmozható. A támogatás más csekély összegű támogatásokról szóló rendeleteknek megfelelően nyújtott csekély összegű támogatással a (3) bekezdésben meghatározott felső határig halmozható.
+
+(6) A támogatás nem halmozható azonos elszámolható költségek vagy azonos kockázatfinanszírozási célú intézkedés vonatkozásában nyújtott állami támogatással, ha az így halmozott összeg meghaladná a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy összeget.
+
+(7) A vállalkozás az 1407/2013/EU bizottsági rendelet 5. cikk (1) bekezdése figyelembevételével – az ott meghatározott feltételek teljesítésének megállapítására alkalmas módon – nyilatkoznia kell a részére a támogatás odaítélésének évében és az azt megelőző két pénzügyi évben nyújtott csekély összegű támogatások támogatástartalmáról.
+
+35/B. § A 25/B. § (2d) bekezdése az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.
 
 ### 1. számú melléklet a 2005. évi XCV. törvényhez
 

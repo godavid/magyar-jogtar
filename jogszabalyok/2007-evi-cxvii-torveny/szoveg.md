@@ -67,10 +67,15 @@ Az Országgyűlés a foglalkoztatók nyugdíjcélú megtakarítások terén tör
 - 33. tagi számla: az a nyilvántartás, amelyen a befizetéssel meghatározott nyugdíjkonstrukció esetén a felhalmozási időszakban a tag követelése, illetve nyugdíjba vonuláskor a részére járó nyugdíjszolgáltatás megállapítása alapul;
 - 34. valorizáció: a szolgáltatással meghatározott nyugdíjkonstrukció esetén a jogosultság megszerzése és a szolgáltatás megkezdése közötti időszakban a jogosultság összegének értékállóságát biztosító mechanizmus, amely a jogosultság értékének a közbenső időszak ár-, bérnövekedéséhez vagy más egyéb tényezők alakulásához való hozzáigazítását jelenti;
 - 35. várakozási idő: a tagsági jogviszonynak a belépéstől számított, a nyugdíjkonstrukció által előírt azon időszaka, amelynek elteltével a tag a foglalkoztatói nyugdíjszolgáltatáshoz – az egyéb feltételek teljesülése esetén – legkorábban hozzájuthat;
-- 36. minősített befolyás: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényben meghatározott fogalom;
+- 36. minősített befolyás: egy vállalkozással létrejött olyan közvetett és közvetlen kapcsolat, amely alapján a befolyással rendelkező
+  - a) vállalkozásban fennálló tulajdoni hányadának (részesedésének) mértéke vagy az általa gyakorolható szavazati jog aránya legalább tíz százalék,
+  - b) a vállalkozás döntéshozó, ügyvezető vagy felügyelő szervei testületi tagjainak legalább húsz százalékát kinevezheti vagy felmentheti, vagy
+  - c) a létesítő okirat, a megállapodás alapján döntő befolyást gyakorolhat a vállalkozás működésére. A minősített befolyás nagyságának megállapításakor a közvetlen és a közvetett tulajdont együttesen, valamint a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény 37/A. § (2)–(6) bekezdésében foglaltakat kell megfelelően figyelembe venni;
 - 37. Felügyelet: a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank;
 - 38. elektronikus irat: olyan bizonylat, amely megfelel az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben foglalt rendelkezéseknek;
-- 39. elektronikus irat használata: a foglalkoztatói nyugdíjszolgáltató intézmény tagja teljes bizonyító erejű magánokiratba foglalt nyilatkozatban kérheti a foglalkoztatói nyugdíjszolgáltató intézménytől, hogy a foglalkoztatói nyugdíjszolgáltató intézmény a részére átadandó dokumentumokat, nyilatkozatokat, igazolásokat elektronikus iratként küldje meg, illetve tegye elérhetővé számára.
+- 39. elektronikus irat használata: a foglalkoztatói nyugdíjszolgáltató intézmény tagja teljes bizonyító erejű magánokiratba foglalt nyilatkozatban kérheti a foglalkoztatói nyugdíjszolgáltató intézménytől, hogy a foglalkoztatói nyugdíjszolgáltató intézmény a részére átadandó dokumentumokat, nyilatkozatokat, igazolásokat elektronikus iratként küldje meg, illetve tegye elérhetővé számára;
+- 40. közvetett tulajdon: egy vállalkozás (a továbbiakban: eredeti vállalkozás) tulajdoni hányadainak, illetve szavazatainak a vállalkozásban tulajdoni részesedéssel, illetve szavazati joggal rendelkező más vállalkozás (a továbbiakban: köztes vállalkozás) tulajdoni hányadain, illetve szavazati jogán keresztül történő – a Bit. 5. melléklet szerint figyelembe vett – birtoklása vagy gyakorlása;
+- 41. vállalkozás: az üzletszerű gazdasági tevékenységet folytató gazdálkodó szervezet.
 
 ### Működési alapelvek
 
@@ -187,7 +192,8 @@ mellékelni kell:
 - n) a kérelmező arra vonatkozó nyilatkozatát, hogy az engedély kiadása érdekében szükséges minden lényeges tényt és adatot közölt a Felügyelettel,
 - o) a pénzmosás és a terrorizmus finanszírozása megelőzésére és megakadályozására, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtására vonatkozó szabályzatokat és eljárásrendeket,
 - p) a tervezett működési terület meghatározását tartalmazó dokumentumot,
-- q) a működési szabályzatot.
+- q) a működési szabályzatot,
+- r) tájékoztatást a foglalkoztatói nyugdíjszolgáltató intézmény részvényeseinek azonosító adatairól és a részesedésük mértékéről, továbbá a minősített befolyással rendelkező tulajdonosokról és a minősített befolyás mértékéről.
 
 (5) A működési szabályzat tartalmazza:
 
@@ -205,6 +211,16 @@ mellékelni kell:
 - c) a foglalkoztatói nyugdíjszolgáltató intézménynek a pénzügyi év lejártáig, valamint a következő három pénzügyi évre szóló pénzügyi tervét.
 
 (7) Az induló üzleti tervnek a (6) bekezdésben foglaltakon kívül tartalmaznia kell mindazokat az adatokat és feltételeket, amelyeket a foglalkoztatói nyugdíjszolgáltató intézmény alapszabályban vállalt szolgáltatásainak teljesítéséhez, a foglalkoztatói nyugdíjszolgáltató intézmény hosszú távú és a tervezett taglétszámához igazodó működőképességéhez, a tagokkal szemben vállalt kötelezettségek teljesítéséhez a foglalkoztatói nyugdíjszolgáltató intézmény igazgatósága szükségesnek tart, illetve amit a Felügyelet előír.
+
+(8) Ha a foglalkoztatói nyugdíjszolgáltató intézmény tulajdonosai (részvényesei) között olyan személy szerepel, aki a foglalkoztatói nyugdíjszolgáltató intézményben minősített befolyást kíván szerezni, a (4) bekezdésben foglaltakon kívül a tevékenységi engedély iránti kérelemhez – a (9) bekezdésben foglalt eltéréssel – mellékelnie kell
+
+- a) a Bit. 258. § (3) bekezdés b)–g) és i)–k) pontja szerinti feltételek,
+- b) a Bit. 258. § (5) bekezdésében foglalt feltételek, és
+- c) a szakmai alkalmasság és üzleti megbízhatóság fennállásának
+
+igazolását.
+
+(9) Ha a kérelmező magyar állampolgár vagy magyar székhelyű nem természetes személy, a Bit. 258. § (3) bekezdés b), d), e) és i) pontjában foglalt adatok igazolását tartalmazó okiratokat a Felügyelet szerzi be.
 
 9/A. § Ha a kérelmező a 9. § (4) bekezdés a)–d) és f)–i) pontjában foglalt adatokat nem igazolja, a Felügyelet – a tevékenység engedélyezéséhez – a foglalkoztatói nyugdíjszolgáltató intézmény cégjogi adatai iránt adatszolgáltatási megkereséssel fordul az adatokról nyilvántartást vezető bírósághoz.
 
@@ -404,9 +420,15 @@ szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végreh
 
 ### Változások bejelentése
 
-21. § (1) A foglalkoztatói nyugdíjszolgáltató intézmény a személyi és tárgyi feltételekben, a tulajdonrésszel (részvénnyel) rendelkezők személyében, továbbá a vezető állású személyek és egyéb vezetők, a letétkezelő, a számlavezető, a könyvvizsgáló, a kiszervezett tevékenységet végző személyében vagy adataiban történt változást a szerződés megkötését, illetve megszűnését követően öt napon belül a Felügyeletnek bejelenti.
+21. § (1) A foglalkoztatói nyugdíjszolgáltató intézmény
 
-(2) Az e törvényben meghatározott engedélyek kérelmezése és a bejelentések megtétele a Felügyelet által meghatározott formában történik. E célra a Felügyelet adatlapot rendszeresíthet.
+- a) a személyi és tárgyi feltételekben,
+- b) a tulajdonrésszel (részvénnyel) rendelkezők személyében, ideértve a Bit. 268. § (1) bekezdés b) pontjában foglalt esetet, továbbá
+- c) a vezető állású személyek és egyéb vezetők, a letétkezelő, a számlavezető, a könyvvizsgáló, a kiszervezett tevékenységet végző személyében vagy adataiban történt változást a szerződés megkötését, illetve megszűnését követően öt napon belül a Felügyeletnek bejelenti.
+
+(2) A foglalkoztatói nyugdíjszolgáltató intézményben történő minősített befolyásszerzéssel kapcsolatban a Bit. 273. és 274. §-ában meghatározott, bejelentési kötelezettségre vonatkozó szabályokat megfelelően alkalmazni kell.
+
+(3) Az e törvényben meghatározott engedélyek kérelmezése és a bejelentések megtétele a Felügyelet által meghatározott formában történik. E célra a Felügyelet adatlapot rendszeresíthet.
 
 ### Határon átnyúló tevékenység végzése
 
@@ -1055,7 +1077,8 @@ a Felügyelet részére megküldeni.
 - b) a foglalkoztatói nyugdíjszolgáltató intézmény ideiglenes tagfelvétel szüneteltetéséhez, tevékenységének szüneteltetéséhez;
 - c) a foglalkoztatói nyugdíjszolgáltató intézmény – a Bit. 256. és 257. § szerinti – állomány-átruházásához;
 - d) a foglalkoztatói nyugdíjszolgáltató intézmény átalakulásához, egyesüléséhez, szétválásához;
-- e) a foglalkoztatói nyugdíjszolgáltató intézmény által más EGT-államban történő foglalkoztatói nyugdíjszolgáltató intézmény alapításához, vagy más EGT-államban székhellyel rendelkező foglalkoztatói nyugdíjszolgáltató intézményben részesedés megszerzéséhez.
+- e) a foglalkoztatói nyugdíjszolgáltató intézmény által más EGT-államban történő foglalkoztatói nyugdíjszolgáltató intézmény alapításához, vagy más EGT-államban székhellyel rendelkező foglalkoztatói nyugdíjszolgáltató intézményben részesedés megszerzéséhez;
+- f) a foglalkoztatói nyugdíjszolgáltató intézményben történő minősített befolyás megszerzéséhez.
 
 (2) A foglalkoztatói nyugdíjszolgáltató intézmény a tevékenységi engedély iránti kérelemhez a vezető állású személyek, egyéb vezetők, kötelező alkalmazottak és megbízottak, a könyvvizsgáló, illetve a kiszervezett tevékenységet végző szolgáltatók adatainak bejelentését a Felügyelet által meghatározott formában köteles elkészíteni.
 
@@ -1081,6 +1104,10 @@ a Felügyelet részére megküldeni.
 62/A. § (1) A foglalkoztatói nyugdíjszolgáltató intézmény tevékenységi engedélyének kiadásáról, visszavonásáról, valamint azon tagállamok megnevezéséről, amelyek területén az intézmény a 22. § alapján határon átnyúló tevékenységet végez, a Felügyelet tájékoztatja az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóságot.
 
 (2) Nem jelenti az üzleti titok sérelmét a Felügyelet által az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság felé történő adatszolgáltatás, az európai felügyeleti hatóság (az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) létrehozásáról, valamint a 716/2009/EK határozat módosításáról és a 2009/79/EK bizottsági határozat hatályon kívül helyezéséről szóló 2010. november 24-i 1094/2010/EU európai parlamenti és tanácsi rendeletnek megfelelően.
+
+### Minősített befolyás megszerzésének engedélyezése
+
+62/B. § A foglalkoztatói nyugdíjszolgáltató intézményben történő – Bit. 258. § (1) bekezdés szerinti – részesedésszerzés engedélyezésére (ideértve a tulajdonjoghoz, illetve a szavazati joghoz kapcsolódó, annak arányát meghaladó előnyöket biztosító megállapodás megkötésének, továbbá módosításának engedélyezését is) a Bit. 258–261. §-át megfelelően alkalmazni kell.
 
 ### A Felügyelet eljárása külföldi kérelmező esetén
 

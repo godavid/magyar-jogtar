@@ -479,7 +479,7 @@ a felügyelet rendelkezésére bocsátani.
 
 15. § (1) A közraktári szerződés tárgya olyan áru lehet, amely a személy- és vagyonbiztonságot, illetve a közraktárban letett más árukat nem veszélyeztet.
 
-(2) A jövedéki adóról és jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény (a továbbiakban: Jöt.) hatálya alá tartozó terméket közraktárban elhelyezni, vagy kiszolgáltatni a Jöt. rendelkezéseinek figyelembevételével lehet.
+(2) A jövedéki adóról szóló törvény hatálya alá tartozó terméket közraktárban elhelyezni, vagy kiszolgáltatni a jövedéki adóról szóló törvény rendelkezéseinek figyelembevételével lehet.
 
 (3) A semmis közraktári szerződés alapján kiállított közraktári jegy nem értékpapír. A közraktári jegy vagy bármely részének jóhiszemű megszerzőjével szemben érvénytelenségre nem lehet hivatkozni.
 

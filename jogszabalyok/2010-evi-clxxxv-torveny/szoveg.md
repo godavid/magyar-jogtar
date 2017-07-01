@@ -287,7 +287,7 @@ bemutatására köteles fordítani.
 
 - a) párt, politikai mozgalom,
 - b) dohányterméket gyártó vállalkozás
-- c) az állami adóhatóság engedélye nélkül szerencsejáték-szervezői tevékenységet végző vállalkozás.
+- c) a szerencsejáték-felügyeleti hatóság engedélye nélkül szerencsejáték-szervezői tevékenységet végző vállalkozás.
 
 (2) Az (1) bekezdés b) pontban foglaltakon túli azon vállalkozás, amely – főtevékenysége szerint – e törvény, illetve más jogszabályok alapján nem reklámozható terméket állít elő, illetőleg ilyen termékekkel kapcsolatos szolgáltatást nyújt, e terméke, illetve szolgáltatása megjelenítésével, népszerűsítésével médiaszolgáltatást vagy műsorszámot nem támogathat.
 
@@ -335,7 +335,7 @@ műsorszámban.
 - a) dohánytermék, cigaretta vagy más, olyan vállalkozástól származó termék, amelynek elsődleges tevékenysége cigaretta vagy egyéb dohánytermék gyártása vagy értékesítése,
 - b) e törvény, illetve más jogszabályok alapján nem reklámozható termék,
 - c) olyan gyógyszerkészítmény, illetve gyógyászati termék, eljárás, amely kizárólag orvosi rendelvényre vehető igénybe,
-- d) az állami adóhatóság engedélye nélkül nyújtott szerencsejáték-szolgáltatás.
+- d) a szerencsejáték-felügyeleti hatóság engedélye nélkül nyújtott szerencsejáték-szolgáltatás.
 
 31. § (1) A termékmegjelenítést tartalmazó műsorszámoknak meg kell felelniük az alábbi követelményeknek:
 

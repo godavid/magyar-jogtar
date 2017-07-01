@@ -2691,6 +2691,19 @@ külön díj ellenében végzett szolgáltatások körét, azok külön díjait,
 
 (8) A csatlakozási díjból származó bevételből finanszírozott beruházást a rendszerhasználati díjak meghatározásával összefüggésben a tőkeköltség számításánál figyelmen kívül kell hagyni.
 
+(9) Mentes a csatlakozási díj és minden más, az elosztónak fizetendő díj alól a legfeljebb 32 A névleges teljesítményű fogyasztásmérő beszerelése azzal, hogy ha ebben az esetben a csatlakozást igénylő igényének kielégítése érdekében
+
+- a) kisfeszültségű közcélú elosztó hálózat kiépítése szükséges, akkor felhasználási helyenként legfeljebb egy csatlakozási pontra rendszerhasználóként
+  - aa) szabadvezeték (beleértve a szigetelt szabadvezetéket is) esetén legfeljebb 100 méter,
+  - ab) földkábel esetén legfeljebb 50 méter hosszúságú közcélú vezeték,
+- b) középfeszültségű hálózat kiépítése szükséges, akkor kisfeszültségű vételezésnél új közép/kisfeszültségű transzformátorállomásonként, középfeszültségű vételezésnél csatlakozási pontonként
+  - ba) szabadvezeték esetén legfeljebb 500 méter,
+  - bb) földkábel esetén legfeljebb 250 méter
+
+hosszúságú közcélú vezeték, valamint a szükséges új nagy/középfeszültségű és közép/középfeszültségű transzformátorállomás létesítése
+
+díjmentes.
+
 146/B. § Az 500 MW-ot meghaladó névleges teljesítőképességű gépegységgel rendelkező erőmű közcélú hálózathoz történő csatlakozása esetén a villamosenergia-rendszer szabályozási költségei növekedésének kompenzálására a gépegység névleges teljesítőképességének 500 MW-ot meghaladó része után MW-onként az átviteli rendszerirányító részére a külön jogszabályban meghatározott módon és mértékben rendszerszabályozási hozzájárulást fizet. Ezen díjfizetési kötelezettség nem érinti a 146/A. § alapján teljesítendő díjfizetési kötelezettséget. A rendszerszabályozási hozzájárulás meghatározásakor figyelembe kell venni a hálózatra később csatlakozott, 500 MW-ot meghaladó névleges teljesítőképességű gépegységgel rendelkező erőmű csatlakozásának hatásait.
 
 ### XVII. Fejezet — EGYÉB PÉNZÜGYI RENDELKEZÉSEK

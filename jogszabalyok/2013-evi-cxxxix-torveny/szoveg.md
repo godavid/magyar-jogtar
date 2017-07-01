@@ -627,6 +627,8 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 
 (20) Az MNB a 39. § (1) bekezdés h) pontjában meghatározott feladatai során ellátja a piaci visszaélésekről (piaci visszaélésekről szóló rendelet), valamint a 2003/6/EK európai parlamenti és tanácsi irányelv és a 2003/124/EK, a 2003/125/EK és a 2004/72/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 596/2014/EU európai parlamenti és tanácsi rendelet végrehajtását.
 
+(24) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében az értékpapír-finanszírozási ügyletek és az újrafelhasználás átláthatóságáról, valamint a 648/2012/EU rendelet módosításáról szóló, 2015. november 25-i (EU) 2015/2365 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2015/2365 európai parlamenti és tanácsi rendelet] 16. cikke szerinti illetékes hatóságként az (EU) 2015/2365 európai parlamenti és tanácsi rendelet végrehajtását.
+
 41. § (1) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló, 2004. október 27-i 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtását
 
 - a) a fogyasztói hitelmegállapodásokról és a 87/102/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2008 április 23-i 2008/48/EK európai parlamenti és tanácsi irányelvet,
@@ -1169,6 +1171,26 @@ rendelhet ki.
 
 (11) A (10) bekezdésben foglalt összegek közül minden esetben a magasabb összeget kell alkalmazni.
 
+(12) Az 596/2014/EU európai parlamenti és tanácsi rendelet megsértése esetén
+
+- a) természetes személy esetében
+  - aa) az 596/2014/EU európai parlamenti és tanácsi rendelet 14. és 15. cikkének megsértése esetén a bírság mértéke legfeljebb 1 555 850 000 forint,
+  - ab) az 596/2014/EU európai parlamenti és tanácsi rendelet 16. és 17. cikkének megsértése esetén a bírság mértéke legfeljebb 311 170 000 forint,
+  - ac) az 596/2014/EU európai parlamenti és tanácsi rendelet 18., 19. és 20. cikkének megsértése esetén a bírság mértéke legfeljebb 155 585 000 forint;
+- b) vállalkozás esetében
+  - ba) az 596/2014/EU európai parlamenti és tanácsi rendelet 14. és 15. cikkének megsértése esetén a bírság mértéke legfeljebb 4 667 550 000 forint vagy a döntéshozó szerv által legutoljára jóváhagyott éves beszámoló szerinti árbevétel 15%-a, azzal, hogy ha a vállalkozás anyavállalat vagy anyavállalat olyan leányvállalata, amelyik a számviteli jogszabályok alapján konszolidált beszámoló készítésére kötelezett, akkor a figyelembe veendő éves árbevétel a legutolsó, az anyavállalat döntéshozó szerve által jóváhagyott konszolidált beszámoló szerinti éves árbevétel vagy a számviteli jogszabályok szerinti, annak megfelelő bevétel,
+  - bb) az 596/2014/EU európai parlamenti és tanácsi rendelet 16. és 17. cikkének megsértése esetén a bírság mértéke legfeljebb 777 925 000 forint vagy a döntéshozó szerv által legutoljára jóváhagyott éves beszámoló szerinti árbevétel 2%-a, azzal, hogy ha a vállalkozás anyavállalat vagy anyavállalat olyan leányvállalata, amelyik a számviteli jogszabályok alapján konszolidált beszámoló készítésére kötelezett, akkor a figyelembe veendő éves árbevétel a legutolsó, az anyavállalat döntéshozó szerve által jóváhagyott konszolidált beszámoló szerinti éves árbevétel vagy a számviteli jogszabályok szerinti, annak megfelelő bevétel,
+  - bc) az 596/2014/EU európai parlamenti és tanácsi rendelet 18., 19. és 20. cikkének megsértése esetén a bírság mértéke legfeljebb 311 170 000 forint.
+
+(13) Az Európai Parlament és a Tanács (EU) 2015/2365 rendelete megsértése esetén
+
+- a) természetes személy esetében a bírság mértéke legfeljebb 1 589 850 000 forint,
+- b) jogi személy esetében
+  - ba) az Európai Parlament és a Tanács (EU) 2015/2365 rendelet 4. cikkének megsértése esetén a bírság mértéke legfeljebb 1 589 850 000 forint, vagy a döntéshozó szerv által legutoljára jóváhagyott éves beszámoló szerinti árbevétel legfeljebb 10%-a, azzal, hogy ha a jogi személy anyavállalat vagy anyavállalat olyan leányvállalata, amelyik a számviteli jogszabályok alapján konszolidált beszámoló készítésére kötelezett, akkor a figyelembe veendő éves árbevétel a legutolsó, az anyavállalat döntéshozó szerve által jóváhagyott konszolidált beszámoló szerinti éves árbevétel vagy a számviteli jogszabályok szerinti, annak megfelelő bevétel,
+  - bb) az Európai Parlament és a Tanács (EU) 2015/2365 rendelet 15. cikkének megsértése esetén a bírság mértéke legfeljebb 4 769 550 000 forint vagy a döntéshozó szerv által legutoljára jóváhagyott éves beszámoló szerinti árbevétel legfeljebb 10%-a, azzal, hogy ha a jogi személy anyavállalat vagy anyavállalat olyan leányvállalata, amelyik a számviteli jogszabályok alapján konszolidált beszámoló készítésére kötelezett, akkor a figyelembe veendő éves árbevétel a legutolsó, az anyavállalat döntéshozó szerve által jóváhagyott konszolidált beszámoló szerinti éves árbevétel vagy a számviteli jogszabályok szerinti, annak megfelelő bevétel.
+
+(14) Az Európai Parlament és a Tanács (EU) 2015/2365 rendelete megsértése esetén a bírság mértéke legfeljebb a jogsértésből származó nyereség vagy a jogsértés révén elkerült veszteség összege háromszorosának megfelelő összeg – amennyiben a veszteség, illetve a nyereség az MNB által meghatározható –, abban az esetben is, ha az meghaladja a (13) bekezdés a) és b) pontjában foglalt összegeket.
+
 77. § (1) A bírságot a kiszabásáról hozott döntés jogerőre emelkedésétől számított harminc napon belül kell a döntésben megjelölt számlára befizetni.
 
 (2) Nem kötelezhető bírság fizetésére az, aki bizonyítani tudja, hogy úgy járt el, ahogy az ilyen tisztséget vagy az adott munkakört betöltő személytől az adott helyzetben általában elvárható.
@@ -1376,7 +1398,7 @@ tarthat.
 
 - a) engedély nélkül vagy bejelentés hiányában végzett pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási, tőzsdei, árutőzsdei szolgáltatási, befektetési alapkezelési, központi értéktári, önkéntes kölcsönös biztosító pénztári, magánnyugdíjpénztári, biztosítási, viszontbiztosítási, foglalkoztatói nyugdíj szolgáltatói, befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás, közvetítői (ügynöki) tevékenység gyanúja esetén,
 - b) bennfentes kereskedelem vagy piacbefolyásolás gyanúja esetén,
-- c) bennfentes személyre vonatkozó bejelentési és közzétételi kötelezettségre vonatkozó szabályok ellenőrzése céljából,
+- c) bennfentes személyre vonatkozó bejelentési kötelezettségre vonatkozó szabályok ellenőrzése céljából,
 - d) a vállalatfelvásárlásra vonatkozó szabályok ellenőrzése céljából,
 - e) a 236/2012/EU európai parlamenti és tanácsi rendelet 5–8. cikkében előírt bejelentési és közzétételi kötelezettségre és 12–14. cikkében előírt fedezetlen ügyletek korlátozására vonatkozó szabályok ellenőrzése céljából [az a)–e) pont a továbbiakban együtt: piacfelügyeleti eljárás].
 
@@ -1523,15 +1545,15 @@ adatok megismerésére és kezelésére.
 (5) Piacfelügyeleti eljárás során
 
 - a) az engedély nélkül vagy bejelentés hiányában végzett tevékenység esetén a piacfelügyeleti bírság összege százezer forinttól kettőmilliárd forintig,
-- b) a bennfentes kereskedelemre, piacbefolyásolásra és a vállalatfelvásárlásra vonatkozó szabályok megsértése esetén a piacfelügyeleti bírság összege százezer forinttól kettőmilliárd forintig,
-- c) a bennfentes személyre vonatkozó közzétételi és bejelentési kötelezettség megsértése esetén a piacfelügyeleti bírság összege százezer forinttól tízmillió forintig,
+- b) a vállalatfelvásárlásra vonatkozó szabályok megsértése esetén a piacfelügyeleti bírság összege százezer forinttól kettőmilliárd forintig,
+- c) a 76. § (12) bekezdésében meghatározottak megsértése esetén a piacfelügyeleti bírság összege a 76. § (12) bekezdésében rögzített összegig,
 - d) a 236/2012/EU európai parlamenti és tanácsi rendelet 5–8. cikkében előírt bejelentési és közzétételi kötelezettség, valamint a 12–14. cikkében előírt fedezetlen ügyletkötési korlátozások megsértése esetén a piacfelügyeleti bírság összege százezer forinttól kettőmilliárd forintig
 
 terjedhet.
 
 (5a) Nem természetes személy ügyfél esetén az ügyfél piacfelügyeleti bírsággal sújtott tevékenységében érdemben közreműködő természetes személlyel szemben kiszabható piacfelügyeleti bírság összege – a 93. § (5) bekezdés alkalmazásán felül – százezer forinttól százmillió forintig terjedhet.
 
-(6) A kiszabható piacfelügyeleti bírság felső határa az (5) bekezdés b) pontjától eltérően az elért árfolyamnyereség vagy elkerült árfolyamveszteség négyszáz százaléka, ha az árfolyam-különbözet mértéke tételesen kimutatható és az magasabb, mint az (5) bekezdés b) pontjában meghatározott bírságtétel felső határa.
+(6) A kiszabható piacfelügyeleti bírság felső határa az (5) bekezdés c) pontjától eltérően az elért árfolyamnyereség vagy elkerült árfolyamveszteség négyszáz százaléka, ha az árfolyam-különbözet mértéke tételesen kimutatható és az magasabb, mint az (5) bekezdés c) pontjában meghatározott bírságtétel felső határa.
 
 (7) Ha az MNB a piacfelügyeleti rendelkezések betartását az ellenőrzési eljárás keretében ellenőrzi, akkor az ellenőrzési eljárásra a 90. és 91. §-t is alkalmazni kell.
 
@@ -1839,7 +1861,7 @@ terjedhet.
 
 (7) Az igazolási kérelemnek a végrehajtásra halasztó hatálya van.
 
-(8) Az ellentmondást – igazolási kérelem benyújtása esetén az igazolási kérelmet és egyben az ellentmondást – elutasító határozat ellen az ellentmondást előterjesztő fél fellebbezhet. A fellebbezést a fogyasztó belföldi lakóhelye, belföldi lakóhely hiányában a belföldi tartózkodási helye szerinti törvényszék a Pp. végzések elleni fellebbezésre vonatkozó szabályai szerint nemperes eljárásban bírálja el. Ha a fogyasztó belföldi lakóhellyel, tartózkodási hellyel nem rendelkezik, a törvényszék illetékességét az alperes lakóhelye, ennek hiányában tartózkodási helye, vagy – ha az alperes nem természetes személy – az alperes székhelye alapítja meg.
+(8) Az ellentmondást – igazolási kérelem benyújtása esetén az igazolási kérelmet és egyben az ellentmondást – elutasító határozat ellen az ellentmondást előterjesztő fél fellebbezhet. A fellebbezést a fogyasztó belföldi lakóhelye, belföldi lakóhely hiányában a belföldi tartózkodási helye szerinti törvényszék a Pp. végzések elleni fellebbezésre vonatkozó szabályai szerint nemperes eljárásban bírálja el. Ha a fogyasztó belföldi lakóhellyel, tartózkodási hellyel nem rendelkezik, a törvényszék illetékességét az ellentmondást előterjesztő fél lakóhelye, ennek hiányában tartózkodási helye, vagy – ha az ellentmondást előterjesztő fél nem természetes személy – az ellentmondást előterjesztő fél székhelye alapítja meg.
 
 122. § (1) A kellő időben előterjesztett ellentmondás folytán az eljárás perré alakul át.
 
@@ -1858,7 +1880,7 @@ terjedhet.
 (6) A Pénzügyi Békéltető Testület a felhívást azzal a figyelmeztetéssel látja el, hogy
 
 - a) az abban foglaltak elmulasztása esetében a bíróság a pert megszünteti, valamint
-- b) ha a kérelmező a Pp. alapján elektronikus kapcsolattartásra köteles vagy a Pp. alapján az elektronikus kapcsolattartást választja, az ügyre vonatkozó részletes tényállításait, bizonyítékait, és minden további beadványát és okirati bizonyítékát kizárólag elektronikus úton nyújthatja be, továbbá az illetéket elektronikusan vagy a Magyar Államkincstár illeték-bevételi számlájára köteles megfizetni.
+- b) ha a fogyasztó a Pp. alapján elektronikus kapcsolattartásra köteles vagy a Pp. alapján az elektronikus kapcsolattartást választja, az ügyre vonatkozó részletes tényállításait, bizonyítékait, és minden további beadványát és okirati bizonyítékát kizárólag elektronikus úton nyújthatja be, továbbá az illetéket elektronikusan vagy a Magyar Államkincstár illeték-bevételi számlájára köteles megfizetni.
 
 (7) Ha a fogyasztó a felhívásban foglaltaknak nem tesz eleget, a bíróság a pert megszünteti.
 
@@ -2436,7 +2458,7 @@ részére forintban és külföldi pénznemben bankszámlát vezetni.
 - a) a fogyasztóvédelemről szóló törvényben meghatározott, fogyasztói érdekek képviseletét ellátó egyesületeket, továbbá
 - b) azokat az EGT bármely államának joga alapján létrejött feljogosított egységeket az általuk védett fogyasztói érdekek védelme körében, amelyek a 2009/22/EK európai parlamenti és tanácsi irányelv 4. cikk (3) bekezdése alapján az Európai Unió Hivatalos Lapjában közzétett jegyzéken szerepelnek, feltéve, hogy a keresetben érvényesített igény a 41. § (1) bekezdésében meghatározott irányelveket átültető jogszabályi rendelkezések megsértésén alapul.
 
-(9) Az MNB a 4. § (9) bekezdésben meghatározott feladatkörében – a Ptk. 6:105. §-a alapján az abban foglalt szabályok szerint – közérdekű keresetet terjeszthet elő a fogyasztó és a pénzügyi intézmény közötti szerződés részévé váló tisztességtelen általános szerződési feltétel érvénytelenségének megállapítása iránt.
+(9) Az MNB a 4. § (9) bekezdésben meghatározott feladatkörében – a Ptk. 6:105. §-a alapján, az abban foglalt szabályok szerint – közérdekű keresetet terjeszthet elő a fogyasztó és a 39. §-ban meghatározott törvények hatálya alá tartozó szervezet vagy személy közötti szerződés részévé váló tisztességtelen általános szerződési feltétel érvénytelenségének megállapítása iránt.
 
 #### 48/A. A bejelentők védelme
 
@@ -2869,7 +2891,9 @@ végrehajtásához szükséges rendelkezéseket állapítja meg az MNB feladatk�
 - d) (4) bekezdése a Közösségben történő határokon átnyúló fizetésekről és a 2560/2001/EK rendelet hatályon kívül helyezéséről szóló, 2009. szeptember 16-i 924/2009/EK európai parlamenti és tanácsi rendelet 9., 10., 12. és 13. cikkének,
 - e) (5) bekezdése a hitelminősítő intézetekről szóló 2009. szeptember 16-i 1060/2009/EK európai parlamenti és tanácsi rendelet 22. cikk (1) bekezdése és 25a. cikke,
 - f) (8) bekezdése a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelete,
-- g) (16) bekezdése a 909/2014/EU rendelet
+- g) (16) bekezdése a 909/2014/EU rendelet,
+- h) (20) bekezdése a piaci visszaélésekről (piaci visszaélésekről szóló rendelet), valamint a 2003/6/EK európai parlamenti és tanácsi irányelv és a 2003/124/EK, a 2003/125/EK és a 2004/72/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 596/2014/EU európai parlamenti és tanácsi rendelet,
+- i) (24) bekezdése az értékpapír-finanszírozási ügyletek és az újrafelhasználás átláthatóságáról, valamint a 648/2012/EU rendelet módosításáról szóló, 2015. november 25-i (EU) 2015/2365 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg az MNB feladatkörében és eljárásában.
 
