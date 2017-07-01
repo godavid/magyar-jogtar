@@ -739,6 +739,8 @@ rendkívüli szünetet rendel el.
 
 (4) A köznevelési feladatokat ellátó hatóság törvényességi ellenőrzési eljárására a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény hatósági ellenőrzésre vonatkozó szabályait kell megfelelően alkalmazni.
 
+34/A. § Ha az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény 28. § (2)–(2b) bekezdése alapján olyan nevelési-oktatási intézmény, osztály vagy óvodai csoport jön létre, amely egyidejűleg nyújt vallási vagy más világnézeti meggyőződésen alapuló és nemzetiségi nevelés-oktatást, annak egyidejűleg meg kell felelnie a kifejezetten a vallási vagy más világnézeti meggyőződésen alapuló és a nemzetiségi nevelés-oktatásra e törvényben és a nemzetiségek jogairól szóló törvényben előírt feltételeknek.
+
 35. § (1) Az állam, a helyi önkormányzat vagy a nemzetiségi önkormányzat által fenntartott nevelési-oktatási intézményben a szülő, tanuló kérésére szervezett és nem a kötelező tanórai foglalkozások részét képező hitoktatást (a továbbiakban: fakultatív hitoktatás) és az etika óra helyett választható hit- és erkölcstanoktatást egyházi jogi személy szervezhet az e törvényben meghatározott keretek között.
 
 (2) A fakultatív hitoktatás az óvodában az óvodai foglalkozásoktól elkülönítve, az óvodai életrendet figyelembe véve – a nyitvatartási időn belül, de nevelési időnek nem minősülő időkeretben –, az iskolában a kötelező tanórai foglalkozások rendjéhez, a kollégiumban pedig a kollégiumi foglalkozások rendjéhez illeszkedően szervezhető.
@@ -2631,7 +2633,7 @@ egyetértésben gyakorolja.
 - w) a pedagógiai szakszolgálati tevékenységek során alkalmazott integrált nyomonkövető rendszer létrehozását, működtetését, az információs rendszer részére történő adatszolgáltatás rendjét,
 - x) a lemorzsolódással veszélyeztetett tanulónak minősülés részletes feltételeit, a pedagógiai-szakmai szolgáltatások körébe tartozó, a lemorzsolódással veszélyeztetett tanulók támogatásához kapcsolódó korai jelző- és pedagógiai támogató rendszer létrehozását, működtetését, és az ennek keretében történő adatszolgáltatás rendjét,
 - y) a köznevelési szerződés tartalmát, érvényességi idejét és a megkötésére vonatkozó eljárásrendet,
-- z) a vallási, világnézeti tekintetben elkötelezett, továbbá nemzetiségi iskolai nevelés-oktatás szervezésének az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény 28. § (2) bekezdésében meghatározott feltételek érvényesülését szolgáló sajátos feltételeit, különös tekintettel a jogellenes elkülönítés tilalmára
+- z)
 
 rendeletben állapítsa meg.
 

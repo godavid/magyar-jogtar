@@ -520,6 +520,8 @@ nyilatkozatára is alkalmazni kell.
   - dc) elvesztése, megrongálódása, megsemmisülése esetén az igazolvány pótlására vonatkozó bejegyzés,
 - e) a nyilvántartás megszűnésének, megszüntetésének időpontja és jogalapja.
 
+33/B. § Az Integrált Jogvédelmi Szolgálatot vezető jogvédelmi biztos helyettes államtitkári illetményre és juttatásokra jogosult.
+
 ### A közvetítői tanács
 
 34. § (1) A beteg és az egészségügyi szolgáltató között felmerülő jogviták peren kívüli megoldására a felek együttesen kezdeményezhetik a jogvita közvetítői eljárás keretében történő rendezését.
@@ -3718,7 +3720,7 @@ rendeletben kijelölje.
 - h) a nem-konvencionális eljárásokra vonatkozó szabályokat
 - i) az állami mentőszolgálat vagy mentőszolgálatok kijelölését és az állami mentőszolgálat működésére vonatkozó részletes szabályokat,
 - j) az állami vérellátó szolgálat vagy szolgálatok kijelölését és az állami vérellátó szolgálat működésére vonatkozó részletes szabályokat,
-- k) a betegjogi, ellátottjogi és gyermekjogi képviselőt foglalkoztató, továbbá a jogutód nélkül megszűnt egészségügyi intézmények egészségügyi dokumentációjának kezeléséért, valamint az egészségügyi minőségfejlesztési feladatok és az egészségügyi szolgáltatók akkreditációs tevékenységének koordinálásáért felelős, illetve a betegjog-, -biztonság érvényesülését elősegítő szerv feladat- és hatáskörét, a betegjogi, ellátottjogi és gyermekjogi képviselő jogállását és eljárását, a jogviszonyára, a képzettségére, a tevékenysége végzésének feltételeire, az összeférhetetlenségére vonatkozó szabályokat, a betegjogi, ellátottjogi és gyermekjogi képviselőt foglalkoztató szervre vonatkozó részletes szabályokat, a szervvel kapcsolatos munkáltatói jogok gyakorlásának módját, valamint a betegjogi, ellátottjogi és gyermekjogi nyilvántartás vezetésének szabályait, továbbá a betegjogi, ellátottjogi és gyermekjogi képviselők továbbképzésére vonatkozó szabályokat,
+- k) a betegjogi, ellátottjogi és gyermekjogi képviselőt foglalkoztató szerv feladat- és hatáskörét, a betegjogi, ellátottjogi és gyermekjogi képviselő jogállását és eljárását, a jogviszonyára, a képzettségére, a tevékenysége végzésének feltételeire, az összeférhetetlenségére vonatkozó szabályokat, a betegjogi, ellátottjogi és gyermekjogi képviselőt foglalkoztató szervre vonatkozó részletes szabályokat, valamint a betegjogi, ellátottjogi és gyermekjogi képviselői nyilvántartás vezetésének szabályait, továbbá a betegjogi, ellátottjogi és gyermekjogi képviselők képzésére, továbbképzésére vonatkozó szabályokat,
 - l) a külön jogszabály szerinti beavatkozással nem járó vizsgálat esetében a szakmai-etikai engedélyt kiadó szervet,
 - m) az egészségügyi felsőfokú szakirányú szakképzés tekintetében:
   - ma) az egészségügyi felsőfokú szakirányú szakképzés szabályait,
@@ -3846,7 +3848,8 @@ rendeletben állapítsa meg.
   - nb) a kockázatbecslés, kockázatelemzés szabályait,
 - o) az egészségfejlesztési irodák jogállására, feladat- és hatáskörére, finanszírozására vonatkozó részletszabályokat, valamint a járási (fővárosi kerületi) egészségterv tartalmi követelményeit,
 - p) az állami és nem állami szervezetek hazai és nemzetközi egészségügyi segítségnyújtásra vonatkozó szabályokat, valamint az ilyen tevékenységet végzők nyilvántartására és felkészítésére vonatkozó szabályokat,
-- q) a prehospitális gyógyszeralkalmazás szabályait
+- q) a prehospitális gyógyszeralkalmazás szabályait,
+- r) az állami fenntartásban működő országos gyógyintézetek körét és az országos gyógyintézetek működésére vonatkozó speciális szabályokat
 
 rendeletben állapítsa meg.
 
@@ -3891,7 +3894,7 @@ rendeletben állapítsa meg.
 - f) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK európai parlamenti és tanácsi irányelvnek a farmakovigilancia tekintetében történő módosításáról szóló 2010. december 15-i 2010/84/EU európai parlamenti és tanácsi irányelv. 107m. cikk (1)–(4) és (8) bekezdések, 107n. cikk (2) bekezdés;
 - g) a Bizottság 2015/566/EU irányelve a 2004/23/EK irányelvnek az importált szövetekre és sejtekre vonatkozó minőségi és biztonsági előírások egyenértékűségének ellenőrzését szolgáló eljárások tekintetében történő végrehajtásáról;
 - i)
-- j) a Tanács 1996. május 13-i 96/29/EURATOM irányelve a munkavállalók és a lakosság egészségének az ionizáló sugárzásból származó veszélyekkel szembeni védelmét szolgáló alapvető biztonsági előírások megállapításáról,
+- j) a Tanács 2013/59/EURATOM Irányelve (2013. december 5.) az ionizáló sugárzás miatti sugárterhelésből származó veszélyekkel szembeni védelmet szolgáló alapvető biztonsági előírások megállapításáról, valamint a 89/618/Euratom, a 90/641/Euratom, a 96/29/Euratom, a 97/43/Euratom és a 2003/122/Euratom irányelv hatályon kívül helyezéséről;
 - k) az Európai Parlament és a Tanács 2004/38/EK irányelve az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről, 24. cikk,
 - l) az Európai Parlament és a Tanács 2011/24/EU irányelve (2011. március 9.) a határon átnyúló egészségügyi ellátásra vonatkozó betegjogok érvényesítéséről.
 

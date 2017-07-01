@@ -857,7 +857,7 @@ az egyébként járó illeték kétszeresét kell megfizetnie, kivéve a vagyons
 
 (7) A közigazgatási nemperes eljárások illetékének mértéke 10 000 forint.
 
-(8) A csődeljárás, a felszámolási eljárás, továbbá a természetes személyek bírósági adósságrendezési eljárása során benyújtott kifogás, valamint a végrehajtási kifogás illetéke 15000 forint. Ha a kifogás alapos, a bíróság a kifogásnak helyt adó döntésében hivatalból rendelkezik a kifogás illetékének a kifogást előterjesztő részére történő visszatérítéséről.
+(8) A csődeljárás, a felszámolási eljárás, továbbá a természetes személyek bírósági adósságrendezési eljárása során benyújtott kifogás, valamint a végrehajtási kifogás illetéke 15 000 forint. Ha a kifogás alapos, a bíróság a kifogásnak helyt adó döntésében hivatalból rendelkezik a kifogás, valamint a kifogás tárgyában hozott bírósági végzés elleni jogorvoslati eljárás illetékének a kifogást előterjesztő részére történő visszatérítéséről.
 
 (9) Az előzetes jognyilatkozatok nyilvántartásba való bejegyzésének illetéke 15 000 forint.
 
@@ -1119,7 +1119,7 @@ esetében.
 - s) a választási bizottság határozatának felülvizsgálatára irányuló nemperes eljárásban,
 - t) a szabálysértéssel okozott kár megfizetésére kötelező végrehajtási eljárásban;
 - u) a hallgatói hitelből eredő követelés érvényesítése és behajtása iránti peres és nemperes eljárásban;
-- v) a csődeljárásról és a felszámolási eljárásról szóló törvény szerinti hitelező által a csődeljárásról és a felszámolási eljárásról szóló törvény alapján indított bírósági eljárásban.
+- v) a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 33/A., 40., 63. és 63/A. §-a alapján a hitelezők által indított perekben.
 
 (2) Az (1) bekezdés a)–c) és g)–h), továbbá l) pontjaiban említett perek esetén, ha az összegszerűség megállapítása a bíróság mérlegelésétől függ és a kereset nem volt nyilvánvalóan eltúlzott, részleges pervesztesség esetén a bíróság a fél illetékfizetésre való kötelezését mellőzheti.
 

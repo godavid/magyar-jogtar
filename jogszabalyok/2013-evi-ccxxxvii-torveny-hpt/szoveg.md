@@ -94,6 +94,7 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 - 2. anticiklikus tőkepufferráta: a hitelintézet tevékenységéhez kapcsolódó prociklikusság csökkentését célzó tőkepuffer-követelmény meghatározásához alkalmazott arányszám, amelyet a hitelintézet a kitettségeihez kapcsolódó felek vonatkozásában alkalmaz azok földrajzi elhelyezkedése alapján;
 - 3. anyavállalat: minden olyan vállalkozás, amely egy másik vállalkozás működésére ellenőrző befolyást gyakorol;
 - 4. arany kereskedelmi ügylet: a színaranyra (arany, amelynek finomsága legalább 995/1000), továbbá – aranytartalmára tekintet nélkül – a rúdaranyra és az aranytömbre, valamint a forgalomban nem lévő arany pénzérmére és – numizmatikai céllal – a forgalomban lévő arany pénzérmére kötött ügylet;
+- 4a. azonosított elektronikus út: olyan személyre szabott elektronikus eljárás, amely a nyilatkozattevő személyének és a nyilatkozat megtétele időpontjának egyértelmű azonosítására és a jognyilatkozat tartalmának változatlan visszaidézésére alkalmas formában teszi lehetővé a jognyilatkozat megtételét;
 - 5. befektetés: az ingatlan, az ingó dolog, a vagyoni értékű jog, illetve a vállalkozásokban fennálló részesedés (részvény, üzletrész, tagsági viszony stb.), valamint a más pénzügyi vállalkozás részére nyújtott alárendelt kölcsöntőke;
 - 6. befolyásoló részesedés: az 575/2013/EU európai parlamenti és tanácsi rendeletben (a továbbiakban: 575/2013/EU rendelet) ekként meghatározott fogalom;
 - 7. belső módszer: az 575/2013/EU rendeletben belső minősítésen alapuló módszerként meghatározott fogalom;
@@ -274,6 +275,7 @@ azzal, hogy nem minősül versengő szolgáltatásnak a kézizálog fedezete mel
   - e) az alapítványi formában működő pénzügyi vállalkozás esetén a kuratórium tagja, a felügyelő bizottság elnöke, valamint az ügyvezető, valamint
   - f) független közvetítő esetén a pénzügyi szolgáltatás közvetítésének irányítását végző személy, valamint valamennyi helyettese,
   - g) jelzáloghitel közvetítői tevékenységet végző közvetítő esetén az irányítási jogkörrel rendelkező vezető testület tagja, a pénzügyi szolgáltatás közvetítésének irányítását végző személy és valamennyi helyettese,
+  - h) függő ügynök esetén az irányítási jogkörrel rendelkező vezető testület tagja, a pénzügyi szolgáltatás közvetítésének irányítását végző személy és valamennyi helyettese,
 - 123. vezető testület: a pénzügyi intézmény igazgatósága és felügyelő bizottsága, valamint annak vezetői és tagjai, ideértve a fióktelep formájában működő pénzügyi intézmény vezető állású személyeit is.
 
 (2) A X. Fejezet alkalmazásában
@@ -414,7 +416,7 @@ végez (a továbbiakban együtt: független közvetítő).
 
 (2) Pénzforgalmi közvetítői tevékenység az egyes fizetési szolgáltatókról szóló törvény alapján végezhető.
 
-(3) A közvetítői alvállalkozó – ide nem értve a pénzügyi intézményt és a biztosítót – a pénzügyi szolgáltatás közvetítése teljesítéséhez további megbízási szerződést nem köthet. Közvetítővel jogviszonyban álló közvetítői alvállalkozó pénzügyi szolgáltatási tevékenység végzésére irányuló további jogviszonyt pénzügyi intézménnyel vagy más közvetítővel nem létesíthet.
+(3) A közvetítő – ide nem értve a pénzügyi intézményt, a befektetési vállalkozást és a biztosítót – közvetítői alvállalkozója a pénzügyi szolgáltatás közvetítése teljesítéséhez további megbízási szerződést nem köthet. Közvetítővel jogviszonyban álló közvetítői alvállalkozó pénzügyi szolgáltatási tevékenység végzésére irányuló további jogviszonyt pénzügyi intézménnyel vagy más közvetítővel nem létesíthet.
 
 (4) A független közvetítő, valamint a jelzáloghitel közvetítői tevékenységet végző függő közvetítő a pénzügyi szolgáltatás közvetítését kizárólag a Felügyelet e törvényben meghatározott engedélyével végezheti.
 
@@ -616,7 +618,7 @@ induló tőkével alapítható.
 - d) nyilatkozatot arról, hogy egyéb tulajdonosi érdekeltsége és tevékenysége nem veszélyezteti a pénzügyi intézmény működését,
 - e) természetes személy esetén a bűnügyi nyilvántartó szerv által kiállított – büntetlen előéletet igazoló – hatósági bizonyítványt vagy a személyes joga szerinti ennek megfelelő okiratot,
 - f) nem természetes személy esetén a kérelem benyújtásakor hatályos létesítő okiratát, harminc napnál nem régebbi okirati igazolást arról, hogy a személyes joga szerinti bejegyzése (nyilvántartásba vétele) megtörtént, nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt, valamint vezető állású személyével szemben kizáró ok nem áll fenn,
-- g) nem természetes személy kérelmező esetén a tulajdonosi szerkezetének részletes leírását, valamint ha a kérelmezőre az összevont alapú felügyelet kiterjed, ezen körülményeknek a részletes leírását, továbbá az összevont alapú felügyelet alá tartozó hitelintézet, befektetési vállalkozás előző évre vonatkozó konszolidált éves beszámolóját, ha konszolidált beszámoló készítésére kötelezett,
+- g) nem természetes személy kérelmező esetén a tulajdonosi szerkezetének okiratokkal alátámasztott részletes leírását, továbbá – amennyiben ez lehetséges – a tényleges tulajdonosok bemutatását, valamint ha a kérelmezőre az összevont alapú felügyelet kiterjed, ezen körülményeknek a részletes leírását, továbbá az összevont alapú felügyelet alá tartozó hitelintézet, befektetési vállalkozás előző évre vonatkozó konszolidált éves beszámolóját, ha konszolidált beszámoló készítésére kötelezett,
 - h) nyilatkozatot arról, hogy milyen – az Szmt. szerinti – függő és jövőbeni kötelezettségei vannak, valamint
 - i) a kérelmező teljes bizonyító erejű magánokiratban foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárul az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának a Felügyelet által megkeresett szervek útján történő ellenőrzéséhez.
 
@@ -788,7 +790,8 @@ induló tőkével alapítható.
 - a) az engedélyezési eljárásban megtévesztő vagy valótlan adatot közöl,
 - b) által alapítani kívánt pénzügyi intézmény nem felel meg az induló tőkére, a társasági formára, cégformára, a tulajdonlásra, és az irányító testületekre vonatkozó törvényi követelményeknek,
 - c) devizakülföldi, és nincs kézbesítési megbízottja, vagy
-- d) a hitelintézettel szoros kapcsolatban álló személyre vonatkozó harmadik országbeli jogrend nem teszi lehetővé az összevont alapú felügyeleti feladatok ellátását.
+- d) a hitelintézettel szoros kapcsolatban álló személyre vonatkozó harmadik országbeli jogrend nem teszi lehetővé az összevont alapú felügyeleti feladatok ellátását,
+- e) tevékenységével kapcsolatosan feltételezhető, hogy az erre vonatkozó jogszabályok értelmében pénzmosást vagy terrorizmus-finanszírozást követnek vagy követtek el, vagy kísérelnek vagy kíséreltek meg elkövetni, vagy hogy a szándékolt tevékenység növelheti ennek kockázatát.
 
 (2) A Felügyelet a fióktelep alapítására irányuló kérelmet akkor is elutasítja, ha a 18. § (1) bekezdésében, vagy a 19. §-ban felsorolt feltételek valamelyike nem teljesül.
 
@@ -1253,7 +1256,9 @@ szükséges sorolni azzal, hogy e követelések a követelések arányában ker�
 
 (3) A független közvetítő a pénzügyi szolgáltatás közvetítéséért közvetítői díjat kizárólag a megbízótól fogadhat el. E rendelkezés nem érinti a független közvetítő azon jogosultságát, hogy a pénzügyi szolgáltatás közvetítését igénybe vevő ügyfele számára más – a pénzügyi szolgáltatás közvetítésének nem minősülő – szolgáltatása ellenértékeként díjat számítson fel azzal, hogy hitel-tanácsadási tevékenység nyújtása ellenértékeként kizárólag akkor jogosult díjat felszámítani, ha az általa ajánlott jelzáloghitel vagy fogyasztónak nyújtott ingatlanra vonatkozó pénzügyi lízing után az érintett pénzügyi intézménytől nem kap közvetítői díjat.
 
-(4) A közvetítői díj időbeni ütemezése – ide nem értve az alkusznak fizetendő közvetítői díjat – arányos a közvetített pénzügyi szolgáltatás futamidejével, valamint szerződésszerű teljesítésével. Jelzáloghitel közvetítői tevékenységet végző független közvetítőt – ide nem értve az alkuszt – megillető közvetítői díj mértéke nem haladhatja meg az adott jelzáloghitel folyósításakor, illetve ingatlanra vonatkozó pénzügyi lízing nyújtásakor meghatározott tőketartozás (pénzügyi lízing esetében ideértve a maradványértéket is) kettő százalékát. Fennálló jelzáloghitel-szerződés, illetve ingatlanra vonatkozó pénzügyi lízingszerződés módosítása során eljáró független közvetítő tekintetében a közvetítői díj mértéke nem haladhatja meg a jelzáloghitel-szerződés módosításakor fennálló tőketartozás, illetve lízingszerződés alapján fennálló tartozás (ideértve a maradványértéket is) kettő százalékát. A független közvetítő a megbízó pénzügyi intézmény felé közvetítői díjat kizárólag az egyedi jelzáloghitelek és lízingszerződések alapján, egyedileg számíthat fel, egyéb módon (így különösen a folyósított állomány alapján) további díjazást nem számíthat fel.
+(3a) A közvetítői díj időbeni ütemezése – ide nem értve az alkusznak fizetendő közvetítői díjat – arányos a közvetített pénzügyi szolgáltatás futamidejével, valamint szerződésszerű teljesítésével.
+
+(4) Jelzáloghitel közvetítői tevékenységet végző független közvetítőt – ide nem értve az alkuszt – megillető közvetítői díj mértéke nem haladhatja meg az adott jelzáloghitel folyósításakor, illetve ingatlanra vonatkozó pénzügyi lízing nyújtásakor meghatározott tőketartozás (pénzügyi lízing esetében ideértve a maradványértéket is) kettő százalékát. Fennálló jelzáloghitel-szerződés, illetve ingatlanra vonatkozó pénzügyi lízingszerződés módosítása során eljáró független közvetítő tekintetében a közvetítői díj mértéke nem haladhatja meg a jelzáloghitel-szerződés módosításakor fennálló tőketartozás, illetve lízingszerződés alapján fennálló tartozás (ideértve a maradványértéket is) kettő százalékát. A független közvetítő a megbízó pénzügyi intézmény felé közvetítői díjat kizárólag az egyedi jelzáloghitelek és lízingszerződések alapján, egyedileg számíthat fel, egyéb módon (így különösen a folyósított állomány alapján) további díjazást nem számíthat fel.
 
 (4a) A (4) bekezdés vonatkozásában közvetítői díjnak kell tekinteni minden olyan pénzben vagy természetben juttatott további térítést, amelyet a közvetítő vagy a közvetítővel kapcsolatban álló harmadik személy a pénzügyi szolgáltatást nyújtó személytől, pénzügyi szolgáltatást nyújtó személy felett ellenőrző befolyással rendelkező személytől vagy az utóbbi ellenőrző befolyása alatt álló más személytől kap bármely pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási, befektetési szolgáltatási és kiegészítő befektetési szolgáltatási tevékenységnek nem minősülő jogviszony alapján, ide nem értve, ha a közvetítő és a pénzügyi szolgáltatást nyújtó személy között ellenőrző befolyásnak minősülő kapcsolat áll fenn, vagy mindketten ugyanazon pénzügyi intézmény ellenőrző befolyása alatt állnak.
 
@@ -1261,7 +1266,7 @@ szükséges sorolni azzal, hogy e követelések a követelések arányában ker�
 
 (6) Az alkusz az alkuszi tevékenységen, valamint a hitel-tanácsadási tevékenységen kívül más pénzügyi és kiegészítő pénzügyi szolgáltatást nem végezhet.
 
-(7) A kizárólag magánszemélyek részére a mindennapi élet felszerelési tárgyainak, tartós fogyasztási cikkeinek (ide nem értve a gépjárművet) megvásárlásához nyújtott hitel- és pénzkölcsönt közvetítő többes ügynökre a 21. § (3) bekezdés b) pontjában, a 21. § (7) bekezdés d) pontjában, 73. §-ban , 74. §-ban, valamint 208. § (1) bekezdésében foglalt rendelkezéseket nem szükséges alkalmazni.
+(7) A kizárólag magánszemélyek részére a mindennapi élet felszerelési tárgyainak, tartós fogyasztási cikkeinek (ide nem értve a gépjárművet) megvásárlásához nyújtott hitel- és pénzkölcsönt közvetítő többes ügynökre a 21. § (3) bekezdés b) pontjában, a 21. § (7) bekezdés e) pontjában, 73. §-ban , 74. §-ban, valamint 208. § (1) bekezdésében foglalt rendelkezéseket nem szükséges alkalmazni.
 
 (8) A független közvetítő felelősségbiztosítási szerződésének megszűnését bejelenti és új felelősségbiztosítási szerződésének meglétére vonatkozó fedezetigazolást bemutatja a megszűnést és a megkötést követő 5 munkanapon belül.
 
@@ -1275,9 +1280,11 @@ szükséges sorolni azzal, hogy e követelések a követelések arányában ker�
 
 (2) A függő közvetítő a pénzügyi szolgáltatás közvetítéséért kizárólag a megbízó pénzügyi intézménytől jogosult közvetítői díjra. E rendelkezés nem érinti a függő közvetítő azon jogosultságát, hogy a pénzügyi szolgáltatás közvetítését igénybe vevő ügyfele számára más – a pénzügyi szolgáltatás közvetítésének nem minősülő – szolgáltatása ellenértékeként díjat számítson fel azzal, hogy hitel-tanácsadási tevékenység nyújtása ellenértékeként kizárólag akkor jogosult díjat felszámítani, ha az általa ajánlott jelzáloghitel vagy fogyasztónak nyújtott ingatlanra vonatkozó pénzügyi lízing után az érintett pénzügyi intézménytől nem kap közvetítői díjat.
 
-(3) A közvetítői díj időbeni ütemezése arányos a közvetített pénzügyi szolgáltatás futamidejével, valamint szerződésszerű teljesítésével. Jelzáloghitel közvetítői tevékenységet végző függő közvetítőt megillető közvetítői díj mértéke nem haladhatja meg az adott jelzáloghitel folyósításakor, illetve ingatlanra vonatkozó pénzügyi lízing nyújtásakor meghatározott tőketartozás (pénzügyi lízing esetében ideértve a maradványértéket is) kettő százalékát. Fennálló jelzáloghitel-szerződés, illetve ingatlanra vonatkozó pénzügyi lízingszerződés módosítása során eljáró függő közvetítő tekintetében a közvetítői díj mértéke nem haladhatja meg a jelzáloghitel-szerződés módosításakor fennálló tőketartozás, illetve lízingszerződés alapján fennálló tartozás (ideértve a maradványértéket is) kettő százalékát. A függő közvetítő a megbízó pénzügyi intézmény felé közvetítői díjat kizárólag az egyedi jelzáloghitelek és lízingszerződések alapján, egyedileg számíthat fel, egyéb módon (így különösen a folyósított állomány alapján) további díjazást nem számíthat fel.
+(2a) A közvetítői díj időbeni ütemezése arányos a közvetített pénzügyi szolgáltatás futamidejével, valamint szerződésszerű teljesítésével.
 
-(3a) A (3) bekezdés vonatkozásában közvetítői díjnak kell tekinteni minden olyan pénzben vagy természetben juttatott további térítést, amelyet a közvetítő vagy a közvetítővel kapcsolatban álló harmadik személy a pénzügyi szolgáltatást nyújtó személytől, pénzügyi szolgáltatást nyújtó személy felett ellenőrző befolyással rendelkező személytől vagy az utóbbi ellenőrző befolyása alatt álló más személytől kap bármely pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási, befektetési szolgáltatási és kiegészítő befektetési szolgáltatási tevékenységnek nem minősülő jogviszony alapján, ide nem értve, ha a közvetítő és a pénzügyi szolgáltatást nyújtó személy között ellenőrző befolyásnak minősülő kapcsolat áll fenn, vagy mindketten ugyanazon pénzügyi intézmény ellenőrző befolyása alatt állnak.
+(3) Jelzáloghitel közvetítői tevékenységet végző függő közvetítőt megillető közvetítői díj mértéke nem haladhatja meg az adott jelzáloghitel folyósításakor, illetve ingatlanra vonatkozó pénzügyi lízing nyújtásakor meghatározott tőketartozás (pénzügyi lízing esetében ideértve a maradványértéket is) kettő százalékát. Fennálló jelzáloghitel-szerződés, illetve ingatlanra vonatkozó pénzügyi lízingszerződés módosítása során eljáró függő közvetítő tekintetében a közvetítői díj mértéke nem haladhatja meg a jelzáloghitel-szerződés módosításakor fennálló tőketartozás, illetve lízingszerződés alapján fennálló tartozás (ideértve a maradványértéket is) kettő százalékát. A függő közvetítő a megbízó pénzügyi intézmény felé közvetítői díjat kizárólag az egyedi jelzáloghitelek és lízingszerződések alapján, egyedileg számíthat fel, egyéb módon (így különösen a folyósított állomány alapján) további díjazást nem számíthat fel.
+
+(3a) A (3) bekezdés vonatkozásában közvetítői díjnak kell tekinteni minden olyan pénzben vagy természetben juttatott további térítést, amelyet a közvetítő vagy a közvetítővel kapcsolatban álló harmadik személy a pénzügyi szolgáltatást nyújtó személytől, pénzügyi szolgáltatást nyújtó személy felett ellenőrző befolyással rendelkező személytől vagy az utóbbi ellenőrző befolyása alatt álló más személytől kap bármely pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási, befektetési szolgáltatási és kiegészítő befektetési szolgáltatási tevékenységnek nem minősülő jogviszony alapján. Nem kell közvetítői díjnak tekinteni az anyavállalat által a leányvállalat, illetve a leányvállalat által az anyavállalat számára kiemelt közvetítői jogviszony keretében végzett pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási, befektetési szolgáltatási és kiegészítő befektetési szolgáltatási tevékenység alapján pénzben juttatott térítést, amennyiben mind az anyavállalat, mind a leányvállalat hitelintézet.
 
 (4)
 
@@ -1311,7 +1318,7 @@ szükséges sorolni azzal, hogy e követelések a követelések arányában ker�
   - bj) valutapénztárosi bizonyítvánnyal (kizárólag pénzváltás közvetítése esetén),
   - bk) a Magyar Bankszövetség Felsőfokú Bankszakmai Oklevelével,
   - bl) a ba)–bk) alpontban foglaltakkal egyenértékű szakképesítéssel, vagy
-- c) jogszabályban meghatározott, a Felügyelet által kiadott közvetítői hatósági vizsga letételét igazoló tanúsítványával
+- c) a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendeletben meghatározott pénzügyi szolgáltatás közvetítői hatósági vizsgával
 
 rendelkezik.
 
@@ -1320,6 +1327,8 @@ rendelkezik.
 - a) a 155. § (3) bekezdésében meghatározott képzettségek,
 - b) a főiskolai vagy egyetemi szintű, illetve mesterképzésben szerezhető gazdasági agrármérnök szakképzettség vagy műszaki menedzser alapképzési szakon, vagy gazdasági és vidékfejlesztési agrármérnök alapképzési szakon szerezhető szakképzettség, és
 - c) a felsőfokú végzettség birtokában szakirányú továbbképzésben, szakosító továbbképzésben a közgazdasági felsőoktatásban szerzett bankszakmai szakképzettség vagy gazdasági, közgazdasági szakképzettség.
+
+(2a) A Felügyelet érvényteleníti annak a vizsgázónak a hatósági vizsgáját, aki a vizsgát a Felügyelet félrevezetésével, hamis adatok közlésével, jogszabályban meghatározott feltételek hiányában vagy a vizsgáztatás szabályainak megsértésével tette le. Ha a hatósági vizsga letételét igazoló tanúsítványt a Felügyelet már kiadta, úgy intézkedik annak visszavonásáról.
 
 (3) Közvetítői tevékenységet végző hitelintézettel, biztosítóval, Posta Elszámoló Központot működtető intézménnyel munkaviszonyban álló természetes személy kizárólag abban az esetben végezhet közvetítői tevékenységet, ha az általa közvetített pénzügyi szolgáltatással kapcsolatban megfelelő képzést kapott. A szakmai követelmények ellenőrzéséért a munkáltató felelős.
 
@@ -2294,7 +2303,8 @@ akkor a Felügyelet a kérelmet haladéktalanul továbbítja a pénzügyi intéz
 
 - a) tevékenysége, illetve a pénzügyi intézményre gyakorolt befolyása veszélyezteti a pénzügyi intézmény független, megbízható és körültekintő tagi irányítását,
 - b) üzleti tevékenységének, kapcsolatainak jellege, vagy a más vállalkozásokkal fennálló közvetlen és közvetett tagi részesedésének szerkezete olyan, hogy a felügyeleti tevékenységet akadályozza vagy
-- c) nem rendelkezik jó üzleti hírnévvel.
+- c) nem rendelkezik jó üzleti hírnévvel,
+- d) befolyásoló részesedése szerzésével kapcsolatban feltételezhető, hogy az erre vonatkozó jogszabályok alapján pénzmosást vagy terrorizmus-finanszírozást követnek vagy követtek el, vagy kísérelnek vagy kíséreltek meg elkövetni, vagy hogy a szándékolt befolyásoló részesedés szerzése növelheti ennek kockázatát.
 
 (2) Az engedélyt kérő személy vagy tagjának, vezető tisztségviselőjének tevékenysége, illetve a pénzügyi intézményre gyakorolt befolyása különösen akkor veszélyezteti a pénzügyi intézmény független, megbízható és körültekintő tagi irányítását, ha
 
@@ -2737,6 +2747,7 @@ az államháztartásért felelős miniszter és a pénz-, tőke- és biztosítá
 - p) az eltűnt vagy az elfogatóparancs, európai elfogatóparancs, nemzetközi elfogatóparancs hatálya alatt álló személyek felkutatását, továbbá az ismeretlen személy vagy holttest azonosítását végző rendőri szervvel,
 - q) a természetes személyek adósságrendezési eljárásában eljáró főhitelezővel, Családi Csődvédelmi Szolgálattal, családi vagyonfelügyelővel, bírósággal,
 - r) a szociális rászorultságtól függő pénzbeli és természetbeni ellátások jogosultsági feltételeinek vizsgálatával összefüggő feladatkörében eljáró, szociális hatáskört gyakorló szervvel
+- s) a csődeljárásról és a felszámolási eljárásról szóló törvényben meghatározott felszámoló szervezetek nyilvántartásával és hatósági ellenőrzésével összefüggő feladatai során eljáró, a felszámoló szervezeteket nyilvántartó hatósággal
 
 szemben e szerveknek a pénzügyi intézményhez intézett írásbeli megkeresése esetén.
 
@@ -3170,7 +3181,7 @@ az összevont alapú felügyelet a legnagyobb mérlegfőösszeggel rendelkező h
 
 (2) A Felügyelet akkor is értesíti az OBA-t, ha a hitelintézet anyavállalatának felügyeletét ellátó hatóság tájékoztatása alapján olyan helyzet fennállását állapítja meg, amely az OBA e törvény szerinti feladatainak ellátására kihathat.
 
-184. § (1) A Felügyelet mérlegeli az intézkedés szükségességét, ha a pénzügyi intézmény, valamint a pénzügyi intézménynek nem minősülő kiegészítő pénzügyi szolgáltatást nyújtó egyéb jogi személy, ezek vezető állású személye vagy tulajdonosa megsérti az e törvény, az eredményes, megbízható és független tulajdonlásra vagy a prudens működésre vonatkozó jogszabályok, valamint a tevékenységére vonatkozó egyéb jogszabályok előírásait, vagy tevékenységét nyilvánvalóan nem elvárható gondossággal végzi, így különösen ha
+184. § (1) A Felügyelet mérlegeli az intézkedés szükségességét, ha a pénzügyi intézmény, valamint a pénzügyi intézménynek nem minősülő, pénzügyi szolgáltatást, illetve kiegészítő pénzügyi szolgáltatást nyújtó egyéb jogi személy, ezek vezető állású személye vagy tulajdonosa megsérti az e törvény, az eredményes, megbízható és független tulajdonlásra vagy a prudens működésre vonatkozó jogszabályok, valamint a tevékenységére vonatkozó egyéb jogszabályok előírásait, vagy tevékenységét nyilvánvalóan nem elvárható gondossággal végzi, így különösen ha
 
 - a) döntési, eljárási szabályzatai nem felelnek meg az előírásoknak, vagy a működés során ezeket nem tartja be,
 - b) számviteli, nyilvántartási és ellenőrzési rendszere nem felel meg a jogszabályok rendelkezéseinek,
@@ -3184,7 +3195,7 @@ az összevont alapú felügyelet a legnagyobb mérlegfőösszeggel rendelkező h
 - j) nem teljesíti Pmt.-ben előírt kötelezettségét,
 - k) a hitelintézet nem tesz eleget a 228. § (6) bekezdésében foglalt kötelezettségének.
 
-(2) A Felügyelet e törvény, a pénzügyi intézmény, valamint a pénzügyi intézménynek nem minősülő kiegészítő pénzügyi szolgáltatást nyújtó egyéb jogi személy prudens működésére vonatkozó jogszabályok, tevékenységre vonatkozó jogszabályok előírásainak jelentős megsértése esetén – a rendelkezésére álló adatokat és információkat mérlegelve – megteszi a szükséges intézkedést, ha a pénzügyi intézmény
+(2) A Felügyelet e törvény, a pénzügyi intézmény, valamint a pénzügyi intézménynek nem minősülő kiegészítő pénzügyi szolgáltatást nyújtó egyéb jogi személy prudens működésére vonatkozó jogszabályok, tevékenységre vonatkozó jogszabályok előírásainak jelentős megsértése esetén – a rendelkezésére álló adatokat és információkat mérlegelve – megteszi a szükséges intézkedést, ha a pénzügyi intézmény, a pénzügyi intézménynek nem minősülő pénzügyi szolgáltatást, illetve kiegészítő pénzügyi szolgáltatást nyújtó egyéb jogi személy
 
 - a) jogszabály által tiltott vagy részére nem engedélyezett tevékenységet végez,
 - b) működése során nem tud folyamatosan megfelelni egyes, az e törvényben meghatározott engedélyezési feltételeknek,
@@ -3235,11 +3246,11 @@ az összevont alapú felügyelet a legnagyobb mérlegfőösszeggel rendelkező h
 
 #### 79. Intézkedések
 
-185. § (1) Az előírások megsértése vagy hiányosság megállapítása esetén – ha azok a pénzügyi intézmény prudens működését jelentősen vagy súlyosan nem veszélyeztetik – a Felügyelet a következő intézkedéseket alkalmazhatja:
+185. § (1) Az előírások megsértése vagy hiányosság megállapítása esetén – ha azok a pénzügyi intézmény, valamint a pénzügyi intézménynek nem minősülő pénzügyi szolgáltatást, illetve kiegészítő pénzügyi szolgáltatást nyújtó egyéb jogi személy prudens működését jelentősen vagy súlyosan nem veszélyeztetik – a Felügyelet a következő intézkedéseket alkalmazhatja:
 
-- a) kötelezheti a pénzügyi intézményt, hogy tegye meg a szükséges intézkedéseket
-  - aa) e törvény vagy a prudens működésre vonatkozó jogszabályok előírásainak betartására, a feltárt hiányosságok megszüntetésére,
-  - ab) pénzügyi helyzetének megőrzésére vagy javítására;
+- a) kötelezheti
+  - aa) a pénzügyi intézményt, valamint a pénzügyi intézménynek nem minősülő pénzügyi szolgáltatást, illetve kiegészítő pénzügyi szolgáltatást nyújtó egyéb jogi személyt, hogy tegye meg a szükséges intézkedéseket e törvény vagy a prudens működésre vonatkozó jogszabályok előírásainak betartására, a feltárt hiányosságok megszüntetésére,
+  - ab) a pénzügyi intézményt, hogy tegye meg a szükséges intézkedéseket a pénzügyi helyzetének megőrzésére vagy javítására;
 - b) javaslatot tehet a pénzügyi intézménynek
   - ba) az alkalmazottak (vezetők) szakmai továbbképzésére vagy megfelelő szakmai ismeretekkel rendelkező alkalmazottak (vezetők) felvételére,
   - bb) üzletszabályzat, illetve belső szabályzat meghatározott határidőn belüli kidolgozására vagy meghatározott szempontok szerinti átdolgozására,
@@ -3450,7 +3461,7 @@ rendelkező tulajdonosát, alapítványi formában működő pénzügyi vállalk
 
 (5) Ha a másik EGT-állam illetékes felügyeleti hatósága a (4) bekezdés szerinti tájékoztatást követő egy hónapon belül nem teszi meg a szükséges intézkedéseket, vagy a másik EGT-állam illetékes felügyeleti hatósága által megtett lépések ellenére változatlanul fennáll a szabályellenes helyzet, valamint az ügyfelek érdekeinek veszélyeztetése, a Felügyelet
 
-- a) a szabályellenes helyzet megszüntetése érdekében közvetlenül is intézkedhet, melyről haladéktalanul tájékoztatja az EBH-t,
+- a) a szabályellenes helyzet megszüntetése érdekében a másik EGT-állam illetékes felügyeleti hatóságának tájékoztatását követően közvetlenül is intézkedhet, amelyről az intézkedés megtételét követően haladéktalanul tájékoztatja az EBH-t,
 - b) az európai felügyeleti hatóság (Európai Bankhatóság) létrehozásáról, a 716/2009/EK határozat módosításáról és a 2009/78/EK bizottsági határozat hatályon kívül helyezéséről szóló, 2010. november 24-i 1093/2010/EU európai parlamenti és tanácsi rendelet 19. cikke alapján az EBH-hoz fordulhat.
 
 #### 82. A Felügyelet adatkezelése
@@ -3549,47 +3560,44 @@ rendelkező tulajdonosát, alapítványi formában működő pénzügyi vállalk
 
 (4) A Felügyelet engedélye egyúttal a nyilvántartásba vételt is igazolja.
 
-204/A. § (1) A Felügyelet a közvetítői hatósági képzéssel és vizsgáztatással kapcsolatban nyilvántartást vezet a képző és vizsgáztató szervekről, a hatósági vizsgára jelentkező személyekről, a képző szerv által aláíró személyként megjelölt, a képzési igazolás kiállítására és aláírására feljogosított személyekről (a továbbiakban: aláíró személy), az oktatóról és a hatósági vizsga jogszabályban foglalt feltételeknek megfelelő lebonyolításának felügyeletére jogosult személyekről (a továbbiakban: vizsgabiztos).
+204/A. § (1) A Felügyelet a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendeletben meghatározott hatósági képzéssel és vizsgáztatással kapcsolatban, a hatósági képzés és vizsgáztatás hatósági ellenőrzésével, továbbá a hatósági képzésre és vizsgára történő jelentkezés lebonyolításával és a sikeres vizsgákat igazoló hatósági tanúsítvány kiadásával, pótlásával kapcsolatos feladatai ellátása érdekében nyilvántartást vezet a képzést vagy képzést és vizsgáztatást végző szervekről (a továbbiakban együtt: képző szerv), a hatósági vizsgára jelentkező személyekről, a képző szerv által aláíró személyként megjelölt, a képzési igazolás kiállítására és aláírására feljogosított személyekről (a továbbiakban: aláíró személy), az oktatókról, a hatósági vizsga jogszabályban foglalt feltételeknek megfelelő lebonyolításának felügyeletére jogosult személyekről (a továbbiakban: vizsgabiztos), valamint a hatósági vizsga letételét igazoló tanúsítványokról.
 
 (2) A közvetítői tevékenység gyakorlását lehetővé tevő közvetítői hatósági vizsgának és az ahhoz szükséges képzésnek a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendeletben meghatározott feltételeknek megfelelő képzés és vizsga fogadható el.
 
-(3) A képző és vizsgáztató szervekről vezetett nyilvántartás tartalmazza:
+(3) A képző szervekről vezetett nyilvántartás tartalmazza
 
 - a) a szerv megnevezését, székhelyét, levelezési címét,
 - b) a hatósági képzés helyszínének, a hatósági vizsga helyszínének címét,
 - c) a nyilvántartási számot,
 - d) az intézményi kódot,
 - e) a nyilvántartásba vételről szóló döntés ügyiratszámát,
-- f) az aláíró személy nevét és személyi kódját, és
+- f) az aláíró személy és az oktató nevét és személyi kódját és
 - g) a nyilvántartásba vétel időpontját.
 
-(4) A Felügyelet a nyilvántartásba vételről szóló döntésben a képző és vizsgáztató szerv részére nyilvántartási számot és intézményi kódot állapít meg.
+(4) A Felügyelet a nyilvántartásba vételről szóló döntésben a képző szerv részére nyilvántartási számot és intézményi kódot állapít meg.
 
-(5) Ha a Felügyelet a szerv nyilvántartásból történő törléséről döntést hozott, a (3) bekezdésben foglalt adatok mellett, a törlés időpontját, a törlésről szóló döntés ügyiratszámát, a döntés tényét, okát és a döntés jogerőre emelkedésének időpontját is nyilvántartja.
+(5) Ha a Felügyelet a képző szerv nyilvántartásból történő törléséről döntést hozott, a (3) bekezdésben foglalt adatok mellett a törlés időpontját, a törlésről szóló döntés ügyiratszámát, a döntés tényét, okát és a döntés jogerőre emelkedésének időpontját is nyilvántartja.
 
-(6) A Felügyelet a hatósági képzés és vizsgáztatás hatósági ellenőrzésével, továbbá a hatósági képzésre történő jelentkezés lebonyolításával és a sikeres vizsgákat igazoló hatósági tanúsítvány kiadásával, pótlásával kapcsolatos feladatai ellátása érdekében nyilvántartást vezet
+(6) Az aláíró személyekről, az oktatókról, a hatósági vizsgára jelentkező személyekről és a vizsgabiztosokról vezetett nyilvántartás tartalmazza az adott személy
 
-- a) az aláíró személyekről;
-- b) az oktatóról;
-- c) a hatósági vizsgára jelentkező személyekről; és
-- d) a vizsgabiztosokról.
+- a) nevét és születési nevét,
+- b) anyja nevét,
+- c) születési helyét, idejét,
+- d) lakcímét,
+- e) személyi kódját és
+- f) – amennyiben vizsgabiztosi tevékenységet lát el – nyilvántartási számát, valamint a nyilvántartásból való törlése esetén a törlés tényét és időpontját.
 
-(7) A Felügyelet által vezetett nyilvántartás tartalmazza a (6) bekezdésben meghatározott személyek vonatkozásában:
+(7) A Felügyelet a nyilvántartásba vételről szóló döntésben a (6) bekezdésben meghatározott személyek számára személyi kódot állapít meg.
 
-- a) a nevét és születési nevét;
-- b) az anyja nevét;
-- c) a születési helyét és idejét;
-- d) a lakcímét;
-- e) a személyi kódját; és
-- f) a vizsgabiztos esetében a nyilvántartási számát, valamint a nyilvántartásból való törlése esetén a törlés tényét és időpontját.
-
-(8) A Felügyelet a nyilvántartásba vételről szóló döntésben a (6) bekezdésben meghatározott személyek számára személyi kódot állapít meg.
+(8) A hatósági vizsga letételét igazoló, elveszett vagy megsemmisült tanúsítvány pótlására – erre irányuló kérelem esetén – a Felügyelet a nyilvántartása alapján másodlatot állít ki, amit a kérelmező a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendelet szerinti hatósági vizsgára történő jelentkezési lapban meghatározott – vizsgaidőpontban érvényes – adatainak megadásával igényelhet.
 
 (9) Az e §-ban meghatározott nyilvántartással érintett személyes adatok tekintetében az adatkezelő a Felügyelet.
 
-(9a) A Felügyelet az (1) bekezdésben meghatározott nyilvántartásban szereplő személyes adatokat az adott személy hatósági képzésben vagy vizsgáztatásban történő közreműködésétől számított tizenöt év elteltével törli a nyilvántartásból, ide nem értve azokat az adatokat, amelyek hatósági vizsga letételét igazoló tanúsítvány nyilvántartásához szükségesek.
+(10) A Felügyelet az (1) bekezdésben meghatározott nyilvántartásban szereplő személyes adatokat az adott személy hatósági képzésben vagy vizsgáztatásban történő közreműködésétől számított tizenöt év elteltével törli a nyilvántartásból, ide nem értve azokat az adatokat, amelyek hatósági vizsga letételét igazoló tanúsítvány nyilvántartásához szükségesek.
 
-(10) A hatósági képzés és vizsgáztatás során a Felügyelet jogosult ellenőrizni a hatósági képzést és vizsgáztatást végző, a hatósági képzésben és vizsgáztatásban részt vevő szervezeteket és személyeket.
+(11) A Felügyelet jogosult vizsgáztatási tevékenységet folytatni a – vizsgáztatási tevékenységet végző szervekre és a hatósági vizsgára vonatkozó – jogszabályi követelmények betartásával.
+
+(12) A hatósági képzés és vizsgáztatás során a Felügyelet jogosult ellenőrizni a hatósági képzést, illetve vizsgáztatást végző, a hatósági képzésben és vizsgáztatásban részt vevő szervezeteket és személyeket.
 
 #### 83. Tájékoztatás
 
@@ -3908,7 +3916,7 @@ időpontját követő napon [az a)–c) pont a továbbiakban együtt: a kártala
 
 226. § (1) Az OBA önálló munkaszervezettel rendelkezik.
 
-(2) Az OBA tevékenységének operatív irányítását az ügyvezető, a Befektető-védelmi Alappal kapcsolatos operatív feladatok irányítását az ügyvezető helyettese látja el. Az ügyvezető igazgató-helyettes által irányított, elkülönített munkaszervezetben feladatokat ellátó munkavállalók kivételével az ügyvezető gyakorolja az OBA alkalmazottai felett a munkáltatói jogokat. Az ügyvezető igazgató-helyettes által irányított, elkülönített munkaszervezetben feladatokat ellátó munkavállalók feletti munkáltatói jogokat az ügyvezető igazgató-helyettese gyakorolja.
+(2) Az OBA tevékenységének operatív irányítását az ügyvezető, a Befektető-védelmi Alappal kapcsolatos operatív feladatok irányítását az ügyvezető helyettese látja el. A belső ellenőr felett a munkáltatói jogokat az ügyvezető a munkaviszony létesítése, megszüntetése, a javadalmazás és az ellenőrzési tárgykörök meghatározása tekintetében az igazgatótanács előzetes jóváhagyása mellett gyakorolja. Az ügyvezető igazgató-helyettes által irányított, elkülönített munkaszervezetben feladatokat ellátó munkavállalók kivételével az ügyvezető gyakorolja az OBA alkalmazottai felett a munkáltatói jogokat. Az ügyvezető igazgató-helyettes által irányított, elkülönített munkaszervezetben feladatokat ellátó munkavállalók feletti munkáltatói jogokat az ügyvezető igazgató-helyettese gyakorolja.
 
 (3) Az ügyvezető – az igazgatótanács egyetértésével – egyes feladatok ellátására munkaviszonyon kívüli megbízást adhat ki vagy együttműködési megállapodásokat köthet.
 
@@ -4443,7 +4451,7 @@ rendelkezhet.
 
 #### 117. Az ügyfelek tájékoztatása
 
-271. § (1) A pénzügyi intézmény az ügyfélfogadásra nyitva álló helyiségeiben hirdetményben közzéteszi, valamint elektronikus kereskedelmi szolgáltatások nyújtása esetén folyamatosan és könnyen hozzáférhető módon, elektronikus úton is elérhetővé teszi
+271. § (1) A pénzügyi intézmény az ügyfélfogadásra nyitva álló helyiségeiben közzéteszi, valamint elektronikus kereskedelmi szolgáltatások nyújtása esetén folyamatosan és könnyen hozzáférhető módon, elektronikus úton is elérhetővé teszi
 
 - a) általános szerződési feltételeit is tartalmazó üzletszabályzatait,
 - b) az ügyfelek számára ajánlott pénzügyi és kiegészítő pénzügyi szolgáltatásokkal (ügyletekkel) kapcsolatos szerződési feltételeket,
@@ -4528,15 +4536,17 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 #### 121. Egyes szerződésekre vonatkozó különös rendelkezések
 
-279. § (1) A pénzügyi intézmény – az egyszeri fizetési megbízás kivételével, valamint a 285. §-ban meghatározott eltéréssel – pénzügyi és kiegészítő pénzügyi szolgáltatásra irányuló szerződést csak írásban – ideértve a legalább fokozott biztonságú elektronikus aláírással ellátott elektronikus okirat formát is – köthet. Az írásban kötött szerződés egy eredeti példányát a pénzügyi intézmény köteles az ügyfélnek átadni.
+279. § (1) A pénzügyi intézmény – az egyszeri fizetési megbízás kivételével, valamint az (1a) bekezdésben és a 285. §-ban meghatározott eltéréssel – pénzügyi és kiegészítő pénzügyi szolgáltatásra irányuló szerződést csak írásban – ideértve a legalább fokozott biztonságú elektronikus aláírással ellátott elektronikus okirati formát is – köthet. Az írásban kötött szerződés egy eredeti példányát a pénzügyi intézmény köteles az ügyfélnek átadni.
 
-(2) A pénzügyi intézmény és az ügyfél az (1) bekezdés szerint megkötött szerződésben megállapodhat arról, hogy meghatározott körben azonosított elektronikus úton kötnek pénzügyi és kiegészítő pénzügyi szolgáltatásra irányuló szerződést. Az ilyen módon létrejött pénzügyi és kiegészítő pénzügyi szolgáltatásra irányuló szerződés e törvény alkalmazásában írásbeli szerződésnek minősül.
+(1a) Az (1) bekezdéstől eltérően a hitelintézet pénzforgalmi szolgáltatási keretszerződést, valamint betét elfogadására vonatkozó szerződést azonosított elektronikus úton is köthet.
+
+(2) A pénzügyi intézmény és az ügyfél az (1) és az (1a) bekezdés szerint megkötött szerződésben megállapodhat arról, hogy meghatározott körben azonosított elektronikus úton kötnek pénzügyi és kiegészítő pénzügyi szolgáltatásra irányuló szerződést. Az ilyen módon létrejött pénzügyi és kiegészítő pénzügyi szolgáltatásra irányuló szerződés e törvény alkalmazásában írásbeli szerződésnek minősül.
 
 (3) A pénzügyi és kiegészítő pénzügyi szolgáltatásra irányuló szerződésben egyértelműen meg kell határozni a kamatot, díjat és minden egyéb költséget vagy feltételt, ideértve a késedelmes teljesítés jogkövetkezményeit és a szerződést biztosító mellékkötelezettségek érvényesítésének módját, következményeit is.
 
 (4)–(12)
 
-(13) A (4) bekezdésben nem szabályozott szerződések esetén kamatot, díjat vagy egyéb szerződési feltételt csak akkor lehet egyoldalúan, az ügyfél számára kedvezőtlenül módosítani, ha a szerződés ezt a pénzügyi intézmény számára – külön pontban – egyértelműen meghatározott feltételek, illetve körülmények esetére lehetővé teszi. A szerződés kamatot, díjat érintő – az ügyfél számára kedvezőtlen – módosítását a módosítás hatálybalépését tizenöt nappal megelőzően, hirdetményben közzé kell tenni, elektronikus kereskedelmi szolgáltatás nyújtása esetén az ügyfelek számára folyamatosan és könnyen hozzáférhető módon, elektronikus úton is elérhetővé kell tenni.
+(13) A fogyasztónak nyújtott hitelről szóló törvény hatálya alá nem tartozó pénzügyi és kiegészítő pénzügyi szolgáltatásra irányuló szerződések esetén kamatot, díjat vagy egyéb szerződési feltételt csak akkor lehet egyoldalúan, az ügyfél számára kedvezőtlenül módosítani, ha a szerződés ezt a pénzügyi intézmény számára – külön pontban – egyértelműen meghatározott feltételek, illetve körülmények esetére lehetővé teszi. A szerződés kamatot, díjat érintő – az ügyfél számára kedvezőtlen – módosítását a módosítás hatálybalépését tizenöt nappal megelőzően, közzé kell tenni, elektronikus kereskedelmi szolgáltatás nyújtása esetén az ügyfelek számára folyamatosan és könnyen hozzáférhető módon, elektronikus úton is elérhetővé kell tenni.
 
 (14) Szerződés egyoldalúan nem módosítható új díj vagy költség bevezetésével. Az egyes kamat, díj vagy költségelemek szerződésben meghatározott számítási módja egyoldalúan, az ügyfél számára kedvezőtlenül nem módosítható.
 
@@ -4557,6 +4567,8 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 282/A. § (1) Fogyasztó részére fizetési számlát vezető hitelintézet EGT-államban tartózkodásra jogosult fogyasztóval szemben állampolgárság vagy tartózkodási hely alapján nem alkalmazhat megkülönböztetést a fizetési számla-szerződés megkötése és vezetése tekintetében.
 
 (2) Fogyasztó részére fizetési számlát vezető hitelintézet jogszabályban meghatározott feltételek teljesülése esetén köteles a fogyasztó kérésére alapszintű szolgáltatásokat biztosító fizetési számlaként alapszámlát vezetni.
+
+282/B. § Fogyasztó részére fizetési számlát vezető hitelintézet jogszabályban meghatározott szociális feltételek teljesülése esetén köteles a fogyasztó részére a jogszabályban meghatározott díj és költség mellett fizetési számlaként szociális számlát vezetni.
 
 #### 122. Pénzügyi szolgáltatásokhoz történő egyenlő esélyű hozzáférés előmozdítása
 
@@ -4590,7 +4602,7 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 288. § (1) A pénzügyi intézmény és a független közvetítő biztosítja, hogy az ügyfél a pénzügyi intézmény és a független közvetítő magatartására, tevékenységére vagy mulasztására vonatkozó panaszát szóban (személyesen, telefonon) vagy írásban (személyesen vagy más által átadott irat útján, postai úton, telefaxon, elektronikus levélben) közölhesse.
 
-(2) Telefonon történő panaszkezelés esetén a pénzügyi intézmény, független közvetítő és az ügyfél közötti telefonos kommunikációt a pénzügyi intézmény hangfelvétellel rögzíti, és a hangfelvételt öt évig megőrzi. Erről az ügyfelet a telefonos ügyintézés kezdetekor tájékoztatni kell. Az ügyfél kérésére biztosítani kell a hangfelvétel visszahallgatását, továbbá térítésmentesen tizenöt napon belül rendelkezésre kell bocsátani a hangfelvételről készített hitelesített jegyzőkönyvet.
+(2) Telefonon történő panaszkezelés esetén a pénzügyi intézmény, független közvetítő és az ügyfél közötti telefonos kommunikációt a pénzügyi intézmény hangfelvétellel rögzíti, és a hangfelvételt öt évig megőrzi. Erről az ügyfelet a telefonos ügyintézés kezdetekor tájékoztatni kell. Az ügyfél kérésére biztosítani kell a hangfelvétel visszahallgatását, továbbá térítésmentesen – kérésének megfelelően – huszonöt napon belül rendelkezésére kell bocsátani a hangfelvételről készített hitelesített jegyzőkönyvet vagy a hangfelvétel másolatát.
 
 (3) A pénzügyi intézmény és a független közvetítő a panaszt és az arra adott választ öt évig őrzi meg, és azt a Felügyelet kérésére bemutatja.
 
@@ -4614,7 +4626,7 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 288/C. § Az Aktv. szerinti, e törvény hatálya alá tartozó Jelentő Magyar Pénzügyi Intézmény (a továbbiakban ezen alcím tekintetében: intézmény) az általa kezelt, az Aktv. 1. melléklet VIII/C. pontja szerinti Pénzügyi Számla (a továbbiakban: Pénzügyi Számla) vonatkozásában elvégzi az Aktv. szerinti Számlatulajdonos és Jogalany (a továbbiakban együtt: Számlatulajdonos) illetőségének az Aktv. 1. melléklet II–VII. pontja szerinti megállapítására irányuló vizsgálatot (a továbbiakban: illetőségvizsgálat).
 
-288/D. § (1) Az intézmény a Számlatulajdonost az illetőségvizsgálat elvégzésével egyidejűleg az ügyfélfogadásra nyitva álló helyiségeiben kifüggesztett hirdetmény útján vagy – ha az lehetséges – elektronikus úton tájékoztatja
+288/D. § (1) Az intézmény a Számlatulajdonost az illetőségvizsgálat elvégzésével egyidejűleg az ügyfélfogadásra nyitva álló helyiségeiben közzétett hirdetmény útján vagy – ha az lehetséges – elektronikus úton tájékoztatja
 
 - a) az illetőségvizsgálat elvégzéséről,
 - b) az Aktv. 43/H. §-a alapján az adóhatóság felé fennálló adatszolgáltatási kötelezettségéről.
@@ -4642,7 +4654,8 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 - g) a 2012. április 1-je előtt hatályos 1996. évi CXII. törvény 210/A. §-ában meghatározott szerződésekben előírt kamat a pénzügyi intézmény általi, az ügyfél számára kedvezőtlen egyoldalú módosításának eseteire, feltételeire és módjára,
 - h) a javadalmazási politikának az érintett hitelintézet mérete, tevékenységének jellege, köre és jogi formájából eredő sajátossága figyelembevételével történő alkalmazására
 - i) az alapszámlához való hozzáférésre, az alapszámla jellemzőire, valamint díjára,
-- j) a pénzügyi intézmények és a független közvetítők panaszkezelésének eljárására, valamint a panaszkezelési szabályzatára
+- j) a pénzügyi intézmények és a független közvetítők panaszkezelésének eljárására, valamint a panaszkezelési szabályzatára,
+- k) a szociális számlához való jogosultságra, díjra és jellemzőire
 
 vonatkozó részletes szabályokat.
 
@@ -4853,6 +4866,7 @@ azzal, hogy 2019. január 1-jétől a 87. §-ban meghatározott mérték szerint
 - 12. Nemzetközi Pénzügyi Társaság
 - 13. Nemzetközi Újjáépítési és Fejlesztési Bank
 - 14. Nemzetközi Valuta Alap
+- 15. Nemzetközi Beruházási Bank
 
 ### 2. melléklet a 2013. évi CCXXXVII. törvényhez
 
