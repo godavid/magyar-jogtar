@@ -35,41 +35,19 @@ lép.
 
 12. § (1)
 
-(2) A Tao. törvény 4. §-a a következő 10c. ponttal egészül ki:
-
-(E törvény alkalmazásában)
-
-„10c. elektromos töltőállomás: olyan eszköz, amely alkalmas egy elektromos gépjármű energiatárolójának töltésére vagy cseréjére;”
+(2)
 
 (3)
 
-13. § (1) A Tao. törvény 6. §-a a következő (4a) bekezdéssel egészül ki:
-
-„(4a) A 10. §-ban foglalt, az iskolaszövetkezetekre vonatkozó rendelkezéseket a közérdekű nyugdíjas szövetkezetek tekintetében is megfelelően alkalmazni kell.”
-
-(2) A Tao. törvény 6. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Ha az adózó (2) bekezdés szerinti adózás előtti eredménye vagy az (1) bekezdés szerinti adóalapja közül a nagyobb érték nem éri el a jövedelem-(nyereség-)minimumot, akkor választása szerint
-
-a) adóbevallásában az adózás rendjéről szóló törvény 91/A. § (1) bekezdése szerinti nyilatkozatot tesz, vagy
-
-b) a (6)–(10) bekezdésben foglaltak alkalmazásával – nemzetközi szerződés rendelkezéseit figyelembe véve – a külföldi telephely útján végzett tevékenység révén keletkezett, telephelynek betudható jövedelem-(nyereség-)minimum nélküli jövedelem-(nyereség-)minimumot tekinti adóalapnak.”
+13. §
 
 14. § (1)
 
-(2) A Tao. törvény 7. § (1) bekezdése a következő l) ponttal egészül ki:
-
-(Az adózás előtti eredményt csökkenti:)
-
-„l) az adózó választása szerint az elektromos töltőállomás bekerülési értéke, de legfeljebb az elektromos töltőállomás bekerülési értéke és az elektromos töltőállomás által a beruházás befejezésének adóévét követő 3 éves időszak alatt elért (elérhető), az adózó becslése szerinti, az elektromos töltőállomás pozitív működési eredménye közötti különbözet, a beruházás befejezésének adóévében figyelemmel a (31)–(32) bekezdésre,”
+(2)
 
 (3)
 
-(4) A Tao. törvény 7. §-a a következő (31) és (32) bekezdéssel egészül ki:
-
-„(31) Amennyiben az (1) bekezdés l) pontja szerinti csökkentés összege meghaladja az elektromos töltőállomás bekerülési értéke és az elektromos töltőállomás által a beruházás befejezésének adóévét követő 3 éves időszak alatt ténylegesen elért pozitív működési eredmény különbözetének összegét, az (1) bekezdés l) pontja szerinti, az adózás előtti eredmény csökkentéseként elszámolt összeg az állami adó- és vámhatósághoz benyújtott önellenőrzéssel pótlékmentesen módosítható.
-
-(32) Az (1) bekezdés l) pontja szerint elektromos töltőállomásonként érvényesített összeg 19. § szerinti adókulccsal számított értéke nem lehet több 20 millió eurónak a 19. § szerinti adókulccsal számított értékének megfelelő forintösszegnél.
+(4)
 
 15–16. §
 
@@ -81,9 +59,7 @@ b) a (6)–(10) bekezdésben foglaltak alkalmazásával – nemzetközi szerződ
 
 20. § (1)
 
-(2) A Tao. törvény 29/A. §-a a következő (56) bekezdéssel egészül ki:
-
-„(56) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2017. évi LXXVII. törvénnyel megállapított 7. § (1) bekezdés l) pontját, (31)–(32) bekezdését első alkalommal a 2017. június 30-át követően megkezdett beruházások tekintetében lehet alkalmazni.”
+(2)
 
 (3)
 
@@ -91,9 +67,7 @@ b) a (6)–(10) bekezdésben foglaltak alkalmazásával – nemzetközi szerződ
 
 22. § (1)
 
-(2) A Tao. törvény a következő 30/H. §-sal egészül ki:
-
-„30/H. § E törvény 7. § (1) bekezdés l) pontjában, (31)–(32) bekezdésében meghatározott kedvezmény a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187 2014.06.26. 1–78. o.) I. és II. fejezete és 56. cikke hatálya alá tartozó támogatásnak minősül.”
+(2)
 
 23–24. §
 
@@ -113,33 +87,7 @@ b) a (6)–(10) bekezdésben foglaltak alkalmazásával – nemzetközi szerződ
 
 30. §
 
-31. § (1) A Távhő. tv. 6. § (3) bekezdése a következő l) ponttal egészül ki:
-
-(Csökkentő tételek:)
-
-„l) az adózó választása szerint az elektromos töltőállomás bekerülési érték, de legfeljebb az elektromos töltőállomás bekerülési értéke és az elektromos töltőállomás által a beruházás befejezésének adóévét követő 3 éves időszak alatt elért (elérhető), az adózó bekerüléskori becslése szerinti, az elektromos töltőállomás pozitív működési eredménye közötti különbözet összege, a beruházás befejezésének adóévében, figyelemmel a (13)–(17) bekezdésekre.”
-
-(2) A Távhő. tv. 6. §-a a következő (13)–(17) bekezdéssel egészül ki:
-
-„(13) Amennyiben a (3) bekezdés l) pontja szerinti csökkentés összege meghaladja az elektromos töltőállomás bekerülési értéke és az elektromos töltőállomás által a beruházás befejezésének adóévét követő 3 éves időszak alatt ténylegesen elért pozitív működési eredmény különbözetének összegét, a (3) bekezdés l) pontja szerinti, az adózás előtti eredmény csökkentéseként elszámolt összeg az állami adó- és vámhatósághoz benyújtott önellenőrzéssel pótlékmentesen módosítható.
-
-(14) Az adóalany a (3) bekezdés l) pontjának alkalmazása során az elektromos töltőállomás bekerülési értékeként veheti figyelembe a Tao. tv. 4. § 23. pontja szerinti kapcsolt vállalkozása által a Tao. tv. 7. § (1) bekezdés l) pontja szerint nem érvényesített összeget, amennyiben az adóbevallás benyújtásáig rendelkezik az érintett kapcsolt vállalkozása írásos nyilatkozatával, amely szerint a kapcsolt vállalkozás a Tao. tv. 7. § (1) bekezdés l) pontja szerinti kedvezményt nem érvényesíti, és amely tartalmazza a beruházás befejezésének adóévét követő 3 éves időszak alatt az elektromos töltőállomás által elért üzemi eredményről.
-
-(15) A (3) bekezdés l) pontjában meghatározott kedvezmény a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187 2014.06.26. 1–78. o.) I. és II. fejezete és 56. cikke hatálya alá tartozó támogatásnak minősül.
-
-(16) A (3) bekezdés l) pontja szerinti kedvezmény és a Tao. tv. 7. § (1) bekezdés l) pontja szerinti kedvezmény nem érvényesíthető ugyanazon elektromos töltőállomás bekerülési értéke alapján.
-
-(17) A (3) bekezdés l) pontja szerint elektromos töltőállomásonként érvényesített összeg 7. § (1) bekezdése szerinti adókulccsal számított értéke nem lehet több 20 millió eurónak a 7. § (1) bekezdése szerinti adókulccsal számított értékének megfelelő forintösszegnél.”
-
-32. § A Távhő. tv. 10. §-a a következő 12. ponttal egészül ki:
-
-(E fejezet alkalmazásában)
-
-„12. elektromos töltőállomás: olyan eszköz, amely alkalmas egy elektromos gépjármű energiatárolójának töltésére vagy cseréjére.”
-
-33. § A Távhő. tv. 18. §-a a következő (8) bekezdéssel egészül ki:
-
-„(8) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2017. évi LXXVII. törvénnyel megállapított 6. § (3) bekezdés l) pontját, (13)–(17) bekezdését és 10. § 12. pontját első alkalommal a 2017. június 30-át követően megkezdett beruházások tekintetében lehet alkalmazni.”
+31–33. §
 
 #### 6. A kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény módosítása
 
@@ -589,9 +537,7 @@ lép.
 
 #### 19. Az egészségügyi hozzájárulásról szóló 1998. évi LXVI. törvény módosítása
 
-127. § Az egészségügyi hozzájárulásról szóló 1998. évi LXVI. törvény (a továbbiakban: Eho tv.) 3. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) Mentes a százalékos mértékű egészségügyi hozzájárulás alól az a jövedelem, amelyet a közérdekű nyugdíjas szövetkezet öregségi nyugdíjban részesülő tagja a szövetkezet tevékenységében kifejtett személyes közreműködésének ellenértékeként a közérdekű nyugdíjas szövetkezettől szerzett.”
+127. §
 
 128. §
 
@@ -660,13 +606,7 @@ lép.
 
 184–185. §
 
-186. § (1) A Vtv. 20. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A vámjogi képviseletre vonatkozóan állandó meghatalmazás vagy megbízás is adható. A gazdálkodó által adott állandó meghatalmazás vagy megbízás a vámhatóság előtti eljárásban akkor érvényes, ha a képviselet tényét az ügyfél vagy a képviselője a vámhatóság által rendszeresített – a NAV honlapján közzétett – formanyomtatvány alkalmazásával papíralapon vagy elektronikusan jelenti be.”
-
-(2) A Vtv. 20. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Ha a vámjogi képviselet a Vámkódex 22. cikke szerinti kérelem benyújtására vonatkozik, akkor a képviseletet elektronikusan kell bejelenteni.”
+186. §
 
 187–194. §
 
