@@ -4,13 +4,14 @@ az elmúlt rendszer titkosszolgálati tevékenységének feltárásáról és az
 
 Az Országgyűlés hozzá kíván járulni az elmúlt rendszer állambiztonsági szolgálatai tevékenységének megismeréséhez és az áldozatok információs kárpótlásához. Erre tekintettel az érintettek információs önrendelkezési jogának garantálása, a közérdekű adatok megismeréséhez fűződő alkotmányos jog érvényesülése érdekében – figyelemmel Magyarország szuverenitásához és törvényes rendjének garantálásához fűződő érdekre, valamint a jogállam nemzetbiztonsági érdekeire – az Országgyűlés a következő törvényt alkotja:
 
-1. § (1) A törvény hatálya kiterjed azokra az iratokra és adatokra, amelyek 1944. december 21. és 1990. február 14. között az állambiztonsági tevékenységet végző magyar állami szervek működésével összefüggésben
+1. § (1) E törvény hatálya kiterjed a következő iratokra és adatokra:
 
-- a) a Belügyminisztérium III-as Főcsoportfőnökségénél, ennek területi és helyi szerveinél, illetve elődeiknél (a Magyar Államrendőrség budapesti és vidéki főkapitányságának Politikai Rendészeti Osztályain és a Gazdasági Rendészeti Osztályok operatív csoportjaiban, a Magyar Államrendőrség Államvédelmi Osztályánál, a Belügyminisztérium Államvédelmi Hatóságánál, az Államvédelmi Hatóságnál, 1953 és 1956 között a Belügyminisztérium államvédelmi feladatokat ellátó szervezeti egységeinél, a Belügyminisztérium Politikai Nyomozó Főosztályánál), a Belügyminisztérium Határőrség Felderítő Osztályánál, valamint a Honvédelmi Minisztérium Katonapolitikai Osztályán, a Honvédelmi Minisztérium Katonapolitikai Csoportfőnökségén, a Honvédelmi Minisztérium Katonai Elhárító Főcsoportfőnökségén, a Honvédelmi Minisztérium IV. Főcsoportfőnökségén, a Magyar Néphadsereg Vezérkara 2. Csoportfőnökségén, a Belügyminisztérium Külügyi Osztályánál, a Belügyminisztérium Nemzetközi Kapcsolatok Osztályánál, a Belügyminisztérium Belbiztonsági Osztályánál, a Belügyminisztérium Állambiztonsági Operatív Nyilvántartó Osztályánál vagy
-- b) a Belügyminisztérium Személyzeti Főosztályánál a Belügyminisztérium III. Főcsoportfőnökségének alkalmazottaival és a ,,titkos'', illetve a ,,szigorúan titkos'' állományú munkatársaival kapcsolatban,
-- c) illetőleg az egyes fontos, valamint közbizalmi és közvélemény-formáló tisztségeket betöltő személyeket ellenőrző bizottságnál
-
-keletkeztek és irattári anyagába tartoztak.
+- a) a Belügyminisztérium volt III. Főcsoportfőnökségénél, ennek területi és helyi szerveinél, illetve elődeiknél (a Magyar Államrendőrség budapesti és vidéki főkapitányságának Politikai Rendészeti Osztályain és a Gazdasági Rendészeti Osztályok operatív csoportjaiban, a Magyar Államrendőrség Államvédelmi Osztályánál, a Belügyminisztérium Államvédelmi Hatóságánál, az Államvédelmi Hatóságnál, 1953 és 1956 között a Belügyminisztérium államvédelmi feladatokat ellátó szervezeti egységeinél, a Belügyminisztérium Politikai Nyomozó Főosztályánál), a Belügyminisztérium Határőrség Felderítő Osztályánál, valamint a Honvédelmi Minisztérium volt Katonapolitikai Osztályán, a Katonapolitikai Csoportfőnökségén, a Katonai Elhárító Főcsoportfőnökségén, a IV. Főcsoportfőnökségén, a Magyar Néphadsereg Vezérkara 2. Csoportfőnökségén, a Belügyminisztérium volt Külügyi Osztályánál, a Nemzetközi Kapcsolatok Osztályánál, a Belbiztonsági Osztályánál, az Állambiztonsági Operatív Nyilvántartó Osztályánál keletkezett és irattári anyagukba tartozott iratok,
+- b) az a) pontban fel nem sorolt, de a Belügyminisztérium volt III. Főcsoportfőnökségénél és elődeinél, a Honvédelmi Minisztérium volt Magyar Néphadsereg Vezérkara Felderítő Csoportfőnökségnél és elődeinél keletkezett és irattári anyagukba tartozott iratok,
+- c) a Belügyminisztérium Személyzeti Főosztályánál a Belügyminisztérium III. Főcsoportfőnökségének alkalmazottaival és a „titkos”, illetve a „szigorúan titkos” állományú munkatársaival kapcsolatban keletkezett és irattári anyagukba tartozott iratok,
+- d) az egyes fontos, valamint közbizalmi és közvélemény-formáló tisztségeket betöltő személyeket ellenőrző bizottságnál keletkezett és irattári anyagukba tartozott iratok,
+- e) az 1945. január 1. és 1960. április 1. között a magyar hatóságok határozata alapján végrehajtott, zárt táborszerű fogva tartásra (internálás, kényszermunka), közbiztonsági őrizetre, kényszerlakhely kijelölésre (kitelepítés) vonatkozó iratokból a Belügyminisztériumban kialakított gyűjtemény,
+- f) az egykori Belügyminisztériumban vagy más államigazgatási szervnél keletkezett, valamint a már más közlevéltárakban és nyilvános magánlevéltárakban őrzött államvédelmi, illetve állambiztonsági adatokat is tartalmazó iratok másolatai.
 
 (2) E törvény alkalmazásában:
 
@@ -30,17 +31,18 @@ keletkeztek és irattári anyagába tartoztak.
 
 (3) Minden egyes adattal kapcsolatosan külön kell megállapítani azt, hogy az érintett megfigyelt személynek, hivatásos alkalmazottnak, hálózati személynek, operatív kapcsolatnak vagy harmadik személynek minősül-e. Az érintett jogállását az adott adat tekintetében annak vizsgálata alapján kell megállapítani, hogy az adat felvétele milyen célt szolgált.
 
-2. § (1) A törvény hatálya alá tartozó iratokban található adatok korábbi minősítése e törvény erejénél fogva megszűnik, kivéve ha az adat minősítését – az államtitokról és a szolgálati titokról szóló 1995. évi LXV. törvény (a továbbiakban: Ttv.) rendelkezései alapján, a (2)–(3) bekezdés szerint – az arra jogosult fenntartja.
+(4) A 2–7. § és a 10. § (2) bekezdése kizárólag az (1) bekezdés szerinti iratokra és adatokra terjed ki.
 
-(2) Az e törvény hatálya alá tartozó iratokban található, a Ttv. melléklete szerinti államtitokköri jegyzékben meghatározott adatfajták közül annak az államtitokká minősített adatnak a minősítése tartható fenn, amely
+2. § (1)
 
-- a) olyan személyre vonatkozik, aki 1990. február 15-e és 2002. május 26-a közötti időszakban vagy annak egy részében a nemzetbiztonsági szolgálatok állományába tartozott, vagy azokkal titkosan együttműködött,
+(2) Az 1. § (1) bekezdése szerinti iratokban található minősített adatok közül, a minősített adat védelméről szóló 2009. évi CLV. törvény (a továbbiakban: Mavtv.) rendelkezései szerinti felülvizsgálat során annak a minősített adatnak a minősítése tartható fenn, amely
+
+- a) olyan személyre vonatkozik, aki 1990. február 14-e után a nemzetbiztonsági szolgálatok állományába tartozott, vagy azokkal titkosan együttműködött,
 - b) olyan, az 1. §-ban meghatározott szerveknél végzett tevékenységre vonatkozik, amely miatt az érintettet külföldön kiutasítás, beutazási tilalom vagy büntetőeljárás fenyegetné,
 - c) olyan személyre vonatkozik, akinek az 1. §-ban meghatározott szerveknél végzett tevékenysége miatt alaposan feltehető, hogy személyének felfedése esetén e tevékenysége miatt ellene vagy hozzátartozójával szemben az életet, a testi épséget, illetve a személyes szabadságot súlyosan sértő vagy veszélyeztető bűncselekményt követnek el,
-- d) olyan hálózati személy vagy operatív kapcsolat személyazonosságának felfedéséhez vezet, akinek megismerése nyilvánvalóan vagy kimutathatóan sértené Magyarország nemzetbiztonsági érdekeit,
-- e)
+- d) olyan hálózati személy vagy operatív kapcsolat személyazonosságának felfedéséhez vezet, akinek megismerése nyilvánvalóan vagy kimutathatóan sértené Magyarország nemzetbiztonsági érdekeit.
 
-(3) Fenntartható továbbá az államtitok minősítése a Ttv. alapján az államtitokkörbe tartozó azon adat tekintetében, amely
+(3) Fenntartható továbbá az 1. § (1) bekezdése szerinti iratokban található azon adat minősítése a Mavtv. alapján, amely
 
 - a) az azt jogszerűen birtokló szerv törvényben meghatározott feladatai ellátásához rendszeresen és elengedhetetlenül szükséges,
 - b) a titkos információgyűjtés olyan eszközének vagy módszerének felfedéséhez vezet, amelynek megismerése nyilvánvalóan vagy kimutathatóan sértené Magyarország nemzetbiztonsági érdekeit,
@@ -65,7 +67,7 @@ keletkeztek és irattári anyagába tartoztak.
 
 (5) A hivatásos alkalmazott, a hálózati személy és az operatív kapcsolat megismerheti és nyilvánosságra hozhatja a kizárólag vele kapcsolatba hozható személyes adatokat.
 
-4. § (1) A Levéltár a tudományos kutatást akkor engedélyezi, ha a kutató eleget tesz az Ltv. 24. § (3) bekezdésében vagy 24/A. § (1) bekezdésében foglalt követelményeknek, továbbá a kérelméhez csatolja részletes kutatási tervét és – ha azzal rendelkezik – publikációs jegyzékét. A tudományos kutató a Levéltárban kezelt iratokban foglalt adatokat a (2) és (3) bekezdésben meghatározott korlátok között megismerheti, és az információs önrendelkezési jogról és az információszabadságról szóló törvénynek a tudományos kutatás céljára való adatkezelésre vonatkozó előírásai szerint felhasználhatja.
+4. § (1) A Levéltár a tudományos kutatást az 1. § (1) bekezdésében meghatározott iratokban akkor engedélyezi, ha a kutató eleget tesz az Ltv. 24. § (3) bekezdésében vagy 24/A. § (1) bekezdésében foglalt követelményeknek, továbbá a kérelméhez csatolja részletes kutatási tervét és – ha azzal rendelkezik – publikációs jegyzékét. A tudományos kutató a Levéltárban kezelt iratokban foglalt adatokat a (2) és (3) bekezdésben meghatározott korlátok között megismerheti, és az információs önrendelkezési jogról és az információszabadságról szóló törvénynek a tudományos kutatás céljára való adatkezelésre vonatkozó előírásai szerint felhasználhatja.
 
 (2) A tudományos kutató az egészségi állapotra, kóros szenvedélyre és szexuális életre vonatkozó adatokat az érintett halálozási évét követő harminc év után ismerheti meg. Ha a halálozás éve nem ismert, a védelmi idő az érintett születésétől számított kilencven év, ha pedig a születés és a halálozás időpontja sem ismert, a levéltári anyag keletkezésétől számított hatvan év.
 
@@ -105,9 +107,9 @@ a tudományos kutató igazolja, hogy korábban elkezdett kutatásához ezen adat
 
 7. § (1) A honvédelemért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter és a rendészetért felelős miniszter irányítása alatt álló szervek, valamint más közfeladatot ellátó szervek munkatársa vagy alkalmazottja a szerv hatáskörébe tartozó ügyben a Levéltárban elhelyezett iratokban lévő személyes adatokba törvényben előírt feladatának ellátásához szükséges esetben, az Országgyűlés Nemzetbiztonsági bizottsága előzetes jóváhagyása után, illetve különösen gyors intézkedést követelő esetekben utólagos tájékoztatásával tekinthet be.
 
-(2) Az érintettek törvényes jogainak érvényesítésével kapcsolatos bírósági és hatósági eljárások esetén a bíróságok és az eljáró hatóságok számára az (1) bekezdésben foglalt előzetes jóváhagyásra nincs szükség.
+(2) A bíróságok számára, továbbá az érintettek törvényes jogainak érvényesítésével kapcsolatos hatósági eljárások esetén az eljáró hatóságok számára az (1) bekezdésben foglalt előzetes jóváhagyásra nincs szükség.
 
-8. § (1) A Levéltár kezeli a 2. § (2)–(3) bekezdésében meghatározott adatokat tartalmazó iratok kivételével az e törvény hatálya alá tartozó iratokat. A Levéltár a Történeti Hivatal jogutódja.
+8. § (1) Az 1. § (1) bekezdésében meghatározott iratokat és adatokat a Levéltár jogosult átvenni és kezelni, kivéve, ha arra a közfeladatot ellátó szervnek ügyviteli szempontból még rendszeresen szüksége van. A Levéltár jogosult átvenni és kezelni a nemzetbiztonsági szolgálatok iratait. A Levéltár a Történeti Hivatal jogutódja.
 
 (2) A Levéltár központi költségvetési szerv, amely az Országgyűlés költségvetési fejezetén belül önálló címet alkot. A Levéltár gazdasági szervezettel rendelkezik.
 
@@ -116,7 +118,9 @@ a tudományos kutató igazolja, hogy korábban elkezdett kutatásához ezen adat
 - a) az e törvényben meghatározott feltételekkel biztosítja az érintettek számára személyes adataik megismeréséhez való joguk gyakorlását;
 - b) gondoskodik a közéleti szerepet betöltő személyek állambiztonsági múltjának nyilvánosságra hozataláról szóló törvényben meghatározott tényfeltárást végző szervek számára történő adatszolgáltatásról;
 - c) az e törvényben meghatározott feltételekkel biztosítja a kutatási tevékenység folytatását;
-- d) ellátja az Ltv.-ben meghatározott feladatokat.
+- d) ellátja az Ltv.-ben meghatározott feladatokat;
+- e) feltárja, nyilvántartja és gyűjti, illetve másolatban beszerzi a magyar vonatkozású külföldi állambiztonsági anyagot;
+- f) másolatot készít a más levéltárba került és államvédelmi, illetve állambiztonsági adatokat is tartalmazó iratokról azzal, hogy a másolatkészítés lehetőségét az érintett levéltár biztosítja.
 
 (4) A Levéltár működését az Országgyűlés elnöke felügyeli.
 
@@ -151,11 +155,13 @@ a tudományos kutató igazolja, hogy korábban elkezdett kutatásához ezen adat
 
 (7) A Levéltár munkatársaira egyebekben a közszolgálati tisztviselőkről szóló törvény rendelkezéseit kell alkalmazni.
 
-10. § (1) A Levéltár működésére – amennyiben e törvény eltérően nem rendelkezik – az Ltv. rendelkezéseit kell alkalmazni. Az Ltv. 28. §-a a Levéltár eljárására nem alkalmazható.
+10. § (1) A Levéltár működésére az Ltv. szabályait az e törvényben meghatározott eltérésekkel kell alkalmazni. Az Ltv. 28. §-a a Levéltár eljárására nem alkalmazható.
+
+(1a) A nemzetbiztonsági szolgálatoktól átvett és kezelt iratok tekintetében az Ltv. szabályait kell alkalmazni.
 
 (2) A Levéltár az e törvény alapján anonimizáltan megismerhető adatokat olyan módon teszi hozzáférhetővé a kérelmező számára, hogy az adatokat tartalmazó irat másolatát átadja, és a kérelmező számára nem megismerhető adatokat azon olvashatatlanná teszi. A megfigyelt számára minden, az iratokról készült másolatot soron kívül és térítésmentesen kell biztosítani.
 
-(3) A Levéltár a Ttv. alapján minősített adatok vonatkozásában gondoskodik a minősítettadat-védelmi szabályok betartásáról.
+(3) A Levéltár a minősített adatok vonatkozásában gondoskodik a minősítettadat-védelmi szabályok betartásáról.
 
 (4) A Levéltár gondoskodik az átvett, valamint a keletkező iratok egységes szempontok alapján történő nyilvántartásáról és kezeléséről.
 
@@ -165,46 +171,24 @@ a tudományos kutató igazolja, hogy korábban elkezdett kutatásához ezen adat
 
 (2) A törvény 8. § (1)–(4) bekezdése, továbbá (6)–(8) bekezdése, 9. §-a, valamint 13. § (3)–(4) bekezdése 2003. április 1-jén lép hatályba.
 
-(3) A Levéltár főigazgatói tisztségének betöltésére az Országgyűlés elnöke a törvény hatályba lépését követő harminc napon belül pályázatot ír ki, és gondoskodik a pályázatnak a törvény hatályba lépésétől számított kilencven napon belüli elbírálásáról is.
+(3)
 
-(4) A Levéltár főigazgató-helyettesi tisztségének betöltésére az Országgyűlés elnöke a Levéltár főigazgatójának kinevezését követő tizenöt napon belül pályázatot ír ki, és gondoskodik a pályázatnak a kiírást követő kilencven napon belüli elbírálásáról is.
+(4)
 
-(5) Minden természetes és jogi személy, valamint jogi személyiséggel nem rendelkező szervezet köteles a jogellenesen birtokában lévő, a Levéltár illetékességi körébe tartozó iratokat – ideértve annak másodpéldányait és másolatait is – a Történeti Hivatalnak a törvény hatályba lépésétől számított harminc napon belül átadni.
+(5) Minden természetes és jogi személy, valamint jogi személyiséggel nem rendelkező szervezet köteles az 1. § (1) bekezdésében meghatározott és jogellenesen birtokában lévő iratokat – ideértve azok másodpéldányait és másolatait is – a Levéltárnak az elmúlt rendszer titkosszolgálati tevékenységének feltárásáról és az Állambiztonsági Szolgálatok Történeti Levéltára létrehozásáról szóló 2003. évi III. törvény és egyes kapcsolódó törvények módosításáról szóló 2017. évi XCIV. törvény hatálybalépését követő hat hónapon belül átadni.
 
-(6) Aki jogellenesen birtokol a Levéltár illetékességi körébe tartozó iratot, és azt a törvény hatálybalépésétől számított harminc napon belül a Történeti Hivatal részére átadja vagy ismeretlenül eljuttatja, mentesül a jogosulatlan adatkezelés és a különleges személyes adatokkal visszaélés, illetve az államtitoksértés jogkövetkezménye alól. A jogellenesen birtokolt, e törvény hatálya alá tartozó iratok hatóság vagy bíróság előtt bizonyítékként nem használhatók fel.
+(6) Aki az (5) bekezdésben meghatározott határidőn belül az ott meghatározott iratot a Levéltár részére átadja vagy ismeretlenül eljuttatja, mentesül a birtokláshoz kapcsolódóan a minősített adatokkal visszaélés, illetve a személyes adatok jogellenes kezelésének jogkövetkezményei alól.
 
-(7) A Levéltár köteles minden olyan iratot, amelynek őrzésére e törvény nem hatalmazza fel, a törvény hatálybalépésétől számított hat hónapon belül eredeti tulajdonosának vagy jogutódjának, köziratok esetében pedig az arra illetékes levéltárnak átadni.
+(7) Aki az (5) bekezdésben meghatározottakra tekintettel jogellenesen birtokol az (5) bekezdésben meghatározott iratot, nem hivatkozhat valamely tény igazolása céljából a jogellenesen birtokolt iratra.
 
-(8) A Levéltár kezelésében levő, a minősített adatot tartalmazó irat megismeréséhez a Ttv. 2. § (1) bekezdésének 7. pontjában meghatározott engedély szükséges.
+(8) A Levéltár kezelésében levő, a minősített adatot tartalmazó irat megismeréséhez a Mavtv. 3. § 8. pontjában meghatározott engedély szükséges.
 
-(9) A törvény hatálya alá tartozó iratok a törvény hatálybalépésének napjától kizárólag az Ltv. szabályai alapján, a Levéltárban selejtezhetőek.
+(9) Az 1. § (1) bekezdése szerinti iratok kizárólag az Ltv. szabályai alapján, a Levéltárban selejtezhetőek.
 
 (10) A közfeladatot ellátó szervnél őrzött olyan iratot, amely a Levéltár illetékességébe tartozik – ha szükséges, másolat elkészítését követően –, a Levéltárnak át kell adni. Amennyiben az irat más dokumentumoktól fizikailag nem választható szét, másolati példányt kell kiadni.
 
 (11) A Levéltár megőrzésébe került olyan iratot, amely más szerv már közlevéltárban vagy nyilvános magánlevéltárban őrzött irattári anyagának szerves részét képezi, és nem tartozik a Levéltár illetékességébe tartozó iratok körébe, a Levéltár – a szükséges másolatok elkészítését követően – az iratokat őrző levéltárnak adja át. Amennyiben az irat más dokumentumtól fizikailag nem választható szét, másolati példányt kell kiadni.
 
-12. § (1) A törvény hatályba lépésétől számított kilencven napon belül bizottság alakul, amelynek egy-egy tagját a Kormány, a Magyar Tudományos Akadémia elnöke és a Magyar Történelmi Társulat elnöke jelöli. A bizottság tagjait – ,,C'' típusú nemzetbiztonsági ellenőrzésüket követően – az Országgyűlés elnöke nevezi ki. A bizottság felügyeli az e törvény hatálya alá eső iratok Levéltárnak történő átadását. A bizottság ügyrendjét a kultúráért felelős miniszter a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel és a polgári hírszerzési tevékenység irányításáért felelős miniszterrel egyetértésben hagyja jóvá. A bizottság tagjai az iratkezelő szerveknél – az (5) bekezdésében meghatározott külön jegyzékben szereplő iratok kivételével – korlátozás nélkül betekinthetnek az e törvény hatálya alá tartozó iratokba. A bizottság az iratok átadásáról jelentést készít, amelyet a (8) bekezdésben megjelölt határidő elteltét követő három hónapon belül juttat el az Országgyűlés elnökéhez. A jelentés elkészítését követő 30. napon a bizottság tagjainak megbízatása megszűnik.
+#### 12. §
 
-(2) Az 1. § (1) bekezdés a)–b) pontja szerinti iratok tekintetében – e törvény, valamint a Ttv. rendelkezéseire figyelemmel – a törvény hatálybalépését követően le kell folytatni a Ttv. 10. §-ában szabályozott felülvizsgálati eljárást.
-
-(3) Azok az irategyüttesek, amelyek egyaránt tartalmaznak olyan adatokat, amelyek minősítését a minősítő megszüntette, illetve fenntartotta, továbbra is az irategyüttest kezelő szerv kezelésében maradnak. Az irategyüttes azon részéről, amely olyan adatot tartalmaz, amelynek minősítését a minősítő megszüntette, az irategyüttest kezelő szerv hiteles másolatot készít, és azt átadja a Levéltárnak.
-
-(4) Át kell adni a Levéltárnak azon iratok jegyzékét, amelyek minősítését a minősítő fenntartotta. A jegyzék minősített adatot nem tartalmazhat. Amennyiben a Levéltár nem találja indokoltnak valamely, a jegyzékben szereplő irat minősítésének fenntartását, a Fővárosi Törvényszékhez fordulhat a minősítés megszüntetésére való kötelezés érdekében. A minősítés fenntartásának jogszerűségét a minősítőnek kell bizonyítania. A bíróság az ügyben harminc napon belül, polgári nem peres eljárásban dönt. Az ügyben a Fővárosi Törvényszék e feladatra kijelölt bírája – ,,C'' típusú nemzetbiztonsági ellenőrzését követően – jár el. A felek és meghatalmazottaik nem lehetnek jelen egymás meghallgatásán. Az eljárás minden szakaszában biztosítani kell a minősített adat védelmére vonatkozó előírások betartását. A Fővárosi Törvényszék végzése ellen fellebbezésnek nincs helye. A bíróság végzése minősített adatot nem tartalmazhat.
-
-(5) A felülvizsgálati eljárás során a 2. § (2)–(3) bekezdésben meghatározott adatokat tartalmazó iratok közül a nemzetbiztonsági érdek védelme szempontjából kiemelkedően fontos iratokról a nemzetbiztonsági szolgálat főigazgatója külön jegyzéket állít össze, amelyet a Kúria e feladatra kijelölt bírája – ,,C'' típusú nemzetbiztonsági ellenőrzését követően – hagy jóvá. A (4) bekezdésében meghatározott iratjegyzékben a jelen bekezdés alapján összeállított külön jegyzékben szereplő iratokat nem kell feltüntetni.
-
-(6) Amennyiben a minősítő az 1970 előtt keletkezett iratnak a Ttv. 28. § (2) bekezdése szerint fenntartott minősítését a törvény hatályba lépését követő száznyolcvan napon belül nem erősíti meg, az irat minősítése megszűnik, és azt harminc napon belül át kell adni a Levéltárnak.
-
-(7) Amennyiben a minősítő az 1970 és 1979 között keletkezett iratnak a Ttv. 28. § (2) bekezdése szerint fenntartott minősítését a törvény hatályba lépését követő egy éven belül nem erősíti meg, az irat minősítése megszűnik, és azt harminc napon belül át kell adni a Levéltárnak.
-
-(8) Amennyiben a minősítő az 1980-ban vagy 1980 után keletkezett irat minősítését a törvény hatályba lépését követő két éven belül nem erősíti meg, az irat minősítése megszűnik, és azt harminc napon belül át kell adni a Levéltárnak.
-
-(9) A 2. § (2)–(3) bekezdéseiben meghatározott adatokat tartalmazó azon iratokat, amelyek minősítését a (2) bekezdésben meghatározott felülvizsgálat során a minősítő fenntartotta, a minősítő a minősített adat védelméről szóló törvény 8. §-ában foglaltaknak megfelelően köteles felülvizsgálni. Ha a felülvizsgálat eredményeként a minősítő a minősítést megszünteti, az iratot harminc napon belül át kell adni a Levéltárnak.
-
-(10) Az 1. § (1) bekezdés c) pontja szerinti iratokat a Levéltár főigazgatójának kinevezésétől számított harminc napon belül teljes körűen át kell adni a Levéltárnak.
-
-13. § (1)
-
-(2) Felhatalmazást kap a Kormány, hogy a törvény végrehajtásához szükséges intézkedéseket megtegye, ennek keretében gondoskodjon a törvény hatálya alá tartozó iratok tekintetében az iratkezelés, az iratvédelem előzményeinek feltárásához, valamint az iratok egyesítéséhez szükséges szabályozási, szervezési, költségvetési és egyéb feltételek megteremtéséről.
-
-(3)–(5)
+#### 13. §
