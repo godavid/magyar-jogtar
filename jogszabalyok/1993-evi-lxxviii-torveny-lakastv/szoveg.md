@@ -46,7 +46,7 @@ Az Országgyűlés a lakások és helyiségek bérletére vonatkozó szabályok 
 
 (5) Az állam tulajdonában lévő lakásra (a továbbiakban: állami lakás) – a (3) bekezdés megfelelő alkalmazásával – a bérlő kiválasztására jogosult által megjelölt személlyel és időtartamra lehet szerződést kötni.
 
-(6) A (3) bekezdésben említett műteremlakás esetén a kulturális örökség védelméért felelős miniszter a bérlőkijelölési jog gyakorlását költségvetési szervre vagy alkotóművészeti hivatásgyakorlást szolgáló gazdasági társaságra átruházhatja.
+(6) A (3) bekezdésben említett műteremlakás esetén a kultúráért felelős miniszter a bérlőkijelölési jog gyakorlását költségvetési szervre vagy alkotóművészeti hivatásgyakorlást szolgáló gazdasági társaságra átruházhatja.
 
 4. § (1) A lakást több bérlő együttesen is bérelheti (bérlőtársak).
 
@@ -732,7 +732,7 @@ használhatja fel. A felhasználás részletes szabályait önkormányzati rende
 
 (2) Az (1) bekezdés a), g), h) és m) pontjában foglaltakat a fennálló bérlőkiválasztási jog esetén megfelelően alkalmazni kell.
 
-(3) A kulturális örökség védelméért felelős miniszter a műteremlakásra vonatkozó bérlőkijelölési jog gyakorlásának feltételeit – e törvény keretei között – rendeletben határozza meg.
+(3) A kultúráért felelős miniszter a műteremlakásra vonatkozó bérlőkijelölési jog gyakorlásának feltételeit – e törvény keretei között – rendeletben határozza meg.
 
 87/A. § Felhatalmazást kap a Kormány, hogy az ingatlanvállalkozás-felügyeleti hatóságot vagy hatóságokat rendeletben jelölje ki.
 
