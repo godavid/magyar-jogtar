@@ -2,7 +2,7 @@
 
 a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről
 
-A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésének pótolhatatlan forrásai, a nemzeti és az egyetemes kulturális örökség egészének elválaszthatatlan összetevői; szellemi birtokbavételük minden ember alapvető joga. Az e fogalomkörbe tartozó értékek különös védelme, megőrzése és fenntartása, valamint a nyilvánosság számára történő széleskörű és egyenlő hozzáférhetővé tétele a mindenkori társadalom kötelezettsége.Az információs társadalom és a demokratikus jogállam működésének alapfeltétele a könyvtári rendszer, amelyen keresztül az információk szabadon, bárki számára hozzáférhetők. A könyvtári ellátás fenntartása és fejlesztése az állampolgárok és a társadalom egésze szempontjából szükséges, a könyvtári és információs szolgáltatás állami fenntartása stratégiai jelentőségű. A könyvtári rendszernek az állampolgárok érdekeit kell szolgálnia.A nemzeti, nemzetiségi kulturális hagyományok megőrzése, méltó folytatása, a közösségi és egyéni művelődés személyi, szellemi, gazdasági feltételeinek javítása, a polgárok életminőségét javító, értékhordozó tevékenységek, valamint az ezek megvalósulására létrejött intézmények és szervezetek működésének elősegítése a társadalom közös érdeke.E célok megvalósítása érdekében az Országgyűlés a következő törvényt alkotja:
+A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésének pótolhatatlan forrásai, a nemzeti és az egyetemes kulturális örökség egészének elválaszthatatlan összetevői; szellemi birtokbavételük minden ember alapvető joga. Az e fogalomkörbe tartozó értékek különös védelme, megőrzése és fenntartása, valamint a nyilvánosság számára történő széles körű és egyenlő hozzáférhetővé tétele a mindenkori társadalom kötelezettsége.Az információs társadalom és a demokratikus jogállam működésének alapfeltétele a könyvtári rendszer, amelyen keresztül az információk szabadon, bárki számára hozzáférhetők. A könyvtári ellátás fenntartása és fejlesztése az állampolgárok és a társadalom egésze szempontjából szükséges, a könyvtári és információs szolgáltatás állami fenntartása stratégiai jelentőségű. A könyvtári rendszernek az állampolgárok érdekeit kell szolgálnia.A társadalom közös érdeke a nemzeti, nemzetiségi kulturális hagyományok megőrzése, méltó folytatása, a közösségi és egyéni művelődés személyi, szellemi, gazdasági feltételeinek javítása, a polgárok életminőségét javító, értékhordozó tevékenységek, valamint az ezek megvalósulására létrejött intézmények és szervezetek működésének elősegítése, amely törekvés a kulturális alapellátás rendszerében testesül meg.E célok megvalósítása érdekében az Országgyűlés a következő törvényt alkotja:
 
 ## I. RÉSZ — ÁLTALÁNOS RENDELKEZÉSEK
 
@@ -13,8 +13,13 @@ A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésén
 - a) a társadalmi jólét és a fenntartható fejlődés biztosítása, az egész életen át tartó tanulás elősegítése, az életminőség javítása, valamint a kulturális örökség helyi és országos védelme érdekében rendelkezni a kulturális javak gyarapításának, megőrzésének, tudományos feldolgozásának, a jövő nemzedékek számára történő átörökítésének és társadalmi hasznosításának általános szabályairól,
 - b) szabályozni a muzeális intézmények tevékenységével és feladatellátásával, valamint a közgyűjteményekben őrzött kulturális javak hozzáférésével kapcsolatos kérdéseket,
 - c) mindenki számára biztosítani a könyvtárhasználat jogát, szabályozni a nyilvános könyvtári ellátás működését és fejlesztését,
-- d) szabályozni a közművelődési tevékenységek feltételrendszerét,
-- e) meghatározni az állam, az önkormányzatok és egyéb fenntartók feladatait, a szakmai és finanszírozási alapelveket.
+- d) mindenki számára biztosítani a közművelődési tevékenységekben való részvétel lehetőségét, szabályozni a közművelődési tevékenységek folytatásának, a közművelődési alapszolgáltatások nyújtásának és igénybevételének feltételrendszerét,
+- e) meghatározni az állam, az önkormányzatok és egyéb fenntartók feladatait, a szakmai és finanszírozási alapelveket,
+- f) kulturális intézmények feladatellátásának tervezéséhez útmutatást adni annak érdekében, hogy azok a kulturális alapellátás keretében mindenki számára ösztönzést nyújtsanak arra, hogy
+  - fa) önművelés céljából lakóhelyén bekapcsolódjon kulturális tevékenységekbe és megismerhesse a kulturális értékeket;
+  - fb) megismerkedjen a település történetével, a hagyományokkal, normákkal;
+  - fc) a település népességének tagjaként kifejezze, milyen értékek, célok, fejlesztési irányok fontosak számára, részt vegyen a közösségi életének fejlesztésében és a közös jövőkép megfogalmazásában; ezekhez állandó helyszínt vehessen igénybe;
+  - fd) lakóhelyén szakmai segítséget vegyen igénybe az önfejlesztéshez, az önműveléshez, a közös értékek kifejezéséhez, megéléséhez, a közös célok megfogalmazásához, a tevékenységek színvonalának biztosításához.
 
 ### Alapelvek
 
@@ -22,10 +27,12 @@ A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésén
 
 3. § Az állami és a települési önkormányzati fenntartású muzeális intézmény, könyvtár és közművelődési intézmény nem lehet elkötelezett egyetlen vallás, világnézet vagy politikai irányzat mellett sem.
 
+3/A. § A kulturális alapellátás keretében a közgyűjtemények és a közművelődési intézmények a központi költségvetési források felhasználásával az érintett célcsoportok számára biztosítják a tárgyi és szellemi kulturális örökség hozzáférhetővé tételét, valamint olyan közszolgáltatásokat nyújtanak, amelyek hozzájárulnak a személyiség fejlődéséhez és kiteljesedéséhez, az aktív polgársághoz, a társadalmi beilleszkedéshez és a közösségfejlesztéshez, valamint a foglalkoztatáshoz szükséges egyéni kulcskompetenciák fejlesztéséhez.
+
 4. § Mindenkinek joga, hogy
 
 - a) megismerhesse a kulturális javakat és ezek jelentőségét a történelem alakulásában, a nemzeti, nemzetiségi önismeret formálásában, valamint az ezek védelmével kapcsolatos ismereteket a muzeális intézmények tevékenysége, a könyvtári szolgáltatások, az oktatás, a közművelődés, az ismeretterjesztés, a sajtó és a tömegtájékoztatás útján,
-- b) igénybe vegye a nyilvános könyvtári ellátás rendszerét, a muzeális és közművelődési intézmények szolgáltatásait,
+- b) a kulturális alapellátás keretében igénybe vegye a nyilvános könyvtári ellátás rendszerét, a muzeális és közművelődési intézmények szolgáltatásait,
 - c) műveltségét, készségeit életének minden szakaszában gyarapítsa, közművelődési jogai érvényesítése céljából közösséget hozzon létre, s külön jogszabályban meghatározottak szerint szervezetet alapítson, működtessen,
 - d) e törvény szerint művelődési céljai megvalósításához közművelődési közösségi színteret (a továbbiakban: közösségi színtér), szervező, szervezeti és tartalmi segítséget kapjon.
 
@@ -43,7 +50,7 @@ A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésén
 
 (3) A könyvtári tevékenységről és a könyvtári alkalmazottakról szóló szabályok vonatkoznak a nem nyilvános könyvtárakra is.
 
-(4) A 92–96. és 99. §-okban foglaltak kivételével e törvény hatálya nem terjed ki a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény (a továbbiakban: Ltv.) hatálya alá tartozó iratokra, szervekre és személyekre. Nem terjed ki továbbá – viszonosság esetén – a diplomáciai mentességet élvező külföldi állampolgárok tulajdonában levő, külföldről behozott kulturális javakra.
+(4) A 3/A. §-ban, a 92–96. és 99. §-ban foglaltak kivételével e törvény hatálya nem terjed ki a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény (a továbbiakban: Ltv.) hatálya alá tartozó iratokra, szervekre és személyekre.
 
 (5)–(6)
 
@@ -135,7 +142,7 @@ A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésén
 
 (3) A muzeális intézmény rendelkezik a szakmai besorolása szerinti követelményszint biztosításához szükséges tárgyi és személyi feltételekkel, amely által ellátja az e törvényben meghatározott feladatokat.
 
-(4) A muzeális intézmény a kulturális javakhoz való hozzáférés biztosítása érdekében:
+(4) A muzeális intézmény a kulturális javakhoz való hozzáférés biztosítása és a kulturális alapellátás kiterjesztése érdekében:
 
 - a) a kulturális javak egységes szaktudományos szempontok szerint, tudományos szaktevékenység keretében kialakított, nyilvántartott és dokumentált együttesét őrzi, gondozza és kiállításon bemutatja,
 - b) biztosítja a kulturális javakhoz kapcsolódó kutatási tevékenység lehetőségét,
@@ -159,6 +166,15 @@ A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésén
   - cc) megyei hatókörű városi múzeum,
   - cd) országos szakmúzeum,
   - ce) országos múzeum.
+
+(8) A miniszter a működési engedély kiadására irányuló eljárás során a muzeális intézmény részére – a fenntartó erre irányuló külön kérelme esetén – nemzetiségi bázisintézmény címet adományoz, ha a muzeális intézmény
+
+- a) alapfeladatai körében szerepel a nemzetiségi feladatellátás, vagy
+- b) állományában a nemzetiségi nyelvű vagy nemzetiségre vonatkozó kulturális javak huszonöt százalékot elérő arányban találhatóak.
+
+(9) A nemzetiségi bázisintézmény címet a működési engedélyben kell feltüntetni.
+
+(10) A nemzetiségi bázisintézmény címmel rendelkező muzeális intézmény közművelődési programjaiban és állandó kiállításában a nemzetiségi kultúrát hangsúlyosan mutatja be.
 
 37/B. § (1) A muzeális intézmény gyűjteménye
 
@@ -197,6 +213,14 @@ révén gyarapítható.
 
 (3) A kölcsönzési szerződéshez mellékelni kell a kölcsönzött kulturális javak leltári számmal ellátott jegyzékét, a kölcsönbe adás időpontjában fennálló fizikai állapotot dokumentáló szakleírással és képi ábrázolással együtt.
 
+(3a) A kölcsönkérő a kölcsönzést megelőzően a kölcsönözni szándékozott kulturális javakra vonatkozó elhelyezési dokumentációt készít, amely tartalmazza a kiállítótér alaprajzát, műszaki adatait és a tűzvédelmi előírásokat, a kulturális javak állományvédelmére vonatkozó előírásokat, valamint a kulturális javak, továbbá a kiállítótér vagyonbiztonságára vonatkozó előírásokat. Az elhelyezési dokumentációban foglalt feltételek fennállását a kölcsönadó saját költségén a kölcsönzési szerződés megkötését megelőzően ellenőrizheti. A kölcsönkérő köteles az ellenőrzést tűrni és az ellenőrzés lefolytatása során a kölcsönadóval együttműködni.
+
+(3b) Ha a kölcsönadó és a kölcsönvevő eltérően nem állapodnak meg, a kölcsönvevő viseli a kölcsönzéssel összefüggő alábbi költségeket:
+
+- a) a kulturális javak állományvédelmét szolgáló költség,
+- b) a kulturális javak vagyonbiztonságát szolgáló költség, valamint
+- c) az adminisztrációs költség, ideértve a postai, nyomtatási és fénymásolási költséget is.
+
 (4) A kölcsönzési szerződésben kölcsönzési díj és pénzügyi biztosíték köthető ki. A muzeális intézmény nyilvántartásában szereplő kulturális javak nem muzeális intézmény számára, továbbá külföldre történő kölcsönzése esetén, a (7) bekezdésben meghatározott kivétellel a kölcsönzött kulturális javak értékéhez igazodó pénzügyi biztosítékot kell kikötni.
 
 (4a) Pénzügyi biztosítékként
@@ -217,7 +241,7 @@ alkalmazható.
 
 38/B. § A miniszter a nemzeti kulturális érdekre figyelemmel és a széles körű hozzáférés céljait szem előtt tartva határozott időre kijelölheti a muzeális intézmény alapleltárában szereplő, állami tulajdonban lévő kulturális javak őrzési vagy bemutatási helyét.
 
-38/C. § Az állami tulajdonban lévő, jogszabály alapján védett vagy hatósági eljárás során védetté nyilvánított kulturális javak vagyonkezelésére a Magyar Nemzeti Vagyonkezelő Zrt. a miniszter által a nemzeti kulturális érdekre figyelemmel kijelölt személlyel vagy szervezettel vagyonkezelési szerződést köt.
+38/C. § Az állami tulajdonban lévő, jogszabály alapján védett kulturális javak vagyonkezelésére a Magyar Nemzeti Vagyonkezelő Zrt. a miniszter által a nemzeti kulturális érdekre figyelemmel kijelölt személlyel vagy szervezettel vagyonkezelési szerződést köt.
 
 38/D. § (1) Az állami vagy helyi önkormányzati fenntartású közgyűjteményekben őrzött, kulturális javak – a 38/A–38/C. §-ban meghatározottaktól eltérő hasznosítása céljából történő – birtokba adásáról a tulajdonosi joggyakorló vagy a vagyonkezelő a kulturális örökség védelméért felelős miniszter javaslata alapján, a miniszter előzetes véleményének kikérése mellett – különös méltánylást érdemlő körülmények fennállása esetén a versenyeztetés mellőzésével – dönt és ezt követően a hasznosításra szerződést köt.
 
@@ -231,7 +255,7 @@ alkalmazható.
 
 (3) Működési engedély akkor adható ki, ha a muzeális intézmény által kezelt javak a kulturális javak körébe tartoznak és a muzeális intézmény fenntartója biztosítja a folyamatos és rendeltetésszerű működéshez szükséges személyi és tárgyi feltételeket.
 
-(4) A miniszter a működési engedély kiadására irányuló eljárás során a muzeális intézményt – erre irányuló külön kérelem esetén – nemzetiségi bázisintézménynek minősíti, ha az intézmény alapfeladatai körében szerepel a nemzetiségi feladatellátás, vagy az állományában a nemzetiségi nyelvű vagy nemzetiségre vonatkozó kulturális javak huszonöt százalékot elérő arányban találhatóak. A nemzetiségi bázisintézménnyé minősítést a működési engedélyben kell feltüntetni.
+(4)
 
 (5) A működési engedélyeket a miniszter által vezetett minisztérium tartja nyilván.
 
@@ -298,7 +322,7 @@ alkalmazható.
 (4) A múzeum:
 
 - a) szabad kapacitásai terhére kiállítások megrendezésével, kulturális javak kölcsönzésével, valamint tudományos, állományvédelmi és közönségkapcsolati tevékenységgel kapcsolatos szolgáltatást nyújthat,
-- b) a fenntartó által jóváhagyott múzeumi küldetésnyilatkozattal és múzeumi digitalizálási stratégiával rendelkezik, amely alapján szakmai tevékenységét folytatja,
+- b) a fenntartó által jóváhagyott múzeumi küldetésnyilatkozattal, stratégiai tervvel, állományvédelmi tervvel, gyűjteménygyarapítási és revíziós tervvel, továbbá múzeumi digitalizálási stratégiával rendelkezik, amely alapján szakmai tevékenységét folytatja,
 - c) feladatait éves szakmai munka- és pénzügyi terv alapján végzi, tevékenységéről éves szakmai munkajelentést és pénzügyi beszámolót, valamint teljesítményértékelést készít.
 
 ### Országos múzeum
@@ -331,16 +355,7 @@ alkalmazható.
 
 (4) A megyei hatókörű városi múzeum vezetőjének megbízásához és annak visszavonásához a miniszter egyetértése szükséges. Ha a miniszter a fenntartó erre irányuló javaslatának kézhezvételétől számított 30 napon belül nem hoz döntést, úgy kell tekinteni, hogy a javaslatban foglaltakkal egyetért.
 
-(5) A megyei hatókörű városi múzeum
-
-- a) alapító okiratát,
-- b) stratégiai fejlesztési és beruházási tervét,
-- c) éves szakmai feladatait,
-- d) munkatervét, beszámolóját,
-- e) feladatalapú költségvetését,
-- f) teljesítményértékelését
-
-a miniszter előzetesen véleményezi. Ha a miniszter a fenntartó erre irányuló javaslatának kézhezvételétől számított 30 napon belül nem hoz döntést, úgy kell tekinteni, hogy a javaslatban foglaltakkal egyetért.
+(5) A megyei hatókörű városi múzeum szakmai munkatervét és szakmai beszámolóját, valamint stratégiai tervét a fenntartó – annak elfogadását megelőzően – véleményezésre megküldi a miniszternek. Ha a miniszter a fenntartó javaslatának kézhezvételétől számított 30 napon belül nem ad véleményt, úgy kell tekinteni, hogy a javaslatban foglaltakkal egyetért. A miniszter véleménye a fenntartót nem köti döntése meghozatalában.
 
 45/A. § (1) A megyei hatókörű városi múzeum gyűjtőköre legalább öt muzeológiai szakágra terjed ki, gyűjtőterülete a megye és a megyében levő megyei jogú városok közigazgatási területe.
 
@@ -361,11 +376,13 @@ esetében.
 - f) jogszabályban meghatározottak szerint részt vesz a védetté nyilvánított területek ellenőrzésében,
 - g) gyűjtőkörében szakmai tanácsadást folytat a muzeális intézmények szakmai együttműködése, munkájuk összehangolása, valamint az egyéb kulturális javak védelme érdekében,
 - h) részt vesz a szellemi kulturális örökség védelmével kapcsolatos helyi tevékenységek koordinálásában és szakmai támogatásában,
-- i) muzeológiai, múzeumpedagógiai, képzési és restaurálási szakmai-módszertani központként évente legalább kétszer módszertani műhelygyakorlatot szervez
+- i) restaurálási-műtárgyvédelmi, muzeológiai, valamint múzeumpedagógiai szakmai-módszertani központként mindegyik témakörben évente legalább két módszertani műhelygyakorlatot szervez a megye közigazgatási területén működő muzeális intézmények munkatársai számára,
   - ia) restaurálási és műtárgyvédelmi tevékenység körében gyakorlati bemutatóval egybekötve,
   - ib) gyűjteménykezelési, nyilvántartási, gyűjteményfeldolgozási és digitalizálási tevékenység körében,
-  - ic) múzeumpedagógia területén óvodapedagógusok és pedagógusok, továbbá a muzeális intézmények közművelődési szakemberei számára, valamint
-- j) évenként legalább egyszer helyszíni bejárás keretében felméri a megye területén lévő muzeális intézmények állományvédelmi helyzetét.
+  - ic) múzeumpedagógia területén óvodapedagógusok és pedagógusok, továbbá a muzeális intézmények közművelődési szakemberei számára.
+- j) legalább egy fő, szakirányú közép- vagy felsőfokú végzettségű állományvédelmi felelőst foglalkoztat, aki középtávú intézkedési terv alapján évente legalább egyszer helyszíni bejárás keretében felméri a megye területén lévő muzeális intézmények állományvédelmi helyzetét.
+
+(3) A megyei hatókörű városi múzeum a kulturális javak állomány- vagy biztonságvédelmét súlyosan veszélyeztető vagy károsító helyzet esetén a (2) bekezdés j) pontja szerinti helyszíni bejárást soron kívül lefolytatja.
 
 45/B. §
 
@@ -390,9 +407,9 @@ esetében.
 
 (3) A területi múzeum vezetőjének megbízásához és annak visszavonásához a miniszter véleményét előzetesen ki kell kérni.
 
-(4) A területi múzeum gyűjtőterületére kiterjedően – a megyei hatókörű városi múzeummal kötött megállapodás alapján – elláthatja a megyei hatókörű városi múzeum 45/A. § (2) bekezdés bf), bg), bh) pontjaiban foglalt feladatait, vagy azok egy részét.
+(4) A területi múzeum gyűjtőterületére kiterjedően – a megyei hatókörű városi múzeummal kötött megállapodás alapján – elláthatja a megyei hatókörű városi múzeum 45/A. § (2) bekezdés g) és i) pontjában foglalt feladatait, vagy azok egy részét.
 
-(5) A területi múzeum állam, helyi önkormányzat fenntartásában, vagy az állam vagy helyi önkormányzat 100%-os tulajdonában álló gazdasági társaság fenntartásában működik.
+(5) A területi múzeum állam, helyi önkormányzat fenntartásában, vagy az állam vagy helyi önkormányzat 100%-os tulajdonában álló nonprofit gazdasági társaság fenntartásában működik.
 
 (6) A régészeti gyűjtőkörrel rendelkező területi múzeum a gyűjtőterületére kiterjedően
 
@@ -489,7 +506,7 @@ esetében.
 
 51/A. § (1) A muzeális intézmény a fenntartó által biztosított támogatás, valamint saját bevételei alapján gondoskodik feladatainak ellátásáról. A költségvetési szervként és az annak tagintézményeként működő muzeális intézmény éves kiadásait a fenntartó által megállapított költségvetésben kell előirányozni.
 
-(2) Az állam a központi költségvetésről szóló törvényben meghatározott módon, a helyi önkormányzatok költségvetési fejezetében támogatja a megyei hatókörű városi múzeumok állami feladatainak ellátását.
+(2) Az állam a központi költségvetésről szóló törvényben meghatározott módon, a helyi önkormányzatok költségvetési fejezetében támogatja a megyei hatókörű városi múzeumok 45/A. § (2) bekezdése szerinti állami feladatainak ellátását.
 
 (3) A kulturális örökség javainak helyi védelmével, valamint a helyi közművelődési tevékenység támogatásával kapcsolatos feladatokat ellátó, települési önkormányzat által fenntartott muzeális intézmény feladatellátásához az állam a központi költségvetésről szóló törvényben meghatározott módon, a helyi önkormányzatok költségvetési fejezetében támogatást nyújt.
 
@@ -511,18 +528,21 @@ esetében.
 
 54. § (1) A nyilvános könyvtár alapkövetelményei:
 
-- a) mindenki által használható és megközelíthető,
+- a) mindenki által használható és – e törvény eltérő rendelkezése hiányában – megközelíthető,
 - b) vezetője felsőfokú szakirányú végzettséggel rendelkezik és könyvtári szakembert alkalmaz,
 - c) rendelkezik kizárólagosan könyvtári szolgáltatások céljaira alkalmas helyiséggel,
 - d) rendszeresen, a felhasználók többsége számára megfelelő időpontban tart nyitva,
 - e) helyben nyújtott alapszolgáltatásai ingyenesek,
 - f) statisztikai adatokat szolgáltat,
 - g) ellátja az 55. § (1) bekezdésében felsorolt alapfeladatokat,
-- h) elnevezésében megjelenik a könyvtár kifejezés.
+- h) elnevezésében megjelenik a könyvtár kifejezés,
+- i) részt vesz a kulturális alapellátás kiterjesztésében.
+
+(1a) Azok a fegyveres és rendvédelmi testületek által fenntartott könyvtárak, amelyek vállalják a nyilvános könyvtárak 55. § (1) bekezdés szerinti alapfeladatainak ellátását, a hozzáférést távhasználat útján is biztosíthatják.
 
 (2) A nyilvános könyvtárakról a miniszter jegyzéket vezet.
 
-(3) A nemzeti könyvtár, a helyi önkormányzatok által fenntartott települési könyvtár, a megyei könyvtár, a 3. számú melléklet szerinti országos szakkönyvtár, továbbá az állami egyetem könyvtára nyilvános könyvtár, amely a fenntartónak az (1) bekezdésben foglaltak teljesítésére vonatkozó nyilatkozata, valamint a nyilvános könyvtárak jegyzékének vezetéséről szóló kormányrendeletben meghatározott adatok benyújtásával kerül be a nyilvános könyvtárak jegyzékébe.
+(3) A nemzeti könyvtár, a helyi önkormányzatok által fenntartott települési könyvtár, a megyei hatókörű városi könyvtár, a 3. számú melléklet szerinti országos szakkönyvtár, továbbá az állami egyetem könyvtára nyilvános könyvtár, amely a fenntartónak az (1) bekezdésben foglaltak teljesítésére vonatkozó nyilatkozata, valamint a nyilvános könyvtárak jegyzékének vezetéséről szóló kormányrendeletben meghatározott adatok benyújtásával kerül be a nyilvános könyvtárak jegyzékébe.
 
 (4) A (3) bekezdés hatálya alá nem tartozó könyvtár fenntartója az (1) bekezdésben foglaltak teljesítésével, valamint az erről szóló nyilatkozat és a jogszabályban meghatározott adatok benyújtásával kérheti a minisztertől a könyvtár felvételét a nyilvános könyvtárak jegyzékébe.
 
@@ -614,7 +634,7 @@ esetében.
 
 (4) A miniszter kialakítja a nemzeti kulturális örökség részét képező kép- és hangrögzítés országos nyilvántartási rendszerét.
 
-(5) A miniszter működteti a Neumann János Multimédia Központ és Digitális Könyvtárt, amely a multimédia és elektronikus dokumentumok nemzeti szolgáltató központja. Az informatikáért felelős miniszter külön jogszabályban meghatározottak szerint működteti a Nemzeti Audiovizuális Archívumot (a továbbiakban: NAVA). A NAVA szakmai felügyeletét az informatikáért felelős miniszter, valamint a miniszter közösen látja el.
+(5)
 
 (6)
 
@@ -641,7 +661,7 @@ esetében.
 - f) a könyvtári tevékenységre vonatkozó irányelvek, normatívák kidolgozása, módszertani tevékenység,
 - g) a könyvtárak és a társadalom közötti kapcsolat fejlesztése,
 - h) az országos könyvtári statisztikai adatok összesítése, elemzése és szolgáltatása,
-- i)
+- i) a könyvtári minőségirányítási tevékenység koordinálása, képzések szervezése, a Minősített Könyvtár cím és a Könyvtári Minőségi Díj adományozásának szakmai előkészítése.
 
 (4) A (3) bekezdésben felsorolt feladatokat a könyvtári intézet látja el.
 
@@ -712,24 +732,26 @@ esetében.
 - a) szakterületükön szakirodalmi és információs szolgáltatásokat végeznek, és közvetítenek,
 - b) szakterületükre vonatkozóan részt vesznek a 60. §-ban felsorolt szolgáltatások megvalósításában.
 
-### VI. Fejezet — Közkönyvtári ellátás:a települési és a megyei könyvtári ellátás
+### VI. Fejezet — Közkönyvtári ellátás
 
 64. § (1) A települési könyvtári ellátás biztosítása a települési önkormányzatok kötelező feladata.
 
 (2) Az (1) bekezdésben meghatározott feladatot a községi és a városi önkormányzat
 
 - a) nyilvános könyvtár fenntartásával vagy
-- b) a megyei könyvtár szolgáltatásainak igénybevételével teljesíti.
+- b) a megyei hatókörű városi könyvtár szolgáltatásainak igénybevételével teljesíti.
 
-(3) A (2) bekezdés b) pontja esetén a települési önkormányzat megállapodást köt a megyei könyvtárral, és az igénybe vett szolgáltatások fogadására alkalmas könyvtári, információs és közösségi hely elnevezésű könyvtári szolgáltató helyet működtet.
+(2a) A nyilvános könyvtár fenntartását és működtetését a települési önkormányzat a helyi önkormányzat 100%-os tulajdonában álló nonprofit gazdasági társaság útján is elláthatja.
+
+(3) A (2) bekezdés b) pontja esetén a települési önkormányzat megállapodást köt a megyei hatókörű városi könyvtárral, és az igénybe vett szolgáltatások fogadására alkalmas könyvtári, információs és közösségi hely elnevezésű könyvtári szolgáltató helyet működtet.
 
 (4) A fővárosban az (1) bekezdésben meghatározott feladatot Budapest Főváros Önkormányzata a kerületek könyvtári ellátását is biztosító nyilvános könyvtár fenntartásával teljesíti.
 
-(5) A megyei könyvtár és a Budapest Főváros Önkormányzata által fenntartott könyvtár költségvetési szervként működő nyilvános könyvtár.
+(5) A megyei hatókörű városi könyvtár és a Budapest Főváros Önkormányzata által fenntartott könyvtár költségvetési szervként működő nyilvános könyvtár.
 
-(6) A megyeszékhely megyei jogú város – Pest megyében Szentendre Város Önkormányzata – az (1) bekezdésben foglalt feladatait megyei könyvtár fenntartásával biztosítja.
+(6) A megyeszékhely megyei jogú város – Pest megyében Szentendre Város Önkormányzata – az (1) bekezdésben foglalt feladatait megyei hatókörű városi könyvtár fenntartásával biztosítja.
 
-(7) A megyei könyvtár vagyonkezelője a tevékenységét biztosító vagyonnak.
+(7) A megyei hatókörű városi könyvtár vagyonkezelője a tevékenységét biztosító vagyonnak.
 
 65. § (1) A települési könyvtár a községi, városi, fővárosi könyvtár.
 
@@ -742,7 +764,7 @@ esetében.
 
 (3) A fővárosi könyvtár a főváros területére vonatkozóan ellátja a 66. §-ban felsorolt feladatokat is.
 
-66. § A megyei könyvtár a megye egész területére vonatkozóan az 55. § (1) bekezdésében és a 65. § (2) bekezdésében foglaltakon túl állami feladatként
+66. § A megyei hatókörű városi könyvtár a megye egész területére vonatkozóan az 55. § (1) bekezdésében és a 65. § (2) bekezdésében foglaltakon túl állami feladatként
 
 - a) ellátja a megyei kötelespéldányokkal, a digitalizálással, a gyűjteményét feltáró elektronikus katalógus építésével kapcsolatos feladatokat,
 - b) szervezi a területén működő könyvtárak együttműködését,
@@ -750,12 +772,12 @@ esetében.
 - d) a települési könyvtárak tevékenységét segítő szolgáltatásokat nyújt,
 - e) szervezi a megyében működő könyvtárak statisztikai adatszolgáltatását,
 - f) végzi az iskolán kívüli könyvtári továbbképzést és szakképzést,
-- g) működteti a Könyvtárellátási Szolgáltató Rendszert,
-- h) megállapodás alapján igénybe vehető szolgáltatásokat nyújt a 64. § (3) bekezdésében megjelölt könyvtári szolgáltató helyen nyújtott könyvtári szolgáltatások megszervezéséhez a települési önkormányzatok számára,
+- g) működteti a Könyvtárellátási Szolgáltató Rendszert, szervezi a könyvtári, információs és közösségi helyek részvételét a kulturális alapellátás kiterjesztésében,
+- h) megállapodás alapján biztosítja a települési önkormányzatok számára a Könyvtárellátási Szolgáltató Rendszer működéséről szóló miniszteri rendeletben meghatározott feladatainak ellátását a 64. § (3) bekezdése szerinti könyvtári, információs és közösségi helyen,
 - i) koordinálja a települési könyvtárak fejlesztését, ennek keretében javaslatot tesz a megyében működő városi könyvtárak és a települési nyilvános könyvtárak fenntartóinak a könyvtár fejlesztésére a miniszter rendeletében meghatározott szakmai követelmények érvényesítése érdekében,
 - j) koordinálja a települési könyvtárak minősítésének előkészítését,
 - k) ellátja az Országos Dokumentumellátási Rendszerről szóló kormányrendeletben a szolgáltató könyvtár számára meghatározott feladatokat,
-- l) évente egy alkalommal a könyvtári szolgáltatások megvalósításával kapcsolatos információs szakmai műhelynapot szervez a megye könyvtárosai számára,
+- l) évente két alkalommal a könyvtári szolgáltatások megvalósításával kapcsolatos információs szakmai műhelynapot szervez a megyében lévő városi könyvtárak könyvtárosai számára,
 - m) ellátja a helyismereti dokumentumok elektronikus hozzáférhetővé tételével kapcsolatos feladatokat.
 
 67. § A tizenötezer fő feletti lakosságszámú városokban elsősorban önálló intézményben kell a nyilvános könyvtári ellátást biztosítani. A nyilvános könyvtári ellátást biztosító intézmények összevonása más intézménnyel csak szakmai vagy jelentős gazdálkodási előnyök kimutatása esetében indokolt. A nyilvános könyvtárak átszervezésével kapcsolatos intézkedésekhez a miniszter véleményét előzetesen ki kell kérni.
@@ -772,24 +794,16 @@ esetében.
 - f) biztosítja a könyvtár szakmai önállóságát,
 - g) ellátja a könyvtár fenntartásával, irányításával kapcsolatos más jogszabályokban meghatározott feladatokat.
 
-(2) A megyei könyvtár igazgatójának és a Budapest Főváros Önkormányzata által fenntartott könyvtár főigazgatójának vezetői megbízásához és annak visszavonásához a miniszter előzetes egyetértése szükséges. Ha a miniszter a fenntartó erre irányuló javaslatának kézhezvételétől számított 30 napon belül nem hoz döntést, úgy kell tekinteni, hogy a javaslatban foglaltakkal egyetért.
+(2) A megyei hatókörű városi könyvtár igazgatójának és a Budapest Főváros Önkormányzata által fenntartott könyvtár főigazgatójának vezetői megbízásához és annak visszavonásához a miniszter előzetes egyetértése szükséges. Ha a miniszter a fenntartó erre irányuló javaslatának kézhezvételétől számított 30 napon belül nem hoz döntést, úgy kell tekinteni, hogy a javaslatban foglaltakkal egyetért.
 
-(3) A miniszter előzetesen véleményezi a megyei és a Budapest Főváros Önkormányzata által fenntartott könyvtár
-
-- a) alapító okiratát,
-- b) szervezeti és működési szabályzatát,
-- c) stratégiai tervét,
-- d) munkatervét és beszámolóját,
-- e) költségvetésének feladatalapú tervezését,
-- f) fejlesztési és beruházási feladatainak meghatározását,
-- g) minőségpolitikai nyilatkozatát. Ha a miniszter a fenntartó erre irányuló javaslatának kézhezvételétől számított 30 napon belül nem hoz döntést, úgy kell tekinteni, hogy a javaslatban foglaltakkal egyetért.
+(3) A megyei hatókörű városi könyvtár hatókörű városi könyvtár szakmai munkatervét és szakmai beszámolóját, stratégiai tervét, valamint minőségpolitikai nyilatkozatát a fenntartó – annak elfogadását megelőzően – véleményezésre megküldi a miniszternek. Ha a miniszter a fenntartó javaslatának kézhezvételétől számított 30 napon belül nem ad véleményt, úgy kell tekinteni, hogy a javaslatban foglaltakkal egyetért. A miniszter véleménye a fenntartót nem köti döntése meghozatalában.
 
 69. § A miniszter ellátja a könyvtári tevékenység és a nyilvános könyvtárak ágazati irányítását. Ennek keretében
 
 - a) szabályozza: – a könyvtárak szakmai működését, így különösen a dokumentumok védelmét és nyilvántartását, a muzeális dokumentumok védetté nyilvánítását, külföldre vitelének engedélyezését, a könyvtári dokumentumok bejelentési kötelezettségét, – a szakfelügyeletet, – a könyvtári alkalmazottak képesítési feltételeit, illetőleg kedvezményeit, – a különböző típusú könyvtárak szakmai követelményeit és normatíváit, – az országos könyvtári szakértői névjegyzéket és a szakértői működéssel kapcsolatos kérdéseket,
 - b) kidolgozza az országos könyvtári informatikai hálózat és a nyilvános könyvtári ellátás rendszerének fejlesztési tervét,
 - c) ösztönzi a könyvtári szolgáltatások összehangolását,
-- d) véleményezési jogot gyakorol a települési és megyei könyvtár átszervezése vagy megszüntetése esetén,
+- d) véleményezési jogot gyakorol a települési és megyei hatókörű városi könyvtár átszervezése vagy megszüntetése esetén,
 - e) a szakfelügyelet keretében könyvtári szakértő bevonásával ellenőrzi e törvény, a könyvtári tevékenységre vonatkozó jogszabályok, a szakmai követelmények és normatívák betartását és a központi támogatások felhasználását.
 
 ### VIII. Fejezet — A könyvtárak finanszírozásánakés központi támogatásának alapelvei
@@ -799,12 +813,12 @@ esetében.
 (2) A nyilvános könyvtári ellátásból adódó állami feladatokhoz a központi költségvetés hozzájárul:
 
 - a) a nemzeti könyvtár, az állami egyetemi könyvtárak és az országos szakkönyvtárak esetében a fenntartó fejezeti költségvetésében, a Fővárosi Szabó Ervin Könyvtár esetében a helyi önkormányzatok költségvetési fejezetében,
-- b) a megyei és a fővárosi könyvtári feladatok támogatásához a helyi önkormányzatok költségvetési fejezetében,
+- b) a megyei hatókörű városi könyvtári és a fővárosi könyvtári feladatok támogatásához a helyi önkormányzatok költségvetési fejezetében,
 - c) a települési önkormányzatok által kötelező feladatként biztosított nyilvános könyvtári ellátás biztosításához a helyi önkormányzatok költségvetési fejezetében,
-- d) a kistelepülések által igénybe vehető megyei könyvtári feladatok támogatásához a helyi önkormányzatok költségvetési fejezetében,
+- d) a kistelepülések által igénybe vehető megyei hatókörű városi könyvtári feladatok támogatásához a helyi önkormányzatok költségvetési fejezetében,
 - e) a települési önkormányzatok által működtetett könyvtárak állománygyarapítási kereteinek érdekeltségnövelő támogatásához a helyi önkormányzatok költségvetési fejezetében.
 
-(3) A helyi önkormányzatok számára a települési és megyei (fővárosi) könyvtárak állománygyarapítási keretei érdekeltségnövelő támogatása elosztásának szabályait a miniszter rendeletben határozza meg.
+(3) A helyi önkormányzatok számára a települési és megyei hatókörű városi (fővárosi) könyvtárak állománygyarapítási keretei érdekeltségnövelő támogatása elosztásának szabályait a miniszter rendeletben határozza meg.
 
 (4) Az érdekeltségnövelő támogatásra a nyilvános könyvtárak jegyzékében szereplő könyvtárak fenntartói adhatják be pályázataikat.
 
@@ -833,14 +847,7 @@ esetében.
 
 (2) A közművelődés feltételeinek biztosítása alapvetően az állam és a helyi önkormányzatok feladata.
 
-74. § A közművelődési intézmény szerepét – az 1. számú melléklet p) pontjában meghatározott feltételek fennállása esetén – betöltheti:
-
-- a) művelődési otthon, ház, központ, szabadidő központ, közösségi ház, ifjúsági, illetve gyermekház, faluház,
-- b) az oktatási és közművelődési, illetőleg egyéb feladatokat ellátó általános művelődési központ,
-- c) az alaptevékenységéhez kapcsolódóan közművelődési feladatokat is ellátó önálló vagy többfunkciós, közös igazgatású kulturális és sportlétesítmény,
-- d) minden olyan egyéb közművelődési szolgáltatást ellátó intézmény, amely a polgárok közösségi művelődését szolgálja, fenntartójától, működtetőjétől függetlenül.
-
-75. § Közösségi színtér, illetve közművelődési intézmény működtetője az állam, települési önkormányzat, önkormányzati társulás, valamint közművelődési megállapodás keretében egyéb szervezet (egyesület, alapítvány stb.), illetőleg magánszemély lehet.
+74–75. §
 
 ### II. Fejezet — A helyi közművelődés
 
@@ -848,92 +855,182 @@ esetében.
 
 76. § (1) A települési önkormányzat kötelező feladata a helyi közművelődési tevékenység támogatása.
 
-(2) Ennek formái különösen:
+(2) A települési önkormányzat az (1) bekezdésben meghatározott feladatát a (3) bekezdés szerinti közművelődési alapszolgáltatások megszervezése, a 80. §-ban meghatározott pénzügyi támogatás biztosítása, valamint a közművelődés 82–83. §-ban szabályozott helyi lakossági képviseletének biztosítása révén (a továbbiakban együtt: közművelődési feladatok) látja el.
 
-- a) az iskolarendszeren kívüli, öntevékeny, önképző, szakképző tanfolyamok, életminőséget és életesélyt javító tanulási, felnőttoktatási lehetőségek, népfőiskolák megteremtése,
-- b) a település környezeti, szellemi, művészeti értékeinek, hagyományainak feltárása, megismertetése, a helyi művelődési szokások gondozása, gazdagítása,
-- c) az egyetemes, a nemzeti, a nemzetiségi és más kisebbségi kultúra értékeinek megismertetése, a megértés, a befogadás elősegítése, az ünnepek kultúrájának gondozása,
-- d) az ismeretszerző, az amatőr alkotó, művelődő közösségek tevékenységének támogatása,
-- e) a helyi társadalom kapcsolatrendszerének, közösségi életének, érdekérvényesítésének segítése,
-- f) a különböző kultúrák közötti kapcsolatok kiépítésének és fenntartásának segítése,
-- g) a szabadidő kulturális célú eltöltéséhez a feltételek biztosítása,
-- h) egyéb művelődést segítő lehetőségek biztosítása,
-- i) a települési könyvtár, valamint a település közigazgatási területén lévő muzeális intézmény közművelődési tevékenységének támogatása.
+(3) A közművelődési alapszolgáltatások:
 
-77. § A települési önkormányzat a helyi társadalom művelődési érdekeinek és kulturális szükségleteinek figyelembevételével, e törvény és a helyi lehetőségek, sajátosságok alapján rendeletben határozza meg, hogy a 76. §-ban felsoroltakból mit, milyen konkrét formában, módon és mértékben lát el.
+- a) művelődő közösségek létrejöttének elősegítése, működésük támogatása, fejlődésük segítése, a közművelődési tevékenységek és a művelődő közösségek számára helyszín biztosítása,
+- b) a közösségi és társadalmi részvétel fejlesztése,
+- c) az egész életre kiterjedő tanulás feltételeinek biztosítása,
+- d) a hagyományos közösségi kulturális értékek átörökítése feltételeinek biztosítása,
+- e) az amatőr alkotó- és előadó-művészeti tevékenység feltételeinek biztosítása,
+- f) a tehetséggondozás- és -fejlesztés feltételeinek biztosítása, valamint
+- g) a kulturális alapú gazdaságfejlesztés.
 
-78. § (1) A települési önkormányzat a közművelődési tevékenységek folyamatos megvalósíthatósága érdekében közösségi színteret, illetve közművelődési intézményt biztosít.
+77. § (1) A települési önkormányzat a közművelődési alapszolgáltatások folyamatos hozzáférhetősége érdekében, a 78/I. § (1) bekezdésében foglaltaknak megfelelően közösségi színteret, illetve közművelődési intézményt biztosít.
 
-(2) Megyei jogú városban, városban, fővárosi kerületben az önkormányzat az (1) bekezdésben foglalt feladat ellátása során közművelődési intézményt biztosít. Községekben az önkormányzat közösségi színteret, illetve közművelődési intézményt biztosít.
+(2) A közművelődési intézmény, illetve a közösségi színtér fenntartója, működtetője az állam, települési önkormányzat, nemzetiségi önkormányzat, önkormányzati társulás, valamint közművelődési megállapodás keretében egyház, egyéb szervezet vagy magánszemély lehet.
 
-(3) Az önkormányzat a közösségi színtér vagy közművelődési intézmény fenntartójaként, illetve a közösségi színtér vagy közművelődési intézmény működtetésére irányuló közművelődési megállapodásban biztosítja, hogy a településen a lakosság önszerveződő közösségei megfelelő rendszerességgel és időtartamban vehessék igénybe a színtér vagy intézmény szolgáltatásait, és az igénybevétel idejére a minimális működési feltételek rendelkezésre álljanak.
+(3) A közművelődési intézmény és a közösségi színtér
 
-(4) A települési önkormányzat indokolt esetben engedélyezi az általa fenntartott közösségi színtér, illetve közművelődési intézmény más célra történő átmeneti igénybevételét, tevékenységének évente legfeljebb 2 hónap időtartamú szüneteltetését. Ha a települési önkormányzat közművelődési megállapodás alapján biztosítja a közösségi színtér, illetve közművelődési intézmény működését, akkor évente 2 hónapon túli szüneteltetés esetén új közművelődési megállapodással biztosítja a településen a közművelődési szolgáltatásokat.
+- a) segíti a közösségi tevékenységéket, a művelődő közösségek működését, ösztönzi a társadalmi összetartozást és a közösségek kulturális értékteremtésben való aktív részvételét,
+- b) működése a közösségek öntevékenységén alapul, és azt ösztönzi, tevékenységét a közösségek érdeklődése, igényei és szükségletei alapján végzi, tevékenységének tervezésébe, értékelésébe a közösségeket bevonja,
+- c) mindenki számára nyitott, mindenki számára hozzáférhető,
+- d) együttműködik a civil, gazdasági és egyéb szervezetekkel, kulturális intézményekkel, más szakterületekhez tartozó intézményekkel,
+- e) alaptevékenysége körében nem gazdasági haszonszerzés céljából jön létre,
+- f) részt vesz a kulturális alapellátás kiterjesztésében.
 
-(5) Az az önkormányzat, amely közösségi színteret, illetve közművelődési intézményt tart fenn az e törvényben foglaltak alapján:
+(4) Az állam, a települési önkormányzat, a nemzetiségi önkormányzat vagy az önkormányzati társulás által fenntartott közművelődési intézmény költségvetési szervként működik.
 
-- a) meghatározza a közösségi színtér, illetve a közművelődési intézmény használati szabályait, működésének módját, valamint a közművelődési intézmény feladatait,
-- b) kiadja az általa fenntartott közművelődési intézmény alapító okiratát, működési engedélyét, jóváhagyja, szervezeti és működési szabályzatát, éves munkatervét és költségvetését,
+(5) A közművelődési intézmény típusa – jogszabályban meghatározott szakmai, személyi és infrastrukturális feltételek megléte esetén – lehet:
+
+- a) művelődési ház,
+- b) művelődési központ,
+- c) kulturális központ,
+- d) többfunkciós közművelődési intézmény,
+- e) népfőiskola,
+- f) népi kézműves alkotóház,
+- g) gyermek-, illetve ifjúsági ház, valamint
+- h) szabadidőközpont.
+
+78. § (1) A művelődési ház a helyi közösségi művelődést szervező, közművelődési alapszolgáltatást nyújtó közművelődési intézmény. Tevékenysége településrészre, kerületre, egy településre vagy több községre terjed ki.
+
+(2) A művelődési ház vezetője szakirányú felsőfokú végzettséggel rendelkezik.
+
+(3) A művelődési ház elnevezésében szerepelnie kell a „művelődési ház”, a „közösségi ház” vagy a „faluház” kifejezés valamelyikének.
+
+78/A. § (1) A művelődési központ a helyi és járási közösségi művelődést szervező, közművelődési alapszolgáltatásokat biztosító közművelődési intézmény. Tevékenysége településrészre, kerületre, egy településre, több egymással határos településre vagy egy járásra terjed ki,
+
+(2) A művelődési központ vezetője szakirányú felsőfokú végzettséggel rendelkezik.
+
+(3) A művelődési központ elnevezésében szerepelnie kell a „művelődési központ” kifejezésnek.
+
+78/B. § (1) A kulturális központ a közművelődési alapszolgáltatások teljes körét biztosító közművelődési intézmény. Tevékenysége feladatai települési, kerületi szintű biztosítása mellett több egymással határos járásra, egy megyére vagy több egymással határos megyére terjed ki.
+
+(2) A kulturális központ vezetője szakirányú felsőfokú végzettséggel rendelkezik.
+
+(3) A kulturális központ elnevezésében szerepelnie kell a „kulturális központ” vagy az „agóra” kifejezés valamelyikének.
+
+78/C. § (1) A többfunkciós közművelődési intézmény olyan közös igazgatású művelődési ház, művelődési központ vagy kulturális központ, amely a közművelődési alapszolgáltatások biztosítása mellett tevékenységének területén médiaszolgáltatási, sajtótermék-kiadási, turisztikai információ-szolgáltató feladatokat is ellát.
+
+(2) A többfunkciós közművelődési intézmény elnevezésében működési formájától függően szerepelnie kell a „művelődési ház”, a „művelődési központ” vagy a „kulturális központ” kifejezés valamelyikének.
+
+78/D. § (1) A népfőiskola olyan nyitott tanulási, képzési közművelődési intézmény (művelődési ház, művelődési központ vagy kulturális központ), amelynek elsődleges tevékenysége az egész életre kiterjedő tanulás feltételeinek biztosítása, különösen a felnőtt korosztály számára szakmai képzések szervezése.
+
+(2) A népfőiskola elnevezésében szerepelnie kell a „népfőiskola” kifejezésnek.
+
+78/E. § (1) A népi kézműves alkotóház a tárgyalkotó népművészeti tevékenység színteréül szolgáló, jogi személyiséggel rendelkező közművelődési intézmény, amely a magyarországi hagyományos magyar és nemzetiségi, valamint a határon túli magyar népi kultúrának, hagyományoknak továbbéltetésével, komplex bemutatásával, oktatásával és megújításával kapcsolatos feladatokat lát el.
+
+(2) A népi kézműves alkotóház vezetője szakirányú felsőfokú végzettséggel rendelkezik.
+
+(3) A népi kézműves alkotóház elnevezésében szerepelnie kell a „népi kézműves alkotóház”, a „népi kézműves műhelygaléria” vagy a „népi kézműves nyitott műhely” kifejezés valamelyikének.
+
+78/F. § (1) A gyermek-, illetve ifjúsági ház olyan művelődési ház vagy művelődési központ, amelyben a különböző közművelődési alapszolgáltatások címzettje, az intézmény elsődleges használója a gyermek és az ifjúsági korosztály valamely csoportja vagy csoportjai.
+
+(2) A gyermek-, illetve ifjúsági ház elnevezésében szerepelnie kell a „gyermekház”, az „ifjúsági ház” vagy a „gyermek- és ifjúsági ház” kifejezés valamelyikének.
+
+78/G. § (1) A szabadidőközpont olyan művelődési ház, művelődési központ vagy kulturális központ, amely a közművelődési alapszolgáltatások biztosítása mellett a szellemi és a fizikai rekreációval kapcsolatos tevékenységet végez, és az ahhoz szükséges személyi és tárgyi feltételekkel rendelkezik.
+
+(2) A szabadidőközpont elnevezésében működési formájától függően szerepelnie kell a „művelődési központ”, a „szabadidőközpont” vagy a „művelődési- és szabadidőközpont” kifejezés valamelyikének.
+
+78/H. § (1) A közösségi színtér a települési, kerületi közösségi művelődés szervezése, a közművelődési alapszolgáltatások biztosítása érdekében fenntartott, működtetett vagy erre a célra alkalmassá tett és üzemeltetett, adott helyen rendszeresen működő, jogi személyiséggel nem rendelkező intézmény vagy egyéb létesítmény, helyiségegyüttes, épület.
+
+(2) A közösségi színtér formái:
+
+- a) a kizárólag közművelődési alapszolgáltatások megszervezésének helyszínt biztosító közösségi színtér vagy
+- b) a közművelődési alapszolgáltatások mellett egyéb tevékenységeknek, szolgáltatások megszervezésének is helyszínt biztosító integrált közösségi és szolgáltató tér.
+
+(3) A közösségi színtér működtetése, továbbá a helyi közösségi művelődés szervezése és a közművelődési alapszolgáltatások hozzáférhetőségének biztosítása érdekében a közösségi színtér fenntartója, működtetője szakirányú középfokú végzettséggel rendelkező személyt foglalkoztat.
+
+(4) A (3) bekezdés szerinti személy foglalkoztatását több fenntartó, működtető közösen is biztosíthatja oly módon, hogy egy személy legfeljebb három község tekintetében láthatja el feladatait.
+
+(5) A közösségi színtér elnevezésében szerepelnie kell a „közösségi színtér” vagy a „közösségi tér” kifejezés valamelyikének.
+
+78/I. § (1) Megyei jogú városban, városban, fővárosi kerületben a települési önkormányzat a 77. § (1) bekezdésében foglalt feladat ellátása során közművelődési intézményt biztosít. Községben az önkormányzat közösségi színteret vagy közművelődési intézményt biztosít.
+
+(2) A települési önkormányzat a közösségi színtér vagy közművelődési intézmény fenntartójaként, vagy a közösségi színtér vagy közművelődési intézmény működtetésére irányuló közművelődési megállapodásban biztosítja, hogy a településen a lakosság önszerveződő közösségei megfelelő rendszerességgel és időtartamban vehessék igénybe a közösségi színtér vagy közművelődési intézmény által biztosított közművelődési alapszolgáltatásokat, és az igénybevétel idejére a jogszabályban meghatározott működési feltételek rendelkezésre álljanak.
+
+(3) A települési önkormányzat gazdálkodási, költségvetési vagy vagyongazdálkodási előnyök esetén engedélyezi az általa fenntartott közösségi színtér, illetve közművelődési intézmény más célra történő átmeneti igénybevételét, valamint tevékenységének évente legfeljebb 2 hónap időtartamú szüneteltetését. Ha a települési önkormányzat közművelődési megállapodás alapján biztosítja a közösségi színtér, illetve közművelődési intézmény működését, akkor évente 2 hónapon túli szüneteltetés esetén új közművelődési megállapodással biztosítja a településen a közművelődési alapszolgáltatásokat.
+
+(4) Az az önkormányzat, amely közösségi színteret vagy közművelődési intézményt tart fenn az e törvényben foglaltak alapján:
+
+- a) meghatározza a közösségi színtér vagy a közművelődési intézmény használati szabályait, működésének módját, valamint a közművelődési intézmény feladatait,
+- b) kiadja az általa fenntartott közművelődési intézmény alapító okiratát, jóváhagyja szervezeti és működési szabályzatát, éves munkatervét és költségvetését,
 - c) biztosítja a feladatok ellátásához és a közösségi színtér, illetve közművelődési intézmény fenntartásához szükséges, e törvény szerinti szervezeti, személyi, szakképzettségi és tárgyi feltételeket,
 - d) kijelöli a közösen létesített vagy önkormányzatok közötti társulásban fenntartott közösségi színtér, illetve közművelődési intézmény esetében a működtetői jogok gyakorlóját.
 
-79. § (1) A települési önkormányzat az önkormányzati rendeletben meghatározott közművelődési feladatok megvalósítására az e törvény követelményeinek megfelelő jogi személlyel, magánszeméllyel közművelődési megállapodást köthet.
+78/J. § (1) Közművelődési intézmény létesítése, átszervezése, megszüntetése, valamint tevékenységének 2 hónapon túli szüneteltetése esetén a testületi döntés meghozatala előtt 30 nappal a miniszter és a 82. § szerinti Közművelődési Kerekasztal véleményét be kell szerezni, és annak tartalmát a képviselőtestülettel ismertetni kell.
+
+(2) Ha a miniszter és a Közművelődési Kerekasztal a megkereséstől számított 30 napon belül nem nyilvánít véleményt, úgy kell tekinteni, hogy a megkeresésben foglaltakkal egyetért. A miniszter és a Közművelődési Kerekasztal véleménye a képviselőtestületet nem köti döntése meghozatalában.
+
+### A közművelődési megállapodás
+
+79. § (1) A települési önkormányzat a közművelődési rendeletében meghatározott közművelődési feladatok megvalósítására az e törvény követelményeinek megfelelő jogi vagy természetes személlyel – a Közművelődési Kerekasztallal való egyeztetést követően – közművelődési megállapodást köthet.
 
 (2) A közművelődési megállapodásnak tartalmaznia kell:
 
-- a) az elvégzendő közművelődési szolgáltatást és annak díját,
-- b) a közművelődési tevékenységben érintettek körét,
-- c) az ingyenesen vagy térítési díjért igénybe vehető szolgáltatásokat,
-- d) a közművelődési szolgáltatás igénybevételi lehetőségeinek minimális időtartamát és rendszerességét, a közösségi színtér, illetőleg közművelődési intézmény közművelődési célú minimális nyitvatartását;
-- e) a megállapodás személyi, tárgyi és pénzügyi feltételeit,
-- f) közművelődési feladat megvalósításában közreműködőktől megkívánt szakképzettséget.
+- a) a biztosítandó közművelődési alapszolgáltatások körét és azok díját,
+- b) a közművelődési alapszolgáltatások biztosításával kapcsolatban a helyi lakossággal és annak önszerveződő közösségeivel történő kapcsolattartás elveit, főbb szempontjait,
+- c) a közművelődési alapszolgáltatásokban érintettek körét,
+- d) a helyi lakosság és annak önszerveződő közösségei által ingyenesen vagy térítési díjért igénybe vehető közművelődési alapszolgáltatásokat,
+- e) a közművelődési alapszolgáltatás igénybevételi lehetőségeinek minimális időtartamát és rendszerességét, a közösségi színtér vagy közművelődési intézmény közművelődési célú minimális nyitva tartását,
+- f) a megállapodás személyi, tárgyi és pénzügyi feltételeit, valamint
+- g) közművelődési alapszolgáltatások biztosításában közreműködőktől megkívánt szakképzettséget.
 
-(3) A közművelődési megállapodást a helyben szokásos módon kell közzétenni.
+(3) A közművelődési megállapodást a települési önkormányzat honlapján vagy a helyben szokásos módon, valamint a közművelődési megállapodás alapján működtetett közösségi színtérben vagy közművelődési intézményben kell közzétenni.
 
-80. § A települési önkormányzat a rendeletében rögzített feladatai vagy egyéb feladatok ellátására pénzügyi támogatásban részesítheti a közművelődési célú tevékenységet folytatókat. E támogatás nem veszélyeztetheti a közművelődési rendeletben rögzített feladatok megvalósítását.
+(4) A közművelődési megállapodás alapján közművelődési intézményt vagy közösségi színteret működtető jogi vagy természetes személy köteles teljesíteni a közművelődési intézményt vagy közösségi színteret fenntartó önkormányzatok számára a 78/I. § (4) bekezdésében meghatározott kötelezettségeket.
 
-81. § (1) Az önkormányzati rendelet hatálya alá tartozó közművelődési intézmény létesítése, átszervezése, megszüntetése illetőleg tevékenységének 60 napon túli szüneteltetése esetén a testületi döntés meghozatala előtt 30 nappal a miniszter véleményét be kell szerezni és annak tartalmát a testülettel ismertetni kell.
+80. § A települési önkormányzat a közművelődési rendeletében rögzített feladatai vagy egyéb feladatok ellátására pénzügyi támogatásban részesítheti a közművelődési célú tevékenységet folytatókat. E támogatás nem veszélyeztetheti a közművelődési rendeletben rögzített feladatok megvalósítását.
 
-(2) A miniszter a megkereséstől számított 30 napon belül nyilváníthat véleményt.
+81. §
 
 ### A közművelődés helyi lakossági képviselete
 
-82. § A közművelődés helyi, lakossági képviselete érdekében településenként, fővárosi kerületenként legfeljebb hároméves időtartamra egy-egy Közművelődési Tanács (a továbbiakban: Tanács) alakítható. A Tanács elsődlegesen a lakossági igények megjelenítésének, a kulturális érdekérvényesítésnek és a közművelődési tevékenységek önkéntes összehangolásának rendszeres és folyamatos helyi fóruma.
+82. § A közművelődés helyi, lakossági képviselete érdekében településenként, fővárosi kerületenként legfeljebb hároméves időtartamra egy-egy Közművelődési Kerekasztal alakítható. A Közművelődési Kerekasztal elsődlegesen a lakossági igények megjelenítésének, a kulturális érdekérvényesítésnek és a közművelődési tevékenységek önkéntes összehangolásának rendszeres és folyamatos helyi fóruma.
 
-83. § (1) A Tanácsot azok a közművelődési célú egyesületek hozhatják létre, melyeknek bejegyzett székhelye az adott település, s amelyeknek legfelsőbb szerve írásos határozatban jelzi ez irányú szándékát.
+83. § (1) A Közművelődési Kerekasztalt azok a közművelődési célú egyesületek hozhatják létre, melyeknek bejegyzett székhelye az adott település, s amelyeknek legfelsőbb szerve írásos határozatban jelzi ez irányú szándékát.
 
-(2) A Tanács megalakítását célzó határozatokat a település jegyzőjéhez kell benyújtani, aki azokat a helyben szokásos módon teszi közzé. A közzétételtől számított 30 napon belül az (1) bekezdésben foglaltak szerint további szervezetek nyújthatják be a jegyzőhöz csatlakozási szándékot tartalmazó határozataikat.
+(2) A Közművelődési Kerekasztal megalakítását célzó határozatokat a település jegyzőjéhez kell benyújtani, aki azokat a helyben szokásos módon teszi közzé. A közzétételtől számított 30 napon belül az (1) bekezdésben foglaltak szerint további szervezetek nyújthatják be a jegyzőhöz csatlakozási szándékot tartalmazó határozataikat.
 
-(3) A 30 napos határidő lejárta után a jegyző írásban szólítja fel a (2) bekezdés szerinti határozatot benyújtó szervezeteket a Tanács megalakítására.
+(3) A 30 napos határidő lejárta után a jegyző írásban szólítja fel a (2) bekezdés szerinti határozatot benyújtó szervezeteket a Közművelődési Kerekasztal megalakítására.
 
-(4) A felszólítást követő 90 napon belül a határozatokat beküldő szervezetek mint alapító tagok kimondják a Tanács megalakulását, meghatározzák a Tanács szervezeti és működési rendjét, megválasztják képviselőiket. Az erre vonatkozó, az alapító tagok képviselőinek eredeti aláírásával ellátott határozatot benyújtják a jegyzőnek.
+(4) A felszólítást követő 90 napon belül a határozatokat beküldő szervezetek mint alapító tagok kimondják a Közművelődési Kerekasztal megalakulását, meghatározzák a Közművelődési Kerekasztal szervezeti és működési rendjét, megválasztják képviselőiket. Az erre vonatkozó, az alapító tagok képviselőinek eredeti aláírásával ellátott határozatot benyújtják a jegyzőnek.
 
-(5) A jegyző a Tanács működési idejének lejártát 30 nappal korábban, a helyben szokásos módon közzéteszi.
+(5) A jegyző a Közművelődési Kerekasztal működési idejének lejártát 30 nappal korábban, a helyben szokásos módon közzéteszi.
 
-(6) A Tanács tagja lehet minden jogi személyiséggel rendelkező, helyben működő közművelődési egyesület, valamint a helyi közművelődést támogató gazdasági vállalkozás képviselője.
+(6) A Közművelődési Kerekasztal tagja lehet minden jogi személyiséggel rendelkező, helyben működő közművelődési civil szervezet, valamint a helyi közművelődést támogató gazdasági vállalkozás képviselője.
 
-(7) Az (1) bekezdésben foglaltaknak megfelelő szervezetek csatlakozása a Tanácshoz nem utasítható el. Az alapító és csatlakozó tagok jogai egyenlők.
+(7) Az (1) bekezdésben foglaltaknak megfelelő szervezetek csatlakozása a Közművelődési Kerekasztalhoz nem utasítható el. Az alapító és csatlakozó tagok jogai egyenlők.
 
-(8) A Tanács
+(8) A Közművelődési Kerekasztal
 
-- a) véleményt nyilváníthat, illetőleg javaslatot tehet a település közművelődési tevékenységével kapcsolatos valamennyi kérdésben,
+- a) véleményt nyilváníthat, és javaslatot tehet a település közművelődési tevékenységével kapcsolatos valamennyi kérdésben,
 - b) az önkormányzat által közművelődési célra biztosított pénzügyi támogatás felhasználását és a vagyoni eszközök célszerű használatát a vonatkozó döntések, illetve az éves önkormányzati költségvetési tervezet és a zárszámadás alapján figyelemmel kíséri, véleményezi,
 - c) elősegíti a különböző közművelődési szervezetek együttműködését.
 
-(9) A Tanács ülései nyilvánosak és a működése során keletkezett dokumentumokba bárki betekinthet és azokról – másolási díj ellenében – másolatot kaphat.
+(9) A Közművelődési Kerekasztal ülései nyilvánosak és a működése során keletkezett dokumentumokba bárki betekinthet és azokról – másolási díj ellenében – másolatot kaphat.
 
-(10) A Tanács működési feltételeit tagjai biztosítják.
+(10) A Közművelődési Kerekasztal működési feltételeit tagjai biztosítják.
 
-(11) A jegyző a Tanács tagjaira, szervezeti és működési rendjére, illetve megszűnésére vonatkozó dokumentumokat
+(11) A jegyző a Közművelődési Kerekasztal tagjaira, szervezeti és működési rendjére, illetve megszűnésére vonatkozó dokumentumokat
 
 - a) a változás bejelentését követő 15 napon belül a helyben szokásos módon közzéteszi,
 - b) hivatali időn belül a település lakossága számára betekintésre rendelkezésre bocsátja.
+
+### A közművelődési rendelet
+
+83/A. § (1) A települési önkormányzat a helyi társadalom művelődési érdekeinek és kulturális szükségleteinek figyelembevételével, e törvény és a helyi lehetőségek, sajátosságok alapján – a Közművelődési Kerekasztallal és a települési nemzetiségi önkormányzattal való egyeztetést követően – rendeletben határozza meg az ellátandó közművelődési alapszolgáltatások körét, valamint feladatellátásának formáját, módját és mértékét.
+
+(2) A települési önkormányzat a közművelődési rendeletét a – Közművelődési Kerekasztallal és a települési nemzetiségi önkormányzattal való egyeztetés keretében – legalább ötévente felülvizsgálja.
+
+(3) A közművelődési rendeletet az önkormányzat a közösségi színtérben vagy a közművelődési intézményben közzéteszi.
 
 ### III. Fejezet — A közművelődési szakmai szolgáltatás
 
 ### A területi, fővárosi közművelődési szakmai szolgáltatás
 
-84. § (1) A települési önkormányzatok, a fővárosban a kerületi önkormányzatok, a nemzetiségi önkormányzatok, a közművelődési intézmények, szervezetek és közösségek részére, művelődési céljaik megvalósítása, közművelődési tevékenységük elősegítése és fejlesztése érdekében, a miniszter a megyék, a fővárosi önkormányzat a főváros területén (a továbbiakban együtt: területi szint) a közművelődési támogatások koordinálásában részt vevő, közművelődési szakmai szolgáltató szervezet működéséről gondoskodik.
+84. § (1) A települési önkormányzatok, a fővárosban a kerületi önkormányzatok, a nemzetiségi önkormányzatok, a közművelődési intézmények, szervezetek és közösségek részére művelődési céljaik megvalósítása, közművelődési tevékenységük elősegítése és fejlesztése érdekében a miniszter a megyék, a fővárosi önkormányzat a főváros területén (a továbbiakban együtt: területi szint) a közművelődési alapszolgáltatások szakmai támogatásának koordinálásában részt vevő, közművelődési szakmai szolgáltató szervezet működéséről gondoskodik.
 
 (2) A miniszter és a fővárosi önkormányzat számára az e törvény szerinti területi szintű közművelődési szakmai szolgáltatás megszervezése és működési feltételeinek biztosítása kötelező feladat.
 
@@ -945,9 +1042,10 @@ esetében.
 - d) a területi szintű amatőr művészeti, népművészeti, hagyományőrző tevékenységek megőrzésének és fejlesztésének, a népi iparművészet, az élethosszig tartó tanulás, a tanórán kívüli nevelés, a felnőttképzés, az ismeretterjesztés, a közösségfejlesztés, a honismereti, helytörténeti kutatás, az anyanyelvápolás, a kulturális turizmus, a népfőiskolai mozgalom szakmai támogatása,
 - e) közművelődési információs szolgáltatás nyújtása, tematikus adatbázisok létrehozása és működtetése, részvétel az országos információs adatbázis működtetésében és a közművelődési statisztikai adatgyűjtésben,
 - f) a területi szintű értéktárak összeállításának módszertani segítése, területi kulturális regiszter gondozása, az adott terület és a főváros szellemi, tárgyi, természeti kulturális örökségének, környezeti, művészeti, közművelődési sajátosságainak bemutatása, közreműködés digitális archívum működtetésében,
-- g) a közművelődési tevékenységek szervezőinek, vezetőinek szakmai képzése és továbbképzése, szakkiadványok megjelentetése.
+- g) a közművelődési tevékenységek szervezőinek, vezetőinek szakmai képzése és továbbképzése, szakkiadványok megjelentetése,
+- h) a közművelődési minőségirányítási tevékenység koordinálása, képzések szervezése, a Minősített Közművelődési Intézmény Cím és a Közművelődési Minőségi Díj adományozásának szakmai előkészítése.
 
-(2) A fővárosi közművelődési szakmai szolgáltató szervezet együttműködik az országos közművelődési szakmai szolgáltatást biztosító szervvel.
+(2) A fővárosi közművelődési szakmai szolgáltató szervezet együttműködik az országos közművelődési szakmai szolgáltatást biztosító szervezettel.
 
 86. § Budapest Főváros Önkormányzata a 85. § alapján rendeletben határozza meg:
 
@@ -956,9 +1054,24 @@ esetében.
 
 ### Az országos közművelődési szakmai szolgáltatás
 
-87. § Az országos szinten működő, a területi közművelődési támogatások koordinálásában is részt vevő közművelődési szakmai szolgáltató szerv a helyi közművelődési tevékenységek és a területi, fővárosi feladatok segítése, fejlesztése érdekében közművelődési szakmai szolgáltatást biztosít.
+87. § Az országos szinten működő, területi közművelődési szakmai szolgáltatásokat ellátó szervezet a közművelődési alapszolgáltatások segítése, fejlesztése és az egységes szakmai feladatellátás érdekében országos közművelődési szakmai szolgáltatást biztosít.
 
 87/A. § Az országos és a területi szintű közművelődési szakmai szolgáltató szervezet feladatait – közszolgáltatási szerződés keretei között, ha a jogszabályi feltételeknek egyebekben megfelel – államháztartáson kívüli szervezet is elláthatja, ha a feladat szerepel a létesítő okiratában.
+
+### III/A. Fejezet — A hagyományőrzéssel és a néphagyomány gondozásával kapcsolatos állami feladatok
+
+87/B. § A hagyományőrzéssel és a néphagyomány gondozásával kapcsolatos állami feladatok a következők:
+
+- a) a magyar néphagyományok, a hazai népművészet és népi iparművészet, a népi kultúra elemeinek megőrzése, életben tartása és élővé tétele, visszajuttatása a jelen és a jövő kulturális közegébe,
+- b) a magyar nyelvterület és a Kárpát-medence történetileg és szájhagyomány útján fennmaradt néphagyományának és népi iparművészeti hagyatékának felkutatása, értelmezése, rendszerezése, feldolgozása és hozzáférhetővé, élővé tétele, szolgáltatása, ennek érdekében közművelődési és közgyűjteményi feladatok ellátása,
+- c) a magyar nyelvterület és a Kárpát-medence néphagyományaira épülő művészeti tevékenység ellátása,
+- d) együttműködés a népművészeti ágak, a népi iparművészet és a néphagyomány gondozása területén a helyi, regionális és országos szervezetekkel,
+- e) népművészeti és népi iparművészeti alkotások minősítésével, minősítő címek adományozásával kapcsolatos hatósági feladatok ellátása, ennek keretében hatósági nyilvántartás vezetése és a minősítő címekről szóló hatósági igazolvány kiállítása,
+- f) a néphagyomány gondozása és a hagyományőrzés érdekében kifejtett tevékenységek támogatása, a népművészet, a népi iparművészet és a néphagyomány minőségbiztosítási rendszereinek működtetése,
+- g) a hagyományőrzés, a néphagyomány gondozása területein szakmai képzési és továbbképzési feladatok ellátása, ennek érdekében a képzések kidolgozása, akkreditáltatása és megszervezése a Kárpát-medencében, valamint szakkiadványok megjelentetése,
+- h) a népi hagyományaink iránti bel- és külföldi figyelem felébresztése, fenntartása, a magyar és a Kárpát-medencei népművészet, népi iparművészet és a néphagyomány tárgyi és szellemi értékeinek népszerűsítése, országos, regionális, nemzetközi rendezvények szervezése,
+- i) az élő és újraéleszthető néphagyomány, a hagyományőrzés, a népművészet és a népi iparművészet állami támogatásának koordinálása, a helyi élő néphagyományt érintő tevékenységek feltárásához, gyakorlásához, fejlesztéséhez komplex szakmai szolgáltatás biztosítása,
+- j) a fenti célok érdekében megyei és Kárpát-medencei hálózatok, kirendeltségek működtetése.
 
 ### IV. Fejezet — A miniszter közművelődési ágazati irányítóhatásköre
 
@@ -966,10 +1079,10 @@ esetében.
 
 - a) az e törvényben foglaltak szerint közreműködik a művelődéshez való jogok biztosításában,
 - b) kiadja a közművelődési feladatellátás biztosításához szükséges szakmai irányelveket, állásfoglalásokat,
-- c) kiadja a közép- és felsőfokú szakmai képzés, minősített szakmai továbbképzés követelményeit,
+- c) kiadja a közművelődési szakképesítések szakmai és vizsgakövetelményeit, a minősített szakmai továbbképzés követelményeit,
 - d) rendeletben határozza meg az egyes közművelődési munkakörök betöltéséhez szükséges képesítési feltételeket,
 - e) véleményezési jogot gyakorol a települési önkormányzatok közművelődési intézményeinek létesítése, átszervezése, szüneteltetése, megszüntetése esetén,
-- f)
+- f) kormányrendeletben kijelölt szerv útján ellátja a hagyományőrzéssel és a néphagyomány gondozásával kapcsolatos állami feladatokat,
 - g) meghatározza a közművelődési statisztikai adatszolgáltatás tartalmát és rendjét,
 - h) gondoskodik az országos és területi közművelődési szakmai szolgáltatási feladatok ellátásáról,
 - i) a szakfelügyelet keretében közművelődési szakértő bevonásával ellenőrzi e törvény előírásainak, a közművelődési intézmények tevékenységére vonatkozó egyéb jogszabályoknak, szakmai követelményeknek a betartását és a központi támogatások felhasználását.
@@ -987,13 +1100,15 @@ esetében.
 - c) a Tudományos Ismeretterjesztő Társulat, Területi Művelődési Intézmények Egyesülete és a népfőiskolai mozgalmak működési támogatását,
 - d)
 
-(2) A helyi önkormányzatokért felelős miniszter érdekeltségnövelő pályázatok útján gondoskodik az önkormányzati közművelődési feladatellátást szolgáló technikai, műszaki fejlesztésre.
+(2) Az államháztartásért felelős miniszter érdekeltségnövelő pályázat útján gondoskodik az önkormányzat közművelődési feladatellátást szolgáló technikai, műszaki eszközök fejlesztéséről, berendezési tárgyak gyarapításáról, épületek karbantartásáról és felújításáról.
 
 ## V. RÉSZ — A muzeális intézményekkel és a levéltárakkal, a nyilvános könyvtári ellátással, a közművelődéssel kapcsolatos közös szabályok, központi költségvetési források
 
-91/A. § (1) A tizenötezer fő alatti lakosságszámú településeken – a feladatellátás veszélyeztetése nélkül – a települési önkormányzat a muzeális intézményekkel, a nyilvános könyvtári ellátás biztosításával és a közművelődés támogatásával összefüggő feladatait közös szervezetben láthatja el.
+91/A. § (1) A tizenötezer fő alatti lakosságszámú településen – a feladatellátás veszélyeztetése nélkül – a települési önkormányzat a muzeális intézményekkel, a nyilvános könyvtári ellátás biztosításával, illetve a közművelődési alapszolgáltatások hozzáférhetőségének biztosításával összefüggő feladatait közös szervezetben (a továbbiakban: integrált kulturális intézmény) láthatja el.
 
-(2) A megyei hatókörű városi múzeumok és a megyei könyvtárak által végzett, e törvényben meghatározott állami feladatok támogatásának összegét a központi költségvetésről szóló törvény határozza meg.
+(2) A megyei hatókörű városi hatókörű városi múzeumok és a megyei hatókörű városi könyvtárak által végzett, e törvényben meghatározott állami feladatok támogatásának összegét a központi költségvetésről szóló törvény határozza meg.
+
+91/B. § A kulturális alapellátás kiterjesztésének az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott prioritási rend és szempontrendszer mentén történő megvalósítása tárgyévi támogatási összegét a központi költségvetési törvény határozza meg.
 
 92. § (1) A közművelődési és közgyűjteményi szakterületek feladatellátásához az állami, önkormányzati felelősségvállalás közérdekű jellegéből fakadóan e törvény és az Ltv. által előírt kötelezettségek teljesítéséhez a központi költségvetés hozzájárul.
 
@@ -1016,9 +1131,9 @@ esetében.
 
 (4) Az e törvény hatálya alá tartozó intézményekben foglalkoztatott szakemberek szakmai tudásuk megújítása érdekében továbbképzésben és szervezett képzésben vehetnek részt. A miniszter rendeletben szabályozza a továbbképzésnek és szervezett képzésnek minősülő képzési formák körét, valamint – az adópolitikáért felelős miniszterrel egyetértésben – a fizetendő igazgatási szolgáltatási díjak körét és azok mértékét. Az e törvény hatálya alá tartozó intézményekben foglalkoztatott szakemberek továbbképzésben és szervezett képzésben való részvételéhez támogatás nyújtható.
 
-(5) A megyei hatókörű városi múzeum támogatása terhére biztosítani kell intézményenként legalább egy fő, szakmai munkakörben foglalkoztatott múzeumi szakember szakmai továbbképzését.
+(5) A megyei hatókörű városi múzeum állami támogatása terhére évente biztosítani kell intézményenként legalább egy fő, szakmai munkakörben foglalkoztatott múzeumi szakember alaptevékenységnek megfelelő szakmai továbbképzését.
 
-(5a) A megyei könyvtár és a Fővárosi Szabó Ervin Könyvtár támogatása terhére biztosítani kell intézményenként legalább egy fő, szakmai munkakörben foglalkoztatott könyvtáros szakember szakmai továbbképzését.
+(5a) A megyei hatókörű városi könyvtár és a Fővárosi Szabó Ervin Könyvtár állami támogatása terhére évente biztosítani kell intézményenként legalább egy fő, szakmai munkakörben foglalkoztatott könyvtáros szakember alaptevékenységnek megfelelő szakmai továbbképzését.
 
 (6) Az e törvény hatálya alá tartozó intézményekben, szakmai munkakörökben foglalkoztatott, felsőfokú végzettségű munkavállalót kötelező bérpótlék illeti meg, ha tudományos, illetve kutatói munkakörben foglalkoztatják, továbbá ha tudományos fokozattal rendelkezik. Ennek mértéke a pótlékalap 50%-a.
 
@@ -1062,7 +1177,7 @@ vehető figyelembe.
 
 kapcsolatos szakmai mutatók alapján készíti el.
 
-(10) Az országos szakkönyvtár és a megyei könyvtár éves munkatervét
+(10) Az országos szakkönyvtár és a megyei hatókörű városi könyvtár éves munkatervét
 
 - a) a szolgáltatási feladatokkal,
 - b) a gyűjteményfejlesztéssel,
@@ -1106,7 +1221,7 @@ kapcsolatos szakmai mutatók alapján készíti el.
 
 (3) A 37/A. §-ban és a 42. §-ban foglaltakat a miniszter 2013. április 1-jétől ellenőrzi a szakfelügyelet útján.
 
-(4) Az egyes kulturális tárgyú törvények módosításáról szóló 2013. évi CCXVII. törvénnyel megállapított 54. § (1) bekezdés b) pontjában előírt felsőfokú szakirányú végzettség követelményét 2017. január 1-jétől kell alkalmazni.
+(4)
 
 (5)–(7)
 
@@ -1123,7 +1238,7 @@ kapcsolatos szakmai mutatók alapján készíti el.
 - a) a könyvtári intézet kijelölését,
 - b) a muzeális intézmények látogatóit és a könyvtárhasználókat megillető kedvezményeket,
 - c) a muzeális intézményben folytatható kutatást,
-- d) a műkereskedelemmel kapcsolatos kérdéseket,
+- d) a nemzetiségi bázisintézmény cím adományozásának részletes szabályait,
 - e) a nyilvános könyvtárak jegyzékének vezetését,
 - f) az országos dokumentumellátási rendszer működését,
 - g) a nyilvános könyvtári ellátás rendszerének központi szolgáltatásait és a könyvtáraknak nyújtott szakmai szolgáltatásokat,
@@ -1140,10 +1255,10 @@ kapcsolatos szakmai mutatók alapján készíti el.
 (3) Felhatalmazást kap a miniszter, hogy rendeletben szabályozza
 
 - a) a közművelődési intézmények és szervezetek, a könyvtárak és könyvtári tevékenységet folytató szervezetek, a muzeális intézmények és a levéltárak minősítési eljárását, a szakmai minősítő testület létrehozását és működését, a minősítési eljárásban szakértőként való közreműködés feltételeit, a minősítési eljárás során kiadható minősítést és a minőségi díjat, a minősítési eljárásért fizetendő díjra vonatkozó szabályokat és a befolyt összeg felhasználásának szabályait,
-- b) a múzeum, valamint az országos szakkönyvtár és a megyei könyvtár éves munkatervéhez szükséges szakmai mutatókat,
-- c) a közművelődési intézmények működésének szakmai, személyi és infrastrukturális feltételeit,
+- b) a múzeum, valamint az országos szakkönyvtár és a megyei hatókörű városi könyvtár éves munkatervéhez szükséges szakmai mutatókat,
+- c) a közművelődési alapszolgáltatások szakmai, személyi és infrastrukturális követelményeit, továbbá a közművelődési intézmények és közösségi színterek szakmai, működési, személyi és infrastrukturális követelményeit,
 - d) a muzeális intézmények működési engedélyének kiadására, módosítására és visszavonására irányuló kérelem (a továbbiakban együtt: kérelem) benyújtásának feltételeit, a kérelem elbírálásának eljárásrendjét, a kérelem és a működési engedély adattartalmát, a kérelemhez csatolandó mellékletek körét, a működési engedély visszavonása esetén követendő eljárást, továbbá a muzeális intézmény elnevezésével kapcsolatos kérdéseket,
-- e)
+- e) a kulturális alapellátás kiterjesztésének prioritási rendjét és szempontrendszerét,
 - f) a muzeális intézményekben őrzött kulturális javak papíralapú és elektronikus nyilvántartásának szabályait, valamint az elektronikus nyilvántartásra történő átállás feltételeit és eljárásrendjét,
 - g) a muzeális intézmények tevékenységével összefüggő szakmai követelményeket,
 - h) a múzeumi letét létrejöttére, a letéti szerződés tartalmi elemeire és megszűnésére, a letett kulturális javak kezelésére, valamint a letéti díj és a letéttel összefüggő költségek megállapítására vonatkozó részletes szabályokat,
@@ -1151,14 +1266,14 @@ kapcsolatos szakmai mutatók alapján készíti el.
 - j) a kulturális örökség közgyűjteményekben őrzött javai sokszorosításának, másolásának, adatrögzítésének és adatfelhasználásának jogát,
 - k) a muzeális intézményben őrzött kulturális javak elidegenítésére, cseréjére és kölcsönzésére, valamint a muzeális intézmény alapleltárában szereplő, állami tulajdonban lévő kulturális javak őrzési vagy bemutatási helyének kijelölésére vonatkozó részletes szabályokat,
 - l) a muzeális intézményekre, továbbá a könyvtárakra vonatkozó szakfelügyelet rendjét,
-- m) a különböző típusú könyvtárak működését, továbbá a városi könyvtárak és a települési nyilvános könyvtárak szakmai követelményeit,
+- m) a különböző típusú könyvtárak működését, a városi könyvtárak és a települési nyilvános könyvtárak szakmai követelményeit, továbbá a megyei hatókörű városi könyvtárak települési könyvtárak fejlesztésével kapcsolatos koordinációs feladatainak ellátását és a települési könyvtárak és fenntartóik ezzel kapcsolatos kötelezettségeit,
 - n) a Könyvtárellátási Szolgáltató Rendszer működését,
 - o) a könyvtárak szervezeti és működési szabályzatának kötelező tartalmát,
 - p) a könyvtári dokumentumellátást,
-- q) a beiratkozási díjra és a könytári szolgáltatások térítési díjára vonatkozó szabályokat,
+- q)
 - r) az e törvény szerinti szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szakértők igénybevételének eseteit, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 - s) a muzeális intézményben, a könyvtárban, valamint a közművelődési intézményben nem közalkalmazotti jogviszonyban foglalkoztatottak munkaköreinek betöltéséhez szükséges képesítési feltételeket,
-- t) az összevont önkormányzati intézmények működését,
+- t) az integrált kulturális intézmény működését,
 - u) az önkormányzatok érdekeltségnövelő támogatását,
 - v) a közművelődési és közgyűjteményi feladatfinanszírozás és a közművelődési és közgyűjteményi telematikai feladatfinanszírozás minisztérium fejezeti kezelésű címe felhasználását,
 - w) a közép- és felsőfokú közművelődési továbbképzés, a minősített szakmai továbbképzés és a szervezett képzés rendszerét és követelményeit,
@@ -1177,7 +1292,7 @@ kapcsolatos szakmai mutatók alapján készíti el.
 (6) Felhatalmazást kap a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben szabályozza
 
 - a) a szakmai továbbképzési és szervezett képzési programokkal összefüggő és
-- b) a népi iparművészeti alkotások és a Népi Iparművész minősítésért fizetendő igazgatási szolgáltatási díjak körét, mértékét, befizetésének szabályait, a befolyt összeg kezelését, nyilvántartását, elszámolását, felhasználását.
+- b) igazgatási szolgáltatási díjak körét, mértékét, befizetésének szabályait, a befolyt összeg kezelését, nyilvántartását, elszámolását, felhasználását.
 
 101. §
 
@@ -1203,6 +1318,8 @@ b) Archiválás: a könyvtár gyűjtőköri szabályzatában meghatározott kön
 
 c) Elektronikus dokumentum: a csak számítógéppel olvasható dokumentum.
 
+cs) Stratégiai terv: A múzeumok stratégiai feladatait megalapozó írott dokumentum, amely az e törvényben meghatározott feladatok teljesítése érdekében – a múzeumi küldetésnyilatkozatban foglaltakhoz illeszkedve – elemzi a múzeum társadalmi és gazdasági környezetét, valamint három-éves időtávban meghatározza a gyűjteménygyarapítás és a kulturális javakhoz való hozzáférés terén elérni kívánt stratégiai célokat, rögzíti a stratégiai célokhoz kapcsolódó intézkedéseket és számszerűsítve is meghatározza az elérni kívánt célok tervezett célértékeit, valamint a megvalósítás személyi, tárgyi és költségvetési feltételrendszerét.
+
 d) Hungarikum: a Magyarország mindenkori területén megjelent minden, továbbá a külföldön magyar nyelven, magyar szerzőtől, illetőleg magyar vonatkozású tartalommal keletkezett valamennyi dokumentum, függetlenül attól, hogy nyilvánosságra hozták-e vagy sem.
 
 e) Kép-, illetve hangarchívum: hangok vagy képek, illetve ezek összekapcsolódó – zárt egységet alkotó, vagy önálló részekből zárt egységbe szerkesztett – együtteséből álló dokumentumok gyűjteménye.
@@ -1210,6 +1327,8 @@ e) Kép-, illetve hangarchívum: hangok vagy képek, illetve ezek összekapcsol�
 f) Könyvtár: az e törvényben meghatározott könyvtári dokumentumok rendszeres gyűjtését, feltárását, megőrzését és használatát biztosító szervezet.
 
 g) Könyvtárhasználati jog: a könyvtárak szolgáltatásainak igénybevételére vonatkozó jog.
+
+gy) Állományvédelmi terv: A múzeumok állományvédelmi tevékenységét megalapozó írott dokumentum, amely – az e törvényben meghatározott feladatok teljesítése és a kulturális javak állapotromlásának megelőzése érdekében – elemzi az intézmény kiállításainak és raktárainak állományvédelmi helyzetét, valamint erre építve rögzíti a megfelelő műtárgykörnyezet biztosítására, a múzeumban őrzött kulturális javak jó állapotának fenntartására, továbbá a természetes állapotromlás megelőzésére és csökkentésére irányuló feladatokat és célokat.
 
 h) Könyvtárhasználó: a könyvtár szolgáltatásait igénybe vevő személy vagy szervezet.
 
@@ -1233,23 +1352,23 @@ n) Könyvtárközi kölcsönzés: valamely dokumentum szolgáltatása egyik kön
 
 o) Közgyűjtemény: az állam, a helyi önkormányzat, valamint a nemzetiségi önkormányzat, a köztestület és a közalapítvány tulajdonában (fenntartásában) működő, vagy általuk alapított könyvtár, levéltár, muzeális intézmény, kép-, illetve hangarchívumok.
 
-p) Közművelődési intézmény: a lakosság közösségi közművelődési tevékenységéhez erre a célra alapított, fenntartott, működtetett, megfelelő szakmai, személyi, infrastrukturális feltételekkel és alapító okirattal rendelkező költségvetési szerv vagy egyéb fenntartású intézmény.
+p) Gyűjteménygyarapítási és revíziós terv: A múzeumok gyűjteménygyarapítási tevékenységét megalapozó írott dokumentum, amely az e törvényben meghatározott feladatok teljesítése érdekében – a gyűjtőkörökhöz illeszkedve – bemutatja a múzeumi gyűjteményben őrzött kulturális javak jellegét, nyilvántartását és a hasznosítás céljait, valamint rögzíti a kulturális javak tervezett gyarapításának céljait és prioritásait, hosszú távú tárolásának feltételeit, a selejtezéssel és revízióval kapcsolatos feladatokat, továbbá a gyűjteménygyarapításra vonatkozó jogi és etikai elvárásokat.
 
 q) Közművelődési szakember: a felsőfokú végzettségű népművelő (művelődésszervező, kulturális menedzser), valamint az e törvényben meghatározott közművelődési feladatok ellátásához szükséges felsőfokú végzettséggel vagy felső-, illetve középfokú szakképesítéssel rendelkező személy.
 
 r) Közművelődési tevékenység: a polgárok iskolán kívüli, öntevékeny, önművelő, megismerő, kultúraelsajátító, művelődő és alkotó célú cselekvése, amely jellemzően együttműködésben, közösségekben valósul meg.
 
-s) Közösségi színtér: a helyi lakosság rendszeres vagy alkalmi közművelődési tevékenységének, a lakosság önszerveződő közösségeinek támogatása érdekében önkormányzati fenntartásban, önkormányzatok társulásában, vagy közművelődési megállapodás alapján működtetett, erre a célra alkalmassá tett és üzemeltetett, adott helyen rendszeresen működő intézmény vagy egyéb jogállású létesítmény (helyiségegyüttes, épület).
+s) Népművészet: valamely népművészeti ág (népköltészet, népzene, néptánc, díszítőművészet, népviselet, tárgyalkotó hagyományok) körébe tartozó olyan tudás, alkotás vagy kifejezési mód, amelyet a nép elsősorban a maga szükségletére hoz létre saját több nemzedéken átívelő hagyományai alapján.
 
 sz) Kulturális javak: az élettelen és élő természet keletkezésének, fejlődésének, az emberiség, a magyar nemzet, Magyarország történelmének kiemelkedő és jellemző tárgyi, képi, hangrögzített, írásos emlékei, és egyéb bizonyítékai – az ingatlanok kivételével –, a művészeti alkotások.
 
 t) Múzeumi küldetésnyilatkozat: a múzeumok szakmai tevékenységét megalapozó írott dokumentum, amely az e törvényben meghatározott feladatok teljesítése érdekében a gyűjtemények, valamint a szakmai és tárgyi infrastruktúra alapján rögzíti a múzeum belső és külső adottságait, továbbá ennek alapján kijelöli helyi társadalmi szerepvállalásának stratégiai céljait.
 
-u) Művelődési szervezet: minden olyan jogi személyiséggel rendelkező települési, megyei, regionális, országos szervezet (például népfőiskola), amely alapító okirata szerint e törvény 76. §-ában felsorolt közművelődési feladatokból egy vagy több tevékenység megvalósítására jött létre.
+u) Népi iparművészet: a népművészeti tárgyi örökség tudatos, esetenként szervezett és irányított keretekben megvalósult továbbélése, a kreatív iparban is megjelenő, a népi hagyományokon alapuló stílusjegyeket hordozó művészeti alkotások.
 
 v) Művelődő közösség: a művelődési érdeklődési kör és az önképző, társas tevékenység szerint elkülönülő – jogi személyiség nélküli – lakossági csoport.
 
-w) Népfőiskola: olyan felnőttoktatási célú tanfolyamokat szervező, helyi önszerveződés alapján létrejött szervezet, amelynek pedagógiai programja a szakismeretek átadásán túl személyiségfejlesztő (állampolgári, közéleti) elemet is tartalmaz, s melyek lebonyolítási, oktatási rendszerét, módszereit a résztvevők maguk is alakíthatják.
+w) Néphagyomány: népi kultúránk és hagyományaink, szellemi és tárgyi örökségünk ma is élő, újraélhető, szervesen fejlődő elemeinek az összessége, ideértve a népi kultúra újjászületését támogató tevékenységeket is.
 
 x) Nyilvános könyvtári ellátás: a nyilvános könyvtárak által nyújtott szolgáltatások és az e szolgáltatások nyújtását elősegítő központi szolgáltatások összessége, amelyek biztosítják az információhoz való szabad hozzáférést.
 
