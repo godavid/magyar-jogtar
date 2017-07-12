@@ -199,6 +199,8 @@ kerülhet sor.
 
 (3) A gyermekjogi képviselő jogosult a gyermekjóléti, illetve gyermekvédelmi szolgáltató tevékenységet végző működési területén tájékoztatást, iratokat, információkat kérni és a helyszínen tájékozódni. A gyermekjogi képviselő köteles a gyermek személyes adatait az adatvédelmi jogszabályoknak megfelelően kezelni.
 
+(3a) A gyermekjogi képviselő jogosult az általa kezdeményezett időpontban a gyermekkel személyesen, a gyermekjóléti és gyermekvédelmi szolgáltató vezetőjének, illetve munkatársának – ideértve a nevelőszülőt is – jelenléte nélkül találkozni. A gyermek gondozási helyének biztosítania kell a gyermek és a gyermekjogi képviselő zavartalan kapcsolattartásának körülményeit.
+
 (4) A gyermekjogi képviselőt a miniszter által vezetett minisztérium (a továbbiakban: minisztérium) foglalkoztatja. A gyermekjogi képviselő jogállására és eljárására vonatkozó részletes szabályokat külön jogszabály rendezi.
 
 (5) A gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet végző biztosítja, hogy a gyermek és hozzátartozói a gyermekjogi képviselő személyét és a vele való kapcsolat felvételének módját megismerhessék.
@@ -859,7 +861,7 @@ kell kifizetni.
 - d) az ellátás megszűnésének eseteit és módjait,
 - e) a fizetendő térítési díjak mértékét, csökkentésének és elengedésének eseteit, módjait.
 
-(3) Ha önkormányzati társulás gyermekjóléti, gyermekvédelmi ellátást nyújt, akkor a társulási megállapodásban megjelölt székhely szerinti települési önkormányzat – a társulási megállapodásban meghatározottak szerint – a nyújtott ellátásokról, azok igénybevételéről és a fizetendő térítési díjakról rendeletet alkot.
+(3) Ha önkormányzati társulás gyermekjóléti, gyermekvédelmi ellátást nyújt, akkor a társulási megállapodásban megjelölt székhely szerinti vagy az erre kijelölt települési önkormányzat – a társulási megállapodásban meghatározottak szerint – a nyújtott ellátásokról, azok igénybevételéről és a fizetendő térítési díjakról rendeletet alkot.
 
 30. § (1) Egy szolgáltatónak, intézménynek, hálózatnak egy fenntartója van.
 
@@ -1417,7 +1419,7 @@ feltéve, ha a működtető rendelkezik az ehhez szükséges – jogszabályban 
 
 51. § (1) Az otthontalanná vált szülő kérelmére a családok átmeneti otthonában együttesen helyezhető el a gyermek és szülője, valamint legfeljebb 21. életévének betöltéséig vagy – ha köznevelési, felsőoktatási vagy felnőttképzési intézménnyel, szolgáltatóval tanulói, hallgatói vagy felnőttképzési jogviszonyban áll –, legfeljebb 24. életévének betöltéséig a gyermek nagykorú testvére, feltéve, hogy elhelyezés hiányában lakhatásuk nem lenne biztosított, és a gyermeket emiatt el kellene választani szülőjétől, családjától. A nagykorú testvér tanulói, hallgatói vagy felnőttképzési jogviszonyának fennállását félévente igazolni kell.
 
-(2) A családok átmeneti otthona legalább tizenkettő, de legfeljebb negyven felnőtt és gyermek együttes ellátását biztosítja. A családok átmeneti otthona működtethető telephelyenként legfeljebb tizenkét férőhelyes lakásban vagy családi házban. A telephelyek összférőhelyszáma nem haladhatja meg a székhely szerinti intézmény összes férőhelyeinek kétszeresét.
+(2) A családok átmeneti otthona legalább tizenkettő, de legfeljebb negyven felnőtt és gyermek együttes ellátását biztosítja. A családok átmeneti otthona működtethető telephelyenként legfeljebb tizenegy férőhelyes lakásban vagy családi házban. A telephelyek összférőhelyszáma nem haladhatja meg a székhely szerinti intézmény összes férőhelyeinek kétszeresét.
 
 (3) A családok átmeneti otthona a felnőtt és a gyermek együttes ellátása során
 
@@ -2725,6 +2727,8 @@ korlátozhatja a gyermek személyes szabadságát.
 - i) a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló miniszteri rendeletben meghatározottak szerint részt vesz a gyermek egyéni gondozási-nevelési tervének elkészítésében,
 - j) együttműködik a gyermek megelőző pártfogó felügyelőjével és a gyermek gondozási helyével a bűnismétlés megelőzése érdekében, ha a gyámhatóság fenntartotta az ideiglenes hatállyal elhelyezett vagy nevelésbe vett gyermek megelőző pártfogását.
 
+(1a) A gyermekvédelmi gyám jogosult az általa kezdeményezett időpontban a gyermekkel személyesen, a gyermekvédelmi szolgáltató vezetőjének, illetve munkatársának – ideértve a nevelőszülőt is – jelenléte nélkül találkozni. A gyermekvédelmi gyám az időpont megválasztásakor figyelemmel van a gyermek kötelező elfoglaltságára. A gyermek gondozási helyének biztosítania kell a gyermek és a gyermekvédelmi gyám zavartalan kapcsolattartásának körülményeit.
+
 (2) Ha a gyermekvédelmi gyám mellett a gyámhatóság egyes gyámi feladatok ellátására gyámként kirendeli a nevelőszülőt, a gyermekvédelmi gyám és a nevelőszülő köteles egymással együttműködni.
 
 (3) A gyámot a gyermek elhelyezésének joga nem illeti meg, és a gyermek 80/B. § (5) bekezdés b) és c) pontja szerinti tartózkodási helyét csak a gyámhatóság engedélyével változtathatja meg, kivéve a 80/B. § (3) bekezdésében foglalt esetet.
@@ -4006,11 +4010,12 @@ a gyermekjóléti szolgáltatások területi lefedettségét figyelembe vevő, k
 (2b) A központi költségvetésről szóló törvényben biztosított támogatás befogadás nélkül is jár, ha
 
 - a) a változás a szolgáltatói nyilvántartásban bejegyzett adatok módosítását nem teszi szükségessé, vagy
-- b) a szolgáltatói nyilvántartásban bejegyzett adatok módosítását kizárólag fenntartóváltás teszi szükségessé.
+- b) a szolgáltatói nyilvántartásban bejegyzett adatok módosítását kizárólag fenntartóváltás teszi szükségessé,
+- c) a szolgáltatás, intézmény, hálózat, férőhelyszám az államháztartásról szóló 2011. évi CXCV. törvény 14. § (3) bekezdése szerinti fejezetből finanszírozott.
 
 (2c) A rendelkezésre álló kapacitástól függetlenül be kell fogadni
 
-- a) az önkormányzati kötelező feladatot ellátó állami fenntartót,
+- a) a bölcsődei ellátásra a megszervezésére köteles települési önkormányzattal kötött ellátási szerződéssel rendelkező nem állami, egyházi fenntartót.
 - b) azt a szolgáltatást, intézményt, hálózatot, férőhelyszámot, amelynek létrehozására vagy kapacitásbővítéssel járó fejlesztésére a fenntartó, a szolgáltató vagy az intézmény pályázati úton elnyert európai uniós támogatásban, a Svájci Alap, az EGT Alap, a Norvég Alap támogatásában, vagy költségvetési támogatásban részesül,
 - c) azt a szolgáltatói nyilvántartásba a kérelem benyújtását megelőzően is jogerősen bejegyzett szolgáltatást, intézményt, hálózatot, férőhelyszámot, amely esetében a szolgáltatói nyilvántartásban bejegyzett adatok módosítását kizárólag költségvetési többletkiadást nem eredményező
   - ca) szétválás vagy egyesítés,
@@ -4582,7 +4587,15 @@ módosítja.
 
 182. § A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény és egyéb törvények módosításáról szóló 2016. évi CLXVII. törvénnyel megállapított 62/C. § (3)–(3b) bekezdését a 2016. december 31-ét követően engedélyezett örökbefogadások esetén kell alkalmazni.
 
-183–188. §
+183. §
+
+184. § (1) Ha a családok átmeneti otthonának fenntartója az 51. § (2) bekezdés 2017. november 15-én hatályos második mondatában foglaltak szerint legfeljebb tizenegy férőhelyes lakásban vagy családi házban – a szolgáltatói nyilvántartásba 2017. november 15-én bejegyzett – telephelyet működtet, 2017. november 30-áig kérelmezheti, hogy e telephelye 2018. január 1-jétől ne külső férőhelyként, hanem – kormányrendeletben foglaltak szerint – valamely általa fenntartott, a szolgáltatói nyilvántartásba székhelyként vagy telephelyként bejegyzett családok átmeneti otthonának részeként legyen bejegyezve. Az e bekezdés alapján bejegyzett férőhelyekre a 2018. január 1-jén hatályos 51. § (2) bekezdése szerinti férőhelykorlát nem vonatkozik.
+
+(2) Ha a fenntartó az (1) bekezdésben meghatározott határidőt elmulasztja, vagy az 51. § (2) bekezdés 2017. november 15-én hatályos második mondata szerinti telephelyet 2017. november 15-ét követően jegyezték be a szolgáltatói nyilvántartásba, a legfeljebb tizenegy férőhelyes lakásban vagy családi házban működtetett férőhelyeket hivatalból külső férőhelyként kell bejegyezni a szolgáltatói nyilvántartásba.
+
+(3) Az (1), illetve (2) bekezdés szerinti adatmódosítással egyidejűleg az 51. § (2) bekezdés 2017. november 15-én hatályos második mondata szerinti telephelyet 2017. december 31-ével hivatalból törölni kell a szolgáltatói nyilvántartásból.
+
+185–188. §
 
 189. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
